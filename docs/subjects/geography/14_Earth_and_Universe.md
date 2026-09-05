@@ -8,26 +8,26 @@
 Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motions of Earth | Latitude | Longitude | Time | Time Zones | IDL | Atmosphere | Weather & Climate | Global Warming | El Niño | Coriolis | Jet Stream | Pressure Belts | Planetary Winds | ITCZ | Interior of the Earth | Continental Drift | Plate Tectonics | Fold & Fault Mountains | Volcano Types | Earthquake & Volcano Belts
 </details>
 
-> **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti physical geography notes, IMD/NASA framing, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — ozone layer, El Niño plankton trap, Coriolis SH, jets westerly, Ring of Fire, GHG; teach full earth-system map  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti physical geography notes, IMD/NASA framing, UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — ozone layer, El Niño plankton trap, Coriolis SH, jets westerly, Ring of Fire, GHG; teach full earth-system map
+> **Last verified:** August 2026
 > **Current Affairs:** Aditya-L1 (solar); Mangalyaan = first Indian Mars orbiter; Montreal vs Kyoto; El Niño–monsoon
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Big Bang awareness is linked to **Gamow** (~13.8 billion years) and Hubble’s expanding universe. Steady State is linked to **Hoyle**. Nebular hypothesis is **Kant–Laplace**. The Milky Way is a **spiral** galaxy.
 2. Solar-system order mnemonic is **MVEMJSUN**. **Venus** is the hottest planet (greenhouse). **Jupiter** is the largest. **Saturn** has the clearest ring system. **Mercury** has the fastest orbit.
 3. The asteroid belt lies between **Mars and Jupiter**. The largest moon is **Ganymede** (Jupiter). Titan belongs to Saturn; Phobos and Deimos belong to Mars.
-4. In one UPPCS framing, Saturn’s atmosphere lock is **methane**. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). **Mangalyaan** was India’s first Mars orbiter.
+4. In one UPPCS framing, Saturn’s atmosphere fact is **methane**. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). **Mangalyaan** was India’s first Mars orbiter.
 5. A **solar eclipse** occurs at **New Moon**. A **lunar eclipse** occurs at **Full Moon**. Sunlight takes about **8 minutes 20 seconds** to reach Earth.
 6. Earth **rotates** in about **24 hours** (day–night) and **revolves** in about **365¼ days** (year / leap year). **Perihelion** is about **3 January**; **aphelion** about **4 July**.
 7. Seasons are caused by the **23½° axial tilt**, not by perihelion distance. Equinoxes are about **21 March / 23 September**; solstices about **21 June / 22 December**.
 8. One degree of latitude is about **111 km**. Tropics sit at **23½°**; polar circles at **66½°**. Time zones use roughly **15° = 1 hour**.
 9. India’s Standard Time is based on **82°30′ E** near **Mirzapur** and is **GMT + 5 hours 30 minutes** for the whole country. The International Date Line is near **180°** (zigzag); the west side is a day ahead.
 10. Atmosphere layers: **troposphere** holds weather; **stratosphere** holds the **ozone** UV shield; mesosphere is coldest; thermosphere / ionosphere lie above.
-11. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Same-latitude Agra vs Darjeeling temperature contrast is an **altitude** lock.
+11. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Same-latitude Agra vs Darjeeling temperature contrast is an **altitude** fact.
 12. Diffusion / scattering of light is linked to **dust** in one Prelims framing. **Weather** is short-term; **climate** is the long-term average.
 13. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Argon is not** a greenhouse gas. **Kyoto** deals with climate / carbon; **Montreal** deals with ozone.
 14. **El Niño** is a warm eastern Pacific / Peru current phase with **less upwelling**, so **plankton and fish fall**. It can disturb the Indian monsoon.
@@ -40,7 +40,7 @@ Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motion
 21. **Wegener (1912)** proposed continental drift with **Pangaea** and **Panthalassa**. Plate margins are divergent, convergent or transform.
 22. **Fold mountains** include the Himalaya, Alps, Andes and Rockies. **Fault / block mountains** include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
 23. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan**), caldera (**Krakatoa**). **Stromboli** is the “lighthouse of the Mediterranean.” **Barren Island** is India’s only active volcano (Andaman).
-24. Match locks: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
+24. Match facts: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
 25. Earthquake–volcano belts include the Pacific **Ring of Fire**, Mid-Atlantic Ridge, Alpine–Himalayan belt and East African Rift. India’s seismic map uses Zones II–V.
 26. Earth’s spheres — lithosphere, atmosphere, hydrosphere and biosphere — interact. Rocks cycle among igneous, sedimentary and metamorphic states.
 27. Heat-budget awareness: about **35**/100 of insolation is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
@@ -48,9 +48,9 @@ Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motion
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Ozone layer | **Stratosphere** | Troposphere | समतापमंडल |
 | Montreal vs Kyoto | Ozone vs **climate/GHG** | Kyoto “save water” | मॉन्ट्रियल / क्योटो |
@@ -61,7 +61,7 @@ Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motion
 | ITCZ | **Low** / rising air | High-pressure belt | आईटीसीजेड |
 | Atmosphere heat | **Long-wave terrestrial** | Direct short-wave | दीर्घ तरंग |
 | GHG | Not **argon** | Argon as GHG | आर्गन नहीं |
-| Saturn (that paper) | **Methane** (exam) | SO2 / CO | शनि |
+| Saturn (that paper) | **Methane** () | SO2 / CO | शनि |
 | Mars | Life-candidate + 2018 lake | Jupiter lake | मंगल |
 | Kilimanjaro | **E. African Rift** | Ring of Fire | किलिमंजारो |
 | Fold vs fault | Compressional folds vs **block/rift** | All Himalaya = fault | वलित / भ्रंश |
@@ -106,7 +106,7 @@ Teach the **full map** below — next year can ask any standard NCERT angle, not
 
 ## N.1 Origin of Universe
 
-Several theories try to explain how the universe and solar system began. Learn the propounder with one clear lock.
+Several theories try to explain how the universe and solar system began. Learn the propounder with one clear fact.
 
 | Theory | Propounder | One-line |
 |--------|------------|----------|
@@ -117,7 +117,7 @@ Several theories try to explain how the universe and solar system began. Learn t
 | **Big Bang** | **Gamow** (Lemaître idea; ~**13.8 bn yr**) | Hot dense start; expansion |
 | **Steady State** | **Hoyle – Bondi – Gold** | Universe looks the same; continuous creation |
 | Pulsating | Oscillating bang–crunch awareness | |
-| Lock | Fact |
+| Cue | Fact |
 |------|------|
 | Expansion | **Hubble** — galaxies recede; redshift |
 | Evidence | Expanding space + **CMB** |
@@ -131,19 +131,19 @@ Several theories try to explain how the universe and solar system began. Learn t
 
 Order from Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn – Uranus – Neptune** (Pluto = dwarf).
 
-| Group | Lock |
+| Group | Fact |
 |-------|------|
 | Inner (terrestrial) | Mercury, Venus, Earth, Mars — rock, few moons |
 | Outer | Gas giants Jupiter–Saturn; ice giants Uranus–Neptune |
 | Earth | 3rd planet; **23½°** tilt; one moon; Goldilocks zone |
-| **Saturn (2022 Q105)** | Atmosphere exam-lock **methane** (bulk is H₂+He; methane is the option they want) |
+| **Saturn** | Atmosphere -fact **methane** (bulk is H₂+He; methane is the option they want) |
 | **Mars** | Most **life-suitable** among 2018 options; 2018 Science paper — **underground lake** (south polar ice) |
-| Mangalyaan / MOM | India’s **first Mars** mission (2024 Q46) — not Chandrayaan / Aditya-L1 / Astrosat |
+| Mangalyaan / MOM | India’s **first Mars** mission — not Chandrayaan / Aditya-L1 / Astrosat |
 | Light from Sun | ~**8 min 20 s** to Earth |
 
 **Planet / moon match (mug this)**
 
-| Superlative | Lock |
+| Superlative | Fact |
 |-------------|------|
 | Smallest / fastest orbit | **Mercury** |
 | Hottest (thick CO₂ greenhouse) | **Venus** (not Mercury) |
@@ -158,7 +158,7 @@ Order from Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn �
 | Mars moons | **Phobos, Deimos** |
 | Kuiper Belt / Oort Cloud | Icy leftovers beyond Neptune / far comets |
 
-**Eclipse:** **Solar** only at **New Moon** (Moon between Sun–Earth). **Lunar** only at **Full Moon** (Earth between). Umbra = total; penumbra = partial.
+**Eclipse:Solar** only at **New Moon** (Moon between Sun–Earth). **Lunar** only at **Full Moon** (Earth between). Umbra = total; penumbra = partial.
 Aditya-L1 = solar (CA). Chandrayaan = Moon.
 
 ---
@@ -181,7 +181,7 @@ Aditya-L1 = solar (CA). Chandrayaan = Moon.
 
 Winter solstice → pressure belts **shift south** (2024 Mediterranean Q — statement 2 true).
 
-| Extra lock | Fact |
+| Extra fact | Fact |
 |------------|------|
 | Axis to orbital plane | **66½°** (complement of 23½°) |
 | Circle of illumination | Great circle separating day/night; tilts with seasons |
@@ -210,7 +210,7 @@ Same latitude ≠ same temperature: **Agra vs Darjeeling** — altitude / thinne
 
 Meridians meet at poles. **Prime Meridian = 0° Greenwich**.
 
-| Lock | Fact |
+| Cue | Fact |
 |------|------|
 | Earth 360° / 24 h | **15° = 1 hour**; **1° = 4 minutes** |
 | East | Local time **ahead** of Greenwich |
@@ -235,7 +235,7 @@ India’s extreme longs / Tropic **states**. **15° / IDL / IST meridian**
 
 Composition (dry air): **N₂ ~78%**, **O₂ ~21%**, Ar ~0.9%, CO₂ ~0.04%. Water vapour variable.
 
-| Layer | Height cue | Exam lock |
+| Layer | Height cue | Key fact |
 |-------|------------|-----------|
 | **Troposphere** | ~8–18 km (thicker at equator) | **All weather**; lapse ~**6.5°C / km**; tropopause |
 | **Stratosphere** | ~18–50 km | **Ozone UV shield** (2018 Q52, 2023 Q52, 2025 Q45); temp rises with O₃ |
@@ -292,7 +292,7 @@ D. Only geothermal heat
 | Absorbed by atmosphere | ~**14** |
 | Absorbed by Earth’s surface | ~**51** |
 
-Earth then returns energy as **long-wave** (the 2022 heating lock). Ozone **hole** awareness = **Antarctica** (spring); Montreal cut CFCs. Temperature **inversion** = lapse reversed (valley nights, fronts).
+Earth then returns energy as **long-wave** (the 2022 heating fact). Ozone **hole** awareness = **Antarctica** (spring); Montreal cut CFCs. Temperature **inversion** = lapse reversed (valley nights, fronts).
 
 ---
 
@@ -332,21 +332,21 @@ D. Neither 1 nor 2
 
 Greenhouse gases trap **outgoing long-wave**.
 
-| Is a GHG | Not a GHG (exam) |
+| Is a GHG | Not a GHG () |
 |----------|------------------|
-| Water vapour, **CO₂, CH₄, N₂O, O₃, CFCs/HCFCs** | **Argon** (2022 Q102) |
+| Water vapour, **CO₂, CH₄, N₂O, O₃, CFCs/HCFCs** | **Argon** |
 | Natural set includes CO₂, CH₄, O₃, N₂O | “**Nitrogen oxide**” (NO/NO₂) in 2020 Q139 framing → **not** the natural GHG they want |
-| Instrument | Lock |
+| Instrument | Fact |
 |------------|------|
 | **Montreal Protocol 1987** | **Ozone / CFC** |
-| **Kyoto Protocol 1997** | **Climate / GHG / carbon credit** (2021 Q125) |
+| **Kyoto Protocol 1997** | **Climate / GHG / carbon credit** |
 | Paris 2015 | NDCs — CA |
 | 2019 Q132 NOT matched | **Kyoto — save water** |
 | 2024 Q35 climate mitigation | **Kyoto** (not Montreal/Ramsar/CITES) |
 
 Total GHG emitters: **China > USA > India** (~3rd). Do not freeze 2023 options 9–12 as “India’s rank.”
-Cyclones/storms/hurricanes increase with warming (2018 Q53).
-Nuclear **and** geothermal are **not** stored solar energy (2022 Q139). Biomass and wind **are**.
+Cyclones/storms/hurricanes increase with warming.
+Nuclear **and** geothermal are **not** stored solar energy. Biomass and wind **are**.
 
 ---
 
@@ -424,7 +424,7 @@ Jet streams are narrow high-altitude (~200–300 hPa) wind cores.
 
 **Inline PYQ — UPPCS Prelims 2024, Q60**
 
-Assertion (A): Jet streams discovered in WWII are high-altitude **easterly** winds.  
+Assertion (A): Jet streams discovered in WWII are high-altitude **easterly** winds.
 Reason (R): Jet streams flow at about 300–500 km/h.
 
 A. Both A and R are true and R explains A
@@ -456,7 +456,7 @@ Belts **follow the Sun** (shift N in NH summer, **S around winter solstice**).
 
 **ITCZ = low**, not high. Summer shift over India = monsoon trough.
 
-| Named westerlies (SH) | Lock |
+| Named westerlies (SH) | Fact |
 |-----------------------|------|
 | **Roaring Forties** | ~**40°S** |
 | Furious Fifties | ~50°S |
@@ -468,12 +468,12 @@ Belts **follow the Sun** (shift N in NH summer, **S around winter solstice**).
 
 ## N.13 Interior of the Earth
 
-| Boundary | Depth cue | Lock |
+| Boundary | Depth cue | Fact |
 |----------|-----------|------|
 | **Moho** | Base of crust (~8–40 km) | Crust / mantle |
 | **Gutenberg** | ~**2900 km** | Mantle / **outer core** — **S-waves stop** (liquid) |
 | **Lehmann** | ~5100 km | Outer / **inner core** (solid iron–nickel) |
-| Layer chemistry (exam names) | Lock |
+| Layer chemistry (names) | Fact |
 |------------------------------|------|
 | **Sial** | Continental crust — silica + aluminium; granite; less dense |
 | **Sima** | Oceanic crust — silica + magnesium; basalt; denser |
@@ -495,7 +495,7 @@ P = solid+liquid; S = **solid only**. Disaster-wave names.
 **Alfred Wegener, 1912.** Supercontinent **Pangaea**; ocean **Panthalassa**; later Laurasia + Gondwana.
 Evidence: jigsaw coasts, fossils (**Glossopteris, Mesosaurus**), glacial till, matching rocks. Wegener lacked a mechanism.
 
-| Later piece | Lock |
+| Later piece | Fact |
 |-------------|------|
 | Convection in mantle | **Holmes** (~1928–29) |
 | Sea-floor spreading | **Harry Hess** (1960s); paleomagnetic stripes on MOR |
@@ -532,14 +532,14 @@ Lithosphere plates float on asthenosphere. **Seven majors:** Pacific, North Amer
 
 ## N.17 Volcano Types
 
-| Type | Lock / example |
+| Type | Fact / example |
 |------|----------------|
 | **Shield** | Low silica, runny; **Mauna Loa / Mauna Kea** (Hawaii) |
 | **Composite / strato** | Sticky, explosive; **Fuji, Vesuvius, Etna, Pinatubo, St Helens, Rainier** |
 | Cinder cone | Small, steep; **Paricutin** (Mexico) |
 | Caldera | Collapse after blast; Krakatoa, Yellowstone |
 | Fissure / flood basalt | **Deccan Trap** |
-| Status | Lock |
+| Status | Fact |
 |--------|------|
 | Active | Erupts in historic time — **Stromboli** (“lighthouse of the Mediterranean”), **Etna**, **Barren Island** (India’s **only** active — Andaman) |
 | Dormant | Long quiet, may revive — **Vesuvius**, **Narcondam** (Andaman) |
@@ -576,7 +576,7 @@ D. 4, 3, 2, 1
 
 ## N.18 Major Earthquake & Volcano Belts
 
-| Belt | Lock |
+| Belt | Fact |
 |------|------|
 | **Circum-Pacific / Ring of Fire** | ~**80%** of world’s volcanoes + most great quakes: Fuji, Pinatubo, St Helens, Rainier, Apo, Andes, Krakatoa |
 | **Mid-Atlantic** | Iceland, Azores — divergent; quakes + volcanoes |
@@ -587,7 +587,7 @@ India seismic **zones II–V**. NDMA chair = **PM**.
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 70 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard NCERT angles)
 
 **Q1.** The ozone layer that absorbs UV exists in the:
@@ -897,7 +897,7 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — **2 and 3**. Rank is **7th**, not 6th. **2.4%** true. Tropic through the middle = NCERT lock. **Not** wholly tropical.
+**Ans: A** — **2 and 3**. Rank is **7th**, not 6th. **2.4%** true. Tropic through the middle = NCERT fact. **Not** wholly tropical.
 </details>
 
 ---
@@ -1139,7 +1139,7 @@ D. Black Forest
 
 ---
 
-**Q30.** Which is a **block/fault** mountain example?
+**Q30.** Which is a **block/fault** mountaple?
 
 A. Andes
 
@@ -1844,7 +1844,7 @@ D. Only collision of two continents
 
 ---
 
-**Q69.** Assertion (A): Seasons on Earth are caused mainly by perihelion and aphelion distance.  
+**Q69.** Assertion (A): Seasons on Earth are caused mainly by perihelion and aphelion distance.
 Reason (R): Earth’s axis is tilted about 23½° to the orbital plane.
 
 A. Both A and R are true and R explains A
@@ -2124,7 +2124,7 @@ D. Nitrogen
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Paper lock. Bulk composition is H₂+He.
+**Ans: C** — Paper fact. Bulk composition is H₂+He.
 </details>
 
 ---
@@ -2167,7 +2167,7 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — **2 and 3**. India is **7th**, not 6th. **2.4%** true. Tropic through the middle = NCERT lock. **Not** wholly tropical.
+**Ans: A** — **2 and 3**. India is **7th**, not 6th. **2.4%** true. Tropic through the middle = NCERT fact. **Not** wholly tropical.
 </details>
 
 ---

@@ -9,44 +9,44 @@
 **Schemes:** Bharatmala | Sagarmala | Dedicated Freight Corridor | National Waterways | PM Gati Shakti | National Logistics Policy | Blue Economy | Communication (Basic)
 </details>
 
-> **Exam weight:** ★★★★ — zone–HQ, port–state, scheme year, UP expressway/airport  
-> **Last verified:** August 2026  
+> **Weight:** ★★★★ — zone–HQ, port–state, scheme year, UP expressway/airport
+> **Last verified:** August 2026
 > **Current Affairs:** Gati Shakti 2021; NLP 2022; New Pamban; FLY91; Jewar (Noida Intl); Amrit Bharat UP 149 stations
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Transport moves people and goods; communication moves information. About **95%** of India’s trade by **volume** moves by sea.
 2. India’s first passenger train ran **Mumbai–Thane in 1853**. Indian Railways is organised into about **18 zones** (older books still say 16).
-3. Zone–HQ locks: **Northern Railway — New Delhi**; **North Eastern Railway — Gorakhpur**; **South Eastern Railway — Garden Reach, Kolkata** (not Cuttack); **East Central Railway — Hajipur**; **North Central Railway — Prayagraj**; **South Western Railway — Hubballi**; **East Coast Railway — Bhubaneswar**.
+3. Zone–HQ facts: **Northern Railway — New Delhi**; **North Eastern Railway — Gorakhpur**; **South Eastern Railway — Garden Reach, Kolkata** (not Cuttack); **East Central Railway — Hajipur**; **North Central Railway — Prayagraj**; **South Western Railway — Hubballi**; **East Coast Railway — Bhubaneswar**.
 4. The **Western Dedicated Freight Corridor** runs **Dadri–JNPT**. The **Eastern Dedicated Freight Corridor** runs **Ludhiana–Dankuni**.
 5. **Amrit Bharat** is a **station modernisation** programme, not a new-lines scheme. About **1,275** stations were identified all-India; in **February 2023**, **149 Uttar Pradesh stations** were listed.
 6. The new **Pamban** bridge is an **RVNL** project and India’s first **vertical-lift** railway sea bridge. Hubballi holds both the **South Western Railway HQ** and the **August 2020** railway museum.
 7. National Highways are only about **2%** of road length but carry about **40%** of traffic. Rural roads are most of the length and are linked to **PMGSY**.
 8. The **Golden Quadrilateral** joins Delhi–Mumbai–Chennai–Kolkata (about **5,846 km**). North–South is Srinagar–Kanyakumari; East–West is Porbandar–**Silchar**.
 9. **Bharatmala** is a **highway** programme. **Sagarmala** is **port-led**. Do not swap the two.
-10. The **Atal Tunnel** runs under **Rohtang** in the **Pir Panjal** (Himachal / BRO). A bare claim that it is the “world’s longest highway tunnel” is not the safe exam line.
+10. The **Atal Tunnel** runs under **Rohtang** in the **Pir Panjal** (Himachal / BRO). A bare claim that it is the “world’s longest highway tunnel” is not the safe line.
 11. The built **Purvanchal Expressway** alignment is Lucknow–Azamgarh–Mau–Ghazipur–Ballia. It **passes Mau**; Basti is off the main spine.
 12. India has **12 major ports** plus many non-major ports. **IWAI** dates from **1986**. The 2016 Act notified **111 National Waterways**.
-13. National Waterway locks: **NW-1** = Ganga, Haldia–Prayagraj; **NW-2** = Brahmaputra, Dhubri–Sadiya; **NW-3** = Kerala West Coast Canal; **NW-4** = Godavari–Krishna / Kakinada–Puducherry; **NW-5** = Brahmani–Mahanadi–East Coast Canal.
+13. National Waterway facts: **NW-1** = Ganga, Haldia–Prayagraj; **NW-2** = Brahmaputra, Dhubri–Sadiya; **NW-3** = Kerala West Coast Canal; **NW-4** = Godavari–Krishna / Kakinada–Puducherry; **NW-5** = Brahmani–Mahanadi–East Coast Canal.
 14. A July 2020 containership link from Kolkata toward Agartala used the **Chattogram** route.
-15. Port–state locks: **Paradip (Odisha)**, **Tuticorin / VOC (Tamil Nadu)**, **Kakinada (Andhra Pradesh)**, **Alappuzha (Kerala)**. **JNPT** is the container flagship; **Kolkata–Haldia** is riverine.
+15. Port–state facts: **Paradip (Odisha)**, **Tuticorin / VOC (Tamil Nadu)**, **Kakinada (Andhra Pradesh)**, **Alappuzha (Kerala)**. **JNPT** is the container flagship; **Kolkata–Haldia** is riverine.
 16. A **harbour** is sheltered water; a **port** is harbour plus cargo facilities. **Igarka** is in **Russia**, not China.
 17. **Kushinagar** became an international airport on **24 June 2020**. **Cochin** was India’s first solar-powered airport. **Jewar** is Noida International Airport.
 18. FLY91’s inaugural flight (18 March 2024) was from **Manohar International Airport** (Goa Mopa).
 19. The Motihari–**Amlekhganj** (Nepal) petroleum pipeline was inaugurated in **September 2019**.
 20. **PM Gati Shakti** was launched on **13 October 2021** with the “seven engines” framing. The **National Logistics Policy** (September 2022) complements it. The **Blue Economy** means ocean-based growth.
 21. Optical-fibre communication uses **total internal reflection (TIR)**, not simple refraction.
-22. Uttar Pradesh has **no major seaport**. Its rail HQ lock is **NER Gorakhpur**; its waterway lock is **NW-1** on the Ganga.
+22. Uttar Pradesh has **no major seaport**. Its rail HQ fact is **NER Gorakhpur**; its waterway fact is **NW-1** on the Ganga.
 23. NHAI was set up in **1995**. Expressways are access-controlled highways, distinct from ordinary National Highways.
 24. West-coast major ports include Kandla (Deendayal), Mumbai, JNPT, Mormugao, New Mangalore and Cochin. East-coast majors include Kolkata–Haldia, Paradip, Vizag, Chennai, Ennore (Kamarajar) and Tuticorin.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | NER HQ | **Gorakhpur** | Hajipur | गोरखपुर |
 | SER HQ | **Garden Reach, Kolkata** | Cuttack | कटक नहीं |
@@ -225,7 +225,7 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 
 **Road classes**
 
-| Class | Who builds / maintains | Exam cue |
+| Class | Who builds / maintains | cue |
 |-------|------------------------|----------|
 | **National Highways** | Central government / **NHAI** | About **2%** of road length but about **40%** of road traffic |
 | **State Highways** | State governments | Link the state capital to district headquarters |
@@ -247,7 +247,7 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 - The **Atal Tunnel** lies in the **Pir Panjal** range.
 - It was built with **Border Roads Organisation** association.
 - It connects Manali toward the Lahaul–Spiti side (Rohtang axis).
-- Do not mark a bare claim that it is “the world’s longest highway tunnel” as true. The safe lock is **Pir Panjal**.
+- Do not mark a bare claim that it is “the world’s longest highway tunnel” as true. The safe fact is **Pir Panjal**.
 
 **Inline PYQ — UPPCS Prelims 2025, Q44**
 
@@ -527,7 +527,7 @@ D. Both 1 and 2
 Pipelines move oil, gas and products continuously after a high upfront capital cost.
 
 - **GAIL** (set up 1984) transports, processes and markets natural gas.
-- The **Hazira–Bijaipur–Jagdishpur (HBJ)** line is the classic gas-grid lock toward north-central markets.
+- The **Hazira–Bijaipur–Jagdishpur (HBJ)** line is the classic gas-grid fact toward north-central markets.
 - Domestic refinery product lines include feeds around **Mathura**.
 - In **September 2019**, the product pipeline from **Motihari (India)** to **Amlekhganj (Nepal)** was inaugurated. It is not Motihari–Kathmandu and not Darbhanga–Amlekhganj.
 
@@ -607,7 +607,7 @@ D. Neither 1 nor 2
 - **BharatNet** is the rural broadband push.
 - Indian communication satellites (INSAT / GSAT family) serve remote links, TV and weather.
 - Optical fibre guides light through the core by **total internal reflection** at the core–cladding boundary.
-- Do not mark diffraction, scattering, or ordinary refraction as the fibre lock.
+- Do not mark diffraction, scattering, or ordinary refraction as the fibre fact.
 - An optical-fibre cable is **not** an oil pipeline.
 
 **Inline PYQ — UPPCS Prelims 2019, Q125**
@@ -632,9 +632,9 @@ D. Refraction
 
 ## N.9 Uttar Pradesh Focus
 
-Uttar Pradesh has **no major seaport**. Its exam identity is rail headquarters, expressways, airports, NW-1 and station redevelopment.
+Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expressways, airports, NW-1 and station redevelopment.
 
-| Theme | Lock |
+| Theme | Fact |
 |-------|------|
 | Railway HQ | **North Eastern Railway — Gorakhpur** |
 | Expressway | Built Purvanchal **passes Mau**; Basti is off the main alignment |
@@ -645,7 +645,7 @@ Uttar Pradesh has **no major seaport**. Its exam identity is rail headquarters, 
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 55 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
 **Q1.** Headquarters of the North Eastern Railway is at?
@@ -1484,7 +1484,7 @@ D. Konkan Railway is the headquarters of South Eastern Railway
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Mumbai–Thane 1853 lock.
+**Ans: B** — Mumbai–Thane 1853 fact.
 </details>
 
 **Q51.** NHAI was operationalised in:
@@ -1535,7 +1535,7 @@ D. Replacing all optical fibre cables
 **Ans: B** — High fixed cost, low operating friction for fluids.
 </details>
 
-**Q54.** Which UP lock is correct?
+**Q54.** Which UP fact is correct?
 
 A. Major seaport at Varanasi handling all Indian containers
 
@@ -1893,7 +1893,7 @@ D. A-1, B-3, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Paradip–Odisha; Tuticorin–Tamil Nadu; Kakinada–Andhra Pradesh; Alappuzha–Kerala (code 3 1 4 2). Paper option letters vary across booklets; lock the **state matches**.
+**Ans: C** — Paradip–Odisha; Tuticorin–Tamil Nadu; Kakinada–Andhra Pradesh; Alappuzha–Kerala (code 3 1 4 2). Paper option letters vary across booklets; fact the **state matches**.
 </details>
 
 ---
@@ -1905,12 +1905,12 @@ D. A-1, B-3, C-2, D-4
 | **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Year trap with seven engines |
 | **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
 | **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
-| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift lock |
+| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift fact |
 | **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa) | New airline + airport pair |
 | **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
 | **DFC** | Western Dadri–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
 
-Sagarmala / Bharatmala remain living umbrella programmes; exam still tests **name swap**, not project lists.
+Sagarmala / Bharatmala remain living umbrella programmes; still tests **name swap**, not project lists.
 
 ---
 
@@ -1922,7 +1922,7 @@ Sagarmala / Bharatmala remain living umbrella programmes; exam still tests **nam
 4. **Gati Shakti launched 2022** — FALSE. **13 Oct 2021**; seven engines **true**.
 5. **Bharatmala = ports / Sagarmala = highways** — SWAP. Bharatmala = **roads**; Sagarmala = **port-led**.
 6. **Mau is off today’s Purvanchal Expressway** — FALSE for the **built** road (Lucknow–Ballia via Azamgarh–Mau). **Basti** is not on the main alignment. The 2018 stem “will not pass” had a different official key — see that full question in the PYQ bank.
-7. **Atal = world’s longest highway tunnel** — FALSE as a bare claim. **Pir Panjal** is the safe lock.
+7. **Atal = world’s longest highway tunnel** — FALSE as a bare claim. **Pir Panjal** is the safe fact.
 8. **Igarka = China** — FALSE. **Russia**.
 9. **NW-1 = Brahmaputra** — FALSE. **Ganga, Haldia–Prayagraj**. NW-2 = Brahmaputra. NW-3 = **Kerala** canal. NW-4 = Kakinada–Puducherry. NW-5 = Talcher–Dhamra.
 10. **Kushinagar not international** — FALSE. Intl on **24 Jun 2020**.
@@ -1935,4 +1935,4 @@ Sagarmala / Bharatmala remain living umbrella programmes; exam still tests **nam
 17. **Inland waterways already move most Indian cargo** — FALSE. Share is tiny; sea still moves ~**95%** of trade by volume.
 18. **IWAI = NHAI** — FALSE. IWAI (1986) = inland waterways; NHAI (1995) = national highways.
 19. **Only three National Waterways exist** — FALSE. The 2016 Act declared **111**. The first five are the map you must know even if a paper has not yet asked NW-4 or NW-5.
-20. **Kakinada is a major-port-state lock for Odisha** — FALSE. Kakinada = **Andhra Pradesh**; Paradip = **Odisha**.
+20. **Kakinada is a major-port-state fact for Odisha** — FALSE. Kakinada = **Andhra Pradesh**; Paradip = **Odisha**.

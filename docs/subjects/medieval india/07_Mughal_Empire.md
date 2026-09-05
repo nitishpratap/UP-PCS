@@ -8,22 +8,22 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — battle chronology, tombs, A/R (Babur language, Buland Darwaza), Mansabdari, Bairam Khan title, Abul Fazl deaths, Aurangzeb succession  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — battle chronology, tombs, A/R (Babur language, Buland Darwaza), Mansabdari, Bairam Khan title, Abul Fazl deaths, Aurangzeb succession
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. **Babur** founded the Mughal empire after defeating **Ibrahim Lodi** at the **First Battle of Panipat** on **20 April 1526**, using **Tulughma** flanking and **Araba** cart-forts.
 2. At **Khanwa in 1527**, Babur defeated **Rana Sanga**'s Rajput confederacy; **Chanderi 1528** and **Ghagra 1529** followed against Medini Rai and eastern Afghans.
 3. **Baburnama** (Tuzk-e-Babri) was written in **Chagatai Turki**, not Persian; the Mughal **court language** was **Persian**.
-4. Tomb lock: **Babur–Kabul**, **Humayun–Delhi**, **Jahangir–Lahore**, and **Shah Jahan–Agra**.
+4. Tomb fact: **Babur–Kabul**, **Humayun–Delhi**, **Jahangir–Lahore**, and **Shah Jahan–Agra**.
 5. Humayun lost **Chausa in 1539** and **Kannauj/Bilgram in 1540** to Sher Shah, returned in **1555**, and died in **1556**.
 6. **Daurah (1532)** was Humayun versus Afghan chiefs; do not confuse it with **Dharmat (April 1658)**, Aurangzeb versus Jaswant Singh.
-7. Battle chronology lock: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
+7. Battle chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
 8. At the **Second Battle of Panipat on 5 November 1556**, Akbar and **Bairam Khan** defeated **Hemu** and secured the throne.
 9. **Bairam Khan** received the title **Khan-i-Khana** from **Humayun**, not from Akbar.
 10. Akbar's **mansabdari** used dual ranks **zat** and **sawar**; the system was **not hereditary**.
@@ -48,7 +48,7 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -83,14 +83,12 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 - **Abdur Rahim Khan-i-Khanan** later translated the Baburnama into Persian.
 - Babur’s early land assignments were **iqta-like**. The full **mansabdari** system belongs to **Akbar**, not Babur.
 
-> **Exam note:** Establishment year = **1526 Panipat**, not Khanwa 1527.
+> ** note:** Establishment year = **1526 Panipat**, not Khanwa 1527.
 
 ### PYQ — Baburnama language A/R
 
 
-**1. (UPPCS Prelims 2025, Q3)**
-
-**Assertion (A):** Babur wrote Tuzk-e-Babri in Chagatai Turki.
+**1. (UPPCS Prelims 2025, Q3)Assertion (A):** Babur wrote Tuzk-e-Babri in Chagatai Turki.
 
 **Reason (R):** Turki was the official language of the Mughal Court.
 
@@ -105,9 +103,7 @@ D. Both true, R explains A
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (A true, R false)** — **UPPCS 2025 Q3**
-
-**A is true:** **Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
+**Ans: C (A true, R false)** — **UPPCS 2025 Q3A is true:Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
 
 **R is false:** Mughal **court language** was **Persian**, not Turki.
 
@@ -120,21 +116,21 @@ D. Both true, R explains A
 ## 7.2 Major Battles — Master Chronology
 ### First Battle of Panipat (20 April 1526) — Cause, Course, Result
 
-**Cause:** Babur claimed the Delhi throne against **Ibrahim Lodi**, whose Afghan nobles were divided.  
-**Course:** Babur's smaller army used **Tulughma** flanking tactics, **Araba** cart-fortifications, and gunpowder against Lodi's massed infantry and elephants.  
-**Result:** **Ibrahim Lodi was killed**. The **Delhi Sultanate ended**. Babur founded the **Mughal empire** — exam year **1526**.
+**Cause:** Babur claimed the Delhi throne against **Ibrahim Lodi**, whose Afghan nobles were divided.
+**Course:** Babur's smaller army used **Tulughma** flanking tactics, **Araba** cart-fortifications, and gunpowder against Lodi's massed infantry and elephants.
+**Result:Ibrahim Lodi was killed**. The **Delhi Sultanate ended**. Babur founded the **Mughal empire** — year **1526**.
 
 ### Battle of Khanwa (1527) — Cause, Course, Result
 
-**Cause:** **Rana Sanga** of Mewar led a Rajput confederacy to challenge Babur after Panipat.  
-**Course:** Babur again used artillery and cart-forts. Sanga was wounded and the Rajput coalition broke.  
+**Cause:Rana Sanga** of Mewar led a Rajput confederacy to challenge Babur after Panipat.
+**Course:** Babur again used artillery and cart-forts. Sanga was wounded and the Rajput coalition broke.
 **Result:** The **Rajput challenge to early Mughal power** was crushed. Babur secured the **Agra–Delhi** core.
 
 ### Second Battle of Panipat (5 November 1556) — Cause, Course, Result
 
-**Cause:** After Humayun's death, **Hemu** (Hemchandra) seized Delhi as a Sur-Afghan claimant. Minor **Akbar** needed restoration under **Bairam Khan**.  
-**Course:** Mughal forces met Hemu near Panipat. Hemu was struck by an arrow and captured.  
-**Result:** **Akbar's throne was secured**. The Sur-Afghan bid collapsed. Mughal expansion under Akbar could begin.
+**Cause:** After Humayun's death, **Hemu** (Hemchandra) seized Delhi as a Sur-Afghan claimant. Minor **Akbar** needed restoration under **Bairam Khan**.
+**Course:** Mughal forces met Hemu near Panipat. Hemu was struck by an arrow and captured.
+**Result:Akbar's throne was secured**. The Sur-Afghan bid collapsed. Mughal expansion under Akbar could begin.
 
 ### Mughal Schools of Painting — Teaching Card
 
@@ -142,13 +138,13 @@ D. Both true, R explains A
 
 - **Babur** brought Central Asian manuscript culture; early Mughal painting grows under **Humayun** after Safavid contact.
 - **Akbar's kitabkhana** produced the illustrated **Akbarnama** and **Hamzanama** (large-format cloth paintings).
-- **Jahangir** preferred **natural-history** studies — flowers, birds, and individual portraits; **Ustad Mansur** is the famous bird painter lock.
+- **Jahangir** preferred **natural-history** studies — flowers, birds, and individual portraits; **Ustad Mansur** is the famous bird painter fact.
 - **Shah Jahan** patronised **court albums** and refined portraiture; architecture painting links to **Taj Mahal** age aesthetics.
 - **Aurangzeb** cut court patronage; artists moved to **Rajput** and **Deccan** courts — decline of imperial atelier, not end of Indian painting.
 
 
 
-| Year | Battle | Winner vs loser | Lock |
+| Year | Battle | Winner vs loser | Fact |
 |------|--------|-----------------|------|
 | **1526** | Panipat I | Babur vs Ibrahim Lodi | Empire founded |
 | **1527** | Khanwa | Babur vs Rana Sanga | Rajput confederacy broken |
@@ -179,11 +175,9 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D (2-4-1-3)** — **UPPCS 2025 Q79**
+**Ans: D (2-4-1-3)** — **UPPCS 2025 Q79Chronology:** Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658).
 
-**Chronology:** Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658).
-
-**Trap:** **Daurah** is **not** Dharmat (1658).
+**Trap:Daurah** is **not** Dharmat (1658).
 
 </details>
 
@@ -204,7 +198,7 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 - Humayun died in **January 1556** (tradition: fell on the stairs of the Dinpanah library).
 - His tomb at **Delhi** was built in Akbar’s reign by **Mirak Mirza Ghiyas**. It became the garden-tomb prototype for the Taj Mahal.
 - **Hamida Banu** was Humayun’s wife. **Gulbadan** was his sister and author of *Humayunnama*. The **UPPCS Prelims 2019 Q16** pair matching them is **correct**.
-- **Bairam Khan** served Humayun. Humayun, not Akbar, gave him the title **Khan-i-Khana** — the lock in **UPPCS Prelims 2024 Q4**, answer **D**.
+- **Bairam Khan** served Humayun. Humayun, not Akbar, gave him the title **Khan-i-Khana** — the fact in **UPPCS Prelims 2024 Q4**, answer **D**.
 - **UPPCS Prelims 2023 Q34** tests family pairs: **Hamida Banu** was Humayun’s wife, **not** Alauddin Khalji’s.
 
 ---
@@ -218,9 +212,7 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 ### PYQ — Military state A/R
 
 
-**1. (UPPCS Prelims 2021, Q126)**
-
-**Assertion (A):** The Mughal Empire was originally a Military State.
+**1. (UPPCS Prelims 2021, Q126)Assertion (A):** The Mughal Empire was originally a Military State.
 
 **Reason (R):** The vitality of the development of the Central Government System depended on its military power.
 
@@ -235,9 +227,7 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)** — **UPPCS 2021 Q126**
-
-**A is true:** Mughal Empire began as a **military state** (conquest-based power).
+**Ans: A (Both true, R explains A)** — **UPPCS 2021 Q126A is true:** Mughal Empire began as a **military state** (conquest-based power).
 
 **R is true:** Central vitality **depended on military power**.
 
@@ -282,9 +272,7 @@ D. A false, R true
 ### PYQ — Akbar currency A/R
 
 
-**1. (UPPCS Prelims 2019, Q12)**
-
-**Assertion (A):** Akbar, like Sher Shah, tried to regulate the currency of the state.
+**1. (UPPCS Prelims 2019, Q12)Assertion (A):** Akbar, like Sher Shah, tried to regulate the currency of the state.
 
 **Reason (R):** As in Sher Shah's currency, the chief copper coin of Akbar's time was the Dam.
 
@@ -299,9 +287,7 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12**
-
-**A is true:** **Akbar** continued **Sher Shah's** regulated currency.
+**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12A is true:Akbar** continued **Sher Shah's** regulated currency.
 
 **R is true:** Chief **copper coin** was the **Dam** under both.
 
@@ -318,7 +304,7 @@ D. A false, R true
 - Akbar made Fatehpur Sikri his capital after **Shaikh Salim Chishti**. He abandoned it around **1585** because of water shortage.
 - **Buland Darwaza** commemorated the **Gujarat victory of 1572**. In **UPPCS Prelims 2025 Q49**, Assertion A (Akbar built it at Sikri) is true, but Reason R (built for Jahangir’s birth) is false; the answer is **C**.
 - Key Sikri buildings include **Panch Mahal** (five storeys), Jodha Bai palace, Jama Masjid, and **Ibadat Khana** (religious debates from 1575).
-- Akbar rebuilt **Agra Fort** in red sandstone. He built **Allahabad/Ilahabad fort in 1583** — a major UP exam lock.
+- Akbar rebuilt **Agra Fort** in red sandstone. He built **Allahabad/Ilahabad fort in 1583** — a major UP key fact.
 
 **Later monuments:**
 
@@ -338,15 +324,13 @@ D. A false, R true
 
 - The empire supported **maktab** and **madrasa** education alongside Ibadat Khana debates.
 - The **Razmnama** is the Persian Mahabharata. Akbar introduced the **Ilahi calendar in 1584** and celebrated imperial **Nauroz**.
-- **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan** — the lock in **UPPCS Prelims 2022 Q146**, answer **A**.
+- **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan** — the fact in **UPPCS Prelims 2022 Q146**, answer **A**.
 - Dara Shikoh wrote *Majma-ul-Bahrain* and translated the Upanishads into Persian as *Sirr-i-Akbar*.
 
 ### PYQ — Buland Darwaza A/R
 
 
-**1. (UPPCS Prelims 2025, Q49)**
-
-**Assertion (A):** Akbar got Buland Darwaza constructed at Fatehpur Sikri.
+**1. (UPPCS Prelims 2025, Q49)Assertion (A):** Akbar got Buland Darwaza constructed at Fatehpur Sikri.
 
 **Reason (R):** Constructed in memory of the birth of Jahangir.
 
@@ -361,9 +345,7 @@ D. Both true, R explains A
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (A true, R false)** — **UPPCS 2025 Q49**
-
-**A is true:** **Buland Darwaza** at **Fatehpur Sikri** was built by **Akbar**.
+**Ans: C (A true, R false)** — **UPPCS 2025 Q49A is true:Buland Darwaza** at **Fatehpur Sikri** was built by **Akbar**.
 
 **R is false:** It commemorated **Gujarat victory (1572)**, not Jahangir's birth.
 
@@ -385,13 +367,13 @@ D. Both true, R explains A
 - Akbar **abolished jizya in 1564** and lifted the pilgrimage tax earlier.
 - From **Ibadat Khana debates (1575 onward)**, he moved to **Din-i-Ilahi in 1582**. It remained a tiny court circle; **Birbal** joined, but it was **not** a mass religion.
 - Social reforms included discouraging sati, marriage-age rules in the *Ain*, and encouraging widow remarriage in theory.
-- **Aurangzeb reversed** this policy: he **reimposed jizya in 1679** and ordered the Banaras temple destruction episode in **1669** — another UP lock.
+- **Aurangzeb reversed** this policy: he **reimposed jizya in 1679** and ordered the Banaras temple destruction episode in **1669** — another UP fact.
 
 ---
 
 ## 7.9 Akbar’s Court Personalities
 
-| Person | Lock |
+| Person | Role |
 |--------|------|
 | **Bairam Khan** | Regent; **Khan-i-Khana from Humayun**; Akbar later broke with him. **UPPCS Prelims 2024 Q4**: statement 1 is false, statement 2 is true; answer **D** |
 | **Abul Fazl** | *Akbarnama* + *Ain-i-Akbari*; murdered **1602** (Bir Singh Bundela / Salim) |
@@ -429,7 +411,7 @@ D. Both true, R explains A
 
 - Shah Jahan built the **Taj Mahal (1632–53)** after Mumtaz died in **1631**. He also built Delhi **Red Fort (1639–48)**, the Jama Masjid, and the **Peacock Throne**.
 - **Nahr-i-Bihisht** in Shahjahanabad used water from the restored **Rajabwah** — tested in **UPPCS Prelims 2020 Q42**.
-- He patronised **Kavindra Acharya Saraswati** of Banaras — the lock in **UPPCS Prelims 2022 Q146**.
+- He patronised **Kavindra Acharya Saraswati** of Banaras — the fact in **UPPCS Prelims 2022 Q146**.
 - In the Deccan, he annexed **Ahmadnagar in 1636**. His **Balkh campaign (1646–47)** failed.
 - **Dara Shikoh**, the eldest son, wrote *Majma-ul-Bahrain* and translated the Upanishads as *Sirr-i-Akbar*. Aurangzeb killed him in **1659**.
 - Shah Jahan fell ill in **1657**. Aurangzeb imprisoned him at **Agra Fort (1658–1666)**. He was buried in the Taj.
@@ -450,7 +432,7 @@ D. Both true, R explains A
 
 - **UPPCS Prelims 2022 Q103** tests this succession sequence. The correct order is Shuja beaten near Banaras, Dharmat, Samugarh, Deorai; the answer is **A**.
 
-**Deccan:** Aurangzeb annexed Bijapur in **1686** and **Golkonda in 1687**. The last Qutb Shah ruler was **Abul Hasan Qutb Shah** — the lock in **UPPCS Prelims 2020 Q34**, answer **A**.
+**Deccan:** Aurangzeb annexed Bijapur in **1686** and **Golkonda in 1687**. The last Qutb Shah ruler was **Abul Hasan Qutb Shah** — the fact in **UPPCS Prelims 2020 Q34**, answer **A**.
 - Aurangzeb **reimposed jizya in 1679** and ordered Banaras temple destruction in **1669**.
 - Long Deccan wars against the Marathas drained the treasury and stretched the mansabdari system.
 - Aurangzeb died in **1707** at his Ahmadnagar camp and was buried at **Khuldabad**.
@@ -461,7 +443,7 @@ D. Both true, R explains A
 
 **Tombs — UPPCS Prelims 2025 Q57** matches Babur to **Kabul**, Humayun to **Delhi**, Jahangir to **Lahore**, and Shah Jahan to **Agra**. The answer is **A**.
 
-### PYQ — Emperor tomb match (2025 Q57)
+### PYQ — Emperor tomb match
 
 
 **1. (UPPCS Prelims 2025, Q57)** Match emperor–tomb city: A.Babur B.Humayun C.Jahangir D.Shah Jahan with 1.Agra 2.Lahore 3.Delhi 4.Kabul
@@ -471,9 +453,7 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (4-3-2-1)** — **UPPCS 2025 Q57**
-
-**Locks:** Babur–Kabul (4) | Humayun–Delhi (3) | Jahangir–Lahore (2) | Shah Jahan–Agra/Taj (1)
+**Ans: A (4-3-2-1)** — **UPPCS 2025 Q57Facts:** Babur–Kabul (4) | Humayun–Delhi (3) | Jahangir–Lahore (2) | Shah Jahan–Agra/Taj (1)
 
 **Trap:** Do not put Jahangir at Agra or Babur at Delhi.
 
@@ -491,7 +471,7 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 
 **Families:** Hamida Banu was Humayun’s wife. Gulbadan was Babur’s daughter. Nur Jahan married Jahangir. Mumtaz married Shah Jahan. Jahanara and Roshanara were Shah Jahan’s daughters. Dara, Shuja, Aurangzeb, and Murad were Shah Jahan’s sons.
 
-**Later Mughals:** **Bahadur Shah I** won **Jajau in 1707**. He was followed by Farrukhsiyar and the **Sayyid Brothers** as kingmakers (**1713–20**). **Muhammad Shah Rangeela** patronised Tappa music (Topic 6). **Nadir Shah sacked Delhi in 1739**. **Bahadur Shah II Zafar** was the last Mughal during **1857**.
+**Later Mughals:Bahadur Shah I** won **Jajau in 1707**. He was followed by Farrukhsiyar and the **Sayyid Brothers** as kingmakers (**1713–20**). **Muhammad Shah Rangeela** patronised Tappa music (Topic 6). **Nadir Shah sacked Delhi in 1739**. **Bahadur Shah II Zafar** was the last Mughal during **1857**.
 
 ---
 
@@ -511,9 +491,7 @@ D. Both true, R explains A
 
 <details><summary>Show answer</summary>
 
-**Ans: C (A true, R false)** — **UPPCS 2025 Q3**
-
-**A is true:** **Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
+**Ans: C (A true, R false)** — **UPPCS 2025 Q3A is true:Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
 
 **R is false:** Mughal **court language** was **Persian**, not Turki.
 
@@ -561,9 +539,7 @@ D. Both true, R explains A
 
 <details><summary>Show answer</summary>
 
-**Ans: C (A true, R false)** — **UPPCS 2025 Q49**
-
-**A is true:** **Buland Darwaza** stands at **Fatehpur Sikri**, built by **Akbar**.
+**Ans: C (A true, R false)** — **UPPCS 2025 Q49A is true:Buland Darwaza** stands at **Fatehpur Sikri**, built by **Akbar**.
 
 **R is false:** It commemorated **Gujarat victory (1572)**, not **Jahangir's birth**.
 
@@ -585,7 +561,7 @@ D. Only 2
 
 **Ans: D** — 2024 Q4; title from Humayun.
 
-**Why:** Humayun gave Bairam Khan the title Khan-i-Khana, not Akbar (2024 Q4).
+**Why:** Humayun gave Bairam Khan the title Khan-i-Khana, not Akbar.
 
 **Trap:** Statement 1 is false; statement 2 is true.
 
@@ -605,7 +581,7 @@ D. Neither
 
 **Ans: A** — 2019 Q92.
 
-**Why:** Mansabdari started under Akbar; mansab was **not hereditary** (2019 Q92).
+**Why:** Mansabdari started under Akbar; mansab was **not hereditary**.
 
 **Trap:** Zamindari was hereditary; mansab died with holder or on dismissal.
 
@@ -623,9 +599,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12**
-
-**A is true:** **Akbar** continued **Sher Shah's** regulated currency system.
+**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12A is true:Akbar** continued **Sher Shah's** regulated currency system.
 
 **R is true:** Chief **copper coin** under both was the **Dam**.
 
@@ -781,9 +755,7 @@ D. 1761
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -801,9 +773,7 @@ D. Sher Shah
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -821,9 +791,7 @@ D. Victory gate
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -841,9 +809,7 @@ D. 1679
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -861,9 +827,7 @@ D. Only Jahangir levied it
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -881,9 +845,7 @@ D. Both hereditary titles
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -921,9 +883,7 @@ D. 1658 Dara–Aurangzeb
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -941,9 +901,7 @@ D. 1686–1707
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -961,9 +919,7 @@ D. Padshahnama
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -981,9 +937,7 @@ D. Golkonda
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1001,9 +955,7 @@ D. Bundela
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1021,9 +973,7 @@ D. Deccan tribute
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1041,9 +991,7 @@ D. Battle of Khanwa
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1061,9 +1009,7 @@ D. Kabul
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1081,9 +1027,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1101,9 +1045,7 @@ D. Golkonda siege
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1121,9 +1063,7 @@ D. Aurangzeb
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1141,9 +1081,7 @@ D. Inam to poets
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1161,9 +1099,7 @@ D. Akbar and Hemu
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1181,9 +1117,7 @@ D. Sher Shah’s diwan
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1201,9 +1135,7 @@ D. Golkonda
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1221,15 +1153,13 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
 
-**Q39.** Shah Jahan’s Red Fort canal lock:
+**Q39.** Shah Jahan’s Red Fort canal fact:
 
 A. Nahr-i-Bihisht |
 
@@ -1241,9 +1171,7 @@ D. Dam canal of Todar Mal
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1261,9 +1189,7 @@ D. Samugarh
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1281,9 +1207,7 @@ D. 1627
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1301,9 +1225,7 @@ D. 1707
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1321,9 +1243,7 @@ D. Lahore
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1341,9 +1261,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1361,9 +1279,7 @@ D. Ain-i-Akbari — Jahangir
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1381,9 +1297,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)** — **UPPCS 2021 Q126**
-
-**A is true:** The Mughal Empire began as a **military state** (conquest-based power).
+**Ans: A (Both true, R explains A)** — **UPPCS 2021 Q126A is true:** The Mughal Empire began as a **military state** (conquest-based power).
 
 **R is true:** Central government's **vitality depended on military power** (mansabdars, jagirs for troops).
 
@@ -1423,9 +1337,7 @@ D. Shah Jahan’s canal
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1443,9 +1355,7 @@ D. Bahadur Shah II
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1463,9 +1373,7 @@ D. 1679
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1490,9 +1398,7 @@ D. Both true, R explains A
 
 <details><summary>Show answer</summary>
 
-**Ans: C (A true, R false)** — **UPPCS 2025 Q3**
-
-**A is true:** **Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
+**Ans: C (A true, R false)** — **UPPCS 2025 Q3A is true:Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
 
 **R is false:** Mughal **court language** was **Persian**, not Turki.
 
@@ -1512,9 +1418,7 @@ D. Both true, R explains A
 
 <details><summary>Show answer</summary>
 
-**Ans: C (A true, R false)** — **UPPCS 2025 Q49**
-
-**A is true:** **Buland Darwaza** at **Fatehpur Sikri** was built by **Akbar**.
+**Ans: C (A true, R false)** — **UPPCS 2025 Q49A is true:Buland Darwaza** at **Fatehpur Sikri** was built by **Akbar**.
 
 **R is false:** It commemorated **Gujarat victory (1572)**, not Jahangir's birth.
 
@@ -1529,9 +1433,7 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1586,9 +1488,7 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 <details><summary>Show answer</summary>
 
-**Ans: B (3-2-1-4)**
-
-**Why:** **B (3-2-1-4)** is the correct lock for this stem.
+**Ans: B (3-2-1-4)Why:B (3-2-1-4)** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1623,9 +1523,7 @@ NOT matched: C. Hamida Banu Begum — Wife of Alauddin Khilji (she was Humayun�
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1640,9 +1538,7 @@ Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1663,9 +1559,7 @@ D. Humayun
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1686,9 +1580,7 @@ D. III-II-IV-I
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1709,9 +1601,7 @@ D. Shayasta Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1732,9 +1622,7 @@ D. Nahr-i-Agra
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1754,9 +1642,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12**
-
-**A is true:** **Akbar** continued **Sher Shah's** regulated currency.
+**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12A is true:Akbar** continued **Sher Shah's** regulated currency.
 
 **R is true:** Chief **copper coin** was the **Dam** under both.
 
@@ -1779,9 +1665,7 @@ D. III-I-II-IV
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1802,9 +1686,7 @@ D. III-IV-II-I
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1825,9 +1707,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1847,9 +1727,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)** — **UPPCS 2021 Q126**
-
-**A is true:** Mughal Empire began as a **military state**.
+**Ans: A (Both true, R explains A)** — **UPPCS 2021 Q126A is true:** Mughal Empire began as a **military state**.
 
 **R is true:** Central vitality **depended on military power**.
 

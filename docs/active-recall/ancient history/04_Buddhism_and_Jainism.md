@@ -121,7 +121,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ahimsa** — non-violence. **Satya** — truth. **Asteya** — non-stealing. **Aparigraha** — non-possession. **Brahmacharya** — chastity. Ahimsa is the first lock.
+**Ahimsa** — non-violence. **Satya** — truth. **Asteya** — non-stealing. **Aparigraha** — non-possession. **Brahmacharya** — chastity. Ahimsa is the first fact.
 
 </details>
 
@@ -402,7 +402,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: One who seeks enlightenment while working for all beings.** Mahayana lock.
+**Ans: One who seeks enlightenment while working for all beings.** Mahayana fact.
 
 </details>
 
@@ -472,7 +472,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q49.** What are the exam locks for Sanchi and Nalanda?
+**Q49.** What are the key facts for Sanchi and Nalanda?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -547,7 +547,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire — site → event
 
-**Q56.** From memory, link each site to its Buddhist/Jain lock:
+**Q56.** From memory, link each site to its Buddhist/Jain fact:
 
 | Recall item |
 |-------------|
@@ -565,7 +565,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Site | Lock |
+| Site | Fact |
 |------|------|
 | Lumbini | **Birth** |
 | Bodh Gaya | **Enlightenment** |
@@ -582,7 +582,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ---
 
-## Extra locks the drill skipped
+## Extra facts the drill skipped
 
 **Q57.** How many vows did Parshvanatha teach, and which vow did Mahavira add?
 
@@ -618,7 +618,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q60.** What is the Milinda Panha lock?
+**Q60.** What is the Milinda Panha fact?
 
 <details markdown="1">
 <summary>Show answer</summary>

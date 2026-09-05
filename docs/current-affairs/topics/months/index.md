@@ -15,4 +15,4 @@ One short digest per month. Detail lives in the topic sheets; digests are only f
 | September 2026 | Next update |
 
 !!! tip "Fast revise"
-    Before mocks, open [Master lock tables](../00_Master_Tables.md) for Ramsar, VB-G, money, and confused pairs.
+ Before mocks, open [Master fact tables](../00_Master_Tables.md) for Ramsar, VB-G, money, and confused pairs.

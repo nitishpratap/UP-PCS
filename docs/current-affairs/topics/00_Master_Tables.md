@@ -1,4 +1,4 @@
-# Master lock tables (living)
+# Master fact tables (living)
 
 Use this page for **fast revision**. Detail stays in the topic sheets. Numbers use “about” where sources differ slightly.
 
@@ -16,7 +16,7 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 **Older UP Ramsar names to recognise (not all new in 2026):** Haiderpur (Muzaffarnagar), Bakhira (Sant Kabir Nagar), Nawabganj (Unnao), Parvati Arga (Gonda), Saman (Mainpuri), Samaspur (Rae Bareli), Sandi (Hardoi), Sarsai Nawar (Etawah), Sur Sarovar / Keetham (Agra), Upper Ganga stretch (Brijghat–Narora).
 
 !!! tip "Easy memory"
-    2026 UP trio = **Etah → Aligarh → Ballia**. Then India moves past 100 with **Glaw Lake** (Arunachal).
+ 2026 UP trio = **Etah → Aligarh → Ballia**. Then India moves past 100 with **Glaw Lake** (Arunachal).
 
 ---
 
@@ -39,7 +39,7 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 
 ## 3. Big Cabinet / scheme money (2026 so far)
 
-| Month | Scheme / decision | Easy meaning | Money / size lock |
+| Month | Scheme / decision | Easy meaning | Money / size fact |
 |-------|-------------------|--------------|-------------------|
 | Feb | Union Budget 2026–27 | Annual Union money plan | Capex **₹12.2 lakh cr**; fiscal deficit **4.3%** GDP |
 | Mar | Modified UDAN | Cheaper flights to small cities | About **₹28,840 cr** (2026–36) |
@@ -66,7 +66,7 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 
 ## 4. Confused pairs (quick kill)
 
-| Trap | Lock |
+| Trap | Fact |
 |------|------|
 | Patna Bird Sanctuary = Aligarh | **Etah** |
 | Shekha Jheel = Ballia | **Aligarh** |
@@ -85,7 +85,7 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 
 ## 5. Day–theme board (high-yield 2026)
 
-| Date | Day | 2026 theme (lock) |
+| Date | Day | 2026 theme (fact) |
 |------|-----|-------------------|
 | 2 Feb | World Wetlands Day | Wetlands and traditional knowledge |
 | 8 Mar | International Women’s Day | Rights. Justice. Action. For ALL Women and Girls |

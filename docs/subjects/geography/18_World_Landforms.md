@@ -11,14 +11,14 @@
 
 </details>
 
-> **Sources baked in:** Lucent world-geography match-lists; NCERT world climate/vegetation; coaching map (Drishti world geography / EduRev–Lucent landforms); UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — mountain–country, desert size/country, grassland names, Med winter rain, volcano location, island statements; teach full Lucent map  
-> **Last verified:** August 2026 — coaching gap-pass (mountain families, desert causes, chernozem, residual/dome)  
+> **Sources baked in:** Lucent world-geography match-lists; NCERT world climate/vegetation; coaching map (Drishti world geography / EduRev–Lucent landforms); UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — mountain–country, desert size/country, grassland names, Med winter rain, volcano location, island statements; teach full Lucent map
+> **Last verified:** August 2026 — coaching gap-pass (mountain families, desert causes, chernozem, residual/dome)
 > **Current Affairs:** none mandatory (static map chapter)
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. The **Andes** are the world’s **longest** fold chain. The **Himalaya** are the **highest**. **Aconcagua** stands in the Andes of Argentina.
 2. **Pyrenees** = Spain–France; **Alps** = Switzerland / central Europe; **Apennine** = Italy; **Balkan** = Bulgaria; **Urals** mark Europe–Asia.
@@ -38,18 +38,18 @@
 16. “Land of Big Games” points to the tropical **savanna**.
 17. Sclerophyll scrub: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile.
 18. **Epiphytes** mark equatorial forest; **baobab** marks savanna; **cedars** mark the Mediterranean; **acacia** marks the Sahara fringe.
-19. In Brazil, **Selva** is the rainforest and **Terra Roxa** is the famous coffee soil — both are Brazil locks.
+19. In Brazil, **Selva** is the rainforest and **Terra Roxa** is the famous coffee soil — both are Brazil facts.
 20. The **Mediterranean** climate has **winter rain** on five **west coasts** near **30–45°**. Summer is dry under the subtropical high.
 21. **Taiga** is boreal conifer forest. **Tundra** is treeless. Climate letters: Savanna **Aw**, Steppe **BS**, Tundra **ET**.
-22. Volcano locks: **Rainier** USA; **Etna** Italy; **Paricutin** Mexico; **Apo** Philippines; also Fuji (Japan), Pinatubo (Philippines), St Helens (USA).
+22. Volcano facts: **Rainier** USA; **Etna** Italy; **Paricutin** Mexico; **Apo** Philippines; also Fuji (Japan), Pinatubo (Philippines), St Helens (USA).
 23. Peak continents: **Elbrus** = Europe (Caucasus); **Mont Blanc** = Alps; **Denali** = North America; **Kosciuszko** = Australia mainland.
 24. Temperate grasslands (Prairie, Steppe, Pampas, Veld, Downs) sit on **chernozem**-type wheat soils. Residual and dome mountains are worn or laccolith leftovers, not young fold belts.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Andes vs Himalaya | Andes = **longest** fold chain; Himalaya = **highest** | Swapped | एंडीज़ / हिमालय |
 | Kilimanjaro vs Fuji | Kilimanjaro = **E African Rift**; Fuji = Ring of Fire | Kilimanjaro in Pacific | किलिमंजारो |
@@ -97,7 +97,7 @@ Teach the **full Lucent map** — next year can ask any standard range, desert o
 
 ## N.1 Mountains
 
-**Four exam families** (coaching / Lucent)
+**Four families** (coaching / Lucent)
 
 | Family | Force / story | World examples |
 |--------|---------------|----------------|
@@ -108,14 +108,14 @@ Teach the **full Lucent map** — next year can ask any standard range, desert o
 
 **Highest peak by continent** (match-list gold)
 
-| Continent | Peak | Range | Country lock |
+| Continent | Peak | Range | Country fact |
 |-----------|------|-------|--------------|
 | Asia | **Everest** (8848 m) | Himalaya | Nepal–China |
 | Asia (2nd) | **K2 / Godwin Austen** | Karakoram | Pakistan–China |
 | South America | **Aconcagua** | Andes | **Argentina** — highest outside Asia |
 | North America | **Denali / McKinley** | Alaska Range | USA |
 | Africa | **Kilimanjaro** | — | **Tanzania** (not Kenya) |
-| Europe (exam) | **Elbrus** | Caucasus | Russia |
+| Europe () | **Elbrus** | Caucasus | Russia |
 | Alps (W Europe) | **Mont Blanc** | Alps | France–Italy |
 | Australia (mainland) | **Kosciuszko** | Snowy Mts | Australia |
 | Oceania (often asked) | **Puncak Jaya / Carstensz** | Sudirman | Indonesia (New Guinea) |
@@ -123,24 +123,24 @@ Teach the **full Lucent map** — next year can ask any standard range, desert o
 
 **Major ranges — country / trap**
 
-| Range | Where | Highest / extra lock |
+| Range | Where | Highest / extra fact |
 |-------|-------|----------------------|
 | **Andes** | W South America, ~7,000 km | **Longest** fold chain. Chimborazo (**Ecuador**). Copper Chile–Peru. Rain-shadow → Atacama + Patagonia |
 | **Himalaya** | India–Nepal–Bhutan–China | **Highest**. Young Tertiary. Everest / Kanchenjunga |
 | **Karakoram** | PK–India–China | **K2**. Not a Himalaya “range name” swap |
 | **Rockies** | W Canada–USA–Mexico fringe | Young cordillera. **Not** the Appalachians |
 | **Appalachians** | **Eastern** USA | **Old** fold; worn; coal fields |
-| **Alps** | France–Switzerland–Austria–Italy | **Mont Blanc**. Switzerland is the classic “Alps” country lock. Foehn = warm downslope on the **north** side |
+| **Alps** | France–Switzerland–Austria–Italy | **Mont Blanc**. Switzerland is the classic “Alps” country fact. Foehn = warm downslope on the **north** side |
 | **Pyrenees** | **Spain–France** (Andorra) | **Not** Alps |
 | **Apennines** | **Italy** | Spine of the peninsula |
 | **Balkans** | **Bulgaria** / SE Europe | Not Carpathians |
 | **Carpathians** | Romania / Slovakia / Ukraine | Transylvania arc — do not dump on Bulgaria MCQ |
-| **Caucasus** | Russia–Georgia–Azerbaijan | **Elbrus** = Europe’s exam high point |
+| **Caucasus** | Russia–Georgia–Azerbaijan | **Elbrus** = Europe’s high point |
 | **Urals** | Russia | Conventional **Europe–Asia** divide |
 | **Atlas** | Morocco–Algeria–Tunisia | Highest peak **Toubkal = Morocco** (not Algeria) |
 | **Drakensberg** | South Africa / Lesotho | SE African escarpment |
 | **Ethiopian Highlands** | Ethiopia | Blue Nile / Lake Tana source side |
-| **Rwenzori** | Uganda–DRC | **Mt Stanley** — exam country lock **Uganda** |
+| **Rwenzori** | Uganda–DRC | **Mt Stanley** — country fact **Uganda** |
 | **Hoggar / Ahaggar** | **Algeria** | Sahara highland. **Not** Atlas |
 | **Tibesti** | Chad | Sahara highland, awareness |
 | **Zagros / Elburz** | Iran | Zagros = west fold; Elburz = north, **Damavand** |
@@ -160,7 +160,7 @@ Teach the **full Lucent map** — next year can ask any standard range, desert o
 | **Aconcagua** | **Argentina** | Chile |
 | **Cotopaxi** | Ecuador | Volcanic Andes |
 
-> **Exam note:** Paper may print **Kalimanjaro** and **Chimbrozo**. Same peaks. Atlas is **Morocco**, not France/Spain (that is Pyrenees).
+> ** note:** Paper may print **Kalimanjaro** and **Chimbrozo**. Same peaks. Atlas is **Morocco**, not France/Spain (that is Pyrenees).
 
 **Inline PYQ — UPPCS Prelims 2024, Q61**
 
@@ -265,7 +265,7 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 | **Continental / shield** | Old worn-down block | **Deccan**, Brazilian, African, Western Australian |
 | **Lava / volcanic** | Flood basalt | **Columbia** (USA), **Deccan Trap** cover |
 
-| Plateau | Where | Exam lock |
+| Plateau | Where | Key fact |
 |---------|-------|-----------|
 | **Tibetan Plateau** | China / Tibet | **Highest large** plateau. Headwaters: Indus, Sutlej, Brahmaputra, Mekong, Yangtze, Hwang Ho |
 | **Pamir** | Tajikistan knot | Phrase **“Roof of the world”**. Knot of Himalaya–Karakoram–Hindu Kush–Tien Shan |
@@ -288,7 +288,7 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 | **Loess Plateau** | N China | Wind-silt; Hwang Ho yellow colour |
 | **Kimberley / Western Plateau** | Australia | Old shield |
 
-> **Exam note:** **Tibet** = highest *large* plateau. **Pamir** = the stock phrase “Roof of the world.” Do not call the **North European Plain** a plateau.
+> ** note:Tibet** = highest *large* plateau. **Pamir** = the stock phrase “Roof of the world.” Do not call the **North European Plain** a plateau.
 
 ---
 
@@ -303,7 +303,7 @@ Plains are **low, gently rolling** lands — the world’s grain and cattle belt
 | **Coastal** | Sea + river | Atlantic coastal USA; eastern India |
 | **Lacustrine** | Old lake floor | Imphal-type locally; some interior basins |
 
-| Plain | Where | Exam lock |
+| Plain | Where | Key fact |
 |-------|-------|-----------|
 | **Indo-Gangetic** | India–Pakistan–Bangladesh | Alluvium; wheat–rice–cane |
 | **North / Great European** | France → Poland → Russia | Wheat–dairy; glacial + river |
@@ -327,7 +327,7 @@ Pampas vs Campos: same “open land” idea, **different country** — Argentina
 
 **Four belts** (location, not process)
 
-| Belt | Share of great volcanoes | Exam names |
+| Belt | Share of great volcanoes | names |
 |------|--------------------------|------------|
 | **Circum-Pacific / Ring of Fire** | ~**80%** | Fuji, Pinatubo, Mayon, Apo, St Helens, Rainier, Popocatépetl, Andes cones, Krakatoa, Tambora |
 | **Mid-Atlantic** | Divergent | **Iceland** (Hekla), Azores |
@@ -356,7 +356,7 @@ Pampas vs Campos: same “open land” idea, **different country** — Argentina
 | **Erebus** | Antarctica | Ross Island; southern active |
 | **Hekla** | Iceland | Mid-Atlantic |
 
-> **Exam note:** If the stem says **Pacific Ring of Fire**, drop **Kilimanjaro** (and Etna if it appears). Paper spelling **Pericutine** = Paricutin, Mexico.
+> ** note:** If the stem says **Pacific Ring of Fire**, drop **Kilimanjaro** (and Etna if it appears). Paper spelling **Pericutine** = Paricutin, Mexico.
 
 **Inline PYQ — UPPCS Prelims 2024, Q30**
 
@@ -424,7 +424,7 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 | **Coral / atoll** | Reef on a sinking volcanic peak or shelf | Maldives, Lakshadweep, many Pacific atolls |
 | **Coral reef (not an island rank)** | — | Great Barrier Reef (Australia) is a **reef**, not a “largest island” option |
 
-| Island | Lock |
+| Island | Fact |
 |--------|------|
 | **Greenland** | **Largest island**. Denmark. Ice sheet. Inuit |
 | **New Guinea** | 2nd. Split **Indonesia (Papua) + Papua New Guinea** |
@@ -445,7 +445,7 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 
 **Greater Sunda:** Sumatra, Java, **Borneo**, Sulawesi. Only Borneo is the “three countries, not volcanic dump” PYQ.
 
-> **Exam note:** Stmt 1 true, stmt 2 false for Borneo. Java/Sumatra **are** volcanic-arc; do not copy that onto Borneo.
+> ** note:** Stmt 1 true, stmt 2 false for Borneo. Java/Sumatra **are** volcanic-arc; do not copy that onto Borneo.
 
 **Inline PYQ — UPPCS Prelims 2022, Q126**
 
@@ -490,7 +490,7 @@ Deserts are arid lands (coaching cut often **< 25 cm** rain) with sparse xerophy
 | **Rain-shadow** | High range steals moisture | **Patagonia** (Andes), **Atacama** (Andes), Thar (Aravalli leeward) |
 | **Cold interior** | Far from sea, winter freeze | **Gobi**, **Taklamakan**, Great Basin, Colorado Plateau dry side |
 
-| Desert | Country / belt | Exam |
+| Desert | Country / belt | |
 |--------|----------------|------|
 | **Sahara** | N Africa (many states) | **Largest hot** desert. Hoggar / Tibesti are highland islands in it |
 | **Arabian** | Arabian Peninsula | 2nd large hot desert. **Rubʿ al-Khali** = Empty Quarter |
@@ -515,7 +515,7 @@ Deserts are arid lands (coaching cut often **< 25 cm** rain) with sparse xerophy
 
 **2023 size ladder (smallest → largest):** Great Sandy → **Gobi** → **Arabian** → **Sahara**. Code **I, IV, II, III**.
 
-> **Exam note:** Kazakhstan has **other** dry belts (Kyzylkum fringe, steppe). That does **not** put Gobi into option 4.
+> ** note:** Kazakhstan has **other** dry belts (Kyzylkum fringe, steppe). That does **not** put Gobi into option 4.
 
 **Inline PYQ — UPPCS Prelims 2025, Q27**
 
@@ -595,7 +595,7 @@ D. Gibson – Brazil
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — **Gibson** is in **Australia**. A, B, C are standard correct pairs. Brazil’s dry name in exams is more often **Caatinga** (scrub), not Gibson.
+**Ans: D** — **Gibson** is in **Australia**. A, B, C are standard correct pairs. Brazil’s dry name s is more often **Caatinga** (scrub), not Gibson.
 
 </details>
 
@@ -616,14 +616,14 @@ D. Gibson – Brazil
 | **Downs** | **Australia** | Temperate | Sheep / wheat |
 | **Canterbury Downs** | New Zealand | Temperate | Sheep |
 | **Steppe** | Ukraine–S Russia–Kazakhstan–Mongolia | Semi-arid **BS** | Wheat / nomadism; classic **chernozem** |
-| **Puszta** | **Hungary** | Temperate | Hungarian Alföld lock |
+| **Puszta** | **Hungary** | Temperate | Hungarian Alföld fact |
 | **Campos** | **Brazil** (plateau) | Tropical / temperate mix | Cattle. **Not** Pampas |
 | **Llanos** | **Venezuela–Colombia** (Orinoco) | Tropical | Cattle |
 | **Savanna / Sudan type** | Africa (also N Australia, Brazilian edges) | Tropical **Aw** | **Land of Big Games** |
 | **Sahel** | S of Sahara | Semi-arid fringe | Not the same as savanna core |
 | **Gran Chaco** | Paraguay–N Argentina–Bolivia | Dry woodland/grass | Not Pampas |
 
-**“Land of Big Games”** = **Tropical Savanna** (2019 Q10). Temperate grassland = farms and cattle, not the lion–zebra poster. Hot desert is **not** this label.
+**“Land of Big Games”** = **Tropical Savanna**. Temperate grassland = farms and cattle, not the lion–zebra poster. Hot desert is **not** this label.
 
 **Inline PYQ — UPPCS Prelims 2018, Q26**
 
@@ -686,7 +686,7 @@ Walk **equator → pole** (one row each):
 | **Tundra** | Arctic fringe, high Andes/Tibet alpine | **Treeless** — moss, lichen, dwarf shrub. **Cryophyte steppe** = Arctic tundra (2024) |
 | **Ice** | Greenland, Antarctica | None |
 
-**Same climate, four local shrub names** (2019 Q1):
+**Same climate, four local shrub names**:
 
 | Name | Region |
 |------|--------|
@@ -708,12 +708,12 @@ Code **2 3 1 4**.
 
 Code **2 3 4 1**.
 
-| Brazil pair (2025 Q63) | Meaning |
+| Brazil pair | Meaning |
 |------------------------|---------|
 | **Selva** | Equatorial **rainforest** |
 | **Terra Roxa** | Fertile dark **basaltic coffee soil** — **not** a forest name. Parallel to Deccan fertility, **not** the same as Indian regur as a name |
 
-**Other exam tags**
+**Other tags**
 
 - **Planting hearth** = C.O. **Sauer** (origin of agriculture).
 - **World floral regions** = Adolf **Engler**.
@@ -802,7 +802,7 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both are Brazil locks. Selva is the **forest**; Terra Roxa is the **soil**.
+**Ans: C** — Both are Brazil facts. Selva is the **forest**; Terra Roxa is the **soil**.
 
 </details>
 
@@ -947,7 +947,7 @@ D. Equatorial regions
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 60 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Match List-I with List-II and select the correct answer using the codes given below the lists:
@@ -1932,7 +1932,7 @@ D. Only tundra permafrost
 
 ---
 
-**Q43.** Which mountain family best fits the Appalachians in the usual coaching lock?
+**Q43.** Which mountain family best fits the Appalachians in the usual coaching fact?
 
 A. Young volcanic cone like Fuji
 
@@ -1950,7 +1950,7 @@ D. Pure ice-sheet nunatak only
 
 ---
 
-**Q44.** Assertion (A): The Pamir Knot is often called the “Roof of the world.”  
+**Q44.** Assertion (A): The Pamir Knot is often called the “Roof of the world.”
 Reason (R): The Tibetan Plateau is the highest *large* plateau on Earth.
 
 A. Both A and R are true and R explains A
@@ -1964,7 +1964,7 @@ D. A is false but R is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Both locks are true; they are parallel identity lines, not one explaining the other.
+**Ans: B** — Both facts are true; they are parallel identity lines, not one explaining the other.
 </details>
 
 ---
@@ -1987,7 +1987,7 @@ D. Prairie — Brazil
 
 ---
 
-**Q46.** The driest desert in the usual Prelims lock is:
+**Q46.** The driest desert in the usual Prelims fact is:
 
 A. Gobi
 
@@ -2103,7 +2103,7 @@ D. Morocco
 
 ---
 
-**Q52.** Which peak is the highest outside Asia in the standard lock?
+**Q52.** Which peak is the highest outside Asia in the standard fact?
 
 A. Mont Blanc
 
@@ -2157,7 +2157,7 @@ D. Hawaiian hot-spot only
 
 ---
 
-**Q55.** Assertion (A): Atacama is among the driest deserts on Earth.  
+**Q55.** Assertion (A): Atacama is among the driest deserts on Earth.
 Reason (R): A cold ocean current and subtropical high suppress rainfall on Chile’s west coast.
 
 A. Both A and R are true and R explains A
@@ -2234,7 +2234,7 @@ D. Australia > Greenland as the largest island
 
 A. Southern ocean only
 
-B. North side of the Alps in the coaching lock
+B. North side of the Alps in the coaching fact
 
 C. Only Amazon basin
 
@@ -2771,7 +2771,7 @@ D. Gibson – Brazil
 
 ## Current Affairs (this topic)
 
-None mandatory — static world-map chapter. No living scheme lock.
+None mandatory — static world-map chapter. No living scheme tag.
 
 ---
 

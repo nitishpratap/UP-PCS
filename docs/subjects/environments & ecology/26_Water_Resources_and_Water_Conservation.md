@@ -8,27 +8,27 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 </details>
 
-> **Sources baked in:** NCERT Geo 11–12; CGWB; CPCB; Jal Shakti; Namami Gange/NMCG; Jal Jeevan Mission; Wetland Rules 2017; IS 10500:2012; UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — world water order; CGWB ≠ CPCB; Jal Jeevan year; UP Ramsar traps  
+> **Sources baked in:** NCERT Geo 11–12; CGWB; CPCB; Jal Shakti; Namami Gange/NMCG; Jal Jeevan Mission; Wetland Rules 2017; IS 10500:2012; UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — world water order; CGWB ≠ CPCB; Jal Jeevan year; UP Ramsar traps
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
 2. India holds roughly **4%** of world freshwater for about **18%** of world population. Per-capita availability around **1400 m³** marks water stress in many readings.
 3. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology, agriculture, and industry.
 4. The **Ministry of Jal Shakti** (**2019**) merged water resources and drinking-water departments.
-5. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu’s mandatory RWH (**2003**) is a state flagship lock. It cuts flood peaks and recharges aquifers.
+5. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu’s mandatory RWH (**2003**) is a state flagship fact. It cuts flood peaks and recharges aquifers.
 6. A **watershed** is land draining to a common outlet. Ridge-to-valley treatment uses contour bunds, check dams, and afforestation. Watersheds collect, store, and release water.
 7. River cleaning spine: **GAP 1985 → Namami Gange 2014** (NMCG under Jal Shakti). **STP** treats domestic sewage; **CETP** treats industrial effluent.
-8. Kanpur is the Ganga tannery pollution lock. **Gomti** is Lucknow’s river — do not put Gomti’s main story on Kanpur.
+8. Kanpur is the Ganga tannery pollution fact. **Gomti** is Lucknow’s river — do not put Gomti’s main story on Kanpur.
 9. Wetlands follow **Ramsar 1971**, Wise Use, World Wetlands Day on **2 February**, and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar (Tripura)** and **Sultanpur (Haryana)** are **not** UP.
 10. **CGWB** (Jal Shakti) prepares the Annual Groundwater Quality Report. **CPCB** does **not**. Arsenic is a Ganga-plains risk; fluoride appears in parts of UP and Rajasthan.
-11. **Atal Bhujal Yojana (2019)** is a groundwater management scheme lock.
+11. **Atal Bhujal Yojana (2019)** is a groundwater management scheme tag.
 12. **Jal Jeevan Mission** launched in **August 2019** for rural household taps (Har Ghar Jal). Do not date JJM as **2014**.
-13. Drinking-water standard lock **IS 10500:2012**: fluoride about **≤1.5 mg/L**, arsenic about **≤0.01 mg/L**, pH about **6.5–8.5**.
+13. Drinking-water standard fact **IS 10500:2012**: fluoride about **≤1.5 mg/L**, arsenic about **≤0.01 mg/L**, pH about **6.5–8.5**.
 14. Rivers are **not** second after oceans in global freshwater ranking — ice/glaciers are.
 15. CGWB ≠ CPCB on the groundwater quality report.
 16. Namami Gange is **2014**; GAP is **1985**.
@@ -45,7 +45,7 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -76,7 +76,7 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 Arrange descending: (1) Oceans (2) Rivers (3) Polar ice and glaciers (4) Groundwater
 
-Options: A. 1, 3, 4, 2  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 1, 4, 3, 2
+Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 
 <details><summary>Show answer</summary>
 
@@ -84,7 +84,7 @@ Options: A. 1, 3, 4, 2  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 1, 4, 3, 2
 
 </details>
 
-> **Exam note:** Rivers are the **smallest** fraction — not second after oceans.
+> ** note:** Rivers are the **smallest** fraction — not second after oceans.
 
 ---
 
@@ -106,7 +106,7 @@ Options: A. 1, 3, 4, 2  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 1, 4, 3, 2
 | Supply focus | Supply + demand + quality |
 | Environment ignored | Ecological flows included |
 
-> **Exam note:** "IWRM means maximum irrigation extraction" = **FALSE**.
+> ** note:** "IWRM means maximum irrigation extraction" = **FALSE**.
 
 ---
 
@@ -129,7 +129,7 @@ Options: A. 1, 3, 4, 2  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 1, 4, 3, 2
 | Check dam | Slow runoff + percolation |
 | Johad/taanka | Traditional arid storage |
 
-> **Exam note:** RWH = both storage **and** recharge — not tanks alone.
+> ** note:** RWH = both storage **and** recharge — not tanks alone.
 
 ---
 
@@ -138,7 +138,7 @@ Options: A. 1, 3, 4, 2  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 1, 4, 3, 2
 **Identity:** Ridge-to-valley | Drainage basin | IWMP / Hariyali | Collects-stores-releases water
 
 - A **watershed** is the land area draining to a common outlet — also called catchment/drainage basin.
-- It **collects, stores, and releases** water — UPPCS 2023 definition lock.
+- It **collects, stores, and releases** water — UPPCS 2023 definition fact.
 - **Ridge-to-valley treatment:** afforestation and contour bunds at top → check dams mid-slope → farm ponds at bottom.
 - Measures: contour bunding, terracing, nala bunding, gully plugs, percolation tanks.
 - **IWMP** (Integrated Watershed Management Programme) — central watershed scheme; converges with MGNREGA.
@@ -150,7 +150,7 @@ Options: A. 1, 3, 4, 2  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 1, 4, 3, 2
 
 A geographical unit that collects, stores and releases water is called—
 
-Options: A. Watershed  B. Wasteland  C. Wetland  D. Water Reserve
+Options: A. Watershed B. Wasteland C. Wetland D. Water Reserve
 
 <details><summary>Show answer</summary>
 
@@ -162,7 +162,7 @@ Options: A. Watershed  B. Wasteland  C. Wetland  D. Water Reserve
 
 Watershed Development Project enabling rural population to conserve water:
 
-Options: A. Jal Kranti  B. Pani Sansad  C. Hariyali  D. None
+Options: A. Jal Kranti B. Pani Sansad C. Hariyali D. None
 
 <details><summary>Show answer</summary>
 
@@ -170,7 +170,7 @@ Options: A. Jal Kranti  B. Pani Sansad  C. Hariyali  D. None
 
 </details>
 
-> **Exam note:** Watershed management **reduces** soil erosion — does not increase it.
+> ** note:** Watershed management **reduces** soil erosion — does not increase it.
 
 ---
 
@@ -184,10 +184,10 @@ Options: A. Jal Kranti  B. Pani Sansad  C. Hariyali  D. None
 - **NMCG (National Mission for Clean Ganga)** under **Jal Shakti** implements Namami Gange.
 - **STP** treats domestic sewage; **CETP** treats combined industrial effluent (e.g. Kanpur tanneries — chromium).
 - Clean stretch targets: BOD **<3 mg/L**, DO **>6 mg/L**.
-- **UP locks:** **Kanpur** = Ganga tannery stretch; **Gomti** = Lucknow municipal sewage; **Varanasi** = sewage + ghat waste.
+- **UP facts:Kanpur** = Ganga tannery stretch; **Gomti** = Lucknow municipal sewage; **Varanasi** = sewage + ghat waste.
 - **NRCP** extends cleaning beyond Ganga to other polluted rivers (Yamuna, Gomti stretches).
 
-| Programme | Year | Lock |
+| Programme | Year | Fact |
 |-----------|------|------|
 | GAP | **1985** | First Ganga STPs |
 | Namami Gange | **2014** | NMCG nodal |
@@ -197,7 +197,7 @@ Options: A. Jal Kranti  B. Pani Sansad  C. Hariyali  D. None
 
 Main purpose of Ganga Action Plan (1985):
 
-Options: A. Make water pollution-free  B. Irrigation only  C. Build new dams  D. None
+Options: A. Make water pollution-free B. Irrigation only C. Build new dams D. None
 
 <details><summary>Show answer</summary>
 
@@ -205,7 +205,7 @@ Options: A. Make water pollution-free  B. Irrigation only  C. Build new dams  D.
 
 </details>
 
-> **Exam note:** Namami Gange = **2014**, not 1985. Gomti ≠ Kanpur.
+> ** note:** Namami Gange = **2014**, not 1985. Gomti ≠ Kanpur.
 
 ---
 
@@ -217,9 +217,9 @@ Options: A. Make water pollution-free  B. Irrigation only  C. Build new dams  D.
 - **Ramsar Convention (1971):** wetland conservation and **wise use** — World Wetlands Day = **2 February**.
 - India joined Ramsar **1982**; Wetland Rules **2017** (MoEFCC) regulate notified wetlands.
 - **UP Ramsar sites** include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga, Bakhira, Haiderpur.
-- **NOT in UP:** **Rudrasagar Lake (Tripura)** and **Sultanpur NP (Haryana)** — 2025 Q58 trap.
+- **NOT in UP:Rudrasagar Lake (Tripura)** and **Sultanpur NP (Haryana)** — 2025 Q58 trap.
 
-> **Exam note:** Full wetland ecology depth sits in Topic 21 — here lock **conservation schemes + UP geography**.
+> ** note:** Full wetland ecology depth sits in Topic 21 — here fact **conservation schemes + UP geography**.
 
 ---
 
@@ -231,7 +231,7 @@ Options: A. Make water pollution-free  B. Irrigation only  C. Build new dams  D.
 - **CGWB (Central Ground Water Board)** under Jal Shakti assesses quantity and quality.
 - **Annual Groundwater Quality Report** is prepared by **CGWB** — not CPCB or CWC.
 - **Over-extraction hotspots:** Punjab–Haryana–western UP Green Revolution belt — falling water tables.
-- **Contamination:** **arsenic** in Ganga–Brahmaputra alluvium; **fluoride** in parts of Rajasthan and UP.
+- **Contamination:arsenic** in Ganga–Brahmaputra alluvium; **fluoride** in parts of Rajasthan and UP.
 - **Atal Bhujal Yojana (2019):** community-led groundwater management in water-stressed blocks (7 states).
 - Conservation tools: recharge structures, crop diversification, regulated tubewell electricity, conjunctive use.
 
@@ -239,7 +239,7 @@ Options: A. Make water pollution-free  B. Irrigation only  C. Build new dams  D.
 
 Annual Groundwater Quality Report 2024 prepared by: (1) CPCB (2) CWC (3) CGWB
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -253,7 +253,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 | CPCB | Surface water & air pollution |
 | CWC | Surface water/irrigation data |
 
-> **Exam note:** CGWB ≠ CPCB — classic 2025 trap.
+> ** note:** CGWB ≠ CPCB — classic 2025 trap.
 
 ---
 
@@ -271,7 +271,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 Jal Jeevan Mission was declared in Union Budget of which financial year?
 
-Options: A. 2021–22  B. 2022–23  C. 2020–21  D. 2019–20
+Options: A. 2021–22 B. 2022–23 C. 2020–21 D. 2019–20
 
 <details><summary>Show answer</summary>
 
@@ -285,7 +285,7 @@ Options: A. 2021–22  B. 2022–23  C. 2020–21  D. 2019–20
 | Fluoride | ≤1.5 mg/L |
 | Arsenic | ≤0.01 mg/L |
 
-> **Exam note:** JJM = **2019**, not 2014 (Swachh Bharat year).
+> ** note:** JJM = **2019**, not 2014 (Swachh Bharat year).
 
 ---
 
@@ -294,7 +294,7 @@ Options: A. 2021–22  B. 2022–23  C. 2020–21  D. 2019–20
 
 **Q1.** Descending world water: Oceans, Ice, Groundwater, Rivers is coded:
 
-Options: A. 1-3-4-2  B. 1-2-4-3  C. 1-2-3-4  D. 1-4-3-2
+Options: A. 1-3-4-2 B. 1-2-4-3 C. 1-2-3-4 D. 1-4-3-2
 
 <details><summary>Show answer</summary>
 
@@ -304,7 +304,7 @@ Options: A. 1-3-4-2  B. 1-2-4-3  C. 1-2-3-4  D. 1-4-3-2
 
 **Q2.** Smallest fraction among these:
 
-Options: A. Oceans  B. Polar ice  C. Groundwater  D. Rivers
+Options: A. Oceans B. Polar ice C. Groundwater D. Rivers
 
 <details><summary>Show answer</summary>
 
@@ -314,7 +314,7 @@ Options: A. Oceans  B. Polar ice  C. Groundwater  D. Rivers
 
 **Q3.** Annual Groundwater Quality Report is by:
 
-Options: A. CPCB  B. CGWB  C. CZA  D. BSI
+Options: A. CPCB B. CGWB C. CZA D. BSI
 
 <details><summary>Show answer</summary>
 
@@ -324,7 +324,7 @@ Options: A. CPCB  B. CGWB  C. CZA  D. BSI
 
 **Q4.** Jal Jeevan Mission Budget year:
 
-Options: A. 2019–20  B. 2014–15  C. 1985–86  D. 2003–04
+Options: A. 2019–20 B. 2014–15 C. 1985–86 D. 2003–04
 
 <details><summary>Show answer</summary>
 
@@ -334,7 +334,7 @@ Options: A. 2019–20  B. 2014–15  C. 1985–86  D. 2003–04
 
 **Q5.** Namami Gange launched in:
 
-Options: A. 1985  B. 2014  C. 2019  D. 1974
+Options: A. 1985 B. 2014 C. 2019 D. 1974
 
 <details><summary>Show answer</summary>
 
@@ -344,7 +344,7 @@ Options: A. 1985  B. 2014  C. 2019  D. 1974
 
 **Q6.** Ganga Action Plan year:
 
-Options: A. 1985  B. 2014  C. 2019  D. 2008
+Options: A. 1985 B. 2014 C. 2019 D. 2008
 
 <details><summary>Show answer</summary>
 
@@ -354,7 +354,7 @@ Options: A. 1985  B. 2014  C. 2019  D. 2008
 
 **Q7.** Unit that collects, stores and releases water:
 
-Options: A. Watershed  B. Wasteland  C. Ozone layer  D. Desert
+Options: A. Watershed B. Wasteland C. Ozone layer D. Desert
 
 <details><summary>Show answer</summary>
 
@@ -364,7 +364,7 @@ Options: A. Watershed  B. Wasteland  C. Ozone layer  D. Desert
 
 **Q8.** Hariyali relates to:
 
-Options: A. Watershed / water conservation  B. Ozone treaty  C. Wildlife trade  D. Carbon trading
+Options: A. Watershed / water conservation B. Ozone treaty C. Wildlife trade D. Carbon trading
 
 <details><summary>Show answer</summary>
 
@@ -374,7 +374,7 @@ Options: A. Watershed / water conservation  B. Ozone treaty  C. Wildlife trade  
 
 **Q9.** First state with mandatory RWH in new buildings:
 
-Options: A. Tamil Nadu  B. Punjab  C. Kerala only  D. Goa only
+Options: A. Tamil Nadu B. Punjab C. Kerala only D. Goa only
 
 <details><summary>Show answer</summary>
 
@@ -384,7 +384,7 @@ Options: A. Tamil Nadu  B. Punjab  C. Kerala only  D. Goa only
 
 **Q10.** Dublin Principles year:
 
-Options: A. 1992  B. 1971  C. 1985  D. 2019
+Options: A. 1992 B. 1971 C. 1985 D. 2019
 
 <details><summary>Show answer</summary>
 
@@ -394,7 +394,7 @@ Options: A. 1992  B. 1971  C. 1985  D. 2019
 
 **Q11.** National Water Policy 2012 priority starts with:
 
-Options: A. Industry  B. Drinking water  C. Navigation  D. Mining
+Options: A. Industry B. Drinking water C. Navigation D. Mining
 
 <details><summary>Show answer</summary>
 
@@ -404,7 +404,7 @@ Options: A. Industry  B. Drinking water  C. Navigation  D. Mining
 
 **Q12.** Ministry of Jal Shakti formed in:
 
-Options: A. 2019  B. 1985  C. 1974  D. 1952
+Options: A. 2019 B. 1985 C. 1974 D. 1952
 
 <details><summary>Show answer</summary>
 
@@ -414,7 +414,7 @@ Options: A. 2019  B. 1985  C. 1974  D. 1952
 
 **Q13.** Kanpur Ganga pollution is mainly linked to:
 
-Options: A. Tanneries  B. Coral bleaching  C. Tundra melting  D. Ozone hole
+Options: A. Tanneries B. Coral bleaching C. Tundra melting D. Ozone hole
 
 <details><summary>Show answer</summary>
 
@@ -424,7 +424,7 @@ Options: A. Tanneries  B. Coral bleaching  C. Tundra melting  D. Ozone hole
 
 **Q14.** Gomti river is associated with:
 
-Options: A. Lucknow  B. Mumbai  C. Chennai  D. Jaipur
+Options: A. Lucknow B. Mumbai C. Chennai D. Jaipur
 
 <details><summary>Show answer</summary>
 
@@ -434,7 +434,7 @@ Options: A. Lucknow  B. Mumbai  C. Chennai  D. Jaipur
 
 **Q15.** CETP treats:
 
-Options: A. Industrial effluent  B. Only rainwater  C. Only ozone  D. Only solid waste plastics
+Options: A. Industrial effluent B. Only rainwater C. Only ozone D. Only solid waste plastics
 
 <details><summary>Show answer</summary>
 
@@ -444,7 +444,7 @@ Options: A. Industrial effluent  B. Only rainwater  C. Only ozone  D. Only solid
 
 **Q16.** World Wetlands Day:
 
-Options: A. 2 February  B. 5 June  C. 16 September  D. 22 April
+Options: A. 2 February B. 5 June C. 16 September D. 22 April
 
 <details><summary>Show answer</summary>
 
@@ -454,7 +454,7 @@ Options: A. 2 February  B. 5 June  C. 16 September  D. 22 April
 
 **Q17.** Sultanpur Ramsar/NP is in:
 
-Options: A. Haryana  B. Uttar Pradesh  C. Tripura  D. Kerala
+Options: A. Haryana B. Uttar Pradesh C. Tripura D. Kerala
 
 <details><summary>Show answer</summary>
 
@@ -464,7 +464,7 @@ Options: A. Haryana  B. Uttar Pradesh  C. Tripura  D. Kerala
 
 **Q18.** Rudrasagar Lake is in:
 
-Options: A. Tripura  B. UP  C. Rajasthan  D. Punjab
+Options: A. Tripura B. UP C. Rajasthan D. Punjab
 
 <details><summary>Show answer</summary>
 
@@ -474,7 +474,7 @@ Options: A. Tripura  B. UP  C. Rajasthan  D. Punjab
 
 **Q19.** Atal Bhujal Yojana focuses on:
 
-Options: A. Community groundwater management  B. Space research  C. Wildlife trade  D. Ozone recovery
+Options: A. Community groundwater management B. Space research C. Wildlife trade D. Ozone recovery
 
 <details><summary>Show answer</summary>
 
@@ -484,7 +484,7 @@ Options: A. Community groundwater management  B. Space research  C. Wildlife tra
 
 **Q20.** Arsenic contamination is common in:
 
-Options: A. Ganga–Brahmaputra alluvium  B. Atacama only  C. Antarctica ice  D. Coral reefs only
+Options: A. Ganga–Brahmaputra alluvium B. Atacama only C. Antarctica ice D. Coral reefs only
 
 <details><summary>Show answer</summary>
 
@@ -494,7 +494,7 @@ Options: A. Ganga–Brahmaputra alluvium  B. Atacama only  C. Antarctica ice  D.
 
 **Q21.** BIS drinking water standard code:
 
-Options: A. IS 10500:2012  B. IS 456  C. ISO 9001 only  D. CITES App I
+Options: A. IS 10500:2012 B. IS 456 C. ISO 9001 only D. CITES App I
 
 <details><summary>Show answer</summary>
 
@@ -504,7 +504,7 @@ Options: A. IS 10500:2012  B. IS 456  C. ISO 9001 only  D. CITES App I
 
 **Q22.** Fluoride desirable max (approx.):
 
-Options: A. 1.5 mg/L  B. 150 mg/L  C. 0.001 mg/L  D. 50%
+Options: A. 1.5 mg/L B. 150 mg/L C. 0.001 mg/L D. 50%
 
 <details><summary>Show answer</summary>
 
@@ -514,7 +514,7 @@ Options: A. 1.5 mg/L  B. 150 mg/L  C. 0.001 mg/L  D. 50%
 
 **Q23.** Ridge-to-valley is principle of:
 
-Options: A. Watershed management  B. Ozone depletion  C. Carbon trading  D. Coral bleaching
+Options: A. Watershed management B. Ozone depletion C. Carbon trading D. Coral bleaching
 
 <details><summary>Show answer</summary>
 
@@ -524,7 +524,7 @@ Options: A. Watershed management  B. Ozone depletion  C. Carbon trading  D. Cora
 
 **Q24.** NMCG implements:
 
-Options: A. Namami Gange  B. Montreal Protocol  C. CITES  D. Ramsar listing alone
+Options: A. Namami Gange B. Montreal Protocol C. CITES D. Ramsar listing alone
 
 <details><summary>Show answer</summary>
 
@@ -534,7 +534,7 @@ Options: A. Namami Gange  B. Montreal Protocol  C. CITES  D. Ramsar listing alon
 
 **Q25.** India share of world freshwater approx.:
 
-Options: A. 4%  B. 40%  C. 80%  D. 0.01%
+Options: A. 4% B. 40% C. 80% D. 0.01%
 
 <details><summary>Show answer</summary>
 
@@ -544,7 +544,7 @@ Options: A. 4%  B. 40%  C. 80%  D. 0.01%
 
 **Q26.** Consider: (1) CGWB prepares groundwater quality report. (2) CPCB is same as CGWB.
 
-Options: A. Only 1  B. Only 2  C. Both  D. Neither
+Options: A. Only 1 B. Only 2 C. Both D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -554,7 +554,7 @@ Options: A. Only 1  B. Only 2  C. Both  D. Neither
 
 **Q27.** Ecological flows mean:
 
-Options: A. Minimum river flow for ecosystem health  B. Maximum irrigation diversion only  C. Zero dam releases forever  D. Ocean tides only
+Options: A. Minimum river flow for ecosystem health B. Maximum irrigation diversion only C. Zero dam releases forever D. Ocean tides only
 
 <details><summary>Show answer</summary>
 
@@ -564,7 +564,7 @@ Options: A. Minimum river flow for ecosystem health  B. Maximum irrigation diver
 
 **Q28.** Johad and taanka are traditional:
 
-Options: A. Rainwater harvesting structures  B. Cyclone shelters  C. Ozone monitors  D. Gene banks
+Options: A. Rainwater harvesting structures B. Cyclone shelters C. Ozone monitors D. Gene banks
 
 <details><summary>Show answer</summary>
 
@@ -574,7 +574,7 @@ Options: A. Rainwater harvesting structures  B. Cyclone shelters  C. Ozone monit
 
 **Q29.** Clean river BOD target roughly:
 
-Options: A. <3 mg/L  B. >300 mg/L  C. Zero DO forever  D. Unlimited BOD
+Options: A. <3 mg/L B. >300 mg/L C. Zero DO forever D. Unlimited BOD
 
 <details><summary>Show answer</summary>
 
@@ -582,10 +582,10 @@ Options: A. <3 mg/L  B. >300 mg/L  C. Zero DO forever  D. Unlimited BOD
 
 </details>
 
-**Q30.** Assertion (A): Rivers hold the largest share of Earth's water.  
+**Q30.** Assertion (A): Rivers hold the largest share of Earth's water.
 Reason (R): Oceans hold about 97% of Earth's water.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A false, R true  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A false, R true D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -597,23 +597,9 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 
 ## Complete PYQ Bank (Topic 26)
 
-**Q1. UPPCS 2025, Q88** — Oceans > Ice > GW > Rivers → **Ans: A (1-3-4-2)**
+**Q1. UPPCS 2025, Q88** — Oceans > Ice > GW > Rivers → **Ans: A (1-3-4-2)Q2. UPPCS 2025, Q70** — Groundwater Quality Report = CGWB → **Ans: B (Only 3)Q3. UPPCS 2025, Q58** — Ramsar NOT in UP = Rudrasagar + Sultanpur → **Ans: B** (Topic 21/26)
 
-**Q2. UPPCS 2025, Q70** — Groundwater Quality Report = CGWB → **Ans: B (Only 3)**
-
-**Q3. UPPCS 2025, Q58** — Ramsar NOT in UP = Rudrasagar + Sultanpur → **Ans: B** (Topic 21/26)
-
-**Q4. UPPCS 2023, Q110** — Collects/stores/releases water = Watershed → **Ans: A**
-
-**Q5. UPPCS 2022** — Hariyali watershed project → **Ans: C**
-
-**Q6. UPPCS 2022** — GAP 1985 purpose = pollution-free → **Ans: A**
-
-**Q7. UPPCS 2022, Q145** — JJM Budget FY 2019–20 → **Ans: D**
-
-**Q8. UPPCS 2023** — Water Act 1974 year lock → **Ans: 1974**
-
-**Q9. UPSC pattern** — Tamil Nadu mandatory RWH 2003
+**Q4. UPPCS 2023, Q110** — Collects/stores/releases water = Watershed → **Ans: AQ5. UPPCS 2022** — Hariyali watershed project → **Ans: CQ6. UPPCS 2022** — GAP 1985 purpose = pollution-free → **Ans: AQ7. UPPCS 2022, Q145** — JJM Budget FY 2019–20 → **Ans: DQ8. UPPCS 2023** — Water Act 1974 year fact → **Ans: 1974Q9. UPSC pattern** — Tamil Nadu mandatory RWH 2003
 
 **Q10. UPSC pattern** — Sukhomajri community watershed
 
@@ -621,7 +607,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Rivers second after oceans | **Ice then GW then rivers** |
 | Groundwater report = CPCB | **CGWB** |
@@ -662,10 +648,10 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 
 ### Topic boundaries
 
-- **Wetland ecology depth / Ramsar types** — Topic 21  
-- **Water Act / EPA full legal** — Topic 17  
-- **DPAP drought schemes** — Topic 23  
-- **Pollution BOD detail** — Topic 9  
+- **Wetland ecology depth / Ramsar types** — Topic 21
+- **Water Act / EPA full legal** — Topic 17
+- **DPAP drought schemes** — Topic 23
+- **Pollution BOD detail** — Topic 9
 
 ### PYQ audit
 
@@ -673,7 +659,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 |-----|-----------|
 | 2025 Q88 world water order | §26.1 inline |
 | 2025 Q70 CGWB report | §26.7 inline |
-| 2025 Q58 UP Ramsar NOT | §26.6 exam note |
+| 2025 Q58 UP Ramsar NOT | §26.6 note |
 | 2023 Q110 watershed | §26.4 inline |
 | 2022 Hariyali / GAP / JJM | §26.4–26.5–26.8 |
 

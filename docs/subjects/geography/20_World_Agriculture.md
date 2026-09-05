@@ -9,41 +9,41 @@ Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds |
 
 </details>
 
-> **Sources baked in:** Lucent world-agriculture match-lists; NCERT Class 12 (primary activities); coaching crop-belt map; UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — plantation vs grain, coffee 2016 Brazil–Vietnam, cocoa West Africa, Kerala rubber, shifting names, citrus = Mediterranean; teach full systems map  
-> **Last verified:** August 2026 — coaching gap-pass (Von Thünen, producer≠exporter, soybean, milk)  
+> **Sources baked in:** Lucent world-agriculture match-lists; NCERT Class 12 (primary activities); coaching crop-belt map; UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — plantation vs grain, coffee 2016 Brazil–Vietnam, cocoa West Africa, Kerala rubber, shifting names, citrus = Mediterranean; teach full systems map
+> **Last verified:** August 2026 — coaching gap-pass (Von Thünen, producer≠exporter, soybean, milk)
 > **Current Affairs:** none mandatory (producer ranks freeze to the PYQ year when the paper quotes a year)
 
 ---
 
-## Consolidated — 20 Must-Score Locks
+## Consolidated — 20 Must-Score Facts
 
 1. In plantation MCQs the classic plantation crop is **tea**, not wheat, rice, or maize. Plantation means estate, capital, monoculture, hired labour, and export.
 2. Coffee producer order for the frozen paper year: **Brazil > Vietnam > Colombia > Indonesia**. Brazil is mainly **arabica** on Terra Roxa; Vietnam is bulk **robusta**.
 3. Major cocoa producers are **Côte d’Ivoire, Ghana, and Cameroon**. **Latvia** is not a cocoa producer. Cocoa originated in the Amazon.
-4. India’s rubber lock is **Kerala**. Rubber (*Hevea*) originated in the Amazon and moved to South-East Asia. Malaysia’s **Kinta Valley** is **tin**, not rubber.
+4. India’s rubber fact is **Kerala**. Rubber (*Hevea*) originated in the Amazon and moved to South-East Asia. Malaysia’s **Kinta Valley** is **tin**, not rubber.
 5. Shifting-cultivation names: **Jhum** (NE India), **Podu** (Andhra/Odisha), **Ladang** (Malaysia), **Milpa** (Mexico), **Roca** (Brazil), **Chena** (Sri Lanka), **Caingin** (Philippines).
 6. The world **citrus** belt is **Mediterranean**, not equatorial.
-7. Philippines cane and coconut history lock: **Spanish and Americans**.
-8. Wrong Indian crop–state dumps include Gujarat–tea, UP–jute, and Assam–wheat. The right lock is **Kerala–rubber** (and Assam for tea volume).
+7. Philippines cane and coconut history fact: **Spanish and Americans**.
+8. Wrong Indian crop–state dumps include Gujarat–tea, UP–jute, and Assam–wheat. The right fact is **Kerala–rubber** (and Assam for tea volume).
 9. **Oil palm** majors are **Indonesia and Malaysia**. **Olive** majors are Spain, Italy, and Greece.
 10. World **sugarcane** leader is **Brazil**. **Sugar beet** belongs to temperate **Europe**.
 11. For rice and wheat, **China and India** lead in **volume**, but classic **exporters** are often other countries (Thailand/Vietnam for rice; Russia/USA/Canada and others for wheat).
 12. **Intensive subsistence** = monsoon wet rice. **Extensive commercial** = Prairie/Pampas wheat. **Mixed farming** = crops plus livestock (West Europe / US Midwest).
-13. **Black tea** is fermented; **green tea** is not. The pluck lock is **two leaves and a bud**. Tea likes **20–30°C**, **150–300 cm** rain, slope, and acid soil.
+13. **Black tea** is fermented; **green tea** is not. The pluck fact is **two leaves and a bud**. Tea likes **20–30°C**, **150–300 cm** rain, slope, and acid soil.
 14. **IRRI** is in the Philippines. Borlaug’s Nobel was for **Peace**. **FAO** HQ is **Rome**.
-15. Banana: India produces heavily; **Ecuador** is a classic shipper. Silk and wool volume often lock on **China**; Australia is famous for **Merino** wool.
+15. Banana: India produces heavily; **Ecuador** is a classic shipper. Silk and wool volume often fact on **China**; Australia is famous for **Merino** wool.
 16. Soy export triangle = **USA–Brazil–Argentina**. India leads world **milk volume**; New Zealand and the Netherlands dominate the dairy-export story.
 17. **Von Thünen** is market rings around a city. **Whittlesey** is the thirteen world agricultural types — do not merge the two models.
 18. Five Mediterranean **west coasts** carry the citrus / vine / olive world belt.
-19. Maize lock: **US Corn Belt**; USA > China > Brazil in volume. Long-staple cotton = Egypt/Sudan; short staple = India–Pakistan belt.
+19. Maize fact: **US Corn Belt**; USA > China > Brazil in volume. Long-staple cotton = Egypt/Sudan; short staple = India–Pakistan belt.
 20. Ranching belts include Pampas, Prairie, Veld, and Downs. Shifting cultivation is humid-tropics slash-and-burn with short crop years and long fallow.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Plantation vs food grain | Tea (also coffee, rubber, cocoa, cane, oil palm, banana) | Wheat / rice / maize as “plantation” | बागान |
 | Producer vs exporter (rice/wheat) | China often **#1 volume**; **not** the classic exporter | China = wheat/rice export king | उत्पादक / निर्यातक |
@@ -57,7 +57,7 @@ Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds |
 | Ladang vs milpa | Ladang = **Malaysia**; milpa = **Mexico** | Swapped | लदांग / मिल्पा |
 | Roca vs chena | Roca = **Brazil**; chena = **Sri Lanka** | Swapped | रोका / चेना |
 | Cane vs beet | Cane = tropics (**Brazil**); beet = **Europe** | Beet in Kerala | गन्ना / चुकंदर |
-| Citrus belt | **Mediterranean** | Equatorial / Himalayan valleys as *world* lock | नींबू वर्गीय |
+| Citrus belt | **Mediterranean** | Equatorial / Himalayan valleys as *world* fact | नींबू वर्गीय |
 | Oil palm vs rubber | Oil palm volume = **Indonesia + Malaysia** | Oil palm = Kerala only | तेल ताड़ |
 | Black tea vs green tea | Black = **fermented**; green = **not** | Swapped | काली / हरी चाय |
 | Philippines cane | **Spanish and Americans** | Dutch (Indonesia) / British | फिलीपींस |
@@ -75,10 +75,10 @@ Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds |
 
 This chapter links **farming systems** to **crop belts** and **producer ≠ exporter** traps.
 
-- First lock the **system** (intensive / extensive / plantation / Med / dairy / ranching / shifting).
-- Then lock the **crop climate** and the **country rank the paper froze** (e.g. coffee 2016).
+- First fact the **system** (intensive / extensive / plantation / Med / dairy / ranching / shifting).
+- Then fact the **crop climate** and the **country rank the paper froze** (e.g. coffee 2016).
 - **Whittlesey** is the world-type map; **Von Thünen** is the ideal market-distance ring model — do not merge them.
-- India crop detail lives in Topic 06 — here keep only world locks that sneak into Prelims (Kerala rubber, Assam tea, Philippines cane).
+- India crop detail lives in Topic 06 — here keep only world facts that sneak into Prelims (Kerala rubber, Assam tea, Philippines cane).
 
 **Order of this chapter**
 
@@ -92,9 +92,9 @@ Teach the **full systems map** — next year can ask any Lucent crop belt, not o
 
 ## N.1 Agriculture (world systems)
 
-Agriculture = primary activity that raises crops and/or animals. Exam first splits **subsistence vs commercial**, then **intensive vs extensive**, then the **named systems**.
+Agriculture = primary activity that raises crops and/or animals. first splits **subsistence vs commercial**, then **intensive vs extensive**, then the **named systems**.
 
-| Split | Meaning | Exam picture |
+| Split | Meaning | picture |
 |-------|---------|--------------|
 | **Subsistence** | Family food; little surplus | Wet-rice monsoon Asia; shifting tropics |
 | **Commercial** | Surplus for **market / export** | Prairie wheat, plantation, dairy NZ |
@@ -116,7 +116,7 @@ Agriculture = primary activity that raises crops and/or animals. Exam first spli
 
 **Other named systems (one home each)**
 
-| System | Climate / where | What is grown / raised | Extra lock |
+| System | Climate / where | What is grown / raised | Extra fact |
 |--------|-----------------|------------------------|------------|
 | **Mixed farming** | W Europe, US Midwest | Crops **+** livestock on the **same** farm | Fodder rotation; manure; not “only wheat” |
 | **Dairy farming** | NW Europe, Great Lakes, NZ, Denmark, Netherlands | Milk, butter, cheese | Mild climate + fodder + urban market; NZ = grass-export dairy |
@@ -131,7 +131,7 @@ Agriculture = primary activity that raises crops and/or animals. Exam first spli
 
 **Viticulture / sericulture / pisciculture / apiculture** (definition MCQs)
 
-| Term | Lock |
+| Term | Meaning |
 |------|------|
 | **Viticulture** | Grapes (wine) — France, Italy, Spain, California, Chile, Australia, Cape |
 | **Sericulture** | Silk — **China** volume; India (Mulberry Karnataka–AP–WB; also tussar/eri/muga) |
@@ -139,7 +139,7 @@ Agriculture = primary activity that raises crops and/or animals. Exam first spli
 | **Apiculture** | Bees / honey |
 | **Floriculture** | Flowers (Netherlands auction fame) |
 
-Plantation MCQ lock = **Tea** (not wheat / rice / maize). World citrus belt = **Mediterranean**, not equatorial and not Kangra / Pir Panjal as the *world* answer.
+Plantation MCQ fact = **Tea** (not wheat / rice / maize). World citrus belt = **Mediterranean**, not equatorial and not Kangra / Pir Panjal as the *world* answer.
 
 **Inline PYQ — UPPCS Prelims 2024, Q34**
 
@@ -236,7 +236,7 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 - **IRRI** (International Rice Research Institute) = **Los Baños, Philippines** — HYV rice of the Green Revolution.
 - **Golden rice** = genetically enriched with **Vitamin A** (2018 pair was correctly matched).
 
-| | Usual exam lock |
+| | Usual key fact |
 |--|-----------------|
 | **Producers (volume)** | **China > India > Indonesia > Bangladesh > Vietnam** |
 | **Exporters** | **Thailand, Vietnam, India, Pakistan, USA** |
@@ -249,7 +249,7 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 - **Spring wheat** = sown spring in **harsh-winter** belts (Canadian Prairie, Siberia).
 - **Durum** = hard wheat for **pasta** (Mediterranean).
 
-| | Usual exam lock |
+| | Usual key fact |
 |--|-----------------|
 | **Producers (volume)** | **China, India, Russia, USA, France, Canada, Australia, Ukraine** |
 | **Exporters** | **Russia, USA, Canada, France, Australia, Argentina** |
@@ -274,7 +274,7 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 
 ### Millets / coarse grains
 
-- Drought belts of **Africa + India** (sorghum, pearl millet, finger millet). Climate lock = **low rain**, not 200 cm tea slopes.
+- Drought belts of **Africa + India** (sorghum, pearl millet, finger millet). Climate fact = **low rain**, not 200 cm tea slopes.
 
 ---
 
@@ -285,9 +285,9 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 - Temp **~21–30°C**. Rain **~50–100 cm** (or irrigation). About **210 frost-free days**. Bright sun at picking. Black / alluvial soils.
 - **Long staple** (best): **Egypt, Sudan**, USA Sea Island.
 - **Medium staple:** USA Upland.
-- **Short staple:** **India, Pakistan, China** (bulk).
+- **Short staple:India, Pakistan, China** (bulk).
 - Volume names: **China, India** (often **largest area**), **USA, Brazil, Pakistan**.
-- **Cotton Belt** = southern USA (historical exam tag).
+- **Cotton Belt** = southern USA (historical tag).
 
 ### Jute (“golden fibre”)
 
@@ -300,7 +300,7 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 |--|-----------|------------|
 | Climate | Tropical; long season **10–18 months**; frost-free | Temperate; **4–7 months** |
 | Rain / water | **~75–150 cm** or irrigation | Moderate rain; Europe plains |
-| World lock | **Brazil** (also ethanol from cane) | **France, Germany, Russia, Ukraine, USA** |
+| World fact | **Brazil** (also ethanol from cane) | **France, Germany, Russia, Ukraine, USA** |
 | Asia names | India, China, Thailand, Pakistan | Not a Kerala crop |
 
 ### Oilseeds and tree oils
@@ -314,13 +314,13 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 | **Oil palm** | Equatorial, high rain | **Indonesia + Malaysia** (volume). Nigeria origin story, not today’s tonnage king |
 | **Olive** | Mediterranean winter-rain | **Spain, Italy, Greece**, Tunisia |
 
-> **Exam note:** Oil palm ≠ rubber (different tree, same SE-Asia map). Olive ≠ equatorial cocoa.
+> ** note:** Oil palm ≠ rubber (different tree, same SE-Asia map). Olive ≠ equatorial cocoa.
 
 ---
 
 ## N.5 Plantation crops (the system)
 
-| Feature | Lock |
+| Feature | Fact |
 |---------|------|
 | Climate | Tropical / subtropical; **no severe frost** |
 | Organisation | **Estate** (large), often colonial origin |
@@ -332,7 +332,7 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 
 **India on the world plantation map**
 
-| Crop | India lock | Do not write |
+| Crop | India | Do not write |
 |------|------------|--------------|
 | Tea | Assam (volume), WB Darjeeling, Nilgiri | Gujarat — Tea |
 | Coffee | Karnataka > Kerala > Tamil Nadu (shade, Western Ghats) | Assam as coffee king |
@@ -403,7 +403,7 @@ D. Spanish and Americans
 - Pluck = **two leaves and a bud**.
 - Hill + monsoon + slope = tea. **Not** a desert crop. **Not** a zaid melon.
 
-| Type | Processing | Where the exam puts it |
+| Type | Processing | Where the puts it |
 |------|------------|------------------------|
 | **Black** | Fully **fermented** | India, Sri Lanka, Kenya |
 | **Green** | **Not** fermented | China, Japan |
@@ -411,7 +411,7 @@ D. Spanish and Americans
 | **CTC** | Crush–tear–curl (granular, tea-bag) | Indian plains/Assam bulk |
 | **Orthodox** | Whole-leaf | Darjeeling, Ceylon high-grown |
 
-| Region | Lock |
+| Region | Fact |
 |--------|------|
 | **China** | Usual **largest producer**; original home; green-tea fame |
 | **India** | **Assam** (Brahmaputra valley — **volume**), **Darjeeling** (GI, hill, orthodox), **Dooars/Terai**, **Nilgiri**, Kangra, Munnar |
@@ -433,14 +433,12 @@ D. Spanish and Americans
 | **Robusta** (*C. canephora*) | Stronger, more caffeine, hardier, lower altitude | **Vietnam**, Uganda, lowland tropics |
 | **Liberica** | Awareness only | W Africa pockets |
 
-**2016 quantity (freeze this paper order):**
+**2016 quantity (freeze this paper order):Brazil > Vietnam > Colombia > Indonesia**
 
-**Brazil > Vietnam > Colombia > Indonesia**
-
-| Country | Extra lock |
+| Country | Extra fact |
 |---------|------------|
 | **Brazil** | Usual **#1**. São Paulo–Minas–Paraná highlands. **Terra Roxa** soil. Mostly **arabica** |
-| **Vietnam** | **#2** in the 2016 lock. **Robusta** bulk. Central Highlands. Trap = putting it first |
+| **Vietnam** | **#2** in the 2016 fact. **Robusta** bulk. Central Highlands. Trap = putting it first |
 | **Colombia** | Mild **arabica**; **third** in 2016 four |
 | **Indonesia** | Sumatra / Java / Sulawesi; **fourth** in 2016 four |
 | **Ethiopia** | **Origin** story of arabica — **not** the 2016 tonnage king |
@@ -482,7 +480,7 @@ Trap **D** puts Colombia second. Trap **C** starts with Vietnam.
 - **Origin = Amazon** (like rubber). **Production shifted to West Africa**.
 - Chocolate **manufacturing** (Switzerland, Belgium, Netherlands, USA) ≠ **growing**.
 
-| Country | Lock |
+| Country | Fact |
 |---------|------|
 | **Côte d’Ivoire (Ivory Coast)** | World’s usual **#1** |
 | **Ghana** | #2 belt; quality name |
@@ -520,9 +518,9 @@ D. Ivory Coast
 
 - Latex from **tapping** the bark. Tree takes about **6–7 years** to come into tapping.
 - **Henry Wickham** took seeds from the Amazon to Kew, then to Ceylon / Malaya (1870s) → production belt **moved to South-East Asia**. Brazil is origin, **not** today’s tonnage king.
-- Natural rubber ≠ **neoprene** (synthetic — chemistry/industry lock).
+- Natural rubber ≠ **neoprene** (synthetic — chemistry/industry fact).
 
-| Country | Lock |
+| Country | Fact |
 |---------|------|
 | **Thailand** | Usual world leader in recent textbook years |
 | **Indonesia** | Large |
@@ -532,7 +530,7 @@ D. Ivory Coast
 | **China** | Growing consumer-producer |
 | Brazil | Origin; wild/native story, not the estate king now |
 
-**Kinta Valley (Malaysia)** = **tin** mining, **not** rubber/tea/coffee (2020 Q88). Rubber in Malaysia is the peninsula estate belt, not that valley name.
+**Kinta Valley (Malaysia)** = **tin** mining, **not** rubber/tea/coffee. Rubber in Malaysia is the peninsula estate belt, not that valley name.
 
 **Inline PYQ — UPPCS Prelims 2020, Q88**
 
@@ -559,7 +557,7 @@ D. Coffee Production
 
 ## N.10 Other plantation / tropical cash crops
 
-| Crop | Climate | World lock | Trap |
+| Crop | Climate | World fact | Trap |
 |------|---------|------------|------|
 | **Oil palm** | Equatorial, high rain | **Indonesia + Malaysia** | Latvia / Kerala-only |
 | **Banana** | Hot, wet, frost-free | India = huge **producer**; **Ecuador** (also Philippines, Costa Rica) = **export** | Equating producer with exporter |
@@ -576,10 +574,10 @@ D. Coffee Production
 
 Ranching is **commercial**. Nomadic herding is **subsistence**. Do not dump both on “Pampas”.
 
-| Item | Lock |
+| Item | Fact |
 |------|------|
 | **Cattle numbers** | **India** often #1 inventory; then Brazil, China, USA |
-| **Beef export** | Brazil, Australia, USA — **not** “India exports most beef because it has most cattle” as a blind lock |
+| **Beef export** | Brazil, Australia, USA — **not** “India exports most beef because it has most cattle” as a blind fact |
 | **Dairy** | **India** = largest **milk** volume (domestic). **NZ**, Netherlands, Denmark = commercial **export** dairy. Do not treat India as the cheese-ship king |
 | **Sheep / wool** | **Australia** (Merino) + China + NZ. Wool ≠ cotton |
 | **Pigs** | **China** |
@@ -631,7 +629,7 @@ Humid tropics: Amazon, Congo, SE Asia hills, NE India, Central America.
 
 ## N.13 World Green Revolution and FAO (short)
 
-| Lock | Fact |
+| Cue | Fact |
 |------|------|
 | **HYV package** | Seeds + water + fertiliser + pesticide — same logic worldwide |
 | **Wheat** | **Norman Borlaug**; CIMMYT **Mexico**; Nobel **Peace** (1970) — **not** “Nobel in Agriculture” |
@@ -640,13 +638,13 @@ Humid tropics: Amazon, Congo, SE Asia hills, NE India, Central America.
 | **FAO** | Food and Agriculture Organization; HQ **Rome**; **World Food Day 16 October** |
 | **Golden rice** | **Vitamin A** (correct 2018 pair) |
 
-India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture lock; here remember only the **world** institutions and Borlaug’s **Peace** Nobel.
+India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture fact; here remember only the **world** institutions and Borlaug’s **Peace** Nobel.
 
 ---
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Crop predominantly grown under plantation agriculture:
@@ -855,7 +853,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 A. World #1 arabica, ahead of Brazil
 
-B. Large **robusta** exporter, #2 in the 2016 lock
+B. Large **robusta** exporter, #2 in the 2016 fact
 
 C. Only wild Ethiopian coffee
 
@@ -1245,7 +1243,7 @@ D. Sahara erg
 
 A. Tea (ahead of China)
 
-B. Sugarcane (and still coffee #1 in the 2016 lock)
+B. Sugarcane (and still coffee #1 in the 2016 fact)
 
 C. Jute (ahead of Bangladesh)
 
@@ -1634,8 +1632,7 @@ D. Chena — Mexico
 
 ---
 
-**Q46.** Banana: producer vs exporter trap —
-
+**Q46.** Banana: producer vs exporter trap
 **Options:**
 
 A. India is always the largest banana **exporter**
@@ -1699,7 +1696,7 @@ D. Egypt–Sudan–Yemen
 
 ---
 
-**Q49.** Tea plucking lock:
+**Q49.** Tea plucking fact:
 
 **Options:**
 
@@ -1821,7 +1818,7 @@ D. Egypt–Sudan–Kerala
 
 ---
 
-**Q55.** Assertion (A): India is the world’s largest milk producer by volume.  
+**Q55.** Assertion (A): India is the world’s largest milk producer by volume.
 Reason (R): New Zealand is therefore not a dairy exporter.
 
 A. Both A and R are true and R explains A
@@ -1835,7 +1832,7 @@ D. A is false but R is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — India = volume; NZ remains a classic **export** dairy lock.
+**Ans: C** — India = volume; NZ remains a classic **export** dairy fact.
 </details>
 
 ---
@@ -2001,7 +1998,7 @@ D. 1 December
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — FAO lock; HQ Rome.
+**Ans: B** — FAO fact; HQ Rome.
 </details>
 
 ---

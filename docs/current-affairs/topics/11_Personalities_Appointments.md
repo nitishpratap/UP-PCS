@@ -1,6 +1,6 @@
 # Personalities & Appointments
 
-> **Priority B**  
+> **Priority B**
 > Match List questions love new presidents, governors, Speakers, CDS, and regulators.
 
 ## What to note every time
@@ -10,7 +10,7 @@
 | Exact name? | Spelling matters |
 | Exact post? | Office and country |
 | When appointed or elected? | Date |
-| Is the person of Indian origin? | High alert for exam |
+| Is the person of Indian origin? | High alert for |
 
 ---
 
@@ -46,7 +46,7 @@ If a clear PIB appointment of a Governor, CDS, Election Commissioner, or regulat
 
 ### Vikram Doraiswami | Ambassador to China
 
-**What happened**  
+**What happened**
 Around mid-March, coverage said **Vikram K. Doraiswami** was appointed India’s Ambassador to **China**. He earlier served as High Commissioner to the United Kingdom.
 
 ### Other names in March news
@@ -102,14 +102,14 @@ Around mid-March, coverage said **Vikram K. Doraiswami** was appointed India’s
 ### Key appointments in June coverage
 
 - **Lokhande Prashant Sitaram** — Chairperson, **CBSE**.
-- **Saurabh Vijay** — CEO, **IndiaAI Mission** (also earlier linked with UIDAI in May coverage; lock the post named in the stem).
+- **Saurabh Vijay** — CEO, **IndiaAI Mission** (also earlier linked with UIDAI in May coverage; fact the post named in the stem).
 - **Neelkanth Mishra** — India’s Executive Director at the **World Bank**.
 - **Dr Saibal Chattopadhyay** — Chairperson, **National Statistical Commission**.
 - **Tushar Mehta** — Solicitor General term extended (about three years in coverage).
 
 ### Soft tech name
 
-- **Kunal Shah** named as WhatsApp CEO in June compilations (global tech appointment; soft lock only).
+- **Kunal Shah** named as WhatsApp CEO in June compilations (global tech appointment; soft fact only).
 
 ---
 
@@ -142,29 +142,29 @@ Around mid-March, coverage said **Vikram K. Doraiswami** was appointed India’s
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** CDS succession — Subramani after Chauhan.
+**Logic:** CDS succession — Subramani after Chauhan.
 
 **Q1.** Who among the following succeeded General Anil Chauhan as the Chief of Defence Staff (end-May 2026 coverage)?
 
-A. General Manoj Pande  
-B. General N. S. Raja Subramani  
-C. General Upendra Dwivedi  
+A. General Manoj Pande
+B. General N. S. Raja Subramani
+C. General Upendra Dwivedi
 D. Admiral Dinesh K. Tripathi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** General **N. S. Raja Subramani** is the CDS lock. Trap: inserting a recent Army Chief name as CDS.
+**Ans: B.** General **N. S. Raja Subramani** is the CDS fact. Trap: inserting a recent Army Chief name as CDS.
 
 </details>
 
 ---
 
-**Exam logic:** Kankaria water-neutral depot; Harivansh / Ashok Lahiri.
+**Logic:** Kankaria water-neutral depot; Harivansh / Ashok Lahiri.
 
 **Q2.** Which of the following statements is/are correct for April–May 2026 national coverage?
 
@@ -174,9 +174,9 @@ D. Admiral Dinesh K. Tripathi
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -187,7 +187,7 @@ D. 1, 2 and 3
 </details>
 
 ---
-**Exam logic:** Match List — post ↔ name (UPPCS favourite).
+**Logic:** Match List — post ↔ name (UPPCS favourite).
 
 **Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -200,9 +200,9 @@ D. 1, 2 and 3
 
 *Row order is not the answer code.*
 
-A. 2 1 3 4  
-B. 2 1 4 3  
-C. 1 2 3 4  
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 3 4
 D. 2 3 1 4
 
 <details>
@@ -214,7 +214,7 @@ D. 2 3 1 4
 
 ---
 
-**Exam logic:** Naval / service chiefs.
+**Logic:** Naval / service chiefs.
 
 **Q4.** With reference to May–August 2026 service appointments, which of the following statements is/are correct?
 
@@ -224,9 +224,9 @@ D. 2 3 1 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -238,20 +238,20 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** April–June civilian appointments cluster.
+**Logic:** April–June civilian appointments cluster.
 
 **Q5.** Which of the following pairs is/are correctly matched?
 
-1. Harivansh Narayan Singh — Rajya Sabha Deputy Chairman  
-2. Saurabh Vijay — CEO, UIDAI (May coverage)  
-3. Lokhande Prashant Sitaram — Chairperson, CBSE  
-4. Neelkanth Mishra — India’s Executive Director at the World Bank  
+1. Harivansh Narayan Singh — Rajya Sabha Deputy Chairman
+2. Saurabh Vijay — CEO, UIDAI (May coverage)
+3. Lokhande Prashant Sitaram — Chairperson, CBSE
+4. Neelkanth Mishra — India’s Executive Director at the World Bank
 
 Select the correct answer from the code given below:
 
-A. 1, 2 and 3 only  
-B. 2, 3 and 4 only  
-C. 1, 3 and 4 only  
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
 D. 1, 2, 3 and 4
 
 <details>
@@ -263,7 +263,7 @@ D. 1, 2, 3 and 4
 
 ---
 
-**Exam logic:** EU leaders + Ambassador Doraiswami.
+**Logic:** EU leaders + Ambassador Doraiswami.
 
 **Q6.** With reference to diplomacy names in 2026 coverage, which of the following statements is/are correct?
 
@@ -273,9 +273,9 @@ D. 1, 2, 3 and 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -287,7 +287,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Soft regulators / House names.
+**Logic:** Soft regulators / House names.
 
 **Q7.** Which of the following statements is/are correct?
 
@@ -297,9 +297,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -311,7 +311,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Sitharaman ninth Budget.
+**Logic:** Sitharaman ninth Budget.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -334,7 +334,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Doraiswami China ambassador.
+**Logic:** Doraiswami China ambassador.
 
 **Q9.** Which of the following statements is/are correct?
 
@@ -358,7 +358,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Suryakumar T20 captain.
+**Logic:** Suryakumar T20 captain.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -381,7 +381,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Ashwini Bhide BMC first woman.
+**Logic:** Ashwini Bhide BMC first woman.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -404,12 +404,12 @@ D. Only 1
 
 ---
 
-**Exam logic:** UIDAI / IndiaAI Saurabh Vijay care.
+**Logic:** UIDAI / IndiaAI Saurabh Vijay care.
 
 **Q12.** Which of the following statements is/are correct?
 
 1. Saurabh Vijay linked with UIDAI CEO in May coverage.
-2. Also linked with IndiaAI Mission CEO in June coverage — lock the post named in the stem.
+2. Also linked with IndiaAI Mission CEO in June coverage — fact the post named in the stem.
 
 Select the correct answer from the code given below:
 
@@ -427,7 +427,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Tushar Mehta SG extension.
+**Logic:** Tushar Mehta SG extension.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -450,7 +450,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Andy Burnham UK PM soft July.
+**Logic:** Andy Burnham UK PM soft July.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -473,7 +473,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Bangladesh President soft Aug.
+**Logic:** Bangladesh President soft Aug.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -496,7 +496,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Roman Gofman Mossad soft.
+**Logic:** Roman Gofman Mossad soft.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -519,7 +519,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Lee Jae-myung Korea visit.
+**Logic:** Lee Jae-myung Korea visit.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -542,7 +542,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Raghav Chadha RS petitions.
+**Logic:** Raghav Chadha RS petitions.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -565,11 +565,11 @@ D. Only 1
 
 ---
 
-**Exam logic:** Kunal Shah WhatsApp soft.
+**Logic:** Kunal Shah WhatsApp soft.
 
 **Q19.** Which of the following statements is/are correct?
 
-1. Kunal Shah named as WhatsApp CEO in June compilations (soft global tech lock).
+1. Kunal Shah named as WhatsApp CEO in June compilations (soft global tech fact).
 2. He was appointed RBI Governor in the same note.
 
 Select the correct answer from the code given below:
@@ -588,7 +588,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Neelkanth Mishra World Bank ED.
+**Logic:** Neelkanth Mishra World Bank ED.
 
 **Q20.** Which of the following statements is/are correct?
 

@@ -9,41 +9,41 @@ Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventi
 
 </details>
 
-> **Sources baked in:** Lucent world mineral–field match-lists; NCERT Class 12 (minerals & energy); coaching resource map (LotusArise / shields–basins); UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — coalfield–country, Mount Newman iron, Chile copper, Kinta tin, Kashagan ≠ Kuwait, Pegu Yoma oil; teach full field map  
-> **Last verified:** August 2026 — coaching gap-pass (Lithium Triangle, REE–China, Carajás, producer≠exporter)  
+> **Sources baked in:** Lucent world mineral–field match-lists; NCERT Class 12 (minerals & energy); coaching resource map (LotusArise / shields–basins); UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — coalfield–country, Mount Newman iron, Chile copper, Kinta tin, Kashagan ≠ Kuwait, Pegu Yoma oil; teach full field map
+> **Last verified:** August 2026 — coaching gap-pass (Lithium Triangle, REE–China, Carajás, producer≠exporter)
 > **Current Affairs:** none mandatory for Prelims field matches (producer ranks freeze to the PYQ year)
 
 ---
 
-## Consolidated — 20 Must-Score Locks
+## Consolidated — 20 Must-Score Facts
 
-1. Coalfield–country locks: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk** is Ukraine’s classic coal answer among common options.
+1. Coalfield–country facts: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk** is Ukraine’s classic coal answer among common options.
 2. **Mount Newman / Pilbara / Hamersley** = **iron** in Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** = France. **Kiruna** = Sweden. **Mesabi** = USA.
 3. Germany–Normandy iron is **wrong**. **Normandy** is in **France**.
-4. **Chile** leads copper with northern Andes **porphyry** deposits (Chuquicamata, El Teniente). Also lock Katanga (DRC), Copperbelt (Zambia), and Bingham (USA).
+4. **Chile** leads copper with northern Andes **porphyry** deposits (Chuquicamata, El Teniente). Also fact Katanga (DRC), Copperbelt (Zambia), and Bingham (USA).
 5. Malaysia’s **Kinta Valley** = **tin** (cassiterite). Myanmar’s **Pegu Yoma** = **mineral oil**, not tin.
-6. **Kashagan** oil is in **Kazakhstan**, not Kuwait. **Burgan** is Kuwait. Also lock Ghawar/Dhahran (Saudi), Kirkuk/Zubair (Iraq), Haft Kel (Iran), Baku (Azerbaijan).
+6. **Kashagan** oil is in **Kazakhstan**, not Kuwait. **Burgan** is Kuwait. Also fact Ghawar/Dhahran (Saudi), Kirkuk/Zubair (Iraq), Haft Kel (Iran), Baku (Azerbaijan).
 7. Natural gas’s main constituent is **methane**. **LPG** is not the same as **CNG**.
-8. **Postmasburg** (South Africa) = **manganese**. **Iodine** lock = **Chile**. Steel volume top = **China**.
+8. **Postmasburg** (South Africa) = **manganese**. **Iodine** fact = **Chile**. Steel volume top = **China**.
 9. Nuclear and geothermal energy are **not** “stored solar”. Wind, biomass, and hydro are solar-linked renewables. Coal, oil, and gas are conventional non-renewables.
 10. **Hematite** is the red bulk ore; **magnetite** is black and highest grade. **Weipa** = bauxite; **Newman** = iron; **Witwatersrand** = gold; **Morocco** = phosphate.
 11. Qatar’s **North Field** and Iran’s **South Pars** are one continuous Gulf gas giant.
 12. **Itaipu** = Brazil–Paraguay hydel. **Three Gorges** = China on the Yangtze. **OPEC** HQ = **Vienna**. Original OPEC five (1960): Iran, Iraq, Kuwait, Saudi Arabia, Venezuela.
-13. **Lithium Triangle** = Chile–Argentina–Bolivia. Cobalt volume = **DRC**. REE processing lock = **China**. Uranium volume often locks on **Kazakhstan**.
+13. **Lithium Triangle** = Chile–Argentina–Bolivia. Cobalt volume = **DRC**. REE processing fact = **China**. Uranium volume often facts on **Kazakhstan**.
 14. Iron exporters = Australia (**Pilbara**) and Brazil (**Carajás**). China mines iron and still imports heavily.
 15. Ancient **shields** host many metals. Sedimentary **basins** host coal, oil, and gas.
-16. Karaganda (Kazakhstan) is a classic coal-city lock. Tin also locks on Bangka–Belitung (Indonesia) and the Andes of Bolivia.
+16. Karaganda (Kazakhstan) is a classic coal-city fact. Tin also facts on Bangka–Belitung (Indonesia) and the Andes of Bolivia.
 17. Energy classification: coal/oil/gas = conventional non-renewable; wind/biomass/hydro = renewable solar-linked; nuclear and geothermal stand apart from “stored solar” wording.
-18. Pegu Yoma must not be dumped into the SE-Asia tin belt — it is an **oil** lock.
+18. Pegu Yoma must not be dumped into the SE-Asia tin belt — it is an **oil** fact.
 19. Chile copper Assertion–Reason pattern: both copper leadership and porphyry geology can be true, and geology can explain leadership.
 20. North Sea oil/gas = UK–Norway belt; West Siberia = Russia’s giant hydrocarbon province.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Ruhr | **Germany** | Britain / France / Russia | रुहर |
 | Kuzbass | **Russia** | Ukraine / Germany | कुजबास |
@@ -64,7 +64,7 @@ Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventi
 | Dhahran | **Saudi Arabia** | Kuwait | धहरान |
 | Methane | Natural gas **and** CNG | LPG (propane/butane) | मीथेन |
 | Nuclear vs solar | Nuclear **not** stored solar | Marking only wind as non-solar | नाभिकीय |
-| Iodine | **Chile** | Japan / USA / China as the 2018 lock | आयोडीन |
+| Iodine | **Chile** | Japan / USA / China as the 2018 fact | आयोडीन |
 | Postmasburg | **Manganese**, South Africa | Uranium / mica / bauxite | पोस्टमासबर्ग |
 | Weipa vs Newman | Weipa = **bauxite**; Newman = **iron** | Swap | वीपा / न्यूमैन |
 | Witwatersrand | **Gold**, South Africa | Postmasburg Mn dump | विटवाटरसैंड |
@@ -88,9 +88,9 @@ Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventi
 This chapter is a **field–country / mineral–place** match map. Geology first, then the Lucent names.
 
 - **Precambrian shields** host many metallic ores; **sedimentary basins** host coal, oil and gas; **Andean porphyry** belts host copper (and lithium brines nearby).
-- Lock **one identity line** per famous field: mineral · country · one trap.
+- Fact **one identity line** per famous field: mineral · country · one trap.
 - Separate **producer volume** from **exporter** (China often mines and still imports iron/coal).
-- India mineral belts live mainly in Topic 08 — here keep only world locks that sneak into Prelims (and a few India tags already in PYQs).
+- India mineral belts live mainly in Topic 08 — here keep only world facts that sneak into Prelims (and a few India tags already in PYQs).
 
 **Order of this chapter**
 
@@ -110,7 +110,7 @@ Teach the **full field map** — next year can ask any Lucent coalfield or ore t
 
 **Types**
 
-| Type | Carbon (exam) | Character | Region |
+| Type | Carbon () | Character | Region |
 |------|---------------|-----------|-------------------------|
 | **Peat** | Lowest | First stage; high water | Ireland, Russia, Canada bogs |
 | **Lignite** (brown coal) | Low | Soft; thermal only | Germany (Lusatia), Australia, Neyveli-type |
@@ -125,11 +125,11 @@ Teach the **full field map** — next year can ask any Lucent coalfield or ore t
 | **Exporters** | **Indonesia, Australia, Russia, USA, South Africa** |
 | Trap | China is **not** the classic export king — it is the volume **consumer** |
 
-**World coalfields — country lock**
+**World coalfields — country fact**
 
-| Coalfield | Country | Extra lock |
+| Coalfield | Country | Extra fact |
 |-----------|---------|------------|
-| **Appalachian** | **USA** | Eastern USA (not the Rockies as the exam name) |
+| **Appalachian** | **USA** | Eastern USA (not the Rockies as the name) |
 | Pennsylvania anthracite | USA | Highest-rank US coal |
 | Interior / Illinois | USA | Bituminous |
 | **Lancashire** | **England** | Historic English coal–textile belt |
@@ -151,7 +151,7 @@ Teach the **full field map** — next year can ask any Lucent coalfield or ore t
 | Witbank / Highveld | South Africa | |
 | Damodar — Jharia, Raniganj | India | Jharia = coking fame; Raniganj = West Bengal |
 
-The 2025 coal match locks Appalachian to the **USA**, Lancashire to **England**, Ruhr to **Germany**, and Kuzbass to **Russia**. Ukraine’s coal centre among the usual city options is **Donetsk**.
+The 2025 coal matchs Appalachian to the **USA**, Lancashire to **England**, Ruhr to **Germany**, and Kuzbass to **Russia**. Ukraine’s coal centre among the usual city options is **Donetsk**.
 
 
 **Inline PYQ — UPPCS Prelims 2025, Q4**
@@ -235,7 +235,7 @@ D. France
 
 **Ores**
 
-| Ore | Colour | Fe (exam) | Lock |
+| Ore | Colour | Fe () | Fact |
 |-----|--------|-----------|------|
 | **Hematite** | **Red** | ~70% | **Bulk** ore of world trade |
 | **Magnetite** | **Black** | ~72% | **Highest grade**; magnetic |
@@ -266,7 +266,7 @@ D. France
 
 **World iron areas**
 
-| Area | Country | Extra lock |
+| Area | Country | Extra fact |
 |------|---------|------------|
 | **Mount Newman** | **Australia** | 2023. Pilbara / Hamersley |
 | Hamersley Range | Australia | Same belt |
@@ -381,13 +381,13 @@ D. India
 **Porphyry copper (2022 Reason)**
 
 - Large, low-grade, **disseminated** Cu in volcanic-arc rocks.
-- Northern **Andes of Chile** hold the exam’s “largest porphyry deposits”.
+- Northern **Andes of Chile** hold the ’s “largest porphyry deposits”.
 - That is why **R explains A** in 2022: Chile leads **because** of those Andes porphyries.
 - Rank vs DRC can flip in later USGS years — freeze **Chile + N Andes** to the 2022 paper.
 
 **World copper map**
 
-| Place | Country | Extra lock |
+| Place | Country | Extra fact |
 |-------|---------|------------|
 | **Chuquicamata** | **Chile** | Open-pit giant; Atacama / N Chile |
 | **El Teniente** | Chile | One of the world’s largest underground Cu mines |
@@ -401,9 +401,9 @@ D. India
 | Norilsk | Russia | Ni–Cu–PGE |
 | Grasberg | Indonesia | Cu + gold (Papua) |
 | China | China | Huge **user**; also mines |
-| Khetri / Malanjkhand / Singhbhum | India | India-map lock |
+| Khetri / Malanjkhand / Singhbhum | India | India-map fact |
 
-**Producer lock (2022)**
+**Producer fact (2022)**
 
 - **Chile** = leading producer in the paper’s framing.
 - Do not write “Chile has no copper”.
@@ -446,13 +446,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 **SE-Asia tin belt** (the world tin street)
 
 - Runs **Myanmar (Tenasserim) → Thailand → Malaysia → Indonesia**.
-- Malaysia’s exam name = **Kinta Valley** (Perak) — **tin**, not rubber/tea/coffee (2020).
-- Indonesia’s exam name = **Bangka and Belitung** islands.
+- Malaysia’s name = **Kinta Valley** (Perak) — **tin**, not rubber/tea/coffee (2020).
+- Indonesia’s name = **Bangka and Belitung** islands.
 - Myanmar tin = **Tenasserim / Dawei / Mawchi** — **not** Pegu Yoma.
 
 **Other tin countries**
 
-| Place | Country | Extra lock |
+| Place | Country | Extra fact |
 |-------|---------|------------|
 | **Kinta Valley** | **Malaysia** | 2020 PYQ. Rubber grows in Malaysia; Kinta still = **tin** |
 | **Bangka / Belitung** | Indonesia | |
@@ -567,7 +567,7 @@ D. Silver
 | Minas | Indonesia | |
 | Seria | Brunei | |
 | Yenangyaung / Chauk | **Myanmar** | With **Pegu Yoma** oil (2022) |
-| Mumbai High / Digboi / Ankleshwar | India | India-map lock |
+| Mumbai High / Digboi / Ankleshwar | India | India-map fact |
 
 Kuwait–Kashagan is **wrong**. Kashagan sits in **Kazakhstan** (Caspian). Kuwait’s classic giant is **Burgan**.
 
@@ -596,10 +596,10 @@ D. Iraq - Zubair
 
 ## N.6 Natural gas
 
-**Composition (PYQ lock)**
+**Composition (PYQ fact)**
 
 - Main constituent = **methane (CH₄)** — 2018 Q130 and 2022 Q19.
-- Same methane lock for **CNG**.
+- Same methane fact for **CNG**.
 - **LPG** = propane + butane. LPG ≠ CNG.
 - **LNG** = methane cooled to liquid for **ship** trade (Qatar, Australia).
 
@@ -618,7 +618,7 @@ D. Iraq - Zubair
 
 **World gas fields**
 
-| Field / area | Country | Extra lock |
+| Field / area | Country | Extra fact |
 |--------------|---------|------------|
 | **Urengoy** / Yamburg / Medvezhye | Russia | West Siberia |
 | **North Field** | **Qatar** | Same giant reservoir as Iran’s South Pars |
@@ -631,7 +631,7 @@ D. Iraq - Zubair
 | Shah Deniz | Azerbaijan | Caspian; pipelines to Turkey/EU |
 | NW Shelf / Gorgon | Australia | LNG |
 | North Sea | UK + Norway | Oil **and** gas |
-| KG / Mumbai High gas | India | India-map lock |
+| KG / Mumbai High gas | India | India-map fact |
 
 **Inline PYQ — UPPCS Prelims 2022, Q19**
 
@@ -744,7 +744,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 
 **Geothermal**
 
-| Country | Lock |
+| Country | Fact |
 |---------|------|
 | **Iceland** | Power + heating |
 | **New Zealand** | Rotorua / Taupo |
@@ -756,9 +756,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 
 - **La Rance** — France
 - Sihwa — Korea
-- India potential: **Gulf of Khambhat > Kutch**
-
-**Agencies**
+- India potential: **Gulf of Khambhat > KutchAgencies**
 
 | Body | HQ |
 |------|-----|
@@ -841,13 +839,13 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 
 **Iodine / nitrate (Chile cluster)**
 
-- **Iodine** 2018 lock (**lodine** spelling) = **Chile**.
+- **Iodine** 2018 fact (**lodine** spelling) = **Chile**.
 - Source = Atacama **caliche** (also sodium nitrate).
 - Do not mark Japan / USA / China as the 2018 leader.
 
 **Mica / graphite / sulphur / platinum / cobalt / lithium / tungsten**
 
-| Mineral | World lock |
+| Mineral | World fact |
 |---------|------------|
 | Sheet **mica** | **India** (Jharkhand–Andhra–Rajasthan) classic |
 | Graphite | China; India; Sri Lanka (vein) |
@@ -855,7 +853,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 | Platinum | Bushveld (South Africa); Norilsk |
 | Cobalt | **DRC** (with Katanga copper) |
 | Lithium | Australia hard-rock (spodumene); **Lithium Triangle** brines = **Chile–Argentina–Bolivia** (Brazil is **not** in the triangle) |
-| **Rare earths (REE)** | **China** dominates mining **and** especially **processing**; India has monazite sands but not China’s refining lock |
+| **Rare earths (REE)** | **China** dominates mining **and** especially **processing**; India has monazite sands but not China’s refining fact |
 | Tungsten | **China**; Bolivia |
 | Mercury | Almadén (Spain) historical |
 | Asbestos | Russia, Kazakhstan; Canada historical |
@@ -927,7 +925,7 @@ D. Geothermal energy
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Match List-I with List-II:
@@ -1128,7 +1126,7 @@ D. Mica
 
 ---
 
-**Q10.** Leading producer of iodine (2018 lock):
+**Q10.** Leading producer of iodine (2018 fact):
 
 **Options:**
 
@@ -1885,7 +1883,7 @@ D. Neither
 
 ---
 
-**Q43.** Copperbelt is the exam tag for:
+**Q43.** Copperbelt is the tag for:
 
 **Options:**
 
@@ -2018,7 +2016,7 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q49.** North Sea hydrocarbon producers in the exam map:
+**Q49.** North Sea hydrocarbon producers in the map:
 
 **Options:**
 
@@ -2041,7 +2039,7 @@ D. Laos and Cambodia
 
 **Q50.** How many of the following are correct?
 
-1. Chile leads the 2018 iodine lock.
+1. Chile leads the 2018 iodine fact.
 2. Chile leads the 2022 copper framing.
 3. Chile’s Atacama is equatorial rainforest.
 
@@ -2083,7 +2081,7 @@ D. Australia–Indonesia–Malaysia
 
 ---
 
-**Q52.** Which country dominates rare-earth **processing** in the usual coaching lock?
+**Q52.** Which country dominates rare-earth **processing** in the usual coaching fact?
 
 A. Chile
 
@@ -2142,7 +2140,7 @@ D. 1, 2, 3 and 4
 
 ---
 
-**Q55.** Assertion (A): Sedimentary basins are the classic home of commercial oil and coal.  
+**Q55.** Assertion (A): Sedimentary basins are the classic home of commercial oil and coal.
 Reason (R): Precambrian shields therefore never host metallic ores.
 
 A. Both A and R are true and R explains A
@@ -2313,7 +2311,7 @@ D. Only solar PV silicon
 
 A. OPEC — Riyadh
 
-B. IAEA — Geneva only as the Prelims lock
+B. IAEA — Geneva only as the Prelims fact
 
 C. OPEC — Vienna
 
@@ -2736,6 +2734,6 @@ None mandatory. Producer ranks and “leading country” freeze to the **paper�
 19. **North Field = Russian Urengoy** — FALSE. **Qatar** (pair = Iran South Pars).
 20. **OPEC HQ = Riyadh / Geneva** — FALSE. **Vienna**.
 21. **Lithium Triangle includes Brazil** — FALSE. Chile–Argentina–Bolivia.
-22. **Rare earths = Chile only** — FALSE. Processing lock = **China**.
+22. **Rare earths = Chile only** — FALSE. Processing fact = **China**.
 23. **Carajás = Mount Newman** — FALSE. Carajás = Brazil iron; Newman = Australia iron.
 24. **Skip non-PYQ fields because papers asked Ruhr/Kinta** — FALSE. Next year can ask any Lucent field.

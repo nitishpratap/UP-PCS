@@ -8,27 +8,27 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 
 </details>
 
-> **Sources baked in:** NWDC/WII; MoEFCC; WPA 1972; UNESCO WH; NCERT; UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ High — NP ↔ state; UP negative geography; marine first; Yellowstone vs Corbett  
+> **Sources baked in:** NWDC/WII; MoEFCC; WPA 1972; UNESCO WH; NCERT; UPPCS/UPSC PYQs
+> **Weight:** ★★★ High — NP ↔ state; UP negative geography; marine first; Yellowstone vs Corbett
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Uttar Pradesh has **one National Park — Dudhwa** — in **Lakhimpur Kheri** on the Indo-Nepal Terai.
 2. Dudhwa moved sanctuary (**1958**) → National Park (**1977**) → core of **Dudhwa Tiger Reserve (1987)** with Kishanpur and Katarniaghat.
 3. **Valmiki** National Park is in **Bihar**. **Sultanpur** National Park is in **Haryana**. **Corbett** is in **Uttarakhand**. None is a UP national park.
 4. Uttar Pradesh is **landlocked**, so it has **zero** marine or coastal national parks.
 5. UP has **25 Wildlife Sanctuaries**. **Hastinapur** is the largest. **Chandraprabha** is in **Chandauli**. **Katarniaghat** was established in **1975**.
-6. **Rudrasagar** Lake is in **Tripura**. **Sultanpur** NP is in **Haryana**. **Samaspur** and **Sarsai Nawar** **are** in Uttar Pradesh.
+6. **Rudrasagar** Lake is in **Tripura**. **Sultanpur** NP is in **Haryana**. **Samaspur** and **Sarsai Nawarare** in Uttar Pradesh.
 7. India’s first National Park is **Hailey / Jim Corbett (1936)** in Uttarakhand. The world’s first is **Yellowstone (USA, 1872)**.
 8. India’s **largest** National Park is **Hemis** in **Ladakh**. **Madhya Pradesh** has the most national parks.
 9. **Gir (Gujarat)** holds the only wild **Asiatic lions**. **Kaziranga (Assam)** is the classic one-horned rhino stronghold.
 10. A National Park is the strictest **Wildlife Protection Act** category (Section **35**). Boundary change needs **Parliament**.
 11. A Wildlife Sanctuary (Section **36**) is more flexible than a National Park. National Parks are **in-situ** conservation.
 12. India’s first Marine National Park is **Gulf of Kutch (Gujarat)**. Others include **Gulf of Mannar (Tamil Nadu)** and the Andaman marine parks.
-13. Marine NP locks: **Mahatma Gandhi Marine** and **Rani Jhansi Marine** are in the **Andaman** group.
+13. Marine NP facts: **Mahatma Gandhi Marine** and **Rani Jhansi Marine** are in the **Andaman** group.
 14. Natural World Heritage overlaps include Kaziranga, Keoladeo, Manas, Sundarbans, Nanda Devi–Valley of Flowers, Western Ghats, Great Himalayan, and Khangchendzonga.
 15. Uttar Pradesh has **no** natural UNESCO World Heritage site of its own.
 16. Classic match set: **Dachigam–Jammu & Kashmir**, **Keoladeo–Rajasthan**, **Kanha–Madhya Pradesh**, **Periyar–Kerala**.
@@ -43,9 +43,9 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Term | One-line lock |
+| Term | One-line fact |
 |------|---------------|
 | **National Park** | WPA Sec 35 — strictest; boundary change needs Parliament |
 | **Wildlife Sanctuary** | WPA Sec 36 — more flexible than NP |
@@ -74,7 +74,7 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 
 Dudhwa National Park is situated in which district of Uttar Pradesh?
 
-Options: A. Bahraich  B. Lakhimpur Kheri  C. Pilibhit  D. Sitapur
+Options: A. Bahraich B. Lakhimpur Kheri C. Pilibhit D. Sitapur
 
 <details><summary>Show answer</summary>
 
@@ -82,7 +82,7 @@ Options: A. Bahraich  B. Lakhimpur Kheri  C. Pilibhit  D. Sitapur
 
 </details>
 
-> **Exam note:** “UP has two NPs — Dudhwa and Valmiki” is **false**.
+> ** note:** “UP has two NPs — Dudhwa and Valmiki” is **false**.
 
 ---
 
@@ -91,7 +91,7 @@ Options: A. Bahraich  B. Lakhimpur Kheri  C. Pilibhit  D. Sitapur
 **Identity:** 25 WLS | Hastinapur largest | Chandraprabha Chandauli | Katarniaghat 1975
 
 - UP has **25 Wildlife Sanctuaries** (official PA network) — most of the state’s in-situ protection outside Dudhwa.
-- **Terai trio with Dudhwa:** **Katarniaghat** (Bahraich) and **Kishanpur** (Lakhimpur Kheri) — tiger, gharial, dolphin corridor.
+- **Terai trio with Dudhwa:Katarniaghat** (Bahraich) and **Kishanpur** (Lakhimpur Kheri) — tiger, gharial, dolphin corridor.
 - **Hastinapur WLS** (~2,073 sq km) is UP’s **largest**, spanning Meerut–Muzaffarnagar–Ghaziabad–Bijnor–Amroha.
 - **National Chambal WLS** (Agra–Etawah + MP–Rajasthan) — gharial, dolphin, Indian skimmer.
 - **Chandraprabha WLS** is in **Chandauli** (1957; among earliest in UP).
@@ -102,7 +102,7 @@ Options: A. Bahraich  B. Lakhimpur Kheri  C. Pilibhit  D. Sitapur
 
 Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
 
-Options: A. Sonbhadra  B. Chandauli  C. Bahraich  D. Lakhimpur Kheri
+Options: A. Sonbhadra B. Chandauli C. Bahraich D. Lakhimpur Kheri
 
 <details><summary>Show answer</summary>
 
@@ -114,7 +114,7 @@ Options: A. Sonbhadra  B. Chandauli  C. Bahraich  D. Lakhimpur Kheri
 
 Which Wildlife Sanctuary of Uttar Pradesh was established in 1975?
 
-Options: A. Chambal  B. Katarniaghat  C. Raipur  D. Kishanpur
+Options: A. Chambal B. Katarniaghat C. Raipur D. Kishanpur
 
 <details><summary>Show answer</summary>
 
@@ -124,10 +124,10 @@ Options: A. Chambal  B. Katarniaghat  C. Raipur  D. Kishanpur
 
 **PYQ — UPPCS Prelims 2025, Q58**
 
-Which Ramsar sites are NOT located in Uttar Pradesh?  
-1. Sarsai Nawar Jheel  2. Samaspur Bird Sanctuary  3. Rudrasagar Lake  4. Sultanpur National Park
+Which Ramsar sites are NOT located in Uttar Pradesh?
+1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
 
-Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
+Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 <details><summary>Show answer</summary>
 
@@ -137,7 +137,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 
 ### All 25 Wildlife Sanctuaries of UP
 
-| # | Sanctuary | District(s) | Exam lock |
+| # | Sanctuary | District(s) | Key fact |
 |---|-----------|-------------|-----------|
 | 1 | Bakhira | Sant Kabir Nagar | Ramsar waterfowl |
 | 2 | Chandraprabha | **Chandauli** | Early WLS (1957) |
@@ -165,7 +165,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 | 24 | Vijai Sagar | Mahoba | Bundelkhand lake |
 | 25 | Sarsai Nawar | Etawah | **IN UP** (Q58) |
 
-> **Exam note:** Samaspur and Sarsai Nawar are **in UP** — do not mark them “NOT in UP.”
+> ** note:** Samaspur and Sarsai Nawar are **in UP** — do not mark them “NOT in UP.”
 
 ---
 
@@ -175,19 +175,19 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 
 - India’s first NP is **Hailey / Jim Corbett NP (1936)**, **Uttarakhand**.
 - NWDC count ~**106** NPs (~1.35% of India’s area); newer notifications keep the total near **106–110**.
-- **Largest NP:** **Hemis**, Ladakh (~3,350 sq km) — snow leopard country.
-- **Most NPs:** **Madhya Pradesh** (~11).
-- Unique locks: **Gir (Gujarat)** = only wild Asiatic lions; **Kaziranga (Assam)** = one-horned rhino stronghold; **Keoladeo (Rajasthan)** = migratory birds + Ramsar + WH.
+- **Largest NP:Hemis**, Ladakh (~3,350 sq km) — snow leopard country.
+- **Most NPs:Madhya Pradesh** (~11).
+- Unique facts: **Gir (Gujarat)** = only wild Asiatic lions; **Kaziranga (Assam)** = one-horned rhino stronghold; **Keoladeo (Rajasthan)** = migratory birds + Ramsar + WH.
 - National Parks maintain genetic diversity through **in-situ conservation**.
 - Negative traps: **Simlipal = Odisha** (not MP); **Sultanpur = Haryana**; zero-NP UTs include Delhi/Lakshadweep-type distractors in some lists.
 - Uttarakhand has **6 NPs** vs UP’s **1** (post-2000 bifurcation trap).
 
 **PYQ — UPPCS Prelims 2025, Q90**
 
-Match: A. Dachigam  B. Keoladeo  C. Kanha  D. Periyar  
-with 1. Madhya Pradesh  2. Rajasthan  3. Kerala  4. Jammu and Kashmir
+Match: A. Dachigam B. Keoladeo C. Kanha D. Periyar
+with 1. Madhya Pradesh 2. Rajasthan 3. Kerala 4. Jammu and Kashmir
 
-Options: A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
+Options: A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
 
 <details><summary>Show answer</summary>
 
@@ -199,7 +199,7 @@ Options: A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
 
 In National Parks, genetic diversity is maintained through—
 
-Options: A. In-situ conservation  B. Ex-situ conservation  C. Gene pool  D. None
+Options: A. In-situ conservation B. Ex-situ conservation C. Gene pool D. None
 
 <details><summary>Show answer</summary>
 
@@ -211,7 +211,7 @@ Options: A. In-situ conservation  B. Ex-situ conservation  C. Gene pool  D. None
 
 Keibul Lamjao National Park is located in which lake?
 
-Options: A. Loktak  B. Dal  C. Wular  D. Kolleru
+Options: A. Loktak B. Dal C. Wular D. Kolleru
 
 <details><summary>Show answer</summary>
 
@@ -221,10 +221,10 @@ Options: A. Loktak  B. Dal  C. Wular  D. Kolleru
 
 **PYQ — UPPCS Prelims 2020, Q62**
 
-Match: A. Indravati  B. Mollem  C. Kalesar  D. Betla  
-with 1. Jharkhand  2. Haryana  3. Goa  4. Chhattisgarh
+Match: A. Indravati B. Mollem C. Kalesar D. Betla
+with 1. Jharkhand 2. Haryana 3. Goa 4. Chhattisgarh
 
-Options: A. 4 3 2 1  B. 4 2 3 1  C. 4 1 3 2  D. 3 4 2 1
+Options: A. 4 3 2 1 B. 4 2 3 1 C. 4 1 3 2 D. 3 4 2 1
 
 <details><summary>Show answer</summary>
 
@@ -250,9 +250,9 @@ Which pair is NOT correctly matched?
 
 </details>
 
-### High-yield NP ↔ State locks
+### High-yield NP ↔ Leading states
 
-| National Park | State/UT | Extra lock |
+| National Park | State/UT | Extra fact |
 |---------------|----------|------------|
 | Jim Corbett | Uttarakhand | India first (1936) |
 | Dudhwa | Uttar Pradesh | Only UP NP |
@@ -276,7 +276,7 @@ Which pair is NOT correctly matched?
 | Great Himalayan | Himachal Pradesh | WH 2014 |
 | Khangchendzonga | Sikkim | Mixed WH |
 
-> **Exam note:** Kanha = **MP**. Keoladeo = **Rajasthan**, not UP.
+> ** note:** Kanha = **MP**. Keoladeo = **Rajasthan**, not UP.
 
 ---
 
@@ -289,14 +289,14 @@ Which pair is NOT correctly matched?
 - **Mahatma Gandhi Marine NP (Wandoor)** and **Rani Jhansi Marine NP** are in the **Andaman** Islands.
 - Do not call **Sundarbans** or **Gahirmatha** India’s first marine NP — Sundarbans is coastal mangrove NP; Gahirmatha is a **marine sanctuary** (olive ridley), not an NP.
 
-| # | Marine NP | State/UT | Lock |
+| # | Marine NP | State/UT | Fact |
 |---|-----------|----------|------|
 | 1 | Gulf of Kutch | Gujarat | **First** |
 | 2 | Gulf of Mannar | Tamil Nadu | Dugong / GoM BR |
 | 3 | Mahatma Gandhi Marine | Andaman | Wandoor |
 | 4 | Rani Jhansi Marine | Andaman | Ritchie’s Archipelago |
 
-> **Exam note:** First Marine NP = **Gulf of Kutch**, not Mannar or Sundarbans.
+> ** note:** First Marine NP = **Gulf of Kutch**, not Mannar or Sundarbans.
 
 ---
 
@@ -306,10 +306,10 @@ Which pair is NOT correctly matched?
 
 - **World’s first National Park** is **Yellowstone NP, USA (1872)** — signed under President **Ulysses S. Grant**.
 - Early peers: **Royal National Park, Australia (1879)**; **Banff NP, Canada (1885)**.
-- Exam icons: **Serengeti (Tanzania)**, **Kruger (South Africa)**, **Kakadu (Australia)**, **Galápagos (Ecuador)**, **Yosemite / Everglades / Grand Canyon (USA)**.
+- icons: **Serengeti (Tanzania)**, **Kruger (South Africa)**, **Kakadu (Australia)**, **Galápagos (Ecuador)**, **Yosemite / Everglades / Grand Canyon (USA)**.
 - Never reverse: **Yellowstone = world first**; **Corbett = India first**.
 
-| Park | Country | Lock |
+| Park | Country | Fact |
 |------|---------|------|
 | Yellowstone | USA | World first **1872** |
 | Banff | Canada | **1885** |
@@ -318,7 +318,7 @@ Which pair is NOT correctly matched?
 | Kakadu | Australia | Wetland/rock art landscape |
 | Galápagos | Ecuador | Evolution / WH |
 
-> **Exam note:** World first ≠ India’s first.
+> ** note:** World first ≠ India’s first.
 
 ---
 
@@ -344,7 +344,7 @@ Which pair is NOT correctly matched?
 | Great Himalayan | Himachal | **2014** |
 | Khangchendzonga | Sikkim | Mixed **2016** |
 
-> **Exam note:** “All UNESCO WH in India are cultural” is **false**.
+> ** note:** “All UNESCO WH in India are cultural” is **false**.
 
 ---
 
@@ -359,7 +359,7 @@ Which pair is NOT correctly matched?
 - **Gahirmatha** = marine **sanctuary** (turtle rookery), not NP.
 - UP has **zero** coastal NPs.
 
-| Coastal / marine park | Coast | Lock |
+| Coastal / marine park | Coast | Fact |
 |-----------------------|-------|------|
 | Sundarbans NP | East | Mangrove + WH |
 | Bhitarkanika NP | East | Mangrove / croc |
@@ -367,7 +367,7 @@ Which pair is NOT correctly matched?
 | Gulf of Kutch Marine NP | West | First Marine NP |
 | MG / Rani Jhansi Marine | Andaman | Island marine |
 
-> **Exam note:** Coastal ≠ automatically “first marine NP.”
+> ** note:** Coastal ≠ automatically “first marine NP.”
 
 ---
 
@@ -375,7 +375,7 @@ Which pair is NOT correctly matched?
 
 **Q1.** Dudhwa NP district:
 
-Options: A. Lakhimpur Kheri  B. Pilibhit  C. Bahraich  D. Sitapur
+Options: A. Lakhimpur Kheri B. Pilibhit C. Bahraich D. Sitapur
 
 <details><summary>Show answer</summary>
 
@@ -385,7 +385,7 @@ Options: A. Lakhimpur Kheri  B. Pilibhit  C. Bahraich  D. Sitapur
 
 **Q2.** Chandraprabha WLS district:
 
-Options: A. Chandauli  B. Sonbhadra  C. Bahraich  D. Etawah
+Options: A. Chandauli B. Sonbhadra C. Bahraich D. Etawah
 
 <details><summary>Show answer</summary>
 
@@ -395,7 +395,7 @@ Options: A. Chandauli  B. Sonbhadra  C. Bahraich  D. Etawah
 
 **Q3.** UP WLS established in 1975:
 
-Options: A. Katarniaghat  B. Chambal  C. Kishanpur  D. Okhla
+Options: A. Katarniaghat B. Chambal C. Kishanpur D. Okhla
 
 <details><summary>Show answer</summary>
 
@@ -405,7 +405,7 @@ Options: A. Katarniaghat  B. Chambal  C. Kishanpur  D. Okhla
 
 **Q4.** India’s first NP:
 
-Options: A. Jim Corbett  B. Dudhwa  C. Gir  D. Yellowstone
+Options: A. Jim Corbett B. Dudhwa C. Gir D. Yellowstone
 
 <details><summary>Show answer</summary>
 
@@ -415,7 +415,7 @@ Options: A. Jim Corbett  B. Dudhwa  C. Gir  D. Yellowstone
 
 **Q5.** World’s first NP:
 
-Options: A. Yellowstone 1872  B. Corbett 1936  C. Banff 1972  D. Serengeti 1872
+Options: A. Yellowstone 1872 B. Corbett 1936 C. Banff 1972 D. Serengeti 1872
 
 <details><summary>Show answer</summary>
 
@@ -425,7 +425,7 @@ Options: A. Yellowstone 1872  B. Corbett 1936  C. Banff 1972  D. Serengeti 1872
 
 **Q6.** First Marine NP of India:
 
-Options: A. Gulf of Kutch  B. Gulf of Mannar  C. Sundarbans  D. Gahirmatha
+Options: A. Gulf of Kutch B. Gulf of Mannar C. Sundarbans D. Gahirmatha
 
 <details><summary>Show answer</summary>
 
@@ -435,7 +435,7 @@ Options: A. Gulf of Kutch  B. Gulf of Mannar  C. Sundarbans  D. Gahirmatha
 
 **Q7.** Hangul is associated with:
 
-Options: A. Dachigam  B. Gir  C. Keoladeo  D. Kanha
+Options: A. Dachigam B. Gir C. Keoladeo D. Kanha
 
 <details><summary>Show answer</summary>
 
@@ -445,7 +445,7 @@ Options: A. Dachigam  B. Gir  C. Keoladeo  D. Kanha
 
 **Q8.** Keibul Lamjao is on:
 
-Options: A. Loktak Lake  B. Dal Lake  C. Wular Lake  D. Chilika only
+Options: A. Loktak Lake B. Dal Lake C. Wular Lake D. Chilika only
 
 <details><summary>Show answer</summary>
 
@@ -455,7 +455,7 @@ Options: A. Loktak Lake  B. Dal Lake  C. Wular Lake  D. Chilika only
 
 **Q9.** Genetic diversity in NPs is maintained by:
 
-Options: A. In-situ conservation  B. Only zoos  C. Only seed banks  D. Only cryopreservation
+Options: A. In-situ conservation B. Only zoos C. Only seed banks D. Only cryopreservation
 
 <details><summary>Show answer</summary>
 
@@ -465,7 +465,7 @@ Options: A. In-situ conservation  B. Only zoos  C. Only seed banks  D. Only cryo
 
 **Q10.** Which is NOT in UP?
 
-Options: A. Sultanpur NP  B. Samaspur Bird Sanctuary  C. Sarsai Nawar  D. Dudhwa NP
+Options: A. Sultanpur NP B. Samaspur Bird Sanctuary C. Sarsai Nawar D. Dudhwa NP
 
 <details><summary>Show answer</summary>
 
@@ -475,7 +475,7 @@ Options: A. Sultanpur NP  B. Samaspur Bird Sanctuary  C. Sarsai Nawar  D. Dudhwa
 
 **Q11.** Valmiki NP is in:
 
-Options: A. Bihar  B. Uttar Pradesh  C. Haryana  D. Gujarat
+Options: A. Bihar B. Uttar Pradesh C. Haryana D. Gujarat
 
 <details><summary>Show answer</summary>
 
@@ -485,7 +485,7 @@ Options: A. Bihar  B. Uttar Pradesh  C. Haryana  D. Gujarat
 
 **Q12.** Match wrong: Simlipal — Madhya Pradesh
 
-Options: A. Wrong (Simlipal = Odisha)  B. Correct  C. Simlipal = Gujarat  D. Simlipal = Kerala
+Options: A. Wrong (Simlipal = Odisha) B. Correct C. Simlipal = Gujarat D. Simlipal = Kerala
 
 <details><summary>Show answer</summary>
 
@@ -495,7 +495,7 @@ Options: A. Wrong (Simlipal = Odisha)  B. Correct  C. Simlipal = Gujarat  D. Sim
 
 **Q13.** Largest NP in India:
 
-Options: A. Hemis  B. Guindy  C. Dudhwa  D. Sultanpur
+Options: A. Hemis B. Guindy C. Dudhwa D. Sultanpur
 
 <details><summary>Show answer</summary>
 
@@ -505,7 +505,7 @@ Options: A. Hemis  B. Guindy  C. Dudhwa  D. Sultanpur
 
 **Q14.** Only wild Asiatic lions:
 
-Options: A. Gir NP  B. Kaziranga  C. Corbett  D. Kanha
+Options: A. Gir NP B. Kaziranga C. Corbett D. Kanha
 
 <details><summary>Show answer</summary>
 
@@ -515,7 +515,7 @@ Options: A. Gir NP  B. Kaziranga  C. Corbett  D. Kanha
 
 **Q15.** Mollem NP is in:
 
-Options: A. Goa  B. Haryana  C. Jharkhand  D. Chhattisgarh
+Options: A. Goa B. Haryana C. Jharkhand D. Chhattisgarh
 
 <details><summary>Show answer</summary>
 
@@ -525,7 +525,7 @@ Options: A. Goa  B. Haryana  C. Jharkhand  D. Chhattisgarh
 
 **Q16.** Indravati NP is in:
 
-Options: A. Chhattisgarh  B. Goa  C. Haryana  D. Jharkhand
+Options: A. Chhattisgarh B. Goa C. Haryana D. Jharkhand
 
 <details><summary>Show answer</summary>
 
@@ -535,7 +535,7 @@ Options: A. Chhattisgarh  B. Goa  C. Haryana  D. Jharkhand
 
 **Q17.** Betla NP is in:
 
-Options: A. Jharkhand  B. Goa  C. Haryana  D. Kerala
+Options: A. Jharkhand B. Goa C. Haryana D. Kerala
 
 <details><summary>Show answer</summary>
 
@@ -545,7 +545,7 @@ Options: A. Jharkhand  B. Goa  C. Haryana  D. Kerala
 
 **Q18.** Kalesar NP is in:
 
-Options: A. Haryana  B. Goa  C. Assam  D. Kerala
+Options: A. Haryana B. Goa C. Assam D. Kerala
 
 <details><summary>Show answer</summary>
 
@@ -555,7 +555,7 @@ Options: A. Haryana  B. Goa  C. Assam  D. Kerala
 
 **Q19.** Periyar NP is in:
 
-Options: A. Kerala  B. Madhya Pradesh  C. Rajasthan  D. J&K
+Options: A. Kerala B. Madhya Pradesh C. Rajasthan D. J&K
 
 <details><summary>Show answer</summary>
 
@@ -565,7 +565,7 @@ Options: A. Kerala  B. Madhya Pradesh  C. Rajasthan  D. J&K
 
 **Q20.** Keoladeo NP is in:
 
-Options: A. Rajasthan  B. Kerala  C. Madhya Pradesh  D. Uttar Pradesh
+Options: A. Rajasthan B. Kerala C. Madhya Pradesh D. Uttar Pradesh
 
 <details><summary>Show answer</summary>
 
@@ -575,7 +575,7 @@ Options: A. Rajasthan  B. Kerala  C. Madhya Pradesh  D. Uttar Pradesh
 
 **Q21.** Kanha NP is in:
 
-Options: A. Madhya Pradesh  B. Kerala  C. Rajasthan  D. Haryana
+Options: A. Madhya Pradesh B. Kerala C. Rajasthan D. Haryana
 
 <details><summary>Show answer</summary>
 
@@ -585,7 +585,7 @@ Options: A. Madhya Pradesh  B. Kerala  C. Rajasthan  D. Haryana
 
 **Q22.** Largest WLS in UP:
 
-Options: A. Hastinapur  B. Turtle WLS  C. Okhla  D. Vijai Sagar
+Options: A. Hastinapur B. Turtle WLS C. Okhla D. Vijai Sagar
 
 <details><summary>Show answer</summary>
 
@@ -595,7 +595,7 @@ Options: A. Hastinapur  B. Turtle WLS  C. Okhla  D. Vijai Sagar
 
 **Q23.** Gahirmatha is primarily a:
 
-Options: A. Marine sanctuary (not NP)  B. First Marine NP  C. UP coastal NP  D. Desert NP
+Options: A. Marine sanctuary (not NP) B. First Marine NP C. UP coastal NP D. Desert NP
 
 <details><summary>Show answer</summary>
 
@@ -605,7 +605,7 @@ Options: A. Marine sanctuary (not NP)  B. First Marine NP  C. UP coastal NP  D. 
 
 **Q24.** UP natural UNESCO WH site count:
 
-Options: A. Zero  B. Two  C. Five  D. Ten
+Options: A. Zero B. Two C. Five D. Ten
 
 <details><summary>Show answer</summary>
 
@@ -615,7 +615,7 @@ Options: A. Zero  B. Two  C. Five  D. Ten
 
 **Q25.** Banff NP country:
 
-Options: A. Canada  B. USA only  C. Tanzania  D. India
+Options: A. Canada B. USA only C. Tanzania D. India
 
 <details><summary>Show answer</summary>
 
@@ -625,7 +625,7 @@ Options: A. Canada  B. USA only  C. Tanzania  D. India
 
 **Q26.** Sundarbans NP state:
 
-Options: A. West Bengal  B. Gujarat  C. Kerala  D. UP
+Options: A. West Bengal B. Gujarat C. Kerala D. UP
 
 <details><summary>Show answer</summary>
 
@@ -633,10 +633,10 @@ Options: A. West Bengal  B. Gujarat  C. Kerala  D. UP
 
 </details>
 
-**Q27.** Assertion (A): Gulf of Kutch is India’s first Marine NP.  
+**Q27.** Assertion (A): Gulf of Kutch is India’s first Marine NP.
 Reason (R): It is located in Tamil Nadu.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -646,7 +646,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 **Q28.** Dachigam — Keoladeo — Kanha — Periyar correct state order:
 
-Options: A. J&K, Rajasthan, MP, Kerala  B. RJ, J&K, Kerala, MP  C. MP, Kerala, RJ, J&K  D. Kerala, MP, J&K, RJ
+Options: A. J&K, Rajasthan, MP, Kerala B. RJ, J&K, Kerala, MP C. MP, Kerala, RJ, J&K D. Kerala, MP, J&K, RJ
 
 <details><summary>Show answer</summary>
 
@@ -656,7 +656,7 @@ Options: A. J&K, Rajasthan, MP, Kerala  B. RJ, J&K, Kerala, MP  C. MP, Kerala, R
 
 **Q29.** Rudrasagar Lake is in:
 
-Options: A. Tripura  B. Uttar Pradesh  C. Haryana  D. Rajasthan
+Options: A. Tripura B. Uttar Pradesh C. Haryana D. Rajasthan
 
 <details><summary>Show answer</summary>
 
@@ -666,7 +666,7 @@ Options: A. Tripura  B. Uttar Pradesh  C. Haryana  D. Rajasthan
 
 **Q30.** Correct set:
 
-Options: A. Dudhwa=UP; Corbett=UK; Yellowstone=world first; Kutch=first marine NP  B. Valmiki=UP; Sultanpur=UP  C. Simlipal=MP; Keoladeo=UP  D. First marine=Sundarbans
+Options: A. Dudhwa=UP; Corbett=UK; Yellowstone=world first; Kutch=first marine NP B. Valmiki=UP; Sultanpur=UP C. Simlipal=MP; Keoladeo=UP D. First marine=Sundarbans
 
 <details><summary>Show answer</summary>
 
@@ -678,31 +678,13 @@ Options: A. Dudhwa=UP; Corbett=UK; Yellowstone=world first; Kutch=first marine N
 
 ## Complete PYQ Bank (Topic 32)
 
-**Q1. UPPCS 2025, Q90** — Dachigam/Keoladeo/Kanha/Periyar match → **Ans: D**
-
-**Q2. UPPCS 2025, Q58** — NOT in UP: Rudrasagar + Sultanpur → **Ans: B**
-
-**Q3. UPPCS 2023, Q56** — Chandraprabha = Chandauli → **Ans: B**
-
-**Q4. UPPCS 2023, Q118** — NP genetic diversity = in-situ → **Ans: A**
-
-**Q5. UPPCS 2022, Q36** — Katarniaghat established 1975 → **Ans: B**
-
-**Q6. UPPCS 2022, Q56** — Dudhwa = Lakhimpur Kheri → **Ans: B**
-
-**Q7. UPPCS 2022, Q73** — Keibul Lamjao = Loktak → **Ans: A**
-
-**Q8. UPPCS 2020, Q62** — Indravati/Mollem/Kalesar/Betla → **Ans: A**
-
-**Q9. UPPCS 2018, Q49** — Dachigam = Hangul → **Ans: D**
-
-**Q10. UPPCS 2018, Q58** — Simlipal ≠ Madhya Pradesh (Odisha)
+**Q1. UPPCS 2025, Q90** — Dachigam/Keoladeo/Kanha/Periyar match → **Ans: DQ2. UPPCS 2025, Q58** — NOT in UP: Rudrasagar + Sultanpur → **Ans: BQ3. UPPCS 2023, Q56** — Chandraprabha = Chandauli → **Ans: BQ4. UPPCS 2023, Q118** — NP genetic diversity = in-situ → **Ans: AQ5. UPPCS 2022, Q36** — Katarniaghat established 1975 → **Ans: BQ6. UPPCS 2022, Q56** — Dudhwa = Lakhimpur Kheri → **Ans: BQ7. UPPCS 2022, Q73** — Keibul Lamjao = Loktak → **Ans: AQ8. UPPCS 2020, Q62** — Indravati/Mollem/Kalesar/Betla → **Ans: AQ9. UPPCS 2018, Q49** — Dachigam = Hangul → **Ans: DQ10. UPPCS 2018, Q58** — Simlipal ≠ Madhya Pradesh (Odisha)
 
 ---
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Valmiki / Sultanpur in UP | **Bihar / Haryana** |
 | Dudhwa = Pilibhit district | **Lakhimpur Kheri** |
@@ -742,10 +724,10 @@ Options: A. Dudhwa=UP; Corbett=UK; Yellowstone=world first; Kutch=first marine N
 
 ### Topic boundaries
 
-- **NP/WLS/TR legal basics** — Topic 6  
-- **Biosphere Reserve matching (Simlipal/Nokrek etc.)** — Topic 33  
-- **Ramsar full lists** — Topic 6 / wetland chapters  
-- **Tiger Reserve depth** — Topic 6 / Project Tiger notes  
+- **NP/WLS/TR legal basics** — Topic 6
+- **Biosphere Reserve matching (Simlipal/Nokrek etc.)** — Topic 33
+- **Ramsar full lists** — Topic 6 / wetland chapters
+- **Tiger Reserve depth** — Topic 6 / Project Tiger notes
 
 ### PYQ audit
 

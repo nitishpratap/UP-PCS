@@ -106,7 +106,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Use **crop → season 
 <details>
 <summary>Show answer</summary>
 
-**Ans: 25–35 °C, more than 150 cm rain, alluvial floodplain, retting in slow water.** **West Bengal** is the lock. Uttar Pradesh–jute is **wrong**. Golden fibre. India is world **#1**.
+**Ans: 25–35 °C, more than 150 cm rain, alluvial floodplain, retting in slow water.** **West Bengal** is the fact. Uttar Pradesh–jute is **wrong**. Golden fibre. India is world **#1**.
 
 </details>
 
@@ -133,7 +133,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Use **crop → season 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A large estate of one perennial crop, hired labour, processing on site.** Tea, coffee, rubber and many spices. They need humid tropics. Tea was the 2024 plantation lock.
+**Ans: A large estate of one perennial crop, hired labour, processing on site.** Tea, coffee, rubber and many spices. They need humid tropics. Tea was the 2024 plantation tag.
 
 </details>
 

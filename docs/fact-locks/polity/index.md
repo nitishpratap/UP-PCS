@@ -1,8 +1,8 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
-# Polity — Fact Locks
+# Polity — Fact Facts
 
 No sheets yet.

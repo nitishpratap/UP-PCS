@@ -1,5 +1,5 @@
 # Topic 11 — Medieval Indian Cultural History
-### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
+### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,30 +8,30 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 </details>
 
-> **Sources baked in:** NCERT Themes II, An Introduction to Indian Art (Class 11), UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — Akbar admin, Buland Darwaza, tomb-city match, Turki vs Persian, iqta / Khalsa  
-> **Last verified:** August 2026  
-> **Current Affairs:** No new monument or mansab reform that changes these static locks after the **2025** paper.
+> **Sources baked in:** NCERT Themes II, An Introduction to Indian Art (Class 11), UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — Akbar admin, Buland Darwaza, tomb-city match, Turki vs Persian, iqta / Khalsa
+> **Last verified:** August 2026
+> **Current Affairs:** No new monument or mansab reform that changes these static facts after the **2025** paper.
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad**. **Akbar** built the **kitabkhana** and the illustrated **Razmnama**. **Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
 2. Sultanate architecture spine: **Qutub** under Aibak–Iltutmish, **Alai Darwaza** under the Khaljis, and **Jaunpur Sharqi** work such as **Atala Masjid**.
 3. Mughal architecture spine: **Humayun’s Tomb** at Delhi with **charbagh**, **Fatehpur Sikri** under Akbar, and the **Taj Mahal** under Shah Jahan at Agra.
-4. Tomb geography lock: **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, **Shah Jahan** at **Agra**. Only Shah Jahan’s tomb among these is in Uttar Pradesh.
+4. Tomb geography fact: **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, **Shah Jahan** at **Agra**. Only Shah Jahan’s tomb among these is in Uttar Pradesh.
 5. **Buland Darwaza** at Fatehpur Sikri marks Akbar’s **Gujarat victory**. It is **not** a monument for Jahangir’s birth in **1569**.
 6. **Babur** wrote his memoir (*Tuzuk-i-Baburi*) in **Chagatai Turki**. The Mughal **court language** was **Persian**. Do not swap the two.
 7. **Abul Fazl** wrote the narrative **Akbarnama** and the gazetteer **Ain-i-Akbari**. **Faizi** was the court poet. **Nakhshabi** wrote the *Tutinama*.
-8. Death chronology lock: **Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604**.
+8. Death chronology fact: **Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604**.
 9. Sultanate **iqta** gave revenue to a **muqti** to raise troops. **Khalsa** was crown land under **direct** state control. A **jagir** is a revenue assignment, not Khalsa.
 10. Akbar’s **mansab** had **zat** (personal rank) and **sawar** (cavalry contingent). The original mansab system was **not hereditary**.
 11. **Zabt** is measured land assessment. **Dahsala** is Todar Mal’s **ten-year** average revenue system from about **1580**.
-12. The copper **dam** continued from Sher Shah into Akbar’s currency. Akbar organised about **15 subas** in the mature empire map used in exams.
+12. The copper **dam** continued from Sher Shah into Akbar’s currency. Akbar organised about **15 subas** in the mature empire map used s.
 13. **Ibadat Khana** debates began at Fatehpur Sikri in **1575**. **Sulh-i-kul** was the public peace policy. **Din-i-Ilahi** of **1582** was a private fellowship, not a state religion.
 14. Akbar abolished **jizya** in **1564**. The **Mahzar** of **1579** asserted Akbar’s authority in religious disputes.
-15. Navaratna locks include **Tansen** (from Ramchandra of Bhata), **Todar Mal**, **Birbal**, **Abul Fazl**, and **Faizi**.
+15. Navaratna facts include **Tansen** (from Ramchandra of Bhata), **Todar Mal**, **Birbal**, **Abul Fazl**, and **Faizi**.
 16. Uttar Pradesh architecture: **Jaunpur** Sharqi (Atala, Lal Darwaza), **Agra** Fort–Itimad-ud-Daulah–Taj–Ram Bagh, and **Fatehpur Sikri** (Buland Darwaza, Ibadat Khana, Salim Chishti).
 17. **Tulsidas** wrote the Awadhi *Ramcharitmanas* in Akbar’s age. **Kavindra Acharya** of Banaras is linked to Shah Jahan’s court culture.
 18. These are **not** UP tombs: Babur at Kabul, Jahangir at Lahore, Humayun at Delhi.
@@ -44,13 +44,13 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 25. Persian was the language of farmans, chronicles, and court poetry after Babur. Turki remained Babur’s personal memoir tongue, not later court speech.
 26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** is the broader public tolerance policy examined more often than the private cult.
 27. **Jaunpur** Sharqi architecture is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
-28. **Azizuddin Khan** is linked to the *Nagarkot* / Kangra campaign literature lock in the medieval culture map; keep him separate from Abul Fazl’s court histories.
+28. **Azizuddin Khan** is linked to the *Nagarkot* / Kangra campaign literature fact in the medieval culture map; keep him separate from Abul Fazl’s court histories.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Khalsa | Jagir / Iqta | Crown land under **direct** control vs revenue assignment | खालसा / जागीर |
 | Zat | Sawar | Personal rank vs cavalry-contingent rank | जात / सवार |
@@ -75,10 +75,10 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 - Under **Aurangzeb**, the imperial atelier shrinks. Painters move to Rajput and Deccan courts.
 - Rajput schools (Mewar, Marwar, Bundi, Kishangarh) use Hindu narrative and flat colour. They are not Mughal portrait naturalism.
 - Pahari schools (Basohli, Guler, Kangra) paint hill Krishna-lila.
-- **Pietra dura** inlay is the Taj / Shah Jahan decorative lock.
+- **Pietra dura** inlay is the Taj / Shah Jahan decorative fact.
 - Calligraphy is a primary Islamic art, not a side craft.
 
-> **Exam note:** **Jahangir = Mansur / naturalism**. **Akbar = Razmnama atelier**. Rajput ≠ Mughal.
+> ** note:Jahangir = Mansur / naturalism**. **Akbar = Razmnama atelier**. Rajput ≠ Mughal.
 
 ---
 
@@ -107,16 +107,16 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 - **Jahangir**’s tomb city is **Lahore**.
 - **Shah Jahan**’s tomb city is **Agra**.
 
-> **Exam note:** UPPCS **2025 Q49** — Buland Darwaza = Gujarat, not Jahangir. **2025 Q57** code **4 3 2 1**.
+> ** note:** UPPCS **2025 Q49** — Buland Darwaza = Gujarat, not Jahangir. **2025 Q57** code **4 3 2 1**.
 
 **PYQ — UPPCS Prelims 2025, Q49**
 
-Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.  
+Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
 Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -130,21 +130,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Match List-I with List-II.
 
-**List-I (Emperor)**  
-A. Babur  
-B. Humayun  
-C. Jahangir  
-D. Shah Jahan  
+**List-I (Emperor)**
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan
 
-**List-II (City of tomb)**  
-1. Agra  
-2. Lahore  
-3. Delhi  
-4. Kabul  
+**List-II (City of tomb)**
+1. Agra
+2. Lahore
+3. Delhi
+4. Kabul
 
-A. 4 3 2 1  
-B. 3 4 1 2  
-C. 3 4 2 1  
+A. 4 3 2 1
+B. 3 4 1 2
+C. 3 4 2 1
 D. 4 3 1 2
 
 <details>
@@ -158,14 +158,14 @@ D. 4 3 1 2
 
 Arrange the following monuments in chronological order.
 
-I. Rabia Daurani's Tomb, Aurangabad  
-II. Shershah Suri's Tomb, Sasaram  
-III. Humayun's Tomb, Delhi  
-IV. Atala Mosque, Jaunpur  
+I. Rabia Daurani's Tomb, Aurangabad
+II. Shershah Suri's Tomb, Sasaram
+III. Humayun's Tomb, Delhi
+IV. Atala Mosque, Jaunpur
 
-A. I, II, IV, III  
-B. IV, II, III, I  
-C. II, I, III, IV  
+A. I, II, IV, III
+B. IV, II, III, I
+C. II, I, III, IV
 D. III, IV, II, I
 
 <details>
@@ -179,9 +179,9 @@ D. III, IV, II, I
 
 Which of the following pairs is NOT correctly matched?
 
-A. Adina Masjid – Mandu  
-B. Lal Darwaza Masjid – Jaunpur  
-C. Dakhil Darwaza – Gaur  
+A. Adina Masjid – Mandu
+B. Lal Darwaza Masjid – Jaunpur
+C. Dakhil Darwaza – Gaur
 D. Tin Darwaza – Ahmedabad
 
 <details>
@@ -216,16 +216,16 @@ D. Tin Darwaza – Ahmedabad
 - **Kavindra Acharya Saraswati** of Banaras had **Shah Jahan** as patron.
 - Many Sanskrit **music** treatises were rendered into Persian. Chishti *sama* is a separate fact. It does **not** explain the translation drive.
 
-> **Exam note:** **2025 Q3** — memoir Turki, court Persian. *Tughlaqnama* ≠ Ibn Battuta.
+> ** note:2025 Q3** — memoir Turki, court Persian. *Tughlaqnama* ≠ Ibn Battuta.
 
 **PYQ — UPPCS Prelims 2025, Q3**
 
-Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.  
+Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
 Reason (R): Turki was the official language of the Mughal Court.
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -239,14 +239,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Arrange in chronological order:
 
-1. Murder of Abul Fazl  
-2. Death of Sheikh Mubarak  
-3. Death of Faizi  
-4. Death of Daniyal  
+1. Murder of Abul Fazl
+2. Death of Sheikh Mubarak
+3. Death of Faizi
+4. Death of Daniyal
 
-A. 2, 1, 4, 3  
-B. 3, 2, 1, 4  
-C. 2, 3, 1, 4  
+A. 2, 1, 4, 3
+B. 3, 2, 1, 4
+C. 2, 3, 1, 4
 D. 2, 4, 3, 1
 
 <details>
@@ -260,9 +260,9 @@ D. 2, 4, 3, 1
 
 Which of the following is **not** correctly matched?
 
-A. Iltutmish — Father of Razia  
-B. Shah Turkan — Wife of Iltutmish  
-C. Hamida Banu Begum — Wife of Alauddin Khilji  
+A. Iltutmish — Father of Razia
+B. Shah Turkan — Wife of Iltutmish
+C. Hamida Banu Begum — Wife of Alauddin Khilji
 D. Gulbadan Begum — Daughter of Babur
 
 <details>
@@ -276,9 +276,9 @@ D. Gulbadan Begum — Daughter of Babur
 
 Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
 
-A. Azizuddin Khan  
-B. Talib Amuli  
-C. Mulla Abdul Baqi  
+A. Azizuddin Khan
+B. Talib Amuli
+C. Mulla Abdul Baqi
 D. Mirza Muhammad Ali
 
 <details>
@@ -292,9 +292,9 @@ D. Mirza Muhammad Ali
 
 Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?
 
-A. Khwaja Ziya-ud-din Nakhshabi  
-B. Abdur Razzak  
-C. Shihabuddin-al-Umari  
+A. Khwaja Ziya-ud-din Nakhshabi
+B. Abdur Razzak
+C. Shihabuddin-al-Umari
 D. Amir Khusro
 
 <details>
@@ -308,9 +308,9 @@ D. Amir Khusro
 
 Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?
 
-A. Shah Jahan  
-B. Jahangir  
-C. Akbar  
+A. Shah Jahan
+B. Jahangir
+C. Akbar
 D. Humayun
 
 <details>
@@ -324,9 +324,9 @@ D. Humayun
 
 Which of the following is NOT correctly matched?
 
-A. Tabaqat-i-Nasiri — Minhaj-us-Siraj  
-B. Tarikh-i-Firozshahi — Shams-i-Siraj Afif  
-C. Tughlaqnama — Ibn Battuta  
+A. Tabaqat-i-Nasiri — Minhaj-us-Siraj
+B. Tarikh-i-Firozshahi — Shams-i-Siraj Afif
+C. Tughlaqnama — Ibn Battuta
 D. Humayunnama — Gulbadan Begam
 
 <details>
@@ -338,12 +338,12 @@ D. Humayunnama — Gulbadan Begam
 
 **PYQ — UPPCS Prelims 2018, Q90**
 
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.  
+Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
 Reason (R): The early Chishti sufis were fond of musical assemblies called 'sama'.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -372,16 +372,16 @@ D. (A) is false, but (R) is true
 - Alauddin Khalji used market control, dagh (branding) and huliya (descriptive roll) of cavalry.
 - Sher Shah is known for roads, dak, the silver **rupiya** and copper **dam**. Akbar keeps the dam idea.
 
-> **Exam note:** **2025 Q95** — Jagirs are **not** direct state land. **2019 Q15** — option C is the iqta trap.
+> ** note:2025 Q95** — Jagirs are **not** direct state land. **2019 Q15** — option C is the iqta trap.
 
 **PYQ — UPPCS Prelims 2025, Q95**
 
-Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.  
+Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.
 Reason (R): The Jagirs comprised the land under the direct control of the State.
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -395,9 +395,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which one of the following is NOT the characteristics of Iqta System?
 
-A. Iqta was a revenue collection system  
-B. Siyasatnama was the source of information for Iqta System  
-C. Revenue from Iqta was directly deposited in Sultan's account  
+A. Iqta was a revenue collection system
+B. Siyasatnama was the source of information for Iqta System
+C. Revenue from Iqta was directly deposited in Sultan's account
 D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
 
 <details>
@@ -426,41 +426,41 @@ D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
 - **Bairam Khan** was vakil / regent in Akbar’s early years. The title **Khan-i-Khanan** came from **Humayun**, not as a fresh Akbar gift at vazir-appointment.
 - In currency, Akbar, like **Sher Shah**, regulates coin. The chief copper coin was the **dam**. The silver **rupiya** continues.
 
-> **Exam note:** Mansab **≠ hereditary**. **Dam** is Sher Shah’s copper that Akbar keeps.
+> ** note:** Mansab **≠ hereditary**. **Dam** is Sher Shah’s copper that Akbar keeps.
 
 **PYQ — UPPCS Prelims 2024, Q4**
 
 Consider the following statements with reference to Bairam Khan:
 
-1. Akbar gave the title of Khan-i-Khana to Bairam Khan.  
+1. Akbar gave the title of Khan-i-Khana to Bairam Khan.
 2. This title was not given at the time of appointment of Bairam Khan as Vazir of Empire.
 
-A. Both 1 and 2  
-B. Neither 1 nor 2  
-C. Only 1  
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
 D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — Only 2.** **Humayun** conferred Khan-i-Khanan. Akbar did not bestow it as a vazir-joining gift.
+**Ans: D — Only 2.Humayun** conferred Khan-i-Khanan. Akbar did not bestow it as a vazir-joining gift.
 
 </details>
 
 **PYQ — UPPCS Prelims 2019, Q12**
 
-Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.  
+Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.
 Reason (R): As in Sher Shah's currency, the chief copper coin of Akbar's time was the Dam.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Dam is the copper lock that shows the Sher Shah continuity.
+**Ans: A.** Dam is the copper fact that shows the Sher Shah continuity.
 
 </details>
 
@@ -468,12 +468,12 @@ D. (A) is false, but (R) is true
 
 With reference to Mansabdari system, which of the statements is/are correct?
 
-1. Mansabdari system was the official nobility of the state, started by Akbar.  
+1. Mansabdari system was the official nobility of the state, started by Akbar.
 2. A Mansabdari was hereditary.
 
-A. 1 only  
-B. Both 1 and 2  
-C. 2 only  
+A. 1 only
+B. Both 1 and 2
+C. 2 only
 D. Neither 1 nor 2
 
 <details>
@@ -500,15 +500,15 @@ D. Neither 1 nor 2
 - The translation house rendered Sanskrit epics and Vedas into Persian (*Razmnama*).
 - Marriage alliances with Rajputs are policy, not a painting school.
 
-> **Exam note:** **Din-i-Ilahi ≠ state religion**. **Ibadat Khana ≠ Fatwa-i-Alamgiri** (that is Aurangzeb).
+> ** note:Din-i-Ilahi ≠ state religion**. **Ibadat Khana ≠ Fatwa-i-Alamgiri** (that is Aurangzeb).
 
 **PYQ — UPPCS Prelims 2019, Q89**
 
 Who among the following kings had given patronage to Tansen before Akbar?
 
-A. Raja Ramchandra Singh of Bhata  
-B. Rajbahadur of Malwa  
-C. Uday Singh of Mewar  
+A. Raja Ramchandra Singh of Bhata
+B. Rajbahadur of Malwa
+C. Uday Singh of Mewar
 D. Muzaffar Shah of Gujarat
 
 <details>
@@ -526,13 +526,13 @@ D. Muzaffar Shah of Gujarat
 
 **Q1.** With reference to Mughal court culture, which of the following statements is/are correct?
 
-1. Babur wrote his memoir in Chagatai Turki.  
-2. Turki was the official language of the Mughal court.  
+1. Babur wrote his memoir in Chagatai Turki.
+2. Turki was the official language of the Mughal court.
 3. Persian was the Mughal court language.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -544,21 +544,21 @@ D. 1, 2 and 3
 
 **Q2.** Match List-I with List-II.
 
-**List-I**  
-A. Babur  
-B. Humayun  
-C. Jahangir  
-D. Shah Jahan  
+**List-I**
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan
 
-**List-II**  
-1. Agra  
-2. Lahore  
-3. Delhi  
-4. Kabul  
+**List-II**
+1. Agra
+2. Lahore
+3. Delhi
+4. Kabul
 
-A. 4 3 2 1  
-B. 4 3 1 2  
-C. 3 4 2 1  
+A. 4 3 2 1
+B. 4 3 1 2
+C. 3 4 2 1
 D. 4 2 3 1
 
 <details>
@@ -568,12 +568,12 @@ D. 4 2 3 1
 
 </details>
 
-**Q3.** Assertion (A): Akbar built the Buland Darwaza at Fatehpur Sikri.  
+**Q3.** Assertion (A): Akbar built the Buland Darwaza at Fatehpur Sikri.
 Reason (R): It was built to mark the birth of Jahangir.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -585,13 +585,13 @@ D. (A) is false, but (R) is true
 
 **Q4.** Which of the following pairs is/are NOT correctly matched?
 
-1. Khalsa — direct crown land  
-2. Jagir — land under direct state control  
-3. Iqta — muqti maintains troops from revenue  
+1. Khalsa — direct crown land
+2. Jagir — land under direct state control
+3. Iqta — muqti maintains troops from revenue
 
-A. 1 and 2 only  
-B. 2 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 2 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -603,13 +603,13 @@ D. 1, 2 and 3
 
 **Q5.** With reference to mansabdari, which of the following statements is/are correct?
 
-1. Akbar started it as the official nobility ranking.  
-2. Zat is the cavalry rank.  
+1. Akbar started it as the official nobility ranking.
+2. Zat is the cavalry rank.
 3. In Akbar’s design it was not hereditary.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -621,14 +621,14 @@ D. 1, 2 and 3
 
 **Q6.** Arrange the following in chronological order.
 
-1. Murder of Abul Fazl  
-2. Death of Faizi  
-3. Death of Daniyal  
-4. Death of Sheikh Mubarak  
+1. Murder of Abul Fazl
+2. Death of Faizi
+3. Death of Daniyal
+4. Death of Sheikh Mubarak
 
-A. 2 4 1 3  
-B. 4 2 1 3  
-C. 2 1 4 3  
+A. 2 4 1 3
+B. 4 2 1 3
+C. 2 1 4 3
 D. 2 4 3 1
 
 <details>
@@ -640,21 +640,21 @@ D. 2 4 3 1
 
 **Q7.** Match List-I with List-II.
 
-**List-I**  
-A. Akbarnama  
-B. Ain-i-Akbari  
-C. Humayunnama  
-D. Tuzuk-i-Baburi  
+**List-I**
+A. Akbarnama
+B. Ain-i-Akbari
+C. Humayunnama
+D. Tuzuk-i-Baburi
 
-**List-II**  
-1. Gulbadan  
-2. Abul Fazl (narrative)  
-3. Babur  
-4. Abul Fazl (gazetteer)  
+**List-II**
+1. Gulbadan
+2. Abul Fazl (narrative)
+3. Babur
+4. Abul Fazl (gazetteer)
 
-A. 2 4 1 3  
-B. 2 4 3 1  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 4 3 1
+C. 4 2 1 3
 D. 2 1 4 3
 
 <details>
@@ -666,15 +666,15 @@ D. 2 1 4 3
 
 **Q8.** Consider the following statements about Din-i-Ilahi:
 
-1. It was proclaimed as the state religion of the Mughal empire.  
-2. It began around 1582 as a small fellowship.  
+1. It was proclaimed as the state religion of the Mughal empire.
+2. It began around 1582 as a small fellowship.
 3. Sulh-i-kul is the same thing as Din-i-Ilahi.
 
 How many of the above statements are correct?
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -686,9 +686,9 @@ D. None
 
 **Q9.** Which of the following is NOT correctly matched?
 
-A. Ibadat Khana — 1575, Fatehpur Sikri  
-B. Mahzar — 1579  
-C. Jizya abolished by Akbar — 1564  
+A. Ibadat Khana — 1575, Fatehpur Sikri
+B. Mahzar — 1579
+C. Jizya abolished by Akbar — 1564
 D. Din-i-Ilahi — Aurangzeb’s Hanafi code
 
 <details>
@@ -698,12 +698,12 @@ D. Din-i-Ilahi — Aurangzeb’s Hanafi code
 
 </details>
 
-**Q10.** Assertion (A): Todar Mal is linked with dahsala.  
+**Q10.** Assertion (A): Todar Mal is linked with dahsala.
 Reason (R): Dahsala used a ten-year average for assessment.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -715,12 +715,12 @@ D. (A) is false, but (R) is true
 
 **Q11.** With reference to Bairam Khan, which of the following statements is/are correct?
 
-1. Humayun conferred the title Khan-i-Khanan on him.  
+1. Humayun conferred the title Khan-i-Khanan on him.
 2. Akbar first gave him that title when appointing him Vazir.
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -732,21 +732,21 @@ D. Neither 1 nor 2
 
 **Q12.** Match List-I with List-II.
 
-**List-I**  
-A. Tansen before Akbar  
-B. Kavindra Acharya  
-C. Ustad Mansur  
-D. Mir Sayyid Ali  
+**List-I**
+A. Tansen before Akbar
+B. Kavindra Acharya
+C. Ustad Mansur
+D. Mir Sayyid Ali
 
-**List-II**  
-1. Jahangir naturalism  
-2. Raja Ramchandra of Bhata  
-3. Humayun’s Persian master  
-4. Shah Jahan / Banaras  
+**List-II**
+1. Jahangir naturalism
+2. Raja Ramchandra of Bhata
+3. Humayun’s Persian master
+4. Shah Jahan / Banaras
 
-A. 2 4 1 3  
-B. 2 4 3 1  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 4 3 1
+C. 4 2 1 3
 D. 2 1 4 3
 
 <details>
@@ -758,13 +758,13 @@ D. 2 1 4 3
 
 **Q13.** Which of the following pairs is/are correctly matched?
 
-1. Atala Masjid — Jaunpur  
-2. Adina Masjid — Mandu  
-3. Lal Darwaza Masjid — Jaunpur  
+1. Atala Masjid — Jaunpur
+2. Adina Masjid — Mandu
+3. Lal Darwaza Masjid — Jaunpur
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -776,13 +776,13 @@ D. 1, 2 and 3
 
 **Q14.** Consider the following statements:
 
-1. The muqti was expected to maintain troops from iqta revenue.  
-2. *Siyasatnama* is cited as a source on iqta.  
+1. The muqti was expected to maintain troops from iqta revenue.
+2. *Siyasatnama* is cited as a source on iqta.
 3. All iqta revenue was deposited directly in the Sultan’s account.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -792,12 +792,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q15.** Assertion (A): Akbar, like Sher Shah, tried to regulate currency.  
+**Q15.** Assertion (A): Akbar, like Sher Shah, tried to regulate currency.
 Reason (R): The chief copper coin of Akbar’s time was the dam.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -809,14 +809,14 @@ D. (A) is false, but (R) is true
 
 **Q16.** Arrange these buildings from earliest to latest.
 
-1. Humayun’s Tomb, Delhi  
-2. Atala Mosque, Jaunpur  
-3. Bibi ka Maqbara, Aurangabad  
-4. Sher Shah’s tomb, Sasaram  
+1. Humayun’s Tomb, Delhi
+2. Atala Mosque, Jaunpur
+3. Bibi ka Maqbara, Aurangabad
+4. Sher Shah’s tomb, Sasaram
 
-A. 2 4 1 3  
-B. 2 1 4 3  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 1 4 3
+C. 4 2 1 3
 D. 2 4 3 1
 
 <details>
@@ -828,9 +828,9 @@ D. 2 4 3 1
 
 **Q17.** *Tughlaqnama* was written by:
 
-A. Ibn Battuta  
-B. Amir Khusrau  
-C. Ziauddin Barani  
+A. Ibn Battuta
+B. Amir Khusrau
+C. Ziauddin Barani
 D. Gulbadan Begum
 
 <details>
@@ -842,13 +842,13 @@ D. Gulbadan Begum
 
 **Q18.** With reference to Fatehpur Sikri, which of the following statements is/are correct?
 
-1. It was Akbar’s capital for a short span in the 1570s–80s.  
-2. Panch Mahal is the Gujarat-victory gateway.  
+1. It was Akbar’s capital for a short span in the 1570s–80s.
+2. Panch Mahal is the Gujarat-victory gateway.
 3. Ibadat Khana was set up here in 1575.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -860,9 +860,9 @@ D. 1, 2 and 3
 
 **Q19.** Which of the following is NOT correctly matched?
 
-A. Hamida Banu Begum — wife of Humayun  
-B. Gulbadan Begum — daughter of Babur  
-C. Shah Turkan — wife of Iltutmish  
+A. Hamida Banu Begum — wife of Humayun
+B. Gulbadan Begum — daughter of Babur
+C. Shah Turkan — wife of Iltutmish
 D. Hamida Banu Begum — wife of Alauddin Khalji
 
 <details>
@@ -874,21 +874,21 @@ D. Hamida Banu Begum — wife of Alauddin Khalji
 
 **Q20.** Match List-I with List-II.
 
-**List-I**  
-A. Nakhshabi  
-B. Azizuddin Khan  
-C. Abul Fazl  
-D. Faizi  
+**List-I**
+A. Nakhshabi
+B. Azizuddin Khan
+C. Abul Fazl
+D. Faizi
 
-**List-II**  
-1. *Tutinama*  
-2. Nagarkot Sanskrit corpus into Persian  
-3. *Akbarnama*  
-4. Poet brother, died 1595  
+**List-II**
+1. *Tutinama*
+2. Nagarkot Sanskrit corpus into Persian
+3. *Akbarnama*
+4. Poet brother, died 1595
 
-A. 1 2 3 4  
-B. 1 2 4 3  
-C. 2 1 3 4  
+A. 1 2 3 4
+B. 1 2 4 3
+C. 2 1 3 4
 D. 1 3 2 4
 
 <details>
@@ -900,13 +900,13 @@ D. 1 3 2 4
 
 **Q21.** Consider the following statements about Mughal painting:
 
-1. Jahangir’s reign is the naturalism peak.  
-2. Ustad Mansur is famed for bird and animal studies.  
+1. Jahangir’s reign is the naturalism peak.
+2. Ustad Mansur is famed for bird and animal studies.
 3. Humayun brought Persian masters from the Safavid world.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -916,12 +916,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q22.** Assertion (A): Many Sanskrit works on music were translated into Persian in the medieval period.  
+**Q22.** Assertion (A): Many Sanskrit works on music were translated into Persian in the medieval period.
 Reason (R): Early Chishti sufis were fond of *sama*.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -933,9 +933,9 @@ D. (A) is false, but (R) is true
 
 **Q23.** Which of the following pairs is NOT correctly matched?
 
-A. Qutub Minar — Aibak / Iltutmish  
-B. Alai Darwaza — Alauddin Khalji  
-C. Taj Mahal — Agra, Shah Jahan  
+A. Qutub Minar — Aibak / Iltutmish
+B. Alai Darwaza — Alauddin Khalji
+C. Taj Mahal — Agra, Shah Jahan
 D. Humayun’s Tomb — Kabul
 
 <details>
@@ -947,13 +947,13 @@ D. Humayun’s Tomb — Kabul
 
 **Q24.** With reference to Akbar’s nobles, which of the following statements is/are correct?
 
-1. Todar Mal is the dahsala / zabt lock.  
-2. Tansen came to Akbar from Ramchandra of Bhata.  
+1. Todar Mal is the dahsala / zabt fact.
+2. Tansen came to Akbar from Ramchandra of Bhata.
 3. Faizi was murdered in 1602.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -965,9 +965,9 @@ D. 1, 2 and 3
 
 **Q25.** Mir Bakshi in Akbar’s government looked after:
 
-A. Charitable grants only  
-B. Military / mansab rolls  
-C. Kitchen and karkhanas only  
+A. Charitable grants only
+B. Military / mansab rolls
+C. Kitchen and karkhanas only
 D. Translation of the Vedas
 
 <details>
@@ -979,15 +979,15 @@ D. Translation of the Vedas
 
 **Q26.** Consider the following:
 
-1. *Razmnama* is the Persian Mahabharata of Akbar’s atelier.  
-2. *Ain-i-Akbari* is a gazetteer, not the narrative *Akbarnama*.  
+1. *Razmnama* is the Persian Mahabharata of Akbar’s atelier.
+2. *Ain-i-Akbari* is a gazetteer, not the narrative *Akbarnama*.
 3. *Baburnama* was originally written in Persian.
 
 How many of the above statements are correct?
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -999,21 +999,21 @@ D. None
 
 **Q27.** Match List-I with List-II.
 
-**List-I**  
-A. Wazir / Diwan  
-B. Mir Bakshi  
-C. Sadr-us-Sudur  
-D. Mir Saman  
+**List-I**
+A. Wazir / Diwan
+B. Mir Bakshi
+C. Sadr-us-Sudur
+D. Mir Saman
 
-**List-II**  
-1. Household / stores  
-2. Revenue  
-3. Military rolls  
-4. Grants / charity  
+**List-II**
+1. Household / stores
+2. Revenue
+3. Military rolls
+4. Grants / charity
 
-A. 2 3 4 1  
-B. 2 3 1 4  
-C. 3 2 4 1  
+A. 2 3 4 1
+B. 2 3 1 4
+C. 3 2 4 1
 D. 2 4 3 1
 
 <details>
@@ -1023,15 +1023,15 @@ D. 2 4 3 1
 
 </details>
 
-**Q28.** Which of the following is/are UP architecture locks?
+**Q28.** Which of the following is/are UP architecture facts?
 
-1. Atala Masjid, Jaunpur  
-2. Fatehpur Sikri  
-3. Bibi ka Maqbara  
+1. Atala Masjid, Jaunpur
+2. Fatehpur Sikri
+3. Bibi ka Maqbara
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1041,12 +1041,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q29.** Assertion (A): Mansabdari was started by Akbar.  
+**Q29.** Assertion (A): Mansabdari was started by Akbar.
 Reason (R): A mansab was hereditary in Akbar’s original system.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1058,9 +1058,9 @@ D. (A) is false, but (R) is true
 
 **Q30.** Itimad-ud-Daulah’s tomb at Agra is important because:
 
-A. It is Babur’s burial  
-B. It is a white-marble pietra-dura precursor to the Taj  
-C. It is the Sharqi Jama Masjid  
+A. It is Babur’s burial
+B. It is a white-marble pietra-dura precursor to the Taj
+C. It is the Sharqi Jama Masjid
 D. It commemorates the Gujarat war
 
 <details>
@@ -1072,13 +1072,13 @@ D. It commemorates the Gujarat war
 
 **Q31.** With reference to Sultanate–Mughal land, which of the following statements is/are correct?
 
-1. Khalsa is crown land.  
-2. Jagir is an assignment, not direct khalsa.  
+1. Khalsa is crown land.
+2. Jagir is an assignment, not direct khalsa.
 3. Iqta and jagir are the same as khalsa.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1090,9 +1090,9 @@ D. 1, 2 and 3
 
 **Q32.** Which of the following pairs is NOT correctly matched?
 
-A. *Tabaqat-i-Nasiri* — Minhaj-us-Siraj  
-B. *Humayunnama* — Gulbadan  
-C. *Tutinama* — Amir Khusrau  
+A. *Tabaqat-i-Nasiri* — Minhaj-us-Siraj
+B. *Humayunnama* — Gulbadan
+C. *Tutinama* — Amir Khusrau
 D. *Ain-i-Akbari* — Abul Fazl
 
 <details>
@@ -1104,15 +1104,15 @@ D. *Ain-i-Akbari* — Abul Fazl
 
 **Q33.** Consider the following events:
 
-1. Ibadat Khana  
-2. Mahzar  
-3. Din-i-Ilahi  
+1. Ibadat Khana
+2. Mahzar
+3. Din-i-Ilahi
 
 The correct chronological order is:
 
-A. 1 2 3  
-B. 2 1 3  
-C. 1 3 2  
+A. 1 2 3
+B. 2 1 3
+C. 1 3 2
 D. 2 3 1
 
 <details>
@@ -1124,9 +1124,9 @@ D. 2 3 1
 
 **Q34.** Shah Jahan’s patronage of Kavindra Acharya Saraswati is tied to which city?
 
-A. Agra only, with no Banaras link  
-B. Banaras  
-C. Lahore  
+A. Agra only, with no Banaras link
+B. Banaras
+C. Lahore
 D. Jaunpur
 
 <details>
@@ -1138,13 +1138,13 @@ D. Jaunpur
 
 **Q35.** With reference to Mughal art, which of the following statements is/are correct?
 
-1. Rajput painting prefers Hindu narrative and flatter colour than imperial Mughal portraiture.  
-2. Pietra dura is a Shah Jahan-age decorative lock.  
+1. Rajput painting prefers Hindu narrative and flatter colour than imperial Mughal portraiture.
+2. Pietra dura is a Shah Jahan-age decorative fact.
 3. Aurangzeb’s court is the high point of the imperial kitabkhana.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1156,9 +1156,9 @@ D. 1, 2 and 3
 
 **Q36.** Alai Darwaza is associated with:
 
-A. Iltutmish  
-B. Alauddin Khalji  
-C. Firoz Tughlaq  
+A. Iltutmish
+B. Alauddin Khalji
+C. Firoz Tughlaq
 D. Akbar
 
 <details>
@@ -1170,21 +1170,21 @@ D. Akbar
 
 **Q37.** Match List-I with List-II.
 
-**List-I**  
-A. Zabt  
-B. Dahsala  
-C. Suba  
-D. Dam  
+**List-I**
+A. Zabt
+B. Dahsala
+C. Suba
+D. Dam
 
-**List-II**  
-1. Copper coin  
-2. Measured assessment  
-3. Ten-year average  
-4. Province  
+**List-II**
+1. Copper coin
+2. Measured assessment
+3. Ten-year average
+4. Province
 
-A. 2 3 4 1  
-B. 2 3 1 4  
-C. 3 2 4 1  
+A. 2 3 4 1
+B. 2 3 1 4
+C. 3 2 4 1
 D. 2 4 3 1
 
 <details>
@@ -1196,13 +1196,13 @@ D. 2 4 3 1
 
 **Q38.** Which of the following statements is/are correct about Firoz Tughlaq and Sanskrit books?
 
-1. He collected Sanskrit volumes in the Nagarkot campaign.  
-2. Azizuddin Khan is the translator lock for that corpus.  
+1. He collected Sanskrit volumes in the Nagarkot campaign.
+2. Azizuddin Khan is the translator fact for that corpus.
 3. The translator was Amir Khusrau.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1212,12 +1212,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q39.** Assertion (A): The territories of the Sultanate could be divided into Khalsa and assigned holdings.  
+**Q39.** Assertion (A): The territories of the Sultanate could be divided into Khalsa and assigned holdings.
 Reason (R): Khalsa meant land under direct control of the state.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1229,13 +1229,13 @@ D. (A) is false, but (R) is true
 
 **Q40.** Which of the following is/are correctly matched?
 
-1. Taj Mahal — Agra  
-2. Jahangir’s tomb — Lahore  
-3. Babur’s tomb — Delhi  
+1. Taj Mahal — Agra
+2. Jahangir’s tomb — Lahore
+3. Babur’s tomb — Delhi
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1251,12 +1251,12 @@ D. 1, 2 and 3
 
 **Q1. UPPCS Prelims 2025, Q3**
 
-Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.  
+Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
 Reason (R): Turki was the official language of the Mughal Court.
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -1268,12 +1268,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q2. UPPCS Prelims 2025, Q49**
 
-Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.  
+Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
 Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -1287,21 +1287,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Match List-I with List-II.
 
-**List-I (Emperor)**  
-A. Babur  
-B. Humayun  
-C. Jahangir  
-D. Shah Jahan  
+**List-I (Emperor)**
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan
 
-**List-II (City of tomb)**  
-1. Agra  
-2. Lahore  
-3. Delhi  
-4. Kabul  
+**List-II (City of tomb)**
+1. Agra
+2. Lahore
+3. Delhi
+4. Kabul
 
-A. 4 3 2 1  
-B. 3 4 1 2  
-C. 3 4 2 1  
+A. 4 3 2 1
+B. 3 4 1 2
+C. 3 4 2 1
 D. 4 3 1 2
 
 <details>
@@ -1313,12 +1313,12 @@ D. 4 3 1 2
 
 **Q4. UPPCS Prelims 2025, Q95**
 
-Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.  
+Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.
 Reason (R): The Jagirs comprised the land under the direct control of the State.
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -1332,18 +1332,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Consider the following statements with reference to Bairam Khan:
 
-1. Akbar gave the title of Khan-i-Khana to Bairam Khan.  
+1. Akbar gave the title of Khan-i-Khana to Bairam Khan.
 2. This title was not given at the time of appointment of Bairam Khan as Vazir of Empire.
 
-A. Both 1 and 2  
-B. Neither 1 nor 2  
-C. Only 1  
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
 D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — Only 2.** **Humayun** conferred Khan-i-Khanan.
+**Ans: D — Only 2.Humayun** conferred Khan-i-Khanan.
 
 </details>
 
@@ -1351,14 +1351,14 @@ D. Only 2
 
 Arrange in chronological order:
 
-1. Murder of Abul Fazl  
-2. Death of Sheikh Mubarak  
-3. Death of Faizi  
-4. Death of Daniyal  
+1. Murder of Abul Fazl
+2. Death of Sheikh Mubarak
+3. Death of Faizi
+4. Death of Daniyal
 
-A. 2, 1, 4, 3  
-B. 3, 2, 1, 4  
-C. 2, 3, 1, 4  
+A. 2, 1, 4, 3
+B. 3, 2, 1, 4
+C. 2, 3, 1, 4
 D. 2, 4, 3, 1
 
 <details>
@@ -1372,9 +1372,9 @@ D. 2, 4, 3, 1
 
 Which of the following is **not** correctly matched?
 
-A. Iltutmish — Father of Razia  
-B. Shah Turkan — Wife of Iltutmish  
-C. Hamida Banu Begum — Wife of Alauddin Khilji  
+A. Iltutmish — Father of Razia
+B. Shah Turkan — Wife of Iltutmish
+C. Hamida Banu Begum — Wife of Alauddin Khilji
 D. Gulbadan Begum — Daughter of Babur
 
 <details>
@@ -1388,9 +1388,9 @@ D. Gulbadan Begum — Daughter of Babur
 
 Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
 
-A. Azizuddin Khan  
-B. Talib Amuli  
-C. Mulla Abdul Baqi  
+A. Azizuddin Khan
+B. Talib Amuli
+C. Mulla Abdul Baqi
 D. Mirza Muhammad Ali
 
 <details>
@@ -1404,9 +1404,9 @@ D. Mirza Muhammad Ali
 
 Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?
 
-A. Khwaja Ziya-ud-din Nakhshabi  
-B. Abdur Razzak  
-C. Shihabuddin-al-Umari  
+A. Khwaja Ziya-ud-din Nakhshabi
+B. Abdur Razzak
+C. Shihabuddin-al-Umari
 D. Amir Khusro
 
 <details>
@@ -1420,9 +1420,9 @@ D. Amir Khusro
 
 Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?
 
-A. Shah Jahan  
-B. Jahangir  
-C. Akbar  
+A. Shah Jahan
+B. Jahangir
+C. Akbar
 D. Humayun
 
 <details>
@@ -1434,12 +1434,12 @@ D. Humayun
 
 **Q11. UPPCS Prelims 2019, Q12**
 
-Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.  
+Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.
 Reason (R): As in Sher Shah's currency, the chief copper coin of Akbar's time was the Dam.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1453,9 +1453,9 @@ D. (A) is false, but (R) is true
 
 Which one of the following is NOT the characteristics of Iqta System?
 
-A. Iqta was a revenue collection system  
-B. Siyasatnama was the source of information for Iqta System  
-C. Revenue from Iqta was directly deposited in Sultan's account  
+A. Iqta was a revenue collection system
+B. Siyasatnama was the source of information for Iqta System
+C. Revenue from Iqta was directly deposited in Sultan's account
 D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
 
 <details>
@@ -1469,9 +1469,9 @@ D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
 
 Which of the following is NOT correctly matched?
 
-A. Tabaqat-i-Nasiri — Minhaj-us-Siraj  
-B. Tarikh-i-Firozshahi — Shams-i-Siraj Afif  
-C. Tughlaqnama — Ibn Battuta  
+A. Tabaqat-i-Nasiri — Minhaj-us-Siraj
+B. Tarikh-i-Firozshahi — Shams-i-Siraj Afif
+C. Tughlaqnama — Ibn Battuta
 D. Humayunnama — Gulbadan Begam
 
 <details>
@@ -1485,9 +1485,9 @@ D. Humayunnama — Gulbadan Begam
 
 Who among the following kings had given patronage to Tansen before Akbar?
 
-A. Raja Ramchandra Singh of Bhata  
-B. Rajbahadur of Malwa  
-C. Uday Singh of Mewar  
+A. Raja Ramchandra Singh of Bhata
+B. Rajbahadur of Malwa
+C. Uday Singh of Mewar
 D. Muzaffar Shah of Gujarat
 
 <details>
@@ -1501,14 +1501,14 @@ D. Muzaffar Shah of Gujarat
 
 Arrange the following monuments in chronological order.
 
-I. Rabia Daurani's Tomb, Aurangabad  
-II. Shershah Suri's Tomb, Sasaram  
-III. Humayun's Tomb, Delhi  
-IV. Atala Mosque, Jaunpur  
+I. Rabia Daurani's Tomb, Aurangabad
+II. Shershah Suri's Tomb, Sasaram
+III. Humayun's Tomb, Delhi
+IV. Atala Mosque, Jaunpur
 
-A. I, II, IV, III  
-B. IV, II, III, I  
-C. II, I, III, IV  
+A. I, II, IV, III
+B. IV, II, III, I
+C. II, I, III, IV
 D. III, IV, II, I
 
 <details>
@@ -1522,12 +1522,12 @@ D. III, IV, II, I
 
 With reference to Mansabdari system, which of the statements is/are correct?
 
-1. Mansabdari system was the official nobility of the state, started by Akbar.  
+1. Mansabdari system was the official nobility of the state, started by Akbar.
 2. A Mansabdari was hereditary.
 
-A. 1 only  
-B. Both 1 and 2  
-C. 2 only  
+A. 1 only
+B. Both 1 and 2
+C. 2 only
 D. Neither 1 nor 2
 
 <details>
@@ -1541,9 +1541,9 @@ D. Neither 1 nor 2
 
 Which of the following pairs is NOT correctly matched?
 
-A. Adina Masjid – Mandu  
-B. Lal Darwaza Masjid – Jaunpur  
-C. Dakhil Darwaza – Gaur  
+A. Adina Masjid – Mandu
+B. Lal Darwaza Masjid – Jaunpur
+C. Dakhil Darwaza – Gaur
 D. Tin Darwaza – Ahmedabad
 
 <details>
@@ -1555,12 +1555,12 @@ D. Tin Darwaza – Ahmedabad
 
 **Q18. UPPCS Prelims 2018, Q90**
 
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.  
+Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
 Reason (R): The early Chishti sufis were fond of musical assemblies called 'sama'.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1576,7 +1576,7 @@ D. (A) is false, but (R) is true
 
 | Year | Fact | Why asked | Source |
 |------|------|-----------|--------|
-| 2025 paper | Four Mughal tomb-city pairs + Buland Darwaza + Turki/Persian + Khalsa/Jagir | Fresh statement forms of static locks | UPPCS 2025 |
+| 2025 paper | Four Mughal tomb-city pairs + Buland Darwaza + Turki/Persian + Khalsa/Jagir | Fresh statement forms of static facts | UPPCS 2025 |
 | Standing | Fatehpur Sikri / Taj / Humayun’s Tomb UNESCO | Monument identity, not a new style | UNESCO |
 
 No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
@@ -1596,7 +1596,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 9. **Hamida Banu** is tied to **Humayun**, not Alauddin.
 10. **Adina Masjid** is in **Bengal/Pandua**, not Mandu. **Atala** is at **Jaunpur**.
 11. **Tutinama** is by **Nakhshabi**, not Khusrau.
-12. **Faizi died in 1595.** **Abul Fazl was murdered in 1602.**
+12. **Faizi died in 1595.Abul Fazl was murdered in 1602.**
 13. **Tansen** before Akbar was at the court of **Ramchandra of Bhata**.
 14. The **dam** is the copper coin of Sher Shah **and** Akbar.
 15. Iqta revenue is **not** fully parked in the Sultan’s chest. The muqti pays troops from it.

@@ -8,42 +8,42 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 
 </details>
 
-> **Sources baked in:** NCERT Geo 11–12; NDMA; IMD; Sendai Framework 2015; FSI; MoEFCC; UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — disaster–environment chain; UP flood/drought/heat; DPAP year; Piral Lao  
+> **Sources baked in:** NCERT Geo 11–12; NDMA; IMD; Sendai Framework 2015; FSI; MoEFCC; UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — disaster–environment chain; UP flood/drought/heat; DPAP year; Piral Lao
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Environmental degradation raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
-2. Flood types include riverine floods on the Ganga plains, flash floods/cloudbursts in Himalaya–Terai, and urban waterlogging. UP river locks include Ganga, Yamuna, Ghaghara, Rapti, and Gandak.
+2. Flood types include riverine floods on the Ganga plains, flash floods/cloudbursts in Himalaya–Terai, and urban waterlogging. UP river facts include Ganga, Yamuna, Ghaghara, Rapti, and Gandak.
 3. **NDMA** is under the Disaster Management Act **2005**. The **Prime Minister** chairs NDMA. **NDRF** is the response force. Sendai Framework for disaster risk reduction is **2015**.
 4. Drought progresses from **meteorological** (low rain) to **agricultural** (soil moisture) to **hydrological** (rivers and wells). Bundelkhand’s seven UP districts are a chronic drought hotspot.
 5. **DPAP** (Drought Prone Areas Programme) is **1973**. Do not date DPAP as **1952**. A rough programme spine is CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979.
-6. Landslides need gravity, water, weak slopes, and often vegetation loss. Himalaya and north-eastern hills are core belts. Kedarnath **2013** is the cloudburst–landslide–flood chain lock. Roads, mining, and deforestation are human triggers.
+6. Landslides need gravity, water, weak slopes, and often vegetation loss. Himalaya and north-eastern hills are core belts. Kedarnath **2013** is the cloudburst–landslide–flood chain fact. Roads, mining, and deforestation are human triggers.
 7. Tropical cyclones need warm seas around **26–27°C**. The **Bay of Bengal** produces more than the Arabian Sea. The **eye** is calm; the **eyewall** has the strongest winds; **storm surge** is the coastal flood killer.
 8. Mangroves reduce storm-surge damage. Named cyclone memory often uses Fani (**2019**) and Amphan (**2020**).
 9. IMD plains heat-wave idea: about **≥40°C** with departure **+4.5°C to +6.4°C** as heat wave; severe when departure is **≥+6.4°C** or temperature **≥47°C**. Peak is May–June in North India. Urban heat island amplifies cities but is not identical to a heat-wave definition.
-10. Forest fires need fuel, oxygen, and ignition. Peak season is roughly March–June. Chir pine needles are a Himalayan fuel lock. FSI issues satellite fire alerts.
+10. Forest fires need fuel, oxygen, and ignition. Peak season is roughly March–June. Chir pine needles are a Himalayan fuel fact. FSI issues satellite fire alerts.
 11. **Piral Lao–Paise Pao** in Uttarakhand pays for pine-needle collection to cut fire risk and raise income. It is an Uttarakhand flagship, not a default UP scheme name.
-12. NDMA Chair = Prime Minister — a recurring institution lock.
+12. NDMA Chair = Prime Minister — a recurring institution fact.
 13. Eye ≠ strongest winds. Eyewall holds the violence; eye is the calm core.
-14. Landslides are not “purely natural” when exam options ignore slope cutting and deforestation.
+14. Landslides are not “purely natural” when options ignore slope cutting and deforestation.
 15. Heat wave (IMD criteria) ≠ urban heat island (city microclimate effect), though cities worsen heat stress.
 16. DPAP year is **1973**, not the older CDP **1952** tag.
 17. Cloudburst is extreme local rain in a short time — often the Himalayan flood trigger neighbour to landslides.
 18. Storm surge is sea pushed ashore by cyclone winds — distinct from ordinary astronomical tide.
 19. Meteorological drought is rainfall failure; agricultural drought is crop-moisture failure; hydrological drought is stream/groundwater failure. Keep the sequence.
-20. Sendai **2015** is the global DRR framework lock beside India’s NDMA architecture.
+20. Sendai **2015** is the global DRR framework fact beside India’s NDMA architecture.
 21. Forest-fire season and chir-pine fuel matter more in Uttarakhand hills than in deep Gangetic floodplain districts.
-22. Cyclone naming and Bay of Bengal dominance are coastal locks; UP’s disaster map is flood–drought–heat first.
+22. Cyclone naming and Bay of Bengal dominance are coastal facts; UP’s disaster map is flood–drought–heat first.
 23. NDRF is the specialised response force; NDMA is the apex policy body chaired by the PM.
 24. Bundelkhand drought and Terai/Ganga floods are the two UP geography disaster anchors on this sheet.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -67,11 +67,11 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 
 - A **flood** occurs when water overflows onto normally dry land — river channel capacity or drainage is exceeded.
 - **Riverine floods** swell slowly over days–weeks on plains. **Flash floods** follow cloudbursts in hills within hours. **Urban flooding** is waterlogging from impervious surfaces and clogged drains.
-- **UP flood rivers:** **Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.
+- **UP flood rivers:Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.
 - **Human amplification:** floodplain encroachment, embankments that raise silted beds, and **deforestation** in catchments that speeds runoff.
 - **Terai flash risk:** Himalayan/Nepal-side catchments can inundate **Pilibhit, Lakhimpur Kheri, Bahraich** rapidly after extreme rain.
 - **Natural flood benefit:** controlled flooding deposits **alluvial silt** that renews soil fertility — the problem is uncontrolled flooding of encroached zones.
-- **Institutions:** **NDMA (Disaster Management Act 2005)** — **Prime Minister** is Ex-officio Chair; **NDRF** for response; **IMD/CWC** for forecasting; **Sendai Framework 2015** for disaster risk reduction.
+- **Institutions:NDMA (Disaster Management Act 2005)** — **Prime Minister** is Ex-officio Chair; **NDRF** for response; **IMD/CWC** for forecasting; **Sendai Framework 2015** for disaster risk reduction.
 - **Mitigation:** floodplain zoning, wetland restoration (natural sponges), catchment afforestation, early warning.
 
 | Type | Speed | UP example |
@@ -80,7 +80,7 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 | Flash | Hours | Terai foothills |
 | Urban | Hours | Lucknow, Kanpur waterlogging |
 
-> **Exam note:** Floods are India's most frequent disaster by affected population — not limited to coastal states.
+> ** note:** Floods are India's most frequent disaster by affected population — not limited to coastal states.
 
 ---
 
@@ -95,7 +95,7 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 - Sequence often runs meteorological → agricultural → hydrological.
 - **Bundelkhand (UP):** seven districts — **Jhansi, Lalitpur, Jalaun, Banda, Hamirpur, Mahoba, Chitrakoot** — chronic drought–desertification hotspot.
 - **Drought Prone Areas Programme (DPAP)** launched in **1973** — soil conservation, water harvesting, afforestation in dryland districts.
-- Chronology lock for exams: **CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979**.
+- Chronology fact s: **CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979**.
 - **Feedback loop:** drought kills vegetation → soil exposed → erosion → worse water retention → next drought worse.
 - Other schemes: Watershed Development, **MGNREGA** water works, Bundelkhand Package, Jal Jeevan Mission.
 
@@ -117,7 +117,7 @@ D. 4, 2, 1, 3
 
 </details>
 
-> **Exam note:** DPAP = **1973**, not 1952 (that is CDP).
+> ** note:** DPAP = **1973**, not 1952 (that is CDP).
 
 ---
 
@@ -134,7 +134,7 @@ D. 4, 2, 1, 3
 - **Downstream risk:** landslide debris can dam rivers; dam-break floods then hit plains including UP Terai.
 - **Mitigation:** bio-engineering, retaining walls, afforestation, land-use zoning on steep slopes, GSI hazard zonation maps.
 
-> **Exam note:** "Landslides are purely natural — humans play no role" = **FALSE**.
+> ** note:** "Landslides are purely natural — humans play no role" = **FALSE**.
 
 ---
 
@@ -167,7 +167,7 @@ Natural disasters cause max damage in developing countries; Bhopal was man-made;
 | Winds | Calm | **Strongest** |
 | Pressure | Lowest | Rising outward |
 
-> **Exam note:** Baguios–Philippines; Hurricanes–USA; Typhoons–China/NW Pacific; Willy-Willies–Australia.
+> ** note:** Baguios–Philippines; Hurricanes–USA; Typhoons–China/NW Pacific; Willy-Willies–Australia.
 
 ---
 
@@ -190,7 +190,7 @@ Natural disasters cause max damage in developing countries; Bhopal was man-made;
 | Duration | Days–weeks | Persistent year-round bias |
 | Cause | Atmospheric pattern | Built surfaces, lost greenery |
 
-> **Exam note:** Heat wave ≠ urban heat island — different scale and cause.
+> ** note:** Heat wave ≠ urban heat island — different scale and cause.
 
 ---
 
@@ -225,7 +225,7 @@ D. Both 1 and 2
 
 </details>
 
-> **Exam note:** Piral Lao = **Uttarakhand** pine-needle campaign — not a UP state flagship scheme.
+> ** note:** Piral Lao = **Uttarakhand** pine-needle campaign — not a UP state flagship scheme.
 
 ---
 
@@ -696,7 +696,7 @@ D. Gangetic delta only
 
 </details>
 
-**Q30.** Assertion (A): Mangroves reduce cyclone impact.  
+**Q30.** Assertion (A): Mangroves reduce cyclone impact.
 Reason (R): They act as coastal buffers against wind and storm surge.
 
 A. Both true; R explains A
@@ -717,19 +717,9 @@ D. Both false
 
 ## Complete PYQ Bank (Topic 23)
 
-**Q1. UPPCS 2025, Q134** — CDP → DPAP → FWP → TRYSEM → **Ans: B (2, 4, 1, 3)**
+**Q1. UPPCS 2025, Q134** — CDP → DPAP → FWP → TRYSEM → **Ans: B (2, 4, 1, 3)Q2. UPPCS 2024, Q86** — Piral Lao: fire reduction + income; Uttarakhand CM → **Ans: D (Both)Q3. UPPCS 2021, Q26** — NDMA Ex-officio Chair = Prime Minister → **Ans: AQ4. UPPCS 2020, Q74** — Cyclone names: Baguios–Philippines; Hurricanes–USA; Typhoons–China; Willy-Willies–Australia → **Ans: B (3 4 2 1)Q5. UPPCS 2019** — Tropical cyclone regional names matching → same fact set
 
-**Q2. UPPCS 2024, Q86** — Piral Lao: fire reduction + income; Uttarakhand CM → **Ans: D (Both)**
-
-**Q3. UPPCS 2021, Q26** — NDMA Ex-officio Chair = Prime Minister → **Ans: A**
-
-**Q4. UPPCS 2020, Q74** — Cyclone names: Baguios–Philippines; Hurricanes–USA; Typhoons–China; Willy-Willies–Australia → **Ans: B (3 4 2 1)**
-
-**Q5. UPPCS 2019** — Tropical cyclone regional names matching → same lock set
-
-**Q6. UPPCS 2018, Q133** — Mangroves reduce cyclone impact (stmt true); India not disaster-free → **Ans: C (1, 2, 4)**
-
-**Q7. UPSC pattern** — Sendai Framework = DRR 2015
+**Q6. UPPCS 2018, Q133** — Mangroves reduce cyclone impact (stmt true); India not disaster-free → **Ans: C (1, 2, 4)Q7. UPSC pattern** — Sendai Framework = DRR 2015
 
 **Q8. UPSC pattern** — Kedarnath 2013 = cloudburst–landslide–flood
 
@@ -741,7 +731,7 @@ D. Both false
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | DPAP = 1952 | **1973** (CDP = 1952) |
 | Strongest winds in cyclone eye | **Eyewall** |
@@ -782,10 +772,10 @@ D. Both false
 
 ### Topic boundaries
 
-- **Desertification / land degradation depth** — Topic 13  
-- **Mangrove ecology / MISHTI** — Topic 21  
-- **Climate change science** — Topic 10  
-- **Pollution / air quality** — Topic 9  
+- **Desertification / land degradation depth** — Topic 13
+- **Mangrove ecology / MISHTI** — Topic 21
+- **Climate change science** — Topic 10
+- **Pollution / air quality** — Topic 9
 
 ### PYQ audit
 
@@ -795,6 +785,6 @@ D. Both false
 | 2024 Q86 Piral Lao | §23.6 inline |
 | 2021 Q26 NDMA Chair | Practice Q1 + Consolidated |
 | 2020/2019 cyclone name matching | Practice Q10 + PYQ Bank |
-| 2018 mangrove/cyclone stmts | §23.4 exam note + PYQ Bank |
+| 2018 mangrove/cyclone stmts | §23.4 note + PYQ Bank |
 
 **File ready: YES**

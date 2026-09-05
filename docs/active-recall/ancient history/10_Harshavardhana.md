@@ -274,7 +274,7 @@ One fact per card. Write keywords, then open **Show answer**.
 
 ## Rapid fire
 
-**Q27.** From memory, link each prompt to its Harsha lock:
+**Q27.** From memory, link each prompt to its Harsha fact:
 
 | Recall item |
 |-------------|
@@ -296,7 +296,7 @@ One fact per card. Write keywords, then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Prompt | Lock |
+| Prompt | Fact |
 |--------|------|
 | Dynasty | **Pushyabhuti / Vardhana** |
 | First capital | **Thanesar (Sthaneshvara)** |
@@ -317,9 +317,9 @@ One fact per card. Write keywords, then open **Show answer**.
 
 ---
 
-## Extra locks
+## Extra facts
 
-**Q28.** From memory, state the exam lock for each Harsha anchor:
+**Q28.** From memory, state the key fact for each Harsha anchor:
 
 | Recall item |
 |-------------|
@@ -336,7 +336,7 @@ One fact per card. Write keywords, then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Anchor | Lock |
+| Anchor | Fact |
 |--------|------|
 | 606 CE | Harsha’s **accession** |
 | Thanesar | **First** capital |

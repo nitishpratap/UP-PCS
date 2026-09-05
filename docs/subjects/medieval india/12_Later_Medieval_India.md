@@ -8,17 +8,17 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II–III*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — traveller order (2021 Q75), Hawkins year (2023 Q31), Aix-la-Chapelle (2020 Q18 / 2025 Q67), Awadh Nawabs + 1856  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT *Themes in Indian History Part II–III*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — traveller order, Hawkins year, Aix-la-Chapelle (2020 Q18 / 2025 Q67), Awadh Nawabs + 1856
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. Sea-power arrival order: **Portuguese 1498 → Dutch ~1605 → English Surat factory 1612 → Danish Tranquebar 1620 → French Pondicherry 1674**.
-2. Charter lock: **EIC 1600**, **VOC 1602**, **Danish 1616**, **French 1664** — the English charter comes **before** the Dutch.
+2. Charter fact: **EIC 1600**, **VOC 1602**, **Danish 1616**, **French 1664** — the English charter comes **before** the Dutch.
 3. **Vasco da Gama** reached **Calicut in 1498**; **Afonso de Albuquerque** captured **Goa in 1510** and made it Portuguese India's capital.
 4. Portuguese **cartaze** was an ocean pass-fee; **Shah Jahan** expelled the Portuguese from **Hooghly in 1632**.
 5. The Dutch **VOC** used **Pulicat** as its South Indian headquarters and **Chinsurah** as its Bengal factory.
@@ -27,7 +27,7 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 8. English factory spine: **Surat 1612**, **Madras/Fort St George 1640**, Bombay leased **1668**, and **Calcutta/Fort William ~1698**.
 9. French headquarters was **Pondicherry (1674)**; the French Bengal factory was **Chandernagore**.
 10. The **Treaty of Aix-la-Chapelle (1748)** ended the **First Carnatic War** and returned **Madras** to the English.
-11. Danish locks are **Tranquebar (1620)** and **Serampore** in Bengal; Denmark sold its Indian settlements in **1845**.
+11. Danish facts are **Tranquebar (1620)** and **Serampore** in Bengal; Denmark sold its Indian settlements in **1845**.
 12. Traveller chronology: **Ralph Fitch 1585 → Hawkins 1608 → Nicholas Downton 1614 → Roe 1615**.
 13. **Bernier** was a **French** traveller at Aurangzeb's court, not an English EIC envoy.
 14. **Saadat Khan Burhan-ul-Mulk** founded the **Awadh** Nawabi in **1722**; he is not Bengal's Murshid Quli Khan.
@@ -46,7 +46,7 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -74,7 +74,7 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 - The **1600** EIC charter is a **trade monopoly**, not rule over India.
 - Territorial company rule is a later modern-history story (**Plassey 1757**, **Buxar 1764**, **Diwani 1765**).
 
-| Company | Charter | India lock |
+| Company | Charter | India |
 |---------|---------|------------|
 | **Portuguese** | 1498 voyage | **Goa 1510** |
 | **English EIC** | **1600** | **Surat 1612** |
@@ -89,10 +89,10 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 **Phase:** First European sea power in India | **Focus:** Spice trade, coastal forts, cartaze tax
 
 - **Cause:** Portugal sought a **sea route to India** after Ottoman control blocked easy land access to Asian spices.
-- **Course:** **Vasco da Gama** reached **Calicut in 1498** and met the **Zamorin**. He did **not** capture Goa on that first voyage.
+- **Course:Vasco da Gama** reached **Calicut in 1498** and met the **Zamorin**. He did **not** capture Goa on that first voyage.
 - **Afonso de Albuquerque** captured **Goa in 1510** and made it the **capital of Portuguese India**.
 - Portugal built a chain of **coastal forts** at Goa, Daman, Diu, Cochin, and other points to control the Arabian Sea trade.
-- **Cartaze** was a **pass-fee** Portuguese ships imposed on Indian Ocean merchants — an exam lock for their commercial control.
+- **Cartaze** was a **pass-fee** Portuguese ships imposed on Indian Ocean merchants — an key fact for their commercial control.
 - **Result:** Portugal dominated the early 16th-century spice trade but remained a **coastal maritime power**, never ruling Delhi or the Gangetic plains.
 - **Shah Jahan expelled the Portuguese from Hooghly in 1632**, but they kept other strongholds until later decline.
 
@@ -124,7 +124,7 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 - The answer is **B (only 2)**.
 - **Sir Thomas Roe** was ambassador in **1615–19**, also at Jahangir’s court.
 - **Francis Day** secured **Madras** in **1640**.
-- **Fort St George** is the lock.
+- **Fort St George** is the fact.
 - **Bombay** came from Portugal as royal dowry and was **leased to the EIC in 1668**.
 - **Fort William / Calcutta** grew around **1698**.
 - Hawkins did not conquer Delhi.
@@ -163,11 +163,9 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Both)**
+**Ans: C (Both)Statement 1 is true:** The **First Carnatic War** ended in **1748**.
 
-**Statement 1 is true:** The **First Carnatic War** ended in **1748**.
-
-**Statement 2 is true:** **Madras** was restored to the English under the treaty.
+**Statement 2 is true:Madras** was restored to the English under the treaty.
 
 **Trap:** Do not confuse **Aix-la-Chapelle (1748)** with **Paris (1763)**.
 
@@ -181,11 +179,11 @@ D. Only 2
 
 
 - The Danish East India Company received its charter in **1616**, entering India later than the Portuguese, English, and Dutch.
-- **Tranquebar (Tharangambadi, 1620)** on the Coromandel coast is the standard exam lock — **Fort Dansborg** still stands there.
+- **Tranquebar (Tharangambadi, 1620)** on the Coromandel coast is the standard key fact — **Fort Dansborg** still stands there.
 - **Serampore** in Bengal became a Danish factory and later a famous **mission press** centre before British takeover.
 - Danish settlements were commercially minor compared with the English and French but matter for **factory-location** match questions.
 - In **1845** Denmark sold its Indian possessions to the British.
-- **Trap:** **Serampore** is Danish, not French. **Tranquebar** is Danish, not Dutch.
+- **Trap:Serampore** is Danish, not French. **Tranquebar** is Danish, not Dutch.
 
 ---
 
@@ -208,25 +206,23 @@ D. Only 2
 - **Nicholas Downton** belongs to **1614** (Surat command).
 - **Sir Thomas Roe** arrived **1615**.
 
-### PYQ — Traveller chronology (2021 Q75)
+### PYQ — Traveller chronology
 
 **1. (UPPCS Prelims 2021, Q75)** Arrange the following foreign travellers in chronological order of their arrival in India:
 
-I. William Hawkins  
-II. Ralph Fitch  
-III. Sir Thomas Roe  
-IV. Nicholas Downton  
+I. William Hawkins
+II. Ralph Fitch
+III. Sir Thomas Roe
+IV. Nicholas Downton
 
 A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II, IV and I
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (II-I-IV-III)**
+**Ans: A (II-I-IV-III)Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
 
-**Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
-
-**Trap:** **Roe** was ambassador **1615–19**, not the first English arrival. **Bernier** (French, Aurangzeb court) and **Manucci** (Venetian) are not in this British chronology list.
+**Trap:Roe** was ambassador **1615–19**, not the first English arrival. **Bernier** (French, Aurangzeb court) and **Manucci** (Venetian) are not in this British chronology list.
 
 </details>
 
@@ -267,9 +263,7 @@ D. III-II-IV-I
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** The correct lock is **II-I-IV-III**.
+**Ans: AWhy:** The correct fact is **II-I-IV-III**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -288,9 +282,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** 2023 Q31; arrival is 1608.
+**Ans: BWhy:** 2023 Q31; arrival is 1608.
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -308,9 +300,7 @@ D. Only 1
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Key:** Both statements are correct.
+**Ans: CKey:** Both statements are correct.
 
 **Why:** 2025 Q67 / 2020 Q18.
 
@@ -330,9 +320,7 @@ D. 1-3-2-4
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** The correct lock is **1-3-4-2**.
+**Ans: AWhy:** The correct fact is **1-3-4-2**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -351,9 +339,7 @@ D. 2-1-3-4
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Order:** 2025 Q26.
+**Ans: AOrder:** 2025 Q26.
 
 **Trap:** Check dates before matching option codes.
 
@@ -371,9 +357,7 @@ D. Hawkins
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Albuquerque**.
+**Ans: BWhy:** The correct fact is **Albuquerque**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -392,9 +376,7 @@ D. Pondicherry 1674
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Surat 1612**.
+**Ans: BWhy:** The correct fact is **Surat 1612**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -413,15 +395,11 @@ D. Danish
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** The correct lock is **Danish
+**Ans: DWhy:** The correct fact is **Danish
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** Matches the core teaching lock for this topic.
+**Ans: DWhy:** Matches the core teaching fact for this topic.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -442,9 +420,7 @@ D. Portuguese
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **French**.
+**Ans: BWhy:** The correct fact is **French**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -463,9 +439,7 @@ D. Dupleix
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Saadat Khan**.
+**Ans: BWhy:** The correct fact is **Saadat Khan**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -484,9 +458,7 @@ D. Awadh land grant
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Portuguese sea-pass**.
+**Ans: BWhy:** The correct fact is **Portuguese sea-pass**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -505,9 +477,7 @@ D. 1664
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **1600**.
+**Ans: BWhy:** The correct fact is **1600**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -526,9 +496,7 @@ D. 1664
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **1602**.
+**Ans: BWhy:** The correct fact is **1602**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -547,9 +515,7 @@ D. Founder of Awadh
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **French physician at Aurangzeb’s court**.
+**Ans: BWhy:** The correct fact is **French physician at Aurangzeb’s court**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -568,9 +534,7 @@ D. Aurangzeb vs Danes
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Shah Jahan vs Portuguese**.
+**Ans: BWhy:** The correct fact is **Shah Jahan vs Portuguese**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -589,9 +553,7 @@ D. Calcutta
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Madras**.
+**Ans: BWhy:** The correct fact is **Madras**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -610,9 +572,7 @@ D. 1748
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **1668**.
+**Ans: CWhy:** The correct fact is **1668**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -631,9 +591,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Key:** Both statements are correct.
+**Ans: CKey:** Both statements are correct.
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -651,9 +609,7 @@ D. Clive
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Asaf-ud-Daula**.
+**Ans: BWhy:** The correct fact is **Asaf-ud-Daula**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -672,9 +628,7 @@ D. Saadat Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **Wajid Ali Shah**.
+**Ans: CWhy:** The correct fact is **Wajid Ali Shah**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -693,9 +647,7 @@ D. Only for Goa
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **False**.
+**Ans: BWhy:** The correct fact is **False**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -714,9 +666,7 @@ D. Danish
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Dutch**.
+**Ans: BWhy:** The correct fact is **Dutch**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -735,9 +685,7 @@ D. Awadh capital
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **French Bengal**.
+**Ans: BWhy:** The correct fact is **French Bengal**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -756,9 +704,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Only 2)**
-
-**Key:** Statement **1** is false — EIC did **not** rule India from **1600** (trade charter only). Statement **2** is true.
+**Ans: B (Only 2)Key:** Statement **1** is false — EIC did **not** rule India from **1600** (trade charter only). Statement **2** is true.
 
 **Trap:** Territorial rule begins **1757+**, not 1600.
 
@@ -776,9 +722,7 @@ D. Founded Goa
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Allied with Abdali**.
+**Ans: BWhy:** The correct fact is **Allied with Abdali**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -797,15 +741,11 @@ D. 1664
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** The correct lock is **1664
+**Ans: DWhy:** The correct fact is **1664
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** Matches the core teaching lock for this topic.
+**Ans: DWhy:** Matches the core teaching fact for this topic.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -826,9 +766,7 @@ D. Downton – 1614
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why wrong:** One pair breaks the standard lock in this topic.
+**Ans: CWhy wrong:** One pair breaks the standard fact in this topic.
 
 **Trap:** Eliminate pairs you know are correct first.
 
@@ -846,9 +784,7 @@ D. 1748
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **1856**.
+**Ans: CWhy:** The correct fact is **1856**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -867,9 +803,7 @@ D. Dupleix
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Vasco da Gama**.
+**Ans: BWhy:** The correct fact is **Vasco da Gama**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -888,9 +822,7 @@ D. Mughal capital
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Danish**.
+**Ans: BWhy:** The correct fact is **Danish**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -909,9 +841,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Only 1)**
-
-**Key:** Only statement **1** is true — **Pondicherry** is French. Statement **2** is false — **Tranquebar** is **Danish**.
+**Ans: A (Only 1)Key:** Only statement **1** is true — **Pondicherry** is French. Statement **2** is false — **Tranquebar** is **Danish**.
 
 **Trap:** Do not confuse French Pondicherry with Danish Tranquebar.
 
@@ -929,9 +859,7 @@ D. Saadat Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Jahangir**.
+**Ans: BWhy:** The correct fact is **Jahangir**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -950,9 +878,7 @@ D. VOC Pulicat
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Awadh after Buxar**.
+**Ans: BWhy:** The correct fact is **Awadh after Buxar**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -971,9 +897,7 @@ D. Dutch Pulicat admiral
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **French Carnatic governor**.
+**Ans: BWhy:** The correct fact is **French Carnatic governor**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -992,9 +916,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** Indigo is 1859, after 1856.
+**Ans: BWhy:** Indigo is 1859, after 1856.
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -1012,9 +934,7 @@ D. Awadh imambara
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Trading post**.
+**Ans: BWhy:** The correct fact is **Trading post**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -1033,9 +953,7 @@ D. Danish – 1498
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **French – 1664**.
+**Ans: CWhy:** The correct fact is **French – 1664**.
 
 **Trap:** Cross-check Confused Pairs table before finalising.
 
@@ -1053,9 +971,7 @@ D. True only for Fitch
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **False**.
+**Ans: BWhy:** The correct fact is **False**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -1081,11 +997,9 @@ D. III, II, IV and I
 
 <details><summary>Show answer</summary>
 
-**Ans: A (II-I-IV-III)**
+**Ans: A (II-I-IV-III)Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
 
-**Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
-
-**Trap:** **Roe** is ambassador **1615–19**, not the first English arrival.
+**Trap:Roe** is ambassador **1615–19**, not the first English arrival.
 
 </details>
 
@@ -1104,11 +1018,9 @@ D. Neither 1 nor 2
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Only 2)**
+**Ans: B (Only 2)Key:** Statement **1** is false (arrival **1608** on **Hector**); statement **2** is true (Turkish at Jahangir's court).
 
-**Key:** Statement **1** is false (arrival **1608** on **Hector**); statement **2** is true (Turkish at Jahangir's court).
-
-**Trap:** **1611** is the trap year — Hawkins came **1608**, Roe came **1615**.
+**Trap:1611** is the trap year — Hawkins came **1608**, Roe came **1615**.
 
 </details>
 
@@ -1127,9 +1039,7 @@ D. Neither 1 nor 2
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Both 1 and 2)**
-
-**Key:** Both statements are true — war ended **1748** and **Madras** (taken 1746) went back to the English.
+**Ans: C (Both 1 and 2)Key:** Both statements are true — war ended **1748** and **Madras** (taken 1746) went back to the English.
 
 **Trap:** Same pair as **2025 Q67** — not **Paris 1763** (Seven Years' War).
 
@@ -1150,11 +1060,9 @@ D. Only 1
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Both 1 and 2)**
+**Ans: C (Both 1 and 2)Key:** First Carnatic War ended; **Madras** restored to the English under the **1748** treaty.
 
-**Key:** First Carnatic War ended; **Madras** restored to the English under the **1748** treaty.
-
-**Trap:** **Paris 1763** ended French hopes after Wandiwash — different treaty.
+**Trap:Paris 1763** ended French hopes after Wandiwash — different treaty.
 
 </details>
 
@@ -1173,11 +1081,9 @@ D. 2, 1, 3, 4
 
 <details><summary>Show answer</summary>
 
-**Ans: A (2-1-4-3)**
+**Ans: A (2-1-4-3)Order:** Second Anglo-French/Carnatic **1749–54** → First Anglo-Mysore **1767** → First Anglo-Afghan **1839** → First Anglo-Sikh **1845**.
 
-**Order:** Second Anglo-French/Carnatic **1749–54** → First Anglo-Mysore **1767** → First Anglo-Afghan **1839** → First Anglo-Sikh **1845**.
-
-**Trap:** **Second Anglo-French** is the Carnatic phase, not Panipat III.
+**Trap:Second Anglo-French** is the Carnatic phase, not Panipat III.
 
 </details>
 
@@ -1196,11 +1102,9 @@ D. 1, 3, 2, 4
 
 <details><summary>Show answer</summary>
 
-**Ans: A (1-3-4-2)**
+**Ans: A (1-3-4-2)Order:** Awadh annexation **1856** → Indigo Revolt **1859** → Second Anglo-Afghan War **1878–80** → Ilbert Bill **1883**.
 
-**Order:** Awadh annexation **1856** → Indigo Revolt **1859** → Second Anglo-Afghan War **1878–80** → Ilbert Bill **1883**.
-
-**Trap:** **Awadh 1856** precedes **Indigo 1859** — annexation fed the **1857** Lucknow rising.
+**Trap:Awadh 1856** precedes **Indigo 1859** — annexation fed the **1857** Lucknow rising.
 
 </details>
 

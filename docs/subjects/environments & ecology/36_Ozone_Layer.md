@@ -8,13 +8,13 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 </details>
 
-> **Sources baked in:** NCERT; UNEP Ozone Secretariat; Vienna 1985; Montreal 1987; Kigali 2016; MoEFCC Ozone Cell; UPPCS PYQs  
-> **Exam weight:** ★★★ High — Montreal ≠ Kyoto; ozone = stratosphere; Ozone Day 16 Sept; CFC link  
+> **Sources baked in:** NCERT; UNEP Ozone Secretariat; Vienna 1985; Montreal 1987; Kigali 2016; MoEFCC Ozone Cell; UPPCS PYQs
+> **Weight:** ★★★ High — Montreal ≠ Kyoto; ozone = stratosphere; Ozone Day 16 Sept; CFC link
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** sits in the **stratosphere** (about **15–35 km**). Ground-level ozone is harmful.
 2. Ozone amount is measured in **Dobson Units**. Average column is about **300 DU**. An ozone hole is often taken as below **220 DU**.
@@ -43,9 +43,9 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Term | One-line lock |
+| Term | One-line fact |
 |------|---------------|
 | **Stratospheric / Tropospheric O₃** | UV shield / pollutant + GHG |
 | **Ozone depletion / Ozone hole** | Column loss / Antarctic region < 220 DU |
@@ -70,10 +70,10 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 **PYQ — UPPCS Prelims 2025, Q45**
 
-1. Ozone layer protects Earth’s surface from solar UV.  
+1. Ozone layer protects Earth’s surface from solar UV.
 2. Ozone depletion has been linked to CFCs.
 
-Options: A. Only 2  B. Neither  C. Both 1 and 2  D. Only 1
+Options: A. Only 2 B. Neither C. Both 1 and 2 D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -95,7 +95,7 @@ Maximum ozone concentration / wrong pair:
 
 Ultra-violet radiation from sunlight causes the reaction that produces:
 
-Options: A. CO  B. SO₂  C. O₃  D. Fluorides
+Options: A. CO B. SO₂ C. O₃ D. Fluorides
 
 <details><summary>Show answer</summary>
 
@@ -103,7 +103,7 @@ Options: A. CO  B. SO₂  C. O₃  D. Fluorides
 
 </details>
 
-> **Exam note:** UV-shield ozone = **stratosphere only**.
+> ** note:** UV-shield ozone = **stratosphere only**.
 
 ---
 
@@ -118,7 +118,7 @@ Options: A. CO  B. SO₂  C. O₃  D. Fluorides
 - Extra UV-B raises risks of skin cancer, cataracts, crop damage, and marine plankton stress.
 - Depletion is not the same as the greenhouse effect, though some substitutes (HFCs) are strong climate gases.
 
-> **Exam note:** Depletion link to **CFCs** is a direct UPPCS lock (2025 Q45 stmt 2).
+> ** note:** Depletion link to **CFCs** is a direct UPPCS fact (2025 Q45 stmt 2).
 
 ---
 
@@ -134,7 +134,7 @@ Options: A. CO  B. SO₂  C. O₃  D. Fluorides
 - Arctic thinning occurs but is usually weaker/less persistent than the Antarctic hole.
 - There is **no ozone hole over Uttar Pradesh / India** as an Antarctic-style seasonal feature.
 
-> **Exam note:** Hole = Antarctic spring + DU threshold — not “everywhere CFCs are used.”
+> ** note:** Hole = Antarctic spring + DU threshold — not “everywhere CFCs are used.”
 
 ---
 
@@ -149,7 +149,7 @@ Options: A. CO  B. SO₂  C. O₃  D. Fluorides
 - **ODP (Ozone Depleting Potential)** ranks destructiveness relative to **CFC-11 = 1**.
 - **HFCs** were ozone-friendly replacements but have high **GWP**; controlled later by the **Kigali Amendment** (climate, not classic ODS).
 
-| ODS family | Typical use | Lock |
+| ODS family | Typical use | Fact |
 |------------|-------------|------|
 | CFCs | Cooling, aerosols, foam | Main Cl source |
 | Halons | Fire fighting | Br; high ODP |
@@ -157,7 +157,7 @@ Options: A. CO  B. SO₂  C. O₃  D. Fluorides
 | HCFCs | Transitional coolants | Lower ODP; being phased out |
 | HFCs | Coolants | Not ODS; Kigali / GWP |
 
-> **Exam note:** HFC ≠ ODS, but still exam-relevant under Montreal’s Kigali track.
+> ** note:** HFC ≠ ODS, but still -relevant under Montreal’s Kigali track.
 
 ---
 
@@ -176,7 +176,7 @@ Options: A. CO  B. SO₂  C. O₃  D. Fluorides
 
 Which agreement is related to climate change mitigation?
 
-Options: A. Montreal Protocol  B. Ramsar  C. Kyoto Protocol  D. CITES
+Options: A. Montreal Protocol B. Ramsar C. Kyoto Protocol D. CITES
 
 <details><summary>Show answer</summary>
 
@@ -188,7 +188,7 @@ Options: A. Montreal Protocol  B. Ramsar  C. Kyoto Protocol  D. CITES
 
 Which is NOT correctly matched?
 
-Options: A. Cartagena — Biosafety  B. Stockholm — POPs  C. Montreal — Ozone layer  D. Kyoto — Save water
+Options: A. Cartagena — Biosafety B. Stockholm — POPs C. Montreal — Ozone layer D. Kyoto — Save water
 
 <details><summary>Show answer</summary>
 
@@ -206,7 +206,7 @@ World / International Ozone Day date:
 
 </details>
 
-> **Exam note:** Montreal = ozone. Kyoto = climate. Never swap.
+> ** note:** Montreal = ozone. Kyoto = climate. Never swap.
 
 ---
 
@@ -217,7 +217,7 @@ World / International Ozone Day date:
 - The **Vienna Convention for the Protection of the Ozone Layer (1985)** is the **framework** treaty.
 - It commits parties to protect the ozone layer through research, monitoring, information exchange, and cooperation.
 - It does **not** itself set the detailed binding ODS phase-out schedules — that is Montreal’s job.
-- Sequence lock: **Vienna 1985 → Montreal 1987**.
+- Sequence fact: **Vienna 1985 → Montreal 1987**.
 - Together they form the global ozone regime administered with UNEP support (Ozone Secretariat).
 
 | Treaty | Year | Role |
@@ -226,7 +226,7 @@ World / International Ozone Day date:
 | Montreal Protocol | **1987** | Binding ODS controls |
 | Kigali Amendment | **2016** | HFC phase-down under Montreal |
 
-> **Exam note:** Vienna alone ≠ CFC ban list; Montreal adds the teeth.
+> ** note:** Vienna alone ≠ CFC ban list; Montreal adds the teeth.
 
 ---
 
@@ -234,7 +234,7 @@ World / International Ozone Day date:
 
 **Q1.** Protective ozone layer is in the:
 
-Options: A. Stratosphere  B. Troposphere  C. Mesosphere  D. Exosphere
+Options: A. Stratosphere B. Troposphere C. Mesosphere D. Exosphere
 
 <details><summary>Show answer</summary>
 
@@ -244,7 +244,7 @@ Options: A. Stratosphere  B. Troposphere  C. Mesosphere  D. Exosphere
 
 **Q2.** Ozone Day is observed on:
 
-Options: A. 16 September  B. 5 June  C. 22 April  D. 2 February
+Options: A. 16 September B. 5 June C. 22 April D. 2 February
 
 <details><summary>Show answer</summary>
 
@@ -254,7 +254,7 @@ Options: A. 16 September  B. 5 June  C. 22 April  D. 2 February
 
 **Q3.** Montreal Protocol year:
 
-Options: A. 1987  B. 1985  C. 1997  D. 2015
+Options: A. 1987 B. 1985 C. 1997 D. 2015
 
 <details><summary>Show answer</summary>
 
@@ -264,7 +264,7 @@ Options: A. 1987  B. 1985  C. 1997  D. 2015
 
 **Q4.** Vienna Convention year:
 
-Options: A. 1985  B. 1987  C. 1997  D. 2016
+Options: A. 1985 B. 1987 C. 1997 D. 2016
 
 <details><summary>Show answer</summary>
 
@@ -274,7 +274,7 @@ Options: A. 1985  B. 1987  C. 1997  D. 2016
 
 **Q5.** Ozone hole threshold is below:
 
-Options: A. 220 DU  B. 2200 DU  C. 22 DU only  D. 2 DU only
+Options: A. 220 DU B. 2200 DU C. 22 DU only D. 2 DU only
 
 <details><summary>Show answer</summary>
 
@@ -284,7 +284,7 @@ Options: A. 220 DU  B. 2200 DU  C. 22 DU only  D. 2 DU only
 
 **Q6.** Classic ozone hole region/season:
 
-Options: A. Antarctic spring  B. UP monsoon only  C. Sahara summer only  D. Arctic midsummer always identical
+Options: A. Antarctic spring B. UP monsoon only C. Sahara summer only D. Arctic midsummer always identical
 
 <details><summary>Show answer</summary>
 
@@ -294,7 +294,7 @@ Options: A. Antarctic spring  B. UP monsoon only  C. Sahara summer only  D. Arct
 
 **Q7.** Climate mitigation among these:
 
-Options: A. Kyoto Protocol  B. Montreal Protocol  C. Vienna only as climate ETS  D. CITES only
+Options: A. Kyoto Protocol B. Montreal Protocol C. Vienna only as climate ETS D. CITES only
 
 <details><summary>Show answer</summary>
 
@@ -304,7 +304,7 @@ Options: A. Kyoto Protocol  B. Montreal Protocol  C. Vienna only as climate ETS 
 
 **Q8.** CFCs are linked to:
 
-Options: A. Ozone depletion  B. Only wetland wise use  C. Only tiger corridors  D. Only earthquake prediction
+Options: A. Ozone depletion B. Only wetland wise use C. Only tiger corridors D. Only earthquake prediction
 
 <details><summary>Show answer</summary>
 
@@ -314,7 +314,7 @@ Options: A. Ozone depletion  B. Only wetland wise use  C. Only tiger corridors  
 
 **Q9.** UV from sunlight helps produce:
 
-Options: A. O₃  B. Only argon  C. Only helium  D. Only N₂ percentage
+Options: A. O₃ B. Only argon C. Only helium D. Only N₂ percentage
 
 <details><summary>Show answer</summary>
 
@@ -324,7 +324,7 @@ Options: A. O₃  B. Only argon  C. Only helium  D. Only N₂ percentage
 
 **Q10.** Vienna Convention is mainly a:
 
-Options: A. Framework treaty  B. Cap-and-trade for CO₂ only  C. Wildlife trade ban only  D. Wetland listing only
+Options: A. Framework treaty B. Cap-and-trade for CO₂ only C. Wildlife trade ban only D. Wetland listing only
 
 <details><summary>Show answer</summary>
 
@@ -334,7 +334,7 @@ Options: A. Framework treaty  B. Cap-and-trade for CO₂ only  C. Wildlife trade
 
 **Q11.** Kigali Amendment targets:
 
-Options: A. HFCs  B. Only tiger skins  C. Only Ramsar sites  D. Only plastic bags in 1971
+Options: A. HFCs B. Only tiger skins C. Only Ramsar sites D. Only plastic bags in 1971
 
 <details><summary>Show answer</summary>
 
@@ -344,7 +344,7 @@ Options: A. HFCs  B. Only tiger skins  C. Only Ramsar sites  D. Only plastic bag
 
 **Q12.** Halons are mainly used in:
 
-Options: A. Fire suppressants  B. Only edible oils  C. Only fertilizers  D. Only cement
+Options: A. Fire suppressants B. Only edible oils C. Only fertilizers D. Only cement
 
 <details><summary>Show answer</summary>
 
@@ -354,7 +354,7 @@ Options: A. Fire suppressants  B. Only edible oils  C. Only fertilizers  D. Only
 
 **Q13.** ODP compares ODS to:
 
-Options: A. CFC-11 (=1)  B. Only CO₂ GWP  C. Only gold price  D. Only AQI scale
+Options: A. CFC-11 (=1) B. Only CO₂ GWP C. Only gold price D. Only AQI scale
 
 <details><summary>Show answer</summary>
 
@@ -364,7 +364,7 @@ Options: A. CFC-11 (=1)  B. Only CO₂ GWP  C. Only gold price  D. Only AQI scal
 
 **Q14.** Photochemical smog contains:
 
-Options: A. Ozone  B. Only pure argon  C. Only helium  D. Only N₂ as irritant
+Options: A. Ozone B. Only pure argon C. Only helium D. Only N₂ as irritant
 
 <details><summary>Show answer</summary>
 
@@ -374,7 +374,7 @@ Options: A. Ozone  B. Only pure argon  C. Only helium  D. Only N₂ as irritant
 
 **Q15.** Which pair is WRONG?
 
-Options: A. Ozone layer — Troposphere  B. Montreal — ODS phase-out  C. Vienna — 1985 framework  D. Ozone Day — 16 Sept
+Options: A. Ozone layer — Troposphere B. Montreal — ODS phase-out C. Vienna — 1985 framework D. Ozone Day — 16 Sept
 
 <details><summary>Show answer</summary>
 
@@ -384,7 +384,7 @@ Options: A. Ozone layer — Troposphere  B. Montreal — ODS phase-out  C. Vienn
 
 **Q16.** Rowland–Molina work concerned:
 
-Options: A. CFCs and ozone loss  B. Only Chipko movement  C. Only Ramsar listing  D. Only Kyoto CDM credits
+Options: A. CFCs and ozone loss B. Only Chipko movement C. Only Ramsar listing D. Only Kyoto CDM credits
 
 <details><summary>Show answer</summary>
 
@@ -394,7 +394,7 @@ Options: A. CFCs and ozone loss  B. Only Chipko movement  C. Only Ramsar listing
 
 **Q17.** PSCs help explain:
 
-Options: A. Antarctic ozone hole chemistry  B. Only Ganga flooding  C. Only desert sand dunes  D. Only coral bleaching heat alone
+Options: A. Antarctic ozone hole chemistry B. Only Ganga flooding C. Only desert sand dunes D. Only coral bleaching heat alone
 
 <details><summary>Show answer</summary>
 
@@ -404,7 +404,7 @@ Options: A. Antarctic ozone hole chemistry  B. Only Ganga flooding  C. Only dese
 
 **Q18.** India’s nodal ozone unit is under:
 
-Options: A. MoEFCC (Ozone Cell)  B. RBI only  C. WTO only  D. IMF only
+Options: A. MoEFCC (Ozone Cell) B. RBI only C. WTO only D. IMF only
 
 <details><summary>Show answer</summary>
 
@@ -414,7 +414,7 @@ Options: A. MoEFCC (Ozone Cell)  B. RBI only  C. WTO only  D. IMF only
 
 **Q19.** HFC is best described as:
 
-Options: A. High-GWP coolant controlled via Kigali  B. Classic high-ODP CFC twin  C. Only inert like argon  D. Only a wetland plant
+Options: A. High-GWP coolant controlled via Kigali B. Classic high-ODP CFC twin C. Only inert like argon D. Only a wetland plant
 
 <details><summary>Show answer</summary>
 
@@ -424,7 +424,7 @@ Options: A. High-GWP coolant controlled via Kigali  B. Classic high-ODP CFC twin
 
 **Q20.** Global average column ozone is about:
 
-Options: A. 300 DU  B. 3 DU  C. 3000 DU always  D. 22 DU only
+Options: A. 300 DU B. 3 DU C. 3000 DU always D. 22 DU only
 
 <details><summary>Show answer</summary>
 
@@ -432,10 +432,10 @@ Options: A. 300 DU  B. 3 DU  C. 3000 DU always  D. 22 DU only
 
 </details>
 
-**Q21.** Assertion (A): Montreal Protocol addresses ODS.  
+**Q21.** Assertion (A): Montreal Protocol addresses ODS.
 Reason (R): It is the main climate mitigation treaty like Kyoto.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -445,7 +445,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 **Q22.** Good ozone vs bad ozone:
 
-Options: A. Stratosphere vs troposphere  B. Both only in exosphere  C. Both only in Earth’s core  D. Bad ozone only means N₂
+Options: A. Stratosphere vs troposphere B. Both only in exosphere C. Both only in Earth’s core D. Bad ozone only means N₂
 
 <details><summary>Show answer</summary>
 
@@ -455,7 +455,7 @@ Options: A. Stratosphere vs troposphere  B. Both only in exosphere  C. Both only
 
 **Q23.** Montreal signing date is also:
 
-Options: A. International Ozone Day  B. World Wetlands Day  C. Earth Day  D. World Environment Day
+Options: A. International Ozone Day B. World Wetlands Day C. Earth Day D. World Environment Day
 
 <details><summary>Show answer</summary>
 
@@ -465,7 +465,7 @@ Options: A. International Ozone Day  B. World Wetlands Day  C. Earth Day  D. Wor
 
 **Q24.** One Cl atom can destroy on the order of:
 
-Options: A. ~100,000 O₃ molecules  B. Only 1 O₃ ever  C. Only N₂ molecules  D. Only argon atoms
+Options: A. ~100,000 O₃ molecules B. Only 1 O₃ ever C. Only N₂ molecules D. Only argon atoms
 
 <details><summary>Show answer</summary>
 
@@ -475,7 +475,7 @@ Options: A. ~100,000 O₃ molecules  B. Only 1 O₃ ever  C. Only N₂ molecules
 
 **Q25.** Agenda 21 is mainly about:
 
-Options: A. Sustainable Development  B. ODS phase-out schedules  C. Only ozone hole DU  D. Only Montreal Multilateral Fund text
+Options: A. Sustainable Development B. ODS phase-out schedules C. Only ozone hole DU D. Only Montreal Multilateral Fund text
 
 <details><summary>Show answer</summary>
 
@@ -485,7 +485,7 @@ Options: A. Sustainable Development  B. ODS phase-out schedules  C. Only ozone h
 
 **Q26.** Both UV protection and CFC–depletion link are:
 
-Options: A. Correct  B. Both false  C. Only UV false  D. Only CFC false
+Options: A. Correct B. Both false C. Only UV false D. Only CFC false
 
 <details><summary>Show answer</summary>
 
@@ -495,7 +495,7 @@ Options: A. Correct  B. Both false  C. Only UV false  D. Only CFC false
 
 **Q27.** Tropospheric ozone is:
 
-Options: A. Pollutant / smog component  B. The main UV shield layer  C. Measured only as 78% of air  D. Identical to N₂
+Options: A. Pollutant / smog component B. The main UV shield layer C. Measured only as 78% of air D. Identical to N₂
 
 <details><summary>Show answer</summary>
 
@@ -505,7 +505,7 @@ Options: A. Pollutant / smog component  B. The main UV shield layer  C. Measured
 
 **Q28.** Correct sequence:
 
-Options: A. Vienna 1985 → Montreal 1987 → Kigali 2016  B. Kigali → Vienna → Montreal  C. Montreal 1971 → Vienna 1997  D. Kyoto 1985 → Vienna 2016
+Options: A. Vienna 1985 → Montreal 1987 → Kigali 2016 B. Kigali → Vienna → Montreal C. Montreal 1971 → Vienna 1997 D. Kyoto 1985 → Vienna 2016
 
 <details><summary>Show answer</summary>
 
@@ -515,7 +515,7 @@ Options: A. Vienna 1985 → Montreal 1987 → Kigali 2016  B. Kigali → Vienna 
 
 **Q29.** Methyl bromide is an:
 
-Options: A. ODS (fumigant)  B. Only inert noble gas  C. Only GHG water vapour  D. Only tiger prey species
+Options: A. ODS (fumigant) B. Only inert noble gas C. Only GHG water vapour D. Only tiger prey species
 
 <details><summary>Show answer</summary>
 
@@ -525,7 +525,7 @@ Options: A. ODS (fumigant)  B. Only inert noble gas  C. Only GHG water vapour  D
 
 **Q30.** Correct set:
 
-Options: A. Ozone=stratosphere; hole<220 DU Antarctic spring; Montreal=ODS; Vienna=framework  B. Ozone=troposphere; Montreal=climate; Vienna=Kyoto twin  C. Hole=UP monsoon; Ozone Day=5 June  D. CFC=only GWP issue; HFC=main ODP gas
+Options: A. Ozone=stratosphere; hole<220 DU Antarctic spring; Montreal=ODS; Vienna=framework B. Ozone=troposphere; Montreal=climate; Vienna=Kyoto twin C. Hole=UP monsoon; Ozone Day=5 June D. CFC=only GWP issue; HFC=main ODP gas
 
 <details><summary>Show answer</summary>
 
@@ -537,23 +537,9 @@ Options: A. Ozone=stratosphere; hole<220 DU Antarctic spring; Montreal=ODS; Vien
 
 ## Complete PYQ Bank (Topic 36)
 
-**Q1. UPPCS 2025, Q45** — UV protection + CFC link → **Ans: C (Both)**
+**Q1. UPPCS 2025, Q45** — UV protection + CFC link → **Ans: C (Both)Q2. UPPCS 2025, Q62** — International Ozone Day — 16 September (correct pair)
 
-**Q2. UPPCS 2025, Q62** — International Ozone Day — 16 September (correct pair)
-
-**Q3. UPPCS 2024, Q35** — Climate mitigation = Kyoto (not Montreal) → **Ans: C**
-
-**Q4. UPPCS 2023, Q52** — Ozone layer = Stratosphere → **Ans: C**
-
-**Q5. UPPCS 2022, Q82** — Ozone Day = 16 September → **Ans: B**
-
-**Q6. UPPCS 2022, Q46** — Photochemical smog contains ozone → **Ans: B**
-
-**Q7. UPPCS 2021, Q114** — World Ozone Day = 16 September → **Ans: C**
-
-**Q8. UPPCS 2019, Q132** — Kyoto ≠ “save water”; Montreal–ozone correct → **Ans: D**
-
-**Q9. UPPCS 2018, Q52/Q55/Q57** — Stratosphere max O₃; UV→O₃; ozone≠troposphere
+**Q3. UPPCS 2024, Q35** — Climate mitigation = Kyoto (not Montreal) → **Ans: CQ4. UPPCS 2023, Q52** — Ozone layer = Stratosphere → **Ans: CQ5. UPPCS 2022, Q82** — Ozone Day = 16 September → **Ans: BQ6. UPPCS 2022, Q46** — Photochemical smog contains ozone → **Ans: BQ7. UPPCS 2021, Q114** — World Ozone Day = 16 September → **Ans: CQ8. UPPCS 2019, Q132** — Kyoto ≠ “save water”; Montreal–ozone correct → **Ans: DQ9. UPPCS 2018, Q52/Q55/Q57** — Stratosphere max O₃; UV→O₃; ozone≠troposphere
 
 **Q10. Pattern** — Vienna 1985 framework; Montreal 1987 binding ODS phase-out
 
@@ -561,7 +547,7 @@ Options: A. Ozone=stratosphere; hole<220 DU Antarctic spring; Montreal=ODS; Vien
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Montreal = climate mitigation | **Ozone / ODS**; Kyoto = climate |
 | Ozone layer in troposphere | **Stratosphere** |
@@ -600,11 +586,11 @@ Options: A. Ozone=stratosphere; hole<220 DU Antarctic spring; Montreal=ODS; Vien
 
 ### Topic boundaries
 
-- **Layer location / atmosphere structure** — Topic 35  
-- **Shorter ozone revision sheet** — Topic 11  
-- **Kyoto / carbon markets / climate policy** — Topic 34  
-- **Ozone Day in days calendar** — Topic 31  
-- **HFC as GHG detail** — Topic 37  
+- **Layer location / atmosphere structure** — Topic 35
+- **Shorter ozone revision sheet** — Topic 11
+- **Kyoto / carbon markets / climate policy** — Topic 34
+- **Ozone Day in days calendar** — Topic 31
+- **HFC as GHG detail** — Topic 37
 
 ### PYQ audit
 

@@ -8,13 +8,13 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 </details>
 
-> **Sources baked in:** NCERT Geography/Biology, EPA 1986, EIA Notification 2006, NGT Act 2010, UNECE SEA Protocol 2003, PARIVESH, UPPCS/UPSC PYQs  
-> **Exam weight:** ★★ Medium–High — Category A/B traps, four stages, MoEFCC vs SEIAA vs CPCB, EIA vs SEA  
+> **Sources baked in:** NCERT Geography/Biology, EPA 1986, EIA Notification 2006, NGT Act 2010, UNECE SEA Protocol 2003, PARIVESH, UPPCS/UPSC PYQs
+> **Weight:** ★★ Medium–High — Category A/B traps, four stages, MoEFCC vs SEIAA vs CPCB, EIA vs SEA
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **EIA** studies a project’s likely environmental effects **before** approval. The aim is anticipatory prevention, not reactive cleanup.
 2. Legal base is the **Environment (Protection) Act, 1986** (Section **3**). First EIA Notification was **1994**; the current framework is **EIA Notification 2006 (14 September)**.
@@ -31,7 +31,7 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 13. **SEA** assesses policies, plans, and programmes upstream of projects. India has project-level EIA law but **no standalone SEA statute**.
 14. SEA references include the Kiev SEA Protocol **2003** (Espoo family) and the EU SEA Directive.
 15. Rio Principle **17** supports EIA for projects with significant impacts.
-16. EC must come **before** construction. Ex-post facto clearance is illegal in the standard exam line.
+16. EC must come **before** construction. Ex-post facto clearance is illegal in the standard line.
 17. Timeline: Bhopal **1984** → EPA **1986** → EIA Notification **1994** → EIA Notification **2006** → NGT Act **2010** → draft EIA amendment debates **2020** (not a full replacement of 2006).
 18. UP examples: Ganga Expressway as Category A; Singrauli TPP expansions; Upper Ganga ESZ plan-level restrictions before project EC.
 19. EIA is project-level; SEA is plan/policy-level — do not merge the acronyms.
@@ -43,7 +43,7 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -79,9 +79,9 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 - **NGT (National Green Tribunal)**, under the **NGT Act 2010**, hears appeals against EC decisions.
 - EC must be obtained **before** construction. **Ex-post facto clearance** after work has begun is illegal and controversial.
 
-> **Exam note:** Carrying capacity (2025 Q22) — waste generation must stay within the environment's absorption limit; that is what EIA evaluates.
+> ** note:** Carrying capacity — waste generation must stay within the environment's absorption limit; that is what EIA evaluates.
 
-> **Exam note:** Org trap (2025 Q70 pattern) — **CGWB** reports groundwater quality; **CPCB** does not grant EC. EC = **MoEFCC/SEIAA**.
+> ** note:** Org trap (2025 Q70 pattern) — **CGWB** reports groundwater quality; **CPCB** does not grant EC. EC = **MoEFCC/SEIAA**.
 
 | Category | Authority | Screening? | Full EIA? |
 |----------|-----------|------------|-----------|
@@ -114,7 +114,7 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 - **India has robust project-level EIA** under the 2006 Notification but **no standalone SEA legislation** as of current law.
 - Partial strategic tools in India include **CRZ notifications**, **Eco-Sensitive Zone (ESZ) notifications**, and basin-level planning — but these are not a full SEA law.
 
-> **Exam note:** Statement "India has mandatory SEA law equivalent to EIA Notification" = **false**.
+> ** note:** Statement "India has mandatory SEA law equivalent to EIA Notification" = **false**.
 
 | Feature | EIA | SEA |
 |---------|-----|-----|
@@ -136,9 +136,7 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
-
-**Q1.** EIA is primarily conducted:
+> **30 questionsQ1.** EIA is primarily conducted:
 
 A. After project completion
 
@@ -622,23 +620,9 @@ D. 2010
 
 ## Complete PYQ Bank (Topic 14)
 
-**Q1. UPPCS 2025, Q22 (crossover)** — Waste within absorption capacity = true; core EIA logic → **Carrying capacity test**
+**Q1. UPPCS 2025, Q22 (crossover)** — Waste within absorption capacity = true; core EIA logic → **Carrying capacity testQ2. UPPCS 2025, Q70 (org trap)** — Groundwater report = CGWB, not CPCB → parallel: **EC = MoEFCC/SEIAA, not CPCBQ3. UPPCS 2025 / Topic 1, Q33** — Water Act = **1974**; Air Act = 1981; **EPA = 1986** enables EIA
 
-**Q2. UPPCS 2025, Q70 (org trap)** — Groundwater report = CGWB, not CPCB → parallel: **EC = MoEFCC/SEIAA, not CPCB**
-
-**Q3. UPPCS 2025 / Topic 1, Q33** — Water Act = **1974**; Air Act = 1981; **EPA = 1986** enables EIA
-
-**Q4. UPSC pattern** — Category A EC granted by → **MoEFCC on EAC recommendation**
-
-**Q5. UPSC pattern** — EIA mandatory for all projects? → **No — only listed Schedule projects**
-
-**Q6. UPSC pattern** — EIA Notification issued under → **EPA 1986**
-
-**Q7. UPSC pattern** — NGT Act passed in → **2010**
-
-**Q8. UPSC pattern** — SEA conducted at → **Policies, plans, programmes**
-
-**Q9. UPSC pattern** — Espoo Convention → **Transboundary EIA**
+**Q4. UPSC pattern** — Category A EC granted by → **MoEFCC on EAC recommendationQ5. UPSC pattern** — EIA mandatory for all projects? → **No — only listed Schedule projectsQ6. UPSC pattern** — EIA Notification issued under → **EPA 1986Q7. UPSC pattern** — NGT Act passed in → **2010Q8. UPSC pattern** — SEA conducted at → **Policies, plans, programmesQ9. UPSC pattern** — Espoo Convention → **Transboundary EIA**
 
 ---
 
@@ -650,7 +634,7 @@ D. 2010
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | CPCB grants EC | **MoEFCC/SEIAA grant EC** |
 | Screening for Category A | **Screening = Category B only** |
@@ -674,7 +658,7 @@ D. 2010
 | **Practice Zone** | 30 questions |
 | **PYQ Bank** | 9 questions (UPSC patterns + 2025 crossovers) |
 | **Common Traps** | 10 |
-| **Inline PYQs** | None direct UPPCS EIA MCQ — 2025 Q22/Q70 as exam notes in §14.1 |
+| **Inline PYQs** | None direct UPPCS EIA MCQ — 2025 Q22/Q70 as notes in §14.1 |
 
 ### Syllabus coverage map
 
@@ -693,7 +677,7 @@ D. 2010
 
 | PYQ | Placement |
 |-----|-----------|
-| 2025 Q22 carrying capacity | §14.1 exam note |
-| 2025 Q70 org trap | §14.1 exam note |
+| 2025 Q22 carrying capacity | §14.1 note |
+| 2025 Q70 org trap | §14.1 note |
 | Topic 1 Q33 EPA/Acts | PYQ Bank Q3 |
 | No direct UPPCS EIA MCQ 2018–2025 | Practice Zone + UPSC patterns carry topic |

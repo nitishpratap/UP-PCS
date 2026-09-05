@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 1</p>
 <h1 class="fact-lock-hero__title">Fundamentals of Physical Geography</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">🔴 Very high priority</span>
-<span class="fact-lock-pill">Prelims ~8.5/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">🔴 Very high priority</span>
+<span class="fact-fact-pill">Prelims ~8.5/10</span>
 </div>
 <p class="fact-lock-hero__lead">Direct factual questions from <strong>Earth movements, latitude–longitude, interior of Earth, rocks/minerals, plate tectonics, earthquakes, volcanoes and physiographic features</strong>. UPPSC Prelims papers from 2017–2025 are the core PYQ window for this part.</p>
 <p class="fact-lock-hero__rule"><strong>Booklet rule:</strong> Don't try to understand everything here. <strong>Memorise the highlighted associations, tables and traps.</strong></p>
@@ -25,7 +25,7 @@ hide:
 <a href="#38-major-mountain-types">38–41 Landforms</a>
 <a href="#42-volcano-basic-terminology">42–47 Volcanoes</a>
 <a href="#48-earthquakes">48–52 Earthquakes</a>
-<a href="#56-one-line-geography-associations">56 Locks</a>
+<a href="#56-one-line-geography-associations">56 Facts</a>
 <a href="#confused-pairs">Pairs</a>
 <a href="#uppcs-trap-statements">Traps</a>
 <a href="#self-test-20-mcqs">Self test</a>
@@ -107,7 +107,7 @@ Therefore:
 > **At the Equator**
 
 !!! trap "Coriolis trap"
-    Coriolis force **does not** create wind or determine wind speed — it only **deflects** the direction of moving air and water.
+ Coriolis force **does not** create wind or determine wind speed — it only **deflects** the direction of moving air and water.
 
 
 ## 3. ☀️ Revolution of Earth
@@ -146,9 +146,9 @@ Dates can vary by a day depending on the year.
 | **Aphelion** | Earth farthest from Sun | **4 July** |
 
 !!! trap "Seasons trap"
-    **Seasons are NOT caused by Earth's changing distance from the Sun.**
+ **Seasons are NOT caused by Earth's changing distance from the Sun.**
 
-    Main cause: **23½° axial tilt + revolution around Sun**
+ Main cause: **23½° axial tilt + revolution around Sun**
 
 
 ## 5. 🌐 Latitude
@@ -178,9 +178,9 @@ Measured:
 > Gujarat → Rajasthan → Madhya Pradesh → Chhattisgarh → Jharkhand → West Bengal → Tripura → Mizoram
 
 !!! mnemonic "Tropic of Cancer — 8 states"
-    **Guj-Raj-MP-Chha-Jha-WB-Tri-Mizo**
+ **Guj-Raj-MP-Chha-Jha-WB-Tri-Mizo**
 
-    Gujarat → Rajasthan → Madhya Pradesh → Chhattisgarh → Jharkhand → West Bengal → Tripura → Mizoram
+ Gujarat → Rajasthan → Madhya Pradesh → Chhattisgarh → Jharkhand → West Bengal → Tripura → Mizoram
 
 
 ## 6. 🌍 Longitude
@@ -247,8 +247,8 @@ IST:
 
 > **UTC/GMT + 5 hours 30 minutes**
 
-!!! prelims "IST lock"
-    **82°30′ E → IST → Mirzapur, UP** — NOT 82° E.
+!!! prelims "IST fact"
+ **82°30′ E → IST → Mirzapur, UP** — NOT 82° E.
 
 
 ## 9. 🌐 Important Latitude Facts
@@ -1300,7 +1300,7 @@ Examples:
 
 Memorise these as **X → Y**:
 
-<div class="fact-lock-chips" markdown="1">
+<div class="fact-fact-chips" markdown="1">
 
 > **Moho → Crust–Mantle**
 
@@ -1369,9 +1369,9 @@ Memorise these as **X → Y**:
 
 ## Confused Pairs {#confused-pairs}
 
-One row = one exam distinction. Memorise the **lock** column.
+One row = one distinction. Memorise the **fact** column.
 
-| Pair | Lock |
+| Pair | Fact |
 | --- | --- |
 | **23½° vs 66½°** | 23½° → Tropics · 66½° → Polar Circles |
 | **Rotation vs Revolution** | Rotation → day/night · Revolution + tilt → seasons |
@@ -1386,7 +1386,7 @@ One row = one exam distinction. Memorise the **lock** column.
 
 ## UPPCS Trap Statements {#uppcs-trap-statements}
 
-| # | False statement (do not pick) | Correct lock |
+| # | False statement (do not pick) | Correct fact |
 | ---: | --- | --- |
 | 1 | Seasons are caused because Earth is closer to the Sun in summer | **Axial tilt + revolution** |
 | 2 | All longitudes are parallel | **Longitudes meet at the poles** |
@@ -1397,11 +1397,11 @@ One row = one exam distinction. Memorise the **lock** column.
 | 7 | New crust is produced at transform boundaries | **Divergent → new crust** |
 | 8 | San Andreas Fault is a convergent boundary | **Transform boundary** |
 | 9 | Hawaii lies on a typical plate boundary | **Hotspot / intraplate volcanism** |
-| 10 | Barren Island is a dormant volcano (for exam) | **India's only confirmed active volcano** |
+| 10 | Barren Island is a dormant volcano (to remember) | **India's only confirmed active volcano** |
 
 ## Common Traps — Quick Scan {#common-traps-quick-scan}
 
-| Wrong link | Right lock |
+| Wrong link | Correct |
 | --- | --- |
 | Seasons → distance from Sun | Tilt + revolution |
 | Latitude → time | Longitude |
@@ -1439,7 +1439,7 @@ One row = one exam distinction. Memorise the **lock** column.
 
 ## Rapid Revision Chips {#rapid-revision-chips}
 
-<div class="fact-lock-chips" markdown="1">
+<div class="fact-fact-chips" markdown="1">
 
 > **23½ → Tilt**
 
@@ -1485,7 +1485,7 @@ One row = one exam distinction. Memorise the **lock** column.
 
 ## Must Ratta — Master Block {#must-ratta-master-block}
 
-<div class="fact-lock-review" markdown="1">
+<div class="fact-fact-review" markdown="1">
 
 **Earth** — Rotation W→E · Revolution W→E · Axis 23½° · Perihelion Jan · Aphelion Jul · Seasons = tilt + revolution
 
@@ -1502,16 +1502,16 @@ One row = one exam distinction. Memorise the **lock** column.
 ## PYQ Connection {#pyq-connection}
 
 !!! prelims "High-value formats"
-    1. **Match the following** — discontinuity, rock, mountain, volcano.
-    2. **Statement-based** — Earth movements and seasons.
-    3. **Assertion–Reason** — plate tectonics / earthquakes.
-    4. **Location association** — volcano, fault, mountain.
-    5. **Conceptual elimination** — P vs S waves.
-    6. **Numerical factual** — longitude / time.
-    7. **Sequence / order** — Earth's internal layers.
-    8. **Cause–effect** — plate movement → landform.
-    9. **Rock association** — parent rock → metamorphic rock.
-    10. **Latitude association** — tropics / polar circles.
+ 1. **Match the following** — discontinuity, rock, mountain, volcano.
+ 2. **Statement-based** — Earth movements and seasons.
+ 3. **Assertion–Reason** — plate tectonics / earthquakes.
+ 4. **Location association** — volcano, fault, mountain.
+ 5. **Conceptual elimination** — P vs S waves.
+ 6. **Numerical factual** — longitude / time.
+ 7. **Sequence / order** — Earth's internal layers.
+ 8. **Cause–effect** — plate movement → landform.
+ 9. **Rock association** — parent rock → metamorphic rock.
+ 10. **Latitude association** — tropics / polar circles.
 
 ## Self Test — 20 MCQs {#self-test-20-mcqs}
 
@@ -1681,6 +1681,6 @@ D. Collision
 | 20 | **C** | Divergent |
 
 !!! revise "Final revision order"
-    **Latitude/Longitude → Earth movements → Interior → Rocks → Plates → Earthquakes → Volcanoes → Landforms.**
+ **Latitude/Longitude → Earth movements → Interior → Rocks → Plates → Earthquakes → Volcanoes → Landforms.**
 
 </div>

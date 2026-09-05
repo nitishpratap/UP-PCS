@@ -69,7 +69,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q7.** What is the Indo-Greek coinage lock?
+**Q7.** What is the Indo-Greek coinage fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -304,7 +304,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 | Look | Greco-Roman drapery, wavy hair | Indigenous, fuller body |
 | Theme | Anthropomorphic **Buddha** | Buddha, Jina, Yaksha, royal portraits |
 
-Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s Mathura portraits are a UP lock.
+Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s Mathura portraits are a UP fact.
 
 </details>
 
@@ -378,7 +378,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ## UPPCS — Mathura
 
-**Q35.** Why is Mathura a Kushana–UP lock?
+**Q35.** Why is Mathura a Kushana–UP fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -391,7 +391,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ## Rapid fire
 
-**Q36.** From memory, link each name to its lock:
+**Q36.** From memory, link each name to its fact:
 
 | Recall item |
 |-------------|
@@ -411,7 +411,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Name | Lock |
+| Name | Fact |
 |------|------|
 | Menander | **Indo-Greek** |
 | Milindapanho | **Nagasena** |
@@ -430,7 +430,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ---
 
-## Extra locks the drill skipped
+## Extra facts the drill skipped
 
 **Q37.** At which battle did Alexander defeat Porus?
 
@@ -504,7 +504,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** **Diodotus** founded the **Greco-Bactrian** kingdom in Bactria. **Menander (Milinda)** is the famous **Indo-Greek** king of the ***Milindapanho*** dialogue inside India. Bactria is the base; Menander is the Indian-phase lock.
+**Ans:** **Diodotus** founded the **Greco-Bactrian** kingdom in Bactria. **Menander (Milinda)** is the famous **Indo-Greek** king of the ***Milindapanho*** dialogue inside India. Bactria is the base; Menander is the Indian-phase fact.
 
 </details>
 

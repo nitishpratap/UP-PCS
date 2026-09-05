@@ -67,7 +67,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: Dendritic is tree-like on uniform rock (Ganga–Godavari plains). Trellis is right-angle joins on folded ridges (2024 lock). Radial spreads from a dome (Amarkantak, Girnar). Rectangular follows joints and faults (Himalayan stretches). Centripetal drains into a closed basin (Imphal / Loktak).** Parallel torrents drop down the Western Ghats.
+**Ans: Dendritic is tree-like on uniform rock (Ganga–Godavari plains). Trellis is right-angle joins on folded ridges (2024 fact). Radial spreads from a dome (Amarkantak, Girnar). Rectangular follows joints and faults (Himalayan stretches). Centripetal drains into a closed basin (Imphal / Loktak).** Parallel torrents drop down the Western Ghats.
 
 </details>
 
@@ -308,7 +308,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: A fault-bounded trough.** The Narmada uses the rift between Vindhya (north) and Satpura (south). Damodar is the exam “fault valley drainage” tag. Tapi is the Narmada’s twin.
+**Ans: A fault-bounded trough.** The Narmada uses the rift between Vindhya (north) and Satpura (south). Damodar is the “fault valley drainage” tag. Tapi is the Narmada’s twin.
 
 </details>
 
@@ -442,7 +442,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: The river is older than the uplift and saws a gorge through the rising Himalaya.** Exam set: **Indus, Sutlej, Brahmaputra**. Discordant drainage cuts across structure.
+**Ans: The river is older than the uplift and saws a gorge through the rising Himalaya.** set: **Indus, Sutlej, Brahmaputra**. Discordant drainage cuts across structure.
 
 </details>
 
@@ -480,7 +480,7 @@ West: Narmada and Tapi to the Arabian Sea. East: Mahanadi → Godavari → Krish
 
 ## Ten-minute chain
 
-**Q49.** Complete these ten rapid locks without notes.
+**Q49.** Complete these ten rapid facts without notes.
 
 1. Three Himalayan river systems → ______
 2. Five Punjab rivers of the Indus, west to east → ______
@@ -498,15 +498,15 @@ West: Narmada and Tapi to the Arabian Sea. East: Mahanadi → Godavari → Krish
 
 **Ans:**
 
-1. Indus, Ganga, Brahmaputra.  
-2. Jhelum, Chenab, Ravi, Beas, Sutlej.  
-3. Yamuna, Ghaghara, Gandak, Kosi, Son (or Chambal–Betwa–Ken on Yamuna).  
-4. Devprayag (Alaknanda + Bhagirathi); Bhagirathi from Gangotri.  
-5. Yamunotri.  
-6. Tibet (Tsangpo / Chemayungdung).  
-7. Mahanadi, Godavari, Krishna, Kaveri.  
-8. Narmada, Tapi.  
-9. Rift valleys; plateau slopes the other way.  
+1. Indus, Ganga, Brahmaputra.
+2. Jhelum, Chenab, Ravi, Beas, Sutlej.
+3. Yamuna, Ghaghara, Gandak, Kosi, Son (or Chambal–Betwa–Ken on Yamuna).
+4. Devprayag (Alaknanda + Bhagirathi); Bhagirathi from Gangotri.
+5. Yamunotri.
+6. Tibet (Tsangpo / Chemayungdung).
+7. Mahanadi, Godavari, Krishna, Kaveri.
+8. Narmada, Tapi.
+9. Rift valleys; plateau slopes the other way.
 10. East coast shelf plus heavy silt; west rift rivers make estuaries.
 
 </details>

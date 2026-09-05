@@ -8,13 +8,13 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 
 </details>
 
-> **Sources baked in:** NCERT; MoEFCC schemes; NEP 2020; UNESCO ESD; Tbilisi 1977; UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ High — Carson/Hardin/Brundtland traps; ECO Club; Art 51A(g); LiFE  
+> **Sources baked in:** NCERT; MoEFCC schemes; NEP 2020; UNESCO ESD; Tbilisi 1977; UPPCS/UPSC PYQs
+> **Weight:** ★★★ High — Carson/Hardin/Brundtland traps; ECO Club; Art 51A(g); LiFE
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 22 Must-Score Locks
+## Consolidated — 22 Must-Score Facts
 
 1. Four pillars on this sheet: **literature** (landmark books/reports), **education** (formal EE), **awareness** (public campaigns), and **communication** (science to citizens).
 2. ***Silent Spring* (1962)** by **Rachel Carson** exposed pesticide/DDT harms. It is not Hardin’s commons essay.
@@ -30,9 +30,9 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 12. Literature shapes thought; education is curriculum and clubs; awareness is campaigns and duties; communication is media/IEC — keep the four jobs distinct.
 13. NGC/ECO Clubs are MoEFCC school eco-action programmes — not a Bharat Nirman infrastructure scheme.
 14. Agenda 21 is a sustainable-development action plan from Rio; it is not “only environmental education.”
-15. Article **51A(g)** is the constitutional citizen duty to protect the environment — an awareness/duty lock.
-16. Van Mahotsav is the July greening festival lock for schools and public tree planting.
-17. NEP 2020 supports education for sustainable development language; it does not replace Tbilisi as the classic EE conference lock.
+15. Article **51A(g)** is the constitutional citizen duty to protect the environment — an awareness/duty fact.
+16. Van Mahotsav is the July greening festival fact for schools and public tree planting.
+17. NEP 2020 supports education for sustainable development language; it does not replace Tbilisi as the classic EE conference fact.
 18. Down To Earth is CSE journalism for environment — a communication pillar example.
 19. UP colour: NEAC district campaigns, Van Mahotsav in schools, NCAP city awareness (Kanpur), and ECO Clubs in UP schools.
 20. Silent Spring’s year is **1962**; Limits to Growth is **1972**; Brundtland is **1987** — three different decades.
@@ -41,7 +41,7 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference |
 |------|---------------------|
@@ -73,10 +73,10 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 
 **PYQ — UPPCS Prelims 2024, Q51**
 
-Assertion (A): Sustainable Development was popularised by the Brundtland Report.  
+Assertion (A): Sustainable Development was popularised by the Brundtland Report.
 Reason (R): The Brundtland Report is also known as "The Limits to Growth".
 
-Options: A. Both true; R does not explain A  B. A false, R true  C. Both true; R explains A  D. A true, R false
+Options: A. Both true; R does not explain A B. A false, R true C. Both true; R explains A D. A true, R false
 
 <details><summary>Show answer</summary>
 
@@ -88,7 +88,7 @@ Options: A. Both true; R does not explain A  B. A false, R true  C. Both true; R
 
 *Silent Spring* (1962) was written by:
 
-Options: A. Carolyn Merchant  B. Karl Marx  C. Rachel Carson  D. Rajgopalan
+Options: A. Carolyn Merchant B. Karl Marx C. Rachel Carson D. Rajgopalan
 
 <details><summary>Show answer</summary>
 
@@ -103,7 +103,7 @@ Options: A. Carolyn Merchant  B. Karl Marx  C. Rachel Carson  D. Rajgopalan
 | Limits to Growth | Club of Rome | 1972 |
 | Our Common Future | Brundtland / WCED | 1987 |
 
-> **Exam note:** Carson ≠ Hardin. Brundtland ≠ Limits to Growth.
+> ** note:** Carson ≠ Hardin. Brundtland ≠ Limits to Growth.
 
 ---
 
@@ -124,7 +124,7 @@ Options: A. Carolyn Merchant  B. Karl Marx  C. Rachel Carson  D. Rajgopalan
 
 Agenda-21 of Rio Summit (1992) is related to—
 
-Options: A. Sustainable Development  B. Polluter Pays  C. Environmental Education  D. Ozone Layer
+Options: A. Sustainable Development B. Polluter Pays C. Environmental Education D. Ozone Layer
 
 <details><summary>Show answer</summary>
 
@@ -141,7 +141,7 @@ Options: A. Sustainable Development  B. Polluter Pays  C. Environmental Educatio
 | 2017 | GSDP |
 | 2020 | NEP 2020 ESD integration |
 
-> **Exam note:** ECO Club = MoEFCC NGC. Tbilisi = EE; Stockholm = UNEP birth — different milestones.
+> ** note:** ECO Club = MoEFCC NGC. Tbilisi = EE; Stockholm = UNEP birth — different milestones.
 
 ---
 
@@ -161,7 +161,7 @@ Options: A. Sustainable Development  B. Polluter Pays  C. Environmental Educatio
 
 LiFE: (1) launched June 2022 (2) idea proposed at COP-25 Madrid
 
-Options: A. Only 2  B. Neither  C. Both  D. Only 1
+Options: A. Only 2 B. Neither C. Both D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -169,7 +169,7 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 
 </details>
 
-> **Exam note:** LiFE = awareness/behaviour campaign. COP-25 Madrid trap is false.
+> ** note:** LiFE = awareness/behaviour campaign. COP-25 Madrid trap is false.
 
 ---
 
@@ -193,7 +193,7 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 | Scheme IEC | Namami Gange / Swachh Bharat |
 | People's science | KSSP |
 
-> **Exam note:** Communication ≠ awareness alone — accurate transmission of science/policy is the core.
+> ** note:** Communication ≠ awareness alone — accurate transmission of science/policy is the core.
 
 ---
 
@@ -202,7 +202,7 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 
 **Q1.** *Silent Spring* author:
 
-Options: A. Rachel Carson  B. Garrett Hardin  C. Brundtland  D. Club of Rome
+Options: A. Rachel Carson B. Garrett Hardin C. Brundtland D. Club of Rome
 
 <details><summary>Show answer</summary>
 
@@ -212,7 +212,7 @@ Options: A. Rachel Carson  B. Garrett Hardin  C. Brundtland  D. Club of Rome
 
 **Q2.** Tragedy of the Commons author:
 
-Options: A. Garrett Hardin  B. Rachel Carson  C. Tagore  D. Leopold only
+Options: A. Garrett Hardin B. Rachel Carson C. Tagore D. Leopold only
 
 <details><summary>Show answer</summary>
 
@@ -222,7 +222,7 @@ Options: A. Garrett Hardin  B. Rachel Carson  C. Tagore  D. Leopold only
 
 **Q3.** *Our Common Future* is also called:
 
-Options: A. Brundtland Report  B. Limits to Growth  C. Silent Spring  D. Hind Swaraj
+Options: A. Brundtland Report B. Limits to Growth C. Silent Spring D. Hind Swaraj
 
 <details><summary>Show answer</summary>
 
@@ -232,7 +232,7 @@ Options: A. Brundtland Report  B. Limits to Growth  C. Silent Spring  D. Hind Sw
 
 **Q4.** Limits to Growth (1972) is by:
 
-Options: A. Club of Rome  B. Brundtland Commission  C. Rachel Carson  D. Hardin alone
+Options: A. Club of Rome B. Brundtland Commission C. Rachel Carson D. Hardin alone
 
 <details><summary>Show answer</summary>
 
@@ -242,7 +242,7 @@ Options: A. Club of Rome  B. Brundtland Commission  C. Rachel Carson  D. Hardin 
 
 **Q5.** Tbilisi Declaration relates to:
 
-Options: A. Environmental Education  B. Ozone treaty  C. Wildlife trade  D. Carbon trading
+Options: A. Environmental Education B. Ozone treaty C. Wildlife trade D. Carbon trading
 
 <details><summary>Show answer</summary>
 
@@ -252,7 +252,7 @@ Options: A. Environmental Education  B. Ozone treaty  C. Wildlife trade  D. Carb
 
 **Q6.** ECO Club scheme is under:
 
-Options: A. MoEFCC (NGC)  B. RBI  C. CZA only  D. WTO
+Options: A. MoEFCC (NGC) B. RBI C. CZA only D. WTO
 
 <details><summary>Show answer</summary>
 
@@ -262,7 +262,7 @@ Options: A. MoEFCC (NGC)  B. RBI  C. CZA only  D. WTO
 
 **Q7.** Art 51A(g) is a:
 
-Options: A. Fundamental Duty to protect environment  B. Fundamental Right to property only  C. DPSP on industries only  D. Schedule on languages
+Options: A. Fundamental Duty to protect environment B. Fundamental Right to property only C. DPSP on industries only D. Schedule on languages
 
 <details><summary>Show answer</summary>
 
@@ -272,7 +272,7 @@ Options: A. Fundamental Duty to protect environment  B. Fundamental Right to pro
 
 **Q8.** LiFE launched in:
 
-Options: A. June 2022  B. June 2019  C. 1730  D. 1962
+Options: A. June 2022 B. June 2019 C. 1730 D. 1962
 
 <details><summary>Show answer</summary>
 
@@ -282,7 +282,7 @@ Options: A. June 2022  B. June 2019  C. 1730  D. 1962
 
 **Q9.** Van Mahotsav month:
 
-Options: A. July  B. December  C. January only  D. March only
+Options: A. July B. December C. January only D. March only
 
 <details><summary>Show answer</summary>
 
@@ -292,7 +292,7 @@ Options: A. July  B. December  C. January only  D. March only
 
 **Q10.** Down To Earth is associated with:
 
-Options: A. CSE  B. FSI only  C. WTO  D. IMF
+Options: A. CSE B. FSI only C. WTO D. IMF
 
 <details><summary>Show answer</summary>
 
@@ -302,7 +302,7 @@ Options: A. CSE  B. FSI only  C. WTO  D. IMF
 
 **Q11.** Agenda 21 primarily relates to:
 
-Options: A. Sustainable Development  B. Only ozone hole  C. Only CITES  D. Only Ramsar listing
+Options: A. Sustainable Development B. Only ozone hole C. Only CITES D. Only Ramsar listing
 
 <details><summary>Show answer</summary>
 
@@ -312,7 +312,7 @@ Options: A. Sustainable Development  B. Only ozone hole  C. Only CITES  D. Only 
 
 **Q12.** Brundtland Report year:
 
-Options: A. 1987  B. 1962  C. 1972  D. 1977
+Options: A. 1987 B. 1962 C. 1972 D. 1977
 
 <details><summary>Show answer</summary>
 
@@ -322,7 +322,7 @@ Options: A. 1987  B. 1962  C. 1972  D. 1977
 
 **Q13.** Silent Spring year:
 
-Options: A. 1962  B. 1987  C. 1977  D. 2011
+Options: A. 1962 B. 1987 C. 1977 D. 2011
 
 <details><summary>Show answer</summary>
 
@@ -332,7 +332,7 @@ Options: A. 1962  B. 1987  C. 1977  D. 2011
 
 **Q14.** GSDP launched in:
 
-Options: A. 2017  B. 1962  C. 1730  D. 1485
+Options: A. 2017 B. 1962 C. 1730 D. 1485
 
 <details><summary>Show answer</summary>
 
@@ -342,7 +342,7 @@ Options: A. 2017  B. 1962  C. 1730  D. 1485
 
 **Q15.** Consider: (1) Brundtland popularised SD. (2) Brundtland = Limits to Growth.
 
-Options: A. Only 1  B. Only 2  C. Both  D. Neither
+Options: A. Only 1 B. Only 2 C. Both D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -352,7 +352,7 @@ Options: A. Only 1  B. Only 2  C. Both  D. Neither
 
 **Q16.** LiFE idea was floated at:
 
-Options: A. COP26 2021  B. COP-25 Madrid  C. Montreal 1987  D. Ramsar 1971
+Options: A. COP26 2021 B. COP-25 Madrid C. Montreal 1987 D. Ramsar 1971
 
 <details><summary>Show answer</summary>
 
@@ -362,7 +362,7 @@ Options: A. COP26 2021  B. COP-25 Madrid  C. Montreal 1987  D. Ramsar 1971
 
 **Q17.** World Environment Day:
 
-Options: A. 5 June  B. 2 February  C. 16 September  D. 22 March
+Options: A. 5 June B. 2 February C. 16 September D. 22 March
 
 <details><summary>Show answer</summary>
 
@@ -372,7 +372,7 @@ Options: A. 5 June  B. 2 February  C. 16 September  D. 22 March
 
 **Q18.** Earth Day:
 
-Options: A. 22 April  B. 5 June  C. 2 February  D. 16 September
+Options: A. 22 April B. 5 June C. 2 February D. 16 September
 
 <details><summary>Show answer</summary>
 
@@ -382,7 +382,7 @@ Options: A. 22 April  B. 5 June  C. 2 February  D. 16 September
 
 **Q19.** Hind Swaraj author:
 
-Options: A. Gandhi  B. Carson  C. Hardin  D. Club of Rome
+Options: A. Gandhi B. Carson C. Hardin D. Club of Rome
 
 <details><summary>Show answer</summary>
 
@@ -392,7 +392,7 @@ Options: A. Gandhi  B. Carson  C. Hardin  D. Club of Rome
 
 **Q20.** CEE (Paryavaran Mitra partner) is based in:
 
-Options: A. Ahmedabad  B. Only Dehradun FSI  C. Only Chennai NBA  D. Only Rome FAO
+Options: A. Ahmedabad B. Only Dehradun FSI C. Only Chennai NBA D. Only Rome FAO
 
 <details><summary>Show answer</summary>
 
@@ -402,7 +402,7 @@ Options: A. Ahmedabad  B. Only Dehradun FSI  C. Only Chennai NBA  D. Only Rome F
 
 **Q21.** IEC in schemes means:
 
-Options: A. Information, Education, Communication  B. Only Industrial Emission Control  C. Only International Energy Council  D. Only Indian Elephant Census
+Options: A. Information, Education, Communication B. Only Industrial Emission Control C. Only International Energy Council D. Only Indian Elephant Census
 
 <details><summary>Show answer</summary>
 
@@ -412,7 +412,7 @@ Options: A. Information, Education, Communication  B. Only Industrial Emission C
 
 **Q22.** Which is formal EE tool?
 
-Options: A. School ECO Club / curriculum  B. Only Van Mahotsav rally  C. Only newspaper ad  D. Only COP speech
+Options: A. School ECO Club / curriculum B. Only Van Mahotsav rally C. Only newspaper ad D. Only COP speech
 
 <details><summary>Show answer</summary>
 
@@ -422,7 +422,7 @@ Options: A. School ECO Club / curriculum  B. Only Van Mahotsav rally  C. Only ne
 
 **Q23.** Which is primarily an awareness campaign tool?
 
-Options: A. LiFE Mission / NEAC  B. Only ISFR mapping method  C. Only BEE PAT formula  D. Only Kyoto CDM CER unit
+Options: A. LiFE Mission / NEAC B. Only ISFR mapping method C. Only BEE PAT formula D. Only Kyoto CDM CER unit
 
 <details><summary>Show answer</summary>
 
@@ -432,7 +432,7 @@ Options: A. LiFE Mission / NEAC  B. Only ISFR mapping method  C. Only BEE PAT fo
 
 **Q24.** Population Bomb author:
 
-Options: A. Paul Ehrlich  B. Rachel Carson  C. Hardin only  D. Brundtland
+Options: A. Paul Ehrlich B. Rachel Carson C. Hardin only D. Brundtland
 
 <details><summary>Show answer</summary>
 
@@ -442,7 +442,7 @@ Options: A. Paul Ehrlich  B. Rachel Carson  C. Hardin only  D. Brundtland
 
 **Q25.** Land Ethic is associated with:
 
-Options: A. Aldo Leopold  B. Club of Rome  C. Hardin only  D. Carson pesticides only
+Options: A. Aldo Leopold B. Club of Rome C. Hardin only D. Carson pesticides only
 
 <details><summary>Show answer</summary>
 
@@ -452,7 +452,7 @@ Options: A. Aldo Leopold  B. Club of Rome  C. Hardin only  D. Carson pesticides 
 
 **Q26.** Sustainable Development discussion (1987 UN report) refers to:
 
-Options: A. Our Common Future  B. Silent Spring  C. Limits to Growth title alone  D. Hind Swaraj only
+Options: A. Our Common Future B. Silent Spring C. Limits to Growth title alone D. Hind Swaraj only
 
 <details><summary>Show answer</summary>
 
@@ -462,7 +462,7 @@ Options: A. Our Common Future  B. Silent Spring  C. Limits to Growth title alone
 
 **Q27.** Art 48A relates to:
 
-Options: A. State duty to protect environment  B. Only Fundamental Rights to speech  C. Only emergency provisions  D. Only Schedule 7 lists
+Options: A. State duty to protect environment B. Only Fundamental Rights to speech C. Only emergency provisions D. Only Schedule 7 lists
 
 <details><summary>Show answer</summary>
 
@@ -470,10 +470,10 @@ Options: A. State duty to protect environment  B. Only Fundamental Rights to spe
 
 </details>
 
-**Q28.** Assertion (A): Silent Spring triggered modern env movement.  
+**Q28.** Assertion (A): Silent Spring triggered modern env movement.
 Reason (R): It was written by Garrett Hardin in 1968.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -483,7 +483,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 **Q29.** Gobar Times is:
 
-Options: A. Children's env magazine (CSE)  B. Forest cover survey  C. Ozone protocol  D. Carbon market
+Options: A. Children's env magazine (CSE) B. Forest cover survey C. Ozone protocol D. Carbon market
 
 <details><summary>Show answer</summary>
 
@@ -493,7 +493,7 @@ Options: A. Children's env magazine (CSE)  B. Forest cover survey  C. Ozone prot
 
 **Q30.** Correct match:
 
-Options: A. Brundtland — Our Common Future  B. Carson — Limits to Growth  C. Hardin — Silent Spring  D. Club of Rome — Hind Swaraj
+Options: A. Brundtland — Our Common Future B. Carson — Limits to Growth C. Hardin — Silent Spring D. Club of Rome — Hind Swaraj
 
 <details><summary>Show answer</summary>
 
@@ -505,17 +505,7 @@ Options: A. Brundtland — Our Common Future  B. Carson — Limits to Growth  C.
 
 ## Complete PYQ Bank (Topic 30)
 
-**Q1. UPPCS 2024, Q51** — Brundtland popularised SD; ≠ Limits to Growth → **Ans: D**
-
-**Q2. UPPCS 2020, Q17** — Silent Spring = Rachel Carson → **Ans: C**
-
-**Q3. UPPCS 2020** — 1987 UN report = Our Common Future → **Ans: B**
-
-**Q4. UPPCS 2023, Q132** — Agenda 21 = Sustainable Development → **Ans: A**
-
-**Q5. UPPCS 2025, Q139** — LiFE June 2022; not COP-25 → **Ans: D**
-
-**Q6. UPSC pattern** — Tragedy of Commons = Garrett Hardin
+**Q1. UPPCS 2024, Q51** — Brundtland popularised SD; ≠ Limits to Growth → **Ans: DQ2. UPPCS 2020, Q17** — Silent Spring = Rachel Carson → **Ans: CQ3. UPPCS 2020** — 1987 UN report = Our Common Future → **Ans: BQ4. UPPCS 2023, Q132** — Agenda 21 = Sustainable Development → **Ans: AQ5. UPPCS 2025, Q139** — LiFE June 2022; not COP-25 → **Ans: DQ6. UPSC pattern** — Tragedy of Commons = Garrett Hardin
 
 **Q7. UPSC pattern** — Tbilisi 1977 = Environmental Education
 
@@ -529,7 +519,7 @@ Options: A. Brundtland — Our Common Future  B. Carson — Limits to Growth  C.
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Silent Spring = Hardin | **Carson 1962** |
 | Brundtland = Limits to Growth | **Our Common Future 1987** |
@@ -566,10 +556,10 @@ Options: A. Brundtland — Our Common Future  B. Carson — Limits to Growth  C.
 
 ### Topic boundaries
 
-- **LiFE full CA detail** — Topic 24  
-- **Environmental Days full list** — Topic 31  
-- **SD / Brundtland governance depth** — Topic 15  
-- **Chipko literary slogan context** — Topic 29  
+- **LiFE full CA detail** — Topic 24
+- **Environmental Days full list** — Topic 31
+- **SD / Brundtland governance depth** — Topic 15
+- **Chipko literary slogan context** — Topic 29
 
 ### PYQ audit
 

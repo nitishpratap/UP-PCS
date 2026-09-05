@@ -153,7 +153,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Framework: **mode → 
 
 ## Map and rapid chain
 
-**Q14.** Map the major ports and the four big road/rail corridor locks.
+**Q14.** Map the major ports and the four big road/rail corridor facts.
 
 <details>
 <summary>Show answer</summary>

@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 3</p>
 <h1 class="fact-lock-hero__title">Climatology</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9.5/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9.5/10</span>
 </div>
 </div>
 
@@ -33,7 +33,7 @@ hide:
 | Atmosphere's upper boundary | Gradually merges into outer space |
 
 !!! mnemonic "Golden sequence"
-    **N₂ → O₂ → Ar → CO₂**
+ **N₂ → O₂ → Ar → CO₂**
 
 ## 2. Atmospheric Composition
 
@@ -42,7 +42,7 @@ hide:
 **Variable gases:** Water vapour + Carbon dioxide + Ozone + aerosols
 
 !!! prelims "Water vapour"
-    **Highly variable** spatially and temporally — clouds, precipitation, greenhouse effect.
+ **Highly variable** spatially and temporally — clouds, precipitation, greenhouse effect.
 
 ## 3. ️ Layers of Atmosphere
 
@@ -51,7 +51,7 @@ From Earth's surface upward:
 > **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**
 
 !!! mnemonic "Layer order"
-    **T S M T E**
+ **T S M T E**
 
 ## 4. ️ Troposphere
 
@@ -125,7 +125,7 @@ Troposphere average: **6.5°C/km** (~1°C per 165 m). **Height ↑ → Temperatu
 Normally temperature falls with height; in **inversion** it **increases with altitude** in a layer → cold air trapped → fog, pollution, stable air.
 
 !!! trap "Inversion"
-    **Temperature inversion → pollution trapping**
+ **Temperature inversion → pollution trapping**
 
 ## 17. ️ Atmospheric Pressure
 
@@ -636,7 +636,7 @@ Sea-level rise from cyclone **winds + low pressure** — major coastal hazard
 
 ## 97. Cloud Types — Rapid Ratta
 
-| Cloud | Lock |
+| Cloud | Fact |
 | --- | --- |
 | Cirrus | High + wispy |
 | Cumulus | Puffy |
@@ -646,7 +646,7 @@ Sea-level rise from cyclone **winds + low pressure** — major coastal hazard
 
 ## 98. Wind Types — Rapid Ratta
 
-| Wind | Lock |
+| Wind | Fact |
 | --- | --- |
 | Trade | East → West |
 | Westerly | West → East |
@@ -674,7 +674,7 @@ Sea-level rise from cyclone **winds + low pressure** — major coastal hazard
 
 ## 100. Cyclone Rapid Ratta
 
-| Lock | Fact |
+| Fact | Fact |
 | --- | --- |
 | Cyclone | Low pressure |
 | Anticyclone | High pressure |
@@ -689,7 +689,7 @@ Sea-level rise from cyclone **winds + low pressure** — major coastal hazard
 
 ## 101. ENSO Rapid Ratta
 
-| Lock | Fact |
+| Fact | Fact |
 | --- | --- |
 | El Niño | Central/Eastern Pacific warm |
 | La Niña | Central/Eastern Pacific cool |
@@ -709,7 +709,7 @@ Sea-level rise from cyclone **winds + low pressure** — major coastal hazard
 
 ## 103. Indian Monsoon Rapid Ratta
 
-| Lock | Fact |
+| Fact | Fact |
 | --- | --- |
 | Summer | Land heats |
 | Land | Low pressure |

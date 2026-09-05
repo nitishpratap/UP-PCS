@@ -8,19 +8,19 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — guru–disciple matching (2025 Q12), saint chronology (2025 Q74), Chishti pairs (2020 Q40), Vedanta schools (2022 Q33), Fawaid-ul-Fuad (2021 Q101)  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — guru–disciple matching, saint chronology, Chishti pairs, Vedanta schools, Fawaid-ul-Fuad
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Southern Bhakti began with **Nayanars (Shiva)** and **Alvars (Vishnu)** in **7th–12th** century Tamil land, before the north Indian sant wave.
 2. The north chain runs roughly **Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas**.
 3. **Saguna** bhakti worships a formed deity such as Rama or Krishna; **Nirguna** worships the formless One (Kabir, Nanak).
-4. Guru–disciple locks: **Kabir** and **Ravidas** under **Ramananda**; **Surdas** under **Vallabhacharya**; **Amir Khusrau** under **Nizamuddin Auliya**; **Mardana** under **Guru Nanak**.
+4. Guru–disciple facts: **Kabir** and **Ravidas** under **Ramananda**; **Surdas** under **Vallabhacharya**; **Amir Khusrau** under **Nizamuddin Auliya**; **Mardana** under **Guru Nanak**.
 5. Saint chronology: **Namdev** (~1270–1350) → **Kabir** (15th c.) → **Nanak** (1469–1539) → **Chaitanya** (1486–1533).
 6. Later saints: **Surdas** (1478–1581) → **Tulsidas** (1532–1623) → **Dadu Dayal** (1544–1603).
 7. The **Chishti** line runs **Moinuddin → Qutbuddin Bakhtiyar Kaki → Baba Farid → Nizamuddin → Nasiruddin Chiragh**, stressing poverty, **sama**, and ziyarat.
@@ -33,7 +33,7 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 14. **Basavanna** led Lingayat / Virashaiva reform in Karnataka with **Ishtalinga**, Kayaka, and Anubhava Mantapa.
 15. The **Varkari** tradition centres on **Pandharpur / Vithoba** through **Jnaneshwar**, Namdev, and Tukaram.
 16. **Jayadeva** wrote **Gita Govinda** in Odisha; **Shankaradeva** led Assam Vaishnavism with **satra** and **kirtana-ghosha**.
-17. UP Kabir locks: birth–preaching at **Varanasi / Kashi** and death at **Maghar** (Sant Kabir Nagar).
+17. UP Kabir facts: birth–preaching at **Varanasi / Kashi** and death at **Maghar** (Sant Kabir Nagar).
 18. **Tulsidas** belongs to Awadhi **UP**; **Surdas** to the **Braj** belt (Mathura–Vrindavan); **Gorakhnath** to **Gorakhpur**.
 19. **Mirabai** is the Rajasthan Krishna devotee; **Andal** is the Tamil Alvar woman saint — do not swap them.
 20. **Baba Farid** was the Chishti saint of Ajodhan with verses in the **Adi Granth**; he is not Kabir.
@@ -48,7 +48,7 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -76,7 +76,7 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 - The idea has early roots in the **Shvetashvatara Upanishad** and **Bhagavad Gita** (Chapter **12** on **Bhakti Yoga**).
 - As a **mass movement**, Bhakti crystallised in **7th-century Tamil Nadu** and later spread north through saints and gurus.
 
-### Why did Bhakti grow? (exam context)
+### Why did Bhakti grow? (context)
 
 | Factor | How it mattered |
 |--------|-----------------|
@@ -86,13 +86,13 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 | **Sufi parallel** | Chishti **sama**, equality, and love-of-God ideas created a shared moral atmosphere with Bhakti. |
 | **Social protest** | Many sants challenged **jati barriers**, costly pilgrimage, and priestly control over salvation. |
 
-> **Exam lock:** Bhakti was **not** a movement against Islam. It was mainly **intra-Hindu** reform against empty ritualism, though it shared social space with Sufism.
+> **Key fact:** Bhakti was **not** a movement against Islam. It was mainly **intra-Hindu** reform against empty ritualism, though it shared social space with Sufism.
 
 ### Phase 1 — South India (7th–12th century)
 
 **Tamil land** | **Nayanars (Shiva)** + **Alvars (Vishnu)** | Temple-centred hymn tradition
 
-| Group | Deity | Number | Main text | Exam lock |
+| Group | Deity | Number | Main text | Key fact |
 |-------|-------|--------|-----------|-----------|
 | **Nayanars** | **Shiva** | **63** saints | **Tevaram** hymns | Shaiva Bhakti in Tamil Nadu |
 | **Alvars** | **Vishnu** | **12** saints | **Divya Prabandham** (~**4000** hymns) | Called the **"Tamil Veda"** |
@@ -109,7 +109,7 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 **Shankara → Ramanuja → Madhva** | Vedanta schools prepare ground for northward Bhakti
 
-| Thinker | School | One-line lock |
+| Thinker | School | One-line fact |
 |---------|--------|---------------|
 | **Shankara** | **Advaita** (non-dualism) | World is **maya**; Brahman alone is real — intellectual backdrop, not mass Bhakti saint. |
 | **Ramanuja** | **Vishishtadvaita** (qualified non-dualism) | God, soul, and world are related; **personal Vishnu bhakti** is the path. |
@@ -130,7 +130,7 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 - **Ramananda (14th–15th century)** settled in **Banaras** and preached **Rama bhakti** open to **all castes and women**.
 - He followed **Ramanuja's** broad Vishishtadvaita line but used **Hindi**, not Sanskrit, and reached artisans and peasants.
 - **Namdev (~1270–1350)** in Maharashtra was an early north Indian voice devoted to **Vithoba/Krishna** at **Pandharpur**.
-- The usual northward exam chronology runs: **Namdev → Kabir → Nanak → Chaitanya → Surdas → Tulsidas → Dadu Dayal**.
+- The usual northward chronology runs: **Namdev → Kabir → Nanak → Chaitanya → Surdas → Tulsidas → Dadu Dayal**.
 
 ### What Bhakti saints rejected and accepted
 
@@ -163,21 +163,21 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 ```
 Upanishads / Gita (idea)
-    ↓
+ ↓
 Tamil Nadu: 63 Nayanars + 12 Alvars (7th–12th c.)
-    ↓
+ ↓
 Basavanna / Lingayat (12th c. Karnataka) + Jayadeva / Gita Govinda
-    ↓
+ ↓
 Ramanuja (11th c.) — Vishishtadvaita bridge
-    ↓
+ ↓
 Jnaneshwar / Varkari (13th c. Maharashtra) → Namdev
-    ↓
+ ↓
 Ramananda (14th–15th c.) — Rama bhakti to all castes, Banaras
-    ↓
+ ↓
 North sants: Namdev → Kabir / Ravidas → Nanak → Chaitanya → Surdas → Tulsidas → Dadu
 ```
 
-> **Exam note:** Bhakti did **not** start with Kabir. The **Alvars and Nayanars** are the earliest mass phase, and the Tamil chapter precedes the Hindi heartland by **more than 400 years**. In **2025 Q74**, the lock order is **Namdev → Kabir → Nanak → Chaitanya** = **C (3-4-1-2)**.
+> ** note:** Bhakti did **not** start with Kabir. The **Alvars and Nayanars** are the earliest mass phase, and the Tamil chapter precedes the Hindi heartland by **more than 400 years**. In **2025 Q74**, the fact order is **Namdev → Kabir → Nanak → Chaitanya** = **C (3-4-1-2)**.
 
 ---
 
@@ -283,9 +283,7 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)**
-
-**A is true:** Ramananda preached **Rama bhakti** without caste barriers — *"Jat-pat puchhe nahi koi…"* is the famous line.
+**Ans: A (Both true, R explains A)A is true:** Ramananda preached **Rama bhakti** without caste barriers — *"Jat-pat puchhe nahi koi…"* is the famous line.
 
 **R is true:** The **Banaras–Delhi** belt had a shared **Bhakti–Sufi** egalitarian culture in his time.
 
@@ -299,7 +297,7 @@ D. A false, R true
 
 ## 4.6 Kabir
 
-**Period:** ~1398–1518 | **Place:** **Varanasi/Kashi** | **Guru:** **Ramananda** | **Occupation:** weaver (julaha)
+**Period:** ~1398–1518 | **Place:Varanasi/Kashi** | **Guru:Ramananda** | **Occupation:** weaver (julaha)
 
 - Kabir taught **one God** and used **Ram, Hari, Govind, Allah, and Sahib** interchangeably for the formless absolute (**nirguna**).
 - He **rejected** idol worship, caste, the thread ceremony (janeu), pilgrimage, mosque ritualism, Vedic authority, and Brahman supremacy.
@@ -313,13 +311,13 @@ D. A false, R true
 - **Sant Kabir Nagar** district in UP is named after him, making him highly UPPCS-relevant.
 - Kabir wrote in **Sadhukkadi**, a mixed Hindi dialect that Raheem called *"panchranga"* (five-coloured).
 
-> **Exam note:** Kabir and Guru Nanak were separate persons, and Kabir did not found Sikhism. Kabir belongs to the **15th century**, while Nanak's life begins in **1469**.
+> ** note:** Kabir and Guru Nanak were separate persons, and Kabir did not found Sikhism. Kabir belongs to the **15th century**, while Nanak's life begins in **1469**.
 
 ---
 
 ## 4.7 Guru Nanak
 
-**Dates:** **1469–1539** | **Birthplace:** Talwandi/**Nankana Sahib** (Ravi, Punjab) | **Family:** Khatri caste
+**Dates:1469–1539** | **Birthplace:** Talwandi/**Nankana Sahib** (Ravi, Punjab) | **Family:** Khatri caste
 
 - **Mardana** was Nanak's Muslim rabab player, lifelong disciple, and travel partner (in 2025 Q12, Mardana's guru is Nanak, code 1).
 - Nanak taught **Ik Onkar** (one God), equality of all humans, honest living, **nam simran** (remembrance), and **seva** (selfless service).
@@ -336,7 +334,7 @@ D. A false, R true
 
 ## 4.8 Chaitanya Mahaprabhu
 
-**Dates:** **1486–1533** | **Birth name:** Vishvambhar Mishra | **Place:** **Nabadwip**, Bengal | **Tradition:** **Gaudiya Vaishnavism**
+**Dates:1486–1533** | **Birth name:** Vishvambhar Mishra | **Place:Nabadwip**, Bengal | **Tradition:Gaudiya Vaishnavism**
 
 - Chaitanya was also called **Gauranga** (golden-complexioned) and **Mahaprabhu** (great master).
 - His guru was **Keshav Bharati**, from whom he received **sanyasa** initiation.
@@ -400,7 +398,7 @@ D. A false, R true
 
 ---
 
-## 4.11 Vedanta Philosophy (2022 Q33)
+## 4.11 Vedanta Philosophy
 
 | Philosopher | School | Key idea |
 |-------------|--------|----------|
@@ -437,7 +435,7 @@ D. A false, R true
 
 - NCERT groups **Nathpanthis**, **Jogis**, and **Siddhas** as north Indian ascetic communities that grew from craft and peasant backgrounds.
 - **Jogis** (yogis) often wandered with alms-bowls and practised breath-control; **Siddhas** claimed perfected yogic powers.
-- These groups overlapped with Nath identity but were not identical — exam papers may use **"Nathpanthis"** as the formal sect name.
+- These groups overlapped with Nath identity but were not identical — papers may use **"Nathpanthis"** as the formal sect name.
 - Their path stressed **body discipline**, not **saguna Krishna/Rama kirtan** — do not classify them as mainstream Bhakti poets.
 
 - In **2019 Q14**, both statements are true: Nathpanthis practised Hath Yog, and Sufis in the Nizamuddin circle adopted yogic breathing, giving answer **C (Both)**.
@@ -456,7 +454,7 @@ D. A false, R true
 - **Wahdat-ul-Wujud** (Ibn Arabi) teaches unity of existence, meaning God is everywhere.
 - **Wahdat-ul-Shuhud** (Ahmad Sirhindi) holds that God is separate from creation.
 - The **pir–murid** bond means the disciple owes loyalty and service, while the pir gives spiritual instruction and **wazifa** (meditation formula).
-- **Sama** is a musical devotional assembly and a **Chishti** hallmark (2018 Q90); it involves dhikr, qawwali, and ecstasy.
+- **Sama** is a musical devotional assembly and a **Chishti** hallmark; it involves dhikr, qawwali, and ecstasy.
 - **Ziyarat** means pilgrimage to a **dargah** (Sufi tomb) to seek the saint's **barakat** (spiritual grace).
 - **Al-Hujwiri** (Data Ganj Bakhsh) wrote **Kashf-ul-Mahjub** at **Lahore** — among the earliest major Sufi texts composed in the Indian subcontinent.
 - **Al-Ghazzali** (d. 1112) reconciled Sufism with orthodox Islam, and his **Ihya-ul-Ulum** legitimised mysticism.
@@ -467,7 +465,7 @@ D. A false, R true
 
 ## 4.14 Moinuddin Chishti & Chishti Order
 
-**Arrived India:** ~**1192** | **Settled:** **Ajmer** | **Died:** **1236** | **Title:** **Garib Nawaz** (benefactor of the poor)
+**Arrived India:** ~**1192** | **Settled:Ajmer** | **Died:1236** | **Title:Garib Nawaz** (benefactor of the poor)
 
 - **Chishti principles** include absolute poverty (**faqr**), no property, no state service, an open kitchen (**langar**), and service to the poor.
 - Moinuddin used **Hindawi/Hindi** for the masses, not Persian alone, which was key to his mass influence.
@@ -480,14 +478,14 @@ D. A false, R true
 ### Qutbuddin Bakhtiyar Kaki (Delhi)
 
 - **Bakhtiyar Kaki** was Moinuddin's chief disciple who established the Chishti presence in **Delhi** (~Mehrauli).
-- Tradition holds that Sultan **Iltutmish** dedicated the **Qutub Minar** to this saint — a lock linking Delhi Sultanate architecture to Chishti devotion.
+- Tradition holds that Sultan **Iltutmish** dedicated the **Qutub Minar** to this saint — a fact linking Delhi Sultanate architecture to Chishti devotion.
 - His dargah at **Mehrauli** remains a major pilgrimage site.
 
 ### Baba Farid (Ganj-i-Shakar)
 
 - **Fariduddin Masud** (~1173–1266) is called **Baba Farid** or **Ganj-i-Shakar** (treasury of sugar) for his sweet speech.
 - He worked at **Ajodhan** (later **Pakpattan**, now Pakistan) and popularised the Chishti order in **Punjab and Haryana**.
-- He composed in **Punjabi**; **134 of his verses** appear in the **Guru Granth Sahib** — a key Bhakti–Sufi syncretic lock.
+- He composed in **Punjabi**; **134 of his verses** appear in the **Guru Granth Sahib** — a key Bhakti–Sufi syncretic fact.
 - **Nizamuddin Auliya** was his most famous disciple.
 
 ### Hamiduddin Nagaur & the five great Chishti shrines
@@ -496,13 +494,13 @@ D. A false, R true
 - Medieval pilgrims revered **five great Chishti saints**: **Moinuddin** (Ajmer), **Bakhtiyar Kaki** (Delhi), **Baba Farid** (Ajodhan), **Hamiduddin** (Nagaur), and **Nizamuddin** (Delhi).
 - **Ziyarat** to these **dargahs** cut across Hindu–Muslim lines and symbolised **composite culture**.
 
-> **Exam note:** **Moinuddin** is linked to **Ajmer**, and **Nizamuddin** to **Delhi**, never Multan (2020 Q40 trap). Multan belongs to the **Suhrawardi** order.
+> ** note:Moinuddin** is linked to **Ajmer**, and **Nizamuddin** to **Delhi**, never Multan (2020 Q40 trap). Multan belongs to the **Suhrawardi** order.
 
 ---
 
 ## 4.15 Nizamuddin Auliya
 
-**Dates:** **1238–1325** | **Place:** **Delhi** (khanqah at Ghiyaspur/Nizamuddin Basti) | **Pupil of:** **Baba Farid**
+**Dates:1238–1325** | **Place:Delhi** (khanqah at Ghiyaspur/Nizamuddin Basti) | **Pupil of:Baba Farid**
 
 - Nizamuddin was called **Mehboob-e-Ilahi** (Beloved of God), saw the reign of **seven Delhi sultans**, and avoided the court.
 - He taught love, tolerance, and service, fed the hungry during famines, and welcomed Hindus and Muslims alike.
@@ -511,7 +509,7 @@ D. A false, R true
 - Khusrau is credited with developing **qawwali**, **khayal**, and **tarana**, and he wrote **Khaliq Bari**, a Hindi-Persian glossary.
 - Khusrau's major works include **Tughlaqnama**, **Khazain-ul-Futuh** (on Alauddin's victories), **Nuh Sipihr**, and **Qiran-us-Sadain**.
 - **Fawaid-ul-Fuad** records the malfuzat (conversations) of Nizamuddin and was compiled by **Amir Hasan Sijzi**, **not** Khusrau; 2021 Q101 answer is **A**.
-- Nizamuddin adopted **yogic breathing exercises** from the Nath tradition, and yogis called him **siddha** (2019 Q14).
+- Nizamuddin adopted **yogic breathing exercises** from the Nath tradition, and yogis called him **siddha**.
 - He had conflict with **Alauddin Khalji** and later with **Ghiyasuddin Tughlaq** but remained independent of the state.
 - In **2020 Q40**, Nizamuddin–Multan is **wrong**; Multan belongs to the **Suhrawardi** saint **Bahauddin Zakariya**.
 - In **2025 Q12**, Khusrau's guru is Nizamuddin, code **3**.
@@ -542,11 +540,11 @@ D. A false, R true
 
 ## 4.17 Regional Bhakti Traditions (NCERT / coaching map)
 
-Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Each block below is one exam-ready card.
+Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Each block below is one -ready card.
 
 ### Karnataka — Basavanna & Virashaiva/Lingayat movement
 
-**Period:** **12th century** | **Place:** **Basavakalyan** (Kalyani Chalukya / Kalachuri court) | **Patron context:** King **Bijjala II**
+**Period:12th century** | **Place:Basavakalyan** (Kalyani Chalukya / Kalachuri court) | **Patron context:** King **Bijjala II**
 
 - **Basavanna** (Basaveshwara) was minister, philosopher, and social reformer who led the **Virashaiva/Lingayat** movement in Karnataka.
 - Followers wear **Ishtalinga** (personal Shiva linga) on the body — direct devotion without Brahman priest mediation.
@@ -574,7 +572,7 @@ Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Ea
 
 - **Jayadeva** (~12th century) composed **Gita Govinda** in **Sanskrit** at **Puri** (Odisha court tradition).
 - The text celebrates **Radha–Krishna** love in **madhurya rasa** and deeply influenced later **Bengal Vaishnavism** and **Chaitanya's** Krishna cult.
-- **Gita Govinda** is **not** the Bhagavad Gita — a common exam swap trap.
+- **Gita Govinda** is **not** the Bhagavad Gita — a common swap trap.
 
 ### Assam — Shankaradeva
 
@@ -606,7 +604,7 @@ Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Ea
 - **Composite culture** does **not** mean all saints mixed doctrines — **Ahmad Sirhindi** and **Kabir** rejected syncretic ritual, while **Chishti hospices** practised open kitchens for all faiths.
 - **Akbar's sulh-i-kul** (universal peace) drew on this atmosphere but is **Mughal state policy**, not a Bhakti or Sufi sect teaching.
 
-### How historians study Bhakti–Sufi (sources lock)
+### How historians study Bhakti–Sufi (sources fact)
 
 | Source type | Examples | Use |
 |-------------|----------|-----|
@@ -636,9 +634,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** Statement 2 is true — **Alvars and Nayanars** (7th–12th c. Tamil Nadu) are the earliest Bhakti phase. Statement 1 is false — Bhakti did **not** start with Kabir in the Gangetic plain.
+**Ans: BWhy:** Statement 2 is true — **Alvars and Nayanars** (7th–12th c. Tamil Nadu) are the earliest Bhakti phase. Statement 1 is false — Bhakti did **not** start with Kabir in the Gangetic plain.
 
 **Trap:** Kabir is the most famous north Indian saint — papers test whether you know the **south Indian origins** came first.
 
@@ -665,20 +661,18 @@ D. 2 3 1 4
 
 <details><summary>Show answer</summary>
 
-**Ans: C (2-3-4-1)**
+**Ans: C (2-3-4-1)Facts:** A **Kabir** → **2** Ramananda | B **Amir Khusrau** → **3** Nizamuddin | C **Surdas** → **4** Vallabhacharya | D **Mardana** → **1** Guru Nanak
 
-**Locks:** A **Kabir** → **2** Ramananda | B **Amir Khusrau** → **3** Nizamuddin | C **Surdas** → **4** Vallabhacharya | D **Mardana** → **1** Guru Nanak
-
-**Trap:** **Mardana** was Nanak's **disciple**, not guru — UPPCS 2025 Q12 tests this reversal.
+**Trap:Mardana** was Nanak's **disciple**, not guru — UPPCS 2025 Q12 tests this reversal.
 
 </details>
 
 **Q3.** Arrange the following saints in correct chronological order:
 
-1. Guru Nanak  
-2. Chaitanya Mahaprabhu  
-3. Namdev  
-4. Kabir  
+1. Guru Nanak
+2. Chaitanya Mahaprabhu
+3. Namdev
+4. Kabir
 
 A. 3 4 1 2 |
 
@@ -690,11 +684,9 @@ D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
-**Ans: A (3-4-1-2)**
+**Ans: A (3-4-1-2)Order:Namdev** (~1270–1350) → **Kabir** (~15th c.) → **Guru Nanak** (1469–1539) → **Chaitanya** (1486–1533).
 
-**Order:** **Namdev** (~1270–1350) → **Kabir** (~15th c.) → **Guru Nanak** (1469–1539) → **Chaitanya** (1486–1533).
-
-**Trap:** **Nanak (1469)** precedes **Chaitanya (1486)** — UPPCS 2025 Q74 code **3-4-1-2**.
+**Trap:Nanak (1469)** precedes **Chaitanya (1486)** — UPPCS 2025 Q74 code **3-4-1-2**.
 
 </details>
 
@@ -710,9 +702,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)**
-
-**A is true:** Ramananda opened **Rama bhakti to all castes** (*"Jat-pat puchhe nahi koi…"*).
+**Ans: A (Both true, R explains A)A is true:** Ramananda opened **Rama bhakti to all castes** (*"Jat-pat puchhe nahi koi…"*).
 
 **R is true:** He worked in an **egalitarian Bhakti–Sufi** milieu (Banaras–Delhi belt).
 
@@ -734,9 +724,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** Both statements are true — **Kabir** (weaver) and **Ravidas** (cobbler/chamar) were disciples of **Ramananda**, chosen to show occupational diversity.
+**Ans: CWhy:** Both statements are true — **Kabir** (weaver) and **Ravidas** (cobbler/chamar) were disciples of **Ramananda**, chosen to show occupational diversity.
 
 **Trap:** Ravidas is sometimes tested separately from Kabir — both belong to Ramananda's **12 disciples** list.
 
@@ -754,9 +742,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** Statement 1 is true — **Kabir** was a **weaver (julaha)** from **Varanasi/Kashi**. Statement 2 is false — **Guru Nanak** founded the **Sikh line**, not Kabir.
+**Ans: AWhy:** Statement 1 is true — **Kabir** was a **weaver (julaha)** from **Varanasi/Kashi**. Statement 2 is false — **Guru Nanak** founded the **Sikh line**, not Kabir.
 
 **Trap:** Kabir's verses appear in the **Adi Granth** — that syncretic inclusion does **not** mean he founded Sikhism.
 
@@ -774,9 +760,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** Statement 1 is true — **Mardana** played the **rabab** as Nanak's lifelong companion. Statement 2 is false — Mardana was Nanak's **disciple**, not his guru.
+**Ans: AWhy:** Statement 1 is true — **Mardana** played the **rabab** as Nanak's lifelong companion. Statement 2 is false — Mardana was Nanak's **disciple**, not his guru.
 
 **Trap:** UPPCS 2025 Q12 pairs **Mardana → Nanak (code 1)** — never reverse the guru–disciple direction.
 
@@ -794,9 +778,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** Both statements are true — **Chaitanya** sparked **Gaudiya Vaishnavism** in Bengal and promoted **sankirtan** (congregational Krishna chanting).
+**Ans: CWhy:** Both statements are true — **Chaitanya** sparked **Gaudiya Vaishnavism** in Bengal and promoted **sankirtan** (congregational Krishna chanting).
 
 **Trap:** Chaitanya was a **saguna Krishna** devotee, not a **nirguna** saint like Kabir or Nanak.
 
@@ -814,9 +796,7 @@ D. Persian
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **Tulsidas** wrote **Ramcharitmanas** in **Awadhi** (~1574), making the Ramayana a household text in north India.
+**Ans: BWhy:Tulsidas** wrote **Ramcharitmanas** in **Awadhi** (~1574), making the Ramayana a household text in north India.
 
 **Trap:** Candidates pick **Sanskrit** because the source is the Ramayana — Tulsidas deliberately used **vernacular Awadhi**.
 
@@ -834,11 +814,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: AWhy:** Statement 1 is true — **Surdas** was a disciple of **Vallabhacharya** (Pushti Marg). Statement 2 is false — **Sursagar** was written by **Surdas**, not Tulsidas.
 
-**Why:** Statement 1 is true — **Surdas** was a disciple of **Vallabhacharya** (Pushti Marg). Statement 2 is false — **Sursagar** was written by **Surdas**, not Tulsidas.
-
-**Trap:** **Ramcharitmanas** = Tulsidas; **Sursagar** = Surdas — do not cross-assign the two Awadhi/Braj epics.
+**Trap:Ramcharitmanas** = Tulsidas; **Sursagar** = Surdas — do not cross-assign the two Awadhi/Braj epics.
 
 </details>
 
@@ -854,11 +832,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: AWhy:** Statement 1 is true — **Mirabai** was a **Krishna devotee from Mewar** (Rajasthan). Statement 2 is false — she composed in **Rajasthani/Hindi**, not Persian.
 
-**Why:** Statement 1 is true — **Mirabai** was a **Krishna devotee from Mewar** (Rajasthan). Statement 2 is false — she composed in **Rajasthani/Hindi**, not Persian.
-
-**Trap:** **Andal** was the Tamil **Alvar** woman saint — do not confuse with Mirabai's Rajasthani Krishna bhakti.
+**Trap:Andal** was the Tamil **Alvar** woman saint — do not confuse with Mirabai's Rajasthani Krishna bhakti.
 
 </details>
 
@@ -874,11 +850,9 @@ D. Mirabai — Padas
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
+**Ans: CWhy wrong:Gangabai — Ganesh Dev Leela** is **not** a standard matched pair. **Daya Bai — Vinay Malika** and **Sahajobai — Sahaj Prakash** are correct Charandasi pairs.
 
-**Why wrong:** **Gangabai — Ganesh Dev Leela** is **not** a standard matched pair. **Daya Bai — Vinay Malika** and **Sahajobai — Sahaj Prakash** are correct Charandasi pairs.
-
-**Trap:** **Mirabai — Padas** (D) is correct — UPPCS 2023 Q39 tests whether you mark the wrong **Gangabai** pair.
+**Trap:Mirabai — Padas** (D) is correct — UPPCS 2023 Q39 tests whether you mark the wrong **Gangabai** pair.
 
 </details>
 
@@ -903,11 +877,9 @@ D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
-**Ans: D (4-3-2-1)**
+**Ans: D (4-3-2-1)Facts:** A **Ramanuja** → **4** Vishishtadvaita | B **Madhvacharya** → **3** Dvaita | C **Nimbarka** → **2** Dvaitadvaita | D **Vallabhacharya** → **1** Shuddhadvaita
 
-**Locks:** A **Ramanuja** → **4** Vishishtadvaita | B **Madhvacharya** → **3** Dvaita | C **Nimbarka** → **2** Dvaitadvaita | D **Vallabhacharya** → **1** Shuddhadvaita
-
-**Trap:** **Vallabhacharya** = **Shuddhadvaita** (Surdas's guru) — Madhva holds **Dvaita**, not Vallabha.
+**Trap:Vallabhacharya** = **Shuddhadvaita** (Surdas's guru) — Madhva holds **Dvaita**, not Vallabha.
 
 </details>
 
@@ -923,11 +895,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
+**Ans: CWhy:Nathpanthis** practised **Hath Yoga**, and **Nizamuddin Auliya's** Chishti circle adopted **yogic breathing** — both statements are true.
 
-**Why:** **Nathpanthis** practised **Hath Yoga**, and **Nizamuddin Auliya's** Chishti circle adopted **yogic breathing** — both statements are true (UPPCS 2019 Q14).
-
-**Trap:** Not **all** Sufi orders adopted yoga — the lock is **some Chishti–Nath contact**, not universal Sufi practice.
+**Trap:** Not **all** Sufi orders adopted yoga — the fact is **some Chishti–Nath contact**, not universal Sufi practice.
 
 </details>
 
@@ -943,11 +913,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
+**Ans: CWhy:** Both statements are true — **Moinuddin Chishti** settled at **Ajmer (~1192)**, and **Nizamuddin Auliya** headed the **Delhi Chishti** khanqah.
 
-**Why:** Both statements are true — **Moinuddin Chishti** settled at **Ajmer (~1192)**, and **Nizamuddin Auliya** headed the **Delhi Chishti** khanqah.
-
-**Trap:** **Nizamuddin–Multan** is the classic wrong pair — Multan belongs to **Bahauddin Zakariya (Suhrawardi)**.
+**Trap:Nizamuddin–Multan** is the classic wrong pair — Multan belongs to **Bahauddin Zakariya (Suhrawardi)**.
 
 </details>
 
@@ -963,9 +931,7 @@ D. Bahauddin Zakariya — Multan
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why wrong:** **Nizamuddin Auliya** belonged to **Delhi** (Chishti), not **Multan**. **Bahauddin Zakariya** was the Suhrawardi saint of **Multan**.
+**Ans: CWhy wrong:Nizamuddin Auliya** belonged to **Delhi** (Chishti), not **Multan**. **Bahauddin Zakariya** was the Suhrawardi saint of **Multan**.
 
 **Trap:** UPPCS 2020 Q40 — **Moinuddin–Ajmer** and **Nizamuddin–Delhi** are both correct; only C swaps Delhi with Multan.
 
@@ -983,9 +949,7 @@ D. Abdul Qadir Jilani
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **Amir Hasan Sijzi** compiled **Fawaid-ul-Fuad**, recording **Nizamuddin Auliya's** conversations. **Amir Khusrau** was murid, not compiler.
+**Ans: AWhy:Amir Hasan Sijzi** compiled **Fawaid-ul-Fuad**, recording **Nizamuddin Auliya's** conversations. **Amir Khusrau** was murid, not compiler.
 
 **Trap:** UPPCS 2021 Q101 — Khusrau's fame makes **B** the most picked wrong answer.
 
@@ -1003,9 +967,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90**
-
-**A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
+**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
 
 **R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
 
@@ -1025,9 +987,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: C (A true, R false)**
-
-**A is true:** **Sama** was a **musical gathering** in Chishti devotion.
+**Ans: C (A true, R false)A is true:Sama** was a **musical gathering** in Chishti devotion.
 
 **R is false:** Chishtis used **Hindawi** as well as Persian, not Persian alone.
 
@@ -1049,11 +1009,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
+**Ans: CWhy:** Both statements are true — **Suhrawardis accepted state patronage** (Bahauddin Zakariya at Multan), while **Chishtis avoided sultan courts** and lived in poverty.
 
-**Why:** Both statements are true — **Suhrawardis accepted state patronage** (Bahauddin Zakariya at Multan), while **Chishtis avoided sultan courts** and lived in poverty.
-
-**Trap:** **Chishti sama** and open kitchens do **not** mean they accepted government office — the contrast with Suhrawardi is the exam lock.
+**Trap:Chishti sama** and open kitchens do **not** mean they accepted government office — the contrast with Suhrawardi is the key fact.
 
 </details>
 
@@ -1069,11 +1027,9 @@ D. Gorakhnath
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Ahmad Sirhindi (Mujaddid Alf-i-Sani)** led the **Naqshbandi** revival in India, opposing **wahdat-ul-wujud** and demanding strict Sharia.
 
-**Why:** **Ahmad Sirhindi (Mujaddid Alf-i-Sani)** led the **Naqshbandi** revival in India, opposing **wahdat-ul-wujud** and demanding strict Sharia.
-
-**Trap:** **Moinuddin** and **Baba Farid** were **Chishti** saints — Sirhindi belongs to the orthodox Naqshbandi line.
+**Trap:Moinuddin** and **Baba Farid** were **Chishti** saints — Sirhindi belongs to the orthodox Naqshbandi line.
 
 </details>
 
@@ -1089,9 +1045,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** Statement 1 is true — **Guru Nanak** was born in **1469** at Talwandi. Statement 2 is false — he supported **grihastha** (householder life), not ascetic escape.
+**Ans: AWhy:** Statement 1 is true — **Guru Nanak** was born in **1469** at Talwandi. Statement 2 is false — he supported **grihastha** (householder life), not ascetic escape.
 
 **Trap:** Nanak's three pillars include **Kirat karo** (honest work) — he rejected empty ritual, not family life.
 
@@ -1109,11 +1063,9 @@ D. Persian Sufi
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Namdev** (~1270–1350) was a Maharashtra saint devoted to **Vithoba/Krishna** at **Pandharpur**, composing in **Marathi**.
 
-**Why:** **Namdev** (~1270–1350) was a Maharashtra saint devoted to **Vithoba/Krishna** at **Pandharpur**, composing in **Marathi**.
-
-**Trap:** **Awadhi Rama bhakti** belongs to **Tulsidas**; **Bengali kirtan** to **Chaitanya** — Namdev is the earliest north-list Marathi lock.
+**Trap:Awadhi Rama bhakti** belongs to **Tulsidas**; **Bengali kirtan** to **Chaitanya** — Namdev is the earliest north-list Marathi fact.
 
 </details>
 
@@ -1129,11 +1081,9 @@ D. Advaita only
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: AWhy:Dadu Dayal** preached the **Nipakhi** (non-sectarian) path, rejecting Hindu–Muslim labels and caste barriers in Rajasthan.
 
-**Why:** **Dadu Dayal** preached the **Nipakhi** (non-sectarian) path, rejecting Hindu–Muslim labels and caste barriers in Rajasthan.
-
-**Trap:** **Gaudiya Vaishnavism** = Chaitanya; **Chishti silsilah** = Sufi — Dadu was a **nirguna** sant, not either.
+**Trap:Gaudiya Vaishnavism** = Chaitanya; **Chishti silsilah** = Sufi — Dadu was a **nirguna** sant, not either.
 
 </details>
 
@@ -1149,11 +1099,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: AWhy:** Statement 1 is true — **Kabir** taught **nirguna** (formless) monotheism. Statement 2 is false — **Surdas** was a **saguna Krishna** devotee of Braj.
 
-**Why:** Statement 1 is true — **Kabir** taught **nirguna** (formless) monotheism. Statement 2 is false — **Surdas** was a **saguna Krishna** devotee of Braj.
-
-**Trap:** **Saguna vs nirguna** is the headline Bhakti classification — Surdas/Tulsidas/Mirabai = saguna; Kabir/Nanak/Dadu = nirguna.
+**Trap:Saguna vs nirguna** is the headline Bhakti classification — Surdas/Tulsidas/Mirabai = saguna; Kabir/Nanak/Dadu = nirguna.
 
 </details>
 
@@ -1178,11 +1126,9 @@ D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
-**Ans: A (2-3-4-1)**
+**Ans: A (2-3-4-1)Facts:** A **Chaitanya** → **2** Bengal | B **Guru Nanak** → **3** Punjab | C **Kabir** → **4** Kashi | D **Mirabai** → **1** Mewar
 
-**Locks:** A **Chaitanya** → **2** Bengal | B **Guru Nanak** → **3** Punjab | C **Kabir** → **4** Kashi | D **Mirabai** → **1** Mewar
-
-**Trap:** **Kabir–Kashi/Varanasi** and **Nanak–Punjab** are core UP-relevant geography locks — do not swap Kashi with Bengal.
+**Trap:Kabir–Kashi/Varanasi** and **Nanak–Punjab** are core UP-relevant geography facts — do not swap Kashi with Bengal.
 
 </details>
 
@@ -1198,9 +1144,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** Statement 1 is true — **Shankaracharya** taught **Advaita** (non-dual Brahman). Statement 2 is false — **Vallabhacharya** taught **Shuddhadvaita**; **Madhvacharya** taught **Dvaita**.
+**Ans: AWhy:** Statement 1 is true — **Shankaracharya** taught **Advaita** (non-dual Brahman). Statement 2 is false — **Vallabhacharya** taught **Shuddhadvaita**; **Madhvacharya** taught **Dvaita**.
 
 **Trap:** UPPCS 2022 Q33 tests **Vallabha–Shuddhadvaita** — never assign him Dvaita.
 
@@ -1218,11 +1162,9 @@ D. Disciple of Tulsidas
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Andal** is the **only woman Alvar** (~8th c. Tamil Nadu), composing **Tiruppavai** and bridal mysticism to Vishnu.
 
-**Why:** **Andal** is the **only woman Alvar** (~8th c. Tamil Nadu), composing **Tiruppavai** and bridal mysticism to Vishnu.
-
-**Trap:** **Mirabai** was a later **Rajasthani Krishna** devotee — Andal belongs to the early **south Indian Alvar** phase.
+**Trap:Mirabai** was a later **Rajasthani Krishna** devotee — Andal belongs to the early **south Indian Alvar** phase.
 
 </details>
 
@@ -1238,11 +1180,9 @@ D. Ramananda
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: AWhy:** The **Qadiri order** traces to **Abdul Qadir Jilani** (Baghdad tradition), with Indian saints like **Mian Mir** and **Shah Nimatullah**.
 
-**Why:** The **Qadiri order** traces to **Abdul Qadir Jilani** (Baghdad tradition), with Indian saints like **Mian Mir** and **Shah Nimatullah**.
-
-**Trap:** **Moinuddin Chishti** founded the **Chishti** silsilah — Qadiri is a separate pan-Islamic order.
+**Trap:Moinuddin Chishti** founded the **Chishti** silsilah — Qadiri is a separate pan-Islamic order.
 
 </details>
 
@@ -1258,11 +1198,9 @@ D. Nankana Sahib
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Kabir's Varanasi/Kashi** is inside modern **Uttar Pradesh** (Sant Kabir Nagar district). Ajmer, Nabadwip, and Nankana Sahib lie outside UP.
 
-**Why:** **Kabir's Varanasi/Kashi** is inside modern **Uttar Pradesh** (Sant Kabir Nagar district). Ajmer, Nabadwip, and Nankana Sahib lie outside UP.
-
-**Trap:** **Surdas–Braj** (Mathura-Vrindavan) is also UP — but among these four options, **Kabir–Varanasi** is the clearest UP lock.
+**Trap:Surdas–Braj** (Mathura-Vrindavan) is also UP — but among these four options, **Kabir–Varanasi** is the clearest UP fact.
 
 </details>
 
@@ -1278,9 +1216,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)**
-
-**A is true:** Kabir used **Ram, Hari, Allah, and Sahib** interchangeably for the **one formless God**.
+**Ans: A (Both true, R explains A)A is true:** Kabir used **Ram, Hari, Allah, and Sahib** interchangeably for the **one formless God**.
 
 **R is true:** He followed **nirguna monotheism** — rejecting idol worship and caste ritual.
 
@@ -1302,11 +1238,9 @@ D. Ramananda
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
+**Ans: CWhy:Tulsidas (1532–1623)** is the **latest** — after Namdev, Ramananda, Kabir, Nanak, and Chaitanya. His **Ramcharitmanas** dates to ~**1574**.
 
-**Why:** **Tulsidas (1532–1623)** is the **latest** — after Namdev, Ramananda, Kabir, Nanak, and Chaitanya. His **Ramcharitmanas** dates to ~**1574**.
-
-**Trap:** **Kabir** (~15th c.) and **Namdev** (~1270–1350) are much earlier — never place Tulsidas before Kabir in chronology lists.
+**Trap:Kabir** (~15th c.) and **Namdev** (~1270–1350) are much earlier — never place Tulsidas before Kabir in chronology lists.
 
 </details>
 
@@ -1322,11 +1256,9 @@ D. Sursagar
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Baba Farid's** verses appear in the **Adi Granth (Guru Granth Sahib)** alongside Kabir, Namdev, and Ravidas — a syncretic canon.
 
-**Why:** **Baba Farid's** verses appear in the **Adi Granth (Guru Granth Sahib)** alongside Kabir, Namdev, and Ravidas — a syncretic canon.
-
-**Trap:** **Fawaid-ul-Fuad** records **Nizamuddin's** conversations (compiled by Sijzi), not Farid's hymns.
+**Trap:Fawaid-ul-Fuad** records **Nizamuddin's** conversations (compiled by Sijzi), not Farid's hymns.
 
 </details>
 
@@ -1342,9 +1274,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** Both statements are true — **Chishtis** lived in **poverty** and avoided sultan courts; **Suhrawardis** (e.g. Bahauddin Zakariya at Multan) **accepted state patronage**.
+**Ans: CWhy:** Both statements are true — **Chishtis** lived in **poverty** and avoided sultan courts; **Suhrawardis** (e.g. Bahauddin Zakariya at Multan) **accepted state patronage**.
 
 **Trap:** Chishti **langar** and **sama** do not mean they held government posts — the contrast is **poverty vs patronage**.
 
@@ -1362,11 +1292,9 @@ D. Shankara
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: AWhy:Sankirtan** (congregational chanting with mridanga/kartals) was **Chaitanya Mahaprabhu's** method of democratising Krishna devotion in Bengal.
 
-**Why:** **Sankirtan** (congregational chanting with mridanga/kartals) was **Chaitanya Mahaprabhu's** method of democratising Krishna devotion in Bengal.
-
-**Trap:** **Chishti sama** is Sufi musical assembly — different tradition from Gaudiya **sankirtan**.
+**Trap:Chishti sama** is Sufi musical assembly — different tradition from Gaudiya **sankirtan**.
 
 </details>
 
@@ -1382,9 +1310,7 @@ D. Kabir–Nizamuddin
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why wrong:** **Kabir's guru was Ramananda**, not Nizamuddin. **Khusrau–Nizamuddin** is the correct Sufi pair.
+**Ans: DWhy wrong:Kabir's guru was Ramananda**, not Nizamuddin. **Khusrau–Nizamuddin** is the correct Sufi pair.
 
 **Trap:** Kabir lived in the **Banaras Sufi–bhakti milieu** but his formal guru was **Ramananda** — UPPCS 2025 Q12 tests Bhakti vs Sufi guru lines separately.
 
@@ -1402,11 +1328,9 @@ D. Tulsidas
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: AWhy:Sant Kabir Nagar** district in **eastern UP** is named after **Kabir**, who died at **Maghar** on the UP border.
 
-**Why:** **Sant Kabir Nagar** district in **eastern UP** is named after **Kabir**, who died at **Maghar** on the UP border.
-
-**Trap:** **Ravidas** has separate Dalit-icon status in **Varanasi** — the district name lock is specifically **Kabir**.
+**Trap:Ravidas** has separate Dalit-icon status in **Varanasi** — the district name fact is specifically **Kabir**.
 
 </details>
 
@@ -1422,11 +1346,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
+**Ans: CWhy:** Both statements are true — **Mirabai** was a **Mewar Rajput princess** married to Bhoj Raj; **Sahajobai** (18th c. Charandasi) wrote **Sahaj Prakash**.
 
-**Why:** Both statements are true — **Mirabai** was a **Mewar Rajput princess** married to Bhoj Raj; **Sahajobai** (18th c. Charandasi) wrote **Sahaj Prakash**.
-
-**Trap:** **Daya Bai** wrote **Vinay Malika** — do not swap the two Charandasi women poets' works.
+**Trap:Daya Bai** wrote **Vinay Malika** — do not swap the two Charandasi women poets' works.
 
 </details>
 
@@ -1442,9 +1364,7 @@ D. Gaudiya Vaishnavism
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **Gorakhnath** systematised the **Nathpanthi** (Kanphata Yogi) tradition; **Gorakhpur (UP)** is strongly linked to his cult.
+**Ans: BWhy:Gorakhnath** systematised the **Nathpanthi** (Kanphata Yogi) tradition; **Gorakhpur (UP)** is strongly linked to his cult.
 
 **Trap:** Gorakhnath influenced **Kabir** and **Sufi breathing practices** but was **not** a Chishti pir or Gaudiya Vaishnava saint.
 
@@ -1462,9 +1382,7 @@ D. Disciple of Ramananda
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **Tulsidas** composed **Ramcharitmanas in Awadhi** (~1574) — a doha-chaupai retelling of the Ramayana for the masses.
+**Ans: CWhy:Tulsidas** composed **Ramcharitmanas in Awadhi** (~1574) — a doha-chaupai retelling of the Ramayana for the masses.
 
 **Trap:** He wrote in **Awadhi**, not **Sanskrit** (A). **Krishna childhood** (B) belongs to **Surdas's Sursagar**, not Tulsidas.
 
@@ -1482,11 +1400,9 @@ D. Formless Brahman only
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:** The **12 Alvars** were **Vaishnava** devotees of Vishnu who composed the **Divya Prabandham** in Tamil (7th–12th c.).
 
-**Why:** The **12 Alvars** were **Vaishnava** devotees of Vishnu who composed the **Divya Prabandham** in Tamil (7th–12th c.).
-
-**Trap:** **Nayanars** were **Shaiva** devotees — Alvar vs Nayanar is the classic south Indian Bhakti confused pair.
+**Trap:Nayanars** were **Shaiva** devotees — Alvar vs Nayanar is the classic south Indian Bhakti confused pair.
 
 </details>
 
@@ -1502,9 +1418,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** Statement 1 is true — **Chishti** saints used **Hindawi/Hindi** for the masses, not Persian alone. Statement 2 is false — they **avoided** sultan court employment.
+**Ans: AWhy:** Statement 1 is true — **Chishti** saints used **Hindawi/Hindi** for the masses, not Persian alone. Statement 2 is false — they **avoided** sultan court employment.
 
 **Trap:** Chishti **langar** and **sama** served the poor — that is **not** the same as holding government office.
 
@@ -1522,11 +1436,9 @@ D. Charvaka
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Ramanuja (11th–12th c.)** taught **Vishishtadvaita** (qualified non-dualism) at **Srirangam**, with major works **Sri Bhashya** and **Gita Bhashya**.
 
-**Why:** **Ramanuja (11th–12th c.)** taught **Vishishtadvaita** (qualified non-dualism) at **Srirangam**, with major works **Sri Bhashya** and **Gita Bhashya**.
-
-**Trap:** **Ramananda** (15th c. north) popularised Ramanuja-related ideas — do not swap **Ramanuja** with **Ramananda**.
+**Trap:Ramananda** (15th c. north) popularised Ramanuja-related ideas — do not swap **Ramanuja** with **Ramananda**.
 
 </details>
 
@@ -1550,11 +1462,9 @@ D. 2 3 1
 
 <details><summary>Show answer</summary>
 
-**Ans: A (2-1-3)**
+**Ans: A (2-1-3)Facts:** A **Chishti** → **2** Poverty/sama | B **Naqshbandi** → **1** Orthodox Sirhindi | C **Suhrawardi** → **3** State patronage
 
-**Locks:** A **Chishti** → **2** Poverty/sama | B **Naqshbandi** → **1** Orthodox Sirhindi | C **Suhrawardi** → **3** State patronage
-
-**Trap:** **Chishti vs Suhrawardi** = poverty vs patronage is the headline Sufi order contrast in UPPCS stems.
+**Trap:Chishti vs Suhrawardi** = poverty vs patronage is the headline Sufi order contrast in UPPCS stems.
 
 </details>
 
@@ -1570,11 +1480,9 @@ D. Nimbarka–Shuddhadvaita
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Madhvacharya** taught **Dvaita** (dualism — God and soul are distinct). This is the only correctly matched pair.
 
-**Why:** **Madhvacharya** taught **Dvaita** (dualism — God and soul are distinct). This is the only correctly matched pair.
-
-**Trap:** **Shankara** = Advaita (A wrong); **Vallabha** = Shuddhadvaita (C wrong); **Nimbarka** = Dvaitadvaita (D wrong).
+**Trap:Shankara** = Advaita (A wrong); **Vallabha** = Shuddhadvaita (C wrong); **Nimbarka** = Dvaitadvaita (D wrong).
 
 </details>
 
@@ -1590,11 +1498,9 @@ D. Writing Jnaneshwari commentary on the Bhagavad Gita
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Basavanna** (12th c. Karnataka) founded **Anubhava Mantapa**, preached **Kayaka** (work as worship) and **Dasoha** (sharing wealth), and led the **Virashaiva/Lingayat** movement with **Ishtalinga** devotion.
 
-**Why:** **Basavanna** (12th c. Karnataka) founded **Anubhava Mantapa**, preached **Kayaka** (work as worship) and **Dasoha** (sharing wealth), and led the **Virashaiva/Lingayat** movement with **Ishtalinga** devotion.
-
-**Trap:** **Jayadeva** wrote **Gita Govinda** (A); **Jnaneshwar** wrote **Jnaneshwari** (D); **Namdev/Tukaram** belong to the **Varkari** line (C).
+**Trap:Jayadeva** wrote **Gita Govinda** (A); **Jnaneshwar** wrote **Jnaneshwari** (D); **Namdev/Tukaram** belong to the **Varkari** line (C).
 
 </details>
 
@@ -1613,9 +1519,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** Both statements are true — **Jnaneshwari** is the Marathi **Bhagavad Gita** commentary in **ovi** metre, and **Varkari** pilgrims walk to **Pandharpur** for **Vithoba/Viththal** (Krishna).
+**Ans: CWhy:** Both statements are true — **Jnaneshwari** is the Marathi **Bhagavad Gita** commentary in **ovi** metre, and **Varkari** pilgrims walk to **Pandharpur** for **Vithoba/Viththal** (Krishna).
 
 **Trap:** Do not confuse **Jnaneshwari** (Gita commentary) with **Gita Govinda** (Jayadeva's Radha–Krishna poem).
 
@@ -1633,11 +1537,9 @@ D. The disciple of Ahmad Sirhindi in the Naqshbandi order
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
+**Ans: BWhy:Baba Farid** (Ganj-i-Shakar) headed the Chishti line at **Ajodhan/Pakpattan**; **134 of his Punjabi verses** are in the **Guru Granth Sahib**.
 
-**Why:** **Baba Farid** (Ganj-i-Shakar) headed the Chishti line at **Ajodhan/Pakpattan**; **134 of his Punjabi verses** are in the **Guru Granth Sahib**.
-
-**Trap:** **Fawaid-ul-Fuad** was compiled by **Amir Hasan Sijzi** about **Nizamuddin** (C); **Multan** belongs to **Bahauddin Zakariya** (Suhrawardi), not Farid (A).
+**Trap:Fawaid-ul-Fuad** was compiled by **Amir Hasan Sijzi** about **Nizamuddin** (C); **Multan** belongs to **Bahauddin Zakariya** (Suhrawardi), not Farid (A).
 
 </details>
 
@@ -1660,9 +1562,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90**
-
-**A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
+**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
 
 **R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
 
@@ -1687,11 +1587,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
+**Ans: CWhy:** Statement 1 is true — **Nathpanthis** practised **Hath Yoga** (asana, pranayama). Statement 2 is true — **Nizamuddin Auliya** adopted **yogic breathing** from the Nath tradition.
 
-**Why:** Statement 1 is true — **Nathpanthis** practised **Hath Yoga** (asana, pranayama). Statement 2 is true — **Nizamuddin Auliya** adopted **yogic breathing** from the Nath tradition.
-
-**Trap:** Sufi adoption does **not** mean all Sufi orders practised yoga — the lock is **some Chishti circles**, not universal Sufism.
+**Trap:** Sufi adoption does **not** mean all Sufi orders practised yoga — the fact is **some Chishti circles**, not universal Sufism.
 
 </details>
 
@@ -1710,11 +1608,9 @@ D. Nizamuddin Auliya — Multan
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
+**Ans: DWhy wrong:Nizamuddin Auliya** belonged to **Delhi** (Chishti silsilah), not **Multan**. **Bahauddin Zakariya** was the Suhrawardi saint of **Multan**.
 
-**Why wrong:** **Nizamuddin Auliya** belonged to **Delhi** (Chishti silsilah), not **Multan**. **Bahauddin Zakariya** was the Suhrawardi saint of **Multan**.
-
-**Trap:** **Moinuddin–Ajmer** and **Nizamuddin–Delhi** are both correct Chishti pairs — only D swaps Delhi with Multan.
+**Trap:Moinuddin–Ajmer** and **Nizamuddin–Delhi** are both correct Chishti pairs — only D swaps Delhi with Multan.
 
 </details>
 
@@ -1725,11 +1621,9 @@ Fawaid ul Fawad compiled by: A. Amir Hassan Sizzi | B. Amir Khusro | C. Ziauddin
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: AWhy:Amir Hasan Sijzi** compiled **Fawaid-ul-Fuad**, recording **Nizamuddin Auliya's** conversations. **Amir Khusrau** was Nizamuddin's chief **murid**, not the compiler.
 
-**Why:** **Amir Hasan Sijzi** compiled **Fawaid-ul-Fuad**, recording **Nizamuddin Auliya's** conversations. **Amir Khusrau** was Nizamuddin's chief **murid**, not the compiler.
-
-**Trap:** Khusrau's literary fame makes candidates pick B — lock **Sijzi** for Fawaid-ul-Fuad.
+**Trap:** Khusrau's literary fame makes candidates pick B — fact **Sijzi** for Fawaid-ul-Fuad.
 
 </details>
 
@@ -1757,11 +1651,9 @@ D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
-**Ans: D (4-3-2-1)**
+**Ans: D (4-3-2-1)Facts:** A **Ramanuja** → **4** Vishishtadvaita | B **Madhvacharya** → **3** Dvaita | C **Nimbarka** → **2** Dvaitadvaita | D **Vallabhacharya** → **1** Shuddhadvaita
 
-**Locks:** A **Ramanuja** → **4** Vishishtadvaita | B **Madhvacharya** → **3** Dvaita | C **Nimbarka** → **2** Dvaitadvaita | D **Vallabhacharya** → **1** Shuddhadvaita
-
-**Trap:** **Vallabhacharya** = **Shuddhadvaita** (pushti marg, Surdas's guru) — do not assign him **Dvaita** (Madhva's school).
+**Trap:Vallabhacharya** = **Shuddhadvaita** (pushti marg, Surdas's guru) — do not assign him **Dvaita** (Madhva's school).
 
 </details>
 
@@ -1780,11 +1672,9 @@ D. Mirabai — Padas
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
+**Ans: CWhy wrong:Gangabai — Ganesh Dev Leela** is **not** a standard matched pair. **Daya Bai** wrote **Vinay Malika**; **Sahajobai** wrote **Sahaj Prakash** (both Charandasi, 18th c.).
 
-**Why wrong:** **Gangabai — Ganesh Dev Leela** is **not** a standard matched pair. **Daya Bai** wrote **Vinay Malika**; **Sahajobai** wrote **Sahaj Prakash** (both Charandasi, 18th c.).
-
-**Trap:** **Mirabai–Padas** (D) is correct — do not mark D wrong when hunting the NOT-matched option.
+**Trap:Mirabai–Padas** (D) is correct — do not mark D wrong when hunting the NOT-matched option.
 
 </details>
 
@@ -1812,11 +1702,9 @@ D. 2 3 1 4
 
 <details><summary>Show answer</summary>
 
-**Ans: C (2-3-4-1)**
+**Ans: C (2-3-4-1)Facts:** A **Kabir** → **2** Ramananda | B **Amir Khusrau** → **3** Nizamuddin | C **Surdas** → **4** Vallabhacharya | D **Mardana** → **1** Guru Nanak
 
-**Locks:** A **Kabir** → **2** Ramananda | B **Amir Khusrau** → **3** Nizamuddin | C **Surdas** → **4** Vallabhacharya | D **Mardana** → **1** Guru Nanak
-
-**Trap:** **Mardana** was Nanak's **disciple**, not guru — reversing D to 4 is the common wrong code. **Surdas–Vallabhacharya**, not Ramananda.
+**Trap:Mardana** was Nanak's **disciple**, not guru — reversing D to 4 is the common wrong code. **Surdas–Vallabhacharya**, not Ramananda.
 
 </details>
 
@@ -1825,10 +1713,10 @@ D. 2 3 1 4
 
 Arrange the following saints in correct chronological order and select the correct answer from the code given below:
 
-1. Guru Nanak  
-2. Chaitanya Mahaprabhu  
-3. Namdev  
-4. Kabir  
+1. Guru Nanak
+2. Chaitanya Mahaprabhu
+3. Namdev
+4. Kabir
 
 A. 4 3 1 2 |
 
@@ -1840,11 +1728,9 @@ D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
-**Ans: C (3-4-1-2)**
+**Ans: C (3-4-1-2)Order:3 Namdev** (~1270–1350) → **4 Kabir** (~15th c.) → **1 Guru Nanak** (1469–1539) → **2 Chaitanya** (1486–1533).
 
-**Order:** **3 Namdev** (~1270–1350) → **4 Kabir** (~15th c.) → **1 Guru Nanak** (1469–1539) → **2 Chaitanya** (1486–1533).
-
-**Trap:** **Nanak (1469)** was born **before Chaitanya (1486)** — never place Chaitanya before Nanak. **Tulsidas** (16th–17th c.) is always **after** all four.
+**Trap:Nanak (1469)** was born **before Chaitanya (1486)** — never place Chaitanya before Nanak. **Tulsidas** (16th–17th c.) is always **after** all four.
 
 </details>
 
@@ -1854,17 +1740,17 @@ D. 4 3 2 1
 
 1. Bhakti did **not** start with Kabir; the **Alvars and Nayanars** of south India in the **7th century** are the earliest phase.
 2. **Kabir and Guru Nanak** were separate persons, and Kabir did not found Sikhism.
-3. **Mardana** was Nanak's disciple, not his guru, so do not reverse the pair (2025 Q12).
-4. **Surdas** was a disciple of **Vallabhacharya**, not Ramananda (2025 Q12).
+3. **Mardana** was Nanak's disciple, not his guru, so do not reverse the pair.
+4. **Surdas** was a disciple of **Vallabhacharya**, not Ramananda.
 5. **Tughlaqnama** is not by Ibn Battuta; that is a wrong topic bleed from another question.
-6. **Nizamuddin** belongs to **Delhi**, never Multan (2020 Q40).
-7. **Fawaid-ul-Fuad** was compiled by **Amir Hasan Sijzi**, not Amir Khusrau (2021 Q101).
+6. **Nizamuddin** belongs to **Delhi**, never Multan.
+7. **Fawaid-ul-Fuad** was compiled by **Amir Hasan Sijzi**, not Amir Khusrau.
 8. **Ramcharitmanas** was written in **Awadhi**, not Sanskrit.
 9. **Vallabhacharya** taught **Shuddhadvaita**, not Dvaita (Madhva taught Dvaita).
-10. **Namdev** always comes before **Kabir** in chronology (2025 Q74).
+10. **Namdev** always comes before **Kabir** in chronology.
 11. **Chaitanya** was a **saguna Krishna** devotee, not a nirguna saint.
 12. **Chishti** saints rejected state wealth, while **Suhrawardi** saints accepted patronage.
-13. **Gangabai — Ganesh Dev Leela** is the wrong poetess–composition pair (2023 Q39).
+13. **Gangabai — Ganesh Dev Leela** is the wrong poetess–composition pair.
 14. **Tulsidas** (16th century) came **after** Kabir and Nanak, so do not place him earlier.
 15. **Gorakhnath** belonged to the **Nathpanthi** tradition, not the Chishti order or mainstream Bhakti sants.
 16. **Gita Govinda** (Jayadeva) is **not** the **Bhagavad Gita** — do not swap Radha–Krishna poetry with Krishna's battlefield sermon.

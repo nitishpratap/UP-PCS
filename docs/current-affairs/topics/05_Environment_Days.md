@@ -1,6 +1,6 @@
 # Environment / Disasters / Days
 
-> **Priority A** | About **8%** of Current Affairs  
+> **Priority A** | About **8%** of Current Affairs
 > Common stems: Ramsar sites, environment rules, important days, and disaster awards.
 
 ## What to note every time
@@ -19,12 +19,12 @@
 
 ### New Ramsar sites in the news | late January 2026
 
-**What happened**  
+**What happened**
 Just before World Wetlands Day, India publicly celebrated new wetlands of international importance under the **Ramsar Convention**.
 
 **Two sites highlighted together in the public announcement**
 
-1. **Patna Bird Sanctuary** — **Etah** district, **Uttar Pradesh** (Jalesar area).  
+1. **Patna Bird Sanctuary** — **Etah** district, **Uttar Pradesh** (Jalesar area).
 2. **Chhari-Dhand** — **Kutch**, **Gujarat**.
 
 **About Patna Bird Sanctuary**
@@ -46,17 +46,17 @@ Just before World Wetlands Day, India publicly celebrated new wetlands of intern
 
 ### Solid Waste Management Rules, 2026 | notified 28 January 2026
 
-**What happened**  
+**What happened**
 The Environment Ministry notified new **Solid Waste Management (SWM) Rules, 2026**. They replace the older **2016** Rules.
 
-**Core locks**
+**Core facts**
 
 - Notification date: **28 January 2026**.
 - Full effect from: **1 April 2026**.
 - Old rules replaced: **SWM Rules, 2016**.
 
 !!! trap "Easy wrong options"
-    Mixing the notification date with the start date. Saying these rules replace plastic rules of another year.
+ Mixing the notification date with the start date. Saying these rules replace plastic rules of another year.
 
 ### Disaster award (cross link)
 
@@ -68,7 +68,7 @@ The Subhash Chandra Bose Aapda Prabandhan Puraskar 2026 is explained under [Awar
 
 ### World Wetlands Day | 2 February 2026
 
-**What happened**  
+**What happened**
 Every year, **2 February** is World Wetlands Day. It marks the day the Ramsar Convention was adopted in **1971** at Ramsar in Iran.
 
 **2026 theme**
@@ -93,7 +93,7 @@ Uttar Pradesh reported a rise in the **sarus crane** count. Full card → [UP Sp
 
 ### World Water Day | 22 March 2026
 
-**What happened**  
+**What happened**
 Every year, **22 March** is **World Water Day**. It focuses on fresh water and why safe water matters for life and development.
 
 **2026 theme**
@@ -104,7 +104,7 @@ Every year, **22 March** is **World Water Day**. It focuses on fresh water and w
 
 ### International Women’s Day | 8 March 2026
 
-**What happened**  
+**What happened**
 **8 March** is International Women’s Day.
 
 **2026 UN theme**
@@ -113,7 +113,7 @@ Every year, **22 March** is **World Water Day**. It focuses on fresh water and w
 
 ### Climate and energy report notes
 
-March coverage also highlighted India’s updated climate targets messaging and energy statistics. Lock exact NDC percentage numbers only from a primary PIB brief when you revise for mocks.
+March coverage also highlighted India’s updated climate targets messaging and energy statistics. Fact exact NDC percentage numbers only from a primary PIB brief when you revise for mocks.
 
 ---
 
@@ -121,10 +121,10 @@ March coverage also highlighted India’s updated climate targets messaging and 
 
 ### Shekha Jheel Bird Sanctuary | India’s 99th Ramsar site | April 2026
 
-**What happened**  
+**What happened**
 **Shekha Jheel Bird Sanctuary** in **Aligarh, Uttar Pradesh** was designated a **Ramsar site**. India moved to **99** wetlands of international importance. Uttar Pradesh’s tally rose to **12**, keeping UP among the leading states.
 
-**Core locks**
+**Core facts**
 
 - Site: **Shekha Jheel** (also written Shekha / Sheikha in some older notes).
 - District: **Aligarh**, Uttar Pradesh.
@@ -135,7 +135,7 @@ March coverage also highlighted India’s updated climate targets messaging and 
 - It is also an Important Bird and Biodiversity Area (**IBA**).
 
 !!! tip "UPPCS angle"
-    Pair this with January’s **Patna Bird Sanctuary (Etah)** Ramsar. Surha Tal (Ballia) as India’s **100th** came later (June) — do not push it into April.
+ Pair this with January’s **Patna Bird Sanctuary (Etah)** Ramsar. Surha Tal (Ballia) as India’s **100th** came later (June) — do not push it into April.
 
 ### Earth Day | 22 April 2026
 
@@ -162,7 +162,7 @@ March coverage also highlighted India’s updated climate targets messaging and 
 
 ### International Day for Biological Diversity | 22 May 2026
 
-**What happened**  
+**What happened**
 **22 May** is the International Day for Biological Diversity.
 
 **2026 theme**
@@ -191,7 +191,7 @@ May conservation coverage named Indian / regional winners such as **Parveen Shai
 
 ### World Environment Day | 5 June 2026
 
-**What happened**  
+**What happened**
 **5 June** is World Environment Day, led globally by the **UN Environment Programme (UNEP)**.
 
 **2026 theme**
@@ -201,10 +201,10 @@ May conservation coverage named Indian / regional winners such as **Parveen Shai
 
 ### Surha Tal | India’s 100th Ramsar site | Ballia, UP
 
-**What happened**  
+**What happened**
 On World Environment Day, India designated **Jai Prakash Narayan Bird Sanctuary (Surha Tal)** in **Ballia, Uttar Pradesh** as its **100th Ramsar site**. Uttar Pradesh’s tally rose to **13**.
 
-**Core locks**
+**Core facts**
 
 - Official name: **Jai Prakash Narayan Bird Sanctuary**.
 - Common name: **Surha Tal**.
@@ -226,7 +226,7 @@ On World Environment Day, India designated **Jai Prakash Narayan Bird Sanctuary 
 | Month news broke | April | June (WED) |
 
 !!! tip "Confused pair"
-    Shekha Jheel (Aligarh) = **99** / UP **12**. Surha Tal (Ballia) = **100** / UP **13**. Patna Bird Sanctuary is **Etah**.
+ Shekha Jheel (Aligarh) = **99** / UP **12**. Surha Tal (Ballia) = **100** / UP **13**. Patna Bird Sanctuary is **Etah**.
 
 ### UP CAMP (same WED window)
 
@@ -247,7 +247,7 @@ First IBCA Summit planned for early June in Delhi was postponed. Details → [In
 
 ### International Tiger Day | 29 July 2026
 
-**What happened**  
+**What happened**
 **29 July** is International Tiger Day.
 
 **2026 theme**
@@ -268,10 +268,10 @@ Keep June’s Desertification Day theme ready if a July stem recycles rangelands
 
 ### Glaw Lake | Arunachal Pradesh | India’s 101st Ramsar site
 
-**What happened**  
+**What happened**
 **Glaw Lake** in **Arunachal Pradesh** became the state’s **first** Ramsar site and India’s **101st**.
 
-**Core locks**
+**Core facts**
 
 - Site: **Glaw Lake**.
 - State: **Arunachal Pradesh** (first Ramsar).
@@ -289,7 +289,7 @@ Keep June’s Desertification Day theme ready if a July stem recycles rangelands
 Full board → [Master tables](00_Master_Tables.md).
 
 !!! tip "Ramsar chain 2026"
-    Shekha Jheel (UP, 99) → Surha Tal (UP, 100) → Glaw Lake (Arunachal, 101).
+ Shekha Jheel (UP, 99) → Surha Tal (UP, 100) → Glaw Lake (Arunachal, 101).
 
 ### World Elephant Day | 12 August 2026
 
@@ -307,15 +307,15 @@ First national guide to India’s grasslands and open natural ecosystems launche
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Match day ↔ 2026 theme (high-yield Environment CA format).
+**Logic:** Match day ↔ 2026 theme (high-yield Environment CA format).
 
 **Q1.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
-| List-I (Day) | List-II (2026 theme / lock) |
+| List-I (Day) | List-II (2026 theme / fact) |
 |--------------|-----------------------------|
 | A. World Wetlands Day | 1. Water and Gender |
 | B. World Water Day | 2. Wetlands and traditional knowledge |
@@ -324,9 +324,9 @@ First national guide to India’s grasslands and open natural ecosystems launche
 
 *Row order is not the answer code.*
 
-A. 2 1 4 3  
-B. 2 4 1 3  
-C. 1 2 4 3  
+A. 2 1 4 3
+B. 2 4 1 3
+C. 1 2 4 3
 D. 2 1 3 4
 
 <details>
@@ -338,19 +338,19 @@ D. 2 1 3 4
 
 ---
 
-**Exam logic:** UP Ramsar confused pairs — Etah / Aligarh / Ballia (2025-style NOT / location stems).
+**Logic:** UP Ramsar confused pairs — Etah / Aligarh / Ballia (2025-style NOT / location stems).
 
 **Q2.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Patna Bird Sanctuary — Aligarh  
-2. Shekha Jheel — Aligarh  
-3. Surha Tal (JP Narayan Bird Sanctuary) — Ballia  
+1. Patna Bird Sanctuary — Aligarh
+2. Shekha Jheel — Aligarh
+3. Surha Tal (JP Narayan Bird Sanctuary) — Ballia
 
 Select the correct answer from the code given below:
 
-A. Only 1  
-B. 1 and 2  
-C. 2 and 3  
+A. Only 1
+B. 1 and 2
+C. 2 and 3
 D. Only 3
 
 <details>
@@ -362,7 +362,7 @@ D. Only 3
 
 ---
 
-**Exam logic:** India’s Ramsar count after Surha Tal and Glaw Lake.
+**Logic:** India’s Ramsar count after Surha Tal and Glaw Lake.
 
 **Q3.** With reference to Ramsar sites notified / announced in public coverage in 2026, which of the following statements is/are correct?
 
@@ -372,9 +372,9 @@ D. Only 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -386,7 +386,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** SWM Rules date trap — notified vs commence.
+**Logic:** SWM Rules date trap — notified vs commence.
 
 **Q4.** With reference to the Solid Waste Management Rules, 2026, which of the following statements is/are correct?
 
@@ -395,9 +395,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -409,25 +409,25 @@ D. Only 1
 
 ---
 
-**Exam logic:** NOT matched days — Constitution Day style from 2025 Q133.
+**Logic:** NOT matched days — Constitution Day style from 2025 Q133.
 
 **Q5.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Biodiversity Day (2026 theme) — Acting locally for global impact  
-2. International Tiger Day (2026 theme) — Yoga for Healthy Ageing  
-3. National Sports Day slogan (2026) — Khelega Bharat, Jeetega Bharat  
+1. Biodiversity Day (2026 theme) — Acting locally for global impact
+2. International Tiger Day (2026 theme) — Yoga for Healthy Ageing
+3. National Sports Day slogan (2026) — Khelega Bharat, Jeetega Bharat
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. 1 and 3  
-C. 2 and 3  
+A. Only 2
+B. 1 and 3
+C. 2 and 3
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Pair 2 is wrong — Yoga for Healthy Ageing is **International Day of Yoga**, not Tiger Day. Tiger Day theme locks indigenous peoples / local communities. Pairs 1 and 3 are correct.
+**Ans: A.** Pair 2 is wrong — Yoga for Healthy Ageing is **International Day of Yoga**, not Tiger Day. Tiger Day theme facts indigenous peoples / local communities. Pairs 1 and 3 are correct.
 
 </details>
 
@@ -443,9 +443,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -457,43 +457,43 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
-**Exam logic:** Chhari-Dhand + Patna pair (Jan Ramsar).
+**Logic:** Chhari-Dhand + Patna pair (Jan Ramsar).
 
 **Q7.** Which of the following Ramsar-related pairs is/are correctly matched for January 2026 public news?
 
-1. Patna Bird Sanctuary — Etah, Uttar Pradesh  
-2. Chhari-Dhand — Kutch, Gujarat  
-3. Patna Bird Sanctuary — Patna, Bihar  
+1. Patna Bird Sanctuary — Etah, Uttar Pradesh
+2. Chhari-Dhand — Kutch, Gujarat
+3. Patna Bird Sanctuary — Patna, Bihar
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Name “Patna” does **not** mean Bihar’s capital — place lock is **Etah**. Trap designed exactly for that word confusion.
+**Ans: A.** Name “Patna” does **not** mean Bihar’s capital — place fact is **Etah**. Trap designed exactly for that word confusion.
 
 </details>
 
 ---
 
-**Exam logic:** Women’s Day + Water Day themes (Match / NOT).
+**Logic:** Women’s Day + Water Day themes (Match / NOT).
 
 **Q8.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. International Women’s Day 2026 — Rights. Justice. Action. For ALL Women and Girls  
-2. World Water Day 2026 — Our Power, Our Planet  
-3. Earth Day 2026 — Our Power, Our Planet  
+1. International Women’s Day 2026 — Rights. Justice. Action. For ALL Women and Girls
+2. World Water Day 2026 — Our Power, Our Planet
+3. Earth Day 2026 — Our Power, Our Planet
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. 1 and 3  
-C. 2 and 3  
+A. Only 2
+B. 1 and 3
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -505,7 +505,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Health / Earth Day April themes.
+**Logic:** Health / Earth Day April themes.
 
 **Q9.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -518,9 +518,9 @@ D. Only 1
 
 *Row order is not the answer code.*
 
-A. 2 3 1 4  
-B. 2 1 3 4  
-C. 3 2 1 4  
+A. 2 3 1 4
+B. 2 1 3 4
+C. 3 2 1 4
 D. 2 3 4 1
 
 <details>
@@ -542,9 +542,9 @@ D. 2 3 4 1
 
 Select the correct answer from the code given below:
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -556,7 +556,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
-**Exam logic:** Mixed false-statement machine across months (final drill).
+**Logic:** Mixed false-statement machine across months (final drill).
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -566,9 +566,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -580,7 +580,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** UP CAMP clean air locks.
+**Logic:** UP CAMP clean air facts.
 
 **Q12.** With reference to UP CAMP (June 2026), which of the following statements is/are correct?
 
@@ -604,7 +604,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** UNEP leads WED.
+**Logic:** UNEP leads WED.
 
 **Q13.** With reference to World Environment Day, which of the following statements is/are correct?
 
@@ -628,9 +628,9 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Surha Tal bird / flyway locks.
+**Logic:** Surha Tal bird / flyway facts.
 
-**Q14.** With reference to Surha Tal ecology locks, which of the following statements is/are correct?
+**Q14.** With reference to Surha Tal ecology facts, which of the following statements is/are correct?
 
 1. It lies on the Central Asian Flyway.
 2. Coverage spoke of over 310 bird species.
@@ -652,7 +652,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** India Ramsar global rank soft.
+**Logic:** India Ramsar global rank soft.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -675,7 +675,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** SWM Rules replace 2016.
+**Logic:** SWM Rules replace 2016.
 
 **Q16.** With reference to SWM Rules, 2026, which of the following statements is/are correct?
 
@@ -699,7 +699,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Elephant Day / Youth Day same date.
+**Logic:** Elephant Day / Youth Day same date.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -722,11 +722,11 @@ D. Only 1
 
 ---
 
-**Exam logic:** Tiger Day theme July.
+**Logic:** Tiger Day theme July.
 
 **Q18.** With reference to International Tiger Day 2026, which of the following statements is/are correct?
 
-1. Theme locks indigenous peoples and local communities at the heart.
+1. Theme facts indigenous peoples and local communities at the heart.
 2. Date is 29 July.
 3. Theme is Yoga for Healthy Ageing.
 
@@ -746,7 +746,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Glaw Lake Kamlang.
+**Logic:** Glaw Lake Kamlang.
 
 **Q19.** With reference to Glaw Lake, which of the following statements is/are correct?
 
@@ -770,7 +770,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Ek Ped Maa Ke Naam soft WED UP.
+**Logic:** Ek Ped Maa Ke Naam soft WED UP.
 
 **Q20.** Which of the following statements is/are correct for UP’s WED 2026 package?
 

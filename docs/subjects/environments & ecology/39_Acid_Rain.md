@@ -8,13 +8,13 @@ Acid Rain | Causes | Effects | Prevention
 
 </details>
 
-> **Sources baked in:** NCERT; CPCB; CLRTAP/Gothenburg; Taj Trapezium; UPPCS PYQs  
-> **Exam weight:** ★★ Medium–High — pH traps; CO₂ vs SO₂/NOx; Taj gypsum; Montreal ≠ acid rain  
+> **Sources baked in:** NCERT; CPCB; CLRTAP/Gothenburg; Taj Trapezium; UPPCS PYQs
+> **Weight:** ★★ Medium–High — pH traps; CO₂ vs SO₂/NOx; Taj gypsum; Montreal ≠ acid rain
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 22 Must-Score Locks
+## Consolidated — 22 Must-Score Facts
 
 1. **Acid rain** means acidic deposition with **pH below 5.6**.
 2. Normal rain is already slightly acidic near **pH 5.6** because CO₂ forms weak carbonic acid. It is **not** pH 7.
@@ -24,7 +24,7 @@ Acid Rain | Causes | Effects | Prevention
 6. On the pH scale, acidic is below **7**, basic is above **7**, and neutral is **7**.
 7. Reversed statements that call normal rain alkaline or acid rain alkaline are both false.
 8. Lake waters below about **pH 5** can kill fish. Acid soils release toxic **Al³⁺**.
-9. Acid deposition harms conifers and weathers marble and limestone. The Taj marble → **gypsum** story is the classic Indian lock.
+9. Acid deposition harms conifers and weathers marble and limestone. The Taj marble → **gypsum** story is the classic Indian fact.
 10. Prevention tools include **FGD**, catalytic converters, cleaner fuel norms such as **BS-VI**, and regional protocols.
 11. The **Gothenburg Protocol / CLRTAP** family targets acidifying air pollutants. **Montreal** targets ozone ODS — different problem.
 12. The **Taj Trapezium** is the pollution-control belt designed to protect the Taj Mahal.
@@ -35,15 +35,15 @@ Acid Rain | Causes | Effects | Prevention
 17. Do not blame acid rain mainly on CO₂ just because normal rain is weakly acidic.
 18. Dry deposition can damage materials even on rainless days.
 19. Acid mist and acid fog are wet forms even when they are not classic rainfall.
-20. Cultural-heritage damage and forest dieback are both valid effect locks alongside aquatic harm.
-21. India’s exam focus pairs chemistry (SO₂/NOx) with Taj protection geography.
+20. Cultural-heritage damage and forest dieback are both valid effect facts alongside aquatic harm.
+21. India’s focus pairs chemistry (SO₂/NOx) with Taj protection geography.
 22. Calling Montreal the acid-rain treaty is a standard distractor.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Term | One-line lock |
+| Term | One-line fact |
 |------|---------------|
 | **Acid rain / Normal rain** | pH < 5.6 / pH ≈ 5.6 from CO₂ |
 | **Wet / Dry deposition** | With precipitation / without rain |
@@ -66,10 +66,10 @@ Acid Rain | Causes | Effects | Prevention
 
 **PYQ — UPPCS Prelims 2025, Q103**
 
-1. Acidic solutions have pH more than 7.  
+1. Acidic solutions have pH more than 7.
 2. Basic solutions have pH less than 7.
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Both  D. Only 1
+Options: A. Only 2 B. Neither 1 nor 2 C. Both D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -79,10 +79,10 @@ Options: A. Only 2  B. Neither 1 nor 2  C. Both  D. Only 1
 
 **PYQ — UPPCS Prelims 2024, Q108**
 
-(A) CO₂, SO₂, and NO₂ dissolve in rainwater and produce acid rain.  
+(A) CO₂, SO₂, and NO₂ dissolve in rainwater and produce acid rain.
 (R) Air is polluted due to high CO₂, SO₂, and oxides of nitrogen.
 
-Options: A. Both true; R explains A  B. A false, R true  C. Both true; R not explanation  D. A true, R false
+Options: A. Both true; R explains A B. A false, R true C. Both true; R not explanation D. A true, R false
 
 <details><summary>Show answer</summary>
 
@@ -97,7 +97,7 @@ Options: A. Both true; R explains A  B. A false, R true  C. Both true; R not exp
 | 7 | Neutral (not natural rain) |
 | > 7 | Basic |
 
-> **Exam note:** Normal rain ≠ neutral. CO₂ alone ≠ severe acid rain.
+> ** note:** Normal rain ≠ neutral. CO₂ alone ≠ severe acid rain.
 
 ---
 
@@ -116,7 +116,7 @@ Options: A. Both true; R explains A  B. A false, R true  C. Both true; R not exp
 
 Gases lighter than air among listed options — only **helium** fits; **SO₂ and HCl are heavier**.
 
-> **Exam note:** SO₂ sinks relative to air — density trap.
+> ** note:** SO₂ sinks relative to air — density trap.
 
 ---
 
@@ -140,7 +140,7 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 | Marble | Gypsum crust (Taj) |
 | Lichens | Die in high SO₂ |
 
-> **Exam note:** Taj lock = **SO₂/acid**, not “only CO₂ yellowing.”
+> ** note:** Taj fact = **SO₂/acid**, not “only CO₂ yellowing.”
 
 ---
 
@@ -163,7 +163,7 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 | Taj Trapezium | Local heritage protection |
 | Gothenburg/CLRTAP | Transboundary acidification |
 
-> **Exam note:** Montreal = ozone. Acid rain treaty family = **CLRTAP / Gothenburg**.
+> ** note:** Montreal = ozone. Acid rain treaty family = **CLRTAP / Gothenburg**.
 
 ---
 
@@ -171,7 +171,7 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 
 **Q1.** Acid rain pH threshold:
 
-Options: A. < 5.6  B. > 7  C. Exactly 7 only  D. > 14
+Options: A. < 5.6 B. > 7 C. Exactly 7 only D. > 14
 
 <details><summary>Show answer</summary>
 
@@ -181,7 +181,7 @@ Options: A. < 5.6  B. > 7  C. Exactly 7 only  D. > 14
 
 **Q2.** Normal rain pH is about:
 
-Options: A. 5.6  B. 7.0 exactly always  C. 14  D. 0
+Options: A. 5.6 B. 7.0 exactly always C. 14 D. 0
 
 <details><summary>Show answer</summary>
 
@@ -191,7 +191,7 @@ Options: A. 5.6  B. 7.0 exactly always  C. 14  D. 0
 
 **Q3.** Main strong acids in acid rain:
 
-Options: A. H₂SO₄ and HNO₃  B. Only HCl from argon  C. Only HF from helium  D. Only carbonic as sole strong acid
+Options: A. H₂SO₄ and HNO₃ B. Only HCl from argon C. Only HF from helium D. Only carbonic as sole strong acid
 
 <details><summary>Show answer</summary>
 
@@ -201,7 +201,7 @@ Options: A. H₂SO₄ and HNO₃  B. Only HCl from argon  C. Only HF from helium
 
 **Q4.** CO₂ in rain mainly forms:
 
-Options: A. Weak H₂CO₃  B. Strong H₂SO₄ only  C. Only ozone  D. Only fly ash
+Options: A. Weak H₂CO₃ B. Strong H₂SO₄ only C. Only ozone D. Only fly ash
 
 <details><summary>Show answer</summary>
 
@@ -211,7 +211,7 @@ Options: A. Weak H₂CO₃  B. Strong H₂SO₄ only  C. Only ozone  D. Only fly
 
 **Q5.** Acidic solutions have pH:
 
-Options: A. < 7  B. > 7  C. Always = 7  D. Always > 14
+Options: A. < 7 B. > 7 C. Always = 7 D. Always > 14
 
 <details><summary>Show answer</summary>
 
@@ -221,7 +221,7 @@ Options: A. < 7  B. > 7  C. Always = 7  D. Always > 14
 
 **Q6.** Basic solutions have pH:
 
-Options: A. > 7  B. < 7  C. Always = 0  D. Always = 5.6
+Options: A. > 7 B. < 7 C. Always = 0 D. Always = 5.6
 
 <details><summary>Show answer</summary>
 
@@ -231,7 +231,7 @@ Options: A. > 7  B. < 7  C. Always = 0  D. Always = 5.6
 
 **Q7.** SO₂ mainly forms:
 
-Options: A. Sulphuric acid  B. Only nitric acid  C. Only argon compounds  D. Only helium hydride
+Options: A. Sulphuric acid B. Only nitric acid C. Only argon compounds D. Only helium hydride
 
 <details><summary>Show answer</summary>
 
@@ -241,7 +241,7 @@ Options: A. Sulphuric acid  B. Only nitric acid  C. Only argon compounds  D. Onl
 
 **Q8.** NOx mainly forms:
 
-Options: A. Nitric acid  B. Only sulphuric acid  C. Only marble  D. Only gypsum from nitrogen alone
+Options: A. Nitric acid B. Only sulphuric acid C. Only marble D. Only gypsum from nitrogen alone
 
 <details><summary>Show answer</summary>
 
@@ -251,7 +251,7 @@ Options: A. Nitric acid  B. Only sulphuric acid  C. Only marble  D. Only gypsum 
 
 **Q9.** Taj marble damage involves:
 
-Options: A. Gypsum crust  B. Only gold plating  C. Only helium bubbles  D. Only ozone hole frosting
+Options: A. Gypsum crust B. Only gold plating C. Only helium bubbles D. Only ozone hole frosting
 
 <details><summary>Show answer</summary>
 
@@ -261,7 +261,7 @@ Options: A. Gypsum crust  B. Only gold plating  C. Only helium bubbles  D. Only 
 
 **Q10.** Montreal Protocol relates to:
 
-Options: A. Ozone / ODS  B. Acid rain only  C. Only Taj Trapezium law  D. Only BOD assay
+Options: A. Ozone / ODS B. Acid rain only C. Only Taj Trapezium law D. Only BOD assay
 
 <details><summary>Show answer</summary>
 
@@ -271,7 +271,7 @@ Options: A. Ozone / ODS  B. Acid rain only  C. Only Taj Trapezium law  D. Only B
 
 **Q11.** Gothenburg Protocol relates to:
 
-Options: A. Acidifying / transboundary air pollution  B. Only tiger trade  C. Only Ramsar birds  D. Only AQI colours
+Options: A. Acidifying / transboundary air pollution B. Only tiger trade C. Only Ramsar birds D. Only AQI colours
 
 <details><summary>Show answer</summary>
 
@@ -281,7 +281,7 @@ Options: A. Acidifying / transboundary air pollution  B. Only tiger trade  C. On
 
 **Q12.** FGD mainly reduces:
 
-Options: A. SO₂  B. Only noise dB  C. Only plastic SUP items  D. Only groundwater fluoride
+Options: A. SO₂ B. Only noise dB C. Only plastic SUP items D. Only groundwater fluoride
 
 <details><summary>Show answer</summary>
 
@@ -291,7 +291,7 @@ Options: A. SO₂  B. Only noise dB  C. Only plastic SUP items  D. Only groundwa
 
 **Q13.** Fish often fail when water pH falls below about:
 
-Options: A. 5  B. 14  C. 9 always safe forever  D. 7 only for deserts
+Options: A. 5 B. 14 C. 9 always safe forever D. 7 only for deserts
 
 <details><summary>Show answer</summary>
 
@@ -301,7 +301,7 @@ Options: A. 5  B. 14  C. 9 always safe forever  D. 7 only for deserts
 
 **Q14.** SO₂ relative to air is:
 
-Options: A. Heavier  B. Always lighter like helium  C. Identical to argon always  D. A solid metal
+Options: A. Heavier B. Always lighter like helium C. Identical to argon always D. A solid metal
 
 <details><summary>Show answer</summary>
 
@@ -311,7 +311,7 @@ Options: A. Heavier  B. Always lighter like helium  C. Identical to argon always
 
 **Q15.** Dry deposition means:
 
-Options: A. Acids settle without rain  B. Only rain forever  C. Only ocean MARPOL oil  D. Only indoor chulha smoke
+Options: A. Acids settle without rain B. Only rain forever C. Only ocean MARPOL oil D. Only indoor chulha smoke
 
 <details><summary>Show answer</summary>
 
@@ -321,7 +321,7 @@ Options: A. Acids settle without rain  B. Only rain forever  C. Only ocean MARPO
 
 **Q16.** Main SO₂ source sector:
 
-Options: A. Coal thermal power / smelting  B. Only helium balloons  C. Only wetland methane  D. Only ozone Day rallies
+Options: A. Coal thermal power / smelting B. Only helium balloons C. Only wetland methane D. Only ozone Day rallies
 
 <details><summary>Show answer</summary>
 
@@ -331,7 +331,7 @@ Options: A. Coal thermal power / smelting  B. Only helium balloons  C. Only wetl
 
 **Q17.** Catalytic converters mainly help cut:
 
-Options: A. NOx (among other exhaust toxins)  B. Only ocean plastics  C. Only CGWB reports  D. Only forest fires by law alone
+Options: A. NOx (among other exhaust toxins) B. Only ocean plastics C. Only CGWB reports D. Only forest fires by law alone
 
 <details><summary>Show answer</summary>
 
@@ -341,7 +341,7 @@ Options: A. NOx (among other exhaust toxins)  B. Only ocean plastics  C. Only CG
 
 **Q18.** Taj Trapezium is around:
 
-Options: A. Agra / Taj Mahal  B. Only Antarctica  C. Only Amazon  D. Only Moon
+Options: A. Agra / Taj Mahal B. Only Antarctica C. Only Amazon D. Only Moon
 
 <details><summary>Show answer</summary>
 
@@ -351,7 +351,7 @@ Options: A. Agra / Taj Mahal  B. Only Antarctica  C. Only Amazon  D. Only Moon
 
 **Q19.** Each pH unit drop means H⁺ roughly:
 
-Options: A. 10× more  B. 2× less always  C. Unchanged  D. Exactly zero
+Options: A. 10× more B. 2× less always C. Unchanged D. Exactly zero
 
 <details><summary>Show answer</summary>
 
@@ -361,7 +361,7 @@ Options: A. 10× more  B. 2× less always  C. Unchanged  D. Exactly zero
 
 **Q20.** Lichens in high SO₂ areas:
 
-Options: A. Die / indicate pollution  B. Grow best always  C. Produce only helium  D. Neutralise all acid rain alone
+Options: A. Die / indicate pollution B. Grow best always C. Produce only helium D. Neutralise all acid rain alone
 
 <details><summary>Show answer</summary>
 
@@ -369,10 +369,10 @@ Options: A. Die / indicate pollution  B. Grow best always  C. Produce only heliu
 
 </details>
 
-**Q21.** Assertion (A): Acidic solutions have pH > 7.  
+**Q21.** Assertion (A): Acidic solutions have pH > 7.
 Reason (R): Basic solutions have pH < 7.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -382,7 +382,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 **Q22.** Secondary pollutant path:
 
-Options: A. SO₂/NOx → acids in atmosphere  B. Only fly ash stays never secondary  C. Only noise becomes acid  D. Only BOD becomes pH
+Options: A. SO₂/NOx → acids in atmosphere B. Only fly ash stays never secondary C. Only noise becomes acid D. Only BOD becomes pH
 
 <details><summary>Show answer</summary>
 
@@ -392,7 +392,7 @@ Options: A. SO₂/NOx → acids in atmosphere  B. Only fly ash stays never secon
 
 **Q23.** BS-VI fuel sulphur is about:
 
-Options: A. 10 ppm  B. 10,000 ppm only  C. Zero forever historically from 1950  D. 50% by mass sulphur
+Options: A. 10 ppm B. 10,000 ppm only C. Zero forever historically from 1950 D. 50% by mass sulphur
 
 <details><summary>Show answer</summary>
 
@@ -402,7 +402,7 @@ Options: A. 10 ppm  B. 10,000 ppm only  C. Zero forever historically from 1950  
 
 **Q24.** Conifers are:
 
-Options: A. Especially acid-sensitive  B. Immune always  C. Only ocean plants  D. Only indoor pollutants
+Options: A. Especially acid-sensitive B. Immune always C. Only ocean plants D. Only indoor pollutants
 
 <details><summary>Show answer</summary>
 
@@ -410,9 +410,9 @@ Options: A. Especially acid-sensitive  B. Immune always  C. Only ocean plants  D
 
 </details>
 
-**Q25.** Mathura refinery is linked exam-wise to:
+**Q25.** Mathura refinery is linked -wise to:
 
-Options: A. Taj SO₂ stress  B. Only Antarctic ozone hole  C. Only Ramsar listing of Agra fort  D. Only CNG composition of methane
+Options: A. Taj SO₂ stress B. Only Antarctic ozone hole C. Only Ramsar listing of Agra fort D. Only CNG composition of methane
 
 <details><summary>Show answer</summary>
 
@@ -422,7 +422,7 @@ Options: A. Taj SO₂ stress  B. Only Antarctic ozone hole  C. Only Ramsar listi
 
 **Q26.** Acid rain includes:
 
-Options: A. Wet and dry deposition  B. Only noise in Moradabad  C. Only plastic SUP ban items  D. Only biogas CH₄+CO₂
+Options: A. Wet and dry deposition B. Only noise in Moradabad C. Only plastic SUP ban items D. Only biogas CH₄+CO₂
 
 <details><summary>Show answer</summary>
 
@@ -432,7 +432,7 @@ Options: A. Wet and dry deposition  B. Only noise in Moradabad  C. Only plastic 
 
 **Q27.** Soil acidification releases toxic:
 
-Options: A. Al³⁺  B. Only helium ions  C. Only argon crystals  D. Only pure O₂ bubbles
+Options: A. Al³⁺ B. Only helium ions C. Only argon crystals D. Only pure O₂ bubbles
 
 <details><summary>Show answer</summary>
 
@@ -442,7 +442,7 @@ Options: A. Al³⁺  B. Only helium ions  C. Only argon crystals  D. Only pure O
 
 **Q28.** CLRTAP is about:
 
-Options: A. Long-range transboundary air pollution  B. Only tiger corridors  C. Only wetlands wise use alone  D. Only World Ozone Day date
+Options: A. Long-range transboundary air pollution B. Only tiger corridors C. Only wetlands wise use alone D. Only World Ozone Day date
 
 <details><summary>Show answer</summary>
 
@@ -450,9 +450,9 @@ Options: A. Long-range transboundary air pollution  B. Only tiger corridors  C. 
 
 </details>
 
-**Q29.** CO₂, SO₂, NO₂ A/R best lock:
+**Q29.** CO₂, SO₂, NO₂ A/R best fact:
 
-Options: A. Both statements can be true; R need not explain strong vs weak acid roles  B. Montreal explains acid rain  C. Normal rain is pH 14  D. SO₂ is lighter than helium
+Options: A. Both statements can be true; R need not explain strong vs weak acid roles B. Montreal explains acid rain C. Normal rain is pH 14 D. SO₂ is lighter than helium
 
 <details><summary>Show answer</summary>
 
@@ -462,7 +462,7 @@ Options: A. Both statements can be true; R need not explain strong vs weak acid 
 
 **Q30.** Correct set:
 
-Options: A. Acid rain pH<5.6; SO₂→H₂SO₄; Taj→gypsum; Montreal≠acid; Gothenburg=acidifying  B. Normal rain pH7; CO₂=main strong acid; Montreal=acid rain  C. Acidic pH>7; SO₂ lighter than air  D. FGD increases SO₂ only
+Options: A. Acid rain pH<5.6; SO₂→H₂SO₄; Taj→gypsum; Montreal≠acid; Gothenburg=acidifying B. Normal rain pH7; CO₂=main strong acid; Montreal=acid rain C. Acidic pH>7; SO₂ lighter than air D. FGD increases SO₂ only
 
 <details><summary>Show answer</summary>
 
@@ -474,15 +474,7 @@ Options: A. Acid rain pH<5.6; SO₂→H₂SO₄; Taj→gypsum; Montreal≠acid; 
 
 ## Complete PYQ Bank (Topic 39)
 
-**Q1. UPPCS 2025, Q103** — Acidic/basic pH statements both wrong → **Ans: B (Neither)**
-
-**Q2. UPPCS 2024, Q108** — CO₂/SO₂/NO₂ A/R → **Ans: C**
-
-**Q3. UPPCS 2025, Q43** — SO₂ heavier than air; only helium lighter among traps → **Ans: B (Only helium)**
-
-**Q4. UPPCS 2025, Q61** — Lichens indicate pollution (SO₂-sensitive) → **Ans: D (Only 1)**
-
-**Q5. Pattern** — Taj damage from SO₂/acid → gypsum on marble
+**Q1. UPPCS 2025, Q103** — Acidic/basic pH statements both wrong → **Ans: B (Neither)Q2. UPPCS 2024, Q108** — CO₂/SO₂/NO₂ A/R → **Ans: CQ3. UPPCS 2025, Q43** — SO₂ heavier than air; only helium lighter among traps → **Ans: B (Only helium)Q4. UPPCS 2025, Q61** — Lichens indicate pollution (SO₂-sensitive) → **Ans: D (Only 1)Q5. Pattern** — Taj damage from SO₂/acid → gypsum on marble
 
 **Q6. Pattern** — Normal rain ~5.6; acid rain <5.6
 
@@ -498,7 +490,7 @@ Options: A. Acid rain pH<5.6; SO₂→H₂SO₄; Taj→gypsum; Montreal≠acid; 
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Normal rain pH = 7 | **~5.6** |
 | Acidic pH > 7 | **Acidic < 7** |
@@ -535,10 +527,10 @@ Options: A. Acid rain pH<5.6; SO₂→H₂SO₄; Taj→gypsum; Montreal≠acid; 
 
 ### Topic boundaries
 
-- **Shorter acid-rain revision twin** — Topic 12  
-- **Smog / secondary pollutants / lichens** — Topic 38  
-- **SO₂ as air pollutant / NCAP** — Topic 38  
-- **Ozone treaties** — Topics 11, 36  
+- **Shorter acid-rain revision twin** — Topic 12
+- **Smog / secondary pollutants / lichens** — Topic 38
+- **SO₂ as air pollutant / NCAP** — Topic 38
+- **Ozone treaties** — Topics 11, 36
 
 ### PYQ audit
 

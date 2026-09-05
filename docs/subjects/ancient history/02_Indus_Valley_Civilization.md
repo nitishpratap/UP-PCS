@@ -8,14 +8,14 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History* I, RS Sharma, ASI, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — site↔state, UP trio, eastern boundary, dockyard/boats, excavators  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT *Themes in Indian History* I, RS Sharma, ASI, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — site↔state, UP trio, eastern boundary, dockyard/boats, excavators
+> **Last verified:** August 2026
 > **Current Affairs:** Dholavira UNESCO **2021**; Rakhigarhi 2026 ASI DNA/facial reconstruction; Budget 2026 lists Lothal and Rakhigarhi among 15 experiential sites
 
 ---
 
-## Consolidated — 30 Must-Score Locks
+## Consolidated — 30 Must-Score Facts
 
 1. The Indus Valley Civilization is a **Bronze Age urban** culture. The Mature phase is about **2600–1900 BCE**. Early is roughly **3300–2600 BCE** and Late about **1900–1300 BCE**.
 2. It is also called **Harappan** after the first excavated site. The economy type in match-lists is **Urban**, not pastoral. Pastoral belongs to the Rigvedic age.
@@ -28,11 +28,11 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 9. **Dholavira** in Gujarat is known for water reservoirs, a **three-part** town plan (citadel, middle town, lower town), and a large **signboard**. UNESCO listed it in **2021**.
 10. **Kalibangan** in Rajasthan shows a **ploughed field** and **fire altars**. Its drainage is weaker than Mohenjo-daro’s.
 11. **Chanhudaro** is a craft town famous for **bead-making** and has **no citadel**.
-12. Harappan bricks commonly follow the ratio **1 : 2 : 4**. Cities show a **citadel** (usually west) and a larger **lower town** (east).
+12. Harappan bricks commonly follow the ratio **1: 2: 4**. Cities show a **citadel** (usually west) and a larger **lower town** (east).
 13. The civilization used **bronze** (copper plus tin). There was **no iron** and **no coined money**. The script on seals is still **unread**.
 14. The most common seal animal is the **unicorn**. Weights often follow a binary and decimal pattern with a key unit of **16**.
 15. Cotton is among the **earliest** known Harappan plant fibres. Agriculture included wheat, barley, and pulses; rice appears at some eastern or later contexts.
-16. Match locks for scattered sites include **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, and **Hulas–Uttar Pradesh**.
+16. Match facts for scattered sites include **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, and **Hulas–Uttar Pradesh**.
 17. **Rakhigarhi** in Hisar is the **largest Harappan site in India**. Size does not make it the eastern boundary.
 18. **Surkotada** in Gujarat is often cited for **horse** bone claims. Treat the claim carefully; it is not a pan-Harappan horse culture.
 19. **Banawali** in Haryana shows Early and Mature levels and a plough-mark tradition similar in spirit to Kalibangan.
@@ -41,16 +41,16 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 22. Foreign trade reached Mesopotamia; Meluhha in Mesopotamian texts is commonly linked with the Indus. Ports and coastal Gujarat matter more than any UP river dock.
 23. Decline around **1900 BCE** is read as climate shift, river drying, and de-urbanisation. Wheeler’s Aryan-massacre story at Mohenjo-daro is **rejected**.
 24. **Mandi** (Bijnor, UP) must not be confused with **Manda** (Jammu, northernmost site).
-25. **Lothal** is the dockyard lock. **Dholavira** is the reservoir-and-signboard lock. Do not swap those identities.
+25. **Lothal** is the dockyard fact. **Dholavira** is the reservoir-and-signboard fact. Do not swap those identities.
 26. Harappan religion shows mother-goddess figurines, a “Pashupati”-like seal, and sacred animals; there are **no** large free-standing temples of later Hindu type.
 27. **Mortimer Wheeler** improved excavation method at Harappa but did **not** discover the civilization. Discovery credit stays with Sahni, Banerji, and Marshall’s announcement.
 28. **B.B. Lal** excavated **Kalibangan** and later Hastinapur OCP levels. **R.S. Bisht** excavated **Dholavira** and Banawali.
-29. Doab pottery sequence for exams runs **Late Harappan / OCP → PGW → NBPW**. Keep that order for Later Vedic and mahajanapada questions.
+29. Doab pottery sequence s runs **Late Harappan / OCP → PGW → NBPW**. Keep that order for Later Vedic and mahajanapada questions.
 30. Harappan sites in Uttar Pradesh are the **eastern fringe**, smaller and pottery-heavy, not Indus-core megacities like Mohenjo-daro or Harappa.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -75,21 +75,21 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - Named **Harappan** after **Harappa** (first excavated site). Geography is wider than the Indus: Ghaggar–Hakra (Saraswati belt), Gujarat, Haryana, eastern UP, northern Afghanistan.
 - Some books say **Sindhu–Saraswati** civilization — same culture, different label.
 - **Early Harappan** (~3300–2600 BCE): regional cultures (Kot Diji, Amri, Hakra, Sothi). Pre-urban, pottery, mud-brick.
-- **Mature Harappan** (~2600–1900 BCE): planned cities, seals, weights, long-distance trade. This is what exams mean by “IVC.”
+- **Mature Harappan** (~2600–1900 BCE): planned cities, seals, weights, long-distance trade. This is what papers mean by “IVC.”
 - **Late Harappan** (~1900–1300 BCE): de-urbanisation; Cemetery-H, Jhukar, Lustrous Red Ware (Rangpur); OCP overlap in the doab.
 - Spread about **12.5–13 lakh km²**. West–east roughly Sutkagen-dor to Alamgirpur; north–south Manda to Daimabad.
-- **West:** Sutkagen-dor (Makran). **East:** **Alamgirpur** (Meerut, UP). **North:** **Manda** (Jammu, Chenab). **South:** **Daimabad** (Maharashtra).
+- **West:** Sutkagen-dor (Makran). **East:Alamgirpur** (Meerut, UP). **North:Manda** (Jammu, Chenab). **South:Daimabad** (Maharashtra).
 - About **1400+** sites known; under **100** fully excavated. Core cluster in Pakistan + Haryana–Rajasthan–Gujarat.
 - Origin: **indigenous** growth from Mehrgarh / Early Harappan is the standard view. Mesopotamian-colony theory is outdated.
 - Decline ~1900 BCE: climate shift, Ghaggar drying, floods, overuse of land. **Wheeler’s Aryan-invasion massacre** at Mohenjo-daro is **rejected**. No single agreed cause.
 - Economy type in match-lists = **Urban** (not pastoral). Pastoral = Rigvedic.
 
-> **Exam note:** Eastern boundary = **Alamgirpur**, not Rakhigarhi. IVC economy type = **Urban** (Rigvedic = pastoral).
+> ** note:** Eastern boundary = **Alamgirpur**, not Rakhigarhi. IVC economy type = **Urban** (Rigvedic = pastoral).
 
 **PYQ — UPPCS Prelims 2020, Q21**
 
-Match List-I with List-II: A. Indus Valley Civilization  B. Later Vedic Society  C. Rigvedic Society  D. Medieval Period  
-with 1. Pastoral  2. Land Lordism  3. Agrarian  4. Urban  
+Match List-I with List-II: A. Indus Valley Civilization B. Later Vedic Society C. Rigvedic Society D. Medieval Period
+with 1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
 
 A. 4 2 3 1
 
@@ -111,7 +111,7 @@ D. 4 3 1 2
 ## 2.2 Features of Harappan Civilization
 
 - **Planned cities:** grid streets; citadel (usually west) + lower town (east). Dholavira adds a **middle town**.
-- **Burnt bricks** in ratio **1 : 2 : 4** (thickness : width : length), same idea from Punjab to Gujarat.
+- **Burnt bricks** in ratio **1: 2: 4** (thickness: width: length), same idea from Punjab to Gujarat.
 - **Covered drains**, house bathrooms, wells. Best at Mohenjo-daro; **weak at Kalibangan**.
 - **Bronze** (copper + tin), lost-wax casting. **No iron. No coined money.**
 - Steatite **seals**, wheel-made pottery, bead-making, cotton cloth.
@@ -121,7 +121,7 @@ D. 4 3 1 2
 - Relatively few weapons; some sites still **fortified** (Dholavira, Surkotada, Kalibangan citadel).
 - Cotton among the **earliest** in the world. Standard weights (binary, key unit **16**).
 
-> **Exam note:** Iron plough / Ashokan-style temple / gold coins are **not** Harappan.
+> ** note:** Iron plough / Ashokan-style temple / gold coins are **not** Harappan.
 
 ---
 
@@ -142,9 +142,7 @@ D. 4 3 1 2
 
 ## 2.3 Major Harappan Sites
 
-**Site ↔ river/state ↔ one signature find | Pakistan first, then India**
-
-**Pakistan**
+**Site ↔ river/state ↔ one signature find | Pakistan first, then IndiaPakistan**
 
 - **Harappa** stands on the **Ravi** in Pakistani Punjab.
 - **Daya Ram Sahni** excavated it in **1921**.
@@ -232,12 +230,12 @@ D. 4 3 1 2
 
 - **Shortughai** in Afghanistan is a **lapis lazuli** colony of the Harappans.
 
-> **Exam note:** **Mandi is not Manda**. Rakhigarhi is not in Uttar Pradesh. Padri is Gujarat. Balu is Haryana. Hulas is Uttar Pradesh.
+> ** note:Mandi is not Manda**. Rakhigarhi is not in Uttar Pradesh. Padri is Gujarat. Balu is Haryana. Hulas is Uttar Pradesh.
 
 **PYQ — UPPCS Prelims 2020, Q12**
 
-Match: A. Balu  B. Manda  C. Padri  D. Hulas  
-with 1. UP  2. J&K  3. Haryana  4. Gujarat  
+Match: A. Balu B. Manda C. Padri D. Hulas
+with 1. UP 2. J&K 3. Haryana 4. Gujarat
 
 A. 3 2 1 4
 
@@ -276,12 +274,12 @@ D. 3 2 4 1
 - **Y.D. Sharma** excavated Ropar.
 - **J.P. Joshi** excavated Surkotada.
 - **Amarendra Nath** and **Vasant Shinde** worked at Rakhigarhi.
-- Dates rest on stratigraphy plus **C-14**. The exam Mature bracket is about **2600–1900 BCE**.
+- Dates rest on stratigraphy plus **C-14**. The Mature bracket is about **2600–1900 BCE**.
 - **Sanauli** in Baghpat, Uttar Pradesh, was announced by ASI in **2018**.
 - It yielded wooden coffins, copper antennae swords, and **chariot burials**.
 - Sanauli is Late Harappan / OCP. It is **not** a Mature grid-city with a Great Bath.
 
-> **Exam note:** Sahni is Harappa. Banerji is Mohenjo-daro. Wheeler is later method, not the discoverer.
+> ** note:** Sahni is Harappa. Banerji is Mohenjo-daro. Wheeler is later method, not the discoverer.
 
 ---
 
@@ -307,11 +305,11 @@ D. 3 2 4 1
 - **Bhirrana** is in Haryana.
 - **Manda** is in Jammu and Kashmir.
 
-> **Exam note:** UP site pair = **Mandi + Hulas**; Rakhigarhi is in Haryana. Eastern boundary = **Alamgirpur + Hulas**; Kalibangan and Lothal are not the eastern edge.
+> ** note:** UP site pair = **Mandi + Hulas**; Rakhigarhi is in Haryana. Eastern boundary = **Alamgirpur + Hulas**; Kalibangan and Lothal are not the eastern edge.
 
 **PYQ — UPPCS Prelims 2025, Q87**
 
-Which IVC sites are in present-day Uttar Pradesh? 1. Mandi  2. Rakhigarhi  3. Hulas  
+Which IVC sites are in present-day Uttar Pradesh? 1. Mandi 2. Rakhigarhi 3. Hulas
 
 A. 1 and 2
 
@@ -330,8 +328,8 @@ D. Only 1
 
 **PYQ — UPPCS Prelims 2023, Q28**
 
-The eastern boundary of the Harappan culture is indicated by which of the following?  
-A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
+The eastern boundary of the Harappan culture is indicated by which of the following?
+A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
 
 <details>
 <summary>Show answer</summary>
@@ -342,8 +340,8 @@ A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
 
 **PYQ — UPPCS Prelims 2021, Q100**
 
-In which State of India is the Harappan Civilization site Mandi situated?  
-A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
+In which State of India is the Harappan Civilization site Mandi situated?
+A. Gujarat B. Haryana C. Rajasthan D. Uttar Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -354,8 +352,8 @@ A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
 
 **PYQ — UPPCS Prelims 2018, Q88**
 
-Which centres related to Indus Valley are in Uttar Pradesh?  
-I. Kalibanga  II. Lothal  III. Alamgirpur  IV. Hulas  
+Which centres related to Indus Valley are in Uttar Pradesh?
+I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
 
 A. I, II, III, IV
 
@@ -376,7 +374,7 @@ D. III, IV
 
 ## 2.6 Major Ports of Ancient India
 
-**Harappan coast first | later historic ports are a separate syllabus lock**
+**Harappan coast first | later historic ports are a separate syllabus fact**
 
 - **Lothal** is the only widely accepted **artificial dockyard**, a basin with a spillway.
 - A warehouse stood on a platform beside the basin.
@@ -402,12 +400,12 @@ D. III, IV
 - **Arikamedu** near Puducherry yielded Roman amphorae.
 - **Tamralipti** in Bengal served the east coast and Southeast Asia.
 
-> **Exam note:** The dockyard is **Lothal**. Boat models are **Mohenjo-daro and Lothal**. Dholavira is not the port in that question.
+> ** note:** The dockyard is **Lothal**. Boat models are **Mohenjo-daro and Lothal**. Dholavira is not the port in that question.
 
 **PYQ — UPPCS Prelims 2022, Q68**
 
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?  
-A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal  D. Kalibangan and Ropar
+From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
+A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D. Kalibangan and Ropar
 
 <details>
 <summary>Show answer</summary>
@@ -426,7 +424,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - Craft towns: Chanhudaro (beads), Nageshwar (shell), Lothal (beads + port).
 - Do **not** import Mauryan **shreni** (guild) into IVC — that is a later institution.
 
-> **Exam note:** 2020 match: IVC = **Urban**. “Harappan coin economy” is false.
+> ** note:** 2020 match: IVC = **Urban**. “Harappan coin economy” is false.
 
 ---
 
@@ -434,12 +432,12 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 - Mesopotamian texts call the region **Meluhha**. **Dilmun** = Bahrain entrepot. **Magan** = Oman (copper).
 - **Exports:** carnelian beads, cotton cloth, ivory, timber, shell, peacock (in texts).
-- **Imports / raw:** **lapis** (Badakhshan via **Shortughai**), copper (Khetri / Baluchistan), tin, silver, gold (Kolar hinterland is often cited).
+- **Imports / raw:lapis** (Badakhshan via **Shortughai**), copper (Khetri / Baluchistan), tin, silver, gold (Kolar hinterland is often cited).
 - Steatite from Kirthar/Baluchistan; shell from Nageshwar and the Makran.
 - Seals of Harappan type turn up in the Gulf and Sumer — proof of contact, not of political empire.
 - Inland: ox-carts (terracotta models), river boats on Indus–Ghaggar.
 
-> **Exam note:** Meluhha ≈ Harappan land. Shreni is **not** a Harappan guild.
+> ** note:** Meluhha ≈ Harappan land. Shreni is **not** a Harappan guild.
 
 ---
 
@@ -465,7 +463,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - “Unwalled peaceful villages” is too simple.
 - **No** palace of a named king has been identified.
 
-> **Exam note:** The citadel is **west**. The Great Bath is **not** at every city.
+> ** note:** The citadel is **west**. The Great Bath is **not** at every city.
 
 ---
 
@@ -483,7 +481,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - It is a **ritual tank**, not a sports pool.
 - Kalibangan’s drainage is **not** in the same class. That is a favourite “which is NOT true of all sites” trap.
 
-> **Exam note:** The Great Bath is at **Mohenjo-daro only**.
+> ** note:** The Great Bath is at **Mohenjo-daro only**.
 
 ---
 
@@ -511,7 +509,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - Camel bones are reported at Kalibangan.
 - Elephant, rhinoceros, and tiger appear on **seals** as wild or sacred animals, not as farm stock.
 
-> **Exam note:** The ploughed field is **Kalibangan**. Cotton is yes. Horse is **not** a safe “yes.”
+> ** note:** The ploughed field is **Kalibangan**. Cotton is yes. Horse is **not** a safe “yes.”
 
 ---
 
@@ -536,7 +534,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - Spindle whorls show textile work. Cotton was the cloth.
 - Brick-making was a civic industry with a standard size.
 
-> **Exam note:** The dancing girl is **bronze**, from Mohenjo-daro, about **10.5 cm**. Chanhudaro is beads with **no citadel**.
+> ** note:** The dancing girl is **bronze**, from Mohenjo-daro, about **10.5 cm**. Chanhudaro is beads with **no citadel**.
 
 ---
 
@@ -565,7 +563,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - **Cemetery H** at Harappa is Late Harappan, with painted urns and fractional burial.
 - Cemetery H is a **Late Harappan** burial phase at Harappa. It does **not** prove an Aryan invasion by itself.
 
-> **Exam note:** “A Hindu temple was excavated at Mohenjo-daro” is false. Pashupati is an **interpretation**.
+> ** note:** “A Hindu temple was excavated at Mohenjo-daro” is false. Pashupati is an **interpretation**.
 
 ---
 
@@ -577,7 +575,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - No bilingual (no Rosetta Stone). Dravidian vs Indo-Aryan readings exist; **neither is proved**.
 - Appears fully in **Mature** phase; thins out in Late Harappan.
 
-> **Exam note:** “Script has been read as Sanskrit” = false. Signboard = **Dholavira**.
+> ** note:** “Script has been read as Sanskrit” = false. Signboard = **Dholavira**.
 
 ---
 
@@ -591,19 +589,19 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - Harappan seals in Mesopotamia = trade, not conquest.
 - Horse is **not** the standard seal animal (that trap confuses unicorn with horse).
 
-> **Exam note:** Material = **steatite**. Unicorn ≠ horse.
+> ** note:** Material = **steatite**. Unicorn ≠ horse.
 
 ---
 
 ## 2.16 Weights and Measures
 
 - Cubical weights of **chert / jasper / black stone**, same system from Afghanistan to Maharashtra.
-- Series: **1, 2, 4, 8, 16, 32, 64…** then bigger decimal jumps (**160, 200, 320, 640…**). Exam one-liner: **16** is the key ratio.
+- Series: **1, 2, 4, 8, 16, 32, 64…** then bigger decimal jumps (**160, 200, 320, 640…**). one-liner: **16** is the key ratio.
 - Smallest unit often ~**0.85 g**.
 - Length: shell/ivory **scale** at Mohenjo-daro; another at Lothal. Cubit-like units debated.
 - No gold punch-marked coins (those are later Janapada/Mahajanapada).
 
-> **Exam note:** Weights = **stone cubes**, not minted coins.
+> ** note:** Weights = **stone cubes**, not minted coins.
 
 ---
 
@@ -613,12 +611,12 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 - Three parts: **citadel, middle town, lower town** — unique among big Harappan cities.
 - Built more in **stone** than the all-brick Punjab–Sindh cities.
-- Elaborate **water harvesting**: check dams, storm channels, about **16 reservoirs** (exam number).
+- Elaborate **water harvesting**: check dams, storm channels, about **16 reservoirs** (number).
 - Famous **signboard** of about **10** large Harappan signs near the northern gate — biggest public inscription.
 - Street drainage is **not** a clone of Mohenjo-daro’s covered-brick textbook.
 - Inland Kutch trade via the Rann; **not** Lothal’s dockyard; **not** the 2022 boat-model answer.
 
-> **Exam note:** UNESCO **2021** = Dholavira. Water ≠ dock.
+> ** note:** UNESCO **2021** = Dholavira. Water ≠ dock.
 
 ---
 
@@ -631,7 +629,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - DNA papers (Shinde et al.) are used in “Aryan” debates — for Prelims: site = **Haryana**, **not** the eastern end, **not UP**.
 - Budget **2026**: listed with Lothal among 15 experiential archaeological destinations.
 
-> **Exam note:** Rakhigarhi is in **Haryana**, not Uttar Pradesh. Eastern boundary remains **Alamgirpur**.
+> ** note:** Rakhigarhi is in **Haryana**, not Uttar Pradesh. Eastern boundary remains **Alamgirpur**.
 
 ---
 
@@ -645,7 +643,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - Acropolis + lower town; linked to the Gulf of Khambhat by the Bhogavo.
 - **Not** in UP. **Not** Dholavira.
 
-> **Exam note:** If the option says dockyard / port / boats, think **Lothal** first.
+> ** note:** If the option says dockyard / port / boats, think **Lothal** first.
 
 ---
 
@@ -653,13 +651,13 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 **Hanumangarh, Rajasthan | Ghaggar | B.B. Lal**
 
-- Pre-Harappan **ploughed field** (criss-cross furrows) — unique agriculture lock.
+- Pre-Harappan **ploughed field** (criss-cross furrows) — unique agriculture fact.
 - **Fire altars** on citadel and in the lower town; terracotta cakes.
 - Citadel + lower town; early levels mud-brick; **drainage poorer** than Mohenjo-daro.
 - Cylindrical seals (different from the common square steatite type); **camel** bones reported.
 - **Not in UP** (2018 distractor).
 
-> **Exam note:** Ploughed field + fire altars = **Kalibangan**. Great Bath ≠ here.
+> ** note:** Ploughed field + fire altars = **Kalibangan**. Great Bath ≠ here.
 
 ---
 
@@ -706,7 +704,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - The culture is rural and pre-urban. It sits **before** PGW and long before NBPW cities.
 - Trap: “anthropomorph” on a paper usually means this **Gangetic copper hoard** type, not a Harappan seal figure.
 
-> **Exam note:** Anthropomorph = Gangetic Copper Hoard shape. Not a Gujarat dockyard craft.
+> ** note:** Anthropomorph = Gangetic Copper Hoard shape. Not a Gujarat dockyard craft.
 
 ---
 
@@ -722,26 +720,26 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - OCP is **not** Lothal red ware. It is **not** megalithic black-and-red ware of the south.
 - Sequence memory for the doab: **Late Harappan / OCP → PGW → NBPW**.
 
-> **Exam note:** OCP = **doab**, not Lothal red ware. Hastinapur OCP ≠ automatic “Mahabharata proved.”
+> ** note:** OCP = **doab**, not Lothal red ware. Hastinapur OCP ≠ automatic “Mahabharata proved.”
 
 ---
 
 ## UP Focus (once)
 
-- **Alamgirpur** (Meerut) — eastern boundary, 2023 Q28.  
-- **Hulas** (Baghpat) — 2018, 2025.  
-- **Mandi** (Bijnor) — 2021, 2025.  
-- **Sanauli** (Baghpat) — 2018 chariots, Late Harappan/OCP.  
-- OCP belt = western UP doab (Hastinapur).  
+- **Alamgirpur** (Meerut) — eastern boundary, 2023 Q28.
+- **Hulas** (Baghpat) — 2018, 2025.
+- **Mandi** (Bijnor) — 2021, 2025.
+- **Sanauli** (Baghpat) — 2018 chariots, Late Harappan/OCP.
+- OCP belt = western UP doab (Hastinapur).
 - Rakhigarhi is **not** this list.
 
 ---
 
 ## Current Affairs
 
-- **2021:** Dholavira → UNESCO World Heritage Site.  
-- **2018:** Sanauli chariot burials (ASI).  
-- **2026:** Rakhigarhi skeletons to AnSI (Kolkata) and BSIP Lucknow for DNA / facial reconstruction; ASI 3-year excavation.  
+- **2021:** Dholavira → UNESCO World Heritage Site.
+- **2018:** Sanauli chariot burials (ASI).
+- **2026:** Rakhigarhi skeletons to AnSI (Kolkata) and BSIP Lucknow for DNA / facial reconstruction; ASI 3-year excavation.
 - **Budget 2026:** 15 archaeological sites as experiential destinations, including **Lothal** and **Rakhigarhi**.
 
 ---
@@ -752,8 +750,8 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 **Q1.** Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
 
-1. Mandi  
-2. Rakhigarhi  
+1. Mandi
+2. Rakhigarhi
 3. Hulas
 
 A. 1 and 2
@@ -767,7 +765,7 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Same lock as 2025 Q87. Rakhigarhi = Haryana.
+**Ans: C** — Same fact as 2025 Q87. Rakhigarhi = Haryana.
 
 </details>
 
@@ -775,7 +773,7 @@ D. Only 1
 
 **Q2.** The eastern boundary of the Harappan culture is indicated by:
 
-A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
+A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
 
 <details>
 <summary>Show answer</summary>
@@ -788,7 +786,7 @@ A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
 
 **Q3.** With reference to Harappan sites, which of the following statements is/are correct?
 
-1. Mandi is in Bijnor district of Uttar Pradesh.  
+1. Mandi is in Bijnor district of Uttar Pradesh.
 2. Manda is the northernmost site, on the Chenab in Jammu.
 
 A. Only 1
@@ -810,15 +808,15 @@ D. Neither 1 nor 2
 
 **Q4.** From which sites are figures or models of boats found?
 
-A. Dholavira and Bhagatrav  
-B. Harappa and Kot Diji  
-C. Mohenjo-daro and Lothal  
+A. Dholavira and Bhagatrav
+B. Harappa and Kot Diji
+C. Mohenjo-daro and Lothal
 D. Kalibangan and Ropar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2022 Q68 lock.
+**Ans: C** — 2022 Q68 fact.
 
 </details>
 
@@ -852,7 +850,7 @@ D. 3 2 4 1
 
 **Q6.** Which centres related to the Indus Valley are in Uttar Pradesh?
 
-I. Kalibangan  II. Lothal  III. Alamgirpur  IV. Hulas
+I. Kalibangan II. Lothal III. Alamgirpur IV. Hulas
 
 A. I, II, III, IV
 
@@ -899,9 +897,9 @@ D. 4 3 1 2
 
 **Q8.** Arrange the following from west to east:
 
-1. Alamgirpur  
-2. Sutkagen-dor  
-3. Kalibangan  
+1. Alamgirpur
+2. Sutkagen-dor
+3. Kalibangan
 4. Harappa
 
 A. 2, 4, 3, 1
@@ -923,8 +921,8 @@ D. 2, 4, 1, 3
 
 **Q9.** With reference to the discovery of the Indus civilization, which of the following statements is/are correct?
 
-1. Daya Ram Sahni excavated Harappa in 1921.  
-2. R.D. Banerji excavated Mohenjo-daro in 1922.  
+1. Daya Ram Sahni excavated Harappa in 1921.
+2. R.D. Banerji excavated Mohenjo-daro in 1922.
 3. Mortimer Wheeler discovered the civilization in 1921.
 
 A. 1 and 2 only
@@ -946,14 +944,14 @@ D. 1, 2 and 3
 
 **Q10.** Given below are two statements:
 
-**Assertion (A):** Rakhigarhi marks the eastern boundary of the Harappan culture.  
+**Assertion (A):** Rakhigarhi marks the eastern boundary of the Harappan culture.
 
 **Reason (R):** Rakhigarhi is in Hisar district of Haryana and is the largest Harappan site in India.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -967,7 +965,7 @@ D. (A) is false, but (R) is true
 
 **Q11.** Consider the following statements:
 
-1. Harappan burnt bricks commonly follow a 1:2:4 ratio.  
+1. Harappan burnt bricks commonly follow a 1:2:4 ratio.
 2. Iron tools were a regular feature of Mature Harappan cities.
 
 A. Only 1
@@ -989,8 +987,8 @@ D. Neither 1 nor 2
 
 **Q12.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Great Bath — Mohenjo-daro  
-2. Dockyard — Dholavira  
+1. Great Bath — Mohenjo-daro
+2. Dockyard — Dholavira
 3. Ploughed field — Kalibangan
 
 A. Only 2
@@ -1012,8 +1010,8 @@ D. Only 1
 
 **Q13.** With reference to Dholavira, which of the following statements is/are correct?
 
-1. It has citadel, middle town and lower town.  
-2. It was inscribed as a UNESCO World Heritage Site in 2021.  
+1. It has citadel, middle town and lower town.
+2. It was inscribed as a UNESCO World Heritage Site in 2021.
 3. It is famous as the principal Harappan dockyard.
 
 A. 1 and 2 only
@@ -1042,10 +1040,10 @@ D. 1, 2 and 3
 | C. B.B. Lal | 3. Kalibangan |
 | D. Daya Ram Sahni | 4. Harappa |
 
-Options:  
-A. A-2, B-1, C-3, D-4  
-B. A-1, B-2, C-4, D-3  
-C. A-2, B-3, C-1, D-4  
+Options:
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
 D. A-4, B-1, C-2, D-3
 
 <details>
@@ -1059,9 +1057,9 @@ D. A-4, B-1, C-2, D-3
 
 **Q15.** Chanhudaro is best known for:
 
-A. Great Bath and priest-king statue  
-B. Bead-making and absence of a citadel  
-C. Dockyard and warehouse  
+A. Great Bath and priest-king statue
+B. Bead-making and absence of a citadel
+C. Dockyard and warehouse
 D. Horse bones and a stone signboard
 
 <details>
@@ -1075,8 +1073,8 @@ D. Horse bones and a stone signboard
 
 **Q16.** Consider the following statements about Kalibangan:
 
-1. It lies on the Ghaggar in Rajasthan.  
-2. It has yielded a ploughed field and fire altars.  
+1. It lies on the Ghaggar in Rajasthan.
+2. It has yielded a ploughed field and fire altars.
 3. It is the easternmost Harappan site in India.
 
 How many of the above are correct?
@@ -1100,14 +1098,14 @@ D. None
 
 **Q17.** Given below are two statements:
 
-**Assertion (A):** Harappan script has been fully deciphered as an early form of Sanskrit.  
+**Assertion (A):** Harappan script has been fully deciphered as an early form of Sanskrit.
 
 **Reason (R):** Inscriptions are short and no bilingual text has been accepted.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1121,8 +1119,8 @@ D. (A) is false, but (R) is true
 
 **Q18.** With reference to Harappan seals, which of the following statements is/are correct?
 
-1. The unicorn is the most common motif.  
-2. Most seals are of steatite.  
+1. The unicorn is the most common motif.
+2. Most seals are of steatite.
 3. Seals were used as coined currency.
 
 A. 1 and 2 only
@@ -1144,7 +1142,7 @@ D. 1, 2 and 3
 
 **Q19.** Consider the following statements:
 
-1. Harappan weights follow a binary series in which 16 is a key unit.  
+1. Harappan weights follow a binary series in which 16 is a key unit.
 2. Gold punch-marked coins were issued by Harappan cities.
 
 A. Only 1
@@ -1166,9 +1164,9 @@ D. Neither 1 nor 2
 
 **Q20.** Which of the following pairs is **NOT** correctly matched?
 
-A. Shortughai — Afghanistan, lapis  
-B. Sutkagen-dor — western coastal site  
-C. Daimabad — southernmost, Maharashtra  
+A. Shortughai — Afghanistan, lapis
+B. Sutkagen-dor — western coastal site
+C. Daimabad — southernmost, Maharashtra
 D. Banawali — Gujarat dockyard
 
 <details>
@@ -1182,8 +1180,8 @@ D. Banawali — Gujarat dockyard
 
 **Q21.** With reference to Harappan agriculture, which of the following statements is/are correct?
 
-1. Wheat and barley were staple cereals.  
-2. Cotton was grown.  
+1. Wheat and barley were staple cereals.
+2. Cotton was grown.
 3. Rice evidence is reported from Lothal and Rangpur.
 
 A. 1 and 2 only
@@ -1205,15 +1203,15 @@ D. 1, 2 and 3
 
 **Q22.** Surkotada is associated with:
 
-A. Undisputed horse cavalry of Mature Harappa  
-B. Disputed horse bones at a fortified Kutch site  
-C. The Great Bath  
+A. Undisputed horse cavalry of Mature Harappa
+B. Disputed horse bones at a fortified Kutch site
+C. The Great Bath
 D. The eastern boundary in Meerut
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Horse remains are **disputed**, not a settled Harappan lock.
+**Ans: B** — Horse remains are **disputed**, not a settled Harappan fact.
 
 </details>
 
@@ -1228,10 +1226,10 @@ D. The eastern boundary in Meerut
 | C. Signboard | 3. Dholavira |
 | D. Dockyard | 4. Lothal |
 
-Options:  
-A. A-1, B-2, C-3, D-4  
-B. A-2, B-1, C-4, D-3  
-C. A-1, B-3, C-2, D-4  
+Options:
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
 D. A-1, B-2, C-4, D-3
 
 <details>
@@ -1245,7 +1243,7 @@ D. A-1, B-2, C-4, D-3
 
 **Q24.** Consider the following statements about OCP:
 
-1. It is mainly a Ganga–Yamuna doab pottery culture.  
+1. It is mainly a Ganga–Yamuna doab pottery culture.
 2. It is identical with Mature Harappan urban planning at Mohenjo-daro.
 
 A. Only 1
@@ -1267,8 +1265,8 @@ D. Neither 1 nor 2
 
 **Q25.** Copper Hoard Culture is characterised by:
 
-1. Anthropomorphs, harpoons and celts  
-2. Concentration in the Gangetic plain  
+1. Anthropomorphs, harpoons and celts
+2. Concentration in the Gangetic plain
 3. Identity with Lothal’s dockyard warehouse
 
 A. 1 and 2 only
@@ -1290,14 +1288,14 @@ D. 1, 2 and 3
 
 **Q26.** Given below are two statements:
 
-**Assertion (A):** Sanauli in Baghpat has yielded chariot burials.  
+**Assertion (A):** Sanauli in Baghpat has yielded chariot burials.
 
 **Reason (R):** Sanauli is a Mature Harappan grid-city with a Great Bath.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1311,9 +1309,9 @@ D. (A) is false, but (R) is true
 
 **Q27.** Which of the following is the correct north-to-south order?
 
-A. Daimabad — Kalibangan — Manda  
-B. Manda — Kalibangan — Daimabad  
-C. Kalibangan — Manda — Daimabad  
+A. Daimabad — Kalibangan — Manda
+B. Manda — Kalibangan — Daimabad
+C. Kalibangan — Manda — Daimabad
 D. Manda — Daimabad — Kalibangan
 
 <details>
@@ -1327,7 +1325,7 @@ D. Manda — Daimabad — Kalibangan
 
 **Q28.** With reference to Harappan religion, which of the following statements is/are correct?
 
-1. A Pashupati-type seal was found at Mohenjo-daro.  
+1. A Pashupati-type seal was found at Mohenjo-daro.
 2. Monumental stone temples like later Hindu garbhagrihas have been identified at every major site.
 
 A. Only 1
@@ -1349,7 +1347,7 @@ D. Neither 1 nor 2
 
 **Q29.** Bhirrana is located in:
 
-A. Gujarat  B. Haryana  C. Uttar Pradesh  D. Rajasthan
+A. Gujarat B. Haryana C. Uttar Pradesh D. Rajasthan
 
 <details>
 <summary>Show answer</summary>
@@ -1362,7 +1360,7 @@ A. Gujarat  B. Haryana  C. Uttar Pradesh  D. Rajasthan
 
 **Q30.** Consider the following statements:
 
-1. Shortughai was a Harappan outpost in Afghanistan linked to lapis lazuli.  
+1. Shortughai was a Harappan outpost in Afghanistan linked to lapis lazuli.
 2. Chanhudaro was the westernmost coastal port on the Makran.
 
 A. Only 1
@@ -1384,8 +1382,8 @@ D. Neither 1 nor 2
 
 **Q31.** Which of the following pairs are **NOT** correctly matched?
 
-1. Padri — Gujarat  
-2. Balu — Uttar Pradesh  
+1. Padri — Gujarat
+2. Balu — Uttar Pradesh
 3. Hulas — Uttar Pradesh
 
 A. Only 2
@@ -1399,7 +1397,7 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Balu = Haryana (2020 Q12).
+**Ans: A** — Balu = Haryana.
 
 </details>
 
@@ -1407,8 +1405,8 @@ D. Only 1
 
 **Q32.** With reference to Lothal, which of the following statements is/are correct?
 
-1. It was excavated by S.R. Rao.  
-2. It had an artificial dockyard.  
+1. It was excavated by S.R. Rao.
+2. It had an artificial dockyard.
 3. It lies in present-day Uttar Pradesh.
 
 A. 1 and 2 only
@@ -1430,7 +1428,7 @@ D. 1, 2 and 3
 
 **Q33.** The Harappan site famous for a terracotta plough and a less grid-like, radial plan is:
 
-A. Mohenjo-daro  B. Banawali  C. Sutkagen-dor  D. Alamgirpur
+A. Mohenjo-daro B. Banawali C. Sutkagen-dor D. Alamgirpur
 
 <details>
 <summary>Show answer</summary>
@@ -1443,8 +1441,8 @@ A. Mohenjo-daro  B. Banawali  C. Sutkagen-dor  D. Alamgirpur
 
 **Q34.** Consider the following statements about town planning:
 
-1. Most cities show a western citadel and an eastern lower town.  
-2. Dholavira uniquely shows a middle town as well.  
+1. Most cities show a western citadel and an eastern lower town.
+2. Dholavira uniquely shows a middle town as well.
 3. Every site has a Great Bath.
 
 A. 1 and 2 only
@@ -1466,14 +1464,14 @@ D. 1, 2 and 3
 
 **Q35.** Given below are two statements:
 
-**Assertion (A):** Kalibangan is the best example of Harappan covered street drainage.  
+**Assertion (A):** Kalibangan is the best example of Harappan covered street drainage.
 
 **Reason (R):** Mohenjo-daro has an elaborate system of covered drains and house bathrooms.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1487,8 +1485,8 @@ D. (A) is false, but (R) is true
 
 **Q36.** Which of the following is/are correctly matched?
 
-1. Dilmun — Bahrain entrepot  
-2. Meluhha — name often taken as Harappan land in Mesopotamian texts  
+1. Dilmun — Bahrain entrepot
+2. Meluhha — name often taken as Harappan land in Mesopotamian texts
 3. Magan — Oman copper zone
 
 A. 1 and 2 only
@@ -1510,7 +1508,7 @@ D. 1, 2 and 3
 
 **Q37.** In which State is the Harappan site Mandi situated?
 
-A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
+A. Gujarat B. Haryana C. Rajasthan D. Uttar Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -1523,8 +1521,8 @@ A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
 
 **Q38.** Consider the following statements:
 
-1. Mature Harappan is roughly 2600–1900 BCE.  
-2. Late Harappan overlaps OCP in parts of the doab.  
+1. Mature Harappan is roughly 2600–1900 BCE.
+2. Late Harappan overlaps OCP in parts of the doab.
 3. Early Harappan is the phase of the Great Bath and unicorn seals at full urban scale.
 
 How many are correct?
@@ -1548,9 +1546,9 @@ D. None
 
 **Q39.** Which of the following pairs is correctly matched?
 
-A. Gungeria — largest Copper Hoard (MP)  
-B. Gungeria — Harappan dockyard (Gujarat)  
-C. Hastinapur — Great Bath  
+A. Gungeria — largest Copper Hoard (MP)
+B. Gungeria — Harappan dockyard (Gujarat)
+C. Hastinapur — Great Bath
 D. Ropar — easternmost IVC site
 
 <details>
@@ -1564,8 +1562,8 @@ D. Ropar — easternmost IVC site
 
 **Q40.** With reference to later ancient Indian ports (post-Harappan), which of the following statements is/are correct?
 
-1. Tamralipti was an east-coast port in Bengal.  
-2. Muziris was associated with Roman trade on the Kerala coast.  
+1. Tamralipti was an east-coast port in Bengal.
+2. Muziris was associated with Roman trade on the Kerala coast.
 3. Lothal was a Chola-period pepper emporium described in the Periplus.
 
 A. 1 and 2 only
@@ -1594,10 +1592,10 @@ D. 1, 2 and 3
 | C. Mandi | 3. Baghpat |
 | D. Sanauli | 4. Baghpat (chariot burials) |
 
-Options:  
-A. A-2, B-3, C-1, D-4  
-B. A-1, B-2, C-3, D-4  
-C. A-2, B-1, C-3, D-4  
+Options:
+A. A-2, B-3, C-1, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-3, D-4
 D. A-3, B-2, C-1, D-4
 
 <details>
@@ -1611,7 +1609,7 @@ D. A-3, B-2, C-1, D-4
 
 **Q42.** Consider the following statements:
 
-1. The dancing girl is a bronze lost-wax figure from Mohenjo-daro.  
+1. The dancing girl is a bronze lost-wax figure from Mohenjo-daro.
 2. The priest-king is a steatite bust from Mohenjo-daro.
 
 A. Only 1
@@ -1633,8 +1631,8 @@ D. Neither 1 nor 2
 
 **Q43.** Which of the following is/are correct about Harappan script?
 
-1. It is undeciphered.  
-2. The Dholavira signboard is the longest known grouping of signs.  
+1. It is undeciphered.
+2. The Dholavira signboard is the longest known grouping of signs.
 3. It is written only left to right, like modern English.
 
 A. 1 and 2 only
@@ -1656,14 +1654,14 @@ D. 1, 2 and 3
 
 **Q44.** Given below are two statements:
 
-**Assertion (A):** Cotton cultivation is among the distinctive Harappan agricultural locks.  
+**Assertion (A):** Cotton cultivation is among the distinctive Harappan agricultural facts.
 
 **Reason (R):** Harappans regularly smelted iron for ploughshares.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1677,7 +1675,7 @@ D. (A) is false, but (R) is true
 
 **Q45.** Which of the following statements is/are correct?
 
-1. Rakhigarhi has seven mounds and lies in Hisar, Haryana.  
+1. Rakhigarhi has seven mounds and lies in Hisar, Haryana.
 2. Union Budget 2026 listed Rakhigarhi and Lothal among sites to be developed as experiential cultural destinations.
 
 A. Only 1
@@ -1691,7 +1689,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — CA lock + geography lock.
+**Ans: C** — CA fact + geography fact.
 
 </details>
 
@@ -1707,8 +1705,8 @@ D. Neither 1 nor 2
 
 Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
 
-1. Mandi  
-2. Rakhigarhi  
+1. Mandi
+2. Rakhigarhi
 3. Hulas
 
 A. 1 and 2
@@ -1732,7 +1730,7 @@ D. Only 1
 
 The eastern boundary of the Harappan culture is indicated by which of the following?
 
-A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
+A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
 
 <details>
 <summary>Show answer</summary>
@@ -1747,9 +1745,9 @@ A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
 
 From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
 
-A. Dholavira and Bhagatrav  
-B. Harappa and Kot Diji  
-C. Mohenjo-daro and Lothal  
+A. Dholavira and Bhagatrav
+B. Harappa and Kot Diji
+C. Mohenjo-daro and Lothal
 D. Kalibangan and Ropar
 
 <details>
@@ -1765,7 +1763,7 @@ D. Kalibangan and Ropar
 
 In which State of India is the Harappan Civilization site Mandi situated?
 
-A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
+A. Gujarat B. Haryana C. Rajasthan D. Uttar Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -1834,7 +1832,7 @@ D. 4 3 1 2
 
 Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
 
-I. Kalibanga  II. Lothal  III. Alamgirpur  IV. Hulas
+I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
 
 A. I, II, III, IV
 
@@ -1857,14 +1855,14 @@ UPPCS Prelims **2024, 2019** — no question in `pyq/` maps to this topic after 
 
 ---
 
-## Common Traps — Exam Locks
+## Common Traps — Facts
 
 1. **Rakhigarhi in UP / eastern boundary** → **Hisar, Haryana**; east = **Alamgirpur**.
 2. **Mandi = Manda** → Mandi = **Bijnor, UP**; Manda = **J&K**, northernmost.
 3. **Lothal = Dholavira** → Lothal = **dockyard**; Dholavira = **water + signboard** (UNESCO 2021).
 4. **Boat models at Dholavira** → **Mohenjo-daro + Lothal** (2022).
 5. **Kalibangan / Lothal in UP** → Rajasthan / Gujarat (2018).
-6. **IVC = pastoral** → **Urban**; pastoral = **Rigvedic** (2020 Q21).
+6. **IVC = pastoral** → **Urban**; pastoral = **Rigvedic**.
 7. **Wheeler discovered IVC** → Sahni **1921**, Banerji **1922**, Marshall **1924**.
 8. **Great Bath at Harappa / Dholavira** → **Mohenjo-daro only**.
 9. **Iron / coins / decoded Sanskrit script** → all **false**.

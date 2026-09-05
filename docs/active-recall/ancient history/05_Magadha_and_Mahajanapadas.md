@@ -132,7 +132,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q9.** Match these mahajanapadas to their capitals for the UPPCS 2020 lock: Matsya, Kuru, Surasena, and Asmaka with Mathura, Potana, Viratnagar, and Indraprastha.
+**Q9.** Match these mahajanapadas to their capitals for the UPPCS 2020 fact: Matsya, Kuru, Surasena, and Asmaka with Mathura, Potana, Viratnagar, and Indraprastha.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -150,7 +150,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Bimbisara (Shrenika), about 544–492 BCE.** Capital **Girivraja**. About 52 years. Contemporary of the **Buddha and Mahavira**. Epic **Jarasandha / Brihadratha** is **not** this exam house.
+**Ans: Bimbisara (Shrenika), about 544–492 BCE.** Capital **Girivraja**. About 52 years. Contemporary of the **Buddha and Mahavira**. Epic **Jarasandha / Brihadratha** is **not** this house.
 
 </details>
 
@@ -379,14 +379,14 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Rapid fire
 
-**Q32.** From memory, link each name to its Magadha lock:
+**Q32.** From memory, link each name to its Magadha fact:
 
 | Recall item |
 |-------------|
 | Bimbisara dynasty |
 | Ajatashatru dynasty |
-| Shishunaga lock |
-| Mahapadma lock |
+| Shishunaga fact |
+| Mahapadma fact |
 | Kalashoka council |
 | Ajatashatru council |
 | Bimbisara contemporary |
@@ -397,12 +397,12 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Name | Lock |
+| Name | Fact |
 |------|------|
 | Bimbisara dynasty | **Haryanka** |
 | Ajatashatru dynasty | **Haryanka** |
-| Shishunaga lock | **Avanti** |
-| Mahapadma lock | **Nanda expansion** |
+| Shishunaga fact | **Avanti** |
+| Mahapadma fact | **Nanda expansion** |
 | Kalashoka council | **Second** (Vaishali) |
 | Ajatashatru council | **First** (Rajgir) |
 | Bimbisara contemporary | **Buddha / Mahavira** |
@@ -414,9 +414,9 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ---
 
-## Extra locks the drill skipped
+## Extra facts the drill skipped
 
-**Q33.** From memory, link each Magadha ruler to his main exam lock:
+**Q33.** From memory, link each Magadha ruler to his main key fact:
 
 | Recall item |
 |-------------|
@@ -431,7 +431,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Ruler | Lock |
+| Ruler | Fact |
 |-------|------|
 | Bimbisara | **Anga**, three marriages, patron of **Buddha** |
 | Ajatashatru | **Kosala + Vajji**, **Pataligrama**, **First Council** |

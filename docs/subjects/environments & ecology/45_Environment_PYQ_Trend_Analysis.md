@@ -1,14 +1,14 @@
 # Topic 45 — Environment PYQ Trend Analysis (UPPCS 2018–2025)
 ### ★ Revision Meta-File — How UPPCS Actually Tests Environment
 
-> **Purpose:** PYQ-derived exam intelligence — not a syllabus topic, but a **revision accelerator** after Topics 1–44  
-> **Data source:** All files in `pyq/` (UPPCS Prelims 2018–2025) — 121 Environment-tagged + ~20 cross-subject env-adjacent questions  
-> **Use when:** After completing topic notes; before mock tests; for last-week priority sorting  
+> **Purpose:** PYQ-derived intelligence — not a syllabus topic, but a **revision accelerator** after Topics 1–44
+> **Data source:** All files in `pyq/` (UPPCS Prelims 2018–2025) — 121 Environment-tagged + ~20 cross-subject env-adjacent questions
+> **Use when:** After completing topic notes; before mock tests; for last-week priority sorting
 > **Last verified:** July 2026
 
 ---
 
-## Consolidated — 18 Must-Score Locks
+## Consolidated — 18 Must-Score Facts
 
 1. Recent UPPCS papers give roughly **15–20 tagged environment marks** most years. Planning for only 8–10 is outdated.
 2. Tagged volume rose from about **12** questions (2018–20 average) to about **17.7** (2023–25 average).
@@ -25,15 +25,15 @@
 13. UP negative geography repeats: Rudrasagar = Tripura; Sultanpur = Haryana; Nokrek ≠ Manipur; many “UP BR” claims are false.
 14. True environment ROI is higher than tagged count because reports and protected-area facts leak into other GS subjects.
 15. Study ROI priority puts SDGs and UP protected-area traps near the top, then current issues, ecology, climate/pollution, and treaties.
-16. Emissions Gap Report = **UNEP** remains a cross-subject economy–environment lock.
+16. Emissions Gap Report = **UNEP** remains a cross-subject economy–environment fact.
 17. Format formula after 2025: prepare heavily for multi-statement and Match/NOT-matched, with a smaller share of pure direct MCQs.
 18. Volume formula for the next attempt: budget about **15–20 tagged** plus a few cross-subject environment hits.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Lock |
+| Pair | Fact |
 |------|------|
 | Tagged count vs true ROI | Tagged Qs understate env marks — add Economy/Geography leakage |
 | 2020/2024 dip vs trend | Dips are anomalies; plan for **15–20** env marks |
@@ -49,7 +49,7 @@
 |------|-----------|------|
 | **First pass** | §45.1 Volume + §45.2 Topic Heat Map | 10 min |
 | **Before mock test** | §45.3 Format Shift + §45.5 2025 Blueprint | 15 min |
-| **Last-week revision** | Consolidated locks + Trap Checklist + Study ROI | 10 min |
+| **Last-week revision** | Consolidated facts + Trap Checklist + Study ROI | 10 min |
 | **After each PYQ year** | §45.6 Year-wise snapshot | 5 min |
 
 ---
@@ -71,7 +71,7 @@
 
 - **Early period (2018–20):** average **12 questions** per paper.
 - **Recent period (2023–25):** average **17.7 questions** per paper, **+47% increase**.
-- **Exam planning rule:** budget **15–20 environment marks** in every attempt. Treating env as a 8-question afterthought is outdated.
+- ** planning rule:** budget **15–20 environment marks** in every attempt. Treating env as a 8-question afterthought is outdated.
 - **2020 and 2024 dips** are anomalies. Cross-subject env-adjacent questions (Economy reports, Geography protected areas) keep true environment ROI higher than tagged count alone.
 
 ### Broad Environment Footprint (Tagged + Cross-Subject)
@@ -103,7 +103,7 @@
 
 ### Tier 2 — Rising Fast (2023–25 surge)
 
-| Topic file | Δ vs 2018–20 | Exam pattern |
+| Topic file | Δ vs 2018–20 | pattern |
 |------------|--------------|--------------|
 | **15 — SDGs** | +9 | SDG 6/13/14/15 mapping; voluntary national review |
 | **07 — Wildlife** | +3 | Species-specific conservation ops |
@@ -154,7 +154,7 @@ Acid rain (39), EIA (14), renewable energy detail (22/27), disaster-env (23), gl
 | A/R | 2 | 11% |
 | Match | 2 | 11% |
 
-> **Exam note:** 2025 reversed the historical pattern — **68% multi-format** vs 32% historically. Your Practice Zones must mirror 2-statement + A/R, not only single MCQs.
+> ** note:** 2025 reversed the historical pattern — **68% multi-format** vs 32% historically. Your Practice Zones must mirror 2-statement + A/R, not only single MCQs.
 
 ### UPPCS Favourite Question Types — Ranked
 
@@ -249,7 +249,7 @@ Rising share of questions on **who publishes what** — less "define ecosystem,"
 
 ---
 
-## 45.5 — 2025 Environment Paper Blueprint (Nearest Exam Model)
+## 45.5 — 2025 Environment Paper Blueprint (Nearest Model)
 
 Full list of 19 Environment-tagged questions — use as mock-paper template:
 

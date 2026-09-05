@@ -897,9 +897,9 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q92.** Match each Veda to its UPPCS lock:
+**Q92.** Match each Veda to its UPPCS fact:
 
-| Veda | Lock to recall |
+| Veda | Fact to recall |
 |------|----------------|
 | Oldest Veda | ? |
 | Veda of melodies | ? |
@@ -909,7 +909,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Veda | Lock |
+| Veda | Fact |
 |------|------|
 | Oldest Veda | **Rigveda** |
 | Veda of melodies | **Samaveda** |
@@ -919,9 +919,9 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q93.** From memory, complete each Later/Early Vedic lock:
+**Q93.** From memory, complete each Later/Early Vedic fact:
 
-| Prompt | Lock |
+| Prompt | Fact |
 |--------|------|
 | Thunder/storm god | ? |
 | Fire god | ? |
@@ -937,7 +937,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Prompt | Lock |
+| Prompt | Fact |
 |--------|------|
 | Thunder/storm god | **Indra** |
 | Fire god | **Agni** |
@@ -954,7 +954,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ---
 
-## Extra locks the drill skipped
+## Extra facts the drill skipped
 
 **Q94.** What are the six Vedangas?
 

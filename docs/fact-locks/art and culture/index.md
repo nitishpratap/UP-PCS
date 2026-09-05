@@ -1,8 +1,8 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
-# Art and Culture — Fact Locks
+# Art and Culture — Fact Facts
 
 No sheets yet.

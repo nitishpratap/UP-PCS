@@ -8,13 +8,13 @@ Acid Rain | Causes | Effects | Prevention
 
 </details>
 
-> **Sources baked in:** NCERT Geography/Biology, CPCB norms, MoEFCC, CLRTAP/Gothenburg Protocol, Taj Trapezium case, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★ Medium — pH traps, CO₂ vs SO₂/NOx, Taj Mahal, treaty confusion  
+> **Sources baked in:** NCERT Geography/Biology, CPCB norms, MoEFCC, CLRTAP/Gothenburg Protocol, Taj Trapezium case, UPPCS PYQs 2018–2025
+> **Weight:** ★★ Medium — pH traps, CO₂ vs SO₂/NOx, Taj Mahal, treaty confusion
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **Acid rain** means wet or dry acidic deposition with pH below **5.6**.
 2. Normal unpolluted rain is already about **pH 5.6** because dissolved CO₂ forms weak carbonic acid — it is **not** pH 7.
@@ -37,13 +37,13 @@ Acid Rain | Causes | Effects | Prevention
 19. SO₂ is denser than air — a physical property sometimes used in distractors.
 20. Acid rain is **not** “rain only”; dry deposition counts too.
 21. Secondary pollutants H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx.
-22. FGD is flue-gas desulphurisation at power-plant chimneys — a mitigation hardware lock, not a treaty name.
-23. Calling CO₂ the chief severe acid-rain driver is wrong; SO₂ and NOx are the exam pair.
+22. FGD is flue-gas desulphurisation at power-plant chimneys — a mitigation hardware fact, not a treaty name.
+23. Calling CO₂ the chief severe acid-rain driver is wrong; SO₂ and NOx are the pair.
 24. Montreal Protocol does **not** control acid rain. Keep ozone chemistry out of acid-rain treaty options.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -74,11 +74,11 @@ Acid Rain | Causes | Effects | Prevention
 - Acidifying pollutants can travel **hundreds to thousands of km**, causing **transboundary damage**.
 - Soils and lakes with **limestone or calcium carbonate** have **buffering capacity** and resist acidification better than granite or thin acidic soils.
 
-> **Exam note:** UPPCS 2025 Q103 — both pH statements reversed → **Neither correct**.
+> ** note:** UPPCS 2025 Q103 — both pH statements reversed → **Neither correct**.
 
 **PYQ — UPPCS Prelims 2025, Q103**
 
-1. Acidic solutions have pH more than 7.  
+1. Acidic solutions have pH more than 7.
 2. Basic solutions have pH less than 7.
 
 A. Only 2
@@ -97,7 +97,7 @@ D. Only 1
 
 **PYQ — UPPCS Prelims 2024, Q108**
 
-(A) CO₂, SO₂, and NO₂ dissolve in rainwater and produce acid rain.  
+(A) CO₂, SO₂, and NO₂ dissolve in rainwater and produce acid rain.
 (R) Air is polluted due to high concentration of CO₂, SO₂, and oxides of nitrogen.
 
 A. Both true; R explains A
@@ -140,14 +140,14 @@ D. A true, R false
 - Natural sources include **volcanic SO₂** and **lightning NOx**, but anthropogenic sources dominate in industrial regions.
 - The **Singrauli–Sonbhadra belt** on the UP–MP border is a major Indian **SO₂ hotspot** from super thermal power plants.
 
-> **Exam note:** UPPCS 2025 Q43 — only **helium** is lighter than air among the listed gases; **SO₂ is heavier**.
+> ** note:** UPPCS 2025 Q43 — only **helium** is lighter than air among the listed gases; **SO₂ is heavier**.
 
 **PYQ — UPPCS Prelims 2025, Q43**
 
 Which gas/gases is/are lighter than air?
 
-1. Hydrogen chloride  
-2. Sulfur dioxide  
+1. Hydrogen chloride
+2. Sulfur dioxide
 3. Helium
 
 A. 1 and 2
@@ -187,11 +187,11 @@ D. Only 1
 - **SO₂ and NOx** cause **respiratory illness** — asthma, bronchitis, and lung irritation from acid aerosols and PM₂.₅.
 - **Lichens** are **bio-indicators of clean air**. They **die in high SO₂** and do **not** thrive in polluted areas.
 
-> **Exam note:** UPPCS 2025 Q61 — lichens as pollution indicators = true; grow well in polluted areas = **false**.
+> ** note:** UPPCS 2025 Q61 — lichens as pollution indicators = true; grow well in polluted areas = **false**.
 
 **PYQ — UPPCS Prelims 2025, Q61**
 
-1. Lichens are very good indicators of pollution.  
+1. Lichens are very good indicators of pollution.
 2. Lichens grow well in polluted areas.
 
 A. Only 2
@@ -247,9 +247,7 @@ D. Only 1
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
-
-**Q1.** Acid rain is defined as precipitation with pH:
+> **30 questionsQ1.** Acid rain is defined as precipitation with pH:
 
 A. Below 5.6
 
@@ -697,7 +695,7 @@ D. 2015
 
 </details>
 
-**Q29.** Assertion (A): Acid rain includes dry deposition.  
+**Q29.** Assertion (A): Acid rain includes dry deposition.
 Reason (R): SO₂ can settle on surfaces without rainfall.
 
 A. Both true; R explains A
@@ -734,21 +732,7 @@ D. Ramsar sites only
 
 ## Complete PYQ Bank (Topic 12)
 
-**Q1. UPPCS 2024, Q108** — CO₂/SO₂/NO₂ A/R → **Ans: C**
-
-**Q2. UPPCS 2025, Q103** — pH reversal trap → **Ans: B (Neither)**
-
-**Q3. UPPCS 2025, Q43** — Gases lighter than air → **Ans: B (Only helium)**
-
-**Q4. UPPCS 2025, Q61** — Lichens as indicators → **Ans: D (Only 1)**
-
-**Q5. UPSC pattern** — Normal rain slightly acidic due to → **CO₂**
-
-**Q6. UPSC pattern** — Acid rain caused by → **SO₂ and NOx**
-
-**Q7. UPSC pattern** — FGD used in → **Thermal power plants**
-
-**Q8. UPSC pattern** — Taj yellowing due to → **SO₂ pollution**
+**Q1. UPPCS 2024, Q108** — CO₂/SO₂/NO₂ A/R → **Ans: CQ2. UPPCS 2025, Q103** — pH reversal trap → **Ans: B (Neither)Q3. UPPCS 2025, Q43** — Gases lighter than air → **Ans: B (Only helium)Q4. UPPCS 2025, Q61** — Lichens as indicators → **Ans: D (Only 1)Q5. UPSC pattern** — Normal rain slightly acidic due to → **CO₂Q6. UPSC pattern** — Acid rain caused by → **SO₂ and NOxQ7. UPSC pattern** — FGD used in → **Thermal power plantsQ8. UPSC pattern** — Taj yellowing due to → **SO₂ pollution**
 
 ---
 
@@ -760,7 +744,7 @@ D. Ramsar sites only
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Normal rain pH = 7 | **~5.6** from CO₂ |
 | CO₂ = main acid rain cause | **Weak acid only**; SO₂/NOx = strong acids |

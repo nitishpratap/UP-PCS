@@ -1,13 +1,13 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
-# Fact Locks
+# Fact Facts
 
 **Must-memorise associations, tables, mnemonics, and traps** — the ratta layer for Prelims. Each sheet opens with a **compact priority strip** and **dense multi-column cards** for fast revision.
 
-Use **after** Subject Notes once, or **minutes before** the exam. Toggle **Focus mode** in the reading toolbar to hide sidebars for booklet-style revision.
+Use **after** Subject Notes once, or **minutes before** the . Toggle **Focus mode** in the reading toolbar to hide sidebars for booklet-style revision.
 
 <div class="study-grid" markdown>
 
@@ -34,11 +34,11 @@ Use **after** Subject Notes once, or **minutes before** the exam. Toggle **Focus
 
 </div>
 
-## How to use Fact Locks
+## How to use Fact Facts
 
 1. **Do not try to understand everything here.** Memorise highlighted associations, tables, and trap lines.
-2. **Pair with Subject Notes** for cause–course–result and PYQ depth; Fact Locks are the compressed spine only.
-3. **Close with Active Recall** — if a hidden-answer card fails, reopen the matching Fact Lock block.
+2. **Pair with Subject Notes** for cause–course–result and PYQ depth; Fact Facts are the compressed spine only.
+3. **Close with Active Recall** — if a hidden-answer card fails, reopen the matching Fact Fact block.
 
 !!! tip "Sheet labels"
-    **Must ratta** = exam-direct memorise. **Trap** = false statement UPPCS loves. **One-line ratta** = X → Y association drills.
+ **Must ratta** = direct memorise. **Trap** = false statement UPPCS loves. **One-line ratta** = X → Y association drills.

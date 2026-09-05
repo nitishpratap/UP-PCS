@@ -8,13 +8,13 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 </details>
 
-> **Sources baked in:** MoEFCC; ICAR; ICFRE; Biological Diversity Act 2002; ISFR 2023; UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — BSI/ZSI trap; ISFR→FSI; NBA Chennai; BMC→PBR; NBPGR Delhi  
+> **Sources baked in:** MoEFCC; ICAR; ICFRE; Biological Diversity Act 2002; ISFR 2023; UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — BSI/ZSI trap; ISFR→FSI; NBA Chennai; BMC→PBR; NBPGR Delhi
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Headquarters map: **Kolkata** — BSI and ZSI; **Dehradun** — FSI, FRI, and WII; **New Delhi** — NBPGR; **Chennai** — NBA.
 2. **BSI (1890, Kolkata)** surveys **plants** (*Flora*, plant Red Data Book). **ZSI (1916, Kolkata)** surveys **animals** (*Fauna*, animal Red Data Book).
@@ -34,7 +34,7 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 16. FRI research ≠ FSI satellite forest-cover accounting, even though both are Dehradun forestry institutions.
 17. WII is wildlife science/training — not the ISFR publisher and not the plant gene bank.
 18. Red Data Books from BSI/ZSI are national catalogues; IUCN Red List remains the global risk ladder (different chapter neighbour).
-19. NBA year lock rides on BDA **2002** institutionalisation — headquarters city remains Chennai.
+19. NBA year fact rides on BDA **2002** institutionalisation — headquarters city remains Chennai.
 20. Gene-bank NBPGR serves crop genetic resources for all states, including UP, from New Delhi.
 21. Forest-cover percentage traps for UP hinge on Chandauli + Shravasti, not a long distractor list of Terai districts.
 22. PBR is prepared locally by BMCs; it is not an NBA HQ publication series.
@@ -43,7 +43,7 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -72,7 +72,7 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 - Discovers and describes new plant species — especially Western Ghats, Northeast, Andamans.
 - **Does not** survey animals (ZSI), map forest cover (FSI), or store crop gene banks (NBPGR).
 
-> **Exam note:** BSI = **plants only**. "BSI surveys animals" = **FALSE**.
+> ** note:** BSI = **plants only**. "BSI surveys animals" = **FALSE**.
 
 ---
 
@@ -86,7 +86,7 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 - Maintains type specimens; scientific data informs WPA Schedule amendments.
 - **ZSI ≠ WII:** ZSI = species inventory/taxonomy; WII = applied wildlife ecology and training.
 
-> **Exam note:** ZSI = **animals only**. Younger than BSI (1890 vs 1916).
+> ** note:** ZSI = **animals only**. Younger than BSI (1890 vs 1916).
 
 ---
 
@@ -106,7 +106,7 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 ISFR 2023 — UP districts with forest over >20% of area: (1) Bahraich (2) Chandauli (3) Shravasti
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -114,7 +114,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 </details>
 
-> **Exam note:** ISFR = **FSI only**. Bahraich Terai ≠ automatically >20% cover.
+> ** note:** ISFR = **FSI only**. Bahraich Terai ≠ automatically >20% cover.
 
 ---
 
@@ -134,7 +134,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 | Role | Research | Cover survey |
 | Output | Silviculture protocols | **ISFR** |
 
-> **Exam note:** "FRI publishes ISFR" = **FALSE**.
+> ** note:** "FRI publishes ISFR" = **FALSE**.
 
 ---
 
@@ -149,7 +149,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 - Studies population ecology, human–wildlife conflict, corridors (including UP Terai).
 - **Does not** do national plant/animal taxonomy (BSI/ZSI) or publish ISFR (FSI).
 
-> **Exam note:** Dehradun trio — **FSI** (cover), **FRI** (forestry research), **WII** (wildlife).
+> ** note:** Dehradun trio — **FSI** (cover), **FRI** (forestry research), **WII** (wildlife).
 
 ---
 
@@ -170,7 +170,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 | State | SBB | State capital | Domestic commercial access |
 | Local | BMC | Panchayat/ward | **PBR** |
 
-> **Exam note:** NBA HQ = **Chennai**. "NBA prepares PBR" = **FALSE**.
+> ** note:** NBA HQ = **Chennai**. "NBA prepares PBR" = **FALSE**.
 
 ---
 
@@ -185,7 +185,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 - Can identify/recommend **Biodiversity Heritage Sites**.
 - **SBB ≠ SPCB:** SBB = biodiversity (BDA); SPCB = pollution (Water/Air Acts).
 
-> **Exam note:** Do not confuse State Biodiversity Board with State Pollution Control Board.
+> ** note:** Do not confuse State Biodiversity Board with State Pollution Control Board.
 
 ---
 
@@ -199,7 +199,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 - Works under SBB guidance; national reporting links upward to NBA.
 - **PBR is not prepared by NBA or BSI**.
 
-> **Exam note:** **BMC → PBR**. National apex ≠ local register.
+> ** note:BMC → PBR**. National apex ≠ local register.
 
 ---
 
@@ -214,7 +214,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 - **NBPGR ≠ BSI:** BSI surveys/taxonomy (Kolkata); NBPGR stores germplasm (Delhi).
 - **NBPGR ≠ NBAGR:** animals/livestock gene bank is **NBAGR, Karnal**.
 
-> **Exam note:** NBPGR = **New Delhi**, plants. Not Kolkata. Not animal gene bank.
+> ** note:** NBPGR = **New Delhi**, plants. Not Kolkata. Not animal gene bank.
 
 ---
 
@@ -223,7 +223,7 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 **Q1.** BSI surveys:
 
-Options: A. Plants  B. Animals only  C. Forest cover %  D. Oil reserves
+Options: A. Plants B. Animals only C. Forest cover % D. Oil reserves
 
 <details><summary>Show answer</summary>
 
@@ -233,7 +233,7 @@ Options: A. Plants  B. Animals only  C. Forest cover %  D. Oil reserves
 
 **Q2.** ZSI headquarters:
 
-Options: A. Kolkata  B. Chennai  C. New Delhi  D. Mumbai
+Options: A. Kolkata B. Chennai C. New Delhi D. Mumbai
 
 <details><summary>Show answer</summary>
 
@@ -243,7 +243,7 @@ Options: A. Kolkata  B. Chennai  C. New Delhi  D. Mumbai
 
 **Q3.** Red Data Book of Indian plants is by:
 
-Options: A. BSI  B. ZSI  C. FSI  D. WII
+Options: A. BSI B. ZSI C. FSI D. WII
 
 <details><summary>Show answer</summary>
 
@@ -253,7 +253,7 @@ Options: A. BSI  B. ZSI  C. FSI  D. WII
 
 **Q4.** Red Data Book of Indian animals is by:
 
-Options: A. ZSI  B. BSI  C. FSI  D. NBA
+Options: A. ZSI B. BSI C. FSI D. NBA
 
 <details><summary>Show answer</summary>
 
@@ -263,7 +263,7 @@ Options: A. ZSI  B. BSI  C. FSI  D. NBA
 
 **Q5.** ISFR is published by:
 
-Options: A. FSI  B. FRI  C. CPCB  D. BSI
+Options: A. FSI B. FRI C. CPCB D. BSI
 
 <details><summary>Show answer</summary>
 
@@ -273,7 +273,7 @@ Options: A. FSI  B. FRI  C. CPCB  D. BSI
 
 **Q6.** ISFR frequency:
 
-Options: A. Every 2 years  B. Daily  C. Every 50 years  D. Never
+Options: A. Every 2 years B. Daily C. Every 50 years D. Never
 
 <details><summary>Show answer</summary>
 
@@ -283,7 +283,7 @@ Options: A. Every 2 years  B. Daily  C. Every 50 years  D. Never
 
 **Q7.** FRI primary role:
 
-Options: A. Forestry research  B. Publish ISFR  C. Regulate foreign ABS  D. Prepare PBR
+Options: A. Forestry research B. Publish ISFR C. Regulate foreign ABS D. Prepare PBR
 
 <details><summary>Show answer</summary>
 
@@ -293,7 +293,7 @@ Options: A. Forestry research  B. Publish ISFR  C. Regulate foreign ABS  D. Prep
 
 **Q8.** WII is located at:
 
-Options: A. Dehradun  B. Chennai  C. Kolkata  D. Mumbai
+Options: A. Dehradun B. Chennai C. Kolkata D. Mumbai
 
 <details><summary>Show answer</summary>
 
@@ -303,7 +303,7 @@ Options: A. Dehradun  B. Chennai  C. Kolkata  D. Mumbai
 
 **Q9.** NBA headquarters:
 
-Options: A. Chennai  B. New Delhi  C. Kolkata  D. Lucknow
+Options: A. Chennai B. New Delhi C. Kolkata D. Lucknow
 
 <details><summary>Show answer</summary>
 
@@ -313,7 +313,7 @@ Options: A. Chennai  B. New Delhi  C. Kolkata  D. Lucknow
 
 **Q10.** People's Biodiversity Register is prepared by:
 
-Options: A. BMC  B. NBA  C. FSI  D. CPCB
+Options: A. BMC B. NBA C. FSI D. CPCB
 
 <details><summary>Show answer</summary>
 
@@ -323,7 +323,7 @@ Options: A. BMC  B. NBA  C. FSI  D. CPCB
 
 **Q11.** NBPGR is in:
 
-Options: A. New Delhi  B. Kolkata  C. Karnal  D. Chennai
+Options: A. New Delhi B. Kolkata C. Karnal D. Chennai
 
 <details><summary>Show answer</summary>
 
@@ -333,7 +333,7 @@ Options: A. New Delhi  B. Kolkata  C. Karnal  D. Chennai
 
 **Q12.** Animal gene bank (livestock) is:
 
-Options: A. NBAGR Karnal  B. NBPGR Delhi  C. BSI Kolkata  D. FSI Dehradun
+Options: A. NBAGR Karnal B. NBPGR Delhi C. BSI Kolkata D. FSI Dehradun
 
 <details><summary>Show answer</summary>
 
@@ -343,7 +343,7 @@ Options: A. NBAGR Karnal  B. NBPGR Delhi  C. BSI Kolkata  D. FSI Dehradun
 
 **Q13.** As per ISFR 2023, UP districts >20% forest:
 
-Options: A. Chandauli and Shravasti  B. Bahraich only  C. All 75 districts  D. None
+Options: A. Chandauli and Shravasti B. Bahraich only C. All 75 districts D. None
 
 <details><summary>Show answer</summary>
 
@@ -353,7 +353,7 @@ Options: A. Chandauli and Shravasti  B. Bahraich only  C. All 75 districts  D. N
 
 **Q14.** Bahraich forest cover >20%?
 
-Options: A. No  B. Yes  C. Only in winter  D. Only mangrove cover
+Options: A. No B. Yes C. Only in winter D. Only mangrove cover
 
 <details><summary>Show answer</summary>
 
@@ -363,7 +363,7 @@ Options: A. No  B. Yes  C. Only in winter  D. Only mangrove cover
 
 **Q15.** BDA 2002 three-tier order (top to bottom):
 
-Options: A. NBA–SBB–BMC  B. BMC–NBA–SBB  C. FSI–FRI–WII  D. CPCB–SPCB–BMC
+Options: A. NBA–SBB–BMC B. BMC–NBA–SBB C. FSI–FRI–WII D. CPCB–SPCB–BMC
 
 <details><summary>Show answer</summary>
 
@@ -373,7 +373,7 @@ Options: A. NBA–SBB–BMC  B. BMC–NBA–SBB  C. FSI–FRI–WII  D. CPCB–S
 
 **Q16.** SBB differs from SPCB because SBB deals with:
 
-Options: A. Biodiversity  B. Only air quality standards  C. Only nuclear waste  D. Only ozone
+Options: A. Biodiversity B. Only air quality standards C. Only nuclear waste D. Only ozone
 
 <details><summary>Show answer</summary>
 
@@ -383,7 +383,7 @@ Options: A. Biodiversity  B. Only air quality standards  C. Only nuclear waste  
 
 **Q17.** *Flora of India* is associated with:
 
-Options: A. BSI  B. ZSI  C. FSI  D. WII
+Options: A. BSI B. ZSI C. FSI D. WII
 
 <details><summary>Show answer</summary>
 
@@ -393,7 +393,7 @@ Options: A. BSI  B. ZSI  C. FSI  D. WII
 
 **Q18.** Tiger census methodology is linked to:
 
-Options: A. WII  B. BSI  C. NBPGR  D. CPCB
+Options: A. WII B. BSI C. NBPGR D. CPCB
 
 <details><summary>Show answer</summary>
 
@@ -403,7 +403,7 @@ Options: A. WII  B. BSI  C. NBPGR  D. CPCB
 
 **Q19.** NBPGR comes under:
 
-Options: A. ICAR  B. CZA  C. CITES Secretariat  D. IMF
+Options: A. ICAR B. CZA C. CITES Secretariat D. IMF
 
 <details><summary>Show answer</summary>
 
@@ -413,7 +413,7 @@ Options: A. ICAR  B. CZA  C. CITES Secretariat  D. IMF
 
 **Q20.** FSI established in:
 
-Options: A. 1981  B. 1890  C. 1916  D. 1906
+Options: A. 1981 B. 1890 C. 1916 D. 1906
 
 <details><summary>Show answer</summary>
 
@@ -423,7 +423,7 @@ Options: A. 1981  B. 1890  C. 1916  D. 1906
 
 **Q21.** FRI established in:
 
-Options: A. 1906  B. 1981  C. 1982  D. 2002
+Options: A. 1906 B. 1981 C. 1982 D. 2002
 
 <details><summary>Show answer</summary>
 
@@ -433,7 +433,7 @@ Options: A. 1906  B. 1981  C. 1982  D. 2002
 
 **Q22.** Consider: (1) NBA HQ is Chennai. (2) NBA prepares all PBRs itself.
 
-Options: A. Only 1  B. Only 2  C. Both  D. Neither
+Options: A. Only 1 B. Only 2 C. Both D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -443,7 +443,7 @@ Options: A. Only 1  B. Only 2  C. Both  D. Neither
 
 **Q23.** Forest cover definition uses canopy density at least:
 
-Options: A. 10%  B. 90%  C. 1%  D. 0%
+Options: A. 10% B. 90% C. 1% D. 0%
 
 <details><summary>Show answer</summary>
 
@@ -453,7 +453,7 @@ Options: A. 10%  B. 90%  C. 1%  D. 0%
 
 **Q24.** India forest cover ISFR 2023 approx.:
 
-Options: A. 21.76%  B. 6.24%  C. 90%  D. 2%
+Options: A. 21.76% B. 6.24% C. 90% D. 2%
 
 <details><summary>Show answer</summary>
 
@@ -463,7 +463,7 @@ Options: A. 21.76%  B. 6.24%  C. 90%  D. 2%
 
 **Q25.** UP forest cover ISFR 2023 approx.:
 
-Options: A. 6.24%  B. 21.76%  C. 50%  D. 80%
+Options: A. 6.24% B. 21.76% C. 50% D. 80%
 
 <details><summary>Show answer</summary>
 
@@ -473,7 +473,7 @@ Options: A. 6.24%  B. 21.76%  C. 50%  D. 80%
 
 **Q26.** ICFRE umbrella includes:
 
-Options: A. FRI  B. NBA  C. CPCB  D. RBI
+Options: A. FRI B. NBA C. CPCB D. RBI
 
 <details><summary>Show answer</summary>
 
@@ -483,7 +483,7 @@ Options: A. FRI  B. NBA  C. CPCB  D. RBI
 
 **Q27.** Foreign access to Indian bio-resources needs approval mainly from:
 
-Options: A. NBA  B. BMC alone  C. FSI  D. BSI herbarium clerk
+Options: A. NBA B. BMC alone C. FSI D. BSI herbarium clerk
 
 <details><summary>Show answer</summary>
 
@@ -493,7 +493,7 @@ Options: A. NBA  B. BMC alone  C. FSI  D. BSI herbarium clerk
 
 **Q28.** UPSBB is located at:
 
-Options: A. Lucknow  B. Chennai  C. Kolkata  D. Dehradun
+Options: A. Lucknow B. Chennai C. Kolkata D. Dehradun
 
 <details><summary>Show answer</summary>
 
@@ -503,7 +503,7 @@ Options: A. Lucknow  B. Chennai  C. Kolkata  D. Dehradun
 
 **Q29.** Which pair is correctly matched?
 
-Options: A. FSI — ISFR  B. FRI — ISFR  C. BSI — animals  D. ZSI — plants
+Options: A. FSI — ISFR B. FRI — ISFR C. BSI — animals D. ZSI — plants
 
 <details><summary>Show answer</summary>
 
@@ -511,10 +511,10 @@ Options: A. FSI — ISFR  B. FRI — ISFR  C. BSI — animals  D. ZSI — plants
 
 </details>
 
-**Q30.** Assertion (A): FRI and FSI are the same organisation.  
+**Q30.** Assertion (A): FRI and FSI are the same organisation.
 Reason (R): Both are headquartered in Dehradun.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A false, R true  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A false, R true D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -526,9 +526,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 
 ## Complete PYQ Bank (Topic 28)
 
-**Q1. UPPCS 2025, Q8** — ISFR UP >20% = Chandauli + Shravasti → **Ans: C**
-
-**Q2. UPPCS 2022, Q61** — ISFR 2021 max forest cover increase state → Andhra Pradesh pattern
+**Q1. UPPCS 2025, Q8** — ISFR UP >20% = Chandauli + Shravasti → **Ans: CQ2. UPPCS 2022, Q61** — ISFR 2021 max forest cover increase state → Andhra Pradesh pattern
 
 **Q3. UPSC/UPPCS pattern** — BSI plants / ZSI animals / Kolkata HQ
 
@@ -550,7 +548,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | BSI = animals | **Plants** |
 | ZSI = plants | **Animals** |
@@ -592,10 +590,10 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 
 ### Topic boundaries
 
-- **MoEFCC/CPCB/NGT org profiles** — Topic 16  
-- **In-situ/ex-situ + gene bank methods** — Topic 20  
-- **Red List IUCN categories** — Topic 21  
-- **BDA full legal text** — Topic 17  
+- **MoEFCC/CPCB/NGT org profiles** — Topic 16
+- **In-situ/ex-situ + gene bank methods** — Topic 20
+- **Red List IUCN categories** — Topic 21
+- **BDA full legal text** — Topic 17
 
 ### PYQ audit
 

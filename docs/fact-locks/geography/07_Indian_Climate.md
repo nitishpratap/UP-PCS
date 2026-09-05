@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 7</p>
 <h1 class="fact-lock-hero__title">Indian Climate</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
@@ -1573,19 +1573,19 @@ Peak:
 
 ## 98. RAINFALL — MASTER LOCATION TABLE
 
-| Region            | Main climatic/rainfall association  |
+| Region | Main climatic/rainfall association |
 | ----------------- | ----------------------------------- |
-| Meghalaya         | Extremely heavy orographic rainfall |
-| Western Ghats     | Orographic rainfall                 |
-| Western Rajasthan | Very low rainfall                   |
-| Ladakh            | Cold desert                         |
-| Tamil Nadu        | Northeast monsoon                   |
-| Punjab/Haryana    | SW monsoon + winter WD              |
-| UP                | SW monsoon                          |
-| Kerala            | SW monsoon onset                    |
-| Coromandel        | Retreating/NE monsoon               |
-| Deccan interior   | Rain shadow                         |
-| Andaman & Nicobar | High rainfall                       |
+| Meghalaya | Extremely heavy orographic rainfall |
+| Western Ghats | Orographic rainfall |
+| Western Rajasthan | Very low rainfall |
+| Ladakh | Cold desert |
+| Tamil Nadu | Northeast monsoon |
+| Punjab/Haryana | SW monsoon + winter WD |
+| UP | SW monsoon |
+| Kerala | SW monsoon onset |
+| Coromandel | Retreating/NE monsoon |
+| Deccan interior | Rain shadow |
+| Andaman & Nicobar | High rainfall |
 
 ## 99. INDIAN CLIMATE — MASTER CAUSES
 

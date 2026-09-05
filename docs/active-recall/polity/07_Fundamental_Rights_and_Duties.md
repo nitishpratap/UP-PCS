@@ -112,7 +112,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Arts. 14, 20, 21, 21A, 22, 23, 24, 25–28 and 32.** Memory lock: citizens-only = **15-16-19-29-30**.
+**Ans: Arts. 14, 20, 21, 21A, 22, 23, 24, 25–28 and 32.** Memory fact: citizens-only = **15-16-19-29-30**.
 
 </details>
 

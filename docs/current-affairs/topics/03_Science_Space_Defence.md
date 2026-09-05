@@ -1,6 +1,6 @@
 # Science / Space / Defence
 
-> **Priority S** | About **8%** of Current Affairs, and rising  
+> **Priority S** | About **8%** of Current Affairs, and rising
 > Many questions now come as Science or Defence tags, not only “Current Affairs”.
 
 ## What to note every time
@@ -19,10 +19,10 @@
 
 ### LR-AShM hypersonic anti-ship missile | shown on Republic Day 2026
 
-**What happened**  
+**What happened**
 On **26 January 2026**, during the **77th Republic Day** parade at **Kartavya Path**, DRDO showcased the **Long Range Anti-Ship Hypersonic Missile (LR-AShM)**. It is being developed mainly for the **Indian Navy**, including coastal battery use. Work is linked with DRDO’s **RCI** lab in Hyderabad.
 
-**Core locks**
+**Core facts**
 
 - Full short name: **LR-AShM**.
 - Maker: **DRDO**.
@@ -33,14 +33,14 @@ On **26 January 2026**, during the **77th Republic Day** parade at **Kartavya Pa
 - It uses a two-stage solid rocket boost, then glides at very high speed at low altitude, which makes early radar detection harder.
 
 !!! tip "Confused pair"
-    **BrahMos** is a **supersonic cruise** missile. **Pralay** is a different tactical strike missile. **LR-AShM** is the hypersonic anti-ship story of January 2026.
+ **BrahMos** is a **supersonic cruise** missile. **Pralay** is a different tactical strike missile. **LR-AShM** is the hypersonic anti-ship story of January 2026.
 
 ### K-4 missile test from INS Arighat
 
-**What happened**  
+**What happened**
 India tested the **K-4** submarine-launched ballistic missile from **INS Arighat** in the Bay of Bengal (covered heavily in January defence current affairs).
 
-**Core locks**
+**Core facts**
 
 - Type: intermediate-range **SLBM** (missile fired from a submarine).
 - Maker: **DRDO**.
@@ -50,10 +50,10 @@ India tested the **K-4** submarine-launched ballistic missile from **INS Arighat
 
 ### Pralay salvo test
 
-**What happened**  
+**What happened**
 DRDO fired **two Pralay missiles** quickly from the **same launcher** near **Chandipur** in Odisha. This is called a **salvo** launch.
 
-**Core locks**
+**Core facts**
 
 - System: **Pralay**.
 - Place: **Chandipur**, Odisha.
@@ -63,7 +63,7 @@ DRDO fired **two Pralay missiles** quickly from the **same launcher** near **Cha
 ### Other short defence notes from January coverage
 
 - **Pinaka LRGR-120** was reported with about **120 km** range class testing from Chandipur.
-- Keep extra rocket or drone headlines only if a clear PIB lock appears later.
+- Keep extra rocket or drone headlines only if a clear PIB fact appears later.
 
 ---
 
@@ -83,10 +83,10 @@ These are Budget ideas, but they often appear in Science questions too. Full sch
 
 ### IIT Kanpur maps the Sun’s inside
 
-**What happened**  
+**What happened**
 A research team at **IIT Kanpur** used about **30 years** of satellite data in a computer dynamo model. They mapped large magnetic fields inside the Sun. The work helps better understand sunspots, flares, and space weather that can disturb satellites and power grids.
 
-**Core locks**
+**Core facts**
 
 - Institute: **IIT Kanpur**.
 - Method: long satellite record + 3D dynamo model.
@@ -94,7 +94,7 @@ A research team at **IIT Kanpur** used about **30 years** of satellite data in a
 
 ### Greater Noida semiconductor story
 
-February UP notes mentioned a semiconductor unit push in **Greater Noida (Gautam Buddh Nagar)** as North India’s first such unit. Treat the “first” claim carefully until the plant status is fully clear. Keep the place lock under [UP Special](08_UP_Special.md).
+February UP notes mentioned a semiconductor unit push in **Greater Noida (Gautam Buddh Nagar)** as North India’s first such unit. Treat the “first” claim carefully until the plant status is fully clear. Keep the place fact under [UP Special](08_UP_Special.md).
 
 ---
 
@@ -102,7 +102,7 @@ February UP notes mentioned a semiconductor unit push in **Greater Noida (Gautam
 
 ### Defence Acquisition Council clearances | 27 March 2026
 
-**What happened**  
+**What happened**
 The **Defence Acquisition Council (DAC)**, chaired by Defence Minister **Rajnath Singh**, gave **Acceptance of Necessity (AoN)** for big purchases worth about **₹2.38 lakh crore**. AoN is an early formal yes that starts the full buying process.
 
 **Important items cleared**
@@ -120,10 +120,10 @@ The **Defence Acquisition Council (DAC)**, chaired by Defence Minister **Rajnath
 
 ### NavIC / IRNSS-1F atomic clock failure | 13 March 2026
 
-**What happened**  
+**What happened**
 ISRO said the atomic clock on navigation satellite **IRNSS-1F** stopped working on **13 March 2026**. Without a working atomic clock, the satellite cannot give proper positioning signals.
 
-**Core locks**
+**Core facts**
 
 - System name: **NavIC** (also called **IRNSS** — Indian Regional Navigation Satellite System).
 - Satellite: **IRNSS-1F**, launched in **March 2016**; it had completed about **10 years** of design life.
@@ -132,14 +132,14 @@ ISRO said the atomic clock on navigation satellite **IRNSS-1F** stopped working 
 - Newer **NVS** satellites carry improved Indian clocks. Replacement launches are planned later.
 
 !!! tip "Confused pair"
-    NavIC is India’s regional system. It is not the same as GPS (USA), GLONASS (Russia), Galileo (EU), or BeiDou (China).
+ NavIC is India’s regional system. It is not the same as GPS (USA), GLONASS (Russia), Galileo (EU), or BeiDou (China).
 
 ### Air-droppable container test | DRDO and Indian Navy
 
-**What happened**  
+**What happened**
 DRDO and the Navy tested an indigenous **air-droppable container** from a **P-8I** aircraft off the **Goa** coast.
 
-**Core locks**
+**Core facts**
 
 - It can drop supplies of about **150 kg** to ships far at sea.
 - Useful when a ship needs urgent stores without coming to harbour.
@@ -150,10 +150,10 @@ DRDO and the Navy tested an indigenous **air-droppable container** from a **P-8I
 
 ### Prototype Fast Breeder Reactor criticality | Kalpakkam | 6 April 2026
 
-**What happened**  
+**What happened**
 India’s **500 MWe Prototype Fast Breeder Reactor (PFBR)** at **Kalpakkam, Tamil Nadu** attained **first criticality** on **6 April 2026**. Criticality means the controlled fission chain reaction has started.
 
-**Core locks**
+**Core facts**
 
 - Capacity: **500 MWe**.
 - Place: **Kalpakkam**, Tamil Nadu.
@@ -164,11 +164,11 @@ India’s **500 MWe Prototype Fast Breeder Reactor (PFBR)** at **Kalpakkam, Tami
 - Built mainly with indigenous design and manufacturing.
 
 !!! trap "Easy wrong options"
-    Calling PFBR a pressurised heavy water reactor. Mixing Kalpakkam with Kudankulam. Saying it already runs fully on thorium fuel today.
+ Calling PFBR a pressurised heavy water reactor. Mixing Kalpakkam with Kudankulam. Saying it already runs fully on thorium fuel today.
 
 ### INS Aridhaman and INS Taragiri | Visakhapatnam | 3 April 2026
 
-**What happened**  
+**What happened**
 Defence Minister **Rajnath Singh** commissioned naval platforms at **Visakhapatnam** on **3 April 2026**. Coverage confirmed induction of India’s third indigenous nuclear-powered ballistic missile submarine and the fourth Project 17A stealth frigate.
 
 **INS Aridhaman**
@@ -191,10 +191,10 @@ Defence Minister **Rajnath Singh** commissioned naval platforms at **Visakhapatn
 
 ### NASM-SR maiden salvo launch | off Odisha coast
 
-**What happened**  
+**What happened**
 DRDO and the Navy carried out the first **salvo launch** of two **Naval Anti-Ship Missile – Short Range (NASM-SR)** missiles from a helicopter over the Bay of Bengal off **Odisha**.
 
-**Core locks**
+**Core facts**
 
 - NASM-SR is India’s **first indigenous air-launched anti-ship missile**.
 - Range noted: about **55 km**.
@@ -202,7 +202,7 @@ DRDO and the Navy carried out the first **salvo launch** of two **Naval Anti-Shi
 - Test range support: **ITR Chandipur**.
 - Salvo means two missiles launched quickly from the **same** helicopter.
 
-### INS Malwan delivery (soft navy lock)
+### INS Malwan delivery (soft navy fact)
 
 - Second of eight **Anti-Submarine Warfare Shallow Water Craft** from **Cochin Shipyard**.
 - Named after the coastal town of **Malwan** in Maharashtra.
@@ -213,10 +213,10 @@ DRDO and the Navy carried out the first **salvo launch** of two **Naval Anti-Shi
 
 ### Advanced Agni MIRV flight trial | 8 May 2026 | Odisha
 
-**What happened**  
+**What happened**
 India successfully flight-tested an advanced **Agni** missile with **MIRV** technology from **Dr APJ Abdul Kalam Island** off Odisha. MIRV means one missile can carry several warheads that hit different targets.
 
-**Core locks**
+**Core facts**
 
 - Date: **8 May 2026**.
 - Place: **Dr APJ Abdul Kalam Island** / Odisha coast.
@@ -226,23 +226,23 @@ India successfully flight-tested an advanced **Agni** missile with **MIRV** tech
 - Conducted with DRDO, Army, and industry support.
 
 !!! tip "Easy memory"
-    One missile → many warheads → many targets. That is MIRV.
+ One missile → many warheads → many targets. That is MIRV.
 
 ### Agni-1 test | 22 May 2026
 
-**What happened**  
+**What happened**
 India successfully test-launched the short-range ballistic missile **Agni-1** from the Integrated Test Range at **Chandipur / Balasore, Odisha**, under the **Strategic Forces Command**.
 
 ### Scramjet and TARA notes (same window)
 
-May coverage also reported a long-duration **scramjet combustor** ground test (over **1,200 seconds**) at DRDL Hyderabad for future hypersonic work, and a maiden trial of the **TARA** (Tactical Advanced Range Augmentation) glide weapon system. Keep names ready; lock exact numbers from a PIB note before mocks.
+May coverage also reported a long-duration **scramjet combustor** ground test (over **1,200 seconds**) at DRDL Hyderabad for future hypersonic work, and a maiden trial of the **TARA** (Tactical Advanced Range Augmentation) glide weapon system. Keep names ready; fact exact numbers from a PIB note before mocks.
 
 ### Exercise Pragati 2026 | Umroi, Meghalaya
 
-**What happened**  
+**What happened**
 The maiden multilateral exercise **Pragati 2026** brought armies of **13** countries to **Umroi, Meghalaya**. Focus: counter-insurgency drills and interoperability in the Indian Ocean region.
 
-**Core locks**
+**Core facts**
 
 - Host place: **Umroi**, Meghalaya.
 - About **400** soldiers in coverage, including women soldiers.
@@ -265,10 +265,10 @@ The maiden multilateral exercise **Pragati 2026** brought armies of **13** count
 
 ### Indian Navy platforms commissioned | GRSE line
 
-**What happened**  
+**What happened**
 Coverage highlighted commissioning of indigenous Navy platforms designed by the Warship Design Bureau and built by **Garden Reach Shipbuilders and Engineers (GRSE)**.
 
-**Core locks**
+**Core facts**
 
 - **INS Dunagiri** — Project **17A** stealth frigate (BrahMos and medium-range air defence in coverage).
 - **INS Sanshodhak** — survey / hydrographic vessel.
@@ -289,10 +289,10 @@ Group Captain **Shubhanshu Shukla**’s memoir coverage recalled him as the firs
 
 ### Project Kusha maiden flight test | 23 July 2026 | Odisha
 
-**What happened**  
+**What happened**
 DRDO conducted the maiden flight test of **Kusha**, India’s indigenous long-range surface-to-air missile (also called the Extended Range Air Defence System / earlier **XRSAM**), from **Dr APJ Abdul Kalam Island** off Odisha.
 
-**Core locks**
+**Core facts**
 
 - Date: **23 July 2026**.
 - Place: **Dr APJ Abdul Kalam Island** / Odisha coast.
@@ -303,14 +303,14 @@ DRDO conducted the maiden flight test of **Kusha**, India’s indigenous long-ra
 - Induction window noted: about **2028–2030**.
 
 !!! tip "Layer memory"
-    Medium tier often linked with **Akash-NG**. Long-range indigenous tier: **Kusha**. Imported long-range memory: **S-400**.
+ Medium tier often linked with **Akash-NG**. Long-range indigenous tier: **Kusha**. Imported long-range memory: **S-400**.
 
 ### Skyroot Vikram-1 | Mission Aagaman | 18 July 2026
 
-**What happened**  
+**What happened**
 **Skyroot Aerospace** successfully launched **Vikram-1**, called India’s first privately developed orbital-class rocket, from **SDSC SHAR, Sriharikota**. The flight was named **Mission Aagaman**.
 
-**Core locks**
+**Core facts**
 
 - Company: **Skyroot Aerospace**.
 - Rocket: **Vikram-1**.
@@ -330,10 +330,10 @@ DRDO conducted the maiden flight test of **Kusha**, India’s indigenous long-ra
 
 ### National Space Day | 23 August 2026
 
-**What happened**  
+**What happened**
 India marked the **3rd National Space Day** (remembering **Chandrayaan-3**). Theme in coverage: **Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership**. Events included Ahmedabad / SAC coverage.
 
-**Core locks**
+**Core facts**
 
 - Date every year: **23 August**.
 - ISRO plan noted for the financial year: about **8** launch-vehicle missions and **12** satellite missions.
@@ -342,10 +342,10 @@ India marked the **3rd National Space Day** (remembering **Chandrayaan-3**). The
 
 ### AK-203 ‘Sher’ | Amethi, Uttar Pradesh
 
-**What happened**  
+**What happened**
 The first **fully indigenous** AK-203 assault rifle, named **Sher**, was manufactured and test-fired at the **Korwa** facility in **Amethi, Uttar Pradesh**.
 
-**Core locks**
+**Core facts**
 
 - Name: **Sher**.
 - Plant: **Korwa**, Amethi (UP).
@@ -360,11 +360,11 @@ The first **fully indigenous** AK-203 assault rifle, named **Sher**, was manufac
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** PFBR Kalpakkam — MOX vs thorium trap (science false second sentence).
+**Logic:** PFBR Kalpakkam — MOX vs thorium trap (science false second sentence).
 
 **Q1.** With reference to the Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, which of the following statements is/are correct?
 
@@ -373,9 +373,9 @@ The first **fully indigenous** AK-203 assault rifle, named **Sher**, was manufac
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -387,7 +387,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** NavIC vs GPS identity.
+**Logic:** NavIC vs GPS identity.
 
 **Q2.** With reference to NavIC / IRNSS developments in March 2026, which of the following statements is/are correct?
 
@@ -396,33 +396,33 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both are correct locks. Trap: calling NavIC a substitute name for US GPS.
+**Ans: C.** Both are correct facts. Trap: calling NavIC a substitute name for US GPS.
 
 </details>
 
 ---
 
-**Exam logic:** Kusha is SAM / air defence, not Agni-class ballistic.
+**Logic:** Kusha is SAM / air defence, not Agni-class ballistic.
 
 **Q3.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Project Kusha — long-range air-defence SAM  
-2. LR-AShM — hypersonic anti-ship missile displayed around Republic Day 2026  
-3. Project Kusha — Agni-series ballistic missile with MIRV  
+1. Project Kusha — long-range air-defence SAM
+2. LR-AShM — hypersonic anti-ship missile displayed around Republic Day 2026
+3. Project Kusha — Agni-series ballistic missile with MIRV
 
 Select the correct answer from the code given below:
 
-A. Only 3  
-B. 1 and 2  
-C. 2 and 3  
+A. Only 3
+B. 1 and 2
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -434,7 +434,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Match missile / platform ↔ identity.
+**Logic:** Match missile / platform ↔ identity.
 
 **Q4.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -447,9 +447,9 @@ D. Only 1
 
 *Row order is not the answer code.*
 
-A. 2 3 1 4  
-B. 2 1 3 4  
-C. 3 2 1 4  
+A. 2 3 1 4
+B. 2 1 3 4
+C. 3 2 1 4
 D. 2 3 4 1
 
 <details>
@@ -461,7 +461,7 @@ D. 2 3 4 1
 
 ---
 
-**Exam logic:** DAC money + platform names.
+**Logic:** DAC money + platform names.
 
 **Q5.** With reference to the Defence Acquisition Council decision around 27 March 2026, which of the following statements is/are correct?
 
@@ -470,9 +470,9 @@ D. 2 3 4 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -484,7 +484,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** LR-AShM range / nature.
+**Logic:** LR-AShM range / nature.
 
 **Q6.** With reference to LR-AShM displayed around Republic Day 2026, which of the following statements is/are correct?
 
@@ -494,9 +494,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -508,7 +508,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** INS Taragiri + Aridhaman same day cluster.
+**Logic:** INS Taragiri + Aridhaman same day cluster.
 
 **Q7.** With reference to naval platforms commissioned / covered around 3 April 2026, which of the following statements is/are correct?
 
@@ -518,9 +518,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -532,7 +532,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Agni MIRV test place / nature.
+**Logic:** Agni MIRV test place / nature.
 
 **Q8.** With reference to the advanced Agni MIRV test (8 May 2026), which of the following statements is/are correct?
 
@@ -542,9 +542,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -556,7 +556,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Navy June platforms Match.
+**Logic:** Navy June platforms Match.
 
 **Q9.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -569,9 +569,9 @@ D. 1, 2 and 3
 
 *Row order is not the answer code.*
 
-A. 2 1 3 4  
-B. 1 2 3 4  
-C. 2 1 4 3  
+A. 2 1 3 4
+B. 1 2 3 4
+C. 2 1 4 3
 D. 2 3 1 4
 
 <details>
@@ -583,7 +583,7 @@ D. 2 3 1 4
 
 ---
 
-**Exam logic:** National Space Day theme / mission counts.
+**Logic:** National Space Day theme / mission counts.
 
 **Q10.** With reference to National Space Day 2026 (23 August), which of the following statements is/are correct?
 
@@ -593,9 +593,9 @@ D. 2 3 1 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -607,20 +607,20 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Chronology — defence / science firsts.
+**Logic:** Chronology — defence / science firsts.
 
 **Q11.** Consider the following events and arrange them in correct chronological order:
 
-1. Project Kusha maiden test  
-2. Advanced Agni MIRV test  
-3. PFBR Kalpakkam first criticality  
-4. Vikram-1 / Mission Aagaman launch window  
+1. Project Kusha maiden test
+2. Advanced Agni MIRV test
+3. PFBR Kalpakkam first criticality
+4. Vikram-1 / Mission Aagaman launch window
 
 Select the correct answer from the code given below:
 
-A. 3, 2, 4, 1  
-B. 2, 3, 4, 1  
-C. 3, 2, 1, 4  
+A. 3, 2, 4, 1
+B. 2, 3, 4, 1
+C. 3, 2, 1, 4
 D. 3, 4, 2, 1
 
 <details>
@@ -632,7 +632,7 @@ D. 3, 4, 2, 1
 
 ---
 
-**Exam logic:** Exercise Pragati 2026.
+**Logic:** Exercise Pragati 2026.
 
 **Q12.** With reference to Exercise Pragati 2026, which of the following statements is/are correct?
 
@@ -642,9 +642,9 @@ D. 3, 4, 2, 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -656,7 +656,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Agni-1 under SFC May.
+**Logic:** Agni-1 under SFC May.
 
 **Q13.** With reference to May 2026 missile tests, which of the following statements is/are correct?
 
@@ -680,7 +680,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** NASM-SR range and nature.
+**Logic:** NASM-SR range and nature.
 
 **Q14.** With reference to NASM-SR, which of the following statements is/are correct?
 
@@ -704,7 +704,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** INS Dunagiri / Sanshodhak / Agray June navy.
+**Logic:** INS Dunagiri / Sanshodhak / Agray June navy.
 
 **Q15.** Which of the following statements is/are correct for June 2026 naval coverage?
 
@@ -728,7 +728,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Mission Sudarshan Chakra / Kusha induction window.
+**Logic:** Mission Sudarshan Chakra / Kusha induction window.
 
 **Q16.** With reference to Project Kusha coverage, which of the following statements is/are correct?
 
@@ -752,7 +752,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** ACV H-561 Coast Guard first indigenous.
+**Logic:** ACV H-561 Coast Guard first indigenous.
 
 **Q17.** With reference to ACV H-561, which of the following statements is/are correct?
 
@@ -775,7 +775,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Pralay / K-4 January soft.
+**Logic:** Pralay / K-4 January soft.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -799,7 +799,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** PFBR power rating.
+**Logic:** PFBR power rating.
 
 **Q19.** The PFBR at Kalpakkam is locked in coverage as which capacity class?
 
@@ -817,7 +817,7 @@ D. 1000 MWe
 
 ---
 
-**Exam logic:** INS Nipun Nistar-class.
+**Logic:** INS Nipun Nistar-class.
 
 **Q20.** With reference to INS Nipun (August 2026), which of the following statements is/are correct?
 

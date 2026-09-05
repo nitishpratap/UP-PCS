@@ -8,15 +8,15 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 </details>
 
-> **Sources baked in:** NCERT Class 11–12 (Biology Ch 13–16, Geography Ch 14–15), MoEFCC, CPCB, UNEP, Brundtland Report, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ High — Prelims direct + Mains foundation  
+> **Sources baked in:** NCERT Class 11–12 (Biology Ch 13–16, Geography Ch 14–15), MoEFCC, CPCB, UNEP, Brundtland Report, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ High — Prelims direct + Mains foundation
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
-1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Exams do not treat “only physical” or “only living” as the full definition.
+1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
 2. The four spheres are **lithosphere, hydrosphere, atmosphere, and biosphere**. Biosphere roughly spans from about **200 m below soil** to about **6 km** above sea level.
 3. **Ecology** is the **study** of organism–environment links. An **ecosystem** is the **functional unit**. A **habitat** is the **place**. A **niche** is the **role**.
 4. Abiotic factors include light, temperature, water, soil, gases, pH, and salinity. **Edaphic** means soil; **climatic** means weather; **topographic** means slope and altitude.
@@ -38,7 +38,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 20. UNEP headquarters is **Nairobi, Kenya**. CPCB and MoEFCC sit in **New Delhi**.
 21. The **Brundtland Commission (WCED)** worked **1983–1987** and defined sustainable development in *Our Common Future*.
 22. Uttar Pradesh mainly falls in the **Gangetic Plain** biogeographic zone (**Zone 7**).
-23. Classic UP river–city locks include Ganga at Varanasi and Kanpur, Yamuna at Agra, and Gomti at Lucknow.
+23. Classic UP river–city facts include Ganga at Varanasi and Kanpur, Yamuna at Agra, and Gomti at Lucknow.
 24. Pollution hotspots often tested for UP include **Kanpur tanneries**, NCR air (Ghaziabad/Noida), and Ganga ghats at **Varanasi**.
 25. **Ganga Action Plan** began in **1985**. **Namami Gange** launched in **2014**.
 26. Natural versus anthropogenic, terrestrial versus aquatic, and internal versus external are the three common classification axes for environment questions.
@@ -47,7 +47,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -84,13 +84,13 @@ Environment – Meaning | Environmental Components | Classification of Environme
 - The **hydrosphere** is all water on Earth in liquid, ice, and vapour form. It covers about **71%** of the surface.
 - The **atmosphere** is the gaseous envelope. Roughly **78%** is nitrogen and **21%** is oxygen.
 - The **biosphere** is the zone where life exists. It spans from about **200 m below soil** to about **6 km above sea level**, where lithosphere, hydrosphere, and atmosphere meet.
-- **Pedosphere** (soil) is usually grouped with the lithosphere or with edaphic abiotic factors. It is not counted as a fifth exam sphere.
+- **Pedosphere** (soil) is usually grouped with the lithosphere or with edaphic abiotic factors. It is not counted as a fifth sphere.
 - The **troposphere** extends from the surface to about **12 km**. All weather phenomena occur here.
 - The **stratosphere** lies roughly **12–50 km** above the surface. The **ozone layer** that absorbs UV radiation sits in this layer.
 - **Micro-scale** environment covers immediate surroundings such as a room or a pond edge.
 - **Meso-scale** covers a village or city.
 - **Macro-scale** covers regional or global systems.
-- **Total environment** can be natural, social, economic, or cultural. Competitive exams usually default to **natural/physical** environment.
+- **Total environment** can be natural, social, economic, or cultural. Competitive papers usually default to **natural/physical** environment.
 - The **Stockholm Conference (1972)** was the first major UN conference on the human environment.
 - **UNEP** (United Nations Environment Programme) was created at Stockholm. Its headquarters is in **Nairobi, Kenya**.
 - **World Environment Day (WED)** is observed every year on **5 June**. The date marks the opening day of the Stockholm Conference in 1972.
@@ -100,7 +100,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 - **Article 51A(g)** is a Fundamental Duty. Every citizen shall protect and improve the natural environment. The same amendment added it.
 - **Article 21** guarantees the Right to Life. The Supreme Court expanded it to include the **right to a wholesome and healthy environment** in cases such as *M.C. Mehta* and *Subhash Kumar*.
 
-> **Exam note:** UPPCS 2018 treats environment as **जैविक + अजैविक**. Trap options say "only physical" or "only living." **Article 48** deals with agriculture and cows. Environment is **Article 48A**.
+> ** note:** UPPCS 2018 treats environment as **जैविक + अजैविक**. Trap options say "only physical" or "only living." **Article 48** deals with agriculture and cows. Environment is **Article 48A**.
 
 **PYQ — UPPCS Prelims 2025, Q62**
 
@@ -108,9 +108,9 @@ Which of the following pairs is/are NOT correctly matched?
 
 (Day) — (Date)
 
-1. International Ozone Day — 16 September  
-2. World Environment Day — 5 June  
-3. World Wildlife Day — 22 March  
+1. International Ozone Day — 16 September
+2. World Environment Day — 5 June
+3. World Wildlife Day — 22 March
 
 A. 1 and 2
 
@@ -158,7 +158,7 @@ D. Only 1
 - Biotic activity modifies abiotic conditions. Forests increase local rainfall. Overgrazing can trigger desertification.
 - **Dissolved Oxygen (DO)** is a key aquatic abiotic indicator. Fish die in polluted rivers when DO falls too low.
 
-> **Exam note:** Liebig names **which single factor limits growth**. Shelford names the **survivable range**. Humus is organic, not abiotic (UPPCS 2018 soil question).
+> ** note:** Liebig names **which single factor limits growth**. Shelford names the **survivable range**. Humus is organic, not abiotic (UPPCS 2018 soil question).
 
 **PYQ — UPPCS Prelims 2019, Q46**
 
@@ -205,7 +205,7 @@ D. Sugarcane
 | **Estuarine** | River meets sea — brackish | Sundarbans delta |
 | **Wetland** | Transitional — neither fully land nor water | Chilika, Keoladeo |
 
-| Marine zone | Location | Exam lock |
+| Marine zone | Location | Key fact |
 |-------------|----------|-----------|
 | **Neritic** | Shallow shelf (0–200 m) | Fisheries, coral, mangroves |
 | **Pelagic** | Open water column | Plankton, tuna |
@@ -218,32 +218,32 @@ D. Sugarcane
 - Wetlands store floodwater, recharge groundwater, filter pollutants, and support migratory birds.
 - **World Wetlands Day** is observed on **2 February** (Ramsar Convention anniversary).
 - India’s wetland rules are notified under **Wetlands (Conservation and Management) Rules, 2017**.
-- Classic Indian wetlands for exams include **Chilika** (Odisha) and **Keoladeo** (Rajasthan).
+- Classic Indian wetlands s include **Chilika** (Odisha) and **Keoladeo** (Rajasthan).
 - A **mangrove** is a salt-tolerant coastal forest growing in intertidal / brackish zones.
 - Mangroves act as a storm buffer, reduce shoreline erosion, and nursery fish stocks.
 - India’s largest mangrove stretch is the **Sundarbans** (West Bengal / Bangladesh).
 - In classification questions, mangroves are **coastal transitional**, not “purely terrestrial.”
 - UPSC 2020 trap: among Desert, Mangrove, Rainforest — only Desert and Rainforest count as terrestrial.
 
-> **Exam note:** Mangrove / wetland = transitional. Do not tick mangrove as terrestrial.
+> ** note:** Mangrove / wetland = transitional. Do not tick mangrove as terrestrial.
 
 ### Urban heat island
 
 - An **urban heat island** means a city runs warmer than nearby rural land under similar weather.
-- Typical city–rural gap in exams is about **2–5°C**.
+- Typical city–rural gap s is about **2–5°C**.
 - Concrete and asphalt absorb heat and re-radiate it at night.
 - Dense buildings trap warm air and block wind flow.
 - Less vegetation cuts evapotranspiration cooling, so city nights stay warmer than rural nights.
 - Extra heat raises energy demand for cooling and worsens ground-level air pollution stress.
 - Delhi NCR is a frequent Indian example of urban heat + air-quality interaction.
 
-> **Exam note:** Urban heat island = city warmer by roughly **2–5°C**, not a separate climate zone.
+> ** note:** Urban heat island = city warmer by roughly **2–5°C**, not a separate climate zone.
 
 ### India’s 10 biogeographic zones
 
-**Authors / year:** Rodgers & Panwar | **1988** (WII delineation used in exams)
+**Authors / year:** Rodgers & Panwar | **1988** (WII delineation used s)
 
-| # | Zone | Exam feature |
+| # | Zone | feature |
 |---|------|--------------|
 | 1 | **Trans-Himalaya** | Cold desert — Ladakh, high-altitude sparse vegetation |
 | 2 | **Himalaya** | Alpine to subtropical belts along the main Himalayan range |
@@ -256,25 +256,25 @@ D. Sugarcane
 | 9 | **North-East India** | Indo-Malayan biodiversity corridor |
 | 10 | **Islands** | Andaman & Nicobar and Lakshadweep |
 
-- The exam lock is the number **10**, not 8 or 14. Fourteen is a global biome count from a different classification list.
+- Remember: the number **10**, not 8 or 14. Fourteen is a global biome count from a different classification list.
 - Most of Uttar Pradesh falls in the **Gangetic Plain** zone.
 - The northern Terai fringe of UP links to Himalayan foothill ecology.
 
-> **Exam note:** UPPCS has asked “how many biogeographic zones in India?” → **10** (Rodgers & Panwar, 1988).
+> ** note:** UPPCS has asked “how many biogeographic zones in India?” → **10** (Rodgers & Panwar, 1988).
 
 ### CRZ — Coastal Regulation Zone
 
 **Legal basis:** Notifications under the **Environment (Protection) Act, 1986** (nodal: MoEFCC)
 
 - CRZ regulates development along India’s coast to protect ecology and coastal livelihoods.
-- The coastal stretch covered is generally from the High Tide Line landward and seaward as defined in the notification (exam focus is categories, not metre-by-metre measurement).
+- The coastal stretch covered is generally from the High Tide Line landward and seaward as defined in the notification (focus is categories, not metre-by-metre measurement).
 - **CRZ-IA** covers ecologically sensitive areas such as mangroves, coral reefs, and nesting beaches — **no new development** of the usual commercial kind.
 - **CRZ-IB** is the **intertidal zone** between Low Tide Line and High Tide Line.
 - **CRZ-II** covers already **developed / urbanised** coastal stretches within municipal limits.
 - **CRZ-III** covers **rural** coastal areas where development is more restricted than in CRZ-II.
-- The **CRZ 2019** notification revised earlier CRZ rules. Exams still test the **IA / IB / II / III** category logic.
+- The **CRZ 2019** notification revised earlier CRZ rules. Papers still test the **IA / IB / II / III** category logic.
 
-> **Exam note:** CRZ-IA = most sensitive (mangroves and corals). CRZ-II = developed urban coast. CRZ-III = rural coastal belt.
+> ** note:** CRZ-IA = most sensitive (mangroves and corals). CRZ-II = developed urban coast. CRZ-III = rural coastal belt.
 
 ### Eco-Sensitive Zones (ESZ)
 
@@ -287,9 +287,9 @@ D. Sugarcane
 - Do not treat 10 km as a universal law for every protected area.
 - An ESZ is an **EPA buffer tool**. It is **not** the same as declaring a National Park under the Wildlife (Protection) Act.
 
-> **Exam note:** ESZ = EPA 1986 buffer around protected areas. CRZ = coastal regulation under the same Act. Do not swap the two.
+> ** note:** ESZ = EPA 1986 buffer around protected areas. CRZ = coastal regulation under the same Act. Do not swap the two.
 
-> **Exam note:** Lentic = lake or pond (standing water). Lotic = river or stream (flowing water). UPPCS 2023 Q112 marks **river** as lotic.
+> ** note:** Lentic = lake or pond (standing water). Lotic = river or stream (flowing water). UPPCS 2023 Q112 marks **river** as lotic.
 
 **PYQ — UPPCS Prelims 2023, Q112**
 
@@ -322,7 +322,7 @@ D. Marshy areas
 | **Possibilism** | Vidal de la Blache | Environment offers **possibilities**; humans choose | **Accepted** |
 | **Neo-determinism** | Griffith Taylor | Humans modify environment **within limits** | Balanced view |
 
-| Concept | Definition / lock |
+| Concept | Definition / fact |
 |---------|-------------------|
 | **Carrying capacity** | Maximum load an environment can sustain indefinitely. Resource extraction must stay **below** regeneration. Waste must stay **within** absorption capacity |
 | **IPAT** | Impact = **P**opulation × **A**ffluence × **T**echnology |
@@ -335,13 +335,13 @@ D. Marshy areas
 **Commission:** World Commission on Environment and Development (WCED) | Chair: Gro Harlem Brundtland
 
 - The report’s official title is ***Our Common Future*** (published **1987**).
-- It popularised the classic exam definition of **Sustainable Development**.
+- It popularised the classic definition of **Sustainable Development**.
 - SD balances three pillars: economic growth, social equity, and environmental protection.
 - The commission worked roughly **1983–1987** under a UN mandate.
 - Do **not** confuse Brundtland with ***The Limits to Growth*** (Club of Rome, **1972**).
 - UPPCS 2024 A/R trap: Reason saying Brundtland = *Limits to Growth* is **false**.
 
-> **Exam note:** Brundtland 1987 = *Our Common Future*. Club of Rome 1972 = *Limits to Growth*.
+> ** note:** Brundtland 1987 = *Our Common Future*. Club of Rome 1972 = *Limits to Growth*.
 
 ### Rio Earth Summit, 1992
 
@@ -353,7 +353,7 @@ D. Marshy areas
 - **CBD** is the Convention on Biological Diversity for conservation and benefit-sharing.
 - Rio is **1992**, not Stockholm 1972 and not Agenda 21’s false “1995” year.
 
-> **Exam note:** Rio 1992 package = UNFCCC + CBD + Agenda 21.
+> ** note:** Rio 1992 package = UNFCCC + CBD + Agenda 21.
 
 ### Agenda 21, 1992
 
@@ -363,7 +363,7 @@ D. Marshy areas
 - The title **Agenda 21** refers to the 21st century action plan. It does **not** mean the document was signed in the year 2021.
 - UPPCS 2025 A/R used the wrong year **1995** as a Reason trap — that Reason is **false**.
 
-> **Exam note:** Agenda 21 = **1992** (Rio). Never mark 1995.
+> ** note:** Agenda 21 = **1992** (Rio). Never mark 1995.
 
 ### LiFE Mission, 2022
 
@@ -372,25 +372,25 @@ D. Marshy areas
 - PM Modi proposed the LiFE idea at **COP26, Glasgow (2021)**.
 - India formally launched **Mission LiFE** in **June 2022**.
 - The mission pushes individual and community lifestyle shifts — save energy, cut waste, choose sustainable food and consumption.
-- Exams often cite about **75** pro-planet actions / behavioural pledges under LiFE.
+- Notes often cite about **75** pro-planet actions / behavioural pledges under LiFE.
 - The Mission LiFE app / campaign tracks and popularises those behaviours.
-- Trap: “proposed at COP-25 Madrid” is **false** (UPPCS 2025 Q139).
+- Trap: “proposed at COP-25 Madrid” is **false**.
 
-> **Exam note:** Idea = COP26 (2021). Launch = **2022**. Not COP-25 Madrid.
+> ** note:** Idea = COP26 (2021). Launch = **2022**. Not COP-25 Madrid.
 
 ### Chipko Movement, 1973
 
 **Place:** Reni village, Chamoli (then Uttar Pradesh; now **Uttarakhand**)
 
 - Chipko means villagers hugged trees to stop commercial felling.
-- The 1973 Reni episode is the classic exam anchor for the movement’s start.
+- The 1973 Reni episode is the classic anchor for the movement’s start.
 - **Sunderlal Bahuguna** was a leading Chipko activist linked to the Uttarakhand forest protests.
 - **Chandi Prasad Bhatt** was another key Chipko leader from the Garhwal region.
 - Women played a visible role in forest protection protests.
 - Chipko is often cited as **passive resistance** / non-violent environmental action.
 - Place trap: Chipko is **not** Assam, Kerala, or Karnataka.
 
-> **Exam note:** Chipko = **1973**, Reni, Uttarakhand (then UP). Appiko = Karnataka.
+> ** note:** Chipko = **1973**, Reni, Uttarakhand (then UP). Appiko = Karnataka.
 
 ### Appiko Movement, 1983
 
@@ -398,10 +398,10 @@ D. Marshy areas
 
 - Appiko is the southern Indian analogue of Chipko.
 - Villagers hugged trees to resist forest felling and protect local ecology.
-- UPPCS 2025 asked the state association — correct lock is **Karnataka only**.
+- UPPCS 2025 asked the state association — correct fact is **Karnataka only**.
 - Do not mark Uttarakhand, UP, or Kerala for Appiko.
 
-> **Exam note:** Appiko = **Karnataka, 1983**. Chipko = Uttarakhand.
+> ** note:** Appiko = **Karnataka, 1983**. Chipko = Uttarakhand.
 
 ### Joint Forest Management (JFM), 1990
 
@@ -412,7 +412,7 @@ D. Marshy areas
 - JFM is participatory forest governance, not a full ownership transfer law.
 - Do not confuse JFM (**1990**) with FRA (**2006**) or EPA (**1986**).
 
-> **Exam note:** JFM launch year lock = **1990**.
+> ** note:** JFM launch year fact = **1990**.
 
 ### Forest Rights Act (FRA), 2006
 
@@ -424,19 +424,19 @@ D. Marshy areas
 - FRA is framed as justice for forest dwellers, not as a blanket free-for-all to clear forests.
 - Year trap: FRA = **2006**, after JFM 1990 and EPA 1986.
 
-> **Exam note:** FRA 2006 = tribal/OTFD forest rights. JFM 1990 = community–State forest partnership.
+> ** note:** FRA 2006 = tribal/OTFD forest rights. JFM 1990 = community–State forest partnership.
 
 - **Polluter Pays** and **Precautionary Principle** entered Indian environmental jurisprudence through *Vellore Citizens Welfare Forum* (**1996**).
 - The **Public Trust Doctrine** treats air, water, and forests as held by government in trust for the public.
 - The **Bhopal Gas Tragedy (1984)** triggered the umbrella **Environment (Protection) Act, 1986**.
 
-> **Exam note:** UPPCS 2025 Q22 — extraction **above** regeneration is **false**. Waste within absorption capacity is **true** → answer **Only 2**.
+> ** note:** UPPCS 2025 Q22 — extraction **above** regeneration is **false**. Waste within absorption capacity is **true** → answer **Only 2**.
 
 **PYQ — UPPCS Prelims 2025, Q22**
 
 With reference to 'Carrying Capacity of Environment', which of the following statements is/are correct?
 
-1. The rate of resource extraction should remain above the rate of resource generation.  
+1. The rate of resource extraction should remain above the rate of resource generation.
 2. Generation of waste should remain within the absorption capacity of environment.
 
 A. Only 2
@@ -493,8 +493,8 @@ D. Both true; R explains A
 
 **Q1.** With reference to 'Environment', which statements is/are correct?
 
-1. NCERT defines environment as biotic + abiotic factors influencing living organisms.  
-2. In competitive exams, social/economic components are always the primary focus of "environment."
+1. NCERT defines environment as biotic + abiotic factors influencing living organisms.
+2. In competitive papers, social/economic components are always the primary focus of "environment."
 
 A. Only 1
 
@@ -506,13 +506,13 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — Scientific exam sense = natural/physical (biotic + abiotic).
+**Ans: A** — Scientific sense = natural/physical (biotic + abiotic).
 
 </details>
 
 **Q2.** With reference to Earth's spheres, which statements is/are correct?
 
-1. Biosphere is where lithosphere, hydrosphere, and atmosphere interact.  
+1. Biosphere is where lithosphere, hydrosphere, and atmosphere interact.
 2. Hydrosphere covers approximately 71% of Earth's surface.
 
 A. Only 1
@@ -531,7 +531,7 @@ D. Neither
 
 **Q3.** With reference to constitutional provisions on environment, which statements is/are correct?
 
-1. Article 48A directs the State to protect environment (DPSP).  
+1. Article 48A directs the State to protect environment (DPSP).
 2. Article 51A(g) imposes a Fundamental Duty on citizens to protect natural environment.
 
 A. Only 1
@@ -550,7 +550,7 @@ D. Neither
 
 **Q4.** With reference to abiotic components, which statements is/are correct?
 
-1. Edaphic factors relate to soil properties.  
+1. Edaphic factors relate to soil properties.
 2. Humus in soil is classified as abiotic because it is found in soil.
 
 A. Only 1
@@ -569,7 +569,7 @@ D. Neither
 
 **Q5.** With reference to biotic components, which statements is/are correct?
 
-1. Decomposers recycle nutrients from dead organic matter.  
+1. Decomposers recycle nutrients from dead organic matter.
 2. Producers are heterotrophs depending on others for food.
 
 A. Only 1
@@ -588,7 +588,7 @@ D. Neither
 
 **Q6.** With reference to Liebig and Shelford, which statements is/are correct?
 
-1. Liebig's law identifies the scarcest essential resource as the limiting factor.  
+1. Liebig's law identifies the scarcest essential resource as the limiting factor.
 2. Shelford's law states survival is possible at any level of a factor if other factors are abundant.
 
 A. Only 1
@@ -607,7 +607,7 @@ D. Neither
 
 **Q7.** With reference to nitrogen fixation, which statements is/are correct?
 
-1. Rhizobium fixes nitrogen in legume root nodules.  
+1. Rhizobium fixes nitrogen in legume root nodules.
 2. Most organisms can directly use atmospheric N₂ without fixation.
 
 A. Only 1
@@ -626,7 +626,7 @@ D. Neither
 
 **Q8.** With reference to environment classification, which statements is/are correct?
 
-1. Lentic ecosystems are standing water bodies like lakes.  
+1. Lentic ecosystems are standing water bodies like lakes.
 2. Anthropogenic environment exists without any human modification.
 
 A. Only 1
@@ -645,8 +645,8 @@ D. Neither
 
 **Q9.** Which of the following pairs is/are NOT correctly matched?
 
-1. Lentic — River  
-2. Lotic — Stream  
+1. Lentic — River
+2. Lotic — Stream
 3. Mangrove — Purely terrestrial ecosystem
 
 A. Only 1
@@ -665,7 +665,7 @@ D. 2 and 3
 
 **Q10.** With reference to India's biogeographic zones, which statements is/are correct?
 
-1. India has 10 biogeographic zones per Rodgers & Panwar (1988).  
+1. India has 10 biogeographic zones per Rodgers & Panwar (1988).
 2. Gangetic Plain is one of the 10 zones covering most of UP.
 
 A. Only 1
@@ -756,8 +756,8 @@ D. A false, R true
 
 **Q15.** Match List-I with List-II:
 
-List-I: A. Stockholm  B. Brundtland  C. Rio  D. LiFE  
-List-II: 1. 1992 Agenda 21  2. 1972 UNEP  3. 2022 launch  4. 1987 SD definition
+List-I: A. Stockholm B. Brundtland C. Rio D. LiFE
+List-II: 1. 1992 Agenda 21 2. 1972 UNEP 3. 2022 launch 4. 1987 SD definition
 
 A. A-2,B-4,C-1,D-3
 
@@ -775,8 +775,8 @@ D. A-3,B-1,C-4,D-2
 
 **Q16.** Match List-I with List-II:
 
-List-I: A. Ratzel  B. Hardin  C. Rhizobium  D. Rodgers & Panwar  
-List-II: 1. Tragedy of Commons  2. Determinism  3. 10 biogeographic zones  4. N-fixation
+List-I: A. Ratzel B. Hardin C. Rhizobium D. Rodgers & Panwar
+List-II: 1. Tragedy of Commons 2. Determinism 3. 10 biogeographic zones 4. N-fixation
 
 A. A-2,B-1,C-4,D-3
 
@@ -794,8 +794,8 @@ D. A-2,B-4,C-1,D-3
 
 **Q17.** Match environmental days to dates:
 
-A. 5 June  B. 22 April  C. 3 March  D. 16 September  
-1. Earth Day  2. World Wildlife Day  3. WED  4. Ozone Day
+A. 5 June B. 22 April C. 3 March D. 16 September
+1. Earth Day 2. World Wildlife Day 3. WED 4. Ozone Day
 
 A. A-3,B-1,C-2,D-4
 
@@ -813,8 +813,8 @@ D. A-2,B-4,C-3,D-1
 
 **Q18.** Which pairs is/are NOT correctly matched?
 
-1. World Environment Day — 5 June  
-2. World Wildlife Day — 22 March  
+1. World Environment Day — 5 June
+2. World Wildlife Day — 22 March
 3. International Ozone Day — 16 September
 
 A. Only 2
@@ -833,8 +833,8 @@ D. 2 and 3
 
 **Q19.** Which pairs is/are NOT correctly matched?
 
-1. Chipko — Reni, Uttarakhand  
-2. Appiko — Karnataka  
+1. Chipko — Reni, Uttarakhand
+2. Appiko — Karnataka
 3. JFM — 1972
 
 A. Only 3
@@ -853,7 +853,7 @@ D. 2 and 3
 
 **Q20.** Arrange chronologically (earliest first):
 
-1. Stockholm Conference  2. EPA 1986  3. Brundtland Report  4. Rio Earth Summit
+1. Stockholm Conference 2. EPA 1986 3. Brundtland Report 4. Rio Earth Summit
 
 A. 1-3-4-2
 
@@ -871,7 +871,7 @@ D. 1-3-2-4
 
 **Q21.** With reference to LiFE Mission, which statements is/are correct?
 
-1. It was launched in June 2022.  
+1. It was launched in June 2022.
 2. The idea was proposed at COP-25 Madrid.
 
 A. Only 2
@@ -890,7 +890,7 @@ D. Only 1
 
 **Q22.** With reference to IPAT equation, which statements is/are correct?
 
-1. T stands for Technology.  
+1. T stands for Technology.
 2. Impact decreases if population increases while affluence and technology stay constant.
 
 A. Only 1
@@ -1045,7 +1045,7 @@ D. Wildlife trade
 
 With reference to 'Carrying Capacity of Environment', which of the following statements is/are correct?
 
-1. The rate of resource extraction should remain above the rate of resource generation.  
+1. The rate of resource extraction should remain above the rate of resource generation.
 2. Generation of waste should remain within the absorption capacity of environment.
 
 A. Only 2
@@ -1574,7 +1574,7 @@ D. Human development
 
 The Appiko Movement is associated with which of the following Indian States?
 
-1. Uttarakhand  2. Uttar Pradesh  3. Kerala  4. Karnataka
+1. Uttarakhand 2. Uttar Pradesh 3. Kerala 4. Karnataka
 
 A. 1 and 2
 
@@ -1710,7 +1710,7 @@ D. Mangrove
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Art **48** vs **48A** | Environment = **48A** (48 = agriculture/cows) |
 | Humus = abiotic? | **No** — organic, biotic-origin |

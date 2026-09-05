@@ -8,17 +8,17 @@
 Endogenic / Exogenic Processes | Rocks — Igneous, Sedimentary, Metamorphic | Rock Cycle | Weathering | Erosion | Deposition | Agents of Erosion | Fluvial Landforms | Drainage Patterns | Types of Deltas | Structural Basins | Fault Valley Drainage | Glacial | Aeolian | Coastal | Karst
 </details>
 
-> **Sources baked in:** NCERT Class 11 (Geomorphic Processes, Landforms), PWOnlyIAS / Drishti geomorphology notes, Lucent landform match-lists, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — trellis, bird’s-foot vs arcuate, moribund Cauvery, Imphal lacustrine, Damodar fault-valley, rock-cycle pairs; teach full process map  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Class 11 (Geomorphic Processes, Landforms), PWOnlyIAS / Drishti geomorphology notes, Lucent landform match-lists, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — trellis, bird’s-foot vs arcuate, moribund Cauvery, Imphal lacustrine, Damodar fault-valley, rock-cycle pairs; teach full process map
+> **Last verified:** August 2026
 > **Current Affairs:** none mandatory (process chapter); Himalayan fossils / delta types stay static
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
-2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays exam-useful.
+2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
 3. **Igneous** rocks are primary: **granite** is intrusive (acidic awareness); **basalt** is extrusive (basic). Fossils belong to **sedimentary** rocks.
 4. Igneous bodies: batholith, laccolith, lopolith, phacolith; a **sill** is parallel to beds; a **dyke** cuts across beds.
 5. Metamorphic pairs: **limestone → marble**, **sandstone → quartzite**, **granite → gneiss**, **shale → slate / schist**. Foliated rocks include slate–schist–gneiss; marble and quartzite are non-foliated.
@@ -34,7 +34,7 @@ Endogenic / Exogenic Processes | Rocks — Igneous, Sedimentary, Metamorphic | R
 15. Structure landforms include cuesta, hogback, mesa and butte. A **mesa** is broader than a **butte**. Davis’s humid old-age plain is a **peneplain** with leftover **monadnocks**; King’s arid form is a **pediplain**.
 16. Glacial erosional forms: cirque, arête, horn, **U-valley**, hanging valley, fjord, tarn. Depositional forms: moraine, drumlin, esker, kame, outwash, erratic.
 17. A **fjord** is a drowned glacial trough. A **ria** is a drowned river valley. Do not treat them as the same estuary type.
-18. Aeolian locks: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
+18. Aeolian facts: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
 19. Coastal deposition builds **spit, bar, tombolo and lagoon** with longshore drift. Coral reefs include fringing, barrier and atoll types.
 20. Karst needs **limestone plus carbonation**. **Stalactite** hangs from the **ceiling**; **stalagmite** grows from the **floor**. Forms include doline, cave, uvala and polje.
 21. River capture vocabulary includes pirate stream, beheaded stream, wind gap and elbow of capture.
@@ -48,9 +48,9 @@ Endogenic / Exogenic Processes | Rocks — Igneous, Sedimentary, Metamorphic | R
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Weathering vs erosion | In situ vs **transport** | Same thing | अपक्षय / अपरदन |
 | Granite vs basalt | Intrusive acidic vs **extrusive basic** | Swapped | ग्रेनाइट / बेसाल्ट |
@@ -89,7 +89,7 @@ Geomorphology studies how landforms are made and destroyed.
 - **Endogenic processes** come from Earth’s interior — folding, faulting, volcanism, earthquakes and uplift. They build relief.
 - **Exogenic processes** work at the surface — weathering, mass wasting, erosion, transport and deposition by river, wind, glacier, sea and groundwater. They wear relief down and fill basins.
 - **Gradation** is the overall smoothing of the land: **degradation** (wearing down) plus **aggradation** (building up by deposition).
-- Davis framed a **cycle of erosion** as structure–process–time (youth–mature–old). Penck and King modify the timing, but the landform vocabulary stays exam-useful.
+- Davis framed a **cycle of erosion** as structure–process–time (youth–mature–old). Penck and King modify the timing, but the landform vocabulary stays -useful.
 
 **Order of this chapter**
 
@@ -104,9 +104,9 @@ Teach the **full process map** — next year can ask any standard NCERT agent or
 
 ## N.1 Rocks — Igneous, Sedimentary, Metamorphic
 
-Rocks are the solid building material of the crust. Exams ask **class**, **parent–daughter pairs**, and **intrusive body shapes**.
+Rocks are the solid building material of the crust. Notes ask **class**, **parent–daughter pairs**, and **intrusive body shapes**.
 
-| Class | How formed | Exam rocks |
+| Class | How formed | rocks |
 |-------|------------|------------|
 | **Igneous** (primary) | Cooling of magma/lava | **Granite** (intrusive, acidic, coarse); **basalt** (extrusive, basic, Deccan Trap); gabbro, pegmatite, pumice, obsidian |
 | **Sedimentary** (secondary) | Compaction of debris / chemical / organic | Sandstone, shale, **limestone**, conglomerate, coal, loess beds — **fossils possible** |
@@ -155,7 +155,7 @@ D. 1, 2 and 3
 Porphyritic = large crystals in fine groundmass (two-stage cooling). Pegmatite = very coarse veins.
 **Intrusive bodies (NCERT match)**
 
-| Body | Lock |
+| Body | Role |
 |------|------|
 | **Batholith** | Huge granite mass; floor not seen; mountain cores |
 | **Laccolith** | Lens, **convex up**; arches overlying beds |
@@ -195,7 +195,7 @@ D. Only aeolian dunes
 | **Organic / biogenic** | Coal, peat, chalk, some limestone |
 
 Fossils almost only here. Loess beds = wind silt later lithified.
-**Metamorphic fabric:** **foliated** = slate → schist → gneiss (banding). **Non-foliated** = marble, quartzite.
+**Metamorphic fabric:foliated** = slate → schist → gneiss (banding). **Non-foliated** = marble, quartzite.
 
 ---
 
@@ -213,7 +213,7 @@ The rock cycle links the three rock classes.
 
 ## N.3 Weathering, Erosion, Deposition
 
-These four words are exam killers if swapped.
+These four words are traps if swapped.
 
 - **Weathering** breaks rock **in place** — no travel.
 - **Erosion** detaches and **transports** material by an agent.
@@ -221,7 +221,7 @@ These four words are exam killers if swapped.
 - **Denudation** is weathering plus erosion lowering the land.
 - **Mass wasting** is gravity movement (creep, slide, fall) without a true transporting stream.
 
-| Term | Lock |
+| Term | Meaning |
 |------|------|
 | Weathering | In situ breakdown |
 | Erosion | Pickup + transport |
@@ -231,7 +231,7 @@ These four words are exam killers if swapped.
 
 **Physical / mechanical**
 
-| Process | Lock |
+| Process | Meaning |
 |---------|------|
 | Frost / ice wedging | Water → ice in cracks (cold wet) |
 | **Exfoliation / unloading** | Pressure release; onion sheets on **granite** |
@@ -242,7 +242,7 @@ These four words are exam killers if swapped.
 
 **Chemical** (fastest **hot + wet**)
 
-| Process | Lock |
+| Process | Meaning |
 |---------|------|
 | **Carbonation** | CO₂ + rain → carbonic acid → **limestone karst** |
 | Solution | Direct dissolve (rock salt, gypsum) |
@@ -282,7 +282,7 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 | **Old** | Broad floodplain, **ox-bow** / mortlake / meander scar, yazoo, **delta**, deferred tributary |
 | **Rejuvenation** | Uplift / base-level fall → **knickpoint**, river **terrace**, **incised meander** |
 
-| Form | Lock |
+| Form | Meaning |
 |------|------|
 | Meander | Loop; **concave** bank = cut (cliff); **convex** = **point bar** / slip-off |
 | Ox-bow | Cut-off meander lake (Ganga plain) |
@@ -299,7 +299,7 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 
 **Cycle theories**
 
-| | Lock |
+| | Fact |
 |--|------|
 | **Davis** | Structure–process–time; youth–mature–old → **peneplain** + **monadnock** leftovers |
 | **Penck** | Uplift and denudation **together** (not sequential old age) |
@@ -315,7 +315,7 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 | Resequent | Same direction as consequent, later |
 | Insequent | No obvious control (dendritic on uniform rock) |
 
-- **Antecedent** drainage is older than the uplift it cuts — Himalayan transverse giants are the classic Indian lock.
+- **Antecedent** drainage is older than the uplift it cuts — Himalayan transverse giants are the classic Indian fact.
 - **Superimposed** drainage is inherited from a cover that is now stripped — the **Chambal** type is the coaching cue.
 - Concordant drainage follows structure; discordant drainage cuts across it.
 - **River capture / piracy:** an aggressive **pirate** stream beheads its neighbour, leaving an **elbow of capture**, a dry **wind gap**, and a **misfit** stream behind.
@@ -327,7 +327,7 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 
 A delta needs a large load, a quiet coast and a shallow shelf. Strong tides or waves favour an **estuary** instead.
 
-| Type | Shape / lock | Classic |
+| Type | Shape / fact | Classic |
 |------|----------------|---------|
 | **Arcuate** | Bow / fan | **Nile, Ganga–Brahmaputra (Sundarbans), Rhine, Niger, Hwang Ho** — **not** bird’s-foot |
 | **Bird’s-foot** | Distributaries like toes | **Mississippi**. Ganga is **not** this |
@@ -407,7 +407,7 @@ A **structural basin** is a low enclosed by structure (syncline, rift or down-wa
 | Kashmir vale | Lacustrine / structural (Pir Panjal wall) |
 | Chhattisgarh / Michigan type | Structural/sedimentary basin awareness |
 
-**Depositional plains (exam trap set)**
+**Depositional plains (trap set)**
 
 | Plain | Agent |
 |-------|-------|
@@ -418,7 +418,7 @@ A **structural basin** is a low enclosed by structure (syncline, rift or down-wa
 | Lava / volcanic | Flood basalt (Deccan surface) |
 
 - **Fault-valley drainage** follows subsequent streams along **faults**; joints give **rectangular** patterns; rifts include **Narmada, Tapi and Damodar**.
-- The UPPCS lock “famous for fault valley drainage” is **Damodar**, not **Chambal** (Chambal is ravine/gully country).
+- The UPPCS fact “famous for fault valley drainage” is **Damodar**, not **Chambal** (Chambal is ravine/gully country).
 - World rift cues: Rhine, Dead Sea/Jordan, East Africa.
 
 **Inline PYQ — UPPCS Prelims 2019, Q8**
@@ -458,7 +458,7 @@ D. Ken
 </details>
 **Structural landforms**
 
-| Form | Lock |
+| Form | Meaning |
 |------|------|
 | **Cuesta** | Gentle dip slope + steep scarp (soft–hard sandwich) |
 | Hogback | Steep both sides (steep dip) |
@@ -511,9 +511,9 @@ D. Only ice sheets
 - **Drumlin** is an elongated mound of till shaped by moving ice.
 - **Esker** is a sinuous ridge of outwash deposited by meltwater under or within ice.
 
-A glacier is a mass of ice that moves under its own weight. Exams lock **U-valley vs V-valley**, **fjord vs ria**, and depositional till forms.
+A glacier is a mass of ice that moves under its own weight. Notes fact **U-valley vs V-valley**, **fjord vs ria**, and depositional till forms.
 
-| Type | Lock |
+| Type | Meaning |
 |------|------|
 | Cirque glacier | Occupies armchair hollow |
 | Valley / alpine | Tongue in a mountain trough |
@@ -529,7 +529,7 @@ A glacier is a mass of ice that moves under its own weight. Exams lock **U-valle
 
 **Erosional**
 
-| Form | Lock |
+| Form | Meaning |
 |------|------|
 | **Cirque / corrie / cwm** | Armchair hollow; lake = **tarn** |
 | **Arête** | Knife ridge between cirques |
@@ -542,7 +542,7 @@ A glacier is a mass of ice that moves under its own weight. Exams lock **U-valle
 
 **Depositional**
 
-| Form | Lock |
+| Form | Meaning |
 |------|------|
 | **Moraine** | Lateral, medial, **terminal**, ground, recessional |
 | **Drumlin** | Streamlined till; blunt end up-ice |
@@ -567,7 +567,7 @@ Wind needs dry ground, sparse vegetation and a sand or silt supply — hot deser
 
 **Depositional**
 
-| Form | Lock |
+| Form | Meaning |
 |------|------|
 | **Barchan** | Crescent; **horns point downwind** |
 | Seif / longitudinal | Long ridge **parallel** to wind |
@@ -586,7 +586,7 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 - **Depositional** forms: beach; **spit** (one end attached); **bar** (closes a bay into a **lagoon**); **tombolo** (island tied to mainland); hook; barrier island.
 - **Coral** succession: **fringing** (against shore) → **barrier** (with lagoon) → **atoll** (ring). Darwin’s subsidence idea is the coaching frame. Indian reefs need clear warm water — **not** muddy delta mouths.
 
-| Coast type | Lock |
+| Coast type | Meaning |
 |------------|------|
 | **Fjord** | Drowned **glacial** trough |
 | **Ria** | Drowned **river** valley (non-glacial) |
@@ -602,7 +602,7 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 70 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard process angles)
 
 **Q1.** Drainage pattern associated with **folded** structures is:
@@ -1635,7 +1635,7 @@ D. Barchan
 
 ---
 
-**Q58.** **Pediplain** is associated with:
+**Q58.Pediplain** is associated with:
 
 A. Only coral coasts
 
@@ -1707,7 +1707,7 @@ D. A batholith
 
 ---
 
-**Q62.** **Subsequent** streams typically follow:
+**Q62.Subsequent** streams typically follow:
 
 A. Only the ITCZ
 
@@ -1833,7 +1833,7 @@ D. Lopolith only always parallel
 
 ---
 
-**Q69.** Assertion (A): A peneplain is associated with the old stage of the Davis cycle in humid regions.  
+**Q69.** Assertion (A): A peneplain is associated with the old stage of the Davis cycle in humid regions.
 Reason (R): L.C. King’s pediplain idea is framed mainly for arid / savanna pediment retreat.
 
 A. Both A and R are true and R explains A
@@ -1847,7 +1847,7 @@ D. A is false but R is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Both locks are true; they are parallel theories, not one explaining the other.
+**Ans: B** — Both facts are true; they are parallel theories, not one explaining the other.
 </details>
 
 ---
@@ -2022,7 +2022,7 @@ D. Ramaganga
 
 ## Current Affairs (this topic)
 
-Process chapter — no living scheme lock. Static PYQ surface (trellis, deltas, Imphal) is the exam diet. Mekong/Himalaya fossils do not need a yearly CA refresh.
+Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, Imphal) is the diet. Mekong/Himalaya fossils do not need a yearly CA refresh.
 
 ---
 
@@ -2043,7 +2043,7 @@ Process chapter — no living scheme lock. Static PYQ surface (trellis, deltas, 
 13. **Fjord = any estuary** — FALSE. **Drowned glacial trough**.
 14. **Basalt = intrusive granite twin** — FALSE. Basalt = **extrusive**.
 15. **Loess = river silt of Imphal** — FALSE. **Wind silt**; Imphal = lake plain.
-16. **Fault-valley = Chambal** — FALSE. **Damodar** (2019 Q9).
+16. **Fault-valley = Chambal** — FALSE. **Damodar**.
 17. **Endogenic = only rivers** — FALSE. Endogenic = interior build (fold/fault/volcano).
 18. **Weathering always transports** — FALSE. Weathering is **in situ**.
 19. **Skip process framework because recent papers asked trellis/Damodar** — FALSE. Next year can ask any standard NCERT agent or pair.

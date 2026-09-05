@@ -81,7 +81,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q8.** What is the exam lock for Karikala, Senguttuvan, and Korkai?
+**Q8.** What is the key fact for Karikala, Senguttuvan, and Korkai?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -94,7 +94,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Trade
 
-**Q9.** What is the exam lock for Muziris, Arikamedu, the *Periplus*, and **Yavana**?
+**Q9.** What is the key fact for Muziris, Arikamedu, the *Periplus*, and **Yavana**?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -117,7 +117,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q11.** What is Mahendravarman I's lock?
+**Q11.** What is Mahendravarman I's fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -127,7 +127,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q12.** What is Mamalla's lock?
+**Q12.** What is Mamalla's fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -137,7 +137,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q13.** What is Rajasimha's lock?
+**Q13.** What is Rajasimha's fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -223,7 +223,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q21.** What is Krishna I's lock?
+**Q21.** What is Krishna I's fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -233,7 +233,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q22.** What is Amoghavarsha I's lock?
+**Q22.** What is Amoghavarsha I's fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -256,7 +256,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Literature, society, later south
 
-**Q24.** Name the five great Tamil epics and the later south ruler–dynasty pairs exams ask.
+**Q24.** Name the five great Tamil epics and the later south ruler–dynasty pairs papers ask.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -287,7 +287,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q27.** From memory, link each south-India lock:
+**Q27.** From memory, link each south-India fact:
 
 | Recall item |
 |-------------|
@@ -304,7 +304,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Name | Lock |
+| Name | Fact |
 |------|------|
 | Emblems of Chera / Chola / Pandya | **Bow · tiger · fish** |
 | Karikala | **Kallanai + Venni** |
@@ -320,9 +320,9 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 ---
 
-## Extra locks
+## Extra facts
 
-**Q28.** From memory, link each south-India pair to its UPPCS lock:
+**Q28.** From memory, link each south-India pair to its UPPCS fact:
 
 | Recall item |
 |-------------|
@@ -337,7 +337,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Pair | Lock |
+| Pair | Fact |
 |------|------|
 | Harsha ↔ Pulakeshin II | **Narmada** barrier (~630) |
 | Mamalla ↔ Vatapi | **Narasimhavarman I** sacks **Vatapi** (642) |
@@ -347,11 +347,11 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 | Karikala ↔ work | **Kallanai** on the **Kaveri** |
 | Kannauj struggle | **Pala + Pratihara + Rashtrakuta** tripartite fight |
 
-2019 capitals lock: **Pallava–Kanchi, Pandya–Madura, Yadava–Devagiri, Kakatiya–Warangal.**
+2019 capitals fact: **Pallava–Kanchi, Pandya–Madura, Yadava–Devagiri, Kakatiya–Warangal.**
 
 </details>
 
-**Q29.** What is Mahendravarman I’s literary lock, and how does he differ from Mamalla and Rajasimha?
+**Q29.** What is Mahendravarman I’s literary fact, and how does he differ from Mamalla and Rajasimha?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -378,7 +378,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q32.** Why is **Elephanta** not the Rashtrakuta Kailasa lock?
+**Q32.** Why is **Elephanta** not the Rashtrakuta Kailasa fact?
 
 <details markdown="1">
 <summary>Show answer</summary>

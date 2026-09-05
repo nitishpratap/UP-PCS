@@ -85,7 +85,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**North** — about **nine** kings **uprooted** and annexed. **South** — about **twelve** kings **defeated then restored** as tribute (distance). **Vishnugopa of Kanchi** is the 2018 lock. **Atavika** forest chiefs and frontier states pay tribute. He does **not** try to run Tamilakam as districts.
+**North** — about **nine** kings **uprooted** and annexed. **South** — about **twelve** kings **defeated then restored** as tribute (distance). **Vishnugopa of Kanchi** is the 2018 fact. **Atavika** forest chiefs and frontier states pay tribute. He does **not** try to run Tamilakam as districts.
 
 </details>
 
@@ -146,7 +146,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Kumaragupta and Skandagupta
 
-**Q14.** What was Kumaragupta I’s title, what is his Nalanda lock, and what troubled his later reign?
+**Q14.** What was Kumaragupta I’s title, what is his Nalanda fact, and what troubled his later reign?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -165,7 +165,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q16.** What is Skandagupta's Junagadh lock?
+**Q16.** What is Skandagupta's Junagadh fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -175,7 +175,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q17.** What is Skandagupta's Bhitari lock?
+**Q17.** What is Skandagupta's Bhitari fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -379,7 +379,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q36.** From memory, link each name to its Gupta lock:
+**Q36.** From memory, link each name to its Gupta fact:
 
 | Recall item |
 |-------------|
@@ -401,7 +401,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Name | Lock |
+| Name | Fact |
 |------|------|
 | CG I | **Maharajadhiraja / Lichchhavi** |
 | Samudragupta | **Napoleon / veena** |
@@ -422,7 +422,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ---
 
-## Extra locks
+## Extra facts
 
 **Q37.** In the 2018 southern match list, which king is paired with Kanchi — **Vishnugopa**?
 
@@ -433,7 +433,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q38.** Arrange these travellers/scholars in chronological order: Fa-Hien, Xuanzang, Yijing, and Al-Biruni (2024 lock).
+**Q38.** Arrange these travellers/scholars in chronological order: Fa-Hien, Xuanzang, Yijing, and Al-Biruni (2024 fact).
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -451,7 +451,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q40.** What is the exam lock for the **Mehrauli iron pillar**, and which ruler is it often linked to?
+**Q40.** What is the key fact for the **Mehrauli iron pillar**, and which ruler is it often linked to?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -474,7 +474,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** ***Shringara Shataka*** is **Bhartrihari’s**, not Kalidasa’s. Kalidasa locks remain **Shakuntala, Meghaduta, Raghuvamsha**.
+**Ans:** ***Shringara Shataka*** is **Bhartrihari’s**, not Kalidasa’s. Kalidasa facts remain **Shakuntala, Meghaduta, Raghuvamsha**.
 
 </details>
 

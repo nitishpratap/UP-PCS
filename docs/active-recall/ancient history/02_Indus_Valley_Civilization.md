@@ -22,7 +22,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: About 2600–1900 BCE.** This is the urban peak that exams mean by “IVC.”
+**Ans: About 2600–1900 BCE.** This is the urban peak that papers mean by “IVC.”
 
 </details>
 
@@ -169,12 +169,12 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q18.** Which site is the standard lock for fire altars?
+**Q18.** Which site is the standard fact for fire altars?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Kalibangan.** A fire altar also occurs at **Lothal**. Kalibangan is the exam pair with the ploughed field.
+**Ans: Kalibangan.** A fire altar also occurs at **Lothal**. Kalibangan is the pair with the ploughed field.
 
 </details>
 
@@ -295,7 +295,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Generally planned** before building. This is why exams call IVC **urban**, not pastoral.
+**Ans: Generally planned** before building. This is why notes call IVC **urban**, not pastoral.
 
 </details>
 
@@ -851,7 +851,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Bronze lost-wax casting, standardised weights, baked bricks, planned water and drains, bead drills, and cotton.** Iron is a later Gangetic lock, not a Harappan failure.
+**Ans: Bronze lost-wax casting, standardised weights, baked bricks, planned water and drains, bead drills, and cotton.** Iron is a later Gangetic fact, not a Harappan failure.
 
 </details>
 
@@ -887,7 +887,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Dock, warehouse, bead factory, boat models, and a Gulf-facing Gujarat location** — the standard maritime lock.
+**Ans: Dock, warehouse, bead factory, boat models, and a Gulf-facing Gujarat location** — the standard maritime fact.
 
 </details>
 
@@ -959,9 +959,9 @@ Memory line: **Mo-Great Bath, Lo-Dock, Ka-Plough, Dho-Water, Rakh-Large, Alam-Ea
 
 ---
 
-## Extra locks the drill skipped
+## Extra facts the drill skipped
 
-**Q97.** Name the three UP Harappan-related sites that exams mix up with Haryana and J&K.
+**Q97.** Name the three UP Harappan-related sites that papers mix up with Haryana and J&K.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -970,7 +970,7 @@ Memory line: **Mo-Great Bath, Lo-Dock, Ka-Plough, Dho-Water, Rakh-Large, Alam-Ea
 
 </details>
 
-**Q98.** What is Daimabad’s southern lock besides “southernmost site”?
+**Q98.** What is Daimabad’s southern fact besides “southernmost site”?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -981,7 +981,7 @@ Memory line: **Mo-Great Bath, Lo-Dock, Ka-Plough, Dho-Water, Rakh-Large, Alam-Ea
 
 **Q99.** Match excavator to site. Row order is **not** the answer.
 
-| Person | Site / lock |
+| Person | Site / fact |
 | ------ | ----------- |
 | S.R. Rao | ? |
 | B.B. Lal | ? |

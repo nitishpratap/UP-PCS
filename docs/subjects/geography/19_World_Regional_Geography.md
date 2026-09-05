@@ -13,14 +13,14 @@
 
 </details>
 
-> **Sources baked in:** Lucent world regional match-lists; NCERT world map diet; coaching map (Lucent capitals / landlocked / boundaries); UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — country–capital, “which is NOT in this sea/region”, Australia interior, Japan plains, W Europe rain, West Asia mountains W→E; teach full regional map  
-> **Last verified:** August 2026 — coaching gap-pass (continent order, double-landlocked, boundary lines, capital≠city)  
+> **Sources baked in:** Lucent world regional match-lists; NCERT world map diet; coaching map (Lucent capitals / landlocked / boundaries); UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — country–capital, “which is NOT in this sea/region”, Australia interior, Japan plains, W Europe rain, West Asia mountains W→E; teach full regional map
+> **Last verified:** August 2026 — coaching gap-pass (continent order, double-landlocked, boundary lines, capital≠city)
 > **Current Affairs:** none mandatory (static political-map chapter)
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
 2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
@@ -29,14 +29,14 @@
 5. Central Asia capitals: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**, Kazakhstan **Astana**.
 6. The **Kara Kum** desert is in **Turkmenistan**.
 7. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
-8. Philippines cane and coconut history lock: **Spanish and Americans**.
+8. Philippines cane and coconut history fact: **Spanish and Americans**.
 9. Korea: **Seoul** south, **Pyongyang** north, roughly the **38th parallel**. Nobi/Kanto are not Korean plains.
 10. Palestine map: **Gaza** on the Egypt side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and Syria.
 11. Western Europe has **westerlies** and rain in **all months**.
 12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
 13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
 14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**.
-15. Brazil locks: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
+15. Brazil facts: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
 16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
 17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational answer.
 18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
@@ -53,9 +53,9 @@
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Nobi / Kanto | **Japan** | Korea | नोबी / कांतो |
 | Sunni Triangle | Baghdad, Tikrit, **Ramadi** | **Basra** (Shia south) | सुन्नी त्रिभुज |
@@ -70,7 +70,7 @@
 | Maitri / Bharati | Both **operational** Antarctica | Dakshin Gangotri still open | मैत्री / भारती |
 | W Europe rain | **All months** (westerlies) | Mediterranean winter-only | पश्चिमी यूरोप |
 | Philippines cane/coconut | **Spanish and Americans** | British / Dutch | फिलीपींस |
-| Palestine vs Israel map | West Bank + Gaza as exam units | “No such region on map” | फिलिस्तीन |
+| Palestine vs Israel map | West Bank + Gaza as units | “No such region on map” | फिलिस्तीन |
 | Seoul vs Pyongyang | Seoul = **South**; Pyongyang = **North** | Swapped | सियोल / प्योंगयांग |
 | Sumatra vs Java | Sumatra is **west** of Java | Java first on W→E list | सुमात्रा / जावा |
 | Bali vs Lombok | Bali **west** of Lombok (Wallace Line between them) | Lombok before Bali | बाली / लॉम्बोक |
@@ -93,11 +93,11 @@
 
 ## N.0 Framework — World Regional Geography
 
-This is a **political + regional map** chapter. Exams ask capital, “which is NOT in the region”, landlocked, equator, and a few physical locks inside a region.
+This is a **political + regional map** chapter. Notes ask capital, “which is NOT in the region”, landlocked, equator, and a few physical facts inside a region.
 
 - Learn each **continent’s size order**, then the **focus belts** (West Asia, Central Asia, SE Asia, Korea, Palestine, Caribbean).
-- Lock **capital ≠ famous city** (Ankara / Canberra / Brasília / Abu Dhabi).
-- Lock **landlocked** and **equator** lists separately from Topic 17 rivers / Topic 18 landforms.
+- Fact **capital ≠ famous city** (Ankara / Canberra / Brasília / Abu Dhabi).
+- Fact **landlocked** and **equator** lists separately from Topic 17 rivers / Topic 18 landforms.
 - Boundary lines (38th, 49th, Durand, Radcliffe, McMahon) are short map diet — full political-map drill is also Topic 23.
 
 **Order of this chapter**
@@ -112,15 +112,15 @@ Teach the **full regional map** — next year can ask any Lucent capital or land
 
 ## N.1 Asia (overview + East + South)
 
-**Continent area order (coaching lock):** Asia > Africa > North America > South America > Antarctica > Europe > Australia / Oceania.
+**Continent area order (coaching fact):** Asia > Africa > North America > South America > Antarctica > Europe > Australia / Oceania.
 
-Asia is the **largest** continent. Exam splits: **East / SE / South / West / Central / North (Siberia)**.
+Asia is the **largest** continent. splits: **East / SE / South / West / Central / North (Siberia)**.
 
 **Equator in Asia:** Indonesia (Sumatra, Kalimantan, Sulawesi), Maldives fringe — **not** India, **not** China.
 
 **Tropic of Cancer:** India, Bangladesh, Myanmar, China, Taiwan, UAE/Oman fringe, Saudi, Egypt (Africa).
 
-| East Asia | Capital | Physical lock |
+| East Asia | Capital | Physical fact |
 |-----------|---------|---------------|
 | **China** | Beijing | Tibet; Hwang Ho / Yangtze; Manchurian plain NE; Tropic through south; Shanghai on Yangtze mouth |
 | **Japan** | Tokyo | Islands **Hokkaido–Honshu–Kyushu–Shikoku** (N→S). **Kanto** = Tokyo. **Nobi** = Nagoya. **NOT Korea** (2021) |
@@ -132,7 +132,7 @@ Asia is the **largest** continent. Exam splits: **East / SE / South / West / Cen
 
 ### South Asia (India’s neighbourhood as a *region*)
 
-| Country | Capital | Lock |
+| Country | Capital | Fact |
 |---------|---------|------|
 | India | New Delhi | Peninsula; Tropic |
 | Pakistan | Islamabad | Indus; Karachi ≠ capital |
@@ -143,9 +143,9 @@ Asia is the **largest** continent. Exam splits: **East / SE / South / West / Cen
 | Maldives | Malé | Atolls; equator-near |
 | Afghanistan | Kabul | Landlocked hinge to West/Central Asia; Hindu Kush |
 
-India’s **land** neighbours (map, not the boundary-line chapter): PK, CN, NP, BT, MM, BD, AF (via PoK in some keys — exam usually lists **Pakistan, China, Nepal, Bhutan, Myanmar, Bangladesh**; Afghanistan if the stem uses the longer list). **Sri Lanka and Maldives are sea neighbours.**
+India’s **land** neighbours (map, not the boundary-line chapter): PK, CN, NP, BT, MM, BD, AF (via PoK in some keys — usually lists **Pakistan, China, Nepal, Bhutan, Myanmar, Bangladesh**; Afghanistan if the stem uses the longer list). **Sri Lanka and Maldives are sea neighbours.**
 
-> **Exam note:** Nobi + Kanto → **Japan**. Mongolia and Nepal/Bhutan are the Asian **landlocked** diet with Laos and the ‘stans.
+> ** note:** Nobi + Kanto → **Japan**. Mongolia and Nepal/Bhutan are the Asian **landlocked** diet with Laos and the ‘stans.
 
 **Inline PYQ — UPPCS Prelims 2021, Q55**
 
@@ -172,7 +172,7 @@ D. China
 
 ## N.2 West Asia
 
-**West Asia / Middle East** (exam map): Turkey, Iran, Levant, Arabian Peninsula, Iraq, Gulf states. **Maghreb** (NW Africa) is often paired in “Arab world” MCQs but sits on the **Africa** card.
+**West Asia / Middle East** (map): Turkey, Iran, Levant, Arabian Peninsula, Iraq, Gulf states. **Maghreb** (NW Africa) is often paired in “Arab world” MCQs but sits on the **Africa** card.
 
 **Mountains, west → east**
 
@@ -183,7 +183,7 @@ D. China
 | 3 | **Hindu Kush** | **Afghanistan** |
 | 4 | **Karakoram** | Pakistan–China |
 
-**Iraq — Sunni Triangle (2022 Q48)**
+**Iraq — Sunni Triangle**
 
 - Cities **inside** the usual triangle: **Baghdad, Tikrit, Ramadi**.
 - **Basra** = far **south**, Shia / Gulf head — **NOT** in the triangle.
@@ -213,7 +213,7 @@ D. China
 
 Straits: **Hormuz** (Gulf), **Bab el-Mandeb** (Red Sea), **Bosporus / Dardanelles** (Turkey — Europe/Asia). **Suez** = Africa–Asia cut (Med ↔ Red).
 
-Fertile Crescent (exam phrase): Nile–Levant–Tigris–Euphrates arc — Iraq, Syria, Levant, Egypt.
+Fertile Crescent (phrase): Nile–Levant–Tigris–Euphrates arc — Iraq, Syria, Levant, Egypt.
 
 **Inline PYQ — UPPCS Prelims 2022, Q48**
 
@@ -286,7 +286,7 @@ Five “stans” + Kazakhstan’s size. **Caspian** on the west; **China** on th
 
 All five stans except Turkmenistan’s western Caspian shore are **landlocked** (Kazakhstan is landlocked despite Caspian — Caspian is a lake).
 
-> **Exam note:** Kara Kum is **not** Kazakhstan. Kyzylkum straddles UZB–KAZ — different name.
+> ** note:** Kara Kum is **not** Kazakhstan. Kyzylkum straddles UZB–KAZ — different name.
 
 **Inline PYQ — UPPCS Prelims 2019, Q2**
 
@@ -343,7 +343,7 @@ D. Kazakhstan
 
 **ASEAN 10:** Indonesia, Malaysia, Philippines, Singapore, Thailand, Brunei, Vietnam, Laos, Myanmar, Cambodia. (**Timor-Leste** is SE Asia but not the classic 10.)
 
-| Country | Capital | Lock |
+| Country | Capital | Fact |
 |---------|---------|------|
 | **Indonesia** | **Jakarta** | Thousands of islands; equator. Port–country pair **Jakarta–Indonesia is correct** (2023) |
 | Malaysia | Kuala Lumpur | Peninsula + **Sabah/Sarawak on Borneo** |
@@ -357,14 +357,14 @@ D. Kazakhstan
 | Vietnam | Hanoi (Ho Chi Minh City = south) | **Mekong delta = southern Vietnam** (2021) |
 | Timor-Leste | Dili | East of Indonesia’s Timor |
 
-**Indonesia west → east:** **Sumatra → Java → Bali → Lombok**.
+**Indonesia west → east:Sumatra → Java → Bali → Lombok**.
 
 - Sumatra is the big western island (Malacca).
 - Java is next (Jakarta).
 - Bali then **Lombok** (Wallace Line between Bali and Lombok).
 - Trap lists put Java first or Lombok before Bali.
 
-**Borneo** = Indonesia + Malaysia + Brunei. **Not** volcanic. **New Guinea** = Indonesia (Papua) + Papua New Guinea (already an island-rank lock).
+**Borneo** = Indonesia + Malaysia + Brunei. **Not** volcanic. **New Guinea** = Indonesia (Papua) + Papua New Guinea (already an island-rank fact).
 
 **Mekong:** Tibet → China Yunnan → Myanmar → Laos → Thailand → Cambodia → **delta in S Vietnam, not Cambodia**.
 
@@ -483,7 +483,7 @@ D. Neither 1 nor 2
 
 Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
 
-| Piece | Lock |
+| Piece | Fact |
 |-------|------|
 | **Gaza Strip** | Mediterranean coast; borders **Egypt** + Israel |
 | **West Bank** | West of Jordan River; borders **Jordan** + Israel |
@@ -492,9 +492,9 @@ Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
 | **Jerusalem** | Claimed capital; Old City holy sites |
 | **Ramallah** | West Bank administrative centre often in news |
 
-**Land neighbours of Israel** (exam ring): **Egypt, Jordan, Syria, Lebanon** (+ Palestinian territories). **Not** Iraq (no direct border).
+**Land neighbours of Israel** (ring): **Egypt, Jordan, Syria, Lebanon** (+ Palestinian territories). **Not** Iraq (no direct border).
 
-| Extra map piece | Lock |
+| Extra map piece | Fact |
 |-----------------|------|
 | **Golan Heights** | NE; borders **Syria** |
 | **Sinai** | Egyptian peninsula; Suez Canal on its west; Gaza at its NE corner |
@@ -504,10 +504,10 @@ Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
 
 ## N.7 Europe
 
-| Belt | Who | Lock |
+| Belt | Who | Fact |
 |------|-----|------|
 | **Western Europe climate** | Britain, NW France, Low Countries | **Westerlies** + **rain in all months** (2024 Both) |
-| Mediterranean Europe | Spain, S France, Italy, Greece | Winter rain — **not** the “all months” lock |
+| Mediterranean Europe | Spain, S France, Italy, Greece | Winter rain — **not** the “all months” fact |
 | **British Isles** | UK + Ireland | **UK** = Great Britain + **Northern Ireland**. **Great Britain** = England + Scotland + Wales. Ireland (Republic) is **not** in the UK. Capital **London** |
 | **Nordic / Scandinavia** | Norway, Sweden, Denmark; Finland + Iceland often bundled | Oslo, Stockholm, Copenhagen, Helsinki, Reykjavik |
 | **Baltic states** | Estonia, Latvia, Lithuania | Tallinn, Riga, Vilnius |
@@ -518,7 +518,7 @@ Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
 | East-Central | Poland, Hungary, Czechia, Slovakia, Ukraine | Warsaw, Budapest, Prague, Kyiv |
 | Russia | Moscow | Europe + Asia; **Igarka** (Yenisei) = **Russia**, not China |
 
-**Landlocked Europe (exam set):** Switzerland, Austria, Czechia, Slovakia, Hungary, Serbia, North Macedonia, Kosovo, Belarus, Moldova, Luxembourg, Liechtenstein, Andorra, San Marino, Vatican. **Not** Poland (Baltic), **not** Romania (Black Sea).
+**Landlocked Europe (set):** Switzerland, Austria, Czechia, Slovakia, Hungary, Serbia, North Macedonia, Kosovo, Belarus, Moldova, Luxembourg, Liechtenstein, Andorra, San Marino, Vatican. **Not** Poland (Baltic), **not** Romania (Black Sea).
 
 **Microstates:** Vatican, Monaco, San Marino, Liechtenstein, Andorra, Malta (island).
 
@@ -526,7 +526,7 @@ Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
 
 **Suez (1869)** shortened **India–Europe** sea distance by about **7,000 km** (2018).
 
-| Port–country (2023 Q60) | Right? |
+| Port–country | Right? |
 |-------------------------|--------|
 | Rotterdam – Netherlands | Yes |
 | Montevideo – Uruguay | Yes |
@@ -576,7 +576,7 @@ D. 10,000 km
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Stock lock **~7000 km**.
+**Ans: B** — Stock fact **~7000 km**.
 
 </details>
 
@@ -607,7 +607,7 @@ D. Jakarta — Indonesia
 
 Sahara splits **Mediterranean Maghreb** (north) from **sub-Saharan** Africa.
 
-| Belt | Countries / lock |
+| Belt | Countries / fact |
 |------|------------------|
 | **Maghreb** | Morocco, Algeria, Tunisia, Libya (+ Western Sahara disputed) |
 | **Sahel** | Senegal–Mauritania–Mali–Burkina–Niger–Chad–Sudan fringe **south of Sahara** |
@@ -671,9 +671,9 @@ D. Cape Verde – Bamako
 | **Mexico** | Mexico City | Plateau; Yucatan; Gulf of Mexico |
 | **Greenland** | Nuuk | **Denmark**; largest **island**, not a US state |
 
-**Great Lakes (west → east, exam order):** Superior → Michigan → Huron → Erie → Ontario → St Lawrence. **Michigan** = wholly USA; others shared USA–Canada.
+**Great Lakes (west → east, order):** Superior → Michigan → Huron → Erie → Ontario → St Lawrence. **Michigan** = wholly USA; others shared USA–Canada.
 
-**Central America (7):** Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, **Panama**. Panama Canal = Atlantic–Pacific **with locks**. Not a South American country.
+**Central America (7):** Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, **Panama**. Panama Canal = Atlantic–Pacific **with facts**. Not a South American country.
 
 **Caribbean** has its own card (**N.13**). Bermuda / Bahamas sit in the **Atlantic** more than in the Caribbean *Sea* MCQ.
 
@@ -683,7 +683,7 @@ D. Cape Verde – Bamako
 
 Andes on the **west**. Amazon in the **north-centre**. Equator through **Ecuador, Colombia, Brazil**. Southern cone = Argentina, Chile, Uruguay.
 
-| Country | Capital | Coast? | Regional lock |
+| Country | Capital | Coast? | Regional fact |
 |---------|---------|--------|---------------|
 | **Brazil** | **Brasília** (not Rio / São Paulo) | Atlantic | **Selva** + **Terra Roxa** (2025 both). Amazon |
 | Argentina | Buenos Aires | Atlantic | Pampas; Aconcagua |
@@ -767,7 +767,7 @@ Island-continent. **Tropic of Capricorn** cuts it. Interior = **desert / semi-de
 
 States/territories: **WA, NT, QLD, NSW, VIC, SA, TAS** + **ACT** (**Canberra** = capital, not Sydney).
 
-| Extra | Lock |
+| Extra | Fact |
 |-------|------|
 | Outback | Dry interior |
 | Great Artesian Basin | Groundwater under the east-central plains |
@@ -777,7 +777,7 @@ States/territories: **WA, NT, QLD, NSW, VIC, SA, TAS** + **ACT** (**Canberra** =
 
 ### New Zealand (Oceania pair — always asked with Australia)
 
-| Lock | Fact |
+| Cue | Fact |
 |------|------|
 | Capital | **Wellington** (not Auckland) |
 | Islands | **North Island + South Island**; **Cook Strait** |
@@ -840,13 +840,13 @@ D. South-Western Coast
 
 Continent under ice. **Antarctic Treaty 1959** (in force 1961). India acceded **1983**.
 
-| Station | Lock |
+| Station | Fact |
 |---------|------|
 | **Dakshin Gangotri** | First Indian (1983/84). **Not operational** now (supply base / abandoned as permanent station) |
 | **Maitri** | 1988/89, Schirmacher Oasis — **operational** |
 | **Bharati** | 2012, Larsemann Hills — **operational** |
 
-Exam pair of **permanent operational** stations = **Maitri + Bharati** (2021). **Arya** is a fake name. Himadri = **Arctic** (Svalbard), not Antarctic.
+ pair of **permanent operational** stations = **Maitri + Bharati** (2021). **Arya** is a fake name. Himadri = **Arctic** (Svalbard), not Antarctic.
 
 **Inline PYQ — UPPCS Prelims 2021, Q53**
 
@@ -878,7 +878,7 @@ D. Dakshin Gangotri and Maitri
 | Group | Islands |
 |-------|---------|
 | **Greater Antilles** | Cuba, Jamaica, Hispaniola (**Haiti + Dominican Republic**), Puerto Rico |
-| **Lesser Antilles** (exam names) | **Grenada, Montserrat, Anguilla**, Barbados, Trinidad (S edge), Antigua |
+| **Lesser Antilles** (names) | **Grenada, Montserrat, Anguilla**, Barbados, Trinidad (S edge), Antigua |
 | **NOT Caribbean** | **Madeira** (Portugal, NE Atlantic off Morocco), Canary Islands (Spain, Atlantic), **Azores**, **Cape Verde**, Bermuda (N Atlantic) |
 
 | Island | Capital / extra |
@@ -915,7 +915,7 @@ D. Anguilla
 
 ## N.14 Landlocked · Equator · Capitals · Boundaries (map diet)
 
-**South America landlocked:** **Bolivia + Paraguay** only. Uruguay / Peru / Suriname have coasts.
+**South America landlocked:Bolivia + Paraguay** only. Uruguay / Peru / Suriname have coasts.
 
 **Asia landlocked (core):** Mongolia, Nepal, Bhutan, Laos, Afghanistan, the five stans (Caspian ≠ ocean), Armenia, (plus Central Asian neighbours).
 
@@ -923,13 +923,13 @@ D. Anguilla
 
 **Africa landlocked (core):** Ethiopia (post-Eritrea), Mali, Niger, Chad, Uganda, Zambia, Zimbabwe, Botswana, Malawi, Rwanda, Burundi, South Sudan, CAR, Lesotho, Eswatini.
 
-**Equator countries (exam):** Ecuador, Colombia, Brazil, Gabon, Congo, DRC, Uganda, Kenya, Somalia, Indonesia, Maldives, Kiribati. **Not** India. **Not** Australia (Capricorn, not Equator).
+**Equator countries ():** Ecuador, Colombia, Brazil, Gabon, Congo, DRC, Uganda, Kenya, Somalia, Indonesia, Maldives, Kiribati. **Not** India. **Not** Australia (Capricorn, not Equator).
 
 **Prime Meridian awareness:** runs through the UK (Greenwich), France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana — **not** through India.
 
 **Boundary lines (short map diet)**
 
-| Line | Lock |
+| Line | Fact |
 |------|------|
 | **38th parallel** | Approx. Korea DMZ / North–South Korea |
 | **49th parallel** | Much of **Canada–USA** border |
@@ -962,7 +962,7 @@ D. Anguilla
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Nobi and Kanto plains are located in:
@@ -2192,12 +2192,12 @@ D. Brunei
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Timor-Leste is SE Asia but not the classic ASEAN-10 lock.
+**Ans: C** — Timor-Leste is SE Asia but not the classic ASEAN-10 fact.
 </details>
 
 ---
 
-**Q58.** Assertion (A): Kazakhstan is treated as landlocked in ocean terms.  
+**Q58.** Assertion (A): Kazakhstan is treated as landlocked in ocean terms.
 Reason (R): The Caspian Sea is a lake, not an open ocean.
 
 A. Both A and R are true and R explains A

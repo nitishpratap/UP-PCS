@@ -101,6 +101,6 @@ One fact per card. Write keywords, then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** **2019 Q90** lock.
+**Ans:** **2019 Q90** fact.
 
 </details>

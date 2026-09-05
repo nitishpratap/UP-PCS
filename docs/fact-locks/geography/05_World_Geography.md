@@ -1,32 +1,32 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 5</p>
 <h1 class="fact-lock-hero__title">World Geography</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
 <div class="fact-lock-sheet fact-lock-sheet--dense" markdown="1">
 ## 1. CONTINENTS — BASIC RATTA
 
-| Fact                  | Answer        |
+| Fact | Answer |
 | --------------------- | ------------- |
-| Largest continent     | **Asia**      |
-| Smallest continent    | **Australia** |
-| Largest by population | **Asia**      |
-| Largest by area       | **Asia**      |
-| Second largest        | Africa        |
-| Third largest         | North America |
-| Fourth largest        | South America |
-| Fifth largest         | Antarctica    |
-| Sixth largest         | Europe        |
-| Seventh smallest/last | Australia     |
+| Largest continent | **Asia** |
+| Smallest continent | **Australia** |
+| Largest by population | **Asia** |
+| Largest by area | **Asia** |
+| Second largest | Africa |
+| Third largest | North America |
+| Fourth largest | South America |
+| Fifth largest | Antarctica |
+| Sixth largest | Europe |
+| Seventh smallest/last | Australia |
 
 ###Order by area
 
@@ -34,20 +34,20 @@ hide:
 
 ## 2. CONTINENTAL EXTREMES
 
-| Feature                         | Location                      |
+| Feature | Location |
 | ------------------------------- | ----------------------------- |
-| Largest continent               | Asia                          |
-| Largest island                  | Greenland                     |
-| Largest peninsula               | Arabian Peninsula             |
-| Largest desert                  | Antarctica — Antarctic Desert |
-| Largest hot desert              | Sahara                        |
-| Largest rainforest              | Amazon Basin                  |
-| Largest plateau                 | Tibetan Plateau               |
-| Highest mountain                | Everest                       |
-| Deepest lake                    | Baikal                        |
-| Largest freshwater lake by area | Superior                      |
-| Largest inland water body       | Caspian Sea                   |
-| Longest mountain system on land | Andes                         |
+| Largest continent | Asia |
+| Largest island | Greenland |
+| Largest peninsula | Arabian Peninsula |
+| Largest desert | Antarctica — Antarctic Desert |
+| Largest hot desert | Sahara |
+| Largest rainforest | Amazon Basin |
+| Largest plateau | Tibetan Plateau |
+| Highest mountain | Everest |
+| Deepest lake | Baikal |
+| Largest freshwater lake by area | Superior |
+| Largest inland water body | Caspian Sea |
+| Longest mountain system on land | Andes |
 
 ###️ Remember
 
@@ -57,25 +57,25 @@ hide:
 
 ## 3. ️ MAJOR WORLD MOUNTAIN RANGES
 
-| Range                  | Continent/Region            |
+| Range | Continent/Region |
 | ---------------------- | --------------------------- |
-| Himalayas              | Asia                        |
-| Karakoram              | Asia                        |
-| Hindu Kush             | Asia                        |
-| Kunlun                 | Asia                        |
-| Tien Shan              | Central Asia                |
-| Zagros                 | Iran/Iraq region            |
-| Caucasus               | Europe–Asia boundary region |
-| Alps                   | Europe                      |
-| Pyrenees               | Europe                      |
-| Scandinavian Mountains | Europe                      |
-| Ural                   | Europe–Asia boundary        |
-| Atlas                  | North Africa                |
-| Andes                  | South America               |
-| Rockies                | North America               |
-| Appalachians           | North America               |
-| Great Dividing Range   | Australia                   |
-| Drakensberg            | Southern Africa             |
+| Himalayas | Asia |
+| Karakoram | Asia |
+| Hindu Kush | Asia |
+| Kunlun | Asia |
+| Tien Shan | Central Asia |
+| Zagros | Iran/Iraq region |
+| Caucasus | Europe–Asia boundary region |
+| Alps | Europe |
+| Pyrenees | Europe |
+| Scandinavian Mountains | Europe |
+| Ural | Europe–Asia boundary |
+| Atlas | North Africa |
+| Andes | South America |
+| Rockies | North America |
+| Appalachians | North America |
+| Great Dividing Range | Australia |
+| Drakensberg | Southern Africa |
 
 ## 4. ️ HIMALAYAS
 
@@ -201,19 +201,19 @@ Often regarded as:
 
 ## 11. ️ MAJOR PEAKS
 
-| Peak              | Range        | Country               |
+| Peak | Range | Country |
 | ----------------- | ------------ | --------------------- |
-| **Everest**       | Himalayas    | Nepal–China border    |
-| **K2**            | Karakoram    | Pakistan–China border |
-| **Kanchenjunga**  | Himalayas    | India–Nepal border    |
-| **Lhotse**        | Himalayas    | Nepal–China border    |
-| **Makalu**        | Himalayas    | Nepal–China border    |
-| **Aconcagua**     | Andes        | Argentina             |
-| **Denali**        | Alaska Range | USA                   |
-| **Kilimanjaro**   | East Africa  | Tanzania              |
-| **Elbrus**        | Caucasus     | Russia                |
-| **Mont Blanc**    | Alps         | France–Italy region   |
-| **Vinson Massif** | Antarctica   | Antarctica            |
+| **Everest** | Himalayas | Nepal–China border |
+| **K2** | Karakoram | Pakistan–China border |
+| **Kanchenjunga** | Himalayas | India–Nepal border |
+| **Lhotse** | Himalayas | Nepal–China border |
+| **Makalu** | Himalayas | Nepal–China border |
+| **Aconcagua** | Andes | Argentina |
+| **Denali** | Alaska Range | USA |
+| **Kilimanjaro** | East Africa | Tanzania |
+| **Elbrus** | Caucasus | Russia |
+| **Mont Blanc** | Alps | France–Italy region |
+| **Vinson Massif** | Antarctica | Antarctica |
 
 ###
 
@@ -307,24 +307,24 @@ Highest point:
 
 ## 16. MAJOR WORLD RIVERS
 
-| River                | Continent     |
+| River | Continent |
 | -------------------- | ------------- |
-| Amazon               | South America |
-| Nile                 | Africa        |
+| Amazon | South America |
+| Nile | Africa |
 | Mississippi–Missouri | North America |
-| Yangtze              | Asia          |
-| Huang He             | Asia          |
-| Congo                | Africa        |
-| Niger                | Africa        |
-| Mekong               | Asia          |
-| Danube               | Europe        |
-| Volga                | Europe        |
-| Murray–Darling       | Australia     |
-| Paraná               | South America |
-| Orinoco              | South America |
-| Zambezi              | Africa        |
-| Tigris               | Asia          |
-| Euphrates            | Asia          |
+| Yangtze | Asia |
+| Huang He | Asia |
+| Congo | Africa |
+| Niger | Africa |
+| Mekong | Asia |
+| Danube | Europe |
+| Volga | Europe |
+| Murray–Darling | Australia |
+| Paraná | South America |
+| Orinoco | South America |
+| Zambezi | Africa |
+| Tigris | Asia |
+| Euphrates | Asia |
 
 ## 17. NILE
 
@@ -556,36 +556,36 @@ Both ultimately reach:
 
 ## 29. MAJOR RIVER → MOUTH
 
-| River            | Mouth             |
+| River | Mouth |
 | ---------------- | ----------------- |
-| Nile             | Mediterranean Sea |
-| Amazon           | Atlantic Ocean    |
-| Mississippi      | Gulf of Mexico    |
-| Yangtze          | East China Sea    |
-| Huang He         | Bohai Sea         |
-| Danube           | Black Sea         |
-| Volga            | Caspian Sea       |
-| Niger            | Gulf of Guinea    |
-| Congo            | Atlantic          |
-| Zambezi          | Indian Ocean      |
-| Mekong           | South China Sea   |
-| Tigris–Euphrates | Persian Gulf      |
+| Nile | Mediterranean Sea |
+| Amazon | Atlantic Ocean |
+| Mississippi | Gulf of Mexico |
+| Yangtze | East China Sea |
+| Huang He | Bohai Sea |
+| Danube | Black Sea |
+| Volga | Caspian Sea |
+| Niger | Gulf of Guinea |
+| Congo | Atlantic |
+| Zambezi | Indian Ocean |
+| Mekong | South China Sea |
+| Tigris–Euphrates | Persian Gulf |
 
 ## 30. ️ WORLD LAKES
 
-| Lake             | Location             |
+| Lake | Location |
 | ---------------- | -------------------- |
-| Caspian Sea      | Europe–Asia          |
-| Superior         | USA–Canada           |
-| Victoria         | East Africa          |
-| Baikal           | Russia               |
-| Tanganyika       | East Africa          |
-| Malawi/Nyasa     | East Africa          |
-| Titicaca         | Peru–Bolivia         |
-| Aral Sea         | Central Asia         |
-| Dead Sea         | Israel/Jordan region |
-| Great Bear Lake  | Canada               |
-| Great Slave Lake | Canada               |
+| Caspian Sea | Europe–Asia |
+| Superior | USA–Canada |
+| Victoria | East Africa |
+| Baikal | Russia |
+| Tanganyika | East Africa |
+| Malawi/Nyasa | East Africa |
+| Titicaca | Peru–Bolivia |
+| Aral Sea | Central Asia |
+| Dead Sea | Israel/Jordan region |
+| Great Bear Lake | Canada |
+| Great Slave Lake | Canada |
 
 ## 31. CASPIAN SEA
 
@@ -707,25 +707,25 @@ Located:
 
 ## 38. ️ MAJOR DESERTS
 
-| Desert         | Region            |
+| Desert | Region |
 | -------------- | ----------------- |
-| Sahara         | North Africa      |
-| Arabian        | Arabian Peninsula |
-| Gobi           | Mongolia + China  |
-| Taklamakan     | China             |
-| Thar           | India + Pakistan  |
-| Kalahari       | Southern Africa   |
-| Namib          | SW Africa         |
-| Atacama        | Chile             |
-| Patagonian     | Argentina         |
-| Great Victoria | Australia         |
-| Great Sandy    | Australia         |
-| Simpson        | Australia         |
-| Mojave         | USA               |
-| Sonoran        | USA + Mexico      |
-| Great Basin    | USA               |
-| Antarctic      | Antarctica        |
-| Arctic         | Arctic            |
+| Sahara | North Africa |
+| Arabian | Arabian Peninsula |
+| Gobi | Mongolia + China |
+| Taklamakan | China |
+| Thar | India + Pakistan |
+| Kalahari | Southern Africa |
+| Namib | SW Africa |
+| Atacama | Chile |
+| Patagonian | Argentina |
+| Great Victoria | Australia |
+| Great Sandy | Australia |
+| Simpson | Australia |
+| Mojave | USA |
+| Sonoran | USA + Mexico |
+| Great Basin | USA |
+| Antarctic | Antarctica |
+| Arctic | Arctic |
 
 ## 39. ️ SAHARA
 
@@ -875,19 +875,19 @@ Important:
 
 ## 48. GRASSLANDS OF WORLD
 
-| Grassland         | Region             |
+| Grassland | Region |
 | ----------------- | ------------------ |
-| Prairies          | North America      |
-| Pampas            | Argentina–Uruguay  |
-| Llanos            | Venezuela–Colombia |
-| Campos            | Brazil             |
-| Selvas            | Amazon region      |
-| Veld              | South Africa       |
-| Savanna           | Tropical Africa    |
-| Steppes           | Eurasia            |
-| Downs             | Australia          |
-| Puszta            | Hungary            |
-| Canterbury Plains | New Zealand        |
+| Prairies | North America |
+| Pampas | Argentina–Uruguay |
+| Llanos | Venezuela–Colombia |
+| Campos | Brazil |
+| Selvas | Amazon region |
+| Veld | South Africa |
+| Savanna | Tropical Africa |
+| Steppes | Eurasia |
+| Downs | Australia |
+| Puszta | Hungary |
+| Canterbury Plains | New Zealand |
 
 ## 49. PRAIRIES
 
@@ -1011,21 +1011,21 @@ Type:
 
 ## 57. ️ WORLD PLATEAUS
 
-| Plateau              | Location                |
+| Plateau | Location |
 | -------------------- | ----------------------- |
-| Tibetan              | China/Tibet             |
-| Deccan               | India                   |
-| Iranian              | Iran                    |
-| Anatolian            | Turkey                  |
-| Mongolian            | Mongolia                |
-| Mexican              | Mexico                  |
-| Colorado             | USA                     |
-| Brazilian Highlands  | Brazil                  |
-| Guiana Highlands     | Venezuela/Guyana region |
-| Ethiopian Highlands  | Ethiopia                |
-| East African Plateau | East Africa             |
-| Patagonian           | Argentina               |
-| Kimberley            | Australia               |
+| Tibetan | China/Tibet |
+| Deccan | India |
+| Iranian | Iran |
+| Anatolian | Turkey |
+| Mongolian | Mongolia |
+| Mexican | Mexico |
+| Colorado | USA |
+| Brazilian Highlands | Brazil |
+| Guiana Highlands | Venezuela/Guyana region |
+| Ethiopian Highlands | Ethiopia |
+| East African Plateau | East Africa |
+| Patagonian | Argentina |
+| Kimberley | Australia |
 
 ## 58. ️ TIBETAN PLATEAU
 
@@ -1103,22 +1103,22 @@ Important feature:
 
 ## 63. ️ MAJOR ISLANDS
 
-| Island                   | Country/Region                |
+| Island | Country/Region |
 | ------------------------ | ----------------------------- |
-| Greenland                | Denmark/Kingdom of Denmark    |
-| New Guinea               | Indonesia + Papua New Guinea  |
-| Borneo                   | Indonesia + Malaysia + Brunei |
-| Madagascar               | Madagascar                    |
-| Sumatra                  | Indonesia                     |
-| Java                     | Indonesia                     |
-| Honshu                   | Japan                         |
-| Great Britain            | UK                            |
-| Iceland                  | Iceland                       |
-| Sri Lanka                | Sri Lanka                     |
-| New Zealand South Island | New Zealand                   |
-| Tasmania                 | Australia                     |
-| Cuba                     | Cuba                          |
-| Hispaniola               | Haiti + Dominican Republic    |
+| Greenland | Denmark/Kingdom of Denmark |
+| New Guinea | Indonesia + Papua New Guinea |
+| Borneo | Indonesia + Malaysia + Brunei |
+| Madagascar | Madagascar |
+| Sumatra | Indonesia |
+| Java | Indonesia |
+| Honshu | Japan |
+| Great Britain | UK |
+| Iceland | Iceland |
+| Sri Lanka | Sri Lanka |
+| New Zealand South Island | New Zealand |
+| Tasmania | Australia |
+| Cuba | Cuba |
+| Hispaniola | Haiti + Dominican Republic |
 
 ## 64. ️ GREENLAND
 
@@ -1196,24 +1196,24 @@ Location:
 
 ## 69. IMPORTANT SEAS
 
-| Sea             | Location              |
+| Sea | Location |
 | --------------- | --------------------- |
-| Mediterranean   | Europe–Africa–Asia    |
-| Black Sea       | Europe–Asia           |
-| Caspian Sea     | Europe–Asia           |
-| Red Sea         | Africa–Arabia         |
-| Arabian Sea     | Indian Ocean          |
-| Baltic Sea      | Northern Europe       |
-| North Sea       | NW Europe             |
-| Caribbean Sea   | Caribbean             |
-| South China Sea | SE Asia               |
-| East China Sea  | East Asia             |
-| Yellow Sea      | China–Korea           |
-| Sea of Japan    | Japan/Korea/Russia    |
-| Bering Sea      | North Pacific         |
-| Coral Sea       | NE Australia          |
-| Tasman Sea      | Australia–New Zealand |
-| Andaman Sea     | SE Bay of Bengal      |
+| Mediterranean | Europe–Africa–Asia |
+| Black Sea | Europe–Asia |
+| Caspian Sea | Europe–Asia |
+| Red Sea | Africa–Arabia |
+| Arabian Sea | Indian Ocean |
+| Baltic Sea | Northern Europe |
+| North Sea | NW Europe |
+| Caribbean Sea | Caribbean |
+| South China Sea | SE Asia |
+| East China Sea | East Asia |
+| Yellow Sea | China–Korea |
+| Sea of Japan | Japan/Korea/Russia |
+| Bering Sea | North Pacific |
+| Coral Sea | NE Australia |
+| Tasman Sea | Australia–New Zealand |
+| Andaman Sea | SE Bay of Bengal |
 
 ## 70. MEDITERRANEAN SEA
 
@@ -1305,21 +1305,21 @@ Important island groups:
 
 ## 76. IMPORTANT GULFS
 
-| Gulf                | Region                   |
+| Gulf | Region |
 | ------------------- | ------------------------ |
-| Persian Gulf        | Iran–Arabian Peninsula   |
-| Gulf of Oman        | Arabian Sea–Hormuz       |
-| Gulf of Aden        | Arabian Peninsula–Africa |
-| Gulf of Mexico      | North America            |
-| Gulf of Guinea      | West Africa              |
-| Gulf of California  | Mexico                   |
-| Gulf of Alaska      | Alaska                   |
-| Gulf of Carpentaria | Australia                |
-| Gulf of Thailand    | SE Asia                  |
-| Gulf of Bothnia     | Baltic Sea               |
-| Gulf of Mannar      | India–Sri Lanka          |
-| Gulf of Kutch       | India                    |
-| Gulf of Khambhat    | India                    |
+| Persian Gulf | Iran–Arabian Peninsula |
+| Gulf of Oman | Arabian Sea–Hormuz |
+| Gulf of Aden | Arabian Peninsula–Africa |
+| Gulf of Mexico | North America |
+| Gulf of Guinea | West Africa |
+| Gulf of California | Mexico |
+| Gulf of Alaska | Alaska |
+| Gulf of Carpentaria | Australia |
+| Gulf of Thailand | SE Asia |
+| Gulf of Bothnia | Baltic Sea |
+| Gulf of Mannar | India–Sri Lanka |
+| Gulf of Kutch | India |
+| Gulf of Khambhat | India |
 
 ## 77. PERSIAN GULF
 
@@ -1391,15 +1391,15 @@ Important river:
 
 ## 81. IMPORTANT BAYS
 
-| Bay             | Region         |
+| Bay | Region |
 | --------------- | -------------- |
-| Bay of Bengal   | Indian Ocean   |
-| Hudson Bay      | Canada         |
-| Bay of Biscay   | Spain–France   |
-| Bay of Fundy    | Canada         |
-| Bay of Bothnia  | Baltic         |
+| Bay of Bengal | Indian Ocean |
+| Hudson Bay | Canada |
+| Bay of Biscay | Spain–France |
+| Bay of Fundy | Canada |
+| Bay of Bothnia | Baltic |
 | Bay of Campeche | Gulf of Mexico |
-| Bay of Plenty   | New Zealand    |
+| Bay of Plenty | New Zealand |
 
 ###
 
@@ -1409,30 +1409,30 @@ Important river:
 
 ## 82. WORLD STRAITS — MASTER TABLE
 
-| Strait            | Connects/Separates                   |
+| Strait | Connects/Separates |
 | ----------------- | ------------------------------------ |
-| **Gibraltar**     | Atlantic ↔ Mediterranean             |
-| **Bosporus**      | Black Sea ↔ Marmara                  |
-| **Dardanelles**   | Marmara ↔ Aegean                     |
-| **Bering**        | Pacific ↔ Arctic                     |
-| **Malacca**       | Indian Ocean route ↔ South China Sea |
-| **Hormuz**        | Persian Gulf ↔ Gulf of Oman          |
-| **Bab-el-Mandeb** | Red Sea ↔ Gulf of Aden               |
-| **Palk**          | India ↔ Sri Lanka                    |
-| **Sunda**         | Java Sea ↔ Indian Ocean              |
-| **Lombok**        | Bali Sea ↔ Indian Ocean              |
-| **Torres**        | Australia ↔ New Guinea               |
-| **Cook**          | North/South Islands of New Zealand   |
-| **Davis**         | Greenland ↔ Baffin Island            |
-| **Drake Passage** | South America ↔ Antarctica           |
+| **Gibraltar** | Atlantic ↔ Mediterranean |
+| **Bosporus** | Black Sea ↔ Marmara |
+| **Dardanelles** | Marmara ↔ Aegean |
+| **Bering** | Pacific ↔ Arctic |
+| **Malacca** | Indian Ocean route ↔ South China Sea |
+| **Hormuz** | Persian Gulf ↔ Gulf of Oman |
+| **Bab-el-Mandeb** | Red Sea ↔ Gulf of Aden |
+| **Palk** | India ↔ Sri Lanka |
+| **Sunda** | Java Sea ↔ Indian Ocean |
+| **Lombok** | Bali Sea ↔ Indian Ocean |
+| **Torres** | Australia ↔ New Guinea |
+| **Cook** | North/South Islands of New Zealand |
+| **Davis** | Greenland ↔ Baffin Island |
+| **Drake Passage** | South America ↔ Antarctica |
 
 ## 83. WORLD CANALS
 
-| Canal       | Connects                       |
+| Canal | Connects |
 | ----------- | ------------------------------ |
-| **Suez**    | Mediterranean ↔ Red Sea        |
-| **Panama**  | Atlantic ↔ Pacific             |
-| **Kiel**    | North Sea ↔ Baltic             |
+| **Suez** | Mediterranean ↔ Red Sea |
+| **Panama** | Atlantic ↔ Pacific |
+| **Kiel** | North Sea ↔ Baltic |
 | **Corinth** | Gulf of Corinth ↔ Saronic Gulf |
 
 ###
@@ -1445,16 +1445,16 @@ Important river:
 
 ## 84. RESOURCE REGIONS — PETROLEUM
 
-| Region         | Important association  |
+| Region | Important association |
 | -------------- | ---------------------- |
-| Persian Gulf   | Major petroleum region |
-| West Siberia   | Russia                 |
-| Caspian region | Eurasia                |
-| North Sea      | UK/Norway              |
-| Gulf of Mexico | USA/Mexico             |
-| Venezuela      | Orinoco Belt           |
-| Niger Delta    | Nigeria                |
-| Alberta        | Canada                 |
+| Persian Gulf | Major petroleum region |
+| West Siberia | Russia |
+| Caspian region | Eurasia |
+| North Sea | UK/Norway |
+| Gulf of Mexico | USA/Mexico |
+| Venezuela | Orinoco Belt |
+| Niger Delta | Nigeria |
+| Alberta | Canada |
 
 ###
 
@@ -1544,16 +1544,16 @@ Important regions:
 
 ## 89. MAJOR AGRICULTURAL REGIONS
 
-| Region                   | Major association        |
+| Region | Major association |
 | ------------------------ | ------------------------ |
-| Prairies                 | Wheat                    |
-| Pampas                   | Wheat + cattle           |
-| Steppes                  | Wheat                    |
-| Veld                     | Livestock                |
-| Mediterranean            | Citrus + grapes + olives |
-| Monsoon Asia             | Rice                     |
-| Tropical plantation belt | Tea/coffee/rubber etc.   |
-| Great Plains             | Wheat + maize            |
+| Prairies | Wheat |
+| Pampas | Wheat + cattle |
+| Steppes | Wheat |
+| Veld | Livestock |
+| Mediterranean | Citrus + grapes + olives |
+| Monsoon Asia | Rice |
+| Tropical plantation belt | Tea/coffee/rubber etc. |
+| Great Plains | Wheat + maize |
 
 ## 90. CLIMATE REGIONS — KÖPPEN BASICS
 

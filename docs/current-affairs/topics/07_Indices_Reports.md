@@ -1,6 +1,6 @@
 # Indices & Reports
 
-> **Priority A** | Earlier about **7%** as a separate topic  
+> **Priority A** | Earlier about **7%** as a separate topic
 > Today, ranks often hide inside Economy, Environment, or UP questions.
 
 ## What to note every time
@@ -19,10 +19,10 @@
 
 ### Sampoornata Abhiyan 2.0 and aspirational rankings
 
-**What happened**  
-NITI Aayog’s **Sampoornata Abhiyan 2.0** is not a new global index. It is a drive to improve indicators in aspirational districts and blocks. Still, exam questions may mix it with ranking language.
+**What happened**
+NITI Aayog’s **Sampoornata Abhiyan 2.0** is not a new global index. It is a drive to improve indicators in aspirational districts and blocks. Still, questions may mix it with ranking language.
 
-**Core locks**
+**Core facts**
 
 - Runner: **NITI Aayog**.
 - Dates: **28 January to 14 April 2026**.
@@ -37,13 +37,13 @@ No clean new global index release was locked as a must-score card for January in
 
 ### Multidimensional poverty figure in the Budget speech
 
-**What happened**  
+**What happened**
 In the Budget speech, the Finance Minister said that close to **25 crore** people have come out of multidimensional poverty through years of government programmes.
 
 **How to use this**
 
 - Treat **25 crore** as a Budget-speech figure.
-- When a fresh Multidimensional Poverty Index report is released, separately lock the **publisher** and the exact method.
+- When a fresh Multidimensional Poverty Index report is released, separately fact the **publisher** and the exact method.
 
 ### 16th Finance Commission
 
@@ -54,7 +54,7 @@ In the Budget speech, the Finance Minister said that close to **25 crore** peopl
 
 ### UP ranking note
 
-February state compilations said Uttar Pradesh topped a **Deregulation 1.0** national ranking. Keep the claim under [UP Special](08_UP_Special.md). Add the exact publisher name when you lock an official note.
+February state compilations said Uttar Pradesh topped a **Deregulation 1.0** national ranking. Keep the claim under [UP Special](08_UP_Special.md). Add the exact publisher name when you fact an official note.
 
 ---
 
@@ -62,10 +62,10 @@ February state compilations said Uttar Pradesh topped a **Deregulation 1.0** nat
 
 ### World Happiness Report 2026 | released around 20 March 2026
 
-**What happened**  
+**What happened**
 The **World Happiness Report 2026** ranked countries by how happy people say they feel.
 
-**Core locks**
+**Core facts**
 
 - **Finland** stayed at **rank 1** (ninth year in a row in report messaging).
 - **India** was placed around **rank 116** in coverage of this edition.
@@ -89,7 +89,7 @@ March compilations also recycled university and rich-list ranks. Add exact top n
 
 April was quieter for brand-new global ranks. Keep these ready:
 
-| Report | Publisher / top lock | India lock |
+| Report | Publisher / top fact | India fact |
 |--------|----------------------|------------|
 | World Happiness Report 2026 | **Finland** #1 | About **116** |
 | Global Terrorism Index 2026 | **IEP**; Pakistan at top | Revise under International |
@@ -104,10 +104,10 @@ Census 2027 Phase 1 is a **national counting exercise**, not a private think-tan
 
 ### Henley Passport Index 2026
 
-**What happened**  
+**What happened**
 The **Henley Passport Index** ranked passports by visa-free access.
 
-**Core locks**
+**Core facts**
 
 - Publisher family: **Henley & Partners** (uses IATA data).
 - Top passport in coverage: **Singapore** (about **192** visa-free destinations).
@@ -115,7 +115,7 @@ The **Henley Passport Index** ranked passports by visa-free access.
 
 ### Soft ranking follow-ups
 
-Keep March–April report locks ready (Happiness, GTI). Add named Whitley / Pulitzer winners only when a stem needs them.
+Keep March–April report facts ready (Happiness, GTI). Add named Whitley / Pulitzer winners only when a stem needs them.
 
 ---
 
@@ -123,20 +123,20 @@ Keep March–April report locks ready (Happiness, GTI). Add named Whitley / Puli
 
 ### QS World University Rankings 2027
 
-**What happened**  
+**What happened**
 The new QS university ranking cycle placed **MIT (USA)** at the top again. About **52** Indian institutions featured in coverage.
 
-**Core locks**
+**Core facts**
 
 - Global top: **MIT**.
 - Top Indian institute in coverage: **IIT Delhi** around **rank 118**.
 
 ### QS World Future Skills Index 2027
 
-**What happened**  
+**What happened**
 QS also released a Future Skills Index on how ready countries are for new-age work skills.
 
-**Core locks**
+**Core facts**
 
 - Top country: **USA**.
 - **India** around **rank 13**.
@@ -151,10 +151,10 @@ QS also released a Future Skills Index on how ready countries are for new-age wo
 
 ### SOFI 2026 | State of Food Security and Nutrition in the World
 
-**What happened**  
+**What happened**
 The **SOFI 2026** report was released by five UN agencies, including the **FAO**.
 
-**Core locks**
+**Core facts**
 
 - Global hunger in 2025 coverage: about **645 million** people (**7.8%**), down from **8.6%** in 2022.
 - Healthy diets remain unaffordable for about **2.7 billion** people.
@@ -172,7 +172,7 @@ The **SOFI 2026** report was released by five UN agencies, including the **FAO**
 
 August was quieter for new global indices. Keep ready:
 
-| Report | Lock |
+| Report | Fact |
 |--------|------|
 | SOFI 2026 | Hunger about **645 million** (7.8%); healthy diet costly for about **2.7 billion** |
 | QS / Future Skills (June) | MIT top; IIT Delhi ~118; India Future Skills ~13 |
@@ -183,11 +183,11 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Indices — publisher / top / India band.
+**Logic:** Indices — publisher / top / India band.
 
 **Q1.** With reference to indices covered in 2026 Current Affairs, which of the following statements is/are correct?
 
@@ -196,9 +196,9 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -210,7 +210,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Happiness Report + Global Terrorism Index.
+**Logic:** Happiness Report + Global Terrorism Index.
 
 **Q2.** With reference to March 2026 indices / reports coverage, which of the following statements is/are correct?
 
@@ -219,9 +219,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -233,7 +233,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** SOFI 2026 hunger numbers.
+**Logic:** SOFI 2026 hunger numbers.
 
 **Q3.** With reference to SOFI 2026, which of the following statements is/are correct?
 
@@ -243,9 +243,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -257,7 +257,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** QS rankings + Future Skills Index.
+**Logic:** QS rankings + Future Skills Index.
 
 **Q4.** With reference to June 2026 ranking coverage, which of the following statements is/are correct?
 
@@ -267,9 +267,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -280,7 +280,7 @@ D. 1, 2 and 3
 </details>
 
 ---
-**Exam logic:** Henley Passport — publisher / top / India.
+**Logic:** Henley Passport — publisher / top / India.
 
 **Q5.** With reference to the Henley Passport Index 2026, which of the following statements is/are correct?
 
@@ -290,9 +290,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -304,7 +304,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** National Statistics Day theme.
+**Logic:** National Statistics Day theme.
 
 **Q6.** With reference to National Statistics Day 2026 coverage, which of the following statements is/are correct?
 
@@ -314,9 +314,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -328,24 +328,24 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Budget multidimensional poverty figure vs MPI publisher care.
+**Logic:** Budget multidimensional poverty figure vs MPI publisher care.
 
 **Q7.** With reference to multidimensional poverty messaging in Budget 2026–27, which of the following statements is/are correct?
 
 1. The Budget speech locked a figure of about 25 crore people coming out of multidimensional poverty over years of programmes.
-2. That Budget-speech figure automatically replaces the need to lock publisher/method when a fresh MPI report is released.
+2. That Budget-speech figure automatically replaces the need to fact publisher/method when a fresh MPI report is released.
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Speech figure ≠ full index methodology lock. Trap: treating every poverty number as NITI MPI.
+**Ans: D.** Speech figure ≠ full index methodology fact. Trap: treating every poverty number as NITI MPI.
 
 </details>
 
@@ -361,21 +361,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Two separate rank locks. Trap: picking D because both are from one report.
+**Ans: A.** Two separate rank facts. Trap: picking D because both are from one report.
 
 </details>
 
 ---
 
-**Exam logic:** GTI publisher IEP.
+**Logic:** GTI publisher IEP.
 
 **Q9.** With reference to Global Terrorism Index 2026, which of the following statements is/are correct?
 
@@ -399,7 +399,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** QS Future Skills USA top.
+**Logic:** QS Future Skills USA top.
 
 **Q10.** With reference to QS World Future Skills Index coverage, which of the following statements is/are correct?
 
@@ -423,7 +423,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** World Population Day theme July.
+**Logic:** World Population Day theme July.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -447,7 +447,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** 16th FC period.
+**Logic:** 16th FC period.
 
 **Q12.** With reference to the 16th Finance Commission, which of the following statements is/are correct?
 
@@ -471,7 +471,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Happiness Finland ninth year messaging.
+**Logic:** Happiness Finland ninth year messaging.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -494,7 +494,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Henley visa-free soft numbers.
+**Logic:** Henley visa-free soft numbers.
 
 **Q14.** With reference to Henley Passport Index 2026, which of the following statements is/are correct?
 
@@ -518,7 +518,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** SOFI five UN agencies.
+**Logic:** SOFI five UN agencies.
 
 **Q15.** With reference to SOFI 2026, which of the following statements is/are correct?
 
@@ -542,7 +542,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Census mascots Pragati Vikas.
+**Logic:** Census mascots Pragati Vikas.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -565,7 +565,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** UP Deregulation ranking soft.
+**Logic:** UP Deregulation ranking soft.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -588,7 +588,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** QS 52 Indian institutions soft.
+**Logic:** QS 52 Indian institutions soft.
 
 **Q18.** With reference to QS World University Rankings coverage, which of the following statements is/are correct?
 
@@ -612,7 +612,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Nutrient-dense foods drive healthy diet cost SOFI.
+**Logic:** Nutrient-dense foods drive healthy diet cost SOFI.
 
 **Q19.** Which of the following statements is/are correct for SOFI findings?
 
@@ -635,12 +635,12 @@ D. Only 1
 
 ---
 
-**Exam logic:** Sampoornata not a global index.
+**Logic:** Sampoornata not a global index.
 
 **Q20.** With reference to Sampoornata Abhiyan 2.0 in the indices sheet, which of the following statements is/are correct?
 
 1. It is a NITI drive, not a new global ranking product.
-2. Exam questions may still mix it with ranking language.
+2. questions may still mix it with ranking language.
 
 Select the correct answer from the code given below:
 

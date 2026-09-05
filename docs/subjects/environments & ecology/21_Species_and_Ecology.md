@@ -8,13 +8,13 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 </details>
 
-> **Sources baked in:** NCERT Bio 12 Ch 15–16; Geo 11; IUCN Red List; Ramsar 1971; BSI/ZSI; MoEFCC; UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ Very High — IUCN threatened trap; UP Ramsar geography; coral bleaching; Himalayan zones  
+> **Sources baked in:** NCERT Bio 12 Ch 15–16; Geo 11; IUCN Red List; Ramsar 1971; BSI/ZSI; MoEFCC; UPPCS PYQs 2018–2025
+> **Weight:** ★★★ Very High — IUCN threatened trap; UP Ramsar geography; coral bleaching; Himalayan zones
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. India’s **Red Data Book** is a **national** catalogue — **BSI** for plants, **ZSI** for animals (both Kolkata). The **IUCN Red List** is the **global** extinction-risk system from IUCN (Gland).
 2. IUCN has nine categories: EX, EW, CR, EN, VU, NT, LC, DD, NE. Risk order puts CR above EN above VU among living threatened tiers.
@@ -26,8 +26,8 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 8. **MISHTI** is the Union Budget **2023–24** mangrove restoration push. Do not date it as 2019.
 9. **Coral reefs** are built from calcium-carbonate skeletons and live with symbiotic **zooxanthellae**. **Bleaching** happens when heat stress expels the algae.
 10. India’s coral belts include Gulf of Mannar, Lakshadweep, Andaman & Nicobar, and Gulf of Kutch.
-11. **Grasslands** are grass-dominated systems maintained by fire and grazing. UP’s Terai is a foothill grassland–forest mosaic; **Dudhwa** holds barasingha (swamp deer). Kaziranga is the floodplain grassland rhino lock.
-12. Himalayan vegetation follows altitude belts: tropical → subtropical → temperate → alpine → nival. Snow leopard is a high Himalaya lock; Dudhwa is Terai foothill fringe, not alpine.
+11. **Grasslands** are grass-dominated systems maintained by fire and grazing. UP’s Terai is a foothill grassland–forest mosaic; **Dudhwa** holds barasingha (swamp deer). Kaziranga is the floodplain grassland rhino fact.
+12. Himalayan vegetation follows altitude belts: tropical → subtropical → temperate → alpine → nival. Snow leopard is a high Himalaya fact; Dudhwa is Terai foothill fringe, not alpine.
 13. Marine **neritic** shelf waters are the highest fisheries-productivity zone; pelagic means open ocean. India’s coast is about **7516 km**.
 14. The **Gangetic dolphin** is a **freshwater river** dolphin — not a marine species trap.
 15. Wetland ≠ mangrove ≠ coral. Inland marsh, saline coastal forest, and reef builders are three different ecosystems.
@@ -45,7 +45,7 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -81,7 +81,7 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 | Publisher | BSI (plants), ZSI (animals) | IUCN (Gland) |
 | Function | National threat inventory | Standardised risk categories |
 
-> **Exam note:** "Red Data Book of Indian plants published by ZSI" = **FALSE** — plants = **BSI**, animals = **ZSI**.
+> ** note:** "Red Data Book of Indian plants published by ZSI" = **FALSE** — plants = **BSI**, animals = **ZSI**.
 
 ---
 
@@ -101,7 +101,7 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 - **Not Evaluated (NE):** Not yet assessed — majority of world's species.
 - **Threatened = VU + EN + CR** — the most tested formula. **Endangered alone is only one-third of threatened.**
 - **Risk hierarchy** among living categories: **CR > EN > VU > NT > LC**.
-- **IUCN assesses extinction risk.** **CITES** regulates **trade** — separate bodies, separate functions.
+- **IUCN assesses extinction risk.CITES** regulates **trade** — separate bodies, separate functions.
 
 | Code | Category |
 |------|----------|
@@ -115,7 +115,7 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 | DD | Data Deficient |
 | NE | Not Evaluated |
 
-> **Exam note:** "All threatened species are Endangered" = **FALSE**. Threatened = **VU + EN + CR**.
+> ** note:** "All threatened species are Endangered" = **FALSE**. Threatened = **VU + EN + CR**.
 
 ---
 
@@ -128,15 +128,15 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 - The **Ramsar Convention (1971)** promotes **conservation and wise use** of wetlands. **World Wetlands Day = 2 February**.
 - A **Ramsar Site** is a wetland of **international importance** nominated by the contracting country — separate from WPA national park status.
 - **India** has **75+ Ramsar sites** (2024 milestone). **Amrit Dharohar Scheme (2023)** supports wetland conservation and livelihoods.
-- **UP Ramsar sites:** **Sarsai Nawar** (Etawah), **Samaspur Bird Sanctuary** (Raebareli), **Nawabganj** (Unnao), **Upper Ganga River**, **Bakhira**, **Haiderpur**, **Parvati Agra Bird Sanctuary**.
-- **NOT in UP:** **Rudrasagar Lake** = **Tripura**. **Sultanpur National Park** = **Gurugram, Haryana**. Both are Ramsar sites outside UP.
+- **UP Ramsar sites:Sarsai Nawar** (Etawah), **Samaspur Bird Sanctuary** (Raebareli), **Nawabganj** (Unnao), **Upper Ganga River**, **Bakhira**, **Haiderpur**, **Parvati Agra Bird Sanctuary**.
+- **NOT in UP:Rudrasagar Lake** = **Tripura**. **Sultanpur National Park** = **Gurugram, Haryana**. Both are Ramsar sites outside UP.
 - **Threats:** drainage for agriculture, pollution (eutrophication), invasive species (**water hyacinth** chokes UP ponds), hydrological alteration.
 
 **PYQ — UPPCS Prelims 2025, Q58**
 
 Which Ramsar sites are NOT located in Uttar Pradesh?
 
-1. Sarsai Nawar Jheel  2. Samaspur Bird Sanctuary  3. Rudrasagar Lake  4. Sultanpur National Park
+1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
 
 A. 1 and 3
 
@@ -159,7 +159,7 @@ D. 1 and 2
 | High-altitude wetland | Chandra Taal, Tso Moriri |
 | Coastal/mangrove wetland | Sundarbans |
 
-> **Exam note:** Ramsar = **wetlands**, not climate or forests.
+> ** note:** Ramsar = **wetlands**, not climate or forests.
 
 ---
 
@@ -200,7 +200,7 @@ D. Only 1
 | Avicennia | Salt-secreting leaves |
 | Sonneratia | Pneumatophores |
 
-> **Exam note:** Mangroves = **coastal saline**, not freshwater marshes alone.
+> ** note:** Mangroves = **coastal saline**, not freshwater marshes alone.
 
 ---
 
@@ -212,8 +212,8 @@ D. Only 1
 - **Zooxanthellae** (symbiotic dinoflagellate algae) live inside coral tissue and supply up to **90% of coral energy** via photosynthesis.
 - **Coral bleaching:** under stress (especially **high temperature**), corals **expel zooxanthellae** and turn white. Prolonged stress causes mortality.
 - Growth needs warm water (**18–30°C**), shallow depth (**<30 m** for light), low turbidity, normal salinity.
-- **Reef types:** **fringing** (attached to coast), **barrier** (lagoon between reef and shore), **atoll** (ring around submerged volcano).
-- **India's coral reef areas:** **Gulf of Mannar** (first marine biosphere reserve), **Lakshadweep**, **Andaman & Nicobar**, **Gulf of Kutch** (northernmost Indian reefs).
+- **Reef types:fringing** (attached to coast), **barrier** (lagoon between reef and shore), **atoll** (ring around submerged volcano).
+- **India's coral reef areas:Gulf of Mannar** (first marine biosphere reserve), **Lakshadweep**, **Andaman & Nicobar**, **Gulf of Kutch** (northernmost Indian reefs).
 - **Threats:** ocean warming (primary bleaching driver), acidification, sedimentation, destructive fishing, pollution.
 
 **PYQ — UPPCS Prelims 2024, Q19**
@@ -234,7 +234,7 @@ D. Decrease of 4°C in Indian Ocean
 
 </details>
 
-> **Exam note:** Bleaching = **temperature rise**, not pollution alone or **−4°C cooling**.
+> ** note:** Bleaching = **temperature rise**, not pollution alone or **−4°C cooling**.
 
 ---
 
@@ -245,7 +245,7 @@ D. Decrease of 4°C in Indian Ocean
 - **Grasslands** are ecosystems **dominated by grasses** with few trees — maintained by **grazing, fire, and climate**.
 - **Tropical savanna:** warm climate, wet-dry seasons, scattered trees — Indian **semi-arid Deccan** and **Vidarbha**.
 - **Terai grasslands (UP):** Himalayan foothills with **tall elephant grass** (Saccharum) and sal forest mosaic. **Dudhwa NP** protects tiger, rhino, **barasingha (swamp deer)**.
-- **Floodplain grassland:** **Kaziranga** (Assam) — tall grass supports one-horned rhino.
+- **Floodplain grassland:Kaziranga** (Assam) — tall grass supports one-horned rhino.
 - **Alpine meadow:** above **~3,500 m treeline** in Himalaya — short summer herb growth.
 - **Shola-grassland mosaic (Western Ghats):** montane grass patches alternating with shola forest — Nilgiri tahr habitat.
 - **Threats:** conversion to cropland, overgrazing, invasive woody species (lantana), fire suppression.
@@ -257,7 +257,7 @@ D. Decrease of 4°C in Indian Ocean
 | Semi-arid savanna | Deccan | Blackbuck |
 | Alpine meadow | High Himalaya | Medicinal herbs |
 
-> **Exam note:** **Terai = UP grassland-forest mosaic**. Puszta = **Hungary** (world geography distractor), not Indian grassland.
+> ** note:Terai = UP grassland-forest mosaic**. Puszta = **Hungary** (world geography distractor), not Indian grassland.
 
 ---
 
@@ -275,7 +275,7 @@ D. Decrease of 4°C in Indian Ocean
 
 **PYQ — UPPCS Prelims 2025, Q21**
 
-Assertion (A): In the Himalayan mountains different types of vegetation are found.  
+Assertion (A): In the Himalayan mountains different types of vegetation are found.
 Reason (R): In Himalayas, there are variations in climate with change in altitude.
 
 A. Both true; R does not explain A
@@ -299,7 +299,7 @@ D. Both true; R explains A
 | Alpine meadow | 3,600–4,500 m | Herbs, dwarf shrubs |
 | Nival | >4,500 m | Lichens, permanent snow |
 
-> **Exam note:** Snow leopard = **high Himalayan** zones, not Terai or Sundarbans.
+> ** note:** Snow leopard = **high Himalayan** zones, not Terai or Sundarbans.
 
 ---
 
@@ -313,8 +313,8 @@ D. Both true; R explains A
 - **Euphotic zone** (0–200 m) allows photosynthesis; **aphotic** zone is dark.
 - **Upwelling** (Arabian Sea west coast during SW monsoon) brings nutrient-rich deep water — supports sardines, mackerel.
 - **Estuaries** (river meets sea) are highly productive nurseries but pollution-sensitive.
-- **India:** **~7,516 km coastline**, **Arabian Sea** (west) and **Bay of Bengal** (east), EEZ ~2.02 million km².
-- **Gangetic dolphin** is a **freshwater river** mammal — **NOT marine** — common exam trap.
+- **India:~7,516 km coastline**, **Arabian Sea** (west) and **Bay of Bengal** (east), EEZ ~2.02 million km².
+- **Gangetic dolphin** is a **freshwater river** mammal — **NOT marine** — common trap.
 - **Threats:** plastic pollution, oil spills, overfishing, bottom trawling, warming/acidification affecting reefs.
 
 | Zone | Character | Productivity |
@@ -324,7 +324,7 @@ D. Both true; R explains A
 | Pelagic | Open ocean | Low–moderate |
 | Benthic | Seafloor | Variable |
 
-> **Exam note:** Highest marine fisheries productivity = **neritic/continental shelf**, not open deep ocean.
+> ** note:** Highest marine fisheries productivity = **neritic/continental shelf**, not open deep ocean.
 
 ---
 
@@ -815,35 +815,15 @@ D. 12,000 km
 
 ## Complete PYQ Bank (Topic 21)
 
-**Q1. UPPCS 2025, Q21** — Himalayan vegetation A/R; R explains A → **Ans: D**
+**Q1. UPPCS 2025, Q21** — Himalayan vegetation A/R; R explains A → **Ans: DQ2. UPPCS 2025, Q58** — Ramsar NOT in UP = Rudrasagar + Sultanpur → **Ans: B (3 and 4)Q3. UPPCS 2025, Q93** — MISHTI: only restore mangroves true; not 2019 → **Ans: AQ4. UPPCS 2024, Q19** — Coral bleaching +2°C Indian Ocean → **Ans: BQ5. UPPCS 2023, Q147** — World Wetlands Day 2 February → **Ans: DQ6. UPPCS 2018, Q54** — NOT in-situ = Botanical garden → **Ans: B** (Topic 20 cross-ref)
 
-**Q2. UPPCS 2025, Q58** — Ramsar NOT in UP = Rudrasagar + Sultanpur → **Ans: B (3 and 4)**
-
-**Q3. UPPCS 2025, Q93** — MISHTI: only restore mangroves true; not 2019 → **Ans: A**
-
-**Q4. UPPCS 2024, Q19** — Coral bleaching +2°C Indian Ocean → **Ans: B**
-
-**Q5. UPPCS 2023, Q147** — World Wetlands Day 2 February → **Ans: D**
-
-**Q6. UPPCS 2018, Q54** — NOT in-situ = Botanical garden → **Ans: B** (Topic 20 cross-ref)
-
-**Q7. UPPCS 2018, Q133** — Mangroves reduce cyclone impact (stmt 4 true) → **Ans: C (1,2,4)**
-
-**Q8. UPPCS 2018, Q122** — Highest species diversity: coral reefs among options → **Ans: C**
-
-**Q9. UPPCS 2020, Q48** — Ramsar sites added to UP Jan 2020 → **Ans: pattern CA**
-
-**Q10. UPSC pattern** — Threatened = VU+EN+CR → **Ans: VU, EN, CR**
-
-**Q11. UPSC pattern** — BSI plant Red Data Book → **Ans: BSI**
-
-**Q12. UPSC pattern** — Zooxanthellae with corals → **Ans: Corals**
+**Q7. UPPCS 2018, Q133** — Mangroves reduce cyclone impact (stmt 4 true) → **Ans: C (1,2,4)Q8. UPPCS 2018, Q122** — Highest species diversity: coral reefs among options → **Ans: CQ9. UPPCS 2020, Q48** — Ramsar sites added to UP Jan 2020 → **Ans: pattern CAQ10. UPSC pattern** — Threatened = VU+EN+CR → **Ans: VU, EN, CRQ11. UPSC pattern** — BSI plant Red Data Book → **Ans: BSIQ12. UPSC pattern** — Zooxanthellae with corals → **Ans: Corals**
 
 ---
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Threatened = Endangered only | **VU + EN + CR** |
 | Red Data Book = IUCN Red List | **National vs global** |

@@ -1,6 +1,6 @@
 # Economy / Budget / Trade
 
-> **Priority B, but rising**  
+> **Priority B, but rising**
 > For February 2026, this file is one of the most important. Budget numbers are asked every year.
 
 ## What to note every time
@@ -18,7 +18,7 @@
 
 ### India–EU Free Trade Agreement talks finished | 27 January 2026
 
-**What happened**  
+**What happened**
 India and the European Union announced that they had finished FTA negotiations during the India–EU leaders’ meeting in New Delhi.
 
 **What you should remember**
@@ -41,12 +41,12 @@ India and the European Union announced that they had finished FTA negotiations d
 
 ### Union Budget 2026–27 | presented 1 February 2026
 
-**What happened**  
+**What happened**
 Finance Minister **Nirmala Sitharaman** presented the Union Budget for **2026–27**. She called it a **Yuva Shakti**-driven Budget. It was the first Budget made in **Kartavya Bhawan**. She explained the Budget through **three kartavyas**: growth, people’s capacity, and inclusive development (**Sabka Saath, Sabka Vikas**).
 
 **Big money figures to revise**
 
-| Item | Lock |
+| Item | Fact |
 |------|------|
 | Public capital expenditure (capex) | **₹12.2 lakh crore** |
 | Fiscal deficit target | **4.3%** of GDP |
@@ -89,10 +89,10 @@ All major new scheme names from this Budget are written in easy language under [
 
 ### RELIEF scheme for exporters | about ₹497 crore
 
-**What happened**  
+**What happened**
 Conflict risk in West Asia hurt shipping and insurance for exporters. The government announced the **RELIEF** package to keep exports moving.
 
-**Core locks**
+**Core facts**
 
 - Name: **RELIEF** (Resilience and Logistics Intervention for Export Facilitation).
 - Size: about **₹497 crore**.
@@ -101,7 +101,7 @@ Conflict risk in West Asia hurt shipping and insurance for exporters. The govern
 
 ### New Income Tax rules window
 
-From **1 April 2026**, the new Income Tax Act framework begins. March coverage also spoke about new procedural rules, including clearer “Tax Year” language and revised education/hostel allowance figures in explainers. Lock exact allowance numbers from an official tax note before mocks.
+From **1 April 2026**, the new Income Tax Act framework begins. March coverage also spoke about new procedural rules, including clearer “Tax Year” language and revised education/hostel allowance figures in explainers. Fact exact allowance numbers from an official tax note before mocks.
 
 ### Aviation money
 
@@ -113,16 +113,16 @@ From **1 April 2026**, the new Income Tax Act framework begins. March coverage a
 
 ### Nutrient Based Subsidy | Kharif 2026
 
-**What happened**  
+**What happened**
 Cabinet approved NBS rates for **P&K** fertilisers for Kharif 2026.
 
-**Core locks**
+**Core facts**
 
 - Outlay: about **₹41,533–41,534 crore**.
 - Window: **1 April to 30 September 2026**.
 - Full card → [Schemes](02_Schemes_Policies.md).
 
-### Census funding lock
+### Census funding fact
 
 - Census 2027 outlay noted: about **₹11,718 crore**.
 
@@ -144,7 +144,7 @@ Cabinet approved NBS rates for **P&K** fertilisers for Kharif 2026.
 
 ### Sugar export ban
 
-**What happened**  
+**What happened**
 DGFT placed all categories of sugar (raw, white, refined) under the **Prohibited** export category until **30 September 2026**.
 
 **Why in news**
@@ -166,7 +166,7 @@ India around **rank 78**; Singapore at the top. Details → [Indices](07_Indices
 - Explainers put duty-free access near **99%** of Indian export trade value.
 - Full card → [International](01_International.md).
 
-### VB-G RAM G money lock
+### VB-G RAM G money fact
 
 - Centre allocation noted: about **₹95,692 crore**.
 - Total with states: over about **₹1.5 lakh crore** in FY27 coverage.
@@ -188,10 +188,10 @@ India around **rank 78**; Singapore at the top. Details → [Indices](07_Indices
 
 ### India–UK CETA in force | 15 July 2026
 
-**What happened**  
+**What happened**
 India–UK trade deal **CETA** and companion **DCC** both started. Full card → [International](01_International.md).
 
-**Quick money locks**
+**Quick money facts**
 
 - About **99%** of Indian goods to UK get duty relief in coverage.
 - DCC exemption window: up to **5 years**.
@@ -208,7 +208,7 @@ India–UK trade deal **CETA** and companion **DCC** both started. Full card →
 
 **1 July** is **GST Day** in India. GST started on **1 July 2017**.
 
-### Late-July Cabinet energy locks
+### Late-July Cabinet energy facts
 
 | Scheme | Simple meaning | Money / size |
 |--------|----------------|--------------|
@@ -222,7 +222,7 @@ Full easy cards → [Schemes](02_Schemes_Policies.md).
 
 ## August 2026
 
-### I-Day economy locks
+### I-Day economy facts
 
 - Semiconductor push: about **7–8** new plants in one–two years.
 - Soft link: Semicon 2.0 outlay **₹1,27,500 crore** (Cabinet July; guidelines notified around end-August) — full card → [Schemes](02_Schemes_Policies.md).
@@ -233,10 +233,10 @@ Full easy cards → [Schemes](02_Schemes_Policies.md).
 
 ### MMDR Amendment Act, 2026 | mineral taxation framework
 
-**What happened**  
+**What happened**
 Parliament’s **Mines and Minerals (Development and Regulation) Amendment Act, 2026** tightened the fiscal framework for minerals. Coverage stressed a more uniform national approach after earlier Supreme Court mineral-tax debates.
 
-**Easy locks**
+**Easy facts**
 
 - Parent Act being amended: **MMDR Act, 1957**.
 - Core idea: States cannot levy fresh taxes/cess on mineral rights / mineral-bearing land except under conditions set by the **Centre**.
@@ -244,7 +244,7 @@ Parliament’s **Mines and Minerals (Development and Regulation) Amendment Act, 
 - Soft link: National Critical Mineral Mission (approved earlier, outlay about **₹16,300 crore** to FY31) remains a related minerals push — do not merge the two names.
 
 !!! trap "Easy wrong options"
-    Saying states gained unlimited new mineral-tax power under the 2026 amendment. Calling MMDR a labour law.
+ Saying states gained unlimited new mineral-tax power under the 2026 amendment. Calling MMDR a labour law.
 
 ### Soft SVAMITVA memory from the speech
 
@@ -252,11 +252,11 @@ I-Day coverage recalled about **3.25 crore** families helped and assets worth ab
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Budget identity locks — Kartavya Bhawan + Yuva Shakti framing + capex figure.
+**Logic:** Budget identity facts — Kartavya Bhawan + Yuva Shakti framing + capex figure.
 
 **Q1.** With reference to the Union Budget 2026–27, which of the following statements is/are correct?
 
@@ -266,21 +266,21 @@ I-Day coverage recalled about **3.25 crore** families helped and assets worth ab
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** (1) and (2) true. (3) false — fiscal deficit lock is **4.3%** of GDP, not 5.1%. Trap: confusing older deficit bands with 2026–27 speech.
+**Ans: A.** (1) and (2) true. (3) false — fiscal deficit fact is **4.3%** of GDP, not 5.1%. Trap: confusing older deficit bands with 2026–27 speech.
 
 </details>
 
 ---
 
-**Exam logic:** Budget transport / Orange Economy locks.
+**Logic:** Budget transport / Orange Economy facts.
 
 **Q2.** With reference to Union Budget 2026–27 announcements, which of the following statements is/are correct?
 
@@ -290,9 +290,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -304,7 +304,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Match Budget / Cabinet scheme ↔ money.
+**Logic:** Match Budget / Cabinet scheme ↔ money.
 
 **Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -317,9 +317,9 @@ D. 1, 2 and 3
 
 *Row order is not the answer code.*
 
-A. 2 1 3 4  
-B. 2 3 1 4  
-C. 1 2 3 4  
+A. 2 1 3 4
+B. 2 3 1 4
+C. 1 2 3 4
 D. 2 1 4 3
 
 <details>
@@ -331,7 +331,7 @@ D. 2 1 4 3
 
 ---
 
-**Exam logic:** Sugar export ban window.
+**Logic:** Sugar export ban window.
 
 **Q4.** With reference to the sugar export ban reported in May 2026 coverage, which of the following statements is/are correct?
 
@@ -340,34 +340,34 @@ D. 2 1 4 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Economy CA soft lock. Trap: shifting end date to 31 March.
+**Ans: C.** Economy CA soft fact. Trap: shifting end date to 31 March.
 
 </details>
 
 ---
 
-**Exam logic:** Chronology — big scheme / trade dates.
+**Logic:** Chronology — big scheme / trade dates.
 
 **Q5.** Consider the following and arrange them in correct chronological order:
 
-1. India–UK CETA and DCC enter into force  
-2. VB-G RAM G comes into force  
-3. India–Oman CEPA enters into force  
-4. Union Budget 2026–27 presented  
+1. India–UK CETA and DCC enter into force
+2. VB-G RAM G comes into force
+3. India–Oman CEPA enters into force
+4. Union Budget 2026–27 presented
 
 Select the correct answer from the code given below:
 
-A. 4, 3, 2, 1  
-B. 4, 2, 3, 1  
-C. 3, 4, 2, 1  
+A. 4, 3, 2, 1
+B. 4, 2, 3, 1
+C. 3, 4, 2, 1
 D. 4, 3, 1, 2
 
 <details>
@@ -379,7 +379,7 @@ D. 4, 3, 1, 2
 
 ---
 
-**Exam logic:** New Income Tax Act force date.
+**Logic:** New Income Tax Act force date.
 
 **Q6.** With reference to tax / Budget law messaging for 2026, which of the following statements is/are correct?
 
@@ -388,21 +388,21 @@ D. 4, 3, 1, 2
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Same calendar lock, different subjects — easy “both true” if you revised January + February together.
+**Ans: C.** Same calendar fact, different subjects — easy “both true” if you revised January + February together.
 
 </details>
 
 ---
 
-**Exam logic:** Semicon 2.0 economy lock.
+**Logic:** Semicon 2.0 economy fact.
 
 **Q7.** With reference to Semicon 2.0, which of the following statements is/are correct?
 
@@ -426,7 +426,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** MMDR Amendment 2026 core idea.
+**Logic:** MMDR Amendment 2026 core idea.
 
 **Q8.** With reference to the MMDR Amendment Act, 2026, which of the following statements is/are correct?
 
@@ -450,7 +450,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Fiscal deficit 4.3%.
+**Logic:** Fiscal deficit 4.3%.
 
 **Q9.** Which of the following statements is/are correct for Budget 2026–27?
 
@@ -474,7 +474,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** New IT Act 1 April 2026.
+**Logic:** New IT Act 1 April 2026.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -497,7 +497,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** GST Day 1 July.
+**Logic:** GST Day 1 July.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -521,7 +521,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** RELIEF exporters ECGC.
+**Logic:** RELIEF exporters ECGC.
 
 **Q12.** With reference to RELIEF, which of the following statements is/are correct?
 
@@ -545,7 +545,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** India–UK CETA 99% duty relief idea.
+**Logic:** India–UK CETA 99% duty relief idea.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -569,7 +569,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Oman CEPA June economy.
+**Logic:** Oman CEPA June economy.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -592,7 +592,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** SVAMITVA I-Day soft numbers.
+**Logic:** SVAMITVA I-Day soft numbers.
 
 **Q15.** With reference to SVAMITVA I-Day recall, which of the following statements is/are correct?
 
@@ -615,7 +615,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Dankuni–Surat freight corridor.
+**Logic:** Dankuni–Surat freight corridor.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -639,7 +639,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Total expenditure ~53.5 lakh crore BE idea.
+**Logic:** Total expenditure ~53.5 lakh crore BE idea.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -662,7 +662,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Sugar export ban till 30 Sep.
+**Logic:** Sugar export ban till 30 Sep.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -685,7 +685,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Critical Mineral Mission soft link with MMDR.
+**Logic:** Critical Mineral Mission soft link with MMDR.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -708,7 +708,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Yuva Shakti Budget label.
+**Logic:** Yuva Shakti Budget label.
 
 **Q20.** Which of the following statements is/are correct?
 

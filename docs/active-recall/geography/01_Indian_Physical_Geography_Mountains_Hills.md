@@ -116,7 +116,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Nanda Devi.** Kamet is the other Himadri lock for the State.
+**Ans: Nanda Devi.** Kamet is the other Himadri fact for the State.
 
 </details>
 
@@ -259,7 +259,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Patkai Bum, Naga Hills and the Mizo Hills** along the eastern frontier. Pangsau Pass is an Arunachal–Myanmar lock.
+**Ans: Patkai Bum, Naga Hills and the Mizo Hills** along the eastern frontier. Pangsau Pass is an Arunachal–Myanmar fact.
 
 </details>
 
@@ -366,7 +366,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those.
 <details>
 <summary>Show answer</summary>
 
-**Ans: South-west to north-east.** They are ancient Precambrian fold remnants, heavily eroded. UPPCS lock: Aravalli = oldest, Himadri = youngest among the usual options.
+**Ans: South-west to north-east.** They are ancient Precambrian fold remnants, heavily eroded. UPPCS fact: Aravalli = oldest, Himadri = youngest among the usual options.
 
 </details>
 
@@ -499,7 +499,7 @@ Peninsular: Aravalli → Vindhya → Satpura → Western Ghats → Eastern Ghats
 
 North-East: Patkai → Naga → Manipur → Mizo.
 
-Locks: Narmada between Vindhya and Satpura. Western Ghats = orographic rain. Aravalli = ancient. Nilgiri = Ghats junction. Dihang = bend into Purvanchal.
+Facts: Narmada between Vindhya and Satpura. Western Ghats = orographic rain. Aravalli = ancient. Nilgiri = Ghats junction. Dihang = bend into Purvanchal.
 
 Peak match: TN Doddabetta · RJ Guru Shikhar · NL Saramati · MP Dhupgarh · KL Anaimudi · UK Nanda Devi · SK Kanchenjunga.
 

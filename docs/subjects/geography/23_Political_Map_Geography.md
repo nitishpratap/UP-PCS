@@ -11,14 +11,14 @@
 
 </details>
 
-> **Sources baked in:** Lucent political + atlas match-lists; UNCLOS basics; coaching boundary-line / landlocked map; UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — 12/24/200 nm, McMahon, Gujarat coast, Suez, capitals, landlocked, Köppen/Mediterranean; teach full political + atlas map  
-> **Last verified:** August 2026 — coaching gap-pass (world lines, Kazakhstan landlocked, Lesotho enclave, section order)  
+> **Sources baked in:** Lucent political + atlas match-lists; UNCLOS basics; coaching boundary-line / landlocked map; UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — 12/24/200 nm, McMahon, Gujarat coast, Suez, capitals, landlocked, Köppen/Mediterranean; teach full political + atlas map
+> **Last verified:** August 2026 — coaching gap-pass (world lines, Kazakhstan landlocked, Lesotho enclave, section order)
 > **Current Affairs:** none mandatory (nm limits are static)
 
 ---
 
-## Consolidated — 20 Must-Score Locks
+## Consolidated — 20 Must-Score Facts
 
 1. UNCLOS: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf may extend to **350 nm**, but that does **not** push EEZ water beyond 200.
 2. **Innocent passage** applies in the territorial sea. **Transit passage** applies in international straits.
@@ -26,7 +26,7 @@
 4. India has **seven** land neighbours (Pakistan, Afghanistan via Wakhan/PoK, China, Nepal, Bhutan, Myanmar, Bangladesh). Maritime neighbours are **Sri Lanka** and the **Maldives**.
 5. Longest Indian **state** coastline = **Gujarat**. Longest land border = **Bangladesh**. Shortest land border = **Afghanistan**. Mainland plus islands coastline ≈ **7516 km**.
 6. The **Suez Canal** joins Med and Red Sea, shortens India–Europe by about **7000 km**, and lakes run Manzala → Timsah → Great Bitter → Little Bitter.
-7. **Panama** = Atlantic–Pacific with locks. **Kiel** = North Sea–Baltic.
+7. **Panama** = Atlantic–Pacific with facts. **Kiel** = North Sea–Baltic.
 8. Straits: **Hormuz** = Gulf oil; **Malacca** = Indian Ocean–South China Sea; **Gibraltar** = Med–Atlantic; **Bosporus** = Black Sea–Marmara; **Bering** = Russia–USA.
 9. Central Asia capital set: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**.
 10. **Bolivia** is landlocked among common South America traps. **Nobi/Kanto** = Japan. **Igarka** = Russia.
@@ -38,14 +38,14 @@
 16. **49th Parallel** ≈ USA–Canada. **38th Parallel** ≈ Koreas. Maginot is a historic France–Germany line, not an India boundary.
 17. Equator traps: Egypt and Mexico are **not** equatorial countries in the usual MCQ sense.
 18. India’s nine coastal states include Gujarat as the longest; Telangana is not coastal.
-19. Oder–Neisse is the Germany–Poland historic line awareness lock; do not confuse it with McMahon or Durand.
+19. Oder–Neisse is the Germany–Poland historic line awareness fact; do not confuse it with McMahon or Durand.
 20. Shelf rights beyond 200 nm (up to 350) are seabed rights — they do not create a wider EEZ water column.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Territorial vs EEZ | **12 nm** vs **200 nm** | Swapped | क्षेत्रीय जल / EEZ |
 | Contiguous | **24 nm** | 12 or 200 | सन्निहित |
@@ -82,13 +82,13 @@
 
 ## N.0 Framework — Political & Map Geography
 
-This chapter is the **atlas + UNCLOS** home. Exams ask distances, lines, capitals, landlocked status, and chokepoints.
+This chapter is the **atlas + UNCLOS** home. Notes ask distances, lines, capitals, landlocked status, and chokepoints.
 
-- Lock **12 / 24 / 200** before any EEZ story.
+- Fact **12 / 24 / 200** before any EEZ story.
 - India’s neighbours need **land vs maritime** and **longest / shortest** borders.
 - Boundary lines need **countries + year + person** where Lucent gives them.
 - Map sections (seas, straits, canals, mountains, ports, Köppen) are **match-list** homes — one identity line each.
-- Detailed world rivers / industries live in Topics 17 and 22 — here keep only map locks that Prelims still match.
+- Detailed world rivers / industries live in Topics 17 and 22 — here keep only map facts that Prelims still match.
 
 **Order of this chapter**
 
@@ -102,7 +102,7 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 
 ## N.1 UNCLOS
 
-**Adopted:** 1982 · **in force:** 1994 · **India:** 1995  
+**Adopted:** 1982 · **in force:** 1994 · **India:** 1995
 **Measured from:** baselines (normal = low-water line). 1 nm ≈ **1.852 km**.
 
 - Internal waters (inside baselines) = full sovereignty — ports, lagoons.
@@ -143,7 +143,7 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 - Eight states on it: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. **Not UP. Not Ladakh.**
 - India is **not** wholly tropical — the north goes well beyond 23½° N (2022 stmt 4 is false).
 - Standard meridian **82°30′ E** (Mirzapur / Allahabad belt) = IST.
-- Extremes (exam): north = Indira Col / Kashmir; south = Indira Point (A&N); west = Ghuar Mota (Gujarat); east = Kibithu (Arunachal).
+- Extremes (): north = Indira Col / Kashmir; south = Indira Point (A&N); west = Ghuar Mota (Gujarat); east = Kibithu (Arunachal).
 
 ---
 
@@ -178,7 +178,7 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 
 **World lines (Lucent / coaching map)**
 
-| Line | Lock |
+| Line | Fact |
 |------|------|
 | **49th Parallel** | Long USA–**Canada** stretch (not USA–Mexico) |
 | **38th Parallel** | **North Korea–South Korea** armistice story |
@@ -333,7 +333,7 @@ D. 1 4 2 3
 
 **Double landlocked (no coast and every neighbour is landlocked)**
 
-- **Uzbekistan**. **Liechtenstein**. Only these two in the usual Prelims lock.
+- **Uzbekistan**. **Liechtenstein**. Only these two in the usual Prelims fact.
 
 **Superlatives / enclaves**
 
@@ -353,7 +353,7 @@ D. 1 4 2 3
 - Asia/Pacific: Indonesia, Kiribati.
 - Does **not** pass through Egypt, Mexico, India, South Africa, Argentina.
 
-**Tropic of Cancer countries (exam set)**
+**Tropic of Cancer countries (set)**
 
 - Mexico, Bahamas fringe, Western Sahara/Mauritania/Mali/Algeria/Niger/Libya/Egypt, Saudi Arabia, UAE/Oman fringe, India, Bangladesh, Myanmar, China, Taiwan.
 
@@ -407,7 +407,7 @@ D. Bolivia
 
 **Bays**
 
-- Bengal — east India; the big Indian-exam bay.
+- Bengal — east India; the big Indian- bay.
 - Hudson — Canada. Fundy — highest tide fame. Baffin — Canadian Arctic.
 - Biscay — France–Spain. Ha Long — Vietnam.
 
@@ -441,7 +441,7 @@ D. Bolivia
 
 **Joins:** Mediterranean and Atlantic · **Sides:** Spain / Rock of Gibraltar and Morocco
 
-### Other straits (exam list)
+### Other straits (list)
 
 - Bab el-Mandeb — Red Sea and Gulf of Aden (Yemen–Djibouti/Eritrea).
 - Palk — India and Sri Lanka, with Adam’s Bridge.
@@ -460,7 +460,7 @@ D. Bolivia
 
 ### Suez Canal, 1869
 
-**Joins:** Mediterranean Sea and Red Sea · **Locks:** none (sea-level)
+**Joins:** Mediterranean Sea and Red Sea · **Facts:** none (sea-level)
 
 - Does **not** itself touch the Atlantic or the open Indian Ocean (2025 = Red Sea + Med).
 - Shortened India–Europe sea distance by about **7,000 km** (2018).
@@ -469,7 +469,7 @@ D. Bolivia
 
 ### Panama Canal, 1914
 
-**Joins:** Caribbean / Atlantic and Pacific · **Locks:** yes, plus **Gatun Lake**
+**Joins:** Caribbean / Atlantic and Pacific · **Facts:** yes, plus **Gatun Lake**
 
 - Avoids Cape Horn. Not Med–Red.
 
@@ -557,7 +557,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 2024 asked only a **west → east** four-pack. Learn the atlas bank; ★ = that paper’s set.
 
-| Range / highland | Region / country lock | Tag |
+| Range / highland | Region / country fact | Tag |
 |------------------|----------------------|-----|
 | **Pontic** ★ | Northern **Turkey** (Black Sea side) | 2024 W→E |
 | **Zagros** ★ | Western **Iran** | 2024 W→E |
@@ -569,7 +569,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 | Rockies | **North America** (W USA–Canada) | |
 | Appalachians | Eastern **USA** | Older fold belt |
 | Urals | **Russia** — Europe / Asia conventional divide | |
-| Caucasus | Russia / Georgia / Azerbaijan belt | **Elbrus** (Europe exam peak) |
+| Caucasus | Russia / Georgia / Azerbaijan belt | **Elbrus** (Europe peak) |
 | Drakensberg | **South Africa** / Lesotho | |
 | Great Dividing Range | **Australia** (east) | |
 | Pamir | Tajikistan / “Roof of the World” knot | |
@@ -584,13 +584,13 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 ### Highest peak by continent (match bank)
 
-| Continent | Peak | Country lock / trap |
+| Continent | Peak | Country fact / trap |
 |-----------|------|---------------------|
 | Asia | **Everest** | Nepal–China |
 | South America | **Aconcagua** | **Argentina** |
 | North America | **Denali** | USA (Alaska) |
 | Africa | **Kilimanjaro** | **Tanzania** (not Kenya) |
-| Europe (exam) | **Elbrus** | Russia / Caucasus |
+| Europe () | **Elbrus** | Russia / Caucasus |
 | Australia (mainland) | **Kosciuszko** | Australia |
 | Antarctica | Vinson Massif | Awareness |
 
@@ -694,7 +694,7 @@ D. Jakarta — Indonesia
 
 ## N.13 Köppen climate
 
-**Identity:** The quote *"Vegetation is the true index of climate"* is keyed to **Thornthwaite** in UPPCS (2018 Q25). **Köppen** built the **letter-code** climate classification using vegetation, temperature, and precipitation — do not swap the two locks.
+**Identity:** The quote *"Vegetation is the true index of climate"* is keyed to **Thornthwaite** in UPPCS. **Köppen** built the **letter-code** climate classification using vegetation, temperature, and precipitation — do not swap the two facts.
 
 - **Af** — tropical rainforest, rain all year (Amazon, Congo, Indonesia).
 - **Am** — tropical monsoon (west-coast India, parts of SE Asia).
@@ -781,9 +781,7 @@ D. Only 2
 
 </details>
 
-**Inline PYQ — UPPCS Prelims 2022, Q144**
-
-**Assertion (A):** Rainfall occurs in the winter season in Mediterranean climate.
+**Inline PYQ — UPPCS Prelims 2022, Q144Assertion (A):** Rainfall occurs in the winter season in Mediterranean climate.
 
 **Reason (R):** In summer these regions remain under the influence of dry terrestrial winds.
 
@@ -808,7 +806,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** MacMohan line forms the boundary between:
@@ -1330,9 +1328,9 @@ D. Black Sea and Caspian
 
 **Options:**
 
-A. No locks (Suez type)
+A. No facts (Suez type)
 
-B. Locks and Gatun Lake
+B. Facts and Gatun Lake
 
 C. Only the Bosporus current
 
@@ -1799,7 +1797,7 @@ D. Neither
 
 **Options:**
 
-A. Kenya as the country lock
+A. Kenya as the country fact
 
 B. Tanzania
 
@@ -1963,7 +1961,7 @@ D. 1, 2 and 3
 
 ---
 
-**Q55.** Assertion (A): Continental shelf rights may extend beyond 200 nm up to about 350 nm.  
+**Q55.** Assertion (A): Continental shelf rights may extend beyond 200 nm up to about 350 nm.
 Reason (R): Therefore the EEZ water column automatically extends to 350 nm.
 
 A. Both A and R are true and R explains A
@@ -1995,7 +1993,7 @@ D. Only in landlocked Bolivia
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Transit passage is the international-strait lock.
+**Ans: B** — Transit passage is the international-strait fact.
 </details>
 
 ---
@@ -2018,7 +2016,7 @@ D. Oder–Neisse — India–Nepal
 
 ---
 
-**Q58.** The most populous landlocked country in the usual coaching lock is:
+**Q58.** The most populous landlocked country in the usual coaching fact is:
 
 A. Liechtenstein
 
@@ -2078,7 +2076,7 @@ D. Sri Lanka
 
 **Q61.** Which capital pair is correctly matched?
 
-A. Myanmar — Yangon as the current capital lock
+A. Myanmar — Yangon as the current capital fact
 
 B. Australia — Canberra
 
@@ -2132,7 +2130,7 @@ D. India lies wholly south of it
 
 **Q64.** Which canal pair is correctly matched?
 
-A. Suez — Atlantic ↔ Pacific with locks
+A. Suez — Atlantic ↔ Pacific with facts
 
 B. Panama — Mediterranean ↔ Red Sea, sea-level
 
@@ -2324,9 +2322,7 @@ D. Bolivia
 
 ---
 
-**Q7. UPPCS Prelims 2022, Q144**
-
-**Assertion (A):** Rainfall occurs in the winter season in Mediterranean climate.
+**Q7. UPPCS Prelims 2022, Q144Assertion (A):** Rainfall occurs in the winter season in Mediterranean climate.
 
 **Reason (R):** In summer these regions remain under the influence of dry terrestrial winds.
 
@@ -2376,11 +2372,11 @@ D. China
 
 Match List-I with List-II (Country) (Capital)
 
-A. Uzbekistan 1. Tashkent  
+A. Uzbekistan 1. Tashkent
 
-B. Tajikistan 2. Dushanbe  
+B. Tajikistan 2. Dushanbe
 
-C. Kyrgyzstan 3. Bishkek  
+C. Kyrgyzstan 3. Bishkek
 
 D. Turkmenistan 4. Ashgabat
 
@@ -2565,7 +2561,7 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — **2.4%** is solid. Tropic through the middle is the school lock. Rank is **7th**, not 6th. India is **not** wholly tropical.
+**Ans: A** — **2.4%** is solid. Tropic through the middle is the school fact. Rank is **7th**, not 6th. India is **not** wholly tropical.
 
 </details>
 

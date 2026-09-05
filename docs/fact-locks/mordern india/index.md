@@ -1,8 +1,8 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
-# Modern India — Fact Locks
+# Modern India — Fact Facts
 
 No sheets yet.

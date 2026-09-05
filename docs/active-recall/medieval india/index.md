@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 # Medieval India — Active Recall

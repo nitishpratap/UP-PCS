@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 9</p>
 <h1 class="fact-lock-hero__title">Indian Agriculture</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
@@ -141,11 +141,11 @@ Major crops:
 
 ## 6. KHARIF–RABI–ZAID MASTER
 
-| Season     | Sowing  | Harvest | Major crops            |
+| Season | Sowing | Harvest | Major crops |
 | ---------- | ------- | ------- | ---------------------- |
-| **Kharif** | Jun–Jul | Sep–Nov | Rice, maize, cotton    |
-| **Rabi**   | Oct–Dec | Mar–Apr | Wheat, gram, mustard   |
-| **Zaid**   | Mar–Apr | May–Jun | Watermelon, vegetables |
+| **Kharif** | Jun–Jul | Sep–Nov | Rice, maize, cotton |
+| **Rabi** | Oct–Dec | Mar–Apr | Wheat, gram, mustard |
+| **Zaid** | Mar–Apr | May–Jun | Watermelon, vegetables |
 
 
 > **Kharif = Rain**
@@ -958,24 +958,24 @@ Major:
 
 ## 41. AGRICULTURAL CROP — MASTER TABLE
 
-| Crop          | Season        | Climate             | Important region    |
+| Crop | Season | Climate | Important region |
 | ------------- | ------------- | ------------------- | ------------------- |
-| **Rice**      | Kharif        | Hot + wet           | Bengal/UP/Odisha    |
-| **Wheat**     | Rabi          | Cool + dry ripening | UP/MP/Punjab        |
-| **Maize**     | Kharif mainly | Warm                | Karnataka/MP        |
-| **Jowar**     | Kharif        | Dry                 | Maharashtra         |
-| **Bajra**     | Kharif        | Arid/semi-arid      | Rajasthan           |
-| **Ragi**      | Kharif mainly | Warm                | Karnataka           |
-| **Gram**      | Rabi          | Cool/dry            | MP/UP               |
-| **Tur**       | Kharif        | Warm                | Maharashtra         |
-| **Sugarcane** | Long duration | Warm + frost-free   | UP/Maharashtra      |
-| **Cotton**    | Kharif        | Warm + frost-free   | Gujarat/Maharashtra |
-| **Jute**      | Kharif        | Hot + humid         | West Bengal         |
-| **Tea**       | Plantation    | Warm + wet          | Assam               |
-| **Coffee**    | Plantation    | Warm + shade        | Karnataka           |
-| **Rubber**    | Plantation    | Hot + humid         | Kerala              |
-| **Mustard**   | Rabi          | Cool + dry          | Rajasthan/UP        |
-| **Soybean**   | Kharif        | Warm                | MP                  |
+| **Rice** | Kharif | Hot + wet | Bengal/UP/Odisha |
+| **Wheat** | Rabi | Cool + dry ripening | UP/MP/Punjab |
+| **Maize** | Kharif mainly | Warm | Karnataka/MP |
+| **Jowar** | Kharif | Dry | Maharashtra |
+| **Bajra** | Kharif | Arid/semi-arid | Rajasthan |
+| **Ragi** | Kharif mainly | Warm | Karnataka |
+| **Gram** | Rabi | Cool/dry | MP/UP |
+| **Tur** | Kharif | Warm | Maharashtra |
+| **Sugarcane** | Long duration | Warm + frost-free | UP/Maharashtra |
+| **Cotton** | Kharif | Warm + frost-free | Gujarat/Maharashtra |
+| **Jute** | Kharif | Hot + humid | West Bengal |
+| **Tea** | Plantation | Warm + wet | Assam |
+| **Coffee** | Plantation | Warm + shade | Karnataka |
+| **Rubber** | Plantation | Hot + humid | Kerala |
+| **Mustard** | Rabi | Cool + dry | Rajasthan/UP |
+| **Soybean** | Kharif | Warm | MP |
 
 ## 42. FOOD CROPS
 
@@ -2092,17 +2092,17 @@ Focus:
 
 ## 109. AGRICULTURAL REVOLUTIONS — MASTER
 
-| Revolution  | Associated sector                      |
+| Revolution | Associated sector |
 | ----------- | -------------------------------------- |
-| **Green**   | Food grains                            |
-| **White**   | Milk                                   |
-| **Blue**    | Fisheries                              |
-| **Yellow**  | Oilseeds                               |
-| **Golden**  | Horticulture                           |
-| **Silver**  | Eggs/poultry                           |
-| **Pink**    | Meat/prawn in Indian usage             |
-| **Brown**   | Leather/cocoa depending classification |
-| **Rainbow** | Overall agricultural development       |
+| **Green** | Food grains |
+| **White** | Milk |
+| **Blue** | Fisheries |
+| **Yellow** | Oilseeds |
+| **Golden** | Horticulture |
+| **Silver** | Eggs/poultry |
+| **Pink** | Meat/prawn in Indian usage |
+| **Brown** | Leather/cocoa depending classification |
+| **Rainbow** | Overall agricultural development |
 
 ### MOST IMPORTANT
 

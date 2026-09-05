@@ -8,14 +8,14 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 
 </details>
 
-> **Sources baked in:** Laxmikanth (Official Language + Special Provisions), Part XVII, Part X, Part XXI, 5th/6th Schedules, OL Act 1963/67, PIB classical-language notifications, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ — English **15 years** (2023); Part XVII / Part X (2023); 8th **Bhojpuri out** (2025); 350B **7th not 9th** (2024); **371J** Hyderabad-Karnataka (2020); 6th Sch = **Tripura not Nagaland** (2019); PESA **1996** (2022)  
-> **Last verified:** August 2026  
+> **Sources baked in:** Laxmikanth (Official Language + Special Provisions), Part XVII, Part X, Part XXI, 5th/6th Schedules, OL Act 1963/67, PIB classical-language notifications, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ — English **15 years** (2023); Part XVII / Part X (2023); 8th **Bhojpuri out** (2025); 350B **7th not 9th** (2024); **371J** Hyderabad-Karnataka (2020); 6th Sch = **Tripura not Nagaland** (2019); PESA **1996** (2022)
+> **Last verified:** August 2026
 > **Current Affairs:** Classical = **11** (3 Oct 2024); 370 inoperative + SC Dec 2023; J&K Assembly **2024**; Ladakh 6th-Schedule demand **not** granted
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Part **XVII** (Arts. **343–351**) deals with official language. The Constitution **never** names a **national language**.
 2. The Union official language is **Hindi in Devanagari**. The international form of Indian numerals is used for official purposes of the Union.
@@ -44,11 +44,11 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 25. Fifth Schedule = Tribes Advisory Council + PESA path. Sixth Schedule = Autonomous District Councils for AMTM States. Do not swap the tools.
 26. Linguistic minorities are protected through Articles **350–350B**. The National Commission for Minorities (1992) is a **statutory** body for **religious** minorities — not a substitute for the 350B officer.
 27. Classical languages may overlap with Eighth Schedule names, but the tags are **not** one-to-one: classical status does not add a language to the Eighth Schedule, and Eighth Schedule listing does not create classical status.
-28. Special provisions for States sit mainly in Part **XXI** (Arts. **371–371J**). Memorise the letter locks (**371A** Nagaland, **371I** Goa seats, **371J** Kalyana-Karnataka) rather than treating “371” as one generic article.
+28. Special provisions for States sit mainly in Part **XXI** (Arts. **371–371J**). Memorise the letter facts (**371A** Nagaland, **371I** Goa seats, **371J** Kalyana-Karnataka) rather than treating “371” as one generic article.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|
@@ -94,14 +94,14 @@ Part **XVII** (how the Union and States talk) + Parts **X** and **XXI** (Schedul
 - **350B** — **7th Amd**. **One** Special Officer **for India** (not per State) — card below.
 - **351** — Union’s **duty** to **promote Hindi**, so it becomes a medium of expression for India’s **composite culture**; draw from Hindustani and the **8th Schedule** (without interfering with other languages).
 
-**Constituent Assembly lock:** **Munshi–Ayyangar formula** (Sept **1949**) — Hindi in Devanagari as Union OL + English for **15 years**. Adopted **14 September 1949** → **Hindi Diwas** every year. World Hindi Day = **10 January** (not the same).
+**Constituent Assembly fact:Munshi–Ayyangar formula** (Sept **1949**) — Hindi in Devanagari as Union OL + English for **15 years**. Adopted **14 September 1949** → **Hindi Diwas** every year. World Hindi Day = **10 January** (not the same).
 
 **How Parliament touches language (2018 trap — two lanes):**
 
-- **Ordinary law** — **343(3)** continue English · **120** language of Parliament · **210** State legislature · **348** language of SC/HC/Acts. **Simple** majority — **not** a 368 Bill. This is the usual UPPCS key (2018 Q74).
+- **Ordinary law** — **343(3)** continue English · **120** language of Parliament · **210** State legislature · **348** language of SC/HC/Acts. **Simple** majority — **not** a 368 Bill. This is the usual UPPCS key.
 - **Constitution Amd** — changing the **text of 343/344/351**. **368 special** (total membership + 2/3 P&V). **Not** on the State-ratification list.
 
-**Neighbour — Hindi text of the Constitution:** **58th Amd (1987)** inserted **394A**. President authenticates a Hindi translation; that Hindi text is **authoritative**. Original authentic text remains the **English** Constitution. Not a “national language” Amd.
+**Neighbour — Hindi text of the Constitution:58th Amd (1987)** inserted **394A**. President authenticates a Hindi translation; that Hindi text is **authoritative**. Original authentic text remains the **English** Constitution. Not a “national language” Amd.
 
 **Not in Part XVII (papers still mix them):**
 
@@ -129,9 +129,9 @@ D. 20 years
 
 Which among the following (Provision — Part of the Constitution) is **not** correctly matched?
 
-A. The Union Territories — Part VIII  
-B. The Scheduled and Tribal Areas — Part X  
-C. Tribunals — Part XI  
+A. The Union Territories — Part VIII
+B. The Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
 D. Official Language — Part XVII
 
 <details>
@@ -155,7 +155,7 @@ D. Official Language — Part XVII
 - First Commission: **B.G. Kher**, 1955 (report 1956).
 - First 344 committee: **Govind Ballabh Pant**.
 
-> **Exam note:** After 1960 the **Official Languages Act** carries the policy. Do not look for a 344 Commission every five years today.
+> ** note:** After 1960 the **Official Languages Act** carries the policy. Do not look for a 344 Commission every five years today.
 
 ---
 
@@ -164,7 +164,7 @@ D. Official Language — Part XVII
 **Anti-Hindi agitation (esp. Madras)** → Parliament used **343(3)**.
 
 - **English may continue** in addition to Hindi for Union official purposes and for Parliament **indefinitely** — no new 15-year bomb.
-- 1967 amendment: reassurance after 1965 — English **shall** continue as long as non-Hindi States want it (the political lock).
+- 1967 amendment: reassurance after 1965 — English **shall** continue as long as non-Hindi States want it (the political fact).
 - Authoritative text: Hindi translation of Central Acts, with English remaining authoritative unless provided.
 - **s.4 Committee (1976)** — **Committee of Parliament on Official Language**: **30** (20 LS + 10 RS), chaired by the **Union Home Minister**. Standing. **≠** the 344 Commission.
 - OL Rules **1976** classify States/UTs into **Regions A, B, C** for Hindi correspondence.
@@ -175,21 +175,19 @@ D. Official Language — Part XVII
 - **Region B** — Gujarat, Maharashtra, Punjab, Chandigarh, DNH & DD, **Goa**. Hindi **or** English; Hindi replies expected.
 - **Region C** — all other States/UTs (South, East, NE). English; Hindi optional.
 
-**s.3 of the Act (exam meat):** resolutions, general orders, rules, notifications, press communiqués, administrative reports of the Union — **Hindi and English**. Not “Hindi only after 1965.”
+**s.3 of the Act (meat):** resolutions, general orders, rules, notifications, press communiqués, administrative reports of the Union — **Hindi and English**. Not “Hindi only after 1965.”
 
 ---
 
 ## Eighth Schedule — 22 languages
 
- The **amendment ladder + not-in list** is the language paper. **No “etc.”**
-
-**All 22 (learn the NOT-list harder than the list):** Assamese · Bengali · **Bodo** · **Dogri** · Gujarati · Hindi · Kannada · Kashmiri · **Konkani** · **Maithili** · Malayalam · **Manipuri** · Marathi · **Nepali** · Odia · Punjabi · Sanskrit · **Santhali** · **Sindhi** · Tamil · Telugu · Urdu.
+ The **amendment ladder + not-in list** is the language paper. **No “etc.”All 22 (learn the NOT-list harder than the list):** Assamese · Bengali · **Bodo** · **Dogri** · Gujarati · Hindi · Kannada · Kashmiri · **Konkani** · **Maithili** · Malayalam · **Manipuri** · Marathi · **Nepali** · Odia · Punjabi · Sanskrit · **Santhali** · **Sindhi** · Tamil · Telugu · Urdu.
 
 **Original 14 (1950):** Assamese · Bengali · Gujarati · Hindi · Kannada · Kashmiri · Malayalam · Marathi · Oriya · Punjabi · Sanskrit · Tamil · Telugu · Urdu.
 
 **What the 8th Schedule actually does:** languages that **344** Commission members represent · languages **351** may draw on to enrich Hindi · UPSC / education optionals. **What it does not do:** make a language the Union OL · make it classical · make it a State OL (that is **345**).
 
-**92nd four — extra locks:**
+**92nd four — extra facts:**
 
 - **Bodo** — in 8th. **Not** classical. Assam.
 - **Dogri** — in 8th. J&K / HP. **Not** Bhojpuri.
@@ -205,7 +203,7 @@ D. Official Language — Part XVII
 
 **Still 22.** English is a **Union associate** language by **statute**, **not** an 8th Schedule language.
 
-**NOT in the 8th Schedule (favourite wrong options):** **Bhojpuri** · Rajasthani · English · Tulu · Khasi · Garo · **Pali** · **Prakrit**.
+**NOT in the 8th Schedule (favourite wrong options):Bhojpuri** · Rajasthani · English · Tulu · Khasi · Garo · **Pali** · **Prakrit**.
 
 **PYQ — UPPCS Prelims 2025, Q102**
 
@@ -252,9 +250,9 @@ Match List-I with List-II and select the correct answer using the code given bel
 
 > Note: Row order in the tables is **not** the answer.
 
-A. 3, 1, 2, 4  
-B. 3, 1, 4, 2  
-C. 2, 3, 4, 1  
+A. 3, 1, 2, 4
+B. 3, 1, 4, 2
+C. 2, 3, 4, 1
 D. 4, 2, 1, 3
 
 <details>
@@ -304,9 +302,9 @@ Match List-I with List-II and select the correct answer using the code given bel
 
 > Note: Row order in the tables is **not** the answer.
 
-A. A-4, B-3, C-1, D-2  
-B. A-3, B-4, C-2, D-1  
-C. A-2, B-1, C-4, D-3  
+A. A-4, B-3, C-1, D-2
+B. A-3, B-4, C-2, D-1
+C. A-2, B-1, C-4, D-3
 D. A-1, B-2, C-3, D-4
 
 <details>
@@ -353,17 +351,17 @@ D. A-1, B-2, C-3, D-4
 - **350A** — mother-tongue at **primary** stage; President may **direct** a State.
 - **350B** — **one** Special Officer **for the whole of India**, appointed by the **President**. Investigate constitutional **safeguards**; report to the President → **Parliament** and the concerned **States**.
 
-Operational title: **Commissioner for Linguistic Minorities** (first **1957**). Original HQ **Allahabad (Prayagraj)** — UP lock. Regional offices (classic Laxmikanth): **Belgaum, Chennai, Kolkata**. Now under **Minority Affairs** administratively. Don’t freeze a pin-code as if it were in Art. 350B.
+Operational title: **Commissioner for Linguistic Minorities** (first **1957**). Original HQ **Allahabad (Prayagraj)** — UP fact. Regional offices (classic Laxmikanth): **Belgaum, Chennai, Kolkata**. Now under **Minority Affairs** administratively. Don’t freeze a pin-code as if it were in Art. 350B.
 
 **29 / 30:** Constitution **never defines** “minority”. It **uses** linguistic and religious minorities (**2019 A/R** — both true; R does not define A). **350A/350B** are the **linguistic** machinery; NCM is **religious**.
 
-> **Exam note:** “One officer **per State**” is **false**. “350B by the **9th** Amd” is **false** — **7th, 1956**.
+> ** note:** “One officer **per State**” is **false**. “350B by the **9th** Amd” is **false** — **7th, 1956**.
 
 **PYQ — UPPCS Prelims 2024, Q142**
 
 Consider the following statements with reference to Special Officer for Linguistic Minorities:
 
-1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State.  
+1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State.
 2. A new Article 350B was added for this by the 9th Constitution Amendment Act.
 
 A. Only 2
@@ -374,7 +372,7 @@ D. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Neither.** **One** Union officer. **7th** Amendment, not 9th (9th = **Berubari**).
+**Ans: B — Neither.One** Union officer. **7th** Amendment, not 9th (9th = **Berubari**).
 
 </details>
 
@@ -418,13 +416,13 @@ D. Both 1 and 2
 - *In Re: Article 370* (**11 Dec 2023**) — SC **upheld** the 2019 orders. 370 was **temporary**. Restore **statehood** “as soon as possible.” Assembly polls followed **2024**.
 - J&K OL Act **2020** — **Kashmiri, Dogri, Hindi, Urdu, English** — five official languages.
 
-> **Exam note:** “35A = an Amendment Act” is **false**. “370 was deleted from the book by the 103rd Amd” is **false**. “J&K is still a State with 370” is **false**.
+> ** note:** “35A = an Amendment Act” is **false**. “370 was deleted from the book by the 103rd Amd” is **false**. “J&K is still a State with 370” is **false**.
 
 ---
 
 ## Arts. 371–371J
 
-**Which article ↔ which State** is the lock. Governor’s special responsibility is in the 371-series text itself.
+**Which article ↔ which State** is the fact. Governor’s special responsibility is in the 371-series text itself.
 
 - **371 — Maharashtra & Gujarat.** Governor: development boards for **Vidarbha, Marathwada**, rest of MH; **Saurashtra, Kutch**, rest of GJ; equitable funds.
 - **371A — Nagaland** (**13th**, 1962). Parliament **cannot** touch Naga religion/social practice, customary law, customary justice, **land & resources** unless the **Assembly** so decides. Governor: **law and order**.
@@ -454,13 +452,13 @@ D. Ladakh
 
 </details>
 
-**Pair traps:** **371I Goa** (only seat-floor) ≠ **371J Karnataka** (region + reservation). **371A Nagaland** ≠ Sixth Schedule. **371G Mizoram** ≈ 371A, **not** 371I.
+**Pair traps:371I Goa** (only seat-floor) ≠ **371J Karnataka** (region + reservation). **371A Nagaland** ≠ Sixth Schedule. **371G Mizoram** ≈ 371A, **not** 371I.
 
 ---
 
 ## Part X — Scheduled & Tribal Areas (244 / 244A)
 
-**2023 lock:** Scheduled and Tribal Areas = **Part X** (correct pair). Tribunals = **XIVA**, not XI.
+**2023 fact:** Scheduled and Tribal Areas = **Part X** (correct pair). Tribunals = **XIVA**, not XI.
 
 - **244(1)** — **Fifth Schedule**: Scheduled Areas + STs in States **other than** the 6th Schedule areas.
 - **244(2)** — **Sixth Schedule**: tribal areas of **Assam, Meghalaya, Tripura, Mizoram (AMTM)**.
@@ -469,7 +467,7 @@ D. Ladakh
 - **275(1)** proviso — grants-in-aid for promoting welfare of STs / improving SA administration.
 - **342** — ST **list**: President (after consulting Governor). **Having STs ≠ having a Scheduled Area**.
 
-**UP lock:** Uttar Pradesh has **STs** on the 342 list. It has **no Fifth Schedule area**.
+**UP fact:** Uttar Pradesh has **STs** on the 342 list. It has **no Fifth Schedule area**.
 
 ---
 
@@ -482,7 +480,7 @@ D. Ladakh
 - **Not:** UP · Bihar · WB · Karnataka · Tamil Nadu · Kerala · any **AMTM** State as a 5th-Schedule package.
 - **Tribes Advisory Council:** ≤ **20** members; **¾** ST MLAs. States with STs but **no** SA may still get a TAC if the President so directs.
 - Governor: special responsibility; **annual report** to the President. May make **regulations** for peace and good government: bar land transfer, regulate money-lending, **disapply or modify** a Parliamentary / State law in the SA.
-- **PESA 1996** extends Part **IX** to **Fifth Schedule** areas (Bhuria). Year lock **1996** (2022). **Does not** touch the Sixth Schedule.
+- **PESA 1996** extends Part **IX** to **Fifth Schedule** areas (Bhuria). Year cue **1996** (2022). **Does not** touch the Sixth Schedule.
 
 PESA = **Fifth Schedule + 1996**, not 1993/1995/Sixth. Gram Sabha pre-eminent in scheduled areas.
 
@@ -585,7 +583,7 @@ D. 1993
 10. 350B = 9th Amd → **7th** (1956). 9th Amd = Berubari
 11. 344 Commission still sits every 5 years → only **1955** and **1960** were constitutionally mandated
 12. 1976 OL Committee = 344 → **statutory**, Home Minister; 344 is the old constitutional commission
-13. 15 years was extended by a constitutional Amd → **no.** **343(3) + 1963 Act**
+13. 15 years was extended by a constitutional Amd → **no.343(3) + 1963 Act**
 14. 348 lets a State drop English in the Supreme Court → Governor’s permission is for the **High Court** only
 15. 351 lets Hindi **replace** other 8th Schedule languages → duty to promote Hindi **and** draw from them; not a kill-switch
 16. NCM = 350B → NCM = **religious**, 1992 Act
@@ -594,7 +592,7 @@ D. 1993
 19. Hindi Diwas = 10 January → **14 September**. 10 Jan = **World** Hindi Day
 20. 394A made Hindi the national language → only an **authoritative Hindi text** of the Constitution (**58th**)
 21. Maithili not in 8th (like Bhojpuri) → **Maithili is in** (92nd). Bhojpuri is not
-22. Santhali script = Devanagari only → **Ol Chiki** is the distinctive lock
+22. Santhali script = Devanagari only → **Ol Chiki** is the distinctive fact
 23. Three-language formula = Art. 351 → **policy**, not an article
 24. Kendriya Hindi Samiti = Home Minister → **PM** chairs
 25. 371J = Nagaland / Goa / Ladakh → **Kalyana-Karnataka**. Goa = **371I**. Nagaland = **371A**
@@ -642,8 +640,8 @@ D. 20 years
 </details>
 
 **Q3.** With reference to Article 343, which of the following is/are correct?
-1. Union official language is Hindi in Devanagari script.  
-2. The form of numerals is the Devanagari form of Indian numerals.  
+1. Union official language is Hindi in Devanagari script.
+2. The form of numerals is the Devanagari form of Indian numerals.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -669,14 +667,12 @@ D. Official Language — Part XVII
 
 </details>
 
-**Q5.**
+**Q5.Assertion (A):** English continues as an associate official language of the Union after 1965.
 
-**Assertion (A):** English continues as an associate official language of the Union after 1965.
-
-**Reason (R):** The Constitution was amended to extend the 15-year period.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The Constitution was amended to extend the 15-year period.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -779,8 +775,8 @@ D. Fourth Schedule — RS seats
 </details>
 
 **Q11.** Consider the following statements:
-1. English is listed in the Eighth Schedule.  
-2. The Official Languages Act 1963 permits continued use of English for Union purposes.  
+1. English is listed in the Eighth Schedule.
+2. The Official Languages Act 1963 permits continued use of English for Union purposes.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -807,8 +803,8 @@ D. Odia
 </details>
 
 **Q13.** With reference to classical languages, which of the following is/are correct?
-1. The tag is conferred by a constitutional amendment.  
-2. Pali was added in October 2024.  
+1. The tag is conferred by a constitutional amendment.
+2. Pali was added in October 2024.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -848,8 +844,8 @@ D. Marathi — 2008
 </details>
 
 **Q16.** Special Officer for Linguistic Minorities:
-1. There is one such officer for every State.  
-2. Article 350B was added by the 9th Amendment.  
+1. There is one such officer for every State.
+2. Article 350B was added by the 9th Amendment.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -946,14 +942,12 @@ D. The whole Rajya Sabha
 
 </details>
 
-**Q22.**
+**Q22.Assertion (A):** The Committee of Parliament on Official Language (1976) is the Article 344 Commission under another name.
 
-**Assertion (A):** The Committee of Parliament on Official Language (1976) is the Article 344 Commission under another name.
-
-**Reason (R):** The 1976 Committee is a statutory body chaired by the Union Home Minister.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The 1976 Committee is a statutory body chaired by the Union Home Minister.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -964,8 +958,8 @@ D. (A) is false, but (R) is true
 </details>
 
 **Q23.** Under Article 348, which of the following is/are correct?
-1. Supreme Court proceedings are in English until Parliament otherwise provides.  
-2. A Governor may, with the President’s consent, authorise Hindi in the High Court.  
+1. Supreme Court proceedings are in English until Parliament otherwise provides.
+2. A Governor may, with the President’s consent, authorise Hindi in the High Court.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1018,8 +1012,8 @@ D. 350B officer to notify 8th Schedule languages
 </details>
 
 **Q27.** Which of the following statements is/are correct?
-1. Uttar Pradesh is in Region A under the Official Languages Rules, 1976.  
-2. Urdu is the second official language of Uttar Pradesh.  
+1. Uttar Pradesh is in Region A under the Official Languages Rules, 1976.
+2. Urdu is the second official language of Uttar Pradesh.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1046,8 +1040,8 @@ D. 350B — National Commission for Minorities
 </details>
 
 **Q29.** Consider the following statements:
-1. Pali is in the Eighth Schedule.  
-2. Pali was declared a classical language in 2024.  
+1. Pali is in the Eighth Schedule.
+2. Pali was declared a classical language in 2024.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1095,8 +1089,8 @@ D. A-2, B-3, C-1, D-4
 </details>
 
 **Q31.** Which of the following is/are correct about Article 350?
-1. A representation for redress of a grievance may be in any language used in the Union or the State.  
-2. It applies only to 8th Schedule languages.  
+1. A representation for redress of a grievance may be in any language used in the Union or the State.
+2. It applies only to 8th Schedule languages.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1139,20 +1133,18 @@ D. 1, 4, 3, 2
 
 </details>
 
-**Q34.**
+**Q34.Assertion (A):** There is no national language of India in the Constitution.
 
-**Assertion (A):** There is no national language of India in the Constitution.
-
-**Reason (R):** Article 343 names Hindi in Devanagari as the official language of the Union.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** Article 343 names Hindi in Devanagari as the official language of the Union.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — official ≠ national; R is why A is the exam lock.
+**Ans: A** — official ≠ national; R is why A is the key fact.
 
 </details>
 
@@ -1183,8 +1175,8 @@ D. 351
 </details>
 
 **Q37.** Which of the following statements is/are correct?
-1. A member of Parliament may, with the Speaker’s permission, address the House in her mother tongue.  
-2. This is provided in Article 120, not in Part XVII.  
+1. A member of Parliament may, with the Speaker’s permission, address the House in her mother tongue.
+2. This is provided in Article 120, not in Part XVII.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1228,8 +1220,8 @@ D. 1, 2, 3 and 4
 </details>
 
 **Q40.** Consider the following statements:
-1. Article 349 required the President’s prior sanction for certain language Bills during the first 15 years.  
-2. Article 346 deals with language for inter-State communication.  
+1. Article 349 required the President’s prior sanction for certain language Bills during the first 15 years.
+2. Article 346 deals with language for inter-State communication.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1251,7 +1243,7 @@ D. an order of the President alone
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 2018 lock. Changing the *text* of 343 is a separate 368 lane.
+**Ans: A** — 2018 fact. Changing the *text* of 343 is a separate 368 lane.
 
 </details>
 
@@ -1282,8 +1274,8 @@ D. 96th
 </details>
 
 **Q44.** Which of the following statements is/are correct?
-1. Inclusion in the Eighth Schedule makes a language an official language of the Union.  
-2. The Eighth Schedule is used to staff the 344 Commission and to enrich Hindi under 351.  
+1. Inclusion in the Eighth Schedule makes a language an official language of the Union.
+2. The Eighth Schedule is used to staff the 344 Commission and to enrich Hindi under 351.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1341,14 +1333,12 @@ D. Sindhi — 21st Amendment
 
 </details>
 
-**Q47.**
+**Q47.Assertion (A):** Hindi Diwas is observed on 14 September.
 
-**Assertion (A):** Hindi Diwas is observed on 14 September.
-
-**Reason (R):** World Hindi Day is also observed on 14 September.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** World Hindi Day is also observed on 14 September.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1385,8 +1375,8 @@ D. Speaker
 </details>
 
 **Q50.** With reference to Articles 29 and 30, which of the following is/are correct?
-1. The Constitution does not define the word “minorities.”  
-2. The Constitution speaks of linguistic and religious minorities.  
+1. The Constitution does not define the word “minorities.”
+2. The Constitution speaks of linguistic and religious minorities.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1400,8 +1390,8 @@ D. Neither 1 nor 2
 </details>
 
 **Q51.** Consider the following statements:
-1. Uttarakhand has Sanskrit as a second official language.  
-2. Uttar Pradesh has Sanskrit as a second official language.  
+1. Uttarakhand has Sanskrit as a second official language.
+2. Uttar Pradesh has Sanskrit as a second official language.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1415,8 +1405,8 @@ D. Neither 1 nor 2
 </details>
 
 **Q52.** Which of the following is/are correct?
-1. Section 3 of the Official Languages Act requires specified Union documents in both Hindi and English.  
-2. After 26 January 1965, English stood automatically repealed for Union purposes.  
+1. Section 3 of the Official Languages Act requires specified Union documents in both Hindi and English.
+2. After 26 January 1965, English stood automatically repealed for Union purposes.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1490,8 +1480,8 @@ D. 371J — Goa
 </details>
 
 **Q56.** With reference to Article 371A, which of the following is/are correct?
-1. An Act of Parliament on Naga land and resources applies only if the Nagaland Assembly so decides.  
-2. Nagaland is in the Sixth Schedule.  
+1. An Act of Parliament on Naga land and resources applies only if the Nagaland Assembly so decides.
+2. Nagaland is in the Sixth Schedule.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1518,8 +1508,8 @@ D. All of the above
 </details>
 
 **Q58.** Consider the following statements:
-1. Fifth Schedule areas exist in Uttar Pradesh.  
-2. The President notifies Scheduled Areas.  
+1. Fifth Schedule areas exist in Uttar Pradesh.
+2. The President notifies Scheduled Areas.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1533,8 +1523,8 @@ D. Neither 1 nor 2
 </details>
 
 **Q59.** A Tribes Advisory Council under the Fifth Schedule?
-1. Shall have not more than 20 members.  
-2. Three-fourths of the members shall be ST MLAs.  
+1. Shall have not more than 20 members.
+2. Three-fourths of the members shall be ST MLAs.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1560,14 +1550,12 @@ D. 1993
 
 </details>
 
-**Q61.**
+**Q61.Assertion (A):** PESA extends Part IX to the Sixth Schedule areas.
 
-**Assertion (A):** PESA extends Part IX to the Sixth Schedule areas.
-
-**Reason (R):** PESA applies to Fifth Schedule areas.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** PESA applies to Fifth Schedule areas.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1617,8 +1605,8 @@ D. Created Ladakh UT
 </details>
 
 **Q65.** With reference to Article 370, which of the following is/are correct?
-1. It was declared inoperative by a Presidential Order in August 2019.  
-2. The Supreme Court in 2023 struck down that Order.  
+1. It was declared inoperative by a Presidential Order in August 2019.
+2. The Supreme Court in 2023 struck down that Order.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1733,8 +1721,8 @@ D. ILP
 </details>
 
 **Q72.** Which of the following statements is/are correct?
-1. A Governor may disapply a Parliamentary law in a Fifth Schedule area.  
-2. The Tribes Advisory Council can repeal a Central Act on its own.  
+1. A Governor may disapply a Parliamentary law in a Fifth Schedule area.
+2. The Tribes Advisory Council can repeal a Central Act on its own.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1747,7 +1735,7 @@ D. Neither 1 nor 2
 
 </details>
 
-**Q73.** Arrange the following in chronological order: I 371A  II 371F  III 371J  IV 371I
+**Q73.** Arrange the following in chronological order: I 371A II 371F III 371J IV 371I
 A. I, II, IV, III
 B. I, II, III, IV
 C. II, I, IV, III
@@ -1799,14 +1787,12 @@ D. Khasi Hills — Nagaland
 
 </details>
 
-**Q77.**
+**Q77.Assertion (A):** Having Scheduled Tribes in a State automatically creates Fifth Schedule areas there.
 
-**Assertion (A):** Having Scheduled Tribes in a State automatically creates Fifth Schedule areas there.
-
-**Reason (R):** The ST list is under Article 342; Scheduled Areas are notified separately by the President.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The ST list is under Article 342; Scheduled Areas are notified separately by the President.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1830,8 +1816,8 @@ D. Karnataka
 </details>
 
 **Q79.** Which of the following is/are correct about the Sixth Schedule?
-1. District Councils may make laws on land and social customs.  
-2. PESA 1996 extends the 73rd Amendment to these areas.  
+1. District Councils may make laws on land and social customs.
+2. PESA 1996 extends the 73rd Amendment to these areas.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1888,8 +1874,8 @@ D. 1, 2, 3 and 4
 </details>
 
 **Q83.** Consider the following statements:
-1. 371H gives the Arunachal Governor a special responsibility for law and order.  
-2. 371G is a 371A-type shield for Mizo land and custom.  
+1. 371H gives the Arunachal Governor a special responsibility for law and order.
+2. 371G is a 371A-type shield for Mizo land and custom.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1916,8 +1902,8 @@ D. 56th Amd — 371J
 </details>
 
 **Q85.** With reference to 2019, which of the following is/are correct?
-1. Article 370 was made inoperative.  
-2. Manipur was brought under the Inner Line system.  
+1. Article 370 was made inoperative.
+2. Manipur was brought under the Inner Line system.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1936,8 +1922,8 @@ D. Neither 1 nor 2
 
 ### 2025
 
-**Q1. UPPCS Prelims 2025, Q102**  
-Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?  
+**Q1. UPPCS Prelims 2025, Q102**
+Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?
 1. Nepali
 2. Dogri
 3. Bodo
@@ -1954,7 +1940,7 @@ D. Only 1
 
 </details>
 
-**Q2. UPPCS Prelims 2025, Q113**  
+**Q2. UPPCS Prelims 2025, Q113**
 Match List-I with List-II and select the correct answer using the code given below the lists:
 
 **List-I (Schedule)**
@@ -1977,9 +1963,9 @@ Match List-I with List-II and select the correct answer using the code given bel
 
 > Note: Row order in the tables is **not** the answer.
 
-A. 3, 1, 2, 4  
-B. 3, 1, 4, 2  
-C. 2, 3, 4, 1  
+A. 3, 1, 2, 4
+B. 3, 1, 4, 2
+C. 2, 3, 4, 1
 D. 4, 2, 1, 3
 
 <details>
@@ -1991,8 +1977,8 @@ D. 4, 2, 1, 3
 
 ### 2024
 
-**Q3. UPPCS Prelims 2024, Q142**  
-Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd  
+**Q3. UPPCS Prelims 2024, Q142**
+Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd
 A. Only 2
 B. Neither 1 nor 2
 C. Only 1
@@ -2007,8 +1993,8 @@ D. Both 1 and 2
 
 ### 2023
 
-**Q4. UPPCS Prelims 2023, Q1**  
-Which (Provision — Part) is **not** correctly matched?  
+**Q4. UPPCS Prelims 2023, Q1**
+Which (Provision — Part) is **not** correctly matched?
 A. Union Territories — Part VIII
 B. Scheduled and Tribal Areas — Part X
 C. Tribunals — Part XI
@@ -2021,8 +2007,8 @@ D. Official Language — Part XVII
 
 </details>
 
-**Q5. UPPCS Prelims 2023, Q7**  
-Which pair (Schedule — Subject) is **not** correctly matched?  
+**Q5. UPPCS Prelims 2023, Q7**
+Which pair (Schedule — Subject) is **not** correctly matched?
 A. Third — Oaths
 B. Eighth — Languages
 C. Ninth — Allocation of seats in the Council of States
@@ -2035,8 +2021,8 @@ D. Tenth — Defection
 
 </details>
 
-**Q6. UPPCS Prelims 2023, Q8**  
-The Constitution of India initially permitted the use of English language for all official purposes for a period of—  
+**Q6. UPPCS Prelims 2023, Q8**
+The Constitution of India initially permitted the use of English language for all official purposes for a period of—
 A. 5 years
 B. 10 years
 C. 15 years
@@ -2051,7 +2037,7 @@ D. 20 years
 
 ### 2022
 
-**Q7. UPPCS Prelims 2022, Q89**  
+**Q7. UPPCS Prelims 2022, Q89**
 Match List-I with List-II and select the correct answer using the code given below the lists:
 
 **List-I (Schedule)**
@@ -2074,9 +2060,9 @@ Match List-I with List-II and select the correct answer using the code given bel
 
 > Note: Row order in the tables is **not** the answer.
 
-A. A-4, B-3, C-1, D-2  
-B. A-3, B-4, C-2, D-1  
-C. A-2, B-1, C-4, D-3  
+A. A-4, B-3, C-1, D-2
+B. A-3, B-4, C-2, D-1
+C. A-2, B-1, C-4, D-3
 D. A-1, B-2, C-3, D-4
 
 <details>
@@ -2086,8 +2072,8 @@ D. A-1, B-2, C-3, D-4
 
 </details>
 
-**Q8. UPPCS Prelims 2022, Q67**  
-When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?  
+**Q8. UPPCS Prelims 2022, Q67**
+When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
 A. 1998
 B. 1996
 C. 1995
@@ -2102,8 +2088,8 @@ D. 1993
 
 ### 2020
 
-**Q9. UPPCS Prelims 2020, Q108**  
-Which region of the country conferred special status under Article 371-J of the Constitution of India?  
+**Q9. UPPCS Prelims 2020, Q108**
+Which region of the country conferred special status under Article 371-J of the Constitution of India?
 A. Nagaland
 B. Hyderabad and Karnataka
 C. Maharashtra and Gujarat
@@ -2118,13 +2104,12 @@ D. Ladakh
 
 ### 2019
 
-**Q10. UPPCS Prelims 2019, Q26**  
-**Assertion (A):** Article 30 of the Constitution of India does not define the term ‘minorities’.  
+**Q10. UPPCS Prelims 2019, Q26Assertion (A):** Article 30 of the Constitution of India does not define the term ‘minorities’.
 
-**Reason (R):** The Constitution recognises only linguistic and religious minorities.  
-A. Both (A) and (R) true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) true but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The Constitution recognises only linguistic and religious minorities.
+A. Both (A) and (R) true and (R) is the correct explanation of (A)
+B. Both (A) and (R) true but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -2134,8 +2119,8 @@ D. (A) is false, but (R) is true
 
 </details>
 
-**Q11. UPPCS Prelims 2019, Q31**  
-Sixth Schedule is applicable in which of the following States?  
+**Q11. UPPCS Prelims 2019, Q31**
+Sixth Schedule is applicable in which of the following States?
 A. Tripura
 B. Sikkim
 C. Nagaland
@@ -2150,11 +2135,11 @@ D. All of the above
 
 ### 2018
 
-**Q12. UPPCS Prelims 2018, Q74**  
-Parliament can amend the provision on official language of India under the Constitution by—  
-A. a simple majority of its members  
-B. 2/3rd majority  
-C. 3/4th majority  
+**Q12. UPPCS Prelims 2018, Q74**
+Parliament can amend the provision on official language of India under the Constitution by—
+A. a simple majority of its members
+B. 2/3rd majority
+C. 3/4th majority
 D. support of 1/3 of its members
 
 <details>

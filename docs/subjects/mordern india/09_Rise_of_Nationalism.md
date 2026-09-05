@@ -8,14 +8,14 @@ Political Organisations before INC | Freedom Leaders | Political Organisations |
 
 </details>
 
-> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — pre-INC chronology, Tilak never president, Moderates A/R, Naoroji 1901, sessions  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — pre-INC chronology, Tilak never president, Moderates A/R, Naoroji 1901, sessions
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (historical)
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. The **East India Association** was founded in **1866** in **London** by **Dadabhai Naoroji**. It is not the Calcutta Indian Association of 1876.
 2. The pre-INC chronology four run **East India Association (1866) → National Indian Association (1870) → Indian Society (1872) → Indian Association (1876)**.
@@ -48,7 +48,7 @@ Political Organisations before INC | Freedom Leaders | Political Organisations |
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -72,16 +72,16 @@ Political Organisations before INC | Freedom Leaders | Political Organisations |
 
 Nationalism did **not** appear fully formed in 1885. Hold this arc; every card below plugs into one stage.
 
-| Stage | Rough years | Method | Exam lock |
+| Stage | Rough years | Method | Key fact |
 |-------|-------------|--------|-----------|
-| Pre-Congress associations | **1866–1885** | Petitions, provincial lobbies | East India Assoc → Indian Assoc → INC (2024 Q15) |
+| Pre-Congress associations | **1866–1885** | Petitions, provincial lobbies | East India Assoc → Indian Assoc → INC |
 | Congress founding, early Moderate phase | **1885–1905** | Prayer, petition, protest; safety-valve debate | Hume organises; Bonnerjee first President |
 | Partition and Extremist rise | **1905–1907** | Swadeshi, boycott, passive resistance | Bengal Partition 1905 |
 | Surat split and crackdown | **1907–1911** | Two rival wings; government exile/imprisonment of Extremists | Surat 1907; Mandalay deportations |
 | Reunion and Home Rule | **1916–1918** | Lucknow Pact; Home Rule Leagues (full detail **Topic 12**) | A.C. Majumdar; Besant/Tilak leagues |
 | Gandhian mass phase | **1919 onward** | Mass satyagraha (full detail **Topics 13–14**) | Amritsar 1919 onward |
 
-> **Exam note:** Start every Topic 9 answer from the **stage**. Moderates are not "loyalists with no demands." Extremists are not "terrorists." Surat is a **split**, Lucknow is a **reunion** — never confuse the two 1900s-teen sessions.
+> ** note:** Start every Topic 9 answer from the **stage**. Moderates are not "loyalists with no demands." Extremists are not "terrorists." Surat is a **split**, Lucknow is a **reunion** — never confuse the two 1900s-teen sessions.
 
 ---
 
@@ -97,7 +97,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Pre-Congress associations trained leaders in petitions, meetings and the press. Congress in **1885** gave them one all-India annual forum.
 - Early nationalism was **constitutional**. After Partition of Bengal (**1905**) it split into **Moderates** and **Extremists**.
 
-> **Exam note:** Congress did **not** begin Indian politics. London, Calcutta, Poona, Madras and Bombay associations came first.
+> ** note:** Congress did **not** begin Indian politics. London, Calcutta, Poona, Madras and Bombay associations came first.
 
 ---
 
@@ -105,97 +105,88 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 ### East India Association (1866)
 
-**Year:** **1866**  
-**Place:** **London**  
-**Founder:** **Dadabhai Naoroji**
+**Year:1866Place:LondonFounder:Dadabhai Naoroji**
 
 - Naoroji set it up to tell the British public and Parliament the Indian side of revenue, poverty and administration.
 - It replaced the narrower London Indian student circles as a serious lobby.
 - Indians and retired British officials both spoke from its platform.
 - This is item **1** in **2024 Q15**. Do not give 1866 to the Calcutta Indian Association.
 
-> **Exam note:** East India Association = **1866 + Naoroji + London**. Indian Association = **1876 + Banerjee + Calcutta**.
+> ** note:** East India Association = **1866 + Naoroji + London**. Indian Association = **1876 + Banerjee + Calcutta**.
 
 ### National Indian Association (1870)
 
-**Year:** **1870**  
-**Place:** Britain  
-**Associated with:** **Mary Carpenter**
+**Year:1870Place:** Britain
+**Associated with:Mary Carpenter**
 
 - Mary Carpenter, the English social reformer, promoted education and social contact between Britain and India.
 - The body was more **social–educational** than a mass political party.
 - It is item **2** in **2024 Q15**, after East India Association and before Indian Society.
 
-> **Exam note:** National Indian Association **1870** ≠ Indian Association **1876**.
+> ** note:** National Indian Association **1870** ≠ Indian Association **1876**.
 
 ### Indian Society (1872)
 
-**Year:** **1872**  
-**Place:** London  
-**Link:** Indian students; **Ananda Mohan Bose** in exam memory
+**Year:1872Place:** London
+**Link:** Indian students; **Ananda Mohan Bose** memory
 
 - A London society of Indian students for debate and political discussion.
 - It sits **after** National Indian Association (1870) and **before** Indian Association (1876) in the 2024 order.
 - Do not confuse it with Naoroji’s **1866** East India Association.
 
-> **Exam note:** 2024 order uses Indian Society as **1872**, item 3.
+> ** note:** 2024 order uses Indian Society as **1872**, item 3.
 
 ### Poona Sarvajanik Sabha (1870)
 
-**Year:** **1870**  
-**Place:** Poona (Pune)  
-**Circle:** **G.V. Joshi (Sarvajanik Kaka)**, **M.G. Ranade** and Deccan public men
+**Year:1870Place:** Poona (Pune)
+**Circle:G.V. Joshi (Sarvajanik Kaka)**, **M.G. Ranade** and Deccan public men
 
 - It claimed to speak for the people of the Deccan before the government (*sarvajanik* = public).
 - It sent memorials on famine, revenue, and local representation.
 - Ranade used it as a school of Moderate public work. Tilak later moved in a sharper direction from the same Poona world.
 - It is **not** the Bombay Presidency Association of **1885**.
 
-> **Exam note:** Poona Sabha **1870** = Deccan public body. Bombay Presidency Association = **1885**.
+> ** note:** Poona Sabha **1870** = Deccan public body. Bombay Presidency Association = **1885**.
 
 ### Indian League (1875)
 
-**Year:** **1875**  
-**Place:** Calcutta  
-**Founder:** **Sisir Kumar Ghosh** (of *Amrita Bazar Patrika*)
+**Year:1875Place:** Calcutta
+**Founder:Sisir Kumar Ghosh** (of *Amrita Bazar Patrika*)
 
 - A short-lived Bengal political body just before the Indian Association.
 - It wanted a stronger all-Bengal political platform than the older zamindar-heavy British Indian Association (1851).
 
-> **Exam note:** Indian League **1875** (Ghosh) is not the Indian Association **1876** (Banerjee–Bose).
+> ** note:** Indian League **1875** (Ghosh) is not the Indian Association **1876** (Banerjee–Bose).
 
 ### Indian Association (1876)
 
-**Year:** **26 July 1876**  
-**Place:** Calcutta  
-**Founders:** **Surendranath Banerjee** and **Ananda Mohan Bose**
+**Year:26 July 1876Place:** Calcutta
+**Founders:Surendranath Banerjee** and **Ananda Mohan Bose**
 
 - This was the strongest pre-Congress political body in Bengal.
-- It agitated for **ICS age limits**, simultaneous exams, and against racial bars.
+- It agitated for **ICS age limits**, simultaneous papers, and against racial bars.
 - It reached beyond zamindars to the educated middle class and students.
 - Banerjee organised the **Indian National Conference** in **1883** and **1885** as all-India meetings. The 1885 Conference at Calcutta ran in the same season as the first INC at Bombay.
 - Many of its methods and men later flowed into Congress.
 - **2024 Q15** item **4** — last of the four.
 
-> **Exam note:** Indian Association = **1876 Calcutta, Banerjee + A.M. Bose**. Not 1866. Not Naoroji’s London body.
+> ** note:** Indian Association = **1876 Calcutta, Banerjee + A.M. Bose**. Not 1866. Not Naoroji’s London body.
 
 ### Madras Mahajan Sabha (1884)
 
-**Year:** **1884**  
-**Place:** Madras  
-- The exam founders are **M. Viraraghavachariar**, **G. Subramania Iyer** and **P. Ananda Charlu**.
+**Year:1884Place:** Madras
+- The founders are **M. Viraraghavachariar**, **G. Subramania Iyer** and **P. Ananda Charlu**.
 
 - Presidency-level political association for the educated public of Madras.
 - It discussed local government, jobs, and Indian representation.
 - It is one of the three presidency bodies named in the syllabus, with Poona and Bombay.
 
-> **Exam note:** Madras Mahajan Sabha = **1884**. Bombay Presidency Association = **1885**. INC = **1885**.
+> ** note:** Madras Mahajan Sabha = **1884**. Bombay Presidency Association = **1885**. INC = **1885**.
 
 ### Bombay Presidency Association (1885)
 
-**Year:** **1885**  
-**Place:** Bombay  
-**Founders:** **Pherozeshah Mehta**, **K.T. Telang**, **Badruddin Tyabji**
+**Year:1885Place:** Bombay
+**Founders:Pherozeshah Mehta**, **K.T. Telang**, **Badruddin Tyabji**
 
 - Bombay’s elite political association, founded in the **same year** as Congress.
 - It spoke for civic rights, councils and Indian officers in the presidency.
@@ -203,15 +194,15 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Tyabji later became the **first Muslim President** of Congress, at **Madras 1887**.
 - Do not date it in the 1860s. It is **1885**.
 
-> **Exam note:** Bombay Presidency Association **1885** ≠ East India Association **1866**.
+> ** note:** Bombay Presidency Association **1885** ≠ East India Association **1866**.
 
 **PYQ — UPPCS Prelims 2024, Q15**
 
 Consider the following events and arrange them in chronological order:
 
-1. East India Association  
-2. National Indian Association  
-3. Indian Society  
+1. East India Association
+2. National Indian Association
+3. Indian Society
 4. Indian Association
 
 Select the correct answer from the codes given below:
@@ -235,48 +226,45 @@ D. 1, 2, 3, 4
 
 ## 9.3 Establishment of the Indian National Congress
 
-**Date:** **28 December 1885**  
-**Place:** **Gokuldas Tejpal Sanskrit College, Bombay**  
-**Organiser:** **Allan Octavian Hume** (retired ICS)  
-**First President:** **Womesh Chunder Bonnerjee (W.C. Banerjee)**  
-**Delegates:** about **72**
+**Date:28 December 1885Place:Gokuldas Tejpal Sanskrit College, BombayOrganiser:Allan Octavian Hume** (retired ICS)
+**First President:Womesh Chunder Bonnerjee (W.C. Banerjee)Delegates:** about **72**
 
 - Hume wanted a yearly gathering of educated Indians so discontent would have a **constitutional outlet**.
 - The session was first thought of for Poona; it was held at **Bombay**.
 - Delegates were lawyers, editors, landlords and professional men from several provinces — an elite start, not a peasant party.
 - Early demands included Indianisation of the **civil service**.
-- They asked for simultaneous ICS exams in India and England.
+- They asked for simultaneous ICS papers in India and England.
 - They wanted expansion of **legislative councils**, a cut in military spending, and an enquiry into poverty.
 - **Lala Lajpat Rai** and later **R.P. Dutt** argued that Hume founded Congress as a **safety valve**.
 - On this view, Hume wanted to **vent** unrest so that it would not explode.
 - Nationalist historians say Indians used Hume. They were not Hume’s puppets.
 - Congress was meant to meet **once a year**, pass resolutions, and go home. It was not yet a mass party with cadres in every district.
 
-> **Exam note:** First session = **Bombay 1885 + W.C. Bonnerjee + Hume**. First President is **not** Hume, **not** Naoroji, **not** Tilak.
+> ** note:** First session = **Bombay 1885 + W.C. Bonnerjee + Hume**. First President is **not** Hume, **not** Naoroji, **not** Tilak.
 
 ---
 
 ### Safety Valve Theory vs National Awakening view
 
-Two rival explanations of **why** Congress began. Exams test both sides, not just one.
+Two rival explanations of **why** Congress began. Notes test both sides, not just one.
 
 | | Safety Valve Theory | National Awakening view |
 |---|---|---|
 | **Core claim** | Hume, with hints from Viceroy **Dufferin**, wanted an organised, loyal outlet for educated Indian discontent so it would not turn revolutionary | Congress was the natural culmination of decades of political work by pre-1885 associations, the press and English education |
 | **Who argues it** | **Lala Lajpat Rai** first floated it; **R. Palme Dutt** later gave it a sharper Marxist edge | Most nationalist historians (Bipan Chandra and others); **William Wedderburn's** biography of Hume defends his sincerity |
 | **Evidence used** | Hume's own private hints about secret reports of unrest reaching the government; Congress's early loyalty to the British connection | Growth of the Indian Association, Poona Sarvajanik Sabha, Bombay and Madras bodies **before** 1885; Indians used Hume's organisational skill for their own ends |
-| **Exam treatment** | A **theory about intent**, not a proven fact — treat it as one interpretation | The dominant classroom view: Congress channelled a **genuine, already-rising** national consciousness |
+| ** treatment** | A **theory about intent**, not a proven fact — treat it as one interpretation | The dominant classroom view: Congress channelled a **genuine, already-rising** national consciousness |
 
 - Hume genuinely wanted reform; Indians were not his passive tools. Both things can be true at once — that is the usual "both statements correct, but not causally linked" trap in A/R questions.
-- Do not write that Safety Valve is a "proven British conspiracy." It is a **theory**, most associated with **Lajpat Rai** in the exam's eyes.
+- Do not write that Safety Valve is a "proven British conspiracy." It is a **theory**, most associated with **Lajpat Rai** in the 's eyes.
 
-> **Exam note:** If a stem asks **who first suggested the Safety Valve idea**, the standard exam name is **Lala Lajpat Rai**. If it asks **who defended Hume**, the name is **William Wedderburn**.
+> ** note:** If a stem asks **who first suggested the Safety Valve idea**, the standard name is **Lala Lajpat Rai**. If it asks **who defended Hume**, the name is **William Wedderburn**.
 
 ---
 
 ## 9.4 Congress Presidents and Sessions
 
-| Year | Place | President / lock |
+| Year | Place | President / fact |
 |------|-------|------------------|
 | **1885** | Bombay | **W.C. Bonnerjee** — first President |
 | **1886** | Calcutta | **Dadabhai Naoroji** — first of three |
@@ -311,7 +299,7 @@ Two rival explanations of **why** Congress began. Exams test both sides, not jus
 - **2025 Q6** lists partition revoked, capital to Delhi, and Lucknow Pact. Only the first two belong to **1911**.
 - **2024 Q133** later chronology uses **Ramgarh 1940** after Congress ministries resigned in **1939**.
 
-> **Exam note:** Burn **Tilak = never President**. Besant **1917** is the first woman President. Sarojini **1925** is the first **Indian** woman President. Gandhi’s only presidency is **Belgaum**.
+> ** note:** Burn **Tilak = never President**. Besant **1917** is the first woman President. Sarojini **1925** is the first **Indian** woman President. Gandhi’s only presidency is **Belgaum**.
 
 **PYQ — UPPCS Prelims 2021, Q50**
 
@@ -339,14 +327,14 @@ D. Subhash Chandra Bose
 - The method was **constitutional agitation**.
 - Leaders used petitions, the press, speeches, and memorials to Parliament.
 - The schoolbook tag is **prayer, petition, protest**.
-- On **services**, they wanted to Indianise the ICS, hold exams in India, and raise the age limit so Indians could compete.
+- On **services**, they wanted to Indianise the ICS, hold papers in India, and raise the age limit so Indians could compete.
 - On **councils**, they wanted more Indians and more discussion of the budget. This was a step towards representative government, not yet full Swaraj.
 - On the **economy**, they attacked the **drain**, high military spending, and revenue that ignored famines.
 - On **civil rights**, they opposed racial bars in justice and jobs. The Ilbert controversy had already shown the wound.
 - Moderates valued the British connection if it were run on British liberal principles. That is the **“Un-British rule”** complaint: the Raj was not living up to its own ideals.
 - Extremists later said these policies had **no sanction** (no boycott, no mass refusal). Surat **1907** is that fight.
 
-> **Exam note:** Early Congress **did** have an economic programme (drain, poverty, military cuts). It was **not** a revolutionary terrorist body.
+> ** note:** Early Congress **did** have an economic programme (drain, poverty, military cuts). It was **not** a revolutionary terrorist body.
 
 ### Moderate economic demands — checklist
 
@@ -361,7 +349,7 @@ Early Congress built a full economic programme around Naoroji's drain critique. 
 7. Expand **legislative councils** with more elected Indians and real budget-discussion rights.
 8. Separate the **judiciary from the executive** at the district level to curb racial bias in justice (the Ilbert wound).
 
-> **Exam note:** This checklist is the "Congress **did** have an economic programme" answer to any statement claiming Moderates were pure loyalists with no demands.
+> ** note:** This checklist is the "Congress **did** have an economic programme" answer to any statement claiming Moderates were pure loyalists with no demands.
 
 ---
 
@@ -384,7 +372,7 @@ Early Congress built a full economic programme around Naoroji's drain critique. 
 - Gandhi later called him his political teacher.
 - After **1905** Partition, Extremists said Moderate methods had failed. **Surat 1907** split the two camps. **Lucknow 1916** brought them back together.
 
-> **Exam note:** 2024 Q135 = **Both true; R does not explain A**. Moderates criticised the drain; they were not blind loyalists.
+> ** note:** 2024 Q135 = **Both true; R does not explain A**. Moderates criticised the drain; they were not blind loyalists.
 
 **PYQ — UPPCS Prelims 2024, Q135**
 
@@ -396,10 +384,10 @@ Given below are two statements, one is labelled as Assertion (A) and the other a
 
 Select the correct answer from the codes given below:
 
-Options:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).  
-B. (A) is false, but (R) is true.  
-C. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+B. (A) is false, but (R) is true.
+C. Both (A) and (R) are true and (R) is the correct explanation of (A).
 D. (A) is true, but (R) is false.
 
 <details>
@@ -450,16 +438,15 @@ The government moved against Extremist leaders in the years right after Surat. K
 | **Bipin Chandra Pal** | **Self-exile** in England to avoid testifying against Aurobindo in the *Bande Mataram* sedition case | **1908–1911** |
 | **Aurobindo Ghosh** | Tried in the **Alipore Bomb Case**; acquitted, then withdrew from politics to **Pondicherry** | Case **1908–09**; Pondicherry from **1910** |
 
-> **Exam note:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**. Lajpat Rai's Mandalay (**1907, six months**) is a **different** event from Tilak's Mandalay (**1908–14, sedition sentence**).
+> ** note:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**. Lajpat Rai's Mandalay (**1907, six months**) is a **different** event from Tilak's Mandalay (**1908–14, sedition sentence**).
 
 ---
 
 ## 9.8 Bal Gangadhar Tilak
 
-**Life:** **1856–1920** (Ratnagiri; died Bombay, **1 August 1920**)  
-**Title:** **Lokmanya**  
-**Papers:** ***Kesari*** (Marathi, 1881) and ***Maratha*** (English)  
-**Home Rule League:** **1916** (Poona / Maharashtra–Karnataka belt)
+**Life:1856–1920** (Ratnagiri; died Bombay, **1 August 1920**)
+**Title:LokmanyaPapers:*Kesari*** (Marathi, 1881) and ***Maratha*** (English)
+**Home Rule League:1916** (Poona / Maharashtra–Karnataka belt)
 
 - Tilak taught at Fergusson College and worked with the **Deccan Education Society (1884)** before full-time politics.
 - He turned **Ganapati Utsav (1893)** and **Shivaji festival (1895)** into public political schools.
@@ -473,16 +460,13 @@ The government moved against Extremist leaders in the years right after Surat. K
 - **2021 Q50:** he **never presided** over an INC session. He was a giant of the Surat Extremists, not the Congress President.
 - In **1916** he started a **Home Rule League** beside Annie Besant’s league. He died in **1920**, just as Non-Cooperation was being shaped.
 
-> **Exam note:** Tilak = **never INC President + Kesari + Home Rule 1916 + opposed Age of Consent**. Gokhale **did** preside (1905).
+> ** note:** Tilak = **never INC President + Kesari + Home Rule 1916 + opposed Age of Consent**. Gokhale **did** preside (1905).
 
 ---
 
 ## 9.9 Dadabhai Naoroji
 
-**Life:** **1825–1917**  
-**Title:** **Grand Old Man of India**  
-**Theory:** **Drain of Wealth**  
-**Book:** ***Poverty and Un-British Rule in India* — 1901**
+**Life:1825–1917Title:Grand Old Man of IndiaTheory:Drain of WealthBook:*Poverty and Un-British Rule in India* — 1901**
 
 - He was a Parsi teacher and businessman.
 - He was the first Indian professor at Elphinstone.
@@ -497,7 +481,7 @@ The government moved against Extremist leaders in the years right after Surat. K
 - At Calcutta **1906**, Congress adopted **Swaraj** as a goal in Naoroji’s presidentship.
 - He remained a Moderate in method and a radical in economic diagnosis. Gokhale and the early Congress treated him as the senior economist-statesman.
 
-> **Exam note:** Book year = **1901**, not 1900/1902/1903. East India Association **1866** is his. Three presidentships.
+> ** note:** Book year = **1901**, not 1900/1902/1903. East India Association **1866** is his. Three presidentships.
 
 **PYQ — UPPCS Prelims 2021, Q139**
 
@@ -588,10 +572,10 @@ D. 1903 A.D.
 
 Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
 
-**List-I (Book)**  **List-II (Writer)**  
-A. The Story of My Deportation  1. Surendranath Banerjee  
-B. Gita Rahasya  2. Maulana Abul Kalam Azad  
-C. A Nation in Making  3. Lala Lajpat Rai  
+**List-I (Book)List-II (Writer)**
+A. The Story of My Deportation  1. Surendranath Banerjee
+B. Gita Rahasya  2. Maulana Abul Kalam Azad
+C. A Nation in Making  3. Lala Lajpat Rai
 D. India Wins Freedom  4. Bal Gangadhar Tilak
 
 A. 3 4 1 2
@@ -611,11 +595,11 @@ D. 4 3 2 1
 
 ---
 
-## Must-score locks — 12 must-know INC sessions
+## Must-score facts — 12 must-know INC sessions
 
-Every list-matching or chronology question draws from this spine. Learn **year, place, President, and the one lock** — nothing more is needed for prelims.
+Every list-matching or chronology question draws from this spine. Learn **year, place, President, and the one fact** — nothing more is needed for prelims.
 
-| # | Year | Place | President | The one lock |
+| # | Year | Place | President | The one fact |
 |---|------|-------|-----------|---------------|
 | 1 | 1885 | Bombay | **W.C. Bonnerjee** | First session; Hume organised, did not preside |
 | 2 | 1887 | Madras | **Badruddin Tyabji** | First Muslim President |
@@ -630,7 +614,7 @@ Every list-matching or chronology question draws from this spine. Learn **year, 
 | 11 | 1929 | Lahore | **Jawaharlal Nehru** | **Purna Swaraj** resolution |
 | 12 | 1931 | Karachi | **Vallabhbhai Patel** | **Fundamental Rights** resolution |
 
-> **Exam note:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
+> ** note:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
 
 ---
 
@@ -642,9 +626,9 @@ Every list-matching or chronology question draws from this spine. Learn **year, 
 
 **Q1.** Consider the following events and arrange them in chronological order:
 
-1. East India Association  
-2. National Indian Association  
-3. Indian Society  
+1. East India Association
+2. National Indian Association
+3. Indian Society
 4. Indian Association
 
 A. 1, 2, 4, 3
@@ -706,10 +690,10 @@ D. 1903
 
 Reason (R): They complained only against "Un-British rule" in India.
 
-Options:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. Both (A) and (R) are true and (R) is the correct explanation of (A)
 D. (A) is true, but (R) is false
 
 <details>
@@ -723,8 +707,8 @@ D. (A) is true, but (R) is false
 
 **Q5.** Match List-I with List-II.
 
-**List-I (Book)** A. The Story of My Deportation  B. Gita Rahasya  C. A Nation in Making  D. India Wins Freedom  
-**List-II** 1. Surendranath Banerjee  2. Abul Kalam Azad  3. Lala Lajpat Rai  4. Bal Gangadhar Tilak
+**List-I (Book)** A. The Story of My Deportation B. Gita Rahasya C. A Nation in Making D. India Wins Freedom
+**List-II** 1. Surendranath Banerjee 2. Abul Kalam Azad 3. Lala Lajpat Rai 4. Bal Gangadhar Tilak
 
 A. 3 4 1 2
 
@@ -745,8 +729,8 @@ D. 4 3 2 1
 
 **Q6.** Which of the following events took place in the year 1911?
 
-1. Partition of Bengal revoked  
-2. Transfer of capital from Calcutta to Delhi  
+1. Partition of Bengal revoked
+2. Transfer of capital from Calcutta to Delhi
 3. Lucknow Pact between Congress and Muslim League
 
 A. 1 and 2
@@ -768,7 +752,7 @@ D. Only 1
 
 **Q7.** With reference to the Indian National Congress, which of the following statements is/are correct?
 
-1. The first session was held at Bombay in 1885.  
+1. The first session was held at Bombay in 1885.
 2. A.O. Hume was the first President of the Congress.
 
 A. Only 1
@@ -790,8 +774,8 @@ D. Neither 1 nor 2
 
 **Q8.** Match List-I with List-II.
 
-**List-I** A. East India Association  B. Indian Association  C. Poona Sarvajanik Sabha  D. Madras Mahajan Sabha  
-**List-II** 1. 1876  2. 1866  3. 1884  4. 1870
+**List-I** A. East India Association B. Indian Association C. Poona Sarvajanik Sabha D. Madras Mahajan Sabha
+**List-II** 1. 1876 2. 1866 3. 1884 4. 1870
 
 A. 2 1 4 3
 
@@ -812,7 +796,7 @@ D. 4 1 2 3
 
 **Q9.** With reference to the Age of Consent Act, 1891, which of the following statements is/are correct?
 
-1. Behramji Malabari advocated this legislation.  
+1. Behramji Malabari advocated this legislation.
 2. The extremist wing led by Tilak supported the Act.
 
 A. Only 1
@@ -853,7 +837,7 @@ D. Tilak — President, Surat 1907
 
 **Q11.** Consider the following statements:
 
-1. Dadabhai Naoroji founded the East India Association in London in 1866.  
+1. Dadabhai Naoroji founded the East India Association in London in 1866.
 2. Surendranath Banerjee founded the East India Association in Calcutta in 1876.
 
 A. Only 1
@@ -875,9 +859,9 @@ D. Neither 1 nor 2
 
 **Q12.** Arrange the following sessions in chronological order.
 
-1. Surat Split  
-2. Lucknow reunion  
-3. First Bombay session  
+1. Surat Split
+2. Lucknow reunion
+3. First Bombay session
 4. Banaras session of Gokhale
 
 A. 3, 4, 1, 2
@@ -899,7 +883,7 @@ D. 3, 4, 2, 1
 
 **Q13.** With reference to Moderates, which of the following statements is/are correct?
 
-1. They believed British rule could modernise India if conducted justly.  
+1. They believed British rule could modernise India if conducted justly.
 2. They never criticised the drain of wealth.
 
 A. Only 1
@@ -921,7 +905,7 @@ D. Neither 1 nor 2
 
 **Q14.** With reference to Extremists, which of the following statements is/are correct?
 
-1. Lal–Bal–Pal stands for Lajpat Rai, Tilak and Bipin Chandra Pal.  
+1. Lal–Bal–Pal stands for Lajpat Rai, Tilak and Bipin Chandra Pal.
 2. They preferred boycott and Swadeshi over pure petition politics.
 
 A. Only 1
@@ -945,10 +929,10 @@ D. Neither 1 nor 2
 
 Reason (R): Gopal Krishna Gokhale also never presided over a Congress session.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -962,8 +946,8 @@ D. (A) is false, but (R) is true
 
 **Q16.** Match List-I with List-II.
 
-**List-I** A. W.C. Bonnerjee  B. Gokhale  C. Annie Besant  D. Subhas Bose  
-**List-II** 1. Banaras 1905  2. Bombay 1885  3. Haripura 1938  4. Calcutta 1917
+**List-I** A. W.C. Bonnerjee B. Gokhale C. Annie Besant D. Subhas Bose
+**List-II** 1. Banaras 1905 2. Bombay 1885 3. Haripura 1938 4. Calcutta 1917
 
 A. 2 1 4 3
 
@@ -984,7 +968,7 @@ D. 2 1 3 4
 
 **Q17.** Consider the following statements:
 
-1. The Bombay Presidency Association was founded in 1866 by Dadabhai Naoroji.  
+1. The Bombay Presidency Association was founded in 1866 by Dadabhai Naoroji.
 2. The Madras Mahajan Sabha was founded in 1884.
 
 A. Only 1
@@ -1006,8 +990,8 @@ D. Neither 1 nor 2
 
 **Q18.** Which of the following pairs are NOT correctly matched?
 
-1. Poona Sarvajanik Sabha — 1870  
-2. Indian Association — 1866  
+1. Poona Sarvajanik Sabha — 1870
+2. Indian Association — 1866
 3. Madras Mahajan Sabha — 1884
 
 A. Only 2
@@ -1029,7 +1013,7 @@ D. Only 1
 
 **Q19.** With reference to the Lucknow session of 1916, which of the following statements is/are correct?
 
-1. Moderates and Extremists reunited in Congress.  
+1. Moderates and Extremists reunited in Congress.
 2. Congress and the Muslim League signed the Lucknow Pact.
 
 A. Only 1
@@ -1051,7 +1035,7 @@ D. Neither 1 nor 2
 
 **Q20.** Consider the following statements:
 
-1. Dadabhai Naoroji presided over the Congress in 1886, 1893 and 1906.  
+1. Dadabhai Naoroji presided over the Congress in 1886, 1893 and 1906.
 2. At the 1906 Calcutta session Swaraj was put forward as a Congress goal.
 
 A. Only 1
@@ -1092,9 +1076,9 @@ D. Drain of Wealth — Naoroji
 
 **Q22.** Arrange the following in chronological order.
 
-1. Indian Association  
-2. East India Association  
-3. Madras Mahajan Sabha  
+1. Indian Association
+2. East India Association
+3. Madras Mahajan Sabha
 4. INC first session
 
 A. 2, 1, 3, 4
@@ -1116,7 +1100,7 @@ D. 2, 1, 4, 3
 
 **Q23.** With reference to A.O. Hume, which of the following statements is/are correct?
 
-1. He was a retired ICS officer who organised the first Congress.  
+1. He was a retired ICS officer who organised the first Congress.
 2. He was the first President of the Indian National Congress.
 
 A. Only 1
@@ -1140,10 +1124,10 @@ D. Neither 1 nor 2
 
 Reason (R): W.C. Bonnerjee was the first President of Congress in 1885.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1157,7 +1141,7 @@ D. (A) is false, but (R) is true
 
 **Q25.** Consider the following statements:
 
-1. Badruddin Tyabji was the first Muslim President of Congress.  
+1. Badruddin Tyabji was the first Muslim President of Congress.
 2. George Yule was the first English President of Congress.
 
 A. Only 1
@@ -1179,7 +1163,7 @@ D. Neither 1 nor 2
 
 **Q26.** With reference to Tilak, which of the following statements is/are correct?
 
-1. He started Kesari and Maratha.  
+1. He started Kesari and Maratha.
 2. He founded a Home Rule League in 1916.
 
 A. Only 1
@@ -1201,8 +1185,8 @@ D. Neither 1 nor 2
 
 **Q27.** Match List-I with List-II.
 
-**List-I** A. Surat  B. Lucknow  C. Banaras  D. Calcutta (first woman President)  
-**List-II** 1. 1905  2. 1907  3. 1916  4. 1917
+**List-I** A. Surat B. Lucknow C. Banaras D. Calcutta (first woman President)
+**List-II** 1. 1905 2. 1907 3. 1916 4. 1917
 
 A. 2 3 1 4
 
@@ -1223,8 +1207,8 @@ D. 1 2 3 4
 
 **Q28.** Which of the following pairs are NOT correctly matched?
 
-1. Lala Lajpat Rai — 1920 Calcutta Special President  
-2. Annie Besant — 1917 Calcutta President  
+1. Lala Lajpat Rai — 1920 Calcutta Special President
+2. Annie Besant — 1917 Calcutta President
 3. Tilak — 1905 Banaras President
 
 A. Only 3
@@ -1246,7 +1230,7 @@ D. Only 1
 
 **Q29.** Consider the following statements:
 
-1. The Indian National Conference of Surendranath Banerjee met in 1883 and 1885.  
+1. The Indian National Conference of Surendranath Banerjee met in 1883 and 1885.
 2. The Indian National Conference and the INC were the same body in 1885.
 
 A. Only 1
@@ -1268,7 +1252,7 @@ D. Neither 1 nor 2
 
 **Q30.** With reference to Naoroji, which of the following statements is/are correct?
 
-1. He was elected to the British House of Commons from Central Finsbury in 1892.  
+1. He was elected to the British House of Commons from Central Finsbury in 1892.
 2. Drain of Wealth is associated with him.
 
 A. Only 1
@@ -1290,9 +1274,9 @@ D. Neither 1 nor 2
 
 **Q31.** Arrange the following in chronological order.
 
-1. Resignation of Congress ministries  
-2. Ramgarh Congress Session  
-3. August Offer  
+1. Resignation of Congress ministries
+2. Ramgarh Congress Session
+3. August Offer
 4. Cripps Mission arrival
 
 A. 3, 1, 4, 2
@@ -1314,7 +1298,7 @@ D. 1, 3, 2, 4
 
 **Q32.** Consider the following statements:
 
-1. Gokhale founded the Servants of India Society in 1905.  
+1. Gokhale founded the Servants of India Society in 1905.
 2. Tilak founded the Servants of India Society.
 
 A. Only 1
@@ -1357,7 +1341,7 @@ D. National Indian Association — Mary Carpenter
 
 **Q34.** With reference to the Surat Split, which of the following statements is/are correct?
 
-1. It took place in 1907.  
+1. It took place in 1907.
 2. It was a split between Moderates and Extremists.
 
 A. Only 1
@@ -1381,10 +1365,10 @@ D. Neither 1 nor 2
 
 Reason (R): Simultaneous ICS examinations in India and England were part of that demand.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1398,7 +1382,7 @@ D. (A) is false, but (R) is true
 
 **Q36.** Consider the following statements:
 
-1. Annie Besant was the first woman President of the Indian National Congress.  
+1. Annie Besant was the first woman President of the Indian National Congress.
 2. She presided over the Lucknow session of 1916.
 
 A. Only 1
@@ -1420,8 +1404,8 @@ D. Neither 1 nor 2
 
 **Q37.** Match List-I with List-II.
 
-**List-I** A. Lal  B. Bal  C. Pal  D. Lion of Bombay  
-**List-II** 1. Tilak  2. Lajpat Rai  3. Pherozeshah Mehta  4. Bipin Chandra Pal
+**List-I** A. Lal B. Bal C. Pal D. Lion of Bombay
+**List-II** 1. Tilak 2. Lajpat Rai 3. Pherozeshah Mehta 4. Bipin Chandra Pal
 
 A. 2 1 4 3
 
@@ -1442,7 +1426,7 @@ D. 4 1 2 3
 
 **Q38.** With reference to the first Congress session, which of the following statements is/are correct?
 
-1. It met at Gokuldas Tejpal Sanskrit College, Bombay.  
+1. It met at Gokuldas Tejpal Sanskrit College, Bombay.
 2. About seventy-two delegates attended.
 
 A. Only 1
@@ -1464,8 +1448,8 @@ D. Neither 1 nor 2
 
 **Q39.** Which of the following pairs are NOT correctly matched?
 
-1. *Gita Rahasya* — Tilak  
-2. *Poverty and Un-British Rule in India* — 1901  
+1. *Gita Rahasya* — Tilak
+2. *Poverty and Un-British Rule in India* — 1901
 3. *A Nation in Making* — Gokhale
 
 A. Only 3
@@ -1487,7 +1471,7 @@ D. Only 1
 
 **Q40.** Consider the following statements:
 
-1. The Lucknow Pact accepted separate electorates as part of a Congress–League bargain.  
+1. The Lucknow Pact accepted separate electorates as part of a Congress–League bargain.
 2. The Lucknow Pact was signed in 1911 at the Delhi Durbar.
 
 A. Only 1
@@ -1509,7 +1493,7 @@ D. Neither 1 nor 2
 
 **Q41.** With reference to Lala Lajpat Rai, which of the following statements is/are correct?
 
-1. He wrote *The Story of My Deportation*.  
+1. He wrote *The Story of My Deportation*.
 2. He never presided over any Congress session.
 
 A. Only 1
@@ -1531,9 +1515,9 @@ D. Neither 1 nor 2
 
 **Q42.** Arrange the following Presidents in the order of their first Congress presidentship.
 
-1. Annie Besant  
-2. W.C. Bonnerjee  
-3. Gokhale  
+1. Annie Besant
+2. W.C. Bonnerjee
+3. Gokhale
 4. Badruddin Tyabji
 
 A. 2, 4, 3, 1
@@ -1555,7 +1539,7 @@ D. 2, 4, 1, 3
 
 **Q43.** Consider the following statements:
 
-1. Indian League (1875) is associated with Sisir Kumar Ghosh.  
+1. Indian League (1875) is associated with Sisir Kumar Ghosh.
 2. Indian Association (1876) is associated with Surendranath Banerjee and Ananda Mohan Bose.
 
 A. Only 1
@@ -1596,7 +1580,7 @@ D. Amritsar Session — 1919
 
 **Q45.** With reference to early Congress policy, which of the following statements is/are correct?
 
-1. It demanded a reduction in military expenditure.  
+1. It demanded a reduction in military expenditure.
 2. It rejected all council reform as a Moderate illusion and asked only for armed revolt.
 
 A. Only 1
@@ -1618,7 +1602,7 @@ D. Neither 1 nor 2
 
 **Q46.** Consider the following statements about the origins of the Indian National Congress:
 
-1. The Safety Valve Theory is most associated with Lala Lajpat Rai.  
+1. The Safety Valve Theory is most associated with Lala Lajpat Rai.
 2. William Wedderburn's biography defended Hume's sincerity in founding Congress.
 
 A. Only 1
@@ -1640,7 +1624,7 @@ D. Neither 1 nor 2
 
 **Q47.** With reference to the Surat Split of 1907, which of the following statements is/are correct?
 
-1. The dispute was over the choice of President and the fate of the 1906 Swadeshi and boycott resolutions.  
+1. The dispute was over the choice of President and the fate of the 1906 Swadeshi and boycott resolutions.
 2. Rash Behari Ghosh was the Moderates' preferred presidential candidate.
 
 A. Only 1
@@ -1662,8 +1646,8 @@ D. Neither 1 nor 2
 
 **Q48.** Match List-I with List-II.
 
-**List-I (Extremist leader)** A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Bipin Chandra Pal  D. Aurobindo Ghosh  
-**List-II (Post-Surat penalty)** 1. Mandalay deportation, 1907 (six months)  2. Mandalay sedition sentence, 1908–14  3. Self-exile in England, 1908–11  4. Withdrew to Pondicherry, from 1910
+**List-I (Extremist leader)** A. Lala Lajpat Rai B. Bal Gangadhar Tilak C. Bipin Chandra Pal D. Aurobindo Ghosh
+**List-II (Post-Surat penalty)** 1. Mandalay deportation, 1907 (six months) 2. Mandalay sedition sentence, 1908–14 3. Self-exile in England, 1908–11 4. Withdrew to Pondicherry, from 1910
 
 A. 1 2 3 4
 
@@ -1684,7 +1668,7 @@ D. 3 2 1 4
 
 **Q49.** With reference to Lal–Bal–Pal, which of the following statements is/are correct?
 
-1. Lala Lajpat Rai's base was Punjab and his paper was *The Punjabee*.  
+1. Lala Lajpat Rai's base was Punjab and his paper was *The Punjabee*.
 2. Bipin Chandra Pal's base was Bengal and he edited *Bande Mataram*.
 
 A. Only 1
@@ -1725,9 +1709,9 @@ D. Immediate and complete severance of the British political connection
 
 **Q51.** Arrange the following in chronological order:
 
-1. Surat Split  
-2. Lajpat Rai's deportation to Mandalay  
-3. Tilak's sedition conviction  
+1. Surat Split
+2. Lajpat Rai's deportation to Mandalay
+3. Tilak's sedition conviction
 4. Lucknow reunion
 
 A. 2, 1, 3, 4
@@ -1755,8 +1739,8 @@ D. 1, 3, 2, 4
 
 Which of the following events took place in the year 1911?
 
-1. Partition of Bengal revoked  
-2. Transfer of capital from Calcutta to Delhi  
+1. Partition of Bengal revoked
+2. Transfer of capital from Calcutta to Delhi
 3. Lucknow Pact between Congress and Muslim League
 
 Select the correct answer from the code given below:
@@ -1782,9 +1766,9 @@ D. Only 1
 
 Consider the following events and arrange them in chronological order:
 
-1. East India Association  
-2. National Indian Association  
-3. Indian Society  
+1. East India Association
+2. National Indian Association
+3. Indian Society
 4. Indian Association
 
 Select the correct answer from the codes given below:
@@ -1808,7 +1792,7 @@ D. 1, 2, 3, 4
 
 With reference to the Age of Consent Act, 1891 consider the following statements:
 
-1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.  
+1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.
 2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
 
 Which of the above statements is/are correct?
@@ -1832,9 +1816,9 @@ D. Both 1 and 2
 
 Consider the following events and arrange them in chronological order:
 
-1. Linlithgow August Offer  
-2. Cripps Mission arrival in India  
-3. Ramgarh Congress Session  
+1. Linlithgow August Offer
+2. Cripps Mission arrival in India
+3. Ramgarh Congress Session
 4. Resignation letters of Congress Ministers
 
 Select the correct answer from the codes given below:
@@ -1850,7 +1834,7 @@ D. 4, 2, 3, 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — ministries **1939** → Ramgarh **1940** → August Offer **1940** → Cripps **1942**. Session lock for this topic; full missions live later.
+**Ans: B** — ministries **1939** → Ramgarh **1940** → August Offer **1940** → Cripps **1942**. Session fact for this topic; full missions live later.
 
 </details>
 
@@ -1864,10 +1848,10 @@ Given below are two statements, one is labelled as Assertion (A) and the other a
 
 Select the correct answer from the codes given below:
 
-Options:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).  
-B. (A) is false, but (R) is true.  
-C. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+B. (A) is false, but (R) is true.
+C. Both (A) and (R) are true and (R) is the correct explanation of (A).
 D. (A) is true, but (R) is false.
 
 <details>
@@ -1923,10 +1907,10 @@ D. 1903 A.D.
 
 Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
 
-**List-I (Book)**  **List-II (Writer)**  
-A. The Story of My Deportation  1. Surendranath Banerjee  
-B. Gita Rahasya  2. Maulana Abul Kalam Azad  
-C. A Nation in Making  3. Lala Lajpat Rai  
+**List-I (Book)List-II (Writer)**
+A. The Story of My Deportation  1. Surendranath Banerjee
+B. Gita Rahasya  2. Maulana Abul Kalam Azad
+C. A Nation in Making  3. Lala Lajpat Rai
 D. India Wins Freedom  4. Bal Gangadhar Tilak
 
 A. 3 4 1 2

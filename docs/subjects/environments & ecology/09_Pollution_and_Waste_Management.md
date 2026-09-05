@@ -8,13 +8,13 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 </details>
 
-> **Sources baked in:** Water Act 1974, Air Act 1981, EPA 1986, SWM/BMW/HW/E-waste Rules, CPCB/CGWB, NCAP 2019, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — standards, org↔report traps, UP rivers/cities  
+> **Sources baked in:** Water Act 1974, Air Act 1981, EPA 1986, SWM/BMW/HW/E-waste Rules, CPCB/CGWB, NCAP 2019, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — standards, org↔report traps, UP rivers/cities
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 30 Must-Score Locks
+## Consolidated — 30 Must-Score Facts
 
 1. **Pollution** is harmful addition beyond the environment’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
 2. **Point sources** are chimneys and drains. **Non-point sources** include farm runoff and roads.
@@ -25,15 +25,15 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 7. London smog is **SO₂ + smoke**. Los Angeles smog is **photochemical** (O₃/PAN).
 8. **NCAP (2019)** covers non-attainment cities with a **20–30%** PM reduction target. **BS-VI** fuel arrived in **2020**.
 9. **Lichens** are SO₂ bio-indicators and die in polluted air.
-10. Water locks: high **BOD** means worse organic pollution; **COD ≥ BOD**; clean DO is often **>6 mg/L**, while **<5 mg/L** stresses fish.
+10. Water facts: high **BOD** means worse organic pollution; **COD ≥ BOD**; clean DO is often **>6 mg/L**, while **<5 mg/L** stresses fish.
 11. **Eutrophication** is nutrient overload (N/P) → algal bloom → dissolved-oxygen crash.
 12. The **Annual Groundwater Quality Report** is a **CGWB** product, not CPCB or CWC.
-13. **Namami Gange** launched in **2014**. Gomti pollution is a **Lucknow** lock; Kanpur is the Ganga tannery stretch.
+13. **Namami Gange** launched in **2014**. Gomti pollution is a **Lucknow** fact; Kanpur is the Ganga tannery stretch.
 14. Noise is measured in **decibels** (logarithmic). Residential limits are often **55/45** day/night; silence zones **50/40**.
-15. Radioactive locks: **Bq** = activity; **Sv** = dose; half-life is time for **50%** decay; **AERB** regulates.
+15. Radioactive facts: **Bq** = activity; **Sv** = dose; half-life is time for **50%** decay; **AERB** regulates.
 16. Thermal pollution from hot power-plant effluent lowers DO and can kill fish.
 17. About **80%** of marine pollution comes from **land**. **MARPOL 73/78** is the shipping pollution convention.
-18. Plastic locks: **PWM Rules 2016**, single-use plastic ban push **2022**, microplastics **<5 mm**. India is among the largest plastic-waste generators.
+18. Plastic facts: **PWM Rules 2016**, single-use plastic ban push **2022**, microplastics **<5 mm**. India is among the largest plastic-waste generators.
 19. Waste rules cluster in **2016**: SWM, BMW, Hazardous Waste, and Plastic Waste. **E-waste Rules** updated in **2022**.
 20. **3R** priority is **Reduce > Reuse > Recycle**. **Swachh Bharat** began in **2014**.
 21. BMW colour codes: **Yellow** incineration; **Red** disinfect and recycle; **White** sharps; **Blue** glass/metal.
@@ -41,7 +41,7 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 23. **Basel Convention (1989)** covers transboundary hazardous waste.
 24. Carrying-capacity logic: waste should stay within absorption capacity; extraction above regeneration is unsustainable.
 25. UP air NCAP cities include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, and Bareilly.
-26. UP issue locks: Kanpur Ganga tanneries; Ghaziabad/Noida air; **Moradabad** noise; **Taj Trapezium** at Agra; Varanasi ghat/plastic pressure.
+26. UP issue facts: Kanpur Ganga tanneries; Ghaziabad/Noida air; **Moradabad** noise; **Taj Trapezium** at Agra; Varanasi ghat/plastic pressure.
 27. FSI publishes forest cover, not pollution standards. CWC is surface-water resources, not the groundwater quality report.
 28. EPA **1986** is the umbrella for many later rules; it does not replace Water and Air Acts.
 29. Secondary ozone at ground level is a pollutant; do not confuse it with stratospheric protective ozone.
@@ -49,7 +49,7 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -80,7 +80,7 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 - The **Environment (Protection) Act, 1986** is the umbrella law for hazardous substances, standards, and EIA.
 - **CPCB** sets national standards. **SPCBs** enforce pollution control at the state level.
 
-> **Exam note:** Pollution requires exceeding tolerance — not every human addition counts.
+> ** note:** Pollution requires exceeding tolerance — not every human addition counts.
 
 **PYQ — UPPCS Prelims 2025, Q22**
 
@@ -116,7 +116,7 @@ D. Only 1
 - About **30% of India's land area** is degraded according to ISRO desertification assessments.
 - **EIA under EPA 1986** aims to prevent degradation before major projects start.
 
-> **Exam note:** Afforestation **reverses** degradation; it is not a cause of it.
+> ** note:** Afforestation **reverses** degradation; it is not a cause of it.
 
 ---
 
@@ -136,7 +136,7 @@ D. Only 1
 - **NCAP (National Clean Air Programme, 2019)** targets **122 non-attainment cities** for **20–30% PM reduction**.
 - **Lichens** are sensitive **bio-indicators of air pollution**, especially **SO₂**. They **do not grow well in polluted areas**.
 
-> **Exam note:** UPPCS 2025 Q61 — lichens indicate pollution but **decline** in polluted air.
+> ** note:** UPPCS 2025 Q61 — lichens indicate pollution but **decline** in polluted air.
 
 **PYQ — UPPCS Prelims 2025, Q61**
 
@@ -180,11 +180,11 @@ D. Only 1
 - **Namami Gange (2014)** is India's flagship Ganga cleaning mission. **NMCG** is the nodal agency.
 - The **Annual Groundwater Quality Report** is prepared by **CGWB**, not CPCB.
 
-> **Exam note:** UPPCS 2025 Q70 — groundwater report = **CGWB only**.
+> ** note:** UPPCS 2025 Q70 — groundwater report = **CGWB only**.
 
 **PYQ — UPPCS Prelims 2025, Q70**
 
-Annual Groundwater Quality Report 2024 prepared by: 1. CPCB  2. CWC  3. CGWB
+Annual Groundwater Quality Report 2024 prepared by: 1. CPCB 2. CWC 3. CGWB
 
 A. 1 and 2
 
@@ -221,7 +221,7 @@ D. Only 1
 - **Phytoremediation** uses plants to absorb contaminants. **Bioremediation** uses microbes to break them down.
 - Soil pollution often **leaches into groundwater** over time.
 
-> **Exam note:** Soil **erosion** is physical degradation. Chemical contamination = soil **pollution**.
+> ** note:** Soil **erosion** is physical degradation. Chemical contamination = soil **pollution**.
 
 ---
 
@@ -239,7 +239,7 @@ D. Only 1
 - **Moradabad (UP)** ranked among the world's most noise-polluted cities in UNEP's Frontier Report 2022.
 - **Noise Pollution (Regulation and Control) Rules, 2000** operate under **EPA 1986**.
 
-> **Exam note:** **45 dB** is residential **night**, not silence zone night (40 dB).
+> ** note:45 dB** is residential **night**, not silence zone night (40 dB).
 
 ---
 
@@ -257,7 +257,7 @@ D. Only 1
 - **AERB (Atomic Energy Regulatory Board)** regulates nuclear safety in India.
 - Radioactive biomedical waste needs **shielded containers** under **BMW Rules 2016**.
 
-> **Exam note:** Half-life means **50% decay**, not complete safety.
+> ** note:** Half-life means **50% decay**, not complete safety.
 
 ---
 
@@ -272,7 +272,7 @@ D. Only 1
 - **Cooling towers** and **cooling ponds** reduce thermal pollution before release.
 - Thermal pollution is regulated through **consent conditions under the Water Act 1974**.
 
-> **Exam note:** Fish kills mainly follow **DO reduction**, not direct heat toxicity alone.
+> ** note:** Fish kills mainly follow **DO reduction**, not direct heat toxicity alone.
 
 ---
 
@@ -289,7 +289,7 @@ D. Only 1
 - **MARPOL Annex V** prohibits plastic discharge from vessels.
 - **Coral bleaching** in the Andaman and Nicobar Islands was linked to **Indian Ocean warming of about 2°C** (2024 PYQ pattern).
 
-> **Exam note:** UPPCS 2024 Q19 — bleaching from **temperature rise**, not temperature decrease.
+> ** note:** UPPCS 2024 Q19 — bleaching from **temperature rise**, not temperature decrease.
 
 **PYQ — UPPCS Prelims 2024, Q19**
 
@@ -324,7 +324,7 @@ D. −4°C temperature drop
 - The **Ganga** carries large amounts of plastic waste from ghats and urban dumping.
 - **MARPOL Annex V** bans plastic discharge from ships into the sea.
 
-> **Exam note:** **PWM Rules = 2016**. **SUP ban = 2022**. Do not swap.
+> ** note:PWM Rules = 2016**. **SUP ban = 2022**. Do not swap.
 
 ---
 
@@ -341,7 +341,7 @@ D. −4°C temperature drop
 - **Swachh Bharat Mission (2014)** targeted open defecation free status and waste management. **SBM 2.0 (2021–2026)** targets garbage-free cities.
 - Biomedical, hazardous, and e-waste follow **separate rules**, not SWM Rules alone.
 
-> **Exam note:** SWM Rules = **2016**. Segregation is **mandatory**, not optional.
+> ** note:** SWM Rules = **2016**. Segregation is **mandatory**, not optional.
 
 ---
 
@@ -358,7 +358,7 @@ D. −4°C temperature drop
 - **CBWTF (Common Biomedical Waste Treatment Facility)** serves clusters of healthcare units.
 - Untreated BMW must not be stored beyond **48 hours**.
 
-> **Exam note:** **Sharps = white**, not yellow. Yellow = anatomical/infectious soiled waste.
+> ** note:Sharps = white**, not yellow. Yellow = anatomical/infectious soiled waste.
 
 | Colour | Waste type | Treatment |
 |--------|------------|-----------|
@@ -381,7 +381,7 @@ D. −4°C temperature drop
 - The **Basel Convention (1989)** controls **transboundary movement** of hazardous waste. India ratified it in **1992**.
 - **Kanpur tannery chromium sludge** is a classic UP hazardous waste example.
 
-> **Exam note:** Basel = **hazardous waste movement**, not climate or biodiversity.
+> ** note:** Basel = **hazardous waste movement**, not climate or biodiversity.
 
 ---
 
@@ -399,17 +399,15 @@ D. −4°C temperature drop
 - Consumers must channel e-waste only to **authorized collectors and recyclers**.
 - **Moradabad and Noida** region has significant e-waste generation and informal processing in UP.
 
-> **Exam note:** Current rules = **2022**. India rank = **3rd**, not 1st.
+> ** note:** Current rules = **2022**. India rank = **3rd**, not 1st.
 
 ---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
+> **30 questionsQ1.** With reference to pollution, which statements is/are correct?
 
-**Q1.** With reference to pollution, which statements is/are correct?
-
-1. Primary pollutants include SO₂ and PM.  
+1. Primary pollutants include SO₂ and PM.
 2. Ground-level O₃ is a primary pollutant emitted directly from vehicles.
 
 A. Only 1
@@ -428,7 +426,7 @@ D. Neither
 
 **Q2.** With reference to lichens, which statements is/are correct?
 
-1. Lichens indicate air pollution levels.  
+1. Lichens indicate air pollution levels.
 2. Lichens thrive in high SO₂ areas.
 
 A. Only 1
@@ -447,7 +445,7 @@ D. Neither
 
 **Q3.** With reference to water quality, which statements is/are correct?
 
-1. High BOD indicates high organic pollution.  
+1. High BOD indicates high organic pollution.
 2. Annual Groundwater Quality Report is published by CPCB.
 
 A. Only 1
@@ -466,7 +464,7 @@ D. Neither
 
 **Q4.** With reference to thermal pollution, which statements is/are correct?
 
-1. Warm water holds less dissolved oxygen.  
+1. Warm water holds less dissolved oxygen.
 2. Thermal pollution mainly increases BOD directly.
 
 A. Only 1
@@ -485,7 +483,7 @@ D. Neither
 
 **Q5.** With reference to waste rules, which statements is/are correct?
 
-1. BMW sharps go in white containers.  
+1. BMW sharps go in white containers.
 2. Yellow BMW bags are for needles and blades.
 
 A. Only 1
@@ -742,7 +740,7 @@ D. Zero radiation instantly
 
 </details>
 
-**Q21.** Assertion (A): Eutrophication can cause fish kills.  
+**Q21.** Assertion (A): Eutrophication can cause fish kills.
 Reason (R): Algal bloom decomposition reduces dissolved oxygen.
 
 A. Both true; R explains A
@@ -907,25 +905,7 @@ D. Alpine degradation
 
 ## Complete PYQ Bank (Topic 9)
 
-**Q1. UPPCS 2025, Q22** — Carrying capacity → **Ans: A (Only 2)**
-
-**Q2. UPPCS 2025, Q61** — Lichens → **Ans: D (Only 1)**
-
-**Q3. UPPCS 2025, Q70** — Groundwater report → **Ans: B (CGWB only)**
-
-**Q4. UPPCS 2024, Q19** — Coral bleaching Andaman → **Ans: B (+2°C warming)**
-
-**Q5. UPPCS 2023, Q111** — Water Act year → **Ans: A (1974)**
-
-**Q6. UPPCS 2022, Q46** — Photochemical smog contains → **Ans: B (Ozone)**
-
-**Q7. UPPCS 2022** — Moradabad noise (Frontier Report 2022) → **Ans: B**
-
-**Q8. UPPCS 2021, Q15** — Bio-indicator air pollution → **Ans: Lichens pattern**
-
-**Q9. UPSC pattern** — Basel Convention → **Ans: Hazardous waste movement**
-
-**Q10. UPSC pattern** — E-waste rank India → **Ans: 3rd**
+**Q1. UPPCS 2025, Q22** — Carrying capacity → **Ans: A (Only 2)Q2. UPPCS 2025, Q61** — Lichens → **Ans: D (Only 1)Q3. UPPCS 2025, Q70** — Groundwater report → **Ans: B (CGWB only)Q4. UPPCS 2024, Q19** — Coral bleaching Andaman → **Ans: B (+2°C warming)Q5. UPPCS 2023, Q111** — Water Act year → **Ans: A (1974)Q6. UPPCS 2022, Q46** — Photochemical smog contains → **Ans: B (Ozone)Q7. UPPCS 2022** — Moradabad noise (Frontier Report 2022) → **Ans: BQ8. UPPCS 2021, Q15** — Bio-indicator air pollution → **Ans: Lichens patternQ9. UPSC pattern** — Basel Convention → **Ans: Hazardous waste movementQ10. UPSC pattern** — E-waste rank India → **Ans: 3rd**
 
 ---
 
@@ -937,7 +917,7 @@ D. Alpine degradation
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Lichens grow well in polluted air | They **die** in pollution |
 | CPCB publishes groundwater report | **CGWB** |

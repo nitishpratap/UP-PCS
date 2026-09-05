@@ -1,34 +1,34 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 6</p>
 <h1 class="fact-lock-hero__title">Indian Physical Geography</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
 <div class="fact-lock-sheet fact-lock-sheet--dense" markdown="1">
 ## 1. INDIA — BASIC PHYSICAL FACTS
 
-| Fact                             | Ratta                                 |
+| Fact | Ratta |
 | -------------------------------- | ------------------------------------- |
-| India lies in                    | **Northern + Eastern Hemispheres**    |
-| Latitudinal extent               | **8°4′N–37°6′N**                      |
-| Longitudinal extent              | **68°7′E–97°25′E**                    |
-| Standard Meridian                | **82°30′E**                           |
-| Standard Meridian passes through | **Mirzapur, Uttar Pradesh**           |
-| Tropic of Cancer                 | **23°30′N approximately**             |
-| Tropic of Cancer passes through  | **8 Indian states**                   |
-| Southernmost point of India      | **Indira Point**                      |
-| Southernmost point of mainland   | **Kanyakumari**                       |
-| Northernmost point               | **Indira Col region**                 |
-| Easternmost point                | **Kibithu region, Arunachal Pradesh** |
-| Westernmost point                | **Guhar Moti, Gujarat**               |
+| India lies in | **Northern + Eastern Hemispheres** |
+| Latitudinal extent | **8°4′N–37°6′N** |
+| Longitudinal extent | **68°7′E–97°25′E** |
+| Standard Meridian | **82°30′E** |
+| Standard Meridian passes through | **Mirzapur, Uttar Pradesh** |
+| Tropic of Cancer | **23°30′N approximately** |
+| Tropic of Cancer passes through | **8 Indian states** |
+| Southernmost point of India | **Indira Point** |
+| Southernmost point of mainland | **Kanyakumari** |
+| Northernmost point | **Indira Col region** |
+| Easternmost point | **Kibithu region, Arunachal Pradesh** |
+| Westernmost point | **Guhar Moti, Gujarat** |
 
 
 > **82°30′E → Standard Meridian → Mirzapur**
@@ -621,11 +621,11 @@ Renewed by:
 
 ## 36. BHANGAR vs KHADAR
 
-| Bhangar                 | Khadar             |
+| Bhangar | Khadar |
 | ----------------------- | ------------------ |
-| Older alluvium          | Newer alluvium     |
-| Higher surface          | Lower floodplain   |
-| Kankar                  | Fresh deposits     |
+| Older alluvium | Newer alluvium |
+| Higher surface | Lower floodplain |
+| Kankar | Fresh deposits |
 | Less frequently flooded | Frequently flooded |
 
 
@@ -1099,13 +1099,13 @@ Major deltas:
 
 ## 66. WEST COAST VS EAST COAST
 
-| West Coast                   | East Coast                          |
+| West Coast | East Coast |
 | ---------------------------- | ----------------------------------- |
-| Narrow                       | Broad                               |
+| Narrow | Broad |
 | Western Ghats close to coast | Eastern Ghats farther/discontinuous |
-| Estuaries common             | Large deltas common                 |
-| Arabian Sea                  | Bay of Bengal                       |
-| Backwaters in Kerala         | Deltaic plains                      |
+| Estuaries common | Large deltas common |
+| Arabian Sea | Bay of Bengal |
+| Backwaters in Kerala | Deltaic plains |
 
 
 > **West → Estuaries**

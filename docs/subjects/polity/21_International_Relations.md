@@ -8,14 +8,14 @@ India’s Foreign Policy | Panchsheel | Non-Alignment | NAM | UNSC | Global Secu
 
 </details>
 
-> **Sources baked in:** UN Charter, Bretton Woods, WTO/Marrakesh, grouping charters, UPPCS PYQs 2018–2025 (BIMSTEC / IMF–WB / G20 / BRICS / SCO)  
-> **Exam weight:** ★★★ — BIMSTEC **not Indonesia** (2025); Bretton Woods twins, **both HQ Washington** not WB-New York (2025); G20 logo **lotus + 7 petals = 7 continents** (2023); G20 in UP **not Kanpur** (2023); 5th BIMSTEC chaired by **Sri Lanka not India** (2022); BRICS 10th summit **South Africa 2018**  
-> **Last verified:** August 2026  
+> **Sources baked in:** UN Charter, Bretton Woods, WTO/Marrakesh, grouping charters, UPPCS PYQs 2018–2025 (BIMSTEC / IMF–WB / G20 / BRICS / SCO)
+> **Weight:** ★★★ — BIMSTEC **not Indonesia** (2025); Bretton Woods twins, **both HQ Washington** not WB-New York (2025); G20 logo **lotus + 7 petals = 7 continents** (2023); G20 in UP **not Kanpur** (2023); 5th BIMSTEC chaired by **Sri Lanka not India** (2022); BRICS 10th summit **South Africa 2018**
+> **Last verified:** August 2026
 > **Current Affairs:** G20 New Delhi **Sep 2023** + AU as member; BRICS expansion **2024**; SCO Iran **2023** / Belarus **2024**; India SCO chair **2022–23**; BIMSTEC 5th summit Colombo **2022**
 
 ---
 
-## Consolidated — 32 Must-Score Locks
+## Consolidated — 32 Must-Score Facts
 
 1. India’s foreign policy rests on **independent judgment** — historically called non-alignment and later strategic autonomy. It is **not** isolation and was **not** joining a US or USSR military camp in the Cold War textbook sense.
 2. **Panchsheel** was signed on **29 April 1954** in the India–China Tibet trade agreement. The five principles are mutual respect for sovereignty, non-aggression, non-interference, equality and mutual benefit, and peaceful coexistence.
@@ -33,7 +33,7 @@ India’s Foreign Policy | Panchsheel | Non-Alignment | NAM | UNSC | Global Secu
 14. Collective **security** is the UN Chapter **VII** idea. Collective **defence** is NATO Article **5**. Swiss-style neutrality is **not** the same as non-alignment.
 15. The UN has **six** principal organs: General Assembly, Security Council, ECOSOC, ICJ, Secretariat, and Trusteeship Council (inactive since **1994**). HQ is New York except the **ICJ at The Hague**.
 16. **Bretton Woods 1944** created the **IMF** and **IBRD (World Bank)**. **Both** have headquarters in **Washington, D.C.** The World Bank is **not** headquartered in New York.
-17. The **WTO** began in **1995** at Geneva (from GATT **1947**). Core trade locks are **MFN** and **National Treatment**.
+17. The **WTO** began in **1995** at Geneva (from GATT **1947**). Core trade facts are **MFN** and **National Treatment**.
 18. **WHO** is Geneva (**1948**). **UNESCO** is Paris (**1945**). **ILO** is Geneva (**1919**, tripartite). **ICJ** has **15** judges for **nine**-year terms at The Hague. India is **not** a party to the Rome Statute **ICC**.
 19. **SAARC** has **eight** members (1985 Dhaka; HQ **Kathmandu**) and includes Pakistan and Maldives. **ASEAN** has **ten** members (HQ **Jakarta**); India is **not** a member. **BIMSTEC** has **seven** members (**1997**) and does **not** include Indonesia, Pakistan, China, or Maldives.
 20. **G20** is **19 + EU + AU (from 2023)**. India held the presidency in **2022–23**. The New Delhi logo’s lotus with **seven** petals stands for **seven continents**. UP G20 venues included Agra, Varanasi, Greater Noida, and Lucknow — **not** Kanpur.
@@ -43,16 +43,16 @@ India’s Foreign Policy | Panchsheel | Non-Alignment | NAM | UNSC | Global Secu
 24. UN Day is **24 October**. The UN has **six** official languages. Vijaya Lakshmi Pandit was UNGA President in **1953**. **UNDP / UNICEF** are programmes, not specialised agencies. **HDI** is a **UNDP** product, not an IMF product.
 25. India’s WHO Global Centre for Traditional Medicine is at **Jamnagar** (**2022**). The *Jadhav* case is an **ICJ** matter, not an ICC matter.
 26. SAARC’s last summit was Kathmandu **2014**. India walked out of **RCEP** in **November 2019**. India is **not** in the **G7** (guest only).
-27. **NDB** (BRICS, Shanghai) is not **AIIB** (Beijing, China-led). India is a member of AIIB but NDB is the BRICS bank lock.
+27. **NDB** (BRICS, Shanghai) is not **AIIB** (Beijing, China-led). India is a member of AIIB but NDB is the BRICS bank fact.
 28. East Asia Summit includes India. Do not confuse EAS membership with ASEAN membership. ASEAN remains a ten-member club without India.
 29. OIC membership does **not** include India. The League of Nations saw the US Senate refuse membership — a classic US foreign-policy trap.
 30. **Five Eyes** is US–UK–Canada–Australia–New Zealand intelligence sharing. **CSTO** is Russia-led. **SEATO / CENTO** are dead. Warsaw Pact ended with the Cold War.
 31. US foreign-policy milestones often asked are Monroe (**1823**), Truman containment (**1947**), NATO (**1949**), Nixon’s China opening (**1972**), unipolar moment (**1991**), Pivot to Asia (**2011**), and later America First / AUKUS–Quad framing.
-32. Connect Central Asia (**2012**) and the **2+2** format with the US, Japan, Australia, and Russia are standard India outreach locks beside Look/Act East and SAGAR.
+32. Connect Central Asia (**2012**) and the **2+2** format with the US, Japan, Australia, and Russia are standard India outreach facts beside Look/Act East and SAGAR.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|
@@ -133,7 +133,7 @@ India is **not** a member of NATO, AUKUS, Five Eyes, CSTO, **OIC**, or the EU. C
 
 Machinery: **MEA** (EAM) · Foreign Secretary · **NSA** · **CCS** (PM + HM + RM + FM) — PMO/NSA often run the hard files.
 
-> **Exam note:** Look East = **1991**. Act East = **2014**. LEMOA = logistics **access**, not NATO. NFU is a **national doctrine**, not a UN treaty.
+> ** note:** Look East = **1991**. Act East = **2014**. LEMOA = logistics **access**, not NATO. NFU is a **national doctrine**, not a UN treaty.
 
 ---
 
@@ -143,10 +143,10 @@ Machinery: **MEA** (EAM) · Foreign Secretary · **NSA** · **CCS** (PM + HM + R
 
 **The five — write all five**
 
-1. Mutual respect for each other’s **territorial integrity and sovereignty**  
-2. Mutual **non-aggression**  
-3. Mutual **non-interference** in each other’s internal affairs  
-4. **Equality** and mutual benefit  
+1. Mutual respect for each other’s **territorial integrity and sovereignty**
+2. Mutual **non-aggression**
+3. Mutual **non-interference** in each other’s internal affairs
+4. **Equality** and mutual benefit
 5. **Peaceful co-existence**
 
 - Bandung **18–24 Apr 1955**, Indonesia — Afro-Asian; the five are restated. Precursor mood for NAM, **not** NAM itself (NAM = 1961)
@@ -156,7 +156,7 @@ Machinery: **MEA** (EAM) · Foreign Secretary · **NSA** · **CCS** (PM + HM + R
 - Panchsheel is **not** in the Indian Constitution as a schedule. Art. **51** is the DPSP cousin
 - 1962 war did **not** “repeal” Panchsheel as a *text*. The paper still asks the **five** and the **1954** year
 
-> **Exam note:** Panchsheel **1954**. NAM **1961 Belgrade**. Bandung 1955 is the **mood**, not the first NAM summit.
+> ** note:** Panchsheel **1954**. NAM **1961 Belgrade**. Bandung 1955 is the **mood**, not the first NAM summit.
 
 ---
 
@@ -180,11 +180,11 @@ Machinery: **MEA** (EAM) · Foreign Secretary · **NSA** · **CCS** (PM + HM + R
 - Observers (China has been one). Observer ≠ founder ≠ P5
 - Chair rotates with the summit host — **not** a Secretary-General like the UN
 
-Cold-War exam line: NATO vs Warsaw Pact were the two *alliances*; NAM refused to be a third *alliance* and claimed a third *path*.
+Cold-War line: NATO vs Warsaw Pact were the two *alliances*; NAM refused to be a third *alliance* and claimed a third *path*.
 
 **Neutrality ≠ non-alignment:** a neutral (Swiss model) *stays out of wars by law*. A non-aligned State **chooses** each file — including a 1971 tilt.
 
-> **Exam note:** Bandung 1955 is the **mood**. First NAM summit = **Belgrade 1961**. NAM has **no** Art. 5.
+> ** note:** Bandung 1955 is the **mood**. First NAM summit = **Belgrade 1961**. NAM has **no** Art. 5.
 
 ---
 
@@ -192,7 +192,7 @@ Cold-War exam line: NATO vs Warsaw Pact were the two *alliances*; NAM refused to
 
 **UN principal organ with primary responsibility for international peace and security** (Charter Chapter **V**). **15** members: **5 permanent + 10 non-permanent**.
 
-- **P5:** **China · France · Russia · UK · USA**. Each has a **veto** on *substantive* (not merely procedural) decisions
+- **P5:China · France · Russia · UK · USA**. Each has a **veto** on *substantive* (not merely procedural) decisions
 - Elected 10: **two-year** terms; not eligible immediately for re-election. Regional math: Africa **3** · Asia-Pacific **2** · GRULAC **2** · WEOG **2** · Eastern Europe **1**
 - Presidency: **monthly**, alphabetical rotation of members
 - Chapter **VII** — binding measures, up to force — the “teeth” chapter
@@ -207,7 +207,7 @@ Cold-War exam line: NATO vs Warsaw Pact were the two *alliances*; NAM refused to
 - Ezulwini — African Union position: **two** permanent African seats (with veto, in the AU ask) — neighbour of G4, not G4 itself
 - Art. **27** — voting rule in the Charter — veto sits here as “concurring votes of the permanent members” on non-procedural matters. TCC ≠ P5
 
-> **Exam note:** India = elected member, 8 terms, last **2021–22**. Abstention ≠ veto. Uniting for Peace ≠ Indian veto.
+> ** note:** India = elected member, 8 terms, last **2021–22**. Abstention ≠ veto. Uniting for Peace ≠ Indian veto.
 
 ---
 
@@ -223,11 +223,11 @@ Cold-War alliances + 21st-century minilaterals. **SCO / QUAD** as clubs have the
 ### AUKUS
 **Australia–UK–US** minilateral (**Sep 2021**) — nuclear-powered **submarines** for Australia + extra tech. **Not** Quad; **India is not in AUKUS**.
 
-### QUAD (security lock)
+### QUAD (security fact)
 **India–Japan–US–Australia dialogue** — revived 2017–. **Not NATO Art. 5**, **not AUKUS**. Full card with groupings.
 
 ### Dead / India-out clubs
-- **Warsaw Pact** **1955 → dissolved 1991** — USSR’s answer to NATO. Dead
+- **Warsaw Pact1955 → dissolved 1991** — USSR’s answer to NATO. Dead
 - **SEATO** 1954–1977 — US Asian pact. **India never joined** (Pakistan did)
 - **CENTO / Baghdad Pact** 1955–1979 — West Asia. **India never joined**
 - **ANZUS** 1951 — Australia–NZ–US. India out
@@ -250,7 +250,7 @@ Cold-War alliances + 21st-century minilaterals. **SCO / QUAD** as clubs have the
 | Exhibit | UN Charter Chapter **VII** | NATO **Art. 5** (also CSTO, ANZUS) |
 | India | UN peacekeeping / Chapter VII mandates | **Not** in Art. 5 clubs |
 
-> **Exam note:** AUKUS = **AUS–UK–US**. Quad **includes India**. NATO Art. 5 does **not** bind India.
+> ** note:** AUKUS = **AUS–UK–US**. Quad **includes India**. NATO Art. 5 does **not** bind India.
 
 ---
 
@@ -267,7 +267,7 @@ Cold-War alliances + 21st-century minilaterals. **SCO / QUAD** as clubs have the
 - Neighbour ops: EU NAVFOR **Atalanta** · NATO Ocean Shield (wound down) · Combined Maritime Forces. India’s **Operation Sankalp (2019–)** = Gulf/Red Sea shipping escort — national, not the Code itself
 - ≠ NATO · **SAGAR** (India’s *own* 2015 phrase) · **UNCLOS** (constitution of the sea) · IORA (groupings card)
 
-> **Exam note:** ReCAAP **2006 Asia** ≠ Djibouti Code **2009 WIO**. SAGAR ≠ the Code. India is a **partner**, not Yemen-class coastal signatory.
+> ** note:** ReCAAP **2006 Asia** ≠ Djibouti Code **2009 WIO**. SAGAR ≠ the Code. India is a **partner**, not Yemen-class coastal signatory.
 
 ---
 
@@ -292,7 +292,7 @@ UPPCS wants **doctrine names and centuries**, not a White House diary.
 - Indo-Pacific minilaterals 2017– — **Quad** (with India) · **AUKUS** (without India)
 - Isolationism vs internationalism — two *habits*: Monroe in the first; Truman/NATO in the second
 
-> **Exam note:** **AUKUS ≠ Quad**. Truman ≠ Monroe. NATO Art. 5 is **not** an Indian obligation. **US founded the UN but refused the League**.
+> ** note:AUKUS ≠ Quad**. Truman ≠ Monroe. NATO Art. 5 is **not** an Indian obligation. **US founded the UN but refused the League**.
 
 ---
 
@@ -337,7 +337,7 @@ Specialised agencies are **not** principal organs: WHO, UNESCO, ILO, IMF, World 
 
 **Agency ≠ programme:** UNDP, UNICEF, UNHCR, UNCTAD are **programmes/offices**, not specialised agencies. HDI / HDR = **UNDP** (1990) — not IMF, not World Bank. UNFCCC / climate COP = ecology sheet, not this card.
 
-> **Exam note:** UN Day = **24 Oct** (in force), not 26 June (signed). Trusteeship is **inactive**, not abolished. WHO is **not** a principal organ.
+> ** note:** UN Day = **24 Oct** (in force), not 26 June (signed). Trusteeship is **inactive**, not abolished. WHO is **not** a principal organ.
 
 ---
 
@@ -345,7 +345,7 @@ Specialised agencies are **not** principal organs: WHO, UNESCO, ILO, IMF, World 
 
 **PYQ — UPPCS Prelims 2025, Q140**
 
-World Bank and IMF: (1) set up together, called Bretton Woods Twins (2) HQ of IMF and World Bank are Washington D.C. and New York respectively  
+World Bank and IMF: (1) set up together, called Bretton Woods Twins (2) HQ of IMF and World Bank are Washington D.C. and New York respectively
 A. Only 2
 B. Neither
 C. Both
@@ -379,7 +379,7 @@ India is a **founding** member of IMF and IBRD. Constituency / Executive Directo
 
 Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16): India is a **member** (large shareholder). **AIIB ≠ NDB ≠ IMF**. World Bank *Ease of Doing Business* ranking = economy file (report killed **2021**).
 
-> **Exam note:** Both twins HQ = **Washington D.C.** World Bank is **not** New York (that’s the UN). Bretton Woods is the *1944 meeting place*, not the HQ city.
+> ** note:** Both twins HQ = **Washington D.C.** World Bank is **not** New York (that’s the UN). Bretton Woods is the *1944 meeting place*, not the HQ city.
 
 ---
 
@@ -395,7 +395,7 @@ Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16):
 - India is a founding member. Public stockholding / food security is the usual Indian file
 - ≠ IMF (BOP) · World Bank (projects) · UNCTAD (UN conference, Geneva, not the WTO)
 
-> **Exam note:** WTO HQ = **Geneva**, not Washington. GATT **1947**; WTO **1995**.
+> ** note:** WTO HQ = **Geneva**, not Washington. GATT **1947**; WTO **1995**.
 
 ---
 
@@ -406,7 +406,7 @@ Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16):
 - DG elected. India in **SEARO** (South-East Asia Regional Office, **New Delhi**). Assembly = **World Health Assembly**
 - **Global Centre for Traditional Medicine = Jamnagar (Gujarat)** — UPPCS 2022
 
-> **Exam note:** WHO Traditional Medicine Centre = **Jamnagar**, not Haridwar / Jaffna / Johannesburg.
+> ** note:** WHO Traditional Medicine Centre = **Jamnagar**, not Haridwar / Jaffna / Johannesburg.
 
 ## UNESCO
 
@@ -414,7 +414,7 @@ Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16):
 
 - **World Heritage / Intangible list** — *which Indian site* = art-culture / ecology sheets, not a roster here
 
-> **Exam note:** UNESCO HQ = **Paris**. WHO/ILO = **Geneva**.
+> ** note:** UNESCO HQ = **Paris**. WHO/ILO = **Geneva**.
 
 ## ILO
 
@@ -431,7 +431,7 @@ Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16):
 - **≠ ICC** (Rome **1998**, criminal, India **not** a party) · **≠ PCA** (also Hague, older) · **≠ ITLOS** (Hamburg, law of the sea)
 - India colour: **Kulbhushan Jadhav** (India v. Pakistan) — ICJ 2017 provisional measures / **2019** judgment on consular access (Vienna Convention). That is *this* court, not the ICC
 
-> **Exam note:** ICJ = UN organ, States, Hague. ICC = Rome **1998**; India **not** a party. Jadhav ≠ ICC.
+> ** note:** ICJ = UN organ, States, Hague. ICC = Rome **1998**; India **not** a party. Jadhav ≠ ICC.
 
 ---
 
@@ -439,7 +439,7 @@ Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16):
 
 **PYQ — UPPCS Prelims 2025, Q91**
 
-Which is/are **NOT** a BIMSTEC member? 1 Thailand  2 Nepal  3 Bhutan  4 Indonesia  
+Which is/are **NOT** a BIMSTEC member? 1 Thailand 2 Nepal 3 Bhutan 4 Indonesia
 A. 2 and 3
 B. Only 4
 C. 1 and 4
@@ -454,7 +454,7 @@ D. Only 1
 
 **PYQ — UPPCS Prelims 2022, Q119**
 
-BIMSTEC: (1) PM Modi addressed the 5th Summit on 30 Mar 2022 (2) 5th Summit was chaired by India  
+BIMSTEC: (1) PM Modi addressed the 5th Summit on 30 Mar 2022 (2) 5th Summit was chaired by India
 A. Neither
 B. Both
 C. Only 2
@@ -500,7 +500,7 @@ D. Only 1
 - **BIMSTEC 7 raata:** BBIN (Bangladesh Bhutan India Nepal) + Myanmar + Sri Lanka + Thailand. “SAARC minus Pakistan plus Thailand/Myanmar”
 - Secretariat **Dhaka** (2014). **4th summit Kathmandu 2018**. **5th Colombo 2022** (SL chair) adopted the **BIMSTEC Charter**
 
-> **Exam note:** Indonesia is **ASEAN**, not BIMSTEC. Maldives / Pakistan are **SAARC**, not BIMSTEC. 5th BIMSTEC Summit chaired by **Sri Lanka**, not India.
+> ** note:** Indonesia is **ASEAN**, not BIMSTEC. Maldives / Pakistan are **SAARC**, not BIMSTEC. 5th BIMSTEC Summit chaired by **Sri Lanka**, not India.
 
 ---
 
@@ -508,7 +508,7 @@ D. Only 1
 
 **PYQ — UPPCS Prelims 2018, Q12**
 
-10th BRICS Summit 2018 was held in—  
+10th BRICS Summit 2018 was held in—
 A. Brazil
 B. South Africa
 C. Russia
@@ -523,7 +523,7 @@ D. China
 
 **PYQ — UPPCS Prelims 2023, Q81**
 
-India’s G20 logo: (1) lotus with seven petals (2) seven petals = seven continents  
+India’s G20 logo: (1) lotus with seven petals (2) seven petals = seven continents
 A. Only 1
 B. Only 2
 C. Both
@@ -538,7 +538,7 @@ D. Neither
 
 **PYQ — UPPCS Prelims 2023, Q89**
 
-Which UP city was **not** a venue for G20 meetings during India’s Presidency?  
+Which UP city was **not** a venue for G20 meetings during India’s Presidency?
 A. Agra
 B. Varanasi
 C. Kanpur
@@ -553,7 +553,7 @@ D. Greater Noida
 
 **PYQ — UPPCS Prelims 2023, Q87**
 
-SCO Film Festival 2023: (1) during India’s SCO Presidency (2) showcases films from SCO members  
+SCO Film Festival 2023: (1) during India’s SCO Presidency (2) showcases films from SCO members
 A. Only 1
 B. Only 2
 C. Both
@@ -574,7 +574,7 @@ D. Neither
 - **2024** wave: **Egypt, Ethiopia, Iran, UAE** (Saudi invited). Indonesia later CA
 - **IBSA (2003)** = India–Brazil–South Africa. Older than BRICS-with-China; **≠ BRICS**
 
-> **Exam note:** 10th BRICS Summit **2018** = **South Africa** (Johannesburg). NDB = **Shanghai**, not IMF. NDB ≠ AIIB (Beijing).
+> ** note:** 10th BRICS Summit **2018** = **South Africa** (Johannesburg). NDB = **Shanghai**, not IMF. NDB ≠ AIIB (Beijing).
 
 ### G20
 **Finance 1999; leaders 2008.** Forum, not a treaty. No UN-style HQ.
@@ -585,7 +585,7 @@ D. Neither
 - UP venues = Agra, Varanasi, Greater Noida, **Lucknow** — **not Kanpur**
 - **G7 neighbour:** Canada, France, Germany, Italy, Japan, UK, USA (+ EU). **India is not a member** — guest only. 2021 summit: **UK chair** (Cornwall); guests were India/Australia/Korea/South Africa — **Brazil was not** the guest in that stem
 
-> **Exam note:** Lotus petals = **7 continents**, not 7 member-states. Kanpur was **not** a UP G20 venue.
+> ** note:** Lotus petals = **7 continents**, not 7 member-states. Kanpur was **not** a UP G20 venue.
 
 ### SCO
 **Shanghai Cooperation Organisation** — **2001** Shanghai, from **Shanghai Five (1996)**. Secretariat **Beijing**. **RATS** (anti-terror) **Tashkent**. Not NATO.
@@ -593,7 +593,7 @@ D. Neither
 - Core: China, Russia, 4 Central Asian, **India + Pakistan 2017**, **Iran 2023**, **Belarus 2024**
 - **Shanghai Five (1996) — write the five:** China, Russia, **Kazakhstan, Kyrgyzstan, Tajikistan**. **Uzbekistan was not in the Five**; it joined when SCO was formed **2001**
 
-> **Exam note:** RATS = **Tashkent**; secretariat = **Beijing**. Uzbekistan not in Shanghai Five.
+> ** note:** RATS = **Tashkent**; secretariat = **Beijing**. Uzbekistan not in Shanghai Five.
 
 ---
 
@@ -603,7 +603,7 @@ D. Neither
 
 - Naval colour = **Malabar** (started India–US **1992**; Quad navies join — still an *exercise*, not a treaty)
 
-> **Exam note:** Quad **includes India**. AUKUS does **not**.
+> ** note:** Quad **includes India**. AUKUS does **not**.
 
 ## IORA
 
@@ -611,7 +611,7 @@ D. Neither
 
 - India founding-type. Blue economy / maritime safety — **not** the Djibouti Code, **not** IONS
 
-> **Exam note:** IORA secretariat = **Mauritius**, not Djibouti.
+> ** note:** IORA secretariat = **Mauritius**, not Djibouti.
 
 ## Commonwealth
 
@@ -621,20 +621,20 @@ D. Neither
 - Head of the Commonwealth = British monarch as *symbol*, not a viceroy. Secretary-General runs the Secretariat
 - **Commonwealth Games** ≠ the Secretariat (2022 Birmingham was the Games paper, not the Charter)
 
-> **Exam note:** Commonwealth is **not** only monarchies. 1949 let republics stay.
+> ** note:** Commonwealth is **not** only monarchies. 1949 let republics stay.
 
 ## APEC · OECD
 
 - **APEC (1989)** — **21** economies. Secretariat **Singapore**. **India is not a member** (wanted in; not in)
 - **OECD (1961)** — HQ **Paris**. Rich-country policy club (~38). **India is not a member** (Key Partner). “Great Reset” 2021 paper = **WEF**, not OECD
 
-> **Exam note:** India is **out** of APEC and OECD; **in** G20.
+> ** note:** India is **out** of APEC and OECD; **in** G20.
 
 ---
 
 ## Current Affairs (what the year actually tests)
 
-Newest first. One event, one lock.
+Newest first. One event, one fact.
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -672,7 +672,7 @@ Newest first. One event, one lock.
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | NAM = 1954 / Panchsheel = 1961 | **Panchsheel 1954**. **NAM 1961 Belgrade** |
 | Bandung 1955 = first NAM summit | Bandung is the **mood**. First NAM summit = **Belgrade 1961** |
@@ -826,8 +826,8 @@ D. Bandung 1955
 </details>
 
 **Q6.** Consider the following statements:
-1. Non-alignment is a policy of independent judgment.  
-2. NAM is a military alliance with a standing army.  
+1. Non-alignment is a policy of independent judgment.
+2. NAM is a military alliance with a standing army.
 A. Only 1
 B. Only 2
 C. Both
@@ -945,8 +945,8 @@ D. Belgrade
 </details>
 
 **Q15.** Which of the following is/are correct?
-1. Finland joined NATO in 2023.  
-2. India joined NATO in 2024.  
+1. Finland joined NATO in 2023.
+2. India joined NATO in 2024.
 A. Only 1
 B. Only 2
 C. Both
@@ -1063,7 +1063,7 @@ D. NAM’s charter
 
 </details>
 
-**Q24.** Arrange the following in chronological order: I Panchsheel  II Bandung  III NAM Belgrade  IV NATO
+**Q24.** Arrange the following in chronological order: I Panchsheel II Bandung III NAM Belgrade IV NATO
 A. IV, I, II, III
 B. I, IV, II, III
 C. IV, II, I, III
@@ -1076,11 +1076,9 @@ D. I, II, III, IV
 
 </details>
 
-**Q25.**
+**Q25.Assertion (A):** NAM was founded at Bandung in 1955.
 
-**Assertion (A):** NAM was founded at Bandung in 1955.
-
-**Reason (R):** Bandung was an Afro-Asian conference.  
+**Reason (R):** Bandung was an Afro-Asian conference.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1146,8 +1144,8 @@ D. India
 </details>
 
 **Q30.** Consider the following statements:
-1. Quad includes India.  
-2. AUKUS includes India.  
+1. Quad includes India.
+2. AUKUS includes India.
 A. Only 1
 B. Only 2
 C. Both
@@ -1200,8 +1198,8 @@ D. 2021
 </details>
 
 **Q34.** Which of the following is/are correct?
-1. UNSC presidency rotates monthly.  
-2. India holds a permanent veto.  
+1. UNSC presidency rotates monthly.
+2. India holds a permanent veto.
 A. Only 1
 B. Only 2
 C. Both
@@ -1272,11 +1270,9 @@ D. 1991
 
 </details>
 
-**Q38.**
+**Q38.Assertion (A):** Panchsheel has five principles including peaceful co-existence.
 
-**Assertion (A):** Panchsheel has five principles including peaceful co-existence.
-
-**Reason (R):** Therefore China never fought India.  
+**Reason (R):** Therefore China never fought India.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1342,8 +1338,8 @@ D. The same as G4
 </details>
 
 **Q43.** SAGAR vs Djibouti Code — which is correct?
-1. SAGAR is India’s 2015 Indian-Ocean phrasing.  
-2. Djibouti Code is a 2009 IMO piracy instrument.  
+1. SAGAR is India’s 2015 Indian-Ocean phrasing.
+2. Djibouti Code is a 2009 IMO piracy instrument.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1396,8 +1392,8 @@ D. CERT-In
 </details>
 
 **Q47.** Consider the following statements:
-1. Bandung 1955 preceded the first NAM summit.  
-2. Bandung *was* the first NAM summit.  
+1. Bandung 1955 preceded the first NAM summit.
+2. Bandung *was* the first NAM summit.
 A. Only 1
 B. Only 2
 C. Both
@@ -1462,11 +1458,9 @@ D. Interpol
 
 </details>
 
-**Q52.**
+**Q52.Assertion (A):** NATO invoked Article 5 after 9/11.
 
-**Assertion (A):** NATO invoked Article 5 after 9/11.
-
-**Reason (R):** India is a NATO member and was therefore bound to send troops.  
+**Reason (R):** India is a NATO member and was therefore bound to send troops.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1493,8 +1487,8 @@ D. P5 reform
 </details>
 
 **Q54.** Which of the following is/are correct?
-1. G20 and BIMSTEC membership tables belong with international organisations, not with Panchsheel.  
-2. Panchsheel, NAM and UNSC veto arithmetic are foreign-policy / security locks.  
+1. G20 and BIMSTEC membership tables belong with international organisations, not with Panchsheel.
+2. Panchsheel, NAM and UNSC veto arithmetic are foreign-policy / security facts.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1507,7 +1501,7 @@ D. Neither
 
 </details>
 
-**Q55.** Chronology: I Truman Doctrine  II NATO  III Panchsheel  IV NAM
+**Q55.** Chronology: I Truman Doctrine II NATO III Panchsheel IV NAM
 A. I, II, III, IV
 B. II, I, III, IV
 C. I, III, II, IV
@@ -1520,7 +1514,7 @@ D. I, II, IV, III
 
 </details>
 
-**Q56.** Arrange the US–India foundational pacts: I GSOMIA  II LEMOA  III COMCASA  IV BECA
+**Q56.** Arrange the US–India foundational pacts: I GSOMIA II LEMOA III COMCASA IV BECA
 A. I, II, III, IV
 B. II, I, III, IV
 C. I, III, II, IV
@@ -1547,8 +1541,8 @@ D. Panchsheel’s sixth principle
 </details>
 
 **Q58.** Which of the following is/are correct?
-1. India is not a signatory to the NPT.  
-2. The 2008 NSG waiver made India an NPT nuclear-weapon State.  
+1. India is not a signatory to the NPT.
+2. The 2008 NSG waiver made India an NPT nuclear-weapon State.
 A. Only 1
 B. Only 2
 C. Both
@@ -1782,11 +1776,9 @@ D. 2024
 
 </details>
 
-**Q76.**
+**Q76.Assertion (A):** India has a nuclear No-First-Use doctrine.
 
-**Assertion (A):** India has a nuclear No-First-Use doctrine.
-
-**Reason (R):** Therefore India is an NPT nuclear-weapon State.  
+**Reason (R):** Therefore India is an NPT nuclear-weapon State.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1839,8 +1831,8 @@ D. Coast Guard Act
 </details>
 
 **Q80.** Which of the following is/are correct?
-1. Neutrality (Swiss-type) is legally staying out of wars.  
-2. Non-alignment still lets a State tilt on a file (e.g. 1971).  
+1. Neutrality (Swiss-type) is legally staying out of wars.
+2. Non-alignment still lets a State tilt on a file (e.g. 1971).
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1867,8 +1859,8 @@ D. 15
 </details>
 
 **Q82.** Which of the following is/are correct?
-1. UN headquarters is New York.  
-2. ICJ sits at The Hague.  
+1. UN headquarters is New York.
+2. ICJ sits at The Hague.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1933,11 +1925,9 @@ D. Secretariat
 
 </details>
 
-**Q87.**
+**Q87.Assertion (A):** IMF and World Bank are called Bretton Woods twins.
 
-**Assertion (A):** IMF and World Bank are called Bretton Woods twins.
-
-**Reason (R):** World Bank headquarters is in New York.  
+**Reason (R):** World Bank headquarters is in New York.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1951,8 +1941,8 @@ D. A false R true
 </details>
 
 **Q88.** Which of the following is/are correct?
-1. IMF’s main job is BOP / exchange-rate stability.  
-2. IBRD’s main job is development/reconstruction loans.  
+1. IMF’s main job is BOP / exchange-rate stability.
+2. IBRD’s main job is development/reconstruction loans.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2038,8 +2028,8 @@ D. 2001
 </details>
 
 **Q94.** Which of the following is/are correct?
-1. WTO headquarters is Geneva.  
-2. WTO headquarters is Washington D.C.  
+1. WTO headquarters is Geneva.
+2. WTO headquarters is Washington D.C.
 A. Only 1
 B. Only 2
 C. Both
@@ -2138,8 +2128,8 @@ D. SAARC, ASEAN, BIMSTEC
 </details>
 
 **Q101.** Which of the following is/are correct?
-1. ICJ has 15 judges elected for 9 years.  
-2. ICC (Rome Statute) has India as a State Party.  
+1. ICJ has 15 judges elected for 9 years.
+2. ICC (Rome Statute) has India as a State Party.
 A. Only 1
 B. Only 2
 C. Both
@@ -2152,11 +2142,9 @@ D. Neither
 
 </details>
 
-**Q102.**
+**Q102.Assertion (A):** ICJ can hear disputes between States.
 
-**Assertion (A):** ICJ can hear disputes between States.
-
-**Reason (R):** ICJ is the same body as the International Criminal Court.  
+**Reason (R):** ICJ is the same body as the International Criminal Court.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2252,8 +2240,8 @@ D. 2007
 </details>
 
 **Q109.** Which of the following is/are correct?
-1. SAARC has 8 members.  
-2. Afghanistan joined SAARC in 2007.  
+1. SAARC has 8 members.
+2. Afghanistan joined SAARC in 2007.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2279,11 +2267,9 @@ D. 1997
 
 </details>
 
-**Q111.**
+**Q111.Assertion (A):** India is a member of ASEAN.
 
-**Assertion (A):** India is a member of ASEAN.
-
-**Reason (R):** India is a member of BIMSTEC.  
+**Reason (R):** India is a member of BIMSTEC.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2366,8 +2352,8 @@ D. P5 + 2
 </details>
 
 **Q117.** Which of the following is/are correct about India’s G20 presidency?
-1. Logo had a lotus with seven petals.  
-2. Seven petals stood for seven continents.  
+1. Logo had a lotus with seven petals.
+2. Seven petals stood for seven continents.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2446,8 +2432,8 @@ D. 1996
 </details>
 
 **Q123.** Which of the following is/are correct?
-1. SCO Film Festival 2023 was held during India’s SCO Presidency.  
-2. It showcases films from SCO member countries.  
+1. SCO Film Festival 2023 was held during India’s SCO Presidency.
+2. It showcases films from SCO member countries.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2473,11 +2459,9 @@ D. AUS, UK, US only
 
 </details>
 
-**Q125.**
+**Q125.Assertion (A):** AUKUS includes India.
 
-**Assertion (A):** AUKUS includes India.
-
-**Reason (R):** Quad includes India.  
+**Reason (R):** Quad includes India.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2517,8 +2501,8 @@ D. WTO dispute settlement
 </details>
 
 **Q128.** Which of the following is/are correct?
-1. India is a member of APEC.  
-2. India is a member of OECD.  
+1. India is a member of APEC.
+2. India is a member of OECD.
 A. Only 1
 B. Only 2
 C. Both
@@ -2575,8 +2559,8 @@ D. 7 April
 </details>
 
 **Q132.** Which of the following is/are correct?
-1. The UN has six official languages, including Arabic.  
-2. Vijaya Lakshmi Pandit was the first woman President of the UNGA (1953).  
+1. The UN has six official languages, including Arabic.
+2. Vijaya Lakshmi Pandit was the first woman President of the UNGA (1953).
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2628,11 +2612,9 @@ D. Jamnagar
 
 </details>
 
-**Q136.**
+**Q136.Assertion (A):** Kulbhushan Jadhav’s case went to the International Court of Justice.
 
-**Assertion (A):** Kulbhushan Jadhav’s case went to the International Court of Justice.
-
-**Reason (R):** India is a State Party to the Rome Statute of the ICC.  
+**Reason (R):** India is a State Party to the Rome Statute of the ICC.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2659,8 +2641,8 @@ D. Kyrgyzstan
 </details>
 
 **Q138.** Which of the following is/are correct?
-1. Last SAARC leaders’ summit was Kathmandu 2014.  
-2. SAFTA is the SAARC free-trade arrangement (2006).  
+1. Last SAARC leaders’ summit was Kathmandu 2014.
+2. SAFTA is the SAARC free-trade arrangement (2006).
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2700,8 +2682,8 @@ D. Australia
 </details>
 
 **Q141.** Which of the following is/are correct?
-1. India is a member of the East Asia Summit.  
-2. India is a member of ASEAN.  
+1. India is a member of the East Asia Summit.
+2. India is a member of ASEAN.
 A. Only 1
 B. Only 2
 C. Both
@@ -2728,8 +2710,8 @@ D. NATO is to Quad
 </details>
 
 **Q143.** G7 2021 (Cornwall): which is/are correct?
-1. United Kingdom was the Chair.  
-2. Brazil was invited as a guest country.  
+1. United Kingdom was the Chair.
+2. Brazil was invited as a guest country.
 A. Only 1
 B. Only 2
 C. Both
@@ -2769,8 +2751,8 @@ D. Colombo
 </details>
 
 **Q146.** Which of the following is/are correct?
-1. Malabar began as an India–US naval exercise (1992).  
-2. Malabar is the Quad treaty of alliance.  
+1. Malabar began as an India–US naval exercise (1992).
+2. Malabar is the Quad treaty of alliance.
 A. Only 1
 B. Only 2
 C. Both
@@ -2809,11 +2791,9 @@ D. G20 New Delhi
 
 </details>
 
-**Q149.**
+**Q149.Assertion (A):** India is not a member of APEC.
 
-**Assertion (A):** India is not a member of APEC.
-
-**Reason (R):** India is not a member of the G20.  
+**Reason (R):** India is not a member of the G20.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2826,7 +2806,7 @@ D. A false R true
 
 </details>
 
-**Q150.** Arrange the following in chronological order: 1. GATT  2. WTO  3. ILO  4. WHO
+**Q150.** Arrange the following in chronological order: 1. GATT 2. WTO 3. ILO 4. WHO
 A. 1-3-4-2
 B. 3-1-4-2
 C. 3-4-1-2
@@ -2845,70 +2825,58 @@ D. 1-4-3-2
 
 No direct 2018–2025 stem on Panchsheel/NAM/Djibouti in the local dump. Grouping / money-body papers:
 
-**UPPCS Prelims 2025, Q91** — Which of the following is/are **not** a member of BIMSTEC? 1. Thailand 2. Nepal 3. Bhutan 4. Indonesia  
+**UPPCS Prelims 2025, Q91** — Which of the following is/are **not** a member of BIMSTEC? 1. Thailand 2. Nepal 3. Bhutan 4. Indonesia
 A. 2 and 3
 B. Only 4
 C. 1 and 4
 D. Only 1
 **Ans: B — Only 4.** Indonesia is ASEAN, not BIMSTEC.
 
-**UPPCS Prelims 2025, Q140** — World Bank and IMF: (1) set up together as Bretton Woods Twins (2) HQ of IMF and World Bank are Washington D.C. and New York respectively  
+**UPPCS Prelims 2025, Q140** — World Bank and IMF: (1) set up together as Bretton Woods Twins (2) HQ of IMF and World Bank are Washington D.C. and New York respectively
 A. Only 2
 B. Neither
 C. Both
 D. Only 1
-**Ans: D — Only 1.** Both HQ = **Washington D.C.**
-
-**UPPCS Prelims 2023, Q81** — India’s G20 logo: (1) lotus with seven petals (2) seven petals represent seven continents  
+**Ans: D — Only 1.** Both HQ = **Washington D.C.UPPCS Prelims 2023, Q81** — India’s G20 logo: (1) lotus with seven petals (2) seven petals represent seven continents
 A. Only 1
 B. Only 2
 C. Both
 D. Neither
-**Ans: C — both.**
-
-**UPPCS Prelims 2023, Q89** — Which of the following cities of U.P. was **not** included as a venue for G20 meetings during India’s Presidency?  
+**Ans: C — both.UPPCS Prelims 2023, Q89** — Which of the following cities of U.P. was **not** included as a venue for G20 meetings during India’s Presidency?
 A. Agra
 B. Varanasi
 C. Kanpur
 D. Greater Noida
-**Ans: C — Kanpur.**
-
-**UPPCS Prelims 2023, Q87** — SCO Film Festival–2023: (1) held during India’s Presidency of SCO (2) showcases films from SCO members  
+**Ans: C — Kanpur.UPPCS Prelims 2023, Q87** — SCO Film Festival–2023: (1) held during India’s Presidency of SCO (2) showcases films from SCO members
 A. Only 1
 B. Only 2
 C. Both
 D. Neither
-**Ans: C — both.**
-
-**UPPCS Prelims 2022, Q119** — BIMSTEC: (1) PM addressed 5th Summit on 30 Mar 2022 (2) 5th Summit was chaired by India  
+**Ans: C — both.UPPCS Prelims 2022, Q119** — BIMSTEC: (1) PM addressed 5th Summit on 30 Mar 2022 (2) 5th Summit was chaired by India
 A. Neither
 B. Both
 C. Only 2
 D. Only 1
 **Ans: D — Only 1.** Chair = **Sri Lanka**.
 
-**UPPCS Prelims 2018, Q12** — 10th BRICS Summit 2018 was held in—  
+**UPPCS Prelims 2018, Q12** — 10th BRICS Summit 2018 was held in—
 A. Brazil
 B. South Africa
 C. Russia
 D. China
-**Ans: B — South Africa.**
-
-**UPPCS Prelims 2022, Q45** — WHO Global Traditional Medicine Centre will be at—  
+**Ans: B — South Africa.UPPCS Prelims 2022, Q45** — WHO Global Traditional Medicine Centre will be at—
 A. Johannesburg
 B. Jaffna
 C. Haridwar
 D. Jamnagar
-**Ans: D — Jamnagar (Gujarat).**
-
-**UPPCS Prelims 2021, Q122** — G7 Summit June 2021: (1) UK was the Chair (2) Brazil was invited as a guest  
+**Ans: D — Jamnagar (Gujarat).UPPCS Prelims 2021, Q122** — G7 Summit June 2021: (1) UK was the Chair (2) Brazil was invited as a guest
 A. Only 1
 B. Only 2
 C. Both
 D. Neither
 **Ans: A — Only 1.** India was a guest; Brazil was not.
 
-**UPPCS Prelims 2020, Q47** — Which is **NOT** correctly matched?  
+**UPPCS Prelims 2020, Q47** — Which is **NOT** correctly matched?
 A. East Asia Summit 2020 — Singapore
 B. G20 2019 — Osaka
 C. G7 2019 — Biarritz

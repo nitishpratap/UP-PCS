@@ -4,27 +4,27 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Conferences:** Stockholm 1972 | Brundtland Commission | Rio 1992 | Agenda 21 | SD conferences  
+**Conferences:** Stockholm 1972 | Brundtland Commission | Rio 1992 | Agenda 21 | SD conferences
 **Treaties:** CBD | UNFCCC | Kyoto | Paris | Montreal | Ramsar | CITES | CMS | Vienna | Basel | Rotterdam | Stockholm POPs | Minamata
 
 </details>
 
-> **Sources baked in:** UNEP, UNFCCC, CBD Secretariat, Ramsar, CITES, NCERT, MoEFCC, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — Montreal ≠ Kyoto, Agenda 21 = 1992, treaty ↔ issue matching  
+> **Sources baked in:** UNEP, UNFCCC, CBD Secretariat, Ramsar, CITES, NCERT, MoEFCC, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — Montreal ≠ Kyoto, Agenda 21 = 1992, treaty ↔ issue matching
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Conference spine: **Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015**.
-2. **Stockholm 1972** was the first UN Conference on the Human Environment. It led to **UNEP** (Nairobi). World Environment Day is **5 June**. The slogan lock is “Only One Earth.”
+2. **Stockholm 1972** was the first UN Conference on the Human Environment. It led to **UNEP** (Nairobi). World Environment Day is **5 June**. The slogan fact is “Only One Earth.”
 3. The **Brundtland Report** (**1987**, *Our Common Future*) popularised **sustainable development**. It is **not** *Limits to Growth* (**1972**, Club of Rome).
 4. **Rio 1992** (UNCED) produced the Rio Declaration, **Agenda 21**, Forest Principles, and opened **UNFCCC** and **CBD** for signature. **CITES** is **not** a Rio product — CITES is **1973**.
 5. **Agenda 21** is Rio’s non-binding sustainable-development action plan for the twenty-first century. It was **not** signed in 1995.
 6. Climate chain: **UNFCCC 1992 → Kyoto Protocol 1997 → Paris Agreement 2015**. Paris uses universal **NDCs** and the **1.5°C** ambition language.
 7. Ozone chain: **Vienna Convention 1985 → Montreal Protocol 1987 → Kigali Amendment 2016** (HFCs). Montreal is **ozone**, not climate.
-8. Treaty–issue lock: Montreal/Vienna = ozone; Kyoto/Paris/UNFCCC = climate; CBD = biodiversity; Ramsar = wetlands; CITES = wildlife **trade**.
+8. Treaty–issue fact: Montreal/Vienna = ozone; Kyoto/Paris/UNFCCC = climate; CBD = biodiversity; Ramsar = wetlands; CITES = wildlife **trade**.
 9. **CMS (Bonn)** covers migratory species. **Basel** covers hazardous **waste**. **Rotterdam** covers hazardous **chemicals** (PIC). **Stockholm POPs** covers persistent organic pollutants. **Minamata** covers **mercury**.
 10. **CBD** has three pillars: conserve biodiversity, sustainable use, and fair benefit-sharing. **Nagoya Protocol (2010)** details access and benefit-sharing.
 11. **Ramsar** (**1971**) is the wetlands treaty under the Wise Use idea. World Wetlands Day is **2 February**.
@@ -36,19 +36,19 @@
 17. CMS is migratory species; CITES is trade; Ramsar is wetlands. Mixing those three is a classic match trap.
 18. UNEP was born from Stockholm, not from Rio. Rio opened UNFCCC and CBD.
 19. Paris is **2015**; Kyoto is **1997**; UNFCCC framework is **1992**. Keep the climate chronology straight.
-20. Montreal successful ODS phase-out is often contrasted with slower climate politics — but exam stems still demand the correct issue tag, not slogans.
+20. Montreal successful ODS phase-out is often contrasted with slower climate politics — but stems still demand the correct issue tag, not slogans.
 21. Rudrasagar is a **Tripura** Ramsar site. Sultanpur is **Haryana**. Neither is an Uttar Pradesh site.
 22. Uttar Pradesh Ramsar examples include sites such as Nawabganj, Samaspur, Sarsai Nawar, Upper Ganga, Bakhira, and Haiderpur — verify the live list before the paper, but never park Rudrasagar or Sultanpur in UP.
 23. CBD opened at Rio **1992**; Nagoya ABS is **2010**. Do not date CBD as 2010.
 24. Forest Principles at Rio are non-binding soft law — not the same as CITES appendices.
 25. Johannesburg **2002** and Rio+20 **2012** continue the sustainable-development conference line after Rio; they do not reopen CITES as a 1992 invention.
-26. “Only One Earth” and UNEP creation lock to Stockholm **1972**, not to Paris **2015**.
+26. “Only One Earth” and UNEP creation fact to Stockholm **1972**, not to Paris **2015**.
 27. Wise Use is the Ramsar philosophy. It is not the CBD’s three objectives word-for-word.
 28. Master year table worth ratta: Ramsar 1971, CITES 1973, Vienna 1985, Montreal 1987, Basel 1989, UNFCCC/CBD 1992, Kyoto 1997, Rotterdam 1998, Stockholm POPs 2001, Nagoya 2010, Minamata 2013, Paris 2015, Kigali 2016.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -85,7 +85,7 @@
 
 **PYQ — UPPCS Prelims 2025, Q51**
 
-(A) SD should not compromise future generations' needs.  
+(A) SD should not compromise future generations' needs.
 (R) Agenda 21 was signed in 1995.
 
 <details><summary>Show answer</summary>
@@ -169,7 +169,7 @@ D. CITES
 | Kyoto | 1997 | Binding Annex-I targets |
 | Paris | 2015 | Universal NDCs |
 
-> **Exam lock:** **Montreal** = ozone/ODS phase-out (this section). **UNFCCC–Paris** = climate/NDC framework (see climate-change chapters). India's **NAPCC** and **NDC** pledges sit under national climate policy, not the Montreal ozone regime.
+> **Key fact:Montreal** = ozone/ODS phase-out (this section). **UNFCCC–Paris** = climate/NDC framework (see climate-change chapters). India's **NAPCC** and **NDC** pledges sit under national climate policy, not the Montreal ozone regime.
 
 ---
 
@@ -182,9 +182,9 @@ D. CITES
 - Montreal is the **most successful environmental treaty** — universal ratification, ODS emissions down ~99%.
 - **International Ozone Day** is **16 September** (Montreal signing date).
 - The **Kigali Amendment (2016)** phases down **HFCs** under the Montreal framework.
-- Montreal controls **ozone/ODS** — **not climate change mitigation** in exam trap logic.
+- Montreal controls **ozone/ODS** — **not climate change mitigation** trap logic.
 
-> **Exam note:** Full ozone chemistry and Antarctic hole → **Topic 11**.
+> ** note:** Full ozone chemistry and Antarctic hole → **Topic 11**.
 
 ---
 
@@ -222,7 +222,7 @@ D. CITES
 
 Which Ramsar sites are **NOT** in Uttar Pradesh?
 
-1. Sarsai Nawar  2. Samaspur  3. Rudrasagar  4. Sultanpur
+1. Sarsai Nawar 2. Samaspur 3. Rudrasagar 4. Sultanpur
 
 <details><summary>Show answer</summary>
 
@@ -262,9 +262,7 @@ Which Ramsar sites are **NOT** in Uttar Pradesh?
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
-
-**Q1.** Stockholm Conference was held in:
+> **30 questionsQ1.** Stockholm Conference was held in:
 
 A. 1962
 
@@ -748,19 +746,7 @@ D. Gujarat
 
 ## Complete PYQ Bank (Topic 18)
 
-**Q1. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: C**
-
-**Q2. UPPCS 2025, Q51** — Agenda 21 not 1995 → **Ans: C**
-
-**Q3. UPPCS 2023, Q132** — Agenda 21 = SD → **Ans: A**
-
-**Q4. UPPCS 2024, Q51** — Brundtland ≠ Limits to Growth → **Ans: D**
-
-**Q5. UPPCS 2025, Q58** — Ramsar NOT in UP: Rudrasagar, Sultanpur → **Ans: B**
-
-**Q6. UPPCS 2025, Q145** — GEF established 1991 → **Ans: D (Only 1)**
-
-**Q7. UPSC pattern** — Montreal = ozone; Kyoto/Paris = climate
+**Q1. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: CQ2. UPPCS 2025, Q51** — Agenda 21 not 1995 → **Ans: CQ3. UPPCS 2023, Q132** — Agenda 21 = SD → **Ans: AQ4. UPPCS 2024, Q51** — Brundtland ≠ Limits to Growth → **Ans: DQ5. UPPCS 2025, Q58** — Ramsar NOT in UP: Rudrasagar, Sultanpur → **Ans: BQ6. UPPCS 2025, Q145** — GEF established 1991 → **Ans: D (Only 1)Q7. UPSC pattern** — Montreal = ozone; Kyoto/Paris = climate
 
 **Q8. UPSC pattern** — CITES = 1973 trade; CMS = migration
 
@@ -778,7 +764,7 @@ D. Gujarat
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Montreal = climate treaty | **Ozone/ODS** |
 | Agenda 21 signed 1995 | **Rio 1992** |

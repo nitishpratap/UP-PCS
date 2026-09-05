@@ -8,14 +8,14 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 
 </details>
 
-> **Sources baked in:** Laxmikanth (Amendment), Art. 368, *Shankari Prasad → Kesavananda → Minerva Mills → IR Coelho*, listed Amendment Acts, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ — Kesavananda **1973** (2020/22); chronology (2024); 24th before Kesavananda (2021); 42nd **Socialist+Secular** (2025) · **43A** (2019) · year **1976** (2024); GST **101st** (2021/24); RTE **86th** (2022); local bodies **73rd+74th** (2024); 350B = **7th not 9th**  
-> **Last verified:** August 2026  
+> **Sources baked in:** Laxmikanth (Amendment), Art. 368, *Shankari Prasad → Kesavananda → Minerva Mills → IR Coelho*, listed Amendment Acts, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ — Kesavananda **1973** (2020/22); chronology (2024); 24th before Kesavananda (2021); 42nd **Socialist+Secular** (2025) · **43A** (2019) · year **1976** (2024); GST **101st** (2021/24); RTE **86th** (2022); local bodies **73rd+74th** (2024); 350B = **7th not 9th**
+> **Last verified:** August 2026
 > **Current Affairs:** 106th (women 33%) **not in force** till delimitation; 105th restored State OBC lists (2021)
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Amendment power sits in **Part XX, Article 368**. An amendment Bill may start in **either House**. There is **no joint sitting**. After the **24th Amendment**, the President **shall** assent.
 2. There are **three lanes**: **simple majority** changes that are **not** “under 368” (new States, Article 169 Councils, Schedules 5/6 matters, and similar); **special majority** under **368(2)** (majority of total membership plus two-thirds present and voting); and **special majority plus ratification by half the States** for federal provisions.
@@ -39,17 +39,17 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 20. The **101st Amendment (2016)** introduced GST (**246A**, **279A**), live from **1 July 2017**. The **102nd (2018)** constitutionalised NCBC (**338B**) and the Central SEBC list logic (**342A**).
 21. The **103rd Amendment (2019)** created **EWS** reservation of **10%** through **15(6)/16(6)**; *Janhit Abhiyan* (**2022**) upheld it. The **105th (2021)** restored States’ power to identify their own SEBCs.
 22. The **104th Amendment** ended Anglo-Indian nomination and extended SC/ST reservation to **2030**. The **106th (2023)** reserves **one-third** seats for women in the Lok Sabha and Assemblies, but only **after** the next delimitation — it is **not yet in force** as seat reservation on the ground.
-23. The **96th Amendment (2011)** changed **Oriya** to **Odia** in the Eighth Schedule — a pure year-and-name match lock.
-24. Simple-majority changes outside Article 368 look ordinary but can still remake the map of States. Special-majority-plus-States is the federal lock when the question names the 7th Schedule or Article 368 itself.
+23. The **96th Amendment (2011)** changed **Oriya** to **Odia** in the Eighth Schedule — a pure year-and-name match.
+24. Simple-majority changes outside Article 368 look ordinary but can still remake the map of States. Special-majority-plus-States is the federal fact when the question names the 7th Schedule or Article 368 itself.
 25. *Minerva Mills* restored judicial review of amendments and struck the attempt to give DPSPs complete supremacy over Fundamental Rights through an overbroad **31C**.
 26. Ninth **Schedule** (from the 1st Amendment) is a protective list of laws; Ninth **Amendment** is Berubari. Mixing Schedule and Amendment number is a classic trap.
 27. Local-government amendments are the pair **73rd + 74th**. Rights-education is **86th**. Goods and services tax is **101st**. EWS is **103rd**. Women reservation awaiting delimitation is **106th**.
 28. The **42nd (1976)** added **Socialist** and **Secular** to the Preamble. The **44th (1978)** unwound Emergency excesses and moved property out of Part III to **Article 300A**.
 
 ---
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
 | **Simple majority** | **Special (368)** | Ordinary legislative majority; **outside** 368 | Total membership + 2/3 P&V |
 | **368 only** | **368 + States** | Unitary-looking amendments | Federal provisions; **half** State legislatures |
@@ -83,7 +83,7 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 - Who moves: Minister **or** private member. **No** prior Presidential recommendation (unlike a Money Bill / Art. 3).
 - Each House must pass **separately**. RS is a full equal — it cannot be bypassed.
 - *Kesavananda*: Preamble **can** be amended, but not so as to tear the basic structure (42nd did add words).
-- Informal change: judicial interpretation, conventions, laws under the Constitution — **not** 368. Exam still wants the **formal** three-lane map.
+- Informal change: judicial interpretation, conventions, laws under the Constitution — **not** 368. still wants the **formal** three-lane map.
 - Indian type: **neither** purely flexible nor purely rigid — three lanes.
 - “Total membership” = all seats of that House — **vacancies still count** in the denominator.
 - “Present and voting” = only those who **cast a vote**. Abstention / walkout does **not** help the 2/3.
@@ -91,7 +91,7 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 - Time-limit: **none** in 368. President may wait till half the States have ratified, then assent.
 - First Amd = **1951** (Nehru). Latest syllabus bullet = **106th (2023)**.
 
-> **Exam note:** RS is equal on a 368 Bill; vacancies still count in “total membership.”
+> ** note:** RS is equal on a 368 Bill; vacancies still count in “total membership.”
 
 ---
 
@@ -122,7 +122,7 @@ These look like Constitution-editing but travel as **ordinary Bills** (Art. 4 sa
 
 ### 2. Special majority — Art. 368(2)
 
-Majority of the **total membership** of each House **and** **2/3 of members present and voting**. Most amendments (FRs, DPSPs, 368-without-proviso).
+Majority of the **total membership** of each House **and2/3 of members present and voting**. Most amendments (FRs, DPSPs, 368-without-proviso).
 
 ### 3. Special majority + State ratification
 
@@ -136,13 +136,13 @@ Same special majority **plus** legislatures of **not less than half** the States
 6. **Art. 368** itself
 7. GST Council **279A** (added by **101st**)
 
-> **Exam note:** “Every amendment needs half the States” is **false**. “State reorganisation needs 368 special majority” is **false** — **simple**, Art. 4.
+> ** note:** “Every amendment needs half the States” is **false**. “State reorganisation needs 368 special majority” is **false** — **simple**, Art. 4.
 
 ---
 
-## Basic Structure — case ladder (2024/2021 lock)
+## Basic Structure — case ladder (2024/2021 fact)
 
-**Kesavananda 1973** is the lock; the ladder is the 2024/2021 PYQ.
+**Kesavananda 1973** is the fact; the ladder is the 2024/2021 PYQ.
 
 - In *Shankari Prasad* (**1951**), the Court held that Article 368 lets Parliament amend Fundamental Rights too, and upheld the **1st Amendment** as valid.
 - In *Sajjan Singh* (**1965**), the Court reaffirmed the same view and upheld the **17th Amendment**.
@@ -159,10 +159,10 @@ Same special majority **plus** legislatures of **not less than half** the States
 
 Identify the correct chronological sequence:
 
-1. Shankari Prasad vs Union of India  
-2. Sajjan Singh vs State of Rajasthan  
-3. Golaknath vs State of Punjab  
-4. Kesavananda Bharati vs State of Kerala  
+1. Shankari Prasad vs Union of India
+2. Sajjan Singh vs State of Rajasthan
+3. Golaknath vs State of Punjab
+4. Kesavananda Bharati vs State of Kerala
 
 A. 1, 4, 3, 2
 B. 3, 2, 1, 4
@@ -178,7 +178,7 @@ D. 3, 4, 2, 1
 
 **PYQ — UPPCS Prelims 2021, Q42**
 
-Arrange: I Golaknath  II Kesavananda  III 24th Amd  IV 42nd Amd  
+Arrange: I Golaknath II Kesavananda III 24th Amd IV 42nd Amd
 
 A. I, III, II, IV
 B. I, II, III, IV
@@ -188,7 +188,7 @@ D. III, I, IV, II
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **1967 → 1971 → 1973 → 1976.**
+**Ans: A.1967 → 1971 → 1973 → 1976.**
 
 </details>
 
@@ -241,7 +241,7 @@ D. Sajjan Singh 1965
 - **Article 350A** directs mother-tongue instruction at the **primary** stage.
 - **Article 350B** created **one** Special Officer for Linguistic Minorities for **all of India** — a **7th Amendment**, not 9th, insertion, and a constitutional office, not a commission.
 - **Articles 239 and 239A** deal with the administration of Union Territories as a class.
-- **Article 258A** lets a **State** **entrust** functions to the Union, the reverse of Article 258.
+- **Article 258A** lets a **Stateentrust** functions to the Union, the reverse of Article 258.
 - Zonal Councils are **not** a 7th Amendment creation — they come from the **States Reorganisation Act, 1956**, a statute, not this amendment.
 
 ---
@@ -294,7 +294,7 @@ D. Sajjan Singh 1965
 
 ## 42nd Amendment, 1976
 
-**Mini-Constitution** (during Emergency). **Swaran Singh Committee** for duties. Date lock **1976** (2024 year-match). Act date **18 Dec 1976** (not 1975 Emergency day / not 1978).
+**Mini-Constitution** (during Emergency). **Swaran Singh Committee** for duties. Date fact **1976** (2024 year-match). Act date **18 Dec 1976** (not 1975 Emergency day / not 1978).
 
 - The 42nd Amendment added the words **Socialist**, **Secular**, and **Integrity** to the Preamble (2025 trap: only Socialist and Secular were 42nd inserts — **Sovereign** and **Republic** were already there in 1950).
 - It inserted **Article 39A**, the DPSP on equal justice and free legal aid.
@@ -317,7 +317,7 @@ D. Sajjan Singh 1965
 - It froze the meaning of legislative privileges under **Articles 105 and 194** to their pre-42nd sense; the **44th Amendment** fixed the freeze date as **20 June 1979**.
 - It inserted **Article 312A**, letting Parliament vary the conditions of service of All-India Service officers appointed before 1966.
 
-> **Exam note:** Mini-Constitution = largest single rewrite. 42nd packed; 44th unpacked Emergency and property — FDs, 39A/43A/48A, Concurrent shift **stayed**.
+> ** note:** Mini-Constitution = largest single rewrite. 42nd packed; 44th unpacked Emergency and property — FDs, 39A/43A/48A, Concurrent shift **stayed**.
 
 **PYQ — UPPCS Prelims 2025, Q56**
 
@@ -358,7 +358,7 @@ D. 43A
 
 **PYQ — UPPCS Prelims 2024, Q127**
 
-Match amendments with year:  
+Match amendments with year:
 A. 42nd
 B. 52nd
 C. 86th
@@ -421,7 +421,7 @@ D. A-3, B-1, C-4, D-2
 - Nominated: **6 months** to join a party; thereafter bound.
 - Earlier 10th Schedule was **Sikkim associate** (35th). **36th repealed** it. **52nd wrote a new one**.
 
-**52nd = Schedule goes in.** **91st = Schedule tightens + ministry cap + 361B.**
+**52nd = Schedule goes in.91st = Schedule tightens + ministry cap + 361B.**
 
 ---
 
@@ -691,7 +691,7 @@ D. 3, 4, 2, 1
 
 </details>
 
-**Q3.** Arrange the following in chronological order: I Golaknath  II Kesavananda  III 24th Amd  IV 42nd Amd
+**Q3.** Arrange the following in chronological order: I Golaknath II Kesavananda III 24th Amd IV 42nd Amd
 A. I, III, II, IV
 B. I, II, III, IV
 C. III, I, II, IV
@@ -705,8 +705,8 @@ D. III, I, IV, II
 </details>
 
 **Q4.** With reference to Article 368, which of the following is/are correct?
-1. An amendment Bill can be introduced in either House.  
-2. A joint sitting can be convened if the Houses disagree.  
+1. An amendment Bill can be introduced in either House.
+2. A joint sitting can be convened if the Houses disagree.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -749,14 +749,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q7.**
+**Q7.Assertion (A):** After the 24th Amendment the President must assent to a Constitution Amendment Bill.
 
-**Assertion (A):** After the 24th Amendment the President must assent to a Constitution Amendment Bill.
-
-**Reason (R):** The 24th Amendment was Parliament’s reply to *Golaknath*.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The 24th Amendment was Parliament’s reply to *Golaknath*.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -831,9 +829,9 @@ D. A-3, B-1, C-2, D-4
 </details>
 
 **Q11.** Which one of the following is **not** correctly matched?
-A. 350B — 7th Amendment  
-B. 350B — 9th Amendment  
-C. 9th Schedule — 1st Amendment  
+A. 350B — 7th Amendment
+B. 350B — 9th Amendment
+C. 9th Schedule — 1st Amendment
 D. Sikkim statehood — 36th Amendment
 
 <details>
@@ -857,8 +855,8 @@ D. Add “public order” to 19(2)
 </details>
 
 **Q13.** With reference to the 25th Amendment, which of the following is/are correct?
-1. It inserted Article 31C linked to 39(b) and 39(c).  
-2. *Kesavananda* struck down the clause that barred judicial review of such a law.  
+1. It inserted Article 31C linked to 39(b) and 39(c).
+2. *Kesavananda* struck down the clause that barred judicial review of such a law.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -897,14 +895,12 @@ D. 42nd
 
 </details>
 
-**Q16.**
+**Q16.Assertion (A):** *Minerva Mills* struck down Articles 368(4) and (5).
 
-**Assertion (A):** *Minerva Mills* struck down Articles 368(4) and (5).
-
-**Reason (R):** Unlimited amending power would destroy the basic structure.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** Unlimited amending power would destroy the basic structure.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -944,9 +940,9 @@ D. 73rd
 </details>
 
 **Q19.** Which one of the following is **not** correctly matched?
-A. 42nd — Mini-Constitution  
-B. 44th — Right to property becomes 300A  
-C. 24th — President shall assent to amendment Bills  
+A. 42nd — Mini-Constitution
+B. 44th — Right to property becomes 300A
+C. 24th — President shall assent to amendment Bills
 D. 42nd — restored 20 and 21 against suspension
 
 <details>
@@ -970,9 +966,9 @@ D. Need State ratification
 </details>
 
 **Q21.** Special majority under 368 means?
-A. 2/3 of total membership only  
-B. Majority of total membership and 2/3 of those present and voting  
-C. Simple majority of those present  
+A. 2/3 of total membership only
+B. Majority of total membership and 2/3 of those present and voting
+C. Simple majority of those present
 D. Half of State Governors
 
 <details>
@@ -1031,8 +1027,8 @@ D. Anti-defection
 </details>
 
 **Q24.** With reference to the 44th Amendment, which of the following is/are correct?
-1. It shifted property from Part III to 300A.  
-2. It restored the Lok Sabha’s term to five years.  
+1. It shifted property from Part III to 300A.
+2. It restored the Lok Sabha’s term to five years.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1074,14 +1070,12 @@ D. 1st
 
 </details>
 
-**Q27.**
+**Q27.Assertion (A):** Article 350B was not added by the 9th Constitutional Amendment.
 
-**Assertion (A):** Article 350B was not added by the 9th Constitutional Amendment.
-
-**Reason (R):** It was added by the 7th Amendment, 1956.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** It was added by the 7th Amendment, 1956.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1105,9 +1099,9 @@ D. 86th (all eleven)
 </details>
 
 **Q29.** Which one of the following pairs is **not** correctly matched?
-A. 1st Amendment — 9th Schedule  
-B. 7th Amendment — States Reorganisation  
-C. 26th Amendment — Sikkim  
+A. 1st Amendment — 9th Schedule
+B. 7th Amendment — States Reorganisation
+C. 26th Amendment — Sikkim
 D. 26th Amendment — privy purses
 
 <details>
@@ -1188,14 +1182,12 @@ D. 7th
 
 </details>
 
-**Q35.**
+**Q35.Assertion (A):** A Constitution Amendment Bill is not a Money Bill.
 
-**Assertion (A):** A Constitution Amendment Bill is not a Money Bill.
-
-**Reason (R):** It can originate in the Rajya Sabha.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** It can originate in the Rajya Sabha.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1219,9 +1211,9 @@ D. 42nd Amendment
 </details>
 
 **Q37.** Which one of the following is **not** correctly matched?
-A. 39A — 42nd — legal aid  
-B. 43A — 42nd — workers’ participation  
-C. 48A — 42nd — environment  
+A. 39A — 42nd — legal aid
+B. 43A — 42nd — workers’ participation
+C. 48A — 42nd — environment
 D. 43A — 44th — workers’ participation
 
 <details>
@@ -1258,8 +1250,8 @@ D. 356
 </details>
 
 **Q40.** With reference to ratification, which of the following is/are correct?
-1. 368 fixes a six-month deadline for States.  
-2. Half of the State legislatures must ratify the federal-list amendments.  
+1. 368 fixes a six-month deadline for States.
+2. Half of the State legislatures must ratify the federal-list amendments.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1286,8 +1278,8 @@ D. 25th
 </details>
 
 **Q42.** Which of the following statements is/are correct?
-1. The 42nd Amendment is called the Mini-Constitution.  
-2. The 44th Amendment reversed every provision of the 42nd.  
+1. The 42nd Amendment is called the Mini-Constitution.
+2. The 44th Amendment reversed every provision of the 42nd.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1301,8 +1293,8 @@ D. Neither 1 nor 2
 </details>
 
 **Q43.** With reference to a Constitution Amendment Bill, which of the following is/are correct?
-1. It may be introduced by a private member.  
-2. It requires prior recommendation of the President like an Article 3 Bill.  
+1. It may be introduced by a private member.
+2. It requires prior recommendation of the President like an Article 3 Bill.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1329,14 +1321,12 @@ D. 24th
 
 </details>
 
-**Q45.**
+**Q45.Assertion (A):** The 39th Amendment’s attempt to put the Prime Minister’s election beyond the Court failed.
 
-**Assertion (A):** The 39th Amendment’s attempt to put the Prime Minister’s election beyond the Court failed.
-
-**Reason (R):** *Indira Nehru Gandhi* (1975) treated free and fair elections / judicial review as basic structure.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** *Indira Nehru Gandhi* (1975) treated free and fair elections / judicial review as basic structure.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1347,9 +1337,9 @@ D. (A) is false, but (R) is true
 </details>
 
 **Q46.** Which one of the following is **not** correctly matched?
-A. 31D — anti-national activities, repealed by 43rd  
-B. 257A — Union armed units in a State, repealed by 44th  
-C. 361A — 42nd Amendment  
+A. 31D — anti-national activities, repealed by 43rd
+B. 257A — Union armed units in a State, repealed by 44th
+C. 361A — 42nd Amendment
 D. 361A — 44th Amendment
 
 <details>
@@ -1402,8 +1392,8 @@ D. 9th Schedule laws
 </details>
 
 **Q50.** With reference to the 7th Amendment, which of the following is/are correct?
-1. It recast the 1st and 4th Schedules after States Reorganisation.  
-2. It inserted Article 258A.  
+1. It recast the 1st and 4th Schedules after States Reorganisation.
+2. It inserted Article 258A.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1430,8 +1420,8 @@ D. About Sikkim
 </details>
 
 **Q52.** Which of the following statements is/are correct?
-1. The Rajya Sabha is an equal House for a 368 Bill.  
-2. A joint sitting can break a deadlock on a 368 Bill.  
+1. The Rajya Sabha is an equal House for a 368 Bill.
+2. A joint sitting can break a deadlock on a 368 Bill.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1458,8 +1448,8 @@ D. 91st
 </details>
 
 **Q54.** With reference to the 91st Amendment, which of the following is/are correct?
-1. It deleted the one-third split as a defence to defection.  
-2. Union Council of Ministers, including the PM, shall not exceed 15% of the Lok Sabha.  
+1. It deleted the one-third split as a defence to defection.
+2. Union Council of Ministers, including the PM, shall not exceed 15% of the Lok Sabha.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1512,8 +1502,8 @@ D. 73rd and 74th
 </details>
 
 **Q58.** Consider the following:
-1. 73rd Amendment inserted Part IX.  
-2. 74th Amendment inserted the 11th Schedule.  
+1. 73rd Amendment inserted Part IX.
+2. 74th Amendment inserted the 11th Schedule.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1527,10 +1517,10 @@ D. Neither 1 nor 2
 </details>
 
 **Q59.** Match List-I with List-II and select the correct answer using the code given below the lists:
-A. 73rd  1. 1 June 1993  
-B. 74th  2. 24 April 1993  
-C. 11th Schedule  3. 18 items  
-D. 12th Schedule  4. 29 items  
+A. 73rd 1. 1 June 1993
+B. 74th 2. 24 April 1993
+C. 11th Schedule 3. 18 items
+D. 12th Schedule 4. 29 items
 A. A-2, B-1, C-4, D-3
 B. A-1, B-2, C-3, D-4
 C. A-2, B-1, C-3, D-4
@@ -1557,9 +1547,9 @@ D. 71st, 1992
 </details>
 
 **Q61.** With reference to the 86th Amendment, which of the following is/are correct?
-1. Article 21A covers children aged 6–14.  
-2. Article 45 was recast for early childhood care below 6.  
-3. Article 51A(k) is a Fundamental Duty of the parent.  
+1. Article 21A covers children aged 6–14.
+2. Article 45 was recast for early childhood care below 6.
+3. Article 51A(k) is a Fundamental Duty of the parent.
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -1615,14 +1605,12 @@ D. 1, 4, 3, 2
 
 </details>
 
-**Q65.**
+**Q65.Assertion (A):** The 106th Amendment has already reserved one-third of Lok Sabha seats for women from 2024.
 
-**Assertion (A):** The 106th Amendment has already reserved one-third of Lok Sabha seats for women from 2024.
-
-**Reason (R):** The 106th comes into force only after a delimitation following the next census.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The 106th comes into force only after a delimitation following the next census.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1646,8 +1634,8 @@ D. 105th
 </details>
 
 **Q67.** Which of the following statements is/are correct about the 103rd Amendment?
-1. It inserted Articles 15(6) and 16(6).  
-2. It eats into the existing SC/ST/OBC share.  
+1. It inserted Articles 15(6) and 16(6).
+2. It eats into the existing SC/ST/OBC share.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1719,8 +1707,8 @@ D. 300A — 42nd
 </details>
 
 **Q71.** The 104th Amendment?
-1. Extended SC/ST reservation in LS and Assemblies to 25 January 2030.  
-2. Ended Anglo-Indian nomination to LS and Assemblies.  
+1. Extended SC/ST reservation in LS and Assemblies to 25 January 2030.
+2. Ended Anglo-Indian nomination to LS and Assemblies.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1734,8 +1722,8 @@ D. Neither 1 nor 2
 </details>
 
 **Q72.** Consider the following statements:
-1. 97th inserted Part IXB on co-operative societies.  
-2. The Supreme Court in 2021 struck Part IXB insofar as it applied to State co-operatives for want of ratification.  
+1. 97th inserted Part IXB on co-operative societies.
+2. The Supreme Court in 2021 struck Part IXB insofar as it applied to State co-operatives for want of ratification.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1787,14 +1775,12 @@ D. 101st — 2016
 
 </details>
 
-**Q76.**
+**Q76.Assertion (A):** After the 102nd Amendment, only the President can notify SEBCs for the Union.
 
-**Assertion (A):** After the 102nd Amendment, only the President can notify SEBCs for the Union.
-
-**Reason (R):** The 105th Amendment restored to States the power to identify SEBCs for their own purposes.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The 105th Amendment restored to States the power to identify SEBCs for their own purposes.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1805,9 +1791,9 @@ D. (A) is false, but (R) is true
 </details>
 
 **Q77.** Which of the following statements about the 106th Amendment is/are correct?
-1. It reserves 33% seats for women in the Lok Sabha and State Assemblies.  
-2. It also covers the Rajya Sabha.  
-3. It applies within SC/ST reserved seats as well.  
+1. It reserves 33% seats for women in the Lok Sabha and State Assemblies.
+2. It also covers the Rajya Sabha.
+3. It applies within SC/ST reserved seats as well.
 A. 1 and 2 only
 B. 1 and 3 only
 C. 2 and 3 only
@@ -1820,7 +1806,7 @@ D. 1, 2 and 3
 
 </details>
 
-**Q78.** Arrange the following in chronological order: I 52nd  II 69th  III 73rd  IV 61st
+**Q78.** Arrange the following in chronological order: I 52nd II 69th III 73rd IV 61st
 A. I, IV, II, III
 B. I, II, IV, III
 C. IV, I, II, III
@@ -1847,8 +1833,8 @@ D. 101st
 </details>
 
 **Q80.** Which of the following is/are correct?
-1. 69th Amendment made Delhi a full State.  
-2. Public order, police and land for NCT remain with the Centre.  
+1. 69th Amendment made Delhi a full State.
+2. Public order, police and land for NCT remain with the Centre.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1888,8 +1874,8 @@ D. 61st — 10th Schedule
 </details>
 
 **Q83.** Consider the following statements:
-1. A person disqualified under the Tenth Schedule cannot be appointed a minister until re-elected.  
-2. This bar was inserted by the 91st Amendment.  
+1. A person disqualified under the Tenth Schedule cannot be appointed a minister until re-elected.
+2. This bar was inserted by the 91st Amendment.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1937,8 +1923,8 @@ D. A-4, B-3, C-2, D-1
 </details>
 
 **Q85.** Which of the following statements is/are correct?
-1. Women’s 1/3 reservation in Panchayats is already in force under the 73rd Amendment.  
-2. Women’s 1/3 reservation in the Lok Sabha awaits delimitation under the 106th.  
+1. Women’s 1/3 reservation in Panchayats is already in force under the 73rd Amendment.
+2. Women’s 1/3 reservation in the Lok Sabha awaits delimitation under the 106th.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1952,9 +1938,9 @@ D. Neither 1 nor 2
 </details>
 
 **Q86.** Which of the following is **not** correctly matched?
-A. 35th — Sikkim associate State  
-B. 36th — Sikkim full statehood  
-C. 52nd — present 10th Schedule (defection)  
+A. 35th — Sikkim associate State
+B. 36th — Sikkim full statehood
+C. 52nd — present 10th Schedule (defection)
 D. 35th — anti-defection
 
 <details>
@@ -1965,8 +1951,8 @@ D. 35th — anti-defection
 </details>
 
 **Q87.** With reference to Article 368, which of the following is/are correct?
-1. Vacant seats are excluded from “total membership.”  
-2. State ratification is by a special majority of the State legislature.  
+1. Vacant seats are excluded from “total membership.”
+2. State ratification is by a special majority of the State legislature.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2013,14 +1999,12 @@ D. A-2, B-4, C-3, D-1
 
 </details>
 
-**Q89.**
+**Q89.Assertion (A):** The 99th Amendment is not in force.
 
-**Assertion (A):** The 99th Amendment is not in force.
-
-**Reason (R):** The Supreme Court struck it down as violating the basic structure (judicial independence).  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The Supreme Court struck it down as violating the basic structure (judicial independence).
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -2044,8 +2028,8 @@ D. 101st
 </details>
 
 **Q91.** Which of the following statements about the 97th Amendment is/are correct?
-1. Part IXB as applied to State co-operatives was struck in 2021 for want of ratification.  
-2. Article 43B was also struck down.  
+1. Part IXB as applied to State co-operatives was struck in 2021 for want of ratification.
+2. Article 43B was also struck down.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2059,8 +2043,8 @@ D. Neither 1 nor 2
 </details>
 
 **Q92.** Consider the following statements:
-1. The 93rd Amendment inserted Article 21A.  
-2. The 86th Amendment inserted Article 15(5).  
+1. The 93rd Amendment inserted Article 21A.
+2. The 86th Amendment inserted Article 15(5).
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2100,9 +2084,9 @@ D. 44th — Socialist and Secular added
 </details>
 
 **Q95.** With reference to the 106th Amendment, which of the following is/are correct?
-1. The Bill in Parliament was numbered the 128th Amendment Bill.  
-2. Women’s seats will rotate after each delimitation.  
-3. It covers the Rajya Sabha.  
+1. The Bill in Parliament was numbered the 128th Amendment Bill.
+2. Women’s seats will rotate after each delimitation.
+3. It covers the Rajya Sabha.
 A. 1 and 2 only
 B. 1 and 3 only
 C. 2 and 3 only
@@ -2121,8 +2105,8 @@ D. 1, 2 and 3
 
 ### 2025
 
-**Q1. UPPCS Prelims 2025, Q56**  
-Which of the following words were added to the Preamble by the 42nd Constitutional Amendment?  
+**Q1. UPPCS Prelims 2025, Q56**
+Which of the following words were added to the Preamble by the 42nd Constitutional Amendment?
 1. Socialist
 2. Secular
 3. Sovereignty
@@ -2141,8 +2125,8 @@ D. 1 and 2
 
 ### 2024
 
-**Q2. UPPCS Prelims 2024, Q45**  
-GST in India was introduced through which Constitutional Amendment Act?  
+**Q2. UPPCS Prelims 2024, Q45**
+GST in India was introduced through which Constitutional Amendment Act?
 A. 101st Amendment
 B. 91st Amendment
 C. 86th Amendment
@@ -2155,8 +2139,8 @@ D. 73rd Amendment
 
 </details>
 
-**Q3. UPPCS Prelims 2024, Q126**  
-Chronology: Shankari Prasad · Sajjan Singh · Golaknath · Kesavananda  
+**Q3. UPPCS Prelims 2024, Q126**
+Chronology: Shankari Prasad · Sajjan Singh · Golaknath · Kesavananda
 A. 1, 4, 3, 2
 B. 3, 2, 1, 4
 C. 1, 2, 3, 4
@@ -2169,8 +2153,8 @@ D. 3, 4, 2, 1
 
 </details>
 
-**Q4. UPPCS Prelims 2024, Q127**  
-42nd / 52nd / 86th / 96th years:  
+**Q4. UPPCS Prelims 2024, Q127**
+42nd / 52nd / 86th / 96th years:
 A. A-2, B-1, C-3, D-4
 B. A-4, B-3, C-2, D-1
 C. A-1, B-2, C-3, D-4
@@ -2183,8 +2167,8 @@ D. A-3, B-1, C-4, D-2
 
 </details>
 
-**Q5. UPPCS Prelims 2024, Q142**  
-Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd  
+**Q5. UPPCS Prelims 2024, Q142**
+Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd
 *(Both wrong — one officer for India; 7th Amd.)*
 
 <details>
@@ -2194,11 +2178,11 @@ Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by
 
 </details>
 
-**Q6. UPPCS Prelims 2024, Q146**  
-Which Amendment Acts deal with Local Governance Institutions in India?  
-A. 63rd and 64th Amendment Acts  
-B. 86th and 87th Amendment Acts  
-C. 42nd and 43rd Amendment Acts  
+**Q6. UPPCS Prelims 2024, Q146**
+Which Amendment Acts deal with Local Governance Institutions in India?
+A. 63rd and 64th Amendment Acts
+B. 86th and 87th Amendment Acts
+C. 42nd and 43rd Amendment Acts
 D. 73rd and 74th Amendment Acts
 
 <details>
@@ -2210,11 +2194,11 @@ D. 73rd and 74th Amendment Acts
 
 ### 2022
 
-**Q7. UPPCS Prelims 2022, Q12**  
-The Right to Education was included in the Fundamental Rights by the—  
-A. Constitution (103rd Amendment) Act, 2019  
-B. Constitution (93rd Amendment) Act, 2005  
-C. Constitution (86th Amendment) Act, 2002  
+**Q7. UPPCS Prelims 2022, Q12**
+The Right to Education was included in the Fundamental Rights by the—
+A. Constitution (103rd Amendment) Act, 2019
+B. Constitution (93rd Amendment) Act, 2005
+C. Constitution (86th Amendment) Act, 2002
 D. Constitution (71st Amendment) Act, 1992
 
 <details>
@@ -2224,8 +2208,8 @@ D. Constitution (71st Amendment) Act, 1992
 
 </details>
 
-**Q8. UPPCS Prelims 2022, Q37**  
-Basic structure propounded in—  
+**Q8. UPPCS Prelims 2022, Q37**
+Basic structure propounded in—
 A. Kesavananda 1973
 B. Golaknath 1967
 C. Chitralekha 1964
@@ -2238,8 +2222,8 @@ D. Yusuf 1954
 
 </details>
 
-**Q9. UPPCS Prelims 2022, Q131**  
-By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?  
+**Q9. UPPCS Prelims 2022, Q131**
+By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
 A. 75th
 B. 73rd
 C. 70th
@@ -2254,8 +2238,8 @@ D. 69th
 
 ### 2021
 
-**Q10. UPPCS Prelims 2021, Q42**  
-Golaknath · Kesavananda · 24th · 42nd chronology  
+**Q10. UPPCS Prelims 2021, Q42**
+Golaknath · Kesavananda · 24th · 42nd chronology
 A. I, III, II, IV
 B. I, II, III, IV
 C. III, I, II, IV
@@ -2268,8 +2252,8 @@ D. III, I, IV, II
 
 </details>
 
-**Q11. UPPCS Prelims 2021, Q110**  
-Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST (Goods and Service Tax) regime?  
+**Q11. UPPCS Prelims 2021, Q110**
+Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST (Goods and Service Tax) regime?
 A. 101st Amendment Act
 B. 102nd Amendment Act
 C. 103rd Amendment Act
@@ -2282,8 +2266,8 @@ D. 104th Amendment Act
 
 </details>
 
-**Q12. UPPCS Prelims 2021, Q113**  
-Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?  
+**Q12. UPPCS Prelims 2021, Q113**
+Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?
 A. 66th Amendment
 B. 62nd Amendment
 C. 61st Amendment
@@ -2298,8 +2282,8 @@ D. 63rd Amendment
 
 ### 2020
 
-**Q13. UPPCS Prelims 2020, Q120**  
-Basic structure doctrine in—  
+**Q13. UPPCS Prelims 2020, Q120**
+Basic structure doctrine in—
 A. Golaknath 1967
 B. Keshavanand Bharati 1973
 C. Shankari Prasad 1951
@@ -2314,8 +2298,8 @@ D. Sajjan Singh 1965
 
 ### 2019
 
-**Q14. UPPCS Prelims 2019, Q106**  
-Article inserted by 42nd for participation of workers in management?  
+**Q14. UPPCS Prelims 2019, Q106**
+Article inserted by 42nd for participation of workers in management?
 A. 38
 B. 39A
 C. 45
@@ -2332,4 +2316,4 @@ D. 43A
 
 ## Mains link (one frame)
 
-**368** is a **limited** power: procedure is rigid (no joint sitting; federal list needs States), substance is capped by ***Kesavananda***. Write the ladder **Golaknath → 24th → Kesavananda → 42nd → Minerva**. Close: **42nd** packed; **44th** unpacked Emergency and property. Later identity-locks: **73rd/74th** local bodies, **86th** RTE, **101st** GST, **103rd** EWS, **106th** women 33% (still waiting on delimitation).
+**368** is a **limited** power: procedure is rigid (no joint sitting; federal list needs States), substance is capped by ***Kesavananda***. Write the ladder **Golaknath → 24th → Kesavananda → 42nd → Minerva**. Close: **42nd** packed; **44th** unpacked Emergency and property. Later identity-facts: **73rd/74th** local bodies, **86th** RTE, **101st** GST, **103rd** EWS, **106th** women 33% (still waiting on delimitation).

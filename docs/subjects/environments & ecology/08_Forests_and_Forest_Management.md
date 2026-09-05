@@ -8,27 +8,27 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 </details>
 
-> **Sources baked in:** Champion & Seth 1968, IFA 1927, FCA 1980, NFP 1988, FRA 2006, ISFR 2023 (FSI), MoEFCC, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — ISFR data, act years, FCA vs FRA, UP district traps  
+> **Sources baked in:** Champion & Seth 1968, IFA 1927, FCA 1980, NFP 1988, FRA 2006, ISFR 2023 (FSI), MoEFCC, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — ISFR data, act years, FCA vs FRA, UP district traps
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Forest cover in ISFR means a patch of at least **1 ha** with canopy **≥10%**, on any land ownership.
 2. Canopy classes: **VDF ≥70%**, **MDF 40–70%**, **OF 10–40%**.
-3. ISFR **2023** India locks: forest cover about **21.76%**, tree cover about **3.41%**, total green cover about **25.17%**.
+3. ISFR **2023** Indias: forest cover about **21.76%**, tree cover about **3.41%**, total green cover about **25.17%**.
 4. **Madhya Pradesh** has the largest forest **area**. **Mizoram** has the highest **percentage** cover among States.
 5. **Forest cover ≠ Recorded Forest Area ≠ tree cover**. Recorded forest area is a legal-notification figure near about **23%**.
 6. Under the **Indian Forest Act, 1927**, **Reserved Forest** is strictest (acts banned unless permitted). **Protected Forest** is State-regulated with some customary rights possible.
 7. **Champion and Seth (1968)** classify Indian forests into **16 types in 6 groups**. The largest share is **Tropical Dry Deciduous** (about **38%**).
 8. The six Champion–Seth groups are Moist Tropical, Dry Tropical, Montane Subtropical, Montane Temperate, Sub-Alpine, and Alpine.
-9. UP type locks: Terai = moist deciduous; Vindhyan = dry deciduous; Bundelkhand = thorn.
+9. UP type facts: Terai = moist deciduous; Vindhyan = dry deciduous; Bundelkhand = thorn.
 10. Law chronology: **IFA 1927 → FCA 1980 → NFP 1988 → JFM 1990 → FRA 2006 → CAMPA Act 2016**.
 11. The **Forest (Conservation) Act, 1980** requires **Central** approval before diverting forest land. Compensatory afforestation is mandatory.
 12. **National Forest Policy 1988** targets about **33%** national forest cover and **66%** in hills and mountains.
-13. **Chipko (1973, Reni, Uttarakhand)** is the classic Himalayan forest movement lock. The **Godavarman (1996)** line broadened the meaning of “forest.”
+13. **Chipko (1973, Reni, Uttarakhand)** is the classic Himalayan forest movement fact. The **Godavarman (1996)** line broadened the meaning of “forest.”
 14. Afforestation tools include **NAP (2000)**, **Green India Mission (2014)**, and **CAMPA** funds for compensatory planting.
 15. **Social forestry** (NCA **1976** lineage) grows trees on **non-forest** land for local needs: farm, community, and extension forestry.
 16. **Agroforestry** integrates trees with crops or livestock. India’s Agroforestry Policy is **2014**. **ICAR-CAFRI** sits at **Jhansi, Uttar Pradesh**.
@@ -47,7 +47,7 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -88,7 +88,7 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 | **Protected Forest** | Moderate — state controls but some rights allowed |
 | **Unclassed Forest** | Not yet formally classified |
 
-> **Exam note:** Trap — "forest cover counts only government forest land" is **false**.
+> ** note:** Trap — "forest cover counts only government forest land" is **false**.
 
 ---
 
@@ -132,13 +132,13 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 | 15 | Moist Alpine Scrub | High Himalaya |
 | 16 | Dry Alpine Scrub | Cold desert Himalaya |
 
-> **Exam note:** UPPCS 2025 Q8 — districts above 20% are **Chandauli and Shravasti**, not Bahraich.
+> ** note:** UPPCS 2025 Q8 — districts above 20% are **Chandauli and Shravasti**, not Bahraich.
 
 **PYQ — UPPCS Prelims 2025, Q8**
 
 As per ISFR 2023, which UP districts had forest over more than 20% of total area?
 
-1. Bahraich  2. Chandauli  3. Shravasti
+1. Bahraich 2. Chandauli 3. Shravasti
 
 A. 1 and 2
 
@@ -164,7 +164,7 @@ D. Only 1
 
 Consider the following statements about Uttar Pradesh:
 
-1. Forests constitute about 12.8% of the total geographical area of the State.  
+1. Forests constitute about 12.8% of the total geographical area of the State.
 2. The districts of Jaunpur, Ghazipur and Ballia have no forest land.
 
 A. Only 1
@@ -200,7 +200,7 @@ D. Neither
 - **Green India Mission (2014)** aims to improve forest quality and carbon sequestration under India's climate action plan.
 - **Article 48A** (DPSP) directs the State to protect forests. **Article 51A(g)** makes environmental protection a fundamental duty of citizens.
 
-> **Exam note:** FCA = **1980**. WPA = **1972**. NFP current version = **1988**, not 1952.
+> ** note:** FCA = **1980**. WPA = **1972**. NFP current version = **1988**, not 1952.
 
 ---
 
@@ -220,7 +220,7 @@ D. Neither
 - **MoEFCC** sets national policy. State Forest Departments implement protection, working plans, and JFM on the ground.
 - **Van Panchayats** in Uttarakhand manage local forest patches through customary community institutions.
 
-> **Exam note:** ISFR is published by **FSI**, not CPCB, ICFRE, or MoEFCC directly.
+> ** note:** ISFR is published by **FSI**, not CPCB, ICFRE, or MoEFCC directly.
 
 ---
 
@@ -239,7 +239,7 @@ D. Neither
 - **Native species** planting is preferred under NFP 1988 and Green India Mission over exotic monocultures such as eucalyptus.
 - Farm and agroforestry plantations add to **tree cover** and **Trees Outside Forests (TOF)** in ISFR, which helps plain states like UP.
 
-> **Exam note:** CAMPA money is used mainly for afforestation and forest protection, not wildlife alone.
+> ** note:** CAMPA money is used mainly for afforestation and forest protection, not wildlife alone.
 
 ---
 
@@ -258,7 +258,7 @@ D. Neither
 - **Social forestry is not JFM**. JFM co-manages existing degraded forest, not non-forest land.
 - **Social forestry is not agroforestry**. Agroforestry integrates trees with active crop or livestock systems on farmland.
 
-> **Exam note:** Social forestry roots lie in **NCA 1976**, not JFM 1990.
+> ** note:** Social forestry roots lie in **NCA 1976**, not JFM 1990.
 
 ---
 
@@ -276,11 +276,11 @@ D. Neither
 - **Taungya** allows temporary farming between rows of planted trees in forest department plantations.
 - FAO treats agroforestry as a **climate-smart agriculture** practice.
 
-> **Exam note:** Agroforestry Policy = **2014**, not 2006. CAFRI = **Jhansi**, not Banda.
+> ** note:** Agroforestry Policy = **2014**, not 2006. CAFRI = **Jhansi**, not Banda.
 
 **PYQ — UPPCS Prelims 2021, Q15**
 
-Which is NOT correctly matched? A. ICRAF — Nairobi  B. IIFM — Bhopal  C. CAFRI — Banda  D. TERI — New Delhi
+Which is NOT correctly matched? A. ICRAF — Nairobi B. IIFM — Bhopal C. CAFRI — Banda D. TERI — New Delhi
 
 <details><summary>Show answer</summary>
 
@@ -306,7 +306,7 @@ Which is NOT correctly matched? A. ICRAF — Nairobi  B. IIFM — Bhopal  C. CAF
 - **JFM is an executive scheme**, not a statute like FRA 2006.
 - **JFM does not grant permanent land title**. FRA can grant recognized forest rights.
 
-> **Exam note:** UPPCS 2021 asked JFM launch year — answer **1990**.
+> ** note:** UPPCS 2021 asked JFM launch year — answer **1990**.
 
 ---
 
@@ -330,17 +330,15 @@ Which is NOT correctly matched? A. ICRAF — Nairobi  B. IIFM — Bhopal  C. CAF
 - In **Niyamgiri (2013)**, Gram Sabhas rejected Vedanta bauxite mining under FRA community consent powers.
 - **FRA grants rights**. **FCA controls diversion**. Both can apply to the same forest landscape.
 
-> **Exam note:** IFR cap = **4 ha**, not 5 or 10. Cutoff date = **13 December 2005**.
+> ** note:** IFR cap = **4 ha**, not 5 or 10. Cutoff date = **13 December 2005**.
 
 ---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
+> **30 questionsQ1.** With reference to ISFR, which statements is/are correct?
 
-**Q1.** With reference to ISFR, which statements is/are correct?
-
-1. Forest cover requires at least 1 ha patch with 10% canopy.  
+1. Forest cover requires at least 1 ha patch with 10% canopy.
 2. Forest cover includes only Recorded Forest Area.
 
 A. Only 1
@@ -359,7 +357,7 @@ D. Neither
 
 **Q2.** With reference to UP forests (ISFR 2023), which statements is/are correct?
 
-1. Sonbhadra has the highest forest percentage among UP districts.  
+1. Sonbhadra has the highest forest percentage among UP districts.
 2. Bahraich exceeds 20% forest cover of district area.
 
 A. Only 1
@@ -378,7 +376,7 @@ D. Neither
 
 **Q3.** With reference to FCA 1980, which statements is/are correct?
 
-1. Prior Central approval is needed for diversion of forest land.  
+1. Prior Central approval is needed for diversion of forest land.
 2. FCA was enacted in 1972 with WPA.
 
 A. Only 1
@@ -397,7 +395,7 @@ D. Neither
 
 **Q4.** With reference to JFM, which statements is/are correct?
 
-1. JFM was launched in 1990.  
+1. JFM was launched in 1990.
 2. JFM grants permanent land title like FRA.
 
 A. Only 1
@@ -416,7 +414,7 @@ D. Neither
 
 **Q5.** With reference to FRA 2006, which statements is/are correct?
 
-1. Individual Forest Right is capped at 4 hectares.  
+1. Individual Forest Right is capped at 4 hectares.
 2. Occupation cutoff date is 13 December 2005.
 
 A. Only 1
@@ -643,7 +641,7 @@ D. Farm plantations only
 
 **Q19.** Arrange chronologically:
 
-1. FCA  2. JFM  3. FRA  4. NFP
+1. FCA 2. JFM 3. FRA 4. NFP
 
 A. 4, 1, 2, 3
 
@@ -659,7 +657,7 @@ D. 4, 1, 3, 2
 
 </details>
 
-**Q20.** Assertion (A): Tree cover can exist outside Recorded Forest Area.  
+**Q20.** Assertion (A): Tree cover can exist outside Recorded Forest Area.
 Reason (R): ISFR counts scattered trees and orchards below 1 ha patch size as tree cover.
 
 A. Both true; R explains A
@@ -840,15 +838,7 @@ D. 33.00%
 
 ## Complete PYQ Bank (Topic 8)
 
-**Q1. UPPCS Prelims 2025, Q8** — UP districts >20% forest → **Ans: C (Chandauli + Shravasti)**
-
-**Q2. UPPCS Prelims 2024, Q86** — "Piral Lao - Paise Pao" Uttarakhand pine-needle campaign → **Ans: D (Both)**
-
-**Q3. UPPCS Prelims 2021** — JFM launch year → **Ans: 1990**
-
-**Q4. UPPCS Prelims 2018, Q44** — ISFR 2017 forest cover % of India → **Ans: C (21.54%)**
-
-**Q5. UPPCS Prelims 2023, Q59** — UP forests 12.8% area; Jaunpur-Ghazipur-Ballia no forest land → **Ans: C (Only 2)** — ISFR 2023 gives ~6.24% forest cover, so statement 1 is incorrect; statement 2 is correct.
+**Q1. UPPCS Prelims 2025, Q8** — UP districts >20% forest → **Ans: C (Chandauli + Shravasti)Q2. UPPCS Prelims 2024, Q86** — "Piral Lao - Paise Pao" Uttarakhand pine-needle campaign → **Ans: D (Both)Q3. UPPCS Prelims 2021** — JFM launch year → **Ans: 1990Q4. UPPCS Prelims 2018, Q44** — ISFR 2017 forest cover % of India → **Ans: C (21.54%)Q5. UPPCS Prelims 2023, Q59** — UP forests 12.8% area; Jaunpur-Ghazipur-Ballia no forest land → **Ans: C (Only 2)** — ISFR 2023 gives ~6.24% forest cover, so statement 1 is incorrect; statement 2 is correct.
 
 <details><summary>Q5 detail</summary>
 
@@ -856,11 +846,7 @@ Statement 1 uses outdated/higher figure. ISFR 2023 forest cover for UP = 6.24%. 
 
 </details>
 
-**Q6. UPPCS Prelims 2022, Q61** — ISFR 2021 maximum forest cover increase among states → **Ans: D (Andhra Pradesh)**
-
-**Q7. UPSC pattern** — FRA IFR maximum → **Ans: 4 hectares**
-
-**Q8. UPSC pattern** — FCA 1980 enacted to → **Ans: check deforestation (prior approval for diversion)**
+**Q6. UPPCS Prelims 2022, Q61** — ISFR 2021 maximum forest cover increase among states → **Ans: D (Andhra Pradesh)Q7. UPSC pattern** — FRA IFR maximum → **Ans: 4 hectaresQ8. UPSC pattern** — FCA 1980 enacted to → **Ans: check deforestation (prior approval for diversion)**
 
 ---
 
@@ -872,7 +858,7 @@ Statement 1 uses outdated/higher figure. ISFR 2023 forest cover for UP = 6.24%. 
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Bahraich >20% forest | **Chandauli + Shravasti** only |
 | Forest cover = RFA only | Cover exists **outside** notified forest |
@@ -931,6 +917,4 @@ Statement 1 uses outdated/higher figure. ISFR 2023 forest cover for UP = 6.24%. 
 | 2021 JFM year | Practice + PYQ Bank Q3 |
 | 2018 Q44 ISFR % | PYQ Bank Q4 |
 
-**Q9. UPPCS Prelims 2021, Q15** — CAFRI NOT in Banda → **Ans: C (Jhansi)**
-
-**Q10. UPPCS Prelims 2019, Q98** — Forest/environment protection in Constitution → **Ans: C (Both DPSP Art 48A and Fundamental Duty Art 51A(g))**
+**Q9. UPPCS Prelims 2021, Q15** — CAFRI NOT in Banda → **Ans: C (Jhansi)Q10. UPPCS Prelims 2019, Q98** — Forest/environment protection in Constitution → **Ans: C (Both DPSP Art 48A and Fundamental Duty Art 51A(g))**

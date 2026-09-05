@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 2</p>
 <h1 class="fact-lock-hero__title">Geomorphology</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
@@ -77,7 +77,7 @@ It is characteristic of **cold mountainous regions**.
 
 ## 7. Chemical Weathering — Associations
 
-| Lock | Fact |
+| Fact | Fact |
 | --- | --- |
 | Carbonation | Limestone |
 | Oxidation | Iron-bearing minerals → rust |
@@ -619,7 +619,7 @@ waves approach at an angle.
 
 ## 90. High-Yield Geomorphic Associations
 
-| Lock | Association |
+| Fact | Association |
 | --- | --- |
 | V-valley / U-valley | River / Glacier |
 | Cirque, arête, horn, moraine, drumlin, esker | Glacier |
@@ -631,7 +631,7 @@ waves approach at an angle.
 
 ## 91. Important Indian Geomorphology
 
-| Feature | Lock |
+| Feature | Fact |
 | --- | --- |
 | Gandikota | **Pennar River → canyon** |
 | Chambal | **Badlands + ravines** |
@@ -657,7 +657,7 @@ East African Rift, Rhine.
 
 ## 95. Horst & Graben
 
-| Block | Lock |
+| Block | Fact |
 | --- | --- |
 | Horst | Uplifted between faults — **High** |
 | Graben | Downthrown between faults — **Ground/low** |
@@ -774,7 +774,7 @@ uplift, rock resistance, base-level change, rejuvenation.
 
 ## MUST RATTA
 
-| Agent | Locks |
+| Agent | Facts |
 | --- | --- |
 | **River** | Hydraulic action · abrasion · attrition · V-valley · meander outer=erosion inner=deposit · oxbow · floodplain · levee · delta · Gandikota=Pennar · Chambal=ravines · Damodar=fault valley |
 | **Glacier** | Plucking · abrasion · cirque · arête · horn · U-valley · hanging valley · fjord · moraine · drumlin · esker |

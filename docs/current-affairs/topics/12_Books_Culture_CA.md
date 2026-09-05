@@ -1,6 +1,6 @@
 # Books & Culture CA
 
-> **Priority B**  
+> **Priority B**
 > Most years there is at least one book–author or culture current-affairs question.
 
 ## What to note every time
@@ -56,7 +56,7 @@ Culture-linked Padma names such as Dharmendra, Mammootty, Alka Yagnik, and N Raj
 - **William Dalrymple** won the Mark Lynton History Prize for **The Golden Road: How Ancient India Transformed the World**.
 - Full easy card → [Awards](04_Awards.md).
 
-### Soft film lock
+### Soft film fact
 
 - Oscar season coverage mentioned Indian film **Homebound** in the International Feature conversation.
 
@@ -66,12 +66,12 @@ Culture-linked Padma names such as Dharmendra, Mammootty, Alka Yagnik, and N Raj
 
 ### Tides of Time murals book
 
-**What happened**  
+**What happened**
 Coverage highlighted **Tides of Time: Bharat’s History through Murals in Parliament**, linked with author **Sudha Murty** and an unveiling connected with Vice President **C. P. Radhakrishnan**.
 
 ### Soft culture follow-ups
 
-- Keep Padma 2026 conferment ceremony timing (usually March/April at Rashtrapati Bhavan) as a soft ceremony lock; the **announcement** was in January.
+- Keep Padma 2026 conferment ceremony timing (usually March/April at Rashtrapati Bhavan) as a soft ceremony fact; the **announcement** was in January.
 - Femina Miss India World 2026 winner card → [Awards](04_Awards.md).
 
 ---
@@ -94,10 +94,10 @@ Coverage highlighted **Tides of Time: Bharat’s History through Murals in Parli
 
 ### The Second Orbit | Shubhanshu Shukla
 
-**What happened**  
+**What happened**
 Coverage highlighted the memoir **The Second Orbit: Belief of a Man… Dreams of 1.4 Billion Hearts** by Group Captain **Shubhanshu Shukla**.
 
-**Core locks**
+**Core facts**
 
 - He is remembered as the first Indian citizen to go to the **International Space Station** (Axiom-4 mission).
 - The book covers his path from IAF fighter pilot to astronaut.
@@ -114,7 +114,7 @@ Coverage highlighted the memoir **The Second Orbit: Belief of a Man… Dreams of
 
 ## July 2026
 
-### Soft National Film Awards culture lock
+### Soft National Film Awards culture fact
 
 July award compilations recycled Best Film / Actor / Actress names from the National Film Awards cycle. Confirm the official PIB list before locking any one film as “Best Feature”.
 
@@ -128,10 +128,10 @@ Commonwealth Games cultural branding (Glasgow unicorn mascot **Finnie**) sits un
 
 ### Vande Mataram @ 150 years
 
-**What happened**  
+**What happened**
 Independence Day 2026 marked **150 years** of the national song **Vande Mataram**.
 
-**Core locks**
+**Core facts**
 
 - Composer: **Bankim Chandra Chattopadhyay**.
 - First published: **1875** in *Bangadarshan*; later in novel **Anandamath** (**1882**).
@@ -144,11 +144,11 @@ Miss Universe India 2026 winner card → [Awards](04_Awards.md).
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Awards — International Booker 2026 winner pair.
+**Logic:** Awards — International Booker 2026 winner pair.
 
 **Q1.** With reference to the International Booker Prize 2026, which of the following statements is/are correct?
 
@@ -157,9 +157,9 @@ Miss Universe India 2026 winner card → [Awards](04_Awards.md).
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -170,7 +170,7 @@ D. Only 1
 </details>
 
 ---
-**Exam logic:** Dalrymple book–prize pair.
+**Logic:** Dalrymple book–prize pair.
 
 **Q2.** With reference to William Dalrymple’s 2026 prize coverage, which of the following statements is/are correct?
 
@@ -179,9 +179,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -193,7 +193,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Tides of Time / Sudha Murty Parliament murals book.
+**Logic:** Tides of Time / Sudha Murty Parliament murals book.
 
 **Q3.** With reference to *Tides of Time: Bharat’s History through Murals in Parliament*, which of the following statements is/are correct?
 
@@ -202,21 +202,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Soft book–ceremony lock. Trap: assigning a wrong Cabinet author.
+**Ans: C.** Soft book–ceremony fact. Trap: assigning a wrong Cabinet author.
 
 </details>
 
 ---
 
-**Exam logic:** Second Orbit / Shubhanshu Shukla.
+**Logic:** Second Orbit / Shubhanshu Shukla.
 
 **Q4.** With reference to *The Second Orbit* (June 2026 coverage), which of the following statements is/are correct?
 
@@ -225,21 +225,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Book–astronaut hybrid. Trap: writing Rakesh Sharma as ISS citizen lock.
+**Ans: C.** Book–astronaut hybrid. Trap: writing Rakesh Sharma as ISS citizen fact.
 
 </details>
 
 ---
 
-**Exam logic:** Vande Mataram @ 150 — composer / years.
+**Logic:** Vande Mataram @ 150 — composer / years.
 
 **Q5.** With reference to Vande Mataram @ 150 years (August 2026), which of the following statements is/are correct?
 
@@ -249,9 +249,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -263,7 +263,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Orange Economy / AVGC + UP heritage sites in Budget.
+**Logic:** Orange Economy / AVGC + UP heritage sites in Budget.
 
 **Q6.** With reference to Budget 2026–27 culture messaging, which of the following statements is/are correct?
 
@@ -273,9 +273,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -287,7 +287,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Booker Taiwan Travelogue.
+**Logic:** Booker Taiwan Travelogue.
 
 **Q7.** Which of the following statements is/are correct?
 
@@ -311,7 +311,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Apnapan soft Chouhan book.
+**Logic:** Apnapan soft Chouhan book.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -334,7 +334,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Bhawaiya cultural history soft.
+**Logic:** Bhawaiya cultural history soft.
 
 **Q9.** Which of the following statements is/are correct?
 
@@ -357,7 +357,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Venice Biennale soft Feb.
+**Logic:** Venice Biennale soft Feb.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -380,7 +380,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** IICT Mumbai AVGC.
+**Logic:** IICT Mumbai AVGC.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -403,7 +403,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** 15 archaeological sites Budget.
+**Logic:** 15 archaeological sites Budget.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -427,7 +427,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Anandamath 1882 lock.
+**Logic:** Anandamath 1882 fact.
 
 **Q13.** With reference to Vande Mataram, which of the following statements is/are correct?
 
@@ -451,7 +451,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Equal honour 1950.
+**Logic:** Equal honour 1950.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -474,7 +474,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Homebound Oscar soft.
+**Logic:** Homebound Oscar soft.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -497,11 +497,11 @@ D. Only 1
 
 ---
 
-**Exam logic:** Finnie culture crossover.
+**Logic:** Finnie culture crossover.
 
 **Q16.** Which of the following statements is/are correct?
 
-1. CWG Glasgow unicorn mascot Finnie is a sports–culture crossover lock.
+1. CWG Glasgow unicorn mascot Finnie is a sports–culture crossover fact.
 2. Finnie is the International Booker winner.
 
 Select the correct answer from the code given below:
@@ -520,7 +520,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Padma culture names Mammootty Alka.
+**Logic:** Padma culture names Mammootty Alka.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -543,7 +543,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Second Orbit ISS Axiom-4.
+**Logic:** Second Orbit ISS Axiom-4.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -561,13 +561,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Citizen/ISS lock ≠ first Indian in space.
+**Ans: A.** Citizen/ISS fact ≠ first Indian in space.
 
 </details>
 
 ---
 
-**Exam logic:** Tides of Time Sudha Murty.
+**Logic:** Tides of Time Sudha Murty.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -590,7 +590,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** 3 AIIA + Jamnagar WHO.
+**Logic:** 3 AIIA + Jamnagar WHO.
 
 **Q20.** Which of the following statements is/are correct?
 

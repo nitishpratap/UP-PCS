@@ -26,7 +26,7 @@ Practice questions live **at the bottom of each topic sheet** (≥20 per topic).
 1. Open one topic sheet.
 2. Revise January → August cards (including any gap-fill cards).
 3. Drill that sheet’s Practice Zone (≥20 Qs).
-4. Weak locks → [Master tables](00_Master_Tables.md).
+4. Weak facts → [Master tables](00_Master_Tables.md).
 
 ### Gap-fills added this pass
 

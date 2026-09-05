@@ -8,13 +8,13 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 </details>
 
-> **Sources baked in:** UNFCCC; CBD; Ramsar; CITES; UNEP; MoEFCC; UPPCS PYQs  
-> **Exam weight:** ★★★ High — Montreal≠Kyoto; treaty↔issue; Ramsar UP traps; Stockholm 1972≠POPs 2001  
+> **Sources baked in:** UNFCCC; CBD; Ramsar; CITES; UNEP; MoEFCC; UPPCS PYQs
+> **Weight:** ★★★ High — Montreal≠Kyoto; treaty↔issue; Ramsar UP traps; Stockholm 1972≠POPs 2001
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. The climate ladder is **UNFCCC 1992 → Kyoto 1997 → Paris 2015**.
 2. **Kyoto** set binding targets mainly for **Annex-I** parties. **Paris** uses universal **NDCs** for all parties.
@@ -27,7 +27,7 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 9. UNFCCC was opened at **Rio 1992**. Its secretariat sits in **Bonn**. Annual COP meetings drive negotiations.
 10. CITES is not the IUCN Red List. CMS is not CITES. Trade rules and migration treaties are different tools.
 11. Ramsar “wise use” allows sustainable human use of wetlands — it is not a total ban slogan.
-12. Paris Agreement year lock is **2015**. Kyoto year lock is **1997**. Montreal year lock is **1987**.
+12. Paris Agreement year fact is **2015**. Kyoto year fact is **1997**. Montreal year fact is **1987**.
 13. A stem that says Kyoto is about “saving water” is false. Kyoto is climate.
 14. Stockholm **1972** created the UNEP moment. Stockholm **2001** is the POPs treaty. Keep the two Stockholms apart.
 15. Basel moves on waste shipment and disposal. Rotterdam’s PIC is prior informed consent for chemicals trade.
@@ -36,16 +36,16 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 18. Minamata’s mercury focus includes artisanal gold mining and product phase-downs in teaching notes.
 19. UNFCCC is the parent framework; Kyoto and Paris are protocols/agreements under that climate family.
 20. Do not put Ramsar, CITES, or CBD into the climate-mitigation answer slot when Kyoto is present.
-21. UP Ramsar geography traps belong beside Ramsar treaty locks but do not change the 1971 identity.
+21. UP Ramsar geography traps belong beside Ramsar treaty facts but do not change the 1971 identity.
 22. Rotterdam is chemicals PIC, not mercury (Minamata) and not POPs listing (Stockholm 2001).
 23. Paris NDCs are nationally determined. Kyoto Annex-I targets were top-down binding for listed developed parties.
 24. Bonn Convention means **CMS**, not the UNFCCC Bonn secretariat alone.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Lock |
+| Pair | Fact |
 |------|------|
 | **Kyoto / Paris** | Annex-I binding targets / universal NDCs |
 | **Kyoto / Montreal** | Climate / ozone |
@@ -66,7 +66,7 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 - Parent framework for **Kyoto Protocol** and **Paris Agreement**.
 - Does **not** itself set the Kyoto Annex targets or Paris NDCs — those are later instruments.
 
-> **Exam note:** UNFCCC = climate framework. IPCC = science body (Topic 42).
+> ** note:** UNFCCC = climate framework. IPCC = science body (Topic 42).
 
 ---
 
@@ -82,7 +82,7 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 Climate change mitigation agreement:
 
-Options: A. Montreal Protocol  B. Ramsar  C. Kyoto Protocol  D. CITES
+Options: A. Montreal Protocol B. Ramsar C. Kyoto Protocol D. CITES
 
 <details><summary>Show answer</summary>
 
@@ -94,7 +94,7 @@ Options: A. Montreal Protocol  B. Ramsar  C. Kyoto Protocol  D. CITES
 
 NOT correctly matched:
 
-Options: A. Cartagena — Biosafety  B. Stockholm — POPs  C. Montreal — Ozone  D. Kyoto — Save water
+Options: A. Cartagena — Biosafety B. Stockholm — POPs C. Montreal — Ozone D. Kyoto — Save water
 
 <details><summary>Show answer</summary>
 
@@ -112,7 +112,7 @@ Carbon credit concept originated from:
 
 </details>
 
-> **Exam note:** Montreal = ozone. Kyoto = climate.
+> ** note:** Montreal = ozone. Kyoto = climate.
 
 ---
 
@@ -126,7 +126,7 @@ Carbon credit concept originated from:
 - Differs from Kyoto’s Annex-I-only binding model — bottom-up pledges with global stocktake.
 - India’s NDC/net-zero policy track sits under Paris (Topics 10/34).
 
-> **Exam note:** Paris ≠ Kyoto clone. NDCs are nationally determined.
+> ** note:** Paris ≠ Kyoto clone. NDCs are nationally determined.
 
 ---
 
@@ -144,7 +144,7 @@ Carbon credit concept originated from:
 
 Cartagena Protocol — Biosafety is a **correct** match.
 
-> **Exam note:** CBD ≠ CITES. CBD = biodiversity framework; CITES = trade.
+> ** note:** CBD ≠ CITES. CBD = biodiversity framework; CITES = trade.
 
 ---
 
@@ -159,10 +159,10 @@ Cartagena Protocol — Biosafety is a **correct** match.
 
 **PYQ — UPPCS Prelims 2025, Q58**
 
-Ramsar sites NOT in UP: Rudrasagar Lake + Sultanpur National Park → **Ans: B (3 and 4)**  
+Ramsar sites NOT in UP: Rudrasagar Lake + Sultanpur National Park → **Ans: B (3 and 4)**
 (Sarsai Nawar and Samaspur **are** in UP.)
 
-> **Exam note:** Ramsar = wetlands, not forests or ozone.
+> ** note:** Ramsar = wetlands, not forests or ozone.
 
 ---
 
@@ -176,7 +176,7 @@ Ramsar sites NOT in UP: Rudrasagar Lake + Sultanpur National Park → **Ans: B (
 - **World Wildlife Day = 3 March** (CITES adoption date).
 - IUCN Red List assesses extinction risk; CITES regulates trade.
 
-> **Exam note:** CITES ≠ CMS. Trade ≠ migration focus.
+> ** note:** CITES ≠ CMS. Trade ≠ migration focus.
 
 ---
 
@@ -186,9 +186,9 @@ Ramsar sites NOT in UP: Rudrasagar Lake + Sultanpur National Park → **Ans: B (
 
 - The **Convention on the Conservation of Migratory Species of Wild Animals (CMS / Bonn Convention, 1979)** protects migratory species across range states.
 - Focuses on **migration routes and habitats**, not commercial trade permits like CITES.
-- Secretariat association with **Bonn, Germany** (name lock).
+- Secretariat association with **Bonn, Germany** (name fact).
 
-> **Exam note:** CMS = migration. CITES = trade.
+> ** note:** CMS = migration. CITES = trade.
 
 ---
 
@@ -200,7 +200,7 @@ Ramsar sites NOT in UP: Rudrasagar Lake + Sultanpur National Park → **Ans: B (
 - Aims to reduce hazardous waste generation and prevent dumping on weaker states.
 - Part of the BRS chemicals/waste cluster with Rotterdam and Stockholm.
 
-> **Exam note:** Basel = hazardous **waste** shipment, not wildlife trade.
+> ** note:** Basel = hazardous **waste** shipment, not wildlife trade.
 
 ---
 
@@ -212,7 +212,7 @@ Ramsar sites NOT in UP: Rudrasagar Lake + Sultanpur National Park → **Ans: B (
 - Jointly administered by **FAO** and **UNEP**.
 - Does not ban all listed chemicals globally; it ensures importing countries are informed and consent.
 
-> **Exam note:** Rotterdam = PIC chemicals. Basel = waste. Stockholm = POPs.
+> ** note:** Rotterdam = PIC chemicals. Basel = waste. Stockholm = POPs.
 
 ---
 
@@ -228,7 +228,7 @@ Ramsar sites NOT in UP: Rudrasagar Lake + Sultanpur National Park → **Ans: B (
 
 Stockholm Convention — Persistent organic pollutant is a **correct** match.
 
-> **Exam note:** Stockholm POPs 2001 ≠ Stockholm Environment Conference 1972.
+> ** note:** Stockholm POPs 2001 ≠ Stockholm Environment Conference 1972.
 
 ---
 
@@ -239,9 +239,9 @@ Stockholm Convention — Persistent organic pollutant is a **correct** match.
 - The **Minamata Convention (2013)** controls **mercury** use, emissions, and releases across the life cycle.
 - Named after **Minamata disease** (mercury poisoning) in Japan.
 - Covers products, processes, artisanal gold mining, and emissions to air/water/land.
-- India ratified around **2018** (exam CA lock in many banks).
+- India ratified around **2018** (CA fact in many banks).
 
-> **Exam note:** Minamata = mercury. Basel = hazardous waste generally.
+> ** note:** Minamata = mercury. Basel = hazardous waste generally.
 
 ---
 
@@ -269,7 +269,7 @@ Stockholm Convention — Persistent organic pollutant is a **correct** match.
 
 **Q1.** Climate mitigation among these:
 
-Options: A. Kyoto Protocol  B. Montreal Protocol  C. Ramsar  D. CITES
+Options: A. Kyoto Protocol B. Montreal Protocol C. Ramsar D. CITES
 
 <details><summary>Show answer</summary>
 
@@ -279,7 +279,7 @@ Options: A. Kyoto Protocol  B. Montreal Protocol  C. Ramsar  D. CITES
 
 **Q2.** Paris Agreement year:
 
-Options: A. 2015  B. 1997  C. 1971  D. 1987
+Options: A. 2015 B. 1997 C. 1971 D. 1987
 
 <details><summary>Show answer</summary>
 
@@ -289,7 +289,7 @@ Options: A. 2015  B. 1997  C. 1971  D. 1987
 
 **Q3.** Ramsar protects:
 
-Options: A. Wetlands  B. Only ozone  C. Only mercury  D. Only hazardous waste shipments
+Options: A. Wetlands B. Only ozone C. Only mercury D. Only hazardous waste shipments
 
 <details><summary>Show answer</summary>
 
@@ -299,7 +299,7 @@ Options: A. Wetlands  B. Only ozone  C. Only mercury  D. Only hazardous waste sh
 
 **Q4.** CITES regulates:
 
-Options: A. Wildlife trade  B. Only NDCs  C. Only POPs listing  D. Only PIC chemicals
+Options: A. Wildlife trade B. Only NDCs C. Only POPs listing D. Only PIC chemicals
 
 <details><summary>Show answer</summary>
 
@@ -309,7 +309,7 @@ Options: A. Wildlife trade  B. Only NDCs  C. Only POPs listing  D. Only PIC chem
 
 **Q5.** CMS / Bonn focuses on:
 
-Options: A. Migratory species  B. Only Annex-I CO₂ quotas  C. Only ozone hole  D. Only plastic SUP ban
+Options: A. Migratory species B. Only Annex-I CO₂ quotas C. Only ozone hole D. Only plastic SUP ban
 
 <details><summary>Show answer</summary>
 
@@ -319,7 +319,7 @@ Options: A. Migratory species  B. Only Annex-I CO₂ quotas  C. Only ozone hole 
 
 **Q6.** Basel Convention controls:
 
-Options: A. Transboundary hazardous waste  B. Only tiger tourism  C. Only World Heritage listing  D. Only HDI ranking
+Options: A. Transboundary hazardous waste B. Only tiger tourism C. Only World Heritage listing D. Only HDI ranking
 
 <details><summary>Show answer</summary>
 
@@ -329,7 +329,7 @@ Options: A. Transboundary hazardous waste  B. Only tiger tourism  C. Only World 
 
 **Q7.** Rotterdam uses:
 
-Options: A. Prior Informed Consent (PIC)  B. Only CITES Appendix I  C. Only Kyoto CERs  D. Only AQI colours
+Options: A. Prior Informed Consent (PIC) B. Only CITES Appendix I C. Only Kyoto CERs D. Only AQI colours
 
 <details><summary>Show answer</summary>
 
@@ -339,7 +339,7 @@ Options: A. Prior Informed Consent (PIC)  B. Only CITES Appendix I  C. Only Kyot
 
 **Q8.** Stockholm Convention targets:
 
-Options: A. POPs  B. Only wetlands wise use  C. Only NDCs  D. Only ozone ODS alone
+Options: A. POPs B. Only wetlands wise use C. Only NDCs D. Only ozone ODS alone
 
 <details><summary>Show answer</summary>
 
@@ -349,7 +349,7 @@ Options: A. POPs  B. Only wetlands wise use  C. Only NDCs  D. Only ozone ODS alo
 
 **Q9.** Minamata Convention targets:
 
-Options: A. Mercury  B. Only methane from paddies  C. Only noise dB  D. Only biosphere MAB listing
+Options: A. Mercury B. Only methane from paddies C. Only noise dB D. Only biosphere MAB listing
 
 <details><summary>Show answer</summary>
 
@@ -359,7 +359,7 @@ Options: A. Mercury  B. Only methane from paddies  C. Only noise dB  D. Only bio
 
 **Q10.** UNFCCC opened at:
 
-Options: A. Rio 1992  B. Montreal 1987  C. Ramsar 1971  D. Minamata 2013
+Options: A. Rio 1992 B. Montreal 1987 C. Ramsar 1971 D. Minamata 2013
 
 <details><summary>Show answer</summary>
 
@@ -369,7 +369,7 @@ Options: A. Rio 1992  B. Montreal 1987  C. Ramsar 1971  D. Minamata 2013
 
 **Q11.** Carbon credit origin treaty:
 
-Options: A. Kyoto Protocol  B. Ramsar  C. CITES  D. Basel
+Options: A. Kyoto Protocol B. Ramsar C. CITES D. Basel
 
 <details><summary>Show answer</summary>
 
@@ -379,7 +379,7 @@ Options: A. Kyoto Protocol  B. Ramsar  C. CITES  D. Basel
 
 **Q12.** Cartagena Protocol is about:
 
-Options: A. Biosafety  B. Save water  C. Only ozone  D. Only mercury thermometers
+Options: A. Biosafety B. Save water C. Only ozone D. Only mercury thermometers
 
 <details><summary>Show answer</summary>
 
@@ -389,7 +389,7 @@ Options: A. Biosafety  B. Save water  C. Only ozone  D. Only mercury thermometer
 
 **Q13.** Kyoto “save water” match is:
 
-Options: A. Wrong  B. Correct  C. Same as Ramsar  D. Same as Minamata
+Options: A. Wrong B. Correct C. Same as Ramsar D. Same as Minamata
 
 <details><summary>Show answer</summary>
 
@@ -399,7 +399,7 @@ Options: A. Wrong  B. Correct  C. Same as Ramsar  D. Same as Minamata
 
 **Q14.** Paris uses mainly:
 
-Options: A. NDCs  B. Only CITES appendices  C. Only Basel Ban Amendment alone  D. Only Ringelmann scale
+Options: A. NDCs B. Only CITES appendices C. Only Basel Ban Amendment alone D. Only Ringelmann scale
 
 <details><summary>Show answer</summary>
 
@@ -409,7 +409,7 @@ Options: A. NDCs  B. Only CITES appendices  C. Only Basel Ban Amendment alone  D
 
 **Q15.** CBD three objectives include:
 
-Options: A. Conserve, sustainable use, benefit-sharing  B. Only ozone phase-out  C. Only hazardous waste dump ban alone  D. Only HDI calculation
+Options: A. Conserve, sustainable use, benefit-sharing B. Only ozone phase-out C. Only hazardous waste dump ban alone D. Only HDI calculation
 
 <details><summary>Show answer</summary>
 
@@ -419,7 +419,7 @@ Options: A. Conserve, sustainable use, benefit-sharing  B. Only ozone phase-out 
 
 **Q16.** Rudrasagar Ramsar is in:
 
-Options: A. Tripura  B. Uttar Pradesh  C. Haryana  D. Rajasthan
+Options: A. Tripura B. Uttar Pradesh C. Haryana D. Rajasthan
 
 <details><summary>Show answer</summary>
 
@@ -429,7 +429,7 @@ Options: A. Tripura  B. Uttar Pradesh  C. Haryana  D. Rajasthan
 
 **Q17.** Sultanpur National Park is in:
 
-Options: A. Haryana  B. Uttar Pradesh  C. Tripura  D. Kerala
+Options: A. Haryana B. Uttar Pradesh C. Tripura D. Kerala
 
 <details><summary>Show answer</summary>
 
@@ -439,7 +439,7 @@ Options: A. Haryana  B. Uttar Pradesh  C. Tripura  D. Kerala
 
 **Q18.** Montreal Protocol is about:
 
-Options: A. Ozone / ODS  B. Climate Annex-I only as main purpose  C. Wetlands only  D. Mercury only
+Options: A. Ozone / ODS B. Climate Annex-I only as main purpose C. Wetlands only D. Mercury only
 
 <details><summary>Show answer</summary>
 
@@ -449,7 +449,7 @@ Options: A. Ozone / ODS  B. Climate Annex-I only as main purpose  C. Wetlands on
 
 **Q19.** Nagoya Protocol is about:
 
-Options: A. ABS under CBD  B. Only Kyoto CDM  C. Only Basel waste  D. Only Paris Article 6 alone as sole meaning
+Options: A. ABS under CBD B. Only Kyoto CDM C. Only Basel waste D. Only Paris Article 6 alone as sole meaning
 
 <details><summary>Show answer</summary>
 
@@ -459,7 +459,7 @@ Options: A. ABS under CBD  B. Only Kyoto CDM  C. Only Basel waste  D. Only Paris
 
 **Q20.** CITES year:
 
-Options: A. 1973  B. 1992 only  C. 2015 only  D. 2001 only
+Options: A. 1973 B. 1992 only C. 2015 only D. 2001 only
 
 <details><summary>Show answer</summary>
 
@@ -467,10 +467,10 @@ Options: A. 1973  B. 1992 only  C. 2015 only  D. 2001 only
 
 </details>
 
-**Q21.** Assertion (A): Kyoto is a climate mitigation treaty.  
+**Q21.** Assertion (A): Kyoto is a climate mitigation treaty.
 Reason (R): It is identical to Montreal Protocol.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -480,7 +480,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 **Q22.** Stockholm 1972 conference vs Stockholm Convention:
 
-Options: A. Different (UNEP birth vs POPs treaty)  B. Same instrument  C. Both only about mercury  D. Both only about wetlands
+Options: A. Different (UNEP birth vs POPs treaty) B. Same instrument C. Both only about mercury D. Both only about wetlands
 
 <details><summary>Show answer</summary>
 
@@ -490,7 +490,7 @@ Options: A. Different (UNEP birth vs POPs treaty)  B. Same instrument  C. Both o
 
 **Q23.** Wise Use principle belongs to:
 
-Options: A. Ramsar  B. Kyoto  C. Minamata  D. Montreal
+Options: A. Ramsar B. Kyoto C. Minamata D. Montreal
 
 <details><summary>Show answer</summary>
 
@@ -500,7 +500,7 @@ Options: A. Ramsar  B. Kyoto  C. Minamata  D. Montreal
 
 **Q24.** Appendices I–III belong to:
 
-Options: A. CITES  B. Paris NDCs  C. Basel only  D. UNFCCC Article 2 only
+Options: A. CITES B. Paris NDCs C. Basel only D. UNFCCC Article 2 only
 
 <details><summary>Show answer</summary>
 
@@ -510,7 +510,7 @@ Options: A. CITES  B. Paris NDCs  C. Basel only  D. UNFCCC Article 2 only
 
 **Q25.** Bonn Convention is also called:
 
-Options: A. CMS  B. Only UNFCCC  C. Only GEF  D. Only ISO 14001
+Options: A. CMS B. Only UNFCCC C. Only GEF D. Only ISO 14001
 
 <details><summary>Show answer</summary>
 
@@ -520,7 +520,7 @@ Options: A. CMS  B. Only UNFCCC  C. Only GEF  D. Only ISO 14001
 
 **Q26.** FAO + UNEP jointly run:
 
-Options: A. Rotterdam Convention  B. Only CITES  C. Only Paris COP presidency  D. Only Ramsar COP alone
+Options: A. Rotterdam Convention B. Only CITES C. Only Paris COP presidency D. Only Ramsar COP alone
 
 <details><summary>Show answer</summary>
 
@@ -530,7 +530,7 @@ Options: A. Rotterdam Convention  B. Only CITES  C. Only Paris COP presidency  D
 
 **Q27.** Kyoto mainly bound:
 
-Options: A. Annex-I developed parties  B. Only all LDCs with identical caps in 1997 model  C. Only ozone secretariats  D. Only wetland managers
+Options: A. Annex-I developed parties B. Only all LDCs with identical caps in 1997 model C. Only ozone secretariats D. Only wetland managers
 
 <details><summary>Show answer</summary>
 
@@ -540,7 +540,7 @@ Options: A. Annex-I developed parties  B. Only all LDCs with identical caps in 1
 
 **Q28.** Paris temperature aim:
 
-Options: A. Well below 2°C; pursue 1.5°C  B. Exactly 4°C target  C. Cool Earth to −18°C  D. No temperature language
+Options: A. Well below 2°C; pursue 1.5°C B. Exactly 4°C target C. Cool Earth to −18°C D. No temperature language
 
 <details><summary>Show answer</summary>
 
@@ -550,7 +550,7 @@ Options: A. Well below 2°C; pursue 1.5°C  B. Exactly 4°C target  C. Cool Eart
 
 **Q29.** India BDA 2002 implements mainly:
 
-Options: A. CBD  B. Montreal only  C. Basel only  D. Minamata only
+Options: A. CBD B. Montreal only C. Basel only D. Minamata only
 
 <details><summary>Show answer</summary>
 
@@ -560,7 +560,7 @@ Options: A. CBD  B. Montreal only  C. Basel only  D. Minamata only
 
 **Q30.** Correct set:
 
-Options: A. Kyoto=climate; Ramsar=wetlands; CITES=trade; Basel=waste; Minamata=mercury; Stockholm POPs≠1972 conference  B. Kyoto=ozone; Ramsar=trade; CITES=wetlands; Basel=NDCs  C. Paris=Annex-I only; CMS=hazardous waste  D. Montreal=climate mitigation main treaty
+Options: A. Kyoto=climate; Ramsar=wetlands; CITES=trade; Basel=waste; Minamata=mercury; Stockholm POPs≠1972 conference B. Kyoto=ozone; Ramsar=trade; CITES=wetlands; Basel=NDCs C. Paris=Annex-I only; CMS=hazardous waste D. Montreal=climate mitigation main treaty
 
 <details><summary>Show answer</summary>
 
@@ -572,15 +572,7 @@ Options: A. Kyoto=climate; Ramsar=wetlands; CITES=trade; Basel=waste; Minamata=m
 
 ## Complete PYQ Bank (Topic 43)
 
-**Q1. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: C**
-
-**Q2. UPPCS 2019, Q132** — Kyoto ≠ save water; Cartagena/Stockholm/Montreal matches OK → **Ans: D**
-
-**Q3. UPPCS 2021, Q125** — Carbon credit from Kyoto → **Ans: B**
-
-**Q4. UPPCS 2025, Q58** — Ramsar NOT in UP: Rudrasagar + Sultanpur → **Ans: B**
-
-**Q5. Pattern** — Paris 2015 NDCs; UNFCCC 1992 framework
+**Q1. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: CQ2. UPPCS 2019, Q132** — Kyoto ≠ save water; Cartagena/Stockholm/Montreal matches OK → **Ans: DQ3. UPPCS 2021, Q125** — Carbon credit from Kyoto → **Ans: BQ4. UPPCS 2025, Q58** — Ramsar NOT in UP: Rudrasagar + Sultanpur → **Ans: BQ5. Pattern** — Paris 2015 NDCs; UNFCCC 1992 framework
 
 **Q6. Pattern** — CBD three objectives; Cartagena biosafety; Nagoya ABS
 
@@ -596,7 +588,7 @@ Options: A. Kyoto=climate; Ramsar=wetlands; CITES=trade; Basel=waste; Minamata=m
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Montreal = climate mitigation | **Ozone**; Kyoto/Paris = climate |
 | Kyoto = save water | **Climate / GHG** |
@@ -640,11 +632,11 @@ Options: A. Kyoto=climate; Ramsar=wetlands; CITES=trade; Basel=waste; Minamata=m
 
 ### Topic boundaries
 
-- **Conferences + full treaty twin** — Topic 18  
-- **Orgs publishing/hosting** — Topic 42  
-- **Ozone Vienna/Montreal depth** — Topics 11/36  
-- **Ramsar site lists / UP geography** — Topics 6/32  
-- **Carbon markets / NDC policy** — Topics 10/34  
+- **Conferences + full treaty twin** — Topic 18
+- **Orgs publishing/hosting** — Topic 42
+- **Ozone Vienna/Montreal depth** — Topics 11/36
+- **Ramsar site lists / UP geography** — Topics 6/32
+- **Carbon markets / NDC policy** — Topics 10/34
 
 ### PYQ audit
 

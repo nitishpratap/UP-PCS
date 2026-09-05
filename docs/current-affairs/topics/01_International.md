@@ -1,6 +1,6 @@
 # International — Summits, Bilateral, UN, Elections
 
-> **Priority S** | About **22%** of Current Affairs questions  
+> **Priority S** | About **22%** of Current Affairs questions
 > In 2024–25 papers, many of these were tagged as **International Relations**, not only “Current Affairs”.
 
 ## What to note every time
@@ -22,8 +22,8 @@ Before you finish reading any international news, answer these in simple words:
 
 ### India–EU leaders’ meeting | 27 January 2026 | New Delhi
 
-**What happened**  
-The President of the European Council, **António Costa**, and the President of the European Commission, **Ursula von der Leyen**, visited India. They held a summit-style meeting with Prime Minister **Narendra Modi**. The visit produced a long list of agreements. For the exam, you do not need every line. You need the big decisions and the easy traps.
+**What happened**
+The President of the European Council, **António Costa**, and the President of the European Commission, **Ursula von der Leyen**, visited India. They held a summit-style meeting with Prime Minister **Narendra Modi**. The visit produced a long list of agreements. For the , you do not need every line. You need the big decisions and the easy traps.
 
 **Free Trade Agreement (FTA)**
 
@@ -45,7 +45,7 @@ The President of the European Council, **António Costa**, and the President of 
 - Four joint projects under India–EU trilateral cooperation were announced (digital skills for women and youth; solar help for women farmers; early warning systems; solar energy support for Africa and small island states).
 
 !!! trap "Easy wrong options"
-    Mixing up **António Costa** and **Ursula von der Leyen**. Saying the FTA is **already in force** on 27 January. Saying NDMA partnered with **NATO** instead of **DG-ECHO**.
+ Mixing up **António Costa** and **Ursula von der Leyen**. Saying the FTA is **already in force** on 27 January. Saying NDMA partnered with **NATO** instead of **DG-ECHO**.
 
 ### Same news for Economy notes
 
@@ -57,15 +57,15 @@ Trade numbers and the **RBI–ESMA** MoU are also kept under [Economy / Budget /
 
 ### India–AI Impact Summit 2026 | 16–20 February 2026 | Bharat Mandapam, New Delhi
 
-**What happened**  
+**What happened**
 India hosted a big global Artificial Intelligence summit at **Bharat Mandapam** in New Delhi. Official notes call it the first major global AI summit of this kind held in the **Global South**. The Ministry of Electronics and IT / IndiaAI ecosystem anchored the event.
 
-**Core locks**
+**Core facts**
 
 - Dates: **16 to 20 February 2026**.
 - Venue: **Bharat Mandapam**, New Delhi.
 - The summit’s three pillars (called **Sutras**) are **People**, **Planet**, and **Progress**.
-- Some PIB notes also used a **Seven Chakras** framing for AI action areas. For prelims, first lock the three Sutras; add Chakras only if a stem asks.
+- Some PIB notes also used a **Seven Chakras** framing for AI action areas. For prelims, first remember the three Sutras; add Chakras only if a stem asks.
 - About **86 countries** supported the summit declaration (some briefings also mention international organisations).
 - The message stressed **human-centred AI** and “welfare of all”.
 - Summit wrap-ups spoke of infrastructure investment pledges above **250 billion US dollars**, plus extra venture and deep-tech money.
@@ -73,7 +73,7 @@ India hosted a big global Artificial Intelligence summit at **Bharat Mandapam** 
 - The closing days included **GPAI Council** meetings (noted around **20 February**).
 
 !!! trap "Easy wrong options"
-    Writing the venue as Hyderabad or Mumbai. Calling it the “first AI meeting in world history”. Forgetting **People–Planet–Progress**.
+ Writing the venue as Hyderabad or Mumbai. Calling it the “first AI meeting in world history”. Forgetting **People–Planet–Progress**.
 
 ### Link to awards
 
@@ -85,10 +85,10 @@ The **Global Teacher Prize 2026** was announced around the same February window 
 
 ### WTO Ministerial Conference 14 (MC14) | Yaoundé, Cameroon
 
-**What happened**  
+**What happened**
 The World Trade Organization held its **14th Ministerial Conference** in **Yaoundé**, Cameroon. It was only the second WTO ministerial meeting held in Africa. The meeting ended **without** a big binding deal on several hard issues.
 
-**Core locks**
+**Core facts**
 
 - Place: **Yaoundé**, Cameroon.
 - E-commerce customs duty moratorium talks did not produce a lasting deal that all sides accepted in the way many countries wanted.
@@ -96,14 +96,14 @@ The World Trade Organization held its **14th Ministerial Conference** in **Yaoun
 - Basic WTO memory: HQ **Geneva**; Director-General **Ngozi Okonjo-Iweala**.
 
 !!! trap "Easy wrong options"
-    Saying a full IFD deal was approved with India’s support. Writing the venue as Geneva instead of Yaoundé.
+ Saying a full IFD deal was approved with India’s support. Writing the venue as Geneva instead of Yaoundé.
 
 ### Global Terrorism Index 2026 | Institute for Economics and Peace (IEP)
 
-**What happened**  
+**What happened**
 The **Global Terrorism Index 2026** said **Pakistan** ranked **number one** for the first time in this report’s recent pattern. Global terrorism deaths were reported to have fallen, while the **Sahel** region remained a major hotspot.
 
-**Core locks**
+**Core facts**
 
 - Publisher: **IEP**.
 - Top country in 2026 edition messaging: **Pakistan**.
@@ -115,10 +115,10 @@ The **Global Terrorism Index 2026** said **Pakistan** ranked **number one** for 
 
 ### India–Republic of Korea Summit | 20–21 April 2026
 
-**What happened**  
+**What happened**
 Republic of Korea Prime Minister **Lee Jae-myung** made a state visit to India on **20–21 April 2026**. Talks focused on making the Special Strategic Partnership more practical, with MoUs and work plans on industry and defence.
 
-**Core locks**
+**Core facts**
 
 - Partner country: **Republic of Korea (South Korea)**.
 - Visit window: **20–21 April 2026**.
@@ -127,20 +127,20 @@ Republic of Korea Prime Minister **Lee Jae-myung** made a state visit to India o
 - A high-profile visit stop named in coverage: **Lothal National Maritime Heritage Complex**, Gujarat.
 
 !!! trap "Easy wrong options"
-    Writing “first ever India–Korea CEPA signed in April 2026”. CEPA is old; April 2026 was about **review**, not a brand-new deal from zero.
+ Writing “first ever India–Korea CEPA signed in April 2026”. CEPA is old; April 2026 was about **review**, not a brand-new deal from zero.
 
 ### UNSC vote on the Strait of Hormuz
 
-**What happened**  
+**What happened**
 The UN Security Council voted on a resolution about reopening the **Strait of Hormuz**, a key oil shipping choke point. **Russia** and **China** used their veto.
 
-**Core locks**
+**Core facts**
 
 - Vote pattern in coverage: **11** in favour, **2** against (Russia, China), **2** abstentions.
-- The resolution was associated with a Bahrain-led proposal in exam compilations.
+- The resolution was associated with a Bahrain-led proposal in compilations.
 - Soft follow-up: mediation and ceasefire talk involving **Pakistan** and failed US–Iran peace talks also appeared in April IR coverage.
 
-### Soft law locks from abroad
+### Soft law facts from abroad
 
 - The UK Parliament passed the **Tobacco and Vapes Bill** path that blocks cigarette sales for people born on or after **1 January 2009**.
 - **Turkey** tightened social-media access rules for children under **15**.
@@ -151,10 +151,10 @@ The UN Security Council voted on a resolution about reopening the **Strait of Ho
 
 ### Saudi Arabia joins International Big Cat Alliance | 22 May 2026
 
-**What happened**  
+**What happened**
 **Saudi Arabia** joined the India-led **International Big Cat Alliance (IBCA)** as the **26th** member country. Coverage called it the first Arab country on the platform.
 
-**Core locks**
+**Core facts**
 
 - New member: **Saudi Arabia** (26th).
 - Alliance focus: seven big cats — tiger, lion, leopard, snow leopard, cheetah, jaguar, and puma.
@@ -164,10 +164,10 @@ The UN Security Council voted on a resolution about reopening the **Strait of Ho
 
 ### Santa Marta Climate Conference | Colombia
 
-**What happened**  
+**What happened**
 The first international conference on **transitioning away from fossil fuels** was held in **Santa Marta, Colombia**. It was co-hosted by **Colombia** and the **Netherlands**.
 
-**Core locks**
+**Core facts**
 
 - Place: **Santa Marta**.
 - Theme focus: moving away from fossil fuels.
@@ -175,10 +175,10 @@ The first international conference on **transitioning away from fossil fuels** w
 
 ### PM Modi’s foreign civilian honours
 
-**What happened**  
+**What happened**
 Prime Minister **Narendra Modi** received high civilian honours from Nordic countries during May coverage of his visit window.
 
-**Core locks**
+**Core facts**
 
 - **Norway:** Grand Cross of the **Royal Norwegian Order of Merit**.
 - **Sweden:** **Royal Order of the Polar Star**, Commander Grand Cross.
@@ -189,10 +189,10 @@ Prime Minister **Narendra Modi** received high civilian honours from Nordic coun
 
 ### 52nd G7 Summit | France
 
-**What happened**  
+**What happened**
 The **G7 Summit** was hosted by **France**. Leaders discussed geopolitics, global imbalances, children, and organised crime.
 
-**Core locks**
+**Core facts**
 
 - Host: **France**.
 - Theme: **Working Together to Address Major International Challenges**.
@@ -200,10 +200,10 @@ The **G7 Summit** was hosted by **France**. Leaders discussed geopolitics, globa
 
 ### US–Iran interim pact | Islamabad MoU
 
-**What happened**  
+**What happened**
 Coverage spoke of a **14-point** interim understanding called the **Islamabad Memorandum of Understanding**, mediated by **Pakistan**, linked with talks around the G7 window. It aimed to pause hostilities and open a negotiation window on nuclear and sanctions issues.
 
-**Soft locks**
+**Soft facts**
 
 - Mediator often named: **Pakistan**.
 - Nuclear monitoring body named: **IAEA**.
@@ -211,10 +211,10 @@ Coverage spoke of a **14-point** interim understanding called the **Islamabad Me
 
 ### Operation Amistad | Venezuela HADR
 
-**What happened**  
+**What happened**
 India launched **Operation Amistad**, a Humanitarian Assistance and Disaster Relief mission after earthquakes in **Venezuela**.
 
-**Core locks**
+**Core facts**
 
 - Two IAF **C-17 Globemaster** aircraft in early coverage.
 - A rescue team of about **41** members was reported.
@@ -231,10 +231,10 @@ The first **International Big Cat Alliance** Summit planned for about **1–2 Ju
 
 ### India–Oman CEPA | in force early June 2026
 
-**What happened**  
+**What happened**
 The **India–Oman Comprehensive Economic Partnership Agreement (CEPA)** came into force around **1–2 June 2026**. It deepens trade with Oman in West Asia.
 
-**Easy locks**
+**Easy facts**
 
 - Partner: **Oman**.
 - Deal type: **CEPA** (trade partnership).
@@ -247,10 +247,10 @@ The **India–Oman Comprehensive Economic Partnership Agreement (CEPA)** came in
 
 ### India–UK CETA and Double Contribution Convention | in force 15 July 2026
 
-**What happened**  
+**What happened**
 The India–UK **Comprehensive Economic and Trade Agreement (CETA)** came into force on **15 July 2026**. On the same day, the companion social-security deal called the **Double Contribution Convention (DCC)** also began.
 
-**Core locks**
+**Core facts**
 
 - Trade deal name: **CETA** (also called the UK–India FTA).
 - Force date: **15 July 2026**.
@@ -260,14 +260,14 @@ The India–UK **Comprehensive Economic and Trade Agreement (CETA)** came into f
 - Do not call CETA and DCC the same agreement.
 
 !!! trap "Easy wrong options"
-    Writing that CETA is the Double Contribution Convention. Mixing force date with the July 2025 signing date.
+ Writing that CETA is the Double Contribution Convention. Mixing force date with the July 2025 signing date.
 
 ### PM Modi’s Indonesia honour
 
 - Indonesia conferred the **Bintang Adipurna** (highest civilian honour) on Prime Minister **Narendra Modi**.
 - Linked with the India–Indonesia Comprehensive Strategic Partnership.
 
-### Soft UK politics lock
+### Soft UK politics fact
 
 - **Andy Burnham** became UK Prime Minister in late July coverage after replacing Keir Starmer as Labour leader.
 
@@ -281,10 +281,10 @@ The India–UK **Comprehensive Economic and Trade Agreement (CETA)** came into f
 
 ### PM Modi receives Uzbekistan’s highest state award
 
-**What happened**  
+**What happened**
 In Tashkent, President **Shavkat Mirziyoyev** conferred Uzbekistan’s supreme state award on Prime Minister **Narendra Modi**.
 
-**Core locks**
+**Core facts**
 
 - Award name: **Order of Oliy Darajali Dustlik**.
 - Place: **Tashkent**, Uzbekistan.
@@ -300,11 +300,11 @@ India launched the first **Guide to Grasslands and Other Open Natural Ecosystems
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Two-statement trap on India–EU January meeting — FTA status vs defence/mobility MoUs.
+**Logic:** Two-statement trap on India–EU January meeting — FTA status vs defence/mobility MoUs.
 
 **Q1.** With reference to the India–European Union meeting held in January 2026, which of the following statements is/are correct?
 
@@ -313,9 +313,9 @@ India launched the first **Guide to Grasslands and Other Open Natural Ecosystems
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -327,7 +327,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Venue + Sutras of AI Impact Summit; distractors Hyderabad/Mumbai and wrong pillars.
+**Logic:** Venue + Sutras of AI Impact Summit; distractors Hyderabad/Mumbai and wrong pillars.
 
 **Q2.** With reference to the India–AI Impact Summit 2026, which of the following statements is/are correct?
 
@@ -336,21 +336,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both locks are correct. Trap: shifting venue to Hyderabad/Mumbai or replacing Sutras with random tech buzzwords.
+**Ans: C.** Both facts are correct. Trap: shifting venue to Hyderabad/Mumbai or replacing Sutras with random tech buzzwords.
 
 </details>
 
 ---
 
-**Exam logic:** CETA vs DCC — same date, different nature (FTA extra locks).
+**Logic:** CETA vs DCC — same date, different nature (FTA extra facts).
 
 **Q3.** With reference to India–United Kingdom agreements that entered into force on 15 July 2026, which of the following statements is/are correct?
 
@@ -360,9 +360,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -374,7 +374,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** IBCA — Saudi as 26th / first Arab member.
+**Logic:** IBCA — Saudi as 26th / first Arab member.
 
 **Q4.** With reference to the International Big Cat Alliance (IBCA), which of the following statements is/are correct?
 
@@ -384,9 +384,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -398,7 +398,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** India–EU — NDMA partner and leaders (org / personality trap).
+**Logic:** India–EU — NDMA partner and leaders (org / personality trap).
 
 **Q5.** With reference to the India–EU leaders’ meeting (January 2026), which of the following statements is/are correct?
 
@@ -408,9 +408,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -422,7 +422,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** WTO MC14 venue + outcome.
+**Logic:** WTO MC14 venue + outcome.
 
 **Q6.** With reference to WTO Ministerial Conference 14 (MC14), which of the following statements is/are correct?
 
@@ -432,9 +432,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -446,7 +446,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** India–Korea Summit April 2026.
+**Logic:** India–Korea Summit April 2026.
 
 **Q7.** With reference to the India–Republic of Korea Summit (April 2026), which of the following statements is/are correct?
 
@@ -456,9 +456,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -470,7 +470,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** G7 host + theme; Operation Amistad.
+**Logic:** G7 host + theme; Operation Amistad.
 
 **Q8.** With reference to June 2026 international coverage, which of the following statements is/are correct?
 
@@ -480,9 +480,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -494,7 +494,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Seychelles honour + Oman CEPA timing.
+**Logic:** Seychelles honour + Oman CEPA timing.
 
 **Q9.** With reference to June 2026 diplomacy / trade, which of the following statements is/are correct?
 
@@ -504,9 +504,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -518,7 +518,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Hormuz soft understanding — Iran–Oman.
+**Logic:** Hormuz soft understanding — Iran–Oman.
 
 **Q10.** With reference to soft West Asia coverage in August 2026, which of the following statements is/are correct?
 
@@ -527,9 +527,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -541,7 +541,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Pax Silica + GPAI at AI Summit.
+**Logic:** Pax Silica + GPAI at AI Summit.
 
 **Q11.** With reference to the India–AI Impact Summit 2026, which of the following statements is/are correct?
 
@@ -551,9 +551,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -565,7 +565,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** India–EU Green Hydrogen Task Force + Horizon Europe exploratory talks.
+**Logic:** India–EU Green Hydrogen Task Force + Horizon Europe exploratory talks.
 
 **Q12.** With reference to India–EU January 2026 outcomes, which of the following statements is/are correct?
 
@@ -589,7 +589,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Pax Silica is supply-chain / critical minerals — not a climate treaty.
+**Logic:** Pax Silica is supply-chain / critical minerals — not a climate treaty.
 
 **Q13.** With reference to Pax Silica (AI Summit window), which of the following statements is/are correct?
 
@@ -613,7 +613,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** G7 membership recall.
+**Logic:** G7 membership recall.
 
 **Q14.** Which of the following is/are G7 members?
 
@@ -636,7 +636,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Islamabad MoU soft IR — mediator Pakistan; IAEA monitoring language.
+**Logic:** Islamabad MoU soft IR — mediator Pakistan; IAEA monitoring language.
 
 **Q15.** With reference to the Islamabad MoU coverage (June 2026), which of the following statements is/are correct?
 
@@ -660,7 +660,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Operation Amistad Venezuela HADR.
+**Logic:** Operation Amistad Venezuela HADR.
 
 **Q16.** With reference to Operation Amistad, which of the following statements is/are correct?
 
@@ -684,7 +684,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Uzbekistan honour name lock.
+**Logic:** Uzbekistan honour name fact.
 
 **Q17.** Which honour did PM Modi receive in Uzbekistan (August 2026 coverage)?
 
@@ -702,7 +702,7 @@ D. Guardian of the Blue Horizon
 
 ---
 
-**Exam logic:** IBCA summit theme / Delhi Declaration expectation.
+**Logic:** IBCA summit theme / Delhi Declaration expectation.
 
 **Q18.** With reference to the postponed IBCA Summit (June window), which of the following statements is/are correct?
 
@@ -726,7 +726,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** India–Oman CEPA duty-free share idea.
+**Logic:** India–Oman CEPA duty-free share idea.
 
 **Q19.** With reference to India–Oman CEPA, which of the following statements is/are correct?
 
@@ -750,7 +750,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** WTO MC14 Africa second ministerial.
+**Logic:** WTO MC14 Africa second ministerial.
 
 **Q20.** With reference to WTO MC14, which of the following statements is/are correct?
 

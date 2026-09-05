@@ -1,5 +1,5 @@
 # Topic 6 — Indian Dance
-### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
+### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,24 +8,24 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, Sangeet Natak Akademi, UNESCO ICH, UPPCS/UPSC match lists  
-> **Exam weight:** ★★★ — dance ↔ state, SNA **8** (not 7), Kathak Lucknow–UP, folk ≠ classical  
-> **Last verified:** August 2026  
-> **Current Affairs:** **Garba of Gujarat** UNESCO ICH **Dec 2023**. Yamini Krishnamurthy died **3 Aug 2024**.
+> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, Sangeet Natak Akademi, UNESCO ICH, UPPCS/UPSC match lists
+> **Weight:** ★★★ — dance ↔ state, SNA **8** (not 7), Kathak Lucknow–UP, folk ≠ classical
+> **Last verified:** August 2026
+> **Current Affairs:Garba of Gujarat** UNESCO ICH **Dec 2023**. Yamini Krishnamurthy died **3 Aug 2024**.
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Sangeet Natak Akademi recognises **eight** classical dances. **Sattriya** of Assam was added in **2000**. A paper that says seven has dropped Sattriya.
 2. **Chhau** is **not** in the SNA eight. It is UNESCO intangible / martial-folk, even if some notes call it a ninth style.
-3. The eight state locks are Bharatanatyam–**Tamil Nadu**, Kathak–**North / UP**, Kathakali–**Kerala**, Kuchipudi–**Andhra Pradesh**, Mohiniyattam–**Kerala**, Odissi–**Odisha**, Manipuri–**Manipur**, and Sattriya–**Assam**.
+3. The eight state facts are Bharatanatyam–**Tamil Nadu**, Kathak–**North / UP**, Kathakali–**Kerala**, Kuchipudi–**Andhra Pradesh**, Mohiniyattam–**Kerala**, Odissi–**Odisha**, Manipuri–**Manipur**, and Sattriya–**Assam**.
 4. The root text is **Natyashastra** by **Bharata Muni**, with **nine** rasas and four abhinaya: angika, vachika, aharya, and sattvika.
 5. **Nritta** is pure dance without story. **Nritya** adds expressive abhinaya. **Natya** is dance-drama.
 6. **Lasya** is graceful movement. **Tandava** is vigorous movement. Kerala’s pair is male **Kathakali** tandava versus female **Mohiniyattam** lasya.
 7. **Bharatanatyam** uses the **araimandi** half-sit stance and grew from temple **sadir**. **Rukmini Devi Arundale** and Kalakshetra led the modern stage revival.
-8. **Kathak** is the Hindustani classical dance among the eight. Marker locks are **chakkar** spins and **tatkar** footwork.
-9. Kathak gharanas are **Lucknow** (Wajid Ali Shah, Bindadin, Birju Maharaj), **Jaipur**, and **Banaras**. Lucknow Kathak is the core UP lock.
+8. **Kathak** is the Hindustani classical dance among the eight. Marker facts are **chakkar** spins and **tatkar** footwork.
+9. Kathak gharanas are **Lucknow** (Wajid Ali Shah, Bindadin, Birju Maharaj), **Jaipur**, and **Banaras**. Lucknow Kathak is the core UP fact.
 10. **Kathakali** of Kerala uses heavy **chutti** makeup and colour codes such as **pacha**. It is dance-drama, not north Indian Kathak.
 11. **Kuchipudi** of Andhra Pradesh is village dance-drama. The plate dance **tarangam** is its famous marker.
 12. **Mohiniyattam** of Kerala is a female solo lasya form in white-and-gold costume. It uses Carnatic music like Bharatanatyam and Kuchipudi.
@@ -33,20 +33,20 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 14. **Manipuri** classical dance centres on **Ras Lila** of Manipur. UP **Braj Raslila** is a separate folk Krishna play and must not be matched as Manipuri.
 15. **Sattriya** grew in Assam’s **satra** monasteries from **Sankaradeva**. It is the latest of the official eight.
 16. Carnatic-music dances among the eight are Bharatanatyam, Kuchipudi, and Mohiniyattam. Only **Kathak** among the eight uses Hindustani music.
-17. Folk is not classical. High-yield folk / ICH locks include **Garba** of Gujarat (UNESCO **2023**), **Kalbelia** (**2010**), and **Chhau** (**2010**).
+17. Folk is not classical. High-yield folk / ICH facts include **Garba** of Gujarat (UNESCO **2023**), **Kalbelia** (**2010**), and **Chhau** (**2010**).
 18. Other folk names often asked are **Bhangra**, **Lavani**, and **Bihu**. They are not SNA classical eight.
-19. UP folk dance locks include **Braj Raslila**, **Charkula**, **Mayur**, **Chholiya** of Kumaon, and **Tharu** dances of the Terai.
+19. UP folk dance facts include **Braj Raslila**, **Charkula**, **Mayur**, **Chholiya** of Kumaon, and **Tharu** dances of the Terai.
 20. Do not confuse **Kathak** the dance with **Kathaka**, a priestly reciter tradition linked in some texts with the Shukla Yajurveda.
-21. Revival name locks are **Rukmini Devi** for Bharatanatyam, **Kelucharan Mohapatra** for Odissi, **Birju Maharaj** for Kathak, and **Vallathol** for Kerala Kalamandalam.
+21. Revival name facts are **Rukmini Devi** for Bharatanatyam, **Kelucharan Mohapatra** for Odissi, **Birju Maharaj** for Kathak, and **Vallathol** for Kerala Kalamandalam.
 22. **Yamini Krishnamurthy** danced Bharatanatyam and Kuchipudi. She died on **3 August 2024**.
 23. **Abhinaya Darpana** by **Nandikesvara** is the hasta-mudra companion text often asked beside Natyashastra.
 24. Sankirtana of Manipur is UNESCO ICH **2013**. It is music–dance ritual, not a ninth SNA classical dance.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Kathak | Kathakali | North spins + Hindustani vs Kerala dance-drama + chutti | कथक / कथकली |
 | Kathakali | Mohiniyattam | Kerala male, heavy aharya vs Kerala female solo lasya | कथकली / मोहिनीअट्टम् |
@@ -64,10 +64,10 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 ## 6.1 Indian Classical Dances
 
-**Count:** **8** (Sangeet Natak Akademi) | **Root text:** Natyashastra (Bharata) | **8th added:** Sattriya **2000**
+**Count:8** (Sangeet Natak Akademi) | **Root text:** Natyashastra (Bharata) | **8th added:** Sattriya **2000**
 
 - SNA list is **eight**. A paper that says seven has dropped **Sattriya**.
-- **Chhau is not** in the SNA eight. It is on UNESCO ICH, and some ministry notes call it a ninth style. Exam default is **not classical eight**.
+- **Chhau is not** in the SNA eight. It is on UNESCO ICH, and some ministry notes call it a ninth style. default is **not classical eight**.
 - The root text is **Natyashastra** by **Bharata Muni**. It has **9 rasa**. Four abhinaya are angika, vachika, aharya, and sattvika.
 
 ### Terms used in every classical form
@@ -78,14 +78,14 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - **Lasya** is graceful. **Tandava** is vigorous.
 - **Angika** abhinaya is the body.
 - **Vachika** is speech or song.
-- **Aharya** is costume and makeup (Kathakali’s exam home).
+- **Aharya** is costume and makeup (Kathakali’s home).
 - **Sattvika** is inner emotion.
 - The nine rasas are Shringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, Adbhuta, and **Shanta** (later ninth).
-- *Abhinaya Darpana* is by **Nandikesvara**. It is the hasta-lock if asked beside Natyashastra.
+- *Abhinaya Darpana* is by **Nandikesvara**. It is the hasta-fact if asked beside Natyashastra.
 - The Carnatic dance cluster is Bharatanatyam, Kuchipudi, and Mohiniyattam.
 - The Hindustani dance is **Kathak only** among the eight.
 
-### The eight (state lock)
+### The eight (state fact)
 
 - **Bharatanatyam** belongs to Tamil Nadu.
 - **Kathak** belongs to North India / **UP** (Lucknow) and Rajasthan (Jaipur).
@@ -96,7 +96,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - **Manipuri** belongs to Manipur.
 - **Sattriya** belongs to Assam. SNA recognised it in **2000**.
 
-> **Exam note:** Two forms are from Kerala. Kathak is not Kathakali. Sattriya is the latest of the eight.
+> ** note:** Two forms are from Kerala. Kathak is not Kathakali. Sattriya is the latest of the eight.
 
 ---
 
@@ -104,7 +104,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 **State:** Tamil Nadu | **Music:** Carnatic | **Temple name:** Sadir / Dasi Attam
 
-- The stance lock is **araimandi** (half-sit, turned-out knees).
+- The stance fact is **araimandi** (half-sit, turned-out knees).
 - It has fire-temple geometry. It uses Nataraja iconography.
 - Tanjore Quartet shaped the concert **margam** (alarippu → varnam → tillana).
 - The 20th-c. stage revival is **Rukmini Devi Arundale** and **Kalakshetra**.
@@ -113,18 +113,18 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - **Yamini Krishnamurthy** danced Bharatanatyam and Kuchipudi. She died **3 Aug 2024**.
 - It is not from Kerala. It is not tribhangi (that is Odissi).
 
-> **Exam note:** Sadir became Bharatanatyam. Rukmini Devi is Kalakshetra, not Kathak.
+> ** note:** Sadir became Bharatanatyam. Rukmini Devi is Kalakshetra, not Kathak.
 
 ---
 
 ## 6.3 Kathak
 
-**Region:** North | **Music:** **Hindustani** (only classical eight with this lock) | **UP home:** Lucknow
+**Region:** North | **Music:Hindustani** (only classical eight with this fact) | **UP home:** Lucknow
 
 - The name is from *kathaka*, meaning storyteller. It is not the Vedic **Kathaka** samhita.
 - The marks are **tatkar** (footwork), **chakkar** (spins), and **ghungroo**. A verse is often recited then danced.
 - Mughal / Awadh court turned temple katha into court spectacle.
-- The peak court lock is **Wajid Ali Shah** of Awadh.
+- The peak court fact is **Wajid Ali Shah** of Awadh.
 
 ### Three gharanas
 
@@ -133,9 +133,9 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - **Banaras** is linked to **Janakiprasad**. It uses floorwork and natwari. It belongs to **UP**.
 
 - Birju Maharaj died **16 Jan 2022**. He belongs to the Lucknow line.
-- Accompaniment is tabla, sometimes pakhawaj, and sarangi or harmonium. Mridangam is not the primary lock.
+- Accompaniment is tabla, sometimes pakhawaj, and sarangi or harmonium. Mridangam is not the primary fact.
 
-> **Exam note:** Lucknow Kathak belongs to **UP**. Wajid Ali Shah is the Awadh peak, not Akbar.
+> ** note:** Lucknow Kathak belongs to **UP**. Wajid Ali Shah is the Awadh peak, not Akbar.
 
 ---
 
@@ -154,7 +154,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - The training home is **Kerala Kalamandalam** (Vallathol).
 - It is not Mohiniyattam. It is not Kathak.
 
-> **Exam note:** Green face marks the hero. Kathakali is Kerala male dance-drama.
+> ** note:** Green face marks the hero. Kathakali is Kerala male dance-drama.
 
 ---
 
@@ -162,33 +162,33 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 **State:** Andhra Pradesh | **Village:** Kuchipudi / Kuchelapuram, **Krishna district** | **Type:** dance-drama
 
-- The saint-composer lock is **Siddhendra Yogi**.
-- The play-lock is **Bhama Kalapam** (Satyabhama).
+- The saint-composer fact is **Siddhendra Yogi**.
+- The play-fact is **Bhama Kalapam** (Satyabhama).
 - **Tarangam** is dancing on a **brass plate**, often with a pot on the head.
 - It has a Yakshagana-like village origin and later became a solo concert form.
 - **Yamini Krishnamurthy** is also a Kuchipudi exponent.
 - It is not from Tamil Nadu. It is not the plate-less pure margam of Bharatanatyam.
 
-> **Exam note:** The plate is Kuchipudi tarangam. The village is in **AP**, not TN.
+> ** note:** The plate is Kuchipudi tarangam. The village is in **AP**, not TN.
 
 ---
 
 ## 6.6 Mohiniyattam
 
-**State:** Kerala | **Who:** female solo | **Mood:** **lasya** (Mohini avatar)
+**State:** Kerala | **Who:** female solo | **Mood:lasya** (Mohini avatar)
 
-- The costume lock is white or off-white with a **gold** border (kasavu).
+- The costume fact is white or off-white with a **gold** border (kasavu).
 - It uses soft swaying, not Kathakali jumps and stamps.
 - Revival is linked to **Vallathol Narayana Menon** and Kerala Kalamandalam (same house as Kathakali, different form).
 - It is the second Kerala classical. It is a pair trap with Kathakali.
 
-> **Exam note:** Kerala female white-gold is Mohiniyattam. Kerala male green-face is Kathakali.
+> ** note:** Kerala female white-gold is Mohiniyattam. Kerala male green-face is Kathakali.
 
 ---
 
 ## 6.7 Odissi
 
-**State:** Odisha | **Temple:** Jagannath, Puri | **Body lock:** **tribhangi** (three bends)
+**State:** Odisha | **Temple:** Jagannath, Puri | **Body fact:tribhangi** (three bends)
 
 - The other stance is **chowk** (square, masculine).
 - The streams are **Mahari** (temple women) and **Gotipua** (boys as women), later nartaki/concert.
@@ -196,7 +196,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - Sculpture on Odisha temples (Konark, Jagannath) matches the Odissi poses.
 - It is not Bharatanatyam araimandi.
 
-> **Exam note:** Tribhangi is Odissi. Gotipua is not Mahari.
+> ** note:** Tribhangi is Odissi. Gotipua is not Mahari.
 
 ---
 
@@ -205,19 +205,19 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 **State:** Manipur | **Faith:** Vaishnava Ras | **Look:** soft, rounded, little stamp
 
 - The earliest ritual layer is **Lai Haraoba** (merrymaking of the gods).
-- The concert lock is **Ras Lila** of Krishna–gopis.
+- The concert fact is **Ras Lila** of Krishna–gopis.
 - The drum dance is **Pung Cholom**. The cymbal dance is **Kartal Cholom**.
 - It uses a white or pale costume and a barrel skirt for Ras.
 - Guru **Bipin Singh** shaped the modern concert form.
 - **Sankirtana** (song + drum + dance) is UNESCO **2013**. Do not call Sankirtana a ninth SNA classical.
 
-> **Exam note:** Manipuri Ras Lila is not Braj folk Raslila (UP).
+> ** note:** Manipuri Ras Lila is not Braj folk Raslila (UP).
 
 ---
 
 ## 6.9 Sattriya
 
-**State:** Assam | **Founder:** **Srimanta Sankaradeva** (15th–16th c.) | **SNA classical:** **2000**
+**State:** Assam | **Founder:Srimanta Sankaradeva** (15th–16th c.) | **SNA classical:2000**
 
 - It was born in **satra** monasteries as Vaishnava preaching.
 - It mixes music, dance, and drama (**Ankiya Nat / Bhaona**).
@@ -226,7 +226,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - The instruments are khol and taal. The songs are **borgeet**.
 - It is the latest of the eight. It is not Odissi. It is not Manipuri.
 
-> **Exam note:** Sattriya is Assam, Sankaradeva, and **2000**. Omitting it makes “7 classical.”
+> ** note:** Sattriya is Assam, Sankaradeva, and **2000**. Omitting it makes “7 classical.”
 
 ---
 
@@ -234,7 +234,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 **Rule:** Community / festival. **Not** SNA classical.
 
-**Lock:** name, state, and one fact.
+**Fact:** name, state, and one fact.
 
 - **Bhangra** belongs to Punjab. It is a Baisakhi harvest dance for males.
 - **Giddha** belongs to Punjab. It is for women and uses boliyan.
@@ -251,7 +251,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - **Theyyam** belongs to Kerala. It is ritual, not Kathakali.
 - **Dollu Kunitha** belongs to Karnataka. It is a drum dance.
 
-### UP folk (exam set)
+### UP folk (set)
 
 - **Raslila** belongs to Braj / Mathura–Vrindavan. It is a Krishna folk play, not Manipuri classical.
 - **Charkula** belongs to Braj. A brass lamp-tier is worn on the head.
@@ -260,7 +260,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 - **Chholiya** belongs to Kumaon (now Uttarakhand, old UP hills). It is a sword wedding dance.
 - **Kajari** is a monsoon song of Banaras–Mirzapur. It is dance-adjacent, not a classical form.
 
-> **Exam note:** Garba is UNESCO 2023 folk, **not** classical. Braj Raslila is **UP folk**.
+> ** note:** Garba is UNESCO 2023 folk, **not** classical. Braj Raslila is **UP folk**.
 
 ---
 
@@ -280,9 +280,9 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 ### UP tribal
 
 - **Tharu** belongs to the Terai (Lakhimpur Kheri, Pilibhit, Bahraich). It is a stick or community dance.
-- **Buksa / Raji** belongs to the UP–Uttarakhand border. This is a name-lock only.
+- **Buksa / Raji** belongs to the UP–Uttarakhand border. This is a name-fact only.
 
-> **Exam note:** Cheraw belongs to **Mizoram**. Tharu belongs to **UP Terai**. Santhal is not a UP-majority lock.
+> ** note:** Cheraw belongs to **Mizoram**. Tharu belongs to **UP Terai**. Santhal is not a UP-majority fact.
 
 ---
 
@@ -292,13 +292,13 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 **Q1.** With reference to classical dances recognised by the Sangeet Natak Akademi, which of the following statements is/are correct?
 
-1. Exactly eight forms are recognised.  
-2. Sattriya was added in 2000.  
+1. Exactly eight forms are recognised.
+2. Sattriya was added in 2000.
 3. Chhau is the ninth SNA classical dance.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
 D. 1, 2 and 3
 
 <details>
@@ -310,21 +310,21 @@ D. 1, 2 and 3
 
 **Q2.** Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Dance)**  
-A. Bharatanatyam  
-B. Kuchipudi  
-C. Odissi  
-D. Sattriya  
+**List-I (Dance)**
+A. Bharatanatyam
+B. Kuchipudi
+C. Odissi
+D. Sattriya
 
-**List-II (State)**  
-1. Assam  
-2. Tamil Nadu  
-3. Andhra Pradesh  
-4. Odisha  
+**List-II (State)**
+1. Assam
+2. Tamil Nadu
+3. Andhra Pradesh
+4. Odisha
 
-A. 2 3 4 1  
-B. 2 4 3 1  
-C. 3 2 4 1  
+A. 2 3 4 1
+B. 2 4 3 1
+C. 3 2 4 1
 D. 2 3 1 4
 
 <details>
@@ -336,9 +336,9 @@ D. 2 3 1 4
 
 **Q3.** Which of the following pairs is NOT correctly matched?
 
-A. Kathakali — Kerala  
-B. Mohiniyattam — Kerala  
-C. Kathak — Tamil Nadu  
+A. Kathakali — Kerala
+B. Mohiniyattam — Kerala
+C. Kathak — Tamil Nadu
 D. Manipuri — Manipur
 
 <details>
@@ -348,30 +348,30 @@ D. Manipuri — Manipur
 
 </details>
 
-**Q4.** Assertion (A): Kathak is the classical form wedded to Hindustani music.  
+**Q4.** Assertion (A): Kathak is the classical form wedded to Hindustani music.
 Reason (R): Bharatanatyam, Kuchipudi and Mohiniyattam are accompanied by Carnatic music.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Both true. Carnatic cluster does not *explain* Kathak’s Hindustani lock.
+**Ans: B** — Both true. Carnatic cluster does not *explain* Kathak’s Hindustani fact.
 
 </details>
 
 **Q5.** How many of the following statements are correct?
 
-1. Nritta is pure dance without a story.  
-2. Nritya uses abhinaya.  
+1. Nritta is pure dance without a story.
+2. Nritya uses abhinaya.
 3. Lasya is the vigorous Shiva aspect.
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -383,13 +383,13 @@ D. None
 
 **Q6.** With reference to Bharatanatyam, which of the following statements is/are correct?
 
-1. Araimandi is its basic half-sit stance.  
-2. Rukmini Devi Arundale is linked to Kalakshetra.  
+1. Araimandi is its basic half-sit stance.
+2. Rukmini Devi Arundale is linked to Kalakshetra.
 3. Tribhangi is its defining body line.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
 D. 1, 2 and 3
 
 <details>
@@ -401,21 +401,21 @@ D. 1, 2 and 3
 
 **Q7.** Match List-I with List-II.
 
-**List-I**  
-A. Sadir  
-B. Tarangam  
-C. Chutti  
-D. Gotipua  
+**List-I**
+A. Sadir
+B. Tarangam
+C. Chutti
+D. Gotipua
 
-**List-II**  
-1. Kathakali makeup  
-2. Older name of Bharatanatyam  
-3. Odissi boy dancers  
-4. Kuchipudi plate dance  
+**List-II**
+1. Kathakali makeup
+2. Older name of Bharatanatyam
+3. Odissi boy dancers
+4. Kuchipudi plate dance
 
-A. 2 4 1 3  
-B. 2 1 4 3  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 1 4 3
+C. 4 2 1 3
 D. 2 4 3 1
 
 <details>
@@ -427,13 +427,13 @@ D. 2 4 3 1
 
 **Q8.** Which of the following is/are correct about Kathak?
 
-1. Lucknow gharana grew in Awadh, including under Wajid Ali Shah.  
-2. Birju Maharaj belongs to the Lucknow line.  
-3. Mridangam is its primary percussion lock.
+1. Lucknow gharana grew in Awadh, including under Wajid Ali Shah.
+2. Birju Maharaj belongs to the Lucknow line.
+3. Mridangam is its primary percussion fact.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 only
 D. 1, 2 and 3
 
 <details>
@@ -445,9 +445,9 @@ D. 1, 2 and 3
 
 **Q9.** Which of the following pairs is NOT correctly matched?
 
-A. Lucknow gharana — Birju Maharaj  
-B. Jaipur gharana — strong footwork  
-C. Banaras gharana — Janakiprasad  
+A. Lucknow gharana — Birju Maharaj
+B. Jaipur gharana — strong footwork
+C. Banaras gharana — Janakiprasad
 D. Lucknow gharana — Kelucharan Mohapatra
 
 <details>
@@ -457,12 +457,12 @@ D. Lucknow gharana — Kelucharan Mohapatra
 
 </details>
 
-**Q10.** Assertion (A): Green (*pacha*) makeup in Kathakali marks the noble/divine hero.  
+**Q10.** Assertion (A): Green (*pacha*) makeup in Kathakali marks the noble/divine hero.
 Reason (R): Kathakali is traditionally a female solo lasya of Kerala.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -474,9 +474,9 @@ D. (A) is false, but (R) is true
 
 **Q11.** Kuchipudi originated in which of the following?
 
-A. Tanjore district, Tamil Nadu  
-B. Krishna district, Andhra Pradesh  
-C. Puri, Odisha  
+A. Tanjore district, Tamil Nadu
+B. Krishna district, Andhra Pradesh
+C. Puri, Odisha
 D. Satras of Assam
 
 <details>
@@ -488,13 +488,13 @@ D. Satras of Assam
 
 **Q12.** With reference to Odissi, which of the following statements is/are correct?
 
-1. Tribhangi means three bends of the body.  
-2. Mahari were temple dancers of Jagannath.  
+1. Tribhangi means three bends of the body.
+2. Mahari were temple dancers of Jagannath.
 3. Siddhendra Yogi founded the form.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 only
 D. 1, 2 and 3
 
 <details>
@@ -506,21 +506,21 @@ D. 1, 2 and 3
 
 **Q13.** Match List-I with List-II.
 
-**List-I (Person)**  
-A. Rukmini Devi Arundale  
-B. Kelucharan Mohapatra  
-C. Srimanta Sankaradeva  
-D. Vallathol Narayana Menon  
+**List-I (Person)**
+A. Rukmini Devi Arundale
+B. Kelucharan Mohapatra
+C. Srimanta Sankaradeva
+D. Vallathol Narayana Menon
 
-**List-II**  
-1. Sattriya  
-2. Bharatanatyam / Kalakshetra  
-3. Kerala Kalamandalam  
-4. Odissi  
+**List-II**
+1. Sattriya
+2. Bharatanatyam / Kalakshetra
+3. Kerala Kalamandalam
+4. Odissi
 
-A. 2 4 1 3  
-B. 2 1 4 3  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 1 4 3
+C. 4 2 1 3
 D. 2 4 3 1
 
 <details>
@@ -532,13 +532,13 @@ D. 2 4 3 1
 
 **Q14.** How many of the following statements about Sattriya are correct?
 
-1. It began as Vaishnava satra theatre in Assam.  
-2. SNA recognised it as classical in 2000.  
+1. It began as Vaishnava satra theatre in Assam.
+2. SNA recognised it as classical in 2000.
 3. It is performed only on festive days, never as daily satra ritual.
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -550,9 +550,9 @@ D. None
 
 **Q15.** Lai Haraoba is the ritual base of which classical dance?
 
-A. Odissi  
-B. Manipuri  
-C. Sattriya  
+A. Odissi
+B. Manipuri
+C. Sattriya
 D. Mohiniyattam
 
 <details>
@@ -564,9 +564,9 @@ D. Mohiniyattam
 
 **Q16.** Which of the following pairs is NOT correctly matched?
 
-A. Manipuri Ras Lila — classical Manipur  
-B. Braj Raslila — folk theatre of Mathura–Vrindavan  
-C. Pung Cholom — Manipuri drum dance  
+A. Manipuri Ras Lila — classical Manipur
+B. Braj Raslila — folk theatre of Mathura–Vrindavan
+C. Pung Cholom — Manipuri drum dance
 D. Braj Raslila — SNA classical eighth form
 
 <details>
@@ -578,14 +578,14 @@ D. Braj Raslila — SNA classical eighth form
 
 **Q17.** Arrange the following in the order SNA classical recognition / standard teaching chronology of “added last.”
 
-1. Bharatanatyam (long recognised)  
-2. Sattriya (2000)  
+1. Bharatanatyam (long recognised)
+2. Sattriya (2000)
 
 The eighth and latest is
 
-A. Manipuri  
-B. Odissi  
-C. Sattriya  
+A. Manipuri
+B. Odissi
+C. Sattriya
 D. Chhau
 
 <details>
@@ -595,12 +595,12 @@ D. Chhau
 
 </details>
 
-**Q18.** Assertion (A): Mohiniyattam and Kathakali are both from Kerala.  
+**Q18.** Assertion (A): Mohiniyattam and Kathakali are both from Kerala.
 Reason (R): Both are female solo lasya forms in white-gold costume.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -612,21 +612,21 @@ D. (A) is false, but (R) is true
 
 **Q19.** Match List-I with List-II.
 
-**List-I (Folk)**  
-A. Garba  
-B. Lavani  
-C. Ghoomar  
-D. Bihu  
+**List-I (Folk)**
+A. Garba
+B. Lavani
+C. Ghoomar
+D. Bihu
 
-**List-II**  
-1. Maharashtra  
-2. Gujarat  
-3. Assam  
-4. Rajasthan  
+**List-II**
+1. Maharashtra
+2. Gujarat
+3. Assam
+4. Rajasthan
 
-A. 2 1 4 3  
-B. 2 4 1 3  
-C. 1 2 4 3  
+A. 2 1 4 3
+B. 2 4 1 3
+C. 1 2 4 3
 D. 2 1 3 4
 
 <details>
@@ -638,13 +638,13 @@ D. 2 1 3 4
 
 **Q20.** Which of the following statements is/are correct?
 
-1. Garba of Gujarat was inscribed by UNESCO in 2023.  
-2. Garba is one of the SNA eight classical dances.  
+1. Garba of Gujarat was inscribed by UNESCO in 2023.
+2. Garba is one of the SNA eight classical dances.
 3. Garba is mainly a Navratri community dance.
 
-A. 1 and 3 only  
-B. 1 and 2 only  
-C. 3 only  
+A. 1 and 3 only
+B. 1 and 2 only
+C. 3 only
 D. 1, 2 and 3
 
 <details>
@@ -656,9 +656,9 @@ D. 1, 2 and 3
 
 **Q21.** Which of the following pairs is NOT correctly matched?
 
-A. Kalbelia — Rajasthan — UNESCO 2010  
-B. Chhau — UNESCO 2010  
-C. Cheraw — Mizoram  
+A. Kalbelia — Rajasthan — UNESCO 2010
+B. Chhau — UNESCO 2010
+C. Cheraw — Mizoram
 D. Cheraw — Manipur bamboo dance
 
 <details>
@@ -670,13 +670,13 @@ D. Cheraw — Manipur bamboo dance
 
 **Q22.** With reference to Chhau, which of the following statements is/are correct?
 
-1. Seraikella, Purulia and Mayurbhanj are the three styles.  
-2. It is one of the eight SNA classical dances.  
+1. Seraikella, Purulia and Mayurbhanj are the three styles.
+2. It is one of the eight SNA classical dances.
 3. It has a UNESCO ICH inscription.
 
-A. 1 and 3 only  
-B. 1 and 2 only  
-C. 1 only  
+A. 1 and 3 only
+B. 1 and 2 only
+C. 1 only
 D. 1, 2 and 3
 
 <details>
@@ -688,13 +688,13 @@ D. 1, 2 and 3
 
 **Q23.** How many of the following are correctly matched to Uttar Pradesh?
 
-1. Lucknow gharana of Kathak  
-2. Braj Raslila  
-3. Sattriya satra tradition  
+1. Lucknow gharana of Kathak
+2. Braj Raslila
+3. Sattriya satra tradition
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -706,21 +706,21 @@ D. None
 
 **Q24.** Match List-I with List-II.
 
-**List-I (UP / nearby)**  
-A. Charkula  
-B. Chholiya  
-C. Tharu dance  
-D. Nautanki  
+**List-I (UP / nearby)**
+A. Charkula
+B. Chholiya
+C. Tharu dance
+D. Nautanki
 
-**List-II**  
-1. Kumaon wedding martial  
-2. Braj lamp-tier  
-3. Gangetic folk opera-dance  
-4. Terai tribal  
+**List-II**
+1. Kumaon wedding martial
+2. Braj lamp-tier
+3. Gangetic folk opera-dance
+4. Terai tribal
 
-A. 2 1 4 3  
-B. 2 4 1 3  
-C. 1 2 4 3  
+A. 2 1 4 3
+B. 2 4 1 3
+C. 1 2 4 3
 D. 2 1 3 4
 
 <details>
@@ -730,12 +730,12 @@ D. 2 1 3 4
 
 </details>
 
-**Q25.** Assertion (A): Kathak and the Vedic Kathaka samhita are the same cultural item.  
+**Q25.** Assertion (A): Kathak and the Vedic Kathaka samhita are the same cultural item.
 Reason (R): Kathak takes its name from storytellers called kathakas.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -747,13 +747,13 @@ D. (A) is false, but (R) is true
 
 **Q26.** Which of the following is/are correct about Yamini Krishnamurthy?
 
-1. She was a Bharatanatyam and Kuchipudi exponent.  
-2. She died in August 2024.  
+1. She was a Bharatanatyam and Kuchipudi exponent.
+2. She died in August 2024.
 3. She founded the Lucknow Kathak gharana.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 only
 D. 1, 2 and 3
 
 <details>
@@ -765,14 +765,14 @@ D. 1, 2 and 3
 
 **Q27.** Four abhinaya types include which of the following?
 
-1. Angika  
-2. Vachika  
-3. Aharya  
-4. Sattvika  
+1. Angika
+2. Vachika
+3. Aharya
+4. Sattvika
 
-A. 1 and 2 only  
-B. 1, 2 and 3 only  
-C. 1, 2, 3 and 4  
+A. 1 and 2 only
+B. 1, 2 and 3 only
+C. 1, 2, 3 and 4
 D. 2 and 4 only
 
 <details>
@@ -784,9 +784,9 @@ D. 2 and 4 only
 
 **Q28.** Which of the following pairs is NOT correctly matched?
 
-A. Pacha — Kathakali hero  
-B. Araimandi — Bharatanatyam  
-C. Chowk — Odissi square stance  
+A. Pacha — Kathakali hero
+B. Araimandi — Bharatanatyam
+C. Chowk — Odissi square stance
 D. Tarangam — Mohiniyattam plate dance
 
 <details>
@@ -798,13 +798,13 @@ D. Tarangam — Mohiniyattam plate dance
 
 **Q29.** With reference to Manipuri, which of the following statements is/are correct?
 
-1. Lai Haraoba is an early ritual layer.  
-2. Sankirtana of Manipur is UNESCO-listed.  
+1. Lai Haraoba is an early ritual layer.
+2. Sankirtana of Manipur is UNESCO-listed.
 3. It is the only classical dance of Assam.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 only
 D. 1, 2 and 3
 
 <details>
@@ -816,13 +816,13 @@ D. 1, 2 and 3
 
 **Q30.** Arrange historically.
 
-1. Sankaradeva’s satra theatre  
-2. SNA recognition of Sattriya  
-3. Garba UNESCO inscription  
+1. Sankaradeva’s satra theatre
+2. SNA recognition of Sattriya
+3. Garba UNESCO inscription
 
-A. 1, 2, 3  
-B. 1, 3, 2  
-C. 2, 1, 3  
+A. 1, 2, 3
+B. 1, 3, 2
+C. 2, 1, 3
 D. 1, 2 then Garba before SNA
 
 <details>
@@ -832,12 +832,12 @@ D. 1, 2 then Garba before SNA
 
 </details>
 
-**Q31.** Assertion (A): Bihu is a folk dance of Assam.  
+**Q31.** Assertion (A): Bihu is a folk dance of Assam.
 Reason (R): Sattriya is the SNA classical dance of Assam.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -849,14 +849,14 @@ D. (A) is false, but (R) is true
 
 **Q32.** How many of the following are folk, not SNA classical?
 
-1. Garba  
-2. Lavani  
-3. Odissi  
-4. Bhangra  
+1. Garba
+2. Lavani
+3. Odissi
+4. Bhangra
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -868,21 +868,21 @@ D. Only one
 
 **Q33.** Match List-I with List-II.
 
-**List-I (Tribal / NE)**  
-A. Cheraw  
-B. Gaur Maria  
-C. Hornbill festival  
-D. Hojagiri  
+**List-I (Tribal / NE)**
+A. Cheraw
+B. Gaur Maria
+C. Hornbill festival
+D. Hojagiri
 
-**List-II**  
-1. Nagaland  
-2. Mizoram  
-3. Tripura  
-4. Bastar  
+**List-II**
+1. Nagaland
+2. Mizoram
+3. Tripura
+4. Bastar
 
-A. 2 4 1 3  
-B. 2 1 4 3  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 1 4 3
+C. 4 2 1 3
 D. 2 4 3 1
 
 <details>
@@ -894,13 +894,13 @@ D. 2 4 3 1
 
 **Q34.** Which of the following statements is/are correct?
 
-1. Tharu dance belongs to the UP Terai belt.  
-2. Santhal is primarily a Kerala classical form.  
+1. Tharu dance belongs to the UP Terai belt.
+2. Santhal is primarily a Kerala classical form.
 3. Gaur Maria uses bison-horn headgear.
 
-A. 1 and 3 only  
-B. 1 and 2 only  
-C. 1 only  
+A. 1 and 3 only
+B. 1 and 2 only
+C. 1 only
 D. 1, 2 and 3
 
 <details>
@@ -912,9 +912,9 @@ D. 1, 2 and 3
 
 **Q35.** Which of the following pairs is NOT correctly matched?
 
-A. Tanjore Quartet — Bharatanatyam margam  
-B. Bhama Kalapam — Kuchipudi  
-C. Borgeet — Sattriya  
+A. Tanjore Quartet — Bharatanatyam margam
+B. Bhama Kalapam — Kuchipudi
+C. Borgeet — Sattriya
 D. Bindadin Maharaj — Kathakali chutti
 
 <details>
@@ -926,13 +926,13 @@ D. Bindadin Maharaj — Kathakali chutti
 
 **Q36.** With reference to Abhinaya Darpana and Natyashastra, which of the following statements is/are correct?
 
-1. Natyashastra is attributed to Bharata.  
-2. Abhinaya Darpana is attributed to Nandikesvara.  
+1. Natyashastra is attributed to Bharata.
+2. Abhinaya Darpana is attributed to Nandikesvara.
 3. Both texts are used in classical dance training.
 
-A. 1 and 2 only  
-B. 1 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -942,12 +942,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q37.** Assertion (A): Two SNA classical dances belong to Kerala.  
+**Q37.** Assertion (A): Two SNA classical dances belong to Kerala.
 Reason (R): Kathakali is lasya and Mohiniyattam is tandava.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -959,21 +959,21 @@ D. (A) is false, but (R) is true
 
 **Q38.** Match List-I with List-II.
 
-**List-I**  
-A. Wajid Ali Shah  
-B. Siddhendra Yogi  
-C. Guru Bipin Singh  
-D. E. Krishna Iyer  
+**List-I**
+A. Wajid Ali Shah
+B. Siddhendra Yogi
+C. Guru Bipin Singh
+D. E. Krishna Iyer
 
-**List-II**  
-1. Kuchipudi  
-2. Lucknow Kathak court  
-3. Bharatanatyam public defence  
-4. Manipuri concert form  
+**List-II**
+1. Kuchipudi
+2. Lucknow Kathak court
+3. Bharatanatyam public defence
+4. Manipuri concert form
 
-A. 2 1 4 3  
-B. 2 4 1 3  
-C. 1 2 4 3  
+A. 2 1 4 3
+B. 2 4 1 3
+C. 1 2 4 3
 D. 2 1 3 4
 
 <details>
@@ -985,13 +985,13 @@ D. 2 1 3 4
 
 **Q39.** Which of the following is/are correct?
 
-1. Mayurbhanj Chhau is known for dancing without a mask.  
-2. Purulia Chhau is in West Bengal.  
+1. Mayurbhanj Chhau is known for dancing without a mask.
+2. Purulia Chhau is in West Bengal.
 3. Chhau is the classical dance of Odisha in the SNA eight.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 only
 D. 1, 2 and 3
 
 <details>
@@ -1003,9 +1003,9 @@ D. 1, 2 and 3
 
 **Q40.** Which of the following pairs is NOT correctly matched?
 
-A. Shanta — ninth rasa in later lists  
-B. Aharya — costume/makeup  
-C. Natya — pure nritta without drama  
+A. Shanta — ninth rasa in later lists
+B. Aharya — costume/makeup
+C. Natya — pure nritta without drama
 D. Sattvika — inner emotion
 
 <details>
@@ -1023,21 +1023,19 @@ D. Sattvika — inner emotion
 
 **Trap:** UPPCS **2018 Q13** option “Kathak” is a Shukla Yajurveda *samhita* name, **not** the dance.
 
-**External high-yield (UPSC — not in local `pyq/`)**
-
-**UPSC Prelims 2014 (Sattriya) — not yet in local pyq/**
+**External high-yield (UPSC — not in local `pyq/`)UPSC Prelims 2014 (Sattriya) — not yet in local pyq/**
 
 With reference to the famous Sattriya dance, consider the following statements:
 
-1. Sattriya is a combination of music, dance and drama.  
-2. It is a centuries-old living tradition of Vaishnavites of Assam.  
+1. Sattriya is a combination of music, dance and drama.
+2. It is a centuries-old living tradition of Vaishnavites of Assam.
 3. It is performed only during festive occasions.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 1 and 2 only  
-C. 1, 2 and 3  
+A. 1 only
+B. 1 and 2 only
+C. 1, 2 and 3
 D. 2 and 3 only
 
 <details>
@@ -1051,9 +1049,9 @@ D. 2 and 3 only
 
 How many of the following are correctly matched?
 
-1. Bharatanatyam — Tamil Nadu  
-2. Mohiniyattam — Kerala  
-3. Sattriya — Assam  
+1. Bharatanatyam — Tamil Nadu
+2. Mohiniyattam — Kerala
+3. Sattriya — Assam
 
 <details>
 <summary>Show answer</summary>
@@ -1070,7 +1068,7 @@ How many of the following are correctly matched?
 |------|------|-----------|--------|
 | Dec 2023 | **Garba of Gujarat** UNESCO ICH (then India’s 15th) | Folk ≠ classical. Year/state | UNESCO 18.COM, Kasane |
 | Aug 2024 | **Yamini Krishnamurthy** died (Bharatanatyam + Kuchipudi) | Personality match | Press, 3 Aug 2024 |
-| Jan 2022 | **Birju Maharaj** died (Lucknow Kathak) | UP gharana lock | Standing personality fact |
+| Jan 2022 | **Birju Maharaj** died (Lucknow Kathak) | UP gharana fact | Standing personality fact |
 
 Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
@@ -1088,7 +1086,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 8. Garba UNESCO **2023** is still **folk**.
 9. Tribhangi is **Odissi**, not Bharatanatyam.
 10. Tarangam plate is **Kuchipudi**, not Mohiniyattam.
-11. The Kathak percussion lock is **tabla / Hindustani**, not mridangam.
+11. The Kathak percussion fact is **tabla / Hindustani**, not mridangam.
 12. Cheraw belongs to **Mizoram**, not Manipur.
 13. Lucknow Kathak belongs to **UP**. Kelucharan is Odissi, not Lucknow.
 14. Gotipua are boys. Mahari are temple women.

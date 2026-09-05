@@ -8,20 +8,20 @@
 Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperature / Thermohaline | Salinity | Tides & Waves | Deposits | Straits | Canals | UNCLOS (12 / 24 / 200) | Fisheries | Polar Regions | Antarctic Treaty
 </details>
 
-> **Sources baked in:** NCERT Class 11 (Oceans); **PWOnlyIAS Udaan** (ocean-floor relief); **Drishti** To-the-Point (ocean currents); **ForumIAS UPPSC** oceanography map; Lucent match-lists; UNCLOS; UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — warm vs cold currents, trench–ocean match, salinity belt, Suez, UNCLOS miles, Maitri–Bharati; teach full ocean map  
-> **Last verified:** August 2026 — coaching gap-pass (density, waves, current effects, shelf economics)  
+> **Sources baked in:** NCERT Class 11 (Oceans); **PWOnlyIAS Udaan** (ocean-floor relief); **Drishti** To-the-Point (ocean currents); **ForumIAS UPPSC** oceanography map; Lucent match-lists; UNCLOS; UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — warm vs cold currents, trench–ocean match, salinity belt, Suez, UNCLOS miles, Maitri–Bharati; teach full ocean map
+> **Last verified:** August 2026 — coaching gap-pass (density, waves, current effects, shelf economics)
 > **Current Affairs:** BBNJ high-seas treaty (2023) once; Antarctic stations static
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
 2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
 3. India’s **west shelf is wider than the east**. The Gujarat–Mumbai belt is widest and holds **Bombay High**. The east shelf is narrower but carries large delta fans.
 4. The **Telegraphic Plateau** is part of the **North Atlantic Ridge**, not a separate land plateau.
-5. Trench–ocean locks: **Mariana–Pacific**, **Puerto Rico–Atlantic**, **Sunda/Java–Indian**, and **Molloy–Arctic**.
+5. Trench–ocean facts: **Mariana–Pacific**, **Puerto Rico–Atlantic**, **Sunda/Java–Indian**, and **Molloy–Arctic**.
 6. **Agulhas** and **Brazil** are **warm** currents. **Humboldt (Peru)** and **California** are **cold**. Do not mark Agulhas or Brazil as cold.
 7. The **Benguela** is an **Atlantic** cold current off south-west Africa. It is **not** a Pacific current.
 8. Among classic MCQ options, the current linked to the **Indian Ocean** is the **Agulhas**.
@@ -30,27 +30,27 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 11. Seawater density rises when water is **colder** and **saltier**. Cold salty water sinks and drives the **thermohaline** circulation. **NaCl** is about **77%** of dissolved salts.
 12. Surface temperature peaks near the equator. The **thermocline** lies roughly **300–1000 m**. Deep water is cold in every ocean.
 13. A **spring tide** forms at **syzygy** (new/full moon) and is **large**. A **neap tide** forms at **quadrature** and is **small**. The tidal period is about **12 h 25 min**, not 12 h 30.
-14. A **tidal bore** is famous on the **Hooghly** and the **Amazon**. The **Bay of Fundy** has the world’s greatest tidal range. India’s tidal-energy coast lock is the **Gulf of Khambhat**.
+14. A **tidal bore** is famous on the **Hooghly** and the **Amazon**. The **Bay of Fundy** has the world’s greatest tidal range. India’s tidal-energy coast fact is the **Gulf of Khambhat**.
 15. **Upwelling** is strongest on **west coasts**: Peru, California, Canary, Benguela, and Somalia.
 16. **Constructive** waves build beaches; **destructive** waves erode them. A **tsunami** is not a tide.
 17. Ocean currents shape climate (mild or foggy coasts, west-coast deserts), concentrate fish where warm and cold meet or upwelling occurs, and affect navigation routes.
 18. Deepest deposit is **red clay**. **Globigerina** and **pteropod** oozes are **calcareous**. **Diatom** and **radiolarian** oozes are **siliceous**. **Manganese nodules** sit on abyssal plains, especially in the Pacific and the Central Indian Ocean Basin.
-19. The **Suez Canal** joins the **Mediterranean** and the **Red Sea**. North to south the lakes are **Manzala → Timsah → Great Bitter → Little Bitter**. It cut the India–Europe sea route by about **7000 km**. Suez is **sea-level** and has **no locks**.
-20. The **Panama Canal** joins the **Atlantic/Caribbean** and the **Pacific** and uses **locks** (with Gatun Lake). The **Kiel Canal** joins the **North Sea** and the **Baltic**.
+19. The **Suez Canal** joins the **Mediterranean** and the **Red Sea**. North to south the lakes are **Manzala → Timsah → Great Bitter → Little Bitter**. It cut the India–Europe sea route by about **7000 km**. Suez is **sea-level** and has **no facts**.
+20. The **Panama Canal** joins the **Atlantic/Caribbean** and the **Pacific** and uses **facts** (with Gatun Lake). The **Kiel Canal** joins the **North Sea** and the **Baltic**.
 21. UNCLOS belts: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf starts at **200 nm** and may extend to **350 nm**.
-22. Classic fishery locks: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
+22. Classic fishery facts: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
 23. India’s **operational** Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational pair. **Himadri** is India’s **Arctic** station, not Antarctic.
 24. The **Antarctic Treaty** dates to **1959/61**. India joined in **1983**. India is an **observer** in the Arctic Council.
 25. Key straits: **Hormuz** (Gulf oil), **Malacca** (Indian Ocean–South China Sea), **Gibraltar** (Med–Atlantic), **Bering** (Asia–America), **Bab-el-Mandeb**, **Palk**, and the **10° Channel**.
 26. The **Carlsberg Ridge** lies in the north-west Indian Ocean. The **Ninetyeast Ridge** is not the Mid-Atlantic Ridge.
 27. The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica). India’s inland waterway **NW-1** is the **Ganga** from Haldia to Prayagraj.
-28. **Drake Passage** is not the Strait of Magellan. Panama opened with locks in **1914**; Suez opened in **1869** without locks.
+28. **Drake Passage** is not the Strait of Magellan. Panama opened with facts in **1914**; Suez opened in **1869** without facts.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Benguela | **Atlantic** cold (SW Africa) | Pacific | बेंगुएला |
 | Humboldt / Peru | **Pacific** cold | Atlantic | हम्बोल्ट |
@@ -64,7 +64,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | Sunda/Java trench | **Indian** | Pacific | सुंडा |
 | Molloy Deep | **Arctic** | Atlantic | मोलॉय |
 | Suez | **Med ↔ Red** | Directly Atlantic–Indian | स्वेज |
-| Panama | Atlantic ↔ **Pacific** + **locks** | No locks like Suez | पनामा |
+| Panama | Atlantic ↔ **Pacific** + **facts** | No facts like Suez | पनामा |
 | EEZ vs territorial | **200 nm** vs **12 nm** | Swapped | EEZ / क्षेत्रीय जल |
 | Maitri + Bharati | Operational Antarctica | Dakshin Gangotri still open | मैत्री / भारती |
 | Himadri | **Arctic** (Svalbard) | Antarctica | हिमाद्री |
@@ -80,7 +80,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | Arctic Council | India = **observer** (2013) | Full member | आर्कटिक परिषद |
 | Neritic vs hadal | Over **shelf** vs inside **trench** | Same depth word | नेरिटिक / हैडल |
 | Territorial vs EEZ | **12 nm** vs **200 nm** | Swapped | 12 ≠ 200 |
-| India west vs east shelf | **West wider** (overall coaching lock) | East always wider | पश्चिमी शेल्फ |
+| India west vs east shelf | **West wider** (overall coaching fact) | East always wider | पश्चिमी शेल्फ |
 | Constructive vs destructive wave | Builds beach vs **erodes** | Same | रचनात्मक / विनाशकारी |
 | Upwelling coast | **West** coast of continent | East coast rule | उत्प्रवाह |
 
@@ -113,9 +113,9 @@ Teach the **full ocean map** — next year can ask any standard NCERT current, t
 
 Five named oceans plus many seas and gulfs. Area order and Indian Ocean identity are high-yield.
 
-| Ocean | Lock |
+| Ocean | Fact |
 |-------|------|
-| **Pacific** | Largest + deepest; ~1/3 Earth; Ring of Fire (volcanoes ) |
+| **Pacific** | Largest + deepest; ~1/3 Earth; Ring of Fire (volcanoes) |
 | **Atlantic** | S-shaped; Mid-Atlantic Ridge; Telegraphic Plateau |
 | **Indian** | Mostly S of Asia; **both sides of Equator**; Greeks: **Erythraean Sea** |
 | **Southern** | Around Antarctica; **Antarctic Circumpolar Current** (only circumpolar) |
@@ -151,9 +151,9 @@ D. Only 1
 
 **Gulfs / bays**
 
-A gulf or bay is an arm of the sea into the land. Exam ask: which sea does it open into, and which strait guards the mouth?
+A gulf or bay is an arm of the sea into the land. ask: which sea does it open into, and which strait guards the mouth?
 
-| Name | Where | Opens into | Exam lock |
+| Name | Where | Opens into | Key fact |
 |------|-------|------------|-----------|
 | **Persian / Arab Gulf** | Between Iran and Arabia | Gulf of Oman → Arabian Sea | Mouth = **Strait of Hormuz** (oil chokepoint) |
 | **Gulf of Oman** | SE of Hormuz | Arabian Sea | Outer side of Hormuz; **not** the same as Persian Gulf |
@@ -192,9 +192,9 @@ The ocean floor profile is the skeleton of every later card.
 - Continental **margin** = shelf + slope + rise
 - Beyond margin = plain / hills / seamounts **or** trench **or** mid-ocean ridge
 
-| Step | Depth / slope | What it is | Exam meat |
+| Step | Depth / slope | What it is | meat |
 |------|----------------|------------|-----------|
-| **Continental shelf** | Shore to **shelf break ~100–200 m**; slope ≤1°; ~**7.5%** of ocean area; avg width ~**80 km** | Drowned edge of the continent | **Fisheries + oil/gas**; world widest = **Siberian / Arctic**. India coaching lock: **west shelf wider than east** (Gujarat–Mumbai / Khambhat up to ~300 km; Konkan–Kerala narrower). East coast shelf is narrower overall but carries big **delta / Bengal Fan** sediment. Oil cue: **Bombay High** (west); KG basin awareness (east) |
+| **Continental shelf** | Shore to **shelf break ~100–200 m**; slope ≤1°; ~**7.5%** of ocean area; avg width ~**80 km** | Drowned edge of the continent | **Fisheries + oil/gas**; world widest = **Siberian / Arctic**. India coaching fact: **west shelf wider than east** (Gujarat–Mumbai / Khambhat up to ~300 km; Konkan–Kerala narrower). East coast shelf is narrower overall but carries big **delta / Bengal Fan** sediment. Oil cue: **Bombay High** (west); KG basin awareness (east) |
 | **Shelf break** | ~130–200 m | Sudden steepening | Marks end of “neritic” zone |
 | **Continental slope** | ~200 m down to **~3000 m**; 2–5° | True edge of the continental block | Cut by **submarine canyons**; **turbidity currents** race down them |
 | **Deep-sea fan / cone** | Foot of a canyon | Turbidite dump | Same idea as an alluvial fan, underwater |
@@ -207,7 +207,7 @@ The ocean floor profile is the skeleton of every later card.
 - **Passive** (Atlantic type): shelf → slope → **rise** → plain
 - **Active** (Pacific type): shelf → slope → **trench** (little or no rise)
 
-| Form | Lock |
+| Form | Meaning |
 |------|------|
 | **Seamount** | Undersea volcano, **peaked**, rises **>1000 m** from the floor, does not break the surface (Emperor Seamount cue) |
 | **Guyot** | **Flat-topped** seamount — waves planed it when it was an island, then it drowned |
@@ -221,7 +221,7 @@ The ocean floor profile is the skeleton of every later card.
 
 **Named ridges**
 
-| Ridge | Lock |
+| Ridge | Fact |
 |-------|------|
 | Mid-Atlantic | S-shaped; **Telegraphic Plateau** on the **North** arm |
 | East Pacific Rise | Fast spreading |
@@ -259,7 +259,7 @@ D. Pacific Ridge only
 
 **Ocean deposits (NCERT)**
 
-| Deposit | Lock |
+| Deposit | Fact |
 |---------|------|
 | Terrigenous | Land mud/sand on shelf–slope |
 | **Red clay** | Deepest abyssal; volcanic/meteoric; **carbonate dissolved** |
@@ -291,9 +291,9 @@ D. Pacific Ridge only
 
 ## N.3 Trenches
 
-Trenches sit on **active** (convergent) margins. Match the deepest exam point to the ocean.
+Trenches sit on **active** (convergent) margins. Match the deepest point to the ocean.
 
-| Ocean | Deepest exam point |
+| Ocean | Deepest point |
 |-------|-------------------|
 | **Pacific** | **Mariana** (Challenger Deep) |
 | **Arctic** | **Molloy Deep** |
@@ -374,9 +374,7 @@ Ocean currents are driven by prevailing winds, the **Coriolis** force (deflectio
 
 **Southern**
 - West Wind Drift / **Antarctic Circumpolar** = **cold**
-- Only current that **circles the globe**
-
-**East-coast rule:** warm currents (Brazil, Agulhas, Kuroshio, Gulf Stream, East Australian).  
+- Only current that **circles the globeEast-coast rule:** warm currents (Brazil, Agulhas, Kuroshio, Gulf Stream, East Australian).
 **West-coast rule:** cold upwelling (Humboldt, California, Canary, Benguela).
 
 **Upwelling (cold + fish)**
@@ -501,7 +499,7 @@ D. Tide comes on the Earth every day after exactly 12 hours 30 minutes.
 
 The Moon’s pull exceeds the Sun’s. A lunar day is about **24 h 50 min**, so successive high tides are about **12 h 25 min** apart — **not** exactly 12 h 30 min.
 
-| Type | Lock |
+| Type | Meaning |
 |------|------|
 | **Spring** | Sun–Earth–Moon **straight** (new/full) → **LARGE** tide |
 | **Neap** | Quadrature (1st/3rd quarter) → **SMALL** |
@@ -510,12 +508,12 @@ The Moon’s pull exceeds the Sun’s. A lunar day is about **24 h 50 min**, so 
 | Mixed | Unequal highs |
 
 - Highest tidal range in the world = **Bay of Fundy** (Canada).
-- India’s tidal-energy MCQ lock = **Gulf of Khambhat** (ahead of Kutch in standard options).
+- India’s tidal-energy MCQ fact = **Gulf of Khambhat** (ahead of Kutch in standard options).
 
 **Tidal bore**
 
 - A bore is a wall of tide in a funnel estuary.
-- India lock: **Hooghly**. World cues: Amazon, Qiantang (China).
+- India: **Hooghly**. World cues: Amazon, Qiantang (China).
 - Flood = rising; ebb = falling. A perigean spring is extra-large (Moon at perigee).
 
 **Waves (ForumIAS: teach separately from tides)**
@@ -547,9 +545,9 @@ D. Konkan only without gulf funnel
 
 ## N.7 Straits
 
-A strait is a narrow natural waterway joining two larger water bodies. Lock **which two seas** it joins.
+A strait is a narrow natural waterway joining two larger water bodies. Fact **which two seas** it joins.
 
-| Strait | Joins / lock |
+| Strait | Joins / fact |
 |--------|----------------|
 | **Hormuz** | Persian Gulf ↔ Gulf of Oman |
 | **Malacca** | Andaman/S. China side ↔ Indian Ocean; Malaysia–Indonesia |
@@ -581,18 +579,18 @@ A strait is a narrow natural waterway joining two larger water bodies. Lock **wh
 | Otranto | Adriatic ↔ Ionian |
 | Skagerrak / Kattegat | North Sea ↔ Baltic approaches |
 
-- Exam: which two seas does the strait join?
+-: which two seas does the strait join?
 
 ---
 
 ## N.8 Canals & Waterways
 
-Canals shorten trade routes. Lock the seas joined, the year, and whether locks are needed.
+Canals shorten trade routes. Fact the seas joined, the year, and whether facts are needed.
 
-| Canal | Lock |
+| Canal | Fact |
 |-------|------|
-| **Suez** | **1869** · **no locks** · Med ↔ **Red Sea** · India–Europe **~7000 km** shorter |
-| **Panama** (1914, **locks**) | Atlantic ↔ **Pacific** |
+| **Suez** | **1869** · **no facts** · Med ↔ **Red Sea** · India–Europe **~7000 km** shorter |
+| **Panama** (1914, **facts**) | Atlantic ↔ **Pacific** |
 | **Kiel** | North Sea ↔ Baltic |
 | Corinth | Ionian ↔ Aegean (Greece, awareness) |
 
@@ -600,10 +598,10 @@ Canals shorten trade routes. Lock the seas joined, the year, and whether locks a
 |--|----------|-----------|
 | Opened | **1869** | **1914** |
 | Joins | Med ↔ **Red** | Atlantic ↔ **Pacific** |
-| Locks | **None** (sea-level) | **Yes** (Gatun) |
+| Facts | **None** (sea-level) | **Yes** (Gatun) |
 | India–Europe | Cut **~7000 km** | Not the Europe shortcut |
 
-**Suez lakes north → south:** **Manzala → Timsah → Great Bitter → Little Bitter**.
+**Suez lakes north → south:Manzala → Timsah → Great Bitter → Little Bitter**.
 
 **Other waterways**
 
@@ -767,7 +765,7 @@ D. Dakshin Gangotri and Bharati
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 75 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Which are **NOT** cold ocean currents? 1 Agulhas 2 Brazil 3 Humboldt 4 California
@@ -1535,7 +1533,7 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Benguela = Atlantic. R is the 2023 true salinity lock.
+**Ans: D** — Benguela = Atlantic. R is the 2023 true salinity fact.
 </details>
 
 ---
@@ -1679,9 +1677,9 @@ D. Ross Sea only
 
 **Q54.** Suez Canal (unlike Panama) is famous for:
 
-A. Many locks
+A. Many facts
 
-B. No locks (sea-level)
+B. No facts (sea-level)
 
 C. Joining Atlantic–Pacific
 
@@ -1941,7 +1939,7 @@ B. Abyssal plains (Pacific / CIOB)
 
 C. Glacier cirques
 
-D. Suez locks
+D. Suez facts
 
 <details>
 <summary>Show answer</summary>
@@ -1969,7 +1967,7 @@ D. Kuroshio
 ---
 
 
-**Q71.** Which of the following statements about India’s continental shelf is correct in the standard coaching lock?
+**Q71.** Which of the following statements about India’s continental shelf is correct in the standard coaching fact?
 
 A. The eastern shelf is everywhere wider than the western shelf
 
@@ -1982,7 +1980,7 @@ D. Shelves exist only in the Arctic, never off India
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — ForumIAS / GKToday-style lock: **west wider than east**. Bombay High sits on the west shelf.
+**Ans: B** — ForumIAS / GKToday-style fact: **west wider than east**. Bombay High sits on the west shelf.
 </details>
 
 ---
@@ -2036,7 +2034,7 @@ D. Only EEZ lines are drawn on a map
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Classic UPSC/Drishti lock (Grand Banks type).
+**Ans: B** — Classic UPSC/Drishti fact (Grand Banks type).
 </details>
 
 ---
@@ -2332,7 +2330,7 @@ D. 10,000 km
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Standard Lucent/exam lock **~7,000 km**.
+**Ans: B** — Standard Lucent/key fact **~7,000 km**.
 </details>
 
 ---
@@ -2382,7 +2380,7 @@ D. (A) is false. but (R) is true
 11. **Dakshin Gangotri still operational** — FALSE. **Maitri + Bharati**.
 12. **Himadri = Antarctica** — FALSE. **Arctic**.
 13. **EEZ = 12 nm** — FALSE. Territorial **12**; EEZ **200**.
-14. **Panama has no locks** — FALSE. **Suez** is sea-level; Panama has locks.
+14. **Panama has no facts** — FALSE. **Suez** is sea-level; Panama has facts.
 15. **Kurile/Oyashio = Indian Ocean** — FALSE. **Pacific cold**. Indian MCQ = **Agulhas**.
 16. **Telegraphic Plateau = Indian Ocean Ridge** — FALSE. **North Atlantic Ridge**.
 17. **Guyot = peaked seamount** — FALSE. **Flat top**.
@@ -2396,7 +2394,7 @@ D. (A) is false. but (R) is true
 25. **Himadri = Maitri’s other name** — FALSE. Himadri = **Arctic**.
 26. **ISA mines the EEZ** — FALSE. ISA = **the Area** beyond national zones.
 27. **Skip ocean floor / deposits because recent papers asked currents** — FALSE. Next year can ask any standard NCERT trench, deposit or UNCLOS zone.
-28. **India east shelf always wider than west** — FALSE. Coaching lock = **west wider** overall (Gujarat–Mumbai).
+28. **India east shelf always wider than west** — FALSE. Coaching fact = **west wider** overall (Gujarat–Mumbai).
 29. **Density ignores salinity** — FALSE. Cold + salt (+ pressure) set density and deep flow.
 30. **Waves = tides** — FALSE. Waves need wind/fetch; tides need Moon/Sun gravity.
 31. **Upwelling on east coasts of continents** — FALSE. Classic upwelling = **west** coasts.

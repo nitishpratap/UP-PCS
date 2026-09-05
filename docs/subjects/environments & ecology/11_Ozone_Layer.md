@@ -8,13 +8,13 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 
 </details>
 
-> **Sources baked in:** NCERT Geography/Biology, UNEP Ozone Secretariat, Vienna Convention 1985, Montreal Protocol 1987, WMO assessments, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★ Medium–High — CFC mechanism, treaty traps, ozone hole geography  
+> **Sources baked in:** NCERT Geography/Biology, UNEP Ozone Secretariat, Vienna Convention 1985, Montreal Protocol 1987, WMO assessments, UPPCS PYQs 2018–2025
+> **Weight:** ★★ Medium–High — CFC mechanism, treaty traps, ozone hole geography
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Ozone (O₃) is triatomic oxygen. **Stratospheric ozone** (about **15–35 km**) is protective “good” ozone. **Tropospheric ozone** is a ground-level pollutant.
 2. The **Chapman cycle** describes natural formation and destruction balance of stratospheric ozone.
@@ -31,9 +31,9 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 13. Treaty trap: **Montreal = ozone**; **Kyoto/Paris = climate**. Never swap the issue tags.
 14. Global average ozone column is often near about **300 DU**; the hole threshold is **<220 DU**.
 15. India ratified Montreal in **1992**. The nodal unit is the **Ozone Cell, MoEFCC**.
-16. India CFC phase-out lock is **2010**. HCFC freeze is **2020**; complete HCFC phase-out aims at **2030**.
-17. India’s Kigali HFC phase-down commitment begins from **2028** in standard coaching locks.
-18. Stratospheric ozone protects life; tropospheric ozone harms lungs and crops — same molecule, opposite exam verdict by layer.
+16. India CFC phase-out fact is **2010**. HCFC freeze is **2020**; complete HCFC phase-out aims at **2030**.
+17. India’s Kigali HFC phase-down commitment begins from **2028** in standard coaching facts.
+18. Stratospheric ozone protects life; tropospheric ozone harms lungs and crops — same molecule, opposite verdict by layer.
 19. Vienna is the framework convention; Montreal is the binding control protocol — parallel to UNFCCC/Kyoto structure, but for ozone.
 20. Dobson Unit measures total ozone column, not ground-level ppm of pollution ozone.
 21. Polar stratospheric clouds enable chlorine activation — that is why the deep hole is polar-spring specific.
@@ -43,7 +43,7 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -72,11 +72,11 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 - **Stratospheric ozone** is protective. **Tropospheric ozone** is a harmful air pollutant and greenhouse gas.
 - Without the ozone layer, lethal UV levels would reach Earth's surface and damage DNA, crops, and marine plankton.
 
-> **Exam note:** UPPCS 2023 pattern — ozone layer is in the **stratosphere**, not troposphere.
+> ** note:** UPPCS 2023 pattern — ozone layer is in the **stratosphere**, not troposphere.
 
 **PYQ — UPPCS Prelims 2025, Q45**
 
-1. The ozone layer protects Earth from ultraviolet radiation.  
+1. The ozone layer protects Earth from ultraviolet radiation.
 2. Ozone depletion has been linked to CFCs.
 
 A. Only 2
@@ -117,7 +117,7 @@ D. Only 1
 - Increased UV-B raises **skin cancer, cataracts, crop damage, and marine food chain stress**.
 - After the Montreal Protocol, ODS emissions fell about **99%**. Mid-latitude recovery is expected around **2040**.
 
-> **Exam note:** CFCs destroy ozone by **UV chemistry**, not by greenhouse trapping — that is a separate effect.
+> ** note:** CFCs destroy ozone by **UV chemistry**, not by greenhouse trapping — that is a separate effect.
 
 | ODS | Main use |
 |-----|----------|
@@ -143,7 +143,7 @@ D. Only 1
 - India is not under the ozone hole, but **Himalayan high altitude** increases UV-B exposure risk.
 - WMO projects **Antarctic recovery to 1980 levels around 2066** if Montreal controls continue.
 
-> **Exam note:** Trap — "ozone hole over Arctic every winter" is **false**. Classic hole = **Antarctic spring**.
+> ** note:** Trap — "ozone hole over Arctic every winter" is **false**. Classic hole = **Antarctic spring**.
 
 | Feature | Antarctic | Arctic |
 |---------|-----------|--------|
@@ -168,7 +168,7 @@ D. Only 1
 - The **Kigali Amendment (2016)** phases down **HFCs**, which do not deplete ozone but have **high global warming potential**.
 - **Montreal controls ozone**. **Kyoto controls climate**. Do not swap them.
 
-> **Exam note:** UPPCS 2024 Q35 — climate mitigation treaty = **Kyoto**, not Montreal.
+> ** note:** UPPCS 2024 Q35 — climate mitigation treaty = **Kyoto**, not Montreal.
 
 **PYQ — UPPCS Prelims 2024, Q35**
 
@@ -199,11 +199,9 @@ D. CITES
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
+> **30 questionsQ1.** With reference to ozone, which statements is/are correct?
 
-**Q1.** With reference to ozone, which statements is/are correct?
-
-1. Stratospheric ozone protects from UV radiation.  
+1. Stratospheric ozone protects from UV radiation.
 2. Tropospheric ozone is always beneficial.
 
 A. Only 1
@@ -222,7 +220,7 @@ D. Neither
 
 **Q2.** With reference to ozone depletion, which statements is/are correct?
 
-1. CFCs are linked to ozone depletion.  
+1. CFCs are linked to ozone depletion.
 2. One chlorine atom can destroy many ozone molecules.
 
 A. Only 1
@@ -527,7 +525,7 @@ D. 600 DU
 
 </details>
 
-**Q21.** Assertion (A): Montreal Protocol is considered a successful environmental treaty.  
+**Q21.** Assertion (A): Montreal Protocol is considered a successful environmental treaty.
 Reason (R): It achieved near-universal ratification and cut ODS emissions drastically.
 
 A. Both true; R explains A
@@ -692,21 +690,7 @@ D. 2100
 
 ## Complete PYQ Bank (Topic 11)
 
-**Q1. UPPCS 2025, Q45** — UV protection + CFC link → **Ans: C (Both)**
-
-**Q2. UPPCS 2025, Q62** — Ozone Day 16 Sept correct; trap WWD 22 March → **Ans: B (Only 3)**
-
-**Q3. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: C**
-
-**Q4. UPPCS 2023, Q52** — Ozone layer in stratosphere → **Ans: C**
-
-**Q5. UPPCS 2022** — Ozone Day date → **Ans: 16 September**
-
-**Q6. UPPCS 2021, Q96 pattern** — World Ozone Day → **16 September**
-
-**Q7. UPPCS 2018, Q44 pattern** — Maximum ozone concentration in → **Stratosphere**
-
-**Q8. UPSC pattern** — Montreal Protocol controls → **ODS phase-out**
+**Q1. UPPCS 2025, Q45** — UV protection + CFC link → **Ans: C (Both)Q2. UPPCS 2025, Q62** — Ozone Day 16 Sept correct; trap WWD 22 March → **Ans: B (Only 3)Q3. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: CQ4. UPPCS 2023, Q52** — Ozone layer in stratosphere → **Ans: CQ5. UPPCS 2022** — Ozone Day date → **Ans: 16 SeptemberQ6. UPPCS 2021, Q96 pattern** — World Ozone Day → **16 SeptemberQ7. UPPCS 2018, Q44 pattern** — Maximum ozone concentration in → **StratosphereQ8. UPSC pattern** — Montreal Protocol controls → **ODS phase-out**
 
 ---
 
@@ -718,7 +702,7 @@ D. 2100
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Montreal = climate treaty | **Ozone / ODS** |
 | Ozone layer in troposphere | **Stratosphere** |

@@ -1,6 +1,6 @@
 # Awards
 
-> **Priority A** | About **8%** of Current Affairs  
+> **Priority A** | About **8%** of Current Affairs
 > **2025** papers asked many award questions. Learn winner, field, and award level carefully.
 
 ## What to note every time
@@ -19,7 +19,7 @@
 
 ### Padma Awards 2026 | announced 25 January 2026
 
-**What happened**  
+**What happened**
 On the eve of Republic Day, the Government announced the **Padma Awards 2026**. These are among India’s highest civilian honours. The President later confers them at Rashtrapati Bhavan, usually around March or April.
 
 **Total count**
@@ -36,7 +36,7 @@ On the eve of Republic Day, the Government announced the **Padma Awards 2026**. 
 |------|-------|-----------------|-------|
 | Dharmendra Singh Deol | Art | Maharashtra | Posthumous |
 | K T Thomas | Public Affairs | Kerala | |
-| **N Rajam** | Art | **Uttar Pradesh** | Important UP lock |
+| **N Rajam** | Art | **Uttar Pradesh** | Important UP fact |
 | P Narayanan | Literature and Education | Kerala | |
 | V S Achuthanandhan | Public Affairs | Kerala | Posthumous |
 
@@ -61,11 +61,11 @@ Sports examples:
 UP-linked Padma Shri names to keep: Anil Kumar Rastogi, Ashok Kumar Singh, Buddha Rashmi Mani, Chiranji Lal Yadav, Kewal Krishan Thakral, Mangala Kapoor, Praveen Kumar, Raghupat Singh (posthumous), Rajendra Prasad, and Shyam Sundar.
 
 !!! trap "Easy wrong options"
-    Putting Rohit Sharma in Vibhushan or Bhushan. Writing wrong total (for example seven Vibhushan). Forgetting that **N Rajam** is from **Uttar Pradesh**.
+ Putting Rohit Sharma in Vibhushan or Bhushan. Writing wrong total (for example seven Vibhushan). Forgetting that **N Rajam** is from **Uttar Pradesh**.
 
 ### Subhash Chandra Bose Aapda Prabandhan Puraskar 2026 | announced 23 January 2026
 
-**What happened**  
+**What happened**
 This yearly award honours excellent work in **disaster management**. It is announced on **23 January**, Netaji Subhas Chandra Bose’s birth anniversary (also observed as Parakram Diwas).
 
 **Winners**
@@ -84,7 +84,7 @@ This yearly award honours excellent work in **disaster management**. It is annou
 
 ### Global Teacher Prize 2026 | Rouble Nagi (India)
 
-**What happened**  
+**What happened**
 Indian educator and artist **Rouble Nagi** won the **GEMS Education Global Teacher Prize 2026**. The prize is worth **1 million US dollars**. It is run by the Varkey Foundation with UNESCO support. The winner was announced at the **World Governments Summit** in Dubai.
 
 **Why she won**
@@ -98,7 +98,7 @@ Indian educator and artist **Rouble Nagi** won the **GEMS Education Global Teach
 
 ### Soft culture award note
 
-- Early February coverage also noted a Grammy honour linked with the **Dalai Lama** at the **68th Grammy Awards** window. Keep this only as a soft lock unless a clear category is needed for a question.
+- Early February coverage also noted a Grammy honour linked with the **Dalai Lama** at the **68th Grammy Awards** window. Keep this only as a soft fact unless a clear category is needed for a question.
 
 ### Budget-linked sports push
 
@@ -110,10 +110,10 @@ Budget 2026–27 spoke of a stronger sports goods push and **Khelo India Mission
 
 ### Mark Lynton History Prize 2026 | William Dalrymple
 
-**What happened**  
+**What happened**
 Historian **William Dalrymple** won the **2026 Mark Lynton History Prize** for his book **The Golden Road: How Ancient India Transformed the World**.
 
-**Core locks**
+**Core facts**
 
 - Prize money: about **10,000 US dollars**.
 - The prize is part of the larger **J. Anthony Lukas** book prize family, linked with journalism schools at Harvard and Columbia.
@@ -121,7 +121,7 @@ Historian **William Dalrymple** won the **2026 Mark Lynton History Prize** for h
 
 ### Abel Prize 2026 | Gerd Faltings
 
-**What happened**  
+**What happened**
 The **Abel Prize** in mathematics for 2026 went to **Gerd Faltings** (announced in March; ceremony later in Oslo).
 
 **Easy memory**
@@ -129,7 +129,7 @@ The **Abel Prize** in mathematics for 2026 went to **Gerd Faltings** (announced 
 - Abel Prize is one of the highest honours in mathematics.
 - It is awarded by the Norwegian Academy of Science and Letters.
 
-### Oscars 2026 (soft culture lock)
+### Oscars 2026 (soft culture fact)
 
 - **98th** Academy Awards were held in Los Angeles.
 - Keep Best Picture / Director names only if a stem appears; Indian film **Homebound** was in International Feature discussions in coverage.
@@ -140,10 +140,10 @@ The **Abel Prize** in mathematics for 2026 went to **Gerd Faltings** (announced 
 
 ### Laureus World Sports Awards 2026 | Madrid
 
-**What happened**  
+**What happened**
 The **Laureus World Sports Awards 2026** were held in **Madrid, Spain**.
 
-**Core locks**
+**Core facts**
 
 - Sportsman of the Year: **Carlos Alcaraz** (Spain, tennis).
 - Sportswoman of the Year: **Aryna Sabalenka** (Belarus, tennis).
@@ -167,10 +167,10 @@ The **Laureus World Sports Awards 2026** were held in **Madrid, Spain**.
 
 ### International Booker Prize 2026 | 19 May 2026
 
-**What happened**  
+**What happened**
 The **International Booker Prize 2026** went to **Taiwan Travelogue** by **Yáng Shuāng-zǐ** (Taiwan), translated by **Lin King**. The winner was announced at London’s **Tate Modern**.
 
-**Core locks**
+**Core facts**
 
 - Book: **Taiwan Travelogue**.
 - Author: **Yáng Shuāng-zǐ**.
@@ -194,7 +194,7 @@ The **International Booker Prize 2026** went to **Taiwan Travelogue** by **Yáng
 
 ### Padma Awards investiture | second ceremony
 
-**What happened**  
+**What happened**
 President **Droupadi Murmu** conferred more Padma Awards at a Civil Investiture Ceremony at Rashtrapati Bhavan. One June coverage block spoke of **65** awards in that ceremony (2 Padma Vibhushan, 7 Padma Bhushan, 56 Padma Shri).
 
 **Names often listed in that window**
@@ -204,7 +204,7 @@ President **Droupadi Murmu** conferred more Padma Awards at a Civil Investiture 
 - Music: **Alka Yagnik**
 - Cricket: **Rohit Sharma**
 
-Remember: the full Padma 2026 list was announced in **January**; June is the **conferment** ceremony lock.
+Remember: the full Padma 2026 list was announced in **January**; June is the **conferment** ceremony fact.
 
 ### PM Modi’s June state honours
 
@@ -229,7 +229,7 @@ Remember: the full Padma 2026 list was announced in **January**; June is the **c
 
 ### Soft National Film Awards note
 
-July compilations listed winners from the **National Film Awards** cycle (Best Film / Actor / Actress names vary by edition). Lock exact film and artist only from the official PIB list for that ceremony before mocks.
+July compilations listed winners from the **National Film Awards** cycle (Best Film / Actor / Actress names vary by edition). Fact exact film and artist only from the official PIB list for that ceremony before mocks.
 
 ### Soft sports awards already elsewhere
 
@@ -248,7 +248,7 @@ July compilations listed winners from the **National Film Awards** cycle (Best F
 
 ### Dirac Medal 2026 | Deepak Dhar
 
-**What happened**  
+**What happened**
 Professor **Deepak Dhar** shared the **Dirac Medal 2026** of the Abdus Salam International Centre for Theoretical Physics (**ICTP**, Italy) for work in statistical physics, including the Abelian sandpile model.
 
 ### Miss Universe India 2026
@@ -264,29 +264,29 @@ Professor **Deepak Dhar** shared the **Dirac Medal 2026** of the Abdus Salam Int
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Global Teacher Prize — Indian winner.
+**Logic:** Global Teacher Prize — Indian winner.
 
 **Q1.** Who among the following won the Global Teacher Prize 2026?
 
-A. Rouble Nagi  
-B. Sonam Wangchuk  
-C. Ranjitsinh Disale  
+A. Rouble Nagi
+B. Sonam Wangchuk
+C. Ranjitsinh Disale
 D. Ziauddin Yousafzai
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Rouble Nagi** is the 2026 lock. Trap: inserting an older Indian education activist / earlier prize name.
+**Ans: A.** **Rouble Nagi** is the 2026 fact. Trap: inserting an older Indian education activist / earlier prize name.
 
 </details>
 
 ---
 
-**Exam logic:** Padma / Bose Aapda — national awards CA style.
+**Logic:** Padma / Bose Aapda — national awards CA style.
 
 **Q2.** With reference to national awards announced around January 2026, which of the following statements is/are correct?
 
@@ -295,25 +295,25 @@ D. Ziauddin Yousafzai
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both are January locks. Soft UP angle: remember **N Rajam** among Padma names for state CA.
+**Ans: C.** Both are January facts. Soft UP angle: remember **N Rajam** among Padma names for state CA.
 
 </details>
 
 ---
 
-**Exam logic:** Dalrymple / Abel Prize awards.
+**Logic:** Dalrymple / Abel Prize awards.
 
 **Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
-| List-I (Award / prize) | List-II (2026 lock) |
+| List-I (Award / prize) | List-II (2026 fact) |
 |------------------------|---------------------|
 | A. Mark Lynton History Prize | 1. Gerd Faltings |
 | B. Abel Prize | 2. William Dalrymple (*The Golden Road*) |
@@ -322,9 +322,9 @@ D. Only 1
 
 *Row order is not the answer code.*
 
-A. 2 1 3 4  
-B. 2 1 4 3  
-C. 1 2 3 4  
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 3 4
 D. 2 3 1 4
 
 <details>
@@ -336,31 +336,31 @@ D. 2 3 1 4
 
 ---
 
-**Exam logic:** Laureus 2026 winners (Madrid).
+**Logic:** Laureus 2026 winners (Madrid).
 
 **Q4.** Which of the following pairs is/are correctly matched for Laureus World Sports Awards 2026 (Madrid coverage)?
 
-1. Carlos Alcaraz — Sportsman lock in coverage  
-2. Aryna Sabalenka — Sportswoman lock in coverage  
-3. Paris Saint-Germain — Team lock in coverage  
+1. Carlos Alcaraz — Sportsman fact in coverage
+2. Aryna Sabalenka — Sportswoman fact in coverage
+3. Paris Saint-Germain — Team fact in coverage
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are April awards locks. Trap: inserting an older Laureus winner as 2026 lock.
+**Ans: D.** All three are April awards facts. Trap: inserting an older Laureus winner as 2026 fact.
 
 </details>
 
 ---
 
-**Exam logic:** Nordic PM honours Match.
+**Logic:** Nordic PM honours Match.
 
 **Q5.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -373,9 +373,9 @@ D. 1, 2 and 3
 
 *Row order is not the answer code.*
 
-A. 2 1 3 4  
-B. 1 2 3 4  
-C. 2 1 4 3  
+A. 2 1 3 4
+B. 1 2 3 4
+C. 2 1 4 3
 D. 2 3 1 4
 
 <details>
@@ -387,7 +387,7 @@ D. 2 3 1 4
 
 ---
 
-**Exam logic:** Uzbekistan Dustlik + Miss Universe India.
+**Logic:** Uzbekistan Dustlik + Miss Universe India.
 
 **Q6.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -400,9 +400,9 @@ D. 2 3 1 4
 
 *Row order is not the answer code.*
 
-A. 2 1 3 4  
-B. 2 1 4 3  
-C. 1 2 3 4  
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 3 4
 D. 2 3 1 4
 
 <details>
@@ -414,7 +414,7 @@ D. 2 3 1 4
 
 ---
 
-**Exam logic:** Padma 2026 split counts.
+**Logic:** Padma 2026 split counts.
 
 **Q7.** With reference to Padma Awards 2026, which of the following statements is/are correct?
 
@@ -438,7 +438,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Padma Vibhushan UP lock N Rajam.
+**Logic:** Padma Vibhushan UP fact N Rajam.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -462,7 +462,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Padma Vibhushan Kerala cluster.
+**Logic:** Padma Vibhushan Kerala cluster.
 
 **Q9.** Which of the following Padma Vibhushan 2026 pairs is/are correct?
 
@@ -486,7 +486,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Bose Aapda Puraskar January.
+**Logic:** Bose Aapda Puraskar January.
 
 **Q10.** With reference to Bose Aapda Puraskar 2026, which of the following statements is/are correct?
 
@@ -510,7 +510,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Nordic PM honours May.
+**Logic:** Nordic PM honours May.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -533,7 +533,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Slovakia / Seychelles June honours.
+**Logic:** Slovakia / Seychelles June honours.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -557,7 +557,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Abel Prize 2026.
+**Logic:** Abel Prize 2026.
 
 **Q13.** Who won the Abel Prize 2026 in coverage?
 
@@ -575,7 +575,7 @@ D. Lin King
 
 ---
 
-**Exam logic:** Sudarsan Pattnaik Russia sand honour.
+**Logic:** Sudarsan Pattnaik Russia sand honour.
 
 **Q14.** With reference to Sudarsan Pattnaik (June 2026), which of the following statements is/are correct?
 
@@ -598,7 +598,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Femina / Miss Universe India soft.
+**Logic:** Femina / Miss Universe India soft.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -621,7 +621,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Harvard South Asian Person of the Year soft April.
+**Logic:** Harvard South Asian Person of the Year soft April.
 
 **Q16.** With reference to April 2026 awards coverage, which of the following statements is/are correct?
 
@@ -644,7 +644,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Oscars soft Homebound.
+**Logic:** Oscars soft Homebound.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -667,7 +667,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Women Padma count.
+**Logic:** Women Padma count.
 
 **Q18.** With reference to Padma Awards 2026 totals, which of the following statements is/are correct?
 
@@ -691,7 +691,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Rohit Sharma Padma Shri.
+**Logic:** Rohit Sharma Padma Shri.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -714,7 +714,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Dirac vs Abel confused pair.
+**Logic:** Dirac vs Abel confused pair.
 
 **Q20.** Which of the following pairs is/are correctly matched?
 

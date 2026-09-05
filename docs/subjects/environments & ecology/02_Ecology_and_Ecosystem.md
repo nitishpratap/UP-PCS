@@ -8,13 +8,13 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 </details>
 
-> **Sources baked in:** NCERT Class 11–12 Biology, Odum, MEA 2005, TEEB/IPBES, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ Very High — core Prelims conceptual topic  
+> **Sources baked in:** NCERT Class 11–12 Biology, Odum, MEA 2005, TEEB/IPBES, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ Very High — core Prelims conceptual topic
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. **Ecology** is the **study** of organism–environment interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology.
 2. An **ecosystem** is a **functional unit** of biotic and abiotic interaction with energy flow and nutrient cycling. **Tansley (1935)** coined the word.
@@ -47,7 +47,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -76,7 +76,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 - **Ecology** (from Greek *Oikos* = house + *Logos* = study) is the study of relationships between living organisms and their environment.
 - **Ernst Haeckel** coined the term **Ecology** in **1866**.
-- NCERT exam definition: study of relationships of organisms with each other and with their environment.
+- NCERT definition: study of relationships of organisms with each other and with their environment.
 - Ecology is a **biological science** — distinct from environment studies (policy/law/economics).
 - **Ramdeo Misra** is regarded as the father of **ecology in India** (ecology teaching at BHU).
 - **Eugene P. Odum** is called the father of modern **ecosystem ecology** (*Fundamentals of Ecology*, 1953).
@@ -85,7 +85,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - **Autoecology** studies one species in its environment.
 - **Synecology** studies communities and ecosystems together.
 
-| Level | Exam example |
+| Level | example |
 |-------|--------------|
 | **Organism** | Camel water conservation in desert |
 | **Population** | Tiger population in Dudhwa |
@@ -94,7 +94,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 | **Biome** | Tropical deciduous forest of India |
 | **Biosphere** | Global life-support zone |
 
-> **Exam note:** Trap — Odum did **not** coin "ecosystem". **Tansley (1935)** did.
+> ** note:** Trap — Odum did **not** coin "ecosystem". **Tansley (1935)** did.
 
 ---
 
@@ -112,7 +112,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - **Anthropogenic ecosystems** depend on human inputs (cropland, aquaculture pond, sewage-treatment wetland).
 - Ecosystem size runs from **micro** (garden pond) to **macro** (river basin, biosphere).
 
-> **Exam note:** UPPCS 2021 Q41 — Assertion "components are not interdependent" is **false**.
+> ** note:** UPPCS 2021 Q41 — Assertion "components are not interdependent" is **false**.
 
 ---
 
@@ -129,11 +129,11 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ### Terrestrial ecosystems
 
-- A **terrestrial ecosystem** exists on land. Plants and animals that live on land are called **terrestrial** (UPPCS 2024 Q62).
+- A **terrestrial ecosystem** exists on land. Plants and animals that live on land are called **terrestrial**.
 - A **forest ecosystem** is dominated by trees. The Terai sal forests and Western Ghats evergreen tracts are common Indian examples.
 - A **grassland ecosystem** is dominated by grasses. Dudhwa Terai grasslands are a UP-relevant example.
 - A **desert ecosystem** is water-scarce and extreme in temperature. The Thar is India's classic desert tract.
-- Animals adapted to desert dryness are called **xericole** (UPPCS 2023 Q115).
+- Animals adapted to desert dryness are called **xericole**.
 - A **savanna** mixes grassland with scattered trees. Gir in Gujarat is India's best-known savanna-style lion habitat.
 - **Mountain ecosystems** show vegetation change with altitude along the Himalaya belts.
 - **Tundra** and **taiga** are cold-climate terrestrial types. They are not typical of the Indian mainland in Prelims options.
@@ -142,15 +142,15 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 - An **aquatic ecosystem** is water-based. **Lentic** water stands still in lakes and ponds. **Lotic** water flows in rivers and streams.
 - A **lentic ecosystem** is standing freshwater such as a lake, pond, or reservoir. Loktak and Dal Lake are lentic examples.
-- A **lotic ecosystem** is flowing freshwater such as a river or stream. The Ganga and Yamuna are lotic (UPPCS 2023 Q112).
+- A **lotic ecosystem** is flowing freshwater such as a river or stream. The Ganga and Yamuna are lotic.
 - **Wetlands**, **estuaries**, and **mangroves** are **transitional**. They are neither purely terrestrial nor purely open aquatic.
 
 ### Pond and lake zonation (lentic)
 
-| Zone | Location | Exam lock |
+| Zone | Location | Key fact |
 |------|----------|-----------|
 | **Littoral** | Shallow shore with rooted plants | Warmest, highest light |
-| **Limnetic** | Open water away from shore | Phytoplankton zone (UPPCS 2022 Q34) |
+| **Limnetic** | Open water away from shore | Phytoplankton zone |
 | **Profundal** | Deep water below light penetration | Low light, decomposers dominate |
 
 - The **littoral zone** is the shallow margin where rooted plants receive strong sunlight.
@@ -166,9 +166,9 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - The **benthic zone** is the sea floor and its sediments.
 - The **abyssal zone** is the deep ocean beyond the continental slope.
 
-- A human-made **cropland** is an **anthropogenic biome** (UPPCS 2018 Q46). It depends on irrigation, fertiliser, and harvest removal unlike a self-regulating natural forest.
+- A human-made **cropland** is an **anthropogenic biome**. It depends on irrigation, fertiliser, and harvest removal unlike a self-regulating natural forest.
 
-> **Exam note:** River = **lotic**. Lake = **lentic**. Cropland = **anthropogenic**, not natural grassland.
+> ** note:** River = **lotic**. Lake = **lentic**. Cropland = **anthropogenic**, not natural grassland.
 
 ---
 
@@ -182,7 +182,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - **Consumers (heterotrophs)** feed on other organisms. They include herbivores, carnivores, and omnivores arranged in trophic levels.
 - **Decomposers** break down dead organic matter and return minerals to the environment. Bacteria and fungi are the classic decomposers.
 - **Detritivores** feed directly on detritus. Earthworms are a common example.
-- In a typical stable ecosystem, **producers outnumber primary consumers** (UPPCS 2019 Q55).
+- In a typical stable ecosystem, **producers outnumber primary consumers**.
 
 ### Abiotic components
 
@@ -202,10 +202,10 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 | **Nutrient cycling** | Movement of chemical elements through biotic and abiotic pools |
 | **Energy flow** | One-way transfer of energy through trophic levels |
 
-- The movement of nutrient elements through living and non-living parts of an ecosystem is called a **bio-geochemical cycle** (UPPCS 2020 Q79).
-- **Food chains**, **food webs**, and **ecological pyramids** are covered in the next syllabus topic. Here the lock is that energy flow is unidirectional through trophic levels.
+- The movement of nutrient elements through living and non-living parts of an ecosystem is called a **bio-geochemical cycle**.
+- **Food chains**, **food webs**, and **ecological pyramids** are covered in the next syllabus topic. Here the fact is that energy flow is unidirectional through trophic levels.
 
-> **Exam note:** A **sere** is the community sequence in succession. It is **not** the name for nutrient cycling.
+> ** note:** A **sere** is the community sequence in succession. It is **not** the name for nutrient cycling.
 
 ---
 
@@ -221,16 +221,16 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - When resources are abundant and spread fairly, **more species** can coexist in a community. UPPCS 2024 tests the false claim that species number becomes **small** when resources are sufficient.
 - **Dominant species** often occupy a **broader niche** because they control more resources in the habitat.
 
-> **Exam note:** UPPCS 2024 Q9 — the false statement is option **C** (fewer species when resources are sufficient).
+> ** note:** UPPCS 2024 Q9 — the false statement is option **C** (fewer species when resources are sufficient).
 
 **PYQ — UPPCS Prelims 2024, Q9**
 
 Which statement is **not true** about "ecological niche"?
 
-Options:  
-A. Dominant species occupy extensive and broader ecological niche.  
-B. Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.  
-C. Number of species becomes small in ecological niche, if resources are sufficient.  
+Options:
+A. Dominant species occupy extensive and broader ecological niche.
+B. Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.
+C. Number of species becomes small in ecological niche, if resources are sufficient.
 D. Dominance of single species becomes minimum if the resource distribution is equitable in a habitat.
 
 <details><summary>Show answer</summary>
@@ -252,7 +252,7 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - **Bergmann's Rule** states that animals in colder climates tend to have larger body size. Bulk helps conserve body heat.
 - **Gloger's Rule** states that darker pigmentation is more common in warm and humid regions.
 
-> **Exam note:** Allen = smaller appendages in cold. Bergmann = larger body in cold. Do not swap the pair.
+> ** note:** Allen = smaller appendages in cold. Bergmann = larger body in cold. Do not swap the pair.
 
 ---
 
@@ -273,7 +273,7 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - When algae die, decomposers multiply and consume **dissolved oxygen** faster than it can be replenished.
 - Fish and other aerobic organisms die from oxygen starvation. UPPCS 2019 Q56 marks **both** nutrient enrichment and oxygen depletion as correct.
 
-> **Exam note:** Eutrophication statement 1 (nutrient enrichment) and statement 2 (DO depletion) are **both true**.
+> ** note:** Eutrophication statement 1 (nutrient enrichment) and statement 2 (DO depletion) are **both true**.
 
 ---
 
@@ -282,7 +282,7 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 **Identity:** Primary vs secondary | Phases M-E-R-S | Sere | Pioneer → climax
 
 - **Ecological succession** is the orderly, predictable replacement of one community by another over time in the same area.
-- The full set of communities that appear one after another is called a **sere** (UPPCS 2020 Q85). Each intermediate community is a **seral stage**.
+- The full set of communities that appear one after another is called a **sere**. Each intermediate community is a **seral stage**.
 - The final relatively stable community is the **climax community**.
 
 ### Primary vs secondary succession
@@ -294,10 +294,10 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 ### Lichens as pioneer and pollution indicator
 
 - **Lichens** often pioneer bare rock in primary succession because they tolerate harsh exposed surfaces.
-- Lichens are also sensitive **bio-indicators of air pollution**. They absorb pollutants from the air and fail to grow in dirty air (UPPCS 2025 Q61).
+- Lichens are also sensitive **bio-indicators of air pollution**. They absorb pollutants from the air and fail to grow in dirty air.
 - Trap: "lichens grow well in polluted areas" is **false**.
 
-### Phases of biotic succession (exam sequence)
+### Phases of biotic succession (sequence)
 
 | Phase | What happens |
 |-------|--------------|
@@ -314,16 +314,16 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - A **hydrosere** is succession in an aquatic habitat that gradually becomes terrestrial. A pond may pass through floating plants, reeds, marsh, meadow, and finally forest if sediment fills it in.
 - A **xerosere** is succession on dry land starting from bare rock or sand. The usual sequence runs lichen → moss → grass → shrub → forest as soil builds up.
 
-> **Exam note:** **Sere** = the community **sequence**. It is not the same word as "succession" itself, and it is not nutrient cycling.
+> ** note:Sere** = the community **sequence**. It is not the same word as "succession" itself, and it is not nutrient cycling.
 
 **PYQ — UPPCS Prelims 2024, Q26**
 
 Correct sequence of phases of Biotic succession?
 
-Options:  
-A. Ecesis – Migration – Reaction – Stabilisation  
-B. Ecesis – Migration – Stabilisation – Reaction  
-C. Migration – Reaction – Stabilisation – Ecesis  
+Options:
+A. Ecesis – Migration – Reaction – Stabilisation
+B. Ecesis – Migration – Stabilisation – Reaction
+C. Migration – Reaction – Stabilisation – Ecesis
 D. Migration – Ecesis – Reaction – Stabilisation
 
 <details><summary>Show answer</summary>
@@ -354,7 +354,7 @@ D. Migration – Ecesis – Reaction – Stabilisation
 - **Supporting services** underlie provisioning and regulating services. Without soil formation and primary production, food and timber cannot exist.
 - **TEEB** and **IPBES** later pushed economic valuation of ecosystem services for policy. This is mains/CA surface, not deep Prelims drill.
 
-> **Exam note:** Timber = **Provisioning**. Pollination = **Regulating**. Nutrient cycling = **Supporting**.
+> ** note:** Timber = **Provisioning**. Pollination = **Regulating**. Nutrient cycling = **Supporting**.
 
 ---
 
@@ -378,7 +378,7 @@ D. Migration – Ecesis – Reaction – Stabilisation
 - **Tropical rainforests** and **coral reefs** rank among the highest-NPP ecosystems because they combine strong sunlight with ample moisture.
 - **Deserts** show low NPP despite bright sunlight because water availability is the limiting factor.
 
-> **Exam note:** The **1% rule** applies to energy **captured by producers**. The **10% rule** applies to energy **transferred between trophic levels**. Both can be true in the same question.
+> ** note:** The **1% rule** applies to energy **captured by producers**. The **10% rule** applies to energy **transferred between trophic levels**. Both can be true in the same question.
 
 ---
 
@@ -388,8 +388,8 @@ D. Migration – Ecesis – Reaction – Stabilisation
 
 - **Raymond Lindeman (1942)** showed that only about **10%** of energy or organic matter passes from one trophic level to the next higher level.
 - About **90%** is lost as heat through respiration, movement, excretion, and energy in uneaten parts of organisms.
-- Because of this loss, energy **decreases** at each higher trophic level (UPPCS 2019 Q134).
-- **Trophic levels** are the feeding steps in a food chain. They are formed by organisms linked in a food chain (UPPCS 2023 Q117).
+- Because of this loss, energy **decreases** at each higher trophic level.
+- **Trophic levels** are the feeding steps in a food chain. They are formed by organisms linked in a food chain.
 - **Ecological efficiency** compares energy at two trophic levels: (energy at higher level ÷ energy at lower level) × 100.
 - A **pyramid of energy** is always upright because energy cannot increase as you move up the chain.
 
@@ -397,7 +397,7 @@ D. Migration – Ecesis – Reaction – Stabilisation
 
 With reference to 'Ecosystem', which statements is/are correct?
 
-1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.  
+1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
 2. Around 10% of organic matter reaches to the next higher level of consumers.
 
 A. Only 2
@@ -414,7 +414,7 @@ D. Only 1
 
 </details>
 
-> **Exam note:** Trap — "energy increases up the food chain" is **false**. Trap — rejecting statement 1 because statement 2 exists is **false** (2025 Q5 answer is **Both**).
+> ** note:** Trap — "energy increases up the food chain" is **false**. Trap — rejecting statement 1 because statement 2 exists is **false** (2025 Q5 answer is **Both**).
 
 ---
 
@@ -441,19 +441,19 @@ D. Only 1
 
 - A **community** includes all populations of different species living together in one area.
 - **Species richness** counts how many species are present. **Evenness** measures how evenly individuals are spread among those species.
-- Among common exam options, **coral reefs** show relatively **highest species diversity** (UPPCS 2018 Q122).
-- The **marine (ocean) ecosystem** is often cited as the **most stable** ecosystem type (UPPCS 2018 Q127). Do not swap diversity with stability.
-- **Habitat destruction** is the leading direct cause of biodiversity loss (UPPCS 2023 Q100).
+- Among common options, **coral reefs** show relatively **highest species diversity**.
+- The **marine (ocean) ecosystem** is often cited as the **most stable** ecosystem type. Do not swap diversity with stability.
+- **Habitat destruction** is the leading direct cause of biodiversity loss.
 
 | Interaction | What happens | Example |
 |-------------|--------------|---------|
 | **Competition** | Two species vie for the same limited resource | Two grazers on one pasture |
 | **Predation** | One organism kills and eats another | Tiger hunting deer |
 | **Parasitism** | One benefits while the host is harmed | Tick on cattle |
-| **Mutualism** | Both species benefit | **Azolla** with *Anabaena* in rice fields (UPPCS 2023 Q104) |
+| **Mutualism** | Both species benefit | **Azolla** with *Anabaena* in rice fields |
 | **Commensalism** | One benefits and the other is unaffected | Cattle egret feeding near grazing cattle |
 
-> **Exam note:** Coral reefs = high **diversity**. Open ocean = high **stability**. These are different 2018 questions.
+> ** note:** Coral reefs = high **diversity**. Open ocean = high **stability**. These are different 2018 questions.
 
 ---
 
@@ -463,7 +463,7 @@ D. Only 1
 
 **Q1.** With reference to Ecology, which statements is/are correct?
 
-1. Ernst Haeckel coined the term Ecology in 1866.  
+1. Ernst Haeckel coined the term Ecology in 1866.
 2. A.G. Tansley coined the term Ecology in 1935.
 
 A. Only 1
@@ -482,7 +482,7 @@ D. Neither
 
 **Q2.** With reference to Ecosystem, which statements is/are correct?
 
-1. Green plants capture about 1% of sunlight energy incident on leaves.  
+1. Green plants capture about 1% of sunlight energy incident on leaves.
 2. About 10% of organic matter passes to the next higher consumer level.
 
 A. Only 1
@@ -501,7 +501,7 @@ D. Neither
 
 **Q3.** With reference to ecological niche, which statements is/are correct?
 
-1. Niche refers to the functional role of a species.  
+1. Niche refers to the functional role of a species.
 2. When resources are sufficient, fewer species can coexist in a natural ecosystem.
 
 A. Only 1
@@ -520,7 +520,7 @@ D. Neither
 
 **Q4.** With reference to succession, which statements is/are correct?
 
-1. Primary succession begins where soil already exists.  
+1. Primary succession begins where soil already exists.
 2. Lichens are common pioneer species on bare rock.
 
 A. Only 1
@@ -539,7 +539,7 @@ D. Neither
 
 **Q5.** With reference to lichens, which statements is/are correct?
 
-1. Lichens are good indicators of air pollution.  
+1. Lichens are good indicators of air pollution.
 2. Lichens grow well in heavily polluted areas.
 
 A. Only 1
@@ -558,7 +558,7 @@ D. Neither
 
 **Q6.** With reference to productivity, which statements is/are correct?
 
-1. NPP equals GPP minus plant respiration.  
+1. NPP equals GPP minus plant respiration.
 2. GPP equals NPP plus decomposer activity.
 
 A. Only 1
@@ -577,7 +577,7 @@ D. Neither
 
 **Q7.** With reference to aquatic ecosystems, which statements is/are correct?
 
-1. Rivers are lotic ecosystems.  
+1. Rivers are lotic ecosystems.
 2. The limnetic zone is the open-water zone of a lake.
 
 A. Only 1
@@ -596,7 +596,7 @@ D. Neither
 
 **Q8.** With reference to eutrophication, which statements is/are correct?
 
-1. It involves nutrient enrichment of a water body.  
+1. It involves nutrient enrichment of a water body.
 2. It can deplete dissolved oxygen.
 
 A. Only 1
@@ -669,8 +669,8 @@ D. A false, R true
 
 **Q12.** Match List-I with List-II:
 
-List-I: A. GPP  B. NPP  C. Sere  D. Climax  
-List-II: 1. GPP − R  2. Final stable community  3. Succession sequence  4. Total producer fixation
+List-I: A. GPP B. NPP C. Sere D. Climax
+List-II: 1. GPP − R 2. Final stable community 3. Succession sequence 4. Total producer fixation
 
 A. A-4,B-1,C-3,D-2
 
@@ -688,8 +688,8 @@ D. A-4,B-3,C-1,D-2
 
 **Q13.** Match ecosystem type with example:
 
-A. Lentic  B. Lotic  C. Anthropogenic  D. Xericole habitat  
-1. River  2. Cropland  3. Lake  4. Desert animal
+A. Lentic B. Lotic C. Anthropogenic D. Xericole habitat
+1. River 2. Cropland 3. Lake 4. Desert animal
 
 A. A-3,B-1,C-2,D-4
 
@@ -707,8 +707,8 @@ D. A-3,B-2,C-1,D-4
 
 **Q14.** Match MEA service category:
 
-A. Provisioning  B. Regulating  C. Supporting  D. Cultural  
-1. Pollination  2. Timber  3. Recreation  4. Nutrient cycling
+A. Provisioning B. Regulating C. Supporting D. Cultural
+1. Pollination 2. Timber 3. Recreation 4. Nutrient cycling
 
 A. A-2,B-1,C-4,D-3
 
@@ -726,8 +726,8 @@ D. A-2,B-4,C-1,D-3
 
 **Q15.** Which pairs is/are NOT correctly matched?
 
-1. Migration — first phase of biotic succession  
-2. Ecesis — establishment of species  
+1. Migration — first phase of biotic succession
+2. Ecesis — establishment of species
 3. Sere — nutrient cycling process
 
 A. Only 3
@@ -746,7 +746,7 @@ D. 2 and 3
 
 **Q16.** Arrange succession phases (earliest first):
 
-1. Stabilisation  2. Migration  3. Reaction  4. Ecesis
+1. Stabilisation 2. Migration 3. Reaction 4. Ecesis
 
 A. 2-4-3-1
 
@@ -764,10 +764,10 @@ D. 4-2-3-1
 
 **Q17.** Which is NOT true about ecological niche?
 
-Options:  
-A. Dominant species may occupy a broader niche.  
-B. More species coexist when resources are sufficient.  
-C. Fewer species coexist when resources are sufficient.  
+Options:
+A. Dominant species may occupy a broader niche.
+B. More species coexist when resources are sufficient.
+C. Fewer species coexist when resources are sufficient.
 D. Equitable resource distribution reduces single-species dominance.
 
 <details><summary>Show answer</summary>
@@ -992,7 +992,7 @@ D. Lake
 
 With reference to 'Ecosystem', which of the following statements is/are correct?
 
-1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.  
+1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
 2. Around 10% of organic matter reaches to the next higher level of consumers.
 
 A. Only 2
@@ -1005,7 +1005,7 @@ D. Only 1
 
 <details><summary>Show answer</summary>
 
-**Ans: C** — Both NCERT standard locks.
+**Ans: C** — Both NCERT standard facts.
 
 </details>
 
@@ -1013,7 +1013,7 @@ D. Only 1
 
 With reference to lichens, which of the following statements is/are correct?
 
-1. Lichens are very good indicators of pollution.  
+1. Lichens are very good indicators of pollution.
 2. Lichens grow well in polluted areas.
 
 A. Only 2
@@ -1034,10 +1034,10 @@ D. Only 1
 
 Which of the following statements is not true about "ecological niche"?
 
-Options:  
-A. Dominant species occupy extensive and broader ecological niche.  
-B. Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.  
-C. Number of species becomes small in ecological niche, if resources are sufficient.  
+Options:
+A. Dominant species occupy extensive and broader ecological niche.
+B. Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.
+C. Number of species becomes small in ecological niche, if resources are sufficient.
 D. Dominance of single species becomes minimum if the resource distribution is equitable in a habitat.
 
 <details><summary>Show answer</summary>
@@ -1050,10 +1050,10 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 
 Which of the following is the correct sequence of phases of Biotic succession?
 
-Options:  
-A. Ecesis – Migration – Reaction – Stabilisation  
-B. Ecesis – Migration – Stabilisation – Reaction  
-C. Migration – Reaction – Stabilisation – Ecesis  
+Options:
+A. Ecesis – Migration – Reaction – Stabilisation
+B. Ecesis – Migration – Stabilisation – Reaction
+C. Migration – Reaction – Stabilisation – Ecesis
 D. Migration – Ecesis – Reaction – Stabilisation
 
 <details><summary>Show answer</summary>
@@ -1214,7 +1214,7 @@ D. Both true; R explains A
 
 With reference to 'ecological niche', which statements is/are correct?
 
-1. It represents the range of conditions that a species can tolerate, the resources it utilizes, and its functional role in ecological systems.  
+1. It represents the range of conditions that a species can tolerate, the resources it utilizes, and its functional role in ecological systems.
 2. Each species has a distinct niche.
 
 A. Neither 1 nor 2
@@ -1363,7 +1363,7 @@ D. Secondary consumers are the largest and most powerful
 
 With reference to Eutrophication, which statements is/are correct?
 
-1. It is a phenomenon of nutrient enrichment of a water body.  
+1. It is a phenomenon of nutrient enrichment of a water body.
 2. It depletes dissolved oxygen of the water.
 
 A. 1 only
@@ -1554,7 +1554,7 @@ D. Becomes cyclic
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Odum coined "ecosystem" | **Tansley 1935** coined ecosystem |
 | Ecesis before Migration | **Migration → Ecesis → Reaction → Stabilisation** |

@@ -6,18 +6,18 @@
 
 World Civilizations · Civilizations and their Characteristics · Puranas · Materialist Thinkers · Kakatiya Dynasty · Major Rulers of Kakatiya Dynasty · Achievements of Kakatiya Dynasty
 
-Taught in that order. World cores start with Mesopotamia, not with the later-famous Harappan city. Kakatiya starts with Chalukya feudatories, not with Rudrama. Historiography books (2024 Q134) and *Charaka Samhita* (2023 Q25) sit here because the paper tags them Ancient History and they have no other syllabus home.
+Taught in that order. World cores start with Mesopotamia, not with the later-famous Harappan city. Kakatiya starts with Chalukya feudatories, not with Rudrama. Historiography books and *Charaka Samhita* sit here because the paper tags them Ancient History and they have no other syllabus home.
 
 </details>
 
-> **Sources baked in:** NCERT Themes I, RS Sharma, Puranic genealogies, Kakatiya / Telangana archaeology, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — Vishnu vs Vayu Purana (2023 Q29), Shriparvatiya (2020 Q2), Kakatiya–Warangal (2019 Q90), book–author (2024 Q134), Charaka 120/8 (2023 Q25)  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Themes I, RS Sharma, Puranic genealogies, Kakatiya / Telangana archaeology, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — Vishnu vs Vayu Purana, Shriparvatiya, Kakatiya–Warangal, book–author, Charaka 120/8
+> **Last verified:** August 2026
 > **Current Affairs:** Ramappa Temple = UNESCO World Heritage **2021**.
 
 ---
 
-## Consolidated — 30 Must-Score Locks
+## Consolidated — 30 Must-Score Facts
 
 1. The four Old World Bronze urban cores are **Mesopotamia**, **Egypt**, **Indus**, and **Shang China**. Iron-Age Greece, Rome, and Persia belong to a later bucket.
 2. **Mesopotamia** sits on the **Tigris–Euphrates**, runs competing **city-states**, writes **cuneiform** on clay, and builds stepped **ziggurat** temple-towers — not tombs.
@@ -25,13 +25,13 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 4. **Indus / Harappan** Mature phase is about **2600–1900 BCE**. Signatures include grid streets, baked brick, drains, and standard weights. The script is still **undeciphered**.
 5. Mesopotamia knew the Indus land as **Meluhha**. Harappans built neither ziggurats nor pyramid tomb-fields and left no named pharaoh.
 6. **Shang China** on the **Yellow River** uses readable **oracle-bone** script and ritual bronze **ding** vessels. Unlike the Indus script, Shang writing **is** read.
-7. Puranas are post-Vedic smriti encyclopaedias shaped mainly in the Gupta age and after. Count lock is **18 Mahapuranas** and **18 Upapuranas**.
+7. Puranas are post-Vedic smriti encyclopaedias shaped mainly in the Gupta age and after. Count fact is **18 Mahapuranas** and **18 Upapuranas**.
 8. A Mahapurana is supposed to carry **panchalakshana**: sarga, pratisarga, vamsha, manvantara, and vamshanucharita.
 9. The **Vishnu Purana** preserves a **Mauryan** genealogy. The **Vayu Purana** may list early dynasty names but does **not** give a usable Gupta system of governance.
 10. Puranic **Shriparvatiya** means the **Ikshvakus** of **Nagarjunakonda / Vijayapuri**. Trap options include Vakataka, Shaka, and Kharavela.
-11. Indian materialism in the exam is **Charvaka / Lokayata**. The only accepted pramana is **pratyaksha** (perception). It denies lasting soul, karma fruit, rebirth, and Veda authority.
+11. Indian materialism in the is **Charvaka / Lokayata**. The only accepted pramana is **pratyaksha** (perception). It denies lasting soul, karma fruit, rebirth, and Veda authority.
 12. **Charvaka ≠ Charaka**. Charaka is the Ayurveda compiler; Charvaka is the materialist school. Mixing the names is the cheap trap.
-13. *Charaka Samhita* has **120 chapters** in **8 sections**. **Sushruta** is the surgery lock; Charaka is internal medicine.
+13. *Charaka Samhita* has **120 chapters** in **8 sections**. **Sushruta** is the surgery fact; Charaka is internal medicine.
 14. Buddhism is **not** materialist: it keeps **karma and rebirth** while denying a permanent soul. That is a different denial from Charvaka.
 15. The **Kakatiyas** rose as Western Chalukya feudatories and became independent in Telangana. Early seat is **Hanamkonda**; match-paper capital is **Warangal (Orugallu)**.
 16. Capital match set: **Pallava–Kanchi**, **Pandya–Madura**, **Yadava–Devagiri**, **Kakatiya–Warangal**.
@@ -41,7 +41,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 20. Delhi pressure: **Malik Kafur** took tribute at Warangal in **1310**; the dynasty fell in **1323** to Ulugh Khan under **Ghiyasuddin Tughluq**.
 21. **Thousand Pillar Temple** at Hanamkonda belongs to **Rudradeva** (tradition **1163**). It is **not** inside Warangal fort.
 22. **Ramappa (Rudreshwara) Temple** at **Palampet** (Telangana) was built in **1213** under Ganapati’s general Recharla Rudra and became **UNESCO** World Heritage in **2021**.
-23. Historiography book locks: **Jayaswal–Hindu Polity**, **Basham–Wonder that was India**, **Kosambi–Introduction to the Study of Indian History**, **Smith–Early History of India**.
+23. Historiography book facts: **Jayaswal–Hindu Polity**, **Basham–Wonder that was India**, **Kosambi–Introduction to the Study of Indian History**, **Smith–Early History of India**.
 24. Ziggurat is a stepped **temple**; pyramid is a royal **tomb**. Cuneiform is clay wedges; hieroglyphs are picture signs.
 25. Harappan cities look corporate — standard brick, weak palace skyline — while Egypt is tomb-centred and Mesopotamia is temple-centred and war-prone.
 26. Ganapati Deva issued the **Motupalli** abhaya-shasana safety-charter for sea merchants; Marco Polo later calls the port **Mutfili**.
@@ -52,7 +52,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -81,7 +81,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 **Four Old World Bronze cores | river surplus first**
 
 - A civilization here means cities, surplus grain, specialised crafts, and some form of writing or administration.
-- The four cores exams keep matching are **Mesopotamia, Egypt, Indus, Shang China**.
+- The four cores papers keep matching are **Mesopotamia, Egypt, Indus, Shang China**.
 - The four earliest urban cores here are **Bronze Age**. Iron-Age Greece and Rome belong to a later bucket.
 
 ### Mesopotamia (earliest urban core)
@@ -96,10 +96,10 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - It is the earliest full writing system in the Old World.
 - The temple-tower is the **ziggurat**.
 - It is a stepped shrine, not a tomb.
-- The law lock is **Hammurabi** of Babylon in the eighteenth century BCE.
+- The law fact is **Hammurabi** of Babylon in the eighteenth century BCE.
 - That is the “code of Hammurabi.”
-- Tech locks include the wheel, the plough, and bronze.
-- The epic lock is *Gilgamesh*.
+- Tech facts include the wheel, the plough, and bronze.
+- The epic fact is *Gilgamesh*.
 - Sumerian texts call the Indus land **Meluhha**.
 - That is the trade name, not a Harappan self-name.
 
@@ -149,7 +149,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 ### Later buckets (so the paper cannot swap them in)
 
 - **Minoan** Crete uses Linear A, which is unread.
-- Its palace lock is Knossos.
+- Its palace fact is Knossos.
 - **Mycenaean** Greece uses Linear B, which is early Greek.
 - Its forts are citadels.
 - **Achaemenid Persia** uses satraps and the Royal Road.
@@ -158,7 +158,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - They use maize.
 - They have no Bronze-Age contact with the Indus.
 
-> **Exam note:** Garden of Eden in the Bible is conventionally the **Tigris–Euphrates** belt, not the Nile and not the Indus.
+> ** note:** Garden of Eden in the Bible is conventionally the **Tigris–Euphrates** belt, not the Nile and not the Indus.
 
 ---
 
@@ -182,7 +182,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - Shang power is **ritual bronze + divination**. The king talks to ancestors through cracks in bone.
 - Decline is not one story. Egypt continues. Mesopotamia is conquered in cycles. Harappan cities **thin out** around 1900 BCE.
 
-> **Exam note:** “Harappans built ziggurats” is false. “Egypt lived off Nile inundation” is true. “Indus script is read like hieroglyphs” is false.
+> ** note:** “Harappans built ziggurats” is false. “Egypt lived off Nile inundation” is true. “Indus script is read like hieroglyphs” is false.
 
 ---
 
@@ -193,7 +193,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - Puranas are **post-Vedic**.
 - The main written shape is **Gupta and after**, roughly the fourth to tenth centuries CE.
 - They use older oral king-lists.
-- The count lock is **18 Mahapuranas** and **18 Upapuranas**.
+- The count fact is **18 Mahapuranas** and **18 Upapuranas**.
 - A Mahapurana is supposed to carry **panchalakshana**, five marks.
 
 | Mark | Meaning |
@@ -249,7 +249,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 - **Purana Qila** in Delhi is a **fort** name (Humayun / Sher Shah fabric). It is not a Sanskrit text.
 
-> **Exam note:** Vishnu Purana = Mauryas only. Shriparvatiya = **Ikshvakus** at Nagarjunakonda. Vayu ≠ Gupta administration handbook.
+> ** note:** Vishnu Purana = Mauryas only. Shriparvatiya = **Ikshvakus** at Nagarjunakonda. Vayu ≠ Gupta administration handbook.
 
 ---
 
@@ -257,7 +257,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 **Charvaka / Lokayata | perception only | not the physician Charaka**
 
-- Indian materialism in the exam is the **Charvaka** school.
+- Indian materialism in the is the **Charvaka** school.
 - It is also called **Lokayata** and **Brihaspatya**.
 - The putative sutra-author in the tradition is **Brihaspati**.
 - Surviving lines are mostly quotations in opponents’ books, such as Madhava’s *Sarvadarshanasamgraha*.
@@ -271,7 +271,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - Consciousness is treated as a product of the body.
 - The stock image is intoxication arising when ingredients mix.
 - Ethics in the hostile summaries say enjoy this world.
-- The “debt for ghee” taunt is the quote exams recycle.
+- The “debt for ghee” taunt is the quote papers recycle.
 - The school as a living *matha* **dies out**.
 - We meet it as a **refuted** position in Nyaya, Vedanta, and Buddhist texts.
 
@@ -282,7 +282,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - **Nyaya** (Gautama) and **Vaisheshika** (Kanada) are orthodox *darshanas*. They are not Charvaka.
 - The correct pair is **Nyaya — Gautama**. Vaisheshika is **Kanada**, not Patanjali. Mimamsa is not Kanada. Uttara Mimamsa (Vedanta) is not Kapila (Kapila is Samkhya).
 
-> **Exam note:** **Charvaka ≠ Charaka**. Charaka writes Ayurveda. Charvaka denies the unseen. Mixing the two names is the cheap trap.
+> ** note:Charvaka ≠ Charaka**. Charaka writes Ayurveda. Charvaka denies the unseen. Mixing the two names is the cheap trap.
 
 ---
 
@@ -328,7 +328,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - **Ramachandra** is the **Yadava** king of **Devagiri** (the man Alauddin squeezed).
 - Warangal’s last Kakatiya is **Prataparudra**, not Ramachandra.
 
-> **Exam note:** Warangal in Alauddin’s **conquest chronology** (2022 Q59, 2025 Q30) is a **Sultanate** question. The lock here is only: Deccan raid hits **Kakatiya Warangal** after the Rajput forts.
+> ** note:** Warangal in Alauddin’s **conquest chronology** (2022 Q59, 2025 Q30) is a **Sultanate** question. The fact here is only: Deccan raid hits **Kakatiya Warangal** after the Rajput forts.
 
 ---
 
@@ -358,14 +358,14 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - Longest and widest Kakatiya rule. Coast to interior: Godavari–Krishna country.
 - Moves the political weight firmly onto **Warangal** fort.
 - **Motupalli** (Andhra coast): issues an **abhaya-shasana** — a safety-charter for sea merchants.
-- Marco Polo later calls the port **Mutfili**. The foreign-trade lock lives here.
+- Marco Polo later calls the port **Mutfili**. The foreign-trade fact lives here.
 - No son who can hold the line. He settles the succession on his **daughter**.
 
 ### Rudrama Devi (c. 1262–1289/96)
 
 - Rules as **Rudradeva Maharaja** — male throne-name on grants.
 - One of the few **reigning queens** in the Deccan. Not a regent footnote.
-- Marco Polo’s Andhra “queen” notice is usually tied to her (the identification is the exam’s working lock, even if a historian may hedge).
+- Marco Polo’s Andhra “queen” notice is usually tied to her (the identification is the ’s working fact, even if a historian may hedge).
 - Holds the nayankara chiefs. Dies in the 1290s. Grandson takes over.
 
 ### Prataparudra II (c. 1296–1323) — last
@@ -374,7 +374,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - **1310:** Malik Kafur. Tribute, including the later **Koh-i-noor tradition** (a story, not an inscription).
 - **1323:** Ulugh Khan takes Warangal. Dynasty ends. Persian chronicles then scatter his end.
 
-> **Exam note:** “Prataparudra founded the Kakatiyas” is false. “Rudrama is a Chola queen” is false. Female monarch + Warangal = **Kakatiya**.
+> ** note:** “Prataparudra founded the Kakatiyas” is false. “Rudrama is a Chola queen” is false. Female monarch + Warangal = **Kakatiya**.
 
 ---
 
@@ -413,11 +413,11 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 ### Culture
 
-- Telugu court poetry. Vidyanatha’s *Prataparudriya* (rhetoric) is a Prataparudra-II lock.
+- Telugu court poetry. Vidyanatha’s *Prataparudriya* (rhetoric) is a Prataparudra-II fact.
 - Palkuriki Somanatha writes Shaiva Telugu works in this world.
 - **Perini Shivatandavam**: warrior-Shiva dance later reconstructed and tied to Kakatiya camps.
 
-> **Exam note:** Ramappa = Palampet, Telangana, UNESCO **2021**. Thousand Pillar = **Hanamkonda**. Swap those two towns and the question is gone.
+> ** note:** Ramappa = Palampet, Telangana, UNESCO **2021**. Thousand Pillar = **Hanamkonda**. Swap those two towns and the question is gone.
 
 ---
 
@@ -438,7 +438,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - Option A on that paper (3-2-4-1) swaps Kosambi and Smith.
 - That is the bait.
 
-> **Exam note:** Basham did **not** write the Marxist introduction. Kosambi did **not** write *Early History*.
+> ** note:** Basham did **not** write the Marxist introduction. Kosambi did **not** write *Early History*.
 
 ---
 
@@ -449,7 +449,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - *Charaka Samhita* is the root text of **kayachikitsa**, internal medicine.
 - It is a compilation or redaction of the older Agnivesha tradition.
 - The rough window is late centuries BCE to early centuries CE.
-- The structure lock is **120** *adhyayas* (chapters) in **8** *sthanas* (sections).
+- The structure fact is **120** *adhyayas* (chapters) in **8** *sthanas* (sections).
 - Options 100/5, 80/7, and 60/8 are all wrong distractors.
 - The answer is **A**.
 - The eight *sthanas* need not be recited unless a match-list appears.
@@ -460,7 +460,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - It is classical Sanskrit science.
 - Charaka the physician is not Charvaka the materialist.
 
-> **Exam note:** Correct structure = **120 chapters, 8 sections**. Father-of-Indian-medicine tag in Lucent-type books = **Charaka**.
+> ** note:** Correct structure = **120 chapters, 8 sections**. Father-of-Indian-medicine tag in Lucent-type books = **Charaka**.
 
 ---
 
@@ -491,16 +491,14 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 ## Practice Zone
 
-**40 questions. ≥60% multi-statement. Mix: Only-1/2, how-many, A/R, Match, chronology, NOT-matched.**
-
-**Q1.** With reference to early civilizations, which of the following statements is/are correct?
+**40 questions. ≥60% multi-statement. Mix: Only-1/2, how-many, A/R, Match, chronology, NOT-matched.Q1.** With reference to early civilizations, which of the following statements is/are correct?
 
 1. Mesopotamia developed as competing city-states on the Tigris–Euphrates.
 2. Ancient Egypt was a unified monarchy dependent on Nile inundation.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -512,14 +510,14 @@ D. Neither 1 nor 2
 
 **Q2.** Which of the following pairs is **NOT** correctly matched?
 
-1. Mesopotamia — cuneiform  
-2. Egypt — hieroglyphs  
-3. Shang China — Indus script  
+1. Mesopotamia — cuneiform
+2. Egypt — hieroglyphs
+3. Shang China — Indus script
 4. Harappan — undeciphered script
 
-A. Only 3  
-B. Only 1 and 3  
-C. Only 3 and 4  
+A. Only 3
+B. Only 1 and 3
+C. Only 3 and 4
 D. Only 2 and 4
 
 <details>
@@ -531,21 +529,21 @@ D. Only 2 and 4
 
 **Q3.** Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Civilization)**  
-A. Mesopotamia  
-B. Egypt  
-C. Harappan  
-D. Shang  
+**List-I (Civilization)**
+A. Mesopotamia
+B. Egypt
+C. Harappan
+D. Shang
 
-**List-II (Marker)**  
-1. Oracle bones  
-2. Ziggurat  
-3. Pyramid tombs  
-4. Planned drains  
+**List-II (Marker)**
+1. Oracle bones
+2. Ziggurat
+3. Pyramid tombs
+4. Planned drains
 
-A. 2, 3, 4, 1  
-B. 3, 2, 4, 1  
-C. 2, 4, 3, 1  
+A. 2, 3, 4, 1
+B. 3, 2, 4, 1
+C. 2, 4, 3, 1
 D. 4, 3, 2, 1
 
 <details>
@@ -560,9 +558,9 @@ D. 4, 3, 2, 1
 1. Cuneiform and hieroglyphs have been deciphered.
 2. The Harappan script is read on the same principles as Egyptian hieroglyphs.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -578,9 +576,9 @@ D. Neither 1 nor 2
 2. A Harappan seal has been found in Mesopotamia.
 3. Harappans copied Egyptian pyramid tombs at Mohenjo-daro.
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -592,13 +590,13 @@ D. None
 
 **Q6.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** The Harappan political form cannot be reconstructed as a named pharaonic monarchy.  
+**Assertion (A):** The Harappan political form cannot be reconstructed as a named pharaonic monarchy.
 
 **Reason (R):** The Indus script is still undeciphered and the cities lack a clear palace-temple skyline.
 
-A. Both A and R are true and R is the correct explanation of A  
-B. Both A and R are true but R is not the correct explanation of A  
-C. A is true but R is false  
+A. Both A and R are true and R is the correct explanation of A
+B. Both A and R are true but R is not the correct explanation of A
+C. A is true but R is false
 D. A is false but R is true
 
 <details>
@@ -608,16 +606,16 @@ D. A is false but R is true
 
 </details>
 
-**Q7.** Arrange the following in the order in which urban civilisation first appears in the exam’s Old World list.
+**Q7.** Arrange the following in the order in which urban civilisation first appears in the ’s Old World list.
 
-1. Shang Anyang  
-2. Sumerian city-states  
-3. Mature Harappan cities  
+1. Shang Anyang
+2. Sumerian city-states
+3. Mature Harappan cities
 4. Unified Egyptian Old Kingdom
 
-A. 2, 4, 3, 1  
-B. 4, 2, 3, 1  
-C. 2, 3, 4, 1  
+A. 2, 4, 3, 1
+B. 4, 2, 3, 1
+C. 2, 3, 4, 1
 D. 3, 2, 4, 1
 
 <details>
@@ -632,9 +630,9 @@ D. 3, 2, 4, 1
 1. A ziggurat is a stepped temple tower.
 2. A pyramid in Old Kingdom Egypt is primarily a royal tomb.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -649,9 +647,9 @@ D. Neither 1 nor 2
 1. Information about the Mauryan dynasty is found in the Vishnu Purana.
 2. Vayu Purana throws light on the Gupta system of governance.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -663,14 +661,14 @@ D. Neither 1 nor 2
 
 **Q10.** The five *panchalakshana* of a Mahapurana include which of the following?
 
-1. Sarga  
-2. Vamshanucharita  
-3. Shruti  
+1. Sarga
+2. Vamshanucharita
+3. Shruti
 4. Manvantara
 
-A. 1, 2 and 4  
-B. 1, 2 and 3  
-C. 2, 3 and 4  
+A. 1, 2 and 4
+B. 1, 2 and 3
+C. 2, 3 and 4
 D. 1, 3 and 4
 
 <details>
@@ -682,9 +680,9 @@ D. 1, 3 and 4
 
 **Q11.** The rulers of which of the following dynasties have been called ‘Shriparvatiya’ in the Puranas?
 
-A. Vakatakas  
-B. Ikshvakus  
-C. Shakas  
+A. Vakatakas
+B. Ikshvakus
+C. Shakas
 D. Kharavelas
 
 <details>
@@ -696,9 +694,9 @@ D. Kharavelas
 
 **Q12.** Which of the following pairs is **NOT** correctly matched?
 
-A. Bhagavata Purana — Krishna bhakti  
-B. Markandeya Purana — Devi Mahatmya  
-C. Skanda Purana — smallest Purana  
+A. Bhagavata Purana — Krishna bhakti
+B. Markandeya Purana — Devi Mahatmya
+C. Skanda Purana — smallest Purana
 D. Garuda Purana — shraddha / afterlife material
 
 <details>
@@ -714,9 +712,9 @@ D. Garuda Purana — shraddha / afterlife material
 2. Puranas outrank the Vedas as shruti.
 3. Puranic king-lists often inflate reign lengths.
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -728,21 +726,21 @@ D. None
 
 **Q14.** Match List-I with List-II.
 
-**List-I**  
-A. Vishnu Purana  
-B. Vayu Purana (as used in 2023 Q29)  
-C. Shriparvatiya  
-D. Purana Qila  
+**List-I**
+A. Vishnu Purana
+B. Vayu Purana (as used in 2023 Q29)
+C. Shriparvatiya
+D. Purana Qila
 
-**List-II**  
-1. Delhi fort, not a text  
-2. Mauryan genealogy  
-3. Ikshvakus of Nagarjunakonda  
-4. Not a Gupta governance manual  
+**List-II**
+1. Delhi fort, not a text
+2. Mauryan genealogy
+3. Ikshvakus of Nagarjunakonda
+4. Not a Gupta governance manual
 
-A. 2, 4, 3, 1  
-B. 2, 3, 4, 1  
-C. 4, 2, 3, 1  
+A. 2, 4, 3, 1
+B. 2, 3, 4, 1
+C. 4, 2, 3, 1
 D. 2, 4, 1, 3
 
 <details>
@@ -754,13 +752,13 @@ D. 2, 4, 1, 3
 
 **Q15.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Historians treat Puranic dynastic lists as a supplementary source.  
+**Assertion (A):** Historians treat Puranic dynastic lists as a supplementary source.
 
 **Reason (R):** The lists mix mythology with genealogy and often stretch reign lengths.
 
-A. Both A and R are true and R is the correct explanation of A  
-B. Both A and R are true but R is not the correct explanation of A  
-C. A is true but R is false  
+A. Both A and R are true and R is the correct explanation of A
+B. Both A and R are true but R is not the correct explanation of A
+C. A is true but R is false
 D. A is false but R is true
 
 <details>
@@ -775,9 +773,9 @@ D. A is false but R is true
 1. Pratyaksha is the only accepted pramana.
 2. The school accepts Vedic *yajna* as a source of unseen merit.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -789,9 +787,9 @@ D. Neither 1 nor 2
 
 **Q17.** Which of the following pairs is **NOT** correctly matched?
 
-A. Charvaka — Lokayata  
-B. Charvaka — perception-only  
-C. Charaka — *Charaka Samhita*  
+A. Charvaka — Lokayata
+B. Charvaka — perception-only
+C. Charaka — *Charaka Samhita*
 D. Charvaka — compiler of Ayurveda
 
 <details>
@@ -807,9 +805,9 @@ D. Charvaka — compiler of Ayurveda
 2. Buddhism also denies rebirth, which makes it a materialist school.
 3. Ajita Kesakambalin in the Pali canon is a materialist teacher.
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -821,9 +819,9 @@ D. None
 
 **Q19.** Which of the following pairs (School of Thought — Proponent) is correctly matched?
 
-A. Vaisheshika — Patanjali  
-B. Mimansa — Kanada  
-C. Nyaya — Gautama  
+A. Vaisheshika — Patanjali
+B. Mimansa — Kanada
+C. Nyaya — Gautama
 D. Uttara Mimansa — Kapila
 
 <details>
@@ -835,13 +833,13 @@ D. Uttara Mimansa — Kapila
 
 **Q20.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Charvaka arguments survive mainly as quotations in other schools.  
+**Assertion (A):** Charvaka arguments survive mainly as quotations in other schools.
 
 **Reason (R):** The living Charvaka *matha* died out and no complete root sutra corpus remains.
 
-A. Both A and R are true and R is the correct explanation of A  
-B. Both A and R are true but R is not the correct explanation of A  
-C. A is true but R is false  
+A. Both A and R are true and R is the correct explanation of A
+B. Both A and R are true but R is not the correct explanation of A
+C. A is true but R is false
 D. A is false but R is true
 
 <details>
@@ -853,21 +851,21 @@ D. A is false but R is true
 
 **Q21.** Match List-I with List-II and select the correct answer from the codes given below.
 
-**List-I (Dynasty)**  
-A. Pallava  
-B. Pandya  
-C. Yadava  
-D. Kakatiya  
+**List-I (Dynasty)**
+A. Pallava
+B. Pandya
+C. Yadava
+D. Kakatiya
 
-**List-II (Capital)**  
-1. Warangal  
-2. Kanchi  
-3. Madura  
-4. Devagiri  
+**List-II (Capital)**
+1. Warangal
+2. Kanchi
+3. Madura
+4. Devagiri
 
-A. 2, 1, 4, 3  
-B. 2, 3, 4, 1  
-C. 1, 2, 3, 4  
+A. 2, 1, 4, 3
+B. 2, 3, 4, 1
+C. 1, 2, 3, 4
 D. 2, 4, 3, 1
 
 <details>
@@ -879,9 +877,9 @@ D. 2, 4, 3, 1
 
 **Q22.** Which of the following pairs is **NOT** correctly matched?
 
-A. Devgiri — Shankar Dev  
-B. Warangal — Ramchandra Dev  
-C. Hoysala — Veer Ballal  
+A. Devgiri — Shankar Dev
+B. Warangal — Ramchandra Dev
+C. Hoysala — Veer Ballal
 D. Madura — Veer Pandya
 
 <details>
@@ -896,9 +894,9 @@ D. Madura — Veer Pandya
 1. They began as feudatories of the Western Chalukyas.
 2. Their core territory was the Ganga–Yamuna doab.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -910,14 +908,14 @@ D. Neither 1 nor 2
 
 **Q24.** Arrange the following Kakatiya rulers in chronological order.
 
-1. Rudrama Devi  
-2. Prola II  
-3. Prataparudra II  
+1. Rudrama Devi
+2. Prola II
+3. Prataparudra II
 4. Ganapati Deva
 
-A. 2, 4, 1, 3  
-B. 4, 2, 1, 3  
-C. 2, 1, 4, 3  
+A. 2, 4, 1, 3
+B. 4, 2, 1, 3
+C. 2, 1, 4, 3
 D. 2, 4, 3, 1
 
 <details>
@@ -932,9 +930,9 @@ D. 2, 4, 3, 1
 1. Ganapati Deva issued a safety-charter for merchants at Motupalli.
 2. Prataparudra II was the founder of the dynasty.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -950,9 +948,9 @@ D. Neither 1 nor 2
 2. Grants name her as Rudradeva Maharaja.
 3. She was a Chola queen ruling from Thanjavur.
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -964,13 +962,13 @@ D. None
 
 **Q27.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** 1323 is treated as the end of Kakatiya sovereignty.  
+**Assertion (A):** 1323 is treated as the end of Kakatiya sovereignty.
 
 **Reason (R):** Ulugh Khan captured Warangal and Prataparudra II’s line ended as an independent house.
 
-A. Both A and R are true and R is the correct explanation of A  
-B. Both A and R are true but R is not the correct explanation of A  
-C. A is true but R is false  
+A. Both A and R are true and R is the correct explanation of A
+B. Both A and R are true but R is not the correct explanation of A
+C. A is true but R is false
 D. A is false but R is true
 
 <details>
@@ -985,9 +983,9 @@ D. A is false but R is true
 1. Thousand Pillar Temple stands at Hanamkonda.
 2. Ramappa Temple stands inside Warangal Fort.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -999,9 +997,9 @@ D. Neither 1 nor 2
 
 **Q29.** Ramappa Temple, a UNESCO World Heritage Site (2021), is located in
 
-A. Karnataka  
-B. Telangana  
-C. Andhra Pradesh  
+A. Karnataka
+B. Telangana
+C. Andhra Pradesh
 D. Maharashtra
 
 <details>
@@ -1013,14 +1011,14 @@ D. Maharashtra
 
 **Q30.** How many of the following are Kakatiya achievements?
 
-1. Sandbox foundation under temple platforms  
-2. Chain-tank irrigation (Ramappa / Pakhal)  
-3. Ashokan pillar edicts in Prakrit  
+1. Sandbox foundation under temple platforms
+2. Chain-tank irrigation (Ramappa / Pakhal)
+3. Ashokan pillar edicts in Prakrit
 4. Four thoranas at Warangal
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1032,21 +1030,21 @@ D. Only one
 
 **Q31.** Match List-I with List-II.
 
-**List-I**  
-A. Thousand Pillar Temple  
-B. Ramappa Temple  
-C. Motupalli  
-D. Orugallu  
+**List-I**
+A. Thousand Pillar Temple
+B. Ramappa Temple
+C. Motupalli
+D. Orugallu
 
-**List-II**  
-1. Coastal merchant charter  
-2. Hanamkonda  
-3. Warangal fort-city  
-4. Palampet, UNESCO 2021  
+**List-II**
+1. Coastal merchant charter
+2. Hanamkonda
+3. Warangal fort-city
+4. Palampet, UNESCO 2021
 
-A. 2, 4, 1, 3  
-B. 4, 2, 1, 3  
-C. 2, 4, 3, 1  
+A. 2, 4, 1, 3
+B. 4, 2, 1, 3
+C. 2, 4, 3, 1
 D. 2, 1, 4, 3
 
 <details>
@@ -1061,9 +1059,9 @@ D. 2, 1, 4, 3
 1. It was built in 1213 under a general of Ganapati Deva.
 2. Its low-density bricks are said to float on water.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1075,21 +1073,21 @@ D. Neither 1 nor 2
 
 **Q33.** Match List-I with List-II and choose the correct answer using the codes given below.
 
-**List-I (Book)**  
-A. Hindu Polity  
-B. The Wonder That Was India  
-C. An Introduction to the Study of Indian History  
-D. The Early History of India  
+**List-I (Book)**
+A. Hindu Polity
+B. The Wonder That Was India
+C. An Introduction to the Study of Indian History
+D. The Early History of India
 
-**List-II (Writer)**  
-1. D.D. Kosambi  
-2. A.L. Basham  
-3. K.P. Jayaswal  
-4. Vincent Arthur Smith  
+**List-II (Writer)**
+1. D.D. Kosambi
+2. A.L. Basham
+3. K.P. Jayaswal
+4. Vincent Arthur Smith
 
-A. 3, 2, 4, 1  
-B. 1, 2, 4, 3  
-C. 3, 2, 1, 4  
+A. 3, 2, 4, 1
+B. 1, 2, 4, 3
+C. 3, 2, 1, 4
 D. 1, 2, 3, 4
 
 <details>
@@ -1101,9 +1099,9 @@ D. 1, 2, 3, 4
 
 **Q34.** Which of the following pairs is **NOT** correctly matched?
 
-A. K.P. Jayaswal — *Hindu Polity*  
-B. A.L. Basham — *The Wonder That Was India*  
-C. D.D. Kosambi — *The Early History of India*  
+A. K.P. Jayaswal — *Hindu Polity*
+B. A.L. Basham — *The Wonder That Was India*
+C. D.D. Kosambi — *The Early History of India*
 D. D.D. Kosambi — *An Introduction to the Study of Indian History*
 
 <details>
@@ -1115,13 +1113,13 @@ D. D.D. Kosambi — *An Introduction to the Study of Indian History*
 
 **Q35.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Jayaswal’s *Hindu Polity* is classed as nationalist historiography.  
+**Assertion (A):** Jayaswal’s *Hindu Polity* is classed as nationalist historiography.
 
 **Reason (R):** It argued that ancient India had real political institutions such as *gana-sanghas*, against the Oriental-despotism stereotype.
 
-A. Both A and R are true and R is the correct explanation of A  
-B. Both A and R are true but R is not the correct explanation of A  
-C. A is true but R is false  
+A. Both A and R are true and R is the correct explanation of A
+B. Both A and R are true but R is not the correct explanation of A
+C. A is true but R is false
 D. A is false but R is true
 
 <details>
@@ -1133,9 +1131,9 @@ D. A is false but R is true
 
 **Q36.** *Charaka Samhita* is divided into how many chapters and sections?
 
-A. 120 chapters and 8 sections  
-B. 100 chapters and 5 sections  
-C. 80 chapters and 7 sections  
+A. 120 chapters and 8 sections
+B. 100 chapters and 5 sections
+C. 80 chapters and 7 sections
 D. 60 chapters and 8 sections
 
 <details>
@@ -1150,9 +1148,9 @@ D. 60 chapters and 8 sections
 1. *Charaka Samhita* is the principal text of internal medicine.
 2. *Sushruta Samhita* is the principal text of surgery.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1168,9 +1166,9 @@ D. Neither 1 nor 2
 2. Charaka and Charvaka refer to the same person.
 3. UPPCS 2023 asked the 120/8 structure of Charaka Samhita.
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -1182,14 +1180,14 @@ D. None
 
 **Q39.** Arrange the following from earlier to later.
 
-1. UNESCO listing of Ramappa Temple  
-2. Malik Kafur’s Warangal tribute  
-3. Consecration tradition of the Thousand Pillar Temple  
+1. UNESCO listing of Ramappa Temple
+2. Malik Kafur’s Warangal tribute
+3. Consecration tradition of the Thousand Pillar Temple
 4. Fall of Prataparudra II
 
-A. 3, 2, 4, 1  
-B. 3, 4, 2, 1  
-C. 2, 3, 4, 1  
+A. 3, 2, 4, 1
+B. 3, 4, 2, 1
+C. 2, 3, 4, 1
 D. 3, 2, 1, 4
 
 <details>
@@ -1204,9 +1202,9 @@ D. 3, 2, 1, 4
 1. Malik Kafur extracted tribute from Warangal in 1310.
 2. Independent Kakatiya rule survived until the Mughal annexation of Golconda in 1687.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1224,7 +1222,7 @@ D. Neither 1 nor 2
 
 **Q1. UPPCS Prelims 2025, Q30** — Alauddin Khalji victories including **Warangal**.
 
-This is a **Delhi Sultanate chronology** item (Ranthambore, Jaisalmer, Warangal, Chittor). Teaching home for the **order** is medieval. The only lock this file needs: the Warangal that Alauddin’s officers hit is **Kakatiya**.
+This is a **Delhi Sultanate chronology** item (Ranthambore, Jaisalmer, Warangal, Chittor). Teaching home for the **order** is medieval. The only fact this file needs: the Warangal that Alauddin’s officers hit is **Kakatiya**.
 
 ### UPPCS Prelims 2024
 
@@ -1232,21 +1230,21 @@ This is a **Delhi Sultanate chronology** item (Ranthambore, Jaisalmer, Warangal,
 
 Match List-I with List-II and choose the correct answer using the codes given below the lists:
 
-**List-I (Book)**  
-A. Hindu Polity  
-B. The Wonder That Was India  
-C. An Introduction to the Study of Indian History  
-D. The Early History of India  
+**List-I (Book)**
+A. Hindu Polity
+B. The Wonder That Was India
+C. An Introduction to the Study of Indian History
+D. The Early History of India
 
-**List-II (Writer)**  
-1. D.D. Kosambi  
-2. A.L. Basham  
-3. K.P. Jayaswal  
-4. Vincent Arthur Smith  
+**List-II (Writer)**
+1. D.D. Kosambi
+2. A.L. Basham
+3. K.P. Jayaswal
+4. Vincent Arthur Smith
 
-A. 3 2 4 1  
-B. 1 2 4 3  
-C. 3 2 1 4  
+A. 3 2 4 1
+B. 1 2 4 3
+C. 3 2 1 4
 D. 1 2 3 4
 
 <details>
@@ -1262,9 +1260,9 @@ D. 1 2 3 4
 
 *Charaka Samhita* is divided into how many chapters and sections?
 
-A. 120 chapters and 8 sections  
-B. 100 chapters and 5 sections  
-C. 80 chapters and 7 sections  
+A. 120 chapters and 8 sections
+B. 100 chapters and 5 sections
+C. 80 chapters and 7 sections
 D. 60 chapters and 8 sections
 
 <details>
@@ -1278,12 +1276,12 @@ D. 60 chapters and 8 sections
 
 With reference to the Puranas, which one of the following statements is correct?
 
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.  
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
 2. Vayu Purana throws light on the Gupta system of governance.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1297,9 +1295,9 @@ D. Neither 1 nor 2
 
 Which of the following pairs (**School of Thought — Proponent**) is correctly matched?
 
-A. Vaisheshika — Patanjali  
-B. Mimansa — Kanada  
-C. Nyaya — Gautama  
+A. Vaisheshika — Patanjali
+B. Mimansa — Kanada
+C. Nyaya — Gautama
 D. Uttara Mimansa — Kapila
 
 <details>
@@ -1325,9 +1323,9 @@ No extra GS-I hit on Puranas / Charvaka / Kakatiya / these four historiography b
 
 The rulers of which of the following dynasty have been called as ‘Shriparvatiya’ in Puranas?
 
-A. Vakatakas  
-B. Ikshvakus  
-C. Shaks  
+A. Vakatakas
+B. Ikshvakus
+C. Shaks
 D. Kharvelas
 
 <details>
@@ -1343,21 +1341,21 @@ D. Kharvelas
 
 Match List-I with List-II and select the correct answer from the codes given below the lists:
 
-**List-I (Ruling Dynasties)**  
-A. Pallava  
-B. Pandya  
-C. Yadava  
-D. Kaktiya  
+**List-I (Ruling Dynasties)**
+A. Pallava
+B. Pandya
+C. Yadava
+D. Kaktiya
 
-**List-II (Capitals)**  
-1. Warangal  
-2. Kanchi  
-3. Madura  
-4. Devagiri  
+**List-II (Capitals)**
+1. Warangal
+2. Kanchi
+3. Madura
+4. Devagiri
 
-A. 2 1 4 3  
-B. 2 3 4 1  
-C. 1 2 3 4  
+A. 2 1 4 3
+B. 2 3 4 1
+C. 1 2 3 4
 D. 2 4 3 1
 
 <details>
@@ -1371,12 +1369,12 @@ D. 2 4 3 1
 
 **Q9. UPPCS Prelims 2018, Q96**
 
-Which of the following pairs is NOT correctly matched?  
+Which of the following pairs is NOT correctly matched?
 State — Ruler
 
-A. Devgiri — Shankar Dev  
-B. Warangal — Ramchandra Dev  
-C. Hoysal — Veer Ballal  
+A. Devgiri — Shankar Dev
+B. Warangal — Ramchandra Dev
+C. Hoysal — Veer Ballal
 D. Madura — Veer Pandya
 
 <details>
@@ -1392,7 +1390,7 @@ Medieval / Mughal (Maham Anaga). **Not** a Purana-text question. Name-trap only.
 
 ---
 
-## Common Traps — Exam Locks
+## Common Traps — Facts
 
 1. **Vayu Purana = Gupta administration** → false. 2023 Q29 Only 1.
 2. **Shriparvatiya = Vakataka** → **Ikshvaku** (Nagarjunakonda).
@@ -1408,7 +1406,7 @@ Medieval / Mughal (Maham Anaga). **Not** a Purana-text question. Name-trap only.
 12. **Charvaka wrote Charaka Samhita** → physician vs materialist.
 13. **Charaka = 100 chapters / 5 sections** → **120 / 8**.
 14. **Kosambi wrote *Early History of India*** → **Smith**. Kosambi = *Introduction to the Study*.
-15. **Basham = Marxist historian** → cultural survey. Marxist lock = **Kosambi**.
+15. **Basham = Marxist historian** → cultural survey. Marxist fact = **Kosambi**.
 16. **Buddhism = Charvaka** → Buddhism keeps **rebirth**.
 17. **Nyaya = Kanada** → Nyaya = **Gautama**. Kanada = Vaisheshika.
 18. **Kakatiyas ruled the UP doab** → **Telangana**.

@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 # Art and Culture — Active Recall

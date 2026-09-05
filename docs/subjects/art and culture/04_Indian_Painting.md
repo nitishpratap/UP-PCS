@@ -1,5 +1,5 @@
 # Topic 4 — Indian Painting
-### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
+### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,45 +8,45 @@ Ancient Indian Painting | Classical Painting | Mural Paintings | Ajanta Painting
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Chitrasutra / Vishnudharmottara, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — school ↔ artist ↔ manuscript; Shadanga limbs; Ajanta cave + technique; Bengal School vs Ravi Varma  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Chitrasutra / Vishnudharmottara, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — school ↔ artist ↔ manuscript; Shadanga limbs; Ajanta cave + technique; Bengal School vs Ravi Varma
+> **Last verified:** August 2026
 > **Current Affairs:** Pithora (Gujarat Rathwa) GI push 2025–26; Madhubani is GI, **not** UNESCO ICH.
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **Bhimbetka** rock shelters are in Raisen, **Madhya Pradesh**. **V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
-2. **Jogimara** in Ramgarh, **Chhattisgarh**, about **3rd–1st** century BCE, is the earliest Indian fresco lock. Scenes are secular, not Ajanta Buddhist narrative.
+2. **Jogimara** in Ramgarh, **Chhattisgarh**, about **3rd–1st** century BCE, is the earliest Indian fresco fact. Scenes are secular, not Ajanta Buddhist narrative.
 3. **Mirzapur–Sonbhadra** holds the main **UP** prehistoric rock-art belt. **Bagh** caves are in **Madhya Pradesh**, not UP.
 4. The **Shadanga** six limbs are **Rupabheda**, **Pramanam** (proportion), **Bhava** (emotion), **Lavanyam** (grace), **Sadrisyam** (likeness), and **Varnikabhangam** (colour and brush).
 5. Ajanta is famous for **paintings**. Ellora is famous for **sculpture**, especially Kailasa. Do not swap the two.
 6. Ajanta Cave **1** holds Padmapani and Vajrapani. Cave **16** holds the Dying Princess / Mahajanaka theme. Cave **17** holds Vessantara. Rediscovery is linked to **John Smith** in **1819**.
-7. Other mural locks include **Bagh** (MP), **Badami**, Jain **Sittanavasal**, **Brihadeeswara** Chola frescoes, **Lepakshi**, Kerala murals, and Himalayan **Alchi / Tabo**.
-8. Akbar’s atelier locks are **Hamzanama**, **Tuti-nama**, and **Razmnama**, with painters such as **Daswanth** and **Basawan**. The **Hamzanama** is a cloth adventure cycle of about **1400** folios.
-9. Jahangir’s atelier locks are **Ustad Mansur** for birds and flowers and **Bishandas** for portraits. Shah Jahan’s court book is the **Padshahnama**.
+7. Other mural facts include **Bagh** (MP), **Badami**, Jain **Sittanavasal**, **Brihadeeswara** Chola frescoes, **Lepakshi**, Kerala murals, and Himalayan **Alchi / Tabo**.
+8. Akbar’s atelier facts are **Hamzanama**, **Tuti-nama**, and **Razmnama**, with painters such as **Daswanth** and **Basawan**. The **Hamzanama** is a cloth adventure cycle of about **1400** folios.
+9. Jahangir’s atelier facts are **Ustad Mansur** for birds and flowers and **Bishandas** for portraits. Shah Jahan’s court book is the **Padshahnama**.
 10. Deccani painting centres are **Ahmadnagar**, **Bijapur**, and **Golconda**, often with gold ground and books such as *Nujum al-Ulum*.
 11. **Rajput** painting is Rajasthan princely and bhakti / ragamala based. **Pahari** painting is Himalayan hill painting. Kangra is hills, not Rajasthan plains.
-12. Mewar locks **Sahibdin**. Kishangarh locks **Bani Thani**. Nathdwara locks **Pichwai**. Bundi and Kotah are known for hunt scenes.
+12. Mewar facts **Sahibdin**. Kishangarh facts **Bani Thani**. Nathdwara facts **Pichwai**. Bundi and Kotah are known for hunt scenes.
 13. Pahari sequence runs **Basohli → Guler (Nainsukh / Manaku) → Kangra (Sansar Chand)**. Basohli is bold and flat; Kangra is lyrical Krishna–nature.
 14. **Tanjore** painting uses gold foil and gems on wood. **Mysore** painting uses finer gesso and is less gem-studded.
 15. **Srikalahasti Kalamkari** is temple pen-work. **Machilipatnam Kalamkari** is block-printed trade cloth.
-16. Folk locks include **Madhubani**, **Warli**, **Phad**, **Pattachitra**, **Gond**, **Pithora**, **Kalighat**, and UP **Sanjhi** of Braj / Mathura–Vrindavan.
+16. Folk facts include **Madhubani**, **Warli**, **Phad**, **Pattachitra**, **Gond**, **Pithora**, **Kalighat**, and UP **Sanjhi** of Braj / Mathura–Vrindavan.
 17. **Madhubani** has a GI tag. It is **not** UNESCO intangible heritage. Do not confuse GI with ICH.
 18. **Ravi Varma** used oil and oleograph realism. **Abanindranath** led the Bengal School wash revival and painted **Bharat Mata**.
 19. **Nandalal Bose** painted the Haripura Congress panels and Constitution illumination. The **Progressive Artists’ Group** formed in **1947**. **Amrita Sher-Gil** painted *Three Girls*.
 20. The **Company School** made colonial documentary pictures for East India Company patrons. It is not the nationalist Bengal School.
-21. Lucknow painting locks include **Mihr Chand** and Company Kalam. **Bharat Kala Bhavan** at BHU holds important miniatures.
+21. Lucknow painting facts include **Mihr Chand** and Company Kalam. **Bharat Kala Bhavan** at BHU holds important miniatures.
 22. Ajanta technique is pigment on **wet** plaster (fresco tradition). Tempera / secco puts binder on a **dry** surface.
 23. A **mural** is wall or ceiling paint integral to a building. A **miniature** is a small album or manuscript picture.
-24. *Venushilpa* of Upendra Maharathi is a **bamboo** craft lock, not a painting school.
+24. *Venushilpa* of Upendra Maharathi is a **bamboo** craft fact, not a painting school.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Fresco | Tempera / secco | Pigment on **wet** plaster (Ajanta) vs binder on **dry** surface | भित्ति-फ्रेस्को / टेम्पेरा |
 | Mural | Miniature | Wall/ceiling integral to building vs small album/manuscript | भित्ति / लघु चित्र |
@@ -79,19 +79,19 @@ Ancient Indian Painting | Classical Painting | Mural Paintings | Ajanta Painting
 - **Tekkalkota** is a Karnataka Neolithic site.
 - **Singhanpur** is in Raigarh.
 - **Mirzapur–Sonbhadra** holds **UP** rock shelters.
-- **Jogimara** is in Ramgarh, Surguja, **Chhattisgarh**, about **3rd–1st c. BCE**. It is the earliest Indian fresco lock. Scenes are secular dancers/elephants, not Ajanta.
+- **Jogimara** is in Ramgarh, Surguja, **Chhattisgarh**, about **3rd–1st c. BCE**. It is the earliest Indian fresco fact. Scenes are secular dancers/elephants, not Ajanta.
 - **Sitabenga** is in the same hills. There is a theatre / rest-house debate. Inscriptions are Brahmi–Magadhi.
 - The IVC has **no mural survivals**. Mauryan palace paint is only literary (Megasthenes).
 
-> **Exam note:** UPPCS 2020 Q10 — the first archaeologist of Bhimbetka paintings is **V.S. Wakankar**.
+> ** note:** UPPCS 2020 Q10 — the first archaeologist of Bhimbetka paintings is **V.S. Wakankar**.
 
 **PYQ — UPPCS Prelims 2020, Q10**
 
 Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
 
-A. Madho Swaroop Vatsa  
-B. H.D. Sankalia  
-C. V.S. Wakankar  
+A. Madho Swaroop Vatsa
+B. H.D. Sankalia
+C. V.S. Wakankar
 D. V.N. Mishra
 
 <details>
@@ -109,21 +109,21 @@ D. V.N. Mishra
 
 ### Shadanga (six limbs) — memorise all
 
-1. **Rupabheda** is variety of forms / appearances.  
-2. **Pramanam** is proportion / measurement (iconometry).  
-3. **Bhava** is emotion / expression.  
-4. **Lavanyayojana (Lavanyam)** is grace / charm.  
-5. **Sadrisyam** is likeness / verisimilitude.  
-6. **Varnikabhangam** is mixing of colours and brush mastery.  
+1. **Rupabheda** is variety of forms / appearances.
+2. **Pramanam** is proportion / measurement (iconometry).
+3. **Bhava** is emotion / expression.
+4. **Lavanyayojana (Lavanyam)** is grace / charm.
+5. **Sadrisyam** is likeness / verisimilitude.
+6. **Varnikabhangam** is mixing of colours and brush mastery.
 
 - Line (*rekha*) is primary. Colour fills the contour.
 - There is **no Western linear perspective**. Overlap and tiered space are used instead.
 - Picture classes in Chitrasutra are *satya* (realistic), *vainika* (lyrical), *nagara* (urban) and *mishra* (mixed).
-- *Chitralakshana* is the Nagnajit / Tibetan recension (name-lock).
+- *Chitralakshana* is the Nagnajit / Tibetan recension (name-fact).
 - *Samarangana Sutradhara* is by Bhoja (architecture + painting).
 - The Gupta–Vakataka look is Ajanta Phase II and **Bagh**.
 
-> **Exam note:** Papers swap **Pramanam (proportion)** with **Bhava (emotion)** and **Sadrisyam (likeness)**. Shadanga is not six Jain caves.
+> ** note:** Papers swap **Pramanam (proportion)** with **Bhava (emotion)** and **Sadrisyam (likeness)**. Shadanga is not six Jain caves.
 
 ---
 
@@ -134,9 +134,9 @@ D. V.N. Mishra
 - Wall prep is rough coat → fine lime → paint while damp.
 - **Ellora** is sculpture-famous. Cave 32 (Indra Sabha) has some paint. It is still not an Ajanta-class painting site.
 
-### Mural site list (exam set)
+### Mural site list (set)
 
-**Lock:** site — place — religion/period — one fact.
+**Fact:** site — place — religion/period — one fact.
 
 - **Jogimara / Sitabenga** is in Chhattisgarh. It is the earliest fresco.
 - **Ajanta** is in Maharashtra. It is Buddhist, **2nd c. BCE–6th c. CE**.
@@ -160,7 +160,7 @@ D. V.N. Mishra
 - **Tabo** is in Spiti. It is Himalayan Buddhist wall painting.
 - **Sigiriya** is in **Sri Lanka**. It is not India.
 
-> **Exam note:** Bagh is **MP**. Sittanavasal is **Jain**, not Buddhist Ajanta.
+> ** note:** Bagh is **MP**. Sittanavasal is **Jain**, not Buddhist Ajanta.
 
 ---
 
@@ -176,10 +176,10 @@ D. V.N. Mishra
 - **Cave 2** has painted ceilings and toilette / Jataka panels.
 - **Cave 16** has donor **Varahadeva**. It has **Mahajanaka Jataka**. It has the **Dying Princess** (Nanda’s wife).
 - **Cave 17** has Vessantara, Chaddanta, Mahakapi and Simhala Avadana.
-- The exam technique lock is **fresco on wet lime plaster** (not oil, not gold leaf).
+- The technique fact is **fresco on wet lime plaster** (not oil, not gold leaf).
 - Rediscovery was in **1819** by **John Smith** at Cave 10.
 
-> **Exam note:** Padmapani is **Cave 1**. Rediscovery is **1819** **John Smith**. The technique is fresco, not oil. Ajanta is not Ellora paintings.
+> ** note:** Padmapani is **Cave 1**. Rediscovery is **1819John Smith**. The technique is fresco, not oil. Ajanta is not Ellora paintings.
 
 ---
 
@@ -205,12 +205,12 @@ D. V.N. Mishra
 
 ### Akbar — manuscripts
 
-**Lock:** name — what it is — one exam fact.
+**Fact:** name — what it is — one fact.
 
 - **Tuti-nama** is *Tales of a Parrot*. It is the earliest Akbari illustrated set (Cleveland leaves).
 - **Hamzanama** is Akbar’s cloth cycle of Amir Hamza.
 - Hamzanama support is **cloth**, not paper.
-- Hamzanama size is about **1400** large folios, about **14 daftars**, **c. 1557–73**. This is the highest-yield Akbar lock.
+- Hamzanama size is about **1400** large folios, about **14 daftars**, **c. 1557–73**. This is the highest-yield Akbar fact.
 - **Anwar-i-Suhaili** is Persian animal fables (*Kalila wa Dimna*).
 - **Baburnama** is Babur’s memoirs in Persian translation. The pictures are **Akbar’s**, not Babur’s.
 - **Akbarnama** is the official history by **Abu’l Fazl**. **Basawan** often drew the outline and others coloured.
@@ -221,7 +221,7 @@ D. V.N. Mishra
 
 ### Akbar — artists
 
-**Lock:** name — job.
+**Fact:** name — job.
 
 - **Daswanth** was the leading **Hindu** master. He painted dramatic scenes. Tradition says he died by suicide.
 - **Basawan** was the **composition** specialist. He drew Akbarnama outlines.
@@ -229,17 +229,17 @@ D. V.N. Mishra
 - **Mukund** was a Hamzanama–Akbarnama narrative hand.
 - **Lal** was an Akbarnama / Razmnama hand.
 - **Miskin** painted animals and crowded history pages.
-- **Farrukh Beg** was a Persian émigré. His work is more Safavid, less busy-Indian.  
+- **Farrukh Beg** was a Persian émigré. His work is more Safavid, less busy-Indian.
 ### Jahangir — what changes
 
 **Shift:** fewer crowded stories; **portrait** + **birds/animals** + European shading. Album = *muraqqa* (gold border).
 
 ### Jahangir — artists
 
-**Lock:** name — title or specialty.
+**Fact:** name — title or specialty.
 
 - **Abu’l Hasan** held the title **Nadir-uz-Zaman** (“wonder of the age”). He painted royal portraits.
-- **Ustad Mansur** held the title **Nadir-ul-Asr**. He painted **natural history** (turkey, zebra, crane). This is the highest-yield Jahangir lock.
+- **Ustad Mansur** held the title **Nadir-ul-Asr**. He painted **natural history** (turkey, zebra, crane). This is the highest-yield Jahangir fact.
 - **Bishandas** was the **likeness** specialist. He was sent to **Shah Abbas** of Persia to paint the Shah.
 - **Manohar** painted darbar and portraits (Akbar–Jahangir overlap).
 - **Govardhan** painted holy men, darbar and soft modelling.
@@ -250,7 +250,7 @@ D. V.N. Mishra
 
 **Shift:** jewel finish, architecture, formal darbar.
 
-- **Padshahnama** is the official chronicle (Windsor copy is the exam copy).
+- **Padshahnama** is the official chronicle (Windsor copy is the copy).
 - **Dara Shikoh album** is the prince’s *muraqqa*.
 - **Payag** painted battle and darbar.
 - **Balchand** painted court and family portraits.
@@ -260,7 +260,7 @@ D. V.N. Mishra
 
 **Atelier shrinks.** Painters leave for **Rajput, Deccan, Awadh**. No new Hamzanama-scale imperial book.
 
-> **Exam note:** **Hamzanama**, **Daswanth** and **Basawan** are **Akbar**. **Mansur**, **Bishandas** and **Abu’l Hasan** are **Jahangir**. **Padshahnama** is **Shah Jahan**. Baburnama pictures are **Akbar**, not Babur.
+> ** note:Hamzanama**, **Daswanth** and **Basawan** are **Akbar**. **Mansur**, **Bishandas** and **Abu’l Hasan** are **Jahangir**. **Padshahnama** is **Shah Jahan**. Baburnama pictures are **Akbar**, not Babur.
 
 ### Deccani painting (not Rajput, not Kangra)
 
@@ -284,11 +284,11 @@ D. V.N. Mishra
 
 **Identity:** Hindu princely miniatures of **Rajasthan** (and Malwa). Devotional + romantic, flatter than Mughal.
 
-**Lock for every school:** place — artist — one famous work/theme.
+**Fact for every school:** place — artist — one famous work/theme.
 
 - **Mewar** (Udaipur/Chittor) has **Sahibdin** (Jagat Singh I).
 - Mewar books are *Rasikapriya* and Ramayana.
-- The early Mewar lock is **Chawand Ragamala** (Nasiruddin, **1605**).
+- The early Mewar fact is **Chawand Ragamala** (Nasiruddin, **1605**).
 - **Marwar** (Jodhpur) has robust figures and Jodhpur portraits.
 - **Bikaner** is more Mughalised than Marwar. **Ustad Ali Raza** is the artist.
 - **Amber–Jaipur** is court portrait.
@@ -309,7 +309,7 @@ D. V.N. Mishra
 - **Nayaka-nayika** shows hero/heroine moods.
 - Krishna-lila and epics are also series themes.
 
-> **Exam note:** **Bani Thani** is **Kishangarh / Nihal Chand**, not Kangra, not Mughal.
+> ** note:Bani Thani** is **Kishangarh / Nihal Chand**, not Kangra, not Mughal.
 
 ---
 
@@ -320,7 +320,7 @@ D. V.N. Mishra
 **Order to raata:** Basohli → Guler → Kangra.
 
 - **Basohli** (17th c., Jammu) is the earliest. It is bold, with hot red/yellow.
-- The Basohli book-lock is *Rasamanjari*.
+- The Basohli book-fact is *Rasamanjari*.
 - **Kripal** is a Basohli artist.
 - **Devidasa** is a Basohli artist.
 - **Guler** (18th c.) is where Mughal softness enters.
@@ -340,13 +340,13 @@ D. V.N. Mishra
 - The Kangra palette is soft green/blue/pink. Basohli is intense flat primaries.
 - **Nainsukh** is intimate court portrait + Krishna. Do not park him in Mewar.
 
-> **Exam note:** The order is **Basohli → Guler → Kangra**. Kangra is not Kishangarh.
+> ** note:** The order is **Basohli → Guler → Kangra**. Kangra is not Kishangarh.
 
 ---
 
 ## 4.8 Company School
 
-**Dates:** c. **1770–1850** | **Patrons:** East India Company officers | **Hands:** **Indian** artists
+**Dates:** c. **1770–1850** | **Patrons:** East India Company officers | **Hands:Indian** artists
 
 - The function is documentary albums for British patrons (costume, trade, monument, flora/fauna).
 - One Company-school centre is **Calcutta**.
@@ -368,7 +368,7 @@ D. V.N. Mishra
 - Patna look is mica (*abri*), trades and festivals, with no Mughal gold border.
 - Decline came with **photography** from the 1850s. It is not Bengal School.
 
-> **Exam note:** Company School is not British painters only. Patna Kalam is Company, not Mughal.
+> ** note:** Company School is not British painters only. Patna Kalam is Company, not Mughal.
 
 ---
 
@@ -387,7 +387,7 @@ D. V.N. Mishra
 
 ### Bengal School
 
-**Founder:** **Abanindranath Tagore** (at Calcutta School of Art under **E.B. Havell**, 1896–1900s) | **Technique:** Japanese-influenced **wash** | **Allies:** Okakura Kakuzo / Sister Nivedita circle
+**Founder:Abanindranath Tagore** (at Calcutta School of Art under **E.B. Havell**, 1896–1900s) | **Technique:** Japanese-influenced **wash** | **Allies:** Okakura Kakuzo / Sister Nivedita circle
 
 - It is an anti-colonial revival using Mughal, Rajput and Ajanta memory.
 - Abanindranath painted ***Bharat Mata* (1905)**.
@@ -398,14 +398,14 @@ D. V.N. Mishra
 - Nandalal painted **Haripura Congress posters, 1938**.
 - Nandalal illuminated pages of the **Constitution (1950)**.
 - **Benode Behari Mukherjee** painted the Hindi Bhavan mural, Santiniketan.
-- **Ramkinkar Baij** is sculpture (Santiniketan), not a painting lock.
+- **Ramkinkar Baij** is sculpture (Santiniketan), not a painting fact.
 - **Asit Kumar Haldar** is Bengal wash.
 - **Kshitindranath Majumdar** is Bengal wash.
 - **Abdur Rahman Chughtai** is Lahore wash, Mughal lyric, not PAG.
 - **Gaganendranath Tagore** is cubist / ink. He is not the same as Abanindranath wash.
 - **Rabindranath** made late coloured doodles, not Bengal School doctrine.
 
-### Other modern locks
+### Other modern facts
 
 - **Amrita Sher-Gil** (**1913–1941**) was Paris-trained, Indo-Hungarian.
 - Sher-Gil work is ***Three Girls***.
@@ -429,13 +429,13 @@ D. V.N. Mishra
 - **Bhupen Khakhar** is Baroda narrative.
 - **Lalit Kala Akademi** is **1954**, New Delhi. It is the apex body for visual arts.
 
-> **Exam note:** Ravi Varma is not Abanindranath. PAG is **1947**, not Bengal School 1900s.
+> ** note:** Ravi Varma is not Abanindranath. PAG is **1947**, not Bengal School 1900s.
 
 ---
 
-## Folk painting (exam overlap — not a second Folk topic)
+## Folk painting (overlap — not a second Folk topic)
 
-Papers still match these under “painting” — list is exam-complete here.
+Papers still match these under “painting” — list is -complete here.
 
 ### Court-south (not folk, not Mughal)
 
@@ -470,7 +470,7 @@ Papers still match these under “painting” — list is exam-complete here.
 - **Sanjhi** is **Braj / Mathura–Vrindavan, UP**. It is stencilled Krishna.
 - **Lippan** is Kutch mirror-mud.
 
-### UP painting locks
+### UP painting facts
 
 - **Sanjhi** is Braj.
 - **Lucknow / Awadh** is Nawabi + Company.
@@ -482,9 +482,9 @@ Papers still match these under “painting” — list is exam-complete here.
 
 The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
 
-A. Jewellery  
-B. Painting  
-C. Bamboo art  
+A. Jewellery
+B. Painting
+C. Bamboo art
 D. Marble curving
 
 <details>
@@ -502,13 +502,13 @@ D. Marble curving
 
 **Q1.** With reference to Bhimbetka, which of the following statements is/are correct?
 
-1. It is in Raisen district of Madhya Pradesh.  
-2. V.S. Wakankar first demonstrated the prehistoric importance of its rock paintings.  
+1. It is in Raisen district of Madhya Pradesh.
+2. V.S. Wakankar first demonstrated the prehistoric importance of its rock paintings.
 3. The paintings are Gupta-period Buddhist frescoes like Ajanta.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -522,21 +522,21 @@ D. 1, 2 and 3
 
 **Q2.** Match List-I with List-II (Shadanga).
 
-**List-I**  
-A. Pramanam  
-B. Bhava  
-C. Sadrisyam  
-D. Varnikabhangam  
+**List-I**
+A. Pramanam
+B. Bhava
+C. Sadrisyam
+D. Varnikabhangam
 
-**List-II**  
-1. Emotion  
-2. Proportion  
-3. Colour and brush  
-4. Likeness  
+**List-II**
+1. Emotion
+2. Proportion
+3. Colour and brush
+4. Likeness
 
-A. 2, 1, 4, 3  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 2, 1, 4, 3
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 2, 4, 1, 3
 
 <details>
@@ -550,13 +550,13 @@ D. 2, 4, 1, 3
 
 **Q3.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Bagh caves — Uttar Pradesh  
-2. Sittanavasal — Jain murals, Tamil Nadu  
+1. Bagh caves — Uttar Pradesh
+2. Sittanavasal — Jain murals, Tamil Nadu
 3. Brihadeeswara inner vimana — Chola frescoes
 
-A. Only 1  
-B. 1 and 2 only  
-C. 2 and 3 only  
+A. Only 1
+B. 1 and 2 only
+C. 2 and 3 only
 D. Only 3
 
 <details>
@@ -570,13 +570,13 @@ D. Only 3
 
 **Q4.** With reference to Ajanta paintings, which of the following statements is/are correct?
 
-1. Padmapani and Vajrapani are in Cave 1.  
-2. The paintings are oil on canvas.  
+1. Padmapani and Vajrapani are in Cave 1.
+2. The paintings are oil on canvas.
 3. John Smith’s 1819 visit is associated with their modern rediscovery.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -590,13 +590,13 @@ D. 1, 2 and 3
 
 **Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Ajanta is more famous for mural painting than Ellora.  
+**Assertion (A):** Ajanta is more famous for mural painting than Ellora.
 
 **Reason (R):** Ellora’s outstanding monument is the monolithic Kailasa temple, a work of sculpture/architecture.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -610,14 +610,14 @@ D. (A) is false, but (R) is true
 
 **Q6.** Arrange the following in chronological order:
 
-1. Kangra school at its lyrical peak  
-2. Ajanta Mahayana murals  
-3. Akbar’s Hamzanama  
+1. Kangra school at its lyrical peak
+2. Ajanta Mahayana murals
+3. Akbar’s Hamzanama
 4. Bhimbetka Mesolithic layers (earliest phase)
 
-A. 4, 2, 3, 1  
-B. 4, 2, 1, 3  
-C. 2, 4, 3, 1  
+A. 4, 2, 3, 1
+B. 4, 2, 1, 3
+C. 2, 4, 3, 1
 D. 4, 3, 2, 1
 
 <details>
@@ -631,21 +631,21 @@ D. 4, 3, 2, 1
 
 **Q7.** Match List-I with List-II (Mughal painting).
 
-**List-I**  
-A. Hamzanama  
-B. Ustad Mansur  
-C. Mir Sayyid Ali  
-D. Daswanth  
+**List-I**
+A. Hamzanama
+B. Ustad Mansur
+C. Mir Sayyid Ali
+D. Daswanth
 
-**List-II**  
-1. Jahangir’s natural-history painter  
-2. Akbar’s illustrated adventure cycle  
-3. Brought to India under Humayun  
-4. Hindu master in Akbar’s kitabkhana  
+**List-II**
+1. Jahangir’s natural-history painter
+2. Akbar’s illustrated adventure cycle
+3. Brought to India under Humayun
+4. Hindu master in Akbar’s kitabkhana
 
-A. 2, 1, 3, 4  
-B. 2, 1, 4, 3  
-C. 1, 2, 3, 4  
+A. 2, 1, 3, 4
+B. 2, 1, 4, 3
+C. 1, 2, 3, 4
 D. 2, 3, 1, 4
 
 <details>
@@ -659,13 +659,13 @@ D. 2, 3, 1, 4
 
 **Q8.** With reference to Mughal painting, which of the following statements is/are correct?
 
-1. It is primarily a miniature tradition on paper or cloth, not Ajanta-style wall fresco.  
-2. Aurangzeb’s reign saw court painters moving towards Rajput ateliers.  
+1. It is primarily a miniature tradition on paper or cloth, not Ajanta-style wall fresco.
+2. Aurangzeb’s reign saw court painters moving towards Rajput ateliers.
 3. Bani Thani is a masterpiece of Jahangir’s atelier.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -679,9 +679,9 @@ D. 1, 2 and 3
 
 **Q9.** Which one of the following pairs is **NOT** correctly matched?
 
-A. Sahibdin — Mewar  
-B. Nihal Chand — Kishangarh  
-C. Nainsukh — Guler/Kangra  
+A. Sahibdin — Mewar
+B. Nihal Chand — Kishangarh
+C. Nainsukh — Guler/Kangra
 D. Ustad Mansur — Mewar
 
 <details>
@@ -695,13 +695,13 @@ D. Ustad Mansur — Mewar
 
 **Q10.** With reference to Pahari painting, which of the following statements is/are correct?
 
-1. Basohli is earlier and bolder than Kangra.  
-2. Kangra’s famous patron is Sansar Chand.  
+1. Basohli is earlier and bolder than Kangra.
+2. Kangra’s famous patron is Sansar Chand.
 3. Kangra is a Rajasthan desert school like Marwar.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -715,14 +715,14 @@ D. 1, 2 and 3
 
 **Q11.** How many of the following mural sites are correctly matched?
 
-1. Sittanavasal — Jain, Tamil Nadu  
-2. Lepakshi — Vijayanagara, Andhra Pradesh  
-3. Mattancherry — Kerala palace murals  
+1. Sittanavasal — Jain, Tamil Nadu
+2. Lepakshi — Vijayanagara, Andhra Pradesh
+3. Mattancherry — Kerala palace murals
 4. Bagh — Buddhist, Uttar Pradesh
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -736,13 +736,13 @@ D. Only one
 
 **Q12.** With reference to the Company School, which of the following statements is/are correct?
 
-1. Patrons were mainly East India Company officials.  
-2. Shaikh Zainuddin painted birds for the Impey Album.  
+1. Patrons were mainly East India Company officials.
+2. Shaikh Zainuddin painted birds for the Impey Album.
 3. It is another name for the Bengal School of Abanindranath.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -756,13 +756,13 @@ D. 1, 2 and 3
 
 **Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Raja Ravi Varma is not grouped with the Bengal School.  
+**Assertion (A):** Raja Ravi Varma is not grouped with the Bengal School.
 
 **Reason (R):** He used European oil technique and oleographs, which the Bengal School later rejected as academic-colonial.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -776,21 +776,21 @@ D. (A) is false, but (R) is true
 
 **Q14.** Match List-I with List-II (modern).
 
-**List-I**  
-A. Abanindranath Tagore  
-B. Nandalal Bose  
-C. Amrita Sher-Gil  
-D. S.H. Raza  
+**List-I**
+A. Abanindranath Tagore
+B. Nandalal Bose
+C. Amrita Sher-Gil
+D. S.H. Raza
 
-**List-II**  
-1. Haripura posters, 1938  
-2. Bengal School wash / *Bharat Mata*  
-3. Bindu series, PAG  
-4. Paris-trained Indo-Western modernism  
+**List-II**
+1. Haripura posters, 1938
+2. Bengal School wash / *Bharat Mata*
+3. Bindu series, PAG
+4. Paris-trained Indo-Western modernism
 
-A. 2, 1, 4, 3  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 2, 1, 4, 3
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 2, 4, 1, 3
 
 <details>
@@ -804,13 +804,13 @@ D. 2, 4, 1, 3
 
 **Q15.** Which of the following statements about the Progressive Artists’ Group is/are correct?
 
-1. It was formed in Bombay in 1947.  
-2. M.F. Husain, F.N. Souza and S.H. Raza were associated with it.  
+1. It was formed in Bombay in 1947.
+2. M.F. Husain, F.N. Souza and S.H. Raza were associated with it.
 3. It was founded by Abanindranath Tagore at Santiniketan.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -824,13 +824,13 @@ D. 1, 2 and 3
 
 **Q16.** With reference to folk painting names often asked under “painting,” which of the following statements is/are correct?
 
-1. Madhubani (Mithila) is from Bihar and has a GI tag.  
-2. Warli painting is associated with Maharashtra.  
+1. Madhubani (Mithila) is from Bihar and has a GI tag.
+2. Warli painting is associated with Maharashtra.
 3. Madhubani is on UNESCO’s Representative List of ICH as a named Indian element.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -844,9 +844,9 @@ D. 1, 2 and 3
 
 **Q17.** The book *Venushilpa* by Chitracharya Upendra Maharathi relates to
 
-A. Jewellery  
-B. Painting  
-C. Bamboo art  
+A. Jewellery
+B. Painting
+C. Bamboo art
 D. Marble carving
 
 <details>
@@ -860,13 +860,13 @@ D. Marble carving
 
 **Q18.** Which of the following is/are correctly matched?
 
-1. Ragamala — pictorial ragas  
-2. Baramasa — twelve months  
+1. Ragamala — pictorial ragas
+2. Baramasa — twelve months
 3. Hamzanama — Kangra Gita Govinda cycle
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -880,15 +880,15 @@ D. 1, 2 and 3
 
 **Q19.** Consider the following pairs (artist — court/school):
 
-1. Bishandas — Jahangir  
-2. Sahibdin — Mewar  
+1. Bishandas — Jahangir
+2. Sahibdin — Mewar
 3. Jamini Roy — Kangra
 
 How many pairs are correctly matched?
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -902,13 +902,13 @@ D. None
 
 **Q20.** With reference to Ajanta phases, which of the following statements is/are correct?
 
-1. The earlier phase is largely aniconic.  
-2. The later phase shows Bodhisattva figures under Vakataka patronage.  
+1. The earlier phase is largely aniconic.
+2. The later phase shows Bodhisattva figures under Vakataka patronage.
 3. Cave 1 Padmapani belongs to the aniconic Hinayana phase.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -922,21 +922,21 @@ D. 1, 2 and 3
 
 **Q21.** Match List-I with List-II.
 
-**List-I (School)**  
-A. Basohli  
-B. Kishangarh  
-C. Patna Kalam  
-D. Bengal School  
+**List-I (School)**
+A. Basohli
+B. Kishangarh
+C. Patna Kalam
+D. Bengal School
 
-**List-II**  
-1. Company School  
-2. Early Pahari, bold colour  
-3. Bani Thani  
-4. Abanindranath wash  
+**List-II**
+1. Company School
+2. Early Pahari, bold colour
+3. Bani Thani
+4. Abanindranath wash
 
-A. 2, 3, 1, 4  
-B. 2, 3, 4, 1  
-C. 3, 2, 1, 4  
+A. 2, 3, 1, 4
+B. 2, 3, 4, 1
+C. 3, 2, 1, 4
 D. 2, 1, 3, 4
 
 <details>
@@ -950,13 +950,13 @@ D. 2, 1, 3, 4
 
 **Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Company painting declined in the mid-nineteenth century.  
+**Assertion (A):** Company painting declined in the mid-nineteenth century.
 
 **Reason (R):** Photography began to satisfy the documentary demand of European patrons.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -970,9 +970,9 @@ D. (A) is false, but (R) is true
 
 **Q23.** Which one of the following mural traditions is **Jain**?
 
-A. Ajanta Cave 1  
-B. Bagh  
-C. Sittanavasal  
+A. Ajanta Cave 1
+B. Bagh
+C. Sittanavasal
 D. Padmapani panel
 
 <details>
@@ -986,13 +986,13 @@ D. Padmapani panel
 
 **Q24.** With reference to Chola painting, which of the following statements is/are correct?
 
-1. Frescoes survive inside the Brihadeeswara vimana at Thanjavur.  
-2. They were painted as Mughal miniatures on paper.  
+1. Frescoes survive inside the Brihadeeswara vimana at Thanjavur.
+2. They were painted as Mughal miniatures on paper.
 3. Some were hidden under later Nayaka overpaint.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1006,14 +1006,14 @@ D. 1, 2 and 3
 
 **Q25.** How many of the following are Mughal (not Rajput/Pahari) associations?
 
-1. Tuti-nama  
-2. Rasikapriya of Sahibdin  
-3. Akbarnama illustrations  
+1. Tuti-nama
+2. Rasikapriya of Sahibdin
+3. Akbarnama illustrations
 4. Ustad Mansur’s birds
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1027,13 +1027,13 @@ D. Only one
 
 **Q26.** With reference to Nandalal Bose, which of the following statements is/are correct?
 
-1. He taught at Santiniketan.  
-2. He designed posters for the Haripura Congress (1938).  
+1. He taught at Santiniketan.
+2. He designed posters for the Haripura Congress (1938).
 3. He founded the Progressive Artists’ Group in Bombay.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1047,13 +1047,13 @@ D. 1, 2 and 3
 
 **Q27.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Phad — Rajasthan scroll painting  
-2. Warli — Maharashtra  
+1. Phad — Rajasthan scroll painting
+2. Warli — Maharashtra
 3. Kangra — Rajasthan Marwar
 
-A. Only 3  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. Only 3
+B. 1 and 3 only
+C. 2 and 3 only
 D. Only 1
 
 <details>
@@ -1067,13 +1067,13 @@ D. Only 1
 
 **Q28.** Consider the following statements about Shadanga:
 
-1. Rupabheda means knowledge of different forms.  
-2. Lavanyam means colour mixing.  
+1. Rupabheda means knowledge of different forms.
+2. Lavanyam means colour mixing.
 3. Varnikabhangam means colour and brush skill.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1087,13 +1087,13 @@ D. 1, 2 and 3
 
 **Q29.** Arrange the following Pahari developments:
 
-1. Kangra Gita Govinda under Sansar Chand  
-2. Basohli Rasamanjari  
+1. Kangra Gita Govinda under Sansar Chand
+2. Basohli Rasamanjari
 3. Guler naturalism of Nainsukh’s generation
 
-A. 2, 3, 1  
-B. 2, 1, 3  
-C. 3, 2, 1  
+A. 2, 3, 1
+B. 2, 1, 3
+C. 3, 2, 1
 D. 1, 2, 3
 
 <details>
@@ -1107,13 +1107,13 @@ D. 1, 2, 3
 
 **Q30.** With reference to Kalighat and Jamini Roy, which of the following statements is/are correct?
 
-1. Kalighat pats were a 19th-century Calcutta bazaar style.  
-2. Jamini Roy drew on Kalighat/folk flattening.  
+1. Kalighat pats were a 19th-century Calcutta bazaar style.
+2. Jamini Roy drew on Kalighat/folk flattening.
 3. Kalighat is a Pahari sub-school of Kangra.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1127,9 +1127,9 @@ D. 1, 2 and 3
 
 **Q31.** Which one of the following is **NOT** a painted Ajanta vihara among the usual “finest painting” set?
 
-A. Cave 1  
-B. Cave 16  
-C. Cave 17  
+A. Cave 1
+B. Cave 16
+C. Cave 17
 D. Cave 16 of Ellora (Kailasa)
 
 <details>
@@ -1143,21 +1143,21 @@ D. Cave 16 of Ellora (Kailasa)
 
 **Q32.** Match List-I with List-II.
 
-**List-I**  
-A. Badami  
-B. Lepakshi  
-C. Sigiriya  
-D. Bhimbetka  
+**List-I**
+A. Badami
+B. Lepakshi
+C. Sigiriya
+D. Bhimbetka
 
-**List-II**  
-1. Prehistoric rock art, MP  
-2. Early Chalukya Hindu cave painting  
-3. Sri Lanka (not India)  
-4. Vijayanagara murals  
+**List-II**
+1. Prehistoric rock art, MP
+2. Early Chalukya Hindu cave painting
+3. Sri Lanka (not India)
+4. Vijayanagara murals
 
-A. 2, 4, 3, 1  
-B. 2, 4, 1, 3  
-C. 4, 2, 3, 1  
+A. 2, 4, 3, 1
+B. 2, 4, 1, 3
+C. 4, 2, 3, 1
 D. 2, 3, 4, 1
 
 <details>
@@ -1171,13 +1171,13 @@ D. 2, 3, 4, 1
 
 **Q33.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Mughal painting is classified as miniature, not mural.  
+**Assertion (A):** Mughal painting is classified as miniature, not mural.
 
 **Reason (R):** Its typical support is the manuscript folio or album page, not the cave wall.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1191,13 +1191,13 @@ D. (A) is false, but (R) is true
 
 **Q34.** With reference to Kishangarh painting, which of the following statements is/are correct?
 
-1. Bani Thani is its celebrated idealised female type.  
-2. Nihal Chand is the associated artist.  
+1. Bani Thani is its celebrated idealised female type.
+2. Nihal Chand is the associated artist.
 3. It is a sub-school of Kangra in Himachal Pradesh.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1211,13 +1211,13 @@ D. 1, 2 and 3
 
 **Q35.** Which of the following manuscripts is/are **Akbar**-period?
 
-1. Hamzanama  
-2. Tuti-nama  
+1. Hamzanama
+2. Tuti-nama
 3. Gita Govinda series of Kangra
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1229,16 +1229,16 @@ D. 1, 2 and 3
 
 ---
 
-**Q36.** How many of the following modern artists are correctly paired with a lock?
+**Q36.** How many of the following modern artists are correctly paired with a fact?
 
-1. Ravi Varma — oleograph  
-2. Abanindranath — *Bharat Mata*  
-3. Husain — Bindu series  
+1. Ravi Varma — oleograph
+2. Abanindranath — *Bharat Mata*
+3. Husain — Bindu series
 4. Raza — Bindu series
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1252,13 +1252,13 @@ D. Only one
 
 **Q37.** With reference to Bagh caves, which of the following statements is/are correct?
 
-1. They lie in Madhya Pradesh.  
-2. The surviving paintings belong to a Gupta-period Buddhist vihara context.  
+1. They lie in Madhya Pradesh.
+2. The surviving paintings belong to a Gupta-period Buddhist vihara context.
 3. They are the same complex as Ajanta in Maharashtra.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1272,13 +1272,13 @@ D. 1, 2 and 3
 
 **Q38.** Which of the following is/are **NOT** correctly matched?
 
-1. Company School — c. 1770–1850  
-2. PAG — 1947 Bombay  
+1. Company School — c. 1770–1850
+2. PAG — 1947 Bombay
 3. Haripura posters — Raja Ravi Varma, 1888
 
-A. Only 3  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. Only 3
+B. 1 and 3 only
+C. 2 and 3 only
 D. Only 1
 
 <details>
@@ -1292,13 +1292,13 @@ D. Only 1
 
 **Q39.** With reference to Deccani painting, which of the following statements is/are correct?
 
-1. Centres included Bijapur, Golconda and Ahmadnagar.  
-2. It is identical with the Kangra Pahari school.  
+1. Centres included Bijapur, Golconda and Ahmadnagar.
+2. It is identical with the Kangra Pahari school.
 3. Gold grounds and ragamala/yogini themes are typical.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1312,13 +1312,13 @@ D. 1, 2 and 3
 
 **Q40.** Consider the following statements:
 
-1. V.S. Wakankar is credited with establishing Bhimbetka’s prehistoric painting importance.  
-2. Bhimbetka was inscribed on the World Heritage List in 2003.  
+1. V.S. Wakankar is credited with establishing Bhimbetka’s prehistoric painting importance.
+2. Bhimbetka was inscribed on the World Heritage List in 2003.
 3. Bhimbetka is in Uttar Pradesh.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1332,13 +1332,13 @@ D. 1, 2 and 3
 
 **Q41.** With reference to Jogimara paintings, which of the following statements is/are correct?
 
-1. They are in the Ramgarh hills of Chhattisgarh.  
-2. They are often cited as the earliest Indian frescoes (c. 3rd–1st c. BCE).  
+1. They are in the Ramgarh hills of Chhattisgarh.
+2. They are often cited as the earliest Indian frescoes (c. 3rd–1st c. BCE).
 3. They are Mahayana Buddhist murals of the Vakataka court.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1352,21 +1352,21 @@ D. 1, 2 and 3
 
 **Q42.** Match List-I with List-II.
 
-**List-I**  
-A. Dying Princess  
-B. Bani Thani  
-C. Bharat Mata  
-D. Three Girls  
+**List-I**
+A. Dying Princess
+B. Bani Thani
+C. Bharat Mata
+D. Three Girls
 
-**List-II**  
-1. Amrita Sher-Gil  
-2. Ajanta Cave 16  
-3. Nihal Chand, Kishangarh  
-4. Abanindranath Tagore  
+**List-II**
+1. Amrita Sher-Gil
+2. Ajanta Cave 16
+3. Nihal Chand, Kishangarh
+4. Abanindranath Tagore
 
-A. 2, 3, 4, 1  
-B. 2, 3, 1, 4  
-C. 3, 2, 4, 1  
+A. 2, 3, 4, 1
+B. 2, 3, 1, 4
+C. 3, 2, 4, 1
 D. 2, 4, 3, 1
 
 <details>
@@ -1380,14 +1380,14 @@ D. 2, 4, 3, 1
 
 **Q43.** How many of the following pairs are correctly matched?
 
-1. Tanjore painting — gold foil on wood  
-2. Srikalahasti Kalamkari — block-print trade cloth  
-3. Phad — Pabuji scroll, Rajasthan  
+1. Tanjore painting — gold foil on wood
+2. Srikalahasti Kalamkari — block-print trade cloth
+3. Phad — Pabuji scroll, Rajasthan
 4. Sanjhi — Braj / Mathura–Vrindavan, UP
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1401,13 +1401,13 @@ D. Only one
 
 **Q44.** With reference to Mughal manuscripts, which of the following statements is/are correct?
 
-1. Hamzanama folios are large and often on cloth.  
-2. Padshahnama is associated with Shah Jahan.  
+1. Hamzanama folios are large and often on cloth.
+2. Padshahnama is associated with Shah Jahan.
 3. Nimatnama of Ghiyath Shahi is an Akbar kitabkhana product.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1421,13 +1421,13 @@ D. 1, 2 and 3
 
 **Q45.** Which of the following is/are **NOT** correctly matched?
 
-1. Nujum al-Ulum — Bijapur / Deccani  
-2. Pichwai — Nathdwara, Shrinathji  
+1. Nujum al-Ulum — Bijapur / Deccani
+2. Pichwai — Nathdwara, Shrinathji
 3. Mola Ram — Mewar Sahibdin atelier
 
-A. Only 3  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. Only 3
+B. 1 and 3 only
+C. 2 and 3 only
 D. Only 1
 
 <details>
@@ -1441,13 +1441,13 @@ D. Only 1
 
 **Q46.** With reference to Nandalal Bose, which of the following statements is/are correct?
 
-1. He painted the Haripura Congress posters (1938).  
-2. He illuminated pages of the original Constitution of India.  
+1. He painted the Haripura Congress posters (1938).
+2. He illuminated pages of the original Constitution of India.
 3. He founded the Progressive Artists’ Group in Bombay in 1947.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1461,13 +1461,13 @@ D. 1, 2 and 3
 
 **Q47.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Tanjore paintings are readily distinguished from Mysore paintings in GK matching.  
+**Assertion (A):** Tanjore paintings are readily distinguished from Mysore paintings in GK matching.
 
 **Reason (R):** Tanjore work typically uses heavier gold foil and gem/glass inlay on wood, while Mysore work is finer-lined gesso with less gemming.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1481,16 +1481,16 @@ D. (A) is false, but (R) is true
 
 **Q48.** Consider the following mural sites:
 
-1. Sittanavasal  
-2. Armamalai  
-3. Alchi  
+1. Sittanavasal
+2. Armamalai
+3. Alchi
 4. Sigiriya
 
 How many of the above are in India?
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1504,13 +1504,13 @@ D. Only one
 
 **Q49.** With reference to Awadh painting, which of the following statements is/are correct?
 
-1. Lucknow developed a late-Mughal Nawabi style with European light-and-shade.  
-2. Mihr Chand is associated with this milieu.  
+1. Lucknow developed a late-Mughal Nawabi style with European light-and-shade.
+2. Mihr Chand is associated with this milieu.
 3. It is the same school as Kangra Gita Govinda sets.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1524,21 +1524,21 @@ D. 1, 2 and 3
 
 **Q50.** Match List-I with List-II (folk/ritual).
 
-**List-I**  
-A. Warli  
-B. Madhubani  
-C. Gond  
-D. Phad  
+**List-I**
+A. Warli
+B. Madhubani
+C. Gond
+D. Phad
 
-**List-II**  
-1. Bihar Mithila, double line  
-2. Maharashtra, white on mud  
-3. Rajasthan, Pabuji scroll  
-4. MP Pardhan, dotted line  
+**List-II**
+1. Bihar Mithila, double line
+2. Maharashtra, white on mud
+3. Rajasthan, Pabuji scroll
+4. MP Pardhan, dotted line
 
-A. 2, 1, 4, 3  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 2, 1, 4, 3
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 2, 4, 1, 3
 
 <details>
@@ -1558,9 +1558,9 @@ D. 2, 4, 1, 3
 
 Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
 
-A. Madho Swaroop Vatsa  
-B. H.D. Sankalia  
-C. V.S. Wakankar  
+A. Madho Swaroop Vatsa
+B. H.D. Sankalia
+C. V.S. Wakankar
 D. V.N. Mishra
 
 <details>
@@ -1576,9 +1576,9 @@ D. V.N. Mishra
 
 The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
 
-A. Jewellery  
-B. Painting  
-C. Bamboo art  
+A. Jewellery
+B. Painting
+C. Bamboo art
 D. Marble curving
 
 <details>
@@ -1594,7 +1594,7 @@ D. Marble curving
 
 - **Pithora** painting (Rathwa, Gujarat; also practised in adjoining belts) — GI-led livelihood push in 2025–26 news; folk wall art, not a Mughal school.
 - **Madhubani** = GI; **not** a UNESCO ICH inscribed element.
-- No new Ajanta/Mughal manuscript CA that changes static locks (last verified August 2026).
+- No new Ajanta/Mughal manuscript CA that changes static facts (last verified August 2026).
 
 ---
 
@@ -1616,7 +1616,7 @@ D. Marble curving
 14. **Sittanavasal** is Jain. **Ajanta** is Buddhist.
 15. Madhubani is GI, not UNESCO ICH. Sigiriya is Sri Lanka.
 16. Mughal painting is miniature, not mural.
-17. **Jogimara** (CG) is the earliest fresco lock — **not** Ajanta and **not** UP.
+17. **Jogimara** (CG) is the earliest fresco fact — **not** Ajanta and **not** UP.
 18. Dying Princess is Ajanta **Cave 16**, not Cave 1 Padmapani.
 19. **Nimatnama** is Mandu cookbook, not Akbar. **Hamzanama** is Akbar cloth folios.
 20. **Tanjore** is gold/gems on wood. **Mysore** is finer gesso.

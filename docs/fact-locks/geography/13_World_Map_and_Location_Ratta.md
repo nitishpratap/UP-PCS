@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 13</p>
 <h1 class="fact-lock-hero__title">World Map & Location Ratta</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
@@ -3523,7 +3523,7 @@ And remember:
 
 ## 45. ABSOLUTE MUST-RATTA — TOP 50
 
-If you have only **15 minutes before the exam**, revise these:
+If you have only **15 minutes before the paper**, revise these:
 
 1. **Gibraltar → Spain–Morocco**
 2. **Hormuz → Iran–Oman**

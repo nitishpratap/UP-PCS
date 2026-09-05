@@ -8,13 +8,13 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 </details>
 
-> **Sources baked in:** WPA 1972 (amended 2002, 2006), EPA 1986, Ramsar Convention, UNESCO MAB/WH, NTCA, MoEFCC, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — PA comparison, location matching, UP Ramsar traps  
+> **Sources baked in:** WPA 1972 (amended 2002, 2006), EPA 1986, Ramsar Convention, UNESCO MAB/WH, NTCA, MoEFCC, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — PA comparison, location matching, UP Ramsar traps
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. The **Wildlife (Protection) Act, 1972** is India’s main protected-area statute.
 2. Terrestrial WPA strictness runs **National Park > Wildlife Sanctuary > Conservation/Community Reserve**.
@@ -31,7 +31,7 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 13. **Rudrasagar** is in **Tripura**. **Sultanpur** is in **Haryana**. Neither is an Uttar Pradesh Ramsar site.
 14. An **Eco-Sensitive Zone (ESZ)** is an **EPA 1986** buffer around protected areas that restricts mining and polluting industry. ESZ is **not** a WPA category.
 15. WPA basis yes: National Park, Sanctuary, Tiger Reserve, Conservation Reserve, Community Reserve. WPA basis no: Biosphere Reserve, Elephant Reserve, Ramsar, ESZ.
-16. Uttar Pradesh’s only classic National Park lock is **Dudhwa**.
+16. Uttar Pradesh’s only classic National Park fact is **Dudhwa**.
 17. UP tiger reserves are **Dudhwa, Pilibhit, and Ranipur**.
 18. Important UP sanctuaries include **Katarniaghat, Kishanpur, Nawabganj, and Sur Sarovar**.
 19. UP elephant reserves include **UP ER (2009)** and **Terai ER (2022)**.
@@ -47,7 +47,7 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -83,7 +83,7 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 | **Boundary change** | State process | De-notification needs **Parliament** |
 | **Strictness** | Moderate | **Highest** among WPA terrestrial PAs |
 
-> **Exam note:** Trap — "no human activity is allowed in any wildlife sanctuary" is **false**.
+> ** note:** Trap — "no human activity is allowed in any wildlife sanctuary" is **false**.
 
 ---
 
@@ -98,14 +98,14 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 - India's first national park was **Hailey National Park**, now **Corbett National Park (1936)** in Uttarakhand.
 - Uttar Pradesh's major national park is **Dudhwa National Park** in the Terai.
 
-> **Exam note:** UPPCS 2025 Q90 tests NP location matching. Keoladeo is in **Rajasthan**. Dachigam is in **Jammu & Kashmir**.
+> ** note:** UPPCS 2025 Q90 tests NP location matching. Keoladeo is in **Rajasthan**. Dachigam is in **Jammu & Kashmir**.
 
 **PYQ — UPPCS Prelims 2025, Q90**
 
 Match List-I with List-II:
 
-List-I: A. Dachigam  B. Keoladeo  C. Kanha  D. Periyar  
-List-II: 1. Madhya Pradesh  2. Rajasthan  3. Kerala  4. Jammu and Kashmir
+List-I: A. Dachigam B. Keoladeo C. Kanha D. Periyar
+List-II: 1. Madhya Pradesh 2. Rajasthan 3. Kerala 4. Jammu and Kashmir
 
 A. 4 2 1 3
 
@@ -156,7 +156,7 @@ D. 4 2 1 3
 | 17 | Seshachalam Hills | Andhra Pradesh |
 | 18 | Panna | Madhya Pradesh |
 
-> **Exam note:** UPPCS 2025 Q144 — **Nokrek–Manipur** pair is **NOT** correctly matched.
+> ** note:** UPPCS 2025 Q144 — **Nokrek–Manipur** pair is **NOT** correctly matched.
 
 **PYQ — UPPCS Prelims 2025, Q144**
 
@@ -164,8 +164,8 @@ Which of the following pairs is/are NOT correctly matched?
 
 (Biosphere Reserve) — (State)
 
-1. Nokrek — Manipur  
-2. Manas — Assam  
+1. Nokrek — Manipur
+2. Manas — Assam
 3. Agasthyamalai — Kerala
 
 A. Only 1
@@ -194,7 +194,7 @@ D. Only 1 and 3
 - Human activity is more flexible than in a national park. Traditional uses may continue under regulation.
 - **Asan Conservation Reserve** in Uttarakhand is a known example and is also a Ramsar site.
 
-> **Exam note:** Conservation Reserve = **forest buffer**. Community Reserve = **private/community land**. Do not swap them.
+> ** note:** Conservation Reserve = **forest buffer**. Community Reserve = **private/community land**. Do not swap them.
 
 ---
 
@@ -208,7 +208,7 @@ D. Only 1 and 3
 - It is the most community-led WPA protected-area category.
 - Community Reserves supplement strict PAs where full national park notification is socially difficult.
 
-> **Exam note:** Community Reserve requires **consent**. Conservation Reserve does **not** require private individual land.
+> ** note:** Community Reserve requires **consent**. Conservation Reserve does **not** require private individual land.
 
 ---
 
@@ -223,7 +223,7 @@ D. Only 1 and 3
 - India had **58 tiger reserves** after the notification of **Madhav Tiger Reserve** (2025).
 - UP tiger reserves include **Dudhwa (1987)**, **Pilibhit (2014)**, and **Ranipur (2023)**.
 
-> **Exam note:** Tiger Reserves have **WPA statutory backing**. Elephant Reserves do **not**.
+> ** note:** Tiger Reserves have **WPA statutory backing**. Elephant Reserves do **not**.
 
 ---
 
@@ -237,7 +237,7 @@ D. Only 1 and 3
 - India has **33 Elephant Reserves**.
 - UP has the **Uttar Pradesh Elephant Reserve (2009)** and the **Terai Elephant Reserve (2022)**.
 
-> **Exam note:** Trap — "Elephant Reserves are declared under WPA like Tiger Reserves" is **false**.
+> ** note:** Trap — "Elephant Reserves are declared under WPA like Tiger Reserves" is **false**.
 
 ---
 
@@ -251,7 +251,7 @@ D. Only 1 and 3
 - Coastal regulation also uses **CRZ** rules under the **EPA 1986**.
 - **Uttar Pradesh has no marine protected area** because it is landlocked.
 
-> **Exam note:** Negative questions may use UP as the state with **zero** marine PAs.
+> ** note:** Negative questions may use UP as the state with **zero** marine PAs.
 
 ---
 
@@ -269,15 +269,15 @@ D. Only 1 and 3
 - **Rudrasagar Lake** is in **Tripura**, not UP.
 - **Sultanpur National Park** is in **Haryana**, not UP.
 
-> **Exam note:** UPPCS 2025 Q58 — NOT in UP: **Rudrasagar** and **Sultanpur**.
+> ** note:** UPPCS 2025 Q58 — NOT in UP: **Rudrasagar** and **Sultanpur**.
 
 **PYQ — UPPCS Prelims 2025, Q58**
 
 Which of the following Ramsar sites are NOT located in Uttar Pradesh?
 
-1. Sarsai Nawar Jheel  
-2. Samaspur Bird Sanctuary  
-3. Rudrasagar Lake  
+1. Sarsai Nawar Jheel
+2. Samaspur Bird Sanctuary
+3. Rudrasagar Lake
 4. Sultanpur National Park
 
 A. 1 and 3
@@ -306,7 +306,7 @@ D. 1 and 2
 - **Keoladeo** is both a Ramsar wetland and a UNESCO natural World Heritage Site.
 - **Uttar Pradesh has no natural UNESCO World Heritage Site**. Nanda Devi is in **Uttarakhand**.
 
-> **Exam note:** Do not confuse **natural WH sites** with **cultural WH sites** such as Jaipur city.
+> ** note:** Do not confuse **natural WH sites** with **cultural WH sites** such as Jaipur city.
 
 ---
 
@@ -320,7 +320,7 @@ D. 1 and 2
 - ESZ width is notified case by case. It is **not** a fixed 10 km rule for every protected area in all states.
 - ESZs aim to reduce shock between strict protected cores and surrounding development.
 
-> **Exam note:** ESZ = **EPA 1986**. National Park = **WPA 1972**. Do not swap the two laws.
+> ** note:** ESZ = **EPA 1986**. National Park = **WPA 1972**. Do not swap the two laws.
 
 ---
 
@@ -330,7 +330,7 @@ D. 1 and 2
 
 **Q1.** With reference to National Parks, which statements is/are correct?
 
-1. They are declared under WPA Section 35.  
+1. They are declared under WPA Section 35.
 2. Grazing is permitted with CWLW approval.
 
 A. Only 1
@@ -349,7 +349,7 @@ D. Neither
 
 **Q2.** With reference to Biosphere Reserves, which statements is/are correct?
 
-1. India has 18 notified Biosphere Reserves.  
+1. India has 18 notified Biosphere Reserves.
 2. Nokrek Biosphere Reserve is in Manipur.
 
 A. Only 1
@@ -368,7 +368,7 @@ D. Neither
 
 **Q3.** With reference to Ramsar sites, which statements is/are correct?
 
-1. India joined the Ramsar Convention in 1982.  
+1. India joined the Ramsar Convention in 1982.
 2. Sultanpur National Park is a Ramsar site in Uttar Pradesh.
 
 A. Only 1
@@ -387,7 +387,7 @@ D. Neither
 
 **Q4.** With reference to Tiger Reserves, which statements is/are correct?
 
-1. They are established under WPA Section 38V.  
+1. They are established under WPA Section 38V.
 2. Elephant Reserves have the same WPA statutory backing.
 
 A. Only 1
@@ -406,7 +406,7 @@ D. Neither
 
 **Q5.** With reference to Eco-Sensitive Zones, which statements is/are correct?
 
-1. ESZs are notified under EPA 1986.  
+1. ESZs are notified under EPA 1986.
 2. ESZs are created under WPA 1972.
 
 A. Only 1
@@ -425,7 +425,7 @@ D. Neither
 
 **Q6.** With reference to protected areas in UP, which statements is/are correct?
 
-1. Dudhwa is a major National Park in UP.  
+1. Dudhwa is a major National Park in UP.
 2. UP has marine national parks on the Ganga coast.
 
 A. Only 1
@@ -444,7 +444,7 @@ D. Neither
 
 **Q7.** With reference to Community and Conservation Reserves, which statements is/are correct?
 
-1. Community Reserves require voluntary community consent.  
+1. Community Reserves require voluntary community consent.
 2. Conservation Reserves are declared only on private individual farmland.
 
 A. Only 1
@@ -463,7 +463,7 @@ D. Neither
 
 **Q8.** With reference to wildlife sanctuaries, which statements is/are correct?
 
-1. Hunting is prohibited inside sanctuaries.  
+1. Hunting is prohibited inside sanctuaries.
 2. No human activity of any kind is ever allowed in sanctuaries.
 
 A. Only 1
@@ -514,8 +514,8 @@ D. Maharashtra
 
 **Q11.** Match List-I with List-II:
 
-List-I: A. Simlipal  B. Nokrek  C. Agasthyamalai  D. Manas  
-List-II: 1. Kerala  2. Odisha  3. Assam  4. Meghalaya
+List-I: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas
+List-II: 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
 
 A. 2 4 1 3
 
@@ -579,7 +579,7 @@ D. UNESCO MAB — Biosphere Reserves
 
 </details>
 
-**Q15.** Assertion (A): National Parks are stricter than Wildlife Sanctuaries.  
+**Q15.** Assertion (A): National Parks are stricter than Wildlife Sanctuaries.
 Reason (R): Grazing is prohibited in National Parks but may be allowed in sanctuaries with permission.
 
 A. Both true; R explains A
@@ -678,8 +678,8 @@ D. 22 May
 
 **Q21.** Match PA type with WPA section:
 
-List-I: A. National Park  B. Conservation Reserve  C. Tiger Reserve  
-List-II: 1. Sec 36A  2. Sec 35  3. Sec 38V
+List-I: A. National Park B. Conservation Reserve C. Tiger Reserve
+List-II: 1. Sec 36A 2. Sec 35 3. Sec 38V
 
 A. 2 1 3
 
@@ -825,7 +825,7 @@ D. Zoos only
 
 **Q30.** Arrange chronologically:
 
-1. WPA enacted  2. Project Tiger  3. India joins Ramsar  4. Conservation Reserve added to WPA
+1. WPA enacted 2. Project Tiger 3. India joins Ramsar 4. Conservation Reserve added to WPA
 
 A. 1, 2, 3, 4
 
@@ -849,7 +849,7 @@ D. 3, 1, 2, 4
 
 Which of the following Ramsar sites are NOT located in Uttar Pradesh?
 
-1. Sarsai Nawar Jheel  2. Samaspur Bird Sanctuary  3. Rudrasagar Lake  4. Sultanpur National Park
+1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
 
 A. 1 and 3
 
@@ -867,7 +867,7 @@ D. 1 and 2
 
 **Q2. UPPCS Prelims 2025, Q90**
 
-Match List-I with List-II: A. Dachigam  B. Keoladeo  C. Kanha  D. Periyar | 1. MP  2. Rajasthan  3. Kerala  4. J&K
+Match List-I with List-II: A. Dachigam B. Keoladeo C. Kanha D. Periyar | 1. MP 2. Rajasthan 3. Kerala 4. J&K
 
 A. 4 2 1 3
 
@@ -885,7 +885,7 @@ D. 4 2 1 3
 
 **Q3. UPPCS Prelims 2025, Q144**
 
-Which pairs is/are NOT correctly matched? 1. Nokrek — Manipur  2. Manas — Assam  3. Agasthyamalai — Kerala
+Which pairs is/are NOT correctly matched? 1. Nokrek — Manipur 2. Manas — Assam 3. Agasthyamalai — Kerala
 
 A. Only 1
 
@@ -903,7 +903,7 @@ D. Only 1 and 3
 
 **Q4. UPPCS Prelims 2024, Q10**
 
-Match: A. Simlipal  B. Nokrek  C. Agasthyamalai  D. Manas | 1. Kerala  2. Odisha  3. Assam  4. Meghalaya
+Match: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas | 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
 
 A. 1 2 4 3
 
@@ -1055,7 +1055,7 @@ D. Simlipal NP — Madhya Pradesh
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | No human activity in sanctuary | Activity **possible with CWLW permission** |
 | Nokrek in Manipur | **Meghalaya** |

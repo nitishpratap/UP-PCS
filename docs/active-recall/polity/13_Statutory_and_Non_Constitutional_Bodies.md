@@ -67,7 +67,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Yes.** NITI Aayog is the lock (Cabinet Resolution, 2015).
+**Ans: Yes.** NITI Aayog is the fact (Cabinet Resolution, 2015).
 
 </details>
 
@@ -412,7 +412,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: 2005** (enacted 15 June; in force **12 October 2005**). MKSS is the movement lock.
+**Ans: 2005** (enacted 15 June; in force **12 October 2005**). MKSS is the movement fact.
 
 </details>
 
@@ -448,7 +448,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: After the 2019 amendment, term, salary and conditions are as the Central government prescribes.** The old lock was 5 years or age 65, aligned toward the CEC formula.
+**Ans: After the 2019 amendment, term, salary and conditions are as the Central government prescribes.** The old fact was 5 years or age 65, aligned toward the CEC formula.
 
 </details>
 
@@ -497,7 +497,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Statutory since 2003.** It has **no Article**. UPPCS 2020 lock.
+**Ans: Statutory since 2003.** It has **no Article**. UPPCS 2020 fact.
 
 </details>
 

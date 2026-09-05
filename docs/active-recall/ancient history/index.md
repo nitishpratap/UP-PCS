@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 # Ancient History — Active Recall

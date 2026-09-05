@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 11</p>
 <h1 class="fact-lock-hero__title">Indian Industries & Economic Geography</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
@@ -1567,10 +1567,10 @@ Location:
 
 Known for:
 
-> **Locks and hardware**
+> **Facts and hardware**
 
 
-> **Aligarh → Locks**
+> **Aligarh → Facts**
 
 ## 87. VARANASI INDUSTRIES
 
@@ -2429,7 +2429,7 @@ Six nodes:
 
 ### Aligarh
 
-> Locks + hardware
+> Facts + hardware
 
 ### Firozabad
 
@@ -2541,12 +2541,12 @@ Major:
 
 Major:
 
-> Locks
+> Facts
 
 > Hardware.
 
 
-> **Aligarh → Locks**
+> **Aligarh → Facts**
 
 ## 142. FIROZABAD
 
@@ -2679,7 +2679,7 @@ Major:
 
 > **Agra → Footwear**
 
-> **Aligarh → Locks**
+> **Aligarh → Facts**
 
 > **Moradabad → Brass**
 
@@ -3152,7 +3152,7 @@ Benefits:
 
 > **Agra → Footwear**
 
-> **Aligarh → Locks**
+> **Aligarh → Facts**
 
 > **Moradabad → Brassware**
 
@@ -3235,7 +3235,7 @@ Benefits:
 55. **Bhadohi → Carpet**
 56. **Moradabad → Brassware**
 57. **Firozabad → Glass**
-58. **Aligarh → Locks**
+58. **Aligarh → Facts**
 59. **Meerut → Sports goods**
 60. **Saharanpur → Wood carving**
 61. **DMIC → Delhi-Mumbai**

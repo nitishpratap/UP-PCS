@@ -1,6 +1,6 @@
 # Sports
 
-> **Priority B**  
+> **Priority B**
 > Sports Current Affairs was almost silent in 2023–25 UPPCS tags, but Padma sports names and big events still matter.
 
 ## What to note every time
@@ -19,7 +19,7 @@
 
 ### Padma sports names
 
-These are award locks, but they are often revised with sports notes too.
+These are award facts, but they are often revised with sports notes too.
 
 - **Rohit Sharma** received **Padma Shri** for Sports.
 - **Harmanpreet Kaur Bhullar** received **Padma Shri** for Sports.
@@ -36,13 +36,13 @@ No major Olympic or World Cup final was locked for January in this pass.
 
 ### Budget sports push
 
-**What happened**  
+**What happened**
 The Union Budget spoke about making India stronger in sports goods manufacturing, research, and design. It also used **Khelo India Mission** language for a wider sports ecosystem push.
 
 **How to revise**
 
 - Do not confuse the new Budget mission language with an old Khelo India Youth Games edition.
-- Keep sports goods manufacturing as an industry-plus-sports lock.
+- Keep sports goods manufacturing as an industry-plus-sports fact.
 
 ### Soft UP sports note
 
@@ -54,10 +54,10 @@ Some February compilations spoke about a possible return of big bike racing even
 
 ### ICC Men’s T20 World Cup 2026 final | 8 March 2026 | Ahmedabad
 
-**What happened**  
+**What happened**
 India played **New Zealand** in the final of the **ICC Men’s T20 World Cup 2026** at **Narendra Modi Stadium**, Ahmedabad. India won by **96 runs**.
 
-**Score locks**
+**Score facts**
 
 - India made **255 for 5**. This was called the highest total in a Men’s T20 World Cup final.
 - New Zealand were all out for **159**.
@@ -65,7 +65,7 @@ India played **New Zealand** in the final of the **ICC Men’s T20 World Cup 202
 - **Jasprit Bumrah** took **4 wickets for 15 runs** and was Player of the Match in coverage.
 - Hosts: **India and Sri Lanka** for the tournament.
 
-**History locks**
+**History facts**
 
 - This was India’s **third** Men’s T20 World Cup title.
 - India became the **first** team to **defend** the title (win it back-to-back).
@@ -81,10 +81,10 @@ Coverage also said India would host the **World Indoor Athletics Championships**
 
 ### Laureus World Sports Awards 2026 | Madrid
 
-**What happened**  
+**What happened**
 Laureus Awards were held in **Madrid**. Full winner card → [Awards](04_Awards.md).
 
-**Quick locks**
+**Quick facts**
 
 - Sportsman: **Carlos Alcaraz**.
 - Sportswoman: **Aryna Sabalenka**.
@@ -92,10 +92,10 @@ Laureus Awards were held in **Madrid**. Full winner card → [Awards](04_Awards.
 
 ### Khelo India Tribal Games 2026 | first edition
 
-**What happened**  
+**What happened**
 The **first** Khelo India Tribal Games concluded. Host state in coverage: **Chhattisgarh**.
 
-**Core locks**
+**Core facts**
 
 - Edition: **1st**.
 - Mascot: **Morveer**.
@@ -103,7 +103,7 @@ The **first** Khelo India Tribal Games concluded. Host state in coverage: **Chha
 
 ### Soft sports notes
 
-- IPL 2026 season created several record headlines in compilations (fastest milestones / big chase). Add a named record only when a stem needs one exact player lock.
+- IPL 2026 season created several record headlines in compilations (fastest milestones / big chase). Add a named record only when a stem needs one exact player fact.
 - Para archery: **Payal Nag** was covered as the first quadruple amputee to win a World Para Archery Series Final championship event in Bangkok.
 
 ---
@@ -112,10 +112,10 @@ The **first** Khelo India Tribal Games concluded. Host state in coverage: **Chha
 
 ### IPL 2026 final | 31 May 2026 | Ahmedabad
 
-**What happened**  
+**What happened**
 **Royal Challengers Bengaluru (RCB)** beat **Gujarat Titans** by **5 wickets** in the IPL 2026 final at Ahmedabad and kept the title.
 
-**Core locks**
+**Core facts**
 
 - Edition: **19th** IPL season.
 - Champions: **RCB**.
@@ -130,10 +130,10 @@ The **first** Khelo India Tribal Games concluded. Host state in coverage: **Chha
 
 ### Thomas Cup and Uber Cup 2026 | Denmark
 
-**What happened**  
+**What happened**
 The badminton world team events were hosted by **Denmark**.
 
-**Core locks**
+**Core facts**
 
 - **Thomas Cup** (men): winner **China**; runners-up **France**. Edition noted: **34th**.
 - **Uber Cup** (women): winner **South Korea**; runners-up **China**. Edition noted: **31st**.
@@ -144,10 +144,10 @@ The badminton world team events were hosted by **Denmark**.
 
 ### FIFA World Cup 2026 begins | USA–Canada–Mexico
 
-**What happened**  
+**What happened**
 The **23rd** FIFA Men’s World Cup began in June 2026 across the **United States, Canada, and Mexico**.
 
-**Core locks**
+**Core facts**
 
 - Hosts: **USA, Canada, Mexico**.
 - Mascots named in coverage: **Maple, Zayu, and Clutch**.
@@ -155,21 +155,21 @@ The **23rd** FIFA Men’s World Cup began in June 2026 across the **United State
 - Defending champions at the start: **Argentina**.
 
 !!! tip "July final preview"
-    The final was on **19 July 2026** at New York/New Jersey Stadium. **Spain** beat **Argentina 1–0** after extra time (**Ferran Torres**). Spain’s second World Cup title (after 2010). Keep the winner for July revision; do not mix final date into June unless the stem says so.
+ The final was on **19 July 2026** at New York/New Jersey Stadium. **Spain** beat **Argentina 1–0** after extra time (**Ferran Torres**). Spain’s second World Cup title (after 2010). Keep the winner for July revision; do not mix final date into June unless the stem says so.
 
 ### FIH Hockey Women’s Nations Cup 2026
 
-**What happened**  
+**What happened**
 India won the FIH Hockey Women’s Nations Cup hosted by **New Zealand**.
 
-**Core locks**
+**Core facts**
 
 - Winner: **India**.
 - Runners-up: **New Zealand**.
 - Qualification effect: India qualified for the **FIH Pro League**.
 - FIH HQ: **Lausanne**, Switzerland.
 
-### ICC Women’s T20 World Cup 2026 | soft start lock
+### ICC Women’s T20 World Cup 2026 | soft start fact
 
 - Edition: **10th**.
 - Host: **England**.
@@ -183,10 +183,10 @@ India won the FIH Hockey Women’s Nations Cup hosted by **New Zealand**.
 
 ### FIFA World Cup 2026 final | 19 July 2026 | New York / New Jersey
 
-**What happened**  
+**What happened**
 **Spain** beat **Argentina 1–0** after extra time in the FIFA World Cup final and became world champions for the **second** time (after **2010**).
 
-**Core locks**
+**Core facts**
 
 - Date: **19 July 2026**.
 - Venue: **New York / New Jersey Stadium**.
@@ -197,10 +197,10 @@ India won the FIH Hockey Women’s Nations Cup hosted by **New Zealand**.
 
 ### ICC Women’s T20 World Cup 2026 final | 5 July 2026 | Lord’s
 
-**What happened**  
+**What happened**
 **Australia** beat **England** by **7 wickets** at **Lord’s** and won the Women’s T20 World Cup.
 
-**Core locks**
+**Core facts**
 
 - Champions: **Australia** (seventh title in coverage).
 - Runners-up / hosts: **England**.
@@ -209,10 +209,10 @@ India won the FIH Hockey Women’s Nations Cup hosted by **New Zealand**.
 
 ### Commonwealth Games 2026 begin | Glasgow
 
-**What happened**  
+**What happened**
 The **22nd** Commonwealth Games began in **Glasgow, Scotland**.
 
-**Core locks**
+**Core facts**
 
 - Host: **Glasgow**.
 - Mascot: **Finnie** (a Glaswegian unicorn; unicorn is Scotland’s national animal).
@@ -230,10 +230,10 @@ The **22nd** Commonwealth Games began in **Glasgow, Scotland**.
 
 ### Commonwealth Games 2026 conclude | Glasgow | to 2 August 2026
 
-**What happened**  
+**What happened**
 The **23rd** Commonwealth Games ended in **Glasgow, Scotland**. **Australia** topped the medal table. India finished **4th**.
 
-**India medal locks**
+**India medal facts**
 
 - Total: **39** medals — **13** gold, **17** silver, **9** bronze.
 - Opening flag bearer: **Mirabai Chanu**.
@@ -266,11 +266,11 @@ The **23rd** Commonwealth Games ended in **Glasgow, Scotland**. **Australia** to
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Sports — T20 WC final locks (host / margin / firsts).
+**Logic:** Sports — T20 WC final facts (host / margin / firsts).
 
 **Q1.** With reference to the Men’s T20 World Cup final (March 2026), which of the following statements is/are correct?
 
@@ -279,27 +279,27 @@ The **23rd** Commonwealth Games ended in **Glasgow, Scotland**. **Australia** to
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both locks appear in March CA. Trap: writing Melbourne/Lord’s as final venue.
+**Ans: C.** Both facts appear in March CA. Trap: writing Melbourne/Lord’s as final venue.
 
 </details>
 
 ---
 
-**Exam logic:** FIFA final — Spain beat Argentina (even if sports CA is thin lately, WC finals still appear).
+**Logic:** FIFA final — Spain beat Argentina (even if sports CA is thin lately, WC finals still appear).
 
 **Q2.** Who among the following won the FIFA World Cup final held in July 2026?
 
-A. Argentina  
-B. France  
-C. Spain  
+A. Argentina
+B. France
+C. Spain
 D. Brazil
 
 <details>
@@ -311,7 +311,7 @@ D. Brazil
 
 ---
 
-**Exam logic:** CWG Glasgow — India rank / medals (sports CA still asked when mega-event falls in window).
+**Logic:** CWG Glasgow — India rank / medals (sports CA still asked when mega-event falls in window).
 
 **Q3.** With reference to the Commonwealth Games at Glasgow (2026), which of the following statements is/are correct?
 
@@ -321,9 +321,9 @@ D. Brazil
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -335,7 +335,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** IPL 2026 final.
+**Logic:** IPL 2026 final.
 
 **Q4.** With reference to IPL 2026, which of the following statements is/are correct?
 
@@ -345,33 +345,33 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are May sports locks. Trap: writing Mumbai Indians as winners by habit.
+**Ans: D.** All three are May sports facts. Trap: writing Mumbai Indians as winners by habit.
 
 </details>
 
 ---
 
-**Exam logic:** Thomas Cup / Uber Cup.
+**Logic:** Thomas Cup / Uber Cup.
 
 **Q5.** Which of the following pairs is/are correctly matched for May 2026 badminton team events?
 
-1. Thomas Cup (men) — winner China  
-2. Uber Cup (women) — winner South Korea  
-3. Host of the event window — Denmark  
+1. Thomas Cup (men) — winner China
+2. Uber Cup (women) — winner South Korea
+3. Host of the event window — Denmark
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -383,7 +383,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** FIFA WC hosts + mascots.
+**Logic:** FIFA WC hosts + mascots.
 
 **Q6.** With reference to the FIFA World Cup 2026, which of the following statements is/are correct?
 
@@ -393,9 +393,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -407,13 +407,13 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Women’s T20 WC final July.
+**Logic:** Women’s T20 WC final July.
 
 **Q7.** Who won the Women’s T20 World Cup final (5 July 2026 coverage)?
 
-A. England  
-B. India  
-C. Australia  
+A. England
+B. India
+C. Australia
 D. New Zealand
 
 <details>
@@ -425,7 +425,7 @@ D. New Zealand
 
 ---
 
-**Exam logic:** PV Sindhu Japan Open + Pragg Grand Chess Tour.
+**Logic:** PV Sindhu Japan Open + Pragg Grand Chess Tour.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -434,9 +434,9 @@ D. New Zealand
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -448,19 +448,19 @@ D. Only 1
 
 ---
 
-**Exam logic:** FIH Hockey World Cup winners August.
+**Logic:** FIH Hockey World Cup winners August.
 
 **Q9.** Which of the following pairs is/are correctly matched for FIH Hockey World Cup coverage in 2026?
 
-1. Men’s winner — Belgium  
-2. Women’s winner — Argentina  
-3. Men’s winner — India  
+1. Men’s winner — Belgium
+2. Women’s winner — Argentina
+3. Men’s winner — India
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -472,7 +472,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Direct freight India–Nepal; Gabon/Togo CWG debut.
+**Logic:** Direct freight India–Nepal; Gabon/Togo CWG debut.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -482,9 +482,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -496,7 +496,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** T20 final scoreboard soft.
+**Logic:** T20 final scoreboard soft.
 
 **Q11.** With reference to Men’s T20 WC final 2026, which of the following statements is/are correct?
 
@@ -520,7 +520,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Ferran Torres Spain winner.
+**Logic:** Ferran Torres Spain winner.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -544,7 +544,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Ellyse Perry multi-trophy soft.
+**Logic:** Ellyse Perry multi-trophy soft.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -567,7 +567,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** IPL RCB back-to-back third franchise.
+**Logic:** IPL RCB back-to-back third franchise.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -590,7 +590,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Thomas Uber Denmark host.
+**Logic:** Thomas Uber Denmark host.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -613,7 +613,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** FIFA mascots Maple Zayu Clutch.
+**Logic:** FIFA mascots Maple Zayu Clutch.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -637,7 +637,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** CWG India 13G-17S-9B.
+**Logic:** CWG India 13G-17S-9B.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -660,7 +660,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** FIH Belgium Argentina.
+**Logic:** FIH Belgium Argentina.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -684,7 +684,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Pragg Grand Chess Tour.
+**Logic:** Pragg Grand Chess Tour.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -707,7 +707,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Khelo India Tribal Games Morveer.
+**Logic:** Khelo India Tribal Games Morveer.
 
 **Q20.** Which of the following statements is/are correct?
 

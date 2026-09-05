@@ -1,5 +1,5 @@
 # Topic 3 — Indian Architecture
-### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
+### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,14 +8,14 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I–III, ASI/UNESCO, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — style ↔ monument ↔ dynasty ↔ place; Mughal tomb match; cave numbering; UP vs not-UP  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I–III, ASI/UNESCO, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — style ↔ monument ↔ dynasty ↔ place; Mughal tomb match; cave numbering; UP vs not-UP
+> **Last verified:** August 2026
 > **Current Affairs:** Sarnath UNESCO WHS **July 2026** (India **45th**; UP’s 4th cultural WHS); Maratha Military Landscapes **2025** (44th); Moidams Charaideo **2024** (43rd)
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. **Nagara** temples have a curvilinear **shikhara** and generally **no** monumental gopuram. **Dravida** temples have a pyramidal **vimana** plus tall **gopuram**. **Vesara** is the Deccan hybrid of Chalukya / Hoysala land.
 2. Temple sequence runs **garbhagriha → antarala → mandapa**, with **pradakshina** around the sanctum. **Amalaka** and **kalasha** crown a Nagara tower.
@@ -28,27 +28,27 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 9. Pallava phases run **Mahendra** rock-cut → **Mamalla** rathas → **Rajasimha** structural (Shore Temple, Kailasanatha).
 10. Chola Dravida peaks are **Brihadeeswara** (**1010**, Thanjavur), **Gangaikonda Cholapuram**, and **Airavatesvara** (Darasuram).
 11. **Aihole** is the cradle of early Chalukya experiment. **Badami** has four caves. **Pattadakal** mixes Nagara and Dravida. Hoysala Belur–Halebidu–Somnathpur use soapstone star plans.
-12. Ashokan pillar locks include **Sarnath** four lions, **Rampurva** bull and lion, **Sankisa** elephant, and **Vaishali** single lion, with **Chunar** polish.
+12. Ashokan pillar facts include **Sarnath** four lions, **Rampurva** bull and lion, **Sankisa** elephant, and **Vaishali** single lion, with **Chunar** polish.
 13. Major stupas include **Sanchi** with four toranas, **Bharhut**, **Amaravati** with ayaka platforms, **Dhamek** at Sarnath, and **Mahabodhi** at Bodh Gaya.
 14. A **stupa** is a solid relic mound. A **chaitya** is a congregational hall with an apse stupa. A **vihara** is a monastic residence.
 15. **Karle** is the largest surviving chaitya. Ajanta chaitya caves include **9, 10, 19, and 26**.
 16. **Barabar** caves include **Lomas Rishi**. **Ajanta** is Buddhist. **Ellora** runs caves **1–12** Buddhist, **13–29** Hindu (**Kailasa = 16**, Krishna I), and **30–34** Jain. **Elephanta** holds the Trimurti.
-17. Sultanate locks: Slave dynasty **Qutub**, Khilji **Alai Darwaza**, Tughlaq sloping **batter**, Sharqi **Jaunpur**. **Adina** mosque is at **Pandua**, not Mandu.
-18. Mughal builder–place locks: Babur in Kabul, Humayun’s tomb in Delhi, Akbar’s red stone at Fatehpur Sikri, Jahangir with Lahore and Itimad-ud-Daulah, Shah Jahan’s Taj and Red Fort, Aurangzeb’s **Bibi ka Maqbara**.
+17. Sultanate facts: Slave dynasty **Qutub**, Khilji **Alai Darwaza**, Tughlaq sloping **batter**, Sharqi **Jaunpur**. **Adina** mosque is at **Pandua**, not Mandu.
+18. Mughal builder–place facts: Babur in Kabul, Humayun’s tomb in Delhi, Akbar’s red stone at Fatehpur Sikri, Jahangir with Lahore and Itimad-ud-Daulah, Shah Jahan’s Taj and Red Fort, Aurangzeb’s **Bibi ka Maqbara**.
 19. **Buland Darwaza** commemorates Akbar’s **Gujarat** victory. It is **not** a monument for Jahangir’s birth.
 20. UP World Heritage cultural sites are **Taj Mahal** (**1983**), **Agra Fort** (**1983**), **Fatehpur Sikri** (**1986**), and **Sarnath** (**2026**).
-21. UP exam architecture also locks **Bhitargaon** Gupta brick temple and Sharqi monuments of **Jaunpur** (Atala, Lal Darwaza).
+21. UP architecture also facts **Bhitargaon** Gupta brick temple and Sharqi monuments of **Jaunpur** (Atala, Lal Darwaza).
 22. These are **not** UP: Qutub and Humayun’s tomb (Delhi), Khajuraho (MP), Sanchi (MP), Konark (Odisha), Ajanta–Ellora–Elephanta (Maharashtra), and Mahabalipuram (TN).
 23. Indo-Islamic building uses the **true arch** and dome. Pre-Islamic temples often used **corbelled** courses instead.
 24. **Charbagh** is the Islamic four-part garden plan. **Panchayatana** is the Hindu five-shrine plan with a central sanctum and four corner shrines.
-25. Gupta **Dashavatara** temple at **Deogarh** is a classic early panchayatana lock.
-26. **Martand** Sun Temple of Lalitaditya in Kashmir is a sun-temple exam set member with Konark and Modhera, not a latina Nagara of the Gangetic plain.
+25. Gupta **Dashavatara** temple at **Deogarh** is a classic early panchayatana fact.
+26. **Martand** Sun Temple of Lalitaditya in Kashmir is a sun-temple set member with Konark and Modhera, not a latina Nagara of the Gangetic plain.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Nagara | Dravida | Curvilinear shikhara, no gopuram vs pyramidal vimana + tall gopuram | नागर / द्रविड़ |
 | Shikhara | Vimana | Nagara tower over sanctum vs Dravida tower over sanctum | शिखर / विमान |
@@ -81,7 +81,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 - **Panchayatana** = central shrine + four corner shrines (Gupta / Deogarh type).
 - Three regional styles: **Nagara** (north of Vindhyas), **Dravida** (south), **Vesara** (Deccan / Karnataka).
 
-> **Exam note:** Konark and Khajuraho = **Nagara**. Brihadeeswara and Shore Temple = **Dravida**. Belur / Halebidu = **Vesara / Hoysala**. Do not call gopuram a shikhara.
+> ** note:** Konark and Khajuraho = **Nagara**. Brihadeeswara and Shore Temple = **Dravida**. Belur / Halebidu = **Vesara / Hoysala**. Do not call gopuram a shikhara.
 
 ---
 
@@ -112,7 +112,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 - **Dilwara Luna Vasahi** — Neminatha, Vastupal–Tejpal.
 - **Martand** Sun Temple — Lalitaditya — Kashmir — not Nagara latina.
 - **Bishnupur** terracotta — Malla Bengal — *ratna* / *chala* roofs.
-- Sun-temple exam set: **Konark**, **Modhera**, **Martand**.
+- Sun-temple set: **Konark**, **Modhera**, **Martand**.
 
 ### Konark Sun Temple
 
@@ -128,15 +128,15 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 - Western + Eastern (Jain) + Southern groups. Erotic *mithuna* on exterior; sanctum remains sacred.
 - **Markandeshwar** (Gadchiroli / Vidarbha) = **“Khajuraho of Vidarbha”** — not Kailasa, not Bhimashankar.
 
-> **Exam note:** UPPCS 2019 Q109 — Khajuraho of Vidarbha = **Markandeshwar**. Khajuraho itself is **MP**, not UP.
+> ** note:** UPPCS 2019 Q109 — Khajuraho of Vidarbha = **Markandeshwar**. Khajuraho itself is **MP**, not UP.
 
 **PYQ — UPPCS Prelims 2019, Q109**
 
 Which of the following temples is also known as Khajuraho of Vidarbha?
 
-A. Markandeshwar  
-B. Kailash  
-C. Manudevi  
+A. Markandeshwar
+B. Kailash
+C. Manudevi
 D. Bhimashankar
 
 <details>
@@ -161,7 +161,7 @@ D. Bhimashankar
 - **Chidambaram** — Nataraja.
 - **Kanchi Ekambareswarar / Varadaraja** — Dravida.
 
-> **Exam note:** Shore Temple and Brihadeeswara are **structural Dravida**, not rock-cut (the *rathas* beside Shore Temple *are* rock-cut).
+> ** note:** Shore Temple and Brihadeeswara are **structural Dravida**, not rock-cut (the *rathas* beside Shore Temple *are* rock-cut).
 
 ---
 
@@ -182,7 +182,7 @@ D. Bhimashankar
 - Hoysala look: soapstone, **star / stellate** plan, lathe-turned pillars. UNESCO **2023**.
 - **Ramappa / Rudreshwara**, Palampet — Kakatiya — UNESCO **2021**. Floating bricks. **Not** Hoysala.
 
-> **Exam note:** Vesara ≠ a fourth pan-Indian style equal to “Mughal.” If the paper says Karnataka hybrid / Chalukya–Hoysala, choose Vesara.
+> ** note:** Vesara ≠ a fourth pan-Indian style equal to “Mughal.” If the paper says Karnataka hybrid / Chalukya–Hoysala, choose Vesara.
 
 ---
 
@@ -197,7 +197,7 @@ D. Bhimashankar
 - **Tigawa** (Kankali Devi, MP), **Nachna-Kuthara** (Parvati).
 - **Udayagiri** (Vidisha, MP): cave-temples; Varaha panel; Chandragupta II.
 
-> **Exam note:** “Gupta = beginning of structural temple” is the lock. Bhitargaon is the UP brick example. Rock-cut Gupta = Udayagiri, not Ajanta (Vakataka).
+> ** note:** “Gupta = beginning of structural temple” is the fact. Bhitargaon is the UP brick example. Rock-cut Gupta = Udayagiri, not Ajanta (Vakataka).
 
 ---
 
@@ -228,20 +228,20 @@ D. Bhimashankar
 - UNESCO Great Living Chola Temples **1987** = Thanjavur + Gangaikonda + Darasuram.
 - Chronology: **Sapt Pagoda (7th c.) → Shore Temple (early 8th) → Brihadeeswara (1010) → Gangaikonda (~1035)**.
 
-> **Exam note:** UPPCS 2018 Q15 chronology = **IV, III, I, II**. UPPCS 2020 Q8 — both A and R true; R explains A.
+> ** note:** UPPCS 2018 Q15 chronology = **IV, III, I, II**. UPPCS 2020 Q8 — both A and R true; R explains A.
 
 **PYQ — UPPCS Prelims 2018, Q15**
 
 Arrange the following temples in a chronological order and select the correct answer from the codes given below:
 
-I. Brihdishwar temple  
-II. Gangaikonda cholapuram temple  
-III. Shore temple of Mahabalipuram  
+I. Brihdishwar temple
+II. Gangaikonda cholapuram temple
+III. Shore temple of Mahabalipuram
 IV. Sapt pagoda
 
-A. I, II, IV, III  
-B. II, I, III, IV  
-C. III, II, I, IV  
+A. I, II, IV, III
+B. II, I, III, IV
+C. III, II, I, IV
 D. IV, III, I, II
 
 <details>
@@ -255,13 +255,13 @@ D. IV, III, I, II
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
 
-**Assertion (A):** We have much more information about Cholas than their predecessors.  
+**Assertion (A):** We have much more information about Cholas than their predecessors.
 
 **Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is true but (R) is false
 D. (A) is false but (R) is true
 
 <details>
@@ -283,7 +283,7 @@ D. (A) is false but (R) is true
 - A **vihara** is a monastery. Monks live in cells around a courtyard or hall.
 - One site can hold all three. Sanchi is a stupa campus. Karle is a chaitya. Ajanta is mostly viharas plus a few chaityas.
 
-> **Exam note:** Stupa = mound. Chaitya = hall with a stupa inside. Vihara = monastery. Never swap.
+> ** note:** Stupa = mound. Chaitya = hall with a stupa inside. Vihara = monastery. Never swap.
 
 ---
 
@@ -304,19 +304,19 @@ D. (A) is false but (R) is true
 - **Ghantasala** belongs to the same ayaka family.
 - **Jaggayyapeta** belongs to the same ayaka family.
 - **Bodh Gaya has no ayaka pillars.**
-- **Vaishali** is a relic-stupa lock.
-- **Piprahwa** is a relic-casket lock.
+- **Vaishali** is a relic-stupa fact.
+- **Piprahwa** is a relic-casket fact.
 - **Kesariya** (Bihar) is the tallest stupa in India.
 
-> **Exam note:** UPPCS 2022 Q80 — Aryaka-pillars = **Amaravati** (not Bodh Gaya).
+> ** note:** UPPCS 2022 Q80 — Aryaka-pillars = **Amaravati** (not Bodh Gaya).
 
 **PYQ — UPPCS Prelims 2022, Q80**
 
 In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
 
-A. Nagarjunakonda  
-B. Ghantasala  
-C. Amaravati  
+A. Nagarjunakonda
+B. Ghantasala
+C. Amaravati
 D. Bodhgaya
 
 <details>
@@ -344,7 +344,7 @@ D. Bodhgaya
 - Ajanta chaityas are caves **9 and 10** (early) and **19 and 26** (later).
 - Ellora cave **10** (Vishvakarma) is a later rock-cut chaitya.
 
-> **Exam note:** Karle = largest chaitya. Ajanta chaitya numbers are **9, 10, 19, 26**.
+> ** note:** Karle = largest chaitya. Ajanta chaitya numbers are **9, 10, 19, 26**.
 
 ---
 
@@ -363,7 +363,7 @@ D. Bodhgaya
 - Sarnath has monastery remains beside Dhamek.
 - **Bagh** (MP) caves are Buddhist viharas with Ajanta-related murals.
 
-> **Exam note:** Ajanta mural stars are **viharas**, not chaityas. Nalanda = mahavihara, not a stupa campus like Sanchi.
+> ** note:** Ajanta mural stars are **viharas**, not chaityas. Nalanda = mahavihara, not a stupa campus like Sanchi.
 
 ---
 
@@ -379,7 +379,7 @@ D. Bodhgaya
 - Pallava sequence: Mahendra mandapas → Mamalla rathas → Rajasimha structural Shore Temple. Rathas are rock-cut. Shore Temple is structural.
 - **Ellora Cave 16 Kailasa** is the world’s largest monolithic temple. It was cut **top-down** under **Rashtrakuta Krishna I**. It is not Elephanta.
 
-> **Exam note:** Rathas at Mahabalipuram are **rock-cut**. Brihadeeswara is **structural**. Kailasa = Ellora 16, not Elephanta.
+> ** note:** Rathas at Mahabalipuram are **rock-cut**. Brihadeeswara is **structural**. Kailasa = Ellora 16, not Elephanta.
 
 ---
 
@@ -396,22 +396,22 @@ D. Bodhgaya
 - Ellora caves **13–29** are Hindu. Cave **16** is Kailasa.
 - Ellora caves **30–34** are Jain. **Chhota Kailasa** is in the Jain group. Indra Sabha is cave **32**.
 - **Elephanta** is Gharapuri island in Mumbai harbour. UNESCO **1987**.
-- Elephanta’s lock is the **Trimurti / Maheshamurti** (Aghora–Tatpurusha–Vamadeva). It is Hindu, not Buddhist Ajanta.
+- Elephanta’s fact is the **Trimurti / Maheshamurti** (Aghora–Tatpurusha–Vamadeva). It is Hindu, not Buddhist Ajanta.
 - **Badami** has four Chalukya caves. Cave 3 (Vishnu, Mangalesha) is the largest.
 - **Udayagiri–Khandagiri** near Bhubaneswar are Jain. **Hathigumpha** at Udayagiri is of **Kharavela**.
 - Rani Gumpha is double-storeyed. Ganesh Gumpha is another named cave there.
 - **Udayagiri (Vidisha, MP)** is Gupta. The Varaha panel is of Chandragupta II. It is **not** the Odisha pair.
 - **Jogeshwari** and **Mandapeshwar** are Hindu caves of the Mumbai region.
 
-> **Exam note:** UPPCS 2018 Q16 — Hathigumpha = **Kharavela**. Elephanta ≠ Ellora Kailasa. Hathigumpha ≠ Ashoka.
+> ** note:** UPPCS 2018 Q16 — Hathigumpha = **Kharavela**. Elephanta ≠ Ellora Kailasa. Hathigumpha ≠ Ashoka.
 
 **PYQ — UPPCS Prelims 2018, Q16**
 
 The inscription of Hathigumpha is the source of information about which king?
 
-A. Kharvela  
-B. Ashok  
-C. Harshavardhan  
+A. Kharvela
+B. Ashok
+C. Harshavardhan
 D. Kanishka
 
 <details>
@@ -432,7 +432,7 @@ D. Kanishka
 
 ### Qutub complex (Delhi — not UP)
 
-**Start:** Qutb-ud-din **Aibak** (~1193–99) | **Storeys 1–4:** **Iltutmish** | **5th storey + repairs:** Firoz Shah Tughlaq | **Height:** ~72.5 m | **UNESCO:** 1993
+**Start:** Qutb-ud-din **Aibak** (~1193–99) | **Storeys 1–4:Iltutmish** | **5th storey + repairs:** Firoz Shah Tughlaq | **Height:** ~72.5 m | **UNESCO:** 1993
 
 - Red sandstone + marble bands on upper storeys; ~379 steps. Inspired by Afghan *minars* (Jam) but an Indian synthesis.
 - **Quwwat-ul-Islam** mosque (Aibak) on demolished temple debris; iron pillar (Gupta, **Chandragupta II** / Mehrauli) in the courtyard — rust-resistant.
@@ -479,30 +479,30 @@ D. Kanishka
 
 ### Sher Shah Suri
 
-**Tomb:** Sasaram (Bihar), ~1545, octagonal, precursor of Mughal garden-tomb scale.  
+**Tomb:** Sasaram (Bihar), ~1545, octagonal, precursor of Mughal garden-tomb scale.
 **Delhi:** Purana Qila; Qila-i-Kuhna mosque. Grand Trunk Road is not an architectural style card.
 
-> **Exam note:** UPPCS 2022 Q4 code **A = 3, 4, 1, 2**. UPPCS 2018 Q19 unmatched = **Adina Masjid–Mandu**.
+> ** note:** UPPCS 2022 Q4 code **A = 3, 4, 1, 2**. UPPCS 2018 Q19 unmatched = **Adina Masjid–Mandu**.
 
 **PYQ — UPPCS Prelims 2022, Q4**
 
 Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Building)**  
-A. Sultan Garhi  
-B. Red Palace  
-C. Jamat Khana Masjid  
-D. Dhai Din Ka Jhopra  
+**List-I (Building)**
+A. Sultan Garhi
+B. Red Palace
+C. Jamat Khana Masjid
+D. Dhai Din Ka Jhopra
 
-**List-II (Builder)**  
-1. Alauddin Khilji  
-2. Qutbuddin Aibak  
-3. Iltutmish  
-4. Balban  
+**List-II (Builder)**
+1. Alauddin Khilji
+2. Qutbuddin Aibak
+3. Iltutmish
+4. Balban
 
-A. 3, 4, 1, 2  
-B. 3, 4, 2, 1  
-C. 4, 3, 1, 2  
+A. 3, 4, 1, 2
+B. 3, 4, 2, 1
+C. 4, 3, 1, 2
 D. 4, 3, 2, 1
 
 <details>
@@ -516,9 +516,9 @@ D. 4, 3, 2, 1
 
 Which of the following pairs is NOT correctly matched?
 
-A. Adina Masjid – Mandu  
-B. Lal Darwaza Masjid – Jaunpur  
-C. Dakhil Darwaza – Gaour  
+A. Adina Masjid – Mandu
+B. Lal Darwaza Masjid – Jaunpur
+C. Dakhil Darwaza – Gaour
 D. Tin Darwaza – Ahmedabad
 
 <details>
@@ -589,7 +589,7 @@ D. Tin Darwaza – Ahmedabad
 
 ### Agra Fort and Red Fort
 
-**Agra Fort:** UNESCO 1983; Akbar’s sandstone circuit; Shah Jahan’s marble palaces (Diwan-i-Aam, Diwan-i-Khas, Moti Masjid, Musamman Burj / Jasmine Tower).  
+**Agra Fort:** UNESCO 1983; Akbar’s sandstone circuit; Shah Jahan’s marble palaces (Diwan-i-Aam, Diwan-i-Khas, Moti Masjid, Musamman Burj / Jasmine Tower).
 **Red Fort, Delhi:** UNESCO 2007 (Red Fort Complex); Shah Jahan; Yamuna; Lahori and Delhi gates. Diwan-i-Khas: *If there is a paradise on earth…*
 
 ### Tomb match (2025)
@@ -600,18 +600,18 @@ Babur–**Kabul** | Humayun–**Delhi** | Jahangir–**Lahore** | Shah Jahan–*
 
 **Atala Mosque, Jaunpur (~1408) → Sher Shah tomb, Sasaram (~1545) → Humayun’s Tomb, Delhi (~1570) → Rabia Daurani / Bibi ka Maqbara (~1660).**
 
-> **Exam note:** UPPCS 2025 Q49 → **C** (A true, R false). Q57 → **A = 4 3 2 1**. 2019 Q91 → **B = IV, II, III, I**.
+> ** note:** UPPCS 2025 Q49 → **C** (A true, R false). Q57 → **A = 4 3 2 1**. 2019 Q91 → **B = IV, II, III, I**.
 
 **PYQ — UPPCS Prelims 2025, Q49**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.  
+Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
 Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -625,21 +625,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Match List-I with List-II and select the correct answer using the code given below the lists.
 
-**List-I (Emperor)**  
-A. Babur  
-B. Humayun  
-C. Jahangir  
-D. Shah Jahan  
+**List-I (Emperor)**
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan
 
-**List-II (City where tomb is situated)**  
-1. Agra  
-2. Lahore  
-3. Delhi  
-4. Kabul  
+**List-II (City where tomb is situated)**
+1. Agra
+2. Lahore
+3. Delhi
+4. Kabul
 
-A. 4 3 2 1  
-B. 3 4 1 2  
-C. 3 4 2 1  
+A. 4 3 2 1
+B. 3 4 1 2
+C. 3 4 2 1
 D. 4 3 1 2
 
 <details>
@@ -653,14 +653,14 @@ D. 4 3 1 2
 
 Arrange the following monuments in a chronological order and select the correct answer from the codes given below:
 
-I. Rabia Daurani's Tomb, Aurangabad  
-II. Shershah Suri's Tomb, Sasaram  
-III. Humayun's Tomb, Delhi  
+I. Rabia Daurani's Tomb, Aurangabad
+II. Shershah Suri's Tomb, Sasaram
+III. Humayun's Tomb, Delhi
 IV. Aiala Mosque, Jaunpur
 
-A. I, II, IV, III  
-B. IV, II, III, I  
-C. II, I, III, IV  
+A. I, II, IV, III
+B. IV, II, III, I
+C. II, I, III, IV
 D. III, IV, II, I
 
 <details>
@@ -678,17 +678,17 @@ D. III, IV, II, I
 
 - **IVC:** grid, baked brick, covered drains, Great Bath (**Mohenjo-daro**), dock (**Lothal**), reservoirs (**Dholavira**, UNESCO 2021). No true arch.
 - **Mauryan pillars (Chunar sandstone, Mauryan polish, Persepolitan bell capital):**
-  - **Sarnath** — four addorsed lions + dharmachakra abacus (bull, horse, elephant, lion) = **National Emblem (1950)**.
-  - **Sanchi** — four lions (separate from the stupa).
-  - **Rampurva** — bull capital **and** lion capital (two pillars).
-  - **Sankisa / Sankissa** — elephant.
-  - **Vaishali, Lauriya Nandangarh, Lauriya Araraj** — single lion.
-  - **Allahabad / Prayagraj** — originally Kaushambi; later inscriptions of Samudragupta and Jahangir (history overlap).
-- **Barabar** caves — Mauryan, Ajivika, **Lomas Rishi** facade. Wooden palace at Pataliputra (Megasthenes / Persepolis comparison). **Didarganj Yakshi** = Mauryan polish, a sculpture lock.
+ - **Sarnath** — four addorsed lions + dharmachakra abacus (bull, horse, elephant, lion) = **National Emblem (1950)**.
+ - **Sanchi** — four lions (separate from the stupa).
+ - **Rampurva** — bull capital **and** lion capital (two pillars).
+ - **Sankisa / Sankissa** — elephant.
+ - **Vaishali, Lauriya Nandangarh, Lauriya Araraj** — single lion.
+ - **Allahabad / Prayagraj** — originally Kaushambi; later inscriptions of Samudragupta and Jahangir (history overlap).
+- **Barabar** caves — Mauryan, Ajivika, **Lomas Rishi** facade. Wooden palace at Pataliputra (Megasthenes / Persepolis comparison). **Didarganj Yakshi** = Mauryan polish, a sculpture fact.
 - **Post-Maurya:** Sanchi/Bharhut stupas; Western Ghat chaitya–vihara.
 - **Gupta:** first Hindu **structural** temple. Sarnath Dhamek.
 
-> **Exam note:** Pillar polish and Barabar = Maurya. First Hindu structural temple = Gupta, not Maurya.
+> ** note:** Pillar polish and Barabar = Maurya. First Hindu structural temple = Gupta, not Maurya.
 
 ---
 
@@ -710,7 +710,7 @@ D. III, IV, II, I
 
 ---
 
-## 3.17 Important Monuments — Exam Cards
+## 3.17 Important Monuments — Cards
 
 Already taught above; this is the **place/dynasty/UNESCO** spine only (no second essay).
 
@@ -739,13 +739,13 @@ Inscription years of *these* buildings stay here.
 
 **Q1.** With reference to Indian temple styles, which of the following statements is/are correct?
 
-1. Nagara temples are characterised by a curvilinear shikhara and generally lack a monumental gopuram.  
-2. Dravida temples place a pyramidal vimana over the garbhagriha and develop tall gopurams.  
+1. Nagara temples are characterised by a curvilinear shikhara and generally lack a monumental gopuram.
+2. Dravida temples place a pyramidal vimana over the garbhagriha and develop tall gopurams.
 3. Vesara is the typical style of Odisha’s Lingaraja temple.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -759,13 +759,13 @@ D. 1, 2 and 3
 
 **Q2.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Shikhara — Dravida gateway tower  
-2. Gopuram — Nagara sanctum tower  
+1. Shikhara — Dravida gateway tower
+2. Gopuram — Nagara sanctum tower
 3. Amalaka — ribbed disc on a Nagara shikhara
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -779,21 +779,21 @@ D. 1, 2 and 3
 
 **Q3.** Match List-I with List-II and select the correct answer.
 
-**List-I (Temple)**  
-A. Kandariya Mahadeva  
-B. Brihadeeswara  
-C. Chennakeshava, Belur  
-D. Dashavatara, Deogarh  
+**List-I (Temple)**
+A. Kandariya Mahadeva
+B. Brihadeeswara
+C. Chennakeshava, Belur
+D. Dashavatara, Deogarh
 
-**List-II (Style / context)**  
-1. Hoysala / Vesara  
-2. Gupta panchayatana  
-3. Chandela Nagara  
-4. Chola Dravida  
+**List-II (Style / context)**
+1. Hoysala / Vesara
+2. Gupta panchayatana
+3. Chandela Nagara
+4. Chola Dravida
 
-A. 3, 4, 1, 2  
-B. 3, 4, 2, 1  
-C. 4, 3, 1, 2  
+A. 3, 4, 1, 2
+B. 3, 4, 2, 1
+C. 4, 3, 1, 2
 D. 2, 4, 1, 3
 
 <details>
@@ -807,13 +807,13 @@ D. 2, 4, 1, 3
 
 **Q4.** With reference to Odisha temples, which of the following statements is/are correct?
 
-1. Rekha deul is the soaring tower over the sanctum.  
-2. Pidha deul is the pyramidal roof of the jagamohana.  
+1. Rekha deul is the soaring tower over the sanctum.
+2. Pidha deul is the pyramidal roof of the jagamohana.
 3. Konark Sun Temple was built by the Cholas.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -827,13 +827,13 @@ D. 1, 2 and 3
 
 **Q5.** Consider the following statements about Khajuraho:
 
-1. The temples were built by the Chandela dynasty.  
-2. Khajuraho lies in Uttar Pradesh.  
+1. The temples were built by the Chandela dynasty.
+2. Khajuraho lies in Uttar Pradesh.
 3. Kandariya Mahadeva is the largest temple of the group.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -847,13 +847,13 @@ D. 1, 2 and 3
 
 **Q6.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** The Shore Temple at Mahabalipuram is a structural temple.  
+**Assertion (A):** The Shore Temple at Mahabalipuram is a structural temple.
 
 **Reason (R):** The Pancha Rathas at the same site are monolithic rock-cut shrines.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -867,14 +867,14 @@ D. (A) is false, but (R) is true
 
 **Q7.** Arrange the following in chronological order:
 
-1. Brihadeeswara Temple, Thanjavur  
-2. Shore Temple, Mahabalipuram  
-3. Gangaikonda Cholapuram Temple  
+1. Brihadeeswara Temple, Thanjavur
+2. Shore Temple, Mahabalipuram
+3. Gangaikonda Cholapuram Temple
 4. Pancha Rathas / Sapt Pagoda
 
-A. 2, 4, 1, 3  
-B. 4, 2, 1, 3  
-C. 4, 2, 3, 1  
+A. 2, 4, 1, 3
+B. 4, 2, 1, 3
+C. 4, 2, 3, 1
 D. 2, 4, 3, 1
 
 <details>
@@ -888,13 +888,13 @@ D. 2, 4, 3, 1
 
 **Q8.** With reference to Gupta temples, which of the following statements is/are correct?
 
-1. The Dashavatara temple at Deogarh is an early panchayatana shrine.  
-2. Bhitargaon is a brick temple in Uttar Pradesh.  
+1. The Dashavatara temple at Deogarh is an early panchayatana shrine.
+2. Bhitargaon is a brick temple in Uttar Pradesh.
 3. Structural stone temples in India begin only under the Cholas.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -908,13 +908,13 @@ D. 1, 2 and 3
 
 **Q9.** Which of the following is/are correctly matched?
 
-1. Mahendravarman I — rock-cut mandapa caves  
-2. Narasimhavarman I — Pancha Rathas  
+1. Mahendravarman I — rock-cut mandapa caves
+2. Narasimhavarman I — Pancha Rathas
 3. Rajaraja I — Shore Temple
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -928,13 +928,13 @@ D. 1, 2 and 3
 
 **Q10.** With reference to Vesara and Chalukya–Hoysala temples, which of the following statements is/are correct?
 
-1. Aihole is often called the cradle of Indian temple architecture.  
-2. Pattadakal has both Nagara and Dravida temples.  
+1. Aihole is often called the cradle of Indian temple architecture.
+2. Pattadakal has both Nagara and Dravida temples.
 3. Hoysala temples typically use granite like the Cholas.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -948,9 +948,9 @@ D. 1, 2 and 3
 
 **Q11.** Which one of the following pairs is **NOT** correctly matched?
 
-A. Karle — largest early chaitya  
-B. Sanchi Stupa 1 — Ashoka / Shunga / Satavahana phases  
-C. Amaravati — ayaka platforms  
+A. Karle — largest early chaitya
+B. Sanchi Stupa 1 — Ashoka / Shunga / Satavahana phases
+C. Amaravati — ayaka platforms
 D. Dhamek Stupa — located at Bodh Gaya
 
 <details>
@@ -964,13 +964,13 @@ D. Dhamek Stupa — located at Bodh Gaya
 
 **Q12.** With reference to the parts of a stupa, which of the following statements is/are correct?
 
-1. Anda is the hemispherical mound.  
-2. Harmika is the square railing on top of the anda.  
+1. Anda is the hemispherical mound.
+2. Harmika is the square railing on top of the anda.
 3. Torana is the circumambulatory path.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -984,14 +984,14 @@ D. 1, 2 and 3
 
 **Q13.** How many of the following cave statements are correct?
 
-1. Ajanta caves are exclusively Hindu.  
-2. Ellora caves 1–12 are Buddhist.  
-3. Elephanta is famous for the Trimurti Shiva.  
+1. Ajanta caves are exclusively Hindu.
+2. Ellora caves 1–12 are Buddhist.
+3. Elephanta is famous for the Trimurti Shiva.
 4. Kailasa temple is Ellora cave 16.
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1005,21 +1005,21 @@ D. Only one
 
 **Q14.** Match List-I with List-II.
 
-**List-I**  
-A. Ajanta  
-B. Ellora Kailasa  
-C. Elephanta  
-D. Barabar  
+**List-I**
+A. Ajanta
+B. Ellora Kailasa
+C. Elephanta
+D. Barabar
 
-**List-II**  
-1. Ashoka / Ajivika  
-2. Rashtrakuta Krishna I  
-3. Buddhist Mahayana murals + chaityas  
-4. Maheshamurti Shiva  
+**List-II**
+1. Ashoka / Ajivika
+2. Rashtrakuta Krishna I
+3. Buddhist Mahayana murals + chaityas
+4. Maheshamurti Shiva
 
-A. 3, 2, 4, 1  
-B. 3, 4, 2, 1  
-C. 2, 3, 4, 1  
+A. 3, 2, 4, 1
+B. 3, 4, 2, 1
+C. 2, 3, 4, 1
 D. 3, 2, 1, 4
 
 <details>
@@ -1033,13 +1033,13 @@ D. 3, 2, 1, 4
 
 **Q15.** With reference to Ellora, which of the following statements is/are correct?
 
-1. Caves 13–29 are Hindu.  
-2. Caves 30–34 are Jain.  
+1. Caves 13–29 are Hindu.
+2. Caves 30–34 are Jain.
 3. The Kailasa temple is a structural temple assembled from transported granite blocks.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1053,13 +1053,13 @@ D. 1, 2 and 3
 
 **Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** The Alai Darwaza is considered a landmark in Indo-Islamic architecture.  
+**Assertion (A):** The Alai Darwaza is considered a landmark in Indo-Islamic architecture.
 
 **Reason (R):** It is the first building in the Qutub complex to use a true arch and true dome on a mature scale.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1073,13 +1073,13 @@ D. (A) is false, but (R) is true
 
 **Q17.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Qutub Minar — started by Iltutmish, completed by Aibak  
-2. Quwwat-ul-Islam — Aibak  
+1. Qutub Minar — started by Iltutmish, completed by Aibak
+2. Quwwat-ul-Islam — Aibak
 3. Alai Darwaza — Alauddin Khilji
 
-A. Only 1  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. Only 1
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1093,21 +1093,21 @@ D. 1, 2 and 3
 
 **Q18.** Match List-I with List-II.
 
-**List-I (Building)**  
-A. Sultan Garhi  
-B. Dhai Din Ka Jhopra  
-C. Jamat Khana Masjid  
-D. Red Palace  
+**List-I (Building)**
+A. Sultan Garhi
+B. Dhai Din Ka Jhopra
+C. Jamat Khana Masjid
+D. Red Palace
 
-**List-II (Builder)**  
-1. Aibak  
-2. Iltutmish  
-3. Balban  
-4. Alauddin Khilji  
+**List-II (Builder)**
+1. Aibak
+2. Iltutmish
+3. Balban
+4. Alauddin Khilji
 
-A. 2, 1, 4, 3  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 2, 1, 4, 3
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 3, 1, 4, 2
 
 <details>
@@ -1121,13 +1121,13 @@ D. 3, 1, 4, 2
 
 **Q19.** With reference to provincial Indo-Islamic buildings, which of the following statements is/are correct?
 
-1. Atala Masjid is at Jaunpur.  
-2. Adina Masjid is at Mandu.  
+1. Atala Masjid is at Jaunpur.
+2. Adina Masjid is at Mandu.
 3. Gol Gumbaz is at Bijapur.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1141,14 +1141,14 @@ D. 1, 2 and 3
 
 **Q20.** Arrange the following in chronological order:
 
-1. Humayun’s Tomb, Delhi  
-2. Atala Mosque, Jaunpur  
-3. Bibi ka Maqbara, Aurangabad  
+1. Humayun’s Tomb, Delhi
+2. Atala Mosque, Jaunpur
+3. Bibi ka Maqbara, Aurangabad
 4. Sher Shah’s Tomb, Sasaram
 
-A. 2, 4, 1, 3  
-B. 4, 2, 1, 3  
-C. 2, 1, 4, 3  
+A. 2, 4, 1, 3
+B. 4, 2, 1, 3
+C. 2, 1, 4, 3
 D. 2, 4, 3, 1
 
 <details>
@@ -1162,21 +1162,21 @@ D. 2, 4, 3, 1
 
 **Q21.** Match List-I with List-II (Mughal tomb cities).
 
-**List-I**  
-A. Babur  
-B. Humayun  
-C. Jahangir  
-D. Shah Jahan  
+**List-I**
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan
 
-**List-II**  
-1. Agra  
-2. Lahore  
-3. Delhi  
-4. Kabul  
+**List-II**
+1. Agra
+2. Lahore
+3. Delhi
+4. Kabul
 
-A. 4, 3, 2, 1  
-B. 4, 3, 1, 2  
-C. 3, 4, 2, 1  
+A. 4, 3, 2, 1
+B. 4, 3, 1, 2
+C. 3, 4, 2, 1
 D. 4, 2, 3, 1
 
 <details>
@@ -1190,13 +1190,13 @@ D. 4, 2, 3, 1
 
 **Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Akbar constructed the Buland Darwaza at Fatehpur Sikri.  
+**Assertion (A):** Akbar constructed the Buland Darwaza at Fatehpur Sikri.
 
 **Reason (R):** It was built to commemorate the birth of Prince Salim.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1210,13 +1210,13 @@ D. (A) is false, but (R) is true
 
 **Q23.** With reference to the Taj Mahal, which of the following statements is/are correct?
 
-1. It was built by Shah Jahan as the tomb of Mumtaz Mahal.  
-2. It stands on the Yamuna at Agra.  
+1. It was built by Shah Jahan as the tomb of Mumtaz Mahal.
+2. It stands on the Yamuna at Agra.
 3. It is an example of Sultanate provincial architecture of Jaunpur.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1230,13 +1230,13 @@ D. 1, 2 and 3
 
 **Q24.** Which of the following statements about Fatehpur Sikri is/are correct?
 
-1. It was founded by Akbar.  
-2. The tomb of Salim Chishti stands in the Jama Masjid courtyard.  
+1. It was founded by Akbar.
+2. The tomb of Salim Chishti stands in the Jama Masjid courtyard.
 3. Qutub Minar is the tallest structure inside Fatehpur Sikri.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1250,16 +1250,16 @@ D. 1, 2 and 3
 
 **Q25.** Consider the following pairs (Monument — State):
 
-1. Khajuraho — Madhya Pradesh  
-2. Sanchi — Uttar Pradesh  
-3. Konark — Odisha  
+1. Khajuraho — Madhya Pradesh
+2. Sanchi — Uttar Pradesh
+3. Konark — Odisha
 4. Brihadeeswara — Tamil Nadu
 
 How many pairs are correctly matched?
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1273,13 +1273,13 @@ D. Only one
 
 **Q26.** With reference to UNESCO inscriptions of monuments taught in this topic, which of the following statements is/are correct?
 
-1. Taj Mahal and Agra Fort were inscribed in 1983.  
-2. Sarnath was inscribed in 2026.  
+1. Taj Mahal and Agra Fort were inscribed in 1983.
+2. Sarnath was inscribed in 2026.
 3. Khajuraho is an intangible heritage element, not a World Heritage monument.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1293,9 +1293,9 @@ D. 1, 2 and 3
 
 **Q27.** Which one of the following is **NOT** correctly matched?
 
-A. Itimad-ud-Daulah — Agra  
-B. Bibi ka Maqbara — Aurangabad  
-C. Akbar’s tomb — Sikandra  
+A. Itimad-ud-Daulah — Agra
+B. Bibi ka Maqbara — Aurangabad
+C. Akbar’s tomb — Sikandra
 D. Jahangir’s tomb — Agra
 
 <details>
@@ -1309,13 +1309,13 @@ D. Jahangir’s tomb — Agra
 
 **Q28.** With reference to panchayatana and charbagh, which of the following statements is/are correct?
 
-1. Panchayatana is a five-shrine Hindu temple plan.  
-2. Charbagh is a four-part Islamic garden plan.  
+1. Panchayatana is a five-shrine Hindu temple plan.
+2. Charbagh is a four-part Islamic garden plan.
 3. The Taj Mahal complex uses a charbagh layout.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1329,13 +1329,13 @@ D. 1, 2 and 3
 
 **Q29.** Consider the following statements about rock-cut vs structural architecture:
 
-1. Ajanta chaityas are rock-cut.  
-2. Brihadeeswara is structural.  
+1. Ajanta chaityas are rock-cut.
+2. Brihadeeswara is structural.
 3. The Kailasa temple at Ellora is structural like Brihadeeswara.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1349,9 +1349,9 @@ D. 1, 2 and 3
 
 **Q30.** Which of the following temples is also known as the Khajuraho of Vidarbha?
 
-A. Kailasa, Ellora  
-B. Markandeshwar  
-C. Kandariya Mahadeva  
+A. Kailasa, Ellora
+B. Markandeshwar
+C. Kandariya Mahadeva
 D. Modhera
 
 <details>
@@ -1365,13 +1365,13 @@ D. Modhera
 
 **Q31.** With reference to Chola temples, which of the following statements is/are correct?
 
-1. Brihadeeswara was built by Rajaraja I at Thanjavur.  
-2. Gangaikonda Cholapuram is associated with Rajendra I.  
+1. Brihadeeswara was built by Rajaraja I at Thanjavur.
+2. Gangaikonda Cholapuram is associated with Rajendra I.
 3. Chola temples are typical Nagara shikhara shrines of the Gangetic plain.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1385,14 +1385,14 @@ D. 1, 2 and 3
 
 **Q32.** How many of the following are in Uttar Pradesh?
 
-1. Taj Mahal  
-2. Qutub Minar  
-3. Bhitargaon temple  
+1. Taj Mahal
+2. Qutub Minar
+3. Bhitargaon temple
 4. Fatehpur Sikri
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1406,21 +1406,21 @@ D. Only one
 
 **Q33.** Match List-I with List-II.
 
-**List-I**  
-A. Lingaraja  
-B. Modhera  
-C. Virupaksha, Pattadakal  
-D. Meenakshi  
+**List-I**
+A. Lingaraja
+B. Modhera
+C. Virupaksha, Pattadakal
+D. Meenakshi
 
-**List-II**  
-1. Solanki / Gujarat  
-2. Odisha Nagara  
-3. Nayaka gopuram phase  
+**List-II**
+1. Solanki / Gujarat
+2. Odisha Nagara
+3. Nayaka gopuram phase
 4. Early Chalukya (Pattadakal)
 
-A. 2, 1, 4, 3  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 2, 1, 4, 3
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 2, 4, 1, 3
 
 <details>
@@ -1434,13 +1434,13 @@ D. 2, 4, 1, 3
 
 **Q34.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** We know more about the Cholas than about many earlier South Indian dynasties.  
+**Assertion (A):** We know more about the Cholas than about many earlier South Indian dynasties.
 
 **Reason (R):** Chola rulers had long historical narratives inscribed on temple walls.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1454,13 +1454,13 @@ D. (A) is false, but (R) is true
 
 **Q35.** With reference to Sanchi, which of the following statements is/are correct?
 
-1. The Great Stupa’s core is associated with Ashoka.  
-2. The elaborately carved toranas belong to a later (Shunga–Satavahana) phase.  
+1. The Great Stupa’s core is associated with Ashoka.
+2. The elaborately carved toranas belong to a later (Shunga–Satavahana) phase.
 3. Sanchi is in Uttar Pradesh on the Buddhist circuit with Sarnath.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1474,13 +1474,13 @@ D. 1, 2 and 3
 
 **Q36.** Which of the following statements about Aryaka (ayaka) pillars is/are correct?
 
-1. They are a distinctive feature of Andhra stupas of the Amaravati type.  
-2. They are a standard feature of the Mahabodhi temple at Bodh Gaya.  
+1. They are a distinctive feature of Andhra stupas of the Amaravati type.
+2. They are a standard feature of the Mahabodhi temple at Bodh Gaya.
 3. Amaravati is the usual single-correct answer in UPPCS framing.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1494,15 +1494,15 @@ D. 1, 2 and 3
 
 **Q37.** Consider the following pairs:
 
-1. Hathigumpha inscription — Kharavela  
-2. Lomas Rishi cave — Ashoka / Ajivika  
+1. Hathigumpha inscription — Kharavela
+2. Lomas Rishi cave — Ashoka / Ajivika
 3. Udayagiri (Vidisha) caves — Chandragupta II / Gupta
 
 Which of the pairs is/are correctly matched?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1516,13 +1516,13 @@ D. 1, 2 and 3
 
 **Q38.** With reference to Mughal materials and technique, which of the following statements is/are correct?
 
-1. Akbar’s major buildings at Agra Fort and Fatehpur Sikri are predominantly red sandstone.  
-2. Itimad-ud-Daulah marks a shift to white marble inlay.  
+1. Akbar’s major buildings at Agra Fort and Fatehpur Sikri are predominantly red sandstone.
+2. Itimad-ud-Daulah marks a shift to white marble inlay.
 3. Pietra dura is a Sultanate speciality of the Qutub complex.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1536,13 +1536,13 @@ D. 1, 2 and 3
 
 **Q39.** Which of the following is/are **NOT** correctly matched?
 
-1. Charminar — Hyderabad, Qutb Shahi  
-2. Gol Gumbaz — Bijapur, Adil Shahi  
+1. Charminar — Hyderabad, Qutb Shahi
+2. Gol Gumbaz — Bijapur, Adil Shahi
 3. Buland Darwaza — Delhi, Iltutmish
 
-A. Only 3  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. Only 3
+B. 1 and 3 only
+C. 2 and 3 only
 D. Only 1
 
 <details>
@@ -1556,13 +1556,13 @@ D. Only 1
 
 **Q40.** With reference to recent World Heritage inscriptions that touch architecture, which of the following statements is/are correct?
 
-1. Moidams of Charaideo (Ahom mound burials) were inscribed in 2024.  
-2. Maratha Military Landscapes were inscribed in 2025.  
+1. Moidams of Charaideo (Ahom mound burials) were inscribed in 2024.
+2. Maratha Military Landscapes were inscribed in 2025.
 3. Ancient Buddhist Site of Sarnath was inscribed in 2026, raising India’s tally to 45.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1576,14 +1576,14 @@ D. 1, 2 and 3
 
 **Q41.** Arrange the following Odisha temples in chronological order:
 
-1. Lingaraja  
-2. Parasuramesvara  
-3. Konark Sun Temple  
+1. Lingaraja
+2. Parasuramesvara
+3. Konark Sun Temple
 4. Mukteshvara
 
-A. 2, 4, 1, 3  
-B. 2, 1, 4, 3  
-C. 4, 2, 1, 3  
+A. 2, 4, 1, 3
+B. 2, 1, 4, 3
+C. 4, 2, 1, 3
 D. 2, 4, 3, 1
 
 <details>
@@ -1595,23 +1595,23 @@ D. 2, 4, 3, 1
 
 ---
 
-**Q42.** Match List-I with List-II (Pallava ratha — form/deity lock).
+**Q42.** Match List-I with List-II (Pallava ratha — form/deity fact).
 
-**List-I**  
-A. Dharmaraja ratha  
-B. Draupadi ratha  
-C. Bhima ratha  
-D. Nakula–Sahadeva ratha  
+**List-I**
+A. Dharmaraja ratha
+B. Draupadi ratha
+C. Bhima ratha
+D. Nakula–Sahadeva ratha
 
-**List-II**  
-1. Hut-shaped, Durga  
-2. Largest, pyramidal, multi-storey  
-3. Apsidal  
-4. Barrel / valabhi roof  
+**List-II**
+1. Hut-shaped, Durga
+2. Largest, pyramidal, multi-storey
+3. Apsidal
+4. Barrel / valabhi roof
 
-A. 2, 1, 4, 3  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 2, 1, 4, 3
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 2, 4, 1, 3
 
 <details>
@@ -1625,13 +1625,13 @@ D. 2, 4, 1, 3
 
 **Q43.** With reference to Ashokan pillars, which of the following statements is/are correct?
 
-1. The Sarnath capital has four lions and was adopted as India’s National Emblem.  
-2. Rampurva has yielded both a bull capital and a lion capital.  
+1. The Sarnath capital has four lions and was adopted as India’s National Emblem.
+2. Rampurva has yielded both a bull capital and a lion capital.
 3. The Sankisa capital is an elephant.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1645,14 +1645,14 @@ D. 1, 2 and 3
 
 **Q44.** How many of the following pairs are correctly matched?
 
-1. Kandariya Mahadeva — largest Khajuraho temple  
-2. Chausath Yogini — oldest Khajuraho shrine (hypaethral)  
-3. Mukteshvara — called the gem of Odisha architecture  
+1. Kandariya Mahadeva — largest Khajuraho temple
+2. Chausath Yogini — oldest Khajuraho shrine (hypaethral)
+3. Mukteshvara — called the gem of Odisha architecture
 4. Virupaksha, Pattadakal — pure Odisha rekha deul
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1666,13 +1666,13 @@ D. Only one
 
 **Q45.** With reference to sun temples, which of the following statements is/are correct?
 
-1. Konark is a 13th-century Eastern Ganga chariot temple with 24 wheels.  
-2. Modhera is a Solanki temple in Gujarat with a Surya kund.  
+1. Konark is a 13th-century Eastern Ganga chariot temple with 24 wheels.
+2. Modhera is a Solanki temple in Gujarat with a Surya kund.
 3. Martand is a Chola Dravida temple in Thanjavur.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1686,13 +1686,13 @@ D. 1, 2 and 3
 
 **Q46.** Which of the following statements about caves is/are correct?
 
-1. Lomas Rishi is a Barabar cave with a chaitya-arch facade.  
-2. Ellora cave 10 is the Vishvakarma Buddhist chaitya.  
+1. Lomas Rishi is a Barabar cave with a chaitya-arch facade.
+2. Ellora cave 10 is the Vishvakarma Buddhist chaitya.
 3. Bagh caves are in Odisha and belong to Kharavela.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1706,21 +1706,21 @@ D. 1, 2 and 3
 
 **Q47.** Match List-I with List-II (Sultanate building — dynasty).
 
-**List-I**  
-A. Alai Darwaza  
-B. Tughlaqabad  
-C. Atala Masjid  
-D. Gol Gumbaz  
+**List-I**
+A. Alai Darwaza
+B. Tughlaqabad
+C. Atala Masjid
+D. Gol Gumbaz
 
-**List-II**  
-1. Adil Shahi, Bijapur  
-2. Khilji  
-3. Tughlaq  
-4. Sharqi, Jaunpur  
+**List-II**
+1. Adil Shahi, Bijapur
+2. Khilji
+3. Tughlaq
+4. Sharqi, Jaunpur
 
-A. 2, 3, 4, 1  
-B. 2, 3, 1, 4  
-C. 3, 2, 4, 1  
+A. 2, 3, 4, 1
+B. 2, 3, 1, 4
+C. 3, 2, 4, 1
 D. 2, 4, 3, 1
 
 <details>
@@ -1734,13 +1734,13 @@ D. 2, 4, 3, 1
 
 **Q48.** With reference to Fatehpur Sikri, which of the following statements is/are correct?
 
-1. Panch Mahal is a five-storey open pavilion.  
-2. The Diwan-i-Khas has a central throne pillar.  
+1. Panch Mahal is a five-storey open pavilion.
+2. The Diwan-i-Khas has a central throne pillar.
 3. Itimad-ud-Daulah’s tomb stands inside the Fatehpur Sikri Jama Masjid courtyard.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1754,13 +1754,13 @@ D. 1, 2 and 3
 
 **Q49.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** The Kailasa temple at Ellora is considered the largest monolithic temple in the world.  
+**Assertion (A):** The Kailasa temple at Ellora is considered the largest monolithic temple in the world.
 
 **Reason (R):** It was assembled from granite blocks transported from Kanchipuram by the Cholas.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1774,13 +1774,13 @@ D. (A) is false, but (R) is true
 
 **Q50.** Which of the following is/are **NOT** correctly matched?
 
-1. Rani ki Vav — Patan, Solanki  
-2. Ramappa — Hoysala, Halebidu  
+1. Rani ki Vav — Patan, Solanki
+2. Ramappa — Hoysala, Halebidu
 3. Charminar — Muhammad Quli Qutb Shah, 1591
 
-A. Only 2  
-B. 1 and 2 only  
-C. 2 and 3 only  
+A. Only 2
+B. 1 and 2 only
+C. 2 and 3 only
 D. Only 3
 
 <details>
@@ -1804,9 +1804,9 @@ Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehp
 
 Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -1820,21 +1820,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Match List-I with List-II and select the correct answer using the code given below the lists.
 
-**List-I (Emperor)**  
-A. Babur  
-B. Humayun  
-C. Jahangir  
-D. Shah Jahan  
+**List-I (Emperor)**
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan
 
-**List-II (City where tomb is situated)**  
-1. Agra  
-2. Lahore  
-3. Delhi  
-4. Kabul  
+**List-II (City where tomb is situated)**
+1. Agra
+2. Lahore
+3. Delhi
+4. Kabul
 
-A. 4 3 2 1  
-B. 3 4 1 2  
-C. 3 4 2 1  
+A. 4 3 2 1
+B. 3 4 1 2
+C. 3 4 2 1
 D. 4 3 1 2
 
 <details>
@@ -1850,21 +1850,21 @@ D. 4 3 1 2
 
 Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Building)**  
-A. Sultan Garhi  
-B. Red Palace  
-C. Jamat Khana Masjid  
-D. Dhai Din Ka Jhopra  
+**List-I (Building)**
+A. Sultan Garhi
+B. Red Palace
+C. Jamat Khana Masjid
+D. Dhai Din Ka Jhopra
 
-**List-II (Builder)**  
-1. Alauddin Khilji  
-2. Qutbuddin Aibak  
-3. Iltutmish  
-4. Balban  
+**List-II (Builder)**
+1. Alauddin Khilji
+2. Qutbuddin Aibak
+3. Iltutmish
+4. Balban
 
-A. 3, 4, 1, 2  
-B. 3, 4, 2, 1  
-C. 4, 3, 1, 2  
+A. 3, 4, 1, 2
+B. 3, 4, 2, 1
+C. 4, 3, 1, 2
 D. 4, 3, 2, 1
 
 <details>
@@ -1878,9 +1878,9 @@ D. 4, 3, 2, 1
 
 In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
 
-A. Nagarjunakonda  
-B. Ghantasala  
-C. Amaravati  
+A. Nagarjunakonda
+B. Ghantasala
+C. Amaravati
 D. Bodhgaya
 
 <details>
@@ -1896,13 +1896,13 @@ D. Bodhgaya
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
 
-**Assertion (A):** We have much more information about Cholas than their predecessors.  
+**Assertion (A):** We have much more information about Cholas than their predecessors.
 
 **Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is true but (R) is false
 D. (A) is false but (R) is true
 
 <details>
@@ -1918,14 +1918,14 @@ D. (A) is false but (R) is true
 
 Arrange the following monuments in a chronological order and select the correct answer from the codes given below:
 
-I. Rabia Daurani's Tomb, Aurangabad  
-II. Shershah Suri's Tomb, Sasaram  
-III. Humayun's Tomb, Delhi  
+I. Rabia Daurani's Tomb, Aurangabad
+II. Shershah Suri's Tomb, Sasaram
+III. Humayun's Tomb, Delhi
 IV. Aiala Mosque, Jaunpur
 
-A. I, II, IV, III  
-B. IV, II, III, I  
-C. II, I, III, IV  
+A. I, II, IV, III
+B. IV, II, III, I
+C. II, I, III, IV
 D. III, IV, II, I
 
 <details>
@@ -1939,9 +1939,9 @@ D. III, IV, II, I
 
 Which of the following temples is also known as Khajuraho of Vidarbha?
 
-A. Markandeshwar  
-B. Kailash  
-C. Manudevi  
+A. Markandeshwar
+B. Kailash
+C. Manudevi
 D. Bhimashankar
 
 <details>
@@ -1957,14 +1957,14 @@ D. Bhimashankar
 
 Arrange the following temples in a chronological order and select the correct answer from the codes given below:
 
-I. Brihdishwar temple  
-II. Gangaikonda cholapuram temple  
-III. Shore temple of Mahabalipuram  
+I. Brihdishwar temple
+II. Gangaikonda cholapuram temple
+III. Shore temple of Mahabalipuram
 IV. Sapt pagoda
 
-A. I, II, IV, III  
-B. II, I, III, IV  
-C. III, II, I, IV  
+A. I, II, IV, III
+B. II, I, III, IV
+C. III, II, I, IV
 D. IV, III, I, II
 
 <details>
@@ -1978,9 +1978,9 @@ D. IV, III, I, II
 
 The inscription of Hathigumpha is the source of information about which king?
 
-A. Kharvela  
-B. Ashok  
-C. Harshavardhan  
+A. Kharvela
+B. Ashok
+C. Harshavardhan
 D. Kanishka
 
 <details>
@@ -1994,9 +1994,9 @@ D. Kanishka
 
 Which of the following pairs is NOT correctly matched?
 
-A. Adina Masjid – Mandu  
-B. Lal Darwaza Masjid – Jaunpur  
-C. Dakhil Darwaza – Gaour  
+A. Adina Masjid – Mandu
+B. Lal Darwaza Masjid – Jaunpur
+C. Dakhil Darwaza – Gaour
 D. Tin Darwaza – Ahmedabad
 
 <details>
@@ -2013,7 +2013,7 @@ D. Tin Darwaza – Ahmedabad
 - **Ancient Buddhist Site of Sarnath (UP)** inscribed UNESCO WHS, **July 2026** (48th WHC, Busan) — India’s **45th** property; serial site = Chaukhandi Stupa + archaeological remains (Dhamek, Ashokan pillar zone).
 - **Maratha Military Landscapes of India** — UNESCO **2025**, India’s **44th** (12 forts: 11 Maharashtra + Gingee, TN).
 - **Moidams – Mound-Burial System of the Ahom Dynasty** (Charaideo, Assam) — UNESCO **2024**, **43rd**.
-- These three are architecture/landscape locks for this topic.
+- These three are architecture/landscape facts for this topic.
 
 ---
 

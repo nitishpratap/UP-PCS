@@ -9,41 +9,41 @@ Location factors | Industrial regions | City–industry pairs | Ports / entrepô
 
 </details>
 
-> **Sources baked in:** Lucent world industry / port / local-wind match-lists; NCERT Class 12 (secondary activities); coaching industrial-region map; UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — city–industry pairs, port–country, Suez locks, Chinook/Foehn, Mistral ≠ Australia, Shamal ≠ Austria; teach full industry + canal + wind map  
-> **Last verified:** August 2026 — coaching gap-pass (Japan nicknames, footloose, Silicon Valley, shipbuilding East Asia)  
+> **Sources baked in:** Lucent world industry / port / local-wind match-lists; NCERT Class 12 (secondary activities); coaching industrial-region map; UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — city–industry pairs, port–country, Suez facts, Chinook/Foehn, Mistral ≠ Australia, Shamal ≠ Austria; teach full industry + canal + wind map
+> **Last verified:** August 2026 — coaching gap-pass (Japan nicknames, footloose, Silicon Valley, shipbuilding East Asia)
 > **Current Affairs:** none mandatory
 
 ---
 
-## Consolidated — 20 Must-Score Locks
+## Consolidated — 20 Must-Score Facts
 
-1. City–industry locks: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
+1. City–industry facts: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
 2. **Igarka** is in **Russia** (Yenisei timber), not China. **Rotterdam** is in the **Netherlands**. **Montevideo** is Uruguay. **Jakarta** is Indonesia.
 3. The **Suez Canal** joins the **Mediterranean** and **Red Sea** and cut India–Europe distance by about **7000 km**. Lakes north to south: **Manzala → Timsah → Great Bitter → Little Bitter**.
-4. **Panama** joins Atlantic/Caribbean and Pacific **with locks**. **Kiel** joins the North Sea and Baltic. Suez is sea-level with **no locks**.
+4. **Panama** joins Atlantic/Caribbean and Pacific **with facts**. **Kiel** joins the North Sea and Baltic. Suez is sea-level with **no facts**.
 5. **Chinook** is a warm dry wind of the Rockies. **Foehn** is the Alps equivalent. Both can be true together.
 6. **Mistral** is southern France, **not** Australia. **Shamal** is Arabia, **not** Austria. **Brickfielder** = Australia.
 7. **Ruhr** = Germany heavy industry. **Lancashire** = cotton. **Yorkshire** = wool. **Pittsburgh–Great Lakes** = steel. **Detroit** = autos.
 8. Japan belts: **Keihin** = Tokyo–Yokohama; **Hanshin** = Osaka–Kobe; **Chukyo** = Nagoya autos. Nicknames: Osaka = Manchester of Japan; Nagoya = Detroit of Japan; Kawasaki = Pittsburgh of Japan; Ivanovo = Russian Manchester.
 9. **Footloose** industry example = electronics. **Aluminium** seeks cheap hydel. **Steel** seeks ore and coking coal (weight-losing near raw material).
 10. **Entrepôt** classics = Singapore, Rotterdam, Hong Kong. **Duisburg** is an inland Rhine port, not a Dutch sea mouth.
-11. More wind locks: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
+11. More wind facts: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
 12. A **willy-willy** is a cyclone name, not a local wind. **Akron** = tyres. **Toulouse** = Airbus.
 13. **Silicon Valley** (California) = electronics / IT — not Detroit.
-14. Shipbuilding volume leaders are **China–South Korea–Japan**. St Petersburg remains the classic European exam city.
+14. Shipbuilding volume leaders are **China–South Korea–Japan**. St Petersburg remains the classic European city.
 15. Weight-losing industries sit near raw material; bottling and market-oriented industries sit near consumers. Oil refining often seeks the port or pipeline end.
 16. Italy’s industrial triangle is the **Po Basin / Milan–Turin–Genoa** belt.
-17. Port Said is at the **north** end of Suez; Suez town is at the **south**. Panama uses locks and **Gatun Lake**.
+17. Port Said is at the **north** end of Suez; Suez town is at the **south**. Panama uses facts and **Gatun Lake**.
 18. Break-of-bulk points concentrate at ports. Textiles often seek labour and market; steel is the classic weight-losing case.
 19. Pearl River Delta is China’s classic coastal manufacturing belt in this chapter’s map diet.
 20. Shanghai leads container volume among common port MCQs; Rotterdam sits at the Rhine mouth.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Osaka | **Cotton textile** | Auto / ship | ओसाका |
 | Detroit | **Automobile** | Cotton | डेट्रॉइट |
@@ -65,7 +65,7 @@ Location factors | Industrial regions | City–industry pairs | Ports / entrepô
 | Santa Ana | **California** | Spain | सांता आना |
 | Harmattan | West Africa | Alps | हरमट्टन |
 | Bora | Adriatic (cold) | Warm Chinook dump | बोरा |
-| Suez vs Panama | Suez = no locks, Med–Red; Panama = **locks**, Atlantic–Pacific | Swap | स्वेज / पनामा |
+| Suez vs Panama | Suez = no facts, Med–Red; Panama = **facts**, Atlantic–Pacific | Swap | स्वेज / पनामा |
 | Duisburg | Inland Rhine port, **Germany** | Netherlands / sea entrepôt | ड्यूसबर्ग |
 | Willy-willy | Australian **cyclone** | Local wind like Brickfielder | विली-विली |
 | Akron | **Tyres / rubber** (USA) | Steel | एक्रॉन |
@@ -83,8 +83,8 @@ Location factors | Industrial regions | City–industry pairs | Ports / entrepô
 
 This chapter bundles **secondary-activity geography** with Lucent’s usual **port / canal / local-wind** match-lists.
 
-- Lock **location logic** first (weight-losing, market, hydel, footloose, break-of-bulk).
-- Then lock **region** and **city–industry** pairs (one industry per famous city).
+- Fact **location logic** first (weight-losing, market, hydel, footloose, break-of-bulk).
+- Then fact **region** and **city–industry** pairs (one industry per famous city).
 - Ports need **country + type** (entrepôt, inland, container). Canals need **two seas + one trap**.
 - Local winds are a separate match-list — learn **name · place · warm/cold or dusty**, not essays.
 
@@ -122,7 +122,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 | Government / SEZ | Planned estates |
 | Capital + R&D | Pharma, electronics |
 
-**By industry (exam rows)**
+**By industry (rows)**
 
 | Industry | Typical location |
 |----------|------------------|
@@ -153,7 +153,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 
 **Europe**
 
-| Region | Country | Lock |
+| Region | Country | Fact |
 |--------|---------|------|
 | **Ruhr** | Germany | Coal, steel, heavy engineering; Essen–Dortmund–Duisburg |
 | Saar | Germany–France border | Coal–steel |
@@ -175,7 +175,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 
 **USA / Canada**
 
-| Region | Lock |
+| Region | Fact |
 |--------|------|
 | New England | Early cotton; now diversified |
 | New York–Philadelphia | Port, chemicals, publishing |
@@ -190,7 +190,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 
 **East Asia**
 
-| Region | Lock |
+| Region | Fact |
 |--------|------|
 | **Keihin** | Tokyo–Yokohama — Japan’s largest |
 | **Hanshin** | Osaka–Kobe — cotton, ship, port |
@@ -207,7 +207,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 
 **Rest of world**
 
-| Region | Lock |
+| Region | Fact |
 |--------|------|
 | São Paulo–Santos | Brazil |
 | Buenos Aires | Argentina |
@@ -221,7 +221,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 
 ## N.3 Industrial cities
 
-**2022 four-row lock**
+**2022 four-row fact**
 
 | Centre | Industry |
 |--------|----------|
@@ -232,7 +232,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 
 **Japan / Russia nicknames (coaching)**
 
-| Nickname | City | Lock |
+| Nickname | City | Fact |
 |----------|------|------|
 | Manchester of Japan | **Osaka** | Cotton |
 | Detroit of Japan | **Nagoya** (Chukyo) | Automobiles |
@@ -412,7 +412,7 @@ D. Jakarta — Indonesia
 
 **Suez Canal (opened 1869)**
 
-- Sea-level cut; **no locks**.
+- Sea-level cut; **no facts**.
 - Length about **160–190 km** (textbook band).
 - Links **Mediterranean Sea** and **Red Sea**.
 - Does **not** itself touch the Atlantic or the open Indian Ocean.
@@ -431,7 +431,7 @@ D. Jakarta — Indonesia
 **Panama Canal (opened 1914)**
 
 - Links **Caribbean / Atlantic** and **Pacific**.
-- Uses **locks** and **Gatun Lake**.
+- Uses **facts** and **Gatun Lake**.
 - Towns: Colón (Atlantic), Panama City (Pacific).
 - Avoids **Cape Horn**.
 - Not Med–Red (that is Suez).
@@ -620,9 +620,7 @@ The **Elephanta** is the Malabar September wind.
 
 The **Williwaw** is an Alaskan / Magellan squall.
 
-**Do not dump cyclone names here**
-
-**Willy-willy** is an Australian **tropical cyclone**, not a local wind like Brickfielder.
+**Do not dump cyclone names hereWilly-willy** is an Australian **tropical cyclone**, not a local wind like Brickfielder.
 
 Hurricane, typhoon, and baguio are synoptic storms, not Foehn / Mistral pairs.
 
@@ -700,7 +698,7 @@ D. Mistral Australia
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Match List-I with List-II:
@@ -1247,7 +1245,7 @@ D. 2 4 1 3
 
 **Options:**
 
-A. Kiel Canal lock
+A. Kiel Canal fact
 
 B. Malacca Strait entrepôt
 
@@ -1766,7 +1764,7 @@ B. Baltic and North Sea
 
 C. Great Lakes ore
 
-D. Panama locks
+D. Panama facts
 
 <details>
 <summary>Show answer</summary>
@@ -1803,8 +1801,8 @@ D. Neither
 
 **Q50.** Which of the following is/are correct?
 
-1. Suez is sea-level (no locks).
-2. Panama uses locks and Gatun Lake.
+1. Suez is sea-level (no facts).
+2. Panama uses facts and Gatun Lake.
 3. Willy-willy is an Australian local wind like Brickfielder.
 
 **Options:**
@@ -1903,7 +1901,7 @@ D. Only inland timber ports like Igarka
 
 ---
 
-**Q55.** Assertion (A): Aluminium smelting often seeks cheap hydroelectric power.  
+**Q55.** Assertion (A): Aluminium smelting often seeks cheap hydroelectric power.
 Reason (R): Electrolysis of alumina is highly energy-intensive.
 
 A. Both A and R are true and R explains A
@@ -2054,7 +2052,7 @@ D. Appalachian USA only
 
 **Q63.** Which canal pair is correctly matched?
 
-A. Suez — Atlantic ↔ Pacific with many locks
+A. Suez — Atlantic ↔ Pacific with many facts
 
 B. Panama — Mediterranean ↔ Red Sea, sea-level
 
@@ -2339,7 +2337,7 @@ None mandatory.
 14. **Montevideo = Argentina** — FALSE. **Uruguay**.
 15. **Lancashire = wool** — FALSE. **Cotton**. Yorkshire = wool.
 16. **Hanshin = Tokyo** — FALSE. Osaka–Kobe. Keihin = Tokyo–Yokohama.
-17. **Suez has Panama-style locks** — FALSE. Suez is **sea-level**.
+17. **Suez has Panama-style facts** — FALSE. Suez is **sea-level**.
 18. **Willy-willy = Brickfielder** — FALSE. Willy-willy is a **cyclone**.
 19. **Duisburg = Netherlands sea port** — FALSE. **German inland** Rhine port.
 20. **Toulouse = Boeing** — FALSE. **Airbus**. Boeing = Seattle.

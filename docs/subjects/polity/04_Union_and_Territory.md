@@ -8,14 +8,14 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 </details>
 
-> **Sources baked in:** Laxmikanth (Union & Territory / Citizenship), Constitution Arts. 1–4 & 5–11, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — Art. 2 vs 3; SRC members; 28 States + 8 UTs; 69th Delhi; citizenship Arts. 5–11; UT seats in LS  
-> **Last verified:** August 2026  
+> **Sources baked in:** Laxmikanth (Union & Territory / Citizenship), Constitution Arts. 1–4 & 5–11, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — Art. 2 vs 3; SRC members; 28 States + 8 UTs; 69th Delhi; citizenship Arts. 5–11; UT seats in LS
+> **Last verified:** August 2026
 > **Current Affairs:** J&K still a UT (statehood pending); Delhi services (GNCTD 2023 framework in 1991 Act); CAA 2019 upheld 2024
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. **Part I** covers **Articles 1–4**. Names and territorial extent sit in the **First Schedule**. India is a **Union of States** — States cannot secede; Parliament may reorganise them.
 2. Territory of India under **Article 1(3)** means **States**, **Union Territories**, and such other territories as may be **acquired**.
@@ -39,7 +39,7 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 20. **Article 11** empowers Parliament to regulate citizenship; the working statute is the **Citizenship Act, 1955**.
 21. Modes of **acquisition**: birth, descent, registration, naturalisation, and incorporation of territory. Modes of **loss**: renunciation, termination, and deprivation.
 22. Birth-citizenship clocks: from **1987**, one parent citizen; from **3 December 2004**, both parents citizens, or one citizen and the other not an illegal migrant.
-23. **CAA** teaching lock: selected persecuted minorities from **three** neighbouring countries, with a cut-off of **31 December 2014**. It does not redefine OCI as dual citizenship.
+23. **CAA** teaching fact: selected persecuted minorities from **three** neighbouring countries, with a cut-off of **31 December 2014**. It does not redefine OCI as dual citizenship.
 24. **OCI** is **not** dual citizenship: no vote and no constitutional office. An **NRI** remains an Indian **citizen** living abroad; an **OCI** is a foreign citizen of Indian origin with a card status.
 25. The **National Integration Council (1961)** is **extra-constitutional**. The **Inter-State Council** rests on **Article 263**.
 26. **Sikkim** entered as a full State through the **Article 2** path (**35th** associate stage, then **36th Amendment, 1975**), with special provision **371F**.
@@ -48,9 +48,9 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Art. 2 | Art. 3 | Admit/establish **new** States vs form/alter **existing** | प्रवेश / गठन |
 | Art. 3 | Art. 368 | Simple majority + Art. 4 ≠ constitutional amendment | — |
@@ -80,7 +80,7 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 | **3** | Formation / alteration of States | Five powers: (a) form a new State (b) increase area (c) diminish area (d) alter boundaries (e) **alter name**. Can also form a **UT** from a State / merge UTs (as done for J&K 2019 / DNH–DD 2020). |
 | **4** | Laws under 2 and 3 | May amend **First & Fourth** Schedules (and supplemental/incidental provisions). Such a law is **not** an amendment under **Art. 368** — **simple majority** of Parliament is enough. |
 
-### Formation of States — Art. 3 procedure (exam steps)
+### Formation of States — Art. 3 procedure (steps)
 
 1. Bill introduced in **either House** of Parliament — **only on the President’s recommendation**.
 2. Before recommending, President **refers** the Bill to the Legislature of the State(s) concerned for its **views**, and may fix a time-limit.
@@ -94,9 +94,9 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 Which of the following is NOT possible by a law of Parliament under Article 3 of the Constitution?
 
-A. Formation of new States  
-B. Alteration of areas of States  
-C. Alteration of boundaries of States  
+A. Formation of new States
+B. Alteration of areas of States
+C. Alteration of boundaries of States
 D. Admission of new States
 
 <details>
@@ -110,9 +110,9 @@ D. Admission of new States
 
 Which one of the following pairs is not correctly matched?
 
-A. Equality before Law — Guaranteed to both citizens and non-citizens  
-B. Equality of opportunity in public employment — Guaranteed only to Indian citizens  
-C. Creating a new State — Power of Parliament  
+A. Equality before Law — Guaranteed to both citizens and non-citizens
+B. Equality of opportunity in public employment — Guaranteed only to Indian citizens
+C. Creating a new State — Power of Parliament
 D. Altering the name of a State — Power of a State Legislature
 
 <details>
@@ -139,7 +139,7 @@ D. Altering the name of a State — Power of a State Legislature
 - **Sikkim** — Indian protectorate → **35th Amendment, 1974** (associate State, Art. 2A) → referendum → **36th Amendment, 1975** (full 22nd State; Art. 2A omitted; **371F**).
 - **Bangladesh LBA** — India **received** enclaves as well as transferred some (**100th Amendment, 2015**).
 
-**Cession — exam amendments**
+**Cession — amendments**
 - **9th Amendment, 1960** — Berubari Union and related territories to **Pakistan** (Nehru–Noon, 1958).
 - **100th Amendment, 2015** — India–Bangladesh Land Boundary Agreement (1974/2011): exchange of **162 enclaves** (India transferred 111; received 51). Affected West Bengal, Assam, Meghalaya, Tripura.
 
@@ -169,10 +169,10 @@ D. Altering the name of a State — Power of a State Legislature
 - Broadly accepted language **but rejected** “one language = one State” as the **sole** test.
 
 **Four factors (learn the list):**
-1. Preservation and strengthening of the **unity and security** of India  
-2. **Linguistic and cultural** homogeneity  
-3. **Financial, economic and administrative** considerations  
-4. Planning and **welfare** of the people of each State and of the nation  
+1. Preservation and strengthening of the **unity and security** of India
+2. **Linguistic and cultural** homogeneity
+3. **Financial, economic and administrative** considerations
+4. Planning and **welfare** of the people of each State and of the nation
 
 - SRC recommended **16 States and 3 UTs**. The Union implemented **14 States and 6 UTs** (1956).
 - Did **not** then split bilingual **Bombay** or **Punjab** on SRC’s final political compromise — those splits came **1960** and **1966**.
@@ -181,14 +181,14 @@ D. Altering the name of a State — Power of a State Legislature
 
 Which of the following persons were members of the States Reorganisation Commission?
 
-1. K. T. Shah  
-2. K. M. Panikkar  
-3. P. Sitaramayya  
-4. H. N. Kunzru  
+1. K. T. Shah
+2. K. M. Panikkar
+3. P. Sitaramayya
+4. H. N. Kunzru
 
-A. 1 and 3  
-B. 2 and 4  
-C. 2 and 3  
+A. 1 and 3
+B. 2 and 4
+C. 2 and 3
 D. 1 and 2
 
 <details>
@@ -204,9 +204,9 @@ D. 1 and 2
 
 - Main statute implementing SRC (with modifications). In force **1 November 1956**.
 - Paired with the **7th Constitutional Amendment, 1956**:
-  - Abolished **Part A / B / C / D** classification and Rajpramukhs.
-  - Introduced the category **Union Territory**.
-  - Enabled a **common High Court** for two or more States; High Courts for UTs (**Art. 241**).
+ - Abolished **Part A / B / C / D** classification and Rajpramukhs.
+ - Introduced the category **Union Territory**.
+ - Enabled a **common High Court** for two or more States; High Courts for UTs (**Art. 241**).
 - Result on 1 Nov 1956: **14 States + 6 UTs**.
 
 **14 States (1956):** Andhra Pradesh, Assam, Bihar, **Bombay**, J&K, **Kerala** (new — Travancore-Cochin + Malabar), Madhya Pradesh, Madras, Mysore, Orissa, Punjab, Rajasthan, Uttar Pradesh, West Bengal.
@@ -217,7 +217,7 @@ D. 1 and 2
 
 ---
 
-## After 1956 — State / UT chronology (exam spine)
+## After 1956 — State / UT chronology (spine)
 
 | Year | What happened |
 |------|----------------|
@@ -234,9 +234,7 @@ D. 1 and 2
 | **2019** | J&K Reorganisation Act — **J&K UT** (with legislature) + **Ladakh UT** (no legislature) from **31 Oct 2019** |
 | **2020** | **Dadra & Nagar Haveli and Daman & Diu** merged into **one UT** (26 Jan 2020) |
 
-**Present lock:** **28 States + 8 Union Territories.**
-
-**8 UTs:** Andaman & Nicobar; Chandigarh; Dadra & Nagar Haveli and Daman & Diu; **Delhi (NCT)**; **Jammu & Kashmir**; **Ladakh**; Lakshadweep; **Puducherry**.
+**Present fact:28 States + 8 Union Territories.8 UTs:** Andaman & Nicobar; Chandigarh; Dadra & Nagar Haveli and Daman & Diu; **Delhi (NCT)**; **Jammu & Kashmir**; **Ladakh**; Lakshadweep; **Puducherry**.
 
 > **UP focus:** Uttarakhand carved out of **Uttar Pradesh** on **9 November 2000** (renamed from Uttaranchal in 2007).
 
@@ -249,7 +247,7 @@ D. 1 and 2
 - **Art. 239A** (14th Amendment, **1962**): Parliament may create a **Legislature and/or Council of Ministers** for certain UTs — today the living case is **Puducherry** (originally also drafted for HP, Manipur, Tripura, Goa, Daman & Diu).
 - **Art. 239AA / 239AB:** special code for **Delhi** (69th Amendment).
 - **Art. 240:** President may make **regulations** for the peace, progress and good government of specified UTs **without** a legislature (and, in some cases, when the legislature is dissolved/suspended). Same force as an Act of Parliament.
-- **Art. 241:** **High Court** for a UT; Parliament may include a UT in a neighbouring State’s HC (e.g. Chandigarh → Punjab & Haryana HC).
+- **Art. 241:High Court** for a UT; Parliament may include a UT in a neighbouring State’s HC (e.g. Chandigarh → Punjab & Haryana HC).
 
 | UT type | UTs | Political executive |
 |---------|-----|---------------------|
@@ -273,19 +271,18 @@ D. 1 and 2
 | Delhi special | Public order, police, land with Centre; difference of opinion → **President** | No such Union-reserve triplet |
 | Same person | One person may administer **two UTs** (or a Governor may be Administrator of a UT — **Chandigarh** often the Punjab Governor) | One person may be Governor of two or more States (Art. 153) |
 
-**Who is called what (present practice)**  
-**LG:** Delhi, Puducherry, Andaman & Nicobar, J&K, Ladakh.  
+**Who is called what (present practice)LG:** Delhi, Puducherry, Andaman & Nicobar, J&K, Ladakh.
 **Administrator:** Chandigarh, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu.
 
-> **Exam note:** “LG” is a **designation** of the Administrator under Art. 239 — not a separate constitutional office like the Governor of a State.
+> ** note:** “LG” is a **designation** of the Administrator under Art. 239 — not a separate constitutional office like the Governor of a State.
 
 **PYQ — UPPCS Prelims 2018, Q150**
 
 What can be the maximum representation from the Union Territories to the Lok Sabha?
 
-A. 15  
-B. 20  
-C. 25  
+A. 15
+B. 20
+C. 25
 D. None of the above
 
 <details>
@@ -299,9 +296,9 @@ D. None of the above
 
 Which among the following (Provision — Part of the Constitution) is not correctly matched?
 
-A. The Union Territories — Part VIII  
-B. The Scheduled and Tribal Areas — Part X  
-C. Tribunals — Part XI  
+A. The Union Territories — Part VIII
+B. The Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
 D. Official Language — Part XVII
 
 <details>
@@ -323,11 +320,11 @@ D. Official Language — Part XVII
 - There **shall** be a Legislative Assembly and a Council of Ministers with a **Chief Minister**.
 - Assembly strength (GNCTD Act): **70** members; CoM **not more than 10%** of the Assembly → **7** ministers including CM.
 - CoM collectively responsible to the **Assembly**.
-- Assembly may legislate on **State List and Concurrent List** **except** **Entries 1, 2 and 18 of the State List** and related Concurrent entries: **public order, police, land**.
+- Assembly may legislate on **State List and Concurrent ListexceptEntries 1, 2 and 18 of the State List** and related Concurrent entries: **public order, police, land**.
 - If there is a **difference of opinion** between LG and CoM, LG **refers it to the President**; pending decision LG may, in urgency, take immediate action.
 - **Art. 239AB:** President may suspend the 239AA machinery (failure of constitutional machinery — Delhi’s cousin of **356**).
 
-**Case / statute locks**
+**Case / statute facts**
 - **SC 2018** (*Govt of NCT of Delhi v. UoI*): LG is bound by aid and advice of CoM except where the Constitution gives independent discretion; LG is **not** a Governor of a full State.
 - **GNCTD (Amendment) Act, 2021:** certain executive decisions to be placed before the LG before action.
 - **SC 11 May 2023:** elected Delhi government controls **services**, except public order, police, land.
@@ -337,9 +334,9 @@ D. Official Language — Part XVII
 
 By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
 
-A. 75th  
-B. 73rd  
-C. 70th  
+A. 75th
+B. 73rd
+C. 70th
 D. 69th
 
 <details>
@@ -409,9 +406,9 @@ D. 69th
 
 Which Articles of Indian Constitution are related to citizenship?
 
-A. Article 3 to 10  
-B. Article 4 to 11  
-C. Article 5 to 11  
+A. Article 3 to 10
+B. Article 4 to 11
+C. Article 5 to 11
 D. Article 6 to 11
 
 <details>
@@ -425,9 +422,9 @@ D. Article 6 to 11
 
 In which Part of the Constitution of India do we find the provisions relating to citizenship?
 
-A. Part I  
-B. Part II  
-C. Part VII  
+A. Part I
+B. Part II
+C. Part VII
 D. Part IX
 
 <details>
@@ -441,14 +438,14 @@ D. Part IX
 
 Consider the following subjects and arrange them in sequential order as mentioned in the Constitution.
 
-I. The Union and its territory  
-II. Fundamental duties  
-III. Citizenship  
-IV. Directive Principles of State Policy  
+I. The Union and its territory
+II. Fundamental duties
+III. Citizenship
+IV. Directive Principles of State Policy
 
-A. II, IV, I, III  
-B. I, III, IV, II  
-C. III, I, II, IV  
+A. II, IV, I, III
+B. I, III, IV, II
+C. III, I, II, IV
 D. IV, II, III, I
 
 <details>
@@ -486,10 +483,10 @@ Central Government may register (among others):
 
 ### 4. By naturalisation (s. 6)
 Foreigner (not illegal migrant) who qualifies under the **Third Schedule** of the 1955 Act:
-- **12 months** residence immediately before the application **plus** **11 years** in the **14 years** before that 12-month period (total **12-year** type test)
+- **12 months** residence immediately before the application **plus11 years** in the **14 years** before that 12-month period (total **12-year** type test)
 - Good character; adequate knowledge of a language in the **Eighth Schedule**
 - Intention to reside in India or serve under the Government
-- Oath of allegiance  
+- Oath of allegiance
 Government may **relax** for a person who has rendered **distinguished service** to science, philosophy, art, literature, world peace, or human progress.
 
 ### 5. By incorporation of territory (s. 7)
@@ -501,7 +498,7 @@ When a new territory becomes part of India, the Central Government notifies whic
 
 Three modes. India does **not** allow **dual citizenship**.
 
-| Mode | Who / how | Lock |
+| Mode | Who / how | Fact |
 |------|-----------|------|
 | **Renunciation (s. 8)** | Voluntary declaration by an Indian citizen of **full age and capacity** who is also a citizen of another country | Minor children **also lose**; child may **resume** Indian citizenship within **1 year of turning 18** |
 | **Termination (s. 9)** | **Automatic** when an Indian citizen **voluntarily acquires** citizenship of another country | Mirrors **Art. 9**. Question of *when* foreign citizenship was acquired is decided as provided in the Act |
@@ -513,13 +510,13 @@ Three modes. India does **not** allow **dual citizenship**.
 
 ## NRI / PIO / OCI (basic)
 
-| Label | Who | Passport | Vote / office | Other lock |
+| Label | Who | Passport | Vote / office | Other fact |
 |-------|-----|----------|---------------|------------|
 | **NRI** | **Indian citizen** residing outside India | **Indian** | **Can vote** (in person in the Indian constituency; postal/proxy as law provides) | FEMA/tax resident rules are separate |
 | **PIO** | Foreign citizen of Indian origin | Foreign | No | PIO **card scheme withdrawn**; merged into **OCI from 9 Jan 2015** |
 | **OCI** | Foreign citizen registered as Overseas Citizen of India (2005 scheme; s. 7A) | Foreign | **No** vote; **no** LS/RS/Assembly; **no** constitutional posts (President, VP, Judge, etc.); **no** public employment as of right | **Not dual citizenship.** Lifelong multi-entry visa; parity with NRIs in specified economic/education matters. Eligible to **register as citizen** after 5 years OCI + 1 year residence |
 
-**Who is “of Indian origin” (exam):** typically a person who, or whose parents/grandparents, were citizens of India (or eligible) as notified — **not** a person who ever was a citizen of **Pakistan or Bangladesh** (OCI bar, with CAA sitting on a different track).
+**Who is “of Indian origin” ():** typically a person who, or whose parents/grandparents, were citizens of India (or eligible) as notified — **not** a person who ever was a citizen of **Pakistan or Bangladesh** (OCI bar, with CAA sitting on a different track).
 
 ---
 
@@ -528,7 +525,7 @@ Three modes. India does **not** allow **dual citizenship**.
 - **Citizenship (Amendment) Act, 2019** — amends the **1955** Act; rules notified **2024**.
 - Creates an exception to the **illegal-migrant bar** for a **listed religious group** from **three countries**.
 
-| Lock | Fact |
+| Cue | Fact |
 |------|------|
 | Religions | **Hindu, Sikh, Buddhist, Jain, Parsi, Christian** (six) |
 | Countries | **Pakistan, Afghanistan, Bangladesh** (three) |
@@ -538,13 +535,13 @@ Three modes. India does **not** allow **dual citizenship**.
 | Exclusions often asked | Does not apply to **Sixth Schedule** tribal areas of Assam, Meghalaya, Tripura, Mizoram, and to **Inner Line** notified areas (as in the Act) |
 | Court | **SC, 17 Oct 2024** — CAA **upheld** |
 
-**Other 1955 amendments (one-line):** **1986** — birth needs one Indian parent · **1992** — descent through mother · **2003** — illegal migrant defined; both-parents rule from 3 Dec 2004 · **2005** — OCI · **2015** — PIO merged into OCI.
+**Other 1955 amendments (one-line):1986** — birth needs one Indian parent · **1992** — descent through mother · **2003** — illegal migrant defined; both-parents rule from 3 Dec 2004 · **2005** — OCI · **2015** — PIO merged into OCI.
 
 ---
 
 ### Current Affairs (this topic)
 
-| Fact | Lock (as of Aug 2026) |
+| Fact | Fact (as of Aug 2026) |
 |------|------------------------|
 | Map | **28 States + 8 UTs** unchanged |
 | J&K | Still a **UT with legislature** (elections 2024). SC (Dec 2023) upheld 370 abrogation; statehood “at the earliest” — **not restored** |
@@ -556,13 +553,13 @@ Three modes. India does **not** allow **dual citizenship**.
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **50 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden.50 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
 
 **Q1.** Admission of a new State into the Union of India is provided for under:
 
-A. Article 1  
-B. Article 2  
-C. Article 3  
+A. Article 1
+B. Article 2
+C. Article 3
 D. Article 4
 
 <details>
@@ -573,14 +570,14 @@ D. Article 4
 
 **Q2.** Consider the following statements with reference to Article 3 of the Constitution:
 
-1. A Bill under Article 3 can be introduced in either House of Parliament only on the recommendation of the President.  
+1. A Bill under Article 3 can be introduced in either House of Parliament only on the recommendation of the President.
 2. The view of the State Legislature concerned is binding on Parliament.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -591,9 +588,9 @@ D. Neither 1 nor 2
 
 **Q3.** A law of Parliament under Articles 2 and 3 of the Constitution is:
 
-A. An amendment of the Constitution under Article 368  
-B. Not deemed to be an amendment under Article 368  
-C. Valid only if half the States ratify it  
+A. An amendment of the Constitution under Article 368
+B. Not deemed to be an amendment under Article 368
+C. Valid only if half the States ratify it
 D. Required to be passed by a special majority only
 
 <details>
@@ -604,22 +601,22 @@ D. Required to be passed by a special majority only
 
 **Q4.** Which of the following is **NOT** possible by a law of Parliament under Article 3 of the Constitution?
 
-A. Formation of new States  
-B. Alteration of areas of States  
-C. Alteration of boundaries of States  
+A. Formation of new States
+B. Alteration of areas of States
+C. Alteration of boundaries of States
 D. Admission of new States
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Admission of new States = **Article 2**, not Article 3. (UPPCS 2020 Q96)
+**Ans: D** — Admission of new States = **Article 2**, not Article 3.
 </details>
 
 **Q5.** Cession of Indian territory to a foreign State requires:
 
-A. An ordinary law of Parliament  
-B. Consent of the State Legislature only  
-C. A constitutional amendment  
+A. An ordinary law of Parliament
+B. Consent of the State Legislature only
+C. A constitutional amendment
 D. A Presidential ordinance
 
 <details>
@@ -630,9 +627,9 @@ D. A Presidential ordinance
 
 **Q6.** The India–Bangladesh Land Boundary Agreement (exchange of enclaves) was given effect by which Constitutional Amendment?
 
-A. 9th Amendment  
-B. 36th Amendment  
-C. 69th Amendment  
+A. 9th Amendment
+B. 36th Amendment
+C. 69th Amendment
 D. 100th Amendment
 
 <details>
@@ -643,29 +640,29 @@ D. 100th Amendment
 
 **Q7.** Which of the following persons were members of the States Reorganisation Commission?
 
-1. K. T. Shah  
-2. K. M. Panikkar  
-3. P. Sitaramayya  
-4. H. N. Kunzru  
+1. K. T. Shah
+2. K. M. Panikkar
+3. P. Sitaramayya
+4. H. N. Kunzru
 
 Select the correct answer using the code given below:
 
-A. 1 and 3 only  
-B. 2 and 4 only  
-C. 2 and 3 only  
+A. 1 and 3 only
+B. 2 and 4 only
+C. 2 and 3 only
 D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — SRC = **Fazl Ali** (chair) + **K.M. Panikkar** + **H.N. Kunzru**. Shah was a CA member; Sitaramayya was **JVP**. (UPPCS 2025 Q71)
+**Ans: B** — SRC = **Fazl Ali** (chair) + **K.M. Panikkar** + **H.N. Kunzru**. Shah was a CA member; Sitaramayya was **JVP**.
 </details>
 
 **Q8.** The JVP Committee (1948) consisted of:
 
-A. Jawaharlal Nehru, Vallabhbhai Patel and Pattabhi Sitaramayya  
-B. Jawaharlal Nehru, Rajendra Prasad and B.R. Ambedkar  
-C. Fazl Ali, K.M. Panikkar and H.N. Kunzru  
+A. Jawaharlal Nehru, Vallabhbhai Patel and Pattabhi Sitaramayya
+B. Jawaharlal Nehru, Rajendra Prasad and B.R. Ambedkar
+C. Fazl Ali, K.M. Panikkar and H.N. Kunzru
 D. S.K. Dhar, H.N. Kunzru and K.M. Panikkar
 
 <details>
@@ -676,9 +673,9 @@ D. S.K. Dhar, H.N. Kunzru and K.M. Panikkar
 
 **Q9.** The first linguistic State of independent India was:
 
-A. Gujarat  
-B. Andhra  
-C. Kerala  
+A. Gujarat
+B. Andhra
+C. Kerala
 D. Maharashtra
 
 <details>
@@ -689,9 +686,9 @@ D. Maharashtra
 
 **Q10.** The States Reorganisation Act, 1956, as implemented on 1 November 1956, created:
 
-A. 14 States and 6 Union Territories  
-B. 16 States and 6 Union Territories  
-C. 14 States and 8 Union Territories  
+A. 14 States and 6 Union Territories
+B. 16 States and 6 Union Territories
+C. 14 States and 8 Union Territories
 D. 28 States and 8 Union Territories
 
 <details>
@@ -722,9 +719,9 @@ D. 28 States and 8 Union Territories
 
 > Note: Row order in the tables is **not** the answer.
 
-A. A-2, B-4, C-1, D-3  
-B. A-4, B-2, C-3, D-1  
-C. A-2, B-1, C-4, D-3  
+A. A-2, B-4, C-1, D-3
+B. A-4, B-2, C-3, D-1
+C. A-2, B-1, C-4, D-3
 D. A-3, B-4, C-1, D-2
 
 <details>
@@ -735,9 +732,9 @@ D. A-3, B-4, C-1, D-2
 
 **Q12.** Uttarakhand was created out of Uttar Pradesh on:
 
-A. 1 November 2000  
-B. 9 November 2000  
-C. 15 November 2000  
+A. 1 November 2000
+B. 9 November 2000
+C. 15 November 2000
 D. 2 June 2014
 
 <details>
@@ -748,9 +745,9 @@ D. 2 June 2014
 
 **Q13.** At present, the number of States and Union Territories in India is:
 
-A. 29 States and 7 UTs  
-B. 28 States and 9 UTs  
-C. 28 States and 8 UTs  
+A. 29 States and 7 UTs
+B. 28 States and 9 UTs
+C. 28 States and 8 UTs
 D. 29 States and 8 UTs
 
 <details>
@@ -761,9 +758,9 @@ D. 29 States and 8 UTs
 
 **Q14.** Which one of the following is **NOT** a Union Territory?
 
-A. Ladakh  
-B. Puducherry  
-C. Sikkim  
+A. Ladakh
+B. Puducherry
+C. Sikkim
 D. Chandigarh
 
 <details>
@@ -774,9 +771,9 @@ D. Chandigarh
 
 **Q15.** Jammu & Kashmir and Ladakh became Union Territories with effect from:
 
-A. 5 August 2019  
-B. 9 August 2019  
-C. 31 October 2019  
+A. 5 August 2019
+B. 9 August 2019
+C. 31 October 2019
 D. 26 January 2020
 
 <details>
@@ -787,14 +784,14 @@ D. 26 January 2020
 
 **Q16.** Consider the following statements:
 
-1. Ladakh has a Legislative Assembly.  
+1. Ladakh has a Legislative Assembly.
 2. Jammu & Kashmir is a Union Territory with a legislature.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -805,9 +802,9 @@ D. Neither 1 nor 2
 
 **Q17.** Administration of Union Territories is provided in which Part of the Constitution?
 
-A. Part I  
-B. Part VI  
-C. Part VIII  
+A. Part I
+B. Part VI
+C. Part VIII
 D. Part XI
 
 <details>
@@ -818,9 +815,9 @@ D. Part XI
 
 **Q18.** Special provisions for the National Capital Territory of Delhi were inserted by which Constitutional Amendment?
 
-A. 7th Amendment  
-B. 69th Amendment  
-C. 70th Amendment  
+A. 7th Amendment
+B. 69th Amendment
+C. 70th Amendment
 D. 74th Amendment
 
 <details>
@@ -831,15 +828,15 @@ D. 74th Amendment
 
 **Q19.** The Legislative Assembly of NCT Delhi cannot legislate on which of the following?
 
-1. Public order  
-2. Police  
-3. Land  
+1. Public order
+2. Police
+3. Land
 
 Select the correct answer using the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
 D. 1, 2 and 3
 
 <details>
@@ -850,9 +847,9 @@ D. 1, 2 and 3
 
 **Q20.** The Article under which Parliament may create a Legislature and Council of Ministers for Puducherry is:
 
-A. Article 239  
-B. Article 239A  
-C. Article 239AA  
+A. Article 239
+B. Article 239A
+C. Article 239AA
 D. Article 240
 
 <details>
@@ -863,22 +860,22 @@ D. Article 240
 
 **Q21.** What can be the maximum representation from the Union Territories to the Lok Sabha?
 
-A. 15  
-B. 20  
-C. 25  
+A. 15
+B. 20
+C. 25
 D. None of the above
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — 20** (Art. 81). (UPPCS 2018 Q150)
+**Ans: B — 20** (Art. 81).
 </details>
 
 **Q22.** The National Integration Council is:
 
-A. A constitutional body under Article 263  
-B. A statutory body  
-C. An extra-constitutional body  
+A. A constitutional body under Article 263
+B. A statutory body
+C. An extra-constitutional body
 D. Both a constitutional and a statutory body
 
 <details>
@@ -889,22 +886,22 @@ D. Both a constitutional and a statutory body
 
 **Q23.** Which Articles of the Indian Constitution are related to citizenship?
 
-A. Articles 3 to 10  
-B. Articles 4 to 11  
-C. Articles 5 to 11  
+A. Articles 3 to 10
+B. Articles 4 to 11
+C. Articles 5 to 11
 D. Articles 6 to 11
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — **Part II, Arts. 5–11.** (UPPCS 2020 Q114)
+**Ans: C** — **Part II, Arts. 5–11.**
 </details>
 
 **Q24.** Parliament’s power to make any provision with respect to acquisition and termination of citizenship is contained in:
 
-A. Article 5  
-B. Article 9  
-C. Article 10  
+A. Article 5
+B. Article 9
+C. Article 10
 D. Article 11
 
 <details>
@@ -915,9 +912,9 @@ D. Article 11
 
 **Q25.** India follows which of the following models of citizenship?
 
-A. Dual citizenship on the US model  
-B. Single citizenship  
-C. Separate State citizenship in addition to Union citizenship  
+A. Dual citizenship on the US model
+B. Single citizenship
+C. Separate State citizenship in addition to Union citizenship
 D. Commonwealth citizenship only
 
 <details>
@@ -928,9 +925,9 @@ D. Commonwealth citizenship only
 
 **Q26.** Which one of the following is **NOT** a mode of **acquisition** of citizenship under the Citizenship Act, 1955?
 
-A. By birth  
-B. By descent  
-C. By deprivation  
+A. By birth
+B. By descent
+C. By deprivation
 D. By naturalisation
 
 <details>
@@ -941,14 +938,14 @@ D. By naturalisation
 
 **Q27.** Consider the following statements:
 
-1. Renunciation, termination and deprivation are the three modes of loss of citizenship under the Citizenship Act, 1955.  
+1. Renunciation, termination and deprivation are the three modes of loss of citizenship under the Citizenship Act, 1955.
 2. India permits dual citizenship for Overseas Citizen of India (OCI) cardholders.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -959,9 +956,9 @@ D. Neither 1 nor 2
 
 **Q28.** The PIO card scheme was merged into the OCI scheme in:
 
-A. 2003  
-B. 2005  
-C. 2015  
+A. 2003
+B. 2005
+C. 2015
 D. 2019
 
 <details>
@@ -972,9 +969,9 @@ D. 2019
 
 **Q29.** Which one of the following is correct about an Overseas Citizen of India (OCI)?
 
-A. An OCI can vote in Lok Sabha elections  
-B. OCI status is the same as dual citizenship  
-C. An OCI is a foreign citizen of Indian origin who holds registration under the 1955 Act  
+A. An OCI can vote in Lok Sabha elections
+B. OCI status is the same as dual citizenship
+C. An OCI is a foreign citizen of Indian origin who holds registration under the 1955 Act
 D. An OCI must hold an Indian passport
 
 <details>
@@ -985,9 +982,9 @@ D. An OCI must hold an Indian passport
 
 **Q30.** The Citizenship (Amendment) Act, 2019 applies to specified migrants from:
 
-A. Pakistan, Afghanistan and Bangladesh  
-B. Nepal, Bhutan and Myanmar  
-C. Sri Lanka, Maldives and Myanmar  
+A. Pakistan, Afghanistan and Bangladesh
+B. Nepal, Bhutan and Myanmar
+C. Sri Lanka, Maldives and Myanmar
 D. All neighbouring countries equally
 
 <details>
@@ -998,9 +995,9 @@ D. All neighbouring countries equally
 
 **Q31.** The cut-off date in the Citizenship (Amendment) Act, 2019 for entry into India is:
 
-A. 15 August 1947  
-B. 19 July 1948  
-C. 26 January 1950  
+A. 15 August 1947
+B. 19 July 1948
+C. 26 January 1950
 D. 31 December 2014
 
 <details>
@@ -1011,9 +1008,9 @@ D. 31 December 2014
 
 **Q32.** Communities listed in the Citizenship (Amendment) Act, 2019 are:
 
-A. Hindu, Sikh, Buddhist, Jain, Parsi and Christian  
-B. All religions equally  
-C. Only Hindus  
+A. Hindu, Sikh, Buddhist, Jain, Parsi and Christian
+B. All religions equally
+C. Only Hindus
 D. Hindus and Muslims
 
 <details>
@@ -1024,9 +1021,9 @@ D. Hindus and Muslims
 
 **Q33.** After 3 December 2004, citizenship by birth in India generally requires that:
 
-A. The person is born in India, irrespective of the status of the parents  
-B. At least one parent is an Indian citizen  
-C. Both parents are Indian citizens, or one is an Indian citizen and the other is not an illegal migrant  
+A. The person is born in India, irrespective of the status of the parents
+B. At least one parent is an Indian citizen
+C. Both parents are Indian citizens, or one is an Indian citizen and the other is not an illegal migrant
 D. The person’s grandfather was born in undivided India
 
 <details>
@@ -1037,9 +1034,9 @@ D. The person’s grandfather was born in undivided India
 
 **Q34.** Which one of the following pairs is **NOT** correctly matched?
 
-A. Article 239 — Administration of Union Territories  
-B. Article 239A — Legislature for Puducherry  
-C. Article 239AA — Special provisions for NCT of Delhi  
+A. Article 239 — Administration of Union Territories
+B. Article 239A — Legislature for Puducherry
+C. Article 239AA — Special provisions for NCT of Delhi
 D. Article 239AA — Special status of Puducherry
 
 <details>
@@ -1050,9 +1047,9 @@ D. Article 239AA — Special status of Puducherry
 
 **Q35.** Dadra & Nagar Haveli and Daman & Diu were merged into one Union Territory in:
 
-A. 2014  
-B. 2019  
-C. 2020  
+A. 2014
+B. 2019
+C. 2020
 D. 2023
 
 <details>
@@ -1063,14 +1060,14 @@ D. 2023
 
 **Q36.** Consider the following statements:
 
-1. The States Reorganisation Act came into force on 1 November 1956.  
+1. The States Reorganisation Act came into force on 1 November 1956.
 2. The States Reorganisation Commission recommended language as the sole basis of reorganisation.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1081,9 +1078,9 @@ D. Neither 1 nor 2
 
 **Q37.** Sikkim became a full State of the Indian Union by which Constitutional Amendment?
 
-A. 35th Amendment  
-B. 36th Amendment  
-C. 7th Amendment  
+A. 35th Amendment
+B. 36th Amendment
+C. 7th Amendment
 D. 14th Amendment
 
 <details>
@@ -1094,9 +1091,9 @@ D. 14th Amendment
 
 **Q38.** Who among the following was **NOT** a member of the States Reorganisation Commission?
 
-A. Fazl Ali  
-B. K.M. Panikkar  
-C. P. Sitaramayya  
+A. Fazl Ali
+B. K.M. Panikkar
+C. P. Sitaramayya
 D. H.N. Kunzru
 
 <details>
@@ -1105,33 +1102,33 @@ D. H.N. Kunzru
 **Ans: C** — Sitaramayya was a member of the **JVP Committee (1948)**, not SRC.
 </details>
 
-**Q39.** Assertion (A): Parliament can change the name of a State.  
+**Q39.** Assertion (A): Parliament can change the name of a State.
 
 Reason (R): Article 3 empowers Parliament to alter the name of a State.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — The State Legislature cannot itself change the State’s name; it only gives non-binding views. (UPPCS 2024 Q101 lock)
+**Ans: A** — The State Legislature cannot itself change the State’s name; it only gives non-binding views. (UPPCS 2024 Q101 fact)
 </details>
 
 **Q40.** Consider the following subjects and arrange them in sequential order as they appear in the Constitution:
 
-1. Citizenship  
-2. The Union and its Territory  
-3. Directive Principles of State Policy  
-4. Fundamental Duties  
+1. Citizenship
+2. The Union and its Territory
+3. Directive Principles of State Policy
+4. Fundamental Duties
 
 Select the correct answer using the code given below:
 
-A. 4, 3, 2, 1  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 4, 3, 2, 1
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 3, 4, 1, 2
 
 <details>
@@ -1142,9 +1139,9 @@ D. 3, 4, 1, 2
 
 **Q41.** The 7th Constitutional Amendment, 1956:
 
-A. Created the National Capital Territory of Delhi  
-B. Abolished the Part A / B / C / D classification of States  
-C. Made Sikkim a full State  
+A. Created the National Capital Territory of Delhi
+B. Abolished the Part A / B / C / D classification of States
+C. Made Sikkim a full State
 D. Inserted Article 239AA
 
 <details>
@@ -1155,9 +1152,9 @@ D. Inserted Article 239AA
 
 **Q42.** Which one of the following correctly matches SRC’s recommendation with what the Union implemented in 1956?
 
-A. Recommended 14 States + 6 UTs; implemented 16 States + 3 UTs  
-B. Recommended 16 States + 3 UTs; implemented 14 States + 6 UTs  
-C. Both recommended and implemented 28 States + 8 UTs  
+A. Recommended 14 States + 6 UTs; implemented 16 States + 3 UTs
+B. Recommended 16 States + 3 UTs; implemented 14 States + 6 UTs
+C. Both recommended and implemented 28 States + 8 UTs
 D. Recommended 16 States + 6 UTs; implemented 14 States + 3 UTs
 
 <details>
@@ -1168,14 +1165,14 @@ D. Recommended 16 States + 6 UTs; implemented 14 States + 3 UTs
 
 **Q43.** Consider the following statements with reference to NCT of Delhi:
 
-1. The Council of Ministers of Delhi shall not exceed 10 per cent of the total membership of the Assembly.  
+1. The Council of Ministers of Delhi shall not exceed 10 per cent of the total membership of the Assembly.
 2. Public order, police and land are within the legislative competence of the Delhi Assembly.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1186,9 +1183,9 @@ D. Neither 1 nor 2
 
 **Q44.** Naturalisation under the Citizenship Act, 1955 requires adequate knowledge of:
 
-A. Hindi only  
-B. English only  
-C. A language specified in the Eighth Schedule  
+A. Hindi only
+B. English only
+C. A language specified in the Eighth Schedule
 D. The applicant’s mother tongue only
 
 <details>
@@ -1199,9 +1196,9 @@ D. The applicant’s mother tongue only
 
 **Q45.** Which one of the following is extra-constitutional?
 
-A. Election Commission  
-B. Finance Commission  
-C. National Integration Council  
+A. Election Commission
+B. Finance Commission
+C. National Integration Council
 D. Inter-State Council
 
 <details>
@@ -1212,9 +1209,9 @@ D. Inter-State Council
 
 **Q46.** Chandernagore was integrated into India by which Constitutional Amendment?
 
-A. 9th Amendment  
-B. 10th Amendment  
-C. 12th Amendment  
+A. 9th Amendment
+B. 10th Amendment
+C. 12th Amendment
 D. 14th Amendment
 
 <details>
@@ -1225,14 +1222,14 @@ D. 14th Amendment
 
 **Q47.** Consider the following statements:
 
-1. Deprivation of citizenship under the 1955 Act applies to citizenship by birth in the same way as to citizenship by registration or naturalisation.  
+1. Deprivation of citizenship under the 1955 Act applies to citizenship by birth in the same way as to citizenship by registration or naturalisation.
 2. A minor who loses Indian citizenship because a parent renounces it may resume citizenship after attaining 18 years.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1243,9 +1240,9 @@ D. Neither 1 nor 2
 
 **Q48.** The Citizenship (Amendment) Act, 2019 does **not** apply to:
 
-A. Hindus from Pakistan  
-B. Christians from Bangladesh  
-C. Areas covered by the Sixth Schedule, as specified in the Act  
+A. Hindus from Pakistan
+B. Christians from Bangladesh
+C. Areas covered by the Sixth Schedule, as specified in the Act
 D. Parsis from Afghanistan
 
 <details>
@@ -1256,15 +1253,15 @@ D. Parsis from Afghanistan
 
 **Q49.** With reference to the Dhar Commission, consider the following statements:
 
-1. It was officially the Linguistic Provinces Commission, chaired by S.K. Dhar.  
-2. It recommended language as the principal basis for reorganisation of States.  
+1. It was officially the Linguistic Provinces Commission, chaired by S.K. Dhar.
+2. It recommended language as the principal basis for reorganisation of States.
 3. It reported in December 1948.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1275,15 +1272,15 @@ D. 1, 2 and 3
 
 **Q50.** Consider the following statements:
 
-1. Article 240 empowers the President to make regulations for the peace, progress and good government of specified Union Territories.  
-2. Elected MLAs of NCT Delhi and Puducherry vote in the Presidential election after the 70th Constitutional Amendment.  
+1. Article 240 empowers the President to make regulations for the peace, progress and good government of specified Union Territories.
+2. Elected MLAs of NCT Delhi and Puducherry vote in the Presidential election after the 70th Constitutional Amendment.
 3. Puducherry comprises four non-contiguous former French territories: Puducherry, Karaikal, Mahe and Yanam.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1300,17 +1297,17 @@ D. 1, 2 and 3
 
 ### 2025
 
-**Q1. UPPCS Prelims 2025, Q71**  
+**Q1. UPPCS Prelims 2025, Q71**
 Which of the following persons were members of the States Reorganisation Commission?
 
-1. K. T. Shah  
-2. K. M. Panikkar  
-3. P. Sitaramayya  
-4. H. N. Kunzru  
+1. K. T. Shah
+2. K. M. Panikkar
+3. P. Sitaramayya
+4. H. N. Kunzru
 
-A. 1 and 3  
-B. 2 and 4  
-C. 2 and 3  
+A. 1 and 3
+B. 2 and 4
+C. 2 and 3
 D. 1 and 2
 
 <details>
@@ -1322,12 +1319,12 @@ D. 1 and 2
 
 ### 2024
 
-**Q2. UPPCS Prelims 2024, Q101**  
+**Q2. UPPCS Prelims 2024, Q101**
 Which one of the following pairs is not correctly matched?
 
-A. Equality before Law — Guaranteed to both citizens and non-citizens  
-B. Equality of opportunity in public employment — Guaranteed only to Indian citizens  
-C. Creating a new State — Power of Parliament  
+A. Equality before Law — Guaranteed to both citizens and non-citizens
+B. Equality of opportunity in public employment — Guaranteed only to Indian citizens
+C. Creating a new State — Power of Parliament
 D. Altering the name of a State — Power of a State Legislature
 
 <details>
@@ -1339,12 +1336,12 @@ D. Altering the name of a State — Power of a State Legislature
 
 ### 2023
 
-**Q3. UPPCS Prelims 2023, Q1**  
+**Q3. UPPCS Prelims 2023, Q1**
 Which among the following (Provision — Part of the Constitution) is not correctly matched?
 
-A. The Union Territories — Part VIII  
-B. The Scheduled and Tribal Areas — Part X  
-C. Tribunals — Part XI  
+A. The Union Territories — Part VIII
+B. The Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
 D. Official Language — Part XVII
 
 <details>
@@ -1356,17 +1353,17 @@ D. Official Language — Part XVII
 
 ### 2022
 
-**Q4. UPPCS Prelims 2022, Q100**  
+**Q4. UPPCS Prelims 2022, Q100**
 Consider the following subjects and arrange them in sequential order as mentioned in the Constitution.
 
-I. The Union and its territory  
-II. Fundamental duties  
-III. Citizenship  
-IV. Directive Principles of State Policy  
+I. The Union and its territory
+II. Fundamental duties
+III. Citizenship
+IV. Directive Principles of State Policy
 
-A. II, IV, I, III  
-B. I, III, IV, II  
-C. III, I, II, IV  
+A. II, IV, I, III
+B. I, III, IV, II
+C. III, I, II, IV
 D. IV, II, III, I
 
 <details>
@@ -1376,12 +1373,12 @@ D. IV, II, III, I
 
 </details>
 
-**Q5. UPPCS Prelims 2022, Q131**  
+**Q5. UPPCS Prelims 2022, Q131**
 By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
 
-A. 75th  
-B. 73rd  
-C. 70th  
+A. 75th
+B. 73rd
+C. 70th
 D. 69th
 
 <details>
@@ -1393,12 +1390,12 @@ D. 69th
 
 ### 2020
 
-**Q6. UPPCS Prelims 2020, Q96**  
+**Q6. UPPCS Prelims 2020, Q96**
 Which of the following is NOT possible by a law of Parliament under Article 3 of the Constitution?
 
-A. Formation of new States  
-B. Alteration of areas of States  
-C. Alteration of boundaries of States  
+A. Formation of new States
+B. Alteration of areas of States
+C. Alteration of boundaries of States
 D. Admission of new States
 
 <details>
@@ -1408,12 +1405,12 @@ D. Admission of new States
 
 </details>
 
-**Q7. UPPCS Prelims 2020, Q114**  
+**Q7. UPPCS Prelims 2020, Q114**
 Which Articles of Indian Constitution are related to citizenship?
 
-A. Article 3 to 10  
-B. Article 4 to 11  
-C. Article 5 to 11  
+A. Article 3 to 10
+B. Article 4 to 11
+C. Article 5 to 11
 D. Article 6 to 11
 
 <details>
@@ -1425,12 +1422,12 @@ D. Article 6 to 11
 
 ### 2018
 
-**Q8. UPPCS Prelims 2018, Q73**  
+**Q8. UPPCS Prelims 2018, Q73**
 In which Part of the Constitution of India do we find the provisions relating to citizenship?
 
-A. Part I  
-B. Part II  
-C. Part VII  
+A. Part I
+B. Part II
+C. Part VII
 D. Part IX
 
 <details>
@@ -1440,12 +1437,12 @@ D. Part IX
 
 </details>
 
-**Q9. UPPCS Prelims 2018, Q150**  
+**Q9. UPPCS Prelims 2018, Q150**
 What can be the maximum representation from the Union Territories to the Lok Sabha?
 
-A. 15  
-B. 20  
-C. 25  
+A. 15
+B. 20
+C. 25
 D. None of the above
 
 <details>
@@ -1459,23 +1456,23 @@ D. None of the above
 
 ## Common Traps
 
-1. Art. **3 ≠ admission** of new States (**Art. 2**) — 2020  
-2. Altering a State’s **name ≠ State Legislature** — Parliament — 2024  
-3. Art. 2–3 laws ≠ **Art. 368** amendments (**Art. 4**)  
-4. SRC members = **Fazl Ali, Panikkar, Kunzru** — not K.T. Shah / Sitaramayya — 2025  
-5. Sitaramayya = **JVP 1948**, not SRC  
-6. 69th = **NCT Delhi**, not NCR (1985 statute); 70th = Presidential college — 2022  
-7. Citizenship = **Arts. 5–11 / Part II** — not 3–10 — 2018, 2020  
-8. UT seats in LS = **20**, not 15/25 — 2018  
-9. Cession needs **amendment**; acquisition can be by law  
-10. OCI ≠ dual citizenship; PIO merged **2015**  
-11. CAA list = 6 communities, 3 countries, **31 Dec 2014**  
-12. Present map = **28 + 8**, not 29 + 7  
-13. J&K UT **with** legislature; Ladakh **without**  
-14. NIC is **not** a constitutional body (≠ Inter-State Council Art. 263)  
-15. SRC **recommended 16+3**, Union **implemented 14+6**  
-16. Art. 3 = **views**, not consent; **simple** majority  
-17. Delhi Assembly **70** / CoM **7**; Puducherry **30** elected  
-18. Birth: **3 Dec 2004** both-parents (or one + other not illegal migrant)  
-19. Naturalisation language = **8th Schedule**; CAA relaxes 11 yrs → **5**  
-20. 7th Amendment **1956** = UTs + end of Part A/B/C/D  
+1. Art. **3 ≠ admission** of new States (**Art. 2**) — 2020
+2. Altering a State’s **name ≠ State Legislature** — Parliament — 2024
+3. Art. 2–3 laws ≠ **Art. 368** amendments (**Art. 4**)
+4. SRC members = **Fazl Ali, Panikkar, Kunzru** — not K.T. Shah / Sitaramayya — 2025
+5. Sitaramayya = **JVP 1948**, not SRC
+6. 69th = **NCT Delhi**, not NCR (1985 statute); 70th = Presidential college — 2022
+7. Citizenship = **Arts. 5–11 / Part II** — not 3–10 — 2018, 2020
+8. UT seats in LS = **20**, not 15/25 — 2018
+9. Cession needs **amendment**; acquisition can be by law
+10. OCI ≠ dual citizenship; PIO merged **2015**
+11. CAA list = 6 communities, 3 countries, **31 Dec 2014**
+12. Present map = **28 + 8**, not 29 + 7
+13. J&K UT **with** legislature; Ladakh **without**
+14. NIC is **not** a constitutional body (≠ Inter-State Council Art. 263)
+15. SRC **recommended 16+3**, Union **implemented 14+6**
+16. Art. 3 = **views**, not consent; **simple** majority
+17. Delhi Assembly **70** / CoM **7**; Puducherry **30** elected
+18. Birth: **3 Dec 2004** both-parents (or one + other not illegal migrant)
+19. Naturalisation language = **8th Schedule**; CAA relaxes 11 yrs → **5**
+20. 7th Amendment **1956** = UTs + end of Part A/B/C/D

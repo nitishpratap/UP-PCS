@@ -8,19 +8,19 @@ Desertification | Land Degradation | Soil Erosion
 
 </details>
 
-> **Sources baked in:** NCERT Geography/Biology, ISRO Desertification Atlas 2016, UNCCD, MoEFCC/NRSA, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★ Medium — concept traps, erosion sequence, Chambal ravines, UNCCD  
+> **Sources baked in:** NCERT Geography/Biology, ISRO Desertification Atlas 2016, UNCCD, MoEFCC/NRSA, UPPCS PYQs 2018–2025
+> **Weight:** ★★ Medium — concept traps, erosion sequence, Chambal ravines, UNCCD
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** areas from climate variation plus human pressure.
 2. Desertification is **not** only “desert expanding.” Any dryland losing productivity can count.
 3. **Land degradation** is broader: decline in productive capacity on any land through erosion, salinization, waterlogging, mining, or pollution.
 4. India has about **96.4 million ha** degraded land — roughly **29–30%** (ISRO Atlas **2016** class figure).
-5. **Normal geological erosion** is slow and roughly balanced by soil formation. **Accelerated erosion** is human-driven and faster than formation — the exam focus.
+5. **Normal geological erosion** is slow and roughly balanced by soil formation. **Accelerated erosion** is human-driven and faster than formation — the focus.
 6. Water-erosion sequence: **sheet → rill → gully → ravine**. Chambal badlands are the ravine end-member.
 7. Wind erosion works by **deflation** (lifting) and **abrasion** (sandblasting).
 8. Leading causes include overgrazing in drylands, deforestation, unsustainable farming, excessive irrigation (salinization/waterlogging), and mining.
@@ -35,7 +35,7 @@ Desertification | Land Degradation | Soil Erosion
 17. Gully erosion is not the same as sheet erosion — sheet is the first thin uniform stage.
 18. Chambal ravine area is about **3 million ha** in standard coaching numbers.
 19. UP Chambal ravine districts include **Etawah and Agra** (with Morena–Bhind on the MP side).
-20. Bundelkhand’s **seven UP districts** are the drought-plus-degradation lock.
+20. Bundelkhand’s **seven UP districts** are the drought-plus-degradation fact.
 21. Thar-margin UP questions emphasise wind erosion and dune encroachment.
 22. **Sonbhadra** is a UP mining-related land-degradation hotspot.
 23. Wasteland means degraded land poorly suited to cultivation — related to, but not identical with, desertification’s ASDM definition.
@@ -43,7 +43,7 @@ Desertification | Land Degradation | Soil Erosion
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -73,7 +73,7 @@ Desertification | Land Degradation | Soil Erosion
 - Early desertification can be **reversed** through afforestation, controlled grazing, and water harvesting. Advanced stages may take decades to restore.
 - India's **ISRO Desertification Atlas (2016)** mapped **96.4 million hectares (~29.3% of geographical area)** under desertification/land degradation. **Rajasthan** is the worst-affected state.
 
-> **Exam note:** Desertification applies to **dry sub-humid Bundelkhand**, not only sand deserts.
+> ** note:** Desertification applies to **dry sub-humid Bundelkhand**, not only sand deserts.
 
 - The **UNCCD (United Nations Convention to Combat Desertification)** was adopted on **17 June 1994** in Paris and entered force in **1996**.
 - **17 June** is observed as **World Desertification and Drought Day**.
@@ -121,7 +121,7 @@ D. 2040
 - **Afforestation prevents degradation** — it is **not** a cause. Pick it when asked "NOT a cause."
 - Policy tools include **Integrated Watershed Management Programme (IWMP)**, **MGNREGA** (contour bunds, check dams), **DPAP**, **Desert Development Programme (DDP)**, and **Soil Health Card Scheme**.
 
-> **Exam note:** **DPAP (1973)** targets drought-prone arid/semi-arid areas for soil moisture conservation.
+> ** note:DPAP (1973)** targets drought-prone arid/semi-arid areas for soil moisture conservation.
 
 | Process | Example region |
 |---------|----------------|
@@ -137,19 +137,19 @@ D. 2040
 **Identity:** A-horizon loss | Sheet→ravine | Wind deflation | Conservation measures
 
 - **Topsoil (A-horizon)** is the fertile organic-rich layer, usually **15–30 cm deep**. It can take **centuries to form** but may be lost in **one heavy monsoon** on bare slopes.
-- **Normal (geological) erosion** is slow and balanced by soil formation. **Accelerated erosion** from human activity is **10–100× faster** than formation — this is the exam default meaning of "soil erosion."
+- **Normal (geological) erosion** is slow and balanced by soil formation. **Accelerated erosion** from human activity is **10–100× faster** than formation — this is the usual default meaning of "soil erosion."
 - **Water erosion** dominates humid and monsoon India. Raindrop impact dislodges soil and runoff carries it downslope.
-- **Water erosion sequence:** **Sheet erosion** (thin uniform layer) → **rill erosion** (small channels) → **gully erosion** (deep cuts) → **ravines** (extensive badland networks).
+- **Water erosion sequence:Sheet erosion** (thin uniform layer) → **rill erosion** (small channels) → **gully erosion** (deep cuts) → **ravines** (extensive badland networks).
 - **Chambal ravines** cover about **3 million hectares** across **MP (Morena, Bhind), UP (Etawah, Agra), and Rajasthan (Dholpur, Karauli)**. They are India's classic **gully/ravine erosion** landscape.
 - **Wind erosion** dominates arid zones through **deflation** (lifting fine particles) and **abrasion** (sandblasting surfaces). It affects the **Thar**, Rann of Kutch, and western Rajasthan-UP margins.
 - **Gravity erosion** (landslides, slumping) matters in **Himalayan and NE hill states**, especially after deforestation and road cutting.
 - **Vegetation cover** is the best natural erosion shield. Deforestation and overgrazing are the top acceleration factors.
-- **Conservation measures:** **contour bunding/ploughing**, **terrace farming**, **shelter belts/wind breaks**, **afforestation**, **gully plugging**, **check dams**, **strip cropping**, and **cover crops**.
+- **Conservation measures:contour bunding/ploughing**, **terrace farming**, **shelter belts/wind breaks**, **afforestation**, **gully plugging**, **check dams**, **strip cropping**, and **cover crops**.
 - **Earthworms** aerate soil, improve structure, and boost fertility — healthy soil resists erosion.
 
 **PYQ — UPPCS Prelims 2025, Q73**
 
-1. Earthworms increase soil fertility and are known as friends of farmers.  
+1. Earthworms increase soil fertility and are known as friends of farmers.
 2. Earthworms have two pairs of hearts.
 
 A. Only 2
@@ -183,9 +183,7 @@ D. Only 1
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
-
-**Q1.** Desertification under UN definition occurs in:
+> **30 questionsQ1.** Desertification under UN definition occurs in:
 
 A. All tropical forests
 
@@ -669,21 +667,7 @@ D. Only ozone chemistry
 
 ## Complete PYQ Bank (Topic 13)
 
-**Q1. UPPCS 2019, Q42** — LDN by 2030 → **Ans: B**
-
-**Q2. UPPCS 2025, Q73** — Earthworms as soil friends → **Ans: D (Only 1)**
-
-**Q3. UPPCS 2025, Q134** — DPAP chronology: CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979 → **Ans: B**
-
-**Q4. UPSC pattern** — NOT a cause of land degradation → **Afforestation**
-
-**Q5. UPSC pattern** — Desertification treaty → **UNCCD**
-
-**Q6. UPSC pattern** — Soil erosion consequence → **Silting of rivers/reservoirs**
-
-**Q7. UPSC pattern** — Chambal ravines → **Gully/ravine erosion (MP-UP-Rajasthan)**
-
-**Q8. UPSC pattern** — MARPOL vs UNCCD trap → **MARPOL = marine pollution; UNCCD = desertification**
+**Q1. UPPCS 2019, Q42** — LDN by 2030 → **Ans: BQ2. UPPCS 2025, Q73** — Earthworms as soil friends → **Ans: D (Only 1)Q3. UPPCS 2025, Q134** — DPAP chronology: CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979 → **Ans: BQ4. UPSC pattern** — NOT a cause of land degradation → **AfforestationQ5. UPSC pattern** — Desertification treaty → **UNCCDQ6. UPSC pattern** — Soil erosion consequence → **Silting of rivers/reservoirsQ7. UPSC pattern** — Chambal ravines → **Gully/ravine erosion (MP-UP-Rajasthan)Q8. UPSC pattern** — MARPOL vs UNCCD trap → **MARPOL = marine pollution; UNCCD = desertification**
 
 ---
 
@@ -695,7 +679,7 @@ D. Only ozone chemistry
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Desertification = desert expansion only | **Any ASDM dryland losing productivity** |
 | Land degradation = desertification | **Degradation is broader** |
@@ -732,7 +716,7 @@ D. Only ozone chemistry
 ### Topic boundaries
 
 - **Drought as weather/climate event alone** — cross-link Topic 10 where needed
-- **DPAP full scheme details** — rural development; year lock kept here
+- **DPAP full scheme details** — rural development; year fact kept here
 - **Geography desert locations (Sahara, Gobi)** — World Geography, not this topic
 
 ### PYQ audit

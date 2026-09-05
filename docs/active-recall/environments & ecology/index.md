@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 # Environment and Ecology — Active Recall

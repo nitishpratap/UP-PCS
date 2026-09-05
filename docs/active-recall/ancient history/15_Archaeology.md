@@ -78,7 +78,7 @@ One fact per card. Write keywords, then open **Show answer**.
 
 </details>
 
-**Q9.** Which UP site is an eastern Harappan lock?
+**Q9.** Which UP site is an eastern Harappan fact?
 
 <details markdown="1">
 <summary>Show answer</summary>

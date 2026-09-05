@@ -9,13 +9,13 @@
 **Institutions:** IMD | ICAR | Agricultural Institutes | Dairy Research | Horticulture Institutes | Forest Research Institutes
 </details>
 
-> **Exam weight:** ★★★ — tribe–state pairs, Andaman natives, world habitats, institute headquarters  
-> **Last verified:** August 2026  
+> **Weight:** ★★★ — tribe–state pairs, Andaman natives, world habitats, institute headquarters
+> **Last verified:** August 2026
 > **Current Affairs:** PM-JANMAN (PVTG); Janjatiya Gaurav Diwas 15 Nov; IMD 150 years (1875–2025); Adi Karmayogi (MoTA, Jun 2025)
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Scheduled Tribe lists are **state-wise** under **Article 342**. Parliament can amend the lists by law. A community listed in one State need not be listed in another.
 2. STs are about **8.6%** of India’s population (Census 2011). Among the largest awareness groups are **Bhil, Gond and Santhal**. Madhya Pradesh often leads in absolute ST population.
@@ -23,17 +23,17 @@
 4. There are **75 Particularly Vulnerable Tribal Groups (PVTGs)** (Dhebar PTG renamed PVTG in 2006). **Odisha** has the most PVTG communities. **PM-JANMAN** is the main outreach mission.
 5. PVTG criteria stress pre-agricultural technology, stagnant or declining population, extremely low literacy, and a subsistence economy.
 6. The **Fifth Schedule** covers Scheduled Areas in many States. The **Sixth Schedule** covers autonomous councils in **Assam, Meghalaya, Tripura and Mizoram** only.
-7. State–tribe locks: **Angami / Rengma = Nagaland**; **Toda / Paliyan = Tamil Nadu**; **Birhor = Jharkhand**; **Khasi = Meghalaya** (not Arunachal); **Yanadi = Andhra Pradesh** (not Rajasthan); **Chenchu = Andhra / Telangana**.
-8. **Kuki** is a North-East tribe and is **not** a Uttar Pradesh Scheduled Tribe. **Keria / Kharia** lock to Odisha (also Jharkhand for Kharia). **Bodo = Assam**; **Lepcha = Sikkim**; **Meena = Rajasthan**; **Warli = Maharashtra**; **Apatani = Arunachal**.
+7. State–tribe facts: **Angami / Rengma = Nagaland**; **Toda / Paliyan = Tamil Nadu**; **Birhor = Jharkhand**; **Khasi = Meghalaya** (not Arunachal); **Yanadi = Andhra Pradesh** (not Rajasthan); **Chenchu = Andhra / Telangana**.
+8. **Kuki** is a North-East tribe and is **not** a Uttar Pradesh Scheduled Tribe. **Keria / Kharia** fact to Odisha (also Jharkhand for Kharia). **Bodo = Assam**; **Lepcha = Sikkim**; **Meena = Rajasthan**; **Warli = Maharashtra**; **Apatani = Arunachal**.
 9. **Khasi and Garo** of Meghalaya are classic **matrilineal** societies.
 10. Uttar Pradesh has **15** notified ST entries. The classic five are **Tharu, Bhotia, Buksa, Jaunsari and Raji**. UP PVTGs are **Buksa and Raji**.
 11. In Uttar Pradesh, **Tharu** live in the **Terai**; **Buksa** on the Bijnor fringe; **Saharya** in **Lalitpur**; **Agariya** are linked to **iron smelting** in the Sonbhadra–Mirzapur belt.
 12. After the 2003 Act, many UP ST notifications are **district-limited**. Two clusters matter: Terai north versus Vindhyan / Sonbhadra south.
 13. Central Indian heartland tribes include **Gond** (with Maria/Muria), **Bhil**, Baiga, Kol, Korku, Sahariya, Halba, Warli and Meena.
-14. Jharkhand core tribes include **Santhal, Munda, Oraon**, Ho, Kharia, Birhor, Bhumij, Asur and **Birjia**. Birjia is **not** an Andaman tribe. Santhali uses the **Ol Chiki** script; **Birsa Munda** and the **Hul of 1855** are exam cues.
+14. Jharkhand core tribes include **Santhal, Munda, Oraon**, Ho, Kharia, Birhor, Bhumij, Asur and **Birjia**. Birjia is **not** an Andaman tribe. Santhali uses the **Ol Chiki** script; **Birsa Munda** and the **Hul of 1855** are cues.
 15. **Janjatiya Gaurav Diwas** is observed on **15 November** (Birsa Munda’s birth anniversary).
 16. Andaman **Negrito** natives are Great Andamanese, **Onge**, **Jarawa** and **Sentinelese** (North Sentinel Island). Nicobar **Mongoloid** groups are Nicobarese and **Shompen** (Great Nicobar PVTG). **Rengma** is not an island tribe.
-17. World habitat locks: **Bushman = Kalahari**; **Eskimo = northern Canada**; **Pygmy = Congo**; **Masai = East Africa** (not West Africa); **Ainu = Japan**; **Punan = Borneo**; Lapps/Sami = Sweden–Finland.
+17. World habitat facts: **Bushman = Kalahari**; **Eskimo = northern Canada**; **Pygmy = Congo**; **Masai = East Africa** (not West Africa); **Ainu = Japan**; **Punan = Borneo**; Lapps/Sami = Sweden–Finland.
 18. **Khirghiz** are Central Asian, not Sudanese. **Koryak** live in north-east Siberia, not Alaska.
 19. **IMD** headquarters is New Delhi (**1875**). **ICAR** headquarters is New Delhi (**1929**). **IARI** is at **Pusa, New Delhi** — it is not the apex ICAR council itself.
 20. **FRI** and **ICFRE** are at **Dehradun**. **WII** is also Dehradun but is not the FRI answer. **NDRI** is at **Karnal** (dairy lab). **IVRI** is at **Izatnagar, Bareilly (UP)**. **NDDB** is at **Anand** and ran **Operation Flood** — it is not NDRI.
@@ -44,9 +44,9 @@
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Khasi | **Meghalaya** | Arunachal | मेघालय |
 | Rengma | **Nagaland** | Andaman | नागालैंड |
@@ -225,7 +225,7 @@ D. 1 and 2
 
 ## N.2 Tribes of Uttar Pradesh
 
-Uttar Pradesh has a **low** Scheduled Tribe share. Census 2011 put it at about **0.6%** of the State population (roughly 11 lakh people). The exam still tests a **fixed notified list**.
+Uttar Pradesh has a **low** Scheduled Tribe share. Census 2011 put it at about **0.6%** of the State population (roughly 11 lakh people). The still tests a **fixed notified list**.
 
 Two geographic clusters matter.
 
@@ -402,7 +402,7 @@ The **Bushman (San)** live in the **Kalahari**.
 
 The **Eskimo / Inuit** live in **northern Canada** and the wider Arctic.
 
-The **Pygmy** peoples of the exam map live in the **Congo Basin**.
+The **Pygmy** peoples of the map live in the **Congo Basin**.
 
 The **Masai** live in **East Africa** (Kenya–Tanzania), not West Africa.
 
@@ -568,7 +568,7 @@ D. Only 1
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 55 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
 **Q1.** Tharu tribe of UP is mainly associated with which belt?
@@ -1040,7 +1040,7 @@ D. Kalahari
 **Ans: B**
 </details>
 
-**Q30.** Which is a correct Jharkhand PVTG / mainland lock?
+**Q30.** Which is a correct Jharkhand PVTG / mainland fact?
 
 A. Birjia — Andaman
 
@@ -1264,7 +1264,7 @@ D. Only dairy cooperatives of Anand
 **Ans: B**
 </details>
 
-**Q44.** Assertion (A): Scheduled Tribe lists in India are state/UT-specific.  
+**Q44.** Assertion (A): Scheduled Tribe lists in India are state/UT-specific.
 Reason (R): Article 342 provides for notification of STs for each State/UT.
 
 A. Both A and R are true and R explains A
@@ -1438,7 +1438,7 @@ D. Ministry of Ports
 **Ans: B**
 </details>
 
-**Q54.** Assertion (A): PVTGs are a more vulnerable subset identified within Scheduled Tribes.  
+**Q54.** Assertion (A): PVTGs are a more vulnerable subset identified within Scheduled Tribes.
 Reason (R): PVTG identification cues include pre-agricultural technology, stagnant or declining population, extremely low literacy and subsistence economy.
 
 A. Both A and R are true and R explains A
@@ -1480,7 +1480,7 @@ D. 1, 2, 3 and 4
 
 ## Complete PYQ Bank
 
-**Instructions:** Click **Show answer** under each question. Local `pyq/` 2018–2025 tribe/habitat and Tribal Affairs hits are below. Institute HQ locks are syllabus-mandatory.
+**Instructions:** Click **Show answer** under each question. Local `pyq/` 2018–2025 tribe/habitat and Tribal Affairs hits are below. Institute HQ facts are syllabus-mandatory.
 
 **Q1. UPPCS Prelims 2025, Q23**
 Which of the following pairs is/are NOT correctly matched? (Tribe) — (Habitat)

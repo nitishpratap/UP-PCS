@@ -30,7 +30,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rulers
 
-**Q3.** What is the exam lock for Simuka, Satakarni I, and Queen Naganika?
+**Q3.** What is the key fact for Simuka, Satakarni I, and Queen Naganika?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -48,7 +48,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q5.** Who finally ended the Western Kshatrapas, and what is Yajna Sri’s lock?
+**Q5.** Who finally ended the Western Kshatrapas, and what is Yajna Sri’s fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -278,7 +278,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q27.** From memory, link each item to its Satavahana lock:
+**Q27.** From memory, link each item to its Satavahana fact:
 
 | Recall item |
 |-------------|
@@ -298,7 +298,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Item | Lock |
+| Item | Fact |
 |------|------|
 | Founder | **Simuka** |
 | Greatest king | **Gautamiputra Satakarni** |
@@ -317,9 +317,9 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ---
 
-## Extra lock
+## Extra fact
 
-**Q28.** Which six exam locks define the Satavahana period in one UPPCS card?
+**Q28.** Which six key facts define the Satavahana period in one UPPCS card?
 
 <details markdown="1">
 <summary>Show answer</summary>

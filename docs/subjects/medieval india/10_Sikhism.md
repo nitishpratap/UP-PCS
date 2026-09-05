@@ -8,14 +8,14 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — 10-Guru order, Adi Granth vs eternal Granth, Arjan/Tegh martyrdom pair, Khalsa 1699, Mardana direction  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — 10-Guru order, Adi Granth vs eternal Granth, Arjan/Tegh martyrdom pair, Khalsa 1699, Mardana direction
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **Guru Nanak (1469–1539)** founded Sikhism on **Ik Onkar**, the householder path, **langar**, and **sangat**.
 2. The ethical triad is **Naam Japna**, **Kirat Karni**, and **Vand Chakna**.
@@ -44,7 +44,7 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -54,7 +54,7 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 | Miri vs Piri | Temporal sword vs spiritual sword (Hargobind) | मीरी / पीरी |
 | Arjan vs Tegh Bahadur | 1606 Jahangir vs 1675 Aurangzeb | अर्जुन / तेग बहादुर |
 | Khalsa (Sikh) vs Khalsa (Mughal) | 1699 initiated Panth vs crown land | सिख खालसा / मुगल खालसा |
-| Mardana vs Nanak | Disciple/rababi vs Guru (2025 Q12) | मर्दाना / नानक |
+| Mardana vs Nanak | Disciple/rababi vs Guru | मर्दाना / नानक |
 | Anandpur vs Amritsar | Khalsa 1699 vs Ram Das tank / Harmandir | अनंदपुर / अमृतसर |
 | Hargobind vs Gobind Singh | Miri-Piri start vs Khalsa ritual | हरगोबिंद / गोबिंद सिंह |
 | Har Krishan vs Gobind Singh | 8th child Guru vs 10th last human Guru | हर कृष्ण / गोबिंद सिंह |
@@ -66,7 +66,7 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 
 ## 10.1 Sikhism — Identity
 
-**Founder:** **Guru Nanak** | **1469–1539** | **Punjab** (Talwandi / Nankana Sahib)
+**Founder:Guru Nanak** | **1469–1539** | **Punjab** (Talwandi / Nankana Sahib)
 
 - Sikhism is a **monotheistic** panth built on **Ik Onkar** (one formless God).
 - It grew in a Bhakti milieu but became a **separate institution** with ten Gurus, a scripture, and later the Khalsa.
@@ -81,7 +81,7 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 - **Khalsa** later means the initiated order of **1699**.
 - **Mardana** was Nanak’s Muslim **rabab** companion and **disciple**.
 
-### PYQ — Mardana match (2025 Q12)
+### PYQ — Mardana match
 
 **1. (UPPCS Prelims 2025, Q12)** Match List-I (Disciple) with List-II (Guru):
 
@@ -99,11 +99,9 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (2-3-4-1)**
+**Ans: C (2-3-4-1)Facts:** A–2 Kabir–Ramananda | B–3 Amir Khusrau–Nizamuddin | C–4 Surdas–Vallabhacharya | D–1 Mardana–Guru Nanak Dev.
 
-**Locks:** A–2 Kabir–Ramananda | B–3 Amir Khusrau–Nizamuddin | C–4 Surdas–Vallabhacharya | D–1 Mardana–Guru Nanak Dev.
-
-**Trap:** **Mardana** was Nanak’s **disciple** and **rabab** companion, not his guru.
+**Trap:Mardana** was Nanak’s **disciple** and **rabab** companion, not his guru.
 
 </details>
 
@@ -125,7 +123,7 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 
 ## 10.3 Ten Sikh Gurus
 
-| # | Guru | Years | One lock |
+| # | Guru | Years | One fact |
 |---|------|-------|----------|
 | 1 | **Nanak** | 1469–1539 | Founder |
 | 2 | **Angad** | 1539–1552 | **Gurmukhi** |
@@ -155,7 +153,7 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 - **Guru Har Krishan** is the **8th** Guru.
 - He was a child remembered for service in a **Delhi** epidemic.
 - **Guru Tegh Bahadur** was executed in **Delhi in 1675** under **Aurangzeb**.
-- Exam narrative links Tegh Bahadur with defending **Kashmiri Pandits’** right to their faith.
+- narrative links Tegh Bahadur with defending **Kashmiri Pandits’** right to their faith.
 - **Guru Gobind Singh** is the **10th** and last human Guru.
 
 ---
@@ -213,20 +211,20 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 ## 10.6 Guru Gobind Singh
 ### Guru Arjan martyrdom (1606) — Cause, Course, Result
 
-**Cause:** **Jahangir** saw the growing Sikh community and **Guru Arjan's** support for **Khusrau** as a political threat.  
-**Course:** Guru Arjan was arrested and tortured in Lahore.  
+**Cause:Jahangir** saw the growing Sikh community and **Guru Arjan's** support for **Khusrau** as a political threat.
+**Course:** Guru Arjan was arrested and tortured in Lahore.
 **Result:** He became the first Sikh **martyr**. The succession passed to **Guru Hargobind**, who militarised the tradition with the **miri–piri** concept.
 
 ### Guru Tegh Bahadur martyrdom (1675) — Cause, Course, Result
 
-**Cause:** **Kashmiri Pandits** sought protection against **Aurangzeb's** religious pressure. Guru Tegh Bahadur challenged forced conversion policy.  
-**Course:** He was arrested at **Malikpur** and brought to Delhi. He refused to accept Islam.  
+**Cause:Kashmiri Pandits** sought protection against **Aurangzeb's** religious pressure. Guru Tegh Bahadur challenged forced conversion policy.
+**Course:** He was arrested at **Malikpur** and brought to Delhi. He refused to accept Islam.
 **Result:** He was executed in **1675**. His son **Guru Gobind Singh** became the next Guru and later founded the **Khalsa (1699)**.
 
 ### Battle of Bhangani (1688) — Cause, Course, Result
 
-**Cause:** Hill Rajas of the **Shivalik** zone resented Guru Gobind Singh's growing power at **Anandpur**.  
-**Course:** Allied hill chiefs attacked the Guru's forces near **Bhangani**. The Guru's Sikhs and allies defeated the hill coalition.  
+**Cause:** Hill Rajas of the **Shivalik** zone resented Guru Gobind Singh's growing power at **Anandpur**.
+**Course:** Allied hill chiefs attacked the Guru's forces near **Bhangani**. The Guru's Sikhs and allies defeated the hill coalition.
 **Result:** Sikh military credibility rose before the formal **Khalsa** institution and later Mughal conflict.
 
 
@@ -244,7 +242,7 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 - The same year he closed the human line and left **Guru Granth Sahib** as Guru.
 - Later Sikh polity (Misls, **Ranjit Singh**) is modern-history continuity, not an 11th Guru.
 
-> **Exam note:** Last **human** Guru = **Gobind Singh**. Eternal Guru = **Guru Granth Sahib**.
+> ** note:** Last **human** Guru = **Gobind Singh**. Eternal Guru = **Guru Granth Sahib**.
 
 ---
 
@@ -264,9 +262,7 @@ D. Guru Nanak Dev
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** 2025 Q12 full code C (2-3-4-1).
+**Ans: DWhy:** 2025 Q12 full code C (2-3-4-1).
 
 </details>
 
@@ -282,9 +278,7 @@ D. 4-3-2-1
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Order:** 2025 Q74.
+**Ans: COrder:** 2025 Q74.
 
 **Trap:** Check dates before matching option codes.
 
@@ -302,9 +296,7 @@ D. Guru Tegh Bahadur
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Guru Arjan Dev**.
+**Ans: BWhy:** The correct fact is **Guru Arjan Dev**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -323,9 +315,7 @@ D. 1708 Nanded
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **1699 Anandpur**.
+**Ans: CWhy:** The correct fact is **1699 Anandpur**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -344,9 +334,7 @@ D. Aurangzeb
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **Jahangir**.
+**Ans: CWhy:** The correct fact is **Jahangir**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -365,9 +353,7 @@ D. Bahadur Shah I
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **Aurangzeb**.
+**Ans: CWhy:** The correct fact is **Aurangzeb**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -386,9 +372,7 @@ D. Guru Har Rai
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Guru Angad**.
+**Ans: BWhy:** The correct fact is **Guru Angad**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -407,9 +391,7 @@ D. Guru Har Krishan
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **Guru Ram Das**.
+**Ans: CWhy:** The correct fact is **Guru Ram Das**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -428,9 +410,7 @@ D. Guru Amar Das
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Guru Hargobind**.
+**Ans: BWhy:** The correct fact is **Guru Hargobind**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -449,9 +429,7 @@ D. Angad
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** The correct lock is **Har Krishan**.
+**Ans: AWhy:** The correct fact is **Har Krishan**.
 
 **Trap:** Cross-check Confused Pairs table before finalising.
 
@@ -469,9 +447,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Only 2)**
-
-**Key:** Statement **1** is false — **Kabir** did not found Sikhism. Statement **2** is true — his hymns are in the Granth.
+**Ans: B (Only 2)Key:** Statement **1** is false — **Kabir** did not found Sikhism. Statement **2** is true — his hymns are in the Granth.
 
 **Trap:** Bhagat bani ≠ Sikh founder.
 
@@ -489,9 +465,7 @@ D. An 11th human Guru
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **Guru Granth Sahib**.
+**Ans: CWhy:** The correct fact is **Guru Granth Sahib**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -510,9 +484,7 @@ D. Only under Aurangzeb
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **False**.
+**Ans: BWhy:** The correct fact is **False**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -531,9 +503,7 @@ D. Har Krishan
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **Gobind Singh**.
+**Ans: CWhy:** The correct fact is **Gobind Singh**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -552,9 +522,7 @@ D. Nadir Shah
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **Aurangzeb**.
+**Ans: CWhy:** The correct fact is **Aurangzeb**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -573,9 +541,7 @@ D. Lahore
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** The correct lock is **Nanded**.
+**Ans: CWhy:** The correct fact is **Nanded**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -594,9 +560,7 @@ D. Ranjit Singh’s Adalat
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **The Golden Temple shrine**.
+**Ans: BWhy:** The correct fact is **The Golden Temple shrine**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -615,11 +579,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Only 1)**
+**Ans: A (Only 1)Key:** Only statement **1** is true — **Adi Granth 1604**. Statement **2** is false — Arjan martyred **1606**, not 1604.
 
-**Key:** Only statement **1** is true — **Adi Granth 1604**. Statement **2** is false — Arjan martyred **1606**, not 1604.
-
-**Trap:** **1604** = compilation; **1606** = martyrdom.
+**Trap:1604** = compilation; **1606** = martyrdom.
 
 </details>
 
@@ -635,9 +597,7 @@ D. Multan
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Amritsar)** — **UPPCS 2021 Q67**
-
-**Why:** **Ranjit Singh's Adalat-i-Ala** (highest court) was at **Amritsar**.
+**Ans: A (Amritsar)** — **UPPCS 2021 Q67Why:Ranjit Singh's Adalat-i-Ala** (highest court) was at **Amritsar**.
 
 **Trap:** Sikh **Empire** institution, not Guru-period office.
 
@@ -655,9 +615,7 @@ D. Kara
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** khanda stirs amrit; the worn five are Kesh, Kangha, Kara, Kachha, Kirpan.
+**Ans: CWhy:** khanda stirs amrit; the worn five are Kesh, Kangha, Kara, Kachha, Kirpan.
 
 **Trap:** Cross-check Confused Pairs table before finalising.
 
@@ -675,9 +633,7 @@ D. Child guruship
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Free community meal**.
+**Ans: BWhy:** The correct fact is **Free community meal**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -696,11 +652,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Only 2)**
+**Ans: B (Only 2)Key:** Statement **1** is false — **Mardana** was Nanak's **disciple**, not guru. Statement **2** is true — he played the **rabab**.
 
-**Key:** Statement **1** is false — **Mardana** was Nanak's **disciple**, not guru. Statement **2** is true — he played the **rabab**.
-
-**Trap:** **2025 Q12** — Mardana → Nanak, not reverse.
+**Trap:2025 Q12** — Mardana → Nanak, not reverse.
 
 </details>
 
@@ -716,9 +670,7 @@ D. Ranjit Singh vs Afghans
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Gobind Singh vs hill rajas**.
+**Ans: BWhy:** The correct fact is **Gobind Singh vs hill rajas**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -737,9 +689,7 @@ D. Tegh Bahadur – 1606
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Khalsa – Anandpur 1699**.
+**Ans: BWhy:** The correct fact is **Khalsa – Anandpur 1699**.
 
 **Trap:** Cross-check Confused Pairs table before finalising.
 
@@ -757,9 +707,7 @@ D. Zafarnama
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Goindwal langar centre**.
+**Ans: BWhy:** The correct fact is **Goindwal langar centre**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -778,9 +726,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Key:** Both statements are correct.
+**Ans: CKey:** Both statements are correct.
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -798,9 +744,7 @@ D. A Mughal farmans book
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **A separate Gobind Singh corpus**.
+**Ans: BWhy:** The correct fact is **A separate Gobind Singh corpus**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -819,9 +763,7 @@ D. Ranjit Singh’s court
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Khalsa initiation 1699**.
+**Ans: BWhy:** The correct fact is **Khalsa initiation 1699**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -840,9 +782,7 @@ D. Arjan – Adi Granth
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why wrong:** One pair breaks the standard lock in this topic.
+**Ans: CWhy wrong:** One pair breaks the standard fact in this topic.
 
 **Trap:** Eliminate pairs you know are correct first.
 
@@ -860,9 +800,7 @@ D. Guru Angad
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** The correct lock is **Guru Nanak**.
+**Ans: AWhy:** The correct fact is **Guru Nanak**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -881,9 +819,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Key:** Both statements are correct.
+**Ans: CKey:** Both statements are correct.
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -901,9 +837,7 @@ D. Five Mughal subahs
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **The first five Khalsa initiates**.
+**Ans: BWhy:** The correct fact is **The first five Khalsa initiates**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -922,9 +856,7 @@ D. Only for Har Krishan
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** nomination; Angad was not Nanak’s son.
+**Ans: BWhy:** nomination; Angad was not Nanak’s son.
 
 </details>
 
@@ -940,9 +872,7 @@ D. Nanak and Ram Das
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Arjan and Tegh Bahadur**.
+**Ans: BWhy:** The correct fact is **Arjan and Tegh Bahadur**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -961,9 +891,7 @@ D. Idol priesthood
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Spiritual life within family and work**.
+**Ans: BWhy:** The correct fact is **Spiritual life within family and work**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -982,9 +910,7 @@ D. Only Singh names
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **False**.
+**Ans: BWhy:** The correct fact is **False**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -1003,9 +929,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Only 1)**
-
-**Key:** Only statement **1** is true — Nanak taught **Ik Onkar**. Statement **2** is false — **Khalsa 1699** was **Gobind Singh**, not Nanak.
+**Ans: A (Only 1)Key:** Only statement **1** is true — Nanak taught **Ik Onkar**. Statement **2** is false — **Khalsa 1699** was **Gobind Singh**, not Nanak.
 
 **Trap:** Founder ≠ Khalsa creator.
 
@@ -1023,9 +947,7 @@ D. Tegh Bahadur 1606 → Arjan 1675
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** The correct lock is **Adi Granth → Arjan martyrdom → Khalsa**.
+**Ans: BWhy:** The correct fact is **Adi Granth → Arjan martyrdom → Khalsa**.
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -1061,11 +983,9 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (2-3-4-1)**
+**Ans: C (2-3-4-1)Facts:** A–2 Kabir–Ramananda | B–3 Amir Khusrau–Nizamuddin | C–4 Surdas–Vallabhacharya | D–1 Mardana–Guru Nanak Dev
 
-**Locks:** A–2 Kabir–Ramananda | B–3 Amir Khusrau–Nizamuddin | C–4 Surdas–Vallabhacharya | D–1 Mardana–Guru Nanak Dev
-
-**Trap:** **Mardana** was Nanak's **disciple** (rababi), not his guru.
+**Trap:Mardana** was Nanak's **disciple** (rababi), not his guru.
 
 </details>
 
@@ -1084,9 +1004,7 @@ D. 4, 3, 2, 1
 
 <details><summary>Show answer</summary>
 
-**Ans: C (3-4-1-2)**
-
-**Order:** Namdev → Kabir → Guru Nanak → Chaitanya Mahaprabhu.
+**Ans: C (3-4-1-2)Order:** Namdev → Kabir → Guru Nanak → Chaitanya Mahaprabhu.
 
 **Trap:** Nanak belongs **after** Namdev and Kabir in the Bhakti timeline.
 
@@ -1107,9 +1025,7 @@ D. Multan
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Amritsar)**
-
-**Why:** **Adalat-i-Ala** was the highest court of **Ranjit Singh's** Sikh Empire at **Amritsar**.
+**Ans: A (Amritsar)Why:Adalat-i-Ala** was the highest court of **Ranjit Singh's** Sikh Empire at **Amritsar**.
 
 **Trap:** This is **19th-c. Sikh Empire** history, not Guru-period Punjab.
 
@@ -1120,7 +1036,7 @@ D. Multan
 ## Common Traps — Don't Fall For These
 
 1. **Kabir** did not found Sikhism. **Guru Nanak** founded the line.
-2. **Mardana** was not Nanak’s guru. He was Nanak’s disciple (2025 Q12).
+2. **Mardana** was not Nanak’s guru. He was Nanak’s disciple.
 3. **Guru Nanak** did not create the Khalsa. **Guru Gobind Singh** created it in **1699**.
 4. **Sikh Khalsa** of 1699 is not **Mughal Khalsa** land. The 2025 Q95 stem uses the revenue term, not initiation.
 5. **Guru Arjan** was not executed under Aurangzeb. **Jahangir** ordered his execution in **1606**.
@@ -1131,6 +1047,6 @@ D. Multan
 10. There is **no 11th human Guru**.
 11. **Har Krishan** is the **8th** Guru, not the 10th.
 12. The Khalsa was created at **Anandpur**, not Amritsar.
-13. **1604** and **1606** are different locks. Do not swap compilation and martyrdom.
+13. **1604** and **1606** are different facts. Do not swap compilation and martyrdom.
 14. **Adalat-i-Ala** belongs to **Ranjit Singh** at **Amritsar**, not to Nanak.
 15. Sikhism upholds the **householder** path, not forest **sanyasa**, as the ideal.

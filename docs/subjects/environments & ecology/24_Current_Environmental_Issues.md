@@ -8,13 +8,13 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 
 </details>
 
-> **Sources baked in:** UNEP; MoEFCC; SEBI; RBI; IPCC; UN Plastics Treaty; Green Credit Rules 2023; CCTS 2023; UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — LiFE COP trap; carbon credit vs trading; India net zero 2070; microplastic size  
+> **Sources baked in:** UNEP; MoEFCC; SEBI; RBI; IPCC; UN Plastics Treaty; Green Credit Rules 2023; CCTS 2023; UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — LiFE COP trap; carbon credit vs trading; India net zero 2070; microplastic size
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. **Microplastics** are plastic fragments **smaller than 5 mm**. Primary sources include microbeads; secondary sources come from larger plastic breaking down. They are not “fast biodegradable.”
 2. Microplastics enter food webs from plankton to fish to humans. India’s identified single-use plastic bans tightened around **2022**. UN plastics treaty talks (INC) also run from that period.
@@ -25,7 +25,7 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 7. **Net zero** means anthropogenic emissions balanced by removals. India’s target is **2070** (COP26 Glasgow **2021**). China is often locked at **2060**; EU/UK at **2050**. Net zero is not gross zero.
 8. India’s NDC track includes cutting emission intensity and raising non-fossil capacity share toward the **2030** horizon (including the ~50% non-fossil capacity language in later updates).
 9. **Green finance** is capital for climate and environment projects — green bonds, climate funds, GCF. India issued **Sovereign Green Bonds** in FY **2022–23**; SEBI’s Green Bond Framework is **2023**.
-10. The **$100 billion** a year climate-finance pledge is the developed-to-developing finance politics lock. Loss and Damage Fund operationalisation is linked to **COP28 (2023)**.
+10. The **$100 billion** a year climate-finance pledge is the developed-to-developing finance politics fact. Loss and Damage Fund operationalisation is linked to **COP28 (2023)**.
 11. **Blue economy** is sustainable ocean and coastal use — fisheries, ports, tourism, offshore renewables — aligned with **SDG 14**. **Blue carbon** is carbon stored in mangroves and seagrass.
 12. **MISHTI (2023 Budget)** restores mangroves and sits beside Sagarmala and Deep Ocean Mission in the blue–coastal policy neighbourhood.
 13. **LiFE** (Lifestyle for Environment) is a MoEFCC behaviour-change mission. The idea was pitched at **COP26 Glasgow (2021)** and launched in **June 2022**. It is **not** a COP-25 Madrid product.
@@ -39,13 +39,13 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 21. SUP item bans are domestic plastic regulation; they do not by themselves equal a global plastics treaty.
 22. CCTS is India’s carbon market architecture; PAT remains an efficiency-certificate neighbour under BEE.
 23. Blue economy is ocean wealth with sustainability; it is not a synonym for inland wetland policy alone.
-24. Glasgow **2021** locks both India’s 2070 net-zero announcement track and the LiFE idea pitch.
+24. Glasgow **2021** facts both India’s 2070 net-zero announcement track and the LiFE idea pitch.
 25. Offset means using credits to compensate one’s own emissions — related to, but not identical with, “trading” as a market design.
 26. Keep MISHTI dated **2023**, not 2019, when mangrove restoration is asked.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -81,7 +81,7 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 | Primary | Manufactured small | Microbeads, nurdles |
 | Secondary | Large plastic breaks down | Bag fragments, tyre particles |
 
-> **Exam note:** Microplastics = **<5 mm**, not 5 cm. "Biodegrade within weeks" = **FALSE**.
+> ** note:** Microplastics = **<5 mm**, not 5 cm. "Biodegrade within weeks" = **FALSE**.
 
 ---
 
@@ -116,7 +116,7 @@ D. G-8 Summit
 
 </details>
 
-> **Exam note:** Green Credit Programme **2023 ≠ carbon credit**. Double counting avoided under Paris Article 6.
+> ** note:** Green Credit Programme **2023 ≠ carbon credit**. Double counting avoided under Paris Article 6.
 
 ---
 
@@ -157,7 +157,7 @@ D. CITES
 | Carbon trading | Market exchanging credits/allowances |
 | Carbon offset | Using credits to compensate own emissions |
 
-> **Exam note:** Montreal = ozone. Kyoto/Paris = climate. PAT = **energy efficiency**, not carbon directly.
+> ** note:** Montreal = ozone. Kyoto/Paris = climate. PAT = **energy efficiency**, not carbon directly.
 
 ---
 
@@ -179,7 +179,7 @@ D. CITES
 | China | 2060 |
 | **India** | **2070** |
 
-> **Exam note:** India net zero = **2070**, not 2050. Net zero ≠ no fossil fuels from tomorrow.
+> ** note:** India net zero = **2070**, not 2050. Net zero ≠ no fossil fuels from tomorrow.
 
 ---
 
@@ -202,7 +202,7 @@ D. CITES
 | SEBI Green Bond Framework | **2023** |
 | Loss and Damage Fund | **COP28 2023** |
 
-> **Exam note:** Sovereign Green Bonds = **FY 2022–23**. Loss and Damage Fund = **COP28**, not COP26.
+> ** note:** Sovereign Green Bonds = **FY 2022–23**. Loss and Damage Fund = **COP28**, not COP26.
 
 ---
 
@@ -243,7 +243,7 @@ D. Only 1
 | Ports/shipping | Sagarmala |
 | Deep-sea exploration | Deep Ocean Mission |
 
-> **Exam note:** MISHTI = **coastal mangroves**, not Ganga basin. Blue economy = **SDG 14**.
+> ** note:** MISHTI = **coastal mangroves**, not Ganga basin. Blue economy = **SDG 14**.
 
 ---
 
@@ -283,7 +283,7 @@ D. Only 1
 | Nodal | **MoEFCC** |
 | Actions | **75** pro-planet behaviours |
 
-> **Exam note:** LiFE = **COP26 2021 / launch 2022** — COP-25 Madrid trap is **FALSE**.
+> ** note:** LiFE = **COP26 2021 / launch 2022** — COP-25 Madrid trap is **FALSE**.
 
 ---
 
@@ -774,17 +774,9 @@ D. Only voluntary forever
 
 ## Complete PYQ Bank (Topic 24)
 
-**Q1. UPPCS 2025, Q139** — LiFE launched June 2022; COP-25 Madrid false → **Ans: D (Only 1)**
+**Q1. UPPCS 2025, Q139** — LiFE launched June 2022; COP-25 Madrid false → **Ans: D (Only 1)Q2. UPPCS 2025, Q93** — MISHTI restore mangroves true; 2019 false → **Ans: A (Only 2)Q3. UPPCS 2024, Q35** — Climate mitigation = Kyoto Protocol → **Ans: CQ4. UPPCS 2024, Q6** — Emissions Gap Report = UNEP → cross-ref §24.4
 
-**Q2. UPPCS 2025, Q93** — MISHTI restore mangroves true; 2019 false → **Ans: A (Only 2)**
-
-**Q3. UPPCS 2024, Q35** — Climate mitigation = Kyoto Protocol → **Ans: C**
-
-**Q4. UPPCS 2024, Q6** — Emissions Gap Report = UNEP → cross-ref §24.4
-
-**Q5. UPPCS 2021, Q125** — Carbon credit originated from Kyoto Protocol → **Ans: B**
-
-**Q6. UPSC pattern** — 1 carbon credit = 1 tCO₂e
+**Q5. UPPCS 2021, Q125** — Carbon credit originated from Kyoto Protocol → **Ans: BQ6. UPSC pattern** — 1 carbon credit = 1 tCO₂e
 
 **Q7. UPSC pattern** — CDM under Kyoto Protocol
 
@@ -798,7 +790,7 @@ D. Only voluntary forever
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | LiFE idea at COP-25 Madrid | **COP26 Glasgow 2021** |
 | LiFE launched 2019 | **June 2022** |
@@ -841,10 +833,10 @@ D. Only voluntary forever
 
 ### Topic boundaries
 
-- **Kyoto/Paris treaty full detail** — Topic 18  
-- **Plastic pollution legal depth** — Topic 9  
-- **Mangrove ecology** — Topic 21  
-- **UNEP/Emissions Gap org profile** — Topic 19  
+- **Kyoto/Paris treaty full detail** — Topic 18
+- **Plastic pollution legal depth** — Topic 9
+- **Mangrove ecology** — Topic 21
+- **UNEP/Emissions Gap org profile** — Topic 19
 
 ### PYQ audit
 

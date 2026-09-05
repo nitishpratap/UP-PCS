@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 4</p>
 <h1 class="fact-lock-hero__title">Oceanography</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
@@ -414,7 +414,7 @@ convergence of surface waters.
 
 ## 54. Fishing Grounds — Ratta
 
-| Region | Lock |
+| Region | Fact |
 | --- | --- |
 | Peru Current | Cold + upwelling → Peru/Chile fisheries |
 | Benguela | Cold + upwelling → SW African fisheries |
@@ -672,7 +672,7 @@ Andaman & Nicobar.
 
 ## 83. Oceanography Master Associations
 
-| Lock | Association |
+| Fact | Association |
 | --- | --- |
 | Mariana | Challenger Deep |
 | Pacific | Largest + deepest |

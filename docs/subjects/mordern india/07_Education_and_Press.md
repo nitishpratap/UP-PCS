@@ -8,14 +8,14 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 
 </details>
 
-> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — Wood–Hunter–Sadler–Hartog–Sargent order, Asiatic Society founder, UP newspaper places, Archbold trap, press-law sequence  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — Wood–Hunter–Sadler–Hartog–Sargent order, Asiatic Society founder, UP newspaper places, Archbold trap, press-law sequence
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (historical)
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. The **Charter Act, 1813** set aside **₹1 lakh a year** for education and also allowed missionary entry. How to spend the grant sparked the Orientalist–Anglicist fight.
 2. **Orientalists** wanted Sanskrit, Arabic and Persian learning. **Anglicists** wanted English and Western science. The fight ran through the **Committee of Public Instruction** from **1823**.
@@ -30,9 +30,9 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 11. **Hicky’s Bengal Gazette (1780)** was the first newspaper in Calcutta. **Wellesley’s Censorship of Press Act (1799)** brought wartime pre-censorship.
 12. **Adam’s Licensing Regulations (1823)** tightened control (Buckingham deported). **Metcalfe’s Act (1835)** repealed licensing — Metcalfe is the **“Liberator of the Press.”**
 13. **Canning’s temporary Licensing Act (1857)** was Revolt-year control. **Lytton’s Vernacular Press Act (1878)** curbed the vernacular press; **Ripon repealed it in 1882**.
-14. Later press locks: **Newspapers (Incitement to Offences) Act, 1908** (Minto); **Indian Press Act, 1910** revived general pre-censorship; **Press (Emergency Powers) Act, 1931** belonged to the Civil Disobedience era.
+14. Later press facts: **Newspapers (Incitement to Offences) Act, 1908** (Minto); **Indian Press Act, 1910** revived general pre-censorship; **Press (Emergency Powers) Act, 1931** belonged to the Civil Disobedience era.
 15. Vernacular Press Act **1878** is Lytton’s vernacular-only curb. Indian Press Act **1910** is broader pre-censorship — do not treat them as the same law.
-16. UP newspaper place locks: **Swadesh — Gorakhpur**; **Bharat Bandhu — Hathras**; **Satyawadi — Agra**; **Shakti — Almora**. Tilak’s **Kesari** is Pune, not Gorakhpur.
+16. UP newspaper place facts: **Swadesh — Gorakhpur**; **Bharat Bandhu — Hathras**; **Satyawadi — Agra**; **Shakti — Almora**. Tilak’s **Kesari** is Pune, not Gorakhpur.
 17. **Archbold** was Principal of **MAO Aligarh**, Government College Dacca, and **Muir Central College Allahabad**. He was **not** Principal of Lahore College.
 18. Education ladder order for chronology: **1813 grant → 1835 Macaulay → 1854 Wood → 1857 universities → 1882 Hunter → 1904 Universities Act → 1906 NCE → 1917–19 Sadler → 1929 Hartog → 1937 Wardha → 1944 Sargent**.
 19. Wardha is **Gandhian** Basic Education. Sargent is a **British official** post-war plan. Mixing them is a standard trap.
@@ -46,7 +46,7 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -72,7 +72,7 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 
 Two ladders run side by side: **education policy** (what got taught, and to whom) and **press control** (what got printed, and how freely). Hold both timelines first; every card below plugs into one line.
 
-| Phase | Rough years | Method | Exam lock |
+| Phase | Rough years | Method | Key fact |
 |-------|-------------|--------|-----------|
 | Ambiguous grant | **1813** | ₹1 lakh/year, purpose left vague | Charter Act; missionaries also let in |
 | Orientalist vs Anglicist | **1823–35** | Committee of Public Instruction split on how to spend the grant | Ends with **Macaulay's Minute, 1835** |
@@ -86,7 +86,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 | Nationalist alternative | **1937** | Craft-centred, self-supporting schooling | **Wardha Scheme** (Gandhi) |
 | Official post-war blueprint | **1944** | Free compulsory schooling 6–14, 40-year target | **Sargent Plan** |
 
-| Press phase | Rough years | Method | Exam lock |
+| Press phase | Rough years | Method | Key fact |
 |-------------|-------------|--------|-----------|
 | Free start | **1780–99** | No formal law yet, but Company hostility to criticism | **Hicky's Bengal Gazette 1780** |
 | Wartime censorship | **1799** | Pre-censorship for fear of French ideas | **Wellesley's Press Act** |
@@ -95,9 +95,9 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 | Vernacular-only curb | **1878** | Special pre-check on Indian-language papers | **Lytton**; repealed by **Ripon 1882** |
 | Nationalist-era re-tightening | **1908–31** | Sedition-era and civil-disobedience-era controls | **Minto, Hardinge, Irwin** acts |
 
-**Why both ladders matter together:** exam stems often mix an education-body year with a press-law year in the same chronology question. Keep them on two separate mental tracks so a "1878" never gets mistaken for an education year and a "1882" never gets mistaken for Hunter's report year (Hunter is 1882 too — that is the one real overlap to watch).
+**Why both ladders matter together:** stems often mix an education-body year with a press-law year in the same chronology question. Keep them on two separate mental tracks so a "1878" never gets mistaken for an education year and a "1882" never gets mistaken for Hunter's report year (Hunter is 1882 too — that is the one real overlap to watch).
 
-> **Exam note:** Start every answer from the **phase**, not the isolated year. Macaulay is not the Despatch. Hunter is not Sadler. Hartog is not Sargent. Licensing is not liberation.
+> ** note:** Start every answer from the **phase**, not the isolated year. Macaulay is not the Despatch. Hunter is not Sadler. Hartog is not Sargent. Licensing is not liberation.
 
 ---
 
@@ -118,7 +118,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - **Sargent Plan, 1944** is the official British post-war education plan.
 - **2018 Q21** order: Wood → Hunter → Sadler → Sargent.
 
-> **Exam note:** Wood is **1854**, not 1835. Sargent is **1944**, not Hunter. Hartog sits between Sadler and Wardha — **1917–19 → 1929 → 1937 → 1944**.
+> ** note:** Wood is **1854**, not 1835. Sargent is **1944**, not Hunter. Hartog sits between Sadler and Wardha — **1917–19 → 1929 → 1937 → 1944**.
 
 ---
 
@@ -147,7 +147,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - **Bentinck** accepted the Minute on **7 March 1835**. Government funds shifted toward English-medium higher education; Oriental institutions were not abolished but lost the funding fight.
 - The debate is **not** the same event as the Minute itself — the Minute is the *resolution*, the controversy is the *decade-long fight* that came before it.
 
-> **Exam note:** Grant (1792, early Anglicist voice) → Committee split (from 1823) → Ram Mohan Roy's 1823 letter (Indian Anglicist) → Macaulay's Minute (1835, resolution). Orientalists did **not** want English; Anglicists did **not** want Sanskrit/Arabic/Persian as the medium of higher learning.
+> ** note:** Grant (1792, early Anglicist voice) → Committee split (from 1823) → Ram Mohan Roy's 1823 letter (Indian Anglicist) → Macaulay's Minute (1835, resolution). Orientalists did **not** want English; Anglicists did **not** want Sanskrit/Arabic/Persian as the medium of higher learning.
 
 ---
 
@@ -159,7 +159,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - **Bentinck** accepted the Minute. Orientalist higher learning lost official favour, though it was not shut down.
 - **Wood's Despatch of 1854** is a later, wider plan. It is **not** the Minute.
 
-> **Exam note:** Minute = **1835**. Despatch = **1854**. Hunter = **1882**.
+> ** note:** Minute = **1835**. Despatch = **1854**. Hunter = **1882**.
 
 ---
 
@@ -175,7 +175,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - A Danish royal charter of **1827** empowered Serampore College to grant its own degrees, making it one of the earliest degree-granting colleges associated with India.
 - The Company's **1813 Charter Act** finally let missionaries operate in British India directly, ending the need for a Danish base like Serampore for that purpose.
 
-> **Exam note:** Serampore is **Danish**, not French or British — do not confuse it with Chandernagore (French) or Chinsurah (Dutch). Carey's Fort William College post and his Serampore College are two separate institutions; keep them apart.
+> ** note:** Serampore is **Danish**, not French or British — do not confuse it with Chandernagore (French) or Chinsurah (Dutch). Carey's Fort William College post and his Serampore College are two separate institutions; keep them apart.
 
 ---
 
@@ -190,7 +190,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - It proposed universities on the model of **London University** — examining and affiliating bodies rather than only teaching bodies.
 - The **1857 universities** at Calcutta, Bombay and Madras followed this design.
 
-> **Exam note:** Wood's Despatch is **1854**, under Dalhousie, not under Macaulay's 1835 Minute. Grants-in-aid and vernacular-at-lower-levels are Wood locks, not Hunter locks.
+> ** note:** Wood's Despatch is **1854**, under Dalhousie, not under Macaulay's 1835 Minute. Grants-in-aid and vernacular-at-lower-levels are Wood facts, not Hunter facts.
 
 ---
 
@@ -204,7 +204,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - It also encouraged **female education** and reviewed missionary effort.
 - It is **not** the Sadler Commission and **not** the Sargent Plan.
 
-> **Exam note:** Hunter **1882** = primary. Sadler **1917–19** = university. Hartog **1929** = primary audit again, but under the Simon Commission umbrella. Sargent **1944** = post-war plan.
+> ** note:** Hunter **1882** = primary. Sadler **1917–19** = university. Hartog **1929** = primary audit again, but under the Simon Commission umbrella. Sargent **1944** = post-war plan.
 
 **PYQ — UPPCS Prelims 2018, Q21**
 
@@ -240,7 +240,7 @@ D. C A B D
 - It also provided some grants for university improvement, but nationalists read the Act mainly as a **control** measure, not an expansion measure — critics called it a set of "**Curzon's fetters**" on higher education.
 - It is **not** Wood's Despatch and **not** the 1857 university founding Act.
 
-> **Exam note:** Universities Act = **Curzon, 1904**, backed by the **Raleigh Commission, 1902**. First three universities = **1857**.
+> ** note:** Universities Act = **Curzon, 1904**, backed by the **Raleigh Commission, 1902**. First three universities = **1857**.
 
 ---
 
@@ -252,7 +252,7 @@ D. C A B D
 - It recommended **Boards of Secondary and Intermediate Education** to run this stage outside direct university control.
 - It pushed for more **residential, teaching universities**, a full-time **Vice-Chancellor**, and expansion of **women's and professional/technical education**.
 
-> **Exam note:** Sadler = **university-stage** reform, unlike Hunter's primary focus and Hartog's primary-wastage focus.
+> ** note:** Sadler = **university-stage** reform, unlike Hunter's primary focus and Hartog's primary-wastage focus.
 
 ---
 
@@ -265,7 +265,7 @@ D. C A B D
 - At the secondary stage, it recommended **diversifying** the curriculum so that not every secondary student was funnelled toward a university degree; some streams should point toward vocational and practical careers.
 - It sits chronologically **after Sadler (1917–19)** and **before Wardha (1937)**.
 
-> **Exam note:** Hartog = **1929**, tied to the **Simon Commission**, primary-stage wastage. Do not confuse with Hunter (1882, also primary, but half a century earlier and not part of Simon Commission).
+> ** note:** Hartog = **1929**, tied to the **Simon Commission**, primary-stage wastage. Do not confuse with Hunter (1882, also primary, but half a century earlier and not part of Simon Commission).
 
 ---
 
@@ -279,7 +279,7 @@ D. C A B D
 - It is a **nationalist** scheme, not a British official plan.
 - Do not mix it with the **Sargent Plan of 1944** or the earlier **National Council of Education of 1906** — the NCE was about literary/technical colleges outside government control; Wardha is about craft-centred primary schooling.
 
-> **Exam note:** Wardha = **1937, Gandhi**. Sargent = **1944, official**. NCE = **1906, Swadeshi colleges**.
+> ** note:** Wardha = **1937, Gandhi**. Sargent = **1944, official**. NCE = **1906, Swadeshi colleges**.
 
 ---
 
@@ -294,7 +294,7 @@ D. C A B D
 - Banaras Hindu University and Aligarh Muslim University as centres are taught with the educational-centres list below; they are not NCE institutions.
 - This movement is **not** the same as **Wardha Basic Education (1937)** — NCE built alternative colleges; Wardha redesigned primary-school method.
 
-> **Exam note:** National Council of Education ↔ **1906, Bengal, Swadeshi**. Wardha ↔ **1937, Gandhi, craft-based primary**.
+> ** note:** National Council of Education ↔ **1906, Bengal, Swadeshi**. Wardha ↔ **1937, Gandhi, craft-based primary**.
 
 ---
 
@@ -317,16 +317,16 @@ D. C A B D
 
 **Teachers and administrators — quick names table**
 
-| Person | Linked institution | Exam tag |
+| Person | Linked institution | tag |
 |--------|--------------------|----------|
 | **Jonathan Duncan** | Sanskrit College, Banaras (1791) | Did **not** found Asiatic Society |
 | **David Hare** | Hindu College, Calcutta | Secular education campaigner |
 | **J.E.D. Bethune** | Bethune School, Calcutta | Opened a pioneering girls' school |
 | **Ishwar Chandra Vidyasagar** | Sanskrit College, Calcutta | Principal; reformer |
 | **William Carey** | Fort William College + Serampore College | Both a Company teacher and an independent missionary founder |
-| **William A.J. Archbold** | MAO College Aligarh; Government College Dacca; Muir Central College Allahabad | **Not** Principal of Lahore College (2024 Q136) |
+| **William A.J. Archbold** | MAO College Aligarh; Government College Dacca; Muir Central College Allahabad | **Not** Principal of Lahore College |
 
-> **Exam note:** Duncan = Banaras Sanskrit College, **not** Asiatic Society. Jones founded the Society. Archbold ≠ Lahore.
+> ** note:** Duncan = Banaras Sanskrit College, **not** Asiatic Society. Jones founded the Society. Archbold ≠ Lahore.
 
 **PYQ — UPPCS Prelims 2024, Q136**
 
@@ -355,7 +355,7 @@ D. He was the Principal of the Muir Central College, Allahabad.
 - **2021 Q40** asks the founder → **Jones**, not Hastings, Duncan or Bentinck.
 - **2019 Q22** A/R: both statements are true, but Hastings's scholarship does **not** explain why he declined the chair. Answer = **B** (R is not the correct explanation of A).
 
-> **Exam note:** Founder = **Jones**. Hastings **declined**. Duncan = Banaras college.
+> ** note:** Founder = **Jones**. Hastings **declined**. Duncan = Banaras college.
 
 **PYQ — UPPCS Prelims 2021, Q40**
 
@@ -376,9 +376,7 @@ D. William Bentinck
 
 </details>
 
-**PYQ — UPPCS Prelims 2019, Q22**
-
-**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
+**PYQ — UPPCS Prelims 2019, Q22Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
 **Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
 
@@ -419,13 +417,13 @@ D. (A) is false, but (R) is true
 - **Amrita Bazar Patrika** switched from Bengali to English overnight so that the Vernacular Press Act would no longer cover it.
 - Remember the **1878 ≠ 1857** trap: the Vernacular Press Act is Lytton's, two decades after Canning's temporary wartime licensing.
 
-> **Exam note:** First paper = **Hicky, 1780**. Licensing = **Adam 1823**. Liberation = **Metcalfe 1835**. Vernacular Press Act = **Lytton 1878**, repealed by **Ripon 1882**, not the other way round.
+> ** note:** First paper = **Hicky, 1780**. Licensing = **Adam 1823**. Liberation = **Metcalfe 1835**. Vernacular Press Act = **Lytton 1878**, repealed by **Ripon 1882**, not the other way round.
 
 ---
 
 ## 7.15 Newspapers and Journals
 
-**UP match home (2022 Q117).** The local `pyq/2022` file prints "Kesari"; the standard paper is **Swadesh**.
+**UP match home.** The local `pyq/2022` file prints "Kesari"; the standard paper is **Swadesh**.
 
 | Paper | Place |
 |-------|--------|
@@ -451,7 +449,7 @@ Tilak's **Kesari** is **Pune**, not a town in that List-II.
 | New India / Commonweal | Annie Besant |
 | Hindustan Times / Independent | later nationalist press |
 
-> **Exam note:** For 2022, lock **Swadesh–Gorakhpur**, not Kesari–Pune.
+> ** note:** For 2022, fact **Swadesh–Gorakhpur**, not Kesari–Pune.
 
 **PYQ — UPPCS Prelims 2022, Q117**
 
@@ -503,11 +501,11 @@ D. A-1, B-2, C-3, D-4
 - Place questions for UP papers sit in the newspaper table above.
 - Do not give Tilak's Kesari the Gorakhpur slot.
 
-> **Exam note:** Tilak = Kesari (Pune). Gandhi = Young India / Harijan. Besant = New India. Buckingham = Calcutta Journal, deported 1823.
+> ** note:** Tilak = Kesari (Pune). Gandhi = Young India / Harijan. Besant = New India. Buckingham = Calcutta Journal, deported 1823.
 
 ---
 
-## Must-score locks — commission/act ↔ year ↔ core recommendation
+## Must-score facts — commission/act ↔ year ↔ core recommendation
 
 ### Education bodies
 
@@ -551,9 +549,7 @@ D. A-1, B-2, C-3, D-4
 
 ## Practice Zone — UPPCS Format Drill
 
-> **48 questions.**
-
-**Q1.** Arrange: A. Hunter Commission  B. Sadler Commission  C. Wood's Despatch  D. Sargent Plan
+> **48 questions.Q1.** Arrange: A. Hunter Commission B. Sadler Commission C. Wood's Despatch D. Sargent Plan
 
 A. A B D C
 
@@ -629,8 +625,8 @@ D. Principal of Muir Central College, Allahabad
 
 **Q5.** Match List-I with List-II.
 
-**List-I** A. Swadesh  B. Bharat Bandhu  C. Satyawadi  D. Shakti
-**List-II** 1. Agra  2. Almora  3. Hathras  4. Gorakhpur
+**List-I** A. Swadesh B. Bharat Bandhu C. Satyawadi D. Shakti
+**List-II** 1. Agra 2. Almora 3. Hathras 4. Gorakhpur
 
 A. 3 2 1 4
 
@@ -780,8 +776,8 @@ D. Neither 1 nor 2
 
 **Q12.** Match List-I with List-II.
 
-**List-I** A. Macaulay's Minute  B. Wood's Despatch  C. Hunter Commission  D. Sargent Plan
-**List-II** 1. 1854  2. 1835  3. 1944  4. 1882
+**List-I** A. Macaulay's Minute B. Wood's Despatch C. Hunter Commission D. Sargent Plan
+**List-II** 1. 1854 2. 1835 3. 1944 4. 1882
 
 A. 2 1 4 3
 
@@ -800,7 +796,7 @@ D. 2 4 1 3
 
 ---
 
-**Q13.** Arrange: 1. Indian Universities Act  2. Macaulay's Minute  3. Wardha Scheme  4. Wood's Despatch
+**Q13.** Arrange: 1. Indian Universities Act 2. Macaulay's Minute 3. Wardha Scheme 4. Wood's Despatch
 
 A. 2, 4, 1, 3
 
@@ -945,8 +941,8 @@ D. Charter Act grant, 1813
 
 **Q20.** Match List-I with List-II.
 
-**List-I** A. Young India  B. New India  C. Kesari  D. Bengal Gazette
-**List-II** 1. Annie Besant  2. M.K. Gandhi  3. James Hicky  4. Bal Gangadhar Tilak
+**List-I** A. Young India B. New India C. Kesari D. Bengal Gazette
+**List-II** 1. Annie Besant 2. M.K. Gandhi 3. James Hicky 4. Bal Gangadhar Tilak
 
 A. 2 1 4 3
 
@@ -1075,7 +1071,7 @@ D. Neither 1 nor 2
 
 ---
 
-**Q26.** Arrange: 1. Hicky's Bengal Gazette  2. Vernacular Press Act  3. Asiatic Society of Bengal  4. Wood's Despatch
+**Q26.** Arrange: 1. Hicky's Bengal Gazette 2. Vernacular Press Act 3. Asiatic Society of Bengal 4. Wood's Despatch
 
 A. 1, 3, 4, 2
 
@@ -1700,7 +1696,7 @@ D. C A B D
 4. **Hunter = universities 1904** → Hunter **1882** primary; Universities Act = **Curzon 1904**.
 5. **Sadler = 1944** → Sadler **1917–19**; **Sargent = 1944**; Hartog sits between them at **1929**.
 6. **Wardha = Sargent** → Wardha is **Gandhi 1937**; Sargent is official **1944**.
-7. **Archbold = Lahore College** → **incorrect** (2024 Q136). He did head Aligarh, Dacca and Muir Allahabad.
+7. **Archbold = Lahore College** → **incorrect**. He did head Aligarh, Dacca and Muir Allahabad.
 8. **Kesari = Gorakhpur in 2022** → that slot is **Swadesh**. Kesari = **Tilak, Pune**.
 9. **Shakti = Hathras** → Shakti = **Almora**; Hathras = **Bharat Bandhu**.
 10. **First newspaper = Kesari / Hindu** → **Hicky's Bengal Gazette, 1780**.

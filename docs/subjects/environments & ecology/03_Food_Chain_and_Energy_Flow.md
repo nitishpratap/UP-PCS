@@ -8,13 +8,13 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Biology Ch 14, Odum, Elton (1927), Lindeman (1942), UPPCS/UPSC PYQs 2018–2025  
-> **Exam weight:** ★★★ Very High — direct Prelims; links to pollution (biomagnification)  
+> **Sources baked in:** NCERT Class 12 Biology Ch 14, Odum, Elton (1927), Lindeman (1942), UPPCS/UPSC PYQs 2018–2025
+> **Weight:** ★★★ Very High — direct Prelims; links to pollution (biomagnification)
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. A **food chain** is a single linear who-eats-whom sequence. A **food web** is a network of interconnected chains and is more stable than one chain alone.
 2. A **grazing food chain** starts from **living green plants**. A **detritus food chain** starts from **dead organic matter**.
@@ -39,11 +39,11 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 21. A food web does not reverse the one-way energy rule; it only multiplies feeding links.
 22. Producers fix energy; consumers transfer it; heat loss explains why top carnivores are few.
 23. Match pyramid type to exception: energy never inverts; biomass may invert at sea; numbers may invert with parasites.
-24. Keep Lindeman’s **10% rule** as an approximate exam lock, not an exact laboratory constant for every ecosystem.
+24. Keep Lindeman’s **10% rule** as an approximate key fact, not an exact laboratory constant for every ecosystem.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -78,7 +78,7 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 | **Detritus** | Dead organic matter | Leaf litter → earthworm → fungi |
 | **Parasitic** (special) | Living host tissue | Tree → insects → parasites |
 
-> **Exam note:** Grazing chain starts from a **living producer**. Detritus chain starts from **dead matter**. Trap: "all chains begin with green plants" is **false**.
+> ** note:** Grazing chain starts from a **living producer**. Detritus chain starts from **dead matter**. Trap: "all chains begin with green plants" is **false**.
 
 ---
 
@@ -94,7 +94,7 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 - Simpler webs in agricultural monoculture are **less stable**. Removing one pest predator can cause a pest outbreak.
 - Energy still flows **unidirectionally** through every pathway in the web. A web shows many one-way paths, not cyclic energy.
 
-> **Exam note:** Trap — "a food web makes energy flow cyclic" is **false**. Only **nutrients** cycle through decomposers.
+> ** note:** Trap — "a food web makes energy flow cyclic" is **false**. Only **nutrients** cycle through decomposers.
 
 ---
 
@@ -120,7 +120,7 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 | **T4** | Tertiary consumer | Python, fishing eagle |
 | **T5** | Top carnivore | Tiger (Dudhwa), Gangetic dolphin (river apex) |
 
-> **Exam note:** UPPCS 2023 Q117 — trophic levels are formed by organisms **linked in a food chain**.
+> ** note:** UPPCS 2023 Q117 — trophic levels are formed by organisms **linked in a food chain**.
 
 **PYQ — UPPCS Prelims 2023, Q117**
 
@@ -155,14 +155,14 @@ D. Carnivorous animals only
 - Terrestrial plants capture about **1%** of incident sunlight on leaves. That capture stage is separate from the **10% transfer** between consumer levels. Both facts can be true in one question.
 - **Ecological efficiency** equals energy at the higher level divided by energy at the lower level, multiplied by 100. The NCERT standard is about **10%**.
 
-| Where energy goes at each level | Exam lock |
+| Where energy goes at each level | Key fact |
 |--------------------------------|-----------|
 | Respiration and heat | Largest share — why pyramid of energy is upright |
 | Movement and metabolism | Not passed to next consumer |
 | Egestion and uneaten parts | Lost from food chain pathway |
 | Passed to next trophic level | **~10%** (Lindeman 1942) |
 
-> **Exam note:** UPPCS 2019 Q134 — energy **decreases** at each higher trophic level. Trap — energy flow is **not cyclic** like nutrients.
+> ** note:** UPPCS 2019 Q134 — energy **decreases** at each higher trophic level. Trap — energy flow is **not cyclic** like nutrients.
 
 **PYQ — UPPCS Prelims 2019, Q134**
 
@@ -205,7 +205,7 @@ D. May increase or decrease
 | **Biomass** | g/m² | Usually | Open ocean (phytoplankton turnover) |
 | **Numbers** | Individual count | Usually | One tree → many insects/parasites |
 
-> **Exam note:** Trap — "all ecological pyramids are always upright" is **false**. Only the **energy** pyramid is always upright.
+> ** note:** Trap — "all ecological pyramids are always upright" is **false**. Only the **energy** pyramid is always upright.
 
 ---
 
@@ -215,7 +215,7 @@ D. May increase or decrease
 
 **Q1.** With reference to food chains, which statements is/are correct?
 
-1. A grazing food chain starts from living green plants.  
+1. A grazing food chain starts from living green plants.
 2. A detritus food chain starts from dead organic matter.
 
 A. Only 1
@@ -234,7 +234,7 @@ D. Neither
 
 **Q2.** With reference to energy flow, which statements is/are correct?
 
-1. Energy flow is unidirectional.  
+1. Energy flow is unidirectional.
 2. Nutrients flow in a cyclic manner.
 
 A. Only 1
@@ -253,7 +253,7 @@ D. Neither
 
 **Q3.** With reference to ecological pyramids, which statements is/are correct?
 
-1. Pyramid of energy is always upright.  
+1. Pyramid of energy is always upright.
 2. Pyramid of biomass can never be inverted.
 
 A. Only 1
@@ -272,7 +272,7 @@ D. Neither
 
 **Q4.** With reference to Ecosystem (UPPCS 2025 pattern), which statements is/are correct?
 
-1. Green plants capture about 1% of sunlight on leaves.  
+1. Green plants capture about 1% of sunlight on leaves.
 2. About 10% of organic matter reaches the next higher consumer level.
 
 A. Only 1
@@ -291,7 +291,7 @@ D. Neither
 
 **Q5.** With reference to food webs, which statements is/are correct?
 
-1. A food web is more stable than a single food chain.  
+1. A food web is more stable than a single food chain.
 2. Energy flow in a food web is cyclic.
 
 A. Only 1
@@ -310,7 +310,7 @@ D. Neither
 
 **Q6.** With reference to trophic levels, which statements is/are correct?
 
-1. Producers occupy trophic level 1.  
+1. Producers occupy trophic level 1.
 2. The Sun is trophic level 0 in standard NCERT pyramids.
 
 A. Only 1
@@ -329,7 +329,7 @@ D. Neither
 
 **Q7.** With reference to food chain length, which statements is/are correct?
 
-1. Food chains rarely exceed 4–5 trophic levels.  
+1. Food chains rarely exceed 4–5 trophic levels.
 2. Energy increases at higher trophic levels.
 
 A. Only 1
@@ -348,7 +348,7 @@ D. Neither
 
 **Q8.** Which statements about ecological pyramids is/are correct?
 
-1. Pyramid of numbers can be inverted in a parasitic food chain.  
+1. Pyramid of numbers can be inverted in a parasitic food chain.
 2. Pyramid of energy can be inverted in marine ecosystems.
 
 A. Only 1
@@ -367,7 +367,7 @@ D. Neither
 
 **Q9.** With reference to decomposers, which statements is/are correct?
 
-1. They recycle nutrients from all trophic levels.  
+1. They recycle nutrients from all trophic levels.
 2. They are always shown as the top trophic level in energy pyramids.
 
 A. Only 1
@@ -386,7 +386,7 @@ D. Neither
 
 **Q10.** With reference to Lindeman's rule, which statements is/are correct?
 
-1. About 10% of energy transfers between trophic levels.  
+1. About 10% of energy transfers between trophic levels.
 2. The rule was proposed by Charles Darwin.
 
 A. Only 1
@@ -403,7 +403,7 @@ D. Neither
 
 </details>
 
-**Q11.** Assertion (A): Food chains in nature are generally short.  
+**Q11.** Assertion (A): Food chains in nature are generally short.
 Reason (R): Only about 10% of energy transfers to the next higher trophic level.
 
 A. Both true; R explains A
@@ -420,7 +420,7 @@ D. A false, R true
 
 </details>
 
-**Q12.** Assertion (A): Pyramid of energy is always upright.  
+**Q12.** Assertion (A): Pyramid of energy is always upright.
 Reason (R): Energy is lost as heat at each trophic transfer.
 
 A. Both true; R explains A
@@ -437,7 +437,7 @@ D. A false, R true
 
 </details>
 
-**Q13.** Assertion (A): Energy flow in an ecosystem is cyclic.  
+**Q13.** Assertion (A): Energy flow in an ecosystem is cyclic.
 Reason (R): Decomposers return nutrients to the soil.
 
 A. Both true; R explains A
@@ -454,7 +454,7 @@ D. A false, R true
 
 </details>
 
-**Q14.** Assertion (A): In open ocean, pyramid of biomass may be inverted.  
+**Q14.** Assertion (A): In open ocean, pyramid of biomass may be inverted.
 Reason (R): Phytoplankton reproduce and are consumed very rapidly.
 
 A. Both true; R explains A
@@ -473,8 +473,8 @@ D. A false, R true
 
 **Q15.** Match chain type with starting point:
 
-List-I: A. Grazing  B. Detritus  C. Parasitic  
-List-II: 1. Dead organic matter  2. Living green plants  3. Living host
+List-I: A. Grazing B. Detritus C. Parasitic
+List-II: 1. Dead organic matter 2. Living green plants 3. Living host
 
 A. 2 1 3
 
@@ -492,8 +492,8 @@ D. 3 2 1
 
 **Q16.** Match pyramid type with feature:
 
-List-I: A. Energy  B. Biomass  C. Numbers  
-List-II: 1. Can invert in sea  2. Always upright  3. Inverts in tree-insect chain
+List-I: A. Energy B. Biomass C. Numbers
+List-II: 1. Can invert in sea 2. Always upright 3. Inverts in tree-insect chain
 
 A. 2 1 3
 
@@ -511,8 +511,8 @@ D. 2 3 1
 
 **Q17.** Match organism with trophic level (grassland chain):
 
-List-I: A. Grass  B. Grasshopper  C. Frog  D. Snake  
-List-II: 1. T3  2. T1  3. T4  4. T2
+List-I: A. Grass B. Grasshopper C. Frog D. Snake
+List-II: 1. T3 2. T1 3. T4 4. T2
 
 A. 2 4 1 3
 
@@ -530,8 +530,8 @@ D. 1 4 2 3
 
 **Q18.** Match scientist with contribution:
 
-List-I: A. Lindeman  B. Elton  C. Tansley  
-List-II: 1. Ecosystem concept  2. 10% energy rule  3. Ecological pyramids
+List-I: A. Lindeman B. Elton C. Tansley
+List-II: 1. Ecosystem concept 2. 10% energy rule 3. Ecological pyramids
 
 A. 2 3 1
 
@@ -629,7 +629,7 @@ D. Top carnivores
 
 **Q24.** With reference to omnivores, which statements is/are correct?
 
-1. They can occupy more than one trophic level.  
+1. They can occupy more than one trophic level.
 2. They always weaken food web stability.
 
 A. Only 1
@@ -648,7 +648,7 @@ D. Neither
 
 **Q25.** With reference to grazing and detritus chains, which statements is/are correct?
 
-1. Both operate simultaneously in most natural ecosystems.  
+1. Both operate simultaneously in most natural ecosystems.
 2. Detritus chains begin with active photosynthesis in green leaves.
 
 A. Only 1
@@ -667,7 +667,7 @@ D. Neither
 
 **Q26.** With reference to pyramid of biomass, which statements is/are correct?
 
-1. It can be inverted in open ocean ecosystems.  
+1. It can be inverted in open ocean ecosystems.
 2. It measures energy flow per unit time.
 
 A. Only 1
@@ -718,8 +718,8 @@ D. Decomposer level
 
 **Q29.** Match UP example with concept:
 
-List-I: A. Dudhwa tiger  B. Ganga algae-fish web  C. Terai leaf litter  
-List-II: 1. Detritus chain  2. Top carnivore  3. Aquatic food web
+List-I: A. Dudhwa tiger B. Ganga algae-fish web C. Terai leaf litter
+List-II: 1. Detritus chain 2. Top carnivore 3. Aquatic food web
 
 A. 2 3 1
 
@@ -759,7 +759,7 @@ D. Lindeman — 1942
 
 With reference to 'Ecosystem', which of the following statements is/are correct?
 
-1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.  
+1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
 2. Around 10% of organic matter reaches to the next higher level of consumers.
 
 A. Only 2
@@ -948,7 +948,7 @@ D. All three
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Energy flow is cyclic | **Unidirectional** — nutrients cycle, energy does not |
 | All pyramids always upright | Only **energy** pyramid is always upright |

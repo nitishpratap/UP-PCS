@@ -8,14 +8,14 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 
 </details>
 
-> **Sources baked in:** NCERT *An Introduction to Indian Art*, Sangeet Ratnakar tradition, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — Tansen patronage (2019 Q89), music treatise match (2021 Q22 / 2022 Q108), Tappa–Muhammad Shah (2023 Q38), Chishti sama (2018 Q90), Khusrau–Nizamuddin (2025 Q12)  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT *An Introduction to Indian Art*, Sangeet Ratnakar tradition, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — Tansen patronage, music treatise match (2021 Q22 / 2022 Q108), Tappa–Muhammad Shah, Chishti sama, Khusrau–Nizamuddin
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Sultanate music fused **Amir Khusrau**, Chishti **sama**, and Hindavi synthesis before the Mughal dhrupad peak.
 2. **Dhrupad** is the oldest art form, uses **pakhawaj**, and runs from **Man Singh Tomar** to **Tansen**.
@@ -27,7 +27,7 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 8. Under Akbar, Tansen was a **Navratna** and dhrupad master; his honorific was **Miyan Tansen**.
 9. Tansen ragas include **Miyan Ki Todi**, **Miyan Ki Malhar**, and **Darbari Kanada**.
 10. **Amir Khusrau** (1253–1325) was a disciple of **Nizamuddin** and served Balban / Alauddin / Ghiyasuddin courts — not Akbar.
-11. Music-treatise locks: **Ragamala–Pundrik Vitthal**; **Rasa Kaumudi–Sri Kantha**; **Raga Vibodh–Somanath**; **Chaturdandi Prakashika–Venkatamakhin**.
+11. Music-treatise facts: **Ragamala–Pundrik Vitthal**; **Rasa Kaumudi–Sri Kantha**; **Raga Vibodh–Somanath**; **Chaturdandi Prakashika–Venkatamakhin**.
 12. In music-treatise stems, **Raga Vibodh** belongs to **Somanath**; a separate literary list once paired Khusrau with Rag Vibodh — learn both codes.
 13. **Akbar** marks the dhrupad peak; **Muhammad Shah** marks the later khayal and tappa bloom.
 14. **Tabla** accompanies khayal and thumri; **pakhawaj** accompanies dhrupad — do not swap the drums.
@@ -39,12 +39,12 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 20. **Aurangzeb** reduced court music patronage, but music survived in regional courts and private mehfils.
 21. Early Mughals favoured **dhrupad**; later Mughals favoured **khayal** and lighter forms.
 22. Tansen and Amir Khusrau were **not** contemporaries — one is Akbar-age, the other Sultanate-age.
-23. Folklore credits Khusrau with sitar, tabla, and qawwali inventions, but exam locks keep him as the Nizamuddin–Hindavi music bridge.
+23. Folklore credits Khusrau with sitar, tabla, and qawwali inventions, but key facts keep him as the Nizamuddin–Hindavi music bridge.
 24. Gwalior / Behat tradition feeds Tansen’s origin story before the Rewa and Akbar courts.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -68,7 +68,7 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 - After the 12th–13th century, two classical branches emerged: **Hindustani** (north, with improvisation and gharana) and **Carnatic** (south, with kriti and melakarta); this topic focuses on the **north/Mughal–Sultanate** stream.
 - Later light classical centres in UP include **Lucknow–Banaras thumri** and **Kajri** (Mirzapur–Banaras belt), growing from medieval Awadh culture.
 
-> **Exam note:** Tappa was **not** refined at Akbar's court. Tansen and Amir Khusrau were **not** contemporaries. The primary drum of dhrupad is **pakhawaj**, not tabla.
+> ** note:** Tappa was **not** refined at Akbar's court. Tansen and Amir Khusrau were **not** contemporaries. The primary drum of dhrupad is **pakhawaj**, not tabla.
 
 ---
 
@@ -92,7 +92,7 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 - **Niyamat Khan Sadarang** and **Adarang** developed **khayal** into the dominant classical form.
 - **Tappa** was refined at **Muhammad Shah's** court (UPPCS **2023 Q38**, answer **D**).
 
-### PYQ — Tappa under Muhammad Shah (2023 Q38)
+### PYQ — Tappa under Muhammad Shah
 
 
 **1. (UPPCS Prelims 2023, Q38)** The Tappa style of music was refined and developed in the court of which Mughal Emperor?
@@ -108,15 +108,13 @@ D. Muhammad Shah
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — **UPPCS 2023 Q38**
-
-**Why:** **Tappa** was refined at **Muhammad Shah Rangeela's** court (~1719–1748).
+**Ans: D** — **UPPCS 2023 Q38Why:Tappa** was refined at **Muhammad Shah Rangeela's** court (~1719–1748).
 
 **Trap:** Do not pick Akbar — his signature form is **dhrupad** via Tansen.
 
 </details>
 
-- **Shori Miyan (Ghulam Nabi)** is the main tappa composer lock.
+- **Shori Miyan (Ghulam Nabi)** is the main tappa composer fact.
 - Later decline of Delhi pushed musicians to **regional centres** such as Lucknow, Banaras, Patiala, and Gwalior, giving birth to modern **gharana** geography.
 - Light forms linked to this aftermath include **thumri**, **dadra**, and **ghazal**; they matter for UP cultural geography, but the syllabus core remains khayal, tappa, and court music.
 
@@ -129,14 +127,14 @@ D. Muhammad Shah
 - Amir Khusrau's music identity rests on pioneering **qawwali** and **tarana** and on Hindavi–Persian cultural synthesis.
 - **Qawwali** is Sufi congregational singing at khanqah or dargah and is linked to Chishti devotion.
 - **Tarana** is a fast vocal form using syllables such as *tom, ta, der*, and tradition credits Khusrau with it.
-- Folklore also credits Khusrau with inventing **sitar** and **tabla**; exams accept his "pioneer" status, though strict history is more complex.
+- Folklore also credits Khusrau with inventing **sitar** and **tabla**; papers accept his "pioneer" status, though strict history is more complex.
 - In PYQs, **Rag Vibodh** is paired with Khusrau in the **2019 Q88** literary match list.
 - In **2025 Q12**, Amir Khusrau's guru is **Nizamuddin Auliya** (guru code 3).
 - Khusrau did **not** serve Akbar's court; he died about **200 years** before Tansen's Mughal career.
 
-> **Exam note:** Khusrau was a Sultanate Sufi-music pioneer, while Tansen was Akbar's dhrupad master. Do not merge their eras.
+> ** note:** Khusrau was a Sultanate Sufi-music pioneer, while Tansen was Akbar's dhrupad master. Do not merge their eras.
 
-### PYQ — Khusrau guru match (2025 Q12)
+### PYQ — Khusrau guru match
 
 
 **1. (UPPCS Prelims 2025, Q12 overlap)** Amir Khusrau's guru in the disciple–guru match is:
@@ -152,9 +150,7 @@ D. Guru Nanak (code 1)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Nizamuddin Auliya (code 3)** — full match code **C (2-3-4-1)**
-
-**Why:** Khusrau was disciple of **Nizamuddin Auliya** at Delhi Chishti dargah.
+**Ans: B — Nizamuddin Auliya (code 3)** — full match code **C (2-3-4-1)Why:** Khusrau was disciple of **Nizamuddin Auliya** at Delhi Chishti dargah.
 
 **Trap:** Do not pair Khusrau with Akbar-era figures (Tansen).
 
@@ -175,9 +171,9 @@ D. Guru Nanak (code 1)
 - Tansen died during Akbar's reign, and his tomb tradition is at **Gwalior**.
 - The Senia tradition later linked his disciples to several north Indian schools.
 
-> **Exam note:** Pre-Akbar patron of Tansen was **Bhata/Rewa**, not Mewar, Malwa, or Gujarat (2019 Q89 distractors).
+> ** note:** Pre-Akbar patron of Tansen was **Bhata/Rewa**, not Mewar, Malwa, or Gujarat (2019 Q89 distractors).
 
-### PYQ — Tansen pre-Akbar patron (2019 Q89)
+### PYQ — Tansen pre-Akbar patron
 
 
 **1. (UPPCS Prelims 2019, Q89)** Who among the following kings had given patronage to Tansen **before** Akbar?
@@ -193,9 +189,7 @@ D. Muzaffar Shah of Gujarat
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — **UPPCS 2019 Q89**
-
-**Why:** **Raja Ramchandra Singh of Bhata (Rewa)** patronised Tansen before Akbar invited him to court.
+**Ans: A** — **UPPCS 2019 Q89Why:Raja Ramchandra Singh of Bhata (Rewa)** patronised Tansen before Akbar invited him to court.
 
 **Trap:** Do not pick Mewar/Malwa/Gujarat — those are standard distractors.
 
@@ -211,7 +205,7 @@ D. Muzaffar Shah of Gujarat
 - Imperial patronage peaked under **Akbar** with **Tansen**.
 - Its structure begins with a long **alap**, then a composed bandish, and is less ornamental than later khayal.
 - Major banis (styles) include Dagar, Nauhar, Khandar, and Gauhar; the Dagar bani is the best-known revival line.
-- For exams, remember: **dhrupad goes with pakhawaj and Akbar/Tansen**, while **khayal goes with tabla and the Muhammad Shah era bloom**.
+- For papers, remember: **dhrupad goes with pakhawaj and Akbar/Tansen**, while **khayal goes with tabla and the Muhammad Shah era bloom**.
 
 ---
 
@@ -239,9 +233,7 @@ D. Muzaffar Shah of Gujarat
 ### PYQ — Sanskrit music translation A/R
 
 
-**1. (UPPCS Prelims 2018, Q90)**
-
-**Assertion (A):** Many Sanskrit works on music were translated into Persian during the medieval period.
+**1. (UPPCS Prelims 2018, Q90)Assertion (A):** Many Sanskrit works on music were translated into Persian during the medieval period.
 
 **Reason (R):** The early Chishti sufis were fond of musical assemblies called 'sama'.
 
@@ -256,9 +248,7 @@ D. A false; R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90**
-
-**A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
+**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
 
 **R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
 
@@ -270,7 +260,7 @@ D. A false; R true
 
 ## 6.9 Music Treatises (High-ROI Match Set)
 
-| Text | Author | One-line lock |
+| Text | Author | One-line fact |
 |------|--------|---------------|
 | **Ragamala** | **Pundrik Vitthal** | Raga–ragini families |
 | **Rasa Kaumudi** | **Sri Kantha** | Music + dance + rasa |
@@ -281,7 +271,7 @@ D. A false; R true
 - In **2022 Q108**, answer **D** gives the same pairs (A-3, B-4, C-1, D-2).
 - Related older texts for context include **Sangeet Ratnakar** by Sharngadeva and **Natyashastra** by Bharata.
 
-> **Exam note:** Keep **2019 Q88 Khusrau–Rag Vibodh** as a separate literary PYQ lock. For **music-treatise** questions, **Raga Vibodh** is by **Somanath**.
+> ** note:** Keep **2019 Q88 Khusrau–Rag Vibodh** as a separate literary PYQ fact. For **music-treatise** questions, **Raga Vibodh** is by **Somanath**.
 
 ### PYQ — Music treatise match (2021 Q22 / 2022 Q108)
 
@@ -293,9 +283,7 @@ Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (3-4-1-2)** — **UPPCS 2021 Q22**
-
-**Locks:** Ragamala–Pundrik (3) | Rasa Kaumudi–Sri Kantha (4) | Raga Vibodh–Somanath (1) | Chaturdandi–Venkatraman (2)
+**Ans: A (3-4-1-2)** — **UPPCS 2021 Q22Facts:** Ragamala–Pundrik (3) | Rasa Kaumudi–Sri Kantha (4) | Raga Vibodh–Somanath (1) | Chaturdandi–Venkatraman (2)
 
 **Trap:** Do not give Raga Vibodh to Khusrau in this music-treatise match.
 
@@ -329,15 +317,13 @@ D. Muzaffar Shah of Gujarat
 
 </details>
 
-**Q2.** Match (2021 Q22): A.Ragamala B.Rasa Kaumudi C.Raga Vibodh D.Chaturdandi Prakashika with 1.Somanath 2.Venkatraman 3.Pundrik Vitthal 4.Sri Kantha
+**Q2.** Match: A.Ragamala B.Rasa Kaumudi C.Raga Vibodh D.Chaturdandi Prakashika with 1.Somanath 2.Venkatraman 3.Pundrik Vitthal 4.Sri Kantha
 
 Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 
 <details><summary>Show answer</summary>
 
-**Ans: A (3-4-1-2)**
-
-**Why:** **A (3-4-1-2)** is the correct lock for this stem.
+**Ans: A (3-4-1-2)Why:A (3-4-1-2)** is the correct fact for this stem.
 
 **Trap:** Music-treatise match: Raga Vibodh = Somanath (not Khusrau).
 
@@ -375,9 +361,7 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90**
-
-**A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
+**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
 
 **R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
 
@@ -397,9 +381,7 @@ D. Dholak
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** Dhrupad uses **pakhawaj** as primary drum, not tabla.
+**Ans: CWhy:** Dhrupad uses **pakhawaj** as primary drum, not tabla.
 
 **Trap:** Tabla pairs with khayal/thumri; pakhawaj with dhrupad.
 
@@ -457,9 +439,7 @@ D. Tyagaraja
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -471,9 +451,7 @@ Options: A.1-2-3-4 | B.2-4-3-1 | C.4-2-1-3 | D.3-4-1-2
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** **D** is the correct lock for this stem.
+**Ans: DWhy:D** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -491,9 +469,7 @@ D. Venkatamakhin
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -511,9 +487,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -551,9 +525,7 @@ D. Venkatraman
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** **D** is the correct lock for this stem.
+**Ans: DWhy:D** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -571,9 +543,7 @@ D. Thumri
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -591,15 +561,13 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
 
-**Q16.** Raga Vibodh (music-treatise PYQ lock) is by:
+**Q16.** Raga Vibodh (music-treatise PYQ fact) is by:
 
 A. Amir Khusrau |
 
@@ -631,15 +599,13 @@ D. Garib Nawaz
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
 
-**Q18.** Tappa composer lock:
+**Q18.** Tappa composer fact:
 
 A. Tansen |
 
@@ -651,9 +617,7 @@ D. Abul Fazl
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -671,9 +635,7 @@ D. Gwalior fort
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -711,9 +673,7 @@ D. Writing Natyashastra
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -731,9 +691,7 @@ D. Thumri
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -751,9 +709,7 @@ D. Malwa (Rajbahadur)
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -771,9 +727,7 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -791,15 +745,13 @@ D. Tappa
 
 <details><summary>Show answer</summary>
 
-**Ans: C**
-
-**Why:** **C** is the correct lock for this stem.
+**Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
 </details>
 
-**Q26.** NOT a Tansen-era lock:
+**Q26.** NOT a Tansen-era fact:
 
 A. Navratna |
 
@@ -811,9 +763,7 @@ D. Carnatic Trinity member
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** **D** is the correct lock for this stem.
+**Ans: DWhy:D** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -825,9 +775,7 @@ Options: A.2-3-1 | B.3-2-1 | C.1-2-3 | D.2-1-3
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -845,9 +793,7 @@ D. Patronage of Tansen
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -865,9 +811,7 @@ D. Sharngadeva
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -885,9 +829,7 @@ D. Dhrupad’s main drum is tabla
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
-
-**Why:** **D** is the correct lock for this stem.
+**Ans: DWhy:D** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -905,9 +847,7 @@ D. Natyashastra
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -945,9 +885,7 @@ D. Shori Miyan
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -965,9 +903,7 @@ D. Both began under Muhammad Shah
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
-
-**Why:** **A** is the correct lock for this stem.
+**Ans: AWhy:A** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -985,9 +921,7 @@ D. Qawwali — Venkatamakhin
 
 <details><summary>Show answer</summary>
 
-**Ans: B**
-
-**Why:** **B** is the correct lock for this stem.
+**Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -1000,7 +934,7 @@ D. Qawwali — Venkatamakhin
 
 **Q1. UPPCS Prelims 2018, Q90**
 
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.  
+Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
 Reason (R): The early Chishti sufis were fond of musical assemblies called ‘sama’.
 
 A. Both true; R explains A |
@@ -1013,9 +947,7 @@ D. A false; R true
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90**
-
-**A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
+**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
 
 **R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
 
@@ -1037,9 +969,7 @@ D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — **UPPCS 2019 Q89**
-
-**Why:** **Raja Ramchandra Singh of Bhata (Rewa)** patronised Tansen before Akbar's court.
+**Ans: A** — **UPPCS 2019 Q89Why:Raja Ramchandra Singh of Bhata (Rewa)** patronised Tansen before Akbar's court.
 
 **Trap:** Mewar, Malwa, Gujarat are standard distractors.
 
@@ -1054,9 +984,7 @@ Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
 
 <details><summary>Show answer</summary>
 
-**Ans: A (1-3-2-4)**
-
-**Locks:** Khusrau = Rag Vibodh (4) in this **literary** list.
+**Ans: A (1-3-2-4)Facts:** Khusrau = Rag Vibodh (4) in this **literary** list.
 
 **Trap:** In music-treatise questions, Raga Vibodh = **Somanath**.
 
@@ -1071,9 +999,7 @@ Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 
 <details><summary>Show answer</summary>
 
-**Ans: A (3-4-1-2)** — **UPPCS 2021 Q22**
-
-**Locks:** Ragamala–Pundrik (3) | Rasa Kaumudi–Sri Kantha (4) | Raga Vibodh–Somanath (1) | Chaturdandi–Venkatraman (2)
+**Ans: A (3-4-1-2)** — **UPPCS 2021 Q22Facts:** Ragamala–Pundrik (3) | Rasa Kaumudi–Sri Kantha (4) | Raga Vibodh–Somanath (1) | Chaturdandi–Venkatraman (2)
 
 **Trap:** Same code repeated in 2022 Q108.
 
@@ -1088,9 +1014,7 @@ Options: A.A-1 B-2 C-3 D-4 | B.A-2 B-4 C-3 D-1 | C.A-4 B-2 C-1 D-3 | D.A-3 B-4 C
 
 <details><summary>Show answer</summary>
 
-**Ans: D (3-4-1-2)** — **UPPCS 2022 Q108**
-
-**Locks:** Same as 2021 Q22 — Pundrik–Ragamala, Sri Kantha–Rasa Kaumudi, Somanath–Raga Vibodh, Venkatraman–Chaturdandi.
+**Ans: D (3-4-1-2)** — **UPPCS 2022 Q108Facts:** Same as 2021 Q22 — Pundrik–Ragamala, Sri Kantha–Rasa Kaumudi, Somanath–Raga Vibodh, Venkatraman–Chaturdandi.
 
 **Trap:** Spelling variants — pairs unchanged.
 
@@ -1111,9 +1035,7 @@ D. Muhammad Shah
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — **UPPCS 2023 Q38**
-
-**Why:** **Tappa** refined at **Muhammad Shah Rangeela's** court.
+**Ans: D** — **UPPCS 2023 Q38Why:Tappa** refined at **Muhammad Shah Rangeela's** court.
 
 **Trap:** Akbar = dhrupad/Tansen era, not Tappa.
 
@@ -1138,8 +1060,8 @@ Amir Khusrau → Nizamuddin Auliya in disciple–guru match.
 
 ## Common Traps — Don't Fall For These
 
-1. Tansen's pre-Akbar patron was **not** from Mewar, Malwa, or Gujarat; the correct answer is **Raja Ramchandra of Bhata** (2019 Q89).
-2. **Tappa** was **not** refined under Akbar; it developed under **Muhammad Shah** (2023 Q38).
+1. Tansen's pre-Akbar patron was **not** from Mewar, Malwa, or Gujarat; the correct answer is **Raja Ramchandra of Bhata**.
+2. **Tappa** was **not** refined under Akbar; it developed under **Muhammad Shah**.
 3. **Khayal** was **not** Akbar's signature form; Akbar patronised **dhrupad**, while khayal bloomed under **Muhammad Shah**.
 4. The primary drum of **dhrupad** is **pakhawaj**, not tabla.
 5. **Amir Khusrau** and **Tansen** were **not** contemporaries; Khusrau died in **1325**.

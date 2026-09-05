@@ -1,6 +1,6 @@
 # Firsts & Records
 
-> **Priority B** | About **5%** of Current Affairs  
+> **Priority B** | About **5%** of Current Affairs
 > Whenever news says **first**, **largest**, or **only**, slow down. These lines become questions.
 
 ## What to note every time
@@ -17,18 +17,18 @@
 
 ### First big national showcase of LR-AShM
 
-**What happened**  
+**What happened**
 At Republic Day 2026, DRDO publicly showcased the **Long Range Anti-Ship Hypersonic Missile (LR-AShM)** as a major indigenous hypersonic anti-ship system.
 
 **How to remember it safely**
 
-- Safe lock: first major national parade showcase of this **anti-ship hypersonic** system in this form.
+- Safe fact: first major national parade showcase of this **anti-ship hypersonic** system in this form.
 - Unsafe over-claim: “India’s first hypersonic test ever”.
 - Full technical card → [Science / Space / Defence](03_Science_Space_Defence.md).
 
 ### India–EU FTA called India’s largest
 
-**What happened**  
+**What happened**
 On **27 January 2026**, India and the EU announced that FTA negotiations were concluded. Official messaging called it India’s largest FTA with a major partner market.
 
 **Trap**
@@ -63,7 +63,7 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 
 ## April 2026
 
-### Firsts to lock
+### Firsts to fact
 
 - Census 2027 is India’s **first** mainly **digital** Census with online **self-enumeration**.
 - **PFBR** at Kalpakkam attained **first criticality** (start of controlled fission) on **6 April 2026**.
@@ -81,7 +81,7 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 
 ## May 2026
 
-### Firsts to lock
+### Firsts to fact
 
 - **Sikkim** covered as India’s **first paperless judiciary** state.
 - Squadron Leader **Saanya** covered as the IAF’s **first woman Cat-A** flying instructor.
@@ -96,7 +96,7 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 
 ## June 2026
 
-### Firsts to lock
+### Firsts to fact
 
 - India reaches **100** Ramsar sites with **Surha Tal** (Ballia).
 - UP reaches **13** Ramsar sites.
@@ -111,7 +111,7 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 
 ## July 2026
 
-### Firsts to lock
+### Firsts to fact
 
 - **VB-G RAM G** replaces MGNREGA framework with a **125-day** guarantee.
 - **Skyroot Vikram-1** — India’s first privately developed **orbital-class** rocket (Mission Aagaman).
@@ -128,7 +128,7 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 
 ## August 2026
 
-### Firsts to lock
+### Firsts to fact
 
 - First Red Fort I-Day programme performance of **Vande Mataram** by the Army band.
 - **Glaw Lake** — Arunachal’s **first** Ramsar site; India’s **101st**.
@@ -141,11 +141,11 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Mixed “which is correct” on firsts — paperless judiciary / offshore airport / private rocket.
+**Logic:** Mixed “which is correct” on firsts — paperless judiciary / offshore airport / private rocket.
 
 **Q1.** Which of the following statements is/are correct?
 
@@ -155,20 +155,20 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are “first / record” locks — UPPCS loves the second detail, so revise place names carefully.
+**Ans: D.** All three are “first / record” facts — UPPCS loves the second detail, so revise place names carefully.
 
 </details>
 
 ---
-**Exam logic:** T20 WC “first” claims — defend / host / three titles.
+**Logic:** T20 WC “first” claims — defend / host / three titles.
 
 **Q2.** With reference to India’s Men’s T20 World Cup win (March 2026), which of the following statements is/are correct?
 
@@ -178,9 +178,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -192,7 +192,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Digital Census + PFBR first criticality + NASM-SR first indigenous air-launched AShM.
+**Logic:** Digital Census + PFBR first criticality + NASM-SR first indigenous air-launched AShM.
 
 **Q3.** Which of the following statements is/are correct?
 
@@ -202,21 +202,21 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are April “first” locks. Trap: writing thorium as the first-criticality fuel (that belongs under Science).
+**Ans: D.** All three are April “first” facts. Trap: writing thorium as the first-criticality fuel (that belongs under Science).
 
 </details>
 
 ---
 
-**Exam logic:** AI Summit Global South first + Kartavya Bhawan Budget first.
+**Logic:** AI Summit Global South first + Kartavya Bhawan Budget first.
 
 **Q4.** With reference to February 2026 “firsts”, which of the following statements is/are correct?
 
@@ -226,9 +226,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -240,7 +240,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Surha Tal 100 / Glaw first Arunachal / Sher 100% indigenous.
+**Logic:** Surha Tal 100 / Glaw first Arunachal / Sher 100% indigenous.
 
 **Q5.** Which of the following statements is/are correct?
 
@@ -250,9 +250,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -264,19 +264,19 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Ashwini Bhide / Susan Coyle / Saanya woman firsts.
+**Logic:** Ashwini Bhide / Susan Coyle / Saanya woman firsts.
 
 **Q6.** Which of the following pairs is/are correctly matched?
 
-1. Ashwini Bhide — first woman BMC Commissioner  
-2. Susan Coyle — Australia’s first female Army Chief  
-3. Squadron Leader Saanya — IAF’s first woman Cat-A flying instructor (coverage)  
+1. Ashwini Bhide — first woman BMC Commissioner
+2. Susan Coyle — Australia’s first female Army Chief
+3. Squadron Leader Saanya — IAF’s first woman Cat-A flying instructor (coverage)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -288,7 +288,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** RCB back-to-back third franchise; Spain dual FIFA lock; Pragg Grand Chess Tour.
+**Logic:** RCB back-to-back third franchise; Spain dual FIFA fact; Pragg Grand Chess Tour.
 
 **Q7.** Which of the following statements is/are correct?
 
@@ -298,9 +298,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -312,7 +312,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Vande Mataram Army band first at Red Fort I-Day.
+**Logic:** Vande Mataram Army band first at Red Fort I-Day.
 
 **Q8.** With reference to Independence Day 2026 culture firsts, which of the following statements is/are correct?
 
@@ -321,9 +321,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -335,12 +335,12 @@ D. Only 1
 
 ---
 
-**Exam logic:** LR-AShM parade showcase careful claim.
+**Logic:** LR-AShM parade showcase careful claim.
 
 **Q9.** Which of the following statements is/are correct?
 
 1. Republic Day 2026 was a major national showcase of LR-AShM.
-2. Safe lock is first major parade showcase of this anti-ship hypersonic form — not ‘India’s first hypersonic test ever’.
+2. Safe fact is first major parade showcase of this anti-ship hypersonic form — not ‘India’s first hypersonic test ever’.
 
 Select the correct answer from the code given below:
 
@@ -358,7 +358,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Census first digital.
+**Logic:** Census first digital.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -382,7 +382,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Taiwan Travelogue Booker first Taiwanese Mandarin.
+**Logic:** Taiwan Travelogue Booker first Taiwanese Mandarin.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -405,7 +405,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Saudi first Arab IBCA.
+**Logic:** Saudi first Arab IBCA.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -429,7 +429,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** 100 Ramsar milestone.
+**Logic:** 100 Ramsar milestone.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -452,7 +452,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Vikram-1 private orbital first.
+**Logic:** Vikram-1 private orbital first.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -476,7 +476,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Paperless judiciary Sikkim.
+**Logic:** Paperless judiciary Sikkim.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -499,7 +499,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Palghar offshore airport first path.
+**Logic:** Palghar offshore airport first path.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -522,7 +522,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Spain second FIFA + dual men’s women’s lock.
+**Logic:** Spain second FIFA + dual men’s women’s fact.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -545,7 +545,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Gabon Togo CWG debut.
+**Logic:** Gabon Togo CWG debut.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -569,7 +569,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Kaziah Kerala Miss Universe India first in ~64 years.
+**Logic:** Kaziah Kerala Miss Universe India first in ~64 years.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -592,7 +592,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** C-295 Made-in-India I-Day highlight.
+**Logic:** C-295 Made-in-India I-Day highlight.
 
 **Q20.** Which of the following statements is/are correct?
 
@@ -609,6 +609,6 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Defence transport lock.
+**Ans: D.** Defence transport fact.
 
 </details>

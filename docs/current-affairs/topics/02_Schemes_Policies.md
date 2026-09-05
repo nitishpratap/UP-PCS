@@ -1,6 +1,6 @@
 # Government Schemes & Policies
 
-> **Priority S** | About **13%** of Current Affairs questions  
+> **Priority S** | About **13%** of Current Affairs questions
 > In recent papers, scheme questions often sit under **Economy** tags as well.
 
 ## What to note every time
@@ -19,7 +19,7 @@
 
 ### Plan to merge farm schemes into PM-RKVY | around 12 January 2026
 
-**What happened**  
+**What happened**
 The Union Agriculture Ministry proposed joining three schemes into one bigger umbrella. The new umbrella name in reports is **Pradhan Mantri–Rashtriya Krishi Vikas Yojana (PM-RKVY)**.
 
 **Which three schemes may merge**
@@ -28,7 +28,7 @@ The Union Agriculture Ministry proposed joining three schemes into one bigger um
 - **National Mission on Natural Farming (NMNF)**
 - **National Bee and Honey Mission (NBHM)**
 
-**Money and time locks**
+**Money and time facts**
 
 - Reported outlay: about **₹1.75 lakh crore** over **five years**.
 - The period is linked to the **16th Finance Commission cycle**, from **April 2026 to March 2031**.
@@ -41,23 +41,23 @@ The Union Agriculture Ministry proposed joining three schemes into one bigger um
 - NMNF and NBHM earlier had their own end dates into 2025–26.
 
 !!! trap "Easy wrong options"
-    Treating this as a finished law on day one. It was reported as a **proposal**. Also wrong: calling NBHM a NITI Aayog scheme.
+ Treating this as a finished law on day one. It was reported as a **proposal**. Also wrong: calling NBHM a NITI Aayog scheme.
 
 ### Sampoornata Abhiyan 2.0 | launched 28 January 2026 | NITI Aayog
 
-**What happened**  
+**What happened**
 NITI Aayog started a short, intensive drive to fill gaps in basic development indicators in poor districts and blocks. The drive is called **Sampoornata Abhiyan 2.0**.
 
-**Core locks**
+**Core facts**
 
 - Period: **28 January 2026 to 14 April 2026** (about three months).
 - It works under two older programmes:
-  - **Aspirational Districts Programme (ADP)** — started **January 2018**, covers **112** districts.
-  - **Aspirational Blocks Programme (ABP)** — started **January 2023**, covers **513** blocks.
+ - **Aspirational Districts Programme (ADP)** — started **January 2018**, covers **112** districts.
+ - **Aspirational Blocks Programme (ABP)** — started **January 2023**, covers **513** blocks.
 - Aim: reach full saturation on selected development indicators.
 
 !!! tip "UP tip"
-    Older UPPCS papers already ask how many UP districts are in the Aspirational Districts list. Keep that state number ready when you revise UP.
+ Older UPPCS papers already ask how many UP districts are in the Aspirational Districts list. Keep that state number ready when you revise UP.
 
 ---
 
@@ -65,11 +65,11 @@ NITI Aayog started a short, intensive drive to fill gaps in basic development in
 
 ### Union Budget 2026–27 — new schemes and big policy calls | 1 February 2026
 
-**What happened**  
+**What happened**
 Finance Minister **Nirmala Sitharaman** presented the Union Budget for **2026–27**. She called it a **Yuva Shakti**-driven Budget. It was the first Budget prepared in **Kartavya Bhawan**. She framed the Budget around **three kartavyas** (duties):
 
-1. Speed up and protect economic growth.  
-2. Build people’s skills and meet their aspirations.  
+1. Speed up and protect economic growth.
+2. Build people’s skills and meet their aspirations.
 3. Follow **Sabka Saath, Sabka Vikas** so no region or group is left out.
 
 Money figures are collected in [Economy / Budget / Trade](10_Economy_Budget_Trade.md). Below are the scheme names you must know.
@@ -86,7 +86,7 @@ Money figures are collected in [Economy / Budget / Trade](10_Economy_Budget_Trad
 ### Semiconductor and electronics
 
 - **India Semiconductor Mission (ISM) 2.0** will be launched. It focuses on equipment, materials, Indian intellectual property, and supply chains. It builds on ISM 1.0.
-- Budget-time messaging did **not** lock the final ₹1.27 lakh crore Cabinet outlay yet — that came later (July 2026). See July card below.
+- Budget-time messaging did **not** fact the final ₹1.27 lakh crore Cabinet outlay yet — that came later (July 2026). See July card below.
 - The **Electronics Components Manufacturing Scheme** outlay was raised to **₹40,000 crore** (it was ₹22,919 crore when launched in April 2025).
 
 ### Minerals, chemicals, containers, textiles
@@ -113,7 +113,7 @@ Money figures are collected in [Economy / Budget / Trade](10_Economy_Budget_Trad
 - Budget also used **Khelo India Mission** language for a wider sports push.
 
 !!! trap "Easy wrong options"
-    Mixing **Biopharma SHAKTI** with the older PLI Pharma scheme. Swapping the ₹10,000 crore tags between Biopharma and Container Manufacturing. Putting Rare Earth Corridors in UP or Rajasthan.
+ Mixing **Biopharma SHAKTI** with the older PLI Pharma scheme. Swapping the ₹10,000 crore tags between Biopharma and Container Manufacturing. Putting Rare Earth Corridors in UP or Rajasthan.
 
 ### 16th Finance Commission
 
@@ -127,10 +127,10 @@ Money figures are collected in [Economy / Budget / Trade](10_Economy_Budget_Trad
 
 ### Modified UDAN scheme | Cabinet approval around 25 March 2026
 
-**What happened**  
+**What happened**
 The Union Cabinet approved a **modified UDAN** (regional air connectivity) plan for a long period. UDAN means **Ude Desh ka Aam Nagrik**. It helps common people fly to smaller cities by supporting airlines and airports.
 
-**Core locks**
+**Core facts**
 
 - Outlay noted: about **₹28,840 crore**.
 - Period noted: **2026 to 2036**.
@@ -139,10 +139,10 @@ The Union Cabinet approved a **modified UDAN** (regional air connectivity) plan 
 
 ### IVFRT scheme continued | 2026–2031
 
-**What happened**  
+**What happened**
 The Cabinet also approved continuation of the **Immigration, Visa, Foreigners Registration and Tracking (IVFRT)** scheme.
 
-**Core locks**
+**Core facts**
 
 - Outlay noted: about **₹1,800 crore**.
 - Period: **2026 to 2031** (five years).
@@ -151,10 +151,10 @@ The Cabinet also approved continuation of the **Immigration, Visa, Foreigners Re
 
 ### RELIEF scheme for exporters | around 19 March 2026
 
-**What happened**  
+**What happened**
 Because of conflict and risk in West Asia, the government announced a support package for exporters called **RELIEF** (**Resilience and Logistics Intervention for Export Facilitation**).
 
-**Core locks**
+**Core facts**
 
 - Total package noted: about **₹497 crore**.
 - Implementing agency often named: **ECGC Limited** (export credit guarantee body).
@@ -162,7 +162,7 @@ Because of conflict and risk in West Asia, the government announced a support pa
 
 ### Bose Aapda Puraskar nominations now year-round
 
-**What happened**  
+**What happened**
 Nominations for the **Subhash Chandra Bose Aapda Prabandhan Puraskar** can now be filed through the year on the **National Awards Portal**. The award is still announced on **23 January**.
 
 **Prize memory**
@@ -176,10 +176,10 @@ Nominations for the **Subhash Chandra Bose Aapda Prabandhan Puraskar** can now b
 
 ### Census of India 2027 | Phase 1 begins 1 April 2026
 
-**What happened**  
+**What happened**
 India began the first phase of **Census 2027**. This is India’s **16th** Census overall and the **eighth** since Independence. For the first time, the Census is being run mainly in **digital** mode, with a **self-enumeration** option online.
 
-**Core locks**
+**Core facts**
 
 - Phase 1 name: **House Listing Operations (HLO)** / House Listing and Housing Census.
 - Self-enumeration portal languages noted: **16**.
@@ -192,14 +192,14 @@ India began the first phase of **Census 2027**. This is India’s **16th** Censu
 - Registrar General and Census Commissioner named in briefings: **Mritunjay Kumar Narayan**.
 
 !!! tip "Easy memory"
-    April–September 2026 = housing and amenities listing. February 2027 = people count (including caste fields). Do not mix the two phases.
+ April–September 2026 = housing and amenities listing. February 2027 = people count (including caste fields). Do not mix the two phases.
 
 ### Nutrient Based Subsidy | Kharif 2026
 
-**What happened**  
+**What happened**
 The Union Cabinet fixed **Nutrient Based Subsidy (NBS)** rates for phosphatic and potassic (**P&K**) fertilisers for the **Kharif 2026** season.
 
-**Core locks**
+**Core facts**
 
 - Period: **1 April 2026 to 30 September 2026**.
 - Tentative outlay: about **₹41,533–41,534 crore**.
@@ -213,10 +213,10 @@ The Union Cabinet fixed **Nutrient Based Subsidy (NBS)** rates for phosphatic an
 
 ### SARTHAK-PDS | Cabinet approval 27 May 2026
 
-**What happened**  
+**What happened**
 The Cabinet approved **SARTHAK-PDS**, a technology-driven push to strengthen India’s Public Distribution System. It does not replace PDS. It reforms how foodgrain moves, is handled, tracked, and how grievances are fixed.
 
-**Core locks**
+**Core facts**
 
 - Full name idea in coverage: Scheme for Assistance in Ration Transport and Handling with Automation in PDS.
 - Central outlay noted: about **₹25,530 crore**.
@@ -226,10 +226,10 @@ The Cabinet approved **SARTHAK-PDS**, a technology-driven push to strengthen Ind
 
 ### Mission for Cotton Productivity
 
-**What happened**  
+**What happened**
 Cabinet approved a Mission for Cotton Productivity (early May coverage).
 
-**Core locks**
+**Core facts**
 
 - Outlay noted: about **₹5,659 crore**.
 - Period noted: **2026–27 to 2030–31**.
@@ -237,10 +237,10 @@ Cabinet approved a Mission for Cotton Productivity (early May coverage).
 
 ### ECLGS 5.0
 
-**What happened**  
+**What happened**
 Cabinet approved **Emergency Credit Line Guarantee Scheme (ECLGS) 5.0** to support credit flow after West Asia–linked stress.
 
-**Core locks**
+**Core facts**
 
 - Target additional credit flow: about **₹2.55 lakh crore**.
 - Airlines window noted: about **₹5,000 crore**.
@@ -248,10 +248,10 @@ Cabinet approved **Emergency Credit Line Guarantee Scheme (ECLGS) 5.0** to suppo
 
 ### Surface Coal and Lignite Gasification Promotion Scheme
 
-**What happened**  
+**What happened**
 Cabinet approved a scheme to promote surface coal and lignite gasification.
 
-**Core locks**
+**Core facts**
 
 - Outlay noted: about **₹37,500 crore**.
 - Supports the national goal of gasifying about **100 MT** of coal by **2030**.
@@ -267,10 +267,10 @@ Cabinet approved a scheme to promote surface coal and lignite gasification.
 
 ### VB-G RAM G Act | July rollout preview
 
-**What happened**  
+**What happened**
 June coverage prepared for the new rural jobs law: **Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin)** or **VB-G RAM G**. It was set to replace the older **MGNREGS** framework from **1 July 2026**.
 
-**Core locks**
+**Core facts**
 
 - Guarantee noted: up to **125 days** of wage employment (older framework: **100 days**).
 - Centre’s interim / FY allocation figures noted: about **₹95,692 crore** to states/UTs; total with state share over about **₹1.5 lakh crore** in FY27 coverage.
@@ -278,7 +278,7 @@ June coverage prepared for the new rural jobs law: **Viksit Bharat — Guarantee
 - National launch event named for early July at **Mukkavaripalli**, Andhra Pradesh (Tirupati district).
 
 !!! tip "Confused pair"
-    Do not write that MGNREGS continues unchanged. The new Act raises days to **125** and changes the mission name.
+ Do not write that MGNREGS continues unchanged. The new Act raises days to **125** and changes the mission name.
 
 ### Soft state investment note
 
@@ -290,10 +290,10 @@ Odisha launched a **GO-EAST** investment facilitation push (Government of Odisha
 
 ### Semicon 2.0 / India Semiconductor Mission 2.0 | Cabinet ~15 July 2026
 
-**What happened**  
+**What happened**
 The Union Cabinet approved **Semicon 2.0** (India Semiconductor Mission 2.0) to widen India’s chip design and manufacturing ecosystem beyond the first ISM phase.
 
-**Core locks**
+**Core facts**
 
 - Outlay: **₹1,27,500 crore** (about **₹1.27 lakh crore**).
 - Builds on Semicon / ISM **1.0** (about **₹76,000 crore** in earlier foundation messaging).
@@ -302,14 +302,14 @@ The Union Cabinet approved **Semicon 2.0** (India Semiconductor Mission 2.0) to 
 - Soft follow-up: detailed notification / eligibility guidelines appeared around **end-August 2026** (fab support often locked near **40%** of eligible capex for silicon wafer fabs in explainers).
 
 !!! trap "Easy wrong options"
-    Writing the Semicon 2.0 outlay as ₹76,000 crore (that is the older 1.0 band). Mixing Semicon 2.0 with Biopharma SHAKTI’s ₹10,000 crore.
+ Writing the Semicon 2.0 outlay as ₹76,000 crore (that is the older 1.0 band). Mixing Semicon 2.0 with Biopharma SHAKTI’s ₹10,000 crore.
 
 ### VB-G RAM G Act | in force 1 July 2026 | national launch 2 July
 
-**What happened**  
+**What happened**
 The **Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin)** Act came into force on **1 July 2026**. It replaces the older **MGNREGA / MGNREGS** rural jobs framework. The national launch was held on **2 July 2026** at **Mukkavaripalli** village in **Obulavaripalli mandal, Tirupati district, Andhra Pradesh**.
 
-**Core locks**
+**Core facts**
 
 - Full short name: **VB-G RAM G**.
 - Guarantee: **125 days** of wage employment per eligible rural household (older law: **100 days**).
@@ -326,7 +326,7 @@ The **Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin)** Act
 - Planning language: Viksit Gram Panchayat Plans linked with **PM Gati Shakti**.
 
 !!! tip "Confused pair"
-    Days: **125**, not 100. Funding: states share more under the new Act. Launch village is in **Andhra Pradesh**, not UP.
+ Days: **125**, not 100. Funding: states share more under the new Act. Launch village is in **Andhra Pradesh**, not UP.
 
 | Easy compare | Old MGNREGA | New VB-G RAM G |
 |--------------|-------------|----------------|
@@ -339,10 +339,10 @@ Full board → [Master tables](00_Master_Tables.md).
 
 ### Samudra Manthan | National Offshore Exploration Scheme | 31 July 2026
 
-**What happened**  
+**What happened**
 The Union Cabinet approved **Samudra Manthan**, a big plan to find more oil and gas under the sea (deep and ultra-deep water).
 
-**Easy locks**
+**Easy facts**
 
 - Full idea: National Offshore Exploration Scheme.
 - Ministry: **Petroleum and Natural Gas**.
@@ -352,10 +352,10 @@ The Union Cabinet approved **Samudra Manthan**, a big plan to find more oil and 
 
 ### PM Surya Sarovar Yojana (PM-SSY) | floating solar
 
-**What happened**  
+**What happened**
 The Cabinet also approved **Pradhan Mantri Surya Sarovar Yojana**. It puts solar panels on water bodies (reservoirs, canals, ponds) instead of taking farm land.
 
-**Easy locks**
+**Easy facts**
 
 - Target: about **5,000 MW** floating solar.
 - Money: about **₹5,070 crore**.
@@ -364,7 +364,7 @@ The Cabinet also approved **Pradhan Mantri Surya Sarovar Yojana**. It puts solar
 
 ### PM-KISAN extended + Khelo India revamp (same Cabinet window)
 
-| Decision | Easy lock |
+| Decision | Easy fact |
 |----------|-----------|
 | **PM-KISAN** extension | Continues **2026–27 to 2030–31**; about **₹3.15 lakh crore**; farmer family still gets **₹6,000** a year in three parts |
 | **Khelo India** revamp | About **₹36,441 crore** in Cabinet coverage for a wider sports push |
@@ -379,7 +379,7 @@ A high-powered task force on examination reforms, led by **Nandan Nilekani**, wa
 
 ### Independence Day announcements | 15 August 2026 | Red Fort
 
-**What happened**  
+**What happened**
 On India’s **80th** Independence Day, PM Modi delivered his **13th** consecutive Red Fort address. Themes linked **150 years of Vande Mataram** with **Yuva Shakti — Leading the Journey to Viksit Bharat @2047**.
 
 **Shakti Ki Saptadhara (seven streams)**
@@ -394,18 +394,18 @@ On India’s **80th** Independence Day, PM Modi delivered his **13th** consecuti
 | 6 | Green and blue economy | Clean energy + ocean / coastal economy |
 | 7 | Soft power | Yoga, films, crafts, culture as strength |
 
-**Big number locks**
+**Big number facts**
 
 - Train about **1 crore** youth in **AI** skills in the next year.
 - Raise **Lakhpati Didi** target to **6 crore** women.
 - Nuclear power capacity aim: **100 GW by 2047**, with about **five** new reactors in the next six–seven years.
 - About **7–8** new semiconductor plants to start in about one–two years.
-- Free online coaching for competitive exam aspirants.
+- Free online coaching for competitive aspirants.
 - Nationwide sports talent hunt for children about **5–15** years.
 - Modernised voluntary **Civil Defence** network.
 
 !!! tip "Easy memory"
-    80th I-Day + 150 years of Vande Mataram + seven streams of Shakti.
+ 80th I-Day + 150 years of Vande Mataram + seven streams of Shakti.
 
 ### Soft soil map
 
@@ -413,11 +413,11 @@ The **National Bureau of Soil Survey and Land Use Planning** released India’s 
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** VB-G RAM G vs MGNREGA — days, date, replacement (scheme false-statement machine).
+**Logic:** VB-G RAM G vs MGNREGA — days, date, replacement (scheme false-statement machine).
 
 **Q1.** With reference to VB-G RAM G, which of the following statements is/are correct?
 
@@ -427,15 +427,15 @@ The **National Bureau of Soil Survey and Land Use Planning** released India’s 
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are core locks. Trap variant: keeping “100 days” or shifting force date to 15 August.
+**Ans: D.** All three are core facts. Trap variant: keeping “100 days” or shifting force date to 15 August.
 
 </details>
 
@@ -451,9 +451,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -465,7 +465,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
-**Exam logic:** Census 2027 Phase-1 locks — digital + self-fill; Phase-2 timing.
+**Logic:** Census 2027 Phase-1 facts — digital + self-fill; Phase-2 timing.
 
 **Q3.** With reference to Census 2027, which of the following statements is/are correct?
 
@@ -474,9 +474,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -488,19 +488,19 @@ D. Only 1
 
 ---
 
-**Exam logic:** Scheme money / ministry-style incorrect statement.
+**Logic:** Scheme money / ministry-style incorrect statement.
 
 **Q4.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. SARTHAK-PDS — about ₹25,530 crore over five years  
-2. Modified UDAN (2026–36) — about ₹28,840 crore  
-3. Samudra Manthan — floating solar mission of about ₹5,070 crore  
+1. SARTHAK-PDS — about ₹25,530 crore over five years
+2. Modified UDAN (2026–36) — about ₹28,840 crore
+3. Samudra Manthan — floating solar mission of about ₹5,070 crore
 
 Select the correct answer from the code given below:
 
-A. Only 3  
-B. 1 and 2  
-C. 2 and 3  
+A. Only 3
+B. 1 and 2
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -512,7 +512,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** RELIEF vs farm subsidy confusion.
+**Logic:** RELIEF vs farm subsidy confusion.
 
 **Q5.** With reference to the RELIEF package announced in March 2026 coverage, which of the following statements is/are correct?
 
@@ -522,9 +522,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -536,7 +536,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Biopharma SHAKTI Budget scheme locks.
+**Logic:** Biopharma SHAKTI Budget scheme facts.
 
 **Q6.** With reference to Biopharma SHAKTI announced with the Union Budget 2026–27, which of the following statements is/are correct?
 
@@ -545,21 +545,21 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Money + institute counts. Trap: equating it with older PLI Pharma without the new ₹10,000 crore lock.
+**Ans: C.** Money + institute counts. Trap: equating it with older PLI Pharma without the new ₹10,000 crore fact.
 
 </details>
 
 ---
 
-**Exam logic:** Sampoornata Abhiyan 2.0 — NITI, dates, district/block counts.
+**Logic:** Sampoornata Abhiyan 2.0 — NITI, dates, district/block counts.
 
 **Q7.** With reference to Sampoornata Abhiyan 2.0, which of the following statements is/are correct?
 
@@ -569,21 +569,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are January scheme locks. Trap: putting the scheme under Ministry of Rural Development instead of NITI.
+**Ans: D.** All three are January scheme facts. Trap: putting the scheme under Ministry of Rural Development instead of NITI.
 
 </details>
 
 ---
 
-**Exam logic:** 16th Finance Commission chair + grants.
+**Logic:** 16th Finance Commission chair + grants.
 
 **Q8.** With reference to the 16th Finance Commission (Budget 2026–27 coverage), which of the following statements is/are correct?
 
@@ -592,9 +592,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -606,7 +606,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** IVFRT ministry + outlay period.
+**Logic:** IVFRT ministry + outlay period.
 
 **Q9.** With reference to the IVFRT scheme (2026–31 coverage), which of the following statements is/are correct?
 
@@ -616,9 +616,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -630,7 +630,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** NBS Kharif — fertiliser subsidy window.
+**Logic:** NBS Kharif — fertiliser subsidy window.
 
 **Q10.** With reference to Nutrient Based Subsidy for Kharif 2026, which of the following statements is/are correct?
 
@@ -640,9 +640,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -654,7 +654,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** ECLGS 5.0 credit target.
+**Logic:** ECLGS 5.0 credit target.
 
 **Q11.** With reference to ECLGS 5.0 (May 2026 Cabinet coverage), which of the following statements is/are correct?
 
@@ -664,9 +664,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -678,7 +678,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** PM-KISAN extension money + Khelo India.
+**Logic:** PM-KISAN extension money + Khelo India.
 
 **Q12.** With reference to the late-July 2026 Cabinet window, which of the following statements is/are correct?
 
@@ -688,23 +688,23 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Three separate Cabinet locks — do not merge names. Trap: attaching Surya Sarovar money to Samudra Manthan.
+**Ans: D.** Three separate Cabinet facts — do not merge names. Trap: attaching Surya Sarovar money to Samudra Manthan.
 
 </details>
 
 ---
 
-**Exam logic:** I-Day number locks cluster.
+**Logic:** I-Day number facts cluster.
 
-**Q13.** With reference to Independence Day 2026 number locks, which of the following statements is/are correct?
+**Q13.** With reference to Independence Day 2026 number facts, which of the following statements is/are correct?
 
 1. AI training target for youth locked at 1 crore.
 2. Lakhpati Didi target locked at 6 crore.
@@ -712,9 +712,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -726,7 +726,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** VB-G funding special category.
+**Logic:** VB-G funding special category.
 
 **Q14.** With reference to VB-G RAM G funding, which of the following statements is/are correct?
 
@@ -736,9 +736,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -750,19 +750,19 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** NOT matched — scheme ↔ ministry / nature.
+**Logic:** NOT matched — scheme ↔ ministry / nature.
 
 **Q15.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. SARTHAK-PDS — modernise foodgrain delivery logistics and tech  
-2. Samudra Manthan — National Offshore Exploration (oil & gas)  
-3. PM Surya Sarovar — deep-sea oil exploration till FY31  
+1. SARTHAK-PDS — modernise foodgrain delivery logistics and tech
+2. Samudra Manthan — National Offshore Exploration (oil & gas)
+3. PM Surya Sarovar — deep-sea oil exploration till FY31
 
 Select the correct answer from the code given below:
 
-A. Only 3  
-B. 1 and 2  
-C. 2 and 3  
+A. Only 3
+B. 1 and 2
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -774,7 +774,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Semicon 2.0 outlay vs ISM 1.0.
+**Logic:** Semicon 2.0 outlay vs ISM 1.0.
 
 **Q16.** With reference to Semicon 2.0 / ISM 2.0, which of the following statements is/are correct?
 
@@ -798,7 +798,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Sampoornata links ADP/ABP.
+**Logic:** Sampoornata links ADP/ABP.
 
 **Q17.** With reference to Sampoornata Abhiyan 2.0, which of the following statements is/are correct?
 
@@ -822,7 +822,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** PM-RKVY merger money.
+**Logic:** PM-RKVY merger money.
 
 **Q18.** With reference to the January farm-scheme merger idea into PM-RKVY, which of the following statements is/are correct?
 
@@ -846,7 +846,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Container Manufacturing + CCUS Budget cluster.
+**Logic:** Container Manufacturing + CCUS Budget cluster.
 
 **Q19.** Which of the following statements is/are correct for Budget 2026–27 scheme messaging?
 
@@ -870,7 +870,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Electronics Components Manufacturing raise.
+**Logic:** Electronics Components Manufacturing raise.
 
 **Q20.** With reference to Electronics Components Manufacturing (Budget 2026–27), which of the following statements is/are correct?
 

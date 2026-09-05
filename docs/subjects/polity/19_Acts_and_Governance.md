@@ -10,14 +10,14 @@
 
 </details>
 
-> **Sources baked in:** Laxmikanth (statutory rights / governance), named Acts, DARPG / 2nd ARC / Digital India / NPCSCB, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ — MKSS→**RTI** (2019); NDMA=**PM** (2021); NFSA **75/50** (2019/24); PESA **1996** (2022); Wages Code **not** Contract Labour (2021); ICT e-gov **cuts cost + raises citizen input, not red-tape** (2024); **Adi Karmayogi = MoTA** not DoPT (2025)  
-> **Last verified:** August 2026  
+> **Sources baked in:** Laxmikanth (statutory rights / governance), named Acts, DARPG / 2nd ARC / Digital India / NPCSCB, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ — MKSS→**RTI** (2019); NDMA=**PM** (2021); NFSA **75/50** (2019/24); PESA **1996** (2022); Wages Code **not** Contract Labour (2021); ICT e-gov **cuts cost + raises citizen input, not red-tape** (2024); **Adi Karmayogi = MoTA** not DoPT (2025)
+> **Last verified:** August 2026
 > **Current Affairs:** Digital India **2015** / e-Kranti 44 MMPs; Mission Karmayogi **2020** + CBC **2021**; Adi Karmayogi **June 2025 MoTA**; lateral-entry reservation debate **2024**; Good Governance Day **25 Dec**
 
 ---
 
-## Consolidated — 32 Must-Score Locks
+## Consolidated — 32 Must-Score Facts
 
 1. Under the Disaster Management Act **2005**, the **NDMA** is chaired by the **Prime Minister**, the **SDMA** by the **Chief Minister**, and the **DDMA** by the **District Magistrate**. The **NEC** is chaired by the **Cabinet Secretary**. The nodal ministry is **Home**.
 2. **NDRF** as a **force** is not the same as the National Disaster **Response Fund**. Do not swap the two.
@@ -38,7 +38,7 @@
 17. **RPA 1950** covers electoral rolls and seat allocation. **RPA 1951** covers conduct of elections, election petitions, and party registration under section **29A**.
 18. E-governance modes are **G2C, G2B, G2G, and G2E**. NeGP (**2006**) grew into Digital India’s **e-Kranti** pillar. ICT should **cut cost** and **raise citizen input**, not increase red tape.
 19. Citizen Charters began in the UK (**1991**, John Major). India’s Action Plan is **1997** (DARPG). A charter is a **promise document**, not a justiciable Union statute. Right-to-service laws (Madhya Pradesh **2010**, UP Janhit Guarantee **2011**) are **State statutes** with officer liability.
-20. Good Governance Day is **25 December** (Atal Bihari Vajpayee) from **2014**. UNDP’s eight principles and the World Bank’s 1990s framing are the usual theory locks.
+20. Good Governance Day is **25 December** (Atal Bihari Vajpayee) from **2014**. UNDP’s eight principles and the World Bank’s 1990s framing are the usual theory facts.
 21. **Transparency** is not the same as **accountability**. Social audit under MGNREGA section **17** is Gram Sabha-led. Meghalaya (**2017**) passed the first State social-audit Act. Social audit is **not** a CAG audit.
 22. **Sevottam** (**2006**, DARPG) has three modules: Citizen Charter, Grievance Redress, and Capability Building. It uses the Charter; it is not merely another name for the Charter.
 23. Digital India launched on **1 July 2015** under **MeitY**, with three vision areas and **nine** pillars. **e-Kranti** is pillar **5**. Neighbours include UMANG (**2017**), DigiLocker, BharatNet, CSCs, GeM (**2016**), and MyGov (**2014**).
@@ -48,13 +48,13 @@
 27. Lateral entry (from **2018**) brings specialists at Joint Secretary level on short contracts through DoPT/UPSC. It supplements, and does not replace, the civil services examination stream.
 28. The **Second ARC** (Veerappa Moily, **2005–09**) issued **15** reports. Report **4** is Ethics; **11** is e-Governance; **12** is citizen-centric administration / Sevottam. The **First ARC** (Morarji Desai, then Hanumanthaiah, **1966–70**) issued **20** reports and recommended a Lokpal.
 29. **PRAGATI** (**25 March 2015**) is a PMO ICT review platform. It is **not** a Digital India pillar. **CPGRAMS** (DARPG) is not the same as the older Cabinet Secretariat **DPG** window (**1988**).
-30. ECO Mark (**1991**) is an **environment** label for products. Do not treat it as a consumer-forum hierarchy lock under CPA 2019.
+30. ECO Mark (**1991**) is an **environment** label for products. Do not treat it as a consumer-forum hierarchy fact under CPA 2019.
 31. POSH **2013** is workplace sexual harassment (Internal Committee if **ten or more** workers). POCSO **2012** is child sexual offences under **eighteen**. Keep the two Acts apart.
 32. The Environment (Protection) Act **1986** is the umbrella environment statute. The National Green Tribunal Act **2010** creates the green tribunal. Match the year to the institution, not the slogan.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|
@@ -101,7 +101,7 @@ This chapter is about **which Act, which year, and which coverage trap** — plu
 
 **Post-2004 tsunami statute.** Nodal ministry is the **MHA**. It is a statutory Act, not a constitutional provision.
 
-- The **NDMA** is chaired by the **Prime Minister** (2021 exam lock) — never the Home Minister.
+- The **NDMA** is chaired by the **Prime Minister** (2021 key fact) — never the Home Minister.
 - It also has a Vice-Chairperson and up to **9** other members, all nominated by the PM.
 - The **SDMA** is chaired by the **Chief Minister**, and every State **shall** constitute one.
 - The **DDMA** is chaired by the **District Magistrate**, with the elected local head sitting as co-chairperson.
@@ -214,8 +214,8 @@ D. National Health Mission (NHM)
 
 With reference to “National Food Security Act”, which of the following statements are correct?
 
-1. It will cover up to 75% rural and 50% urban population.  
-2. It has special focus on nutritional support to women and children.  
+1. It will cover up to 75% rural and 50% urban population.
+2. It has special focus on nutritional support to women and children.
 3. It was enforced on July 5, 2010.
 
 A. 2 and 3
@@ -234,8 +234,8 @@ D. 1 and 2
 
 With reference to the National Food Security Act, which of the following statements is/are correct?
 
-I. It will cover upto 75 percent rural and 50 percent urban population.  
-II. Special focus on nutritional support to women and children.  
+I. It will cover upto 75 percent rural and 50 percent urban population.
+II. Special focus on nutritional support to women and children.
 III. Eldest woman of above 18 years age will be head of household.
 
 A. I and II
@@ -316,9 +316,7 @@ D. Imported goods
 
 </details>
 
-**PYQ — UPPCS Prelims 2025, Q137**
-
-**Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).  
+**PYQ — UPPCS Prelims 2025, Q137Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).
 
 **Reason (R):** MRP is the price above which a seller cannot charge a buyer.
 
@@ -432,7 +430,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - It carries forward equal remuneration (no gender wage discrimination), timely payment of wages, and bonus eligibility as earlier provided.
 - The **Industrial Relations Code, 2020** absorbed the Industrial Disputes Act, the Trade Unions Act, and the Industrial Employment (Standing Orders) Act.
 - Standing orders now apply only to establishments with **300 or more** workers, up from **100** earlier.
-- Any strike or lock-out now requires a **14-day** notice in any establishment.
+- Any strike or fact-out now requires a **14-day** notice in any establishment.
 - The Code also allows **fixed-term employment**.
 - The **OSH & Working Conditions Code, 2020** absorbed the Factories Act, the **Contract Labour Act**, the Mines Act, and the Inter-State Migrant Workmen Act.
 - It allows women to work night shifts **with their consent and adequate safety measures**.
@@ -446,7 +444,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which of the following labour related Acts have been amalgamated into the ‘Code on Wages, 2019’?
 
-I. Minimum Wages Act  II. Payment of Bonus Act  III. The Contract Labour Act  IV. Equal Remuneration Act
+I. Minimum Wages Act II. Payment of Bonus Act III. The Contract Labour Act IV. Equal Remuneration Act
 
 A. I and II only
 B. II and III only
@@ -482,7 +480,7 @@ If a paper mixes “important Acts”: Regulating **1773** · Pitt **1784** · C
 
 ## Important Acts — raata (catch-all syllabus bullet)
 
-**Learn each Act with its year and one clean lock.** The **UAPA** is tried through the ordinary criminal-trial route, and the **AFSPA** applies only to a notified "disturbed area". The **Official Language Act, 1963** is why English continues alongside Hindi.
+**Learn each Act with its year and one clean fact.** The **UAPA** is tried through the ordinary criminal-trial route, and the **AFSPA** applies only to a notified "disturbed area". The **Official Language Act, 1963** is why English continues alongside Hindi.
 
 - The **Epidemic Diseases Act, 1897** is still in force — COVID-19 was handled using this Act **plus** the Disaster Management Act, **2005**, so remember these are two separate statutes.
 - The **Official Secrets Act, 1923** was **not repealed** by the RTI Act; RTI's **s.22** only overrides it to the extent of any inconsistency.
@@ -494,7 +492,7 @@ If a paper mixes “important Acts”: Regulating **1773** · Pitt **1784** · C
 - The **Air (Prevention and Control of Pollution) Act, 1981** came after the Water Act of 1974.
 - The **Environment (Protection) Act, 1986** is the umbrella environmental law passed after the **Bhopal gas tragedy**, and it lets the Centre frame rules to fill any residual gap.
 - The **Child Labour (Prohibition and Regulation) Act, 1986**, as amended in **2016**, bans employing a child under **14** in any occupation, and bans employing an adolescent aged 14–18 in hazardous occupations.
-- **MGNREGA, 2005** guarantees **100 days** of wage employment; while MKSS is sometimes linked to it as an option, MKSS's **primary** exam lock remains **RTI**.
+- **MGNREGA, 2005** guarantees **100 days** of wage employment; while MKSS is sometimes linked to it as an option, MKSS's **primary** key fact remains **RTI**.
 - The **Protection of Women from Domestic Violence Act, 2005** gives civil-law protection to women in a domestic relationship.
 - Under the **Prohibition of Child Marriage Act, 2006**, a "child" is a boy below **21** or a girl below **18**.
 - The **Maintenance and Welfare of Parents and Senior Citizens Act, 2007** sets up a tribunal to enforce maintenance by children or relatives.
@@ -571,9 +569,9 @@ E-Governance is the use of ICT to make government **SMART** — **S**imple, **M*
 
 Which of the following statements are correct regarding ICT based e-Governance?
 
-1. e-Governance reduces the transparency of Government.  
-2. e-Governance reduces the cost of Government.  
-3. e-Governance increases citizens' input into Government.  
+1. e-Governance reduces the transparency of Government.
+2. e-Governance reduces the cost of Government.
+3. e-Governance increases citizens' input into Government.
 4. e-Governance increases bureaucratic red-tapism.
 
 A. 2 and 4
@@ -678,7 +676,7 @@ A social audit is where people — usually the Gram Sabha — verify whether a s
 - The first Indian **State Act** on social audit was **Meghalaya's Social Audit Act, 2017** — Andhra Pradesh's effort was older but was only a *society* and *practice*, not the first statute.
 - Andhra Pradesh's **Society for Social Audit, Accountability and Transparency** pioneered the **implementation** of social audits, even though it was not the first Act.
 - Social-audit clauses also exist under NFSA and other schemes — do **not** write that social audit applies "only under MGNREGA".
-- The practice traces back to the **MKSS jan sunwai** movement in Rajasthan in the 1990s, the same movement behind RTI — papers still mark MKSS as the **RTI** lock for 2019.
+- The practice traces back to the **MKSS jan sunwai** movement in Rajasthan in the 1990s, the same movement behind RTI — papers still mark MKSS as the **RTI** fact for 2019.
 - A **Social Audit Unit (SAU)** must be **independent** of the department implementing the scheme.
 - The **Ministry of Rural Development** runs a national social-audit office with NIRDPR support, and the **CAG** has framed social-audit **standards** — but that still does not make it a CAG audit.
 
@@ -718,9 +716,9 @@ Digital India was launched on **1 July 2015**, with **MeitY** as its nodal minis
 
 **Three vision areas**
 
-1. Digital **infrastructure** as a utility to every citizen  
-2. Governance and services **on demand**  
-3. Digital **empowerment** of citizens  
+1. Digital **infrastructure** as a utility to every citizen
+2. Governance and services **on demand**
+3. Digital **empowerment** of citizens
 
 **Nine pillars** (order is asked)
 
@@ -860,7 +858,7 @@ The **1997** Conference of Chief Ministers also floated a draft Code of Ethics, 
 | When | **1966–70** | Constituted **31 Aug 2005** · reports till **2009** |
 | Volume | **20** reports | **15** reports |
 
-**Fifteen 2nd-ARC reports — one lock each**
+**Fifteen 2nd-ARC reports — one fact each**
 
 1. Report 1, **Right to Information**, called RTI the "master key" and pushed for official-secrets reform.
 2. Report 2, **Unlocking Human Capital**, made the case for NREGA and other entitlement schemes.
@@ -895,7 +893,7 @@ The **1997** Conference of Chief Ministers also floated a draft Code of Ethics, 
 
 - On the **Citizen Charter**, it wanted measurable standards backed by **compensation** if a service fails.
 - On **e-Governance**, it wanted MMPs and CSCs to actually **re-engineer processes**, not just "scan the paper file".
-- On **personnel**, it wanted domain assignment, a mid-career exam, and **lateral** entry of specialists.
+- On **personnel**, it wanted domain assignment, a mid-career, and **lateral** entry of specialists.
 - On **ethics**, it wanted a Code of Ethics kept **separate** from the Conduct Rules, with action against collusive bribery.
 - On **RTI**, it wanted the Official Secrets Act to yield to RTI, with suo motu disclosure coming first.
 - On **social audit**, it wanted flagship schemes to be audited by an independent Social Audit Unit.
@@ -997,9 +995,9 @@ D. Defence Minister
 </details>
 
 **Q3.** With reference to NFSA, which of the following is/are correct?
-1. Coverage up to 75% rural and 50% urban.  
-2. Eldest woman of 18 years or above is head of the household.  
-3. It was enforced on 5 July 2010.  
+1. Coverage up to 75% rural and 50% urban.
+2. Eldest woman of 18 years or above is head of the household.
+3. It was enforced on 5 July 2010.
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -1026,7 +1024,7 @@ D. 1998
 </details>
 
 **Q5.** Code on Wages, 2019 amalgamated which of the following?
-I. Minimum Wages Act  II. Payment of Bonus Act  III. Contract Labour Act  IV. Equal Remuneration Act  
+I. Minimum Wages Act II. Payment of Bonus Act III. Contract Labour Act IV. Equal Remuneration Act
 A. I and II only
 B. II and III only
 C. I, II and IV only
@@ -1112,11 +1110,9 @@ D. Imports
 
 </details>
 
-**Q10.**
+**Q10.Assertion (A):** Consumers may bargain below MRP.
 
-**Assertion (A):** Consumers may bargain below MRP.
-
-**Reason (R):** MRP is a ceiling — the seller cannot charge more.  
+**Reason (R):** MRP is a ceiling — the seller cannot charge more.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1156,8 +1152,8 @@ D. 90 days
 </details>
 
 **Q13.** Which of the following is/are correct about PESA?
-1. It extends Part IX to Fifth Schedule areas.  
-2. It automatically applies to Sixth Schedule areas.  
+1. It extends Part IX to Fifth Schedule areas.
+2. It automatically applies to Sixth Schedule areas.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1278,8 +1274,8 @@ D. 10 December
 </details>
 
 **Q22.** Consider the following statements:
-1. RTI Amendment 2019 fixed CIC tenure as 5 years equal to the CEC.  
-2. CIC is a constitutional body.  
+1. RTI Amendment 2019 fixed CIC tenure as 5 years equal to the CEC.
+2. CIC is a constitutional body.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1337,11 +1333,9 @@ D. A-1, B-2, C-3
 
 </details>
 
-**Q25.**
+**Q25.Assertion (A):** The Disaster Management Division is in MHA.
 
-**Assertion (A):** The Disaster Management Division is in MHA.
-
-**Reason (R):** Therefore the Home Minister chairs NDMA.  
+**Reason (R):** Therefore the Home Minister chairs NDMA.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1368,8 +1362,8 @@ D. PC Act
 </details>
 
 **Q27.** Which of the following is/are correct?
-1. Giving a bribe is an offence after the 2018 PC Act amendment.  
-2. Lokpal Act and PC Act are the same statute.  
+1. Giving a bribe is an offence after the 2018 PC Act amendment.
+2. Lokpal Act and PC Act are the same statute.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1421,7 +1415,7 @@ D. Accountability
 
 </details>
 
-**Q31.** Arrange the following in chronological order: I RTI Act  II RTE Act in force  III NFSA  IV CPA 2019
+**Q31.** Arrange the following in chronological order: I RTI Act II RTE Act in force III NFSA IV CPA 2019
 A. I, II, III, IV
 B. I, III, II, IV
 C. II, I, III, IV
@@ -1474,8 +1468,8 @@ D. FRA
 </details>
 
 **Q35.** Consider the following statements:
-1. GOI Act 1935 is a pre-Independence constitutional statute, not a post-1950 “Important Act” of this chapter.  
-2. Citizenship Act 1955 is the working law under Article 11.  
+1. GOI Act 1935 is a pre-Independence constitutional statute, not a post-1950 “Important Act” of this chapter.
+2. Citizenship Act 1955 is the working law under Article 11.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1502,8 +1496,8 @@ D. NDMA cell
 </details>
 
 **Q37.** Which of the following statements is/are correct?
-1. PCR Act 1955 and PoA Act 1989 are the same.  
-2. PoA is the heavier atrocities statute.  
+1. PCR Act 1955 and PoA Act 1989 are the same.
+2. PoA is the heavier atrocities statute.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1581,11 +1575,9 @@ D. Unlimited
 
 </details>
 
-**Q43.**
+**Q43.Assertion (A):** PESA does not apply to Nagaland.
 
-**Assertion (A):** PESA does not apply to Nagaland.
-
-**Reason (R):** Nagaland is a Fifth Schedule State.  
+**Reason (R):** Nagaland is a Fifth Schedule State.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1612,8 +1604,8 @@ D. Creates NDMA
 </details>
 
 **Q45.** Which of the following is/are correct?
-1. Four labour codes have replaced a large cluster of old labour Acts.  
-2. They are all fully enforced in every State on a single 2019 date.  
+1. Four labour codes have replaced a large cluster of old labour Acts.
+2. They are all fully enforced in every State on a single 2019 date.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1640,9 +1632,9 @@ D. Free for everyone including companies
 </details>
 
 **Q47.** Consider the following statements:
-1. First RTI appeal lies within 30 days of the PIO’s reply.  
-2. Second appeal to CIC/SIC lies within 90 days.  
-3. RTI repealed the Official Secrets Act.  
+1. First RTI appeal lies within 30 days of the PIO’s reply.
+2. Second appeal to CIC/SIC lies within 90 days.
+3. RTI repealed the Official Secrets Act.
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -1670,7 +1662,7 @@ D. RTE age — 3–18
 
 **Q49.** The 2019 amendment to the RTE Act allows a State to which of the following?
 A. Drop 21A
-B. Detain in Classes **5 and 8** after exam + re-test
+B. Detain in Classes **5 and 8** after + re-test
 C. Raise the age to 18
 D. Scrap the 25% quota
 
@@ -1726,11 +1718,9 @@ D. A-3, B-2, C-1
 
 </details>
 
-**Q52.**
+**Q52.Assertion (A):** COVID response used the Disaster Management Act.
 
-**Assertion (A):** COVID response used the Disaster Management Act.
-
-**Reason (R):** The Epidemic Diseases Act, 1897 was repealed in 2005.  
+**Reason (R):** The Epidemic Diseases Act, 1897 was repealed in 2005.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1743,7 +1733,7 @@ D. A false R true
 
 </details>
 
-**Q53.** Arrange the following in chronological order: I Water Act  II Air Act  III Environment (Protection) Act  IV NGT Act
+**Q53.** Arrange the following in chronological order: I Water Act II Air Act III Environment (Protection) Act IV NGT Act
 A. I, II, III, IV
 B. II, I, III, IV
 C. I, III, II, IV
@@ -1770,8 +1760,8 @@ D. Only government offices
 </details>
 
 **Q55.** Which of the following is/are correct?
-1. RPwD Act 2016 replaced the PWD Act 1995.  
-2. Benchmark disability reservation is 4% (was 3%).  
+1. RPwD Act 2016 replaced the PWD Act 1995.
+2. Benchmark disability reservation is 4% (was 3%).
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1824,8 +1814,8 @@ D. 1000 workers
 </details>
 
 **Q59.** Consider the following statements:
-1. FCRA 2010 (2020 Amd) caps administrative use of foreign contribution at 20%.  
-2. IT Act s.66A is still good law.  
+1. FCRA 2010 (2020 Amd) caps administrative use of foreign contribution at 20%.
+2. IT Act s.66A is still good law.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1852,10 +1842,10 @@ D. National Consumer Day — 15 March
 </details>
 
 **Q61.** Which of the following statements are correct regarding ICT-based e-Governance?
-1. It reduces the transparency of government.  
-2. It reduces the cost of government.  
-3. It increases citizens’ input into government.  
-4. It increases bureaucratic red-tapism.  
+1. It reduces the transparency of government.
+2. It reduces the cost of government.
+3. It increases citizens’ input into government.
+4. It increases bureaucratic red-tapism.
 A. 2 and 4
 B. 2 and 3
 C. 1, 2 and 3
@@ -1869,9 +1859,9 @@ D. 2, 3 and 4
 </details>
 
 **Q62.** SMART governance expands as which of the following?
-A. Simple, Moral, Accountable, Responsive, Transparent  
-B. Swift, Mobile, Aadhaar, RTI, Telecom  
-C. State, Ministry, ARC, Rule, Tribunal  
+A. Simple, Moral, Accountable, Responsive, Transparent
+B. Swift, Mobile, Aadhaar, RTI, Telecom
+C. State, Ministry, ARC, Rule, Tribunal
 D. Social, MGNREGA, Audit, Ration, Tax
 
 <details>
@@ -1953,8 +1943,8 @@ D. 2nd ARC 2005 as the first ever Charter
 </details>
 
 **Q67.** Consider the following statements:
-1. A Citizen Charter in India is generally not a justiciable statute.  
-2. DARPG is the Union nodal department for Charters.  
+1. A Citizen Charter in India is generally not a justiciable statute.
+2. DARPG is the Union nodal department for Charters.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2220,11 +2210,9 @@ D. Home
 
 </details>
 
-**Q86.**
+**Q86.Assertion (A):** Civil servants must be politically neutral.
 
-**Assertion (A):** Civil servants must be politically neutral.
-
-**Reason (R):** The Constitution uses the phrase “committed bureaucracy” in Part XIV.  
+**Reason (R):** The Constitution uses the phrase “committed bureaucracy” in Part XIV.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2251,8 +2239,8 @@ D. 2020
 </details>
 
 **Q88.** Code of Conduct vs Code of Ethics — which is correct?
-1. Conduct Rules are enforceable disciplinary law.  
-2. 2nd ARC’s 4th report wanted a separate Code of Ethics.  
+1. Conduct Rules are enforceable disciplinary law.
+2. 2nd ARC’s 4th report wanted a separate Code of Ethics.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2305,8 +2293,8 @@ D. 2025
 </details>
 
 **Q92.** Consider the following statements:
-1. Lateral-entry posts are filled through UPSC as contract specialists.  
-2. Lateral entry abolished the Civil Services Examination.  
+1. Lateral-entry posts are filled through UPSC as contract specialists.
+2. Lateral entry abolished the Civil Services Examination.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2403,7 +2391,7 @@ D. 2020
 
 </details>
 
-**Q98.** Arrange the following in chronological order: I Citizen Charter UK  II NeGP  III Digital India  IV Mission Karmayogi
+**Q98.** Arrange the following in chronological order: I Citizen Charter UK II NeGP III Digital India IV Mission Karmayogi
 A. I, II, III, IV
 B. II, I, III, IV
 C. I, III, II, IV
@@ -2429,11 +2417,9 @@ D. MeitY — Adi Karmayogi 2025
 
 </details>
 
-**Q100.**
+**Q100.Assertion (A):** Sevottam uses the Citizen Charter as one module.
 
-**Assertion (A):** Sevottam uses the Citizen Charter as one module.
-
-**Reason (R):** Therefore the Charter became a fundamental right in 2006.  
+**Reason (R):** Therefore the Charter became a fundamental right in 2006.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2460,8 +2446,8 @@ D. 2nd ARC secretariat
 </details>
 
 **Q102.** Which of the following is/are correct?
-1. CSC kiosks are typically run by a VLE.  
-2. BharatNet aims fibre connectivity to Gram Panchayats.  
+1. CSC kiosks are typically run by a VLE.
+2. BharatNet aims fibre connectivity to Gram Panchayats.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2501,8 +2487,8 @@ D. 2nd ARC 4th — Labour Codes
 </details>
 
 **Q105.** Consider the following statements:
-1. Transparency and accountability are the same UNDP box.  
-2. RTI s.4 suo motu disclosure is a transparency tool.  
+1. Transparency and accountability are the same UNDP box.
+2. RTI s.4 suo motu disclosure is a transparency tool.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2568,8 +2554,8 @@ D. PESA 1996
 </details>
 
 **Q110.** Consider the following statements:
-1. A Citizen Charter is ordinarily not justiciable.  
-2. UP Janhit Guarantee Adhiniyam, 2011 can penalise the designated officer for delay.  
+1. A Citizen Charter is ordinarily not justiciable.
+2. UP Janhit Guarantee Adhiniyam, 2011 can penalise the designated officer for delay.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2654,8 +2640,8 @@ D. NeGP, DI, Smart Cities
 </details>
 
 **Q115.** CCS (Conduct) Rules 1964 vs CCS (CCA) Rules 1965 — which is correct?
-1. 1964 = behavioural do’s/don’ts (integrity, politics, gifts).  
-2. 1965 = disciplinary procedure.  
+1. 1964 = behavioural do’s/don’ts (integrity, politics, gifts).
+2. 1965 = disciplinary procedure.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2681,11 +2667,9 @@ D. Rule 18
 
 </details>
 
-**Q117.**
+**Q117.Assertion (A):** First ARC recommended a Lokpal.
 
-**Assertion (A):** First ARC recommended a Lokpal.
-
-**Reason (R):** Therefore the Lokpal Act was passed in 1966.  
+**Reason (R):** Therefore the Lokpal Act was passed in 1966.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2743,8 +2727,8 @@ D. Adi Karmayogi 2025 — DoPT
 
 ### 2025
 
-**Q1. UPPCS Prelims 2025, Q15**  
-Which of the following is/are NOT a dimension of food security?  
+**Q1. UPPCS Prelims 2025, Q15**
+Which of the following is/are NOT a dimension of food security?
 1. Availability
 2. Accessibility
 3. Affordability
@@ -2761,10 +2745,9 @@ D. Only 1
 
 </details>
 
-**Q2. UPPCS Prelims 2025, Q137**  
-**Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).  
+**Q2. UPPCS Prelims 2025, Q137Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).
 
-**Reason (R):** MRP is the price above which a seller cannot charge a buyer.  
+**Reason (R):** MRP is the price above which a seller cannot charge a buyer.
 A. Both true, R not explanation
 B. A false R true
 C. A true R false
@@ -2777,8 +2760,8 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 </details>
 
-**Q2a. UPPCS Prelims 2025, Q29**  
-Adi Karmayogi Beta Version (June 2025) launched by which Ministry?  
+**Q2a. UPPCS Prelims 2025, Q29**
+Adi Karmayogi Beta Version (June 2025) launched by which Ministry?
 1. AYUSH
 2. WCD
 3. Social Justice
@@ -2797,8 +2780,8 @@ D. Only 1
 
 ### 2024
 
-**Q3. UPPCS Prelims 2024, Q118**  
-NFSA: (1) 75% rural 50% urban (2) nutrition focus women/children (3) enforced 5 July 2010  
+**Q3. UPPCS Prelims 2024, Q118**
+NFSA: (1) 75% rural 50% urban (2) nutrition focus women/children (3) enforced 5 July 2010
 A. 2 and 3
 B. 1 and 3
 C. 1, 2 and 3
@@ -2811,8 +2794,8 @@ D. 1 and 2
 
 </details>
 
-**Q3a. UPPCS Prelims 2024, Q123**  
-ICT-based e-Governance: (1) reduces transparency (2) reduces cost (3) increases citizens’ input (4) increases red-tapism  
+**Q3a. UPPCS Prelims 2024, Q123**
+ICT-based e-Governance: (1) reduces transparency (2) reduces cost (3) increases citizens’ input (4) increases red-tapism
 A. 2 and 4
 B. 2 and 3
 C. 1, 2 and 3
@@ -2827,8 +2810,8 @@ D. 2, 3 and 4
 
 ### 2022
 
-**Q4. UPPCS Prelims 2022, Q67**  
-When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?  
+**Q4. UPPCS Prelims 2022, Q67**
+When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
 A. 1998
 B. 1996
 C. 1995
@@ -2843,8 +2826,8 @@ D. 1993
 
 ### 2021
 
-**Q5. UPPCS Prelims 2021, Q7**  
-The symbol ‘ECOMARC’ is related to—  
+**Q5. UPPCS Prelims 2021, Q7**
+The symbol ‘ECOMARC’ is related to—
 A. Goods of best quality
 B. Safe goods for environment
 C. Exported goods
@@ -2857,8 +2840,8 @@ D. Imported goods
 
 </details>
 
-**Q6. UPPCS Prelims 2021, Q26**  
-Ex-officio Chairman of NDMA?  
+**Q6. UPPCS Prelims 2021, Q26**
+Ex-officio Chairman of NDMA?
 A. Prime Minister
 B. Home Minister
 C. Defence Minister
@@ -2871,8 +2854,8 @@ D. Health Minister
 
 </details>
 
-**Q7. UPPCS Prelims 2021, Q72**  
-Code on Wages 2019 amalgamated: I Minimum Wages  II Payment of Bonus  III Contract Labour  IV Equal Remuneration  
+**Q7. UPPCS Prelims 2021, Q72**
+Code on Wages 2019 amalgamated: I Minimum Wages II Payment of Bonus III Contract Labour IV Equal Remuneration
 A. I and II
 B. II and III
 C. I, II and IV
@@ -2885,8 +2868,8 @@ D. All four
 
 </details>
 
-**Q7a. UPPCS Prelims 2021, Q23**  
-P.C. Hota Committee on Civil Services Reforms was constituted in—  
+**Q7a. UPPCS Prelims 2021, Q23**
+P.C. Hota Committee on Civil Services Reforms was constituted in—
 A. 2003
 B. 2004
 C. 2005
@@ -2901,8 +2884,8 @@ D. 2006
 
 ### 2019
 
-**Q8. UPPCS Prelims 2019, Q73**  
-NFSA: I 75/50  II nutrition women/children  III eldest woman ≥18 head  
+**Q8. UPPCS Prelims 2019, Q73**
+NFSA: I 75/50 II nutrition women/children III eldest woman ≥18 head
 A. I and II
 B. II and III
 C. I, II and III
@@ -2915,8 +2898,8 @@ D. None
 
 </details>
 
-**Q9. UPPCS Prelims 2019, Q100**  
-MKSS associated with—  
+**Q9. UPPCS Prelims 2019, Q100**
+MKSS associated with—
 A. RTE Act
 B. RTI Act
 C. MGNREGA
@@ -2933,4 +2916,4 @@ D. NHM
 
 ## Mains link (one frame)
 
-Rights on paper become usable only when a **statute** names the duty-holder — as **RTI, RTE, NFSA,** and **FRA** each do — and when delivery is actually **SMART**: a Citizen Charter, the Sevottam model, CPGRAMS, Digital India's nine pillars, and a **neutral** steel frame of civil servants under Mission Karmayogi and the Conduct Rules. Close the answer with the key locks: the **NDMA is chaired by the PM**; **PESA (1996)** applies to Fifth Schedule areas; **e-governance cuts cost and raises citizen voice**, rather than adding red-tape; and **Adi Karmayogi** belongs to the **Ministry of Tribal Affairs**.
+Rights on paper become usable only when a **statute** names the duty-holder — as **RTI, RTE, NFSA,** and **FRA** each do — and when delivery is actually **SMART**: a Citizen Charter, the Sevottam model, CPGRAMS, Digital India's nine pillars, and a **neutral** steel frame of civil servants under Mission Karmayogi and the Conduct Rules. Close the answer with the key facts: the **NDMA is chaired by the PM**; **PESA (1996)** applies to Fifth Schedule areas; **e-governance cuts cost and raises citizen voice**, rather than adding red-tape; and **Adi Karmayogi** belongs to the **Ministry of Tribal Affairs**.

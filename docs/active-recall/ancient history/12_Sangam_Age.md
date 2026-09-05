@@ -193,7 +193,7 @@ Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
 
 ## Trade
 
-**Q17.** What is the exam lock for **Muziris**?
+**Q17.** What is the key fact for **Muziris**?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -203,7 +203,7 @@ Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
 </details>
 
 
-**Q18.** What is the exam lock for **Puhar**?
+**Q18.** What is the key fact for **Puhar**?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -213,7 +213,7 @@ Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
 </details>
 
 
-**Q19.** What is the exam lock for **Arikamedu**?
+**Q19.** What is the key fact for **Arikamedu**?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -336,7 +336,7 @@ Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
 <details markdown="1">
 <summary>Show answer</summary>
 
-Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill favourite. Brahmanical cults are present. **Jain** and **Buddhist** currents reach Tamilakam (*Manimekalai* is the Buddhist lock). Do not read this as a later Chola temple state.
+Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill favourite. Brahmanical cults are present. **Jain** and **Buddhist** currents reach Tamilakam (*Manimekalai* is the Buddhist fact). Do not read this as a later Chola temple state.
 
 </details>
 
@@ -344,7 +344,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 ## Rapid fire
 
-**Q31.** From memory, link each Sangam prompt to its lock:
+**Q31.** From memory, link each Sangam prompt to its fact:
 
 | Recall item |
 |-------------|
@@ -362,7 +362,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Prompt | Lock |
+| Prompt | Fact |
 |--------|------|
 | Muvendar | **Chera, Chola, Pandya** |
 | Capitals | **Vanji · Uraiyur · Madurai** |
@@ -402,7 +402,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 ---
 
-## Extra locks
+## Extra facts
 
 **Q33.** Which fifteen facts form the core Sangam UPPCS packet?
 
@@ -454,7 +454,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** Tradition places **three poet-assemblies** at Madurai; the first two are **mythical / lost**. Surviving anthologies belong to the **Third Sangam** layer — the exam corpus is those poems, not the legend alone.
+**Ans:** Tradition places **three poet-assemblies** at Madurai; the first two are **mythical / lost**. Surviving anthologies belong to the **Third Sangam** layer — the corpus is those poems, not the legend alone.
 
 </details>
 

@@ -8,9 +8,9 @@ Articles | Parts | Schedules | Constitutional Bodies | Statutory Bodies | Import
 
 </details>
 
-> **Sources baked in:** Arts. 76 / 148 / 165 / 243I–K / 279A / 280 / 315 / 324 / 338–338B / 350B, Lokpal 2013, PHRA 1993, CVC 2003, RTI 2005, RPA, UPPCS 2018–2025  
-> **Exam weight:** ★★★ — NCBC **338B not 340** (2024); ISC = **Sarkaria 1990 not Punchhi** (2021); Zero Hour = **after** Question Hour (2021); Money Bill = **110** not 109 (2019); *Navtej* = **s.377 IPC** not Art. 377 (2018); UPPSC extend = **Legislature** (2021)  
-> **Last verified:** August 2026  
+> **Sources baked in:** Arts. 76 / 148 / 165 / 243I–K / 279A / 280 / 315 / 324 / 338–338B / 350B, Lokpal 2013, PHRA 1993, CVC 2003, RTI 2005, RPA, UPPCS 2018–2025
+> **Weight:** ★★★ — NCBC **338B not 340** (2024); ISC = **Sarkaria 1990 not Punchhi** (2021); Zero Hour = **after** Question Hour (2021); Money Bill = **110** not 109 (2019); *Navtej* = **s.377 IPC** not Art. 377 (2018); UPPSC extend = **Legislature** (2021)
+> **Last verified:** August 2026
 > **Current Affairs:** CEC 2023 panel = PM + LoP LS + Cabinet Minister (**CJI out**). NITI still **executive**. 106th women seats wait delimitation. Noida ≠ Nagar Nigam
 
 ---
@@ -19,47 +19,47 @@ Articles | Parts | Schedules | Constitutional Bodies | Statutory Bodies | Import
 
 ```
 PARTS: III=FR · IV=DPSP · IVA=Duties · V=Union · VI=States · VIII=UTs
-  IX / IXA / IXB = Panchayats / Municipalities / Cooperatives
-  X=Scheduled & Tribal Areas · XI=Union–State (NOT municipalities/tribunals)
-  XIVA=Tribunals · XV=Elections · XVIII=Emergency · XX=Amendment · XXI=371-series
-  VII=repealed. Count = 25 Parts (lettered ones included). Original 1950 = 22.
+ IX / IXA / IXB = Panchayats / Municipalities / Cooperatives
+ X=Scheduled & Tribal Areas · XI=Union–State (NOT municipalities/tribunals)
+ XIVA=Tribunals · XV=Elections · XVIII=Emergency · XX=Amendment · XXI=371-series
+ VII=repealed. Count = 25 Parts (lettered ones included). Original 1950 = 22.
 
 SCHEDULES (1→12): Territories · Emoluments · Oaths · RS seats · 5th Areas/STs · 6th AMTM
-  · Lists · 22 languages · 9th validation (1st Amd) · 10th defection (52nd) · 11th=29 · 12th=18
-  8th: Bhojpuri OUT. Nepali, Dogri, Bodo, Maithili, Santhali IN.
+ · Lists · 22 languages · 9th validation (1st Amd) · 10th defection (52nd) · 11th=29 · 12th=18
+ 8th: Bhojpuri OUT. Nepali, Dogri, Bodo, Maithili, Santhali IN.
 
 ARTICLES (must): 1 Union of States · 3 Parliament alters States · 12 State · 13 void laws
-  14–18 equality · 19 six freedoms · 21 life · 21A RTE · 32 SC writs · 51A duties
-  72/161 pardon · 74 aid-advice · 76 AG · 110 Money Bill · 123 Ordinance
-  148 CAG · 226 HC writ (wider) · 263 ISC · 280 FC · 300A property
-  312 AIS · 324 EC · 352/356/360 Emergency · 368 Amendment · 371–371J · 393 short title
+ 14–18 equality · 19 six freedoms · 21 life · 21A RTE · 32 SC writs · 51A duties
+ 72/161 pardon · 74 aid-advice · 76 AG · 110 Money Bill · 123 Ordinance
+ 148 CAG · 226 HC writ (wider) · 263 ISC · 280 FC · 300A property
+ 312 AIS · 324 EC · 352/356/360 Emergency · 368 Amendment · 371–371J · 393 short title
 
 WRITS: Habeas Corpus = produce the detained body · Mandamus = compel a public duty
-  Prohibition = stop a lower court BEFORE it decides · Certiorari = quash AFTER it has decided
-  Quo Warranto = by what authority do you hold this public office
-  Art. 32 = Supreme Court, Fundamental Rights only (itself a FR). Art. 226 = High Court, FR + any other purpose (wider). Habeas even against a private person.
+ Prohibition = stop a lower court BEFORE it decides · Certiorari = quash AFTER it has decided
+ Quo Warranto = by what authority do you hold this public office
+ Art. 32 = Supreme Court, Fundamental Rights only (itself a FR). Art. 226 = High Court, FR + any other purpose (wider). Habeas even against a private person.
 
 EMERGENCY: 352 war/aggression/armed rebellion · 356 State machinery · 360 finance (never used)
-  358 = Art.19 auto (war/aggression only) · 359 = enforceability; 20 & 21 never sleep (44th)
+ 358 = Art.19 auto (war/aggression only) · 359 = enforceability; 20 & 21 never sleep (44th)
 
 ELECTIONS: 324 ECI · 325 one roll · 326 adult suffrage 18 (61st) · 329 bar + election petition
-  54 President = elected MPs + elected MLAs · 66 VP = both Houses, no MLAs
-  243K / 243ZA = SEC (not ECI)
+ 54 President = elected MPs + elected MLAs · 66 VP = both Houses, no MLAs
+ 243K / 243ZA = SEC (not ECI)
 
 AMENDMENTS: 1st 1951 (15(4)+9th Sch) · 7th 1956 SRC · 24th 1971 13(4) · 42nd 1976 mini
-  44th 1978 undo · 52nd 1985 10th Sch · 61st 18y · 73/74 1992 · 86th 21A · 101st GST · 103rd EWS · 106th women
+ 44th 1978 undo · 52nd 1985 10th Sch · 61st 18y · 73/74 1992 · 86th 21A · 101st GST · 103rd EWS · 106th women
 
 BORROWED: UK Parliament/writs · USA FR/judicial review · Ireland DPSP · Canada residuary/strong Centre
-  Australia Concurrent + joint sitting · Japan “procedure established by law” · France LEF + Republic
-  Weimar FR-suspend · USSR Duties + justice triad · South Africa 368 procedure + RS election
+ Australia Concurrent + joint sitting · Japan “procedure established by law” · France LEF + Republic
+ Weimar FR-suspend · USSR Duties + justice triad · South Africa 368 procedure + RS election
 
 PRECEDENCE (Warrant 1979, ceremonial): 1 Pres · 2 VP · 3 PM · 4 Gov(in state) · 5 ex-Pres · 6 CJI=Speaker
-  7 CabMin/CM(in state)/ex-PM/LoP · 9 SC judges · 9A CEC/CAG/UPSC · 10 Dy RS/LS · 11 AG — NOT succession
+ 7 CabMin/CM(in state)/ex-PM/LoP · 9 SC judges · 9A CEC/CAG/UPSC · 10 Dy RS/LS · 11 AG — NOT succession
 ```
 
 ### Confused pairs
 
-| A | B | Lock |
+| A | B | Fact |
 |---|----|------|
 | Part XI | Part IXA / XIVA | Union–State relations · **not** Municipalities · **not** Tribunals |
 | 4th Schedule | 9th Schedule | RS seats vs validation of Acts |
@@ -119,7 +119,7 @@ Originally **22** Parts (1950). Now **25** (IVA, IXA, IXB, XIVA added; **VII rep
 | **XXI** | Temporary, Transitional and Special Provisions (**371–371J**) |
 | **XXII** | Short Title, Commencement, Authoritative Text, Repeals |
 
-**PYQ locks:** Part XI ≠ Municipalities (**IXA**). Tribunals ≠ Part XI (**XIVA**). Attorney-General ≠ Part XIII (**Part V**, Art. 76).
+**PYQ facts:** Part XI ≠ Municipalities (**IXA**). Tribunals ≠ Part XI (**XIVA**). Attorney-General ≠ Part XIII (**Part V**, Art. 76).
 
 ---
 
@@ -288,7 +288,7 @@ Originally **8**. Now **12**.
 | **315** | UPSC for the Union; SPSC for a State; a **Joint** PSC for two or more States if those States request and **Parliament** so provides |
 | **316** | UPSC: President appoints. SPSC: **Governor** appoints. Term **6 years or 65** (UPSC) / **6 years or 62** (SPSC) |
 | **317** | A PSC member is **removed by the President** (even an SPSC member) after a Supreme Court inquiry on misbehaviour |
-| **321** | Extra functions may be given to a PSC by the **Legislature** of that State (or Parliament for UPSC). **2021 lock:** UPPSC’s functions are extended by the **UP Legislature**, not the President |
+| **321** | Extra functions may be given to a PSC by the **Legislature** of that State (or Parliament for UPSC). **2021 fact:** UPPSC’s functions are extended by the **UP Legislature**, not the President |
 | **323A** | Parliament may set up **administrative tribunals** (CAT/SAT) for service disputes — Part **XIVA** |
 | **323B** | Tribunals for other listed matters (tax, land reforms, elections to the Legislature, etc.) |
 | **324** | **Election Commission** — superintendence of elections to **Parliament, State Legislatures, President and Vice-President**. **Not** Panchayat/ULB polls. CEC removed like an **SC judge**; other ECs only on the **CEC’s recommendation** |
@@ -314,7 +314,7 @@ Originally **8**. Now **12**.
 
 **Art. 371–371J — which State (UP has none)**
 
-| Art. | State / lock |
+| Art. | State / fact |
 |------|----------------|
 | **371** | Maharashtra and Gujarat — development boards (Vidarbha, Marathwada, Saurashtra, Kutch…) |
 | **371A** | **Nagaland** — Parliament’s Act on Naga religion/custom/land applies only if the **Assembly** agrees |
@@ -332,7 +332,7 @@ Originally **8**. Now **12**.
 
 ## Emergency Articles
 
-| Art. | Lock |
+| Art. | Fact |
 |------|------|
 | **352** | **National Emergency.** Grounds today: war, external aggression, or **armed rebellion** (44th dropped “internal disturbance” after 1975). President acts only on the **written** recommendation of the **Union Cabinet** (not the PM alone). Each House must approve within **1 month** by **special majority** = majority of **total membership** + **2/3 of members present and voting**. Then it runs **6 months** at a time |
 | **353** | Union may give States executive **directions**; Parliament’s power extends while 352 is on |
@@ -347,13 +347,13 @@ Originally **8**. Now **12**.
 | **250** | Parliament on **State List** during 352; such laws lapse **6 months** after |
 | **365** | Disobeying Union directions → may treat 356 as attracted |
 
-**Used 352:** **1962** (China) · **1971** (Pakistan) · **1975–77** (internal disturbance). **360: never.**
+**Used 352:1962** (China) · **1971** (Pakistan) · **1975–77** (internal disturbance). **360: never.**
 
 ---
 
 ## Election Articles
 
-| Art. | Lock |
+| Art. | Fact |
 |------|------|
 | **54–55** | President — elected MPs + elected MLAs; STV; nominated **out** |
 | **66** | VP — **both Houses** including nominated; **no State MLAs** |
@@ -406,7 +406,7 @@ Trap: Panchayat polls = **324**. **No — 243K, SEC.** Trap: VP college = same a
 | **26th** | **1971** | **Privy purses** of former princes abolished (Art. **363A**). Not “26 January” |
 | **35th / 36th** | **1974 / 1975** | 35th = Sikkim as an **“associate State”** (old 10th Schedule). **36th** = Sikkim full statehood, **22nd State, 26 Apr 1975**, Art. **371F**; that old 10th Schedule repealed |
 | **38th / 39th** | **1975** | Emergency-era insulation of the President’s satisfaction; **39th** put the PM’s election beyond judicial review via **329A** — *Indira Gandhi* **struck 329A(4)(5)** |
-| **42nd** | **1976** | Called the **Mini-Constitution** (Swaran Singh). Preamble: added **Socialist, Secular**, and “unity **and integrity**”. Added Fundamental Duties (**51A**, then 10). Added DPSP **39A, 43A, 48A**. Added Part **XIVA** (tribunals). Stretched **31C** to all DPSP (*Minerva* struck that stretch). Inserted **368(4)(5)** “amendment cannot be questioned in court” (*Minerva* struck those too). Year lock **1976**, not 1978 |
+| **42nd** | **1976** | Called the **Mini-Constitution** (Swaran Singh). Preamble: added **Socialist, Secular**, and “unity **and integrity**”. Added Fundamental Duties (**51A**, then 10). Added DPSP **39A, 43A, 48A**. Added Part **XIVA** (tribunals). Stretched **31C** to all DPSP (*Minerva* struck that stretch). Inserted **368(4)(5)** “amendment cannot be questioned in court” (*Minerva* struck those too). Year cue **1976**, not 1978 |
 | **44th** | **1978** | The Janata **undo** of the Emergency. “Internal disturbance” → **armed rebellion**. National Emergency only on **written Cabinet** advice. Arts. **20 and 21** can no longer be suspended. Property ceases to be a FR → **300A**. Lok Sabha can force-revoke a 352 proclamation |
 | **52nd** | **1985** | **10th Schedule** anti-defection |
 | **61st** | **1988** (w.e.f. **28 Mar 1989**) | Voting age **21 → 18** |
@@ -433,7 +433,7 @@ Trap: Panchayat polls = **324**. **No — 243K, SEC.** Trap: VP college = same a
 
 ## Important Constitutional Timelines
 
-| Date | Lock |
+| Date | Fact |
 |------|------|
 | **1773** | Regulating Act — GG of **Bengal** (Hastings); SC Calcutta **1774** |
 | **1784** | Pitt — Board of Control |
@@ -518,7 +518,7 @@ Trap: Governor’s oath = CJI. **State HC Chief Justice.** Trap: President’s o
 
 ## Borrowed Features (Country-wise)
 
-**Largest structural source is not a country:** **Government of India Act, 1935** — federal scheme, office of Governor, judiciary, Public Service Commissions, Emergency provisions, administrative detail.
+**Largest structural source is not a country:Government of India Act, 1935** — federal scheme, office of Governor, judiciary, Public Service Commissions, Emergency provisions, administrative detail.
 
 | Source | What India took |
 |--------|-----------------|
@@ -552,7 +552,7 @@ Trap: Residuary = USA (States). **Canada / Centre.** Trap: DPSP = USA. **Ireland
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Part XI = Municipalities / Tribunals | **IXA** / **XIVA** |
 | AG sits in Part XIII | **Part V**, Art. 76 |
@@ -591,7 +591,7 @@ D. XVII — Official Language
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Municipalities = **IXA**. XI = Union–State relations. (2025 Q24)
+**Ans: C** — Municipalities = **IXA**. XI = Union–State relations.
 
 </details>
 
@@ -604,7 +604,7 @@ D. Part XVIII
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** (2023 Q1)
+**Ans: C**
 
 </details>
 
@@ -617,7 +617,7 @@ D. Part XIX
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Art. **76**. (2020 Q110)
+**Ans: B** — Art. **76**.
 
 </details>
 
@@ -643,15 +643,15 @@ D. Part XIX
 
 > Note: Row order in the tables is **not** the answer.
 
-A. Lists, Languages, Oaths, RS seats  
-B. Oaths, RS seats, Lists, Languages  
-C. RS seats, Oaths, Languages, Lists  
+A. Lists, Languages, Oaths, RS seats
+B. Oaths, RS seats, Lists, Languages
+C. RS seats, Oaths, Languages, Lists
 D. Oaths, Lists, RS seats, Languages
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** (2022 Q89)
+**Ans: B**
 
 </details>
 
@@ -664,7 +664,7 @@ D. Tenth — Defection
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — RS seats = **Fourth**. Ninth = validation of Acts. (2023 Q7)
+**Ans: C** — RS seats = **Fourth**. Ninth = validation of Acts.
 
 </details>
 
@@ -677,7 +677,7 @@ D. Bhojpuri
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** (2025 Q102)
+**Ans: D**
 
 </details>
 
@@ -734,8 +734,8 @@ D. 91st Amd
 </details>
 
 **Q11.** Which of the following is/are correct?
-1. Originally there were 8 Schedules.  
-2. Originally there were 22 Parts.  
+1. Originally there were 8 Schedules.
+2. Originally there were 22 Parts.
 A. Only 1
 B. Only 2
 C. Both
@@ -1014,11 +1014,9 @@ D. Is proclaimed by the Finance Commission
 
 </details>
 
-**Q32.**
+**Q32.Assertion (A):** Article 19 is automatically suspended during every National Emergency.
 
-**Assertion (A):** Article 19 is automatically suspended during every National Emergency.
-
-**Reason (R):** Article 358 operates only when the Emergency is on the ground of war or external aggression.  
+**Reason (R):** Article 358 operates only when the Emergency is on the ground of war or external aggression.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1254,7 +1252,7 @@ D. 105th
 
 **Q50.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**List-I:** 1st · 7th · 24th · 44th  
+**List-I:** 1st · 7th · 24th · 44th
 **List-II:** 9th Schedule · SRC · 13(4) · 300A
 A. SRC, 9th Sch, 300A, 13(4)
 B. 9th Sch, SRC, 13(4), 300A
@@ -1549,9 +1547,7 @@ D. Governor’s oath is in the 3rd Schedule before the CJI
 
 **UPPCS Prelims 2022, Q89** — 3rd Oaths · 4th RS · 7th Lists · 8th Languages.
 
-**UPPCS Prelims 2020, Q110** — Attorney-General ≠ Part XIII. **Part V.**
-
-**UPPCS Prelims 2024** — *Kesavananda* chronology; 42nd = **1976**.
+**UPPCS Prelims 2020, Q110** — Attorney-General ≠ Part XIII. **Part V.UPPCS Prelims 2024** — *Kesavananda* chronology; 42nd = **1976**.
 
 **UPPCS Prelims 2025** — 42nd Preamble words = **Socialist, Secular** (not Sovereign / Republic — those were original).
 
@@ -1577,36 +1573,36 @@ A one-liner sheet is a **match-list**, not a second Laxmikanth. **Number map:** 
 
 ```
 CONSTITUTIONAL: 76 AG · 148 CAG · 165 AdvG · 243I/Y SFC · 243K/ZA SEC · 263 ISC
-  279A GST Council · 280 FC · 315 UPSC/SPSC · 324 ECI · 338/A/B NCSC/ST/BC · 350B linguistic
-  NITI is NOT here. NHRC/NCW are NOT here.
+ 279A GST Council · 280 FC · 315 UPSC/SPSC · 324 ECI · 338/A/B NCSC/ST/BC · 350B linguistic
+ NITI is NOT here. NHRC/NCW are NOT here.
 
 STATUTORY: Lokpal 2013 · CVC 2003 (Santhanam 1962 → exec 1964) · CIC RTI 2005 · NHRC 1993
-  NGT 2010 · CAT 1985 (rides 323A) · NCW 1990 · NCM 1992 · SEBI 1992 · RBI Act 1934
+ NGT 2010 · CAT 1985 (rides 323A) · NCW 1990 · NCM 1992 · SEBI 1992 · RBI Act 1934
 EXECUTIVE: NITI 1 Jan 2015 · NDC 1952 · CBI = 1963 resolution + DSPE 1946 (not “like CVC”)
 
 OFFICES: CEC like SC judge; other ECs only on CEC rec. UPSC 6y/65; SPSC Governor appoints, PRESIDENT removes.
-  CAG 6y/65, no further office. AG = pleasure, private practice OK, salary NOT charged. SG = no Article.
+ CAG 6y/65, no further office. AG = pleasure, private practice OK, salary NOT charged. SG = no Article.
 
 COMMITTEES: BR Mehta 1957 3-tier · Ashok Mehta 1977 2-tier · Singhvi 1986 constitutional PR
-  Santhanam 1962 = CVC (1963 = PRI finance) · Swaran Singh 1976 duties
-  Rajamannar 1969 abolish AIS/356 · Sarkaria 1983–88 keep Centre, ISC · Punchhi 2007–10 localise 356
-  ISC constituted 1990 = Sarkaria NOT Punchhi. 1st FC = K.C. Neogy NOT Rajamannar.
+ Santhanam 1962 = CVC (1963 = PRI finance) · Swaran Singh 1976 duties
+ Rajamannar 1969 abolish AIS/356 · Sarkaria 1983–88 keep Centre, ISC · Punchhi 2007–10 localise 356
+ ISC constituted 1990 = Sarkaria NOT Punchhi. 1st FC = K.C. Neogy NOT Rajamannar.
 
 PARLIAMENT: PAC 22 (15+7) Opposition chair, CAG. Estimates 30 LS-only, NO CAG. COPU 22 CAG-PSU.
-  DRSC 24 × 31 (21+10) 1993. Zero Hour AFTER Question Hour. Adjournment / censure / no-conf = LS only.
-  110 = Money Bill definition; 109 = RS 14 days. CAB: either House, no joint sitting, President shall assent.
+ DRSC 24 × 31 (21+10) 1993. Zero Hour AFTER Question Hour. Adjournment / censure / no-conf = LS only.
+ 110 = Money Bill definition; 109 = RS 14 days. CAB: either House, no joint sitting, President shall assent.
 
 CASES: Gopalan 1950 → Maneka 1978. Golaknath 1967 ≠ Basic Structure. Kesavananda 24 Apr 1973 7:6.
-  Jabalpur 1976 Khanna dissent. Bommai 1994 floor test. NJAC struck 16 Oct 2015. Navtej = s.377 IPC.
+ Jabalpur 1976 Khanna dissent. Bommai 1994 floor test. NJAC struck 16 Oct 2015. Navtej = s.377 IPC.
 
 UP: Capital Lucknow · HC Prayagraj (Lucknow Bench 1948) · LA 403 · LC 100 · LS 80 · RS 31
-  Hindi 1951 / Urdu 1989 · UK 9 Nov 2000 · 18 divisions / 75 districts · UPPSC Prayagraj
-  SEC Lucknow · CoM ≈ 60 · no 371 · no PESA · Noida ≠ Nigam · 17 SC / 0 ST LS seats
+ Hindi 1951 / Urdu 1989 · UK 9 Nov 2000 · 18 divisions / 75 districts · UPPSC Prayagraj
+ SEC Lucknow · CoM ≈ 60 · no 371 · no PESA · Noida ≠ Nigam · 17 SC / 0 ST LS seats
 ```
 
 ### Confused pairs (bodies · Parliament · cases · UP)
 
-| A | B | Lock |
+| A | B | Fact |
 |---|----|------|
 | **338B NCBC** | **340 commission** | **338B** = the standing National Commission for Backward Classes (102nd, 2018). **340** = President *may* name a one-off inquiry (Kalelkar, Mandal). The 2024 paper used 340 as a match — know **both** |
 | **ECI 324** | **SEC 243K** | Parliament / State Houses / President / VP vs **PRI + ULB** |
@@ -1642,7 +1638,7 @@ UP: Capital Lucknow · HC Prayagraj (Lucknow Bench 1948) · LA 403 · LC 100 · 
 | **279A** | GST Council | Union FM chairs; Centre **1/3** + States **2/3**; 3/4 weighted; **101st** |
 | **280** | Finance Commission | President; Chair+**4**; every **5th year**; 1st = **K.C. Neogy**; report to **President**, not NITI |
 | **315** | UPSC / SPSC / JPSC | UPSC: President; 6y/**65**. SPSC: **Governor** appoints, **President** removes. JPSC: **Parliament** if States request |
-| **321** | Extra SPSC functions | **State Legislature** (2021 UP lock) — not President / DoPT |
+| **321** | Extra SPSC functions | **State Legislature** (2021 UP fact) — not President / DoPT |
 | **324** | Election Commission | Parliament + State **Legislatures** + President + VP. **Not** PRI/ULB. First CEC **Sukumar Sen**. First woman CEC **V.S. Ramadevi (1990)**. CEC like SC judge; other ECs **only on CEC’s recommendation** |
 | **338 / 338A / 338B** | NCSC / NCST / NCBC | Lists **341 / 342 / 342A**. NCBC constitutional from **102nd, 2018** (was statutory 1993) |
 | **339(1)** | Ad hoc Scheduled-Areas commission | **Not** NCST |
@@ -1678,7 +1674,7 @@ Trap: ECI = Art. 165. **165 = AdvG.** Trap: FC = 263. **263 = ISC.** Trap: stand
 | **NIA** | Act **2008**. **No** State consent for scheduled offences |
 | **IB / RAW / ED** | IB **1887** MHA · RAW **1968** Kao, Cabinet Secretariat · ED **1956** FEMA/PMLA, Revenue |
 
-**Look-alike:** “National Commission for …” is **not** automatically constitutional. **NCW / NCM / NCPCR / NCSK = statutory.** **NCSC / NCST / NCBC = constitutional.**
+**Look-alike:** “National Commission for …” is **not** automatically constitutional. **NCW / NCM / NCPCR / NCSK = statutory.NCSC / NCST / NCBC = constitutional.**
 
 Upgrade path: CVC executive → statutory 2003 · NCBC statutory 1993 → constitutional **2018** · Planning Commission → **NITI** (still executive).
 
@@ -1713,7 +1709,7 @@ Upgrade path: CVC executive → statutory 2003 · NCBC statutory 1993 → consti
 
 **Chronology PR:** BR Mehta **1957** → Ashok Mehta **1977** → GVK Rao **1985** → Singhvi **1986**.
 
-**Centre–State polarity, in one sentence each:** **Rajamannar** (TN, 1969) wanted residuary powers with **States**, **AIS abolished**, **356 repealed**. **Sarkaria** (Union, 1983–88) wanted a **strong Centre**, **AIS and 356 kept**, and an **Inter-State Council** — which is why the Council that actually appeared in **1990** is tagged Sarkaria. **Punchhi** (2007–10) came **after** that Council already existed; he wanted **localised** 356 and a **time-cap on Art. 201**, not a new ISC.
+**Centre–State polarity, in one sentence each:Rajamannar** (TN, 1969) wanted residuary powers with **States**, **AIS abolished**, **356 repealed**. **Sarkaria** (Union, 1983–88) wanted a **strong Centre**, **AIS and 356 kept**, and an **Inter-State Council** — which is why the Council that actually appeared in **1990** is tagged Sarkaria. **Punchhi** (2007–10) came **after** that Council already existed; he wanted **localised** 356 and a **time-cap on Art. 201**, not a new ISC.
 
 Trap: ISC = Punchhi. **Sarkaria, 1990.** Trap: 1st FC = Rajamannar. **K.C. Neogy.** Trap: Santhanam = only CVC. There is also a **1963 PRI-finance** Santhanam.
 
@@ -1824,7 +1820,7 @@ Judges: 1981 executive → 1993 CJI+2 → 1998 CJI+4 → 2015 NJAC dead.
 
 ## Parliamentary Committees
 
-| Committee | Strength | Chair / lock |
+| Committee | Strength | Chair / fact |
 |-----------|----------|----------------|
 | **PAC** | **22** = 15 LS + 7 RS | Opposition LS member (since **1967**). **CAG** reports. Born **1921** |
 | **Estimates** | **30 — all LS, no RS** | Ruling party. **No CAG**. Born **1950**. Often “largest” among the **financial three** |
@@ -1871,7 +1867,7 @@ Trap: 109 = definition. **110 = definition; 109 = procedure.** Trap: CAB in RS i
 
 ## UP Polity Quick Facts
 
-| Pin | Lock |
+| Pin | Fact |
 |-----|------|
 | **Capital / Raj Bhavan / Vidhan Bhavan** | **Lucknow** |
 | **High Court** | Principal seat **Prayagraj** (Letters Patent **17 Mar 1866**; first sat **Agra**, to Allahabad **1869**). First CJ **Walter Morgan** |
@@ -1911,7 +1907,7 @@ First Governor **Sarojini Naidu** (1947). First CM **G.B. Pant**. First woman CM
 
 ## Common Traps (bodies · Parliament · cases · UP)
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Standing NCBC = 340 | **338B**; 340 = Kalelkar/Mandal **inquiry** |
 | NHRC / NCW = constitutional | **Statutory** |
@@ -1987,7 +1983,7 @@ D. Uttar Pradesh Legislature
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Art. **321** (2021 Q133).
+**Ans: D** — Art. **321**.
 
 </details>
 
@@ -2000,7 +1996,7 @@ D. UPSC
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** (2021 Q81)
+**Ans: B**
 
 </details>
 
@@ -2123,7 +2119,7 @@ D. ED in every case
 
 **Q85.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**List-I:** NCW / NCSC / NITI / CVC  
+**List-I:** NCW / NCSC / NITI / CVC
 **List-II:** statutory women / constitutional SC / executive / statutory vigilance
 A. All scrambled
 B. NCW statutory · NCSC 338 · NITI executive · CVC statutory 2003
@@ -2215,11 +2211,9 @@ D. Abolish AIS and repeal 356
 
 </details>
 
-**Q92.**
+**Q92.Assertion (A):** Punchhi could not have been the body on whose word the ISC was first set up.
 
-**Assertion (A):** Punchhi could not have been the body on whose word the ISC was first set up.
-
-**Reason (R):** The Council was constituted in 1990; Punchhi was appointed in 2007.  
+**Reason (R):** The Council was constituted in 1990; Punchhi was appointed in 2007.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2285,8 +2279,8 @@ D. Like HC judges
 </details>
 
 **Q97.** Attorney-General?
-1. Holds office during the pleasure of the President.  
-2. His salary is charged on the CFI.  
+1. Holds office during the pleasure of the President.
+2. His salary is charged on the CFI.
 A. Only 1
 B. Only 2
 C. Both
@@ -2390,7 +2384,7 @@ D. Bhagwati only
 
 </details>
 
-**Q105.** *S.R. Bommai* (1994) is the lock for which of the following?
+**Q105.** *S.R. Bommai* (1994) is the fact for which of the following?
 A. Collegium
 B. Art. 356 justiciable; floor test
 C. Privacy
@@ -2477,13 +2471,13 @@ D. When a privilege motion is taken
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** (2021 Q141)
+**Ans: C**
 
 </details>
 
 **Q112.** No-confidence motion?
-1. Can be moved only in the Lok Sabha.  
-2. Must state reasons.  
+1. Can be moved only in the Lok Sabha.
+2. Must state reasons.
 A. Only 1
 B. Only 2
 C. Both
@@ -2544,7 +2538,7 @@ D. 112
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** (2019 Q33). 109 = **procedure**.
+**Ans: B**. 109 = **procedure**.
 
 </details>
 
@@ -2557,7 +2551,7 @@ D. Money Bill
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** (2021 Q37)
+**Ans: D**
 
 </details>
 
@@ -2622,7 +2616,7 @@ D. 12 and 80
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** (2023 Q14)
+**Ans: B**
 
 </details>
 
@@ -2687,7 +2681,7 @@ D. Panchayati Raj Commission of India
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** (2023 Q17). There is **no** “PR Commission of India.”
+**Ans: B**. There is **no** “PR Commission of India.”
 
 </details>
 
@@ -2809,8 +2803,8 @@ D. 2003
 </details>
 
 **Q137.** Which of the following is/are correct?
-1. UP has a special provision under Article 371.  
-2. PESA applies to UP.  
+1. UP has a special provision under Article 371.
+2. PESA applies to UP.
 A. Only 1
 B. Only 2
 C. Both
@@ -2992,11 +2986,9 @@ D. By the Estimates Committee alone
 
 </details>
 
-**Q151.**
+**Q151.Assertion (A):** A joint sitting can pass a Constitutional Amendment Bill.
 
-**Assertion (A):** A joint sitting can pass a Constitutional Amendment Bill.
-
-**Reason (R):** Article 108 is barred for Money Bills and for 368 Bills.  
+**Reason (R):** Article 108 is barred for Money Bills and for 368 Bills.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -3009,11 +3001,11 @@ D. A false R true
 
 </details>
 
-**Q152.** Token cut : Policy cut ::
-A. ₹1 : ₹100
-B. ₹100 : ₹1
-C. specified amount : ₹1
-D. ₹100 : specified amount
+**Q152.** Token cut: Policy cut::
+A. ₹1: ₹100
+B. ₹100: ₹1
+C. specified amount: ₹1
+D. ₹100: specified amount
 
 <details>
 <summary>Show answer</summary>

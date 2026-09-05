@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 8</p>
 <h1 class="fact-lock-hero__title">Indian Soils</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
@@ -1487,26 +1487,26 @@ Underlying:
 
 ## 84. SOIL → PARENT ROCK
 
-| Soil     | Major association             |
+| Soil | Major association |
 | -------- | ----------------------------- |
-| Alluvial | River sediments               |
-| Black    | Basalt                        |
-| Red      | Crystalline/metamorphic rocks |
-| Laterite | Strongly weathered rocks      |
-| Arid     | Desert deposits               |
+| Alluvial | River sediments |
+| Black | Basalt |
+| Red | Crystalline/metamorphic rocks |
+| Laterite | Strongly weathered rocks |
+| Arid | Desert deposits |
 | Mountain | Parent rocks + organic matter |
 
 ## 85. SOIL → CLIMATE
 
-| Soil     | Climatic association       |
+| Soil | Climatic association |
 | -------- | -------------------------- |
-| Alluvial | River plains               |
-| Black    | Semi-arid/sub-humid Deccan |
-| Red      | Warm Peninsular regions    |
-| Laterite | Hot + wet                  |
-| Arid     | Hot + dry                  |
-| Forest   | Mountain climates          |
-| Peaty    | Wet/waterlogged            |
+| Alluvial | River plains |
+| Black | Semi-arid/sub-humid Deccan |
+| Red | Warm Peninsular regions |
+| Laterite | Hot + wet |
+| Arid | Hot + dry |
+| Forest | Mountain climates |
+| Peaty | Wet/waterlogged |
 
 ## 86. SOIL → CROP
 
@@ -1788,29 +1788,29 @@ Other methods:
 
 ## 98. UP — SOIL → REGION
 
-| Region             | Major soil               |
+| Region | Major soil |
 | ------------------ | ------------------------ |
-| Western UP         | Alluvial                 |
-| Central UP         | Alluvial                 |
-| Eastern UP         | Alluvial                 |
-| Terai              | Alluvial/wet soils       |
-| Bundelkhand        | Red + black associations |
+| Western UP | Alluvial |
+| Central UP | Alluvial |
+| Eastern UP | Alluvial |
+| Terai | Alluvial/wet soils |
+| Bundelkhand | Red + black associations |
 | Vindhyan/Sonbhadra | Red/forest-related soils |
-| Sodic patches      | Usar                     |
+| Sodic patches | Usar |
 
 ## 99. INDIAN SOILS — MASTER TABLE
 
-| Soil               | Origin/feature              | Major region                | Main association |
+| Soil | Origin/feature | Major region | Main association |
 | ------------------ | --------------------------- | --------------------------- | ---------------- |
-| **Alluvial**       | River deposits              | Northern Plains             | Rice/Wheat       |
-| **Black**          | Basalt                      | Deccan                      | Cotton           |
-| **Red**            | Iron-rich crystalline rocks | Peninsula                   | Millets          |
-| **Laterite**       | Leaching                    | High rainfall areas         | Tea/Coffee       |
-| **Arid**           | Desert deposits             | Rajasthan                   | Bajra            |
-| **Mountain**       | Altitude/forest             | Himalayas                   | Forest           |
-| **Peaty**          | Waterlogging                | Wetlands                    | Organic matter   |
-| **Saline**         | Salt accumulation           | Dry/coastal/irrigated areas | Reclamation      |
-| **Sodic/Alkaline** | Sodium accumulation         | UP etc.                     | Gypsum           |
+| **Alluvial** | River deposits | Northern Plains | Rice/Wheat |
+| **Black** | Basalt | Deccan | Cotton |
+| **Red** | Iron-rich crystalline rocks | Peninsula | Millets |
+| **Laterite** | Leaching | High rainfall areas | Tea/Coffee |
+| **Arid** | Desert deposits | Rajasthan | Bajra |
+| **Mountain** | Altitude/forest | Himalayas | Forest |
+| **Peaty** | Waterlogging | Wetlands | Organic matter |
+| **Saline** | Salt accumulation | Dry/coastal/irrigated areas | Reclamation |
+| **Sodic/Alkaline** | Sodium accumulation | UP etc. | Gypsum |
 
 ## 100. BLACK SOIL — COMPLETE RATTA
 

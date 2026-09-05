@@ -8,14 +8,14 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 </details>
 
-> **Sources baked in:** Ashokan epigraphy, Arthashastra, Megasthenes/Strabo, Puranas, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — RE XII (2022), Agronomai (2020), Dhamma-mahamatras (2024), Vishnu Purana (2023)  
-> **Last verified:** August 2026  
+> **Sources baked in:** Ashokan epigraphy, Arthashastra, Megasthenes/Strabo, Puranas, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — RE XII (2022), Agronomai (2020), Dhamma-mahamatras (2024), Vishnu Purana (2023)
+> **Last verified:** August 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 32 Must-Score Locks
+## Consolidated — 32 Must-Score Facts
 
 1. The Mauryan empire runs about **322–185 BCE**. Buddhist tradition links the clan to **Moriya / Pipphalivana**; some Puranas smear a “low origin.”
 2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata (297–273)** → **Ashoka** (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga** in **185 BCE**.
@@ -32,18 +32,18 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 13. The **Sarnath** four-lion capital is India’s **national emblem**. **Ahraura** in Mirzapur is Uttar Pradesh’s own **Minor Rock Edict**.
 14. **Barabar** caves were gifted to **Ajivikas**. Their polish is Mauryan; they are not Ajanta-style Buddhist painted caves.
 15. **Kanaganahalli** preserves a label reading **“Raya Asoka.”** Schism edicts appear at Sarnath and **Kaushambi**.
-16. **Samaharta** **collects** revenue. **Sannidhata** **stores** the treasury (**kosha**). Never reverse collector and storekeeper.
+16. **Samahartacollects** revenue. **Sannidhatastores** the treasury (**kosha**). Never reverse collector and storekeeper.
 17. **Rajuka** handled land and justice (pillar edicts). **Dhamma-mahamatras** handled moral and welfare work (RE V).
 18. Provincial princes (**kumara**) are classically posted at **Taxila, Ujjain, Suvarnagiri, and Tosali**. Kashi–Kosala–Vatsa sat in the imperial core, not as a separate kumara province label.
-19. Kautilya’s toolkit locks: **Saptanga** state limbs, **four vidyas**, **four upayas**, **18 tirthas**, and **15 adhikaranas**. Spies are **sanstha** (stationary) and **sanchara** (mobile).
+19. Kautilya’s toolkit facts: **Saptanga** state limbs, **four vidyas**, **four upayas**, **18 tirthas**, and **15 adhikaranas**. Spies are **sanstha** (stationary) and **sanchara** (mobile).
 20. Greek *Agronomai* in Megasthenes match rural **revenue / land** officers. **Pautavadhyaksha** is the weights official — a common wrong option.
 21. Six city boards and six army boards in the Greek account cover crafts, foreigners, census, and military arms. They are parallel lists, not one board doing both jobs.
 22. **Bhaga** is the produce share. **Bali** is an extra or religious levy. Rummindei notes remission of *bali* at Lumbini.
 23. **Sudama** and **Lomas Rishi** are Barabar cells; Lomas Rishi shows the famous horseshoe chaitya-arch facade.
-24. UP Mauryan locks: Ahraura MRE (Mirzapur), Sarnath lions, Allahabad / Kaushambi pillar tradition, Meerut pillar moved by Firoz Shah, and Sankissa elephant capital.
+24. UP Mauryan facts: Ahraura MRE (Mirzapur), Sarnath lions, Allahabad / Kaushambi pillar tradition, Meerut pillar moved by Firoz Shah, and Sankissa elephant capital.
 25. **Bindusara** is remembered as **Amitraghata** (“slayer of foes”) and held the empire between Chandragupta and Ashoka. Greek writers call him Amitrochates.
 26. **Bherighosha** is the war-drum. **Dhammaghosha** is the dhamma-drum of RE IV / XIII — Ashoka’s metaphor for moral conquest.
-27. Major Rock Edicts are the **14**-edict set under the Piyadassi title. Minor Rock Edicts are local; Maski is the name-lock for “Ashoka.”
+27. Major Rock Edicts are the **14**-edict set under the Piyadassi title. Minor Rock Edicts are local; Maski is the name-fact for “Ashoka.”
 28. Pillar Edict V lists protected animals. Rock Edict V creates dhamma-mahamatras. Same number, different medium and content.
 29. Chandragupta Maurya (322 BCE founder) is not **Chandragupta II Vikramaditya** of the Gupta age.
 30. Pushyamitra’s coup in **185 BCE** ends Mauryan rule and begins Shunga power. Post-Ashoka decline had already weakened the periphery.
@@ -52,7 +52,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -89,26 +89,26 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 - The *Mudrarakshasa* of Vishakhadatta is a **play** about Malayaketu and Amatya Rakshasa. It is **not** the *Arthashastra*.
 
 - **Chandragupta** rules about **322–297 BCE**. He overthrows **Dhana Nanda**. He is Sandrokottos.
-- **Bindusara** rules about **297–273 BCE**. His Greek lock is **Amitraghata / Amitrochates**.
-- **Ashoka** accedes about **272** and is crowned **268–232 BCE**. His locks are Kalinga, dhamma, and edicts.
+- **Bindusara** rules about **297–273 BCE**. His Greek fact is **Amitraghata / Amitrochates**.
+- **Ashoka** accedes about **272** and is crowned **268–232 BCE**. His facts are Kalinga, dhamma, and edicts.
 - **Kunala** is a legendary blinded heir, not a hard epigraphic king. **Dasharatha** gives the **Nagarjuni** caves to Ajivikas (often the **eastern** share). **Samprati** is the Jain “second Chandragupta” (often the **western and southern** share).
 - **Salisuka, Devavarman, and Satadhanvan** are Puranic names only. **Brihadratha** lasts to **185 BCE**. He is killed by **Pushyamitra Shunga**.
 
-- Hardest sources are the edicts, then the *Arthashastra*, then *Indica* fragments. The **Vishnu Purana** genealogy is the **2023** lock. The *Dipavamsa* and *Mahavamsa* are Buddhist chronicles. The *Mudrarakshasa* comes last as a play.
+- Hardest sources are the edicts, then the *Arthashastra*, then *Indica* fragments. The **Vishnu Purana** genealogy is the **2023** fact. The *Dipavamsa* and *Mahavamsa* are Buddhist chronicles. The *Mudrarakshasa* comes last as a play.
 - **Prinsep in 1837** reads Brahmi. Maski later proves that Piyadassi is Ashoka.
 
 - The Puranic span is often **137 years**. Rock Edict II names neighbours, **not** provinces: Chola, Pandya, Satiyaputra, Keralaputra, Tamraparni, Yonas, and Kambojas.
-- **NBPW** continues. It started in mahajanapada towns, not only under Ashoka. **Ring-wells** are a settlement lock. The coin is the punch-marked **pana / karshapana**. There are no portraits.
+- **NBPW** continues. It started in mahajanapada towns, not only under Ashoka. **Ring-wells** are a settlement fact. The coin is the punch-marked **pana / karshapana**. There are no portraits.
 - Pliny’s army size is **600,000** foot, **30,000** horse, and **9,000** elephants. Treat it as order of size, not a muster roll.
 
 **PYQ — UPPCS Prelims 2023, Q29**
 
 With reference to the Puranas, which one of the following statements is correct?
 
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.  
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
 2. Vayu Purana throws light on the Gupta system of governance.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -117,7 +117,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-> **Exam note:** Chandragupta Maurya ≠ Chandragupta II. Empire dies 185, not with Ashoka in 232.
+> ** note:** Chandragupta Maurya ≠ Chandragupta II. Empire dies 185, not with Ashoka in 232.
 
 ---
 
@@ -137,7 +137,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 - The Seleucus treaty about **303 BCE** gives **500 elephants**. Megasthenes is sent to his court at **Pataliputra**.
 - Jain tradition ends him in *sallekhana* with **Bhadrabahu** at **Shravanabelagola**. His son and successor is **Bindusara**.
 
-> **Exam note:** This Chandragupta is **322 BCE**. Gupta Chandragupta I is **~320 CE**.
+> ** note:** This Chandragupta is **322 BCE**. Gupta Chandragupta I is **~320 CE**.
 
 ---
 
@@ -145,14 +145,14 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Son of Chandragupta | ~297–273 BCE | Amitraghata / Amitrochates**
 
-- The Greek lock is **Amitrochates**.
+- The Greek fact is **Amitrochates**.
 - Envoy **Deimachus** comes from Antiochus I.
 - A letter to **Antiochus I** asks for wine, figs, and a sophist. The **sophist was refused**.
 - Tradition gives him an Ajivika lean.
 - Taxila revolts. **Ashoka** is posted there as *kumara*.
 - His son and successor is **Ashoka**.
 
-> **Exam note:** Bindusara is not the Kalinga king. The Kalinga war is Ashoka.
+> ** note:** Bindusara is not the Kalinga king. The Kalinga war is Ashoka.
 
 ---
 
@@ -169,7 +169,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 - The village has a *gramika* plus elders. The *gopa* watches 5–10 villages. Next up is the *sthanika*. The district is *ahara / vishaya*.
 - Pataliputra’s palisade in *Indica* has **570 towers** and **64 gates**. Welfare add-ons — wells, herbs, trees — sit in **Rock Edict II**.
 
-> **Exam note:** This is a **centralised** empire, not Gupta samanta-feudatory.
+> ** note:** This is a **centralised** empire, not Gupta samanta-feudatory.
 
 ---
 
@@ -211,9 +211,9 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 The official 'Agronomai' during Mauryan age was related with which of the following field?
 
-A. Weight and measurement  
-B. Administrative management  
-C. Construction of roads  
+A. Weight and measurement
+B. Administrative management
+C. Construction of roads
 D. Revenue management
 
 <details>
@@ -223,7 +223,7 @@ D. Revenue management
 
 </details>
 
-> **Exam note:** Samaharta ≠ Sannidhata. Agronomai ≠ roads in that paper.
+> ** note:** Samaharta ≠ Sannidhata. Agronomai ≠ roads in that paper.
 
 ---
 
@@ -239,8 +239,8 @@ D. Revenue management
 
 ### Kalinga War (261 BCE) — Cause, Course, Result
 
-**Cause:** Kalinga (Odisha coast) remained outside Magadhan control and threatened eastern trade routes.  
-**Course:** In his **8th regnal year (~261 BCE)**, Ashoka invaded Kalinga. Rock Edict **XIII** remembers **1 lakh** killed, **1.5 lakh** deported, and countless sufferers.  
+**Cause:** Kalinga (Odisha coast) remained outside Magadhan control and threatened eastern trade routes.
+**Course:** In his **8th regnal year (~261 BCE)**, Ashoka invaded Kalinga. Rock Edict **XIII** remembers **1 lakh** killed, **1.5 lakh** deported, and countless sufferers.
 **Result:** Kalinga was **annexed**; headquarters at **Tosali** and **Samapa**. Ashoka turned to **dhamma-vijaya**. Separate Kalinga edicts at **Dhauli** and **Jaugada** tell mahamatras that **"all men are my children."**
 
 - In the 10th year he makes a *dhammayatra* to Bodh Gaya (Rock Edict VIII), not a *viharayatra*.
@@ -253,7 +253,7 @@ D. Revenue management
 - Legend credits **84,000** stupas and viharas. **Jalauka** in Kashmir is from the *Rajatarangini*, not from edicts.
 - The Barabar gift to Ajivikas is polished granite cells, not Buddhist viharas. Death is about 232. The empire runs to **185**.
 
-> **Exam note:** Major edicts do **not** usually say the word “Ashoka.” Maski does.
+> ** note:** Major edicts do **not** usually say the word “Ashoka.” Maski does.
 
 ---
 
@@ -264,7 +264,7 @@ D. Revenue management
 - Ashoka convened the **Third Buddhist Council** at **Pataliputra** after the Kalinga turn toward dhamma.
 - **Moggaliputta Tissa** presided. The council purified doctrine and organised missions.
 - Missions went to Kashmir–Gandhara, Sri Lanka (**Mahinda**, **Sanghamitta**), and other regions.
-- Exam order: Rajagriha (1st) → Vaishali (2nd) → Pataliputra (3rd) → Kundalvana (4th).
+- order: Rajagriha (1st) → Vaishali (2nd) → Pataliputra (3rd) → Kundalvana (4th).
 - Third Council = **Ashoka** at **Pataliputra**. Fourth Council = **Kanishka** at **Kundalvana**.
 
 ---
@@ -277,7 +277,7 @@ D. Revenue management
 - **Bhabru / Calcutta-Bairat** lists texts for the sangha, including **Laghulovada (Rahulovada)**. Ashoka *knew* the sutta. 2024 still treats “Dhamma is **taken from** Rahulovada” as **false**. State Dhamma is not that sutta’s definition.
 - The cadre is **dhamma-mahamatras** (**RE V**). Wording **14th year** after coronation is accepted as correct. Their beat covers Brahmans, Shramanas, Ajivikas, prisoners, border people, women, and slaves.
 - **Bherighosha** becomes **Dhammaghosha** (RE IV / XIII): the war-drum yields to the dhamma-drum.
-- RE II welfare: wells, shade trees, rest-houses, herbs, and hospitals for men **and beasts**. Veterinary care is this lock.
+- RE II welfare: wells, shade trees, rest-houses, herbs, and hospitals for men **and beasts**. Veterinary care is this fact.
 - RE I cuts kitchen slaughter. He still donates to **Ajivikas** (Barabar). He names Brahmans and Shramanas together (RE III, VII, XII).
 - PE VII punchline: **gift of dhamma is the best gift**.
 
@@ -285,10 +285,10 @@ D. Revenue management
 
 Consider the following statements with respect to Ashoka:
 
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".  
+1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
 2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -297,7 +297,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 </details>
 
-> **Exam note:** Dhamma ≠ forced conversion. 2024 is **not** “both correct.”
+> ** note:** Dhamma ≠ forced conversion. 2024 is **not** “both correct.”
 
 ---
 
@@ -305,7 +305,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Fourteen uniform texts | site table is a separate match-list**
 
-| RE | Lock |
+| RE | Fact |
 |----|------|
 | **I** | Ban/limit on slaughter and *samajas*; royal kitchen cut |
 | **II** | Hospitals, herbs, wells; **Chola–Pandya–Satiyaputra–Keralaputra–Tamraparni** named |
@@ -341,7 +341,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 Which of the following Rock Edicts of Ashoka speaks of religious synthesis?
 
-A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
+A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
 
 <details>
 <summary>Show answer</summary>
@@ -350,7 +350,7 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 
 </details>
 
-> **Exam note:** Rock Edict **XII** = religious tolerance / synthesis. Rock Edict **XIII** = Kalinga.
+> ** note:** Rock Edict **XII** = religious tolerance / synthesis. Rock Edict **XIII** = Kalinga.
 
 ---
 
@@ -363,11 +363,11 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 - Other Minor Rock sites include **Rupnath** and **Panguraria** (MP), **Sahasram / Sasaram** (Bihar), **Bairat** (Rajasthan), and **Ahraura** in **Mirzapur, Uttar Pradesh**.
 
 - The **Bhabru / Calcutta-Bairat** edict presents Ashoka as *upasaka*. It lists Vinaya-samukase, Aliya-vasani, Anagata-bhayani, Muni-gatha, Moneyasute, Upatisa-pasine, and **Laghulovada**.
-- Bhabru lists **Laghulovada** among texts he valued. State Dhamma is still his **own edict-ethic** (2024 Q20).
+- Bhabru lists **Laghulovada** among texts he valued. State Dhamma is still his **own edict-ethic**.
 - Kandahar has a Greek Minor Rock Edict, a bilingual frontier text.
 - **Kanaganahalli (Sannati)** has a sculpted panel labelled **Raya Asoka**, a rare named portrait.
 
-> **Exam note:** If the question is “where is the name Ashoka?” the answer is **Maski**, not Girnar.
+> ** note:** If the question is “where is the name Ashoka?” the answer is **Maski**, not Girnar.
 
 ---
 
@@ -375,7 +375,7 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 
 **Seven major PE | Chunar sandstone | Mauryan polish | mostly Gangetic**
 
-| PE | Lock |
+| PE | Fact |
 |----|------|
 | **I** | Self-check; little sin |
 | **II** | **Defines dhamma** (compassion, liberality, truth, purity) |
@@ -401,7 +401,7 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 
 Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict** warns monks against splitting the sangha.
 
-> **Exam note:** National emblem lion capital = **Sarnath**. **Sanchi** is the great stupa complex.
+> ** note:** National emblem lion capital = **Sarnath**. **Sanchi** is the great stupa complex.
 
 ---
 
@@ -409,7 +409,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 **Earliest Indian rock-cut | Barabar–Nagarjuni, Jehanabad, Bihar | granite polish**
 
-| Cave | Hill | Patron | Lock |
+| Cave | Hill | Patron | Fact |
 |------|------|--------|------|
 | **Sudama** | Barabar | Ashoka, 12th year | Polished cell; Ajivika |
 | **Lomas Rishi** | Barabar | (facade; no Ashokan text) | **Horseshoe chaitya-arch** — prototype of Bhaja/Karle/Ajanta fronts |
@@ -421,7 +421,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 - Palace memory is the **Kumrahar 80-pillar** hall at Pataliputra. Wooden palisade is Greek memory. Stone polish is the Ashokan trademark.
 - Sculpture tagged Mauryan polish: **Didarganj Yakshi** (Patna; date debated), **Parkham Yaksha** (Mathura), two Patna yakshas, and the **Dhauli elephant**.
 
-> **Exam note:** Barabar ≠ Ajanta. Donee = **Ajivika**, not the sangha.
+> ** note:** Barabar ≠ Ajanta. Donee = **Ajivika**, not the sangha.
 
 ---
 
@@ -438,7 +438,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 - **Slavery exists** here. That is a direct clash with Megasthenes’ “no slaves.”
 - Date debate (Mauryan core versus later redaction) does not change the Prelims tag: it is the **Mauryan state-book**. The *Mudrarakshasa* is not this text.
 
-> **Exam note:** Kautilya is not Megasthenes. The Arthashastra is not the Indica.
+> ** note:** Kautilya is not Megasthenes. The Arthashastra is not the Indica.
 
 ---
 
@@ -451,7 +451,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 - Magadha in his vocabulary is **Prasii** (easterners). Capital is **Palibothra** at Ganga–Son.
 - Howlers include gold-digging ants and Dionysus/Heracles as Indian culture-heroes. Useful bits are the palisade, the boards, and the seven classes.
 
-> **Exam note:** Megasthenes is not Nearchus and not Aristobulus.
+> ** note:** Megasthenes is not Nearchus and not Aristobulus.
 
 ---
 
@@ -475,7 +475,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 - Strabo also gives them **roads and mile-pillars**. That is option C, the trap.
 - The *Indica* does **not** name Chanakya or the *Arthashastra*.
 
-> **Exam note:** The seven-caste list is **Indica**, not Manu.
+> ** note:** The seven-caste list is **Indica**, not Manu.
 
 ---
 
@@ -502,7 +502,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 **Land is the tank | *bhaga* the headline | Samaharta in, Sannidhata stores**
 
-| Levy | Lock |
+| Levy | Fact |
 |------|------|
 | **Bhaga** | Produce share; Arthashastra **1/6** (*shadbhaga*) |
 | **Bali** | Extra / religious levy; **Rummindei drops it** |
@@ -518,7 +518,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 - Agronomai measure fields for this machine (2020). Pautavadhyaksha = weights, not Agronomai.
 - No Gupta-style *agrahara* as the system’s core.
 
-> **Exam note:** Rummindei = tax-cut at Lumbini, not a new capital.
+> ** note:** Rummindei = tax-cut at Lumbini, not a new capital.
 
 ---
 
@@ -543,13 +543,13 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 - The Ashokan face is the *pativedaka* of Rock Edict VI. Megasthenes’ *ephoroi* are an outsider’s overseers.
 - The king gets secret reports **outside** the normal chain so officers cannot collude.
 
-> **Exam note:** Spy chapters are **Arthashastra**, not Rock Edict XII. Ashoka did not “abolish spies.”
+> ** note:** Spy chapters are **Arthashastra**, not Rock Edict XII. Ashoka did not “abolish spies.”
 
 ---
 
 ## UP Focus
 
-| Lock | Place |
+| Fact | Place |
 |------|--------|
 | **Ahraura MRE** | **Mirzapur** — UP’s own Minor Rock Edict |
 | Sarnath pillar / four-lion capital | Varanasi — **national emblem** |
@@ -567,7 +567,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 **Q1.** Which of the following Rock Edicts of Ashoka speaks of religious synthesis?
 
-A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
+A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
 
 <details>
 <summary>Show answer</summary>
@@ -580,7 +580,7 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 
 **Q2.** The official 'Agronomai' during Mauryan age was related with:
 
-A. Weight and measurement  B. Administrative management  C. Construction of roads  D. Revenue management
+A. Weight and measurement B. Administrative management C. Construction of roads D. Revenue management
 
 <details>
 <summary>Show answer</summary>
@@ -593,10 +593,10 @@ A. Weight and measurement  B. Administrative management  C. Construction of road
 
 **Q3.** Consider the following statements with respect to Ashoka:
 
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".  
+1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
 2. In the 14th year of his coronation, Ashoka appointed Dhamma-mahamatras.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -609,10 +609,10 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Q4.** With reference to the Puranas, which statement is correct?
 
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.  
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
 2. Vayu Purana throws light on the Gupta system of governance.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -625,10 +625,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q5.** Which of the following statements is/are correct?
 
-1. The name Ashoka appears in the Maski Minor Rock Edict.  
+1. The name Ashoka appears in the Maski Minor Rock Edict.
 2. Major Rock Edicts normally use Devanampiya Piyadassi, not the personal name.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -648,7 +648,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 | C. Rajuka | 3. Weights |
 | D. Pautavadhyaksha | 4. Land + justice |
 
-A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3 B. 2 1 3 4 C. 1 2 4 3 D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -661,13 +661,13 @@ A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 
 **Q7.** Given below are two statements:
 
-**Assertion (A):** Rock Edict XIII is the Kalinga edict.  
+**Assertion (A):** Rock Edict XIII is the Kalinga edict.
 
 **Reason (R):** Rock Edict XII is the usual key for “religious synthesis” in UPPCS 2022.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -681,12 +681,12 @@ D. (A) is false, but (R) is true
 
 **Q8.** With reference to Mauryan provinces, consider the following statements:
 
-1. Taxila headed Uttarapatha.  
-2. Suvarnagiri headed Dakshinapatha.  
+1. Taxila headed Uttarapatha.
+2. Suvarnagiri headed Dakshinapatha.
 3. Tosali is the Kalinga headquarters after the war.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -699,9 +699,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q9.** Which one of the following pairs is **not** correctly matched?
 
-A. Bindusara — Amitraghata  
-B. Dasharatha — Nagarjuni caves  
-C. Brihadratha — killed by Pushyamitra  
+A. Bindusara — Amitraghata
+B. Dasharatha — Nagarjuni caves
+C. Brihadratha — killed by Pushyamitra
 D. Chandragupta II — Seleucus treaty of 303 BCE
 
 <details>
@@ -715,16 +715,16 @@ D. Chandragupta II — Seleucus treaty of 303 BCE
 
 **Q10.** Which of the following statements is/are correct?
 
-1. Shahbazgarhi and Mansehra edicts are in Kharoshthi.  
-2. Kandahar used Greek and Aramaic.  
+1. Shahbazgarhi and Mansehra edicts are in Kharoshthi.
+2. Kandahar used Greek and Aramaic.
 3. Girnar is a Minor Rock Edict that first names Ashoka.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Girnar = Major RE set; name-lock = Maski.
+**Ans: A** — Girnar = Major RE set; name-fact = Maski.
 
 </details>
 
@@ -739,7 +739,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | C. RE VIII | 3. Kalinga |
 | D. RE XIII | 4. Dhamma-yatras |
 
-A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3 B. 2 1 3 4 C. 1 2 4 3 D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -752,12 +752,12 @@ A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 
 **Q12.** With reference to *Indica*, consider the following statements:
 
-1. It divides Indian society into seven groups, not four varnas.  
-2. It describes six municipal boards of five members.  
+1. It divides Indian society into seven groups, not four varnas.
+2. It describes six municipal boards of five members.
 3. The original book survives complete in Greek libraries.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -770,7 +770,7 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q13.** Which of the following is **not** a saptanga limb?
 
-A. Swami  B. Kosha  C. Dhamma-mahamatra  D. Mitra
+A. Swami B. Kosha C. Dhamma-mahamatra D. Mitra
 
 <details>
 <summary>Show answer</summary>
@@ -783,13 +783,13 @@ A. Swami  B. Kosha  C. Dhamma-mahamatra  D. Mitra
 
 **Q14.** Given below are two statements:
 
-**Assertion (A):** Barabar caves are the earliest surviving Indian rock-cut chambers.  
+**Assertion (A):** Barabar caves are the earliest surviving Indian rock-cut chambers.
 
 **Reason (R):** Ashoka and Dasharatha granted them to the Ajivikas.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -803,11 +803,11 @@ D. (A) is false, but (R) is true
 
 **Q15.** Which of the following statements is/are correct?
 
-1. Sarnath lion capital is the model of India’s state emblem.  
-2. Rummindei records a tax concession at Lumbini.  
+1. Sarnath lion capital is the model of India’s state emblem.
+2. Rummindei records a tax concession at Lumbini.
 3. The Allahabad pillar was originally a Gupta shaft with no Mauryan text.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -820,12 +820,12 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q16.** Arrange in order:
 
-1. Kalinga war  
-2. Overthrow of the Nandas  
-3. Assassination of Brihadratha  
+1. Kalinga war
+2. Overthrow of the Nandas
+3. Assassination of Brihadratha
 4. Seleucus treaty
 
-A. 2–4–1–3  B. 2–1–4–3  C. 4–2–1–3  D. 2–4–3–1
+A. 2–4–1–3 B. 2–1–4–3 C. 4–2–1–3 D. 2–4–3–1
 
 <details>
 <summary>Show answer</summary>
@@ -845,7 +845,7 @@ A. 2–4–1–3  B. 2–1–4–3  C. 4–2–1–3  D. 2–4–3–1
 | C. Panyadhyaksha | 3. Spies |
 | D. Gudhapurusha | 4. Trade |
 
-A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3 B. 2 1 3 4 C. 1 2 4 3 D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -858,9 +858,9 @@ A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 
 **Q18.** Which of the following statements regarding Dhamma is **not** correct?
 
-A. It stresses restraint and honour to all sects.  
-B. Dhamma-mahamatras appear in RE V.  
-C. UPPCS 2024 treats the Rahulovada definition claim as true.  
+A. It stresses restraint and honour to all sects.
+B. Dhamma-mahamatras appear in RE V.
+C. UPPCS 2024 treats the Rahulovada definition claim as true.
 D. Animal welfare is part of the edict programme.
 
 <details>
@@ -874,12 +874,12 @@ D. Animal welfare is part of the edict programme.
 
 **Q19.** With reference to spies, consider the following statements:
 
-1. Sanstha spies are stationary covers.  
-2. Sanchara spies move.  
+1. Sanstha spies are stationary covers.
+2. Sanchara spies move.
 3. RE XII is the spy-manual edict.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -892,9 +892,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q20.** Which one of the following pairs is **not** correctly matched?
 
-A. Kalsi — Uttarakhand Major RE  
-B. Dhauli — Kalinga  
-C. Maski — Karnataka MRE naming Ashoka  
+A. Kalsi — Uttarakhand Major RE
+B. Dhauli — Kalinga
+C. Maski — Karnataka MRE naming Ashoka
 D. Topra — original site of the Sarnath lion capital
 
 <details>
@@ -908,11 +908,11 @@ D. Topra — original site of the Sarnath lion capital
 
 **Q21.** Which of the following statements is/are correct?
 
-1. Megasthenes was Seleucus’s man at Chandragupta’s court.  
-2. Deimachus is named for Bindusara’s court.  
+1. Megasthenes was Seleucus’s man at Chandragupta’s court.
+2. Deimachus is named for Bindusara’s court.
 3. Megasthenes wrote the *Arthashastra* in Greek.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -925,13 +925,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q22.** Given below are two statements:
 
-**Assertion (A):** Agronomai in 2020 is keyed to revenue management.  
+**Assertion (A):** Agronomai in 2020 is keyed to revenue management.
 
 **Reason (R):** Pautavadhyaksha is the weights-and-measures adhyaksha.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -945,12 +945,12 @@ D. (A) is false, but (R) is true
 
 **Q23.** Consider the following statements about revenue:
 
-1. Bhaga is the produce share.  
-2. Rummindei reduces Lumbini’s burden.  
+1. Bhaga is the produce share.
+2. Rummindei reduces Lumbini’s burden.
 3. Vishti is a gold coin of Ashoka.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -963,10 +963,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q24.** Which of the following statements is/are correct?
 
-1. Karuvaki is named in the Queen’s edict on the Allahabad/Kaushambi pillar.  
+1. Karuvaki is named in the Queen’s edict on the Allahabad/Kaushambi pillar.
 2. Schism edicts appear at Sarnath, Kaushambi and Sanchi.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -986,7 +986,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 | C. Ashoka | 3. Amitraghata |
 | D. Brihadratha | 4. Pushyamitra’s coup |
 
-A. 2 3 1 4  B. 2 3 4 1  C. 3 2 1 4  D. 2 1 3 4
+A. 2 3 1 4 B. 2 3 4 1 C. 3 2 1 4 D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -999,12 +999,12 @@ A. 2 3 1 4  B. 2 3 4 1  C. 3 2 1 4  D. 2 1 3 4
 
 **Q26.** With reference to RE XIII, consider the following statements:
 
-1. It describes the Kalinga slaughter and remorse.  
-2. It names contemporary Hellenistic kings.  
+1. It describes the Kalinga slaughter and remorse.
+2. It names contemporary Hellenistic kings.
 3. It names the Mauryan religious-tolerance strand.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1017,9 +1017,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q27.** Which of the following is **not** correctly matched?
 
-A. Lomas Rishi — Barabar facade  
-B. Kumrahar — Pataliputra pillared hall  
-C. Sanchi Great Stupa — first cut as a Gupta granite ratha  
+A. Lomas Rishi — Barabar facade
+B. Kumrahar — Pataliputra pillared hall
+C. Sanchi Great Stupa — first cut as a Gupta granite ratha
 D. Chunar sandstone — typical Ashokan pillar stone
 
 <details>
@@ -1033,10 +1033,10 @@ D. Chunar sandstone — typical Ashokan pillar stone
 
 **Q28.** Which of the following statements is/are correct?
 
-1. Shamasastry published the *Arthashastra* in the early 20th century.  
-2. Saptanga includes durga and danda.  
+1. Shamasastry published the *Arthashastra* in the early 20th century.
+2. Saptanga includes durga and danda.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1049,9 +1049,9 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q29.** Arrange the scripts of Ashokan records as you meet them from east to the far NW:
 
-1. Kharoshthi  2. Brahmi  3. Greek–Aramaic (Kandahar)
+1. Kharoshthi 2. Brahmi 3. Greek–Aramaic (Kandahar)
 
-A. 2–1–3  B. 1–2–3  C. 2–3–1  D. 3–2–1
+A. 2–1–3 B. 1–2–3 C. 2–3–1 D. 3–2–1
 
 <details>
 <summary>Show answer</summary>
@@ -1064,13 +1064,13 @@ A. 2–1–3  B. 1–2–3  C. 2–3–1  D. 3–2–1
 
 **Q30.** Given below are two statements:
 
-**Assertion (A):** Mauryan southern edicts reach Karnataka.  
+**Assertion (A):** Mauryan southern edicts reach Karnataka.
 
 **Reason (R):** Chola and Pandya are listed in RE II as conquered Mauryan janapadas under kumara-viceroys.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1084,10 +1084,10 @@ D. (A) is false, but (R) is true
 
 **Q31.** With reference to *Indica*’s army boards, consider the following statements:
 
-1. Six boards of five include navy and elephant corps.  
+1. Six boards of five include navy and elephant corps.
 2. This is Kautilya’s saptanga list under another name.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1100,9 +1100,9 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q32.** Which one of the following pairs is **not** correctly matched?
 
-A. Antapala — frontier  
-B. Yukta — subordinate officer  
-C. Kumara — prince-viceroy  
+A. Antapala — frontier
+B. Yukta — subordinate officer
+C. Kumara — prince-viceroy
 D. Agronomai — punch-marked mint at Taxila only
 
 <details>
@@ -1116,10 +1116,10 @@ D. Agronomai — punch-marked mint at Taxila only
 
 **Q33.** Which of the following statements is/are correct?
 
-1. Firoz Shah Tughlaq moved the Topra and Meerut pillars to Delhi.  
+1. Firoz Shah Tughlaq moved the Topra and Meerut pillars to Delhi.
 2. The Sarnath capital was carved for Firoz Shah.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1138,7 +1138,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 | B. Sanchara | 2. Stationary covers |
 | C. Upadha | 3. Tests of officials |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 1 3 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -1151,12 +1151,12 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 1 3 2
 
 **Q35.** With reference to Bindusara, consider the following statements:
 
-1. Greek texts call him Amitrochates.  
-2. Deimachus is associated with his court.  
+1. Greek texts call him Amitrochates.
+2. Deimachus is associated with his court.
 3. He fought the Kalinga war of 261 BCE.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1169,9 +1169,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q36.** Which of the following statements regarding Ashoka’s titles is **not** correct?
 
-A. Devanampiya means beloved of the gods.  
-B. Piyadassi appears on the Major set.  
-C. Maski is a Major Rock Edict of Girnar type that avoids the name Ashoka.  
+A. Devanampiya means beloved of the gods.
+B. Piyadassi appears on the Major set.
+C. Maski is a Major Rock Edict of Girnar type that avoids the name Ashoka.
 D. Priyadarshi is the Sanskritised form of Piyadassi.
 
 <details>
@@ -1185,10 +1185,10 @@ D. Priyadarshi is the Sanskritised form of Piyadassi.
 
 **Q37.** Which of the following statements is/are correct?
 
-1. *Mudrarakshasa* is a drama about Chanakya, not the Arthashastra text.  
-2. Vishnu Purana is a 2023 source-lock for the Maurya line.
+1. *Mudrarakshasa* is a drama about Chanakya, not the Arthashastra text.
+2. Vishnu Purana is a 2023 source-fact for the Maurya line.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1201,14 +1201,14 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q38.** Consider the following pairs:
 
-| Site | Lock |
+| Site | Fact |
 |------|------|
 | 1. Erragudi | Andhra Major RE |
 | 2. Brahmagiri | Karnataka MRE |
 | 3. Jaugada | Kalinga Major RE |
 
-How many of the above pairs are correctly matched?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above pairs are correctly matched?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1221,13 +1221,13 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q39.** Given below are two statements:
 
-**Assertion (A):** Mauryan administration used a salaried official class.  
+**Assertion (A):** Mauryan administration used a salaried official class.
 
 **Reason (R):** Gupta-style hereditary samantas are the core of Kautilya’s saptanga.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1241,10 +1241,10 @@ D. (A) is false, but (R) is true
 
 **Q40.** Which of the following statements is/are correct?
 
-1. RE III orders five-yearly tours by yuktas, rajukas and pradeshikas.  
+1. RE III orders five-yearly tours by yuktas, rajukas and pradeshikas.
 2. PE IV highlights the judicial role of rajukas.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1257,9 +1257,9 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q41.** Which one of the following pairs is **not** correctly matched?
 
-A. Sandrokottos — Chandragupta Maurya  
-B. Amitraghata — Bindusara  
-C. Devanampiya — Ashoka  
+A. Sandrokottos — Chandragupta Maurya
+B. Amitraghata — Bindusara
+C. Devanampiya — Ashoka
 D. Vikramaditya — Chandragupta Maurya’s throne-name in RE XII
 
 <details>
@@ -1273,12 +1273,12 @@ D. Vikramaditya — Chandragupta Maurya’s throne-name in RE XII
 
 **Q42.** With reference to Kalinga, consider the following statements:
 
-1. The war is dated ~261 BCE.  
-2. Dhauli and Jaugada are the Kalinga rock sites (separate edicts stand in for XI–XIII).  
+1. The war is dated ~261 BCE.
+2. Dhauli and Jaugada are the Kalinga rock sites (separate edicts stand in for XI–XIII).
 3. Tosali is the provincial headquarters after annexation.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1291,9 +1291,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q43.** Which of the following statements regarding *Indica* is **not** correct?
 
-A. Farmers are said to be spared in war.  
-B. The seven-fold social list is Megasthenes, not the Dharmashastra four.  
-C. It preserves Chanakya’s full 15-adhikarana table.  
+A. Farmers are said to be spared in war.
+B. The seven-fold social list is Megasthenes, not the Dharmashastra four.
+C. It preserves Chanakya’s full 15-adhikarana table.
 D. City administration is described through boards of five.
 
 <details>
@@ -1314,7 +1314,7 @@ D. City administration is described through boards of five.
 | C. Nigali Sagar | 3. Konagamana stupa |
 | D. Queen’s edict | 4. Karuvaki |
 
-A. 2 1 3 4  B. 2 1 4 3  C. 1 2 3 4  D. 2 3 1 4
+A. 2 1 3 4 B. 2 1 4 3 C. 1 2 3 4 D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -1327,11 +1327,11 @@ A. 2 1 3 4  B. 2 1 4 3  C. 1 2 3 4  D. 2 3 1 4
 
 **Q45.** Which of the following statements is/are correct?
 
-1. UPPCS 2022 keys religious synthesis to RE XII.  
-2. UPPCS 2020 keys Agronomai to revenue.  
+1. UPPCS 2022 keys religious synthesis to RE XII.
+2. UPPCS 2020 keys Agronomai to revenue.
 3. UPPCS 2024 keys both Rahulovada and dhamma-mahamatras as true.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1344,11 +1344,11 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q46.** Which of the following statements is/are correct?
 
-1. Ahraura is a Minor Rock Edict site in Mirzapur (UP).  
-2. Bhabru lists Laghulovada among texts for monks.  
+1. Ahraura is a Minor Rock Edict site in Mirzapur (UP).
+2. Bhabru lists Laghulovada among texts for monks.
 3. Therefore UPPCS 2024 treats “Dhamma is taken from Rahulovada” as true.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1359,7 +1359,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 ---
 
-**Q47.** Match List-I with List-II (cave → lock):
+**Q47.** Match List-I with List-II (cave → fact):
 
 | List-I | List-II |
 |--------|---------|
@@ -1368,7 +1368,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | C. Gopika | 3. Dasharatha, Nagarjuni |
 | D. Karan Chaupar | 4. Ashoka, 19th year |
 
-A. 2 1 3 4  B. 2 1 4 3  C. 1 2 3 4  D. 2 3 1 4
+A. 2 1 3 4 B. 2 1 4 3 C. 1 2 3 4 D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -1381,12 +1381,12 @@ A. 2 1 3 4  B. 2 1 4 3  C. 1 2 3 4  D. 2 3 1 4
 
 **Q48.** With reference to *Indica*, consider the following statements:
 
-1. City administration uses six boards of five.  
-2. The army also uses six boards of five.  
+1. City administration uses six boards of five.
+2. The army also uses six boards of five.
 3. These twelve boards are Kautilya’s 18 tirthas.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1399,9 +1399,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q49.** Which one of the following pairs is **not** correctly matched?
 
-A. RE V — Dhamma-mahamatras  
-B. PE V — protected-animal list  
-C. PE II — edict definition of dhamma  
+A. RE V — Dhamma-mahamatras
+B. PE V — protected-animal list
+C. PE II — edict definition of dhamma
 D. RE XIII — Maski naming of Ashoka
 
 <details>
@@ -1415,13 +1415,13 @@ D. RE XIII — Maski naming of Ashoka
 
 **Q50.** Given below are two statements:
 
-**Assertion (A):** Rummindei records a tax concession at Lumbini.  
+**Assertion (A):** Rummindei records a tax concession at Lumbini.
 
 **Reason (R):** Ahraura is the UP site of the Sarnath lion capital.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1435,11 +1435,11 @@ D. (A) is false, but (R) is true
 
 **Q51.** Which of the following statements is/are correct?
 
-1. Shamasastry published the *Arthashastra* from a Mysore manuscript (1909).  
-2. Arthashastra admits slavery; *Indica* claims there was none.  
+1. Shamasastry published the *Arthashastra* from a Mysore manuscript (1909).
+2. Arthashastra admits slavery; *Indica* claims there was none.
 3. Four vidyas include varta and dandaniti.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1459,7 +1459,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | C. Ahraura | 3. UP Minor Rock Edict |
 | D. Kanaganahalli | 4. Raya Asoka panel |
 
-A. 2 1 3 4  B. 2 1 4 3  C. 1 2 3 4  D. 2 3 1 4
+A. 2 1 3 4 B. 2 1 4 3 C. 1 2 3 4 D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -1480,10 +1480,10 @@ A. 2 1 3 4  B. 2 1 4 3  C. 1 2 3 4  D. 2 3 1 4
 
 Consider the following statements with respect to Ashoka:
 
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".  
+1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
 2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -1498,10 +1498,10 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 With reference to the Puranas, which one of the following statements is correct?
 
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.  
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
 2. Vayu Purana throws light on the Gupta system of governance.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1516,7 +1516,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the following Rock Edicts of Ashoka speaks of religious synthesis?
 
-A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
+A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
 
 <details>
 <summary>Show answer</summary>
@@ -1531,9 +1531,9 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 
 The official 'Agronomai' during Mauryan age was related with which of the following field?
 
-A. Weight and measurement  
-B. Administrative management  
-C. Construction of roads  
+A. Weight and measurement
+B. Administrative management
+C. Construction of roads
 D. Revenue management
 
 <details>
@@ -1545,12 +1545,12 @@ D. Revenue management
 
 ### Years with zero extra hits in local `pyq/`
 
-**2025, 2021, 2019, 2018** — no further GS-I Mauryan/edict/Arthashastra hit after keyword search.  
+**2025, 2021, 2019, 2018** — no further GS-I Mauryan/edict/Arthashastra hit after keyword search.
 **Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. 2025 Q105 Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**.
 
 ---
 
-## Common Traps — Exam Locks
+## Common Traps — Facts
 
 1. **RE XII vs XIII** → XII = synthesis (2022); XIII = Kalinga.
 2. **Rahulovada = Ashoka’s dhamma definition** → **false** (2024).

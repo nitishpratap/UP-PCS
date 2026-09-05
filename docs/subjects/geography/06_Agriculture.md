@@ -10,9 +10,9 @@
 **Revolutions:** Green | White | Blue | Yellow | Golden | Silver | Pink | Rainbow | Evergreen
 </details>
 
-> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), **PMF IAS** cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra** Agriculture (institutions, practices, variety/disease facts, board HQs), UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — crop triples, ACZ 15, revolutions match, CACP/MSP/FRP, GR personalities, UP cane/potato  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), **PMF IAS** cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra** Agriculture (institutions, practices, variety/disease facts, board HQs), UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — crop triples, ACZ 15, revolutions match, CACP/MSP/FRP, GR personalities, UP cane/potato
+> **Last verified:** August 2026
 > **Current Affairs:** CCEA MSP — **22 mandated crops**; CACP recommends → Cabinet; Kharif 2026–27 common paddy **₹2,441/q**; MSP ≥ **1.5×** cost (Budget 2018–19)
 
 ---
@@ -56,7 +56,7 @@
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
@@ -210,14 +210,14 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 - Usual volume order: **West Bengal > Uttar Pradesh > Punjab**. **Punjab** (then TN/TG) leads **yield** because of full irrigation.
 - Rice covers the **largest cropped area** among foodgrains.
 - India is also the world’s largest **rice exporter** in recent years (Basmati to West Asia; non-Basmati to Africa / SE Asia).
-- **Azolla–Anabaena** fixes nitrogen in flooded fields (2023 Q104).
-- **Golden rice ↔ Vitamin A** (2018 pair correct; ozone–troposphere was the wrong pair).
-- Rice–wheat = NW Green Revolution rotation. The short harvest-to-sow window drives **stubble burning** in PB–HR.
+- **Azolla** is a floating fern that lives with the cyanobacterium **Anabaena** in its leaf cavities. In flooded paddy, Anabaena fixes atmospheric nitrogen; when Azolla dies and decays, that nitrogen enters the soil. So Azolla is a **biofertiliser** for water-logged rice — not an insecticide.
+- Other rice biofertilisers taught with Azolla are **blue-green algae**, Azospirillum, and phosphobacteria.
+- **Golden rice** is genetically engineered rice whose grain makes **beta-carotene** (provitamin A). Ordinary rice endosperm does not. Link it to **Vitamin A**, not nitrogen, ozone, or petroleum.
+- North-west India’s Green Revolution staple sequence is **rice (kharif) → wheat (rabi)**. Only a short gap sits between rice harvest and wheat sowing, so farmers often burn leftover straw to clear the field fast. That **stubble burning** is strongest in **Punjab–Haryana**.
 - **Krishna–Godavari delta** (Andhra Pradesh) is the classic **“Rice Bowl of India”** tag (distinct from the Chhattisgarh plain nickname).
 - **System of Rice Intensification (SRI)** uses alternate wetting and drying. It cuts seed need, methane, and electricity use.
-- Biofertilisers for rice include **blue-green algae**, Azospirillum, phosphobacteria and **Azolla**.
 - Hybrid Basmati: **Pusa RH-10**. Transplant seed rate for Basmati is about **15–20 kg/ha**.
-- Variety names often asked: **Jaya, Padma, Hansa, Krishna, Ratna, Barani Deep, Pusa Sugandha**. **Mahi Sugandha** is aromatic rice (not wheat). **Jawala** is **not** a rice variety in the usual exam lists.
+- Variety names often asked: **Jaya, Padma, Hansa, Krishna, Ratna, Barani Deep, Pusa Sugandha**. **Mahi Sugandha** is aromatic rice (not wheat). **Jawala** is **not** a rice variety in the usual variety lists.
 - **Dee-gee-woo-gen** is the rice dwarfing gene (wheat’s is **Norin-10**).
 
 | Belt | States |
@@ -239,7 +239,7 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 - Rain **50–75 cm** evenly (PMF often ~**75 cm**), or irrigation; well-drained **alluvial loam**.
 - Two textbook belts: (1) **Ganga–Satluj** plains of the north-west; (2) **black-soil** Deccan wheat.
 - Core states: **UP, Punjab, Haryana** (+ MP, RJ, Bihar).
-- **Assam–Wheat is wrong** (2022 Q142).
+- **Assam–Wheat is wrong**.
 - HYV semi-dwarf + water + fertiliser = GR surplus in PB–HR–W UP (2022 Q91 both).
 - Dwarfing gene in wheat is **Norin-10**. **Macaroni wheat** (*Triticum durum*) suits **rainfed / dry** conditions.
 - **Triticale** is a hybrid of **wheat and rye**.
@@ -253,7 +253,7 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 - Maize is mostly **kharif**; food + feed + starch; also rabi maize in Bihar pockets.
 - Botanical name **Zea mays**. Called the **“Queen of cereals.”** Used for starch, biodiesel feedstock and alcoholic beverages.
 - **Shaktiman-I** and **Shaktiman-II** are genetically modified / hybrid maize varieties.
-- Maturity is often about **90–150 days** (exam options near **110 days** are closest).
+- Maturity is often about **90–150 days** (options near **110 days** are closest).
 - Maize is a **C4** plant (rice and wheat are C3).
 - Leading producers in recent data often **Karnataka, Madhya Pradesh, Maharashtra**.
 - Millets are rainfed, drought-tolerant, light-soil crops; often mixed with pulses.
@@ -309,7 +309,7 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 - **Yellow ≠ Golden.**
 - Groundnut is the classic **dryland** oilseed. **Pegging** after flowering pushes the peg into soil — a groundnut-specific fact.
 - Groundnut needs **gypsum**-rich soil for quality pods.
-- Sesame often tops oil-content % among common exam options. **Safflower** = *Carthamus tinctorius*.
+- Sesame often tops oil-content % among common oilseed options. **Safflower** = *Carthamus tinctorius*.
 - Mustard varieties: **Varuna, Pusa Bold, Pitambari** (yellow mustard). **Kaushal** = groundnut variety.
 - Soybean area is largest in **Madhya Pradesh**; recent production leadership can flip with **Maharashtra** — read the stem year.
 
@@ -356,7 +356,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - 2019 A/R: both true; coops **do not explain** UP’s lower productivity → **B**.
 - Price = **FRP** (+ possible state SAP) — not cereal MSP.
 - By-products: bagasse, molasses / ethanol. Sugar can also come from **beet**, not cane alone.
-- Philippines cane + coconut credit: **Spanish and Americans** (2023 Q64).
+- Philippines cane + coconut credit: **Spanish and Americans**.
 - **Uttar Pradesh** is the classic **“Sugar Bowl”** of India (quantity). South India often leads **sucrose / productivity** (longer crushing season, frost-free).
 - First sugar mill in India: **Pratappur** (Deoria, UP), **1903**.
 - Sugarcane breeding HQ: **Sugarcane Breeding Institute, Coimbatore** (1912; under ICAR). Key variety: **Co. 1148**.
@@ -368,10 +368,10 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 
 | Crop | Climate | Site | India |
 |------|---------|------|-------|
-| **Tea** | 20–30°C; 150–300 cm | Well-drained **slopes** (no stagnant water) | Assam (volume), WB **Darjeeling GI**, Nilgiris/TN–KL; **plantation** (2024 Q34) |
+| **Tea** | 20–30°C; 150–300 cm | Well-drained **slopes** (no stagnant water) | Assam (volume), WB **Darjeeling GI**, Nilgiris/TN–KL; **plantation** |
 | **Coffee** | 15–28°C; 150–250 cm | **Shade**, well-drained | **KA > KL > TN** (Baba Budan / Coorg / Wayanad / Nilgiri) |
 | **Rubber** | 25–35°C; **>200 cm** | Humid equatorial; *Hevea brasiliensis* latex | **Kerala** (also TN, KA, A&N, Tripura pockets) |
-| Pepper / cardamom | Hot wet Ghats | Hills | **Kerala** largest (2018 Q107) |
+| Pepper / cardamom | Hot wet Ghats | Hills | **Kerala** largest |
 | Chilli | Warm Deccan | — | AP/TG strong — **not Kerala-only** |
 | Turmeric / ginger | Warm | South + NE | Many GIs |
 
@@ -403,7 +403,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - Tropical fruits: mango, banana, pineapple.
 - Subtropical: citrus, grapes.
 - Temperate hills: apple (J&K, HP, Uttarakhand).
-- World citrus belt = **Mediterranean** (2020 Q72).
+- World citrus belt = **Mediterranean**.
 - India’s orange fame = **Nagpur**.
 - **Guava varieties:** Sultana, Gulabi, Kali Champa (2018) — **not grapes**.
 - **Potato:** UP is the **leading producer**.
@@ -467,7 +467,7 @@ Three **number** facts — do not mix:
 
 ### Agro-ecological regions (NBSS&LUP ≈ 20)
 
-Grouped by ecosystem (exam needs the **count** and the **15 vs 20** swap trap more than every name):
+Grouped by ecosystem (remember the **count** and the **15 vs 20** swap trap more than every name):
 
 | Ecosystem | Example AER tags |
 |-----------|------------------|
@@ -521,7 +521,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 **CADWM pack:** field channels, land levelling, **warabandi** (roster turns), drainage, farmer organisations.
 
 - Over-irrigation without drainage → saline / alkaline usar. IGC is the desert example.
-- **Uttar Pradesh** is the classic richest state in **replenishable groundwater** among major exam options (dynamic GW resources framing).
+- **Uttar Pradesh** is the classic richest state in **replenishable groundwater** among major state options (dynamic GW resources framing).
 - Zero / reduced tillage, gypsum before irrigation, and leaving crop residue on the field all help **water conservation** in agriculture.
 
 ---
@@ -575,7 +575,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 - 2025 Delhi **bio-decomposer**: free to farmers; fungal mix turns stubble to manure (2025 Q10 **both**).
 - Herbicide: **Butachlor** (vs chlorpyrifos / quinalphos as insecticides; carbendazim as fungicide). First widely used herbicide often tagged **2,4-D**.
 
-| Disease / problem | Cause (2022 Q21) |
+| Disease / problem | Cause |
 |-------------------|------------------|
 | Citrus canker | **Bacteria** |
 | Red rot of sugarcane | **Fungus** |
@@ -593,7 +593,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 
 - India = world’s largest **milk** producer by volume (about one-fourth of world milk in recent FAOSTAT framing).
 - Buffalo are important in the north (higher fat).
-- **White Revolution:** **Verghese Kurien**, **Operation Flood**, **NDDB**, **Amul / Anand** cooperatives.
+- **White Revolution:Verghese Kurien**, **Operation Flood**, **NDDB**, **Amul / Anand** cooperatives.
 - Textbook phases: **I 1970–81** (milk grids / coops) → **II 1981–85** (expand dairies) → **III 1985–96** (consolidate). White Revolution launch often tagged **July 1970**.
 - **Indian Dairy Corporation** was set up at **Anand (Gujarat)** in **1970**. **NDDB** was established in **1965**. **NDRI** is at **Karnal** (Deemed University from 1989).
 - **Silver Revolution** = eggs / poultry.
@@ -611,7 +611,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 | Tharparkar | Cattle | Western Rajasthan border |
 | Deoni | Cattle | Dual-purpose |
 | Jamunapari | Goat | UP fame; high milk |
-| Barbari / Beetal | Goat | Other exam breeds |
+| Barbari / Beetal | Goat | Other common breeds |
 
 - 20th Livestock Census (**2019**): cattle about **193 million**. Top cattle states often **West Bengal, UP, Madhya Pradesh**. Top total livestock often **UP > Rajasthan > MP**. Top sheep often **Telangana**.
 - UP usually leads state milk production; Rajasthan and Madhya Pradesh follow in recent years.
@@ -642,7 +642,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 - Cane = **FRP** (Fair and Remunerative Price), not the cereal MSP label.
 - **APMC** = regulated mandi; **e-NAM** = electronic national mandi network.
 - **PM-KISAN** = direct income support; **PMFBY** = crop insurance; **NFSM** = rice–wheat–pulses–millets–oilseeds push; **NMSA** = climate-smart / soil-water.
-- AIDC (Budget 2021–22 framing) on **29** products (2021 Q103).
+- AIDC (Budget 2021–22 framing) on **29** products.
 - 2018 paddy MSP figure **₹1,750/q** is year-specific — remember the institution, not old rupees.
 - Fertiliser / power / irrigation support = **indirect** subsidy (2022 Q74 stmt 1 solid).
 
@@ -687,11 +687,11 @@ D. Ministry of Finance
 | Person | Role |
 |--------|------|
 | M.S. Swaminathan | GR in India; Evergreen idea |
-| Norman Borlaug | HYV wheat; Nobel **Peace** not Agriculture (2018 Q56) |
-| Verghese Kurien | White / milk (2022 Q39) |
+| Norman Borlaug | HYV wheat; Nobel **Peace** not Agriculture |
+| Verghese Kurien | White / milk |
 | L.K. Jha | Economic Administration Reforms |
 | Morarji Desai | Bank social control |
-| Amartya Sen | Food **entitlements** (2025 Q147) — not Swaminathan |
+| Amartya Sen | Food **entitlements** — not Swaminathan |
 | Hiralal Chaudhuri | Blue Revolution (fisheries) tag |
 
 | Revolution | Sector |
@@ -729,7 +729,7 @@ D. Ministry of Finance
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click *Show answer* under each question to reveal.  
+> **Answers hidden** — click *Show answer* under each question to reveal.
 > **Format mix:** 78 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
 **Q1.** Cropping intensity is correctly expressed as:
@@ -912,6 +912,8 @@ D. Sugarcane
 
 **Q11.** Which aquatic plant is used as a biofertiliser in water-logged rice fields?
 
+**Logic:** Tests Azolla as a flooded-rice biofertiliser. Trap is calling it an insecticide or pesticide.
+
 A. Water hyacinth only as insecticide
 
 B. Azolla
@@ -923,7 +925,8 @@ D. Salvinia as urea substitute only in deserts
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UPPCS 2023 Q104. Azolla–Anabaena N-fix.
+**Ans: B.** Azolla hosts **Anabaena**, which fixes nitrogen in flooded fields; decayed Azolla returns that N to the soil. **A / C** push the insecticide–pesticide trap. **D** invents a desert-only urea story.
+
 </details>
 
 **Q12.** The largest producer of cardamom and pepper in India is:
@@ -1200,7 +1203,7 @@ D. Rajasthan canal command only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Also podu / bewar / dahiya / kumri elsewhere — NE is the exam default.
+**Ans: B** — Also podu / bewar / dahiya / kumri elsewhere — NE is the usual default.
 </details>
 
 **Q28.** Which of the following pairs is correctly matched?
@@ -1397,6 +1400,8 @@ D. Latvia
 
 **Q40.** Golden rice is associated with:
 
+**Logic:** Golden rice = beta-carotene / Vitamin A in the grain. Distractors steal tags from other science pairs (ozone, petroleum, nitrogen).
+
 A. Vitamin A enrichment
 
 B. Nitrogen gas storage only
@@ -1408,7 +1413,8 @@ D. Petroleum blending
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 2018 pair; ozone–troposphere was the wrong pair in that set.
+**Ans: A.** Golden rice is engineered to make **beta-carotene** (provitamin A) in the endosperm. **B** belongs to Azolla / Rhizobium-type nitrogen stories. **C** belongs to the ozone–stratosphere pair (not rice). **D** is unrelated.
+
 </details>
 
 **Q41.** Who introduced the concept of entitlements in food security?
@@ -1951,12 +1957,12 @@ C. K.B. Thomas
 
 D. M.S. Randhawa
 
-**Exam logic:** Author cue vs “Father of Green Revolution” name trap.
+**Logic:** Author cue vs “Father of Green Revolution” name trap.
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **M.S. Randhawa** (Mohinder Singh Randhawa) wrote *History of Indian Agriculture*. Swaminathan is the Green / Evergreen face, not this book’s author.
+**Ans: D.M.S. Randhawa** (Mohinder Singh Randhawa) wrote *History of Indian Agriculture*. Swaminathan is the Green / Evergreen face, not this book’s author.
 
 </details>
 
@@ -1970,7 +1976,7 @@ C. 1970
 
 D. 1980
 
-**Exam logic:** Year cue for Pantnagar / GBPUAT inauguration.
+**Logic:** Year cue for Pantnagar / GBPUAT inauguration.
 
 <details>
 <summary>Show answer</summary>
@@ -1995,7 +2001,7 @@ C. 1 and 3 only
 
 D. 1, 2 and 3
 
-**Exam logic:** Three number systems — do not swap 15 and 20.
+**Logic:** Three number systems — do not swap 15 and 20.
 
 <details>
 <summary>Show answer</summary>
@@ -2014,7 +2020,7 @@ C. A regulated egg market
 
 D. A quality certification mark for agricultural produce
 
-**Exam logic:** Agmark = grading mark under the 1937 Act, not a co-op body.
+**Logic:** Agmark = grading mark under the 1937 Act, not a co-op body.
 
 <details>
 <summary>Show answer</summary>
@@ -2033,7 +2039,7 @@ C. Cowpea
 
 D. Guar
 
-**Exam logic:** Percentage N cue among common green manures.
+**Logic:** Percentage N cue among common green manures.
 
 <details>
 <summary>Show answer</summary>
@@ -2052,7 +2058,7 @@ C. Whole villages are reserved only for certified-seed companies
 
 D. Only urban entrepreneurs get seed-company finance
 
-**Exam logic:** Seed Village = farmer training + local affordable seed supply.
+**Logic:** Seed Village = farmer training + local affordable seed supply.
 
 <details>
 <summary>Show answer</summary>
@@ -2080,7 +2086,7 @@ C. A-2, B-4, C-1, D-3
 
 D. A-4, B-1, C-2, D-3
 
-**Exam logic:** Board HQ pairs; Coffee is Bengaluru, not Hyderabad.
+**Logic:** Board HQ pairs; Coffee is Bengaluru, not Hyderabad.
 
 <details>
 <summary>Show answer</summary>
@@ -2106,7 +2112,7 @@ Reason (R): Sikkim has less than 10% of its land available for agriculture.
 
 ## Complete PYQ Bank — Agriculture (2018–2025)
 
-> Study these as real papers: read the stem, attempt mentally, then open the answer.  
+> Study these as real papers: read the stem, attempt mentally, then open the answer.
 > **Coverage:** UPPCS Prelims 2018–2025 agri hits (MSP, crops, GR, revolutions, plantation, potato, Azolla, CACP, diseases, subsidies, W-UP). Year-grouped.
 
 ### 2018
@@ -2160,6 +2166,8 @@ D. Peace
 
 **Q57.** Which pair is NOT correctly matched?
 
+**Logic:** Find the one false pair. Golden rice–Vitamin A is true; ozone lives in the **stratosphere**, not the troposphere.
+
 A. Renneting–Cheese
 
 B. Genetic Engineering–Plasmids
@@ -2168,9 +2176,11 @@ C. Golden rice–Vitamin A
 
 D. Ozone layer–Troposphere
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: D** — Ozone is stratosphere. Golden rice–Vitamin A is correct.
+**Ans: D.** Ozone layer = **stratosphere**. **C** is correct (golden rice → Vitamin A). Trap is picking golden rice because another stem once mixed science pairs.
+
 </details>
 
 **Q106.** Sultana, Gulabi and Kali Champa varieties are of which major fruit?
@@ -2579,20 +2589,20 @@ D. Only 1
 ## Common Traps — Don't Fall For These
 
 1. **Wheat = kharif / cotton = rabi** — FALSE. Wheat **rabi**; cotton **kharif**.
-2. **CACP / RBI / NITI decides MSP** — FALSE. CACP **recommends**; **Cabinet** decides (2024 Q43).
+2. **CACP / RBI / NITI decides MSP** — FALSE. CACP **recommends**; **Cabinet** decides.
 3. **Cane price = cereal MSP** — FALSE. Cane = **FRP** (+ possible SAP).
-4. **Borlaug Nobel = Agriculture** — FALSE. **Peace** (2018 Q56).
+4. **Borlaug Nobel = Agriculture** — FALSE. **Peace**.
 5. **Kurien = Green Revolution** — FALSE. Kurien = **White / milk**; Swaminathan = GR.
-6. **Yellow = horticulture** — FALSE. Yellow = **oilseeds**; Golden = horticulture **and honey** (2022 Q136).
-7. **UP–Jute / Gujarat–Tea / Assam–Wheat** — FALSE. Correct pair in that set: **Kerala–Rubber** (2022 Q142).
-8. **Ahmedabad = India’s largest cotton textile centre** — FALSE. In cotton *region* yes; largest mill centre traditionally **Mumbai** (2020 Q58).
+6. **Yellow = horticulture** — FALSE. Yellow = **oilseeds**; Golden = horticulture **and honey**.
+7. **UP–Jute / Gujarat–Tea / Assam–Wheat** — FALSE. Correct pair in that set: **Kerala–Rubber**.
+8. **Ahmedabad = India’s largest cotton textile centre** — FALSE. In cotton *region* yes; largest mill centre traditionally **Mumbai**.
 9. **Maharashtra coops explain UP’s lower cane yield** — FALSE. Both facts true; R does **not** explain A (2019).
-10. **CIP potato centre = Aligarh** — FALSE. **Agra (Singna)**; UP is potato leader (2025 Q34).
+10. **CIP potato centre = Aligarh** — FALSE. **Agra (Singna)**; UP is potato leader.
 11. **Sultana/Gulabi/Kali Champa = grapes** — FALSE. **Guava** (2018).
 12. **ACZ = 127 or 20** — FALSE. Planning ACZ = **15**; NARP ~127; AER ~20.
 13. **Azolla = insecticide** — FALSE. **Biofertiliser** in flooded rice (2023).
-14. **Food entitlements = Swaminathan** — FALSE. **Amartya Sen** (2025 Q147).
-15. **Tea = zaid cereal** — FALSE. **Plantation** perennial (2024 Q34).
+14. **Food entitlements = Swaminathan** — FALSE. **Amartya Sen**.
+15. **Tea = zaid cereal** — FALSE. **Plantation** perennial.
 16. **Only one wheat belt** — FALSE. Ganga–Satluj plains **and** Deccan black-soil wheat.
 17. **Cotton = golden fibre** — FALSE. Cotton = **white gold**; jute = **golden fibre**.
 18. **Any NE state = first organic** — FALSE. **Sikkim** is the first fully organic state.

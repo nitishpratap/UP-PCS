@@ -35,11 +35,11 @@ Target about 25 minutes. Answer from memory. Mark misses. Use **mineral → geol
 <details>
 <summary>Show answer</summary>
 
-**Ans: Peat → lignite → bituminous → anthracite.** Non-coking bituminous feeds **thermal power** (about 80% of generation lore). **Coking coal** makes metallurgical coke for blast furnaces. **Jharia (Jharkhand)** is the coking lock. Uttar Pradesh coal is **non-coking Singrauli–Sonbhadra**, not Jharia. Neyveli is **lignite, Tamil Nadu**.
+**Ans: Peat → lignite → bituminous → anthracite.** Non-coking bituminous feeds **thermal power** (about 80% of generation lore). **Coking coal** makes metallurgical coke for blast furnaces. **Jharia (Jharkhand)** is the coking fact. Uttar Pradesh coal is **non-coking Singrauli–Sonbhadra**, not Jharia. Neyveli is **lignite, Tamil Nadu**.
 
 </details>
 
-**Q4.** Where are Gondwana coalfields, and which fields lock to which States?
+**Q4.** Where are Gondwana coalfields, and which fields fact to which States?
 
 <details>
 <summary>Show answer</summary>
@@ -61,7 +61,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Use **mineral → geol
 
 ## C. Petroleum and gas
 
-**Q6.** Name India’s main petroleum basins and the Digboi / Mumbai High / Cambay / KG locks.
+**Q6.** Name India’s main petroleum basins and the Digboi / Mumbai High / Cambay / KG facts.
 
 <details>
 <summary>Show answer</summary>
@@ -83,7 +83,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Use **mineral → geol
 
 ## D. Iron and other metals
 
-**Q8.** Types of iron ore, which is richest in iron, and the four belts / map locks?
+**Q8.** Types of iron ore, which is richest in iron, and the four belts / map facts?
 
 <details>
 <summary>Show answer</summary>
@@ -92,7 +92,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Use **mineral → geol
 
 </details>
 
-**Q9.** Manganese, bauxite and copper: States, uses, and the Khetri lock?
+**Q9.** Manganese, bauxite and copper: States, uses, and the Khetri fact?
 
 <details>
 <summary>Show answer</summary>
@@ -171,7 +171,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Use **mineral → geol
 
 ## Map and rapid chain
 
-**Q16.** Place the map locks without notes.
+**Q16.** Place the map facts without notes.
 
 <details>
 <summary>Show answer</summary>

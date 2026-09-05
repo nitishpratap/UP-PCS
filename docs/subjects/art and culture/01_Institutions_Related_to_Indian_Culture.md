@@ -8,14 +8,14 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 </details>
 
-> **Sources baked in:** NCERT Themes I–III, An Introduction to Indian Art (Class 11), Ministry of Culture / PIB, UNESCO, AMASR Act 1958, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — year–HQ–ministry matching, three akademis trap, ancient universities  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Themes I–III, An Introduction to Indian Art (Class 11), Ministry of Culture / PIB, UNESCO, AMASR Act 1958, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — year–HQ–ministry matching, three akademis trap, ancient universities
+> **Last verified:** August 2026
 > **Current Affairs:** Sahitya Akademi Yuva Puraskar **June 2025** (23 languages; **no Dogri**); **Gyan Bharatam Mission** (NMM restructured, Budget 2025–26); new Nalanda campus **Rajgir, June 2024** (MEA, not Culture)
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. The **Asiatic Society of Bengal** was founded in **1784** at Calcutta by **Sir William Jones**. **Warren Hastings** declined the Presidentship in Jones’s favour.
 2. **Fort William College** was set up in **1800** by **Lord Wellesley** to train Company officers in Indian languages.
@@ -34,7 +34,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 15. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
 16. **IGNCA** and the **Ministry of Culture** date to **1985**. **CCRT** began in **1979**. **NGMA** also dates to **1954**.
 17. **ICCR** (**1950**) belongs to the **MEA**, not the Culture Ministry.
-18. UP museum locks include **Allahabad Museum** (Prayagraj, **1931**), State Museum Lucknow, Jhansi Museum, and the **Sarnath** ASI site museum.
+18. UP museum facts include **Allahabad Museum** (Prayagraj, **1931**), State Museum Lucknow, Jhansi Museum, and the **Sarnath** ASI site museum.
 19. ASI circles for key UP monuments run through **Lucknow** and **Agra**, covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
 20. IVC sites in UP include **Alamgirpur**, **Mandi**, and **Hulas**. **Rakhigarhi** is in Haryana, not UP.
 21. The North Central Zonal Cultural Centre HQ is at **Prayagraj**. Lalit Kala has a regional centre at **Lucknow**. IGNCA has a regional centre at **Varanasi**.
@@ -44,9 +44,9 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Indology | Orientalism | Textual/philological study of India vs colonial framing of the “East” | भारतविद्या / प्राच्यवाद |
 | Gurukul | Mahavihara | Residential guru-shishya vs large Buddhist monastic university | गुरुकुल / महाविहार |
@@ -63,9 +63,9 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ## 1.1 Indological Studies
 
-**Lock event:** Asiatic Society of Bengal, **15 January 1784**, Calcutta.
+**Fact event:** Asiatic Society of Bengal, **15 January 1784**, Calcutta.
 
-| Person / body | Exam lock |
+| Person / body | Key fact |
 |---------------|-----------|
 | **Sir William Jones** | Founder-President; Sanskrit–Latin–Greek cognates; translated **Abhijnanashakuntalam** |
 | **Warren Hastings** | GG when Society founded; **declined Presidentship** in favour of Jones; encouraged Sanskrit/Persian/Arabic (UPPCS 2019 A/R) |
@@ -82,15 +82,15 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 - The Society’s journal was ***Asiatick Researches***.
 - Orientalists wanted Indian classical languages in education. Anglicists (Macaulay) pushed English.
 
-> **Exam note:** Asiatic Society = **1784 Calcutta Jones** — not Delhi, not 1857, not Max Müller, not Jonathan Duncan.
+> ** note:** Asiatic Society = **1784 Calcutta Jones** — not Delhi, not 1857, not Max Müller, not Jonathan Duncan.
 
 **PYQ — UPPCS Prelims 2021, Q40**
 
 Who was the founder of the 'Asiatic Society of Bengal'?
 
-A. Jonathan Duncan  
-B. Sir William Jones  
-C. Warren Hastings  
+A. Jonathan Duncan
+B. Sir William Jones
+C. Warren Hastings
 D. William Bentinck
 
 <details>
@@ -104,13 +104,13 @@ D. William Bentinck
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.  
+**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
 **Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -134,7 +134,7 @@ D. (A) is false, but (R) is true
 - By contrast, Buddhist **vihara** schools were open to wider groups including merchants.
 - **Gurukul Kangri Vishwavidyalaya** was founded at Haridwar in **1902** by **Dayananda Saraswati** (Arya Samaj). It taught Vedic and modern subjects. Arya Samaj gurukuls spread in the Gangetic belt including **UP**.
 
-> **Exam note:** Residential + oral + dakshina at end. “Monthly fee day-school” = FALSE. Kangri = Dayananda **1902**, not Vivekananda.
+> ** note:** Residential + oral + dakshina at end. “Monthly fee day-school” = FALSE. Kangri = Dayananda **1902**, not Vivekananda.
 
 ---
 
@@ -142,16 +142,16 @@ D. (A) is false, but (R) is true
 
 Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **shreni** (guild) craft training ran in parallel.
 
-| Lock | Content |
+| Fact | Content |
 |------|---------|
 | **4 ashramas** | Brahmacharya (student) → Grihastha → Vanaprastha → Sannyasa |
-| **18 Vidyas** | 4 Vedas + 4 Upvedas (Ayurveda, Dhanurveda, Gandharvaveda, Shilpaveda) + 6 Vedangas + Itihasa, Purana, Nyaya, Mimamsa, Dharma-shastra, Arthashastra (list variants exist; exam tests the **concept**) |
+| **18 Vidyas** | 4 Vedas + 4 Upvedas (Ayurveda, Dhanurveda, Gandharvaveda, Shilpaveda) + 6 Vedangas + Itihasa, Purana, Nyaya, Mimamsa, Dharma-shastra, Arthashastra (list variants exist; tests the **concept**) |
 | **64 Kalas** | Arts/skills (music, dance, painting, carpentry, metallurgy…) — **not** 64 Vedas |
 | **Languages** | Sanskrit (Brahmanical), Pali (Buddhist), Prakrit (Jain), Tamil (Sangam) |
 | **Assessment** | **Shastrartha** (debate); Nalanda gatekeepers (Hiuen Tsang: very low admission) |
 | **Decline** | 13th-c. raids (Khilji) + loss of patronage + Macaulay English model |
 
-> **Exam note:** 64 Kalas = **skills/arts**. Buddhist centres used **Pali and Sanskrit**, not Sanskrit only.
+> ** note:** 64 Kalas = **skills/arts**. Buddhist centres used **Pali and Sanskrit**, not Sanskrit only.
 
 ---
 
@@ -167,13 +167,13 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - The **Nalanda University Act, 2010** (enforced **25 Nov 2010**) created a new international university at **Rajgir**. It is an **institution of national importance** under the **Ministry of External Affairs** (East Asia Summit revival). It is **not** the ASI ruins and **not** under Mo Culture.
 - The new campus was inaugurated in **June 2024** (PM). The VC is **Sachin Chaturvedi** (May 2025). **Nav Nalanda Mahavihara** (1951) is a separate deemed university for Pali/Buddhist studies.
 
-> **Exam note:** Three Nalandas — (1) mahavihara ruins = ASI + UNESCO **2016**; (2) new university = **MEA, Act 2010**; (3) Nav Nalanda Mahavihara **1951**. Destroyer = **Bakhtiyar Khilji ~1193**.
+> ** note:** Three Nalandas — (1) mahavihara ruins = ASI + UNESCO **2016**; (2) new university = **MEA, Act 2010**; (3) Nav Nalanda Mahavihara **1951**. Destroyer = **Bakhtiyar Khilji ~1193**.
 
 ---
 
 ## 1.5 Takshashila University
 
-**Where:** **Gandhara** — present-day **Pakistan** (Taxila, near Rawalpindi). **Not** Bihar / UP.
+**Where:Gandhara** — present-day **Pakistan** (Taxila, near Rawalpindi). **Not** Bihar / UP.
 
 - It was among the **oldest** higher-learning centres, on the **Uttarapatha** trade route. It was a **city of many independent acharyas**, **not** one mahavihara campus.
 - Linked names include **Panini** (*Ashtadhyayi*), **Chanakya/Kautilya**, **Jivaka** (medicine) and the **Charaka** tradition.
@@ -182,13 +182,13 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - Decline followed **Hun** invasions (5th c.) and then a political shift. It was **not** a single Khilji raid.
 - It is a UNESCO WH site from **1980** (Pakistan). The Indian **ASI is not** the custodian.
 
-> **Exam note:** Taxila = **Pakistan today**. Panini + Chanakya = Taxila, not Nalanda.
+> ** note:** Taxila = **Pakistan today**. Panini + Chanakya = Taxila, not Nalanda.
 
 ---
 
 ## 1.6 Vikramashila University
 
-**Patron:** Pala king **Dharmapala** (late 8th–9th c. CE). **Where:** **Antichak, Bhagalpur, Bihar** (Ganga).
+**Patron:** Pala king **Dharmapala** (late 8th–9th c. CE). **Where:Antichak, Bhagalpur, Bihar** (Ganga).
 
 - Its specialisation was **Vajrayana / Tantric** Buddhism. It had a six-gate debate tradition.
 - The abbot **Atisha Dipankara** (980–1054) carried reform to **Tibet**.
@@ -196,7 +196,7 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - ASI excavations show a large **cruciform** monastery. It is **not** a separate UNESCO WH site (unlike Nalanda 2016).
 - The name is **not** Vikramaditya of Ujjain. Sister Pala mahaviharas often grouped in options are **Odantapuri** (Bihar), **Somapura** (Paharpur, Bangladesh — UNESCO) and **Jagaddala**.
 
-> **Exam note:** Founder-patron = **Dharmapala**. Atisha = Vikramashila. Destroyed **~1203**, same Khilji, **not** WH-listed.
+> ** note:** Founder-patron = **Dharmapala**. Atisha = Vikramashila. Destroyed **~1203**, same Khilji, **not** WH-listed.
 
 ---
 
@@ -221,14 +221,14 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 | Western | Udaipur |
 | Northern | Patiala |
 | Southern | Thanjavur |
-| **North Central** | **Prayagraj (Allahabad)** — UP lock |
+| **North Central** | **Prayagraj (Allahabad)** — UP fact |
 | North East | Dimapur |
 | South Central | Nagpur |
 
 - **Rabindra Bhavan**, Mandi House, New Delhi, houses **Sangeet Natak Akademi (1952, performing)**, **Sahitya Akademi (1954, letters)** and **Lalit Kala Akademi (1954, visual)**.
 - ASI is **1861**. IGNCA is **1985**. National Archives began as the Imperial Record Department in **1891**. The National Museum is **Delhi, 1949**.
 
-> **Exam note:** **ICCR = MEA**, not Culture. North Central ZCC = **Prayagraj**, not Lucknow. INTACH = NGO.
+> ** note:ICCR = MEA**, not Culture. North Central ZCC = **Prayagraj**, not Lucknow. INTACH = NGO.
 
 ---
 
@@ -239,12 +239,12 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - Its mandate is to survey, excavate and conserve. It also stops illegal digging and antiquity smuggling.
 - The governing law is the **AMASR Act 1958** (amended **2010**). The **National Monument Authority (NMA)** regulates a **prohibited 100 m / regulated 200 m** zone around protected monuments.
 - The **Antiquities and Art Treasures Act 1972** covers export and ownership of antiquities.
-- The organisation is a DG plus **Circles**. Exam-relevant circles are **Agra, Lucknow, Patna, Delhi and Jhansi**.
+- The organisation is a DG plus **Circles**. -relevant circles are **Agra, Lucknow, Patna, Delhi and Jhansi**.
 - It runs **site museums** at the monument (Sarnath, Sanchi, Nalanda, Konark, Fatehpur Sikri, Agra, Ellora, Elephanta, Gol Gumbaz).
-- There are about **3,600+** centrally protected monuments (exams accept “3000+”).
+- There are about **3,600+** centrally protected monuments (papers accept “3000+”).
 - UP ASI trap (full IVC questions live in Archaeology): **Alamgirpur, Mandi and Hulas** are in UP. **Rakhigarhi** is in **Haryana**.
 
-> **Exam note:** ASI = **1861**, Cunningham, **Culture**. AMASR = **1958**. Not Home / MEA.
+> ** note:** ASI = **1861**, Cunningham, **Culture**. AMASR = **1958**. Not Home / MEA.
 
 ---
 
@@ -262,7 +262,7 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - Regional centres are at **Varanasi**, Guwahati, Jagdalpur and Vadodara.
 - IGNCA does **research and documentation**. SNA does **awards and festivals**. IGNCA was not founded in 1954.
 
-> **Exam note:** IGNCA = **1985 trust**, Culture — not 1954 (akademi year).
+> ** note:** IGNCA = **1985 trust**, Culture — not 1954 (akademi year).
 
 ---
 
@@ -274,7 +274,7 @@ Evolved from **Imperial Record Department, 1891, Calcutta**; shifted to **New De
 - Under the **Public Records Act 1993**, the DG of Archives is the nodal authority.
 - The digital portal is **Abhilekh Patal**. Regional offices include Bhubaneswar, Bhopal, Jaipur, Puducherry, Raipur and Thiruvananthapuram.
 
-> **Exam note:** Origin **1891 Calcutta**; **HQ today = New Delhi**. Culture, not Home. Public Records Act = **1993**.
+> ** note:** Origin **1891 Calcutta**; **HQ today = New Delhi**. Culture, not Home. Public Records Act = **1993**.
 
 ---
 
@@ -286,7 +286,7 @@ Evolved from **Imperial Record Department, 1891, Calcutta**; shifted to **New De
 - It is **not** India’s oldest museum. The **Indian Museum, Kolkata (1814)** is the oldest.
 - It is **not** in Kolkata. NGMA (1954) is a modern art **gallery** with a separate building and mandate.
 
-> **Exam note:** National Museum = **Delhi 1949**. Oldest = **Indian Museum Kolkata 1814**. Do not swap.
+> ** note:** National Museum = **Delhi 1949**. Oldest = **Indian Museum Kolkata 1814**. Do not swap.
 
 ---
 
@@ -298,7 +298,7 @@ Evolved from **Imperial Record Department, 1891, Calcutta**; shifted to **New De
 - Awards include the Akademi Award, **Akademi Ratna** (Fellowship, limited living recipients) and the **Ustad Bismillah Khan Yuva Puraskar**.
 - It holds archives of masters. It supports UNESCO ICH nominations with documentation.
 
-> **Exam note:** SNA = **1952**, performing arts. **Not 1954.** Bismillah Khan Yuva Puraskar = SNA, not Sahitya.
+> ** note:** SNA = **1952**, performing arts. **Not 1954.** Bismillah Khan Yuva Puraskar = SNA, not Sahitya.
 
 ---
 
@@ -310,20 +310,20 @@ Evolved from **Imperial Record Department, 1891, Calcutta**; shifted to **New De
 - Awards include the Sahitya Akademi Award (book), Fellowship, **Bal Sahitya Puraskar** and **Yuva Puraskar** (authors **≤35**).
 - **Jnanpith** (first **1965**, Bharatiya Jnanpith **trust**) is a **different** honour. It is not an Akademi prize.
 
-**2025 CA (UPPCS 2025 Q20):** Yuva Puraskar announced **June 2025** in **23** languages; **no award in Dogri** that cycle. President then: **Madhav Kaushik**.
+**2025 CA:** Yuva Puraskar announced **June 2025** in **23** languages; **no award in Dogri** that cycle. President then: **Madhav Kaushik**.
 
-> **Exam note:** Sahitya = **1954**, **24** languages, Yuva **≤35**. 2025 Yuva = **23 + no Dogri**. Jnanpith ≠ Sahitya.
+> ** note:** Sahitya = **1954**, **24** languages, Yuva **≤35**. 2025 Yuva = **23 + no Dogri**. Jnanpith ≠ Sahitya.
 
 **PYQ — UPPCS Prelims 2025, Q20**
 
 With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
 
-1. Yuva Puraskar was announced in 23 Indian languages.  
+1. Yuva Puraskar was announced in 23 Indian languages.
 2. There is no Yuva Puraskar in Dogri this year.
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -337,9 +337,9 @@ D. Only 1
 
 Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?
 
-A. Anita Desai  
-B. Anuradha Roy  
-C. Shobha De  
+A. Anita Desai
+B. Anuradha Roy
+C. Shobha De
 D. Sudha Murthy
 
 <details>
@@ -360,7 +360,7 @@ D. Sudha Murthy
 - Regional centres are at Chennai, Kolkata, **Lucknow (UP)** and Bhubaneswar.
 - **NGMA** is a museum/gallery of modern art. Lalit Kala is an **academy** (awards, scholarships, triennale).
 
-> **Exam note:** Lalit Kala = **visual arts, 1954**. Triennale = LKA, not NGMA/IGNCA. Lucknow regional centre = UP lock.
+> ** note:** Lalit Kala = **visual arts, 1954**. Triennale = LKA, not NGMA/IGNCA. Lucknow regional centre = UP fact.
 
 ---
 
@@ -391,9 +391,9 @@ Match **name–city–year–speciality**. Oldest = **Indian Museum, Kolkata, 18
 
 Which one of the famous buildings of New Delhi has been converted into the Prime Ministers' Museum?
 
-A. Vigyan Bhavan  
-B. India Habitat Centre  
-C. Teen Murti Bhavan  
+A. Vigyan Bhavan
+B. India Habitat Centre
+C. Teen Murti Bhavan
 D. Talkatora Stadium
 
 <details>
@@ -407,9 +407,9 @@ D. Talkatora Stadium
 
 In August, 2020 Railway Museum in India was dedicated to the nation at which of the following places?
 
-A. Hubballi  
-B. Mysore  
-C. Silvasa  
+A. Hubballi
+B. Mysore
+C. Silvasa
 D. Chittaranjan
 
 <details>
@@ -419,7 +419,7 @@ D. Chittaranjan
 
 </details>
 
-> **Exam note:** Salar Jung = **Hyderabad**, not Delhi. Indian Museum = **Kolkata**, not Delhi. Allahabad Museum = **Prayagraj**.
+> ** note:** Salar Jung = **Hyderabad**, not Delhi. Indian Museum = **Kolkata**, not Delhi. Allahabad Museum = **Prayagraj**.
 
 ---
 
@@ -440,7 +440,7 @@ Home for **scheme–year–ministry–objective**. KSVY is the **umbrella** for 
 | **Kala Sanskriti Vikas Yojana** | Umbrella | Culture | Performing arts grants, festivals, guru-shishya | Not visual-arts-only |
 | **Young Artist Scholarships** | Ongoing | Culture | Classical music/dance training | Age/guru criteria apply |
 
-> **Exam note:** EBSB = **2015**. NCF = **1996**. **PRASAD = Tourism**. Gyan Bharatam = NMM successor (Budget 2025–26).
+> ** note:** EBSB = **2015**. NCF = **1996**. **PRASAD = Tourism**. Gyan Bharatam = NMM successor (Budget 2025–26).
 
 ---
 
@@ -450,13 +450,13 @@ Home for **scheme–year–ministry–objective**. KSVY is the **umbrella** for 
 
 **Q1.** With reference to the Asiatic Society of Bengal, which of the following statements is/are correct?
 
-1. It was founded in Calcutta in 1784 with Sir William Jones as President.  
-2. Jonathan Duncan was its first President.  
+1. It was founded in Calcutta in 1784 with Sir William Jones as President.
+2. Jonathan Duncan was its first President.
 3. Warren Hastings declined the offer of Presidentship.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -470,13 +470,13 @@ D. 1, 2 and 3
 
 **Q2.** With reference to ancient Indian education, which of the following statements is/are correct?
 
-1. The gurukul was primarily residential.  
-2. Guru dakshina was a monthly tuition fee.  
+1. The gurukul was primarily residential.
+2. Guru dakshina was a monthly tuition fee.
 3. 64 Kalas refer to arts and skills.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -490,13 +490,13 @@ D. 1, 2 and 3
 
 **Q3.** With reference to Nalanda, which of the following statements is/are correct?
 
-1. The mahavihara ruins are a UNESCO World Heritage Site (2016) maintained by ASI.  
-2. The Nalanda University Act, 2010 created a new university under the Ministry of Culture.  
+1. The mahavihara ruins are a UNESCO World Heritage Site (2016) maintained by ASI.
+2. The Nalanda University Act, 2010 created a new university under the Ministry of Culture.
 3. Bakhtiyar Khilji destroyed Nalanda around 1193 CE.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -510,12 +510,12 @@ D. 1, 2 and 3
 
 **Q4.** With reference to Takshashila and Vikramashila, which of the following statements is/are correct?
 
-1. Takshashila lay in Gandhara (present-day Pakistan) and was a multi-teacher city, not a single mahavihara.  
+1. Takshashila lay in Gandhara (present-day Pakistan) and was a multi-teacher city, not a single mahavihara.
 2. Vikramashila was founded by Dharmapala and is a separate UNESCO World Heritage Site (2016).
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -529,14 +529,14 @@ D. Neither 1 nor 2
 
 **Q5.** How many of the following statements about the three akademis are correct?
 
-1. Sangeet Natak Akademi was established in 1952.  
-2. Sahitya Akademi and Lalit Kala Akademi were both established in 1954.  
-3. Lalit Kala Akademi is the national academy of letters.  
+1. Sangeet Natak Akademi was established in 1952.
+2. Sahitya Akademi and Lalit Kala Akademi were both established in 1954.
+3. Lalit Kala Akademi is the national academy of letters.
 4. Ustad Bismillah Khan Yuva Puraskar is given by Sangeet Natak Akademi.
 
-A. Only one  
-B. Only two  
-C. Only three  
+A. Only one
+B. Only two
+C. Only three
 D. All four
 
 <details>
@@ -550,13 +550,13 @@ D. All four
 
 **Q6.** With reference to Sahitya Akademi, which of the following statements is/are correct?
 
-1. It recognises 24 languages, including English.  
-2. Yuva Puraskar is for authors aged 35 or below.  
+1. It recognises 24 languages, including English.
+2. Yuva Puraskar is for authors aged 35 or below.
 3. The Jnanpith Award is conferred by Sahitya Akademi.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -570,13 +570,13 @@ D. 1, 2 and 3
 
 **Q7.** With reference to museums in India, which of the following statements is/are correct?
 
-1. Indian Museum, Kolkata (1814) is the oldest museum in India.  
-2. National Museum is in Kolkata.  
+1. Indian Museum, Kolkata (1814) is the oldest museum in India.
+2. National Museum is in Kolkata.
 3. Salar Jung Museum is in Hyderabad.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -590,13 +590,13 @@ D. 1, 2 and 3
 
 **Q8.** With reference to ASI, which of the following statements is/are correct?
 
-1. It was established in 1861 with Alexander Cunningham as first Director General.  
-2. It functions under the Ministry of Home Affairs.  
+1. It was established in 1861 with Alexander Cunningham as first Director General.
+2. It functions under the Ministry of Home Affairs.
 3. AMASR Act was enacted in 1958.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -610,13 +610,13 @@ D. 1, 2 and 3
 
 **Q9.** With reference to cultural bodies, which of the following statements is/are correct?
 
-1. ICCR functions under the Ministry of External Affairs.  
-2. INTACH is an autonomous organisation of the Ministry of Culture.  
+1. ICCR functions under the Ministry of External Affairs.
+2. INTACH is an autonomous organisation of the Ministry of Culture.
 3. North Central Zonal Cultural Centre is headquartered at Prayagraj.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -630,13 +630,13 @@ D. 1, 2 and 3
 
 **Q10.** With reference to government schemes, which of the following statements is/are correct?
 
-1. Ek Bharat Shreshtha Bharat was launched in 2015.  
-2. National Culture Fund was established in 1996.  
+1. Ek Bharat Shreshtha Bharat was launched in 2015.
+2. National Culture Fund was established in 1996.
 3. PRASAD is implemented by the Ministry of Culture.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -650,13 +650,13 @@ D. 1, 2 and 3
 
 **Q11.** With reference to IGNCA and National Archives, which of the following statements is/are correct?
 
-1. IGNCA was established in 1985 as an autonomous trust.  
-2. National Archives originated as the Imperial Record Department in 1891.  
+1. IGNCA was established in 1985 as an autonomous trust.
+2. National Archives originated as the Imperial Record Department in 1891.
 3. Public Records Act was enacted in 1958.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -670,13 +670,13 @@ D. 1, 2 and 3
 
 **Q12.** With reference to Sahitya Akademi Yuva Puraskar 2025, which of the following statements is/are correct?
 
-1. Awards were announced in 23 Indian languages.  
-2. There was no Yuva Puraskar in Dogri that year.  
+1. Awards were announced in 23 Indian languages.
+2. There was no Yuva Puraskar in Dogri that year.
 3. Yuva Puraskar has no upper age limit.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -690,14 +690,14 @@ D. 1, 2 and 3
 
 **Q13.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Salar Jung Museum — Hyderabad  
-2. Indian Museum — New Delhi  
-3. Allahabad Museum — Prayagraj  
+1. Salar Jung Museum — Hyderabad
+2. Indian Museum — New Delhi
+3. Allahabad Museum — Prayagraj
 4. Calico Museum — Ahmedabad
 
-A. Only 2  
-B. 1 and 2  
-C. 2 and 3  
+A. Only 2
+B. 1 and 2
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -711,14 +711,14 @@ D. Only 1
 
 **Q14.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Takshashila — present-day Bihar  
-2. Vikramashila — Bhagalpur  
-3. Gurukul Kangri — Haridwar  
+1. Takshashila — present-day Bihar
+2. Vikramashila — Bhagalpur
+3. Gurukul Kangri — Haridwar
 4. Nalanda mahavihara ruins — UNESCO 2010
 
-A. 1 and 4 only  
-B. 2 and 3 only  
-C. 1, 2 and 4  
+A. 1 and 4 only
+B. 2 and 3 only
+C. 1, 2 and 4
 D. 1, 3 and 4
 
 <details>
@@ -739,9 +739,9 @@ D. 1, 3 and 4
 | C. Atisha | 3. Takshashila |
 | D. William Jones | 4. Nalanda |
 
-A. A-3, B-4, C-2, D-1  
-B. A-4, B-3, C-1, D-2  
-C. A-3, B-2, C-4, D-1  
+A. A-3, B-4, C-2, D-1
+B. A-4, B-3, C-1, D-2
+C. A-3, B-2, C-4, D-1
 D. A-1, B-4, C-2, D-3
 
 <details>
@@ -762,9 +762,9 @@ D. A-1, B-4, C-2, D-3
 | C. Lalit Kala Akademi | 3. 1985, arts research |
 | D. IGNCA | 4. 1954, literature |
 
-A. A-2, B-4, C-1, D-3  
-B. A-4, B-2, C-3, D-1  
-C. A-2, B-1, C-4, D-3  
+A. A-2, B-4, C-1, D-3
+B. A-4, B-2, C-3, D-1
+C. A-2, B-1, C-4, D-3
 D. A-1, B-4, C-2, D-3
 
 <details>
@@ -785,9 +785,9 @@ D. A-1, B-4, C-2, D-3
 | C. National Archives | 3. 1949 |
 | D. National Museum | 4. 1891 |
 
-A. A-2, B-1, C-4, D-3  
-B. A-1, B-2, C-3, D-4  
-C. A-2, B-4, C-1, D-3  
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-4, C-1, D-3
 D. A-3, B-1, C-4, D-2
 
 <details>
@@ -808,9 +808,9 @@ D. A-3, B-1, C-4, D-2
 | C. Gyan Bharatam Mission | 3. Tourism ministry |
 | D. PRASAD | 4. Successor to National Mission on Manuscripts |
 
-A. A-2, B-1, C-4, D-3  
-B. A-1, B-2, C-3, D-4  
-C. A-2, B-4, C-1, D-3  
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-4, C-1, D-3
 D. A-4, B-1, C-2, D-3
 
 <details>
@@ -824,14 +824,14 @@ D. A-4, B-1, C-2, D-3
 
 **Q19.** Arrange the following in chronological order of establishment and select the correct answer from the code given below.
 
-1. Indian Museum  
-2. Archaeological Survey of India  
-3. Sangeet Natak Akademi  
+1. Indian Museum
+2. Archaeological Survey of India
+3. Sangeet Natak Akademi
 4. Sahitya Akademi
 
-A. 1, 2, 3, 4  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 1, 2, 3, 4
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 1, 3, 2, 4
 
 <details>
@@ -845,14 +845,14 @@ D. 1, 3, 2, 4
 
 **Q20.** Arrange the following in chronological order and select the correct answer from the code given below.
 
-1. Destruction of Nalanda (~1193)  
-2. Destruction of Vikramashila (~1203)  
-3. Asiatic Society of Bengal  
+1. Destruction of Nalanda (~1193)
+2. Destruction of Vikramashila (~1203)
+3. Asiatic Society of Bengal
 4. ASI established
 
-A. 1, 2, 3, 4  
-B. 2, 1, 3, 4  
-C. 1, 2, 4, 3  
+A. 1, 2, 3, 4
+B. 2, 1, 3, 4
+C. 1, 2, 4, 3
 D. 3, 1, 2, 4
 
 <details>
@@ -864,12 +864,12 @@ D. 3, 1, 2, 4
 
 ---
 
-**Q21.** Assertion (A): Takshashila was organised as a single monastic campus like Nalanda.  
+**Q21.** Assertion (A): Takshashila was organised as a single monastic campus like Nalanda.
 Reason (R): Takshashila functioned as a city with many independent teachers.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -881,12 +881,12 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q22.** Assertion (A): National Museum, New Delhi is the oldest museum in India.  
+**Q22.** Assertion (A): National Museum, New Delhi is the oldest museum in India.
 Reason (R): Indian Museum, Kolkata was established in 1814.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -898,12 +898,12 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q23.** Assertion (A): ICCR functions under the Ministry of Culture.  
+**Q23.** Assertion (A): ICCR functions under the Ministry of Culture.
 Reason (R): ICCR promotes India’s cultural relations abroad.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -915,12 +915,12 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q24.** Assertion (A): Nalanda Mahavihara was inscribed as a UNESCO World Heritage Site in 2010.  
+**Q24.** Assertion (A): Nalanda Mahavihara was inscribed as a UNESCO World Heritage Site in 2010.
 Reason (R): The Nalanda University Act was passed in 2010.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -932,12 +932,12 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q25.** Assertion (A): Sangeet Natak Akademi and Sahitya Akademi were both established in 1954.  
+**Q25.** Assertion (A): Sangeet Natak Akademi and Sahitya Akademi were both established in 1954.
 Reason (R): Sangeet Natak Akademi was established in 1952.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -951,12 +951,12 @@ D. (A) is false, but (R) is true
 
 **Q26.** With reference to Gurukul Kangri Vishwavidyalaya, which of the following statements is/are correct?
 
-1. It was founded in 1902 at Haridwar.  
+1. It was founded in 1902 at Haridwar.
 2. It was founded by Swami Vivekananda.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -970,13 +970,13 @@ D. Neither 1 nor 2
 
 **Q27.** With reference to Lalit Kala Akademi, which of the following statements is/are correct?
 
-1. Triennale India is organised by it.  
-2. It has a regional centre at Lucknow.  
+1. Triennale India is organised by it.
+2. It has a regional centre at Lucknow.
 3. It is the same body as NGMA.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -990,13 +990,13 @@ D. 1, 2 and 3
 
 **Q28.** With reference to AMASR and related law, which of the following statements is/are correct?
 
-1. AMASR Act 1958 is the principal statute for centrally protected monuments.  
-2. The 2010 amendment created the National Monument Authority.  
+1. AMASR Act 1958 is the principal statute for centrally protected monuments.
+2. The 2010 amendment created the National Monument Authority.
 3. Antiquities and Art Treasures Act was enacted in 1972.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1010,13 +1010,13 @@ D. 1, 2 and 3
 
 **Q29.** With reference to Zonal Cultural Centres, which of the following statements is/are correct?
 
-1. There are seven ZCCs in India.  
-2. North Central ZCC is headquartered at Lucknow.  
+1. There are seven ZCCs in India.
+2. North Central ZCC is headquartered at Lucknow.
 3. Southern ZCC is headquartered at Thanjavur.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1030,13 +1030,13 @@ D. 1, 2 and 3
 
 **Q30.** With reference to HRIDAY and related schemes, which of the following statements is/are correct?
 
-1. HRIDAY (2015) included Varanasi among heritage cities.  
-2. Seva Bhoj Yojana reimburses CGST on free food served by religious charitable institutions.  
+1. HRIDAY (2015) included Varanasi among heritage cities.
+2. Seva Bhoj Yojana reimburses CGST on free food served by religious charitable institutions.
 3. Museum Grant Scheme funds ASI excavations.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1058,9 +1058,9 @@ D. 1, 2 and 3
 
 How many of the above pairs are correctly matched?
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -1074,13 +1074,13 @@ D. None
 
 **Q32.** With reference to National Archives of India, which of the following statements is/are correct?
 
-1. It is the oldest archival institution in Asia.  
-2. Its headquarters today is in Kolkata.  
+1. It is the oldest archival institution in Asia.
+2. Its headquarters today is in Kolkata.
 3. It preserves non-current government records, not primarily excavated artefacts.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1094,9 +1094,9 @@ D. 1, 2 and 3
 
 **Q33.** Which one of the following is correctly matched?
 
-A. Prime Ministers' Museum — Vigyan Bhavan  
-B. Railway Museum dedicated August 2020 — Hubballi  
-C. Salar Jung Museum — Lucknow  
+A. Prime Ministers' Museum — Vigyan Bhavan
+B. Railway Museum dedicated August 2020 — Hubballi
+C. Salar Jung Museum — Lucknow
 D. NGMA — Hyderabad only
 
 <details>
@@ -1110,13 +1110,13 @@ D. NGMA — Hyderabad only
 
 **Q34.** With reference to Pala-era mahaviharas, which of the following statements is/are correct?
 
-1. Dharmapala patronised both Nalanda’s expansion and the founding of Vikramashila.  
-2. Odantapuri and Somapura are often grouped with these Pala centres.  
+1. Dharmapala patronised both Nalanda’s expansion and the founding of Vikramashila.
+2. Odantapuri and Somapura are often grouped with these Pala centres.
 3. Somapura is in present-day Bihar.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1130,14 +1130,14 @@ D. 1, 2 and 3
 
 **Q35.** How many of the following languages are among the 24 recognised by Sahitya Akademi?
 
-1. Maithili  
-2. Bhojpuri  
-3. Dogri  
+1. Maithili
+2. Bhojpuri
+3. Dogri
 4. Santhali
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1151,13 +1151,13 @@ D. Only one
 
 **Q36.** With reference to IGNCA, which of the following statements is/are correct?
 
-1. Kalakosa is its research/publication division.  
-2. Janapada Sampada documents folk and tribal culture.  
+1. Kalakosa is its research/publication division.
+2. Janapada Sampada documents folk and tribal culture.
 3. It was established in 1954 along with Lalit Kala Akademi.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1171,14 +1171,14 @@ D. 1, 2 and 3
 
 **Q37.** Arrange the following in chronological order of establishment:
 
-1. Fort William College  
-2. Asiatic Society of Bengal  
-3. Sanskrit College, Calcutta  
+1. Fort William College
+2. Asiatic Society of Bengal
+3. Sanskrit College, Calcutta
 4. Gurukul Kangri
 
-A. 2, 1, 3, 4  
-B. 1, 2, 3, 4  
-C. 2, 3, 1, 4  
+A. 2, 1, 3, 4
+B. 1, 2, 3, 4
+C. 2, 3, 1, 4
 D. 2, 1, 4, 3
 
 <details>
@@ -1192,13 +1192,13 @@ D. 2, 1, 4, 3
 
 **Q38.** With reference to CCRT, NSD and NGMA, which of the following statements is/are correct?
 
-1. CCRT (1979) trains school teachers in culture.  
-2. NSD (1959) is under the Ministry of Culture.  
+1. CCRT (1979) trains school teachers in culture.
+2. NSD (1959) is under the Ministry of Culture.
 3. NGMA is the national academy of visual arts.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1212,13 +1212,13 @@ D. 1, 2 and 3
 
 **Q39.** Which of the following is/are **correctly** matched?
 
-1. Prohibited zone around a protected monument — 100 m (AMASR/NMA)  
-2. Antiquities and Art Treasures Act — 1972  
+1. Prohibited zone around a protected monument — 100 m (AMASR/NMA)
+2. Antiquities and Art Treasures Act — 1972
 3. Ministry of Culture as a separate ministry — 1954
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1232,13 +1232,13 @@ D. 1, 2 and 3
 
 **Q40.** With reference to UP cultural institutions, which of the following statements is/are correct?
 
-1. Allahabad Museum is in Prayagraj.  
-2. Lalit Kala Akademi’s UP regional centre is at Lucknow.  
+1. Allahabad Museum is in Prayagraj.
+2. Lalit Kala Akademi’s UP regional centre is at Lucknow.
 3. IGNCA has a regional centre at Varanasi.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1260,12 +1260,12 @@ UPPCS/RO-ARO first (newest → oldest), then UPSC-pattern only where local `pyq/
 
 With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
 
-1. Yuva Puraskar was announced in 23 Indian languages.  
+1. Yuva Puraskar was announced in 23 Indian languages.
 2. There is no Yuva Puraskar in Dogri this year.
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -1281,9 +1281,9 @@ D. Only 1
 
 Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?
 
-A. Anita Desai  
-B. Anuradha Roy  
-C. Shobha De  
+A. Anita Desai
+B. Anuradha Roy
+C. Shobha De
 D. Sudha Murthy
 
 <details>
@@ -1299,9 +1299,9 @@ D. Sudha Murthy
 
 Which one of the famous buildings of New Delhi has been converted into the Prime Ministers' Museum?
 
-A. Vigyan Bhavan  
-B. India Habitat Centre  
-C. Teen Murti Bhavan  
+A. Vigyan Bhavan
+B. India Habitat Centre
+C. Teen Murti Bhavan
 D. Talkatora Stadium
 
 <details>
@@ -1317,9 +1317,9 @@ D. Talkatora Stadium
 
 Who was the founder of the 'Asiatic Society of Bengal'?
 
-A. Jonathan Duncan  
-B. Sir William Jones  
-C. Warren Hastings  
+A. Jonathan Duncan
+B. Sir William Jones
+C. Warren Hastings
 D. William Bentinck
 
 <details>
@@ -1335,9 +1335,9 @@ D. William Bentinck
 
 In August, 2020 Railway Museum in India was dedicated to the nation at which of the following places?
 
-A. Hubballi  
-B. Mysore  
-C. Silvasa  
+A. Hubballi
+B. Mysore
+C. Silvasa
 D. Chittaranjan
 
 <details>
@@ -1353,13 +1353,13 @@ D. Chittaranjan
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.  
+**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
 **Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1375,9 +1375,9 @@ D. (A) is false, but (R) is true
 
 Which of the following is the oldest museum in India?
 
-A. National Museum, New Delhi  
-B. Indian Museum, Kolkata  
-C. Salar Jung Museum, Hyderabad  
+A. National Museum, New Delhi
+B. Indian Museum, Kolkata
+C. Salar Jung Museum, Hyderabad
 D. Government Museum, Chennai
 
 <details>
@@ -1391,9 +1391,9 @@ D. Government Museum, Chennai
 
 The Archaeological Survey of India was founded in:
 
-A. 1858  
-B. 1861  
-C. 1872  
+A. 1858
+B. 1861
+C. 1872
 D. 1902
 
 <details>
@@ -1407,9 +1407,9 @@ D. 1902
 
 Who among the following destroyed Nalanda Mahavihara?
 
-A. Mahmud of Ghazni  
-B. Muhammad Bakhtiyar Khilji  
-C. Iltutmish  
+A. Mahmud of Ghazni
+B. Muhammad Bakhtiyar Khilji
+C. Iltutmish
 D. Alauddin Khilji
 
 <details>
@@ -1423,9 +1423,9 @@ D. Alauddin Khilji
 
 Nalanda Mahavihara was declared a UNESCO World Heritage Site in:
 
-A. 2010  
-B. 2014  
-C. 2016  
+A. 2010
+B. 2014
+C. 2016
 D. 2018
 
 <details>

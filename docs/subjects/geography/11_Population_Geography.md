@@ -8,14 +8,14 @@
 Census of India | Factors of Distribution | Population Density (arithmetic / physiological / agricultural) | Growth Vocabulary | Sex Ratio | Child Sex Ratio | Literacy | Birth–Death–Natural Growth–TFR | Migration (streams / push–pull) | Composition (age / occupation / SC–ST) | Urbanization | Million Cities | Population Pyramid | Demographic Transition & Theories
 </details>
 
-> **Sources baked in:** Census 2011 (official until Census 2027), NCERT Class 12 (Population), PWOnlyIAS / Drishti notes, NFHS-4/5, NPP 2000, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — census firsts, 2011 number locks, UP extremes, TFR vs CBR trap, DTT/theories  
-> **Last verified:** August 2026  
+> **Sources baked in:** Census 2011 (official until Census 2027), NCERT Class 12 (Population), PWOnlyIAS / Drishti notes, NFHS-4/5, NPP 2000, UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — census firsts, 2011 number facts, UP extremes, TFR vs CBR trap, DTT/theories
+> **Last verified:** August 2026
 > **Current Affairs:** UNFPA World Population Report; India most populous in UN estimates ~2023 — **Census 2011 figures stay frozen** until Census 2027; NFHS-5 TFR ~2.0 (do not overwrite 2018 key 2.2)
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
 2. **1921** is the **Great Divide** year of Indian census history. **2011** was the **15th** census and the **7th** after Independence.
@@ -23,7 +23,7 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 4. Arithmetic density is **population / total area**. India’s 2011 arithmetic density is **382** persons per km².
 5. Physiological density is **population / net sown area**. Agricultural density is **agricultural population / net sown area**. Do not swap these three density types.
 6. Among States, **Bihar** has the highest density (**1106**). West Bengal and Kerala follow high; Uttar Pradesh is **829**. **Arunachal Pradesh** has the lowest State density (**17**). Delhi UT is very dense but is not a “lowest density State” answer.
-7. Core 2011 locks: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
+7. Core 2011 facts: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
 8. **Uttar Pradesh** is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
 9. Highest State sex ratio is **Kerala**. In the 2018 framing, lowest State sex ratio is **Haryana**. Lowest child sex ratio (rural + urban) is also **Haryana**.
 10. Literacy is highest in **Kerala** and lowest among States in **Bihar**. In Uttar Pradesh, **Shrawasti** has the lowest female literacy among districts.
@@ -37,7 +37,7 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 18. Push factors drive people from the origin; pull factors attract them to the destination. Out-migration sources are often Uttar Pradesh–Bihar; destinations are often Maharashtra–Delhi–Gujarat.
 19. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture.
 20. Census 2011 listed **53** million-plus urban agglomerations. Kanpur crossed the million mark in **1971**; Lucknow in **1981**. 2011 UP UA order is **Kanpur > Lucknow > Ghaziabad > Agra**.
-21. Uttar Pradesh district locks (2011): **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** high sex-ratio awareness; **Shrawasti** lowest female literacy.
+21. Uttar Pradesh district facts (2011): **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** high sex-ratio awareness; **Shrawasti** lowest female literacy.
 22. Uttar Pradesh holds about **16.5%** of India’s population. Rural share is about **77.7%**; urban about **22.3%**. State sex ratio is **912**; literacy about **67.7%**.
 23. Crowded belts are the Ganga plain and coasts. Sparse belts are the Himalaya, North-East hills, Thar and dry interior pockets. Distribution factors include terrain, climate, soil, water, minerals, industry, transport and history.
 24. Keep **Census 2011** numbers for Prelims until **Census 2027** results replace them. UN estimates that India became the most populous country around **2023** do not rewrite the 2011 tables.
@@ -46,9 +46,9 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | First census | **1872** non-sync; paper **1871** (2023) | 1881 as “first ever” | प्रथम जनगणना |
 | First synchronous | **1881** | 1872 | समकालिक |
@@ -87,7 +87,7 @@ Population geography asks **how many people live where**, **how that number chan
 - India’s official Prelims number set remains **Census 2011** until **Census 2027** results replace it.
 - UN estimates may say India became the world’s most populous country around **2023**, but that does **not** rewrite Census 2011 tables in the hall.
 
-**Core 2011 India locks**
+**Core 2011 Indias**
 
 - Population ≈ **121.09 crore**.
 - Density **382**, sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**.
@@ -156,7 +156,7 @@ Physical factors:
 Socio-economic and historical factors:
 
 - **Settled agriculture and early civilisation** kept river plains crowded for centuries.
-- **Minerals and industry** pull people toward mining–industrial belts (for example parts of Chotanagpur and coastal industrial hubs).
+- **Minerals and industry** pull people toward mining–industrial belts (ple parts of Chotanagpur and coastal industrial hubs).
 - **Transport networks** thicken settlement along roads and railways.
 - **Urbanisation and jobs** concentrate migrants in metros such as Delhi, Mumbai, Kolkata, Bengaluru, Chennai, Hyderabad and Ahmedabad.
 
@@ -199,14 +199,14 @@ Population density compares people with land. Prelims usually quotes **arithmeti
 
 | Type | Formula | What it shows |
 |------|---------|---------------|
-| **Arithmetic density** | Total population ÷ total area | Everyday “persons per km²” lock |
+| **Arithmetic density** | Total population ÷ total area | Everyday “persons per km²” fact |
 | **Physiological density** | Total population ÷ **net sown** area | Pressure of people on cultivated land |
 | **Agricultural density** | Agricultural population ÷ **net sown** area | Pressure of farm workers on cultivated land |
 
 - India’s Census **2011** arithmetic density is **382** (do not mix with **2001 ≈ 325**).
 - High-density **state** ladder awareness: **Bihar (~1106)** > **West Bengal (~1028)** > **Kerala (~860)** > **Uttar Pradesh (829)**.
 - The lowest density **state** is **Arunachal Pradesh (~17)**.
-- NCT **Delhi** is a very high-density UT awareness lock, but it is **not** a “state” answer in the lowest-density stem.
+- NCT **Delhi** is a very high-density UT awareness fact, but it is **not** a “state” answer in the lowest-density stem.
 - Moderate densities appear in many peninsular and central states; Himalayan and several NE hill states stay relatively low.
 
 **Inline PYQ — UPPCS Prelims 2021, Q142**
@@ -235,7 +235,7 @@ Sex ratio is the number of females per **1,000** males.
 
 - India’s Census **2011** sex ratio is **943** (up from **933** in 2001).
 - The highest state sex ratio is **Kerala**.
-- In the 2018 framing of an economically high but lowest sex-ratio state, the lock is **Haryana**.
+- In the 2018 framing of an economically high but lowest sex-ratio state, the fact is **Haryana**.
 - Uttar Pradesh sex ratio in 2011 is **912**.
 
 **Inline PYQ — UPPCS Prelims 2018, Q38**
@@ -293,7 +293,7 @@ Census literacy covers persons aged **7 years and above** who can read and write
 - India’s Census **2011** literacy is **74.04%** (male **82.14%**, female **65.46%**).
 - Highest literacy state is **Kerala**.
 - Lowest literacy state is **Bihar**.
-- In Uttar Pradesh, the lowest **female literacy** district lock is **Shrawasti**.
+- In Uttar Pradesh, the lowest **female literacy** district fact is **Shrawasti**.
 - UP overall literacy in 2011 is about **67.7%**.
 - The **Lorenz curve** measures **income inequality**, not illiteracy.
 
@@ -517,7 +517,7 @@ A Census **million city / urban agglomeration** has population ≥ **10 lakh**.
 A population pyramid shows age–sex structure.
 
 - Age **0–14** is the child / young band.
-- Age **15–59** is the working-age band used for the **demographic dividend** lock in the 2022 paper.
+- Age **15–59** is the working-age band used for the **demographic dividend** fact in the 2022 paper.
 - Age **60+** is the aged band and is **not** that paper’s dividend definition.
 - A broad base signals high fertility (expanding pyramid). A narrow base with a bulging top signals ageing.
 - India remains youthful while the **15–59** share stays high; southern states show earlier ageing signals than the high-fertility northern belt in coaching comparisons.
@@ -616,12 +616,12 @@ Uttar Pradesh is India’s **most populous** state and also has the **largest ru
 - UP held about **16.5%** of India’s population (~**19.98 crore**).
 - Density **829**, sex ratio **912**, literacy about **67.7%**, urban share about **22.3%**, rural share about **77.7%**.
 - Decadal growth **2001–11** was about **20.23%**.
-- District awareness locks: **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among the better sex-ratio districts; **Shrawasti** lowest female literacy.
+- District awareness facts: **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among the better sex-ratio districts; **Shrawasti** lowest female literacy.
 - Million-city years: Kanpur **1971**, Lucknow **1981**.
 - UA order 2011: **Kanpur > Lucknow > Ghaziabad > Agra**.
 - In Bill-style stems, never treat TFR as a “per thousand” figure.
 
-| Item | 2011 lock |
+| Item | 2011 fact |
 |------|-----------|
 | Rank | Most populous state; largest rural population |
 | Density / SR / literacy | 829 / 912 / ~67.7% |
@@ -631,7 +631,7 @@ Uttar Pradesh is India’s **most populous** state and also has the **largest ru
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
 **Q1.** When was the Census conducted for the first time in India? (2023 options)
@@ -1392,7 +1392,7 @@ D. Himachal Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Mizoram is high but Kerala is the lock.
+**Ans: B** — Mizoram is high but Kerala is the fact.
 </details>
 
 ---
@@ -1585,7 +1585,7 @@ D. Lalitpur
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — **Prayagraj** (Allahabad) is the most populous district lock.
+**Ans: B** — **Prayagraj** (Allahabad) is the most populous district fact.
 </details>
 
 ---
@@ -1626,7 +1626,7 @@ D. Inequality of income
 
 ---
 
-**Q54.** Assertion (A): Natural growth of population excludes migration.  
+**Q54.** Assertion (A): Natural growth of population excludes migration.
 Reason (R): Natural growth is defined as Crude Birth Rate minus Crude Death Rate.
 
 A. Both A and R are true and R explains A
@@ -1811,7 +1811,7 @@ D. Kerala > Bihar > Arunachal > UP
 
 ---
 
-**Q64.** Assertion (A): Absolute growth and growth rate are not the same thing.  
+**Q64.** Assertion (A): Absolute growth and growth rate are not the same thing.
 Reason (R): Absolute growth is P₂ − P₁, while growth rate expresses change as a percentage of the base.
 
 A. Both A and R are true and R explains A
@@ -2303,7 +2303,7 @@ D. A and B
 | **NFHS-5** | TFR ~**2.0** nationally | Do not overwrite 2018 NFHS-4 key **2.2** | MoHFW |
 | **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
 | **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
-| **NPP 2000** | Stable population **2045** | Policy year lock | MoHFW |
+| **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
 | **11 July** | World Population Day | 2018 Q114 | UN |
 
 ---
@@ -2312,7 +2312,7 @@ D. A and B
 
 1. **First census = 1881** — FALSE as “first ever.” **1881 = first synchronous**; 2023 key **1871**.
 2. **Density 324** — that is **2001**. **2011 = 382**.
-3. **Highest density = West Bengal / Delhi as a “state”** — state lock is **Bihar**.
+3. **Highest density = West Bengal / Delhi as a “state”** — state fact is **Bihar**.
 4. **Lowest density = Himachal / Mizoram** — **Arunachal**.
 5. **CSR = 943** — 943 is **overall** SR; CSR = **919** (0–6).
 6. **Lowest CSR = UP** — FALSE. **Haryana** (rural and urban).
@@ -2327,7 +2327,7 @@ D. A and B
 15. **Replace 2011 with UN 2023 headcount in Prelims tables** — FALSE until **Census 2027**.
 16. **Lorenz curve = illiteracy** — FALSE. It measures **income inequality**.
 17. **World Population Report = WHO / UNDP** — FALSE. **UNFPA**.
-18. **Highest density state = Delhi** — FALSE as a state answer. Lock **Bihar**.
+18. **Highest density state = Delhi** — FALSE as a state answer. Fact **Bihar**.
 19. **Nagaland = least populous** — FALSE. Negative growth ≠ least populous; least populous = **Sikkim**.
 20. **Literacy age = 0–6 or 18+** — FALSE. Census literacy = age **7+**.
 21. **Arithmetic density = population ÷ net sown area** — FALSE. That is **physiological** density.

@@ -229,7 +229,7 @@
 
 ---
 
-## 16. Exam Essentials — Awards, Personalities & GI Tags
+## 16. Essentials — Awards, Personalities & GI Tags
 
 * Bharat Ratna (Culture)
 * Sangeet Natak Akademi Awards

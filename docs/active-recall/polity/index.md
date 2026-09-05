@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 # Polity — Active Recall

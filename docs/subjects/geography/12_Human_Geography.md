@@ -8,14 +8,14 @@
 Human Geography (nature, scope, approaches) | Settlements | Rural vs Urban | Village Types | Functional Classification of Towns | Urban Hierarchy | Smart Cities | Heritage Cities (HRIDAY) | Smart Villages / Rurban | Metropolitan Cities | UP Urban Centres
 </details>
 
-> **Sources baked in:** NCERT Class 12 Fundamentals of Human Geography + Human Settlements, PWOnlyIAS / Drishti notes, Census town definitions, MoHUA / MoRD schemes, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — village types, town functions, Smart City lists (UP), scheme years, metro vs million city; also teach nature/scope even if not yet asked  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Class 12 Fundamentals of Human Geography + Human Settlements, PWOnlyIAS / Drishti notes, Census town definitions, MoHUA / MoRD schemes, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — village types, town functions, Smart City lists (UP), scheme years, metro vs million city; also teach nature/scope even if not yet asked
+> **Last verified:** August 2026
 > **Current Affairs:** Smart Cities Mission (25 Jun 2015); AMRUT 2.0 (1 Oct 2021); SPMRM **launch 2016** (not 2015); ISAC-2020; UP **10 Central** Smart Cities
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. Human geography studies the **man–environment relationship** and the spatial patterns of human life, settlements and economy.
 2. **Environmental determinism** (Ratzel / Semple) says nature controls culture. **Possibilism** (Vidal de la Blache) says humans choose among nature’s options. **Neo-determinism** (Griffith Taylor) is stop-and-go determinism.
@@ -34,7 +34,7 @@ Human Geography (nature, scope, approaches) | Settlements | Rural vs Urban | Vil
 15. The **Smart Cities Mission** launched on **25 June 2015** for **100** cities under **MoHUA**, implemented through an SPV. ABD means area-based development (retrofit / redevelopment / greenfield) plus pan-city ICT.
 16. Uttar Pradesh’s **Central / Mission** Smart City list is **10**: Lucknow, Kanpur, Prayagraj, Agra, Varanasi, Aligarh, Bareilly, Jhansi, Moradabad and Saharanpur. **Ghaziabad is not** in that Central-10.
 17. Uttar Pradesh’s **State Smart Cities (2019)** are seven Nagar Nigams (including Ghaziabad, Meerut, Gorakhpur, Mathura, Ayodhya, Firozabad, Shahjahanpur). State list does not rewrite Mission-100 keys.
-18. ISAC-2020 theme locks: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh**; best cities included Indore and Surat.
+18. ISAC-2020 theme facts: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh**; best cities included Indore and Surat.
 19. **HRIDAY** covers **12** heritage cities. In Uttar Pradesh the pair is **Varanasi and Mathura** — not Prayagraj or Ayodhya.
 20. **SPMRM (Rurban)** was **launched on 21 February 2016** (Cabinet approval 2015). Matching the scheme to **2015** is the classic trap. It is under **MoRD**, not MoHUA.
 21. **Rurbanization** is keyed to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
@@ -46,9 +46,9 @@ Human Geography (nature, scope, approaches) | Settlements | Rural vs Urban | Vil
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Census town | 5,000 + 400/km² + 75% non-agri male main | Any big village / always a municipality | जनगणना नगर |
 | Clustered village | Plains + **Rajasthan water** + Bundelkhand/Nagaland defence | “Thar = dispersed” | संकुल |
@@ -86,7 +86,7 @@ Human geography studies the **relationship between people and the physical earth
 
 **Schools / approaches (coaching + NCERT)**
 
-| Approach | Core lock | Name cue |
+| Approach | Core fact | Name cue |
 |----------|-----------|----------|
 | **Environmental determinism** | Nature controls human life and culture | **Friedrich Ratzel**; **Ellen C. Semple** |
 | **Possibilism** | Nature offers possibilities; humans choose | **Vidal de la Blache** |
@@ -95,7 +95,7 @@ Human geography studies the **relationship between people and the physical earth
 **Branches / fields (awareness, not a dump)**
 
 - Population geography, settlement geography, economic geography, social geography, political geography and cultural geography are standard subfields.
-- This chapter’s exam home is mainly **settlement geography** — rural patterns, urban hierarchy, town functions and urban missions — but nature/scope can still be asked as a fresh angle.
+- This chapter’s home is mainly **settlement geography** — rural patterns, urban hierarchy, town functions and urban missions — but nature/scope can still be asked as a fresh angle.
 
 **Settlement vocabulary that opens every rural–urban stem**
 
@@ -166,14 +166,14 @@ Rural settlement pattern differs for three NCERT reasons.
 
 **Rural house-material cues (climate)**
 
-| Belt | Lock |
+| Belt | Fact |
 |------|------|
 | Heavy rain (W. coast, NE) | **Sloping** roofs; bamboo / wood in NE |
 | Arid Rajasthan | **Flat** roofs; compact around water |
 | Himalaya | Stone / slate |
 | Ganga plain | Mud / brick; courtyard houses |
 
-> **Exam note:** **Do not** key “Thar = dispersed.” NCERT: Rajasthan is **clustered** because of water scarcity. Dispersed NCERT option = **forests and hills in the North-East**, not the Ganga plain.
+> ** note:Do not** key “Thar = dispersed.” NCERT: Rajasthan is **clustered** because of water scarcity. Dispersed NCERT option = **forests and hills in the North-East**, not the Ganga plain.
 
 ---
 
@@ -186,7 +186,7 @@ Size (Census class) and function are **different** questions.
 
 **Census size classes (2011)**
 
-| Class | Population | 2011 lock |
+| Class | Population | 2011 fact |
 |-------|------------|-----------|
 | **I** (city) | **≥ 1,00,000** | **468** towns; ~**60%** of India’s urban population |
 | II | 50,000–99,999 | |
@@ -211,7 +211,7 @@ Size (Census class) and function are **different** questions.
 
 **Urban evolution (NCERT three layers)**
 
-| Layer | Lock |
+| Layer | Fact |
 |-------|------|
 | Ancient (~2000+ yrs) | **Varanasi, Prayag (Prayagraj), Pataliputra (Patna), Madurai** — religion / river / administration |
 | Medieval (~100 towns) | Fort / court HQ — **Delhi, Hyderabad, Jaipur, Lucknow, Agra, Nagpur** |
@@ -219,9 +219,9 @@ Size (Census class) and function are **different** questions.
 | After Independence | New capitals **Chandigarh, Bhubaneswar, Gandhinagar, Dispur**; industrial **Durgapur, Bhilai, Sindri, Barauni** |
 | Satellite towns | Old towns pulled into a metro’s orbit — **Ghaziabad, Gurugram, Rohtak** around Delhi; Navi Mumbai / Thane around Mumbai |
 
-**Planned / new-town architects (exam extras)**
+**Planned / new-town architects (extras)**
 
-| City | Lock |
+| City | Fact |
 |------|------|
 | New Delhi | Lutyens / Baker |
 | Chandigarh | **Le Corbusier** |
@@ -232,7 +232,7 @@ Size (Census class) and function are **different** questions.
 
 ## N.4 Metropolitan Cities & Urban Hierarchy
 
-| Term | Lock (Census / NCERT) |
+| Term | Fact (Census / NCERT) |
 |------|------------------------|
 | Town | Urban centre below Class I, or loosely any urban place |
 | **City / Class I** | ≥ **1 lakh** |
@@ -251,12 +251,11 @@ Size (Census class) and function are **different** questions.
 2. Two or more **contiguous towns**, with or without OGs
 3. A city + one or more adjoining towns + their OGs, as one contiguous spread
 **Outgrowth (OG) examples:** railway colony, university campus, port area, military cantonment — outside statutory limits but contiguous.
-**2011 UA size order (top six)**
-**Greater Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad**
+**2011 UA size order (top six)Greater Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad**
 (Older NCERT MCQ used **2001** order Mumbai > Kolkata > Delhi > Chennai — do not mix.)
 UP million+ **years** and UA order Kanpur > Lucknow > Ghaziabad > Agra.
 
-> **Exam note:** Class I (**1 lakh**) ≠ metro (**10–50 lakh**) ≠ NCERT mega (**>50 lakh**, six cities) ≠ UN megacity (**1 crore**).
+> ** note:** Class I (**1 lakh**) ≠ metro (**10–50 lakh**) ≠ NCERT mega (**>50 lakh**, six cities) ≠ UN megacity (**1 crore**).
 
 ---
 
@@ -272,7 +271,7 @@ UP million+ **years** and UA order Kanpur > Lucknow > Ghaziabad > Agra.
 | Round 3 | **Jun 2017** | **Prayagraj (Allahabad), Aligarh, Jhansi** |
 | Round 4 | **2018** | **Moradabad, Bareilly, Saharanpur** |
 
-**Not** in that ten (and **not** in Mission-100): **Ghaziabad** (2018 Q41), Noida, Meerut, Rae Bareli.
+**Not** in that ten (and **not** in Mission-100): **Ghaziabad**, Noida, Meerut, Rae Bareli.
 ABD one-liners: **retrofit** = improve existing area; **redevelopment** = replace built-up; **greenfield** = vacant land; **pan-city** = ICT for the whole city. Centre:State funding typically **50:50** via the SPV.
 **UP State Smart Cities (2019)** — CM extension to remaining Nagar Nigams; **not** the Central Mission list: Ayodhya, Firozabad, **Ghaziabad**, Gorakhpur, Mathura, Meerut, Shahjahanpur. Prelims 2018/2020 still key **10**.
 **ISAC-2020** (awards presented Apr 2022):
@@ -288,7 +287,7 @@ Best cities in that cycle include **Indore + Surat**; Best **State = Uttar Prade
 **HRIDAY** (National Heritage City Development and Augmentation Yojana, **Jan 2015**, MoHUA) — **12** cities nationally. **UP = Varanasi + Mathura only** — not Prayagraj or Ayodhya.
 National 12 (for NOT-matched): Ajmer, Amravati, Amritsar, Badami, Dwarka, Gaya, Kanchipuram, **Mathura**, Puri, **Varanasi**, Velankanni, Warangal.
 
-> **Exam note:** Ghaziabad as a “Smart City” in 2018/2020 keys is **false**. State-2019 tag does not rewrite those papers.
+> ** note:** Ghaziabad as a “Smart City” in 2018/2020 keys is **false**. State-2019 tag does not rewrite those papers.
 
 **Inline PYQ — UPPCS Prelims 2018, Q41**
 
@@ -332,7 +331,7 @@ D. 18
 
 **Smart village / rurban** = urban-level amenities **without** wiping village social life. Nodal ministry = **MoRD**, not MoHUA.
 
-| Scheme | Year / lock | Trap |
+| Scheme | Year / fact | Trap |
 |--------|-------------|------|
 | **SPMRM** (Shyama Prasad Mukherji Rurban Mission) | Launch **21 Feb 2016** (Cabinet **16 Sep 2015**); **MoRD**; ~**300** clusters | **2015 ≠ launch year** (2023 NOT-matched) |
 | Sansad Adarsh Gram Yojana (SAGY) | **11 Oct 2014** | |
@@ -343,7 +342,7 @@ D. 18
 | **AMRUT** | **June 2015**; ~**500** cities (all 1-lakh+ ULBs + capitals + HRIDAY cities + selected others) | 2005 |
 | **AMRUT 2.0** | **1 Oct 2021** — water security; all statutory towns | Calling it 2015 |
 | Jal Jeevan Mission | **2019** (Har Ghar Jal) | Putting it before AMRUT |
-| PMAY-U | **25 Jun 2015** (same day as Smart Cities) — housing neighbour, year lock only | |
+| PMAY-U | **25 Jun 2015** (same day as Smart Cities) — housing neighbour, year fact only | |
 | SBM-Urban | **2 Oct 2014** (with rural SBM) — sanitation neighbour | Calling it 2015 Smart Cities |
 | DAY-NULM | Urban livelihoods (MoHUA) | Mixing with SPMRM / DDU-GKY |
 
@@ -360,7 +359,7 @@ D. 18
 | **AMRUT** | **2015** |
 | Jal Jeevan Mission | **2019** |
 
-> **Exam note:** AMRUT ≠ JNNURM. Rurban **launch 2016**. Smart village ≠ Smart City Mission.
+> ** note:** AMRUT ≠ JNNURM. Rurban **launch 2016**. Smart village ≠ Smart City Mission.
 
 **Inline PYQ — UPPCS Prelims 2023, Q143**
 
@@ -377,7 +376,7 @@ D. SAGY — 2014
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — SPMRM was **launched in 2016** (Cabinet approval 2015 is not the launch-year lock).
+**Ans: C** — SPMRM was **launched in 2016** (Cabinet approval 2015 is not the launch-year fact).
 </details>
 
 **Inline PYQ — UPPCS Prelims 2025, Q72**
@@ -425,14 +424,14 @@ D. Herbert Spencer
 
 ## N.7 Uttar Pradesh Focus — Urban Centres
 
-| City | Functional / exam tag |
+| City | Functional / tag |
 |------|------------------------|
 | **Lucknow** | State capital — administrative; first UP Smart City (May 2016) |
 | **Kanpur** | Industrial / leather–textile; first UP million city (**1971**) |
 | **Prayagraj** | Ancient Prayag; educational; Smart City round 3; **not** HRIDAY |
 | **Varanasi** | Ancient; religious–educational (BHU); HRIDAY; Smart City round 2 |
 | **Agra** | Medieval; tourist (Taj); Smart City round 2 |
-| **Aligarh** | Educational (AMU); locks (industry neighbour T8); Smart City round 3 |
+| **Aligarh** | Educational (AMU); facts (industry neighbour T8); Smart City round 3 |
 | **Meerut** | Garrison / NCR satellite — **not** Central Smart-10 |
 | **Ghaziabad** | NCR satellite / large UA — **not** Central Smart-10 (State 2019 only) |
 | **Noida / Greater Noida** | Planned satellite of Delhi — **not** Mission-100 |
@@ -441,7 +440,7 @@ D. Herbert Spencer
 | **Mathura** | Religious; **HRIDAY**; State Smart City 2019 (not Central-10) |
 | **Ayodhya** | Religious; State Smart City 2019; **not** HRIDAY |
 | **Singrauli belt (Sonbhadra)** | Mining / energy (T8) — mining-town type |
-| Mission lock | Fact |
+| Mission fact | Fact |
 |--------------|------|
 | Central Smart Cities | **10** — Ghaziabad **out** of Mission-100 |
 | State Smart Cities (2019) | 7 Nagar Nigams — do **not** change 2018/2020 keys |
@@ -452,7 +451,7 @@ D. Herbert Spencer
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard coaching angles)
 
 **Q1.** With reference to a census town in India, which of the following statements is/are correct?
@@ -1968,7 +1967,7 @@ D. Greater Mumbai, Kolkata, Delhi, Chennai
 
 | Year | Fact | Why asked | Source |
 |------|------|-----------|--------|
-| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year lock vs JNNURM 2005 | MoHUA |
+| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year cue vs JNNURM 2005 | MoHUA |
 | **Jun 2015** | AMRUT (~500 cities) | 2025 chronology | MoHUA |
 | **1 Oct 2021** | **AMRUT 2.0** — water-secure towns | Successor of AMRUT | PIB / MoHUA |
 | **21 Feb 2016** | **SPMRM** launched (not “2015 launch”) | 2023 Q143 | MoRD |

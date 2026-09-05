@@ -10,14 +10,14 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 </details>
 
-> **Sources baked in:** punch-marks, Periplus, Arthashastra, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — 2024 river-ports, 2022 silver 33 grains, 2018 Manigrama, 2022 boats  
-> **Last verified:** August 2026  
+> **Sources baked in:** punch-marks, Periplus, Arthashastra, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — 2024 river-ports, 2022 silver 33 grains, 2018 Manigrama, 2022 boats
+> **Last verified:** August 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Economy match ladder: **Indus = Urban**, **Rigvedic = Pastoral**, **Later Vedic = Agrarian**, and the medieval slot is **landlordism**. The Indus uses weights and seals but has **no coins**.
 2. Vedic **nishka** is a gold unit or ornament. It is **not** a minted coin. The first Indian coins are **punch-marked silver** from about the sixth century BCE (**karshapana / pana**).
@@ -50,7 +50,7 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -84,10 +84,10 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 Match List-I with List-II:
 
-A. Indus Valley Civilization  B. Later Vedic Society  C. Rigvedic Society  D. Medieval Period  
-1. Pastoral  2. Land Lordism  3. Agrarian  4. Urban
+A. Indus Valley Civilization B. Later Vedic Society C. Rigvedic Society D. Medieval Period
+1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
 
-A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
+A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -96,7 +96,7 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 
 </details>
 
-> **Exam note:** First Indian coins are **punch-marked silver**. Gupta gold comes later.
+> ** note:** First Indian coins are **punch-marked silver**. Gupta gold comes later.
 
 ---
 
@@ -111,7 +111,7 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 - The Western Kshatrapas strike silver. **Chandragupta II** later copies that silver habit.
 - Coins name kings and gods. **Inscriptions** remain the main administrative record.
 
-> **Exam note:** First coins ≠ gold. First coins ≠ IVC.
+> ** note:** First coins ≠ gold. First coins ≠ IVC.
 
 ---
 
@@ -125,7 +125,7 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 - Gupta **gold** often weighs about **120–144 grains**. Gupta **silver** (*rupaka*) is about **33 grains**.
 - Roman **aurei** in south Indian hoards are pepper-trade bullion. **Pliny** calls that a gold drain. After the Guptas, imperial gold thins.
 
-**2022 lock**
+**2022 fact**
 - The strongest Shaka-victory proof in that paper is Chandragupta II’s **silver** coins.
 - The weight is about **33 grains**.
 - The gold dinara is the trap.
@@ -134,10 +134,10 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 
 With reference to Chandragupta-II, which of the following statements is/are correct?
 
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.  
+1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
 2. The weight of these coins used to be about 33 grains.
 
-A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
+A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -146,7 +146,7 @@ A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
 
 </details>
 
-> **Exam note:** 2022 does **not** key gold as the Shaka proof.
+> ** note:** 2022 does **not** key gold as the Shaka proof.
 
 ---
 
@@ -162,10 +162,10 @@ A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
 
 Consider the following statements with reference to early trade:
 
-1. There are references of numerous river-ports in ancient India.  
+1. There are references of numerous river-ports in ancient India.
 2. There were large entrepots of goods and traffic.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -174,13 +174,13 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 </details>
 
-> **Exam note:** Entrepot ≠ a second word for “any port.” It is the **redistribution** hub.
+> ** note:** Entrepot ≠ a second word for “any port.” It is the **redistribution** hub.
 
 ---
 
 ## 12.5 Trade Organisations / Guilds (Shreni)
 
-**Shreni = default guild | Manigrama = the 2018 foreign-trade lock**
+**Shreni = default guild | Manigrama = the 2018 foreign-trade fact**
 
 - A **shreni** is a craft or trade guild with its own rules. Its head is the **shreshthin**. A **nagaram** is a south Indian **town** merchant body.
 - The **nanadesi** are merchants of **many regions** on long-distance routes. **Manigrama** is the **foreign and overseas** trade body. **Manigrama** is the foreign-trade guild. Nanadesi looks “foreign,” but the paper still wants Manigrama.
@@ -191,7 +191,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 Which of the following institutions belonged to foreign trade?
 
-A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
+A. Śreni B. Nagaram C. Nānādesis D. Manigrama
 
 <details>
 <summary>Show answer</summary>
@@ -200,7 +200,7 @@ A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
 
 </details>
 
-> **Exam note:** Nanadesi looks “foreign.” The paper still wants **Manigrama**.
+> ** note:** Nanadesi looks “foreign.” The paper still wants **Manigrama**.
 
 ---
 
@@ -217,9 +217,9 @@ A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
 
 From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
 
-A. Dholavira and Bhagatrav  
-B. Harappa and Kot Diji  
-C. Mohenjo-daro and Lothal  
+A. Dholavira and Bhagatrav
+B. Harappa and Kot Diji
+C. Mohenjo-daro and Lothal
 D. Kalibangan and Ropar
 
 <details>
@@ -229,7 +229,7 @@ D. Kalibangan and Ropar
 
 </details>
 
-> **Exam note:** Lothal = dock. Muziris = Rome. Tamralipti = east.
+> ** note:** Lothal = dock. Muziris = Rome. Tamralipti = east.
 
 ---
 
@@ -241,7 +241,7 @@ D. Kalibangan and Ropar
 - River-ports sit on the Ganga, Yamuna, Narmada, and Godavari. Entrepots include Pataliputra, Ujjain, Varanasi, and Taxila. Kannauj is a later entrepot.
 - Tolls sit at ferries and gates. Caravans run through shrenis. River ports and entrepots are the high-yield trade pair. Detail of goods is colour.
 
-> **Exam note:** Dakshinapatha is a **road**, not “only sea.”
+> ** note:** Dakshinapatha is a **road**, not “only sea.”
 
 ---
 
@@ -254,7 +254,7 @@ D. Kalibangan and Ropar
 - **Pepper** is the famous west-coast export. Cotton, ivory, pearls, and gems also leave Indian ports. **Horses** are a famous import. Wine, gold, and glass also arrive from the west.
 - Yajna Sri’s **ship** coin is a Deccan sea-trade stamp. East-coast Tamralipti is **not** the main Roman door.
 
-> **Exam note:** East-coast Tamralipti is **not** the main Roman door.
+> ** note:** East-coast Tamralipti is **not** the main Roman door.
 
 ---
 
@@ -267,13 +267,13 @@ D. Kalibangan and Ropar
 - Sangam poems call the foreigners **Yavana**. In Sangam that is the foreign / western trader, not only an “Ionian Greek.”
 - The peak sits with the early Roman empire. Trade thins after the third-century crisis.
 
-> **Exam note:** Yavana in Sangam ≠ only “Ionian Greek.” It is the foreign / western trader.
+> ** note:** Yavana in Sangam ≠ only “Ionian Greek.” It is the foreign / western trader.
 
 ---
 
 ## 12.10 Punch-Marked Coins — Symbols and Janapadas
 
-| Lock | Detail |
+| Fact | Detail |
 |------|--------|
 | Metal / name | Silver **karshapana** with several punch symbols |
 | Issuers | First **mahajanapadas**, then Magadha–Maurya |
@@ -290,7 +290,7 @@ Common punch symbols: **sun**, **six-armed symbol**, **hill**, **elephant**, **b
 
 ## 12.12 Land Revenue and Grants
 
-| Age | Lock |
+| Age | Fact |
 |-----|------|
 | Vedic | **bali**, **bhaga** as offerings/shares |
 | Mauryan | state **bhaga** (~1/6 in Arthashastra); **samaharta** collects |
@@ -304,7 +304,7 @@ Common punch symbols: **sun**, **six-armed symbol**, **hill**, **elephant**, **b
 
 ## UP Focus
 
-| Lock | Place |
+| Fact | Place |
 |------|--------|
 | Varanasi | Inland textile / Ganga river-port |
 | Kaushambi | Uttarapatha Ganga node |
@@ -318,10 +318,10 @@ Common punch symbols: **sun**, **six-armed symbol**, **hill**, **elephant**, **b
 
 **Q1.** With reference to early trade, which of the following statements is/are correct?
 
-1. There are references of numerous river-ports in ancient India.  
+1. There are references of numerous river-ports in ancient India.
 2. There were large entrepots of goods and traffic.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -334,7 +334,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Q2.** Which institution belonged to foreign trade?
 
-A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
+A. Śreni B. Nagaram C. Nānādesis D. Manigrama
 
 <details>
 <summary>Show answer</summary>
@@ -347,7 +347,7 @@ A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
 
 **Q3.** Boat models of the Indus Valley are found at:
 
-A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal  D. Kalibangan and Ropar
+A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D. Kalibangan and Ropar
 
 <details>
 <summary>Show answer</summary>
@@ -360,10 +360,10 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 **Q4.** With reference to Chandragupta-II, which of the following statements is/are correct?
 
-1. The strongest evidence of Shaka victory is his silver coins.  
+1. The strongest evidence of Shaka victory is his silver coins.
 2. These coins weighed about 33 grains.
 
-A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
+A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -376,10 +376,10 @@ A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
 
 **Q5.** Match List-I with List-II:
 
-A. Indus Valley  B. Later Vedic  C. Rigvedic  D. Medieval  
-1. Pastoral  2. Land Lordism  3. Agrarian  4. Urban
+A. Indus Valley B. Later Vedic C. Rigvedic D. Medieval
+1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
 
-A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
+A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -392,13 +392,13 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 
 **Q6.** Given below are two statements:
 
-**Assertion (A):** The earliest Indian coins are punch-marked silver.  
+**Assertion (A):** The earliest Indian coins are punch-marked silver.
 
 **Reason (R):** Gupta dinaras are the first coins in India.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -412,9 +412,9 @@ D. (A) is false, but (R) is true
 
 **Q7.** Which one of the following pairs is **not** correctly matched?
 
-A. Lothal — dockyard  
-B. Muziris — Roman pepper  
-C. Tamralipti — west-coast Broach  
+A. Lothal — dockyard
+B. Muziris — Roman pepper
+C. Tamralipti — west-coast Broach
 D. Arikamedu — Roman amphorae
 
 <details>
@@ -428,11 +428,11 @@ D. Arikamedu — Roman amphorae
 
 **Q8.** Which of the following statements is/are correct?
 
-1. Shreni is a general craft/trade guild.  
-2. Manigrama is the foreign-trade guild answer.  
+1. Shreni is a general craft/trade guild.
+2. Manigrama is the foreign-trade guild answer.
 3. Nanadesi is identical to Manigrama.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -445,12 +445,12 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q9.** Arrange in the order gold becomes common in India:
 
-1. Gupta dinara peak  
-2. No coins in IVC  
-3. Kushan gold issues  
+1. Gupta dinara peak
+2. No coins in IVC
+3. Kushan gold issues
 4. Punch-marked silver
 
-A. 2–4–3–1  B. 2–3–4–1  C. 4–2–3–1  D. 2–4–1–3
+A. 2–4–3–1 B. 2–3–4–1 C. 4–2–3–1 D. 2–4–1–3
 
 <details>
 <summary>Show answer</summary>
@@ -469,7 +469,7 @@ A. 2–4–3–1  B. 2–3–4–1  C. 4–2–3–1  D. 2–4–1–3
 | B. Barbarikon | 2. Broach |
 | C. Muziris | 3. Malabar pepper |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -482,13 +482,13 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q11.** Given below are two statements:
 
-**Assertion (A):** 2022 Q23 keys silver coins.  
+**Assertion (A):** 2022 Q23 keys silver coins.
 
 **Reason (R):** Those coins weigh about 33 grains.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -502,12 +502,12 @@ D. (A) is false, but (R) is true
 
 **Q12.** With reference to gold types, consider the following statements:
 
-1. King-queen gold = Chandragupta I.  
-2. Lyrist gold = Samudragupta.  
+1. King-queen gold = Chandragupta I.
+2. Lyrist gold = Samudragupta.
 3. Archer gold = Chandragupta I.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -520,9 +520,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q13.** Which one of the following pairs is **not** correctly matched?
 
-A. Uttarapatha — Taxila to Pataliputra  
-B. Dakshinapatha — Ganga belt to Deccan  
-C. Nishka — Mauryan silver punch-mark  
+A. Uttarapatha — Taxila to Pataliputra
+B. Dakshinapatha — Ganga belt to Deccan
+C. Nishka — Mauryan silver punch-mark
 D. Karshapana — punch-marked silver unit
 
 <details>
@@ -536,11 +536,11 @@ D. Karshapana — punch-marked silver unit
 
 **Q14.** Which of the following statements is/are correct?
 
-1. Periplus is a 1st-century sailing text.  
-2. Pliny complains of gold flowing to India.  
+1. Periplus is a 1st-century sailing text.
+2. Pliny complains of gold flowing to India.
 3. Tamralipti is the chief Periplus name for Muziris.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -559,7 +559,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Manigrama | 2. Town merchants |
 | C. Nagaram | 3. General guild |
 
-A. 3 1 2  B. 1 3 2  C. 3 2 1  D. 2 1 3
+A. 3 1 2 B. 1 3 2 C. 3 2 1 D. 2 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -572,11 +572,11 @@ A. 3 1 2  B. 1 3 2  C. 3 2 1  D. 2 1 3
 
 **Q16.** Arrange:
 
-1. Muziris–Rome peak  
-2. Lothal dockyard  
+1. Muziris–Rome peak
+2. Lothal dockyard
 3. Mauryan Broach / Sopara circuit
 
-A. 2–3–1  B. 3–2–1  C. 2–1–3  D. 1–2–3
+A. 2–3–1 B. 3–2–1 C. 2–1–3 D. 1–2–3
 
 <details>
 <summary>Show answer</summary>
@@ -589,11 +589,11 @@ A. 2–3–1  B. 3–2–1  C. 2–1–3  D. 1–2–3
 
 **Q17.** Which of the following statements is/are correct?
 
-1. Nishka is a Vedic gold unit, not a mint.  
-2. Karshapana is a punch-marked silver unit.  
+1. Nishka is a Vedic gold unit, not a mint.
+2. Karshapana is a punch-marked silver unit.
 3. IVC issued dinaras.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -606,13 +606,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q18.** Given below are two statements:
 
-**Assertion (A):** 2018 Q89 answer is Manigrama.  
+**Assertion (A):** 2018 Q89 answer is Manigrama.
 
-**Reason (R):** Shreni is the general craft guild, not the foreign-trade lock in that paper.
+**Reason (R):** Shreni is the general craft guild, not the foreign-trade fact in that paper.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -626,9 +626,9 @@ D. (A) is false, but (R) is true
 
 **Q19.** Which one of the following pairs is **not** correctly matched?
 
-A. Yajna Sri Satakarni — ship type  
-B. Vima Kadphises — Kushan gold  
-C. Chandragupta II Shaka proof — gold dinara  
+A. Yajna Sri Satakarni — ship type
+B. Vima Kadphises — Kushan gold
+C. Chandragupta II Shaka proof — gold dinara
 D. Samudragupta — ashvamedha horse type
 
 <details>
@@ -648,7 +648,7 @@ D. Samudragupta — ashvamedha horse type
 | B. Lothal | 2. Ganga mouth |
 | C. Puhar | 3. Kaveri mouth |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -661,12 +661,12 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q21.** With reference to Roman trade, consider the following statements:
 
-1. Periplus names Muziris and Barygaza.  
-2. Arikamedu yields Roman amphorae.  
+1. Periplus names Muziris and Barygaza.
+2. Arikamedu yields Roman amphorae.
 3. The main Roman door is Tamralipti.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -679,11 +679,11 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q22.** Which of the following statements is/are correct?
 
-1. 2024 Q2 is Both A.  
-2. An entrepot stores and redistributes.  
+1. 2024 Q2 is Both A.
+2. An entrepot stores and redistributes.
 3. River-ports are denied in that paper.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -696,13 +696,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q23.** Given below are two statements:
 
-**Assertion (A):** Indo-Greeks introduce portrait die-struck coins.  
+**Assertion (A):** Indo-Greeks introduce portrait die-struck coins.
 
 **Reason (R):** Punch-marked coins carry royal portraits of Bimbisara.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -722,7 +722,7 @@ D. (A) is false, but (R) is true
 | B. Taxila | 2. Dakshinapatha hub |
 | C. Pataliputra | 3. NW gateway |
 
-A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
+A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -735,12 +735,12 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 
 **Q25.** Arrange:
 
-1. Gupta dinara art peak  
-2. Punch-marked silver  
-3. Kushan gold flood  
+1. Gupta dinara art peak
+2. Punch-marked silver
+3. Kushan gold flood
 4. Vedic nishka (no mint)
 
-A. 4–2–3–1  B. 4–3–2–1  C. 2–4–3–1  D. 4–2–1–3
+A. 4–2–3–1 B. 4–3–2–1 C. 2–4–3–1 D. 4–2–1–3
 
 <details>
 <summary>Show answer</summary>
@@ -753,9 +753,9 @@ A. 4–2–3–1  B. 4–3–2–1  C. 2–4–3–1  D. 4–2–1–3
 
 **Q26.** Which one of the following pairs is **not** correctly matched?
 
-A. 2020 Q21 IVC — Urban  
-B. 2020 Q21 Rigvedic — Pastoral  
-C. 2020 Q21 Later Vedic — Urban  
+A. 2020 Q21 IVC — Urban
+B. 2020 Q21 Rigvedic — Pastoral
+C. 2020 Q21 Later Vedic — Urban
 D. 2020 Q21 Medieval — landlordism
 
 <details>
@@ -769,11 +769,11 @@ D. 2020 Q21 Medieval — landlordism
 
 **Q27.** Which of the following statements is/are correct?
 
-1. Gold dinara is often 120–144 grains.  
-2. CG II silver in 2022 is about 33 grains.  
+1. Gold dinara is often 120–144 grains.
+2. CG II silver in 2022 is about 33 grains.
 3. Those two weights are interchangeable.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -786,13 +786,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q28.** Given below are two statements:
 
-**Assertion (A):** 2022 Q68 answer is Mohenjo-daro and Lothal.  
+**Assertion (A):** 2022 Q68 answer is Mohenjo-daro and Lothal.
 
 **Reason (R):** Dholavira is the paper’s boat-model pair.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -812,7 +812,7 @@ D. (A) is false, but (R) is true
 | B. Shreshthin | 2. Many-lands merchants |
 | C. Ainnurruvar | 3. Later south “500” network |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -825,12 +825,12 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q30.** With reference to Satavahana money, consider the following statements:
 
-1. Lead and potin are common.  
-2. A ship type is tied to Yajna Sri.  
+1. Lead and potin are common.
+2. A ship type is tied to Yajna Sri.
 3. They issued the first punch-marked silver in Magadha.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -843,11 +843,11 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q31.** Which of the following statements is/are correct?
 
-1. Yavana in Sangam can mean the western trader.  
-2. Roman trade peaks in the 1st–3rd centuries CE.  
+1. Yavana in Sangam can mean the western trader.
+2. Roman trade peaks in the 1st–3rd centuries CE.
 3. Gupta dinaras are Roman mint-issues from Rome.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -860,9 +860,9 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q32.** Which one of the following pairs is **not** correctly matched?
 
-A. Sopara — Konkan  
-B. Nelcynda — Kerala  
-C. Barbarikon — Broach  
+A. Sopara — Konkan
+B. Nelcynda — Kerala
+C. Barbarikon — Broach
 D. Kaveripattinam — Puhar
 
 <details>
@@ -876,13 +876,13 @@ D. Kaveripattinam — Puhar
 
 **Q33.** Given below are two statements:
 
-**Assertion (A):** Dakshinapatha links the Ganga belt to the Deccan.  
+**Assertion (A):** Dakshinapatha links the Ganga belt to the Deccan.
 
 **Reason (R):** Ujjain sits on that line.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -896,12 +896,12 @@ D. (A) is false, but (R) is true
 
 **Q34.** Arrange 2020 Q21 economies from earliest to latest culture named:
 
-1. Medieval landlordism  
-2. IVC urban  
-3. Later Vedic agrarian  
+1. Medieval landlordism
+2. IVC urban
+3. Later Vedic agrarian
 4. Rigvedic pastoral
 
-A. 2–4–3–1  B. 4–2–3–1  C. 2–3–4–1  D. 2–4–1–3
+A. 2–4–3–1 B. 4–2–3–1 C. 2–3–4–1 D. 2–4–1–3
 
 <details>
 <summary>Show answer</summary>
@@ -914,11 +914,11 @@ A. 2–4–3–1  B. 4–2–3–1  C. 2–3–4–1  D. 2–4–1–3
 
 **Q35.** Which of the following statements is/are correct?
 
-1. Arthashastra recognises guild custom.  
-2. Sanchi / Bharhut name shreni gifts.  
+1. Arthashastra recognises guild custom.
+2. Sanchi / Bharhut name shreni gifts.
 3. Manigrama is a Mauryan revenue board in *Indica*.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -937,7 +937,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Archer gold | 2. Chandragupta I |
 | C. Horse gold | 3. Samudragupta |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -950,13 +950,13 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q37.** Given below are two statements:
 
-**Assertion (A):** Pliny’s gold-drain remark is about Indian exports.  
+**Assertion (A):** Pliny’s gold-drain remark is about Indian exports.
 
 **Reason (R):** Pepper and textiles pulled Roman gold east.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -970,9 +970,9 @@ D. (A) is false, but (R) is true
 
 **Q38.** Which one of the following pairs is **not** correctly matched?
 
-A. 2018 Q89 — Manigrama  
-B. 2022 Q23 — Both B  
-C. 2024 Q2 — Only 1  
+A. 2018 Q89 — Manigrama
+B. 2022 Q23 — Both B
+C. 2024 Q2 — Only 1
 D. 2022 Q68 — C
 
 <details>
@@ -986,12 +986,12 @@ D. 2022 Q68 — C
 
 **Q39.** With reference to inland trade, consider the following statements:
 
-1. Varanasi is a Ganga river-port / textile node.  
-2. Kannauj becomes a later entrepot.  
+1. Varanasi is a Ganga river-port / textile node.
+2. Kannauj becomes a later entrepot.
 3. Alamgirpur is a Harappan sea-port on the Arabian Sea.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1004,11 +1004,11 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q40.** Which of the following statements is/are correct?
 
-1. First Indian coins are silver punch-marks.  
-2. Kushan gold makes gold common.  
+1. First Indian coins are silver punch-marks.
+2. Kushan gold makes gold common.
 3. Gupta gold is the first coinage of India.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1027,7 +1027,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Pliny | 2. Sailing manual |
 | C. Yavana | 3. Sangam foreign trader |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1040,13 +1040,13 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q42.** Given below are two statements:
 
-**Assertion (A):** 2022 Shaka proof is not the gold dinara.  
+**Assertion (A):** 2022 Shaka proof is not the gold dinara.
 
 **Reason (R):** The paper keys silver coins of about 33 grains.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1072,10 +1072,10 @@ No extra GS-I coin/guild/port hit after keyword search.
 
 Consider the following statements with reference to early trade:
 
-1. There are references of numerous river-ports in ancient India.  
+1. There are references of numerous river-ports in ancient India.
 2. There were large entrepots of goods and traffic.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -1094,10 +1094,10 @@ No further GS-I economy/coin/guild/port hit after keyword search.
 
 With reference to Chandragupta-II, which of the following statements is/are correct?
 
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.  
+1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
 2. The weight of these coins used to be about 33 grains.
 
-A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
+A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1110,7 +1110,7 @@ A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
 
 From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
 
-A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal  D. Kalibangan and Ropar
+A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D. Kalibangan and Ropar
 
 <details>
 <summary>Show answer</summary>
@@ -1125,10 +1125,10 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 Match List-I with List-II:
 
-A. Indus Valley Civilization  B. Later Vedic Society  C. Rigvedic Society  D. Medieval Period  
-1. Pastoral  2. Land Lordism  3. Agrarian  4. Urban
+A. Indus Valley Civilization B. Later Vedic Society C. Rigvedic Society D. Medieval Period
+1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
 
-A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
+A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1143,7 +1143,7 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 
 Which of the following institutions belonged to foreign trade?
 
-A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
+A. Śreni B. Nagaram C. Nānādesis D. Manigrama
 
 <details>
 <summary>Show answer</summary>
@@ -1154,7 +1154,7 @@ A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
 
 ---
 
-## Common Traps — Exam Locks
+## Common Traps — Facts
 
 1. **First Indian coins = Gupta gold** → **punch-marked silver**.
 2. **2022 Shaka proof = dinara** → **silver**, ~33 grains.

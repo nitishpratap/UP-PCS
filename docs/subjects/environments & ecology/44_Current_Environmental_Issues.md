@@ -8,19 +8,19 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 </details>
 
-> **Sources baked in:** IPCC; UNEP; Global Footprint Network; MoEFCC; MNRE; IUCN NbS; UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — LiFE COP trap; MISHTI year; India net zero 2070; microplastic <5 mm; EF (gha) ≠ carbon (tCO₂e)  
+> **Sources baked in:** IPCC; UNEP; Global Footprint Network; MoEFCC; MNRE; IUCN NbS; UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — LiFE COP trap; MISHTI year; India net zero 2070; microplastic <5 mm; EF (gha) ≠ carbon (tCO₂e)
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. A **carbon footprint** totals greenhouse gases in **tCO₂e**. Scope **1** is direct, Scope **2** is purchased energy, Scope **3** is the wider value chain.
 2. India’s **per capita** carbon footprint is about **2 tCO₂e** — low versus global and USA averages — even though absolute emissions are high.
 3. An **ecological footprint** measures resource demand in **global hectares (gha)**. It is **not** the same unit as tCO₂e.
-4. **Net zero** balances remaining emissions with removals. India’s year lock is **2070**. It is not gross zero and not automatically **2050**.
-5. NDC-style locks include about **45%** intensity cut, about **50%** non-fossil capacity, and a large forest sink goal.
+4. **Net zero** balances remaining emissions with removals. India’s year fact is **2070**. It is not gross zero and not automatically **2050**.
+5. NDC-style facts include about **45%** intensity cut, about **50%** non-fossil capacity, and a large forest sink goal.
 6. The **Emissions Gap Report** is by **UNEP**.
 7. A **green economy** (UNEP framing) is low-carbon, resource-efficient, and socially inclusive.
 8. A **blue economy** is sustainable ocean use linked to **SDG 14**. **MISHTI** mangrove restoration is from the **2023** Budget, **not 2019**.
@@ -36,16 +36,16 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 18. Green economy ≠ circular economy as identical synonyms. Circular is the material-loop design inside a wider green agenda.
 19. Net zero allows balancing removals. Gross zero means nearly eliminating emissions without relying on offsets.
 20. MISHTI is a mangrove initiative. Pairing it with 2019 is wrong.
-21. Microplastic size lock is **<5 mm**, not 5 cm.
+21. Microplastic size fact is **<5 mm**, not 5 cm.
 22. NbS examples include mangroves, wetlands, and urban forests — ecosystem actions, not aerosol injection.
 23. LiFE is lifestyle and demand-side behaviour change, not a substitute for the entire NDC package.
 24. Blue economy is oceans and coasts. Green hydrogen is energy. Do not merge the two labels.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Lock |
+| Pair | Fact |
 |------|------|
 | **Carbon / Ecological footprint** | tCO₂e GHGs / gha resource demand |
 | **Net zero / Gross zero** | Balance with removals / eliminate almost all emissions |
@@ -75,7 +75,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 | Scope 2 | Purchased energy | Grid electricity |
 | Scope 3 | Other indirect | Supplier emissions, flights |
 
-> **Exam note:** “India has the highest per capita carbon footprint” = **FALSE**. Unit = **tCO₂e**, not gha.
+> ** note:** “India has the highest per capita carbon footprint” = **FALSE**. Unit = **tCO₂e**, not gha.
 
 ---
 
@@ -89,14 +89,14 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 - Components include cropland, grazing land, forest, fishing grounds, built-up land, and carbon-absorption land.
 - India per capita ecological footprint is roughly **~1.0–1.2 gha** — below the global average (~2.8 gha) but rising with urban consumption.
 - Standard methodology is associated with the **Global Footprint Network**.
-- Exam shorthand: ecological footprint measures **human pressure on nature** — broader than GHG-only carbon accounting.
+- shorthand: ecological footprint measures **human pressure on nature** — broader than GHG-only carbon accounting.
 
-| Metric | Unit | Rough India lock |
+| Metric | Unit | Rough India |
 |--------|------|------------------|
 | Ecological footprint | gha | ~1.0–1.2 / person |
 | Carbon footprint | tCO₂e | ~2 / person |
 
-> **Exam note:** Same unit for both footprints = **FALSE**. EF = **gha**; carbon = **tCO₂e**.
+> ** note:** Same unit for both footprints = **FALSE**. EF = **gha**; carbon = **tCO₂e**.
 
 ---
 
@@ -107,7 +107,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 - **Net zero** means anthropogenic emissions are **balanced by anthropogenic removals** over a period — residual emissions may remain if matched by sinks or removals.
 - **Gross zero** means eliminating virtually all emissions — harder than net zero.
 - India pledged **net zero by 2070** at **COP26 Glasgow (November 2021)**.
-- Updated **NDC 2030:** **45%** emissions-intensity cut vs 2005; **50%** non-fossil electricity capacity; additional **2.5–3 GtCO₂e** forest/tree-cover sink.
+- Updated **NDC 2030:45%** emissions-intensity cut vs 2005; **50%** non-fossil electricity capacity; additional **2.5–3 GtCO₂e** forest/tree-cover sink.
 - Country ladder often tested: EU/UK **2050**, China **2060**, India **2070**.
 - **UNEP Emissions Gap Report** measures the gap between pledges and 1.5°C/2°C pathways.
 
@@ -119,8 +119,8 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 **PYQ — UPPCS Prelims 2021, Q70**
 
-With reference to ‘NET-ZERO’ goal for 2050:  
-(1) It means emissions brought down to zero by 2050.  
+With reference to ‘NET-ZERO’ goal for 2050:
+(1) It means emissions brought down to zero by 2050.
 (2) Emissions will be compensated by absorption and removal of GHGs.
 
 <details><summary>Show answer</summary>
@@ -139,7 +139,7 @@ Match: Emissions Gap Report → **UNEP**.
 
 </details>
 
-> **Exam note:** India net zero = **2070**, not 2050. Gap Report ≠ IPCC Assessment Report.
+> ** note:** India net zero = **2070**, not 2050. Gap Report ≠ IPCC Assessment Report.
 
 ---
 
@@ -153,7 +153,7 @@ Match: Emissions Gap Report → **UNEP**.
 - **Green finance** (sovereign green bonds, SEBI green-bond rules) funds this pathway — detailed market tools sit with Topic 24.
 - Green economy is **broader** than circular economy; circular material loops are one component.
 
-> **Exam note:** Green economy ≠ circular economy as identical labels.
+> ** note:** Green economy ≠ circular economy as identical labels.
 
 ---
 
@@ -179,13 +179,13 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 
 </details>
 
-| Sector | Lock |
+| Sector | Fact |
 |--------|------|
 | Mangroves | MISHTI 2023 |
 | Ports | Sagarmala |
 | Deep sea | Deep Ocean Mission |
 
-> **Exam note:** MISHTI = coastal mangroves, **not** Ganga-basin inland planting.
+> ** note:** MISHTI = coastal mangroves, **not** Ganga-basin inland planting.
 
 ---
 
@@ -205,7 +205,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Virgin in → dump out | Recycled/regenerative loops |
 | Waste = disposal problem | Waste = design flaw |
 
-> **Exam note:** “Circular = green economy identically” = **FALSE**.
+> ** note:** “Circular = green economy identically” = **FALSE**.
 
 ---
 
@@ -218,7 +218,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 - **Grey hydrogen** from natural-gas reforming dominates today’s supply and is **not** climate-friendly.
 - **Blue hydrogen** is grey production plus **CCS** — a debated transition label.
 - **National Green Hydrogen Mission (January 2023)**, coordinated under **MNRE**, targets about **5 MMT/year by 2030** for refining, ammonia/fertiliser, steel, and heavy transport.
-- Grey ≠ green — the colour word is an exam trap.
+- Grey ≠ green — the colour word is an trap.
 
 | Colour | Method |
 |--------|--------|
@@ -227,7 +227,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Blue | Grey + CCS |
 | Black/brown | Coal gasification |
 
-> **Exam note:** Mission = **2023**, not 2019. Target = **5 MMT by 2030**.
+> ** note:** Mission = **2023**, not 2019. Target = **5 MMT by 2030**.
 
 ---
 
@@ -248,7 +248,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Primary | Made small |
 | Secondary | Fragmented from large items |
 
-> **Exam note:** Threshold = **<5 mm**, not 5 cm. “Biodegrade in weeks” = **FALSE**.
+> ** note:** Threshold = **<5 mm**, not 5 cm. “Biodegrade in weeks” = **FALSE**.
 
 ---
 
@@ -269,7 +269,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Slow-onset | Drought / sea-level rise |
 | Legal refugee (1951) | Persecution — not climate alone |
 
-> **Exam note:** No dedicated Indian **Climate Refugee Act**. Most Indian cases = **IDPs / internal migrants**.
+> ** note:** No dedicated Indian **Climate Refugee Act**. Most Indian cases = **IDPs / internal migrants**.
 
 ---
 
@@ -285,7 +285,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 - NbS ≠ **geoengineering**; planting trees is ecosystem management, not solar-radiation engineering.
 - NbS may generate carbon credits but the concept is broader than offset markets alone.
 
-> **Exam note:** NbS = ecosystems for people + planet. Permanence risk (fire, clearing) still matters for carbon claims.
+> ** note:** NbS = ecosystems for people + planet. Permanence risk (fire, clearing) still matters for carbon claims.
 
 ---
 
@@ -317,7 +317,7 @@ LiFE: (1) Launched in June 2022. (2) Idea proposed at COP-25 in Madrid.
 | Nodal | **MoEFCC** |
 | Actions | **~75** |
 
-> **Exam note:** COP-25 Madrid trap is the classic false statement.
+> ** note:** COP-25 Madrid trap is the classic false statement.
 
 ---
 
@@ -325,7 +325,7 @@ LiFE: (1) Launched in June 2022. (2) Idea proposed at COP-25 in Madrid.
 
 **Q1.** Carbon footprint unit is:
 
-Options: A. gha  B. tCO₂e  C. ppm only  D. dB
+Options: A. gha B. tCO₂e C. ppm only D. dB
 
 <details><summary>Show answer</summary>
 
@@ -335,7 +335,7 @@ Options: A. gha  B. tCO₂e  C. ppm only  D. dB
 
 **Q2.** Ecological footprint unit is:
 
-Options: A. tCO₂e  B. Global hectares (gha)  C. Kelvin  D. NTU
+Options: A. tCO₂e B. Global hectares (gha) C. Kelvin D. NTU
 
 <details><summary>Show answer</summary>
 
@@ -345,7 +345,7 @@ Options: A. tCO₂e  B. Global hectares (gha)  C. Kelvin  D. NTU
 
 **Q3.** Scope 2 emissions mainly cover:
 
-Options: A. Owned factory boilers only  B. Purchased electricity/heat  C. Only employee commuting  D. Only enteric methane
+Options: A. Owned factory boilers only B. Purchased electricity/heat C. Only employee commuting D. Only enteric methane
 
 <details><summary>Show answer</summary>
 
@@ -355,7 +355,7 @@ Options: A. Owned factory boilers only  B. Purchased electricity/heat  C. Only e
 
 **Q4.** India net zero pledge year is:
 
-Options: A. 2030  B. 2050  C. 2070  D. 2100
+Options: A. 2030 B. 2050 C. 2070 D. 2100
 
 <details><summary>Show answer</summary>
 
@@ -365,7 +365,7 @@ Options: A. 2030  B. 2050  C. 2070  D. 2100
 
 **Q5.** Net zero means:
 
-Options: A. Immediate ban on all fossil use tomorrow only  B. Emissions balanced by removals  C. Only methane zero  D. Only ozone recovery
+Options: A. Immediate ban on all fossil use tomorrow only B. Emissions balanced by removals C. Only methane zero D. Only ozone recovery
 
 <details><summary>Show answer</summary>
 
@@ -375,7 +375,7 @@ Options: A. Immediate ban on all fossil use tomorrow only  B. Emissions balanced
 
 **Q6.** Emissions Gap Report is published by:
 
-Options: A. IPCC only  B. UNEP  C. WTO  D. CITES
+Options: A. IPCC only B. UNEP C. WTO D. CITES
 
 <details><summary>Show answer</summary>
 
@@ -385,7 +385,7 @@ Options: A. IPCC only  B. UNEP  C. WTO  D. CITES
 
 **Q7.** Updated India NDC intensity cut by 2030 vs 2005 is:
 
-Options: A. 15%  B. 45%  C. 90%  D. 5%
+Options: A. 15% B. 45% C. 90% D. 5%
 
 <details><summary>Show answer</summary>
 
@@ -395,7 +395,7 @@ Options: A. 15%  B. 45%  C. 90%  D. 5%
 
 **Q8.** Blue economy SDG is:
 
-Options: A. SDG 14  B. SDG 1 only  C. SDG 16 only  D. SDG 17 only
+Options: A. SDG 14 B. SDG 1 only C. SDG 16 only D. SDG 17 only
 
 <details><summary>Show answer</summary>
 
@@ -405,7 +405,7 @@ Options: A. SDG 14  B. SDG 1 only  C. SDG 16 only  D. SDG 17 only
 
 **Q9.** MISHTI was announced in:
 
-Options: A. 2019  B. Union Budget 2023–24  C. 1987 Montreal  D. 1971 Ramsar
+Options: A. 2019 B. Union Budget 2023–24 C. 1987 Montreal D. 1971 Ramsar
 
 <details><summary>Show answer</summary>
 
@@ -415,7 +415,7 @@ Options: A. 2019  B. Union Budget 2023–24  C. 1987 Montreal  D. 1971 Ramsar
 
 **Q10.** Circular economy maps most directly to:
 
-Options: A. SDG 12  B. SDG 14 only as oceans  C. SDG 16 only  D. SDG 17 only
+Options: A. SDG 12 B. SDG 14 only as oceans C. SDG 16 only D. SDG 17 only
 
 <details><summary>Show answer</summary>
 
@@ -425,7 +425,7 @@ Options: A. SDG 12  B. SDG 14 only as oceans  C. SDG 16 only  D. SDG 17 only
 
 **Q11.** Green hydrogen is produced by:
 
-Options: A. Natural gas reforming without renewables  B. Water electrolysis using renewable electricity  C. Coal gasification only  D. Diesel generators only
+Options: A. Natural gas reforming without renewables B. Water electrolysis using renewable electricity C. Coal gasification only D. Diesel generators only
 
 <details><summary>Show answer</summary>
 
@@ -435,7 +435,7 @@ Options: A. Natural gas reforming without renewables  B. Water electrolysis usin
 
 **Q12.** National Green Hydrogen Mission launch:
 
-Options: A. 2019  B. January 2023  C. 1997 Kyoto  D. 2010 only
+Options: A. 2019 B. January 2023 C. 1997 Kyoto D. 2010 only
 
 <details><summary>Show answer</summary>
 
@@ -445,7 +445,7 @@ Options: A. 2019  B. January 2023  C. 1997 Kyoto  D. 2010 only
 
 **Q13.** Mission green H₂ production target by 2030:
 
-Options: A. 5 MMT/year  B. 5 kg/year  C. 500 Gt/year  D. Zero forever
+Options: A. 5 MMT/year B. 5 kg/year C. 500 Gt/year D. Zero forever
 
 <details><summary>Show answer</summary>
 
@@ -455,7 +455,7 @@ Options: A. 5 MMT/year  B. 5 kg/year  C. 500 Gt/year  D. Zero forever
 
 **Q14.** Grey hydrogen is mainly from:
 
-Options: A. Solar electrolysis  B. Natural gas reforming  C. Only wind mills without reforming  D. Only composting
+Options: A. Solar electrolysis B. Natural gas reforming C. Only wind mills without reforming D. Only composting
 
 <details><summary>Show answer</summary>
 
@@ -465,7 +465,7 @@ Options: A. Solar electrolysis  B. Natural gas reforming  C. Only wind mills wit
 
 **Q15.** Microplastics are smaller than:
 
-Options: A. 5 cm  B. 5 mm  C. 5 m  D. 50 km
+Options: A. 5 cm B. 5 mm C. 5 m D. 50 km
 
 <details><summary>Show answer</summary>
 
@@ -475,7 +475,7 @@ Options: A. 5 cm  B. 5 mm  C. 5 m  D. 50 km
 
 **Q16.** Microbeads in cosmetics are:
 
-Options: A. Primary microplastics  B. Only metals  C. Only gases  D. Only ozone molecules
+Options: A. Primary microplastics B. Only metals C. Only gases D. Only ozone molecules
 
 <details><summary>Show answer</summary>
 
@@ -485,7 +485,7 @@ Options: A. Primary microplastics  B. Only metals  C. Only gases  D. Only ozone 
 
 **Q17.** India identified SUP ban wave year:
 
-Options: A. 1992  B. July 2022  C. 1951  D. 1971
+Options: A. 1992 B. July 2022 C. 1951 D. 1971
 
 <details><summary>Show answer</summary>
 
@@ -495,7 +495,7 @@ Options: A. 1992  B. July 2022  C. 1951  D. 1971
 
 **Q18.** Most climate-linked displacement is:
 
-Options: A. Always cross-border asylum under 1951  B. Internal within countries  C. Only space migration  D. Only ozone migration
+Options: A. Always cross-border asylum under 1951 B. Internal within countries C. Only space migration D. Only ozone migration
 
 <details><summary>Show answer</summary>
 
@@ -505,7 +505,7 @@ Options: A. Always cross-border asylum under 1951  B. Internal within countries 
 
 **Q19.** Climate refugee under 1951 Convention:
 
-Options: A. Formal legal category today  B. Not a formal 1951 category  C. Only Kyoto Annex list  D. Only CITES Appendix I
+Options: A. Formal legal category today B. Not a formal 1951 category C. Only Kyoto Annex list D. Only CITES Appendix I
 
 <details><summary>Show answer</summary>
 
@@ -515,7 +515,7 @@ Options: A. Formal legal category today  B. Not a formal 1951 category  C. Only 
 
 **Q20.** NbS as defined by IUCN mainly:
 
-Options: A. Protect/manage/restore ecosystems for societal challenges  B. Only ban all forests  C. Only geoengineering aerosols  D. Only nuclear warheads
+Options: A. Protect/manage/restore ecosystems for societal challenges B. Only ban all forests C. Only geoengineering aerosols D. Only nuclear warheads
 
 <details><summary>Show answer</summary>
 
@@ -525,7 +525,7 @@ Options: A. Protect/manage/restore ecosystems for societal challenges  B. Only b
 
 **Q21.** LiFE idea venue/year:
 
-Options: A. COP-25 Madrid 2019  B. COP26 Glasgow 2021  C. Rio 1992 only  D. Montreal 1987 only
+Options: A. COP-25 Madrid 2019 B. COP26 Glasgow 2021 C. Rio 1992 only D. Montreal 1987 only
 
 <details><summary>Show answer</summary>
 
@@ -535,7 +535,7 @@ Options: A. COP-25 Madrid 2019  B. COP26 Glasgow 2021  C. Rio 1992 only  D. Mont
 
 **Q22.** LiFE Mission launch:
 
-Options: A. June 2022  B. 2019 only  C. 2050 only  D. 1972 Stockholm only
+Options: A. June 2022 B. 2019 only C. 2050 only D. 1972 Stockholm only
 
 <details><summary>Show answer</summary>
 
@@ -545,7 +545,7 @@ Options: A. June 2022  B. 2019 only  C. 2050 only  D. 1972 Stockholm only
 
 **Q23.** Nodal ministry for LiFE:
 
-Options: A. MNRE only  B. MoEFCC  C. MEA only  D. Railways only
+Options: A. MNRE only B. MoEFCC C. MEA only D. Railways only
 
 <details><summary>Show answer</summary>
 
@@ -555,7 +555,7 @@ Options: A. MNRE only  B. MoEFCC  C. MEA only  D. Railways only
 
 **Q24.** Carbon footprint vs ecological footprint:
 
-Options: A. Same unit always  B. tCO₂e vs gha  C. Both only in Kelvin  D. Both only in NTU
+Options: A. Same unit always B. tCO₂e vs gha C. Both only in Kelvin D. Both only in NTU
 
 <details><summary>Show answer</summary>
 
@@ -565,7 +565,7 @@ Options: A. Same unit always  B. tCO₂e vs gha  C. Both only in Kelvin  D. Both
 
 **Q25.** Green vs circular economy:
 
-Options: A. Identical terms always  B. Circular is material-loop focus; green is broader  C. Circular bans all renewables  D. Green means only oceans
+Options: A. Identical terms always B. Circular is material-loop focus; green is broader C. Circular bans all renewables D. Green means only oceans
 
 <details><summary>Show answer</summary>
 
@@ -575,7 +575,7 @@ Options: A. Identical terms always  B. Circular is material-loop focus; green is
 
 **Q26.** Blue carbon is stored mainly in:
 
-Options: A. Mangroves/seagrass/salt marshes  B. Only coal seams as fuel  C. Only ozone hole  D. Only nuclear rods
+Options: A. Mangroves/seagrass/salt marshes B. Only coal seams as fuel C. Only ozone hole D. Only nuclear rods
 
 <details><summary>Show answer</summary>
 
@@ -585,7 +585,7 @@ Options: A. Mangroves/seagrass/salt marshes  B. Only coal seams as fuel  C. Only
 
 **Q27.** UP coastal blue-economy projects:
 
-Options: A. Large native coastline schemes statewide  B. UP is landlocked — national ocean schemes only  C. Only Antarctica bases in UP  D. Only Arctic ports in Lucknow
+Options: A. Large native coastline schemes statewide B. UP is landlocked — national ocean schemes only C. Only Antarctica bases in UP D. Only Arctic ports in Lucknow
 
 <details><summary>Show answer</summary>
 
@@ -595,7 +595,7 @@ Options: A. Large native coastline schemes statewide  B. UP is landlocked — na
 
 **Q28.** EPR mainly supports:
 
-Options: A. Circular economy waste loops  B. Only ozone treaties  C. Only wildlife hunting  D. Only desert expansion
+Options: A. Circular economy waste loops B. Only ozone treaties C. Only wildlife hunting D. Only desert expansion
 
 <details><summary>Show answer</summary>
 
@@ -605,7 +605,7 @@ Options: A. Circular economy waste loops  B. Only ozone treaties  C. Only wildli
 
 **Q29.** UPPCS 2025 LiFE answer pattern:
 
-Options: A. Both statements true  B. Only launch June 2022 true (COP-25 false)  C. Only COP-25 true  D. Neither ever asked
+Options: A. Both statements true B. Only launch June 2022 true (COP-25 false) C. Only COP-25 true D. Neither ever asked
 
 <details><summary>Show answer</summary>
 
@@ -615,7 +615,7 @@ Options: A. Both statements true  B. Only launch June 2022 true (COP-25 false)  
 
 **Q30.** Correct set:
 
-Options: A. India net zero 2070; MISHTI 2023; LiFE launch 2022/idea COP26; microplastics <5 mm; EF in gha; Gap Report=UNEP; green H₂ Mission 2023  B. Net zero 2050; MISHTI 2019; LiFE at COP-25; microplastics <5 cm; EF in tCO₂e; Gap=IPCC  C. Grey H₂ = green H₂; circular = green identical  D. Climate refugee = formal 1951 status for all drought migrants
+Options: A. India net zero 2070; MISHTI 2023; LiFE launch 2022/idea COP26; microplastics <5 mm; EF in gha; Gap Report=UNEP; green H₂ Mission 2023 B. Net zero 2050; MISHTI 2019; LiFE at COP-25; microplastics <5 cm; EF in tCO₂e; Gap=IPCC C. Grey H₂ = green H₂; circular = green identical D. Climate refugee = formal 1951 status for all drought migrants
 
 <details><summary>Show answer</summary>
 
@@ -627,17 +627,7 @@ Options: A. India net zero 2070; MISHTI 2023; LiFE launch 2022/idea COP26; micro
 
 ## Complete PYQ Bank (Topic 44)
 
-**Q1. UPPCS 2025, Q139** — LiFE: launch June 2022 true; COP-25 Madrid false → **Ans: D (Only 1)**
-
-**Q2. UPPCS 2025, Q93** — MISHTI restore mangroves true; 2019 false → **Ans: A (Only 2)**
-
-**Q3. UPPCS 2024, Q6** — Emissions Gap Report = **UNEP** → **Ans: A (3 1 4 2)**
-
-**Q4. UPPCS 2021, Q70** — Net-zero for 2050: Only stmt 2 (balance by removals) → **Ans: B**
-
-**Q5. Pattern** — Ecological footprint = human pressure on nature; unit **gha**
-
-**Q6. Pattern** — Carbon footprint unit **tCO₂e**; Scope 1/2/3
+**Q1. UPPCS 2025, Q139** — LiFE: launch June 2022 true; COP-25 Madrid false → **Ans: D (Only 1)Q2. UPPCS 2025, Q93** — MISHTI restore mangroves true; 2019 false → **Ans: A (Only 2)Q3. UPPCS 2024, Q6** — Emissions Gap Report = **UNEP** → **Ans: A (3 1 4 2)Q4. UPPCS 2021, Q70** — Net-zero for 2050: Only stmt 2 (balance by removals) → **Ans: BQ5. Pattern** — Ecological footprint = human pressure on nature; unit **ghaQ6. Pattern** — Carbon footprint unit **tCO₂e**; Scope 1/2/3
 
 **Q7. Pattern** — India net zero **2070** at COP26; NDC 45%/50%/forest sink
 
@@ -651,7 +641,7 @@ Options: A. India net zero 2070; MISHTI 2023; LiFE launch 2022/idea COP26; micro
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | LiFE idea at COP-25 Madrid | **COP26 Glasgow 2021**; launch **June 2022** |
 | MISHTI initiated 2019 | **Budget 2023–24** |
@@ -698,10 +688,10 @@ Options: A. India net zero 2070; MISHTI 2023; LiFE launch 2022/idea COP26; micro
 
 ### Topic boundaries
 
-- **Carbon credit / trading / green finance depth** — Topic 24  
-- **Climate science / NAPCC / CCTS depth** — Topics 10 / 34  
-- **Pollution plastic chemistry depth** — Topics 9 / 38  
-- **Treaty parents (Kyoto/Paris)** — Topics 18 / 43  
+- **Carbon credit / trading / green finance depth** — Topic 24
+- **Climate science / NAPCC / CCTS depth** — Topics 10 / 34
+- **Pollution plastic chemistry depth** — Topics 9 / 38
+- **Treaty parents (Kyoto/Paris)** — Topics 18 / 43
 
 ### PYQ audit
 

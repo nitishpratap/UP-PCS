@@ -8,31 +8,31 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 </details>
 
-> **Sources baked in:** NCERT Geo 11–12; MNRE; Energy Conservation Act 2001; BEE/PAT; National Policy on Biofuels 2018; National Solar Mission; UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — renewable vs non-renewable; biogas CH₄+CO₂; conventional/non-conventional; BEE/PAT; E20  
-> **Last verified:** August 2026  
-> **Overlap note:** Solar/wind/biomass/biogas/SHP/tidal detail also lives in Topic 22 — this file keeps those as one-home locks and expands **non-renewable, biofuels, ocean, security, conservation/efficiency**.
+> **Sources baked in:** NCERT Geo 11–12; MNRE; Energy Conservation Act 2001; BEE/PAT; National Policy on Biofuels 2018; National Solar Mission; UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — renewable vs non-renewable; biogas CH₄+CO₂; conventional/non-conventional; BEE/PAT; E20
+> **Last verified:** August 2026
+> **Overlap note:** Solar/wind/biomass/biogas/SHP/tidal detail also lives in Topic 22 — this file keeps those as one-home facts and expands **non-renewable, biofuels, ocean, security, conservation/efficiency**.
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
-1. **Renewable** sources replenish on a human timescale (sun, wind, water, biomass, geothermal). **Non-renewable** sources are finite stocks (coal, oil, gas, uranium). Exams usually treat **nuclear as non-renewable** even though it is low-carbon.
-2. In Indian exam usage, **conventional** energy means coal, oil, gas, **large hydro**, and nuclear. **Non-conventional** means solar, wind, biomass, biogas, tidal, geothermal, ocean, and **small hydro ≤25 MW**.
+1. **Renewable** sources replenish on a human timescale (sun, wind, water, biomass, geothermal). **Non-renewable** sources are finite stocks (coal, oil, gas, uranium). Notes usually treat **nuclear as non-renewable** even though it is low-carbon.
+2. In Indian usage, **conventional** energy means coal, oil, gas, **large hydro**, and nuclear. **Non-conventional** means solar, wind, biomass, biogas, tidal, geothermal, ocean, and **small hydro ≤25 MW**.
 3. Non-conventional is treated as roughly equal to renewable in many prelims stems — but large hydro sits on the conventional side of that Indian classification.
 4. **Biogas** major constituents are **methane and carbon dioxide**. Butane or carbon monoxide as the major pair is wrong.
 5. **Bioethanol** (E10/E20 from sugarcane and other biomass) blends with petrol. **Biodiesel** (Jatropha, used cooking oil, transesterification) blends with diesel. Biofuel Policy **2018** is the policy-year neighbour.
-6. Solar locks include National Solar Mission **2010**, ISA at **Gurugram**, **500 GW** non-fossil by **2030**, and **PM-KUSUM**.
+6. Solar facts include National Solar Mission **2010**, ISA at **Gurugram**, **500 GW** non-fossil by **2030**, and **PM-KUSUM**.
 7. Wind leadership often names Tamil Nadu and Gujarat. **SHP ≤25 MW**. **Tidal** is Moon-driven. **Ocean energy** is a wider set that includes wave, OTEC, and tidal.
 8. **OTEC** uses the temperature difference between warm surface water and cold deep water — not the same as tidal barrage power.
 9. Energy security: India imports a very large share of crude oil (often taught near **~85%**), while coal is mostly domestic. Strategic Petroleum Reserves sit at **Vizag, Mangalore, and Padur**.
 10. **Energy Conservation Act 2001** created **BEE**. **PAT (2012)** trades **ESCerts**. Star labels and UJALA LEDs are efficiency/conservation tools. PAT is **not** CCTS carbon credits.
 11. Coal is fossil non-renewable; biomass is renewable organic matter — do not call coal “biomass.”
 12. Tidal ≠ wave ≠ OTEC, even though all are ocean-related.
-13. Conventional includes large hydro; calling all hydro “non-conventional” is wrong under the Indian exam split.
+13. Conventional includes large hydro; calling all hydro “non-conventional” is wrong under the Indian split.
 14. E20 is the higher ethanol blend ambition beyond E10 — do not freeze policy forever at E10.
 15. BEE sits under the EC Act **2001** efficiency architecture.
-16. SPR locations are Vizag, Mangalore, Padur — three coastal storage locks.
+16. SPR locations are Vizag, Mangalore, Padur — three coastal storage facts.
 17. Western UP sugarcane supports bioethanol; bagasse supports cogeneration; UP wind remains limited; rooftop solar is the distributed play.
 18. Grey/green hydrogen colour language belongs with renewable electricity vs gas reforming — neighbour to this classification chapter.
 19. Non-renewable petroleum is a finite stock example often used against renewable lists.
@@ -40,13 +40,13 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 21. ISA is solar diplomacy/IGO; BEE is domestic efficiency regulation — different lanes.
 22. PAT certificates measure energy savings trading; carbon markets measure CO₂ units — related climate politics, different instruments.
 23. Small hydro cutoff **≤25 MW** is the recurring MNRE number.
-24. Nuclear’s exam classification is usually non-renewable/conventional, not “renewable because low carbon.”
+24. Nuclear’s classification is usually non-renewable/conventional, not “renewable because low carbon.”
 25. Biogas is anaerobic digestion gas; biodiesel is oil-to-ester fuel — different bioenergy products.
 26. Energy conservation (using less) and energy efficiency (more service per unit energy) are neighbours under BEE/PAT, not synonyms for renewable capacity addition alone.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -72,9 +72,9 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 - Advantages: lower GHG than coal/oil; cuts oil/gas import pressure; decentralised rural supply.
 - Limits: intermittency (night/no-wind); needs storage, hybrids, or backup; high upfront cost.
 - India target: **500 GW non-fossil capacity by 2030** (COP26) — supports net zero **2070**.
-- **Nuclear** is usually classified as **non-renewable** in exams (finite uranium + waste).
+- **Nuclear** is usually classified as **non-renewable** s (finite uranium + waste).
 
-> **Exam note:** "Nuclear is renewable" = usually **FALSE** in UPPCS/UPSC.
+> ** note:** "Nuclear is renewable" = usually **FALSE** in UPPCS/UPSC.
 
 ---
 
@@ -93,7 +93,7 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 A non-renewable source of energy is:
 
-Options: A. Solar  B. Petroleum  C. Wind  D. Biogas
+Options: A. Solar B. Petroleum C. Wind D. Biogas
 
 <details><summary>Show answer</summary>
 
@@ -101,7 +101,7 @@ Options: A. Solar  B. Petroleum  C. Wind  D. Biogas
 
 </details>
 
-> **Exam note:** India is **coal-rich domestically** but **oil-import dependent** — do not swap.
+> ** note:** India is **coal-rich domestically** but **oil-import dependent** — do not swap.
 
 ---
 
@@ -109,7 +109,7 @@ Options: A. Solar  B. Petroleum  C. Wind  D. Biogas
 
 **Identity:** Coal, oil, gas, large hydro, nuclear | Traditional grid backbone
 
-- In Indian exam usage, **conventional** means long-established grid sources: **coal, oil, natural gas, large hydropower (>25 MW), and nuclear**.
+- In Indian usage, **conventional** means long-established grid sources: **coal, oil, natural gas, large hydropower (>25 MW), and nuclear**.
 - Conventional ≠ only fossil — **large hydro and nuclear** are included.
 - Advantages: baseload reliability and established infrastructure.
 - Disadvantages: GHG (fossils), air pollution, mining/displacement, waste (nuclear).
@@ -127,13 +127,13 @@ Options: A. Solar  B. Petroleum  C. Wind  D. Biogas
 **Identity:** Solar, wind, biomass, tidal, SHP, geothermal, ocean | ≈ renewable
 
 - **Non-conventional** sources are newer/alternative sources — solar, wind, biomass, biogas, tidal, geothermal, ocean energy, small hydro.
-- In exam MCQs, non-conventional sources are treated as **renewable**.
+- In MCQs, non-conventional sources are treated as **renewable**.
 
 **PYQ — UPPCS Prelims 2023, Q102**
 
 Non-conventional energy sources are those that are—
 
-Options: A. Non-renewable  B. Renewable  C. Produced from electricity  D. Produced from heat
+Options: A. Non-renewable B. Renewable C. Produced from electricity D. Produced from heat
 
 <details><summary>Show answer</summary>
 
@@ -141,7 +141,7 @@ Options: A. Non-renewable  B. Renewable  C. Produced from electricity  D. Produc
 
 </details>
 
-> **Exam note:** Non-conventional ≈ renewable; conventional includes fossils + large hydro + nuclear.
+> ** note:** Non-conventional ≈ renewable; conventional includes fossils + large hydro + nuclear.
 
 ---
 
@@ -155,7 +155,7 @@ Options: A. Non-renewable  B. Renewable  C. Produced from electricity  D. Produc
 - **PM-KUSUM (2019):** solar pumps and farmer solarisation.
 - Flagship park: **Bhadla (Rajasthan)**.
 
-> **Exam note:** ISA HQ = Gurugram. "38 members forever" outdated; OSOWOG under ISA is the tested true lock (2025 Q109).
+> ** note:** ISA HQ = Gurugram. "38 members forever" outdated; OSOWOG under ISA is the tested true fact.
 
 ---
 
@@ -168,7 +168,7 @@ Options: A. Non-renewable  B. Renewable  C. Produced from electricity  D. Produc
 - Onshore mature; offshore potential on Gujarat/TN coasts — stronger winds, higher cost.
 - Intermittent — needs grid balancing or hybrid solar–wind systems.
 
-> **Exam note:** Rajasthan leads **solar**, not wind.
+> ** note:** Rajasthan leads **solar**, not wind.
 
 ---
 
@@ -185,7 +185,7 @@ Options: A. Non-renewable  B. Renewable  C. Produced from electricity  D. Produc
 
 NOT a biomass energy source:
 
-Options: A. Coal  B. Nuclear  C. Gobar  D. Wood
+Options: A. Coal B. Nuclear C. Gobar D. Wood
 
 <details><summary>Show answer</summary>
 
@@ -212,7 +212,7 @@ Options: A. Coal  B. Nuclear  C. Gobar  D. Wood
 | Biodiesel | Jatropha, Pongamia, UCO | Diesel B5/B10 |
 | Biogas/CBG | Dung, organic waste | Cooking / transport |
 
-> **Exam note:** Biofuels ⊃ ethanol + biodiesel + biogas — terms are not interchangeable.
+> ** note:** Biofuels ⊃ ethanol + biodiesel + biogas — terms are not interchangeable.
 
 ---
 
@@ -229,7 +229,7 @@ Options: A. Coal  B. Nuclear  C. Gobar  D. Wood
 
 Major constituents of biogas: (1) Methane (2) Butane (3) Carbon dioxide (4) Carbon monoxide
 
-Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
+Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 <details><summary>Show answer</summary>
 
@@ -248,7 +248,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 - Reduces petrol import bill and transport CO₂ intensity.
 - Western UP sugar belt distilleries are key producers.
 
-> **Exam note:** Bioethanol = **petrol** engines; biodiesel = **diesel** engines.
+> ** note:** Bioethanol = **petrol** engines; biodiesel = **diesel** engines.
 
 ---
 
@@ -261,7 +261,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 - Blended with diesel as **B5/B10**.
 - Biodiesel ≠ biogas (liquid ester vs methane gas).
 
-> **Exam note:** Jatropha was promoted as non-edible biodiesel crop — yield challenges limited scale.
+> ** note:** Jatropha was promoted as non-edible biodiesel crop — yield challenges limited scale.
 
 ---
 
@@ -274,7 +274,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 - Run-of-river SHP has lower submergence than large storage dams.
 - **Ramganga (~198 MW)** is **large hydro**, not SHP.
 
-> **Exam note:** 2025 Q31 — Himalayan potential true; "Nepal border means zero Indian hydro" false.
+> ** note:** 2025 Q31 — Himalayan potential true; "Nepal border means zero Indian hydro" false.
 
 ---
 
@@ -304,7 +304,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 | Wave | Wind on sea surface |
 | OTEC | Warm–cold water ΔT |
 
-> **Exam note:** Ocean energy ⊃ tidal, but is not limited to it.
+> ** note:** Ocean energy ⊃ tidal, but is not limited to it.
 
 ---
 
@@ -319,7 +319,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 - Tools: diversify suppliers, expand renewables, biofuel blending, gas pipelines, grid reliability.
 - UP has little fossil production — depends on inter-state power/fuel; local solar + ethanol help.
 
-> **Exam note:** Energy security ≠ oil alone — includes coal, gas, electricity, and strategic stocks.
+> ** note:** Energy security ≠ oil alone — includes coal, gas, electricity, and strategic stocks.
 
 ---
 
@@ -332,7 +332,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 - Earlier 175 GW by 2022 ambition expanded into **500 GW non-fossil by 2030**.
 - Challenges: land, grid evacuation, storage, seasonal mismatch, state DISCOM finances.
 
-| Source | Exam lock |
+| Source | Key fact |
 |--------|-----------|
 | Solar | Fastest capacity growth |
 | Wind | TN/Gujarat strongholds |
@@ -361,7 +361,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 - Target path: early 20 GW ambition → revised to **100 GW solar** → contributes to 500 GW non-fossil 2030.
 - Complements ISA (2015) and PM-KUSUM (2019).
 
-> **Exam note:** NSM = **2010**, under NAPCC — not 2015 (ISA year).
+> ** note:** NSM = **2010**, under NAPCC — not 2015 (ISA year).
 
 ---
 
@@ -381,7 +381,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 | BEE | Under Power Ministry |
 | Star labeling | Appliance efficiency |
 
-> **Exam note:** BEE = efficiency; MNRE = renewables — different mandates.
+> ** note:** BEE = efficiency; MNRE = renewables — different mandates.
 
 ---
 
@@ -401,7 +401,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 | CCTS | Carbon credits (CO₂e) |
 | UJALA | LED bulbs at scale |
 
-> **Exam note:** PAT = **energy efficiency certificates**, not carbon credits.
+> ** note:** PAT = **energy efficiency certificates**, not carbon credits.
 
 ---
 
@@ -410,7 +410,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 
 **Q1.** Non-conventional energy sources are generally:
 
-Options: A. Renewable  B. Non-renewable  C. Only nuclear  D. Only coal
+Options: A. Renewable B. Non-renewable C. Only nuclear D. Only coal
 
 <details><summary>Show answer</summary>
 
@@ -420,7 +420,7 @@ Options: A. Renewable  B. Non-renewable  C. Only nuclear  D. Only coal
 
 **Q2.** A non-renewable source is:
 
-Options: A. Solar  B. Petroleum  C. Wind  D. Biogas
+Options: A. Solar B. Petroleum C. Wind D. Biogas
 
 <details><summary>Show answer</summary>
 
@@ -430,7 +430,7 @@ Options: A. Solar  B. Petroleum  C. Wind  D. Biogas
 
 **Q3.** Major biogas constituents:
 
-Options: A. Methane and CO₂  B. Butane and CO  C. Ozone and N₂  D. Helium and neon
+Options: A. Methane and CO₂ B. Butane and CO C. Ozone and N₂ D. Helium and neon
 
 <details><summary>Show answer</summary>
 
@@ -440,7 +440,7 @@ Options: A. Methane and CO₂  B. Butane and CO  C. Ozone and N₂  D. Helium an
 
 **Q4.** National Solar Mission year:
 
-Options: A. 2010  B. 2015  C. 2019  D. 2001
+Options: A. 2010 B. 2015 C. 2019 D. 2001
 
 <details><summary>Show answer</summary>
 
@@ -450,7 +450,7 @@ Options: A. 2010  B. 2015  C. 2019  D. 2001
 
 **Q5.** Energy Conservation Act year:
 
-Options: A. 2001  B. 2010  C. 2018  D. 2023
+Options: A. 2001 B. 2010 C. 2018 D. 2023
 
 <details><summary>Show answer</summary>
 
@@ -460,7 +460,7 @@ Options: A. 2001  B. 2010  C. 2018  D. 2023
 
 **Q6.** BEE was established under:
 
-Options: A. EC Act 2001  B. WPA 1972  C. CITES  D. Ramsar
+Options: A. EC Act 2001 B. WPA 1972 C. CITES D. Ramsar
 
 <details><summary>Show answer</summary>
 
@@ -470,7 +470,7 @@ Options: A. EC Act 2001  B. WPA 1972  C. CITES  D. Ramsar
 
 **Q7.** PAT scheme trades:
 
-Options: A. ESCerts  B. Wildlife permits  C. Ozone credits  D. Ramsar tags
+Options: A. ESCerts B. Wildlife permits C. Ozone credits D. Ramsar tags
 
 <details><summary>Show answer</summary>
 
@@ -480,7 +480,7 @@ Options: A. ESCerts  B. Wildlife permits  C. Ozone credits  D. Ramsar tags
 
 **Q8.** E20 means:
 
-Options: A. 20% ethanol in petrol  B. 20% coal in petrol  C. 20% nuclear  D. 20% tidal
+Options: A. 20% ethanol in petrol B. 20% coal in petrol C. 20% nuclear D. 20% tidal
 
 <details><summary>Show answer</summary>
 
@@ -490,7 +490,7 @@ Options: A. 20% ethanol in petrol  B. 20% coal in petrol  C. 20% nuclear  D. 20%
 
 **Q9.** National Policy on Biofuels year:
 
-Options: A. 2018  B. 1985  C. 1974  D. 1952
+Options: A. 2018 B. 1985 C. 1974 D. 1952
 
 <details><summary>Show answer</summary>
 
@@ -500,7 +500,7 @@ Options: A. 2018  B. 1985  C. 1974  D. 1952
 
 **Q10.** Biodiesel is produced mainly by:
 
-Options: A. Transesterification  B. Nuclear fission  C. Ozone reaction  D. Photosynthesis only
+Options: A. Transesterification B. Nuclear fission C. Ozone reaction D. Photosynthesis only
 
 <details><summary>Show answer</summary>
 
@@ -510,7 +510,7 @@ Options: A. Transesterification  B. Nuclear fission  C. Ozone reaction  D. Photo
 
 **Q11.** Jatropha is associated with:
 
-Options: A. Biodiesel  B. Nuclear fuel  C. Coal washing  D. Ozone recovery
+Options: A. Biodiesel B. Nuclear fuel C. Coal washing D. Ozone recovery
 
 <details><summary>Show answer</summary>
 
@@ -520,7 +520,7 @@ Options: A. Biodiesel  B. Nuclear fuel  C. Coal washing  D. Ozone recovery
 
 **Q12.** Small hydro upper limit (MNRE):
 
-Options: A. 25 MW  B. 250 MW  C. 2.5 MW  D. 2500 MW
+Options: A. 25 MW B. 250 MW C. 2.5 MW D. 2500 MW
 
 <details><summary>Show answer</summary>
 
@@ -530,7 +530,7 @@ Options: A. 25 MW  B. 250 MW  C. 2.5 MW  D. 2500 MW
 
 **Q13.** OTEC uses:
 
-Options: A. Warm–cold ocean temperature difference  B. Moon gravity only  C. Coal heat only  D. Nuclear waste heat only
+Options: A. Warm–cold ocean temperature difference B. Moon gravity only C. Coal heat only D. Nuclear waste heat only
 
 <details><summary>Show answer</summary>
 
@@ -540,7 +540,7 @@ Options: A. Warm–cold ocean temperature difference  B. Moon gravity only  C. C
 
 **Q14.** Tidal energy is driven mainly by:
 
-Options: A. Moon's gravity  B. Volcanoes only  C. Ozone hole  D. Desert sand
+Options: A. Moon's gravity B. Volcanoes only C. Ozone hole D. Desert sand
 
 <details><summary>Show answer</summary>
 
@@ -550,7 +550,7 @@ Options: A. Moon's gravity  B. Volcanoes only  C. Ozone hole  D. Desert sand
 
 **Q15.** SPR sites include:
 
-Options: A. Visakhapatnam, Mangalore, Padur  B. Only Delhi  C. Only Leh  D. Only Guwahati
+Options: A. Visakhapatnam, Mangalore, Padur B. Only Delhi C. Only Leh D. Only Guwahati
 
 <details><summary>Show answer</summary>
 
@@ -560,7 +560,7 @@ Options: A. Visakhapatnam, Mangalore, Padur  B. Only Delhi  C. Only Leh  D. Only
 
 **Q16.** India crude oil import share is roughly:
 
-Options: A. ~85%  B. ~5%  C. 0%  D. 100% nuclear
+Options: A. ~85% B. ~5% C. 0% D. 100% nuclear
 
 <details><summary>Show answer</summary>
 
@@ -570,7 +570,7 @@ Options: A. ~85%  B. ~5%  C. 0%  D. 100% nuclear
 
 **Q17.** Conventional sources include:
 
-Options: A. Coal and large hydro  B. Only solar  C. Only wind  D. Only OTEC
+Options: A. Coal and large hydro B. Only solar C. Only wind D. Only OTEC
 
 <details><summary>Show answer</summary>
 
@@ -580,7 +580,7 @@ Options: A. Coal and large hydro  B. Only solar  C. Only wind  D. Only OTEC
 
 **Q18.** Coal is:
 
-Options: A. Non-renewable fossil  B. Biomass  C. Biogas  D. Tidal fuel
+Options: A. Non-renewable fossil B. Biomass C. Biogas D. Tidal fuel
 
 <details><summary>Show answer</summary>
 
@@ -590,7 +590,7 @@ Options: A. Non-renewable fossil  B. Biomass  C. Biogas  D. Tidal fuel
 
 **Q19.** ISA headquarters:
 
-Options: A. Gurugram  B. Paris city hall only  C. Nairobi only  D. Rome only
+Options: A. Gurugram B. Paris city hall only C. Nairobi only D. Rome only
 
 <details><summary>Show answer</summary>
 
@@ -600,7 +600,7 @@ Options: A. Gurugram  B. Paris city hall only  C. Nairobi only  D. Rome only
 
 **Q20.** Wind power most strongly depends on:
 
-Options: A. Cube of wind speed  B. Moon phase only  C. Soil colour  D. River silt
+Options: A. Cube of wind speed B. Moon phase only C. Soil colour D. River silt
 
 <details><summary>Show answer</summary>
 
@@ -610,7 +610,7 @@ Options: A. Cube of wind speed  B. Moon phase only  C. Soil colour  D. River sil
 
 **Q21.** PAT differs from CCTS because PAT is about:
 
-Options: A. Energy efficiency certificates  B. Wildlife trade  C. Wetland listing  D. Ozone CFCs
+Options: A. Energy efficiency certificates B. Wildlife trade C. Wetland listing D. Ozone CFCs
 
 <details><summary>Show answer</summary>
 
@@ -620,7 +620,7 @@ Options: A. Energy efficiency certificates  B. Wildlife trade  C. Wetland listin
 
 **Q22.** UJALA relates to:
 
-Options: A. LED efficiency programme  B. Tidal barrages  C. Coal mining only  D. Nuclear waste
+Options: A. LED efficiency programme B. Tidal barrages C. Coal mining only D. Nuclear waste
 
 <details><summary>Show answer</summary>
 
@@ -630,7 +630,7 @@ Options: A. LED efficiency programme  B. Tidal barrages  C. Coal mining only  D.
 
 **Q23.** Bioethanol in India mainly from:
 
-Options: A. Sugarcane molasses  B. Uranium ore  C. Crude oil wells  D. Polar ice
+Options: A. Sugarcane molasses B. Uranium ore C. Crude oil wells D. Polar ice
 
 <details><summary>Show answer</summary>
 
@@ -640,7 +640,7 @@ Options: A. Sugarcane molasses  B. Uranium ore  C. Crude oil wells  D. Polar ice
 
 **Q24.** Ocean energy is broader than tidal because it also includes:
 
-Options: A. Wave and OTEC  B. Only coal  C. Only nuclear  D. Only diesel
+Options: A. Wave and OTEC B. Only coal C. Only nuclear D. Only diesel
 
 <details><summary>Show answer</summary>
 
@@ -648,9 +648,9 @@ Options: A. Wave and OTEC  B. Only coal  C. Only nuclear  D. Only diesel
 
 </details>
 
-**Q25.** Nuclear energy in most exam classifications is:
+**Q25.** Nuclear energy in most classifications is:
 
-Options: A. Non-renewable  B. Solar renewable  C. Wind renewable  D. Biomass
+Options: A. Non-renewable B. Solar renewable C. Wind renewable D. Biomass
 
 <details><summary>Show answer</summary>
 
@@ -660,7 +660,7 @@ Options: A. Non-renewable  B. Solar renewable  C. Wind renewable  D. Biomass
 
 **Q26.** Consider: (1) Non-conventional sources are renewable. (2) Petroleum is renewable.
 
-Options: A. Only 1  B. Only 2  C. Both  D. Neither
+Options: A. Only 1 B. Only 2 C. Both D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -670,7 +670,7 @@ Options: A. Only 1  B. Only 2  C. Both  D. Neither
 
 **Q27.** Star labeling programme is run under:
 
-Options: A. BEE  B. CZA  C. BSI  D. FSI
+Options: A. BEE B. CZA C. BSI D. FSI
 
 <details><summary>Show answer</summary>
 
@@ -680,7 +680,7 @@ Options: A. BEE  B. CZA  C. BSI  D. FSI
 
 **Q28.** 500 GW by 2030 refers to:
 
-Options: A. Non-fossil capacity target  B. Only coal capacity  C. Only oil wells  D. Only nuclear plants count
+Options: A. Non-fossil capacity target B. Only coal capacity C. Only oil wells D. Only nuclear plants count
 
 <details><summary>Show answer</summary>
 
@@ -690,7 +690,7 @@ Options: A. Non-fossil capacity target  B. Only coal capacity  C. Only oil wells
 
 **Q29.** Biodiesel and biogas:
 
-Options: A. Different — liquid ester vs methane gas  B. Identical fuels  C. Both are nuclear  D. Both are coal
+Options: A. Different — liquid ester vs methane gas B. Identical fuels C. Both are nuclear D. Both are coal
 
 <details><summary>Show answer</summary>
 
@@ -698,10 +698,10 @@ Options: A. Different — liquid ester vs methane gas  B. Identical fuels  C. Bo
 
 </details>
 
-**Q30.** Assertion (A): PAT promotes industrial energy efficiency.  
+**Q30.** Assertion (A): PAT promotes industrial energy efficiency.
 Reason (R): PAT trades ESCerts among designated consumers.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -713,21 +713,9 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 ## Complete PYQ Bank (Topic 27)
 
-**Q1. UPPCS 2025, Q28** — Biogas = Methane + CO₂ → **Ans: A**
+**Q1. UPPCS 2025, Q28** — Biogas = Methane + CO₂ → **Ans: AQ2. UPPCS 2025, Q31** — Himalayan hydro potential true; Nepal excuse false → **Ans: D (Only 1)Q3. UPPCS 2025, Q109** — ISA OSOWOG true; 38 members outdated → **Ans: A (Only 2)Q4. UPPCS 2023, Q102** — Non-conventional = renewable → **Ans: BQ5. UPPCS 2022, Q69** — Coal/nuclear NOT biomass → coal/nuclear
 
-**Q2. UPPCS 2025, Q31** — Himalayan hydro potential true; Nepal excuse false → **Ans: D (Only 1)**
-
-**Q3. UPPCS 2025, Q109** — ISA OSOWOG true; 38 members outdated → **Ans: A (Only 2)**
-
-**Q4. UPPCS 2023, Q102** — Non-conventional = renewable → **Ans: B**
-
-**Q5. UPPCS 2022, Q69** — Coal/nuclear NOT biomass → coal/nuclear
-
-**Q6. UPPCS 2021, Q124** — Non-renewable = Petroleum → **Ans: B**
-
-**Q7. UPPCS 2022** — Khambhat largest tidal potential → **Ans: C**
-
-**Q8. UPPCS 2022** — Solar → electricity via photovoltaic cells
+**Q6. UPPCS 2021, Q124** — Non-renewable = Petroleum → **Ans: BQ7. UPPCS 2022** — Khambhat largest tidal potential → **Ans: CQ8. UPPCS 2022** — Solar → electricity via photovoltaic cells
 
 **Q9. UPSC pattern** — EC Act 2001 establishes BEE
 
@@ -737,7 +725,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Nuclear = renewable | Usually **non-renewable** |
 | Non-conventional = non-renewable | **= renewable** |
@@ -790,10 +778,10 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 ### Topic boundaries
 
-- **Deep solar/wind/SHP/tidal teaching** — Topic 22 (locks repeated here only as short homes)  
-- **Carbon trading / CCTS** — Topic 24  
-- **Net zero 2070** — Topic 24  
-- **Climate NAPCC missions list** — Topic 10/15  
+- **Deep solar/wind/SHP/tidal teaching** — Topic 22 (facts repeated here only as short homes)
+- **Carbon trading / CCTS** — Topic 24
+- **Net zero 2070** — Topic 24
+- **Climate NAPCC missions list** — Topic 10/15
 
 ### PYQ audit
 
@@ -803,6 +791,6 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 | 2023 Q102 non-conventional | §27.4 inline |
 | 2021 Q124 petroleum | §27.2 inline |
 | 2022 biomass NOT coal | §27.7 inline |
-| 2025 Q31/Q109 | exam notes + PYQ Bank (full home Topic 22) |
+| 2025 Q31/Q109 | notes + PYQ Bank (full home Topic 22) |
 
 **File ready: YES**

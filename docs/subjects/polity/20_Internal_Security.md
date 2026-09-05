@@ -8,14 +8,14 @@ Internal Security Institutions | NIA | NSG | IB | RAW | CAPFs (CRPF, BSF, CISF, 
 
 </details>
 
-> **Sources baked in:** MHA force identity, NIA Act 2008, IT Act s.70A/70B, UAPA 1967/2019, AFSPA 1958/1990, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ — BHARATPOL = **CBI** (2025); Kanker **not** Gadchiroli (2024); CERT-In = **MeitY / s.70B** ≠ I4C (**MHA**); UAPA **2019** can tag **individuals**; AFSPA only in a notified **disturbed area**; 66A **struck 2015** (T19)  
-> **Last verified:** August 2026  
+> **Sources baked in:** MHA force identity, NIA Act 2008, IT Act s.70A/70B, UAPA 1967/2019, AFSPA 1958/1990, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ — BHARATPOL = **CBI** (2025); Kanker **not** Gadchiroli (2024); CERT-In = **MeitY / s.70B** ≠ I4C (**MHA**); UAPA **2019** can tag **individuals**; AFSPA only in a notified **disturbed area**; 66A **struck 2015** (T19)
+> **Last verified:** August 2026
 > **Current Affairs:** CERT-In **2022** 6-hour reporting; UAPA 2019 individuals; AFSPA rolled back in Tripura **2015**, Meghalaya, large parts of Assam **2022** — still on in parts of NL/MN/AR + **J&K 1990 Act**; Defence Cyber Agency **2019**
 
 ---
 
-## Consolidated — 30 Must-Score Locks
+## Consolidated — 30 Must-Score Facts
 
 1. Police and public order are **State List** subjects. The Union still has a duty under Article **355** to protect States against external aggression and internal disturbance. The **Ministry of Home Affairs** is the internal-security nodal ministry.
 2. The Army, Navy, Air Force, and Coast Guard sit under the **Ministry of Defence**. CAPFs sit under **Home**. Do not put Coast Guard in the CAPF list.
@@ -34,23 +34,23 @@ Internal Security Institutions | NIA | NSG | IB | RAW | CAPFs (CRPF, BSF, CISF, 
 15. **CERT-In** (**2004**) is under **MeitY** and draws power from IT Act section **70B**. It handles cyber incident response. **2022** directions require reporting in **six hours** and log retention for **five years**.
 16. **NCIIPC** (section **70A**) protects Critical Information Infrastructure and sits under the **NTRO** line. It is **not** CERT-In.
 17. **I4C** (MHA, **2018/20**) runs the cybercrime.gov.in ecosystem and a National Cybercrime Training Centre. That training centre is **not** the never-born counter-terror **NCTC**.
-18. Proposed **NCTC** (counter-terror) was **never** stood up. **MAC** (**2001**) lives inside the IB and is the working multi-agency coordination lock.
+18. Proposed **NCTC** (counter-terror) was **never** stood up. **MAC** (**2001**) lives inside the IB and is the working multi-agency coordination fact.
 19. IT Act section **66A** was struck down in **2015**. Section **66F** covers cyber-terrorism. Sections **69 / 69A** cover interception and blocking. India’s National Cyber Security Policy is **2013** (MeitY). India is **not** a party to the Budapest Convention.
 20. **UAPA 1967** is the living anti-terror criminal statute. **POTA** was repealed in **2004** and its teeth largely folded into UAPA. After **2019**, individuals can be designated terrorists (Fourth Schedule). Bail is hard under section **43D(5)**.
 21. **NSA 1980** is a **preventive detention** law (Article **22** track). UAPA is a **criminal trial** statute often used with the NIA. Do not swap them.
 22. **AFSPA 1958** applies in a notified **disturbed area** in the north-east. Section **3** notifies; section **4** gives fire/arrest/search powers; section **6** needs Central sanction for prosecution. Jammu & Kashmir uses a **separate 1990** AFSPA statute.
 23. AFSPA was lifted from Tripura (**2015**), Meghalaya, and large parts of Assam (**2022**). It still applies in parts of Nagaland, Manipur, Arunachal Pradesh, and under the J&K Act.
 24. The Jeevan Reddy Committee (**2005**) recommended repeal of AFSPA; that recommendation was **not** enacted. *NPMHR* (**1997**) upheld AFSPA with limits. Fake encounters are not a licence under later rulings.
-25. In April **2024** LWE operations, **Kanker (Chhattisgarh)** is the correct district lock — **not** Gadchiroli.
+25. In April **2024** LWE operations, **Kanker (Chhattisgarh)** is the correct district fact — **not** Gadchiroli.
 26. The Defence Cyber Agency (**2019**) is under **MoD**. Cyber Swachhta Kendra sits with CERT-In. Keep ministry lines clear when matching institutions.
-27. India’s nuclear and cyber neighbours in this chapter are policy locks: strategic forces under Defence, cyber civilian response under MeitY, cybercrime under MHA, and critical infrastructure under NCIIPC/NTRO.
+27. India’s nuclear and cyber neighbours in this chapter are policy facts: strategic forces under Defence, cyber civilian response under MeitY, cybercrime under MHA, and critical infrastructure under NCIIPC/NTRO.
 28. **TADA** (**1985–95**) lapsed. **POTA** (**2002**) was repealed. The living central terror-trial tool for scheduled offences is **UAPA**, often with **NIA**.
 29. CRPF is the main internal mobile force (including RAF and CoBRA for LWE). BSF holds the western and eastern international land borders. CISF holds static industry and airport security. Do not swap roles.
 30. Emergency Articles **352, 356, and 360** are constitutional emergency tools. Internal security day-to-day work still runs through police, CAPFs, intelligence, and special statutes — not only through Emergency proclamations.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|
@@ -97,7 +97,7 @@ Internal Security Institutions | NIA | NSG | IB | RAW | CAPFs (CRPF, BSF, CISF, 
 - Cyber → **CERT-In** (incident, MeitY) · **I4C** (crime, MHA) · **NCIIPC** (CII, NTRO)
 - Disaster → **NDRF** (DM Act 2005) — not a CAPF
 
-**Constitutional locks**
+**Constitutional facts**
 
 - Public order / police = State List **Entries 1–2**. Union armed forces = Union List
 - **Entry 2A** (Union, 42nd) — deployment of armed forces **in aid of civil power**
@@ -105,13 +105,13 @@ Internal Security Institutions | NIA | NSG | IB | RAW | CAPFs (CRPF, BSF, CISF, 
 - Nodal: **MHA** for internal; **MoD** for Army/Navy/IAF/Coast Guard
 - **SAMADHAN** (MHA **2017**) — LWE strategy. Expand if the paper prints letters: **S**mart leadership · **A**ggressive strategy · **M**otivation & training · **A**ctionable intelligence · **D**ashboard KPIs · **H**arnessing technology · **A**ction plan per theatre · **N**o access to financing
 
-> **Exam note:** Police is **State** List. Union uses 355 + CAPF + Entry 2A — not a Union-List police.
+> ** note:** Police is **State** List. Union uses 355 + CAPF + Entry 2A — not a Union-List police.
 
 **PYQ — UPPCS Prelims 2024, Q80**
 
 With reference to the Anti-Maoist operation that took place in April 2024, which of the following statements is/are correct?
 
-1. It took place in Gadchiroli district of Maharashtra.  
+1. It took place in Gadchiroli district of Maharashtra.
 2. The operation was launched by BSF and District Reserve Guards.
 
 A. Only 2
@@ -142,7 +142,7 @@ D. Both 1 and 2
 - Head / HQ: Director General · **New Delhi** · **MHA**
 - ≠ CBI (needs s.6) · IB (intel, **no** charge-sheet) · ED (PMLA/FEMA, **Finance**)
 
-> **Exam note:** NIA does **not** need State consent; CBI does (DSPE **s.6**).
+> ** note:** NIA does **not** need State consent; CBI does (DSPE **s.6**).
 
 ---
 
@@ -156,7 +156,7 @@ D. Both 1 and 2
 - Ops raata: Black Thunder (Golden Temple 1988) · Black Tornado (**26/11 Mumbai**)
 - ≠ SPG (PM’s close protection) · Army SF (MoD) · CoBRA (CRPF LWE)
 
-> **Exam note:** NSG = strike. SPG **1988** = PM’s close protection. CoBRA = **CRPF** LWE, not NSG.
+> ** note:** NSG = strike. SPG **1988** = PM’s close protection. CoBRA = **CRPF** LWE, not NSG.
 
 ---
 
@@ -185,7 +185,7 @@ D. Both 1 and 2
 | Character | Executive, **not** statutory, **not** a police charge-sheet agency | Same |
 | Grid | **MAC** sits with IB; SMAC in States | Split from IB after 1962/65 |
 
-> **Exam note:** IB = internal **MHA 1887**. RAW = external **Cabinet Secretariat 1968**. Opposite is the paper trap.
+> ** note:** IB = internal **MHA 1887**. RAW = external **Cabinet Secretariat 1968**. Opposite is the paper trap.
 
 ## MAC · NATGRID · NCTC · BHARATPOL
 
@@ -194,11 +194,11 @@ D. Both 1 and 2
 - **NCTC** — National **Counter Terrorism** Centre — proposed ~2012 under IB. States said it violated federal police power. **Never established**
 - **BHARATPOL** — **2025** online portal for **Interpol** police cooperation. Built by **CBI**, because CBI is India’s **National Central Bureau** of Interpol. Options will dangle IB/RAW/ED — mark **CBI only**
 
-> **Exam note:** BHARATPOL = **CBI only**. NCTC (terror) **never born**. I4C’s training centre is a different “NCTC”.
+> ** note:** BHARATPOL = **CBI only**. NCTC (terror) **never born**. I4C’s training centre is a different “NCTC”.
 
 **PYQ — UPPCS Prelims 2025, Q126**
 
-BHARATPOL developed by— 1 CBI  2 RAW  3 IB  4 ED  
+BHARATPOL developed by— 1 CBI 2 RAW 3 IB 4 ED
 A. 2 and 3
 B. 3 and 4
 C. Only 3
@@ -224,7 +224,7 @@ D. Only 1
 - ≠ **CCS** — Cabinet Committee on **Security** = a **Cabinet** committee (PM, HM, Defence, Finance, EAM) that **takes Cabinet decisions** on war/nuclear/major ops. NSC **advises**
 - Name collision: NSC’s **SPG** = Strategic **Policy** Group. The **SPG Act 1988** = Special **Protection** Group (PM’s guards)
 
-> **Exam note:** Don’t mix **SPG** (PM protection, 1988 Act) with **NSG** (counter-terror, 1984) or with NSC’s Strategic **Policy** Group.
+> ** note:** Don’t mix **SPG** (PM protection, 1988 Act) with **NSG** (counter-terror, 1984) or with NSC’s Strategic **Policy** Group.
 
 ---
 
@@ -234,11 +234,11 @@ D. Only 1
 
 - Force **1985** after Indira Gandhi assassination; Act **1988**
 - Before 2019: sitting PM + family **and** all former PMs + families, as the old Act read
-- **2019 Amd:** **only** the **sitting PM** and immediate family as of right. A **former PM** (and family) get cover for **5 years** from the date of demitting office — then SPG ends unless the person is still a high-risk protectee under other arrangements
+- **2019 Amd:only** the **sitting PM** and immediate family as of right. A **former PM** (and family) get cover for **5 years** from the date of demitting office — then SPG ends unless the person is still a high-risk protectee under other arrangements
 - Paper trap: “every ex-PM has SPG for life”
 - ≠ NSC’s Strategic Policy Group · ≠ NSG Black Cats
 
-> **Exam note:** After 2019, ex-PM SPG cover = **5 years**, not life.
+> ** note:** After 2019, ex-PM SPG cover = **5 years**, not life.
 
 ---
 
@@ -259,7 +259,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - **CoBRA 2008** = Commando Battalion for Resolute Action (**jungle LWE**, not NSG Black Cats)
 - First mahila battalion **1986**
 
-> **Exam note:** CRPF raised **1939** / Act **1949**. **1965 = BSF**. CoBRA = CRPF, not NSG.
+> ** note:** CRPF raised **1939** / Act **1949**. **1965 = BSF**. CoBRA = CRPF, not NSG.
 
 ## BSF
 
@@ -270,7 +270,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - Border: **Pakistan + Bangladesh** — **not** China / LAC (that is **ITBP**)
 - Water + air wings. War-time operates with Army
 
-> **Exam note:** BSF does **not** guard the China border. BSF = Pak + Bangladesh.
+> ** note:** BSF does **not** guard the China border. BSF = Pak + Bangladesh.
 
 ## CISF
 
@@ -280,7 +280,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - Airports, PSUs, metro, SEZ, Delhi Metro; private establishments **on payment**
 - Only CAPF built as **infrastructure security** — **not** riot police, **not** a border force
 
-> **Exam note:** CISF = industrial / airport / metro. CRPF = mobile internal-security grid.
+> ** note:** CISF = industrial / airport / metro. CRPF = mobile internal-security grid.
 
 ## ITBP
 
@@ -290,7 +290,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - Motto: Shaurya–Dridhata–Karm Nishtha
 - Himalayan disaster response. HQ **New Delhi**, not Itanagar / Leh
 
-> **Exam note:** ITBP = China / LAC. BSF = Pak + Bangladesh.
+> ** note:** ITBP = China / LAC. BSF = Pak + Bangladesh.
 
 ## SSB
 
@@ -300,7 +300,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - Motto: Service, Security and Brotherhood
 - Civic-action origin. **Not** “Nepal only” — Bhutan too. **Not** the NE rifle (that is Assam Rifles)
 
-> **Exam note:** SSB renamed **2001**. Nepal **and Bhutan**.
+> ** note:** SSB renamed **2001**. Nepal **and Bhutan**.
 
 ---
 
@@ -314,7 +314,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - HQ **Shillong** (not New Delhi) — the CAPF HQ trap does **not** apply here
 - ≠ a CAPF like CRPF (no dual Army ops) · SSB (Nepal/Bhutan, not “the” NE rifle)
 
-> **Exam note:** Assam Rifles is **not** an ordinary CAPF under only MHA. Dual MHA + Army; HQ **Shillong**.
+> ** note:** Assam Rifles is **not** an ordinary CAPF under only MHA. Dual MHA + Army; HQ **Shillong**.
 
 ---
 
@@ -334,9 +334,9 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 **Armed forces under MoD** — external defence; aid to civil power when requisitioned.
 
 ### State police / DRG / C-60
-**First responders.** **DRG = Chhattisgarh** (Bastar). **C-60 = Maharashtra** (Gadchiroli). 2024 paper mixed the two.
+**First responders.DRG = Chhattisgarh** (Bastar). **C-60 = Maharashtra** (Gadchiroli). 2024 paper mixed the two.
 
-> **Exam note:** Coast Guard = **MoD, 1978**, not CAPF/MHA. April 2024 Maoist op = **Kanker, Chhattisgarh**, not Gadchiroli; DRG ≠ Maharashtra.
+> ** note:** Coast Guard = **MoD, 1978**, not CAPF/MHA. April 2024 Maoist op = **Kanker, Chhattisgarh**, not Gadchiroli; DRG ≠ Maharashtra.
 
 **Coastal security after 26/11 — three layers**
 
@@ -375,7 +375,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 - **2022 directions:** specified incidents to be reported in **6 hours**. Logs kept **5 years**. Clocks on **NTP**. VPN / cloud / virtual-asset KYC as directed. Challenged in court — for Prelims still treat the directions as **issued**, not “struck down”
 - **Cyber Swachhta Kendra** — CERT-In’s botnet-cleaning desk for citizens and ISPs — still MeitY, still not a CAPF
 
-> **Exam note:** CERT-In = **MeitY / s.70B**, incident response. I4C = **MHA**, cyber-*crime*.
+> ** note:** CERT-In = **MeitY / s.70B**, incident response. I4C = **MHA**, cyber-*crime*.
 
 ### NCIIPC
 
@@ -385,7 +385,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 - CII means: computer resource whose incapacity would hit **national security / economy / public health / safety**. Sectors typically listed: **power, banking, telecom, transport, government, strategic**
 - Does **not** run cybercrime.gov.in and does **not** replace State police
 
-> **Exam note:** NCIIPC = **s.70A**, **NTRO**, CII only. CERT-In = **s.70B**, all-India CER.
+> ** note:** NCIIPC = **s.70A**, **NTRO**, CII only. CERT-In = **s.70B**, all-India CER.
 
 ### I4C (Indian Cyber Crime Coordination Centre)
 
@@ -397,7 +397,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 - Verticals: Threat Analytics Unit · Reporting Portal · Joint Cyber Crime Investigation platform · **National Cybercrime Training Centre** · Ecosystem / Research units
 - **NCTC name-collision:** I4C’s **training** centre ≠ the **National Counter Terrorism Centre** (proposed under IB, **never established**)
 
-> **Exam note:** I4C’s National Cybercrime Training Centre ≠ the never-born terror NCTC.
+> ** note:** I4C’s National Cybercrime Training Centre ≠ the never-born terror NCTC.
 
 ### Other cyber desks
 
@@ -443,7 +443,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 | **POTA** | **2002 → repealed 2004** | Passed after a **joint sitting** of Parliament (only the third joint sitting). Contents **migrated into UAPA** |
 | **UAPA** | **1967 → still in force** | The survivor. 2004/08/13/19 are *amendments*, not new Acts |
 
-> **Exam note:** UAPA = **criminal trial**. NSA = **preventive detention**. 2019 can tag **individuals**, not only organisations.
+> ** note:** UAPA = **criminal trial**. NSA = **preventive detention**. 2019 can tag **individuals**, not only organisations.
 
 ---
 
@@ -469,13 +469,13 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 - Still notified (whole or pockets): **Nagaland, Manipur, parts of Arunachal Pradesh** · **J&K** under the **1990** Act
 - Never the whole Republic. AFSPA is **area-specific**
 
-> **Exam note:** AFSPA only in a notified **disturbed area**. J&K = **1990** Act, not 1958. s.6 sanction = **Centre**, not State. Jeevan Reddy repeal was **not enacted**.
+> ** note:** AFSPA only in a notified **disturbed area**. J&K = **1990** Act, not 1958. s.6 sanction = **Centre**, not State. Jeevan Reddy repeal was **not enacted**.
 
 ---
 
 ## Current Affairs (what the year actually tests)
 
-Newest first. One event, one lock — not a dump of keywords.
+Newest first. One event, one fact — not a dump of keywords.
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -501,7 +501,7 @@ Newest first. One event, one lock — not a dump of keywords.
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | IB = external / RAW = MHA | **Opposite** |
 | NIA needs State consent like CBI | **Does not** |
@@ -557,8 +557,8 @@ D. CBI
 </details>
 
 **Q2.** With reference to the April 2024 anti-Maoist operation?
-1. It took place in Gadchiroli, Maharashtra.  
-2. BSF and District Reserve Guards launched it.  
+1. It took place in Gadchiroli, Maharashtra.
+2. BSF and District Reserve Guards launched it.
 A. Only 1
 B. Only 2
 C. Both
@@ -720,11 +720,9 @@ D. 2008
 
 </details>
 
-**Q13.**
+**Q13.Assertion (A):** SPG provides close protection to the Prime Minister.
 
-**Assertion (A):** SPG provides close protection to the Prime Minister.
-
-**Reason (R):** SPG also means the Strategic Policy Group under the NSC.  
+**Reason (R):** SPG also means the Strategic Policy Group under the NSC.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -777,8 +775,8 @@ D. Rustamji
 </details>
 
 **Q17.** Which of the following is/are correct?
-1. CCS is a Cabinet committee.  
-2. NSC is the same body as CCS.  
+1. CCS is a Cabinet committee.
+2. NSC is the same body as CCS.
 A. Only 1
 B. Only 2
 C. Both
@@ -830,7 +828,7 @@ D. MoTA
 
 </details>
 
-**Q21.** Arrange the following in chronological order: I IB  II RAW  III NSC  IV NIA Act
+**Q21.** Arrange the following in chronological order: I IB II RAW III NSC IV NIA Act
 A. I, II, III, IV
 B. I, III, II, IV
 C. II, I, III, IV
@@ -896,8 +894,8 @@ D. CBI Director
 </details>
 
 **Q26.** Consider the following statements:
-1. Police is a State subject.  
-2. Article 355 obliges the Union to protect States against internal disturbance.  
+1. Police is a State subject.
+2. Article 355 obliges the Union to protect States against internal disturbance.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -994,11 +992,9 @@ D. Only NSG
 
 </details>
 
-**Q32.**
+**Q32.Assertion (A):** Assam Rifles is the oldest of this paramilitary family.
 
-**Assertion (A):** Assam Rifles is the oldest of this paramilitary family.
-
-**Reason (R):** It was raised in 1965 along with BSF.  
+**Reason (R):** It was raised in 1965 along with BSF.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1077,8 +1073,8 @@ D. Assam Rifles
 </details>
 
 **Q38.** Consider the following statements:
-1. CoBRA is an NSG battalion.  
-2. RAF is a CRPF riot-control formation.  
+1. CoBRA is an NSG battalion.
+2. RAF is a CRPF riot-control formation.
 A. Only 1
 B. Only 2
 C. Both
@@ -1157,8 +1153,8 @@ D. Gadchiroli 2024
 </details>
 
 **Q44.** Which of the following statements is/are correct?
-1. CAPFs are under MHA in peacetime.  
-2. Indian Army is under MHA.  
+1. CAPFs are under MHA in peacetime.
+2. Indian Army is under MHA.
 A. Only 1
 B. Only 2
 C. Both
@@ -1229,11 +1225,9 @@ D. Only Nepal border
 
 </details>
 
-**Q48.**
+**Q48.Assertion (A):** Interpol’s National Central Bureau in India is the CBI.
 
-**Assertion (A):** Interpol’s National Central Bureau in India is the CBI.
-
-**Reason (R):** Therefore RAW cannot collect external intelligence.  
+**Reason (R):** Therefore RAW cannot collect external intelligence.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1299,9 +1293,9 @@ D. A cyber statute
 </details>
 
 **Q53.** Consider the following statements:
-1. ITBP was raised in 1962.  
-2. BSF was raised in 1965.  
-3. CISF was raised in 1969.  
+1. ITBP was raised in 1962.
+2. BSF was raised in 1965.
+3. CISF was raised in 1969.
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1, 2 and 3
@@ -1328,8 +1322,8 @@ D. DRG
 </details>
 
 **Q55.** Which of the following is/are correct?
-1. NIA’s scheduled list includes UAPA offences.  
-2. BHARATPOL is an IB portal.  
+1. NIA’s scheduled list includes UAPA offences.
+2. BHARATPOL is an IB portal.
 A. Only 1
 B. Only 2
 C. Both
@@ -1531,8 +1525,8 @@ D. Make IB statutory
 </details>
 
 **Q69.** Consider the following statements:
-1. UAPA is a preventive-detention law like NSA 1980.  
-2. UAPA cases can be investigated by the NIA without State consent when scheduled.  
+1. UAPA is a preventive-detention law like NSA 1980.
+2. UAPA cases can be investigated by the NIA without State consent when scheduled.
 A. Only 1
 B. Only 2
 C. Both
@@ -1558,7 +1552,7 @@ D. BSF raising day
 
 </details>
 
-**Q71.** Arrange the following in chronological order: I TADA  II POTA  III UAPA (original)  IV POTA repeal into UAPA
+**Q71.** Arrange the following in chronological order: I TADA II POTA III UAPA (original) IV POTA repeal into UAPA
 A. III, I, II, IV
 B. I, III, II, IV
 C. III, II, I, IV
@@ -1662,11 +1656,9 @@ D. AFSPA — Union-wide standing law without notification
 
 </details>
 
-**Q79.**
+**Q79.Assertion (A):** *EEVEFA* (2016) said AFSPA is not a licence for fake encounters.
 
-**Assertion (A):** *EEVEFA* (2016) said AFSPA is not a licence for fake encounters.
-
-**Reason (R):** Therefore AFSPA was struck down in its entirety.  
+**Reason (R):** Therefore AFSPA was struck down in its entirety.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1719,8 +1711,8 @@ D. The Budapest Secretariat
 </details>
 
 **Q83.** Which of the following is/are correct?
-1. s.70A IT Act → NCIIPC.  
-2. s.70B IT Act → CERT-In.  
+1. s.70A IT Act → NCIIPC.
+2. s.70B IT Act → CERT-In.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1786,8 +1778,8 @@ D. 2019
 </details>
 
 **Q88.** Consider the following statements:
-1. AFSPA s.4 allows arrest without warrant in a disturbed area as provided.  
-2. Ordinary CrPC warrant rules therefore never apply anywhere in India.  
+1. AFSPA s.4 allows arrest without warrant in a disturbed area as provided.
+2. Ordinary CrPC warrant rules therefore never apply anywhere in India.
 A. Only 1
 B. Only 2
 C. Both
@@ -1826,11 +1818,9 @@ D. CIC
 
 </details>
 
-**Q91.**
+**Q91.Assertion (A):** UAPA 2019 created a Fourth Schedule for individuals.
 
-**Assertion (A):** UAPA 2019 created a Fourth Schedule for individuals.
-
-**Reason (R):** Before 2019 only organisations could be listed as terrorist organisations.  
+**Reason (R):** Before 2019 only organisations could be listed as terrorist organisations.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1857,8 +1847,8 @@ D. Panchayat own-source revenue
 </details>
 
 **Q93.** NSA 1980 vs UAPA — which is correct?
-1. NSA is preventive detention (Art. 22 track).  
-2. UAPA is a criminal statute with special courts / NIA.  
+1. NSA is preventive detention (Art. 22 track).
+2. UAPA is a criminal statute with special courts / NIA.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1943,8 +1933,8 @@ D. A-3, B-1, C-2
 </details>
 
 **Q98.** Which of the following is/are correct?
-1. AFSPA can operate without a disturbed-area notification.  
-2. Tripura lifted AFSPA in 2015.  
+1. AFSPA can operate without a disturbed-area notification.
+2. Tripura lifted AFSPA in 2015.
 A. Only 1
 B. Only 2
 C. Both
@@ -1971,8 +1961,8 @@ D. SPG 1988
 </details>
 
 **Q100.** Consider the following statements:
-1. 66A IT Act is still a charging section.  
-2. CERT-In and I4C are the same body.  
+1. 66A IT Act is still a charging section.
+2. CERT-In and I4C are the same body.
 A. Only 1
 B. Only 2
 C. Both
@@ -1991,8 +1981,8 @@ D. Neither 1 nor 2
 
 ### 2025
 
-**Q1. UPPCS Prelims 2025, Q126**  
-BHARATPOL developed by— 1 CBI  2 RAW  3 IB  4 ED  
+**Q1. UPPCS Prelims 2025, Q126**
+BHARATPOL developed by— 1 CBI 2 RAW 3 IB 4 ED
 A. 2 and 3
 B. 3 and 4
 C. Only 3
@@ -2007,8 +1997,8 @@ D. Only 1
 
 ### 2024
 
-**Q2. UPPCS Prelims 2024, Q80**  
-April 2024 anti-Maoist operation: (1) Gadchiroli, Maharashtra (2) BSF and District Reserve Guards  
+**Q2. UPPCS Prelims 2024, Q80**
+April 2024 anti-Maoist operation: (1) Gadchiroli, Maharashtra (2) BSF and District Reserve Guards
 A. Only 2
 B. Neither
 C. Only 1

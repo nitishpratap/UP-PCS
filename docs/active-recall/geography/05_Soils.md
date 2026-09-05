@@ -49,7 +49,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Att
 <details>
 <summary>Show answer</summary>
 
-**Ans: Texture is the sand–silt–clay mix.** Structure is how those particles clump (crumbs, blocks, plates). Sand drains. Clay holds. Loam is the farm lock.
+**Ans: Texture is the sand–silt–clay mix.** Structure is how those particles clump (crumbs, blocks, plates). Sand drains. Clay holds. Loam is the farm fact.
 
 </details>
 
@@ -205,7 +205,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Att
 <details>
 <summary>Show answer</summary>
 
-**Ans: Moisture retention carries the crop through dry spells.** Shrink–swell clay opens **deep cracks** in the dry season, which also aerate the profile. Cotton is the crop lock. Jowar, wheat, linseed and citrus also sit here.
+**Ans: Moisture retention carries the crop through dry spells.** Shrink–swell clay opens **deep cracks** in the dry season, which also aerate the profile. Cotton is the crop fact. Jowar, wheat, linseed and citrus also sit here.
 
 </details>
 
@@ -276,7 +276,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Att
 <details>
 <summary>Show answer</summary>
 
-**Ans: Deep badland dissection.** The **Chambal** belt, including Agra–Etawah–Jalaun in Uttar Pradesh, is the exam ravine lock.
+**Ans: Deep badland dissection.** The **Chambal** belt, including Agra–Etawah–Jalaun in Uttar Pradesh, is the ravine fact.
 
 </details>
 
@@ -329,7 +329,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Att
 
 </details>
 
-**Q34.** Complete the rapid locks.
+**Q34.** Complete the rapid facts.
 
 <details>
 <summary>Show answer</summary>

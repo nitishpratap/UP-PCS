@@ -2,7 +2,7 @@
 
 > Geography · Active recall · Seasons · SW vs NE monsoon · WD ≠ retreating · map rain
 
-Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Do not freeze rainfall centimetres unless a PYQ lock.
+Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Do not freeze rainfall centimetres unless a PYQ fact.
 
 ---
 

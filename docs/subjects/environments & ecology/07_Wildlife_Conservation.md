@@ -8,18 +8,18 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 
 </details>
 
-> **Sources baked in:** WPA 1972 (amended 2006), MoEFCC, NTCA, BNHS, IUCN, NCERT Biology Ch 15–16, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — launch years, statutory vs executive traps, species ↔ habitat  
+> **Sources baked in:** WPA 1972 (amended 2006), MoEFCC, NTCA, BNHS, IUCN, NCERT Biology Ch 15–16, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — launch years, statutory vs executive traps, species ↔ habitat
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Wildlife conservation protects species and habitats, with **in-situ** primary and **ex-situ** as backup.
 2. Major threats include habitat loss, poaching, human–wildlife conflict, invasive species, and veterinary **diclofenac** for vultures.
 3. The **Wildlife (Protection) Act, 1972** followed the Stockholm moment and uses **six Schedules**. **Schedule I** is maximum protection.
-4. Schedule I locks include tiger, elephant, rhino, gharial, and vultures among frequently asked species.
+4. Schedule I facts include tiger, elephant, rhino, gharial, and vultures among frequently asked species.
 5. The **Chief Wildlife Warden** is the State implementing officer. **NBWL** is the PM-chaired national advisory body.
 6. **NTCA** became statutory through the **2005/2006** WPA amendments and governs **Tiger Reserves only**.
 7. **Project Tiger** began in **1973**. Corbett was the first tiger reserve. India has **58** tiger reserves. The **2022** census figure often locked is **3,682** tigers.
@@ -33,21 +33,21 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 15. World Wildlife Day is **3 March**, not 22 March. Wildlife Week in India is **2–8 October**.
 16. **Operation Olivia** is an Indian Coast Guard nesting patrol on the **Odisha** coast, mainly **November–February**, not August.
 17. UP tiger reserves are **Dudhwa, Pilibhit, and Ranipur**.
-18. UP rhino lock is **Dudhwa National Park** (reintroduced population).
+18. UP rhino fact is **Dudhwa National Park** (reintroduced population).
 19. UP gharial sites include **Katarniaghat Wildlife Sanctuary** and the **Chambal** sanctuary landscape.
 20. UP elephant reserves are **UP ER (2009)** and **Terai ER (2022)**.
 21. Uttar Pradesh has **no Olive Ridley mass-nesting coast** like Odisha.
 22. Programme-year chain: WPA **1972** → Project Tiger **1973** → Crocodile Project **1975** → Project Elephant **1992** → Biodiversity Act **2002** → NTCA statutory **2005/2006** → Vulture ban **2006** → Project Snow Leopard **2009** → Project Lion **2020**.
 23. Project Tiger has a WPA tiger-reserve framework; Project Elephant does not — keep that legal difference.
-24. Diclofenac is a veterinary NSAID story for vultures, not a tiger-poaching chemical lock.
-25. Conservation is ecological protection; **Wildlife Protection** in exam language often means the **WPA enforcement** track.
+24. Diclofenac is a veterinary NSAID story for vultures, not a tiger-poaching chemical fact.
+25. Conservation is ecological protection; **Wildlife Protection** language often means the **WPA enforcement** track.
 26. Gir is Gujarat-only for wild Asiatic lions — never park Project Lion in Dudhwa.
-27. Snow leopard is a Trans-Himalaya/high Himalaya lock — never park it in Gangetic plain UP.
+27. Snow leopard is a Trans-Himalaya/high Himalaya fact — never park it in Gangetic plain UP.
 28. NTCA does not run Elephant Reserves; confusing NTCA with Project Elephant administration is a trap.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -79,11 +79,11 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 - **Operation Olivia** is an **Indian Coast Guard** initiative to protect **Olive Ridley turtles** along the **Odisha coast**.
 - Olive Ridley **nesting season** runs from **November to February**, when mass **arribada** occurs at Gahirmatha and Rushikulya.
 
-> **Exam note:** UPPCS 2025 Q62 — World Wildlife Day is **3 March**, not 22 March.
+> ** note:** UPPCS 2025 Q62 — World Wildlife Day is **3 March**, not 22 March.
 
 **PYQ — UPPCS Prelims 2025, Q62**
 
-Which pairs is/are NOT correctly matched? (Day) — (Date): 1. Ozone Day — 16 Sept  2. WED — 5 June  3. World Wildlife Day — 22 March
+Which pairs is/are NOT correctly matched? (Day) — (Date): 1. Ozone Day — 16 Sept 2. WED — 5 June 3. World Wildlife Day — 22 March
 
 A. 1 and 2
 
@@ -103,7 +103,7 @@ D. Only 1
 
 With reference to Operation Olivia, which is/are correct?
 
-1. ICG initiative to protect Olive Ridley turtles along Odisha coast.  
+1. ICG initiative to protect Olive Ridley turtles along Odisha coast.
 2. Carried out in August during nesting.
 
 A. Only 2
@@ -145,7 +145,7 @@ D. Only 1
 | **V** | Vermin — may be hunted | Crow, rat |
 | **VI** | Prohibited plants | Lantana, water hyacinth |
 
-> **Exam note:** WPA = **1972**. Project Tiger = **1973**. Do not swap the two years.
+> ** note:** WPA = **1972**. Project Tiger = **1973**. Do not swap the two years.
 
 ---
 
@@ -165,7 +165,7 @@ D. Only 1
 - The tiger is an **umbrella species**. Protecting it also protects prey, co-predators, and forest habitat.
 - UP tiger reserves are **Dudhwa (1987)**, **Pilibhit (2014)**, and **Ranipur (2023)**.
 
-> **Exam note:** Tiger Reserve has **WPA statutory basis (Sec 38V)**. Elephant Reserve does **not**.
+> ** note:** Tiger Reserve has **WPA statutory basis (Sec 38V)**. Elephant Reserve does **not**.
 
 ---
 
@@ -184,7 +184,7 @@ D. Only 1
 - UP has **Uttar Pradesh Elephant Reserve (2009)** and **Terai Elephant Reserve (2022)**.
 - The Asian elephant is listed in **WPA Schedule I**.
 
-> **Exam note:** Trap — "Elephant Reserve is declared under WPA like Tiger Reserve" is **false**.
+> ** note:** Trap — "Elephant Reserve is declared under WPA like Tiger Reserve" is **false**.
 
 ---
 
@@ -203,7 +203,7 @@ D. Only 1
 - **Katarniaghat Wildlife Sanctuary** in Bahraich, UP, protects gharial on the Girwa river.
 - Captive breeding centres operate at Nandankanan, Hyderabad, Chennai, Lucknow, and Trivandrum.
 
-> **Exam note:** The crocodile project covers **three species**, not gharial alone.
+> ** note:** The crocodile project covers **three species**, not gharial alone.
 
 ---
 
@@ -220,7 +220,7 @@ D. Only 1
 - The Asiatic lion is in **WPA Schedule I** and is the **state animal of Gujarat**.
 - **Uttar Pradesh has no wild Asiatic lion**. Dudhwa holds tiger and rhino, not lion.
 
-> **Exam note:** Trap — "Asiatic lions in Dudhwa/UP" is **false**. Gir = Gujarat only.
+> ** note:** Trap — "Asiatic lions in Dudhwa/UP" is **false**. Gir = Gujarat only.
 
 ---
 
@@ -237,7 +237,7 @@ D. Only 1
 - India hosts over **80% of the global** greater one-horned rhino population.
 - The rhino is **WPA Schedule I** and **IUCN Vulnerable**.
 
-> **Exam note:** UP rhinos are in **Dudhwa**, not Kaziranga. Kaziranga is in Assam.
+> ** note:** UP rhinos are in **Dudhwa**, not Kaziranga. Kaziranga is in Assam.
 
 ---
 
@@ -255,7 +255,7 @@ D. Only 1
 - **International Snow Leopard Day** is **23 October**.
 - The snow leopard is **WPA Schedule I**.
 
-> **Exam note:** Snow leopard is **not** found in Gir, Western Ghats, or Terai plains.
+> ** note:** Snow leopard is **not** found in Gir, Western Ghats, or Terai plains.
 
 ---
 
@@ -273,7 +273,7 @@ D. Only 1
 - The **SAVE programme** (Saving Asia's Vultures from Extinction) coordinates international vulture recovery.
 - Key Indian vulture species — white-rumped, long-billed, and slender-billed — are **Critically Endangered**.
 
-> **Exam note:** UPPCS 2018 pattern — cattle painkiller linked to vulture decline is **diclofenac**.
+> ** note:** UPPCS 2018 pattern — cattle painkiller linked to vulture decline is **diclofenac**.
 
 **PYQ — UPPCS Prelims 2018, Q131**
 
@@ -297,11 +297,9 @@ D. Diclofenac
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
+> **30 questionsQ1.** With reference to wildlife conservation, which statements is/are correct?
 
-**Q1.** With reference to wildlife conservation, which statements is/are correct?
-
-1. In-situ conservation is the primary strategy in India.  
+1. In-situ conservation is the primary strategy in India.
 2. World Wildlife Day is observed on 22 March.
 
 A. Only 1
@@ -320,7 +318,7 @@ D. Neither
 
 **Q2.** With reference to WPA 1972, which statements is/are correct?
 
-1. Schedule I species enjoy maximum protection.  
+1. Schedule I species enjoy maximum protection.
 2. The Act was enacted in 1973 along with Project Tiger.
 
 A. Only 1
@@ -339,7 +337,7 @@ D. Neither
 
 **Q3.** With reference to Project Tiger, which statements is/are correct?
 
-1. It was launched in 1973.  
+1. It was launched in 1973.
 2. NTCA has statutory status under WPA.
 
 A. Only 1
@@ -358,7 +356,7 @@ D. Neither
 
 **Q4.** With reference to Project Elephant, which statements is/are correct?
 
-1. It was launched in 1992.  
+1. It was launched in 1992.
 2. Elephant Reserves have statutory basis under WPA like Tiger Reserves.
 
 A. Only 1
@@ -377,7 +375,7 @@ D. Neither
 
 **Q5.** With reference to the Crocodile Conservation Project, which statements is/are correct?
 
-1. It was launched in 1975.  
+1. It was launched in 1975.
 2. It covers only the gharial.
 
 A. Only 1
@@ -396,7 +394,7 @@ D. Neither
 
 **Q6.** With reference to Asiatic lions, which statements is/are correct?
 
-1. Wild population exists only in Gujarat.  
+1. Wild population exists only in Gujarat.
 2. Dudhwa National Park is a major Asiatic lion habitat.
 
 A. Only 1
@@ -415,7 +413,7 @@ D. Neither
 
 **Q7.** With reference to rhino conservation, which statements is/are correct?
 
-1. Kaziranga holds India's largest rhino population.  
+1. Kaziranga holds India's largest rhino population.
 2. All Indian rhinos live only in Assam.
 
 A. Only 1
@@ -434,7 +432,7 @@ D. Neither
 
 **Q8.** With reference to snow leopards, which statements is/are correct?
 
-1. Project Snow Leopard was launched in 2009.  
+1. Project Snow Leopard was launched in 2009.
 2. Snow leopards are found in Gir forest.
 
 A. Only 1
@@ -453,7 +451,7 @@ D. Neither
 
 **Q9.** With reference to vulture conservation, which statements is/are correct?
 
-1. Veterinary diclofenac was banned in 2006.  
+1. Veterinary diclofenac was banned in 2006.
 2. Diclofenac poisoning affected vultures feeding on treated cattle carcasses.
 
 A. Only 1
@@ -568,7 +566,7 @@ D. 15
 
 **Q16.** Arrange chronologically:
 
-1. WPA  2. Project Tiger  3. Project Elephant  4. Biodiversity Act
+1. WPA 2. Project Tiger 3. Project Elephant 4. Biodiversity Act
 
 A. 1, 2, 3, 4
 
@@ -648,7 +646,7 @@ D. 4,500
 
 </details>
 
-**Q21.** Assertion (A): Tiger is an umbrella species.  
+**Q21.** Assertion (A): Tiger is an umbrella species.
 Reason (R): Protecting tiger habitat also protects prey and co-predators.
 
 A. Both true; R explains A
@@ -813,17 +811,7 @@ D. CPCB
 
 ## Complete PYQ Bank (Topic 7)
 
-**Q1. UPPCS Prelims 2025, Q62** — World Wildlife Day NOT 22 March → **Ans: B (Only 3)**
-
-**Q2. UPPCS Prelims 2025, Q143** — Operation Olivia: Only stmt 1 correct → **Ans: D**
-
-**Q3. UPPCS Prelims 2018, Q46** — Project Tiger launched in → **Ans: B (1973)**
-
-**Q4. UPPCS Prelims 2018, Q131** — Cattle painkiller killing vultures → **Ans: D (Diclofenac)**
-
-**Q5. UPPCS Prelims 2019, Q67** — Chronology WPA, Project Tiger, Project Elephant, BDA → **Ans: B (I, III, IV, II)**
-
-**Q6. UPPCS Prelims 2023, Q90** — Cheetah A/R (12 from South Africa Feb 2023) → **Ans: A** (both true; R explains A)
+**Q1. UPPCS Prelims 2025, Q62** — World Wildlife Day NOT 22 March → **Ans: B (Only 3)Q2. UPPCS Prelims 2025, Q143** — Operation Olivia: Only stmt 1 correct → **Ans: DQ3. UPPCS Prelims 2018, Q46** — Project Tiger launched in → **Ans: B (1973)Q4. UPPCS Prelims 2018, Q131** — Cattle painkiller killing vultures → **Ans: D (Diclofenac)Q5. UPPCS Prelims 2019, Q67** — Chronology WPA, Project Tiger, Project Elephant, BDA → **Ans: B (I, III, IV, II)Q6. UPPCS Prelims 2023, Q90** — Cheetah A/R (12 from South Africa Feb 2023) → **Ans: A** (both true; R explains A)
 
 **Q7. UPPCS Prelims 2022, Q150** — Dolphin Day announced by MoEFCC → **Ans: B (October 5)**
 
@@ -843,7 +831,7 @@ Assertion: Twelve cheetahs arrived from South Africa in Feb 2023. Reason: Restor
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | WPA enacted in 1973 | **1972** — Project Tiger = 1973 |
 | World Wildlife Day = 22 March | **3 March** |

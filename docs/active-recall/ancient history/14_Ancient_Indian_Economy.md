@@ -11,7 +11,7 @@ One fact per card. Write keywords, then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** **No** — urban economy without coins (2020 lock).
+**Ans:** **No** — urban economy without coins (2020 fact).
 
 </details>
 
@@ -74,7 +74,7 @@ One fact per card. Write keywords, then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** **Foreign-trade guild** (2018 lock).
+**Ans:** **Foreign-trade guild** (2018 fact).
 
 </details>
 

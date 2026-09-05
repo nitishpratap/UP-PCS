@@ -1,5 +1,5 @@
 # Topic 14 — Cultural Heritage
-### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
+### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,14 +8,14 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 
 </details>
 
-> **Sources baked in:** UNESCO WH Convention 1972, ICH Convention 2003, ASI, Ministry of Culture, WHC inscriptions to July 2026, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — India WHS count, UP sites, tangible vs intangible, ICH element ↔ year, World Heritage Day 18 April  
-> **Last verified:** August 2026  
-> **Current Affairs:** **Sarnath** WHS **July 2026** (India **45th**; UP’s **4th**). Maratha Military Landscapes **2025** (44th). Moidams **2024** (43rd). **Deepavali** ICH **10 Dec 2025** (India’s **16th**).
+> **Sources baked in:** UNESCO WH Convention 1972, ICH Convention 2003, ASI, Ministry of Culture, WHC inscriptions to July 2026, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — India WHS count, UP sites, tangible vs intangible, ICH element ↔ year, World Heritage Day 18 April
+> **Last verified:** August 2026
+> **Current Affairs:Sarnath** WHS **July 2026** (India **45th**; UP’s **4th**). Maratha Military Landscapes **2025** (44th). Moidams **2024** (43rd). **Deepavali** ICH **10 Dec 2025** (India’s **16th**).
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. **Tangible** cultural heritage is a monument or site you can touch. **Intangible** cultural heritage is a living practice or skill you perform.
 2. The World Heritage Convention is **1972** for sites with Outstanding Universal Value. The Intangible Heritage Convention is **2003** for living traditions. **Ramsar 1971** is wetlands, not WHS.
@@ -23,11 +23,11 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 4. India has **45** World Heritage Sites: about **37** cultural, **7** natural, and **1** mixed (**Khangchendzonga**, Sikkim).
 5. Uttar Pradesh has **four** WHS: **Taj Mahal (1983)**, **Agra Fort (1983)**, **Fatehpur Sikri (1986)**, and **Sarnath (2026)**.
 6. **Varanasi ghats** remain on the **Tentative** List only. Do not count them as a fifth UP World Heritage Site.
-7. Recent India inscriptions: **Moidams** (Assam, **2024**), **Maratha Military Landscapes** (**2025**), and **Sarnath** (**2026**). Earlier pair locks include Santiniketan and Hoysala (**2023**) and Dholavira and Ramappa (**2021**).
+7. Recent India inscriptions: **Moidams** (Assam, **2024**), **Maratha Military Landscapes** (**2025**), and **Sarnath** (**2026**). Earlier pairs include Santiniketan and Hoysala (**2023**) and Dholavira and Ramappa (**2021**).
 8. India has **16** UNESCO ICH elements. Early Masterpiece proclamations were **Kutiyattam 2001**, **Vedic chanting 2003**, and **Ramlila 2005**; all three entered the Representative List in **2008**.
-9. Later ICH locks: **Yoga 2016**, **Kumbh Mela 2017**, **Durga Puja of Kolkata 2021**, **Garba of Gujarat 2023**, and **Deepavali 2025**.
+9. Later ICH facts: **Yoga 2016**, **Kumbh Mela 2017**, **Durga Puja of Kolkata 2021**, **Garba of Gujarat 2023**, and **Deepavali 2025**.
 10. These are **not** named UNESCO ICH elements: **Bharatanatyam**, **Kathak**, **Nautanki**, and **Holi** as a standalone Indian element.
-11. **World Heritage Day** is **18 April** (ICOMOS). The ICH Convention date lock is **17 October 2003**. India ratified ICH in **2005**.
+11. **World Heritage Day** is **18 April** (ICOMOS). The ICH Convention date fact is **17 October 2003**. India ratified ICH in **2005**.
 12. Cultural WHS use criteria **i–vi**. Natural WHS use **vii–x**. Mixed sites need both sets. India has only one mixed site: Khangchendzonga.
 13. The **Representative List** shows living identity. The **Urgent Safeguarding List** is for endangered ICH needing emergency action.
 14. The **Tentative List** is India’s proposed pipeline. The **Inscribed List** is the official World Heritage roll.
@@ -39,16 +39,16 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 20. **Sarnath WHS** is the **2026** inscription and UP’s fourth site. **Varanasi ghats** are still Tentative. Do not merge the two.
 21. **Ramlila** is intangible performance heritage. The **Taj Mahal** is tangible tomb heritage from **1983**. Papers love this swap.
 22. Masterpiece proclamation years (**2001 / 2003 / 2005**) are not the same as the common Representative List year **2008** for those three elements.
-23. Convention year order for exams: Ramsar **1971**, World Heritage **1972**, ICH **2003**, India ICH ratification **2005**.
+23. Convention year order s: Ramsar **1971**, World Heritage **1972**, ICH **2003**, India ICH ratification **2005**.
 24. **Deepavali** entered UNESCO ICH on **10 December 2025** as India’s **16th** element. It is intangible festival heritage, not a monument inscription.
 25. **Qutub Minar** is a Delhi WHS, not an Uttar Pradesh site. **Khajuraho** is Madhya Pradesh, not UP.
 26. Tangible vs intangible is the first filter: if you can walk into it as a monument, it is tangible; if you perform it as living culture, it is intangible.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Tangible heritage | Intangible heritage | Physical monument/site vs living practice/skill | भौतिक / अभौतिक विरासत |
 | WH Convention 1972 | ICH Convention 2003 | Sites and OUV vs living traditions | 1972 / 2003 |
@@ -70,17 +70,17 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 **Identity:** Physical cultural property | Monument, site, city, cave, museum object | ASI + UNESCO are different doors
 
 - Tangible heritage is material. A tourist can photograph it. An archaeologist can excavate it.
-- Immovable locks are monuments, historic cities, caves, temple groups and cultural landscapes.
-- Movable locks are museum objects and antiquities.
+- Immovable facts are monuments, historic cities, caves, temple groups and cultural landscapes.
+- Movable facts are museum objects and antiquities.
 - **ASI** protects monuments under the **AMASR Act, 1958**. About **3,600+** are centrally protected. That badge is **not** a UNESCO tag.
 - The **Antiquities and Art Treasures Act, 1972** covers smuggling and ownership of movable heritage.
 - State archaeology departments protect a second, larger set of monuments.
-- Pollution yellows the Taj. The **Taj Trapezium Zone** is the Agra air-buffer lock.
+- Pollution yellows the Taj. The **Taj Trapezium Zone** is the Agra air-buffer fact.
 - Encroachment, tourist wear and illegal digging are the other three threats.
 - Conservation means structure, chemistry, documentation and a **buffer zone**. It does not mean a WHS certificate by itself.
 - A natural park can be tangible in the physical sense and still be classed as a **natural** WHS.
 
-> **Exam note:** **Taj Mahal = tangible**. **Ramlila / Kumbh / Deepavali = intangible**. Never swap.
+> ** note:Taj Mahal = tangible**. **Ramlila / Kumbh / Deepavali = intangible**. Never swap.
 
 ---
 
@@ -96,9 +96,9 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 - **Sangeet Natak Akademi** keeps India’s national ICH inventory. **IGNCA Janapada Sampada** documents folk and tribal practice.
 - Classical dances are **not** named ICH elements. **Garba** is. **Ramlila** is. **Bharatanatyam** is not.
 - **Nautanki** is UP folk theatre. It is **not** on the UNESCO list.
-- **Holi** as a generic festival is **not** listed. **Deepavali** **is** listed (**2025**).
+- **Holi** as a generic festival is **not** listed. **Deepavaliis** listed (**2025**).
 
-> **Exam note:** **Bharatanatyam / Kathak / Nautanki are not named UNESCO ICH items.** Deepavali **is** (Dec 2025).
+> ** note:Bharatanatyam / Kathak / Nautanki are not named UNESCO ICH items.** Deepavali **is** (Dec 2025).
 
 ---
 
@@ -114,7 +114,7 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 - **OUV** means the site matters to all humanity, not only to one nation.
 - Cultural criteria are **(i) to (vi)**. Natural criteria are **(vii) to (x)**.
 - Criterion **(i)** is a masterpiece of human genius. The Taj is the textbook case.
-- Criterion **(x)** is biodiversity habitat. **Kaziranga** is the rhino lock.
+- Criterion **(x)** is biodiversity habitat. **Kaziranga** is the rhino fact.
 - A **mixed** site meets both sets. India’s only mixed WHS is **Khangchendzonga National Park, Sikkim (2016)**.
 - After inscription, the State files periodic conservation reports. A site in crisis can go on the **List of World Heritage in Danger**.
 - **Manas** (Assam) was on the Danger List and was later removed after recovery.
@@ -124,21 +124,21 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 
 Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Day)**  
-A. April 18  
-B. May 22  
-C. July 29  
-D. December 5  
+**List-I (Day)**
+A. April 18
+B. May 22
+C. July 29
+D. December 5
 
-**List-II (Event)**  
-1. International Tiger Day  
-2. World Heritage Day  
-3. World Soil Day  
-4. International Day of Biodiversity  
+**List-II (Event)**
+1. International Tiger Day
+2. World Heritage Day
+3. World Soil Day
+4. International Day of Biodiversity
 
-A. 4, 3, 2, 1  
-B. 1, 2, 3, 4  
-C. 2, 4, 1, 3  
+A. 4, 3, 2, 1
+B. 1, 2, 3, 4
+C. 2, 4, 1, 3
 D. 3, 2, 1, 4
 
 <details>
@@ -151,7 +151,7 @@ D. 3, 2, 1, 4
 - **Ramsar (1971)** is wetlands. **UNESCO MAB (1971)** is biosphere reserves. Neither is a WHS tag.
 - **Keoladeo** (Rajasthan) is a rare double: natural WHS **1985** and a Ramsar site. **Sultanpur** (Haryana) is Ramsar only. **Rudrasagar** (Tripura) is Ramsar only.
 
-> **Exam note:** **1972 = World Heritage**. **2003 = Intangible**. **18 April = World Heritage Day**. Ramsar ≠ WHS.
+> ** note:1972 = World Heritage**. **2003 = Intangible**. **18 April = World Heritage Day**. Ramsar ≠ WHS.
 
 ---
 
@@ -161,7 +161,7 @@ D. 3, 2, 1, 4
 
 - The Convention for the Safeguarding of the Intangible Cultural Heritage was adopted on **17 October 2003**. It entered into force in **2006**.
 - India **ratified in 2005**.
-- The **Representative List** shows living diversity. India’s exam list lives in **14.6**.
+- The **Representative List** shows living diversity. India’s list lives in **14.6**.
 - The **Urgent Safeguarding List** is for heritage close to extinction. Indian Prelims still drill the Representative List, not this one.
 - Safeguarding means document, transmit, fund and teach. It does **not** mean freezing a ritual in 1900 form.
 - A nomination needs **community consent**. The Intergovernmental Committee then decides.
@@ -169,13 +169,13 @@ D. 3, 2, 1, 4
 - Nodal ministry is **Culture**. SNA prepares many nomination files. Deepavali’s 2025 file is the latest example.
 - **20.COM** met at the **Red Fort, New Delhi**, in **December 2025**. It was the first time India hosted the ICH Committee. **Deepavali** was inscribed there.
 
-> **Exam note:** Do not reverse the years. **Sites = 1972**. **Living heritage = 2003**. Hosting 20.COM in Delhi does not make the Red Fort an ICH element.
+> ** note:** Do not reverse the years. **Sites = 1972**. **Living heritage = 2003**. Hosting 20.COM in Delhi does not make the Red Fort an ICH element.
 
 ---
 
 ## 14.5 UNESCO World Heritage Sites in India
 
-**Identity:** **45** properties (July 2026) | **37** cultural, **7** natural, **1** mixed | Sixth globally
+**Identity:45** properties (July 2026) | **37** cultural, **7** natural, **1** mixed | Sixth globally
 
 - India’s first inscriptions were in **1983**: Ajanta, Ellora, **Agra Fort** and the **Taj Mahal**.
 - **UP has four** cultural WHS. The fourth is **Sarnath (2026)**. The first three are **Taj Mahal (1983)**, **Agra Fort (1983)** and **Fatehpur Sikri (1986)**.
@@ -186,7 +186,7 @@ D. 3, 2, 1, 4
 - **Sarnath (2026)** is the **45th**.
 - **Santiniketan** (Birbhum, WB, **2023**) is Tagore’s university town.
 - **Sacred Ensembles of the Hoysalas (2023)** are **Belur, Halebidu and Somanathapura** in Karnataka. They are not Ramappa.
-- **Ramappa / Rudreshwara (2021)** is Kakatiya, **Telangana**. Floating bricks are the architecture lock. The WHS year is **2021**.
+- **Ramappa / Rudreshwara (2021)** is Kakatiya, **Telangana**. Floating bricks are the architecture fact. The WHS year is **2021**.
 - **Dholavira (2021)** is the Harappan city in **Kutch, Gujarat**.
 - **Nalanda Mahavihara (2016)** is Bihar. **Mahabodhi, Bodh Gaya (2002)** is a different Bihar site.
 - **Jaipur City** was inscribed in **2019** at the WHC’s **43rd** session in **Baku, Azerbaijan**.
@@ -195,9 +195,9 @@ D. 3, 2, 1, 4
 
 Jaipur was listed as World Heritage Site by the UNESCO World Heritage Committee in its 43rd Session held in the city
 
-A. Baku (Azerbaijan)  
-B. Bishkek (Kyrgyzstan)  
-C. Istanbul (Turkey)  
+A. Baku (Azerbaijan)
+B. Bishkek (Kyrgyzstan)
+C. Istanbul (Turkey)
 D. Marakesh (Morocco)
 
 <details>
@@ -268,13 +268,13 @@ D. Marakesh (Morocco)
 | Maratha Military Landscapes of India | Maharashtra + Tamil Nadu | 2025 | Cultural |
 | Ancient Buddhist Site of Sarnath | **UP** | 2026 | Cultural |
 
-> **Exam note:** **India = 45**. **UP = 4** (add **Sarnath 2026**). **Varanasi ghats ≠ WHS**. Only mixed = **Khangchendzonga**.
+> ** note:India = 45**. **UP = 4** (add **Sarnath 2026**). **Varanasi ghats ≠ WHS**. Only mixed = **Khangchendzonga**.
 
 ---
 
 ## 14.6 UNESCO Intangible Heritage List (India)
 
-**Identity:** **16** Representative List elements (Dec 2025) | Year ↔ name ↔ region
+**Identity:16** Representative List elements (Dec 2025) | Year ↔ name ↔ region
 
 - UNESCO first ran a **Masterpieces** programme. India got three: **Kutiyattam (2001)**, **Vedic chanting (2003)**, **Ramlila (2005)**.
 - Those three entered the **Representative List in 2008**. A question can use either year. Do not treat 2001 and 2008 as two different elements.
@@ -317,7 +317,7 @@ D. Marakesh (Morocco)
 - UP’s named ICH centrepiece is **Ramlila**. Prayagraj also hosts **Kumbh**. Yoga and Vedic chanting and Deepavali are pan-India, not UP-only.
 - **Taj Mahal** is a WHS. Putting it on an ICH list is the classic wrong option.
 
-> **Exam note:** **16 elements**. **Deepavali 2025** is in. **Ramlila = UP**. **Garba 2023**. **Bharatanatyam is still not listed**.
+> ** note:16 elements**. **Deepavali 2025** is in. **Ramlila = UP**. **Garba 2023**. **Bharatanatyam is still not listed**.
 
 ---
 
@@ -327,13 +327,13 @@ D. Marakesh (Morocco)
 
 **Q1.** With reference to cultural heritage, which of the following statements is/are correct?
 
-1. The Taj Mahal is tangible cultural heritage.  
-2. Ramlila is intangible cultural heritage.  
+1. The Taj Mahal is tangible cultural heritage.
+2. Ramlila is intangible cultural heritage.
 3. The Taj Mahal is inscribed on UNESCO’s Representative List of ICH.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -345,21 +345,21 @@ D. 1, 2 and 3
 
 **Q2.** Match List-I with List-II.
 
-**List-I**  
-A. World Heritage Convention  
-B. Intangible Heritage Convention  
-C. Ramsar Convention  
-D. World Heritage Day  
+**List-I**
+A. World Heritage Convention
+B. Intangible Heritage Convention
+C. Ramsar Convention
+D. World Heritage Day
 
-**List-II**  
-1. 18 April  
-2. 1972  
-3. 1971  
-4. 2003  
+**List-II**
+1. 18 April
+2. 1972
+3. 1971
+4. 2003
 
-A. 2 4 3 1  
-B. 2 3 4 1  
-C. 4 2 3 1  
+A. 2 4 3 1
+B. 2 3 4 1
+C. 4 2 3 1
 D. 2 4 1 3
 
 <details>
@@ -371,13 +371,13 @@ D. 2 4 1 3
 
 **Q3.** Which of the following pairs is/are NOT correctly matched?
 
-1. ICOMOS — evaluates cultural WHS nominations  
-2. IUCN — evaluates natural WHS nominations  
-3. World Heritage Committee — 193 permanent members  
+1. ICOMOS — evaluates cultural WHS nominations
+2. IUCN — evaluates natural WHS nominations
+3. World Heritage Committee — 193 permanent members
 
-A. 1 only  
-B. 3 only  
-C. 2 and 3 only  
+A. 1 only
+B. 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -387,12 +387,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q4.** Assertion (A): Khangchendzonga National Park is India’s only mixed World Heritage Site.  
+**Q4.** Assertion (A): Khangchendzonga National Park is India’s only mixed World Heritage Site.
 Reason (R): A mixed site must satisfy both cultural and natural UNESCO criteria.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -404,14 +404,14 @@ D. (A) is false, but (R) is true
 
 **Q5.** With reference to World Heritage Day, consider the following events and arrange them in chronological order within a calendar year:
 
-1. World Heritage Day  
-2. World Thyroid Day  
-3. World No Tobacco Day  
-4. International Day of Light  
+1. World Heritage Day
+2. World Thyroid Day
+3. World No Tobacco Day
+4. International Day of Light
 
-A. 3, 1, 2, 4  
-B. 1, 4, 2, 3  
-C. 2, 3, 1, 4  
+A. 3, 1, 2, 4
+B. 1, 4, 2, 3
+C. 2, 3, 1, 4
 D. 4, 2, 3, 1
 
 <details>
@@ -423,15 +423,15 @@ D. 4, 2, 3, 1
 
 **Q6.** Consider the following statements:
 
-1. ASI protection under AMASR 1958 automatically makes a monument a UNESCO WHS.  
-2. A site must first be placed on India’s Tentative List before nomination.  
+1. ASI protection under AMASR 1958 automatically makes a monument a UNESCO WHS.
+2. A site must first be placed on India’s Tentative List before nomination.
 3. Outstanding Universal Value is required for inscription.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -443,14 +443,14 @@ D. 1, 2 and 3
 
 **Q7.** How many of the following are UNESCO World Heritage Sites in Uttar Pradesh?
 
-1. Taj Mahal  
-2. Agra Fort  
-3. Fatehpur Sikri  
-4. Varanasi ghats  
+1. Taj Mahal
+2. Agra Fort
+3. Fatehpur Sikri
+4. Varanasi ghats
 
-A. Only two  
-B. Only three  
-C. Only four  
+A. Only two
+B. Only three
+C. Only four
 D. Only one
 
 <details>
@@ -462,13 +462,13 @@ D. Only one
 
 **Q8.** With reference to Sarnath, which of the following statements is/are correct?
 
-1. It was inscribed as a UNESCO WHS in 2026.  
-2. It is India’s 45th World Heritage property.  
+1. It was inscribed as a UNESCO WHS in 2026.
+2. It is India’s 45th World Heritage property.
 3. The inscription covers the Varanasi ghats as the same property.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -480,21 +480,21 @@ D. 1, 2 and 3
 
 **Q9.** Match List-I with List-II.
 
-**List-I**  
-A. Moidams  
-B. Maratha Military Landscapes  
-C. Santiniketan  
-D. Dholavira  
+**List-I**
+A. Moidams
+B. Maratha Military Landscapes
+C. Santiniketan
+D. Dholavira
 
-**List-II**  
-1. Gujarat, 2021  
-2. Assam, 2024  
-3. Maharashtra and Tamil Nadu, 2025  
-4. West Bengal, 2023  
+**List-II**
+1. Gujarat, 2021
+2. Assam, 2024
+3. Maharashtra and Tamil Nadu, 2025
+4. West Bengal, 2023
 
-A. 2 3 4 1  
-B. 2 3 1 4  
-C. 3 2 4 1  
+A. 2 3 4 1
+B. 2 3 1 4
+C. 3 2 4 1
 D. 2 4 3 1
 
 <details>
@@ -506,13 +506,13 @@ D. 2 4 3 1
 
 **Q10.** Which of the following pairs is/are NOT correctly matched?
 
-1. Ramappa Temple — Telangana, 2021  
-2. Hoysala ensembles — Karnataka, 2023  
-3. Khajuraho — Uttar Pradesh, 1986  
+1. Ramappa Temple — Telangana, 2021
+2. Hoysala ensembles — Karnataka, 2023
+3. Khajuraho — Uttar Pradesh, 1986
 
-A. 1 only  
-B. 3 only  
-C. 2 and 3 only  
+A. 1 only
+B. 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -522,12 +522,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q11.** Assertion (A): Jaipur City is a UNESCO World Heritage Site.  
+**Q11.** Assertion (A): Jaipur City is a UNESCO World Heritage Site.
 Reason (R): It was inscribed at the 43rd session of the World Heritage Committee held in Baku.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -539,15 +539,15 @@ D. (A) is false, but (R) is true
 
 **Q12.** Consider the following:
 
-1. Kaziranga National Park  
-2. Keoladeo National Park  
-3. Khangchendzonga National Park  
+1. Kaziranga National Park
+2. Keoladeo National Park
+3. Khangchendzonga National Park
 
 How many of the above are **natural** (not mixed) World Heritage Sites of India?
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -559,13 +559,13 @@ D. None
 
 **Q13.** With reference to Indian World Heritage Sites, which of the following statements is/are correct?
 
-1. India has 45 inscribed properties as of July 2026.  
-2. Thirty-seven of them are cultural.  
+1. India has 45 inscribed properties as of July 2026.
+2. Thirty-seven of them are cultural.
 3. Western Ghats is a cultural WHS.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -577,35 +577,35 @@ D. 1, 2 and 3
 
 **Q14.** Match List-I with List-II.
 
-**List-I**  
-A. April 18  
-B. May 22  
-C. July 29  
-D. December 5  
+**List-I**
+A. April 18
+B. May 22
+C. July 29
+D. December 5
 
-**List-II**  
-1. International Tiger Day  
-2. World Heritage Day  
-3. World Soil Day  
-4. International Day of Biodiversity  
+**List-II**
+1. International Tiger Day
+2. World Heritage Day
+3. World Soil Day
+4. International Day of Biodiversity
 
-A. 2 4 1 3  
-B. 2 1 4 3  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 1 4 3
+C. 4 2 1 3
 D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Same lock as UPPCS 2022 Q25.
+**Ans: A.** Same fact as UPPCS 2022 Q25.
 
 </details>
 
 **Q15.** Which one of the following is a **transnational / serial international** cultural WHS with an Indian component?
 
-A. Mountain Railways of India  
-B. The Architectural Work of Le Corbusier  
-C. Hill Forts of Rajasthan  
+A. Mountain Railways of India
+B. The Architectural Work of Le Corbusier
+C. Hill Forts of Rajasthan
 D. Great Living Chola Temples
 
 <details>
@@ -617,32 +617,32 @@ D. Great Living Chola Temples
 
 **Q16.** With reference to UNESCO ICH, which of the following statements is/are correct?
 
-1. The 2003 Convention safeguards living practices.  
-2. India ratified the Convention in 2005.  
+1. The 2003 Convention safeguards living practices.
+2. India ratified the Convention in 2005.
 3. The Urgent Safeguarding List is the only list India uses in Prelims matching.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Exam list = **Representative List**.
+**Ans: A.** list = **Representative List**.
 
 </details>
 
 **Q17.** Arrange the following ICH inscriptions in chronological order of Representative List / latest inscription year:
 
-1. Garba of Gujarat  
-2. Kumbh Mela  
-3. Deepavali  
-4. Yoga  
+1. Garba of Gujarat
+2. Kumbh Mela
+3. Deepavali
+4. Yoga
 
-A. 4, 2, 1, 3  
-B. 2, 4, 1, 3  
-C. 4, 1, 2, 3  
+A. 4, 2, 1, 3
+B. 2, 4, 1, 3
+C. 4, 1, 2, 3
 D. 4, 2, 3, 1
 
 <details>
@@ -654,13 +654,13 @@ D. 4, 2, 3, 1
 
 **Q18.** Which of the following is/are on UNESCO’s Representative List of ICH from India?
 
-1. Ramlila  
-2. Bharatanatyam as a named element  
-3. Garba of Gujarat  
+1. Ramlila
+2. Bharatanatyam as a named element
+3. Garba of Gujarat
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -672,21 +672,21 @@ D. 1, 2 and 3
 
 **Q19.** Match List-I with List-II.
 
-**List-I**  
-A. Kutiyattam  
-B. Ramman  
-C. Kalbelia  
-D. Sankirtana  
+**List-I**
+A. Kutiyattam
+B. Ramman
+C. Kalbelia
+D. Sankirtana
 
-**List-II**  
-1. Rajasthan  
-2. Kerala  
-3. Manipur  
-4. Uttarakhand  
+**List-II**
+1. Rajasthan
+2. Kerala
+3. Manipur
+4. Uttarakhand
 
-A. 2 4 1 3  
-B. 2 4 3 1  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 4 3 1
+C. 4 2 1 3
 D. 2 1 4 3
 
 <details>
@@ -696,12 +696,12 @@ D. 2 1 4 3
 
 </details>
 
-**Q20.** Assertion (A): Deepavali is on UNESCO’s Representative List of Intangible Cultural Heritage.  
+**Q20.** Assertion (A): Deepavali is on UNESCO’s Representative List of Intangible Cultural Heritage.
 Reason (R): It was inscribed in December 2025 when India hosted 20.COM in New Delhi.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -713,14 +713,14 @@ D. (A) is false, but (R) is true
 
 **Q21.** How many of the following were originally UNESCO Masterpieces and later placed on the Representative List in 2008?
 
-1. Kutiyattam  
-2. Tradition of Vedic chanting  
-3. Ramlila  
-4. Garba  
+1. Kutiyattam
+2. Tradition of Vedic chanting
+3. Ramlila
+4. Garba
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -732,13 +732,13 @@ D. Only one
 
 **Q22.** Which of the following pairs is/are correctly matched?
 
-1. Chhau — Jharkhand / West Bengal / Odisha  
-2. Mudiyettu — Kerala  
-3. Thathera metal craft — Jandiala Guru, Punjab  
+1. Chhau — Jharkhand / West Bengal / Odisha
+2. Mudiyettu — Kerala
+3. Thathera metal craft — Jandiala Guru, Punjab
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -750,13 +750,13 @@ D. 1, 2 and 3
 
 **Q23.** With reference to Kumbh Mela as ICH, which of the following statements is/are correct?
 
-1. It was inscribed in 2017.  
-2. The four traditional sites are Prayagraj, Haridwar, Nashik and Ujjain.  
+1. It was inscribed in 2017.
+2. The four traditional sites are Prayagraj, Haridwar, Nashik and Ujjain.
 3. Pushkar is the fifth inscribed Kumbh site.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -768,15 +768,15 @@ D. 1, 2 and 3
 
 **Q24.** Consider the following pairs:
 
-1. Nawrouz — multinational ICH  
-2. Yoga — pan-India ICH, 2016  
-3. Nautanki — UNESCO ICH of Uttar Pradesh  
+1. Nawrouz — multinational ICH
+2. Yoga — pan-India ICH, 2016
+3. Nautanki — UNESCO ICH of Uttar Pradesh
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -788,27 +788,27 @@ D. 1, 2 and 3
 
 **Q25.** Jaipur was listed as a World Heritage Site by the UNESCO World Heritage Committee in its 43rd Session held in the city
 
-A. Baku (Azerbaijan)  
-B. Bishkek (Kyrgyzstan)  
-C. Istanbul (Turkey)  
+A. Baku (Azerbaijan)
+B. Bishkek (Kyrgyzstan)
+C. Istanbul (Turkey)
 D. Marakesh (Morocco)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Same lock as UPPCS 2019 Q35.
+**Ans: A.** Same fact as UPPCS 2019 Q35.
 
 </details>
 
 **Q26.** Which of the following statements is/are correct?
 
-1. Keoladeo National Park is a natural WHS.  
-2. Keoladeo is also a Ramsar site.  
+1. Keoladeo National Park is a natural WHS.
+2. Keoladeo is also a Ramsar site.
 3. Every Indian Ramsar site is therefore a WHS.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -820,21 +820,21 @@ D. 1, 2 and 3
 
 **Q27.** Match List-I with List-II.
 
-**List-I**  
-A. Bhimbetka  
-B. Nalanda Mahavihara  
-C. Ahmadabad historic city  
-D. Elephanta  
+**List-I**
+A. Bhimbetka
+B. Nalanda Mahavihara
+C. Ahmadabad historic city
+D. Elephanta
 
-**List-II**  
-1. 2016  
-2. 2003  
-3. 1987  
-4. 2017  
+**List-II**
+1. 2016
+2. 2003
+3. 1987
+4. 2017
 
-A. 2 1 4 3  
-B. 2 1 3 4  
-C. 1 2 4 3  
+A. 2 1 4 3
+B. 2 1 3 4
+C. 1 2 4 3
 D. 2 4 1 3
 
 <details>
@@ -844,12 +844,12 @@ D. 2 4 1 3
 
 </details>
 
-**Q28.** Assertion (A): Manas Wildlife Sanctuary is a natural World Heritage Site in Assam.  
+**Q28.** Assertion (A): Manas Wildlife Sanctuary is a natural World Heritage Site in Assam.
 Reason (R): A site once placed on the Danger List can never be removed.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -861,31 +861,31 @@ D. (A) is false, but (R) is true
 
 **Q29.** With reference to Maratha Military Landscapes, which of the following statements is/are correct?
 
-1. They were inscribed in 2025 as India’s 44th WHS.  
-2. The property includes twelve forts.  
+1. They were inscribed in 2025 as India’s 44th WHS.
+2. The property includes twelve forts.
 3. All twelve forts lie only in Maharashtra.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Gingee** is in **Tamil Nadu**.
+**Ans: A.Gingee** is in **Tamil Nadu**.
 
 </details>
 
 **Q30.** Which of the following is/are correctly matched?
 
-1. Moidams — Ahom burials, Assam  
-2. Sarnath — UP, 2026  
-3. Valley of Flowers — natural WHS with Nanda Devi, Uttarakhand  
+1. Moidams — Ahom burials, Assam
+2. Sarnath — UP, 2026
+3. Valley of Flowers — natural WHS with Nanda Devi, Uttarakhand
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -897,15 +897,15 @@ D. 1, 2 and 3
 
 **Q31.** Consider the following statements about India’s ICH count:
 
-1. After Deepavali’s inscription, India has 16 elements on the Representative List.  
-2. Garba of Gujarat remains the latest Indian ICH inscription.  
+1. After Deepavali’s inscription, India has 16 elements on the Representative List.
+2. Garba of Gujarat remains the latest Indian ICH inscription.
 3. Durga Puja in Kolkata was inscribed in 2021.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -917,13 +917,13 @@ D. 1, 2 and 3
 
 **Q32.** Which of the following pairs is/are NOT correctly matched?
 
-1. Qutb Minar — Delhi, 1993  
-2. Red Fort Complex — Delhi, 2007  
-3. Humayun’s Tomb — Uttar Pradesh, 1993  
+1. Qutb Minar — Delhi, 1993
+2. Red Fort Complex — Delhi, 2007
+3. Humayun’s Tomb — Uttar Pradesh, 1993
 
-A. 1 only  
-B. 3 only  
-C. 2 and 3 only  
+A. 1 only
+B. 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -935,13 +935,13 @@ D. 1, 2 and 3
 
 **Q33.** With reference to criteria for World Heritage, which of the following statements is/are correct?
 
-1. Cultural criteria are numbered (i) to (vi).  
-2. Natural criteria are numbered (vii) to (x).  
+1. Cultural criteria are numbered (i) to (vi).
+2. Natural criteria are numbered (vii) to (x).
 3. Criterion (i) is typically illustrated by a biodiversity habitat such as Kaziranga.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -953,14 +953,14 @@ D. 1, 2 and 3
 
 **Q34.** How many of the following are **not** named UNESCO ICH elements of India?
 
-1. Kathak  
-2. Nautanki  
-3. Yoga  
-4. Holi as a generic festival  
+1. Kathak
+2. Nautanki
+3. Yoga
+4. Holi as a generic festival
 
-A. Only one  
-B. Only two  
-C. Only three  
+A. Only one
+B. Only two
+C. Only three
 D. All four
 
 <details>
@@ -972,13 +972,13 @@ D. All four
 
 **Q35.** With reference to UP cultural heritage, which of the following statements is/are correct?
 
-1. Sarnath is a UNESCO World Heritage Site as of 2026.  
-2. North India’s Ramlila is a UNESCO ICH element.  
+1. Sarnath is a UNESCO World Heritage Site as of 2026.
+2. North India’s Ramlila is a UNESCO ICH element.
 3. Fatehpur Sikri is a natural WHS.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -996,16 +996,16 @@ D. 1, 2 and 3
 
 Consider the following events and arrange them in chronological order:
 
-1. World Heritage Day  
-2. World Thyroid Day  
-3. World No Tobacco Day  
-4. International Day of Light  
+1. World Heritage Day
+2. World Thyroid Day
+3. World No Tobacco Day
+4. International Day of Light
 
 Select the correct answer from the codes given below:
 
-A. 3, 1, 2, 4  
-B. 1, 4, 2, 3  
-C. 2, 3, 1, 4  
+A. 3, 1, 2, 4
+B. 1, 4, 2, 3
+C. 2, 3, 1, 4
 D. 4, 2, 3, 1
 
 <details>
@@ -1019,21 +1019,21 @@ D. 4, 2, 3, 1
 
 Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Day)**  
-A. April 18  
-B. May 22  
-C. July 29  
-D. December 5  
+**List-I (Day)**
+A. April 18
+B. May 22
+C. July 29
+D. December 5
 
-**List-II (Event)**  
-1. International Tiger Day  
-2. World Heritage Day  
-3. World Soil Day  
-4. International Day of Biodiversity  
+**List-II (Event)**
+1. International Tiger Day
+2. World Heritage Day
+3. World Soil Day
+4. International Day of Biodiversity
 
-A. 4, 3, 2, 1  
-B. 1, 2, 3, 4  
-C. 2, 4, 1, 3  
+A. 4, 3, 2, 1
+B. 1, 2, 3, 4
+C. 2, 4, 1, 3
 D. 3, 2, 1, 4
 
 <details>
@@ -1047,9 +1047,9 @@ D. 3, 2, 1, 4
 
 Jaipur was listed as 'World Heritage Site by the UNESCO World Heritage Committee in its 43rd Session held in the city
 
-A. Baku (Azerbaizan)  
-B. Bishkek (Kyrgyzstan)  
-C. Istanbul (Turkey)  
+A. Baku (Azerbaizan)
+B. Bishkek (Kyrgyzstan)
+C. Istanbul (Turkey)
 D. Marakesh (Morocco)
 
 <details>
@@ -1065,7 +1065,7 @@ D. Marakesh (Morocco)
 
 | Year | Fact | Why asked | Source |
 |------|------|-----------|--------|
-| **2024** | **Moidams**, Charaideo, Assam — 43rd Indian WHS | Newest-before-Maratha cultural lock | WHC / ASI |
+| **2024** | **Moidams**, Charaideo, Assam — 43rd Indian WHS | Newest-before-Maratha cultural fact | WHC / ASI |
 | **2025** | **Maratha Military Landscapes** — 12 forts, MH + Gingee TN — 44th | Serial fort property; not all in Maharashtra | WHC 47th session |
 | **July 2026** | **Sarnath** inscribed — 45th WHS; UP’s **4th** | UP count trap vs old “only 3” | WHC 48th, Busan |
 | **10 Dec 2025** | **Deepavali** ICH — India’s **16th**; 20.COM at Red Fort, Delhi | Stale “Diwali not listed” trap | UNESCO / Ministry of Culture |

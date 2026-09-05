@@ -8,14 +8,14 @@ Governor of Uttar Pradesh | UP Legislative Assembly | Strength of UP LA | UP Leg
 
 </details>
 
-> **Sources baked in:** Arts. 243I / 243K / 243Y / 243ZA / 315–323, UP Panchayat Raj Act 1947, Kshettra–Zila Adhiniyam 1961, Municipalities Act 1916, Municipal Corporation Act 1959, Lokayukta Act 1975, UPPCS 2018–2025  
-> **Exam weight:** ★★★ — Panchayat polls = **SEC not ECI** (2023); no “Panchayati Raj Commission of India”; UPPSC functions extended by **UP Legislature** (2021); HQ **Prayagraj**; intermediate tier = **Kshetra Panchayat**  
-> **Last verified:** August 2026  
+> **Sources baked in:** Arts. 243I / 243K / 243Y / 243ZA / 315–323, UP Panchayat Raj Act 1947, Kshettra–Zila Adhiniyam 1961, Municipalities Act 1916, Municipal Corporation Act 1959, Lokayukta Act 1975, UPPCS 2018–2025
+> **Weight:** ★★★ — Panchayat polls = **SEC not ECI** (2023); no “Panchayati Raj Commission of India”; UPPSC functions extended by **UP Legislature** (2021); HQ **Prayagraj**; intermediate tier = **Kshetra Panchayat**
+> **Last verified:** August 2026
 > **Current Affairs:** Women in UP PRIs/ULBs = **50% by State law** (Constitution’s floor is still 1/3). Nagar Nigam count **moves** — mark the **three types**, not a frozen headcount. **Noida / Greater Noida / YEIDA** remain industrial townships, not Nigams
 
 ---
 
-## Consolidated — 32 Must-Score Locks
+## Consolidated — 32 Must-Score Facts
 
 1. Uttar Pradesh’s **capital** is **Lucknow** (Raj Bhavan and Vidhan Bhavan). The High Court’s **principal seat** is **Prayagraj**. Lucknow hosts a **Bench**, not a second High Court.
 2. The first Governor of the United Provinces / Uttar Pradesh was **Sarojini Naidu** (**15 August 1947**). She was the first woman Governor of an Indian State and died in office on **2 March 1949**.
@@ -48,11 +48,11 @@ Governor of Uttar Pradesh | UP Legislative Assembly | Strength of UP LA | UP Leg
 29. Urban local bodies are **Nagar Nigam** (Municipal Corporation Act **1959**), **Nagar Palika Parishad**, and **Nagar Panchayat** (Municipalities Act **1916**). The Mayor is the political head; the **Nagar Ayukt / Commissioner** is the executive.
 30. Cantonment Boards are under **Defence**, not the 74th municipal track. Development authorities such as **Noida, Greater Noida, and YEIDA** are industrial township exceptions under Article **243Q** — **not** Nagar Nigams.
 31. Lucknow runs the political executive; Prayagraj runs the High Court and UPPSC. That geography-of-power split is a recurring prelims trap.
-32. Reorganisation arithmetic (**425/85/34 → 403/80/31**) plus Council **100** and bicameral status are the densest number locks on this sheet.
+32. Reorganisation arithmetic (**425/85/34 → 403/80/31**) plus Council **100** and bicameral status are the densest number facts on this sheet.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|
@@ -82,7 +82,7 @@ Governor of Uttar Pradesh | UP Legislative Assembly | Strength of UP LA | UP Leg
 
 ## Frame
 
-UP’s exam meat is **numbers plus one geography of power**: Lucknow runs the government; Prayagraj runs the High Court **and UPPSC**; Uttarakhand (9 Nov 2000) is why 425/85/34 became **403/80/31**. Local polls = SEC; recruitment = UPPSC. **Noida is not a Nagar Nigam.**
+UP’s meat is **numbers plus one geography of power**: Lucknow runs the government; Prayagraj runs the High Court **and UPPSC**; Uttarakhand (9 Nov 2000) is why 425/85/34 became **403/80/31**. Local polls = SEC; recruitment = UPPSC. **Noida is not a Nagar Nigam.**
 
 ---
 
@@ -95,9 +95,9 @@ UP’s exam meat is **numbers plus one geography of power**: Lucknow runs the go
 - **Not the first CM:** first CM = **Govind Ballabh Pant**. First woman CM = **Sucheta Kripalani (1963–67)**
 - **Appointment / term:** President; **5 years**; holds office during pleasure; can be transferred; one person may be Governor of more than one State (153)
 - **Council of Ministers (91st):** including the CM, **not more than 15%** of the LA. 15% of **403 ≈ 60**. Floor in any State is **12**. Collectively responsible to the **LA**
-- **Secretariat:** **Lucknow** (with Raj Bhavan and Vidhan Bhavan). Do not raata a 2026 occupant’s name as if it were in the Constitution
+- **Secretariat:Lucknow** (with Raj Bhavan and Vidhan Bhavan). Do not raata a 2026 occupant’s name as if it were in the Constitution
 
-> **Exam note:** First Governor ≠ G.B. Pant (**Pant was CM**). Raj Bhavan is **Lucknow**, not Prayagraj. UP has **no** 371 special article.
+> ** note:** First Governor ≠ G.B. Pant (**Pant was CM**). Raj Bhavan is **Lucknow**, not Prayagraj. UP has **no** 371 special article.
 
 ---
 
@@ -107,25 +107,25 @@ UP’s exam meat is **numbers plus one geography of power**: Lucknow runs the go
 
 Bicameral: UP is one of **six** Council States — Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, **Uttar Pradesh**.
 
-- **Before Uttarakhand:** **425**. Seat freeze till the census after **2026** — so **403** is the number the paper uses
-- **Article:** **170** (composition) · **172** (5 years) · **174** (summon / prorogue / dissolve)
+- **Before Uttarakhand:425**. Seat freeze till the census after **2026** — so **403** is the number the paper uses
+- **Article:170** (composition) · **172** (5 years) · **174** (summon / prorogue / dissolve)
 - Direct, FPTP, territorial seats. SC/ST reserved under **332**. Anglo-Indian nomination (**333**) ended by the **104th**
 - Money Bill: only in the LA, on the Governor’s recommendation. LC has **14 days**, recommendatory
-- **Quorum (189):** **10 members or 1/10** of total membership, **whichever is greater**
+- **Quorum (189):10 members or 1/10** of total membership, **whichever is greater**
 - **Speaker:** elected from among MLAs. Resigns to the **Deputy Speaker** (179). Continues after dissolution until the new House first meets
 - **Presidential college:** only the **403 elected MLAs** vote (not LC, not nominated). UP MLA vote-value is the **highest** among States (textbook **208**)
 
 Other large Assemblies (only to not mix): West Bengal 294 · Maharashtra 288 · Bihar 243 · Tamil Nadu 234 · Madhya Pradesh 230.
 
-> **Exam note:** UP LA ≠ 500 (that is Art. 170’s **maximum**). ≠ 425 still (that was pre-**9 Nov 2000**).
+> ** note:** UP LA ≠ 500 (that is Art. 170’s **maximum**). ≠ 425 still (that was pre-**9 Nov 2000**).
 
 **PYQ — UPPCS Prelims 2022, Q14**
 
 Which one of the following pairs is **NOT** correctly matched?
 
-A. Manipur — 62  
-B. Goa — 40  
-C. Uttar Pradesh — 403  
+A. Manipur — 62
+B. Goa — 40
+C. Uttar Pradesh — 403
 D. Uttarakhand — 70
 
 <details>
@@ -143,7 +143,7 @@ Trap: UP LA = 500 because Art. 170 says 500. **500 is the constitutional maximum
 
 **100 members.** Cannot be dissolved; **1/3 retire every 2 years**; age **30**. Art. 171 cap is **1/3 of LA (= 134)** and min **40** — UP chose **100**.
 
-- **Term:** **6 years**. Can only be **abolished** under Art. **169**, not dissolved
+- **Term:6 years**. Can only be **abolished** under Art. **169**, not dissolved
 - **Chairman:** elected **from among LC members** — not the Governor, not the CM. Resigns to the **Deputy Chairman** (183)
 - Does **not** vote for **President** (only elected MLAs do) · does **not** originate Money Bills
 
@@ -156,11 +156,11 @@ Trap: UP LA = 500 because Art. 170 says 500. **500 is the constitutional maximum
 
 36 + 8 + 8 + 36 + 12 = **100**. Graduates and teachers are **1/12 each** in Art. 171; UP’s statute rounds them to **8 + 8**. Nomination in an LC includes **co-operative movement**; RS nomination of 12 does **not**.
 
-> **Exam note:** Cap is **134**; actual House is **100**. LC cannot be dissolved like the LA — only **abolished**. LA vs LC: 403 / 25 / 5y / Money Bills vs 100 / 30 / 6y / no dissolution.
+> ** note:** Cap is **134**; actual House is **100**. LC cannot be dissolved like the LA — only **abolished**. LA vs LC: 403 / 25 / 5y / Money Bills vs 100 / 30 / 6y / no dissolution.
 
 **PYQ — UPPCS Prelims 2023, Q13** (the article-rule, which UP must also satisfy)
 
-The Legislative Council may not have more than one-third of the LA, and must have at least forty members.  
+The Legislative Council may not have more than one-third of the LA, and must have at least forty members.
 **Both true.**
 
 Trap: UP LC = 1/3 of 403 = 134. **The cap is 134; the actual House is 100.** Trap: LC can be dissolved like the LA. **Cannot. 2018: a Council can be abolished, not dissolved.**
@@ -176,14 +176,14 @@ Trap: UP LC = 1/3 of 403 = 134. **The cap is 134; the actual House is 100.** Tra
 | **Lok Sabha** | **80** | **85** | **Largest** (next: Maharashtra 48) |
 | **Rajya Sabha** | **31** | **34** | **Largest** (next: Maharashtra 19) |
 
-- **Reservation in the 80:** **17 Scheduled Caste** seats. **Zero Scheduled Tribe** Lok Sabha seats from UP
+- **Reservation in the 80:17 Scheduled Caste** seats. **Zero Scheduled Tribe** Lok Sabha seats from UP
 - **How the 31 RS seats are filled:** elected by the **403 MLAs**, proportional representation by single transferable vote, **6-year** term, **1/3** retire every two years. The Governor does **not** nominate anyone to the Rajya Sabha
 
-> **Exam note:** Both 80 and 31 are true (2023). Not 85 / 34.
+> ** note:** Both 80 and 31 are true (2023). Not 85 / 34.
 
 **PYQ — UPPCS Prelims 2023, Q14**
 
-1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.  
+1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.
 2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.
 
 A. Only 1
@@ -208,12 +208,12 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 
 - Birth name: High Court of Judicature for the **North-Western Provinces**. First seat **Agra** (1866), replacing the Sadr Diwani Adalat. Shifted to **Allahabad in 1869**. Present name by supplementary Letters Patent **1919**
 - First Chief Justice: Sir **Walter Morgan**
-- **Lucknow Bench:** **United Provinces High Courts (Amalgamation) Order, 1948**. The **Chief Court of Oudh** (Lucknow, set up **1925**) was merged. There is **no** third permanent bench (Meerut/Noida demands are not law)
+- **Lucknow Bench:United Provinces High Courts (Amalgamation) Order, 1948**. The **Chief Court of Oudh** (Lucknow, set up **1925**) was merged. There is **no** third permanent bench (Meerut/Noida demands are not law)
 - Who sits where: Lucknow = old **Avadh / Oudh** districts — classically **12**: Lucknow, Unnao, Raebareli, Sitapur, Hardoi, Lakhimpur Kheri, Gonda, Bahraich, Barabanki, Faizabad/Ayodhya, Sultanpur, Pratapgarh. Districts later carved from these (Amethi, Shravasti, Balrampur…) also go to Lucknow. **Rest of UP: Prayagraj**
 - Sanctioned strength **160** — **largest High Court in India**. Jurisdiction = whole of **Uttar Pradesh only**. Uttarakhand HC = **Nainital** from **2000**
 - **Not** a Chartered High Court of **1862** (Bombay, Calcutta, Madras)
 
-> **Exam note:** Allahabad HC = **1866**, first seat **Agra** — not 1862 Chartered. Lucknow = **Bench**. UK since 2000 = **Nainital**.
+> ** note:** Allahabad HC = **1866**, first seat **Agra** — not 1862 Chartered. Lucknow = **Bench**. UK since 2000 = **Nainital**.
 
 ---
 
@@ -226,7 +226,7 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 - Union OL Rules 1976: UP is **Region A** (correspondence with the Centre in Hindi)
 - Both **Hindi and Urdu** are in the Eighth Schedule. That is **not** what made Urdu UP’s second official language — the **1989 State Act** did
 
-> **Exam note:** Urdu is **second**, 1989 — not the official language. There is **no** national-language article.
+> ** note:** Urdu is **second**, 1989 — not the official language. There is **no** national-language article.
 
 ---
 
@@ -241,7 +241,7 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 
 Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand **15 Nov**.
 
-> **Exam note:** Uttarakhand ≠ 1 November 2000 (that is **Chhattisgarh**). Always-named-Uttarakhand is false — **Uttaranchal till 2007**.
+> ** note:** Uttarakhand ≠ 1 November 2000 (that is **Chhattisgarh**). Always-named-Uttarakhand is false — **Uttaranchal till 2007**.
 
 ---
 
@@ -250,10 +250,10 @@ Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand *
 **18 Commissioner divisions · 75 districts.** A division is headed by a **Commissioner** (executive), not by the High Court Bench.
 
 - **The 18 divisions:** Agra · Aligarh · **Ayodhya** (old Faizabad) · Azamgarh · Bareilly · Basti · Chitrakoot · **Devipatan** (HQ **Gonda**) · Gorakhpur · Jhansi · Kanpur · Lucknow · Meerut · Mirzapur · Moradabad · **Prayagraj** · Saharanpur · Varanasi
-- **Devipatan (2025 geography lock):** Bahraich · Balrampur · Gonda · Shravasti
+- **Devipatan (2025 geography fact):** Bahraich · Balrampur · Gonda · Shravasti
 - Do not raata a brittle tehsil/block count
 
-> **Exam note:** UP has **18** divisions, not 17. Faizabad division = **Ayodhya**. Devipatan ≠ Lucknow — HQ **Gonda**.
+> ** note:** UP has **18** divisions, not 17. Faizabad division = **Ayodhya**. Devipatan ≠ Lucknow — HQ **Gonda**.
 
 ---
 
@@ -265,21 +265,21 @@ Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand *
 
 **State PSC · HQ Prayagraj · born 1 April 1937.** Governor appoints; **President** removes (after SC on misbehaviour); age **62** / 6y.
 
-- **Article:** **315–323**
-- **Extend functions (321):** **Uttar Pradesh State Legislature** — not the President, not the PM, not DoPT (2021 Q133)
+- **Article:315–323**
+- **Extend functions (321):Uttar Pradesh State Legislature** — not the President, not the PM, not DoPT
 - **Further office (319):** Chair may later be UPSC Chair or Chair of **another** SPSC — not a random Union/State post
 - Conducts Combined State / Upper Subordinate (PCS), **RO-ARO**, and other State services the 321 law / Governor’s regulations give it
 - ≠ **UPSC** (Union, Delhi) · **UP SEC** (local polls, Lucknow) · **Accountant General** (CAG’s field officer)
 
-> **Exam note:** UPPSC HQ = **Prayagraj**, not Lucknow. The Governor who appoints does **not** remove.
+> ** note:** UPPSC HQ = **Prayagraj**, not Lucknow. The Governor who appoints does **not** remove.
 
 **PYQ — UPPCS Prelims 2021, Q133**
 
 The functions of the State Public Service Commission of Uttar Pradesh can be extended by—
 
-A. Prime Minister  
-B. Union Ministry of Personnel, Public Grievances and Pensions  
-C. The President  
+A. Prime Minister
+B. Union Ministry of Personnel, Public Grievances and Pensions
+C. The President
 D. Uttar Pradesh State Legislature
 
 <details>
@@ -301,15 +301,15 @@ Trap: UPPSC sits in Lucknow with the Secretariat. **Prayagraj.** Trap: the Gover
 - Superintendence, direction and control of **electoral rolls and elections** to Gram / Kshetra / Zila Panchayats **and** Nagar Nigam / Palika / Panchayat
 - The State cannot starve the SEC of staff to delay polls (*Kishan Singh Tomar*, 2006). Elections must be held before the term ends
 
-> **Exam note:** Panchayat polls = **SEC not ECI** (2023). There is **no** “Panchayati Raj Commission of India.” SEC ≠ CEC’s State office. Removal like **HC judge**, not SC judge.
+> ** note:** Panchayat polls = **SEC not ECI** (2023). There is **no** “Panchayati Raj Commission of India.” SEC ≠ CEC’s State office. Removal like **HC judge**, not SC judge.
 
 **PYQ — UPPCS Prelims 2023, Q17**
 
 All elections to the Panchayats are conducted by—
 
-A. State Legislature  
-B. State Election Commission  
-C. Election Commission of India  
+A. State Legislature
+B. State Election Commission
+C. Election Commission of India
 D. Panchayati Raj Commission of India
 
 <details>
@@ -331,7 +331,7 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - **Report:** to the **Governor**, who lays it in **both Houses** (UP is bicameral) with an **action-taken** note
 - From the 10th FC onwards the Union FC also writes PRI/ULB grants; that does **not** abolish the State FC
 
-> **Exam note:** SFC report → **Governor**, not President. **One** SFC, two articles (243I and 243Y) — not two commissions.
+> ** note:** SFC report → **Governor**, not President. **One** SFC, two articles (243I and 243Y) — not two commissions.
 
 ---
 
@@ -339,13 +339,13 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 
 **Statutory ombudsman — U.P. Lokayukta and Up-Lokayukta Act, 1975.** Up-Lokayukta = number-two. ≠ Lokpal (Union, 2013).
 
-- **First in India:** **Maharashtra, 1971** (not UP)
-- **Appoint:** **Governor**, after consultation with the **Chief Justice of the Allahabad High Court** and the **Leader of Opposition**
+- **First in India:Maharashtra, 1971** (not UP)
+- **Appoint:Governor**, after consultation with the **Chief Justice of the Allahabad High Court** and the **Leader of Opposition**
 - Typically a retired **HC / SC judge**. Term (1975 Act): classically **8 years**, **no reappointment** as Lokayukta — do not copy the Lokpal’s 5-year / 70-year formula onto UP
 - Inquire into allegations against ministers, MLAs, officials, local bodies **as the 1975 Act lists**. Recommends prosecution / removal — **not** a criminal court and **not** a substitute for the Allahabad HC
 - There is **no** all-India Lokayukta. Whether the **CM** is in = read the **UP Act**, do not copy the Lokpal’s PM filter
 
-> **Exam note:** First Lokayukta State = **Maharashtra 1971**. UP Act **1975**. 2013 Union Act asked States to have one — UP already did.
+> ** note:** First Lokayukta State = **Maharashtra 1971**. UP Act **1975**. 2013 Union Act asked States to have one — UP already did.
 
 ---
 
@@ -362,7 +362,7 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - **DPC (243ZD):** every district. At least **4/5** elected from PRI + ULB members. Consolidates rural **and** urban draft plans
 - **PESA does not apply** — UP has **no Fifth Schedule** areas. **6th Schedule** does not apply (ADCs = Assam, Meghalaya, Tripura, Mizoram)
 
-> **Exam note:** UP’s middle tier is **Kshetra Panchayat**, not Panchayat Samiti. Nyaya Panchayat ≠ a 73rd tier. Constitution’s women floor is **1/3**; **50%** is UP’s statute.
+> ** note:** UP’s middle tier is **Kshetra Panchayat**, not Panchayat Samiti. Nyaya Panchayat ≠ a 73rd tier. Constitution’s women floor is **1/3**; **50%** is UP’s statute.
 
 ---
 
@@ -373,18 +373,18 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - Nagar Nigams: Lucknow, Kanpur, Agra, Varanasi, Prayagraj, Meerut, Ghaziabad, Bareilly, Aligarh, Moradabad, Saharanpur, Gorakhpur, Firozabad, Jhansi, Shahjahanpur, Mathura, Ayodhya — **the roster grows**. Mark **types**, not a frozen headcount
 - **Mayor** = political head. **Nagar Ayukt / Municipal Commissioner** = State-appointed **executive**
 - Same skeleton as PRIs: age **21**, term **5 years**, women **50%** by State law. Elections: same **UP SEC** (243ZA)
-- **Not 74th:** **Cantonment Board** (Defence) · **Lucknow Development Authority** and other DAs = master plan / land, **not** the municipality
+- **Not 74th:Cantonment Board** (Defence) · **Lucknow Development Authority** and other DAs = master plan / land, **not** the municipality
 - **Industrial township (243Q):** if an industrial township provides municipal services, a municipality **need not** be constituted. **Noida, Greater Noida, Yamuna Expressway (YEIDA)** authorities live here — they are **not** Nagar Nigams and their boards are **not** elected by the UP SEC
 - **MPC:** million-plus urban agglomerations: Metropolitan Planning Committee, at least **2/3** elected (Lucknow / Kanpur / Ghaziabad class)
 - **Ward Committees (243S):** compulsory in a municipality of **3 lakh+**. **Not** a fourth 74th type
 
-> **Exam note:** Nagar Nigam polls = **SEC**, not ECI. Mayor ≠ executive (that is the **Commissioner**). Cantonment = **Defence**. **Noida is not a Nagar Nigam.**
+> ** note:** Nagar Nigam polls = **SEC**, not ECI. Mayor ≠ executive (that is the **Commissioner**). Cantonment = **Defence**. **Noida is not a Nagar Nigam.**
 
 ---
 
 ## Current Affairs (what the year actually tests)
 
-Newest first. One event, one lock.
+Newest first. One event, one fact.
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -404,7 +404,7 @@ Newest first. One event, one lock.
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | UP LA = 500 / 425 | **403** (425 was pre-2000) |
 | Manipur LA = 62 | **60** (2022) |
@@ -497,8 +497,8 @@ D. 403
 </details>
 
 **Q4.** Which of the following is/are correct?
-1. UP has 31 Rajya Sabha seats.  
-2. 80 Lok Sabha members are elected from UP.  
+1. UP has 31 Rajya Sabha seats.
+2. 80 Lok Sabha members are elected from UP.
 A. Only 1
 B. Only 2
 C. Both
@@ -642,8 +642,8 @@ D. 2000
 </details>
 
 **Q15.** Which of the following is/are correct about the Allahabad High Court?
-1. Established 1866.  
-2. Permanent Bench at Lucknow.  
+1. Established 1866.
+2. Permanent Bench at Lucknow.
 A. Only 1
 B. Only 2
 C. Both
@@ -855,8 +855,8 @@ D. 1/3 each
 </details>
 
 **Q31.** Which of the following is/are correct?
-1. 36 UP LC seats are filled by MLAs (from non-MLAs).  
-2. 36 UP LC seats are filled by local bodies.  
+1. 36 UP LC seats are filled by MLAs (from non-MLAs).
+2. 36 UP LC seats are filled by local bodies.
 A. Only 1
 B. Only 2
 C. Both
@@ -895,11 +895,9 @@ D. All States with a High Court Bench
 
 </details>
 
-**Q34.**
+**Q34.Assertion (A):** The Uttar Pradesh Legislative Assembly has 500 members because Article 170 fixes 500.
 
-**Assertion (A):** The Uttar Pradesh Legislative Assembly has 500 members because Article 170 fixes 500.
-
-**Reason (R):** Article 170 sets a maximum of 500 elected members.  
+**Reason (R):** Article 170 sets a maximum of 500 elected members.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -912,11 +910,9 @@ D. A false R true
 
 </details>
 
-**Q35.**
+**Q35.Assertion (A):** Lucknow has its own High Court, separate from Allahabad.
 
-**Assertion (A):** Lucknow has its own High Court, separate from Allahabad.
-
-**Reason (R):** The 1948 Amalgamation Order made Lucknow a permanent Bench of the Allahabad High Court.  
+**Reason (R):** The 1948 Amalgamation Order made Lucknow a permanent Bench of the Allahabad High Court.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1019,7 +1015,7 @@ D. 5
 
 </details>
 
-**Q42.** Arrange the following in chronological order: 1. Letters Patent NWP HC  2. Lucknow Bench  3. Uttarakhand created  4. Court moves to Allahabad
+**Q42.** Arrange the following in chronological order: 1. Letters Patent NWP HC 2. Lucknow Bench 3. Uttarakhand created 4. Court moves to Allahabad
 A. 1, 2, 4, 3
 B. 1, 4, 2, 3
 C. 4, 1, 2, 3
@@ -1032,7 +1028,7 @@ D. 1, 4, 3, 2
 
 </details>
 
-**Q43.** Arrange the following in chronological order: 1. Uttarakhand renamed  2. Chhattisgarh created  3. Uttaranchal created  4. Jharkhand created
+**Q43.** Arrange the following in chronological order: 1. Uttarakhand renamed 2. Chhattisgarh created 3. Uttaranchal created 4. Jharkhand created
 A. 3, 2, 4, 1
 B. 2, 3, 4, 1
 C. 2, 4, 3, 1
@@ -1059,8 +1055,8 @@ D. Speaker
 </details>
 
 **Q45.** Which of the following is/are correct?
-1. UP LC members nominated by the Governor include the co-operative movement as a field.  
-2. The 12 nominated Rajya Sabha members also have “co-operative movement” as a named field.  
+1. UP LC members nominated by the Governor include the co-operative movement as a field.
+2. The 12 nominated Rajya Sabha members also have “co-operative movement” as a named field.
 A. Only 1
 B. Only 2
 C. Both
@@ -1112,11 +1108,9 @@ D. HC principal seat — Lucknow
 
 </details>
 
-**Q49.**
+**Q49.Assertion (A):** After 2000, the Allahabad High Court’s jurisdiction still covers Uttarakhand.
 
-**Assertion (A):** After 2000, the Allahabad High Court’s jurisdiction still covers Uttarakhand.
-
-**Reason (R):** Uttarakhand has its High Court at Nainital.  
+**Reason (R):** Uttarakhand has its High Court at Nainital.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1129,11 +1123,9 @@ D. A false R true
 
 </details>
 
-**Q50.**
+**Q50.Assertion (A):** UP is a Region A State under the Official Language Rules, 1976.
 
-**Assertion (A):** UP is a Region A State under the Official Language Rules, 1976.
-
-**Reason (R):** Hindi is the official language of UP.  
+**Reason (R):** Hindi is the official language of UP.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1199,8 +1191,8 @@ D. 12
 </details>
 
 **Q55.** Which of the following is/are correct?
-1. A Legislative Council may not have more than one-third of the LA.  
-2. UP’s Council is smaller than that one-third cap.  
+1. A Legislative Council may not have more than one-third of the LA.
+2. UP’s Council is smaller than that one-third cap.
 A. Only 1
 B. Only 2
 C. Both
@@ -1253,8 +1245,8 @@ D. Avadh High Court
 </details>
 
 **Q59.** Which of the following is/are correct?
-1. Sarojini Naidu died in office as Governor.  
-2. The Governor of UP is sworn in before the CJ of the Allahabad High Court.  
+1. Sarojini Naidu died in office as Governor.
+2. The Governor of UP is sworn in before the CJ of the Allahabad High Court.
 A. Only 1
 B. Only 2
 C. Both
@@ -1333,8 +1325,8 @@ D. 1989
 </details>
 
 **Q65.** Which of the following is/are correct?
-1. UP is among the six bicameral States.  
-2. J&K’s Legislative Council ended with the 2019 reorganisation.  
+1. UP is among the six bicameral States.
+2. J&K’s Legislative Council ended with the 2019 reorganisation.
 A. Only 1
 B. Only 2
 C. Both
@@ -1361,11 +1353,9 @@ Which is **not** correctly matched?
 
 </details>
 
-**Q67.**
+**Q67.Assertion (A):** Uttar Pradesh sends the largest number of members to both Houses of Parliament.
 
-**Assertion (A):** Uttar Pradesh sends the largest number of members to both Houses of Parliament.
-
-**Reason (R):** It has 80 LS and 31 RS seats.  
+**Reason (R):** It has 80 LS and 31 RS seats.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1522,9 +1512,9 @@ D. A UPSC member
 </details>
 
 **Q79.** Which of the following is/are correct?
-1. UP SEC conducts Panchayat elections.  
-2. UP SEC conducts Nagar Nigam elections.  
-3. UP SEC conducts Vidhan Sabha elections.  
+1. UP SEC conducts Panchayat elections.
+2. UP SEC conducts Nagar Nigam elections.
+3. UP SEC conducts Vidhan Sabha elections.
 A. 1 and 2
 B. 1 and 3
 C. 2 and 3
@@ -1551,8 +1541,8 @@ D. Union FC
 </details>
 
 **Q81.** Which of the following is/are correct?
-1. The same UP SFC reviews Panchayat and municipal finances.  
-2. Its report is submitted to the President.  
+1. The same UP SFC reviews Panchayat and municipal finances.
+2. Its report is submitted to the President.
 A. Only 1
 B. Only 2
 C. Both
@@ -1714,8 +1704,8 @@ D. 30
 </details>
 
 **Q93.** Which of the following is/are correct?
-1. Nyaya Panchayat is a fourth tier under the 73rd Amendment.  
-2. Nyaya Panchayats in UP come from the 1947 Act, not Part IX.  
+1. Nyaya Panchayat is a fourth tier under the 73rd Amendment.
+2. Nyaya Panchayats in UP come from the 1947 Act, not Part IX.
 A. Only 1
 B. Only 2
 C. Both
@@ -1851,11 +1841,9 @@ D. Nagar Nigam — Pradhan
 
 </details>
 
-**Q103.**
+**Q103.Assertion (A):** The Election Commission of India conducts all elections to UP Nagar Nigams.
 
-**Assertion (A):** The Election Commission of India conducts all elections to UP Nagar Nigams.
-
-**Reason (R):** Article 243ZA vests municipal elections in the State Election Commission.  
+**Reason (R):** Article 243ZA vests municipal elections in the State Election Commission.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1868,11 +1856,9 @@ D. A false R true
 
 </details>
 
-**Q104.**
+**Q104.Assertion (A):** The Governor of UP can extend UPPSC’s functions by an executive order.
 
-**Assertion (A):** The Governor of UP can extend UPPSC’s functions by an executive order.
-
-**Reason (R):** Article 321 leaves the extension of SPSC functions to the State Legislature.  
+**Reason (R):** Article 321 leaves the extension of SPSC functions to the State Legislature.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1885,11 +1871,9 @@ D. A false R true
 
 </details>
 
-**Q105.**
+**Q105.Assertion (A):** There is a Panchayati Raj Commission of India that conducts Gram Panchayat polls.
 
-**Assertion (A):** There is a Panchayati Raj Commission of India that conducts Gram Panchayat polls.
-
-**Reason (R):** Article 243K names the State Election Commission.  
+**Reason (R):** Article 243K names the State Election Commission.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1903,8 +1887,8 @@ D. A false R true
 </details>
 
 **Q106.** Which of the following is/are correct?
-1. Up-Lokayukta is provided in the 1975 UP Act.  
-2. The Lokpal and Lokayuktas Act, 2013 created the first UP Lokayukta.  
+1. Up-Lokayukta is provided in the 1975 UP Act.
+2. The Lokpal and Lokayuktas Act, 2013 created the first UP Lokayukta.
 A. Only 1
 B. Only 2
 C. Both
@@ -1917,7 +1901,7 @@ D. Neither
 
 </details>
 
-**Q107.** Arrange the following in chronological order: 1. UP Municipal Corporation Act  2. UP Panchayat Raj Act  3. UP Lokayukta Act  4. 73rd Amendment in force
+**Q107.** Arrange the following in chronological order: 1. UP Municipal Corporation Act 2. UP Panchayat Raj Act 3. UP Lokayukta Act 4. 73rd Amendment in force
 A. 1, 2, 3, 4
 B. 2, 1, 3, 4
 C. 2, 3, 1, 4
@@ -1930,7 +1914,7 @@ D. 1, 2, 4, 3
 
 </details>
 
-**Q108.** Arrange the following in chronological order: 1. Maharashtra Lokayukta Act  2. UP Lokayukta Act  3. Union Lokpal Act
+**Q108.** Arrange the following in chronological order: 1. Maharashtra Lokayukta Act 2. UP Lokayukta Act 3. Union Lokpal Act
 A. 2, 1, 3
 B. 1, 2, 3
 C. 1, 3, 2
@@ -1983,8 +1967,8 @@ D. 243I — Union Finance Commission
 </details>
 
 **Q112.** Which of the following is/are correct?
-1. Local government is State List Entry 5.  
-2. The 73rd/74th only mandate a skeleton; taxes and subjects still depend on State law.  
+1. Local government is State List Entry 5.
+2. The 73rd/74th only mandate a skeleton; taxes and subjects still depend on State law.
 A. Only 1
 B. Only 2
 C. Both
@@ -2050,8 +2034,8 @@ D. Kshetra Panchayat — Municipal Corporation
 </details>
 
 **Q117.** Which of the following is/are correct?
-1. A Pradhan in UP is directly elected.  
-2. Panches are the ward members of the Gram Panchayat.  
+1. A Pradhan in UP is directly elected.
+2. Panches are the ward members of the Gram Panchayat.
 A. Only 1
 B. Only 2
 C. Both
@@ -2104,8 +2088,8 @@ D. Lokayukta = 2013 Union Act
 </details>
 
 **Q121.** Which of the following is/are correct?
-1. The SFC’s report in UP is laid in both the Assembly and the Council.  
-2. An action-taken note accompanies it.  
+1. The SFC’s report in UP is laid in both the Assembly and the Council.
+2. An action-taken note accompanies it.
 A. Only 1
 B. Only 2
 C. Both
@@ -2118,7 +2102,7 @@ D. Neither
 
 </details>
 
-**Q122.** *Kishan Singh Tomar* (2006) is a lock that?
+**Q122.** *Kishan Singh Tomar* (2006) is a fact that?
 A. Invented Basic Structure
 B. PRI/ULB elections must be held before the term expires; the State cannot starve the SEC
 C. Struck NJAC
@@ -2183,11 +2167,9 @@ D. 243F age — 25
 
 </details>
 
-**Q127.**
+**Q127.Assertion (A):** Uttar Pradesh must constitute a District Planning Committee in every district.
 
-**Assertion (A):** Uttar Pradesh must constitute a District Planning Committee in every district.
-
-**Reason (R):** Article 243ZD (in the 74th’s text) requires a DPC to consolidate PRI and ULB plans.  
+**Reason (R):** Article 243ZD (in the 74th’s text) requires a DPC to consolidate PRI and ULB plans.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2214,8 +2196,8 @@ D. All nominated
 </details>
 
 **Q129.** Which of the following is/are correct?
-1. 12th Schedule has 18 subjects.  
-2. Endowing those 18 on a Nagar Nigam is still “the State may.”  
+1. 12th Schedule has 18 subjects.
+2. Endowing those 18 on a Nagar Nigam is still “the State may.”
 A. Only 1
 B. Only 2
 C. Both
@@ -2255,8 +2237,8 @@ D. UP Lokayukta = Lokpal
 </details>
 
 **Q132.** Which of the following is/are correct?
-1. UPPSC Chair is barred by 319 from any further Union or State office except as the 319 table allows (Chair → no further office at all if it is the *UPSC* Chair; SPSC Chair may become UPSC Chair).  
-2. UPPSC is a constitutional body.  
+1. UPPSC Chair is barred by 319 from any further Union or State office except as the 319 table allows (Chair → no further office at all if it is the *UPSC* Chair; SPSC Chair may become UPSC Chair).
+2. UPPSC is a constitutional body.
 A. Only 1
 B. Only 2
 C. Both
@@ -2309,8 +2291,8 @@ D. 100
 </details>
 
 **Q136.** Which of the following is/are correct?
-1. The 1947 UP Act is older than the 73rd Amendment.  
-2. After 1993 the 1947/1961 Acts were read with 73rd-conformity amendments, not repealed as a concept.  
+1. The 1947 UP Act is older than the 73rd Amendment.
+2. After 1993 the 1947/1961 Acts were read with 73rd-conformity amendments, not repealed as a concept.
 A. Only 1
 B. Only 2
 C. Both
@@ -2389,8 +2371,8 @@ D. No cap
 </details>
 
 **Q142.** Which of the following is/are correct?
-1. Uttar Pradesh has a special provision under Article 371.  
-2. The UP Secretariat is in Lucknow.  
+1. Uttar Pradesh has a special provision under Article 371.
+2. The UP Secretariat is in Lucknow.
 A. Only 1
 B. Only 2
 C. Both
@@ -2507,11 +2489,9 @@ D. 75
 
 </details>
 
-**Q151.**
+**Q151.Assertion (A):** Greater Noida is a Nagar Nigam under the 1959 Corporation Act.
 
-**Assertion (A):** Greater Noida is a Nagar Nigam under the 1959 Corporation Act.
-
-**Reason (R):** Article 243Q allows an industrial township that provides municipal services not to constitute a municipality.  
+**Reason (R):** Article 243Q allows an industrial township that provides municipal services not to constitute a municipality.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2580,17 +2560,11 @@ D. The State Election Commission
 
 ## Complete PYQ Bank (Topic 25)
 
-**UPPCS Prelims 2023, Q14** — UP in Parliament: RS **31** and LS **80**. **Ans: C — Both.**
-
-**UPPCS Prelims 2022, Q14** — LA strengths, NOT matched: **Manipur — 62** (actual **60**). UP **403** and Uttarakhand **70** are right.
+**UPPCS Prelims 2023, Q14** — UP in Parliament: RS **31** and LS **80**. **Ans: C — Both.UPPCS Prelims 2022, Q14** — LA strengths, NOT matched: **Manipur — 62** (actual **60**). UP **403** and Uttarakhand **70** are right.
 
 **UPPCS Prelims 2023, Q13** — LC not more than 1/3 of LA **and** at least 40. **Both true** (Art. 171). UP’s own House is **100**.
 
-**UPPCS Prelims 2018, Q148** — Which cannot be dissolved but can be abolished? **Legislative Council.**
-
-**UPPCS Prelims 2021, Q133** — UPPSC functions extended by **Uttar Pradesh State Legislature**. **Ans: D.**
-
-**UPPCS Prelims 2023, Q17** — All elections to the Panchayats are conducted by the **State Election Commission**. Not ECI. Not a “Panchayati Raj Commission of India.”
+**UPPCS Prelims 2018, Q148** — Which cannot be dissolved but can be abolished? **Legislative Council.UPPCS Prelims 2021, Q133** — UPPSC functions extended by **Uttar Pradesh State Legislature**. **Ans: D.UPPCS Prelims 2023, Q17** — All elections to the Panchayats are conducted by the **State Election Commission**. Not ECI. Not a “Panchayati Raj Commission of India.”
 
 **UPPCS Prelims 2020, Q100** — Superintendence, direction and control of all elections to the Panchayats are vested in the **State Election Commission** (not the Governor, not the ECI, not the District PRO).
 

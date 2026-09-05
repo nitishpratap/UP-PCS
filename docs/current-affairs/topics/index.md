@@ -1,10 +1,10 @@
 # Monthly CA Topics
 
-Living sheets — **update every month** under the same lock checklists. Coverage: **January 2026 → ongoing**.
+Living sheets — **update every month** under the same fact checklists. Coverage: **January 2026 → ongoing**.
 
 **How to use**
 
-1. Open [Master lock tables](00_Master_Tables.md) for Ramsar / money / confused pairs.
+1. Open [Master fact tables](00_Master_Tables.md) for Ramsar / money / confused pairs.
 2. Open the latest [month digest](months/index.md) for revision order.
 3. Drill the S/A topic files below.
 4. Test with the **Practice Zone at the bottom of each topic sheet** (or open the [hub](15_Practice_Zone.md)).
@@ -14,7 +14,7 @@ Living sheets — **update every month** under the same lock checklists. Coverag
 
 | Priority | File | Latest month status |
 |----------|------|---------------------|
-| — | [Master lock tables](00_Master_Tables.md) | Living quick boards |
+| — | [Master fact tables](00_Master_Tables.md) | Living quick boards |
 | **S** | [International](01_International.md) | Aug: Uzbekistan Dustlik award |
 | **S** | [Schemes & Policies](02_Schemes_Policies.md) | Aug: I-Day Shakti; Jul: Samudra + Surya Sarovar |
 | **S** | [Science / Space / Defence](03_Science_Space_Defence.md) | Aug: Space Day + Sher rifle |
@@ -41,4 +41,4 @@ Living sheets — **update every month** under the same lock checklists. Coverag
 [August 2026 digest](months/2026-08.md){ .md-button .md-button--primary }
 
 !!! tip "Writing style"
-    These sheets use **easy complete sentences**. One fact per bullet. From March onward, the same style is mandatory (see project rule `current-affairs-monthly`).
+ These sheets use **easy complete sentences**. One fact per bullet. From March onward, the same style is mandatory (see project rule `current-affairs-monthly`).

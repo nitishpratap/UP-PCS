@@ -8,13 +8,13 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 </details>
 
-> **Sources baked in:** IPCC AR6; NCERT; Kyoto basket; Montreal/Kigali; UPPCS PYQs  
-> **Exam weight:** ★★★ High — Argon≠GHG; paddy→CH₄; laughing gas=N₂O; CFC dual role; biogas CH₄+CO₂  
+> **Sources baked in:** IPCC AR6; NCERT; Kyoto basket; Montreal/Kigali; UPPCS PYQs
+> **Weight:** ★★★ High — Argon≠GHG; paddy→CH₄; laughing gas=N₂O; CFC dual role; biogas CH₄+CO₂
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
 2. Without the natural greenhouse effect Earth would average about **−18°C**. With it the surface averages about **+15°C**.
@@ -31,7 +31,7 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 13. **GWP** compares heat-trapping power to CO₂ over a stated horizon, usually **100 years**.
 14. **CO₂e** converts all greenhouse gases into carbon-dioxide equivalent using GWP.
 15. Biogas is mainly **methane plus CO₂**. Do not treat biogas as CO₂-only.
-16. Paddy fields are a classic **methane** source lock in Indian papers.
+16. Paddy fields are a classic **methane** source fact in Indian papers.
 17. CFC versus HFC is dual-role ODS+GHG versus climate-only substitute under Kigali.
 18. N₂O is not the same as N₂. Molecular nitrogen is inert as a greenhouse gas.
 19. Water vapour rises as Earth warms; that feedback amplifies warming but does not replace fossil CO₂ as the driver.
@@ -43,9 +43,9 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Term | One-line lock |
+| Term | One-line fact |
 |------|---------------|
 | **GWP** | Heat-trapping power vs CO₂ over 100 years (CO₂=1) |
 | **CO₂e** | All GHGs converted to CO₂ equivalent via GWP |
@@ -71,7 +71,7 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 Largest CO₂ emitter in 2015:
 
-Options: A. China  B. USA  C. India  D. France
+Options: A. China B. USA C. India D. France
 
 <details><summary>Show answer</summary>
 
@@ -79,7 +79,7 @@ Options: A. China  B. USA  C. India  D. France
 
 </details>
 
-> **Exam note:** Highest GWP ≠ most total warming. **CO₂ wins on volume.**
+> ** note:** Highest GWP ≠ most total warming. **CO₂ wins on volume.**
 
 ---
 
@@ -99,7 +99,7 @@ Options: A. China  B. USA  C. India  D. France
 
 Gas emitted in paddy fields that increases Earth's temperature:
 
-Options: A. Nitrogen  B. Carbon dioxide  C. Carbon monoxide  D. Methane
+Options: A. Nitrogen B. Carbon dioxide C. Carbon monoxide D. Methane
 
 <details><summary>Show answer</summary>
 
@@ -111,7 +111,7 @@ Options: A. Nitrogen  B. Carbon dioxide  C. Carbon monoxide  D. Methane
 
 Methane is emitted from:
 
-Options: A. Paddy fields only  B. Termitary only  C. Both  D. None
+Options: A. Paddy fields only B. Termitary only C. Both D. None
 
 <details><summary>Show answer</summary>
 
@@ -123,7 +123,7 @@ Options: A. Paddy fields only  B. Termitary only  C. Both  D. None
 
 CNG is mainly composed of—
 
-Options: A. Methane  B. Propane  C. Ethane  D. Butane
+Options: A. Methane B. Propane C. Ethane D. Butane
 
 <details><summary>Show answer</summary>
 
@@ -135,9 +135,9 @@ Options: A. Methane  B. Propane  C. Ethane  D. Butane
 
 Major constituents of biogas:
 
-1. Methane  2. Butane  3. Carbon dioxide  4. Carbon monoxide
+1. Methane 2. Butane 3. Carbon dioxide 4. Carbon monoxide
 
-Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
+Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 <details><summary>Show answer</summary>
 
@@ -145,7 +145,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 
 </details>
 
-> **Exam note:** Paddy temperature gas = **methane**, not CO or N₂.
+> ** note:** Paddy temperature gas = **methane**, not CO or N₂.
 
 ---
 
@@ -165,7 +165,7 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 
 Which is known as Laughing Gas?
 
-Options: A. Ammonia  B. Nitrous Oxide  C. Carbon Monoxide  D. Chlorofluorocarbon
+Options: A. Ammonia B. Nitrous Oxide C. Carbon Monoxide D. Chlorofluorocarbon
 
 <details><summary>Show answer</summary>
 
@@ -173,7 +173,7 @@ Options: A. Ammonia  B. Nitrous Oxide  C. Carbon Monoxide  D. Chlorofluorocarbon
 
 </details>
 
-> **Exam note:** Laughing gas = **N₂O only**.
+> ** note:** Laughing gas = **N₂O only**.
 
 ---
 
@@ -187,7 +187,7 @@ Options: A. Ammonia  B. Nitrous Oxide  C. Carbon Monoxide  D. Chlorofluorocarbon
 - Concentration varies widely (about **0–4%**) with place and weather; most is in the troposphere.
 - Condenses into clouds; linked to the hydrological cycle.
 
-> **Exam note:** “Largest anthropogenic GHG” is **not** water vapour — that label belongs to **CO₂** by forcing share.
+> ** note:** “Largest anthropogenic GHG” is **not** water vapour — that label belongs to **CO₂** by forcing share.
 
 ---
 
@@ -197,14 +197,14 @@ Options: A. Ammonia  B. Nitrous Oxide  C. Carbon Monoxide  D. Chlorofluorocarbon
 
 - **Tropospheric (ground-level) ozone** is both an air pollutant and a greenhouse gas.
 - It forms in photochemical smog from **NOx + VOCs + sunlight**.
-- **Stratospheric ozone** is the UV shield — its main exam role is protection, not climate forcing.
-- “Good up, bad down” remains the safest lock.
+- **Stratospheric ozone** is the UV shield — its ma role is protection, not climate forcing.
+- “Good up, bad down” remains the safest fact.
 
 **PYQ — UPPCS Prelims 2022, Q46**
 
 Photochemical smog always contains—
 
-Options: A. Phosphorus  B. Ozone  C. Methane  D. Aluminium ion
+Options: A. Phosphorus B. Ozone C. Methane D. Aluminium ion
 
 <details><summary>Show answer</summary>
 
@@ -216,7 +216,7 @@ Options: A. Phosphorus  B. Ozone  C. Methane  D. Aluminium ion
 
 NOT a greenhouse gas found naturally (among options):
 
-Options: A. Nitrogen oxide  B. CO₂  C. Methane  D. Ozone
+Options: A. Nitrogen oxide B. CO₂ C. Methane D. Ozone
 
 <details><summary>Show answer</summary>
 
@@ -224,7 +224,7 @@ Options: A. Nitrogen oxide  B. CO₂  C. Methane  D. Ozone
 
 </details>
 
-> **Exam note:** Ozone can be a GHG **and** a pollutant — layer decides the story.
+> ** note:** Ozone can be a GHG **and** a pollutant — layer decides the story.
 
 ---
 
@@ -242,7 +242,7 @@ Options: A. Nitrogen oxide  B. CO₂  C. Methane  D. Ozone
 
 Which is NOT a greenhouse gas?
 
-Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
+Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 <details><summary>Show answer</summary>
 
@@ -254,7 +254,7 @@ Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
 
 Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection statement).
 
-> **Exam note:** CFC = climate warmer **and** ozone destroyer.
+> ** note:** CFC = climate warmer **and** ozone destroyer.
 
 ---
 
@@ -265,7 +265,7 @@ Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection stateme
 - **HFCs** replaced many CFCs/HCFCs in air-conditioning and refrigeration.
 - They **do not deplete ozone** (no chlorine/bromine ODS role) but have **very high GWP**.
 - Included in the **Kyoto** climate basket; phased down under the **Kigali Amendment (2016)** to the Montreal Protocol.
-- Exam lock: **HFC = hot but no hole**.
+- Key fact: **HFC = hot but no hole**.
 
 | Gas | ODS? | Climate role | Treaty home |
 |-----|------|--------------|-------------|
@@ -273,7 +273,7 @@ Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection stateme
 | HFC | No | High GWP GHG | Kyoto + Kigali |
 | HCFC | Yes (lower) | Transitional | Montreal phase-out |
 
-> **Exam note:** Replacing CFCs with HFCs fixed ozone risk but created a climate problem.
+> ** note:** Replacing CFCs with HFCs fixed ozone risk but created a climate problem.
 
 ---
 
@@ -281,7 +281,7 @@ Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection stateme
 
 **Q1.** Which is NOT a GHG?
 
-Options: A. Argon  B. CFC  C. CH₄  D. CO₂
+Options: A. Argon B. CFC C. CH₄ D. CO₂
 
 <details><summary>Show answer</summary>
 
@@ -291,7 +291,7 @@ Options: A. Argon  B. CFC  C. CH₄  D. CO₂
 
 **Q2.** Paddy fields mainly emit which warming gas in the classic PYQ?
 
-Options: A. Methane  B. Nitrogen  C. Carbon monoxide  D. Argon
+Options: A. Methane B. Nitrogen C. Carbon monoxide D. Argon
 
 <details><summary>Show answer</summary>
 
@@ -301,7 +301,7 @@ Options: A. Methane  B. Nitrogen  C. Carbon monoxide  D. Argon
 
 **Q3.** Laughing gas is:
 
-Options: A. N₂O  B. NH₃  C. CO  D. CFC
+Options: A. N₂O B. NH₃ C. CO D. CFC
 
 <details><summary>Show answer</summary>
 
@@ -311,7 +311,7 @@ Options: A. N₂O  B. NH₃  C. CO  D. CFC
 
 **Q4.** Biogas major constituents:
 
-Options: A. CH₄ and CO₂  B. Butane and CO  C. Only argon  D. Only O₂ and N₂
+Options: A. CH₄ and CO₂ B. Butane and CO C. Only argon D. Only O₂ and N₂
 
 <details><summary>Show answer</summary>
 
@@ -321,7 +321,7 @@ Options: A. CH₄ and CO₂  B. Butane and CO  C. Only argon  D. Only O₂ and N
 
 **Q5.** CNG is mainly:
 
-Options: A. Methane  B. Butane  C. Propane only  D. Helium
+Options: A. Methane B. Butane C. Propane only D. Helium
 
 <details><summary>Show answer</summary>
 
@@ -331,7 +331,7 @@ Options: A. Methane  B. Butane  C. Propane only  D. Helium
 
 **Q6.** CO₂ GWP is:
 
-Options: A. 1  B. 28  C. 265  D. 10,000
+Options: A. 1 B. 28 C. 265 D. 10,000
 
 <details><summary>Show answer</summary>
 
@@ -341,7 +341,7 @@ Options: A. 1  B. 28  C. 265  D. 10,000
 
 **Q7.** Rough CH₄ GWP (100-yr):
 
-Options: A. 28–36  B. 1  C. 0  D. Equal to argon
+Options: A. 28–36 B. 1 C. 0 D. Equal to argon
 
 <details><summary>Show answer</summary>
 
@@ -351,7 +351,7 @@ Options: A. 28–36  B. 1  C. 0  D. Equal to argon
 
 **Q8.** Rough N₂O GWP (100-yr):
 
-Options: A. ~265  B. 1  C. 28 only  D. Same as N₂
+Options: A. ~265 B. 1 C. 28 only D. Same as N₂
 
 <details><summary>Show answer</summary>
 
@@ -361,7 +361,7 @@ Options: A. ~265  B. 1  C. 28 only  D. Same as N₂
 
 **Q9.** Water vapour is mainly a:
 
-Options: A. Climate feedback gas  B. Montreal ODS  C. Kyoto primary inventory target like coal CO₂ only  D. Noble gas
+Options: A. Climate feedback gas B. Montreal ODS C. Kyoto primary inventory target like coal CO₂ only D. Noble gas
 
 <details><summary>Show answer</summary>
 
@@ -371,7 +371,7 @@ Options: A. Climate feedback gas  B. Montreal ODS  C. Kyoto primary inventory ta
 
 **Q10.** Photochemical smog contains:
 
-Options: A. Ozone  B. Only argon  C. Only helium  D. Only N₂
+Options: A. Ozone B. Only argon C. Only helium D. Only N₂
 
 <details><summary>Show answer</summary>
 
@@ -381,7 +381,7 @@ Options: A. Ozone  B. Only argon  C. Only helium  D. Only N₂
 
 **Q11.** CFCs are:
 
-Options: A. GHG and ODS  B. Neither  C. Only noble gases  D. Only fertiliser gases
+Options: A. GHG and ODS B. Neither C. Only noble gases D. Only fertiliser gases
 
 <details><summary>Show answer</summary>
 
@@ -391,7 +391,7 @@ Options: A. GHG and ODS  B. Neither  C. Only noble gases  D. Only fertiliser gas
 
 **Q12.** HFCs are:
 
-Options: A. High-GWP GHGs, not ODS  B. Classic ozone destroyers like CFC-11 twin  C. Same as argon  D. Same as N₂
+Options: A. High-GWP GHGs, not ODS B. Classic ozone destroyers like CFC-11 twin C. Same as argon D. Same as N₂
 
 <details><summary>Show answer</summary>
 
@@ -401,7 +401,7 @@ Options: A. High-GWP GHGs, not ODS  B. Classic ozone destroyers like CFC-11 twin
 
 **Q13.** Kigali Amendment targets:
 
-Options: A. HFCs  B. Only tiger trade  C. Only Ramsar sites  D. Only wet rice ban worldwide
+Options: A. HFCs B. Only tiger trade C. Only Ramsar sites D. Only wet rice ban worldwide
 
 <details><summary>Show answer</summary>
 
@@ -411,7 +411,7 @@ Options: A. HFCs  B. Only tiger trade  C. Only Ramsar sites  D. Only wet rice ba
 
 **Q14.** Methane from paddies and termites:
 
-Options: A. Both emit CH₄  B. Neither emits CH₄  C. Only argon from both  D. Only CO from both
+Options: A. Both emit CH₄ B. Neither emits CH₄ C. Only argon from both D. Only CO from both
 
 <details><summary>Show answer</summary>
 
@@ -421,7 +421,7 @@ Options: A. Both emit CH₄  B. Neither emits CH₄  C. Only argon from both  D.
 
 **Q15.** Dominant anthropogenic forcing gas:
 
-Options: A. CO₂  B. Water vapour inventory target  C. Argon  D. Helium
+Options: A. CO₂ B. Water vapour inventory target C. Argon D. Helium
 
 <details><summary>Show answer</summary>
 
@@ -429,9 +429,9 @@ Options: A. CO₂  B. Water vapour inventory target  C. Argon  D. Helium
 
 </details>
 
-**Q16.** Stratospheric ozone main exam role:
+**Q16.** Stratospheric ozone ma role:
 
-Options: A. UV shield  B. Primary Kyoto inventory gas like coal CO₂  C. Laughing gas  D. CNG fuel
+Options: A. UV shield B. Primary Kyoto inventory gas like coal CO₂ C. Laughing gas D. CNG fuel
 
 <details><summary>Show answer</summary>
 
@@ -441,7 +441,7 @@ Options: A. UV shield  B. Primary Kyoto inventory gas like coal CO₂  C. Laughi
 
 **Q17.** Pre-industrial CO₂ was about:
 
-Options: A. 280 ppm  B. 28 ppm  C. 2800 ppm  D. 2 ppm
+Options: A. 280 ppm B. 28 ppm C. 2800 ppm D. 2 ppm
 
 <details><summary>Show answer</summary>
 
@@ -451,7 +451,7 @@ Options: A. 280 ppm  B. 28 ppm  C. 2800 ppm  D. 2 ppm
 
 **Q18.** Kyoto basket includes:
 
-Options: A. CO₂, CH₄, N₂O, HFCs, PFCs, SF₆  B. Only argon and helium  C. Only N₂ and O₂  D. Only water vapour
+Options: A. CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ B. Only argon and helium C. Only N₂ and O₂ D. Only water vapour
 
 <details><summary>Show answer</summary>
 
@@ -461,7 +461,7 @@ Options: A. CO₂, CH₄, N₂O, HFCs, PFCs, SF₆  B. Only argon and helium  C.
 
 **Q19.** Main N₂O anthropogenic source:
 
-Options: A. Nitrogen fertilisers  B. Only helium balloons  C. Only argon lights  D. Only O₂ tanks
+Options: A. Nitrogen fertilisers B. Only helium balloons C. Only argon lights D. Only O₂ tanks
 
 <details><summary>Show answer</summary>
 
@@ -471,7 +471,7 @@ Options: A. Nitrogen fertilisers  B. Only helium balloons  C. Only argon lights 
 
 **Q20.** Largest CO₂ emitter in 2015 among options:
 
-Options: A. China  B. India  C. France  D. Only Bhutan
+Options: A. China B. India C. France D. Only Bhutan
 
 <details><summary>Show answer</summary>
 
@@ -479,10 +479,10 @@ Options: A. China  B. India  C. France  D. Only Bhutan
 
 </details>
 
-**Q21.** Assertion (A): Argon is not a greenhouse gas.  
+**Q21.** Assertion (A): Argon is not a greenhouse gas.
 Reason (R): CFCs are also not greenhouse gases.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -492,7 +492,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 **Q22.** Tropospheric ozone is:
 
-Options: A. Pollutant and GHG  B. Only UV shield  C. Only noble gas  D. Identical to N₂
+Options: A. Pollutant and GHG B. Only UV shield C. Only noble gas D. Identical to N₂
 
 <details><summary>Show answer</summary>
 
@@ -502,7 +502,7 @@ Options: A. Pollutant and GHG  B. Only UV shield  C. Only noble gas  D. Identica
 
 **Q23.** Without natural greenhouse effect, Earth would be about:
 
-Options: A. −18°C  B. +15°C  C. +100°C  D. 0 K always
+Options: A. −18°C B. +15°C C. +100°C D. 0 K always
 
 <details><summary>Show answer</summary>
 
@@ -512,7 +512,7 @@ Options: A. −18°C  B. +15°C  C. +100°C  D. 0 K always
 
 **Q24.** Which is NOT a natural GHG in the 2020 framing?
 
-Options: A. Nitrogen oxide  B. CO₂  C. CH₄  D. Ozone
+Options: A. Nitrogen oxide B. CO₂ C. CH₄ D. Ozone
 
 <details><summary>Show answer</summary>
 
@@ -522,7 +522,7 @@ Options: A. Nitrogen oxide  B. CO₂  C. CH₄  D. Ozone
 
 **Q25.** HFC vs CFC:
 
-Options: A. HFC does not deplete ozone; CFC does  B. Both are argon twins  C. Neither is a GHG  D. HFC is only a wetland gas
+Options: A. HFC does not deplete ozone; CFC does B. Both are argon twins C. Neither is a GHG D. HFC is only a wetland gas
 
 <details><summary>Show answer</summary>
 
@@ -532,7 +532,7 @@ Options: A. HFC does not deplete ozone; CFC does  B. Both are argon twins  C. Ne
 
 **Q26.** CO₂e is used to:
 
-Options: A. Compare different GHGs on one scale  B. Measure only noble gases  C. Replace Dobson Units for ozone hole  D. Rank only rivers
+Options: A. Compare different GHGs on one scale B. Measure only noble gases C. Replace Dobson Units for ozone hole D. Rank only rivers
 
 <details><summary>Show answer</summary>
 
@@ -542,7 +542,7 @@ Options: A. Compare different GHGs on one scale  B. Measure only noble gases  C.
 
 **Q27.** Short-lived relative to CO₂ among major GHGs:
 
-Options: A. Methane (~12 years)  B. N₂O only lasts 1 day always  C. Argon lasts forever as GHG  D. Helium is main Kyoto gas
+Options: A. Methane (~12 years) B. N₂O only lasts 1 day always C. Argon lasts forever as GHG D. Helium is main Kyoto gas
 
 <details><summary>Show answer</summary>
 
@@ -552,7 +552,7 @@ Options: A. Methane (~12 years)  B. N₂O only lasts 1 day always  C. Argon last
 
 **Q28.** Montreal primarily controls:
 
-Options: A. ODS including CFCs  B. Only CH₄ from paddies  C. Only N₂O laughing-gas medical use  D. Only CO₂ from cement worldwide alone
+Options: A. ODS including CFCs B. Only CH₄ from paddies C. Only N₂O laughing-gas medical use D. Only CO₂ from cement worldwide alone
 
 <details><summary>Show answer</summary>
 
@@ -562,7 +562,7 @@ Options: A. ODS including CFCs  B. Only CH₄ from paddies  C. Only N₂O laughi
 
 **Q29.** India’s absolute GHG emitter rank is roughly:
 
-Options: A. Among top 3  B. 78th always  C. Zero emissions  D. Only 100th always
+Options: A. Among top 3 B. 78th always C. Zero emissions D. Only 100th always
 
 <details><summary>Show answer</summary>
 
@@ -572,7 +572,7 @@ Options: A. Among top 3  B. 78th always  C. Zero emissions  D. Only 100th always
 
 **Q30.** Correct set:
 
-Options: A. Argon≠GHG; paddy→CH₄; laughing gas=N₂O; biogas=CH₄+CO₂; HFC≠ODS  B. Argon=GHG; paddy→CO; laughing gas=NH₃; biogas=butane  C. CFC≠GHG; HFC=ODS twin of CFC-11  D. Water vapour=main Kyoto inventory gas
+Options: A. Argon≠GHG; paddy→CH₄; laughing gas=N₂O; biogas=CH₄+CO₂; HFC≠ODS B. Argon=GHG; paddy→CO; laughing gas=NH₃; biogas=butane C. CFC≠GHG; HFC=ODS twin of CFC-11 D. Water vapour=main Kyoto inventory gas
 
 <details><summary>Show answer</summary>
 
@@ -584,31 +584,13 @@ Options: A. Argon≠GHG; paddy→CH₄; laughing gas=N₂O; biogas=CH₄+CO₂; 
 
 ## Complete PYQ Bank (Topic 37)
 
-**Q1. UPPCS 2025, Q28** — Biogas = CH₄ + CO₂ → **Ans: A**
-
-**Q2. UPPCS 2025, Q45** — CFCs linked to ozone depletion → **TRUE**
-
-**Q3. UPPCS 2023, Q105** — Laughing gas = N₂O → **Ans: B**
-
-**Q4. UPPCS 2022, Q102** — Argon ≠ GHG → **Ans: A**
-
-**Q5. UPPCS 2022, Q46** — Photochemical smog contains ozone → **Ans: B**
-
-**Q6. UPPCS 2022, Q113** — CNG = methane → **Ans: A**
-
-**Q7. UPPCS 2019, Q62** — Paddy warming gas = methane → **Ans: D**
-
-**Q8. UPPCS 2018, Q63** — Methane from paddy and termitary → **Ans: C**
-
-**Q9. UPPCS 2018, Q132** — Largest CO₂ emitter 2015 = China → **Ans: A**
-
-**Q10. UPPCS 2020, Q139** — Nitrogen oxide ≠ listed natural GHG → **Ans: A**
+**Q1. UPPCS 2025, Q28** — Biogas = CH₄ + CO₂ → **Ans: AQ2. UPPCS 2025, Q45** — CFCs linked to ozone depletion → **TRUEQ3. UPPCS 2023, Q105** — Laughing gas = N₂O → **Ans: BQ4. UPPCS 2022, Q102** — Argon ≠ GHG → **Ans: AQ5. UPPCS 2022, Q46** — Photochemical smog contains ozone → **Ans: BQ6. UPPCS 2022, Q113** — CNG = methane → **Ans: AQ7. UPPCS 2019, Q62** — Paddy warming gas = methane → **Ans: DQ8. UPPCS 2018, Q63** — Methane from paddy and termitary → **Ans: CQ9. UPPCS 2018, Q132** — Largest CO₂ emitter 2015 = China → **Ans: AQ10. UPPCS 2020, Q139** — Nitrogen oxide ≠ listed natural GHG → **Ans: A**
 
 ---
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Argon / N₂ / O₂ are GHGs | **Not** |
 | Paddy gas = CO₂ or CO | **Methane** |
@@ -648,10 +630,10 @@ Options: A. Argon≠GHG; paddy→CH₄; laughing gas=N₂O; biogas=CH₄+CO₂; 
 
 ### Topic boundaries
 
-- **Greenhouse effect / warming system** — Topics 10, 34  
-- **Ozone depletion / Montreal depth** — Topics 11, 36  
-- **Atmosphere composition %** — Topic 35  
-- **Carbon markets / CO₂e trading** — Topic 34  
+- **Greenhouse effect / warming system** — Topics 10, 34
+- **Ozone depletion / Montreal depth** — Topics 11, 36
+- **Atmosphere composition %** — Topic 35
+- **Carbon markets / CO₂e trading** — Topic 34
 
 ### PYQ audit
 

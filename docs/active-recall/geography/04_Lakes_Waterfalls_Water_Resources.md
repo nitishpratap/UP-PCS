@@ -31,7 +31,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: They hold water in the dry season, feed canals, cushion floods, create head for turbines, host fish and birds, and draw tourists.** Wular and Kolleru store. Bhakra and Hirakud reservoirs irrigate and generate. Chilika and Loktak are ecology locks. Dal is tourism, not the size king.
+**Ans: They hold water in the dry season, feed canals, cushion floods, create head for turbines, host fish and birds, and draw tourists.** Wular and Kolleru store. Bhakra and Hirakud reservoirs irrigate and generate. Chilika and Loktak are ecology facts. Dal is tourism, not the size king.
 
 </details>
 
@@ -125,7 +125,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: It is Kerala’s longest backwater** and a Ramsar wetland. Sasthamkotta is Kerala’s large freshwater lake, a different lock.
+**Ans: It is Kerala’s longest backwater** and a Ramsar wetland. Sasthamkotta is Kerala’s large freshwater lake, a different fact.
 
 </details>
 
@@ -201,7 +201,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: They offer shallow feeding and winter roosts on the Central Asian flyway.** Chilika, Sambhar, Loktak and UP Ramsar jheels are the exam roosts.
+**Ans: They offer shallow feeding and winter roosts on the Central Asian flyway.** Chilika, Sambhar, Loktak and UP Ramsar jheels are the roosts.
 
 </details>
 
@@ -277,7 +277,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: Shivanasamudra** in Karnataka. Hogenakkal is the Kaveri smoking-falls lock on the Tamil Nadu border. India’s first hydro station (Shivanasamudra, 1902) is the coaching lock.
+**Ans: Shivanasamudra** in Karnataka. Hogenakkal is the Kaveri smoking-falls fact on the Tamil Nadu border. India’s first hydro station (Shivanasamudra, 1902) is the coaching fact.
 
 </details>
 
@@ -380,7 +380,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: Falling water tables, over-exploited blocks, fluoride and arsenic, and land subsidence in pockets.** Free farm power in Punjab–Haryana encourages pumping. Arsenic is a Ganga-belt lock (UP, Bihar, West Bengal).
+**Ans: Falling water tables, over-exploited blocks, fluoride and arsenic, and land subsidence in pockets.** Free farm power in Punjab–Haryana encourages pumping. Arsenic is a Ganga-belt fact (UP, Bihar, West Bengal).
 
 </details>
 
@@ -500,7 +500,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 
 </details>
 
-**Q53.** Bhakra–Nangal, Tehri, Hirakud, Sardar Sarovar and Nagarjuna Sagar — river and State lock?
+**Q53.** Bhakra–Nangal, Tehri, Hirakud, Sardar Sarovar and Nagarjuna Sagar — river and State fact?
 
 <details>
 <summary>Show answer</summary>
@@ -514,7 +514,7 @@ Target about 25 minutes. Answer from memory. Mark misses. Revise only those. Pla
 <details>
 <summary>Show answer</summary>
 
-**Ans: Displacement, siltation, downstream drying, seismic risk, and forest loss** sit against irrigation and power gains. Tehri and Sardar Sarovar are the social-debate icons. Koyna is the seismicity awareness lock.
+**Ans: Displacement, siltation, downstream drying, seismic risk, and forest loss** sit against irrigation and power gains. Tehri and Sardar Sarovar are the social-debate icons. Koyna is the seismicity awareness fact.
 
 </details>
 

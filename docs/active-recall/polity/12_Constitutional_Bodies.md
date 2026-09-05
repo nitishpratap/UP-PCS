@@ -211,7 +211,7 @@ Memory: Law → Audit → State law → Coordination → GST → Money → Recru
 
 </details>
 
-**Q22.** Give exam examples of constitutional bodies.
+**Q22.** Give examples of constitutional bodies.
 
 <details>
 <summary>Show answer</summary>
@@ -229,7 +229,7 @@ Memory: Law → Audit → State law → Coordination → GST → Money → Recru
 
 </details>
 
-**Q24.** Give exam examples of statutory bodies.
+**Q24.** Give examples of statutory bodies.
 
 <details>
 <summary>Show answer</summary>
@@ -506,7 +506,7 @@ Memory: Law → Audit → State law → Coordination → GST → Money → Recru
 
 </details>
 
-**Q53.** Who chairs the GST Council, and what is the voting lock?
+**Q53.** Who chairs the GST Council, and what is the voting rule?
 
 <details>
 <summary>Show answer</summary>
@@ -524,7 +524,7 @@ Memory: Law → Audit → State law → Coordination → GST → Money → Recru
 
 </details>
 
-**Q55.** Article 338 versus 338A versus 338B versus 340 — lock the four.
+**Q55.** Article 338 versus 338A versus 338B versus 340 — remember the four.
 
 <details>
 <summary>Show answer</summary>
@@ -533,7 +533,7 @@ Memory: Law → Audit → State law → Coordination → GST → Money → Recru
 
 </details>
 
-**Q56.** Article 350 versus 350A versus 350B — lock the three.
+**Q56.** Article 350 versus 350A versus 350B — remember the three.
 
 <details>
 <summary>Show answer</summary>

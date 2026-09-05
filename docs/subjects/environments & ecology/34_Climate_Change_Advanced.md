@@ -8,13 +8,13 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 </details>
 
-> **Sources baked in:** IPCC AR6; WMO; UNEP; Global Carbon Project; MoEFCC; NAPCC; India NDC; CCTS 2023; UPPCS PYQs  
-> **Exam weight:** ★★★ High — Kyoto vs Montreal; Emissions Gap=UNEP; carbon credit; IPCC≠UNFCCC  
+> **Sources baked in:** IPCC AR6; WMO; UNEP; Global Carbon Project; MoEFCC; NAPCC; India NDC; CCTS 2023; UPPCS PYQs
+> **Weight:** ★★★ High — Kyoto vs Montreal; Emissions Gap=UNEP; carbon credit; IPCC≠UNFCCC
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **Climate change** is a long-term shift in temperature, rainfall, and extremes. **Global warming** is the temperature-rise part only.
 2. IPCC AR6 places warming near **1.1°C** above **1850–1900**, with human influence dominant.
@@ -29,7 +29,7 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 11. **Kyoto** is climate mitigation. **Montreal** is ozone protection. Do not swap the two treaties.
 12. India’s **NAPCC** launched in **2008** with **eight** missions.
 13. India’s updated NDC path includes about **45%** emission-intensity cut and about **50%** non-fossil electricity capacity share.
-14. India’s **net-zero** year lock is **2070**, announced around **COP-26**.
+14. India’s **net-zero** year fact is **2070**, announced around **COP-26**.
 15. **LiFE** was floated as an idea at **COP-26 (2021)** and launched in **June 2022**. COP-25 Madrid is the false date trap.
 16. India’s **Carbon Credit Trading Scheme (2023)** sits with **BEE** under the Power Ministry.
 17. The **IPCC** does science assessment under **WMO + UNEP** parents. It does **not** set national targets or write the Emissions Gap Report.
@@ -43,9 +43,9 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Term | One-line lock |
+| Term | One-line fact |
 |------|---------------|
 | **Climate change / Global warming** | Full system shift / temperature rise only |
 | **Greenhouse effect** | IR trapping by GHGs |
@@ -67,7 +67,7 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 - IPCC AR6 finds human influence is the **dominant cause** of observed warming.
 - Global warming is one part of climate change; monsoon shifts and glacier retreat also count.
 
-> **Exam note:** Warming ⊂ climate change — do not treat them as identical.
+> ** note:** Warming ⊂ climate change — do not treat them as identical.
 
 ---
 
@@ -76,11 +76,11 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 **Identity:** Radiative forcing | Keeling Curve | Warming troposphere / cooling stratosphere
 
 - **Radiative forcing** (W/m²) measures the net energy imbalance driving warming.
-- The **Keeling Curve** records continuous atmospheric **CO₂** at **Mauna Loa, Hawaii**, since **1958** — rising trend is the classic exam graph.
+- The **Keeling Curve** records continuous atmospheric **CO₂** at **Mauna Loa, Hawaii**, since **1958** — rising trend is the classic graph.
 - GHG warming typically **warms the troposphere** and **cools the stratosphere** — a fingerprint distinct from solar-only warming.
 - Water vapour is a strong greenhouse gas but mainly a **feedback**, not the primary anthropogenic driver.
 
-> **Exam note:** Mauna Loa = Keeling CO₂ monitoring, not ozone hole location (ozone hole = Antarctica).
+> ** note:** Mauna Loa = Keeling CO₂ monitoring, not ozone hole location (ozone hole = Antarctica).
 
 ---
 
@@ -95,10 +95,10 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 **PYQ — UPPCS Prelims 2024, Q6**
 
-Match: A. Human Development Report  B. World Economic Outlook  C. World Investment Report  D. Emissions Gap Report  
-with 1. IMF  2. UNEP  3. UNDP  4. UNCTAD
+Match: A. Human Development Report B. World Economic Outlook C. World Investment Report D. Emissions Gap Report
+with 1. IMF 2. UNEP 3. UNDP 4. UNCTAD
 
-Options: A. 3 1 4 2  B. 3 4 1 2  C. 1 2 3 4  D. 2 3 4 1
+Options: A. 3 1 4 2 B. 3 4 1 2 C. 1 2 3 4 D. 2 3 4 1
 
 <details><summary>Show answer</summary>
 
@@ -106,7 +106,7 @@ Options: A. 3 1 4 2  B. 3 4 1 2  C. 1 2 3 4  D. 2 3 4 1
 
 </details>
 
-> **Exam note:** Emissions Gap Report ≠ IPCC Assessment Report.
+> ** note:** Emissions Gap Report ≠ IPCC Assessment Report.
 
 ---
 
@@ -123,7 +123,7 @@ Options: A. 3 1 4 2  B. 3 4 1 2  C. 1 2 3 4  D. 2 3 4 1
 
 What was India's rank in the world in greenhouse gas emissions in 2022?
 
-Options: A. 9th  B. 10th  C. 11th  D. 12th
+Options: A. 9th B. 10th C. 11th D. 12th
 
 <details><summary>Show answer</summary>
 
@@ -135,7 +135,7 @@ Options: A. 9th  B. 10th  C. 11th  D. 12th
 
 Largest CO₂ emitter in 2015:
 
-Options: A. China  B. USA  C. India  D. France
+Options: A. China B. USA C. India D. France
 
 <details><summary>Show answer</summary>
 
@@ -143,7 +143,7 @@ Options: A. China  B. USA  C. India  D. France
 
 </details>
 
-> **Exam note:** Absolute emitter rank ≠ CCPI / “performance” rank.
+> ** note:** Absolute emitter rank ≠ CCPI / “performance” rank.
 
 ---
 
@@ -155,13 +155,11 @@ Options: A. China  B. USA  C. India  D. France
 - **Industry** adds process CO₂ (cement, steel) plus F-gases.
 - **AFOLU** (agriculture, forestry, land use): **CH₄** from livestock/rice; **N₂O** from fertilisers; CO₂ from deforestation.
 - **Transport** and **buildings** add fossil CO₂; **waste** adds landfill methane.
-- **Argon is not a greenhouse gas.**
-
-**PYQ — UPPCS Prelims 2022, Q102**
+- **Argon is not a greenhouse gas.PYQ — UPPCS Prelims 2022, Q102**
 
 Which is NOT a greenhouse gas?
 
-Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
+Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 <details><summary>Show answer</summary>
 
@@ -169,7 +167,7 @@ Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
 
 </details>
 
-> **Exam note:** Detailed gas-by-gas chemistry also appears in Topic 37.
+> ** note:** Detailed gas-by-gas chemistry also appears in Topic 37.
 
 ---
 
@@ -181,7 +179,7 @@ Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
 - The **enhanced greenhouse effect** from extra anthropogenic GHGs traps more outgoing infrared radiation.
 - Main natural greenhouse gases include water vapour, CO₂, CH₄, and N₂O; CFCs/HFCs are human-made.
 
-> **Exam note:** Greenhouse effect itself is not the problem — **enhanced** anthropogenic forcing is.
+> ** note:** Greenhouse effect itself is not the problem — **enhanced** anthropogenic forcing is.
 
 ---
 
@@ -194,7 +192,7 @@ Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
 - Impacts include heatwaves, glacier melt, sea-level rise, coral bleaching, and monsoon extremes (UP heat / Bundelkhand drought / Ganga floods).
 - Warming is necessary but not sufficient to describe all climate-change impacts.
 
-> **Exam note:** Paris aims to hold warming well below **2°C** and pursue **1.5°C**.
+> ** note:** Paris aims to hold warming well below **2°C** and pursue **1.5°C**.
 
 ---
 
@@ -207,7 +205,7 @@ Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
 - **Slow cycle:** rock weathering, sediment burial, fossil carbon (millions of years).
 - Burning fossil fuels transfers slow-cycle carbon into the fast atmospheric pool.
 
-> **Exam note:** Fossil CO₂ is “new” to the fast cycle on human timescales.
+> ** note:** Fossil CO₂ is “new” to the fast cycle on human timescales.
 
 ---
 
@@ -220,7 +218,7 @@ Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
 - Net zero means residual emissions are balanced by removals — not “zero gross emissions overnight.”
 - India links its long-term budget pathway to **net zero by 2070**.
 
-> **Exam note:** Carbon budget ≠ annual government fiscal budget.
+> ** note:** Carbon budget ≠ annual government fiscal budget.
 
 ---
 
@@ -233,7 +231,7 @@ Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
 - India’s NDC includes a **2.5–3 GtCO₂e** additional forest/tree-cover sink by 2030.
 - Sinks can weaken (deforestation, ocean warming) and become sources.
 
-> **Exam note:** Sink = reservoir/net absorber; sequestration = the storage process.
+> ** note:** Sink = reservoir/net absorber; sequestration = the storage process.
 
 ---
 
@@ -249,7 +247,7 @@ Options: A. Argon  B. CFC  C. Methane  D. Carbon dioxide
 
 The concept of 'carbon credit' originated from
 
-Options: A. Earth Summit Rio  B. Kyoto Protocol  C. Montreal Protocol  D. G-8 Summit
+Options: A. Earth Summit Rio B. Kyoto Protocol C. Montreal Protocol D. G-8 Summit
 
 <details><summary>Show answer</summary>
 
@@ -257,7 +255,7 @@ Options: A. Earth Summit Rio  B. Kyoto Protocol  C. Montreal Protocol  D. G-8 Su
 
 </details>
 
-> **Exam note:** Carbon credit ≠ Montreal (ozone) and ≠ Green Credit Programme.
+> ** note:** Carbon credit ≠ Montreal (ozone) and ≠ Green Credit Programme.
 
 ---
 
@@ -271,7 +269,7 @@ Options: A. Earth Summit Rio  B. Kyoto Protocol  C. Montreal Protocol  D. G-8 Su
 - India’s **Carbon Credit Trading Scheme (CCTS, 2023)** is under the **Energy Conservation Act** framework, with **BEE** as a key authority (Ministry of Power).
 - **PAT** trades **ESCerts** for energy efficiency — related market tool, **not** the same as carbon credits.
 
-> **Exam note:** Credit = unit; trading = market. Paris **Article 6** governs cooperative carbon markets.
+> ** note:** Credit = unit; trading = market. Paris **Article 6** governs cooperative carbon markets.
 
 ---
 
@@ -288,7 +286,7 @@ Options: A. Earth Summit Rio  B. Kyoto Protocol  C. Montreal Protocol  D. G-8 Su
 
 Which international agreement is related to climate change mitigation?
 
-Options: A. Montreal Protocol  B. Ramsar Convention  C. Kyoto Protocol  D. CITES
+Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
 
 <details><summary>Show answer</summary>
 
@@ -296,7 +294,7 @@ Options: A. Montreal Protocol  B. Ramsar Convention  C. Kyoto Protocol  D. CITES
 
 </details>
 
-> **Exam note:** Kyoto = climate. Montreal = ODS/ozone.
+> ** note:** Kyoto = climate. Montreal = ODS/ozone.
 
 ---
 
@@ -309,7 +307,7 @@ Options: A. Montreal Protocol  B. Ramsar Convention  C. Kyoto Protocol  D. CITES
 - India’s adaptation spine includes NAPCC missions on water, Himalaya, agriculture, and sustainable habitat, plus state action plans (SAPCC).
 - Adaptation does not replace mitigation — both are required.
 
-> **Exam note:** Adapt = adjust; mitigate = reduce.
+> ** note:** Adapt = adjust; mitigate = reduce.
 
 ---
 
@@ -319,7 +317,7 @@ Options: A. Montreal Protocol  B. Ramsar Convention  C. Kyoto Protocol  D. CITES
 
 - **MoEFCC** is the nodal ministry for climate policy and UNFCCC engagement.
 - **NAPCC (2008)** has **eight national missions** (solar, efficiency, water, Himalaya, Green India, agriculture, habitat, strategic knowledge).
-- **Updated NDC (2022):** **45%** emissions-intensity cut vs 2005 by 2030; **50%** non-fossil electricity capacity; **2.5–3 GtCO₂e** forest sink.
+- **Updated NDC (2022):45%** emissions-intensity cut vs 2005 by 2030; **50%** non-fossil electricity capacity; **2.5–3 GtCO₂e** forest sink.
 - **Net zero by 2070** announced at **COP-26 Glasgow (2021)**, with **500 GW** non-fossil capacity by 2030 as a related pledge.
 - **LiFE Mission** launched **June 2022**; idea floated at **COP-26**, not COP-25 Madrid.
 - Diplomacy vehicles: **International Solar Alliance**, **CDRI**.
@@ -328,7 +326,7 @@ Options: A. Montreal Protocol  B. Ramsar Convention  C. Kyoto Protocol  D. CITES
 
 LiFE: (1) launched June 2022 (2) idea at COP-25 Madrid
 
-Options: A. Only 2  B. Neither  C. Both  D. Only 1
+Options: A. Only 2 B. Neither C. Both D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -336,7 +334,7 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 
 </details>
 
-| Year | Lock |
+| Year | Fact |
 |------|------|
 | 2008 | NAPCC |
 | 2015 | Paris + first NDC + ISA |
@@ -344,7 +342,7 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 | 2022 | Updated NDC; LiFE launch |
 | 2023 | CCTS / Green Credit |
 
-> **Exam note:** India net zero = **2070**, not 2050.
+> ** note:** India net zero = **2070**, not 2050.
 
 ---
 
@@ -359,14 +357,14 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 - Special reports: **SR1.5 (2018)**, Ocean/Cryosphere (2019), Climate and Land (2019).
 - **AR4** shared the **2007 Nobel Peace Prize** with Al Gore.
 
-| Report | Year | Lock |
+| Report | Year | Fact |
 |--------|------|------|
 | AR1 | 1990 | Helped lead to UNFCCC |
 | AR4 | 2007 | Nobel year |
 | AR5 | 2014 | Informed Paris |
 | AR6 SYR | **2023** | Latest synthesis |
 
-> **Exam note:** IPCC ≠ UNFCCC ≠ UNEP Emissions Gap Report.
+> ** note:** IPCC ≠ UNFCCC ≠ UNEP Emissions Gap Report.
 
 ---
 
@@ -374,7 +372,7 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 
 **Q1.** Emissions Gap Report is published by:
 
-Options: A. UNEP  B. IPCC  C. WTO  D. RBI
+Options: A. UNEP B. IPCC C. WTO D. RBI
 
 <details><summary>Show answer</summary>
 
@@ -384,7 +382,7 @@ Options: A. UNEP  B. IPCC  C. WTO  D. RBI
 
 **Q2.** Climate change mitigation agreement among these:
 
-Options: A. Kyoto Protocol  B. Montreal Protocol  C. Ramsar  D. CITES
+Options: A. Kyoto Protocol B. Montreal Protocol C. Ramsar D. CITES
 
 <details><summary>Show answer</summary>
 
@@ -394,7 +392,7 @@ Options: A. Kyoto Protocol  B. Montreal Protocol  C. Ramsar  D. CITES
 
 **Q3.** Carbon credit concept originated from:
 
-Options: A. Kyoto Protocol  B. Montreal Protocol  C. CITES  D. Basel
+Options: A. Kyoto Protocol B. Montreal Protocol C. CITES D. Basel
 
 <details><summary>Show answer</summary>
 
@@ -404,7 +402,7 @@ Options: A. Kyoto Protocol  B. Montreal Protocol  C. CITES  D. Basel
 
 **Q4.** Which is NOT a GHG?
 
-Options: A. Argon  B. CO₂  C. CH₄  D. CFC
+Options: A. Argon B. CO₂ C. CH₄ D. CFC
 
 <details><summary>Show answer</summary>
 
@@ -414,7 +412,7 @@ Options: A. Argon  B. CO₂  C. CH₄  D. CFC
 
 **Q5.** One carbon credit equals:
 
-Options: A. 1 tCO₂e  B. 1 kg only  C. 1 hectare forest always  D. 1 litre petrol
+Options: A. 1 tCO₂e B. 1 kg only C. 1 hectare forest always D. 1 litre petrol
 
 <details><summary>Show answer</summary>
 
@@ -424,7 +422,7 @@ Options: A. 1 tCO₂e  B. 1 kg only  C. 1 hectare forest always  D. 1 litre petr
 
 **Q6.** India net zero target year:
 
-Options: A. 2070  B. 2030  C. 2050 only for India pledge  D. 1987
+Options: A. 2070 B. 2030 C. 2050 only for India pledge D. 1987
 
 <details><summary>Show answer</summary>
 
@@ -434,7 +432,7 @@ Options: A. 2070  B. 2030  C. 2050 only for India pledge  D. 1987
 
 **Q7.** LiFE idea was floated at:
 
-Options: A. COP-26  B. COP-25 Madrid  C. Montreal 1987  D. Ramsar 1971
+Options: A. COP-26 B. COP-25 Madrid C. Montreal 1987 D. Ramsar 1971
 
 <details><summary>Show answer</summary>
 
@@ -444,7 +442,7 @@ Options: A. COP-26  B. COP-25 Madrid  C. Montreal 1987  D. Ramsar 1971
 
 **Q8.** IPCC is mainly a:
 
-Options: A. Science assessment body  B. Treaty enforcement court  C. Carbon exchange  D. Ozone secretariat only
+Options: A. Science assessment body B. Treaty enforcement court C. Carbon exchange D. Ozone secretariat only
 
 <details><summary>Show answer</summary>
 
@@ -454,7 +452,7 @@ Options: A. Science assessment body  B. Treaty enforcement court  C. Carbon exch
 
 **Q9.** Keeling Curve measures:
 
-Options: A. Atmospheric CO₂ at Mauna Loa  B. Only ozone hole size  C. Only AQI in Delhi  D. Only sea ice in Arctic for fishing
+Options: A. Atmospheric CO₂ at Mauna Loa B. Only ozone hole size C. Only AQI in Delhi D. Only sea ice in Arctic for fishing
 
 <details><summary>Show answer</summary>
 
@@ -464,7 +462,7 @@ Options: A. Atmospheric CO₂ at Mauna Loa  B. Only ozone hole size  C. Only AQI
 
 **Q10.** NAPCC launched in:
 
-Options: A. 2008  B. 1997  C. 1987  D. 2015 only
+Options: A. 2008 B. 1997 C. 1987 D. 2015 only
 
 <details><summary>Show answer</summary>
 
@@ -474,7 +472,7 @@ Options: A. 2008  B. 1997  C. 1987  D. 2015 only
 
 **Q11.** Updated India NDC year:
 
-Options: A. 2022  B. 1992 only  C. 1972  D. 1730
+Options: A. 2022 B. 1992 only C. 1972 D. 1730
 
 <details><summary>Show answer</summary>
 
@@ -484,7 +482,7 @@ Options: A. 2022  B. 1992 only  C. 1972  D. 1730
 
 **Q12.** Mitigation means:
 
-Options: A. Cutting emissions / enhancing sinks  B. Only relocating cities after every flood  C. Only printing more reports  D. Only ozone hole chemistry
+Options: A. Cutting emissions / enhancing sinks B. Only relocating cities after every flood C. Only printing more reports D. Only ozone hole chemistry
 
 <details><summary>Show answer</summary>
 
@@ -494,7 +492,7 @@ Options: A. Cutting emissions / enhancing sinks  B. Only relocating cities after
 
 **Q13.** Adaptation means:
 
-Options: A. Adjusting to climate impacts  B. Only increasing coal plants  C. Only deleting IPCC  D. Only banning all forests
+Options: A. Adjusting to climate impacts B. Only increasing coal plants C. Only deleting IPCC D. Only banning all forests
 
 <details><summary>Show answer</summary>
 
@@ -504,7 +502,7 @@ Options: A. Adjusting to climate impacts  B. Only increasing coal plants  C. Onl
 
 **Q14.** Largest CO₂ emitter in 2015 among options:
 
-Options: A. China  B. India  C. France  D. Only Bhutan
+Options: A. China B. India C. France D. Only Bhutan
 
 <details><summary>Show answer</summary>
 
@@ -514,7 +512,7 @@ Options: A. China  B. India  C. France  D. Only Bhutan
 
 **Q15.** Montreal Protocol relates to:
 
-Options: A. Ozone / ODS  B. Climate carbon markets only  C. Wetlands only  D. Wildlife trade only
+Options: A. Ozone / ODS B. Climate carbon markets only C. Wetlands only D. Wildlife trade only
 
 <details><summary>Show answer</summary>
 
@@ -524,7 +522,7 @@ Options: A. Ozone / ODS  B. Climate carbon markets only  C. Wetlands only  D. Wi
 
 **Q16.** Carbon budget refers to:
 
-Options: A. Cumulative CO₂ limit for a temperature target  B. Only Union Budget speech  C. Only RBI cash reserve  D. Only state GST
+Options: A. Cumulative CO₂ limit for a temperature target B. Only Union Budget speech C. Only RBI cash reserve D. Only state GST
 
 <details><summary>Show answer</summary>
 
@@ -534,7 +532,7 @@ Options: A. Cumulative CO₂ limit for a temperature target  B. Only Union Budge
 
 **Q17.** Major natural carbon sinks include:
 
-Options: A. Forests and oceans  B. Only cement plants  C. Only petrol pumps  D. Only coal mines
+Options: A. Forests and oceans B. Only cement plants C. Only petrol pumps D. Only coal mines
 
 <details><summary>Show answer</summary>
 
@@ -544,7 +542,7 @@ Options: A. Forests and oceans  B. Only cement plants  C. Only petrol pumps  D. 
 
 **Q18.** AR6 Synthesis Report year:
 
-Options: A. 2023  B. 1990  C. 1987  D. 1971
+Options: A. 2023 B. 1990 C. 1987 D. 1971
 
 <details><summary>Show answer</summary>
 
@@ -554,7 +552,7 @@ Options: A. 2023  B. 1990  C. 1987  D. 1971
 
 **Q19.** CCTS in India is linked to:
 
-Options: A. Carbon Credit Trading Scheme 2023  B. Only CITES permits  C. Only Ramsar listing  D. Only Montreal Multilateral Fund
+Options: A. Carbon Credit Trading Scheme 2023 B. Only CITES permits C. Only Ramsar listing D. Only Montreal Multilateral Fund
 
 <details><summary>Show answer</summary>
 
@@ -564,7 +562,7 @@ Options: A. Carbon Credit Trading Scheme 2023  B. Only CITES permits  C. Only Ra
 
 **Q20.** Green Credit Programme 2023 is:
 
-Options: A. Broader eco-action credits ≠ identical to 1 tCO₂e carbon credit  B. Same as Montreal Protocol  C. Same as CITES  D. Same as Basel Ban
+Options: A. Broader eco-action credits ≠ identical to 1 tCO₂e carbon credit B. Same as Montreal Protocol C. Same as CITES D. Same as Basel Ban
 
 <details><summary>Show answer</summary>
 
@@ -574,7 +572,7 @@ Options: A. Broader eco-action credits ≠ identical to 1 tCO₂e carbon credit 
 
 **Q21.** Without natural greenhouse effect, Earth would be about:
 
-Options: A. −18°C  B. +15°C only  C. +100°C  D. 0 K exactly always
+Options: A. −18°C B. +15°C only C. +100°C D. 0 K exactly always
 
 <details><summary>Show answer</summary>
 
@@ -584,7 +582,7 @@ Options: A. −18°C  B. +15°C only  C. +100°C  D. 0 K exactly always
 
 **Q22.** HDR — WEO — WIR — Emissions Gap correct publishers:
 
-Options: A. UNDP, IMF, UNCTAD, UNEP  B. IPCC, WTO, RBI, FAO  C. UNEP, UNDP, IMF, WTO  D. UNCTAD, UNEP, IPCC, IMF
+Options: A. UNDP, IMF, UNCTAD, UNEP B. IPCC, WTO, RBI, FAO C. UNEP, UNDP, IMF, WTO D. UNCTAD, UNEP, IPCC, IMF
 
 <details><summary>Show answer</summary>
 
@@ -594,7 +592,7 @@ Options: A. UNDP, IMF, UNCTAD, UNEP  B. IPCC, WTO, RBI, FAO  C. UNEP, UNDP, IMF,
 
 **Q23.** PAT scheme trades mainly:
 
-Options: A. ESCerts (energy efficiency)  B. Only CERs automatically  C. Only ozone quotas  D. Only tiger skins
+Options: A. ESCerts (energy efficiency) B. Only CERs automatically C. Only ozone quotas D. Only tiger skins
 
 <details><summary>Show answer</summary>
 
@@ -604,7 +602,7 @@ Options: A. ESCerts (energy efficiency)  B. Only CERs automatically  C. Only ozo
 
 **Q24.** IPCC parent organisations:
 
-Options: A. WMO and UNEP  B. WTO and IMF  C. RBI and SEBI  D. FAO and WHO only
+Options: A. WMO and UNEP B. WTO and IMF C. RBI and SEBI D. FAO and WHO only
 
 <details><summary>Show answer</summary>
 
@@ -614,7 +612,7 @@ Options: A. WMO and UNEP  B. WTO and IMF  C. RBI and SEBI  D. FAO and WHO only
 
 **Q25.** India’s updated NDC non-fossil capacity target:
 
-Options: A. 50% by 2030  B. 5% by 2030  C. 100% by 2022  D. 0% by 2030
+Options: A. 50% by 2030 B. 5% by 2030 C. 100% by 2022 D. 0% by 2030
 
 <details><summary>Show answer</summary>
 
@@ -622,10 +620,10 @@ Options: A. 50% by 2030  B. 5% by 2030  C. 100% by 2022  D. 0% by 2030
 
 </details>
 
-**Q26.** Assertion (A): Emissions Gap Report is by UNEP.  
+**Q26.** Assertion (A): Emissions Gap Report is by UNEP.
 Reason (R): IPCC publishes it every year as a treaty.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -635,7 +633,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 **Q27.** Enhanced greenhouse effect is caused mainly by:
 
-Options: A. Extra anthropogenic GHGs  B. Only argon increase  C. Only helium balloons  D. Only Earth’s core cooling
+Options: A. Extra anthropogenic GHGs B. Only argon increase C. Only helium balloons D. Only Earth’s core cooling
 
 <details><summary>Show answer</summary>
 
@@ -645,7 +643,7 @@ Options: A. Extra anthropogenic GHGs  B. Only argon increase  C. Only helium bal
 
 **Q28.** LiFE launched in:
 
-Options: A. June 2022  B. June 1987  C. 1730  D. 1997 only
+Options: A. June 2022 B. June 1987 C. 1730 D. 1997 only
 
 <details><summary>Show answer</summary>
 
@@ -655,7 +653,7 @@ Options: A. June 2022  B. June 1987  C. 1730  D. 1997 only
 
 **Q29.** Carbon trading is:
 
-Options: A. Market exchange of credits/allowances  B. Only printing currency  C. Only planting without registry  D. Only ozone layer measurement
+Options: A. Market exchange of credits/allowances B. Only printing currency C. Only planting without registry D. Only ozone layer measurement
 
 <details><summary>Show answer</summary>
 
@@ -665,7 +663,7 @@ Options: A. Market exchange of credits/allowances  B. Only printing currency  C.
 
 **Q30.** Correct set:
 
-Options: A. Kyoto=climate mitigation; Emissions Gap=UNEP; credit=1 tCO₂e; India net zero=2070  B. Montreal=climate; Gap=IPCC; credit=1 kg; net zero=2030  C. Ramsar=carbon markets; Gap=WTO  D. CITES=NDC enforcement
+Options: A. Kyoto=climate mitigation; Emissions Gap=UNEP; credit=1 tCO₂e; India net zero=2070 B. Montreal=climate; Gap=IPCC; credit=1 kg; net zero=2030 C. Ramsar=carbon markets; Gap=WTO D. CITES=NDC enforcement
 
 <details><summary>Show answer</summary>
 
@@ -677,21 +675,9 @@ Options: A. Kyoto=climate mitigation; Emissions Gap=UNEP; credit=1 tCO₂e; Indi
 
 ## Complete PYQ Bank (Topic 34)
 
-**Q1. UPPCS 2024, Q6** — Emissions Gap Report = UNEP → **Ans: A (3 1 4 2)**
+**Q1. UPPCS 2024, Q6** — Emissions Gap Report = UNEP → **Ans: A (3 1 4 2)Q2. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: CQ3. UPPCS 2023, Q109** — India GHG rank option **10th** → **Ans: B** (≠ absolute ~3rd)
 
-**Q2. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: C**
-
-**Q3. UPPCS 2023, Q109** — India GHG rank option **10th** → **Ans: B** (≠ absolute ~3rd)
-
-**Q4. UPPCS 2022, Q102** — Argon ≠ GHG → **Ans: A**
-
-**Q5. UPPCS 2021, Q125** — Carbon credit from Kyoto → **Ans: B**
-
-**Q6. UPPCS 2018, Q132** — Largest CO₂ emitter 2015 = China → **Ans: A**
-
-**Q7. UPPCS 2025, Q139** — LiFE June 2022; not COP-25 → **Ans: D**
-
-**Q8. Pattern** — IPCC = science; UNFCCC = treaty
+**Q4. UPPCS 2022, Q102** — Argon ≠ GHG → **Ans: AQ5. UPPCS 2021, Q125** — Carbon credit from Kyoto → **Ans: BQ6. UPPCS 2018, Q132** — Largest CO₂ emitter 2015 = China → **Ans: AQ7. UPPCS 2025, Q139** — LiFE June 2022; not COP-25 → **Ans: DQ8. Pattern** — IPCC = science; UNFCCC = treaty
 
 **Q9. Pattern** — 1 carbon credit = 1 tCO₂e
 
@@ -701,7 +687,7 @@ Options: A. Kyoto=climate mitigation; Emissions Gap=UNEP; credit=1 tCO₂e; Indi
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Emissions Gap = IPCC | **UNEP** |
 | Montreal = climate mitigation | **Ozone**; Kyoto = climate |
@@ -750,11 +736,11 @@ Options: A. Kyoto=climate mitigation; Emissions Gap=UNEP; credit=1 tCO₂e; Indi
 
 ### Topic boundaries
 
-- **Basics of warming/GH effect/impacts** — Topic 10  
-- **Gas-by-gas GHG chemistry** — Topic 37  
-- **Atmosphere layers** — Topic 35  
-- **Ozone / Montreal depth** — Topic 36 / 11  
-- **LiFE awareness framing** — also Topic 30/24  
+- **Basics of warming/GH effect/impacts** — Topic 10
+- **Gas-by-gas GHG chemistry** — Topic 37
+- **Atmosphere layers** — Topic 35
+- **Ozone / Montreal depth** — Topic 36 / 11
+- **LiFE awareness framing** — also Topic 30/24
 
 ### PYQ audit
 

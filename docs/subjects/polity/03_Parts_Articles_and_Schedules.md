@@ -8,14 +8,14 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 </details>
 
-> **Sources baked in:** Laxmikanth, Constitution of India text, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — Part↔Subject NOT matched; Article↔subject; Schedule↔Subject; 8th Schedule languages; 11th=29 / 12th=18; Concurrent List items; 371-series States  
-> **Last verified:** August 2026  
+> **Sources baked in:** Laxmikanth, Constitution of India text, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — Part↔Subject NOT matched; Article↔subject; Schedule↔Subject; 8th Schedule languages; 11th=29 / 12th=18; Concurrent List items; 371-series States
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (static structure) — watch only if a new language is added to 8th Schedule
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. The Constitution is organised into **Parts**. Originally there were **22 Parts**; today there are about **25 Parts** (including IVA, IXA, IXB, XIVA). **Part VII** stands **repealed**.
 2. **Part III** is **Fundamental Rights** (justiciable). **Part IV** is **DPSP** (non-justiciable). **Part IVA** is **Fundamental Duties**.
@@ -23,7 +23,7 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 4. **Part XI** is **Relations between the Union and the States**. **Part XIVA** is **Tribunals**. Confusing XI with Municipalities or Tribunals is a classic wrong-match trap.
 5. **Part V** is the Union; **Part VI** is the States; **Part VIII** is Union Territories; **Part X** is Scheduled and Tribal Areas; **Part XV** is Elections; **Part XVII** is Official Language; **Part XVIII** is Emergency; **Part XX** is Amendment; **Part XXI** holds temporary, transitional and special provisions (**371–371J**).
 6. The **Attorney General** sits under **Part V**, not under **Part XIII** (Trade, Commerce and Intercourse). Citizenship sits in **Part II**, not Part I.
-7. Schedule locks: **First** = territories of States and UTs; **Second** = emoluments; **Third** = oaths and affirmations; **Fourth** = Rajya Sabha seat allocation.
+7. Schedule facts: **First** = territories of States and UTs; **Second** = emoluments; **Third** = oaths and affirmations; **Fourth** = Rajya Sabha seat allocation.
 8. **Fifth Schedule** covers Scheduled Areas and Scheduled Tribes in many States. **Sixth Schedule** covers tribal areas of **Assam, Meghalaya, Tripura and Mizoram** with Autonomous Councils.
 9. **Seventh Schedule** holds the Union, State and Concurrent Lists under **Article 246**. **Eighth Schedule** lists **22** official languages.
 10. **Ninth Schedule** validates certain Acts (land-reform era protection, later limited by court review). **Tenth Schedule** is anti-defection.
@@ -32,7 +32,7 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 13. **Article 1** declares India a **Union of States**. **Article 3** lets Parliament form or alter States (name, area, boundaries). **Article 12** defines **State** for Fundamental Rights. **Article 13** voids inconsistent laws.
 14. Equality cluster: **Articles 14–18**. Freedom cluster: **Article 19**’s **six** freedoms. Life and personal liberty: **Article 21**. Free and compulsory education ages **6–14**: **Article 21A**.
 15. **Article 32** is the Supreme Court remedy for Fundamental Rights. **Article 226** is the High Court’s wider writ power. **Article 51A** holds Fundamental Duties.
-16. Pardon locks: **Article 72** (President) and **Article 161** (Governor). Ordinance locks: **Article 123** (President) and **Article 213** (Governor).
+16. Pardon facts: **Article 72** (President) and **Article 161** (Governor). Ordinance facts: **Article 123** (President) and **Article 213** (Governor).
 17. Union executive articles: **74** (aid and advice), **75** (Council of Ministers), **76** (Attorney General). **Article 110** defines a Money Bill. **Article 148** is the CAG.
 18. **Article 263** is the Inter-State Council. **Article 280** is the Finance Commission. **Article 300A** is the legal right to property. **Article 312** enables All-India Services. **Article 324** is the Election Commission.
 19. Emergency articles: **352** (national), **356** (State / President’s Rule), **360** (financial). **Article 368** is amendment of the Constitution.
@@ -48,9 +48,9 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Part III | Part IV | FR justiciable vs DPSP non-justiciable | मौलिक अधिकार / नीति निर्देशक |
 | Part IV | Part IVA | DPSP vs Fundamental Duties | — |
@@ -103,7 +103,7 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 | **XXI** | Temporary, Transitional and Special Provisions (Arts. 371–371J; ex-370 teaching) |
 | **XXII** | Short Title, Commencement, Authoritative Text, Repeals |
 
-### High-yield Part locks
+### High-yield Part facts
 - **III** = FR · **IV** = DPSP · **IVA** = Duties (42nd Amendment)
 - **IX / IXA / IXB** = Panchayats / Municipalities / Cooperatives
 - **X** = Scheduled & Tribal Areas · **XI** = Union–State relations
@@ -114,13 +114,13 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 Which pairs of Parts and subjects are NOT correctly matched?
 
-1. Part IVA — Fundamental Duties  
-2. Part VI — States  
-3. Part XI — Municipalities  
+1. Part IVA — Fundamental Duties
+2. Part VI — States
+3. Part XI — Municipalities
 
-A. 1 and 2  
-B. Only 3  
-C. 2 and 3  
+A. 1 and 2
+B. Only 3
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -134,9 +134,9 @@ D. Only 1
 
 Which (Provision — Part) is NOT correctly matched?
 
-A. UTs — Part VIII  
-B. Scheduled and Tribal Areas — Part X  
-C. Tribunals — Part XI  
+A. UTs — Part VIII
+B. Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
 D. Official Language — Part XVII
 
 <details>
@@ -150,9 +150,9 @@ D. Official Language — Part XVII
 
 Which is NOT correctly matched?
 
-A. Fundamental Duties — Part IVA  
-B. The States — Part VI  
-C. Attorney General — Part XIII  
+A. Fundamental Duties — Part IVA
+B. The States — Part VI
+C. Attorney General — Part XIII
 D. Services — Part XIV
 
 <details>
@@ -166,9 +166,9 @@ D. Services — Part XIV
 
 In which Part of the Constitution of India do we find the provisions relating to citizenship?
 
-A. Part I  
-B. Part II  
-C. Part VII  
+A. Part I
+B. Part II
+C. Part VII
 D. Part IX
 
 <details>
@@ -182,7 +182,7 @@ D. Part IX
 
 ## Important Parts (syllabus set — elaborated)
 
-| Part | Articles | What it contains (exam) |
+| Part | Articles | What it contains () |
 |------|----------|-------------------------|
 | **III** | **12–35** | Fundamental Rights — justiciable; Art. 32 “heart and soul” (Ambedkar) |
 | **IV** | **36–51** | DPSP — **not** justiciable; fundamental in governance (Art. 37) |
@@ -200,7 +200,7 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 
 ## Important Articles — number · subject · elaboration
 
-*Column 2 = matching label. Column 3 = exam lock (numbers, firsts, traps). Deep FR/Emergency chapters still come later.*
+*Column 2 = matching label. Column 3 = key fact (numbers, firsts, traps). Deep FR/Emergency chapters still come later.*
 
 ### Part I–II — Union, Territory, Citizenship
 
@@ -316,7 +316,7 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 | **154** | Executive power of State | Vested in the Governor. |
 | **155** | Appointment of Governor | By **President** by warrant under his hand and seal. |
 | **156** | Term of Governor | **5 years**; holds office **during the pleasure of the President**. |
-| **161** | Governor’s pardoning power | For offences against **State law**. **Cannot** pardon death sentence in the sense of 72’s exclusive Union/death/court-martial sweep — death sentence: Governor may commute/remit; **pardon of death** is with President under 72. Exam lock: **no court-martial; no Union-law offences**. |
+| **161** | Governor’s pardoning power | For offences against **State law**. **Cannot** pardon death sentence in the sense of 72’s exclusive Union/death/court-martial sweep — death sentence: Governor may commute/remit; **pardon of death** is with President under 72. Key fact: **no court-martial; no Union-law offences**. |
 | **163** | CoM to aid and advise Governor | Except functions to be exercised in **discretion** (e.g. some 6th Schedule / 371 / reservation of Bills). |
 | **164** | State Council of Ministers | CM appointed by Governor; other ministers on CM’s advice. Collective responsibility to **Legislative Assembly**. Tribal welfare minister in Chhattisgarh, Jharkhand, Madhya Pradesh, Odisha. |
 | **167** | Duties of Chief Minister | Parallel to Art. 78 — communicate, inform, submit for CoM consideration. |
@@ -363,7 +363,7 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 | **311** | Dismissal, removal, reduction in rank | No dismissal by authority subordinate to appointing authority; reasonable opportunity of hearing — with exceptions (conviction, impracticable, security of State). |
 | **312** | All-India Services | Rajya Sabha resolution (**2/3 present and voting**) → Parliament may create new AIS. IAS, IPS, IFS (Forest). |
 | **315** | Public Service Commissions | UPSC for Union; SPSC for State; Joint SPSC possible. |
-| **320** | Functions of PSCs | Conduct exams; consulted on recruitment, promotions, disciplinary matters (exceptions by regulations). |
+| **320** | Functions of PSCs | Conduct papers; consulted on recruitment, promotions, disciplinary matters (exceptions by regulations). |
 | **323A** | Administrative tribunals | Parliament may set up CAT/SATs for Union/State service disputes. **Part XIVA (42nd)**. |
 | **323B** | Tribunals for other matters | Tax, foreign exchange, industrial/labour, land reforms, urban ceiling, elections to Legislature, etc. |
 | **324** | Superintendence of elections | **Election Commission** — President, VP, Parliament, State Legislatures. CEC + ECs; CEC removed like SC judge. |
@@ -404,7 +404,7 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 | **371I** | **Goa** | Legislative Assembly of Goa shall consist of **not less than 30 members**. |
 | **371J** | **Karnataka** | Special provision for **Hyderabad-Karnataka / Kalyana-Karnataka** region — development board, equitable funds, local reservation in education/posts. |
 
-> **Match traps:** **32 vs 226** · **72 vs 161** · **123 vs 213** · **54 vs 66** (President: MPs+MLAs; VP: Parliament only) · **352 vs 356 vs 360** · Art. **4** ≠ Art. **368** · **371I Goa** vs **371J Karnataka**.
+> **Match traps:32 vs 226** · **72 vs 161** · **123 vs 213** · **54 vs 66** (President: MPs+MLAs; VP: Parliament only) · **352 vs 356 vs 360** · Art. **4** ≠ Art. **368** · **371I Goa** vs **371J Karnataka**.
 
 ---
 
@@ -431,9 +431,9 @@ Originally **8 Schedules** (1950); now **12**.
 
 Which Schedule—Subject pair is NOT correctly matched?
 
-A. Third — Oaths  
-B. Eighth — Languages  
-C. Ninth — Allocation of seats in Council of States  
+A. Third — Oaths
+B. Eighth — Languages
+C. Ninth — Allocation of seats in Council of States
 D. Tenth — Defection
 
 <details>
@@ -447,21 +447,21 @@ D. Tenth — Defection
 
 Match List-I with List-II:
 
-**List-I (Schedule)**  
-A. Third Schedule  
-B. Fourth Schedule  
-C. Seventh Schedule  
-D. Eighth Schedule  
+**List-I (Schedule)**
+A. Third Schedule
+B. Fourth Schedule
+C. Seventh Schedule
+D. Eighth Schedule
 
-**List-II (Subject)**  
-1. Allocation of seats in Rajya Sabha  
-2. Forms of Oaths or Affirmations  
-3. Languages  
-4. Union / State / Concurrent Lists  
+**List-II (Subject)**
+1. Allocation of seats in Rajya Sabha
+2. Forms of Oaths or Affirmations
+3. Languages
+4. Union / State / Concurrent Lists
 
-A. A-4, B-3, C-1, D-2  
-B. A-3, B-4, C-2, D-1  
-C. A-2, B-1, C-4, D-3  
+A. A-4, B-3, C-1, D-2
+B. A-3, B-4, C-2, D-1
+C. A-2, B-1, C-4, D-3
 D. A-1, B-2, C-3, D-4
 
 <details>
@@ -475,9 +475,9 @@ D. A-1, B-2, C-3, D-4
 
 Which of the following is NOT correctly matched?
 
-A. Public Health and Sanitation — State List  
-B. Census — Union List  
-C. Allocation of seats in Council of States — Second Schedule  
+A. Public Health and Sanitation — State List
+B. Census — Union List
+C. Allocation of seats in Council of States — Second Schedule
 D. Anti-Defection — Tenth Schedule
 
 <details>
@@ -511,9 +511,9 @@ Match List-I with List-II and select the correct answer using the code given bel
 
 > Note: Row order in the tables is **not** the answer.
 
-A. 3, 1, 2, 4  
-B. 3, 1, 4, 2  
-C. 2, 3, 4, 1  
+A. 3, 1, 2, 4
+B. 3, 1, 4, 2
+C. 2, 3, 4, 1
 D. 4, 2, 1, 3
 
 <details>
@@ -560,9 +560,9 @@ D. 4, 2, 1, 3
 
 Sixth Schedule is applicable in which of the following States?
 
-A. Tripura  
-B. Sikkim  
-C. Nagaland  
+A. Tripura
+B. Sikkim
+C. Nagaland
 D. All of the above
 
 <details>
@@ -591,7 +591,7 @@ D. All of the above
 ### 42nd Amendment — 5 subjects State → Concurrent
 **Education · Forests · Protection of wild animals & birds · Weights & measures · Administration of justice** (constitution/organisation of courts except SC/HC).
 
-### Exam-tested list items
+### -tested list items
 | Item | List |
 |------|------|
 | Census | **Union** |
@@ -609,13 +609,13 @@ D. All of the above
 
 Which of the following is/are included in the Concurrent List?
 
-1. Trade and Commerce  
-2. Adulteration of Goods  
-3. Succession  
+1. Trade and Commerce
+2. Adulteration of Goods
+3. Succession
 
-A. 1 and 3  
-B. 1, 2 and 3  
-C. Only 1  
+A. 1 and 3
+B. 1, 2 and 3
+C. Only 1
 D. 2 and 3
 
 <details>
@@ -633,7 +633,7 @@ D. 2 and 3
 
 **Original 14 (1950):** Assamese, Bengali, Gujarati, Hindi, Kannada, Kashmiri, Malayalam, Marathi, Odia, Punjabi, Sanskrit, Tamil, Telugu, Urdu.
 
-### How the number grew (exam locks)
+### How the number grew (key facts)
 - Original: **14** (1950).
 - **Sindhi** — **21st Amendment (1967)** → 15.
 - **Konkani, Manipuri, Nepali** — **71st Amendment (1992)** → 18.
@@ -646,14 +646,14 @@ D. 2 and 3
 
 Which language(s) is/are NOT included in the Eighth Schedule?
 
-1. Nepali  
-2. Dogri  
-3. Bodo  
-4. Bhojpuri  
+1. Nepali
+2. Dogri
+3. Bodo
+4. Bhojpuri
 
-A. 1 and 2  
-B. Only 4  
-C. 3 and 4  
+A. 1 and 2
+B. Only 4
+C. 3 and 4
 D. Only 1
 
 <details>
@@ -699,9 +699,9 @@ Urban planning · Regulation of land-use & building construction · Economic & s
 
 How many items are there in the 11th Schedule of the Constitution of India?
 
-A. 22  
-B. 24  
-C. 29  
+A. 22
+B. 24
+C. 29
 D. 32
 
 <details>
@@ -715,13 +715,13 @@ D. 32
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **48 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden.48 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
 
 **Q1.** In which Part of the Constitution of India do we find the provisions relating to citizenship?
 
-A. Part I  
-B. Part II  
-C. Part III  
+A. Part I
+B. Part II
+C. Part III
 D. Part IX
 
 <details>
@@ -740,9 +740,9 @@ D. Part IX
 
 Which of the pairs given above is/are **NOT** correctly matched?
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
 D. 1 only
 
 <details>
@@ -753,9 +753,9 @@ D. 1 only
 
 **Q3.** With reference to the Constitution of India, municipalities are provided for in:
 
-A. Part IX  
-B. Part IXA  
-C. Part XI  
+A. Part IX
+B. Part IXA
+C. Part XI
 D. Part XIVA
 
 <details>
@@ -766,22 +766,22 @@ D. Part XIVA
 
 **Q4.** Which one of the following (Provision — Part of the Constitution) is **NOT** correctly matched?
 
-A. The Union Territories — Part VIII  
-B. The Scheduled and Tribal Areas — Part X  
-C. Tribunals — Part XI  
+A. The Union Territories — Part VIII
+B. The Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
 D. Official Language — Part XVII
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Tribunals = **Part XIVA**. Part XI is Union–State relations. (UPPCS 2023 Q1)
+**Ans: C** — Tribunals = **Part XIVA**. Part XI is Union–State relations.
 </details>
 
 **Q5.** Provisions relating to relations between the Union and the States are contained in:
 
-A. Part X  
-B. Part XI  
-C. Part XII  
+A. Part X
+B. Part XI
+C. Part XII
 D. Part XIII
 
 <details>
@@ -792,9 +792,9 @@ D. Part XIII
 
 **Q6.** Emergency Provisions of the Constitution are placed in:
 
-A. Part XV  
-B. Part XVII  
-C. Part XVIII  
+A. Part XV
+B. Part XVII
+C. Part XVIII
 D. Part XX
 
 <details>
@@ -805,22 +805,22 @@ D. Part XX
 
 **Q7.** Which one of the following is **NOT** correctly matched?
 
-A. Fundamental Duties — Part IVA  
-B. The States — Part VI  
-C. Attorney-General — Part XIII  
+A. Fundamental Duties — Part IVA
+B. The States — Part VI
+C. Attorney-General — Part XIII
 D. Services under the Union and the States — Part XIV
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Attorney-General is under **Part V** (Art. 76). Part XIII = Trade, Commerce and Intercourse. (UPPCS 2020 Q110)
+**Ans: C** — Attorney-General is under **Part V** (Art. 76). Part XIII = Trade, Commerce and Intercourse.
 </details>
 
 **Q8.** Forms of Oaths or Affirmations for Union and State Ministers, MPs, MLAs and Judges are contained in the:
 
-A. Second Schedule  
-B. Third Schedule  
-C. Fourth Schedule  
+A. Second Schedule
+B. Third Schedule
+C. Fourth Schedule
 D. Fifth Schedule
 
 <details>
@@ -831,9 +831,9 @@ D. Fifth Schedule
 
 **Q9.** Allocation of seats in the Council of States (Rajya Sabha) to States and Union Territories is provided in the:
 
-A. Second Schedule  
-B. Third Schedule  
-C. Fourth Schedule  
+A. Second Schedule
+B. Third Schedule
+C. Fourth Schedule
 D. Ninth Schedule
 
 <details>
@@ -844,9 +844,9 @@ D. Ninth Schedule
 
 **Q10.** The anti-defection provisions of the Constitution are contained in the:
 
-A. Eighth Schedule  
-B. Ninth Schedule  
-C. Tenth Schedule  
+A. Eighth Schedule
+B. Ninth Schedule
+C. Tenth Schedule
 D. Eleventh Schedule
 
 <details>
@@ -857,9 +857,9 @@ D. Eleventh Schedule
 
 **Q11.** The Ninth Schedule was added to the Constitution by the:
 
-A. First Constitutional Amendment  
-B. Forty-second Constitutional Amendment  
-C. Forty-fourth Constitutional Amendment  
+A. First Constitutional Amendment
+B. Forty-second Constitutional Amendment
+C. Forty-fourth Constitutional Amendment
 D. Fifty-second Constitutional Amendment
 
 <details>
@@ -870,9 +870,9 @@ D. Fifty-second Constitutional Amendment
 
 **Q12.** The Tenth Schedule was added to the Constitution by the:
 
-A. First Constitutional Amendment  
-B. Forty-second Constitutional Amendment  
-C. Fifty-second Constitutional Amendment  
+A. First Constitutional Amendment
+B. Forty-second Constitutional Amendment
+C. Fifty-second Constitutional Amendment
 D. Seventy-third Constitutional Amendment
 
 <details>
@@ -883,22 +883,22 @@ D. Seventy-third Constitutional Amendment
 
 **Q13.** How many items are there in the Eleventh Schedule of the Constitution of India?
 
-A. 22  
-B. 24  
-C. 29  
+A. 22
+B. 24
+C. 29
 D. 32
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — 29** (Panchayats; Art. 243G; 73rd Amendment). (UPPCS 2019 Q29)
+**Ans: C — 29** (Panchayats; Art. 243G; 73rd Amendment).
 </details>
 
 **Q14.** The Twelfth Schedule of the Constitution contains how many subjects for municipalities?
 
-A. 12  
-B. 18  
-C. 22  
+A. 12
+B. 18
+C. 22
 D. 29
 
 <details>
@@ -909,22 +909,22 @@ D. 29
 
 **Q15.** The Sixth Schedule of the Constitution is applicable in which of the following States?
 
-A. Tripura  
-B. Sikkim  
-C. Nagaland  
+A. Tripura
+B. Sikkim
+C. Nagaland
 D. All of the above
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Sixth Schedule = tribal areas of **Assam, Meghalaya, Tripura, Mizoram (AMTM)** only. Not Nagaland or Sikkim. (UPPCS 2019 Q31)
+**Ans: A** — Sixth Schedule = tribal areas of **Assam, Meghalaya, Tripura, Mizoram (AMTM)** only. Not Nagaland or Sikkim.
 </details>
 
 **Q16.** How many languages are presently included in the Eighth Schedule of the Constitution?
 
-A. 18  
-B. 20  
-C. 22  
+A. 18
+B. 20
+C. 22
 D. 24
 
 <details>
@@ -935,29 +935,29 @@ D. 24
 
 **Q17.** Which of the following language(s) is/are **NOT** included in the Eighth Schedule?
 
-1. Nepali  
-2. Dogri  
-3. Bodo  
-4. Bhojpuri  
+1. Nepali
+2. Dogri
+3. Bodo
+4. Bhojpuri
 
 Select the correct answer using the code given below:
 
-A. 1 and 2 only  
-B. 4 only  
-C. 3 and 4 only  
+A. 1 and 2 only
+B. 4 only
+C. 3 and 4 only
 D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — **Bhojpuri** is not in the Eighth Schedule. Nepali, Dogri and Bodo are included. (UPPCS 2025 Q102)
+**Ans: B** — **Bhojpuri** is not in the Eighth Schedule. Nepali, Dogri and Bodo are included.
 </details>
 
 **Q18.** ‘Census’ as a subject of legislation is included in the:
 
-A. Union List  
-B. State List  
-C. Concurrent List  
+A. Union List
+B. State List
+C. Concurrent List
 D. Residuary field only by convention
 
 <details>
@@ -968,9 +968,9 @@ D. Residuary field only by convention
 
 **Q19.** ‘Public Health and Sanitation’ is a subject in the:
 
-A. Union List  
-B. State List  
-C. Concurrent List  
+A. Union List
+B. State List
+C. Concurrent List
 D. Twelfth Schedule only, and not in the Seventh Schedule
 
 <details>
@@ -981,28 +981,28 @@ D. Twelfth Schedule only, and not in the Seventh Schedule
 
 **Q20.** Which of the following is/are included in the Concurrent List of the Seventh Schedule?
 
-1. Trade and Commerce  
-2. Adulteration of goods  
-3. Succession  
+1. Trade and Commerce
+2. Adulteration of goods
+3. Succession
 
 Select the correct answer using the code given below:
 
-A. 1 and 3 only  
-B. 1, 2 and 3  
-C. 1 only  
+A. 1 and 3 only
+B. 1, 2 and 3
+C. 1 only
 D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Adulteration of goods and succession are Concurrent. Unqualified “Trade and Commerce” is **not** treated as Concurrent as a whole (Union/State split). (UPPCS 2024 Q143)
+**Ans: D** — Adulteration of goods and succession are Concurrent. Unqualified “Trade and Commerce” is **not** treated as Concurrent as a whole (Union/State split).
 </details>
 
 **Q21.** Part IXB of the Constitution deals with:
 
-A. The Panchayats  
-B. The Municipalities  
-C. The Cooperative Societies  
+A. The Panchayats
+B. The Municipalities
+C. The Cooperative Societies
 D. Tribunals
 
 <details>
@@ -1013,9 +1013,9 @@ D. Tribunals
 
 **Q22.** Provisions relating to Official Language are contained in:
 
-A. Part XV  
-B. Part XVI  
-C. Part XVII  
+A. Part XV
+B. Part XVI
+C. Part XVII
 D. Part XVIII
 
 <details>
@@ -1026,9 +1026,9 @@ D. Part XVIII
 
 **Q23.** The Second Schedule of the Constitution deals with:
 
-A. Forms of Oaths or Affirmations  
-B. Emoluments, allowances and privileges of certain constitutional functionaries  
-C. Allocation of seats in the Rajya Sabha  
+A. Forms of Oaths or Affirmations
+B. Emoluments, allowances and privileges of certain constitutional functionaries
+C. Allocation of seats in the Rajya Sabha
 D. Recognised languages
 
 <details>
@@ -1039,9 +1039,9 @@ D. Recognised languages
 
 **Q24.** The First Schedule of the Constitution contains:
 
-A. Forms of Oaths or Affirmations  
-B. Languages recognised by the Constitution  
-C. Names and territorial extent of States and Union Territories  
+A. Forms of Oaths or Affirmations
+B. Languages recognised by the Constitution
+C. Names and territorial extent of States and Union Territories
 D. Anti-defection provisions
 
 <details>
@@ -1072,9 +1072,9 @@ D. Anti-defection provisions
 
 > Note: Row order in the tables is **not** the answer.
 
-A. 3, 1, 2, 4  
-B. 3, 1, 4, 2  
-C. 2, 3, 4, 1  
+A. 3, 1, 2, 4
+B. 3, 1, 4, 2
+C. 2, 3, 4, 1
 D. 4, 2, 1, 3
 
 <details>
@@ -1085,9 +1085,9 @@ D. 4, 2, 1, 3
 
 **Q26.** Article 368 (power of Parliament to amend the Constitution) is contained in:
 
-A. Part XVIII  
-B. Part XIX  
-C. Part XX  
+A. Part XVIII
+B. Part XIX
+C. Part XX
 D. Part XXI
 
 <details>
@@ -1098,9 +1098,9 @@ D. Part XXI
 
 **Q27.** Article 324 of the Constitution relates to:
 
-A. The Supreme Court  
-B. Superintendence, direction and control of elections by the Election Commission  
-C. The Comptroller and Auditor-General  
+A. The Supreme Court
+B. Superintendence, direction and control of elections by the Election Commission
+C. The Comptroller and Auditor-General
 D. The Union Public Service Commission
 
 <details>
@@ -1111,9 +1111,9 @@ D. The Union Public Service Commission
 
 **Q28.** Article 32 (constitutional remedies) is placed in:
 
-A. Part II  
-B. Part III  
-C. Part IV  
+A. Part II
+B. Part III
+C. Part IV
 D. Part IVA
 
 <details>
@@ -1124,9 +1124,9 @@ D. Part IVA
 
 **Q29.** Sindhi was added to the Eighth Schedule by which Constitutional Amendment?
 
-A. 21st Amendment  
-B. 71st Amendment  
-C. 92nd Amendment  
+A. 21st Amendment
+B. 71st Amendment
+C. 92nd Amendment
 D. 42nd Amendment
 
 <details>
@@ -1137,9 +1137,9 @@ D. 42nd Amendment
 
 **Q30.** Bodo, Dogri, Maithili and Santhali were added to the Eighth Schedule by the:
 
-A. 71st Constitutional Amendment  
-B. 92nd Constitutional Amendment  
-C. 21st Constitutional Amendment  
+A. 71st Constitutional Amendment
+B. 92nd Constitutional Amendment
+C. 21st Constitutional Amendment
 D. First Constitutional Amendment
 
 <details>
@@ -1150,9 +1150,9 @@ D. First Constitutional Amendment
 
 **Q31.** The provision “India, that is Bharat, shall be a Union of States” is contained in:
 
-A. Article 1  
-B. Article 2  
-C. Article 3  
+A. Article 1
+B. Article 2
+C. Article 3
 D. Article 4
 
 <details>
@@ -1163,9 +1163,9 @@ D. Article 4
 
 **Q32.** Parliament may form a new State and alter the area, boundaries or name of an existing State under:
 
-A. Article 1  
-B. Article 2  
-C. Article 3  
+A. Article 1
+B. Article 2
+C. Article 3
 D. Article 368
 
 <details>
@@ -1176,9 +1176,9 @@ D. Article 368
 
 **Q33.** The Right to Education for children in the age group of 6–14 years is provided in:
 
-A. Article 21  
-B. Article 21A  
-C. Article 45  
+A. Article 21
+B. Article 21A
+C. Article 45
 D. Article 51A only
 
 <details>
@@ -1189,14 +1189,14 @@ D. Article 51A only
 
 **Q34.** Consider the following statements:
 
-1. Writs under Article 32 lie in the Supreme Court for the enforcement of Fundamental Rights.  
+1. Writs under Article 32 lie in the Supreme Court for the enforcement of Fundamental Rights.
 2. The writ jurisdiction of High Courts under Article 226 is wider than that of the Supreme Court under Article 32.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1207,9 +1207,9 @@ D. Neither 1 nor 2
 
 **Q35.** The Directive Principle relating to a Uniform Civil Code is contained in:
 
-A. Article 40  
-B. Article 44  
-C. Article 46  
+A. Article 40
+B. Article 44
+C. Article 46
 D. Article 50
 
 <details>
@@ -1220,9 +1220,9 @@ D. Article 50
 
 **Q36.** The Finance Commission is provided for in:
 
-A. Article 263  
-B. Article 266  
-C. Article 280  
+A. Article 263
+B. Article 266
+C. Article 280
 D. Article 312
 
 <details>
@@ -1233,9 +1233,9 @@ D. Article 312
 
 **Q37.** Which one of the following pairs is **NOT** correctly matched?
 
-A. Article 371A — Nagaland  
-B. Article 371F — Sikkim  
-C. Article 371J — Goa  
+A. Article 371A — Nagaland
+B. Article 371F — Sikkim
+C. Article 371J — Goa
 D. Article 371H — Arunachal Pradesh
 
 <details>
@@ -1246,9 +1246,9 @@ D. Article 371H — Arunachal Pradesh
 
 **Q38.** The oath or affirmation of the President of India is provided in:
 
-A. The Third Schedule  
-B. Article 60  
-C. The Second Schedule  
+A. The Third Schedule
+B. Article 60
+C. The Second Schedule
 D. Article 61
 
 <details>
@@ -1259,14 +1259,14 @@ D. Article 61
 
 **Q39.** Consider the following statements:
 
-1. The Fifth Schedule deals with Scheduled Areas and Scheduled Tribes in States other than those under the Sixth Schedule.  
+1. The Fifth Schedule deals with Scheduled Areas and Scheduled Tribes in States other than those under the Sixth Schedule.
 2. The Sixth Schedule provides for Autonomous District Councils in Assam, Meghalaya, Tripura and Mizoram.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1277,14 +1277,14 @@ D. Neither 1 nor 2
 
 **Q40.** Consider the following statements:
 
-1. Residuary powers of legislation vest in the States.  
+1. Residuary powers of legislation vest in the States.
 2. After the 42nd Constitutional Amendment, Education is in the Concurrent List.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1315,9 +1315,9 @@ D. Neither 1 nor 2
 
 > Note: Row order in the tables is **not** the answer.
 
-A. A-3, B-1, C-4, D-2  
-B. A-1, B-3, C-4, D-2  
-C. A-3, B-4, C-1, D-2  
+A. A-3, B-1, C-4, D-2
+B. A-1, B-3, C-4, D-2
+C. A-3, B-4, C-1, D-2
 D. A-3, B-1, C-2, D-4
 
 <details>
@@ -1326,13 +1326,13 @@ D. A-3, B-1, C-2, D-4
 **Ans: A**
 </details>
 
-**Q42.** Assertion (A): Laws placed in the Ninth Schedule after 24 April 1973 can be tested on the ground of Basic Structure.  
+**Q42.** Assertion (A): Laws placed in the Ninth Schedule after 24 April 1973 can be tested on the ground of Basic Structure.
 
 Reason (R): The Supreme Court in *I.R. Coelho* held that the Ninth Schedule is not a complete immunity from judicial review.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1343,15 +1343,15 @@ D. (A) is false, but (R) is true
 
 **Q43.** With reference to the Schedules of the Constitution, consider the following statements:
 
-1. The original Constitution of 1950 had eight Schedules.  
-2. The Eleventh and Twelfth Schedules were added by the 73rd and 74th Amendments respectively.  
+1. The original Constitution of 1950 had eight Schedules.
+2. The Eleventh and Twelfth Schedules were added by the 73rd and 74th Amendments respectively.
 3. Part VII of the Constitution has been repealed.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1362,14 +1362,14 @@ D. 1, 2 and 3
 
 **Q44.** How many of the following subjects were transferred from the State List to the Concurrent List by the 42nd Constitutional Amendment?
 
-1. Education  
-2. Forests  
-3. Protection of wild animals and birds  
-4. Census  
+1. Education
+2. Forests
+3. Protection of wild animals and birds
+4. Census
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1380,15 +1380,15 @@ D. Only one
 
 **Q45.** Consider the following statements regarding the Third Schedule:
 
-1. It contains the oath of the President of India.  
-2. It contains the oaths of Union Ministers, Members of Parliament and Judges of the Supreme Court.  
+1. It contains the oath of the President of India.
+2. It contains the oaths of Union Ministers, Members of Parliament and Judges of the Supreme Court.
 3. The oath of the Governor is provided in Article 159, not in the Third Schedule.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1419,9 +1419,9 @@ D. 1, 2 and 3
 
 > Note: Row order in the tables is **not** the answer.
 
-A. A-3, B-4, C-1, D-2  
-B. A-4, B-3, C-1, D-2  
-C. A-3, B-4, C-2, D-1  
+A. A-3, B-4, C-1, D-2
+B. A-4, B-3, C-1, D-2
+C. A-3, B-4, C-2, D-1
 D. A-3, B-1, C-4, D-2
 
 <details>
@@ -1432,9 +1432,9 @@ D. A-3, B-1, C-4, D-2
 
 **Q47.** With reference to Article 244 of the Constitution, which one of the following is correct?
 
-A. Article 244(1) applies the Sixth Schedule to Scheduled Areas  
-B. Article 244(2) applies the Fifth Schedule to Assam, Meghalaya, Tripura and Mizoram  
-C. Article 244(1) applies the Fifth Schedule to Scheduled Areas (other than Sixth Schedule areas)  
+A. Article 244(1) applies the Sixth Schedule to Scheduled Areas
+B. Article 244(2) applies the Fifth Schedule to Assam, Meghalaya, Tripura and Mizoram
+C. Article 244(1) applies the Fifth Schedule to Scheduled Areas (other than Sixth Schedule areas)
 D. Both Fifth and Sixth Schedules apply to Nagaland
 
 <details>
@@ -1445,9 +1445,9 @@ D. Both Fifth and Sixth Schedules apply to Nagaland
 
 **Q48.** Konkani, Manipuri and Nepali were added to the Eighth Schedule by the:
 
-A. 21st Constitutional Amendment  
-B. 71st Constitutional Amendment  
-C. 92nd Constitutional Amendment  
+A. 21st Constitutional Amendment
+B. 71st Constitutional Amendment
+C. 92nd Constitutional Amendment
 D. 101st Constitutional Amendment
 
 <details>
@@ -1464,18 +1464,18 @@ D. 101st Constitutional Amendment
 
 ### 2025
 
-**Q1. UPPCS Prelims 2025, Q24**  
+**Q1. UPPCS Prelims 2025, Q24**
 Which of the following pairs of Parts and subjects are **NOT** correctly matched?
 
-1. Part IVA — Fundamental Duties  
-2. Part VI — The States  
-3. Part XI — The Municipalities  
+1. Part IVA — Fundamental Duties
+2. Part VI — The States
+3. Part XI — The Municipalities
 
 Select the correct answer using the code given below:
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
 D. 1 only
 
 <details>
@@ -1485,19 +1485,19 @@ D. 1 only
 
 </details>
 
-**Q2. UPPCS Prelims 2025, Q102**  
+**Q2. UPPCS Prelims 2025, Q102**
 Which of the following language(s) is/are **NOT** included in the Eighth Schedule of the Constitution of India?
 
-1. Nepali  
-2. Dogri  
-3. Bodo  
-4. Bhojpuri  
+1. Nepali
+2. Dogri
+3. Bodo
+4. Bhojpuri
 
 Select the correct answer using the code given below:
 
-A. 1 and 2 only  
-B. 4 only  
-C. 3 and 4 only  
+A. 1 and 2 only
+B. 4 only
+C. 3 and 4 only
 D. 1 only
 
 <details>
@@ -1507,7 +1507,7 @@ D. 1 only
 
 </details>
 
-**Q3. UPPCS Prelims 2025, Q113**  
+**Q3. UPPCS Prelims 2025, Q113**
 Match List-I with List-II and select the correct answer using the code given below the lists:
 
 **List-I (Schedule)**
@@ -1530,9 +1530,9 @@ Match List-I with List-II and select the correct answer using the code given bel
 
 > Note: Row order in the tables is **not** the answer.
 
-A. 3, 1, 2, 4  
-B. 3, 1, 4, 2  
-C. 2, 3, 4, 1  
+A. 3, 1, 2, 4
+B. 3, 1, 4, 2
+C. 2, 3, 4, 1
 D. 4, 2, 1, 3
 
 <details>
@@ -1544,18 +1544,18 @@ D. 4, 2, 1, 3
 
 ### 2024
 
-**Q4. UPPCS Prelims 2024, Q143**  
+**Q4. UPPCS Prelims 2024, Q143**
 Which of the following is/are included in the Concurrent List of the Seventh Schedule?
 
-1. Trade and Commerce  
-2. Adulteration of Goods  
-3. Succession  
+1. Trade and Commerce
+2. Adulteration of Goods
+3. Succession
 
 Select the correct answer using the code given below:
 
-A. 1 and 3 only  
-B. 1, 2 and 3  
-C. 1 only  
+A. 1 and 3 only
+B. 1, 2 and 3
+C. 1 only
 D. 2 and 3 only
 
 <details>
@@ -1567,12 +1567,12 @@ D. 2 and 3 only
 
 ### 2023
 
-**Q5. UPPCS Prelims 2023, Q1**  
+**Q5. UPPCS Prelims 2023, Q1**
 Which among the following (Provision — Part of the Constitution) is **NOT** correctly matched?
 
-A. The Union Territories — Part VIII  
-B. The Scheduled and Tribal Areas — Part X  
-C. Tribunals — Part XI  
+A. The Union Territories — Part VIII
+B. The Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
 D. Official Language — Part XVII
 
 <details>
@@ -1582,12 +1582,12 @@ D. Official Language — Part XVII
 
 </details>
 
-**Q6. UPPCS Prelims 2023, Q7**  
+**Q6. UPPCS Prelims 2023, Q7**
 Which one of the following Schedule—Subject pairs is **NOT** correctly matched?
 
-A. Third Schedule — Oaths and Affirmations  
-B. Eighth Schedule — Languages  
-C. Ninth Schedule — Allocation of seats in the Council of States  
+A. Third Schedule — Oaths and Affirmations
+B. Eighth Schedule — Languages
+C. Ninth Schedule — Allocation of seats in the Council of States
 D. Tenth Schedule — Anti-defection
 
 <details>
@@ -1599,7 +1599,7 @@ D. Tenth Schedule — Anti-defection
 
 ### 2022
 
-**Q7. UPPCS Prelims 2022, Q89**  
+**Q7. UPPCS Prelims 2022, Q89**
 Match List-I with List-II and select the correct answer using the code given below the lists:
 
 **List-I (Schedule)**
@@ -1622,9 +1622,9 @@ Match List-I with List-II and select the correct answer using the code given bel
 
 > Note: Row order in the tables is **not** the answer.
 
-A. A-4, B-3, C-1, D-2  
-B. A-3, B-4, C-2, D-1  
-C. A-2, B-1, C-4, D-3  
+A. A-4, B-3, C-1, D-2
+B. A-3, B-4, C-2, D-1
+C. A-2, B-1, C-4, D-3
 D. A-1, B-2, C-3, D-4
 
 <details>
@@ -1636,12 +1636,12 @@ D. A-1, B-2, C-3, D-4
 
 ### 2020
 
-**Q8. UPPCS Prelims 2020, Q110**  
+**Q8. UPPCS Prelims 2020, Q110**
 Which one of the following is **NOT** correctly matched?
 
-A. Fundamental Duties — Part IVA  
-B. The States — Part VI  
-C. Attorney-General — Part XIII  
+A. Fundamental Duties — Part IVA
+B. The States — Part VI
+C. Attorney-General — Part XIII
 D. Services under the Union and the States — Part XIV
 
 <details>
@@ -1653,12 +1653,12 @@ D. Services under the Union and the States — Part XIV
 
 ### 2019
 
-**Q9. UPPCS Prelims 2019, Q28**  
+**Q9. UPPCS Prelims 2019, Q28**
 Which one of the following is **NOT** correctly matched?
 
-A. Public Health and Sanitation — State List  
-B. Census — Union List  
-C. Allocation of seats in the Council of States — Second Schedule  
+A. Public Health and Sanitation — State List
+B. Census — Union List
+C. Allocation of seats in the Council of States — Second Schedule
 D. Anti-Defection — Tenth Schedule
 
 <details>
@@ -1668,12 +1668,12 @@ D. Anti-Defection — Tenth Schedule
 
 </details>
 
-**Q10. UPPCS Prelims 2019, Q29**  
+**Q10. UPPCS Prelims 2019, Q29**
 How many items are there in the 11th Schedule of the Constitution of India?
 
-A. 22  
-B. 24  
-C. 29  
+A. 22
+B. 24
+C. 29
 D. 32
 
 <details>
@@ -1683,12 +1683,12 @@ D. 32
 
 </details>
 
-**Q11. UPPCS Prelims 2019, Q31**  
+**Q11. UPPCS Prelims 2019, Q31**
 The Sixth Schedule of the Constitution is applicable in which of the following States?
 
-A. Tripura  
-B. Sikkim  
-C. Nagaland  
+A. Tripura
+B. Sikkim
+C. Nagaland
 D. All of the above
 
 <details>
@@ -1700,12 +1700,12 @@ D. All of the above
 
 ### 2018
 
-**Q12. UPPCS Prelims 2018, Q73**  
+**Q12. UPPCS Prelims 2018, Q73**
 In which Part of the Constitution of India do we find the provisions relating to citizenship?
 
-A. Part I  
-B. Part II  
-C. Part VII  
+A. Part I
+B. Part II
+C. Part VII
 D. Part IX
 
 <details>

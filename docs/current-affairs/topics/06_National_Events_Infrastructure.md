@@ -1,6 +1,6 @@
 # National Events / Institutions / Infrastructure
 
-> **Priority A** | About **7%** of Current Affairs  
+> **Priority A** | About **7%** of Current Affairs
 > Usual question style: where is it, who built it, what is new about it.
 
 ## What to note every time
@@ -18,10 +18,10 @@
 
 ### 77th Republic Day | 26 January 2026 | Kartavya Path
 
-**What happened**  
+**What happened**
 India celebrated the **77th Republic Day**. The main parade was on **Kartavya Path** in New Delhi.
 
-**Core locks**
+**Core facts**
 
 - Year count: **77th** Republic Day.
 - Venue name to use now: **Kartavya Path** (older books may still say Rajpath).
@@ -29,7 +29,7 @@ India celebrated the **77th Republic Day**. The main parade was on **Kartavya Pa
 
 ### Parakram Diwas | 23 January 2026
 
-**What happened**  
+**What happened**
 **23 January** is observed as **Parakram Diwas** for Netaji Subhas Chandra Bose’s birth anniversary.
 
 **Linked award**
@@ -50,10 +50,10 @@ From the 27 January India–EU list:
 
 ### Union Budget presentation day | 1 February 2026
 
-**What happened**  
+**What happened**
 The Finance Minister presented the Union Budget for **2026–27** in Parliament.
 
-**Easy memory locks**
+**Easy memory facts**
 
 - It was presented on a **Sunday**.
 - The day was also linked with **Magha Purnima** and Guru **Ravidas** Jayanti in official messaging.
@@ -78,7 +78,7 @@ The Finance Minister presented the Union Budget for **2026–27** in Parliament.
 
 ### Gujarat Uniform Civil Code Bill | passed 24 March 2026
 
-**What happened**  
+**What happened**
 The Gujarat Assembly passed the **Gujarat Uniform Civil Code, 2026** after a long debate. Gujarat became the **second state** in India to pass a full state UCC law. The first was **Uttarakhand**.
 
 **What the law tries to cover**
@@ -97,7 +97,7 @@ These Cabinet decisions are explained under [Schemes](02_Schemes_Policies.md). T
 
 ### Passive euthanasia case note (soft polity–CA hybrid)
 
-March coverage discussed a Supreme Court order allowing withdrawal of life support in a long vegetative-state case, linked to the right to die with dignity under **Article 21** and the earlier **Common Cause** judgment on living wills. Keep this as a careful polity lock, not a casual one-liner.
+March coverage discussed a Supreme Court order allowing withdrawal of life support in a long vegetative-state case, linked to the right to die with dignity under **Article 21** and the earlier **Common Cause** judgment on living wills. Keep this as a careful polity fact, not a casual one-liner.
 
 ---
 
@@ -105,10 +105,10 @@ March coverage discussed a Supreme Court order allowing withdrawal of life suppo
 
 ### Census 2027 digital launch | from 1 April 2026
 
-**What happened**  
+**What happened**
 House Listing Operations for **Census 2027** began. This is India’s first fully digital Census push with online self-enumeration. Full easy card → [Schemes](02_Schemes_Policies.md).
 
-**Quick national locks**
+**Quick national facts**
 
 - 16th Census of India.
 - Mascots: **Pragati** and **Vikas**.
@@ -117,20 +117,20 @@ House Listing Operations for **Census 2027** began. This is India’s first full
 
 ### Five new districts in Ladakh
 
-**What happened**  
+**What happened**
 The Lieutenant Governor approved creation of **five new districts** in the Union Territory of Ladakh. Earlier Ladakh had only **Leh** and **Kargil**.
 
-**Core locks**
+**Core facts**
 
 - New districts: **Nubra**, **Sham**, **Changthang**, **Zanskar**, and **Drass**.
 - New total: **seven** districts.
 
 ### Meghalaya official languages ordinance
 
-**What happened**  
+**What happened**
 Meghalaya approved an ordinance giving **Khasi** and **Garo** full official status alongside **English**.
 
-**Core locks**
+**Core facts**
 
 - It replaces the older pattern where English alone was the sole official language and Khasi/Garo were only “associate” languages.
 - Constitutional power used: **Article 345**.
@@ -146,24 +146,24 @@ Meghalaya approved an ordinance giving **Khasi** and **Garo** full official stat
 
 ### Supreme Court judge strength raised | May 2026
 
-**What happened**  
+**What happened**
 India moved to raise the sanctioned strength of Supreme Court judges. The change amends the **Supreme Court (Number of Judges) Act, 1956**.
 
-**Core locks**
+**Core facts**
 
 - Judges excluding the Chief Justice: from **33** to **37**.
 - Total including the CJI: from **34** to **38**.
 - Aim noted: clear backlog and make regular Constitution Benches easier.
 
 !!! tip "Easy memory"
-    +4 judges. Total with CJI = **38**.
+ +4 judges. Total with CJI = **38**.
 
 ### South Coast Railway Zone
 
-**What happened**  
+**What happened**
 A new railway zone was created: **South Coast Railway Zone**, with headquarters at **Visakhapatnam**, Andhra Pradesh.
 
-**Core locks**
+**Core facts**
 
 - HQ: **Visakhapatnam**.
 - Divisions named in coverage: **Guntakal**, **Guntur**, and **Vijayawada** (earlier under South Central Railway).
@@ -171,7 +171,7 @@ A new railway zone was created: **South Coast Railway Zone**, with headquarters 
 
 ### Sikkim as first paperless judiciary state
 
-**What happened**  
+**What happened**
 Coverage said **Sikkim** became India’s first paperless judiciary state. The announcement was linked with a national conclave in **Gangtok** and CJI **Surya Kant**.
 
 ### Ayush Anudan Portal
@@ -184,27 +184,27 @@ Launched by the Ministry of Ayush for end-to-end scheme funding. Details → [Sc
 
 ### Right to walk on a footpath | Supreme Court
 
-**What happened**  
+**What happened**
 The Supreme Court held that a citizen’s right to walk on a **demarcated footpath** is a fundamental right and ranks above motorised traffic on that space.
 
-**Core locks**
+**Core facts**
 
 - Linked with **Article 19(1)(d)** (freedom of movement) and **Article 21** (life and liberty).
 - Bench named in coverage: Justices **P. S. Narasimha** and **A. S. Chandurkar**.
 
 ### 11th NITI Aayog Governing Council
 
-**What happened**  
+**What happened**
 The **11th** Governing Council meeting of **NITI Aayog** was held at **Rashtrapati Bhavan**, New Delhi, chaired by the Prime Minister.
 
-**Core locks**
+**Core facts**
 
 - Theme: **Inclusive Human Development for Viksit Bharat @2047**.
 - Focus areas noted: entrepreneurship, skilling, and sustainable jobs.
 
 ### India’s first offshore airport approval | Palghar, Maharashtra
 
-**What happened**  
+**What happened**
 Approval coverage advanced for India’s first **offshore airport** off the **Palghar** coast in Maharashtra, about **4.75 km** from the Uttan–Virar Sea Link in explainers.
 
 **Easy meaning**
@@ -224,7 +224,7 @@ Approval coverage advanced for India’s first **offshore airport** off the **Pa
 
 ### Kartavya Bhawan Complex naming
 
-**What happened**  
+**What happened**
 Coverage said the Central Vista redevelopment area should be called the **Kartavya Bhawan Complex** or **Kartavya Bhawan Area**. The idea is to bring many ministries together for better coordination.
 
 ### Education reforms task force | Nandan Nilekani
@@ -246,10 +246,10 @@ India’s first direct commercial container freight train to **Nepal** reached *
 
 ### 80th Independence Day | Red Fort | 15 August 2026
 
-**What happened**  
+**What happened**
 India celebrated its **80th** Independence Day. Dual themes: **150 years of Vande Mataram** and **Yuva Shakti** for Viksit Bharat @2047. For the first time, **Vande Mataram** was performed by the Army band as part of the Red Fort I-Day programme.
 
-**Core locks**
+**Core facts**
 
 - PM Modi’s **13th** consecutive Red Fort address (second-longest streak after Nehru’s 17).
 - Coordinating service: **Indian Army**.
@@ -257,10 +257,10 @@ India celebrated its **80th** Independence Day. Dual themes: **150 years of Vand
 
 ### High Court Bench for Ladakh
 
-**What happened**  
+**What happened**
 A Bench of the High Court of Jammu and Kashmir and Ladakh was established for **Ladakh** to improve access to justice in remote areas.
 
-**Soft lock**
+**Soft fact**
 
 - Total High Courts in India remain **25** (bench is not a new High Court).
 
@@ -271,11 +271,11 @@ A Bench of the High Court of Jammu and Kashmir and Ladakh was established for **
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Gujarat UCC — second state after Uttarakhand; Art 44.
+**Logic:** Gujarat UCC — second state after Uttarakhand; Art 44.
 
 **Q1.** With reference to the Uniform Civil Code notified / brought into force in Gujarat in March 2026, which of the following statements is/are correct?
 
@@ -284,9 +284,9 @@ A Bench of the High Court of Jammu and Kashmir and Ladakh was established for **
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -298,7 +298,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Supreme Court strength rise to 38 with CJI.
+**Logic:** Supreme Court strength rise to 38 with CJI.
 
 **Q2.** With reference to the strength of the Supreme Court of India (May 2026 coverage), which of the following statements is/are correct?
 
@@ -307,21 +307,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both statements lock together. Trap: leaving the total at 34 or forgetting to include the CJI.
+**Ans: C.** Both statements fact together. Trap: leaving the total at 34 or forgetting to include the CJI.
 
 </details>
 
 ---
 
-**Exam logic:** South Coast Railway Zone HQ + zone count.
+**Logic:** South Coast Railway Zone HQ + zone count.
 
 **Q3.** With reference to the South Coast Railway Zone, which of the following statements is/are correct?
 
@@ -330,21 +330,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both are May national-infra locks. Trap: putting HQ at Vijayawada or keeping zone count at 18.
+**Ans: C.** Both are May national-infra facts. Trap: putting HQ at Vijayawada or keeping zone count at 18.
 
 </details>
 
 ---
 
-**Exam logic:** I-Day / Shakti Ki Saptadhara — national CA.
+**Logic:** I-Day / Shakti Ki Saptadhara — national CA.
 
 **Q4.** With reference to Independence Day 2026 messaging, which of the following statements is/are correct?
 
@@ -354,21 +354,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are August locks. Trap: shrinking Saptadhara to “five schemes” or writing 50 GW nuclear by 2030 as the I-Day lock.
+**Ans: D.** All three are August facts. Trap: shrinking Saptadhara to “five schemes” or writing 50 GW nuclear by 2030 as the I-Day fact.
 
 </details>
 
 ---
 
-**Exam logic:** Ladakh — High Court Bench vs new High Court.
+**Logic:** Ladakh — High Court Bench vs new High Court.
 
 **Q5.** Which of the following statements is/are correct regarding Ladakh (August 2026 coverage)?
 
@@ -377,9 +377,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -391,7 +391,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Ladakh new districts list.
+**Logic:** Ladakh new districts list.
 
 **Q6.** With reference to new districts created in Ladakh (April 2026 coverage), which of the following statements is/are correct?
 
@@ -401,9 +401,9 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -415,7 +415,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** SC footpath judgment — Arts 19(1)(d) and 21.
+**Logic:** SC footpath judgment — Arts 19(1)(d) and 21.
 
 **Q7.** With reference to the Supreme Court footpath judgment (June 2026 coverage), which of the following statements is/are correct?
 
@@ -424,9 +424,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -438,7 +438,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Kartavya Bhawan Complex + Nilekani panel.
+**Logic:** Kartavya Bhawan Complex + Nilekani panel.
 
 **Q8.** With reference to July 2026 national / education coverage, which of the following statements is/are correct?
 
@@ -448,21 +448,21 @@ D. Only 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Appointments + naming locks. Trap: keeping an older Education Minister name.
+**Ans: D.** Appointments + naming facts. Trap: keeping an older Education Minister name.
 
 </details>
 
 ---
 
-**Exam logic:** Meghalaya official languages April.
+**Logic:** Meghalaya official languages April.
 
 **Q9.** With reference to Meghalaya language coverage (April 2026), which of the following statements is/are correct?
 
@@ -471,9 +471,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
@@ -485,7 +485,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** SC strength Act name.
+**Logic:** SC strength Act name.
 
 **Q10.** With reference to the Supreme Court strength rise, which of the following statements is/are correct?
 
@@ -509,7 +509,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** South Coast divisions.
+**Logic:** South Coast divisions.
 
 **Q11.** With reference to South Coast Railway Zone, which of the following statements is/are correct?
 
@@ -533,7 +533,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Kartavya Bhawan Complex naming.
+**Logic:** Kartavya Bhawan Complex naming.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -556,7 +556,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Shakti Ki Saptadhara seven streams.
+**Logic:** Shakti Ki Saptadhara seven streams.
 
 **Q13.** Which of the following is/are among Shakti Ki Saptadhara streams?
 
@@ -580,12 +580,12 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Vande Mataram 150 + Yuva Shakti dual themes.
+**Logic:** Vande Mataram 150 + Yuva Shakti dual themes.
 
 **Q14.** With reference to I-Day 2026 themes, which of the following statements is/are correct?
 
-1. 150 years of Vande Mataram was a dual theme lock.
-2. Yuva Shakti for Viksit Bharat @2047 was a dual theme lock.
+1. 150 years of Vande Mataram was a dual theme fact.
+2. Yuva Shakti for Viksit Bharat @2047 was a dual theme fact.
 3. The only theme was Net Zero 2030.
 
 Select the correct answer from the code given below:
@@ -604,7 +604,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Modi 13th Red Fort speech.
+**Logic:** Modi 13th Red Fort speech.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -627,7 +627,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Meghalaya Khasi Garo English.
+**Logic:** Meghalaya Khasi Garo English.
 
 **Q16.** With reference to Meghalaya language coverage, which of the following statements is/are correct?
 
@@ -650,7 +650,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Kankaria water-neutral depot.
+**Logic:** Kankaria water-neutral depot.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -673,7 +673,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Ladakh HC Bench not new HC.
+**Logic:** Ladakh HC Bench not new HC.
 
 **Q18.** With reference to Ladakh judiciary (August 2026), which of the following statements is/are correct?
 
@@ -696,7 +696,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** GO-EAST Odisha soft.
+**Logic:** GO-EAST Odisha soft.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -719,7 +719,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Direct freight India–Nepal Biratnagar.
+**Logic:** Direct freight India–Nepal Biratnagar.
 
 **Q20.** With reference to July infra coverage, which of the following statements is/are correct?
 
@@ -736,6 +736,6 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Biratnagar lock.
+**Ans: D.** Biratnagar fact.
 
 </details>

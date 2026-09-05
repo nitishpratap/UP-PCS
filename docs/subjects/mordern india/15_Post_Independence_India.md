@@ -8,14 +8,14 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 </details>
 
-> **Sources baked in:** NCERT Politics in India since Independence, Spectrum post-1947, Bipan Chandra, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — SRC members, CA chronology/committees, Etawah–CDP, PC→NITI, FYP slogans, princely cases, enclave merger routes (Goa/Pondicherry)  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Politics in India since Independence, Spectrum post-1947, Bipan Chandra, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — SRC members, CA chronology/committees, Etawah–CDP, PC→NITI, FYP slogans, princely cases, enclave merger routes (Goa/Pondicherry)
+> **Last verified:** August 2026
 > **Current Affairs:** NITI Aayog (1 Jan 2015) as successor of Planning Commission only — not NITI index reports
 
 ---
 
-## Consolidated — 30 Must-Score Locks
+## Consolidated — 30 Must-Score Facts
 
 1. Arc after transfer: Independence **15 Aug 1947** → CA last sitting **24 Jan 1950** → Constitution **26 Jan 1950** → Planning Commission **Mar 1950** → CDP **2 Oct 1952** → Andhra **1 Oct 1953** → SRC Act **1 Nov 1956** → NITI **1 Jan 2015**.
 2. About **562** princely states were integrated under **Sardar Patel** and **V.P. Menon**. The **Instrument of Accession** covered only **Defence, External Affairs and Communications**.
@@ -24,7 +24,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 5. Constituent Assembly first met on **9 December 1946**. The **Objectives Resolution** was moved on **13 December 1946**.
 6. The national **Flag** was adopted on **22 July 1947**. The **Drafting Committee** (Ambedkar) was set up on **29 August 1947**.
 7. The Constitution was **adopted on 26 November 1949** and **commenced on 26 January 1950**. Do not swap the two dates.
-8. Committee chair locks: **Union Constitution — Nehru**; **Rules — Prasad**; **Drafting — Ambedkar**; **Fundamental Rights sub-committee — Kripalani**.
+8. Committee chair facts: **Union Constitution — Nehru**; **Rules — Prasad**; **Drafting — Ambedkar**; **Fundamental Rights sub-committee — Kripalani**.
 9. **Chandernagore** used a French referendum route (**19 June 1949**) and merged into **West Bengal** on **2 October 1954**.
 10. **Pondicherry, Karaikal, Mahe and Yanam** used the **Kizhoor referendum (18 Oct 1954)**; de facto **1 Nov 1954**; de jure Union Territory **1962**.
 11. **Goa, Daman and Diu** were taken by **Operation Vijay (18–19 Dec 1961)**; UT in **1962**; **Goa State in 1987**.
@@ -32,7 +32,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 13. French enclaves used a **referendum/treaty** route. Portuguese Goa used a **military** route — never swap the methods.
 14. **Panchsheel** was signed on **29 April 1954** (India–China five principles). The first **NAM** summit was **Belgrade 1961**; **Bandung 1955** is the mood, not the first summit.
 15. **Etawah Pilot (1948)** was **Albert Mayer’s** UP village project. Nationwide **CDP** began on **2 October 1952**; **NES** followed in **1953**.
-16. Development chronology lock: **CDP → DPAP → Food for Work → TRYSEM**.
+16. Development chronology fact: **CDP → DPAP → Food for Work → TRYSEM**.
 17. **Balwant Rai Mehta (1957)** recommended the three-tier panchayati scheme. **Nyaya Panchayat** is not one of those three Mehta tiers.
 18. **States Reorganisation Commission** members were **Fazl Ali, K.M. Panikkar and H.N. Kunzru**. Not K.T. Shah; not Pattabhi Sitaramayya.
 19. The first linguistic state was **Andhra (1 October 1953)**. The **States Reorganisation Act** took effect on **1 November 1956**.
@@ -40,7 +40,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 21. The **Planning Commission (March 1950)** was **extra-constitutional**. Ashok Chanda called it an “**Economic Cabinet**.”
 22. The then **poverty line** exercise sat with the Planning Commission. **NITI Aayog** began on **1 January 2015**; first Vice-Chair was **Arvind Panagariya**.
 23. **1st Plan** stressed agriculture and CDP. **2nd Plan** followed the **Mahalanobis** heavy-industry path (steel plants).
-24. The **12th Plan** slogan lock is **sustainable growth**; it was the **last** Five-Year Plan.
+24. The **12th Plan** slogan fact is **sustainable growth**; it was the **last** Five-Year Plan.
 25. **1950 map:** Part A = Governor’s provinces; Part B = princely unions; Part C = Chief Commissioner’s provinces; Part D = Andaman and Nicobar — until **1956**.
 26. Privy purses ended with the **26th Amendment, 1971**.
 27. UP Focus: **Etawah 1948 (Mayer, Mahewa)** is the national CDP model; UP was a **Part A** state in 1950; **Uttarakhand** was carved on **9 November 2000**.
@@ -50,7 +50,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -83,7 +83,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 - Linguistic Andhra was formed on **1 October 1953**.
 - The States Reorganisation Act came into force on **1 November 1956**.
 
-> **Exam note:** Planning Commission is **1950**, not 1947. CDP is **1952**, not Etawah’s 1948.
+> ** note:** Planning Commission is **1950**, not 1947. CDP is **1952**, not Etawah’s 1948.
 
 ---
 
@@ -122,15 +122,15 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 - Indian troops were airlifted on **27 October**.
 - **2019 Q103** order is IoA in 1947, then the Constitution of India on **26 January 1950**, then the J&K Constituent Assembly’s ratification in **1954**, then the J&K Constitution on **26 January 1957**.
 
-> **Exam note:** Three routes — Junagadh **plebiscite**, Hyderabad **Polo**, Kashmir **IoA amid invasion**. IoA ≠ full merger on day one.
+> ** note:** Three routes — Junagadh **plebiscite**, Hyderabad **Polo**, Kashmir **IoA amid invasion**. IoA ≠ full merger on day one.
 
 **PYQ — UPPCS Prelims 2019, Q103**
 
 Arrange the following events in a chronological order:
 
-I. Maharaja Hari Singh signed the Instrument of Accession.  
-II. Constitution of India was enforced.  
-III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.  
+I. Maharaja Hari Singh signed the Instrument of Accession.
+II. Constitution of India was enforced.
+III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.
 IV. New Constitution of the State of Jammu and Kashmir came into force.
 
 A. I, III, IV, II
@@ -162,7 +162,7 @@ D. IV, III, II, I
 - Ratification instruments were exchanged only on **16 August 1962**, completing the de jure merger.
 - The **14th Constitutional Amendment, 1962**, made Pondicherry a Union Territory.
 
-> **Exam note:** Chandernagore is **not** part of the Pondicherry Union Territory. It joined **West Bengal** as a district; the other four enclaves became their **own UT**.
+> ** note:** Chandernagore is **not** part of the Pondicherry Union Territory. It joined **West Bengal** as a district; the other four enclaves became their **own UT**.
 
 ### Portuguese Goa, Daman and Diu — Operation Vijay (1961)
 
@@ -173,14 +173,14 @@ D. IV, III, II, I
 - **Goa became a full State on 30 May 1987.** Daman and Diu stayed a Union Territory.
 - **Dadra and Nagar Haveli** was a separate Portuguese pocket. Local action brought it in during 1954, and it became a Union Territory under the **10th Amendment, 1961**.
 
-> **Exam note:** French enclaves joined by **referendum** (1949 and 1954). Goa joined by **military action** (**1961**). Dadra and Nagar Haveli is a **third, separate** case, also 1954.
+> ** note:** French enclaves joined by **referendum** (1949 and 1954). Goa joined by **military action** (**1961**). Dadra and Nagar Haveli is a **third, separate** case, also 1954.
 
 **PYQ-style drill — enclave route match**
 
 Match List-I with List-II.
 
-**List-I (Territory)** A. Chandernagore  B. Pondicherry group  C. Goa, Daman and Diu  D. Dadra and Nagar Haveli  
-**List-II (Route)** 1. Operation Vijay, 1961  2. Kizhoor referendum, 1954  3. Local action; 10th Amendment 1961  4. Referendum, 1949; merged into West Bengal 1954
+**List-I (Territory)** A. Chandernagore B. Pondicherry group C. Goa, Daman and Diu D. Dadra and Nagar Haveli
+**List-II (Route)** 1. Operation Vijay, 1961 2. Kizhoor referendum, 1954 3. Local action; 10th Amendment 1961 4. Referendum, 1949; merged into West Bengal 1954
 
 A. 4 2 1 3
 
@@ -208,8 +208,8 @@ D. 1 2 4 3
 
 ## 15.3 Constitution Making
 
-**Body:** Constituent Assembly under the Cabinet Mission plan.  
-**First sitting:** **9 December 1946**. Temporary President **Sachchidananda Sinha**, then **Rajendra Prasad**.
+**Body:** Constituent Assembly under the Cabinet Mission plan.
+**First sitting:9 December 1946**. Temporary President **Sachchidananda Sinha**, then **Rajendra Prasad**.
 
 - Strength was **389**. After Partition it was about **299**.
 - The Assembly worked **2 years 11 months 18 days**.
@@ -237,15 +237,15 @@ D. 1 2 4 3
 - **2021 Q1:** Patel said in the CA debates on separate electorates, *“Can you show me one free country… British element is gone, but they have left mischief behind.”*
 - **2021 Q73:** Nehru called Fundamental Rights *“a pledge to our people and a pact with the civilized world.”*
 
-> **Exam note:** Adopted **≠** commenced. Flag **22 July 1947**. FR sub-committee = **Kripalani**, not Ambedkar.
+> ** note:** Adopted **≠** commenced. Flag **22 July 1947**. FR sub-committee = **Kripalani**, not Ambedkar.
 
 **PYQ — UPPCS Prelims 2023, Q3**
 
 Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
 
-(I) Appointment of the Drafting Committee  
-(II) Indian Constitution was adopted and enacted  
-(III) Date of commencement of Indian Constitution  
+(I) Appointment of the Drafting Committee
+(II) Indian Constitution was adopted and enacted
+(III) Date of commencement of Indian Constitution
 (IV) Constituent Assembly first met
 
 A. III, II, I, IV
@@ -267,8 +267,8 @@ D. IV, I, II, III
 
 Match List-I with List-II.
 
-**List-I (Committee)** A. Union Constitution Committee  B. Rules of Procedure Committee  C. Drafting Committee  D. Fundamental Rights Sub-Committee  
-**List-II (Chairman)** 1. Dr. Rajendra Prasad  2. J. B. Kripalani  3. Dr. B. R. Ambedkar  4. Jawaharlal Nehru
+**List-I (Committee)** A. Union Constitution Committee B. Rules of Procedure Committee C. Drafting Committee D. Fundamental Rights Sub-Committee
+**List-II (Chairman)** 1. Dr. Rajendra Prasad 2. J. B. Kripalani 3. Dr. B. R. Ambedkar 4. Jawaharlal Nehru
 
 A. 2 1 3 4
 
@@ -306,7 +306,7 @@ D. 22 July, 1948
 
 **PYQ — UPPCS Prelims 2021, Q1**
 
-"Can you show me one free country where there are separate electorates? ... The British element is gone, but they have left mischief behind".
+"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind".
 
 Who among the following said the above mentioned statement in the Constituent Assembly debates?
 
@@ -348,9 +348,8 @@ D. Dr. S. Radha Krishnan
 
 ## 15.4 Etawah Pilot Project (1948)
 
-**Place:** **Mahewa** block, **Etawah district, Uttar Pradesh**  
-**Person:** **Albert Mayer** (American planner)  
-**Year:** **1948**
+**Place:Mahewa** block, **Etawah district, Uttar PradeshPerson:Albert Mayer** (American planner)
+**Year:1948**
 
 - It was multi-purpose village development in agriculture, health, education and cooperatives.
 - It was a **block-level** laboratory, not a single scheme.
@@ -360,31 +359,31 @@ D. Dr. S. Radha Krishnan
 - Dey later led Community Development at the Centre.
 - Do not credit **Balwant Rai Mehta** of 1957 Panchayati Raj, or Gandhi Jayanti 1952, which is CDP.
 
-> **Exam note:** Etawah = **1948 Mayer UP**. CDP = **1952**. Nilokheri = **Dey**.
+> ** note:** Etawah = **1948 Mayer UP**. CDP = **1952**. Nilokheri = **Dey**.
 
 ---
 
 ## 15.5 Community Development Programme (2 October 1952)
 
-**Launch:** **2 October 1952** (Gandhi Jayanti), during the **First Five-Year Plan**. Initially **55** project areas.
+**Launch:2 October 1952** (Gandhi Jayanti), during the **First Five-Year Plan**. Initially **55** project areas.
 
 - It was a nationwide rollout of the Etawah idea in agriculture, irrigation, health, education, roads and cooperatives.
 - The field worker was the **Village Level Worker / Gram Sevak**.
 - The **National Extension Service** of **1953** was cheaper and wider. It was less intensive than CDP blocks.
 - Officials drove the programme. People’s participation stayed weak.
 - The **Balwant Rai Mehta Committee of 1957** recommended **three-tier Panchayati Raj**: Gram Panchayat, Panchayat Samiti and Zila Parishad.
-- **Nyaya Panchayat is not a Mehta tier**. That lock is **2024 Q129**.
+- **Nyaya Panchayat is not a Mehta tier**. That fact is **2024 Q129**.
 - **2025 Q134** rural order is CDP **1952**, then **DPAP 1973–74**, then **Food for Work 1977**, then **TRYSEM 1979**.
 
-> **Exam note:** CDP ≠ 1948. First Plan home. TRYSEM and Food for Work are **1970s**, not Nehru-era CDP.
+> ** note:** CDP ≠ 1948. First Plan home. TRYSEM and Food for Work are **1970s**, not Nehru-era CDP.
 
 **PYQ — UPPCS Prelims 2025, Q134**
 
 Consider the following programmes and arrange them in correct chronological order.
 
-1. Food for Work Programme  
-2. Community Development Programme  
-3. Training of Rural Youth for Self Employment (TRYSEM)  
+1. Food for Work Programme
+2. Community Development Programme
+3. Training of Rural Youth for Self Employment (TRYSEM)
 4. Drought Prone Areas Programme
 
 A. 4, 2, 3, 1
@@ -437,7 +436,7 @@ D. 4, 2, 1, 3
 - It made **14 states and 6 Union Territories**.
 - It ended the Part A/B/C map and created **Zonal Councils**.
 
-**Later (one-line locks)**
+**Later (one-line facts)**
 
 | Year | What |
 |------|------|
@@ -449,15 +448,15 @@ D. 4, 2, 1, 3
 | **2014** | **Telangana** (from Andhra) |
 | **2019** | J&K and Ladakh as UTs (Art. 370 change — Polity) |
 
-> **Exam note:** First linguistic state **Andhra 1953**. Full reorganisation **1956**. SRC trio = **Fazl Ali, Panikkar, Kunzru**.
+> ** note:** First linguistic state **Andhra 1953**. Full reorganisation **1956**. SRC trio = **Fazl Ali, Panikkar, Kunzru**.
 
 **PYQ — UPPCS Prelims 2025, Q71**
 
 Which of the following persons were members of the States Reorganisation Commission?
 
-1. K. T. Shah  
-2. K. M. Panikkar  
-3. P. Sitaramayya  
+1. K. T. Shah
+2. K. M. Panikkar
+3. P. Sitaramayya
 4. H. N. Kunzru
 
 A. 1 and 3
@@ -513,7 +512,7 @@ D. Uttar Pradesh
 - **Avadi 1955** spoke of a **socialistic pattern of society**.
 - **Industrial Policy Resolution 1956** put the commanding heights with the public sector.
 
-> **Exam note:** PC ≠ Finance Commission. NITI ≠ renamed PC with the same plan-power. First NITI VC = **Panagariya**, not Rajiv Kumar.
+> ** note:** PC ≠ Finance Commission. NITI ≠ renamed PC with the same plan-power. First NITI VC = **Panagariya**, not Rajiv Kumar.
 
 **PYQ — UPPCS Prelims 2018, Q144**
 
@@ -576,7 +575,7 @@ D. Rajiv Kumar
 
 ## 15.8 Five-Year Plans
 
-| Plan | Years | Exam lock |
+| Plan | Years | Key fact |
 |------|-------|-----------|
 | **1st** | 1951–56 | Agriculture, irrigation, CDP; Harrod–Domar / K.N. Raj |
 | **2nd** | 1956–61 | **Mahalanobis**; heavy industry; **Bhilai (USSR), Rourkela (West Germany), Durgapur (UK)** |
@@ -597,7 +596,7 @@ D. Rajiv Kumar
 - The **12th Plan was the last** Five-Year Plan.
 - After that came NITI-era strategy documents, not a 13th Plan of the old type.
 
-> **Exam note:** Sustainable-growth slogan = **12th**, not 11th. Steel plants = **2nd Plan**. CDP = **1st Plan**.
+> ** note:** Sustainable-growth slogan = **12th**, not 11th. Steel plants = **2nd Plan**. CDP = **1st Plan**.
 
 **PYQ — UPPCS Prelims 2018, Q40**
 
@@ -620,7 +619,7 @@ D. 12th
 
 ---
 
-## Must-score locks — integration, enclaves and plans
+## Must-score facts — integration, enclaves and plans
 
 ### Territory ↔ route ↔ year merged
 
@@ -634,7 +633,7 @@ D. 12th
 | Pondicherry, Karaikal, Mahe, Yanam | Kizhoor referendum + treaty | De facto 1954; de jure 1962 |
 | Goa, Daman and Diu | Operation Vijay (military) | 1961; UT by 12th Amendment 1962; Goa State 1987 |
 
-### Five-Year Plan ↔ signature lock
+### Five-Year Plan ↔ signature fact
 
 | Plan | Signature |
 |------|-----------|
@@ -646,13 +645,13 @@ D. 12th
 | 8th (1992–97) | Liberalisation |
 | 12th (2012–17) | Sustainable growth — the **last** Five-Year Plan |
 
-> **Exam note:** Do not swap the enclave dates — de facto merger and de jure/legal completion can be years apart, especially for Pondicherry (1954 vs 1962).
+> ** note:** Do not swap the enclave dates — de facto merger and de jure/legal completion can be years apart, especially for Pondicherry (1954 vs 1962).
 
 ---
 
 ## UP Focus
 
-| Lock | Detail |
+| Fact | Detail |
 |------|--------|
 | Etawah Pilot | **1948**, **Albert Mayer**, **Mahewa**, Etawah district — national CDP model |
 | UP in 1950 map | **Part A** state (former United Provinces) |
@@ -668,7 +667,7 @@ D. 12th
 
 **Q1.** Which persons were members of the States Reorganisation Commission?
 
-1. K. T. Shah  2. K. M. Panikkar  3. P. Sitaramayya  4. H. N. Kunzru
+1. K. T. Shah 2. K. M. Panikkar 3. P. Sitaramayya 4. H. N. Kunzru
 
 A. 1 and 3
 
@@ -687,7 +686,7 @@ D. 1 and 2
 
 ---
 
-**Q2.** Arrange: 1. Food for Work  2. CDP  3. TRYSEM  4. DPAP
+**Q2.** Arrange: 1. Food for Work 2. CDP 3. TRYSEM 4. DPAP
 
 A. 4, 2, 3, 1
 
@@ -706,8 +705,8 @@ D. 4, 2, 1, 3
 
 ---
 
-**Q3.** Match: A. Union Constitution Committee  B. Rules of Procedure  C. Drafting  D. FR Sub-Committee  
-With: 1. Rajendra Prasad  2. J.B. Kripalani  3. Ambedkar  4. Nehru
+**Q3.** Match: A. Union Constitution Committee B. Rules of Procedure C. Drafting D. FR Sub-Committee
+With: 1. Rajendra Prasad 2. J.B. Kripalani 3. Ambedkar 4. Nehru
 
 A. 2 1 3 4
 
@@ -726,7 +725,7 @@ D. 1 2 3 4
 
 ---
 
-**Q4.** Arrange: (I) Drafting Committee  (II) Constitution adopted  (III) Commencement  (IV) CA first met
+**Q4.** Arrange: (I) Drafting Committee (II) Constitution adopted (III) Commencement (IV) CA first met
 
 A. III, II, I, IV
 
@@ -840,7 +839,7 @@ D. 22 July 1948
 
 ---
 
-**Q10.** Arrange: I. Hari Singh IoA  II. Constitution of India enforced  III. J&K CA ratifies accession  IV. J&K Constitution in force
+**Q10.** Arrange: I. Hari Singh IoA II. Constitution of India enforced III. J&K CA ratifies accession IV. J&K Constitution in force
 
 A. I, III, IV, II
 
@@ -861,7 +860,7 @@ D. IV, III, II, I
 
 **Q11.** With reference to Etawah Pilot, which of the following statements is/are correct?
 
-1. It began in 1948 in Etawah district, Uttar Pradesh.  
+1. It began in 1948 in Etawah district, Uttar Pradesh.
 2. It is associated with Albert Mayer.
 
 A. Only 1
@@ -883,7 +882,7 @@ D. Neither 1 nor 2
 
 **Q12.** With reference to CDP, which of the following statements is/are correct?
 
-1. It was launched on 2 October 1952.  
+1. It was launched on 2 October 1952.
 2. It belongs to the First Five-Year Plan.
 
 A. Only 1
@@ -924,8 +923,8 @@ D. Etawah — 2 October 1952
 
 **Q14.** Match List-I with List-II.
 
-**List-I** A. Junagadh  B. Hyderabad  C. J&K  D. States Department  
-**List-II** 1. Operation Polo  2. Plebiscite  3. IoA 26 Oct 1947  4. Patel and V.P. Menon
+**List-I** A. Junagadh B. Hyderabad C. J&K D. States Department
+**List-II** 1. Operation Polo 2. Plebiscite 3. IoA 26 Oct 1947 4. Patel and V.P. Menon
 
 A. 2 1 3 4
 
@@ -946,7 +945,7 @@ D. 2 3 1 4
 
 **Q15.** Instrument of Accession ceded which subjects?
 
-1. Defence  2. External Affairs  3. Communications  4. Land revenue
+1. Defence 2. External Affairs 3. Communications 4. Land revenue
 
 A. 1, 2 and 3
 
@@ -969,10 +968,10 @@ D. 2 and 3 only
 
 Reason (R): SRC was headed by Fazl Ali in the 1950s.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -986,7 +985,7 @@ D. (A) is false, but (R) is true
 
 **Q17.** With reference to SRC, which of the following statements is/are correct?
 
-1. Fazl Ali was the Chairman.  
+1. Fazl Ali was the Chairman.
 2. Pattabhi Sitaramayya was a member of SRC.
 
 A. Only 1
@@ -1008,7 +1007,7 @@ D. Neither 1 nor 2
 
 **Q18.** Consider the following statements:
 
-1. Dhar Commission (1948) did not recommend language as the basis of provinces.  
+1. Dhar Commission (1948) did not recommend language as the basis of provinces.
 2. JVP Committee found linguistic states premature.
 
 A. Only 1
@@ -1030,8 +1029,8 @@ D. Neither 1 nor 2
 
 **Q19.** Which of the following pairs are NOT correctly matched?
 
-1. States Reorganisation Act — 1 November 1956  
-2. Andhra State — 1 October 1953  
+1. States Reorganisation Act — 1 November 1956
+2. Andhra State — 1 October 1953
 3. Bombay split — 1956
 
 A. Only 3
@@ -1053,7 +1052,7 @@ D. Only 1
 
 **Q20.** With reference to the Planning Commission, which of the following statements is/are correct?
 
-1. It was set up in March 1950 by Cabinet resolution.  
+1. It was set up in March 1950 by Cabinet resolution.
 2. It was a constitutional body under Article 280.
 
 A. Only 1
@@ -1075,8 +1074,8 @@ D. Neither 1 nor 2
 
 **Q21.** Match List-I with List-II.
 
-**List-I** A. 1st Plan  B. 2nd Plan  C. Plan Holiday  D. 12th Plan  
-**List-II** 1. 1966–69  2. Agriculture / CDP  3. Sustainable growth  4. Mahalanobis
+**List-I** A. 1st Plan B. 2nd Plan C. Plan Holiday D. 12th Plan
+**List-II** 1. 1966–69 2. Agriculture / CDP 3. Sustainable growth 4. Mahalanobis
 
 A. 2 4 1 3
 
@@ -1099,10 +1098,10 @@ D. 2 1 4 3
 
 Reason (R): NITI Aayog was created by a constitutional amendment in 2015.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1116,7 +1115,7 @@ D. (A) is false, but (R) is true
 
 **Q23.** Consider the following statements:
 
-1. Second Plan steel plants include Bhilai, Rourkela and Durgapur.  
+1. Second Plan steel plants include Bhilai, Rourkela and Durgapur.
 2. These three were all built with only US aid.
 
 A. Only 1
@@ -1157,7 +1156,7 @@ D. CDP — 1948
 
 **Q25.** With reference to Hyderabad, which of the following statements is/are correct?
 
-1. Operation Polo was in September 1948.  
+1. Operation Polo was in September 1948.
 2. Razakars were associated with Kasim Razvi.
 
 A. Only 1
@@ -1179,8 +1178,8 @@ D. Neither 1 nor 2
 
 **Q26.** Match List-I with List-II.
 
-**List-I** A. Drafting Committee  B. Objective Resolution  C. Flag adopted  D. CA first met  
-**List-II** 1. 9 Dec 1946  2. 13 Dec 1946  3. 29 Aug 1947  4. 22 Jul 1947
+**List-I** A. Drafting Committee B. Objective Resolution C. Flag adopted D. CA first met
+**List-II** 1. 9 Dec 1946 2. 13 Dec 1946 3. 29 Aug 1947 4. 22 Jul 1947
 
 A. 3 2 4 1
 
@@ -1201,7 +1200,7 @@ D. 3 4 2 1
 
 **Q27.** Consider the following statements:
 
-1. Privy purses were abolished by the 26th Amendment, 1971.  
+1. Privy purses were abolished by the 26th Amendment, 1971.
 2. IoA in 1947 already abolished privy purses.
 
 A. Only 1
@@ -1223,8 +1222,8 @@ D. Neither 1 nor 2
 
 **Q28.** Which of the following pairs are NOT correctly matched?
 
-1. Part A states (1950) — former Governor’s provinces  
-2. Part B states — princely unions  
+1. Part A states (1950) — former Governor’s provinces
+2. Part B states — princely unions
 3. Part D — Hyderabad
 
 A. Only 3
@@ -1246,7 +1245,7 @@ D. Only 1
 
 **Q29.** With reference to NES, which of the following statements is/are correct?
 
-1. National Extension Service began in 1953.  
+1. National Extension Service began in 1953.
 2. It was more intensive than CDP project blocks.
 
 A. Only 1
@@ -1268,7 +1267,7 @@ D. Neither 1 nor 2
 
 **Q30.** Balwant Rai Mehta (1957) recommended which three tiers?
 
-1. Gram Panchayat  2. Panchayat Samiti  3. Zila Parishad  4. Nyaya Panchayat
+1. Gram Panchayat 2. Panchayat Samiti 3. Zila Parishad 4. Nyaya Panchayat
 
 A. 1, 2 and 3
 
@@ -1287,7 +1286,7 @@ D. 2, 3 and 4
 
 ---
 
-**Q31.** Arrange: 1. Etawah Pilot  2. Constitution commencement  3. CDP  4. Andhra State
+**Q31.** Arrange: 1. Etawah Pilot 2. Constitution commencement 3. CDP 4. Andhra State
 
 A. 1, 2, 3, 4
 
@@ -1310,10 +1309,10 @@ D. 1, 3, 2, 4
 
 Reason (R): Potti Sriramulu’s fast and death in 1952 forced the language issue.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1384,7 +1383,7 @@ D. Rules of Procedure — Rajendra Prasad
 
 **Q36.** With reference to NDC, which of the following statements is/are correct?
 
-1. It was set up in 1952.  
+1. It was set up in 1952.
 2. It was chaired by the Prime Minister and included Chief Ministers.
 
 A. Only 1
@@ -1406,7 +1405,7 @@ D. Neither 1 nor 2
 
 **Q37.** Consider the following statements:
 
-1. The 12th Plan was the last Five-Year Plan.  
+1. The 12th Plan was the last Five-Year Plan.
 2. Inclusive growth is the slogan most associated with the 11th Plan.
 
 A. Only 1
@@ -1428,8 +1427,8 @@ D. Neither 1 nor 2
 
 **Q38.** Match List-I with List-II.
 
-**List-I** A. Maharashtra and Gujarat  B. Haryana  C. Uttarakhand  D. Telangana  
-**List-II** 1. 2000  2. 1960  3. 2014  4. 1966
+**List-I** A. Maharashtra and Gujarat B. Haryana C. Uttarakhand D. Telangana
+**List-II** 1. 2000 2. 1960 3. 2014 4. 1966
 
 A. 2 4 1 3
 
@@ -1450,8 +1449,8 @@ D. 2 1 4 3
 
 **Q39.** Which of the following pairs are NOT correctly matched?
 
-1. Avadi session — socialistic pattern of society (1955)  
-2. IPR 1956 — commanding heights  
+1. Avadi session — socialistic pattern of society (1955)
+2. IPR 1956 — commanding heights
 3. First Plan — Mahalanobis heavy industry
 
 A. Only 3
@@ -1492,7 +1491,7 @@ D. Planning Commission (Now NITI Ayog)
 
 **Q41.** With reference to the Constituent Assembly, which of the following statements is/are correct?
 
-1. It first met on 9 December 1946.  
+1. It first met on 9 December 1946.
 2. Temporary President was Sachchidananda Sinha.
 
 A. Only 1
@@ -1535,10 +1534,10 @@ D. Drafting Committee — 29 Aug 1946
 
 Reason (R): NITI Aayog replaced the Planning Commission.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1552,7 +1551,7 @@ D. (A) is false, but (R) is true
 
 **Q44.** Consider the following statements:
 
-1. Village Level Worker / Gram Sevak was the field functionary of CDP.  
+1. Village Level Worker / Gram Sevak was the field functionary of CDP.
 2. CDP launched with 55 project areas.
 
 A. Only 1
@@ -1574,8 +1573,8 @@ D. Neither 1 nor 2
 
 **Q45.** Which of the following pairs are NOT correctly matched?
 
-1. Operation Polo — September 1948  
-2. J&K IoA — 26 October 1947  
+1. Operation Polo — September 1948
+2. J&K IoA — 26 October 1947
 3. Junagadh — Operation Polo
 
 A. Only 3
@@ -1597,7 +1596,7 @@ D. Only 1
 
 **Q46.** With reference to the merger of French settlements in India, which of the following statements is/are correct?
 
-1. Chandernagore merged into West Bengal in 1954.  
+1. Chandernagore merged into West Bengal in 1954.
 2. Pondicherry, Karaikal, Mahe and Yanam became a Union Territory the same year Chandernagore merged.
 
 A. Only 1
@@ -1676,7 +1675,7 @@ D. 1961
 
 **Q50.** Consider the following statements:
 
-1. French enclaves in India were transferred to India mainly through referendums.  
+1. French enclaves in India were transferred to India mainly through referendums.
 2. Goa was transferred to India in the same manner, through a referendum.
 
 A. Only 1
@@ -1704,9 +1703,9 @@ D. Neither 1 nor 2
 
 Which of the following persons were members of the States Reorganisation Commission?
 
-1. K. T. Shah  
-2. K. M. Panikkar  
-3. P. Sitaramayya  
+1. K. T. Shah
+2. K. M. Panikkar
+3. P. Sitaramayya
 4. H. N. Kunzru
 
 A. 1 and 3
@@ -1728,8 +1727,8 @@ D. 1 and 2
 
 Match List-I with List-II.
 
-**List-I (Committee)** A. Union Constitution Committee  B. Rules of Procedure Committee  C. Drafting Committee  D. Fundamental Rights Sub-Committee  
-**List-II (Chairman)** 1. Dr. Rajendra Prasad  2. J. B. Kripalani  3. Dr. B. R. Ambedkar  4. Jawaharlal Nehru
+**List-I (Committee)** A. Union Constitution Committee B. Rules of Procedure Committee C. Drafting Committee D. Fundamental Rights Sub-Committee
+**List-II (Chairman)** 1. Dr. Rajendra Prasad 2. J. B. Kripalani 3. Dr. B. R. Ambedkar 4. Jawaharlal Nehru
 
 A. 2 1 3 4
 
@@ -1750,9 +1749,9 @@ D. 1 2 3 4
 
 Consider the following programmes and arrange them in correct chronological order.
 
-1. Food for Work Programme  
-2. Community Development Programme  
-3. Training of Rural Youth for Self Employment (TRYSEM)  
+1. Food for Work Programme
+2. Community Development Programme
+3. Training of Rural Youth for Self Employment (TRYSEM)
 4. Drought Prone Areas Programme
 
 A. 4, 2, 3, 1
@@ -1776,9 +1775,9 @@ D. 4, 2, 1, 3
 
 Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
 
-(I) Appointment of the Drafting Committee  
-(II) Indian Constitution was adopted and enacted  
-(III) Date of commencement of Indian Constitution  
+(I) Appointment of the Drafting Committee
+(II) Indian Constitution was adopted and enacted
+(III) Date of commencement of Indian Constitution
 (IV) Constituent Assembly first met
 
 A. III, II, I, IV
@@ -1800,7 +1799,7 @@ D. IV, I, II, III
 
 **Q5. UPPCS Prelims 2021, Q1**
 
-"Can you show me one free country where there are separate electorates? ... The British element is gone, but they have left mischief behind".
+"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind".
 
 Who among the following said the above mentioned statement in the Constituent Assembly debates?
 
@@ -1865,9 +1864,9 @@ D. 22 July, 1948
 
 Arrange the following events in a chronological order:
 
-I. Maharaja Hari Singh signed the Instrument of Accession.  
-II. Constitution of India was enforced.  
-III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.  
+I. Maharaja Hari Singh signed the Instrument of Accession.
+II. Constitution of India was enforced.
+III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.
 IV. New Constitution of the State of Jammu and Kashmir came into force.
 
 A. I, III, IV, II

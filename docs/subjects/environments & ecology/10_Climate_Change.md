@@ -8,16 +8,16 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 </details>
 
-> **Sources baked in:** IPCC AR6, NCERT Geography/Biology, India NDC 2022, NAPCC 2008, MoEFCC, IMD, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — GHG traps, adaptation vs mitigation, treaty years, India targets  
+> **Sources baked in:** IPCC AR6, NCERT Geography/Biology, India NDC 2022, NAPCC 2008, MoEFCC, IMD, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — GHG traps, adaptation vs mitigation, treaty years, India targets
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. **Global warming** is the long-term rise in average surface temperature. It is a subset of broader **climate change**, which also includes rainfall, extremes, and sea-level shifts.
-2. IPCC AR6 locks about **1.1°C** above 1850–1900 globally. India has warmed about **0.7°C** since 1901 (IMD class figure).
+2. IPCC AR6 facts about **1.1°C** above 1850–1900 globally. India has warmed about **0.7°C** since 1901 (IMD class figure).
 3. The natural greenhouse effect keeps Earth near about **+15°C**. Without it, Earth would be near about **−18°C**.
 4. Enhanced greenhouse effect means excess anthropogenic GHGs trap outgoing infrared radiation.
 5. Kyoto-basket majors: **CO₂** (largest forcing share, GWP **1**), **CH₄** (GWP about **28–36**), **N₂O** (GWP about **265**), plus HFCs, PFCs, and SF₆.
@@ -35,7 +35,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 17. Climate treaty chain: **UNFCCC 1992 → Kyoto Protocol 1997 → Paris Agreement 2015**.
 18. **Montreal Protocol (1987)** is for **ozone / ODS**, not climate mitigation. Do not swap Montreal with Kyoto/Paris.
 19. UP heat vulnerability often cites Lucknow, Agra, Prayagraj, and NCR.
-20. UP drought lock is **Bundelkhand’s seven districts**. Flood locks include Ballia, Ghazipur, and Varanasi belts.
+20. UP drought fact is **Bundelkhand’s seven districts**. Flood facts include Ballia, Ghazipur, and Varanasi belts.
 21. Emissions hotspot language for UP–MP often points to the **Singrauli** coal belt.
 22. Terai forests at Dudhwa and Pilibhit are UP **carbon-sink** examples.
 23. NCAP cities for UP air–climate overlap include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, and Noida.
@@ -45,7 +45,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -74,7 +74,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Arctic warming** is about **2–3 times faster** than the global average.
 - A single cold day is **weather**. Multi-decade warming trend is **climate**.
 
-> **Exam note:** "Warming is entirely natural" is **false**. IPCC attributes recent trend mainly to human activity.
+> ** note:** "Warming is entirely natural" is **false**. IPCC attributes recent trend mainly to human activity.
 
 ---
 
@@ -91,7 +91,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Water vapour** is the most abundant natural GHG but acts mainly as a **feedback**, not a primary emitted driver like CO₂.
 - The greenhouse effect is **not ozone depletion**. Ozone blocks UV; GHGs trap IR.
 
-> **Exam note:** The natural greenhouse effect is **essential**. The problem is the **enhanced** anthropogenic effect.
+> ** note:** The natural greenhouse effect is **essential**. The problem is the **enhanced** anthropogenic effect.
 
 ---
 
@@ -116,7 +116,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 | CH₄ | ~16% | 28–36 |
 | N₂O | ~6% | 265 |
 
-> **Exam note:** Highest **GWP per molecule** ≠ largest total warming. **CO₂ dominates by volume emitted**.
+> ** note:** Highest **GWP per molecule** ≠ largest total warming. **CO₂ dominates by volume emitted**.
 
 ---
 
@@ -133,7 +133,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - The **energy/electricity sector** is India's largest emissions source.
 - **LiFE Mission (2022)** promotes lifestyle changes to reduce individual footprints.
 
-> **Exam note:** India has low **per capita** footprint but high **total** emissions due to population size.
+> ** note:** India has low **per capita** footprint but high **total** emissions due to population size.
 
 ---
 
@@ -149,7 +149,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Deforestation** converts a sink into a **source** by releasing stored carbon and removing uptake capacity.
 - India's NDC targets an additional **2.5–3 GtCO₂e forest carbon sink** by 2030.
 
-> **Exam note:** A coal plant is a **source**. A growing forest is a **sink**.
+> ** note:** A coal plant is a **source**. A growing forest is a **sink**.
 
 ---
 
@@ -165,7 +165,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **CAMPA** and the **Green Credit Programme (2023)** finance ecosystem restoration in India.
 - Stored carbon can be **re-released** by fire or deforestation, creating permanence risk.
 
-> **Exam note:** **Sequestration** is the process. **Sink** is the reservoir.
+> ** note:Sequestration** is the process. **Sink** is the reservoir.
 
 ---
 
@@ -182,7 +182,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Sea-level rise** threatens coastal India and increases delta salinity pressures.
 - **Coral bleaching** occurs when sea surface temperature rises about **1–2°C above normal** for sustained periods.
 
-> **Exam note:** UPPCS 2024 Q19 — Andaman coral bleaching linked to **+2°C Indian Ocean warming**.
+> ** note:** UPPCS 2024 Q19 — Andaman coral bleaching linked to **+2°C Indian Ocean warming**.
 
 **PYQ — UPPCS Prelims 2024, Q19**
 
@@ -227,7 +227,7 @@ D. −4°C cooling
 | 7 | Sustainable Agriculture |
 | 8 | Strategic Knowledge for Climate Change |
 
-> **Exam note:** Building sea walls = **adaptation**. Closing coal plants = **mitigation**.
+> ** note:** Building sea walls = **adaptation**. Closing coal plants = **mitigation**.
 
 ---
 
@@ -245,7 +245,7 @@ D. −4°C cooling
 - **LiFE (Lifestyle for Environment)** was launched in **June 2022**. The idea was proposed at **COP-26**, not COP-25.
 - **Montreal Protocol (1987)** controls **ozone-depleting substances**, not climate change.
 
-> **Exam note:** UPPCS 2024 Q35 — climate mitigation treaty = **Kyoto**. Montreal = ozone.
+> ** note:** UPPCS 2024 Q35 — climate mitigation treaty = **Kyoto**. Montreal = ozone.
 
 **PYQ — UPPCS Prelims 2024, Q35**
 
@@ -294,11 +294,9 @@ D. Only 1
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
+> **30 questionsQ1.** With reference to global warming, which statements is/are correct?
 
-**Q1.** With reference to global warming, which statements is/are correct?
-
-1. IPCC AR6 estimates about 1.1°C warming above pre-industrial levels.  
+1. IPCC AR6 estimates about 1.1°C warming above pre-industrial levels.
 2. Global warming and climate change are identical in every respect.
 
 A. Only 1
@@ -317,7 +315,7 @@ D. Neither
 
 **Q2.** With reference to the greenhouse effect, which statements is/are correct?
 
-1. Without the natural greenhouse effect, Earth would be far colder.  
+1. Without the natural greenhouse effect, Earth would be far colder.
 2. The greenhouse effect is the same as ozone layer depletion.
 
 A. Only 1
@@ -622,7 +620,7 @@ D. Product disposal
 
 </details>
 
-**Q21.** Assertion (A): Enhanced greenhouse effect causes global warming.  
+**Q21.** Assertion (A): Enhanced greenhouse effect causes global warming.
 Reason (R): GHGs trap outgoing infrared radiation.
 
 A. Both true; R explains A
@@ -787,19 +785,9 @@ D. Weather forecasting
 
 ## Complete PYQ Bank (Topic 10)
 
-**Q1. UPPCS 2025, Q139** — LiFE → **Ans: D (Only 1)**
+**Q1. UPPCS 2025, Q139** — LiFE → **Ans: D (Only 1)Q2. UPPCS 2024, Q35** — Climate mitigation treaty → **Ans: C (Kyoto)Q3. UPPCS 2024, Q19** — Coral bleaching → **Ans: B (+2°C warming)Q4. UPPCS 2023, Q109** — India GHG rank 2022 → **Ans: B (10th per CCPI framing)** — Trap: **3rd** in absolute total emissions.
 
-**Q2. UPPCS 2024, Q35** — Climate mitigation treaty → **Ans: C (Kyoto)**
-
-**Q3. UPPCS 2024, Q19** — Coral bleaching → **Ans: B (+2°C warming)**
-
-**Q4. UPPCS 2023, Q109** — India GHG rank 2022 → **Ans: B (10th per CCPI framing)** — Trap: **3rd** in absolute total emissions.
-
-**Q5. UPPCS 2022, Q103** — NOT a GHG → **Ans: A (Argon)**
-
-**Q6. UPPCS 2018 pattern** — Global warming increases frequency of → **extreme weather / heat waves**
-
-**Q7. UPSC pattern** — Kyoto Protocol bound → **Annex I developed countries**
+**Q5. UPPCS 2022, Q103** — NOT a GHG → **Ans: A (Argon)Q6. UPPCS 2018 pattern** — Global warming increases frequency of → **extreme weather / heat wavesQ7. UPSC pattern** — Kyoto Protocol bound → **Annex I developed countries**
 
 ---
 
@@ -811,7 +799,7 @@ D. Weather forecasting
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Montreal = climate treaty | **Ozone** — Kyoto/Paris = climate |
 | LiFE proposed at COP-25 | **COP-26 Glasgow** |
@@ -822,7 +810,7 @@ D. Weather forecasting
 | Kyoto bound India to cuts | Bound **Annex I developed** countries |
 | Coral bleaching from cooling | **Warming** (+1–2°C SST) |
 | Deforestation increases sink | Converts sink to **source** |
-| CCPI rank = total emitter rank | **3rd total** vs **10th CCPI** (2023 Q109) |
+| CCPI rank = total emitter rank | **3rd total** vs **10th CCPI** |
 | Water vapour main human GHG driver | **Feedback**, CO₂ is primary driver |
 
 ---

@@ -299,7 +299,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 **Q30.** Match key edicts. Row order is **not** the answer.
 
-| Edict | Lock |
+| Edict | Fact |
 | ----- | ---- |
 | Major RE I | ? |
 | Major RE II | ? |
@@ -491,7 +491,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 </details>
 
 
-**Q47.** What is the Sudarshana Lake lock?
+**Q47.** What is the Sudarshana Lake fact?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -668,7 +668,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## UP special
 
-**Q63.** What are the main Mauryan locks at Sarnath?
+**Q63.** What are the main Mauryan facts at Sarnath?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -721,7 +721,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q68.** From memory, link each name to its Mauryan lock:
+**Q68.** From memory, link each name to its Mauryan fact:
 
 | Recall item |
 |-------------|
@@ -743,7 +743,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Name | Lock |
+| Name | Fact |
 |------|------|
 | Chandragupta | Nanda overthrow / **322** |
 | Bindusara | **Amitraghata** |
@@ -764,9 +764,9 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ---
 
-## Extra locks the drill skipped
+## Extra facts the drill skipped
 
-**Q69.** From memory, state the Mauryan exam lock for each date or anchor below:
+**Q69.** From memory, state the Mauryan key fact for each date or anchor below:
 
 | Recall item |
 |-------------|
@@ -782,7 +782,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Anchor | Lock |
+| Anchor | Fact |
 |--------|------|
 | 322 BCE | **Chandragupta** overthrows the Nandas |
 | 305–303 BCE | Treaty with **Seleucus** |

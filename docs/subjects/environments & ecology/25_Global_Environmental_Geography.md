@@ -8,22 +8,22 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 </details>
 
-> **Sources baked in:** NCERT Geo 11; Bio 12 Ch 15–16; Köppen; Myers hotspots; UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★ Medium–High — biome matching; desert countries; Brazil Selva; tribe–habitat traps  
+> **Sources baked in:** NCERT Geo 11; Bio 12 Ch 15–16; Köppen; Myers hotspots; UPPCS PYQs 2018–2025
+> **Weight:** ★★ Medium–High — biome matching; desert countries; Brazil Selva; tribe–habitat traps
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. Global environmental geography asks **where and why** Earth’s climate–biome patterns occur. Climate (temperature and rainfall) shapes biomes, biodiversity, and degradation belts.
 2. Major biomes to ratta: tropical rainforest (Amazon **Selva**), tropical deciduous (Indian monsoon forests), desert (**<25 cm** rain), savanna (scattered trees with wet–dry seasons), temperate grassland (**Prairie, Steppe, Pampas, Puszta**), taiga/boreal, tundra, Mediterranean chaparral, and coastal mangrove as a transitional belt.
 3. **Köppen** letters: **A** tropical, **B** arid, **C** temperate, **D** cold, **E** polar. India is largely monsoon (**Am** type language); Thar is hot desert (**BWh**); Gobi is cold desert (**BWk**).
 4. **Sahara** is the largest hot desert. **Atacama** is among the driest. **Gobi** spans **Mongolia and China**.
 5. Australia’s interior desert is explained mainly by **subtropical high pressure and continentality** — not by calling northern Australia “temperate.”
-6. Brazil locks: **Selva** = Amazon equatorial rainforest name; **Terra Roxa** = fertile dark volcanic soil. Both can be true together in match stems.
+6. Brazil facts: **Selva** = Amazon equatorial rainforest name; **Terra Roxa** = fertile dark volcanic soil. Both can be true together in match stems.
 7. Floral matching classics: Planting Hearth → **C.O. Sauer**; World Floral Regions → **Adolf Engler**; Cryophyte Steppe → Arctic tundra setting; **Puszta** → **Hungary**.
-8. Tribe–region locks: Bushman–Kalahari; Eskimo–northern Canada; Pygmy–Congo. **Masai are East Africa**, not West Africa.
+8. Tribe–region facts: Bushman–Kalahari; Eskimo–northern Canada; Pygmy–Congo. **Masai are East Africa**, not West Africa.
 9. **Permafrost** appears in **taiga and tundra**. It is **not** a savanna feature.
 10. Global biome counts (often **14** in textbook lists) are **not** the same as India’s **ten** biogeographic zones (Rodgers and Panwar).
 11. Biome is a large climate-defined vegetation–fauna region. Ecosystem is a local biotic–abiotic functional unit. Do not treat them as identical scales.
@@ -37,13 +37,13 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 19. India’s monsoon deciduous belt is not Amazon Selva.
 20. Permafrost continuous cover is strongest in tundra; taiga may show patches — still not savanna.
 21. Mediterranean biome is winter-rain shrubland (chaparral type), distinct from monsoon India.
-22. Desert rainfall lock **<25 cm** is the quick arid filter in many MCQs.
-23. Engler floral regions and Sauer planting hearth are cultural–biogeography match locks, not climate-classification letters.
+22. Desert rainfall fact **<25 cm** is the quick arid filter in many MCQs.
+23. Engler floral regions and Sauer planting hearth are cultural–biogeography matchs, not climate-classification letters.
 24. Keep “14 biomes vs 10 Indian biogeographic zones” as a numbers trap pair.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -74,10 +74,10 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 **PYQ — UPPCS Prelims 2025, Q1**
 
-Assertion (A): The interior part of Australia is desert and semi-desert.  
+Assertion (A): The interior part of Australia is desert and semi-desert.
 Reason (R): Northern Australia is situated in the temperate zone.
 
-Options: A. Both true; R does not explain A  B. A false, R true  C. A true, R false  D. Both true; R explains A
+Options: A. Both true; R does not explain A B. A false, R true C. A true, R false D. Both true; R explains A
 
 <details><summary>Show answer</summary>
 
@@ -85,7 +85,7 @@ Options: A. Both true; R does not explain A  B. A false, R true  C. A true, R fa
 
 </details>
 
-> **Exam note:** Australia desert ≠ temperate-zone explanation.
+> ** note:** Australia desert ≠ temperate-zone explanation.
 
 ---
 
@@ -102,7 +102,7 @@ Options: A. Both true; R does not explain A  B. A false, R true  C. A true, R fa
 - **Taiga (boreal):** cold winters; spruce/fir/pine; **permafrost patches** — Siberia, Canada, Scandinavia.
 - **Tundra:** short summer; moss/lichen; **continuous permafrost** — Arctic coasts; no trees.
 - **Mediterranean (chaparral):** wet winters, dry summers; fire-adapted shrubs — California, Mediterranean Basin, Cape Town.
-- **Mangrove / wetland:** **transitional** terrestrial–aquatic — not purely terrestrial.
+- **Mangrove / wetland:transitional** terrestrial–aquatic — not purely terrestrial.
 
 | Biome | Climate | Global example |
 |-------|---------|----------------|
@@ -113,7 +113,7 @@ Options: A. Both true; R does not explain A  B. A false, R true  C. A true, R fa
 | Taiga | Cold coniferous | Siberia, Canada |
 | Tundra | Very cold, permafrost | Arctic |
 
-> **Exam note:** **Permafrost = Taiga + Tundra**, not Savannah. **14 global biomes ≠ 10 Indian biogeographic zones**.
+> ** note:Permafrost = Taiga + Tundra**, not Savannah. **14 global biomes ≠ 10 Indian biogeographic zones**.
 
 ---
 
@@ -129,7 +129,7 @@ Options: A. Both true; R does not explain A  B. A false, R true  C. A true, R fa
 - **ITCZ** seasonal shift drives monsoon and equatorial rain; failure causes Sahel drought.
 - Same latitude can differ: cold west-coast currents → aridity; warm east coasts → wetter.
 
-| Group | Name | India / exam example |
+| Group | Name | India / example |
 |-------|------|----------------------|
 | A | Tropical | India Am |
 | B | Arid | Thar BWh, Gobi BWk |
@@ -137,7 +137,7 @@ Options: A. Both true; R does not explain A  B. A false, R true  C. A true, R fa
 | D | Cold | Siberia taiga |
 | E | Polar | Antarctica |
 
-> **Exam note:** "India has Af rainforest climate everywhere" = **FALSE** — India is mainly **Am**.
+> ** note:** "India has Af rainforest climate everywhere" = **FALSE** — India is mainly **Am**.
 
 ---
 
@@ -158,7 +158,7 @@ Options: A. Both true; R does not explain A  B. A false, R true  C. A true, R fa
 
 The Gobi Desert extends into: (1) Mongolia (2) China (3) Russia (4) Kazakhstan
 
-Options: A. Only 1 and 2  B. Only 1, 2 and 4  C. Only 1, 2 and 3  D. Only 1
+Options: A. Only 1 and 2 B. Only 1, 2 and 4 C. Only 1, 2 and 3 D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -170,7 +170,7 @@ Options: A. Only 1 and 2  B. Only 1, 2 and 4  C. Only 1, 2 and 3  D. Only 1
 
 Brazil: (1) Equatorial rainforests called "Selva". (2) Fertile dark soil known as "Terra Roxa".
 
-Options: A. Only 2  B. Neither  C. Both  D. Only 1
+Options: A. Only 2 B. Neither C. Both D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -188,7 +188,7 @@ Tribe–habitat NOT correctly matched: Bushman–Kalahari; Eskimo–N Canada; Py
 
 </details>
 
-| Desert | Region | Lock |
+| Desert | Region | Fact |
 |--------|--------|------|
 | Sahara | N Africa | Largest hot desert |
 | Atacama | Chile | Driest |
@@ -196,7 +196,7 @@ Tribe–habitat NOT correctly matched: Bushman–Kalahari; Eskimo–N Canada; Py
 | Kalahari | S Africa | Bushman/San |
 | Thar | India–Pakistan | Hot desert |
 
-> **Exam note:** Pampas = **Argentina** (2018). Land of Big Games = **Tropical Savanna**.
+> ** note:** Pampas = **Argentina** (2018). Land of Big Games = **Tropical Savanna**.
 
 ---
 
@@ -212,10 +212,10 @@ Tribe–habitat NOT correctly matched: Bushman–Kalahari; Eskimo–N Canada; Py
 
 **PYQ — UPPCS Prelims 2024, Q29**
 
-Match: A. Planting Hearth B. Cryophyte Steppe C. World Floral Regions D. Puszta Grassland  
+Match: A. Planting Hearth B. Cryophyte Steppe C. World Floral Regions D. Puszta Grassland
 With: 1. Hungary 2. Adolf Engler 3. C.O. Sauer 4. Arctic Tundra
 
-Options: A. 3 4 2 1  B. 2 1 4 3  C. 3 4 1 2  D. 2 3 4 1
+Options: A. 3 4 2 1 B. 2 1 4 3 C. 3 4 1 2 D. 2 3 4 1
 
 <details><summary>Show answer</summary>
 
@@ -223,7 +223,7 @@ Options: A. 3 4 2 1  B. 2 1 4 3  C. 3 4 1 2  D. 2 3 4 1
 
 </details>
 
-| Pair | Lock |
+| Pair | Fact |
 |------|------|
 | Planting Hearth | C.O. Sauer |
 | World Floral Regions | Adolf Engler |
@@ -231,7 +231,7 @@ Options: A. 3 4 2 1  B. 2 1 4 3  C. 3 4 1 2  D. 2 3 4 1
 | Puszta | Hungary |
 | Pampas | Argentina |
 
-> **Exam note:** Do not swap Engler ↔ Sauer.
+> ** note:** Do not swap Engler ↔ Sauer.
 
 ---
 
@@ -252,7 +252,7 @@ Options: A. 3 4 2 1  B. 2 1 4 3  C. 3 4 1 2  D. 2 3 4 1
 | Indo-Burma | NE India |
 | Sundaland | Nicobar |
 
-> **Exam note:** Hotspot needs **both** endemism and habitat loss — not richness alone.
+> ** note:** Hotspot needs **both** endemism and habitat loss — not richness alone.
 
 ---
 
@@ -261,7 +261,7 @@ Options: A. 3 4 2 1  B. 2 1 4 3  C. 3 4 1 2  D. 2 3 4 1
 
 **Q1.** Interior Australia is desert mainly because of:
 
-Options: A. Temperate location of northern Australia  B. Subtropical high and continentality  C. Permanent ice  D. Mangrove cover
+Options: A. Temperate location of northern Australia B. Subtropical high and continentality C. Permanent ice D. Mangrove cover
 
 <details><summary>Show answer</summary>
 
@@ -271,7 +271,7 @@ Options: A. Temperate location of northern Australia  B. Subtropical high and co
 
 **Q2.** Northern Australia is mainly:
 
-Options: A. Temperate  B. Tropical  C. Polar  D. Mediterranean only
+Options: A. Temperate B. Tropical C. Polar D. Mediterranean only
 
 <details><summary>Show answer</summary>
 
@@ -281,7 +281,7 @@ Options: A. Temperate  B. Tropical  C. Polar  D. Mediterranean only
 
 **Q3.** Gobi Desert extends primarily into:
 
-Options: A. Mongolia and China  B. India and Pakistan  C. Brazil and Chile  D. Egypt and Libya
+Options: A. Mongolia and China B. India and Pakistan C. Brazil and Chile D. Egypt and Libya
 
 <details><summary>Show answer</summary>
 
@@ -291,7 +291,7 @@ Options: A. Mongolia and China  B. India and Pakistan  C. Brazil and Chile  D. E
 
 **Q4.** Brazilian equatorial rainforest is called:
 
-Options: A. Selva  B. Puszta  C. Pampas  D. Taiga
+Options: A. Selva B. Puszta C. Pampas D. Taiga
 
 <details><summary>Show answer</summary>
 
@@ -301,7 +301,7 @@ Options: A. Selva  B. Puszta  C. Pampas  D. Taiga
 
 **Q5.** Terra Roxa is:
 
-Options: A. Fertile dark soil of Brazil  B. Cold desert of Mongolia  C. Hungarian grassland  D. Arctic ice
+Options: A. Fertile dark soil of Brazil B. Cold desert of Mongolia C. Hungarian grassland D. Arctic ice
 
 <details><summary>Show answer</summary>
 
@@ -311,7 +311,7 @@ Options: A. Fertile dark soil of Brazil  B. Cold desert of Mongolia  C. Hungaria
 
 **Q6.** Masai habitat is correctly:
 
-Options: A. West Africa  B. East Africa  C. Kalahari  D. Congo Basin only
+Options: A. West Africa B. East Africa C. Kalahari D. Congo Basin only
 
 <details><summary>Show answer</summary>
 
@@ -321,7 +321,7 @@ Options: A. West Africa  B. East Africa  C. Kalahari  D. Congo Basin only
 
 **Q7.** Bushman (San) are associated with:
 
-Options: A. Kalahari Desert  B. Gobi  C. Thar  D. Atacama
+Options: A. Kalahari Desert B. Gobi C. Thar D. Atacama
 
 <details><summary>Show answer</summary>
 
@@ -331,7 +331,7 @@ Options: A. Kalahari Desert  B. Gobi  C. Thar  D. Atacama
 
 **Q8.** Pygmy habitat:
 
-Options: A. Congo Basin  B. Arctic Canada  C. Hungary  D. Argentina
+Options: A. Congo Basin B. Arctic Canada C. Hungary D. Argentina
 
 <details><summary>Show answer</summary>
 
@@ -341,7 +341,7 @@ Options: A. Congo Basin  B. Arctic Canada  C. Hungary  D. Argentina
 
 **Q9.** Puszta grassland is in:
 
-Options: A. Hungary  B. Argentina  C. Australia  D. India
+Options: A. Hungary B. Argentina C. Australia D. India
 
 <details><summary>Show answer</summary>
 
@@ -351,7 +351,7 @@ Options: A. Hungary  B. Argentina  C. Australia  D. India
 
 **Q10.** Pampas grassland is in:
 
-Options: A. Argentina  B. Hungary  C. Mongolia  D. Kenya
+Options: A. Argentina B. Hungary C. Mongolia D. Kenya
 
 <details><summary>Show answer</summary>
 
@@ -361,7 +361,7 @@ Options: A. Argentina  B. Hungary  C. Mongolia  D. Kenya
 
 **Q11.** World Floral Regions associated with:
 
-Options: A. Adolf Engler  B. C.O. Sauer  C. Koppen only  D. Wegener
+Options: A. Adolf Engler B. C.O. Sauer C. Koppen only D. Wegener
 
 <details><summary>Show answer</summary>
 
@@ -371,7 +371,7 @@ Options: A. Adolf Engler  B. C.O. Sauer  C. Koppen only  D. Wegener
 
 **Q12.** Planting Hearth associated with:
 
-Options: A. C.O. Sauer  B. Adolf Engler  C. Darwin  D. Humboldt only
+Options: A. C.O. Sauer B. Adolf Engler C. Darwin D. Humboldt only
 
 <details><summary>Show answer</summary>
 
@@ -381,7 +381,7 @@ Options: A. C.O. Sauer  B. Adolf Engler  C. Darwin  D. Humboldt only
 
 **Q13.** Cryophyte Steppe relates to:
 
-Options: A. Arctic Tundra  B. Sahara  C. Amazon  D. Mediterranean
+Options: A. Arctic Tundra B. Sahara C. Amazon D. Mediterranean
 
 <details><summary>Show answer</summary>
 
@@ -391,7 +391,7 @@ Options: A. Arctic Tundra  B. Sahara  C. Amazon  D. Mediterranean
 
 **Q14.** Permafrost is found in:
 
-Options: A. Taiga and Tundra  B. Savannah only  C. Hot deserts only  D. Coral reefs
+Options: A. Taiga and Tundra B. Savannah only C. Hot deserts only D. Coral reefs
 
 <details><summary>Show answer</summary>
 
@@ -401,7 +401,7 @@ Options: A. Taiga and Tundra  B. Savannah only  C. Hot deserts only  D. Coral re
 
 **Q15.** Land of Big Games refers to:
 
-Options: A. Tropical Savanna  B. Hot Desert  C. Tundra  D. Taiga
+Options: A. Tropical Savanna B. Hot Desert C. Tundra D. Taiga
 
 <details><summary>Show answer</summary>
 
@@ -411,7 +411,7 @@ Options: A. Tropical Savanna  B. Hot Desert  C. Tundra  D. Taiga
 
 **Q16.** Largest hot desert:
 
-Options: A. Sahara  B. Thar  C. Atacama  D. Gobi
+Options: A. Sahara B. Thar C. Atacama D. Gobi
 
 <details><summary>Show answer</summary>
 
@@ -421,7 +421,7 @@ Options: A. Sahara  B. Thar  C. Atacama  D. Gobi
 
 **Q17.** Driest desert among these:
 
-Options: A. Atacama  B. Thar  C. Kalahari  D. Great Basin only
+Options: A. Atacama B. Thar C. Kalahari D. Great Basin only
 
 <details><summary>Show answer</summary>
 
@@ -431,7 +431,7 @@ Options: A. Atacama  B. Thar  C. Kalahari  D. Great Basin only
 
 **Q18.** India's biogeographic zones number:
 
-Options: A. 10  B. 14  C. 36  D. 7
+Options: A. 10 B. 14 C. 36 D. 7
 
 <details><summary>Show answer</summary>
 
@@ -441,7 +441,7 @@ Options: A. 10  B. 14  C. 36  D. 7
 
 **Q19.** Köppen Group A means:
 
-Options: A. Tropical  B. Polar  C. Arid only  D. Cold continental only
+Options: A. Tropical B. Polar C. Arid only D. Cold continental only
 
 <details><summary>Show answer</summary>
 
@@ -451,7 +451,7 @@ Options: A. Tropical  B. Polar  C. Arid only  D. Cold continental only
 
 **Q20.** India's dominant Köppen climate is mainly:
 
-Options: A. Am (monsoon)  B. EF ice  C. ET tundra everywhere  D. Af everywhere
+Options: A. Am (monsoon) B. EF ice C. ET tundra everywhere D. Af everywhere
 
 <details><summary>Show answer</summary>
 
@@ -461,7 +461,7 @@ Options: A. Am (monsoon)  B. EF ice  C. ET tundra everywhere  D. Af everywhere
 
 **Q21.** Mangrove ecosystem is:
 
-Options: A. Purely terrestrial  B. Coastal transitional  C. Polar only  D. Alpine only
+Options: A. Purely terrestrial B. Coastal transitional C. Polar only D. Alpine only
 
 <details><summary>Show answer</summary>
 
@@ -471,7 +471,7 @@ Options: A. Purely terrestrial  B. Coastal transitional  C. Polar only  D. Alpin
 
 **Q22.** Highest terrestrial biodiversity biome:
 
-Options: A. Tropical rainforest  B. Hot desert  C. Tundra  D. Ice cap
+Options: A. Tropical rainforest B. Hot desert C. Tundra D. Ice cap
 
 <details><summary>Show answer</summary>
 
@@ -481,7 +481,7 @@ Options: A. Tropical rainforest  B. Hot desert  C. Tundra  D. Ice cap
 
 **Q23.** Epiphytes are typical of:
 
-Options: A. Equatorial rainforest  B. Hot desert  C. Tundra  D. Ice sheets
+Options: A. Equatorial rainforest B. Hot desert C. Tundra D. Ice sheets
 
 <details><summary>Show answer</summary>
 
@@ -491,7 +491,7 @@ Options: A. Equatorial rainforest  B. Hot desert  C. Tundra  D. Ice sheets
 
 **Q24.** Baobab and acacia are typical of:
 
-Options: A. Savanna  B. Tundra  C. Taiga  D. Polar ice
+Options: A. Savanna B. Tundra C. Taiga D. Polar ice
 
 <details><summary>Show answer</summary>
 
@@ -501,7 +501,7 @@ Options: A. Savanna  B. Tundra  C. Taiga  D. Polar ice
 
 **Q25.** Cedars are associated with:
 
-Options: A. Mediterranean region  B. Arctic tundra  C. Amazon floodplain only  D. Sahara dunes
+Options: A. Mediterranean region B. Arctic tundra C. Amazon floodplain only D. Sahara dunes
 
 <details><summary>Show answer</summary>
 
@@ -511,7 +511,7 @@ Options: A. Mediterranean region  B. Arctic tundra  C. Amazon floodplain only  D
 
 **Q26.** Biodiversity hotspot requires:
 
-Options: A. Endemism + major habitat loss  B. Only high rainfall  C. Only large area  D. Only cold climate
+Options: A. Endemism + major habitat loss B. Only high rainfall C. Only large area D. Only cold climate
 
 <details><summary>Show answer</summary>
 
@@ -521,7 +521,7 @@ Options: A. Endemism + major habitat loss  B. Only high rainfall  C. Only large 
 
 **Q27.** How many biodiversity hotspots in India (standard set)?
 
-Options: A. 4  B. 1  C. 36  D. 17
+Options: A. 4 B. 1 C. 36 D. 17
 
 <details><summary>Show answer</summary>
 
@@ -531,7 +531,7 @@ Options: A. 4  B. 1  C. 36  D. 17
 
 **Q28.** Horse latitudes (~20–35°) favour:
 
-Options: A. Desert belts  B. Tropical rainforest everywhere  C. Permanent ice only  D. Mangroves only
+Options: A. Desert belts B. Tropical rainforest everywhere C. Permanent ice only D. Mangroves only
 
 <details><summary>Show answer</summary>
 
@@ -541,7 +541,7 @@ Options: A. Desert belts  B. Tropical rainforest everywhere  C. Permanent ice on
 
 **Q29.** Consider Brazil: (1) Selva = equatorial rainforest. (2) Terra Roxa = fertile dark soil.
 
-Options: A. Only 1  B. Only 2  C. Both  D. Neither
+Options: A. Only 1 B. Only 2 C. Both D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -551,7 +551,7 @@ Options: A. Only 1  B. Only 2  C. Both  D. Neither
 
 **Q30.** Which tribe–habitat is WRONG?
 
-Options: A. Bushman–Kalahari  B. Eskimo–Northern Canada  C. Pygmy–Congo  D. Masai–West Africa
+Options: A. Bushman–Kalahari B. Eskimo–Northern Canada C. Pygmy–Congo D. Masai–West Africa
 
 <details><summary>Show answer</summary>
 
@@ -563,23 +563,9 @@ Options: A. Bushman–Kalahari  B. Eskimo–Northern Canada  C. Pygmy–Congo  D
 
 ## Complete PYQ Bank (Topic 25)
 
-**Q1. UPPCS 2025, Q1** — Australia interior desert true; northern temperate false → **Ans: C**
+**Q1. UPPCS 2025, Q1** — Australia interior desert true; northern temperate false → **Ans: CQ2. UPPCS 2025, Q23** — Masai–West Africa NOT matched → **Ans: B (Only 4)Q3. UPPCS 2025, Q27** — Gobi = Mongolia + China → **Ans: AQ4. UPPCS 2025, Q63** — Selva + Terra Roxa both true → **Ans: CQ5. UPPCS 2024, Q29** — Sauer / Tundra / Engler / Hungary → **Ans: A (3 4 2 1)Q6. UPPCS 2019** — Land of Big Games = Tropical Savanna → **Ans: DQ7. UPPCS 2019** — Vegetation–region matching (Epiphytes–Equatorial etc.)
 
-**Q2. UPPCS 2025, Q23** — Masai–West Africa NOT matched → **Ans: B (Only 4)**
-
-**Q3. UPPCS 2025, Q27** — Gobi = Mongolia + China → **Ans: A**
-
-**Q4. UPPCS 2025, Q63** — Selva + Terra Roxa both true → **Ans: C**
-
-**Q5. UPPCS 2024, Q29** — Sauer / Tundra / Engler / Hungary → **Ans: A (3 4 2 1)**
-
-**Q6. UPPCS 2019** — Land of Big Games = Tropical Savanna → **Ans: D**
-
-**Q7. UPPCS 2019** — Vegetation–region matching (Epiphytes–Equatorial etc.)
-
-**Q8. UPPCS 2018, Q26** — Pampas in Argentina → **Ans: A**
-
-**Q9. UPSC pattern** — Permafrost in Taiga + Tundra
+**Q8. UPPCS 2018, Q26** — Pampas in Argentina → **Ans: AQ9. UPSC pattern** — Permafrost in Taiga + Tundra
 
 **Q10. UPSC pattern** — Latitudinal biodiversity gradient equator → poles
 
@@ -587,7 +573,7 @@ Options: A. Bushman–Kalahari  B. Eskimo–Northern Canada  C. Pygmy–Congo  D
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Northern Australia temperate | **Tropical** |
 | Gobi in Russia/Kazakhstan as main | **Mongolia + China** |
@@ -621,10 +607,10 @@ Options: A. Bushman–Kalahari  B. Eskimo–Northern Canada  C. Pygmy–Congo  D
 
 ### Topic boundaries
 
-- **Indian ecosystems depth** — Topic 21  
-- **GEF institution** — Topic 18/19 (2025 Q145)  
-- **Grassland ecology India** — Topic 21  
-- **Desertification process** — Topic 13  
+- **Indian ecosystems depth** — Topic 21
+- **GEF institution** — Topic 18/19
+- **Grassland ecology India** — Topic 21
+- **Desertification process** — Topic 13
 
 ### PYQ audit
 

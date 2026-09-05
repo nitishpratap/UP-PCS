@@ -9,14 +9,14 @@
 **Protected areas:** National Parks | Wildlife Sanctuaries | Biosphere Reserves (18; Nilgiri first) | Ramsar Sites | Mangroves | Coral Reefs | Project Tiger / Elephant
 </details>
 
-> **Sources baked in:** NCERT Class 9–11, **PMF IAS** Champion–Seth vegetation + mangroves + biodiversity (Kullar), ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — type×rain×region, PA–state, UP Dudhwa/Ramsar, biosphere traps, Project chronology  
-> **Last verified:** August 2026  
-> **Current Affairs:** **Surha Tal (Ballia)** = India’s **100th Ramsar** (5 Jun 2026); UP **13**; MISHTI = Budget **2023–24** (not 2019)
+> **Sources baked in:** NCERT Class 9–11, **PMF IAS** Champion–Seth vegetation + mangroves + biodiversity (Kullar), ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — type×rain×region, PA–state, UP Dudhwa/Ramsar, biosphere traps, Project chronology
+> **Last verified:** August 2026
+> **Current Affairs:Surha Tal (Ballia)** = India’s **100th Ramsar** (5 Jun 2026); UP **13**; MISHTI = Budget **2023–24** (not 2019)
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. “Vegetation is the true index of climate” is **Thornthwaite’s** line, not Köppen’s letter codes. Controls are climate, soil, relief, biotic factors, and time.
 2. India is a **mega-biodiversity** country. The four hotspots touching India are **Himalaya**, **Western Ghats–Sri Lanka**, **Indo-Burma**, and **Sundaland** (**Nicobar**, not Andaman). Do not split Himalaya into east and west as if those were the four.
@@ -33,40 +33,40 @@
 13. Uttar Pradesh forest cover is about **6%** of geographical area — not 12.8%. ISFR 2023 districts above 20% include **Chandauli and Shravasti**, not Bahraich. Jaunpur–Ghazipur–Ballia have near-nil forest land, yet Ballia holds **Surha Tal** Ramsar.
 14. National Parks are stricter than Wildlife Sanctuaries. Biosphere Reserves have **core + buffer + transition**. India has **18** biosphere reserves; **Nilgiri (1986)** was the first.
 15. **In-situ** conservation = National Park, Sanctuary, Biosphere Reserve, sacred grove. **Ex-situ** = zoo, botanical garden, seed bank. A botanical garden is **not** in-situ.
-16. Chronology lock: Wildlife Protection Act **1972** → Project Tiger **1973** → Project Elephant **1992** → Biological Diversity Act **2002**. Project Tiger launched on **1 April 1973**.
-17. Park–state locks: **Simlipal = Odisha** (not Madhya Pradesh); **Nokrek = Meghalaya** (not Manipur); **Nanda Devi = Uttarakhand** (not Uttar Pradesh); **Agasthyamalai = Kerala and Tamil Nadu**; Manas = Assam; Keoladeo = Rajasthan; Kanha = Madhya Pradesh.
+16. Chronology fact: Wildlife Protection Act **1972** → Project Tiger **1973** → Project Elephant **1992** → Biological Diversity Act **2002**. Project Tiger launched on **1 April 1973**.
+17. Park–state facts: **Simlipal = Odisha** (not Madhya Pradesh); **Nokrek = Meghalaya** (not Manipur); **Nanda Devi = Uttarakhand** (not Uttar Pradesh); **Agasthyamalai = Kerala and Tamil Nadu**; Manas = Assam; Keoladeo = Rajasthan; Kanha = Madhya Pradesh.
 18. **Dachigam** protects the **Hangul** (Kashmir stag). **Keibul Lamjao** sits on **Loktak** (Manipur) for the Sangai.
 19. Uttar Pradesh’s **only National Park** is **Dudhwa** in **Lakhimpur Kheri**. Tiger Reserves are Dudhwa, Pilibhit, Amangarh, and Ranipur — do not invent extra National Parks.
 20. Dudhwa Tiger Reserve = Dudhwa National Park + Kishanpur + **Katarniaghat** (Katarniaghat established **1975**). **Chandraprabha** Wildlife Sanctuary is in **Chandauli**.
 21. Ramsar traps **not** in Uttar Pradesh: Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (Jammu & Kashmir). Surha Tal / JP Narayan Bird Sanctuary, Ballia is India’s **100th Ramsar** and Uttar Pradesh’s 13th.
-22. **MISHTI** restores mangroves and belongs to Budget **2023–24**, not 2019. Mangrove breathing roots are **pneumatophores**. Sundarbans are the sundari mangrove lock.
-23. Coral reefs lock to Andaman & Nicobar, Lakshadweep, Gulf of Mannar, and Gulf of Kachchh. Coral bleaching is linked to about **2°C** warming of sea water.
+22. **MISHTI** restores mangroves and belongs to Budget **2023–24**, not 2019. Mangrove breathing roots are **pneumatophores**. Sundarbans are the sundari mangrove fact.
+23. Coral reefs fact to Andaman & Nicobar, Lakshadweep, Gulf of Mannar, and Gulf of Kachchh. Coral bleaching is linked to about **2°C** warming of sea water.
 24. **Operation Olivia** is the Coast Guard Olive Ridley programme in Odisha. Nesting season is about **November–May**, not August.
 25. Montane vegetation is an altitude elevator: tropical foothills → oak / deodar / chir → alpine → bugyal → snow. Plains rainfall ladders do not replace this altitude logic.
-26. Keystone species collapse an ecosystem if lost; flagship species are public mascots — do not treat them as the same exam idea.
+26. Keystone species collapse an ecosystem if lost; flagship species are public mascots — do not treat them as the same idea.
 27. India has about **50,000** rice strains and about **1,000** mango varieties in the usual diversity teaching line.
 28. Tea and rubber estates are **plantations**, not climax evergreen forest. Moist and dry deciduous belong to one monsoon-forest family split by rainfall.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Thornthwaite vs Köppen | Vegetation = climate **index** → Thornthwaite | Köppen | थॉर्नथ्वेट |
 | Evergreen vs moist deciduous | Evergreen **>200**; moist **100–200**, **largest area** | Evergreen = largest | पर्णपाती सबसे बड़ा |
 | Simlipal | **Odisha** | Madhya Pradesh (2018) | सिमलीपाल = ओडिशा |
 | Nokrek | **Meghalaya** | Manipur (2025) | नोकरेक = मेघालय |
 | Nanda Devi | **Uttarakhand** | Uttar Pradesh | नंदा देवी = उत्तराखंड |
-| Botanical garden | **Ex-situ** | In-situ (2018 Q54) | वनस्पति उद्यान = वाह्य |
+| Botanical garden | **Ex-situ** | In-situ | वनस्पति उद्यान = वाह्य |
 | Dudhwa district | **Lakhimpur Kheri** | Bahraich / Pilibhit | दुधवा = लखीमपुर |
 | NP vs TR in UP | Only NP = Dudhwa; Pilibhit/Amangarh/Ranipur = **TR** | Extra NPs | केवल एक NP |
 | Chandraprabha | **Chandauli** | Sonbhadra (2023) | चंदप्रभा = चंदौली |
 | Hangul | **Dachigam / Kashmir** | Assam rhino belt | हांगुल = कश्मीर |
 | Keibul Lamjao | **Loktak, Manipur** | Wular/Dal | केइबुल = लोकटक |
 | Diversity vs latitude | **Decreases** equator → poles | Increases toward poles | विविधता ध्रुव की ओर घटती |
-| MISHTI year | Budget **2023–24** | 2019 (2025 Q93) | मिश्टी ≠ 2019 |
-| Olivia season | Nesting **Nov–May** | August (2025 Q143) | ऑलिविया ≠ अगस्त |
+| MISHTI year | Budget **2023–24** | 2019 | मिश्टी ≠ 2019 |
+| Olivia season | Nesting **Nov–May** | August | ऑलिविया ≠ अगस्त |
 | Ramsar NOT UP | Rudrasagar Tripura; Sultanpur HR; Surinsar–Mansar J&K | Mark as UP | रुद्रसागर = त्रिपुरा |
 | Ballia | Near-nil **forest**; **Surha Tal** Ramsar | “No wetland” | बलिया = वन नहीं, रामसर हाँ |
 | Forest cover vs RFA | ISFR **cover** ≠ legal recorded forest | Mix the two | आवरण ≠ अधिसूचित |
@@ -77,7 +77,7 @@
 | Wet evergreen rain | NCERT **>200 cm**; PMF often **>250** for wet evergreen | Mix the two numbers in one stem | 200 NCERT / 250 PMF |
 | Dry evergreen vs wet evergreen | Dry evergreen = **TN coast**, NE monsoon ~100 cm | Call it Western Ghat rain forest | कोरोमंडल शुष्क सदाबहार |
 | Chir vs deodar belt | Chir = **subtropical pine** 1000–2000 m west; deodar = temperate | Swap belts | चीड़ निचला; देवदार ऊँचा |
-| Keystone vs flagship | Keystone = ecosystem collapse if lost; flagship = public mascot | Call panda a keystone lock for India | कीस्टोन ≠ फ्लैगशिप |
+| Keystone vs flagship | Keystone = ecosystem collapse if lost; flagship = public mascot | Call panda a keystone fact for India | कीस्टोन ≠ फ्लैगशिप |
 
 ---
 
@@ -87,7 +87,7 @@
 
 Natural vegetation grows without human planting.
 
-- **“Vegetation is the true index of climate”** → **Thornthwaite** (2018 Q25), not Köppen’s letter codes.
+- **“Vegetation is the true index of climate”** → **Thornthwaite**, not Köppen’s letter codes.
 - Controls: climate, soil, relief, biotic factors, time.
 - **Species diversity decreases equator → poles** (2019 Q58: “increases toward poles” is **false**).
 - Tropics / Amazon hold the peak diversity.
@@ -144,12 +144,12 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 
 ### Biodiversity (PMF terms)
 
-- **Biodiversity** = variety of life. Exam splits it as **genetic**, **species** and **ecosystem** (ecological) diversity.
+- **Biodiversity** = variety of life. splits it as **genetic**, **species** and **ecosystem** (ecological) diversity.
 - **Species richness** = how many species. **Evenness** = how evenly they are abundant. Same richness can hide a few dominant species.
 - **Alpha** = diversity **inside** one ecosystem. **Beta** = change **between** ecosystems. **Gamma** = diversity of a whole **region**.
 - Species diversity **falls equator → poles**. Amazon is the peak. Insects are the richest animal group. Fungi outnumber fish+amphibians+reptiles+mammals combined.
 - India: about **2.4%** of land, about **7–8%** of recorded species, about **18%** of people. Mega-diverse.
-- Genetic lock: more than **50,000** rice strains and about **1,000** mango varieties.
+- Genetic fact: more than **50,000** rice strains and about **1,000** mango varieties.
 - **Endemic** = found only in that place. Indigenous is not the same if it also lives elsewhere.
 - **Keystone** = lose it and the ecosystem shifts (top predators; some exclusive pollinators).
 - **Flagship** = public mascot (tiger, panda). **Foundation** = dominant structure-builder (coral, kelp).
@@ -162,7 +162,7 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 - **Himalaya** (whole Indian Himalaya, not a separate “east hotspot” plus “west hotspot”).
 - **Western Ghats and Sri Lanka**.
 - **Indo-Burma** (NE India and neighbours; **Nicobar is not** this box).
-- **Sundaland** = **Nicobar** (with Indonesia–Malaysia), **not** the Andaman group as the Sundaland lock.
+- **Sundaland** = **Nicobar** (with Indonesia–Malaysia), **not** the Andaman group as the Sundaland fact.
 - UPSC 2010 trap listed “Eastern Himalayas, Western Himalayas, Western Ghats and Andaman–Nicobar.” That naming is **wrong**. Hotspots are also **not** tropics-only (Mediterranean, SW Australia, Chilean temperate forest).
 - Myers idea: high **endemism** plus heavy **habitat loss**. Do not equate four hotspots with **18** biosphere reserves.
 
@@ -239,7 +239,7 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 
 - Salt-tolerant **halophytes**; grow in fresh **or brackish** water. **Pneumatophores** and **prop roots** slow water, trap silt and buffer storms.
 - **Sundarbans** (*sundari* / *Heritiera*) = largest single tidal mangrove block; Royal Bengal Tiger and crocodile country.
-- **Bhitarkanika (Odisha)** is the usual **second** Indian mangrove lock.
+- **Bhitarkanika (Odisha)** is the usual **second** Indian mangrove fact.
 - Also Godavari–Krishna creeks, Cauvery, Mahanadi, Andaman–Nicobar (dense, less disturbed).
 - **West coast** mangroves (MH–Goa–KA) are often **scrubby and degraded**. **Gulf of Kachchh / Kori** stands are often **dwarf**.
 - Swamp forests hug the Ganga, Mahanadi, Godavari, Krishna and Cauvery deltas. Fuelwood and boat timber are the old uses.
@@ -275,10 +275,10 @@ D. Stamp
 - **Recorded Forest Area (RFA)** = legal notification.
 - Do **not** mix cover % with recorded forest %.
 
-| PYQ figure | Lock |
+| PYQ figure | Fact |
 |------------|------|
-| ISFR **2017** | **21.54%** of India’s TGA (2018 Q44) — later reports differ; lock the year asked |
-| ISFR **2021** | Max increase among options: **Andhra Pradesh** (2022 Q61) |
+| ISFR **2017** | **21.54%** of India’s TGA — later reports differ; fact the year asked |
+| ISFR **2021** | Max increase among options: **Andhra Pradesh** |
 | UP cover | About **6%** of TGA — **not 12.8%** |
 | ISFR **2023** UP >20% districts | **Chandauli + Shravasti** — **not Bahraich** (2025 Q8 → 2 and 3) |
 | Eastern plain lore | Jaunpur, Ghazipur, **Ballia** ≈ near-nil **forest land** — wetland still possible |
@@ -291,7 +291,7 @@ D. Stamp
 
 ## N.4 Plant Acclimatization & Adaptations
 
-**Acclimatization** = organism adjusting to a new climate. Exam uses **adaptation types**:
+**Acclimatization** = organism adjusting to a new climate. uses **adaptation types**:
 
 | Type | Meaning | Example |
 |------|---------|---------|
@@ -317,7 +317,7 @@ D. Stamp
 
 
 
-| Category | Lock |
+| Category | Fact |
 |----------|------|
 | **National Park** | Strictest; no private rights in core idea; habitat + species |
 | **Wildlife Sanctuary** | Wildlife first; some regulated rights possible |
@@ -362,7 +362,7 @@ D. Stamp
 |-----------|----------|------|
 | **Nilgiri** | TN, KL, KA | **First** Indian BR (1986) |
 | Nanda Devi | **Uttarakhand** | Not UP |
-| **Nokrek** | **Meghalaya** | **Not Manipur** (2025 Q144) |
+| **Nokrek** | **Meghalaya** | **Not Manipur** |
 | Great Nicobar | A&N | |
 | Gulf of Mannar | Tamil Nadu | Also reefs |
 | Manas | Assam | Correct in 2025 |
@@ -408,7 +408,7 @@ D. Sacred groves
 
 **Only one National Park: Dudhwa (Lakhimpur Kheri)** — 2022 Q56. Do not invent a second NP.
 
-| Name | Type | Belt | Lock |
+| Name | Type | Belt | Fact |
 |------|------|------|------|
 | Dudhwa | NP | Lakhimpur Kheri | Only UP NP |
 | Dudhwa TR | Tiger Reserve | Kheri + Bahraich complex | **NP + Kishanpur + Katarniaghat** |
@@ -418,7 +418,7 @@ D. Sacred groves
 
 | Sanctuary | District | Extra |
 |-----------|----------|-------|
-| Katarniaghat | Bahraich | Est. **1975** (2022 Q36) |
+| Katarniaghat | Bahraich | Est. **1975** |
 | Kishanpur | Lakhimpur Kheri | Dudhwa TR |
 | **Chandraprabha** | **Chandauli** | 2023 Q56 — not Sonbhadra |
 | National Chambal | Etawah–Agra | Gharial; **UP–MP–RJ** |
@@ -439,8 +439,8 @@ D. Sacred groves
 
 - **Surha Tal (Ballia)** = India’s **100th Ramsar** (designation window 2026; WED 5 Jun 2026 announcement); UP’s **13th**.
 - Bird sanctuary since 1991 (later JP Narayan name).
-- **NOT UP:** **Rudrasagar = Tripura**; **Sultanpur = Haryana** (2025 Q58); **Surinsar–Mansar = J&K** (2021 Q17).
-- Jan 2020: **+6** Ramsar to UP (2020 Q48).
+- **NOT UP:Rudrasagar = Tripura**; **Sultanpur = Haryana**; **Surinsar–Mansar = J&K**.
+- Jan 2020: **+6** Ramsar to UP.
 
 ---
 
@@ -460,7 +460,7 @@ India reefs: **Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh**
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click *Show answer* under each question to reveal.  
+> **Answers hidden** — click *Show answer* under each question to reveal.
 > **Format mix:** 62 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
 **Q1.** Which forest type covers the largest area in India?
@@ -798,7 +798,7 @@ D. 5 June 2019
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Open recall lock (some MCQs omit 1973).
+**Ans: B** — Open recall fact (some MCQs omit 1973).
 </details>
 
 **Q21.** Dudhwa Tiger Reserve comprises:
@@ -1023,7 +1023,7 @@ D. A-2, B-3, C-4, D-1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Standard state lock set.
+**Ans: A** — Standard state fact set.
 </details>
 
 **Q34.** Which of the following is NOT correctly matched?
@@ -1109,7 +1109,7 @@ D. 2023
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Part of Dudhwa TR complex (2022 Q36).
+**Ans: B** — Part of Dudhwa TR complex.
 </details>
 
 **Q39.** Amangarh Tiger Reserve is associated with:
@@ -1281,7 +1281,7 @@ D. Only thorn forest xerophytes
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Dual lock: BR + reefs.
+**Ans: B** — Dual fact: BR + reefs.
 </details>
 
 **Q49.** Sultanpur Bird Sanctuary / Ramsar is in:
@@ -1297,7 +1297,7 @@ D. Odisha
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 2025 Q58 NOT-UP lock with Rudrasagar (Tripura).
+**Ans: B** — 2025 Q58 NOT-UP fact with Rudrasagar (Tripura).
 </details>
 
 **Q50.** Which of the following pairs is correctly matched?
@@ -1313,7 +1313,7 @@ D. Botanical garden — in-situ sacred grove
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Others are false locks.
+**Ans: B** — Others are false facts.
 </details>
 
 **Q51.** With reference to tropical deciduous forests, which of the following statements is/are correct?
@@ -1454,7 +1454,7 @@ D. Moist deciduous — rainfall below 25 cm
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Chir is the sub-tropical moist hill pine lock.
+**Ans: A** — Chir is the sub-tropical moist hill pine fact.
 
 </details>
 
@@ -1494,7 +1494,7 @@ D. Ladakh
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Usual second Indian mangrove lock after the Sundarbans.
+**Ans: B** — Usual second Indian mangrove fact after the Sundarbans.
 
 </details>
 
@@ -1511,7 +1511,7 @@ D. Neotropical and Afrotropical
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — PMF / wildlife-planning lock. Ten biogeographic **zones** are a different list.
+**Ans: B** — PMF / wildlife-planning fact. Ten biogeographic **zones** are a different list.
 
 </details>
 
@@ -1907,7 +1907,7 @@ D. Kishanpur
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Katarniaghat Wildlife Sanctuary (1975) is the year lock among the given options.
+**Ans: B** — Katarniaghat Wildlife Sanctuary (1975) is the year fact among the given options.
 </details>
 
 ---
@@ -2041,7 +2041,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (geography-standard key)** — Statement 1 is wrong for current ISFR (~6% forest cover, not 12.8%). Statement 2 is the traditional no-forest-land lock for those eastern plain districts.
+**Ans: C (geography-standard key)** — Statement 1 is wrong for current ISFR (~6% forest cover, not 12.8%). Statement 2 is the traditional no-forest-land fact for those eastern plain districts.
 </details>
 
 ---
@@ -2331,26 +2331,26 @@ D. Only 1
 | Static | Olivia (Coast Guard, Odisha, Nov–May); coral warming 2024 PYQ | Coastal ops | ICG / PYQ |
 | ISFR | Use the **report year in the stem**; 2017 = 21.54% is a frozen PYQ | Figure trap | FSI |
 
-Lakes-as-wetlands. This file keeps the **geography** locks.
+Lakes-as-wetlands. This file keeps the **geography** facts.
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-1. **Simlipal = Madhya Pradesh** — FALSE. **Odisha** (2018 Q58).
-2. **Nokrek = Manipur** — FALSE. **Meghalaya** (2025 Q144).
+1. **Simlipal = Madhya Pradesh** — FALSE. **Odisha**.
+2. **Nokrek = Manipur** — FALSE. **Meghalaya**.
 3. **Nanda Devi = Uttar Pradesh** — FALSE. **Uttarakhand**.
-4. **Botanical garden = in-situ** — FALSE. **Ex-situ** (2018 Q54).
+4. **Botanical garden = in-situ** — FALSE. **Ex-situ**.
 5. **Dudhwa = Bahraich / Pilibhit** — FALSE. **Lakhimpur Kheri** (2022).
 6. **Pilibhit / Amangarh = National Parks** — FALSE. They are **Tiger Reserves**; only NP = Dudhwa.
 7. **Chandraprabha = Sonbhadra** — FALSE. **Chandauli** (2023).
-8. **Diversity increases toward poles** — FALSE. It **decreases** (2019 Q58).
-9. **MISHTI started 2019** — FALSE. Budget **2023–24**; aim = restore mangroves (2025 Q93).
-10. **Olivia in August** — FALSE. Nesting **~Nov–May**; Coast Guard, Odisha (2025 Q143).
-11. **Rudrasagar / Sultanpur in UP** — FALSE. Tripura / Haryana (2025 Q58).
+8. **Diversity increases toward poles** — FALSE. It **decreases**.
+9. **MISHTI started 2019** — FALSE. Budget **2023–24**; aim = restore mangroves.
+10. **Olivia in August** — FALSE. Nesting **~Nov–May**; Coast Guard, Odisha.
+11. **Rudrasagar / Sultanpur in UP** — FALSE. Tripura / Haryana.
 12. **Ballia has no ecology to ask** — FALSE. Near-nil *forest*; **Surha Tal** is Ramsar.
 13. **Evergreen = largest Indian forest** — FALSE. **Moist deciduous**.
-14. **Coral death = ocean cooling** — FALSE. **~2°C warming** (2024 Q19).
+14. **Coral death = ocean cooling** — FALSE. **~2°C warming**.
 15. **Project Tiger launched 1972 as open fact** — Open recall = **1 April 1973**; 2018 MCQ omitted 1973.
 16. **Hotspots = 18** — FALSE. **Four** hotspots; **18** biosphere reserves.
 17. **Nanda Devi = first BR** — FALSE. **Nilgiri (1986)** is first.

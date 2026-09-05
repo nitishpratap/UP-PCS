@@ -17,25 +17,25 @@
 
 </details>
 
-> **Sources baked in:** Laxmikanth Ch.1–2, NCERT Class 12 Politics, Spectrum, ClearIAS / Drishti coaching map, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — chronology, Dyarchy vs Autonomy, missions, CA dates/committees, borrowed features  
-> **Last verified:** August 2026 — coaching gap-pass (Objectives Resolution → Preamble map; CA women & minorities sub-committees; 389 composition; sources table)  
+> **Sources baked in:** Laxmikanth Ch.1–2, NCERT Class 12 Politics, Spectrum, ClearIAS / Drishti coaching map, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — chronology, Dyarchy vs Autonomy, missions, CA dates/committees, borrowed features
+> **Last verified:** August 2026 — coaching gap-pass (Objectives Resolution → Preamble map; CA women & minorities sub-committees; 389 composition; sources table)
 > **Current Affairs:** N/A (historical frame); Constitution Day = **26 Nov** (adoption anniversary)
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. The **Regulating Act, 1773** created the **Governor-General of Bengal** (Warren Hastings) and a Supreme Court at Calcutta in **1774**. It did **not** create the Governor-General of India.
 2. The **Charter Act, 1833** made the Governor-General of Bengal the **Governor-General of India**; William Bentinck was the first holder of that title.
 3. Under **Pitt’s India Act, 1784**, the **Board of Control** handled political affairs and the **Court of Directors** handled commercial affairs. Do not swap the two.
 4. Open competitive examination for the **ICS** was implemented under the **Charter Act, 1853**. The **1833** Act only carried the spirit of open competition.
 5. The **Government of India Act, 1858** ended Company rule. The Crown took over; a **Secretary of State** and a **Viceroy** replaced Company control. **Lord Canning** was the first Viceroy.
-6. The **portfolio system** got legal recognition under the **Indian Councils Act, 1861** (practice had begun around **1859**). Do not lock it to 1858, 1892, or 1909.
+6. The **portfolio system** got legal recognition under the **Indian Councils Act, 1861** (practice had begun around **1859**). Do not fact it to 1858, 1892, or 1909.
 7. **Muslim separate electorates** began with the **Indian Councils Act, 1909** (Morley–Minto). The Communal Award of **1932** was not the first such device.
 8. **S.P. Sinha** was the first Indian member of the Viceroy’s Executive Council under the **1909** reforms.
 9. The **Government of India Act, 1919** introduced **Dyarchy in the provinces**, a bicameral legislature at the Centre, and the **Chamber of Princes**.
-10. The **Government of India Act, 1935** introduced **Provincial Autonomy**, which **operated**. The proposed **Federation** and **Dyarchy at the Centre** **never operated**.
+10. The **Government of India Act, 1935** introduced **Provincial Autonomy**, which **operated**. The proposed **Federation** and **Dyarchy at the Centrenever operated**.
 11. Under the **1935** Act, residuary powers rested with the **Viceroy / Governor-General**, not with the Federal Legislature.
 12. The **Federal Court** under the 1935 scheme began in **1937**. The **RBI** was created by the **RBI Act, 1934**; the 1935 Act only provided for a central bank.
 13. The **Communal Award** came in **1932** (not 1933). The **Poona Pact** replaced separate electorates for Depressed Classes with **reserved seats and a joint electorate**.
@@ -49,7 +49,7 @@
 21. The **Minorities Sub-Committee** was chaired by **H.C. Mukherjee**. The parent **Advisory Committee** was chaired by **Sardar Patel**.
 22. The Constitution was **adopted on 26 November 1949** (**284** signatures) and **enforced on 26 January 1950**. The last Assembly sitting was on **24 January 1950**. The national Flag was adopted on **22 July 1947**.
 23. **C. Rajagopalachari** was the first Indian Governor-General (**1948–50**). Mountbatten was the last British Governor-General, not the first Indian one.
-24. Borrowed-feature locks: **UK** — parliamentary system; **USA** — Fundamental Rights; **Ireland** — DPSP; **Canada** — residuary powers; **Australia** — Concurrent List; **Germany** — emergency suspension model; **Japan** — procedure established by law (Art. 21 style); **GOI Act 1935** — structural skeleton.
+24. Borrowed-feature facts: **UK** — parliamentary system; **USA** — Fundamental Rights; **Ireland** — DPSP; **Canada** — residuary powers; **Australia** — Concurrent List; **Germany** — emergency suspension model; **Japan** — procedure established by law (Art. 21 style); **GOI Act 1935** — structural skeleton.
 25. The **Simon Commission (1927)** was all-British. The **Nehru Report** followed in **1928**, then the Round Table Conferences, the Award/Poona Pact, and the **1935** Act.
 26. Under **1919**, a path toward a Public Service Commission led to the **Central PSC in 1926**.
 27. Six provinces became bicameral under the 1935 scheme: **Bengal, Bombay, Madras, Bihar, Assam, and the United Provinces**.
@@ -57,9 +57,9 @@
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | GG of Bengal vs GG of India | **1773** Bengal (Hastings); **1833** India (Bentinck) | Call 1773 = GG of India | बंगाल ≠ भारत |
 | Board of Control vs Court of Directors | Board = **political**; Directors = **commercial** | Swap | बोर्ड = राजनीति |
@@ -103,7 +103,7 @@
 - Ambiguity between Supreme Court jurisdiction and Governor-General-in-Council was later clarified by the **Act of Settlement / Amending Act, 1781**.
 - The Act did **not** create the Governor-General of India (that comes in **1833**).
 
-> **Exam note:** 1773 = GG of **Bengal** + SC Calcutta 1774; 1833 = GG of **India**.
+> ** note:** 1773 = GG of **Bengal** + SC Calcutta 1774; 1833 = GG of **India**.
 
 ### Pitt’s India Act, 1784
 
@@ -115,7 +115,7 @@
 - Governor-General’s Council was reduced from four to **three** members.
 - British government supremacy over Company administration was strengthened, but Company rule itself continued.
 
-> **Exam note:** Board = politics; Directors = trade.
+> ** note:** Board = politics; Directors = trade.
 
 ### Charter Acts
 
@@ -140,16 +140,16 @@
 - A **Law Member** was added to the Council (**Lord Macaulay**).
 - A **Law Commission** (Macaulay) was provided to codify laws.
 - Open competition for civil services was attempted in spirit (Section 87 idea) but **not effectively implemented**.
-- Coaching lock: laws before 1833 are often called **Regulations**; those after are commonly called **Acts**.
+- Coaching fact: laws before 1833 are often called **Regulations**; those after are commonly called **Acts**.
 
 **Charter Act, 1853**
 
-- Introduced **open competition** for the **Indian Civil Service** (Macaulay Committee followed; exams soon held in London).
+- Introduced **open competition** for the **Indian Civil Service** (Macaulay Committee followed; papers soon held in London).
 - Separated the **Legislative Council** from the Executive Council (limited local representation began).
 - Charter was not renewed for a fixed 20-year period — Company rule was left open-ended until 1858.
 - Law Member became a full member of the Governor-General’s Executive Council.
 
-> **Exam note:** Open competition for ICS = **1853**, not 1833.
+> ** note:** Open competition for ICS = **1853**, not 1833.
 
 ---
 
@@ -181,9 +181,9 @@
 
 Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
 
-A. Indian Council Act, 1861  
-B. Government of India Act, 1858  
-C. Indian Council Act, 1892  
+A. Indian Council Act, 1861
+B. Government of India Act, 1858
+C. Indian Council Act, 1892
 D. Indian Council Act, 1909
 
 <details>
@@ -215,7 +215,7 @@ D. Indian Council Act, 1909
 - Separate representation was also given to Presidency Corporations, Chambers of Commerce, Universities and Zamindars.
 - Aimed at associating Indians with administration — **not** responsible government.
 
-> **Exam note:** Muslim separate electorates begin with **1909**, not with the Communal Award of 1932.
+> ** note:** Muslim separate electorates begin with **1909**, not with the Communal Award of 1932.
 
 ---
 
@@ -226,12 +226,12 @@ D. Indian Council Act, 1909
 - Based on Edwin Montagu’s declaration of **20 August 1917** — gradual introduction of responsible government in India.
 - Subjects were classified into **Central** and **Provincial** under Devolution Rules.
 - **Dyarchy in provinces** (dual rule):
-  - **Reserved subjects** (police, justice, land revenue, irrigation) — Governor and Executive Councillors; **not** responsible to the legislature.
-  - **Transferred subjects** (education, health, local self-government, agriculture) — Indian ministers responsible to the Legislative Council.
+ - **Reserved subjects** (police, justice, land revenue, irrigation) — Governor and Executive Councillors; **not** responsible to the legislature.
+ - **Transferred subjects** (education, health, local self-government, agriculture) — Indian ministers responsible to the Legislative Council.
 - At the Centre, the Indian Legislative Council was replaced by a **bicameral** legislature:
-  - **Council of State** (Upper House)
-  - **Legislative Assembly** (Lower House)
-  - Majority of members elected by **direct** election (limited franchise).
+ - **Council of State** (Upper House)
+ - **Legislative Assembly** (Lower House)
+ - Majority of members elected by **direct** election (limited franchise).
 - Provided for **three Indian members** in the Viceroy’s Executive Council (excluding the Commander-in-Chief).
 - Extended separate electorates to Sikhs, Indian Christians, Anglo-Indians and Europeans.
 - Separated provincial budget from the central budget.
@@ -239,15 +239,15 @@ D. Indian Council Act, 1909
 - Provided for a **Public Service Commission** → Central PSC set up in **1926**.
 - Proposed **Chamber of Princes (Narendra Mandal)** — formed **1921** with about **120** members.
 - Mandated a statutory commission after **10 years** → became the Simon Commission.
-- Coaching lock: federal parts of the 1935 Act never ran; till 1947 the Centre largely continued under the **1919** executive/legislative frame for those unimplemented federal pieces.
+- Coaching fact: federal parts of the 1935 Act never ran; till 1947 the Centre largely continued under the **1919** executive/legislative frame for those unimplemented federal pieces.
 
 **Inline PYQ — UPPCS Prelims 2023, Q43**
 
 By which of the following Acts was the **Chamber of Princes** with 120 members created?
 
-A. Charter Act of 1853  
-B. Act of 1793  
-C. Act of 1909  
+A. Charter Act of 1853
+B. Act of 1793
+C. Act of 1909
 D. Government of India Act, 1919
 
 <details>
@@ -271,13 +271,13 @@ D. Government of India Act, 1919
 - Introduced bicameralism in **six of eleven** provinces: **Bengal, Bombay, Madras, Bihar, Assam, United Provinces**.
 - Extended franchise further (still limited); continued communal representation and extended it further (including depressed classes path after Poona Pact politics).
 - Abolished the Council of India in London; created Advisers to the Secretary of State.
-- **Provided for** establishment of **Reserve Bank of India** to control currency and credit — actual statute is **RBI Act, 1934** (operations from **1 April 1935**). Do not write “RBI was created only by GOI Act 1935” as a blunt lock.
+- **Provided for** establishment of **Reserve Bank of India** to control currency and credit — actual statute is **RBI Act, 1934** (operations from **1 April 1935**). Do not write “RBI was created only by GOI Act 1935” as a blunt fact.
 - Also provided for Federal / Provincial / Joint Public Service Commissions.
 - Separated **Burma** (1937) and **Aden** from India.
 - Retained Governor’s special responsibilities / discretionary powers — real autonomy remained constrained.
 - 1937 elections: Congress formed ministries in a majority of provinces; League did not dominate Muslim seats across all provinces.
 
-> **Exam note:** Autonomy **operated**; Federation and Centre Dyarchy **did not**.
+> ** note:** Autonomy **operated**; Federation and Centre Dyarchy **did not**.
 
 ---
 
@@ -288,7 +288,7 @@ D. Government of India Act, 1919
 - Higher civil service under Company/Crown was known as **Covenanted Civil Service** (ICS); lower provincial service was uncovenanted.
 - Early training was associated with **Haileybury College** (England).
 - Charter Act **1853** introduced **open competitive examination** for ICS.
-- Exams were long held in London; age limits and Indian entry were constant political issues.
+- Notes were long held in London; age limits and Indian entry were constant political issues.
 - Indianisation of services was a major nationalist demand (Congress resolutions; Lee Commission 1924 context).
 - Under GOI Act 1919, Central Public Service Commission was created (**1926**).
 - After Independence, the ICS continuum shaped the **IAS**.
@@ -317,14 +317,14 @@ D. Government of India Act, 1919
 
 Consider the following events and arrange them into chronological order:
 
-I. Sharda Act  
-II. Nehru Report  
-III. Constitution of Simon Commission  
-IV. Dandi March  
+I. Sharda Act
+II. Nehru Report
+III. Constitution of Simon Commission
+IV. Dandi March
 
-A. III, II, I and IV  
-B. I, II, III and IV  
-C. IV, III, II and I  
+A. III, II, I and IV
+B. I, II, III and IV
+C. IV, III, II and I
 D. I, IV, II and III
 
 <details>
@@ -357,9 +357,9 @@ D. I, IV, II and III
 
 Who among the following leaders did NOT participated in the Second Round Table Conference?
 
-A. M.K. Gandhi  
-B. Sarojini Naidu  
-C. Pt. Madan Mohan Malviya  
+A. M.K. Gandhi
+B. Sarojini Naidu
+C. Pt. Madan Mohan Malviya
 D. Dr. Rajendra Prasad
 
 <details>
@@ -378,9 +378,9 @@ D. Dr. Rajendra Prasad
 
 Which of the following is NOT correctly matched?
 
-A. Indian Navy Act — 1927  
-B. Civil Disobedience Movement — 1930  
-C. Second Round Table Conference — 1931  
+A. Indian Navy Act — 1927
+B. Civil Disobedience Movement — 1930
+C. Second Round Table Conference — 1931
 D. The Communal Award — 1933
 
 <details>
@@ -399,16 +399,16 @@ D. The Communal Award — 1933
 
 Consider the following events and arrange them in correct chronological order.
 
-1. Poona Pact  
-2. End of Civil Disobedience Movement  
-3. Gandhi-Irwin Pact  
-4. Second Round Table Conference  
+1. Poona Pact
+2. End of Civil Disobedience Movement
+3. Gandhi-Irwin Pact
+4. Second Round Table Conference
 
 Select the correct answer from the code given below:
 
-A. 3, 4, 2, 1  
-B. 4, 3, 1, 2  
-C. 4, 3, 2, 1  
+A. 3, 4, 2, 1
+B. 4, 3, 1, 2
+C. 4, 3, 2, 1
 D. 3, 4, 1, 2
 
 <details>
@@ -443,16 +443,16 @@ D. 3, 4, 1, 2
 
 Consider the following events and arrange them in correct chronological order.
 
-1. Cripps Mission  
-2. Cabinet Mission  
-3. Shimla Conference  
-4. Wavell Plan  
+1. Cripps Mission
+2. Cabinet Mission
+3. Shimla Conference
+4. Wavell Plan
 
 Select the correct answer from the code given below:
 
-A. 1, 4, 3, 2  
-B. 4, 1, 2, 3  
-C. 4, 1, 3, 2  
+A. 1, 4, 3, 2
+B. 4, 1, 2, 3
+C. 4, 1, 3, 2
 D. 1, 4, 2, 3
 
 <details>
@@ -465,14 +465,14 @@ D. 1, 4, 2, 3
 
 Consider the following events and arrange them in chronological order:
 
-1. Linlithgow August Offer  
-2. Cripps Mission arrival in India  
-3. Ramgarh Congress Session  
-4. Resignation letters of Congress Ministers  
+1. Linlithgow August Offer
+2. Cripps Mission arrival in India
+3. Ramgarh Congress Session
+4. Resignation letters of Congress Ministers
 
-A. 3, 1, 4, 2  
-B. 4, 3, 1, 2  
-C. 1, 3, 4, 2  
+A. 3, 1, 4, 2
+B. 4, 3, 1, 2
+C. 1, 3, 4, 2
 D. 4, 2, 3, 1
 
 <details>
@@ -501,9 +501,9 @@ D. 4, 2, 3, 1
 
 The first Interim National Government was announced on—
 
-A. 25th August 1946  
-B. 24th August 1946  
-C. 23rd August 1946  
+A. 25th August 1946
+B. 24th August 1946
+C. 23rd August 1946
 D. 22nd August 1946
 
 <details>
@@ -512,15 +512,13 @@ D. 22nd August 1946
 **Ans: B** — 24th August 1946.
 </details>
 
-**Inline PYQ — UPPCS Prelims 2018, Q17**
-
-**Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.  
+**Inline PYQ — UPPCS Prelims 2018, Q17Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
 
 **Reason (R):** The Muslim League joined the interim government formed in 1946.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).  
-C. (A) is true, but (R) is false.  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
 D. (A) is false, but (R) is true.
 
 <details>
@@ -533,14 +531,14 @@ D. (A) is false, but (R) is true.
 
 Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
 
-1. Royal Indian Navy Revolt  
-2. Announcement of Cabinet Mission  
-3. Formation of Interim Government  
-4. Arrival of a UK Parliamentary Delegation in Delhi  
+1. Royal Indian Navy Revolt
+2. Announcement of Cabinet Mission
+3. Formation of Interim Government
+4. Arrival of a UK Parliamentary Delegation in Delhi
 
-A. 4, 3, 2, 1  
-B. 4, 1, 2, 3  
-C. 4, 2, 1, 3  
+A. 4, 3, 2, 1
+B. 4, 1, 2, 3
+C. 4, 2, 1, 3
 D. 2, 4, 1, 3
 
 <details>
@@ -562,7 +560,7 @@ D. 2, 4, 1, 3
 - Ended British **paramountcy** over princely states.
 - Each dominion’s Constituent Assembly was empowered to frame its constitution and act as legislature.
 - Office of Governor-General continued temporarily for each dominion.
-- **GG / Viceroy line (coaching lock):** first Viceroy = **Canning**; last Viceroy = **Mountbatten**; last British GG of Independent India = **Mountbatten**; first Indian GG = **C. Rajagopalachari**.
+- **GG / Viceroy line (coaching fact):** first Viceroy = **Canning**; last Viceroy = **Mountbatten**; last British GG of Independent India = **Mountbatten**; first Indian GG = **C. Rajagopalachari**.
 
 ---
 
@@ -595,7 +593,7 @@ D. 2, 4, 1, 3
 - Modified form of these ideals becomes the **Preamble** — “We, the People…” and the Justice–Liberty–Equality–Fraternity quartet.
 - Trap: Objectives Resolution was **moved** on **13 Dec 1946**, not adopted that day; adoption = **22 Jan 1947**.
 
-> **Exam note:** Objectives Resolution = Preamble seed; full Preamble text and keyword counts live in **Topic 2 — Features**.
+> ** note:** Objectives Resolution = Preamble seed; full Preamble text and keyword counts live in **Topic 2 — Features**.
 
 - National Flag adopted by CA on **22 July 1947**.
 - Constitutional Adviser **B.N. Rau** prepared a working draft; Drafting Committee refined it.
@@ -635,7 +633,7 @@ D. 2, 4, 1, 3
 | Vijayalakshmi Pandit | United Provinces |
 | Annie Mascarene | Travancore–Cochin |
 
-> **Exam note:** Lock **~15 women**; Gandhi **not** a member; CA election was **indirect**, not UAF.
+> ** note:** Fact **~15 women**; Gandhi **not** a member; CA election was **indirect**, not UAF.
 
 ### Minorities, tribal areas & excluded areas — Advisory Committee work
 
@@ -658,13 +656,13 @@ D. 2, 4, 1, 3
 
 **Inline PYQ — UPPCS Prelims 2021, Q1**
 
-"Can you show me one free country where there are separate electorates? ... The British element is gone, but they have left mischief behind."
+"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind."
 
 Who among the following said the above mentioned statement in the Constituent Assembly debates?
 
-A. Somnath Lahiri  
-B. Jawaharlal Nehru  
-C. Sardar Vallabh Bhai Patel  
+A. Somnath Lahiri
+B. Jawaharlal Nehru
+C. Sardar Vallabh Bhai Patel
 D. N. G. Ranga
 
 <details>
@@ -695,9 +693,9 @@ D. N. G. Ranga
 
 On which of the following dates, Constituent Assembly of India adopted the National Flag?
 
-A. 22 January, 1950  
-B. 24 January, 1950  
-C. 22 July, 1947  
+A. 22 January, 1950
+B. 24 January, 1950
+C. 22 July, 1947
 D. 22 July, 1948
 
 <details>
@@ -710,9 +708,9 @@ D. 22 July, 1948
 
 Mention the correct date of the last meeting of the Constituent Assembly of India.
 
-A. 26 Nov. 1949  
-B. 5 Dec. 1949  
-C. 24 Jan. 1950  
+A. 26 Nov. 1949
+B. 5 Dec. 1949
+C. 24 Jan. 1950
 D. 25 Jan. 1950
 
 <details>
@@ -727,23 +725,23 @@ D. 25 Jan. 1950
 
 Match List-I with List-II and choose the correct answer using the code given below the lists.
 
-**List-I (Committee)**  
-A. Union Constitution Committee  
-B. Rules of Procedure Committee  
-C. Drafting Committee  
-D. Fundamental Rights Sub-Committee  
+**List-I (Committee)**
+A. Union Constitution Committee
+B. Rules of Procedure Committee
+C. Drafting Committee
+D. Fundamental Rights Sub-Committee
 
-**List-II (Chairman)**  
-1. Dr. Rajendra Prasad  
-2. J. B. Kripalani  
-3. Dr. B. R. Ambedkar  
-4. Jawaharlal Nehru  
+**List-II (Chairman)**
+1. Dr. Rajendra Prasad
+2. J. B. Kripalani
+3. Dr. B. R. Ambedkar
+4. Jawaharlal Nehru
 
 > Note: Row order in the table is **not** the answer key. Match each List-I item to List-II, then read the code.
 
-A. 2 1 3 4  
-B. 1 4 3 2  
-C. 4 1 3 2  
+A. 2 1 3 4
+B. 1 4 3 2
+C. 4 1 3 2
 D. 1 2 3 4
 
 <details>
@@ -756,14 +754,14 @@ D. 1 2 3 4
 
 Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
 
-(I) Appointment of the Drafting Committee  
-(II) Indian Constitution was adopted and enacted  
-(III) Date of commencement of Indian Constitution  
-(IV) Constituent Assembly first met  
+(I) Appointment of the Drafting Committee
+(II) Indian Constitution was adopted and enacted
+(III) Date of commencement of Indian Constitution
+(IV) Constituent Assembly first met
 
-A. III, II, I, IV  
-B. IV, I, III, II  
-C. I, II, IV, III  
+A. III, II, I, IV
+B. IV, I, III, II
+C. I, II, IV, III
 D. IV, I, II, III
 
 <details>
@@ -787,7 +785,7 @@ D. IV, I, II, III
 
 ### Master source table
 
-| Feature / provision | Source country | Exam lock |
+| Feature / provision | Source country | Key fact |
 |---------------------|----------------|-----------|
 | Parliamentary government, Cabinet system, Rule of Law, legislative procedure, **single citizenship**, bicameralism, writs (idea) | **UK** | Parliamentary ≠ USA |
 | **Fundamental Rights**, judicial review, independence of judiciary, impeachment of President, removal of SC/HC judges, office of **Vice-President** | **USA** | FR ≠ UK |
@@ -808,7 +806,7 @@ D. IV, I, II, III
 - **Basic Structure** doctrine — purely Indian judicial innovation (**Kesavananda**, 1973).
 - Asymmetric federalism through **Fifth / Sixth Schedules**, **Article 371** series, and later special provisions.
 
-> **Exam note:** Highest-yield trap = **Residual powers → Canada**; **Concurrent List → Australia**. Do not swap.
+> ** note:** Highest-yield trap = **Residual powers → Canada**; **Concurrent List → Australia**. Do not swap.
 
 **Inline PYQ — UPPCS Prelims 2021, Q54**
 
@@ -816,9 +814,9 @@ Which one of the following is NOT correctly matched?
 
 (Provisions) — (Sources)
 
-A. Fundamental Rights – USA  
-B. Directive Principles of State Policy – Ireland  
-C. Residual Powers of Center – Australia  
+A. Fundamental Rights – USA
+B. Directive Principles of State Policy – Ireland
+C. Residual Powers of Center – Australia
 D. Emergency powers - Germany
 
 <details>
@@ -829,7 +827,7 @@ D. Emergency powers - Germany
 
 ---
 
-## Must-score locks
+## Must-score facts
 
 1. **1773** = GG Bengal + SC Calcutta **1774**; **1833** = GG India (Bentinck).
 2. **1853** = open ICS competition; **1861** = portfolio legal recognition.
@@ -848,19 +846,19 @@ D. Emergency powers - Germany
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **48 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden.48 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
 
 **Q1.** With reference to the Regulating Act of 1773, consider the following statements:
 
-1. It created the office of Governor-General of India.  
-2. It provided for a Supreme Court at Calcutta.  
+1. It created the office of Governor-General of India.
+2. It provided for a Supreme Court at Calcutta.
 3. Warren Hastings was the first Governor-General of Bengal under the Act.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -871,9 +869,9 @@ D. 1, 2 and 3
 
 **Q2.** With reference to Pitt’s India Act, 1784, which one of the following is correct?
 
-A. It ended the Company’s commercial monopoly completely  
-B. It established Dual Control through Board of Control and Court of Directors  
-C. It introduced Dyarchy in the provinces  
+A. It ended the Company’s commercial monopoly completely
+B. It established Dual Control through Board of Control and Court of Directors
+C. It introduced Dyarchy in the provinces
 D. It created the Federal Court
 
 <details>
@@ -892,9 +890,9 @@ D. It created the Federal Court
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -903,13 +901,13 @@ D. 1, 2 and 3
 **Ans: D**
 </details>
 
-**Q4.** Assertion (A): Open competition for the Indian Civil Service began effectively with the Charter Act of 1833.  
+**Q4.** Assertion (A): Open competition for the Indian Civil Service began effectively with the Charter Act of 1833.
 
 Reason (R): The Charter Act of 1853 introduced open competition for recruitment to the civil services.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -920,22 +918,22 @@ D. (A) is false, but (R) is true
 
 **Q5.** Which one of the following Acts of British India strengthened the Viceroy’s authority over his executive council by substituting the ‘portfolio’ or ‘departmental’ system for corporate functioning?
 
-A. Government of India Act, 1858  
-B. Indian Councils Act, 1861  
-C. Indian Councils Act, 1892  
+A. Government of India Act, 1858
+B. Indian Councils Act, 1861
+C. Indian Councils Act, 1892
 D. Indian Councils Act, 1909
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** (UPPCS 2021 Q13)
+**Ans: B**
 </details>
 
 **Q6.** In 1862, Lord Canning nominated Indians to the Legislative Council. Who among the following were among those nominees?
 
-A. Dadabhai Naoroji and S.P. Sinha  
-B. Raja of Benaras, Maharaja of Patiala and Sir Dinkar Rao  
-C. Motilal Nehru and Tej Bahadur Sapru  
+A. Dadabhai Naoroji and S.P. Sinha
+B. Raja of Benaras, Maharaja of Patiala and Sir Dinkar Rao
+C. Motilal Nehru and Tej Bahadur Sapru
 D. Syed Ahmed Khan and Gopal Krishna Gokhale
 
 <details>
@@ -946,15 +944,15 @@ D. Syed Ahmed Khan and Gopal Krishna Gokhale
 
 **Q7.** With reference to the Indian Councils Act, 1892, which of the following is/are correct?
 
-1. Councils could discuss the annual budget and ask questions.  
-2. The Act introduced separate electorates for Muslims.  
+1. Councils could discuss the annual budget and ask questions.
+2. The Act introduced separate electorates for Muslims.
 3. The British officially used the word “election” for council membership.
 
 Select the correct answer using the code given below:
 
-A. 1 only  
-B. 1 and 2 only  
-C. 2 and 3 only  
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -965,9 +963,9 @@ D. 1, 2 and 3
 
 **Q8.** Separate electorates for Muslims were first introduced by which of the following?
 
-A. Indian Councils Act, 1861  
-B. Indian Councils Act, 1892  
-C. Indian Councils Act, 1909  
+A. Indian Councils Act, 1861
+B. Indian Councils Act, 1892
+C. Indian Councils Act, 1909
 D. Government of India Act, 1919
 
 <details>
@@ -978,9 +976,9 @@ D. Government of India Act, 1919
 
 **Q9.** Who among the following is called the “Father of Communal Electorate” in the context of British India?
 
-A. Lord Morley  
-B. Lord Minto  
-C. Lord Chelmsford  
+A. Lord Morley
+B. Lord Minto
+C. Lord Chelmsford
 D. Lord Linlithgow
 
 <details>
@@ -991,9 +989,9 @@ D. Lord Linlithgow
 
 **Q10.** Who was the first Indian to be appointed to the Viceroy’s Executive Council?
 
-A. Dadabhai Naoroji  
-B. Satyendra Prasad Sinha  
-C. Motilal Nehru  
+A. Dadabhai Naoroji
+B. Satyendra Prasad Sinha
+C. Motilal Nehru
 D. Tej Bahadur Sapru
 
 <details>
@@ -1004,9 +1002,9 @@ D. Tej Bahadur Sapru
 
 **Q11.** Which one of the following is NOT correctly matched?
 
-A. 1909 — Muslim separate electorates  
-B. 1919 — Dyarchy in provinces  
-C. 1935 — Provincial Autonomy  
+A. 1909 — Muslim separate electorates
+B. 1919 — Dyarchy in provinces
+C. 1935 — Provincial Autonomy
 D. 1919 — All-India Federation implemented
 
 <details>
@@ -1017,22 +1015,22 @@ D. 1919 — All-India Federation implemented
 
 **Q12.** By which of the following Acts was the Chamber of Princes with about 120 members created?
 
-A. Charter Act of 1853  
-B. Indian Councils Act of 1909  
-C. Government of India Act, 1919  
+A. Charter Act of 1853
+B. Indian Councils Act of 1909
+C. Government of India Act, 1919
 D. Government of India Act, 1935
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** (UPPCS 2023 Q43)
+**Ans: C**
 </details>
 
 **Q13.** Under the system of Dyarchy introduced by the Government of India Act, 1919, Reserved subjects were administered by:
 
-A. Indian ministers responsible to the Legislative Council  
-B. The Governor and his Executive Councillors  
-C. The Secretary of State for India alone  
+A. Indian ministers responsible to the Legislative Council
+B. The Governor and his Executive Councillors
+C. The Secretary of State for India alone
 D. The Federal Court
 
 <details>
@@ -1043,15 +1041,15 @@ D. The Federal Court
 
 **Q14.** With reference to the Government of India Act, 1935, consider the following statements:
 
-1. Provincial Autonomy operated in the provinces.  
-2. The All-India Federation came into being as planned.  
+1. Provincial Autonomy operated in the provinces.
+2. The All-India Federation came into being as planned.
 3. The Act provided for a Federal Court.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1062,9 +1060,9 @@ D. 1, 2 and 3
 
 **Q15.** Residuary powers under the Government of India Act, 1935 were vested in the:
 
-A. Federal Legislature  
-B. Provincial Governors jointly  
-C. Viceroy / Governor-General  
+A. Federal Legislature
+B. Provincial Governors jointly
+C. Viceroy / Governor-General
 D. League of Nations
 
 <details>
@@ -1075,9 +1073,9 @@ D. League of Nations
 
 **Q16.** The Federal Court established under the Government of India Act, 1935 was inaugurated in:
 
-A. 1935  
-B. 1937  
-C. 1947  
+A. 1935
+B. 1937
+C. 1947
 D. 1950
 
 <details>
@@ -1088,9 +1086,9 @@ D. 1950
 
 **Q17.** Which one of the following is NOT correctly matched?
 
-A. Fundamental Rights — USA  
-B. Directive Principles of State Policy — Ireland  
-C. Residuary powers of the Centre — Australia  
+A. Fundamental Rights — USA
+B. Directive Principles of State Policy — Ireland
+C. Residuary powers of the Centre — Australia
 D. Suspension of Fundamental Rights during Emergency — Germany
 
 <details>
@@ -1101,9 +1099,9 @@ D. Suspension of Fundamental Rights during Emergency — Germany
 
 **Q18.** The Concurrent List in the Indian Constitution is borrowed from the Constitution of:
 
-A. Canada  
-B. Australia  
-C. USA  
+A. Canada
+B. Australia
+C. USA
 D. Ireland
 
 <details>
@@ -1114,9 +1112,9 @@ D. Ireland
 
 **Q19.** With reference to the Simon Commission, which one of the following statements is correct?
 
-A. It had equal Indian and British membership  
-B. It was an all-British commission with no Indian member  
-C. It was nominated entirely by the Muslim League  
+A. It had equal Indian and British membership
+B. It was an all-British commission with no Indian member
+C. It was nominated entirely by the Muslim League
 D. It recommended immediate independence for India
 
 <details>
@@ -1127,16 +1125,16 @@ D. It recommended immediate independence for India
 
 **Q20.** Arrange the following in chronological order:
 
-1. Simon Commission  
-2. Nehru Report  
-3. Communal Award  
-4. Poona Pact  
+1. Simon Commission
+2. Nehru Report
+3. Communal Award
+4. Poona Pact
 
 Select the correct answer using the code given below:
 
-A. 1, 2, 3, 4  
-B. 2, 1, 4, 3  
-C. 1, 3, 2, 4  
+A. 1, 2, 3, 4
+B. 2, 1, 4, 3
+C. 1, 3, 2, 4
 D. 2, 3, 1, 4
 
 <details>
@@ -1147,9 +1145,9 @@ D. 2, 3, 1, 4
 
 **Q21.** The Communal Award was announced in:
 
-A. 1930  
-B. 1931  
-C. 1932  
+A. 1930
+B. 1931
+C. 1932
 D. 1933
 
 <details>
@@ -1160,9 +1158,9 @@ D. 1933
 
 **Q22.** The Poona Pact of 1932 provided for:
 
-A. Separate electorates for the Depressed Classes  
-B. Reserved seats for the Depressed Classes within a joint electorate  
-C. Abolition of all forms of reservation  
+A. Separate electorates for the Depressed Classes
+B. Reserved seats for the Depressed Classes within a joint electorate
+C. Abolition of all forms of reservation
 D. Separate electorates only for Muslims
 
 <details>
@@ -1173,42 +1171,42 @@ D. Separate electorates only for Muslims
 
 **Q23.** Who among the following leaders did NOT participate in the Second Round Table Conference?
 
-A. M.K. Gandhi  
-B. Sarojini Naidu  
-C. Madan Mohan Malaviya  
+A. M.K. Gandhi
+B. Sarojini Naidu
+C. Madan Mohan Malaviya
 D. Dr. Rajendra Prasad
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** (UPPCS 2020 Q24)
+**Ans: D**
 </details>
 
 **Q24.** Consider the following events:
 
-1. Cripps Mission  
-2. Cabinet Mission  
-3. Shimla Conference  
-4. Wavell Plan  
+1. Cripps Mission
+2. Cabinet Mission
+3. Shimla Conference
+4. Wavell Plan
 
 Which of the following is the correct chronological order?
 
-A. 1, 4, 3, 2  
-B. 4, 1, 2, 3  
-C. 4, 1, 3, 2  
+A. 1, 4, 3, 2
+B. 4, 1, 2, 3
+C. 4, 1, 3, 2
 D. 1, 4, 2, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** (UPPCS 2025 Q41)
+**Ans: A**
 </details>
 
 **Q25.** The first Interim National Government was announced on:
 
-A. 22 August 1946  
-B. 23 August 1946  
-C. 24 August 1946  
+A. 22 August 1946
+B. 23 August 1946
+C. 24 August 1946
 D. 2 September 1946
 
 <details>
@@ -1217,31 +1215,31 @@ D. 2 September 1946
 **Ans: C** — **2 September 1946** is the date it assumed office.
 </details>
 
-**Q26.** Assertion (A): In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.  
+**Q26.** Assertion (A): In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
 
 Reason (R): The Muslim League joined the Interim Government formed in 1946.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** (UPPCS 2018 Q17)
+**Ans: B**
 </details>
 
 **Q27.** With reference to the Indian Independence Act, 1947, consider the following statements:
 
-1. It abolished the office of Secretary of State for India.  
+1. It abolished the office of Secretary of State for India.
 2. It ended British paramountcy over the princely states.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1252,9 +1250,9 @@ D. Neither 1 nor 2
 
 **Q28.** The Constituent Assembly of India first met on:
 
-A. 9 December 1946  
-B. 11 December 1946  
-C. 13 December 1946  
+A. 9 December 1946
+B. 11 December 1946
+C. 13 December 1946
 D. 26 January 1947
 
 <details>
@@ -1265,9 +1263,9 @@ D. 26 January 1947
 
 **Q29.** The Objectives Resolution was moved in the Constituent Assembly by:
 
-A. B.R. Ambedkar  
-B. Rajendra Prasad  
-C. Jawaharlal Nehru  
+A. B.R. Ambedkar
+B. Rajendra Prasad
+C. Jawaharlal Nehru
 D. Sardar Patel
 
 <details>
@@ -1278,23 +1276,23 @@ D. Sardar Patel
 
 **Q30.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**List-I (Committee)**  
-A. Union Constitution Committee  
-B. Rules of Procedure Committee  
-C. Drafting Committee  
-D. Fundamental Rights Sub-Committee  
+**List-I (Committee)**
+A. Union Constitution Committee
+B. Rules of Procedure Committee
+C. Drafting Committee
+D. Fundamental Rights Sub-Committee
 
-**List-II (Chairman)**  
-1. Dr. Rajendra Prasad  
-2. J.B. Kripalani  
-3. Dr. B.R. Ambedkar  
-4. Jawaharlal Nehru  
+**List-II (Chairman)**
+1. Dr. Rajendra Prasad
+2. J.B. Kripalani
+3. Dr. B.R. Ambedkar
+4. Jawaharlal Nehru
 
 > Note: Row order is **not** the answer.
 
-A. A-2, B-1, C-3, D-4  
-B. A-1, B-4, C-3, D-2  
-C. A-4, B-1, C-3, D-2  
+A. A-2, B-1, C-3, D-4
+B. A-1, B-4, C-3, D-2
+C. A-4, B-1, C-3, D-2
 D. A-4, B-2, C-3, D-1
 
 <details>
@@ -1305,9 +1303,9 @@ D. A-4, B-2, C-3, D-1
 
 **Q31.** The Drafting Committee of the Constituent Assembly was set up on:
 
-A. 9 December 1946  
-B. 22 January 1947  
-C. 29 August 1947  
+A. 9 December 1946
+B. 22 January 1947
+C. 29 August 1947
 D. 26 November 1949
 
 <details>
@@ -1318,9 +1316,9 @@ D. 26 November 1949
 
 **Q32.** Who among the following was the Constitutional Adviser to the Constituent Assembly?
 
-A. B.R. Ambedkar  
-B. B.N. Rau  
-C. K.M. Munshi  
+A. B.R. Ambedkar
+B. B.N. Rau
+C. K.M. Munshi
 D. Alladi Krishnaswamy Ayyar
 
 <details>
@@ -1331,9 +1329,9 @@ D. Alladi Krishnaswamy Ayyar
 
 **Q33.** On which date did the Constituent Assembly of India adopt the National Flag?
 
-A. 22 January 1950  
-B. 24 January 1950  
-C. 22 July 1947  
+A. 22 January 1950
+B. 24 January 1950
+C. 22 July 1947
 D. 22 July 1948
 
 <details>
@@ -1344,9 +1342,9 @@ D. 22 July 1948
 
 **Q34.** The last meeting of the Constituent Assembly of India was held on:
 
-A. 26 November 1949  
-B. 5 December 1949  
-C. 24 January 1950  
+A. 26 November 1949
+B. 5 December 1949
+C. 24 January 1950
 D. 25 January 1950
 
 <details>
@@ -1357,9 +1355,9 @@ D. 25 January 1950
 
 **Q35.** Which one of the following pairs is correctly matched?
 
-A. Adoption of Constitution — 26 January 1950  
-B. Enforcement of Constitution — 26 November 1949  
-C. Adoption of Constitution — 26 November 1949; Enforcement — 26 January 1950  
+A. Adoption of Constitution — 26 January 1950
+B. Enforcement of Constitution — 26 November 1949
+C. Adoption of Constitution — 26 November 1949; Enforcement — 26 January 1950
 D. Both adoption and enforcement — 26 January 1950
 
 <details>
@@ -1370,62 +1368,62 @@ D. Both adoption and enforcement — 26 January 1950
 
 **Q36.** Consider the following events:
 
-1. Appointment of the Drafting Committee  
-2. Adoption and enactment of the Constitution  
-3. Commencement of the Constitution  
-4. First meeting of the Constituent Assembly  
+1. Appointment of the Drafting Committee
+2. Adoption and enactment of the Constitution
+3. Commencement of the Constitution
+4. First meeting of the Constituent Assembly
 
 Which is the correct chronological order?
 
-A. 4, 1, 2, 3  
-B. 1, 4, 2, 3  
-C. 4, 2, 1, 3  
+A. 4, 1, 2, 3
+B. 1, 4, 2, 3
+C. 4, 2, 1, 3
 D. 2, 1, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** (UPPCS 2023 Q3)
+**Ans: A**
 </details>
 
 **Q37.** In the Constituent Assembly debates, who said that the British had gone but left the “mischief” of separate electorates behind?
 
-A. Jawaharlal Nehru  
-B. Somnath Lahiri  
-C. Sardar Vallabhbhai Patel  
+A. Jawaharlal Nehru
+B. Somnath Lahiri
+C. Sardar Vallabhbhai Patel
 D. N.G. Ranga
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** (UPPCS 2021 Q1)
+**Ans: C**
 </details>
 
 **Q38.** Arrange the following in chronological order:
 
-1. Gandhi–Irwin Pact  
-2. Second Round Table Conference  
-3. Poona Pact  
-4. End of Civil Disobedience Movement  
+1. Gandhi–Irwin Pact
+2. Second Round Table Conference
+3. Poona Pact
+4. End of Civil Disobedience Movement
 
 Select the correct answer:
 
-A. 1, 2, 3, 4  
-B. 2, 1, 4, 3  
-C. 3, 1, 2, 4  
+A. 1, 2, 3, 4
+B. 2, 1, 4, 3
+C. 3, 1, 2, 4
 D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** (UPPCS 2025 Q7)
+**Ans: A**
 </details>
 
 **Q39.** After Partition, the strength of the Constituent Assembly was about:
 
-A. 389  
-B. 296  
-C. 299  
+A. 389
+B. 296
+C. 299
 D. 250
 
 <details>
@@ -1436,9 +1434,9 @@ D. 250
 
 **Q40.** Who was the Chairman of the Provincial Constitution Committee of the Constituent Assembly?
 
-A. Jawaharlal Nehru  
-B. Maulana Azad  
-C. Sardar Vallabhbhai Patel  
+A. Jawaharlal Nehru
+B. Maulana Azad
+C. Sardar Vallabhbhai Patel
 D. Rajendra Prasad
 
 <details>
@@ -1449,16 +1447,16 @@ D. Rajendra Prasad
 
 **Q41.** With reference to the Government of India Act, 1935, which of the following provinces were provided bicameral legislatures?
 
-1. Bengal  
-2. Bombay  
-3. Madras  
-4. Punjab  
+1. Bengal
+2. Bombay
+3. Madras
+4. Punjab
 
 Select the correct answer using the code given below:
 
-A. 1, 2 and 3 only  
-B. 1, 2 and 4 only  
-C. 2, 3 and 4 only  
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
 D. 1, 2, 3 and 4
 
 <details>
@@ -1469,27 +1467,27 @@ D. 1, 2, 3 and 4
 
 **Q42.** Consider the following statements regarding the Reserve Bank of India:
 
-1. The Government of India Act, 1935 provided for the establishment of the RBI.  
+1. The Government of India Act, 1935 provided for the establishment of the RBI.
 2. The RBI was created by a separate statute enacted in 1934 and began operations on 1 April 1935.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Laxmikanth-style “provided for” + coaching lock that the statute is **RBI Act 1934**.
+**Ans: C** — Laxmikanth-style “provided for” + coaching fact that the statute is **RBI Act 1934**.
 </details>
 
 **Q43.** Which one of the following is correctly matched?
 
-A. First Governor-General of Bengal — Lord William Bentinck  
-B. First Governor-General of India — Warren Hastings  
-C. First Viceroy of India — Lord Canning  
+A. First Governor-General of Bengal — Lord William Bentinck
+B. First Governor-General of India — Warren Hastings
+C. First Viceroy of India — Lord Canning
 D. First Indian Governor-General — Lord Mountbatten
 
 <details>
@@ -1500,9 +1498,9 @@ D. First Indian Governor-General — Lord Mountbatten
 
 **Q44.** Who among the following first floated the idea of a Constituent Assembly for India in 1934?
 
-A. Jawaharlal Nehru  
-B. M.N. Roy  
-C. Tej Bahadur Sapru  
+A. Jawaharlal Nehru
+B. M.N. Roy
+C. Tej Bahadur Sapru
 D. B.R. Ambedkar
 
 <details>
@@ -1513,9 +1511,9 @@ D. B.R. Ambedkar
 
 **Q45.** With reference to Charter Act features, which one of the following is NOT correctly matched?
 
-A. 1813 — End of Company monopoly except tea and China trade  
-B. 1833 — Company becomes purely administrative body  
-C. 1853 — Portfolio system given legal recognition  
+A. 1813 — End of Company monopoly except tea and China trade
+B. 1833 — Company becomes purely administrative body
+C. 1853 — Portfolio system given legal recognition
 D. 1853 — Open competition for ICS
 
 <details>
@@ -1526,15 +1524,15 @@ D. 1853 — Open competition for ICS
 
 **Q46.** With reference to the Constituent Assembly of India, consider the following statements:
 
-1. Its members were elected by universal adult franchise.  
-2. Mahatma Gandhi was not a member of the Assembly.  
+1. Its members were elected by universal adult franchise.
+2. Mahatma Gandhi was not a member of the Assembly.
 3. The original strength was 389, which included seats for princely states.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1545,9 +1543,9 @@ D. 1, 2 and 3
 
 **Q47.** Who among the following chaired the Minorities Sub-Committee of the Constituent Assembly?
 
-A. Sardar Vallabhbhai Patel  
-B. H. C. Mukherjee  
-C. J. B. Kripalani  
+A. Sardar Vallabhbhai Patel
+B. H. C. Mukherjee
+C. J. B. Kripalani
 D. Gopinath Bardoloi
 
 <details>
@@ -1558,9 +1556,9 @@ D. Gopinath Bardoloi
 
 **Q48.** Approximately how many women were members of the original Constituent Assembly of India?
 
-A. 5  
-B. 10  
-C. 15  
+A. 5
+B. 10
+C. 15
 D. 25
 
 <details>
@@ -1577,19 +1575,19 @@ D. 25
 
 ### 2025
 
-**Q1. UPPCS Prelims 2025, Q7**  
+**Q1. UPPCS Prelims 2025, Q7**
 Consider the following events and arrange them in correct chronological order.
 
-1. Poona Pact  
-2. End of Civil Disobedience Movement  
-3. Gandhi-Irwin Pact  
-4. Second Round Table Conference  
+1. Poona Pact
+2. End of Civil Disobedience Movement
+3. Gandhi-Irwin Pact
+4. Second Round Table Conference
 
 Select the correct answer from the code given below:
 
-A. 3, 4, 2, 1  
-B. 4, 3, 1, 2  
-C. 4, 3, 2, 1  
+A. 3, 4, 2, 1
+B. 4, 3, 1, 2
+C. 4, 3, 2, 1
 D. 3, 4, 1, 2
 
 <details>
@@ -1598,19 +1596,19 @@ D. 3, 4, 1, 2
 **D** — GI Mar 1931 → 2nd RTC 1931 → Poona Sep 1932 → CDM ends 1934.
 </details>
 
-**Q2. UPPCS Prelims 2025, Q41**  
+**Q2. UPPCS Prelims 2025, Q41**
 Consider the following events and arrange them in correct chronological order.
 
-1. Cripps Mission  
-2. Cabinet Mission  
-3. Shimla Conference  
-4. Wavell Plan  
+1. Cripps Mission
+2. Cabinet Mission
+3. Shimla Conference
+4. Wavell Plan
 
 Select the correct answer from the code given below:
 
-A. 1, 4, 3, 2  
-B. 4, 1, 2, 3  
-C. 4, 1, 3, 2  
+A. 1, 4, 3, 2
+B. 4, 1, 2, 3
+C. 4, 1, 3, 2
 D. 1, 4, 2, 3
 
 <details>
@@ -1619,24 +1617,24 @@ D. 1, 4, 2, 3
 **A** — Cripps 1942 → Wavell 1945 → Shimla 1945 → Cabinet 1946.
 </details>
 
-**Q3. UPPCS Prelims 2025, Q82**  
+**Q3. UPPCS Prelims 2025, Q82**
 Match List-I with List-II and choose the correct answer using the code given below the lists.
 
-**List-I (Committee)**  
-A. Union Constitution Committee  
-B. Rules of Procedure Committee  
-C. Drafting Committee  
-D. Fundamental Rights Sub-Committee  
+**List-I (Committee)**
+A. Union Constitution Committee
+B. Rules of Procedure Committee
+C. Drafting Committee
+D. Fundamental Rights Sub-Committee
 
-**List-II (Chairman)**  
-1. Dr. Rajendra Prasad  
-2. J. B. Kripalani  
-3. Dr. B. R. Ambedkar  
-4. Jawaharlal Nehru  
+**List-II (Chairman)**
+1. Dr. Rajendra Prasad
+2. J. B. Kripalani
+3. Dr. B. R. Ambedkar
+4. Jawaharlal Nehru
 
-A. 2 1 3 4  
-B. 1 4 3 2  
-C. 4 1 3 2  
+A. 2 1 3 4
+B. 1 4 3 2
+C. 4 1 3 2
 D. 1 2 3 4
 
 <details>
@@ -1647,17 +1645,17 @@ D. 1 2 3 4
 
 ### 2024
 
-**Q4. UPPCS Prelims 2024, Q16**  
+**Q4. UPPCS Prelims 2024, Q16**
 Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
 
-1. Royal Indian Navy Revolt  
-2. Announcement of Cabinet Mission  
-3. Formation of Interim Government  
-4. Arrival of a UK Parliamentary Delegation in Delhi  
+1. Royal Indian Navy Revolt
+2. Announcement of Cabinet Mission
+3. Formation of Interim Government
+4. Arrival of a UK Parliamentary Delegation in Delhi
 
-A. 4, 3, 2, 1  
-B. 4, 1, 2, 3  
-C. 4, 2, 1, 3  
+A. 4, 3, 2, 1
+B. 4, 1, 2, 3
+C. 4, 2, 1, 3
 D. 2, 4, 1, 3
 
 <details>
@@ -1666,17 +1664,17 @@ D. 2, 4, 1, 3
 **B** — Delegation Jan → RIN Feb → Cabinet announced Feb → Interim Sep 1946.
 </details>
 
-**Q5. UPPCS Prelims 2024, Q133**  
+**Q5. UPPCS Prelims 2024, Q133**
 Consider the following events and arrange them in chronological order:
 
-1. Linlithgow August Offer  
-2. Cripps Mission arrival in India  
-3. Ramgarh Congress Session  
-4. Resignation letters of Congress Ministers  
+1. Linlithgow August Offer
+2. Cripps Mission arrival in India
+3. Ramgarh Congress Session
+4. Resignation letters of Congress Ministers
 
-A. 3, 1, 4, 2  
-B. 4, 3, 1, 2  
-C. 1, 3, 4, 2  
+A. 3, 1, 4, 2
+B. 4, 3, 1, 2
+C. 1, 3, 4, 2
 D. 4, 2, 3, 1
 
 <details>
@@ -1687,17 +1685,17 @@ D. 4, 2, 3, 1
 
 ### 2023
 
-**Q6. UPPCS Prelims 2023, Q3**  
+**Q6. UPPCS Prelims 2023, Q3**
 Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
 
-(I) Appointment of the Drafting Committee  
-(II) Indian Constitution was adopted and enacted  
-(III) Date of commencement of Indian Constitution  
-(IV) Constituent Assembly first met  
+(I) Appointment of the Drafting Committee
+(II) Indian Constitution was adopted and enacted
+(III) Date of commencement of Indian Constitution
+(IV) Constituent Assembly first met
 
-A. III, II, I, IV  
-B. IV, I, III, II  
-C. I, II, IV, III  
+A. III, II, I, IV
+B. IV, I, III, II
+C. I, II, IV, III
 D. IV, I, II, III
 
 <details>
@@ -1706,12 +1704,12 @@ D. IV, I, II, III
 **D**
 </details>
 
-**Q7. UPPCS Prelims 2023, Q43**  
+**Q7. UPPCS Prelims 2023, Q43**
 By which of the following Acts was the **Chamber of Princes** with 120 members created?
 
-A. Charter Act of 1853  
-B. Act of 1793  
-C. Act of 1909  
+A. Charter Act of 1853
+B. Act of 1793
+C. Act of 1909
 D. Government of India Act, 1919
 
 <details>
@@ -1722,12 +1720,12 @@ D. Government of India Act, 1919
 
 ### 2022
 
-**Q8. UPPCS Prelims 2022, Q79**  
+**Q8. UPPCS Prelims 2022, Q79**
 The first Interim National Government was announced on—
 
-A. 25th August 1946  
-B. 24th August 1946  
-C. 23rd August 1946  
+A. 25th August 1946
+B. 24th August 1946
+C. 23rd August 1946
 D. 22nd August 1946
 
 <details>
@@ -1738,14 +1736,14 @@ D. 22nd August 1946
 
 ### 2021
 
-**Q9. UPPCS Prelims 2021, Q1**  
-"Can you show me one free country where there are separate electorates? ... The British element is gone, but they have left mischief behind."
+**Q9. UPPCS Prelims 2021, Q1**
+"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind."
 
 Who among the following said the above mentioned statement in the Constituent Assembly debates?
 
-A. Somnath Lahiri  
-B. Jawaharlal Nehru  
-C. Sardar Vallabh Bhai Patel  
+A. Somnath Lahiri
+B. Jawaharlal Nehru
+C. Sardar Vallabh Bhai Patel
 D. N. G. Ranga
 
 <details>
@@ -1754,12 +1752,12 @@ D. N. G. Ranga
 **C**
 </details>
 
-**Q10. UPPCS Prelims 2021, Q13**  
+**Q10. UPPCS Prelims 2021, Q13**
 Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
 
-A. Indian Council Act, 1861  
-B. Government of India Act, 1858  
-C. Indian Council Act, 1892  
+A. Indian Council Act, 1861
+B. Government of India Act, 1858
+C. Indian Council Act, 1892
 D. Indian Council Act, 1909
 
 <details>
@@ -1768,17 +1766,17 @@ D. Indian Council Act, 1909
 **A**
 </details>
 
-**Q11. UPPCS Prelims 2021, Q28**  
+**Q11. UPPCS Prelims 2021, Q28**
 Consider the following events and arrange them into chronological order:
 
-I. Sharda Act  
-II. Nehru Report  
-III. Constitution of Simon Commission  
-IV. Dandi March  
+I. Sharda Act
+II. Nehru Report
+III. Constitution of Simon Commission
+IV. Dandi March
 
-A. III, II, I and IV  
-B. I, II, III and IV  
-C. IV, III, II and I  
+A. III, II, I and IV
+B. I, II, III and IV
+C. IV, III, II and I
 D. I, IV, II and III
 
 <details>
@@ -1787,14 +1785,14 @@ D. I, IV, II and III
 **A** — Simon 1927 → Nehru 1928 → Sharda 1929 → Dandi 1930.
 </details>
 
-**Q12. UPPCS Prelims 2021, Q54**  
+**Q12. UPPCS Prelims 2021, Q54**
 Which one of the following is NOT correctly matched?
 
 (Provisions) — (Sources)
 
-A. Fundamental Rights – USA  
-B. Directive Principles of State Policy – Ireland  
-C. Residual Powers of Center – Australia  
+A. Fundamental Rights – USA
+B. Directive Principles of State Policy – Ireland
+C. Residual Powers of Center – Australia
 D. Emergency powers - Germany
 
 <details>
@@ -1805,12 +1803,12 @@ D. Emergency powers - Germany
 
 ### 2020
 
-**Q13. UPPCS Prelims 2020, Q24**  
+**Q13. UPPCS Prelims 2020, Q24**
 Who among the following leaders did NOT participated in the Second Round Table Conference?
 
-A. M.K. Gandhi  
-B. Sarojini Naidu  
-C. Pt. Madan Mohan Malviya  
+A. M.K. Gandhi
+B. Sarojini Naidu
+C. Pt. Madan Mohan Malviya
 D. Dr. Rajendra Prasad
 
 <details>
@@ -1819,12 +1817,12 @@ D. Dr. Rajendra Prasad
 **D**
 </details>
 
-**Q14. UPPCS Prelims 2020, Q134**  
+**Q14. UPPCS Prelims 2020, Q134**
 On which of the following dates, Constituent Assembly of India adopted the National Flag?
 
-A. 22 January, 1950  
-B. 24 January, 1950  
-C. 22 July, 1947  
+A. 22 January, 1950
+B. 24 January, 1950
+C. 22 July, 1947
 D. 22 July, 1948
 
 <details>
@@ -1835,12 +1833,12 @@ D. 22 July, 1948
 
 ### 2019
 
-**Q15. UPPCS Prelims 2019, Q19**  
+**Q15. UPPCS Prelims 2019, Q19**
 Which of the following is NOT correctly matched?
 
-A. Indian Navy Act — 1927  
-B. Civil Disobedience Movement — 1930  
-C. Second Round Table Conference — 1931  
+A. Indian Navy Act — 1927
+B. Civil Disobedience Movement — 1930
+C. Second Round Table Conference — 1931
 D. The Communal Award — 1933
 
 <details>
@@ -1849,17 +1847,17 @@ D. The Communal Award — 1933
 **D** — Award was 1932.
 </details>
 
-**Q16. UPPCS Prelims 2019, Q20**  
+**Q16. UPPCS Prelims 2019, Q20**
 Arrange the following events in a chronological order and select the correct answer from the codes given below:
 
-I. Appointment of Simon Commission  
-II. Jallianwala Bagh Massacre  
-III. Mahatma Gandhi's Dandi March  
-IV. Death of Ferozshah Mehta  
+I. Appointment of Simon Commission
+II. Jallianwala Bagh Massacre
+III. Mahatma Gandhi's Dandi March
+IV. Death of Ferozshah Mehta
 
-A. IV, II, I, III  
-B. I, II, IV, III  
-C. II, III, IV, I  
+A. IV, II, I, III
+B. I, II, IV, III
+C. II, III, IV, I
 D. IV, III, II, I
 
 <details>
@@ -1868,17 +1866,17 @@ D. IV, III, II, I
 **A** — 1915 → 1919 → 1927 → 1930.
 </details>
 
-**Q17. UPPCS Prelims 2019, Q94**  
+**Q17. UPPCS Prelims 2019, Q94**
 Arrange the following events in a chronological order:
 
-I. Poona Pact  
-II. Gandhi-Irvin Agreement  
-III. Cripps Mission  
-IV. Civil Disobedience Movement  
+I. Poona Pact
+II. Gandhi-Irvin Agreement
+III. Cripps Mission
+IV. Civil Disobedience Movement
 
-A. IV, II, III, I  
-B. II, IV, I, III  
-C. IV, II, I, III  
+A. IV, II, III, I
+B. II, IV, I, III
+C. IV, II, I, III
 D. III, I, IV, II
 
 <details>
@@ -1889,14 +1887,13 @@ D. III, I, IV, II
 
 ### 2018
 
-**Q18. UPPCS Prelims 2018, Q17**  
-**Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.  
+**Q18. UPPCS Prelims 2018, Q17Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
 
 **Reason (R):** The Muslim League joined the interim government formed in 1946.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).  
-C. (A) is true, but (R) is false.  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
 D. (A) is false, but (R) is true.
 
 <details>
@@ -1905,12 +1902,12 @@ D. (A) is false, but (R) is true.
 **B**
 </details>
 
-**Q19. UPPCS Prelims 2018, Q147**  
+**Q19. UPPCS Prelims 2018, Q147**
 Mention the correct date of the last meeting of the Constituent Assembly of India.
 
-A. 26 Nov. 1949  
-B. 5 Dec. 1949  
-C. 24 Jan. 1950  
+A. 26 Nov. 1949
+B. 5 Dec. 1949
+C. 24 Jan. 1950
 D. 25 Jan. 1950
 
 <details>

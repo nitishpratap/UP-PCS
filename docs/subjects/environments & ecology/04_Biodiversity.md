@@ -8,13 +8,13 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Biology Ch 15–16, CBD/Nagoya, Biological Diversity Act 2002, IUCN Red List, Conservation International hotspots, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ Very High — definitions, hotspots, IUCN, loss drivers, conservation  
+> **Sources baked in:** NCERT Class 12 Biology Ch 15–16, CBD/Nagoya, Biological Diversity Act 2002, IUCN Red List, Conservation International hotspots, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ Very High — definitions, hotspots, IUCN, loss drivers, conservation
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Biodiversity is variability among living organisms at **genetic, species, and ecosystem** levels.
 2. **Genetic diversity** is variation **within** a species. **Species diversity** is variety **among** species. **Ecosystem diversity** is variety of habitats and ecosystems.
@@ -32,8 +32,8 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 14. A **keystone** species has outsized ecosystem impact. A **flagship** species is charismatic for fundraising. An **umbrella** species’ large range protects many others. An **indicator** species signals environmental quality.
 15. International Day for Biological Diversity is **22 May**.
 16. The **Kunming–Montreal Global Biodiversity Framework (2022)** includes the **30×30** conservation target.
-17. Uttar Pradesh’s Terai (Dudhwa, Pilibhit) sits in the **Himalaya hotspot** fringe for exam matching.
-18. UP tiger-reserve locks for umbrella conservation include **Dudhwa (1987)** and **Pilibhit (2014)**.
+17. Uttar Pradesh’s Terai (Dudhwa, Pilibhit) sits in the **Himalaya hotspot** fringe matching.
+18. UP tiger-reserve facts for umbrella conservation include **Dudhwa (1987)** and **Pilibhit (2014)**.
 19. Key UP species include tiger, one-horned rhino, **barasingha**, and **Gangetic dolphin**.
 20. Common UP invasive plants include **water hyacinth, Parthenium, and Lantana**.
 21. Uttar Pradesh’s state bird is the **Sarus crane**, a wetland indicator.
@@ -41,13 +41,13 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 23. In-situ is preferred for wild populations; ex-situ supports recovery and gene banks — do not reverse priority in standard stems.
 24. Hotspot status is not the same as “any forest-rich state.” Endemism plus habitat loss are the two filters.
 25. CBD opened at Rio **1992**; Nagoya is **2010**. Dating CBD as 2010 is wrong.
-26. NBA sits in **Chennai**, not New Delhi. Keep that headquarters lock.
-27. Genetic diversity is within one species (for example rice varieties). Species diversity counts different species in an area.
+26. NBA sits in **Chennai**, not New Delhi. Keep that headquarters fact.
+27. Genetic diversity is within one species (ple rice varieties). Species diversity counts different species in an area.
 28. Sundaland in the Indian list refers to the **Andaman and Nicobar** portion — not mainland Uttar Pradesh.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -74,7 +74,7 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 - Biodiversity is **not** just a species count. Genes within populations and the variety of habitats also matter.
 - **International Day for Biological Diversity** is observed on **22 May** each year.
 
-> **Exam note:** Trap — "biodiversity means only number of species" is **false**. All three levels are required in the NCERT/CBD definition.
+> ** note:** Trap — "biodiversity means only number of species" is **false**. All three levels are required in the NCERT/CBD definition.
 
 ---
 
@@ -101,7 +101,7 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 - **Ecosystem diversity** is the variety of habitats and ecosystems in a region such as forests, wetlands, grasslands, and deserts.
 - India spans **10 biogeographic zones**, so ecosystem diversity is high despite moderate land area.
 
-> **Exam note:** UPPCS 2019 pattern — "species diversity **increases** from equator toward poles" is **NOT true**. Diversity is highest at the equator and falls toward poles.
+> ** note:** UPPCS 2019 pattern — "species diversity **increases** from equator toward poles" is **NOT true**. Diversity is highest at the equator and falls toward poles.
 
 ---
 
@@ -122,7 +122,7 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 - High **endemism** occurs in the **Western Ghats**, **Northeast India**, **Himalaya**, and **Andaman & Nicobar Islands**.
 - The **most biodiversity-rich region among common Indian options** is the **Western Ghats**.
 
-> **Exam note:** UPPCS 2019 — Western Ghats beats Gangetic Plain, Trans-Himalaya, and Central India for species richness.
+> ** note:** UPPCS 2019 — Western Ghats beats Gangetic Plain, Trans-Himalaya, and Central India for species richness.
 
 **PYQ — UPPCS Prelims 2019, Q139**
 
@@ -155,7 +155,7 @@ D. Central India
 - Higher biodiversity often means **greater ecosystem stability** and resilience after disturbance.
 - Biodiverse systems recover faster from drought, pests, and pollution shocks.
 
-> **Exam note:** Medicinal plants and crop wild relatives are **direct + option** value traps in multi-statement questions.
+> ** note:** Medicinal plants and crop wild relatives are **direct + option** value traps in multi-statement questions.
 
 ---
 
@@ -191,7 +191,7 @@ D. Central India
 - A **People's Biodiversity Register (PBR)** documents local biodiversity and traditional knowledge at the panchayat level.
 - The **Nagoya Protocol (2010)** sets rules for **Access and Benefit Sharing (ABS)** of genetic resources under the CBD.
 
-> **Exam note:** Trap — NBA HQ is **Chennai**, not New Delhi. Trap — **Threatened ≠ Endangered**.
+> ** note:** Trap — NBA HQ is **Chennai**, not New Delhi. Trap — **Threatened ≠ Endangered**.
 
 ---
 
@@ -199,7 +199,7 @@ D. Central India
 
 **Identity:** Habitat destruction #1 | HIPPO | Extinction rate 100–1000× background
 
-- **Habitat loss and fragmentation** is the **leading direct cause** of biodiversity loss worldwide (UPPCS 2023 Q100).
+- **Habitat loss and fragmentation** is the **leading direct cause** of biodiversity loss worldwide.
 - **Habitat fragmentation** splits large habitats into small patches. Species face edge effects, inbreeding, and local extinction.
 - **Over-exploitation** through poaching, overfishing, and unsustainable harvesting removes species faster than they reproduce.
 - **Invasive alien species** outcompete or prey on natives. **Water hyacinth** choking UP ponds is a classic example.
@@ -211,7 +211,7 @@ D. Central India
 - The **species–area relationship** states that larger habitats generally support more species.
 - **IPBES (2019)** reported that about **1 million** animal and plant species face extinction risk if trends continue.
 
-> **Exam note:** UPPCS 2023 Q100 — destruction of **natural habitat** is the most important loss factor. Trap — pollution or climate change is **not** #1 in standard Prelims keys.
+> ** note:** UPPCS 2023 Q100 — destruction of **natural habitat** is the most important loss factor. Trap — pollution or climate change is **not** #1 in standard Prelims keys.
 
 **PYQ — UPPCS Prelims 2023, Q100**
 
@@ -247,7 +247,7 @@ D. Pest control
 - The **Kunming–Montreal Global Biodiversity Framework (2022)** targets protecting **30%** of land and oceans by **2030** (30×30).
 - **Project Tiger (1973)** uses the **umbrella/flagship** approach to protect forest ecosystems.
 
-> **Exam note:** UPPCS 2023 Q118 — genetic diversity in national parks is maintained through **in-situ conservation**.
+> ** note:** UPPCS 2023 Q118 — genetic diversity in national parks is maintained through **in-situ conservation**.
 
 **PYQ — UPPCS Prelims 2023, Q118**
 
@@ -288,13 +288,13 @@ D. None of the above
 
 - The **Gangetic Plain** is fertile and species-rich in places but is **not** a global biodiversity hotspot.
 
-> **Exam note:** UPPCS 2024 Q33 — both high endemism and significant habitat loss are **correct** hotspot traits.
+> ** note:** UPPCS 2024 Q33 — both high endemism and significant habitat loss are **correct** hotspot traits.
 
 **PYQ — UPPCS Prelims 2024, Q33**
 
 Consider the following statements regarding biodiversity hotspots:
 
-1. They have high species endemism.  
+1. They have high species endemism.
 2. They have experienced significant habitat loss.
 
 A. Only 1
@@ -315,9 +315,9 @@ D. Neither 1 nor 2
 
 ## 4.9 Species Categories
 
-**Identity:** Nine exam roles | IUCN status vs ecological role
+**Identity:** Nine roles | IUCN status vs ecological role
 
-| Category | One-line lock | India example |
+| Category | One-line fact | India example |
 |----------|---------------|---------------|
 | **Endemic** | Found **nowhere else** in the world | Asiatic lion (Gir), lion-tailed macaque (Western Ghats) |
 | **Endangered** | IUCN **EN** — very high extinction risk | Gangetic dolphin, Indian vulture |
@@ -339,7 +339,7 @@ D. Neither 1 nor 2
 - An **umbrella species** needs a very large home range, so protecting it also protects many other species in the same habitat.
 - An **indicator species** shows habitat or pollution conditions. Lichens fail in polluted air and signal air quality decline.
 
-> **Exam note:** Lichens are good **pollution indicators** because they **do not** thrive in polluted air. Do not mark "grow well in pollution" as true.
+> ** note:** Lichens are good **pollution indicators** because they **do not** thrive in polluted air. Do not mark "grow well in pollution" as true.
 
 ---
 
@@ -349,7 +349,7 @@ D. Neither 1 nor 2
 
 **Q1.** With reference to biodiversity, which statements is/are correct?
 
-1. Biodiversity includes genetic, species, and ecosystem diversity.  
+1. Biodiversity includes genetic, species, and ecosystem diversity.
 2. Biodiversity is evenly distributed across all latitudes.
 
 A. Only 1
@@ -368,7 +368,7 @@ D. Neither
 
 **Q2.** With reference to biodiversity hotspots, which statements is/are correct?
 
-1. They have high species endemism.  
+1. They have high species endemism.
 2. They have experienced significant habitat loss.
 
 A. Only 1
@@ -387,7 +387,7 @@ D. Neither
 
 **Q3.** With reference to IUCN categories, which statements is/are correct?
 
-1. Threatened species include Vulnerable, Endangered, and Critically Endangered.  
+1. Threatened species include Vulnerable, Endangered, and Critically Endangered.
 2. Endangered and Threatened mean the same category.
 
 A. Only 1
@@ -406,7 +406,7 @@ D. Neither
 
 **Q4.** With reference to biodiversity loss, which statements is/are correct?
 
-1. Habitat destruction is the leading direct cause of biodiversity loss.  
+1. Habitat destruction is the leading direct cause of biodiversity loss.
 2. Invasive species never affect native biodiversity.
 
 A. Only 1
@@ -425,7 +425,7 @@ D. Neither
 
 **Q5.** With reference to conservation, which statements is/are correct?
 
-1. In-situ conservation protects species in natural habitat.  
+1. In-situ conservation protects species in natural habitat.
 2. Ex-situ conservation is always preferred over in-situ conservation.
 
 A. Only 1
@@ -444,7 +444,7 @@ D. Neither
 
 **Q6.** With reference to India, which statements is/are correct?
 
-1. India is one of 17 megadiverse countries.  
+1. India is one of 17 megadiverse countries.
 2. India has six recognised global biodiversity hotspots.
 
 A. Only 1
@@ -463,7 +463,7 @@ D. Neither
 
 **Q7.** With reference to species categories, which statements is/are correct?
 
-1. An endemic species is found only in a defined geographic area.  
+1. An endemic species is found only in a defined geographic area.
 2. Every rare species is automatically endemic.
 
 A. Only 1
@@ -482,7 +482,7 @@ D. Neither
 
 **Q8.** With reference to indicator species, which statements is/are correct?
 
-1. Lichens can indicate air pollution levels.  
+1. Lichens can indicate air pollution levels.
 2. Lichens grow best in heavily polluted air.
 
 A. Only 1
@@ -563,7 +563,7 @@ D. 5 June
 
 </details>
 
-**Q13.** Assertion (A): In-situ conservation is generally preferred over ex-situ conservation.  
+**Q13.** Assertion (A): In-situ conservation is generally preferred over ex-situ conservation.
 Reason (R): In-situ conservation maintains natural ecosystems and evolutionary processes.
 
 A. Both true; R explains A
@@ -580,7 +580,7 @@ D. A false, R true
 
 </details>
 
-**Q14.** Assertion (A): Biodiversity hotspots have high endemism.  
+**Q14.** Assertion (A): Biodiversity hotspots have high endemism.
 Reason (R): Hotspots are deserts with very few species.
 
 A. Both true; R explains A
@@ -599,8 +599,8 @@ D. A false, R true
 
 **Q15.** Match List-I with List-II:
 
-List-I: A. Endemic  B. Keystone  C. Umbrella  D. Flagship  
-List-II: 1. Charismatic fundraiser  2. Found nowhere else  3. Large habitat protects many  4. Disproportionate ecosystem impact
+List-I: A. Endemic B. Keystone C. Umbrella D. Flagship
+List-II: 1. Charismatic fundraiser 2. Found nowhere else 3. Large habitat protects many 4. Disproportionate ecosystem impact
 
 A. 2 4 3 1
 
@@ -618,8 +618,8 @@ D. 1 2 3 4
 
 **Q16.** Match hotspot with Indian region:
 
-List-I: A. Sundaland  B. Western Ghats  C. Himalaya  
-List-II: 1. Andaman & Nicobar only  2. West coast mountains  3. Terai belt
+List-I: A. Sundaland B. Western Ghats C. Himalaya
+List-II: 1. Andaman & Nicobar only 2. West coast mountains 3. Terai belt
 
 A. 1 2 3
 
@@ -637,8 +637,8 @@ D. 1 3 2
 
 **Q17.** Match IUCN term with meaning:
 
-List-I: A. Threatened  B. Endangered  C. Extinct  
-List-II: 1. EX  2. VU + EN + CR  3. EN only
+List-I: A. Threatened B. Endangered C. Extinct
+List-II: 1. EX 2. VU + EN + CR 3. EN only
 
 A. 2 3 1
 
@@ -768,7 +768,7 @@ D. Species diversity decreases from temperate areas toward poles
 
 **Q25.** With reference to HIPPO, which statements is/are correct?
 
-1. H stands for habitat loss.  
+1. H stands for habitat loss.
 2. I stands for invasive species.
 
 A. Only 1
@@ -787,7 +787,7 @@ D. Neither
 
 **Q26.** With reference to CBD objectives, which statements is/are correct?
 
-1. Conservation of biodiversity.  
+1. Conservation of biodiversity.
 2. Sustainable use of biodiversity components.
 
 A. Only 1
@@ -838,8 +838,8 @@ D. Dudhwa
 
 **Q29.** Match organisation with HQ:
 
-List-I: A. IUCN  B. NBA  C. IPBES  
-List-II: 1. Chennai  2. Gland  3. Bonn
+List-I: A. IUCN B. NBA C. IPBES
+List-II: 1. Chennai 2. Gland 3. Bonn
 
 A. 2 1 3
 
@@ -879,7 +879,7 @@ D. Keystone species loss alone
 
 Consider the following statements regarding biodiversity hotspots:
 
-1. They have high species endemism.  
+1. They have high species endemism.
 2. They have experienced significant habitat loss.
 
 A. Only 1
@@ -990,7 +990,7 @@ D. April 16
 
 With reference to lichens, which of the following statements is/are correct?
 
-1. Lichens are very good indicators of pollution.  
+1. Lichens are very good indicators of pollution.
 2. Lichens grow well in polluted areas.
 
 A. Only 2
@@ -1003,7 +1003,7 @@ D. Only 1
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — Indicator species lock; full teaching also in Topic 2 succession block.
+**Ans: D** — Indicator species fact; full teaching also in Topic 2 succession block.
 
 </details>
 
@@ -1071,7 +1071,7 @@ D. Thar Desert
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Biodiversity = species count only | **Genetic + species + ecosystem** |
 | Russia is megadiverse | **Not** in the standard 17 list |

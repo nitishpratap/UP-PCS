@@ -1,5 +1,5 @@
 # Topic 2 — Religious and Philosophical Traditions
-### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
+### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,49 +8,49 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 </details>
 
-> **Sources baked in:** NCERT Themes I–III, An Introduction to Indian Art (Class 11), UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — founder/text, Vedanta match, Tirthankara–nirvana, Bhakti guru–work, Sufi site, councils, 10 Gurus  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Themes I–III, An Introduction to Indian Art (Class 11), UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — founder/text, Vedanta match, Tirthankara–nirvana, Bhakti guru–work, Sufi site, councils, 10 Gurus
+> **Last verified:** August 2026
 > **Current Affairs:** Maha Kumbh Prayagraj, 13 Jan–26 Feb 2025; Kumbh Mela UNESCO ICH 2017
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. The six **Astika** schools that accept the Veda as pramana are **Nyaya–Gautama**, **Vaisheshika–Kanada**, **Samkhya–Kapila**, **Yoga–Patanjali**, **Mimamsa–Jaimini**, and **Vedanta–Badarayana**.
-2. The usual **Nastika** exam set is **Charvaka**, **Buddhism**, and **Jainism**. Add **Ajivika** (**Makkhali Gosala**) when fate / *niyati* appears in options.
+2. The usual **Nastika** set is **Charvaka**, **Buddhism**, and **Jainism**. Add **Ajivika** (**Makkhali Gosala**) when fate / *niyati* appears in options.
 3. **Nyaya** is logic and epistemology with four pramanas. **Vaisheshika** is atomism. This Gautama is **not** the Buddha.
 4. **Samkhya** is dualist Purusha–Prakriti with **25** tattvas and is classically **nirishvara**. **Yoga** is its practical partner and adds **Ishvara**.
 5. **Ashtanga Yoga** order is **yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi**.
 6. **Purva Mimamsa** (Jaimini) treats Vedic **ritual**. **Uttara Mimamsa / Vedanta** (Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
 7. **Shankara** taught **Advaita**. **Ramanuja** taught **Vishishtadvaita**. **Madhva** taught **Dvaita**. **Nimbarka** taught **Dvaitadvaita**. **Vallabha** taught **Shuddhadvaita**.
-8. Shankara’s four mathas lock as **Sringeri–Yajurveda**, **Dwaraka–Samaveda**, **Puri–Rigveda**, and **Badri / Jyotirmath–Atharvaveda**.
+8. Shankara’s four mathas fact as **Sringeri–Yajurveda**, **Dwaraka–Samaveda**, **Puri–Rigveda**, and **Badri / Jyotirmath–Atharvaveda**.
 9. Vedic stack order is **Samhita → Brahmana → Aranyaka → Upanishad**. *Tat tvam asi* is from the **Chandogya** Upanishad. **Brahman** is not the same word as **Brahmin**.
 10. Buddha’s life geography is **Lumbini** (birth), **Bodh Gaya** in Bihar (enlightenment), **Sarnath** in UP (first sermon), and **Kushinagar** in UP (death).
 11. Buddhist councils order is **Rajagriha → Vaishali → Pataliputra → Kundalvana**. *Milindapanha* is dialogue of **Menander / Milinda** with **Nagasena**.
 12. **Theravada** aims at the arhat and uses Pali. **Mahayana** aims at the Bodhisattva and uses Sanskrit.
-13. Jainism has **24** Tirthankaras. Symbol locks include **Rishabha–bull**, **Parshva–snake**, and **Mahavira–lion**. Nirvana places include **Ashtapad**, **Shikharji**, and **Pavapuri**.
+13. Jainism has **24** Tirthankaras. Symbol facts include **Rishabha–bull**, **Parshva–snake**, and **Mahavira–lion**. Nirvana places include **Ashtapad**, **Shikharji**, and **Pavapuri**.
 14. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** as the fifth. The Svetambara canon has **12 Angas**.
 15. **Digambara** monks are sky-clad and deny women monks. **Svetambara** monks wear white and admit women monks.
 16. **Anekantavada** is many-sided reality. **Syadvada** is the seven-fold “syad” speech about that reality.
 17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya**. **Kabir** was a disciple of **Ramananda**. **Surdas** belongs to **Vallabha**’s line. **Tulsidas** wrote in **Awadhi**.
-18. Tamil bhakti locks are **12 Alvars** (Andal the only woman) and **63 Nayanars**. The four Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
+18. Tamil bhakti facts are **12 Alvars** (Andal the only woman) and **63 Nayanars**. The four Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
 19. **Chishti** Sufis at Ajmer / Delhi favour **sama** and qawwali. **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
 20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi**. **Wahdat-ul-wujud** (Ibn Arabi) is not the same as **wahdat-ush-shuhud** (Sirhindi).
 21. Among the ten Sikh Gurus, **Angad** gave **Gurmukhi**, **Arjan** compiled the **Adi Granth**, and **Gobind Singh** founded the **Khalsa** in **1699**.
 22. The five Sikh Takhts are **Akal Takht**, **Keshgarh Sahib**, **Damdama Sahib**, **Patna Sahib**, and **Hazur Sahib**.
 23. Pramana count traps: **Charvaka** accepts only one, **Nyaya** accepts four, and Mimamsa–Kumarila / Vedanta often accept **six**.
-24. UP Buddhist circuit locks are **Sarnath**, **Kushinagar**, **Shravasti**, **Sankisa**, and **Kaushambi**. The Lion Capital is from Sarnath.
-25. UP Hindu and bhakti locks include **Kashi**, **Ayodhya**, **Braj / Surdas**, **Prayagraj Kumbh**, and Kabir’s samadhi at **Maghar**.
+24. UP Buddhist circuit facts are **Sarnath**, **Kushinagar**, **Shravasti**, **Sankisa**, and **Kaushambi**. The Lion Capital is from Sarnath.
+25. UP Hindu and bhakti facts include **Kashi**, **Ayodhya**, **Braj / Surdas**, **Prayagraj Kumbh**, and Kabir’s samadhi at **Maghar**.
 26. **Kumbh Mela** is UNESCO **intangible** heritage (**2017**). It is not a monument World Heritage site.
-27. Salim Chishti’s dargah at **Fatehpur Sikri** is the high-yield UP Sufi site lock.
-28. Mathura’s **Kankali Tila** is the classic UP Jain archaeological lock.
+27. Salim Chishti’s dargah at **Fatehpur Sikri** is the high-yield UP Sufi site fact.
+28. Mathura’s **Kankali Tila** is the classic UP Jain archaeological fact.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Astika | Nastika | Accepts Veda as pramana vs rejects Vedic authority | आस्तिक / नास्तिक |
 | Nyaya | Vaisheshika | Logic (Gautama) vs atomism (Kanada) | न्याय / वैशेषिक |
@@ -75,7 +75,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 **Meaning:** Darshana = a “view” aimed at liberation. Astika = Veda is a valid pramana. Nastika = rejects Vedic infallibility (not the same as modern “atheist”).
 
 - Six Astika schools run as three pairs: Nyaya–Vaisheshika, Samkhya–Yoga, Mimamsa–Vedanta.
-- The Nastika exam set is Charvaka, Buddhism and Jainism. Add Ajivika (**Makkhali Gosala**) when options include fate/*niyati*.
+- The Nastika set is Charvaka, Buddhism and Jainism. Add Ajivika (**Makkhali Gosala**) when options include fate/*niyati*.
 
 ### Nyaya
 
@@ -86,7 +86,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 - It has **16 padarthas** (categories of debate): pramana, prameya, samshaya, prayojana, drishtanta, siddhanta, avayava, tarka, nirnaya, vada, jalpa, vitanda, hetvabhasa, chala, jati, nigrahasthana.
 - It complements Vaisheshika (logic + atomism).
 
-> **Exam note:** This Gautama is **not** the Buddha. Kanada is **not** Nyaya.
+> ** note:** This Gautama is **not** the Buddha. Kanada is **not** Nyaya.
 
 ### Vaisheshika
 
@@ -108,7 +108,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 **Founder:** Patanjali | **Text:** Yoga Sutras
 
-- The definition lock is *Yogash chitta-vritti-nirodhah*.
+- The definition fact is *Yogash chitta-vritti-nirodhah*.
 - Yoga is the practical partner of Samkhya. It adds **Ishvara**.
 - Ashtanga Yoga, in order, is **yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi**.
 - Yama comprises ahimsa, satya, asteya, brahmacharya, aparigraha.
@@ -177,7 +177,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 - Ajivika teaches the doctrine of fate (*niyati*). Makkhali Gosala was a contemporary of the Buddha and Mahavira. The school later became extinct.
 
-### Pramana count (exam lock)
+### Pramana count (key fact)
 
 - **Charvaka** accepts **1** pramana — pratyaksha only.
 - **Bauddha** (typical) accepts **2** — pratyaksha and anumana.
@@ -186,15 +186,15 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 - **Prabhakara Mimamsa** accepts **5** — adding arthapatti.
 - **Kumarila Mimamsa / Vedanta** accept **6** — adding anupalabdhi (non-perception).
 
-> **Exam note:** UPPCS 2023 Q30 — only **Nyaya–Gautama** is correctly matched. UPPCS 2022 Q33 — Ramanuja Vishishtadvaita, Madhva Dvaita, Nimbarka Dvaitadvaita, Vallabha Shuddhadvaita (**code D: 4,3,2,1**).
+> ** note:** UPPCS 2023 Q30 — only **Nyaya–Gautama** is correctly matched. UPPCS 2022 Q33 — Ramanuja Vishishtadvaita, Madhva Dvaita, Nimbarka Dvaitadvaita, Vallabha Shuddhadvaita (**code D: 4,3,2,1**).
 
 **PYQ — UPPCS Prelims 2023, Q30**
 
 Which of the following pairs (**School of Thought — Proponent**) is correctly matched?
 
-A. Vaisheshika — Patanjali  
-B. Mimansa — Kanada  
-C. Nyaya — Gautama  
+A. Vaisheshika — Patanjali
+B. Mimansa — Kanada
+C. Nyaya — Gautama
 D. Uttara Mimansa — Kapila
 
 <details>
@@ -208,21 +208,21 @@ D. Uttara Mimansa — Kapila
 
 Match List-I with List-II and select the correct answer.
 
-**List-I (Philosopher)**  
-A. Ramanuja  
-B. Madhavacharya  
-C. Nimbarka  
-D. Vallabhacharya  
+**List-I (Philosopher)**
+A. Ramanuja
+B. Madhavacharya
+C. Nimbarka
+D. Vallabhacharya
 
-**List-II (Philosophy)**  
-1. Shuddhadvaita  
-2. Dvaitadvaita  
-3. Dvaita  
-4. Vishishtadvaita  
+**List-II (Philosophy)**
+1. Shuddhadvaita
+2. Dvaitadvaita
+3. Dvaita
+4. Vishishtadvaita
 
-A. 2, 4, 1, 3  
-B. 3, 1, 4, 2  
-C. 1, 2, 3, 4  
+A. 2, 4, 1, 3
+B. 3, 1, 4, 2
+C. 1, 2, 3, 4
 D. 4, 3, 2, 1
 
 <details>
@@ -257,11 +257,11 @@ D. 4, 3, 2, 1
 - **Brahman** is ultimate reality — not **Brahmin** (varna). Related ideas are Atman, karma, samsara, and moksha.
 - The Purusharthas are Dharma, Artha, Kama, and Moksha. The ashramas run Brahmacharya → Grihastha → Vanaprastha → Sannyasa.
 - The Pancha-mahayajna are Brahma, Deva, Pitri, Bhuta, and Manushya.
-- Sixteen samskaras run Garbhadhana to Antyeshti. **Upanayana** is the exam one (entry to Vedic study).
+- Sixteen samskaras run Garbhadhana to Antyeshti. **Upanayana** is the one (entry to Vedic study).
 - Early Vedic gods include **Indra** (war/rain), **Agni**, **Varuna** (rta), Soma, and Ushas. The Trimurti (Brahma–Vishnu–Shiva) is **post-Vedic**.
-- Smriti locks are Manu, Yajnavalkya, Narada, and Parashara. Itihasa is Valmiki’s Ramayana plus Vyasa’s Mahabharata. There are **18 Mahapuranas** (Bhagavata, Vishnu, Shiva, Markandeya, and others).
+- Smriti facts are Manu, Yajnavalkya, Narada, and Parashara. Itihasa is Valmiki’s Ramayana plus Vyasa’s Mahabharata. There are **18 Mahapuranas** (Bhagavata, Vishnu, Shiva, Markandeya, and others).
 
-> **Exam note:** Upanishads = jñāna-kāṇḍa = Vedanta. Brahmanas = karma-kāṇḍa. Rigveda = oldest.
+> ** note:** Upanishads = jñāna-kāṇḍa = Vedanta. Brahmanas = karma-kāṇḍa. Rigveda = oldest.
 
 ---
 
@@ -280,9 +280,9 @@ D. 4, 3, 2, 1
 
 ### Four great places
 
-**Birth:** Lumbini (Nepal, Ashokan pillar)  
-**Enlightenment:** Bodh Gaya (Bihar)  
-**First sermon (Dharmachakrapravartana):** Sarnath / Isipatana, UP — Deer Park  
+**Birth:** Lumbini (Nepal, Ashokan pillar)
+**Enlightenment:** Bodh Gaya (Bihar)
+**First sermon (Dharmachakrapravartana):** Sarnath / Isipatana, UP — Deer Park
 **Mahaparinirvana:** Kushinagar, UP (age 80)
 
 - Other UP sites are Shravasti (Jetavana), Sankisa (descent), and Kaushambi.
@@ -350,22 +350,22 @@ D. 4, 3, 2, 1
 - Buddhist symbols include the dharmachakra, Bodhi tree, footprints, deer (Sarnath), and the lion capital (national emblem).
 - Buddhism spread under Ashoka. It then grew under Kanishka / Gandhara. Later it was backed by the Palas and by Nalanda–Vikramashila.
 - It declined in the plains after the **12th–13th** c.
-- The modern lock is **Ambedkar**, Nagpur, **14 Oct 1956**.
+- The modern fact is **Ambedkar**, Nagpur, **14 Oct 1956**.
 
-> **Exam note:** 2025 Q105 code **C = 2,1,4,3** (Rajagriha → Vaishali → Pataliputra → Kundalvana). First sermon = Sarnath, not Bodh Gaya.
+> ** note:** 2025 Q105 code **C = 2,1,4,3** (Rajagriha → Vaishali → Pataliputra → Kundalvana). First sermon = Sarnath, not Bodh Gaya.
 
 **PYQ — UPPCS Prelims 2025, Q105**
 
 The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
 
-1. Vaishali  
-2. Rajagriha  
-3. Kundalvana  
-4. Pataliputra  
+1. Vaishali
+2. Rajagriha
+3. Kundalvana
+4. Pataliputra
 
-A. 1, 2, 4, 3  
-B. 2, 1, 3, 4  
-C. 2, 1, 4, 3  
+A. 1, 2, 4, 3
+B. 2, 1, 3, 4
+C. 2, 1, 4, 3
 D. 1, 2, 3, 4
 
 <details>
@@ -379,9 +379,9 @@ D. 1, 2, 3, 4
 
 *Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
 
-A. Nagarjun  
-B. Nagbhatt  
-C. Nagasena  
+A. Nagarjun
+B. Nagbhatt
+C. Nagasena
 D. Kumaril Bhatt
 
 <details>
@@ -423,7 +423,7 @@ D. Kumaril Bhatt
 
 ### Twenty-four Tirthankaras
 
-For every name lock serial and emblem (*lanchhan*). Nirvana home for **20** is **Sammed Shikhar** (Parasnath, Jharkhand). There are **four exceptions** only.
+For every name fact serial and emblem (*lanchhan*). Nirvana home for **20** is **Sammed Shikhar** (Parasnath, Jharkhand). There are **four exceptions** only.
 
 - 1 **Rishabhanatha / Adinatha** is the first Tirthankara. His emblem is the **bull** and nirvana is at **Ashtapad / Kailash**. His son is **Bahubali** (Gomateshwara); birth is in the Ayodhya tradition and colour is golden.
 - 2 **Ajitanatha** is the second Tirthankara. His emblem is the elephant. Nirvana is at Sammed Shikhar.
@@ -450,7 +450,7 @@ For every name lock serial and emblem (*lanchhan*). Nirvana home for **20** is *
 - 23 **Parshvanatha** is the twenty-third Tirthankara. His emblem is the **snake**. Nirvana is at **Sammed Shikhar**. He is historical (~**9th–8th** c. BCE), colour is green/blue, and he taught four vows (no brahmacharya yet).
 - 24 **Mahavira / Vardhamana** is the twenty-fourth Tirthankara. His emblem is the **lion**. Nirvana is at **Pavapuri**. Colour is golden, and he is the last of this cycle.
 
-> **Exam note:** Memorise **all 24 name–symbol** pairs. Nirvana exceptions = **Rishabha (Ashtapad), Vasupujya (Champapuri), Nemi (Girnar), Mahavira (Pavapuri)**. UPPCS 2021 Q131 wrong pair = Vasupujya–Sammedashikhar.
+> ** note:** Memorise **all 24 name–symbol** pairs. Nirvana exceptions = **Rishabha (Ashtapad), Vasupujya (Champapuri), Nemi (Girnar), Mahavira (Pavapuri)**. UPPCS 2021 Q131 wrong pair = Vasupujya–Sammedashikhar.
 
 ### Digambara
 
@@ -473,16 +473,16 @@ For every name lock serial and emblem (*lanchhan*). Nirvana home for **20** is *
 - Other Jain sites are Dilwara (Abu), Palitana (Shatrunjaya), and Ranakpur.
 - **Mathura Kankali Tila** has Jain remains in **UP**.
 
-> **Exam note:** UPPCS 2021 Q131 — Vasupujya–Sammedashikhar is the **wrong** pair.
+> ** note:** UPPCS 2021 Q131 — Vasupujya–Sammedashikhar is the **wrong** pair.
 
 **PYQ — UPPCS Prelims 2021, Q131**
 
-Which one of the following pairs is NOT correctly matched?  
+Which one of the following pairs is NOT correctly matched?
 (Tirthankar) — (Nirvan Place)
 
-A. Rishabhanath — Ashtapad  
-B. Vasupujya — Sammedashikhar  
-C. Neminath — Urjayanta  
+A. Rishabhanath — Ashtapad
+B. Vasupujya — Sammedashikhar
+C. Neminath — Urjayanta
 D. Mahavira — Pavapuri
 
 <details>
@@ -524,7 +524,7 @@ D. Mahavira — Pavapuri
 **Count:** 63 | **Deity:** Shiva | **Corpus:** Tevaram + Tiruvachakam
 
 - The four **Samayacharyas** are **Appar**, **Sambandar**, **Sundarar**, and **Manikkavachakar**.
-- Manikkavachakar’s book is *Tiruvachakam*. He is not always counted inside the 63 the same way. He is still an exam lock.
+- Manikkavachakar’s book is *Tiruvachakam*. He is not always counted inside the 63 the same way. He is still an key fact.
 - **Karaikkal Ammaiyar** is the earliest woman Shaiva saint. Sundarar’s *Tiruttondattogai* lists the 63.
 
 ### Maharashtra Varkari
@@ -600,29 +600,29 @@ D. Mahavira — Pavapuri
 - **Sahajo Bai** wrote *Sahaj Prakash* (Charandas).
 - **Gangabai** is **not** the author of *Ganesh Dev Leela* (UPPCS 2023).
 
-The **2025** chronology lock is Namdev → Kabir → Nanak → Chaitanya.
+The **2025** chronology fact is Namdev → Kabir → Nanak → Chaitanya.
 
-> **Exam note:** 2025 Q12 code **C = 2 3 4 1**. Guru Granth has Kabir and Namdev, **not** Tulsidas.
+> ** note:** 2025 Q12 code **C = 2 3 4 1**. Guru Granth has Kabir and Namdev, **not** Tulsidas.
 
 **PYQ — UPPCS Prelims 2025, Q12**
 
 Match List-I with List-II and select the correct answer using the code given below the lists.
 
-List-I (Disciple)  
-A. Kabir  
-B. Amir Khusrau  
-C. Surdas  
-D. Mardana  
+List-I (Disciple)
+A. Kabir
+B. Amir Khusrau
+C. Surdas
+D. Mardana
 
-List-II (Guru)  
-1. Guru Nanak Dev  
-2. Swami Ramananda  
-3. Nizamuddin Auliya  
-4. Vallabhacharya  
+List-II (Guru)
+1. Guru Nanak Dev
+2. Swami Ramananda
+3. Nizamuddin Auliya
+4. Vallabhacharya
 
-A. 3 2 4 1  
-B. 3 2 1 4  
-C. 2 3 4 1  
+A. 3 2 4 1
+B. 3 2 1 4
+C. 2 3 4 1
 D. 2 3 1 4
 
 <details>
@@ -636,14 +636,14 @@ D. 2 3 1 4
 
 Arrange the following saints in the correct chronological order:
 
-1. Guru Nanak  
-2. Chaitanya Mahaprabhu  
-3. Namdev  
-4. Kabir  
+1. Guru Nanak
+2. Chaitanya Mahaprabhu
+3. Namdev
+4. Kabir
 
-A. 3, 4, 2, 1  
-B. 4, 3, 1, 2  
-C. 3, 4, 1, 2  
+A. 3, 4, 2, 1
+B. 4, 3, 1, 2
+C. 3, 4, 1, 2
 D. 4, 3, 2, 1
 
 <details>
@@ -657,9 +657,9 @@ D. 4, 3, 2, 1
 
 Which of the following pairs (**Poetess — Composition**) is **not** correctly matched?
 
-A. Daya Bai — Vinay Malika  
-B. Sahajobai — Sahaj Prakash  
-C. Gangabai — Ganesh Dev Leela  
+A. Daya Bai — Vinay Malika
+B. Sahajobai — Sahaj Prakash
+C. Gangabai — Ganesh Dev Leela
 D. Son Kumari — Poem of Swam Beli
 
 <details>
@@ -734,15 +734,15 @@ D. Son Kumari — Poem of Swam Beli
 - Hatha yoga was practised by Nathpanthis. Some Sufis adopted the technique (UPPCS 2019 both true).
 - Early Chishtis loved sama — that does **not** explain Persian translations of Sanskrit music treatises (2018 A/R: both true, R not explanation).
 
-> **Exam note:** 2020 Q40 wrong pair = Nizamuddin–Multan. 2021 Q101 compiler = Hasan Sizzi, not Khusrau.
+> ** note:** 2020 Q40 wrong pair = Nizamuddin–Multan. 2021 Q101 compiler = Hasan Sizzi, not Khusrau.
 
 **PYQ — UPPCS Prelims 2020, Q40**
 
 Which of the following is NOT correctly matched?
 
-A. Shaikh Moinuddin — Ajmer Chishti  
-B. Shaikh Burhanuddin — Daulatabad Gharib  
-C. Shaikh Mohammad — Gulbarga Hussaini  
+A. Shaikh Moinuddin — Ajmer Chishti
+B. Shaikh Burhanuddin — Daulatabad Gharib
+C. Shaikh Mohammad — Gulbarga Hussaini
 D. Shaikh Nizamuddin — Multan Auliya
 
 <details>
@@ -756,9 +756,9 @@ D. Shaikh Nizamuddin — Multan Auliya
 
 The book 'Fawaid ul Fawad' is the record of the conversations of Shaikh Nizamuddin Auliya, it was compiled by
 
-A. Amir Hassan Sizzi  
-B. Amir Khusro  
-C. Ziauddin Barni  
+A. Amir Hassan Sizzi
+B. Amir Khusro
+C. Ziauddin Barni
 D. Hasan Nizami
 
 <details>
@@ -772,12 +772,12 @@ D. Hasan Nizami
 
 With reference to Hath Yog, which of the following statement is/are correct?
 
-1. Hath Yog was practiced by Nathpanthis.  
+1. Hath Yog was practiced by Nathpanthis.
 2. Hath Yog technique was also adopted by the Sufis.
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -789,12 +789,12 @@ D. Neither 1 nor 2
 
 **PYQ — UPPCS Prelims 2018, Q90**
 
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.  
+Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
 Reason (R): The early Chishti sufis were fond of musical assemblies called, 'sama'.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -808,11 +808,11 @@ D. (A) is false, but (R) is true
 
 ## 2.7 Major Religious Traditions of India
 
-**Originated in India:** Hinduism, Buddhism, Jainism, Sikhism.  
+**Originated in India:** Hinduism, Buddhism, Jainism, Sikhism.
 **Arrived:** Islam, Christianity, Zoroastrianism, Judaism.
 
 - Hinduism has no single founder. Its sources are the Vedas, smriti, epics, and Puranas.
-- Buddhism and Jainism are Indian-origin. The Jain community has the **highest urban share** (UPPCS 2022 Q96).
+- Buddhism and Jainism are Indian-origin. The Jain community has the **highest urban share**.
 - Islam reached Kerala by trade from the **7th** c., then the Sultanate. Lucknow is a major **Shia** centre in UP.
 - Christianity follows the **St. Thomas** tradition on the Kerala coast (**1st** c.). Later came Catholic Goa and Protestant missions. It did **not** originate in India.
 - Parsis follow Zarathustra / Avesta. They landed at Sanjan from Persia (**8th–10th** c.). They use the agiary and the Tower of Silence.
@@ -841,15 +841,15 @@ D. (A) is false, but (R) is true
 - **Takht Sri Patna Sahib** is at Patna (Gobind’s birth).
 - **Takht Sri Hazur Sahib** is at Nanded (Gobind’s death, **1708**).
 
-> **Exam note:** Jain = most urbanised. Khalsa = 1699 Gobind Singh. Adi Granth = Arjan.
+> ** note:** Jain = most urbanised. Khalsa = 1699 Gobind Singh. Adi Granth = Arjan.
 
 **PYQ — UPPCS Prelims 2022, Q96**
 
 Which religious group in India has its highest urban population?
 
-A. Hindu  
-B. Buddhist  
-C. Christian  
+A. Hindu
+B. Buddhist
+C. Christian
 D. Jain
 
 <details>
@@ -894,12 +894,12 @@ D. Jain
 
 ### Sacred geography — UP vs not UP
 
-**UP:** Sarnath, Kushinagar, Shravasti, Sankisa, Kaushambi; Kashi, Ayodhya, Mathura–Vrindavan, Prayagraj, Chitrakoot, Naimisharanya; Maghar (Kabir); Fatehpur Sikri (Salim Chishti).  
+**UP:** Sarnath, Kushinagar, Shravasti, Sankisa, Kaushambi; Kashi, Ayodhya, Mathura–Vrindavan, Prayagraj, Chitrakoot, Naimisharanya; Maghar (Kabir); Fatehpur Sikri (Salim Chishti).
 **Not UP:** Bodh Gaya, Pavapuri, Vaishali, Rajgir, Nalanda (**Bihar**); Lumbini (**Nepal**); Ajmer (**Rajasthan**); Amritsar (**Punjab**); Girnar/Palitana (**Gujarat**); Shravanabelagola (**Karnataka**); Sammed Shikhar (**Jharkhand**).
 
 - Constitutional frame: Preamble secular (**42nd** Amendment). Arts. **25–28**.
 
-> **Exam note:** Kumbh = intangible **2017**, not a monument. Relic-worship built the **stupa**.
+> ** note:** Kumbh = intangible **2017**, not a monument. Relic-worship built the **stupa**.
 
 ---
 
@@ -909,13 +909,13 @@ D. Jain
 
 **Q1.** With reference to Shad Darshana, which of the following statements is/are correct?
 
-1. Nyaya and Vaisheshika form a complementary pair.  
-2. Classical Samkhya is theistic because it posits Ishvara as a tattva.  
+1. Nyaya and Vaisheshika form a complementary pair.
+2. Classical Samkhya is theistic because it posits Ishvara as a tattva.
 3. Yoga of Patanjali is the practical counterpart of Samkhya.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -929,14 +929,14 @@ D. 1, 2 and 3
 
 **Q2.** How many of the following pairs are correctly matched?
 
-1. Vaisheshika — Kanada  
-2. Mimamsa — Jaimini  
-3. Uttara Mimamsa — Kapila  
+1. Vaisheshika — Kanada
+2. Mimamsa — Jaimini
+3. Uttara Mimamsa — Kapila
 4. Nyaya — Gautama
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -950,13 +950,13 @@ D. Only one
 
 **Q3.** With reference to Vedanta, which of the following statements is/are correct?
 
-1. Ramanuja propounded Vishishtadvaita.  
-2. Madhavacharya propounded Shuddhadvaita.  
+1. Ramanuja propounded Vishishtadvaita.
+2. Madhavacharya propounded Shuddhadvaita.
 3. Sringeri matha is associated with the Yajurveda in the Shankara tradition.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -970,13 +970,13 @@ D. 1, 2 and 3
 
 **Q4.** With reference to Vedic literature, which of the following statements is/are correct?
 
-1. *Tat tvam asi* occurs in the Chandogya Upanishad.  
-2. Gandharvaveda is the Upaveda of Samaveda.  
+1. *Tat tvam asi* occurs in the Chandogya Upanishad.
+2. Gandharvaveda is the Upaveda of Samaveda.
 3. Brahmanas constitute the jñāna-kāṇḍa.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -990,13 +990,13 @@ D. 1, 2 and 3
 
 **Q5.** With reference to the Buddha’s life, which of the following statements is/are correct?
 
-1. The first sermon was at Sarnath in Uttar Pradesh.  
-2. Mahaparinirvana was at Bodh Gaya.  
+1. The first sermon was at Sarnath in Uttar Pradesh.
+2. Mahaparinirvana was at Bodh Gaya.
 3. Anatta means there is no permanent self.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1010,13 +1010,13 @@ D. 1, 2 and 3
 
 **Q6.** With reference to Buddhist Councils, which of the following statements is/are correct?
 
-1. The first council was held at Vaishali under Ashoka.  
-2. Moggaliputta Tissa is associated with the third council at Pataliputra.  
+1. The first council was held at Vaishali under Ashoka.
+2. Moggaliputta Tissa is associated with the third council at Pataliputra.
 3. Kundalvana is linked with Kanishka.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1030,13 +1030,13 @@ D. 1, 2 and 3
 
 **Q7.** With reference to Buddhist literature, which of the following statements is/are correct?
 
-1. *Milind Panho* is a dialogue with Nagasena.  
-2. *Buddhacharita* was written by Nagarjuna.  
+1. *Milind Panho* is a dialogue with Nagasena.
+2. *Buddhacharita* was written by Nagarjuna.
 3. Vinaya Pitaka was recited by Upali at the first council.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1050,13 +1050,13 @@ D. 1, 2 and 3
 
 **Q8.** With reference to Jainism, which of the following statements is/are correct?
 
-1. Mahavira was the first Tirthankara.  
-2. Vasupujya attained nirvana at Champapuri.  
+1. Mahavira was the first Tirthankara.
+2. Vasupujya attained nirvana at Champapuri.
 3. Parshvanatha’s symbol is the snake.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1070,13 +1070,13 @@ D. 1, 2 and 3
 
 **Q9.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Digambara — white-clad monks  
-2. Gomateshwara statue — Chamundaraya, Shravanabelagola  
+1. Digambara — white-clad monks
+2. Gomateshwara statue — Chamundaraya, Shravanabelagola
 3. Jain Triratna — Buddha, Dharma, Sangha
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. Only 3
 
 <details>
@@ -1090,13 +1090,13 @@ D. Only 3
 
 **Q10.** With reference to Bhakti, which of the following statements is/are correct?
 
-1. There were 12 Alvars and 63 Nayanars.  
-2. Andal is the only woman Alvar.  
+1. There were 12 Alvars and 63 Nayanars.
+2. Andal is the only woman Alvar.
 3. Nayanars were devoted to Vishnu.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1110,13 +1110,13 @@ D. 1, 2 and 3
 
 **Q11.** With reference to Bhakti saints, which of the following statements is/are correct?
 
-1. Kabir was a disciple of Ramananda.  
-2. Surdas was a disciple of Vallabhacharya.  
+1. Kabir was a disciple of Ramananda.
+2. Surdas was a disciple of Vallabhacharya.
 3. *Ramcharitmanas* is in Sanskrit.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1130,13 +1130,13 @@ D. 1, 2 and 3
 
 **Q12.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Daya Bai — Vinay Malika  
-2. Jnaneshwar — Jnaneshwari  
+1. Daya Bai — Vinay Malika
+2. Jnaneshwar — Jnaneshwari
 3. Gangabai — Ganesh Dev Leela
 
-A. Only 3  
-B. 1 and 3 only  
-C. Only 1  
+A. Only 3
+B. 1 and 3 only
+C. Only 1
 D. 2 and 3 only
 
 <details>
@@ -1150,13 +1150,13 @@ D. 2 and 3 only
 
 **Q13.** With reference to Sufi orders, which of the following statements is/are correct?
 
-1. Nizamuddin Auliya’s dargah is at Multan.  
-2. Wahdat-ul-shuhud is associated with Ahmad Sirhindi.  
+1. Nizamuddin Auliya’s dargah is at Multan.
+2. Wahdat-ul-shuhud is associated with Ahmad Sirhindi.
 3. Baba Farid’s hymns appear in the Guru Granth Sahib.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1170,13 +1170,13 @@ D. 1, 2 and 3
 
 **Q14.** With reference to Sikh Gurus, which of the following statements is/are correct?
 
-1. Guru Angad developed Gurmukhi.  
-2. Guru Arjan compiled the Adi Granth.  
+1. Guru Angad developed Gurmukhi.
+2. Guru Arjan compiled the Adi Granth.
 3. The Khalsa was founded by Guru Nanak in 1699.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1190,13 +1190,13 @@ D. 1, 2 and 3
 
 **Q15.** With reference to religions of India, which of the following statements is/are correct?
 
-1. Buddhism, Jainism and Sikhism originated in India.  
-2. Jains have the highest urban share among major communities.  
+1. Buddhism, Jainism and Sikhism originated in India.
+2. Jains have the highest urban share among major communities.
 3. St. Thomas tradition places early Christianity on the Kerala coast.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1210,13 +1210,13 @@ D. 1, 2 and 3
 
 **Q16.** With reference to heritage, which of the following statements is/are correct?
 
-1. Kumbh Mela is UNESCO Intangible Cultural Heritage (2017).  
-2. Qutub Minar is on the same intangible list.  
+1. Kumbh Mela is UNESCO Intangible Cultural Heritage (2017).
+2. Qutub Minar is on the same intangible list.
 3. Maha Kumbh 2025 was held at Prayagraj.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1230,21 +1230,21 @@ D. 1, 2 and 3
 
 **Q17.** Match List-I with List-II and select the correct answer from the code given below.
 
-List-I  
-A. Kapila  
-B. Patanjali  
-C. Kanada  
-D. Gautama  
+List-I
+A. Kapila
+B. Patanjali
+C. Kanada
+D. Gautama
 
-List-II  
-1. Yoga Sutras  
-2. Samkhya  
-3. Nyaya  
-4. Vaisheshika  
+List-II
+1. Yoga Sutras
+2. Samkhya
+3. Nyaya
+4. Vaisheshika
 
-A. A-2, B-1, C-4, D-3  
-B. A-1, B-2, C-3, D-4  
-C. A-2, B-4, C-1, D-3  
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-4, C-1, D-3
 D. A-3, B-1, C-4, D-2
 
 <details>
@@ -1258,21 +1258,21 @@ D. A-3, B-1, C-4, D-2
 
 **Q18.** Match List-I with List-II and select the correct answer from the code given below.
 
-List-I  
-A. Ramanuja  
-B. Madhva  
-C. Nimbarka  
-D. Vallabha  
+List-I
+A. Ramanuja
+B. Madhva
+C. Nimbarka
+D. Vallabha
 
-List-II  
-1. Dvaita  
-2. Shuddhadvaita  
-3. Vishishtadvaita  
-4. Dvaitadvaita  
+List-II
+1. Dvaita
+2. Shuddhadvaita
+3. Vishishtadvaita
+4. Dvaitadvaita
 
-A. A-3, B-1, C-4, D-2  
-B. A-1, B-3, C-2, D-4  
-C. A-3, B-2, C-1, D-4  
+A. A-3, B-1, C-4, D-2
+B. A-1, B-3, C-2, D-4
+C. A-3, B-2, C-1, D-4
 D. A-4, B-1, C-3, D-2
 
 <details>
@@ -1286,21 +1286,21 @@ D. A-4, B-1, C-3, D-2
 
 **Q19.** Match List-I with List-II and select the correct answer from the code given below.
 
-List-I (Tirthankara)  
-A. Rishabha  
-B. Vasupujya  
-C. Neminatha  
-D. Mahavira  
+List-I (Tirthankara)
+A. Rishabha
+B. Vasupujya
+C. Neminatha
+D. Mahavira
 
-List-II  
-1. Lion / Pavapuri  
-2. Bull / Ashtapad  
-3. Champapuri  
-4. Girnar / Urjayanta  
+List-II
+1. Lion / Pavapuri
+2. Bull / Ashtapad
+3. Champapuri
+4. Girnar / Urjayanta
 
-A. A-2, B-3, C-4, D-1  
-B. A-2, B-4, C-3, D-1  
-C. A-1, B-3, C-4, D-2  
+A. A-2, B-3, C-4, D-1
+B. A-2, B-4, C-3, D-1
+C. A-1, B-3, C-4, D-2
 D. A-2, B-3, C-1, D-4
 
 <details>
@@ -1314,21 +1314,21 @@ D. A-2, B-3, C-1, D-4
 
 **Q20.** Match List-I with List-II and select the correct answer from the code given below.
 
-List-I  
-A. Muinuddin Chishti  
-B. Bahauddin Zakariya  
-C. Fourth Buddhist Council  
-D. First sermon  
+List-I
+A. Muinuddin Chishti
+B. Bahauddin Zakariya
+C. Fourth Buddhist Council
+D. First sermon
 
-List-II  
-1. Kashmir / Kanishka  
-2. Ajmer  
-3. Multan  
-4. Sarnath  
+List-II
+1. Kashmir / Kanishka
+2. Ajmer
+3. Multan
+4. Sarnath
 
-A. A-2, B-3, C-1, D-4  
-B. A-3, B-2, C-4, D-1  
-C. A-2, B-1, C-3, D-4  
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-4, D-1
+C. A-2, B-1, C-3, D-4
 D. A-4, B-3, C-1, D-2
 
 <details>
@@ -1342,21 +1342,21 @@ D. A-4, B-3, C-1, D-2
 
 **Q21.** Match List-I with List-II and select the correct answer from the code given below.
 
-List-I (Guru)  
-A. Angad  
-B. Arjan  
-C. Hargobind  
-D. Gobind Singh  
+List-I (Guru)
+A. Angad
+B. Arjan
+C. Hargobind
+D. Gobind Singh
 
-List-II  
-1. Khalsa, 1699  
-2. Gurmukhi  
-3. Adi Granth  
-4. Miri-Piri  
+List-II
+1. Khalsa, 1699
+2. Gurmukhi
+3. Adi Granth
+4. Miri-Piri
 
-A. A-2, B-3, C-4, D-1  
-B. A-3, B-2, C-1, D-4  
-C. A-2, B-4, C-3, D-1  
+A. A-2, B-3, C-4, D-1
+B. A-3, B-2, C-1, D-4
+C. A-2, B-4, C-3, D-1
 D. A-1, B-3, C-4, D-2
 
 <details>
@@ -1370,14 +1370,14 @@ D. A-1, B-3, C-4, D-2
 
 **Q22.** Arrange the following in chronological order:
 
-1. Guru Nanak  
-2. Chaitanya Mahaprabhu  
-3. Namdev  
-4. Kabir  
+1. Guru Nanak
+2. Chaitanya Mahaprabhu
+3. Namdev
+4. Kabir
 
-A. 3, 4, 1, 2  
-B. 4, 3, 2, 1  
-C. 3, 4, 2, 1  
+A. 3, 4, 1, 2
+B. 4, 3, 2, 1
+C. 3, 4, 2, 1
 D. 4, 3, 1, 2
 
 <details>
@@ -1391,14 +1391,14 @@ D. 4, 3, 1, 2
 
 **Q23.** Arrange the Buddhist Council places in chronological order:
 
-1. Vaishali  
-2. Rajagriha  
-3. Kundalvana  
-4. Pataliputra  
+1. Vaishali
+2. Rajagriha
+3. Kundalvana
+4. Pataliputra
 
-A. 2, 1, 4, 3  
-B. 1, 2, 4, 3  
-C. 2, 1, 3, 4  
+A. 2, 1, 4, 3
+B. 1, 2, 4, 3
+C. 2, 1, 3, 4
 D. 2, 4, 1, 3
 
 <details>
@@ -1410,12 +1410,12 @@ D. 2, 4, 1, 3
 
 ---
 
-**Q24.** Assertion (A): The Nyaya school was founded by Gautama.  
+**Q24.** Assertion (A): The Nyaya school was founded by Gautama.
 Reason (R): This Gautama is the same person as Gautama Buddha.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1427,12 +1427,12 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q25.** Assertion (A): Nizamuddin Auliya’s hospice was at Multan.  
+**Q25.** Assertion (A): Nizamuddin Auliya’s hospice was at Multan.
 Reason (R): Amir Khusrau was a disciple of Nizamuddin Auliya.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1444,12 +1444,12 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q26.** Assertion (A): *Fawaid ul Fawad* was compiled by Amir Khusrau.  
+**Q26.** Assertion (A): *Fawaid ul Fawad* was compiled by Amir Khusrau.
 Reason (R): Khusrau was a poet-disciple of Nizamuddin Auliya.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1461,12 +1461,12 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q27.** Assertion (A): Kumbh Mela is a UNESCO World Heritage monument.  
+**Q27.** Assertion (A): Kumbh Mela is a UNESCO World Heritage monument.
 Reason (R): Kumbh Mela was inscribed as Intangible Cultural Heritage in 2017.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1480,13 +1480,13 @@ D. (A) is false, but (R) is true
 
 **Q28.** With reference to *Milind Panho*, which of the following statements is/are correct?
 
-1. The king is identified with Menander.  
-2. The monk is Nagarjuna.  
+1. The king is identified with Menander.
+2. The monk is Nagarjuna.
 3. The text is in the question-answer form of a dialogue.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1500,13 +1500,13 @@ D. 1, 2 and 3
 
 **Q29.** With reference to Hatha Yoga, which of the following statements is/are correct?
 
-1. It was practised by Nathpanthis.  
-2. Some Sufis adopted Hatha techniques.  
+1. It was practised by Nathpanthis.
+2. Some Sufis adopted Hatha techniques.
 3. Patanjali’s eight limbs begin with asana and end with yama.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1520,9 +1520,9 @@ D. 1, 2 and 3
 
 **Q30.** Which one of the following is correctly matched?
 
-A. First Buddhist Council — Vaishali — Ashoka  
-B. Third Buddhist Council — Pataliputra — Ashoka  
-C. Fourth Buddhist Council — Rajagriha — Ajatashatru  
+A. First Buddhist Council — Vaishali — Ashoka
+B. Third Buddhist Council — Pataliputra — Ashoka
+C. Fourth Buddhist Council — Rajagriha — Ajatashatru
 D. Second Buddhist Council — Kundalvana — Kanishka
 
 <details>
@@ -1536,13 +1536,13 @@ D. Second Buddhist Council — Kundalvana — Kanishka
 
 **Q31.** With reference to Charvaka and Ajivika, which of the following statements is/are correct?
 
-1. Charvaka accepts only perception as pramana in its classical form.  
-2. Ajivika is associated with Makkhali Gosala.  
+1. Charvaka accepts only perception as pramana in its classical form.
+2. Ajivika is associated with Makkhali Gosala.
 3. Both are Astika because they arose in India.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1556,13 +1556,13 @@ D. 1, 2 and 3
 
 **Q32.** With reference to UP sacred geography, which of the following statements is/are correct?
 
-1. Sarnath and Kushinagar are in Uttar Pradesh.  
-2. Pavapuri is in Uttar Pradesh.  
+1. Sarnath and Kushinagar are in Uttar Pradesh.
+2. Pavapuri is in Uttar Pradesh.
 3. Maghar is associated with Kabir.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1576,14 +1576,14 @@ D. 1, 2 and 3
 
 **Q33.** How many of the following statements about the Eightfold Path are correct?
 
-1. It is the Magga of the Four Noble Truths.  
-2. It includes Right Livelihood.  
-3. It is identical with the five Jain Mahavratas.  
+1. It is the Magga of the Four Noble Truths.
+2. It includes Right Livelihood.
+3. It is identical with the five Jain Mahavratas.
 4. It is the practical form of the Middle Path.
 
-A. Only two  
-B. Only three  
-C. All four  
+A. Only two
+B. Only three
+C. All four
 D. Only one
 
 <details>
@@ -1597,13 +1597,13 @@ D. Only one
 
 **Q34.** With reference to Shankara’s mathas, which of the following statements is/are correct?
 
-1. Dwaraka is the western matha, linked with Samaveda.  
-2. Jyotirmath / Badrinath is the northern matha.  
+1. Dwaraka is the western matha, linked with Samaveda.
+2. Jyotirmath / Badrinath is the northern matha.
 3. Puri Govardhana is linked with Yajurveda.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1617,13 +1617,13 @@ D. 1, 2 and 3
 
 **Q35.** With reference to Vaisheshika and Nyaya, which of the following statements is/are correct?
 
-1. Kanada is the proponent of Vaisheshika atomism.  
-2. Upamana is one of the four Nyaya pramanas.  
+1. Kanada is the proponent of Vaisheshika atomism.
+2. Upamana is one of the four Nyaya pramanas.
 3. Patanjali wrote the Vaisheshika Sutras.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1637,13 +1637,13 @@ D. 1, 2 and 3
 
 **Q36.** With reference to Chishti saints, which of the following statements is/are correct?
 
-1. Gesu Daraz is associated with Gulbarga.  
-2. Burhanuddin Gharib is associated with Daulatabad.  
+1. Gesu Daraz is associated with Gulbarga.
+2. Burhanuddin Gharib is associated with Daulatabad.
 3. Salim Chishti’s dargah is at Ajmer.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1657,13 +1657,13 @@ D. 1, 2 and 3
 
 **Q37.** Which of the following pairs is/are correctly matched?
 
-1. *Fawaid ul Fawad* — Hasan Sijzi  
-2. *Kashf-ul-Mahjub* — Ali Hujwiri  
+1. *Fawaid ul Fawad* — Hasan Sijzi
+2. *Kashf-ul-Mahjub* — Ali Hujwiri
 3. *Ramcharitmanas* — Tulsidas, Awadhi
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1677,13 +1677,13 @@ D. 1, 2 and 3
 
 **Q38.** With reference to Mahayana, which of the following statements is/are correct?
 
-1. The Bodhisattva ideal is central.  
-2. Nagarjuna is associated with Shunyavada / Madhyamaka.  
+1. The Bodhisattva ideal is central.
+2. Nagarjuna is associated with Shunyavada / Madhyamaka.
 3. Theravada’s canonical language is primarily Sanskrit.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1697,13 +1697,13 @@ D. 1, 2 and 3
 
 **Q39.** Which of the following is/are **NOT** correctly matched?
 
-1. Sammed Shikhar — Jharkhand  
-2. Urjayanta — Neminatha  
+1. Sammed Shikhar — Jharkhand
+2. Urjayanta — Neminatha
 3. Ashtapad — Mahavira
 
-A. Only 3  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. Only 3
+B. 1 and 3 only
+C. 2 and 3 only
 D. Only 1
 
 <details>
@@ -1717,13 +1717,13 @@ D. Only 1
 
 **Q40.** With reference to syncretic heritage, which of the following statements is/are correct?
 
-1. Guru Granth Sahib includes hymns of Kabir, Namdev and Baba Farid.  
-2. Ajmer Sharif is the dargah of Muinuddin Chishti.  
+1. Guru Granth Sahib includes hymns of Kabir, Namdev and Baba Farid.
+2. Ajmer Sharif is the dargah of Muinuddin Chishti.
 3. Four traditional Kumbh sites include Prayagraj, Haridwar, Nashik and Ujjain.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1737,15 +1737,15 @@ D. 1, 2 and 3
 
 **Q41.** How many of the following Tirthankara–symbol pairs are correctly matched?
 
-1. Rishabha — bull  
-2. Padmaprabha — lotus  
-3. Vasupujya — lion  
-4. Munisuvrata — tortoise  
+1. Rishabha — bull
+2. Padmaprabha — lotus
+3. Vasupujya — lion
+4. Munisuvrata — tortoise
 5. Parshvanatha — snake
 
-A. Only three  
-B. Only four  
-C. All five  
+A. Only three
+B. Only four
+C. All five
 D. Only two
 
 <details>
@@ -1759,13 +1759,13 @@ D. Only two
 
 **Q42.** Which of the following statements about Tirthankara nirvana places is/are correct?
 
-1. Twenty Tirthankaras attained nirvana at Sammed Shikhar.  
-2. Neminatha’s nirvana is associated with Girnar / Urjayanta.  
+1. Twenty Tirthankaras attained nirvana at Sammed Shikhar.
+2. Neminatha’s nirvana is associated with Girnar / Urjayanta.
 3. Vasupujya’s nirvana is at Pavapuri.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1779,13 +1779,13 @@ D. 1, 2 and 3
 
 **Q43.** With reference to Alvars and Nayanars, which of the following statements is/are correct?
 
-1. There are 12 Alvars; Andal is the only woman Alvar.  
-2. Appar, Sambandar and Sundarar are Shaiva Samayacharyas.  
+1. There are 12 Alvars; Andal is the only woman Alvar.
+2. Appar, Sambandar and Sundarar are Shaiva Samayacharyas.
 3. Nammalvar’s *Tiruvaymoli* is a Vaishnava core text.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1799,13 +1799,13 @@ D. 1, 2 and 3
 
 **Q44.** With reference to Jain vows and texts, which of the following statements is/are correct?
 
-1. Parshvanatha taught four vows; Mahavira added brahmacharya.  
-2. Kalpasutra is recited during Paryushana.  
+1. Parshvanatha taught four vows; Mahavira added brahmacharya.
+2. Kalpasutra is recited during Paryushana.
 3. Drishtivada is the surviving first Anga.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1819,13 +1819,13 @@ D. 1, 2 and 3
 
 **Q45.** With reference to Sikh Takhts, which of the following statements is/are correct?
 
-1. Akal Takht is at Amritsar.  
-2. Gobind Singh was born at Patna Sahib and died at Nanded (Hazur Sahib).  
+1. Akal Takht is at Amritsar.
+2. Gobind Singh was born at Patna Sahib and died at Nanded (Hazur Sahib).
 3. Khalsa was founded at Talwandi Sabo.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1845,21 +1845,21 @@ D. 1, 2 and 3
 
 Match List-I with List-II and select the correct answer using the code given below the lists.
 
-List-I (Disciple)  
-A. Kabir  
-B. Amir Khusrau  
-C. Surdas  
-D. Mardana  
+List-I (Disciple)
+A. Kabir
+B. Amir Khusrau
+C. Surdas
+D. Mardana
 
-List-II (Guru)  
-1. Guru Nanak Dev  
-2. Swami Ramananda  
-3. Nizamuddin Auliya  
-4. Vallabhacharya  
+List-II (Guru)
+1. Guru Nanak Dev
+2. Swami Ramananda
+3. Nizamuddin Auliya
+4. Vallabhacharya
 
-A. 3 2 4 1  
-B. 3 2 1 4  
-C. 2 3 4 1  
+A. 3 2 4 1
+B. 3 2 1 4
+C. 2 3 4 1
 D. 2 3 1 4
 
 <details>
@@ -1873,14 +1873,14 @@ D. 2 3 1 4
 
 Arrange the following saints in the correct chronological order:
 
-1. Guru Nanak  
-2. Chaitanya Mahaprabhu  
-3. Namdev  
-4. Kabir  
+1. Guru Nanak
+2. Chaitanya Mahaprabhu
+3. Namdev
+4. Kabir
 
-A. 3, 4, 2, 1  
-B. 4, 3, 1, 2  
-C. 3, 4, 1, 2  
+A. 3, 4, 2, 1
+B. 4, 3, 1, 2
+C. 3, 4, 1, 2
 D. 4, 3, 2, 1
 
 <details>
@@ -1894,14 +1894,14 @@ D. 4, 3, 2, 1
 
 The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
 
-1. Vaishali  
-2. Rajagriha  
-3. Kundalvana  
-4. Pataliputra  
+1. Vaishali
+2. Rajagriha
+3. Kundalvana
+4. Pataliputra
 
-A. 1, 2, 4, 3  
-B. 2, 1, 3, 4  
-C. 2, 1, 4, 3  
+A. 1, 2, 4, 3
+B. 2, 1, 3, 4
+C. 2, 1, 4, 3
 D. 1, 2, 3, 4
 
 <details>
@@ -1917,9 +1917,9 @@ D. 1, 2, 3, 4
 
 *Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
 
-A. Nagarjun  
-B. Nagbhatt  
-C. Nagasena  
+A. Nagarjun
+B. Nagbhatt
+C. Nagasena
 D. Kumaril Bhatt
 
 <details>
@@ -1933,9 +1933,9 @@ D. Kumaril Bhatt
 
 Which of the following pairs (**School of Thought — Proponent**) is correctly matched?
 
-A. Vaisheshika — Patanjali  
-B. Mimansa — Kanada  
-C. Nyaya — Gautama  
+A. Vaisheshika — Patanjali
+B. Mimansa — Kanada
+C. Nyaya — Gautama
 D. Uttara Mimansa — Kapila
 
 <details>
@@ -1949,9 +1949,9 @@ D. Uttara Mimansa — Kapila
 
 Which of the following pairs (**Poetess — Composition**) is **not** correctly matched?
 
-A. Daya Bai — Vinay Malika  
-B. Sahajobai — Sahaj Prakash  
-C. Gangabai — Ganesh Dev Leela  
+A. Daya Bai — Vinay Malika
+B. Sahajobai — Sahaj Prakash
+C. Gangabai — Ganesh Dev Leela
 D. Son Kumari — Poem of Swam Beli
 
 <details>
@@ -1967,21 +1967,21 @@ D. Son Kumari — Poem of Swam Beli
 
 Match List-I with List-II and select the correct answer.
 
-**List-I (Philosopher)**  
-A. Ramanuja  
-B. Madhavacharya  
-C. Nimbarka  
-D. Vallabhacharya  
+**List-I (Philosopher)**
+A. Ramanuja
+B. Madhavacharya
+C. Nimbarka
+D. Vallabhacharya
 
-**List-II (Philosophy)**  
-1. Shuddhadvaita  
-2. Dvaitadvaita  
-3. Dvaita  
-4. Vishishtadvaita  
+**List-II (Philosophy)**
+1. Shuddhadvaita
+2. Dvaitadvaita
+3. Dvaita
+4. Vishishtadvaita
 
-A. 2, 4, 1, 3  
-B. 3, 1, 4, 2  
-C. 1, 2, 3, 4  
+A. 2, 4, 1, 3
+B. 3, 1, 4, 2
+C. 1, 2, 3, 4
 D. 4, 3, 2, 1
 
 <details>
@@ -1995,9 +1995,9 @@ D. 4, 3, 2, 1
 
 Which religious group in India has its highest urban population?
 
-A. Hindu  
-B. Buddhist  
-C. Christian  
+A. Hindu
+B. Buddhist
+C. Christian
 D. Jain
 
 <details>
@@ -2013,9 +2013,9 @@ D. Jain
 
 The book 'Fawaid ul Fawad' is the record of the conversations of Shaikh Nizamuddin Auliya, it was compiled by
 
-A. Amir Hassan Sizzi  
-B. Amir Khusro  
-C. Ziauddin Barni  
+A. Amir Hassan Sizzi
+B. Amir Khusro
+C. Ziauddin Barni
 D. Hasan Nizami
 
 <details>
@@ -2027,12 +2027,12 @@ D. Hasan Nizami
 
 **Q10. UPPCS Prelims 2021, Q131**
 
-Which one of the following pairs is NOT correctly matched?  
+Which one of the following pairs is NOT correctly matched?
 (Tirthankar) — (Nirvan Place)
 
-A. Rishabhanath — Ashtapad  
-B. Vasupujya — Sammedashikhar  
-C. Neminath — Urjayanta  
+A. Rishabhanath — Ashtapad
+B. Vasupujya — Sammedashikhar
+C. Neminath — Urjayanta
 D. Mahavira — Pavapuri
 
 <details>
@@ -2048,9 +2048,9 @@ D. Mahavira — Pavapuri
 
 Which of the following is NOT correctly matched?
 
-A. Shaikh Moinuddin — Ajmer Chishti  
-B. Shaikh Burhanuddin — Daulatabad Gharib  
-C. Shaikh Mohammad — Gulbarga Hussaini  
+A. Shaikh Moinuddin — Ajmer Chishti
+B. Shaikh Burhanuddin — Daulatabad Gharib
+C. Shaikh Mohammad — Gulbarga Hussaini
 D. Shaikh Nizamuddin — Multan Auliya
 
 <details>
@@ -2066,12 +2066,12 @@ D. Shaikh Nizamuddin — Multan Auliya
 
 With reference to Hath Yog, which of the following statement is/are correct?
 
-1. Hath Yog was practiced by Nathpanthis.  
+1. Hath Yog was practiced by Nathpanthis.
 2. Hath Yog technique was also adopted by the Sufis.
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -2085,12 +2085,12 @@ D. Neither 1 nor 2
 
 **Q13. UPPCS Prelims 2018, Q90**
 
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.  
+Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
 Reason (R): The early Chishti sufis were fond of musical assemblies called, 'sama'.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>

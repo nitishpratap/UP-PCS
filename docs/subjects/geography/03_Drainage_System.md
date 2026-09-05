@@ -12,43 +12,43 @@
 **Waterways & Linking:** River Linking Project | River Interlinking | National Waterways | Inland Waterways (NW-1 to NW-5 and New Waterways)
 </details>
 
-> **Sources baked in:** NCERT Geography Class 11 (Ch 3), Class 12 (Ch 2–3), **PMF IAS** drainage map (Kullar), UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — Prayag/confluence, tributary traps, west-flowing rivers, deltas, UP rivers, dam–river  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Geography Class 11 (Ch 3), Class 12 (Ch 2–3), **PMF IAS** drainage map (Kullar), UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — Prayag/confluence, tributary traps, west-flowing rivers, deltas, UP rivers, dam–river
+> **Last verified:** August 2026
 > **Current Affairs:** Ken–Betwa = **only NPP link under implementation** (foundation Dec 2024; ~₹44,605 cr; Bundelkhand MP–UP; Panna TR)
 
 ---
 
-## Consolidated — 32 Must-Score Locks
+## Consolidated — 32 Must-Score Facts
 
 1. About **77%** of India’s drainage **area** faces the **Bay of Bengal**, about **23%** faces the **Arabian Sea**, and inland basins cover about **8%** of area. Over **90% of river water** still goes to the Bay of Bengal.
-2. Water-share lock: **Brahmaputra about 40%**, **Ganga about 25%**, **Godavari about 6%**. Brahmaputra leads water volume; Ganga leads Indian basin area.
+2. Water-share fact: **Brahmaputra about 40%**, **Ganga about 25%**, **Godavari about 6%**. Brahmaputra leads water volume; Ganga leads Indian basin area.
 3. The Western Ghats are the main peninsular divide. From **Amarkantak**, drainage is radial — **Narmada** west and **Son** toward the Ganga.
 4. **Ganga** is the largest basin **inside India**. **Godavari** is the largest **peninsular** basin. Among Tapti / Narmada / Mahanadi / Cauvery alone, **Mahanadi** is the largest basin.
 5. Himalayan rivers are mostly **perennial** (melt plus rain) and include **antecedent** giants. Peninsular rivers are mostly **rain-fed** and graded.
 6. Drainage types: **consequent** follows original slope; **subsequent** follows weak belts later; **antecedent** (Indus, Sutlej, Brahmaputra) cuts rising Himalaya; **superimposed** (Chambal) inherits an older course.
-7. **Trans-Himalayan** rivers rise north of the Great Himalaya in Tibet and cut through — lock **Sutlej**, and also Indus and Brahmaputra (Tsangpo). Among Jhelum / Sutlej / Ganga / Ravi, the trans-Himalayan pick is **Sutlej**.
+7. **Trans-Himalayan** rivers rise north of the Great Himalaya in Tibet and cut through — fact **Sutlej**, and also Indus and Brahmaputra (Tsangpo). Among Jhelum / Sutlej / Ganga / Ravi, the trans-Himalayan pick is **Sutlej**.
 8. The Indus rises in a Tibet gorge and reaches the Arabian Sea in Pakistan. The five Punjab rivers east to west are **Jhelum–Chenab–Ravi–Beas–Sutlej**. Under the Indus Treaty, India gets Ravi, Beas, and Sutlej; Pakistan gets Indus, Jhelum, and Chenab.
-9. Dam–river locks: **Baglihar = Chenab**, **Pandoh = Beas** (not Ravi), **Srisailam = Krishna** (not Tungabhadra).
+9. Dam–river facts: **Baglihar = Chenab**, **Pandoh = Beas** (not Ravi), **Srisailam = Krishna** (not Tungabhadra).
 10. The Ganga is named only at **Devprayag** where Alaknanda meets Bhagirathi. It is about **2525 km** long. In Bangladesh it becomes the **Padma**, meets the Brahmaputra as **Jamuna**, then joins the Meghna system to the Bay of Bengal.
-11. Join locks on the Ganga: Yamuna at **Prayagraj**, Ramganga at **Kannauj**, Ghaghara at **Chhapra**, Gandak at **Sonpur**, Son at **Patna**, Kosi at **Kursela**. Left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak, Kosi, and Mahananda; **Gomti** is a plains-origin left-bank river. Right-bank locks are Yamuna, Son, and Damodar.
+11. Join facts on the Ganga: Yamuna at **Prayagraj**, Ramganga at **Kannauj**, Ghaghara at **Chhapra**, Gandak at **Sonpur**, Son at **Patna**, Kosi at **Kursela**. Left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak, Kosi, and Mahananda; **Gomti** is a plains-origin left-bank river. Right-bank facts are Yamuna, Son, and Damodar.
 12. Yamuna right-bank tributes west to east are **Chambal–Sind–Betwa–Ken**. Chambal joins at Etawah; Betwa at **Hamirpur**; Ken at **Banda**. Betwa does **not** meet at Prayagraj.
 13. **Jonk** joins the **Mahanadi**, not the Ganga. **Gandak** is not an Uttar Pradesh river in the usual state list. **Punpun** meets near Fatuha. Chambal ravines start near **Mhow**.
 14. Panch Prayag upstream to downstream: **Vishnu** (Dhauli) → **Nanda** (Nandakini) → **Karn** (Pindar) → **Rudra** (Mandakini) → **Dev** (Bhagirathi) = Ganga. Badrinath is on the **Alaknanda**; Kedarnath is on the **Mandakini**.
 15. The eastern **Dhauliganga** joins the **Kali**, not the Alaknanda. Do not confuse it with the Dhauli of Vishnuprayag.
 16. The Brahmaputra rises as Angsi / Tsangpo, makes a **U-turn at the eastern syntaxial bend near Namcha Barwa**, and enters India as Siang / Dihang. **Majuli** is the classic island. Right-bank north tributes include Subansiri, Manas, Sankosh, and Teesta; left-bank south tributes include Burhi Dihing and Dhansiri.
 17. **Teesta** was captured from the Ganga system into the Brahmaputra. Barak becomes Meghna and reaches the Bay of Bengal — it is **not** inland drainage.
-18. Peninsular length lock: **Godavari (~1465 km) > Krishna (~1400) > Narmada (~1312) > Mahanadi (~851) > Tapi (~724)**. Godavari is also called Dakshin / Vriddha Ganga and rises near **Trimbak**.
-19. Origin locks: Yamuna–Yamunotri, Krishna–Mahabaleshwar, Godavari–Nashik, Mahanadi–Sihawa, Narmada–Amarkantak, Tapi–**Multai (Satpura)** not Western Ghats, Kaveri–Brahmagiri.
+18. Peninsular length fact: **Godavari (~1465 km) > Krishna (~1400) > Narmada (~1312) > Mahanadi (~851) > Tapi (~724)**. Godavari is also called Dakshin / Vriddha Ganga and rises near **Trimbak**.
+19. Origin facts: Yamuna–Yamunotri, Krishna–Mahabaleshwar, Godavari–Nashik, Mahanadi–Sihawa, Narmada–Amarkantak, Tapi–**Multai (Satpura)** not Western Ghats, Kaveri–Brahmagiri.
 20. **Pranhita** joins **Godavari**. **Hemavati** joins Kaveri. **Malaprabha** joins Krishna. Hyderabad stands on the **Musi**, not the Krishna stem. Ludhiana is on the **Sutlej**, not the Ravi.
-21. West-flowing exam set: Narmada, Tapi, Mahi, Sabarmati, **Periyar**. East-flowing examples include Pennar and Palar. Narmada and Tapi form **estuaries** in rift valleys; most east-flowing peninsular rivers build **deltas**.
-22. **Luni** is inland: upper course fresh, lower course **saline**. The classic fault-valley exam tag is **Damodar**; Narmada and Tapi are also rift valleys.
-23. Delta locks: **Arcuate** = Sundarbans; **Bird’s-foot** = Mississippi (not Ganga); **moribund subdivision** = Bengal Delta. **Trellis** marks folded structure; **radial** marks Amarkantak; **dendritic** is the common homogeneous pattern.
+21. West-flowing set: Narmada, Tapi, Mahi, Sabarmati, **Periyar**. East-flowing examples include Pennar and Palar. Narmada and Tapi form **estuaries** in rift valleys; most east-flowing peninsular rivers build **deltas**.
+22. **Luni** is inland: upper course fresh, lower course **saline**. The classic fault-valley tag is **Damodar**; Narmada and Tapi are also rift valleys.
+23. Delta facts: **Arcuate** = Sundarbans; **Bird’s-foot** = Mississippi (not Ganga); **moribund subdivision** = Bengal Delta. **Trellis** marks folded structure; **radial** marks Amarkantak; **dendritic** is the common homogeneous pattern.
 24. National Waterways: **NW-1** Ganga–Hooghly, **NW-2** Brahmaputra, **NW-3** Kerala, **NW-4** Krishna–Godavari, **NW-5** Brahmani–Mahanadi.
 25. **Ken–Betwa** is the only National Perspective Plan link under implementation, linking Madhya Pradesh and Uttar Pradesh in Bundelkhand.
-26. Uttar Pradesh locks: Sangam at **Prayagraj**; **Gomti** is Lucknow’s river and the pollution tag; **Ghaghara** is Ayodhya’s river; the Ganga–Yamuna **Doab** is the core plain.
+26. Uttar Pradesh facts: Sangam at **Prayagraj**; **Gomti** is Lucknow’s river and the pollution tag; **Ghaghara** is Ayodhya’s river; the Ganga–Yamuna **Doab** is the core plain.
 27. Chambal sanctuary spans **Uttar Pradesh, Madhya Pradesh, and Rajasthan** — not Haryana.
-28. Kaveri island sequence includes **Srirangapatna–Shivasamudram–Srirangam**. Bhubaneswar is **not** a Mahanadi-bank city lock in the usual trap set.
+28. Kaveri island sequence includes **Srirangapatna–Shivasamudram–Srirangam**. Bhubaneswar is **not** a Mahanadi-bank city fact in the usual trap set.
 29. East-flowing peninsular rivers north to south often run **Subarnarekha → Mahanadi → Godavari → Krishna → Pennar → Cauvery → Vaigai**.
 30. Indus is the longest of the four Himalayan systems overall, but most of its course lies in Pakistan. Ganga is the longest river **in India**.
 31. Concordant drainage follows structure; discordant drainage cuts across it — Himalayan antecedents are the classic discordant case.
@@ -56,9 +56,9 @@
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Ganga basin | Godavari basin | Largest **India** vs largest **peninsular** | गंगा / गोदावरी |
 | Left-bank Ganga | Right-bank Ganga | Himalayan trib vs Yamuna/Son/Damodar | बायाँ / दायाँ तट |
@@ -76,7 +76,7 @@
 | Pranhita | Jonk | Godavari trib vs Mahanadi trib | प्रणहिता / जोंक |
 | Hyderabad–Musi | Hyderabad–Krishna | City on Musi trib, not Krishna stem | मुसी / कृष्णा |
 | E. Dhauliganga | Alaknanda Dhauli | Kali trib vs Vishnuprayag Dhauli | पूर्वी धौली |
-| Chambal ravines | Damodar rift | Badlands vs fault-valley exam tag | चंबल / दामोदर |
+| Chambal ravines | Damodar rift | Badlands vs fault-valley tag | चंबल / दामोदर |
 | Kosi | Damodar | Sorrow of Bihar vs Sorrow of Bengal | कोसी / दामोदर |
 
 ---
@@ -110,9 +110,9 @@
 - **Peninsular rivers** are older and **graded**. Most are **rain-fed** and more seasonal. Courses are fixed. Meanders are fewer than in the Himalaya.
 - East-flowing peninsular rivers build **deltas**. West-flowing **Narmada and Tapi** (rift valleys) build **estuaries**.
 
-#### Drainage types (exam definitions)
+#### Drainage types (definitions)
 
-| Type | Meaning | India lock |
+| Type | Meaning | India |
 |------|---------|------------|
 | **Consequent** | Follows the original slope of the land | Godavari, Krishna, Kaveri from Western Ghats |
 | **Subsequent** | Grows later along a weak belt; often joins at right angles | Chambal, Sind, Betwa, Ken, Tons, Son to Yamuna/Ganga |
@@ -121,20 +121,20 @@
 | **Concordant** | Follows structure and slope | Most peninsular rivers |
 | **Discordant** | Cuts across structure | Himalayan antecedent rivers |
 
-- A **river capture (piracy)** happens when a stronger stream steals the headwaters of a weaker one. **Teesta** shifting from Ganga to Brahmaputra is the UPPCS lock.
+- A **river capture (piracy)** happens when a stronger stream steals the headwaters of a weaker one. **Teesta** shifting from Ganga to Brahmaputra is the UPPCS fact.
 
-#### Trans-Himalayan rivers (separate exam tag)
+#### Trans-Himalayan rivers (separate tag)
 
 - **Trans-Himalayan rivers** rise **north of the Great Himalaya**, usually on the **Tibetan Plateau**, then **cut through** the Himalaya into India.
 - They are typically **antecedent**. Origin is beyond the main Himalayan crest, not in the Himachal / Kashmir Himalaya proper.
-- Exam set: **Indus, Sutlej, and Brahmaputra (Tsangpo)**.
-- Among common options (Jhelum / Sutlej / Ganga / Ravi), the Trans-Himalayan pick is **Sutlej** (UPPCS 2020 Q52).
+- set: **Indus, Sutlej, and Brahmaputra (Tsangpo)**.
+- Among common options (Jhelum / Sutlej / Ganga / Ravi), the Trans-Himalayan pick is **Sutlej**.
 - **Sutlej** rises at **Rakas Tal** near Mansarovar (Tibet), enters India near **Shipki La**, and gorges through the Himalaya. That origin-plus-cut-through is why papers ask “Sutlej is Trans-Himalayan.”
 - **Jhelum, Ravi, Beas, and Ganga** (formed at Devprayag) are **not** the Trans-Himalayan pick in that MCQ set.
 
 - The peninsula’s water divide is the **Western Ghats**. **Amarkantak** is a **radial** node: Narmada goes west, Son goes to the Ganga.
 
-> **Exam note:** 2022 Q16 — among Tapi / Narmada / Mahanadi / Cauvery, largest basin = **Mahanadi**. 2025 Q94: Himalayan snow → perennial rivers (both true, R explains A). Trans-Himalayan ≠ every Himalayan river.
+> ** note:** 2022 Q16 — among Tapi / Narmada / Mahanadi / Cauvery, largest basin = **Mahanadi**. 2025 Q94: Himalayan snow → perennial rivers (both true, R explains A). Trans-Himalayan ≠ every Himalayan river.
 
 ---
 
@@ -151,11 +151,11 @@
 - The **Chenab** forms near **Bara Lacha La** (Chandra + Bhaga in Lahaul). **Baglihar** and **Salal** stand on the Chenab.
 - The **Ravi** rises in the Kullu hills near **Rohtang**. It drains between Pir Panjal and Dhauladhar. **Ranjit Sagar** is on the Ravi. **Pandoh is not** on the Ravi.
 - The **Beas** rises near **Rohtang**. **Pandoh Dam** is on the Beas. Beas meets Sutlej near **Harike**.
-- The **Sutlej** rises at **Rakas Tal**, Tibet. It is both **Trans-Himalayan** and **antecedent**. It enters Himachal near **Shipki La** and cuts deep gorges across the Himalayan ranges. **Bhakra–Nangal** stands on the Sutlej. Among Jhelum / Sutlej / Ganga / Ravi, the Trans-Himalayan answer is **Sutlej** (2020 Q52).
-- Exam join order toward the Indus: Jhelum and Ravi join **Chenab**; Chenab meets **Sutlej**; Sutlej then joins **Indus**.
+- The **Sutlej** rises at **Rakas Tal**, Tibet. It is both **Trans-Himalayan** and **antecedent**. It enters Himachal near **Shipki La** and cuts deep gorges across the Himalayan ranges. **Bhakra–Nangal** stands on the Sutlej. Among Jhelum / Sutlej / Ganga / Ravi, the Trans-Himalayan answer is **Sutlej**.
+- join order toward the Indus: Jhelum and Ravi join **Chenab**; Chenab meets **Sutlej**; Sutlej then joins **Indus**.
 - **Indus Waters Treaty (1960):** India uses **Ravi, Beas, Sutlej**. Pakistan uses **Indus, Jhelum, Chenab**.
 
-> **Exam note:** 2025 Q92 NOT matched: **Pandoh–Ravi** and **Srisailam–Tungabhadra**. Trans-Himalayan lock = Sutlej among usual Himalayan options.
+> ** note:** 2025 Q92 NOT matched: **Pandoh–Ravi** and **Srisailam–Tungabhadra**. Trans-Himalayan fact = Sutlej among usual Himalayan options.
 
 **PYQ — UPPCS Prelims 2025, Q92**
 
@@ -186,7 +186,7 @@ D. Only 1
 - The Ganga enters the plains at **Haridwar**. At **Farakka** water is diverted into the **Hooghly** (Bhagirathi–Hooghly arm in West Bengal). The main stem enters Bangladesh near Farakka as the **Padma**.
 - In Bangladesh the Padma is joined by the **Jamuna** (Brahmaputra). Further downstream the Padma meets the **Meghna**. From that join onward the combined outlet is commonly called the **Meghna system**, which drains into the **Bay of Bengal**.
 - The world’s largest delta is the **Ganga–Brahmaputra–Meghna (Sundarbans)** delta. It lies between the **Hooghly** in the west and the **Meghna** in the east.
-- The Ganga is often cited as an **antecedent** river. The classic antecedent exam set remains **Indus, Sutlej, Brahmaputra**; many PCS keys also tag Ganga.
+- The Ganga is often cited as an **antecedent** river. The classic antecedent set remains **Indus, Sutlej, Brahmaputra**; many PCS keys also tag Ganga.
 - **Left-bank (Himalayan) tributaries** join from the north: Ramganga, Gomti, Ghaghara, Gandak, Kosi, Mahananda.
 - **Right-bank tributaries** come mainly from the peninsula: Yamuna, Son, Damodar (via Hooghly).
 
@@ -206,7 +206,7 @@ D. Only 1
 | **Damodar** | — | Joins **Hooghly**, not the main Ganga stem |
 
 - The **Ramganga** rises in Garhwal / Doodhatoli. It meets the Ganga at **Kannauj**.
-- The **Gomti** rises at **Gomat Taal** (Pilibhit). It is the usual exam lock for a Ganga tributary that **rises in the plains**. **Lucknow** sits on it. UPPCS 2018 tagged it a **biological disaster**.
+- The **Gomti** rises at **Gomat Taal** (Pilibhit). It is the usual key fact for a Ganga tributary that **rises in the plains**. **Lucknow** sits on it. UPPCS 2018 tagged it a **biological disaster**.
 - The **Ghaghara / Saryu** (Karnali in Nepal; Mapchachungo glacier class origin) is joined by the **Sharda / Kali**. It meets the Ganga near **Chhapra / Revilganj (Saran)**. **Ayodhya** sits on it.
 - The **Gandak** (also **Narayani** in Nepal; Kaligandak–Trishuli) joins the Ganga at **Sonpur near Patna**. It does **not** flow through Uttar Pradesh.
 - The **Kosi** is the **Sorrow of Bihar**. Sun Kosi, Arun, and Tamur meet in Nepal. It shifts course and floods. It joins the Ganga near **Kursela (Katihar)**.
@@ -214,7 +214,7 @@ D. Only 1
 - The **Son** rises at **Amarkantak** (near Narmada’s source). It is the main **north-flowing** right-bank Ganga tributary and joins near **Patna**. Rihand and North Koel are Son tributaries. **Kaimur Range** divides the Son (south) from the Tons / Yamuna system (north).
 - The **Damodar** drains Chotanagpur in a **rift**. It is the **Sorrow of Bengal**. **Barakar** is its main tributary. It meets the Hooghly. Eden Canal is taken from Damodar.
 - The **Punpun** joins the Ganga at **Fatuha** (Patna).
-- **Jonk** is **not** a Ganga tributary. It joins the **Mahanadi** (2021 Q5).
+- **Jonk** is **not** a Ganga tributary. It joins the **Mahanadi**.
 
 #### Yamuna system — where tributaries meet
 
@@ -226,15 +226,15 @@ D. Only 1
 | **Hindon** | Left | NCR / western UP belt |
 | **Chambal** | Right | Near **Etawah** |
 | **Sind** | Right | Between Chambal and Betwa (Auraiya–Kalpi belt) |
-| **Betwa** | Right | **Hamirpur** — **not** Prayagraj (2023 Q55) |
+| **Betwa** | Right | **Hamirpur** — **not** Prayagraj |
 | **Ken** | Right | Near **Banda** |
 
 - Yamuna **right-bank** sequence, west → east: **Chambal → Sind → Betwa → Ken**.
 - The **Chambal** rises near **Mhow / Dr Ambedkar Nagar** on the Malwa Plateau (Janapao / Vindhya class). It is famous for **Chambal Ravines** (badlands), not the Damodar fault-valley tag.
 - The **Betwa** rises in the Vindhya. The **Ken** joins near Banda.
-- Paper numbering 1 Betwa, 2 Ken, 3 Sindh, 4 Chambal gives code **4, 3, 1, 2** (2020 Q68).
+- Paper numbering 1 Betwa, 2 Ken, 3 Sindh, 4 Chambal gives code **4, 3, 1, 2**.
 
-> **Exam note:** 2023 Q55 — Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh.
+> ** note:** 2023 Q55 — Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh.
 
 ### Panch Prayag and Uttarakhand
 
@@ -283,12 +283,12 @@ D. 2 4 1 3
 - It enters India west of Sadiya as **Siang / Dihang**. **Dibang** and **Lohit** join; thereafter it is the Brahmaputra in Assam.
 - In Assam the channel is **braided**. **Majuli** is the world’s largest inhabited river island (and India’s first island district).
 - Looking downstream in Assam (mostly westward flow): **right-bank (north)** tributaries include **Subansiri, Kameng, Manas, Sankosh, Teesta**. **Left-bank (south)** tributaries include **Burhi Dihing, Dhansiri, Kopili**.
-- The **Teesta** rises in Sikkim (Khangchung Chho class — **not** the same source as the Brahmaputra). **Rangeet** is a Teesta tributary from Sikkim. Teesta was once a Ganga tributary; **river capture** shifted it to the Brahmaputra (2021 Q63).
+- The **Teesta** rises in Sikkim (Khangchung Chho class — **not** the same source as the Brahmaputra). **Rangeet** is a Teesta tributary from Sikkim. Teesta was once a Ganga tributary; **river capture** shifted it to the Brahmaputra.
 - Near Dhubri the river enters Bangladesh. There the **Tista** joins, and the river is called the **Jamuna** (not the Yamuna).
 - The **Barak** rises in the Manipur hills (not Arunachal like Lohit/Subansiri). It becomes Surma–Kushiyara, then the **Meghna**, and reaches the **Bay of Bengal**. It is **not** inland drainage.
 - Padma is joined by Jamuna, then by Meghna; the combined Sundarbans delta lies between the Hooghly and the Meghna. The Bengal Delta is subdivided into **moribund, mature, and active** belts (UPPCS 2019 keys **Bengal** for “Moribund Delta” as a subdivision).
 
-> **Exam note:** Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh. Do not swap them with the Yamuna.
+> ** note:** Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh. Do not swap them with the Yamuna.
 
 ---
 
@@ -304,18 +304,18 @@ D. 2 4 1 3
 - It rises at **Trimbakeshwar, Nashik**, only about 80 km from the Arabian Sea, then flows east to the Bay.
 - Left-bank tributaries are larger. **Penganga, Wardha, and Wainganga** meet as the **Pranhita**. **Indravati** and **Sabari** also join on the left.
 - The **Manjra** is the main **right-bank** tributary (Nizam Sagar).
-- **Pranhita belongs to the Godavari**, not the Mahanadi (2023 Q49).
+- **Pranhita belongs to the Godavari**, not the Mahanadi.
 - Below Rajahmundry the river splits into **Gautami** and **Vashishta** and builds a **lobate** delta.
-- **Jayakwadi, Sriram Sagar, and Polavaram** are the exam projects.
+- **Jayakwadi, Sriram Sagar, and Polavaram** are the projects.
 
 ### Krishna
 
 - The Krishna is the second-largest east-flowing peninsular river (about **1400 km**, basin about **2.59 lakh km²**).
 - It rises just north of **Mahabaleshwar**.
 - **Right bank:** Ghataprabha, **Malaprabha**, **Tungabhadra**.
-- **Left bank:** **Bhima**, **Musi** (Hyderabad), Munneru.
+- **Left bank:Bhima**, **Musi** (Hyderabad), Munneru.
 - **Tungabhadra** is Tunga + Bhadra from the central Sahyadri.
-- **Srisailam** and **Nagarjuna Sagar** stand on the **Krishna**, not on the Tungabhadra (2025 Q92).
+- **Srisailam** and **Nagarjuna Sagar** stand on the **Krishna**, not on the Tungabhadra.
 - **Koyna** is a small tributary famous for its dam.
 - The Krishna and Godavari deltas **merge** on the Andhra coast.
 
@@ -375,7 +375,7 @@ D. Kabini *(paper: Kabam in some OCR)*
 - **Indira Sagar** is in Madhya Pradesh (Khandwa / Punasa belt). It is among the largest reservoirs on the Narmada chain.
 - **Omkareshwar** is also in Madhya Pradesh, downstream of Indira Sagar, near the Omkareshwar Jyotirlinga belt.
 - **Sardar Sarovar** is in Gujarat (Narmada district, near Navagam). It is the terminal multipurpose project of the Narmada Valley Development. Gujarat, Madhya Pradesh, Maharashtra, and Rajasthan share benefits. Do not confuse it with Indira Sagar (MP) or with Tapi’s **Ukai**.
-- The **Tapi (Tapti)** is the Narmada’s “twin.” It rises at **Multai** in the **Satpura**, **not** on the Western Ghats (2018 Q102). Length is about **724 km**. **Surat** sits near its mouth. **Ukai Dam** stands on the Tapi in Gujarat.
+- The **Tapi (Tapti)** is the Narmada’s “twin.” It rises at **Multai** in the **Satpura**, **not** on the Western Ghats. Length is about **724 km**. **Surat** sits near its mouth. **Ukai Dam** stands on the Tapi in Gujarat.
 - The **Mahi** rises on the Vindhya in Dhar district. It crosses Madhya Pradesh, Rajasthan, and Gujarat to the Gulf of Khambhat.
 - The **Sabarmati** rises in the Aravalli (Udaipur district). **Ahmedabad** and **Gandhinagar** sit on it.
 - Hundreds of short **Sahyadri torrents** drop west. The **Sharavati** makes **Jog / Gersoppa Falls**.
@@ -384,10 +384,10 @@ D. Kabini *(paper: Kabam in some OCR)*
 
 ### Inland and fault-valley drainage
 
-- The **Luni** (“salt river”) rises on the western Aravalli near **Ajmer**. It dies in the **Rann of Kachchh**. Water is **fresh in the upper course** and **saline below Balotra** (2019 Q84).
+- The **Luni** (“salt river”) rises on the western Aravalli near **Ajmer**. It dies in the **Rann of Kachchh**. Water is **fresh in the upper course** and **saline below Balotra**.
 - The **Ghaggar** is a seasonal Shiwalik stream. It fades in the Thar near Hanumangarh. It is the usual **Saraswati palaeo-channel**. It is **inland**.
 - **Barak is not inland.** It reaches the Bay through the Meghna.
-- **Fault / rift rivers:** **Narmada, Tapi, Damodar**. The exam phrase “famous for fault valley drainage” keys **Damodar** (2019 Q9). Chambal is ravines, not that tag.
+- **Fault / rift rivers:Narmada, Tapi, Damodar**. The phrase “famous for fault valley drainage” keys **Damodar**. Chambal is ravines, not that tag.
 
 ---
 
@@ -397,7 +397,7 @@ D. Kabini *(paper: Kabam in some OCR)*
 - The Yamuna waters Mathura and Agra, then the Sangam at **Prayagraj**.
 - The **Gomti** is Lucknow’s river.
 - The **Ghaghara / Saryu** is Ayodhya’s river.
-- The **Ramganga** meets the Ganga at **Kannauj**. The Ramganga Project dam is about **825.8 m** long and **198 MW** in Garhwal (2024 Q72 matched). The “**6 lakh ha** irrigated” figure is the **NOT matched** lock.
+- The **Ramganga** meets the Ganga at **Kannauj**. The Ramganga Project dam is about **825.8 m** long and **198 MW** in Garhwal (2024 Q72 matched). The “**6 lakh ha** irrigated” figure is the **NOT matched** fact.
 - The **Betwa** meets the Yamuna at **Hamirpur**. The **Ken** meets at **Banda**. **Ken–Betwa** is the link under implementation.
 - The **Chambal** meets at **Etawah**. The National Chambal Sanctuary is **Uttar Pradesh + Madhya Pradesh + Rajasthan**, **not Haryana**.
 - The **Hindon** is a Yamuna left-bank stream of western UP / NCR.
@@ -415,7 +415,7 @@ D. Kabini *(paper: Kabam in some OCR)*
 - **Cuspate delta** forms when waves from two directions meet the river mouth. **Ebro** (Spain) is cited; **Mahanadi** is often used in Indian match-lists.
 - **Lobate delta** is rounded with many shifting mouths. **Godavari** is sometimes classed here for its bulging front.
 - **Moribund delta** means a dying / inactive part of a delta. Rivers there are silted, poorly connected to the main channel, and add little new land. Ox-bow lakes and marshes are common.
-- In Indian exam geography, **Moribund** is a **subdivision of the Bengal (Ganga–Brahmaputra) Delta**, along with mature and active parts (UPPCS 2019). The moribund belt lies mainly in the older western / north-western delta where distributaries have decayed after the main Ganga discharge shifted east toward the Padma.
+- In Indian geography, **Moribund** is a **subdivision of the Bengal (Ganga–Brahmaputra) Delta**, along with mature and active parts (UPPCS 2019). The moribund belt lies mainly in the older western / north-western delta where distributaries have decayed after the main Ganga discharge shifted east toward the Padma.
 - Do **not** key Krishna–Godavari, Mahanadi, or Cauvery for that “subdivision” stem. Those are different deltas; Bengal alone is classed that way in the standard scheme.
 - **Estuary** replaces a delta where waves and tides dominate and the river mouth stays funnel-shaped — **Narmada, Tapi, Mandovi** on India's west coast.
 
@@ -426,11 +426,11 @@ D. Kabini *(paper: Kabam in some OCR)*
 - Short, fast west-flowing Western Ghat rivers also fail to build large deltas for the same reason.
 - World’s largest estuary class example is often the **St Lawrence**. India’s largest estuary mouths are on the **Narmada / Tapi** side.
 
-| Type | Meaning | Exam example |
+| Type | Meaning | example |
 |------|---------|--------------|
 | **Arcuate** | Fan-shaped front, many distributaries | Ganga–Brahmaputra (Sundarbans), Nile, Godavari–Krishna |
 | **Lobate** | Rounded bulge, many mouths | Godavari (often) |
-| **Bird’s-foot** | Long finger-like distributaries | **Mississippi** — **not** Ganga (2018 Q33) |
+| **Bird’s-foot** | Long finger-like distributaries | **Mississippi** — **not** Ganga |
 | **Cuspate** | Pointed front from opposing waves | Ebro; **Mahanadi** often cited for India |
 | **Moribund** | Dying / inactive **subdivision** of a large delta | **Bengal Delta** (2019) — with mature and active belts |
 | Estuarine mouth | Tidal funnel, little delta build-up | Narmada, Tapi |
@@ -511,14 +511,14 @@ D. Kabini *(paper: Kabam in some OCR)*
 | **Rihand** | Rihand (Son system) |
 | **Rajghat** | Betwa (UP–MP) |
 
-> **Exam note:** Dam–river traps: Pandoh ≠ Ravi; Srisailam ≠ Tungabhadra; Mettur ≠ Krishna; Hyderabad ≠ Krishna stem; **Sardar Sarovar** = Narmada in Gujarat (not Indira Sagar in MP; not Ukai on Tapi).
+> ** note:** Dam–river traps: Pandoh ≠ Ravi; Srisailam ≠ Tungabhadra; Mettur ≠ Krishna; Hyderabad ≠ Krishna stem; **Sardar Sarovar** = Narmada in Gujarat (not Indira Sagar in MP; not Ukai on Tapi).
 
 ### Drainage patterns, rejuvenation, basins
 
 | Pattern | Control | India |
 |---------|---------|-------|
 | **Dendritic** | Uniform rock | Indus, Godavari, Mahanadi, Krishna, Kaveri plains |
-| **Trellis** | **Folded** ridges and valleys | 2024 Q31 lock |
+| **Trellis** | **Folded** ridges and valleys | 2024 Q31 fact |
 | **Radial** | Dome or peak | **Amarkantak**, Girnar |
 | **Centripetal** | Closed basin | **Imphal / Loktak** |
 | **Parallel** | Steep uniform slope | Western Ghat torrents |
@@ -528,7 +528,7 @@ D. Kabini *(paper: Kabam in some OCR)*
 - **Rejuvenation** is renewed downcutting after uplift, base-level fall, or capture. Knickpoints, terraces, and incised meanders appear.
 - A **structural basin** is an enclosed lowland, often centripetal (Kashmir vale, Imphal).
 
-> **Exam note:** Folded structures → **trellis**, not dendritic, radial, or rectangular (2024 Q31).
+> ** note:** Folded structures → **trellis**, not dendritic, radial, or rectangular.
 
 ---
 
@@ -542,10 +542,10 @@ D. Kabini *(paper: Kabam in some OCR)*
 | **NW-4** | Krishna–Godavari canals |
 | **NW-5** | Brahmani–Mahanadi–Paradip |
 
-- The National Waterways Act **2016** declared **106** waterways. Exam core remains NW-1 to NW-5. Awareness names: **NW-16 Barak**, **NW-97 Yamuna**, **NW-37 Gandak**.
+- The National Waterways Act **2016** declared **106** waterways. core remains NW-1 to NW-5. Awareness names: **NW-16 Barak**, **NW-97 Yamuna**, **NW-37 Gandak**.
 - The most navigable rivers are the **Ganga, Brahmaputra, and Mahanadi**. Godavari, Krishna, Narmada, and Tapi are navigable mainly near their mouths.
 - **Interlinking (NPP):** NWDA / Jal Shakti. The plan lists **16 peninsular + 14 Himalayan** links. The aim is surplus to deficit, plus flood, drought, power, and navigation.
-- **Ken–Betwa** is the **only priority NPP link under implementation** (Cabinet 2021; foundation **25 December 2024**). Both rivers are in the **Yamuna** basin. The project is **Madhya Pradesh–Uttar Pradesh Bundelkhand**. **Daudhan dam** and **Panna Tiger Reserve** submergence are the ecology locks.
+- **Ken–Betwa** is the **only priority NPP link under implementation** (Cabinet 2021; foundation **25 December 2024**). Both rivers are in the **Yamuna** basin. The project is **Madhya Pradesh–Uttar Pradesh Bundelkhand**. **Daudhan dam** and **Panna Tiger Reserve** submergence are the ecology facts.
 - Polavaram includes Godavari–Krishna link assistance.
 - Disputes: **Cauvery** (Karnataka–Tamil Nadu). **Krishna** (Maharashtra–Karnataka–Telangana–Andhra Pradesh). **Ravi–Beas / SYL** (Punjab–Haryana). **Narmada** (Gujarat–Madhya Pradesh–Maharashtra–Rajasthan). Law: ISRWD Act 1956 and Article **262**.
 - Namami Gange and GAP (1985) clean the Ganga on the NW-1 stretch.
@@ -554,7 +554,7 @@ D. Kabini *(paper: Kabam in some OCR)*
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click *Show answer* under each question to reveal.  
+> **Answers hidden** — click *Show answer* under each question to reveal.
 > **Format mix:** 63 questions — mix of multi-statement, A/R, match, NOT-matched, sequence, and direct recall
 
 **Q1.** With reference to the drainage system of India, which of the following statements is/are correct?
@@ -821,7 +821,7 @@ D. Cauvery Delta
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Stem says **subdivision** — that language matches Bengal’s moribund / mature / active scheme, not “which river’s whole delta is old.”
+**Logic:** Stem says **subdivision** — that language matches Bengal’s moribund / mature / active scheme, not “which river’s whole delta is old.”
 
 **Ans: C** — UPPCS 2019: “Moribund Delta” is a **subdivision of the Bengal Delta**. Krishna–Godavari, Mahanadi, and Cauvery are distractors; Cauvery is the usual wrong pick.
 </details>
@@ -839,7 +839,7 @@ D. Ramganga
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UPPCS 2019 Q9: Damodar rift valley. Chambal has gorges but exam tag is Damodar. **A/C/D** are not standard fault-valley answers.
+**Ans: B** — UPPCS 2019 Q9: Damodar rift valley. Chambal has gorges but tag is Damodar. **A/C/D** are not standard fault-valley answers.
 </details>
 
 **Q16.** In which of the following rivers does the upper course contain fresh water but saline water flow in the lower part?
@@ -1201,7 +1201,7 @@ D. 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Bird’s-foot ≠ Ganga; Moribund subdivision ≠ Cauvery for the UPPCS subdivision stem.
+**Logic:** Bird’s-foot ≠ Ganga; Moribund subdivision ≠ Cauvery for the UPPCS subdivision stem.
 
 **Ans: A** — Bird's-foot = Mississippi (2); Arcuate = Ganga–Brahmaputra (1); Moribund subdivision = Bengal Delta (3).
 </details>
@@ -1529,7 +1529,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) are the PMF IAS / NCERT locks. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed exam example is **Chambal**.
+**Ans: A** — (1) and (2) are the PMF IAS / NCERT facts. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed example is **Chambal**.
 </details>
 
 **Q52.** Which of the following pairs is/are **NOT** correctly matched?
@@ -1591,7 +1591,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Standard west-flowing estuary lock. East-flowing Godavari–Krishna–Mahanadi–Kaveri build deltas.
+**Ans: A** — Standard west-flowing estuary fact. East-flowing Godavari–Krishna–Mahanadi–Kaveri build deltas.
 </details>
 
 **Q55.** Jog (Gersoppa) Falls is on which river?
@@ -1623,7 +1623,7 @@ D. Hooghly
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Tests Bangladesh name chain — Padma (Ganga) vs Jamuna (Brahmaputra) vs Meghna (Barak system after join).
+**Logic:** Tests Bangladesh name chain — Padma (Ganga) vs Jamuna (Brahmaputra) vs Meghna (Barak system after join).
 
 **Ans: B** — In Bangladesh the Ganga’s main stem is the **Padma**. Jamuna is the Brahmaputra. Meghna is the later combined outlet name. Hooghly is the Indian distributary via Farakka.
 </details>
@@ -1641,7 +1641,7 @@ D. Ramganga
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Origin type — plains lake vs Himalayan / plateau sources.
+**Logic:** Origin type — plains lake vs Himalayan / plateau sources.
 
 **Ans: C** — **Gomti** rises at **Gomat Taal** (Pilibhit). Son rises at Amarkantak. Sharda/Ramganga are Himalayan-fed systems.
 </details>
@@ -1659,7 +1659,7 @@ D. Gandak
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Bank + direction — Himalayan left-bank streams flow south; Son is the north-flowing right-bank lock.
+**Logic:** Bank + direction — Himalayan left-bank streams flow south; Son is the north-flowing right-bank fact.
 
 **Ans: C** — **Son** rises near Amarkantak and flows north to join the Ganga near Patna. The others are left-bank Himalayan streams flowing south.
 </details>
@@ -1677,7 +1677,7 @@ D. Ujjain — Kshipra
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** City on tributary vs main stem — Hyderabad sits on Musi, not Krishna.
+**Logic:** City on tributary vs main stem — Hyderabad sits on Musi, not Krishna.
 
 **Ans: B** — Hyderabad is on the **Musi** (a Krishna tributary). Vijayawada is the classic Krishna-bank city. Others are correctly matched.
 </details>
@@ -1703,7 +1703,7 @@ D. (A) is false, but (R) is true
 
 **A/R logic:** A tests estuary vs delta at Narmada mouth. R tests structural/silt reason. R explains A.
 
-**Ans: A** — Narmada builds an **estuary**, not a delta. Rift course + hard rock + little silt explain why. Trap: “A true but R false” if you deny the rift lock.
+**Ans: A** — Narmada builds an **estuary**, not a delta. Rift course + hard rock + little silt explain why. Trap: “A true but R false” if you deny the rift fact.
 </details>
 
 **Q61.** The sharp “U” turn of the Brahmaputra near Namcha Barwa is best explained by:
@@ -1719,7 +1719,7 @@ D. Artificial diversion into the Meghna
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Geomorphic cause of Tsangpo bend — eastern Himalayan syntaxial bend, not capture or diversion.
+**Logic:** Geomorphic cause of Tsangpo bend — eastern Himalayan syntaxial bend, not capture or diversion.
 
 **Ans: B** — The bend around **Namcha Barwa** is linked to the eastern **syntaxial bend** of the young Himalaya. After the turn the river enters India as Siang/Dihang.
 </details>
@@ -1737,7 +1737,7 @@ D. Mandakini
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Two Dhauligangas — Vishnuprayag Dhauli joins Alaknanda; Eastern Dhauliganga joins Kali/Sharda.
+**Logic:** Two Dhauligangas — Vishnuprayag Dhauli joins Alaknanda; Eastern Dhauliganga joins Kali/Sharda.
 
 **Ans: B** — Eastern Dhauliganga joins the **Kali**. Do not confuse with Dhauli Ganga of Vishnuprayag on the Alaknanda.
 </details>
@@ -1765,7 +1765,7 @@ D. 3, 1, 4, 2
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Length ranking — Godavari > Krishna > Narmada > Mahanadi.
+**Logic:** Length ranking — Godavari > Krishna > Narmada > Mahanadi.
 
 **Ans: C** — Godavari (~1465) → Krishna (~1400) → Narmada (~1312) → Mahanadi (~851). Trap: putting Narmada first because it is the longest west-flowing river.
 </details>
@@ -1774,7 +1774,7 @@ D. 3, 1, 4, 2
 
 ## Complete PYQ Bank
 
-> **Answers hidden** — click *Show answer* under each question to reveal.  
+> **Answers hidden** — click *Show answer* under each question to reveal.
 > **Coverage:** All 25 UPPCS Prelims drainage hits (2018–2025) mapped to this topic — grouped **2025 → 2018**.
 
 **Q1. UPPCS Prelims 2025, Q92**
@@ -2181,7 +2181,7 @@ D. Cauvery Delta
 <details>
 <summary>Show answer</summary>
 
-**Exam logic:** Word **subdivision** points to Bengal’s moribund–mature–active classification, not to naming Cauvery as an ageing delta.
+**Logic:** Word **subdivision** points to Bengal’s moribund–mature–active classification, not to naming Cauvery as an ageing delta.
 
 **Ans: C** — Moribund is a subdivision of the **Bengal Delta**. Cauvery is the common trap option.
 </details>
@@ -2291,30 +2291,30 @@ D. None of the above
 | **2025–26** | **Only** priority NPP link in implementation (30 identified: 16 peninsular + 14 Himalayan); NWDA nodal | “How many links operational?” trap | Rajya Sabha / Jal Shakti Aug 2026 |
 | **2026** | Spend ~₹12,382 cr to Jun 2026; target ~Mar 2030; Bundelkhand MP–UP; **Panna TR** forest | Cost / ecology pairing | LS Q Aug 2026 |
 | Ongoing | Polavaram includes Godavari–Krishna (Vijayawada) link assistance | Peninsular grid | PIB |
-| 2016 | National Waterways Act — 106 NWs; exam core still NW-1 to NW-5 | Number vs names | Act |
+| 2016 | National Waterways Act — 106 NWs; core still NW-1 to NW-5 | Number vs names | Act |
 
-Namami Gange / GAP = Ganga cleaning programmes (not a river-origin lock).
+Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-1. **Pranhita → Mahanadi** — FALSE. **Godavari** (2023 Q49).
-2. **Betwa joins Yamuna at Prayagraj** — FALSE. **Hamirpur** (2023 Q55).
+1. **Pranhita → Mahanadi** — FALSE. **Godavari**.
+2. **Betwa joins Yamuna at Prayagraj** — FALSE. **Hamirpur**.
 3. **Any Prayag forms the Ganga** — FALSE. Only **Devprayag** (Alaknanda + Bhagirathi).
-4. **Ganga delta = bird’s-foot** — FALSE. **Mississippi**; Ganga is **arcuate** (2018 Q33).
+4. **Ganga delta = bird’s-foot** — FALSE. **Mississippi**; Ganga is **arcuate**.
 5. **Moribund delta subdivision = Cauvery / Krishna–Godavari** — FALSE. UPPCS 2019 keys **Bengal Delta** (moribund / mature / active). Cauvery is the usual trap.
-6. **Tapi from Western Ghats** — FALSE. **Multai, Satpura** (2018 Q102).
-7. **Jonk in Ganga basin** — FALSE. **Mahanadi** (2021 Q5).
-8. **Srisailam on Tungabhadra / Pandoh on Ravi** — FALSE. **Krishna / Beas** (2025 Q92).
-9. **Pennar and Palar → Arabian Sea** — FALSE. **Bay of Bengal**; Periyar is west (2025 Q116).
-10. **Fault-valley exam tag = Chambal** — FALSE. **Damodar** (2019 Q9).
-11. **Folded structure = dendritic** — FALSE. **Trellis** (2024 Q31).
-12. **Trans-Himalayan = Jhelum or Ravi** — FALSE. **Sutlej** among usual options (2020 Q52). Also Indus and Brahmaputra are Trans-Himalayan; Ganga is not the pick in that set.
+6. **Tapi from Western Ghats** — FALSE. **Multai, Satpura**.
+7. **Jonk in Ganga basin** — FALSE. **Mahanadi**.
+8. **Srisailam on Tungabhadra / Pandoh on Ravi** — FALSE. **Krishna / Beas**.
+9. **Pennar and Palar → Arabian Sea** — FALSE. **Bay of Bengal**; Periyar is west.
+10. **Fault-valley tag = Chambal** — FALSE. **Damodar**.
+11. **Folded structure = dendritic** — FALSE. **Trellis**.
+12. **Trans-Himalayan = Jhelum or Ravi** — FALSE. **Sutlej** among usual options. Also Indus and Brahmaputra are Trans-Himalayan; Ganga is not the pick in that set.
 13. **Chambal Sanctuary includes Haryana** — FALSE. **UP, MP, Rajasthan** only (2020).
-14. **UP biological disaster = Yamuna** — FALSE. **Gomti** (2018 Q99).
-15. **Barak = inland saline like Luni** — FALSE. Barak → **BoB**; Luni = fresh upper / saline lower (2019 Q84).
-16. **Indus / Sutlej / Brahmaputra = superimposed** — FALSE. They are **antecedent**. Superimposed exam example = **Chambal**.
+14. **UP biological disaster = Yamuna** — FALSE. **Gomti**.
+15. **Barak = inland saline like Luni** — FALSE. Barak → **BoB**; Luni = fresh upper / saline lower.
+16. **Indus / Sutlej / Brahmaputra = superimposed** — FALSE. They are **antecedent**. Superimposed example = **Chambal**.
 17. **Hemavati → Mahanadi** — FALSE. **Kaveri**.
 18. **Largest share of river *water* = Ganga basin area rank** — FALSE. **Brahmaputra** ~40% of water; Ganga is the largest **Indian basin by area**.
 19. **Hyderabad on Krishna** — FALSE. On **Musi** (Krishna tributary).

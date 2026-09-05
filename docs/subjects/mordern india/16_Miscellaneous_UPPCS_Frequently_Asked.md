@@ -8,14 +8,14 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 </details>
 
-> **Sources baked in:** Spectrum match lists, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — this file is a **drill vault**, not a second textbook  
-> **Last verified:** August 2026  
+> **Sources baked in:** Spectrum match lists, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — this file is a **drill vault**, not a second textbook
+> **Last verified:** August 2026
 > **Boundary:** This file is a **match vault**. Event stories sit in the earlier Modern India chapters. Drill from the tables; do not re-learn narrative here.
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. **“Swaraj is my birthright and I shall have it”** is **Tilak**. **“Do or Die”** is **Gandhi** at Quit India (**8 August 1942**).
 2. **“Inquilab Zindabad”** was coined by **Hasrat Mohani** and popularised by **Bhagat Singh**. It is not Bose’s slogan.
@@ -30,11 +30,11 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 11. **Belgaum 1924** is Gandhi’s **only** presidentship. **Lahore 1929** is **Purna Swaraj**. **Karachi 1931** (Patel) is Fundamental Rights. **Faizpur 1937** is the first village session.
 12. **Tilak never** became Congress President. Bose held **1938–39**; Azad held **Ramgarh 1940**.
 13. UP 1857: **Lucknow = Begum Hazrat Mahal**; **Allahabad = Liyaqat Ali** — never swap.
-14. UP map locks: **Kakori 9 Aug 1925**; **Chauri Chaura 4/5 Feb 1922 (Gorakhpur)**; **Azad Park, Allahabad**.
-15. Treaty year locks: **Allahabad 1765**, **Madras 1769**, **Salbai 1782**, **Mangalore 1784**. Chronological order is Allahabad → Madras → Salbai → Mangalore.
+14. UP map facts: **Kakori 9 Aug 1925**; **Chauri Chaura 4/5 Feb 1922 (Gorakhpur)**; **Azad Park, Allahabad**.
+15. Treaty year facts: **Allahabad 1765**, **Madras 1769**, **Salbai 1782**, **Mangalore 1784**. Chronological order is Allahabad → Madras → Salbai → Mangalore.
 16. Education commissions ladder: **Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944**.
 17. **Hunter Commission 1882** is education. **Hunter Committee 1919** is the Jallianwala inquiry — different bodies.
-18. Mission year locks: **Simon 1927**, **Nehru Report 1928**, **Cripps 1942**, **Cabinet Mission 1946**.
+18. Mission year facts: **Simon 1927**, **Nehru Report 1928**, **Cripps 1942**, **Cabinet Mission 1946**.
 19. Official ↔ policy: **Curzon — Partition 1905**; **Minto — separate electorates 1909**; **Chelmsford — Montford 1919**; **Irwin — Gandhi–Irwin Pact 1931**; **Willingdon — Communal Award 1932**; **Mountbatten — 3 June Plan**.
 20. **Shanti Ghosh** is a **1931 Bengal** revolutionary name. **Aruna Asaf Ali** is **Quit India 1942** — do not swap.
 21. INA trials sat at the **Red Fort**, not Gwalior Fort.
@@ -42,13 +42,13 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 23. ***Poverty and Un-British Rule*** = Naoroji **1901**. ***Economic Nationalism*** historiography = **Bipan Chandra**.
 24. ***Anandamath*** = Bankim; ***Hind Swaraj*** = Gandhi; ***Discovery of India*** = Nehru; ***India Wins Freedom*** = Azad; ***Gita Rahasya*** = Tilak.
 25. **Simon Go Back** is locked to the anti-Simon agitation and the **Lajpat Rai** association.
-26. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle lock.
+26. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle fact.
 27. This file is a **match vault**: slogans, press, sessions, treaties and UP names — event stories live in earlier chapters.
 28. Drill first the slogan six, the INC “first” six, the committee/mission six, and the British-official six — those rows carry the heaviest repeat weight.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -71,7 +71,7 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 **This topic is the slogan home.** Event stories stay with Swadeshi, Home Rule and the final phase.
 
-| Slogan | Person | Lock |
+| Slogan | Person | Role |
 |--------|--------|------|
 | **Swaraj is my birthright and I shall have it** | **Bal Gangadhar Tilak** | Not Gokhale, not Gandhi |
 | **Inquilab Zindabad** | Coined **Hasrat Mohani**; popularised by **Bhagat Singh** | Not Bose |
@@ -91,7 +91,7 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 | **Educate, Agitate, Organise** | **B.R. Ambedkar** | Bahishkrit Hitkarini Sabha motto |
 | **Self-Respect (Suyamariyadai)** | **E.V. Ramasamy “Periyar”** | Self-Respect Movement, 1925, Tamil Nadu |
 
-> **Exam note:** Tilak ≠ Do or Die. Bose ≠ Inquilab. Vande Mataram ≠ Jana Gana Mana.
+> ** note:** Tilak ≠ Do or Die. Bose ≠ Inquilab. Vande Mataram ≠ Jana Gana Mana.
 
 ---
 
@@ -161,7 +161,7 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 
 ## 16.4 Committees and commissions
 
-| Body | Year | Lock |
+| Body | Year | Fact |
 |------|------|------|
 | **Wood’s Despatch** | **1854** | Magna Carta of English education |
 | **Hunter Commission** (education) | **1882** | W.W. Hunter; primary education |
@@ -191,7 +191,7 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 
 **2018 Q21:** Wood → Hunter → Sadler → Sargeant = **C, A, B, D**.
 
-> **Exam note:** Two Hunters. **1882 education**. **1919 Punjab**.
+> ** note:** Two Hunters. **1882 education**. **1919 Punjab**.
 
 ---
 
@@ -199,7 +199,7 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 
 This is the **Acts timeline**. Full Act stories sit with Governors-General, administration and the press.
 
-| Year | Act | One lock |
+| Year | Act | One fact |
 |------|-----|----------|
 | **1773** | Regulating Act | GG of Bengal; Supreme Court Calcutta |
 | **1784** | Pitt’s India Act | Board of Control; dual control |
@@ -227,7 +227,7 @@ This is the **Acts timeline**. Full Act stories sit with Governors-General, admi
 
 This is the **treaty match table**. War stories sit with Company expansion.
 
-| Treaty | Year | War / lock |
+| Treaty | Year | War / fact |
 |--------|------|------------|
 | **Aix-la-Chapelle** | **1748** | 1st Carnatic ends; **Madras returned** to English — 2025 Q67 Both |
 | **Allahabad** | **1765** | Dual government / Diwani |
@@ -252,7 +252,7 @@ This is the **treaty match table**. War stories sit with Company expansion.
 
 This is the **INC session match table**. Early-nationalist story sits with Rise of Nationalism.
 
-| Year | Place | President | Resolution / lock |
+| Year | Place | President | Resolution / fact |
 |------|-------|-----------|-------------------|
 | **1885** | Bombay | W.C. Bonnerjee | First session |
 | **1886** | Calcutta | Dadabhai Naoroji | |
@@ -283,7 +283,7 @@ This is the **INC session match table**. Early-nationalist story sits with Rise 
 
 **2021 Q50:** who **never** presided? **Tilak**.
 
-> **Exam note:** Besant ≠ first *Indian* woman (that is **Sarojini**). Gandhi President = **Belgaum only**.
+> ** note:** Besant ≠ first *Indian* woman (that is **Sarojini**). Gandhi President = **Belgaum only**.
 
 ---
 
@@ -309,14 +309,14 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **Indian Independence League** | **1942, Tokyo/Singapore** | Rash Behari Bose; precursor body for the INA |
 | **Azad Hind Fauj / INA** | **1942** (Mohan Singh), reorganised **1943** | Subhas Chandra Bose |
 
-**2018 Q22:** Abhinav Bharat = **Savarkar** (not Bhagat Singh).  
+**2018 Q22:** Abhinav Bharat = **Savarkar** (not Bhagat Singh).
 **2023 Q42:** Hardinge bomb = **Anushilan Samiti**.
 
 ---
 
 ## 16.9 Freedom fighters of Uttar Pradesh
 
-| Person / event | Lock |
+| Person / event | Fact |
 |----------------|------|
 | **Mangal Pandey** | Barrackpore **29 Mar 1857**; UP origin (Ballia/Nagwa memory) |
 | **Nana Saheb** | Kanpur 1857 |
@@ -346,7 +346,7 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 
 ## 16.10 Women freedom fighters
 
-| Woman | Lock | NOT |
+| Woman | Fact | NOT |
 |-------|------|-----|
 | **Rani Lakshmibai** | Jhansi 1857 | |
 | **Jhalkari Bai** | 1857, **Jhansi**; a Dalit soldier who resembled Rani Lakshmibai in the battle | Not the Rani herself |
@@ -375,7 +375,7 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 
 This is the **Governor-General policy match table**. Full tenure cards sit with Governors-General and Viceroys.
 
-| Official | Policy lock |
+| Official | Policy fact |
 |----------|-------------|
 | Warren Hastings | 1st GG Bengal; Rohilla; Impey |
 | Cornwallis | Permanent Settlement; civil services |
@@ -402,7 +402,7 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 
 ## 16.12 Forts, monuments and museums (Modern India)
 
-| Place | Lock |
+| Place | Fact |
 |-------|------|
 | **Red Fort, Delhi** | **INA Trials 1945–46** — 2019 Q21; **not** Gwalior / Agra / Amer |
 | **Jallianwala Bagh, Amritsar** | 13 April 1919 |
@@ -465,7 +465,7 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 
 ---
 
-## Must-score locks — highest-yield vault rows
+## Must-score facts — highest-yield vault rows
 
 ### Slogan ↔ person (top 6)
 
@@ -511,13 +511,13 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 | Willingdon | Communal Award, 1932 |
 | Mountbatten | 3 June Plan; last Viceroy |
 
-> **Exam note:** These four tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
+> ** note:** These four tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
 
 ---
 
 ## UP Focus
 
-| Lock | |
+| Fact | |
 |------|--|
 | Lucknow 1857 | **Hazrat Mahal**, not Liyaqat Ali |
 | Allahabad 1857 | **Liyaqat Ali** |
@@ -532,8 +532,8 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 
 ---
 
-**Q1.** Match slogans: A. Swaraj is my birthright  B. Inquilab Zindabad  C. Do or Die  D. Give me blood  
-With: 1. Gandhi  2. Tilak  3. Bose  4. Hasrat / Bhagat stream
+**Q1.** Match slogans: A. Swaraj is my birthright B. Inquilab Zindabad C. Do or Die D. Give me blood
+With: 1. Gandhi 2. Tilak 3. Bose 4. Hasrat / Bhagat stream
 
 A. 2 4 1 3
 
@@ -571,7 +571,7 @@ D. Pulin Bihari
 
 ---
 
-**Q3.** Arrange: A. Hunter Commission  B. Sadler Commission  C. Wood’s Despatch  D. Sargeant Plan
+**Q3.** Arrange: A. Hunter Commission B. Sadler Commission C. Wood’s Despatch D. Sargeant Plan
 
 A. A B D C
 
@@ -590,8 +590,8 @@ D. C A B D
 
 ---
 
-**Q4.** Match treaties: A. Allahabad  B. Mangalore  C. Salbai  D. Madras  
-With: 1. 1782  2. 1784  3. 1769  4. 1765
+**Q4.** Match treaties: A. Allahabad B. Mangalore C. Salbai D. Madras
+With: 1. 1782 2. 1784 3. 1769 4. 1765
 
 A. 4 2 3 1
 
@@ -667,8 +667,8 @@ D. Lucknow — Liyaqat Ali
 
 ---
 
-**Q8.** Match books: A. Story of My Deportation  B. Gita Rahasya  C. A Nation in Making  D. India Wins Freedom  
-With: 1. Banerjee  2. Azad  3. Lajpat Rai  4. Tilak
+**Q8.** Match books: A. Story of My Deportation B. Gita Rahasya C. A Nation in Making D. India Wins Freedom
+With: 1. Banerjee 2. Azad 3. Lajpat Rai 4. Tilak
 
 A. 3 4 1 2
 
@@ -727,7 +727,7 @@ D. Agra Fort
 
 **Q11.** With reference to INC Presidents, which of the following statements is/are correct?
 
-1. Annie Besant was the first woman President (1917).  
+1. Annie Besant was the first woman President (1917).
 2. Sarojini Naidu was the first Indian woman President (1925).
 
 A. Only 1
@@ -785,8 +785,8 @@ D. Kesari — Gorakhpur
 
 ---
 
-**Q14.** Match: A. Lahore 1929  B. Karachi 1931  C. Faizpur 1937  D. Haripura 1938  
-With: 1. Bose  2. Purna Swaraj  3. First village session  4. FR resolution (Patel)
+**Q14.** Match: A. Lahore 1929 B. Karachi 1931 C. Faizpur 1937 D. Haripura 1938
+With: 1. Bose 2. Purna Swaraj 3. First village session 4. FR resolution (Patel)
 
 A. 2 4 3 1
 
@@ -828,10 +828,10 @@ D. Yugantar
 
 Reason (R): Hasrat Mohani coined it; Bhagat Singh popularised it.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -845,7 +845,7 @@ D. (A) is false, but (R) is true
 
 **Q17.** Consider the following statements:
 
-1. Vande Mataram is the national anthem.  
+1. Vande Mataram is the national anthem.
 2. Jana Gana Mana was sung at the 1911 Calcutta session.
 
 A. Only 1
@@ -867,8 +867,8 @@ D. Neither 1 nor 2
 
 **Q18.** Which of the following pairs are NOT correctly matched?
 
-1. Do or Die — Gandhi, 1942  
-2. Give me blood — Bose  
+1. Do or Die — Gandhi, 1942
+2. Give me blood — Bose
 3. Do or Die — Bose, INA
 
 A. Only 3
@@ -888,8 +888,8 @@ D. Only 1
 
 ---
 
-**Q19.** Match: A. HRA  B. HSRA  C. Ghadar  D. Abhinav Bharat  
-With: 1. 1913 San Francisco  2. 1924 Kanpur  3. Savarkar  4. 1928
+**Q19.** Match: A. HRA B. HSRA C. Ghadar D. Abhinav Bharat
+With: 1. 1913 San Francisco 2. 1924 Kanpur 3. Savarkar 4. 1928
 
 A. 2 4 1 3
 
@@ -910,7 +910,7 @@ D. 2 1 4 3
 
 **Q20.** With reference to Hunter, which of the following statements is/are correct?
 
-1. Hunter Commission 1882 dealt with education.  
+1. Hunter Commission 1882 dealt with education.
 2. Hunter Committee 1919 inquired into Jallianwala.
 
 A. Only 1
@@ -968,8 +968,8 @@ D. INA Trials — Gwalior Fort
 
 ---
 
-**Q23.** Match: A. Madam Cama  B. Lakshmi Sehgal  C. Usha Mehta  D. Pritilata Waddedar  
-With: 1. Congress Radio  2. Stuttgart 1907  3. Chittagong  4. Rani Jhansi Regiment
+**Q23.** Match: A. Madam Cama B. Lakshmi Sehgal C. Usha Mehta D. Pritilata Waddedar
+With: 1. Congress Radio 2. Stuttgart 1907 3. Chittagong 4. Rani Jhansi Regiment
 
 A. 2 4 1 3
 
@@ -990,7 +990,7 @@ D. 2 1 4 3
 
 **Q24.** Consider the following statements:
 
-1. Tyabji was the first Muslim President of Congress (1887).  
+1. Tyabji was the first Muslim President of Congress (1887).
 2. George Yule was the first English President (1888).
 
 A. Only 1
@@ -1012,7 +1012,7 @@ D. Neither 1 nor 2
 
 **Q25.** Aix-la-Chapelle (1748):
 
-1. Ended the First Carnatic War.  
+1. Ended the First Carnatic War.
 2. Madras was returned to the English.
 
 A. Only 1
@@ -1034,8 +1034,8 @@ D. Neither 1 nor 2
 
 **Q26.** Which of the following pairs are NOT correctly matched?
 
-1. Morley–Minto — separate electorates  
-2. Montagu–Chelmsford — dyarchy in provinces  
+1. Morley–Minto — separate electorates
+2. Montagu–Chelmsford — dyarchy in provinces
 3. GOI 1935 — dyarchy in provinces as the new start
 
 A. Only 3
@@ -1057,7 +1057,7 @@ D. Only 1
 
 **Q27.** Kakori conspiracy date and leaders:
 
-1. 9 August 1925  
+1. 9 August 1925
 2. Ram Prasad Bismil and Ashfaqullah Khan
 
 A. Only 1
@@ -1096,8 +1096,8 @@ D. 8 Aug 1942, Bombay
 
 ---
 
-**Q29.** Match: A. Dayanand  B. Narayana Guru  C. Bankim  D. Tilak  
-With: 1. Vande Mataram  2. Back to the Vedas  3. Swaraj birthright  4. One caste one religion one God
+**Q29.** Match: A. Dayanand B. Narayana Guru C. Bankim D. Tilak
+With: 1. Vande Mataram 2. Back to the Vedas 3. Swaraj birthright 4. One caste one religion one God
 
 A. 2 4 1 3
 
@@ -1120,10 +1120,10 @@ D. 2 1 4 3
 
 Reason (R): Annie Besant, an Irish woman, presided in 1917; Sarojini was the first Indian woman President in 1925.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1135,7 +1135,7 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q31.** SRC members among: 1. K.T. Shah  2. K.M. Panikkar  3. P. Sitaramayya  4. H.N. Kunzru
+**Q31.** SRC members among: 1. K.T. Shah 2. K.M. Panikkar 3. P. Sitaramayya 4. H.N. Kunzru
 
 A. 1 and 3
 
@@ -1192,8 +1192,8 @@ D. 1906
 
 ---
 
-**Q34.** Match: A. Vernacular Press Act  B. Arms Act  C. Ilbert Bill  D. Rowlatt  
-With: 1. 1919  2. 1878 Lytton  3. 1878 Lytton  4. 1883 Ripon
+**Q34.** Match: A. Vernacular Press Act B. Arms Act C. Ilbert Bill D. Rowlatt
+With: 1. 1919 2. 1878 Lytton 3. 1878 Lytton 4. 1883 Ripon
 
 A. 2 3 4 1
 
@@ -1233,7 +1233,7 @@ D. Cellular Jail
 
 **Q36.** Consider the following statements:
 
-1. Rani Jhansi Regiment was an INA women’s unit under Lakshmi Sehgal.  
+1. Rani Jhansi Regiment was an INA women’s unit under Lakshmi Sehgal.
 2. It was a regiment of 1857.
 
 A. Only 1
@@ -1274,8 +1274,8 @@ D. Allahabad, Yule
 
 **Q38.** Which of the following pairs are NOT correctly matched?
 
-1. Treaty of Sugauli — 1816  
-2. Treaty of Salbai — 1765  
+1. Treaty of Sugauli — 1816
+2. Treaty of Salbai — 1765
 3. Treaty of Allahabad — 1765
 
 A. Only 2
@@ -1297,7 +1297,7 @@ D. Only 1
 
 **Q39.** With reference to Karachi 1931, which of the following statements is/are correct?
 
-1. President was Vallabhbhai Patel.  
+1. President was Vallabhbhai Patel.
 2. It adopted a resolution on Fundamental Rights.
 
 A. Only 1
@@ -1336,7 +1336,7 @@ D. Tokyo
 
 ---
 
-**Q41.** Arrange: 1. Plassey  2. Buxar  3. Regulating Act  4. Permanent Settlement
+**Q41.** Arrange: 1. Plassey 2. Buxar 3. Regulating Act 4. Permanent Settlement
 
 A. 1, 2, 3, 4
 
@@ -1378,10 +1378,10 @@ D. Cellular Jail — INA Trials
 
 Reason (R): Begum Hazrat Mahal was the Lucknow leader; Liyaqat Ali is tied to Allahabad.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1412,8 +1412,8 @@ D. M.G. Ranade
 
 ---
 
-**Q45.** Match: A. Bentinck  B. Dalhousie  C. Curzon  D. Ripon  
-With: 1. Partition of Bengal  2. Sati abolition  3. Local self-government  4. Doctrine of Lapse
+**Q45.** Match: A. Bentinck B. Dalhousie C. Curzon D. Ripon
+With: 1. Partition of Bengal 2. Sati abolition 3. Local self-government 4. Doctrine of Lapse
 
 A. 2 4 1 3
 
@@ -1434,7 +1434,7 @@ D. 2 1 4 3
 
 **Q46.** Consider the following statements:
 
-1. 1909 Act introduced separate electorates for Muslims.  
+1. 1909 Act introduced separate electorates for Muslims.
 2. 1919 Act introduced dyarchy in the provinces.
 
 A. Only 1
@@ -1475,8 +1475,8 @@ D. Patel
 
 **Q48.** Which of the following pairs are NOT correctly matched?
 
-1. Pratap — Kanpur  
-2. Leader — Malaviya  
+1. Pratap — Kanpur
+2. Leader — Malaviya
 3. Independent — Tilak
 
 A. Only 3
@@ -1496,7 +1496,7 @@ D. Only 1
 
 ---
 
-**Q49.** Arrange: 1. Surat Split  2. Lucknow Pact  3. Lahore Purna Swaraj  4. Quit India
+**Q49.** Arrange: 1. Surat Split 2. Lucknow Pact 3. Lahore Purna Swaraj 4. Quit India
 
 A. 1, 2, 3, 4
 
@@ -1536,7 +1536,7 @@ D. Hunter Committee 1919
 
 **Q51.** With reference to the 1857 Revolt in Uttar Pradesh, which of the following statements is/are correct?
 
-1. Jhalkari Bai was a Dalit soldier who fought at Jhansi and resembled Rani Lakshmibai.  
+1. Jhalkari Bai was a Dalit soldier who fought at Jhansi and resembled Rani Lakshmibai.
 2. Uda Devi fought at Sikandar Bagh, Lucknow.
 
 A. Only 1
@@ -1594,8 +1594,8 @@ D. Meerut
 
 ---
 
-**Q54.** Match: A. Naujawan Bharat Sabha  B. Indian Independence League  C. Swadesh Bandhab Samiti  D. Azad Hind Fauj  
-With: 1. Ashwini Kumar Dutta  2. Bhagat Singh  3. Subhas Chandra Bose  4. Rash Behari Bose
+**Q54.** Match: A. Naujawan Bharat Sabha B. Indian Independence League C. Swadesh Bandhab Samiti D. Azad Hind Fauj
+With: 1. Ashwini Kumar Dutta 2. Bhagat Singh 3. Subhas Chandra Bose 4. Rash Behari Bose
 
 A. 2 4 1 3
 
@@ -1635,7 +1635,7 @@ D. Hindoo Patriot — Surendranath Banerjee
 
 **Q56.** Consider the following statements on the Indian Independence Act, 1947:
 
-1. It provided for Partition and Dominion status for India and Pakistan.  
+1. It provided for Partition and Dominion status for India and Pakistan.
 2. Lord Mountbatten became the first Governor-General of independent India under it.
 
 A. Only 1
@@ -1661,7 +1661,7 @@ D. Neither 1 nor 2
 
 ### UPPCS Prelims 2025
 
-**Q1. 2025 Q67** — Aix-la-Chapelle: 1. First Carnatic War ended  2. Madras returned to the English. **Ans: C (Both).** Home T2.
+**Q1. 2025 Q67** — Aix-la-Chapelle: 1. First Carnatic War ended 2. Madras returned to the English. **Ans: C (Both).** Home T2.
 
 **Q2. 2025 Q71** — SRC members: Panikkar and Kunzru (**2 and 4**). **Ans: B.** Home T15.
 
@@ -1677,8 +1677,8 @@ D. Neither 1 nor 2
 
 Match List-I with List-II.
 
-**List-I (Newspaper)** A. Swadesh (*local file prints Kesari*)  B. Bharat Bandhu  C. Satyawadi  D. Shakti  
-**List-II** 1. Agra  2. Almora  3. Hathras  4. Gorakhpur
+**List-I (Newspaper)** A. Swadesh (*local file prints Kesari*) B. Bharat Bandhu C. Satyawadi D. Shakti
+**List-II** 1. Agra 2. Almora 3. Hathras 4. Gorakhpur
 
 A. 3, 2, 1, 4
 
@@ -1707,12 +1707,12 @@ D. 1, 2, 3, 4
 
 Match List-I (Book) with List-II (Writer).
 
-A. The Story of My Deportation  
-B. Gita Rahasya  
-C. A Nation in Making  
+A. The Story of My Deportation
+B. Gita Rahasya
+C. A Nation in Making
 D. India Wins Freedom
 
-1. Surendranath Banerjee  2. Maulana Abul Kalam Azad  3. Lala Lajpat Rai  4. Bal Gangadhar Tilak
+1. Surendranath Banerjee 2. Maulana Abul Kalam Azad 3. Lala Lajpat Rai 4. Bal Gangadhar Tilak
 
 A. 3 4 1 2
 
@@ -1735,8 +1735,8 @@ D. 4 3 2 1
 
 **Q10. 2019 Q93**
 
-Match: A. Treaty of Allahabad  B. Treaty of Manglore  C. Treaty of Salbai  D. Treaty of Madras  
-With: 1. 1782  2. 1784  3. 1769  4. 1765
+Match: A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
+With: 1. 1782 2. 1784 3. 1769 4. 1765
 
 A. 4 2 3 1
 
@@ -1759,7 +1759,7 @@ D. 2 4 1 3
 
 **Q12. 2018 Q21**
 
-Arrange: A. Hunter Commission  B. Sadlar Commission  C. Wood's Despatch  D. Sargeant Plan
+Arrange: A. Hunter Commission B. Sadlar Commission C. Wood's Despatch D. Sargeant Plan
 
 A. A B D C
 
@@ -1797,7 +1797,7 @@ D. C A B D
 11. **Vande Mataram = anthem** → **song**. Anthem = **Jana Gana Mana**.
 12. **Salbai = 1765** → **1782**. 1765 = **Allahabad**.
 13. **Young India = Tilak** → **Gandhi**. Tilak = **Kesari / Mahratta**.
-14. **Tilak was Congress President** → **never** (2021 Q50).
+14. **Tilak was Congress President** → **never**.
 15. **Rani Jhansi Regiment = 1857** → **INA**, Lakshmi Sehgal.
 16. **Karachi 1931 = Nehru President** → **Patel**; Nehru = Lahore 1929.
 17. **Faizpur = first English President** → first **village** session; first English = **Yule 1888**.

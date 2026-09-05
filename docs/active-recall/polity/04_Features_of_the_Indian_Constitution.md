@@ -797,7 +797,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: In a crisis the Centre can override the normal federal division.** Ambedkar’s lock is that the Constitution can work federally in peace and like a unitary system in Emergency.
+**Ans: In a crisis the Centre can override the normal federal division.** Ambedkar’s fact is that the Constitution can work federally in peace and like a unitary system in Emergency.
 
 </details>
 
@@ -828,7 +828,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Formation and alteration of States (Arts. 2–4) and abolition or creation of Legislative Councils (Art. 169)** are the standard locks. These paths are like ordinary legislation and are not counted as Art. 368 amendments.
+**Ans: Formation and alteration of States (Arts. 2–4) and abolition or creation of Legislative Councils (Art. 169)** are the standard facts. These paths are like ordinary legislation and are not counted as Art. 368 amendments.
 
 </details>
 
@@ -846,7 +846,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Federal provisions.** Locks include election of the President, extent of Union and State executive power, Supreme Court and High Courts, distribution of legislative powers, representation of States in Parliament, and Article 368 itself.
+**Ans: Federal provisions.** Facts include election of the President, extent of Union and State executive power, Supreme Court and High Courts, distribution of legislative powers, representation of States in Parliament, and Article 368 itself.
 
 </details>
 
@@ -958,7 +958,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: South Africa** is the usual coaching lock for the amendment procedure. Do not confuse it with the USA’s more uniformly rigid method.
+**Ans: South Africa** is the usual coaching fact for the amendment procedure. Do not confuse it with the USA’s more uniformly rigid method.
 
 </details>
 
@@ -1182,7 +1182,7 @@ D. 1, 2, 3, 4, 5 and 6
 <details>
 <summary>Show answer</summary>
 
-**Ans: Only Indian citizenship, not a separate State citizenship.** Source lock: UK.
+**Ans: Only Indian citizenship, not a separate State citizenship.** Source fact: UK.
 
 </details>
 
@@ -1209,7 +1209,7 @@ D. 1, 2, 3, 4, 5 and 6
 <details>
 <summary>Show answer</summary>
 
-**Ans: Courts can strike down unconstitutional law or action.** Source lock: USA.
+**Ans: Courts can strike down unconstitutional law or action.** Source fact: USA.
 
 </details>
 

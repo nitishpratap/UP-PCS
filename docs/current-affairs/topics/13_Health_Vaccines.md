@@ -1,6 +1,6 @@
 # Health & Vaccines
 
-> **Priority B**  
+> **Priority B**
 > Common stems: new vaccine, disease-free declaration, outbreak place, and new health institutes.
 
 ## What to note every time
@@ -68,7 +68,7 @@ If a WHO notice or new vaccine approval appears later, add it here with agency, 
 
 ### World TB Day | 24 March
 
-- Date lock: **24 March** every year.
+- Date fact: **24 March** every year.
 - Keep the year’s official theme only after locking a WHO or MoHFW note.
 
 ### Soft health–law hybrid
@@ -81,7 +81,7 @@ Supreme Court coverage on withdrawing life support in a long vegetative-state ca
 
 ### World Health Day | 7 April 2026
 
-**What happened**  
+**What happened**
 **7 April** is World Health Day. It marks the founding anniversary of the **World Health Organization (WHO)** in **1948**.
 
 **2026 theme**
@@ -101,10 +101,10 @@ Supreme Court coverage on withdrawing life support in a long vegetative-state ca
 
 ### WHO declares Ebola a Public Health Emergency of International Concern
 
-**What happened**  
+**What happened**
 WHO declared an **Ebola** outbreak linked with the **Democratic Republic of Congo (DRC)** and **Uganda** a global health emergency in May coverage.
 
-**Core locks**
+**Core facts**
 
 - Disease: **Ebola** (severe viral haemorrhagic fever).
 - Declaring body: **WHO**.
@@ -114,11 +114,11 @@ WHO declared an **Ebola** outbreak linked with the **Democratic Republic of Cong
 ### May health days
 
 - **World Thalassaemia Day:** **8 May**.
-- **International Nurses Day:** **12 May** (Florence Nightingale’s birthday; some calendars also note 13 May in compilations — lock **12 May** from WHO).
+- **International Nurses Day:** **12 May** (Florence Nightingale’s birthday; some calendars also note 13 May in compilations — fact **12 May** from WHO).
 - **World No Tobacco Day:** **31 May**.
 
 !!! tip "Easy memory"
-    Keep Nurses Day as **12 May** for standard exam locking unless a stem quotes another date.
+ Keep Nurses Day as **12 May** for standard key facting unless a stem quotes another date.
 
 ---
 
@@ -126,7 +126,7 @@ WHO declared an **Ebola** outbreak linked with the **Democratic Republic of Cong
 
 ### International Day of Yoga | 21 June 2026
 
-**What happened**  
+**What happened**
 **21 June** is the International Day of Yoga.
 
 **2026 theme**
@@ -143,7 +143,7 @@ World Environment Day and Surha Tal’s Ramsar tag sit under [Environment](05_En
 
 ### World Zoonoses Day | 6 July 2026
 
-**What happened**  
+**What happened**
 **6 July** is World Zoonoses Day.
 
 **2026 theme**
@@ -161,7 +161,7 @@ World Environment Day and Surha Tal’s Ramsar tag sit under [Environment](05_En
 
 ### Soft I-Day health note
 
-Independence Day speeches also spoke about wider free hospital cover under **Ayushman Bharat** for older citizens. Before a mock, lock the exact age cut-off and rupee cover from an official note.
+Independence Day speeches also spoke about wider free hospital cover under **Ayushman Bharat** for older citizens. Before a mock, fact the exact age cut-off and rupee cover from an official note.
 
 ### Soft youth day
 
@@ -169,17 +169,17 @@ Independence Day speeches also spoke about wider free hospital cover under **Ayu
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Yoga Day theme only.
+**Logic:** Yoga Day theme only.
 
 **Q1.** The theme of International Day of Yoga 2026 was:
 
-A. Yoga for Vasudhaiva Kutumbakam  
-B. Yoga for Healthy Ageing  
-C. Yoga for Humanity  
+A. Yoga for Vasudhaiva Kutumbakam
+B. Yoga for Healthy Ageing
+C. Yoga for Humanity
 D. Yoga for Heart Health
 
 <details>
@@ -191,13 +191,13 @@ D. Yoga for Heart Health
 
 ---
 
-**Exam logic:** World Zoonoses Day theme.
+**Logic:** World Zoonoses Day theme.
 
 **Q2.** The 2026 theme of World Zoonoses Day locked in coverage is:
 
-A. One World, One Health: Prevent Zoonoses  
-B. Our Power, Our Planet  
-C. Acting locally for global impact  
+A. One World, One Health: Prevent Zoonoses
+B. Our Power, Our Planet
+C. Acting locally for global impact
 D. Wetlands and traditional knowledge
 
 <details>
@@ -209,7 +209,7 @@ D. Wetlands and traditional knowledge
 
 ---
 
-**Exam logic:** WHO Health Day vs Ebola emergency (May soft health).
+**Logic:** WHO Health Day vs Ebola emergency (May soft health).
 
 **Q3.** Which of the following statements is/are correct?
 
@@ -219,9 +219,9 @@ D. Wetlands and traditional knowledge
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -233,7 +233,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** WHO / Ayush soft health from Budget.
+**Logic:** WHO / Ayush soft health from Budget.
 
 **Q4.** With reference to health institutes in Budget / early-2026 coverage, which of the following statements is/are correct?
 
@@ -243,9 +243,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -256,7 +256,7 @@ D. 1, 2 and 3
 </details>
 
 ---
-**Exam logic:** NIMHANS-2 / Ayurveda institutes / Jamnagar WHO centre.
+**Logic:** NIMHANS-2 / Ayurveda institutes / Jamnagar WHO centre.
 
 **Q5.** With reference to Budget 2026–27 health messaging, which of the following statements is/are correct?
 
@@ -266,9 +266,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -280,7 +280,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Biopharma SHAKTI trial sites + NIPER.
+**Logic:** Biopharma SHAKTI trial sites + NIPER.
 
 **Q6.** With reference to Biopharma SHAKTI, which of the following statements is/are correct?
 
@@ -290,9 +290,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -304,7 +304,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** World Health Day date 7 April.
+**Logic:** World Health Day date 7 April.
 
 **Q7.** Which of the following statements is/are correct?
 
@@ -328,7 +328,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Yoga Day health sheet.
+**Logic:** Yoga Day health sheet.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -351,7 +351,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Zoonoses Day One Health.
+**Logic:** Zoonoses Day One Health.
 
 **Q9.** Which of the following statements is/are correct?
 
@@ -374,7 +374,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Ebola WHO emergency DRC Uganda.
+**Logic:** Ebola WHO emergency DRC Uganda.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -397,7 +397,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Medical tourism five regional hubs.
+**Logic:** Medical tourism five regional hubs.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -420,7 +420,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Allied health 1 lakh professionals.
+**Logic:** Allied health 1 lakh professionals.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -444,7 +444,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Youth Day theme Aug health-adjacent.
+**Logic:** Youth Day theme Aug health-adjacent.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -467,7 +467,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** CDSCO stronger under Biopharma SHAKTI.
+**Logic:** CDSCO stronger under Biopharma SHAKTI.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -490,7 +490,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Mental health NIMHANS-2.
+**Logic:** Mental health NIMHANS-2.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -513,7 +513,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Optometry radiology allied disciplines.
+**Logic:** Optometry radiology allied disciplines.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -536,7 +536,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Ayush Anudan Portal soft.
+**Logic:** Ayush Anudan Portal soft.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -559,7 +559,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** WHO traditional medicine Jamnagar.
+**Logic:** WHO traditional medicine Jamnagar.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -582,7 +582,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Stand with science Health Day.
+**Logic:** Stand with science Health Day.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -605,7 +605,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Prevent Zoonoses wording.
+**Logic:** Prevent Zoonoses wording.
 
 **Q20.** Which of the following statements is/are correct?
 

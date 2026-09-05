@@ -1,8 +1,8 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
-# Medieval India — Fact Locks
+# Medieval India — Fact Facts
 
 No sheets yet.

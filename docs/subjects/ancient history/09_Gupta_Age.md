@@ -8,20 +8,20 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 </details>
 
-> **Sources baked in:** Prayag Prashasti, Mehrauli, Bhitari, Fa-Hien, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — 2022 silver coins, 2018 south-king match, 2025 Kalidasa, 2024 Fa-Hien order  
-> **Last verified:** August 2026  
+> **Sources baked in:** Prayag Prashasti, Mehrauli, Bhitari, Fa-Hien, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — 2022 silver coins, 2018 south-king match, 2025 Kalidasa, 2024 Fa-Hien order
+> **Last verified:** August 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 30 Must-Score Locks
+## Consolidated — 30 Must-Score Facts
 
 1. The imperial Gupta line runs **Sri Gupta → Ghatotkacha → Chandragupta I → Samudragupta → Chandragupta II → Kumaragupta I → Skandagupta**. The empire spans roughly **320–550 CE**, with capital **Pataliputra**.
 2. **Sri Gupta** and **Ghatotkacha** carry only the title **Maharaja**. The first Gupta **Maharajadhiraja** is **Chandragupta I**.
 3. Chandragupta I married Lichchhavi princess **Kumaradevi**. The **king-and-queen** gold type belongs to this pair, and the Gupta era is usually pegged at **319–320 CE**.
 4. **Samudragupta** is the digvijaya king. In the north he **uprooted** nine kings and annexed land; in the south he **defeated then restored** twelve kings as tribute.
-5. The south match locks are **Dhananjaya–Kusthalapura**, **Nilaraja–Avamukta**, **Ugrasena–Palaka**, and **Vishnugopa–Kanchi**.
+5. The south matchs are **Dhananjaya–Kusthalapura**, **Nilaraja–Avamukta**, **Ugrasena–Palaka**, and **Vishnugopa–Kanchi**.
 6. The **Prayag Prashasti** is **Harishena’s** eulogy of Samudragupta, carved on the **Allahabad** Ashokan shaft. The prashasti is the **text**; the pillar is the **shaft**.
 7. **Chandragupta II (Vikramaditya)** ended the Western Kshatrapas in Malwa–Gujarat. **Ujjain** became a second pole while Pataliputra stayed the old capital.
 8. The strongest Shaka-victory proof for Chandragupta II is his **silver** coins weighing about **33 grains**. Gold dinaras are prestige types, not that proof.
@@ -34,8 +34,8 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 15. **Nalanda** is Gupta (Kumaragupta I). **Takshashila** is the older Gandhara town. **Vikramashila** is Pala **Dharmapala**. **Vallabhi** is Maitraka Gujarat.
 16. The classical **Sarnath Buddha** has a plain drape and halo. It is Gupta art, **not** Kushan **Gandhara** Greco-Buddhist sculpture.
 17. **Kalidasa** belongs to the Chandragupta II court tradition. *Shringara Shataka* is **Bhartrihari**, not Kalidasa.
-18. Later author–book locks: **Trivikrama Bhatta–Nala Champu**, **Somadeva–Kathasaritsagara**, **Jayadeva–Gita Govinda**, **Kshemendra–Brihatkathamanjari**.
-19. Science locks: **Aryabhata** wrote the *Aryabhatiya* and taught Earth’s rotation; **Varahamihira** wrote the *Brihatsamhita*.
+18. Later author–book facts: **Trivikrama Bhatta–Nala Champu**, **Somadeva–Kathasaritsagara**, **Jayadeva–Gita Govinda**, **Kshemendra–Brihatkathamanjari**.
+19. Science facts: **Aryabhata** wrote the *Aryabhatiya* and taught Earth’s rotation; **Varahamihira** wrote the *Brihatsamhita*.
 20. The **Mehrauli** iron pillar’s “Chandra” is usually taken as **Chandragupta II**. **Udayagiri** Varaha caves also sit in his reign.
 21. Chandragupta II’s daughter **Prabhavatigupta** married Vakataka **Rudrasena II** and later ruled as regent. Do not confuse Chandragupta II with Chandragupta Maurya.
 22. The **Vishnu Purana** carries Maurya genealogy. The **Vayu Purana** does **not** give a usable Gupta system of governance.
@@ -43,14 +43,14 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 24. Gupta samvat and imperial titles start with Chandragupta I; Samudragupta’s *kaviraja* pose is backed by the **lyrist / veena** gold type.
 25. After Skandagupta the imperial centre thins through the sixth century. The next north reunion is **Harsha**, not another Gupta emperor.
 26. Fa-Hien is two centuries earlier than Hiuen Tsang. Fa-Hien is Chandragupta II’s witness; Xuanzang is Harsha’s.
-27. Ajanta’s famous painted caves are largely **Vakataka** Deccan allies with Gupta-age style links, not the default Sarnath Gupta lock.
+27. Ajanta’s famous painted caves are largely **Vakataka** Deccan allies with Gupta-age style links, not the default Sarnath Gupta fact.
 28. Land tax **bhaga** is remembered as about **1/6 to 1/4**. Guilds (**shreni**) kept their own rules under Gupta rule.
 29. Samudragupta’s frontier tribute includes Samatata, Davaka, Kamarupa, Nepala, and Karttripura; ganarajya tribute includes Malava, Yaudheya, Arjunayana, and Madraka.
 30. Do not confuse **Chandragupta I** (Licchavi marriage founder) with **Chandragupta II** (Vikramaditya, Shaka silver), or either with **Chandragupta Maurya** (~322 BCE).
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -81,13 +81,13 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 - I-tsing later remembers a Sri Gupta shrine for Chinese pilgrims.
 - Next is **Ghatotkacha**. He is still **Maharaja**. He is father of Chandragupta I.
 - The imperial clock starts with **Chandragupta I**.
-- The default exam home is **Magadha**. The capital is **Pataliputra**.
+- The default home is **Magadha**. The capital is **Pataliputra**.
 - They are **not** Mauryas. Chandragupta I is not Chandragupta Maurya.
 - Sources are inscriptions, coins, Puranas, and Fa-Hien. Campaign meat is the Prayag Prashasti.
 - Gupta **samvat** is often pegged at **319–320 CE**, Chandragupta I’s accession in most keys.
 - The line to learn is Sri Gupta, then Ghatotkacha, then Chandragupta I, then Samudragupta, then Chandragupta II, then Kumaragupta I, then Skandagupta.
 
-> **Exam note:** Sri Gupta and Ghatotkacha are **Maharaja**. The imperial title starts with **Chandragupta I**.
+> ** note:** Sri Gupta and Ghatotkacha are **Maharaja**. The imperial title starts with **Chandragupta I**.
 
 ---
 
@@ -101,7 +101,7 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 - Prayag later calls Samudragupta the **Lichchhavi-dauhitra**, daughter’s son of the Lichchhavis.
 - Gupta era **319/320 CE** is usually tied to his accession. The capital is **Pataliputra**. His son and successor is **Samudragupta**.
 
-> **Exam note:** King-queen gold is not Chandragupta II’s Shaka silver.
+> ** note:** King-queen gold is not Chandragupta II’s Shaka silver.
 
 ---
 
@@ -145,7 +145,7 @@ Match List-I with List-II (Samudragupta’s contemporary kings of South India).
 | C. Ugrasena | 3. Kusthalpura |
 | D. Vishnugopa | 4. Palaka |
 
-A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
+A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -154,7 +154,7 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 
 </details>
 
-> **Exam note:** South = **tribute and restore**. North = **uproot**. Vishnugopa ≠ a Magadha king.
+> ** note:** South = **tribute and restore**. North = **uproot**. Vishnugopa ≠ a Magadha king.
 
 ---
 
@@ -174,10 +174,10 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 
 With reference to Chandragupta-II, which of the following statements is/are correct?
 
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.  
+1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
 2. The weight of these coins used to be about 33 grains.
 
-A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
+A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -190,12 +190,12 @@ A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
 
 Consider the following foreign travellers and arrange them in ascending chronological order:
 
-1. I-Tsing  
-2. Al-Biruni  
-3. Huentsang (Hiuen Tsang)  
+1. I-Tsing
+2. Al-Biruni
+3. Huentsang (Hiuen Tsang)
 4. Fahyan (Fa-Hien)
 
-A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
+A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 <details>
 <summary>Show answer</summary>
@@ -204,7 +204,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 </details>
 
-> **Exam note:** Chandragupta **II** ≠ Chandragupta **I**. Chandragupta **II** ≠ Chandragupta **Maurya**.
+> ** note:** Chandragupta **II** ≠ Chandragupta **I**. Chandragupta **II** ≠ Chandragupta **Maurya**.
 
 ---
 
@@ -216,7 +216,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Tradition: founds **Nalanda** mahavihara. Chinese *Shakraditya*. Full Nalanda card later in this file.
 - **Mandasor** silk-weavers’ inscription sits in his age (local **Bandhuvarman**). Pushyamitra / other frontier trouble starts near the end of the reign. Son and successor: **Skandagupta**.
 
-> **Exam note:** Nalanda founder-patron = **Kumaragupta I**, not Fa-Hien and not Xuanzang.
+> ** note:** Nalanda founder-patron = **Kumaragupta I**, not Fa-Hien and not Xuanzang.
 
 ---
 
@@ -224,11 +224,11 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 **Last great imperial Gupta | ~455–467 CE | Huna war**
 
-- Son of Kumaragupta I. Holds the **Hunas** for a time. **Bhitari** pillar is the war lock.
+- Son of Kumaragupta I. Holds the **Hunas** for a time. **Bhitari** pillar is the war fact.
 - **Junagadh / Girnar** inscription: repairs the **Sudarsana** lake (after the older Rudradaman repair). Titles: **Vikramaditya** / **Kramaditya** on some types.
 - After him the centre thins: Purugupta, Buddhagupta, Narasimhagupta Baladitya — names only. Imperial Gupta clock ends ~6th c. Next political reunion in the north is **Harsha**.
 
-> **Exam note:** Bhitari = **Skandagupta vs Hunas**. Not Samudragupta’s south march.
+> ** note:** Bhitari = **Skandagupta vs Hunas**. Not Samudragupta’s south march.
 
 ---
 
@@ -242,7 +242,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Smriti age names include **Yajnavalkya** and **Narada**.
 - The **Vayu Purana does not** give a Gupta admin manual. That claim is **false**. The Vishnu Purana *does* carry Maurya names.
 
-> **Exam note:** “Guptas more central than Mauryas” is the trap.
+> ** note:** “Guptas more central than Mauryas” is the trap.
 
 ---
 
@@ -265,7 +265,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Village elders settle petty cases. King is the last court.
 - No Arthashastra-style spy book as the Gupta headline.
 
-> **Exam note:** Bhukti ≠ Vishaya. Uparika ≠ Gramika.
+> ** note:** Bhukti ≠ Vishaya. Uparika ≠ Gramika.
 
 ---
 
@@ -273,7 +273,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 **Stone + copper plates | names, grants, wars**
 
-| Record | Ruler | Lock |
+| Record | Ruler | Fact |
 |--------|-------|------|
 | **Prayag Prashasti** | Samudragupta | Harishena. Campaigns in 9.3 |
 | **Allahabad pillar** | (the shaft) | Ashoka + prashasti in 9.14 |
@@ -287,7 +287,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Copper plates = *tamrapatra* land grants.
 - **Ishanavarman**–Haraha / Sarvavarman–Gaya pairs are **Maukhari / later Gupta**, not this imperial set. Gaya plate is still Samudragupta.
 
-> **Exam note:** Bhitari = Skandagupta vs Hunas. Not Samudragupta’s south march.
+> ** note:** Bhitari = Skandagupta vs Hunas. Not Samudragupta’s south march.
 
 ---
 
@@ -301,7 +301,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Legends in **Sanskrit**. Lakshmi / Garuda common on the reverse.
 - Kushan gold already ran in the NW. Gupta gold is the later “classical” portrait set.
 
-> **Exam note:** 2022 does **not** key gold as the Shaka-victory proof.
+> ** note:** 2022 does **not** key gold as the Shaka-victory proof.
 
 ---
 
@@ -323,7 +323,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 - Standard is often near **120–144 grains** for **gold**. Silver *rupaka* is about **33 grains**.
 
-> **Exam note:** Lyrist = Samudragupta. Archer = CG II. King-queen = CG I.
+> ** note:** Lyrist = Samudragupta. Archer = CG II. King-queen = CG I.
 
 ---
 
@@ -338,7 +338,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Skandagupta holds the Hunas for a time. After him the centre thins.
 - End ~6th c. Huna pressure + samanta drift. Harsha is the next north reunion, not a Gupta.
 
-> **Exam note:** Golden age ≠ “no samantas, no decline.”
+> ** note:** Golden age ≠ “no samantas, no decline.”
 
 ---
 
@@ -352,7 +352,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Calls the king a *kaviraja* and a warrior. Lyrist coins back the poet-king pose.
 - Praise text. Not a campaign diary with dates.
 
-> **Exam note:** Prashasti = the **words**. The **shaft** they sit on is the Allahabad / Prayag pillar.
+> ** note:** Prashasti = the **words**. The **shaft** they sit on is the Allahabad / Prayag pillar.
 
 ---
 
@@ -366,7 +366,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Later: **Jahangir** also wrote on it.
 - Now at Prayagraj (Allahabad fort).
 
-> **Exam note:** The pillar is not “only Gupta.” It is Ashoka’s shaft reused.
+> ** note:** The pillar is not “only Gupta.” It is Ashoka’s shaft reused.
 
 ---
 
@@ -380,20 +380,20 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - **Hiuen Tsang** studies here during **Harsha’s** reign. **I-tsing** visits later. Both are **visitors**, not founders.
 - Later **Pala** rulers patronise Nalanda. Destruction by **Bakhtiyar Khalji** is medieval, not Gupta.
 
-**Other ancient universities — exam locks**
+**Other ancient universities — key facts**
 
 - **Takshashila (Taxila)** is the older northwest teaching town in Gandhara. **Chanakya**, **Panini**, and **Jivaka** belong to its tradition. It is **not** a Gupta foundation.
 - **Vikramashila** in the Bhagalpur belt is a **Pala** foundation under **Dharmapala**. It peaks after Nalanda’s Gupta start.
 - **Vallabhi** in Gujarat is a **Maitraka** centre of learning. The **Svetambara Jain canon** council is linked to Vallabhi. Vallabhi is **not** Vaishali.
 
-| University | Region | Founder / patron lock |
+| University | Region | Founder / patron fact |
 |------------|--------|------------------------|
 | **Takshashila** | Gandhara | Pre-Mauryan teaching town; Panini grammar |
 | **Nalanda** | Bihar | **Kumaragupta I** founder-patron |
 | **Vikramashila** | Bengal–Bihar belt | **Pala Dharmapala** |
 | **Vallabhi** | Gujarat | **Maitraka**; Jain Svetambara council |
 
-> **Exam note:** Founder-patron lock = **Kumaragupta I** for Nalanda. Xuanzang ≠ Fa-Hien. Vallabhi ≠ Vaishali.
+> ** note:** Founder-patron fact = **Kumaragupta I** for Nalanda. Xuanzang ≠ Fa-Hien. Vallabhi ≠ Vaishali.
 
 ---
 
@@ -411,20 +411,20 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - Ajanta’s famous painted caves are largely **Vakataka** (Deccan allies), with Gupta-age style links.
 - The Mehrauli iron pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**.
 
-> **Exam note:** Sarnath is Gupta. Gandhara is Kushan. Ajanta is not the default Gupta lock.
+> ** note:** Sarnath is Gupta. Gandhara is Kushan. Ajanta is not the default Gupta fact.
 
 ---
 
 ## 9.17 Gupta Literature
 
-**Kalidasa is the Gupta lock | 2025 also dumps later author–book pairs**
+**Kalidasa is the Gupta fact | 2025 also dumps later author–book pairs**
 
 - **Kalidasa** belongs to the Chandragupta II tradition. Plays: *Abhijnanashakuntalam*, *Malavikagnimitra*, *Vikramorvashiyam*. Mahakavyas: *Raghuvamsa*, *Kumarasambhava*. Lyrics: *Meghaduta*, *Ritusamhara*.
 - *Shringara Shataka* is **Bhartrihari**, not Kalidasa.
 
 ### Navaratnas (later tradition)
 
-Coaching lists **nine gems** at Vikramaditya / Chandragupta II’s court. Historians treat the full nine as a **later legend** (*Jyotirvidabharana*). Papers still ask the names. **Kalidasa** is the firm Gupta lock.
+Coaching lists **nine gems** at Vikramaditya / Chandragupta II’s court. Historians treat the full nine as a **later legend** (*Jyotirvidabharana*). Papers still ask the names. **Kalidasa** is the firm Gupta fact.
 
 | Gem | Field |
 |-----|-------|
@@ -451,11 +451,11 @@ Coaching lists **nine gems** at Vikramaditya / Chandragupta II’s court. Histor
 
 Which of the following works was NOT written by Kalidasa?
 
-1. Meghaduta  
-2. Raghuvamsha  
+1. Meghaduta
+2. Raghuvamsha
 3. Shringara Shataka
 
-A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -475,7 +475,7 @@ Match List-I with List-II.
 | C. Jaidev | 3. Nal Champu |
 | D. Kshemendra | 4. Kathasaritsagara |
 
-A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
+A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -484,7 +484,7 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 </details>
 
-> **Exam note:** Jayadeva, Somadeva, and Kshemendra are **later** than the Gupta court. Kalidasa belongs to **Chandragupta II**.
+> ** note:** Jayadeva, Somadeva, and Kshemendra are **later** than the Gupta court. Kalidasa belongs to **Chandragupta II**.
 
 ---
 
@@ -497,7 +497,7 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 - **Brahmagupta** wrote the *Brahmasphutasiddhanta* in the early 7th century, at the edge of this age. Medicine circulates in *Sushruta* and *Charaka* redactions.
 - The Mehrauli pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**. Decimal place-value is in use. “Aryabhata invented zero” is too crude for a sharp T/F. He uses place value.
 
-> **Exam note:** Aryabhata is not Varahamihira. Fa-Hien did not write the *Aryabhatiya*.
+> ** note:** Aryabhata is not Varahamihira. Fa-Hien did not write the *Aryabhatiya*.
 
 ---
 
@@ -519,14 +519,14 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 ## 9.21 Ancient Universities — Full Four-Way Card
 
-| University | Region | Patron / age | Subjects & locks | End / trap |
+| University | Region | Patron / age | Subjects & facts | End / trap |
 |------------|--------|--------------|------------------|------------|
 | **Takshashila (Taxila)** | Gandhara (NW) | Pre-Mauryan; **Chanakya**, **Panini** | Grammar, medicine, politics | Damaged by **Hunas** (~5th c.) |
 | **Nalanda** | Bihar | **Kumaragupta I**; Pala peak | Buddhist philosophy, logic; Xuanzang studied here | **Bakhtiyar Khalji** ~1193 |
 | **Vikramashila** | Bhagalpur belt | **Pala Dharmapala** (~8th c.) | Mahayana, Tantra; **Atisa** taught here | Destroyed ~12th c. |
 | **Vallabhi** | Gujarat | **Maitraka** rulers | Brahmanical + Jain; **Svetambara Jain council** (~5th c.) | Not Vaishali; not Buddhist 2nd council |
 
-> **Exam note:** Founder four-way = Taxila (pre-Mauryan) | Nalanda (Kumaragupta I) | Vikramashila (Dharmapala) | Vallabhi (Maitraka).
+> ** note:** Founder four-way = Taxila (pre-Mauryan) | Nalanda (Kumaragupta I) | Vikramashila (Dharmapala) | Vallabhi (Maitraka).
 
 ## 9.22 Gupta–Vakataka Alliance
 
@@ -535,7 +535,7 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 ## UP Focus
 
-| Lock | Place |
+| Fact | Place |
 |------|--------|
 | Allahabad / Prayag pillar | Prayagraj — Ashoka + Harishena |
 | Bhitargaon brick temple | Kanpur belt |
@@ -549,10 +549,10 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 **Q1.** With reference to Chandragupta-II, which of the following statements is/are correct?
 
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.  
+1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
 2. The weight of these coins used to be about 33 grains.
 
-A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
+A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -572,7 +572,7 @@ A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
 | C. Ugrasena | 3. Kusthalpura |
 | D. Vishnugopa | 4. Palaka |
 
-A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
+A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -585,11 +585,11 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 
 **Q3.** Which of the following works was NOT written by Kalidasa?
 
-1. Meghaduta  
-2. Raghuvamsha  
+1. Meghaduta
+2. Raghuvamsha
 3. Shringara Shataka
 
-A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -609,7 +609,7 @@ A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 | C. Jaidev | 3. Nal Champu |
 | D. Kshemendra | 4. Kathasaritsagara |
 
-A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
+A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -622,9 +622,9 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 **Q5.** Arrange in ascending chronological order:
 
-1. I-Tsing  2. Al-Biruni  3. Hiuen Tsang  4. Fa-Hien
+1. I-Tsing 2. Al-Biruni 3. Hiuen Tsang 4. Fa-Hien
 
-A. 1 2 3 4  B. 4 3 1 2  C. 2 1 4 3  D. 3 4 2 1
+A. 1 2 3 4 B. 4 3 1 2 C. 2 1 4 3 D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -637,11 +637,11 @@ A. 1 2 3 4  B. 4 3 1 2  C. 2 1 4 3  D. 3 4 2 1
 
 **Q6.** Which of the following statements is/are correct?
 
-1. Prayag Prashasti is Harishena’s eulogy of Samudragupta.  
-2. It is carved on the Allahabad pillar.  
+1. Prayag Prashasti is Harishena’s eulogy of Samudragupta.
+2. It is carved on the Allahabad pillar.
 3. The shaft was first cut for Jahangir.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -654,13 +654,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q7.** Given below are two statements:
 
-**Assertion (A):** Samudragupta uprooted the Aryavarta kings.  
+**Assertion (A):** Samudragupta uprooted the Aryavarta kings.
 
 **Reason (R):** He annexed all twelve dakshinapatha kingdoms as Gupta bhuktis under uparikas.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -674,9 +674,9 @@ D. (A) is false, but (R) is true
 
 **Q8.** Which one of the following pairs is **not** correctly matched?
 
-A. Bhukti — Uparika  
-B. Vishaya — Kumaramatya  
-C. Sandhivigrahika — Mauryan revenue collector  
+A. Bhukti — Uparika
+B. Vishaya — Kumaramatya
+C. Sandhivigrahika — Mauryan revenue collector
 D. Gramika — village head
 
 <details>
@@ -690,12 +690,12 @@ D. Gramika — village head
 
 **Q9.** With reference to Gupta gold types, consider the following statements:
 
-1. King-and-queen type is Chandragupta I.  
-2. Lyrist type is Samudragupta.  
+1. King-and-queen type is Chandragupta I.
+2. Lyrist type is Samudragupta.
 3. Archer type is usually Chandragupta II.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -714,7 +714,7 @@ A. Only one  B. Only two  C. All three  D. None
 | B. Mehrauli | 2. Skandagupta vs Hunas |
 | C. Damodarpur | 3. Land-grant plates |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 1 3 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -727,11 +727,11 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 1 3 2
 
 **Q11.** Which of the following statements is/are correct?
 
-1. Nalanda’s Gupta-start patron is Kumaragupta I.  
-2. Fa-Hien is the main Chinese witness of Nalanda’s Pala peak.  
+1. Nalanda’s Gupta-start patron is Kumaragupta I.
+2. Fa-Hien is the main Chinese witness of Nalanda’s Pala peak.
 3. Hiuen Tsang belongs to the Harsha age.
 
-A. 1 and 3 only  B. 1 and 2 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 3 only B. 1 and 2 only C. 2 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -744,12 +744,12 @@ A. 1 and 3 only  B. 1 and 2 only  C. 2 and 3 only  D. 1, 2 and 3
 
 **Q12.** Arrange:
 
-1. Chandragupta I  
-2. Skandagupta  
-3. Samudragupta  
+1. Chandragupta I
+2. Skandagupta
+3. Samudragupta
 4. Chandragupta II
 
-A. 1–3–4–2  B. 1–4–3–2  C. 3–1–4–2  D. 1–3–2–4
+A. 1–3–4–2 B. 1–4–3–2 C. 3–1–4–2 D. 1–3–2–4
 
 <details>
 <summary>Show answer</summary>
@@ -762,13 +762,13 @@ A. 1–3–4–2  B. 1–4–3–2  C. 3–1–4–2  D. 1–3–2–4
 
 **Q13.** Given below are two statements:
 
-**Assertion (A):** 2022 keys Chandragupta II’s Shaka victory to silver coins.  
+**Assertion (A):** 2022 keys Chandragupta II’s Shaka victory to silver coins.
 
 **Reason (R):** Gupta gold dinaras weigh about 33 grains.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -782,7 +782,7 @@ D. (A) is false, but (R) is true
 
 **Q14.** Which of the following is **not** a Kalidasa work?
 
-A. Meghaduta  B. Kumarasambhava  C. Shringara Shataka  D. Vikramorvashiyam
+A. Meghaduta B. Kumarasambhava C. Shringara Shataka D. Vikramorvashiyam
 
 <details>
 <summary>Show answer</summary>
@@ -795,12 +795,12 @@ A. Meghaduta  B. Kumarasambhava  C. Shringara Shataka  D. Vikramorvashiyam
 
 **Q15.** With reference to Fa-Hien, consider the following statements:
 
-1. He visited in Chandragupta II’s time.  
-2. 2024 places him before Hiuen Tsang.  
+1. He visited in Chandragupta II’s time.
+2. 2024 places him before Hiuen Tsang.
 3. He wrote the Prayag Prashasti.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -813,9 +813,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q16.** Which one of the following pairs is **not** correctly matched?
 
-A. Vishnugopa — Kanchi  
-B. Nilaraja — Avamukta  
-C. Dhananjaya — Palaka  
+A. Vishnugopa — Kanchi
+B. Nilaraja — Avamukta
+C. Dhananjaya — Palaka
 D. Ugrasena — Palaka
 
 <details>
@@ -835,7 +835,7 @@ D. Ugrasena — Palaka
 | B. Varahamihira | 2. Aryabhatiya |
 | C. Amarasimha | 3. Amarakosha |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -848,9 +848,9 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q18.** Which of the following statements regarding Gupta art is **not** correct?
 
-A. Sarnath Buddha is the Gupta classical type.  
-B. Udayagiri Varaha is linked to Chandragupta II.  
-C. Gandhara Greco-Buddhist drape is the default Gupta Sarnath style.  
+A. Sarnath Buddha is the Gupta classical type.
+B. Udayagiri Varaha is linked to Chandragupta II.
+C. Gandhara Greco-Buddhist drape is the default Gupta Sarnath style.
 D. Bhitargaon is a brick temple in the UP belt.
 
 <details>
@@ -864,12 +864,12 @@ D. Bhitargaon is a brick temple in the UP belt.
 
 **Q19.** Consider the following statements:
 
-1. Prabhavatigupta was a Vakataka regent from the Gupta house.  
-2. Kumaradevi was a Licchavi princess married to Chandragupta I.  
+1. Prabhavatigupta was a Vakataka regent from the Gupta house.
+2. Kumaradevi was a Licchavi princess married to Chandragupta I.
 3. Both marriages are the same event.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -882,13 +882,13 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q20.** Given below are two statements:
 
-**Assertion (A):** Gupta administration used samantas.  
+**Assertion (A):** Gupta administration used samantas.
 
 **Reason (R):** This made it more tightly centralised than the Mauryan amatya-state.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -902,11 +902,11 @@ D. (A) is false, but (R) is true
 
 **Q21.** Which of the following statements is/are correct?
 
-1. Ashvamedha gold type is Samudragupta.  
-2. 33-grain silver is Chandragupta II.  
+1. Ashvamedha gold type is Samudragupta.
+2. 33-grain silver is Chandragupta II.
 3. King-queen gold is Skandagupta’s Huna issue.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -925,7 +925,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Somadeva | 2. Gita Govinda |
 | C. Trivikrama Bhatta | 3. Kathasaritsagara |
 
-A. 2 3 1  B. 2 1 3  C. 3 2 1  D. 1 3 2
+A. 2 3 1 B. 2 1 3 C. 3 2 1 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -938,12 +938,12 @@ A. 2 3 1  B. 2 1 3  C. 3 2 1  D. 1 3 2
 
 **Q23.** With reference to Nalanda, consider the following statements:
 
-1. Kumaragupta I is the usual Gupta founder-patron.  
-2. Vikramashila is the same monastery under another name.  
+1. Kumaragupta I is the usual Gupta founder-patron.
+2. Vikramashila is the same monastery under another name.
 3. Bakhtiyar Khalji’s raid is a medieval end-story.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -956,9 +956,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q24.** Which one of the following pairs is **not** correctly matched?
 
-A. Fa-Hien — Chandragupta II  
-B. Hiuen Tsang — Harsha  
-C. Harishena — Prayag Prashasti  
+A. Fa-Hien — Chandragupta II
+B. Hiuen Tsang — Harsha
+C. Harishena — Prayag Prashasti
 D. Bhartrihari — Meghaduta
 
 <details>
@@ -972,11 +972,11 @@ D. Bhartrihari — Meghaduta
 
 **Q25.** Which of the following statements is/are correct?
 
-1. 2025 Q86 is a writer–book match.  
-2. All four writers sat in Chandragupta II’s Navaratna.  
+1. 2025 Q86 is a writer–book match.
+2. All four writers sat in Chandragupta II’s Navaratna.
 3. Kshemendra is paired with Brihatkathamanjari.
 
-A. 1 and 3 only  B. 1 and 2 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 3 only B. 1 and 2 only C. 2 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -989,11 +989,11 @@ A. 1 and 3 only  B. 1 and 2 only  C. 2 and 3 only  D. 1, 2 and 3
 
 **Q26.** Arrange Samudragupta’s south policy vs north policy:
 
-1. Restore tributary (dakshinapatha)  
+1. Restore tributary (dakshinapatha)
 2. Uproot (Aryavarta)
 
-Which is the prashasti order of treatment, north then south?  
-A. 2 then 1  B. 1 then 2  C. Both identical annexation  D. Neither used
+Which is the prashasti order of treatment, north then south?
+A. 2 then 1 B. 1 then 2 C. Both identical annexation D. Neither used
 
 <details>
 <summary>Show answer</summary>
@@ -1006,13 +1006,13 @@ A. 2 then 1  B. 1 then 2  C. Both identical annexation  D. Neither used
 
 **Q27.** Given below are two statements:
 
-**Assertion (A):** The Allahabad pillar carries Ashokan writing.  
+**Assertion (A):** The Allahabad pillar carries Ashokan writing.
 
 **Reason (R):** Prayag Prashasti is a Mauryan edict of Ashoka.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1026,9 +1026,9 @@ D. (A) is false, but (R) is true
 
 **Q28.** Which of the following statements regarding Aryabhata is correct?
 
-A. He wrote *Brihatsamhita*  
-B. *Aryabhatiya* is dated around 499 CE  
-C. He is Fa-Hien’s Chinese name  
+A. He wrote *Brihatsamhita*
+B. *Aryabhatiya* is dated around 499 CE
+C. He is Fa-Hien’s Chinese name
 D. He convened the Fourth Buddhist Council
 
 <details>
@@ -1042,12 +1042,12 @@ D. He convened the Fourth Buddhist Council
 
 **Q29.** With reference to Skandagupta, consider the following statements:
 
-1. Bhitari records a Huna conflict.  
-2. He is the usual Nalanda founder in exam keys.  
+1. Bhitari records a Huna conflict.
+2. He is the usual Nalanda founder keys.
 3. He follows Kumaragupta I.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1066,7 +1066,7 @@ A. Only one  B. Only two  C. All three  D. None
 | B. Bhitargaon | 2. Dashavatara stone temple |
 | C. Sarnath | 3. Gupta Buddha |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1079,11 +1079,11 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q31.** Which of the following statements is/are correct?
 
-1. Dutaka delivers grants.  
-2. Pustapala keeps records.  
+1. Dutaka delivers grants.
+2. Pustapala keeps records.
 3. Samaharta is the Gupta foreign minister.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1096,9 +1096,9 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q32.** Which one of the following pairs is **not** correctly matched?
 
-A. Malavikagnimitra — Kalidasa  
-B. Mudrarakshasa — Vishakhadatta  
-C. Mrichchhakatika — Sudraka  
+A. Malavikagnimitra — Kalidasa
+B. Mudrarakshasa — Vishakhadatta
+C. Mrichchhakatika — Sudraka
 D. Kathasaritsagara — Kalidasa
 
 <details>
@@ -1112,12 +1112,12 @@ D. Kathasaritsagara — Kalidasa
 
 **Q33.** Consider the following statements:
 
-1. Chandragupta I marries Kumaradevi.  
-2. That type appears on gold as king and queen.  
+1. Chandragupta I marries Kumaradevi.
+2. That type appears on gold as king and queen.
 3. 2022 Q23 is about that gold type’s 33 grains.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1130,13 +1130,13 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q34.** Given below are two statements:
 
-**Assertion (A):** Vishnugopa of Kanchi appears in the Prayag Prashasti.  
+**Assertion (A):** Vishnugopa of Kanchi appears in the Prayag Prashasti.
 
 **Reason (R):** He was uprooted and his land became a Gupta bhukti.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1150,11 +1150,11 @@ D. (A) is false, but (R) is true
 
 **Q35.** Which of the following statements is/are correct?
 
-1. Yaudheyas pay tribute in the prashasti.  
-2. Kamarupa is listed among frontier states.  
+1. Yaudheyas pay tribute in the prashasti.
+2. Kamarupa is listed among frontier states.
 3. Both were Mauryan kumara-provinces under Ashoka’s sons.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1173,7 +1173,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Hiuen Tsang | 2. ~399–414 |
 | C. Al-Biruni | 3. ~630s |
 
-A. 2 3 1  B. 2 1 3  C. 3 2 1  D. 1 3 2
+A. 2 3 1 B. 2 1 3 C. 3 2 1 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -1186,9 +1186,9 @@ A. 2 3 1  B. 2 1 3  C. 3 2 1  D. 1 3 2
 
 **Q37.** Which of the following statements regarding Mehrauli is **not** correct?
 
-A. It is an iron pillar.  
-B. The name Chandra is on it.  
-C. Most keys give it to Chandragupta II.  
+A. It is an iron pillar.
+B. The name Chandra is on it.
+C. Most keys give it to Chandragupta II.
 D. It is the Hathigumpha text of Kharavela.
 
 <details>
@@ -1202,12 +1202,12 @@ D. It is the Hathigumpha text of Kharavela.
 
 **Q38.** With reference to Gupta science, consider the following statements:
 
-1. Varahamihira wrote *Brihatsamhita*.  
-2. Aryabhata is tied to Kusumapura.  
+1. Varahamihira wrote *Brihatsamhita*.
+2. Aryabhata is tied to Kusumapura.
 3. *Gita Govinda* is Aryabhata’s astronomy poem.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1220,9 +1220,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q39.** Which one of the following pairs is **not** correctly matched?
 
-A. Hastivarman — Vengi  
-B. Vishnugopa — Kanchi  
-C. Ugrasena — Palaka  
+A. Hastivarman — Vengi
+B. Vishnugopa — Kanchi
+C. Ugrasena — Palaka
 D. Nilaraja — Kusthalapura
 
 <details>
@@ -1236,11 +1236,11 @@ D. Nilaraja — Kusthalapura
 
 **Q40.** Which of the following statements is/are correct?
 
-1. 2023 Q29 treats Vayu Purana as a Gupta admin handbook.  
-2. Vishnu Purana carries Mauryan genealogy.  
+1. 2023 Q29 treats Vayu Purana as a Gupta admin handbook.
+2. Vishnu Purana carries Mauryan genealogy.
 3. Both statements were true in that paper.
 
-A. Only 2  B. Only 1  C. Both 1 and 2  D. Neither
+A. Only 2 B. Only 1 C. Both 1 and 2 D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -1253,13 +1253,13 @@ A. Only 2  B. Only 1  C. Both 1 and 2  D. Neither
 
 **Q41.** Given below are two statements:
 
-**Assertion (A):** Ajanta’s painted caves are often Vakataka.  
+**Assertion (A):** Ajanta’s painted caves are often Vakataka.
 
 **Reason (R):** Therefore Sarnath Buddha cannot be Gupta.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1273,14 +1273,14 @@ D. (A) is false, but (R) is true
 
 **Q42.** Consider the following pairs:
 
-| Item | Lock |
+| Item | Fact |
 |------|------|
 | 1. Raghuvamsa | Kalidasa |
 | 2. Shringara Shataka | Bhartrihari |
 | 3. Nala Champu | Trivikrama Bhatta |
 
-How many of the above pairs are correctly matched?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above pairs are correctly matched?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1293,11 +1293,11 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q43.** Which of the following statements is/are correct?
 
-1. Brahmadeya grants weaken direct Gupta tax take.  
-2. Samantas supply troops.  
+1. Brahmadeya grants weaken direct Gupta tax take.
+2. Samantas supply troops.
 3. Gupta admin copies Kautilya’s nine spy covers as its headline.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1316,7 +1316,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Skandagupta | 2. Nalanda start |
 | C. Chandragupta II | 3. Fa-Hien |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1329,9 +1329,9 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q45.** Which of the following statements regarding Gupta gold is **not** correct?
 
-A. Dinara is the gold name.  
-B. Lyrist type is a Samudragupta lock.  
-C. 2022 Q23 uses gold weight 33 grains as the Shaka proof.  
+A. Dinara is the gold name.
+B. Lyrist type is a Samudragupta fact.
+C. 2022 Q23 uses gold weight 33 grains as the Shaka proof.
 D. Archer type is common for Chandragupta II.
 
 <details>
@@ -1345,12 +1345,12 @@ D. Archer type is common for Chandragupta II.
 
 **Q46.** With reference to the Allahabad pillar, consider the following statements:
 
-1. The polish is Mauryan.  
-2. Harishena’s text is a later carving on it.  
+1. The polish is Mauryan.
+2. Harishena’s text is a later carving on it.
 3. Jahangir also used the shaft.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1363,9 +1363,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q47.** Which one of the following pairs is **not** correctly matched?
 
-A. Kshemendra — Brihatkathamanjari  
-B. Jayadeva — Gita Govinda  
-C. Somadeva — Kathasaritsagara  
+A. Kshemendra — Brihatkathamanjari
+B. Jayadeva — Gita Govinda
+C. Somadeva — Kathasaritsagara
 D. Bhartrihari — Prayag Prashasti
 
 <details>
@@ -1379,11 +1379,11 @@ D. Bhartrihari — Prayag Prashasti
 
 **Q48.** Which of the following statements is/are correct?
 
-1. Udayagiri is in Madhya Pradesh.  
-2. Bhitargaon is a UP brick temple.  
+1. Udayagiri is in Madhya Pradesh.
+2. Bhitargaon is a UP brick temple.
 3. Both are Indo-Greek sites of Menander.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1396,13 +1396,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q49.** Given below are two statements:
 
-**Assertion (A):** 2018 Q87 answer is 3-1-4-2.  
+**Assertion (A):** 2018 Q87 answer is 3-1-4-2.
 
 **Reason (R):** Vishnugopa is matched with Kanchi.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1416,11 +1416,11 @@ D. (A) is false, but (R) is true
 
 **Q50.** Which of the following statements is/are correct?
 
-1. 2022 Q23 is Both B.  
-2. 2025 Q48 is Only 3.  
+1. 2022 Q23 is Both B.
+2. 2025 Q48 is Only 3.
 3. 2024 Q149 is Fa-Hien first.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1441,11 +1441,11 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 Which of the following works was NOT written by Kalidasa?
 
-1. Meghaduta  
-2. Raghuvamsha  
+1. Meghaduta
+2. Raghuvamsha
 3. Shringara Shataka
 
-A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1458,10 +1458,10 @@ A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 Match List-I (Writer) with List-II (Book):
 
-A. Trivikram Bhatta  B. Somdev  C. Jaidev  D. Kshemendra  
-1. Gita Govinda  2. Brihatkathamanjari  3. Nal Champu  4. Kathasaritsagara
+A. Trivikram Bhatta B. Somdev C. Jaidev D. Kshemendra
+1. Gita Govinda 2. Brihatkathamanjari 3. Nal Champu 4. Kathasaritsagara
 
-A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
+A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1476,9 +1476,9 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 Consider the following foreign travellers and arrange them in ascending chronological order:
 
-1. I-Tsing  2. Al-Biruni  3. Huentsang (Hiuen Tsang)  4. Fahyan (Fa-Hien)
+1. I-Tsing 2. Al-Biruni 3. Huentsang (Hiuen Tsang) 4. Fahyan (Fa-Hien)
 
-A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
+A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1493,10 +1493,10 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 With reference to the Puranas, which one of the following statements is correct?
 
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.  
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
 2. Vayu Purana throws light on the Gupta system of governance.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1511,10 +1511,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 With reference to Chandragupta-II, which of the following statements is/are correct?
 
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.  
+1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
 2. The weight of these coins used to be about 33 grains.
 
-A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
+A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1529,10 +1529,10 @@ A. Neither 1 nor 2  B. Both 1 and 2  C. Only 2  D. Only 1
 
 Match List-I with List-II (Samudragupta’s contemporary kings of South India / their kingdoms):
 
-A. Dhananjaya  B. Nilaraja  C. Ugrasena  D. Vishnugopa  
-1. Avamukta  2. Kanchi  3. Kusthalpura  4. Palaka
+A. Dhananjaya B. Nilaraja C. Ugrasena D. Vishnugopa
+1. Avamukta 2. Kanchi 3. Kusthalpura 4. Palaka
 
-A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
+A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1543,12 +1543,12 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 
 ### Years with zero extra hits in local `pyq/`
 
-**2021, 2020, 2019** — no further GS-I imperial-Gupta hit after keyword search.  
+**2021, 2020, 2019** — no further GS-I imperial-Gupta hit after keyword search.
 **Out of boundary:** 2022 Q87 Ishanavarman / Jivitagupta II inscription pairs are **Maukhari / later Gupta**, not imperial Gupta. 2023 Prayag of Uttarakhand is geography.
 
 ---
 
-## Common Traps — Exam Locks
+## Common Traps — Facts
 
 1. **Chandragupta II = Chandragupta Maurya** → Gupta Vikramaditya vs 322 BCE.
 2. **2022 Shaka proof = gold dinara** → **silver**, ~33 grains.
@@ -1559,7 +1559,7 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 7. **Prayag Prashasti = the pillar itself** → the **text**. Shaft is Ashokan.
 8. **Shringara Shataka = Kalidasa** → **Bhartrihari** (2025).
 9. **Fa-Hien = Hiuen Tsang** → ~400 vs ~630. 2024 order Fa-Hien first.
-10. **Nalanda = Fa-Hien’s main campus memoir** → founder lock **Kumaragupta**. Xuanzang = later.
+10. **Nalanda = Fa-Hien’s main campus memoir** → founder fact **Kumaragupta**. Xuanzang = later.
 11. **Vayu Purana = Gupta admin** → 2023 stmt 2 false.
 12. **Sarnath Buddha = Gandhara** → Gupta vs Kushan.
 13. **Ajanta = default Gupta court painting** → largely **Vakataka**.

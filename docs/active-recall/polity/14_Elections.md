@@ -1215,7 +1215,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: 2013** — on EVMs from the November 2013 Assembly polls. Chronology lock: **EVM 1982 → EPIC 1993 → VVPAT → NOTA**.
+**Ans: 2013** — on EVMs from the November 2013 Assembly polls. Chronology fact: **EVM 1982 → EPIC 1993 → VVPAT → NOTA**.
 
 </details>
 
@@ -1381,7 +1381,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q150.** What is an election petition? (repeat lock)
+**Q150.** What is an election petition? (repeat fact)
 
 <details>
 <summary>Show answer</summary>

@@ -8,13 +8,13 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC
 
 </details>
 
-> **Sources baked in:** IPCC AR6; UNEP; UNDP HDR; IUCN Red List; WWF LPR; FAO SOFO; UNESCO WH/MAB; UPPCS PYQs  
-> **Exam weight:** ★★★ High — org ↔ report; HQ traps; IUCN≠CITES; IPCC≠UNFCCC  
+> **Sources baked in:** IPCC AR6; UNEP; UNDP HDR; IUCN Red List; WWF LPR; FAO SOFO; UNESCO WH/MAB; UPPCS PYQs
+> **Weight:** ★★★ High — org ↔ report; HQ traps; IUCN≠CITES; IPCC≠UNFCCC
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **UNEP** was created after **Stockholm 1972**. Its HQ is **Nairobi**. Flagship products include the **Emissions Gap Report** and **GEO**.
 2. **UNDP** sits in **New York** and publishes the **Human Development Report / HDI** (from **1990**).
@@ -27,9 +27,9 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC
 9. IPCC does science assessment. **UNFCCC** is the climate treaty. Do not merge the two.
 10. IUCN assesses extinction risk. **CITES** regulates wildlife **trade**. Different jobs.
 11. IUCN and WWF share a city but differ: assessment union versus conservation NGO campaigning and Living Planet metrics.
-12. UNEP coordinates environment. UNDP coordinates development. HQ and report locks separate them.
+12. UNEP coordinates environment. UNDP coordinates development. HQ and report facts separate them.
 13. UNESCO heritage–education–MAB is not the same as UNEP environment coordination.
-14. The **GEF (1991)** is a multilateral funder. Donors are not “developed countries only” as a rigid lock.
+14. The **GEF (1991)** is a multilateral funder. Donors are not “developed countries only” as a rigid fact.
 15. IPCC Assessment Reports synthesize climate science. They do not set national NDCs.
 16. FAO’s food–forest–agriculture mandate explains why SOFO and pesticide PIC work sit there.
 17. Red List categories are IUCN risk ranks, not CITES Appendix numbers.
@@ -43,9 +43,9 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Lock |
+| Pair | Fact |
 |------|------|
 | **UNEP / UNDP** | Environment programme / development + HDR |
 | **IPCC / UNFCCC** | Science assessment / climate treaty |
@@ -80,7 +80,7 @@ Emissions Gap Report publisher among org–report match:
 
 GEF: (1) established 1991 (2) only developed countries are donors
 
-Options: A. Only 2  B. Neither  C. Both  D. Only 1
+Options: A. Only 2 B. Neither C. Both D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -88,7 +88,7 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 
 </details>
 
-> **Exam note:** Emissions Gap ≠ IPCC Assessment Report.
+> ** note:** Emissions Gap ≠ IPCC Assessment Report.
 
 ---
 
@@ -105,10 +105,10 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 
 **PYQ — UPPCS Prelims 2025, Q132**
 
-1. UNDP published first HDR in 1990 with HDI.  
+1. UNDP published first HDR in 1990 with HDI.
 2. First HDI team led by Mahbub-ul-Haq and S. Priesner.
 
-Options: A. Only 2  B. Neither  C. Both  D. Only 1
+Options: A. Only 2 B. Neither C. Both D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -120,7 +120,7 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 
 HDI was first developed by:
 
-Options: A. UNDP  B. IMF  C. UNICEF  D. UNCTAD
+Options: A. UNDP B. IMF C. UNICEF D. UNCTAD
 
 <details><summary>Show answer</summary>
 
@@ -128,7 +128,7 @@ Options: A. UNDP  B. IMF  C. UNICEF  D. UNCTAD
 
 </details>
 
-> **Exam note:** UNDP ≠ UNEP. HDR ≠ Emissions Gap.
+> ** note:** UNDP ≠ UNEP. HDR ≠ Emissions Gap.
 
 ---
 
@@ -143,7 +143,7 @@ Options: A. UNDP  B. IMF  C. UNICEF  D. UNCTAD
 - Jointly administers the **Rotterdam Convention** (PIC for hazardous chemicals in trade) with **UNEP**.
 - Not the publisher of HDR, Emissions Gap, or Red List.
 
-> **Exam note:** FAO HQ = **Rome**, not Nairobi.
+> ** note:** FAO HQ = **Rome**, not Nairobi.
 
 ---
 
@@ -162,7 +162,7 @@ Options: A. UNDP  B. IMF  C. UNICEF  D. UNCTAD
 
 Jaipur listed as UNESCO World Heritage Site at the 43rd session held in:
 
-Options: A. Baku  B. Bishkek  C. Istanbul  D. Marrakesh
+Options: A. Baku B. Bishkek C. Istanbul D. Marrakesh
 
 <details><summary>Show answer</summary>
 
@@ -174,7 +174,7 @@ Options: A. Baku  B. Bishkek  C. Istanbul  D. Marrakesh
 
 “Limits to Growth” propounded by:
 
-Options: A. Club of Rome  B. UNESCO  C. Brundtland  D. Agenda 21
+Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 
 <details><summary>Show answer</summary>
 
@@ -182,7 +182,7 @@ Options: A. Club of Rome  B. UNESCO  C. Brundtland  D. Agenda 21
 
 </details>
 
-> **Exam note:** UNESCO = WH/MAB. UNEP = environment programme.
+> ** note:** UNESCO = WH/MAB. UNEP = environment programme.
 
 ---
 
@@ -197,7 +197,7 @@ Options: A. Club of Rome  B. UNESCO  C. Brundtland  D. Agenda 21
 - Assesses scientific extinction risk; does **not** regulate wildlife trade — **CITES** does.
 - Advises CBD/CITES scientifically but is a separate organisation.
 
-> **Exam note:** “IUCN bans trade” = false. **CITES** regulates trade.
+> ** note:** “IUCN bans trade” = false. **CITES** regulates trade.
 
 ---
 
@@ -211,7 +211,7 @@ Options: A. Club of Rome  B. UNESCO  C. Brundtland  D. Agenda 21
 - Known for the **giant panda** logo and flagship-species campaigns.
 - Campaigns and advocates; IUCN assesses via Red List.
 
-> **Exam note:** Living Planet = **WWF**. Red List = **IUCN**.
+> ** note:** Living Planet = **WWF**. Red List = **IUCN**.
 
 ---
 
@@ -226,13 +226,13 @@ Options: A. Club of Rome  B. UNESCO  C. Brundtland  D. Agenda 21
 - Shared the **Nobel Peace Prize 2007** with Al Gore.
 - **UNFCCC/COP** is the policy–treaty track; IPCC informs it.
 
-> **Exam note:** IPCC ≠ UNFCCC. IPCC ≠ Emissions Gap Report.
+> ** note:** IPCC ≠ UNFCCC. IPCC ≠ Emissions Gap Report.
 
 ---
 
 ## Org ↔ Report ↔ HQ Card
 
-| Org | HQ | Flagship lock |
+| Org | HQ | Flagship fact |
 |-----|-----|---------------|
 | UNEP | Nairobi | Emissions Gap / GEO |
 | UNDP | New York | HDR / HDI |
@@ -248,7 +248,7 @@ Options: A. Club of Rome  B. UNESCO  C. Brundtland  D. Agenda 21
 
 **Q1.** Emissions Gap Report is by:
 
-Options: A. UNEP  B. IPCC  C. UNDP  D. WWF
+Options: A. UNEP B. IPCC C. UNDP D. WWF
 
 <details><summary>Show answer</summary>
 
@@ -258,7 +258,7 @@ Options: A. UNEP  B. IPCC  C. UNDP  D. WWF
 
 **Q2.** HDR / HDI is by:
 
-Options: A. UNDP  B. UNEP  C. IUCN  D. FAO
+Options: A. UNDP B. UNEP C. IUCN D. FAO
 
 <details><summary>Show answer</summary>
 
@@ -268,7 +268,7 @@ Options: A. UNDP  B. UNEP  C. IUCN  D. FAO
 
 **Q3.** UNEP HQ:
 
-Options: A. Nairobi  B. Geneva  C. Rome  D. Paris
+Options: A. Nairobi B. Geneva C. Rome D. Paris
 
 <details><summary>Show answer</summary>
 
@@ -278,7 +278,7 @@ Options: A. Nairobi  B. Geneva  C. Rome  D. Paris
 
 **Q4.** IPCC was created by:
 
-Options: A. WMO + UNEP  B. FAO + WHO  C. IUCN + WWF  D. UNDP + UNESCO
+Options: A. WMO + UNEP B. FAO + WHO C. IUCN + WWF D. UNDP + UNESCO
 
 <details><summary>Show answer</summary>
 
@@ -288,7 +288,7 @@ Options: A. WMO + UNEP  B. FAO + WHO  C. IUCN + WWF  D. UNDP + UNESCO
 
 **Q5.** Red List is by:
 
-Options: A. IUCN  B. WWF  C. CITES Secretariat alone as Red List author  D. UNDP
+Options: A. IUCN B. WWF C. CITES Secretariat alone as Red List author D. UNDP
 
 <details><summary>Show answer</summary>
 
@@ -298,7 +298,7 @@ Options: A. IUCN  B. WWF  C. CITES Secretariat alone as Red List author  D. UNDP
 
 **Q6.** Living Planet Report is by:
 
-Options: A. WWF  B. IUCN  C. IPCC  D. FAO
+Options: A. WWF B. IUCN C. IPCC D. FAO
 
 <details><summary>Show answer</summary>
 
@@ -308,7 +308,7 @@ Options: A. WWF  B. IUCN  C. IPCC  D. FAO
 
 **Q7.** FAO HQ:
 
-Options: A. Rome  B. Nairobi  C. New York  D. Gland
+Options: A. Rome B. Nairobi C. New York D. Gland
 
 <details><summary>Show answer</summary>
 
@@ -318,7 +318,7 @@ Options: A. Rome  B. Nairobi  C. New York  D. Gland
 
 **Q8.** UNESCO HQ:
 
-Options: A. Paris  B. Nairobi  C. Geneva  D. Rome
+Options: A. Paris B. Nairobi C. Geneva D. Rome
 
 <details><summary>Show answer</summary>
 
@@ -328,7 +328,7 @@ Options: A. Paris  B. Nairobi  C. Geneva  D. Rome
 
 **Q9.** GEF established in:
 
-Options: A. 1991  B. 1972 only  C. 1987 only  D. 2015 only
+Options: A. 1991 B. 1972 only C. 1987 only D. 2015 only
 
 <details><summary>Show answer</summary>
 
@@ -338,7 +338,7 @@ Options: A. 1991  B. 1972 only  C. 1987 only  D. 2015 only
 
 **Q10.** First HDR year:
 
-Options: A. 1990  B. 1972  C. 1988  D. 2015
+Options: A. 1990 B. 1972 C. 1988 D. 2015
 
 <details><summary>Show answer</summary>
 
@@ -348,7 +348,7 @@ Options: A. 1990  B. 1972  C. 1988  D. 2015
 
 **Q11.** IPCC Nobel Peace Prize year:
 
-Options: A. 2007  B. 1972  C. 1994  D. 2015
+Options: A. 2007 B. 1972 C. 1994 D. 2015
 
 <details><summary>Show answer</summary>
 
@@ -358,7 +358,7 @@ Options: A. 2007  B. 1972  C. 1994  D. 2015
 
 **Q12.** Wildlife trade regulation is mainly:
 
-Options: A. CITES  B. IUCN Red List alone  C. WWF panda logo alone  D. HDR chapter alone
+Options: A. CITES B. IUCN Red List alone C. WWF panda logo alone D. HDR chapter alone
 
 <details><summary>Show answer</summary>
 
@@ -368,7 +368,7 @@ Options: A. CITES  B. IUCN Red List alone  C. WWF panda logo alone  D. HDR chapt
 
 **Q13.** Limits to Growth is by:
 
-Options: A. Club of Rome  B. UNESCO  C. UNEP alone  D. IPCC AR1 alone
+Options: A. Club of Rome B. UNESCO C. UNEP alone D. IPCC AR1 alone
 
 <details><summary>Show answer</summary>
 
@@ -378,7 +378,7 @@ Options: A. Club of Rome  B. UNESCO  C. UNEP alone  D. IPCC AR1 alone
 
 **Q14.** MAB Biosphere Reserves are under:
 
-Options: A. UNESCO  B. WWF only  C. UNDP only  D. IMF only
+Options: A. UNESCO B. WWF only C. UNDP only D. IMF only
 
 <details><summary>Show answer</summary>
 
@@ -388,7 +388,7 @@ Options: A. UNESCO  B. WWF only  C. UNDP only  D. IMF only
 
 **Q15.** IPCC HQ:
 
-Options: A. Geneva  B. Nairobi  C. Rome  D. Paris
+Options: A. Geneva B. Nairobi C. Rome D. Paris
 
 <details><summary>Show answer</summary>
 
@@ -398,7 +398,7 @@ Options: A. Geneva  B. Nairobi  C. Rome  D. Paris
 
 **Q16.** UNDP HQ:
 
-Options: A. New York  B. Nairobi  C. Gland  D. Rome
+Options: A. New York B. Nairobi C. Gland D. Rome
 
 <details><summary>Show answer</summary>
 
@@ -408,7 +408,7 @@ Options: A. New York  B. Nairobi  C. Gland  D. Rome
 
 **Q17.** IUCN founded in:
 
-Options: A. 1948  B. 1972  C. 1988  D. 1992
+Options: A. 1948 B. 1972 C. 1988 D. 1992
 
 <details><summary>Show answer</summary>
 
@@ -418,7 +418,7 @@ Options: A. 1948  B. 1972  C. 1988  D. 1992
 
 **Q18.** Rotterdam Convention joint administrators:
 
-Options: A. FAO and UNEP  B. Only WWF and IUCN  C. Only UNDP and UNESCO  D. Only IPCC and IMF
+Options: A. FAO and UNEP B. Only WWF and IUCN C. Only UNDP and UNESCO D. Only IPCC and IMF
 
 <details><summary>Show answer</summary>
 
@@ -426,9 +426,9 @@ Options: A. FAO and UNEP  B. Only WWF and IUCN  C. Only UNDP and UNESCO  D. Only
 
 </details>
 
-**Q19.** HDI first team lock:
+**Q19.** HDI first team fact:
 
-Options: A. Mahbub ul Haq (with Sen’s contribution)  B. Only S. Priesner as sole leader  C. Only Club of Rome  D. Only IPCC WGIII
+Options: A. Mahbub ul Haq (with Sen’s contribution) B. Only S. Priesner as sole leader C. Only Club of Rome D. Only IPCC WGIII
 
 <details><summary>Show answer</summary>
 
@@ -438,7 +438,7 @@ Options: A. Mahbub ul Haq (with Sen’s contribution)  B. Only S. Priesner as so
 
 **Q20.** Threatened IUCN set commonly means:
 
-Options: A. VU + EN + CR  B. Only LC  C. Only EX forever  D. Only NT always
+Options: A. VU + EN + CR B. Only LC C. Only EX forever D. Only NT always
 
 <details><summary>Show answer</summary>
 
@@ -446,10 +446,10 @@ Options: A. VU + EN + CR  B. Only LC  C. Only EX forever  D. Only NT always
 
 </details>
 
-**Q21.** Assertion (A): Emissions Gap Report is by UNEP.  
+**Q21.** Assertion (A): Emissions Gap Report is by UNEP.
 Reason (R): IPCC publishes it as a treaty.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -459,7 +459,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A tr
 
 **Q22.** WWF is primarily a:
 
-Options: A. Conservation NGO  B. UN specialised agency like FAO  C. Climate treaty COP body  D. Carbon exchange only
+Options: A. Conservation NGO B. UN specialised agency like FAO C. Climate treaty COP body D. Carbon exchange only
 
 <details><summary>Show answer</summary>
 
@@ -469,7 +469,7 @@ Options: A. Conservation NGO  B. UN specialised agency like FAO  C. Climate trea
 
 **Q23.** “Only developed countries donate to GEF” is:
 
-Options: A. False  B. True always  C. True only after 2015  D. True only for Montreal Fund twin
+Options: A. False B. True always C. True only after 2015 D. True only for Montreal Fund twin
 
 <details><summary>Show answer</summary>
 
@@ -479,7 +479,7 @@ Options: A. False  B. True always  C. True only after 2015  D. True only for Mon
 
 **Q24.** UNESCO World Heritage natural sites example track:
 
-Options: A. Kaziranga / Sundarbans-type landscapes  B. Only HDR chapters  C. Only Emissions Gap annexes  D. Only Red List categories
+Options: A. Kaziranga / Sundarbans-type landscapes B. Only HDR chapters C. Only Emissions Gap annexes D. Only Red List categories
 
 <details><summary>Show answer</summary>
 
@@ -489,7 +489,7 @@ Options: A. Kaziranga / Sundarbans-type landscapes  B. Only HDR chapters  C. Onl
 
 **Q25.** IPCC does NOT:
 
-Options: A. Set national emission targets / NDCs  B. Publish Assessment Reports  C. Assess climate science  D. Inform negotiators
+Options: A. Set national emission targets / NDCs B. Publish Assessment Reports C. Assess climate science D. Inform negotiators
 
 <details><summary>Show answer</summary>
 
@@ -499,7 +499,7 @@ Options: A. Set national emission targets / NDCs  B. Publish Assessment Reports 
 
 **Q26.** Same HQ city for IUCN and WWF:
 
-Options: A. Gland  B. Nairobi  C. Rome  D. New York
+Options: A. Gland B. Nairobi C. Rome D. New York
 
 <details><summary>Show answer</summary>
 
@@ -509,7 +509,7 @@ Options: A. Gland  B. Nairobi  C. Rome  D. New York
 
 **Q27.** Stockholm 1972 created:
 
-Options: A. UNEP  B. IPCC alone in 1972  C. UNDP HDR in 1972  D. WWF Red List in 1972
+Options: A. UNEP B. IPCC alone in 1972 C. UNDP HDR in 1972 D. WWF Red List in 1972
 
 <details><summary>Show answer</summary>
 
@@ -517,9 +517,9 @@ Options: A. UNEP  B. IPCC alone in 1972  C. UNDP HDR in 1972  D. WWF Red List in
 
 </details>
 
-**Q28.** Jaipur WH session city (2019 lock):
+**Q28.** Jaipur WH session city (2019 fact):
 
-Options: A. Baku  B. Only Marrakesh as sole key  C. Only Istanbul as sole key  D. Only Bishkek as sole key
+Options: A. Baku B. Only Marrakesh as sole key C. Only Istanbul as sole key D. Only Bishkek as sole key
 
 <details><summary>Show answer</summary>
 
@@ -529,7 +529,7 @@ Options: A. Baku  B. Only Marrakesh as sole key  C. Only Istanbul as sole key  D
 
 **Q29.** SOFO is linked to:
 
-Options: A. FAO (often with UNEP)  B. Only UNDP HDI  C. Only WWF panda  D. Only IMF WEO
+Options: A. FAO (often with UNEP) B. Only UNDP HDI C. Only WWF panda D. Only IMF WEO
 
 <details><summary>Show answer</summary>
 
@@ -539,7 +539,7 @@ Options: A. FAO (often with UNEP)  B. Only UNDP HDI  C. Only WWF panda  D. Only 
 
 **Q30.** Correct set:
 
-Options: A. Gap=UNEP; HDR=UNDP; Red List=IUCN; LPR=WWF; IPCC≠UNFCCC; IUCN≠CITES  B. Gap=IPCC; HDR=UNEP; Red List=WWF; LPR=IUCN  C. UNEP HQ=Rome; FAO HQ=Nairobi  D. GEF donors=developed only; HDI team=Priesner
+Options: A. Gap=UNEP; HDR=UNDP; Red List=IUCN; LPR=WWF; IPCC≠UNFCCC; IUCN≠CITES B. Gap=IPCC; HDR=UNEP; Red List=WWF; LPR=IUCN C. UNEP HQ=Rome; FAO HQ=Nairobi D. GEF donors=developed only; HDI team=Priesner
 
 <details><summary>Show answer</summary>
 
@@ -551,19 +551,7 @@ Options: A. Gap=UNEP; HDR=UNDP; Red List=IUCN; LPR=WWF; IPCC≠UNFCCC; IUCN≠CI
 
 ## Complete PYQ Bank (Topic 42)
 
-**Q1. UPPCS 2024, Q6** — Emissions Gap = UNEP; HDR = UNDP → **Ans: A**
-
-**Q2. UPPCS 2025, Q132** — HDR 1990 true; Priesner team false → **Ans: D (Only 1)**
-
-**Q3. UPPCS 2025, Q145** — GEF 1991 true; developed-only donors false → **Ans: D (Only 1)**
-
-**Q4. UPPCS 2018, Q35** — HDI by UNDP → **Ans: A**
-
-**Q5. UPPCS 2019, Q35** — Jaipur WH session at Baku → **Ans: A**
-
-**Q6. UPPCS 2019, Q146** — Limits to Growth = Club of Rome → **Ans: A**
-
-**Q7. Pattern** — IPCC = WMO+UNEP 1988; Nobel 2007
+**Q1. UPPCS 2024, Q6** — Emissions Gap = UNEP; HDR = UNDP → **Ans: AQ2. UPPCS 2025, Q132** — HDR 1990 true; Priesner team false → **Ans: D (Only 1)Q3. UPPCS 2025, Q145** — GEF 1991 true; developed-only donors false → **Ans: D (Only 1)Q4. UPPCS 2018, Q35** — HDI by UNDP → **Ans: AQ5. UPPCS 2019, Q35** — Jaipur WH session at Baku → **Ans: AQ6. UPPCS 2019, Q146** — Limits to Growth = Club of Rome → **Ans: AQ7. Pattern** — IPCC = WMO+UNEP 1988; Nobel 2007
 
 **Q8. Pattern** — IUCN Red List ≠ CITES trade
 
@@ -575,7 +563,7 @@ Options: A. Gap=UNEP; HDR=UNDP; Red List=IUCN; LPR=WWF; IPCC≠UNFCCC; IUCN≠CI
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Emissions Gap = IPCC/UNDP | **UNEP** |
 | HDR = UNEP | **UNDP** |
@@ -615,10 +603,10 @@ Options: A. Gap=UNEP; HDR=UNDP; Red List=IUCN; LPR=WWF; IPCC≠UNFCCC; IUCN≠CI
 
 ### Topic boundaries
 
-- **Shorter institutions twin** — Topic 19  
-- **Treaties (UNFCCC, CBD, CITES…)** — Topic 43  
-- **IPCC report depth** — Topic 34  
-- **Biosphere MAB detail** — Topic 33  
+- **Shorter institutions twin** — Topic 19
+- **Treaties (UNFCCC, CBD, CITES…)** — Topic 43
+- **IPCC report depth** — Topic 34
+- **Biosphere MAB detail** — Topic 33
 
 ### PYQ audit
 

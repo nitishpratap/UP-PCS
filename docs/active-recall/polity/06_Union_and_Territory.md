@@ -31,7 +31,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Ambedkar’s lock: the Union is indestructible and States have no right to secede.** States are destructible because Parliament may reorganise them.
+**Ans: Ambedkar’s fact: the Union is indestructible and States have no right to secede.** States are destructible because Parliament may reorganise them.
 
 </details>
 
@@ -1070,7 +1070,7 @@ D. Only formation of a new State
 
 **Ans:**
 
-| Article | Lock |
+| Article | Fact |
 |---------|------|
 | 1 | India = **Union** of States. Territory = States + UTs + acquired |
 | 2 | Admission / establishment of **new States** |

@@ -8,14 +8,14 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 </details>
 
-> **Sources baked in:** Laxmikanth (Political Parties / Pressure Groups), RPA s.29A, Symbols Order 1968, Trade Unions Act 1926, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ — party **founding years** TDP→BSP→SP→TMC (2022); trade-union **affiliations** BMS/INTUC/AITUC (2022); national vs state recognition; hung House / coalition  
-> **Last verified:** August 2026  
-> **Current Affairs:** **6** national parties (BJP, INC, AAP, BSP, CPI(M), NPP). CPI lost national status **2023**. 2024 LS: BJP **240** → NDA **coalition**. Electoral bonds struck **Feb 2024** (*ADR*)
+> **Sources baked in:** Laxmikanth (Political Parties / Pressure Groups), RPA s.29A, Symbols Order 1968, Trade Unions Act 1926, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ — party **founding years** TDP→BSP→SP→TMC (2022); trade-union **affiliations** BMS/INTUC/AITUC (2022); national vs state recognition; hung House / coalition
+> **Last verified:** August 2026
+> **Current Affairs:6** national parties (BJP, INC, AAP, BSP, CPI(M), NPP). CPI lost national status **2023**. 2024 LS: BJP **240** → NDA **coalition**. Electoral bonds struck **Feb 2024** (*ADR*)
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. The Constitution barely names parties. The main hooks are Article **19(1)(c)** (association), the **Tenth Schedule** (defection), and Article **324** (elections). Parties were largely **extra-constitutional** until the **52nd** Amendment.
 2. Registration of a political party is under **section 29A** of the Representation of the People Act, 1951 (Registered Unrecognised Political Party). **Recognition** as a National or State party is under the Election Symbols Order **1968**. Do not merge the two steps.
@@ -34,7 +34,7 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 15. The right to **form** associations and unions is under Article **19(1)(c)**. The right to **strike** is **not** a Fundamental Right.
 16. Indian party-system features often tested are multi-party competition, weak ideology, dynasty politics, regionalisation after **1967**, weak inner-party democracy, and extra-constitutional origin of parties.
 17. National parties get an all-India reserved symbol. State parties get a reserved symbol **only in that State**.
-18. Electoral bonds were struck down in **February 2024** (*Association for Democratic Reforms*). Party funding transparency remains a live exam neighbour to registration and recognition.
+18. Electoral bonds were struck down in **February 2024** (*Association for Democratic Reforms*). Party funding transparency remains a live neighbour to registration and recognition.
 19. Pressure groups include business associations, farmer bodies, trade unions, and professional lobbies. They work through persuasion, media, litigation, and access — not through forming the ministry.
 20. Do not confuse **AITUC (CPI)** with **CITU (CPI-M)**, or **INTUC (Congress)** with **BMS (BJP/RSS)**.
 21. Recognition criteria use **votes share and seats**, not merely “old party” or “famous leader.” A registered party without recognition remains a RUPP with a free symbol.
@@ -46,7 +46,7 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|
@@ -63,7 +63,7 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 ## Frame
 
-Parties as a **system** + groups that **push** the system.  **who is a national party, who founded when, coalition/hung, unions/pressure groups**. UP paper loves **BSP / SP years** and **union–party match**.
+Parties as a **system** + groups that **push** the system. **who is a national party, who founded when, coalition/hung, unions/pressure groups**. UP paper loves **BSP / SP years** and **union–party match**.
 
 ---
 
@@ -114,22 +114,20 @@ Parties as a **system** + groups that **push** the system.  **who is a national 
 
 **National party — any one route**
 
-- **6%** valid votes in LS **or** Assembly elections in **four** States **and** **4** LS seats.
+- **6%** valid votes in LS **or** Assembly elections in **four** States **and4** LS seats.
 - **2%** of LS seats (**11** of 543) from at least **three** States.
 - Recognised as a **State party in four** States.
 
 **State party — any one route (in that State)**
 
-- **6%** votes in that State’s Assembly **or** LS poll **and** **2** MLAs **or** **1** MP.
+- **6%** votes in that State’s Assembly **or** LS poll **and2** MLAs **or1** MP.
 - **3%** of Assembly seats **or 3 seats**, whichever is more.
 - **1** LS seat per **25** LS seats from that State (minimum 1).
 - **8%** of total valid votes in the State (**even with zero seats** — 2011 add-on).
 
 ECI **reviews after every LS / every State Assembly general election**. Status can be **lost** (CPI **2023**). Do **not** freeze “India always has six national parties.”
 
-**s.29A extra locks:** apply to ECI with memorandum + **100** citizen-members; **21-day** public notice; no dual membership of another registered party. ECI may refuse. **RUPP ≠ reserved symbol.**
-
-**Common symbol for a RUPP (not recognition):** ECI may allot one **common** free symbol in a State if the party contests a **minimum share of seats** there (practice: **5%** of Assembly seats or a notified LS minimum). Still **unrecognised**.
+**s.29A extra facts:** apply to ECI with memorandum + **100** citizen-members; **21-day** public notice; no dual membership of another registered party. ECI may refuse. **RUPP ≠ reserved symbol.Common symbol for a RUPP (not recognition):** ECI may allot one **common** free symbol in a State if the party contests a **minimum share of seats** there (practice: **5%** of Assembly seats or a notified LS minimum). Still **unrecognised**.
 
 **Benefits of recognition:** all-India (or in-State) **reserved symbol** · star campaigners **40** vs **20** · AIR/DD time · **1 proposer** (others **10** for LS) · easier deposit refund (1/6 votes) · consultation by ECI · office land as rules allow.
 
@@ -150,13 +148,13 @@ ECI **reviews after every LS / every State Assembly general election**. Status c
 
 ## National parties (roster 2024–26)
 
-**Six.** Learn symbol + one founding lock. Roster **moves**.
+**Six.** Learn symbol + one founding fact. Roster **moves**.
 
-- **BJP — Lotus.** **6 Apr 1980** (BJS was **1951**, Syama Prasad Mookerjee).
-- **INC — Hand.** **28 Dec 1885**.
-- **AAP — Broom.** **26 Nov 2012**. National **2023** (4-State route).
+- **BJP — Lotus.6 Apr 1980** (BJS was **1951**, Syama Prasad Mookerjee).
+- **INC — Hand.28 Dec 1885**.
+- **AAP — Broom.26 Nov 2012**. National **2023** (4-State route).
 - **BSP — Elephant** (not in **Assam** — that animal is taken). **14 Apr 1984**, Kanshi Ram. HQ Delhi. UP’s dalit party.
-- **CPI(M) — Hammer, sickle and star.** **1964** split from CPI.
+- **CPI(M) — Hammer, sickle and star.1964** split from CPI.
 - **NPP — Book.** P.A. Sangma, **2013** (Meghalaya). National **2019** — **first from the North-East**.
 
 **HQ raata (sometimes asked):** BJP — **11, Ashoka Road** · INC — **24, Akbar Road**.
@@ -167,7 +165,7 @@ ECI **reviews after every LS / every State Assembly general election**. Status c
 
 ---
 
-## Regional / State parties (exam set)
+## Regional / State parties (set)
 
 **State-specific social base · often linguistic / ethnic · Centre kingmakers without being national · reserved symbol only in that State.**
 
@@ -189,16 +187,16 @@ ECI **reviews after every LS / every State Assembly general election**. Status c
 - **AIMIM — 1927 / revived 1958.** Hyderabad; Owaisi. State party in Telangana.
 - **ZPM — 2017.** Lalduhoma. Mizoram.
 
-**Regional-party exam features:** State-specific social base · often **linguistic / ethnic** · can be **Centre kingmakers** without being national · reserved symbol **only in that State**.
+**Regional-party features:** State-specific social base · often **linguistic / ethnic** · can be **Centre kingmakers** without being national · reserved symbol **only in that State**.
 
 **PYQ — UPPCS Prelims 2022, Q53**
 
 Consider the following political parties and arrange them in the chronological order of their establishment.
 
-I. Bahujan Samaj Party  
-II. Samajwadi Party  
-III. Telugu Desam Party  
-IV. All India Trinamool Congress  
+I. Bahujan Samaj Party
+II. Samajwadi Party
+III. Telugu Desam Party
+IV. All India Trinamool Congress
 
 A. III, I, II, IV
 B. II, I, III, IV
@@ -244,7 +242,7 @@ D. I, II, III, IV
 - Jumbo ministry: **91st Amd** — CoM ≤ **15%** of LS / Assembly — written *because* coalition cabinets ballooned.
 - CMP = Common Minimum Programme — the coalition’s public contract.
 
-**Centre coalitions (PM lock):**
+**Centre coalitions (PM fact):**
 
 - **1977** Janata — Morarji Desai (first non-Congress).
 - **1989** National Front — V.P. Singh (outside Left + BJP support — unstable).
@@ -265,7 +263,7 @@ D. I, II, III, IV
 - LS examples: **1989**, **1996**, **1998**, **2004** (UPA assembled a majority), **2024** (BJP hung, NDA not).
 - Who is invited: President (Art. **75**) / Governor (**164**) calls whoever is **most likely to command** confidence — often the **largest** party or a **pre-poll** alliance.
 - Proof: **floor test**, not hotel arithmetic. *Bommai / SR Bommai* + Punchhi.
-- A 13-day Vajpayee (1996) is the textbook “invited but lost the floor” lock.
+- A 13-day Vajpayee (1996) is the textbook “invited but lost the floor” fact.
 - Hung ≠ President’s Rule automatically. **356** is failure of constitutional machinery, not a hung House by itself.
 - Sarkaria / Punchhi **invite order** (States, same logic at Centre): (1) **pre-poll** alliance (2) **largest** party (3) **post-poll** combination that claims majority. Then **floor test** at once.
 - 1996 LS: Vajpayee sworn, **lost** confidence in **13 days** — hung + invite ≠ majority.
@@ -323,7 +321,7 @@ D. I, II, III, IV
 
 **Role:** voice for sections the party system under-represents · policy expertise · check on majority. **Criticism:** sectional veto · money power · unaccountable · can stall Parliament from the street · sometimes anomic (riots).
 
-**Not a pressure group:** a **recognised political party** (it contests). RSS is a **cadre organisation** that *pressures* and *feeds* a party (BJP) — exam still parks it under promotional/institutional, **not** as a registered party.
+**Not a pressure group:** a **recognised political party** (it contests). RSS is a **cadre organisation** that *pressures* and *feeds* a party (BJP) — still parks it under promotional/institutional, **not** as a registered party.
 
 ---
 
@@ -347,16 +345,16 @@ Registration (1926 Act): originally **7** members could apply; 2001 Amd → **10
 - **BMS — 23 Jul 1955** — **BJP / RSS**.
 - **CITU — 1970** — **CPI(M)**.
 
-> **Exam note:** 2022 asked BMS / INTUC / UTUC / AITUC vs INC, CPI, CPI(M), BJP. **Correct affiliations:** BMS–BJP · INTUC–INC · **AITUC–CPI** · **CITU–CPI(M)** · UTUC–**RSP**. The option set has no RSP — the only option that gets **BMS and INTUC** right is **D**, which then **swaps** the two Left unions. Learn the **true** table; mark **D** if forced.
+> ** note:** 2022 asked BMS / INTUC / UTUC / AITUC vs INC, CPI, CPI(M), BJP. **Correct affiliations:** BMS–BJP · INTUC–INC · **AITUC–CPI** · **CITU–CPI(M)** · UTUC–**RSP**. The option set has no RSP — the only option that gets **BMS and INTUC** right is **D**, which then **swaps** the two Left unions. Learn the **true** table; mark **D** if forced.
 
 **PYQ — UPPCS Prelims 2022, Q123**
 
 Match List-I (Trade Union) with List-II (Political Affiliation):
 
-A. Bharatiya Mazdoor Sangh  
-B. Indian National Trade Union Congress  
-C. United Trade Union Congress  
-D. All India Trade Union Congress  
+A. Bharatiya Mazdoor Sangh
+B. Indian National Trade Union Congress
+C. United Trade Union Congress
+D. All India Trade Union Congress
 
 1. Indian National Congress
 2. Communist Party of India
@@ -371,7 +369,7 @@ D. A-4, B-1, C-2, D-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — only option with BMS = BJP and INTUC = INC. True lock remains **AITUC = CPI**, **CITU = CPI(M)**.
+**Ans: D** — only option with BMS = BJP and INTUC = INC. True fact remains **AITUC = CPI**, **CITU = CPI(M)**.
 
 </details>
 
@@ -417,7 +415,7 @@ D. A-4, B-1, C-2, D-3
 
 > **Answers hidden.** Full stems (not cryptic stubs). **55 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
 
-**Q1.** Arrange in order of establishment: I BSP  II SP  III TDP  IV TMC
+**Q1.** Arrange in order of establishment: I BSP II SP III TDP IV TMC
 A. III, I, II, IV
 B. II, I, III, IV
 C. III, II, I, IV
@@ -444,8 +442,8 @@ D. 10th Schedule
 </details>
 
 **Q3.** With reference to recognition, which of the following is/are correct?
-1. A party becomes a National Party merely by registering under s.29A.  
-2. One route to national status is to be a State party in four States.  
+1. A party becomes a National Party merely by registering under s.29A.
+2. One route to national status is to be a State party in four States.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -518,14 +516,12 @@ D. CITU 1970
 
 </details>
 
-**Q7.**
+**Q7.Assertion (A):** India has a multi-party system.
 
-**Assertion (A):** India has a multi-party system.
-
-**Reason (R):** The BJP won a single-party majority in 2014 and 2019.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The BJP won a single-party majority in 2014 and 2019.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -549,8 +545,8 @@ D. NOTA has won
 </details>
 
 **Q9.** Which of the following is/are correct?
-1. CPI lost its national-party status in the 2023 ECI review.  
-2. NPP is the first national party from the North-East.  
+1. CPI lost its national-party status in the 2023 ECI review.
+2. NPP is the first national party from the North-East.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -629,8 +625,8 @@ D. Non-associational group
 </details>
 
 **Q15.** Consider the following statements:
-1. An interest group becomes a pressure group when it pressures the government.  
-2. The two terms are used interchangeably in many Indian exam questions.  
+1. An interest group becomes a pressure group when it pressures the government.
+2. The two terms are used interchangeably in many Indian questions.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -689,8 +685,8 @@ D. 543
 </details>
 
 **Q18.** Which of the following is/are a route to **State** party recognition?
-1. 8% of valid votes in the State even without winning a seat.  
-2. Being a national party in one other State.  
+1. 8% of valid votes in the State even without winning a seat.
+2. Being a national party in one other State.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -729,14 +725,12 @@ D. The President
 
 </details>
 
-**Q21.**
+**Q21.Assertion (A):** A hung House must lead to President’s Rule.
 
-**Assertion (A):** A hung House must lead to President’s Rule.
-
-**Reason (R):** The head of State first invites the combination most likely to prove a majority on the floor.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The head of State first invites the combination most likely to prove a majority on the floor.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -812,8 +806,8 @@ D. Unlimited
 </details>
 
 **Q27.** Which of the following statements is/are correct?
-1. NPP’s reserved symbol is the Book.  
-2. BSP cannot use the elephant in Assam.  
+1. NPP’s reserved symbol is the Book.
+2. BSP cannot use the elephant in Assam.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -866,8 +860,8 @@ D. President’s Rule
 </details>
 
 **Q31.** Consider the following statements:
-1. Free symbols are for unrecognised parties and independents.  
-2. A national party’s reserved symbol is not a free symbol in any State.  
+1. Free symbols are for unrecognised parties and independents.
+2. A national party’s reserved symbol is not a free symbol in any State.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -894,8 +888,8 @@ D. NPP
 </details>
 
 **Q33.** Match UP parties:
-A. BSP — 1. 1992, Mulayam  
-B. SP — 2. 1984, Kanshi Ram  
+A. BSP — 1. 1992, Mulayam
+B. SP — 2. 1984, Kanshi Ram
 A. A-2, B-1
 B. A-1, B-2
 C. Both founded 1984
@@ -909,8 +903,8 @@ D. Both founded 1992
 </details>
 
 **Q34.** Which of the following is/are correct about 2024?
-1. BJP crossed 272 on its own.  
-2. A coalition (NDA) formed the Union government.  
+1. BJP crossed 272 on its own.
+2. A coalition (NDA) formed the Union government.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -949,14 +943,12 @@ D. 1947
 
 </details>
 
-**Q37.**
+**Q37.Assertion (A):** Electoral bonds are the present legal route for anonymous party funding.
 
-**Assertion (A):** Electoral bonds are the present legal route for anonymous party funding.
-
-**Reason (R):** The Supreme Court struck the electoral-bond scheme down in 2024.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The Supreme Court struck the electoral-bond scheme down in 2024.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -993,8 +985,8 @@ D. NPP’s national status
 </details>
 
 **Q40.** Which of the following statements is/are correct?
-1. Parties seek governmental power; pressure groups seek to influence those who hold it.  
-2. The 10th Schedule is the anti-defection home, not the pressure-group home.  
+1. Parties seek governmental power; pressure groups seek to influence those who hold it.
+2. The 10th Schedule is the anti-defection home, not the pressure-group home.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1082,8 +1074,8 @@ D. Always President’s Rule first
 </details>
 
 **Q45.** Which of the following is/are correct?
-1. The right to form a trade union is under Article 19(1)(c).  
-2. The right to strike is a Fundamental Right.  
+1. The right to form a trade union is under Article 19(1)(c).
+2. The right to strike is a Fundamental Right.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1122,14 +1114,12 @@ D. TDP — 1992
 
 </details>
 
-**Q48.**
+**Q48.Assertion (A):** A registered unrecognised party never gets any common symbol.
 
-**Assertion (A):** A registered unrecognised party never gets any common symbol.
-
-**Reason (R):** Reserved symbols are only for recognised National and State parties.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** Reserved symbols are only for recognised National and State parties.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1152,7 +1142,7 @@ D. An ECI symbol
 
 </details>
 
-**Q50.** The official opposition in a House requires, as a convention lock?
+**Q50.** The official opposition in a House requires, as a convention fact?
 A. Any second party
 B. **10%** of the membership
 C. 1/3 of the membership
@@ -1166,8 +1156,8 @@ D. Recognition as a national party
 </details>
 
 **Q51.** Consider the following statements:
-1. Mayawati has been Chief Minister of UP four times.  
-2. BSP is a recognised national party.  
+1. Mayawati has been Chief Minister of UP four times.
+2. BSP is a recognised national party.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1207,8 +1197,8 @@ D. CITU
 </details>
 
 **Q54.** Which of the following statements is/are correct?
-1. A national party’s reserved symbol is the same in every State.  
-2. A State party’s symbol is reserved only in the State(s) where it is recognised.  
+1. A national party’s reserved symbol is the same in every State.
+2. A State party’s symbol is reserved only in the State(s) where it is recognised.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1240,12 +1230,12 @@ D. PESA
 
 ### 2022
 
-**Q1. UPPCS Prelims 2022, Q53**  
-Consider the following political parties and arrange them in the chronological order of their establishment.  
-I. Bahujan Samaj Party  
-II. Samajwadi Party  
-III. Telugu Desam Party  
-IV. All India Trinamool Congress  
+**Q1. UPPCS Prelims 2022, Q53**
+Consider the following political parties and arrange them in the chronological order of their establishment.
+I. Bahujan Samaj Party
+II. Samajwadi Party
+III. Telugu Desam Party
+IV. All India Trinamool Congress
 A. III, I, II, IV
 B. II, I, III, IV
 C. III, II, I, IV
@@ -1258,12 +1248,12 @@ D. I, II, III, IV
 
 </details>
 
-**Q2. UPPCS Prelims 2022, Q123**  
-Match List-I (Trade Union) with List-II (Political Affiliation):  
-A. Bharatiya Mazdoor Sangh  
-B. Indian National Trade Union Congress  
-C. United Trade Union Congress  
-D. All India Trade Union Congress  
+**Q2. UPPCS Prelims 2022, Q123**
+Match List-I (Trade Union) with List-II (Political Affiliation):
+A. Bharatiya Mazdoor Sangh
+B. Indian National Trade Union Congress
+C. United Trade Union Congress
+D. All India Trade Union Congress
 1. INC
 2. CPI
 3. CPI(M)
@@ -1276,7 +1266,7 @@ D. A-4, B-1, C-2, D-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** BMS–BJP and INTUC–INC are the clean locks. True union table: **AITUC = CPI**, **CITU = CPI(M)**, **UTUC = RSP**.
+**Ans: D.** BMS–BJP and INTUC–INC are the clean facts. True union table: **AITUC = CPI**, **CITU = CPI(M)**, **UTUC = RSP**.
 
 </details>
 

@@ -8,13 +8,13 @@ Desertification | Land Degradation | Drought | Soil Erosion
 
 </details>
 
-> **Sources baked in:** NCERT; ISRO Desertification Atlas 2016; UNCCD; IMD; DPAP; UPPCS PYQs  
-> **Exam weight:** ★★ Medium — ASDM definition; sheet→ravine; UNCCD; LDN 2030; DPAP  
+> **Sources baked in:** NCERT; ISRO Desertification Atlas 2016; UNCCD; IMD; DPAP; UPPCS PYQs
+> **Weight:** ★★ Medium — ASDM definition; sheet→ravine; UNCCD; LDN 2030; DPAP
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 22 Must-Score Locks
+## Consolidated — 22 Must-Score Facts
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** drylands. It is not merely “the desert expanding.”
 2. Drivers combine climate variation with human pressures such as overgrazing, deforestation, and bad irrigation.
@@ -25,25 +25,25 @@ Desertification | Land Degradation | Drought | Soil Erosion
 7. Bundelkhand’s **seven** Uttar Pradesh districts are a classic UP drought–degradation hotspot.
 8. Water erosion stages run **sheet → rill → gully → ravine**. The **Chambal** ravines are the textbook deep badlands.
 9. Wind erosion works through **deflation** and **abrasion**, especially in the Thar.
-10. **Overgrazing** is the top dryland cause in many coaching locks. Afforestation helps prevent further degradation.
+10. **Overgrazing** is the top dryland cause in many coaching facts. Afforestation helps prevent further degradation.
 11. The **UNCCD** was adopted in **1994**. **17 June** is Desertification and Drought Day.
 12. **Land Degradation Neutrality (LDN)** targets **no net loss** of healthy land by **2030** (SDG **15.3**).
 13. UNCCD is the desertification convention. **UNFCCC** is the climate convention — different treaties.
 14. Salinity from poor irrigation is a human-made degradation path even where rainfall is not zero.
-15. Accelerated erosion from human misuse is the exam focus, not only slow geological erosion.
+15. Accelerated erosion from human misuse is the focus, not only slow geological erosion.
 16. Desertification can reverse with sustainable land management; it is not an irreversible death sentence in every plot.
 17. Do not define desertification as any bare land in a humid forest belt.
 18. Sheet erosion removes a thin film; gullies cut channels; ravines are deep, dense badland networks.
 19. IMD drought monitoring and DPAP geography often appear beside desertification stems.
 20. SDG 15.3 LDN is the policy end-state; UNCCD is the global legal home.
-21. Thar wind processes and Chambal water ravines are twin Indian landform locks.
+21. Thar wind processes and Chambal water ravines are twin Indian landform facts.
 22. Deforestation removes cover and raises runoff and erosion risk in drylands and beyond.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Term | One-line lock |
+| Term | One-line fact |
 |------|---------------|
 | **Desertification / Land degradation** | ASDM drylands only / any land productivity loss |
 | **Drought / Desertification** | Temporary water deficit / lasting dryland productivity loss |
@@ -72,7 +72,7 @@ Desertification | Land Degradation | Drought | Soil Erosion
 
 India aims to achieve land degradation neutrality by the year
 
-Options: A. 2025  B. 2030  C. 2035  D. 2040
+Options: A. 2025 B. 2030 C. 2035 D. 2040
 
 <details><summary>Show answer</summary>
 
@@ -80,7 +80,7 @@ Options: A. 2025  B. 2030  C. 2035  D. 2040
 
 </details>
 
-> **Exam note:** Bundelkhand (dry sub-humid) can desertify — not only sand deserts.
+> ** note:** Bundelkhand (dry sub-humid) can desertify — not only sand deserts.
 
 ---
 
@@ -95,14 +95,14 @@ Options: A. 2025  B. 2030  C. 2035  D. 2040
 - Solutions: watershed management, afforestation, controlled grazing, soil-water conservation, and LDN restoration projects.
 - **Afforestation reduces** degradation — it is not a cause.
 
-| Process | Lock |
+| Process | Meaning |
 |---------|------|
 | Water/wind erosion | Topsoil loss |
 | Salinization | Excess irrigation salts |
 | Waterlogging | Poor drainage |
 | Mining / pollution | Direct land damage |
 
-> **Exam note:** UNCCD ≠ UNFCCC. LDN year = **2030**.
+> ** note:** UNCCD ≠ UNFCCC. LDN year = **2030**.
 
 ---
 
@@ -122,10 +122,10 @@ Options: A. 2025  B. 2030  C. 2035  D. 2040
 
 **PYQ — UPPCS Prelims 2025, Q134**
 
-Arrange chronologically:  
-1. Food for Work  2. Community Development Programme  3. TRYSEM  4. Drought Prone Areas Programme
+Arrange chronologically:
+1. Food for Work 2. Community Development Programme 3. TRYSEM 4. Drought Prone Areas Programme
 
-Options: A. 4, 2, 3, 1  B. 2, 4, 1, 3  C. 2, 4, 3, 1  D. 4, 2, 1, 3
+Options: A. 4, 2, 3, 1 B. 2, 4, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 1, 3
 
 <details><summary>Show answer</summary>
 
@@ -133,7 +133,7 @@ Options: A. 4, 2, 3, 1  B. 2, 4, 1, 3  C. 2, 4, 3, 1  D. 4, 2, 1, 3
 
 </details>
 
-> **Exam note:** Drought ≠ famine automatically; drought ≠ permanent desert.
+> ** note:** Drought ≠ famine automatically; drought ≠ permanent desert.
 
 ---
 
@@ -142,10 +142,10 @@ Options: A. 4, 2, 3, 1  B. 2, 4, 1, 3  C. 2, 4, 3, 1  D. 4, 2, 1, 3
 **Identity:** Normal vs accelerated | Sheet→ravine | Wind | Conservation
 
 - **Normal (geological) erosion** is slow and roughly balances soil formation.
-- **Accelerated erosion** is human-driven and faster than formation — the exam focus.
-- **Water erosion ladder:** **sheet → rill → gully → ravine**.
+- **Accelerated erosion** is human-driven and faster than formation — the focus.
+- **Water erosion ladder:sheet → rill → gully → ravine**.
 - **Chambal ravines** (MP–UP–Rajasthan, including Etawah–Agra belt) are the classic Indian ravine badlands.
-- **Wind erosion:** **deflation** (lifting fine particles) and **abrasion** (sandblasting) — strong in the Thar.
+- **Wind erosion:deflation** (lifting fine particles) and **abrasion** (sandblasting) — strong in the Thar.
 - Conservation: contour bunding, terracing, shelter belts, check dams, gully plugging, cover crops, and afforestation.
 - Healthy soil biology (e.g. earthworms) supports fertility and structure.
 
@@ -153,7 +153,7 @@ Options: A. 4, 2, 3, 1  B. 2, 4, 1, 3  C. 2, 4, 3, 1  D. 4, 2, 1, 3
 
 Thar / Rajasthan desert expanse is mainly of:
 
-Options: A. Pliocene  B. Paleocene  C. Pleistocene and recent deposits  D. Oligocene
+Options: A. Pliocene B. Paleocene C. Pleistocene and recent deposits D. Oligocene
 
 <details><summary>Show answer</summary>
 
@@ -169,7 +169,7 @@ Options: A. Pliocene  B. Paleocene  C. Pleistocene and recent deposits  D. Oligo
 | Ravine | Deep badlands (Chambal) |
 | Wind | Deflation + abrasion |
 
-> **Exam note:** Afforestation and shelter belts **prevent** erosion — they are not causes.
+> ** note:** Afforestation and shelter belts **prevent** erosion — they are not causes.
 
 ---
 
@@ -177,7 +177,7 @@ Options: A. Pliocene  B. Paleocene  C. Pleistocene and recent deposits  D. Oligo
 
 **Q1.** Desertification occurs in:
 
-Options: A. ASDM drylands  B. Only deep oceans  C. Only Antarctic ice  D. Only rainforests forever wet
+Options: A. ASDM drylands B. Only deep oceans C. Only Antarctic ice D. Only rainforests forever wet
 
 <details><summary>Show answer</summary>
 
@@ -187,7 +187,7 @@ Options: A. ASDM drylands  B. Only deep oceans  C. Only Antarctic ice  D. Only r
 
 **Q2.** LDN target year for India/SDG framing:
 
-Options: A. 2030  B. 2050 only  C. 1987  D. 1952
+Options: A. 2030 B. 2050 only C. 1987 D. 1952
 
 <details><summary>Show answer</summary>
 
@@ -197,7 +197,7 @@ Options: A. 2030  B. 2050 only  C. 1987  D. 1952
 
 **Q3.** UNCCD adopted in:
 
-Options: A. 1994  B. 1972 only  C. 1987 only  D. 2015 only
+Options: A. 1994 B. 1972 only C. 1987 only D. 2015 only
 
 <details><summary>Show answer</summary>
 
@@ -207,7 +207,7 @@ Options: A. 1994  B. 1972 only  C. 1987 only  D. 2015 only
 
 **Q4.** Desertification & Drought Day:
 
-Options: A. 17 June  B. 5 June only  C. 16 September  D. 22 April
+Options: A. 17 June B. 5 June only C. 16 September D. 22 April
 
 <details><summary>Show answer</summary>
 
@@ -217,7 +217,7 @@ Options: A. 17 June  B. 5 June only  C. 16 September  D. 22 April
 
 **Q5.** Leading human cause in drylands:
 
-Options: A. Overgrazing  B. Afforestation  C. Contour bunding  D. Shelter belts
+Options: A. Overgrazing B. Afforestation C. Contour bunding D. Shelter belts
 
 <details><summary>Show answer</summary>
 
@@ -227,7 +227,7 @@ Options: A. Overgrazing  B. Afforestation  C. Contour bunding  D. Shelter belts
 
 **Q6.** Which prevents land degradation?
 
-Options: A. Afforestation  B. Overgrazing  C. Clear-felling  D. Unchecked mining
+Options: A. Afforestation B. Overgrazing C. Clear-felling D. Unchecked mining
 
 <details><summary>Show answer</summary>
 
@@ -237,7 +237,7 @@ Options: A. Afforestation  B. Overgrazing  C. Clear-felling  D. Unchecked mining
 
 **Q7.** Correct water-erosion sequence:
 
-Options: A. Sheet → rill → gully → ravine  B. Ravine → sheet only  C. Wind → only BOD  D. Noise → gully
+Options: A. Sheet → rill → gully → ravine B. Ravine → sheet only C. Wind → only BOD D. Noise → gully
 
 <details><summary>Show answer</summary>
 
@@ -247,7 +247,7 @@ Options: A. Sheet → rill → gully → ravine  B. Ravine → sheet only  C. Wi
 
 **Q8.** Chambal ravines span:
 
-Options: A. MP–UP–Rajasthan  B. Only Kerala  C. Only Assam  D. Only Goa
+Options: A. MP–UP–Rajasthan B. Only Kerala C. Only Assam D. Only Goa
 
 <details><summary>Show answer</summary>
 
@@ -257,7 +257,7 @@ Options: A. MP–UP–Rajasthan  B. Only Kerala  C. Only Assam  D. Only Goa
 
 **Q9.** DPAP launched around:
 
-Options: A. 1973–74  B. 1994 only  C. 2019 only  D. 1485
+Options: A. 1973–74 B. 1994 only C. 2019 only D. 1485
 
 <details><summary>Show answer</summary>
 
@@ -267,7 +267,7 @@ Options: A. 1973–74  B. 1994 only  C. 2019 only  D. 1485
 
 **Q10.** Meteorological drought marker often used:
 
-Options: A. Rainfall << LPA (e.g. <75% LPA severe)  B. Only AQI > 500  C. Only ozone hole DU  D. Only BOD < 3
+Options: A. Rainfall << LPA (e.g. <75% LPA severe) B. Only AQI > 500 C. Only ozone hole DU D. Only BOD < 3
 
 <details><summary>Show answer</summary>
 
@@ -277,7 +277,7 @@ Options: A. Rainfall << LPA (e.g. <75% LPA severe)  B. Only AQI > 500  C. Only o
 
 **Q11.** Bundelkhand UP districts count commonly locked:
 
-Options: A. Seven  B. Seventy  C. Two only  D. Zero
+Options: A. Seven B. Seventy C. Two only D. Zero
 
 <details><summary>Show answer</summary>
 
@@ -287,7 +287,7 @@ Options: A. Seven  B. Seventy  C. Two only  D. Zero
 
 **Q12.** Wind erosion processes:
 
-Options: A. Deflation and abrasion  B. Only BOD assay  C. Only photochemical O₃  D. Only MARPOL annexes
+Options: A. Deflation and abrasion B. Only BOD assay C. Only photochemical O₃ D. Only MARPOL annexes
 
 <details><summary>Show answer</summary>
 
@@ -295,9 +295,9 @@ Options: A. Deflation and abrasion  B. Only BOD assay  C. Only photochemical O�
 
 </details>
 
-**Q13.** Thar deposits (2018 lock):
+**Q13.** Thar deposits (2018 fact):
 
-Options: A. Pleistocene and recent  B. Only Archean basement always  C. Only Oligocene alone as sole answer key  D. Only lunar dust
+Options: A. Pleistocene and recent B. Only Archean basement always C. Only Oligocene alone as sole answer key D. Only lunar dust
 
 <details><summary>Show answer</summary>
 
@@ -307,7 +307,7 @@ Options: A. Pleistocene and recent  B. Only Archean basement always  C. Only Oli
 
 **Q14.** India degraded area share ~:
 
-Options: A. 29–30%  B. 1% only  C. 99% always  D. Zero
+Options: A. 29–30% B. 1% only C. 99% always D. Zero
 
 <details><summary>Show answer</summary>
 
@@ -317,7 +317,7 @@ Options: A. 29–30%  B. 1% only  C. 99% always  D. Zero
 
 **Q15.** Worst-affected state in Atlas framing:
 
-Options: A. Rajasthan  B. Goa only  C. Sikkim only  D. Kerala only
+Options: A. Rajasthan B. Goa only C. Sikkim only D. Kerala only
 
 <details><summary>Show answer</summary>
 
@@ -327,7 +327,7 @@ Options: A. Rajasthan  B. Goa only  C. Sikkim only  D. Kerala only
 
 **Q16.** Salinization often follows:
 
-Options: A. Improper irrigation  B. Only contour bunding  C. Only shelter belts  D. Only check dams
+Options: A. Improper irrigation B. Only contour bunding C. Only shelter belts D. Only check dams
 
 <details><summary>Show answer</summary>
 
@@ -337,7 +337,7 @@ Options: A. Improper irrigation  B. Only contour bunding  C. Only shelter belts 
 
 **Q17.** CDP → DPAP → Food for Work → TRYSEM order:
 
-Options: A. 2, 4, 1, 3  B. 4, 2, 3, 1  C. 1, 2, 3, 4 only forever  D. 3, 1, 4, 2
+Options: A. 2, 4, 1, 3 B. 4, 2, 3, 1 C. 1, 2, 3, 4 only forever D. 3, 1, 4, 2
 
 <details><summary>Show answer</summary>
 
@@ -347,7 +347,7 @@ Options: A. 2, 4, 1, 3  B. 4, 2, 3, 1  C. 1, 2, 3, 4 only forever  D. 3, 1, 4, 2
 
 **Q18.** Drought vs desertification:
 
-Options: A. Drought temporary deficit; desertification lasting dryland productivity loss  B. Identical always  C. Drought only means ozone hole  D. Desertification only means one rainy day
+Options: A. Drought temporary deficit; desertification lasting dryland productivity loss B. Identical always C. Drought only means ozone hole D. Desertification only means one rainy day
 
 <details><summary>Show answer</summary>
 
@@ -357,7 +357,7 @@ Options: A. Drought temporary deficit; desertification lasting dryland productiv
 
 **Q19.** UNCCD vs UNFCCC:
 
-Options: A. Desertification vs climate  B. Same treaty  C. Both only plastic bans  D. Both only AQI colours
+Options: A. Desertification vs climate B. Same treaty C. Both only plastic bans D. Both only AQI colours
 
 <details><summary>Show answer</summary>
 
@@ -367,7 +367,7 @@ Options: A. Desertification vs climate  B. Same treaty  C. Both only plastic ban
 
 **Q20.** Shelter belts mainly fight:
 
-Options: A. Wind erosion  B. Only noise in Moradabad  C. Only SUP plastics  D. Only photochemical smog O₃
+Options: A. Wind erosion B. Only noise in Moradabad C. Only SUP plastics D. Only photochemical smog O₃
 
 <details><summary>Show answer</summary>
 
@@ -375,10 +375,10 @@ Options: A. Wind erosion  B. Only noise in Moradabad  C. Only SUP plastics  D. O
 
 </details>
 
-**Q21.** Assertion (A): Desertification means only Thar sand dunes moving east forever.  
+**Q21.** Assertion (A): Desertification means only Thar sand dunes moving east forever.
 Reason (R): UN definition is productivity loss in ASDM drylands.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A false, R true  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A false, R true D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -388,7 +388,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 
 **Q22.** Agricultural drought focuses on:
 
-Options: A. Crop soil-moisture failure  B. Only stock market crash  C. Only ozone DU  D. Only AQI severe days
+Options: A. Crop soil-moisture failure B. Only stock market crash C. Only ozone DU D. Only AQI severe days
 
 <details><summary>Show answer</summary>
 
@@ -398,7 +398,7 @@ Options: A. Crop soil-moisture failure  B. Only stock market crash  C. Only ozon
 
 **Q23.** Gully plugging helps:
 
-Options: A. Stop gully growth  B. Increase SO₂ only  C. Raise AQI only  D. Ban all rain
+Options: A. Stop gully growth B. Increase SO₂ only C. Raise AQI only D. Ban all rain
 
 <details><summary>Show answer</summary>
 
@@ -408,7 +408,7 @@ Options: A. Stop gully growth  B. Increase SO₂ only  C. Raise AQI only  D. Ban
 
 **Q24.** Hydrological drought shows in:
 
-Options: A. Rivers/reservoirs/groundwater fall  B. Only textbook pH 7 rain  C. Only helium balloons  D. Only marble gypsum on Taj alone
+Options: A. Rivers/reservoirs/groundwater fall B. Only textbook pH 7 rain C. Only helium balloons D. Only marble gypsum on Taj alone
 
 <details><summary>Show answer</summary>
 
@@ -418,7 +418,7 @@ Options: A. Rivers/reservoirs/groundwater fall  B. Only textbook pH 7 rain  C. O
 
 **Q25.** Contour bunding is for:
 
-Options: A. Reducing runoff/erosion on slopes  B. Increasing overgrazing  C. Expanding ravines  D. Removing all vegetation
+Options: A. Reducing runoff/erosion on slopes B. Increasing overgrazing C. Expanding ravines D. Removing all vegetation
 
 <details><summary>Show answer</summary>
 
@@ -428,7 +428,7 @@ Options: A. Reducing runoff/erosion on slopes  B. Increasing overgrazing  C. Exp
 
 **Q26.** LDN means roughly:
 
-Options: A. No net loss of healthy land  B. Only net zero CO₂ by 2070  C. Only Montreal ODS ban  D. Only noise silence zones
+Options: A. No net loss of healthy land B. Only net zero CO₂ by 2070 C. Only Montreal ODS ban D. Only noise silence zones
 
 <details><summary>Show answer</summary>
 
@@ -438,7 +438,7 @@ Options: A. No net loss of healthy land  B. Only net zero CO₂ by 2070  C. Only
 
 **Q27.** Sheet erosion is:
 
-Options: A. Uniform thin topsoil removal  B. Only deep Chambal canyons at first step  C. Only wind abrasion always  D. Only indoor pollution
+Options: A. Uniform thin topsoil removal B. Only deep Chambal canyons at first step C. Only wind abrasion always D. Only indoor pollution
 
 <details><summary>Show answer</summary>
 
@@ -448,7 +448,7 @@ Options: A. Uniform thin topsoil removal  B. Only deep Chambal canyons at first 
 
 **Q28.** DDP relates to:
 
-Options: A. Desert Development Programme  B. Only Ozone Day Protocol  C. Only BOD Act 1974  D. Only AQI colour chart
+Options: A. Desert Development Programme B. Only Ozone Day Protocol C. Only BOD Act 1974 D. Only AQI colour chart
 
 <details><summary>Show answer</summary>
 
@@ -456,9 +456,9 @@ Options: A. Desert Development Programme  B. Only Ozone Day Protocol  C. Only BO
 
 </details>
 
-**Q29.** Feedback loop lock:
+**Q29.** Feedback loop fact:
 
-Options: A. Drought → bare soil → erosion → desertification risk  B. Afforestation → always desert expansion  C. Contour bunds → create deserts  D. LDN → bans all crops
+Options: A. Drought → bare soil → erosion → desertification risk B. Afforestation → always desert expansion C. Contour bunds → create deserts D. LDN → bans all crops
 
 <details><summary>Show answer</summary>
 
@@ -468,7 +468,7 @@ Options: A. Drought → bare soil → erosion → desertification risk  B. Affor
 
 **Q30.** Correct set:
 
-Options: A. Desertification=ASDM; LDN=2030; UNCCD=1994; DPAP=1973; sheet→ravine  B. Desertification=only oceans; LDN=1987; UNCCD=Montreal twin  C. Afforestation causes degradation; Chambal only in Kerala  D. Drought = permanent desert always
+Options: A. Desertification=ASDM; LDN=2030; UNCCD=1994; DPAP=1973; sheet→ravine B. Desertification=only oceans; LDN=1987; UNCCD=Montreal twin C. Afforestation causes degradation; Chambal only in Kerala D. Drought = permanent desert always
 
 <details><summary>Show answer</summary>
 
@@ -480,13 +480,7 @@ Options: A. Desertification=ASDM; LDN=2030; UNCCD=1994; DPAP=1973; sheet→ravin
 
 ## Complete PYQ Bank (Topic 40)
 
-**Q1. UPPCS 2019, Q42** — LDN by **2030** → **Ans: B**
-
-**Q2. UPPCS 2025, Q134** — CDP → DPAP → Food for Work → TRYSEM → **Ans: B**
-
-**Q3. UPPCS 2018, Q101** — Thar = Pleistocene and recent deposits → **Ans: C**
-
-**Q4. Pattern** — UNCCD 1994; Desertification Day 17 June
+**Q1. UPPCS 2019, Q42** — LDN by **2030** → **Ans: BQ2. UPPCS 2025, Q134** — CDP → DPAP → Food for Work → TRYSEM → **Ans: BQ3. UPPCS 2018, Q101** — Thar = Pleistocene and recent deposits → **Ans: CQ4. Pattern** — UNCCD 1994; Desertification Day 17 June
 
 **Q5. Pattern** — Desertification ≠ mere desert expansion
 
@@ -504,7 +498,7 @@ Options: A. Desertification=ASDM; LDN=2030; UNCCD=1994; DPAP=1973; sheet→ravin
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Desertification = only desert expansion | **ASDM productivity loss** |
 | UNCCD = climate treaty | **Desertification**; UNFCCC = climate |
@@ -515,7 +509,7 @@ Options: A. Desertification=ASDM; LDN=2030; UNCCD=1994; DPAP=1973; sheet→ravin
 | LDN year 2025/2040 | **2030** |
 | Chambal only in one state | **MP–UP–Rajasthan** |
 | DPAP = 1994 | **1973–74** |
-| Normal erosion = exam focus | **Accelerated** erosion is |
+| Normal erosion = focus | **Accelerated** erosion is |
 
 ---
 
@@ -541,10 +535,10 @@ Options: A. Desertification=ASDM; LDN=2030; UNCCD=1994; DPAP=1973; sheet→ravin
 
 ### Topic boundaries
 
-- **Shorter twin without dedicated drought bullet** — Topic 13  
-- **Disaster drought CA depth** — Topic 23  
-- **Soil as geography resource** — Geography soils chapter  
-- **Climate change drought frequency** — Topics 10/34  
+- **Shorter twin without dedicated drought bullet** — Topic 13
+- **Disaster drought CA depth** — Topic 23
+- **Soil as geography resource** — Geography soils chapter
+- **Climate change drought frequency** — Topics 10/34
 
 ### PYQ audit
 

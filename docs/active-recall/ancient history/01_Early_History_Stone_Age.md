@@ -85,7 +85,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: A small stone blade**, about **1–8 cm**, hafted in wood or bone as a composite tool. It is the Mesolithic lock.
+**Ans: A small stone blade**, about **1–8 cm**, hafted in wood or bone as a composite tool. It is the Mesolithic fact.
 
 </details>
 
@@ -308,7 +308,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q33.** Name the famous Neolithic site in Kashmir, and its lock.
+**Q33.** Name the famous Neolithic site in Kashmir, and its fact.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -326,7 +326,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q35.** Name a famous Neolithic site in Bihar, and its lock.
+**Q35.** Name a famous Neolithic site in Bihar, and its fact.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -375,7 +375,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q40.** Which Chalcolithic culture is the standard lock for white-painted black-and-red ware in western India?
+**Q40.** Which Chalcolithic culture is the standard fact for white-painted black-and-red ware in western India?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -568,7 +568,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ---
 
-## Extra locks the drill skipped (UPPCS / NCERT)
+## Extra facts the drill skipped (UPPCS / NCERT)
 
 **Q57.** Who is called the Father of Indian Prehistory, and for which find?
 
@@ -624,7 +624,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q63.** Which UP Belan-valley sites are the rice lock, and what extra lock sits at Mahagara?
+**Q63.** Which UP Belan-valley sites are the rice fact, and what extra fact sits at Mahagara?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -644,7 +644,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 **Q65.** Match these Chalcolithic cultures. Row order is **not** the answer.
 
-| Culture | Region / lock |
+| Culture | Region / fact |
 | ------- | ------------- |
 | Ahar–Banas | ? |
 | Kayatha | ? |
@@ -655,7 +655,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details markdown="1">
 <summary>Show answer</summary>
 
-| Culture | Region / lock |
+| Culture | Region / fact |
 | ------- | ------------- |
 | **Ahar–Banas** | Rajasthan; copper; white-painted **BRW** |
 | **Kayatha** | Chambal, MP; red-slipped ware |

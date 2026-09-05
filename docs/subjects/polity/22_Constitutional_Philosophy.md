@@ -8,14 +8,14 @@ Constitutionalism | Constitutional Morality | Rule of Law | Due Process of Law |
 
 </details>
 
-> **Sources baked in:** Preamble, Arts. 14–18 / 19 / 25–28 / 37–38 / 51A, *Bommai*, Ambedkar CAD, 42nd/44th, UPPCS 2018–2025  
-> **Exam weight:** ★★★ — Indian secularism = **positive / equal respect**, not a US wall (*Bommai*); socialism = **democratic / mixed**, not Marxism; welfare = **Art. 38 + Part IV**; Preamble **Justice 3 · Liberty 5 · Equality 2 · Fraternity 1**; “Federal” **not** in Preamble; 42nd added **Socialist + Secular** (not Sovereign/Republic)  
-> **Last verified:** August 2026  
-> **Current Affairs:** *Bommai* secularism still the 356 lock; Preamble words themselves are 1976 text, not a yearly rewrite
+> **Sources baked in:** Preamble, Arts. 14–18 / 19 / 25–28 / 37–38 / 51A, *Bommai*, Ambedkar CAD, 42nd/44th, UPPCS 2018–2025
+> **Weight:** ★★★ — Indian secularism = **positive / equal respect**, not a US wall (*Bommai*); socialism = **democratic / mixed**, not Marxism; welfare = **Art. 38 + Part IV**; Preamble **Justice 3 · Liberty 5 · Equality 2 · Fraternity 1**; “Federal” **not** in Preamble; 42nd added **Socialist + Secular** (not Sovereign/Republic)
+> **Last verified:** August 2026
+> **Current Affairs:** *Bommai* secularism still the 356 fact; Preamble words themselves are 1976 text, not a yearly rewrite
 
 ---
 
-## Consolidated — 30 Must-Score Locks
+## Consolidated — 30 Must-Score Facts
 
 1. The Preamble counts are **Justice 3**, **Liberty 5**, **Equality 2**, and **Fraternity 1**. The word **Federal** is **not** in the Preamble. The **42nd** Amendment added **Socialist**, **Secular**, and **integrity**.
 2. **Constitutionalism** means limited government under a higher law. Merely having a written constitution booklet is **not** enough by itself.
@@ -32,7 +32,7 @@ Constitutionalism | Constitutional Morality | Rule of Law | Due Process of Law |
 13. The **24th** Amendment inserted Article **13(4)** so that a **368** amendment is not “law” under Article 13. The **42nd** tried to bar review of amendments through Articles **368(4)/(5)**; *Minerva Mills* (**1980**) struck that attempt.
 14. **Judicial review** tests statutes, executive action, and constitutional amendments against the Constitution (including Basic Structure). It is **not** the same claim as “judicial supremacy.”
 15. A **welfare state** pursues socio-economic goals; a **police state** stops at law and order. Article **38** (with **38(2)** via the 44th) and Part **IV** are the main welfare instruments. Article **37** makes DPSPs fundamental in governance though not directly enforceable.
-16. High-yield DPSP locks include Article **40** (panchayats), **44** (UCC), **45** (early childhood), **47** (prohibition), **48** (cattle), and **48A** (environment).
+16. High-yield DPSP facts include Article **40** (panchayats), **44** (UCC), **45** (early childhood), **47** (prohibition), **48** (cattle), and **48A** (environment).
 17. **Socialism** was named in the Preamble by the **42nd**, but Part IV already carried socialist content. Indian socialism is **democratic / mixed-economy**, not a USSR one-party textbook model. The **1991** reforms did not delete the Preamble word.
 18. **Secularism** was named by the **42nd**, but Articles **25–28** already operated from 1950. Indian secularism is **positive** — equal respect, with Article **25(2)** reform power. *Bommai* (**1994**) treats secularism as Basic Structure. It is not theocracy and not a hard US “wall.”
 19. **Democracy** means rule by the people with universal adult franchise and free and fair elections (Basic Structure). A **republic** means an **elected** Head of State (Article **54**), not a hereditary monarch. The UK can be a democracy without being a republic.
@@ -50,7 +50,7 @@ Constitutionalism | Constitutional Morality | Rule of Law | Due Process of Law |
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|
@@ -106,13 +106,13 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 - Austin described the Constitution as a "seamless web" aiming at social revolution; Indian constitutionalism combines **brakes** (Fundamental Rights) with **goals** (Part IV), not brakes alone.
 - *ADM Jabalpur* (**1976**) is the anti-example: the booklet was still there, but constitutionalism failed in practice. *Puttaswamy* (**2017**) is the Court's later correction.
 
-> **Exam note:** “Written = constitutionalism” is false. The UK is unwritten, still a constitutional *practice*. Some written charters are not.
+> ** note:** “Written = constitutionalism” is false. The UK is unwritten, still a constitutional *practice*. Some written charters are not.
 
 ---
 
 ## Constitutional Morality
 
-**Fidelity to the Constitution’s norms, not to the street’s “morality”.** **Not** a phrase in the text. No article, no schedule, no 42nd insert.
+**Fidelity to the Constitution’s norms, not to the street’s “morality”.Not** a phrase in the text. No article, no schedule, no 42nd insert.
 
 - The historian **George Grote**, writing on Athenian history, coined the idea; **Ambedkar** brought it into the Constituent Assembly Debates on **4 November 1948**.
 - Grote's idea was that the majority **restrains itself** and respects **forms and institutions**, instead of ruling by mood.
@@ -131,7 +131,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 
 **NCT CA:** GNCTD **Amendment Act 2021** tried to enlarge the LG. SC **2023** still gave services to the elected side. Union then used an **Ordinance / GNCTD (Amendment) Act 2023** to put services back with the LG. Mark the *tug* — don’t freeze a 2026 statutory last word.
 
-> **Exam note:** Constitutional morality ≠ 42nd / Art. 51A. ≠ public morality in Arts. 19/25.
+> ** note:** Constitutional morality ≠ 42nd / Art. 51A. ≠ public morality in Arts. 19/25.
 
 ---
 
@@ -145,7 +145,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 | **2** | **Equality before the law** — officials like private persons in ordinary courts | **Yes.** Art. **14** “equality before law” is the Dicey phrase. “Equal protection” is the **US** add-on |
 | **3** | Constitution is the **result of ordinary law**; rights are from court rulings, not a Bill of Rights | **No.** India has a **written** supreme Constitution + **justiciable FRs**. Limb 3 is the UK story |
 
-**Indian working locks**
+**Indian working facts**
 
 - **Article 14** guarantees equality, **Article 21** guarantees liberty, and **Articles 32 and 226** give the remedy of judicial review to enforce both.
 - In *Indira Nehru Gandhi v Raj Narain* (**1975**), the Supreme Court treated the **Rule of Law**, along with free and fair elections, as part of the Basic Structure — so Parliament cannot *amend away* the Rule of Law.
@@ -165,7 +165,7 @@ Art. **14** still allows **reasonable classification**; it forbids **class legis
 
 PIL expands *access*. **2025 Q47:** PIL is essential for RoL because it gives weaker sections a path — both true, R explains A.
 
-> **Exam note:** Dicey’s three limbs do **not** all apply in India. **Limb 3 fails.**
+> ** note:** Dicey’s three limbs do **not** all apply in India. **Limb 3 fails.**
 
 ---
 
@@ -199,7 +199,7 @@ Two syllabus bullets. **One fight.**
 
 After *Maneka*, Indian courts do **both** procedural and substantive fairness under 14/21. That is due-process *content*. The **text** of 21 is still “procedure established by law”.
 
-**Exam traps**
+** traps**
 
 - Art. 21 was **not** amended to say “due process”.
 - *Maneka* is **not** a US Fifth Amendment transplant by Parliament.
@@ -238,7 +238,7 @@ After *Maneka*, Indian courts do **both** procedural and substantive fairness un
 - Tribunals under **Articles 323A and 323B** were meant to supplement, not substitute, the High Courts — in *L. Chandra Kumar*, the Supreme Court held that the writ jurisdiction of the High Courts under **Articles 226/227** must survive.
 - The dominance of the Lok Sabha over Money Bills is an **internal** hierarchy within the legislature, not the creation of a fourth organ.
 
-> **Exam note:** India **has** SOP — **functional**, not US rigidity. Art. 50 is a **DPSP**, not a FR, and it is **not** a complete SOP clause.
+> ** note:** India **has** SOP — **functional**, not US rigidity. Art. 50 is a **DPSP**, not a FR, and it is **not** a complete SOP clause.
 
 ---
 
@@ -261,7 +261,7 @@ After *Maneka*, Indian courts do **both** procedural and substantive fairness un
 
 US origin-story: ***Marbury v Madison* (1803)** — review implied. India: review is **written** (13, 32, 226) **plus** Basic Structure. UK classic: **no** review of primary Acts.
 
-> **Exam note:** CAG/EC/UPSC are **constitutional** offices, not extra-constitutional extras. Judicial review ≠ judicial supremacy.
+> ** note:** CAG/EC/UPSC are **constitutional** offices, not extra-constitutional extras. Judicial review ≠ judicial supremacy.
 
 ---
 
@@ -293,16 +293,16 @@ Three syllabus bullets. **One triad.** India claims the **third**.
 - The NJAC case (**2015**), which struck the 99th Amendment, is an example of the Court reviewing a **constitutional amendment** — this is still an exercise of constitutional supremacy, not a "judicial coup."
 - Judicial activism or overreach (PIL, continuing mandamus) is a *style* of exercising judicial review. It is **not** a third supremacy standing beside Parliament and the Court.
 
-**Constitutional supremacy — the Indian lock**
+**Constitutional supremacy — the Indian fact**
 
-- India locks in constitutional supremacy through a written Constitution, a federal distribution of powers, Fundamental Rights, an independent judiciary, and an Article **368** that grants a **power with limits**, not an unlimited one.
+- Indias in constitutional supremacy through a written Constitution, a federal distribution of powers, Fundamental Rights, an independent judiciary, and an Article **368** that grants a **power with limits**, not an unlimited one.
 - A law can be void under **Article 13** for being inconsistent with Part III, or for being *ultra vires* the federal distribution of powers; a constitutional amendment can be void for destroying the Basic Structure.
 - *Kesavananda Bharati* (**1973**) held that the amending power is not the power to rewrite the Constitution's identity.
 - *Minerva Mills* (**1980**) held that a limited amending power, and the balance between Fundamental Rights and Directive Principles, are themselves part of the Basic Structure.
 - The classic Dicey UK textbook recognises no single higher law of this kind; the US Constitution is also a constitutional-supremacy system, but the Indian Parliament finds it **easier** to amend the Constitution than the US Congress does.
 - **Constituent power versus legislative power:** Article **368** is the power to *amend* the Constitution — a constituent power. Article **245** is the power to *make ordinary laws* — a legislative power, exercised "subject to this Constitution." The 24th Amendment's rule that an amendment is not "law" under Article 13 does **not** make Article 368 Dicey-sovereign — the Basic Structure still binds constituent power.
 
-> **Exam note:** Parliamentary *form* ≠ parliamentary *sovereignty*. 368 is constituent, not Dicey-unlimited. *Kesavananda* killed that.
+> ** note:** Parliamentary *form* ≠ parliamentary *sovereignty*. 368 is constituent, not Dicey-unlimited. *Kesavananda* killed that.
 
 ---
 
@@ -326,7 +326,7 @@ Seed: Nehru’s **Objectives Resolution** (**13 Dec 1946**; adopted **22 Jan 194
 
 Three DPSP study buckets (Socialist / Gandhian / Liberal-intellectual — 2018 Q143, all four listed) are how a **welfare State** is *instructed*, not a fourth Part of the Constitution.
 
-> **Exam note:** Welfare State ≠ 42nd invented Part IV. Part IV is **1950**. *Minerva*: you need **both** brakes (FR) and goals (DPSP).
+> ** note:** Welfare State ≠ 42nd invented Part IV. Part IV is **1950**. *Minerva*: you need **both** brakes (FR) and goals (DPSP).
 
 ---
 
@@ -341,13 +341,13 @@ Three DPSP study buckets (Socialist / Gandhian / Liberal-intellectual — 2018 Q
 - The **1991 economic reforms did not delete** "Socialist" from the Preamble.
 - **Article 31C** saves certain redistributive laws giving effect to Article 39(b)/(c) from challenge under Articles 14/19; after *Minerva Mills*, this protection covers **only** 39(b)/(c), not all Directive Principles.
 
-> **Exam note:** Socialist was **not** in the 1950 Preamble. 42nd did **not** turn India into a communist State.
+> ** note:** Socialist was **not** in the 1950 Preamble. 42nd did **not** turn India into a communist State.
 
 ---
 
 ## Secularism
 
-The **word** is 42nd. The **code** is 1950: Arts. **25–28** . Hindi exam tag: **पंथनिरपेक्ष** / *Sarva Dharma Sambhava* (equal respect) — not “the State has no truck with religion at all”.
+The **word** is 42nd. The **code** is 1950: Arts. **25–28**. Hindi tag: **पंथनिरपेक्ष** / *Sarva Dharma Sambhava* (equal respect) — not “the State has no truck with religion at all”.
 
 | | **Indian (positive / principled)** | **US textbook (negative / wall)** |
 |--|-----------------------------------|-----------------------------------|
@@ -357,12 +357,12 @@ The **word** is 42nd. The **code** is 1950: Arts. **25–28** . Hindi exam tag: 
 | Other face | Art. **15** (no religious discrimination) · Arts. **29–30** (minorities) | — |
 
 - In *Kesavananda Bharati* (**1973**), the Court had already listed **secular character** as part of the Basic Structure.
-- In *S.R. Bommai* (**1994**), the Court applied that lock to **politics**: a State government that uses religion as a tool of power can justify invoking **Article 356**.
+- In *S.R. Bommai* (**1994**), the Court applied that fact to **politics**: a State government that uses religion as a tool of power can justify invoking **Article 356**.
 - India is not a theocracy, since there is no State religion; but it is also **not** "anti-religion" — that is the opposite mistake.
 - **Article 44**, a Directive Principle, says the State shall endeavour to secure a Uniform Civil Code. It is a **DPSP**, **not** a Fundamental Right, and is a cousin of the secular *civil-law* idea.
 - The Sabarimala controversy under **Article 25(2)** is a fight between custom and equality that combines secularism with constitutional morality — treat it as its own case, not a restacking of *Bommai*.
 
-> **Exam note:** India was secular in **scheme** from 1950 (Arts. **25–28**). The **adjective** is 1976. Indian secularism ≠ US wall. *Kesavananda* listed secular character; *Bommai* applied it to **356**.
+> ** note:** India was secular in **scheme** from 1950 (Arts. **25–28**). The **adjective** is 1976. Indian secularism ≠ US wall. *Kesavananda* listed secular character; *Bommai* applied it to **356**.
 
 ---
 
@@ -384,7 +384,7 @@ The **word** is 42nd. The **code** is 1950: Arts. **25–28** . Hindi exam tag: 
 - "We, the People," in the Preamble's opening words, expresses **popular** or political sovereignty.
 - The 2025 paper dangled **Sovereign** and **Republic** as if they were 42nd Amendment inserts — both were already **1950** Preamble words.
 
-> **Exam note:** Democracy ≠ whatever the majority wants today (*Navtej*: majority ≠ constitutional morality). Democracy answers *who* governs; republic answers *what the Head is*.
+> ** note:** Democracy ≠ whatever the majority wants today (*Navtej*: majority ≠ constitutional morality). Democracy answers *who* governs; republic answers *what the Head is*.
 
 ---
 
@@ -397,7 +397,7 @@ The **word** is 42nd. The **code** is 1950: Arts. **25–28** . Hindi exam tag: 
 - The UK is a **democracy** with a **monarch**, whereas India is a **democratic republic**.
 - Democracy answers *who* governs; republic answers *what the Head of State is*.
 
-> **Exam note:** Republic was **not** added by the 42nd. It was there in 1950. 2025 paper dangled it next to Socialist/Secular.
+> ** note:** Republic was **not** added by the 42nd. It was there in 1950. 2025 paper dangled it next to Socialist/Secular.
 
 ---
 
@@ -413,13 +413,13 @@ France’s revolutionary triad was **Liberty, Equality, Fraternity**. India **pr
 
 **One person, one vote, one value** is the political-justice slogan. Social/economic justice is why a *formal* ballot is not the whole Constitution.
 
-> **Exam note:** India prefixes **Justice** to the French triad. Political justice ≠ the whole Constitution.
+> ** note:** India prefixes **Justice** to the French triad. Political justice ≠ the whole Constitution.
 
 ---
 
 ## Liberty — Thought, Expression, Belief, Faith, Worship
 
-**Five Preamble liberties.** **Do not** mix with Art. **19(1)**’s **six** freedoms. Write the five in order: Thought · Expression · Belief · Faith · Worship.
+**Five Preamble liberties.Do not** mix with Art. **19(1)**’s **six** freedoms. Write the five in order: Thought · Expression · Belief · Faith · Worship.
 
 - **Thought** and **expression** are carried by Article **19(1)(a)** for citizens, and by the dignity strand of Article **21** for everyone.
 - **Belief**, **faith**, and **worship** are carried by Articles **25–28**, available to all persons, subject to limits.
@@ -428,7 +428,7 @@ France’s revolutionary triad was **Liberty, Equality, Fraternity**. India **pr
 - In *Shreya Singhal* (2015), the Court struck down Section 66A of the IT Act; liberty is a Preamble ideal that Part III's Fundamental Rights actually operate.
 - Liberty of **person** or body, under Article **21** (as in *Gopalan* and *Maneka*), is **not** one of the Preamble's five liberties. The six Article **19** freedoms — speech, assembly, association, movement, residence, and profession — are also a **different** list; "Thought" does not appear anywhere as a numbered 19(1) clause.
 
-> **Exam note:** Preamble liberty = **5** (thought…worship). Art. 19 = **6** different list. Preamble does **not** list personal liberty (that is Art. **21**).
+> ** note:** Preamble liberty = **5** (thought…worship). Art. 19 = **6** different list. Preamble does **not** list personal liberty (that is Art. **21**).
 
 ---
 
@@ -442,7 +442,7 @@ France’s revolutionary triad was **Liberty, Equality, Fraternity**. India **pr
 - Reservations under Articles 15(4)/15(5)/16(4), and the EWS quota under 16(6), are *how* equality of opportunity is made real in practice — they are not a repeal of equality.
 - A 2024 matching trap turns on this: Article 14 covers citizens **and** non-citizens, while Article 16 covers **citizens only** — so "equality of opportunity" in the Preamble maps to Article 16.
 
-> **Exam note:** Equality in the Preamble has **two** components. Art. **14** = any person; Art. **16** = citizens only.
+> ** note:** Equality in the Preamble has **two** components. Art. **14** = any person; Art. **16** = citizens only.
 
 ---
 
@@ -454,7 +454,7 @@ France’s revolutionary triad was **Liberty, Equality, Fraternity**. India **pr
 - **Dignity** has been read into Article **21** in cases like *Francis Coralie* and *Puttaswamy*; it is both a **Preamble promise** and an Article 21 holding.
 - Its duty cousin is **Article 51A(e)**, which asks citizens to promote harmony and the spirit of common brotherhood, alongside **51A(a)**, which asks them to cherish the values of the freedom struggle.
 
-> **Exam note:** Fraternity does **not** have three numbered types like Justice. It is **1** Preamble ideal.
+> ** note:** Fraternity does **not** have three numbered types like Justice. It is **1** Preamble ideal.
 
 ---
 
@@ -466,13 +466,13 @@ France’s revolutionary triad was **Liberty, Equality, Fraternity**. India **pr
 - **Article 1** describes India as a "Union of States," not a "federation" — the Preamble itself never uses the word "federal." **Article 51A(c)** makes it a citizen's duty to uphold the sovereignty, unity, and integrity of India, and single citizenship is one of the unity tools that supports this.
 - Unity-and-integrity works through a combination of a **Preamble ideal**, a **Fundamental Duty**, and a **restriction ground** — it is not a fourth Emergency article, even during a secession-related crisis.
 
-> **Exam note:** “Federal” is **not** in the Preamble. Integrity in the Preamble is **42nd**; in Art. **19** and the oaths it is already **16th Amd 1963**.
+> ** note:** “Federal” is **not** in the Preamble. Integrity in the Preamble is **42nd**; in Art. **19** and the oaths it is already **16th Amd 1963**.
 
 ---
 
 ## Current Affairs (what the year actually tests)
 
-Newest first. One event, one lock.
+Newest first. One event, one fact.
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
@@ -492,7 +492,7 @@ Newest first. One event, one lock.
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Constitution = constitutionalism | Booklet can exist without **limits** |
 | Constitutional morality = 42nd / a new article | **No text.** Grote → Ambedkar → SC 2018 |
@@ -555,8 +555,8 @@ D. 42nd Amendment
 </details>
 
 **Q2.** Which of the following is/are correct?
-1. Every State with a constitution practises constitutionalism.  
-2. The UK has constitutionalism without one supreme coded document.  
+1. Every State with a constitution practises constitutionalism.
+2. The UK has constitutionalism without one supreme coded document.
 A. Only 1
 B. Only 2
 C. Both
@@ -582,7 +582,7 @@ D. K.C. Wheare
 
 </details>
 
-**Q4.** Ambedkar’s lock on constitutional morality is that it is?
+**Q4.** Ambedkar’s fact on constitutional morality is that it is?
 A. A Fundamental Right
 B. Not a natural sentiment; it must be cultivated
 C. Art. 51A
@@ -596,8 +596,8 @@ D. The 42nd Amendment’s preamble insert
 </details>
 
 **Q5.** Which of the following is/are correct?
-1. Constitutional morality is a phrase in Part III.  
-2. Constitutional morality is not the same as “public morality” in Arts. 19/25.  
+1. Constitutional morality is a phrase in Part III.
+2. Constitutional morality is not the same as “public morality” in Arts. 19/25.
 A. Only 1
 B. Only 2
 C. Both
@@ -656,11 +656,9 @@ D. None — all three apply
 
 </details>
 
-**Q9.**
+**Q9.Assertion (A):** India follows Dicey’s Rule of Law in full.
 
-**Assertion (A):** India follows Dicey’s Rule of Law in full.
-
-**Reason (R):** Article 14 guarantees equality before law.  
+**Reason (R):** Article 14 guarantees equality before law.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -739,8 +737,8 @@ D. Marbury as a statute
 </details>
 
 **Q15.** Which of the following is/are correct?
-1. The Constituent Assembly wrote “due process” into Art. 21.  
-2. B.N. Rau cautioned against US due process.  
+1. The Constituent Assembly wrote “due process” into Art. 21.
+2. B.N. Rau cautioned against US due process.
 A. Only 1
 B. Only 2
 C. Both
@@ -779,11 +777,9 @@ D. Striking the Preamble
 
 </details>
 
-**Q18.**
+**Q18.Assertion (A):** After *Maneka*, Article 21’s wording is “due process of law”.
 
-**Assertion (A):** After *Maneka*, Article 21’s wording is “due process of law”.
-
-**Reason (R):** The Court read fairness into “procedure established by law”.  
+**Reason (R):** The Court read fairness into “procedure established by law”.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -796,7 +792,7 @@ D. A false R true
 
 </details>
 
-**Q19.** Arrange the following in chronological order: 1. *Gopalan*  2. *Maneka*  3. *ADM Jabalpur*  4. *Puttaswamy*
+**Q19.** Arrange the following in chronological order: 1. *Gopalan* 2. *Maneka* 3. *ADM Jabalpur* 4. *Puttaswamy*
 A. 1-2-3-4
 B. 1-3-2-4
 C. 1-2-4-3
@@ -836,8 +832,8 @@ D. Jennings
 </details>
 
 **Q22.** Which of the following is/are correct?
-1. India follows the rigid American separation of powers.  
-2. The Indian executive is fused with the legislature through the Council of Ministers.  
+1. India follows the rigid American separation of powers.
+2. The Indian executive is fused with the legislature through the Council of Ministers.
 A. Only 1
 B. Only 2
 C. Both
@@ -850,7 +846,7 @@ D. Neither
 
 </details>
 
-**Q23.** *Ram Jawaya Kapur* (1955) is the lock that?
+**Q23.** *Ram Jawaya Kapur* (1955) is the fact that?
 A. Created Basic Structure
 B. India does not recognise SOP in American rigidity
 C. Struck NJAC
@@ -876,11 +872,9 @@ D. Due process
 
 </details>
 
-**Q25.**
+**Q25.Assertion (A):** Article 50 is a Fundamental Right.
 
-**Assertion (A):** Article 50 is a Fundamental Right.
-
-**Reason (R):** It concerns separation of the judiciary from the executive.  
+**Reason (R):** It concerns separation of the judiciary from the executive.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -975,8 +969,8 @@ D. FRs are unamendable in the UK
 </details>
 
 **Q32.** Which of the following is/are correct?
-1. India has a parliamentary *form*.  
-2. Therefore India has Dicey’s parliamentary *sovereignty*.  
+1. India has a parliamentary *form*.
+2. Therefore India has Dicey’s parliamentary *sovereignty*.
 A. Only 1
 B. Only 2
 C. Both
@@ -1002,11 +996,9 @@ D. Art. 393
 
 </details>
 
-**Q34.**
+**Q34.Assertion (A):** Indian Parliament is sovereign in the Dicey sense.
 
-**Assertion (A):** Indian Parliament is sovereign in the Dicey sense.
-
-**Reason (R):** India has a parliamentary system of government.  
+**Reason (R):** India has a parliamentary system of government.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1114,8 +1106,8 @@ D. Japan’s constitution
 </details>
 
 **Q42.** Which of the following is/are correct?
-1. Separation of powers is treated as part of Basic Structure.  
-2. India therefore copied US Articles I–II–III.  
+1. Separation of powers is treated as part of Basic Structure.
+2. India therefore copied US Articles I–II–III.
 A. Only 1
 B. Only 2
 C. Both
@@ -1154,7 +1146,7 @@ D. CAG as a minister
 
 </details>
 
-**Q45.** Chronology: 1. Montesquieu  2. Dicey (1885 book)  3. *Gopalan*  4. *Maneka*
+**Q45.** Chronology: 1. Montesquieu 2. Dicey (1885 book) 3. *Gopalan* 4. *Maneka*
 A. 2-1-3-4
 B. 1-2-3-4
 C. 1-2-4-3
@@ -1167,11 +1159,9 @@ D. 2-1-4-3
 
 </details>
 
-**Q46.**
+**Q46.Assertion (A):** Constitutional morality can invalidate a practice supported by a majority.
 
-**Assertion (A):** Constitutional morality can invalidate a practice supported by a majority.
-
-**Reason (R):** *Navtej Johar* treated constitutional morality as distinct from majoritarian morality.  
+**Reason (R):** *Navtej Johar* treated constitutional morality as distinct from majoritarian morality.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1198,8 +1188,8 @@ D. 245-246-254
 </details>
 
 **Q48.** Which of the following is/are correct?
-1. Judicial review exists in India.  
-2. That fact is identical to Dicey’s parliamentary sovereignty.  
+1. Judicial review exists in India.
+2. That fact is identical to Dicey’s parliamentary sovereignty.
 A. Only 1
 B. Only 2
 C. Both
@@ -1252,8 +1242,8 @@ D. The Japan clause alone
 </details>
 
 **Q52.** Which of the following is/are correct?
-1. Cabinet collective responsibility is a check inside the parliamentary executive.  
-2. It proves India has no separation of powers at all.  
+1. Cabinet collective responsibility is a check inside the parliamentary executive.
+2. It proves India has no separation of powers at all.
 A. Only 1
 B. Only 2
 C. Both
@@ -1279,11 +1269,9 @@ D. APEC
 
 </details>
 
-**Q54.**
+**Q54.Assertion (A):** The US model of SOP is fusion of Cabinet and Congress.
 
-**Assertion (A):** The US model of SOP is fusion of Cabinet and Congress.
-
-**Reason (R):** The Indian PM must (normally) be a member of Parliament.  
+**Reason (R):** The Indian PM must (normally) be a member of Parliament.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1292,11 +1280,11 @@ D. A false R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — US is **not** fusion; R is the Indian lock.
+**Ans: D** — US is **not** fusion; R is the Indian fact.
 
 </details>
 
-**Q55.** Which Preamble lock is arithmetic, not philosophy?
+**Q55.** Which Preamble fact is arithmetic, not philosophy?
 A. Dicey’s limb 3
 B. Justice–Liberty–Equality–Fraternity count 3-5-2-1, and “Federal” is not in the Preamble
 C. *Maneka* fairness
@@ -1336,8 +1324,8 @@ D. Judicial check — Question Hour
 </details>
 
 **Q58.** Which of the following is/are correct?
-1. India rejected unlimited parliamentary amending power.  
-2. *Minerva Mills* is a pillar of that rejection.  
+1. India rejected unlimited parliamentary amending power.
+2. *Minerva Mills* is a pillar of that rejection.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1390,8 +1378,8 @@ D. 42nd Amendment day
 </details>
 
 **Q62.** Which of the following is/are correct?
-1. *Audi alteram partem* means hear the other side.  
-2. *Nemo judex in causa sua* means no one should be a judge in his own cause.  
+1. *Audi alteram partem* means hear the other side.
+2. *Nemo judex in causa sua* means no one should be a judge in his own cause.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1417,11 +1405,9 @@ D. Art. 50
 
 </details>
 
-**Q64.**
+**Q64.Assertion (A):** After *Maneka*, a law is no longer required to deprive a person of liberty.
 
-**Assertion (A):** After *Maneka*, a law is no longer required to deprive a person of liberty.
-
-**Reason (R):** *Maneka* added fairness (*jus*) to the need for a valid law (*lex*).  
+**Reason (R):** *Maneka* added fairness (*jus*) to the need for a valid law (*lex*).
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1448,8 +1434,8 @@ D. Art. 368
 </details>
 
 **Q66.** Which of the following is/are correct?
-1. Art. 50 is the complete Indian SOP clause.  
-2. Art. 50 is a DPSP about the judiciary and the executive in public services.  
+1. Art. 50 is the complete Indian SOP clause.
+2. Art. 50 is a DPSP about the judiciary and the executive in public services.
 A. Only 1
 B. Only 2
 C. Both
@@ -1502,8 +1488,8 @@ D. 368(4) is eternal
 </details>
 
 **Q70.** Which of the following is/are correct?
-1. 42nd Amendment inserted 368(4) and (5) to bar review of amendments.  
-2. *Minerva Mills* struck 368(4) and (5).  
+1. 42nd Amendment inserted 368(4) and (5) to bar review of amendments.
+2. *Minerva Mills* struck 368(4) and (5).
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1611,8 +1597,8 @@ D. 73rd
 </details>
 
 **Q78.** Which of the following is/are correct?
-1. DPSPs are enforceable as Fundamental Rights.  
-2. Art. 37 still calls them fundamental in governance.  
+1. DPSPs are enforceable as Fundamental Rights.
+2. Art. 37 still calls them fundamental in governance.
 A. Only 1
 B. Only 2
 C. Both
@@ -1651,11 +1637,9 @@ D. OECD membership
 
 </details>
 
-**Q81.**
+**Q81.Assertion (A):** The 1991 reforms deleted “Socialist” from the Preamble.
 
-**Assertion (A):** The 1991 reforms deleted “Socialist” from the Preamble.
-
-**Reason (R):** The word was inserted by the 42nd Amendment.  
+**Reason (R):** The word was inserted by the 42nd Amendment.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1695,8 +1679,8 @@ D. 42nd invented Arts. 25–28
 </details>
 
 **Q84.** Which of the following is/are correct?
-1. The word “Secular” was added by the 42nd.  
-2. Arts. 25–28 existed from 1950.  
+1. The word “Secular” was added by the 42nd.
+2. Arts. 25–28 existed from 1950.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1709,7 +1693,7 @@ D. Neither
 
 </details>
 
-**Q85.** *S.R. Bommai* (1994) is the lock that?
+**Q85.** *S.R. Bommai* (1994) is the fact that?
 A. Invented judicial review
 B. Secularism is Basic Structure
 C. Created Art. 21
@@ -1775,8 +1759,8 @@ D. The UK monarch
 </details>
 
 **Q90.** Which of the following is/are correct?
-1. The UK is a democracy.  
-2. The UK is a republic.  
+1. The UK is a democracy.
+2. The UK is a republic.
 A. Only 1
 B. Only 2
 C. Both
@@ -1789,11 +1773,9 @@ D. Neither
 
 </details>
 
-**Q91.**
+**Q91.Assertion (A):** “Republic” was added to the Preamble by the 42nd Amendment.
 
-**Assertion (A):** “Republic” was added to the Preamble by the 42nd Amendment.
-
-**Reason (R):** “Socialist” and “Secular” were added by the 42nd.  
+**Reason (R):** “Socialist” and “Secular” were added by the 42nd.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -1852,8 +1834,8 @@ D. 2
 </details>
 
 **Q95.** Which of the following is/are correct?
-1. Preamble liberty lists five components.  
-2. Art. 19(1) lists six freedoms.  
+1. Preamble liberty lists five components.
+2. Art. 19(1) lists six freedoms.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1906,8 +1888,8 @@ D. Art. 21
 </details>
 
 **Q99.** Which of the following is/are correct?
-1. Art. 14 covers citizens and non-citizens.  
-2. Art. 16 covers only citizens.  
+1. Art. 14 covers citizens and non-citizens.
+2. Art. 16 covers only citizens.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1920,7 +1902,7 @@ D. Neither
 
 </details>
 
-**Q100.** Ambedkar’s CAD lock: without fraternity, liberty and equality are?
+**Q100.** Ambedkar’s CAD fact: without fraternity, liberty and equality are?
 A. Fundamental Duties
 B. A coat of paint
 C. Art. 50
@@ -1985,11 +1967,9 @@ D. Federal — a Preamble word
 
 </details>
 
-**Q105.**
+**Q105.Assertion (A):** Indian secularism forbids the State from regulating any religious institution.
 
-**Assertion (A):** Indian secularism forbids the State from regulating any religious institution.
-
-**Reason (R):** Art. 25(2) allows regulation of secular activity associated with religion.  
+**Reason (R):** Art. 25(2) allows regulation of secular activity associated with religion.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2029,8 +2009,8 @@ D. Montesquieu
 </details>
 
 **Q108.** Which of the following is/are correct?
-1. India is a democracy.  
-2. India is a republic.  
+1. India is a democracy.
+2. India is a republic.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2056,7 +2036,7 @@ D. Art. 54
 
 </details>
 
-**Q110.** 16th Amendment’s “integrity” lock on liberty is that it?
+**Q110.** 16th Amendment’s “integrity” fact on liberty is that it?
 A. Added Secular to the Preamble
 B. Put sovereignty and integrity into Art. 19 restriction grounds
 C. Created Art. 21A
@@ -2069,7 +2049,7 @@ D. Struck *Bommai*
 
 </details>
 
-**Q111.** Arrange the following in chronological order: 1. Part IV commences (1950)  2. 42nd names Socialist/Secular  3. 44th adds 38(2)  4. *Bommai*
+**Q111.** Arrange the following in chronological order: 1. Part IV commences (1950) 2. 42nd names Socialist/Secular 3. 44th adds 38(2) 4. *Bommai*
 A. 2-1-3-4
 B. 1-2-3-4
 C. 1-2-4-3
@@ -2109,8 +2089,8 @@ D. 73rd Amd
 </details>
 
 **Q114.** Which of the following is/are correct?
-1. Part IV existed before the word “Socialist” was printed in the Preamble.  
-2. Arts. 25–28 existed before the word “Secular” was printed in the Preamble.  
+1. Part IV existed before the word “Socialist” was printed in the Preamble.
+2. Arts. 25–28 existed before the word “Secular” was printed in the Preamble.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2136,11 +2116,9 @@ D. The Preamble as a sixth liberty
 
 </details>
 
-**Q116.**
+**Q116.Assertion (A):** The Preamble is directly enforceable like Article 14.
 
-**Assertion (A):** The Preamble is directly enforceable like Article 14.
-
-**Reason (R):** *Kesavananda* held the Preamble is part of the Constitution.  
+**Reason (R):** *Kesavananda* held the Preamble is part of the Constitution.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2166,7 +2144,7 @@ D. Art. 393
 
 </details>
 
-**Q118.** “We, the People” is the lock for which of the following?
+**Q118.** “We, the People” is the fact for which of the following?
 A. Dicey’s limb 3
 B. Popular sovereignty
 C. Art. 50
@@ -2206,8 +2184,8 @@ D. OECD
 </details>
 
 **Q121.** Which of the following is/are correct?
-1. *Bommai* makes secularism justiciable as Basic Structure.  
-2. That holding repealed Arts. 25–28.  
+1. *Bommai* makes secularism justiciable as Basic Structure.
+2. That holding repealed Arts. 25–28.
 A. Only 1
 B. Only 2
 C. Both
@@ -2246,11 +2224,9 @@ D. Fraternity
 
 </details>
 
-**Q124.**
+**Q124.Assertion (A):** India is a democratic republic.
 
-**Assertion (A):** India is a democratic republic.
-
-**Reason (R):** The President of India is a hereditary monarch advised by the PM.  
+**Reason (R):** The President of India is a hereditary monarch advised by the PM.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2290,8 +2266,8 @@ D. Art. 50
 </details>
 
 **Q127.** Which of the following is/are correct?
-1. Internal sovereignty = supreme inside the territory.  
-2. UN membership repeals India’s external sovereignty.  
+1. Internal sovereignty = supreme inside the territory.
+2. UN membership repeals India’s external sovereignty.
 A. Only 1
 B. Only 2
 C. Both
@@ -2317,11 +2293,9 @@ D. Art. 21
 
 </details>
 
-**Q129.**
+**Q129.Assertion (A):** Article 368 is unlimited because it is constituent power.
 
-**Assertion (A):** Article 368 is unlimited because it is constituent power.
-
-**Reason (R):** *Kesavananda* held that constituent power cannot destroy Basic Structure.  
+**Reason (R):** *Kesavananda* held that constituent power cannot destroy Basic Structure.
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both true, R not explanation
 C. A true R false
@@ -2348,8 +2322,8 @@ D. Expression
 </details>
 
 **Q131.** Which of the following is/are correct?
-1. “Thought” is a numbered clause of Art. 19(1).  
-2. Art. 19(1)(a) is speech and expression.  
+1. “Thought” is a numbered clause of Art. 19(1).
+2. Art. 19(1)(a) is speech and expression.
 A. Only 1
 B. Only 2
 C. Both
@@ -2415,8 +2389,8 @@ D. Art. 50
 </details>
 
 **Q136.** Which of the following is/are correct?
-1. Equality in the Preamble is of status and opportunity.  
-2. It is equality of outcome as a sixth Preamble word.  
+1. Equality in the Preamble is of status and opportunity.
+2. It is equality of outcome as a sixth Preamble word.
 A. Only 1
 B. Only 2
 C. Both
@@ -2491,9 +2465,7 @@ Direct 2018–2025 stems on “constitutional morality / Dicey’s third limb / 
 
 **Preamble arithmetic / 42nd words / Federal / enforceability:** 2018 Q65 (3-5-2-1); 2021 Q49 (Federal not there); 2025 Q56 (Socialist + Secular, not Sovereignty/Republic); 2019 Q107 (Preamble not enforceable).
 
-**UPPCS Prelims 2018, Q143** — DPSP classified Socialist / Gandhian / Liberal-intellectual. **Ans: D all.**
-
-**UPPCS Prelims 2024, Q101** — 14 = all persons; 16 = citizens; renaming a State ≠ State legislature.
+**UPPCS Prelims 2018, Q143** — DPSP classified Socialist / Gandhian / Liberal-intellectual. **Ans: D all.UPPCS Prelims 2024, Q101** — 14 = all persons; 16 = citizens; renaming a State ≠ State legislature.
 
 If a 2026 paper prints *Gopalan vs Maneka*, Dicey-three, positive secularism, or “India has parliamentary sovereignty”, it belongs **here**.
 

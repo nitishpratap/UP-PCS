@@ -8,13 +8,13 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Biology, BSI/ZSI, MoEFCC, NUHHP 2007, MISHTI (Budget 2023–24), UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★ Medium–High — habitat definitions, MISHTI/NUHHP, BSI/ZSI, UP fauna  
+> **Sources baked in:** NCERT Class 12 Biology, BSI/ZSI, MoEFCC, NUHHP 2007, MISHTI (Budget 2023–24), UPPCS PYQs 2018–2025
+> **Weight:** ★★ Medium–High — habitat definitions, MISHTI/NUHHP, BSI/ZSI, UP fauna
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. A **habitat** is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** is the functional unit. **Environment** is the total surroundings.
 2. Habitats are commonly classed as **terrestrial, aquatic, or transitional** (mangrove/wetland). Transitional habitats are not purely terrestrial.
@@ -28,22 +28,22 @@ Habitat | Habitat Conservation | Flora and Fauna
 10. **BSI (1890, Kolkata)** surveys plants. **ZSI (1916, Kolkata)** surveys animals. Both sit in Kolkata; kingdoms differ.
 11. Engler is linked to world floral regions. **C.O. Sauer** is linked to planting hearths in cultural geography.
 12. A **microhabitat** is a small subdivision inside a larger habitat.
-13. In-situ conservation protects species in natural habitat; ex-situ is outside habitat — same lock as biodiversity sheets.
+13. In-situ conservation protects species in natural habitat; ex-situ is outside habitat — same fact as biodiversity sheets.
 14. Uttar Pradesh’s richest wildlife habitat belt is the **Terai** (Dudhwa, Pilibhit, Kishanpur).
 15. UP state animal is **barasingha**. UP state bird is **Sarus crane**.
 16. The **Terai Arc Landscape** corridor links UP Terai protected areas toward Nepal.
-17. Aquatic fauna locks for UP include the **Gangetic dolphin** in the Ganga–Yamuna system.
+17. Aquatic fauna facts for UP include the **Gangetic dolphin** in the Ganga–Yamuna system.
 18. **Water hyacinth** is a common invasive threat in UP village ponds.
-19. Uttar Pradesh has **no mangrove habitat** for exam purposes — it is landlocked for that category.
+19. Uttar Pradesh has **no mangrove habitat** purposes — it is landlocked for that category.
 20. Habitat is an address; niche is a job description. Mixing the two loses marks on definition stems.
 21. Wetlands and mangroves are **transitional**, not “purely terrestrial forest” options.
 22. MISHTI is mangrove-focused coastal income and protection — not a Terai tiger scheme.
-23. Jal Jeevan Mission (**2019**) is the latest lock in the urban/habitat chronology set above; do not date NUHHP as 2019.
+23. Jal Jeevan Mission (**2019**) is the latest fact in the urban/habitat chronology set above; do not date NUHHP as 2019.
 24. Corridor questions for UP should start from Terai Arc links, not from Western Ghat mangrove corridors.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -74,11 +74,11 @@ Habitat | Habitat Conservation | Flora and Fauna
 - **Biotic factors** include food availability, predators, competitors, and symbiotic partners.
 - A **microhabitat** is a small unit within a larger habitat, such as bark crevices or the underside of a leaf.
 - A **macrohabitat** is a landscape-scale habitat unit such as an entire forest, lake, or desert tract.
-- A **biotope** is a European ecology term for an area with relatively uniform environmental conditions. Exams often treat it as similar to habitat.
+- A **biotope** is a European ecology term for an area with relatively uniform environmental conditions. Notes often treat it as similar to habitat.
 
-### Major habitat types (exam classification)
+### Major habitat types (classification)
 
-| Type | Lock | India example |
+| Type | Meaning | India example |
 |------|------|---------------|
 | **Terrestrial** | Land-based | Terai sal forest, Thar desert |
 | **Aquatic freshwater** | Ponds, lakes, rivers | Ganga, Loktak |
@@ -100,7 +100,7 @@ Habitat | Habitat Conservation | Flora and Fauna
 - The **Pygmies** live in the Congo Basin.
 - The **Masai** pastoralists live in **East Africa** in Kenya and Tanzania.
 
-> **Exam note:** UPPCS 2024 Q62 — land organisms = **terrestrial habitants**, not biotic or abiotic. Trap — mangrove is **transitional**, not purely terrestrial.
+> ** note:** UPPCS 2024 Q62 — land organisms = **terrestrial habitants**, not biotic or abiotic. Trap — mangrove is **transitional**, not purely terrestrial.
 
 **PYQ — UPPCS Prelims 2024, Q62**
 
@@ -126,9 +126,9 @@ Which of the following pairs is/are NOT correctly matched?
 
 (Tribe) — (Habitat)
 
-1. Bushman — Kalahari Desert  
-2. Eskimo — Northern Canada  
-3. Pygmy — Congo Basin  
+1. Bushman — Kalahari Desert
+2. Eskimo — Northern Canada
+3. Pygmy — Congo Basin
 4. Masai — West Africa
 
 A. Only 1, 2 and 3
@@ -162,7 +162,7 @@ D. Only 1
 
 ### Key schemes and policies
 
-| Scheme / policy | Year | Ministry | Lock |
+| Scheme / policy | Year | Ministry | Fact |
 |-----------------|------|----------|------|
 | **MISHTI** | Budget **2023–24** | MoEFCC | Mangrove shoreline habitat restoration + community income |
 | **NUHHP** | **2007** | MoHUA | Urban housing and sustainable urban habitat |
@@ -176,13 +176,13 @@ D. Only 1
 - MISHTI targets coastal mangrove habitats for shoreline protection and blue carbon restoration.
 - **NUHHP** addresses urban habitat quality through housing and green-space planning in cities.
 
-> **Exam note:** UPPCS 2025 Q93 — MISHTI was **not** initiated in 2019. It was announced in **Budget 2023–24**. Statement on mangrove restoration is **true**.
+> ** note:** UPPCS 2025 Q93 — MISHTI was **not** initiated in 2019. It was announced in **Budget 2023–24**. Statement on mangrove restoration is **true**.
 
 **PYQ — UPPCS Prelims 2025, Q93**
 
 With reference to Mangrove Initiative for Shoreline Habitats and Tangible Income (MISHTI), which of the following statements is/are correct?
 
-1. It was initiated in 2019.  
+1. It was initiated in 2019.
 2. It aims to restore mangrove forests.
 
 A. Only 2
@@ -203,9 +203,9 @@ D. Only 1
 
 Consider the following and arrange them in the correct chronological order:
 
-1. Atal Mission for Rejuvenation and Urban Transformation (AMRUT)  
-2. Jawaharlal Nehru National Urban Renewal Mission (JNNURM)  
-3. Jal Jeevan Mission  
+1. Atal Mission for Rejuvenation and Urban Transformation (AMRUT)
+2. Jawaharlal Nehru National Urban Renewal Mission (JNNURM)
+3. Jal Jeevan Mission
 4. National Urban Housing and Habitat Policy
 
 A. 2, 4, 1, 3
@@ -241,7 +241,7 @@ D. 4, 2, 3, 1
 - The **Puszta grassland** is associated with **Hungary**.
 - The **cryophyte steppe** is associated with **Arctic tundra** vegetation.
 
-### UP flora and fauna locks
+### UP flora and fauna facts
 
 | Category | UP example | Note |
 |----------|--------------|------|
@@ -254,14 +254,14 @@ D. 4, 2, 3, 1
 
 - UP has **no coastline**, so mangrove flora is **not** found in the state.
 
-> **Exam note:** BSI = **plants**. ZSI = **animals**. Both HQ **Kolkata**. Trap — BSI documents animal diversity is **false**.
+> ** note:** BSI = **plants**. ZSI = **animals**. Both HQ **Kolkata**. Trap — BSI documents animal diversity is **false**.
 
 **PYQ — UPPCS Prelims 2024, Q29**
 
 Match List-I with List-II:
 
-List-I: A. Planting Hearth  B. Cryophyte Steppe  C. World Floral Regions  D. Puszta Grassland  
-List-II: 1. Hungary  2. Adolf Engler  3. C.O. Sauer  4. Arctic Tundra
+List-I: A. Planting Hearth B. Cryophyte Steppe C. World Floral Regions D. Puszta Grassland
+List-II: 1. Hungary 2. Adolf Engler 3. C.O. Sauer 4. Arctic Tundra
 
 A. 3 4 2 1
 
@@ -285,7 +285,7 @@ D. 2 3 4 1
 
 **Q1.** With reference to habitat, which statements is/are correct?
 
-1. Habitat refers to the physical place where an organism lives.  
+1. Habitat refers to the physical place where an organism lives.
 2. Habitat and niche mean the same thing in ecology.
 
 A. Only 1
@@ -304,7 +304,7 @@ D. Neither
 
 **Q2.** With reference to MISHTI, which statements is/are correct?
 
-1. It was announced in Union Budget 2023–24.  
+1. It was announced in Union Budget 2023–24.
 2. It aims to restore mangrove forests.
 
 A. Only 1
@@ -323,7 +323,7 @@ D. Neither
 
 **Q3.** With reference to flora and fauna, which statements is/are correct?
 
-1. Flora refers to plant life of a region.  
+1. Flora refers to plant life of a region.
 2. BSI surveys Indian animal diversity.
 
 A. Only 1
@@ -342,7 +342,7 @@ D. Neither
 
 **Q4.** With reference to habitat conservation, which statements is/are correct?
 
-1. In-situ conservation protects species in natural habitat.  
+1. In-situ conservation protects species in natural habitat.
 2. Zoos are the main form of in-situ conservation.
 
 A. Only 1
@@ -361,7 +361,7 @@ D. Neither
 
 **Q5.** With reference to Indian biodiversity content, which statements is/are correct?
 
-1. India has about 45,000 plant species.  
+1. India has about 45,000 plant species.
 2. India occupies about 2.4% of the world's land area.
 
 A. Only 1
@@ -380,7 +380,7 @@ D. Neither
 
 **Q6.** With reference to habitat types, which statements is/are correct?
 
-1. Fossorial organisms live by burrowing underground.  
+1. Fossorial organisms live by burrowing underground.
 2. Arboreal organisms live in open grasslands.
 
 A. Only 1
@@ -399,7 +399,7 @@ D. Neither
 
 **Q7.** With reference to urban habitat policy, which statements is/are correct?
 
-1. NUHHP was launched in 2007.  
+1. NUHHP was launched in 2007.
 2. JNNURM was launched after NUHHP.
 
 A. Only 1
@@ -418,7 +418,7 @@ D. Neither
 
 **Q8.** With reference to terrestrial habitats, which statements is/are correct?
 
-1. Land-dwelling organisms are terrestrial habitants.  
+1. Land-dwelling organisms are terrestrial habitants.
 2. Mangrove is a purely terrestrial ecosystem.
 
 A. Only 1
@@ -437,7 +437,7 @@ D. Neither
 
 **Q9.** With reference to survey organisations, which statements is/are correct?
 
-1. BSI headquarters is in Kolkata.  
+1. BSI headquarters is in Kolkata.
 2. ZSI was established before BSI.
 
 A. Only 1
@@ -456,7 +456,7 @@ D. Neither
 
 **Q10.** With reference to UP flora and fauna, which statements is/are correct?
 
-1. Barasingha is the state animal of Uttar Pradesh.  
+1. Barasingha is the state animal of Uttar Pradesh.
 2. Mangrove flora is widespread in UP Terai forests.
 
 A. Only 1
@@ -473,7 +473,7 @@ D. Neither
 
 </details>
 
-**Q11.** Assertion (A): Habitat conservation is central to biodiversity protection.  
+**Q11.** Assertion (A): Habitat conservation is central to biodiversity protection.
 Reason (R): In-situ conservation preserves ecological relationships within natural habitats.
 
 A. Both true; R explains A
@@ -490,7 +490,7 @@ D. A false, R true
 
 </details>
 
-**Q12.** Assertion (A): MISHTI was initiated in 2019.  
+**Q12.** Assertion (A): MISHTI was initiated in 2019.
 Reason (R): MISHTI aims to restore mangrove shoreline habitats.
 
 A. Both true; R explains A
@@ -509,8 +509,8 @@ D. A false, R true
 
 **Q13.** Match habitat type with example:
 
-List-I: A. Fossorial  B. Arboreal  C. Lotic aquatic  D. Mangrove  
-List-II: 1. Lion-tailed macaque  2. Pangolin  3. Ganga dolphin  4. Sundarbans
+List-I: A. Fossorial B. Arboreal C. Lotic aquatic D. Mangrove
+List-II: 1. Lion-tailed macaque 2. Pangolin 3. Ganga dolphin 4. Sundarbans
 
 A. 2 1 3 4
 
@@ -528,8 +528,8 @@ D. 3 4 2 1
 
 **Q14.** Match concept with scientist/region (2024 Q29 pattern):
 
-List-I: A. World Floral Regions  B. Planting Hearth  C. Puszta Grassland  D. Cryophyte Steppe  
-List-II: 1. Hungary  2. Adolf Engler  3. C.O. Sauer  4. Arctic Tundra
+List-I: A. World Floral Regions B. Planting Hearth C. Puszta Grassland D. Cryophyte Steppe
+List-II: 1. Hungary 2. Adolf Engler 3. C.O. Sauer 4. Arctic Tundra
 
 A. 2 3 1 4
 
@@ -547,8 +547,8 @@ D. 3 4 2 1
 
 **Q15.** Match organisation with role:
 
-List-I: A. BSI  B. ZSI  C. WII  
-List-II: 1. Animal surveys  2. Plant surveys  3. Wildlife research
+List-I: A. BSI B. ZSI C. WII
+List-II: 1. Animal surveys 2. Plant surveys 3. Wildlife research
 
 A. 2 1 3
 
@@ -566,7 +566,7 @@ D. 3 1 2
 
 **Q16.** Arrange in chronological order (earliest first):
 
-1. AMRUT  2. JNNURM  3. Jal Jeevan Mission  4. NUHHP
+1. AMRUT 2. JNNURM 3. Jal Jeevan Mission 4. NUHHP
 
 A. 2, 4, 1, 3
 
@@ -712,8 +712,8 @@ D. Chennai
 
 **Q25.** Match UP species with category:
 
-List-I: A. Barasingha  B. Sarus crane  C. Sal tree  
-List-II: 1. State bird  2. State animal  3. Dominant Terai flora
+List-I: A. Barasingha B. Sarus crane C. Sal tree
+List-II: 1. State bird 2. State animal 3. Dominant Terai flora
 
 A. 2 1 3
 
@@ -747,7 +747,7 @@ D. Habitat — place of living
 
 **Q27.** With reference to habitat and niche, which statements is/are correct?
 
-1. Two species can share a habitat but occupy different niches.  
+1. Two species can share a habitat but occupy different niches.
 2. Habitat and niche are interchangeable terms.
 
 A. Only 1
@@ -838,8 +838,8 @@ D. Biotic
 
 Match List-I with List-II:
 
-List-I: A. Planting Hearth  B. Cryophyte Steppe  C. World Floral Regions  D. Puszta Grassland  
-List-II: 1. Hungary  2. Adolf Engler  3. C.O. Sauer  4. Arctic Tundra
+List-I: A. Planting Hearth B. Cryophyte Steppe C. World Floral Regions D. Puszta Grassland
+List-II: 1. Hungary 2. Adolf Engler 3. C.O. Sauer 4. Arctic Tundra
 
 A. 3 4 2 1
 
@@ -859,7 +859,7 @@ D. 2 3 4 1
 
 With reference to MISHTI, which statements is/are correct?
 
-1. It was initiated in 2019.  
+1. It was initiated in 2019.
 2. It aims to restore mangrove forests.
 
 A. Only 2
@@ -968,7 +968,7 @@ D. Zoo
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Habitat = niche | Habitat = **place**; niche = **role** |
 | Mangrove = terrestrial | Mangrove = **transitional** |

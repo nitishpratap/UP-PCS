@@ -1,14 +1,14 @@
 ---
 hide:
-  - toc
+ - toc
 ---
 
 <div class="fact-lock-hero" markdown="0">
 <p class="fact-lock-hero__eyebrow">Geography · Part 10</p>
 <h1 class="fact-lock-hero__title">Indian Minerals & Energy</h1>
-<div class="fact-lock-meta">
-<span class="fact-lock-pill fact-lock-pill--high">Very high</span>
-<span class="fact-lock-pill">Prelims ~9/10</span>
+<div class="fact-fact-meta">
+<span class="fact-fact-pill fact-fact-pill--high">Very high</span>
+<span class="fact-fact-pill">Prelims ~9/10</span>
 </div>
 </div>
 
@@ -1763,18 +1763,18 @@ Importance:
 
 ## 97. ENERGY RESOURCES — MASTER TABLE
 
-| Resource        | Type               | Major Indian region           |
+| Resource | Type | Major Indian region |
 | --------------- | ------------------ | ----------------------------- |
-| **Coal**        | Conventional       | Jharkhand/Odisha/Chhattisgarh |
-| **Petroleum**   | Conventional       | Mumbai Offshore/Gujarat/Assam |
-| **Natural gas** | Conventional       | KG/Mumbai Offshore/Gujarat    |
-| **Hydro**       | Renewable          | Himalayas/Northeast           |
-| **Nuclear**     | Non-renewable fuel | Multiple states               |
-| **Solar**       | Renewable          | Rajasthan/Gujarat             |
-| **Wind**        | Renewable          | Tamil Nadu/Gujarat/Karnataka  |
-| **Tidal**       | Renewable          | Gujarat/Sundarbans            |
-| **Geothermal**  | Renewable          | Ladakh/Himachal               |
-| **Biomass**     | Renewable          | Agricultural regions          |
+| **Coal** | Conventional | Jharkhand/Odisha/Chhattisgarh |
+| **Petroleum** | Conventional | Mumbai Offshore/Gujarat/Assam |
+| **Natural gas** | Conventional | KG/Mumbai Offshore/Gujarat |
+| **Hydro** | Renewable | Himalayas/Northeast |
+| **Nuclear** | Non-renewable fuel | Multiple states |
+| **Solar** | Renewable | Rajasthan/Gujarat |
+| **Wind** | Renewable | Tamil Nadu/Gujarat/Karnataka |
+| **Tidal** | Renewable | Gujarat/Sundarbans |
+| **Geothermal** | Renewable | Ladakh/Himachal |
+| **Biomass** | Renewable | Agricultural regions |
 
 ## 98. MINERAL BELTS — ONE-PAGE
 

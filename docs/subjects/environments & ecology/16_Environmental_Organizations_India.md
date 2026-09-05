@@ -8,13 +8,13 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 
 </details>
 
-> **Sources baked in:** EPA 1986, Water Act 1974, Air Act 1981, NGT Act 2010, MoEFCC, ISFR 2023, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — org ↔ function ↔ HQ ↔ report matching  
+> **Sources baked in:** EPA 1986, Water Act 1974, Air Act 1981, NGT Act 2010, MoEFCC, ISFR 2023, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — org ↔ function ↔ HQ ↔ report matching
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **MoEFCC** is India’s nodal ministry for environment, forests, wildlife, and climate change. It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
 2. MoEFCC grants **Category A Environmental Clearance**, runs the **PARIVESH** portal, and administers EPA, Wildlife Act, Forest Conservation Act, and Biodiversity Act. It does **not** set NAAQS pollution standards.
@@ -28,7 +28,7 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 10. **WII** (**1982**, Dehradun) does wildlife research and trains forest officers. It helped frame India’s **ten** biogeographic zones and tiger-census methods. It is **not** the plant or animal survey body.
 11. **BSI** (**1890**, Kolkata) surveys **plants** and publishes *Flora of India* and the plant Red Data Book. **ZSI** (**1916**, Kolkata) surveys **animals** and publishes *Fauna of India* and the animal Red Data Book.
 12. **FSI** (**1981**, Dehradun) maps forest cover and publishes the **India State of Forest Report** every **two years**. ISFR is **not** an annual CPCB product.
-13. Headquarters lock: **Delhi** — MoEFCC, CPCB, NGT; **Dehradun** — WII, FSI; **Kolkata** — BSI, ZSI; **Lucknow** — UPPCB.
+13. Headquarters fact: **Delhi** — MoEFCC, CPCB, NGT; **Dehradun** — WII, FSI; **Kolkata** — BSI, ZSI; **Lucknow** — UPPCB.
 14. Category A EC → **MoEFCC**. Category B EC → **SEIAA**. Industry consent → **SPCB**. EC appeal → **NGT**.
 15. Pollution standards → **CPCB**. Forest cover report → **FSI**. Plant taxonomy → **BSI**. Animal taxonomy → **ZSI**. Wildlife training → **WII**.
 16. MoEFCC was **not** created in **1972**. That year marks the Stockholm Conference and the Wildlife (Protection) Act.
@@ -43,7 +43,7 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -75,7 +75,7 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 - MoEFCC **does not** set **NAAQS** pollution standards — that is **CPCB's** role.
 - MoEFCC **does not** publish **ISFR** — that is **FSI's** role.
 
-> **Exam note:** MoEFCC was **not** created in 1972. **1972** = Stockholm Conference + WPA.
+> ** note:** MoEFCC was **not** created in 1972. **1972** = Stockholm Conference + WPA.
 
 | Function | Body |
 |----------|------|
@@ -107,7 +107,7 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 
 Annual Groundwater Quality Report 2024 prepared by:
 
-1. CPCB  2. Central Water Commission  3. CGWB
+1. CPCB 2. Central Water Commission 3. CGWB
 
 <details><summary>Show answer</summary>
 
@@ -147,7 +147,7 @@ Annual Groundwater Quality Report 2024 prepared by:
 - NGT **does not grant EC** — it **adjudicates appeals**.
 - NGT **does not set pollution standards** — CPCB does.
 
-> **Exam note:** NGT Act = **2010**, not 1986.
+> ** note:** NGT Act = **2010**, not 1986.
 
 ---
 
@@ -228,9 +228,7 @@ ISFR 2023 is published by **FSI**. UP districts with >20% forest cover included 
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
-
-**Q1.** MoEFCC was originally established in:
+> **30 questionsQ1.** MoEFCC was originally established in:
 
 A. 1972
 
@@ -694,7 +692,7 @@ D. Handle climate policy
 
 </details>
 
-**Q30.** Assertion (A): CPCB grants Environmental Clearance.  
+**Q30.** Assertion (A): CPCB grants Environmental Clearance.
 Reason (R): CPCB sets pollution standards.
 
 A. Both true; R explains A
@@ -715,17 +713,7 @@ D. Both false
 
 ## Complete PYQ Bank (Topic 16)
 
-**Q1. UPPCS 2025, Q70** — Groundwater report = CGWB → **Ans: B**
-
-**Q2. UPPCS 2025, Q8** — ISFR by FSI; UP forest districts → **Ans: C (2 and 3)**
-
-**Q3. UPSC pattern** — Category A EC = MoEFCC → **Not CPCB**
-
-**Q4. UPSC pattern** — CPCB under Water Act 1974 → **Ans: B**
-
-**Q5. UPSC pattern** — NGT Act 2010 → **Ans: C**
-
-**Q6. UPSC pattern** — Consent to Operate = SPCB
+**Q1. UPPCS 2025, Q70** — Groundwater report = CGWB → **Ans: BQ2. UPPCS 2025, Q8** — ISFR by FSI; UP forest districts → **Ans: C (2 and 3)Q3. UPSC pattern** — Category A EC = MoEFCC → **Not CPCBQ4. UPSC pattern** — CPCB under Water Act 1974 → **Ans: BQ5. UPSC pattern** — NGT Act 2010 → **Ans: CQ6. UPSC pattern** — Consent to Operate = SPCB
 
 **Q7. UPSC pattern** — BSI HQ Kolkata; plants only
 
@@ -735,13 +723,13 @@ D. Both false
 
 ## Mains Answer Framework
 
-**Environmental organizations (250 words):** Map India's governance chain — MoEFCC (policy, Category A EC, forest/wildlife laws), CPCB (national standards/monitoring), SPCB (state consent/enforcement), NGT (appeals). Scientific bodies — WII (wildlife research), BSI (plants), ZSI (animals), FSI (ISFR). HQ and report matching. UP angle — UPPCB Lucknow, Kanpur enforcement, ISFR UP districts. Distinguish consent vs clearance vs appeal. Conclude with coordination need and common exam traps (CPCB ≠ EC ≠ CGWB).
+**Environmental organizations (250 words):** Map India's governance chain — MoEFCC (policy, Category A EC, forest/wildlife laws), CPCB (national standards/monitoring), SPCB (state consent/enforcement), NGT (appeals). Scientific bodies — WII (wildlife research), BSI (plants), ZSI (animals), FSI (ISFR). HQ and report matching. UP angle — UPPCB Lucknow, Kanpur enforcement, ISFR UP districts. Distinguish consent vs clearance vs appeal. Conclude with coordination need and common traps (CPCB ≠ EC ≠ CGWB).
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | CPCB grants EC | **MoEFCC/SEIAA** |
 | CPCB publishes ISFR | **FSI** |

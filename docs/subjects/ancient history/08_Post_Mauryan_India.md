@@ -8,14 +8,14 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 </details>
 
-> **Sources baked in:** Hathigumpha, Ayodhya, Junagadh, Nasik, Sangam corpus, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — 2023 invader order, 2025 south-dynasty match, 2021 Satavahana, 2018 Hathigumpha + Ayodhya  
-> **Last verified:** August 2026  
+> **Sources baked in:** Hathigumpha, Ayodhya, Junagadh, Nasik, Sangam corpus, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — 2023 invader order, 2025 south-dynasty match, 2021 Satavahana, 2018 Hathigumpha + Ayodhya
+> **Last verified:** August 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. The Mauryan empire ended in **185 BCE** when general **Pushyamitra Shunga** killed the last Mauryan **Brihadratha**. The **Shungas** then ruled Magadha about **185–73 BCE**, and the short **Kanva** house followed about **73–28 BCE**.
 2. Pushyamitra’s **two ashwamedhas** are recorded in the **Ayodhya** inscription of Dhanadeva. That record is **not** Besnagar and **not** Hathigumpha.
@@ -30,25 +30,25 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 11. The greatest Indo-Greek name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**, and the *Milinda Panha* records his debate with **Nagasena**. Indo-Greeks also issued the first **portrait** die-struck coins in India.
 12. The first Shaka king named in India is **Maues / Moga** at Taxila–Gandhara. **Nahapana** is the greatest **Kshaharata**; **Rudradaman I** is the greatest **Kardamaka**.
 13. Rudradaman’s **Junagadh / Girnar** inscription is the first long literary **Sanskrit** prose record in India. It tells how the **Sudarshana lake** was built under **Chandragupta Maurya**, adorned under **Ashoka**, and **repaired** by Rudradaman.
-14. The brief Parthian / Pahlava bridge king is **Gondophares**. The northwest Buddhist site lock for this age is **Takht-i-Bahi**.
+14. The brief Parthian / Pahlava bridge king is **Gondophares**. The northwest Buddhist site fact for this age is **Takht-i-Bahi**.
 15. Kushans rise from the **Yuezhi**. **Kujula Kadphises** founds the house; **Vima Kadphises** floods India with imperial **gold**; **Kanishka** is the greatest ruler.
 16. Kushan main capital is **Purushapura (Peshawar)**. **Mathura** in Uttar Pradesh is the second great Indian centre. Art pairs **Gandhara** Greco-Buddhist schist with **Mathura** red sandstone.
-17. Exam keys peg Kanishka’s accession to **78 CE**, the start of the **Shaka era**. Do **not** confuse it with **Vikrama Samvat 57 BCE**.
+17. keys peg Kanishka’s accession to **78 CE**, the start of the **Shaka era**. Do **not** confuse it with **Vikrama Samvat 57 BCE**.
 18. Kanishka convened the **Fourth Buddhist Council** in Kashmir at **Kundalvana**. **Vasumitra** is remembered as president, and **Ashvaghosha** belongs to this age. Kanishka’s title is **Devaputra**.
 19. Sangam Tamilakam’s **Muvendar** are **Chera** (bow), **Chola** (tiger), and **Pandya** (fish). Capitals are **Vanji / Karur**, **Uraiyur**, and **Madurai**.
 20. **Karikala** is the Sangam Chola who built the **Kallanai** on the Kaveri. He is **not** imperial **Rajaraja I** of Thanjavur.
 21. Sangam seat tradition is **Madurai** under the Pandyas. **Tolkappiyam** is the earliest Tamil grammar. **Akam** is love poetry; **Puram** is war and kingship poetry.
-22. Sangam ports lock as **Muziris** (Chera / Roman pepper), **Puhar** (Chola), and **Korkai** (Pandya pearl coast). **Arikamedu** yields Roman amphorae.
-23. Later south dynasty match locks: **Mahendravarman I** is **Pallava**; **Kadungon** is **Pandya**; **Amoghavarsha I** is **Rashtrakuta**; **Rajaraja I** is **Chola**.
+22. Sangam ports fact as **Muziris** (Chera / Roman pepper), **Puhar** (Chola), and **Korkai** (Pandya pearl coast). **Arikamedu** yields Roman amphorae.
+23. Later south dynasty matchs: **Mahendravarman I** is **Pallava**; **Kadungon** is **Pandya**; **Amoghavarsha I** is **Rashtrakuta**; **Rajaraja I** is **Chola**.
 24. **Gandhara** art is Kushan northwest Greco-Buddhist. **Amaravati** art is Satavahana Andhra limestone narrative relief. Do not swap the schools.
 25. Ashoka’s Rock Edict II names Chola, Pandya, Keralaputra, and Satiyaputra as **independent neighbours**, not Mauryan provinces.
-26. In Uttar Pradesh, **Ayodhya** is the Pushyamitra ashwamedha lock, and **Mathura** is the Kushan second capital and Mathura-art home.
+26. In Uttar Pradesh, **Ayodhya** is the Pushyamitra ashwamedha fact, and **Mathura** is the Kushan second capital and Mathura-art home.
 27. **Patanjali** of the *Mahabhashya* and Kalidasa’s *Malavikagnimitra* (Agnimitra) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows.
 28. Satavahana personal names are often **metronymic** (Gautamiputra, Vashishthiputra). After their decline, Deccan power thins toward the third century CE.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -78,12 +78,10 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ### Pushyamitra Shunga coup (185 BCE) — Cause, Course, Result
 
-**Victim:** last Mauryan **Brihadratha** | **Actor:** Mauryan general **Pushyamitra Shunga**
-
-**Cause:** The Mauryan empire had weakened after **Ashoka**. The last king **Brihadratha** could not hold the army or the treasury.  
-**Course:** General **Pushyamitra Shunga** killed **Brihadratha** at a review and seized Magadha. Buddhist tradition is hostile, but **Sanchi** still grew in this age.  
+**Victim:** last Mauryan **Brihadratha** | **Actor:** Mauryan general **Pushyamitra ShungaCause:** The Mauryan empire had weakened after **Ashoka**. The last king **Brihadratha** could not hold the army or the treasury.
+**Course:** General **Pushyamitra Shunga** killed **Brihadratha** at a review and seized Magadha. Buddhist tradition is hostile, but **Sanchi** still grew in this age.
 **Result:** The **Mauryan empire ended** in **185 BCE**. The **Shunga dynasty** ruled Magadha until **73 BCE**. Pushyamitra performed **two ashwamedhas**, recorded at **Ayodhya** — not Besnagar or Hathigumpha.
-- Exam chronology for the northwest trio is **Greeks — Sakas — Kushans** (Parthians are often dropped in match-lists).
+- chronology for the northwest trio is **Greeks — Sakas — Kushans** (Parthians are often dropped in match-lists).
 
 - The **Shungas** last **185–73 BCE**. Magadha is the capital. Vidisha is a second centre. There is a Brahmanical revival.
 - Pushyamitra performs two **ashwamedha** rites. The **Ayodhya inscription** of **Dhanadeva** records those two — not Besnagar, Hathigumpha, or Sarnath.
@@ -98,9 +96,9 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 Which of the following inscriptions gives the information about two Ashwamedha Yajnas performed by the King Pushyamitra Shung?
 
-A. Saranath inscription  
-B. Besnagar inscription  
-C. Ayodhya inscription  
+A. Saranath inscription
+B. Besnagar inscription
+C. Ayodhya inscription
 D. Hathigumpha inscription
 
 <details>
@@ -110,7 +108,7 @@ D. Hathigumpha inscription
 
 </details>
 
-> **Exam note:** 185 = Shunga coup, not Ashoka’s death (232).
+> ** note:** 185 = Shunga coup, not Ashoka’s death (232).
 
 ---
 
@@ -124,18 +122,18 @@ D. Hathigumpha inscription
 - **Gautamiputra Satakarni** is the greatest.
 ### Gautamiputra Satakarni vs Nahapana — Cause, Course, Result
 
-**Cause:** Shaka **Nahapana** (Kshaharata) controlled a belt from **Ajmer** to **Nasik** and threatened Satavahana survival.  
-**Course:** **Gautamiputra Satakarni** defeated Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana's silver was restruck.  
+**Cause:** Shaka **Nahapana** (Kshaharata) controlled a belt from **Ajmer** to **Nasik** and threatened Satavahana survival.
+**Course:Gautamiputra Satakarni** defeated Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana's silver was restruck.
 **Result:** Satavahana power peaked in the western Deccan. Later Shaka greatness passed to the **Kardamaka** house of **Rudradaman**. He restruck Nahapana’s silver (Jogalthembi hoard type).
 
-| Ruler | Lock |
+| Ruler | Fact |
 |-------|------|
 | **Simuka** | Traditional founder |
 | **Satakarni I** | Early expansion; **Naneghat** of queen **Naganika** |
 | **Gautamiputra Satakarni** | Greatest; defeats **Nahapana**; **Nasik prasasti** of **Gautami Balashri** |
 | **Vashishthiputra Pulumavi** | Son and successor |
 | **Hala** | *Gatha Saptasati* in Prakrit |
-| **Yajna Sri Satakarni** | **Ship** on coins — sea-trade lock |
+| **Yajna Sri Satakarni** | **Ship** on coins — sea-trade fact |
 
 - They nurtured **Prakrit** in inscriptions and *gathas*, not Sanskrit as the court speech. **Public art** got more push: the **Amaravati** stupa, the **Karle** chaitya, and the Nasik caves.
 - Land grants to Brahmans and Buddhist monks start to show. Roman trade crosses their roads. Decline comes about the 3rd century CE. **Ikshvakus** at Nagarjunakonda come next in Andhra.
@@ -144,10 +142,10 @@ D. Hathigumpha inscription
 
 With reference to the Satavahana Rulers which of the following statement/s is/are true?
 
-1. The Satavahana Kings were the nurturers of Prakrit language.  
+1. The Satavahana Kings were the nurturers of Prakrit language.
 2. Public aspect of the arts got more encouragement during the Satavahana period.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -156,7 +154,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-> **Exam note:** Gautamiputra Satakarni = **Satavahana** (Paithan). Kanishka = **Kushan**. Madurai = **Pandya**.
+> ** note:** Gautamiputra Satakarni = **Satavahana** (Paithan). Kanishka = **Kushan**. Madurai = **Pandya**.
 
 ---
 
@@ -170,15 +168,13 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 ## 8.3 South Indian History
 
-**Peninsula below the Vindhyas | Kalinga + Tamilakam + later match-list houses**
-
-**Kharavela (Kalinga, Chedi)**
+**Peninsula below the Vindhyas | Kalinga + Tamilakam + later match-list housesKharavela (Kalinga, Chedi)**
 ### Kharavela — Hathigumpha Campaigns (Cause, Course, Result)
 
 **Source:** Hathigumpha inscription, Udayagiri | **Dynasty:** Mahameghavahana / Chedi | **Religion:** Jain
 
-**Cause:** Kalinga sought independence, trade prestige, and recovery of cult images after Nanda/Mauryan pressure.  
-**Course:** The inscription records recovery of a **Jina image** carried off by a **Nanda** king; military expeditions toward **Magadha** and the **south**; gifts to monks and public works.  
+**Cause:** Kalinga sought independence, trade prestige, and recovery of cult images after Nanda/Mauryan pressure.
+**Course:** The inscription records recovery of a **Jina image** carried off by a **Nanda** king; military expeditions toward **Magadha** and the **south**; gifts to monks and public works.
 **Result:** Kharavela is the strongest **post-Mauryan Kalinga** ruler in epigraphy. **Hathigumpha** = Kharavela.
 
 
@@ -201,7 +197,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 The inscription of Hathigumpha is the source of information about which king?
 
-A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
+A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 <details>
 <summary>Show answer</summary>
@@ -210,13 +206,13 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 </details>
 
-> **Exam note:** **Hathigumpha** = **Kharavela** of Kalinga.
+> ** note:Hathigumpha** = **Kharavela** of Kalinga.
 
 ---
 
 ## 8.3b Post-Mauryan Art Schools — Quick Compare
 
-| School | Period / patron | Material / style | Exam lock |
+| School | Period / patron | Material / style | Key fact |
 |--------|-----------------|------------------|-----------|
 | **Gandhara** | Kushan northwest | Greco-Buddhist schist | Greco-Roman Buddha face |
 | **Mathura** | Kushan / local | Red sandstone Indian types | Indigenous Buddha forms |
@@ -231,7 +227,7 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 - Alexander’s **326** march (Hydaspes, Sangala, Beas turn-back) belongs to the **Foreign Invasions** chapter. Indo-Greeks are the **later** Bactrian-Greek kings inside India.
 
-- In exam chronology, “Greeks” means Alexander’s wave **plus** these Indo-Greeks.
+- In chronology, “Greeks” means Alexander’s wave **plus** these Indo-Greeks.
 - They sit **before** Shakas and **before** Kushans.
 - **Greco-Bactria** breaks from the Seleucids under **Diodotus**, about **250 BCE**. **Demetrius I**, about **180 BCE**, makes the first major push into India with an elephant-scalp helmet type.
 - The greatest name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**. The *Milinda Panha* records his debate with **Nagasena**.
@@ -242,7 +238,7 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 - Besnagar is **not** Pushyamitra’s two-ashwamedha record. That inscription is at **Ayodhya**.
 - Indo-Greek power in the northwest ends when **Shakas** take Gandhara and Punjab.
 
-> **Exam note:** **Menander** = Indo-Greek, *Milinda Panha*, capital **Sagala**. **Sangala** = Alexander’s 326 battle. **Heliodorus pillar** = **Besnagar**. Pushyamitra ashwamedha = **Ayodhya**.
+> ** note:Menander** = Indo-Greek, *Milinda Panha*, capital **Sagala**. **Sangala** = Alexander’s 326 battle. **Heliodorus pillar** = **Besnagar**. Pushyamitra ashwamedha = **Ayodhya**.
 
 ---
 
@@ -262,7 +258,7 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 - Western Shaka rule fades when **Rudrasimha III** is defeated by **Chandragupta II** in the 4th century CE.
 - **Vikrama Samvat 57 BCE** is the Vikramaditya legend at Ujjain. It is **not** the **Shaka era 78 CE** tied to Kanishka.
 
-> **Exam note:** Junagadh is not Hathigumpha. Rudradaman is not Kharavela. Nahapana is Kshaharata, not Kardamaka.
+> ** note:** Junagadh is not Hathigumpha. Rudradaman is not Kharavela. Nahapana is Kshaharata, not Kardamaka.
 
 ---
 
@@ -273,11 +269,11 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 - The **Parthians** are called **Pahlavas** in Indian sources. They hold a **short** belt in the northwest after Shakas and before Kushan dominance.
 - Their zone is **Gandhara**, **Punjab**, and **Sind**.
 - The best-known king is **Gondophares**, who rules about **19–45 CE**. His coins and inscriptions appear in the Kabul–Taxila belt.
-- The site lock for Parthian-period Buddhism in the NW is **Takht-i-Bahi** near Mardan in Pakistan.
+- The site fact for Parthian-period Buddhism in the NW is **Takht-i-Bahi** near Mardan in Pakistan.
 - Christian legend places **St Thomas** at Gondophares’ court. That is tradition, not a royal inscription.
 - **Kujula Kadphises** of the Kushans displaces Parthian and remaining Greek power in the northwest.
 
-> **Exam note:** Gondophares is **Parthian / Pahlava**. He is not Maues (Shaka) and not Kanishka (Kushan).
+> ** note:** Gondophares is **Parthian / Pahlava**. He is not Maues (Shaka) and not Kanishka (Kushan).
 
 ---
 
@@ -300,9 +296,9 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
 
-A. Greeks — Sakas — Kushans  
-B. Greeks — Kushans — Sakas  
-C. Sakas — Greeks — Kushans  
+A. Greeks — Sakas — Kushans
+B. Greeks — Kushans — Sakas
+C. Sakas — Greeks — Kushans
 D. Sakas — Kushans — Greeks
 
 <details>
@@ -312,7 +308,7 @@ D. Sakas — Kushans — Greeks
 
 </details>
 
-> **Exam note:** Vima’s gold ≠ Gupta dinara as a “first” if the paper wants Kushan gold.
+> ** note:** Vima’s gold ≠ Gupta dinara as a “first” if the paper wants Kushan gold.
 
 ---
 
@@ -321,7 +317,7 @@ D. Sakas — Kushans — Greeks
 **Greatest Kushan | Purushapura | Shaka era 78 CE | Fourth Buddhist Council**
 
 - **Kanishka** is the most famous Kushan ruler. His empire included Afghanistan, Gandhara, Punjab, and much of the Ganga plain.
-- Exam keys usually peg his accession to **78 CE**, the start of the **Shaka Samvat** (Shaka era). Some books use about **127 CE** for his reign peak. Prelims still want **78 CE** when they say Shaka era.
+- keys usually peg his accession to **78 CE**, the start of the **Shaka Samvat** (Shaka era). Some books use about **127 CE** for his reign peak. Prelims still want **78 CE** when they say Shaka era.
 - Kanishka uses the title **Devaputra** (son of god). The **Rabatak inscription** from Afghanistan gives his genealogy if a paper names it.
 - Kanishka convenes the **Fourth Buddhist Council** in **Kashmir** at **Kundalvana / Kundalavana**.
 - **Vasumitra** is remembered as president of the council. **Ashvaghosha** writes the *Buddhacharita* in this age.
@@ -331,7 +327,7 @@ D. Sakas — Kushans — Greeks
 - His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same series.
 - Kanishka is a common **trap option** for **Hathigumpha**. That inscription belongs to **Kharavela** of Kalinga.
 
-> **Exam note:** Shaka era = **78 CE** (Kanishka). Vikrama era = **57 BCE**. **Hathigumpha** = **Kharavela** of Kalinga.
+> ** note:** Shaka era = **78 CE** (Kanishka). Vikrama era = **57 BCE**. **Hathigumpha** = **Kharavela** of Kalinga.
 
 ---
 
@@ -363,7 +359,7 @@ D. Sakas — Kushans — Greeks
 
 - **Arikamedu** yields Roman amphorae. **Keeladi** is early historic Tamil urban. Tamil-Brahmi appears on pottery and caves. Yavana in the poems means a foreign or Roman trader.
 
-> **Exam note:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra*.
+> ** note:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra*.
 
 ---
 
@@ -395,7 +391,7 @@ Match List-I with List-II.
 | C. Amoghavarsha I | 3. Chola |
 | D. Rajaraja I | 4. Pandya |
 
-A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
+A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -404,15 +400,15 @@ A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
 
 </details>
 
-> **Exam note:** Rajaraja I is **not** a Sangam Chola. Karikala is.
+> ** note:** Rajaraja I is **not** a Sangam Chola. Karikala is.
 
 ---
 
 ## UP Focus
 
-| Lock | Place |
+| Fact | Place |
 |------|--------|
-| Ayodhya ashwamedha inscription | Ayodhya — Pushyamitra lock |
+| Ayodhya ashwamedha inscription | Ayodhya — Pushyamitra fact |
 | Mathura | Kushan **second capital**. Mathura art |
 | Sarnath | Not the Pushyamitra ashwamedha record |
 | Deep-south Sangam | Not a UP polity. Ports are Tamilakam |
@@ -423,9 +419,9 @@ A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
 
 **Q1.** With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
 
-A. Greeks — Sakas — Kushans  
-B. Greeks — Kushans — Sakas  
-C. Sakas — Greeks — Kushans  
+A. Greeks — Sakas — Kushans
+B. Greeks — Kushans — Sakas
+C. Sakas — Greeks — Kushans
 D. Sakas — Kushans — Greeks
 
 <details>
@@ -439,7 +435,7 @@ D. Sakas — Kushans — Greeks
 
 **Q2.** The inscription of Hathigumpha is the source of information about which king?
 
-A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
+A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 <details>
 <summary>Show answer</summary>
@@ -452,7 +448,7 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 **Q3.** Which inscription records two Ashwamedha yajnas of Pushyamitra Shunga?
 
-A. Sarnath  B. Besnagar  C. Ayodhya  D. Hathigumpha
+A. Sarnath B. Besnagar C. Ayodhya D. Hathigumpha
 
 <details>
 <summary>Show answer</summary>
@@ -465,10 +461,10 @@ A. Sarnath  B. Besnagar  C. Ayodhya  D. Hathigumpha
 
 **Q4.** With reference to the Satavahana rulers, which statement/s is/are true?
 
-1. They nurtured Prakrit.  
+1. They nurtured Prakrit.
 2. Public aspect of the arts got more encouragement.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -488,7 +484,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 | C. Amoghavarsha I | 3. Chola |
 | D. Rajaraja I | 4. Pandya |
 
-A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
+A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -501,11 +497,11 @@ A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
 
 **Q6.** Which of the following statements is/are correct?
 
-1. Menander is the Indo-Greek Milinda.  
-2. Nagasena is the monk of *Milinda Panha*.  
+1. Menander is the Indo-Greek Milinda.
+2. Nagasena is the monk of *Milinda Panha*.
 3. Heliodorus wrote the Ayodhya ashwamedha record.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -518,13 +514,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q7.** Given below are two statements:
 
-**Assertion (A):** Rudradaman’s Junagadh inscription mentions the Sudarshana lake.  
+**Assertion (A):** Rudradaman’s Junagadh inscription mentions the Sudarshana lake.
 
 **Reason (R):** The lake was first dug by Rudradaman himself, with no Mauryan memory on the rock.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -538,9 +534,9 @@ D. (A) is false, but (R) is true
 
 **Q8.** Which one of the following pairs is **not** correctly matched?
 
-A. Maues — first Shaka in India  
-B. Nahapana — beaten by Gautamiputra  
-C. Gondophares — Indo-Parthian  
+A. Maues — first Shaka in India
+B. Nahapana — beaten by Gautamiputra
+C. Gondophares — Indo-Parthian
 D. Kujula Kadphises — Satavahana founder
 
 <details>
@@ -554,12 +550,12 @@ D. Kujula Kadphises — Satavahana founder
 
 **Q9.** With reference to Kanishka, consider the following statements:
 
-1. Exam keys often tie the Shaka era 78 CE to him.  
-2. He convened the Fourth Buddhist Council in Kashmir.  
+1. keys often tie the Shaka era 78 CE to him.
+2. He convened the Fourth Buddhist Council in Kashmir.
 3. Hathigumpha is his Kalinga war edict.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -578,7 +574,7 @@ A. Only one  B. Only two  C. All three  D. None
 | B. Chola | 2. Bow |
 | C. Pandya | 3. Tiger |
 
-A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
+A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -591,11 +587,11 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 
 **Q11.** Which of the following statements is/are correct?
 
-1. Karikala is credited with the Kaveri embankment.  
-2. Rajaraja I built Brihadeshwara at Thanjavur.  
+1. Karikala is credited with the Kaveri embankment.
+2. Rajaraja I built Brihadeshwara at Thanjavur.
 3. Karikala and Rajaraja I are the same Chola.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -608,12 +604,12 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q12.** Arrange the northern houses:
 
-1. Kanva  
-2. Maurya  
-3. Shunga  
+1. Kanva
+2. Maurya
+3. Shunga
 4. Gupta
 
-A. 2–3–1–4  B. 2–1–3–4  C. 3–2–1–4  D. 2–3–4–1
+A. 2–3–1–4 B. 2–1–3–4 C. 3–2–1–4 D. 2–3–4–1
 
 <details>
 <summary>Show answer</summary>
@@ -626,13 +622,13 @@ A. 2–3–1–4  B. 2–1–3–4  C. 3–2–1–4  D. 2–3–4–1
 
 **Q13.** Given below are two statements:
 
-**Assertion (A):** Satavahanas often used metronymic names.  
+**Assertion (A):** Satavahanas often used metronymic names.
 
 **Reason (R):** Gautamiputra means son of a Gautami.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -646,7 +642,7 @@ D. (A) is false, but (R) is true
 
 **Q14.** Which of the following is **not** a Sangam tinai?
 
-A. Kurinji  B. Marudam  C. Neydal  D. Janapada
+A. Kurinji B. Marudam C. Neydal D. Janapada
 
 <details>
 <summary>Show answer</summary>
@@ -659,12 +655,12 @@ A. Kurinji  B. Marudam  C. Neydal  D. Janapada
 
 **Q15.** With reference to Kushan rule, consider the following statements:
 
-1. Purushapura was the main capital.  
-2. Mathura was a second capital.  
-3. Vima Kadphises is the usual first-gold lock.
+1. Purushapura was the main capital.
+2. Mathura was a second capital.
+3. Vima Kadphises is the usual first-gold fact.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -677,9 +673,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q16.** Which one of the following pairs is **not** correctly matched?
 
-A. Pratishthana — Satavahana  
-B. Purushapura — Kushan  
-C. Madurai — Pandya  
+A. Pratishthana — Satavahana
+B. Purushapura — Kushan
+C. Madurai — Pandya
 D. Tosali — Sangam Chola
 
 <details>
@@ -700,7 +696,7 @@ D. Tosali — Sangam Chola
 | C. Yajna Sri | 3. Ship coins |
 | D. Simuka | 4. Traditional founder |
 
-A. 2 1 3 4  B. 2 1 4 3  C. 1 2 3 4  D. 2 3 1 4
+A. 2 1 3 4 B. 2 1 4 3 C. 1 2 3 4 D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -713,9 +709,9 @@ A. 2 1 3 4  B. 2 1 4 3  C. 1 2 3 4  D. 2 3 1 4
 
 **Q18.** Which of the following statements regarding Parthians is **not** correct?
 
-A. Gondophares is the headline king.  
-B. Takht-i-Bahi is a site lock.  
-C. They sit last in the 2023 Greeks–Sakas–Kushans trio.  
+A. Gondophares is the headline king.
+B. Takht-i-Bahi is a site fact.
+C. They sit last in the 2023 Greeks–Sakas–Kushans trio.
 D. St Thomas at the court is a Christian legend.
 
 <details>
@@ -729,12 +725,12 @@ D. St Thomas at the court is a Christian legend.
 
 **Q19.** Consider the following statements about Sangam literature:
 
-1. Tolkappiyam is the earliest Tamil grammar.  
-2. Akam is war poetry.  
+1. Tolkappiyam is the earliest Tamil grammar.
+2. Akam is war poetry.
 3. Ettuttokai is the eight anthologies.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -747,13 +743,13 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q20.** Given below are two statements:
 
-**Assertion (A):** 2025 matches Mahendravarman I with the Pallavas.  
+**Assertion (A):** 2025 matches Mahendravarman I with the Pallavas.
 
 **Reason (R):** Rajaraja I is a Pallava builder of Mamallapuram.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -767,11 +763,11 @@ D. (A) is false, but (R) is true
 
 **Q21.** Which of the following statements is/are correct?
 
-1. Vari is Sangam land tax.  
-2. Sungam is customs.  
+1. Vari is Sangam land tax.
+2. Sungam is customs.
 3. Velir are Mauryan dhamma-mahamatras in Tamil garb.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -790,7 +786,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Puhar | 2. Chera |
 | C. Korkai | 3. Chola |
 
-A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
+A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -803,12 +799,12 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 
 **Q23.** With reference to the Shungas, consider the following statements:
 
-1. Pushyamitra ends the Mauryas in 185 BCE.  
-2. The Ayodhya inscription is the 2018 ashwamedha key.  
+1. Pushyamitra ends the Mauryas in 185 BCE.
+2. The Ayodhya inscription is the 2018 ashwamedha key.
 3. Besnagar is that ashwamedha inscription.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -821,9 +817,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q24.** Which one of the following pairs is **not** correctly matched?
 
-A. Amaravati — Satavahana public Buddhist art  
-B. Karle — Satavahana-age chaitya  
-C. Gandhara — Kushan-age Greco-Buddhist art  
+A. Amaravati — Satavahana public Buddhist art
+B. Karle — Satavahana-age chaitya
+C. Gandhara — Kushan-age Greco-Buddhist art
 D. Brihadeshwara — Sangam Pandya pearl shrine at Korkai
 
 <details>
@@ -837,11 +833,11 @@ D. Brihadeshwara — Sangam Pandya pearl shrine at Korkai
 
 **Q25.** Which of the following statements is/are correct?
 
-1. Kadungon revives the Pandyas after the Kalabhras.  
-2. Amoghavarsha I is a Rashtrakuta.  
+1. Kadungon revives the Pandyas after the Kalabhras.
+2. Amoghavarsha I is a Rashtrakuta.
 3. Both belong to the Sangam Muvendar trio.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -854,12 +850,12 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q26.** Arrange:
 
-1. Maues in the NW  
-2. Menander in the Punjab  
-3. Kanishka’s peak  
+1. Maues in the NW
+2. Menander in the Punjab
+3. Kanishka’s peak
 4. Gondophares
 
-A. 2–1–4–3  B. 1–2–4–3  C. 2–1–3–4  D. 2–4–1–3
+A. 2–1–4–3 B. 1–2–4–3 C. 2–1–3–4 D. 2–4–1–3
 
 <details>
 <summary>Show answer</summary>
@@ -872,13 +868,13 @@ A. 2–1–4–3  B. 1–2–4–3  C. 2–1–3–4  D. 2–4–1–3
 
 **Q27.** Given below are two statements:
 
-**Assertion (A):** Mathura was a Kushan centre.  
+**Assertion (A):** Mathura was a Kushan centre.
 
 **Reason (R):** Purushapura was the only Kushan city ever named in Indian sources.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -892,9 +888,9 @@ D. (A) is false, but (R) is true
 
 **Q28.** Which of the following statements regarding *Gatha Saptasati* is correct?
 
-A. It is a Sanskrit court epic of Kanishka  
-B. It is a Prakrit anthology linked to Hala  
-C. It is a Sangam tinai grammar  
+A. It is a Sanskrit court epic of Kanishka
+B. It is a Prakrit anthology linked to Hala
+C. It is a Sangam tinai grammar
 D. It is Rudradaman’s Junagadh text
 
 <details>
@@ -908,12 +904,12 @@ D. It is Rudradaman’s Junagadh text
 
 **Q29.** With reference to Kharavela, consider the following statements:
 
-1. Hathigumpha is at Udayagiri in Odisha.  
-2. He is a Chedi king of Kalinga.  
+1. Hathigumpha is at Udayagiri in Odisha.
+2. He is a Chedi king of Kalinga.
 3. 2018 Q16 also accepts Ashoka as the Hathigumpha king.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -932,7 +928,7 @@ A. Only one  B. Only two  C. All three  D. None
 | B. Shaka era | 2. 57 BCE |
 | C. Mauryan fall | 3. 185 BCE |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 1 3 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -945,11 +941,11 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 1 3 2
 
 **Q31.** Which of the following statements is/are correct?
 
-1. Arikamedu shows Roman amphorae.  
-2. Muziris is the Chera pepper port.  
+1. Arikamedu shows Roman amphorae.
+2. Muziris is the Chera pepper port.
 3. Puhar is the Kushan capital in the Tamil poems.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -962,9 +958,9 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q32.** Which one of the following pairs is **not** correctly matched?
 
-A. Naneghat — Naganika  
-B. Nasik prasasti — Gautami Balashri  
-C. Rabatak — Kanishka  
+A. Naneghat — Naganika
+B. Nasik prasasti — Gautami Balashri
+C. Rabatak — Kanishka
 D. Hathigumpha — Rudradaman
 
 <details>
@@ -978,12 +974,12 @@ D. Hathigumpha — Rudradaman
 
 **Q33.** Consider the following statements:
 
-1. Ikshvakus follow Satavahanas in coastal Andhra.  
-2. Kanvas follow Shungas in Magadha.  
+1. Ikshvakus follow Satavahanas in coastal Andhra.
+2. Kanvas follow Shungas in Magadha.
 3. Guptas follow Mauryas with no gap.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -996,13 +992,13 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q34.** Given below are two statements:
 
-**Assertion (A):** Sangam polity used vari and sungam.  
+**Assertion (A):** Sangam polity used vari and sungam.
 
 **Reason (R):** This is the same as Ashoka’s dhamma-mahamatra cadre.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1016,11 +1012,11 @@ D. (A) is false, but (R) is true
 
 **Q35.** Which of the following statements is/are correct?
 
-1. Chashtana belongs to the Kardamaka line.  
-2. Nahapana belongs to the Kshaharata line.  
+1. Chashtana belongs to the Kardamaka line.
+2. Nahapana belongs to the Kshaharata line.
 3. Both are Satavahana emperors.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1039,7 +1035,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Vasumitra | 2. *Buddhacharita* |
 | C. Charaka | 3. Medical name often hung on Kanishka’s court |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1052,10 +1048,10 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q37.** Which of the following statements regarding Patanjali is **not** correct?
 
-A. *Mahabhashya* is his work.  
-B. Tradition places him in the Shunga age.  
-C. He is the author of the Hathigumpha text.  
-D. He is a grammar lock, not a Kushan emperor.
+A. *Mahabhashya* is his work.
+B. Tradition places him in the Shunga age.
+C. He is the author of the Hathigumpha text.
+D. He is a grammar fact, not a Kushan emperor.
 
 <details>
 <summary>Show answer</summary>
@@ -1068,12 +1064,12 @@ D. He is a grammar lock, not a Kushan emperor.
 
 **Q38.** With reference to tinai, consider the following statements:
 
-1. Kurinji is the hill landscape.  
-2. Neydal is the coast.  
+1. Kurinji is the hill landscape.
+2. Neydal is the coast.
 3. Palai is the Kushan capital in Gandhara.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1086,9 +1082,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q39.** Which one of the following pairs is **not** correctly matched?
 
-A. Silappadikaram — Kannagi  
-B. Manimekalai — Buddhist sequel  
-C. Tirukkural — didactic Tamil  
+A. Silappadikaram — Kannagi
+B. Manimekalai — Buddhist sequel
+C. Tirukkural — didactic Tamil
 D. Gatha Saptasati — Pandya pearl register at Korkai
 
 <details>
@@ -1102,11 +1098,11 @@ D. Gatha Saptasati — Pandya pearl register at Korkai
 
 **Q40.** Which of the following statements is/are correct?
 
-1. 2023 Q23 keys Greeks before Sakas.  
-2. 2023 Q24 keys Nagasena, not Nagarjuna.  
+1. 2023 Q23 keys Greeks before Sakas.
+2. 2023 Q24 keys Nagasena, not Nagarjuna.
 3. Both questions belong only to the Gupta file.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1119,13 +1115,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q41.** Given below are two statements:
 
-**Assertion (A):** Yajna Sri Satakarni’s coins show a ship.  
+**Assertion (A):** Yajna Sri Satakarni’s coins show a ship.
 
 **Reason (R):** Satavahanas had no interest in the sea.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1139,14 +1135,14 @@ D. (A) is false, but (R) is true
 
 **Q42.** Consider the following pairs:
 
-| Item | Lock |
+| Item | Fact |
 |------|------|
 | 1. Kallanai | Karikala |
 | 2. Brihadeshwara | Rajaraja I |
 | 3. Mattavilasa | Mahendravarman I |
 
-How many of the above pairs are correctly matched?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above pairs are correctly matched?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1159,11 +1155,11 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q43.** Which of the following statements is/are correct?
 
-1. Vasudeva Kanva founds the Kanva house.  
-2. Devabhuti is the last Shunga.  
+1. Vasudeva Kanva founds the Kanva house.
+2. Devabhuti is the last Shunga.
 3. Pushyamitra is a Satavahana.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1182,7 +1178,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Marudam | 2. Hills |
 | C. Neydal | 3. Plains |
 
-A. 2 3 1  B. 2 1 3  C. 3 2 1  D. 1 3 2
+A. 2 3 1 B. 2 1 3 C. 3 2 1 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -1195,9 +1191,9 @@ A. 2 3 1  B. 2 1 3  C. 3 2 1  D. 1 3 2
 
 **Q45.** Which of the following statements regarding Kushan coins is **not** correct?
 
-A. Gold dinaras are a headline.  
-B. Many religions appear on the same metal.  
-C. They are anonymous punch-marked karshapana with no portrait.  
+A. Gold dinaras are a headline.
+B. Many religions appear on the same metal.
+C. They are anonymous punch-marked karshapana with no portrait.
 D. Vima is the usual first-gold name.
 
 <details>
@@ -1211,12 +1207,12 @@ D. Vima is the usual first-gold name.
 
 **Q46.** With reference to Junagadh, consider the following statements:
 
-1. The rock also carries Ashokan Major Rock Edicts.  
-2. Rudradaman’s text is in Sanskrit.  
+1. The rock also carries Ashokan Major Rock Edicts.
+2. Rudradaman’s text is in Sanskrit.
 3. Tushaspha is named as a Yavana under Ashoka.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1229,9 +1225,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q47.** Which one of the following pairs is **not** correctly matched?
 
-A. Senguttuvan — Chera  
-B. Nedunjeliyan — Pandya  
-C. Karikala — Chola  
+A. Senguttuvan — Chera
+B. Nedunjeliyan — Pandya
+C. Karikala — Chola
 D. Gautamiputra — Chera bow-king of Muziris
 
 <details>
@@ -1245,11 +1241,11 @@ D. Gautamiputra — Chera bow-king of Muziris
 
 **Q48.** Which of the following statements is/are correct?
 
-1. Fourth Council under Kanishka is a Sarvastivada memory.  
-2. The four-council order is Rajagriha → Vaishali → Pataliputra → Kashmir.  
+1. Fourth Council under Kanishka is a Sarvastivada memory.
+2. The four-council order is Rajagriha → Vaishali → Pataliputra → Kashmir.
 3. First Council was also held by Kanishka at Kashmir.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1262,13 +1258,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q49.** Given below are two statements:
 
-**Assertion (A):** 2018 Q91 is Ayodhya, not Besnagar.  
+**Assertion (A):** 2018 Q91 is Ayodhya, not Besnagar.
 
 **Reason (R):** Besnagar is the Heliodorus Garuda pillar.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1282,11 +1278,11 @@ D. (A) is false, but (R) is true
 
 **Q50.** Which of the following statements is/are correct?
 
-1. 2025 Q121 answer is 2-4-1-3.  
-2. 2021 Q52 treats both Prakrit and public arts as true.  
+1. 2025 Q121 answer is 2-4-1-3.
+2. 2021 Q52 treats both Prakrit and public arts as true.
 3. 2018 Q16 treats Hathigumpha as Kanishka.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1299,12 +1295,12 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q51.** With reference to **megalithic** cultures in south India, consider the following statements:
 
-1. Burial types include dolmens, cists, and hero stones (virakkal).  
-2. Black-and-red ware often appears in megalithic graves.  
+1. Burial types include dolmens, cists, and hero stones (virakkal).
+2. Black-and-red ware often appears in megalithic graves.
 3. Megalithic culture is the same archaeological marker as PGW of the north Indian doab.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1324,7 +1320,7 @@ A. Only one  B. Only two  C. All three  D. None
 | C. Rudradaman I | 3. Junagadh Sanskrit inscription; Sudarshana lake repair |
 | D. Gondophares | 4. Parthian / Pahlava ruler linked to Takht-i-Bahi |
 
-A. 1 2 3 4  B. 2 1 4 3  C. 1 2 4 3  D. 3 2 1 4
+A. 1 2 3 4 B. 2 1 4 3 C. 1 2 4 3 D. 3 2 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -1337,12 +1333,12 @@ A. 1 2 3 4  B. 2 1 4 3  C. 1 2 4 3  D. 3 2 1 4
 
 **Q53.** With reference to the **Kushanas**, consider the following statements:
 
-1. **Vima Kadphises** is associated with widespread gold coinage.  
-2. **Purushapura (Peshawar)** was a main Kushan capital.  
+1. **Vima Kadphises** is associated with widespread gold coinage.
+2. **Purushapura (Peshawar)** was a main Kushan capital.
 3. **Kanishka** convened the Fourth Buddhist Council in Kashmir tradition.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1355,13 +1351,13 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q54.** Given below are two statements:
 
-**Assertion (A):** The **Shaka era** beginning **78 CE** is usually tied to Kanishka in exam keys.  
+**Assertion (A):** The **Shaka era** beginning **78 CE** is usually tied to Kanishka keys.
 
-**Reason (R):** **Vikrama Samvat 57 BCE** is the same era as the Shaka era of 78 CE.
+**Reason (R):Vikrama Samvat 57 BCE** is the same era as the Shaka era of 78 CE.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1383,10 +1379,10 @@ D. (A) is false, but (R) is true
 
 Match List-I with List-II and choose the correct answer using the code given below.
 
-List-I (Ruler): A. Mahendravarman I  B. Kadungon  C. Amoghavarsha I  D. Rajaraja I  
-List-II (Dynasty): 1. Rashtrakuta  2. Pallava  3. Chola  4. Pandya
+List-I (Ruler): A. Mahendravarman I B. Kadungon C. Amoghavarsha I D. Rajaraja I
+List-II (Dynasty): 1. Rashtrakuta 2. Pallava 3. Chola 4. Pandya
 
-A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
+A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1401,9 +1397,9 @@ A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
 
 With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
 
-A. Greeks — Sakas — Kushans  
-B. Greeks — Kushans — Sakas  
-C. Sakas — Greeks — Kushans  
+A. Greeks — Sakas — Kushans
+B. Greeks — Kushans — Sakas
+C. Sakas — Greeks — Kushans
 D. Sakas — Kushans — Greeks
 
 <details>
@@ -1417,7 +1413,7 @@ D. Sakas — Kushans — Greeks
 
 *Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
 
-A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
+A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
 <details>
 <summary>Show answer</summary>
@@ -1432,10 +1428,10 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 
 With reference to the Satavahana Rulers which of the following statement/s is/are true?
 
-1. The Satavahana Kings were the nurturers of Prakrit language.  
+1. The Satavahana Kings were the nurturers of Prakrit language.
 2. Public aspect of the arts got more encouragement during the Satavahana period.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1450,7 +1446,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 The inscription of Hathigumpha is the source of information about which king?
 
-A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
+A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 <details>
 <summary>Show answer</summary>
@@ -1463,9 +1459,9 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 Which of the following inscriptions gives the information about two Ashwamedha Yajnas performed by the King Pushyamitra Shung?
 
-A. Saranath inscription  
-B. Besnagar inscription  
-C. Ayodhya inscription  
+A. Saranath inscription
+B. Besnagar inscription
+C. Ayodhya inscription
 D. Hathigumpha inscription
 
 <details>
@@ -1477,12 +1473,12 @@ D. Hathigumpha inscription
 
 ### Years with zero extra hits in local `pyq/`
 
-**2024, 2022, 2020, 2019** — no further GS-I hit that maps to Shunga / Satavahana / Kushan / Sangam after keyword search.  
+**2024, 2022, 2020, 2019** — no further GS-I hit that maps to Shunga / Satavahana / Kushan / Sangam after keyword search.
 **Out of boundary:** 2022 Chandragupta **II** Shaka silver is Gupta, not Kushan/Shaka-dynasty. 2020 mahajanapada capitals are the sixth-century list. Indo-Greek campaign detail sits with Alexander–Menander.
 
 ---
 
-## Common Traps — Exam Locks
+## Common Traps — Facts
 
 1. **Kushans before Shakas** (2023 B) → Greeks → Sakas → Kushans.
 2. **Hathigumpha = Ashoka / Kanishka / Harsha** → **Kharavela**.

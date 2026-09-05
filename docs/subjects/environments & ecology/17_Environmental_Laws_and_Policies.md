@@ -4,18 +4,18 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Acts:** EPA 1986 | WPA 1972 | FCA 1980 | BDA 2002 | Water Act 1974 | Air Act 1981 | NGT Act 2010 | FRA 2006  
+**Acts:** EPA 1986 | WPA 1972 | FCA 1980 | BDA 2002 | Water Act 1974 | Air Act 1981 | NGT Act 2010 | FRA 2006
 **Policies:** National Forest Policy 1952 | Environmental Law | Wildlife Protection Laws
 
 </details>
 
-> **Sources baked in:** NCERT, MoEFCC, Constitution Arts 48A/51A(g)/21, SC environmental jurisprudence, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — Act ↔ year, Bhopal→EPA, WPA schedules, FCA vs FRA  
+> **Sources baked in:** NCERT, MoEFCC, Constitution Arts 48A/51A(g)/21, SC environmental jurisprudence, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — Act ↔ year, Bhopal→EPA, WPA schedules, FCA vs FRA
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
 2. **Article 48A** (DPSP) directs the State to protect the environment. **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
@@ -39,14 +39,14 @@
 20. BDA is about biodiversity access and benefit-sharing institutions — not the same as WPA schedules or NGT appeals.
 21. Article **48A** binds the State as a Directive Principle; **51A(g)** binds the citizen as a duty. Both environment hooks sit beside Article **21** case law.
 22. Water Act creates the pollution-board architecture; EPA is the later umbrella for broader environmental regulation including EIA.
-23. Air Act year lock is **1981**. Pairing Air with **1974** or Water with **1981** is wrong.
+23. Air Act year fact is **1981**. Pairing Air with **1974** or Water with **1981** is wrong.
 24. NGT hears appeals; it does not rewrite the year of EPA or replace CPCB’s standards role.
 25. CAMPA/NPV issues arise after forest diversion under FCA — they are not FRA Gram Sabha rights tools.
 26. Match clearance labels carefully: **SPCB consent**, **MoEFCC/SEIAA EC**, **MoEFCC forest clearance**.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -115,7 +115,7 @@ D. 1986
 
 </details>
 
-> **Exam note:** Pair "EPA — 1974" or "Water Act — 1981" = **false**.
+> ** note:** Pair "EPA — 1974" or "Water Act — 1981" = **false**.
 
 ---
 
@@ -142,7 +142,7 @@ D. 1986
 - States implement WPA through the **Chief Wildlife Warden (CWLW)**.
 - WPA does **not** cover forest land diversion (**FCA**) or community forest rights (**FRA**).
 
-> **Exam note:** Schedule **V = vermin**, not highest protection. Schedule **I** = highest.
+> ** note:** Schedule **V = vermin**, not highest protection. Schedule **I** = highest.
 
 ---
 
@@ -212,7 +212,7 @@ D. 1977
 
 - The **National Forest Policy 1952** focused on **revenue and industrial use** of forests.
 - It was superseded in practice by the **National Forest Policy 1988**, which targets **33% forest cover nationally** and **66% in hills**.
-- Exams may cite **1952** from syllabus — know it as the **early revenue-oriented policy**.
+- Notes may cite **1952** from syllabus — know it as the **early revenue-oriented policy**.
 
 | Act | Purpose |
 |-----|---------|
@@ -254,9 +254,7 @@ D. 1977
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
-
-**Q1.** Environment (Protection) Act was enacted in:
+> **30 questionsQ1.** Environment (Protection) Act was enacted in:
 
 A. 1972
 
@@ -722,7 +720,7 @@ D. NGT Act
 
 **Q30.** Arrange Acts in chronological order:
 
-1. WPA  2. Water Act  3. EPA  4. FRA
+1. WPA 2. Water Act 3. EPA 4. FRA
 
 A. 1,2,3,4
 
@@ -742,23 +740,11 @@ D. 4,3,2,1
 
 ## Complete PYQ Bank (Topic 17)
 
-**Q1. UPPCS 2022, Q11** — EPA passed in → **Ans: D (1986)**
-
-**Q2. UPPCS 2023, Q109** — Water Act year → **Ans: A (1974)**
-
-**Q3. UPSC pattern** — EIA Notification under → **EPA 1986**
-
-**Q4. UPSC pattern** — EPA after Bhopal tragedy
+**Q1. UPPCS 2022, Q11** — EPA passed in → **Ans: D (1986)Q2. UPPCS 2023, Q109** — Water Act year → **Ans: A (1974)Q3. UPSC pattern** — EIA Notification under → **EPA 1986Q4. UPSC pattern** — EPA after Bhopal tragedy
 
 **Q5. UPSC pattern** — Schedule I highest protection; V = vermin
 
-**Q6. UPSC pattern** — Forest diversion approval → **FCA 1980 Central approval**
-
-**Q7. UPSC pattern** — Tiger Reserve Sec **38V**
-
-**Q8. UPSC pattern** — NGT Act **2010**
-
-**Q9. Topic 14/16 crossover** — Water 1974 vs Air 1981 year trap
+**Q6. UPSC pattern** — Forest diversion approval → **FCA 1980 Central approvalQ7. UPSC pattern** — Tiger Reserve Sec **38VQ8. UPSC pattern** — NGT Act **2010Q9. Topic 14/16 crossover** — Water 1974 vs Air 1981 year trap
 
 **Q10. Topic 15 crossover** — Bhopal 1984 → EPA 1986
 
@@ -772,7 +758,7 @@ D. 4,3,2,1
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Water Act = 1981 | **Water 1974; Air 1981** |
 | EPA = 1972 | **EPA 1986; WPA 1972** |

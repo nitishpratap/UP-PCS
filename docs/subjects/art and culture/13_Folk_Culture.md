@@ -1,5 +1,5 @@
 # Topic 13 — Folk Culture
-### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
+### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,32 +8,32 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Ministry of Textiles, DC Handicrafts, GI Registry (DPIIT), UNESCO ICH, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — folk art ↔ state, UP craft-city matching, GI ministry trap, handloom day/schemes, Chikankari/Banarasi  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Ministry of Textiles, DC Handicrafts, GI Registry (DPIIT), UNESCO ICH, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — folk art ↔ state, UP craft-city matching, GI ministry trap, handloom day/schemes, Chikankari/Banarasi
+> **Last verified:** August 2026
 > **Current Affairs:** 12th National Handloom Day **7 Aug 2026**. e-Pehchan (handloom) **Jan 2025**. UP leads GI count (**81**, Dec 2025).
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. **Folk art** is community, oral, and ritual. It is not a Natyashastra classical school like Bharatanatyam or a court Mughal miniature atelier.
 2. Painting map: **Madhubani** (Bihar Mithila), **Warli** (Maharashtra), **Pattachitra** (Odisha), **Phad** (Rajasthan), **Gond** (Madhya Pradesh), **Kalamkari** (Andhra), **Sanjhi** (Mathura, UP), and **Phulkari** (Punjab).
-3. More painting locks: **Pithora** (Gujarat), **Saura** (Odisha), **Cheriyal** (Telangana), **Kalighat** (West Bengal), **Rogan** (Kutch), **Aipan** (Uttarakhand), and **Mandana** (Rajasthan).
+3. More painting facts: **Pithora** (Gujarat), **Saura** (Odisha), **Cheriyal** (Telangana), **Kalighat** (West Bengal), **Rogan** (Kutch), **Aipan** (Uttarakhand), and **Mandana** (Rajasthan).
 4. **Madhubani** is bright geometric Mithila work of Bihar and carries a **GI**. It is not a named UNESCO ICH element by itself.
 5. **Warli** is Maharashtra tribal white-on-red painting. Do not place Warli in Bihar or Uttar Pradesh.
 6. **Sanjhi** is Braj / Mathura–Vrindavan paper-cutting of Uttar Pradesh and now carries a GI.
-7. Folk belief locks: **Gramdevta / Kuldevi**, **Nag Panchami**, **Chhath** sun worship in eastern UP–Bihar, **Ojha** healers, and tribal faiths such as **Sarna**, **Donyi-Polo**, and **Sanamahi**.
+7. Folk belief facts: **Gramdevta / Kuldevi**, **Nag Panchami**, **Chhath** sun worship in eastern UP–Bihar, **Ojha** healers, and tribal faiths such as **Sarna**, **Donyi-Polo**, and **Sanamahi**.
 8. **Handloom** is cloth woven on a manual loom. Yarn may be mill-spun. **Khadi** is **hand-spun and** hand-woven under **KVIC (MSME)**.
 9. **Handicraft** is a handmade object such as pottery, metalwork, or embroidery. It is not the same word as handloom cloth.
 10. National **Handloom Day** is **7 August**, recalling the **1905** Swadeshi moment; the first observance was **2015**. India Handloom Brand started in **2015**. Handloom Mark is from **2006**.
 11. Development Commissioner (Handicrafts) sits under **Textiles**. **PEHCHAN** artisan cards began in **2016**. **e-Pehchan** is the handloom digital ID from **2025**. **Shilp Guru** is the top handicraft honour.
 12. **GI** is governed by the **1999** Act. The Registry is at **Chennai** under **DPIIT / Commerce**, not Culture and not Textiles. First Indian GI was **Darjeeling Tea (2004)**. Protection is about **10 years** and renewable.
 13. Uttar Pradesh craft-city map: **Banarasi** brocade (Varanasi), **Chikankari** and **Zardozi** (Lucknow), **Bhadohi** carpet, **Moradabad** brass, **Firozabad** glass, **Khurja** pottery, and **Kannauj** attar.
-14. More UP craft locks: **Saharanpur** wood, **Agra** marble inlay, **Hapur–Pilkhuwa** block print, and **Azamgarh–Nizamabad** black pottery.
+14. More UP craft facts: **Saharanpur** wood, **Agra** marble inlay, **Hapur–Pilkhuwa** block print, and **Azamgarh–Nizamabad** black pottery.
 15. **Blue Pottery** is **Jaipur**, not Lucknow. **Pushkar Fair** is Rajasthan. **Surajkund** crafts mela is Haryana.
 16. **Ramlila** and **Nautanki** are UP folk theatre. **Raslila** is Braj folk play; it is not Manipuri classical dance.
-17. Ministry lock: handloom and handicrafts = **Textiles**; GI Registry = **Commerce / DPIIT**; KVIC / khadi = **MSME**; ZCCs, IGNCA, and many folk festival grants = **Culture**.
+17. Ministry fact: handloom and handicrafts = **Textiles**; GI Registry = **Commerce / DPIIT**; KVIC / khadi = **MSME**; ZCCs, IGNCA, and many folk festival grants = **Culture**.
 18. **North Central Zone Cultural Centre** is at **Prayagraj**.
 19. **Sant Kabir Award** is the highest **handloom** weaver honour. **Shilp Guru** is the highest **handicraft** artisan honour. Do not swap the two.
 20. **Chikankari** is Lucknow white-thread embroidery on muslin. **Zardozi** is metallic-thread court embroidery also strong in Lucknow.
@@ -42,15 +42,15 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 23. **Surajkund** is the February crafts fair of Haryana. **Pushkar Fair** is the Kartik camel fair of Rajasthan. **Pushkar Kumbh 2025** was Mana in Uttarakhand.
 24. Folk tradition is a custom passed socially. Folk belief is the village supernatural worldview. Both sit under folk culture but answer different stems.
 25. These are **not** UP: Pushkar Fair (Rajasthan), Pushkar Kumbh 2025 (Uttarakhand), Surajkund (Haryana), Blue Pottery (Jaipur), Warli (Maharashtra), Madhubani (Bihar).
-26. **Banarasi Brocade** is a Varanasi handloom GI. **Chikankari** is a Lucknow embroidery GI. Both are Culture-facing craft locks of Uttar Pradesh.
+26. **Banarasi Brocade** is a Varanasi handloom GI. **Chikankari** is a Lucknow embroidery GI. Both are Culture-facing craft facts of Uttar Pradesh.
 27. **Phad** is Rajasthan scroll painting. **Pattachitra** is Odisha / sometimes West Bengal cloth or palm-leaf painting. Do not dump every scroll into Madhubani.
 28. Uttar Pradesh leads India’s GI count in recent tallies (about **81** by late **2025**), so craft–city matching stays high-yield for UPPCS.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |---|----|------|-------|
 | Folk art | Classical art | Community, oral, ritual vs codified school (Bharatanatyam, Mughal miniature) | लोक कला / शास्त्रीय कला |
 | Folk tradition | Folk belief | Custom passed socially vs supernatural village worldview | लोक परंपरा / लोक विश्वास |
@@ -82,18 +82,18 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 - **Kalamkari** belongs to **Andhra Pradesh**. The name is pen-work. **Srikalahasti** is freehand temple painting. **Machilipatnam** is block-print trade cloth. The cloth is **cotton**, not Himalayan wool.
 - **Sanjhi** belongs to **Mathura–Vrindavan, UP**. It is stencilled paper-cutting on Yamuna ghats, tied to Krishna and Pitru Paksha. It now has a GI.
 - **Phulkari** belongs to **Punjab**. Flower embroidery sits on an odhani or shawl.
-- **Pithora** belongs to Gujarat Rathwa walls. Horse motifs are the lock.
+- **Pithora** belongs to Gujarat Rathwa walls. Horse motifs are the fact.
 - **Saura** belongs to **Odisha**. The wall icon is *idital*. Do not call it Warli.
 - **Cheriyal** belongs to **Telangana**. It is a narrative scroll.
-- **Kalighat** belongs to **West Bengal**. Bazaar pats from colonial Calcutta are the lock.
+- **Kalighat** belongs to **West Bengal**. Bazaar pats from colonial Calcutta are the fact.
 - **Rogan** belongs to **Kutch, Gujarat**. Castor-oil paint is laid with a stick or stylus.
 - **Aipan** belongs to **Uttarakhand**. White rice-paste geometry covers floors and walls.
 - **Mandana** belongs to Rajasthan (and adjoining MP). White chalk floor-and-wall patterns mark harvest.
-- **Lippan** belongs to Kutch. Mirror-mud relief is the lock.
+- **Lippan** belongs to Kutch. Mirror-mud relief is the fact.
 - **Sujni** embroidery belongs to **Bihar**, not Maharashtra.
 - Nautanki and Raslila are folk **performance**, not wall painting. Visual folk art is still the painting and craft list above.
 
-> **Exam note:** **Madhubani = Bihar**. **Warli = Maharashtra**. **Sanjhi = Mathura UP**. Never swap the three.
+> ** note:Madhubani = Bihar**. **Warli = Maharashtra**. **Sanjhi = Mathura UP**. Never swap the three.
 
 ---
 
@@ -106,7 +106,7 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 - Life-cycle rites use folk art. Madhubani is painted for a wedding. Sanjhi is cut for Pitru Paksha.
 - Oral epics live with bards. **Pandavani** is Chhattisgarh Mahabharata song. **Teejan Bai** is the named singer. Phad bhopas carry Rajasthan’s Pabuji.
 - Folk guru-shishya exists, but it is informal. Family, caste guild and village elder replace a classical academy.
-- Women carry several visual traditions. Madhubani, Phulkari and Sanjhi are the named exam cases.
+- Women carry several visual traditions. Madhubani, Phulkari and Sanjhi are the named cases.
 - **Surajkund International Crafts Mela** is at Faridabad in **Haryana**. It is a **February** government crafts fair. It is not Rajasthan and not Delhi.
 - **Pushkar Fair** is at Pushkar, Ajmer, **Rajasthan**. It is a Kartik camel and livestock fair. It is not a 4-site Kumbh.
 - **Pushkar Kumbh** is a different event. It is at **Keshav Prayag, Mana** (Chamoli) in **Uttarakhand**. It ran in **May 2025**. It is not Rajasthan and not UP.
@@ -114,19 +114,19 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 - **Taj Mahotsav** is a crafts-and-culture show at **Agra, UP**.
 - Village syncretism is common. A fair can mix Hindu and Muslim custom without becoming a classical school.
 
-> **Exam note:** UPPCS **2025 Q97** — May 2025 **Pushkar Kumbh = Uttarakhand only**. Rajasthan owns the **Pushkar camel fair**, not that May Kumbh.
+> ** note:** UPPCS **2025 Q97** — May 2025 **Pushkar Kumbh = Uttarakhand only**. Rajasthan owns the **Pushkar camel fair**, not that May Kumbh.
 
 **PYQ — UPPCS Prelims 2025, Q97**
 
 In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
 
-1. Rajasthan  
-2. Uttar Pradesh  
-3. Uttarakhand  
+1. Rajasthan
+2. Uttar Pradesh
+3. Uttarakhand
 
-A. 1 and 2  
-B. Only 3  
-C. 2 and 3  
+A. 1 and 2
+B. Only 3
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -157,7 +157,7 @@ D. Only 1
 - Tribal cosmology is indigenous. Village Hindu folk belief is syncretic. Do not collapse the two.
 - Warli walls remember **Palaghata**. Gond panels remember forest *bada dev*. Madhubani Kohbar marks fertility.
 
-> **Exam note:** **Nag Panchami = snake**. **Chhath = Surya**. **Gramdevta = village protector**, not a Vedic rishi.
+> ** note:Nag Panchami = snake**. **Chhath = Surya**. **Gramdevta = village protector**, not a Vedic rishi.
 
 ---
 
@@ -169,22 +169,22 @@ D. Only 1
 - Classical culture is court and temple, Sanskrit or Persian, and a written canon.
 - Folk culture is community, oral, and in the local language.
 - Tribal culture is Adivasi identity and forest economy. Gond, Warli and Sarna sit here, not in Bharatanatyam.
-- The North lock is **Braj** Krishna culture plus **Ramlila**.
-- The East lock is **Madhubani** and **Chhath**.
-- The West lock is **Garba** and **Warli**.
-- The South lock is **Kalamkari** and **Theyyam**.
-- The North-East lock is **Bihu** and bamboo craft.
-- The central tribal lock is **Gond** art and **Pandavani**.
+- The North fact is **Braj** Krishna culture plus **Ramlila**.
+- The East fact is **Madhubani** and **Chhath**.
+- The West fact is **Garba** and **Warli**.
+- The South fact is **Kalamkari** and **Theyyam**.
+- The North-East fact is **Bihu** and bamboo craft.
+- The central tribal fact is **Gond** art and **Pandavani**.
 - **Ramlila** is UNESCO ICH **2008**. The living belt is North India with a **UP** centre (Ramnagar–Varanasi, Braj).
 - **Garba of Gujarat** is UNESCO ICH **2023**.
 - **Chhau** (2010) and **Kalbelia** (2010) are folk/tribal performance listings. Bharatanatyam is **not** a named UNESCO ICH element.
-- Kumbh Mela is UNESCO ICH **2017**. Full four-site lock lives with festivals. Folk culture only needs the year.
+- Kumbh Mela is UNESCO ICH **2017**. Full four-site fact lives with festivals. Folk culture only needs the year.
 - **IGNCA Janapada Sampada** documents folk and tribal culture.
 - Seven **Zonal Cultural Centres** tour folk troupes. **North Central ZCC** sits at **Prayagraj**, not Lucknow.
 - UP heartland belts are **Braj** (Mathura–Vrindavan), **Awadh** (Lucknow embroidery and composite culture), and eastern UP’s Chhath–Bhojpuri continuum.
 - UP craft towns are workplaces, not museum labels. Moradabad, Firozabad, Khurja and Bhadohi are the named cluster set.
 
-> **Exam note:** **Ramlila UNESCO 2008 = UP/North**. **Garba UNESCO 2023 = Gujarat**. North Central ZCC = **Prayagraj**.
+> ** note:Ramlila UNESCO 2008 = UP/North**. **Garba UNESCO 2023 = Gujarat**. North Central ZCC = **Prayagraj**.
 
 ---
 
@@ -195,7 +195,7 @@ D. Only 1
 - Handloom is India’s largest cottage industry after agriculture. Work is mostly rural and household-based.
 - The weaver moves the shuttle. A **powerloom** is machine-driven mass weave. Cheap powerloom copies are the livelihood threat.
 - **Khadi** must be **hand-spun and hand-woven**. **KVIC** runs khadi. KVIC sits under **MSME**, not Textiles.
-- Handloom yarn may be mill-spun. That is why khadi is the stricter Swadeshi lock.
+- Handloom yarn may be mill-spun. That is why khadi is the stricter Swadeshi fact.
 - Nodal body for handloom is the **Development Commissioner (Handlooms)** under **Textiles**. Culture does not run the loom schemes.
 - **NHDC** supplies hank yarn. Weaver Service Centres upgrade skill and design.
 - **National Handloom Day** is **7 August**. It marks the **Swadeshi** launch of **7 August 1905**. It is not 15 August and not 2 October.
@@ -203,7 +203,7 @@ D. Only 1
 - **Handloom Mark** (**2006**) certifies that the cloth is **hand-woven**.
 - **India Handloom Brand** (**2015**) is a quality-and-authenticity mark against powerloom fakes.
 - Two live umbrellas are the **National Handloom Development Programme (NHDP)** and the **Raw Material Supply Scheme (RMSS)**.
-- Weaver **MUDRA** / concessional credit is the loan lock. **Hathkargha Samvardhan Sahayata** funds loom upgrades.
+- Weaver **MUDRA** / concessional credit is the loan fact. **Hathkargha Samvardhan Sahayata** funds loom upgrades.
 - **Sant Kabir Award** is the highest honour for a **handloom weaver**. It is not Shilp Guru.
 - **Banarasi Brocade** is the **Varanasi, UP** flagship. Gold-silver zari on silk is the look.
 - **Chanderi** belongs to **Madhya Pradesh**.
@@ -219,18 +219,18 @@ D. Only 1
 - **Uppada Jamdani** belongs to **Andhra Pradesh**, not Karnataka.
 - **Puthukkuli / Poothkuli** shawls are **Toda** embroidery of the Nilgiris, **Tamil Nadu**.
 
-> **Exam note:** **7 August = Handloom Day**. Ministry = **Textiles**. **Khadi ≠ ordinary handloom**.
+> ** note:7 August = Handloom Day**. Ministry = **Textiles**. **Khadi ≠ ordinary handloom**.
 
 **PYQ — UPPCS Prelims 2019, Q44**
 
 Which of the following statements about India's largest Charkha is/are true?
 
-1. It was inaugurated in Noida.  
+1. It was inaugurated in Noida.
 2. It is made of used plastic waste.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -272,18 +272,18 @@ D. Neither 1 nor 2
 - **Channapatna** lacquer toys belong to **Karnataka**.
 - **Pipli** appliqué belongs to **Odisha**.
 - **Molela** terracotta plaques belong to **Rajasthan**. **Bankura** terracotta horses belong to **West Bengal**.
-- Kashmir locks are **papier-mâché** and **Pashmina**.
+- Kashmir facts are **papier-mâché** and **Pashmina**.
 - **Venushilpa** by Chitracharya **Upendra Maharathi** is a book on **bamboo art**, not painting.
 
-> **Exam note:** **Moradabad = brass**. **Firozabad = glass**. **Khurja = pottery**. **Bhadohi = carpet**. **Blue Pottery = Jaipur**.
+> ** note:Moradabad = brass**. **Firozabad = glass**. **Khurja = pottery**. **Bhadohi = carpet**. **Blue Pottery = Jaipur**.
 
 **PYQ — UPPCS Prelims 2019, Q117**
 
 The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
 
-A. Jewellery  
-B. Painting  
-C. Bamboo art  
+A. Jewellery
+B. Painting
+C. Bamboo art
 D. Marble curving
 
 <details>
@@ -339,7 +339,7 @@ D. Marble curving
 - UP leads India’s GI count in recent tallies. Craft and textile GIs are the fastest-growing class. Food and agri GIs are not this topic’s matching list.
 - UP **ODOP** (One District One Product) rides the same craft geography. ODOP is a promotion scheme. It is not the GI Act.
 
-> **Exam note:** **GI ministry = Commerce**. **Registry = Chennai**. **First GI = Darjeeling Tea 2004**. **Banarasi + Chikankari = UP**.
+> ** note:GI ministry = Commerce**. **Registry = Chennai**. **First GI = Darjeeling Tea 2004**. **Banarasi + Chikankari = UP**.
 
 **PYQ — UPSC Prelims 2018**
 
@@ -347,15 +347,15 @@ Consider the following pairs:
 
 Craft — Heritage of
 
-1. Puthukkuli shawls — Tamil Nadu  
-2. Sujni embroidery — Maharashtra  
-3. Uppada Jamdani saris — Karnataka  
+1. Puthukkuli shawls — Tamil Nadu
+2. Sujni embroidery — Maharashtra
+3. Uppada Jamdani saris — Karnataka
 
 Which of the pairs given above is/are correct?
 
-A. 1 only  
-B. 1 and 2  
-C. 3 only  
+A. 1 only
+B. 1 and 2
+C. 3 only
 D. 2 and 3
 
 <details>
@@ -373,13 +373,13 @@ D. 2 and 3
 
 **Q1.** With reference to Indian folk painting, which of the following statements is/are correct?
 
-1. Madhubani is traditionally practised in the Mithila region of Bihar.  
-2. Warli painting is associated with Maharashtra.  
+1. Madhubani is traditionally practised in the Mithila region of Bihar.
+2. Warli painting is associated with Maharashtra.
 3. Madhubani is inscribed on UNESCO’s Representative List of ICH as a named Indian element.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -391,21 +391,21 @@ D. 1, 2 and 3
 
 **Q2.** Match List-I with List-II.
 
-**List-I**  
-A. Phad  
-B. Pattachitra  
-C. Gond  
-D. Sanjhi  
+**List-I**
+A. Phad
+B. Pattachitra
+C. Gond
+D. Sanjhi
 
-**List-II**  
-1. Odisha  
-2. Madhya Pradesh  
-3. Rajasthan  
-4. Mathura, UP  
+**List-II**
+1. Odisha
+2. Madhya Pradesh
+3. Rajasthan
+4. Mathura, UP
 
-A. 3 1 2 4  
-B. 1 3 2 4  
-C. 3 1 4 2  
+A. 3 1 2 4
+B. 1 3 2 4
+C. 3 1 4 2
 D. 2 1 3 4
 
 <details>
@@ -417,13 +417,13 @@ D. 2 1 3 4
 
 **Q3.** Which of the following pairs is/are NOT correctly matched?
 
-1. Kalamkari — Andhra Pradesh  
-2. Phulkari — Punjab  
-3. Rogan craft — Odisha  
+1. Kalamkari — Andhra Pradesh
+2. Phulkari — Punjab
+3. Rogan craft — Odisha
 
-A. 1 only  
-B. 3 only  
-C. 2 and 3 only  
+A. 1 only
+B. 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -433,12 +433,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q4.** Assertion (A): Warli painting uses white figures on a red ochre ground.  
+**Q4.** Assertion (A): Warli painting uses white figures on a red ochre ground.
 Reason (R): Warli is a court miniature school of Rajasthan.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -450,33 +450,33 @@ D. (A) is false, but (R) is true
 
 **Q5.** With reference to Kalamkari, which of the following statements is/are correct?
 
-1. Srikalahasti Kalamkari is freehand pen-work for temples.  
-2. Machilipatnam Kalamkari is mainly block-printed trade cloth.  
+1. Srikalahasti Kalamkari is freehand pen-work for temples.
+2. Machilipatnam Kalamkari is mainly block-printed trade cloth.
 3. Kalamkari is a woollen craft of the Western Himalaya.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** UPSC 2015 lock: hand-painted **cotton** of South India.
+**Ans: A.** UPSC 2015 fact: hand-painted **cotton** of South India.
 
 </details>
 
 **Q6.** Consider the following statements:
 
-1. Surajkund International Crafts Mela is held in Haryana.  
-2. Pushkar Fair is a Kartik camel fair of Rajasthan.  
+1. Surajkund International Crafts Mela is held in Haryana.
+2. Pushkar Fair is a Kartik camel fair of Rajasthan.
 3. Pushkar Kumbh of May 2025 was organised only in Rajasthan.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -488,13 +488,13 @@ D. 1, 2 and 3
 
 **Q7.** In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
 
-1. Rajasthan  
-2. Uttar Pradesh  
-3. Uttarakhand  
+1. Rajasthan
+2. Uttar Pradesh
+3. Uttarakhand
 
-A. 1 and 2  
-B. Only 3  
-C. 2 and 3  
+A. 1 and 2
+B. Only 3
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -506,21 +506,21 @@ D. Only 1
 
 **Q8.** Match List-I with List-II.
 
-**List-I**  
-A. Pandavani  
-B. Phad bhopa  
-C. Teejan Bai  
-D. Nautanki  
+**List-I**
+A. Pandavani
+B. Phad bhopa
+C. Teejan Bai
+D. Nautanki
 
-**List-II**  
-1. Rajasthan scroll singer  
-2. UP folk theatre  
-3. Chhattisgarh oral epic  
-4. Named Pandavani artist  
+**List-II**
+1. Rajasthan scroll singer
+2. UP folk theatre
+3. Chhattisgarh oral epic
+4. Named Pandavani artist
 
-A. 3 1 4 2  
-B. 3 2 4 1  
-C. 1 3 4 2  
+A. 3 1 4 2
+B. 3 2 4 1
+C. 1 3 4 2
 D. 3 1 2 4
 
 <details>
@@ -532,13 +532,13 @@ D. 3 1 2 4
 
 **Q9.** With reference to folk beliefs in India, which of the following statements is/are correct?
 
-1. A Gramdevta is a village protector deity.  
-2. Nag Panchami is primarily a festival of sun worship.  
+1. A Gramdevta is a village protector deity.
+2. Nag Panchami is primarily a festival of sun worship.
 3. Ojha/Gunia practice is identical to classical Ayurveda.
 
-A. 1 only  
-B. 1 and 2 only  
-C. 2 and 3 only  
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -550,13 +550,13 @@ D. 1, 2 and 3
 
 **Q10.** Which of the following pairs is/are correctly matched?
 
-1. Chhath — Surya, UP–Bihar  
-2. Sarna — Jharkhand sacred-grove faith  
-3. Donyi-Polo — Manipur indigenous deity  
+1. Chhath — Surya, UP–Bihar
+2. Sarna — Jharkhand sacred-grove faith
+3. Donyi-Polo — Manipur indigenous deity
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -566,12 +566,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q11.** Assertion (A): Indian culture is often described as having classical, folk and tribal layers.  
+**Q11.** Assertion (A): Indian culture is often described as having classical, folk and tribal layers.
 Reason (R): Bharatanatyam, Madhubani and Gond occupy the same classical akademi syllabus.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -583,13 +583,13 @@ D. (A) is false, but (R) is true
 
 **Q12.** How many of the following are named UNESCO ICH elements from India?
 
-1. Ramlila  
-2. Garba of Gujarat  
-3. Bharatanatyam as a separately named element  
+1. Ramlila
+2. Garba of Gujarat
+3. Bharatanatyam as a separately named element
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -601,15 +601,15 @@ D. None
 
 **Q13.** Consider the following statements about institutions that touch folk culture:
 
-1. IGNCA’s Janapada Sampada division documents folk and tribal culture.  
-2. North Central Zonal Cultural Centre is headquartered at Lucknow.  
+1. IGNCA’s Janapada Sampada division documents folk and tribal culture.
+2. North Central Zonal Cultural Centre is headquartered at Lucknow.
 3. Zonal Cultural Centres function under the Ministry of Culture.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -621,13 +621,13 @@ D. 1, 2 and 3
 
 **Q14.** With reference to the handloom sector, which of the following statements is/are correct?
 
-1. The nodal ministry is the Ministry of Textiles.  
-2. National Handloom Day is celebrated on 15 August.  
+1. The nodal ministry is the Ministry of Textiles.
+2. National Handloom Day is celebrated on 15 August.
 3. India Handloom Brand was launched in 2015.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -639,21 +639,21 @@ D. 1, 2 and 3
 
 **Q15.** Match List-I with List-II.
 
-**List-I**  
-A. Banarasi Brocade  
-B. Pochampally Ikat  
-C. Paithani  
-D. Kanchipuram Silk  
+**List-I**
+A. Banarasi Brocade
+B. Pochampally Ikat
+C. Paithani
+D. Kanchipuram Silk
 
-**List-II**  
-1. Maharashtra  
-2. Uttar Pradesh  
-3. Tamil Nadu  
-4. Telangana  
+**List-II**
+1. Maharashtra
+2. Uttar Pradesh
+3. Tamil Nadu
+4. Telangana
 
-A. 2 4 1 3  
-B. 2 1 4 3  
-C. 4 2 1 3  
+A. 2 4 1 3
+B. 2 1 4 3
+C. 4 2 1 3
 D. 2 4 3 1
 
 <details>
@@ -665,13 +665,13 @@ D. 2 4 3 1
 
 **Q16.** Which of the following pairs is/are NOT correctly matched?
 
-1. Khadi — hand-spun and hand-woven under KVIC  
-2. KVIC — Ministry of Textiles  
-3. Powerloom — machine-powered mass weaving  
+1. Khadi — hand-spun and hand-woven under KVIC
+2. KVIC — Ministry of Textiles
+3. Powerloom — machine-powered mass weaving
 
-A. 1 only  
-B. 2 only  
-C. 1 and 2 only  
+A. 1 only
+B. 2 only
+C. 1 and 2 only
 D. 2 and 3 only
 
 <details>
@@ -683,14 +683,14 @@ D. 2 and 3 only
 
 **Q17.** Arrange the following in chronological order of first occurrence / enactment:
 
-1. Geographical Indications Act  
-2. Handloom Mark  
-3. First National Handloom Day  
-4. Darjeeling Tea GI registration  
+1. Geographical Indications Act
+2. Handloom Mark
+3. First National Handloom Day
+4. Darjeeling Tea GI registration
 
-A. 1–4–2–3  
-B. 1–2–4–3  
-C. 4–1–2–3  
+A. 1–4–2–3
+B. 1–2–4–3
+C. 4–1–2–3
 D. 1–4–3–2
 
 <details>
@@ -702,15 +702,15 @@ D. 1–4–3–2
 
 **Q18.** Consider the following statements:
 
-1. Handloom Mark certifies that a product is hand-woven.  
-2. Khadi must be hand-spun as well as hand-woven.  
+1. Handloom Mark certifies that a product is hand-woven.
+2. Khadi must be hand-spun as well as hand-woven.
 3. Every handloom product is automatically khadi.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -722,21 +722,21 @@ D. 1, 2 and 3
 
 **Q19.** Match List-I with List-II.
 
-**List-I**  
-A. Moradabad  
-B. Firozabad  
-C. Khurja  
-D. Bhadohi  
+**List-I**
+A. Moradabad
+B. Firozabad
+C. Khurja
+D. Bhadohi
 
-**List-II**  
-1. Glass  
-2. Carpet  
-3. Brass / metal  
-4. Pottery  
+**List-II**
+1. Glass
+2. Carpet
+3. Brass / metal
+4. Pottery
 
-A. 3 1 4 2  
-B. 1 3 4 2  
-C. 3 1 2 4  
+A. 3 1 4 2
+B. 1 3 4 2
+C. 3 1 2 4
 D. 3 4 1 2
 
 <details>
@@ -748,13 +748,13 @@ D. 3 4 1 2
 
 **Q20.** With reference to handicraft administration, which of the following statements is/are correct?
 
-1. The Development Commissioner (Handicrafts) functions under the Ministry of Textiles.  
-2. PEHCHAN cards for handicraft artisans were launched in 2016.  
+1. The Development Commissioner (Handicrafts) functions under the Ministry of Textiles.
+2. PEHCHAN cards for handicraft artisans were launched in 2016.
 3. Shilp Guru is the highest national honour for handloom weavers.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -766,13 +766,13 @@ D. 1, 2 and 3
 
 **Q21.** Which of the following pairs is/are NOT correctly matched?
 
-1. Chikankari — Lucknow  
-2. Blue Pottery — Lucknow  
-3. Bidriware — Bidar  
+1. Chikankari — Lucknow
+2. Blue Pottery — Lucknow
+3. Bidriware — Bidar
 
-A. 1 only  
-B. 2 only  
-C. 2 and 3 only  
+A. 1 only
+B. 2 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -782,12 +782,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q22.** Assertion (A): Dhokra is a tribal lost-wax metal craft.  
+**Q22.** Assertion (A): Dhokra is a tribal lost-wax metal craft.
 Reason (R): Dhokra icons are Chola temple utsava murtis of Tamil Nadu.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -799,27 +799,27 @@ D. (A) is false, but (R) is true
 
 **Q23.** The book *Venushilpa* by Chitracharya Upendra Maharathi relates to which of the following form of arts?
 
-A. Jewellery  
-B. Painting  
-C. Bamboo art  
+A. Jewellery
+B. Painting
+C. Bamboo art
 D. Marble curving
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Same lock as UPPCS 2019 Q117.
+**Ans: C.** Same fact as UPPCS 2019 Q117.
 
 </details>
 
 **Q24.** With reference to GI tags in India, which of the following statements is/are correct?
 
-1. The GI Act was enacted in 1999.  
-2. The GI Registry is located in New Delhi.  
+1. The GI Act was enacted in 1999.
+2. The GI Registry is located in New Delhi.
 3. The nodal ministry is Commerce and Industry (DPIIT).
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -833,15 +833,15 @@ D. 1, 2 and 3
 
 Craft — Heritage of
 
-1. Puthukkuli shawls — Tamil Nadu  
-2. Sujni embroidery — Maharashtra  
-3. Uppada Jamdani saris — Karnataka  
+1. Puthukkuli shawls — Tamil Nadu
+2. Sujni embroidery — Maharashtra
+3. Uppada Jamdani saris — Karnataka
 
 Which of the pairs given above is/are correct?
 
-A. 1 only  
-B. 1 and 2  
-C. 3 only  
+A. 1 only
+B. 1 and 2
+C. 3 only
 D. 2 and 3
 
 <details>
@@ -853,14 +853,14 @@ D. 2 and 3
 
 **Q26.** How many of the following are GI-tagged crafts of Uttar Pradesh?
 
-1. Banarasi Brocade  
-2. Lucknow Chikankari  
-3. Blue Pottery of Jaipur  
-4. Moradabad Metal Craft  
+1. Banarasi Brocade
+2. Lucknow Chikankari
+3. Blue Pottery of Jaipur
+4. Moradabad Metal Craft
 
-A. Only one  
-B. Only two  
-C. Only three  
+A. Only one
+B. Only two
+C. Only three
 D. All four
 
 <details>
@@ -872,24 +872,24 @@ D. All four
 
 **Q27.** Which one of the following was the first product to receive a GI tag in India?
 
-A. Banarasi Saree  
-B. Darjeeling Tea  
-C. Basmati Rice  
+A. Banarasi Saree
+B. Darjeeling Tea
+C. Basmati Rice
 D. Tirupati Laddu
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **2004**. Tea, not a craft — standard distractor.
+**Ans: B.2004**. Tea, not a craft — standard distractor.
 
 </details>
 
-**Q28.** Assertion (A): A GI tag protects a product name linked to geographical origin and traditional quality.  
+**Q28.** Assertion (A): A GI tag protects a product name linked to geographical origin and traditional quality.
 Reason (R): A GI tag is legally the same as a company’s trademark.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -901,35 +901,35 @@ D. (A) is false, but (R) is true
 
 **Q29.** India enacted the Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to
 
-A. ILO  
-B. IMF  
-C. UNCTAD  
+A. ILO
+B. IMF
+C. UNCTAD
 D. WTO
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** TRIPS under **WTO**. UPSC 2015 lock.
+**Ans: D.** TRIPS under **WTO**. UPSC 2015 fact.
 
 </details>
 
 **Q30.** Match List-I with List-II.
 
-**List-I**  
-A. Kannauj  
-B. Saharanpur  
-C. Pilkhuwa  
-D. Azamgarh  
+**List-I**
+A. Kannauj
+B. Saharanpur
+C. Pilkhuwa
+D. Azamgarh
 
-**List-II**  
-1. Wood carving  
-2. Attar  
-3. Nizamabad black pottery  
-4. Hand-block print  
+**List-II**
+1. Wood carving
+2. Attar
+3. Nizamabad black pottery
+4. Hand-block print
 
-A. 2 1 4 3  
-B. 2 4 1 3  
-C. 1 2 4 3  
+A. 2 1 4 3
+B. 2 4 1 3
+C. 1 2 4 3
 D. 2 1 3 4
 
 <details>
@@ -941,13 +941,13 @@ D. 2 1 3 4
 
 **Q31.** With reference to Saura and Warli, which of the following statements is/are correct?
 
-1. Saura *idital* painting belongs to Odisha.  
-2. Warli belongs to Maharashtra.  
+1. Saura *idital* painting belongs to Odisha.
+2. Warli belongs to Maharashtra.
 3. Both are Mughal miniature schools.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -959,13 +959,13 @@ D. 1, 2 and 3
 
 **Q32.** Which of the following statements is/are correct?
 
-1. Chikankari is white-thread embroidery of Lucknow.  
-2. Zardozi uses metallic thread.  
+1. Chikankari is white-thread embroidery of Lucknow.
+2. Zardozi uses metallic thread.
 3. Banarasi Brocade is primarily a Lucknow weave.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -977,15 +977,15 @@ D. 1, 2 and 3
 
 **Q33.** Consider the following:
 
-1. PEHCHAN card — handicraft artisans, 2016  
-2. e-Pehchan — handloom workers’ digital ID, 2025  
-3. Both schemes are run by the Ministry of Culture  
+1. PEHCHAN card — handicraft artisans, 2016
+2. e-Pehchan — handloom workers’ digital ID, 2025
+3. Both schemes are run by the Ministry of Culture
 
 How many of the above statements are correct?
 
-A. Only one  
-B. Only two  
-C. All three  
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details>
@@ -997,13 +997,13 @@ D. None
 
 **Q34.** Which of the following pairs is/are correctly matched?
 
-1. Pithora — Gujarat Rathwa  
-2. Cheriyal scroll — Telangana  
-3. Kalighat pats — West Bengal  
+1. Pithora — Gujarat Rathwa
+2. Cheriyal scroll — Telangana
+3. Kalighat pats — West Bengal
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1015,13 +1015,13 @@ D. 1, 2 and 3
 
 **Q35.** With reference to UP folk culture, which of the following statements is/are correct?
 
-1. Sanjhi is a paper-cutting tradition of Mathura–Vrindavan.  
-2. North Central Zonal Cultural Centre is at Prayagraj.  
+1. Sanjhi is a paper-cutting tradition of Mathura–Vrindavan.
+2. North Central Zonal Cultural Centre is at Prayagraj.
 3. Pushkar Fair is an eastern-UP cattle fair at Bhadohi.
 
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -1039,15 +1039,15 @@ D. 1, 2 and 3
 
 In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
 
-1. Rajasthan  
-2. Uttar Pradesh  
-3. Uttarakhand  
+1. Rajasthan
+2. Uttar Pradesh
+3. Uttarakhand
 
 Select the correct answer from the code given below:
 
-A. 1 and 2  
-B. Only 3  
-C. 2 and 3  
+A. 1 and 2
+B. Only 3
+C. 2 and 3
 D. Only 1
 
 <details>
@@ -1061,9 +1061,9 @@ D. Only 1
 
 The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
 
-A. Jewellery  
-B. Painting  
-C. Bamboo art  
+A. Jewellery
+B. Painting
+C. Bamboo art
 D. Marble curving
 
 <details>
@@ -1077,14 +1077,14 @@ D. Marble curving
 
 Which of the following statements about India's largest Charkha is/are true?
 
-1. It was inaugurated in Noida.  
+1. It was inaugurated in Noida.
 2. It is made of used plastic waste.
 
 Select the correct answer from the codes given below:
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
@@ -1100,15 +1100,15 @@ Consider the following pairs:
 
 Craft — Heritage of
 
-1. Puthukkuli shawls — Tamil Nadu  
-2. Sujni embroidery — Maharashtra  
-3. Uppada Jamdani saris — Karnataka  
+1. Puthukkuli shawls — Tamil Nadu
+2. Sujni embroidery — Maharashtra
+3. Uppada Jamdani saris — Karnataka
 
 Which of the pairs given above is/are correct?
 
-A. 1 only  
-B. 1 and 2  
-C. 3 only  
+A. 1 only
+B. 1 and 2
+C. 3 only
 D. 2 and 3
 
 <details>
@@ -1122,9 +1122,9 @@ D. 2 and 3
 
 Kalamkari painting refers to
 
-A. a hand-painted cotton textile in South India  
-B. a handmade drawing on bamboo handicrafts in North-East India  
-C. a block-painted woollen cloth in Western Himalayan region of India  
+A. a hand-painted cotton textile in South India
+B. a handmade drawing on bamboo handicrafts in North-East India
+C. a block-painted woollen cloth in Western Himalayan region of India
 D. a hand-painted decorative silk cloth in North-Western India
 
 <details>
@@ -1138,9 +1138,9 @@ D. a hand-painted decorative silk cloth in North-Western India
 
 India enacted The Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to
 
-A. ILO  
-B. IMF  
-C. UNCTAD  
+A. ILO
+B. IMF
+C. UNCTAD
 D. WTO
 
 <details>

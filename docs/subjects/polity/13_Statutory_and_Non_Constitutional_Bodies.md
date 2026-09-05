@@ -10,14 +10,14 @@
 
 </details>
 
-> **Sources baked in:** Laxmikanth (statutory + extra-constitutional bodies), Lokpal Act 2013, CVC Act 2003, RTI 2005, PHRA 1993, NGT 2010, DM Act 2005, DSPE 1946, NIA Act 2008, PMLA 2002, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ — Lokpal **no RS Chairman** (2024); CVC **no article** (2020); NITI **extra-constitutional** + first VC **Panagariya** (2018); SDG nodal **NITI** (2019); RBI notes; CAT 323A; BHARATPOL = **CBI** (2025)  
-> **Last verified:** August 2026  
+> **Sources baked in:** Laxmikanth (statutory + extra-constitutional bodies), Lokpal Act 2013, CVC Act 2003, RTI 2005, PHRA 1993, NGT 2010, DM Act 2005, DSPE 1946, NIA Act 2008, PMLA 2002, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ — Lokpal **no RS Chairman** (2024); CVC **no article** (2020); NITI **extra-constitutional** + first VC **Panagariya** (2018); SDG nodal **NITI** (2019); RBI notes; CAT 323A; BHARATPOL = **CBI** (2025)
+> **Last verified:** August 2026
 > **Current Affairs:** First Lokpal **P.C. Ghose (2019)**; RTI/NHRC Amd **2019**; NITI **1 Jan 2015**; NIA Amd **2019**; BHARATPOL **CBI** (2025)
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. A **statutory body** is created by an **Act of Parliament or a State legislature**. It is not created by the Constitution (CAT is the special case that rides on **Article 323A**).
 2. The **Lokpal and Lokayuktas Act, 2013** creates a Chairperson and up to **eight** members, with **half** judicial and **half** from SC/ST/OBC/minorities/women. Term is **five years or age 70**. Removal is like a Supreme Court judge.
@@ -26,7 +26,7 @@
 5. The **Central Vigilance Commission** began from the Santhanam idea (**1962**), became executive in **1964**, and gained statutory status under the **CVC Act, 2003** after *Vineet Narain*. It has **no constitutional article**. Composition is Chairperson plus **two** Vigilance Commissioners.
 6. CVC members are selected by the **Prime Minister, Home Minister, and Leader of Opposition**, for **four years or age 65**. The CVC has superintendence over the CBI in Prevention of Corruption cases, but the CVC itself is **not** a police force. The CBI Director panel is **PM + LoP (LS) + CJI**, not the CVC.
 7. The **RTI Act, 2005** (in force **12 October 2005**) creates the CIC and SICs. Normal reply time is **30 days** (**48 hours** where life or liberty is at stake). PIO penalty can go up to **₹25,000**. The 2019 amendment lets the Centre prescribe term and salary.
-8. CIC selection involves the **Prime Minister, Leader of Opposition, and a Union Cabinet Minister**. The RTI movement’s grassroots lock is often traced to **MKSS**. Section **8** lists exemptions; section **4** demands suo motu disclosure.
+8. CIC selection involves the **Prime Minister, Leader of Opposition, and a Union Cabinet Minister**. The RTI movement’s grassroots fact is often traced to **MKSS**. Section **8** lists exemptions; section **4** demands suo motu disclosure.
 9. The **NHRC** is under the **Protection of Human Rights Act, 1993**. It is **statutory**, not Article **338**. Its recommendations are recommendatory. Complaints are ordinarily within **one year**. After 2019, the Chair may be a retired **CJI or Supreme Court judge**; term is **three years or age 70**.
 10. An **SHRC** Chair is typically a retired High Court Chief Justice; after 2019 a retired High Court judge may also qualify. Do not treat NHRC/SHRC as constitutional commissions under 338–338B.
 11. The **National Green Tribunal (2010)** covers scheduled environment Acts; the **Wildlife Protection Act** is **not** on that schedule. The Chair is an SC or HC judge; the Principal Bench is in **Delhi**; appeal lies to the Supreme Court; disposal aim is about **six months**.
@@ -49,9 +49,9 @@
 28. The **National Security Council (1998)** is chaired by the **Prime Minister**. The first National Security Adviser was **Brajesh Mishra**. Related structures include SPG, NSAB, and NSCS.
 
 ---
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| A | B | Lock | Hindi |
+| A | B | Correct | Hindi |
 |--------|--------|-----------------|-------|
 | **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
 | **CVC** | **CBI** | Statutory watchdog; **no** police power of its own | Investigating agency (DPSE); CVC **supervises** PCA cases |
@@ -93,26 +93,24 @@ Bodies **created by Act** or by **executive resolution**. None of them (except C
 - The Lokpal does **not** cover the **judiciary as such** — judges are dealt with through the in-house mechanism or impeachment.
 - The Lokpal also does **not** cover an **MP's speech or vote** inside the House.
 
-### Selection Committee (2024 lock)
+### Selection Committee (2024 fact)
 
 **President** appoints on the recommendation of:
 
-1. **Prime Minister** — chair  
-2. **Speaker, Lok Sabha**  
-3. **Leader of Opposition, Lok Sabha** (or leader of the largest opposition party)  
-4. **CJI or an SC judge** nominated by the CJI  
-5. An **eminent jurist** nominated by the President on the recommendation of the above four  
+1. **Prime Minister** — chair
+2. **Speaker, Lok Sabha**
+3. **Leader of Opposition, Lok Sabha** (or leader of the largest opposition party)
+4. **CJI or an SC judge** nominated by the CJI
+5. An **eminent jurist** nominated by the President on the recommendation of the above four
 
-**Chairman of the Rajya Sabha is not on the panel.**
-
-**PYQ — UPPCS Prelims 2024, Q130**
+**Chairman of the Rajya Sabha is not on the panel.PYQ — UPPCS Prelims 2024, Q130**
 
 According to the Lokpal and Lokayuktas Act, 2013, the Lokpal would be appointed by the President after obtaining the recommendations of a Selection Committee, with the Prime Minister as chairperson and consisting, among others, of the following:
 
-1. Chief Justice of India or a Supreme Court Judge nominated by him  
-2. Chairman of the Rajya Sabha  
-3. Speaker of the Lok Sabha  
-4. Leader of Opposition in the Lok Sabha  
+1. Chief Justice of India or a Supreme Court Judge nominated by him
+2. Chairman of the Rajya Sabha
+3. Speaker of the Lok Sabha
+4. Leader of Opposition in the Lok Sabha
 
 A. 1, 2 and 3
 B. 2, 3 and 4
@@ -130,7 +128,7 @@ A **Search Committee** — a separate panel of eminent persons set up under the 
 
 The **Chairperson or a member of the Lokpal is removed** in the same way as a **Supreme Court judge** — on a charge of misbehaviour, after an inquiry by the Supreme Court.
 
-The **Anna Hazare / India Against Corruption movement (2011)** is the street-politics origin of the Lokpal idea, but the **2013 Act** is the exam statute. The **Jan Lokpal Bill** that activists demanded is **not the same** as the Act finally passed — the Act is weaker on the Prime Minister and the judiciary.
+The **Anna Hazare / India Against Corruption movement (2011)** is the street-politics origin of the Lokpal idea, but the **2013 Act** is the statute. The **Jan Lokpal Bill** that activists demanded is **not the same** as the Act finally passed — the Act is weaker on the Prime Minister and the judiciary.
 
 ### Lokpal Rules (own syllabus bullet)
 
@@ -143,7 +141,7 @@ The **Anna Hazare / India Against Corruption movement (2011)** is the street-pol
 - A complainant must give his **identity and particulars** — **anonymous complaints are not** the default route.
 - The **competent authority** to act against a member is the **Chairperson**; against the Chairperson, it is the **President** — as the Act allots.
 
-> **Exam note:** “Lokpal Rules” in the syllabus = **how you complain and the clocks**, not a second statute. Selection Committee remains the **2013 Act** (2024).
+> ** note:** “Lokpal Rules” in the syllabus = **how you complain and the clocks**, not a second statute. Selection Committee remains the **2013 Act** (2024).
 
 ---
 
@@ -185,7 +183,7 @@ The **Anna Hazare / India Against Corruption movement (2011)** is the street-pol
 
 The **CBI Director** is **not** appointed by the CVC. That appointment panel — under the DSPE Act, after the Vineet Narain and Lokpal-era reforms — is the **Prime Minister, the Leader of Opposition in the Lok Sabha, and the CJI**. The CVC only **supervises** the CBI on PCA work; it does **not** appoint the Director.
 
-> **Exam note:** CVC ≠ CBI ≠ Lokpal. Lokpal can *direct* CBI; CVC *supervises* CBI on PCA; CBI *investigates*.
+> ** note:** CVC ≠ CBI ≠ Lokpal. Lokpal can *direct* CBI; CVC *supervises* CBI on PCA; CBI *investigates*.
 
 **PYQ — UPPCS Prelims 2020, Q104**
 
@@ -207,7 +205,7 @@ D. None of the above
 
 ## CIC & SIC (RTI Act, 2005)
 
-Act **15 June 2005**; in force **12 Oct 2005**. Movement lock: **MKSS** (Rajasthan) → RTI (2019).
+Act **15 June 2005**; in force **12 Oct 2005**. Movement fact: **MKSS** (Rajasthan) → RTI (2019).
 
 | | **CIC** | **SIC** |
 |--|---------|---------|
@@ -230,7 +228,7 @@ The **UP Information Commission** is appointed by the **Governor**, on the recom
 - A **public-interest override** can still require disclosure even within an exempted category.
 - The **Official Secrets Act** does **not automatically defeat** an RTI request if disclosure is otherwise due.
 
-> **Exam note:** CIC is **not** a constitutional body and **not** NHRC. 2019 amendment is the current-affairs knife.
+> ** note:** CIC is **not** a constitutional body and **not** NHRC. 2019 amendment is the current-affairs knife.
 
 **PYQ — UPPCS Prelims 2019, Q100**
 
@@ -278,7 +276,7 @@ D. National Health Mission
 - The NGT's Chair is a sitting or retired **Supreme Court judge** or a **High Court Chief Justice**.
 - The **Principal Bench** sits at **New Delhi**, with other benches at **Pune, Bhopal, Chennai, and Kolkata**.
 - The NGT's Schedule of Acts includes the **Water Act (1974)**, the **Air Act (1981)**, the **Environment (Protection) Act (1986)**, the **Forest (Conservation) Act (1980)**, the **Biological Diversity Act (2002)**, and the **Public Liability Insurance Act (1991)**, among others.
-- The **Wildlife (Protection) Act, 1972** and the **Indian Forest Act, 1927** are **not** in the NGT's Schedule — classic exam traps.
+- The **Wildlife (Protection) Act, 1972** and the **Indian Forest Act, 1927** are **not** in the NGT's Schedule — classic traps.
 - The NGT endeavours to **dispose of a case within 6 months**.
 - An appeal from the NGT lies to the **Supreme Court**.
 - The NGT's strength includes the Chair, **judicial members**, and **expert members** such as scientists and engineers — it is **not** a purely lawyers' court.
@@ -287,7 +285,7 @@ D. National Health Mission
 - Once the NGT has taken up a **scheduled environmental dispute**, a **civil court shall not** hear that dispute.
 - The NGT is **not** the same as the **CAT** — the CAT handles service matters under **Art. 323A**, while the NGT rests on the **2010 Act**.
 
-In *L. Chandra Kumar* (1997), the Supreme Court held that tribunals like the **NGT and CAT supplement**, rather than substitute, the High Courts — Arts. **226 and 227 survive**. The NGT's core lock is: the body itself, the Schedule of Acts it covers, and its three guiding principles (sustainable development, polluter pays, precautionary).
+In *L. Chandra Kumar* (1997), the Supreme Court held that tribunals like the **NGT and CAT supplement**, rather than substitute, the High Courts — Arts. **226 and 227 survive**. The NGT's core fact is: the body itself, the Schedule of Acts it covers, and its three guiding principles (sustainable development, polluter pays, precautionary).
 
 ---
 
@@ -441,13 +439,13 @@ To sum up: the **CAT is a 1985 statutory body**, **enabled by Art. 323A**. **Arm
 
 ## Three-box map (this topic’s job)
 
-| Kind | Created by | Locks |
+| Kind | Created by | Facts |
 |------|------------|--------|
 | **Constitutional** | Constitution | ECI, UPSC, FC, CAG, NCSC/ST/BC, GST Council, AG… |
 | **Statutory** | **Act of Parliament / State** | Lokpal, CVC, CIC, NHRC, NGT, CAT, RBI… (above) |
 | **Executive / extra-constitutional** | **Resolution / order** | **NITI, NDC, CBI, IB, RAW, ED, NSC**. **NIA** is the odd one: **statutory** terror agency parked here because the syllabus lists it with the police/intel set |
 
-> **Exam note:** “Extra-constitutional agency” (2018) = **NITI**, not UPSC/FC/ECI. CBI is **not** a 2003-style statutory commission even though DSPE 1946 gives it teeth.
+> ** note:** “Extra-constitutional agency” (2018) = **NITI**, not UPSC/FC/ECI. CBI is **not** a 2003-style statutory commission even though DSPE 1946 gives it teeth.
 
 ---
 
@@ -477,9 +475,9 @@ The **NITI Aayog** was set up by a **Cabinet Resolution** — **not** by an Act,
 
 The NITI Aayog functions as a **think-tank** — promoting cooperative and competitive federalism, bottom-up planning, a national agenda, performance indices, and hand-holding of States. Its early documents were the **15-year Vision, 7-year Strategy, and 3-year Action Agenda**. The **DMEO (Development Monitoring and Evaluation Office)** became an attached office **under NITI** in **2020**, as did the **Atal Innovation Mission (AIM)** and its **Atal Tinkering Labs**.
 
-The NITI Aayog is **not** the **Finance Commission** — the FC rests on **Art. 280** and its report goes to the **President** (2023 lock). The NITI Aayog does **not allocate Plan funds** — that was the Planning Commission's job; today, expenditure runs through the **Budget and the Finance Ministry**. It does **not recommend MSP** — that is the **CACP's** job. And being chaired by the PM does **not** make it a **constitutional** body.
+The NITI Aayog is **not** the **Finance Commission** — the FC rests on **Art. 280** and its report goes to the **President** (2023 fact). The NITI Aayog does **not allocate Plan funds** — that was the Planning Commission's job; today, expenditure runs through the **Budget and the Finance Ministry**. It does **not recommend MSP** — that is the **CACP's** job. And being chaired by the PM does **not** make it a **constitutional** body.
 
-The **NITI Aayog is India's SDG nodal institution**, a lock tested in **2019**. **MoSPI** maintains the indicator framework, while **NITI** publishes the **SDG India Index**.
+The **NITI Aayog is India's SDG nodal institution**, a fact tested in **2019**. **MoSPI** maintains the indicator framework, while **NITI** publishes the **SDG India Index**.
 
 Under the **Aspirational Districts Programme (2018)**, **NITI Aayog** is the anchoring institution. **Uttar Pradesh's count stood at 8 districts up to June 2021**. The original eight were **Bahraich, Balrampur, Chandauli, Chitrakoot, Fatehpur, Shrawasti, Siddharthnagar, and Sonbhadra**.
 
@@ -556,7 +554,7 @@ D. Finance Commission
 - The CBI's lineage runs from the **Special Police Establishment (1941)**, set up to fight war-time corruption, through the **DSPE Act, 1946**, to the **CBI itself in 1963** — on the **Santhanam Committee's** recommendation, in the **Shastri** era.
 - As a body, the CBI is **non-constitutional and non-statutory** — its power to investigate rests on the **DSPE Act, 1946**, and it is **not** created by an Act like the **CVC Act, 2003**.
 - The CBI is administered by the **DoPT (Ministry of Personnel)** — **not** the MHA, which administers the **IB**.
-- The CBI's headquarters is in **New Delhi**, and its training academy, the **CBI Academy**, is at **Ghaziabad** — a UP lock.
+- The CBI's headquarters is in **New Delhi**, and its training academy, the **CBI Academy**, is at **Ghaziabad** — a UP fact.
 - The CBI's superintendence for **PCA cases** lies with the **CVC**; for other work, it lies with the **Central government**.
 - The CBI **Director** is appointed on the recommendation of a panel of the **PM, the LoP in the Lok Sabha, and the CJI**, with minimum-tenure protections that trace to *Vineet Narain* and later statutes.
 - Under **s.6 of the DSPE Act**, the CBI needs the **State's consent** to investigate within that State, unless the **Supreme Court or a High Court** orders otherwise, or the Centre uses a notified route for which consent was already given.
@@ -568,10 +566,10 @@ D. Finance Commission
 
 'BHARATPOL', an online portal for International Police Co-operation has been developed by which of the following?
 
-1. Central Bureau of Investigation  
-2. Research and Analysis Wing  
-3. Intelligence Bureau  
-4. Enforcement Directorate  
+1. Central Bureau of Investigation
+2. Research and Analysis Wing
+3. Intelligence Bureau
+4. Enforcement Directorate
 
 A. 2 and 3
 B. 3 and 4
@@ -647,7 +645,7 @@ D. Only 1
 
 ## Agency match card
 
-Quick chronology and identity lock for the police/intelligence/think-tank agencies:
+Quick chronology and identity fact for the police/intelligence/think-tank agencies:
 
 | Agency | Founded | Beat / role | Ministry / reporting line |
 |---|---|---|---|
@@ -684,7 +682,7 @@ The chronology to remember is: **IB (1887) → ED (1956) → CBI (1963) → RAW 
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Lokpal panel includes RS Chairman | **No** — PM, LS Speaker, LoP LS, CJI/nominee, jurist |
 | CVC is in the Constitution | **No article** (2020) |
@@ -729,10 +727,10 @@ The chronology to remember is: **IB (1887) → ED (1956) → CBI (1963) → RAW 
 > **Answers hidden.** Full stems (not cryptic stubs). **100 questions.** ≥60% multi-statement. Statutory + executive in one drill.
 
 **Q1.** According to the Lokpal and Lokayuktas Act, 2013, which of the following are on the Selection Committee?
-1. CJI or an SC judge nominated by him  
-2. Chairman of the Rajya Sabha  
-3. Speaker of the Lok Sabha  
-4. Leader of Opposition in the Lok Sabha  
+1. CJI or an SC judge nominated by him
+2. Chairman of the Rajya Sabha
+3. Speaker of the Lok Sabha
+4. Leader of Opposition in the Lok Sabha
 A. 1, 2 and 3
 B. 2, 3 and 4
 C. 1, 2, 3 and 4
@@ -746,8 +744,8 @@ D. 1, 3 and 4
 </details>
 
 **Q2.** With reference to the Lokpal, which of the following statements is/are correct?
-1. At least fifty per cent of members shall be judicial members.  
-2. At least fifty per cent of members shall be from SC/ST/OBC/minorities or women.  
+1. At least fifty per cent of members shall be judicial members.
+2. At least fifty per cent of members shall be from SC/ST/OBC/minorities or women.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -787,14 +785,12 @@ D. None of the above
 
 </details>
 
-**Q5.**
+**Q5.Assertion (A):** The CVC is not a police investigating agency.
 
-**Assertion (A):** The CVC is not a police investigating agency.
-
-**Reason (R):** It exercises superintendence over the CBI in cases under the Prevention of Corruption Act.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** It exercises superintendence over the CBI in cases under the Prevention of Corruption Act.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -853,8 +849,8 @@ D. GST
 </details>
 
 **Q8.** With reference to the CIC, which of the following statements is/are correct?
-1. The Selection Committee includes the Prime Minister, the LoP in the Lok Sabha and a Union Cabinet Minister.  
-2. The RTI Amendment Act, 2019 restored CIC salaries to the level of the CEC.  
+1. The Selection Committee includes the Prime Minister, the LoP in the Lok Sabha and a Union Cabinet Minister.
+2. The RTI Amendment Act, 2019 restored CIC salaries to the level of the CEC.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -882,9 +878,9 @@ D. 15 days
 </details>
 
 **Q10.** Which of the following is **not** correctly matched?
-A. NHRC — statutory, 1993  
-B. NCSC — constitutional, 338  
-C. NHRC — Article 338  
+A. NHRC — statutory, 1993
+B. NCSC — constitutional, 338
+C. NHRC — Article 338
 D. SHRC — Protection of Human Rights Act
 
 <details>
@@ -895,9 +891,9 @@ D. SHRC — Protection of Human Rights Act
 </details>
 
 **Q11.** After the 2019 amendment, the Chairperson of NHRC can be?
-A. Only a sitting CJI  
-B. A retired CJI or a retired Supreme Court judge  
-C. Only the Attorney General  
+A. Only a sitting CJI
+B. A retired CJI or a retired Supreme Court judge
+C. Only the Attorney General
 D. The Union Home Minister
 
 <details>
@@ -908,9 +904,9 @@ D. The Union Home Minister
 </details>
 
 **Q12.** Which Act is **not** in the NGT’s Schedule?
-A. Environment (Protection) Act, 1986  
-B. Air (Prevention and Control of Pollution) Act, 1981  
-C. Wildlife (Protection) Act, 1972  
+A. Environment (Protection) Act, 1986
+B. Air (Prevention and Control of Pollution) Act, 1981
+C. Wildlife (Protection) Act, 1972
 D. Forest (Conservation) Act, 1980
 
 <details>
@@ -965,9 +961,9 @@ D. FERA Board
 </details>
 
 **Q16.** With reference to RBI, which of the following statements is/are correct?
-1. It issues currency notes in India.  
-2. It conducts the Census of India.  
-3. It recommends MSP for crops.  
+1. It issues currency notes in India.
+2. It conducts the Census of India.
+3. It recommends MSP for crops.
 Select the correct answer using the code given below:
 A. Only 1
 B. 1 and 2 only
@@ -994,14 +990,12 @@ D. 2002
 
 </details>
 
-**Q18.**
+**Q18.Assertion (A):** CAT is a statutory body.
 
-**Assertion (A):** CAT is a statutory body.
-
-**Reason (R):** Article 323A only enables Parliament to create administrative tribunals; the CAT is created by the 1985 Act.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** Article 323A only enables Parliament to create administrative tribunals; the CAT is created by the 1985 Act.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1055,9 +1049,9 @@ D. Jayanti Patnaik
 </details>
 
 **Q22.** CVC is appointed by the President on the recommendation of which of the following?
-A. PM, CJI and LoP  
-B. PM, Union Home Minister and LoP in the Lok Sabha  
-C. PM, LS Speaker and CJI  
+A. PM, CJI and LoP
+B. PM, Union Home Minister and LoP in the Lok Sabha
+C. PM, LS Speaker and CJI
 D. A collegium of SC judges
 
 <details>
@@ -1068,8 +1062,8 @@ D. A collegium of SC judges
 </details>
 
 **Q23.** Which of the following statements about NHB is/are correct?
-1. It was established under a 1987 Act.  
-2. It is a constitutional body under Article 280.  
+1. It was established under a 1987 Act.
+2. It is a constitutional body under Article 280.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1132,9 +1126,9 @@ D. The Finance Commission Chair as member
 </details>
 
 **Q26.** Which of the following is **not** correctly matched?
-A. SDMA — Chief Minister  
-B. DDMA — District Magistrate  
-C. NDMA — Union Home Minister  
+A. SDMA — Chief Minister
+B. DDMA — District Magistrate
+C. NDMA — Union Home Minister
 D. NDMA — Prime Minister
 
 <details>
@@ -1158,8 +1152,8 @@ D. CAT
 </details>
 
 **Q28.** With reference to the Lokpal’s jurisdiction over the Prime Minister, which of the following statements is/are correct?
-1. An allegation relating to international relations cannot be inquired into.  
-2. The inquiry, if any, is by the full bench with a special majority.  
+1. An allegation relating to international relations cannot be inquired into.
+2. The inquiry, if any, is by the full bench with a special majority.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1199,14 +1193,12 @@ D. Under 21
 
 </details>
 
-**Q31.**
+**Q31.Assertion (A):** The National Commission for Minorities is not the Special Officer for Linguistic Minorities.
 
-**Assertion (A):** The National Commission for Minorities is not the Special Officer for Linguistic Minorities.
-
-**Reason (R):** NCM is a 1992 statutory body for notified religious minorities; 350B is a constitutional officer.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** NCM is a 1992 statutory body for notified religious minorities; 350B is a constitutional officer.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1334,9 +1326,9 @@ D. A-3, B-1, C-4, D-2
 </details>
 
 **Q39.** The Official Languages of the Union are not this topic; NHB is?
-A. A 1987 statutory housing-finance body  
-B. A constitutional body under 280  
-C. The same as HUDCO  
+A. A 1987 statutory housing-finance body
+B. A constitutional body under 280
+C. The same as HUDCO
 D. An SEBI subsidiary
 
 <details>
@@ -1347,9 +1339,9 @@ D. An SEBI subsidiary
 </details>
 
 **Q40.** Which one of the following pairs is **not** correctly matched?
-A. RTI — 12 October 2005 (in force)  
-B. NHRC founded — 12 October 1993  
-C. Human Rights Day (UN) — 10 December  
+A. RTI — 12 October 2005 (in force)
+B. NHRC founded — 12 October 1993
+C. Human Rights Day (UN) — 10 December
 D. Human Rights Day (UN) — 29 January
 
 <details>
@@ -1360,9 +1352,9 @@ D. Human Rights Day (UN) — 29 January
 </details>
 
 **Q41.** A complaint to the Lokpal must ordinarily be?
-A. Oral only  
-B. In the form prescribed by the Lokpal Rules  
-C. Routed only through the CVC  
+A. Oral only
+B. In the form prescribed by the Lokpal Rules
+C. Routed only through the CVC
 D. Made within 1 hour of the incident
 
 <details>
@@ -1373,8 +1365,8 @@ D. Made within 1 hour of the incident
 </details>
 
 **Q42.** Which of the following statements about SEBI is/are correct?
-1. Appeals from SEBI lie to the Securities Appellate Tribunal.  
-2. Its headquarters is in New Delhi.  
+1. Appeals from SEBI lie to the Securities Appellate Tribunal.
+2. Its headquarters is in New Delhi.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1388,14 +1380,12 @@ D. Neither 1 nor 2
 
 </details>
 
-**Q43.**
+**Q43.Assertion (A):** The CVC was given statutory status in 2003.
 
-**Assertion (A):** The CVC was given statutory status in 2003.
-
-**Reason (R):** The Santhanam Committee had recommended a vigilance body in the 1960s.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The Santhanam Committee had recommended a vigilance body in the 1960s.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1406,9 +1396,9 @@ D. (A) is false, but (R) is true
 </details>
 
 **Q44.** SHRC is headed by a?
-A. Retired Chief Justice of India  
-B. Retired Chief Justice of a High Court (or as amended, a retired HC judge)  
-C. District Judge  
+A. Retired Chief Justice of India
+B. Retired Chief Justice of a High Court (or as amended, a retired HC judge)
+C. District Judge
 D. State Advocate General
 
 <details>
@@ -1432,8 +1422,8 @@ D. Planning Commission
 </details>
 
 **Q46.** With reference to the Lokpal, which of the following statements is/are correct?
-1. A Search Committee shortlists names; a Selection Committee recommends them to the President.  
-2. The Chairman of the Rajya Sabha is a member of the Selection Committee.  
+1. A Search Committee shortlists names; a Selection Committee recommends them to the President.
+2. The Chairman of the Rajya Sabha is a member of the Selection Committee.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1474,9 +1464,9 @@ D. Bihar
 </details>
 
 **Q49.** The CBI Director is appointed on the recommendation of which of the following?
-A. CVC alone  
-B. Prime Minister, Leader of Opposition in the Lok Sabha and the CJI  
-C. Prime Minister, Speaker and Home Minister  
+A. CVC alone
+B. Prime Minister, Leader of Opposition in the Lok Sabha and the CJI
+C. Prime Minister, Speaker and Home Minister
 D. Lokpal Chairperson alone
 
 <details>
@@ -1512,14 +1502,12 @@ D. Commercial confidence
 
 </details>
 
-**Q52.**
+**Q52.Assertion (A):** NHRC does not ordinarily inquire into a complaint older than one year.
 
-**Assertion (A):** NHRC does not ordinarily inquire into a complaint older than one year.
-
-**Reason (R):** NHRC’s findings bind the criminal court and substitute a trial.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** NHRC’s findings bind the criminal court and substitute a trial.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1530,9 +1518,9 @@ D. (A) is false, but (R) is true
 </details>
 
 **Q53.** Which of the following principles guide the NGT?
-1. Sustainable development  
-2. Polluter pays  
-3. Precautionary principle  
+1. Sustainable development
+2. Polluter pays
+3. Precautionary principle
 Select the correct answer using the code given below:
 A. 1 and 2 only
 B. 2 and 3 only
@@ -1560,8 +1548,8 @@ D. NDMA Vice-Chairperson
 </details>
 
 **Q55.** Which of the following statements is/are correct?
-1. The ₹1 note is issued by the Government of India.  
-2. The RBI Governor signs the ₹1 note.  
+1. The ₹1 note is issued by the Government of India.
+2. The RBI Governor signs the ₹1 note.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1624,9 +1612,9 @@ D. A-2, B-3, C-1, D-4
 </details>
 
 **Q58.** Which one of the following is **not** correctly matched?
-A. NCSK — constitutional, Art. 338  
-B. NCW — statutory, 1990 Act  
-C. NCM — Jains added 2014  
+A. NCSK — constitutional, Art. 338
+B. NCW — statutory, 1990 Act
+C. NCM — Jains added 2014
 D. NCPCR — child below 18
 
 <details>
@@ -1650,10 +1638,10 @@ D. CIC
 </details>
 
 **Q60.** Arrange the following in chronological order of the statute:
-1. RBI Act  
-2. CVC Act  
-3. RTI Act  
-4. NGT Act  
+1. RBI Act
+2. CVC Act
+3. RTI Act
+4. NGT Act
 A. 1-2-3-4
 B. 1-3-2-4
 C. 2-1-3-4
@@ -1667,8 +1655,8 @@ D. 1-2-4-3
 </details>
 
 **Q61.** With reference to NITI Aayog, which of the following statements is/are correct?
-1. It was created by a Cabinet Resolution, not by an Act of Parliament.  
-2. It is a constitutional body under Article 280.  
+1. It was created by a Cabinet Resolution, not by an Act of Parliament.
+2. It is a constitutional body under Article 280.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1695,14 +1683,12 @@ D. Suman Bery
 
 </details>
 
-**Q63.**
+**Q63.Assertion (A):** The Finance Commission does not submit its report to NITI Aayog.
 
-**Assertion (A):** The Finance Commission does not submit its report to NITI Aayog.
-
-**Reason (R):** NITI Aayog is an extra-constitutional think-tank; the FC reports to the President.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** NITI Aayog is an extra-constitutional think-tank; the FC reports to the President.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1765,8 +1751,8 @@ D. Only 1
 </details>
 
 **Q66.** With reference to investigation in a State, which of the following statements is/are correct?
-1. CBI ordinarily needs the State’s consent under the DSPE Act.  
-2. NIA does not need State consent to investigate a scheduled offence.  
+1. CBI ordinarily needs the State’s consent under the DSPE Act.
+2. NIA does not need State consent to investigate a scheduled offence.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1798,9 +1784,9 @@ D. 2-4-1-3
 </details>
 
 **Q68.** Which one of the following is **not** correctly matched?
-A. IB — Ministry of Home Affairs  
-B. RAW — Cabinet Secretariat  
-C. ED — Department of Revenue  
+A. IB — Ministry of Home Affairs
+B. RAW — Cabinet Secretariat
+C. ED — Department of Revenue
 D. CBI — Ministry of Home Affairs
 
 <details>
@@ -1811,8 +1797,8 @@ D. CBI — Ministry of Home Affairs
 </details>
 
 **Q69.** With reference to the National Development Council, which of the following statements is/are correct?
-1. It was a constitutional body created in 1950.  
-2. It used to approve Five-Year Plans and was chaired by the Prime Minister.  
+1. It was a constitutional body created in 1950.
+2. It used to approve Five-Year Plans and was chaired by the Prime Minister.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1944,8 +1930,8 @@ D. Hyderabad
 </details>
 
 **Q79.** With reference to the NIA, which of the following statements is/are correct?
-1. It is a statutory body created by the NIA Act, 2008.  
-2. It was set up after the 26/11 Mumbai attacks.  
+1. It is a statutory body created by the NIA Act, 2008.
+2. It was set up after the 26/11 Mumbai attacks.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -1975,14 +1961,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q81.**
+**Q81.Assertion (A):** The National Security Council is chaired by the Prime Minister.
 
-**Assertion (A):** The National Security Council is chaired by the Prime Minister.
-
-**Reason (R):** The first National Security Adviser was Brajesh Mishra.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** The first National Security Adviser was Brajesh Mishra.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -2023,9 +2007,9 @@ D. All four
 </details>
 
 **Q84.** The Governing Council of NITI Aayog includes?
-1. Chief Ministers of all States  
-2. Lieutenant Governors of Union Territories  
-3. The Chief Justice of India  
+1. Chief Ministers of all States
+2. Lieutenant Governors of Union Territories
+3. The Chief Justice of India
 A. 1 and 2 only
 B. 1 and 3 only
 C. 2 and 3 only
@@ -2038,14 +2022,12 @@ D. 1, 2 and 3
 
 </details>
 
-**Q85.**
+**Q85.Assertion (A):** CBI is a statutory commission on the pattern of the CVC Act, 2003.
 
-**Assertion (A):** CBI is a statutory commission on the pattern of the CVC Act, 2003.
-
-**Reason (R):** CBI was created by an MHA resolution in 1963 and derives investigation power from the DSPE Act, 1946.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** CBI was created by an MHA resolution in 1963 and derives investigation power from the DSPE Act, 1946.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -2121,8 +2103,8 @@ D. CACP
 </details>
 
 **Q89.** Which of the following statements about the 2019 NIA amendment is/are correct?
-1. It widened the schedule of offences.  
-2. It converted NIA into a constitutional body.  
+1. It widened the schedule of offences.
+2. It converted NIA into a constitutional body.
 Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
@@ -2176,9 +2158,9 @@ D. NSCS only
 </details>
 
 **Q93.** Which of the following is **not** a function of NITI Aayog?
-A. Anchoring the Aspirational Districts Programme  
-B. Acting as India’s SDG nodal institution  
-C. Recommending MSP for crops  
+A. Anchoring the Aspirational Districts Programme
+B. Acting as India’s SDG nodal institution
+C. Recommending MSP for crops
 D. Running the Atal Innovation Mission
 
 <details>
@@ -2189,8 +2171,8 @@ D. Running the Atal Innovation Mission
 </details>
 
 **Q94.** With reference to the Union Finance Commission, which of the following is/are correct?
-1. It has a Chairman and six members.  
-2. It submits its report to NITI Aayog.  
+1. It has a Chairman and six members.
+2. It submits its report to NITI Aayog.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2204,8 +2186,8 @@ D. Neither 1 nor 2
 </details>
 
 **Q95.** CBI investigation inside a State without the State’s general consent is ordinarily possible when?
-1. The High Court or Supreme Court so orders  
-2. The State has given consent under the DSPE Act  
+1. The High Court or Supreme Court so orders
+2. The State has given consent under the DSPE Act
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2219,9 +2201,9 @@ D. Neither 1 nor 2
 </details>
 
 **Q96.** Which one of the following is **not** correctly matched?
-A. NITI Aayog — extra-constitutional  
-B. UPSC — constitutional  
-C. CVC — constitutional  
+A. NITI Aayog — extra-constitutional
+B. UPSC — constitutional
+C. CVC — constitutional
 D. NHRC — statutory
 
 <details>
@@ -2244,14 +2226,12 @@ D. Cabinet Secretariat
 
 </details>
 
-**Q98.**
+**Q98.Assertion (A):** RAW reports to the Ministry of Home Affairs.
 
-**Assertion (A):** RAW reports to the Ministry of Home Affairs.
-
-**Reason (R):** RAW is India’s external intelligence agency, created in 1968.  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+**Reason (R):** RAW is India’s external intelligence agency, created in 1968.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -2275,10 +2255,10 @@ D. NITI Aayog
 </details>
 
 **Q100.** Consider the following pairs:
-1. NCSC — constitutional  
-2. Lokpal — statutory  
-3. NITI Aayog — executive  
-Which of the pairs is/are correctly matched?  
+1. NCSC — constitutional
+2. Lokpal — statutory
+3. NITI Aayog — executive
+Which of the pairs is/are correctly matched?
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -2297,8 +2277,8 @@ D. 1, 2 and 3
 
 ### 2024
 
-**Q1. UPPCS Prelims 2024, Q41**  
-Which of the following functions is performed by the Reserve Bank of India?  
+**Q1. UPPCS Prelims 2024, Q41**
+Which of the following functions is performed by the Reserve Bank of India?
 A. Collection of income tax
 B. Issue of currency notes
 C. Conducting population census
@@ -2311,8 +2291,8 @@ D. Foreign policy formulation
 
 </details>
 
-**Q2. UPPCS Prelims 2024, Q43**  
-Who recommends the MSP for agricultural crops?  
+**Q2. UPPCS Prelims 2024, Q43**
+Who recommends the MSP for agricultural crops?
 A. RBI
 B. NITI Aayog
 C. Commission for Agricultural Costs and Prices
@@ -2325,12 +2305,12 @@ D. Ministry of Finance
 
 </details>
 
-**Q3. UPPCS Prelims 2024, Q130**  
-Lokpal Selection Committee, PM as chairperson, among others:  
-1. CJI or an SC Judge nominated by him  
-2. Chairman of the Rajya Sabha  
-3. Speaker of the Lok Sabha  
-4. Leader of Opposition in the Lok Sabha  
+**Q3. UPPCS Prelims 2024, Q130**
+Lokpal Selection Committee, PM as chairperson, among others:
+1. CJI or an SC Judge nominated by him
+2. Chairman of the Rajya Sabha
+3. Speaker of the Lok Sabha
+4. Leader of Opposition in the Lok Sabha
 A. 1, 2 and 3
 B. 2, 3 and 4
 C. 1, 2, 3 and 4
@@ -2345,12 +2325,12 @@ D. 1, 3 and 4
 
 ### 2025
 
-**Q4. UPPCS Prelims 2025, Q126**  
-'BHARATPOL', an online portal for International Police Co-operation has been developed by which of the following?  
-1. Central Bureau of Investigation  
-2. Research and Analysis Wing  
-3. Intelligence Bureau  
-4. Enforcement Directorate  
+**Q4. UPPCS Prelims 2025, Q126**
+'BHARATPOL', an online portal for International Police Co-operation has been developed by which of the following?
+1. Central Bureau of Investigation
+2. Research and Analysis Wing
+3. Intelligence Bureau
+4. Enforcement Directorate
 A. 2 and 3
 B. 3 and 4
 C. Only 3
@@ -2363,11 +2343,11 @@ D. Only 1
 
 </details>
 
-**Q4a. UPPCS Prelims 2025, Q133**  
-Which of the following pairs is/are NOT correctly matched?  
-1. National Voters' Day (India) — 25 January  
-2. Constitution Day (India) — 27 January  
-3. Human Rights Day (World) — 29 January  
+**Q4a. UPPCS Prelims 2025, Q133**
+Which of the following pairs is/are NOT correctly matched?
+1. National Voters' Day (India) — 25 January
+2. Constitution Day (India) — 27 January
+3. Human Rights Day (World) — 29 January
 A. 1 and 2
 B. 2 and 3
 C. Only 3
@@ -2382,10 +2362,10 @@ D. Only 1
 
 ### 2023
 
-**Q5. UPPCS Prelims 2023, Q10**  
-With reference to the Union Finance Commission, which of the following statement(s) is/are correct?  
-1. Finance Commission has a Chairman and six members.  
-2. It submits its report to the NITI Aayog.  
+**Q5. UPPCS Prelims 2023, Q10**
+With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
+1. Finance Commission has a Chairman and six members.
+2. It submits its report to the NITI Aayog.
 A. Only 2
 B. Both 1 and 2
 C. Only 1
@@ -2400,8 +2380,8 @@ D. Neither 1 nor 2
 
 ### 2022
 
-**Q6. UPPCS Prelims 2022, Q97**  
-Which of the following three States of India were the top-performing States under 'NITI Aayog's State Energy and Climate Index' declared on 10th April 2022?  
+**Q6. UPPCS Prelims 2022, Q97**
+Which of the following three States of India were the top-performing States under 'NITI Aayog's State Energy and Climate Index' declared on 10th April 2022?
 A. Manipur, Tripura, Mizoram
 B. Tamil Nadu, Kerala, Karnataka
 C. Gujarat, Kerala, Punjab
@@ -2416,8 +2396,8 @@ D. Punjab, Uttar Pradesh, West Bengal
 
 ### 2021
 
-**Q7. UPPCS Prelims 2021, Q2**  
-How many districts of Uttar Pradesh has been covered under the Aspirational District Programme run by NITI Aayog, up to June, 2021?  
+**Q7. UPPCS Prelims 2021, Q2**
+How many districts of Uttar Pradesh has been covered under the Aspirational District Programme run by NITI Aayog, up to June, 2021?
 A. 4
 B. 6
 C. 8
@@ -2430,8 +2410,8 @@ D. 10
 
 </details>
 
-**Q7a. UPPCS Prelims 2021, Q26**  
-The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?  
+**Q7a. UPPCS Prelims 2021, Q26**
+The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
 A. The Prime Minister
 B. The Home Minister
 C. The Defence Minister
@@ -2444,8 +2424,8 @@ D. The Health and Family Welfare Minister
 
 </details>
 
-**Q7b. UPPCS Prelims 2021, Q60**  
-Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?  
+**Q7b. UPPCS Prelims 2021, Q60**
+Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?
 A. The Reserve Bank of India
 B. The Ministry of Commerce and Industry
 C. The Ministry of Finance
@@ -2460,8 +2440,8 @@ D. The Ministry of Consumer Affairs, Food and Public Distribution
 
 ### 2020
 
-**Q8. UPPCS Prelims 2020, Q104**  
-Which Article of the Indian Constitution describes the Central Vigilance Commission?  
+**Q8. UPPCS Prelims 2020, Q104**
+Which Article of the Indian Constitution describes the Central Vigilance Commission?
 A. Article 268
 B. Article 280
 C. Article 276
@@ -2474,22 +2454,22 @@ D. None of the above
 
 </details>
 
-**Q8a. UPPCS Prelims 2020, Q102**  
-Which one of the following pairs is NOT correctly matched?  
-A. Interstate Council – Article 263  
-B. Finance Commission – Article 280  
-C. Administrative Tribunal – Article 323A  
+**Q8a. UPPCS Prelims 2020, Q102**
+Which one of the following pairs is NOT correctly matched?
+A. Interstate Council – Article 263
+B. Finance Commission – Article 280
+C. Administrative Tribunal – Article 323A
 D. Union Public Service Commission – Article 315
 
 <details>
 <summary>Show answer</summary>
 
-**Lock:** **C is a correct pair** (323A = administrative tribunals / CAT). *L. Chandra Kumar*: CAT supplements the High Court; **226/227 survive**.
+**Fact:C is a correct pair** (323A = administrative tribunals / CAT). *L. Chandra Kumar*: CAT supplements the High Court; **226/227 survive**.
 
 </details>
 
-**Q9. UPPCS Prelims 2020, Q15**  
-The Atal Innovation Mission (AIM) is a flagship initiative set up by—  
+**Q9. UPPCS Prelims 2020, Q15**
+The Atal Innovation Mission (AIM) is a flagship initiative set up by—
 A. Ministry of Human Resource Development
 B. NITI Aayog
 C. Ministry of Social Justice and Empowerment
@@ -2502,8 +2482,8 @@ D. Ministry of Science and Technology
 
 </details>
 
-**Q10. UPPCS Prelims 2020, Q113**  
-According to the Report released by NITI Aayog in December 2019 on 'Sustainable Development Goals India Index 2019-20', Uttar Pradesh is grouped under which of the following categories?  
+**Q10. UPPCS Prelims 2020, Q113**
+According to the Report released by NITI Aayog in December 2019 on 'Sustainable Development Goals India Index 2019-20', Uttar Pradesh is grouped under which of the following categories?
 A. Aspirant
 B. Performer
 C. Front runner
@@ -2516,8 +2496,8 @@ D. Achiever
 
 </details>
 
-**Q11. UPPCS Prelims 2020, Q138**  
-The Development, Monitoring and Evaluation Office, which monitors the progress of long term policies is an attached office under—  
+**Q11. UPPCS Prelims 2020, Q138**
+The Development, Monitoring and Evaluation Office, which monitors the progress of long term policies is an attached office under—
 A. Prime Minister Office
 B. Ministry of Home Affairs
 C. Cabinet Secretariat
@@ -2532,8 +2512,8 @@ D. NITI Aayog
 
 ### 2019
 
-**Q12. UPPCS Prelims 2019, Q100**  
-MKSS has been associated with—  
+**Q12. UPPCS Prelims 2019, Q100**
+MKSS has been associated with—
 A. RTE Act
 B. RTI Act
 C. MGNREGA
@@ -2546,8 +2526,8 @@ D. NHM
 
 </details>
 
-**Q13. UPPCS Prelims 2019, Q112**  
-According to NITI Aayog which of the following states is at the top in the India Innovation Index 2019?  
+**Q13. UPPCS Prelims 2019, Q112**
+According to NITI Aayog which of the following states is at the top in the India Innovation Index 2019?
 A. Tamil Nadu
 B. Maharashtra
 C. Haryana
@@ -2560,8 +2540,8 @@ D. Karnataka
 
 </details>
 
-**Q14. UPPCS Prelims 2019, Q140**  
-Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?  
+**Q14. UPPCS Prelims 2019, Q140**
+Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?
 A. Planning Commission
 B. Disinvestment Commission
 C. NITI Aayog
@@ -2576,8 +2556,8 @@ D. Finance Commission
 
 ### 2018
 
-**Q15. UPPCS Prelims 2018, Q67**  
-Who was the first Vice-Chairman of the NITI Aayog?  
+**Q15. UPPCS Prelims 2018, Q67**
+Who was the first Vice-Chairman of the NITI Aayog?
 A. Arvind Panagariya
 B. Raghuram Rajan
 C. Chandrashekhara Subramanyam
@@ -2590,8 +2570,8 @@ D. Rajiv Kumar
 
 </details>
 
-**Q16. UPPCS Prelims 2018, Q69**  
-Which of the following is an extra-constitutional agency?  
+**Q16. UPPCS Prelims 2018, Q69**
+Which of the following is an extra-constitutional agency?
 A. Union Public Service Commission
 B. Finance Commission
 C. Election Commission
@@ -2604,8 +2584,8 @@ D. NITI Aayog
 
 </details>
 
-**Q17. UPPCS Prelims 2018, Q115**  
-Which of the following fixes the poverty line in India?  
+**Q17. UPPCS Prelims 2018, Q115**
+Which of the following fixes the poverty line in India?
 A. Central Council of Ministers
 B. Lok Sabha
 C. Rajya Sabha
@@ -2618,8 +2598,8 @@ D. Planning Commission (Now NITI Aayog)
 
 </details>
 
-**Q18. UPPCS Prelims 2018, Q144**  
-Which of the following was called as Economic cabinet of India by Ashok Chanda?  
+**Q18. UPPCS Prelims 2018, Q144**
+Which of the following was called as Economic cabinet of India by Ashok Chanda?
 A. Planning Commission
 B. Finance Commission
 C. Central Cabinet

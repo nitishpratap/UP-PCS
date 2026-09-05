@@ -8,20 +8,20 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 </details>
 
-> **Sources baked in:** NCERT Bio/Geo; Gadgil 2011; Kasturirangan 2013; UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ High — movement ↔ state/year/leader matching  
+> **Sources baked in:** NCERT Bio/Geo; Gadgil 2011; Kasturirangan 2013; UPPCS/UPSC PYQs
+> **Weight:** ★★★ High — movement ↔ state/year/leader matching
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 22 Must-Score Locks
+## Consolidated — 22 Must-Score Facts
 
 1. **Bishnoi** resistance at **Khejarli, Rajasthan (1730)** is led in memory by **Amrita Devi** and the **363** martyrs who died protecting khejri trees. It is centuries older than Chipko.
 2. **Chipko (1973)** began at **Reni, Uttarakhand** (then Uttar Pradesh). Leaders include **Sunderlal Bahuguna, Chandi Prasad Bhatt, and Gaura Devi**. Method: embracing trees against logging.
 3. **Silent Valley (1970s)** in **Kerala (Palakkad)** opposed a hydro project in rainforest. **KSSP** and scientists were central. It is **not** a Tamil Nadu movement.
 4. **Jungle Bachao Andolan (1982)** in **Singhbhum, Jharkhand** was tribal resistance for forest rights.
 5. **Appiko (1983)** in **Karnataka (Sirsi)** was led by **Panduranga Hegde**. It is the southern tree-embrace movement. Appiko is **Karnataka only** — not Uttarakhand, UP, or Kerala.
-6. **Narmada Bachao Andolan (from 1985)** spans **Madhya Pradesh, Gujarat, and Maharashtra**, with **Medha Patkar** and **Baba Amte** as leader locks. It is anti-large-dam displacement politics.
+6. **Narmada Bachao Andolan (from 1985)** spans **Madhya Pradesh, Gujarat, and Maharashtra**, with **Medha Patkar** and **Baba Amte** as leader facts. It is anti-large-dam displacement politics.
 7. **Save Western Ghats (from about 2011)** is multi-state ecology politics around the **Gadgil** and **Kasturirangan** reports, mining, and ESZ questions.
 8. Method families: Chipko, Appiko, and Bishnoi = forest/tree protection. Silent Valley and Narmada Bachao = anti-dam. Save Western Ghats = report/policy ecology protests.
 9. Chipko ≠ Appiko. Chipko is Uttarakhand; Appiko is Karnataka.
@@ -32,7 +32,7 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 14. Narmada Bachao is multi-state Narmada valley politics — not a single-state Kerala story.
 15. Save Western Ghats leans on expert committee reports; Chipko leans on village tree hugging.
 16. UP link: Chipko’s Reni lay in erstwhile UP until Uttarakhand statehood (**2000**). Appiko and Silent Valley are **not** UP movements.
-17. Gaura Devi is a Chipko village leadership lock; Panduranga Hegde is Appiko; Medha Patkar is Narmada.
+17. Gaura Devi is a Chipko village leadership fact; Panduranga Hegde is Appiko; Medha Patkar is Narmada.
 18. Khejarli martyrdom is Rajasthan Bishnoi memory — not Uttarakhand Chipko.
 19. Anti-dam movements still differ: Silent Valley saved a Kerala valley rainforest project path; Narmada contested a large multi-state dam-displacement model.
 20. Gadgil report is often read as stronger ecological protection; Kasturirangan as a later recalibration — both sit inside Save Western Ghats politics.
@@ -41,7 +41,7 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Movement | State | Year | Core issue |
 |----------|-------|------|------------|
@@ -67,7 +67,7 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 - Influenced **Forest (Conservation) Act 1980** and conservation tilt of **National Forest Policy 1988**.
 - Bahuguna's line: **"ecology is permanent economy"**.
 
-> **Exam note:** Chipko = **Uttarakhand 1973**, not Karnataka (Appiko) or Kerala (Silent Valley).
+> ** note:** Chipko = **Uttarakhand 1973**, not Karnataka (Appiko) or Kerala (Silent Valley).
 
 ---
 
@@ -86,7 +86,7 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 Appiko Movement is associated with: (1) Uttarakhand (2) Uttar Pradesh (3) Kerala (4) Karnataka
 
-Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
+Options: A. 1 and 2 B. Only 4 C. 3 and 4 D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -94,7 +94,7 @@ Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 
 </details>
 
-> **Exam note:** Appiko ≠ Chipko state. Answer is **only Karnataka**.
+> ** note:** Appiko ≠ Chipko state. Answer is **only Karnataka**.
 
 ---
 
@@ -109,7 +109,7 @@ Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 - Method: science, petitions, media — not primarily tree-hugging.
 - Anti-dam rainforest fight — different from Chipko/Appiko anti-logging.
 
-> **Exam note:** Silent Valley = **Kerala**, not Tamil Nadu.
+> ** note:** Silent Valley = **Kerala**, not Tamil Nadu.
 
 ---
 
@@ -124,7 +124,7 @@ Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 - Supreme Court cases (2000, 2005) balanced construction with R&R — raised national rehabilitation standards.
 - Methods: satyagraha, jal yatras, court petitions, drowning protests (jalsamarpan).
 
-> **Exam note:** In movement questions, **NBA = Narmada Bachao Andolan** — not National Biodiversity Authority (Chennai).
+> ** note:** In movement questions, **NBA = Narmada Bachao Andolan** — not National Biodiversity Authority (Chennai).
 
 ---
 
@@ -139,7 +139,7 @@ Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 - **Bishnoi sect** founded by **Guru Jambheshwar (1485)** — 29 principles; protect flora and fauna (blackbuck, chinkara).
 - Conceptual precursor to Chipko — different century and desert ecology.
 
-> **Exam note:** Bishnoi = **1730 Rajasthan**, not 1973 Uttarakhand.
+> ** note:** Bishnoi = **1730 Rajasthan**, not 1973 Uttarakhand.
 
 ---
 
@@ -152,7 +152,7 @@ Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 - Defended customary forest rights of adivasi communities against state/contractor timber interests.
 - Part of broader Jharkhand tribal ecology politics — distinct from Himalayan Chipko or Kerala Silent Valley.
 
-> **Exam note:** Jungle Bachao = **Singhbhum/Jharkhand**, not Garhwal or Karnataka.
+> ** note:** Jungle Bachao = **Singhbhum/Jharkhand**, not Garhwal or Karnataka.
 
 ---
 
@@ -171,7 +171,7 @@ Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 | Gadgil WGEEP | **2011** | Stronger ESZ / conservation |
 | Kasturirangan HLWG | **2013** | Narrower ESA / moderated |
 
-> **Exam note:** Do not equate Appiko 1983 with Save Western Ghats 2011+.
+> ** note:** Do not equate Appiko 1983 with Save Western Ghats 2011+.
 
 ---
 
@@ -180,7 +180,7 @@ Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 
 **Q1.** Appiko Movement is associated with:
 
-Options: A. Karnataka  B. Uttarakhand  C. Kerala  D. Rajasthan
+Options: A. Karnataka B. Uttarakhand C. Kerala D. Rajasthan
 
 <details><summary>Show answer</summary>
 
@@ -190,7 +190,7 @@ Options: A. Karnataka  B. Uttarakhand  C. Kerala  D. Rajasthan
 
 **Q2.** Chipko began in:
 
-Options: A. 1973  B. 1730  C. 1983  D. 2011
+Options: A. 1973 B. 1730 C. 1983 D. 2011
 
 <details><summary>Show answer</summary>
 
@@ -200,7 +200,7 @@ Options: A. 1973  B. 1730  C. 1983  D. 2011
 
 **Q3.** Chipko origin village:
 
-Options: A. Reni  B. Khejarli  C. Sirsi  D. Silent Valley
+Options: A. Reni B. Khejarli C. Sirsi D. Silent Valley
 
 <details><summary>Show answer</summary>
 
@@ -210,7 +210,7 @@ Options: A. Reni  B. Khejarli  C. Sirsi  D. Silent Valley
 
 **Q4.** Appiko leader:
 
-Options: A. Panduranga Hegde  B. Medha Patkar  C. Amrita Devi  D. Gaura Devi
+Options: A. Panduranga Hegde B. Medha Patkar C. Amrita Devi D. Gaura Devi
 
 <details><summary>Show answer</summary>
 
@@ -220,7 +220,7 @@ Options: A. Panduranga Hegde  B. Medha Patkar  C. Amrita Devi  D. Gaura Devi
 
 **Q5.** Silent Valley is in:
 
-Options: A. Kerala  B. Tamil Nadu  C. Karnataka  D. Rajasthan
+Options: A. Kerala B. Tamil Nadu C. Karnataka D. Rajasthan
 
 <details><summary>Show answer</summary>
 
@@ -230,7 +230,7 @@ Options: A. Kerala  B. Tamil Nadu  C. Karnataka  D. Rajasthan
 
 **Q6.** Silent Valley mainly opposed:
 
-Options: A. Hydroelectric dam  B. Only coal mining in Rajasthan  C. Only Chipko logging in Garhwal  D. Ozone treaty
+Options: A. Hydroelectric dam B. Only coal mining in Rajasthan C. Only Chipko logging in Garhwal D. Ozone treaty
 
 <details><summary>Show answer</summary>
 
@@ -240,7 +240,7 @@ Options: A. Hydroelectric dam  B. Only coal mining in Rajasthan  C. Only Chipko 
 
 **Q7.** Narmada Bachao Andolan leader:
 
-Options: A. Medha Patkar  B. Bahuguna  C. Hegde  D. Amrita Devi
+Options: A. Medha Patkar B. Bahuguna C. Hegde D. Amrita Devi
 
 <details><summary>Show answer</summary>
 
@@ -250,7 +250,7 @@ Options: A. Medha Patkar  B. Bahuguna  C. Hegde  D. Amrita Devi
 
 **Q8.** Bishnoi martyrdom year:
 
-Options: A. 1730  B. 1973  C. 1983  D. 2011
+Options: A. 1730 B. 1973 C. 1983 D. 2011
 
 <details><summary>Show answer</summary>
 
@@ -260,7 +260,7 @@ Options: A. 1730  B. 1973  C. 1983  D. 2011
 
 **Q9.** Khejarli incident protected:
 
-Options: A. Khejri trees  B. Coral reefs  C. Mangroves of Sundarbans only  D. Alpine meadows only
+Options: A. Khejri trees B. Coral reefs C. Mangroves of Sundarbans only D. Alpine meadows only
 
 <details><summary>Show answer</summary>
 
@@ -270,7 +270,7 @@ Options: A. Khejri trees  B. Coral reefs  C. Mangroves of Sundarbans only  D. Al
 
 **Q10.** Amrita Devi is linked to:
 
-Options: A. Bishnoi Movement  B. Appiko  C. Silent Valley  D. Narmada Bachao
+Options: A. Bishnoi Movement B. Appiko C. Silent Valley D. Narmada Bachao
 
 <details><summary>Show answer</summary>
 
@@ -280,7 +280,7 @@ Options: A. Bishnoi Movement  B. Appiko  C. Silent Valley  D. Narmada Bachao
 
 **Q11.** Jungle Bachao Andolan region:
 
-Options: A. Singhbhum, Jharkhand  B. Kerala Palakkad  C. Reni Garhwal  D. Sirsi Karnataka
+Options: A. Singhbhum, Jharkhand B. Kerala Palakkad C. Reni Garhwal D. Sirsi Karnataka
 
 <details><summary>Show answer</summary>
 
@@ -290,7 +290,7 @@ Options: A. Singhbhum, Jharkhand  B. Kerala Palakkad  C. Reni Garhwal  D. Sirsi 
 
 **Q12.** Gadgil report year:
 
-Options: A. 2011  B. 1730  C. 1973  D. 1985
+Options: A. 2011 B. 1730 C. 1973 D. 1985
 
 <details><summary>Show answer</summary>
 
@@ -300,7 +300,7 @@ Options: A. 2011  B. 1730  C. 1973  D. 1985
 
 **Q13.** Kasturirangan report year:
 
-Options: A. 2013  B. 1973  C. 1730  D. 1983
+Options: A. 2013 B. 1973 C. 1730 D. 1983
 
 <details><summary>Show answer</summary>
 
@@ -310,7 +310,7 @@ Options: A. 2013  B. 1973  C. 1730  D. 1983
 
 **Q14.** Gaura Devi is associated with:
 
-Options: A. Chipko  B. Appiko  C. NBA dams  D. Bishnoi 1730
+Options: A. Chipko B. Appiko C. NBA dams D. Bishnoi 1730
 
 <details><summary>Show answer</summary>
 
@@ -320,7 +320,7 @@ Options: A. Chipko  B. Appiko  C. NBA dams  D. Bishnoi 1730
 
 **Q15.** World Bank withdrew from Sardar Sarovar in:
 
-Options: A. 1993  B. 1730  C. 2011  D. 1947
+Options: A. 1993 B. 1730 C. 2011 D. 1947
 
 <details><summary>Show answer</summary>
 
@@ -330,7 +330,7 @@ Options: A. 1993  B. 1730  C. 2011  D. 1947
 
 **Q16.** Passive "ecology is permanent economy" is linked to:
 
-Options: A. Bahuguna / Chipko  B. Only Kasturirangan  C. Only Amrita Devi  D. Only Medha Patkar
+Options: A. Bahuguna / Chipko B. Only Kasturirangan C. Only Amrita Devi D. Only Medha Patkar
 
 <details><summary>Show answer</summary>
 
@@ -340,7 +340,7 @@ Options: A. Bahuguna / Chipko  B. Only Kasturirangan  C. Only Amrita Devi  D. On
 
 **Q17.** Passive: (1) Appiko is in Karnataka. (2) Appiko is in Uttarakhand.
 
-Options: A. Only 1  B. Only 2  C. Both  D. Neither
+Options: A. Only 1 B. Only 2 C. Both D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -350,7 +350,7 @@ Options: A. Only 1  B. Only 2  C. Both  D. Neither
 
 **Q18.** Silent Valley NP was notified in:
 
-Options: A. 1984  B. 1730  C. 2011  D. 1485
+Options: A. 1984 B. 1730 C. 2011 D. 1485
 
 <details><summary>Show answer</summary>
 
@@ -360,7 +360,7 @@ Options: A. 1984  B. 1730  C. 2011  D. 1485
 
 **Q19.** Passive correctly matched?
 
-Options: A. Appiko — Karnataka  B. Chipko — Kerala  C. Silent Valley — Rajasthan  D. Bishnoi — Karnataka
+Options: A. Appiko — Karnataka B. Chipko — Kerala C. Silent Valley — Rajasthan D. Bishnoi — Karnataka
 
 <details><summary>Show answer</summary>
 
@@ -370,7 +370,7 @@ Options: A. Appiko — Karnataka  B. Chipko — Kerala  C. Silent Valley — Raj
 
 **Q20.** Passive incorrectly matched?
 
-Options: A. Silent Valley — Tamil Nadu  B. Chipko — Uttarakhand  C. Appiko — Karnataka  D. Bishnoi — Rajasthan
+Options: A. Silent Valley — Tamil Nadu B. Chipko — Uttarakhand C. Appiko — Karnataka D. Bishnoi — Rajasthan
 
 <details><summary>Show answer</summary>
 
@@ -380,7 +380,7 @@ Options: A. Silent Valley — Tamil Nadu  B. Chipko — Uttarakhand  C. Appiko �
 
 **Q21.** Passive of Big Games is savanna — Appiko protects forests in:
 
-Options: A. Western Ghats Karnataka  B. Thar Desert dunes only  C. Antarctic ice  D. Sundarbans only
+Options: A. Western Ghats Karnataka B. Thar Desert dunes only C. Antarctic ice D. Sundarbans only
 
 <details><summary>Show answer</summary>
 
@@ -390,7 +390,7 @@ Options: A. Western Ghats Karnataka  B. Thar Desert dunes only  C. Antarctic ice
 
 **Q22.** NBA (movement) states include:
 
-Options: A. MP, Gujarat, Maharashtra  B. Only Kerala  C. Only Rajasthan  D. Only Assam
+Options: A. MP, Gujarat, Maharashtra B. Only Kerala C. Only Rajasthan D. Only Assam
 
 <details><summary>Show answer</summary>
 
@@ -400,7 +400,7 @@ Options: A. MP, Gujarat, Maharashtra  B. Only Kerala  C. Only Rajasthan  D. Only
 
 **Q23.** Passive hugging method is shared by:
 
-Options: A. Chipko and Appiko  B. Only Silent Valley dam science  C. Only Gadgil report drafting  D. Only World Bank withdrawal
+Options: A. Chipko and Appiko B. Only Silent Valley dam science C. Only Gadgil report drafting D. Only World Bank withdrawal
 
 <details><summary>Show answer</summary>
 
@@ -410,7 +410,7 @@ Options: A. Chipko and Appiko  B. Only Silent Valley dam science  C. Only Gadgil
 
 **Q24.** Guru Jambheshwar founded:
 
-Options: A. Bishnoi sect (1485)  B. KSSP  C. Narmada tribunal  D. FSI
+Options: A. Bishnoi sect (1485) B. KSSP C. Narmada tribunal D. FSI
 
 <details><summary>Show answer</summary>
 
@@ -420,7 +420,7 @@ Options: A. Bishnoi sect (1485)  B. KSSP  C. Narmada tribunal  D. FSI
 
 **Q25.** Number of Bishnoi martyrs at Khejarli traditionally cited:
 
-Options: A. 363  B. 3  C. 2011  D. 1984
+Options: A. 363 B. 3 C. 2011 D. 1984
 
 <details><summary>Show answer</summary>
 
@@ -430,7 +430,7 @@ Options: A. 363  B. 3  C. 2011  D. 1984
 
 **Q26.** Save Western Ghats differs from Appiko mainly because it is:
 
-Options: A. 2011+ multi-state policy movement  B. Only 1730 desert martyrdom  C. Only Reni 1973 logging  D. Only Singhbhum 1982
+Options: A. 2011+ multi-state policy movement B. Only 1730 desert martyrdom C. Only Reni 1973 logging D. Only Singhbhum 1982
 
 <details><summary>Show answer</summary>
 
@@ -440,7 +440,7 @@ Options: A. 2011+ multi-state policy movement  B. Only 1730 desert martyrdom  C.
 
 **Q27.** Chipko was in erstwhile:
 
-Options: A. Uttar Pradesh hill districts (now Uttarakhand)  B. Only Kerala coast  C. Only Gujarat plains  D. Only Goa
+Options: A. Uttar Pradesh hill districts (now Uttarakhand) B. Only Kerala coast C. Only Gujarat plains D. Only Goa
 
 <details><summary>Show answer</summary>
 
@@ -450,7 +450,7 @@ Options: A. Uttar Pradesh hill districts (now Uttarakhand)  B. Only Kerala coast
 
 **Q28.** Passive of resistance common to Chipko and Dandi March:
 
-Options: A. Passive resistance  B. Armed rebellion  C. Only court petitions  D. Only World Bank loans
+Options: A. Passive resistance B. Armed rebellion C. Only court petitions D. Only World Bank loans
 
 <details><summary>Show answer</summary>
 
@@ -458,10 +458,10 @@ Options: A. Passive resistance  B. Armed rebellion  C. Only court petitions  D. 
 
 </details>
 
-**Q29.** Assertion (A): Appiko is associated with Uttarakhand.  
+**Q29.** Assertion (A): Appiko is associated with Uttarakhand.
 Reason (R): Chipko began in Garhwal Himalaya.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A false, R true  D. Both false
+Options: A. Both true; R explains A B. Both true; R does not explain A C. A false, R true D. Both false
 
 <details><summary>Show answer</summary>
 
@@ -471,7 +471,7 @@ Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A fa
 
 **Q30.** Correct chronology (earliest first):
 
-Options: A. Bishnoi → Chipko → Appiko → Save W Ghats  B. Appiko → Bishnoi → Chipko  C. Save W Ghats → Chipko → Bishnoi  D. Chipko → Bishnoi → Appiko
+Options: A. Bishnoi → Chipko → Appiko → Save W Ghats B. Appiko → Bishnoi → Chipko C. Save W Ghats → Chipko → Bishnoi D. Chipko → Bishnoi → Appiko
 
 <details><summary>Show answer</summary>
 
@@ -483,9 +483,7 @@ Options: A. Bishnoi → Chipko → Appiko → Save W Ghats  B. Appiko → Bishno
 
 ## Complete PYQ Bank (Topic 29)
 
-**Q1. UPPCS 2025, Q122** — Appiko = Karnataka only → **Ans: B**
-
-**Q2. UPSC 2012 pattern** — Chipko + Dandi = passive resistance
+**Q1. UPPCS 2025, Q122** — Appiko = Karnataka only → **Ans: BQ2. UPSC 2012 pattern** — Chipko + Dandi = passive resistance
 
 **Q3. UPPCS/UPSC pattern** — Chipko 1973 Uttarakhand / Gaura Devi / Bahuguna
 
@@ -507,7 +505,7 @@ Options: A. Bishnoi → Chipko → Appiko → Save W Ghats  B. Appiko → Bishno
 
 ## Common Traps
 
-| Trap | Lock |
+| Trap | Correct |
 |------|------|
 | Appiko = Uttarakhand/UP | **Karnataka** |
 | Chipko = Karnataka | **Uttarakhand 1973** |
@@ -547,9 +545,9 @@ Options: A. Bishnoi → Chipko → Appiko → Save W Ghats  B. Appiko → Bishno
 
 ### Topic boundaries
 
-- **Western Ghats biodiversity ecology** — Topic 4/21/25  
-- **EIA / dam clearance process** — Topic 14  
-- **Forest laws FCA/NFP** — Topic 8/17  
+- **Western Ghats biodiversity ecology** — Topic 4/21/25
+- **EIA / dam clearance process** — Topic 14
+- **Forest laws FCA/NFP** — Topic 8/17
 
 ### PYQ audit
 

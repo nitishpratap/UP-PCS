@@ -8,30 +8,30 @@
 Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earthquakes | Seismic Zones | Tsunami | Landslides | Floods | Drought | Cloudburst | Heat / Cold Waves | Cyclones | Industrial / Chemical (awareness) | Disaster Management Framework (NDMA / Sendai / NDMP)
 </details>
 
-> **Sources baked in:** NCERT (disasters / interior), PWOnlyIAS / Drishti DM notes, BIS IS 1893:2016, IMD, NDMA / DM Act 2005 / NPDM 2009, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — seismic zones, NDMA chair, cyclone-name match, Himalaya A/R, IMD heat/cloudburst cuts; also teach full hazard map  
-> **Last verified:** August 2026  
-> **Current Affairs:** BIS **Zone VI draft withdrawn Mar 2026** — exam map still **II–V (2016)**; Sendai 2015–30; CDRI 2019; Joshimath 2023; Sikkim GLOF 2023
+> **Sources baked in:** NCERT (disasters / interior), PWOnlyIAS / Drishti DM notes, BIS IS 1893:2016, IMD, NDMA / DM Act 2005 / NPDM 2009, UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — seismic zones, NDMA chair, cyclone-name match, Himalaya A/R, IMD heat/cloudburst cuts; also teach full hazard map
+> **Last verified:** August 2026
+> **Current Affairs:** BIS **Zone VI draft withdrawn Mar 2026** — map still **II–V (2016)**; Sendai 2015–30; CDRI 2019; Joshimath 2023; Sikkim GLOF 2023
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
-1. Coaching risk lock: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
+1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
 2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
 3. Earthquake **focus** is the point **inside** the Earth; **epicentre** is the point on the **surface** above it. **Richter** measures magnitude; **Mercalli** measures intensity / damage.
 4. Seismic waves arrive **P then S then surface**. The Himalaya is India’s highest seismic belt because of **collision and thrust zones**.
-5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — exam maps still follow the 2016 II–V framing.
+5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V framing.
 6. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman & Nicobar** belt. Much of Rajasthan and the Deccan sits in Zones II–III.
 7. About **59%** of India’s landmass is earthquake-prone in NDMA lore. Famous shocks: Kangra 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
 8. A tsunami is caused by **seafloor displacement** (quake, landslide or volcano), not by ordinary wind waves. India’s warning hub is **INCOIS, Hyderabad**.
 9. **Kilimanjaro** sits on the East African Rift and is **not** part of the Pacific Ring of Fire.
-10. Landslide belts are the Himalaya, Western Ghats and North-East. Exam cues include Kedarnath **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
+10. Landslide belts are the Himalaya, Western Ghats and North-East. cues include Kedarnath **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
 11. Flood types include riverine (Ganga–Brahmaputra), flash floods in hills, urban floods and coastal storm surge. Drought is classed as meteorological, hydrological and agricultural. IMD drought awareness often uses rainfall deficiency **>25%** of normal.
-12. IMD **cloudburst** lock is rainfall **≥100 mm in one hour**, typically in Uttarakhand–Himachal–J&K–North-East hill belts around **1000–2500 m**.
+12. IMD **cloudburst** fact is rainfall **≥100 mm in one hour**, typically in Uttarakhand–Himachal–J&K–North-East hill belts around **1000–2500 m**.
 13. IMD plains heat-wave gate: when **Tmax ≥40°C**, a departure of **4.5–6.4°C** is a heat wave and **>6.4°C** is severe; or actual **≥45°C / ≥47°C**. Criteria also use two stations for two days. Cold-wave plains gate awareness is **Tmin ≤10°C** with a sharp drop.
 14. The **Bay of Bengal** produces **more** cyclones than the Arabian Sea. Peak seasons are roughly **May–June** and **October–December**. Arabian Sea storms can still hit Gujarat–Maharashtra (Tauktae / Kandla lore).
-15. Cyclone-name locks: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
+15. Cyclone-name facts: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
 16. 2019 storm–place awareness: Dorian–Bahamas, Hagibis–Japan, Lekima–China, Mitag–Korea, with Indian Ocean names like Amphan, Fani and Tauktae also in the news map.
 17. **NDMA** is chaired by the **Prime Minister**. **SDMA** is chaired by the **Chief Minister**. **DDMA** is chaired by the District Magistrate / Collector.
 18. Framework years: **DM Act 2005**, **NPDM 2009**, **NDRF 2006** (MHA), **NDMP 2016**, **Sendai Framework 2015–2030** (after Hyogo 2005–15), **CDRI 2019**. International Day for Disaster Risk Reduction is **13 October**.
@@ -46,9 +46,9 @@ Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earth
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
-| Pair | Right lock | Trap | Hindi |
+| Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Focus vs epicentre | Focus = **inside**; epicentre = **surface** | Swapped | उद्गम / अधिकेन्द्र |
 | Richter vs Mercalli | Magnitude vs **intensity/damage** | Same scale | रिक्टर / मर्कली |
@@ -78,7 +78,7 @@ Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earth
 
 A **hazard** is a potentially damaging natural or man-made event. A **disaster** occurs when that hazard hits exposed people or assets and **capacity** is too weak to cope.
 
-- Coaching lock: **Risk ≈ Hazard × Vulnerability / Capacity**.
+- Coaching fact: **Risk ≈ Hazard × Vulnerability / Capacity**.
 - **Vulnerability** is how exposed and fragile a community, house or economy is.
 - **Capacity** is the ability to prepare, resist, cope and recover.
 - The same earthquake is a small event in a reinforced city and a disaster in a weak, crowded settlement.
@@ -123,7 +123,7 @@ An earthquake is the sudden release of energy when rocks slip along a fault.
 
 About **90%** of world quakes sit on plate edges. The **Pacific Ring of Fire** is the circum-Pacific volcano–quake belt (Fuji, Pinatubo, Mount St. Helens). **Kilimanjaro is not** on that ring.
 
-| Term | Lock |
+| Term | Meaning |
 |------|------|
 | Focus / hypocentre | Inside the crust |
 | Epicentre | Surface above the focus |
@@ -158,7 +158,7 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 | 2011 | Sikkim | |
 | 2015 | Nepal Gorkha (Bihar/east UP) | |
 
-> **Exam note:** Peninsular India is **not** quake-free. Latur + Koyna are the two hall traps.
+> ** note:** Peninsular India is **not** quake-free. Latur + Koyna are the two hall traps.
 
 ---
 
@@ -167,7 +167,7 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 BIS **IS 1893 (Part 1): 2016** — four zones. **Zone I abolished (2002)**. **Zone V = highest** hazard, **II = lowest** on the present map.
 A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use **II–V**.
 
-| Zone | Risk | Where (exam list) |
+| Zone | Risk | Where (list) |
 |------|------|-------------------|
 | **V** | Very high | Entire **NE** (except some plains pockets in some maps); **Andaman & Nicobar**; parts of **J&K / Ladakh, HP, Uttarakhand**; **Rann of Kutch (GJ)**; parts of N Bihar |
 | **IV** | High | Rest of Himalayan states; **Delhi**; **northern & eastern UP** (Terai / Ghaghara–Gandak belt); parts of Bihar, Haryana, Punjab, Maharashtra, J&K |
@@ -176,7 +176,7 @@ A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use *
 
 **UP:** no Zone **V**. North/east Terai = **IV**; bulk of the state = **III**.
 
-> **Exam note:** “Highest concentration in Himalaya” is true — that is Zone **IV–V**, not “all India Zone V.”
+> ** note:** “Highest concentration in Himalaya” is true — that is Zone **IV–V**, not “all India Zone V.”
 
 ---
 
@@ -184,14 +184,14 @@ A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use *
 
 Long ocean waves from **sudden seafloor displacement** (undersea quake, landslide, volcano) — **not** ordinary wind waves.
 
-| Lock | Fact |
+| Cue | Fact |
 |------|------|
 | Indian Ocean mega-event | **26 Dec 2004** — Sumatra megathrust → Andaman–Tamil Nadu–Kerala–AP–Puducherry |
 | Warning | **INCOIS, Hyderabad** (MoES) |
 | India coast risk | A&N, east coast, Kerala; west coast lower but not zero |
 | Speed | Fast in deep water; piles up near coast |
 
-Mangroves / coastal forests **reduce cyclone and tsunami impact** (2018 Q133).
+Mangroves / coastal forests **reduce cyclone and tsunami impact**.
 
 ---
 
@@ -214,7 +214,7 @@ Floods happen when water inundates land that is usually dry.
 - **Flash floods** hit hills after cloudbursts (Uttarakhand, Himachal).
 - **Urban floods** follow drainage failure (Mumbai-type events).
 - **Coastal floods** come with cyclone storm surge.
-- **GLOF** is a glacial-lake outburst — **Sikkim Teesta / South Lhonak 2023** is the living CA lock.
+- **GLOF** is a glacial-lake outburst — **Sikkim Teesta / South Lhonak 2023** is the living CA fact.
 - CWC and IMD run flood watch. Hall years: **Kosi 2008**, **Kerala 2018**, and east **UP** every monsoon in the trans-Ghaghara belt.
 
 ---
@@ -228,7 +228,7 @@ Floods happen when water inundates land that is usually dry.
 | Agricultural | Soil moisture / crop stress |
 | Socio-economic | Livelihood failure |
 
-**IMD (exam cut):** meteorological drought when seasonal rainfall is **< 75% of normal** (deficiency **> 25%**). Moderate ~26–50%; severe **> 50%**.
+**IMD (cut):** meteorological drought when seasonal rainfall is **< 75% of normal** (deficiency **> 25%**). Moderate ~26–50%; severe **> 50%**.
 Belts: **Bundelkhand**, Marathwada, Rayalaseema, Rajasthan, Kutch, Telangana interiors.
 
 | Scheme | Year |
@@ -239,7 +239,7 @@ Belts: **Bundelkhand**, Marathwada, Rayalaseema, Rajasthan, Kutch, Telangana int
 | TRYSEM | **1979** |
 | DDP (Desert Development) | **1977–78** |
 
-Chronology lock used in 2025: Community Development Programme (**1952**) → DPAP (**1973–74**) → Food for Work (**1977**) → TRYSEM (**1979**).
+Chronology fact used in 2025: Community Development Programme (**1952**) → DPAP (**1973–74**) → Food for Work (**1977**) → TRYSEM (**1979**).
 
 ---
 
@@ -249,7 +249,7 @@ Chronology lock used in 2025: Community Development Programme (**1952**) → DPA
 Typical: southern Himalayan rim **~1000–2500 m** — **Uttarakhand (Garhwal), HP, J&K, NE hills**; also windward Western Ghats.
 Follow-on: flash flood + debris flow + landslide (**Kedarnath 2013**).
 
-> **Exam note:** Heavy monsoon rain ≠ cloudburst. The cut is **100 mm/hour**.
+> ** note:** Heavy monsoon rain ≠ cloudburst. The cut is **100 mm/hour**.
 
 ---
 
@@ -268,7 +268,7 @@ Follow-on: flash flood + debris flow + landslide (**Kedarnath 2013**).
 | Actual Tmax (plains) | ≥ **45°C** | ≥ **47°C** |
 
 Season: Mar–Jun (rarely July). NW India → spreads east. UP plains = **Loo**.
-**Cold wave (exam cut):** abnormal **Tmin** drop in winter (Dec–Feb); plains often gated near **Tmin ≤ 10°C** then a departure; severe if Tmin very low / large negative departure. Western UP + Terai fog/cold.
+**Cold wave (cut):** abnormal **Tmin** drop in winter (Dec–Feb); plains often gated near **Tmin ≤ 10°C** then a departure; severe if Tmin very low / large negative departure. Western UP + Terai fog/cold.
 
 ---
 
@@ -276,7 +276,7 @@ Season: Mar–Jun (rarely July). NW India → spreads east. UP plains = **Loo**.
 
 IMD wind ladder. Basins, landfall, local names:
 
-| Basin | Disaster lock |
+| Basin | Disaster fact |
 |-------|----------------|
 | **Bay of Bengal** | **Higher frequency** (~4:1 vs Arabian in many decades); Odisha–AP–TN–WB–Sundarbans surge |
 | **Arabian Sea** | Fewer; **does** hit **Gujarat / Maharashtra** (1998 Kandla; **Tauktae 2021**; Biparjoy 2023) |
@@ -290,9 +290,9 @@ UPPCS has already asked Hurricane / Typhoon–Taifu / Baguio / Willy-willies. Ne
 
 | Name | Country / basin | Note |
 |------|-----------------|------|
-| **Baguio / Baguios** ★ | **Philippines** | Asked lock |
-| **Hurricane** ★ | **USA** / Atlantic–Caribbean | Asked lock |
-| **Typhoon** ★ | NW Pacific — **China** class | Asked lock |
+| **Baguio / Baguios** ★ | **Philippines** | Asked fact |
+| **Hurricane** ★ | **USA** / Atlantic–Caribbean | Asked fact |
+| **Typhoon** ★ | NW Pacific — **China** class | Asked fact |
 | **Taifu** ★ | **Japan**-facing NW Pacific name | Asked with Japan |
 | **Willy-willies** ★ | **Australia** | Cyclone ≠ Brickfielder |
 | **Cyclone** | North Indian Ocean (**India**/BoB/Arabian) | IMD names |
@@ -300,7 +300,7 @@ UPPCS has already asked Hurricane / Typhoon–Taifu / Baguio / Willy-willies. Ne
 
 **2019 named-storm match (asked four) + nearby awareness**
 
-| Storm | Most affected (lock) |
+| Storm | Most affected (fact) |
 |-------|----------------------|
 | **Dorian** ★ | **Bahamas** |
 | **Hagibis** ★ | **Japan** |
@@ -345,10 +345,10 @@ D. The Health and Family Welfare Minister
 **Ans: A** — NDMA is chaired by the **Prime Minister**.
 </details>
 
-| Body | Lock |
+| Body | Role |
 |------|------|
 | **DM Act** | **23 Dec 2005** |
-| **NDMA** | Apex; **PM = ex-officio Chair** (2021 Q26); up to 9 members |
+| **NDMA** | Apex; **PM = ex-officio Chair**; up to 9 members |
 | **SDMA** | **CM** chairs |
 | **DDMA** | District Magistrate chairs (elected head co-chairs) |
 | **NEC** | National Executive Committee — **Union Home Secretary** |
@@ -396,7 +396,7 @@ D. 1, 2, 3 and 4
 
 **Inline PYQ — UPPCS Prelims 2019, Q (Himalaya A/R)**
 
-Assertion (A): The highest concentration of seismic zones lies in the Himalayan region in India.  
+Assertion (A): The highest concentration of seismic zones lies in the Himalayan region in India.
 Reason (R): There are many longitudinal thrust zones in the Himalayas.
 
 A. Both A and R are true and R explains A
@@ -417,7 +417,7 @@ D. A is false but R is true
 
 ## N.12 Uttar Pradesh Focus
 
-| Hazard | Lock |
+| Hazard | Fact |
 |--------|------|
 | Seismic | **No Zone V.** Terai / north–east = **IV**; Lucknow–Kanpur–Prayagraj–Varanasi–Agra = **III** |
 | Flood | East UP — **Ghaghara, Rapti, Gandak, Ganga**; trans-Ghaghara belt |
@@ -430,7 +430,7 @@ D. A is false but R is true
 
 ## Practice Zone — UPPCS Format Questions
 
-> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Answers hidden** — click **Show answer** under each question to reveal.
 > **Format mix:** 60 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard NDMA/NCERT angles)
 
 **Q1.** Assertion (A): The highest concentration of seismic zones lies in the Himalayan region in India.
@@ -976,7 +976,7 @@ D. Only heat wave
 
 ---
 
-**Q29.** Meteorological drought (IMD exam cut) begins when rainfall is:
+**Q29.** Meteorological drought (IMD cut) begins when rainfall is:
 
 A. 5% below normal
 
@@ -1085,7 +1085,7 @@ D. **All of the above**
 
 ---
 
-**Q35.** Which UP belt is the classic **drought** lock?
+**Q35.** Which UP belt is the classic **drought** fact?
 
 A. Terai flood belt only
 
@@ -1103,7 +1103,7 @@ D. Sundarbans
 
 ---
 
-**Q36.** Which UP belt is the classic **flood** lock?
+**Q36.** Which UP belt is the classic **flood** fact?
 
 A. Entire Bundelkhand equally
 
@@ -1178,7 +1178,7 @@ D. 2024
 
 ---
 
-**Q40.** Which is a GLOF-type disaster lock?
+**Q40.** Which is a GLOF-type disaster fact?
 
 A. Latur 1993
 
@@ -1316,7 +1316,7 @@ D. 3 4 2 1
 
 ---
 
-**Q47.** Joshimath (2023) is a CA lock for:
+**Q47.** Joshimath (2023) is a CA fact for:
 
 A. Super cyclone
 
@@ -1424,7 +1424,7 @@ D. Only Response forever
 
 ---
 
-**Q53.** Which of the following is a man-made disaster lock?
+**Q53.** Which of the following is a man-made disaster fact?
 
 A. Kangra 1905 earthquake
 
@@ -1496,7 +1496,7 @@ D. About 90% of only Rajasthan
 
 ---
 
-**Q57.** Assertion (A): Mangroves can reduce cyclone impact along coasts.  
+**Q57.** Assertion (A): Mangroves can reduce cyclone impact along coasts.
 Reason (R): Coastal green belts dissipate wave and wind energy before it hits inland settlements.
 
 A. Both A and R are true and R explains A

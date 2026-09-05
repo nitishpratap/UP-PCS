@@ -1,6 +1,6 @@
 # Uttar Pradesh CA
 
-> **Priority S for UPPCS**  
+> **Priority S for UPPCS**
 > National magazines often under-count UP. In the real paper, UP news comes through Ramsar, Budget, ODOP, ranks, and big projects.
 
 ## What to note every time
@@ -19,10 +19,10 @@
 
 ### Patna Bird Sanctuary, Etah — Ramsar site
 
-**What happened**  
+**What happened**
 **Patna Bird Sanctuary** in **Etah** district got strong national attention as a **Ramsar site** (wetland of international importance). It was announced together with Gujarat’s Chhari-Dhand.
 
-**Core locks**
+**Core facts**
 
 - Site: **Patna Bird Sanctuary**.
 - District: **Etah**, Uttar Pradesh.
@@ -36,7 +36,7 @@
 | **Shekha / Sheikha Jheel** | **Aligarh** | Public Ramsar push locked in **April** (India 99 / UP 12) |
 | **Surha Tal / JP Narayan Bird Sanctuary** | **Ballia** | Big WED announcement in **June** (India 100 / UP 13) |
 
-Some lists show early-2026 designation paperwork. For prelims, lock the **month the news broke** in the table above. Full chain → [Master tables](00_Master_Tables.md).
+Some lists show early-2026 designation paperwork. For prelims, fact the **month the news broke** in the table above. Full chain → [Master tables](00_Master_Tables.md).
 
 ### Padma Awards — UP names
 
@@ -49,10 +49,10 @@ Some lists show early-2026 designation paperwork. For prelims, lock the **month 
 
 ### Uttar Pradesh Budget 2026–27
 
-**What happened**  
+**What happened**
 State Finance Minister **Suresh Khanna** presented the UP Budget for **2026–27**.
 
-**Core locks**
+**Core facts**
 
 - Budget size: about **₹9.13 lakh crore** (detailed figure near **₹9,12,696 crore**).
 - Rise over previous year: about **12.2%**.
@@ -92,7 +92,7 @@ State Finance Minister **Suresh Khanna** presented the UP Budget for **2026–27
 - Earlier points in the same series: about **19,994**, and about **19,196** in 2023.
 - Highest counts were reported from **Etawah** and **Mainpuri** forest divisions.
 
-**Other short locks**
+**Other short facts**
 
 - Semiconductor unit narrative in **Greater Noida (Gautam Buddh Nagar)** as North India’s first — confirm status before using “commissioned”.
 - Farmer helpline from Lucknow: **0522-2317003**, Monday to Friday, for scheme information.
@@ -102,7 +102,7 @@ State Finance Minister **Suresh Khanna** presented the UP Budget for **2026–27
 
 ## March 2026
 
-### Keep revising older UP locks
+### Keep revising older UP facts
 
 March’s biggest national stories were the T20 World Cup, defence purchases, NavIC, Gujarat UCC, and central schemes. For UPPCS, keep January–February UP cards ready:
 
@@ -124,10 +124,10 @@ March’s biggest national stories were the T20 World Cup, defence purchases, Na
 
 ### Shekha Jheel Bird Sanctuary | Aligarh | Ramsar site
 
-**What happened**  
-**Shekha Jheel Bird Sanctuary** in **Aligarh** got the Ramsar tag in April 2026. This is a high-yield UPPCS lock.
+**What happened**
+**Shekha Jheel Bird Sanctuary** in **Aligarh** got the Ramsar tag in April 2026. This is a high-yield UPPCS fact.
 
-**Core locks**
+**Core facts**
 
 - District: **Aligarh**.
 - India’s Ramsar total after this: **99**.
@@ -136,14 +136,14 @@ March’s biggest national stories were the T20 World Cup, defence purchases, Na
 - Full ecology card → [Environment](05_Environment_Days.md).
 
 !!! tip "Confused pair"
-    Patna Bird Sanctuary is in **Etah** (January). Shekha Jheel is in **Aligarh** (April). Surha Tal / Jai Prakash Narayan Bird Sanctuary in **Ballia** became the **100th** later — keep that for June revision.
+ Patna Bird Sanctuary is in **Etah** (January). Shekha Jheel is in **Aligarh** (April). Surha Tal / Jai Prakash Narayan Bird Sanctuary in **Ballia** became the **100th** later — keep that for June revision.
 
 ### Noida International Airport (Jewar)
 
-**What happened**  
+**What happened**
 April coverage said commercial flights from **Jewar Airport** were targeted to start on **30 May 2026**, with ticket booking expected around mid-May. Security-clearance issues around the CEO’s nationality were discussed in the delay story.
 
-**Court lock**
+**Court fact**
 
 - On **28 April 2026**, the Allahabad High Court upheld land acquisition of about **1,858 hectares** for Jewar airport expansion (Phase-2 / Phase-3 related villages in **Gautam Buddha Nagar**).
 - The court stressed timely rehabilitation and resettlement under the **2013** land acquisition law.
@@ -162,10 +162,10 @@ April coverage said commercial flights from **Jewar Airport** were targeted to s
 
 ### Jewar Airport timeline update
 
-**What happened**  
+**What happened**
 April coverage had targeted commercial flights around **late May**. Operations actually began later, on **15 June 2026**, with the first IndiGo arrival from **Lucknow**. Keep May as the “target month that slipped” and revise the hard opening under June.
 
-**Still useful May–June UP locks**
+**Still useful May–June UP facts**
 
 - Place: **Jewar**, **Gautam Buddha Nagar**.
 - Airport name: **Noida International Airport**.
@@ -189,10 +189,10 @@ April coverage had targeted commercial flights around **late May**. Operations a
 
 ### Surha Tal / Jai Prakash Narayan Bird Sanctuary | Ballia | 100th Ramsar
 
-**What happened**  
+**What happened**
 On **World Environment Day (5 June 2026)**, **Surha Tal** in **Ballia** became India’s **100th** Ramsar site and Uttar Pradesh’s **13th**. The announcement was celebrated at a WED programme in **Lucknow** with CM **Yogi Adityanath**.
 
-**Core locks**
+**Core facts**
 
 - District: **Ballia**.
 - Official name: **Jai Prakash Narayan Bird Sanctuary**.
@@ -200,14 +200,14 @@ On **World Environment Day (5 June 2026)**, **Surha Tal** in **Ballia** became I
 - Full ecology card → [Environment](05_Environment_Days.md).
 
 !!! tip "Must-score UPPCS trio"
-    Etah (Patna) → Aligarh (Shekha / 99) → Ballia (Surha / 100).
+ Etah (Patna) → Aligarh (Shekha / 99) → Ballia (Surha / 100).
 
 ### UP Clean Air Management Project (UP CAMP) | WED 5 June 2026
 
-**What happened**  
+**What happened**
 On the same World Environment Day stage in Lucknow, UP launched the **Uttar Pradesh Clean Air Management Project (UP CAMP)**.
 
-**Easy locks**
+**Easy facts**
 
 - Outlay: about **₹2,741 crore**.
 - Support partner often named: **World Bank**.
@@ -215,14 +215,14 @@ On the same World Environment Day stage in Lucknow, UP launched the **Uttar Prad
 - Soft same-day package: **Ek Ped Maa Ke Naam** plantation drive 2026 and a docket on UP wetlands / Ramsar sites.
 
 !!! trap "Easy wrong options"
-    Writing UP CAMP as a Central NCAP rename only. Putting the ₹2,741 crore figure on Surha Tal tourism instead of clean air.
+ Writing UP CAMP as a Central NCAP rename only. Putting the ₹2,741 crore figure on Surha Tal tourism instead of clean air.
 
 ### Noida International Airport (Jewar) | commercial flights begin 15 June 2026
 
-**What happened**  
+**What happened**
 **Noida International Airport** at **Jewar** began commercial operations on **15 June 2026**.
 
-**Core locks**
+**Core facts**
 
 - Place: **Jewar**, **Gautam Buddha Nagar**.
 - First scheduled airline: **IndiGo**.
@@ -241,7 +241,7 @@ YEIDA’s proposed **Electronics Manufacturing Cluster** in Sector 10 (about **2
 
 ## July 2026
 
-### Keep revising June’s UP mega-locks
+### Keep revising June’s UP mega-facts
 
 July’s national spine was VB-G RAM G, India–UK CETA, Kusha, Vikram-1, and World Cup finals. For UPPCS, keep June cards hot:
 
@@ -261,10 +261,10 @@ July’s national spine was VB-G RAM G, India–UK CETA, Kusha, Vikram-1, and Wo
 
 ### AK-203 ‘Sher’ at Korwa, Amethi
 
-**What happened**  
-The first fully indigenous AK-203 rifle **Sher** was made and test-fired at **Korwa, Amethi**. This is a high-yield UP defence-manufacturing lock.
+**What happened**
+The first fully indigenous AK-203 rifle **Sher** was made and test-fired at **Korwa, Amethi**. This is a high-yield UP defence-manufacturing fact.
 
-**Core locks**
+**Core facts**
 
 - District / plant: **Amethi** / **Korwa**.
 - Company: **IRRPL** (Indo-Russian JV).
@@ -272,7 +272,7 @@ The first fully indigenous AK-203 rifle **Sher** was made and test-fired at **Ko
 
 ### Soft women welfare note
 
-UP coverage also flagged the **Lokmata Ahilyabai Matrushakti Yatra** idea and free bus travel for women aged **60+** in state messaging around the same window. Keep only as a soft state scheme lock until a full PIB-style card is needed.
+UP coverage also flagged the **Lokmata Ahilyabai Matrushakti Yatra** idea and free bus travel for women aged **60+** in state messaging around the same window. Keep only as a soft state scheme fact until a full PIB-style card is needed.
 
 ### Keep ready from older months
 
@@ -284,7 +284,7 @@ UP coverage also flagged the **Lokmata Ahilyabai Matrushakti Yatra** idea and fr
 
 ### Ganga Expressway to Haridwar + Jhansi Link Expressway | late August 2026
 
-**What happened**  
+**What happened**
 The UP Cabinet cleared two big road projects to grow the state’s expressway network.
 
 **Ganga Expressway extension to Haridwar**
@@ -303,11 +303,11 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 
 ## Practice Zone — UPPCS Format
 
-> **20 questions** for this sheet only — drill after you revise the months above.  
-> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> **20 questions** for this sheet only — drill after you revise the months above.
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Exam logic:** Jewar open date + first flight route (UP must-score).
+**Logic:** Jewar open date + first flight route (UP must-score).
 
 **Q1.** With reference to Noida International Airport (Jewar), which of the following statements is/are correct?
 
@@ -316,44 +316,44 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Both are UP locks. Trap: keeping the slipped “late May” target as the actual open date.
+**Ans: C.** Both are UP facts. Trap: keeping the slipped “late May” target as the actual open date.
 
 </details>
 
 ---
 
-**Exam logic:** UP Budget size + Amethi Sher plant.
+**Logic:** UP Budget size + Amethi Sher plant.
 
 **Q2.** With reference to Uttar Pradesh Current Affairs in 2026, which of the following statements is/are correct?
 
 1. The UP Budget size often locked in February coverage was about ₹9.13 lakh crore.
-2. The AK-203 ‘Sher’ rifle’s fully indigenous production lock is linked with Korwa plant in Amethi.
+2. The AK-203 ‘Sher’ rifle’s fully indigenous production fact is linked with Korwa plant in Amethi.
 
 Select the correct answer from the code given below:
 
-A. Only 2  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Budget + defence plant are separate months but both are UPPCS-style UP locks.
+**Ans: C.** Budget + defence plant are separate months but both are UPPCS-style UP facts.
 
 </details>
 
 ---
 
-**Exam logic:** Match UP site / project ↔ place.
+**Logic:** Match UP site / project ↔ place.
 
 **Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -366,9 +366,9 @@ D. Only 1
 
 *Row order is not the answer code.*
 
-A. 3 1 2 4  
-B. 1 3 2 4  
-C. 3 1 4 2  
+A. 3 1 2 4
+B. 1 3 2 4
+C. 3 1 4 2
 D. 3 2 1 4
 
 <details>
@@ -380,20 +380,20 @@ D. 3 2 1 4
 
 ---
 
-**Exam logic:** Chronology of Ramsar / airport news order.
+**Logic:** Chronology of Ramsar / airport news order.
 
 **Q4.** Consider the following events and arrange them in correct chronological order:
 
-1. Commercial opening of Jewar Airport  
-2. Public tagging of Shekha Jheel as India’s 99th Ramsar site  
-3. Surha Tal announced as India’s 100th Ramsar site on World Environment Day  
-4. Glaw Lake recognised as India’s 101st Ramsar site  
+1. Commercial opening of Jewar Airport
+2. Public tagging of Shekha Jheel as India’s 99th Ramsar site
+3. Surha Tal announced as India’s 100th Ramsar site on World Environment Day
+4. Glaw Lake recognised as India’s 101st Ramsar site
 
 Select the correct answer from the code given below:
 
-A. 2, 1, 3, 4  
-B. 2, 3, 1, 4  
-C. 1, 2, 3, 4  
+A. 2, 1, 3, 4
+B. 2, 3, 1, 4
+C. 1, 2, 3, 4
 D. 2, 3, 4, 1
 
 <details>
@@ -405,7 +405,7 @@ D. 2, 3, 4, 1
 
 ---
 
-**Exam logic:** UP expressways August Cabinet.
+**Logic:** UP expressways August Cabinet.
 
 **Q5.** With reference to Uttar Pradesh expressway clearances (August 2026), which of the following statements is/are correct?
 
@@ -415,9 +415,9 @@ D. 2, 3, 4, 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
@@ -439,9 +439,9 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -453,20 +453,20 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
-**Exam logic:** Older UP Ramsar recognition (2025-style NOT in UP).
+**Logic:** Older UP Ramsar recognition (2025-style NOT in UP).
 
 **Q7.** Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
 
-1. Sarsai Nawar Jheel  
-2. Rudrasagar Lake  
-3. Sultanpur National Park  
-4. Bakhira Bird Sanctuary  
+1. Sarsai Nawar Jheel
+2. Rudrasagar Lake
+3. Sultanpur National Park
+4. Bakhira Bird Sanctuary
 
 Select the correct answer from the code given below:
 
-A. 1 and 4  
-B. 2 and 3  
-C. 1 and 2  
+A. 1 and 4
+B. 2 and 3
+C. 1 and 2
 D. 3 and 4
 
 <details>
@@ -478,7 +478,7 @@ D. 3 and 4
 
 ---
 
-**Exam logic:** UP soft industry — CCSU Meerut AI; Pharma Conclave; sarus.
+**Logic:** UP soft industry — CCSU Meerut AI; Pharma Conclave; sarus.
 
 **Q8.** With reference to Uttar Pradesh February–March style CA, which of the following statements is/are correct?
 
@@ -488,21 +488,21 @@ D. 3 and 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Soft UP cluster — still exam-useful with Ramsar / Jewar.
+**Ans: D.** Soft UP cluster — still -useful with Ramsar / Jewar.
 
 </details>
 
 ---
 
-**Exam logic:** UP CAMP airshed first.
+**Logic:** UP CAMP airshed first.
 
 **Q9.** With reference to UP CAMP, which of the following statements is/are correct?
 
@@ -526,7 +526,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** YEIDA electronics cluster Sector 10.
+**Logic:** YEIDA electronics cluster Sector 10.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -549,11 +549,11 @@ D. Only 1
 
 ---
 
-**Exam logic:** Dhanauri wetland conflict soft.
+**Logic:** Dhanauri wetland conflict soft.
 
 **Q11.** With reference to Dhanauri wetland near Jewar, which of the following statements is/are correct?
 
-1. It is a policy conflict story (conservation vs airport), not a new 2026 Ramsar tag in our locks.
+1. It is a policy conflict story (conservation vs airport), not a new 2026 Ramsar tag in our facts.
 2. It was announced as India’s 100th Ramsar site.
 
 Select the correct answer from the code given below:
@@ -572,11 +572,11 @@ D. Only 1
 
 ---
 
-**Exam logic:** Patna Bird Sanctuary Etah January.
+**Logic:** Patna Bird Sanctuary Etah January.
 
 **Q12.** Which of the following statements is/are correct?
 
-1. Patna Bird Sanctuary Ramsar news place lock is Etah.
+1. Patna Bird Sanctuary Ramsar news place fact is Etah.
 2. Chhari-Dhand (Kutch, Gujarat) appeared in the same January public window.
 3. Patna Bird Sanctuary is in Bihar’s capital.
 
@@ -596,7 +596,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Ganga Expressway Haridwar money.
+**Logic:** Ganga Expressway Haridwar money.
 
 **Q13.** With reference to August UP expressways, which of the following statements is/are correct?
 
@@ -619,13 +619,13 @@ D. Only 1
 
 ---
 
-**Exam logic:** Sher Korwa Amethi.
+**Logic:** Sher Korwa Amethi.
 
 **Q14.** Which of the following statements is/are correct?
 
-1. AK-203 Sher plant lock is Korwa, Amethi.
+1. AK-203 Sher plant fact is Korwa, Amethi.
 2. It was covered as fully indigenous production.
-3. Plant lock is Kanpur Ordnance only.
+3. Plant fact is Kanpur Ordnance only.
 
 Select the correct answer from the code given below:
 
@@ -643,7 +643,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** Jewar Phase-1 cost.
+**Logic:** Jewar Phase-1 cost.
 
 **Q15.** With reference to Jewar Airport, which of the following statements is/are correct?
 
@@ -667,11 +667,11 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** UP Budget 9.13.
+**Logic:** UP Budget 9.13.
 
 **Q16.** Which of the following statements is/are correct?
 
-1. UP Budget size lock ~₹9.13 lakh crore.
+1. UP Budget size fact ~₹9.13 lakh crore.
 2. CCSU Meerut AI pilot appeared in February UP CA.
 
 Select the correct answer from the code given below:
@@ -690,7 +690,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** Sarus census soft.
+**Logic:** Sarus census soft.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -713,7 +713,7 @@ D. Only 1
 
 ---
 
-**Exam logic:** WED Lucknow Surha certificate.
+**Logic:** WED Lucknow Surha certificate.
 
 **Q18.** With reference to Surha Tal announcement, which of the following statements is/are correct?
 
@@ -737,7 +737,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** UP Ramsar 13 after Surha.
+**Logic:** UP Ramsar 13 after Surha.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -761,7 +761,7 @@ D. 1, 2 and 3
 
 ---
 
-**Exam logic:** IndiGo Lucknow–Jewar–Bengaluru path.
+**Logic:** IndiGo Lucknow–Jewar–Bengaluru path.
 
 **Q20.** With reference to Jewar opening flights, which of the following statements is/are correct?
 

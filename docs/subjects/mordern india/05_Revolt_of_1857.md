@@ -8,45 +8,45 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 
 </details>
 
-> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Savarkar, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — centre↔leader, place↔date (2023 Q40), Bareilly (2023 Q46), Kunwar/Lakshmibai (2024 Q148), Awadh 1856  
-> **Last verified:** August 2026  
+> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Savarkar, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — centre↔leader, place↔date, Bareilly, Kunwar/Lakshmibai, Awadh 1856
+> **Last verified:** August 2026
 > **Current Affairs:** N/A (historical)
 
 ---
 
-## Consolidated — 26 Must-Score Locks
+## Consolidated — 26 Must-Score Facts
 
 1. **Causes (long):** Doctrine of Lapse, **Awadh annexation 1856** for misrule, heavy revenue, missionary fear, and sepoy service grievances. **Immediate spark:** greased cartridges.
-2. **Course — spark:** **Mangal Pandey** at **Barrackpore on 29 March 1857**. **Mass outbreak:** **Meerut on 10 May 1857**. Delhi was seized on **11–12 May**; it was **not** the first outbreak.
+2. **Course — spark:Mangal Pandey** at **Barrackpore on 29 March 1857**. **Mass outbreak:Meerut on 10 May 1857**. Delhi was seized on **11–12 May**; it was **not** the first outbreak.
 3. **Course — centres:** Delhi, Kanpur, Lucknow, Jhansi, Bareilly, Bihar (Jagdishpur) and parts of Central India formed the main belt. **Punjab, Madras, Bombay and Hyderabad** stayed mostly quiet or loyal.
 4. **Results:** the **Government of India Act, 1858** ended Company rule; the **Queen’s Proclamation** was read at **Allahabad on 1 November 1858**; **Canning** became first Viceroy; the army was reorganised.
-5. **Delhi:** **Bahadur Shah Zafar** was the symbolic emperor; **Bakht Khan** organised the army. Do not swap the two roles.
-6. **Kanpur:** **Nana Sahib** was the political leader; **Tantia Tope** was his military commander.
-7. **Lucknow / Awadh:** **Begum Hazrat Mahal** led the rising. **Bareilly:** **Khan Bahadur Khan**. Do not put the Begum at Bareilly.
-8. **Jhansi:** **Rani Lakshmibai** led the rising (**June 1857**, not 11 May). She died fighting near **Gwalior**. Jhansi had been taken under the **Doctrine of Lapse**.
-9. **Jagdishpur (Bihar):** **Kunwar Singh** led the revolt. **Faizabad:** **Maulvi Ahmadullah Shah**. **Allahabad:** **Maulvi Liaquat Ali**.
+5. **Delhi:Bahadur Shah Zafar** was the symbolic emperor; **Bakht Khan** organised the army. Do not swap the two roles.
+6. **Kanpur:Nana Sahib** was the political leader; **Tantia Tope** was his military commander.
+7. **Lucknow / Awadh:Begum Hazrat Mahal** led the rising. **Bareilly:Khan Bahadur Khan**. Do not put the Begum at Bareilly.
+8. **Jhansi:Rani Lakshmibai** led the rising (**June 1857**, not 11 May). She died fighting near **Gwalior**. Jhansi had been taken under the **Doctrine of Lapse**.
+9. **Jagdishpur (Bihar):Kunwar Singh** led the revolt. **Faizabad:Maulvi Ahmadullah Shah**. **Allahabad:Maulvi Liaquat Ali**.
 10. **Awadh (1856)** was annexed for alleged **misrule**, not under Lapse. That annexation made Awadh one of the hottest theatres in 1857.
 11. British writers called it a **Sepoy Mutiny**. **V.D. Savarkar (1909)** called it the **First War of Independence**. UPPCS still tests centres, leaders and dates hardest.
 12. There was **no single national command** and no modern party behind the revolt. Loyal princes, telegraph, railways and a quiet South/Punjab helped the British recover.
 13. The revolt began under **Company** rule. **Crown** rule began only with the **1858** settlement — do not date Crown rule from Meerut.
 14. Why it failed (compact): disunity of aims, weak central leadership, limited geography, superior British reinforcements and Indian allies who stayed loyal.
 15. Uttar Pradesh was the revolt’s strongest civilian and sepoy belt — Meerut, Delhi’s UP hinterland, Lucknow, Kanpur, Allahabad and Bareilly all sit on that map.
-16. Mangal Pandey’s Barrackpore act was the **spark**, not the **war’s start**. Exam stems that say “beginning of the revolt” want **Meerut, 10 May**.
+16. Mangal Pandey’s Barrackpore act was the **spark**, not the **war’s start**. stems that say “beginning of the revolt” want **Meerut, 10 May**.
 17. After Delhi fell back to the British in **September 1857**, the fighting continued into **1858** in Awadh and Central India before final suppression.
 18. Tantia Tope kept guerrilla fighting after Kanpur’s fall and was later captured and executed — he is the military name beside Nana Sahib, not a separate centre’s political king.
 19. Kunwar Singh was an ageing zamindar of Jagdishpur who still led a major Bihar rising — a favourite “leader ↔ place” match.
 20. Begum Hazrat Mahal rejected British offers and kept Awadh’s resistance alive from Lucknow; she later took refuge in Nepal.
 21. Bahadur Shah Zafar was tried and exiled to **Rangoon**; the Mughal imperial fiction ended with the revolt’s failure.
 22. Army reorganisation after 1858 reduced the weight of high-caste Bengal sepoys and increased reliance on groups the British called “loyal” — a structural result, not only a political one.
-23. Peasant, taluqdar and sepoy strands mixed in Awadh; exams still want the **leader tags** even when historiography stresses social depth.
+23. Peasant, taluqdar and sepoy strands mixed in Awadh; papers still want the **leader tags** even when historiography stresses social depth.
 24. Jhansi rising date trap: **June 1857**, not the Delhi dates of mid-May. That distinction is a repeated prelims killer.
 25. Company ends in **1858**; first Viceroy is **Canning**. Mountbatten is the **last** Viceroy, never the first.
 26. Historiography labels (mutiny / national war / peasant war) matter less in UPPCS than **Meerut 10 May**, centre↔leader matches, and **1858 Crown**.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -65,7 +65,7 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 
 ## 5.0 One clear picture — why 1857 rose and fell
 
-| Stage | Lock |
+| Stage | Fact |
 |-------|------|
 | Long causes | Lapse, Awadh 1856, revenue, mission fear, sepoy grievances |
 | Spark | Greased cartridge + Barrackpore / Meerut |
@@ -86,7 +86,7 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 - **Savarkar (1909)** called it the **First War of Independence**.
 - Later historians stress peasant, taluqdar and regional strands as well. UPPCS still tests **centres, leaders, dates and consequences** hardest.
 
-> **Exam note:** Labels matter less than **Meerut 10 May**, centre↔leader matches, and **1858 Crown**.
+> ** note:** Labels matter less than **Meerut 10 May**, centre↔leader matches, and **1858 Crown**.
 
 ---
 
@@ -100,7 +100,7 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 - It was **not** a war of the whole of India. **Punjab, Madras, Bombay, Hyderabad** and most of **South India** stayed quiet or helped the British.
 - There was **no single national command** and no modern political party behind it.
 
-> **Exam note:** The revolt did **not** begin at Delhi. The mass outbreak was at **Meerut on 10 May 1857**.
+> ** note:** The revolt did **not** begin at Delhi. The mass outbreak was at **Meerut on 10 May 1857**.
 
 ### Causes
 
@@ -142,7 +142,7 @@ The **Government of India Act, 1858** ended East India Company rule and transfer
 - The **General Service Enlistment Act, 1856** required new recruits to serve overseas. Crossing the sea was against the caste belief of many high-caste sepoys of the Bengal Army.
 - The greased cartridge became the **immediate spark**. It was **not** the only cause.
 
-> **Exam note:** Awadh 1856 ≠ Doctrine of Lapse. Greased cartridge = spark, not the full explanation.
+> ** note:** Awadh 1856 ≠ Doctrine of Lapse. Greased cartridge = spark, not the full explanation.
 
 ---
 
@@ -174,7 +174,7 @@ The **Government of India Act, 1858** ended East India Company rule and transfer
 | **4 June 1857** | Lucknow | Rising (correct pair in 2023 Q40) |
 | **June 1857** | Jhansi | Rising — **not 11 May** |
 
-> **Exam note:** Barrackpore is the **spark**. Meerut is the **beginning**. Unmatched date trap: **Jhansi — 11 May 1857** (Jhansi rose in **June**, not May).
+> ** note:** Barrackpore is the **spark**. Meerut is the **beginning**. Unmatched date trap: **Jhansi — 11 May 1857** (Jhansi rose in **June**, not May).
 
 ---
 
@@ -199,16 +199,16 @@ UPPCS asks **place ↔ leader** and **place ↔ date**. Learn this table as one 
 - Jhansi did **not** rise on 11 May 1857. That date belongs to the Delhi week. Jhansi rose in **June 1857**.
 - Bareilly’s leader is **Khan Bahadur Khan**, not Begum Hazrat Mahal.
 
-> **Exam note:** Wrong pair in 2023 Q40 = **Jhansi — 11 May 1857**.
+> ** note:** Wrong pair in 2023 Q40 = **Jhansi — 11 May 1857**.
 
 **PYQ — UPPCS Prelims 2023, Q40**
 
 Which one of the following pairs (**Place of the Revolt of 1857 — Start of Rebellion**) is **not** correctly matched?
 
-Options:  
-A. Barrackpore — 29 March 1857  
-B. Meerut — 10 May 1857  
-C. Lucknow — 4 June 1857  
+Options:
+A. Barrackpore — 29 March 1857
+B. Meerut — 10 May 1857
+C. Lucknow — 4 June 1857
 D. Jhansi — 11 May 1857
 
 <details>
@@ -222,67 +222,51 @@ D. Jhansi — 11 May 1857
 
 Each centre had its own local grievance before 1857, its own course of fighting, and its own fall date. Learn each as one small story with Causes, Course and Results, not a bare name.
 
-**Delhi**
-
-**Causes:** Delhi still carried the last Mughal name, so rebels used the city to give the rising a national face and rally point.
+**DelhiCauses:** Delhi still carried the last Mughal name, so rebels used the city to give the rising a national face and rally point.
 
 **Course:** Sepoys marching from Meerut seized the city on 11–12 May 1857; Zafar was proclaimed emperor while **Bakht Khan** organised the real defence and fighting through the summer of 1857.
 
 **Results:** British forces under **John Nicholson** stormed and recaptured Delhi in **September 1857**. Zafar was tried and exiled to **Rangoon**, ending even the symbolic Mughal presence.
 
-**Kanpur**
-
-**Causes:** The British had stopped **Nana Sahib's** pension after Baji Rao II's death, giving him a personal grievance on top of the general political anger felt across Awadh and the Bengal Army belt.
+**KanpurCauses:** The British had stopped **Nana Sahib's** pension after Baji Rao II's death, giving him a personal grievance on top of the general political anger felt across Awadh and the Bengal Army belt.
 
 **Course:** He took political control of Kanpur with **Tantia Tope** commanding the fighting; the **Bibighar** killings happened during his hold on the city.
 
 **Results:** British relief columns under **Havelock** and **Colin Campbell** recaptured Kanpur. Nana Sahib fled towards **Nepal**; Tantia Tope carried the fight on to Jhansi and Gwalior.
 
-**Lucknow**
-
-**Causes:** Awadh's annexation in **1856** had just deposed Nawab **Wajid Ali Shah**, leaving **Begum Hazrat Mahal** and the region's taluqdars with a fresh grievance.
+**LucknowCauses:** Awadh's annexation in **1856** had just deposed Nawab **Wajid Ali Shah**, leaving **Begum Hazrat Mahal** and the region's taluqdars with a fresh grievance.
 
 **Course:** She led the rising from **4 June 1857** and placed her son **Birjis Qadr** on the masnad. The British Residency was besieged for months, and **Henry Lawrence** died defending it.
 
-**Results:** **Colin Campbell** and **Outram** relieved and later recaptured Lucknow. Hazrat Mahal took shelter in **Nepal**.
+**Results:Colin Campbell** and **Outram** relieved and later recaptured Lucknow. Hazrat Mahal took shelter in **Nepal**.
 
-**Jhansi**
-
-**Causes:** Dalhousie's **Doctrine of Lapse** had refused to recognise **Rani Lakshmibai's** adopted son, **Damodar Rao**, and annexed the state.
+**JhansiCauses:** Dalhousie's **Doctrine of Lapse** had refused to recognise **Rani Lakshmibai's** adopted son, **Damodar Rao**, and annexed the state.
 
 **Course:** She rose in **June 1857** and defended Jhansi against **Sir Hugh Rose** in 1858, then moved on with Tantia Tope to **Kalpi** and **Gwalior**.
 
 **Results:** She died fighting near Gwalior on **17/18 June 1858**.
 
-**Bareilly**
+**BareillyCauses:** Bareilly's Rohilla sepoys and townspeople carried the same military and religious grievances that were driving the revolt across the North-Western Provinces.
 
-**Causes:** Bareilly's Rohilla sepoys and townspeople carried the same military and religious grievances that were driving the revolt across the North-Western Provinces.
-
-**Course:** **Khan Bahadur Khan** led the rising here through May–June 1857 and ran local administration for months.
+**Course:Khan Bahadur Khan** led the rising here through May–June 1857 and ran local administration for months.
 
 **Results:** The British recaptured Bareilly in **1858**. Khan Bahadur Khan was later tried and hanged.
 
-**Jagdishpur / Arrah (Bihar)**
-
-**Causes:** **Kunwar Singh**, an aged zamindar of Jagdishpur, faced British pressure on his estate through revenue and legal disputes.
+**Jagdishpur / Arrah (Bihar)Causes:Kunwar Singh**, an aged zamindar of Jagdishpur, faced British pressure on his estate through revenue and legal disputes.
 
 **Course:** He led the Jagdishpur–Arrah rising from **July 1857**, fighting a mobile campaign across Bihar into 1858.
 
 **Results:** Wounded in later fighting, he died on **26 April 1858**, soon after a final victory near his home.
 
-**Faizabad**
+**FaizabadCauses:** Faizabad sat inside the Awadh–NWP belt, where annexation and taluqdar grievances ran deepest, and it also held a strong body of religious and military opinion against the British.
 
-**Causes:** Faizabad sat inside the Awadh–NWP belt, where annexation and taluqdar grievances ran deepest, and it also held a strong body of religious and military opinion against the British.
-
-**Course:** **Maulvi Ahmadullah Shah** led the rising at Faizabad from 1857 and then fought on in the Lucknow region alongside Begum Hazrat Mahal's forces.
+**Course:Maulvi Ahmadullah Shah** led the rising at Faizabad from 1857 and then fought on in the Lucknow region alongside Begum Hazrat Mahal's forces.
 
 **Results:** The Faizabad rising was suppressed along with the wider Awadh revolt by 1858; Maulvi Ahmadullah Shah was later killed through betrayal while still resisting near Lucknow.
 
-**Allahabad**
+**AllahabadCauses:** Allahabad, like Faizabad, sat in the Awadh–NWP belt and shared its annexation and taluqdar grievances, and its garrison carried the same sepoy discontent as the rest of the Bengal Army.
 
-**Causes:** Allahabad, like Faizabad, sat in the Awadh–NWP belt and shared its annexation and taluqdar grievances, and its garrison carried the same sepoy discontent as the rest of the Bengal Army.
-
-**Course:** **Maulvi Liaquat Ali** led the rising at Allahabad from June 1857, taking local control of the city and region for a period before the British counter-attack.
+**Course:Maulvi Liaquat Ali** led the rising at Allahabad from June 1857, taking local control of the city and region for a period before the British counter-attack.
 
 **Results:** Colonel **Neill's** repression at Allahabad was especially harsh, and the rising was suppressed by 1858; the **Queen's Proclamation** was later read at Allahabad on **1 November 1858**, marking the city as the site where Crown rule was formally announced.
 
@@ -300,14 +284,14 @@ The six named leaders of the syllabus have their own headings below. These are t
 - **Azimullah Khan** was the political adviser of **Nana Sahib**.
 - **Birjis Qadr**, son of Begum Hazrat Mahal, was seated as the young ruler at Lucknow.
 
-**British commanders (exam pairs)**
+**British commanders (pairs)**
 
 - **John Nicholson** led the assault that recaptured **Delhi** in **September 1857**. He was killed in the assault. Hodson captured Zafar.
 - **Henry Lawrence** defended the **Lucknow Residency** and died during the siege.
 - **Havelock** and later **Colin Campbell** operated at **Kanpur** and in the relief of **Lucknow**. **Outram** also took part in the Lucknow operations.
 - **Sir Hugh Rose** led the campaign against **Jhansi, Kalpi and Gwalior**.
 
-> **Exam note:** Bareilly’s leader is **Khan Bahadur Khan**. Do not put Hazrat Mahal, Nana Sahib or Kunwar Singh at Bareilly.
+> ** note:** Bareilly’s leader is **Khan Bahadur Khan**. Do not put Hazrat Mahal, Nana Sahib or Kunwar Singh at Bareilly.
 
 **PYQ — UPPCS Prelims 2023, Q46**
 
@@ -343,7 +327,7 @@ Centre, leader and start-date are in the table above. These are the other places
 - **Bahadur Shah Zafar** was exiled to **Rangoon**.
 - **Allahabad** saw harsh repression under Colonel Neill. The **Queen’s Proclamation** was read here on **1 November 1858**.
 
-> **Exam note:** Lakshmibai died at **Gwalior in 1858**, not at the first fall of Jhansi in 1857.
+> ** note:** Lakshmibai died at **Gwalior in 1858**, not at the first fall of Jhansi in 1857.
 
 ---
 
@@ -369,11 +353,11 @@ Centre, leader and start-date are in the table above. These are the other places
 - The British used the **telegraph** and **railways** to move troops.
 - Large parts of the South and Punjab did not join.
 
-> **Exam note:** Crown rule begins in **1858**, not on 10 May 1857. Canning, not Dalhousie, was the first Viceroy.
+> ** note:** Crown rule begins in **1858**, not on 10 May 1857. Canning, not Dalhousie, was the first Viceroy.
 
 ---
 
-## Must-score locks — centres, leaders, aftermath
+## Must-score facts — centres, leaders, aftermath
 
 ### Centre ↔ leader
 
@@ -388,7 +372,7 @@ Centre, leader and start-date are in the table above. These are the other places
 | Faizabad | Maulvi Ahmadullah Shah |
 | Allahabad | Maulvi Liaquat Ali |
 
-### Date locks
+### Date facts
 
 | Event | Date |
 |-------|------|
@@ -410,7 +394,7 @@ Centre, leader and start-date are in the table above. These are the other places
 
 **Results:** She died fighting near Gwalior on **17/18 June 1858**, becoming the most celebrated martyr-figure of the revolt.
 
-> **Exam note:** The **Rani Jhansi Regiment** of the INA was raised by **Subhas Chandra Bose**. It is not an 1857 fact.
+> ** note:** The **Rani Jhansi Regiment** of the INA was raised by **Subhas Chandra Bose**. It is not an 1857 fact.
 
 ---
 
@@ -424,7 +408,7 @@ Centre, leader and start-date are in the table above. These are the other places
 
 **Results:** After British forces under Havelock and Colin Campbell recaptured Kanpur, he fled towards **Nepal**; his later end is not clearly known.
 
-> **Exam note:** Nana Sahib is **Kanpur**, not Bareilly.
+> ** note:** Nana Sahib is **Kanpur**, not Bareilly.
 
 ---
 
@@ -438,7 +422,7 @@ Centre, leader and start-date are in the table above. These are the other places
 
 **Results:** He was captured after betrayal and hanged at **Shivpuri** on **18 April 1859**, one of the last major rebel leaders to fall.
 
-> **Exam note:** Tantia Tope is a general, not the Nawab of Awadh and not the leader of Bareilly.
+> ** note:** Tantia Tope is a general, not the Nawab of Awadh and not the leader of Bareilly.
 
 ---
 
@@ -452,13 +436,13 @@ Centre, leader and start-date are in the table above. These are the other places
 
 **Results:** He was wounded in later fighting and died on **26 April 1858**, shortly after a final victory near his own home.
 
-> **Exam note:** Kunwar Singh belongs to **Bihar**, not to Lucknow, Bareilly or Jhansi.
+> ** note:** Kunwar Singh belongs to **Bihar**, not to Lucknow, Bareilly or Jhansi.
 
 **PYQ — UPPCS Prelims 2024, Q148**
 
 Consider the following statements:
 
-1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.  
+1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
 2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
 
 Which of the above statements is/are correct?
@@ -490,7 +474,7 @@ D. Both 1 and 2
 
 **Results:** After Lucknow fell she took shelter in **Nepal**, ending her direct role in the revolt.
 
-> **Exam note:** Begum Hazrat Mahal is **Lucknow / Awadh**, not Bareilly.
+> ** note:** Begum Hazrat Mahal is **Lucknow / Awadh**, not Bareilly.
 
 ---
 
@@ -504,7 +488,7 @@ D. Both 1 and 2
 
 **Results:** His act became the first famous spark of 1857, though it did not itself trigger a mass rising — that came five weeks later at **Meerut on 10 May 1857**, a separate and larger event.
 
-> **Exam note:** Mangal Pandey = **Barrackpore, 29 March**. Meerut = **10 May**.
+> ** note:** Mangal Pandey = **Barrackpore, 29 March**. Meerut = **10 May**.
 
 ---
 
@@ -521,17 +505,17 @@ D. Both 1 and 2
 
 Consider the following events and arrange them in correct chronological order.
 
-1. Acquisition of Awadh by the British  
-2. Ilbert Bill Controversy  
-3. Indigo Revolt  
+1. Acquisition of Awadh by the British
+2. Ilbert Bill Controversy
+3. Indigo Revolt
 4. Second Anglo-Afghan War
 
 Select the correct answer from the code given below:
 
-Options:  
-A. 1, 3, 4, 2  
-B. 3, 1, 2, 4  
-C. 3, 1, 4, 2  
+Options:
+A. 1, 3, 4, 2
+B. 3, 1, 2, 4
+C. 3, 1, 4, 2
 D. 1, 3, 2, 4
 
 <details>
@@ -541,7 +525,7 @@ D. 1, 3, 2, 4
 
 </details>
 
-> **Exam note:** Awadh was annexed in **1856**. It is a **cause** of 1857, not a result of 1857.
+> ** note:** Awadh was annexed in **1856**. It is a **cause** of 1857, not a result of 1857.
 
 ---
 
@@ -559,20 +543,18 @@ Present-day Uttar Pradesh (then the North-Western Provinces plus Awadh) was the 
 
 In this region sepoys, peasants and taluqdars rose together more than in the South or Punjab.
 
-> **Exam note:** Kunwar Singh is **Bihar**. Jhansi is **Bundelkhand**. Both are asked with UP centres, but they are not UP towns.
+> ** note:** Kunwar Singh is **Bihar**. Jhansi is **Bundelkhand**. Both are asked with UP centres, but they are not UP towns.
 
 ---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **40 questions.**
+> **40 questions.Q1.** Which one of the following pairs (Place of the Revolt of 1857 — Start of Rebellion) is **not** correctly matched?
 
-**Q1.** Which one of the following pairs (Place of the Revolt of 1857 — Start of Rebellion) is **not** correctly matched?
-
-Options:  
-A. Barrackpore — 29 March 1857  
-B. Meerut — 10 May 1857  
-C. Lucknow — 4 June 1857  
+Options:
+A. Barrackpore — 29 March 1857
+B. Meerut — 10 May 1857
+C. Lucknow — 4 June 1857
 D. Jhansi — 11 May 1857
 
 <details>
@@ -586,8 +568,8 @@ D. Jhansi — 11 May 1857
 
 **Q2.** Match List-I with List-II.
 
-**List-I (Centre)** A. Bareilly  B. Kanpur  C. Lucknow  D. Jagdishpur  
-**List-II (Leader)** 1. Nana Sahib  2. Kunwar Singh  3. Khan Bahadur Khan  4. Begum Hazrat Mahal
+**List-I (Centre)** A. Bareilly B. Kanpur C. Lucknow D. Jagdishpur
+**List-II (Leader)** 1. Nana Sahib 2. Kunwar Singh 3. Khan Bahadur Khan 4. Begum Hazrat Mahal
 
 A. 3 1 4 2
 
@@ -608,7 +590,7 @@ D. 4 1 3 2
 
 **Q3.** With reference to the beginning of 1857, which of the following statements is/are correct?
 
-1. Mangal Pandey’s attack took place at Barrackpore on 29 March 1857.  
+1. Mangal Pandey’s attack took place at Barrackpore on 29 March 1857.
 2. The mass outbreak of the revolt began at Delhi on 10 May 1857.
 
 A. Only 1
@@ -651,10 +633,10 @@ D. Nana Saheb
 
 Reason (R): Awadh was annexed under the Doctrine of Lapse.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is true but (R) is false
 D. (A) is false but (R) is true
 
 <details>
@@ -668,7 +650,7 @@ D. (A) is false but (R) is true
 
 **Q6.** Consider the following statements:
 
-1. Kunwar Singh, landlord of Jagdishpur in Bihar, led the rebellion against the British.  
+1. Kunwar Singh, landlord of Jagdishpur in Bihar, led the rebellion against the British.
 2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
 
 Which of the statements given above is/are correct?
@@ -690,7 +672,7 @@ D. Both 1 and 2
 
 ---
 
-**Q7.** Arrange: 1. Queen’s Proclamation  2. Meerut outbreak  3. Mangal Pandey incident  4. Recapture of Delhi
+**Q7.** Arrange: 1. Queen’s Proclamation 2. Meerut outbreak 3. Mangal Pandey incident 4. Recapture of Delhi
 
 A. 3, 2, 4, 1
 
@@ -711,8 +693,8 @@ D. 3, 4, 2, 1
 
 **Q8.** Which of the following pairs are NOT correctly matched?
 
-1. Begum Hazrat Mahal — Lucknow  
-2. Khan Bahadur Khan — Bareilly  
+1. Begum Hazrat Mahal — Lucknow
+2. Khan Bahadur Khan — Bareilly
 3. Nana Sahib — Jhansi
 
 A. Only 3
@@ -734,7 +716,7 @@ D. Only 1
 
 **Q9.** With reference to Bahadur Shah Zafar, which of the following statements is/are correct?
 
-1. Rebels proclaimed him emperor at Delhi.  
+1. Rebels proclaimed him emperor at Delhi.
 2. Bakht Khan, not Zafar, organised the main military command at Delhi.
 
 A. Only 1
@@ -756,8 +738,8 @@ D. Neither 1 nor 2
 
 **Q10.** Match List-I with List-II.
 
-**List-I** A. Hugh Rose  B. John Nicholson  C. Henry Lawrence  D. Colin Campbell  
-**List-II** 1. Delhi assault  2. Lucknow Residency (died)  3. Jhansi–Gwalior  4. Relief of Lucknow / Kanpur
+**List-I** A. Hugh Rose B. John Nicholson C. Henry Lawrence D. Colin Campbell
+**List-II** 1. Delhi assault 2. Lucknow Residency (died) 3. Jhansi–Gwalior 4. Relief of Lucknow / Kanpur
 
 A. 3 1 2 4
 
@@ -780,10 +762,10 @@ D. 3 2 1 4
 
 Reason (R): Political annexations and sepoy grievances had already accumulated.
 
-Options:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -797,7 +779,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q12.** With reference to Rani Lakshmibai, which of the following statements is/are correct?
 
-1. Jhansi was taken under the Doctrine of Lapse.  
+1. Jhansi was taken under the Doctrine of Lapse.
 2. She died defending the fort of Jhansi in May 1857.
 
 A. Only 1
@@ -838,7 +820,7 @@ D. 1947
 
 **Q14.** With reference to Nana Sahib, which of the following statements is/are correct?
 
-1. He was the adopted son of Peshwa Baji Rao II.  
+1. He was the adopted son of Peshwa Baji Rao II.
 2. He was the principal rebel leader at Bareilly.
 
 A. Only 1
@@ -858,7 +840,7 @@ D. Neither 1 nor 2
 
 ---
 
-**Q15.** Arrange: 1. Indigo Revolt  2. Acquisition of Awadh  3. Ilbert Bill  4. Second Anglo-Afghan War
+**Q15.** Arrange: 1. Indigo Revolt 2. Acquisition of Awadh 3. Ilbert Bill 4. Second Anglo-Afghan War
 
 A. 2, 1, 4, 3
 
@@ -871,7 +853,7 @@ D. 2, 4, 1, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1856 → 1859 → 1878 → 1883 (2025 Q127).
+**Ans: A** — 1856 → 1859 → 1878 → 1883.
 
 </details>
 
@@ -879,7 +861,7 @@ D. 2, 4, 1, 3
 
 **Q16.** Consider the following statements about the consequences of 1857:
 
-1. The Government of India Act 1858 ended Company rule.  
+1. The Government of India Act 1858 ended Company rule.
 2. Lord Dalhousie became the first Viceroy of India.
 
 Which of the statements given above is/are correct?
@@ -903,8 +885,8 @@ D. Neither 1 nor 2
 
 **Q17.** Which of the following pairs are NOT correctly matched?
 
-1. Tantia Tope hanged — Shivpuri, 1859  
-2. Zafar exiled — Rangoon  
+1. Tantia Tope hanged — Shivpuri, 1859
+2. Zafar exiled — Rangoon
 3. Kunwar Singh — Jhansi
 
 A. Only 3
@@ -928,10 +910,10 @@ D. Only 1
 
 Reason (R): Large parts of the South, Punjab, and several princely states did not join or aided the British.
 
-Options:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -964,8 +946,8 @@ D. 15 August 1858
 
 **Q20.** Match List-I with List-II.
 
-**List-I (Place)** A. Kalpi–Gwalior  B. Arrah  C. Lucknow Residency  D. Barrackpore  
-**List-II** 1. Henry Lawrence  2. Mangal Pandey  3. Kunwar Singh  4. Lakshmibai / Tantia last phase
+**List-I (Place)** A. Kalpi–Gwalior B. Arrah C. Lucknow Residency D. Barrackpore
+**List-II** 1. Henry Lawrence 2. Mangal Pandey 3. Kunwar Singh 4. Lakshmibai / Tantia last phase
 
 A. 4 3 1 2
 
@@ -986,7 +968,7 @@ D. 4 1 3 2
 
 **Q21.** With reference to Awadh, which of the following statements is/are correct?
 
-1. Wajid Ali Shah was the Nawab when Awadh was annexed.  
+1. Wajid Ali Shah was the Nawab when Awadh was annexed.
 2. Annexation occurred in 1858 as a punishment after the revolt.
 
 A. Only 1
@@ -1008,8 +990,8 @@ D. Neither 1 nor 2
 
 **Q22.** Which of the following pairs are NOT correctly matched?
 
-1. General Service Enlistment Act — 1856  
-2. Queen’s Proclamation — 1 November 1858  
+1. General Service Enlistment Act — 1856
+2. Queen’s Proclamation — 1 November 1858
 3. Meerut outbreak — 29 March 1857
 
 A. Only 3
@@ -1031,7 +1013,7 @@ D. Only 1
 
 **Q23.** With reference to Tantia Tope, which of the following statements is/are correct?
 
-1. He served as Nana Sahib’s principal military commander.  
+1. He served as Nana Sahib’s principal military commander.
 2. He was hanged at Shivpuri in 1859.
 
 A. Only 1
@@ -1053,7 +1035,7 @@ D. Neither 1 nor 2
 
 **Q24.** Consider the following statements:
 
-1. Punjab and the Madras Presidency were the strongest civilian theatres of 1857.  
+1. Punjab and the Madras Presidency were the strongest civilian theatres of 1857.
 2. Uttar Pradesh (NWP + Awadh) formed the core geography of the revolt.
 
 Which of the statements given above is/are correct?
@@ -1096,8 +1078,8 @@ D. Jhansi
 
 **Q26.** Match List-I with List-II.
 
-**List-I** A. Damodar Rao  B. Birjis Qadr  C. Baji Rao II  D. Wajid Ali Shah  
-**List-II** 1. Peshwa (Nana’s adoptive father)  2. Nawab of Awadh  3. Adopted heir of Jhansi  4. Son of Hazrat Mahal
+**List-I** A. Damodar Rao B. Birjis Qadr C. Baji Rao II D. Wajid Ali Shah
+**List-II** 1. Peshwa (Nana’s adoptive father) 2. Nawab of Awadh 3. Adopted heir of Jhansi 4. Son of Hazrat Mahal
 
 A. 3 4 1 2
 
@@ -1120,10 +1102,10 @@ D. 3 1 4 2
 
 Reason (R): Company rule was ended after the revolt.
 
-Options:  
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is true but (R) is false
 D. (A) is false but (R) is true
 
 <details>
@@ -1137,7 +1119,7 @@ D. (A) is false but (R) is true
 
 **Q28.** With reference to Mangal Pandey, which of the following statements is/are correct?
 
-1. He belonged to the 34th Native Infantry at Barrackpore.  
+1. He belonged to the 34th Native Infantry at Barrackpore.
 2. He was hanged on 10 May 1857 at Meerut.
 
 A. Only 1
@@ -1159,7 +1141,7 @@ D. Neither 1 nor 2
 
 **Q29.** Which of the following was a stated pledge of the Queen’s Proclamation of 1858?
 
-1. End of further aggressive annexation as policy  
+1. End of further aggressive annexation as policy
 2. Non-interference in religious beliefs of Indians
 
 A. Only 1
@@ -1179,7 +1161,7 @@ D. Neither 1 nor 2
 
 ---
 
-**Q30.** Arrange: 1. Fall of Gwalior / death of Lakshmibai  2. Barrackpore incident  3. Lucknow rising (4 June)  4. Delhi seized by rebels
+**Q30.** Arrange: 1. Fall of Gwalior / death of Lakshmibai 2. Barrackpore incident 3. Lucknow rising (4 June) 4. Delhi seized by rebels
 
 A. 2, 4, 3, 1
 
@@ -1200,8 +1182,8 @@ D. 2, 4, 1, 3
 
 **Q31.** Which of the following pairs are NOT correctly matched?
 
-1. Bakht Khan — military organiser at Delhi  
-2. Azimullah Khan — adviser of Nana Sahib  
+1. Bakht Khan — military organiser at Delhi
+2. Azimullah Khan — adviser of Nana Sahib
 3. Khan Bahadur Khan — leader at Kanpur
 
 A. Only 3
@@ -1223,7 +1205,7 @@ D. Only 1
 
 **Q32.** With reference to failure of 1857, which of the following statements is/are correct?
 
-1. Several Sikh and Gurkha units fought on the British side.  
+1. Several Sikh and Gurkha units fought on the British side.
 2. Rebels possessed a single national command equal to the Company’s.
 
 A. Only 1
@@ -1245,7 +1227,7 @@ D. Neither 1 nor 2
 
 **Q33.** Consider the following statements:
 
-1. The Rani Jhansi Regiment of INA was raised during the Revolt of 1857.  
+1. The Rani Jhansi Regiment of INA was raised during the Revolt of 1857.
 2. Lakshmibai of Jhansi fought Hugh Rose in 1858.
 
 Which of the statements given above is/are correct?
@@ -1271,10 +1253,10 @@ D. Neither 1 nor 2
 
 Reason (R): Annexation and land-settlement changes had eroded their position.
 
-Options:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
@@ -1288,7 +1270,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q35.** Which of the following statements is/are correct?
 
-1. Maulvi Liaquat Ali is associated with Allahabad in 1857.  
+1. Maulvi Liaquat Ali is associated with Allahabad in 1857.
 2. The Queen’s Proclamation was read at Allahabad.
 
 A. Only 1
@@ -1310,7 +1292,7 @@ D. Neither 1 nor 2
 
 **Q36.** With reference to Kanpur (1857), which of the following statements is/are correct?
 
-1. Nana Sahib was the political leader.  
+1. Nana Sahib was the political leader.
 2. Tantia Tope was a British commander sent to relieve the Residency.
 
 A. Only 1
@@ -1351,7 +1333,7 @@ D. Permanent Settlement
 
 **Q38.** Consider the following statements:
 
-1. Company rule in India ended in 1857 on the day Meerut rose.  
+1. Company rule in India ended in 1857 on the day Meerut rose.
 2. Canning was Governor-General during the revolt and first Viceroy after 1858.
 
 Which of the statements given above is/are correct?
@@ -1375,8 +1357,8 @@ D. Neither 1 nor 2
 
 **Q39.** Which of the following pairs are correctly matched?
 
-1. Jhansi start — June 1857  
-2. Lucknow start — 4 June 1857  
+1. Jhansi start — June 1857
+2. Lucknow start — 4 June 1857
 3. Barrackpore — 10 May 1857
 
 A. 1 and 2 only
@@ -1398,7 +1380,7 @@ D. 1, 2 and 3
 
 **Q40.** With reference to 1857 in Uttar Pradesh, which of the following statements is/are correct?
 
-1. Meerut, Lucknow, Kanpur and Bareilly were major UP-linked centres.  
+1. Meerut, Lucknow, Kanpur and Bareilly were major UP-linked centres.
 2. Kunwar Singh’s home base was Lucknow.
 
 A. Only 1
@@ -1426,23 +1408,23 @@ D. Neither 1 nor 2
 
 Consider the following events and arrange them in correct chronological order.
 
-1. Acquisition of Awadh by the British  
-2. Ilbert Bill Controversy  
-3. Indigo Revolt  
+1. Acquisition of Awadh by the British
+2. Ilbert Bill Controversy
+3. Indigo Revolt
 4. Second Anglo-Afghan War
 
 Select the correct answer from the code given below:
 
-Options:  
-A. 1, 3, 4, 2  
-B. 3, 1, 2, 4  
-C. 3, 1, 4, 2  
+Options:
+A. 1, 3, 4, 2
+B. 3, 1, 2, 4
+C. 3, 1, 4, 2
 D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Awadh **1856** is this topic’s lock (cause of 1857).
+**Ans: A** — Awadh **1856** is this topic’s fact (cause of 1857).
 
 </details>
 
@@ -1452,15 +1434,15 @@ D. 1, 3, 2, 4
 
 Consider the following statements:
 
-1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.  
+1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
 2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
 
 Which of the above statements is/are correct?
 
-Options:  
-A. Only 2  
-B. Neither 1 nor 2  
-C. Only 1  
+Options:
+A. Only 2
+B. Neither 1 nor 2
+C. Only 1
 D. Both 1 and 2
 
 <details>
@@ -1476,10 +1458,10 @@ D. Both 1 and 2
 
 Which one of the following pairs (**Place of the Revolt of 1857 — Start of Rebellion**) is **not** correctly matched?
 
-Options:  
-A. Barrackpore — 29 March 1857  
-B. Meerut — 10 May 1857  
-C. Lucknow — 4 June 1857  
+Options:
+A. Barrackpore — 29 March 1857
+B. Meerut — 10 May 1857
+C. Lucknow — 4 June 1857
 D. Jhansi — 11 May 1857
 
 <details>
@@ -1493,10 +1475,10 @@ D. Jhansi — 11 May 1857
 
 Who was the leader of the revolt in **Bareilly (Uttar Pradesh)** during the Revolt of 1857?
 
-Options:  
-A. Hazrat Mahal  
-B. Khan Bahadur Khan  
-C. Kunwar Singh  
+Options:
+A. Hazrat Mahal
+B. Khan Bahadur Khan
+C. Kunwar Singh
 D. Nana Saheb
 
 <details>
@@ -1511,7 +1493,7 @@ D. Nana Saheb
 ## Common Traps — Don't Fall For These
 
 1. **Jhansi started 11 May 1857** → **June 1857** (2023 Q40 = **D**).
-2. **Bareilly = Hazrat Mahal / Nana / Kunwar** → **Khan Bahadur Khan** (2023 Q46).
+2. **Bareilly = Hazrat Mahal / Nana / Kunwar** → **Khan Bahadur Khan**.
 3. **Dalhousie accepted Lakshmibai’s heir** → **false** (2024 Q148 = **Only 1**).
 4. **Revolt began at Delhi** → mass outbreak **Meerut 10 May**.
 5. **Awadh annexed by Lapse** → **misrule, 1856**.

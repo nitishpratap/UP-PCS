@@ -8,13 +8,13 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 </details>
 
-> **Sources baked in:** IPCC AR6, UNEP reports, UNDP HDR, IUCN Red List, WWF Living Planet Report, FAO SOFO, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — org ↔ report ↔ HQ matching  
+> **Sources baked in:** IPCC AR6, UNEP reports, UNDP HDR, IUCN Red List, WWF Living Planet Report, FAO SOFO, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — org ↔ report ↔ HQ matching
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 24 Must-Score Locks
+## Consolidated — 24 Must-Score Facts
 
 1. **IPCC** sits in **Geneva**, issues Assessment Reports, and synthesises climate science. It does **not** set NDCs and is **not** the UNFCCC treaty body.
 2. IPCC was established in **1988** by **WMO and UNEP** and shared the Nobel Peace Prize in **2007**.
@@ -43,7 +43,7 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -72,7 +72,7 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 - IPCC **synthesises existing science**. It does **not** conduct primary research or set emission targets.
 - **UNFCCC** is the **treaty body** where countries negotiate **NDCs** at **COP** meetings. IPCC informs but does not decide policy.
 
-> **Exam note:** "IPCC sets Paris Agreement targets" = **false**.
+> ** note:** "IPCC sets Paris Agreement targets" = **false**.
 
 | Body | Role |
 |------|------|
@@ -105,7 +105,7 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 
 **PYQ — UPPCS Prelims 2025, Q145**
 
-1. GEF established in 1991.  
+1. GEF established in 1991.
 2. Only developed countries are donors.
 
 <details><summary>Show answer</summary>
@@ -129,7 +129,7 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 
 **PYQ — UPPCS Prelims 2025, Q132**
 
-1. UNDP published first HDR with HDI in 1990.  
+1. UNDP published first HDR with HDI in 1990.
 2. HDI team led by Mahbub-ul-Haq and S. Priesner.
 
 <details><summary>Show answer</summary>
@@ -157,7 +157,7 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 - IUCN **assesses scientific risk**. It does **not** regulate international trade — **CITES** does that.
 - IUCN provides scientific input to **CBD and CITES** but is a separate organisation.
 
-> **Exam note:** "IUCN bans wildlife trade" = **false** — **CITES** regulates trade.
+> ** note:** "IUCN bans wildlife trade" = **false** — **CITES** regulates trade.
 
 ---
 
@@ -195,9 +195,7 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
-
-**Q1.** IPCC was established in:
+> **30 questionsQ1.** IPCC was established in:
 
 A. 1972
 
@@ -661,7 +659,7 @@ D. UNEP
 
 </details>
 
-**Q30.** Assertion (A): IUCN and CITES perform the same function.  
+**Q30.** Assertion (A): IUCN and CITES perform the same function.
 Reason (R): Both deal with endangered species.
 
 A. Both true; R explains A
@@ -682,13 +680,7 @@ D. Both false
 
 ## Complete PYQ Bank (Topic 19)
 
-**Q1. UPPCS 2024, Q6** — Emissions Gap = UNEP; HDR = UNDP → **Ans: A (3 1 4 2)**
-
-**Q2. UPPCS 2025, Q132** — HDR 1990 true; Priesner false → **Ans: D**
-
-**Q3. UPPCS 2025, Q145** — GEF 1991 → **Ans: D (Only 1)**
-
-**Q4. UPSC pattern** — IPCC by WMO + UNEP, 1988
+**Q1. UPPCS 2024, Q6** — Emissions Gap = UNEP; HDR = UNDP → **Ans: A (3 1 4 2)Q2. UPPCS 2025, Q132** — HDR 1990 true; Priesner false → **Ans: DQ3. UPPCS 2025, Q145** — GEF 1991 → **Ans: D (Only 1)Q4. UPSC pattern** — IPCC by WMO + UNEP, 1988
 
 **Q5. UPSC pattern** — UNEP HQ Nairobi
 
@@ -708,7 +700,7 @@ D. Both false
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | IPCC sets NDCs | **UNFCCC/COP** |
 | IPCC = UNFCCC | **Science vs treaty** |

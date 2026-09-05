@@ -4,18 +4,18 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Sustainable Development:** SD | SDGs | SDGs 2030 | Objectives | Indicators | Dimensions | Brundtland Report  
+**Sustainable Development:** SD | SDGs | SDGs 2030 | Objectives | Indicators | Dimensions | Brundtland Report
 **Environmental Governance:** Governance | Environmental Justice | Environmental Ethics | Green Economy | Circular Economy
 
 </details>
 
-> **Sources baked in:** Brundtland Report 1987, UN SDGs 2030, Rio 1992/Agenda 21, UNEP Green Economy 2011, NCERT, NITI Aayog SDG Index, UPPCS PYQs 2018–2025  
-> **Exam weight:** ★★★ High — SD A/R traps, 17 SDGs, Brundtland vs Limits to Growth, LiFE, UP Planning Dept  
+> **Sources baked in:** Brundtland Report 1987, UN SDGs 2030, Rio 1992/Agenda 21, UNEP Green Economy 2011, NCERT, NITI Aayog SDG Index, UPPCS PYQs 2018–2025
+> **Weight:** ★★★ High — SD A/R traps, 17 SDGs, Brundtland vs Limits to Growth, LiFE, UP Planning Dept
 > **Last verified:** August 2026
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. **Sustainable development** (Brundtland **1987**, *Our Common Future*) means meeting present needs without compromising future generations’ ability to meet theirs.
 2. Brundtland is **not** *Limits to Growth* (Club of Rome, **1972**).
@@ -24,7 +24,7 @@
 5. Indicators include **HDI (UNDP)**, ecological footprint, NITI Aayog SDG Index, global SDG indicator sets, and EPI.
 6. **SDGs** were adopted in **September 2015**, run to **2030**, and include **17 goals** and **169 targets**.
 7. SDGs replaced **MDGs** (8 goals, **2000–2015**) and apply universally to all countries.
-8. Goal locks worth ratta include SDG **6** water, **7** energy, **13** climate, **14** life below water, and **15** life on land.
+8. Goal facts worth ratta include SDG **6** water, **7** energy, **13** climate, **14** life below water, and **15** life on land.
 9. Conference chain: **Stockholm 1972 → Brundtland 1987 → Rio and Agenda 21 in 1992 → SDGs 2015**.
 10. **Agenda 21** is Rio **1992**, not 1995.
 11. **LiFE Mission** launched in **June 2022**; the idea was floated at **COP26 Glasgow 2021**, not COP25.
@@ -35,7 +35,7 @@
 16. Environmental justice means fair distribution of environmental benefits and burdens plus fair participation in decisions.
 17. Bhopal **1984** led to EPA **1986**. UP justice/pollution examples include Kanpur tanneries and the Singrauli coal belt.
 18. Ethics labels: **anthropocentrism** (human-centred), **biocentrism** (all life), **ecocentrism** (ecosystems). Leopold’s Land Ethic is **1949**; deep ecology links to **Arne Næss**.
-19. Gandhi’s **trusteeship** is a frequent Indian environmental-ethics lock.
+19. Gandhi’s **trusteeship** is a frequent Indian environmental-ethics fact.
 20. **Green economy** (UNEP **2011** line) means low-carbon, resource-efficient, socially inclusive growth.
 21. **Circular economy** redesigns take-make-dispose into reduce-reuse-recycle loops, often with **EPR** rules. Circular sits inside, but is not identical to, green economy.
 22. Example scheme–SDG matches: Jal Jeevan / Swachh Bharat → SDG **6**; SAUBHAGYA / UJALA → SDG **7**; NAPCC / Net Zero 2070 → SDG **13**.
@@ -43,12 +43,12 @@
 24. HDI is an UNDP development indicator; it is not itself an MoEFCC clearance tool.
 25. Polluter Pays allocates cleanup cost to the polluter; Precautionary Principle acts under scientific uncertainty — different tools.
 26. Public Trust treats certain natural resources as held for public benefit, not absolute private exhaustion.
-27. Net Zero **2070** is India’s long-term climate lock nested under SDG 13 / Paris NDC politics.
+27. Net Zero **2070** is India’s long-term climate cue nested under SDG 13 / Paris NDC politics.
 28. Sustainable development is intergenerational; “present growth only” options fail the Brundtland test.
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -80,7 +80,7 @@
 
 **PYQ — UPPCS Prelims 2025, Q51**
 
-(A) SD should occur without harming the environment or compromising future generations' needs.  
+(A) SD should occur without harming the environment or compromising future generations' needs.
 (R) Agenda 21 was signed by world leaders in 1995.
 
 A. Both true; R not explanation
@@ -99,7 +99,7 @@ D. Both true; R explains A
 
 **PYQ — UPPCS Prelims 2024, Q51**
 
-(A) SD was popularised by the Brundtland Report.  
+(A) SD was popularised by the Brundtland Report.
 (R) The Brundtland Report is also known as *The Limits to Growth*.
 
 A. Both true; R not explanation
@@ -149,7 +149,7 @@ Goal 1 / Goal 3 / Goal 4 / Goal 6 matched to: (1) Clean Water (2) Quality Educat
 
 **PYQ — UPPCS Prelims 2025, Q120**
 
-(A) India's success is critical for global SDG success.  
+(A) India's success is critical for global SDG success.
 (R) India accounts for nearly one-sixth of world population.
 
 <details><summary>Show answer</summary>
@@ -162,9 +162,9 @@ Goal 1 / Goal 3 / Goal 4 / Goal 6 matched to: (1) Clean Water (2) Quality Educat
 
 Essential for SDG 4 (Quality Education):
 
-1. Free and compulsory education  
-2. School infrastructure and digital transformation  
-3. Expansion of agricultural programmes  
+1. Free and compulsory education
+2. School infrastructure and digital transformation
+3. Expansion of agricultural programmes
 4. Increasing investment in technology
 
 <details><summary>Show answer</summary>
@@ -227,7 +227,7 @@ Essential for SDG 4 (Quality Education):
 
 UP department preparing SDG National Indicator Framework Progress Report:
 
-1. Finance  2. Education  3. Planning
+1. Finance 2. Education 3. Planning
 
 <details><summary>Show answer</summary>
 
@@ -237,7 +237,7 @@ UP department preparing SDG National Indicator Framework Progress Report:
 
 **PYQ — UPPCS Prelims 2025, Q139**
 
-1. LiFE was launched in June 2022.  
+1. LiFE was launched in June 2022.
 2. The idea was proposed at COP-25 in Madrid.
 
 <details><summary>Show answer</summary>
@@ -246,7 +246,7 @@ UP department preparing SDG National Indicator Framework Progress Report:
 
 </details>
 
-| Concept | Lock |
+| Concept | Fact |
 |---------|------|
 | Environmental justice | Fair distribution + participation |
 | Anthropocentrism | Human-centred value |
@@ -282,9 +282,7 @@ UP department preparing SDG National Indicator Framework Progress Report:
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions**
-
-**Q1.** Brundtland Report was published in:
+> **30 questionsQ1.** Brundtland Report was published in:
 
 A. 1972
 
@@ -748,7 +746,7 @@ D. Gender Equality
 
 </details>
 
-**Q30.** Assertion (A): SD balances economic, social, and environmental progress.  
+**Q30.** Assertion (A): SD balances economic, social, and environmental progress.
 Reason (R): SD means stopping all industrial development.
 
 A. Both true; R explains A
@@ -769,25 +767,9 @@ D. Both false
 
 ## Complete PYQ Bank (Topic 15)
 
-**Q1. UPPCS 2025, Q51** — SD A/R; Agenda 21 not 1995 → **Ans: C**
+**Q1. UPPCS 2025, Q51** — SD A/R; Agenda 21 not 1995 → **Ans: CQ2. UPPCS 2024, Q51** — Brundtland ≠ Limits to Growth → **Ans: DQ3. UPPCS 2025, Q142** — SDG matching 1/3/4/6 → **Ans: BQ4. UPPCS 2025, Q120** — India critical for global SDGs → **Ans: DQ5. UPPCS 2025, Q111** — UP Planning Dept SDG report → **Ans: BQ6. UPPCS 2025, Q139** — LiFE June 2022; not COP-25 → **Ans: DQ7. UPPCS 2024, Q98** — SDG 4 measures → **Ans: AQ8. UPPCS 2025, Q22 (crossover)** — Carrying capacity / absorption limit → SD operational test
 
-**Q2. UPPCS 2024, Q51** — Brundtland ≠ Limits to Growth → **Ans: D**
-
-**Q3. UPPCS 2025, Q142** — SDG matching 1/3/4/6 → **Ans: B**
-
-**Q4. UPPCS 2025, Q120** — India critical for global SDGs → **Ans: D**
-
-**Q5. UPPCS 2025, Q111** — UP Planning Dept SDG report → **Ans: B**
-
-**Q6. UPPCS 2025, Q139** — LiFE June 2022; not COP-25 → **Ans: D**
-
-**Q7. UPPCS 2024, Q98** — SDG 4 measures → **Ans: A**
-
-**Q8. UPPCS 2025, Q22 (crossover)** — Carrying capacity / absorption limit → SD operational test
-
-**Q9. UPSC pattern** — Bhopal led to → **EPA 1986**
-
-**Q10. UPSC pattern** — UNEP green economy emphasises → **Well-being + equity + lower environmental risk**
+**Q9. UPSC pattern** — Bhopal led to → **EPA 1986Q10. UPSC pattern** — UNEP green economy emphasises → **Well-being + equity + lower environmental risk**
 
 ---
 
@@ -799,7 +781,7 @@ D. Both false
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct lock |
+| Trap | Correct fact |
 |------|----------------|
 | Agenda 21 = 1995 | **Rio 1992** |
 | Brundtland = Limits to Growth | ***Our Common Future* 1987** |

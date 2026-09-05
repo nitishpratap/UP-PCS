@@ -349,7 +349,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: It introduced open competition for the Indian Civil Service.** The Macaulay Committee followed, and exams were soon held in London.
+**Ans: It introduced open competition for the Indian Civil Service.** The Macaulay Committee followed, and civil-service tests were soon held in London.
 
 </details>
 

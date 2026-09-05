@@ -10,14 +10,14 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 </details>
 
-> **Sources baked in:** edicts, Prayag, Hathigumpha, Arthashastra, *Indica*, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — Agronomai, Bhagadugha, Dhamma-mahamatra, inscription pairs  
-> **Last verified:** August 2026  
+> **Sources baked in:** edicts, Prayag, Hathigumpha, Arthashastra, *Indica*, UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — Agronomai, Bhagadugha, Dhamma-mahamatra, inscription pairs
+> **Last verified:** August 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 28 Must-Score Locks
+## Consolidated — 28 Must-Score Facts
 
 1. Political time-order for titles and inscriptions runs **Vedic rajan → Magadha houses → Maurya → Shunga / Kharavela / Kushan / Satavahana → Gupta → Harsha**.
 2. **Ashoka** on edicts is **Devanampiya Piyadassi**. His personal name appears at **Maski** (and Gujarra, Nittur, Udegolam). **Bindusara** is **Amitraghata**.
@@ -26,7 +26,7 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 5. **Hathigumpha** = **Kharavela**. **Ayodhya** = Pushyamitra’s two **ashwamedhas**. **Besnagar** = Heliodorus, **not** Pushyamitra.
 6. **Prayag Prashasti** = **Samudragupta** by **Harishena** on the Allahabad Ashokan shaft. **Aihole** = **Pulakeshin II** stopping Harsha.
 7. **Girnar / Junagadh** rock carries three ages: **Ashoka**, then **Rudradaman**, then **Skandagupta**.
-8. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is **Samudragupta**. Sarvavarman’s lock is the **Asirgarh** seal.
+8. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is **Samudragupta**. Sarvavarman’s fact is the **Asirgarh** seal.
 9. Correct Maukhari / later pairs: **Ishanavarman–Haraha**, **Ishvaravarman–Jaunpur**, **Jivitagupta II–Deo-Baranark**.
 10. Vedic **Bhagadugha** is the **revenue** collector of the king’s share. **Akshavapa** is the **dice / gambling** officer — the classic trap.
 11. Vedic **Sabha** is the smaller elder council. **Samiti** is the larger tribal assembly. There is no Samaharta or Uparika in the Vedic list.
@@ -50,7 +50,7 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ---
 
-## Confused Pairs (exam killers)
+## Confused Pairs
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -81,7 +81,7 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 - The last ancient north reunion is **Harsha** of the Pushyabhuti house, **606–647**. The capital shifts from Thanesar to Kannauj.
 - The best ID for a king is his **inscription**. Coins come next. Puranas come last.
 
-| Kind | Examples | Exam use |
+| Kind | Examples | use |
 |------|----------|----------|
 | **Literary** | Veda, Purana, Tripitaka, Sangam | doctrine, inflated king-lists |
 | **Epigraphy** | edicts, Hathigumpha, Prayag, Nasik, Mehrauli | hardest dates and titles |
@@ -106,7 +106,7 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 - The **Vishnu Purana** carries Maurya genealogy. Only statement 1 is true.
 - The Vayu Purana is **not** a Gupta admin manual.
 
-> **Exam note:** Chandragupta Maurya is not Chandragupta I. Chandragupta I is not Chandragupta II.
+> ** note:** Chandragupta Maurya is not Chandragupta I. Chandragupta I is not Chandragupta II.
 
 ---
 
@@ -123,16 +123,16 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 - **Harsha** is Chinese **Siladitya**. He is also Paramabhattaraka. A Gupta or Harsha feudatory is **Samanta** or **Mahasamanta**.
 - **Chakravartin** is the ideal wheel-turning monarch. It is not one king’s exclusive stamp. Title inflation grows from Gupta grants onward.
 
-> **Exam note:** Vikramaditya is not Samudragupta. Devanampiya is not Harsha.
+> ** note:** Vikramaditya is not Samudragupta. Devanampiya is not Harsha.
 
 **PYQ — UPPCS Prelims 2023, Q29**
 
 With reference to the Puranas, which one of the following statements is correct?
 
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.  
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
 2. Vayu Purana throws light on the Gupta system of governance.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -164,7 +164,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 The inscription of Hathigumpha is the source of information about which king?
 
-A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
+A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 <details>
 <summary>Show answer</summary>
@@ -177,9 +177,9 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 Which of the following inscriptions gives the information about two Ashwamedha Yajnas performed by the King Pushyamitra Shung?
 
-A. Saranath inscription  
-B. Besnagar inscription  
-C. Ayodhya inscription  
+A. Saranath inscription
+B. Besnagar inscription
+C. Ayodhya inscription
 D. Hathigumpha inscription
 
 <details>
@@ -193,10 +193,10 @@ D. Hathigumpha inscription
 
 Match List-I with List-II (Samudragupta’s contemporary kings of South India):
 
-A. Dhananjaya  B. Nilaraja  C. Ugrasena  D. Vishnugopa  
-1. Avamukta  2. Kanchi  3. Kusthalpura  4. Palaka
+A. Dhananjaya B. Nilaraja C. Ugrasena D. Vishnugopa
+1. Avamukta 2. Kanchi 3. Kusthalpura 4. Palaka
 
-A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
+A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -209,9 +209,9 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 
 Which one of the following pairs is **NOT** correctly matched?
 
-A. Ishanavarman — Harha stone inscription  
-B. Sarvavarman — Gaya Copper Plate  
-C. Jivitagupta II — Deva Barnark inscription  
+A. Ishanavarman — Harha stone inscription
+B. Sarvavarman — Gaya Copper Plate
+C. Jivitagupta II — Deva Barnark inscription
 D. Ishwaravarman — Jaunpur stone inscription
 
 <details>
@@ -221,7 +221,7 @@ D. Ishwaravarman — Jaunpur stone inscription
 
 </details>
 
-> **Exam note:** Allahabad shaft = Ashoka first. Gupta layer = Harishena. Not “only Gupta.”
+> ** note:** Allahabad shaft = Ashoka first. Gupta layer = Harishena. Not “only Gupta.”
 
 ---
 
@@ -238,9 +238,9 @@ D. Ishwaravarman — Jaunpur stone inscription
 
 Which officer was known as **'Bhagadugha'** during Vedic administration?
 
-A. Messenger  
-B. Chief Officer of Forests  
-C. Chief Officer of the Gambling Department  
+A. Messenger
+B. Chief Officer of Forests
+C. Chief Officer of the Gambling Department
 D. Revenue Collector
 
 <details>
@@ -262,9 +262,9 @@ D. Revenue Collector
 
 The official 'Agronomai' during Mauryan age was related with which of the following field?
 
-A. Weight and measurement  
-B. Administrative management  
-C. Construction of roads  
+A. Weight and measurement
+B. Administrative management
+C. Construction of roads
 D. Revenue management
 
 <details>
@@ -278,10 +278,10 @@ D. Revenue management
 
 Consider the following statements with respect to Ashoka:
 
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".  
+1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
 2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -301,20 +301,20 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 - Harsha reuses Gupta titles. The **mahasandhivigrahika** is the foreign minister. The **mahapratihara** is the chamberlain. The **bhandagaradhikarana** is the treasury. He still uses the **uparika**.
 - The state is personal. It dies in 647.
 
-| Period | Revenue lock | Province / district | War-peace |
+| Period | Revenue fact | Province / district | War-peace |
 |--------|----------------|---------------------|-----------|
 | Vedic | **Bhagadugha** | — | — |
 | Mauryan | **Samaharta** / Agronomai | Rajuka at district | King + mahamatras |
 | Gupta | grants + bhaga | **Uparika** / **Kumaramatya** | **Sandhivigrahika** |
 | Harsha | grants | **Uparika** | **Mahasandhivigrahika** |
 
-> **Exam note:** Maurya is **centralised**. Gupta and Harsha run a **samanta** (feudatory) system.
+> ** note:** Maurya is **centralised**. Gupta and Harsha run a **samanta** (feudatory) system.
 
 ---
 
 ## 11.5 Mauryan Provincial and Revenue Administration
 
-| Piece | Lock |
+| Piece | Fact |
 |-------|------|
 | Provinces | *Pradeshas*; border provinces often under princes (**kumara**) |
 | Land share | **Bhaga** |
@@ -341,7 +341,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 ## UP Focus
 
-| Lock | Place |
+| Fact | Place |
 |------|--------|
 | Ayodhya inscription | Pushyamitra ashwamedha |
 | Prayag / Allahabad shaft | Ashoka + Harishena |
@@ -357,7 +357,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Q1.** Which officer was known as ‘Bhagadugha’ during Vedic administration?
 
-A. Messenger  B. Chief Officer of Forests  C. Chief Officer of the Gambling Department  D. Revenue Collector
+A. Messenger B. Chief Officer of Forests C. Chief Officer of the Gambling Department D. Revenue Collector
 
 <details>
 <summary>Show answer</summary>
@@ -370,7 +370,7 @@ A. Messenger  B. Chief Officer of Forests  C. Chief Officer of the Gambling Depa
 
 **Q2.** The official ‘Agronomai’ during Mauryan age was related with which field?
 
-A. Weight and measurement  B. Administrative management  C. Construction of roads  D. Revenue management
+A. Weight and measurement B. Administrative management C. Construction of roads D. Revenue management
 
 <details>
 <summary>Show answer</summary>
@@ -383,10 +383,10 @@ A. Weight and measurement  B. Administrative management  C. Construction of road
 
 **Q3.** With respect to Ashoka, which of the following statements is/are correct?
 
-1. The definition of Dhamma is taken from Rahulovada-sutta.  
+1. The definition of Dhamma is taken from Rahulovada-sutta.
 2. Dhamma-mahamatras were appointed in the 14th year.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -399,9 +399,9 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Q4.** Which one of the following pairs is **NOT** correctly matched?
 
-A. Ishanavarman — Harha  
-B. Sarvavarman — Gaya Copper Plate  
-C. Jivitagupta II — Deva Barnark  
+A. Ishanavarman — Harha
+B. Sarvavarman — Gaya Copper Plate
+C. Jivitagupta II — Deva Barnark
 D. Ishwaravarman — Jaunpur
 
 <details>
@@ -415,7 +415,7 @@ D. Ishwaravarman — Jaunpur
 
 **Q5.** Hathigumpha is the source for which king?
 
-A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
+A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 <details>
 <summary>Show answer</summary>
@@ -428,7 +428,7 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 **Q6.** Two ashwamedhas of Pushyamitra are recorded in:
 
-A. Sarnath  B. Besnagar  C. Ayodhya  D. Hathigumpha
+A. Sarnath B. Besnagar C. Ayodhya D. Hathigumpha
 
 <details>
 <summary>Show answer</summary>
@@ -447,7 +447,7 @@ A. Sarnath  B. Besnagar  C. Ayodhya  D. Hathigumpha
 | B. Bindusara | 2. Devanampiya |
 | C. Chandragupta II | 3. Amitraghata |
 
-A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
+A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -460,13 +460,13 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 
 **Q8.** Given below are two statements:
 
-**Assertion (A):** Samaharta collected Mauryan revenue.  
+**Assertion (A):** Samaharta collected Mauryan revenue.
 
 **Reason (R):** Sannidhata stored it.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -480,11 +480,11 @@ D. (A) is false, but (R) is true
 
 **Q9.** Which of the following statements is/are correct?
 
-1. Bhukti is a Gupta province.  
-2. Uparika heads the bhukti.  
+1. Bhukti is a Gupta province.
+2. Uparika heads the bhukti.
 3. Vishaya is headed by the Uparika.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -497,12 +497,12 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q10.** Arrange the rulers in ascending chronological order:
 
-1. Harshavardhana  
-2. Chandragupta Maurya  
-3. Chandragupta I  
+1. Harshavardhana
+2. Chandragupta Maurya
+3. Chandragupta I
 4. Ashoka
 
-A. 2–4–3–1  B. 4–2–3–1  C. 2–3–4–1  D. 2–4–1–3
+A. 2–4–3–1 B. 4–2–3–1 C. 2–3–4–1 D. 2–4–1–3
 
 <details>
 <summary>Show answer</summary>
@@ -515,9 +515,9 @@ A. 2–4–3–1  B. 4–2–3–1  C. 2–3–4–1  D. 2–4–1–3
 
 **Q11.** Which one of the following pairs is **not** correctly matched?
 
-A. Prayag Prashasti — Samudragupta  
-B. Aihole — Pulakeshin II  
-C. Hathigumpha — Harshavardhana  
+A. Prayag Prashasti — Samudragupta
+B. Aihole — Pulakeshin II
+C. Hathigumpha — Harshavardhana
 D. Nasik — Gautamiputra Satakarni
 
 <details>
@@ -531,12 +531,12 @@ D. Nasik — Gautamiputra Satakarni
 
 **Q12.** With reference to Vedic officers, consider the following statements:
 
-1. Bhagadugha collected the king’s share.  
-2. Akshavapa was the gambling officer.  
+1. Bhagadugha collected the king’s share.
+2. Akshavapa was the gambling officer.
 3. Bhagadugha was a Mauryan rajuka.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -549,13 +549,13 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q13.** Given below are two statements:
 
-**Assertion (A):** 2024 Q20 answer is Only 2.  
+**Assertion (A):** 2024 Q20 answer is Only 2.
 
 **Reason (R):** Dhamma-mahamatras in the 14th year is the true statement.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -575,7 +575,7 @@ D. (A) is false, but (R) is true
 | B. Uparika | 2. Mauryan treasury |
 | C. Sannidhata | 3. Mauryan collection |
 
-A. 3 1 2  B. 3 2 1  C. 1 3 2  D. 2 1 3
+A. 3 1 2 B. 3 2 1 C. 1 3 2 D. 2 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -588,11 +588,11 @@ A. 3 1 2  B. 3 2 1  C. 1 3 2  D. 2 1 3
 
 **Q15.** Which of the following statements is/are correct?
 
-1. Maski links the personal name Ashoka with Devanampiya.  
-2. Most major edicts already print the word “Ashoka.”  
-3. Bindusara’s Greek lock is Amitrochates.
+1. Maski links the personal name Ashoka with Devanampiya.
+2. Most major edicts already print the word “Ashoka.”
+3. Bindusara’s Greek fact is Amitrochates.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -605,12 +605,12 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q16.** Arrange these records in the order of the kings who issued them (earliest king first):
 
-1. Prayag Prashasti  
-2. Hathigumpha  
-3. Ayodhya ashwamedha record  
+1. Prayag Prashasti
+2. Hathigumpha
+3. Ayodhya ashwamedha record
 4. Banskhera plate
 
-A. 3–2–1–4  B. 2–3–1–4  C. 3–1–2–4  D. 2–1–3–4
+A. 3–2–1–4 B. 2–3–1–4 C. 3–1–2–4 D. 2–1–3–4
 
 <details>
 <summary>Show answer</summary>
@@ -623,9 +623,9 @@ A. 3–2–1–4  B. 2–3–1–4  C. 3–1–2–4  D. 2–1–3–4
 
 **Q17.** Which one of the following pairs is **not** correctly matched?
 
-A. Kanishka — Devaputra  
-B. Gautamiputra Satakarni — Dakshinapathapati  
-C. Chandragupta I — Vikramaditya  
+A. Kanishka — Devaputra
+B. Gautamiputra Satakarni — Dakshinapathapati
+C. Chandragupta I — Vikramaditya
 D. Harsha — Siladitya
 
 <details>
@@ -639,13 +639,13 @@ D. Harsha — Siladitya
 
 **Q18.** Given below are two statements:
 
-**Assertion (A):** Agronomai is keyed as revenue in 2020.  
+**Assertion (A):** Agronomai is keyed as revenue in 2020.
 
 **Reason (R):** Pautavadhyaksha is the weights officer.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -659,11 +659,11 @@ D. (A) is false, but (R) is true
 
 **Q19.** Which of the following statements is/are correct?
 
-1. Girnar carries Ashoka.  
-2. The same rock carries Rudradaman.  
+1. Girnar carries Ashoka.
+2. The same rock carries Rudradaman.
 3. Skandagupta also repairs Sudarsana there.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -682,7 +682,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 | B. Bhitari | 2. Ishanavarman |
 | C. Banskhera | 3. Skandagupta |
 
-A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
+A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -695,12 +695,12 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 
 **Q21.** With reference to Gupta–Harsha officials, consider the following statements:
 
-1. Sandhivigrahika is Gupta war-and-peace.  
-2. Harsha’s grade is often Mahasandhivigrahika.  
+1. Sandhivigrahika is Gupta war-and-peace.
+2. Harsha’s grade is often Mahasandhivigrahika.
 3. Uparika is a Mauryan invention.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -713,9 +713,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q22.** Which one of the following pairs is **not** correctly matched?
 
-A. Besnagar — Heliodorus  
-B. Ayodhya — Pushyamitra  
-C. Besnagar — Pushyamitra ashwamedha  
+A. Besnagar — Heliodorus
+B. Ayodhya — Pushyamitra
+C. Besnagar — Pushyamitra ashwamedha
 D. Naneghat — Naganika
 
 <details>
@@ -729,13 +729,13 @@ D. Naneghat — Naganika
 
 **Q23.** Given below are two statements:
 
-**Assertion (A):** Chandragupta I is the first Gupta Maharajadhiraja.  
+**Assertion (A):** Chandragupta I is the first Gupta Maharajadhiraja.
 
 **Reason (R):** Sri Gupta and Ghatotkacha stay Maharaja in the record.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -749,11 +749,11 @@ D. (A) is false, but (R) is true
 
 **Q24.** Which of the following statements is/are correct?
 
-1. Sabha is the smaller Vedic council.  
-2. Samiti is the larger tribal assembly.  
+1. Sabha is the smaller Vedic council.
+2. Samiti is the larger tribal assembly.
 3. Both are Mauryan city boards in *Indica*.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -766,12 +766,12 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q25.** Arrange:
 
-1. Gupta samanta order  
-2. Vedic rajan  
-3. Mauryan salaried amatya  
+1. Gupta samanta order
+2. Vedic rajan
+3. Mauryan salaried amatya
 4. Harsha’s personal empire
 
-A. 2–3–1–4  B. 2–1–3–4  C. 3–2–1–4  D. 2–3–4–1
+A. 2–3–1–4 B. 2–1–3–4 C. 3–2–1–4 D. 2–3–4–1
 
 <details>
 <summary>Show answer</summary>
@@ -790,7 +790,7 @@ A. 2–3–1–4  B. 2–1–3–4  C. 3–2–1–4  D. 2–3–4–1
 | B. Skandagupta | 2. Mahendraditya |
 | C. Harsha | 3. Kramaditya |
 
-A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
+A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -803,11 +803,11 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 
 **Q27.** Which of the following statements is/are correct?
 
-1. 2018 Q87 code is 3-1-4-2.  
-2. Vishnugopa is matched with Kanchi.  
+1. 2018 Q87 code is 3-1-4-2.
+2. Vishnugopa is matched with Kanchi.
 3. Dhananjaya is Avamukta.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -820,13 +820,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q28.** Given below are two statements:
 
-**Assertion (A):** 2022 Q87 answer is B.  
+**Assertion (A):** 2022 Q87 answer is B.
 
 **Reason (R):** Jivitagupta II is not the Deo-Baranark king.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -840,9 +840,9 @@ D. (A) is false, but (R) is true
 
 **Q29.** Which one of the following pairs is **not** correctly matched?
 
-A. Rajuka — Mauryan land/justice  
-B. Kumaramatya — Gupta district  
-C. Bhagadugha — Mauryan treasury  
+A. Rajuka — Mauryan land/justice
+B. Kumaramatya — Gupta district
+C. Bhagadugha — Mauryan treasury
 D. Mahapratihara — Harsha palace
 
 <details>
@@ -856,12 +856,12 @@ D. Mahapratihara — Harsha palace
 
 **Q30.** With reference to the Allahabad pillar, consider the following statements:
 
-1. The shaft is Mauryan.  
-2. Prayag Prashasti is the Gupta layer.  
+1. The shaft is Mauryan.
+2. Prayag Prashasti is the Gupta layer.
 3. Hathigumpha is also on this shaft.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -880,7 +880,7 @@ A. Only one  B. Only two  C. All three  D. None
 | B. Chandragupta II | 2. Aihole |
 | C. Kharavela | 3. Hathigumpha |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -893,11 +893,11 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q32.** Which of the following statements is/are correct?
 
-1. Harsha reuses Uparika.  
-2. Bhandagaradhikarana is Harsha’s treasury.  
+1. Harsha reuses Uparika.
+2. Bhandagaradhikarana is Harsha’s treasury.
 3. Harsha invented the bhukti–vishaya grid.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -910,13 +910,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q33.** Given below are two statements:
 
-**Assertion (A):** Mauryan rule is more central than Gupta rule.  
+**Assertion (A):** Mauryan rule is more central than Gupta rule.
 
 **Reason (R):** Gupta samantas punch holes in direct control.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -930,9 +930,9 @@ D. (A) is false, but (R) is true
 
 **Q34.** Which one of the following pairs is **not** correctly matched?
 
-A. Sandrokottos — Chandragupta Maurya  
-B. Amitraghata — Bindusara  
-C. Devanampiya — Chandragupta II  
+A. Sandrokottos — Chandragupta Maurya
+B. Amitraghata — Bindusara
+C. Devanampiya — Chandragupta II
 D. Dakshinapathapati — Gautamiputra Satakarni
 
 <details>
@@ -946,12 +946,12 @@ D. Dakshinapathapati — Gautamiputra Satakarni
 
 **Q35.** Arrange:
 
-1. Dhamma-mahamatras created  
-2. Bhagadugha in Vedic lists  
-3. Uparika on Gupta plates  
+1. Dhamma-mahamatras created
+2. Bhagadugha in Vedic lists
+3. Uparika on Gupta plates
 4. Agronomai described by Megasthenes
 
-A. 2–4–1–3  B. 2–1–4–3  C. 4–2–1–3  D. 2–4–3–1
+A. 2–4–1–3 B. 2–1–4–3 C. 4–2–1–3 D. 2–4–3–1
 
 <details>
 <summary>Show answer</summary>
@@ -964,11 +964,11 @@ A. 2–4–1–3  B. 2–1–4–3  C. 4–2–1–3  D. 2–4–3–1
 
 **Q36.** Which of the following statements is/are correct?
 
-1. 2023 Q29 statement 1 is true.  
-2. 2023 Q29 statement 2 is true.  
+1. 2023 Q29 statement 1 is true.
+2. 2023 Q29 statement 2 is true.
 3. Vishnu Purana is used for Maurya names.
 
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -987,7 +987,7 @@ A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 | B. Bhagadugha | 2. Dice |
 | C. Sangrahitri | 3. Treasurer |
 
-A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1000,13 +1000,13 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 
 **Q38.** Given below are two statements:
 
-**Assertion (A):** 2018 Q91 answer is Ayodhya.  
+**Assertion (A):** 2018 Q91 answer is Ayodhya.
 
 **Reason (R):** Hathigumpha records Pushyamitra’s two ashwamedhas.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1020,12 +1020,12 @@ D. (A) is false, but (R) is true
 
 **Q39.** With reference to titles, consider the following statements:
 
-1. Vikramaditya is Chandragupta II’s lock.  
-2. Mahendraditya is Kumaragupta I.  
+1. Vikramaditya is Chandragupta II’s fact.
+2. Mahendraditya is Kumaragupta I.
 3. Siladitya is Samudragupta.
 
-How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1038,9 +1038,9 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Q40.** Which one of the following pairs is **not** correctly matched?
 
-A. Gaya copper plate — Samudragupta  
-B. Asirgarh seal — Sarvavarman  
-C. Gaya copper plate — Sarvavarman  
+A. Gaya copper plate — Samudragupta
+B. Asirgarh seal — Sarvavarman
+C. Gaya copper plate — Sarvavarman
 D. Deo-Baranark — Jivitagupta II
 
 <details>
@@ -1054,11 +1054,11 @@ D. Deo-Baranark — Jivitagupta II
 
 **Q41.** Which of the following statements is/are correct?
 
-1. Bhitari is Skandagupta vs Hunas.  
-2. Mehrauli names Chandra, usually CG II.  
+1. Bhitari is Skandagupta vs Hunas.
+2. Mehrauli names Chandra, usually CG II.
 3. Aihole is Harsha’s own prasasti.
 
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1071,13 +1071,13 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 **Q42.** Given below are two statements:
 
-**Assertion (A):** Maski proves Devanampiya Piyadassi is Ashoka.  
+**Assertion (A):** Maski proves Devanampiya Piyadassi is Ashoka.
 
 **Reason (R):** Major Rock Edicts usually avoid the personal name.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
 D. (A) is false, but (R) is true
 
 <details>
@@ -1103,10 +1103,10 @@ No extra GS-I official/title/inscription hit after keyword search.
 
 Consider the following statements with respect to Ashoka:
 
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".  
+1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
 2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
 
-A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -1121,7 +1121,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 Which officer was known as **'Bhagadugha'** during Vedic administration?
 
-A. Messenger  B. Chief Officer of Forests  C. Chief Officer of the Gambling Department  D. Revenue Collector
+A. Messenger B. Chief Officer of Forests C. Chief Officer of the Gambling Department D. Revenue Collector
 
 <details>
 <summary>Show answer</summary>
@@ -1134,10 +1134,10 @@ A. Messenger  B. Chief Officer of Forests  C. Chief Officer of the Gambling Depa
 
 With reference to the Puranas, which one of the following statements is correct?
 
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.  
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
 2. Vayu Purana throws light on the Gupta system of governance.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1152,9 +1152,9 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which one of the following pairs is **NOT** correctly matched?
 
-A. Ishanavarman — Harha stone inscription  
-B. Sarvavarman — Gaya Copper Plate  
-C. Jivitagupta II — Deva Barnark inscription  
+A. Ishanavarman — Harha stone inscription
+B. Sarvavarman — Gaya Copper Plate
+C. Jivitagupta II — Deva Barnark inscription
 D. Ishwaravarman — Jaunpur stone inscription
 
 <details>
@@ -1174,7 +1174,7 @@ No further GS-I admin/title/inscription hit after keyword search.
 
 The official 'Agronomai' during Mauryan age was related with which of the following field?
 
-A. Weight and measurement  B. Administrative management  C. Construction of roads  D. Revenue management
+A. Weight and measurement B. Administrative management C. Construction of roads D. Revenue management
 
 <details>
 <summary>Show answer</summary>
@@ -1185,15 +1185,11 @@ A. Weight and measurement  B. Administrative management  C. Construction of road
 
 ### UPPCS Prelims 2018
 
-**Q6. UPPCS Prelims 2018, Q16** — Hathigumpha → **A Kharavela.**
-
-**Q7. UPPCS Prelims 2018, Q87** — Samudragupta south match → **C 3-1-4-2.**
-
-**Q8. UPPCS Prelims 2018, Q91** — Pushyamitra ashwamedha → **C Ayodhya.**
+**Q6. UPPCS Prelims 2018, Q16** — Hathigumpha → **A Kharavela.Q7. UPPCS Prelims 2018, Q87** — Samudragupta south match → **C 3-1-4-2.Q8. UPPCS Prelims 2018, Q91** — Pushyamitra ashwamedha → **C Ayodhya.**
 
 ---
 
-## Common Traps — Exam Locks
+## Common Traps — Facts
 
 1. **2024 Q20 = Both A** → **Only 2 (D).** Rahulovada is the trap.
 2. **2022 Q87 = Jivitagupta–Deo-Baranark wrong** → wrong pair is **Sarvavarman–Gaya**.
