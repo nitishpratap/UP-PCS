@@ -30,7 +30,8 @@ LAKE TYPE FIRST: lagoon | inland saline | freshwater | crater | glacial | oxbow 
  Loktak = Manipur; phumdis; Keibul Lamjao + Sangai | Kabartal = Bihar oxbow Ramsar
  Phulhar (Pilibhit) = Gomti source | Kodaikanal = artificial | Periyar Lake ≠ lagoon | Kayal = Kerala lagoon
  Hokera = J&K NOT Punjab | Sasthamkotta = Kerala | Renuka = HP | Yaya Tso = Ladakh BHS
- Onega = RUSSIA not Canada (2023 Q66)
+ Onega = RUSSIA not Canada (2023 Q66) | Ladoga also Russia | Michigan = USA-only | Superior = USA+Canada
+ MATCH bank: Indian lake–state + world lake–country tables in N.1 (not only 2020/2023 four-packs)
 WATER: India >17% people / ~4% water / ~2.45% land | precip ~4000 | available ~1869 | utilisable ~1122 BCM (surface ~690 + GW ~433)
  GB+Barak ~1/3 area but ~60% surface water | irrigation ~89% surface / ~92% GW
  Irrigation: GW >60% of irrigated area; canals IG plains; tanks peninsula; TN = highest south GW use
@@ -256,30 +257,87 @@ Ask: *How was the hollow made?*
 - The **Ramsar Convention** (adopted **1971** at Ramsar, Iran; in force **1975**) is the global treaty for wetland conservation. It is the only global environmental treaty focused on one ecosystem type.
 - India’s Ramsar count and UP list live in the UP wetlands card below; do not confuse state sites with the treaty year.
 
-### Lake–state match set (2020 Q56)
+### Lake–state match bank (raata for next paper)
 
-| Lake | Location |
-|------|----------|
-| Sala Lake | Arunachal Pradesh |
-| Badkhal Lake | Haryana |
-| Loktak Lake | Manipur |
-| Kaliveli Lake | Tamil Nadu |
+UPPCS 2020 Q56 asked only four names. Next year can pick **any** high-yield pair. Learn the bank; the 2020 set is marked.
 
-Row order in a match table is **not** the answer. That paper keyed **1 2 3 4**.
+*Row order in a match table is **not** the answer code.*
 
-### World lake–country (2023 Q66)
+| Lake | State / UT | Extra lock |
+|------|------------|------------|
+| **Sala** ★2020 | **Arunachal Pradesh** | 2020 Q56 |
+| **Badkhal** ★2020 | **Haryana** (Faridabad belt) | 2020 Q56 |
+| **Loktak** ★2020 | **Manipur** | Phumdis; Keibul Lamjao |
+| **Kaliveli** ★2020 | **Tamil Nadu** | Coastal wetland |
+| Chilika | **Odisha** | Largest E-coast lagoon |
+| Pulicat | **Andhra Pradesh + Tamil Nadu** | Sriharikota bar |
+| Vembanad | **Kerala** | Largest in Kerala; longest in India; **west coast** |
+| Ashtamudi | **Kerala** | Kayal / Ramsar |
+| Sasthamkotta | **Kerala** | Largest freshwater in Kerala (not TN) |
+| Periyar Lake | **Kerala** | Artificial; **not** a lagoon |
+| Kolleru | **Andhra Pradesh** | Freshwater; between Godavari–Krishna |
+| Wular | **J&K** | Largest freshwater (volume) |
+| Dal | **J&K** (Srinagar) | Tourism; not size king |
+| Anchar | **J&K** | Match distractor set |
+| Hokera | **J&K** | **Not** Punjab |
+| Sambhar | **Rajasthan** | Largest inland saline |
+| Didwana / Kuchaman / Pushkar / Nakki | **Rajasthan** | Nakki = Mount Abu |
+| Pichola / Fateh Sagar | **Rajasthan** (Udaipur) | Tourism; not Sambhar |
+| Lonar | **Maharashtra** (Buldhana) | Meteorite crater |
+| Kabartal / Kanwar | **Bihar** (Begusarai) | Oxbow Ramsar |
+| Deepor Beel / Chapanala | **Assam** | Deepor = Guwahati Ramsar |
+| Renuka / Nako / Ghepan / Pong | **Himachal Pradesh** | Renuka = Ramsar; Ghepan = Lahaul |
+| Roopkund / Nainital / Bhimtal | **Uttarakhand** | Roopkund = Mystery Lake (**not** HP) |
+| Surajkund / Sultanpur | **Haryana** | Sultanpur **not** UP |
+| Rudrasagar | **Tripura** | **Not** UP |
+| Pangong / Tso Moriri / Yaya Tso | **Ladakh** | High / brackish; Yaya Tso = BHS |
+| Tsomgo / Gurudongmar | **Sikkim** | Glacial tarns |
+| Hussain Sagar / Usman Sagar | **Telangana** (Hyderabad) | Artificial |
+| Chembarambakkam / Kodaikanal | **Tamil Nadu** | Kodaikanal = artificial |
+| Bhojtal (Upper Lake) | **Madhya Pradesh** (Bhopal) | Urban wetland |
+| Nalsarovar | **Gujarat** | Bird sanctuary / Ramsar class |
+| Harike | **Punjab** | Sutlej–Beas meet |
+| Sukhna | **Chandigarh** | Man-made |
+| Phulhar / Gomat Taal | **Uttar Pradesh** (Pilibhit) | Gomti source |
 
-| Lake | Country | Trap |
-|------|---------|------|
-| Baikal | Russia | — |
-| Michigan | USA | — |
-| **Onega** | **Russia** | **Not Canada** |
-| Maracaibo | Venezuela | — |
+**2020 Q56 keyed order:** Sala–AP · Badkhal–HR · Loktak–MN · Kaliveli–TN → code **1 2 3 4**.
 
-- The **Caspian** is the world’s largest lake by area and is saline.
-- The **Dead Sea** is a rift-valley salt lake below sea level.
-- The **Great Lakes** are freshwater tectonic/glacial. Do not put **Onega** in Canada.
-- **Baikal** is the world’s deepest freshwater lake. **Superior** is the largest freshwater lake by area among the usual set.
+### World lake–country match bank (raata for next paper)
+
+UPPCS 2023 Q66 asked four pairs and keyed **Onega ≠ Canada**. Next stem can swap in Ladoga, Victoria, Titicaca, etc. Learn the bank.
+
+| Lake | Country | Exam tag / trap |
+|------|---------|-----------------|
+| **Baikal** ★2023 | **Russia** (Siberia) | Deepest + oldest freshwater; huge volume |
+| **Michigan** ★2023 | **USA** only | Only Great Lake wholly in USA |
+| **Onega** ★2023 | **Russia** | Europe’s 2nd-largest; **not Canada** |
+| **Maracaibo** ★2023 | **Venezuela** | Large brackish; oil belt |
+| Ladoga | **Russia** | Europe’s **largest** lake (Onega is 2nd) |
+| Caspian Sea | Russia / Kazakhstan / Turkmenistan / Iran / Azerbaijan | World’s **largest lake by area**; saline |
+| Dead Sea | Israel / Jordan | Rift; hypersaline; below sea level |
+| Superior | **USA + Canada** | Largest Great Lake by area |
+| Huron / Erie / Ontario | **USA + Canada** | Shared Great Lakes (unlike Michigan) |
+| Victoria | Uganda / Kenya / Tanzania | Africa’s largest by area |
+| Tanganyika | Several E. African states | Deep rift lake |
+| Malawi (Nyasa) | Malawi / Mozambique / Tanzania | Rift lake |
+| Turkana | Kenya (mainly) | Rift; saline |
+| Titicaca | **Peru + Bolivia** | Highest large navigable lake |
+| Great Bear / Great Slave | **Canada** | Not Onega |
+| Loch Ness / Loch Lomond | **Scotland (UK)** | |
+| Eyre | **Australia** | Endorheic salt lake |
+| Chad | Chad / neighbours | Shrinking inland |
+| Aral | Kazakhstan / Uzbekistan | Shrinking saline |
+
+**Superlatives (once)**
+
+| Crown | Lake |
+|-------|------|
+| Largest lake by **area** (world) | **Caspian** (saline) |
+| Largest **freshwater** by **area** (usual set) | **Superior** |
+| Largest / deepest freshwater by **volume** | **Baikal** |
+| Lowest / densest salt | **Dead Sea** |
+
+> **Exam note:** Onega and Ladoga are both **Russia**. Do not park Onega in Canada. Michigan is USA-only; Superior is shared.
 
 ### UP wetlands (state paper gold)
 
@@ -615,7 +673,8 @@ D. Only 1
 5. Loktak = Manipur; **Keibul Lamjao** + Sangai (2022 Q73).
 6. Pulicat 2nd lagoon; Kolleru **freshwater**, not lagoon king.
 7. Kabartal = Bihar oxbow Ramsar. **Vembanad** = largest in Kerala + **longest in India**; **west-coast** kayal / Ramsar (not India’s overall largest lake).
-8. Onega = **Russia**, not Canada (2023 Q66).
+8. Onega = **Russia**, not Canada (2023 Q66). Also raata: Ladoga–Russia; Michigan–USA only; Superior–USA+Canada; Victoria–E. Africa; Titicaca–Peru+Bolivia; Caspian = largest by area.
+8a. Lake–state bank beyond 2020 four: Chilika–OD, Pulicat–AP+TN, Vembanad–KL, Wular–J&K, Sambhar–RJ, Lonar–MH, Kabartal–BR, Renuka–HP, Roopkund–UK, Rudrasagar–TR, Hokera–J&K.
 9. Rudrasagar = Tripura; Sultanpur = Haryana — **not UP** (2025 Q58).
 10. Kunchikal (**Varahi**, KA) = UPPCS **highest** key; Nohkalikai = tallest **plunge**; Jog (**Sharavati**) = famous / **width**, not tallest (2018 Q24).
 11. Sharavati is **not** a Cauvery tributary. **Shivanasamudra** = Cauvery **volume** king. Kapildhara = **Narmada**.
@@ -2178,7 +2237,7 @@ D. 12
 5d. **Hokera in Punjab / Sasthamkotta in Tamil Nadu** — FALSE. Hokera = **J&K**; Sasthamkotta = **Kerala**.
 6. **Dudhsagar = Karnataka-only** — FALSE. Keyed to **Goa** (2022 Q85).
 7. **Chachai–Bihad is correct** — FALSE. That is the **wrong** pair (2021 Q9).
-8. **Onega = Canada** — FALSE. **Russia** (2023 Q66).
+8. **Onega = Canada** — FALSE. **Russia** (2023 Q66). Ladoga is also Russia. Michigan = USA-only; Superior is shared USA–Canada.
 9. **Rudrasagar / Sultanpur in UP** — FALSE. **Tripura / Haryana** (2025 Q58).
 10. **Bhakra on Beas / Ravi** — FALSE. **Sutlej**; reservoir **Gobind Sagar**.
 11. **Tehri on Alaknanda** — FALSE. **Bhagirathi**, rock-fill.
