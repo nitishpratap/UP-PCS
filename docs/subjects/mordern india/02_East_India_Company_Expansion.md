@@ -124,10 +124,39 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 - **Alivardi Khan** killed Sarfaraz and ruled **1740–56**.
 - Alivardi fought the Maratha **Bargis**. He was the last strong Nawab before the Plassey crisis.
 - Comparing Europeans to **honeybees**, Alivardi said that if left undisturbed they give honey, but if disturbed they sting to death.
-- **Siraj-ud-Daulah (1756–57)** was Alivardi’s grandson. Court rivals included the banker **Jagat Seth**, **Omichand** and **Rai Durlabh**.
-- Immediate sparks included English fortification of **Fort William** without leave, asylum to Krishnadas, and fear of the French in the **Seven Years’ War**.
-- In **June 1756** Siraj took Calcutta. The **Black Hole** episode belongs to that capture (**Holwell’s** famous story of a tiny cell; numbers are debated, and **Ghulam Hussain’s Siyar-ul-Mutakherin** does not mention it).
-- Clive and Admiral Watson recaptured Calcutta. The **Treaty of Alinagar (February 1757)** restored English privileges. Peace lasted only until Plassey.
+- Alivardi died in **April 1756**. His young grandson **Siraj-ud-Daulah** succeeded.
+
+### Siraj-ud-Daulah and the road to Plassey, 1756–57
+
+**Nawab of Bengal** | capital **Murshidabad** | short reign **1756–57**
+
+#### Court and succession
+
+- Siraj inherited a divided court. Powerful rivals included his aunt **Ghaseti Begum**, cousin **Shaukat Jung** of Purnea, the state bankers **Jagat Seth**, merchant **Omichand (Amin Chand)**, and commanders such as **Mir Jafar** and **Rai Durlabh**.
+- Bankers and nobles feared Siraj’s temper and feared for their wealth. That distrust later opened the door to Clive’s conspiracy.
+
+#### Three grievances against the English
+
+- The Company misused **dastaks** under the **1717 farman**. Private English traders escaped customs and drained Nawabi revenue.
+- The English strengthened **Fort William** at Calcutta without the Nawab’s leave, especially after fear of the French in the **Seven Years’ War**.
+- The Company gave asylum to **Krishnadas**, son of **Raj Ballabh**, who had fled with treasure against Siraj’s will. Siraj demanded extradition. Calcutta refused.
+- Siraj sent envoys to settle these points. Governor **Roger Drake** insulted the Nawab’s messenger and refused to demolish the new works. Open clash followed.
+
+#### Course — Kasimbazar, Calcutta, Black Hole
+
+- Siraj first took the English factory at **Kasimbazar (Cossimbazar)**.
+- He then marched on Calcutta and captured **Fort William on 20 June 1756**.
+- He renamed Calcutta **Alinagar** for a short time and left it under his officers.
+- After the fall, English prisoners were locked overnight in a small fort dungeon. **J. Z. Holwell** later claimed about **146** were packed into a cell of roughly **18 × 14 feet**, and that about **123** died of heat and suffocation, with only about **23** surviving. That story is the **Black Hole of Calcutta**.
+- Numbers are debated by modern writers. Contemporary Muslim historian **Ghulam Hussain** does not mention the episode in **Siyar-ul-Mutakherin**. Holwell’s account still became English propaganda for revenge.
+
+#### English return and Treaty of Alinagar
+
+- News reached Madras. **Robert Clive** and Admiral **Charles Watson** sailed north with a relief force.
+- They recaptured Calcutta in **January 1757**.
+- Under pressure, Siraj signed the **Treaty of Alinagar on 9 February 1757**.
+- The treaty restored English trade privileges under the old farman, returned Calcutta, and allowed the Company to fortify Fort William. The Company recognised Siraj as Nawab and promised peace.
+- Trust was already dead. Clive soon opened secret talks with **Mir Jafar**, **Jagat Seth**, **Rai Durlabh**, **Yar Latif Khan** and **Omichand**. That conspiracy decided **Plassey (23 June 1757)**.
 
 | Nawab | Years | Tag |
 |-------|-------|-----|
@@ -135,12 +164,12 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 | **Shujauddin** | after Murshid Quli | Bridge ruler before Sarfaraz |
 | **Sarfaraz Khan** | brief | Killed by Alivardi |
 | **Alivardi Khan** | **1740–56** | Last strong Nawab; Bargis; honeybee remark |
-| **Siraj-ud-Daulah** | **1756–57** | Calcutta 1756; Black Hole; fell at Plassey |
+| **Siraj-ud-Daulah** | **1756–57** | Three grievances; Alinagar; Black Hole; fell at Plassey |
 | **Mir Jafar** | from **1757** | First puppet after Plassey |
 | **Mir Qasim** | **1760–63** | Munger; equal duties; Buxar ally |
 | **Najm-ud-Daulah** | after **1765** | Pensioned figurehead under Diwani |
 
-> ** note:** Independent Nawabi ends at Plassey. **Diwani is 1765, not 1757**. The **1717 farman** explains the dastak quarrel; it is not Diwani.
+> ** note:** Siraj’s three grievances = **dastaks**, **Fort William**, **Krishnadas asylum**. Alinagar is **February 1757**, not Diwani. Black Hole is Holwell’s claim, not an undisputed headcount. Independent Nawabi ends at **Plassey**; **Diwani is 1765**.
 
 ---
 
@@ -150,11 +179,10 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 
 ### Causes
 
-- Siraj feared English fort-building at **Fort William** and misuse of **dastaks**.
-- He took Calcutta in **June 1756**. The **Black Hole** episode belongs to that capture.
-- Clive and Admiral Watson recaptured Calcutta. The **Treaty of Alinagar (February 1757)** restored English privileges, but trust was already dead.
-- Court enemies of Siraj — **Mir Jafar**, **Rai Durlabh**, banker **Jagat Seth**, **Omichand** — plotted with Clive.
-- The **Seven Years’ War** also made the English determined to crush French influence in Bengal.
+- The long quarrel of **1756–57** is taught in the Siraj card above: dastak misuse, Fort William works, Krishnadas asylum, capture of Calcutta, Black Hole propaganda, then **Treaty of Alinagar**.
+- After Alinagar the English still feared French help to Siraj in the **Seven Years’ War**.
+- Court enemies of Siraj — **Mir Jafar** (mir bakshi), **Rai Durlabh**, banker **Jagat Seth**, **Yar Latif Khan**, and intermediary **Omichand** — plotted with Clive to replace the Nawab.
+- Clive’s aim was no longer only restored trade. It was a **puppet Nawab** who would protect Company power in Bengal.
 
 ### Course of the battle
 
