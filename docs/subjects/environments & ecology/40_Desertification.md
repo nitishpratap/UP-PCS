@@ -14,30 +14,34 @@ Desertification | Land Degradation | Drought | Soil Erosion
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 22 Must-Score Locks
 
-```
-DESERTIFICATION = land degradation in ASDM drylands (arid, semi-arid, dry sub-humid)
-  Climate variation + human activities | ≠ only “desert expanding”
+1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** drylands. It is not merely “the desert expanding.”
+2. Drivers combine climate variation with human pressures such as overgrazing, deforestation, and bad irrigation.
+3. **Land degradation** is the broader productivity decline and can occur in any climate zone.
+4. India’s degraded land share is often taught near **29–30%** (ISRO Atlas **2016**, about **96.4 million ha**). **Rajasthan** is the worst state hotspot.
+5. Drought types run **meteorological → hydrological → agricultural**. Meteorological drought is often linked to rainfall below about **75%** of long-period average.
+6. **DPAP** began in **1973**. Drought and desertification reinforce each other in a feedback loop.
+7. Bundelkhand’s **seven** Uttar Pradesh districts are a classic UP drought–degradation hotspot.
+8. Water erosion stages run **sheet → rill → gully → ravine**. The **Chambal** ravines are the textbook deep badlands.
+9. Wind erosion works through **deflation** and **abrasion**, especially in the Thar.
+10. **Overgrazing** is the top dryland cause in many coaching locks. Afforestation helps prevent further degradation.
+11. The **UNCCD** was adopted in **1994**. **17 June** is Desertification and Drought Day.
+12. **Land Degradation Neutrality (LDN)** targets **no net loss** of healthy land by **2030** (SDG **15.3**).
+13. UNCCD is the desertification convention. **UNFCCC** is the climate convention — different treaties.
+14. Salinity from poor irrigation is a human-made degradation path even where rainfall is not zero.
+15. Accelerated erosion from human misuse is the exam focus, not only slow geological erosion.
+16. Desertification can reverse with sustainable land management; it is not an irreversible death sentence in every plot.
+17. Do not define desertification as any bare land in a humid forest belt.
+18. Sheet erosion removes a thin film; gullies cut channels; ravines are deep, dense badland networks.
+19. IMD drought monitoring and DPAP geography often appear beside desertification stems.
+20. SDG 15.3 LDN is the policy end-state; UNCCD is the global legal home.
+21. Thar wind processes and Chambal water ravines are twin Indian landform locks.
+22. Deforestation removes cover and raises runoff and erosion risk in drylands and beyond.
 
-LAND DEGRADATION = broader productivity decline (any climate zone)
-  India ~29–30% (ISRO Atlas 2016 ≈ 96.4 M ha) | Rajasthan worst
+---
 
-DROUGHT: Meteorological (<75% LPA) → Hydrological → Agricultural
-  DPAP 1973 | Drought ↔ desertification feedback
-  Bundelkhand 7 UP districts = UP hotspot
-
-SOIL EROSION: Accelerated (human) is exam focus
-  Water: SHEET → RILL → GULLY → RAVINE (Chambal)
-  Wind: deflation + abrasion (Thar)
-
-CAUSES: Overgrazing #1 drylands | Deforestation | Bad irrigation (salinity)
-  Afforestation PREVENTS degradation
-
-UNCCD 1994 | 17 June Desertification & Drought Day | LDN 2030 (SDG 15.3)
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -166,22 +170,6 @@ Options: A. Pliocene  B. Paleocene  C. Pleistocene and recent deposits  D. Oligo
 | Wind | Deflation + abrasion |
 
 > **Exam note:** Afforestation and shelter belts **prevent** erosion — they are not causes.
-
----
-
-## Consolidated Reference
-
-| Lock | Value |
-|------|-------|
-| Desertification zone | ASDM drylands |
-| India degraded share | ~29–30% (2016 Atlas) |
-| UNCCD | 1994 |
-| Desertification Day | 17 June |
-| LDN | 2030 |
-| DPAP | 1973–74 |
-| Water erosion sequence | Sheet→rill→gully→ravine |
-
-**UP locks:** Bundelkhand drought | Chambal ravines | Thar-margin wind stress in western fringe
 
 ---
 

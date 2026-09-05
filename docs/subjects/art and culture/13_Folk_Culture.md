@@ -15,25 +15,40 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-FOLK ≠ CLASSICAL: community + oral + ritual | not Natyashastra school
-PAINT: Madhubani Bihar | Warli MH | Pattachitra Odisha | Phad RJ | Gond MP | Kalamkari AP | Sanjhi Mathura UP | Phulkari PB
-MORE: Pithora GJ | Saura Odisha | Cheriyal TG | Kalighat WB | Rogan Kutch | Aipan UK | Mandana RJ
-FAIRS: Surajkund Haryana Feb crafts | Pushkar Fair RJ Kartik camel | Pushkar Kumbh May 2025 = Uttarakhand Mana (NOT RJ, NOT UP)
-BELIEF: Gramdevta/Kuldevi | Nag Panchami snake | Chhath sun UP-Bihar | Ojha healer | Sarna / Donyi-Polo / Sanamahi
-HANDLOOM: Textiles ministry | Day 7 Aug (1905 Swadeshi; first 2015) | Mark 2006 | India Handloom Brand 2015 | Khadi = spun+woven (KVIC, MSME)
-CRAFT: DC Handicrafts = Textiles | PEHCHAN 2016 | Shilp Guru | CHCDS mega cluster
-GI: Act 1999 | Registry Chennai | DPIIT Commerce NOT Culture NOT Textiles | First Darjeeling Tea 2004 | 10 yr renewable
-UP CRAFT: Banarasi Varanasi | Chikankari Lucknow | Bhadohi carpet | Moradabad brass | Firozabad glass | Khurja pottery | Kannauj attar | Sanjhi Mathura
-```
+1. **Folk art** is community, oral, and ritual. It is not a Natyashastra classical school like Bharatanatyam or a court Mughal miniature atelier.
+2. Painting map: **Madhubani** (Bihar Mithila), **Warli** (Maharashtra), **Pattachitra** (Odisha), **Phad** (Rajasthan), **Gond** (Madhya Pradesh), **Kalamkari** (Andhra), **Sanjhi** (Mathura, UP), and **Phulkari** (Punjab).
+3. More painting locks: **Pithora** (Gujarat), **Saura** (Odisha), **Cheriyal** (Telangana), **Kalighat** (West Bengal), **Rogan** (Kutch), **Aipan** (Uttarakhand), and **Mandana** (Rajasthan).
+4. **Madhubani** is bright geometric Mithila work of Bihar and carries a **GI**. It is not a named UNESCO ICH element by itself.
+5. **Warli** is Maharashtra tribal white-on-red painting. Do not place Warli in Bihar or Uttar Pradesh.
+6. **Sanjhi** is Braj / Mathura–Vrindavan paper-cutting of Uttar Pradesh and now carries a GI.
+7. Folk belief locks: **Gramdevta / Kuldevi**, **Nag Panchami**, **Chhath** sun worship in eastern UP–Bihar, **Ojha** healers, and tribal faiths such as **Sarna**, **Donyi-Polo**, and **Sanamahi**.
+8. **Handloom** is cloth woven on a manual loom. Yarn may be mill-spun. **Khadi** is **hand-spun and** hand-woven under **KVIC (MSME)**.
+9. **Handicraft** is a handmade object such as pottery, metalwork, or embroidery. It is not the same word as handloom cloth.
+10. National **Handloom Day** is **7 August**, recalling the **1905** Swadeshi moment; the first observance was **2015**. India Handloom Brand started in **2015**. Handloom Mark is from **2006**.
+11. Development Commissioner (Handicrafts) sits under **Textiles**. **PEHCHAN** artisan cards began in **2016**. **e-Pehchan** is the handloom digital ID from **2025**. **Shilp Guru** is the top handicraft honour.
+12. **GI** is governed by the **1999** Act. The Registry is at **Chennai** under **DPIIT / Commerce**, not Culture and not Textiles. First Indian GI was **Darjeeling Tea (2004)**. Protection is about **10 years** and renewable.
+13. Uttar Pradesh craft-city map: **Banarasi** brocade (Varanasi), **Chikankari** and **Zardozi** (Lucknow), **Bhadohi** carpet, **Moradabad** brass, **Firozabad** glass, **Khurja** pottery, and **Kannauj** attar.
+14. More UP craft locks: **Saharanpur** wood, **Agra** marble inlay, **Hapur–Pilkhuwa** block print, and **Azamgarh–Nizamabad** black pottery.
+15. **Blue Pottery** is **Jaipur**, not Lucknow. **Pushkar Fair** is Rajasthan. **Surajkund** crafts mela is Haryana.
+16. **Ramlila** and **Nautanki** are UP folk theatre. **Raslila** is Braj folk play; it is not Manipuri classical dance.
+17. Ministry lock: handloom and handicrafts = **Textiles**; GI Registry = **Commerce / DPIIT**; KVIC / khadi = **MSME**; ZCCs, IGNCA, and many folk festival grants = **Culture**.
+18. **North Central Zone Cultural Centre** is at **Prayagraj**.
+19. **Sant Kabir Award** is the highest **handloom** weaver honour. **Shilp Guru** is the highest **handicraft** artisan honour. Do not swap the two.
+20. **Chikankari** is Lucknow white-thread embroidery on muslin. **Zardozi** is metallic-thread court embroidery also strong in Lucknow.
+21. **Powerloom** is machine mass weave. **Handloom** is manual loom weave. Papers often hide powerloom cloth behind a “handloom” option.
+22. A **GI tag** protects place-linked community quality. A **trademark** protects one firm’s brand. GI is not a private logo.
+23. **Surajkund** is the February crafts fair of Haryana. **Pushkar Fair** is the Kartik camel fair of Rajasthan. **Pushkar Kumbh 2025** was Mana in Uttarakhand.
+24. Folk tradition is a custom passed socially. Folk belief is the village supernatural worldview. Both sit under folk culture but answer different stems.
+25. These are **not** UP: Pushkar Fair (Rajasthan), Pushkar Kumbh 2025 (Uttarakhand), Surajkund (Haryana), Blue Pottery (Jaipur), Warli (Maharashtra), Madhubani (Bihar).
+26. **Banarasi Brocade** is a Varanasi handloom GI. **Chikankari** is a Lucknow embroidery GI. Both are Culture-facing craft locks of Uttar Pradesh.
+27. **Phad** is Rajasthan scroll painting. **Pattachitra** is Odisha / sometimes West Bengal cloth or palm-leaf painting. Do not dump every scroll into Madhubani.
+28. Uttar Pradesh leads India’s GI count in recent tallies (about **81** by late **2025**), so craft–city matching stays high-yield for UPPCS.
 
-- Blue Pottery is **Jaipur**, not Lucknow.
-- KVIC is **MSME**, not Textiles.
-- Madhubani is **GI**, not a named UNESCO ICH element.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -349,29 +364,6 @@ D. 2 and 3
 **Ans: A — 1 only.** Sujni = **Bihar**. Uppada Jamdani = **Andhra Pradesh**.
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- **Sanjhi** is Braj / Mathura–Vrindavan paper-cutting. It now carries a GI.
-- **Banarasi Brocade** is Varanasi handloom GI.
-- **Chikankari** and **Zardozi** are Lucknow embroidery GIs.
-- **Moradabad** brass, **Firozabad** glass, **Khurja** pottery and **Bhadohi** carpet are the craft-city quartet.
-- **Kannauj** is attar. **Saharanpur** is wood. **Agra** is marble inlay. **Hapur–Pilkhuwa** is block print. **Azamgarh–Nizamabad** is black pottery.
-- **Ramlila** and **Nautanki** are UP folk theatre. **Raslila** is Braj folk play, not Manipuri classical.
-- **Chhath** is eastern UP–Bihar sun worship.
-- **North Central ZCC** is at **Prayagraj**.
-- These are **not UP:** Pushkar Fair (Rajasthan), Pushkar Kumbh 2025 (Uttarakhand), Surajkund (Haryana), Blue Pottery (Jaipur), Warli (Maharashtra), Madhubani (Bihar).
-
-**Ministry lock (once)**
-
-- Handloom and handicrafts = **Textiles**.
-- GI Registry = **Commerce / DPIIT**.
-- KVIC / khadi = **MSME**.
-- ZCCs, IGNCA, folk festival grants = **Culture**.
 
 ---
 

@@ -15,30 +15,40 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-ASTIKA 6: Nyaya-Gautama | Vaisheshika-Kanada | Samkhya-Kapila | Yoga-Patanjali | Mimamsa-Jaimini | Vedanta-Badarayana
-NASTIKA: Charvaka | Buddhism | Jainism | Ajivika (Makkhali Gosala)
-VEDANTA: Shankara Advaita | Ramanuja Vishishtadvaita | Madhva Dvaita | Nimbarka Dvaitadvaita | Vallabha Shuddhadvaita
-VEDIC: Samhita→Brahmana→Aranyaka→Upanishad | Tat tvam asi = Chandogya | Brahman ≠ Brahmin
-BUDDHA: Lumbini–Bodh Gaya(Bihar)–Sarnath(UP)–Kushinagar(UP)
-  Councils: Rajagriha → Vaishali → Pataliputra → Kundalvana | Milind Panho = Nagasena
-JAIN 24: Rishabha bull/Ashtapad … Vasupujya buffalo/Champapuri … Nemi conch/Girnar … Parshva snake/Shikhar … Mahavira lion/Pavapuri
-  Parshva 4 vows; Mahavira added Brahmacharya | 12 Angas | 5 Kalyanaka
-BHAKTI: Namdev → Kabir → Nanak → Chaitanya | Kabir←Ramananda | Surdas←Vallabha | Tulsidas = Awadhi
-SUFI: Chishti Ajmer/Delhi sama | Suhrawardi Multan | Nizamuddin = DELHI | Fawaid = Hasan Sijzi
-SIKH: Angad Gurmukhi | Arjan Adi Granth | Gobind Khalsa 1699 | 5 Takhts (Akal/Keshgarh/Damdama/Patna/Hazur)
-ALVAR 12 (Andal only woman) | NAYANAR 63 | 4 Samayacharyas Appar-Sambandar-Sundarar-Manikkavachakar
-PRAMANA: Charvaka 1 | Nyaya 4 | Mimamsa-Kumarila / Vedanta 6
-```
+1. The six **Astika** schools that accept the Veda as pramana are **Nyaya–Gautama**, **Vaisheshika–Kanada**, **Samkhya–Kapila**, **Yoga–Patanjali**, **Mimamsa–Jaimini**, and **Vedanta–Badarayana**.
+2. The usual **Nastika** exam set is **Charvaka**, **Buddhism**, and **Jainism**. Add **Ajivika** (**Makkhali Gosala**) when fate / *niyati* appears in options.
+3. **Nyaya** is logic and epistemology with four pramanas. **Vaisheshika** is atomism. This Gautama is **not** the Buddha.
+4. **Samkhya** is dualist Purusha–Prakriti with **25** tattvas and is classically **nirishvara**. **Yoga** is its practical partner and adds **Ishvara**.
+5. **Ashtanga Yoga** order is **yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi**.
+6. **Purva Mimamsa** (Jaimini) treats Vedic **ritual**. **Uttara Mimamsa / Vedanta** (Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
+7. **Shankara** taught **Advaita**. **Ramanuja** taught **Vishishtadvaita**. **Madhva** taught **Dvaita**. **Nimbarka** taught **Dvaitadvaita**. **Vallabha** taught **Shuddhadvaita**.
+8. Shankara’s four mathas lock as **Sringeri–Yajurveda**, **Dwaraka–Samaveda**, **Puri–Rigveda**, and **Badri / Jyotirmath–Atharvaveda**.
+9. Vedic stack order is **Samhita → Brahmana → Aranyaka → Upanishad**. *Tat tvam asi* is from the **Chandogya** Upanishad. **Brahman** is not the same word as **Brahmin**.
+10. Buddha’s life geography is **Lumbini** (birth), **Bodh Gaya** in Bihar (enlightenment), **Sarnath** in UP (first sermon), and **Kushinagar** in UP (death).
+11. Buddhist councils order is **Rajagriha → Vaishali → Pataliputra → Kundalvana**. *Milindapanha* is dialogue of **Menander / Milinda** with **Nagasena**.
+12. **Theravada** aims at the arhat and uses Pali. **Mahayana** aims at the Bodhisattva and uses Sanskrit.
+13. Jainism has **24** Tirthankaras. Symbol locks include **Rishabha–bull**, **Parshva–snake**, and **Mahavira–lion**. Nirvana places include **Ashtapad**, **Shikharji**, and **Pavapuri**.
+14. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** as the fifth. The Svetambara canon has **12 Angas**.
+15. **Digambara** monks are sky-clad and deny women monks. **Svetambara** monks wear white and admit women monks.
+16. **Anekantavada** is many-sided reality. **Syadvada** is the seven-fold “syad” speech about that reality.
+17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya**. **Kabir** was a disciple of **Ramananda**. **Surdas** belongs to **Vallabha**’s line. **Tulsidas** wrote in **Awadhi**.
+18. Tamil bhakti locks are **12 Alvars** (Andal the only woman) and **63 Nayanars**. The four Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
+19. **Chishti** Sufis at Ajmer / Delhi favour **sama** and qawwali. **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
+20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi**. **Wahdat-ul-wujud** (Ibn Arabi) is not the same as **wahdat-ush-shuhud** (Sirhindi).
+21. Among the ten Sikh Gurus, **Angad** gave **Gurmukhi**, **Arjan** compiled the **Adi Granth**, and **Gobind Singh** founded the **Khalsa** in **1699**.
+22. The five Sikh Takhts are **Akal Takht**, **Keshgarh Sahib**, **Damdama Sahib**, **Patna Sahib**, and **Hazur Sahib**.
+23. Pramana count traps: **Charvaka** accepts only one, **Nyaya** accepts four, and Mimamsa–Kumarila / Vedanta often accept **six**.
+24. UP Buddhist circuit locks are **Sarnath**, **Kushinagar**, **Shravasti**, **Sankisa**, and **Kaushambi**. The Lion Capital is from Sarnath.
+25. UP Hindu and bhakti locks include **Kashi**, **Ayodhya**, **Braj / Surdas**, **Prayagraj Kumbh**, and Kabir’s samadhi at **Maghar**.
+26. **Kumbh Mela** is UNESCO **intangible** heritage (**2017**). It is not a monument World Heritage site.
+27. Salim Chishti’s dargah at **Fatehpur Sikri** is the high-yield UP Sufi site lock.
+28. Mathura’s **Kankali Tila** is the classic UP Jain archaeological lock.
 
-- N-V, S-Y, M-V = three Astika pairs.
-- Gautama of Nyaya is not the Buddha.
-- Sringeri–Yajur, Dwaraka–Sama, Puri–Rig, Badri–Atharva.
-- Councils R-V-P-K. 2025 guru code 2-3-4-1. Bull–snake–lion = Rishabha–Parshva–Mahavira.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -890,18 +900,6 @@ D. Jain
 - Constitutional frame: Preamble secular (**42nd** Amendment). Arts. **25–28**.
 
 > **Exam note:** Kumbh = intangible **2017**, not a monument. Relic-worship built the **stupa**.
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus (bullets, not a second doctrine dump)**
-
-- Buddhist circuit: Sarnath (first sermon + Lion Capital), Kushinagar (death), Shravasti, Sankisa, Kaushambi.
-- Hindu: Kashi, Ayodhya, Braj/Surdas, Prayagraj Kumbh/Sangam, Chitrakoot.
-- Bhakti: Ramananda–Kabir–Ravidas at Kashi; Tulsidas in Awadhi; Kabir samadhi at Maghar / Sant Kabir Nagar.
-- Sufi: Salim Chishti at Fatehpur Sikri; Awadh composite culture.
-- Jain: Mathura Kankali Tila; western UP merchant communities.
 
 ---
 

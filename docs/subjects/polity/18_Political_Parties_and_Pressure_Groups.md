@@ -15,37 +15,38 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-Constitution barely names parties: 19(1)(c) · 10th Schedule · 324. Extra-constitutional until 52nd.
-
-s.29A RPA = REGISTER (RUPP). Recognition = Symbols Order 1968 (ECI). Do not merge.
-
-National (any one): 6% votes in 4 States + 4 LS seats  OR  2% LS seats from 3 States  OR  State party in 4 States
-State (any one, that State): 6%+2 MLAs/1 MP  OR  3% seats or 3 (higher)  OR  1 LS / 25  OR  8% votes (even 0 seats)
-
-National roster (2024–26): AAP broom · BSP elephant · BJP lotus · CPI(M) hammer-sickle-star · INC hand · NPP book
-  CPI lost national 2023. NPP = first NE national (2019).
-
-2022 chronology: TDP 1982 → BSP 1984 → SP 1992 → TMC 1998
-
-India = multi-party (not two-party). Congress system 1952–67 → 1967 state coalitions → 1989–2014 coalition era at Centre → 2014 majority → 2024 NDA coalition (BJP 240).
-
-Hung = no single-party majority. Floor test (*Bommai*): majority on the House floor, not Raj Bhavan. President invites who can command confidence.
-
-Party seeks office. Pressure group seeks to influence. Interest group → pressure group when it presses the State.
-
-Unions: Madras Labour Union 1918 (first) · AITUC 1920 (Lajpat Rai; CPI) · INTUC 1947 (INC) · BMS 1955 (BJP/RSS) · CITU 1970 (CPI-M) · UTUC 1949 (RSP)
-  Strike is NOT a FR. 19(1)(c) = form unions.
-
-Indian party-system features: multi-party · weak ideology · dynasty · regionalisation after 1967 · poor inner democracy · extra-constitutional origin.
-Sarkaria hung invite: pre-poll → largest party → post-poll. Then floor test.
-```
+1. The Constitution barely names parties. The main hooks are Article **19(1)(c)** (association), the **Tenth Schedule** (defection), and Article **324** (elections). Parties were largely **extra-constitutional** until the **52nd** Amendment.
+2. Registration of a political party is under **section 29A** of the Representation of the People Act, 1951 (Registered Unrecognised Political Party). **Recognition** as a National or State party is under the Election Symbols Order **1968**. Do not merge the two steps.
+3. A party becomes a **National** party by any one route: **6%** votes in **four** States plus **four** Lok Sabha seats; or **2%** of Lok Sabha seats from at least **three** States; or State-party status in **four** States.
+4. A party becomes a **State** party in that State by any one route: **6%** votes plus **two** MLAs or **one** MP; or **3%** of Assembly seats or **three** seats (whichever is higher); or **one** Lok Sabha seat per **25** Assembly seats; or **8%** of votes even with zero seats.
+5. As of 2024–26 there are **six** national parties: **AAP** (broom), **BSP** (elephant), **BJP** (lotus), **CPI(M)** (hammer-sickle-star), **INC** (hand), and **NPP** (book). **CPI** lost national status in **2023**. **NPP** was the first north-eastern national party (**2019**).
+6. Reserved symbols go to recognised parties. Free symbols go to unrecognised parties and independents.
+7. A standard founding-year order is **TDP 1982 → BSP 1984 → SP 1992 → TMC 1998**.
+8. India has a **multi-party** system, not a classic two-party system. After the Congress-system decades, **1967** brought large state coalitions; **1989–2014** was a long coalition era at the Centre; **2014** returned a single-party majority; **2024** again produced an **NDA coalition** with the BJP on **240** seats.
+9. A **hung** House means no single party has a majority. A **coalition** means two or more parties govern together. A hung House may still produce a coalition.
+10. After *Bommai*, majority is tested on the **House floor**, not by Raj Bhavan arithmetic alone. The President or Governor invites whoever can command confidence.
+11. Sarkaria’s invite order for a hung House is: **pre-poll alliance → largest single party → post-poll alliance**, then a floor test.
+12. A **political party** contests elections and seeks office. A **pressure group** usually does not contest and seeks to **influence** policy. An **interest group** becomes a pressure group when it presses the State.
+13. The first trade union in India is commonly locked as the **Madras Labour Union (1918)**. **AITUC** was formed in **1920** with Lala Lajpat Rai as president and is linked to the **CPI**.
+14. **INTUC** (**1947**) is linked to the **Congress**. **BMS** (**1955**) is linked to the **BJP/RSS**. **CITU** (**1970**) is linked to the **CPI(M)**. **UTUC** (**1949**) is linked to the **RSP**.
+15. The right to **form** associations and unions is under Article **19(1)(c)**. The right to **strike** is **not** a Fundamental Right.
+16. Indian party-system features often tested are multi-party competition, weak ideology, dynasty politics, regionalisation after **1967**, weak inner-party democracy, and extra-constitutional origin of parties.
+17. National parties get an all-India reserved symbol. State parties get a reserved symbol **only in that State**.
+18. Electoral bonds were struck down in **February 2024** (*Association for Democratic Reforms*). Party funding transparency remains a live exam neighbour to registration and recognition.
+19. Pressure groups include business associations, farmer bodies, trade unions, and professional lobbies. They work through persuasion, media, litigation, and access — not through forming the ministry.
+20. Do not confuse **AITUC (CPI)** with **CITU (CPI-M)**, or **INTUC (Congress)** with **BMS (BJP/RSS)**.
+21. Recognition criteria use **votes share and seats**, not merely “old party” or “famous leader.” A registered party without recognition remains a RUPP with a free symbol.
+22. Coalition governments rest on a common programme and support arithmetic. Withdrawal of support can trigger a floor test and possible change of government.
+23. In Uttar Pradesh, party founding years for **BSP** and **SP**, and union–party match lists, are high-yield. Keep the national roster and the UP regional set separate.
+24. The Tenth Schedule punishes defection; it does not itself create the Election Commission’s recognition rules. Registration, recognition, and defection are three different tools.
+25. A hung Assembly does not automatically mean President’s Rule. The constitutional path is invitation based on likely majority, then floor test; Article **356** is a last resort, not the first step.
+26. Multi-party democracy can still produce stable majorities. “Multi-party” describes the system type; it does not mean every election must end in a coalition.
 
 ---
 
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|

@@ -19,32 +19,44 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 32 Must-Score Locks
 
-```
-6 DIVISIONS: N Mountains | N Plains | Peninsular Plateau | Thar | Coastal Plains | Islands
-HIMALAYA N→S: Trans (Zaskar/Ladakh/Kailash) → Himadri (fossil-less, snow) → Himachal (marine fossils) → Shiwalik (youngest, human remains)
- Kashmir = Pir Panjal (S) + Himadri/Zanskar (N) Karakoram = NW, K2 Purvanchal = Patkai+Naga+Mizo+Mishmi
- Garo-Khasi-Jaintia = Meghalaya Plateau (not Himalayan fold) Duars = WB/Assam foothills
-PENINSULAR: Aravalli = OLDEST (Guru Shikhar 1722 m) Vindhya N of Narmada | Satpura S of Narmada
- W→E hills: Satpura → Mahadeo → Maikal → Chhotanagpur
- W Ghats = continuous, Anaimudi (S India highest) | E Ghats = discontinuous
- Nilgiri = W+E Ghats + Southern hills (Doddabetta = TN) Deccan Trap intertrappean = freshwater NOT sea
-PEAKS (repeat match): TN Doddabetta | RJ Guru Shikhar | NL Saramati | MP Dhupgarh | KL Anaimudi | UK Nanda Devi
-PASSES: Nathu La Sikkim | Shipki La HP | Lipulekh/Niti/Mana = Uttarakhand (NOT Ladakh/HP) | Bomdila = town
- Atal Tunnel = Rohtang, Pir Panjal, HP — longest highway tunnel ABOVE 10,000 ft (not unqualified world longest)
-LOCATION: 82°30′ E = IST +5:30 (Mirzapur, UP) | meridian **5 states** UP–MP–CG–Odisha–AP (not UK/JH/TG) | Tropic 23°30′ N = **8 states only** — NOT UP, NOT Ladakh
- Syntaxial bends: Nanga Parbat (W) | Namcha Barwa (E, Tibet)
- Karewa = Kashmir lacustrine (saffron) | Dun = Shiwalik longitudinal valley
- Channels: 10° Andaman–Nicobar | 9° Minicoy–Lakshadweep | 8° Minicoy–Maldives | Duncan = S Andaman–Little Andaman
- Palghat = widest W Ghats gap (KL–TN) | Nallamala = E Ghats (AP–TG)
- Rank = **7th** (not 6th) | Area ~3.28 M km² = **2.4%** | Tropic through middle (NCERT) | NOT wholly tropical
- N Indira Col | S Indira Point (Great Nicobar) ≠ Kanyakumari | E Kibithu (AR) | W Guhar Moti (GJ)
- Longest state coast = Gujarat
-SACRED: Tirupati = Tirumala/Mallamalla (E Ghats) NOT Shevaroy
-```
+1. India has **six** relief divisions for map questions: Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert (Thar), Coastal Plains, and Islands. The Thar is a **Pleistocene and recent** sand sheet, not an older Tertiary desert.
+2. From north to south the Himalayan belts are **Trans-Himalaya → Himadri (Greater) → Himachal (Lesser) → Shiwalik**. Himadri is crystalline and **fossil-less**. Himachal carries **marine fossils**. Shiwalik is the outermost belt and holds **human remains**.
+3. Among the usual age options, **Himadri is the youngest** Himalayan belt and **Aravalli is the oldest** fold mountain system of India. Guru Shikhar (**1722 m**) on Mount Abu is Rajasthan’s highest peak.
+4. The Kashmir Valley sits between **Pir Panjal on the south** and **Himadri on the north**, with Zanskar toward the north-west. **Karewas** are old lake-bed terraces of this valley and grow saffron. A **dun** is a different landform — a longitudinal valley between Himachal and Shiwalik.
+5. Central India hills from west to east run **Satpura → Mahadeo → Maikal → Chhotanagpur**. **Vindhya** lies **north** of the Narmada and **Satpura** lies **south** of the Narmada. Do not reverse them.
+6. The classic state–peak match set is **Tamil Nadu–Doddabetta**, **Rajasthan–Guru Shikhar**, **Nagaland–Saramati**, and **Madhya Pradesh–Dhupgarh**. Also lock **Kerala–Anaimudi** and **Uttarakhand–Nanda Devi**.
+7. **Lipulekh, Niti, and Mana** are all in **Uttarakhand**. Lipulekh is **not** in Ladakh. Mana is **not** in Himachal. **Nathu La** is Sikkim. **Shipki La** is Himachal.
+8. Tirupati’s Venkateswara temple stands on the **Tirumala / Mallamalla Hills** of the **Eastern Ghats** in Andhra Pradesh. It is **not** on the Shevaroy Hills of Tamil Nadu.
+9. **Intertrappean beds** between Deccan lava flows hold **land and freshwater** fossils. They do **not** hold sea plants and animals. Keep the depth locks: upper about **450 m**, middle about **1200 m**, lower about **150 m**.
+10. India is the **seventh**-largest country by area (about **3.28 million km²**, roughly **2.4%** of world land). The Tropic of Cancer passes through the **middle** of the country, so India is **not** wholly tropical.
+11. The **Atal Tunnel** runs under **Rohtang** in the **Pir Panjal** of Himachal Pradesh. The safe exam line is longest highway tunnel **above 10,000 ft** — not an unqualified “world’s longest.”
+12. The Tropic of Cancer (**23°30′ N**) crosses **eight states only**, west to east: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. It does **not** cross **Uttar Pradesh** or **Ladakh**.
+13. India’s Standard Meridian is **82°30′ E** near **Mirzapur, Uttar Pradesh**. It passes through **five states**: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh. **IST is GMT + 5 hours 30 minutes** for the whole country.
+14. **Namcha Barwa** lies in **Tibet** and is **not** an Indian peak. **K2** stands in the **Karakoram**, not on Himadri. **Kanchenjunga** is the highest peak **fully in India**.
+15. The **Konkan** coast is a coast of **submergence**. The **Malabar** and **Coromandel** coasts are coasts of **emergence**.
+16. The **Marwar Plateau** lies **east** of the Aravalli. The **Marwar Plain / Thar** lies **west** of the Aravalli. Do not swap the two.
+17. **Palghat (Palakkad) Gap** is a **rift** and the widest break in the Western Ghats, linking Kerala with Tamil Nadu. **Anaimudi (2695 m)** is the hub of Anamalai, Palani, and Cardamom and is the highest peak of South India.
+18. The snowline is **lower in the western Himalaya** than in the east. **Siachen** is the long Karakoram glacier of the Nubra belt. **Zemu** in Sikkim feeds the **Teesta**.
+19. The Western Ghats are a **continuous** wall from the Tapi gap toward Kanyakumari. The Eastern Ghats are **discontinuous** and lower. Nilgiri is the junction of both Ghats with the southern hills.
+20. **Purvanchal Hills** are the north-eastern fold hills beyond the Dihang (Patkai, Naga, Mizo, Mishmi). They are **not** the eastern Uttar Pradesh region also called Purvanchal.
+21. **Garo, Khasi, and Jaintia** hills form the **Meghalaya Plateau**. They are geologically **peninsular**, not Himalayan fold ranges. Mawsynram and Cherrapunji sit on the **Khasi Hills**.
+22. India’s northern extreme is **Indira Col** (Siachen / Ladakh). The southernmost **territory** is **Indira Point** on Great Nicobar. The southernmost **mainland** point is **Kanyakumari**. East is **Kibithu** (Arunachal); west is **Guhar Moti** (Gujarat).
+23. **Gujarat** has the longest **state** coastline. Mainland plus islands is about **7516 km**. Telangana is **not** a coastal state.
+24. The **10° Channel** separates Andaman from Nicobar. The **9° Channel** separates Minicoy from the rest of Lakshadweep. The **8° Channel** lies between Minicoy and the Maldives. Andaman–Nicobar are largely **volcanic**; Lakshadweep is **coral**.
+25. The Himalayan arc is about **2400 km** from the Indus gorge to the Dihang gorge. The western syntaxial bend is around **Nanga Parbat**. The eastern bend is around **Namcha Barwa** in Tibet.
+26. A **dun** is a longitudinal valley between Himachal and Shiwalik (Dehra Dun is the classic example). **Duars** are the West Bengal–Assam foothills that open toward Bhutan. They are not the same as the UP Terai belt.
+27. **Uttar Pradesh’s** highest point is **Amsot** (about **941 m**) in the Kaimur / Sonbhadra belt. It is a Vindhyan fringe peak, **not** a Himalayan summit.
+28. In Uttar Pradesh, Bhabar–Terai foothills appear in Pilibhit, Lakhimpur Kheri, Bahraich, and Shravasti. The core plain is the **Ganga–Yamuna Doab**. Bundelkhand in south-west UP is granite–gneiss and drought-prone.
+29. The Standard Meridian place lock for Uttar Pradesh is **Mirzapur**. The Tropic of Cancer does **not** enter Uttar Pradesh. Eastern UP “Purvanchal” is a **plain region**, not the NE Purvanchal Hills.
+30. **Annamalai** and **Sirumalai** are **Tamil Nadu peninsular** hills. They are **not** Himalayan peaks and must not sit in a Himalayan match list.
+31. The Deccan Plateau is the **southern** tableland of the old peninsular block. The Central Highlands (Malwa, Bundelkhand, Baghelkhand) are the **northern** part of the same block. The plateau slopes **high in the west and low in the east**.
+32. The Aravalli runs about **800 km** from Palanpur (Gujarat) toward Delhi. It is a **relict** Archaean fold belt and helps cast the rain shadow that feeds the Thar.
 
-### Confused pairs
+---
+
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -780,56 +792,6 @@ D. 1 and 2
 - **Telangana** is not a coastal state. **Puducherry** is a coastal UT with enclaves, not a “tenth coastal state” in this ranking.
 
 > **Exam note:** **Gujarat** has the longest **state** mainland coastline — not Maharashtra, Andhra Pradesh, or Kerala.
-
----
-
-## Consolidated Reference — Once Only
-
-### Numbers (not already a full table above)
-
-| Item | Value |
-|------|-------|
-| IST offset | GMT + 5 h 30 min (82°30′ E; Mirzapur) |
-| IST meridian states | UP, MP, Chhattisgarh, Odisha, Andhra Pradesh |
-| Coastline (including islands) | about 7516 km |
-| Highest peak fully in India | Kanchenjunga 8586 m |
-| Himalayan arc length | about 2400 km (Indus gorge to Dihang gorge) |
-| Aravalli length | about 800 km |
-
-### UP Focus
-
-| Element | Lock |
-|---------|------|
-| Foothills | Bhabar / Terai in Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti |
-| Core plain | Ganga–Yamuna Doab |
-| Bundelkhand | SW UP — Jhansi, Chitrakoot, Banda; granitic, drought |
-| Rohilkhand | Northern UP between Ganga and Ramganga |
-| Vindhyan / Kaimur | Sonbhadra–Mirzapur; **Amsot ~941 m** = UP highest (not Himalayan) |
-| Standard Meridian | **82°30′ E** at **Mirzapur**; path UP–MP–CG–Odisha–AP |
-| Tropic of Cancer | **Does not** pass through UP |
-| “Purvanchal” in UP | Eastern UP region / expressway — **not** NE Purvanchal Hills |
-
----
-
-## Must-score locks
-
-1. Himadri = fossil-less. Himachal = marine fossils. Shiwalik = human remains (2019 Q11, all three).
-2. Youngest among usual options = **Himadri**. Oldest = **Aravalli** (2020 Q60).
-3. Kashmir Valley = **Pir Panjal + Himadri** (2020 Q66).
-4. Central India west→east = **Satpura → Mahadeo → Maikal → Chhotanagpur** (2019 Q6).
-5. Repeat peak match: **TN Doddabetta, RJ Guru Shikhar, NL Saramati, MP Dhupgarh** (2018 / 2021 / 2025).
-6. **Lipulekh, Niti, Mana = Uttarakhand.** Lipulekh is not Ladakh. Mana is not Himachal.
-7. Tirupati = **Mallamalla / Tirumala (Eastern Ghats)**, not Shevaroy (2018 Q100).
-8. Intertrappean beds = **freshwater / land**, not sea fossils (2024 Q59).
-9. India = **7th** largest, **2.4%**, Tropic through the **middle**, **not** wholly tropical (2022 Q35).
-10. Atal Tunnel = **Pir Panjal / Rohtang**; longest highway tunnel **above 10,000 ft**, not unqualified world longest (2025 Q44).
-11. Tropic of Cancer = **eight states only**. Not UP. Not Ladakh.
-12. Standard Meridian = **82°30′ E / Mirzapur**; **five states** UP–MP–CG–Odisha–AP; IST = **+5:30** for **all** India.
-13. **Namcha Barwa** is not in India. **K2** is Karakoram, not Himadri. **Kanchenjunga** is the highest peak fully in India.
-14. **Konkan** = coast of **submergence**. **Malabar** and **Coromandel** = **emergence**.
-15. **Marwar Plateau** is **east** of Aravalli. **Marwar Plain / Thar** is **west**.
-16. **Palghat** is a **rift** gap. **Anaimudi** is the hub of Anamalai, Palani, and Cardamom.
-17. Snowline is **lower in western Himalaya** than in the east. **Siachen** = Karakoram / Nubra. **Zemu** = Sikkim / Teesta.
 
 ---
 

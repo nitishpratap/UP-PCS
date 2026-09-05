@@ -14,52 +14,38 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 26 Must-Score Locks
 
-```
-RED DATA BOOK vs IUCN RED LIST:
-  Red Data Book = NATIONAL catalogue (India: BSI plants, ZSI animals)
-  IUCN Red List = GLOBAL risk categories (IUCN, Gland)
-  BSI Kolkata = plant Red Data Book | ZSI Kolkata = animal Red Data Book
+1. India’s **Red Data Book** is a **national** catalogue — **BSI** for plants, **ZSI** for animals (both Kolkata). The **IUCN Red List** is the **global** extinction-risk system from IUCN (Gland).
+2. IUCN has nine categories: EX, EW, CR, EN, VU, NT, LC, DD, NE. Risk order puts CR above EN above VU among living threatened tiers.
+3. **Threatened** on IUCN means **VU + EN + CR** only — not “Endangered” alone.
+4. IUCN assesses extinction risk. **CITES** regulates international wildlife **trade**. Different institutions, different jobs.
+5. **Ramsar (1971)** is the wetlands treaty under Wise Use. World Wetlands Day is **2 February**.
+6. Uttar Pradesh Ramsar examples include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga, Bakhira, and Haiderpur. **Rudrasagar is Tripura**; **Sultanpur is Haryana** — not UP.
+7. **Mangroves** are salt-tolerant coastal forests with **pneumatophores** and often viviparous seeds. **Sundarbans** is the classic largest mangrove belt; Rhizophora and Avicennia are common genera.
+8. **MISHTI** is the Union Budget **2023–24** mangrove restoration push. Do not date it as 2019.
+9. **Coral reefs** are built from calcium-carbonate skeletons and live with symbiotic **zooxanthellae**. **Bleaching** happens when heat stress expels the algae.
+10. India’s coral belts include Gulf of Mannar, Lakshadweep, Andaman & Nicobar, and Gulf of Kutch.
+11. **Grasslands** are grass-dominated systems maintained by fire and grazing. UP’s Terai is a foothill grassland–forest mosaic; **Dudhwa** holds barasingha (swamp deer). Kaziranga is the floodplain grassland rhino lock.
+12. Himalayan vegetation follows altitude belts: tropical → subtropical → temperate → alpine → nival. Snow leopard is a high Himalaya lock; Dudhwa is Terai foothill fringe, not alpine.
+13. Marine **neritic** shelf waters are the highest fisheries-productivity zone; pelagic means open ocean. India’s coast is about **7516 km**.
+14. The **Gangetic dolphin** is a **freshwater river** dolphin — not a marine species trap.
+15. Wetland ≠ mangrove ≠ coral. Inland marsh, saline coastal forest, and reef builders are three different ecosystems.
+16. Pneumatophores are mangrove breathing roots for gas exchange in waterlogged saline soil.
+17. Amrit Dharohar (**2023**) is India’s wetland stewardship framing beside Ramsar listing.
+18. Coral bleaching is a stress response, not a synonym for mangrove dieback.
+19. Terai grasslands of UP are not Himalayan alpine meadows.
+20. Red Data Book (national BSI/ZSI) is not identical to IUCN Red List categories, even when species appear on both tracks.
+21. World Wetlands Day is February **2**, not Environment Day (5 June).
+22. Mangrove restoration schemes do not make landlocked UP a mangrove state — UP links are scheme awareness and river–wetland ecology.
+23. Zooxanthellae live inside coral polyps; losing them bleaches the coral’s colour and energy supply.
+24. Threatened = three IUCN tiers combined. Memorise VU, EN, CR as the band.
+25. CMS covers migratory species; Ramsar covers wetlands; do not swap those treaty jobs when ecosystems are asked.
+26. Dudhwa = Terai grassland–forest and barasingha; Sundarbans = mangrove; Lakshadweep/Mannar = coral — keep the flagship map clean.
 
-IUCN — 9 CATEGORIES:
-  EX | EW | CR | EN | VU | NT | LC | DD | NE
-  THREATENED = VU + EN + CR (three only — NOT Endangered alone)
-  Risk hierarchy: CR > EN > VU | EX > EW > CR...
-  IUCN assesses risk | CITES regulates trade (different bodies)
+---
 
-WETLANDS:
-  Ramsar 1971 | Wise Use | World Wetlands Day = 2 February
-  UP Ramsar: Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga, Bakhira, Haiderpur…
-  NOT UP: Rudrasagar (Tripura), Sultanpur (Haryana) — 2025 Q58
-
-MANGROVES:
-  Salt-tolerant coastal forests | pneumatophores | viviparous seeds
-  Sundarbans = largest mangrove forest | Rhizophora, Avicennia
-  MISHTI = Union Budget 2023-24 — restore mangroves — NOT 2019 (Q93)
-
-CORAL REEFS:
-  CaCO₃ skeletons + zooxanthellae symbiosis
-  Bleaching = heat stress expels algae | +2°C Indian Ocean (2024 Q19)
-  India: Gulf of Mannar, Lakshadweep, A&N, Gulf of Kutch
-
-GRASSLANDS:
-  Grass-dominated; fire + grazing maintain | Terai = UP foothill mosaic
-  Dudhwa = Terai grassland-forest | barasingha (swamp deer)
-  Kaziranga = floodplain grassland rhino habitat
-
-HIMALAYAN ECOSYSTEM:
-  Altitude → climate → vegetation belts (2025 Q21: A & R true, R explains A)
-  Tropical → Subtropical → Temperate → Alpine → Nival
-  Snow leopard (high Himalaya) | Dudhwa = Terai foothill fringe
-
-MARINE ECOSYSTEM:
-  Neritic shelf = highest fisheries productivity | pelagic = open ocean
-  India ~7516 km coast | Arabian Sea + Bay of Bengal
-  Gangetic dolphin = freshwater river — NOT marine trap
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -342,20 +328,6 @@ D. Both true; R explains A
 
 ---
 
-## Consolidated Reference
-
-| Ecosystem | Key lock | India flagship | UP link |
-|-----------|----------|----------------|---------|
-| Wetland | Ramsar, 2 Feb | Chilika, Keoladeo | Sarsai Nawar, Samaspur |
-| Mangrove | Pneumatophores, saline | Sundarbans | Landlocked — scheme only |
-| Coral reef | Zooxanthellae, bleaching | Lakshadweep, Mannar | National exam |
-| Grassland | Terai, barasingha | Dudhwa, Kaziranga | **Dudhwa Terai** |
-| Himalayan | Altitude belts | Valley of Flowers | Terai foothills |
-| Marine | Neritic productivity | Gahirmatha turtles | Ganga estuary |
-
-**Schemes/dates:** MISHTI **2023–24** | Amrit Dharohar **2023** | World Wetlands Day **2 February** | Ramsar **1971**
-
----
 
 ## Practice Zone
 

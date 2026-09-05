@@ -15,43 +15,38 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-ARC
-Shivaji swaraj → Sambhaji/Rajaram vs Aurangzeb → Shahu 1707 → hereditary Peshwa 1713
-→ confederacy → Panipat III 1761 → Anglo-Maratha end 1818
+1. **Shivaji (1630–1680)** built swaraj, was crowned **Chhatrapati at Raigad in 1674**, and died at Raigad in **1680**.
+2. He was born at **Shivneri** to **Shahji Bhonsle** and **Jijabai**.
+3. At **Pratapgad in 1659**, Shivaji killed Bijapur's **Afzal Khan** and expanded western Deccan power.
+4. By the **Treaty of Purandar (1665)** with **Raja Jai Singh I**, Shivaji surrendered **23 forts**; the **Agra** detention followed in **1666**.
+5. Big **Deshmukhs** opposed an independent Maratha state because they preferred remaining **Bijapur feudal lords**.
+6. The **Ashtapradhan** was Shivaji's eight-minister council; under him the **Peshwa** was one minister, not the sovereign.
+7. Ashtapradhan portfolios: **Peshwa** admin, **Amatya** finance, **Mantri** records, **Senapati** army, **Sumant** foreign affairs, **Nyayadish** justice, **Pandit Rao** religion, **Sachiv** letters.
+8. **Chauth** is a **25%** protection levy; **sardeshmukhi** is an extra **10%** hereditary chief claim (together up to **35%**).
+9. From **1713**, **Balaji Vishwanath** made the Peshwa office **hereditary** and de facto ruling under Shahu.
+10. Core Peshwa order: **Balaji Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I → Narayan Rao → Raghunath Rao**.
+11. **Bajirao I (1720–40)** drove north expansion; **Balaji Bajirao (1740–61)** belongs to the Panipat III generation.
+12. **Madhav Rao I (1761–72)** comes **before** **Narayan Rao (1772–73)**; do not reverse them.
+13. At **Panipat III on 14 January 1761**, **Ahmad Shah Abdali** defeated the Marathas under **Sadashiv Rao Bhau**; heir **Vishwas Rao** was killed.
+14. Panipat III is not Panipat I (**1526**) or II (**1556**); **Shivaji** was already dead and did not fight it.
+15. **Nadir Shah's Delhi sack (1739)** is a separate Afghan shock from Abdali's Panipat victory.
+16. After Shivaji, **Sambhaji** was executed in **1689**; **Shahu** was released after **1707** and the Peshwa line rose.
+17. Later confederacy seats: **Peshwa–Pune**, **Scindia–Gwalior**, **Holkar–Indore**, **Gaekwad–Baroda**, **Bhonsle–Nagpur**.
+18. The **Treaty of Lanavada (1718)** won Mughal recognition of Maratha chauth rights.
+19. **Palkhed (1728)** is Bajirao I's famous campaign against the **Nizam**.
+20. Shivaji's navy used Konkan forts such as **Sindhudurg** and **Vijaydurg**.
+21. Maratha **chauth** reached the **Doab**, **Bundelkhand**, and **Rohilkhand**.
+22. Peshwa power ended with the British in **1818**; the last Peshwa was **Baji Rao II**.
+23. **Shaista Khan** was raided in Pune in **1663** before the Purandar settlement.
+24. **Abwab** and **Jamadani** are distractors; the protection revenue name asked is **Chauth**.
+25. Cause–course–result for Purandar: Aurangzeb sent Jai Singh, Shivaji surrendered forts under treaty, then recovered strength toward the 1674 coronation.
+26. Cause–course–result for Panipat III: Maratha northern surge met Abdali and Najib-ud-Daula; Bhau's army was crushed; the all-India northern surge broke though the confederacy survived.
 
-SHIVAJI (1630–1680)
-Born Shivneri | Shahji Bhonsle + Jijabai | Chhatrapati at Raigad 1674
-Afzal Khan Pratapgad 1659 | Shaista Khan raid 1663 | Purandar 1665 (Jai Singh)
-Agra 1666 | Navy: Sindhudurg / Vijaydurg | Died Raigad 1680
-2024 Q18 = A: Deshmukhs opposed independent Maratha state (wanted Bijapur feudal status)
+---
 
-ASHTAPRADHAN (8)
-Peshwa = general admin | Amatya = finance | Mantri = records
-Senapati = army | Sumant = foreign | Nyayadish = justice
-Pandit Rao = religion | Sachiv = letters
-Under Shivaji the Peshwa is ONE minister, not the king
-
-REVENUE
-Chauth = 1/4 (25%) protection — 2018 Q93 = B
-Sardeshmukhi = extra 10% hereditary chief claim
-Together up to 35% | Abwab/Jamadani are distractors
-
-PESHWA ORDER (★★★)
-Balaji Vishwanath 1713–20 → Bajirao I 1720–40 → Balaji Bajirao 1740–61
-→ Madhav Rao I 1761–72 → Narayan Rao 1772–73 → Raghunath Rao 1773–74
-2025 Q149: 3-1-2-4 = C (Vishwanath → Bajirao I → Balaji Bajirao → Madhav)
-2023 Q35: I-II-IV-III = D (Madhav BEFORE Narayan)
-2024 Q1: 4-2-3-1 = A (Vishwanath → Balaji Baji → Narayan → Raghoba)
-
-PANIPAT III — 14 Jan 1761
-Abdali vs Sadashiv Rao Bhau | Vishwas Rao killed | north surge broken
-NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -256,26 +251,6 @@ D. A true, R false
 - **Result:** Abdali won decisively. The defeat ended the Maratha **all-India northern surge** but did **not** erase the confederacy overnight. **Balaji Bajirao** died the same year; **Madhav Rao I** later recovered some ground.
 
 > **Exam note:** **Panipat I (1526)** = Babur. **Panipat II (1556)** = Akbar–Hemu. **Panipat III (1761)** = Abdali–Marathas. **Nadir Shah (1739)** is a separate Afghan shock.
-
----
-
-## Consolidated Reference
-
-### Date spine
-
-| Year | Lock |
-|------|------|
-| **1630** | Shivaji born, Shivneri |
-| **1659** | Afzal Khan, Pratapgad |
-| **1665** | Purandar |
-| **1674** | Raigad coronation |
-| **1680** | Shivaji dies |
-| **1713** | Hereditary Peshwa |
-| **1761** | Panipat III |
-
-### UP hook
-
-Chauth and Maratha horse in the **Doab / Bundelkhand / Rohilkhand**. Panipat itself is the Haryana field used three times in the syllabus.
 
 ---
 

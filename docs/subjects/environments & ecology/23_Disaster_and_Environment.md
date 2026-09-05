@@ -14,49 +14,36 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-DISASTER ↔ ENVIRONMENT:
-  Degradation raises risk (deforestation → landslides/floods)
-  Disasters degrade ecosystems (erosion, pollution, forest loss)
+1. Environmental degradation raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
+2. Flood types include riverine floods on the Ganga plains, flash floods/cloudbursts in Himalaya–Terai, and urban waterlogging. UP river locks include Ganga, Yamuna, Ghaghara, Rapti, and Gandak.
+3. **NDMA** is under the Disaster Management Act **2005**. The **Prime Minister** chairs NDMA. **NDRF** is the response force. Sendai Framework for disaster risk reduction is **2015**.
+4. Drought progresses from **meteorological** (low rain) to **agricultural** (soil moisture) to **hydrological** (rivers and wells). Bundelkhand’s seven UP districts are a chronic drought hotspot.
+5. **DPAP** (Drought Prone Areas Programme) is **1973**. Do not date DPAP as **1952**. A rough programme spine is CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979.
+6. Landslides need gravity, water, weak slopes, and often vegetation loss. Himalaya and north-eastern hills are core belts. Kedarnath **2013** is the cloudburst–landslide–flood chain lock. Roads, mining, and deforestation are human triggers.
+7. Tropical cyclones need warm seas around **26–27°C**. The **Bay of Bengal** produces more than the Arabian Sea. The **eye** is calm; the **eyewall** has the strongest winds; **storm surge** is the coastal flood killer.
+8. Mangroves reduce storm-surge damage. Named cyclone memory often uses Fani (**2019**) and Amphan (**2020**).
+9. IMD plains heat-wave idea: about **≥40°C** with departure **+4.5°C to +6.4°C** as heat wave; severe when departure is **≥+6.4°C** or temperature **≥47°C**. Peak is May–June in North India. Urban heat island amplifies cities but is not identical to a heat-wave definition.
+10. Forest fires need fuel, oxygen, and ignition. Peak season is roughly March–June. Chir pine needles are a Himalayan fuel lock. FSI issues satellite fire alerts.
+11. **Piral Lao–Paise Pao** in Uttarakhand pays for pine-needle collection to cut fire risk and raise income. It is an Uttarakhand flagship, not a default UP scheme name.
+12. NDMA Chair = Prime Minister — a recurring institution lock.
+13. Eye ≠ strongest winds. Eyewall holds the violence; eye is the calm core.
+14. Landslides are not “purely natural” when exam options ignore slope cutting and deforestation.
+15. Heat wave (IMD criteria) ≠ urban heat island (city microclimate effect), though cities worsen heat stress.
+16. DPAP year is **1973**, not the older CDP **1952** tag.
+17. Cloudburst is extreme local rain in a short time — often the Himalayan flood trigger neighbour to landslides.
+18. Storm surge is sea pushed ashore by cyclone winds — distinct from ordinary astronomical tide.
+19. Meteorological drought is rainfall failure; agricultural drought is crop-moisture failure; hydrological drought is stream/groundwater failure. Keep the sequence.
+20. Sendai **2015** is the global DRR framework lock beside India’s NDMA architecture.
+21. Forest-fire season and chir-pine fuel matter more in Uttarakhand hills than in deep Gangetic floodplain districts.
+22. Cyclone naming and Bay of Bengal dominance are coastal locks; UP’s disaster map is flood–drought–heat first.
+23. NDRF is the specialised response force; NDMA is the apex policy body chaired by the PM.
+24. Bundelkhand drought and Terai/Ganga floods are the two UP geography disaster anchors on this sheet.
 
-FLOODS:
-  Riverine (Ganga plains) | Flash/cloudburst (Himalaya/Terai) | Urban waterlogging
-  UP rivers: Ganga, Yamuna, Ghaghara, Rapti, Gandak
-  NDMA 2005 | NDRF | Sendai Framework 2015 | PM = NDMA Chair
+---
 
-DROUGHT:
-  Meteorological (low rain) → Agricultural (soil moisture) → Hydrological (rivers/wells)
-  Bundelkhand 7 UP districts = chronic hotspot
-  DPAP = Drought Prone Areas Programme **1973** (2025 Q134)
-  CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979
-
-LANDSLIDES:
-  Gravity + water + weak slope + vegetation loss
-  Himalaya / NE hills | Kedarnath 2013 = cloudburst–landslide–flood chain
-  Human triggers: deforestation, road cutting, mining
-
-CYCLONES:
-  Warm sea ≥26–27°C | Bay of Bengal > Arabian Sea
-  Eye = calm | Eyewall = strongest winds | Storm surge = coastal flood killer
-  Names: Amphan 2020, Fani 2019 | Mangroves reduce surge damage
-
-HEAT WAVES:
-  IMD plains: ≥40°C + departure +4.5°C to +6.4°C = heat wave
-  Severe: departure ≥+6.4°C OR temp ≥47°C
-  Urban heat island amplifies cities | Peak May–June North India
-
-FOREST FIRES:
-  Fuel + oxygen + ignition | Peak March–June | Chir pine needles
-  Piral Lao–Paise Pao (Uttarakhand) = pine needle collection → fewer fires + income (2024 Q86)
-  FSI satellite fire alerts
-
-TRAPS: DPAP ≠ 1952 | Eye ≠ strongest winds | Landslides not purely natural
-  Heat wave ≠ urban heat island | Piral Lao = Uttarakhand not UP flagship
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -242,20 +229,6 @@ D. Both 1 and 2
 
 ---
 
-## Consolidated Reference
-
-| Disaster | UP/India lock | Key institution/scheme |
-|----------|---------------|------------------------|
-| Flood | Ganga–Yamuna–Terai | NDMA, NDRF, CWC |
-| Drought | Bundelkhand 7 | DPAP 1973 |
-| Landslide | Himalaya/Kedarnath 2013 | GSI zonation |
-| Cyclone | Bay of Bengal coast | IMD naming |
-| Heat wave | May–June plains | IMD criteria |
-| Forest fire | Chir pine belt | Piral Lao; FSI alerts |
-
-**NDMA Chair = Prime Minister** (2021 Q26). Sendai Framework = **2015** disaster risk reduction.
-
----
 
 ## Practice Zone
 

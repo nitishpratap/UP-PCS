@@ -15,42 +15,42 @@ Turkish Invasions of India | Muhammad Ghori | Establishment of the Delhi Sultana
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-712 Qasim→Sindh | Mahmud 17 raids→Punjab | Ghori 1192 Tarain→stay
-1191 Tarain I Ghori LOST | 1192 Tarain II WON | 1194 Chandawar Jay Chandra killed
-1206 Aibak Sultan Lahore | 1526 Panipat I Babur→Ibrahim (Sultanate ends)
+1. In **712**, **Muhammad bin Qasim** took **Sindh** (Debal); this was an Indus foothold, not permanent Gangetic conquest.
+2. **Mahmud of Ghazni** led about **17** raids, annexed **Punjab and Multan**, and plundered **Somnath** in **1025**, but he usually **raided and withdrew**.
+3. **Muhammad Ghori** practised **territorial conquest** — governors, garrisons, and coinage — unlike Mahmud’s raid-and-return pattern.
+4. At **First Tarain (1191)** Ghori lost to Prithviraj; at **Second Tarain (1192)** Ghori won and stayed.
+5. At **Chandawar (1194)** **Jay Chandra** was killed; at **First Panipat (1526)** **Babur** defeated **Ibrahim Lodi** and the Sultanate ended.
+6. Five dynasties span **1206–1526**: **Slave 1206–1290** → **Khalji 1290–1320** → **Tughlaq 1320–1414** → **Sayyid 1414–1451** → **Lodi 1451–1526**.
+7. **Qutb-ud-din Aibak** became Sultan at **Lahore** in **1206** and died playing **chaugan**.
+8. **Iltutmish** (**1210–1236**) was the true consolidator of the Slave dynasty.
+9. **Razia** (**1236–1240**) was the **only woman Sultan** of Delhi.
+10. **Balban** enforced court rituals of **Sijda** (prostration) and **Paibos** (kissing the feet).
+11. **Alauddin Khalji** used **Dagh** (horse branding) and **Chehra** (soldier descriptive rolls) to control the army.
+12. Alauddin’s north–Deccan conquest order is **Jaisalmer → Ranthambor → Chittor → Warangal**; Gujarat fell in **1299**; **Malik Kafur** rose from Cambay.
+13. Alauddin took about **50%** of Doab produce, built **Siri Fort**, used the title **Sikandar-i-Sani**, and died in **1316**.
+14. **Shahna-i-Mandi** was Alauddin’s market controller; **Amir-i-Kohi** was Muhammad bin Tughlaq’s agriculture department — do not swap them.
+15. **Muhammad bin Tughlaq** pushed the capital toward **Daulatabad**, tried **token currency** (**1329–30**), and created **Amir-i-Kohi**.
+16. **Firoz Shah Tughlaq** dug canals, made **iqta hereditary**, and campaigned at **Nagarkot**.
+17. **Ibrahim Lodi** (**1517–1526**) was the last Delhi Sultan.
+18. **Iqta** revenue went to the **Muqti**, not directly to the Sultan; **Khalsa** was crown land; assigned noble land is **jagir / iqta**.
+19. **Khams** was one-fifth of war booty; **jizya** was the tax on non-Muslims.
+20. Admin locks: **Diwan-i-Tan** = salaries; **Mustarfi** = audit; **Mushrif** = accounts; **Vakianvis** = firmans; **Khareetadar** = despatch of decrees.
+21. **Tarikh-i-Firoz Shahi** and **Tughlaqnama** are by **Barani**, not Ibn Battuta; **Rihla** is Ibn Battuta’s travel book.
+22. **Tabaqat-i-Nasiri** is by **Minhaj**; Amir Khusrau wrote **Rag Vibodh**.
+23. Architecture locks: **Sultan Garhi** = Iltutmish; **Red Palace** = Balban; **Jamat Khana** = Alauddin; **Dhai Din Ka Jhopra** = Aibak.
+24. **Qutub Minar** was started by Aibak and finished by Iltutmish; **Alai Darwaza** is Alauddin’s gateway of **1311**.
+25. **Bakhtiyar Khalji** took **Nadia and Bengal** in **1204**; **Timur** sacked Delhi in **1398**.
+26. **Sikandar Lodi** built up **Agra**; do not confuse him with **Ibrahim Lodi** at Panipat **1526**.
+27. UP battle locks: **Chandawar / Kannauj** for Jay Chandra **1194**; **Jaunpur** annexed by Bahlul in **1484**; **Kol (Aligarh)** as an early garrison; **Panipat** as Delhi’s gateway field.
+28. **Chakla** sat between Subah and Pargana in later usage; **Sarkar** is mainly a **Mughal** term trap in Sultanate stems.
+29. Turkish success rested on Rajput **disunity** after Pratihara decline — Chauhans, Gahadavalas, Chandelas, and Paramaras fought separately.
+30. Ghaznavids **raided**; Ghurids **conquered and stayed** — that contrast is the first Turkish-invasion trap.
 
-5 DYNASTIES (1206–1526)
-Slave 1206–1290 | Khalji 1290–1320 | Tughlaq 1320–1414 | Sayyid 1414–1451 | Lodi 1451–1526
+---
 
-KEY RULERS
-Aibak 1206–1210 Chaugan | Iltutmish ★consolidator 1210–1236 | Razia 1236–1240 only woman Sultan
-Balban 1266–1287 Sijda/Paibos | Alauddin 1296–1316 Dagh/Chehra | Muhammad bin Tughlaq 1325–1351 Daulatabad/token currency/Amir-i-Kohi
-Firoz 1351–1388 canals/hereditary iqta/Nagarkot | Ibrahim Lodi 1517–1526 last Sultan
-
-ALAUDDIN ORDER (2022 Q59 = B 2-1-4-3; 2025 Q30 = B 2-1-4-3)
-Jaisalmer → Ranthambor → Chittor → Warangal | Gujarat 1299 | Malik Kafur from Cambay
-Dagh/Chehra | Shahna-i-Mandi | 50% Doab | Siri Fort | Sikandar-i-Sani | died 1316
-
-ADMIN 2020 Q38 = B 3-4-1-2
-Diwan-i-Tan→salaries | Mustarfi→audit | Mushrif→records | Vakianvis→firmans | Khareetadar→despatch decrees
-
-REVENUE
-Iqta→Muqti (NOT direct to Sultan — 2019 Q15) | Khalsa=crown land | Jagir/Iqta=assigned (2025 Q95 = C)
-Khams 1/5 booty | Jizya on non-Muslims | Alauddin Doab 50%
-
-LITERATURE TRAPS
-Tarikh-i-Firoz Shahi + Tughlaqnama = Barani (NOT Ibn Battuta — 2019 Q16)
-Tabaqat-i-Nasiri = Minhaj | Amir Khusrau = Rag Vibodh | Ibn Battuta = Rihla at Tughlaq court
-
-ARCHITECTURE 2022 Q4 = A 3-4-1-2
-Sultan Garhi-Iltutmish | Red Palace-Balban | Jamat Khana-Alauddin | Dhai Din Ka Jhopra-Aibak
-Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -975,44 +975,6 @@ D. 4-3-2-1
 **Trap:** **Qutub Minar** (Aibak start/Iltutmish finish) ≠ **Alai Darwaza** (Alauddin **1311**) — different builders, same complex area.
 
 </details>
-
----
-
-## Consolidated Reference
-
-### Complete chronology table (exam spine)
-
-| Year | Event |
-|------|-------|
-| **712** | Qasim — Sindh |
-| **1025** | Mahmud — Somnath |
-| **1191** | First Tarain — Ghori lost |
-| **1192** | Second Tarain — Ghori won |
-| **1194** | Chandawar — Jaichand killed |
-| **1204** | Bakhtiyar — Nadia/Bengal |
-| **1206** | Aibak Sultan at Lahore |
-| **1221** | Iltutmish refuses Jalaluddin asylum |
-| **1236–1240** | Razia Sultan |
-| **1290** | Khalji coup |
-| **1299–1311** | Alauddin conquests |
-| **1320** | Tughlaq dynasty begins |
-| **1327** | Daulatabad transfer |
-| **1398** | Timur sacks Delhi |
-| **1414** | Sayyid dynasty |
-| **1451** | Lodi dynasty |
-| **1484** | Jaunpur annexed |
-| **1526** | Panipat I — Sultanate ends |
-
-### UP Focus
-
-| Place | Why asked |
-|-------|-----------|
-| **Tarain/Thanesar** | Haryana–UP border; 1191/1192 |
-| **Kannauj/Chandawar** | Jay Chandra 1194 |
-| **Kol (Aligarh)** | Early Ghori garrison |
-| **Jaunpur** | Sharqi culture; Bahlul annexation 1484 |
-| **Panipat** | Delhi gateway; 1526/1556/1761 |
-| **Ajmer** | Adhai Din Ka Jhopra |
 
 ---
 

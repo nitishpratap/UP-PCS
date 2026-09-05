@@ -15,26 +15,32 @@ World Rivers by Continent | Superlatives (longest / discharge / deepest) | Delta
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-RIVERS: Nile Africa · Amazon S America · Yangtze Asia · Mississippi–Missouri N America · Volga Europe · Murray–Darling Australia
- SUPERLATIVES: Nile longest (Prelims) · Amazon largest discharge · Congo deepest + crosses Equator TWICE · Yangtze longest Asia · Volga longest Europe · Danube most countries
- Congo = Zaire · Niger = paradox (inland first) · GERD = Blue Nile (Ethiopia) · Aswan → Lake Nasser
- Mekong: Tibet → SE (NOT SW) · delta = S Vietnam NOT Cambodia
- Amur NE · Syr Darya NW (Aral) · Angara N from Baikal · Volga source = Valdai Hills → Caspian
-DELTA: Nile / Hwang Ho / Niger = arcuate (bow) · Mississippi = bird’s-foot · Mekong mouth = S Vietnam
-CITIES: Budapest–Danube · Cologne–Rhine · New Orleans–Mississippi · Hyderabad–Musi
-BORDER: USA–Mexico = Rio Grande (not Colorado) | Danube most international
-NAV: Rhine · Danube · Volga · St Lawrence · Yangtze · Mississippi
-DAMS: Three Gorges–Yangtze · Aswan–Nile · Itaipu–Paraná · Kariba–Zambezi · Hoover–Colorado
-LAKES: Caspian largest · Superior largest freshwater area · Baikal deepest + most fresh volume (+ oldest)
- Tanganyika = 2nd deepest / longest fresh · Titicaca = highest navigable · Dead Sea = lowest land + ~34% salt
- Great Lakes W→E: Superior Michigan Huron Erie Ontario (Super Man Helps Every One)
- Types: tectonic/rift · glacial · crater · lagoon · oxbow · endorheic (Aral, Chad, Dead, Eyre)
- Onega = RUSSIA not Canada | Michigan = USA only | Maracaibo = Venezuela
-FALLS: Angel highest (Venezuela) · Victoria Zambezi (width fame) · Niagara US–Canada · Iguazu BR–AR
-```
+1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
+2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** is on the **Musi**, not the Godavari or Paleru.
+3. The **Mekong** rises in Tibet, flows **south / south-east**, and builds its delta in **southern Vietnam**. It does **not** flow south-west and the delta is **not** in Cambodia.
+4. Direction locks: **Amur** north-east; **Syr Darya** north-west into the Aral; **Angara** north out of Baikal; **Volga** from the Valdai Hills into the **Caspian**.
+5. The main USA–Mexico border river is the **Rio Grande**. The **Colorado** is the usual trap option.
+6. **Lake Onega** is in **Russia**, not Canada. **Lake Michigan** lies wholly in the **USA**. **Maracaibo** is in Venezuela. **Baikal** is in Russia.
+7. Superlatives: the **Nile** is longest for Prelims; the **Amazon** has the largest discharge; the **Congo** is deepest and crosses the Equator **twice**; the **Yangtze** is Asia’s longest; the **Volga** is Europe’s longest.
+8. Delta shapes: **Mississippi** = bird’s-foot; **Nile**, **Hwang Ho**, and **Niger** = arcuate (bow).
+9. The **Danube** crosses the most countries. The **Rhine** is Europe’s busiest navigation artery.
+10. **Khartoum** is where the White and Blue Nile meet. **Aswan** created **Lake Nasser**. **GERD** sits on the **Blue Nile** in Ethiopia.
+11. Dam locks: **Three Gorges–Yangtze**, **Aswan–Nile**, **Itaipu–Paraná**, **Hoover–Colorado**, **Kariba–Zambezi**.
+12. The **Caspian** is the largest lake. **Superior** is the largest freshwater lake by area. **Baikal** is deepest, holds the most fresh volume, and is among the oldest.
+13. **Tanganyika** is second deepest and the longest freshwater lake. **Titicaca** is the highest navigable lake. The **Dead Sea** is the lowest land surface and is hypersaline (about **34%** salt).
+14. Great Lakes west to east: **Superior → Michigan → Huron → Erie → Ontario** (mnemonic: Super Man Helps Every One).
+15. Falls: **Angel** (Venezuela) is highest; **Victoria** is on the Zambezi; **Niagara** is US–Canada; **Iguazu** is Brazil–Argentina.
+16. The **St Lawrence** is the Great Lakes seaway. The **Rhine–Main–Danube** canal links the Black Sea system to the Rhine.
+17. The **Aral Sea** shrinks mainly because the **Amu Darya** and **Syr Darya** were diverted. **Lake Chad** is also shrinking.
+18. The **Niger** is the paradox river that first flows inland. The Congo is also known as the **Zaire**.
+19. The **Darling Range** is a highland of south-west Australia. It is **not** the same as the **Murray–Darling** river system.
+20. **Endorheic** lakes have no ocean outlet — Caspian, Aral, Dead Sea, Chad, and Eyre.
+21. More city locks: **Baghdad–Tigris**, **Paris–Seine**, **London–Thames**, **Cairo–Nile**.
+22. Lake types include tectonic/rift, glacial, crater, lagoon, and oxbow. Do not dump every famous lake as simply a “fresh lake”.
+23. Continent spine: Nile (Africa), Amazon (South America), Yangtze (Asia), Mississippi–Missouri (North America), Volga (Europe), Murray–Darling (Australia).
+24. Navigation classics include the Rhine, Danube, Volga, St Lawrence, Yangtze, and Mississippi.
 
 ---
 
@@ -456,35 +462,6 @@ Highest ≠ widest ≠ most famous. Lock Angel for height and Victoria for the Z
 | **Niagara** | Niagara (Erie → Ontario) | USA–Canada | |
 | **Iguazu / Iguaçu** | Iguazu (Paraná system) | Brazil–Argentina | |
 | Yosemite | Yosemite Creek | USA (California) | |
-
----
-
-## Consolidated — 24 Must-Score Locks
-
-1. New Orleans = **Mississippi**, not Missouri; Missouri joins at **St Louis**.
-2. Budapest = Danube; Cologne = Rhine; Hyderabad = **Musi** (not Paleru / Godavari).
-3. Mekong: Tibet; flows **SE**; delta **Vietnam**; **not SW / Cambodia**.
-4. Amur NE; Syr Darya NW to Aral; Angara **N** from Baikal; Volga → **Caspian** (Valdai source).
-5. USA–Mexico = **Rio Grande** (Colorado is the trap).
-6. Onega = **Russia**; Michigan = **USA only**; Maracaibo = Venezuela; Baikal = Russia.
-7. Nile longest (Prelims); Amazon largest discharge; Congo deepest + Equator **twice**; Yangtze longest Asia; Volga longest Europe.
-8. Mississippi = bird’s-foot; Nile / Hwang Ho / Niger = arcuate.
-9. Danube = most countries; Rhine = busiest Europe navigation.
-10. Khartoum = White + Blue Nile; Aswan → Lake Nasser; GERD = Blue Nile (Ethiopia).
-11. Three Gorges–Yangtze; Aswan–Nile; Itaipu–Paraná; Hoover–Colorado; Kariba–Zambezi.
-12. Caspian largest lake; Superior largest fresh area; Baikal deepest / fresh volume / old.
-13. Tanganyika = 2nd deepest / longest fresh; Titicaca = highest navigable; Dead Sea = lowest + hypersaline.
-14. Great Lakes W→E = Superior Michigan Huron Erie Ontario (Super Man Helps Every One).
-15. Angel = highest; Victoria = Zambezi; Niagara = US–Canada; Iguazu = BR–AR.
-16. St Lawrence = Great Lakes seaway; Rhine–Main–Danube links Black Sea to Rhine system.
-17. Aral shrinks because Amu / Syr Darya diversion; Chad also shrinking.
-18. Niger = paradox river; Congo = Zaire name awareness.
-19. Darling **Range** ≠ Murray–Darling **river**.
-20. Endorheic = no ocean outlet (Caspian, Aral, Dead, Chad, Eyre).
-21. Baghdad = Tigris; Paris = Seine; London = Thames; Cairo = Nile.
-22. Lake types: rift / glacial / crater / lagoon / oxbow — do not dump all as “fresh lake”.
-23. Colorado ≠ USA–Mexico MCQ; short border bit is not the paper’s lock.
-24. Teach full Lucent map — city, direction, lake and dam pairs can all appear.
 
 ---
 

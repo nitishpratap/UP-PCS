@@ -14,23 +14,36 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-BR = UNESCO MAB 1971 | Core → Buffer → Transition | NOT under WPA
-India: 18 notified | ~13 in UNESCO WNBR | First = Nilgiri 1986
-Largest = Great Rann of Kutch (Gujarat) | Smallest = Nokrek (Meghalaya)
-Manas (Assam) = national BR; REMOVED from UNESCO WNBR 2011
+1. A Biosphere Reserve is a **UNESCO MAB (1971)** landscape with **core → buffer → transition**. It is **not** a Wildlife Protection Act category.
+2. India has **18** notified national Biosphere Reserves. About **13** sit on the UNESCO World Network.
+3. India’s **first** Biosphere Reserve is **Nilgiri (1986)**. The **largest** is **Great Rann of Kutch (Gujarat)**. The **smallest** is **Nokrek (Meghalaya)**.
+4. **Nokrek** is in **Meghalaya**. Pairing Nokrek with **Manipur** is always wrong.
+5. **Manas (Assam)** remains a national Biosphere Reserve but was **removed from the UNESCO World Network in 2011**.
+6. **Uttar Pradesh has zero Biosphere Reserves.** Nanda Devi BR is in **Uttarakhand**, not UP.
+7. Dudhwa is a National Park. Valmiki is a Bihar National Park. Neither is a UP Biosphere Reserve.
+8. Match lock: **Simlipal–Odisha**, **Nokrek–Meghalaya**, **Agasthyamalai–Kerala**, **Manas–Assam**.
+9. Match lock: **Simlipal–Odisha**, **Pachmarhi–Madhya Pradesh**, **Nanda Devi–Uttarakhand**, **Nokrek–Meghalaya**.
+10. **Panna (Madhya Pradesh, 2011)** is India’s newest notified Biosphere Reserve.
+11. Madhya Pradesh has **three** Biosphere Reserves: Pachmarhi, Achanakmar–Amarkantak (with Chhattisgarh), and Panna.
+12. Multi-state classics: **Nilgiri** (Tamil Nadu–Karnataka–Kerala), **Agasthyamalai** (Kerala–Tamil Nadu), **Achanakmar–Amarkantak** (MP–Chhattisgarh).
+13. Core allows **no exploitation**. Buffer allows limited research and education use. Transition supports livelihoods.
+14. A National Park is the strictest Wildlife Protection Act site. A Biosphere Reserve adds sustainable use and research under MAB.
+15. World Network membership is a UNESCO subset of national Biosphere Reserves. National listing alone is not enough for WNBR.
+16. Bihar and Rajasthan also have **zero** Biosphere Reserves. Valmiki remains an NP, not a BR.
+17. Gulf of Mannar is a **marine** Biosphere Reserve in Tamil Nadu. Sundarbans BR is in West Bengal.
+18. Cold Desert BR is in **Himachal Pradesh**. Khangchendzonga BR is in **Sikkim**.
+19. Seshachalam Hills BR is in **Andhra Pradesh**. Great Nicobar BR is in the Andaman and Nicobar Islands.
+20. Periodic UNESCO review can delist a site from the World Network — India’s exam example is **Manas 2011**.
+21. Yellowstone, Serengeti–Ngorongoro, Galápagos, Lake Baikal, Doñana, and Mount Kenya are classic world Biosphere icons.
+22. Do not place Nanda Devi in Uttar Pradesh on a match list. After bifurcation it is an **Uttarakhand** site.
+23. Agasthyamalai paired only with Kerala is accepted as correct in recent papers even though the landscape also spans Tamil Nadu.
+24. Biosphere Reserves can overlap National Parks and World Heritage tags, but the MAB label is still a separate tool.
 
-2025 Q144: Nokrek–Manipur ✗ | Manas–Assam ✓ | Agasthyamalai–Kerala ✓ → D (Only 1)
-2024 Q10: Simlipal=Odisha | Nokrek=Meghalaya | Agasthyamalai=Kerala | Manas=Assam → D (2 4 1 3)
+---
 
-UP: ZERO Biosphere Reserves
-  Nearest = Nanda Devi BR (Uttarakhand) — NOT UP
-  Dudhwa = NP | Valmiki = Bihar NP — neither is a UP BR
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -203,20 +216,6 @@ with 1. Madhya Pradesh  2. Uttar Pradesh  3. Assam  4. West Bengal
 | Mount Kenya | Kenya | Afro-alpine BR |
 
 > **Exam note:** World BR network ≠ World Heritage list — related but different UNESCO instruments.
-
----
-
-## Consolidated Reference
-
-| Lock | Value |
-|------|-------|
-| MAB year | 1971 |
-| India first BR | Nilgiri 1986 |
-| India count | 18 national / ~13 WNBR |
-| Nokrek state | Meghalaya |
-| Manas UNESCO | Removed 2011 |
-| UP BRs | **Zero** |
-| Largest / smallest | Great Rann / Nokrek |
 
 ---
 

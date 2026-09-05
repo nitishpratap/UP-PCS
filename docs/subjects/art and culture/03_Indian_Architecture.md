@@ -15,28 +15,38 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-STYLES: Nagara = curvilinear shikhara, North, NO gopuram | Dravida = pyramidal vimana + gopuram, South | Vesara = Deccan hybrid (Chalukya/Hoysala)
-PARTS: Garbhagriha → Antarala → Mandapa | Pradakshina | Amalaka+Kalasha (Nagara) | Gopuram (Dravida gate)
-NAGARA: Odisha Parasuramesvara→Mukteshvara→Lingaraja→Jagannath→Konark | Khajuraho Chandela | Modhera+Rani ki Vav Solanki
-DRAVIDA: Pallava Mahendra→Mamalla rathas→Rajasimha Shore/Kailasanatha | Chola Brihadeeswara 1010 / Gangaikonda / Airavatesvara
-VESARA: Aihole cradle | Badami 4 caves | Pattadakal both | Hoysala Belur–Halebidu–Somnathpur soapstone star
-PILLARS: Sarnath 4 lions | Rampurva bull+lion | Sankisa elephant | Vaishali single lion | Chunar polish
-STUPA: Sanchi 4 toranas | Bharhut | Amaravati ayaka | Dhamek Sarnath | Mahabodhi Bodh Gaya
-CHAITYA: Karle largest | Bhaja Bedsa Kanheri | Ajanta 9,10,19,26
-CAVES: Barabar Lomas Rishi | Ajanta Buddhist | Ellora 1–12 Bud, 13–29 Hindu (Kailasa 16 Krishna I), 30–34 Jain | Elephanta Trimurti
-SULTANATE: Slave Qutub | Khilji Alai Darwaza | Tughlaq batter | Sharqi Jaunpur | Adina=Pandua ≠ Mandu
-MUGHAL: Babur Kabul | Humayun Delhi | Akbar Fatehpur red stone | Jahangir Lahore+Itimad | Shah Jahan Taj/Red Fort | Aurangzeb Bibi ka Maqbara
-BULAND: Gujarat victory NOT Jahangir birth | UP: Taj Agra Fort Fatehpur Sarnath Bhitargaon Jaunpur | NOT Qutub/Khajuraho
-```
+1. **Nagara** temples have a curvilinear **shikhara** and generally **no** monumental gopuram. **Dravida** temples have a pyramidal **vimana** plus tall **gopuram**. **Vesara** is the Deccan hybrid of Chalukya / Hoysala land.
+2. Temple sequence runs **garbhagriha → antarala → mandapa**, with **pradakshina** around the sanctum. **Amalaka** and **kalasha** crown a Nagara tower.
+3. A **gopuram** is a Dravida **gateway**. A **shikhara** is the Nagara **sanctum** tower. Papers often swap these two terms.
+4. Odisha Nagara order runs **Parasuramesvara → Mukteshvara → Lingaraja → Jagannath → Konark**. **Rekha deul** is the sanctum tower; **pidha deul** is the jagamohana hall.
+5. **Konark** Sun Temple is a stone chariot of Surya with **24** wheels and **7** horses, built by Eastern Ganga **Narasimhadeva I** in the **13th** century.
+6. **Khajuraho** is **Chandela**, Madhya Pradesh, sandstone Nagara. **Kandariya Mahadeva** is the largest shrine. Khajuraho is **not** in UP.
+7. **Markandeshwar** in Vidarbha is called the **Khajuraho of Vidarbha**. It is not Kailasa or Bhimashankar.
+8. **Modhera** Sun Temple and **Rani ki Vav** (Patan, UNESCO **2014**) belong to the **Solanki** line of Gujarat.
+9. Pallava phases run **Mahendra** rock-cut → **Mamalla** rathas → **Rajasimha** structural (Shore Temple, Kailasanatha).
+10. Chola Dravida peaks are **Brihadeeswara** (**1010**, Thanjavur), **Gangaikonda Cholapuram**, and **Airavatesvara** (Darasuram).
+11. **Aihole** is the cradle of early Chalukya experiment. **Badami** has four caves. **Pattadakal** mixes Nagara and Dravida. Hoysala Belur–Halebidu–Somnathpur use soapstone star plans.
+12. Ashokan pillar locks include **Sarnath** four lions, **Rampurva** bull and lion, **Sankisa** elephant, and **Vaishali** single lion, with **Chunar** polish.
+13. Major stupas include **Sanchi** with four toranas, **Bharhut**, **Amaravati** with ayaka platforms, **Dhamek** at Sarnath, and **Mahabodhi** at Bodh Gaya.
+14. A **stupa** is a solid relic mound. A **chaitya** is a congregational hall with an apse stupa. A **vihara** is a monastic residence.
+15. **Karle** is the largest surviving chaitya. Ajanta chaitya caves include **9, 10, 19, and 26**.
+16. **Barabar** caves include **Lomas Rishi**. **Ajanta** is Buddhist. **Ellora** runs caves **1–12** Buddhist, **13–29** Hindu (**Kailasa = 16**, Krishna I), and **30–34** Jain. **Elephanta** holds the Trimurti.
+17. Sultanate locks: Slave dynasty **Qutub**, Khilji **Alai Darwaza**, Tughlaq sloping **batter**, Sharqi **Jaunpur**. **Adina** mosque is at **Pandua**, not Mandu.
+18. Mughal builder–place locks: Babur in Kabul, Humayun’s tomb in Delhi, Akbar’s red stone at Fatehpur Sikri, Jahangir with Lahore and Itimad-ud-Daulah, Shah Jahan’s Taj and Red Fort, Aurangzeb’s **Bibi ka Maqbara**.
+19. **Buland Darwaza** commemorates Akbar’s **Gujarat** victory. It is **not** a monument for Jahangir’s birth.
+20. UP World Heritage cultural sites are **Taj Mahal** (**1983**), **Agra Fort** (**1983**), **Fatehpur Sikri** (**1986**), and **Sarnath** (**2026**).
+21. UP exam architecture also locks **Bhitargaon** Gupta brick temple and Sharqi monuments of **Jaunpur** (Atala, Lal Darwaza).
+22. These are **not** UP: Qutub and Humayun’s tomb (Delhi), Khajuraho (MP), Sanchi (MP), Konark (Odisha), Ajanta–Ellora–Elephanta (Maharashtra), and Mahabalipuram (TN).
+23. Indo-Islamic building uses the **true arch** and dome. Pre-Islamic temples often used **corbelled** courses instead.
+24. **Charbagh** is the Islamic four-part garden plan. **Panchayatana** is the Hindu five-shrine plan with a central sanctum and four corner shrines.
+25. Gupta **Dashavatara** temple at **Deogarh** is a classic early panchayatana lock.
+26. **Martand** Sun Temple of Lalitaditya in Kashmir is a sun-temple exam set member with Konark and Modhera, not a latina Nagara of the Gangetic plain.
 
-- N-D-V = North → South → Deccan.
-- Stupa–Chaitya–Vihara = mound–hall–monastery.
-- 2025 tomb code **A = 4 3 2 1**. Buland A/R = **C** (A true, R false).
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -720,18 +730,6 @@ Already taught above; this is the **place/dynasty/UNESCO** spine only (no second
 - **Sarnath** — Dhamek + Chaukhandi — UP — UNESCO **2026**.
 
 Inscription years of *these* buildings stay here.
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- **WHS in UP (cultural):** Taj Mahal (1983), Agra Fort (1983), Fatehpur Sikri (1986), **Sarnath (2026)**.
-- Gupta brick: **Bhitargaon** (Kanpur Dehat).
-- Sharqi: **Jaunpur** (Atala, Lal Darwaza).
-- Mughal Agra belt: Taj, Agra Fort, Itimad-ud-Daulah, Sikandra.
-- **Not UP:** Qutub/Humayun (Delhi), Khajuraho (MP), Sanchi (MP), Konark (Odisha), Ajanta–Ellora–Elephanta (Maharashtra), Mahabalipuram (TN).
 
 ---
 

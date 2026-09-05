@@ -14,41 +14,38 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 26 Must-Score Locks
 
-```
-GLOBAL WARMING = Long-term rise in average surface temperature
-  IPCC AR6: ~1.1°C above 1850–1900 | India ~0.7°C since 1901 (IMD)
-  Warming ⊂ broader CLIMATE CHANGE (rainfall, extremes, sea level also shift)
+1. **Global warming** is the long-term rise in average surface temperature. It is a subset of broader **climate change**, which also includes rainfall, extremes, and sea-level shifts.
+2. IPCC AR6 locks about **1.1°C** above 1850–1900 globally. India has warmed about **0.7°C** since 1901 (IMD class figure).
+3. The natural greenhouse effect keeps Earth near about **+15°C**. Without it, Earth would be near about **−18°C**.
+4. Enhanced greenhouse effect means excess anthropogenic GHGs trap outgoing infrared radiation.
+5. Kyoto-basket majors: **CO₂** (largest forcing share, GWP **1**), **CH₄** (GWP about **28–36**), **N₂O** (GWP about **265**), plus HFCs, PFCs, and SF₆.
+6. Water vapour is a strong feedback, not treated as the primary policy driver in the Kyoto basket.
+7. India is about the **third**-largest total emitter but remains **low per capita** (about **2 tCO₂e** class figure).
+8. A **carbon footprint** totals GHGs in tCO₂e across Scope **1** (direct), **2** (energy), and **3** (supply chain).
+9. A **carbon sink** absorbs more CO₂ than it releases (forests, oceans, soils, mangroves). **Sequestration** is the storage process.
+10. Impacts include heat waves, Himalayan glacier retreat, monsoon extremes, coral bleaching with roughly **+2°C** SST stress, drought, and floods.
+11. **Adaptation** means coping with impacts. **Mitigation** means cutting emissions and enhancing sinks.
+12. **NAPCC (2008)** has **eight** national missions as India’s adaptation–mitigation umbrella.
+13. India’s updated **NDC (2022)** targets include **45%** lower emission intensity of GDP by **2030** versus 2005, and **50%** cumulative non-fossil electricity capacity by **2030**.
+14. India also targets an additional forest carbon sink of about **2.5–3 GtCO₂e** by **2030**.
+15. India’s **Net Zero** pledge is **2070** (COP26 announcement track).
+16. **LiFE Mission** launched in **June 2022**; the idea was presented at **COP26 (2021)**, not COP25.
+17. Climate treaty chain: **UNFCCC 1992 → Kyoto Protocol 1997 → Paris Agreement 2015**.
+18. **Montreal Protocol (1987)** is for **ozone / ODS**, not climate mitigation. Do not swap Montreal with Kyoto/Paris.
+19. UP heat vulnerability often cites Lucknow, Agra, Prayagraj, and NCR.
+20. UP drought lock is **Bundelkhand’s seven districts**. Flood locks include Ballia, Ghazipur, and Varanasi belts.
+21. Emissions hotspot language for UP–MP often points to the **Singrauli** coal belt.
+22. Terai forests at Dudhwa and Pilibhit are UP **carbon-sink** examples.
+23. NCAP cities for UP air–climate overlap include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, and Noida.
+24. Paris uses universal **NDCs**; Kyoto’s classic framing is binding targets mainly for developed parties — they are not identical instruments.
+25. Methane sources often tested are cattle, rice paddies, and landfills; N₂O links strongly to fertilisers.
+26. Global warming is temperature rise; climate change is the wider long-term shift — do not treat the words as perfect synonyms in precise stems.
 
-GREENHOUSE EFFECT:
-  Natural = Earth ~+15°C livable (without it ≈ −18°C)
-  Enhanced = excess anthropogenic GHGs trap outgoing IR radiation
+---
 
-MAJOR GHGs (Kyoto basket):
-  CO₂ ≈ 76% forcing | GWP 1 | fossil fuels, deforestation
-  CH₄ ≈ 16% | GWP 28–36 | cattle, rice, landfills
-  N₂O ≈ 6% | GWP 265 | fertilizers
-  Also: HFCs, PFCs, SF₆ | Water vapour = feedback, not primary driver
-  India = 3rd largest TOTAL emitter | low per capita (~2 tCO₂e)
-
-CARBON FOOTPRINT = Total GHG in tCO₂e | Scope 1 direct | 2 energy | 3 supply chain
-CARBON SINK = absorbs more CO₂ than releases (forests, oceans, soil, mangroves)
-CARBON SEQUESTRATION = process storing carbon (afforestation, CCS, blue carbon)
-
-IMPACTS: Heat waves UP/NCR | Himalayan glacier retreat | Monsoon extremes
-  Bundelkhand drought | Ganga basin floods | Coral bleaching +2°C SST (2024 Q19)
-
-ADAPTATION = Adjust to impacts | NAPCC 2008 — 8 missions
-MITIGATION = Cut emissions + enhance sinks
-  India NDC 2022: 45% emission intensity ↓ by 2030 | 50% non-fossil capacity
-  Net Zero 2070 (COP-26) | LiFE Mission June 2022 (idea at COP-26, NOT COP-25)
-
-TREATIES: UNFCCC 1992 | Kyoto 1997 (climate mitigation) | Paris 2015
-  Montreal 1987 = OZONE only (NOT climate)
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -292,30 +289,6 @@ D. Only 1
 | Kyoto Protocol | 1997 | Binding cuts (developed countries) |
 | Paris Agreement | 2015 | NDC pledges |
 | Montreal Protocol | 1987 | **Ozone** (not climate) |
-
----
-
-## Consolidated Reference — Once Only
-
-### India mitigation targets (NDC 2022)
-
-| Target | Value | By |
-|--------|-------|-----|
-| Emission intensity of GDP | ↓ 45% vs 2005 | 2030 |
-| Non-fossil electricity capacity | 50% cumulative | 2030 |
-| Additional forest carbon sink | 2.5–3 GtCO₂e | 2030 |
-| Net Zero | Carbon neutrality | **2070** |
-
-### UP Focus
-
-| Issue | UP detail |
-|-------|-----------|
-| Heat vulnerability | Lucknow, Agra, Prayagraj, NCR |
-| Drought | Bundelkhand 7 districts |
-| Floods | Ballia, Ghazipur, Varanasi |
-| Emissions hotspot | Singrauli coal belt |
-| Forest sink | Terai — Dudhwa, Pilibhit |
-| NCAP cities | Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida |
 
 ---
 

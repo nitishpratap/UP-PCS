@@ -14,41 +14,46 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-8 SYLLABUS DAYS (calendar order):
-  2 Feb   → World Wetlands Day              (Ramsar 1971)
-  3 Mar   → World Wildlife Day              (CITES 1973)
-  21 Mar  → International Day of Forests    (UN 2012)
-  22 Mar  → World Water Day                 (UN 1993)
-  22 Apr  → Earth Day                       (US 1970)
-  22 May  → Intl Day for Biological Diversity (CBD 1992)
-  5 Jun   → World Environment Day           (Stockholm 1972)
-  16 Sep  → World Ozone Day                 (Montreal Protocol 1987)
+1. **World Wetlands Day** falls on **2 February** and marks the **Ramsar Convention (1971)**. It is not 2 March or 3 March.
+2. **World Wildlife Day** falls on **3 March** and marks the adoption of **CITES (1973)**. It is **not** 22 March.
+3. **International Day of Forests** falls on **21 March**. It was proclaimed by the UN General Assembly in **2012**.
+4. **World Water Day** falls on **22 March**. The classic trap is pairing Wildlife Day with 22 March.
+5. **Earth Day** falls on **22 April**. It began in the United States in **1970** as a civic teach-in movement.
+6. **International Day for Biological Diversity** falls on **22 May** and commemorates the CBD text adopted at Nairobi in **1992**.
+7. **World Environment Day** falls on **5 June**. It marks the opening of the **Stockholm Conference (1972)** and is run by **UNEP**.
+8. **World Ozone Day** falls on **16 September** and marks the **Montreal Protocol (1987)**.
+9. In calendar order the eight syllabus days run **2 Feb → 3 Mar → 21 Mar → 22 Mar → 22 Apr → 22 May → 5 Jun → 16 Sep**.
+10. The March ladder is **Wildlife (3) → Forests (21) → Water (22)**. Never put Wildlife on 22 March.
+11. World Environment Day is **not** Earth Day and **not** Wetlands Day. The dates are **5 June**, **22 April**, and **2 February**.
+12. India hosted World Environment Day in **2011** (Forests theme) and **2018** (Beat Plastic Pollution).
+13. Biological Diversity Day shifted from an older **29 December** link to **22 May** from **2000**; exams use **22 May** only.
+14. World Water Day is coordinated under **UN-Water**. Wetlands Day is a **Ramsar** day, not a Water Day synonym.
+15. World Wildlife Day was proclaimed by the UN in **2013**, but the date itself is the **1973 CITES** anniversary.
+16. Ozone Day belongs to the **Montreal Protocol** family. Do not date it as 2 October, 21 April, or 30 January.
+17. Earth Day is a civic global day. It is **not** the same UN treaty day as World Environment Day.
+18. Biodiversity Day is broader than Wildlife Day. Wildlife Day is fauna–flora trade and crime awareness under the CITES date.
+19. Van Mahotsav is a separate **July** plantation campaign in India. It is **not** International Day of Forests.
+20. Earth Hour (last Saturday of March, WWF) is **not** on this syllabus day list and is not Earth Day.
+21. Uttar Pradesh has **10** Ramsar sites — useful Wetlands Day geography, but the day itself stays **2 February**.
+22. A correct Ozone–WED pair is **16 September** and **5 June**. A Wildlife–**22 March** pair is always wrong.
+23. Stockholm **1972** anchors WED. Ramsar **1971** anchors Wetlands. Montreal **1987** anchors Ozone. CITES **1973** anchors Wildlife.
+24. Same-number traps: **22** March is Water, **22** April is Earth, **22** May is Biodiversity — three different months.
 
-MARCH CLUSTER (most tested):
-  3 Mar  = WILDLIFE   — NOT 22 March
-  21 Mar = FORESTS
-  22 Mar = WATER      — NOT Wildlife
+---
 
-2025 Q62: Ozone 16 Sep ✓ | WED 5 Jun ✓ | Wildlife 22 Mar ✗ → Ans B (Only 3)
+## Confused Pairs (exam killers)
 
-INDIA HOST WED: 2011 Forests | 2018 Beat Plastic Pollution
-```
-
-### Must-Know Date Card
-
-| Day | Date | Anchor |
-|-----|------|--------|
-| **World Wetlands Day** | **2 February** | Ramsar Convention 1971 |
-| **World Wildlife Day** | **3 March** | CITES adoption 1973 |
-| **Intl Day of Forests** | **21 March** | UNGA 2012 |
-| **World Water Day** | **22 March** | UN 1993 |
-| **Earth Day** | **22 April** | US civic origin 1970 |
-| **Biological Diversity Day** | **22 May** | CBD Nairobi text 1992 |
-| **World Environment Day** | **5 June** | Stockholm opening 1972 |
-| **World Ozone Day** | **16 September** | Montreal Protocol 1987 |
+| Pair | Lock |
+|------|------|
+| Wildlife Day vs Water Day | **3 March** vs **22 March** — never swap |
+| WED vs Earth Day | **5 June** vs **22 April** |
+| Wetlands vs Wildlife | **2 February** (Ramsar) vs **3 March** (CITES) |
+| Forests vs Water | **21 March** vs **22 March** |
+| Biodiversity vs Water / Earth | **22 May** vs **22 March** / **22 April** |
+| Ozone Day vs WED | **16 September** (Montreal) vs **5 June** (Stockholm) |
+| Earth Day vs Earth Hour | **22 April** civic day vs last Saturday of March (WWF) |
 
 ---
 
@@ -206,23 +211,6 @@ Options: A. 25 December  B. 21 April  C. 16 September  D. 30 January
 - **Highest-yield trap:** listing Wildlife Day as **22 March** (that is Water Day) — wrong pair in **UPPCS 2025 Q62**.
 
 > **Exam note:** Wildlife = **3 March only**. Water = **22 March**.
-
----
-
-## Consolidated Calendar
-
-| Month | Date | Day |
-|-------|------|-----|
-| February | 2 | Wetlands |
-| March | 3 | Wildlife |
-| March | 21 | Forests |
-| March | 22 | Water |
-| April | 22 | Earth |
-| May | 22 | Biological Diversity |
-| June | 5 | Environment |
-| September | 16 | Ozone |
-
-**Who / why (one line):** WED→UNEP/Stockholm · Wetlands→Ramsar · Wildlife→CITES · Forests→UNGA · Water→UN-Water · Earth→US civic 1970 · Biodiversity→CBD · Ozone→Montreal
 
 ---
 

@@ -17,45 +17,39 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-Part XVIII: 352–360. Source of FR-suspension idea = Weimar Germany.
-
-352 National: war / external aggression / armed rebellion (44th; was “internal disturbance”)
-  Written Union Cabinet advice (44th) — not PM alone (1975 lock)
-  Approval: 1 month, both Houses, special majority (total membership + 2/3 present & voting)
-  Continue 6 months at a time; LS can pass a disapproval → must revoke
-  Used: 1962 China · 1971 Pakistan · 1975 “internal” (25 Jun 1975 – 21 Mar 1977)
-
-358: Art.19 auto-suspends only in war/external-aggression 352 (NOT armed rebellion)
-359: President may suspend court-enforcement of named FRs; NEVER 20 & 21 (44th; ADM Jabalpur)
-
-356 President’s Rule: Art.356 + Union duty 355 + gateway 365
-  Approval 2 months, both Houses, simple majority
-  6 months; beyond 1 year need (a) 352 in force in India or that State AND (b) EC certificate
-  Max 3 years. Bommai 1994: justiciable; majority on the FLOOR; don’t dissolve LA before Parliament approves
-  First use 1951 Punjab. Mass misuse 1977 & 1980.
-
-360 Financial: threat to financial stability/credit. NEVER used.
-  Approval 2 months, simple majority; continues till revoked (no 6-month clock)
-  Directions on financial propriety; cut salaries even of judges; State money bills reserved
-
-Martial law: military in a locality; Art.34 indemnity. NOT a 352 substitute. Civilian Constitution stays under 352.
-
-250: during 352, Parliament can legislate State List (also for a State *not* under 352 if needed — 353 proviso)
-354: President may modify Centre–State revenue sharing while 352 is on
-353: Union may direct States on *any* matter (unitary tilt). 358(2)/359: act must have emergency *nexus* (44th)
-352 LS veto: 1/10 of LS can force a sitting within 14 days
-172: State Assembly life also +1 year at a time during 352
-356: President **cannot** assume High Court powers
-```
+1. Emergency Provisions sit in **Part XVIII** (**Articles 352–360**). There are three proclamations: **National Emergency (352)**, **President’s Rule (356)**, and **Financial Emergency (360)**.
+2. National Emergency under **352** may be proclaimed for **war**, **external aggression**, or **armed rebellion**. The **44th Amendment** replaced the old phrase **“internal disturbance”** with **armed rebellion**.
+3. A 352 proclamation needs **written advice of the Union Cabinet**, not the Prime Minister alone — a direct lesson from **1975**. Parliamentary approval must come within **one month** by **special majority** in both Houses (majority of total membership plus two-thirds of those present and voting).
+4. Once approved, a National Emergency continues for **six months** at a time with fresh approvals. The Lok Sabha can force revocation by passing a disapproval resolution. One-tenth of Lok Sabha members can compel a sitting within **fourteen days**.
+5. National Emergency has been used in **1962** (China), **1971** (Pakistan), and **1975–77** (the Internal Emergency, **25 June 1975 to 21 March 1977**).
+6. Under **Article 358**, **Article 19** automatically suspends only when the Emergency is on grounds of **war or external aggression** — **not** for armed rebellion alone. Under **359**, the President may suspend enforcement of named Fundamental Rights, but **Articles 20 and 21** can **never** be suspended (44th Amendment; contrast *ADM Jabalpur*).
+7. After the 44th Amendment, laws or executive action during Emergency need a real **emergency nexus** (**358(2) / 359**). Blanket misuse without nexus is not protected.
+8. **President’s Rule** uses **Article 356**, linked to the Union’s duty under **355** and the directions-gateway under **365**. Parliamentary approval is needed within **two months** by **simple majority** in both Houses.
+9. President’s Rule runs in **six-month** slices. Beyond **one year**, continuation needs a National Emergency in force in India or that State **and** an Election Commission certificate that elections cannot be held. Maximum is normally **three years**.
+10. *S.R. Bommai* (**1994**) made 356 justiciable, insisted on majority on the **floor of the House**, and warned against dissolving the Assembly before Parliament approves the proclamation. The President **cannot** assume High Court powers under 356.
+11. The first use of President’s Rule was in **Punjab in 1951**. Mass misuse is especially remembered around **1977** and **1980**.
+12. **Financial Emergency (360)** is for a threat to India’s financial stability or credit. It has **never been used**. Approval window is **two months** by simple majority; it then continues until revoked — there is **no** six-month renewal clock like 352/356.
+13. During a Financial Emergency the Centre may give directions on financial propriety, reduce salaries even of judges, and require State money bills to be reserved.
+14. **Martial law** is military control in a locality, with indemnity possible under **Article 34**. It is **not** a substitute for National Emergency. Under 352 the civilian Constitution continues with emergency overlays.
+15. While a National Emergency is on, **Article 250** lets Parliament legislate on the **State List**. Under **353** the Union may direct States on almost any matter — a strong unitary tilt. **354** lets the President modify Centre–State revenue sharing during 352.
+16. State Assembly life can be extended by **one year at a time** during a National Emergency (**Article 172**), subject to the usual outer limits after Emergency ends.
+17. Election petitions and the **Article 329** bar continue to matter even in Emergency contexts — Emergency does not invent a free-for-all over electoral disputes.
+18. Special majority for **352** approval is harder than the **simple majority** used for **356** and **360**. Approval time is **one month** for 352 and **two months** for 356/360.
+19. Textbook labels “National Emergency” and “State Emergency” map to **352** and **356**; the Constitution itself does not use the phrase “State Emergency.”
+20. External Emergencies (1962, 1971) rest on war or external aggression. The 1975 proclamation was still under the older **internal disturbance** language before the 44th rewrite.
+21. **Article 355** is the Union’s **duty** to protect States against external aggression and internal disturbance and to ensure that State government runs with the Constitution. **356** is the **proclamation** that takes over when that machinery fails.
+22. During 356 the President (through the Governor) can assume State executive powers and Parliament/State law roles as provided, but judicial independence of the High Court is ring-fenced — no takeover of **High Court** powers.
+23. Financial Emergency directions can reach salary cuts for government servants and judges and can force reservation of money bills — locks that do not appear under ordinary 356 politics.
+24. The Emergency FR map is simple if memorised as a triangle: **358** auto-hits **19** (war/external only); **359** can suspend enforcement of other named rights by order; **20 and 21** stay awake.
+25. Cabinet written advice, armed rebellion wording, unsuspendable 20/21, and emergency nexus are the four **44th Amendment** knives every prelims answer should recall together.
+26. Punchhi later suggested **localising** 356 rather than dismissing a whole State government for a local breakdown — useful for mains, while *Bommai* remains the judicial lock for prelims.
 
 ---
+## Confused Pairs (exam killers)
 
-### Must-Know Term Comparisons
-
-| Term A | Term B | Core difference | Hindi |
+| A | B | Lock | Hindi |
 |--------|--------|-----------------|-------|
 | **352** | **356** | National / security | State constitutional machinery |
 | **352** | **360** | War / aggression / rebellion | Financial stability / credit |

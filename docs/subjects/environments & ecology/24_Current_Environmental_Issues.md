@@ -14,56 +14,38 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 26 Must-Score Locks
 
-```
-MICROPLASTICS:
-  Plastic fragments <5 mm | Primary (microbeads) + Secondary (bag fragmentation)
-  Sources: packaging, textiles, tyres, cosmetics | NOT fast biodegradable
-  Food chain: plankton → fish → humans | Ganga studies show contamination
-  India SUP ban on identified items 2022 | UN Plastics Treaty INC from 2022
+1. **Microplastics** are plastic fragments **smaller than 5 mm**. Primary sources include microbeads; secondary sources come from larger plastic breaking down. They are not “fast biodegradable.”
+2. Microplastics enter food webs from plankton to fish to humans. India’s identified single-use plastic bans tightened around **2022**. UN plastics treaty talks (INC) also run from that period.
+3. One **carbon credit** equals **1 tonne of CO₂-equivalent** reduced, removed, or avoided. Kyoto’s CDM produced CERs; voluntary markets use standards such as Verra and Gold Standard.
+4. **Carbon trading** is the market that buys and sells allowances or credits (cap-and-trade). The **EU ETS** is the largest compliance market. India’s **CCTS (2023)** under the Energy Conservation Act line is steered with **BEE**.
+5. **PAT** creates energy-efficiency certificates (**ESCerts**). PAT is **not** identical to carbon credits under CCTS.
+6. **Green Credit Programme (2023)** rewards eco-actions. It is **not** the same instrument as a carbon credit.
+7. **Net zero** means anthropogenic emissions balanced by removals. India’s target is **2070** (COP26 Glasgow **2021**). China is often locked at **2060**; EU/UK at **2050**. Net zero is not gross zero.
+8. India’s NDC track includes cutting emission intensity and raising non-fossil capacity share toward the **2030** horizon (including the ~50% non-fossil capacity language in later updates).
+9. **Green finance** is capital for climate and environment projects — green bonds, climate funds, GCF. India issued **Sovereign Green Bonds** in FY **2022–23**; SEBI’s Green Bond Framework is **2023**.
+10. The **$100 billion** a year climate-finance pledge is the developed-to-developing finance politics lock. Loss and Damage Fund operationalisation is linked to **COP28 (2023)**.
+11. **Blue economy** is sustainable ocean and coastal use — fisheries, ports, tourism, offshore renewables — aligned with **SDG 14**. **Blue carbon** is carbon stored in mangroves and seagrass.
+12. **MISHTI (2023 Budget)** restores mangroves and sits beside Sagarmala and Deep Ocean Mission in the blue–coastal policy neighbourhood.
+13. **LiFE** (Lifestyle for Environment) is a MoEFCC behaviour-change mission. The idea was pitched at **COP26 Glasgow (2021)** and launched in **June 2022**. It is **not** a COP-25 Madrid product.
+14. LiFE catalogues pro-planet actions for citizens; it is lifestyle awareness, not a carbon-market statute.
+15. Carbon credit (unit) ≠ carbon trading (market) ≠ Green Credit (eco-action incentive) ≠ green finance (capital).
+16. India net zero is **2070**, not 2050.
+17. Microplastics are **<5 mm**, not 5 cm.
+18. Kyoto flexible mechanisms are climate tools; Montreal is ozone — do not swap treaty families in “current issues” stems.
+19. Nature-based credits often come from forestry and mangrove (blue carbon) projects.
+20. UNEP’s Emissions Gap Report tracks the gap between pledges and pathways — neighbour to net-zero politics.
+21. SUP item bans are domestic plastic regulation; they do not by themselves equal a global plastics treaty.
+22. CCTS is India’s carbon market architecture; PAT remains an efficiency-certificate neighbour under BEE.
+23. Blue economy is ocean wealth with sustainability; it is not a synonym for inland wetland policy alone.
+24. Glasgow **2021** locks both India’s 2070 net-zero announcement track and the LiFE idea pitch.
+25. Offset means using credits to compensate one’s own emissions — related to, but not identical with, “trading” as a market design.
+26. Keep MISHTI dated **2023**, not 2019, when mangrove restoration is asked.
 
-CARBON CREDIT:
-  1 credit = 1 tonne CO₂ equivalent reduced/removed/avoided
-  Kyoto CDM → CERs | Voluntary market (Verra, Gold Standard)
-  Nature-based: forestry, mangrove (blue carbon)
-  Green Credit Programme 2023 ≠ carbon credit (eco-action rewards)
+---
 
-CARBON TRADING:
-  Cap-and-trade market — buy/sell allowances or credits
-  EU ETS = largest compliance market | Kyoto = flexible mechanisms origin
-  India CCTS 2023 (Energy Conservation Act) — BEE authority
-  PAT = energy efficiency certificates (ESCerts) — not identical to carbon credits
-
-NET ZERO:
-  Anthropogenic emissions = removals on net balance
-  India target: 2070 (COP26 Glasgow 2021) | China 2060 | EU/UK 2050
-  NDC 2030: 45% emission intensity cut + 50% non-fossil capacity
-  UNEP Emissions Gap Report | Net zero ≠ gross zero
-
-GREEN FINANCE:
-  Capital for climate/environment projects — green bonds, climate funds
-  India Sovereign Green Bonds FY 2022–23 | SEBI Green Bond Framework 2023
-  GCF (UNFCCC) | Loss and Damage Fund operationalised COP28 2023
-  $100 bn/year climate finance pledge (developed → developing)
-
-BLUE ECONOMY:
-  Sustainable ocean use — fisheries, ports, tourism, offshore wind
-  SDG 14 Life Below Water | MISHTI 2023 Budget — mangrove restoration
-  Sagarmala, Deep Ocean Mission, blue carbon (mangroves)
-
-LiFE MISSION (2025 Q139):
-  Lifestyle for Environment | MoEFCC nodal
-  Idea COP26 Glasgow 2021 | Launched June 2022
-  75 pro-planet actions | COP-25 Madrid trap = FALSE → Ans D (Only 1)
-
-TRAPS: LiFE = COP26 not COP-25 | MISHTI = 2023 not 2019
-  Carbon credit (unit) ≠ carbon trading (market) | Green Credit ≠ carbon credit
-  India net zero = 2070 not 2050 | Microplastics <5 mm not 5 cm
-  Kyoto = climate | Montreal = ozone
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -305,21 +287,6 @@ D. Only 1
 
 ---
 
-## Consolidated Reference
-
-| Issue | Key lock | Institution/scheme |
-|-------|----------|-------------------|
-| Microplastics | <5 mm | SUP ban 2022 |
-| Carbon credit | 1 tCO₂e | Kyoto CDM/CERs |
-| Carbon trading | Cap-and-trade | CCTS 2023, EU ETS |
-| Net zero | India **2070** | COP26 2021 |
-| Green finance | Sovereign Green Bonds | FY 2022–23 |
-| Blue economy | SDG 14 | MISHTI 2023 |
-| LiFE | June 2022 launch | MoEFCC |
-
-**Distinction locks:** Carbon credit (unit) | Carbon trading (market) | Green Credit (eco-action) | Green finance (capital)
-
----
 
 ## Practice Zone
 

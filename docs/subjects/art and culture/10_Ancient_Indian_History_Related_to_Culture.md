@@ -15,25 +15,38 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-SPAN: Bhimbetka rock art → IVC 2600–1900 BCE → Maurya → Shunga–Kushan → Gupta 4th–6th c.
-ART: Steatite seals | terracotta mother goddess | NBPW Maurya | Ajanta Gupta–Vakataka murals
-SCULPTURE: Mauryan polish + Didarganj | Bharhut/Sanchi narrative | Gandhara grey schist | Mathura red sandstone UP | Amaravati limestone | Gupta Sarnath Buddha
-ARCH: IVC grid+drains | Great Bath Mohenjo-daro | Lothal dock | Barabar rock-cut | Gupta first structural temple (Deogarh, Bhitargaon UP)
-IVC UP: Alamgirpur easternmost | Mandi | Hulas | NOT Rakhigarhi (Haryana) | Sanauli Baghpat late/OCP chariot
-AGRI: IVC wheat+barley+cotton | Kalibangan ploughed field | rice expands east later Vedic | Arthashastra state farm
-INDUSTRY: Chanhudaro beads | Dancing Girl bronze lost-wax | punch-marked Maurya | Gupta gold dinara | Wootz South | Sreni guild
-2020 MATCH: Balu Haryana | Manda J&K | Padri Gujarat | Hulas UP
-BOATS: Mohenjo-daro + Lothal
-```
+1. Ancient Indian cultural span runs from **Bhimbetka** rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya**, **Shunga–Kushan**, and **Gupta** (4th–6th century CE).
+2. Indus art locks are **steatite seals**, **terracotta mother goddess**, planned brick cities, and the **Dancing Girl** bronze made by **lost-wax**.
+3. **Northern Black Polished Ware (NBPW)** is the Mauryan fine pottery lock. **Ajanta** murals are the **Gupta–Vakataka** painting lock.
+4. Sculpture schools: **Gandhara** uses grey **schist** with Greco-Roman Buddha style in the north-west. **Mathura** uses red **sandstone** and is indigenous in **Uttar Pradesh**. **Amaravati** uses white **limestone** narrative panels in Andhra.
+5. **Mauryan polish** on **Chunar** sandstone (Mirzapur belt) gives a mirror finish. The **Didarganj Yakshi** is the classic Mauryan polish figure.
+6. **Bharhut** and early **Sanchi** are **Shunga** narrative reliefs. Early Sanchi is largely **aniconic** (wheel, tree, throne), not a human Buddha.
+7. The **Gupta Sarnath Buddha** shows the **dharmachakra** mudra, a transparent robe, and calm idealism. It is the exam peak of classical Buddhist sculpture.
+8. Architecture spine: Indus **grid and drains**, **Great Bath** at Mohenjo-daro, **Lothal dock**, Mauryan **Barabar** rock-cut caves, and Gupta **first structural temples** such as **Deogarh** and **Bhitargaon**.
+9. A **stupa** is a solid relic mound. A **chaitya** is a rock-cut prayer hall with an apse stupa. Do not swap the two.
+10. **Rock-cut** architecture (Barabar, chaityas) is carved into living rock. **Structural** temples are built from the Gupta age onward as freestanding buildings.
+11. Uttar Pradesh Indus sites are **Alamgirpur**, **Mandi**, and **Hulas**. **Alamgirpur** (Meerut belt) is the **easternmost** Indus site.
+12. **Rakhigarhi** is in **Haryana** and is the largest Indus site in India. It is **not** in Uttar Pradesh.
+13. **Sanauli** in **Baghpat** is a late Harappan / OCP **chariot** site. It is an extra UP lock and not the easternmost Indus city.
+14. These are **not** UP Indus sites: Lothal and Dholavira (**Gujarat**), Kalibangan (**Rajasthan**), Manda (**Jammu & Kashmir**), and Mohenjo-daro (**Sindh**).
+15. Match lock: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
+16. Boat / dock evidence appears at **Mohenjo-daro** and **Lothal**. **Kalibangan** holds the famous **ploughed-field** evidence.
+17. Indus crops include **wheat**, **barley**, and **cotton**. Cotton is an Indus lock, not a modern-only crop. Rice expands strongly in the eastern later Vedic belt.
+18. The **Arthashastra** shows state interest in agriculture and craft regulation. **Sreni** are craft **guilds**. **Nanadesi** were itinerant “many-country” merchants.
+19. **Chanhudaro** is the Indus **bead** craft centre. Punch-marked coins are the early Mauryan money lock. Gupta gold **dinara** are die-struck gold coins.
+20. **Wootz** steel is the South Indian high-carbon steel lock in the ancient–early historic craft map.
+21. **Mathura** is the red-sandstone school home in UP. **Sarnath** is known for the **Lion Capital** and the Gupta Buddha. **Bhitargaon** is a Gupta brick temple in the Kanpur belt.
+22. **Ahichhatra** and **Kaushambi** are terracotta and urban craft centres of Uttar Pradesh.
+23. Indus cities are **urban brick** with seals and drains. Early **Rigvedic** society is largely **pastoral**. Do not treat the two as one culture stage.
+24. Terracotta mother-goddess and plough models differ from bronze: the **Dancing Girl** is **lost-wax bronze**, not terracotta.
+25. Punch-marked coins are irregular silver or copper pieces. Gupta **dinara** are die-struck **gold**. Do not call every ancient coin a dinara.
+26. **Sarnath** as a World Heritage monument lock (inscribed **2026**) strengthens the Lion Capital and Gupta Buddha site, but it does not create a new sculpture school.
 
-- Rakhigarhi ≠ UP.
-- Gandhara ≠ Mathura stone.
-- Cotton is IVC, not modern-only.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -366,21 +379,6 @@ D. Manigrama
 **Ans: D — Manigrama.** South Indian merchant guild with overseas trade. Sreni = general ancient guild. Nagaram = town merchants. Nanadesis = itinerant multi-region traders (close distractor).
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- IVC sites in UP are **Alamgirpur, Mandi and Hulas**. The eastern edge is Alamgirpur.
-- **Sanauli** (Baghpat) is a late Harappan / OCP chariot site. It is an extra UP lock, not the 2025 Mandi–Hulas pair.
-- These are **not** in UP: Rakhigarhi (Haryana), Lothal and Dholavira (Gujarat), Kalibangan (Rajasthan), Manda (J&K) and Mohenjo-daro (Sindh).
-- **Mathura** is the red-sandstone school.
-- **Sarnath** is known for the Lion Capital and the Gupta Buddha.
-- **Bhitargaon** is a Gupta brick temple in the Kanpur belt.
-- **Ahichhatra** and **Kaushambi** are terracotta / urban craft centres.
-- **Chunar** sandstone is the Mauryan polish source (Mirzapur belt).
 
 ---
 

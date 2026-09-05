@@ -15,20 +15,36 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-NATYASHASTRA: Bharata c.200 BCE–200 CE | 10 rupaka | Abhinavabharati | Dasharupaka | 9 rasa | 4 abhinaya
-PLAYS: Ashvaghosha first | Bhasa 13 | Kalidasa 3 dramas | Shudraka Mrichchhakatika | Vishakhadatta Mudrarakshasa | Bhavabhuti Uttararamacharita | Harsha Ratnavali
-STAGE: Yavanika | Nepathya | Sitabenga amphitheatre | Koothambalam | Sutradhara
-FOLK: Nautanki UP Kanpur+Lucknow | Ramlila UNESCO 2008 | Raslila Braj | Swang | Jatra | Tamasha | Yakshagana KA | Bhavai | Bhaona Majuli | Ramman UK | Powada | Burrakatha | Oja-Pali
-LIVING SANSKRIT: Koodiyattam Kerala Chakyar/Mizhavu UNESCO 2001/2008
-PUPPET: Kathputli RJ (no legs) | Kundhei Odisha | Tholu AP | Ravana Chhaya Odisha | Gulabo-Sitabo Lucknow glove
-UP EXTRA: Indra Sabha Amanat 1853 | Bidesiya Purvanchal | Bhartendu Banaras
-TRAP: Shringara Shataka ≠ Kalidasa (Bhartrihari)
-```
+1. **Natyashastra** by **Bharata Muni** (about **200 BCE–200 CE**) codifies drama with about **10** rupaka, **9** rasa, and four abhinaya.
+2. **Abhinavabharati** is Abhinavagupta’s commentary on Natyashastra. **Dasharupaka** is Dhananjaya’s later summary of play types.
+3. **Ashvaghosha** is often tagged with the earliest Sanskrit play tradition. **Bhasa** left about **13** plays. **Kalidasa** wrote **three** dramas.
+4. Playwright locks: **Shudraka** wrote *Mrichchhakatika*, **Vishakhadatta** wrote *Mudrarakshasa*, **Bhavabhuti** wrote *Uttararamacharita*, and **Harsha** wrote *Ratnavali*.
+5. *Shringara Shataka* is by **Bhartrihari**, not Kalidasa. Do not park poem titles inside the drama list.
+6. Stage vocabulary locks **yavanika** as curtain, **nepathya** as backstage, and **sutradhara** as director-presenter.
+7. The oldest rock amphitheatre lock is **Sitabenga** at Ramgarh, Chhattisgarh. Neighbouring **Jogimara** is the painting lock, not the theatre lock.
+8. Kerala temple theatre houses are called **koothambalam**. Living Sanskrit theatre is **Koodiyattam** of the Chakyar tradition with **mizhavu** drum.
+9. **Koodiyattam** is UNESCO living Sanskrit theatre (proclaimed **2001**, list **2008**). It is theatre, not a ninth SNA classical dance.
+10. **Nautanki** is the high-yield **UP** folk opera, named in the *Ain-i-Akbari*, with **Kanpur** and **Lucknow** schools and the **nagara** drum.
+11. **Ramlila** of Ramnagar–Varanasi / Braj is UNESCO **2008**. **Raslila** is the Braj Krishna folk play, not Manipuri classical Ras Lila.
+12. **Swang** belongs to Haryana, western UP, and Rajasthan. **Tamasha** of Maharashtra uses Lavani and often has women playing male roles.
+13. **Jatra** belongs to Bengal and Odisha. **Yakshagana** belongs to coastal **Karnataka**. **Bhavai** belongs to Gujarat.
+14. **Bhaona** of Assam is linked with Majuli satras. **Ramman** of Uttarakhand and **Powada** / **Burrakatha** are regional narrative theatre locks.
+15. **Kathputli** of Rajasthan is string marionette, often without carved legs. **Gulabo–Sitabo** of **Lucknow** are glove comic puppets.
+16. **Kundhei** is Odisha string puppetry. **Tholu Bommalata** of Andhra Pradesh and **Ravana Chhaya** of Odisha are shadow forms.
+17. **Indra Sabha** by **Amanat** (**Lucknow, 1853**) is the highest-yield UP modern-folk stage lock of Awadh.
+18. **Bidesiya** belongs to the eastern UP / Bhojpuri belt. **Bhartendu Harishchandra** of Banaras is the modern Hindi theatre lock.
+19. **IPTA** was founded in **1943**. The **National School of Drama** was founded in **1959** at New Delhi. Long director lock is **Ebrahim Alkazi**.
+20. **Sangeet Natak Akademi** (**1952**) covers music, dance, **and theatre**. It is not a dance-only body.
+21. Sanskrit plays as a rule **end well**. Stock figures are **nayaka**, **nayika**, and **vidushaka**. There is no Greek-style tragedy as the default form.
+22. **Nataka** is a mythic heroic play type. **Prakarana** invents a social plot. Do not confuse **natya** (drama) with **nritta** (pure dance).
+23. UNESCO theatre-related locks include Koodiyattam (**2001/2008**), Ramlila (**2008**), and **Mudiyettu** (**2010**).
+24. These are **not** UP: Kathputli (Rajasthan), Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), and Ramman (Uttarakhand).
 
-### Confused pairs
+---
+
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -240,35 +256,6 @@ Syllabus names the first two plus Kathputli (a string school).
 - **Gulabo–Sitabo** belongs to **Lucknow, UP**. They are a glove pair of comic women. This is the UP puppet lock, **not** Kathputli.
 
 > **Exam note:** Kathputli is **Rajasthan string**. Shadow is not Kathputli. Gulabo-Sitabo is **Lucknow glove**.
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- **Nautanki** has Kanpur and Lucknow schools. It is named in Ain-i-Akbari.
-- **Ramlila** belongs to Ramnagar, Braj, and Varanasi. It is UNESCO 2008.
-- **Raslila** is the Braj Krishna play.
-- **Swang** belongs to the western UP / Haryana border.
-- **Gulabo–Sitabo** are Lucknow glove puppets.
-- **Indra Sabha** is by Amanat, Lucknow, 1853.
-- **Bidesiya** belongs to the eastern UP / Bhojpuri belt.
-- **Bhartendu Harishchandra** belongs to Banaras and the modern Hindi stage.
-- These are **not UP:** Kathputli (Rajasthan), Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), and Ramman (Uttarakhand).
-
-**UNESCO theatre-related**
-
-- Koodiyattam is 2001 / 2008.
-- Ramlila is 2008.
-- Mudiyettu is 2010.
-
-**Playwright spine (do not mix poems here)**
-
-- Kalidasa dramas are 3.
-- Shudraka wrote Mrichchhakatika.
-- Vishakhadatta wrote Mudrarakshasa.
-- Bhavabhuti wrote Uttararamacharita.
 
 ---
 

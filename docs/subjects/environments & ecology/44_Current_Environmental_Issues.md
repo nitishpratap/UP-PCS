@@ -14,38 +14,36 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-CARBON FOOTPRINT: GHG total in tCO₂e | Scope 1 direct | Scope 2 purchased energy | Scope 3 supply chain
-  India per capita ~2 tCO₂e | Global ~4.7 | USA ~14+ | High TOTAL, low PER CAPITA
+1. A **carbon footprint** totals greenhouse gases in **tCO₂e**. Scope **1** is direct, Scope **2** is purchased energy, Scope **3** is the wider value chain.
+2. India’s **per capita** carbon footprint is about **2 tCO₂e** — low versus global and USA averages — even though absolute emissions are high.
+3. An **ecological footprint** measures resource demand in **global hectares (gha)**. It is **not** the same unit as tCO₂e.
+4. **Net zero** balances remaining emissions with removals. India’s year lock is **2070**. It is not gross zero and not automatically **2050**.
+5. NDC-style locks include about **45%** intensity cut, about **50%** non-fossil capacity, and a large forest sink goal.
+6. The **Emissions Gap Report** is by **UNEP**.
+7. A **green economy** (UNEP framing) is low-carbon, resource-efficient, and socially inclusive.
+8. A **blue economy** is sustainable ocean use linked to **SDG 14**. **MISHTI** mangrove restoration is from the **2023** Budget, **not 2019**.
+9. A **circular economy** closes material loops through 3R/9R and EPR. It sits inside the broader green-economy idea and links to **SDG 12**.
+10. **Green hydrogen** uses electrolysis powered by renewables. India’s mission (January **2023**) targets about **5 MMT** by **2030**.
+11. **Grey hydrogen** reforms natural gas. **Blue hydrogen** adds CCS to grey pathways. Do not call grey “green.”
+12. **Microplastics** are plastic pieces smaller than **5 mm**. They are primary (made small) or secondary (fragmented) and are not fast biodegradable.
+13. The **SUP ban** push of **2022** targets single-use plastics that feed microplastic pathways.
+14. **Climate refugees** are mostly **internally** displaced. They are **not** a separate legal category under the **1951** Refugee Convention.
+15. **Nature-based Solutions** protect, manage, or restore ecosystems (IUCN framing). They are not geoengineering.
+16. **LiFE** was an idea at **COP-26 (2021)** and launched in **June 2022** under MoEFCC with a long action list. **COP-25 Madrid** is the false trap.
+17. Carbon footprint ≠ ecological footprint. Units are **tCO₂e** versus **gha**.
+18. Green economy ≠ circular economy as identical synonyms. Circular is the material-loop design inside a wider green agenda.
+19. Net zero allows balancing removals. Gross zero means nearly eliminating emissions without relying on offsets.
+20. MISHTI is a mangrove initiative. Pairing it with 2019 is wrong.
+21. Microplastic size lock is **<5 mm**, not 5 cm.
+22. NbS examples include mangroves, wetlands, and urban forests — ecosystem actions, not aerosol injection.
+23. LiFE is lifestyle and demand-side behaviour change, not a substitute for the entire NDC package.
+24. Blue economy is oceans and coasts. Green hydrogen is energy. Do not merge the two labels.
 
-ECOLOGICAL FOOTPRINT: Resource demand in global hectares (gha) | GFN | Biocapacity vs demand
-  India ~1.0–1.2 gha/person | ≠ carbon footprint (tCO₂e)
+---
 
-NET ZERO: Emissions balanced by removals | India 2070 (COP26 2021) | ≠ gross zero
-  NDC 2030: 45% intensity | 50% non-fossil capacity | 2.5–3 GtCO₂e forest sink
-  Emissions Gap Report = UNEP (2024 Q6)
-
-GREEN ECONOMY: UNEP 2011 — low-carbon, resource-efficient, socially inclusive
-BLUE ECONOMY: Sustainable ocean use — SDG 14 | MISHTI 2023 Budget (NOT 2019 — Q93)
-CIRCULAR ECONOMY: Close material loops — 3R/9R | EPR | ⊂ green economy | SDG 12
-
-GREEN HYDROGEN: Electrolysis + renewable power | Mission Jan 2023 | 5 MMT by 2030
-  Grey = natural gas (dominant) | Blue = grey + CCS
-
-MICROPLASTICS: <5 mm | Primary + secondary | SUP ban 2022 | NOT fast biodegradable
-CLIMATE REFUGEES: Mostly INTERNAL displacement | No 1951 Convention legal category
-NbS: Protect/manage/restore ecosystems | IUCN | MISHTI mangroves | ≠ geoengineering
-
-LiFE (2025 Q139): Idea COP26 2021 | Launch June 2022 | MoEFCC | 75 actions
-  COP-25 Madrid trap = FALSE → Ans D (Only 1)
-
-TRAPS: LiFE≠COP-25 | MISHTI≠2019 | Net zero≠2050 | Micro≠5 cm | gha≠tCO₂e
-  Green≠circular identical | Grey H₂≠green | Climate refugee≠1951 refugee
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Pair | Lock |
 |------|------|
@@ -320,25 +318,6 @@ LiFE: (1) Launched in June 2022. (2) Idea proposed at COP-25 in Madrid.
 | Actions | **~75** |
 
 > **Exam note:** COP-25 Madrid trap is the classic false statement.
-
----
-
-## Consolidated Reference
-
-| Issue | Key lock |
-|-------|----------|
-| Carbon footprint | **tCO₂e**; Scope 1/2/3 |
-| Ecological footprint | **gha**; pressure on nature |
-| Net zero | India **2070**; ≠ gross zero |
-| Emissions Gap Report | **UNEP** |
-| Green economy | UNEP **2011** framing |
-| Blue economy | **SDG 14**; MISHTI **2023** |
-| Circular economy | EPR + loops; **SDG 12** |
-| Green hydrogen | Mission **2023**; **5 MMT**/2030 |
-| Microplastics | **<5 mm** |
-| Climate refugees | Mostly **internal**; no 1951 status |
-| NbS | Ecosystems; MISHTI mangroves |
-| LiFE | June **2022**; idea COP**26** |
 
 ---
 

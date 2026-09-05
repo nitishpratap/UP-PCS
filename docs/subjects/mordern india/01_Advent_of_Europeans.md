@@ -15,28 +15,38 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-1498   Vasco da Gama reaches Calicut (Portuguese)
-1600   English East India Company (31 December)
-1602   Dutch VOC
-1616   Danish company; Tranquebar factory 1620
-1664   French East India Company; Pondicherry 1674
+1. Vasco da Gama reached **Calicut** in **1498** and opened the all-sea Atlantic route for Portugal. He did **not** capture **Goa**.
+2. **Francisco de Almeida** was the first **Portuguese Viceroy** in **1505**. His **Blue Water Policy** meant control of sea lanes, not conquest of the Deccan interior.
+3. **Afonso de Albuquerque** captured **Goa in 1510** and made it the capital of **Estado da Índia**. Do not swap him with Almeida as the first Viceroy.
+4. A **cartaze** was a Portuguese sea-pass that Indian Ocean ships had to buy. A Mughal **farman** was a trade grant on land — do not swap the two.
+5. The **English East India Company** was chartered on **31 December 1600**. The Dutch **VOC** was founded in **1602**. Never swap these years.
+6. The **French East India Company** was founded in **1664**, with **Pondicherry** as headquarters from **1674**. **Goa** stayed Portuguese; do not call Pondicherry Portuguese.
+7. The Danish company dates from **1616**, with the **Tranquebar** factory from **1620**. It never built a land empire in India.
+8. A **factory** was a **trading post** with local permission, not a mill and not a colony. Early presence was coastal and commercial, not pan-India rule.
+9. The three classic **presidencies** were **Madras, Bombay and Bengal**. The first **Municipal Corporation** was at **Madras** in **1687–88**.
+10. **William Hawkins** reached Jahangir’s court in **1608** as an EIC captain who knew Turkish. **Sir Thomas Roe** was James I’s ambassador in **1615–19**. Hawkins did **not** come in 1611 as James I’s envoy.
+11. The first permanent English **Surat factory** followed in **1612** after the **Battle of Swally**. **Ralph Fitch** had visited earlier (**1585–91**), before the factory phase.
+12. **Francis Day** obtained the Madras grant in **1639**; **Fort St George** followed in **1640**. **Bombay** came as Portuguese dowry in **1661** and was leased to the EIC in **1668**.
+13. **Job Charnock** settled at Calcutta in **1690**. **Shah Jahan** expelled the Portuguese from **Hooghly in 1632**.
+14. Dutch Bengal lock: **Chinsurah** was Dutch; **Chandernagore** was French. At **Bedara (1759)** the English defeated the Dutch in Bengal.
+15. At **Colachel (1741)**, Travancore under **Marthanda Varma** defeated the Dutch — a rare Indian victory over a European company force.
+16. **First Carnatic War (1746–48)** grew from Anglo–French rivalry in the War of the Austrian Succession. **Cause:** European war spilled into the Carnatic. **Course:** French took Madras. **Result:** **Treaty of Aix-la-Chapelle (1748)** returned Madras to the English.
+17. **Second Carnatic War (1749–54)** was a succession duel in the Carnatic and Hyderabad. **Course:** Clive’s defence of **Arcot (1751)** flipped local alliances. **Result:** English influence rose; **Dupleix** was recalled.
+18. **Third Carnatic War (1758–63)** was the decisive Anglo–French struggle in India. **Course:** **Eyre Coote** won at **Wandiwash (1760)**. **Result:** **Treaty of Paris (1763)** left the French with factories, not an Indian empire.
+19. **Wandiwash (1760)** is Anglo–French under **Eyre Coote**. **Plassey (1757)** is Clive’s Bengal battle. Do not swap commanders or theatres.
+20. After **1763** the English dominated European rivals in India. French power was reduced to enclaves; the path to Bengal empire opened next.
+21. Portuguese India was a **crown** empire (**Estado da Índia**). Dutch, English, French and Danish presence was mainly **company-led** under royal charters.
+22. English beat the French in India through a stronger navy, steadier home support, better local alliances after Arcot, and the recall of Dupleix that broke French continuity.
+23. Early English and Dutch trade at ports such as Surat rested on a **Mughal farman**, not on conquest. Advent of Europeans is **not** the same as the British Raj.
+24. **Hormuz** and **Malacca** were Portuguese choke-points for sea lanes. Their main late Indian holdings were **Goa, Daman and Diu**.
+25. Traveller order for exams: **Fitch** before the EIC factory phase, then **Hawkins (1608)**, then **Roe (1615–19)**. Keep that sequence tight.
+26. Carnatic Wars are **English vs French** in the 1740s–60s. Anglo–Mysore Wars are **English vs Hyder/Tipu** later — never merge the two series.
 
-Portuguese: Almeida first Viceroy 1505; Albuquerque takes Goa 1510
-English: Hawkins 1608; Surat factory 1612; Sir Thomas Roe 1615–19
-Dutch: Pulicat and Chinsurah; English defeat Dutch at Bedara 1759
-Factory = trading post, not a mill
-Presidencies: Madras, Bombay, Bengal
-First Municipal Corporation: Madras, 1687–88
+---
 
-First Carnatic War  1746–48   Treaty of Aix-la-Chapelle; Madras returned to the English
-Second Carnatic War 1749–54   Arcot 1751; Dupleix recalled (also called Second Anglo-French War)
-Third Carnatic War  1758–63   Wandiwash 1760; Treaty of Paris 1763
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -53,7 +63,6 @@ Third Carnatic War  1758–63   Wandiwash 1760; Treaty of Paris 1763
 
 ---
 
----
 
 ## 1.0 One clear picture — Europeans to English ascendancy
 

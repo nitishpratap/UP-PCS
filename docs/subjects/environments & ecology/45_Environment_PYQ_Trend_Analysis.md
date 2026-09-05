@@ -8,62 +8,49 @@
 
 ---
 
+## Consolidated — 18 Must-Score Locks
+
+1. Recent UPPCS papers give roughly **15–20 tagged environment marks** most years. Planning for only 8–10 is outdated.
+2. Tagged volume rose from about **12** questions (2018–20 average) to about **17.7** (2023–25 average).
+3. **2023** was the peak tagged year (**25** questions). **2025** stayed strong at **19**.
+4. **2020** and **2024** dips in tagged count still hide cross-subject environment leakage in Economy and Geography.
+5. The hottest topic cluster by frequency is **SDGs and sustainable development**, then **pollution**, then **ecology and ecosystem**.
+6. Climate change, wildlife conservation, biodiversity, biosphere reserves, forests/ISFR, and Ramsar–UP traps also stay hot.
+7. From **2023–2025**, rising lines include SDGs, wildlife, biodiversity, biosphere, forests, and current schemes such as LiFE and MISHTI.
+8. The **2025** environment paper shifted toward **multi-statement, A/R, Match, and NOT-matched** formats — about two-thirds multi-format.
+9. Practice must include two-statement and Assertion–Reason drills, not only one-line date or HQ recall.
+10. 2025 blueprint clusters cover SDGs, current schemes, UP geography traps, ecology indicators, and international reports or funds.
+11. Scheme year traps: **LiFE** idea **COP-26 2021** / launch **June 2022** — not COP-25. **MISHTI** = **2023** Budget — not 2019.
+12. **DPAP = 1973**. India **net zero = 2070**. **GEF = 1991**. **Montreal = ozone**. **Kyoto/Paris = climate**.
+13. UP negative geography repeats: Rudrasagar = Tripura; Sultanpur = Haryana; Nokrek ≠ Manipur; many “UP BR” claims are false.
+14. True environment ROI is higher than tagged count because reports and protected-area facts leak into other GS subjects.
+15. Study ROI priority puts SDGs and UP protected-area traps near the top, then current issues, ecology, climate/pollution, and treaties.
+16. Emissions Gap Report = **UNEP** remains a cross-subject economy–environment lock.
+17. Format formula after 2025: prepare heavily for multi-statement and Match/NOT-matched, with a smaller share of pure direct MCQs.
+18. Volume formula for the next attempt: budget about **15–20 tagged** plus a few cross-subject environment hits.
+
+---
+
+## Confused Pairs (exam killers)
+
+| Pair | Lock |
+|------|------|
+| Tagged count vs true ROI | Tagged Qs understate env marks — add Economy/Geography leakage |
+| 2020/2024 dip vs trend | Dips are anomalies; plan for **15–20** env marks |
+| Direct MCQ habit vs 2025 format | Multi-statement / A/R / Match now dominate |
+| LiFE COP-25 vs COP-26 | Idea **COP-26 2021**; launch **June 2022** |
+| MISHTI 2019 vs 2023 | **2023–24 Budget** mangrove scheme |
+| Montreal vs Kyoto | Ozone vs climate |
+| Nokrek–Manipur / UP BR claims | Nokrek = **Meghalaya**; UP has **zero** BRs |
+
 ## How to Use This File
 
 | When | Read what | Time |
 |------|-----------|------|
 | **First pass** | §45.1 Volume + §45.2 Topic Heat Map | 10 min |
 | **Before mock test** | §45.3 Format Shift + §45.5 2025 Blueprint | 15 min |
-| **Last-week revision** | Quick Revision Box + Trap Checklist + Study ROI | 10 min |
+| **Last-week revision** | Consolidated locks + Trap Checklist + Study ROI | 10 min |
 | **After each PYQ year** | §45.6 Year-wise snapshot | 5 min |
-
----
-
-## Quick Revision Box — Raata This First
-
-```
-VOLUME TREND:
-  2018-20 avg: ~12 env Qs/paper | 2023-25 avg: ~17.7 Qs/paper (+47%)
-  Peak: 2023 (25 Qs) | 2025: 19 Qs (~13% of GS paper)
-  Plan for 15-20 environment marks every year — not 8-10
-
-TOP 5 HOT TOPICS (PYQ frequency):
-  1. SDGs & Sustainable Development (Topic 15) — 16 hits
-  2. Pollution (Topics 9/38) — 12 hits
-  3. Ecology & Ecosystem (Topic 2) — 11 hits
-  4. Climate Change (Topics 10/34) — 9 hits
-  5. Wildlife Conservation (Topic 7) — 8 hits
-
-RISING 2023-25 (prioritise):
-  SDGs (+9) | Wildlife (+3) | Biodiversity (+2) | Biosphere (+2)
-  Forests/ISFR (+2) | Ramsar UP traps (+1) | Current issues LiFE/MISHTI (new)
-
-FORMAT SHIFT 2025:
-  Historical: 68% direct MCQ
-  2025 env paper: ~68% multi-format (multi-statement + A/R + Match + NOT-matched)
-  → Practice 2-statement and A/R — not one-liners only
-
-2025 BLUEPRINT CLUSTERS:
-  SDGs (Q22, Q51, Q120, Q142) | Current schemes (Q93 MISHTI, Q139 LiFE)
-  UP geography traps (Q8 ISFR, Q58 Ramsar, Q90 NP match, Q144 Biosphere)
-  Ecology (Q5 energy flow, Q61 lichens) | Reports/orgs (Q70 CGWB, Q145 GEF)
-
-CROSS-SUBJECT LEAKAGE:
-  Economy: Emissions Gap Report = UNEP (2024 Q6)
-  Geography/CA: schemes, protected areas bleed into other subjects
-  True env ROI > tagged question count
-
-SCHEME YEAR TRAPS (highest strike rate):
-  LiFE: COP26 2021 idea | June 2022 launch | NOT COP-25 Madrid
-  MISHTI: 2023-24 Budget | NOT 2019
-  DPAP: 1973 | India net zero: 2070 | GEF: 1991
-  Montreal = ozone | Kyoto/Paris = climate
-
-UP NEGATIVE GEOGRAPHY (repeat weapon):
-  Ramsar: Rudrasagar = Tripura; Sultanpur = Haryana (2025 Q58)
-  WLS districts (2022 Q36, 2023 Q56) | Biosphere NOT in India (2025 Q144)
-  ISFR 2023 UP districts (2025 Q8)
-```
 
 ---
 
@@ -430,24 +417,3 @@ After every UPPCS mock, score yourself on these trend dimensions:
 
 ---
 
-## Consolidated Reference — Trend at a Glance
-
-### Volume Formula
-```
-Expected env Qs 2026 ≈ 15–20 (tagged) + 3–5 (cross-subject) = ~18–25 total ROI
-```
-
-### Format Formula (post-2025)
-```
-Prepare: 40% multi-statement + 15% A/R + 15% Match/NOT-matched + 30% direct MCQ
-```
-
-### Topic Formula (priority weights)
-```
-SDGs (25%) + UP Protected Areas (20%) + Current Issues (15%) + Ecology (15%)
-+ Climate/Pollution (10%) + Intl orgs/treaties (10%) + Everything else (5%)
-```
-
----
-
-*End of Topic 45 — Environment PYQ Trend Analysis. Use alongside Topics 1–44 for exam-oriented revision.*

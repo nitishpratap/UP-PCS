@@ -14,28 +14,36 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-O₃ = triatomic oxygen | Good in STRATOSPHERE (15–35 km) | Bad at ground level
-Measure: Dobson Unit | Avg ~300 DU | Hole < 220 DU
+1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** sits in the **stratosphere** (about **15–35 km**). Ground-level ozone is harmful.
+2. Ozone amount is measured in **Dobson Units**. Average column is about **300 DU**. An ozone hole is often taken as below **220 DU**.
+3. Ozone depletion is driven by **ODS** such as CFCs through chlorine and bromine catalytic cycles.
+4. One chlorine atom can destroy on the order of **100,000** ozone molecules before it is removed.
+5. The classic **ozone hole** forms over **Antarctica** in spring (**September–October**) with polar stratospheric clouds and the polar vortex.
+6. Joe **Farman**’s group reported the Antarctic ozone hole in **1985**.
+7. ODS include **CFCs, halons, carbon tetrachloride, methyl bromide, and HCFCs**. HCFCs are transitional substitutes.
+8. **HFCs** are high-GWP climate gases under **Kigali**. They are **not** classic ozone-depleting substances.
+9. The **Vienna Convention (1985)** is the framework treaty. The **Montreal Protocol (1987)** is the binding ODS phase-out.
+10. World Ozone Day is **16 September** because that is the Montreal Protocol signature date.
+11. The **Kigali Amendment (2016)** phases down **HFCs** for climate reasons under the Montreal family.
+12. **Montreal = ozone. Kyoto = climate.** Agenda 21 is not an ozone treaty.
+13. ODP measures ozone-damage potential. GWP measures heat-trapping potential. Do not swap the metrics.
+14. Stratospheric ozone absorbs harmful UV. Tropospheric ozone is a pollutant and greenhouse gas.
+15. Ozone depletion is broad column loss. An ozone hole is the deep Antarctic spring loss region.
+16. India’s Ozone Cell under MoEFCC tracks HCFC phase-out and cooling-sector compliance.
+17. Do not place the protective ozone layer in the troposphere.
+18. CFCs are both ODS and strong greenhouse gases. Montreal targets their ozone role first.
+19. Polar spring timing matters: the deepest Antarctic loss is not midsummer.
+20. Vienna does not itself list every control measure; Montreal carries the binding phase-out schedules.
+21. Carbon tetrachloride and methyl bromide are ODS even when CFC is the headline name in a stem.
+22. Kigali sits on Montreal machinery but the target gas class is **HFCs**, not CFCs.
+23. Dobson Unit is a column measure, not a surface concentration in ppm.
+24. A stem pairing Montreal with climate mitigation is usually the Kyoto/Paris trap.
 
-DEPLETION: CFCs/ODS → Cl·/Br· catalytic cycles | 1 Cl ~ 100,000 O₃
-HOLE: Antarctic spring (Sep–Oct) | PSCs + polar vortex | Farman 1985
+---
 
-ODS: CFCs, halons, CCl₄, methyl bromide, HCFCs (transitional)
-  HFC = high GWP climate gas (Kigali) — not classic ODS
-
-TREATIES:
-  Vienna Convention 1985 = framework
-  Montreal Protocol 1987 = binding ODS phase-out | signed 16 Sept = Ozone Day
-  Kigali Amendment 2016 = HFC phase-down
-
-TRAPS: Montreal = ozone | Kyoto = climate (2024 Q35)
-  Ozone ≠ troposphere | Agenda 21 ≠ ozone treaty
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -219,22 +227,6 @@ World / International Ozone Day date:
 | Kigali Amendment | **2016** | HFC phase-down under Montreal |
 
 > **Exam note:** Vienna alone ≠ CFC ban list; Montreal adds the teeth.
-
----
-
-## Consolidated Reference
-
-| Lock | Value |
-|------|-------|
-| Ozone layer location | Stratosphere |
-| Hole threshold | < 220 DU |
-| Hole geography | Antarctic spring |
-| Framework treaty | Vienna 1985 |
-| Binding ODS treaty | Montreal 1987 |
-| Ozone Day | 16 September |
-| Climate treaty trap | Kyoto (not Montreal) |
-
-**Good vs bad ozone:** Stratosphere protects; tropospheric O₃ irritates eyes/lungs and appears in photochemical smog.
 
 ---
 

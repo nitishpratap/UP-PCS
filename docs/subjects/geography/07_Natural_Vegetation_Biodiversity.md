@@ -16,45 +16,36 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-VEGETATION = climate index → Thornthwaite (2018 Q25) | Climate + soil + relief + biotic + time
- Mega-biodiversity | Hotspots: Himalaya · W Ghats · Indo-Burma · Sundaland
-RAIN LADDER (NCERT): Evergreen >200 | Semi-evergreen mix | Moist deciduous 100–200 (LARGEST ~37%)
- Dry deciduous 70–100 (~28%) | Thorn <70–75 | PMF wet evergreen often >250; semi 200–250
- Champion–Seth: 5 heads, **16** sub-types (moist trop / dry trop / sub-trop montane / temp montane / alpine)
- Dry evergreen = TN Coromandel, ~100 cm **NE monsoon**, jamun–neem–tamarind
- Chir pine = W Himalaya 1000–2000 m; inner Himalaya dry temperate (snow precip)
- Alpine: moist rhododendron–birch; dry juniper >3500 m | Shola = S Indian hills
- 2010 trap: four hotspots are NOT “E Himalaya + W Himalaya + WG + A&N”
- Correct four: Himalaya · WG–Sri Lanka · Indo-Burma · Sundaland (**Nicobar**, not Andaman)
- BIO: richness ≠ evenness | α in one ecosystem / β between / γ region | 50k rice strains, 1k mango
- 2 realms (Palearctic Himalaya + Indomalayan rest) | 5 biomes | **10** biogeographic zones | ~25 provinces
- Evergreen: W Ghats, NE, Andamans; multilayer; rosewood/mahogany/ebony; no complete dry leaf-shed
- Moist deciduous: teak, sal, shisham, sandalwood; leaf-shed dry season
- Thorn: RJ, GJ, rain-shadow; acacia, babool, ber, khair; xerophytes
- Montane: altitude elevator — tropical → oak/deodar/chir → alpine → bugyal → snow | Shola = S Indian hills
- Littoral/mangrove: deltas; sundari; pneumatophores; storm buffer
-WORLD (2019): Maquis=Med | Fynbos=SA | Chaparral=California | Matorral=Chile
- Epiphytes=Equatorial | Acacia=Sahara | Baobab=Savanna | Cedars=Mediterranean
- Diversity FALLS equator→poles (2019 Q58 A is false)
-ISFR/FSI: 2017 cover 21.54% (2018 Q44) | 2021 max increase among options = AP (2022 Q61)
- UP ~6% TGA (NOT 12.8%) | >20% districts ISFR 2023: Chandauli + Shravasti NOT Bahraich (2025 Q8)
- Jaunpur–Ghazipur–Ballia ≈ nil FOREST land; Ballia still has Surha Tal Ramsar
- Policy 1988 goal 33% | Cover ≠ Recorded Forest Area
-PA: NP stricter than WLS | BR = core+buffer+transition | India 18 BRs; Nilgiri first 1986
- In-situ = NP/WLS/BR/sacred grove | Ex-situ = zoo, botanical garden, seed bank (2018 Q54 garden NOT in-situ)
- 1972 WLPA → 1973 Project Tiger → 1992 Project Elephant → 2002 BDA
-UP: Only NP = Dudhwa (Lakhimpur Kheri) | TR = Dudhwa | Pilibhit | Amangarh | Ranipur
- Dudhwa TR = Dudhwa NP + Kishanpur + Katarniaghat | Katarniaghat est. 1975 | Chandraprabha = Chandauli
-FAMOUS: Dachigam=Hangul | Keibul Lamjao=Loktak | Simlipal=Odisha NOT MP | Nokrek=Meghalaya NOT Manipur
- Agasthyamalai=KL–TN | Nanda Devi=UK | Manas=Assam | Keoladeo=RJ | Kanha=MP
-RAMSAR UP IN: Sarsai Nawar, Samaspur, Sur Sarovar… + Surha Tal/JP Narayan BS Ballia = 100th (2026)
- NOT UP: Rudrasagar=Tripura; Sultanpur=Haryana; Surinsar–Mansar=J&K | Jan 2020 +6 to UP
-MANGROVE/CORAL: Sundarbans sundari | MISHTI restore mangroves, NOT started 2019 (2025 Q93 Only 2)
- Coral: A&N, Lakshadweep, Gulf of Mannar, Gulf of Kachchh | Bleaching = ~2°C warming (2024 Q19)
- Operation Olivia = Coast Guard Olive Ridley Odisha; nesting ~Nov–May NOT August (2025 Q143 Only 1)```
+1. “Vegetation is the true index of climate” is **Thornthwaite’s** line, not Köppen’s letter codes. Controls are climate, soil, relief, biotic factors, and time.
+2. India is a **mega-biodiversity** country. The four hotspots touching India are **Himalaya**, **Western Ghats–Sri Lanka**, **Indo-Burma**, and **Sundaland** (**Nicobar**, not Andaman). Do not split Himalaya into east and west as if those were the four.
+3. Rain ladder: tropical evergreen **>200 cm**; moist deciduous **100–200 cm** (largest area, about **37%**); dry deciduous **70–100 cm** (about **28%**); thorn below about **70–75 cm**. Semi-evergreen is the mix zone. Some coaching notes put wet evergreen above **250 cm** — read the stem.
+4. Champion–Seth teaching heads group into five major classes and about **16** sub-types (moist tropical, dry tropical, subtropical montane, temperate montane, alpine).
+5. **Dry evergreen** of the Tamil Nadu Coromandel grows on about **100 cm** of **north-east monsoon** with jamun–neem–tamarind. It is not Western Ghat wet rainforest.
+6. **Chir pine** belts the western Himalaya at about **1000–2000 m**. Alpine moist belts carry rhododendron–birch; dry alpine juniper sits above about **3500 m**. **Shola** forests are South Indian hill patches.
+7. Species diversity **decreases from equator to poles**. Richness is not the same as evenness. Alpha is within one ecosystem, beta between ecosystems, gamma across a region.
+8. India has two realms (Palearctic Himalaya + Indomalayan rest), five biomes, **ten** biogeographic zones, and about **25** provinces.
+9. Evergreen forests of the Western Ghats, north-east, and Andamans are multilayered with rosewood, mahogany, and ebony and do **not** shed all leaves in one dry season. Moist deciduous forests (teak, sal, shisham, sandalwood) shed in the dry season and cover the **largest** area.
+10. Thorn / scrub of Rajasthan, Gujarat, and rain-shadow tracts holds acacia, babool, ber, and khair (xerophytes). Littoral / mangrove forests of deltas hold **sundari** and **pneumatophores** and buffer storms.
+11. World vegetation match: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile. Epiphytes peak in equatorial forest; acacia in Sahara; baobab in savanna; cedars in Mediterranean.
+12. Forest cover in ISFR 2017 was **21.54%**. Among common options, Andhra Pradesh showed the maximum increase in 2021. **Forest cover is not the same as Recorded Forest Area**. National Forest Policy 1988 aims at about **33%**.
+13. Uttar Pradesh forest cover is about **6%** of geographical area — not 12.8%. ISFR 2023 districts above 20% include **Chandauli and Shravasti**, not Bahraich. Jaunpur–Ghazipur–Ballia have near-nil forest land, yet Ballia holds **Surha Tal** Ramsar.
+14. National Parks are stricter than Wildlife Sanctuaries. Biosphere Reserves have **core + buffer + transition**. India has **18** biosphere reserves; **Nilgiri (1986)** was the first.
+15. **In-situ** conservation = National Park, Sanctuary, Biosphere Reserve, sacred grove. **Ex-situ** = zoo, botanical garden, seed bank. A botanical garden is **not** in-situ.
+16. Chronology lock: Wildlife Protection Act **1972** → Project Tiger **1973** → Project Elephant **1992** → Biological Diversity Act **2002**. Project Tiger launched on **1 April 1973**.
+17. Park–state locks: **Simlipal = Odisha** (not Madhya Pradesh); **Nokrek = Meghalaya** (not Manipur); **Nanda Devi = Uttarakhand** (not Uttar Pradesh); **Agasthyamalai = Kerala and Tamil Nadu**; Manas = Assam; Keoladeo = Rajasthan; Kanha = Madhya Pradesh.
+18. **Dachigam** protects the **Hangul** (Kashmir stag). **Keibul Lamjao** sits on **Loktak** (Manipur) for the Sangai.
+19. Uttar Pradesh’s **only National Park** is **Dudhwa** in **Lakhimpur Kheri**. Tiger Reserves are Dudhwa, Pilibhit, Amangarh, and Ranipur — do not invent extra National Parks.
+20. Dudhwa Tiger Reserve = Dudhwa National Park + Kishanpur + **Katarniaghat** (Katarniaghat established **1975**). **Chandraprabha** Wildlife Sanctuary is in **Chandauli**.
+21. Ramsar traps **not** in Uttar Pradesh: Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (Jammu & Kashmir). Surha Tal / JP Narayan Bird Sanctuary, Ballia is India’s **100th Ramsar** and Uttar Pradesh’s 13th.
+22. **MISHTI** restores mangroves and belongs to Budget **2023–24**, not 2019. Mangrove breathing roots are **pneumatophores**. Sundarbans are the sundari mangrove lock.
+23. Coral reefs lock to Andaman & Nicobar, Lakshadweep, Gulf of Mannar, and Gulf of Kachchh. Coral bleaching is linked to about **2°C** warming of sea water.
+24. **Operation Olivia** is the Coast Guard Olive Ridley programme in Odisha. Nesting season is about **November–May**, not August.
+25. Montane vegetation is an altitude elevator: tropical foothills → oak / deodar / chir → alpine → bugyal → snow. Plains rainfall ladders do not replace this altitude logic.
+26. Keystone species collapse an ecosystem if lost; flagship species are public mascots — do not treat them as the same exam idea.
+27. India has about **50,000** rice strains and about **1,000** mango varieties in the usual diversity teaching line.
+28. Tea and rubber estates are **plantations**, not climax evergreen forest. Moist and dry deciduous belong to one monsoon-forest family split by rainfall.
 
 ---
 
@@ -465,30 +456,6 @@ India reefs: **Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh**
 - Project Tiger 1973 / Project Elephant 1992 — dated in N.5.
 - MISHTI → mangrove restoration (N.2).
 
----
-
-## Consolidated — 20 Must-Score Locks
-
-1. Vegetation index of climate = **Thornthwaite** (2018).
-2. Moist deciduous **100–200 cm** = **largest (~37%)**; dry deciduous next (~28%); evergreen **>200** (PMF wet often **>250**); semi-evergreen = mix zone.
-3. Diversity **decreases** equator → poles (2019). Four hotspots: Himalaya / WG–Sri Lanka / Indo-Burma / Sundaland (**Nicobar**). Not “E Himalaya + W Himalaya + A&N.”
-4. Maquis–Med; Fynbos–SA; Chaparral–California; Matorral–Chile.
-5. ISFR 2017 = **21.54%**; 2021 max rise among options = **AP**. Cover ≠ RFA.
-6. UP forest ~**6%**; ISFR 2023 >20% = **Chandauli + Shravasti**.
-7. Botanical garden = **ex-situ** (2018). BR = core + buffer + transition.
-8. **1972–1973–1992–2002** chronology. Project Tiger launch **1 April 1973**.
-9. India **18** BRs; **Nilgiri 1986** = first.
-10. Simlipal = **Odisha**; Nokrek = **Meghalaya**; Nanda Devi = **Uttarakhand**.
-11. Dachigam = **Hangul**; Keibul = **Loktak**.
-12. Dudhwa NP = **Lakhimpur Kheri**; only UP NP.
-13. Dudhwa TR = NP + Kishanpur + Katarniaghat; Katarniaghat **1975**.
-14. Chandraprabha = **Chandauli**.
-15. Agasthyamalai = KL–TN. Shola = South Indian montane. Dry evergreen = **TN Coromandel**. Chir pine = W Himalaya 1000–2000 m.
-16. Rudrasagar/Sultanpur/Surinsar–Mansar **not UP**.
-17. Surha Tal Ballia = **100th Ramsar** / UP 13th (2026).
-18. MISHTI = mangrove restore, **not 2019**. Pneumatophores = mangrove breathing roots.
-19. Coral bleaching = **warming** (~2°C, 2024). Reefs: A&N, Lakshadweep, Mannar, Kachchh.
-20. Olivia = Coast Guard, Odisha, **Nov–May** not August.
 ---
 
 ## Practice Zone — UPPCS Format Questions

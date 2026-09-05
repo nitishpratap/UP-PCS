@@ -18,40 +18,42 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-INDIA = tropical monsoon (not wholly tropical) | Himalaya = winter wall + orographic rain
- Monsoon word = Arabic **mausim** (season) | ~75–90% rain from SW Jun–Sep | onset Kerala ~1 Jun first
-SEASONS (IMD): Cold Dec–Feb (WD in NW) | Hot Mar–May (Loo, Nor'westers, mango/blossom)
- SW monsoon Jun–Sep (75–90% rain) | Retreating Oct–Nov (Oct heat, BoB/Andaman cyclones) + NE monsoon on SE coast
-SW MONSOON: ITCZ north → thermal low NW India → SE trades cross ~40–60°E → Mascarene + Somali Jet → two branches
- Arabian Sea → W Ghats wet / leeward dry; CG basin weak on Arabian branch | BoB → NE + Ganga plain
- TN SE coast DRY in SW (parallel to BoB branch + rain shadow of Arabian Sea branch) — 2023 Q54
- Onset: Kerala ~1 Jun | Mumbai/Kolkata ~10 Jun | Delhi ~29 Jun | Rajasthan last (~15 Jul)
- Active = trough on Ganga plain | Break = trough on Himalaya (central India dry)
- Rain: E→W decline on N plains | duration S→N shorter | RJ dry = Aravalli parallel | rainy day ≥2.5 mm
-NE MONSOON Oct–Dec = TN, south AP, SE KA/KL fringe, Puducherry | NOT all-India winter rain
-WD = Mediterranean extra-tropical; winter NW rain; decreases WEST→EAST — NOT retreating monsoon
- Places: PB/HR/HP/J&K/UK/west UP/N RJ | STWJ **south** branch (Tibet splits jet; N branch ≠ India winter)
-JETS: mid-latitude jets = WESTERLY (2024 Q60 A false) | STWJ winter S of Himalaya (WD)
- TEJ summer easterly ~14°N (SW monsoon) | Somali Jet = cross-equatorial feed
-ENSO: El Niño = warm Peru → weak monsoon + LESS plankton | La Niña → stronger monsoon
- IOD = W vs E **Indian Ocean** (not Pacific) | +IOD helps | −IOD hurts
-KÖPPEN: Am = KL/Konkan/NE | Aw = Deccan | As = TN dry summer | BWh = Thar | Cwg = Ganga/Great Plains/N Bihar
-HEAT: Jan **18°C** isotherm = tropical/subtropical divide | diurnal max = RJ desert | Leh driest
- Troposphere heated by LONG-WAVE terrestrial | latent heat on condensation | lapse ~6.5 °C/1000 m | RH ↓ as T ↑ | ozone = STRATOSPHERE
- Cells: Hadley (0–30) | Ferrel (30–60) | Polar (60–90) | Doldrums = ITCZ | Horse latitudes = 30° high
- Rain types: orographic | convectional | cyclonic | Isohyet = equal rain line
-LOCAL: Loo = hot dry plains May–Jun | Kal Baisakhi = E/NE thunderstorms Apr–May
- Mango = KL/KA | Blossom = coffee TN/KL | Sea breeze day / land breeze night
- Anabatic day-up | Katabatic night-down | Foehn/Chinook = warm dry lee (not cold katabatic)
-CYCLONES: BoB > Arabian Sea | SST ≥26–27 °C | eye calm / eyewall fiercest | not on equator
- Hurricane / Typhoon / Taifu / Baguio / Willy-willies ★asked | also Cyclone=NIO | Cordonazo=Mexico | Willy≠Brickfielder
- Thornthwaite = "vegetation is true index of climate" — NOT Köppen
-```
+1. India’s climate is **tropical monsoon**, not wholly tropical, because the country stretches into the subtropical north. The Himalaya acts as a winter **wall** against Central Asian cold and forces **orographic** rain on southern slopes in the monsoon.
+2. The word monsoon comes from Arabic **mausim** (season). About **75–90%** of India’s rain falls with the south-west monsoon from June to September. Onset usually begins first in **Kerala around 1 June**.
+3. IMD seasons are Cold Weather (**December–February**, Western Disturbances in the north-west), Hot Weather (**March–May**, Loo, Nor’westers, mango and blossom showers), South-West Monsoon (**June–September**), and Retreating Monsoon (**October–November**, October heat and Bay of Bengal / Andaman cyclones).
+4. South-west monsoon starts when the **ITCZ** shifts north and a thermal low forms over north-west India. South-east trades cross the equator near about **40–60° E**, then the **Mascarene High** and **Somali Jet** feed the two monsoon branches.
+5. The **Arabian Sea branch** soaks the Western Ghats windward slope and leaves the leeward Deccan dry. The Chhattisgarh basin is comparatively weak on this branch. The **Bay of Bengal branch** waters the north-east and the Ganga plain.
+6. The Tamil Nadu south-east coast stays **dry in the south-west monsoon** because it lies parallel to the Bay branch and in the rain shadow of the Arabian Sea branch. Its main rain comes with the **north-east monsoon** later.
+7. Typical onset dates are Kerala about **1 June**, Mumbai and Kolkata about **10 June**, Delhi about **29 June**, and Rajasthan last around **mid-July**.
+8. An **active** monsoon keeps the trough on the **Ganga plain** so the plains stay wet. A **break** monsoon shifts the trough onto the **Himalaya**, so central India goes dry.
+9. On the northern plains rainfall generally **declines east to west**. The rainy season is **shorter from south to north**. Rajasthan stays dry partly because the Aravalli runs **parallel** to the Arabian Sea branch. A rainy day is counted from about **2.5 mm** of rain.
+10. The **north-east monsoon (October–December)** is mainly for Tamil Nadu, south Andhra Pradesh, the south-east Karnataka–Kerala fringe, and Puducherry. It is **not** all-India winter rain.
+11. **Western Disturbances** are Mediterranean **extra-tropical** systems that bring winter rain to the north-west. Their rain **decreases west to east**. They are **not** the retreating monsoon. Core belt: Punjab, Haryana, Himachal, Jammu & Kashmir, Uttarakhand, western Uttar Pradesh, and northern Rajasthan.
+12. Mid-latitude jet streams are **westerly**. In winter the **Subtropical Westerly Jet** south of the Himalaya steers Western Disturbances after Tibet splits the jet. The northern branch does **not** drive India’s winter rain.
+13. The **Tropical Easterly Jet** is a summer **easterly** around about **14° N** and supports the south-west monsoon. The **Somali Jet** is the cross-equatorial feed into that monsoon.
+14. **El Niño** warms the eastern Pacific off Peru, usually weakens the Indian monsoon, and **reduces** plankton because warm water suppresses upwelling. **La Niña** cools that ocean and usually strengthens the monsoon.
+15. The **Indian Ocean Dipole** compares the western and eastern **Indian Ocean**, not the Pacific. A **positive IOD** helps the Indian monsoon; a **negative IOD** hurts it.
+16. Köppen locks for India: **Am** = Kerala / Konkan / north-east; **Aw** = Deccan; **As** = Tamil Nadu dry-summer Coromandel; **BWh** = Thar; **Cwg** = Ganga / Great Plains / north Bihar (and most of the Uttar Pradesh plain).
+17. The January **18°C** isotherm is the usual tropical–subtropical divide. **Diurnal range** is highest in the Rajasthan desert. **Leh** is among the driest class stations; Mawsynram / Cherrapunji are the wettest class.
+18. The troposphere is heated mainly by **long-wave** radiation from the ground. Condensation releases **latent heat**. Normal lapse rate is about **6.5 °C per 1000 m**. Relative humidity **falls as temperature rises**. Ozone peaks in the **stratosphere**.
+19. Circulation cells are **Hadley (0–30°)**, **Ferrel (30–60°)**, and **Polar (60–90°)**. **Doldrums** mark the rainy ITCZ calm belt. **Horse latitudes** are the dry subtropical highs near **30°**.
+20. Rain types to lock are **orographic**, **convectional**, and **cyclonic**. An **isohyet** is a line of equal rainfall.
+21. **Loo** is the hot dry wind of the Indo-Gangetic plains in May–June. **Kal Baisakhi / Nor’westers** are violent pre-monsoon thunderstorms of eastern and north-eastern India in April–May.
+22. **Mango showers** are pre-monsoon rains of Kerala and Karnataka. **Blossom showers** help coffee in Tamil Nadu and Kerala. **Sea breeze** blows by day toward land; **land breeze** blows by night toward sea.
+23. **Anabatic** winds climb slopes by day. **Katabatic** winds drain downslope by night. **Foehn / Chinook** are warm dry lee winds — not the same as cold katabatic drainage.
+24. Tropical cyclones form more often over the **Bay of Bengal** than the Arabian Sea. Sea surface temperature needs about **26–27°C**. The **eye** is calm; the **eyewall** is fiercest. They do **not** form on the equator.
+25. Local cyclone names: **Hurricane** (USA / Atlantic), **Typhoon / Taifu** (NW Pacific / Japan), **Baguio** (Philippines), **Willy-willies** (Australia), and generic **Cyclone** in the North Indian Ocean. Willy-willy is **not** the Australian hot wind **Brickfielder**.
+26. Thornthwaite’s famous line is that **vegetation is the true index of climate**. That lock is **not** Köppen’s letter-code system.
+27. In Uttar Pradesh, May–June **Loo** heat waves hit the plains. Winter rain and fog track **Western Disturbances**, and **western UP is wetter than eastern UP**.
+28. Uttar Pradesh’s south-west monsoon rain often arrives with **Bay of Bengal depressions**. An active spell needs the trough on the plain. Pre-monsoon **lightning** and winter **inversion smog** (west UP / NCR fringe) are key hazards.
+29. Absolute humidity is the **mass of vapour** in air. Relative humidity is the **percentage of saturation**. Relative humidity falls when temperature rises even if vapour mass stays the same.
+30. The north-east monsoon on the Coromandel / Chennai coast is **NE-monsoon dependent**, not a south-west monsoon belt. Do not confuse retreating-monsoon October heat with Western Disturbance winter rain in the north-west.
 
-### Confused pairs
+---
+
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -816,28 +818,6 @@ D. Neither 1 nor 2
 **Ans: A** — Stmt 1 true: warm current off Peru. Stmt 2 false: warm El Niño water weakens upwelling, so plankton and fish **fall**, they do not rise. **C** is the classic trap.
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-### UP Focus
-
-| Theme | UP lock |
-|-------|---------|
-| Hot weather | **Loo** heat waves on the plains (May–June) |
-| Winter rain / fog | **Western Disturbances**; **western UP wetter than eastern UP** |
-| SW monsoon rain | Often **Bay of Bengal depressions**; active spell needs trough on the plain |
-| Köppen | Most of the UP plain = **Cwg** |
-| Hazards | Pre-monsoon **lightning**; winter **inversion smog** (west UP / NCR fringe) |
-
-### Rainfall extremes (once)
-
-| Extreme | Station / belt |
-|---------|----------------|
-| Wettest class | **Mawsynram** / **Cherrapunji** |
-| Driest class | **Jaisalmer** / **Leh** |
-| NE-monsoon dependent | **Chennai** / Coromandel |
 
 ---
 

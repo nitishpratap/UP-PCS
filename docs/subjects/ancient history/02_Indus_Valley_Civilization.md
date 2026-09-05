@@ -15,26 +15,42 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-Charles Masson 1826 noticed Harappa ruins | Cunningham 1875 published a Harappa seal
-Sahni 1921 Harappa | Banerji 1922 Mohenjo-daro | Marshall 1924 announced a civilization
-Early 3300–2600 | Mature 2600–1900 | Late 1900–1300 BCE
-Bronze Age | URBAN (2020 Q21) | bricks 1:2:4 | script unread | no iron | no coins
+1. The Indus Valley Civilization is a **Bronze Age urban** culture. The Mature phase is about **2600–1900 BCE**. Early is roughly **3300–2600 BCE** and Late about **1900–1300 BCE**.
+2. It is also called **Harappan** after the first excavated site. The economy type in match-lists is **Urban**, not pastoral. Pastoral belongs to the Rigvedic age.
+3. **Charles Masson** noticed Harappa ruins in **1826**. **Daya Ram Sahni** excavated Harappa in **1921**. **R.D. Banerji** excavated Mohenjo-daro in **1922**. **John Marshall** announced the civilization in **1924**.
+4. Geographic extremes are **Sutkagen-dor** (west), **Alamgirpur** in Meerut, UP (east), **Manda** on the Chenab in Jammu (north), and **Daimabad** in Maharashtra (south).
+5. Uttar Pradesh Harappan sites are **Alamgirpur** (Meerut), **Hulas** (Baghpat), and **Mandi** (Bijnor). **Rakhigarhi** is in Hisar, **Haryana**, not Uttar Pradesh.
+6. **Alamgirpur** marks the **eastern boundary** of Harappan culture. Do not give that role to Rakhigarhi or Manda.
+7. **Sanauli** in Baghpat, Uttar Pradesh, yielded Late Harappan / OCP **chariot burials** (ASI, 2018). It is not a Mature grid-city with a Great Bath.
+8. The **Great Bath** is at **Mohenjo-daro**. The famous **dockyard** is at **Lothal** (Gujarat), excavated by **S.R. Rao**. Boat evidence is linked with Mohenjo-daro and Lothal.
+9. **Dholavira** in Gujarat is known for water reservoirs, a **three-part** town plan (citadel, middle town, lower town), and a large **signboard**. UNESCO listed it in **2021**.
+10. **Kalibangan** in Rajasthan shows a **ploughed field** and **fire altars**. Its drainage is weaker than Mohenjo-daro’s.
+11. **Chanhudaro** is a craft town famous for **bead-making** and has **no citadel**.
+12. Harappan bricks commonly follow the ratio **1 : 2 : 4**. Cities show a **citadel** (usually west) and a larger **lower town** (east).
+13. The civilization used **bronze** (copper plus tin). There was **no iron** and **no coined money**. The script on seals is still **unread**.
+14. The most common seal animal is the **unicorn**. Weights often follow a binary and decimal pattern with a key unit of **16**.
+15. Cotton is among the **earliest** known Harappan plant fibres. Agriculture included wheat, barley, and pulses; rice appears at some eastern or later contexts.
+16. Match locks for scattered sites include **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, and **Hulas–Uttar Pradesh**.
+17. **Rakhigarhi** in Hisar is the **largest Harappan site in India**. Size does not make it the eastern boundary.
+18. **Surkotada** in Gujarat is often cited for **horse** bone claims. Treat the claim carefully; it is not a pan-Harappan horse culture.
+19. **Banawali** in Haryana shows Early and Mature levels and a plough-mark tradition similar in spirit to Kalibangan.
+20. **OCP** (Ochre Coloured Pottery) of the western UP doab overlaps Late Harappan decline and comes **before PGW**. It is rural ochre-wash pottery, not mature urban Harappan ware.
+21. Copper Hoard objects (harpoons, celts, anthropomorphs) often appear with the doab **OCP** belt. They are not proof of a second Indus capital in Uttar Pradesh.
+22. Foreign trade reached Mesopotamia; Meluhha in Mesopotamian texts is commonly linked with the Indus. Ports and coastal Gujarat matter more than any UP river dock.
+23. Decline around **1900 BCE** is read as climate shift, river drying, and de-urbanisation. Wheeler’s Aryan-massacre story at Mohenjo-daro is **rejected**.
+24. **Mandi** (Bijnor, UP) must not be confused with **Manda** (Jammu, northernmost site).
+25. **Lothal** is the dockyard lock. **Dholavira** is the reservoir-and-signboard lock. Do not swap those identities.
+26. Harappan religion shows mother-goddess figurines, a “Pashupati”-like seal, and sacred animals; there are **no** large free-standing temples of later Hindu type.
+27. **Mortimer Wheeler** improved excavation method at Harappa but did **not** discover the civilization. Discovery credit stays with Sahni, Banerji, and Marshall’s announcement.
+28. **B.B. Lal** excavated **Kalibangan** and later Hastinapur OCP levels. **R.S. Bisht** excavated **Dholavira** and Banawali.
+29. Doab pottery sequence for exams runs **Late Harappan / OCP → PGW → NBPW**. Keep that order for Later Vedic and mahajanapada questions.
+30. Harappan sites in Uttar Pradesh are the **eastern fringe**, smaller and pottery-heavy, not Indus-core megacities like Mohenjo-daro or Harappa.
 
-W Sutkagen-dor | E Alamgirpur UP (2023 Q28) | N Manda J&K | S Daimabad MH
-UP: Alamgirpur (Meerut) Hulas (Baghpat) Mandi (Bijnor) | Sanauli chariots 2018
-Rakhigarhi = Hisar Haryana NOT UP (2025 Q87)
+---
 
-Great Bath = Mohenjo-daro | Dockyard = Lothal | Boats = MD + Lothal (2022 Q68)
-Dholavira = water + 10-sign board + 3 parts | UNESCO 2021
-Kalibangan = ploughed field + fire altars | Chanhudaro = beads, no citadel
-Unicorn = most common seal | weights 16 | cotton earliest
-2020 Q12: Balu-Haryana, Manda-J&K, Padri-Gujarat, Hulas-UP
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -48,6 +64,7 @@ Unicorn = most common seal | weights 16 | cotton earliest
 | Seal | Script | Steatite object vs unread signs on it | मुद्रा / लिपि |
 
 ---
+
 ![img_1.png](img_1.png)
 
 ## 2.1 Indus Valley Civilization

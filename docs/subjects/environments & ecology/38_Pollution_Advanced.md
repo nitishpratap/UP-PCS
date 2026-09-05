@@ -14,32 +14,38 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 26 Must-Score Locks
 
-```
-AIR: Primary = SO₂, PM, CO, NOx | Secondary = O₃, PAN, smog, acid mist
-  Lichens = pollution indicators; do NOT grow well in polluted air (2025 Q61)
-  AQI 0–50 Good … 401–500 Severe | NCAP 2019 = 122 cities | 20–30% PM cut
-  London smog = SO₂+smoke | Photochemical = NOx+VOC+sun → O₃ (2022 Q46)
-  Fly ash = thermal power (2021 Q143) | BS-VI 2020 | SAFAR = IITM forecast
+1. **Primary** air pollutants are emitted directly (SO₂, PM, CO, NOx). **Secondary** pollutants form in air (O₃, PAN, photochemical smog, acid mist).
+2. **Lichens** are pollution indicators and do **not** grow well in badly polluted air.
+3. AQI runs from **Good (0–50)** to **Severe (401–500)** in India’s standard banding.
+4. **NCAP (2019)** targets **122** cities with about a **20–30%** particulate cut goal.
+5. **London smog** is SO₂ plus smoke. **Photochemical smog** needs NOx, VOCs, and sunlight and yields ozone.
+6. **Fly ash** is a classic thermal-power pollutant. **BS-VI** norms began in **2020**.
+7. **SAFAR** is an IITM air-quality and weather forecast system.
+8. **BOD** measures organic pollution through microbial oxygen demand. High BOD means worse water quality.
+9. **COD** is usually greater than or equal to BOD. Clean water often shows DO above about **6 mg/L** and BOD below about **3 mg/L**.
+10. **Eutrophication** is nutrient (N/P) overload → algal bloom → dissolved-oxygen crash.
+11. The **Central Ground Water Board (CGWB)** issues the groundwater quality report. **CPCB** is not CGWB.
+12. Classic arsenic hotspot teaching points to **Bangladesh**. Fluoride and nitrate pockets matter inside India.
+13. Many pesticides are **not** readily biodegradable — a frequent true statement in papers.
+14. Heavy-metal locks include **chromium** around Kanpur plus lead, cadmium, and mercury elsewhere.
+15. Daytime noise standards (dB): Silence **50**, Residential **55**, Commercial **65**, Industrial **75**.
+16. **Moradabad** was flagged among the world’s noisiest cities in UNEP Frontier reporting.
+17. About **80%** of marine pollution comes from land. **MARPOL** governs ship-source pollution.
+18. Plastic Waste Management Rules date from **2016**. The SUP ban push is **2022**. EPR is the producer-responsibility tool.
+19. India ranks among the world’s largest plastic-waste generators (often taught as about **third**).
+20. Indoor air pollution is driven by solid cooking fuels, tobacco smoke, and poor ventilation.
+21. Surface-water pollution includes sewage, industrial effluent, and agricultural runoff into rivers and lakes.
+22. Drinking-water quality in India is commonly referenced to **IS 10500** standards.
+23. Vehicular emissions fall with cleaner fuel standards, inspection, and modal shift — BS-VI is the current lock.
+24. Coastal pollution includes oil, plastics, sewage, and industrial discharge along the shoreline belt.
+25. Do not call photochemical smog a simple SO₂–smoke fog. Ozone chemistry is the key.
+26. SAMEER-type apps publish AQI for public warning; they do not replace NCAP city action plans.
 
-WATER: BOD = aquatic organic pollution assay (2023 Q103)
-  High BOD = worse | COD ≥ BOD | Clean: DO >6, BOD <3
-  Eutrophication = N/P → algae → DO crash
-  CGWB = Groundwater Quality Report (2025 Q70) | CPCB ≠ CGWB
-  Arsenic hotspot classic = Bangladesh | Fluoride/nitrate pockets in India
+---
 
-SOIL: Fertilizer N/P runoff | Pesticides NOT biodegradable (2023 Q120)
-  Heavy metals: Cr (Kanpur), Pb, Cd, Hg
-
-NOISE: Silence 50 | Residential 55 | Commercial 65 | Industrial 75 (day, dB)
-  Moradabad = 2nd noisiest city (UNEP Frontier 2022)
-
-MARINE: ~80% from LAND | MARPOL | Plastic gyres
-PLASTIC: PWM 2016 | SUP ban 2022 | EPR | India 3rd largest generator
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -475,22 +481,6 @@ Teach CPCB industrial day standard as **75 dB** in general notes.
 - **Microplastics** are plastic particles **< 5 mm**.
 
 > **Exam note:** PWM/EPR = management law track; SUP ban = item-specific prohibition track.
-
----
-
-## Consolidated Standards Card
-
-| Domain | Lock |
-|--------|------|
-| AQI Good / Severe | 0–50 / 401–500 |
-| NCAP | 2019; ~122 cities |
-| BOD meaning | Aquatic organic pollution assay |
-| Drinking water code | IS 10500 |
-| Groundwater report | CGWB |
-| Noise day (Silence→Industrial) | 50–55–65–75 dB |
-| Plastic law | PWM 2016; SUP 2022 |
-
-**UP locks:** Kanpur air/water/tanneries | Ghaziabad–Noida AQI | Lucknow Gomti | Moradabad noise | Agra Taj Trapezium
 
 ---
 

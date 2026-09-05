@@ -14,26 +14,36 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-LAYERS (bottom → top): Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere
-  Tropo: weather; temp ↓ with height
-  Strato: OZONE; temp ↑ with height
-  Meso: coldest; meteors burn
-  Thermo: hot, thin; aurora / ISS / ionosphere
-  Exo: merges into space
+1. From bottom to top the layers run **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**.
+2. The **troposphere** holds weather. Temperature **falls** with height in this layer.
+3. The **stratosphere** holds the **ozone layer**. Temperature **rises** with height here.
+4. The **mesosphere** is the **coldest** layer and is where most meteors burn.
+5. The **thermosphere** is very hot but thin. Auroras, the ISS path, and much of the ionosphere sit here.
+6. The **exosphere** is the outermost fringe and merges into space.
+7. Dry air composition is about **N₂ 78%**, **O₂ 21%**, **argon ~0.93%**, and **CO₂ ~0.04%**.
+8. **Nitrogen gas (N₂) is not a greenhouse gas.** **Nitrous oxide (N₂O)** is a greenhouse gas. Do not confuse the two.
+9. **Argon is not a greenhouse gas.** Oxygen and helium are also not greenhouse gases.
+10. Earth’s air is heated mainly by **long-wave terrestrial radiation** from the warmed surface, not by direct shortwave alone.
+11. The Sun sends **shortwave** insolation. The surface emits **longwave** radiation that warms the air.
+12. Maximum ozone concentration is in the **stratosphere**, not the troposphere.
+13. The **homosphere** is well mixed to about **80 km**. Above that the **heterosphere** separates gases by mass.
+14. Tropospheric ozone is a pollutant and greenhouse gas. Stratospheric ozone is the UV shield.
+15. Temperature inversion and weather systems live in the troposphere. Commercial jets often cruise near the tropopause.
+16. Do not place the ozone layer in the troposphere on a match list.
+17. Mesosphere cold and thermosphere hot can both be true because density differs — thin hot air is not the same as surface heat.
+18. Exosphere atoms can escape to space. It is not a weather layer.
+19. Composition percentages are for **dry air**. Water vapour varies strongly by place and season.
+20. Atmospheric studies for climate start from this layer ladder plus greenhouse-gas composition locks.
+21. Ionosphere radio reflection is mainly a thermosphere–upper-atmosphere feature, not a troposphere fact.
+22. Stratospheric heating with height comes largely from ozone absorbing ultraviolet radiation.
+23. Never reverse the order of troposphere and stratosphere in a bottom-to-top ladder.
+24. Long-wave terrestrial radiation is the standard answer for how the lower atmosphere is heated after surface warming.
 
-COMPOSITION (dry air): N₂ 78% | O₂ 21% | Ar ~0.93% | CO₂ ~0.04%
-  N₂ ≠ GHG | N₂O = GHG | Argon ≠ GHG
+---
 
-HEATING: Sun shortwave → heats SURFACE → surface emits LONGWAVE → heats air
-  2022 Q138 = Long-wave terrestrial radiation
-
-OZONE MAX = STRATOSPHERE (NOT troposphere) — 2018 Q52, Q57; 2023 Q52
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -254,19 +264,6 @@ With reference to the ozone layer:
 - Highest satellite orbits relate to this outer region in exam matching.
 
 > **Exam note:** Exosphere = space transition, not the ozone layer.
-
----
-
-## Consolidated Temperature Ladder
-
-| Upward move | Temperature |
-|-------------|-------------|
-| Troposphere | Decreases |
-| Stratosphere | Increases |
-| Mesosphere | Decreases |
-| Thermosphere | Increases |
-
-**UP locks:** Winter inversion smog = lower troposphere process | Himalayan cold with height = lapse rate
 
 ---
 

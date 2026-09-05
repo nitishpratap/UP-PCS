@@ -18,29 +18,28 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 20 Must-Score Locks
 
-```
-UNCLOS: Territorial 12 nm | Contiguous 24 | EEZ 200 | Shelf ≥200 (upto 350)
- Innocent passage = territorial sea | Transit passage = international strait
-NEIGHBOURS land 7: PK, AF (Wakhan/PoK), CN, NP, BT, MM, BD
- Maritime: Sri Lanka, Maldives | Longest land border = Bangladesh | Shortest = Afghanistan
-LINES: McMahon = India–China (1914) | Durand = Pak–Afghan (1893) | Radcliffe = 1947 India–Pak/BD
-COAST: 9 states | longest = Gujarat (2018) | with islands ~7516 km
-SUEZ: Med ↔ Red (2025) | ~7000 km shorter (2018) | lakes N→S Manzala–Timsah–Great–Little Bitter
- Panama = Atlantic–Pacific + locks | Kiel = North Sea–Baltic
-STRAITS: Hormuz = Gulf oil | Malacca = IO–S China | Gibraltar = Med–Atlantic
- Bering = Asia–America | Bosporus = Black Sea–Marmara
-CAPITALS 2019: UZB Tashkent | TJK Dushanbe | KGZ Bishkek | TKM Ashgabat
-LANDLOCKED: Bolivia (2022) among Uruguay/Suriname/Peru | Nepal/Bhutan in S Asia
- Largest landlocked area = Kazakhstan | Most populous = Ethiopia | Lesotho = enclave in SA
-WORLD LINES: 49th = USA–Canada | 38th = Koreas | Maginot = France–Germany (hist) | Oder–Neisse = DE–PL
-KÖPPEN vs THORNTHWAITE: vegetation = true index → **Thornthwaite** (2018 Q25); Köppen = letter-code climate classes
- Med = winter rain (2024 both; belts shift south at NH winter solstice)
- W Europe = rain all months + westerlies (2024 both) = Cfb
-INDIA MAP: 7th largest | 2.4% | Tropic middle | NOT wholly tropical | Tropic ≠ UP
- Cape Verde = Praia NOT Bamako | Equator ≠ Egypt/Mexico | Double landlocked = UZB + Liechtenstein
-```
+1. UNCLOS: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf may extend to **350 nm**, but that does **not** push EEZ water beyond 200.
+2. **Innocent passage** applies in the territorial sea. **Transit passage** applies in international straits.
+3. **McMahon Line** = India–China (1914). **Durand Line** = Pakistan–Afghanistan (1893). **Radcliffe Line** = 1947 India–Pakistan/Bangladesh.
+4. India has **seven** land neighbours (Pakistan, Afghanistan via Wakhan/PoK, China, Nepal, Bhutan, Myanmar, Bangladesh). Maritime neighbours are **Sri Lanka** and the **Maldives**.
+5. Longest Indian **state** coastline = **Gujarat**. Longest land border = **Bangladesh**. Shortest land border = **Afghanistan**. Mainland plus islands coastline ≈ **7516 km**.
+6. The **Suez Canal** joins Med and Red Sea, shortens India–Europe by about **7000 km**, and lakes run Manzala → Timsah → Great Bitter → Little Bitter.
+7. **Panama** = Atlantic–Pacific with locks. **Kiel** = North Sea–Baltic.
+8. Straits: **Hormuz** = Gulf oil; **Malacca** = Indian Ocean–South China Sea; **Gibraltar** = Med–Atlantic; **Bosporus** = Black Sea–Marmara; **Bering** = Russia–USA.
+9. Central Asia capital set: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**.
+10. **Bolivia** is landlocked among common South America traps. **Nobi/Kanto** = Japan. **Igarka** = Russia.
+11. **Thornthwaite** is the true **vegetation** climate index. **Köppen** gives letter-code climate classes. Mediterranean = **winter rain**. Western Europe = rain **all months** plus westerlies (**Cfb**).
+12. India is the **seventh**-largest country, about **2.4%** of world land, with the Tropic of Cancer through the middle — so India is **not** wholly tropical. The Tropic does **not** cross **Uttar Pradesh**.
+13. **Cape Verde** capital = **Praia**. **Bamako** = Mali. Only common double-landlocked states: **Uzbekistan** and **Liechtenstein**.
+14. Uttar Pradesh’s only foreign neighbour is **Nepal**.
+15. Largest landlocked country by area = **Kazakhstan**. Most populous landlocked = **Ethiopia**. **Lesotho** is an enclave inside South Africa.
+16. **49th Parallel** ≈ USA–Canada. **38th Parallel** ≈ Koreas. Maginot is a historic France–Germany line, not an India boundary.
+17. Equator traps: Egypt and Mexico are **not** equatorial countries in the usual MCQ sense.
+18. India’s nine coastal states include Gujarat as the longest; Telangana is not coastal.
+19. Oder–Neisse is the Germany–Poland historic line awareness lock; do not confuse it with McMahon or Durand.
+20. Shelf rights beyond 200 nm (up to 350) are seabed rights — they do not create a wider EEZ water column.
 
 ---
 
@@ -804,31 +803,6 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 **Ans: D**
 
 </details>
-
----
-
-## Consolidated — 20 Must-Score Locks
-
-1. Territorial **12** / contiguous **24** / EEZ **200** nm. Shelf may reach **350**.
-2. McMahon = **India–China**. Durand = Pak–Afghan. Radcliffe = 1947.
-3. Longest Indian **state** coast = **Gujarat**. Longest land border = **Bangladesh**.
-4. Land neighbours = 7. Maritime = Sri Lanka + Maldives.
-5. Suez = Med + Red Sea; ~**7,000 km**; lakes Manzala → Timsah → Great Bitter → Little Bitter.
-6. Panama = Atlantic–Pacific + locks. Kiel = North Sea–Baltic.
-7. Hormuz = Gulf oil. Malacca = IO–S China Sea. Gibraltar = Med–Atlantic. Bosporus = Black Sea. Bering = Russia–USA.
-8. Central Asia 2019 capitals in order Tashkent–Dushanbe–Bishkek–Ashgabat.
-9. Bolivia landlocked. Nobi/Kanto = Japan. Igarka = Russia.
-10. Köppen = vegetation index. Med = winter rain. W Europe = rain all months + westerlies.
-11. India = **7th** largest, **2.4%** area, Tropic through the middle — **not** wholly tropical. Tropic **≠ UP**.
-12. Cape Verde capital = **Praia**. Bamako = Mali. Double landlocked = Uzbekistan, Liechtenstein.
-13. UP’s only foreign neighbour = **Nepal**.
-14. Double landlocked = **Uzbekistan** and **Liechtenstein** only.
-15. Largest landlocked by area = **Kazakhstan**; most populous = **Ethiopia**.
-16. Lesotho = enclave inside South Africa.
-17. 49th Parallel ≈ USA–Canada; 38th Parallel ≈ Koreas; Maginot ≠ India line.
-18. Innocent passage = territorial sea; transit passage = international strait.
-19. Shelf rights may reach **350 nm**; that does **not** extend EEZ water beyond 200.
-20. Skip only PYQ stems — next year can ask any Lucent capital, strait, or line.
 
 ---
 

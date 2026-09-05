@@ -15,56 +15,40 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-EMPERORS: Babur 1526–30 | Humayun 1530–40, 1555–56 | Akbar 1556–1605
-Jahangir 1605–27 | Shah Jahan 1628–58 | Aurangzeb 1658–1707 | Bahadur Shah II 1857
+1. **Babur** founded the Mughal empire after defeating **Ibrahim Lodi** at the **First Battle of Panipat** on **20 April 1526**, using **Tulughma** flanking and **Araba** cart-forts.
+2. At **Khanwa in 1527**, Babur defeated **Rana Sanga**'s Rajput confederacy; **Chanderi 1528** and **Ghagra 1529** followed against Medini Rai and eastern Afghans.
+3. **Baburnama** (Tuzk-e-Babri) was written in **Chagatai Turki**, not Persian; the Mughal **court language** was **Persian**.
+4. Tomb lock: **Babur–Kabul**, **Humayun–Delhi**, **Jahangir–Lahore**, and **Shah Jahan–Agra**.
+5. Humayun lost **Chausa in 1539** and **Kannauj/Bilgram in 1540** to Sher Shah, returned in **1555**, and died in **1556**.
+6. **Daurah (1532)** was Humayun versus Afghan chiefs; do not confuse it with **Dharmat (April 1658)**, Aurangzeb versus Jaswant Singh.
+7. Battle chronology lock: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
+8. At the **Second Battle of Panipat on 5 November 1556**, Akbar and **Bairam Khan** defeated **Hemu** and secured the throne.
+9. **Bairam Khan** received the title **Khan-i-Khana** from **Humayun**, not from Akbar.
+10. Akbar's **mansabdari** used dual ranks **zat** and **sawar**; the system was **not hereditary**.
+11. **Todar Mal**'s **zabt** measured land for a cash demand; **dahsala (1580–81)** used a **10-year average** of yield and price.
+12. Akbar continued Sher Shah's coinage: silver **rupiya**, copper **dam** (about **1/40** of a rupiya), and gold **mohur**.
+13. **Buland Darwaza** at Fatehpur Sikri commemorates the **Gujarat victory of 1572**, not Jahangir's birth.
+14. Akbar made **Fatehpur Sikri** capital about **1571–85** and built **Allahabad/Ilahabad fort in 1583**.
+15. **Sulh-i-Kul** was Akbar's universal peace policy; **Din-i-Ilahi (1582)** remained only a small court circle.
+16. Akbar abolished **jizya in 1564**; Aurangzeb **reimposed** it in **1679**.
+17. Court death order: **Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl murdered 1602 → Daniyal 1604**.
+18. **Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari*; **Abdur Rahim Khan-i-Khana** translated Baburnama into Persian.
+19. **William Hawkins** reached Jahangir in **1608** speaking Turkish; **Sir Thomas Roe** stayed at court **1615–19**.
+20. Shah Jahan's **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**.
+21. **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**.
+22. Aurangzeb succession order: **Shuja beaten near Banaras → Dharmat April 1658 → Samugarh May 1658 → Deorai 1659**.
+23. Aurangzeb annexed **Bijapur in 1686** and **Golkonda in 1687**; the last Qutb Shah was **Abul Hasan Qutb Shah**.
+24. **Jajau in 1707** came after Aurangzeb's death, when Bahadur Shah I defeated Azam Shah.
+25. Akbar organised about **12 subahs**; under Aurangzeb the empire reached about **21 subahs**.
+26. **Hamida Banu** was Humayun's wife; **Gulbadan** wrote *Humayunnama*.
+27. **Dara Shikoh** wrote *Majma-ul-Bahrain* and *Sirr-i-Akbar*; Aurangzeb had him killed in **1659**.
+28. Later chronology: **Nadir Shah sacked Delhi in 1739**; the last Mughal was **Bahadur Shah II** during **1857**.
 
-BABUR: Panipat I 20 Apr 1526 vs Ibrahim Lodi | Tulughma + Araba
-Khanwa 1527 (Rana Sanga) | Chanderi 1528 | Ghagra 1529
-Baburnama = Chagatai Turki (NOT court Persian — 2025 Q3 = C)
-Tomb = Kabul
+---
 
-HUMAYUN: Daurah 1532 vs Afghans | Chausa 1539 | Kannauj/Bilgram 1540
-Sher Shah interlude 1540–55 | Return 1555 | dies 1556
-Hamida Banu = wife | Gulbadan = daughter, Humayunnama
-Tomb = Delhi (2025 Q57)
-
-BATTLES (★★★)
-2025 Q79: Daurah(2) 1532 → Chausa(4) 1539 → Kannauj(1) 1540 → Samugarh(3) 1658 = D (2-4-1-3)
-TRAP: Daurah ≠ Dharmat. Daurah is Humayun 1532; Dharmat is Aurangzeb Apr 1658.
-2019 Q13: Bilgram 1540 → Sarnal 1572 → Dharmat 1658 → Jajau 1707 = A (II-I-III-IV)
-2022 Q103: Shuja beaten Banaras → Dharmat → Samugarh → Deorai = A (2-4-3-1)
-Panipat II 5 Nov 1556 Akbar/Bairam vs Hemu
-
-TOMBS (2025 Q57 = A 4-3-2-1)
-Babur–Kabul(4) | Humayun–Delhi(3) | Jahangir–Lahore(2) | Shah Jahan–Agra(1)
-
-AKBAR
-Bairam Khan regent | Khan-i-Khana from HUMAYUN not Akbar (2024 Q4 = D)
-Todar Mal: zabt + dahsala 1580–81 | Mansabdari NOT hereditary (2019 Q92 = A)
-Dagh + chehra | du-aspah sih-aspah (Jahangir) | 12 subahs (Akbar) / ~21 (Aurangzeb)
-2021 Q126: originally a Military State — A true, R explains A → A
-Sulh-i-Kul | Din-i-Ilahi 1582 (small circle) | Jizya abolished 1564 | Ilahi calendar 1584
-Fatehpur Sikri 1571–85 | Buland Darwaza = Gujarat 1572 NOT Jahangir birth (2025 Q49 = C)
-Dam copper like Sher Shah (2019 Q12 = A) | Hamzanama atelier | Allahabad fort 1583
-
-COURT: Abul Fazl Akbarnama+Ain | Faizi poet | Birbal | Man Singh Amber | Rahim = Bairam's son
-2024 Q132: Faizi 1595 → Mubarak 1597 → Abul Fazl murdered 1602 → Daniyal 1604 = B (3-2-1-4)
-
-JAHANGIR–SHAH JAHAN
-Hawkins 1608 (Turkish) | Roe 1615 | Nur Jahan | Tuzuk-i-Jahangiri (Persian)
-Taj Mahal | Nahr-i-Bihisht from Firuz Rajabwah (2020 Q42 = C)
-Kavindra Acharya Banaras = Shah Jahan (2022 Q146 = A)
-
-AURANGZEB
-Dharmat Apr 1658 → Samugarh May 1658 → Deorai 1659
-Bijapur 1686 | Golkonda 1687 Abul Hasan Qutb Shah (2020 Q34)
-Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -508,32 +492,6 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 **Families:** Hamida Banu was Humayun’s wife. Gulbadan was Babur’s daughter. Nur Jahan married Jahangir. Mumtaz married Shah Jahan. Jahanara and Roshanara were Shah Jahan’s daughters. Dara, Shuja, Aurangzeb, and Murad were Shah Jahan’s sons.
 
 **Later Mughals:** **Bahadur Shah I** won **Jajau in 1707**. He was followed by Farrukhsiyar and the **Sayyid Brothers** as kingmakers (**1713–20**). **Muhammad Shah Rangeela** patronised Tappa music (Topic 6). **Nadir Shah sacked Delhi in 1739**. **Bahadur Shah II Zafar** was the last Mughal during **1857**.
-
----
-
-## Consolidated Reference
-
-### Emperor spine
-
-| Emperor | Years | One lock |
-|---------|-------|----------|
-| Babur | 1526–30 | Panipat I; Turki memoir; Kabul tomb |
-| Humayun | 1530–40 / 55–56 | Chausa–Kannauj loss; Delhi tomb |
-| Akbar | 1556–1605 | Mansab, zabt, Sikri, Sulh-i-Kul |
-| Jahangir | 1605–27 | Nur Jahan; Hawkins/Roe; Lahore tomb |
-| Shah Jahan | 1628–58 | Taj; Nahr-i-Bihisht; Kavindra |
-| Aurangzeb | 1658–1707 | Samugarh; Golkonda 1687; jizya 1679 |
-
-### UP Focus
-
-| Element | Why UPPCS cares |
-|---------|-----------------|
-| **Fatehpur Sikri** (Agra dist.) | Akbar capital 1571–85; Buland Darwaza 2025 Q49 |
-| **Agra** | Babur death; Taj; Shah Jahan prison; Chain of Justice |
-| **Allahabad / Ilahabad fort 1583** | Akbar suba HQ |
-| **Kannauj / Bilgram 1540** | Humayun’s decisive loss |
-| **Banaras** | Kavindra Acharya (Shah Jahan); Shuja 1658; 1669 temple episode |
-| **Doab** | Zabt/dahsala heartland |
 
 ---
 

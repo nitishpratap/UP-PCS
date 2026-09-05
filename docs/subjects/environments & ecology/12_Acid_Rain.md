@@ -14,41 +14,36 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-ACID RAIN = precipitation/deposition with pH < 5.6
-Normal rain pH ≈ 5.6 (CO₂ → weak H₂CO₃) — NOT pH 7
+1. **Acid rain** means wet or dry acidic deposition with pH below **5.6**.
+2. Normal unpolluted rain is already about **pH 5.6** because dissolved CO₂ forms weak carbonic acid — it is **not** pH 7.
+3. **Wet deposition** is acids in rain, snow, or fog. **Dry deposition** is acidic gases and particles settling without rain.
+4. **SO₂** oxidises to **H₂SO₄** (sulphuric acid), mainly from coal TPPs, smelters, and refineries.
+5. **NOx** oxidises to **HNO₃** (nitric acid), mainly from vehicles and high-temperature combustion.
+6. CO₂ forms only weak H₂CO₃ and sets the **5.6 baseline**; it is **not** the main culprit of severe acid rain.
+7. On the pH scale, acidic is **<7**, basic is **>7**, neutral is **7**. Each step down multiplies H⁺ by **10**.
+8. Freshwater below about **pH 5** stresses fish and can release toxic **Al³⁺**.
+9. Acid deposition leaches soil **Ca²⁺ and Mg²⁺** and can free toxic aluminium.
+10. Conifers are especially sensitive forest receptors. Marble and limestone monuments form a **gypsum crust** (CaSO₄) under sulphuric attack — the Taj story.
+11. **Lichens** die in high SO₂ and act as pollution bio-indicators.
+12. Prevention tools include **FGD scrubbers** (lime/limestone), catalytic converters, low-sulphur coal, CNG/LPG switches, and **BS-VI** fuel (about **10 ppm** sulphur).
+13. The **Gothenburg Protocol (1999)** under **CLRTAP (1979)** cuts transboundary acidifying emissions.
+14. Treaty trap: Gothenburg/CLRTAP = acidifying air pollution; Montreal = ozone; Kyoto = climate GHGs.
+15. The **Taj Trapezium Zone** is about **10,400 km²** around the Taj Mahal, strengthened by Supreme Court orders from **1996**.
+16. **Mathura refinery** is a classic SO₂ source in the Taj Trapezium narrative.
+17. The **Singrauli–Sonbhadra** coal TPP belt is a major UP–MP SO₂ source region.
+18. UP NCAP cities linked to acidifying/urban air pressure include Kanpur, Ghaziabad, Lucknow, and Noida.
+19. SO₂ is denser than air — a physical property sometimes used in distractors.
+20. Acid rain is **not** “rain only”; dry deposition counts too.
+21. Secondary pollutants H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx.
+22. FGD is flue-gas desulphurisation at power-plant chimneys — a mitigation hardware lock, not a treaty name.
+23. Calling CO₂ the chief severe acid-rain driver is wrong; SO₂ and NOx are the exam pair.
+24. Montreal Protocol does **not** control acid rain. Keep ozone chemistry out of acid-rain treaty options.
 
-WET deposition = acids in rain, snow, fog
-DRY deposition = SO₂/NO₂ and particles settle without rain
+---
 
-CHEMISTRY (secondary pollutants):
-  SO₂ → H₂SO₄ (sulphuric acid) | coal TPPs, smelters, refineries
-  NOx → HNO₃ (nitric acid) | vehicles, high-temp combustion
-  CO₂ → H₂CO₃ only — weak; baseline pH 5.6, NOT main acid-rain culprit
-
-pH: Acidic < 7 | Basic > 7 | Neutral = 7
-Each pH step down = 10× more H⁺
-
-EFFECTS:
-  Water pH < 5 → fish kills, Al³⁺ toxicity
-  Soil → leaches Ca²⁺, Mg²⁺; releases toxic Al³⁺
-  Forests → conifers most sensitive
-  Monuments → marble + acid → gypsum crust (Taj Mahal)
-  Lichens die in high SO₂ — pollution bio-indicator
-
-PREVENTION:
-  FGD scrubbers (lime/limestone) | catalytic converters | low-sulphur coal
-  CNG/LPG switch | BS-VI (10 ppm sulphur fuel)
-  Gothenburg Protocol 1999 under CLRTAP | Taj Trapezium controls
-
-TRAPS:
-  CO₂ alone ≠ severe acid rain | Montreal = ozone, NOT acid rain
-  SO₂ HEAVIER than air | Acid rain ≠ rain only (includes dry deposition)
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -247,39 +242,6 @@ D. Only 1
 | CNG/LPG switch | Near-zero SO₂ |
 | Gothenburg Protocol | Transboundary SO₂/NOx |
 | Taj Trapezium | Heritage protection near Agra |
-
----
-
-## Consolidated Reference — Once Only
-
-### Chemistry chain
-
-| Step | Result |
-|------|--------|
-| Coal burning | SO₂ released |
-| SO₂ + O₂ + H₂O | H₂SO₄ |
-| High-temp combustion | NOx |
-| NOx + O₂ + H₂O | HNO₃ |
-| CO₂ + H₂O | H₂CO₃ (weak, pH ~5.6) |
-| CaCO₃ + H₂SO₄ | CaSO₄ gypsum crust |
-
-### Treaty trap table
-
-| Treaty | Purpose |
-|--------|---------|
-| Gothenburg Protocol | **Acid rain / transboundary air pollution** |
-| CLRTAP (1979) | Parent framework for Gothenburg |
-| Montreal Protocol | **Ozone / ODS** — not acid rain |
-| Kyoto Protocol | **Climate / GHGs** |
-
-### UP focus
-
-| Item | Detail |
-|------|--------|
-| Taj Trapezium | ~10,400 km²; SC order 1996 |
-| Mathura refinery | Major SO₂ source near Taj |
-| Singrauli–Sonbhadra | UP–MP coal TPP SO₂ belt |
-| NCAP cities | Kanpur, Ghaziabad, Lucknow, Noida |
 
 ---
 

@@ -14,37 +14,36 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-O₃ = triatomic oxygen | "Good" in STRATOSPHERE (15–35 km) | "Bad" at ground level (pollutant)
-Chapman cycle = natural O₃ formation/destruction balance
-UV: UVA reaches surface | UVB mostly blocked by O₃ | UVC fully blocked
+1. Ozone (O₃) is triatomic oxygen. **Stratospheric ozone** (about **15–35 km**) is protective “good” ozone. **Tropospheric ozone** is a ground-level pollutant.
+2. The **Chapman cycle** describes natural formation and destruction balance of stratospheric ozone.
+3. **UVA** reaches the surface; **UVB** is mostly blocked by ozone; **UVC** is fully blocked.
+4. Ozone-depleting substances release chlorine and bromine radicals that catalytically destroy ozone. One chlorine atom can destroy on the order of **100,000** ozone molecules.
+5. Main ODS include **CFCs, halons, carbon tetrachloride, methyl bromide, and transitional HCFCs**.
+6. An **ozone hole** is not a physical hole. It means column ozone below **220 Dobson Units**.
+7. The Antarctic ozone hole peaks in Southern Hemisphere spring (**September–October**) under a polar vortex with polar stratospheric clouds.
+8. The Antarctic ozone hole was discovered in **1985** (Farman / British Antarctic Survey).
+9. Treaty chain: **Vienna Convention 1985 → Montreal Protocol 1987 → Kigali Amendment 2016**.
+10. Montreal is the binding ODS phase-out treaty. International Ozone Day is **16 September**.
+11. **Kigali (2016)** phases down **HFCs**. HFCs are not classic ODS, but they have high global-warming potential.
+12. Montreal achieved near-universal ratification and cut ODS emissions by about **99%** from peak levels.
+13. Treaty trap: **Montreal = ozone**; **Kyoto/Paris = climate**. Never swap the issue tags.
+14. Global average ozone column is often near about **300 DU**; the hole threshold is **<220 DU**.
+15. India ratified Montreal in **1992**. The nodal unit is the **Ozone Cell, MoEFCC**.
+16. India CFC phase-out lock is **2010**. HCFC freeze is **2020**; complete HCFC phase-out aims at **2030**.
+17. India’s Kigali HFC phase-down commitment begins from **2028** in standard coaching locks.
+18. Stratospheric ozone protects life; tropospheric ozone harms lungs and crops — same molecule, opposite exam verdict by layer.
+19. Vienna is the framework convention; Montreal is the binding control protocol — parallel to UNFCCC/Kyoto structure, but for ozone.
+20. Dobson Unit measures total ozone column, not ground-level ppm of pollution ozone.
+21. Polar stratospheric clouds enable chlorine activation — that is why the deep hole is polar-spring specific.
+22. HCFCs were transitional substitutes on the way out of CFCs; they are still ODS, just weaker/longer phase-out.
+23. Kigali sits under the Montreal family, not under UNFCCC as a climate protocol.
+24. Ozone Day is **16 September**; do not confuse it with World Environment Day (**5 June**) or Wildlife Day (**3 March**).
 
-OZONE DEPLETION:
-  CFCs/ODS release Cl· and Br· → catalytic O₃ destruction
-  1 Cl atom can destroy ~100,000 O₃ molecules
-  Main ODS: CFCs, halons, CCl₄, methyl bromide, HCFCs (transitional)
+---
 
-OZONE HOLE:
-  NOT a physical hole | Column ozone < 220 Dobson Units (DU)
-  Mainly ANTARCTIC spring (Sep–Oct Southern Hemisphere)
-  Polar vortex + Polar Stratospheric Clouds (PSCs) enable chlorine activation
-  Discovered 1985 (Farman, British Antarctic Survey)
-
-TREATIES:
-  Vienna Convention 1985 = framework
-  Montreal Protocol 1987 = binding ODS phase-out | Ozone Day = 16 September
-  Kigali Amendment 2016 = HFC phase-down (not ODS, but high GWP)
-  Universal ratification | ODS emissions down ~99% since peak
-
-TRAPS:
-  Montreal = OZONE | Kyoto = CLIMATE
-  Stratospheric O₃ = protective | Tropospheric O₃ = pollutant
-  Global avg ozone ~300 DU | Hole threshold < 220 DU
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -195,40 +194,6 @@ D. CITES
 | Montreal Protocol | 1987 | Binding ODS phase-out |
 | London Amendment | 1990 | Multilateral Fund |
 | Kigali Amendment | 2016 | HFC phase-down |
-
----
-
-## Consolidated Reference — Once Only
-
-### India & Montreal
-
-| Item | Detail |
-|------|--------|
-| Ratification | 1992 |
-| Nodal body | Ozone Cell, MoEFCC |
-| CFC phase-out | 2010 |
-| HCFC freeze | 2020 |
-| HCFC complete phase-out | 2030 |
-| Kigali HFC phase-down | From 2028 |
-
-### Important dates
-
-| Date | Event |
-|------|-------|
-| 16 September | International Ozone Day |
-| 1985 | Vienna Convention; Antarctic hole discovered |
-| 1987 | Montreal Protocol |
-| 2010 | India CFC phase-out |
-| 2016 | Kigali Amendment |
-
-### Treaty trap table
-
-| Treaty | Purpose |
-|--------|---------|
-| Montreal Protocol | **Ozone / ODS** |
-| Kyoto Protocol | **Climate / GHGs** |
-| Paris Agreement | **Climate NDCs** |
-| Ramsar | Wetlands |
 
 ---
 

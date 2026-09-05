@@ -14,43 +14,36 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-GLOBAL ENV GEOGRAPHY = Where + why Earth's environmental systems occur
-  Climate (temp + rain) → biomes → biodiversity / degradation patterns
+1. Global environmental geography asks **where and why** Earth’s climate–biome patterns occur. Climate (temperature and rainfall) shapes biomes, biodiversity, and degradation belts.
+2. Major biomes to ratta: tropical rainforest (Amazon **Selva**), tropical deciduous (Indian monsoon forests), desert (**<25 cm** rain), savanna (scattered trees with wet–dry seasons), temperate grassland (**Prairie, Steppe, Pampas, Puszta**), taiga/boreal, tundra, Mediterranean chaparral, and coastal mangrove as a transitional belt.
+3. **Köppen** letters: **A** tropical, **B** arid, **C** temperate, **D** cold, **E** polar. India is largely monsoon (**Am** type language); Thar is hot desert (**BWh**); Gobi is cold desert (**BWk**).
+4. **Sahara** is the largest hot desert. **Atacama** is among the driest. **Gobi** spans **Mongolia and China**.
+5. Australia’s interior desert is explained mainly by **subtropical high pressure and continentality** — not by calling northern Australia “temperate.”
+6. Brazil locks: **Selva** = Amazon equatorial rainforest name; **Terra Roxa** = fertile dark volcanic soil. Both can be true together in match stems.
+7. Floral matching classics: Planting Hearth → **C.O. Sauer**; World Floral Regions → **Adolf Engler**; Cryophyte Steppe → Arctic tundra setting; **Puszta** → **Hungary**.
+8. Tribe–region locks: Bushman–Kalahari; Eskimo–northern Canada; Pygmy–Congo. **Masai are East Africa**, not West Africa.
+9. **Permafrost** appears in **taiga and tundra**. It is **not** a savanna feature.
+10. Global biome counts (often **14** in textbook lists) are **not** the same as India’s **ten** biogeographic zones (Rodgers and Panwar).
+11. Biome is a large climate-defined vegetation–fauna region. Ecosystem is a local biotic–abiotic functional unit. Do not treat them as identical scales.
+12. Temperate grassland names: Pampas (Argentina), Prairie (North America), Steppe (Eurasia), Puszta (Hungary).
+13. Taiga is boreal conifer forest; tundra is moss–lichen cold treeless belt. Savanna is tropical grassland with trees.
+14. Mangrove is coastal transitional vegetation — not a purely inland terrestrial biome.
+15. Hotspot (Myers) means high endemism plus severe habitat loss (often taught as **≥70%** loss). It is not merely “any rich forest.”
+16. Gobi is cold desert Asia — not Sahara Africa and not Atacama Chile.
+17. Selva ≠ Terra Roxa. Forest name versus soil name.
+18. Masai wrong-option trap is West Africa; correct region is East Africa.
+19. India’s monsoon deciduous belt is not Amazon Selva.
+20. Permafrost continuous cover is strongest in tundra; taiga may show patches — still not savanna.
+21. Mediterranean biome is winter-rain shrubland (chaparral type), distinct from monsoon India.
+22. Desert rainfall lock **<25 cm** is the quick arid filter in many MCQs.
+23. Engler floral regions and Sauer planting hearth are cultural–biogeography match locks, not climate-classification letters.
+24. Keep “14 biomes vs 10 Indian biogeographic zones” as a numbers trap pair.
 
-MAJOR BIOMES (exam set):
-  Tropical rainforest (Amazon Selva) | Tropical deciduous (India monsoon)
-  Desert (<25 cm rain) | Savanna (scattered trees + wet-dry)
-  Temperate grassland (Prairie, Steppe, Pampas, Puszta)
-  Taiga/boreal (conifers; permafrost patches) | Tundra (moss/lichen; continuous permafrost)
-  Mediterranean (chaparral) | Mangrove = coastal transitional (NOT purely terrestrial)
+---
 
-KÖPPEN: A Tropical | B Arid | C Temperate | D Cold | E Polar
-  India mainly Am (monsoon) | Thar BWh | Gobi BWk (cold desert)
-
-DESERT LOCKS:
-  Sahara = largest hot desert | Atacama = driest
-  Gobi = Mongolia + China (2025 Q27)
-  Australia interior desert = subtropical high + continentality
-    NOT because northern Australia is temperate (2025 Q1)
-
-BRAZIL (2025 Q63): Selva = Amazon rainforest | Terra Roxa = fertile dark soil → BOTH TRUE
-
-FLORAL / MATCHING (2024 Q29):
-  Planting Hearth → C.O. Sauer | World Floral Regions → Adolf Engler
-  Cryophyte Steppe → Arctic Tundra | Puszta → Hungary
-
-TRIBES (2025 Q23):
-  Bushman–Kalahari | Eskimo–N Canada | Pygmy–Congo = correct
-  Masai–West Africa = WRONG (Masai = East Africa)
-
-PERMAFROST: Taiga + Tundra | NOT Savannah
-14 global biomes ≠ 10 Indian biogeographic zones (Rodgers & Panwar)
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -263,21 +256,6 @@ Options: A. 3 4 2 1  B. 2 1 4 3  C. 3 4 1 2  D. 2 3 4 1
 
 ---
 
-## Consolidated Reference
-
-| Theme | Lock |
-|-------|------|
-| Australia interior desert | Subtropical high + continentality |
-| Gobi | Mongolia + China |
-| Brazil rainforest | Selva |
-| Brazil fertile soil | Terra Roxa |
-| Masai | East Africa |
-| Puszta | Hungary |
-| Pampas | Argentina |
-| Permafrost | Taiga + Tundra |
-| India biomes vs zones | 14 biomes global / **10** Indian biogeographic zones |
-
----
 
 ## Practice Zone
 

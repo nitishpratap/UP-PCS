@@ -15,38 +15,36 @@ Endogenic / Exogenic Processes | Rocks — Igneous, Sedimentary, Metamorphic | R
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-PROCESS: Endogenic = internal (fold, fault, volcano, uplift) | Exogenic = external agents
- Cycle of erosion (Davis) = structure–process–time | Gradation = degradation + aggradation
-ROCKS: Igneous = primary (granite intrusive / basalt extrusive)
- Bodies: batholith / laccolith / lopolith / phacolith / sill (// beds) / dyke (cuts beds)
- Sed: clastic (cong/breccia/sst/shale) | chemical (lst, gypsum, rock salt) | organic (coal) — fossils
- Meta: limestone→marble | sandstone→quartzite | granite→gneiss | shale→slate/schist
- Foliated = slate–schist–gneiss | Non-foliated = marble, quartzite
- Cycle: magma ⇄ igneous → sed → meta → melt | Deccan depths/fossils
-WEATHERING: in situ | Physical = frost, exfoliation, block, granular, thermal | Chemical = carbonation, oxidation, hydrolysis, hydration
-EROSION = pickup + carry | Deposition = drop | Denudation = weathering + erosion
- Load: traction · saltation · suspension · solution
-AGENTS: River | Wind | Glacier | Sea | Groundwater (karst) | Gravity (mass wasting)
-FLUVIAL Davis: Youth V-gorge/waterfall/pothole | Mature meander/floodplain/levee | Old ox-bow/delta/peneplain
- Concave bank erodes · convex = point bar | Yazoo = deferred behind levee
- Rejuvenation → knickpoint, terrace, incised meander | Fan / bajada at hill-foot
- Capture: pirate + beheaded + wind gap + elbow
- Streams: consequent / subsequent / obsequent / resequent | Antecedent vs superimposed
-DELTA: Arcuate = Nile, Ganga–Brahmaputra (NOT bird’s-foot) | Bird’s-foot = Mississippi (2018)
- Cuspate = Tiber | Moribund lobe = Cauvery (2019) | East India deltas / west estuaries
-DRAINAGE PATTERN: Folded beds → TRELLIS (2024) | Homogeneous → dendritic | Dome → radial | Joints/faults → rectangular
- Fault-valley exam tag = DAMODAR (2019 Q9) not Chambal | also Narmada–Tapi rift
-BASIN: Imphal = LACUSTRINE (2019) not loess/glacial | Kashmir vale = lacustrine/structural
- Structure: cuesta / hogback / mesa / butte | Davis peneplain vs King pediplain | leftover = monadnock
-GLACIER: Cirque, arête, horn, U-valley, hanging valley, fjord, tarn
- Moraine, drumlin, esker, kame, outwash, erratic | Alpine vs continental
-AEOLIAN: Barchan horns = downwind | Seif = longitudinal | Yardang/zeugen/mushroom | Loess = wind silt (China, not Imphal)
-COAST: Cliff–platform–stack | Spit, bar, tombolo, lagoon | Coral: fringing, barrier, atoll
- Karst: doline, cave, stalactite (roof) / stalagmite (floor)
-```
+1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
+2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays exam-useful.
+3. **Igneous** rocks are primary: **granite** is intrusive (acidic awareness); **basalt** is extrusive (basic). Fossils belong to **sedimentary** rocks.
+4. Igneous bodies: batholith, laccolith, lopolith, phacolith; a **sill** is parallel to beds; a **dyke** cuts across beds.
+5. Metamorphic pairs: **limestone → marble**, **sandstone → quartzite**, **granite → gneiss**, **shale → slate / schist**. Foliated rocks include slate–schist–gneiss; marble and quartzite are non-foliated.
+6. **Weathering** breaks rock **in situ**. **Erosion** picks up and carries material. **Denudation** is weathering plus erosion. Chemical routes include carbonation, oxidation, hydrolysis and hydration.
+7. River load moves by traction, saltation, suspension and solution. Agents of erosion are river, wind, glacier, sea, groundwater (karst) and gravity (mass wasting).
+8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
+9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial fans**; coalescing fans form a **bajada**.
+10. Stream genetic types include consequent, subsequent, obsequent and resequent. **Antecedent** streams cut rising land; **superimposed** streams inherit a course from a cover; subsequent streams follow structure.
+11. **Bird’s-foot** delta = **Mississippi**. **Arcuate** deltas = **Nile** and **Ganga–Brahmaputra**. **Cuspate** cue = Tiber. **Moribund** delta lobe = **Cauvery**. Eastern India mouths favour deltas; western mouths often form **estuaries** (Narmada / Tapi).
+12. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic**; dome → **radial**; joints / faults → **rectangular**.
+13. The classic fault-valley river tag is the **Damodar**, not the Chambal. **Narmada–Tapi** are rift / fault-line cues as well.
+14. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural cues. **Loess** is wind-laid silt (China belt), not Imphal.
+15. Structure landforms include cuesta, hogback, mesa and butte. A **mesa** is broader than a **butte**. Davis’s humid old-age plain is a **peneplain** with leftover **monadnocks**; King’s arid form is a **pediplain**.
+16. Glacial erosional forms: cirque, arête, horn, **U-valley**, hanging valley, fjord, tarn. Depositional forms: moraine, drumlin, esker, kame, outwash, erratic.
+17. A **fjord** is a drowned glacial trough. A **ria** is a drowned river valley. Do not treat them as the same estuary type.
+18. Aeolian locks: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
+19. Coastal deposition builds **spit, bar, tombolo and lagoon** with longshore drift. Coral reefs include fringing, barrier and atoll types.
+20. Karst needs **limestone plus carbonation**. **Stalactite** hangs from the **ceiling**; **stalagmite** grows from the **floor**. Forms include doline, cave, uvala and polje.
+21. River capture vocabulary includes pirate stream, beheaded stream, wind gap and elbow of capture.
+22. East Indian rivers typically build **deltas**; west-flowing Narmada and Tapi typically form **estuaries** into the Arabian Sea.
+23. Conglomerate has rounded pebbles; breccia has angular fragments. Organic sedimentary rock cue includes coal.
+24. Intertrappean beds between Deccan lava flows hold **land and freshwater** fossils, not marine plant–animal assemblages.
+25. Himadri is fossil-poor crystalline rock; Lesser Himalaya carries marine fossils; Shiwalik holds human remains — keep the three belts distinct when landform stems mix fossils.
+26. A gorge is a steep mountain cut; a canyon is often the arid stair-step equivalent. U-valley = glacier; V-valley = youthful river.
+27. Mekong source awareness is Tibet; its delta is in **Vietnam**, not Cambodia.
+28. The rock cycle links magma ⇄ igneous → sedimentary → metamorphic → melt, so the same material can reappear as a different rock type after burial, melting or recrystallisation.
 
 ---
 
@@ -81,8 +79,6 @@ COAST: Cliff–platform–stack | Spit, bar, tombolo, lagoon | Coral: fringing, 
 | Gorge vs canyon | Steep mountain cut vs **arid stair-step** | Always identical | गॉर्ज / कैनियन |
 | Endogenic vs exogenic | Interior build vs surface wear | Same | अंतर्जात / बहिर्जात |
 | Weathering vs denudation | In situ breakdown vs weathering+erosion | Same | अपक्षय ≠ अनाच्छादन |
-
----
 
 ---
 
@@ -515,8 +511,6 @@ D. Only ice sheets
 - **Drumlin** is an elongated mound of till shaped by moving ice.
 - **Esker** is a sinuous ridge of outwash deposited by meltwater under or within ice.
 
-
-
 A glacier is a mass of ice that moves under its own weight. Exams lock **U-valley vs V-valley**, **fjord vs ria**, and depositional till forms.
 
 | Type | Lock |
@@ -606,42 +600,10 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 - **Stalactite** hangs from the **roof**; **stalagmite** grows from the **floor**; a pillar forms when they meet.
 - Classic world belt: Dinaric Karst. India cues: **Meghalaya** caves, Borra (AP), Belum (AP).
 
----
-
-## Consolidated — 24 Must-Score Locks
-
-1. Endogenic builds relief; exogenic wears and deposits; gradation = degradation + aggradation.
-2. Granite intrusive; basalt extrusive; fossils = sedimentary.
-3. Limestone→marble; sandstone→quartzite; granite→gneiss; shale→slate.
-4. Weathering = in situ; erosion = transport; carbonation → limestone karst.
-5. Youth V/waterfall; mature meander/levee; old ox-bow/delta; rejuvenation → knickpoint/terrace/incised meander.
-6. Bird’s-foot = **Mississippi**; arcuate = Nile/Ganga; moribund = **Cauvery**.
-7. Folded structure → **trellis**; homogeneous rock → dendritic.
-8. Imphal basin = **lacustrine**; loess = wind silt (**China**), not Imphal.
-9. Fault-valley exam tag = **Damodar**, not Chambal; also Narmada–Tapi rifts.
-10. Glacier: cirque, U-valley, hanging valley, fjord, moraine, drumlin, esker.
-11. Barchan horns **downwind**; parabolic horns **upwind**.
-12. Stalactite ceiling; stalagmite floor; karst needs limestone + carbonation.
-13. Spit / bar / tombolo / lagoon = coastal deposition; longshore drift builds spits.
-14. East India **delta**; west **estuary** (Narmada/Tapi).
-15. Mekong source Tibet; delta **Vietnam**, not Cambodia.
-16. Himadri fossil-poor; Lesser marine fossils; Shiwalik remains.
-17. Alluvial fan = mountain-foot dump; coalescing fans = bajada.
-18. Fjord = drowned glacial trough; ria = drowned river valley.
-19. Sill // beds; dyke **cuts** beds; batholith = huge granite body.
-20. Concave cuts; convex = point bar; yazoo deferred behind levee.
-21. Antecedent cuts rising land; superimposed inherited; subsequent follows structure.
-22. Davis peneplain + monadnock; King pediplain (arid/savanna).
-23. Cuesta = gentle dip + scarp; mesa broader than butte.
-24. Intertrappean Deccan beds = **freshwater**, not marine fossils.
-
----
-
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.  
 > **Format mix:** 70 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard process angles)
-
 
 **Q1.** Drainage pattern associated with **folded** structures is:
 
@@ -1816,7 +1778,6 @@ D. Rock salt
 </details>
 
 ---
-
 
 **Q66.** Endogenic processes are best described as:
 

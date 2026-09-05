@@ -14,36 +14,36 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-HQ MAP:
-  Kolkata → BSI (1890, PLANTS) + ZSI (1916, ANIMALS)
-  Dehradun → FSI (1981, ISFR) + FRI (1906, research) + WII (1982, wildlife)
-  New Delhi → NBPGR (1978, plant gene bank — ICAR)
-  Chennai → NBA (BDA 2002 — NOT Delhi)
+1. Headquarters map: **Kolkata** — BSI and ZSI; **Dehradun** — FSI, FRI, and WII; **New Delhi** — NBPGR; **Chennai** — NBA.
+2. **BSI (1890, Kolkata)** surveys **plants** (*Flora*, plant Red Data Book). **ZSI (1916, Kolkata)** surveys **animals** (*Fauna*, animal Red Data Book).
+3. **FSI (1981, Dehradun)** maps forest cover and publishes **ISFR every two years**. **FRI (1906, Dehradun)** does forestry **research** under the ICFRE world — it does **not** publish ISFR.
+4. **WII (1982, Dehradun)** does wildlife research, IFS/officer training, and tiger-census protocols.
+5. **NBA** under the Biological Diversity Act sits in **Chennai**, not Delhi. It handles foreign access and ABS at the national level.
+6. Biodiversity pyramid: **NBA (national) → SBB (state) → BMC (local)**. BMCs prepare the **People’s Biodiversity Register (PBR)**.
+7. **NBPGR (1978, New Delhi, ICAR)** is the plant gene bank. It is **not** Kolkata BSI and **not** Karnal **NBAGR** (animals).
+8. ISFR **2023** class figures often cited: India about **21.76%** forest cover; Uttar Pradesh about **6.24%**. UP districts with **>20%** forest cover in that reading were **Chandauli and Shravasti only** — **Bahraich** was not in that pair.
+9. BSI ≠ animals; ZSI ≠ plants; FRI ≠ ISFR; NBA ≠ Delhi; PBR ≠ NBA headquarters function.
+10. SBB is the state biodiversity board — not the State Pollution Control Board.
+11. NBPGR ≠ Kolkata. Gene bank is Delhi; plant survey is Kolkata.
+12. ISFR is biennial, not annual.
+13. UPSBB sits in the Lucknow state-biodiversity lane; WII supports Terai wildlife science links.
+14. BMC is local and owns PBR documentation of local biodiversity knowledge.
+15. SBB supervises state-level commercial access and BMC work under BDA — domestic track beside NBA’s foreign-access focus.
+16. FRI research ≠ FSI satellite forest-cover accounting, even though both are Dehradun forestry institutions.
+17. WII is wildlife science/training — not the ISFR publisher and not the plant gene bank.
+18. Red Data Books from BSI/ZSI are national catalogues; IUCN Red List remains the global risk ladder (different chapter neighbour).
+19. NBA year lock rides on BDA **2002** institutionalisation — headquarters city remains Chennai.
+20. Gene-bank NBPGR serves crop genetic resources for all states, including UP, from New Delhi.
+21. Forest-cover percentage traps for UP hinge on Chandauli + Shravasti, not a long distractor list of Terai districts.
+22. PBR is prepared locally by BMCs; it is not an NBA HQ publication series.
+23. Match institution → city before matching function. Wrong city is enough to kill a match list.
+24. Dehradun trio: FSI (cover/ISFR), FRI (research), WII (wildlife). Keep the three jobs separate.
 
-BSI = plants / Flora / Red Data Book (plants)
-ZSI = animals / Fauna / Red Data Book (animals)
-FSI = forest cover survey → ISFR every 2 years
-FRI = forestry RESEARCH (≠ FSI mapping)
-WII = wildlife research + IFS training + tiger census protocols
+---
 
-BDA 2002 PYRAMID:
-  NBA (national, Chennai) → foreign access + ABS
-  SBB (state) → domestic commercial access + BMC supervision
-  BMC (local) → People's Biodiversity Register (PBR)
-
-NBPGR = New Delhi plant gene bank | ≠ Kolkata BSI | ≠ NBAGR Karnal (animals)
-
-ISFR 2023: India 21.76% forest | UP 6.24%
-  UP >20% districts: Chandauli + Shravasti ONLY | Bahraich NOT (2025 Q8)
-
-TRAPS: BSI≠animals | ZSI≠plants | FRI≠ISFR | NBA≠Delhi | PBR≠NBA
-  SBB≠SPCB | NBPGR≠Kolkata | ISFR≠annual
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -218,23 +218,6 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 ---
 
-## Consolidated Reference
-
-| Institution | Year | HQ | Core lock |
-|-------------|------|-----|-----------|
-| BSI | 1890 | Kolkata | Plants / Flora |
-| ZSI | 1916 | Kolkata | Animals / Fauna |
-| FRI | 1906 | Dehradun | Forestry research |
-| FSI | 1981 | Dehradun | ISFR |
-| WII | 1982 | Dehradun | Wildlife research/training |
-| NBA | 2002/03 | **Chennai** | ABS / foreign access |
-| SBB | BDA | State capital | State biodiversity |
-| BMC | BDA | Local | **PBR** |
-| NBPGR | 1978 | New Delhi | Plant gene bank |
-
-**UP locks:** UPSBB Lucknow | ISFR UP 6.24% | Chandauli + Shravasti >20% | Terai research (WII)
-
----
 
 ## Practice Zone
 

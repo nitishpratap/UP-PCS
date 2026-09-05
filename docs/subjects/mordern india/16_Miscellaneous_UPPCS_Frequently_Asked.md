@@ -15,30 +15,40 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-SLOGANS: Tilak = Swaraj birthright | Hasrat→Bhagat = Inquilab | Gandhi QI = Do or Die
-         Bose = Give me blood / Jai Hind / Delhi Chalo | Bankim = Vande Mataram
-         Dayanand = Back to Vedas | Narayana Guru = One caste one religion one God
+1. **“Swaraj is my birthright and I shall have it”** is **Tilak**. **“Do or Die”** is **Gandhi** at Quit India (**8 August 1942**).
+2. **“Inquilab Zindabad”** was coined by **Hasrat Mohani** and popularised by **Bhagat Singh**. It is not Bose’s slogan.
+3. **“Give me blood and I will give you freedom,” “Jai Hind” and “Delhi Chalo”** belong to **Bose / INA**.
+4. **Vande Mataram** (Bankim, *Anandamath*) is the national **song**. **Jana Gana Mana** (Tagore) is the national **anthem** (Calcutta session **1911**).
+5. **“Back to the Vedas”** is **Dayanand Saraswati**. **“One caste, one religion, one God”** is **Sri Narayana Guru**.
+6. **“Educate, Agitate, Organise”** is **Ambedkar**. **“Sarfaroshi ki tamanna”** sits with the **Bismil** / Kakori stream.
+7. **Tilak’s *Kesari* (Marathi) and *Mahratta* (English)** are **Pune** papers — not Gorakhpur.
+8. UP press match: **Swadesh–Gorakhpur**, **Bharat Bandhu–Hathras**, **Satyawadi–Agra**, **Shakti–Almora**.
+9. Gandhi’s papers include ***Young India***, ***Harijan*** and ***Navajivan***. ***Indian Opinion*** belongs to his South Africa years.
+10. INC firsts: **Bonnerjee 1885** (first session); **Tyabji 1887** (first Muslim); **Yule 1888** (first English); **Besant 1917** (first woman); **Sarojini 1925** (first Indian woman).
+11. **Belgaum 1924** is Gandhi’s **only** presidentship. **Lahore 1929** is **Purna Swaraj**. **Karachi 1931** (Patel) is Fundamental Rights. **Faizpur 1937** is the first village session.
+12. **Tilak never** became Congress President. Bose held **1938–39**; Azad held **Ramgarh 1940**.
+13. UP 1857: **Lucknow = Begum Hazrat Mahal**; **Allahabad = Liyaqat Ali** — never swap.
+14. UP map locks: **Kakori 9 Aug 1925**; **Chauri Chaura 4/5 Feb 1922 (Gorakhpur)**; **Azad Park, Allahabad**.
+15. Treaty year locks: **Allahabad 1765**, **Madras 1769**, **Salbai 1782**, **Mangalore 1784**. Chronological order is Allahabad → Madras → Salbai → Mangalore.
+16. Education commissions ladder: **Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944**.
+17. **Hunter Commission 1882** is education. **Hunter Committee 1919** is the Jallianwala inquiry — different bodies.
+18. Mission year locks: **Simon 1927**, **Nehru Report 1928**, **Cripps 1942**, **Cabinet Mission 1946**.
+19. Official ↔ policy: **Curzon — Partition 1905**; **Minto — separate electorates 1909**; **Chelmsford — Montford 1919**; **Irwin — Gandhi–Irwin Pact 1931**; **Willingdon — Communal Award 1932**; **Mountbatten — 3 June Plan**.
+20. **Shanti Ghosh** is a **1931 Bengal** revolutionary name. **Aruna Asaf Ali** is **Quit India 1942** — do not swap.
+21. INA trials sat at the **Red Fort**, not Gwalior Fort.
+22. **Rani Lakshmibai** is the Rani of Jhansi. **Jhalkari Bai** is the Dalit soldier remembered as resembling her in battle.
+23. ***Poverty and Un-British Rule*** = Naoroji **1901**. ***Economic Nationalism*** historiography = **Bipan Chandra**.
+24. ***Anandamath*** = Bankim; ***Hind Swaraj*** = Gandhi; ***Discovery of India*** = Nehru; ***India Wins Freedom*** = Azad; ***Gita Rahasya*** = Tilak.
+25. **Simon Go Back** is locked to the anti-Simon agitation and the **Lajpat Rai** association.
+26. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle lock.
+27. This file is a **match vault**: slogans, press, sessions, treaties and UP names — event stories live in earlier chapters.
+28. Drill first the slogan six, the INC “first” six, the committee/mission six, and the British-official six — those rows carry the heaviest repeat weight.
 
-PRESS: Tilak Kesari+Mahratta (Pune) | Gandhi Young India+Harijan+Navajivan
-       2022 Q117 (standard paper): Swadesh–Gorakhpur, Bharat Bandhu–Hathras,
-       Satyawadi–Agra, Shakti–Almora  →  B   [local pyq OCR prints “Kesari”]
+---
 
-INC STARS: 1885 Bombay Bonnerjee | 1887 Tyabji | 1917 Besant 1st woman
-           1924 Belgaum ONLY Gandhi | 1925 Sarojini 1st Indian woman
-           1929 Lahore Purna | 1931 Karachi FR (Patel) | 1937 Faizpur 1st village
-           1938–39 Bose | Tilak NEVER President  ← 2021 Q50
-
-UP: 1857 Lucknow = Hazrat Mahal (NOT Liyaqat Ali)  ← 2018 Q95
-    Kakori 9 Aug 1925 | Chauri Chaura 4 Feb 1922 Gorakhpur | Azad Park Allahabad
-
-TREATIES 2019 Q93: Allahabad 1765 / Mangalore 1784 / Salbai 1782 / Madras 1769 = 4, 2, 1, 3
-EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 = C, A, B, D
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -54,8 +64,6 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | Rani Lakshmibai | Jhalkari Bai | The Rani herself vs the Dalit soldier who resembled her in battle | लक्ष्मीबाई / झलकारी बाई |
 | Cripps Mission 1942 | Cabinet Mission 1946 | Solo envoy, failed vs three-member mission with a grouping plan | क्रिप्स / कैबिनेट मिशन |
 | Nehru Report 1928 | Simon Commission 1927 | Indian response vs all-white British body | नेहरू रिपोर्ट / साइमन |
-
----
 
 ---
 

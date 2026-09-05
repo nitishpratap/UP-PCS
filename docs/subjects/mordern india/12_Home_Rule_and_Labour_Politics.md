@@ -15,43 +15,40 @@ Home Rule Movement | National Education | BHU Movement | Labour Movement | Left 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-HOME RULE 1916–18:
-  Tilak League   Apr 1916  Poona   President Joseph Baptista; Secy N.C. Kelkar
-                 Area: Maharashtra (except Bombay city), Karnataka, CP, Berar
-  Besant League  Sep 1916  Madras/Adyar   rest of India INCLUDING Bombay city
-  Demand: Home Rule / self-government within the Empire (Irish model)
-  Jun 1917: Besant, Arundale, Wadia interned → protest → release
-  20 Aug 1917: Montagu Declaration
-  Dec 1917: Besant = first woman INC President
-  1920: Gandhi becomes All-India Home Rule League President → Swarajya Sabha
-  2023 Q47: Home Rule is FIRST among Home Rule / Khilafat / Jallianwala / Moplah
+1. **Tilak’s Indian Home Rule League** was founded in **April 1916** at **Poona**. **Joseph Baptista** was President; **N.C. Kelkar** was Secretary.
+2. Tilak’s area was Maharashtra **except Bombay city**, plus Karnataka, CP and Berar. **Bombay city** belonged to **Besant’s** league.
+3. **Besant’s All India Home Rule League** was founded in **September 1916** at **Madras/Adyar** for the rest of India including Bombay city.
+4. Home Rule demanded **self-government within the Empire** on the Irish model. It is wartime constitutional politics, not later Gandhian mass satyagraha.
+5. In **June 1917**, Besant, Arundale and Wadia were interned; protest made Home Rule a mass slogan and they were released.
+6. On **20 August 1917**, the **Montagu Declaration** stated Britain’s goal of **responsible government** in India. It is a statement of intent, not the 1919 Act itself.
+7. The **Government of India Act, 1919** is the reform that followed Montagu–Chelmsford talks. Do not confuse Montagu **1917** with the **August Offer 1940**.
+8. In **December 1917**, Besant became the **first woman** Congress President at Calcutta.
+9. The **Lucknow Pact (December 1916)** reunited Moderates and Extremists and sealed a Congress–League deal on separate electorates and weightage. It is **not** 1911.
+10. Besant led Theosophy in India but did **not** found the Society. **Blavatsky** and **Olcott** founded it in **New York in 1875**.
+11. Besant’s papers were ***New India*** and ***Commonweal***. She founded **Central Hindu College, Varanasi, in 1898**, later the nucleus of BHU.
+12. **Tilak never** presided over a Congress session. He died on **1 August 1920**, before Non-Cooperation’s peak.
+13. In **1920**, Gandhi became All-India Home Rule League President and renamed it **Swarajya Sabha**.
+14. Among Home Rule, Khilafat, Jallianwala and Moplah, **Home Rule (1916)** is the earliest and **Moplah (1921)** is the last.
+15. **BHU**: Act **1915**; foundation stone **4 February 1916** (Hardinge); **Malaviya** is the founder tag; place is **Varanasi**.
+16. **NCE 1906** (Swadeshi) is not **BHU 1916**. National-education waves: NCE **1906**, BHU **1916**, Vidyapiths/Jamia **1920–21**, Wardha **1937**.
+17. **Gujarat Vidyapith** (Ahmedabad, **1920**) and **Kashi Vidyapith** (Varanasi, **1921**) belong to the Non-Cooperation national-university wave.
+18. **Madras Labour Union (1918)** is linked to **B.P. Wadia**. India’s **ILO 1919** labour representative was **N.M. Joshi**, not Baptista.
+19. **AITUC** was founded on **31 October 1920** with **Lala Lajpat Rai** as first president.
+20. Party-labour map: **AITUC → CPI**; **INTUC (1947) → Congress**; **BMS (1955) → BJP**; **UTUC → CPI(M)** stream.
+21. **CSP** formed at **Patna (May 1934)** / **Bombay (October 1934)** — not January 1934. **Nehru never formally joined** CSP.
+22. **Workers and Peasants Party** All-India form is clearer from **December 1928**, not 1927. WPP is late-1920s left work inside Congress.
+23. **Kanpur Conspiracy 1924**: **M.A. Ansari** is **not** in the associated list. CPI’s Kanpur tag is often locked to **1925**.
+24. **Justice Party (1916, Madras)** was a non-Brahmin regional force, not the all-India Congress. **Self-Respect** (Periyar) follows after leaving Congress in **1925**.
+25. Home Rule declined after Montagu–Chelmsford hope, Tilak’s time abroad, and the rise of Gandhi’s mass methods.
+26. UP Focus: **BHU** and **Kashi Vidyapith** are Varanasi locks; Besant league branches reached UP towns, but Tilak’s HQ stayed Poona.
+27. Extremists read Montagu as proof that Home Rule pressure worked; Moderates read it as proof that constitutional agitation still worked.
+28. Baptista is Tilak League **President**. Joshi is the **ILO 1919** labour face — never swap the two names.
 
-BESANT: Theosophy leader (NOT founder — Blavatsky/Olcott 1875)
-        New India + Commonweal | Central Hindu College 1898 → BHU nucleus
-TILAK:  Kesari/Maratha | Home Rule Apr 1916 | NEVER Congress President | died 1 Aug 1920
+---
 
-BHU: Act 1915 | foundation stone 4 Feb 1916 (Hardinge) | Malaviya founder tag | Varanasi
-NCE 1906 (Swadeshi) ≠ BHU 1916
-
-LABOUR: Madras Labour Union 1918 (V.P./B.P. Wadia)
-        ILO 1919 labour rep = N.M. Joshi
-        AITUC 31 Oct 1920; Lala Lajpat Rai first president
-        INTUC 1947 Congress | BMS 1955 BJP | UTUC → CPI(M) key | AITUC → CPI
-
-LEFT:   Kanpur Conspiracy 1924 — Ansari NOT in
-        CPI tag 1925 Kanpur | WPP All-India clearer Dec 1928 (not 1927)
-        2024 Q14 WPP → Only 2
-        CSP: Patna May 1934 / Bombay Oct 1934 — NOT January 1934
-        Nehru NEVER formally joined CSP  → 2024 Q131 Neither
-
-REGIONAL: Justice Party 1916 Madras — both 2024 Q13 statements true
-          Self-Respect (Periyar) after leaving Congress 1925
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -67,8 +64,6 @@ REGIONAL: Justice Party 1916 Madras — both 2024 Q13 statements true
 | Malaviya | Besant (BHU) | Chief BHU organiser vs Central Hindu College nucleus | मालवीय / बेसेंट |
 | Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
 | Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
-
----
 
 ---
 

@@ -15,51 +15,36 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-IDENTITY
-Farid Khan → Sher Khan (tiger) → Sher Shah Suri (Padshah 1540)
-Sasaram (Bihar) | Father Hasan Khan Sur | Afghan Sur | Rule 1540–1545 (~5 years)
-Died May 1545 Kalinjar (gunpowder) | Tomb Sasaram lake mausoleum
+1. **Farid Khan** of **Sasaram** became **Sher Khan** after the tiger-kill tradition, then **Sher Shah Suri** as Padshah from **1540**.
+2. The Sur empire lasted only about **1540–1545**, yet its admin, roads, and revenue model shaped later Mughal practice.
+3. At **Chausa on 26 June 1539**, Sher Shah defeated Humayun, who escaped across the Ganga on a mashak.
+4. At **Kannauj/Bilgram on 17 May 1540**, Sher Shah won decisively and Humayun fled into exile.
+5. **Daurah (1532)** was Humayun versus Afghan chiefs; it is **not** Sher Shah's Chausa battle.
+6. Chronology lock: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
+7. Sher Shah died in **May 1545** at the **Kalinjar** siege from a **gunpowder** blast; his tomb is the lake mausoleum at **Sasaram**.
+8. Successor **Islam Shah (Jalal Khan)** ruled **1545–1553**; Humayun returned to Delhi–Agra in **1555**.
+9. Each pargana had a **Shiqdar** for law and order, a **Munshif** for accounts, and an **Amil/Desai** for collection.
+10. **Jarib** is the **measuring rope** used to fix the bigha; it is **not** a tax. **Desai** is the revenue collector.
+11. Land was classed good, middle, or bad; **rai** was the crop rate per **bigha**; **zabt** fixed an annual cash demand.
+12. The state issued a **patta** to the peasant; **qabuliat** was the peasant's written acceptance.
+13. **Todar Mal** trained under Sher Shah's revenue system before carrying measurement practice into Akbar's court.
+14. The **Grand Trunk Road** ran from **Sonargaon** in Bengal to **Peshawar**, with **sarais** about every **12 kos**.
+15. Currency lock: silver **rupiya** (~178 grains), copper **dam** (~1/40 of a rupiya), and gold **mohur**; Akbar continued the **dam**.
+16. Key forts include **Rohtas** in Bihar against Humayun's return and **Purana Qila** in Delhi.
+17. At **Sammel/Giri-Sumel in 1544**, Sher Shah fought **Rao Maldeo Rathore of Marwar**.
+18. **Jayata and Kumpa** were loyal **Marwar** Rathore captains who died fighting; they were **not** Mewar warriors.
+19. Centre offices: **Diwan-i-Wazarat** for finance, **Diwan-i-Ariz** for the army, and **Diwan-i-Risalat** for grants.
+20. Monument order places **Sher Shah's Sasaram tomb** after Atala Jaunpur and before Humayun's tomb at Delhi.
+21. **Barid** spies watched officers; the **qazi** judged by sharia and stayed outside the revenue chain.
+22. Horses were branded with **dagh**, a precursor to the later Mughal chehra–dagh system.
+23. Sher Shah kept a standing force with registered men; he did **not** create hereditary mansabdari like Akbar.
+24. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah.
 
-BATTLES
-Daurah 1532 = Humayun vs Afghans (NOT Sher Shah’s Chausa)
-Chausa 26 June 1539 — Humayun escaped Ganga
-Kannauj / Bilgram 17 May 1540 — decisive; Humayun exiled
-2025 Q79: Daurah(2) → Chausa(4) → Kannauj(1) → Samugarh(3) = D (2-4-1-3)
-2019 Q13: Bilgram earliest among Sarnal–Dharmat–Jajau = A (II-I-III-IV)
-Sammel / Giri-Sumel 1544 vs Rao Maldeo (Marwar)
-Jayata & Kumpa = Marwar NOT Mewar (2022 Q95 = C)
+---
 
-ADMIN
-Sarkar → Pargana | Shiqdar (law/order) + Munshif (accounts) + Amil/Desai (collection)
-Shiqdar-i-Shiqdaran / Munshif-i-Munsifan at sarkar
-Diwan-i-Wazarat (finance) | Diwan-i-Ariz (army) | Diwan-i-Risalat
-Barid spies | Qazi separate from revenue | Khwan = pargana record writer
-
-REVENUE (★★★)
-Jarib = measuring rope (NOT tax — 2019 Q87 D)
-Land good/middle/bad | Rai = crop rate per bigha | Zabt = measured cash demand
-Patta (to peasant) + Qabuliat (acceptance)
-Desai = revenue collector (2019 Q87 B ✓)
-Todar Mal trained here → Akbar zabt/dahsala
-
-ROADS
-Grand Trunk: Sonargaon (Bengal) → Peshawar
-Sarais ~every 12 kos | kos-minars | dak/post
-Purana Qila Delhi | Rohtas Fort Bihar (vs Humayun)
-
-CURRENCY
-Rupiya silver ~178 grains | Dam copper (~1/40) | Mohur gold
-Akbar continued Dam (2019 Q12 = A)
-
-TOMBS
-2019 Q91: Atala Jaunpur → Sher Shah Sasaram → Humayun Delhi → Rabia Aurangabad = B (IV-II-III-I)
-Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -226,46 +211,6 @@ A. Both true and R explains A | B. Both true, R not explanation | C. A true, R f
 - Sher Shah used **forged letters** so Maldeo doubted his loyal Rathore captains **Jaita (Jayata)** and **Kumpa**. Maldeo withdrew, but the two Rathores stayed and died fighting.
 - Sher Shah later said he nearly lost the **“empire of Hindustan for a handful of bajra/millets.”**
 - **UPPCS Prelims 2022 Q95** asks where Jayata and Kumpa came from. The answer is **C (Marwar)**, not Mewar, Bundelkhand, or Malwa.
-
----
-
-## Consolidated Reference
-
-### Timeline
-
-| Year | Event |
-|------|-------|
-| c. 1472 | Farid Khan born, Sasaram |
-| Early 1500s | Bahar Khan Lohani service; title Sher Khan |
-| **1532** | **Daurah** — Humayun vs Afghan chiefs (not Sher Shah’s Chausa) |
-| 26 Jun **1539** | **Chausa** |
-| 17 May **1540** | **Kannauj/Bilgram**; Delhi taken |
-| 1540s | GT Road, sarais, zabt, coins, Rohtas |
-| **1544** | Sammel vs Maldeo; Jayata & Kumpa |
-| May **1545** | Death Kalinjar; tomb Sasaram |
-| 1545–53 | Islam Shah |
-| **1555** | Humayun restored |
-
-### Officer table
-
-| Officer | Level | Job |
-|---------|-------|-----|
-| Diwan-i-Wazarat | Centre | Finance |
-| Diwan-i-Ariz | Centre | Army |
-| Shiqdar | Pargana | Law/order |
-| Munshif | Pargana | Accounts |
-| Amil / Desai | Pargana | Collection |
-| Khwan | Pargana | Records |
-| Qazi | Pargana/sarkar | Judge |
-
-### UP Focus
-
-| Element | Why |
-|---------|-----|
-| Kannauj/Bilgram 1540 | UP battle |
-| GT Road through Kannauj–Agra | UP corridor |
-| Chausa (Buxar belt) | Ganga crossing story |
-| Continuity to Akbar zabt | Doab later measured under Todar Mal |
 
 ---
 

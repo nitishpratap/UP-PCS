@@ -15,43 +15,42 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-15 Aug 1947 → CA last 24 Jan 1950 → Constitution 26 Jan 1950 → PC Mar 1950
-→ CDP 2 Oct 1952 → Andhra 1 Oct 1953 → SRC Act 1 Nov 1956 → NITI 1 Jan 2015
+1. Arc after transfer: Independence **15 Aug 1947** → CA last sitting **24 Jan 1950** → Constitution **26 Jan 1950** → Planning Commission **Mar 1950** → CDP **2 Oct 1952** → Andhra **1 Oct 1953** → SRC Act **1 Nov 1956** → NITI **1 Jan 2015**.
+2. About **562** princely states were integrated under **Sardar Patel** and **V.P. Menon**. The **Instrument of Accession** covered only **Defence, External Affairs and Communications**.
+3. **Junagadh** joined India after a **plebiscite (1948)**. **Hyderabad** was taken by **Operation Polo** (Police Action) in **September 1948**.
+4. **Jammu and Kashmir** signed the IoA on **26 October 1947** amid tribal invasion. Later J&K Constitution steps must not be shuffled with the Union Constitution dates.
+5. Constituent Assembly first met on **9 December 1946**. The **Objectives Resolution** was moved on **13 December 1946**.
+6. The national **Flag** was adopted on **22 July 1947**. The **Drafting Committee** (Ambedkar) was set up on **29 August 1947**.
+7. The Constitution was **adopted on 26 November 1949** and **commenced on 26 January 1950**. Do not swap the two dates.
+8. Committee chair locks: **Union Constitution — Nehru**; **Rules — Prasad**; **Drafting — Ambedkar**; **Fundamental Rights sub-committee — Kripalani**.
+9. **Chandernagore** used a French referendum route (**19 June 1949**) and merged into **West Bengal** on **2 October 1954**.
+10. **Pondicherry, Karaikal, Mahe and Yanam** used the **Kizhoor referendum (18 Oct 1954)**; de facto **1 Nov 1954**; de jure Union Territory **1962**.
+11. **Goa, Daman and Diu** were taken by **Operation Vijay (18–19 Dec 1961)**; UT in **1962**; **Goa State in 1987**.
+12. **Dadra and Nagar Haveli** saw local action in **1954** and became a UT by the **10th Amendment, 1961**.
+13. French enclaves used a **referendum/treaty** route. Portuguese Goa used a **military** route — never swap the methods.
+14. **Panchsheel** was signed on **29 April 1954** (India–China five principles). The first **NAM** summit was **Belgrade 1961**; **Bandung 1955** is the mood, not the first summit.
+15. **Etawah Pilot (1948)** was **Albert Mayer’s** UP village project. Nationwide **CDP** began on **2 October 1952**; **NES** followed in **1953**.
+16. Development chronology lock: **CDP → DPAP → Food for Work → TRYSEM**.
+17. **Balwant Rai Mehta (1957)** recommended the three-tier panchayati scheme. **Nyaya Panchayat** is not one of those three Mehta tiers.
+18. **States Reorganisation Commission** members were **Fazl Ali, K.M. Panikkar and H.N. Kunzru**. Not K.T. Shah; not Pattabhi Sitaramayya.
+19. The first linguistic state was **Andhra (1 October 1953)**. The **States Reorganisation Act** took effect on **1 November 1956**.
+20. **Dhar Commission (1948)** resisted language as the main basis. **SRC (1953)** accepted language with limits.
+21. The **Planning Commission (March 1950)** was **extra-constitutional**. Ashok Chanda called it an “**Economic Cabinet**.”
+22. The then **poverty line** exercise sat with the Planning Commission. **NITI Aayog** began on **1 January 2015**; first Vice-Chair was **Arvind Panagariya**.
+23. **1st Plan** stressed agriculture and CDP. **2nd Plan** followed the **Mahalanobis** heavy-industry path (steel plants).
+24. The **12th Plan** slogan lock is **sustainable growth**; it was the **last** Five-Year Plan.
+25. **1950 map:** Part A = Governor’s provinces; Part B = princely unions; Part C = Chief Commissioner’s provinces; Part D = Andaman and Nicobar — until **1956**.
+26. Privy purses ended with the **26th Amendment, 1971**.
+27. UP Focus: **Etawah 1948 (Mayer, Mahewa)** is the national CDP model; UP was a **Part A** state in 1950; **Uttarakhand** was carved on **9 November 2000**.
+28. **Standstill Agreement** kept interim arrangements; **IoA** permanently ceded the three subjects — do not swap the two instruments.
+29. **Nilokheri** is S.K. Dey’s refugee township model. Do not call it the same thing as Etawah’s Mayer pilot.
+30. Finance Commission is **Article 280**. Planning Commission was never a constitutional body — that is the PC vs FC trap.
 
-PRINCELY (~562): Patel + V.P. Menon | IoA = Defence + External + Communications
-  Junagadh = plebiscite | Hyderabad = Operation Polo Sep 1948 | J&K IoA 26 Oct 1947
-  2019 Q103: IoA → Indian Const. 1950 → J&K CA ratifies → J&K Const. = I, II, III, IV
+---
 
-CA: first met 9 Dec 1946 | Objective Res. 13 Dec 1946 | Flag 22 Jul 1947
-    Drafting 29 Aug 1947 (Ambedkar) | Adopted 26 Nov 1949 | Commenced 26 Jan 1950
-    2023 Q3: IV, I, II, III
-    2025 Q82: Union Const. Nehru / Rules Prasad / Drafting Ambedkar / FR sub-cttee Kripalani = 4,1,3,2
-
-ENCLAVES: Chandernagore referendum 19 Jun 1949 → de facto 1950 → into West Bengal 2 Oct 1954
-    Pondicherry+Karaikal+Mahe+Yanam: Kizhoor referendum 18 Oct 1954 → de facto 1 Nov 1954 → de jure 1962 (UT)
-    Goa+Daman+Diu: Portugal refused talks → Operation Vijay 18–19 Dec 1961 → UT 1962 → Goa State 1987
-    Dadra & Nagar Haveli: local action 1954 → UT by 10th Amendment 1961
-
-FOREIGN POLICY (brief): Panchsheel 29 Apr 1954 India–China (five principles)
-    NAM first summit Belgrade 1961 | Bandung 1955 = echo/mood, not the first NAM summit
-
-ETAWAH 1948 Albert Mayer (UP) → CDP 2 Oct 1952 → NES 1953
-    2025 Q134: CDP → DPAP → Food for Work → TRYSEM = 2, 4, 1, 3
-    BR Mehta 1957 three-tier; Nyaya Panchayat ≠ Mehta tier → Polity T10 / 2024 Q129
-
-SRC: Fazl Ali + K.M. Panikkar + H.N. Kunzru  ← 2025 Q71 (2 and 4)
-     NOT K.T. Shah, NOT Pattabhi Sitaramayya
-     First linguistic state = Andhra 1953  ← 2018 Q68
-
-PC Mar 1950 extra-constitutional | “Economic Cabinet” Ashok Chanda  ← 2018 Q144
-    Poverty line (then) = PC  ← 2018 Q115 | NITI 1 Jan 2015; first VC Panagariya  ← 2018 Q67
-    1st Plan agri/CDP | 2nd Mahalanobis + steel | 12th = sustainable growth  ← 2018 Q40
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -70,8 +69,6 @@ PC Mar 1950 extra-constitutional | “Economic Cabinet” Ashok Chanda  ← 2018
 | PC | NITI | Plan body 1950–2014 vs think-tank from 2015 | योजना / नीति |
 | 1st Plan | 2nd Plan | Agriculture/CDP vs heavy industry (Mahalanobis) | प्रथम / द्वितीय |
 | Part A | Part B (1950) | Governor’s provinces vs princely unions | ए / बी राज्य |
-
----
 
 ---
 

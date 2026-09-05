@@ -15,55 +15,38 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-PHASE LADDER
-  Company Governors of Bengal (to 1773) — no "Governor-General" title yet
-  Governor-General of Bengal (1773, Regulating Act) — first: Warren Hastings
-  Governor-General of India (1833, Charter Act) — first: William Bentinck
-  Viceroy (1858, GOI Act, after the 1857 Revolt) — first: Canning
-  Last Viceroy (1947) = Mountbatten; last GG of India (Dominion) = C. Rajagopalachari, 1948–50
+1. The **Regulating Act, 1773** created the **Governor-General of Bengal**; first holder **Warren Hastings**. The **Supreme Court at Calcutta** began in **1774**.
+2. The **Charter Act, 1833** created the **Governor-General of India**; first holder **William Bentinck**. The Company stopped **all** trade.
+3. The **Government of India Act, 1858** ended Company rule. The same man became **Viceroy**; first Viceroy was **Lord Canning**. Last Viceroy was **Mountbatten**; last GG of India (Dominion) was **C. Rajagopalachari (1948–50)**.
+4. Under **Pitt’s India Act, 1784**, the **Board of Control** handled political affairs and the **Court of Directors** handled commercial affairs.
+5. The **Charter Act, 1813** ended the Company’s trade monopoly in India (kept tea/China) and set aside **₹1 lakh a year** for education. The **Charter Act, 1853** implemented **open competition** for the civil service.
+6. The **Indian Councils Act, 1861** gave legal recognition to the **portfolio system**. The **1909** Act (Morley–Minto) began **Muslim separate electorates**.
+7. The **Government of India Act, 1919** introduced **dyarchy in the provinces**, a bicameral centre, and the **Chamber of Princes**. The **1935** Act introduced **provincial autonomy**; the proposed federation **never operated**.
+8. **Warren Hastings** ended Dual Government in **1772**, faced Banaras **1781**, and saw the Asiatic Society era (**1784**). **Sir William Jones** founded the Society; Hastings declined the chair.
+9. **Cornwallis** introduced the **Permanent Settlement of 1793** in Bengal, Bihar and Orissa and led the **Third Anglo-Mysore War** to the **Treaty of Seringapatam, 1792**.
+10. **Wellesley** launched the **Subsidiary Alliance** from **1798** (first **Hyderabad**). **Dalhousie** used the **Doctrine of Lapse**, pushed railways, and hosted **Wood’s Despatch, 1854**.
+11. **Bentinck** abolished **Sati in 1829**. **Macaulay’s Minute (1835)** set English for higher education. **Metcalfe** is the **“Liberator of the Press” (1835)**.
+12. **Lytton** passed the **Vernacular Press Act, 1878** and followed **Proud Reserve** on Afghanistan. **Ripon** repealed that Press Act, pushed **local self-government (1882)**, and faced the **Ilbert Bill (1883)**.
+13. **Dufferin** saw the founding of the **INC in 1885** and called it a **“microscopic minority.”** **Curzon** partitioned Bengal on **16 October 1905**.
+14. **Hardinge II** moved the capital to **Delhi in 1911** and annulled the Partition. **Chelmsford** is tagged to the **GOI Act 1919**.
+15. **Linlithgow** issued the **August Offer (1940)**. **Wavell** offered the **Wavell Plan (1945)**. **Mountbatten** announced the **3 June Plan (1947)**.
+16. **Lord Hastings** (1813–23) fought Nepal and the Third Maratha War. Do **not** confuse him with **Warren Hastings**.
+17. **Lawrence** followed **Masterly Inactivity** on Afghanistan. **Lytton’s** line was **Proud Reserve** — opposite Afghan postures.
+18. **Mayo** was assassinated at the Andamans (**1872**). **Northbrook** resigned over Afghan-policy disagreement.
+19. **Lansdowne** is locked to the **Age of Consent Act, 1891** and the **Indian Councils Act, 1892**. **Irwin** is locked to Dandi and the **Gandhi–Irwin Pact (1931)**.
+20. **Reading** faced Chauri Chaura and the Swaraj Party years. **Willingdon** saw the **GOI Act 1935** passed; **Linlithgow** was the longest-serving Viceroy of the late phase.
+21. Match lock: **Dalhousie — Doctrine of Lapse**; **Curzon — Partition of Bengal**; **Bentinck — abolition of Sati**; **Cornwallis — Permanent Settlement**.
+22. War tags: **Cornwallis — Third Mysore**; **Wellesley — Fourth Mysore / Second Maratha**; **Amherst — First Burma**; **Auckland — First Afghan**; **Ellenborough — Sindh**; **Hardinge I — First Sikh**; **Dalhousie — Second Sikh**.
+23. UP Focus: the **Queen’s Proclamation** was read at **Allahabad on 1 November 1858** under Canning. **Chait Singh / Banaras** belongs to **Warren Hastings, 1781**. **Awadh annexation 1856** is Dalhousie’s misrule case.
+24. **Sir John Shore** stands for non-intervention and no new war. **Wellesley** stands for Subsidiary Alliance and expansion — opposite styles.
+25. The office ladder is four shapes: Company Governors of Bengal (to 1773) → GG of Bengal (**1773**) → GG of India (**1833**) → Viceroy (**1858**). Hastings is never a Viceroy; Canning is never a mere GG of Bengal.
+26. Under **1833** a **Law Member** was added to the Council (**Macaulay**). Under **1858** a **Secretary of State** replaced the Board of Control and Court of Directors in London.
 
-ACT LADDER (office and law-making power only — reform detail sits with each ruler's card)
-  1773 Regulating Act    — GG of Bengal + 4-member Council; Supreme Court at Calcutta, 1774
-  1784 Pitt's India Act  — Board of Control (political) placed above Court of Directors (commercial)
-  1793 Charter Act       — 20-year renewal; almost no structural change
-  1813 Charter Act       — Company's trade monopoly in India ends (kept tea/China trade); ₹1 lakh/year for education
-  1833 Charter Act       — GG of India created; Company stops ALL trade; Law Member added (Macaulay)
-  1853 Charter Act       — legislative and executive functions split; open competition for civil service
-  1858 GOI Act           — Crown rule begins; Secretary of State replaces Board of Control + Court of Directors; GG also becomes Viceroy
-  1861 Indian Councils Act — portfolio/departmental system; legislative power restored to Bombay/Madras
-  1892 Indian Councils Act — indirect election principle; council size and powers increased
-  1909 Indian Councils Act (Morley-Minto) — separate electorates for Muslims
-  1919 GOI Act (Montagu-Chelmsford)      — dyarchy in provinces; bicameral centre; Chamber of Princes
-  1935 GOI Act           — provincial autonomy; proposed all-India federation (never came into force)
+---
 
-2025 Q40 answer D:
-Dalhousie — Doctrine of Lapse
-Curzon — Partition of Bengal
-Bentinck — abolition of Sati
-Cornwallis — Permanent Settlement
-
-Hastings 1772 ends Dual Government
-Cornwallis 1793 Permanent Settlement
-Wellesley 1798 Subsidiary Alliance (first Hyderabad)
-Bentinck 1829 Sati; Macaulay's Minute 1835
-Dalhousie — Lapse, railways, Wood's Despatch 1854
-Canning — 1857; Crown 1858; portfolio system 1861
-Lytton — Vernacular Press Act 1878
-Ripon — local self-government 1882; Ilbert Bill 1883
-Dufferin — INC 1885; called it a "microscopic minority"
-Curzon — Partition of Bengal, 16 October 1905
-Minto — separate electorates, 1909
-Hardinge — capital to Delhi 1911; Partition annulled
-Chelmsford — GOI Act 1919; Chamber of Princes
-Linlithgow — August Offer 1940
-Wavell Plan 1945
-Mountbatten — 3 June Plan 1947
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -92,7 +75,6 @@ Mountbatten — 3 June Plan 1947
 
 ---
 
----
 
 ## 3.0 Phase framework — the one picture to hold first
 

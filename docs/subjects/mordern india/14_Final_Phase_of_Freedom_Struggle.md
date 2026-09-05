@@ -15,42 +15,42 @@ Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Move
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-CSP 1934 — inside Congress; Nehru NEVER joined  ← 2024 Q131 (full card Topic 12)
+1. Congress ministries were **formed in 1937** after provincial elections and **resigned in 1939** when war was declared without consultation.
+2. **CSP (1934)** worked inside Congress; **Nehru never formally joined**. **Forward Bloc (1939)** is Bose’s separate left-nationalist body.
+3. Bose presided at **Haripura 1938** and **Tripuri 1939**, then resigned and founded the **Forward Bloc**.
+4. Bose escaped in **January 1941**. The **Azad Hind Government** was proclaimed on **21 October 1943** at **Singapore**.
+5. The **Rani of Jhansi Regiment** is locked to **Lakshmi Sehgal**. INA slogans include **Give me blood…**, **Delhi Chalo** and **Jai Hind**.
+6. **INA Trials** at the **Red Fort** tried **Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon**. Mass protest forced remission of sentences.
+7. Wartime bridge: ministries resign **1939** → **Ramgarh (Mar 1940)** → **August Offer (Aug 1940)** → **Individual Satyagraha (Oct 1940**, Vinoba first).
+8. **Cripps Mission (March 1942)** offered dominion after war, a Constituent Assembly, and provincial opt-out. Congress and League rejected it.
+9. **Quit India** was launched on **8 August 1942** at Bombay with Gandhi’s **Do or Die**.
+10. Quit India women locks: **Aruna Asaf Ali, Matangini Hazra, Kanaklata Barua, Usha Mehta** (radio). **Shanti Ghosh** is **not** a QI 1942 name.
+11. Parallel governments: **Ballia** (Chittu Pandey, UP), **Tamluk**, and **Satara (Prati Sarkar)**.
+12. The **C.R. Formula (1944)** is **Rajagopalachari’s**, not C.R. Das (dead **1925**). **Desai–Liaquat** talks followed in **1945**.
+13. **Wavell Plan + Simla Conference** sit in **June–July 1945**. Mission order: **Cripps → Wavell Plan → Shimla → Cabinet Mission**.
+14. **1945–47 ladder:** UK Parliamentary Delegation (**Jan 1946**) → **RIN Revolt (Feb 1946)** → Cabinet Mission announced (**Feb 1946**) → Interim Government (**Sep 1946**).
+15. **Cabinet Mission Plan (16 May 1946)** proposed grouping and a union centre. League later withdrew support but still joined the Interim Government.
+16. Interim Government was **announced 24 August 1946** and **took office 2 September 1946**. League joined on **26 October**.
+17. **Direct Action Day (16 August 1946)** was the League’s call and triggered Calcutta–Noakhali–Bihar violence that hardened Partition politics.
+18. **Attlee’s statement (20 February 1947)** set transfer by **June 1948** and named Mountbatten. The **Mountbatten Plan (3 June 1947)** then advanced the date.
+19. Keep the three 1947 dates apart: **Plan 3 June**, **Independence Act 18 July**, **Independence/Partition 15 August**.
+20. **INA** was armed struggle abroad under Bose. **Quit India** was mass struggle inside India in **1942** — different methods and theatres.
+21. **Azad Hind Fauj** is the army. **Azad Hind Government** is the provisional government of **21 October 1943**.
+22. **August Offer 1940** (Linlithgow) is not **Cripps 1942**. Dominion-after-war with minority veto is the August Offer shape.
+23. The **RIN Mutiny (February 1946)** was a ratings’ revolt over pay, race and demobilisation — not a Congress satyagraha and not Quit India.
+24. **Lahore / Pakistan resolution (March 1940)** of the League sits alongside Ramgarh Congress in the same season.
+25. UP Focus: **Ballia** parallel government under **Chittu Pandey**; **Ramgarh 1940** (Azad); **G.B. Pant** as UP Premier after 1937 elections.
+26. The Indian Independence Act received assent on **18 July 1947** and created two dominions from **15 August 1947**.
+27. Do not swap **Wavell Plan (1945 interim executive)** with **Mountbatten Plan (1947 partition + transfer)**.
+28. Do not swap **Simla 1945** (Wavell conference) with **Cabinet Mission 1946** (three-minister grouping plan).
+29. Bose’s INA and the Red Fort trials turned military defeat into a political storm that pressed the endgame of **1945–47**.
+30. Hold the endgame arc: Cripps fail → Quit India → INA/RIN pressure → Cabinet Mission → Direct Action → Mountbatten Plan → Independence Act.
 
-BOSE: Haripura 1938 / Tripuri 1939 President → resigns → Forward Bloc 1939
-      Escape Jan 1941 | INA | Azad Hind Govt 21 Oct 1943 Singapore
-      Rani Jhansi Regiment (Lakshmi Sehgal)  ← 2023 Q45
-      INA Trials: Shah Nawaz, Sahgal, Dhillon — Red Fort  ← 2019 Q21
-      Slogans: Give me blood… / Delhi Chalo / Jai Hind
+---
 
-WWII: Ministries resign 1939 → Ramgarh Mar 1940 → August Offer Aug 1940
-      Individual Satyagraha Oct 1940 (Vinoba first)
-      2024 Q133: 4, 3, 1, 2
-
-CRIPPS Mar 1942 — dominion after war; CA; provinces may opt out; rejected
-QUIT INDIA 8 Aug 1942 Bombay — Do or Die
-      Women YES: Aruna Asaf Ali, Matangini Hazra, Kanaklata Barua, Usha Mehta (radio)
-      Women NO: Shanti Ghosh  ← 2023 Q48
-      Parallel govts: Ballia, Tamluk, Satara (Prati Sarkar)
-
-DEADLOCK: C.R. Formula 1944 = Rajaji (NOT C.R. Das)  ← 2019 Q96
-          Desai–Liaquat 1945 | Wavell + Simla Jun–Jul 1945
-
-2025 Q41: Cripps → Wavell Plan → Shimla → Cabinet Mission  =  1, 4, 3, 2
-
-1945–47:
-  UK Parliamentary Delegation Jan 1946 → RIN Feb 1946
-  → Cabinet Mission announced Feb 1946 → Interim Govt Sep 1946
-  2024 Q16: 4, 1, 2, 3
-  League withdraws Cabinet Mission 1946 but joins Interim  ← 2018 Q17 Both true; R ≠ explain A
-  Direct Action 16 Aug 1946 | Mountbatten Plan 3 Jun 1947
-  Independence Act 18 Jul 1947 | 15 Aug 1947
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -68,8 +68,6 @@ DEADLOCK: C.R. Formula 1944 = Rajaji (NOT C.R. Das)  ← 2019 Q96
 | Congress ministries 1937 | Congress ministries resign 1939 | Formed after provincial elections vs quit over WWII without consultation | कांग्रेस मंत्रिमंडल गठन / त्यागपत्र |
 | RIN Revolt Feb 1946 | Quit India Aug 1942 | Ratings' mutiny, Bombay/Karachi vs Congress mass movement | नौसेना विद्रोह / भारत छोड़ो |
 | Direct Action Day 1946 | Partition Aug 1947 | League's call for mass action vs the final territorial split | डायरेक्ट एक्शन / विभाजन |
-
----
 
 ---
 

@@ -15,45 +15,40 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-SYLLABUS EIGHT:
-  Anandamath (1882) — Bankim Chandra Chattopadhyay  [Vande Mataram]
-  Poverty and Un-British Rule in India (1901) — Dadabhai Naoroji
-  Hind Swaraj (1909) — M.K. Gandhi
-  The Discovery of India (1946) — Jawaharlal Nehru  [Ahmednagar jail]
-  India Wins Freedom — Maulana Abul Kalam Azad
-  Gita Rahasya — Bal Gangadhar Tilak
-  Gulamgiri (1873) — Jyotiba Phule
-  Annihilation of Caste (1936) — B.R. Ambedkar
+1. ***Anandamath*** (**1882**) is by **Bankim Chandra Chattopadhyay** and carries **Vande Mataram**. It is not the national anthem.
+2. ***Neel Darpan*** (**1860**) is **Dinabandhu Mitra’s** indigo play. Do not give it to Bankim.
+3. ***Poverty and Un-British Rule in India*** by **Dadabhai Naoroji** was published in **1901**. It is the classic drain-of-wealth tract.
+4. ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra’s** later historiography, not Naoroji’s 1901 book.
+5. ***Hind Swaraj*** (**1909**) is Gandhi’s political tract. ***My Experiments with Truth*** is his autobiography — do not swap the two.
+6. ***The Discovery of India*** (**1946**) is **Nehru’s** Ahmednagar-jail civilisation–nation book. ***Toward Freedom / Autobiography*** is a different Nehru title.
+7. ***India Wins Freedom*** is **Maulana Abul Kalam Azad’s** freedom memoir. Do not confuse it with Nehru’s *Discovery of India*.
+8. ***Gita Rahasya*** is **Tilak’s** Gita–politics work. ***Arctic Home in the Vedas*** is also Tilak, but on a Vedic homeland — never swap.
+9. ***Gulamgiri*** (**1873**) is **Jyotiba Phule’s** caste-as-slavery tract. ***Annihilation of Caste*** (**1936**) is **Ambedkar’s**.
+10. ***The Story of My Deportation*** is **Lala Lajpat Rai**. ***A Nation in Making*** is **Surendranath Banerjee**.
+11. ***Unhappy India*** is Lajpat Rai’s reply to Katherine Mayo’s hostile ***Mother India*** (**1927**).
+12. ***The Indian War of Independence*** (**1909**) is **V.D. Savarkar’s** reading of **1857** as a national war. It is not Bankim’s novel.
+13. ***India Divided*** is **Rajendra Prasad**. ***Pakistan or the Partition of India*** is **Ambedkar**.
+14. Match-four lock: *Story of My Deportation* — **Lajpat Rai**; *Gita Rahasya* — **Tilak**; *A Nation in Making* — **Banerjee**; *India Wins Freedom* — **Azad**.
+15. ***Firangiya*** (**1921**) is **Manoranjan Prasad Sinha’s** Bhojpuri anti-British poem.
+16. ***Batohiya*** (**1911**) is **Raghuveer Narayan’s** Bhojpuri poem. The traveller character in *Bidesiya* is a different lock.
+17. ***Bidesiya*** is **Bhikhari Thakur’s** migrant folk-drama; he is remembered as the **Shakespeare of Bhojpuri**.
+18. ***Achhut Kee Shikayat*** (**1914**) is **Heera Dom**.
+19. ***Godaan*** and related social novels are **Premchand**. Do not place them with Bankim’s political romance.
+20. ***Economic History of India*** is **R.C. Dutt’s** economic-nationalist classic of that age.
+21. ***Satyarth Prakash*** is **Dayanand Saraswati** (Arya Samaj). ***Tuhfat-ul-Muwahhidin*** is **Raja Rammohan Roy**.
+22. ***Why I Am an Atheist*** is **Bhagat Singh**. ***The Indian Struggle*** / ***An Indian Pilgrim*** are **Subhas Chandra Bose**.
+23. ***Gitanjali*** is **Tagore** (Nobel **1913**). ***Jana Gana Mana*** is the national **anthem**; **Vande Mataram** is the national **song**.
+24. Lord Curzon’s GG-linked titles include ***Problems of the Far East*** / ***British Government in India***. ***My Indian Years*** is **Hardinge**.
+25. ***Hindutva: Who is a Hindu?*** (**1923**) is Savarkar’s separate title from his **1909** 1857 history.
+26. Sort books by type first: primary tract, memoir, later historiography, GG-linked, or partition narrative — that sorting kills most author traps.
+27. A book written **in** 1901 about the drain is a **primary tract**. A book written **about** that age decades later is **historiography**.
+28. Drill order for prelims: the **syllabus eight**, then the match-four above, then twins, then the **Bhojpuri four**.
 
-2020 Q26:
-  The Story of My Deportation — Lala Lajpat Rai
-  Gita Rahasya — Tilak
-  A Nation in Making — Surendranath Banerjee
-  India Wins Freedom — Azad
-  → 3, 4, 1, 2
+---
 
-2019 Q97: The Rise and Growth of Economic Nationalism in India — Bipan Chandra
-2021 Q139: Poverty… published 1901
-
-TWINS (do not swap):
-  Tilak: Gita Rahasya  ≠  Arctic Home in the Vedas
-  Gandhi: Hind Swaraj  ≠  My Experiments with Truth
-  Nehru: Discovery of India  ≠  Toward Freedom / Autobiography
-  Lajpat Rai: Story of My Deportation  ≠  Unhappy India
-  Ambedkar: Annihilation of Caste  ≠  Pakistan or the Partition of India
-  Bankim: Anandamath  ≠  Neel Darpan (Dinabandhu Mitra)
-
-BHOJPURI:
-  Firangiya (1921) — Manoranjan Prasad Sinha
-  Batohiya (1911) — Raghuveer Narayan
-  Bidesiya — Bhikhari Thakur (Shakespeare of Bhojpuri)
-  Achhut Kee Shikayat (1914) — Heera Dom
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -71,8 +66,6 @@ BHOJPURI:
 | Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
 | The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
 | Mother India | Unhappy India | Katherine Mayo's 1927 hostile tract vs Lala Lajpat Rai's reply | मदर इंडिया / अनहैप्पी इंडिया |
-
----
 
 ---
 

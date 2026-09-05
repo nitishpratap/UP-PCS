@@ -28,37 +28,36 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-FEATURES: Lengthiest | Rigidity+Flexibility (Art.368 types) | Quasi-federal | Parliamentary
-           FR+DPSP+Duties | Secular | Single citizenship | UAF (18 via 61st) | Integrated+Independent judiciary
-           Emergency | Independent bodies | 3-tier (1992) | Basic Structure limit
-
-TYPE OF GOVT: Parliamentary + Democratic Republic + Quasi-federal Union
-  NOT Presidential | NOT pure federation | Ambedkar: federal form, unitary spirit
-
-PARLIAMENTARY: Pres nominal · PM real · CoM → Lok Sabha · collective resp · fusion · dissolution
-
-AMENDMENT TYPES:
-  Simple majority (Arts 2–4, 169…) | Special majority (368) | Special + half States (federal)
-
-PREAMBLE TEXT: We the People → SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC
-  Justice (S/E/P) · Liberty (5) · Equality (2) · Fraternity (dignity + unity & integrity)
-  Date line 26 Nov 1949 | On 26 Jan 1950 status = Sovereign Democratic Republic only
-  42nd (1976): Socialist + Secular + integrity | NOT in Preamble: Federal
-  Part of Constitution (Kesavananda/LIC); NOT enforceable | Palkhivala = identity card
-
-BASIC STRUCTURE: Kesavananda 1973
-  Shankari 1951 → Sajjan 1965 → Golaknath 1967 → 24th 1971
-  → Kesavananda 1973 → Indira Nehru Gandhi 1975 → 42nd 1976 → Minerva Mills 1980
-
-SCHOLARS: Austin=Cooperative | Morris-Jones=Bargaining
-          Wheare=Quasi | Jennings=Centralising tendency
-
-SOURCES: UK parl+writs · USA FR+JR · Ireland DPSP · Canada residuary · Australia concurrent
-         Germany emergency · Japan procedure-by-law · GOI 1935 skeleton · UAF+Basic Structure = Indian
-```
+1. India’s Constitution is the **lengthiest written** Constitution of any sovereign country. It is a **single** Constitution for both the Union and the States.
+2. India’s **type of government** is **Parliamentary** plus a **Democratic Republic**. Its **polity structure** is a **quasi-federal Union** — not a Presidential system and not a pure classical federation.
+3. **B.R. Ambedkar** described the design as **federal in form but unitary in spirit**. Indian federation did **not** arise from an agreement among States, and States have **no right to secede**.
+4. In the parliamentary model the **President** is the **nominal** executive and the **Prime Minister** with the Council of Ministers is the **real** executive. Collective responsibility is to the **Lok Sabha**.
+5. The Constitution blends **rigidity and flexibility**. Many changes use **Article 368**, but paths such as **Articles 2–4** and **Article 169** use only a **simple majority** of Parliament and are **outside** Article 368.
+6. Three amendment tracks exist: **simple majority** (for example Arts. 2–4, 169); **special majority** under Article **368**; and **special majority plus ratification by half the States** for federal provisions.
+7. **Article 1** calls India a **Union of States**. The word **“federation”** is not used. Parliament may alter State areas, boundaries, and names under **Article 3**.
+8. Dual polity with a **strong Centre** is labelled **quasi-federal**. Scholar locks: **Wheare** = quasi-federal; **Austin** = cooperative; **Morris-Jones** = bargaining; **Jennings** = centralising tendency.
+9. Salient package locks: **Fundamental Rights + DPSP + Fundamental Duties**; a **Secular** State; **single citizenship**; **universal adult franchise**; an **independent** and **integrated** judiciary; Emergency provisions; and independent constitutional bodies.
+10. The third tier of government arrived with the **73rd and 74th Amendments in 1992** (Panchayats and Municipalities).
+11. Voting age became **18** by the **61st Amendment**. Do not lock adult franchise itself to 1992.
+12. The **Basic Structure** doctrine from ***Kesavananda Bharati* (1973)** limits amending power. Later *Minerva Mills* (1980) reinforced that Parliament cannot destroy that core.
+13. Basic-structure chronology for exams: *Shankari Prasad* (1951) → *Sajjan Singh* (1965) → *Golaknath* (1967) → **24th Amendment (1971)** → ***Kesavananda* (1973)** → *Indira Nehru Gandhi* (1975) → **42nd (1976)** → ***Minerva Mills* (1980)**.
+14. The Preamble opens with **“We, the People”** and describes India as a **Sovereign Socialist Secular Democratic Republic**. The word **Federal** is **not** in the Preamble.
+15. Preamble keyword counts: **Justice** has **three** limbs (social, economic, political); **Liberty** has **five**; **Equality** has **two**; **Fraternity** covers dignity of the individual and the **unity and integrity** of the Nation.
+16. The Preamble’s date line is **26 November 1949**. On **26 January 1950** the constitutional status in force was only **Sovereign Democratic Republic** — **Socialist** and **Secular** were not yet in the text.
+17. The **42nd Amendment (1976)** added **Socialist** and **Secular**, and inserted **integrity** with unity. Do not push those words back to 1950.
+18. The Preamble is a **part** of the Constitution after *Kesavananda* / *LIC*, but it is **not enforceable** like a Fundamental Right. **N.A. Palkhivala** called it the Constitution’s **identity card**.
+19. Borrowed-feature locks: **UK** — parliamentary system and writs; **USA** — Fundamental Rights and judicial review; **Ireland** — DPSP; **Canada** — residuary powers with the Centre; **Australia** — Concurrent List; **Germany** — Emergency suspension model; **Japan** — “procedure established by law” style of Article 21; **GOI Act 1935** — structural skeleton.
+20. **Universal adult franchise** and the **Basic Structure** politics are treated as **Indian originality**, not a carbon copy of the 1935 Act.
+21. Residuary powers rest with the **Centre** on the **Canada** pattern. Do not place them with the States as in the USA.
+22. Independent judiciary means freedom from organ control; **integrated** judiciary means **one hierarchy** under the Supreme Court. Do not swap the two meanings.
+23. Rule of law means no one is above the law; **constitutional supremacy** means the Constitution is the highest law. They are related but not identical labels.
+24. India synthesises **parliamentary law-making** with **judicial review** — neither pure UK parliamentary sovereignty nor pure USA judicial supremacy.
+25. Originally (1950) there were about **395 Articles**, **22 Parts**, and **8 Schedules**. The text has since expanded far beyond that 1950 frame.
+26. In normal times the system is meant to work **federally**; in Emergency it can work **like a unitary** system — a flexibility Ambedkar stressed against a rigid USA-style federation.
+27. Cooperative federalism stresses Centre–State collaboration (Austin’s line); competitive federalism stresses States competing for growth — both appear in current-affairs examples such as the GST Council and NITI Aayog, without changing the constitutional quasi-federal core.
+28. Criticisms such as “bag of borrowings” or “carbon copy of 1935” are exam distractors: the structure was borrowed, but republic, adult franchise, Fundamental Rights politics, and Basic Structure are not a mere copy.
 
 ---
 

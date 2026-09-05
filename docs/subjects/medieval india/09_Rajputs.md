@@ -15,40 +15,36 @@ Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput S
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-CLANS & STATES
-Sisodia — Mewar (Chittor → Udaipur) | Rathore — Marwar (Jodhpur/Mandore)
-Kachhwaha — Amber/Jaipur | Bhati — Jaisalmer | Hada — Bundi–Kota
-Bikaner = Rathore branch | Titles: Maharana/Rana = Mewar; Rao = Marwar
+1. **Sisodia** ruled **Mewar** (Chittor → Udaipur); **Rathore** ruled **Marwar** (Jodhpur); **Kachhwaha** ruled **Amber/Jaipur**.
+2. Title lock: **Maharana/Rana** for Mewar; **Rao** for Marwar and Bikaner.
+3. At **Khanwa on 16 March 1527**, Babur defeated **Rana Sanga**'s confederacy; never pair **Pratap** with Khanwa.
+4. **Maharana Pratap**, son of Udai Singh II, refused Akbar's mansab and held out from Aravalli bases such as **Kumbhalgarh** and **Gogunda**.
+5. At **Haldighati on 18 June 1576**, Pratap faced **Raja Man Singh** of Amber; **Akbar was not** present in the pass.
+6. Haldighati was tactically indecisive; Pratap escaped, fought a guerrilla war, and died in **1597**.
+7. Pratap's son **Amar Singh** made peace with **Jahangir in 1615**, keeping Mewar honour without personal court attendance.
+8. **Alauddin** sacked **Chittor in 1303**; **Akbar** took it in **1567–68** after Jaimal–Patta resistance and jauhar.
+9. Alauddin conquest order: **Gujarat 1299 → Ranthambore 1301 → Chittor 1303 → Warangal ~1310**.
+10. **Udaipur** became Mewar capital from **1559**, while **Chittor** remained the prestige fort.
+11. **Rana Hamir** belongs to **Mewar**; **Rana Chunda** is also Mewar, while **Rao Chunda** is the **Marwar** line.
+12. **Rana Hammir (c. 1326)** restored Mewar after the Khalji sack; he is **not** **Hamir Deva** of Ranthambore (died 1301).
+13. **Vijay Stambha** is **Kumbha**'s victory tower; **Kirti Stambha** is the older Jain tower — both stand at Chittor.
+14. **Jayata and Kumpa** fought for **Marwar** against Sher Shah at Sammel in **1544**.
+15. **Jauhar** is women's immolation at a falling fort; **saka** is the warriors' last charge.
+16. Pratap's allies included **Bhils under Punja** and Afghan commander **Hakim Khan Sur**.
+17. Other exam states: **Bhati–Jaisalmer**, **Hada–Bundi–Kota**, and **Bikaner** as a Rathore branch.
+18. **Rao Jodha** founded **Jodhpur in 1459**.
+19. After Akbar, most Rajput houses took mansabs; **Man Singh** of Amber held about **7000** zat and fought at Haldighati.
+20. **Malik Sarwar** founded **Jaunpur**, not Malwa — a common distractor beside ruler–state match lists.
+21. Khanwa sits near the **Agra–Fatehpur Sikri** belt; Haldighati is a narrow **Aravalli** pass near Gogunda.
+22. Cause–course–result for Khanwa: Sanga built a post-Panipat confederacy, Babur used Araba and Tulughma, and the Rajput challenge to early Mughal power broke.
+23. Cause–course–result for Haldighati: Pratap refused submission, Man Singh led the imperial wing, and Pratap withdrew to continue guerrilla resistance.
+24. **Tansen** served Rewa/Bhata before Akbar; do not treat **Udai Singh of Mewar** as his pre-Akbar patron lock.
 
-RANA SANGA (Sangram Singh)
-Rajput confederacy vs Babur | Mahmud Lodi also on Sanga’s side
-Khanwa 16 March 1527 — Babur (Tulughma + Araba) won | Sanga died ~1528
-NOT Haldighati, NOT Pratap
+---
 
-MAHARANA PRATAP
-Son of Udai Singh II | Refused Akbar | Chittor lost 1568; Udaipur capital from 1559
-Haldighati 18 June 1576 vs Raja Man Singh (Amber) — Akbar not in the pass
-Tactical indecisive; Pratap escaped (Chetak lore); guerrilla in Aravallis
-Died 1597 | Son Amar Singh peace with Jahangir 1615
-Allies: Bhils (Punja), Hakim Khan Sur (Afghan)
-
-CHITTOR
-Alauddin 1303 (Padmini/jauhar lore) | Akbar 1567–68 (Jaimal–Patta jauhar; Udai Singh fled)
-2022 Q59: Gujarat → Ranthambore → Chittor → Warangal = C (2-1-4-3)
-2025 Q30: Jaisalmer → Ranthambore → Chittor → Warangal = B (2-1-4-3)
-
-MATCH TRAPS
-Rana Hamir = Mewar ✓ | Rana Chunda ≠ Marwar (Rao Chunda = Marwar) — 2021 Q118 = B
-Rana Hammir (Mewar 1326) ≠ Hamir Deva (Ranthambore 1301)
-Vijay Stambha = Kumbha | Kirti Stambha = older Jain tower (both Chittor)
-Jayata/Kumpa = Marwar (2022 Q95) | Tansen before Akbar ≠ Udai Singh Mewar (2019 Q89)
-Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -215,23 +211,6 @@ A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
 **Trap:** Same **2-1-4-3** sequence as 2022 Q59, but the **option letter differs** — do not copy 2022’s **C** onto 2025.
 
 </details>
-
----
-
-## Consolidated Reference
-
-### Battle cards
-
-| Battle | Year | Rajput side | Opponent |
-|--------|------|-------------|----------|
-| Khanwa | 1527 | Sanga | Babur |
-| Chittor (Akbar) | 1567–68 | Jaimal–Patta | Akbar |
-| Haldighati | 1576 | Pratap | Man Singh |
-| Sammel | 1544 | Maldeo / Jayata–Kumpa | Sher Shah |
-
-### UP / exam geography
-
-Little direct UP territory; questions are **match + chronology**. Overlaps: Khanwa near Agra–Sikri belt; Rajput mansabdars in Mughal UP campaigns (Man Singh).
 
 ---
 

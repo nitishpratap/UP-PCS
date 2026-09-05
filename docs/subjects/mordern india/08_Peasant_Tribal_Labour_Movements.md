@@ -15,50 +15,38 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ---
 
-## Quick Revision â€” Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-~1763â€“1800  Sanyasiâ€“Fakir (Bengalâ€“Bihar)
-1817        Paika â€” Jagabandhu Bidyadhar (Odisha)
-1828        Ahom â€” Gomdhar Konwar (NOT 1815)
-1829        Khasi â€” Tirut Singh
-1831â€“32     Kol â€” Chotanagpur (Buddhu Bhagat & others)
-1855â€“56     Santhal Hul â€” Sidhu & Kanhu
-1859â€“60     Indigo Revolt â€” Biswas brothers (Nadia); Indigo Commission 1860
-~1872       Kuka (Namdhari) â€” Baba Ram Singh / Punjab
-1873â€“85     Pabna agrarian leagues (Bengal)
-1875        Deccan Riots â€” vs moneylenders; Relief Act 1879
-1899â€“1900   Munda Ulgulan â€” Birsa Munda
-1914        Tana Bhagat â€” Jatra Oraon
-1917        Champaran (Gandhi; tinkathia) â€” pointer only
-1918        UP Kisan Sabha â€” Indra Narayan Dwivedi
-1919        N.M. Joshi at ILO, Washington
-1920        AITUC (Lala Lajpat Rai first president)
-1921        Moplah / Malabar
-1921â€“22     Eka â€” Madari Pasi (Awadh)
-1928        Bardoli â€” Vallabhbhai Patel
-1946â€“47     Tebhaga â€” Bengal sharecroppers (2/3 demand)
-1947        INTUC (Congress)
-1955        BMS (BJP/RSS; Dattopant Thengadi)
+1. Hold three streams: **peasant** (rent, indigo, share), **tribal** (land–forest–*diku*), and **labour** (unions and wages). Method can overlap; the target of protest does not.
+2. The **Sanyasi–Fakir** rising (~**1763–1800**) in the Bengal–Bihar belt is the early chronology opener. Chronology order often starts here before Indigo and Pabna.
+3. **Paika Rebellion (1817)** in Odisha was led by **Jagabandhu Bidyadhar**. **Cause:** loss of paika privileges under Company land-revenue changes. **Course/Result:** armed rising suppressed; it remains a major pre-1857 tribal/peasant lock.
+4. **Ahom rising** is ~**1828** under **Gomdhar Konwar** — **not 1815** (a repeated false year). **Khasi Revolt (1829)** was led by **Tirut Singh**.
+5. **Kol Rebellion (1831–32)** in Chotanagpur involved leaders such as **Buddhu Bhagat**. **Santhal Hul (1855–56)** was led by **Sidhu and Kanhu** in the Rajmahal / Santhal Parganas belt.
+6. **Indigo Revolt (1859–60):** **Cause** — European planters’ forced indigo and *dadan*. **Course** — Biswas brothers in Nadia and wider Bengal resistance. **Result** — **Indigo Commission 1860** and a check on planter power.
+7. **Deccan Riots (1875):** **Cause** — moneylender (*sahukar*) grip in Poona–Ahmednagar. **Course** — crowds attacked creditor power. **Result** — **Deccan Agriculturists’ Relief Act, 1879**.
+8. **Pabna agrarian leagues (1873–85)** fought **zamindar rent-hikes** in Bengal — not the same grievance as indigo planters in 1859–60.
+9. **Munda Ulgulan (1899–1900)** was led by **Birsa Munda** against *diku* landlords and colonial intrusion in Chotanagpur. **Tana Bhagat (1914)** under **Jatra Oraon** is a later Oraon faith-and-protest stream.
+10. **Kuka (Namdhari) rising (~1872)** under **Baba Ram Singh** belongs to Punjab — keep it distinct from Bengal peasant leagues.
+11. **Champaran (1917)** attacked the **tinkathia** indigo system with Gandhi’s satyagraha method. **Kheda (1918)** was a Gujarat no-revenue satyagraha in crop-failure conditions.
+12. **UP Kisan Sabha (1918)** is locked to **Indra Narayan Dwivedi** (with Gauri Shankar Mishra) — **not** Baba Ramchandra, Sahajanand or Nehru.
+13. **Oudh Kisan Sabha (October 1920, Pratapgarh)** was mobilised by **Baba Ramchandra**. **Eka (1921–22)** under **Madari Pasi** stressed rent receipts and oath-bound unity in Hardoi–Bahraich–Sitapur.
+14. **Moplah / Malabar (1921)** mixed tenancy grievance with a violent phase under leaders such as **Ali Musliyar** and **Variyamkunnath**. **Bardoli (1928)** was Vallabhbhai Patel’s Gujarat no-tax satyagraha — different method and region.
+15. **Tebhaga (1946–47)** in Bengal demanded a **two-thirds** share for sharecroppers. **Telangana (1946–51)** was the CPI-led armed anti-*jagirdar* struggle in Hyderabad State — if the stem says Nizam / Razakars / *dalams*, lock Telangana.
+16. **Rampa / Manyam (1922–24)** was led by **Alluri Sitarama Raju** in the East Godavari agency tract. **All India Kisan Sabha (1936)** is locked to **Swami Sahajanand Saraswati** (Lucknow session).
+17. **AITUC** was founded in **1920** with **Lala Lajpat Rai** as first president. **INTUC (1947)** is the Congress labour wing. **BMS (1955)** was founded by **Dattopant Thengadi** (BJP/RSS stream).
+18. **N.M. Joshi** represented Indian labour at the **ILO, Washington, 1919**. **Madras Labour Union (1918)** is locked to **V.P. Wadia**.
+19. UPPCS often maps **UTUC → CPI(M)** in match keys even though **CITU (1970)** is the real CPI(M) trade-union centre — learn the exam map and the real-world correction together.
+20. **Bareilly 1816** (Mufti Muhammad Aiwaz) is not **Bareilly 1857** (Khan Bahadur Khan). Same city, different revolts and centuries.
+21. Match extras often recycled: **Paika–Jagabandhu**, **Bareilly–Mufti Muhammad Aiwaz**, **Malabar–Edachena Kungan**, **Sylhet–Radharam**.
+22. Bonded labour is **debt-tied unfree work**; factory wage labour is paid and free in law. The **Bonded Labour System (Abolition) Act, 1976** is the modern legal lock.
+23. Chronology killer set: **Sanyasi → Indigo → Kuka → Pabna**. Another set: **Pabna 1873–85 | Eka 1921–22 | Santhal 1855–56 | Tana Bhagat 1914**.
+24. Peasant vs tribal: rent / indigo / zamindar among settled cultivators versus land–forest–*diku* in tribal belts — first filter before picking the leader.
+25. Telangana closed when the CPI withdrew around **1951**; do not reduce the whole movement to the **1948** Police Action alone.
+26. UP Focus triple: **Dwivedi–UP Kisan Sabha 1918**, **Ramchandra–Oudh Kisan Sabha 1920**, **Madari Pasi–Eka 1921–22**. Mixing any two names fails the stem.
 
-2025 Q25 order: Sanyasi â†’ Indigo â†’ Kuka â†’ Pabna  =  4, 2, 3, 1
+---
 
-2018 Q23 NOT matched: Ahom 1815 âœ—  (correct ~1828)
-  Santhal 1855 / Kol 1831 / Khasi 1829 âœ“
-
-2019 Q18: Pabna 1873â€“85 | Eka 1922 | Santhal 1855â€“56 | Tana Bhagat 1914  â†’ B
-
-2024 Q138: Paikaâ€“Jagabandhu | Bareillyâ€“Mufti Muhammad Aiwaz
-           Malabarâ€“Edachena Kungan | Sylhetâ€“Radharam  â†’ 4 3 1 2
-
-2023 Q41: UP Kisan Sabha 1918 = Indra Narayan Dwivedi (not Ramchandra / Sahajanand / Nehru)
-2023 Q47: Moplah 1921 is last among Home Rule / Khilafat / Jallianwala / Moplah
-
-2022 Q123: BMSâ€“BJP | INTUCâ€“Congress | UTUCâ€“CPI(M) key | AITUCâ€“CPI
-2020 Q16: ILO 1919 labour rep = N.M. Joshi
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -79,7 +67,6 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ---
 
----
 
 ## 8.0 One clear picture â€” three streams of popular protest
 

@@ -15,39 +15,44 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 32 Must-Score Locks
 
-```
-Shramana / nastika: Buddha, Jina, Ajivika, Charvaka | Astika = Veda-accepting Hindu schools
+1. **Shramana** renouncer traditions (often **nastika**) include Buddhism, Jainism, Ajivika, and Charvaka. **Astika** schools accept the authority of the Veda.
+2. Buddha’s life geography runs **Lumbini** (birth) → **Bodh Gaya** (enlightenment) → **Sarnath** first sermon (UP) → **Kushinagar** Mahaparinirvana (UP).
+3. Key persons: wife **Yashodhara**, son **Rahula**, attendant **Ananda**, Vinaya specialist **Upali**, schismatic **Devadatta**, and first nun **Mahapajapati**.
+4. Buddhist Councils in order are **Rajagriha → Vaishali → Pataliputra → Kundalvana**. Remember place order, not a bare code.
+5. The **Tripitaka** has three baskets: **Vinaya** (monk rules), **Sutta** (discourses), and **Abhidhamma** (philosophy).
+6. The Second Council split produced **Sthaviravada** (elders) and **Mahasanghika** (great assembly). **Theravada** (Vibhajjavada) is the surviving Hinayana line linked with the Third Council.
+7. **Sarvastivada** teaches *sarvam asti*, uses **Sanskrit**, and is tied to the Fourth Council at **Kundalvana**. **Vaibhashika** trusts Abhidharma; **Sautrantika** trusts sutra only.
+8. **Hinayana** aims at the **arhat** and uses Pali. **Mahayana** elevates the **bodhisattva** ideal and uses Sanskrit. **Vajrayana** adds tantra and mantra (Padmasambhava toward Tibet).
+9. Mahayana philosophy locks: **Madhyamaka** of **Nagarjuna** and **Yogacara** of **Asanga–Vasubandhu**. Do not confuse Nagarjuna with **Nagasena**.
+10. Major bodhisattvas: **Avalokiteshvara / Padmapani** (compassion), **Manjushri** (wisdom), **Vajrapani** (power), **Maitreya** (future Buddha), and **Tara**.
+11. The *Milinda Panha* is a dialogue between Indo-Greek king **Menander (Milinda)** and monk **Nagasena**.
+12. Ashoka convened the **Third Council** at **Pataliputra**. **Dhamma-mahamatras** appear in his **14th year**. His Dhamma is **not** simply “taken from the Rahulovada.”
+13. **Barabar** caves were gifted to **Ajivikas**, not to Buddhists. **Ajanta** is later Buddhist painted cave architecture.
+14. **Chaitya** is a prayer hall. **Vihara** is a monastery. Keep the architectural pair straight.
+15. Jainism has **24 tirthankaras**. **Mahavira** is the 24th with the **lion** symbol and nirvana at **Pavapuri**. **Parshvanatha** is the 23rd with the **serpent** and a Varanasi birth tradition.
+16. Mahavira’s usual timeline is birth about **599 BCE**, renunciation at **30**, kevala at **42**, and nirvana at Pavapuri about **527 BCE** (alternate school dates exist).
+17. Nirvana geography: about **20** tirthankaras at **Sammed Shikhar** (Jharkhand). Four separate sites are **Ashtapad**, **Champapuri**, **Girnar**, and **Pavapuri**. **Vasupujya** is **not** Sammed Shikhar (correct = Champapuri).
+18. **Rishabhanatha** has an **Ayodhya** birth tradition. **Bahubali / Gomateshwara** is famous but is **not** one of the 24 tirthankaras.
+19. Digambara monks are sky-clad and deny women’s moksha as women. Svetambara monks wear white and allow women’s liberation. **Tattvartha Sutra** is accepted by both.
+20. Jain council memory: early Magadhan compilation under **Sthulabhadra** at **Pataliputra**, later work at Mathura / Vallabhi lines, and final Svetambara writing under **Devardhigani** at **Vallabhi**. **Vallabhi** is not Buddhist Vaishali or Kundalvana.
+21. Mahavira taught **five** great vows; Parshvanatha’s older set is remembered as **four**. **Anekantavada** is many-sided reality; **Syadvada** is seven-fold predication.
+22. Buddhism teaches **anatta** (no permanent soul). Jainism teaches a real **jiva**. That soul contrast is a standard confused pair.
+23. **Ajivika** doctrine centres on **Gosala** and fatalist **niyati**. **Charvaka / Lokayata** is materialist and accepts **perception** only (Brihaspati tradition).
+24. **Bhagavatism** is the early **Vasudeva-Krishna** cult centred on **Mathura**. The **Heliodorus** pillar at Besnagar shows a Greek ambassador as a Bhagavata.
+25. Uttar Pradesh Buddhist circuit locks: **Sarnath** (first sermon), **Kushinagar** (death), **Shravasti / Jetavana**, **Sankisa** (descent tradition), and **Kaushambi**.
+26. Uttar Pradesh Jain–Hindu locks: Parshvanatha–**Varanasi**, Rishabha–**Ayodhya**, Jain images at Mathura **Kankali Tila**, Krishna–**Mathura–Vrindavan**, and Kashi Vishwanath.
+27. **Lumbini** (Buddha’s birth) is in **Nepal**, not Uttar Pradesh — a common geography trap.
+28. Four Noble Truths diagnose **dukkha**. The **Eightfold Path** is the Magga prescription that ends craving.
+29. Mahasanghika is an early Vaishali **split school**. Mahayana is the later **great vehicle**. Do not treat the names as identical.
+30. Ashokan patronage spread stupas and Dhamma officers, but Barabar remains an **Ajivika** gift. Ghantasala is remembered for **Aryaka-pillars** on a platform.
+31. Shaivism centres on **Shiva / linga**. Vaishnavism centres on **Vishnu and avatars**. Bhagavatism is the early Krishna-Vasudeva stream inside the wider Vaishnava world.
+32. Heterodox sixth-century teachers include the six titthiyas: Purana Kassapa, Gosala, Ajita, Pakudha, Nigantha (Mahavira), and Sanjaya — the wider shramana field around Buddha.
 
-Buddha: Lumbini birth → Bodh Gaya enlightenment → Sarnath Deer Park sermon (UP) → Kushinagar death (UP)
-Wife Yashodhara | son Rahula | Ananda attendant | Upali Vinaya | Devadatta schism | Mahapajapati = first nun
-Councils 2025 Q105: Rajagriha → Vaishali → Pataliputra → Kundalvana  =  2-1-4-3
-Tripitaka: Vinaya | Sutta | Abhidhamma
-2nd Council split: Sthaviravada vs Mahasanghika | Theravada = Vibhajjavada (3rd Council) | only surviving Hinayana
-Sarvastivada = sarvam asti + Sanskrit + Kundalvana | Vaibhashika vs Sautrantika = Abhidharma vs sutra-only
-Mahayana = bodhisattva + Sanskrit | Madhyamaka (Nagarjuna) | Yogacara (Asanga–Vasubandhu) | Vajrayana = tantra, Padmasambhava → Tibet
-Bodhisattvas: Avalokiteshvara/Padmapani (compassion) | Manjushri (wisdom) | Vajrapani (power) | Maitreya (future Buddha) | Tara (female saviour)
-Milind Panho = Menander ↔ Nagasena  (2023 Q24)
-6 titthiyas: Purana Kassapa | Gosala | Ajita | Pakudha | Nigantha (Mahavira) | Sanjaya
+---
 
-Ashoka: 3rd council Pataliputra | Dhamma-mahamatras 14th year ✓ | Rahulovada = source of his Dhamma ✗  (2024 Q20 = Only 2)
-Barabar caves → Ajivikas, not Buddhists
-Ghantasala = Aryaka-pillars on platform  (2022 Q80)
-
-Jain 24 symbols | Mahavira 24th lion Pavapuri | Parshva 23rd serpent (Varanasi)
-Mahavira timeline: b. ~599 → renounce 30 → kevala 42 → nirvana Pavapuri ~527 (alt. 540–468)
-Nirvana rule: 20 = Sammed Shikhar (Jharkhand) | 4 separate = Ashtapad, Champapuri, Girnar, Pavapuri
-Rishabha born Ayodhya (UP) | Bahubali = Gomateshwara (not one of 24)
-2021 NOT matched: Vasupujya ≠ Sammedashikhar  (correct = Champapuri)
-Jain councils: Pataliputra (Sthulabhadra, ~300 BCE, 12 Angas) → Mathura/Skandila + Vallabhi I/Nagarjuna → Vallabhi II (Devardhigani, Agamas written)
-Tattvartha Sutra = both sects | Vallabhi ≠ Vaishali (Buddhist 2nd) ≠ Kundalvana (Kanishka)
-
-Ajivika = Gosala + niyati | Charvaka = perception-only, Brihaspati
-Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|

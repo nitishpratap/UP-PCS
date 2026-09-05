@@ -15,52 +15,38 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-EDUCATION LADDER
-1813   Charter Act — one lakh rupees for education + missionary entry allowed
-1823   Committee of Public Instruction — Orientalist vs Anglicist fight begins
-1835   Macaulay's Minute — English for higher education (Bentinck)
-1854   Wood's Despatch — full school-to-university plan (Dalhousie)
-1857   Universities of Calcutta, Bombay, Madras
-1882   Hunter Commission — primary education (Ripon)
-1902   Raleigh Commission — basis for the 1904 Act
-1904   Indian Universities Act — Curzon control
-1906   National Council of Education — Swadeshi-era national schooling (Bengal)
-1917–19 Sadler Commission — Calcutta University / higher education
-1929   Hartog Committee — primary wastage, consolidate don't just expand (Simon Commission wing)
-1937   Wardha Scheme — Gandhi's Basic Education (Nai Talim)
-1944   Sargent Plan — post-war official blueprint
+1. The **Charter Act, 1813** set aside **₹1 lakh a year** for education and also allowed missionary entry. How to spend the grant sparked the Orientalist–Anglicist fight.
+2. **Orientalists** wanted Sanskrit, Arabic and Persian learning. **Anglicists** wanted English and Western science. The fight ran through the **Committee of Public Instruction** from **1823**.
+3. **Macaulay’s Minute (1835)**, accepted under **Bentinck**, settled English for higher education and the downward-filtration idea. It was a **policy decision**, not a full school system.
+4. **Wood’s Despatch (1854)** under **Dalhousie** was the full ladder from primary school to university, with grants-in-aid. Universities of **Calcutta, Bombay and Madras** followed in **1857**.
+5. The **Hunter Commission (1882)** under **Ripon** focused on **primary education** and local/private effort. The **Sadler Commission (1917–19)** reviewed **Calcutta University / higher education**.
+6. The **Hartog Committee (1929)** flagged primary wastage and said consolidate, don’t just expand. The **Sargent Plan (1944)** was the post-war official blueprint. Hartog ≠ Sargent.
+7. The **Raleigh Commission (1902)** fed the **Indian Universities Act, 1904** under **Curzon**, which tightened government control over university senates.
+8. The **National Council of Education (1906)** was a Swadeshi-era nationalist schooling body in Bengal. The **Wardha Scheme (1937)** was Gandhi’s **Basic Education (Nai Talim)** — different projects, different decades.
+9. The **Asiatic Society of Bengal (1784)** was founded by **Sir William Jones**. **Warren Hastings** encouraged it and **declined** the presidency.
+10. **Serampore College (1818)** was a Danish-territory missionary college linked to **Carey, Marshman and Ward**. **Fort William College (1800)** was Wellesley’s Company civil-servant college — do not swap.
+11. **Hicky’s Bengal Gazette (1780)** was the first newspaper in Calcutta. **Wellesley’s Censorship of Press Act (1799)** brought wartime pre-censorship.
+12. **Adam’s Licensing Regulations (1823)** tightened control (Buckingham deported). **Metcalfe’s Act (1835)** repealed licensing — Metcalfe is the **“Liberator of the Press.”**
+13. **Canning’s temporary Licensing Act (1857)** was Revolt-year control. **Lytton’s Vernacular Press Act (1878)** curbed the vernacular press; **Ripon repealed it in 1882**.
+14. Later press locks: **Newspapers (Incitement to Offences) Act, 1908** (Minto); **Indian Press Act, 1910** revived general pre-censorship; **Press (Emergency Powers) Act, 1931** belonged to the Civil Disobedience era.
+15. Vernacular Press Act **1878** is Lytton’s vernacular-only curb. Indian Press Act **1910** is broader pre-censorship — do not treat them as the same law.
+16. UP newspaper place locks: **Swadesh — Gorakhpur**; **Bharat Bandhu — Hathras**; **Satyawadi — Agra**; **Shakti — Almora**. Tilak’s **Kesari** is Pune, not Gorakhpur.
+17. **Archbold** was Principal of **MAO Aligarh**, Government College Dacca, and **Muir Central College Allahabad**. He was **not** Principal of Lahore College.
+18. Education ladder order for chronology: **1813 grant → 1835 Macaulay → 1854 Wood → 1857 universities → 1882 Hunter → 1904 Universities Act → 1906 NCE → 1917–19 Sadler → 1929 Hartog → 1937 Wardha → 1944 Sargent**.
+19. Wardha is **Gandhian** Basic Education. Sargent is a **British official** post-war plan. Mixing them is a standard trap.
+20. Hunter is primary-stage under Ripon. Sadler is university-stage for Calcutta. Hartog is primary wastage under the Simon Commission wing.
+21. Ilbert Bill **1883** (Ripon) is about Indian judges trying Europeans. It is **not** the Vernacular Press Act, though both sit in the Ripon–Lytton contrast set.
+22. Downward filtration after 1835 meant educating a small English-knowing elite who would supposedly filter knowledge downward — Wood later tried to build a fuller public system.
+23. Nationalist counter-schooling in **1906** answered Curzon’s control after **1904**. Keep NCE in the Swadeshi education column, not in the Wardha column.
+24. Press freedom was never linear: Wellesley control → Adam licensing → Metcalfe liberation → 1857 relapse → Lytton vernacular curb → Ripon repeal → 1908–10 tightening → 1931 emergency powers.
+25. MAO College (Aligarh, Sir Syed) and Muir Central College (Allahabad) both appear in Archbold’s career — useful when a stem lists colleges and asks which one he did **not** head.
+26. Jones vs Hastings on the Asiatic Society is a pure chair trap: **Jones founded and presided**; Hastings only encouraged and stepped aside.
 
-Serampore (Danish territory) — Carey / Marshman / Ward mission; Serampore College 1818
+---
 
-Asiatic Society of Bengal 1784 — founder-president Sir William Jones
-Warren Hastings encouraged it and declined the presidency (2021 Q40 / 2019 Q22)
-
-Archbold WAS Principal of: MAO Aligarh, Government College Dacca, Muir Central College Allahabad
-Archbold was NOT Principal of Lahore College (2024 Q136)
-
-PRESS LADDER
-1780   Hicky's Bengal Gazette — first newspaper, Calcutta
-1799   Wellesley's Censorship of Press Act — wartime pre-censorship
-1823   Adam's Licensing Regulations — Buckingham deported
-1835   Metcalfe repeals licensing — called "Liberator of the Press"
-1857   Canning's temporary Licensing Act — Revolt-year control
-1878   Vernacular Press Act — Lytton
-1882   Vernacular Press Act repealed — Ripon
-1908   Newspapers (Incitement to Offences) Act — Minto
-1910   Indian Press Act — revives pre-censorship
-1931   Press (Emergency Powers) Act — Civil Disobedience era
-
-2022 newspaper places (paper has Swadesh, not Tilak's Kesari):
-Swadesh — Gorakhpur
-Bharat Bandhu — Hathras
-Satyawadi — Agra
-Shakti — Almora
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -81,7 +67,6 @@ Shakti — Almora
 
 ---
 
----
 
 ## 7.0 One clear picture — how British India built (and controlled) schools and papers
 

@@ -15,41 +15,36 @@ Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motion
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-UNIVERSE: Big Bang Gamow ~13.8 bn | Hubble expand | Steady State Hoyle | Nebular Kant–Laplace
- AU / light-year | Milky Way = spiral
-SOLAR: MVEMJSUN | hottest=Venus | largest=Jupiter | rings=Saturn | fastest orbit=Mercury
- Asteroid belt = Mars–Jupiter | Ganymede = largest moon | Titan = Saturn | Phobos+Deimos = Mars
- Saturn paper methane | Mars = life-candidate + 2018 lake | Mangalyaan = first Indian Mars
- Solar eclipse = New Moon | Lunar = Full Moon | light ~8 min 20 s
-MOTION: Rotation 24 h (day) | Revolution 365¼ d (year/leap) | Perihelion ~3 Jan | Aphelion ~4 Jul
- Seasons = tilt, not distance | Equinox 21 Mar/23 Sep | Solstice 21 Jun/22 Dec
-LAT/LONG: 1° lat ≈ 111 km | Tropics 23½° | Circles 66½° | India Tropic/IST states
-TIME: 15° = 1 h | IST = 82°30′ E = GMT+5:30 (Mirzapur) | IDL ≈ 180° (zigzag; west side +1 day)
-ATM: Troposphere = weather | Stratosphere = OZONE UV (2018/2023/2025) | Meso coldest | Thermo/Ionosphere
- Earth heated mainly by LONG-WAVE terrestrial (2022) | lapse ~6.5°C/km | Agra vs Darjeeling = altitude (2022)
- Diffusion of light → DUST (2021) | Weather = short; Climate = long average
-GHG: H2O, CO2, CH4, N2O, O3, CFCs | NOT argon (2022) | Kyoto = climate/carbon credit | Montreal = ozone
-EL NIÑO: warm Peru current | LESS upwelling → LESS plankton/fish (2023 Only 1) | India monsoon
-CORIOLIS: right NH / LEFT SH (2023) | 0 at equator | Ferrel’s law
-JET: high-altitude WESTERLIES (polar + STJ) | TEJ = easterly exception | 300–500 km/h | 2024 A false (not “easterly”)
-BELTS: ITCZ/eq low (doldrums) | Subtrop high 30° (horse latitudes) | Subpolar low 60° | Polar high
- Trades | Westerlies | Polar easterlies | Roaring Forties ~40°S | Furious 50s | Shrieking 60s
- ITCZ = LOW | solstice → belts shift (Med 2024)
-INTERIOR: Sial (cont.) / Sima (ocean) / Nife (core)
- Crust–Moho–Mantle–Gutenberg 2900 km (S stop)–Lehmann–inner core
- P-shadow ~103–142° | S-shadow beyond ~103°
-DRIFT: Wegener 1912 | Pangaea + Panthalassa | plates: diverge / converge / transform
-FOLD = Himalaya, Alps, Andes, Rockies | FAULT/BLOCK = Vosges, Black Forest, Sierra Nevada, Rhine
-VOLCANO: Shield Mauna Loa | Composite Fuji/Etna/Vesuvius | Cinder Paricutin | Fissure Deccan | Caldera Krakatoa
- Stromboli = “lighthouse of Mediterranean” | Barren Island = India’s only active (Andaman)
- Ring of Fire ≠ Kilimanjaro | 2021 volcano match: Rainier USA, Etna Italy, Paricutin Mexico, Apo PH
-EQ BELTS: Ring of Fire | Mid-Atlantic | Alpine–Himalayan | East African Rift | India zones
-EARTH SYSTEM: lithosphere · atmosphere · hydrosphere · biosphere interact
- Rocks: igneous / sedimentary / metamorphic cycle (awareness)
-```
+1. Big Bang awareness is linked to **Gamow** (~13.8 billion years) and Hubble’s expanding universe. Steady State is linked to **Hoyle**. Nebular hypothesis is **Kant–Laplace**. The Milky Way is a **spiral** galaxy.
+2. Solar-system order mnemonic is **MVEMJSUN**. **Venus** is the hottest planet (greenhouse). **Jupiter** is the largest. **Saturn** has the clearest ring system. **Mercury** has the fastest orbit.
+3. The asteroid belt lies between **Mars and Jupiter**. The largest moon is **Ganymede** (Jupiter). Titan belongs to Saturn; Phobos and Deimos belong to Mars.
+4. In one UPPCS framing, Saturn’s atmosphere lock is **methane**. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). **Mangalyaan** was India’s first Mars orbiter.
+5. A **solar eclipse** occurs at **New Moon**. A **lunar eclipse** occurs at **Full Moon**. Sunlight takes about **8 minutes 20 seconds** to reach Earth.
+6. Earth **rotates** in about **24 hours** (day–night) and **revolves** in about **365¼ days** (year / leap year). **Perihelion** is about **3 January**; **aphelion** about **4 July**.
+7. Seasons are caused by the **23½° axial tilt**, not by perihelion distance. Equinoxes are about **21 March / 23 September**; solstices about **21 June / 22 December**.
+8. One degree of latitude is about **111 km**. Tropics sit at **23½°**; polar circles at **66½°**. Time zones use roughly **15° = 1 hour**.
+9. India’s Standard Time is based on **82°30′ E** near **Mirzapur** and is **GMT + 5 hours 30 minutes** for the whole country. The International Date Line is near **180°** (zigzag); the west side is a day ahead.
+10. Atmosphere layers: **troposphere** holds weather; **stratosphere** holds the **ozone** UV shield; mesosphere is coldest; thermosphere / ionosphere lie above.
+11. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Same-latitude Agra vs Darjeeling temperature contrast is an **altitude** lock.
+12. Diffusion / scattering of light is linked to **dust** in one Prelims framing. **Weather** is short-term; **climate** is the long-term average.
+13. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Argon is not** a greenhouse gas. **Kyoto** deals with climate / carbon; **Montreal** deals with ozone.
+14. **El Niño** is a warm eastern Pacific / Peru current phase with **less upwelling**, so **plankton and fish fall**. It can disturb the Indian monsoon.
+15. Coriolis deflects to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere**. It is zero at the equator (Ferrel’s law awareness).
+16. Jet streams are mainly high-altitude **westerlies** (polar jet and subtropical jet). The **Tropical Easterly Jet (TEJ)** is the summer easterly exception. Speeds can reach **300–500 km/h**. “All jets are easterly” is false.
+17. Pressure belts: ITCZ / equatorial **low** (doldrums); subtropical **high** near **30°** (horse latitudes); subpolar low near **60°**; polar high. Planetary winds are trades, westerlies and polar easterlies.
+18. **Roaring Forties** are strong westerlies near **40°S** (with Furious Fifties / Shrieking Sixties farther south). The ITCZ is a **low**; belts shift with the solstice seasons.
+19. Interior shells: **Sial** (continental crust), **Sima** (oceanic crust), **Nife** (core). Discontinuities: crust–**Moho**–mantle–**Gutenberg** (~2900 km, S-wave stop)–**Lehmann**–inner core.
+20. P-wave shadow is about **103–142°**; S-wave shadow lies beyond about **103°** because the outer core is liquid.
+21. **Wegener (1912)** proposed continental drift with **Pangaea** and **Panthalassa**. Plate margins are divergent, convergent or transform.
+22. **Fold mountains** include the Himalaya, Alps, Andes and Rockies. **Fault / block mountains** include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
+23. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan**), caldera (**Krakatoa**). **Stromboli** is the “lighthouse of the Mediterranean.” **Barren Island** is India’s only active volcano (Andaman).
+24. Match locks: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
+25. Earthquake–volcano belts include the Pacific **Ring of Fire**, Mid-Atlantic Ridge, Alpine–Himalayan belt and East African Rift. India’s seismic map uses Zones II–V.
+26. Earth’s spheres — lithosphere, atmosphere, hydrosphere and biosphere — interact. Rocks cycle among igneous, sedimentary and metamorphic states.
+27. Heat-budget awareness: about **35**/100 of insolation is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
+28. Nuclear and geothermal energy are **not** forms of stored solar energy. India’s Tropic of Cancer runs through the **middle** of the country — India is not wholly tropical and is not split into equal tropical halves by that line alone.
 
 ---
 
@@ -85,8 +80,6 @@ EARTH SYSTEM: lithosphere · atmosphere · hydrosphere · biosphere interact
 | Heat budget | Earth absorbs ~**51**/100; planet albedo ~**35** reflected | “All 100 heat the air directly” | ऊष्मा बजट |
 | Seasons cause | **23½° tilt** | Perihelion distance | ऋतु |
 | Divergent boundary | Plates **apart** / MOR | Convergent trench | अपसारी |
-
----
 
 ---
 
@@ -361,7 +354,6 @@ Nuclear **and** geothermal are **not** stored solar energy (2022 Q139). Biomass 
 
 ENSO is the equatorial **Pacific** ocean–atmosphere couple. The Southern Oscillation is the Darwin–Tahiti pressure see-saw.
 
-
 | | El Niño | La Niña |
 |--|---------|---------|
 | E. Pacific | **Warm** current off **Peru** | Cool |
@@ -593,43 +585,10 @@ D. 4, 3, 2, 1
 
 India seismic **zones II–V**. NDMA chair = **PM**.
 
----
-
-## Consolidated — 25 Must-Score Locks
-
-1. Ozone UV layer = **stratosphere**; CFCs deplete it.
-2. Atmosphere heated by **long-wave terrestrial** radiation.
-3. El Niño = warm Peru; **plankton fall**.
-4. Coriolis: **left in SH**.
-5. Jets = **westerly** (TEJ easterly exception); 2024 A false.
-6. ITCZ = **low**; belts shift with solstice.
-7. GHG ≠ **argon**; Kyoto = climate; Montreal = ozone.
-8. Saturn paper lock = **methane**; Mars = life + 2018 lake; Mangalyaan = first Indian Mars.
-9. IST = **82°30′ E, +5:30**; IDL ≈ 180°.
-10. Seasons = **23½° tilt**; perihelion in **January**.
-11. Fold = Himalaya/Alps/Andes; fault = Vosges/Sierra Nevada.
-12. Kilimanjaro ≠ Ring of Fire.
-13. Rainier USA, Etna Italy, Paricutin Mexico, Apo PH.
-14. Moho / Gutenberg (S stop) / Lehmann.
-15. Wegener 1912 — Pangaea.
-16. Weather = troposphere; climate = long average.
-17. Agra–Darjeeling same lat, different T = **altitude**.
-18. Nuclear and geothermal ≠ stored solar.
-19. India Tropic “middle” yes; **equal halves / wholly tropical** no.
-20. India quake **zones**; India **IST/Tropic states**; India **monsoon+IOD**.
-21. Nebular = **Kant–Laplace**; Steady State = **Hoyle**; Big Bang = **Gamow**.
-22. Hottest = **Venus**; asteroid belt = **Mars–Jupiter**; largest moon = **Ganymede**.
-23. Solar eclipse = **New Moon**; lunar = **Full Moon**.
-24. Heat budget: ~**35** reflected, ~**51** to surface; heating then **long-wave**.
-25. Roaring Forties = **40°S**; horse latitudes = **30°**; Stromboli = Med **active**; Sial ≠ Sima.
-
----
-
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.  
 > **Format mix:** 70 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard NCERT angles)
-
 
 **Q1.** The ozone layer that absorbs UV exists in the:
 
@@ -1830,7 +1789,6 @@ D. 2024
 </details>
 
 ---
-
 
 **Q66.** Which set correctly names Earth’s four interacting spheres in physical geography?
 

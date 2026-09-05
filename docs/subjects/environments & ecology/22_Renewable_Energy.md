@@ -14,57 +14,38 @@ Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy |
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 26 Must-Score Locks
 
-```
-RENEWABLE = Replenished on human timescale (sun, wind, water, biomass, geothermal)
-  Nuclear = low-carbon but NOT "renewable" in most exam MCQs
+1. **Renewable** energy replenishes on a human timescale — sun, wind, water, biomass, geothermal. **Nuclear** is low-carbon but usually **not** counted as renewable in exam MCQs.
+2. **Solar PV** turns sunlight directly into electricity. **CSP** uses mirrors to make heat, then steam and turbines.
+3. The **National Solar Mission** began in **2010** under NAPCC. India later chased about **100 GW** solar by 2022 and **500 GW** non-fossil capacity by **2030** (COP26 pledge track).
+4. **Bhadla** in Rajasthan is India’s mega solar-park lock. **PM-KUSUM** supports farmer solar pumps. **OSOWOG** is One Sun One World One Grid.
+5. The **International Solar Alliance** began in **2015** (India–France, COP21). Headquarters is **Gurugram**. It is a treaty-based solar IGO — do not freeze membership at an outdated “38 members” figure.
+6. Wind power converts kinetic energy of air; power scales roughly with the **cube** of wind speed. Leading states include **Tamil Nadu, Gujarat, and Karnataka**. Supply is intermittent and needs balancing or storage.
+7. **Biomass** is energy from organic matter. **Biogas** from anaerobic digestion is mainly **methane (CH₄) and carbon dioxide (CO₂)** — not a butane/carbon-monoxide pair.
+8. Bagasse cogeneration, **GOBAR-Dhan**, and **SATAT** (bio-CNG) are biomass-policy neighbours.
+9. **Geothermal** uses Earth’s internal heat. Indian prospect sites include **Puga (Ladakh), Manikaran (Himachal), and Tattapani (Chhattisgarh)**. It is **not** sun-derived and is not yet a major Indian capacity source.
+10. **Tidal** energy comes from Moon-driven sea-level change. India’s best potential is often locked to the **Gulf of Khambhat**, then Gulf of Kutch. Tidal is **not** the same as wave energy.
+11. **Small hydro** under MNRE is **≤25 MW**. Above that is treated as large hydro. Himalayan streams hold large SHP potential.
+12. The **Ramganga Project** in Garhwal, Uttarakhand, is about **198 MW** — a hydro lock that also matters for irrigation links toward UP.
+13. **Green hydrogen** is H₂ from water electrolysis powered by **renewable** electricity. Grey hydrogen comes from natural gas; blue adds CCS to gas routes.
+14. The **National Green Hydrogen Mission** (January **2023**) targets about **5 MMT** per year by **2030**.
+15. Solar ≠ wind ≠ tidal ≠ geothermal. Source and physics differ even when all are “clean.”
+16. ISA HQ is Gurugram, not Paris and not New Delhi as a casual guess.
+17. Biogas major pair is CH₄ + CO₂. Wrong gas pairs are frequent traps.
+18. Geothermal and nuclear are not “derived from the Sun” in the renewable-sun family sense used in many stems.
+19. India still lacks a large commercial tidal plant even where potential maps look strong.
+20. Green / grey / blue hydrogen colours mark production route and carbon intensity — not the colour of the gas.
+21. UP colour: Mirzapur solar collaboration history, western UP bagasse cogeneration, limited wind, Ramganga water–power links.
+22. CSP is heat-first; PV is photon-to-electron. Do not describe CSP as a simple rooftop panel.
+23. Wind leadership is southern and western coastal/plateau states — not a default UP lock.
+24. Small hydro ceiling **25 MW** is the MNRE exam number; do not invent a different cutoff.
+25. OSOWOG is a grid-connectivity vision around solar; it is not a biomass scheme.
+26. Non-fossil **500 GW by 2030** is a capacity ambition lock beside older Solar Mission milestones.
 
-SOLAR:
-  PV = sunlight → electricity | CSP = mirrors → heat → steam → turbine
-  National Solar Mission 2010 (NAPCC) | ~100 GW solar by 2022
-  500 GW non-fossil capacity by 2030 (COP26)
-  Bhadla (Rajasthan) = mega solar park
-  ISA 2015 (India-France, COP21) | HQ Gurugram | treaty-based IGO
-  OSOWOG = One Sun One World One Grid | PM-KUSUM = farmer solar pumps
+---
 
-WIND:
-  Kinetic energy → turbines | Power ∝ wind speed³
-  Leaders: Tamil Nadu, Gujarat, Karnataka | Onshore dominant
-  Intermittent — needs grid balancing / storage
-
-BIOMASS / BIOGAS (2025 Q28):
-  Organic matter → energy | Biogas = anaerobic digestion
-  Major constituents: METHANE (CH₄) + CARBON DIOXIDE (CO₂)
-  NOT butane/carbon monoxide as major pair
-  Bagasse (sugar mills), GOBAR-Dhan, SATAT (bio-CNG)
-
-GEOTHERMAL:
-  Earth's internal heat → steam/hot water → turbine
-  India sites: Puga (Ladakh), Manikaran (HP), Tattapani (CG)
-  NOT major Indian capacity yet | NOT derived from Sun
-
-TIDAL:
-  Moon's gravity → tidal rise/fall → barrage/turbine
-  India potential: Gulf of Khambhat (highest), Gulf of Kutch
-  No large commercial tidal plant in India yet | ≠ wave energy
-
-SMALL HYDRO (SHP):
-  MNRE: ≤25 MW = small hydro | >25 MW = large hydro
-  Himalayan enormous potential (2025 Q31 Stmt 1 TRUE)
-  Ramganga Project: Garhwal UK | 198 MW (2024 Q72)
-
-GREEN HYDROGEN:
-  H₂ from water electrolysis + RENEWABLE electricity
-  National Green Hydrogen Mission Jan 2023 | 5 MMT/year by 2030
-  Green = renewable | Grey = natural gas | Blue = gas + CCS
-
-TRAPS: Biogas = CH₄+CO₂ | ISA "38 members" outdated (Q109)
-  Q31 Stmt 2 FALSE (Nepal ≠ zero Indian hydro)
-  Geothermal/Nuclear NOT sun-derived | Tidal ≠ wave
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -311,21 +292,6 @@ Options include: Dam length 825.8 m | Hydropower **198 MW** | Location Garhwal |
 
 ---
 
-## Consolidated Reference
-
-| Source | Technology | India lock |
-|--------|------------|------------|
-| Solar | PV, CSP | Bhadla, ISA Gurugram |
-| Wind | Turbines | Tamil Nadu leader |
-| Biomass | Combustion, biogas | Bagasse UP mills |
-| Geothermal | Earth heat | Puga Valley |
-| Tidal | Barrage/turbine | Khambhat coast |
-| Small hydro | ≤25 MW | Himalayan streams |
-| Green H₂ | Electrolysis | 5 MMT by 2030 |
-
-**UP locks:** Mirzapur solar (France collaboration 2018) | Western UP bagasse cogeneration | Ramganga irrigation/power to UP | Limited UP wind.
-
----
 
 ## Practice Zone
 

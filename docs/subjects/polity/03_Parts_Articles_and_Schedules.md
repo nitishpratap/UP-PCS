@@ -15,33 +15,40 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-PARTS (traps first):
-  III=FR | IV=DPSP | IVA=Duties | V=Union | VI=States | VIII=UTs
-  IX=Panchayats | IXA=Municipalities | IXB=Cooperatives
-  X=Scheduled & Tribal Areas | XI=Union–State Relations (NOT Municipalities/Tribunals)
-  XIII=Trade/Commerce | XIV=Services | XIVA=Tribunals | XV=Elections
-  XVII=Official Language | XVIII=Emergency | XX=Amendment | XXI=Temp/Special
+1. The Constitution is organised into **Parts**. Originally there were **22 Parts**; today there are about **25 Parts** (including IVA, IXA, IXB, XIVA). **Part VII** stands **repealed**.
+2. **Part III** is **Fundamental Rights** (justiciable). **Part IV** is **DPSP** (non-justiciable). **Part IVA** is **Fundamental Duties**.
+3. **Part IX** is Panchayats, **Part IXA** is Municipalities, and **Part IXB** is Cooperative Societies. Do not park Municipalities in Part XI.
+4. **Part XI** is **Relations between the Union and the States**. **Part XIVA** is **Tribunals**. Confusing XI with Municipalities or Tribunals is a classic wrong-match trap.
+5. **Part V** is the Union; **Part VI** is the States; **Part VIII** is Union Territories; **Part X** is Scheduled and Tribal Areas; **Part XV** is Elections; **Part XVII** is Official Language; **Part XVIII** is Emergency; **Part XX** is Amendment; **Part XXI** holds temporary, transitional and special provisions (**371–371J**).
+6. The **Attorney General** sits under **Part V**, not under **Part XIII** (Trade, Commerce and Intercourse). Citizenship sits in **Part II**, not Part I.
+7. Schedule locks: **First** = territories of States and UTs; **Second** = emoluments; **Third** = oaths and affirmations; **Fourth** = Rajya Sabha seat allocation.
+8. **Fifth Schedule** covers Scheduled Areas and Scheduled Tribes in many States. **Sixth Schedule** covers tribal areas of **Assam, Meghalaya, Tripura and Mizoram** with Autonomous Councils.
+9. **Seventh Schedule** holds the Union, State and Concurrent Lists under **Article 246**. **Eighth Schedule** lists **22** official languages.
+10. **Ninth Schedule** validates certain Acts (land-reform era protection, later limited by court review). **Tenth Schedule** is anti-defection.
+11. **Eleventh Schedule** lists **29** Panchayat subjects (**73rd**). **Twelfth Schedule** lists **18** Municipality subjects (**74th**). Do not swap 29 and 18.
+12. In the Eighth Schedule, languages such as **Nepali, Dogri and Bodo** are **in**. **Bhojpuri** is **out** of the Schedule.
+13. **Article 1** declares India a **Union of States**. **Article 3** lets Parliament form or alter States (name, area, boundaries). **Article 12** defines **State** for Fundamental Rights. **Article 13** voids inconsistent laws.
+14. Equality cluster: **Articles 14–18**. Freedom cluster: **Article 19**’s **six** freedoms. Life and personal liberty: **Article 21**. Free and compulsory education ages **6–14**: **Article 21A**.
+15. **Article 32** is the Supreme Court remedy for Fundamental Rights. **Article 226** is the High Court’s wider writ power. **Article 51A** holds Fundamental Duties.
+16. Pardon locks: **Article 72** (President) and **Article 161** (Governor). Ordinance locks: **Article 123** (President) and **Article 213** (Governor).
+17. Union executive articles: **74** (aid and advice), **75** (Council of Ministers), **76** (Attorney General). **Article 110** defines a Money Bill. **Article 148** is the CAG.
+18. **Article 263** is the Inter-State Council. **Article 280** is the Finance Commission. **Article 300A** is the legal right to property. **Article 312** enables All-India Services. **Article 324** is the Election Commission.
+19. Emergency articles: **352** (national), **356** (State / President’s Rule), **360** (financial). **Article 368** is amendment of the Constitution.
+20. Special-State articles run **371–371J** in Part XXI. **Article 393** is the short title.
+21. Part III article span is roughly **12–35**. Part IV is **36–51**. Duties sit at **51A** (added by the **42nd Amendment**; eleventh duty by the **86th**).
+22. Panchayats (**Part IX**, Arts. **243–243O**) came with the **73rd Amendment**. Municipalities (**Part IXA**) came with the **74th**. Cooperatives (**Part IXB**) came with the **97th Amendment, 2011**.
+23. Elections (**Part XV**, Arts. **324–329**) include adult suffrage under **Article 326** and a bar on court interference under **Article 329**.
+24. **Article 32** writs are for **Fundamental Rights only**. **Article 226** writs can protect Fundamental Rights **and** other legal rights — that is why 226 is called wider.
+25. President’s pardon (**72**) and Governor’s pardon (**161**) must not be swapped on death sentence and court-martial (those stay with the President).
+26. National Emergency is **352**; State Emergency / President’s Rule is **356**; Financial Emergency is **360**. Do not mix the three codes.
+27. Fourth Schedule is **Rajya Sabha seats**, not validation of Acts. Ninth Schedule is **validation of Acts**, not RS seats.
+28. Part match trap set: Municipalities ≠ Part XI; Tribunals ≠ Part XI; Attorney General ≠ Part XIII; Citizenship = Part II.
 
-SCHEDULES:
-  1 Territories | 2 Emoluments | 3 Oaths | 4 RS seats
-  5 Scheduled Areas/STs | 6 Tribal areas AMTM | 7 Lists | 8 Languages (22)
-  9 Validation of Acts | 10 Anti-defection | 11 Panchayats (29) | 12 Municipalities (18)
+---
 
-8th = 22 langs | Bhojpuri OUT | Nepali, Dogri, Bodo IN
-
-ARTICLES (must):
-  1 Union of States | 3 Parliament alters States | 12 State | 13 void laws
-  14–18 Equality | 19 six freedoms | 21 life | 21A RTE | 32 SC remedy | 51A Duties
-  72/161 pardon | 74 aid-advice | 75 CoM | 76 AG | 110 Money Bill | 123 Ordinance
-  148 CAG | 226 HC writ | 263 Inter-State Council | 280 FC | 300A property
-  312 AIS | 324 EC | 352/356/360 Emergency | 368 Amendment
-  371–371J special States | 393 short title
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|

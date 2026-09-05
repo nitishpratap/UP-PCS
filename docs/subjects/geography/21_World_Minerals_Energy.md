@@ -16,30 +16,28 @@ Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventi
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 20 Must-Score Locks
 
-```
-COAL: Appalachian USA | Lancashire England | Ruhr Germany | Kuzbass Russia
- Donetsk = Ukraine’s largest among 2023 options | Karaganda KZ = coal city (also iron in 2020 list)
-IRON: Mount Newman / Pilbara / Hamersley = Australia iron (2023)
- Krivoy Rog = Ukraine | Lorraine = France | Kiruna = Sweden | Mesabi = USA
- Germany–Normandy WRONG (Normandy = France) (2020)
-COPPER: Chile + N Andes porphyry (2022 A/R both true, R explains) | Chuquicamata / El Teniente
- Katanga DRC + Copperbelt Zambia | Bingham USA
-TIN: cassiterite | Kinta Valley Malaysia = TIN not rubber (2020)
- Bangka–Belitung Indonesia | Bolivia Andes | SE-Asia tin belt
- Pegu Yoma Myanmar = MINERAL OIL (2022) — do not dump tin here
-OIL: Ghawar/Dhahran Saudi | Burgan Kuwait | Kirkuk/Zubair Iraq | Haft Kel Iran
- Kashagan = KAZAKHSTAN not Kuwait (2024) | Baku AZ | North Sea UK–NO | West Siberia RU
-GAS: methane = main constituent (2018, 2022) | LPG ≠ CNG
-ENERGY: coal/oil/gas = conventional non-renewable
- Nuclear + geothermal ≠ stored solar | wind/biomass/hydro = solar-linked
- Uranium volume = Kazakhstan | hydel giants = China (Three Gorges), Brazil–PY (Itaipu)
-IODINE: Chile (2018 “lodine”) | Mn: Postmasburg South Africa (2020)
-STEEL volume: China #1 (2022)
-CRITICAL: Lithium Triangle = Chile–Argentina–Bolivia | REE processing = China | Cobalt = DRC
-IRON export: Australia Pilbara + Brazil Carajás | China mines and still imports
-```
+1. Coalfield–country locks: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk** is Ukraine’s classic coal answer among common options.
+2. **Mount Newman / Pilbara / Hamersley** = **iron** in Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** = France. **Kiruna** = Sweden. **Mesabi** = USA.
+3. Germany–Normandy iron is **wrong**. **Normandy** is in **France**.
+4. **Chile** leads copper with northern Andes **porphyry** deposits (Chuquicamata, El Teniente). Also lock Katanga (DRC), Copperbelt (Zambia), and Bingham (USA).
+5. Malaysia’s **Kinta Valley** = **tin** (cassiterite). Myanmar’s **Pegu Yoma** = **mineral oil**, not tin.
+6. **Kashagan** oil is in **Kazakhstan**, not Kuwait. **Burgan** is Kuwait. Also lock Ghawar/Dhahran (Saudi), Kirkuk/Zubair (Iraq), Haft Kel (Iran), Baku (Azerbaijan).
+7. Natural gas’s main constituent is **methane**. **LPG** is not the same as **CNG**.
+8. **Postmasburg** (South Africa) = **manganese**. **Iodine** lock = **Chile**. Steel volume top = **China**.
+9. Nuclear and geothermal energy are **not** “stored solar”. Wind, biomass, and hydro are solar-linked renewables. Coal, oil, and gas are conventional non-renewables.
+10. **Hematite** is the red bulk ore; **magnetite** is black and highest grade. **Weipa** = bauxite; **Newman** = iron; **Witwatersrand** = gold; **Morocco** = phosphate.
+11. Qatar’s **North Field** and Iran’s **South Pars** are one continuous Gulf gas giant.
+12. **Itaipu** = Brazil–Paraguay hydel. **Three Gorges** = China on the Yangtze. **OPEC** HQ = **Vienna**. Original OPEC five (1960): Iran, Iraq, Kuwait, Saudi Arabia, Venezuela.
+13. **Lithium Triangle** = Chile–Argentina–Bolivia. Cobalt volume = **DRC**. REE processing lock = **China**. Uranium volume often locks on **Kazakhstan**.
+14. Iron exporters = Australia (**Pilbara**) and Brazil (**Carajás**). China mines iron and still imports heavily.
+15. Ancient **shields** host many metals. Sedimentary **basins** host coal, oil, and gas.
+16. Karaganda (Kazakhstan) is a classic coal-city lock. Tin also locks on Bangka–Belitung (Indonesia) and the Andes of Bolivia.
+17. Energy classification: coal/oil/gas = conventional non-renewable; wind/biomass/hydro = renewable solar-linked; nuclear and geothermal stand apart from “stored solar” wording.
+18. Pegu Yoma must not be dumped into the SE-Asia tin belt — it is an **oil** lock.
+19. Chile copper Assertion–Reason pattern: both copper leadership and porphyry geology can be true, and geology can explain leadership.
+20. North Sea oil/gas = UK–Norway belt; West Siberia = Russia’s giant hydrocarbon province.
 
 ---
 
@@ -924,31 +922,6 @@ D. Geothermal energy
 **Ans: Contested B or D** — Nuclear **and** geothermal are both not stored solar. Wind and biomass are. Single-letter keys vary; learn the **pair**, not a coin-toss.
 
 </details>
-
----
-
-## Consolidated — 20 Must-Score Locks
-
-1. Coal 2025: Appalachian **USA**, Lancashire **England**, Ruhr **Germany**, Kuzbass **Russia**.
-2. Ruhr = **Germany**. Donetsk = **Ukraine** coal.
-3. Mount Newman = **iron** (Australia).
-4. Germany–Normandy iron = **wrong**; Normandy = **France**. Krivoy Rog = Ukraine.
-5. Chile copper + N Andes **porphyry** (2022 both true, R explains).
-6. Kinta = **tin**. Pegu Yoma = **mineral oil**.
-7. Kuwait–Kashagan = **wrong**. Kashagan = **Kazakhstan**. Burgan = Kuwait.
-8. Haft Kel = Iran. Dhahran = Saudi. Zubair = Iraq.
-9. Natural gas = **methane**. LPG ≠ CNG.
-10. Postmasburg = **manganese**. Iodine = **Chile**.
-11. Steel 2022 top = **China**.
-12. Nuclear and geothermal are **not** stored solar energy.
-13. Hematite = red bulk; magnetite = black highest grade.
-14. Weipa = bauxite; Newman = iron. Witwatersrand = gold. Morocco = phosphate.
-15. North Field (Qatar) and South Pars (Iran) = one Gulf gas giant.
-16. Itaipu = Brazil–Paraguay. Three Gorges = China / Yangtze. OPEC HQ = Vienna.
-17. Lithium Triangle = Chile–Argentina–Bolivia; cobalt volume = DRC; REE processing = China.
-18. Iron exporters = Australia (Pilbara) + Brazil (Carajás); China mines and still imports.
-19. Shields host metals; sedimentary basins host coal / oil / gas.
-20. Original OPEC five (1960) = Iran, Iraq, Kuwait, Saudi Arabia, Venezuela.
 
 ---
 

@@ -14,46 +14,42 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 30 Must-Score Locks
 
-```
-POLLUTION = Harmful addition beyond environment's absorption capacity
-DEGRADATION = Broader quality/productivity decline (pollution + erosion + depletion)
+1. **Pollution** is harmful addition beyond the environment’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
+2. **Point sources** are chimneys and drains. **Non-point sources** include farm runoff and roads.
+3. **Primary pollutants** are emitted directly (SO₂, PM, CO). **Secondary pollutants** form in air (O₃, PAN, acid rain).
+4. Law years: **Water Act 1974 → Air Act 1981 → EPA 1986**. Noise Rules date to **2000**.
+5. **CPCB** sets ambient air and surface-water standards. **SPCB** enforces in States. **CGWB** handles **groundwater** assessment — not CPCB.
+6. **PM2.5** is ≤2.5 μm. **PM10** is ≤10 μm. AQI **0–50** is Good; **401–500** is Severe.
+7. London smog is **SO₂ + smoke**. Los Angeles smog is **photochemical** (O₃/PAN).
+8. **NCAP (2019)** covers non-attainment cities with a **20–30%** PM reduction target. **BS-VI** fuel arrived in **2020**.
+9. **Lichens** are SO₂ bio-indicators and die in polluted air.
+10. Water locks: high **BOD** means worse organic pollution; **COD ≥ BOD**; clean DO is often **>6 mg/L**, while **<5 mg/L** stresses fish.
+11. **Eutrophication** is nutrient overload (N/P) → algal bloom → dissolved-oxygen crash.
+12. The **Annual Groundwater Quality Report** is a **CGWB** product, not CPCB or CWC.
+13. **Namami Gange** launched in **2014**. Gomti pollution is a **Lucknow** lock; Kanpur is the Ganga tannery stretch.
+14. Noise is measured in **decibels** (logarithmic). Residential limits are often **55/45** day/night; silence zones **50/40**.
+15. Radioactive locks: **Bq** = activity; **Sv** = dose; half-life is time for **50%** decay; **AERB** regulates.
+16. Thermal pollution from hot power-plant effluent lowers DO and can kill fish.
+17. About **80%** of marine pollution comes from **land**. **MARPOL 73/78** is the shipping pollution convention.
+18. Plastic locks: **PWM Rules 2016**, single-use plastic ban push **2022**, microplastics **<5 mm**. India is among the largest plastic-waste generators.
+19. Waste rules cluster in **2016**: SWM, BMW, Hazardous Waste, and Plastic Waste. **E-waste Rules** updated in **2022**.
+20. **3R** priority is **Reduce > Reuse > Recycle**. **Swachh Bharat** began in **2014**.
+21. BMW colour codes: **Yellow** incineration; **Red** disinfect and recycle; **White** sharps; **Blue** glass/metal.
+22. **EPR** makes producers responsible for end-of-life waste, especially plastics and e-waste.
+23. **Basel Convention (1989)** covers transboundary hazardous waste.
+24. Carrying-capacity logic: waste should stay within absorption capacity; extraction above regeneration is unsustainable.
+25. UP air NCAP cities include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, and Bareilly.
+26. UP issue locks: Kanpur Ganga tanneries; Ghaziabad/Noida air; **Moradabad** noise; **Taj Trapezium** at Agra; Varanasi ghat/plastic pressure.
+27. FSI publishes forest cover, not pollution standards. CWC is surface-water resources, not the groundwater quality report.
+28. EPA **1986** is the umbrella for many later rules; it does not replace Water and Air Acts.
+29. Secondary ozone at ground level is a pollutant; do not confuse it with stratospheric protective ozone.
+30. Hazardous waste follows HW Rules **2016** plus Basel controls — not SWM municipal rules alone.
 
-POLLUTANT TYPES:
-  Point source = chimney, drain | Non-point = farm runoff, roads
-  Primary = SO₂, PM, CO (direct) | Secondary = O₃, PAN, acid rain (formed in air)
+---
 
-LAWS: Water Act 1974 | Air Act 1981 | EPA 1986 (umbrella) | Noise Rules 2000
-CPCB = standards + ambient monitoring | SPCB = state enforcement | CGWB = groundwater (NOT CPCB)
-
-AIR: PM2.5 ≤2.5 μm | PM10 ≤10 μm | AQI 0–50 Good | 401–500 Severe
-  London smog = SO₂+smoke | LA smog = O₃+PAN (photochemical)
-  NCAP 2019 = 122 cities | 20–30% PM cut target | BS-VI fuel 2020
-  Lichens = SO₂ indicators; die in polluted air (2025 Q61)
-  UP NCAP: Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, Bareilly
-
-WATER: BOD = organic pollution (high = worse) | COD ≥ BOD | DO >6 mg/L clean; <5 stresses fish
-  Eutrophication = N/P → algal bloom → DO crash
-  CGWB = Annual Groundwater Quality Report (2025 Q70) | Namami Gange 2014
-  Gomti = Lucknow | Kanpur = Ganga tannery stretch | Yamuna = Mathura–Agra–Delhi
-
-NOISE: dB = logarithmic | Residential 55/45 day/night | Silence zone 50/40
-RADIOACTIVE: Bq = activity | Sv = dose | Half-life = 50% decay | AERB regulates
-THERMAL: Hot effluent → ↓DO → fish kill | Power plants main source
-MARINE: 80% from LAND | MARPOL 73/78 | Oil spill + plastic + nutrients
-PLASTIC: PWM Rules 2016 | SUP ban 2022 | Microplastics <5 mm | India 3rd largest generator
-
-WASTE:
-  SWM Rules 2016 | 3R: Reduce > Reuse > Recycle | Swachh Bharat 2014
-  BMW 2016: Yellow=incineration | Red=disinfect+recycle | White=sharps | Blue=glass/metal
-  HW Rules 2016 + Basel 1989 | E-waste Rules 2022 | EPR on producers
-
-CARRYING CAPACITY (2025 Q22): waste ≤ absorption capacity ✓ | extraction above regeneration ✗
-UP: Kanpur Ganga tanneries | Ghaziabad/Noida air | Moradabad noise hotspot | Taj Trapezium Agra
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -404,44 +400,6 @@ D. −4°C temperature drop
 - **Moradabad and Noida** region has significant e-waste generation and informal processing in UP.
 
 > **Exam note:** Current rules = **2022**. India rank = **3rd**, not 1st.
-
----
-
-## Consolidated Reference — Once Only
-
-### Key laws
-
-| Law | Year | Role |
-|-----|------|------|
-| Water Act | 1974 | Water pollution control |
-| Air Act | 1981 | Air pollution control |
-| EPA | 1986 | Umbrella standards, EIA, noise rules |
-| SWM Rules | 2016 | Municipal solid waste |
-| BMW Rules | 2016 | Biomedical waste |
-| HW Rules | 2016 | Hazardous industrial waste |
-| PWM Rules | 2016 | Plastic waste + EPR |
-| E-waste Rules | 2022 | Electronic waste + EPR |
-
-### Organisation ↔ report trap
-
-| Organisation | Role |
-|--------------|------|
-| **CPCB** | Ambient air/surface water standards and monitoring |
-| **CGWB** | **Groundwater** quality assessment and annual report |
-| **CWC** | Surface water resources, not groundwater quality report |
-| **FSI** | Forest cover (ISFR) — not pollution |
-
-### UP Focus
-
-| Issue | Location |
-|-------|----------|
-| Ganga industrial pollution | **Kanpur** tanneries |
-| Urban river sewage | **Gomti — Lucknow** |
-| Air quality hotspot | **Ghaziabad, Noida, Kanpur** |
-| Noise pollution | **Moradabad** |
-| Taj protection zone | **Taj Trapezium — Agra** |
-| Ganga plastic/ghats | **Varanasi** |
-| E-waste/informal sector | **Moradabad, Noida** |
 
 ---
 

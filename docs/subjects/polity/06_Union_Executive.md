@@ -19,35 +19,57 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-PART V (52–78) UNION EXECUTIVE = President + VP + PM + CoM + AG
+1. **Part V, Articles 52–78** cover the Union Executive: **President, Vice-President, Prime Minister, Council of Ministers, and Attorney General**.
+2. India follows a parliamentary system: the **President** is the **nominal / de jure** head; the **real / de facto** executive is the **Council of Ministers headed by the Prime Minister**.
+3. **Article 53** vests executive power of the Union in the **President**, exercised in practice on the **aid and advice** of the Council of Ministers under **Article 74**.
+4. The President is elected **indirectly** by an Electoral College of **elected** MPs of both Houses, **elected** MLAs of the States, and **elected** MLAs of **Delhi and Puducherry** (**70th Amendment**).
+5. **Nominated** members of Parliament and members of State **Legislative Councils** do **not** vote in the Presidential election. They **do** vote in the Vice-President’s election.
+6. Election uses **proportional representation by single transferable vote** and a secret ballot. Vote-value population is frozen at the **1971 census** until the first census after **2026**.
+7. Presidential qualifications (**Article 58**): citizen, completed **35 years**, and qualified for election to the **Lok Sabha** (not Rajya Sabha). Oath is before the **Chief Justice of India**.
+8. Term is **five years**; re-election is allowed any number of times. A vacancy by death, resignation or removal must be filled within **six months**; the Vice-President acts until then.
+9. Impeachment under **Article 61** is for **violation of the Constitution**. Nominated MPs **can** vote in impeachment; **State MLAs do not**. No President has ever been impeached.
+10. Veto types in India: **absolute**, **suspensive**, and **pocket** (no fixed time limit). There is **no qualified veto** of the USA type.
+11. On a **Money Bill**, the President may only **assent or withhold** — he **cannot return** it for reconsideration. After the **24th Amendment**, he **must assent** to a Constitution Amendment Bill.
+12. **Article 72** (President) covers Union offences, court-martial sentences, and **death sentences**. **Article 161** (Governor) does **not** cover death sentence or court-martial.
+13. **Article 123** ordinances: Houses not in session; must be laid and lapse if not approved within **six weeks** of reassembly. An ordinance **cannot amend the Constitution**.
+14. The Vice-President is **ex-officio Chairman of the Rajya Sabha** but is **not a member** of the House. Removal under **Article 67** starts in the Rajya Sabha (effective majority) and needs Lok Sabha agreement, with **14 days’** notice — not a full “impeachment” label.
+15. Vice-President’s Electoral College is **both Houses of Parliament**, including **nominated** members; **State legislatures do not** take part.
+16. **Article 74** aid and advice is **binding** on the President (42nd / 44th line). **Article 78** is the Prime Minister’s duty to communicate information to the President.
+17. Council of Ministers size is capped at **15% of the Lok Sabha** by the **91st Amendment**. Collective responsibility under **Article 75(3)** is to the **Lok Sabha only**.
+18. Individual ministers hold office during the **pleasure of the President** (**Article 75(2)**). Rank order: Cabinet Ministers → Ministers of State → Deputy Ministers. Cabinet Committees are **extra-constitutional**.
+19. The **Attorney General** (**Article 76**) is the first law officer, needs Supreme Court judge qualifications, holds office **during the pleasure of the President**, and may **speak in both Houses** but **cannot vote**.
+20. The **Warrant / Table of Precedence (1979)** is **ceremonial only**. It is **not** the constitutional line of succession.
+21. Precedence ranks to lock: **1** President, **2** Vice-President, **3** Prime Minister, **4** Governors (within their State), **5** former Presidents, **6** **CJI = Speaker**, **7** Cabinet Ministers / CMs (in State) / former PMs / Leaders of Opposition, **11** **Attorney General**.
+22. Do not place the Speaker below Cabinet Ministers: Speaker shares **rank 6** with the CJI; Cabinet Ministers are **rank 7**. AG at **11** does **not** outrank Cabinet Ministers.
+23. **CEC / CAG / UPSC Chair** sit at **9A**; Supreme Court judges sit at **9** — do not swap those bands.
+24. The PMO is headed by the **Principal Secretary** to the PM. The **Cabinet Secretariat** is headed by the **Cabinet Secretary** — different offices.
+25. Nomination for President needs **50** proposers and **50** seconders; disputes go to the **Supreme Court** under **Article 71**.
+26. Resignation of the President is addressed to the **Vice-President**. The President shall not be a member of either House; if a sitting member is elected, the seat is vacated.
+27. Kitchen / inner Cabinet and most Cabinet Committees are political practice, not constitutional offices. Deputy Prime Minister is also a political designation, not a separate constitutional post.
+28. **Droupadi Murmu** became the **15th President** (office from **25 July 2022**) — first tribal President and second woman President.
 
-PRESIDENT 52–62 (real head = de jure; PM = de facto):
-  52 office | 53 exec power | 54 election | 55 manner (PR-STV, value of vote)
-  56 term 5y | 57 re-eligible | 58 qualif | 59 conditions | 60 oath (CJI) | 61 impeach | 62 vacancy
-  Electoral College = ELECTED MPs + ELECTED MLAs + Delhi & Puducherry MLAs (70th)
-     → NOMINATED members & Legislative COUNCILS excluded
-  Impeachment 61 = "violation of Constitution"; either House 1/4+14d, 2/3 total; NOMINATED vote; MLAs don't
+---
 
-VETO: Absolute | Suspensive | Pocket (no time limit) | NO qualified veto (that's USA)
-  Money Bill: assent or withhold — CANNOT return | 24th: must assent to Const. Amend. Bill
-PARDON 72 (Union/court-martial/DEATH) vs Governor 161 (no death, no court-martial)
-ORDINANCE 123: houses not in session; 6 weeks of reassembly; not to amend Constitution
+## Confused Pairs (exam killers)
 
-VP 63–71: 64 ex-officio Chairman RS (NOT a member) | EC = both Houses (nominated INCLUDED), NO states
-  67 removal: RS effective majority + LS agrees; 14d notice; no formal "impeachment"
-
-PM 74/75/78: 74 aid & advise (binding-42/44) | 75 appt, ≤15% LS (91st) | 78 communicate
-COM: 75(3) collective resp → LOK SABHA only | 75(2) individual → President's pleasure
-  Rank: Cabinet > MoS > Deputy | Cabinet Cttees = extra-constitutional
-AG 76: first law officer; SC-judge qualif; DURING PLEASURE; Art 88 speak both Houses NO vote
-
-PRECEDENCE (Warrant 1979): 1 Pres · 2 VP · 3 PM · 4 Gov (in state) · 5 ex-Pres · 5A DyPM
-  6 CJI = Speaker · 7 Cab Min / CM (in state) / ex-PM / LoP · 7A Bharat Ratna · 9 SC judges · 9A CEC/CAG/UPSC · 10 Dy RS/LS · 11 AG
-  Ceremonial ONLY — NOT constitutional succession
-```
+| A | B | Lock | Hindi |
+|---|----|------|-------|
+| President election voters | VP election voters | Only **elected** MPs + MLAs (no nominated / Councils) vs **all** MPs including nominated (no States) | राष्ट्रपति / उपराष्ट्रपति मतदाता |
+| Nominated MPs in election | Nominated MPs in impeachment | **No** vote in Presidential election vs **yes** vote in impeachment | नामित सांसद |
+| MLAs in Presidential election | MLAs in impeachment | **Yes** in election vs **no** in impeachment | विधायक |
+| Absolute / suspensive / pocket veto | Qualified veto | India’s three types vs **USA-only** qualified veto | वीटो |
+| Money Bill return | Ordinary Bill return | President **cannot** return Money Bill vs may return ordinary Bill | धन विधेयक |
+| Art. 72 pardon | Art. 161 pardon | President: death + court-martial vs Governor: **neither** | क्षमा |
+| VP as RS Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
+| CoM responsibility | “Both Houses” claim | Collective responsibility to **Lok Sabha only** | सामूहिक उत्तरदायित्व |
+| PMO head | Cabinet Secretariat head | **Principal Secretary** vs **Cabinet Secretary** | पीएमओ / सचिवालय |
+| AG tenure | SC judge removal | AG during **pleasure** vs judge removal by special process | महान्यायवादी |
+| Ordinance power | Constitution amendment | Art. 123 **cannot** amend the Constitution | अध्यादेश |
+| Warrant of Precedence | Constitutional succession | Ceremonial ranks only vs Arts. 56–65 succession | वरीयता / उत्तराधिकार |
+| Rank 6 (CJI = Speaker) | Rank 7 (Cabinet Ministers) | Speaker **not** below Cabinet | रैंक 6 / 7 |
+| SC judges (9) | CEC/CAG/UPSC (9A) | Do not swap the bands | 9 / 9A |
 
 ---
 

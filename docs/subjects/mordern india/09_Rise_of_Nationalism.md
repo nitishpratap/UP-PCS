@@ -15,57 +15,40 @@ Political Organisations before INC | Freedom Leaders | Political Organisations |
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-PRE-INC (2024 Q15):
-  1866  East India Association — Dadabhai Naoroji, London
-  1870  National Indian Association — Mary Carpenter, Britain
-  1872  Indian Society — London students (A.M. Bose linked)
-  1876  Indian Association — Surendranath Banerjee + Ananda Mohan Bose, Calcutta
-  Order = 1, 2, 3, 4
+1. The **East India Association** was founded in **1866** in **London** by **Dadabhai Naoroji**. It is not the Calcutta Indian Association of 1876.
+2. The pre-INC chronology four run **East India Association (1866) → National Indian Association (1870) → Indian Society (1872) → Indian Association (1876)**.
+3. The **Indian Association** was founded in **1876** at **Calcutta** by **Surendranath Banerjee** and **Ananda Mohan Bose**.
+4. The **Poona Sarvajanik Sabha** (**1870**, Ranade–Joshi circle) is a Deccan public body. The **Bombay Presidency Association** is **1885** (Mehta, Telang, Tyabji).
+5. The **Indian National Congress** first met on **28 December 1885** at **Gokuldas Tejpal Sanskrit College, Bombay**. **A.O. Hume** organised it; **W.C. Bonnerjee** was the first President; about **72** delegates attended.
+6. **Safety Valve Theory** treats Hume as a British vent for discontent. The rival view is that Congress grew from decades of Indian political work.
+7. **Badruddin Tyabji** (Madras **1887**) was the first **Muslim** Congress President. **George Yule** (Allahabad **1888**) was the first **English** President.
+8. **Vande Mataram** was sung at the Calcutta Congress of **1896**. **Jana Gana Mana** was sung at Calcutta in **1911**.
+9. At Calcutta **1906**, **Dadabhai Naoroji** (third presidency) put **Swaraj** into Congress language as a declared goal.
+10. The **Surat Split** of **1907** broke Moderates and Extremists. The **Lucknow** session of **1916** (A.C. Majumdar) reunited them and sealed the **Lucknow Pact**.
+11. Do **not** place the Lucknow Pact at **1911**. **1911** is the Delhi Durbar year of Bengal partition annulment and the capital shift to Delhi.
+12. **Annie Besant** (Calcutta **1917**) was the first **woman** Congress President. **Sarojini Naidu** (Kanpur **1925**) was the first **Indian** woman President.
+13. **Belgaum 1924** is Gandhi’s **only** Congress presidentship. **Lahore 1929** (Nehru) passed **Purna Swaraj**.
+14. **Karachi 1931** (Patel) adopted the **Fundamental Rights** resolution. **Faizpur 1937** was the first **village** Congress session.
+15. **Subhas Chandra Bose** presided at **Haripura 1938** and **Tripuri 1939**. **Abul Kalam Azad** presided at **Ramgarh 1940**.
+16. **Bal Gangadhar Tilak never** presided over any INC session. **Gokhale** did preside (Banaras **1905**).
+17. **Poverty and Un-British Rule in India** by Naoroji was published in **1901**. Drain Theory is wealth outflow; “Un-British rule” means the Raj betrayed British liberal ideals.
+18. **Moderates** trusted petition, prayer and British justice. **Extremists** pushed boycott, Swadeshi and assertive Swaraj.
+19. The **Ilbert Bill** controversy of **1883** exposed the racial bar in the courts and fed nationalist anger.
+20. Banerjee’s **Indian National Conference** (**1883/1885**) was an all-India dress rehearsal. It is **not** the same body as the **1885** INC.
+21. The **Madras Mahajan Sabha** dates to **1884**. The **Indian League** (**1875**, Sisir Kumar Ghosh) is not the Indian Association.
+22. **Lajpat Rai’s Mandalay** deportation (**1907**) lasted about **six months**. **Tilak’s Mandalay** sentence (**1908–14**) lasted about **six years**.
+23. Early nationalism grew from racial discrimination, closed ICS doors, drain of wealth, press and English education — then widened after Partition of Bengal (**1905**).
+24. On the Moderates A/R trap: both the “providence / modernisation” claim and the “Un-British rule” complaint can be true, yet the complaint does **not** explain the providence claim.
+25. **Dadabhai Naoroji** was Congress President at Calcutta **1886** and again at Calcutta **1906** (his third term).
+26. Extremists are **not** the same as underground revolutionaries. Tilak is Extremist Congress politics; Kakori is a later revolutionary event.
+27. Pre-Congress politics lived in London, Calcutta, Poona, Madras and Bombay associations. Congress in **1885** gave them one all-India annual forum.
+28. Hold the arc: pre-INC associations → Moderate Congress → Partition/Extremist rise → Surat split → Lucknow reunion → Home Rule → Gandhian mass phase.
 
-OTHER PRE-INC:
-  1870  Poona Sarvajanik Sabha — G.V. Joshi / Ranade circle
-  1875  Indian League — Sisir Kumar Ghosh
-  1883/85 Indian National Conference — Banerjee (all-India dress rehearsal)
-  1884  Madras Mahajan Sabha
-  1885  Bombay Presidency Association — Mehta, Telang, Tyabji
+---
 
-INC:
-  28 Dec 1885  Gokuldas Tejpal Sanskrit College, Bombay
-  Organiser A.O. Hume | First President W.C. Bonnerjee | ~72 delegates
-  Safety Valve Theory = Hume as a vent for discontent (debated)
-
-SESSIONS:
-  1885 Bombay     W.C. Bonnerjee (first)
-  1886 Calcutta   Dadabhai Naoroji
-  1887 Madras     Badruddin Tyabji (first Muslim President)
-  1888 Allahabad  George Yule (first English President)
-  1896 Calcutta   Vande Mataram sung
-  1906 Calcutta   Naoroji (third; Swaraj word)
-  1907 Surat      Split
-  1911 Calcutta   Jana Gana Mana sung
-  1916 Lucknow    A.C. Majumdar; reunion + Pact  ← not 1911
-  1917 Calcutta   Annie Besant (first woman President)
-  1924 Belgaum    ONLY Gandhi President
-  1925 Kanpur     Sarojini Naidu (first Indian woman President)
-  1929 Lahore     Nehru; Purna Swaraj
-  1931 Karachi    Patel; Fundamental Rights
-  1937 Faizpur    first village session
-  1938–39         Bose (Haripura / Tripuri)
-  1940 Ramgarh    Abul Kalam Azad
-  Complete drill table also in Topic 16.
-
-TILAK never presided an INC session          ← 2021 Q50
-Poverty and Un-British Rule in India = 1901  ← 2021 Q139
-
-2024 Q135 Moderates A/R:
-  A true (providence / modernisation) | R true (Un-British rule complaint)
-  R does NOT explain A  →  Both true; R not correct explanation
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -82,8 +65,6 @@ Poverty and Un-British Rule in India = 1901  ← 2021 Q139
 | Belgaum 1924 | Lahore 1929 | Only Gandhi President vs Purna Swaraj (Nehru) | बेलगाव / लाहौर |
 | Safety Valve theory | National awakening view | Hume as a British-designed vent for discontent vs Congress as the natural culmination of decades of Indian political work | सेफ्टी वाल्व / राष्ट्रीय जागरण |
 | Lajpat Rai's Mandalay | Tilak's Mandalay | Six-month deportation, 1907 vs six-year sedition sentence, 1908–14 | लाजपत राय / तिलक मंडाले |
-
----
 
 ---
 

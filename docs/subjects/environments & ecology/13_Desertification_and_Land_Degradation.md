@@ -14,45 +14,36 @@ Desertification | Land Degradation | Soil Erosion
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-DESERTIFICATION (UN):
-  Land degradation in Arid, Semi-Arid, Dry Sub-Humid (ASDM) areas
-  From climate variation + human activities
-  ≠ Only "desert expanding" — any dryland losing productivity counts
+1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** areas from climate variation plus human pressure.
+2. Desertification is **not** only “desert expanding.” Any dryland losing productivity can count.
+3. **Land degradation** is broader: decline in productive capacity on any land through erosion, salinization, waterlogging, mining, or pollution.
+4. India has about **96.4 million ha** degraded land — roughly **29–30%** (ISRO Atlas **2016** class figure).
+5. **Normal geological erosion** is slow and roughly balanced by soil formation. **Accelerated erosion** is human-driven and faster than formation — the exam focus.
+6. Water-erosion sequence: **sheet → rill → gully → ravine**. Chambal badlands are the ravine end-member.
+7. Wind erosion works by **deflation** (lifting) and **abrasion** (sandblasting).
+8. Leading causes include overgrazing in drylands, deforestation, unsustainable farming, excessive irrigation (salinization/waterlogging), and mining.
+9. India hotspots: **Thar** wind erosion; **Chambal** ravines (MP–UP–Rajasthan); **Bundelkhand** drought–degradation cycle; Punjab–Haryana salinization belts.
+10. Conservation tools include contour bunding, terraces, shelter belts, afforestation, gully plugging, check dams, and watershed management.
+11. Earthworms are soil-fertility allies in restoration narratives.
+12. **UNCCD** was adopted in **1994**. Desertification and Drought Day is **17 June**.
+13. **LDN** (Land Degradation Neutrality) under **SDG 15.3** targets no net loss of healthy land by **2030**.
+14. **DPAP** launched in **1973**. **DDP** is **1977–78**. **IWMP** is **2009**. **MGNREGA (2005)** funds bunds and check dams.
+15. Treaty trap: **UNCCD ≠ UNFCCC**. Desertification is not the climate convention.
+16. Afforestation helps **prevent** degradation; it is not a cause of desertification.
+17. Gully erosion is not the same as sheet erosion — sheet is the first thin uniform stage.
+18. Chambal ravine area is about **3 million ha** in standard coaching numbers.
+19. UP Chambal ravine districts include **Etawah and Agra** (with Morena–Bhind on the MP side).
+20. Bundelkhand’s **seven UP districts** are the drought-plus-degradation lock.
+21. Thar-margin UP questions emphasise wind erosion and dune encroachment.
+22. **Sonbhadra** is a UP mining-related land-degradation hotspot.
+23. Wasteland means degraded land poorly suited to cultivation — related to, but not identical with, desertification’s ASDM definition.
+24. LDN by 2030 is an SDG land target; do not date UNCCD itself as 2030.
 
-LAND DEGRADATION (broader):
-  Decline in land's productive capacity — all land types
-  Processes: erosion, salinization, waterlogging, mining, pollution
-  India ~29–30% degraded (ISRO Atlas 2016 ≈ 96.4 M ha)
+---
 
-SOIL EROSION:
-  Normal = geological, slow, balanced with soil formation
-  Accelerated = human-induced, faster than formation — EXAM FOCUS
-  Water sequence: SHEET → RILL → GULLY → RAVINE (Chambal)
-  Wind: deflation (lifting) + abrasion (sandblasting)
-
-CAUSES: Overgrazing (#1 drylands) | Deforestation | Unsustainable farming
-  Excessive irrigation → salinization/waterlogging | Mining
-
-INDIA HOTSPOTS:
-  Thar — wind erosion | Chambal (MP-UP-Raj) — ravines
-  Bundelkhand (7 UP districts) — drought + degradation
-  Punjab-Haryana — salinization
-
-CONSERVATION: Contour bunding | Terraces | Shelter belts | Afforestation
-  Gully plugging | Check dams | Watershed management
-  Earthworms = soil fertility friends (2025 Q73)
-
-UNCCD 1994 | 17 June = Desertification Day | SDG 15.3 LDN by 2030
-DPAP 1973 | India LDN target 2030 (2019 Q42)
-
-TRAPS: Desertification ≠ desert expansion only | Afforestation PREVENTS degradation
-  Gully ≠ sheet erosion | UNCCD ≠ UNFCCC
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -187,51 +178,6 @@ D. Only 1
 | Water | Monsoon slopes, Chambal | Sheet → ravine |
 | Wind | Thar, arid west | Deflation, abrasion |
 | Gravity | Himalaya, NE hills | Landslides, slumping |
-
----
-
-## Consolidated Reference — Once Only
-
-### Concept hierarchy
-
-```
-Land degradation (broadest)
-  ├── Desertification (ASDM drylands)
-  ├── Salinization / waterlogging / mining
-  └── Soil erosion
-        ├── Water: sheet → rill → gully → ravine
-        └── Wind: deflation + abrasion
-```
-
-### Key numbers
-
-| Item | Value |
-|------|-------|
-| India degraded area | ~96.4 M ha (~29.3%) |
-| Chambal ravine area | ~3 M ha |
-| UNCCD adopted | 1994 |
-| LDN target | 2030 (SDG 15.3) |
-| DPAP launched | 1973 |
-| Desertification Day | 17 June |
-
-### Treaties and schemes
-
-| Name | Year | Purpose |
-|------|------|---------|
-| UNCCD | 1994 | Combat desertification |
-| DPAP | 1973 | Drought-prone area treatment |
-| DDP | 1977–78 | Desert area development |
-| IWMP | 2009 | Integrated watershed management |
-| MGNREGA | 2005 | Bunds, check dams, employment |
-
-### UP focus
-
-| Element | Detail |
-|---------|--------|
-| Chambal ravines | Etawah, Agra (UP); Morena, Bhind (MP) |
-| Bundelkhand | 7 UP districts — drought + degradation cycle |
-| Thar margin | Wind erosion, dune encroachment |
-| Sonbhadra | Mining-related land degradation |
 
 ---
 

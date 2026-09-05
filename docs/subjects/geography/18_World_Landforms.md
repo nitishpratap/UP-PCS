@@ -18,29 +18,32 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-MOUNTAINS: Fold / block / volcanic / residual–dome families | Andes longest fold | Himalaya highest | Rockies N America | Alps Europe | Atlas Africa (Toubkal = Morocco)
- Pyrenees = Spain–France | Apennine = Italy | Balkan = Bulgaria | Urals = Europe–Asia
- Kilimanjaro = Tanzania, NOT Pacific Ring of Fire | Stanley / Rwenzori = Uganda | Hoggar = Algeria | Chimborazo = Ecuador
-PLATEAUS: Tibet highest | Pamir = “roof of the world” | Deccan | Brazilian | Colorado / Columbia | Altiplano | Meseta Spain
-PLAINS: Indo-Gangetic | N European | Great Plains USA | Pampas Argentina | Manchurian | Siberian
-VOLCANOES: Fuji JP · Pinatubo PH · St Helens USA · Etna Italy · Paricutin Mexico · Apo PH · Rainier USA
- Kilimanjaro = East African Rift, not Ring of Fire (2024)
-ISLANDS: Greenland largest | New Guinea 2nd | Borneo 3rd = 3 countries, NOT volcanic dump (2022 Only 1)
-DESERTS: Sahara biggest hot | Atacama driest | WHY hot deserts = Horse Latitudes + WEST coasts + cold currents
- size ↑ Great Sandy < Gobi < Arabian < Sahara
- Gobi = Mongolia + China, not Russia/Kazakhstan (2025 Only 1,2)
- Gibson = Australia NOT Brazil | Sonoran USA | Taklamakan China | Karakum Turkmenistan
-GRASS: Pampas = Argentina | Prairie N America | Steppe Eurasia (chernozem) | Veld SA | Downs Australia | Puszta Hungary | Campos Brazil | Llanos Venezuela
- Big Games = Tropical Savanna (2019)
-VEG: Maquis=Med | Fynbos=SA | Chaparral=California | Matorral=Chile
- Epiphytes=Equatorial | Acacia=Sahara | Baobab=Savanna | Cedars=Med
- Selva = Brazil rainforest | Terra Roxa = Brazil coffee soil (2025 both)
-CLIMATE: Med = winter rain, 30–45° W coasts | summer = dry subtropical high / dry terrestrial winds
- Savanna Aw | Steppe BS | Tundra ET | Taiga = boreal conifer
-```
+1. The **Andes** are the world’s **longest** fold chain. The **Himalaya** are the **highest**. **Aconcagua** stands in the Andes of Argentina.
+2. **Pyrenees** = Spain–France; **Alps** = Switzerland / central Europe; **Apennine** = Italy; **Balkan** = Bulgaria; **Urals** mark Europe–Asia.
+3. **Toubkal** (Atlas) is in **Morocco**. **Hoggar** is in **Algeria**. **Stanley / Rwenzori** is in Uganda. **Kilimanjaro** is in **Tanzania**.
+4. **Chimborazo** is in **Ecuador**. The Atlas system is North African — do not place it in France or Spain.
+5. **Kilimanjaro** sits on the **East African Rift** and is **not** in the Pacific Ring of Fire. **Etna** is in Italy / the Mediterranean.
+6. **Tibet** is the highest large plateau. The **Pamir** is the “**Roof of the world**”. The **Altiplano** is Bolivia–Peru. The **Meseta** is Spain.
+7. The **Colorado Plateau** holds the Grand Canyon. The **Columbia Plateau** is a lava plateau. Do not swap the two.
+8. Grassland names: **Pampas** = Argentina; **Campos** = Brazil; **Llanos** = Venezuela–Colombia; **Puszta** = Hungary; **Prairie** = North America; **Steppe** = Eurasia; **Veld** = South Africa; **Downs** = Australia.
+9. **Borneo** is shared by three countries and is **not** a volcanic dump. **Java** and **Sumatra** sit on a volcanic arc.
+10. Island rank by size: **Greenland > New Guinea > Borneo > Madagascar**. Australia is a continent, not ranked as an island in that list.
+11. The **Gobi** lies in **Mongolia and China** only. It is a cold desert, not Russia or Kazakhstan.
+12. Hot-desert size order: **Great Sandy < Gobi < Arabian < Sahara**. The **Sahara** is the largest hot desert.
+13. **Gibson** = Australia (not Brazil). **Sonoran** = USA. **Taklamakan** = China. **Karakum** = Turkmenistan.
+14. The **Atacama** (Chile) is the driest. The **Namib** is a fog coast. **Patagonia** is Argentina’s rain-shadow desert.
+15. Hot deserts favour **west coasts** because of the Horse Latitudes plus cold ocean currents.
+16. “Land of Big Games” points to the tropical **savanna**.
+17. Sclerophyll scrub: **Maquis** = Mediterranean; **Fynbos** = South Africa; **Chaparral** = California; **Matorral** = Chile.
+18. **Epiphytes** mark equatorial forest; **baobab** marks savanna; **cedars** mark the Mediterranean; **acacia** marks the Sahara fringe.
+19. In Brazil, **Selva** is the rainforest and **Terra Roxa** is the famous coffee soil — both are Brazil locks.
+20. The **Mediterranean** climate has **winter rain** on five **west coasts** near **30–45°**. Summer is dry under the subtropical high.
+21. **Taiga** is boreal conifer forest. **Tundra** is treeless. Climate letters: Savanna **Aw**, Steppe **BS**, Tundra **ET**.
+22. Volcano locks: **Rainier** USA; **Etna** Italy; **Paricutin** Mexico; **Apo** Philippines; also Fuji (Japan), Pinatubo (Philippines), St Helens (USA).
+23. Peak continents: **Elbrus** = Europe (Caucasus); **Mont Blanc** = Alps; **Denali** = North America; **Kosciuszko** = Australia mainland.
+24. Temperate grasslands (Prairie, Steppe, Pampas, Veld, Downs) sit on **chernozem**-type wheat soils. Residual and dome mountains are worn or laccolith leftovers, not young fold belts.
 
 ---
 
@@ -939,35 +942,6 @@ D. Equatorial regions
 **Ans: C** — Winter rain + bright dry summer. Equatorial is too wet and cloudy. A/B are Himalayan valley distractors, not the world citrus belt.
 
 </details>
-
----
-
-## Consolidated — 24 Must-Score Locks
-
-1. Andes = **longest** fold; Himalaya = **highest**; Aconcagua = Andes / Argentina.
-2. Pyrenees = Spain–France; Alps = Switzerland; Apennine = Italy; Balkan = Bulgaria.
-3. Toubkal = Morocco; Hoggar = Algeria; Stanley = Uganda; Kilimanjaro = Tanzania.
-4. Chimborazo = Ecuador; Atlas ≠ France/Spain.
-5. Kilimanjaro ≠ Ring of Fire; Etna = Italy / Med.
-6. Tibet = highest large plateau; Pamir = **Roof of the world**; Altiplano = Bolivia–Peru; Meseta = Spain.
-7. Colorado Plateau = Grand Canyon; Columbia = lava. Do not swap.
-8. Pampas = Argentina; Campos = Brazil; Llanos = Venezuela–Colombia; Puszta = Hungary.
-9. Borneo = three countries; **not** volcanic. Java/Sumatra **are** volcanic-arc.
-10. Island rank: Greenland > New Guinea > Borneo > Madagascar. Australia = continent.
-11. Gobi = Mongolia + China only. Cold desert.
-12. Size: Great Sandy < Gobi < Arabian < Sahara.
-13. Gibson = Australia. Sonoran = USA. Taklamakan = China. Karakum = Turkmenistan.
-14. Atacama = Chile (driest). Namib = fog coast. Patagonia = Argentina rain-shadow.
-15. Land of Big Games = tropical **savanna**.
-16. Maquis–Med; Fynbos–SA; Chaparral–California; Matorral–Chile.
-17. Epiphytes equatorial; baobab savanna; cedars Med; acacia Sahara.
-18. Selva = forest; Terra Roxa = soil — **both Brazil**.
-19. Mediterranean = **winter** rain, five **west** coasts; citrus lock; summer dry high.
-20. Taiga = conifer forest; tundra = treeless.
-21. Rainier USA; Etna Italy; Paricutin Mexico; Apo Philippines.
-22. Elbrus = Europe (Caucasus); Mont Blanc = Alps; Denali = N America; Kosciuszko = Australia mainland.
-23. Hot deserts favour **west coasts** (Horse Latitudes + cold currents); Atacama = driest.
-24. Temperate grasslands = Prairie / Steppe / Pampas / Veld / Downs; steppe–prairie = **chernozem** wheat belt; residual / dome = worn or laccolith leftovers.
 
 ---
 

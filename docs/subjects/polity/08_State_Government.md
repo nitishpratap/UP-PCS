@@ -15,43 +15,57 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-STATE EXECUTIVE Part VI: Governor + CM + CoM + Advocate General
+1. **Part VI** covers the State Executive: **Governor + Chief Minister + Council of Ministers + Advocate General**. The Governor is the **nominal** head; the CoM headed by the CM is the **real** executive.
+2. **Article 153** creates the office of Governor. The **7th Amendment** proviso allows the **same person** to be Governor of **two or more States**.
+3. **Article 155** is **appointment** by the President — **not** removal. Removal / tenure sits under **Article 156** (five-year outer term during the **pleasure of the President**; no impeachment).
+4. Qualifications (**Article 157**): citizen and completed **35 years**. Oath (**Article 159**) is before the **Chief Justice of the High Court**.
+5. **Article 154** vests State executive power in the Governor. **Article 162** only states the **extent** of that power — do not call 162 the vesting article.
+6. **Article 163**: the Governor acts on CoM aid and advice **except** where the Constitution gives **discretion**. Dual role: constitutional head of the State and the Centre’s agent.
+7. Classic discretionary situations: choosing a CM in a hung House; dismissing a CoM that has lost the House; dissolving the Assembly; reserving a Bill under **Article 200**; recommending **Article 356**; and certain **Article 371** special responsibilities.
+8. ***Bommai*** lock: majority is tested on the **House floor**, not in Raj Bhavan by private claim alone.
+9. **Article 161** pardoning power of the Governor does **not** cover **death sentence** or **court-martial** — those stay with the President under **Article 72**.
+10. Under **Article 200** the Governor may assent, withhold assent, return a non-Money Bill, or **reserve** the Bill for the President. A Bill that cuts High Court powers **must** be reserved.
+11. Under **Article 201**, if a reserved Bill is returned and the State re-passes it, the **President is still not bound** to assent — unlike the Governor’s position after re-passage under Article 200.
+12. **Article 213** ordinances: House(s) not in session; same **six-week** reassembly rhythm as at the Centre. In listed cases the Governor needs the **President’s instructions** before promulgating.
+13. The Chief Minister is appointed by the Governor (**Article 164**) and has a communication duty under **Article 167** (parallel to the PM’s Article 78).
+14. State Council of Ministers: collective responsibility to the **Legislative Assembly only**. Size under the **91st Amendment**: maximum **15% of the Assembly**, with a floor of **12** ministers including the CM.
+15. The **Advocate General** (**Article 165**) needs High Court judge qualifications, holds office during the **pleasure of the Governor**, and may speak in both Houses but **cannot vote**.
+16. Legislative Assembly: maximum **500**, minimum **60**; term **five years**. **Uttar Pradesh** Assembly strength is **403**. Quorum is **10 members or one-tenth**, whichever is greater.
+17. MLA disqualification under **Article 191** is decided by the **Governor on binding Election Commission advice** (**Article 192**), except the anti-defection track handled by the Speaker.
+18. Legislative Council under **Article 171**: maximum **one-third of the Assembly**, minimum **40**. Members’ term is **six years** with one-third retiring; the Council is **never dissolved**, but it **can be abolished**.
+19. Creation or abolition of a Council uses **Article 169**: the Assembly passes a resolution by **special majority**, then Parliament acts by **simple majority** — this is **not** an Article 368 amendment.
+20. Council composition mix to lock: about **1/3** local bodies, **1/12** graduates, **1/12** teachers, **1/3** MLAs, **1/6** nominated (including co-operatives in the teaching list).
+21. There is **no joint sitting** in a State legislature. Deadlocks follow **Article 197** — the **Assembly prevails**. A Bill that **originates in the Council** and is **rejected by the Assembly** **dies**.
+22. Bicameral States now: **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh**. UP Council strength is **100**.
+23. A minister for **tribal welfare** is **compulsory** in **Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha** (**Article 164**).
+24. **State PSC** members are **appointed by the Governor** but **removed by the President** (after Supreme Court enquiry) — classic appointment/removal swap trap.
+25. The Governor is a **constituent part of the State legislature** (**Article 168**), just as the President is of Parliament, even though he sits in neither House.
+26. The office is on the **Canada** model (appointed by the Centre), **not** the USA model of elected governors. The Constituent Assembly dropped an elected Governor.
+27. The CM need not be from the Assembly alone: a Council member can be CM, and a non-member may be CM for up to **six months** while getting elected.
+28. Sarkaria conventions (outsider, detached from active politics, consult CM) are political expectations, often broken; Punchhi’s fixed-tenure / impeachment-like removal idea was **not implemented**.
 
-GOVERNOR 153–162:
-  153 office (proviso: ONE person for TWO+ States — 7th Amd) | 154 exec power
-  155 APPOINTMENT by President (NOT removal) | 156 5y + pleasure of President
-  157 citizen + 35 yrs | 158 no MP/MLA | oath 159 before HC CJ
-  161 pardon (NO death, NO court-martial) | 162 extent of State exec power
-  163 aid & advise EXCEPT discretion | Dual role: constitutional head + Centre’s agent
+---
 
-DISCRETION: hung CM | dismiss CoM that lost house | dissolve LA | reserve Bill 200
-  recommend 356 | Art. 371 special | seek info from CM (167)
-  Bommai: majority on the HOUSE floor, not in Raj Bhavan
+## Confused Pairs (exam killers)
 
-BILLS 200: assent / withhold / return (not Money) / reserve for President
-  MUST reserve if HC powers cut | 201 President: assent / withhold / return
-  If State re-passes a returned reserved Bill, President is STILL not bound
-
-ORDINANCE 213: House(s) not in session | 6 weeks of reassembly
-  President’s instructions when the Bill would have needed reservation
-
-CM 164: appointed by Governor | 167 communicate (like PM’s 78)
-CoM: collective resp to LA | 91st: ≤15% of LA, MIN 12 including CM | pleasure 164
-AG 165: HC-judge qualif | pleasure of Governor | speak both Houses, NO vote
-
-LA: max 500 min 60 | 5y | UP 403 | quorum 10 or 1/10 whichever greater
-  Disq 191 → Governor+EC (192) | Money Bill 198–199 | Budget 202
-LC 171: max 1/3 of LA, MIN 40 | 6y 1/3 retire | NEVER dissolved, CAN be abolished (169)
-  Mix: 1/3 local · 1/12 graduates · 1/12 teachers · 1/3 MLAs · 1/6 nominated (+co-ops)
-  169: LA special majority → Parliament SIMPLE majority (≠ 368)
-  NO joint sitting in a State | Art.197 LA prevails | LC-origin Bill rejected by LA DIES
-Bicameral now: AP, Bihar, Karnataka, MH, Telangana, UP (LC=100)
-Tribal welfare minister COMPULSORY: CG, JH, MP, Odisha
-SPSC: appointed by Governor, REMOVED by President
-```
+| A | B | Lock | Hindi |
+|---|----|------|-------|
+| Art. 155 appointment | Art. 156 pleasure / removal | 155 ≠ removal | नियुक्ति / पदच्युति |
+| Art. 154 vesting | Art. 162 extent | Power vested vs **extent** of power | 154 / 162 |
+| Art. 72 death pardon | Art. 161 Governor pardon | Only President for death / court-martial | क्षमा |
+| LC abolished | LC dissolved | Can be **abolished** (169); **never dissolved** | विधान परिषद |
+| CoM min 12 | “Min 10” trap | Floor is **12** including CM (91st) | मंत्रिपरिषद |
+| CoM to LA only | “Both Houses” claim | Collective responsibility to **Assembly only** | सामूहिक उत्तरदायित्व |
+| Art. 200 re-passage | Art. 201 reserved Bill | Governor bound after re-passage path vs President **still free** | 200 / 201 |
+| SPSC appointment | SPSC removal | Governor appoints vs **President** removes | राज्य लोक सेवा आयोग |
+| State joint sitting | Art. 197 | **No** joint sitting; Assembly prevails | संयुक्त बैठक नहीं |
+| LC-origin Bill | Assembly rejection | Bill **dies** if Assembly rejects | परिषद विधेयक |
+| NCT-style LG | State Governor | Different Centre tether; State Governor = 153–162 scheme | उपराज्यपाल / राज्यपाल |
+| Tribal welfare minister | All States optional | **Compulsory** in CG, JH, MP, Odisha | जनजातीय कल्याण |
+| LC Chairman | Governor as automatic Chair | Council elects its **own** Chairman from members | परिषद सभापति |
+| One Governor, one State | 7th Amd proviso | Same person **may** govern two or more States | एक व्यक्ति दो राज्य |
 
 ---
 

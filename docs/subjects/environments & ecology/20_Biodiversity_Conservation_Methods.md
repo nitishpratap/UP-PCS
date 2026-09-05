@@ -14,46 +14,36 @@ In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-TWO MASTER STRATEGIES:
-  IN-SITU  = on-site, natural habitat — PREFERRED (primary)
-  EX-SITU  = off-site, outside habitat — SUPPLEMENTARY (backup)
+1. **In-situ** conservation protects biodiversity **in the natural habitat**. It is the preferred primary strategy because the whole ecosystem and natural selection stay intact.
+2. **Ex-situ** conservation protects biodiversity **outside** the natural habitat — zoos, botanic gardens, seed banks, gene banks, cryobanks. It is a backup, not a replacement for in-situ.
+3. In-situ examples: National Park, Wildlife Sanctuary, Biosphere Reserve, Conservation/Community Reserve, sacred grove, Ramsar wetland, wildlife corridor.
+4. Ex-situ examples: zoo, botanical garden, seed bank, gene bank, captive breeding centre, tissue culture, cryopreservation.
+5. Four-way exam pattern: National Park and sacred grove are **in-situ**; zoo, seed bank, and botanic garden are **ex-situ**.
+6. A **gene bank** stores genetic material broadly — seeds, DNA, tissue, pollen, sperm, embryos. A **seed bank** stores **seeds only**.
+7. **Orthodox seeds** (wheat, rice) tolerate drying and cold storage around **−18°C**. **Recalcitrant seeds** (mango, coconut) cannot take simple dry seed-bank storage and need living collections or cryo routes.
+8. **Cryopreservation** stores material at about **−196°C** in liquid nitrogen.
+9. India’s plant gene/seed flagship is **NBPGR**, New Delhi (**1976/1978** line). India’s animal gene-bank flagship is **NBAGR**, Karnal (**1984**).
+10. The **Indian Botanic Garden**, Howrah (**1787**), is India’s classic large botanic garden, linked with BSI administration. The **National Zoological Park**, New Delhi (**1959**), is the national zoo flagship.
+11. **CZA** is the statutory zoo regulator under **MoEFCC**.
+12. The **Svalbard Global Seed Vault** in Norway is a duplicate backup vault — not India’s NBPGR.
+13. NBPGR is plants in Delhi; NBAGR is animals in Karnal. BSI in Kolkata surveys plants; it is **not** the national gene bank.
+14. Dudhwa and Katerniaghat-style protected areas are **in-situ**. Kukrail crocodile centre and garden collections are **ex-situ**.
+15. Sacred groves are community in-situ pockets — do not park them with zoos.
+16. Wildlife corridors keep in-situ populations linked; they are not ex-situ cages.
+17. Captive breeding is ex-situ recovery support; releasing only works if habitat (in-situ) remains.
+18. Seed banks fail for recalcitrant species if the stem assumes every crop seed stores like wheat.
+19. Gene bank ⊃ seed bank. Calling every gene bank a “seeds-only room” is wrong.
+20. Biosphere Reserves and National Parks are in-situ frameworks; botanic gardens are living ex-situ plant collections.
+21. UP exam colour: Dudhwa/Katerniaghat = in-situ; NBRI Lucknow garden collections = ex-situ; NBPGR in Delhi still serves national plant genetic resources including UP crops.
+22. Community and Conservation Reserves are newer in-situ tools beside classic parks and sanctuaries.
+23. Cryobanking is an ex-situ technology for germplasm that ordinary refrigeration cannot hold.
+24. Priority line for prelims: **in-situ first, ex-situ supplementary** — never reverse the preference.
 
-IN-SITU: NP | Sanctuary | Biosphere Reserve | Conservation/Community Reserve
-  Sacred grove | Ramsar wetland | Wildlife corridor
+---
 
-EX-SITU: Zoo | Botanical garden | Seed bank | Gene bank
-  Captive breeding centre | Cryobank | Tissue culture
-
-PRIORITY: In-situ > Ex-situ — whole ecosystem + natural selection preserved
-
-INDIA FLAGSHIPS:
-  NBPGR — New Delhi — plant gene/seed bank (1978)
-  NBAGR — Karnal — animal gene bank (1984)
-  Indian Botanic Garden — Howrah (1787) — largest in India
-  National Zoological Park — New Delhi (1959) | CZA under MoEFCC
-
-GENE BANK vs SEED BANK:
-  Gene bank = BROADER (seeds + DNA + tissue + pollen + sperm + embryos)
-  Seed bank = seeds only (orthodox seeds store at -18°C; recalcitrant cannot)
-
-SEED TRAPS:
-  Orthodox (wheat, rice) → long cold storage OK
-  Recalcitrant (mango, coconut) → living collection or cryo, not simple seed bank
-  Svalbard Global Seed Vault = Norway (duplicate backup)
-
-FOUR-WAY TRAP (repeat exam pattern):
-  NP = in-situ | Sacred grove = in-situ
-  Zoo = ex-situ | Seed bank = ex-situ | Botanic garden = ex-situ
-
-ORG TRAPS:
-  NBPGR = Delhi (plants) | NBAGR = Karnal (animals)
-  BSI = survey (Kolkata) ≠ NBPGR | BSI administers Indian Botanic Garden
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -254,21 +244,6 @@ D. Sacred groves
 
 ---
 
-## Consolidated Reference
-
-| Method | Type | India flagship |
-|--------|------|----------------|
-| National Park | In-situ | Dudhwa (UP) |
-| Wildlife Sanctuary | In-situ | Katerniaghat (UP) |
-| Sacred Grove | In-situ | Tribal UP |
-| Seed Bank / Gene Bank (plants) | Ex-situ | NBPGR, Delhi |
-| Gene Bank (animals) | Ex-situ | NBAGR, Karnal |
-| Botanical Garden | Ex-situ | Indian Botanic Garden, Howrah |
-| Zoological Park | Ex-situ | Delhi Zoo |
-
-**UP locks:** Dudhwa/Katerniaghat = in-situ | Kukrail croc centre = ex-situ | NBRI Lucknow garden = ex-situ | NBPGR serves all states from Delhi.
-
----
 
 ## Practice Zone
 

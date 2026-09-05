@@ -14,35 +14,40 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 28 Must-Score Locks
 
-```
-WILDLIFE CONSERVATION = Protect species + habitats (in-situ primary; ex-situ backup)
-THREATS: Habitat loss | Poaching | Human–wildlife conflict | Diclofenac (vultures) | Invasive species
+1. Wildlife conservation protects species and habitats, with **in-situ** primary and **ex-situ** as backup.
+2. Major threats include habitat loss, poaching, human–wildlife conflict, invasive species, and veterinary **diclofenac** for vultures.
+3. The **Wildlife (Protection) Act, 1972** followed the Stockholm moment and uses **six Schedules**. **Schedule I** is maximum protection.
+4. Schedule I locks include tiger, elephant, rhino, gharial, and vultures among frequently asked species.
+5. The **Chief Wildlife Warden** is the State implementing officer. **NBWL** is the PM-chaired national advisory body.
+6. **NTCA** became statutory through the **2005/2006** WPA amendments and governs **Tiger Reserves only**.
+7. **Project Tiger** began in **1973**. Corbett was the first tiger reserve. India has **58** tiger reserves. The **2022** census figure often locked is **3,682** tigers.
+8. **Project Elephant** began in **1992** with about **33** elephant reserves and **no WPA statutory basis**.
+9. The **Crocodile Project (1975)** covers gharial, mugger, and saltwater crocodile.
+10. **Project Lion (2020)** focuses on Asiatic lions at **Gir, Gujarat** (about **750+** wild lions). Uttar Pradesh has **no** wild Asiatic lion population.
+11. **IRV 2020** planned rhino recovery across seven PAs, including **Dudhwa** in Uttar Pradesh.
+12. **Project Snow Leopard (2009)** and **GSLEP (2013)** cover high Himalaya across **12** range countries. UP has **no** snow leopard habitat.
+13. The **Vulture Action Plan (2006)** and veterinary **diclofenac ban (2006)** address renal failure in Indian vultures. Pinjore is a key breeding centre.
+14. An **umbrella** species (tiger, elephant) protects wide ecosystems. A **flagship** species mobilises public support. A **keystone** species’ loss collapses function (vulture example).
+15. World Wildlife Day is **3 March**, not 22 March. Wildlife Week in India is **2–8 October**.
+16. **Operation Olivia** is an Indian Coast Guard nesting patrol on the **Odisha** coast, mainly **November–February**, not August.
+17. UP tiger reserves are **Dudhwa, Pilibhit, and Ranipur**.
+18. UP rhino lock is **Dudhwa National Park** (reintroduced population).
+19. UP gharial sites include **Katarniaghat Wildlife Sanctuary** and the **Chambal** sanctuary landscape.
+20. UP elephant reserves are **UP ER (2009)** and **Terai ER (2022)**.
+21. Uttar Pradesh has **no Olive Ridley mass-nesting coast** like Odisha.
+22. Programme-year chain: WPA **1972** → Project Tiger **1973** → Crocodile Project **1975** → Project Elephant **1992** → Biodiversity Act **2002** → NTCA statutory **2005/2006** → Vulture ban **2006** → Project Snow Leopard **2009** → Project Lion **2020**.
+23. Project Tiger has a WPA tiger-reserve framework; Project Elephant does not — keep that legal difference.
+24. Diclofenac is a veterinary NSAID story for vultures, not a tiger-poaching chemical lock.
+25. Conservation is ecological protection; **Wildlife Protection** in exam language often means the **WPA enforcement** track.
+26. Gir is Gujarat-only for wild Asiatic lions — never park Project Lion in Dudhwa.
+27. Snow leopard is a Trans-Himalaya/high Himalaya lock — never park it in Gangetic plain UP.
+28. NTCA does not run Elephant Reserves; confusing NTCA with Project Elephant administration is a trap.
 
-WPA 1972: Enacted post-Stockholm | 6 Schedules | Sch I = max protection (tiger, elephant, rhino, gharial, vulture)
-CWLW = State implementing officer | NBWL = PM-chaired advisory body
-NTCA = statutory 2005/2006 WPA amend | governs Tiger Reserves only
+---
 
-SPECIES PROGRAMMES (year trap):
-  Project Tiger — 1973 | Corbett first TR | 58 TRs | 3,682 tigers (2022 census)
-  Project Elephant — 1992 | 33 ERs | NO WPA basis
-  Crocodile Project — 1975 | gharial + mugger + saltwater croc
-  Project Lion — 2020 | Gir only wild Asiatic lions (~750+)
-  IRV 2020 — rhino to 7 PAs including Dudhwa (UP)
-  Project Snow Leopard — 2009 | GSLEP 2013 | 12 range countries
-  Vulture Action Plan 2006 | vet diclofenac ban 2006 | Pinjore breeding centre
-
-KEY DATES:
-  World Wildlife Day = 3 March (NOT 22 March) | Wildlife Week India = 2–8 Oct
-  Operation Olivia = ICG | Odisha coast | nesting Nov–Feb (NOT August)
-
-UP LOCKS:
-  Tiger TRs: Dudhwa, Pilibhit, Ranipur | Rhino: Dudhwa | Gharial: Katarniaghat + Chambal
-  Elephant ERs: UP ER (2009), Terai ER (2022) | NO Asiatic lion | NO Olive Ridley mass nesting
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -287,38 +292,6 @@ D. Diclofenac
 **Ans: D**
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-### Species programme master table
-
-| Programme | Year | Species | WPA basis? |
-|-----------|------|---------|------------|
-| Project Tiger | 1973 | Tiger | Yes — Sec 38V + NTCA |
-| Project Elephant | 1992 | Elephant | **No** |
-| Crocodile Project | 1975 | Gharial, mugger, saltwater croc | No |
-| Project Lion | 2020 | Asiatic lion | No |
-| IRV 2020 | 2020 target | One-horned rhino | No (translocation plan) |
-| Project Snow Leopard | 2009 | Snow leopard | No |
-| Vulture Action Plan | 2006 | Indian vultures | Drug ban under drugs rules |
-
-### Chronology lock
-
-WPA **1972** → Project Tiger **1973** → Crocodile Project **1975** → Project Elephant **1992** → Biodiversity Act **2002** → NTCA statutory **2005/2006** → Vulture ban **2006** → Project Snow Leopard **2009** → GSLEP **2013** → Project Lion **2020**
-
-### UP Focus
-
-| Species / programme | UP site |
-|----------------------|---------|
-| Tiger | Dudhwa, Pilibhit, Ranipur TRs |
-| Elephant | UP ER (2009), Terai ER (2022) |
-| Rhino | Dudhwa NP (reintroduced) |
-| Gharial | Katarniaghat WLS, Chambal Sanctuary |
-| Lion | **None** — Gir is Gujarat |
-| Snow leopard | **None** — high Himalaya only |
-| Vulture VSZ | Gangetic plain belt (UP–Bihar) |
 
 ---
 

@@ -14,26 +14,34 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 22 Must-Score Locks
 
-```
-INDICATORS: Pressure → State → Response (PSR)
-  Air: PM2.5/PM10, SO₂, NOx, AQI | Water: BOD, COD, DO, pH, coliform
-  Noise: dB | Smoke opacity: Ringelmann 0–5 | Bio: lichens (SO₂)
+1. The **PSR** model runs **Pressure → State → Response** for environmental indicators.
+2. Air indicators include **PM2.5, PM10, SO₂, NOx, and AQI**. Water indicators include **BOD, COD, DO, pH, and coliform**.
+3. Noise is measured in **decibels**. Smoke opacity uses the **Ringelmann** scale **0–5**.
+4. **Lichens** are classic bio-indicators for sulphur dioxide stress.
+5. **Monitoring** means systematic repeated measurement against standards. It is not the same as an audit.
+6. **CPCB** runs **NAMP** (manual air), **CAAQMS** (real-time air), and **NWMP** (surface water).
+7. **CGWB** monitors groundwater quality and levels and publishes the annual groundwater quality report.
+8. **SAFAR** is the IITM air-quality and weather forecast system associated with Harsh Vardhan’s launch messaging in **July 2018**.
+9. **NCAP (2019)** expands city monitoring and action. **SAMEER** is an AQI public app.
+10. An **environmental audit** verifies compliance with law or clearance conditions — it is more than raw data logging.
+11. **Form V** Environmental Statement under EPA Rule **14** goes to the SPCB yearly.
+12. **ISO 14001** is the Environmental Management System standard.
+13. Consent to Operate links industry permission to both monitoring data and audit compliance.
+14. **BOD** is microbial oxygen demand. **COD** is chemical oxygen demand. COD is usually ≥ BOD.
+15. NAMP shows long trend with manual stations. CAAQMS gives continuous real-time feeds.
+16. CPCB is the air–surface-water regulator home. CGWB is the groundwater home. Do not swap them.
+17. Green audits and EC compliance reports sit in the audit family, not in casual one-off sampling.
+18. Indicators turn raw numbers into decision signals for policy and public warning.
+19. Bio-indicators supplement instruments when living organisms reveal chronic pollution stress.
+20. Ringelmann is about visible smoke shade, not a water-quality number.
+21. Do not call an audit “just another AQI reading.” Audit checks legal conformity.
+22. Surface-water networks (NWMP) do not replace groundwater networks (CGWB).
 
-MONITORING: repeated measurement vs standards
-  CPCB: NAMP (manual air), CAAQMS (real-time), NWMP (surface water)
-  CGWB: groundwater quality/level — Annual GW Quality Report (2025 Q70)
-  SAFAR = IITM AQ + weather forecast (Harsh Vardhan, July 2018)
-  NCAP 2019 expands city monitoring | SAMEER app = AQI
+---
 
-AUDIT: verifies compliance (not just raw data)
-  Form V Environmental Statement (EPA Rule 14) → SPCB yearly
-  ISO 14001 = EMS standard | Green audit / EC compliance reports
-  Audit ≠ Monitoring | Consent to Operate linked to both
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -170,22 +178,6 @@ SAFAR inaugurated (July 2018) by:
 | SPCB inspection | Enforcement audit on ground |
 
 > **Exam note:** Passing an AQI reading ≠ completing an environmental audit.
-
----
-
-## Consolidated Reference
-
-| Lock | Value |
-|------|-------|
-| BOD meaning | Aquatic organic pollution assay |
-| Ringelmann | Smoke density 0–5 |
-| GW Quality Report | CGWB |
-| SAFAR | IITM; Harsh Vardhan 2018 |
-| Form V | Annual environmental statement |
-| ISO 14001 | EMS standard |
-| Audit vs monitoring | Verify compliance vs measure |
-
-**UP locks:** CAAQMS/AQI in Lucknow–Kanpur–Ghaziabad | UPPCB consents | Ganga/Gomti NWMP stations | Bundelkhand fluoride GW (CGWB)
 
 ---
 

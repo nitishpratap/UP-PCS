@@ -14,25 +14,36 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-GHG = absorbs outgoing IR → traps heat
-Without natural GH effect ≈ −18°C | With it ≈ +15°C
+1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
+2. Without the natural greenhouse effect Earth would average about **−18°C**. With it the surface averages about **+15°C**.
+3. **CO₂** has **GWP = 1**. It dominates long-term forcing from fossil fuels, cement, and deforestation.
+4. Pre-industrial CO₂ was about **280 ppm**. Present levels are above **420 ppm**.
+5. **Methane (CH₄)** has GWP about **28–36**, a shorter lifetime near **12 years**, and strong links to paddies, cattle, landfills, and termites.
+6. **Nitrous oxide (N₂O)** is “laughing gas,” has very high GWP (about **265**), and is strongly linked to **fertilizer** use.
+7. **Water vapour** is the most abundant natural greenhouse gas, but it mainly acts as a **feedback**, not the primary anthropogenic driver.
+8. **Tropospheric ozone** is a greenhouse gas and pollutant. **Stratospheric ozone** is the UV shield.
+9. **CFCs** are both greenhouse gases and ozone-depleting substances and fall under Montreal controls.
+10. **HFCs** are greenhouse gases only (not classic ODS) and are phased down under **Kigali 2016**.
+11. Gases that are **not** greenhouse gases include **argon, N₂, O₂, and helium**.
+12. The Kyoto basket covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆**.
+13. **GWP** compares heat-trapping power to CO₂ over a stated horizon, usually **100 years**.
+14. **CO₂e** converts all greenhouse gases into carbon-dioxide equivalent using GWP.
+15. Biogas is mainly **methane plus CO₂**. Do not treat biogas as CO₂-only.
+16. Paddy fields are a classic **methane** source lock in Indian papers.
+17. CFC versus HFC is dual-role ODS+GHG versus climate-only substitute under Kigali.
+18. N₂O is not the same as N₂. Molecular nitrogen is inert as a greenhouse gas.
+19. Water vapour rises as Earth warms; that feedback amplifies warming but does not replace fossil CO₂ as the driver.
+20. F-gases (HFCs, PFCs, SF₆) are small by mass but can be huge by GWP.
+21. Cement process emissions are a major industrial CO₂ source beyond fuel combustion.
+22. Do not list argon as a greenhouse gas in a multi-statement stem.
+23. Methane’s shorter lifetime still matters because near-term warming impact is strong.
+24. Ozone’s greenhouse role is mainly **tropospheric**; do not call stratospheric ozone the main GHG form.
 
-CO₂  GWP=1 | ~76% forcing | fossil fuels, cement, deforestation | 280→420+ ppm
-CH₄  GWP~28–36 | ~16% | paddies, cattle, landfills, termites | lifetime ~12 yr
-N₂O  GWP~265 | ~6% | fertilizers | "laughing gas"
-H₂O  most abundant natural GHG | FEEDBACK, not primary anthropogenic driver
-O₃   tropospheric = GHG + pollutant | stratospheric = UV shield
-CFCs GHG + ODS | Montreal | high GWP
-HFCs GHG only (not ODS) | Kigali 2016 | replaced CFCs in cooling
+---
 
-NOT GHGs: Argon | N₂ | O₂ | Helium
-Kyoto basket: CO₂, CH₄, N₂O, HFCs, PFCs, SF₆
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -263,24 +274,6 @@ Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection stateme
 | HCFC | Yes (lower) | Transitional | Montreal phase-out |
 
 > **Exam note:** Replacing CFCs with HFCs fixed ozone risk but created a climate problem.
-
----
-
-## Consolidated Comparison Card
-
-| Gas | GWP (100-yr, approx.) | Forcing share (anth.) | Exam source lock |
-|-----|------------------------|------------------------|------------------|
-| CO₂ | 1 | ~76% | Fossil fuels |
-| CH₄ | 28–36 | ~16% | Paddy / cattle |
-| N₂O | ~265 | ~6% | Fertiliser / laughing gas |
-| H₂O | — | Natural feedback | Not inventory driver |
-| O₃ (tropo) | — | Secondary | Smog pollutant |
-| CFCs | Thousands | Declining | GHG + ODS |
-| HFCs | Hundreds–thousands | Rising without Kigali | GHG only |
-
-**NOT GHGs:** Argon, N₂, O₂, He
-
-**UP locks:** Rice belt → CH₄ | Urea belt → N₂O | Thermal power → CO₂ | NCR smog → tropospheric O₃
 
 ---
 

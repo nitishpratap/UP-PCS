@@ -15,42 +15,36 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-MEDIEVAL MUSIC SPINE
-Sultanate: Khusrau + Chishti sama + Hindavi synthesis
-Akbar peak: Tansen (dhrupad) + Navratna court patronage
-Later Mughal: Muhammad Shah Rangeela → khayal bloom (Sadarang/Adarang) + Tappa
+1. Sultanate music fused **Amir Khusrau**, Chishti **sama**, and Hindavi synthesis before the Mughal dhrupad peak.
+2. **Dhrupad** is the oldest art form, uses **pakhawaj**, and runs from **Man Singh Tomar** to **Tansen**.
+3. **Khayal** is dominant today, uses **tabla**, and bloomed under **Muhammad Shah** through **Sadarang / Adarang**.
+4. **Qawwali** is the Sufi chorus linked to **Amir Khusrau** and the **Nizamuddin Auliya** circle.
+5. **Tappa** was refined at **Muhammad Shah Rangeela’s** court, not at Akbar’s court.
+6. **Tarana** uses nonsense syllables and is traditionally linked to Khusrau.
+7. Before Akbar, **Raja Ramchandra of Bhata (Rewa)** patronised **Tansen**.
+8. Under Akbar, Tansen was a **Navratna** and dhrupad master; his honorific was **Miyan Tansen**.
+9. Tansen ragas include **Miyan Ki Todi**, **Miyan Ki Malhar**, and **Darbari Kanada**.
+10. **Amir Khusrau** (1253–1325) was a disciple of **Nizamuddin** and served Balban / Alauddin / Ghiyasuddin courts — not Akbar.
+11. Music-treatise locks: **Ragamala–Pundrik Vitthal**; **Rasa Kaumudi–Sri Kantha**; **Raga Vibodh–Somanath**; **Chaturdandi Prakashika–Venkatamakhin**.
+12. In music-treatise stems, **Raga Vibodh** belongs to **Somanath**; a separate literary list once paired Khusrau with Rag Vibodh — learn both codes.
+13. **Akbar** marks the dhrupad peak; **Muhammad Shah** marks the later khayal and tappa bloom.
+14. **Tabla** accompanies khayal and thumri; **pakhawaj** accompanies dhrupad — do not swap the drums.
+15. **Thumri** is Awadh–Banaras romantic light classical; do not confuse it with camel-song **tappa**.
+16. UP music geography: **Agra gharana** for khayal; **Lucknow–Banaras thumri**; **Kajri** of the Mirzapur–Banaras belt.
+17. Theory roots remain **Natyashastra**, **Brihaddeshi** (Matanga; clear use of “raga”), and **Sangeet Ratnakar** (Sharngadeva).
+18. After the 12th–13th century, **Hindustani** (north) and **Carnatic** (south) classical branches diverged.
+19. **Sama** is the Chishti musical assembly; **qawwali** is the related Sufi chorus form.
+20. **Aurangzeb** reduced court music patronage, but music survived in regional courts and private mehfils.
+21. Early Mughals favoured **dhrupad**; later Mughals favoured **khayal** and lighter forms.
+22. Tansen and Amir Khusrau were **not** contemporaries — one is Akbar-age, the other Sultanate-age.
+23. Folklore credits Khusrau with sitar, tabla, and qawwali inventions, but exam locks keep him as the Nizamuddin–Hindavi music bridge.
+24. Gwalior / Behat tradition feeds Tansen’s origin story before the Rewa and Akbar courts.
 
-FORMS (★★★)
-Dhrupad = oldest art form; pakhawaj; Man Singh Tomar → Tansen
-Khayal = dominant today; tabla; bloom under Muhammad Shah
-Qawwali = Sufi chorus; Amir Khusrau + Nizamuddin circle
-Tappa = refined at Muhammad Shah court (2023 Q38 = D) — NOT Akbar
-Tarana = nonsense syllables; tradition links Khusrau
+---
 
-TANSEN (★★★ 2019 Q89)
-Before Akbar: Raja Ramchandra Singh of Bhata (Rewa)
-Then Akbar Navratna | Dhrupad master | Gwalior/Behat origin
-Miyan Tansen title | Ragas: Miyan Ki Todi, Miyan Ki Malhar, Darbari Kanada
-
-AMIR KHUSRAU (1253–1325)
-Disciple of Nizamuddin Auliya (2025 Q12) | Qawwali + tarana pioneer
-Court of Balban / Alauddin / Ghiyasuddin | NOT Akbar/Tansen era
-Folklore: sitar, tabla, qawwali inventions
-
-MUSIC TEXTS (2021 Q22 = A 3-4-1-2 | 2022 Q108 = D)
-Ragamala — Pundrik Vitthal
-Rasa Kaumudi — Sri Kantha
-Raga Vibodh — Somanath
-Chaturdandi Prakashika — Venkatraman / Venkatamakhin
-
-TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
-      2021/2022 music-treatise questions match Raga Vibodh–Somanath. Learn both codes.
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -308,38 +302,6 @@ Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 </details>
 
 **2. (UPPCS Prelims 2022, Q108)** Same four pairs with variant spellings — answer **D (3-4-1-2)**.
-
----
-
-## Consolidated Reference
-
-### Form ↔ Feature
-
-| Form | Era/link | Drum / trait |
-|------|----------|--------------|
-| **Dhrupad** | Man Singh Tomar → Akbar/Tansen | **Pakhawaj**; austere |
-| **Khayal** | Muhammad Shah; Sadarang/Adarang | **Tabla**; dominant today |
-| **Qawwali** | Khusrau–Nizamuddin / Chishti | Sufi chorus |
-| **Tappa** | Muhammad Shah court | Fast, ornate; Shori Miyan |
-| **Tarana** | Khusrau tradition | Syllable-based close |
-
-### Patron ↔ Musician
-
-| Patron | Musician / form |
-|--------|-----------------|
-| Raja Ramchandra of **Bhata** | **Tansen** (before Akbar) |
-| **Akbar** | **Tansen** (dhrupad Navratna) |
-| **Muhammad Shah** | Sadarang/Adarang (khayal); Tappa refined |
-| **Nizamuddin Auliya** | **Amir Khusrau** (qawwali/tarana circle) |
-
-### UP Focus
-
-| Element | UPPCS relevance |
-|---------|-----------------|
-| **Agra gharana** | UP khayal geography |
-| **Lucknow–Banaras thumri** | Later Awadh light classical |
-| **Kajri** | Mirzapur–Banaras monsoon folk |
-| **Nizamuddin–Khusrau** | Delhi–UP cultural belt Chishti music |
 
 ---
 

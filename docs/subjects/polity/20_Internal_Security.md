@@ -15,42 +15,42 @@ Internal Security Institutions | NIA | NSG | IB | RAW | CAPFs (CRPF, BSF, CISF, 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-Police / public order = STATE List. Union duty Art. 355. MHA = internal nodal. Army / Navy / IAF / Coast Guard = MoD.
-Who deploys, which border, which statute-force. 352/356/360 are the Emergency articles. CBI/NIA/IB/RAW appointment character is statutory or executive.
-
-IB 1887 internal MHA · MAC sits with IB · NATGRID MHA · NCTC proposed NOT born
-RAW 21 Sep 1968 R.N. Kao · external · Cabinet Secretariat / NSA — not MHA
-NIA Act 2008 post-26/11 · scheduled offences · NO State consent (≠ CBI s.6) · 2019 extra-territorial
-NSC 1998 PM chairs · first NSA Brajesh Mishra · SPG (Strategic Policy Group, NSA chairs after 2018) + NSAB + NSCS
-CCS = Cabinet Committee on Security (Cabinet) ≠ NSC (extra-constitutional council)
-SPG Act 1988 = Special Protection Group (PM). 2019: PM + family; ex-PM 5 years. ≠ NSC’s “SPG”
-NSG 1984 / Act 1986 Black Cats · SAG (Army) + SRG (CAPF) · Manesar · MHA
-CAPF (MHA): CRPF 1939 · BSF 1 Dec 1965 (Pak+BD, Rustamji) · CISF 1969 (PSU/airport) · ITBP 1962 (China/LAC) · SSB 1963/2001 (Nepal+Bhutan)
-Assam Rifles 1835 oldest · dual: admin MHA, ops Army · NE · HQ Shillong
-Coast Guard 1978 MoD ≠ CAPF. 3-tier coastal: marine police → ICG → Navy
-NDRF = DM Act 2005. RPF = Railways. CBI = India’s Interpol NCB (BHARATPOL).
-April 2024 LWE: Kanker CG (not Gadchiroli) · BSF + DRG
-
-CERT-In 2004 MeitY · IT Act s.70B · incident response · 2022 dirs: 6h report, logs 5y
-NCIIPC · s.70A · CII · under NTRO (NSA line) ≠ CERT-In
-I4C MHA 2018/20 · cybercrime.gov.in · National Cybercrime Training Centre ≠ NCTC (terror, never born)
-NCSC in NSCS · Cyber Swachhta Kendra CERT-In · Defence Cyber Agency 2019 MoD
-IT Act: 66A struck 2015 (T19) · 66F cyber-terrorism · 69/69A intercept/block
-Policy 2013 (MeitY). India NOT party to Budapest Convention. DPDP 2023 ≠ CERT-In
-UAPA 1967 · POTA repealed 2004 into UAPA · 2008 26/11 teeth · 2019 individuals as terrorists (4th Sch) · s.43D(5) bail · ≠ NSA 1980 PD
-TADA 1985–95 · POTA 2002 (joint sitting) · NIA takes scheduled UAPA
-AFSPA 1958 NE · s.3 disturbed (Gov/Centre) · s.4 fire/arrest/search · s.6 Centre sanction
-AFSPA J&K = separate 1990 Act · Punjab 1983 repealed
-Jeevan Reddy 2005 repeal rec (not enacted) · NPMHR 1997 upheld with limits · EEVEFA 2016 no fake-encounter licence
-Tripura 2015 out · Meghalaya out · Assam largely 2022 · still NL/MN/parts AR + J&K
-```
+1. Police and public order are **State List** subjects. The Union still has a duty under Article **355** to protect States against external aggression and internal disturbance. The **Ministry of Home Affairs** is the internal-security nodal ministry.
+2. The Army, Navy, Air Force, and Coast Guard sit under the **Ministry of Defence**. CAPFs sit under **Home**. Do not put Coast Guard in the CAPF list.
+3. The **Intelligence Bureau** (**1887**) is India’s internal intelligence agency under **MHA**. The Multi-Agency Centre sits with the IB. **NATGRID** is also under MHA.
+4. **RAW** was formed on **21 September 1968** under **R.N. Kao**. It handles **external** intelligence and reports through the **Cabinet Secretariat / NSA** line — **not** MHA.
+5. The **NIA** was created by the NIA Act **2008** after 26/11. It investigates scheduled offences **without** State consent (unlike CBI under DSPE section **6**). The **2019** amendment strengthened extra-territorial reach.
+6. India’s Interpol National Central Bureau is the **CBI**. **BHARATPOL** is the CBI-linked Interpol channel — not a separate CAPF.
+7. The **National Security Council** (**1998**) is chaired by the **Prime Minister**. The first NSA was **Brajesh Mishra**. NSC’s Strategic Policy Group is **not** the Special Protection Group.
+8. The **Cabinet Committee on Security** is a Cabinet committee. The **NSC** is an extra-constitutional security council. Do not treat them as one body.
+9. The **Special Protection Group** Act **1988** protects the Prime Minister (and, after **2019**, the PM’s family, with ex-PM cover for **five years**). It is close protection — not the NSC’s Strategic Policy Group.
+10. The **NSG** (“Black Cats”) was raised after **1984** and given a statute in **1986**. It has SAG (Army) and SRG (CAPF) components, trains at Manesar, and works under MHA.
+11. CAPFs under MHA include **CRPF (1939)**, **BSF (1 December 1965)** for Pakistan and Bangladesh borders, **CISF (1969)** for industry/airports, **ITBP (1962)** for the China / LAC belt, and **SSB (1963/2001)** for Nepal and Bhutan borders.
+12. **Assam Rifles** (**1835**) is the oldest central paramilitary force. Administration is with **MHA**; operations are with the **Army**. Its north-east HQ is **Shillong**.
+13. Coastal security is three-tier: marine police → **Indian Coast Guard** → **Navy**. Coast Guard (**1978**) is **MoD**, not a CAPF.
+14. **NDRF** is a disaster-response force under the Disaster Management Act **2005**. **RPF** belongs to the Railways. Neither is a classic border CAPF.
+15. **CERT-In** (**2004**) is under **MeitY** and draws power from IT Act section **70B**. It handles cyber incident response. **2022** directions require reporting in **six hours** and log retention for **five years**.
+16. **NCIIPC** (section **70A**) protects Critical Information Infrastructure and sits under the **NTRO** line. It is **not** CERT-In.
+17. **I4C** (MHA, **2018/20**) runs the cybercrime.gov.in ecosystem and a National Cybercrime Training Centre. That training centre is **not** the never-born counter-terror **NCTC**.
+18. Proposed **NCTC** (counter-terror) was **never** stood up. **MAC** (**2001**) lives inside the IB and is the working multi-agency coordination lock.
+19. IT Act section **66A** was struck down in **2015**. Section **66F** covers cyber-terrorism. Sections **69 / 69A** cover interception and blocking. India’s National Cyber Security Policy is **2013** (MeitY). India is **not** a party to the Budapest Convention.
+20. **UAPA 1967** is the living anti-terror criminal statute. **POTA** was repealed in **2004** and its teeth largely folded into UAPA. After **2019**, individuals can be designated terrorists (Fourth Schedule). Bail is hard under section **43D(5)**.
+21. **NSA 1980** is a **preventive detention** law (Article **22** track). UAPA is a **criminal trial** statute often used with the NIA. Do not swap them.
+22. **AFSPA 1958** applies in a notified **disturbed area** in the north-east. Section **3** notifies; section **4** gives fire/arrest/search powers; section **6** needs Central sanction for prosecution. Jammu & Kashmir uses a **separate 1990** AFSPA statute.
+23. AFSPA was lifted from Tripura (**2015**), Meghalaya, and large parts of Assam (**2022**). It still applies in parts of Nagaland, Manipur, Arunachal Pradesh, and under the J&K Act.
+24. The Jeevan Reddy Committee (**2005**) recommended repeal of AFSPA; that recommendation was **not** enacted. *NPMHR* (**1997**) upheld AFSPA with limits. Fake encounters are not a licence under later rulings.
+25. In April **2024** LWE operations, **Kanker (Chhattisgarh)** is the correct district lock — **not** Gadchiroli.
+26. The Defence Cyber Agency (**2019**) is under **MoD**. Cyber Swachhta Kendra sits with CERT-In. Keep ministry lines clear when matching institutions.
+27. India’s nuclear and cyber neighbours in this chapter are policy locks: strategic forces under Defence, cyber civilian response under MeitY, cybercrime under MHA, and critical infrastructure under NCIIPC/NTRO.
+28. **TADA** (**1985–95**) lapsed. **POTA** (**2002**) was repealed. The living central terror-trial tool for scheduled offences is **UAPA**, often with **NIA**.
+29. CRPF is the main internal mobile force (including RAF and CoBRA for LWE). BSF holds the western and eastern international land borders. CISF holds static industry and airport security. Do not swap roles.
+30. Emergency Articles **352, 356, and 360** are constitutional emergency tools. Internal security day-to-day work still runs through police, CAPFs, intelligence, and special statutes — not only through Emergency proclamations.
 
 ---
 
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|

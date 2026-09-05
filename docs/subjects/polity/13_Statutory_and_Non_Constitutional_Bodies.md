@@ -17,71 +17,41 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-STATUTORY = created by an ACT. Not in the Constitution (except CAT rides on 323A).
-
-Lokpal 2013: Chair + ≤8 (50% judicial; 50% SC/ST/OBC/minorities/women)
-  Selection: PM + LS Speaker + LoP LS + CJI/nominee + eminent jurist
-  NOT Chairman of Rajya Sabha (2024) | Search Committee ≠ Selection Committee
-  Complaint: prescribed form; ordinarily ≤7 years; inquiry ~60 days
-  5y or 70 | first Lokpal P.C. Ghose 2019 | removal like SC judge
-Lokayukta: State Act. Maharashtra 1971 first. UP Act 1975 + Up-Lokayukta
-
-CVC: Santhanam 1962 → executive 1964 → CVC Act 2003 (Vineet Narain)
-  Chair + 2 VCs | PM+HM+LoP | 4y or 65 | NO constitutional article (2020)
-  Superintendence over CBI in PCA cases — CVC itself is not a police force
-  CBI Director panel = PM + LoP LS + CJI (not CVC)
-
-RTI 2005 (12 Oct): CIC/SIC | 30 days (48h life/liberty) | PIO penalty ≤₹25,000
-  CIC: PM+LoP+Cabinet Minister | 2019 Amd: term/salary as Centre prescribes
-  MKSS → RTI movement (2019) | s.8 exemptions | s.4 suo motu
-
-NHRC: PHRA 1993 | statutory NOT 338 | recommendatory | ordinarily ≤1 year
-  2019: Chair = retired CJI or SC judge; term 3y or 70
-SHRC: retired HC CJ (2019: retired HC judge also)
-
-NGT 2010: Schedule Acts; Wildlife Protection Act NOT in
-  Chair SC/HC judge | Principal Bench Delhi | appeal SC | 6-month aim
-  Principles: sustainable development · polluter pays · precautionary
-
-NCW 1990 | NCM 1992 (5 + Jains 2014) ≠ 350B
-NCPCR 2005 (child <18; SCPCR) | NCSK 1993 (NOT 338; PEMSR 2013)
-
-NDMA: DM Act 2005 | PM | SDMA = CM | DDMA = DM | NEC = Cabinet Secretary
-CCI: Competition Act 2002 (ops 2009) | s.3/4/5–6 | replaced MRTP | appeal NCLAT
-SEBI: Act 1992 (was 1988 executive) | Mumbai | appeal SAT
-RBI: Hilton Young 1926 → Act 1934, 1 Apr 1935 | nationalised 1949
-  notes (₹1 + coins = GoI) | MPC 2016 | BR Act 1949
-NHB: Act 1987 | 2019: RBI regulates HFCs; GoI owns NHB
-CAT: AT Act 1985, Delhi | 323A | AFT 2007 for armed forces | 226 survives
-
-EXECUTIVE = resolution / order. Not an Act (except where a later Act gives teeth).
-
-Planning Commission 15 Mar 1950 (Nehru) | “Economic Cabinet” (Ashok Chanda)
-NDC 6 Aug 1952 | PM + CMs | approved Five-Year Plans
-NITI 1 Jan 2015 Cabinet Resolution | NOT constitutional, NOT statutory
-  Chair = PM | first Vice-Chair = Arvind Panagariya (2018)
-  Governing Council = CMs + Lt Governors | CEO = Secretary rank
-  Think-tank; does NOT allocate Plan funds; does NOT replace FC 280
-  SDG nodal (2019) | AIM | DMEO | Aspirational Districts (UP = 8 till 2021 PYQ)
-
-CBI: MHA resolution 1 Apr 1963 | power from DSPE Act 1946 | NOT statutory like CVC
-  DoPT | Interpol NCB / BHARATPOL (2025) | Academy Ghaziabad
-  State consent (s.6 DSPE) unless SC/HC orders | Director panel → CVC card
-NIA: Act 2008 (26/11) | scheduled offences | NO State consent needed | 2019 Amd
-IB: 1887 | internal | MHA | oldest
-RAW: 21 Sep 1968 | R.N. Kao | external | Cabinet Secretariat
-ED: 1956 | FEMA + PMLA | Department of Revenue (Finance)
-NSC: 1998 | PM chairs | first NSA Brajesh Mishra | SPG + NSAB + NSCS
-```
+1. A **statutory body** is created by an **Act of Parliament or a State legislature**. It is not created by the Constitution (CAT is the special case that rides on **Article 323A**).
+2. The **Lokpal and Lokayuktas Act, 2013** creates a Chairperson and up to **eight** members, with **half** judicial and **half** from SC/ST/OBC/minorities/women. Term is **five years or age 70**. Removal is like a Supreme Court judge.
+3. Lokpal’s Selection Committee is the **Prime Minister**, **Lok Sabha Speaker**, **Leader of Opposition in the Lok Sabha**, the **CJI or nominee**, and an **eminent jurist**. The **Chairman of the Rajya Sabha** is **not** on that panel. Search Committee and Selection Committee are different bodies.
+4. The first Lokpal was **Justice P.C. Ghose (2019)**. Complaints ordinarily cover acts within about **seven years** and follow a prescribed form. **Lokayukta** is a **State Act** office; **Maharashtra (1971)** was first; Uttar Pradesh has a 1975 Act with an Up-Lokayukta.
+5. The **Central Vigilance Commission** began from the Santhanam idea (**1962**), became executive in **1964**, and gained statutory status under the **CVC Act, 2003** after *Vineet Narain*. It has **no constitutional article**. Composition is Chairperson plus **two** Vigilance Commissioners.
+6. CVC members are selected by the **Prime Minister, Home Minister, and Leader of Opposition**, for **four years or age 65**. The CVC has superintendence over the CBI in Prevention of Corruption cases, but the CVC itself is **not** a police force. The CBI Director panel is **PM + LoP (LS) + CJI**, not the CVC.
+7. The **RTI Act, 2005** (in force **12 October 2005**) creates the CIC and SICs. Normal reply time is **30 days** (**48 hours** where life or liberty is at stake). PIO penalty can go up to **₹25,000**. The 2019 amendment lets the Centre prescribe term and salary.
+8. CIC selection involves the **Prime Minister, Leader of Opposition, and a Union Cabinet Minister**. The RTI movement’s grassroots lock is often traced to **MKSS**. Section **8** lists exemptions; section **4** demands suo motu disclosure.
+9. The **NHRC** is under the **Protection of Human Rights Act, 1993**. It is **statutory**, not Article **338**. Its recommendations are recommendatory. Complaints are ordinarily within **one year**. After 2019, the Chair may be a retired **CJI or Supreme Court judge**; term is **three years or age 70**.
+10. An **SHRC** Chair is typically a retired High Court Chief Justice; after 2019 a retired High Court judge may also qualify. Do not treat NHRC/SHRC as constitutional commissions under 338–338B.
+11. The **National Green Tribunal (2010)** covers scheduled environment Acts; the **Wildlife Protection Act** is **not** on that schedule. The Chair is an SC or HC judge; the Principal Bench is in **Delhi**; appeal lies to the Supreme Court; disposal aim is about **six months**.
+12. NGT decides with the principles of **sustainable development**, **polluter pays**, and the **precautionary** principle. It is created by the NGT Act, not by Article 323A.
+13. The **National Commission for Women** Act is **1990**. The **National Commission for Minorities** Act is **1992** (Jains notified in **2014**). NCM is **not** the Special Officer under **350B**.
+14. **NCPCR (2005)** deals with children below **18** and works with State Commissions. The **National Commission for Safai Karamcharis** is statutory (**1993** lineage; PEMSR **2013**) and is **not** Article 338.
+15. **NDMA** sits under the **Disaster Management Act, 2005**. The **Prime Minister** chairs NDMA; the **Chief Minister** chairs SDMA; the **District Magistrate** chairs DDMA. The National Executive Committee is headed by the **Cabinet Secretary**.
+16. The **Competition Commission of India** works under the Competition Act, **2002** (operations from **2009**). It replaced the old MRTP regime. Appeals go to **NCLAT**. Focus sections include anti-competitive agreements, abuse of dominance, and combinations.
+17. **SEBI** began as an executive body in **1988** and became statutory under the **SEBI Act, 1992**. Headquarters is in **Mumbai**. Appeals go to the **Securities Appellate Tribunal**.
+18. The **RBI** follows the Hilton Young idea (**1926**), the RBI Act **1934**, and started on **1 April 1935**; it was nationalised in **1949**. Currency notes are an RBI function, but **₹1 notes and coins** are Government of India. The **Monetary Policy Committee** dates to **2016**.
+19. The **National Housing Bank** Act is **1987**. From **2019**, the **RBI** regulates housing finance companies while the Government owns NHB — a classic ownership-versus-regulation split.
+20. **CAT** was created by the Administrative Tribunals Act, **1985**, with Principal Bench at Delhi, under **Article 323A**. High Court writ power under **226** survives after *L. Chandra Kumar*. Armed forces use the **Armed Forces Tribunal (2007)**, not CAT.
+21. **NITI Aayog** began by Cabinet Resolution on **1 January 2015**. It is **neither constitutional nor statutory**. The **Prime Minister** is Chair; the first Vice-Chair was **Arvind Panagariya**. It is a think-tank and does **not** replace the Finance Commission.
+22. NITI’s Governing Council includes Chief Ministers and Lieutenant Governors. It is the **SDG nodal** body. It runs AIM, DMEO, and Aspirational Districts. It does **not** allocate the old Planning Commission Plan funds.
+23. The old **Planning Commission** began on **15 March 1950**. The **National Development Council** began on **6 August 1952** (PM plus Chief Ministers) and approved Five-Year Plans. NITI replaced the Planning Commission, not the NDC’s entire political history overnight, but Plan-era machinery changed.
+24. The **CBI** was set up by an MHA resolution on **1 April 1963**. Its investigation power rides on the **Delhi Special Police Establishment Act, 1946**. It is **not** statutory in the same way as the CVC Act body. It needs **State consent** under section **6** unless a High Court or the Supreme Court orders otherwise.
+25. CBI is India’s National Central Bureau for **Interpol** and runs **BHARATPOL**. The Academy is at **Ghaziabad**. Administrative control links include **DoPT**.
+26. The **NIA** was created by the **NIA Act, 2008** after 26/11. It investigates scheduled offences and does **not** need State consent in the CBI sense. The **2019** amendment widened its reach.
+27. The **Intelligence Bureau (1887)** is the oldest, for **internal** intelligence under the Home Ministry. **RAW (21 September 1968)**, founded under **R.N. Kao**, handles **external** intelligence under the Cabinet Secretariat. The **Enforcement Directorate (1956)** under the Department of Revenue works FEMA and PMLA.
+28. The **National Security Council (1998)** is chaired by the **Prime Minister**. The first National Security Adviser was **Brajesh Mishra**. Related structures include SPG, NSAB, and NSCS.
 
 ---
+## Confused Pairs (exam killers)
 
-### Must-Know Term Comparisons
-
-| Term A | Term B | Core difference | Hindi |
+| A | B | Lock | Hindi |
 |--------|--------|-----------------|-------|
 | **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
 | **CVC** | **CBI** | Statutory watchdog; **no** police power of its own | Investigating agency (DPSE); CVC **supervises** PCA cases |

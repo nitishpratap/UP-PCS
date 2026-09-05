@@ -15,26 +15,36 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-SHRUTI: Samhita→Brahmana→Aranyaka→Upanishad | Smriti: epics, Puranas, Dharmashastra
-VEDAS: Rig hymns | Sama chant | Yajur ritual (Shukla=Vajasaneyi, Krishna=Taittiriya) | Atharva
-EPICS: Valmiki Ramayana 7 kanda | Vyasa Mahabharata 18 parva | Gita ⊂ Bhishma Parva
-KALIDASA KAVYA: Meghaduta Raghuvamsha Kumarasambhava Ritusamhara
-KALIDASA DRAMA: Shakuntala Vikramorvashiya Malavikagnimitram
-NOT KALIDASA: Shringara Shataka Bhartrihari | Uttararamacharita Bhavabhuti | Mrichchhakatika Shudraka
-2025 MATCH: Trivikram Bhatta Nalachampu | Somadeva Kathasaritsagara | Jayadeva Gita Govinda | Kshemendra Brihatkathamanjari
-8TH SCHEDULE=22. Bhojpuri NOT in. Sahitya Akademi awards ≠ 22
-CLASSICAL=11: Tamil 2004 Sanskrit 2005 Kannada+Telugu 2008 Malayalam 2013 Odia 2014 + 5 in Oct 2024
-UP: Tulsidas Awadhi | Surdas Braj | Kabir Maghar | Premchand Godan | Jayasi Padmavat | Bhartendu Banaras | Kavindra Acharya Banaras–Shah Jahan
-```
+1. **Shruti** is the heard Veda stack of Samhita, Brahmana, Aranyaka, and Upanishad. **Smriti** covers epics, Puranas, Dharmashastra, and related remembered texts.
+2. The four Vedas are **Rig** (hymns), **Sama** (chant), **Yajur** (ritual), and **Atharva**. Shukla Yajurveda is **Vajasaneyi**; Krishna Yajurveda is **Taittiriya**.
+3. **Valmiki**’s *Ramayana* has **seven** kandas. **Vyasa**’s *Mahabharata* has **eighteen** parvas. The *Bhagavad Gita* sits inside **Bhishma Parva**.
+4. Kalidasa’s kavya locks are *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*. His three dramas are *Abhijnanashakuntalam*, *Vikramorvashiya*, and *Malavikagnimitram*.
+5. *Shringara Shataka* is by **Bhartrihari**, not Kalidasa. *Uttararamacharita* is **Bhavabhuti**. *Mrichchhakatika* is **Shudraka**.
+6. High-yield author–work locks include **Trivikram Bhatta–Nalachampu**, **Somadeva–Kathasaritsagara**, **Jayadeva–Gita Govinda**, and **Kshemendra–Brihatkathamanjari**.
+7. **Panini** wrote the *Ashtadhyayi*. **Patanjali** wrote the *Mahabhashya*. **Kautilya / Chanakya** wrote the *Arthashastra*.
+8. **Charaka** is the medicine lock. **Sushruta** is the surgery lock. **Aryabhata** wrote *Aryabhatiya*. **Varahamihira** wrote *Brihatsamhita*.
+9. Buddhist canon language is **Pali** (Tripitaka). Jain Agamas are largely **Prakrit / Ardhamagadhi**. Svetambara Angas number **12**.
+10. Other drama locks: **Ashvaghosha** (*Buddhacharita*), **Bhasa** (about 13 plays), **Vishakhadatta** (*Mudrarakshasa*), and **Harsha** (*Ratnavali*, *Nagananda*, *Priyadarshika*).
+11. **Banabhatta** wrote *Harshacharita* and *Kadambari*. **Dandin** wrote *Dashakumaracharita*. **Bharavi** wrote *Kiratarjuniya*. **Magha** wrote *Shishupalavadha*.
+12. The Eighth Schedule lists **22** languages. **Bhojpuri** is widely spoken in east UP but is **not** in the Eighth Schedule.
+13. **Sahitya Akademi** awards in **24** languages. That count is not the same as the Eighth Schedule’s **22**.
+14. Classical language status now covers **11** languages after **3 October 2024**, when Marathi, Pali, Prakrit, Assamese, and Bengali were added.
+15. Earlier classical tags lock as Tamil **2004**, Sanskrit **2005**, Kannada and Telugu **2008**, Malayalam **2013**, and Odia **2014**.
+16. UP Hindi–Awadhi–Braj locks: **Tulsidas** wrote the Awadhi *Ramcharitmanas*, **Surdas** wrote in **Braj**, and **Malik Muhammad Jayasi** wrote the Awadhi *Padmavat*.
+17. **Kabir** is linked with **Maghar / Sant Kabir Nagar**. **Premchand** wrote *Godan*. **Bhartendu Harishchandra** belongs to Banaras.
+18. **Kavindra Acharya** of Banaras was patronised by **Shah Jahan**. This is a UP court-literature lock.
+19. Itihasa means the epics Ramayana and Mahabharata. The **eighteen** Maha Puranas are a separate Smriti class.
+20. Kavya is poem (*Meghaduta*). Nataka is drama (*Shakuntala*). Do not treat every Sanskrit title as a play.
+21. The Pali and Prakrit classical tags of **2024** also touch the UP Buddhist and Jain literary belt, but they are not Eighth Schedule entries by themselves.
+22. *Milindapanha* is the dialogue of Indo-Greek **Menander / Milinda** with Buddhist monk **Nagasena**.
+23. Classical language is a Culture Ministry recognition tag. Eighth Schedule is a **constitutional** language list. Do not equate the two counts.
+24. Valmiki is the Sanskrit Adikavi of the *Ramayana*. Tulsidas’s *Ramcharitmanas* is the Awadhi retelling lock for UPPCS.
 
-- Shringara Shataka ≠ Kalidasa (2025 Q48).
-- Bhojpuri ≠ 8th Schedule (2025 Q102).
-- Classical is **11**, not 6.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -494,22 +504,6 @@ D. Both 1 and 2
 **Ans: A — Only 2.** Venue = **Kathmandu**, not New Delhi. Organiser = Neeti Anusandhan Pratisthan (Nepal), with Central Sanskrit University / India Foundation.
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- Tulsidas wrote the Awadhi *Ramcharitmanas*.
-- Surdas wrote in Braj.
-- Kabir is of Maghar / Sant Kabir Nagar.
-- Jayasi wrote the Awadhi *Padmavat*.
-- Premchand wrote *Godan*.
-- Bhartendu is of Banaras.
-- Kavindra Acharya of Banaras was patronised by Shah Jahan.
-- The Pali–Prakrit classical tag (2024) touches the UP Buddhist/Jain belt.
-- **Bhojpuri** is spoken in east UP but is **not** in the Eighth Schedule.
 
 ---
 

@@ -15,35 +15,40 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-ART 1–4:
-  1 Union of States | 2 admit/establish | 3 form/alter name/area (views NOT binding)
-  4 ≠ Art. 368 | 7th Amd 1956 ended Part A/B/C/D
-  Cession = amendment (Berubari 9th; LBA 100th) | Acquisition = ordinary law
+1. **Part I** covers **Articles 1–4**. Names and territorial extent sit in the **First Schedule**. India is a **Union of States** — States cannot secede; Parliament may reorganise them.
+2. Territory of India under **Article 1(3)** means **States**, **Union Territories**, and such other territories as may be **acquired**.
+3. **Article 2** lets Parliament **admit or establish** new States that were **not already** States of the Union. **Article 3** forms or alters **existing** States (area, boundaries, name) and can also create a UT from a State.
+4. A law under Articles 2 or 3 may amend the First and Fourth Schedules under **Article 4**, but it is **not** a constitutional amendment under **Article 368** — a **simple majority** of Parliament is enough.
+5. An Article 3 Bill needs the **President’s recommendation**. The State Legislature’s **views** are sought but are **not binding**. The State Legislature **cannot** itself change the State’s name.
+6. **Acquisition** of territory can be provided by **ordinary law**. **Cession** of Indian territory needs a **constitutional amendment** (*Berubari* advisory line).
+7. Cession amendments: **9th Amendment (1960)** for Berubari to Pakistan; **100th Amendment (2015)** for the India–Bangladesh Land Boundary Agreement (enclave exchange).
+8. The **7th Amendment, 1956** ended the old **Part A / B / C / D** map and introduced the present **States + Union Territories** scheme.
+9. The **Dhar Commission (1948)** and the **JVP Committee (1948–49)** both **rejected** immediate linguistic reorganisation. **Sitaramayya** belongs to **JVP**, not to the SRC.
+10. **Andhra** became the first linguistic State on **1 October 1953** after **Potti Sriramulu**’s fast. The first capital was **Kurnool**, not Hyderabad.
+11. The **States Reorganisation Commission (1953)** had three members: **Justice Fazl Ali** (Chair), **K.M. Panikkar**, and **H.N. Kunzru**. **K.T. Shah** and **P. Sitaramayya** were **not** SRC members.
+12. SRC recommended **16 States and 3 UTs**. The Union implemented **14 States and 6 UTs** from **1 November 1956** under the States Reorganisation Act with the 7th Amendment.
+13. India today has **28 States and 8 Union Territories** (post-2019 J&K reorganisation and later UT mergers).
+14. **Article 239**: a UT is administered by the President through an **Administrator** (who may be called **Lieutenant Governor**).
+15. **Article 239A** (14th Amendment) enables a legislature for **Puducherry**. **Article 239AA** (69th Amendment) gives special status to the **National Capital Territory of Delhi**.
+16. In Delhi, **public order, police and land** remain with the Centre / LG framework. Puducherry does **not** carry that same reserved triplet.
+17. UT Assemblies in the usual teaching set: **Delhi (70 MLAs)**, **Puducherry (30)**, **Jammu & Kashmir (90)**. Maximum Lok Sabha seats from UTs under Article 81 is **20**.
+18. **NCT** is the constitutional territory under the 69th Amendment. **NCR** is a wider **statutory planning region** (1985 Act) — do not treat them as the same label.
+19. Citizenship sits in **Part II, Articles 5–11**. India follows **single citizenship**, not USA-style dual citizenship of Union and State.
+20. **Article 11** empowers Parliament to regulate citizenship; the working statute is the **Citizenship Act, 1955**.
+21. Modes of **acquisition**: birth, descent, registration, naturalisation, and incorporation of territory. Modes of **loss**: renunciation, termination, and deprivation.
+22. Birth-citizenship clocks: from **1987**, one parent citizen; from **3 December 2004**, both parents citizens, or one citizen and the other not an illegal migrant.
+23. **CAA** teaching lock: selected persecuted minorities from **three** neighbouring countries, with a cut-off of **31 December 2014**. It does not redefine OCI as dual citizenship.
+24. **OCI** is **not** dual citizenship: no vote and no constitutional office. An **NRI** remains an Indian **citizen** living abroad; an **OCI** is a foreign citizen of Indian origin with a card status.
+25. The **National Integration Council (1961)** is **extra-constitutional**. The **Inter-State Council** rests on **Article 263**.
+26. **Sikkim** entered as a full State through the **Article 2** path (**35th** associate stage, then **36th Amendment, 1975**), with special provision **371F**.
+27. Goa, Daman and Diu joined after **Operation Vijay (19 December 1961)**; Goa became a State in **1987**. French establishments around Puducherry were de facto **1954** and de jure **1962**.
+28. Renunciation is **voluntary** by the citizen. Deprivation is a **Central order** against certain registered or naturalised citizens — do not swap the two.
 
-REORG:
-  Dhar 1948 NO | JVP 1948 Nehru–Patel–Sitaramayya NO
-  Andhra 1 Oct 1953 first linguistic (Potti Sriramulu; capital Kurnool)
-  SRC 1953: Fazl Ali + Panikkar + Kunzru | recommended 16+3; implemented 14+6
-  SRA + 7th Amd 1 Nov 1956 | NOW 28 States + 8 UTs
+---
 
-UT ADMIN:
-  239 President via Administrator (may be called LG)
-  239A Puducherry (14th) | 239AA Delhi NCT (69th) | 240 regulations | 241 HC
-  Legislature UTs: Delhi (70 MLAs), Puducherry (30), J&K (90)
-  Delhi reserve: public order, police, land | LS from UTs max 20
-
-CITIZENSHIP:
-  Part II Arts. 5–11 | single citizenship ≠ dual | Art. 11 → 1955 Act
-  Birth clocks: 1987 one parent | 3 Dec 2004 both / one + not illegal migrant
-  Get: birth, descent, registration, naturalisation, incorporation
-  Lose: renunciation, termination, deprivation
-  CAA: 6 religions / 3 countries / ≤31 Dec 2014 | NIC 1961 extra-constitutional
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|

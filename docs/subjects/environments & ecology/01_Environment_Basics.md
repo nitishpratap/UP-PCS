@@ -14,34 +14,40 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 28 Must-Score Locks
 
-```
-ENVIRONMENT = biotic + abiotic factors affecting life (NCERT)
+1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Exams do not treat “only physical” or “only living” as the full definition.
+2. The four spheres are **lithosphere, hydrosphere, atmosphere, and biosphere**. Biosphere roughly spans from about **200 m below soil** to about **6 km** above sea level.
+3. **Ecology** is the **study** of organism–environment links. An **ecosystem** is the **functional unit**. A **habitat** is the **place**. A **niche** is the **role**.
+4. Abiotic factors include light, temperature, water, soil, gases, pH, and salinity. **Edaphic** means soil; **climatic** means weather; **topographic** means slope and altitude.
+5. Biotic structure runs **producers → consumers → decomposers**. **Rhizobium** fixes nitrogen in legumes.
+6. **Liebig’s law** says growth is limited by the **scarcest** essential resource. **Shelford’s law** says a species survives only inside a **min–max tolerance** range.
+7. Land is about **29%** of Earth’s surface and water about **71%**. **Lentic** means standing water; **lotic** means flowing water. Mangroves and wetlands are **transitional**.
+8. Human–environment thought moves **environmental determinism (Ratzel) → possibilism (Vidal de la Blache) → neo-determinism (Griffith Taylor)**.
+9. **IPAT** is Impact = Population × Affluence × Technology. Hardin’s **Tragedy of the Commons** dates to **1968**.
+10. Sustainable development is locked to the **Brundtland Report (1987)**. **Rio 1992** produced **Agenda 21**, **UNFCCC**, and **CBD**.
+11. India’s **LiFE** Mission launched in **2022**; the idea was floated at **COP26 in 2021**, not COP25.
+12. **Chipko** began in **1973** at **Reni, Uttarakhand**. **JFM** guidance is **1990**. **FRA** is **2006**.
+13. **Article 48A** is the State DPSP on environment. **Article 51A(g)** is the citizen’s Fundamental Duty. **Article 48** is about agriculture and cows — not environment.
+14. **Article 21** has been read to include a **healthy environment**. The **42nd Amendment (1976)** added 48A and 51A(g).
+15. The **Environment (Protection) Act, 1986** is India’s post-**Bhopal (1984)** umbrella law.
+16. **MoEF** began in **1985** and became **MoEFCC in 2014**. Headquarters is New Delhi.
+17. **Stockholm 1972** was the first UN human-environment conference and led to **UNEP** at **Nairobi**.
+18. World Environment Day is **5 June**. Earth Day is **22 April**. World Wildlife Day is **3 March**, not 22 March.
+19. World Wetlands Day is **2 February**. International Ozone Day is **16 September**. Desertification and Drought Day is **17 June**. International Day for Biological Diversity is **22 May**.
+20. UNEP headquarters is **Nairobi, Kenya**. CPCB and MoEFCC sit in **New Delhi**.
+21. The **Brundtland Commission (WCED)** worked **1983–1987** and defined sustainable development in *Our Common Future*.
+22. Uttar Pradesh mainly falls in the **Gangetic Plain** biogeographic zone (**Zone 7**).
+23. Classic UP river–city locks include Ganga at Varanasi and Kanpur, Yamuna at Agra, and Gomti at Lucknow.
+24. Pollution hotspots often tested for UP include **Kanpur tanneries**, NCR air (Ghaziabad/Noida), and Ganga ghats at **Varanasi**.
+25. **Ganga Action Plan** began in **1985**. **Namami Gange** launched in **2014**.
+26. Natural versus anthropogenic, terrestrial versus aquatic, and internal versus external are the three common classification axes for environment questions.
+27. Micro-, meso-, and macro-scales describe environment size from a pond edge to a region or the globe. Prelims usually default to the **natural/physical** sense of environment.
+28. Agenda 21 belongs to **Rio 1992**, not 1995. Mixing Brundtland 1987 with Agenda 21’s year is a common trap.
 
-4 SPHERES (L-H-A-B): Lithosphere | Hydrosphere | Atmosphere | Biosphere (~200 m below soil → ~6 km above)
-Ecology = STUDY | Ecosystem = FUNCTIONAL UNIT | Habitat = PLACE | Niche = ROLE
+---
 
-ABIOTIC: light, temp, water, soil, gases, pH, salinity | Edaphic = soil | Climatic = weather | Topographic = slope/altitude
-BIOTIC: Producers (autotrophs) → Consumers (heterotrophs) → Decomposers | Rhizobium = N-fixation in legumes
-Liebig = limiting factor (scarcest resource) | Shelford = tolerance range (min–max)
-
-CLASSIFY: Natural vs Anthropogenic | Terrestrial (29%) vs Aquatic (71%) | Internal vs External
-Lentic = standing (lake/pond) | Lotic = flowing (river) | Mangrove/wetland = transitional
-
-HUMAN–ENV: Determinism (Ratzel, rejected) → Possibilism (Vidal de la Blache) → Neo-determinism (Taylor)
-IPAT = Population × Affluence × Technology | Hardin 1968 = Tragedy of Commons
-SD = Brundtland 1987 | Rio 1992 → Agenda 21 + UNFCCC + CBD | LiFE 2022 (COP26 idea 2021)
-Chipko 1973 Reni Uttarakhand | JFM 1990 | FRA 2006
-
-LAW & CONSTITUTION: Art 48A (State DPSP) | Art 51A(g) (citizen FD) | Art 21 = healthy environment (SC)
-EPA 1986 (post-Bhopal 1984) | MoEF 1985 → MoEFCC 2014
-
-KEY DATES: Stockholm 1972 → UNEP (Nairobi) | WED 5 June | Earth Day 22 April | Wildlife Day 3 March
-Wetlands Day 2 Feb | Ozone Day 16 Sept | Brundtland 1987 | Rio/Agenda 21 = 1992
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -468,42 +474,6 @@ D. Both true; R explains A
 **Ans: C** — A is true (Brundtland definition). R is false — Agenda 21 = **Rio 1992**.
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-### Environmental Days (master match)
-
-| Date | Day |
-|------|-----|
-| **2 February** | World Wetlands Day |
-| **3 March** | World Wildlife Day |
-| **22 April** | Earth Day |
-| **22 May** | International Day for Biological Diversity |
-| **5 June** | World Environment Day |
-| **16 September** | International Day for Preservation of Ozone Layer |
-| **17 June** | Desertification and Drought Day |
-
-### Organizations (exam match)
-
-| Organization | HQ | Role |
-|-------------|-----|------|
-| **UNEP** | **Nairobi, Kenya** | Global environmental coordination |
-| **MoEFCC** | New Delhi | Nodal ministry — environment, forest, climate |
-| **CPCB** | New Delhi | National air & water quality standards |
-| **Brundtland Commission (WCED)** | — | 1983–1987; SD definition |
-
-### UP Focus
-
-| Element | Detail |
-|---------|--------|
-| **Biogeographic zone** | **Gangetic Plain** (Zone 7) covers most of UP |
-| **Rivers** | Ganga (Varanasi, Kanpur), Yamuna (Agra), Gomti (Lucknow) |
-| **Pollution hotspots** | Kanpur (tanneries), NCR (Ghaziabad/Noida air), Varanasi (Ganga) |
-| **Chipko** | Reni, Uttarakhand (was UP until 2000) |
-| **River programmes** | Ganga Action Plan **1985** → Namami Gange **2014** |
-| **NCAP cities in UP** | Lucknow, Kanpur, Varanasi, Ghaziabad, Agra, Meerut |
 
 ---
 

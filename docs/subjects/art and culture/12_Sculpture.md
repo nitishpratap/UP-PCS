@@ -15,25 +15,36 @@ Indian Sculpture | Gupta Sculpture | Buddhist Sculpture | Temple Sculpture | Sto
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-TIMELINE: IVC bronze → Mauryan polish → Bharhut/Sanchi relief → Kushan Gandhara+Mathura → Amaravati → Gupta Sarnath → temple walls → Chola bronze
-SCHOOLS: Gandhara grey schist Greco-Roman NW | Mathura red sandstone indigenous UP | Amaravati limestone Andhra narrative
-GUPTA: Sarnath Buddha dharmachakra, transparent robe, calm | Udayagiri Varaha | Deogarh Vishnu
-BUDDHIST: Aniconic wheel/tree/throne → iconic Kushan human Buddha | Mudras: dharmachakra, bhumisparsha, abhaya, dhyana, varada
-TEMPLE: Khajuraho Chandela mithuna | Konark 24 wheels 7 horses | Mahabalipuram Pallava relief | Hoysala soapstone
-STONE: Chunar polish UP | Mathura red | Gandhara schist | Amaravati lime | Hoysala chloritic schist | South granite
-BRONZE: Dancing Girl lost-wax | Chola Nataraja | Pala Buddhist | Dhokra tribal ≠ Chola
-NATARAJA: damaru + fire + abhaya + gajahasta | right foot on Apasmara | prabhamandala
-UP: Mathura school | Sarnath Lion Capital + Gupta Buddha | Chunar | Ahichhatra terracotta
-```
+1. Indian sculpture timeline: Indus bronze and terracotta → **Mauryan polish** → **Bharhut / Sanchi** relief → Kushan **Gandhara + Mathura** → **Amaravati** → **Gupta Sarnath** → temple walls → **Chola bronze**.
+2. **Gandhara** school uses grey **schist** and Greco-Roman modelling in the north-west. It is not an Uttar Pradesh school.
+3. **Mathura** school uses red **sandstone**, indigenous modelling, and sits in **Uttar Pradesh**. It cuts Buddha and Tirthankara images.
+4. **Amaravati** school uses **limestone** narrative panels in Andhra. It is free narrative relief more than Mathura’s freestanding icons.
+5. **Gupta Sarnath Buddha** shows **dharmachakra** mudra, a transparent robe, and spiritual calm. It differs from heavy-volume Kushan Mathura figures.
+6. Early Buddhist art is **aniconic** (wheel, tree, empty throne). The **human Buddha** image becomes common from the **Kushan** age.
+7. Key mudras: **dharmachakra** (teaching), **bhumisparsha** (earth-touching), **abhaya** (fearlessness), **dhyana** (meditation), and **varada** (boon).
+8. Temple sculpture locks: **Khajuraho** Chandela mithuna, **Konark** Sun temple with **24 wheels** and **7 horses**, **Mahabalipuram** Pallava relief, and **Hoysala** soapstone / chloritic schist carving.
+9. Stone map: **Chunar** polish stone in UP, Mathura **red sandstone**, Gandhara **schist**, Amaravati **limestone**, Hoysala **chloritic schist**, and much South Indian temple work in **granite**.
+10. **Mauryan polish** is the mirror Chunar surface. Gupta finish is smooth idealism, not the same mirror polish.
+11. Bronze locks: Indus **Dancing Girl** by **lost-wax**, **Chola Nataraja** processional bronzes, **Pala** Buddhist bronzes, and tribal **Dhokra** bell-metal. Dhokra is not Chola temple bronze.
+12. **Nataraja** holds **damaru** and fire, shows **abhaya** and **gajahasta**, places the right foot on **Apasmara**, and stands in a **prabhamandala**.
+13. Uttar Pradesh sculpture homes: **Mathura** school, **Sarnath** Lion Capital and Gupta Buddha, **Chunar** polish stone, and terracotta at **Ahichhatra** and **Kaushambi**.
+14. **Lion Capital** of Sarnath: four lions back to back; abacus with horse, bull, elephant, and lion plus **dharmachakra**. It became the **National Emblem** in **1950**.
+15. **Sarnath** is UNESCO World Heritage from **2026**. The inscription strengthens the site lock; it does not invent a new school.
+16. **Bharhut** is **Shunga**, not Mauryan. Early **Sanchi** remains largely aniconic before later iconic additions.
+17. **Udayagiri Varaha** and **Deogarh Vishnu** are Gupta Hindu sculpture locks outside the Sarnath Buddha alone.
+18. **Khajuraho**, **Sanchi**, **Konark**, Chola bronze, and **Didarganj** are outside Uttar Pradesh. Gandhara and Amaravati are also not UP schools.
+19. Mathura Kushan figures are heavier in volume. Gupta Sarnath figures look lighter, calmer, and more spiritual. That contrast is a standard school trap.
+20. **Chola Nataraja** is a South Indian temple processional bronze. The Indus **Dancing Girl** is a tiny lost-wax figurine from Harappa-age craft, not Shiva Nataraja.
+21. **Konark** is the Ganga-period Sun chariot temple of Odisha. **Khajuraho** is the Chandela complex of Madhya Pradesh. Do not swap region or dynasty.
+22. Freestanding Mathura icons differ from Amaravati’s long narrative limestone panels around the stupa.
+23. Buddhist sculpture moves from symbol to person: aniconic Maurya–Shunga signs, then Kushan human Buddha, then Gupta ideal Buddha at Sarnath.
+24. **Ahichhatra** and **Kaushambi** are the UP terracotta homes. They are craft-and-figurine centres, not Gandhara schist ateliers.
 
-- Gandhara ≠ Mathura stone.
-- Bharhut is **Shunga**, not Mauryan.
-- Early Sanchi is **aniconic**.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -231,23 +242,6 @@ D. Bodhgaya
 **Ans: C — Amaravati.**
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- **Mathura** is the red-sandstone school. It cuts both Buddha and Tirthankara images.
-- **Sarnath** holds the Mauryan Lion Capital and the Gupta dharmachakra Buddha. UNESCO WHS **2026**.
-- **Chunar** is the Mauryan polish stone.
-- **Ahichhatra** and **Kaushambi** are the terracotta homes.
-- Gandhara and Amaravati are not UP schools.
-- Khajuraho, Sanchi, Konark, Chola bronze and Didarganj are also outside UP.
-
-**Lion Capital (once)**
-
-- Four lions sit back to back. The abacus shows a horse, a bull, an elephant and a lion, with the dharmachakra. It became the National Emblem in **1950**.
 
 ---
 

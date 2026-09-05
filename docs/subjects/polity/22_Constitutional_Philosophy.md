@@ -15,50 +15,42 @@ Constitutionalism | Constitutional Morality | Rule of Law | Due Process of Law |
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-Preamble: Justice 3 · Liberty 5 · Equality 2 · Fraternity 1. “Federal” not in Preamble. 42nd added Socialist + Secular (+ integrity).
-Art. 21 after Maneka: livelihood, privacy, health, shelter, dignity. SC Collegium = CJI+4. This sheet = the *philosophy* that limits power.
-
-Constitutionalism = limited government by a constitution. Having a booklet ≠ constitutionalism.
-Working kit: written higher law · FR · independent judiciary · judicial review · SOP/checks · free amendment only within identity.
-
-Constitutional morality (Grote → Ambedkar CAD 4 Nov 1948): cultivate fidelity to the Constitution, not to the street’s “morality”. SC 2018 cluster. ≠ Art. 19/25 public morality.
-
-Rule of Law (Dicey): (1) no arbitrary power (2) equality before law (3) UK: rights come from ordinary law / courts, not a Bill of Rights.
-India takes 1+2 (Art. 14, review, 32/226). Rejects 3. RoL itself is Basic Structure (Indira Gandhi 1975). 2025: PIL is essential to RoL because it gives weaker sections a path (both true, R explains A).
-
-Art. 21 text = “procedure established by law” (Japan). USA = due process (5th/14th).
-Gopalan 1950 = any enacted procedure (lex). Maneka 1978 passport = fair, just, reasonable (jus) + natural justice; 14-19-21 golden triangle. Text never swapped. Procedural + substantive review after Maneka.
-
-Separation of powers = Montesquieu 1748. Vesting: Art. 53 executive · 79 Parliament · 124 SC.
-USA rigid. India functional + fusion (Art. 75 cabinet in House). Ram Jawaya 1955: not American rigidity. Art. 50 DPSP = judiciary↔executive in the *services* only. SOP = Basic Structure.
-
-Checks and balances = the teeth (review, impeachment, no-confidence, ordinance must return to the House).
-CAG/EC/UPSC are constitutional brakes, not “extra-constitutional”.
-
-UK Dicey: Parliamentary sovereignty. Marbury 1803 = US review. India: Constitutional supremacy.
-24th → Art. 13(4) amendment is not “law” under 13. 42nd → 368(4)(5) no-review of amendments → Minerva struck. Judicial review ≠ “judicial supremacy”.
-Review of: statutes · executive action · constitutional amendments (Basic Structure).
-
-Preamble arithmetic is above. This half = what the words *do*.
-
-Welfare State ≠ police State. Art. 38 (+ 38(2) by 44th). Part IV is the instrument (Art. 37 duty). 40 panchayats · 44 UCC · 45 early childhood · 47 prohibition · 48 cattle · 48A environment.
-Socialism: 42nd *named* it; DPSPs already were it. Democratic / mixed economy ≠ USSR. 1991 LPG did not delete the word.
-Secularism: 42nd *named* it; Arts. 25–28 already were it. Positive = equal respect + 25(2) reform. Bommai 1994 = Basic Structure. ≠ theocracy, ≠ US wall.
-Democracy = people + UAF + free-fair elections (BS, Indira 1975). Republic = elected Head (Art. 54), not a monarch. UK = democracy without republic.
-Justice 3: social (15/17) · economic (39) · political (326). Liberty 5 ≠ Art. 19’s six freedoms. Equality 2: status (14/15/17) + opportunity (16).
-Fraternity → dignity of individual + unity and integrity. Ambedkar: without fraternity, liberty and equality are paint. 42nd added integrity. 51A(c)(e).
-Sovereign (SSSDR neighbour): internal + external. Political sovereignty = people. Legal sovereignty = the Constitution (that is why India is not Dicey-UK).
-Preamble liberty is 5 (thought…worship) — NOT “liberty of person” (that is Art. 21). Thought is not a named Art. 19 freedom.
-French triad = Liberty Equality Fraternity. India prefixes Justice. Secularism = Sarva Dharma Sambhava / positive, not US wall. Kesavananda already listed secular character; Bommai applied it to 356.
-Constituent power (368) ≠ ordinary legislative power (245). 368 is still under Basic Structure.
-```
+1. The Preamble counts are **Justice 3**, **Liberty 5**, **Equality 2**, and **Fraternity 1**. The word **Federal** is **not** in the Preamble. The **42nd** Amendment added **Socialist**, **Secular**, and **integrity**.
+2. **Constitutionalism** means limited government under a higher law. Merely having a written constitution booklet is **not** enough by itself.
+3. **Constitutional morality** (Ambedkar in the Constituent Assembly) means fidelity to constitutional norms, not whatever the street calls “morality.” It is **not** the same as “public morality” in Articles **19 / 25**.
+4. Dicey’s Rule of Law has three limbs: no arbitrary power, equality before law, and (in the UK) rights from ordinary law rather than a special Bill of Rights. India takes the first two (Article **14**, judicial review, Articles **32 / 226**) and **rejects** the third.
+5. Rule of Law itself is part of the **Basic Structure** (*Indira Gandhi*, **1975**). PIL is often treated as a practical path that helps weaker sections reach the courts.
+6. Article **21**’s text is **“procedure established by law”** (Japan source). The US model is **due process** (5th/14th Amendments). India’s text was never rewritten to say “due process.”
+7. *A.K. Gopalan* (**1950**) read Article 21 as any procedure in a valid law, with Fundamental Rights in silos. *Maneka Gandhi* (**1978**) requires a procedure that is **fair, just, and reasonable**, reading Articles **14, 19, and 21** together (the golden triangle).
+8. After *Maneka*, Article 21 review is both **procedural** and **substantive**. Natural justice (*audi alteram partem*, *nemo judex*) is poured into Article 21 even though the text still says procedure established by law.
+9. **Separation of powers** comes from Montesquieu. Vesting lines include Article **53** (executive), **79** (Parliament), and **124** (Supreme Court). The USA is rigid; India is **functional** with **fusion** of executive and legislature (Cabinet in the House).
+10. *Ram Jawaya Kapur* (**1955**) rejected American-style rigid separation for India. Article **50** (DPSP) separates judiciary from executive in the **public services** only. Separation of powers is Basic Structure.
+11. **Checks and balances** are the restraining teeth: judicial review, impeachment, no-confidence, and the rule that ordinances must return to the House. CAG, Election Commission, and UPSC are constitutional brakes, not “extra-constitutional” toys.
+12. The UK classic is **Parliamentary sovereignty**. The US *Marbury* line is strong judicial review. India follows **Constitutional supremacy**: the Constitution’s word is last.
+13. The **24th** Amendment inserted Article **13(4)** so that a **368** amendment is not “law” under Article 13. The **42nd** tried to bar review of amendments through Articles **368(4)/(5)**; *Minerva Mills* (**1980**) struck that attempt.
+14. **Judicial review** tests statutes, executive action, and constitutional amendments against the Constitution (including Basic Structure). It is **not** the same claim as “judicial supremacy.”
+15. A **welfare state** pursues socio-economic goals; a **police state** stops at law and order. Article **38** (with **38(2)** via the 44th) and Part **IV** are the main welfare instruments. Article **37** makes DPSPs fundamental in governance though not directly enforceable.
+16. High-yield DPSP locks include Article **40** (panchayats), **44** (UCC), **45** (early childhood), **47** (prohibition), **48** (cattle), and **48A** (environment).
+17. **Socialism** was named in the Preamble by the **42nd**, but Part IV already carried socialist content. Indian socialism is **democratic / mixed-economy**, not a USSR one-party textbook model. The **1991** reforms did not delete the Preamble word.
+18. **Secularism** was named by the **42nd**, but Articles **25–28** already operated from 1950. Indian secularism is **positive** — equal respect, with Article **25(2)** reform power. *Bommai* (**1994**) treats secularism as Basic Structure. It is not theocracy and not a hard US “wall.”
+19. **Democracy** means rule by the people with universal adult franchise and free and fair elections (Basic Structure). A **republic** means an **elected** Head of State (Article **54**), not a hereditary monarch. The UK can be a democracy without being a republic.
+20. Preamble **Justice** is social, economic, and political. Social maps to Articles **15 / 17**; economic to Article **39**; political to Article **326**.
+21. Preamble **Liberty** is five words: thought, expression, belief, faith, and worship. It is **not** the same list as Article **19**’s six freedoms, and it is **not** “liberty of person” under Article **21**.
+22. Preamble **Equality** is equality of **status** and of **opportunity**. Status links to Articles **14 / 15 / 17**; opportunity links to Article **16**.
+23. **Fraternity** assures dignity of the individual and the unity and integrity of the nation. Ambedkar warned that without fraternity, liberty and equality stay incomplete. The **42nd** added **integrity**. Duties in Article **51A(c)/(e)** echo the theme.
+24. **Political sovereignty** rests with the people (“We, the People”). **Legal sovereignty** in India rests with the **Constitution**, which is why India is not a Dicey-UK parliamentary-sovereignty state.
+25. **Sovereign** in the Preamble covers both internal supremacy and external independence. It is the first word in the SSSDR chain.
+26. The French triad is Liberty, Equality, Fraternity. India prefixes **Justice** and keeps the three. Secular character was already in Basic Structure discussion before *Bommai* applied it to Article **356**.
+27. Constituent power under Article **368** is not ordinary legislative power under Article **245**. Even Article 368 remains under the Basic Structure ceiling.
+28. After *Maneka*, Article **21** has been read to include livelihood, privacy, health, shelter, and dignity. Privacy was locked as a Fundamental Right in *Puttaswamy* (**2017**).
+29. Indian secularism is often summarised as **Sarva Dharma Sambhava** / equal respect — not a US establishment-clause wall and not State indifference to reform needs.
+30. Rule by law (ruler uses statutes as a whip) is the trap opposite of Rule of Law (law binds the ruler too). Mark the second.
 
 ---
 
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|

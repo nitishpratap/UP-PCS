@@ -15,44 +15,40 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-BHAKTI CORE
-South origins: Nayanars (Shiva) + Alvars (Vishnu) — 7th–12th c. Tamil
-North: Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas
-Regional: Basavanna (Karnataka) | Varkari/Jnaneshwar (Maharashtra) | Jayadeva (Odisha) | Shankaradeva (Assam) | Narsi Mehta (Gujarat)
-Two streams: Saguna (personal deity) vs Nirguna (formless Ram/Hari/Allah)
+1. Southern Bhakti began with **Nayanars (Shiva)** and **Alvars (Vishnu)** in **7th–12th** century Tamil land, before the north Indian sant wave.
+2. The north chain runs roughly **Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas**.
+3. **Saguna** bhakti worships a formed deity such as Rama or Krishna; **Nirguna** worships the formless One (Kabir, Nanak).
+4. Guru–disciple locks: **Kabir** and **Ravidas** under **Ramananda**; **Surdas** under **Vallabhacharya**; **Amir Khusrau** under **Nizamuddin Auliya**; **Mardana** under **Guru Nanak**.
+5. Saint chronology: **Namdev** (~1270–1350) → **Kabir** (15th c.) → **Nanak** (1469–1539) → **Chaitanya** (1486–1533).
+6. Later saints: **Surdas** (1478–1581) → **Tulsidas** (1532–1623) → **Dadu Dayal** (1544–1603).
+7. The **Chishti** line runs **Moinuddin → Qutbuddin Bakhtiyar Kaki → Baba Farid → Nizamuddin → Nasiruddin Chiragh**, stressing poverty, **sama**, and ziyarat.
+8. Great Chishti shrines include **Ajmer**, **Delhi (Nizamuddin)**, **Ajodhan (Farid)**, **Nagaur**, and **Pakpattan**.
+9. **Suhrawardi** saints of Multan accepted state wealth; **Naqshbandi** reformers under **Ahmad Sirhindi** opposed syncretism.
+10. **Ramcharitmanas** is Tulsidas in **Awadhi**; **Sursagar** is Surdas in **Braj**.
+11. **Fawaid-ul-Fuad** records **Nizamuddin** conversations compiled by **Amir Hasan Sijzi**, not by Amir Khusrau.
+12. Vedanta schools: **Shankara–Advaita**; **Ramanuja–Vishishtadvaita**; **Madhva–Dvaita**; **Nimbarka–Dvaitadvaita**; **Vallabhacharya–Shuddhadvaita**.
+13. **Ramananda** taught Rama bhakti at Banaras / Prayag; do not confuse him with south philosopher **Ramanuja** (Vishishtadvaita).
+14. **Basavanna** led Lingayat / Virashaiva reform in Karnataka with **Ishtalinga**, Kayaka, and Anubhava Mantapa.
+15. The **Varkari** tradition centres on **Pandharpur / Vithoba** through **Jnaneshwar**, Namdev, and Tukaram.
+16. **Jayadeva** wrote **Gita Govinda** in Odisha; **Shankaradeva** led Assam Vaishnavism with **satra** and **kirtana-ghosha**.
+17. UP Kabir locks: birth–preaching at **Varanasi / Kashi** and death at **Maghar** (Sant Kabir Nagar).
+18. **Tulsidas** belongs to Awadhi **UP**; **Surdas** to the **Braj** belt (Mathura–Vrindavan); **Gorakhnath** to **Gorakhpur**.
+19. **Mirabai** is the Rajasthan Krishna devotee; **Andal** is the Tamil Alvar woman saint — do not swap them.
+20. **Baba Farid** was the Chishti saint of Ajodhan with verses in the **Adi Granth**; he is not Kabir.
+21. **Chishti** orders rejected state wealth; **Suhrawardi** accepted patronage and office.
+22. A **pir** is the Sufi spiritual master; a **guru** is the Bhakti preceptor.
+23. **Narsi Mehta** belongs to Gujarat; **Namdev** is an early Vithoba / Varkari saint.
+24. Bhakti was mainly **intra-Hindu** reform against empty ritual, not a movement “against Islam,” though it shared social space with Sufism.
+25. **Moinuddin Chishti** is locked to **Ajmer**; **Bahauddin Zakariya** to **Multan** (Suhrawardi).
+26. **Ravidas** is the Banaras Dalit saint in Ramananda’s circle.
+27. Composite culture does not mean every saint mixed doctrines — **Ahmad Sirhindi** and **Kabir** rejected syncretic ritual.
+28. Regional Bhakti map also keeps **Jayadeva** (Odisha), **Shankaradeva** (Assam), and **Basavanna** (Karnataka) as separate non-Gangetic streams.
 
-GURU–SHISHYA (★★★ 2025 Q12 = C 2-3-4-1)
-Kabir → Ramananda | Ravidas → Ramananda | Surdas → Vallabhacharya
-Amir Khusrau → Nizamuddin Auliya | Mardana → Guru Nanak
+---
 
-CHRONOLOGY (★★★ 2025 Q74 = C 3-4-1-2)
-Namdev (~1270–1350) → Kabir (~15th c.) → Nanak (1469–1539) → Chaitanya (1486–1533)
-Later: Surdas (1478–1581) → Tulsidas (1532–1623) → Dadu Dayal (1544–1603)
-
-SUFI ORDERS
-Chishti — Ajmer/Delhi; poverty; sama; ziyarat/barakat; Moinuddin → Kaki → Farid → Nizamuddin → Nasiruddin Chiragh
-Five great Chishti shrines: Ajmer, Delhi (Nizamuddin), Ajodhan (Farid), Nagaur (Hamiduddin), Pakpattan
-Suhrawardi — Multan; accepts state wealth
-Qadiri — Abdul Qadir Jilani tradition
-Naqshbandi — Ahmad Sirhindi; orthodox; opposed syncretism
-
-KEY WORKS
-Ramcharitmanas — Tulsidas (Awadhi) | Sursagar — Surdas (Braj)
-Fawaid-ul-Fuad — Nizamuddin conversations (compiler Amir Hasan Sijzi, NOT Khusrau)
-
-VEDANTA (2022 Q33 = D 4-3-2-1)
-Shankara — Advaita | Ramanuja — Vishishtadvaita | Madhva — Dvaita
-Nimbarka — Dvaitadvaita | Vallabhacharya — Shuddhadvaita
-
-UP LINKS
-Kabir — Varanasi/Kashi; Maghar (Sant Kabir Nagar) | Ramananda — Prayag/Banaras
-Tulsidas — Awadhi UP | Surdas — Braj (Mathura-Vrindavan) | Gorakhnath — Gorakhpur
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -618,64 +614,6 @@ Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Ea
 | **Hymn compilations** | Tevaram, Divya Prabandham, Bijak, Adi Granth | Actual devotional language |
 | **Sufi malfuzat** | **Fawaid-ul-Fuad** (Nizamuddin conversations) | Teachings of Chishti masters |
 | **Inscriptions & travellers** | Dargah records, Ibn Battuta on khanqahs | Patronage and pilgrimage |
-
----
-
-## Consolidated Reference
-
-### Bhakti chronology (single line)
-
-**Alvars/Nayanars** → **Namdev** → **Ramananda** → **Kabir** → **Nanak** → **Chaitanya** → **Surdas/Mirabai** → **Tulsidas** → **Dadu Dayal**
-
-### Guru–Disciple (2025 Q12)
-
-| Disciple | Guru |
-|----------|------|
-| Kabir | Ramananda |
-| Amir Khusrau | Nizamuddin Auliya |
-| Surdas | Vallabhacharya |
-| Mardana | Guru Nanak |
-
-### Sufi Saint ↔ Place
-
-| Saint | Place | Order |
-|-------|-------|-------|
-| Moinuddin Chishti | **Ajmer** | Chishti |
-| Nizamuddin Auliya | **Delhi** | Chishti |
-| Bahauddin Zakariya | **Multan** | Suhrawardi |
-| Baba Farid | Ajodhan | Chishti |
-| Hamiduddin Nagaur | Nagaur | Chishti |
-| Nasiruddin Chiragh-i-Delhi | Delhi | Chishti (last great Delhi master) |
-
-### Regional Bhakti (quick locks)
-
-| Tradition | Founder / key saint | Lock |
-|-----------|---------------------|------|
-| Lingayat/Virashaiva | Basavanna | Ishtalinga, Kayaka, Anubhava Mantapa |
-| Varkari | Jnaneshwar → Namdev → Tukaram | Pandharpur wari, Vithoba |
-| Gita Govinda | Jayadeva | Radha–Krishna Sanskrit poetry (not Bhagavad Gita) |
-| Assam Vaishnavism | Shankaradeva | Satra, Kirtana-ghosha |
-
-### Vedanta (2022 Q33 = D)
-
-| Philosopher | School |
-|-------------|--------|
-| Ramanuja | Vishishtadvaita (4) |
-| Madhvacharya | Dvaita (3) |
-| Nimbarka | Dvaitadvaita (2) |
-| Vallabhacharya | Shuddhadvaita (1) |
-
-### UP Focus
-
-| Element | UPPCS relevance |
-|---------|-----------------|
-| **Kabir — Varanasi/Kashi** | Sant Kabir Nagar district |
-| **Maghar** | Kabir's death place (UP) |
-| **Ramananda — Banaras/Prayag** | UP sacred cities |
-| **Ravidas — Varanasi** | Dalit saint icon |
-| **Tulsidas — Awadhi** | Eastern UP literary tradition |
-| **Surdas — Braj** | Mathura-Vrindavan belt (UP) |
-| **Gorakhnath** | Gorakhpur (UP) |
 
 ---
 

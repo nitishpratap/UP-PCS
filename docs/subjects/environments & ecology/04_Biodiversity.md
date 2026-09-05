@@ -14,24 +14,40 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 28 Must-Score Locks
 
-```
-BIODIVERSITY = variability among living organisms at genetic + species + ecosystem levels (CBD Art 2)
-3 LEVELS: Genetic (within species) | Species (between species) | Ecosystem (habitats)
-LATITUDE: Tropics richest → decreases toward poles
-INDIA: 2.4% land → 7–8% global species | 4 HOTSPOTS: Himalaya | Indo-Burma | Western Ghats & Sri Lanka | Sundaland (A&N only)
-HOTSPOT = ≥1500 endemic vascular plants + ≥70% original habitat lost | 36 global hotspots
-LOSS #1 = habitat destruction | HIPPO: Habitat, Invasive, Pollution, Population, Over-exploitation
-CONSERVATION: In-situ preferred (NP, sanctuary) | Ex-situ backup (zoo, seed bank)
-CBD 1992: Conserve + Sustainable use + Fair benefit-sharing | BDA 2002 → NBA Chennai
-IUCN THREATENED = VU + EN + CR | Endangered = EN only
-SPECIES ROLES: Endemic = only here | Invasive = non-native + harmful | Keystone = outsized impact
-  Flagship = charismatic fundraiser | Umbrella = large habitat protects many | Indicator = shows env quality
-22 MAY = International Day for Biological Diversity
-```
+1. Biodiversity is variability among living organisms at **genetic, species, and ecosystem** levels.
+2. **Genetic diversity** is variation **within** a species. **Species diversity** is variety **among** species. **Ecosystem diversity** is variety of habitats and ecosystems.
+3. Species richness is generally highest in the **tropics** and decreases toward the poles.
+4. India holds about **2.4%** of world land but about **7–8%** of global species.
+5. India’s four biodiversity hotspots are **Himalaya, Indo-Burma, Western Ghats–Sri Lanka, and Sundaland** (Andaman & Nicobar portion).
+6. A hotspot needs about **≥1500 endemic vascular plants** and **≥70%** original habitat lost. There are **36** global hotspots.
+7. The top cause of biodiversity loss is **habitat destruction**. The HIPPO set is Habitat, Invasive species, Pollution, Population pressure, and Over-exploitation.
+8. **In-situ** conservation protects species in natural habitat (national parks, sanctuaries). **Ex-situ** is a backup outside habitat (zoos, seed banks).
+9. The **CBD (1992, Rio)** rests on three pillars: conserve biodiversity, sustainable use, and fair benefit-sharing.
+10. India’s **Biological Diversity Act, 2002** creates the **NBA (Chennai)**, State Biodiversity Boards, Biodiversity Management Committees, and **People’s Biodiversity Registers**.
+11. The **Nagoya Protocol (2010)** details access and benefit-sharing under the CBD.
+12. On the IUCN Red List, **Threatened** means **VU + EN + CR** together. **Endangered** means the **EN** category only.
+13. An **endemic** species occurs only in one geographic area. An **invasive alien** is non-native and harmful.
+14. A **keystone** species has outsized ecosystem impact. A **flagship** species is charismatic for fundraising. An **umbrella** species’ large range protects many others. An **indicator** species signals environmental quality.
+15. International Day for Biological Diversity is **22 May**.
+16. The **Kunming–Montreal Global Biodiversity Framework (2022)** includes the **30×30** conservation target.
+17. Uttar Pradesh’s Terai (Dudhwa, Pilibhit) sits in the **Himalaya hotspot** fringe for exam matching.
+18. UP tiger-reserve locks for umbrella conservation include **Dudhwa (1987)** and **Pilibhit (2014)**.
+19. Key UP species include tiger, one-horned rhino, **barasingha**, and **Gangetic dolphin**.
+20. Common UP invasive plants include **water hyacinth, Parthenium, and Lantana**.
+21. Uttar Pradesh’s state bird is the **Sarus crane**, a wetland indicator.
+22. UP Ramsar examples include Nawabganj, Saman, Samaspur, Sandi, Sarsai Nawar, Parvati Aranga, and Sur Sarovar.
+23. In-situ is preferred for wild populations; ex-situ supports recovery and gene banks — do not reverse priority in standard stems.
+24. Hotspot status is not the same as “any forest-rich state.” Endemism plus habitat loss are the two filters.
+25. CBD opened at Rio **1992**; Nagoya is **2010**. Dating CBD as 2010 is wrong.
+26. NBA sits in **Chennai**, not New Delhi. Keep that headquarters lock.
+27. Genetic diversity is within one species (for example rice varieties). Species diversity counts different species in an area.
+28. Sundaland in the Indian list refers to the **Andaman and Nicobar** portion — not mainland Uttar Pradesh.
 
-### Must-Know Term Comparisons
+---
+
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -324,31 +340,6 @@ D. Neither 1 nor 2
 - An **indicator species** shows habitat or pollution conditions. Lichens fail in polluted air and signal air quality decline.
 
 > **Exam note:** Lichens are good **pollution indicators** because they **do not** thrive in polluted air. Do not mark "grow well in pollution" as true.
-
----
-
-## Consolidated Reference — Once Only
-
-### Acts & dates
-
-| Item | Lock |
-|------|------|
-| **CBD** | 1992, Rio — conserve, sustainable use, benefit-sharing |
-| **Biological Diversity Act** | **2002** — NBA Chennai, BMC, PBR |
-| **Nagoya Protocol** | **2010** — Access and Benefit Sharing |
-| **International Day for Biological Diversity** | **22 May** |
-| **Global Biodiversity Framework** | **2022** — 30×30 target |
-
-### UP Focus
-
-| Element | Detail |
-|---------|--------|
-| **Hotspot** | Terai = **Himalaya hotspot** (Dudhwa, Pilibhit) |
-| **Tiger reserves** | Dudhwa (1987), Pilibhit (2014) — umbrella conservation |
-| **Key species** | Tiger, rhino, barasingha, Gangetic dolphin |
-| **Invasive IAS** | Water hyacinth, Parthenium, Lantana |
-| **State bird** | **Sarus crane** — wetland indicator |
-| **Ramsar** | Nawabganj, Saman, Samaspur, Sandi, Sarsai Nawar, Parvati Aranga, Sur Sarovar |
 
 ---
 

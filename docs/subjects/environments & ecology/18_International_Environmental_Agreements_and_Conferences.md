@@ -15,42 +15,40 @@
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 28 Must-Score Locks
 
-```
-CONFERENCE TIMELINE:
-  Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002
-  → Rio+20 2012 → SDGs + Paris 2015
+1. Conference spine: **Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015**.
+2. **Stockholm 1972** was the first UN Conference on the Human Environment. It led to **UNEP** (Nairobi). World Environment Day is **5 June**. The slogan lock is “Only One Earth.”
+3. The **Brundtland Report** (**1987**, *Our Common Future*) popularised **sustainable development**. It is **not** *Limits to Growth* (**1972**, Club of Rome).
+4. **Rio 1992** (UNCED) produced the Rio Declaration, **Agenda 21**, Forest Principles, and opened **UNFCCC** and **CBD** for signature. **CITES** is **not** a Rio product — CITES is **1973**.
+5. **Agenda 21** is Rio’s non-binding sustainable-development action plan for the twenty-first century. It was **not** signed in 1995.
+6. Climate chain: **UNFCCC 1992 → Kyoto Protocol 1997 → Paris Agreement 2015**. Paris uses universal **NDCs** and the **1.5°C** ambition language.
+7. Ozone chain: **Vienna Convention 1985 → Montreal Protocol 1987 → Kigali Amendment 2016** (HFCs). Montreal is **ozone**, not climate.
+8. Treaty–issue lock: Montreal/Vienna = ozone; Kyoto/Paris/UNFCCC = climate; CBD = biodiversity; Ramsar = wetlands; CITES = wildlife **trade**.
+9. **CMS (Bonn)** covers migratory species. **Basel** covers hazardous **waste**. **Rotterdam** covers hazardous **chemicals** (PIC). **Stockholm POPs** covers persistent organic pollutants. **Minamata** covers **mercury**.
+10. **CBD** has three pillars: conserve biodiversity, sustainable use, and fair benefit-sharing. **Nagoya Protocol (2010)** details access and benefit-sharing.
+11. **Ramsar** (**1971**) is the wetlands treaty under the Wise Use idea. World Wetlands Day is **2 February**.
+12. **CITES** (**1973**, Washington) regulates trade through Appendices **I–III**. IUCN’s Red List assesses extinction risk; CITES regulates trade — different jobs.
+13. **GEF** was established in **1991** on the eve of Rio as a finance mechanism for major environmental conventions.
+14. Kyoto set binding targets mainly for developed parties. Paris is a universal NDC architecture. Do not treat them as identical instruments.
+15. Kigali amends Montreal to phase down **HFCs**. It is an ozone-protocol amendment path, not a UNFCCC protocol.
+16. Basel is waste shipment control. Rotterdam is prior informed consent for chemicals. Stockholm POPs is about persistent toxics such as listed DDT/PCB classes. Minamata is mercury.
+17. CMS is migratory species; CITES is trade; Ramsar is wetlands. Mixing those three is a classic match trap.
+18. UNEP was born from Stockholm, not from Rio. Rio opened UNFCCC and CBD.
+19. Paris is **2015**; Kyoto is **1997**; UNFCCC framework is **1992**. Keep the climate chronology straight.
+20. Montreal successful ODS phase-out is often contrasted with slower climate politics — but exam stems still demand the correct issue tag, not slogans.
+21. Rudrasagar is a **Tripura** Ramsar site. Sultanpur is **Haryana**. Neither is an Uttar Pradesh site.
+22. Uttar Pradesh Ramsar examples include sites such as Nawabganj, Samaspur, Sarsai Nawar, Upper Ganga, Bakhira, and Haiderpur — verify the live list before the paper, but never park Rudrasagar or Sultanpur in UP.
+23. CBD opened at Rio **1992**; Nagoya ABS is **2010**. Do not date CBD as 2010.
+24. Forest Principles at Rio are non-binding soft law — not the same as CITES appendices.
+25. Johannesburg **2002** and Rio+20 **2012** continue the sustainable-development conference line after Rio; they do not reopen CITES as a 1992 invention.
+26. “Only One Earth” and UNEP creation lock to Stockholm **1972**, not to Paris **2015**.
+27. Wise Use is the Ramsar philosophy. It is not the CBD’s three objectives word-for-word.
+28. Master year table worth ratta: Ramsar 1971, CITES 1973, Vienna 1985, Montreal 1987, Basel 1989, UNFCCC/CBD 1992, Kyoto 1997, Rotterdam 1998, Stockholm POPs 2001, Nagoya 2010, Minamata 2013, Paris 2015, Kigali 2016.
 
-STOCKHOLM 1972: First UN Conference on Human Environment | Created UNEP (Nairobi)
-  WED = 5 June | "Only One Earth"
+---
 
-BRUNDTLAND 1987: Our Common Future | SD definition | ≠ Limits to Growth (1972)
-
-RIO 1992 (UNCED): Rio Declaration | UNFCCC + CBD opened | Agenda 21 | Forest Principles
-
-AGENDA 21: Rio 1992 SD blueprint for 21st century | NOT signed 1995
-
-CLIMATE CHAIN: UNFCCC 1992 → Kyoto 1997 → Paris 2015 (NDCs, 1.5°C goal)
-
-OZONE CHAIN: Vienna 1985 → Montreal 1987 → Kigali 2016 (HFCs)
-
-TREATY ↔ ISSUE:
-  Montreal/Vienna = OZONE | Kyoto/Paris/UNFCCC = CLIMATE
-  CBD = Biodiversity | Ramsar = Wetlands | CITES = Wildlife TRADE
-  CMS/Bonn = Migratory species | Basel = Hazardous WASTE
-  Rotterdam = Hazardous CHEMICALS (PIC) | Stockholm POPs = DDT/PCBs
-  Minamata = MERCURY
-
-CBD: Conserve | sustainable use | fair benefit-sharing | Nagoya ABS 2010
-CITES 1973: Appendices I–III | Ramsar 1971: Wise Use | 2 Feb Wetlands Day
-GEF established 1991 (eve of Rio)
-
-TRAPS: Montreal ≠ climate | Agenda 21 ≠ 1995 | Brundtland ≠ Limits to Growth
-  CITES = 1973 Washington — NOT Rio 1992 product
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -261,42 +259,6 @@ Which Ramsar sites are **NOT** in Uttar Pradesh?
 
 ---
 
-## Consolidated Reference — Once Only
-
-### Master treaty ↔ issue table
-
-| Treaty | Year | Issue |
-|--------|------|-------|
-| Ramsar | 1971 | Wetlands |
-| CITES | 1973 | Wildlife trade |
-| CMS | 1979 | Migratory species |
-| Vienna | 1985 | Ozone framework |
-| Montreal | 1987 | ODS phase-out |
-| Basel | 1989 | Hazardous waste |
-| UNFCCC | 1992 | Climate framework |
-| CBD | 1992 | Biodiversity |
-| Kyoto | 1997 | Climate binding targets |
-| Rotterdam | 1998 | Hazardous chemicals |
-| Stockholm POPs | 2001 | POPs |
-| Nagoya | 2010 | ABS |
-| Minamata | 2013 | Mercury |
-| Paris | 2015 | Climate NDCs |
-| Kigali | 2016 | HFC phase-down |
-
-### Rio 1992 opened for signature
-
-| Instrument | Topic |
-|------------|-------|
-| UNFCCC | Climate |
-| CBD | Biodiversity |
-| Agenda 21 | SD blueprint |
-| **NOT** CITES | CITES = 1973 |
-
-### UP Ramsar sites (exam sample)
-
-Nawabganj, Parvati Aranga, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Upper Ganga, Bakhira, Haiderpur, Bakhira wetland complex — verify current list for exams; **Rudrasagar = Tripura**, **Sultanpur = Haryana**.
-
----
 
 ## Practice Zone — UPPCS Format Drill
 

@@ -15,57 +15,40 @@
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 28 Must-Score Locks
 
-```
-SD (Brundtland 1987):
-  "Meet present needs without compromising future generations' ability to meet theirs"
-  Report = Our Common Future | WCED / Brundtland Commission
-  ≠ Limits to Growth (Club of Rome, 1972)
+1. **Sustainable development** (Brundtland **1987**, *Our Common Future*) means meeting present needs without compromising future generations’ ability to meet theirs.
+2. Brundtland is **not** *Limits to Growth* (Club of Rome, **1972**).
+3. SD rests on **economic, social, and environmental** pillars (plus institutional capacity). It is not environment-only.
+4. Core objectives include basic needs, intra- and inter-generational equity, ecological limits, participation, and integrated planning.
+5. Indicators include **HDI (UNDP)**, ecological footprint, NITI Aayog SDG Index, global SDG indicator sets, and EPI.
+6. **SDGs** were adopted in **September 2015**, run to **2030**, and include **17 goals** and **169 targets**.
+7. SDGs replaced **MDGs** (8 goals, **2000–2015**) and apply universally to all countries.
+8. Goal locks worth ratta include SDG **6** water, **7** energy, **13** climate, **14** life below water, and **15** life on land.
+9. Conference chain: **Stockholm 1972 → Brundtland 1987 → Rio and Agenda 21 in 1992 → SDGs 2015**.
+10. **Agenda 21** is Rio **1992**, not 1995.
+11. **LiFE Mission** launched in **June 2022**; the idea was floated at **COP26 Glasgow 2021**, not COP25.
+12. MoEFCC is the nodal environment ministry. **NGT Act 2010** creates the green tribunal.
+13. Rio principles frequently tested are **Precautionary Principle, Polluter Pays, and Public Trust**.
+14. Constitutional hooks are **Article 48A**, **Article 51A(g)**, and **Article 21** read with a healthy environment.
+15. UP SDG reporting typically sits with the **Planning Department**.
+16. Environmental justice means fair distribution of environmental benefits and burdens plus fair participation in decisions.
+17. Bhopal **1984** led to EPA **1986**. UP justice/pollution examples include Kanpur tanneries and the Singrauli coal belt.
+18. Ethics labels: **anthropocentrism** (human-centred), **biocentrism** (all life), **ecocentrism** (ecosystems). Leopold’s Land Ethic is **1949**; deep ecology links to **Arne Næss**.
+19. Gandhi’s **trusteeship** is a frequent Indian environmental-ethics lock.
+20. **Green economy** (UNEP **2011** line) means low-carbon, resource-efficient, socially inclusive growth.
+21. **Circular economy** redesigns take-make-dispose into reduce-reuse-recycle loops, often with **EPR** rules. Circular sits inside, but is not identical to, green economy.
+22. Example scheme–SDG matches: Jal Jeevan / Swachh Bharat → SDG **6**; SAUBHAGYA / UJALA → SDG **7**; NAPCC / Net Zero 2070 → SDG **13**.
+23. MDGs had 8 goals; SDGs have 17 — do not reverse the counts.
+24. HDI is an UNDP development indicator; it is not itself an MoEFCC clearance tool.
+25. Polluter Pays allocates cleanup cost to the polluter; Precautionary Principle acts under scientific uncertainty — different tools.
+26. Public Trust treats certain natural resources as held for public benefit, not absolute private exhaustion.
+27. Net Zero **2070** is India’s long-term climate lock nested under SDG 13 / Paris NDC politics.
+28. Sustainable development is intergenerational; “present growth only” options fail the Brundtland test.
 
-THREE PILLARS: Economic + Social + Environmental (+ Institutional)
-  NOT environment-only
+---
 
-OBJECTIVES: Basic needs | Intra-generational equity | Inter-generational equity
-  Ecological limits | Public participation | Integrated planning
-
-INDICATORS: HDI (UNDP) | Ecological footprint | SDG Index (NITI Aayog)
-  231 global SDG indicators | EPI
-
-SDGs 2030:
-  Adopted September 2015 | Deadline 2030 | 17 Goals | 169 Targets
-  Replaced MDGs (8 goals, 2000–2015) | Universal — all countries
-  India ~1/6 world population → global SDG success needs India
-
-17 SDGs: 1 No Poverty | 2 Zero Hunger | 3 Good Health | 4 Quality Education
-  5 Gender Equality | 6 Clean Water | 7 Clean Energy | 8 Decent Work
-  9 Industry/Infrastructure | 10 Reduced Inequalities | 11 Sustainable Cities
-  12 Responsible Consumption | 13 Climate Action | 14 Life Below Water
-  15 Life on Land | 16 Peace/Justice | 17 Partnerships
-
-KEY DATES:
-  Stockholm 1972 | Brundtland 1987 | Rio + Agenda 21 = 1992 (NOT 1995)
-  SDGs 2015 | LiFE launched June 2022 | Idea at COP26 Glasgow 2021
-
-GOVERNANCE: MoEFCC nodal | NGT 2010 | Rio principles (Precautionary, Polluter Pays, Public Trust)
-  Art 48A, 51A(g), Art 21 → healthy environment
-  UP SDG report = Planning Department
-
-JUSTICE: Fair distribution + fair participation in environmental decisions
-  Bhopal 1984 → EPA 1986 | UP: Kanpur tanneries, Singrauli coal belt
-
-ETHICS: Anthropocentrism (human-centred) | Biocentrism (all life) | Ecocentrism (ecosystem)
-  Leopold Land Ethic 1949 | Gandhi trusteeship | Deep ecology = Arne Næss
-
-GREEN ECONOMY (UNEP 2011): Low carbon + resource efficient + socially inclusive growth
-CIRCULAR ECONOMY: Linear take-make-dispose → reduce-reuse-recycle loops | EPR rules
-  Circular ⊂ Green (not identical)
-
-TRAPS: Agenda 21 = 1992 NOT 1995 | Brundtland ≠ Limits to Growth
-  LiFE = COP26 2021 / launch 2022 NOT COP-25
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -294,33 +277,6 @@ UP department preparing SDG National Indicator Framework Progress Report:
 | Scope | Broader | Narrower — subset of green |
 | Example | Solar parks, green hydrogen | EPR, plastic recycling |
 | SDG link | 7, 8, 13 and more | Mainly SDG 12 |
-
----
-
-## Consolidated Reference — Once Only
-
-### Timeline
-
-| Year | Event |
-|------|-------|
-| 1972 | Stockholm Conference; *Limits to Growth* |
-| 1987 | Brundtland Report |
-| 1992 | Rio Summit; Agenda 21; UNFCCC; CBD |
-| 2010 | NGT Act |
-| 2015 | SDGs adopted |
-| 2021 | LiFE idea at COP26 |
-| 2022 | LiFE Mission launched |
-
-### India SDG schemes (examples)
-
-| SDG | Scheme |
-|-----|--------|
-| 1/2 | PM-KISAN, NFSA |
-| 3 | Ayushman Bharat |
-| 4 | Samagra Shiksha |
-| 6 | Jal Jeevan Mission, Swachh Bharat |
-| 7 | SAUBHAGYA, UJALA |
-| 13 | NAPCC, Net Zero 2070 |
 
 ---
 

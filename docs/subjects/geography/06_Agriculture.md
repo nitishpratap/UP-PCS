@@ -17,7 +17,7 @@
 
 ---
 
-## Consolidated — 30 Must-Score Locks
+## Consolidated — 34 Must-Score Locks
 
 1. **Net sown area (NSA)** is land sown at least once a year. **Gross cropped area (GCA)** counts every sowing. **Cropping intensity** = **GCA / NSA × 100** (about **111%** in 1950–51 to about **156%** now). About **86%** of holdings are small or marginal, and about half of NSA is still rainfed.
 2. Groundwater covers about **64%** of irrigated area. Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh; tanks suit the peninsula; drip suits horticulture.

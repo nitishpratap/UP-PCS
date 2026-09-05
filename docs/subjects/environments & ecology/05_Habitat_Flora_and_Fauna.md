@@ -14,25 +14,36 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-HABITAT = physical PLACE where organism lives (address) | Hindi: निवास स्थान
-  ≠ Niche (role) | ≠ Ecosystem (functional unit) | ≠ Environment (total surroundings)
-T-A-M: Terrestrial = land | Aquatic = water | Mangrove/wetland = transitional (NOT purely terrestrial)
-ADAPTATION HABITATS: Arboreal (trees) | Fossorial (burrows) | Cursorial (plains) | Xericole (desert)
-HABITAT LOSS = #1 biodiversity threat | Fragmentation splits patches | Corridors reconnect habitats
-MISHTI = Mangrove Initiative for Shoreline Habitats & Tangible Income | Budget 2023–24 | MoEFCC
-NUHHP = National Urban Housing & Habitat Policy | 2007 | MoHUA
-Chronology: JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → Jal Jeevan Mission 2019
-FLORA = plant life of a region | FAUNA = animal life of a region
-INDIA: ~45,000 plants | ~91,000+ animals | 2.4% land area
-BSI Kolkata = plants (1890) | ZSI Kolkata = animals (1916)
-Engler = World Floral Regions | C.O. Sauer = Planting Hearth
-UP: Terai = richest habitat | State animal = Barasingha | State bird = Sarus crane
-```
+1. A **habitat** is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** is the functional unit. **Environment** is the total surroundings.
+2. Habitats are commonly classed as **terrestrial, aquatic, or transitional** (mangrove/wetland). Transitional habitats are not purely terrestrial.
+3. Adaptation labels include **arboreal** (trees), **fossorial** (burrows), **cursorial** (open plains), and **xericole** (desert).
+4. **Habitat loss** is the number-one biodiversity threat. **Fragmentation** splits patches; **corridors** reconnect them.
+5. **MISHTI** is the Mangrove Initiative for Shoreline Habitats & Tangible Income from Budget **2023–24** under MoEFCC. It is **not** a 2019 scheme.
+6. **NUHHP** is the National Urban Housing and Habitat Policy of **2007** (MoHUA).
+7. Habitat–scheme chronology: **JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → Jal Jeevan Mission 2019**.
+8. **Flora** means plant life of a region. **Fauna** means animal life. Do not swap the two.
+9. India has roughly **45,000** plant species and **91,000+** animal species on about **2.4%** of world land.
+10. **BSI (1890, Kolkata)** surveys plants. **ZSI (1916, Kolkata)** surveys animals. Both sit in Kolkata; kingdoms differ.
+11. Engler is linked to world floral regions. **C.O. Sauer** is linked to planting hearths in cultural geography.
+12. A **microhabitat** is a small subdivision inside a larger habitat.
+13. In-situ conservation protects species in natural habitat; ex-situ is outside habitat — same lock as biodiversity sheets.
+14. Uttar Pradesh’s richest wildlife habitat belt is the **Terai** (Dudhwa, Pilibhit, Kishanpur).
+15. UP state animal is **barasingha**. UP state bird is **Sarus crane**.
+16. The **Terai Arc Landscape** corridor links UP Terai protected areas toward Nepal.
+17. Aquatic fauna locks for UP include the **Gangetic dolphin** in the Ganga–Yamuna system.
+18. **Water hyacinth** is a common invasive threat in UP village ponds.
+19. Uttar Pradesh has **no mangrove habitat** for exam purposes — it is landlocked for that category.
+20. Habitat is an address; niche is a job description. Mixing the two loses marks on definition stems.
+21. Wetlands and mangroves are **transitional**, not “purely terrestrial forest” options.
+22. MISHTI is mangrove-focused coastal income and protection — not a Terai tiger scheme.
+23. Jal Jeevan Mission (**2019**) is the latest lock in the urban/habitat chronology set above; do not date NUHHP as 2019.
+24. Corridor questions for UP should start from Terai Arc links, not from Western Ghat mangrove corridors.
 
-### Must-Know Term Comparisons
+---
+
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -265,31 +276,6 @@ D. 2 3 4 1
 **Ans: A** — Sauer–3, Arctic–4, Engler–2, Hungary–1.
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-### Habitat conservation schemes
-
-| Scheme | Year | Trap |
-|--------|------|------|
-| JNNURM | 2005 | Before NUHHP |
-| NUHHP | 2007 | Urban habitat policy |
-| AMRUT | 2015 | After NUHHP |
-| Jal Jeevan Mission | 2019 | Latest in chronology set |
-| MISHTI | 2023–24 | **Not** 2019 |
-
-### UP Focus
-
-| Element | Detail |
-|---------|--------|
-| **Richest habitat** | Terai — Dudhwa, Pilibhit, Kishanpur |
-| **State symbols** | Barasingha (animal), Sarus crane (bird) |
-| **Corridor** | Terai Arc Landscape to Nepal |
-| **Aquatic fauna** | Gangetic dolphin in Ganga–Yamuna |
-| **Invasive threat** | Water hyacinth in village ponds |
-| **No mangrove** | UP is landlocked for habitat purposes |
 
 ---
 

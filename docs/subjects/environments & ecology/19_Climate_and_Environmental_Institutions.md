@@ -14,42 +14,36 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-ORG → HQ → FLAGSHIP OUTPUT:
-  IPCC — Geneva — Assessment Reports (AR6) | science NOT policy
-  UNEP — Nairobi — Emissions Gap Report, GEO | created Stockholm 1972
-  UNDP — New York — Human Development Report (1990), HDI
-  IUCN — Gland — Red List (extinction risk)
-  WWF — Gland — Living Planet Report, Living Planet Index
-  FAO — Rome — State of World's Forests (SOFO)
+1. **IPCC** sits in **Geneva**, issues Assessment Reports, and synthesises climate science. It does **not** set NDCs and is **not** the UNFCCC treaty body.
+2. IPCC was established in **1988** by **WMO and UNEP** and shared the Nobel Peace Prize in **2007**.
+3. **UNEP** headquarters is **Nairobi**. Flagship products include the **Emissions Gap Report** and GEO. UNEP was created after Stockholm **1972**.
+4. UNEP hosts several MEA secretariats (including Montreal, Basel, and Minamata lines) and works with GEF-linked convention finance.
+5. **UNDP** headquarters is **New York**. It publishes the **Human Development Report** (from **1990**) and the **HDI**. HDR is UNDP, not UNEP.
+6. HDI is linked to **Mahbub ul Haq** and **Amartya Sen**. Do not invent a wrong founding-name trap for HDR.
+7. **IUCN** headquarters is **Gland**. It publishes the **Red List** of extinction risk. IUCN assesses risk; it does **not** regulate wildlife trade — that is **CITES**.
+8. On the Red List, **Threatened** means **Vulnerable + Endangered + Critically Endangered** (VU + EN + CR). “Endangered alone” is not the full threatened set.
+9. **WWF** is a conservation NGO also linked to Gland, known for the panda logo and the **Living Planet Report / Living Planet Index**.
+10. **FAO** headquarters is **Rome**. Environment-facing outputs include the **State of the World’s Forests (SOFO)** and agriculture–forest links. FAO partners UNEP on some chemical-convention work such as Rotterdam.
+11. HQ memory: Nairobi = UNEP; New York = UNDP; Geneva = IPCC; Gland = IUCN and WWF; Rome = FAO.
+12. IPCC ≠ UNFCCC. Science assessment is not the same as the climate treaty and COP process.
+13. UNEP ≠ UNDP. Environment programme versus development agency — swap reports and you lose marks.
+14. Emissions Gap Report → **UNEP**. Human Development Report → **UNDP**. Red List → **IUCN**. Living Planet → **WWF**. Assessment Reports → **IPCC**.
+15. IUCN ≠ CITES. Risk categories versus trade appendices.
+16. WWF ≠ IUCN. NGO Living Planet work versus Red List authority.
+17. FAO is food and agriculture first; it is not the Red List body and not the Emissions Gap publisher.
+18. GEF (**1991**) finances global environmental conventions; do not confuse GEF with IPCC authorship of Assessment Reports.
+19. Red List codes to know: CR, EN, VU as the threatened band; also EX, EW, NT, LC, DD, NE in the wider ladder.
+20. UNEP’s Green Economy work and GEO sit in the environment-programme lane — not in UNDP’s HDI lane.
+21. IPCC reports inform negotiators; parties still adopt NDCs under the UNFCCC/Paris track.
+22. Living Planet Index tracks vertebrate abundance trends; it is not a legal trade permit system.
+23. SOFO is FAO’s forest flagship — not FSI’s India State of Forest Report.
+24. Match org → city → product before matching slogans. Geography of headquarters is a frequent prelims filter.
 
-IPCC: Est. 1988 by WMO + UNEP | Nobel Peace Prize 2007
-  Synthesises climate science | Does NOT set NDCs | ≠ UNFCCC
+---
 
-UNEP: Emissions Gap Report | GEO | Green Economy Report 2011
-  Hosts MEA secretariats (Montreal, Basel, Minamata)
-  GEF (1991) serves UNEP-linked conventions
-
-UNDP: HDR 1990 + HDI | Mahbub ul Haq + Amartya Sen
-  NOT Priesner (2025 Q132 trap) | SDG country support
-
-IUCN: Red List categories LC/NT/VU/EN/CR/EW/EX
-  Threatened = VU + EN + CR | Assesses risk — does NOT regulate trade (CITES)
-
-WWF: NGO | Panda logo | Living Planet Index (vertebrate trends)
-
-FAO: Agriculture-food agency | Joint Rotterdam Convention with UNEP
-  SOFO with UNEP | ag-biodiversity-deforestation link
-
-HQ MEMORY: Nairobi=UNEP | New York=UNDP | Geneva=IPCC | Gland=IUCN+WWF | Rome=FAO
-
-TRAPS: IPCC ≠ UNFCCC | UNEP ≠ UNDP | IUCN ≠ CITES | WWF ≠ IUCN
-  Emissions Gap = UNEP | HDR = UNDP
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -198,29 +192,6 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 
 ---
 
-## Consolidated Reference — Once Only
-
-### Org ↔ HQ ↔ Report matrix
-
-| Organisation | HQ | Flagship output |
-|--------------|-----|-----------------|
-| IPCC | Geneva | Assessment Reports |
-| UNEP | Nairobi | Emissions Gap, GEO |
-| UNDP | New York | HDR, HDI |
-| IUCN | Gland | Red List |
-| WWF | Gland | Living Planet Report |
-| FAO | Rome | SOFO |
-
-### Red List threatened tiers
-
-| Category | Code |
-|----------|------|
-| Critically Endangered | CR |
-| Endangered | EN |
-| Vulnerable | VU |
-| **Threatened** | **CR + EN + VU** |
-
----
 
 ## Practice Zone — UPPCS Format Drill
 

@@ -15,47 +15,38 @@
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 26 Must-Score Locks
 
-```
-ACT YEAR CHAIN:
-  WPA 1972 | Water 1974 | FCA 1980 | Air 1981 | EPA 1986
-  BDA 2002 | FRA 2006 | NGT Act 2010
+1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
+2. **Article 48A** (DPSP) directs the State to protect the environment. **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
+3. **Article 21** has been read to include a healthy environment. **Article 48** is about agriculture and cattle — it is **not** the environment article (**48A** is).
+4. The **Environment (Protection) Act, 1986** is the post-Bhopal umbrella law. Section **3** powers support EIA, CRZ, and ESZ rules. It **supplements** Water and Air Acts; it does not repeal them.
+5. EIA Notification and related clearances flow from **EPA**, not from the Water Act.
+6. The **Wildlife (Protection) Act, 1972** uses **six** Schedules. Schedules **I–IV** protect animals; Schedule **V** is vermin; Schedule **VI** covers plants. **Schedule I** is the highest protection; Schedule **V** animals may be hunted as vermin.
+7. Under WPA, a **National Park** (Section **35**) is stricter than a **Sanctuary** (Section **18**). Tiger Reserves rest on Section **38V** (2006 amendment path).
+8. The **Forest (Conservation) Act, 1980** requires prior **Central** approval before diverting forest land. CAMPA and NPV sit in this clearance world.
+9. The **Forest Rights Act, 2006** recognises rights of Scheduled Tribes and Other Traditional Forest Dwellers. Individual forest rights are capped around **4 hectares**, with a cutoff of **13 December 2005**, and recognition begins at the **Gram Sabha**.
+10. **FCA** controls **diversion** of forest land. **FRA** recognises **rights** of forest dwellers. Do not treat them as one Act.
+11. The **Biological Diversity Act, 2002** implements the CBD through **NBA** (national), **SBB** (state), and **BMC** (local) with People’s Biodiversity Registers.
+12. The **Water Act, 1974** created **CPCB/SPCB** and the consent regime. The **Air Act, 1981** covers air pollution and NAAQS. Water is **1974**; Air is **1981** — do not reverse the years.
+13. Industry **consent** (CTE/CTO) is under Water/Air Acts via **SPCB**. **Environmental Clearance** is under EPA/EIA via **MoEFCC/SEIAA**. Forest clearance is under **FCA** via MoEFCC.
+14. The **NGT Act, 2010** creates the green tribunal for environmental appeals and compensation, with a six-month disposal target.
+15. National Forest Policy **1952** was revenue-leaning. Later practice follows National Forest Policy **1988** targets of about **33%** forest cover nationally and **66%** in hills.
+16. EPA is **1986**, not 1972. WPA is **1972**, not 1986. Mixing those years is a standard trap.
+17. Schedule **V** under WPA is **not** the highest protection tier — Schedule **I** is.
+18. Consent is not EC, and EC is not forest clearance. Keep the three tools on separate legal tracks.
+19. FRA’s nodal line is tribal forest rights, not MoEFCC forest diversion under FCA.
+20. BDA is about biodiversity access and benefit-sharing institutions — not the same as WPA schedules or NGT appeals.
+21. Article **48A** binds the State as a Directive Principle; **51A(g)** binds the citizen as a duty. Both environment hooks sit beside Article **21** case law.
+22. Water Act creates the pollution-board architecture; EPA is the later umbrella for broader environmental regulation including EIA.
+23. Air Act year lock is **1981**. Pairing Air with **1974** or Water with **1981** is wrong.
+24. NGT hears appeals; it does not rewrite the year of EPA or replace CPCB’s standards role.
+25. CAMPA/NPV issues arise after forest diversion under FCA — they are not FRA Gram Sabha rights tools.
+26. Match clearance labels carefully: **SPCB consent**, **MoEFCC/SEIAA EC**, **MoEFCC forest clearance**.
 
-CONSTITUTION:
-  Art 48A = State shall protect environment (DPSP)
-  Art 51A(g) = Citizen duty to protect environment (Fundamental Duty)
-  Art 21 = Right to Life → healthy environment (SC: M.C. Mehta)
-  Art 48 = agriculture/cattle — NOT environment (trap vs 48A)
+---
 
-EPA 1986 (post-Bhopal 1984):
-  Umbrella law | Section 3 powers | EIA, CRZ, ESZ rules
-  Supplements Water/Air Acts — does not replace them
-
-WPA 1972:
-  6 Schedules: I–IV protected | V vermin | VI plants
-  Schedule I = highest protection | V = can be hunted
-  NP (Sec 35) strictest | Sanctuary (Sec 18) | Tiger Reserve Sec 38V (2006)
-
-FCA 1980: Prior CENTRAL approval for forest diversion | CAMPA/NPV
-FRA 2006: ST + OTFD rights | IFR max 4 ha | cutoff 13 Dec 2005 | Gram Sabha
-
-BDA 2002: CBD implementation | NBA Chennai | SBB | BMC | PBR
-
-Water 1974 → CPCB/SPCB | CTE/CTO
-Air 1981 → NAAQS
-
-NGT Act 2010: Environmental tribunal | appeals | 6-month target
-
-NFP 1952 → revenue focus | superseded in practice by NFP 1988 (33%/66% cover)
-
-TRAPS:
-  Water ≠ 1981 (Air = 1981) | EPA ≠ 1972 (WPA = 1972)
-  FCA ≠ FRA | Art 48 ≠ 48A | Schedule V ≠ highest protection
-  EIA under EPA — not Water Act
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -260,31 +251,6 @@ D. 1977
 
 ---
 
-## Consolidated Reference — Once Only
-
-### Act ↔ year (complete)
-
-| Act | Year |
-|-----|------|
-| Wildlife (Protection) Act | **1972** |
-| Water Act | **1974** |
-| Forest (Conservation) Act | **1980** |
-| Air Act | **1981** |
-| Environment (Protection) Act | **1986** |
-| Biological Diversity Act | **2002** |
-| Forest Rights Act | **2006** |
-| NGT Act | **2010** |
-| National Forest Policy | **1952** |
-
-### Clearance vs consent
-
-| Term | Legal basis | Body |
-|------|-------------|------|
-| Consent (CTE/CTO) | Water/Air Acts | SPCB |
-| Environmental Clearance | EPA + EIA Notification | MoEFCC/SEIAA |
-| Forest Clearance | FCA 1980 | MoEFCC |
-
----
 
 ## Practice Zone — UPPCS Format Drill
 

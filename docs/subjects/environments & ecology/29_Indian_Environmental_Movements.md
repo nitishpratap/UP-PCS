@@ -14,30 +14,34 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 22 Must-Score Locks
 
-```
-MOVEMENT → YEAR → PLACE → LEADER:
-  Bishnoi        1730  Khejarli, Rajasthan     Amrita Devi (363 martyrs)
-  Chipko         1973  Reni, Uttarakhand       Bahuguna, Bhatt, Gaura Devi
-  Silent Valley  1970s Kerala (Palakkad)       KSSP + scientists (anti-dam)
-  Jungle Bachao  1982  Singhbhum, Jharkhand    Tribal resistance
-  Appiko         1983  Karnataka (Sirsi)       Panduranga Hegde
-  Narmada Bachao 1985+ MP–Gujarat–Maharashtra  Medha Patkar, Baba Amte
-  Save W Ghats   2011+ Multi-state W Ghats     Gadgil / Kasturirangan reports
+1. **Bishnoi** resistance at **Khejarli, Rajasthan (1730)** is led in memory by **Amrita Devi** and the **363** martyrs who died protecting khejri trees. It is centuries older than Chipko.
+2. **Chipko (1973)** began at **Reni, Uttarakhand** (then Uttar Pradesh). Leaders include **Sunderlal Bahuguna, Chandi Prasad Bhatt, and Gaura Devi**. Method: embracing trees against logging.
+3. **Silent Valley (1970s)** in **Kerala (Palakkad)** opposed a hydro project in rainforest. **KSSP** and scientists were central. It is **not** a Tamil Nadu movement.
+4. **Jungle Bachao Andolan (1982)** in **Singhbhum, Jharkhand** was tribal resistance for forest rights.
+5. **Appiko (1983)** in **Karnataka (Sirsi)** was led by **Panduranga Hegde**. It is the southern tree-embrace movement. Appiko is **Karnataka only** — not Uttarakhand, UP, or Kerala.
+6. **Narmada Bachao Andolan (from 1985)** spans **Madhya Pradesh, Gujarat, and Maharashtra**, with **Medha Patkar** and **Baba Amte** as leader locks. It is anti-large-dam displacement politics.
+7. **Save Western Ghats (from about 2011)** is multi-state ecology politics around the **Gadgil** and **Kasturirangan** reports, mining, and ESZ questions.
+8. Method families: Chipko, Appiko, and Bishnoi = forest/tree protection. Silent Valley and Narmada Bachao = anti-dam. Save Western Ghats = report/policy ecology protests.
+9. Chipko ≠ Appiko. Chipko is Uttarakhand; Appiko is Karnataka.
+10. Bishnoi **1730** ≠ Chipko **1973**. Century trap matters.
+11. “NBA” as Narmada Bachao Andolan is **not** the National Biodiversity Authority. Same letters, different bodies.
+12. Silent Valley is Kerala rainforest–dam conflict, not a Western Ghats mining-only slogan.
+13. Jungle Bachao is Jharkhand Singhbhum tribal forest rights — not Chipko’s Garhwal story.
+14. Narmada Bachao is multi-state Narmada valley politics — not a single-state Kerala story.
+15. Save Western Ghats leans on expert committee reports; Chipko leans on village tree hugging.
+16. UP link: Chipko’s Reni lay in erstwhile UP until Uttarakhand statehood (**2000**). Appiko and Silent Valley are **not** UP movements.
+17. Gaura Devi is a Chipko village leadership lock; Panduranga Hegde is Appiko; Medha Patkar is Narmada.
+18. Khejarli martyrdom is Rajasthan Bishnoi memory — not Uttarakhand Chipko.
+19. Anti-dam movements still differ: Silent Valley saved a Kerala valley rainforest project path; Narmada contested a large multi-state dam-displacement model.
+20. Gadgil report is often read as stronger ecological protection; Kasturirangan as a later recalibration — both sit inside Save Western Ghats politics.
+21. Tree-hugging method travelled from Chipko north to Appiko south — same method family, different states and years.
+22. Match movement → year → state → leader before answering “which state” stems; state alone often decides the key.
 
-METHOD:
-  Chipko + Appiko + Bishnoi = tree hugging / forest protection
-  Silent Valley + NBA = anti-dam
-  Save W Ghats = ecology-report / mining–ESZ policy protests
+---
 
-2025 Q122: Appiko = Karnataka ONLY (not UK/UP/Kerala)
-
-TRAPS: Chipko ≠ Appiko state | Silent Valley ≠ Tamil Nadu
-  Bishnoi 1730 ≠ Chipko 1973 | NBA movement ≠ National Biodiversity Authority
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Movement | State | Year | Core issue |
 |----------|-------|------|------------|
@@ -171,21 +175,6 @@ Options: A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 
 ---
 
-## Consolidated Reference
-
-| Movement | Year | State | Leader lock |
-|----------|------|-------|-------------|
-| Bishnoi | 1730 | Rajasthan | Amrita Devi |
-| Chipko | 1973 | Uttarakhand | Bahuguna / Gaura Devi |
-| Silent Valley | 1970s | Kerala | KSSP |
-| Jungle Bachao | 1982 | Jharkhand | Singhbhum tribals |
-| Appiko | 1983 | Karnataka | Panduranga Hegde |
-| Narmada Bachao | 1985+ | MP–GJ–MH | Medha Patkar |
-| Save W Ghats | 2011+ | Multi-state | Gadgil / Kasturirangan |
-
-**UP link:** Chipko Reni was in erstwhile UP until Uttarakhand (2000). Appiko/Silent Valley are **not** UP movements.
-
----
 
 ## Practice Zone
 

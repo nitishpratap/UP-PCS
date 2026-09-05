@@ -14,29 +14,34 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 22 Must-Score Locks
 
-```
-ACID RAIN = deposition with pH < 5.6
-Normal rain ≈ pH 5.6 (CO₂ → weak H₂CO₃) — NOT pH 7
+1. **Acid rain** means acidic deposition with **pH below 5.6**.
+2. Normal rain is already slightly acidic near **pH 5.6** because CO₂ forms weak carbonic acid. It is **not** pH 7.
+3. **Wet deposition** arrives with rain, snow, or fog. **Dry deposition** settles as acidic gases or particles without rain.
+4. The main strong acid pathway is **SO₂ → H₂SO₄**. **NOx → HNO₃** is the other major path.
+5. **CO₂ → H₂CO₃** sets the weak baseline. Carbon dioxide alone is **not** the main culprit of severe acid rain.
+6. On the pH scale, acidic is below **7**, basic is above **7**, and neutral is **7**.
+7. Reversed statements that call normal rain alkaline or acid rain alkaline are both false.
+8. Lake waters below about **pH 5** can kill fish. Acid soils release toxic **Al³⁺**.
+9. Acid deposition harms conifers and weathers marble and limestone. The Taj marble → **gypsum** story is the classic Indian lock.
+10. Prevention tools include **FGD**, catalytic converters, cleaner fuel norms such as **BS-VI**, and regional protocols.
+11. The **Gothenburg Protocol / CLRTAP** family targets acidifying air pollutants. **Montreal** targets ozone ODS — different problem.
+12. The **Taj Trapezium** is the pollution-control belt designed to protect the Taj Mahal.
+13. SO₂ is denser than air and can travel long distances before deposition.
+14. Acid rain is a **secondary-pollutant** story built from primary SO₂ and NOx emissions.
+15. Coal power and some industries are major SO₂ sources. Vehicles and combustion add NOx.
+16. Liming lakes is an emergency response, not a substitute for cutting emissions at source.
+17. Do not blame acid rain mainly on CO₂ just because normal rain is weakly acidic.
+18. Dry deposition can damage materials even on rainless days.
+19. Acid mist and acid fog are wet forms even when they are not classic rainfall.
+20. Cultural-heritage damage and forest dieback are both valid effect locks alongside aquatic harm.
+21. India’s exam focus pairs chemistry (SO₂/NOx) with Taj protection geography.
+22. Calling Montreal the acid-rain treaty is a standard distractor.
 
-WET = rain/snow/fog with acids | DRY = SO₂/NO₂ particles settle without rain
+---
 
-CHEMISTRY (secondary pollutants):
-  SO₂ → H₂SO₄ (main strong acid rain)
-  NOx → HNO₃
-  CO₂ → H₂CO₃ only (weak baseline) — NOT main culprit
-
-pH: Acidic < 7 | Basic > 7 | Neutral = 7
-2025 Q103: both statements reversed → Neither
-
-EFFECTS: lakes pH <5 fish kill | soil Al³⁺ | conifers | Taj marble → gypsum
-PREVENTION: FGD | catalytic converters | BS-VI | Gothenburg/CLRTAP | Taj Trapezium
-
-TRAPS: Montreal = ozone | SO₂ heavier than air | CO₂ alone ≠ severe acid rain
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -159,21 +164,6 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 | Gothenburg/CLRTAP | Transboundary acidification |
 
 > **Exam note:** Montreal = ozone. Acid rain treaty family = **CLRTAP / Gothenburg**.
-
----
-
-## Consolidated Reference
-
-| Lock | Value |
-|------|-------|
-| Acid rain pH | < 5.6 |
-| Normal rain pH | ~5.6 |
-| Main acids | H₂SO₄, HNO₃ |
-| Taj chemistry | Marble → gypsum |
-| Taj Trapezium | ~10,400 km² |
-| Acid rain protocol | Gothenburg 1999 |
-
-**UP locks:** Mathura SO₂ → Taj | Singrauli coal SO₂ | Kanpur/Ghaziabad NOx–SO₂ mix
 
 ---
 

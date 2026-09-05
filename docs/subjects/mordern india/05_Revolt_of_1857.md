@@ -15,32 +15,38 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-29 March 1857   Barrackpore — Mangal Pandey
-10 May 1857     Meerut — mass outbreak of the revolt
-11–12 May 1857  Delhi seized; Bahadur Shah Zafar proclaimed emperor
-4 June 1857     Lucknow rising
-June 1857       Jhansi rising (NOT 11 May)     ← 2023 Q40 answer D
-September 1857  British recapture Delhi
-1 November 1858 Queen’s Proclamation at Allahabad; Crown rule
+1. **Causes (long):** Doctrine of Lapse, **Awadh annexation 1856** for misrule, heavy revenue, missionary fear, and sepoy service grievances. **Immediate spark:** greased cartridges.
+2. **Course — spark:** **Mangal Pandey** at **Barrackpore on 29 March 1857**. **Mass outbreak:** **Meerut on 10 May 1857**. Delhi was seized on **11–12 May**; it was **not** the first outbreak.
+3. **Course — centres:** Delhi, Kanpur, Lucknow, Jhansi, Bareilly, Bihar (Jagdishpur) and parts of Central India formed the main belt. **Punjab, Madras, Bombay and Hyderabad** stayed mostly quiet or loyal.
+4. **Results:** the **Government of India Act, 1858** ended Company rule; the **Queen’s Proclamation** was read at **Allahabad on 1 November 1858**; **Canning** became first Viceroy; the army was reorganised.
+5. **Delhi:** **Bahadur Shah Zafar** was the symbolic emperor; **Bakht Khan** organised the army. Do not swap the two roles.
+6. **Kanpur:** **Nana Sahib** was the political leader; **Tantia Tope** was his military commander.
+7. **Lucknow / Awadh:** **Begum Hazrat Mahal** led the rising. **Bareilly:** **Khan Bahadur Khan**. Do not put the Begum at Bareilly.
+8. **Jhansi:** **Rani Lakshmibai** led the rising (**June 1857**, not 11 May). She died fighting near **Gwalior**. Jhansi had been taken under the **Doctrine of Lapse**.
+9. **Jagdishpur (Bihar):** **Kunwar Singh** led the revolt. **Faizabad:** **Maulvi Ahmadullah Shah**. **Allahabad:** **Maulvi Liaquat Ali**.
+10. **Awadh (1856)** was annexed for alleged **misrule**, not under Lapse. That annexation made Awadh one of the hottest theatres in 1857.
+11. British writers called it a **Sepoy Mutiny**. **V.D. Savarkar (1909)** called it the **First War of Independence**. UPPCS still tests centres, leaders and dates hardest.
+12. There was **no single national command** and no modern party behind the revolt. Loyal princes, telegraph, railways and a quiet South/Punjab helped the British recover.
+13. The revolt began under **Company** rule. **Crown** rule began only with the **1858** settlement — do not date Crown rule from Meerut.
+14. Why it failed (compact): disunity of aims, weak central leadership, limited geography, superior British reinforcements and Indian allies who stayed loyal.
+15. Uttar Pradesh was the revolt’s strongest civilian and sepoy belt — Meerut, Delhi’s UP hinterland, Lucknow, Kanpur, Allahabad and Bareilly all sit on that map.
+16. Mangal Pandey’s Barrackpore act was the **spark**, not the **war’s start**. Exam stems that say “beginning of the revolt” want **Meerut, 10 May**.
+17. After Delhi fell back to the British in **September 1857**, the fighting continued into **1858** in Awadh and Central India before final suppression.
+18. Tantia Tope kept guerrilla fighting after Kanpur’s fall and was later captured and executed — he is the military name beside Nana Sahib, not a separate centre’s political king.
+19. Kunwar Singh was an ageing zamindar of Jagdishpur who still led a major Bihar rising — a favourite “leader ↔ place” match.
+20. Begum Hazrat Mahal rejected British offers and kept Awadh’s resistance alive from Lucknow; she later took refuge in Nepal.
+21. Bahadur Shah Zafar was tried and exiled to **Rangoon**; the Mughal imperial fiction ended with the revolt’s failure.
+22. Army reorganisation after 1858 reduced the weight of high-caste Bengal sepoys and increased reliance on groups the British called “loyal” — a structural result, not only a political one.
+23. Peasant, taluqdar and sepoy strands mixed in Awadh; exams still want the **leader tags** even when historiography stresses social depth.
+24. Jhansi rising date trap: **June 1857**, not the Delhi dates of mid-May. That distinction is a repeated prelims killer.
+25. Company ends in **1858**; first Viceroy is **Canning**. Mountbatten is the **last** Viceroy, never the first.
+26. Historiography labels (mutiny / national war / peasant war) matter less in UPPCS than **Meerut 10 May**, centre↔leader matches, and **1858 Crown**.
 
-Delhi      Bahadur Shah Zafar (symbol) / Bakht Khan (army)
-Kanpur     Nana Sahib + Tantia Tope
-Lucknow    Begum Hazrat Mahal
-Jhansi     Rani Lakshmibai
-Bareilly   Khan Bahadur Khan                 ← 2023 Q46
-Jagdishpur Kunwar Singh (Bihar)              ← 2024 Q148 statement 1 true
-Faizabad   Maulvi Ahmadullah Shah
-Allahabad  Maulvi Liaquat Ali
+---
 
-Awadh annexed 1856 for misrule (not Lapse)
-Jhansi annexed under Doctrine of Lapse (adopted son not recognised)
-Company ends 1858 — first Viceroy = Canning
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -56,7 +62,6 @@ Company ends 1858 — first Viceroy = Canning
 
 ---
 
----
 
 ## 5.0 One clear picture — why 1857 rose and fell
 

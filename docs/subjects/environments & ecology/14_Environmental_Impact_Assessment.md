@@ -14,49 +14,36 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-EIA = Study project's likely environmental effects BEFORE approval
-  Goal: Anticipatory prevention — not reactive cleanup
-  Legal base: Environment (Protection) Act, 1986 (Section 3)
-  First notification 1994 | Current framework: EIA Notification 2006 (14 Sept)
+1. **EIA** studies a project’s likely environmental effects **before** approval. The aim is anticipatory prevention, not reactive cleanup.
+2. Legal base is the **Environment (Protection) Act, 1986** (Section **3**). First EIA Notification was **1994**; the current framework is **EIA Notification 2006 (14 September)**.
+3. **Environmental Clearance** is mandatory prior clearance for listed projects.
+4. **Category A** is appraised centrally by **MoEFCC** through the **EAC**.
+5. **Category B** is appraised by **SEIAA** through **SEAC**. **B1** needs full EIA (usually with public hearing); **B2** is simplified.
+6. Under a **General Condition**, a Category B project in a sensitive area is treated as Category A.
+7. The four classic stages are **screening → scoping → public consultation → appraisal**. Screening applies to Category B only.
+8. **Scoping** fixes the **Terms of Reference (ToR)** for the EIA study.
+9. An EIA report covers baseline, impact prediction, mitigation, and an **Environmental Management Plan (EMP)**.
+10. **Rapid EIA** uses one season; **comprehensive EIA** covers all seasons.
+11. MoEFCC/SEIAA **grant** EC. EAC/SEAC only **recommend**. CPCB/SPCB set standards and monitor — they do **not** grant EC.
+12. **NGT (Act 2010)** hears EC and pollution appeals. **PARIVESH** is MoEFCC’s online EC portal.
+13. **SEA** assesses policies, plans, and programmes upstream of projects. India has project-level EIA law but **no standalone SEA statute**.
+14. SEA references include the Kiev SEA Protocol **2003** (Espoo family) and the EU SEA Directive.
+15. Rio Principle **17** supports EIA for projects with significant impacts.
+16. EC must come **before** construction. Ex-post facto clearance is illegal in the standard exam line.
+17. Timeline: Bhopal **1984** → EPA **1986** → EIA Notification **1994** → EIA Notification **2006** → NGT Act **2010** → draft EIA amendment debates **2020** (not a full replacement of 2006).
+18. UP examples: Ganga Expressway as Category A; Singrauli TPP expansions; Upper Ganga ESZ plan-level restrictions before project EC.
+19. EIA is project-level; SEA is plan/policy-level — do not merge the acronyms.
+20. Water Act **1974**/Air Act **1981** create consent regimes; they are **not** the EIA enabling Act (**EPA 1986** is).
+21. DEIAA appears in the minor-minerals / B2 district track — not as the Category A central authority.
+22. Public consultation includes hearing plus written comments; skipping it on B1 where required is a process defect.
+23. EMP is mitigation and monitoring inside the EIA package — not a substitute for the EC grant itself.
+24. PARIVESH tracks applications; it does not replace NGT’s appellate role.
 
-ENVIRONMENTAL CLEARANCE (EC):
-  Mandatory PRIOR clearance for listed projects
-  Category A → MoEFCC + EAC (central)
-  Category B → SEIAA + SEAC (state)
-    B1 → full EIA + usually public hearing
-    B2 → no full EIA report; DEIAA for minor minerals at district level
-  General Condition: Category B in sensitive area → treated as Category A
+---
 
-FOUR STAGES (max — not all apply to every project):
-  1. Screening — Category B only → B1 or B2
-  2. Scoping — Terms of Reference (ToR) fixed
-  3. Public Consultation — public hearing + written comments
-  4. Appraisal — EAC/SEAC review → EC grant/reject
-
-EIA REPORT: Baseline → Impact prediction → Mitigation → EMP
-  Rapid EIA = one season | Comprehensive EIA = all seasons
-
-KEY BODIES:
-  MoEFCC/SEIAA grant EC | CPCB/SPCB set standards — NOT EC authority
-  NGT (2010) hears EC appeals | PARIVESH = online EC portal
-
-SEA:
-  Level = Policies, Plans, Programmes (PPP) — upstream of EIA
-  India has project-level EIA law | NO standalone SEA legislation
-  SEA Protocol 2003 (Kiev) under UNECE Espoo | EU SEA Directive 2001/42/EC
-  Rio Principle 17 = EIA for significant projects
-
-TRAPS:
-  CPCB ≠ EC authority | Screening only for Category B
-  EC before construction — ex-post facto illegal
-  EIA = project | SEA = plan/policy
-  EPA 1986 enables EIA — not Water Act 1981
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -144,50 +131,6 @@ TRAPS:
 | SEA Protocol (Kiev) | 2003 | Plans/programmes |
 | EU SEA Directive | 2001/42/EC | EU mandatory SEA |
 | India EIA Notification | 2006 | Project EC only |
-
----
-
-## Consolidated Reference — Once Only
-
-### EIA process flow
-
-```
-Listed project → Category A or B (+ General Condition?)
-  A → Scoping → EIA → Public Consultation → EAC → MoEFCC EC
-  B → Screening → B1 (full path) or B2 (simplified)
-Post-EC compliance → NGT appeal if dispute
-```
-
-### Key bodies
-
-| Body | EC role? | Function |
-|------|----------|----------|
-| MoEFCC | Yes (Category A) | Grants central EC |
-| SEIAA | Yes (Category B) | Grants state EC |
-| EAC/SEAC | Recommends only | Expert appraisal |
-| CPCB/SPCB | No | Standards, monitoring |
-| NGT | Appeals | EC disputes |
-| PARIVESH | Portal | Online EC tracking |
-
-### Legal timeline
-
-| Year | Event |
-|------|-------|
-| 1984 | Bhopal Gas Tragedy |
-| 1986 | EPA enacted |
-| 1994 | First EIA Notification |
-| 2006 | Current EIA Notification (14 Sept) |
-| 2010 | NGT Act |
-| 2020 | Draft EIA amendment (controversial; not full replacement) |
-
-### UP examples
-
-| Project | EIA note |
-|---------|----------|
-| Ganga Expressway | Category A; MoEFCC EC |
-| Yamuna Expressway | Land-use and social impact precedent |
-| Singrauli TPP expansion | Air, forest, displacement in EIA |
-| Upper Ganga ESZ | Plan-level restrictions before project EC |
 
 ---
 

@@ -15,48 +15,38 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-ECONOMIC POLICY — THREE PHASES (Bipan Chandra frame)
-  Mercantilism (Plassey–1813)   Trade monopoly + Bengal revenue funds the "investment"
-  Free Trade (1813–1858)        One-way: Manchester cloth in free, Indian crafts unprotected
-  Finance Capital / Drain (1858 onward)  Railway guarantee, Home Charges, foreign capital, managed debt
+1. Colonial economic policy moved through three phases: **mercantilism (Plassey–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** with railway guarantees and Home Charges.
+2. The **Permanent Settlement (1793)** under **Cornwallis** made the **zamindar** proprietor in **Bengal, Bihar and Orissa**. Madras was **not** under this settlement.
+3. **Ryotwari** settled revenue with the **ryot** in **Madras and Bombay** (**Munro and Read**). **Mahalwari (1822)** under **Holt Mackenzie** settled with the **village / mahal** in the North-Western Provinces and Punjab.
+4. Different land systems in different regions created different peasant classes — a standard multi-statement lock.
+5. The **Cornwallis Code (1793)** built the civil ladder **Munsiff → Registrar → District (Diwani) Judge → Provincial Courts of Appeal → Sadar Diwani Adalat**. The same District Judge sat as Magistrate; criminal appeals rose to **Sadar Nizamat Adalat**.
+6. In **1793** the zamindar’s police role was abolished. The **thana–daroga** system was placed under the **District Magistrate**.
+7. **Haileybury College (1806)** trained Company nominees in England. The **Charter Act, 1853** opened competition; the **Macaulay Committee (1854)** followed. First Indian ICS was **Satyendranath Tagore (1863)**. Simultaneous exam in India began in **1922**.
+8. **Fort William College (1800)** was Wellesley’s Calcutta language college for civil servants. Do **not** confuse it with Haileybury.
+9. **Dadabhai Naoroji** published *Poverty and Un-British Rule in India* in **1901** (not 1900). **Drain of Wealth** is transfer of Indian wealth to Britain; **deindustrialization** is the decline of Indian handicrafts.
+10. **R.C. Dutt** wrote the *Economic History of India*. Keep him beside Naoroji as the other classic Drain critic, not as the 1901 book author.
+11. The railway **Guarantee System** promised about a **5%** return on British capital from Indian revenues (renegotiated **1869**). The **Managing Agency System** let British firms run jute, coal and tea companies on largely Indian-raised capital.
+12. First passenger railway: **Bombay–Thane, 1853** (Dalhousie). Telegraph experiment: **1851**, **O’Shaughnessy**. Company post starts **1774** (Hastings); uniform penny postage **1854** (Dalhousie).
+13. Indigo had **nij** cultivation on the planter’s own land and **ryoti** cultivation forced on the peasant’s land under a cash advance (**dadan**). Tea plantations expanded in **Assam from 1839**.
+14. Famine locks: **1770 Bengal** under Dual Government; **1876–78** under **Lytton’s** laissez-faire; **1943 Bengal** under **Linlithgow** in WWII.
+15. The **Famine Commission of 1880 (Strachey)** led to the **Famine Codes of 1883**. The **Woodhead Commission (1945)** inquired after 1943 and played down British fault.
+16. First **Municipal Corporation** was at **Madras, 1688**. **Mayo 1870** means financial decentralisation. **Ripon 1882** is the Father of local self-government; real provincial transfer waited for **1919 dyarchy**.
+17. Ripon’s **1882 Resolution** only asked for elected local boards. It is **not** the same as the **1919** transfer of local self-government to Indian ministers.
+18. The **Charter Act, 1833** only carried the spirit of open ICS competition. Actual opening came with the **Charter Act, 1853** — a classic swap trap.
+19. Under free-trade years after **1813**, Manchester cloth entered freely while Indian crafts stayed unprotected. “Free trade” freed British goods, not Indian industry.
+20. **Home Charges**, guaranteed railway interest and managing-agency profits were core channels of the later Drain phase after **1858**.
+21. Commercialization of agriculture pushed cash crops for export and left peasants more exposed to price swings and famine — the economic backdrop to indigo and Deccan unrest.
+22. Deindustrialization meant Indian weavers and artisans lost home markets to British machine goods, while India was pushed toward raw-material export.
+23. In the Cornwallis judiciary, the **Munsiff’s Court** handled small civil claims with an Indian officer. The **Sadar Diwani Adalat** at Calcutta was the final civil court.
+24. The District (Diwani) Judge doubled as district **Magistrate**. The **Sadar Nizamat Adalat** was the top criminal appeal court — do not swap civil and criminal tops.
+25. Plantation labour often ran on advances and indenture. Indigo’s **dadan** trap and Assam tea’s labour system are the two plantation locks exams recycle.
+26. Local administration ladder for matching: Mayo = money decentralisation (**1870**); Ripon = local boards ideology (**1882**); Montford = actual transfer under dyarchy (**1919**).
 
-Permanent Settlement 1793   Bengal, Bihar, Orissa — Cornwallis — zamindar is proprietor
-Ryotwari                    Madras and Bombay — Munro and Read — settlement with the ryot
-Mahalwari 1822              North-Western Provinces and Punjab — Holt Mackenzie — village / mahal
+---
 
-Different systems in different regions created different peasant classes (2020 Q30, answer A)
-
-Drain of Wealth: Dadabhai Naoroji, Poverty and Un-British Rule in India, 1901 (not 1900)
-R.C. Dutt, Economic History of India
-Bipan Chandra, The Rise and Growth of Economic Nationalism in India (2019 Q97)
-
-Cornwallis Code 1793: Munsiff → Registrar → District (Diwani) Judge → 4 Provincial Courts of Appeal → Sadar Diwani Adalat
-                       Same District Judge sat as Magistrate; Circuit Courts → Sadar Nizamat Adalat (criminal top)
-Police 1793: zamindar's police role abolished; thana + daroga under the District Magistrate
-
-ICS: Haileybury College (1806) trained nominees → Charter Act 1853 opens competition →
-     Macaulay Committee 1854 → first Indian ICS = Satyendranath Tagore, 1863 → simultaneous exam in India from 1922
-
-Railway guarantee: 5% return guaranteed on British capital from Indian revenues; renegotiated 1869
-Managing Agency: British firms (Bird, Andrew Yule, Jardine) ran jute/coal/tea companies on largely Indian-raised capital
-Plantations: Indigo (nij / ryoti, Bengal) — Tea (Assam, from 1839) — both run on advances / indentured labour
-
-Famines: 1770 Bengal (Dual Govt) — 1876–78 (Lytton, laissez-faire) — 1943 Bengal (WWII, Linlithgow)
-Famine Commission 1880 (Strachey) → Famine Codes 1883; largely ignored in 1943; Woodhead Commission 1945
-
-First passenger railway: Bombay–Thane, 1853 (Dalhousie)
-Telegraph experiment: 1851, O'Shaughnessy
-Company post starts 1774 (Hastings); uniform penny postage 1854 (Dalhousie)
-
-First Municipal Corporation: Madras, 1688
-Mayo 1870 = financial decentralisation
-Ripon 1882 = Father of local self-government; real transfer waits for 1919 dyarchy
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -80,7 +70,6 @@ Ripon 1882 = Father of local self-government; real transfer waits for 1919 dyarc
 
 ---
 
----
 
 ## 4.0 One clear picture — three phases of colonial economic policy
 

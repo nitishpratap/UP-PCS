@@ -15,45 +15,40 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-Part XVII, Arts. 343–351. NO “national language” in the Constitution.
-Union OL = Hindi in Devanagari + international form of Indian numerals (343).
-English: 15 years in the text (to 26 Jan 1965) → 343(3) + OL Act 1963/67 = continues indefinitely.
-
-344 Commission: 5y then 10y from 1950 (Kher 1955). Not a standing body.
-  Parliamentary committee on that report: 30 MPs (20 LS + 10 RS).
-  1976 Committee of Parliament on OL = statute, Home Minister chairs. ≠ 344.
-
-345 State may adopt one or more languages / Hindi.
-348 SC/HC/Acts = English until Parliament otherwise.
-351 Union duty to promote Hindi (composite culture; draw from 8th Schedule).
-
-350 any language for a grievance representation
-350A mother-tongue at PRIMARY (7th Amd)
-350B ONE Special Officer for India (7th Amd, NOT 9th; NOT per State)
-
-8th Schedule: 14 → 15 (Sindhi 21st/1967) → 18 (Konkani Manipuri Nepali 71st/1992)
-  → 22 (Bodo Dogri Maithili Santhali 92nd/2003). 96th 2011: Oriya → Odia.
-  NOT in: Bhojpuri, English, Rajasthani, Tulu, Khasi. Pali/Prakrit also NOT in 8th.
-
-Classical = executive tag, not 8th Schedule. First Tamil 2004. Now 11 (Oct 2024).
-
-UP: Hindi official; Urdu second official (1989). OL Rules 1976 → UP is Region A.
-Munshi–Ayyangar 1949 → Hindi Diwas 14 Sep. 58th Amd / 394A = Hindi text of the Constitution.
-Parliament *legislates* OL under 343(3)/120/348 by **simple** majority (2018). *Amending* 343 itself = 368 special, **no** States.
-
-Part X: 244(1)=5th · 244(2)=6th AMTM. UP has STs, NO 5th Schedule area.
-5th: TAC ≤20, ¾ ST MLAs, 10 States. PESA 1996 = 5th only.
-6th: ADC. NOT Nagaland/Sikkim/Arunachal/Manipur/Ladakh.
-371J = Kalyana-Karnataka (2020). 371I = Goa seats ≥30. 371A = Nagaland land/custom.
-370 inoperative 6 Aug 2019. 35A was a 1954 Order, not an Amd. J&K UT + Ladakh UT 31 Oct 2019.
-```
+1. Part **XVII** (Arts. **343–351**) deals with official language. The Constitution **never** names a **national language**.
+2. The Union official language is **Hindi in Devanagari**. The international form of Indian numerals is used for official purposes of the Union.
+3. The Constitution gave English **fifteen years** from 26 January 1950. The Official Languages Act **1963** (amended **1967**) keeps English in use **with** Hindi without a sunset.
+4. Article **344** creates an Official Language Commission at **five years** and again at **ten years** from 1950. It is **not** a standing body. A parliamentary committee of **30** MPs (**20** Lok Sabha + **10** Rajya Sabha) examines its report.
+5. The **1976** Committee of Parliament on Official Language is a **statutory** standing body chaired by the **Home Minister**. It is **not** the Article 344 Commission.
+6. A State may adopt one or more languages, or Hindi, as its official language under Article **345**. Under Article **347**, the **President** may direct that a language spoken by a section of the population be officially recognised in that State.
+7. Until Parliament otherwise provides, the authoritative texts of Acts and proceedings in the Supreme Court and High Courts are in **English** (Article **348**).
+8. Article **351** places a Union duty to promote Hindi as a medium of expression for India’s composite culture, drawing vocabulary from Eighth Schedule languages.
+9. Article **350** lets any person submit a grievance representation in any language used in the Union or the State. Article **350A** (Seventh Amendment) requires States to provide mother-tongue instruction at the **primary** stage.
+10. Article **350B** creates **one** Special Officer for Linguistic Minorities for the whole of India. It was inserted by the **Seventh** Amendment, **not** the Ninth. It is **not** a per-State office.
+11. The Eighth Schedule began with **14** languages. **Sindhi** made it **15** (21st Amendment, 1967). **Konkani, Manipuri, and Nepali** made it **18** (71st, 1992). **Bodo, Dogri, Maithili, and Santhali** made it **22** (92nd, 2003). The 96th Amendment (2011) renamed **Oriya** as **Odia**.
+12. **Bhojpuri, English, Rajasthani, Tulu, and Khasi** are **not** in the Eighth Schedule. Being in the Eighth Schedule does **not** make a language the Union official language.
+13. Classical language is an **executive** tag, not a constitutional list. **Tamil** was the first (2004). After the 3 October 2024 notifications there are **eleven** classical languages.
+14. In Uttar Pradesh, **Hindi** is the official language and **Urdu** is the second official language (from **1989**). Under the Official Language Rules **1976**, Uttar Pradesh falls in **Region A**.
+15. Hindi Diwas is observed on **14 September** (Munshi–Ayyangar formula, 1949). The **58th** Amendment / Article **394A** provides for an authoritative **Hindi** text of the Constitution.
+16. Parliament may provide for continued English under Articles **343(3), 120, and 348** by **ordinary** law (simple majority). Changing the **text** of Article 343 itself needs Article **368** special majority and is **not** on the federal-consent list.
+17. Part **X** maps Scheduled and Tribal Areas: Article **244(1)** → Fifth Schedule; Article **244(2)** → Sixth Schedule (Assam, Meghalaya, Tripura, Mizoram).
+18. Uttar Pradesh has Scheduled Tribes but **no** Fifth Schedule area, so **PESA does not apply** in UP.
+19. The Fifth Schedule covers **ten** States. A Tribes Advisory Council has up to **20** members with **three-fourths** Scheduled Tribe MLAs. **PESA 1996** applies only to Fifth Schedule areas.
+20. The Sixth Schedule creates Autonomous District Councils. It does **not** cover **Nagaland, Sikkim, Arunachal Pradesh, Manipur, or Ladakh**. Tripura **is** a Sixth Schedule State; Nagaland is **not**.
+21. Article **371A** protects Nagaland’s land and customary law. Article **371I** requires Goa’s Assembly to have at least **thirty** seats. Article **371J** covers the **Kalyana-Karnataka** (Hyderabad-Karnataka) region with a development board and local preference.
+22. Article **370** was made inoperative from **6 August 2019**. Article **35A** was a **1954** Presidential Order on permanent residents; it was **not** a constitutional amendment.
+23. From **31 October 2019**, Jammu & Kashmir and Ladakh became separate Union Territories. Jammu & Kashmir later held Assembly elections in **2024**.
+24. The Inner Line Permit system is a **neighbour** control regime for selected north-eastern areas; it is **not** itself a Fifth or Sixth Schedule clause.
+25. Fifth Schedule = Tribes Advisory Council + PESA path. Sixth Schedule = Autonomous District Councils for AMTM States. Do not swap the tools.
+26. Linguistic minorities are protected through Articles **350–350B**. The National Commission for Minorities (1992) is a **statutory** body for **religious** minorities — not a substitute for the 350B officer.
+27. Classical languages may overlap with Eighth Schedule names, but the tags are **not** one-to-one: classical status does not add a language to the Eighth Schedule, and Eighth Schedule listing does not create classical status.
+28. Special provisions for States sit mainly in Part **XXI** (Arts. **371–371J**). Memorise the letter locks (**371A** Nagaland, **371I** Goa seats, **371J** Kalyana-Karnataka) rather than treating “371” as one generic article.
 
 ---
 
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term A | Term B | Core difference |
 |--------|--------|-----------------|

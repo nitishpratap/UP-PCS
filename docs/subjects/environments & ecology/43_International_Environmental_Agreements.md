@@ -14,25 +14,36 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-CLIMATE: UNFCCC 1992 → Kyoto 1997 (Annex-I binding) → Paris 2015 (universal NDCs)
-BIODIVERSITY: CBD 1992 | Ramsar 1971 wetlands | CITES 1973 trade | CMS/Bonn 1979 migration
-CHEMICALS/WASTE: Basel 1989 waste | Rotterdam 1998 PIC chemicals | Stockholm 2001 POPs | Minamata 2013 mercury
+1. The climate ladder is **UNFCCC 1992 → Kyoto 1997 → Paris 2015**.
+2. **Kyoto** set binding targets mainly for **Annex-I** parties. **Paris** uses universal **NDCs** for all parties.
+3. **Montreal** protects the ozone layer. **Kyoto / Paris / UNFCCC** are climate instruments. Never swap Montreal for climate mitigation.
+4. **CBD (1992)** is the biodiversity convention. **Cartagena** is the biosafety protocol under CBD.
+5. **Ramsar (1971)** covers wetlands. **CITES (1973)** covers wildlife **trade**. **CMS / Bonn (1979)** covers **migratory** species.
+6. **Basel (1989)** covers hazardous **waste**. **Rotterdam (1998)** covers hazardous **chemicals** through the PIC procedure.
+7. **Stockholm Convention (2001)** covers **POPs** such as DDT and PCBs. It is **not** the Stockholm Conference of **1972**.
+8. **Minamata (2013)** covers **mercury**.
+9. UNFCCC was opened at **Rio 1992**. Its secretariat sits in **Bonn**. Annual COP meetings drive negotiations.
+10. CITES is not the IUCN Red List. CMS is not CITES. Trade rules and migration treaties are different tools.
+11. Ramsar “wise use” allows sustainable human use of wetlands — it is not a total ban slogan.
+12. Paris Agreement year lock is **2015**. Kyoto year lock is **1997**. Montreal year lock is **1987**.
+13. A stem that says Kyoto is about “saving water” is false. Kyoto is climate.
+14. Stockholm **1972** created the UNEP moment. Stockholm **2001** is the POPs treaty. Keep the two Stockholms apart.
+15. Basel moves on waste shipment and disposal. Rotterdam’s PIC is prior informed consent for chemicals trade.
+16. CBD’s three objectives are conservation, sustainable use, and fair benefit-sharing from genetic resources.
+17. CMS protects migratory animals across borders. CITES controls international commercial trade in listed species.
+18. Minamata’s mercury focus includes artisanal gold mining and product phase-downs in teaching notes.
+19. UNFCCC is the parent framework; Kyoto and Paris are protocols/agreements under that climate family.
+20. Do not put Ramsar, CITES, or CBD into the climate-mitigation answer slot when Kyoto is present.
+21. UP Ramsar geography traps belong beside Ramsar treaty locks but do not change the 1971 identity.
+22. Rotterdam is chemicals PIC, not mercury (Minamata) and not POPs listing (Stockholm 2001).
+23. Paris NDCs are nationally determined. Kyoto Annex-I targets were top-down binding for listed developed parties.
+24. Bonn Convention means **CMS**, not the UNFCCC Bonn secretariat alone.
 
-TREATY ↔ ISSUE:
-  Kyoto/Paris/UNFCCC = CLIMATE | Montreal = OZONE (trap)
-  CBD = biodiversity | Ramsar = wetlands | CITES = wildlife TRADE
-  CMS = migratory species | Basel = hazardous WASTE
-  Rotterdam = hazardous CHEMICALS (PIC) | Stockholm POPs = DDT/PCBs etc.
-  Minamata = MERCURY
+---
 
-TRAPS: Kyoto ≠ “save water” | Stockholm POPs ≠ Stockholm 1972 conference
-  CITES ≠ IUCN Red List | CMS ≠ CITES | Cartagena = biosafety under CBD
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Pair | Lock |
 |------|------|

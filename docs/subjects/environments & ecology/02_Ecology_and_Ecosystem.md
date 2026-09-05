@@ -14,37 +14,40 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 28 Must-Score Locks
 
-```
-ECOLOGY = STUDY (Oikos + Logos) | Haeckel 1866 | Ramdeo Misra = father of Indian ecology | Odum = modern ecosystem ecology
-ECOSYSTEM = FUNCTIONAL UNIT (Tansley 1935) | biotic + abiotic + energy flow + nutrient cycling
+1. **Ecology** is the **study** of organism–environment interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology.
+2. An **ecosystem** is a **functional unit** of biotic and abiotic interaction with energy flow and nutrient cycling. **Tansley (1935)** coined the word.
+3. The seven ecological levels run **organism → population → community → ecosystem → landscape → biome → biosphere**.
+4. Ecosystems may be natural or anthropogenic, terrestrial or aquatic, and **lentic** (standing) or **lotic** (flowing).
+5. A pond’s vertical/horizontal zones include **littoral → limnetic → profundal**. Marine zones include littoral, neritic, pelagic, benthic, and abyssal.
+6. Structure runs **producers → primary/secondary/tertiary consumers → decomposers and detritivores**.
+7. Core ecosystem functions are **productivity, decomposition, nutrient cycling, and unidirectional energy flow**.
+8. A **niche** is a species’ **role**, not its place. A **habitat** is the place. Do not swap them.
+9. A **fundamental niche** is the full potential role without competitors. A **realized niche** is the narrower role after competition.
+10. **Gause’s competitive exclusion** says two species with identical niches cannot stably coexist when resources are limited.
+11. **Liebig** = limiting factor; **Shelford** = tolerance range; **Lindeman (1942)** ≈ **10%** energy transfer between trophic levels.
+12. **NPP = GPP − plant respiration**. Plants capture only about **1%** of incident sunlight on leaves.
+13. **Primary succession** starts on a lifeless substrate. **Secondary succession** starts where **soil already exists** after disturbance.
+14. Succession phases are often taught as **migration → ecesis → reaction → stabilisation**. The full community sequence is a **sere**.
+15. Pioneers such as lichen and moss lead through seral stages to a **climax community**. **Hydrosere** is wet; **xerosere** is dry.
+16. An **r-strategist** produces many offspring with fast growth and short life. A **K-strategist** produces few offspring with slow growth and long life.
+17. Population growth models contrast the **J-curve** (exponential) with the **S-curve** (logistic) that levels near carrying capacity.
+18. MEA (**2005**) ecosystem services are **provisioning, regulating, supporting, and cultural**.
+19. Ecosystem balance is a **dynamic equilibrium**. **Resilience** is the capacity to recover after disturbance.
+20. **Eutrophication** is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
+21. Energy flow is **one-way**. Nutrients **cycle**. Saying energy cycles is a classic wrong option.
+22. A **community** is all populations of different species in an area. A **population** is one interbreeding species in one area.
+23. Sufficient resources generally allow **more**, not fewer, coexisting species — do not reverse that logic under competitive exclusion.
+24. UP lotic examples include the **Ganga, Yamuna, and Gomti**. Terai forest and Vindhyan scrub are terrestrial examples.
+25. UP wetland examples include **Sur Sarovar (Agra)** and **Nawabganj (Unnao)**.
+26. Western UP sugarcane belts are classic **agro-ecosystem** examples.
+27. Dudhwa is a standard UP site for **tiger population** and Terai forest ecosystem questions.
+28. Odum is linked to modern ecosystem ecology; keep him separate from Haeckel (term ecology) and Tansley (term ecosystem).
 
-7 LEVELS: Organism → Population → Community → Ecosystem → Landscape → Biome → Biosphere
+---
 
-TYPES: Natural vs Anthropogenic | Terrestrial vs Aquatic | Lentic (standing) vs Lotic (flowing)
-  Pond zones: Littoral → Limnetic → Profundal | Marine: Littoral, Neritic, Pelagic, Benthic, Abyssal
-
-STRUCTURE: Producers → Consumers (1°/2°/3°) → Decomposers → Detritivores
-FUNCTIONS: Productivity | Decomposition | Nutrient cycling | Energy flow (unidirectional)
-
-NICHE = ROLE (not place) | Fundamental vs Realized | Gause = competitive exclusion
-  Sufficient resources → MORE species (not fewer)
-
-PRINCIPLES: Liebig = limiting factor | Shelford = tolerance range | Lindeman 1942 = ~10% transfer
-PRODUCTIVITY: GPP − R = NPP | Plants capture ~1% sunlight on leaves | Units: g/m²/yr
-
-SUCCESSION: Primary (bare substrate) vs Secondary (soil exists after disturbance)
-  Phases: Migration → Ecesis → Reaction → Stabilisation | Full sequence = SERE
-  Pioneer (lichen, moss) → seral stages → climax community | Hydrosere | Xerosere
-
-SERVICES (MEA 2005): Provisioning | Regulating | Supporting | Cultural
-
-LEVELS: Genetic (gene pool) | Species (J-curve/S-curve, r vs K) | Community (richness, interactions)
-BALANCE: Dynamic equilibrium | Resilience | Eutrophication = nutrient overload → DO crash
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -451,20 +454,6 @@ D. Only 1
 | **Commensalism** | One benefits and the other is unaffected | Cattle egret feeding near grazing cattle |
 
 > **Exam note:** Coral reefs = high **diversity**. Open ocean = high **stability**. These are different 2018 questions.
-
----
-
-## Consolidated Reference — Once Only
-
-### UP Focus — Ecosystem examples
-
-| Ecosystem type | UP example |
-|----------------|------------|
-| Terrestrial forest | Dudhwa Terai, Vindhyan scrub |
-| Lotic | Ganga, Yamuna, Gomti |
-| Wetland | Sur Sarovar (Agra), Nawabganj (Unnao) |
-| Agro-ecosystem | Western UP sugarcane belt |
-| Population study | Dudhwa tiger population |
 
 ---
 

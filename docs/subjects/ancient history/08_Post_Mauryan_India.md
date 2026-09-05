@@ -15,33 +15,40 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-185 BCE Pushyamitra kills Brihadratha | Shunga 185–73 | Kanva 73–28
-2023 Q23: Greeks — Sakas — Kushans = A
-2018 Q91: two ashwamedha of Pushyamitra = Ayodhya (not Besnagar, not Hathigumpha)
-2018 Q16: Hathigumpha = Kharavela (not Ashoka, Harsha, Kanishka)
+1. The Mauryan empire ended in **185 BCE** when general **Pushyamitra Shunga** killed the last Mauryan **Brihadratha**. The **Shungas** then ruled Magadha about **185–73 BCE**, and the short **Kanva** house followed about **73–28 BCE**.
+2. Pushyamitra’s **two ashwamedhas** are recorded in the **Ayodhya** inscription of Dhanadeva. That record is **not** Besnagar and **not** Hathigumpha.
+3. Northwest invader order for the match paper is **Greeks → Sakas → Kushans**. Parthians often drop out of short lists, but they sit between Shakas and Kushans in the northwest belt.
+4. **Hathigumpha** at Udayagiri (Odisha) belongs to **Kharavela** of Kalinga, a Jain Mahameghavahana / Chedi king. Ashoka, Harsha, and Kanishka are the usual wrong options.
+5. The **Besnagar** Garuda pillar is the **Heliodorus** Bhagavata dedication for **Vasudeva**. It is **not** Pushyamitra’s ashwamedha record.
+6. The **Satavahanas** were the Deccan / Andhra house. Tradition names **Simuka** as founder, and the capitals are **Pratishthana (Paithan)** and **Amaravati**.
+7. **Gautamiputra Satakarni** defeated Shaka **Nahapana** of the **Kshaharata** house. The victory is recorded in the **Nasik prasasti** of **Gautami Balashri**.
+8. Satavahanas nurtured **Prakrit** and pushed **public Buddhist art** (Amaravati, Karle, Nasik). **Hala** wrote the Prakrit *Gatha Saptasati*. **Yajna Sri Satakarni** put a **ship** on coins as a sea-trade stamp.
+9. After Satavahana decline, the **Ikshvakus** ruled coastal Andhra from **Nagarjunakonda**. They are a post-Satavahana Andhra house, not the mythic Ayodhya Ikshvaku line.
+10. Peninsula **megaliths** are Iron Age burials with **dolmens**, **cists**, and **hero stones**, often with **black-and-red ware** and iron. Classic sites include **Brahmagiri**, **Adichanallur**, and **Maski**.
+11. The greatest Indo-Greek name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**, and the *Milinda Panha* records his debate with **Nagasena**. Indo-Greeks also issued the first **portrait** die-struck coins in India.
+12. The first Shaka king named in India is **Maues / Moga** at Taxila–Gandhara. **Nahapana** is the greatest **Kshaharata**; **Rudradaman I** is the greatest **Kardamaka**.
+13. Rudradaman’s **Junagadh / Girnar** inscription is the first long literary **Sanskrit** prose record in India. It tells how the **Sudarshana lake** was built under **Chandragupta Maurya**, adorned under **Ashoka**, and **repaired** by Rudradaman.
+14. The brief Parthian / Pahlava bridge king is **Gondophares**. The northwest Buddhist site lock for this age is **Takht-i-Bahi**.
+15. Kushans rise from the **Yuezhi**. **Kujula Kadphises** founds the house; **Vima Kadphises** floods India with imperial **gold**; **Kanishka** is the greatest ruler.
+16. Kushan main capital is **Purushapura (Peshawar)**. **Mathura** in Uttar Pradesh is the second great Indian centre. Art pairs **Gandhara** Greco-Buddhist schist with **Mathura** red sandstone.
+17. Exam keys peg Kanishka’s accession to **78 CE**, the start of the **Shaka era**. Do **not** confuse it with **Vikrama Samvat 57 BCE**.
+18. Kanishka convened the **Fourth Buddhist Council** in Kashmir at **Kundalvana**. **Vasumitra** is remembered as president, and **Ashvaghosha** belongs to this age. Kanishka’s title is **Devaputra**.
+19. Sangam Tamilakam’s **Muvendar** are **Chera** (bow), **Chola** (tiger), and **Pandya** (fish). Capitals are **Vanji / Karur**, **Uraiyur**, and **Madurai**.
+20. **Karikala** is the Sangam Chola who built the **Kallanai** on the Kaveri. He is **not** imperial **Rajaraja I** of Thanjavur.
+21. Sangam seat tradition is **Madurai** under the Pandyas. **Tolkappiyam** is the earliest Tamil grammar. **Akam** is love poetry; **Puram** is war and kingship poetry.
+22. Sangam ports lock as **Muziris** (Chera / Roman pepper), **Puhar** (Chola), and **Korkai** (Pandya pearl coast). **Arikamedu** yields Roman amphorae.
+23. Later south dynasty match locks: **Mahendravarman I** is **Pallava**; **Kadungon** is **Pandya**; **Amoghavarsha I** is **Rashtrakuta**; **Rajaraja I** is **Chola**.
+24. **Gandhara** art is Kushan northwest Greco-Buddhist. **Amaravati** art is Satavahana Andhra limestone narrative relief. Do not swap the schools.
+25. Ashoka’s Rock Edict II names Chola, Pandya, Keralaputra, and Satiyaputra as **independent neighbours**, not Mauryan provinces.
+26. In Uttar Pradesh, **Ayodhya** is the Pushyamitra ashwamedha lock, and **Mathura** is the Kushan second capital and Mathura-art home.
+27. **Patanjali** of the *Mahabhashya* and Kalidasa’s *Malavikagnimitra* (Agnimitra) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows.
+28. Satavahana personal names are often **metronymic** (Gautamiputra, Vashishthiputra). After their decline, Deccan power thins toward the third century CE.
 
-Satavahana: Simuka | Pratishthana + Amaravati | Gautamiputra vs Nahapana
-2021 Q52: Prakrit + public arts = both true
-Hala = Gatha Saptasati | Yajna Sri = ship coins | metronymic names
+---
 
-Megalithic: Brahmagiri, Adichanallur, Maski | dolmen/cist/hero stone | BRW + iron | bed under Sangam
-Shaka: Maues first | Kshaharata Nahapana | Kardamaka Rudradaman
-Junagadh: Sudarshana lake — Pushyagupta (Chandragupta) → Tushaspha (Ashoka) → Rudradaman repair
-Parthian: Gondophares | Takht-i-Bahi
-
-Kushan: Kujula → Vima (gold) → Kanishka
-Purushapura + Mathura | Shaka era 78 CE | 4th council Kundalvana (Kashmir), Vasumitra / Ashvaghosha
-Vikrama 57 BCE ≠ Shaka 78 CE
-
-Sangam: Muvendar Chera-bow / Chola-tiger / Pandya-fish
-Karikala ≠ Rajaraja I | Madurai Sangam | Tolkappiyam | Akam vs Puram
-2025 Q121: Mahendravarman=Pallava, Kadungon=Pandya, Amoghavarsha=Rashtrakuta, Rajaraja=Chola  → B 2-4-1-3
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|

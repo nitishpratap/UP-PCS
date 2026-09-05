@@ -15,48 +15,40 @@ Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Vijayanagara Empire 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-SHARQI (JAUNPUR) — UP ★★★
-Malik Sarwar founder (Malik-us-Sharq) | Capital Jaunpur | "Shiraz of the East"
-Atala Masjid + Lal Darwaza Masjid = Sharqi style | Malik Muhammad Jaisi (Padmavat)
-Annexed by Bahlul Lodi 1484
+1. **Malik Sarwar** founded the **Sharqi** state at **Jaunpur** with the title **Malik-us-Sharq**; the city was called “**Shiraz of the East**.”
+2. **Atala Masjid** and **Lal Darwaza Masjid** are classic **Sharqi** monuments at Jaunpur in eastern **UP**.
+3. **Bahlul Lodi** annexed independent Jaunpur in **1484**.
+4. **Malik Muhammad Jaisi** composed **Padmavat** in the Jaunpur cultural circle.
+5. **Zain-ul-Abidin** (**1420–1470**), called **Bud Shah**, abolished **jaziya** and cow slaughter and restored temples in Kashmir.
+6. **Sriya Bhatt** was Zain-ul-Abidin’s Hindu minister; **Zaina Lanka** was his island palace on **Wular Lake**.
+7. **Vijayanagara** was founded in **1336** by **Harihara I** and **Bukka I** (Sangama) with capital at **Hampi** on the Tungabhadra.
+8. Vijayanagara dynasties ran **Sangama → Saluva → Tuluva → Aravidu**.
+9. **Krishnadevaraya** (**1509–1529**, Tuluva) wrote **Amuktamalyada** and patronised the **Ashtadiggajas**.
+10. Vijayanagara used the **Nayankara / amara** system and celebrated the **Mahanavami** festival.
+11. **Bahmani** was founded in **1347** by **Hasan Gangu** as **Alauddin Bahman Shah**; the capital moved **Gulbarga → Bidar**.
+12. **Mahmud Gawan** wrote **Riyaz-ul-Insha**, organised **eight tarafs**, and was executed in **1481**.
+13. After **1518** Bahmani split into five Deccan Sultanates: **Bijapur, Golkonda, Ahmadnagar, Bidar, and Berar**.
+14. **Bijapur (Adil Shahi)** holds **Gol Gumbaz**; **Ibrahim Adil Shah II** wrote **Kitab-i-Nauras**.
+15. **Golkonda (Qutb Shahi)** later centred on **Hyderabad**; **Abul Hasan Qutb Shah** fell to Aurangzeb in **1687**.
+16. At **Talikota** (**23 Jan 1565**, also Rakkasa-Tangadi) **Rama Raya** was killed; the Deccan alliance sacked **Hampi** and crippled Vijayanagara as a great power.
+17. **Raichur (1520)** was a **Krishnadevaraya** victory — do not confuse it with Talikota **1565**.
+18. **Riyaz-ul-Insha** is Gawan’s letters; **Riyaz-us-Salatin** is Bengal history — never swap the two.
+19. **Tin Darwaza** stands at **Bidar Fort**, not Ahmedabad; Ahmedabad’s gate is **Teen Darwaza**. **Lal Darwaza–Jaunpur** is correctly matched.
+20. Among these regional states, only **Sharqi Jaunpur** has its capital in modern **Uttar Pradesh**.
+21. **Ahmadnagar** = Nizam Shahi; **Bidar** = Barid Shahi; **Berar** = Imad Shahi.
+22. Chronology spine: Vijayanagara **1336** → Bahmani **1347** → Sharqi **1394** → Zain-ul-Abidin **1420–1470** → Gawan executed **1481** → Jaunpur annexed **1484** → Bahmani split **1518** → Talikota **1565**.
+23. **Vitthala Temple** at Hampi is Vijayanagara; **Charminar** is Qutb Shahi Hyderabad.
+24. **Nayankara** is Vijayanagara nayaka grant practice; do not equate it with Delhi Sultanate **iqta**.
+25. **Kitab-i-Nauras** is Bijapur (Ibrahim Adil Shah II); **Amuktamalyada** is Krishnadevaraya’s Telugu epic.
+26. Sikandar Shah of Kashmir is the temple-destruction contrast to tolerant **Zain-ul-Abidin**.
+27. **Manucharitramu** by **Allasani Peddana** belongs to Krishnadevaraya’s Ashtadiggajas circle.
+28. **Burhan-e-Masir** is an Ahmadnagar chronicle; **Mirat-e-Sikandari** is a Gujarat narrative.
 
-KASHMIR — ZAIN-UL-ABIDIN (1420–1470)
-Bud Shah | Abolished jaziya + cow slaughter | Restored temples
-Sriya Bhatt (Hindu minister) | Zaina Lanka (Wular Lake island)
+---
 
-VIJAYANAGARA (1336–1565 peak)
-Founders Harihara I + Bukka I (Sangama) | Capital Hampi (Tungabhadra)
-Dynasties: Sangama → Saluva → Tuluva → Aravidu
-Krishnadevaraya (1509–1529, Tuluva) | Amuktamalyada | Ashtadiggajas
-Admin: Nayankara/amara system | Mahanavami festival
-
-BAHMANI (1347–1518)
-Hasan Gangu = Alauddin Bahman Shah | Gulbarga → Bidar (Ahmad Shah I Wali)
-Mahmud Gawan (PM) — Riyaz-ul-Insha | Executed 1481 | Eight tarafs
-Split → five Deccan Sultanates 1518
-
-DECCAN SULTANATES (post-1518)
-Bijapur (Adil Shahi) — Gol Gumbaz; Ibrahim Adil Shah II — Kitab-i-Nauras
-Golkonda (Qutb Shahi) — Hyderabad; Abul Hasan Qutb Shah (1687)
-Ahmadnagar (Nizam Shahi) | Bidar (Barid Shahi) | Berar (Imad Shahi)
-
-TALIKOTA (23 Jan 1565)
-Rakkasa-Tangadi | Rama Raya vs Bijapur+Ahmadnagar+Golkonda+Bidar
-Rama Raya killed | Hampi looted | Vijayanagara crippled
-
-PYQ LOCKS
-2018 Q19: Tin Darwaza ≠ Ahmedabad (Bidar) | Lal Darwaza–Jaunpur ✓
-2019 Q91: Atala (IV) → Sher Shah → Humayun → Rabia Daurani
-2023 Q33: Riyaz-ul-Insha = Gawan letters; Riyaz-us-Salatin = Bengal
-2023 Q36: Zain-ul-Abidin abolished jaziya + cow slaughter
-2020 Q34: Abul Hasan Qutb Shah at Golkonda 1687
-2020 Q44: Kitab-i-Nauras = Ibrahim Adil Shah II
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -667,75 +659,6 @@ D. A false, R true
 **Trap:** The empire survived in name under **Aravidu** until **1646** — A says "great power" ended, not every trace of the state.
 
 </details>
-
----
-
-## Consolidated Reference
-
-### Regional overview
-
-| State / Empire | Founder / Key ruler | Capital(s) | Period |
-|----------------|---------------------|------------|--------|
-| **Sharqi Sultanate** | Malik Sarwar | **Jaunpur** | 1394–1484 |
-| **Kashmir Sultanate** | Zain-ul-Abidin (peak) | **Srinagar** | 1420–1470 |
-| **Vijayanagara** | Harihara I & Bukka I; Krishnadevaraya (peak) | **Hampi** | 1336–1565 peak |
-| **Bahmani** | Hasan Gangu | **Gulbarga**, then **Bidar** | 1347–1518 |
-| **Bijapur (Adil Shahi)** | Yusuf Adil Shah | **Bijapur** | 1490–1686 |
-| **Golkonda (Qutb Shahi)** | Quli Qutb Shah | **Golkonda**, later **Hyderabad** | 1518–1687 |
-| **Ahmadnagar (Nizam Shahi)** | Malik Ahmad | **Ahmadnagar** | 1490–1636 |
-| **Bidar (Barid Shahi)** | Amir Barid | **Bidar** | 1492–1619 |
-| **Berar (Imad Shahi)** | Fathullah Imad-ul-Mulk | **Ellichpur** | 1490–1574 |
-
-### Literary works — exam locks
-
-| Work | What it is | Polity / exam lock |
-|------|------------|-------------------|
-| **Padmavat** | Epic by **Malik Muhammad Jaisi** | Sharqi Jaunpur milieu |
-| **Amuktamalyada** | Telugu epic by **Krishnadevaraya** | Vijayanagara |
-| **Manucharitramu** | Court epic by **Allasani Peddana** | Krishnadevaraya's Ashtadiggajas |
-| **Kitab-i-Nauras** | Musical-devotional songs | **Ibrahim Adil Shah II**, Bijapur |
-| **Riyaz-ul-Insha** | **Mahmud Gawan's letters and state papers** | Bahmani administration |
-| **Riyaz-us-Salatin** | History of **Bengal** | Not Gawan; 2023 Q33 trap |
-| **Burhan-e-Masir** | Chronicle of **Ahmadnagar** | Nizam Shahi successor |
-| **Mirat-e-Sikandari** | **Gujarat** victory narrative | Regional history |
-
-### Chronology spine
-
-| Year | Event |
-|------|-------|
-| **1336** | Vijayanagara founded |
-| **1347** | Bahmani founded by Hasan Gangu |
-| **1394** | Sharqi independence under Malik Sarwar |
-| **1420–1470** | Zain-ul-Abidin ruled Kashmir |
-| **~1429** | Bahmani capital shifted to Bidar |
-| **1481** | Mahmud Gawan executed |
-| **1484** | Jaunpur annexed by Bahlul Lodi |
-| **1518** | Bahmani split into five Deccan Sultanates |
-| **1520** | Krishnadevaraya won the Battle of Raichur |
-| **1529** | Death of Krishnadevaraya |
-| **1565** | Battle of Talikota |
-| **1687** | Aurangzeb captured Golkonda |
-
-### Architecture & books
-
-| Item | Link |
-|------|------|
-| Atala Masjid, Lal Darwaza | Jaunpur (UP), Sharqi style |
-| Tin Darwaza | Bidar Fort |
-| Gol Gumbaz | Bijapur, tomb of Muhammad Adil Shah |
-| Charminar | Hyderabad, Qutb Shahi |
-| Vitthala Temple | Hampi, Vijayanagara |
-| Padmavat | Malik Muhammad Jaisi, Jaunpur |
-| Amuktamalyada | Krishnadevaraya |
-| Kitab-i-Nauras | Ibrahim Adil Shah II |
-
-### UP Focus
-
-| Element | Why asked |
-|---------|-----------|
-| **Jaunpur** | Only Topic-3 capital in UP; home of Atala and Lal Darwaza |
-| **Malik Muhammad Jaisi** | Author of Padmavat in the Jaunpur circle |
-| **Bahlul Lodi 1484** | End of the independent Sharqi state |
 
 ---
 

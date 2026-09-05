@@ -15,45 +15,38 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-IN INDIA (sea powers)
-Portuguese 1498 Calicut (Gama) → Dutch ~1605 → English factory Surat 1612
-→ Danish Tranquebar 1620 → French Pondicherry 1674
-CHARTERS: EIC 1600 | VOC 1602 | Danish 1616 | French 1664
-EIC charter is BEFORE VOC; Portuguese were already in India
+1. Sea-power arrival order: **Portuguese 1498 → Dutch ~1605 → English Surat factory 1612 → Danish Tranquebar 1620 → French Pondicherry 1674**.
+2. Charter lock: **EIC 1600**, **VOC 1602**, **Danish 1616**, **French 1664** — the English charter comes **before** the Dutch.
+3. **Vasco da Gama** reached **Calicut in 1498**; **Afonso de Albuquerque** captured **Goa in 1510** and made it Portuguese India's capital.
+4. Portuguese **cartaze** was an ocean pass-fee; **Shah Jahan** expelled the Portuguese from **Hooghly in 1632**.
+5. The Dutch **VOC** used **Pulicat** as its South Indian headquarters and **Chinsurah** as its Bengal factory.
+6. **William Hawkins** reached India in **1608** on the *Hector*, spoke **Turkish**, and met Jahangir; the trap year **1611** is false for arrival.
+7. **Sir Thomas Roe** was ambassador at Jahangir's court from **1615 to 1619**.
+8. English factory spine: **Surat 1612**, **Madras/Fort St George 1640**, Bombay leased **1668**, and **Calcutta/Fort William ~1698**.
+9. French headquarters was **Pondicherry (1674)**; the French Bengal factory was **Chandernagore**.
+10. The **Treaty of Aix-la-Chapelle (1748)** ended the **First Carnatic War** and returned **Madras** to the English.
+11. Danish locks are **Tranquebar (1620)** and **Serampore** in Bengal; Denmark sold its Indian settlements in **1845**.
+12. Traveller chronology: **Ralph Fitch 1585 → Hawkins 1608 → Nicholas Downton 1614 → Roe 1615**.
+13. **Bernier** was a **French** traveller at Aurangzeb's court, not an English EIC envoy.
+14. **Saadat Khan Burhan-ul-Mulk** founded the **Awadh** Nawabi in **1722**; he is not Bengal's Murshid Quli Khan.
+15. **Shuja-ud-Daula** stood with Abdali at **Panipat III (1761)**; after Buxar came the **Treaty of Allahabad (1765)**.
+16. **Asaf-ud-Daula** made **Lucknow** the capital and built the **Bara Imambara**.
+17. The British annexed **Awadh in 1856**; **Wajid Ali Shah** was the last Nawab.
+18. Later chronology bridge: **Awadh annexation 1856 → Indigo Revolt 1859 → Second Afghan War 1878 → Ilbert Bill 1883**.
+19. An early European **factory** was a trading post with godowns and guards, not yet a full colony; trade needed Mughal **farmans**.
+20. Under **Dupleix**, the French took **Madras in 1746** during the First Carnatic War before Aix-la-Chapelle restored it.
+21. Do not confuse **Aix-la-Chapelle 1748** with the later **Treaty of Paris 1763** ending the Seven Years' War.
+22. **Ralph Fitch** saw **Agra** and **Banaras** in Akbar's time, before any lasting EIC factory.
+23. **Begum Hazrat Mahal** led Lucknow resistance after 1856 annexation fed the **1857** rising.
+24. **Safdar Jung** also served as Mughal **Wazir**; **Serampore** is Danish, not French.
+25. Cause–course–result for Portuguese arrival: they sought a sea spice route, Gama reached Calicut, and Albuquerque's Goa made them a coastal maritime power.
+26. Cause–course–result for Awadh's end: Nawabi autonomy from 1722 weakened after Buxar, Dalhousie annexed the state in 1856, and Lucknow became a major **1857** centre.
 
-PORTUGUESE
-Goa 1510 Albuquerque (NOT Gama) | Cartaze ocean pass | Hooghly expelled 1632 (Shah Jahan)
+---
 
-DUTCH (VOC 1602)
-Pulicat HQ | Chinsurah (Bengal) | spice | later squeezed by English
-
-ENGLISH (EIC 1600, Elizabeth I)
-Hawkins 1608 (Hector; Jahangir; Turkish) | Surat factory 1612 | Roe 1615–19
-Madras / Fort St George 1640 | Bombay leased 1668 | Calcutta / Fort William ~1698
-2023 Q31: came 1611 = FALSE → B (only 2)
-
-FRENCH 1664
-Pondicherry 1674 | Chandernagore Bengal | Dupleix
-Aix-la-Chapelle 1748: 1st Carnatic War ends + Madras back to English
-2025 Q67 = C | 2020 Q18 = C (same pair)
-
-DANISH 1616
-Tranquebar 1620 | Serampore Bengal | sold to British 1845
-
-TRAVELLERS 2021 Q75 = A (II-I-IV-III)
-Fitch 1585 → Hawkins 1608 → Downton 1614 → Roe 1615
-Bernier = French (Aurangzeb), NOT English
-
-AWADH (UP)
-Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar)
-→ Asaf-ud-Daula (Lucknow, Bara Imambara) → Wajid Ali Shah → annex 1856
-2025 Q127 = A (1-3-4-2): Awadh 1856 → Indigo 1859 → 2nd Afghan 1878 → Ilbert 1883
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -255,29 +248,6 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 - The chronology is Awadh annexation **1856**, then Indigo Revolt **1859**, then Second Anglo-Afghan War **1878–80**, then Ilbert Bill **1883**.
 - Annexation fed the **1857** Lucknow rising.
 - **Begum Hazrat Mahal** led resistance after the Nawab was removed.
-
----
-
-## Consolidated Reference
-
-### Date spine
-
-| Year | Lock |
-|------|------|
-| **1498** | Gama, Calicut |
-| **1510** | Goa |
-| **1600** | EIC charter |
-| **1608** | Hawkins |
-| **1612** | Surat factory |
-| **1615** | Roe |
-| **1674** | Pondicherry |
-| **1722** | Awadh Nawabi |
-| **1748** | Aix-la-Chapelle |
-| **1856** | Awadh annexed |
-
-### UP hook
-
-Awadh is the **UP** Nawabi state. Fitch’s Banaras visit and Shuja’s Banaras-era politics sit on the same map. Company rule reaches Awadh through Allahabad 1765, then annexation 1856.
 
 ---
 

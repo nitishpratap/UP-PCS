@@ -16,27 +16,28 @@ Location factors | Industrial regions | City–industry pairs | Ports / entrepô
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 20 Must-Score Locks
 
-```
-LOCATION: weight-losing (steel) near raw material | Al near cheap hydel | textiles near labour/market
- footloose = electronics (flexible) | break-of-bulk = port
-REGIONS: Ruhr DE | Lancashire cotton | Yorkshire wool | Pittsburgh–Great Lakes steel
- Detroit auto | Keihin Tokyo–Yokohama | Hanshin Osaka–Kobe | Chukyo Nagoya auto | Pearl River Delta CN
-CITIES: Osaka cotton | Detroit auto | Cuba cigar | St Petersburg ship
- NICKNAMES: Osaka = Manchester of Japan | Nagoya = Detroit of Japan | Kawasaki = Pittsburgh of Japan | Ivanovo = Russian Manchester
-PORTS 2023: Rotterdam NL | Jakarta ID | Montevideo UY | Igarka = RUSSIA not China
- Rotterdam = Rhine mouth | Duisburg = inland Rhine | Shanghai = container volume
-SUEZ: Med ↔ Red Sea | India–Europe shorter by ~7000 km
- Lakes N→S: Manzala → Timsah → Great Bitter → Little Bitter (2019)
- Panama: Caribbean/Atlantic ↔ Pacific + LOCKS + Gatun | Kiel: North Sea ↔ Baltic
- Suez = sea-level, no locks | Port Said north, Suez town south
-WINDS: Chinook = warm dry Rockies | Foehn = Alps (2024 both)
- Mistral = S France NOT Australia (2019) | Shamal = Arabia NOT Austria (2021)
- Brickfielder = Australia | Santa Ana = California | Haboob = Sudan | Yamo = Japan
- Leveche = Spain | Bora = Adriatic cold | Harmattan = W Africa | Sirocco = Sahara→Med
- Khamsin = Egypt | Willy-willy = cyclone NOT a local wind | Akron = tyres | Toulouse = Airbus
-```
+1. City–industry locks: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
+2. **Igarka** is in **Russia** (Yenisei timber), not China. **Rotterdam** is in the **Netherlands**. **Montevideo** is Uruguay. **Jakarta** is Indonesia.
+3. The **Suez Canal** joins the **Mediterranean** and **Red Sea** and cut India–Europe distance by about **7000 km**. Lakes north to south: **Manzala → Timsah → Great Bitter → Little Bitter**.
+4. **Panama** joins Atlantic/Caribbean and Pacific **with locks**. **Kiel** joins the North Sea and Baltic. Suez is sea-level with **no locks**.
+5. **Chinook** is a warm dry wind of the Rockies. **Foehn** is the Alps equivalent. Both can be true together.
+6. **Mistral** is southern France, **not** Australia. **Shamal** is Arabia, **not** Austria. **Brickfielder** = Australia.
+7. **Ruhr** = Germany heavy industry. **Lancashire** = cotton. **Yorkshire** = wool. **Pittsburgh–Great Lakes** = steel. **Detroit** = autos.
+8. Japan belts: **Keihin** = Tokyo–Yokohama; **Hanshin** = Osaka–Kobe; **Chukyo** = Nagoya autos. Nicknames: Osaka = Manchester of Japan; Nagoya = Detroit of Japan; Kawasaki = Pittsburgh of Japan; Ivanovo = Russian Manchester.
+9. **Footloose** industry example = electronics. **Aluminium** seeks cheap hydel. **Steel** seeks ore and coking coal (weight-losing near raw material).
+10. **Entrepôt** classics = Singapore, Rotterdam, Hong Kong. **Duisburg** is an inland Rhine port, not a Dutch sea mouth.
+11. More wind locks: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
+12. A **willy-willy** is a cyclone name, not a local wind. **Akron** = tyres. **Toulouse** = Airbus.
+13. **Silicon Valley** (California) = electronics / IT — not Detroit.
+14. Shipbuilding volume leaders are **China–South Korea–Japan**. St Petersburg remains the classic European exam city.
+15. Weight-losing industries sit near raw material; bottling and market-oriented industries sit near consumers. Oil refining often seeks the port or pipeline end.
+16. Italy’s industrial triangle is the **Po Basin / Milan–Turin–Genoa** belt.
+17. Port Said is at the **north** end of Suez; Suez town is at the **south**. Panama uses locks and **Gatun Lake**.
+18. Break-of-bulk points concentrate at ports. Textiles often seek labour and market; steel is the classic weight-losing case.
+19. Pearl River Delta is China’s classic coastal manufacturing belt in this chapter’s map diet.
+20. Shanghai leads container volume among common port MCQs; Rotterdam sits at the Rhine mouth.
 
 ---
 
@@ -694,31 +695,6 @@ D. Mistral Australia
 **Ans: D** — Mistral = southern **France**, not Australia.
 
 </details>
-
----
-
-## Consolidated — 20 Must-Score Locks
-
-1. Osaka = cotton; Detroit = auto; Cuba = cigar; St. Petersburg = ships (2022 **D**).
-2. Igarka = **Russia**, not China. Rotterdam = Netherlands.
-3. Suez = **Med + Red Sea**. Cut ≈ **7,000 km**. Lakes N→S = Manzala–Timsah–Great Bitter–Little Bitter.
-4. Panama = Atlantic/Caribbean ↔ Pacific. Kiel = North Sea ↔ Baltic.
-5. Chinook = warm dry Rockies. Foehn = Alps. Both true (2024).
-6. Mistral ≠ Australia. Shamal ≠ Austria. Brickfielder = Australia.
-7. Ruhr = Germany heavy industry. Lancashire = cotton. Yorkshire = wool.
-8. Keihin = Tokyo–Yokohama. Hanshin = Osaka–Kobe. Chukyo = Nagoya autos.
-9. Footloose = electronics. Aluminium → cheap hydel. Steel → ore + coking coal.
-10. Entrepôt = Singapore / Rotterdam. Duisburg = inland Rhine.
-11. Suez = no locks. Panama = locks + Gatun Lake.
-12. Willy-willy = cyclone, not a local wind. Khamsin = Egypt. Akron = tyres. Toulouse = Airbus.
-13. Osaka = Manchester of Japan; Nagoya = Detroit of Japan; Kawasaki = Pittsburgh of Japan; Ivanovo = Russian Manchester.
-14. Silicon Valley = California electronics / IT — not Detroit.
-15. Shipbuilding volume = China–South Korea–Japan; St. Petersburg remains the classic European exam city.
-16. Weight-losing industries sit near the raw material; bottling sits near the market.
-17. Aluminium seeks cheap hydel; oil refining seeks the port / pipeline end.
-18. Entrepôt = Singapore / Rotterdam / Hong Kong; Duisburg = inland Rhine, not a Dutch sea mouth.
-19. Po Basin / Milan–Turin–Genoa = Italy’s industrial triangle.
-20. Skip only PYQ cities — next year can ask any Lucent pair on this map.
 
 ---
 

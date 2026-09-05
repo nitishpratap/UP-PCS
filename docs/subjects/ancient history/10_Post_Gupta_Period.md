@@ -15,27 +15,38 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-Gupta break ~550 | Hunas Toramana → Mihirakula | Yashodharman Mandasor
-Maukharis Kannauj | Pushyabhutis Thanesar | Maitrakas Valabhi | Gauda Shashanka
+1. After the imperial Guptas break about **550 CE**, the **Hunas** are led first by **Toramana**, then by **Mihirakula** of **Sakala (Sialkot)**. **Yashodharman** of Malwa boasts the Huna check at **Mandasor** about **532 CE**.
+2. Regional houses to lock: **Pushyabhutis** at **Thanesar**, **Maukharis** at **Kannauj**, **Later Guptas** in Magadha, **Maitrakas** at **Valabhi**, and **Gauda** under **Shashanka** at **Karnasuvarna**.
+3. **Harsha** of the **Pushyabhuti** house ruled **606–647 CE**. He is a post-Gupta reunion king, **not** a Gupta emperor. **Harsha-samvat** starts in **606 CE**.
+4. Early capital is **Thanesar (Sthaneshvara)** in Haryana. Later capital is **Kannauj (Kanyakubja)** in **Uttar Pradesh**.
+5. Elder brother **Rajyavardhana** was killed by **Shashanka** of Gauda. Sister **Rajyashri** had married Maukhari **Grihavarman** of Kannauj; Harsha later rescued her and united the two houses.
+6. Chinese title for Harsha is **Siladitya**. Family memory starts Shaiva; later he is a loud **Buddhist patron** while still hosting Brahmans. East ally is **Bhaskaravarman** of Kamarupa.
+7. About **630 CE**, **Pulakeshin II** of Badami stopped Harsha at the **Narmada**. The boast sits in the **Aihole** inscription of **Ravikirti** on the Meguti temple.
+8. Harsha held the **Kannauj assembly** in **643** to honour Xuanzang, and the **Prayag Moksha-parishad** every five years for charity give-aways.
+9. Harsha’s copper-plate locks are **Banskhera** (with his signature) and **Madhuban**. The **Sonpat** seal is Pushyabhuti family. Hathigumpha is **not** Harsha — it is **Kharavela**.
+10. After **647** there is no stable heir. The Chinese envoy **Wang Xuance** is attacked by **Arunashva** of Tirhut, and the north fragments again.
+11. **Banabhatta** is Harsha’s court poet from **Pritikuta** near **Shravasti** (UP). He writes ornate Sanskrit prose, not Gupta-age verse drama like Kalidasa.
+12. *Harshacharita* is Bana’s prose **biography** of Harsha (**akhyayika**). *Kadambari* is his unfinished prose **romance** (**katha**), finished by tradition by son Bhushanabhatta.
+13. **Hiuen Tsang (Xuanzang)** was in India about **630–644**, studied at **Nalanda** under **Shilabhadra**, and wrote the ***Si-Yu-Ki***. He is Harsha’s Chinese witness, not Fa-Hien.
+14. Traveller chronology: **Fa-Hien** (~399–414, Chandragupta II) → **Hiuen Tsang** (~630–644, Harsha) → **I-Tsing** (~671–695, after Harsha) → **Al-Biruni** (~1017).
+15. Maukhari inscription locks: **Ishanavarman–Haraha** (Barabanki, UP, **554 CE**), **Ishvaravarman–Jaunpur** stone, **Jivitagupta II–Deo-Baranark**.
+16. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is Gupta / **Samudragupta**. Sarvavarman’s lock is the **Asirgarh** seal.
+17. Harsha’s administration reuses Gupta vocabulary: **uparika**, **mahasandhivigrahika**, **mahapratihara**, and **bhandagaradhikarana**. He did **not** invent the Uparika.
+18. The state is personal: **mahasamanta** feudatories and agrahara grants continue, and the machine collapses when Harsha dies in **647**.
+19. Three plays often given to Harsha are *Nagananda*, *Ratnavali*, and *Priyadarshika*. *Nagananda* carries the Buddhist flavour of the three.
+20. **Rajyashri did not marry Dhruvasena** of Valabhi. She is Grihavarman’s widow; Maitraka **Dhruvasena II** was restored as an ally.
+21. Mihirakula’s remembered seats include **Sakala**, the **Gwalior** inscription, and Kashmir memory in the *Rajatarangini*. Toramana appears on the **Eran** boar inscription.
+22. Later Gupta **Adityasena** has the **Aphsad** inscription in Bihar. Maitraka founder-memory is **Bhatarka** at Valabhi.
+23. Fa-Hien came mainly for **Vinaya** under Chandragupta II. Xuanzang came for **Mahayana** texts under Harsha. Nalanda’s founder-patron remains **Kumaragupta I**.
+24. Do not confuse **Thanesar** (early Haryana capital) with **Kannauj** (later UP capital), or **Banabhatta** with **Kalidasa**.
+25. The Narmada stop is **not** the Battle of Kannauj **1540** (Sher Shah / Humayun). It is Pulakeshin II’s Chalukya check of Harsha.
+26. After Harsha, the later Kannauj fight among Pratihara–Pala–Rashtrakuta belongs to early medieval, not this file’s core meat.
 
-Harsha 606–647 | Pushyabhuti | Thanesar first, Kannauj later (UP)
-Rajyavardhana killed by Shashanka | Rajyashri = Grihavarman (Maukhari)
-Pulakeshin II stops him at Narmada ~630 | Aihole boast
-Prayag charity every 5 years | Kannauj assembly 643
+---
 
-2024 Q149: Fa-Hien → Hiuen Tsang → I-Tsing → Al-Biruni = B 4-3-1-2
-2022 Q87 NOT matched: Sarvavarman — Gaya copper plate
-Haraha = Ishanavarman | Jaunpur = Ishvaravarman | Deo-Baranark = Jivitagupta II
-
-Bana = Harshacharita + Kadambari | Pritikuta / Shravasti (UP)
-Hiuen Tsang = Si-Yu-Ki | Nalanda / Shilabhadra | not Fa-Hien
-2018 Q16 Hathigumpha ≠ Harsha (Kharavela)
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|

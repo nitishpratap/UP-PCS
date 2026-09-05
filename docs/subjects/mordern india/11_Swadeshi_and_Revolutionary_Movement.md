@@ -15,46 +15,42 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-PARTITION:
-  July 1905 announced | 7 Aug 1905 Boycott Resolution (Calcutta Town Hall)
-  16 Oct 1905 Partition effective (mourning / Rakhi / Amar Sonar Bangla)
-  New province = East Bengal & Assam (Dacca)
-  1911 Delhi Durbar: Partition ANNULLED + capital Calcutta → Delhi
-  Lucknow Pact is 1916, NOT 1911
+1. **Partition of Bengal** was announced in **July 1905** and became effective on **16 October 1905**. The new province was **East Bengal and Assam** with capital at **Dacca**.
+2. **Causes:** Curzon claimed administrative size; nationalists read **divide and rule** aimed at Hindu–Muslim and Calcutta politics.
+3. **Course:** **16 October** was a mourning day with **Rakhi** unity and Tagore’s ***Amar Sonar Bangla***; protest fused at once with Swadeshi and boycott.
+4. **Results:** Mass protest and underground radicalisation followed; Partition was **annulled in 1911** at the Delhi Durbar, and the capital moved **Calcutta → Delhi**.
+5. The **Lucknow Pact is 1916**, not 1911. Do not merge it with the annulment package.
+6. The **Boycott Resolution** was passed on **7 August 1905** at Calcutta Town Hall. Swadeshi means use Indian goods; boycott means reject British goods and institutions.
+7. The **National Council of Education** came in **August 1906**. **Aurobindo** was principal of **Bengal National College**.
+8. **Ashwini Kumar Dutt’s Swadesh Bandhab Samiti** (Barisal) is the classic district volunteer body. **V.O.C. Pillai** founded **Swadeshi Steam Navigation** at Tuticorin.
+9. Calcutta Congress **1906** (Dadabhai) stamped **Swaraj** as a Congress goal. Open Swadeshi faded after **1908**; youth moved underground.
+10. **Extremist** Congress politics (boycott/Swadeshi) is **not** the same as **revolutionary** secret societies.
+11. **Abhinav Bharat** is linked to **Savarkar**. **India House** in London is linked to **Shyamji Krishna Varma**.
+12. **Anushilan Samiti** is locked to the **Hardinge bomb of 1912**. **Jugantar** is the Barindra / *Yugantar* / Manicktolla stream.
+13. **Muzaffarpur 1908** is the Kingsford attempt (**Khudiram–Chaki**). **Alipore 1908** is the Manicktolla conspiracy trial.
+14. **Ghadar Party** was founded in **1913** at **San Francisco**. The **Berlin Committee** is **1915** — a wartime Europe plot, not Ghadar.
+15. **Madam Cama’s Stuttgart flag** is **1907**. Do not merge it with the **1915** Berlin Committee.
+16. **HRA** was formed in **1924**. **Kakori** (**9 August 1925**) is an **HRA** action — never call it HSRA.
+17. **HSRA** dates from **1928** (after the socialist turn). **Naujawan Bharat Sabha** is **1926**.
+18. **Central Assembly bomb** — **8 April 1929**, **Bhagat Singh** and **B.K. Dutt**. **Chittagong Armoury Raid** — **18 April 1930**, **Surya Sen**.
+19. Chronology ladder: Chapekar **1897** → Muzaffarpur/Alipore **1908** → Hardinge **1912** → Ghadar **1913** → Kakori **1925** → Assembly **1929** → Chittagong **1930**.
+20. A standard order lock is **Ghadar → Berlin Committee → Assembly bomb → Chittagong**.
+21. **Ram Prasad Bismil** was born at **Shahjahanpur** and hanged at **Gorakhpur** on **19 December 1927**.
+22. **Ashfaqulla** was hanged at **Faizabad**; **Roshan Singh** at **Naini**; **Azad** died at **Alfred Park, Allahabad, 27 February 1931**.
+23. **Ambika Chakravarti** was **not** an early member of Naujawan Bharat Sabha. **M.A. Ansari** was **not** associated with the Kanpur Conspiracy of **1924**.
+24. Bengal was the Anushilan–Jugantar–Chittagong centre; Maharashtra for Abhinav Bharat/Nasik; Punjab for Ghadar/HSRA; UP for Kakori and Shahjahanpur.
+25. The **1877** Delhi Durbar (Lytton) proclaimed Victoria Empress. The **1911** Durbar annulled Partition and shifted the capital — do not merge the two.
+26. Swadeshi enterprise tags include **P.C. Ray’s Bengal Chemical** and VOC’s steam navigation challenge to British shipping.
+27. **Surat Split 1907** broke Congress after Moderate–Extremist fights over boycott depth and Swaraj language.
+28. **Komagata Maru (1914)** sits in the Ghadar-era overseas chain between Ghadar founding and wartime plots.
+29. The Hardinge bomb (**1912**) hit a Viceroy’s Delhi procession. The Assembly bomb (**1929**) was a Central Assembly protest — different year, different aim.
+30. UP Focus: Kakori is the Lucknow-belt treasury action of **HRA**; lock Bismil’s birth and hanging places separately.
 
-SWADESHI: boycott foreign goods | Indian enterprise | national education | samitis
-  NCE Aug 1906 | Bengal National College (Aurobindo principal)
-  Swadesh Bandhab Samiti — Ashwini Kumar Dutt (Barisal)
-  VOC Pillai — Swadeshi Steam Navigation (Tuticorin)
-  Calcutta Congress 1906 — Swaraj goal (Dadabhai)
+---
 
-ORGS:
-  Abhinav Bharat — Savarkar          ← 2018 Q22
-  Anushilan — Hardinge bomb 1912     ← 2023 Q42
-  Jugantar — Barindra / Yugantar paper / Manicktolla
-  Ghadar 1913 (San Francisco) | Berlin Committee 1915
-  HRA 1924 | Naujawan Bharat Sabha 1926 | HSRA 1928
-
-EVENTS:
-  Chapekar 1897 → Muzaffarpur/Khudiram 1908 → Alipore 1908
-  Dhingra (Curzon Wyllie) 1909 → Nasik Jackson 1909 → Hardinge 1912
-  Ghadar 1913 → Komagata Maru 1914 → Berlin 1915
-  HRA 1924 → Kakori 1925 → Saunders 1928 → Assembly 1929 → Chittagong 1930
-
-2022 Q38: Gadar → Berlin → Assembly → Chittagong  =  I, III, IV, II
-
-KAKORI: 9 Aug 1925 HRA (not HSRA)
-  Bismil born Shahjahanpur, hanged Gorakhpur 19 Dec 1927
-CHITTAGONG: 18 Apr 1930 Surya Sen
-ASSEMBLY: 8 Apr 1929 Bhagat Singh + B.K. Dutt
-NAUJAWAN 1926: Ambika Chakravarti NOT an early member  ← 2021 Q108
-KANPUR CONSPIRACY 1924: M.A. Ansari NOT associated     ← 2021 Q86
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -73,8 +69,6 @@ KANPUR CONSPIRACY 1924: M.A. Ansari NOT associated     ← 2021 Q86
 | Delhi Durbar 1877 | Delhi Durbar 1911 | Lytton proclaims Victoria Empress of India vs Hardinge annuls partition and shifts the capital | दिल्ली दरबार 1877 / 1911 |
 | Stuttgart flag 1907 | Berlin Committee 1915 | Madam Cama unfurls a tricolour at a Socialist Congress vs a wartime Europe plot with German help | स्टुटगार्ट ध्वज / बर्लिन समिति |
 | Bengal Swadeshi orgs | Bengal revolutionary orgs | Banerjee/Pal/Tagore/Aurobindo open politics vs Anushilan/Jugantar secret action | स्वदेशी संगठन / क्रांतिकारी संगठन |
-
----
 
 ---
 

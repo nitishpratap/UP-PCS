@@ -15,36 +15,36 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-OCEANS (area): Pacific > Atlantic > Indian > Southern > Arctic
- Indian Ocean = Erythraean Sea (Greeks) + both sides of Equator (2025)
-FLOOR: Shelf (~200 m, fish/oil; ~7.5% area; avg ~80 km; Siberia widest) → break → Slope (canyons) → Rise (passive) or Trench (active) → Abyssal plain | Ridge + rift | Seamount / Guyot
- India shelf: WEST wider than EAST (Gujarat–Mumbai widest; Bombay High) | East narrower but delta fans
- Telegraphic Plateau = North Atlantic Ridge (2019)
-TRENCH: Pacific Mariana | Atlantic Puerto Rico | Indian Sunda/Java | Arctic Molloy
-CURRENTS WARM: Gulf Stream, Kuroshio, Brazil, Agulhas, Mozambique, E. Australian, Alaska, Florida
- COLD: Humboldt/Peru, Benguela (ATLANTIC not Pacific), California, Canary, Labrador, Oyashio/Kurile, W. Australian, Falkland, Antarctic Circumpolar
- 2025 Q75 “NOT cold” = Agulhas + Brazil (both WARM). Humboldt + California ARE cold (do not pick them).
- Indian Ocean current among options = Agulhas (2020)
- El Niño = warm water off Peru → less upwelling/plankton
-TEMP: surface max near equator | thermocline ~300–1000 m | deep water cold everywhere
-SALINITY: ~35‰ | MAX open ocean near Tropics of Cancer/Capricorn (2023) | Red Sea high | Baltic low | Equator NOT max
- Density = cold + salt (+ pressure) → thermohaline | NaCl ~77% of dissolved salts
- WAVES: constructive = build beach | destructive = erode | tsunami ≠ tide
- CURRENT EFFECTS: climate (mild/fog/desert coasts) | fish (warm+cold meet / upwelling) | navigation
-DEPOSITS: red clay (deepest) | globigerina / pteropod = calcareous | diatom / radiolarian = siliceous | Mn nodules (Pacific / CIOB)
-TIDES: Spring = syzygy = LARGE | Neap = quadrature = SMALL | ~12 h 25 min not 12 h 30
- Tidal bore = Hooghly, Amazon | Fundy = world range king | Khambhat = India tidal energy
-UPWELL: Peru, California, Canary, Benguela, Somalia (WEST coasts of continents)
-STRAITS: Hormuz, Malacca, Gibraltar, Bering, Bab-el-Mandeb, Palk, 10° Channel
-CANALS: Suez = Med ↔ Red (2025 2 and 3) | N→S lakes Manzala–Timsah–Great Bitter–Little Bitter
- Suez cut India–Europe ~7000 km (2018) | Panama = Atlantic ↔ Pacific + locks | Kiel = North Sea ↔ Baltic
-UNCLOS: Territorial 12 nm | Contiguous 24 | EEZ 200 | Shelf 200 (up to 350)
-FISHERIES: Grand Banks, Dogger, Peru upwelling, Kuroshio–Oyashio mix
-POLAR: Operational Antarctica = MAITRI + BHARATI (not Dakshin Gangotri) | Treaty 1959/61 | Himadri = Arctic
-```
+1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
+2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
+3. India’s **west shelf is wider than the east**. The Gujarat–Mumbai belt is widest and holds **Bombay High**. The east shelf is narrower but carries large delta fans.
+4. The **Telegraphic Plateau** is part of the **North Atlantic Ridge**, not a separate land plateau.
+5. Trench–ocean locks: **Mariana–Pacific**, **Puerto Rico–Atlantic**, **Sunda/Java–Indian**, and **Molloy–Arctic**.
+6. **Agulhas** and **Brazil** are **warm** currents. **Humboldt (Peru)** and **California** are **cold**. Do not mark Agulhas or Brazil as cold.
+7. The **Benguela** is an **Atlantic** cold current off south-west Africa. It is **not** a Pacific current.
+8. Among classic MCQ options, the current linked to the **Indian Ocean** is the **Agulhas**.
+9. **El Niño** sends warm water off Peru, weakens upwelling, and cuts plankton and fish catch.
+10. Open-ocean **salinity** is about **35‰**. The maximum sits near the **Tropics of Cancer and Capricorn**, not on the Equator. The **Red Sea** is high; the **Baltic** is low.
+11. Seawater density rises when water is **colder** and **saltier**. Cold salty water sinks and drives the **thermohaline** circulation. **NaCl** is about **77%** of dissolved salts.
+12. Surface temperature peaks near the equator. The **thermocline** lies roughly **300–1000 m**. Deep water is cold in every ocean.
+13. A **spring tide** forms at **syzygy** (new/full moon) and is **large**. A **neap tide** forms at **quadrature** and is **small**. The tidal period is about **12 h 25 min**, not 12 h 30.
+14. A **tidal bore** is famous on the **Hooghly** and the **Amazon**. The **Bay of Fundy** has the world’s greatest tidal range. India’s tidal-energy coast lock is the **Gulf of Khambhat**.
+15. **Upwelling** is strongest on **west coasts**: Peru, California, Canary, Benguela, and Somalia.
+16. **Constructive** waves build beaches; **destructive** waves erode them. A **tsunami** is not a tide.
+17. Ocean currents shape climate (mild or foggy coasts, west-coast deserts), concentrate fish where warm and cold meet or upwelling occurs, and affect navigation routes.
+18. Deepest deposit is **red clay**. **Globigerina** and **pteropod** oozes are **calcareous**. **Diatom** and **radiolarian** oozes are **siliceous**. **Manganese nodules** sit on abyssal plains, especially in the Pacific and the Central Indian Ocean Basin.
+19. The **Suez Canal** joins the **Mediterranean** and the **Red Sea**. North to south the lakes are **Manzala → Timsah → Great Bitter → Little Bitter**. It cut the India–Europe sea route by about **7000 km**. Suez is **sea-level** and has **no locks**.
+20. The **Panama Canal** joins the **Atlantic/Caribbean** and the **Pacific** and uses **locks** (with Gatun Lake). The **Kiel Canal** joins the **North Sea** and the **Baltic**.
+21. UNCLOS belts: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf starts at **200 nm** and may extend to **350 nm**.
+22. Classic fishery locks: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
+23. India’s **operational** Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational pair. **Himadri** is India’s **Arctic** station, not Antarctic.
+24. The **Antarctic Treaty** dates to **1959/61**. India joined in **1983**. India is an **observer** in the Arctic Council.
+25. Key straits: **Hormuz** (Gulf oil), **Malacca** (Indian Ocean–South China Sea), **Gibraltar** (Med–Atlantic), **Bering** (Asia–America), **Bab-el-Mandeb**, **Palk**, and the **10° Channel**.
+26. The **Carlsberg Ridge** lies in the north-west Indian Ocean. The **Ninetyeast Ridge** is not the Mid-Atlantic Ridge.
+27. The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica). India’s inland waterway **NW-1** is the **Ganga** from Haldia to Prayagraj.
+28. **Drake Passage** is not the Strait of Magellan. Panama opened with locks in **1914**; Suez opened in **1869** without locks.
 
 ---
 
@@ -762,41 +762,6 @@ D. Dakshin Gangotri and Bharati
 
 **Ans: B** — Operational = **Bharati and Maitri**. Himadri is **Arctic**.
 </details>
-
----
-
-## Consolidated — 28 Must-Score Locks
-
-1. Ocean area: Pacific > Atlantic > Indian > Southern > Arctic.
-2. Indian Ocean = Erythraean (Greeks) and straddles Equator.
-3. Floor: shelf → slope → rise → abyssal; guyot = flat seamount.
-4. Telegraphic Plateau = **North Atlantic Ridge**.
-5. Mariana–Pacific; Puerto Rico–Atlantic; Sunda–Indian; Molloy–Arctic.
-6. Agulhas & Brazil = **warm**; Humboldt & California = **cold**.
-7. Benguela = **Atlantic** cold, not Pacific.
-8. Indian-Ocean MCQ current = **Agulhas**.
-9. El Niño = warm Peru, **less** fish.
-10. Salinity max near **tropics**, not equator.
-11. Spring tide = syzygy = **large**; period ~**12 h 25 min**.
-12. Khambhat = India’s tidal-energy coast.
-13. Suez = **Med ↔ Red**; lakes Manzala–Timsah–Great–Little Bitter N→S; **~7000 km** shorter to Europe.
-14. Panama = Atlantic–Pacific **with locks**.
-15. Territorial **12** / contiguous **24** / EEZ **200** nm.
-16. Grand Banks = Labrador + Gulf Stream.
-17. Operational Antarctica = **Maitri + Bharati**.
-18. Himadri = **Arctic**, not Antarctic.
-19. Antarctic Treaty 1959/61; India 1983.
-20. Hormuz / Malacca / Gibraltar / Bering — join the right seas.
-21. India **west shelf wider than east**; Bombay High on west shelf.
-22. Density ↑ when colder / saltier; cold+salt sink = thermohaline; NaCl ~77% of salts.
-23. Constructive waves build beach; destructive erode; tsunami ≠ tide.
-24. Current effects: mild/fog coasts, west-coast deserts, fish at warm+cold meet / upwelling.
-25. Thermocline ~300–1000 m; red clay deepest; globigerina lime; diatom cold silica; Mn nodules abyssal.
-26. Upwelling = Peru, California, Canary, Benguela, Somalia (**west** coasts).
-27. Tidal bore = Hooghly / Amazon; Fundy = range king; Carlsberg = NW Indian; Ninetyeast ≠ MAR.
-28. ISA + Area = seabed beyond national zones (Jamaica); India **NW-1** = Ganga (Haldia–Prayagraj).
-29. Arctic Council: India **observer**; Himadri ≠ Maitri.
-30. Drake ≠ Magellan; Suez 1869 no locks; Panama 1914 locks.
 
 ---
 

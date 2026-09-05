@@ -15,52 +15,41 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-Part XX, Art. 368. Bill in EITHER House. NO joint sitting. President SHALL assent (24th).
-
-THREE lanes:
-  Simple majority — NOT “under 368” (new State, 169 Council, 5th/6th Sch, salaries, quorum…)
-  Special majority — 368(2): majority of TOTAL membership + 2/3 present & voting
-  Special + half the States — federal list (President election, 73/162, SC/HC, 7th Sch, 368 itself, State RS seats)
-
-Basic structure chain (2024 order):
-  Shankari Prasad 1951 → Sajjan Singh 1965 → Golaknath 1967 → 24th 1971 → Kesavananda 1973 → 42nd 1976 → Minerva Mills 1980
-  2021: Golaknath → 24th → Kesavananda → 42nd
-
-1st 1951: 15(4) · 19(2) public order · 31A/31B · 9th Schedule
-7th 1956: States Reorganisation · 350A/350B (NOT 9th Amd)
-24th 1971: Parliament CAN amend Part III; President shall assent
-25th 1971: 31C (39b/c); “amount” not market value
-26th 1971: privy purses GO
-36th 1975: Sikkim = State (371F). 35th had been “associate” with the *old* 10th Schedule
-42nd 1976 Mini: Socialist Secular Integrity · FD 51A · 39A 43A 48A · 5 subjects to Concurrent
-  31C to ALL DPSP (Minerva struck) · 368(4)(5) no review (Minerva struck)
-  43rd 1977 undid 32A/131A judicial bars
-44th 1978: property → 300A · 20&21 unsuspendable · Emergency rewrite (written Cabinet, armed rebellion, 358/359 nexus) · 38(2) · 361A
-39th 1975: PM election beyond court → Indira Gandhi case struck it
-52nd 1985: *present* 10th Schedule (the Sikkim 10th Schedule was already gone)
-61st 1988/89: voting age 18 (62nd is a 334 extension — don’t swap)
-69th 1991: NCT Delhi 239AA. 70th = NCT in Presidential college. NOT the NCR belt
-73rd/74th 1992 (in force 1993): Parts IX / IXA
-86th 2002: 21A + 45 recast + 51A(k). RTE Act 2009 → 1 Apr 2010
-91st 2003: CoM ≤15% (Delhi 10%); merger ≥2/3; 361B
-97th 2011: co-ops; Part IXB for *State* societies struck 2021
-101st 2016: GST (1 Jul 2017) · 246A · 279A
-102nd 2018: NCBC 338B · 342A Central list
-103rd 2019: EWS 10% (15(6)/16(6)) — Janhit 2022 upheld
-104th 2019/20: Anglo-Indian nomination ends; SC/ST to 2030
-105th 2021: States may identify their SEBCs
-106th 2023: women 33% LS+Assemblies — AFTER next delimitation
-96th 2011: Oriya → Odia (year-match only)
-```
+1. Amendment power sits in **Part XX, Article 368**. An amendment Bill may start in **either House**. There is **no joint sitting**. After the **24th Amendment**, the President **shall** assent.
+2. There are **three lanes**: **simple majority** changes that are **not** “under 368” (new States, Article 169 Councils, Schedules 5/6 matters, and similar); **special majority** under **368(2)** (majority of total membership plus two-thirds present and voting); and **special majority plus ratification by half the States** for federal provisions.
+3. Federal provisions needing State ratification include Presidential election, extent of executive power (**73/162**), Supreme Court and High Courts, the **7th Schedule**, **Article 368** itself, and State representation in the Rajya Sabha.
+4. The basic-structure chain runs **Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → 24th Amendment (1971) → Kesavananda (1973) → 42nd (1976) → Minerva Mills (1980)**. *Kesavananda* held that Parliament can amend Fundamental Rights but **not** destroy basic structure.
+5. A shorter chronology trap is **Golaknath → 24th → Kesavananda → 42nd**. *Golaknath* said Fundamental Rights could not be amended; the **24th** asserted Parliament’s power; *Kesavananda* balanced power with basic structure.
+6. The **1st Amendment (1951)** added **15(4)**, widened **19(2)** for public order, and inserted **31A/31B** with the **9th Schedule** shield for certain laws.
+7. The **7th Amendment (1956)** reorganised States and added **350A/350B**. Linguistic-minority Articles **350A/350B** are **7th**, **not** 9th. The **9th Amendment** is the Berubari boundary amendment.
+8. The **24th Amendment (1971)** affirmed that Parliament can amend Part III and that the President shall assent. The **25th** inserted **31C** linked to Articles **39(b)/(c)** and spoke of “amount” rather than market value for compensation. The **26th** abolished **privy purses**.
+9. The **36th Amendment (1975)** made **Sikkim** a State (**371F**). The earlier **35th** had made Sikkim an “associate” State with an old Tenth Schedule device — do not confuse 35th and 36th.
+10. The **42nd Amendment (1976)** is the **Mini-Constitution**: it added **Socialist**, **Secular**, and **Integrity** to the Preamble; inserted Fundamental Duties (**51A**); added DPSPs **39A, 43A, 48A**; and moved **five** subjects to the Concurrent List.
+11. The 42nd also tried to immunise amendments from review through **368(4)/(5)** and to widen **31C** to all DPSPs — both struck in *Minerva Mills*. The **43rd Amendment (1977)** undid judicial bars such as **32A/131A**.
+12. The **44th Amendment (1978)** moved property to **Article 300A**, made **Articles 20 and 21** unsuspendable, rewrote Emergency rules (written Cabinet advice, armed rebellion, nexus), and added **38(2)** and **361A**.
+13. The **39th Amendment (1975)** tried to place the Prime Minister’s election beyond judicial reach; the Supreme Court struck that device in the *Indira Gandhi* election case.
+14. The **52nd Amendment (1985)** inserted the **present Tenth Schedule** (anti-defection). An earlier Sikkim-related Tenth Schedule had already gone. The **91st Amendment (2003)** killed the one-third split escape, set Council of Ministers size caps (**15%**, Delhi **10%**), and added **361B**.
+15. The **61st Amendment** lowered voting age to **18** (in force **1989**). Do not confuse it with a **62nd**-style extension of reservation timelines under **334**.
+16. The **69th Amendment (1991)** created **NCT Delhi** under **239AA**. The **70th** put NCT into the Presidential electoral college. Neither is the same as the wider NCR planning belt.
+17. The **73rd and 74th Amendments (1992)** created **Parts IX and IXA**. They came into force in **1993** — **24 April** for Panchayats and **1 June** for Municipalities.
+18. The **86th Amendment (2002)** inserted **Article 21A** (RTE), recast **Article 45**, and added duty **51A(k)**. The RTE Act **2009** took effect on **1 April 2010**.
+19. The **97th Amendment (2011)** constitutionalised cooperatives (**43B**, **19(1)(c)**, Part **IXB**). Part IXB was later held **inoperative for State cooperatives (2021)**.
+20. The **101st Amendment (2016)** introduced GST (**246A**, **279A**), live from **1 July 2017**. The **102nd (2018)** constitutionalised NCBC (**338B**) and the Central SEBC list logic (**342A**).
+21. The **103rd Amendment (2019)** created **EWS** reservation of **10%** through **15(6)/16(6)**; *Janhit Abhiyan* (**2022**) upheld it. The **105th (2021)** restored States’ power to identify their own SEBCs.
+22. The **104th Amendment** ended Anglo-Indian nomination and extended SC/ST reservation to **2030**. The **106th (2023)** reserves **one-third** seats for women in the Lok Sabha and Assemblies, but only **after** the next delimitation — it is **not yet in force** as seat reservation on the ground.
+23. The **96th Amendment (2011)** changed **Oriya** to **Odia** in the Eighth Schedule — a pure year-and-name match lock.
+24. Simple-majority changes outside Article 368 look ordinary but can still remake the map of States. Special-majority-plus-States is the federal lock when the question names the 7th Schedule or Article 368 itself.
+25. *Minerva Mills* restored judicial review of amendments and struck the attempt to give DPSPs complete supremacy over Fundamental Rights through an overbroad **31C**.
+26. Ninth **Schedule** (from the 1st Amendment) is a protective list of laws; Ninth **Amendment** is Berubari. Mixing Schedule and Amendment number is a classic trap.
+27. Local-government amendments are the pair **73rd + 74th**. Rights-education is **86th**. Goods and services tax is **101st**. EWS is **103rd**. Women reservation awaiting delimitation is **106th**.
+28. The **42nd (1976)** added **Socialist** and **Secular** to the Preamble. The **44th (1978)** unwound Emergency excesses and moved property out of Part III to **Article 300A**.
 
 ---
+## Confused Pairs (exam killers)
 
-### Must-Know Term Comparisons
-
-| Term A | Term B | Core difference | Hindi |
+| A | B | Lock | Hindi |
 |--------|--------|-----------------|-------|
 | **Simple majority** | **Special (368)** | Ordinary legislative majority; **outside** 368 | Total membership + 2/3 P&V |
 | **368 only** | **368 + States** | Unitary-looking amendments | Federal provisions; **half** State legislatures |

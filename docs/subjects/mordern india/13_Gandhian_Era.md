@@ -15,60 +15,44 @@ Gandhi in South Africa | Gandhian Ideology | Champaran Satyagraha | Kheda Satyag
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 32 Must-Score Locks
 
-```
-SOUTH AFRICA: Natal Indian Congress 1894 | Indian Opinion | Phoenix/Tolstoy
-              Hind Swaraj 1909 | Return India 1915 | Gokhale = political guru
+1. Gandhi founded the **Natal Indian Congress (1894)**, ran ***Indian Opinion***, and wrote ***Hind Swaraj* (1909)** before returning to India in **1915**. **Gokhale** was his political guru.
+2. **Champaran 1917** fought the **tinkathia** indigo system (**3/20**); **Raj Kumar Shukla** brought Gandhi. This is Gandhi’s first satyagraha in India.
+3. **Kheda 1918** sought revenue remission (Patel). **Ahmedabad mill strike 1918** (Anasuya Sarabhai) saw Gandhi’s **first fast in India**.
+4. The **Rowlatt Act (1919)** and **Jallianwala Bagh (13 April 1919**, Dyer, Amritsar) opened the all-India protest climate.
+5. **Hunter Committee 1919** inquired into the Punjab firing. It is **not** the **Hunter Commission 1882** on education.
+6. After Jallianwala, **Tagore returned his knighthood**. **Sankaran Nair** resigned from the Viceroy’s Executive Council.
+7. **Non-Cooperation** launched at Calcutta special (**Sep 1920**) and Nagpur (**Dec 1920**), joined to **Khilafat**.
+8. **Chauri Chaura (5 February 1922, Gorakhpur)** led Gandhi to withdraw NCM. **Belgaum 1924** is Gandhi’s only Congress presidentship.
+9. **Gaya (Dec 1922)** split **No-changers** (stay out; constructive work) from **Pro-changers/Swarajists** (enter councils and obstruct).
+10. The **Swaraj Party (Jan 1923)** was founded by **C.R. Das** and **Motilal Nehru** for council entry.
+11. The **Simon Commission (Nov 1927)** was all-white. The **Nehru Report (1928, Motilal)** answered with a **dominion** draft.
+12. **Lahore 1929** (Nehru) declared **Purna Swaraj**; the pledge day was **26 January 1930**. Dominion status and complete independence are different goals.
+13. **Gandhi’s Eleven Points (Jan 1930)** were an ultimatum to Irwin. They are not **Jinnah’s Fourteen Points (1929)**.
+14. **Dandi March** ran **12 March–6 April 1930** and launched **Civil Disobedience**. **Dharasana** is locked to **Webb Miller’s** reportage.
+15. **Gandhi–Irwin Pact (5 March 1931)** was a Congress–Viceroy truce. **Karachi (Mar 1931)** adopted Fundamental Rights and an economic programme.
+16. At the **Second Round Table Conference (Sep–Dec 1931)** Gandhi was the sole Congress representative. **Rajendra Prasad** did **not** go as Congress delegate.
+17. The **Communal Award (16 August 1932)** gave Depressed Classes separate electorates. The year is **1932**, not 1933.
+18. The **Poona Pact (24 September 1932)** replaced that with **reserved seats in a joint electorate**.
+19. CDM ended around **April 1934**. Chronology: Gandhi–Irwin → 2nd RTC → Poona Pact → end of CDM.
+20. Another ladder: **Simon → Nehru Report → Sharda Act → Dandi**.
+21. Gandhi’s **Constructive Programme** stressed khadi, village industries, untouchability removal, prohibition, sanitation, **Nai Talim (1937)**, women, Hindustani, and kisan/labour/adivasi work.
+22. The **August Offer (8 August 1940**, Linlithgow) promised dominion-after-war with a minority veto and was rejected.
+23. **Individual Satyagraha (Oct 1940)** began with **Vinoba** — symbolic one-person protest, not mass CDM.
+24. **Satyagraha** aims at converting the opponent through truth-force. It is not mere passive obstruction.
+25. **NCM** boycotted titles, schools and courts. **CDM** centred on salt and civil-law defiance.
+26. The **First RTC (1930)** had Congress absent. The **Second RTC (1931)** had Gandhi present.
+27. Same-year trap: **Rowlatt Act 1919** (no-trial law) is not the **Government of India Act 1919** (dyarchy).
+28. Same-year trap: **Chauri Chaura (Feb 1922)** ends NCM; **Gaya (Dec 1922)** opens the council-entry split — do not merge.
+29. UP Focus: **Chauri Chaura** is Gorakhpur; Swaraj Party founding memory sits with the **Allahabad** Nehrus.
+30. Cripps (**1942**) and Quit India (**1942**) continue this story in the next chapter — they are not separate from the Gandhian arc.
+31. **Vaikom** satyagraha continuity sits in the mid-1920s constructive/temple-entry stream (often paired with Belgaum-era dates).
+32. Hold the phase map: local satyagrahas → Rowlatt/Jallianwala → NCM → Gaya/Swarajists → Simon/Lahore → Dandi/CDM → pacts → constructive decade → August Offer/Individual Satyagraha.
 
-EARLY SATYAGRAHAS:
-  Champaran 1917 — tinkathia 3/20 indigo; Raj Kumar Shukla
-  Kheda 1918 — revenue remission; Patel
-  Ahmedabad 1918 — mill wages; Anasuya Sarabhai; Gandhi's first fast in India
+---
 
-1919: Rowlatt Act | Jallianwala 13 Apr 1919 (Dyer; Amritsar)
-      Hunter Committee 1919 = firing inquiry; NOT Hunter Commission 1882 (education)
-      Tagore returns knighthood          ← 2022 Q83
-      Sankaran Nair resigns Viceroy's EC ← 2025 Q135 Only 1
-
-NCM + KHILAFAT 1920–22:
-  Calcutta special Sep 1920 | Nagpur Dec 1920
-  Chauri Chaura 5 Feb 1922 (Gorakhpur) → Gandhi withdraws
-  Belgaum 1924 = Gandhi's only Congress presidentship
-
-GAYA Dec 1922 → split: No-changers (Gandhi/Rajaji/Prasad) stay out of councils
-              vs Pro-changers/Swarajists (Das + Motilal) enter councils
-SWARAJ PARTY Jan 1923 — C.R. Das + Motilal Nehru (council entry, obstruction)
-
-1927–30:
-  Simon Nov 1927 (all-white) | Nehru Report 1928 (Motilal; Dominion)
-  Sharda Act 1929 | Lahore 1929 Purna Swaraj | 26 Jan 1930
-  Eleven Points Jan 1930 (Gandhi → Irwin; ignored) → Dandi
-  Dandi 12 Mar–6 Apr 1930 | Dharasana — Webb Miller ← 2021 Q82
-
-1931–34:
-  Gandhi–Irwin 5 Mar 1931 | Karachi Mar 1931 (FR + economic programme)
-  2nd RTC Sep–Dec 1931 (Gandhi sole Congress; Rajendra Prasad NOT ← 2020 Q24)
-  Communal Award 16 Aug 1932 (NOT 1933 ← 2019 Q19)
-  Poona Pact 24 Sep 1932 | CDM ends ~Apr 1934
-
-CONSTRUCTIVE PROGRAMME (built through 1934–39, full list = 1941 pamphlet):
-  khadi + village industries | untouchability removal | prohibition
-  village sanitation | Nai Talim 1937 | women | Hindustani | kisan/labour/adivasi work
-
-BRIDGE TO WWII (still Gandhian era; continuity picks up in Topic 14):
-  August Offer 8 Aug 1940 (Linlithgow; dominion-after-war + minority veto) → rejected
-  Individual Satyagraha Oct 1940 (Vinoba first; symbolic, not mass)
-  → Cripps 1942 / Quit India 1942 = full cards in Topic 14
-
-CHRONOLOGY:
-  2025 Q7: G-I Pact → 2nd RTC → Poona Pact → End CDM  =  3, 4, 1, 2
-  2021 Q28: Simon → Nehru Report → Sharda → Dandi     =  III, II, I, IV
-  2019 Q20: Mehta 1915 → Jallianwala → Simon → Dandi  =  IV, II, I, III
-  2019 Q94: CDM → Irwin → Poona → Cripps              =  IV, II, I, III
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -88,8 +72,6 @@ CHRONOLOGY:
 | Chauri Chaura | Dandi | 1922 NCM withdrawal vs 1930 CDM launch | चौरी चौरा / दांडी |
 | August Offer 1940 | Cripps Mission 1942 | Linlithgow's dominion-after-war + minority veto vs Cripps's Constituent Assembly + provincial opt-out | अगस्त प्रस्ताव / क्रिप्स मिशन |
 | Individual Satyagraha 1940 | Civil Disobedience 1930–34 | One person at a time, symbolic vs mass nationwide defiance | व्यक्तिगत सत्याग्रह / सविनय अवज्ञा |
-
----
 
 ---
 

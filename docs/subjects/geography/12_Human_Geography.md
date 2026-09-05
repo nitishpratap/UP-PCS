@@ -15,40 +15,34 @@ Human Geography (nature, scope, approaches) | Settlements | Rural vs Urban | Vil
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-SETTLEMENT = organised habitation | Site = local ground | Situation = regional location
-RURAL vs URBAN: rural = primary + low density | Urban = statutory town OR census town
- Census town: ≥5,000 + density ≥400/km² + ≥75% male main workers non-agri
-VILLAGE TYPES: Clustered/nucleated | Semi-clustered | Hamleted | Dispersed
- Clustered = plains + Rajasthan (water) + Bundelkhand/Nagaland (defence) — NOT “Thar = dispersed”
- Hamleted = panna/para/palli/nagla/dhani | Dispersed = Meghalaya, UK, HP, Kerala, NE forests
- Linear = road/river | Factors: physical + caste/ethnic + defence
-TOWN FUNCTIONS: Admin | Industrial | Transport | Commercial | Mining | Garrison | Educational | Religious/tourist
- Size class: I ≥1 lakh | II 50–99k | III 20–49k | IV 10–19k | V 5–9k | VI <5k
- Evolution: Ancient (Varanasi/Prayag/Madurai) | Medieval (Delhi/Agra/Jaipur/Lucknow) | Modern/planned (Chandigarh)
-URBAN SIZE (NCERT/Census 2011): Class I ≥1 lakh (468 towns, ~60% of urban pop)
- Metropolitan = 10 lakh–50 lakh | Mega (NCERT) = >50 lakh / 6 cities | UN megacity = ≥1 crore
- 53 million+ UAs; largest Greater Mumbai; smallest Kota
- 2011 rank: Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad
- UA = town+OG / two towns / city+towns+OG | OG = railway colony, campus, port, cantonment
-SMART CITIES Mission 25 Jun 2015 | 100 cities | MoHUA | SPV
- ABD = retrofit / redevelopment / greenfield + pan-city ICT
- UP Central 10: Lko, Kanpur, Prayagraj, Agra, Varanasi, Aligarh, Bareilly, Jhansi, Moradabad, Saharanpur
- NOT in Central-10: Ghaziabad (2018) | Count = 10 (2020)
- UP State Smart Cities 2019 (7, not Mission-100): Ghaziabad, Meerut, Gorakhpur, Mathura, Ayodhya, Firozabad, Shahjahanpur
- ISAC-2020: Culture Indore | Governance Vadodara | Social Tirupati | Urban env Bhopal
- HG nature: man–environment | Determinism (Ratzel/Semple) | Possibilism (Vidal) | Neo-determinism (Griffith Taylor)
- Branches: population · settlement · economic · social · political · cultural (awareness)
- Best state ISAC-2020 = UP | Best cities Indore + Surat
- HRIDAY (12 cities): UP = Varanasi + Mathura (NOT Prayagraj/Ayodhya)
-SMART VILLAGES / RURBAN: SPMRM launch 21 Feb 2016 (Cabinet 2015) → 2015 pair WRONG (2023)
- MoRD | ~300 clusters | SAGY 2014 | Global Village = transport+communication (McLuhan)
- Rurbanization sociologist (2022) = G.S. Ghurye
-SCHEMES chrono: JNNURM 2005 → Urban Housing Policy 2007 → AMRUT Jun 2015 → Jal Jeevan 2019
- AMRUT 2.0 = 1 Oct 2021
-```
+1. Human geography studies the **man–environment relationship** and the spatial patterns of human life, settlements and economy.
+2. **Environmental determinism** (Ratzel / Semple) says nature controls culture. **Possibilism** (Vidal de la Blache) says humans choose among nature’s options. **Neo-determinism** (Griffith Taylor) is stop-and-go determinism.
+3. **Site** is the local ground of a settlement. **Situation** is its wider regional location relative to routes, resources and other places.
+4. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture. It need not be a municipality.
+5. Rural settlements lean on primary activities and lower density. Urban places are statutory towns or census towns.
+6. Village types are **clustered / nucleated**, **semi-clustered**, **hamleted** and **dispersed**. Clustered villages appear on plains, around Rajasthan water points, and for defence in Bundelkhand / Nagaland — do **not** call the Thar “dispersed by default.”
+7. Dispersed villages typify **Meghalaya, Uttarakhand, Himachal Pradesh, Kerala** and many North-East forest–hill tracts. Hamlet local names include **panna, para, palli, nagla and dhani**.
+8. Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks (Gujarat / Rajasthan cue). Linear villages follow a road, river, canal or coast.
+9. Town functions are classed by the **dominant** job: administrative, industrial, transport, commercial, mining, garrison, educational, religious or tourist.
+10. Class I towns have **≥1 lakh** people (468 towns in 2011 held about **60%** of urban population). Classes II–VI step down from 50–99 thousand to under 5 thousand.
+11. In the standard Indian size ladder, metropolitan cities are **10 lakh–50 lakh** and mega cities are **above 50 lakh** — **six** in 2011. A UN megacity is **≥1 crore**. Do not mix these three thresholds.
+12. 2011 million-plus UA rank starts **Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad**. There were **53** million-plus UAs; the smallest in that set is often keyed as **Kota**. The **2001** order Mumbai > Kolkata > Delhi is a trap for 2011 stems.
+13. An urban agglomeration can be a town with outgrowths, two contiguous towns, or a city with adjoining towns and outgrowths. Outgrowths include railway colonies, campuses, ports and cantonments.
+14. Settlement evolution cues: ancient **Varanasi / Prayag / Madurai**; medieval **Delhi / Agra / Jaipur / Lucknow**; modern planned **Chandigarh** (Le Corbusier). Satellite-town awareness includes Ghaziabad.
+15. The **Smart Cities Mission** launched on **25 June 2015** for **100** cities under **MoHUA**, implemented through an SPV. ABD means area-based development (retrofit / redevelopment / greenfield) plus pan-city ICT.
+16. Uttar Pradesh’s **Central / Mission** Smart City list is **10**: Lucknow, Kanpur, Prayagraj, Agra, Varanasi, Aligarh, Bareilly, Jhansi, Moradabad and Saharanpur. **Ghaziabad is not** in that Central-10.
+17. Uttar Pradesh’s **State Smart Cities (2019)** are seven Nagar Nigams (including Ghaziabad, Meerut, Gorakhpur, Mathura, Ayodhya, Firozabad, Shahjahanpur). State list does not rewrite Mission-100 keys.
+18. ISAC-2020 theme locks: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh**; best cities included Indore and Surat.
+19. **HRIDAY** covers **12** heritage cities. In Uttar Pradesh the pair is **Varanasi and Mathura** — not Prayagraj or Ayodhya.
+20. **SPMRM (Rurban)** was **launched on 21 February 2016** (Cabinet approval 2015). Matching the scheme to **2015** is the classic trap. It is under **MoRD**, not MoHUA.
+21. **Rurbanization** is keyed to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
+22. Scheme chronology: **JNNURM 2005** → Urban Housing Policy **2007** → **AMRUT June 2015** → **Jal Jeevan Mission 2019**. **AMRUT 2.0** is **1 October 2021**. **SAGY** is **2014**.
+23. Smart Cities = **MoHUA**; smart village / Rurban = **MoRD**. Keep the ministries separate.
+24. **Bhopal** is the classic “not on a major river bank” city trap against Agra, Patna or Kolkata.
+25. NCR slice of Uttar Pradesh includes Ghaziabad, Noida, Greater Noida and Meerut for urban–industrial awareness.
+26. Hamleted villages break the main settlement into secondary units (**panna / para / palli / nagla / dhani**); they are a rural pattern, not a separate census-town category.
 
 ---
 
@@ -80,8 +74,6 @@ SCHEMES chrono: JNNURM 2005 → Urban Housing Policy 2007 → AMRUT Jun 2015 →
 | Possibilism | Man chooses within nature (**Vidal de la Blache**) | Determinism | संभावनावाद |
 | Neo-determinism | Stop-and-go determinism (**Griffith Taylor**) | Pure free will | नव-नियतिवाद |
 | Site vs situation | Local ground vs wider regional location | Same thing | स्थल ≠ स्थिति |
-
----
 
 ---
 
@@ -148,7 +140,6 @@ Rural settlement pattern differs for three NCERT reasons.
 
 **NCERT four-fold rural pattern**
 
-
 | Type | Form | Where (India) — match this |
 |------|------|----------------------------|
 | **Clustered / nucleated / agglomerated** | Compact houses; living area **separate** from fields; streets may be rectangular / radial / linear | Fertile **alluvial plains**; also **NE plains**; **Rajasthan** (scarce water → cluster at well/oasis); **Bundelkhand + Nagaland** (defence) |
@@ -194,7 +185,6 @@ Size (Census class) and function are **different** questions.
 - As a city becomes a metropolis, functions intertwine — Mumbai is port + trade + industry + finance together.
 
 **Census size classes (2011)**
-
 
 | Class | Population | 2011 lock |
 |-------|------------|-----------|
@@ -460,42 +450,10 @@ D. Herbert Spencer
 | NCR (UP slice) | Ghaziabad, Noida, Greater Noida, Meerut |
 | Million+ years / UA order | |
 
----
-
-## Consolidated — 24 Must-Score Locks
-
-1. Human geography = man–environment relationship and spatial human patterns.
-2. Determinism = **Ratzel / Semple**; Possibilism = **Vidal**; Neo-determinism = **Griffith Taylor**.
-3. Site = local ground; situation = wider regional location.
-4. Census town = **5,000 + 400/km² + 75%** male main non-agri.
-5. Clustered = plains **and** Rajasthan (water) **and** Bundelkhand/Nagaland (defence). Dispersed = Meghalaya/UK/HP/Kerala/NE forests — **not** Thar.
-6. Hamlet names = **panna, para, palli, nagla, dhani**.
-7. Class I = **≥1 lakh** (468; ~60% urban pop). Metro (NCERT) = **10–50 lakh**. Mega (NCERT) = **>50 lakh, six cities**. UN megacity = **1 crore**.
-8. Functions: admin / industry / transport / mining / garrison / religious — by **dominant** job.
-9. Smart Cities Mission **25 Jun 2015**, **100** cities, MoHUA, SPV.
-10. UP Central Smart Cities = **10**; **Ghaziabad out** of that 10.
-11. ISAC-2020: Indore culture, Vadodara governance, Tirupati social, Bhopal environment; best state **UP**.
-12. HRIDAY in UP = **Varanasi + Mathura** (12 cities nationally).
-13. SPMRM **launched 2016**; 2015 match is the 2023 trap.
-14. Rurbanization (that MCQ) = **G.S. Ghurye**; Global Village = **transport + communication**.
-15. JNNURM **2005** → Housing Policy **2007** → AMRUT **2015** → JJM **2019**.
-16. SAGY **2014**; AMRUT 2.0 **1 Oct 2021**.
-17. UA = three combinations; OG = railway colony / campus / port / cantonment.
-18. 2011 rank **Mumbai > Delhi > Kolkata > Chennai**; 53 million+; smallest Kota; Bhopal ≠ river bank.
-19. Ancient Varanasi/Prayag/Patna/Madurai; medieval Lucknow/Agra; planned Chandigarh (Le Corbusier); satellite Ghaziabad.
-20. Smart village scheme = **MoRD**; Smart Cities = **MoHUA**.
-21. ABD = retrofit / redevelopment / greenfield + pan-city ICT.
-22. Semi-clustered = dominant caste centre; lower strata on flanks (GJ/RJ cue).
-23. Linear village follows road / river / canal / coast.
-24. Teach full settlement map — next year may ask nature/scope or factors even if recent papers emphasised missions.
-
----
-
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.  
 > **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard coaching angles)
-
 
 **Q1.** With reference to a census town in India, which of the following statements is/are correct?
 
@@ -1664,7 +1622,6 @@ D. Only megacities
 </details>
 
 ---
-
 
 **Q61.** Environmental determinism in human geography is most closely associated with:
 

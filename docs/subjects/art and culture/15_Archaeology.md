@@ -15,27 +15,38 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-ARCHAEOLOGY: material remains | stratigraphy (lower = older) | C-14 organic only | TL pottery
-ASI 1861 Cunningham first DG | Culture ministry | AMASR 1958 licence to dig
-IVC CHAIN: Cunningham seal 1853 → Sahni Harappa 1921 → Banerji Mohenjo-daro 1922 → Marshall announces 1924 → Wheeler grid 1946
-DIG: vertical = time | horizontal = plan | Wheeler box-grid + balks
-IVC GEO: Harappa PK Punjab | Mohenjo-daro Sindh | Dholavira+Lothal GJ | Kalibangan RJ | Rakhigarhi HR (largest, NOT UP)
-UP IVC: Alamgirpur easternmost Meerut | Mandi | Hulas Saharanpur | Santhali Bijnor
-2025 Q87: Mandi + Hulas = UP | Rakhigarhi = Haryana
-2023 EAST: Alamgirpur | 2020 MATCH: Balu HR | Manda J&K | Padri GJ | Hulas UP
-BOATS: Mohenjo-daro + Lothal
-PREHISTORIC 2023: Nevasa MH | Isampur KA | Didwana RJ | Gudiyam TN
-BHIMBETKA: Wakankar 1957, MP, not Harappan
-SANAULI: Baghpat UP, 2018 OCP/chariot | not easternmost
-```
+1. **Archaeology** studies material remains through excavation and dating. **History** builds narrative mainly from written sources. The two work together but are not the same method.
+2. **Stratigraphy** uses the law of superposition: a lower undisturbed layer is older. **Typology** compares artefact styles across sites.
+3. **Vertical** excavation reads time sequence. **Horizontal** excavation reads one-period layout. Wheeler’s **box-grid** kept **balks** between squares.
+4. **Radiocarbon (C-14)** dates **organic** carbon only. It does not date a stone seal directly. **Thermoluminescence** dates fired clay or brick.
+5. **ASI** began in **1861** with **Alexander Cunningham** as first Director General. It sits under the Culture ministry. Digging needs licence under **AMASR 1958**.
+6. Indus discovery chain: Cunningham notes a seal in **1853** → **Daya Ram Sahni** excavates **Harappa** in **1921** → **R. D. Banerji** excavates **Mohenjo-daro** in **1922** → **John Marshall** announces the civilisation in **1924** → **Wheeler** brings scientific grid methods in **1946**.
+7. Do not swap excavators: **Sahni = Harappa**, **Banerji = Mohenjo-daro**. Marshall announces; Wheeler reforms method.
+8. Indus geography: Harappa (Pakistan Punjab), Mohenjo-daro (Sindh), **Dholavira** and **Lothal** (Gujarat), **Kalibangan** (Rajasthan), **Rakhigarhi** (Haryana, largest in India, **not UP**).
+9. Uttar Pradesh Indus sites: **Alamgirpur** (easternmost, Meerut), **Mandi**, **Hulas** (Saharanpur belt), and **Santhali** (Bijnor).
+10. **Mandi** and **Hulas** are UP. **Rakhigarhi** is Haryana. That state split is a standing prelims trap.
+11. Match lock: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
+12. Boat / dock evidence is linked to **Mohenjo-daro** and **Lothal**. **Lothal** is the dockyard lock; **Dholavira** is reservoirs and the signboard lock.
+13. Prehistoric match locks include **Nevasa** (Maharashtra), **Isampur** (Karnataka), **Didwana** (Rajasthan), and **Gudiyam** (Tamil Nadu).
+14. **Bhimbetka** was identified by **V. S. Wakankar** in **1957** in **Madhya Pradesh**. It is prehistoric rock shelter art, not a Harappan city.
+15. **Sanauli** in **Baghpat, UP**, excavated around **2018**, is the late Harappan / OCP **chariot** site. It is not the easternmost Indus city.
+16. Early historic UP sites include **Sarnath**, **Hastinapur**, **Kaushambi**, **Ahichhatra**, and **Shravasti**.
+17. Prehistoric UP belt locks include the **Belan valley**, **Sarai Nahar Rai**, and **Mahadaha**.
+18. **In-situ** conservation keeps remains on the mound. **Ex-situ** moves objects to a museum. Both appear in heritage management stems.
+19. **BSIP Lucknow** is named for aDNA work linked to recent Rakhigarhi skeletal study. The bones themselves are from **Haryana**, not from a UP Indus city.
+20. Excavator spine: Cunningham (seal / ASI), Sahni (Harappa), Banerji (Mohenjo-daro), Marshall (announcement / mass dig), Wheeler (1946 grid), Wakankar (Bhimbetka), **S. R. Rao** (Lothal), **R. S. Bisht** (Dholavira), **B. B. Lal** (Kalibangan–Hastinapur).
+21. **Manda** is a northern Indus outpost in Jammu & Kashmir. It is **not** the eastern boundary site; that eastern lock is **Alamgirpur**.
+22. Archaeology dates by layers and materials. A stone seal needs associated organic samples or other methods; bare C-14 on stone is a false option.
+23. **Harappa** and **Mohenjo-daro** are the twin discovery cities of the 1920s. Later famous Indian sites fill the Gujarat–Rajasthan–Haryana–UP map.
+24. **Kalibangan** is famous for the ploughed field and fire altars in Rajasthan. Do not place Kalibangan in Uttar Pradesh.
+25. **Dholavira** is a Gujarat Harappan city with water systems and a signboard. **Lothal** is the dockyard city of Gujarat. Keep both in Gujarat, not in UP.
+26. Rakhigarhi remains Haryana even when laboratories in Lucknow or Kolkata study its bones. Lab location does not move the site’s state.
 
-- Rakhigarhi ≠ UP. Manda ≠ eastern boundary.
-- Sahni ≠ Mohenjo-daro. Banerji ≠ Harappa.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -328,23 +339,6 @@ D. III, IV
 - **Fatehpur Sikri** is UP medieval urban archaeology. **Hampi** is Karnataka.
 
 > **Exam note:** **Mandi + Hulas + Alamgirpur = UP**. **Rakhigarhi = Haryana**. **Eastern edge = Alamgirpur**, not Manda.
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- IVC: **Alamgirpur** (easternmost), **Mandi**, **Hulas**, **Santhali**.
-- Not UP: **Rakhigarhi** (Haryana), **Balu** (Haryana), **Manda** (J&K), **Padri** (Gujarat), Lothal, Dholavira, Kalibangan.
-- **Sanauli** (Baghpat) is the 2018 chariot site.
-- Early historic: Sarnath, Hastinapur, Kaushambi, Ahichhatra, Shravasti.
-- Prehistoric: Belan valley, Sarai Nahar Rai, Mahadaha.
-- **BSIP Lucknow** is the aDNA lab named in the 2026 Rakhigarhi transfer. The bones themselves are from **Haryana**.
-
-**Excavator spine (once)**
-
-- Cunningham 1853 seal / 1861 ASI · Sahni 1921 Harappa · Banerji 1922 Mohenjo-daro · Marshall 1924–31 · Wheeler 1946 · Wakankar 1957 Bhimbetka · Rao Lothal · Bisht Dholavira · Lal Kalibangan–Hastinapur.
 
 ---
 

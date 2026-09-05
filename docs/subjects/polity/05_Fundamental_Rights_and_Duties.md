@@ -18,38 +18,38 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-PART III (12–35) justiciable | 7 groups → 6 (property out — 44th)
-12 State | 13 void laws (+doctrines) | 14 exceptions Art 361
-
-EQUALITY 14–18:
-  14 any person (no-arbitrariness Maneka) | 15/16 citizens
-  15(4)=1st | 15(5)=93rd | 15(6)/16(6)=103rd | 16(4A)77th 16(4B)81st 85th
-  17 Untouchability | 18 titles (Bharat Ratna ≠ title)
-
-FREEDOM 19 (citizens) SIX (f property deleted 44th): a speech b assembly
-  c association(+co-ops 97th) d movement e residence g profession | 19(2)–(6)
-
-20 ALL: no ex post facto · double jeopardy · self-incrimination (torture≠20)
-21 life/liberty — Maneka fair-just-reasonable | Privacy Puttaswamy 2017 | 21A 86th 6–14
-22 arrest 24hr + PD (Board 3 months) | 23 begar/traffic | 24 child<14
-
-RELIGION 25–28: 25 propagate | 26 manage | 27 no TAX for religion | 28 instruction
-29 any section (culture) | 30 minorities institutions (undefined; T.M.A. Pai)
-
-REMEDIES: 32 SC FR-only (heart & soul) | 226 HC wider | 5 writs
-  HC/HabeasCorpus even vs private | Mandamus not vs President/Governor
-  Prohibition=before | Certiorari=after | QuoWarranto=public office
-300A property = legal right (44th) | 358 only Art 19 | 359 not 20&21
-
-DPSP IV (36–51, Ireland, non-justiciable 37): Socialist/Gandhian/Liberal
-  39A legal aid | 40 panchayat | 43A workers | 43B co-op | 44 UCC | 45 <6
-  46 SC/ST | 47 prohibition | 48 cattle | 48A environ | 49 monuments | 50 sep judiciary | 51 peace
-
-DUTIES IVA 51A (42nd; 10→11 by 86th; citizens): a–k | 51A(g) environ = also 48A
-```
+1. **Part III (Articles 12–35)** holds Fundamental Rights. They are **justiciable**. Originally there were **seven** groups; after the **44th Amendment (1978)** removed the Right to Property, **six** groups remain.
+2. **Article 12** defines **State** for Part III (Union and State governments and legislatures, local authorities, and other authorities under the instrumentality test).
+3. Rights available only to **citizens**: **Articles 15, 16, 19, 29 and 30**. Rights available to **all persons** (citizens and foreigners): **14, 20, 21, 21A, 22, 23, 24, 25–28 and 32**.
+4. **Article 14** (equality before law / equal protection) covers **any person**. **Article 16** (equality of opportunity in public employment) covers **citizens only**.
+5. Reservation / special-provision locks: **15(4)** is the first explicit special provision; **15(5)** is the **93rd**; **15(6) / 16(6)** are the **103rd** (EWS). Promotion locks include **16(4A)** (**77th**) and **16(4B)** (**81st** / related **85th** teaching).
+6. **Article 17** abolishes **untouchability** (absolute equality lock). **Article 18** bans titles; national awards such as **Bharat Ratna** are **not** “titles” in that sense.
+7. **Article 19** gives **six** freedoms to **citizens**. The old property freedom **19(1)(f)** was deleted by the **44th**; property now sits as a **legal right** under **Article 300A**.
+8. The six freedoms are speech and expression, assembly, association (cooperatives reinforced by the **97th**), movement, residence, and profession — each with reasonable restrictions under **19(2)–(6)**.
+9. **Article 20** protects **all persons** against ex post facto criminal law, double jeopardy, and self-incrimination. Torture and privacy questions are **not** solved only by Article 20.
+10. **Article 21** protects life and personal liberty for **all persons**. After *Maneka Gandhi*, procedure must be **fair, just and reasonable**. **Privacy** was locked as a Fundamental Right in ***Puttaswamy* (2017)**.
+11. **Article 21A** (Right to Education) covers free and compulsory education for ages **6–14**, inserted by the **86th Amendment**. Do not stretch 21A to every age group.
+12. **Article 22**: ordinary arrest needs production before a magistrate within **24 hours**. Preventive detention has a separate code (Advisory Board and three-month rhythm in the usual teaching).
+13. **Articles 23–24** are rights against **exploitation** (begar, trafficking, child labour under 14 in hazardous work). Do not park untouchability here — that is **Article 17** under equality.
+14. Religion cluster **25–28**: **25** includes the right to **propagate**; **26** is to manage religious affairs; **27** bars a **tax** for promotion of a religion (a regulatory **fee** is different); **28** covers religious instruction in certain institutions.
+15. **Article 29** protects culture of **any section** of citizens. **Article 30** protects **minorities**’ right to establish and administer educational institutions. “Minority” is not exhaustively defined in the text (*T.M.A. Pai* line).
+16. **Article 32** is the Supreme Court writ remedy for **Fundamental Rights only** — Ambedkar’s “heart and soul.” **Article 226** is **wider**: Fundamental Rights **plus** other legal rights.
+17. Five writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto. **Prohibition** comes **before** the decision; **Certiorari** comes **after** to quash. Mandamus does **not** run against the President or a Governor in the usual lock.
+18. High Court Habeas Corpus can reach even a **private** person in the classic teaching. Quo Warranto tests illegal occupation of a **public office**.
+19. Under a National Emergency, **Article 358** automatically suspends **Article 19** freedoms (subject to later refinements). **Article 359** can suspend enforcement of other rights by order, but **Articles 20 and 21** cannot be suspended.
+20. **DPSP** sit in **Part IV (Articles 36–51)**, borrowed in form from **Ireland**, and are **non-justiciable** (**Article 37**) though fundamental in governance.
+21. High-yield DPSP map: **39A** legal aid; **40** village panchayats; **43A** workers’ participation; **43B** cooperatives (**97th**); **44** Uniform Civil Code; **45** early childhood care (under-6 after 86th shift); **48A** environment; **50** separation of judiciary; **51** international peace.
+22. Do not swap **43A** (workers) with **43B** (cooperatives), or **48** (cattle / agriculture) with **50** (separation of judiciary).
+23. **Fundamental Duties** sit in **Part IVA, Article 51A**, added by the **42nd Amendment (1976)** — originally **10**, raised to **11** by the **86th** (**51A(k)** education of child). Duties bind **citizens**.
+24. **Article 51A(g)** (protect environment) pairs with DPSP **48A** — same idea in two Parts.
+25. Fundamental Rights are justiciable (USA-style Bill of Rights form); DPSP are non-justiciable (Ireland-style directives). Conflict cases later balanced them without erasing either Part.
+26. **Article 13** voids inconsistent laws. Constitutional amendments sit outside via **13(4)** after the **24th Amendment**. Doctrines: eclipse, severability, and generally **no waiver** of Fundamental Rights.
+27. Exceptions to equality include **Article 361** immunities of the President and Governors — Article 14 does not apply fully to those official-act shields.
+28. S. Radhakrishnan’s Constituent Assembly line: Fundamental Rights are “a **pledge** to our people and a **pact** with the civilized world.”
+29. Some rights (notably **17, 23, 24**) also bind private persons; most Part III rights primarily bind the **State** under Article 12.
+30. Property is **not** a Fundamental Right after the 44th; it is a **constitutional legal right** under **300A** — State can deprive only by authority of law.
 
 ---
 

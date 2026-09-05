@@ -15,28 +15,36 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-ROOTS: Samaveda chant | Natyashastra Bharata | Sangeet Ratnakar Sharngadeva | first "raga" word = Matanga Brihaddeshi
-SANGEET = gita + vadya + nritya
-7 SWARA: Sa Re Ga Ma Pa Dha Ni | 22 shruti
-HINDUSTANI: north, khayal/dhrupad, tabla/pakhawaj, gharana, time-theory
-CARNATIC: south, kriti, 72 melakarta, mridangam, Trinity
-FORMS: Dhrupad oldest+pakhawaj | Khayal dominant+tabla | Thumri light | Tappa = Muhammad Shah | Tarana syllables | Qawwali Khusrau
-TRINITY: Tyagaraja Telugu Rama | Dikshitar Sanskrit | Syama Sastri Devi
-TEXTS: Ragamala Pundrik Vitthal | Rasa Kaumudi Sri Kantha | Raga Vibodh Somanath | Chaturdandi Venkatamakhin
-GHARANA: Gwalior oldest khayal | Agra UP | Kirana Bhimsen | Patiala Bade Ghulam | Jaipur-Atrauli Kishori | Maihar Allauddin
-VADYA: Tata string | Vitat bowed | Sushira wind | Avanaddha membrane | Ghana solid
-TANSEN: dhrupad, Akbar Navaratna, earlier Raja Ramchandra of Bhata/Rewa
-UP: Bismillah shehnai Varanasi | Begum Akhtar Faizabad | Kirana+Agra gharanas | thumri Lucknow–Banaras
-```
+1. **Sangeet** means **gita** (vocal) + **vadya** (instrumental) + **nritya** (dance). The earliest chant lock is the **Samaveda**.
+2. Theory roots are **Natyashastra** by **Bharata Muni** and the first clear use of the word **raga** in **Matanga**’s *Brihaddeshi*.
+3. The medieval encyclopedia is **Sangeet Ratnakar** by **Sharngadeva** (**13th** century, Devagiri).
+4. There are **seven** swaras (**Sa Re Ga Ma Pa Dha Ni**) and traditionally **22** shrutis in an octave.
+5. **Hindustani** is the north Indian system of khayal / dhrupad, tabla / pakhawaj, and gharanas. **Carnatic** is the south Indian system of kriti, **72** melakarta, and mridangam.
+6. **Dhrupad** is the oldest surviving classical form and uses **pakhawaj**. **Khayal** is dominant today and uses **tabla**.
+7. **Thumri** is light romantic song of the Awadh–Banaras belt. **Tappa** has camel-song origin and is linked with **Muhammad Shah**’s court, not Akbar.
+8. **Tarana** uses nonsense syllables. **Qawwali** is linked with **Amir Khusrau** at Nizamuddin’s circle.
+9. The Carnatic Trinity is **Tyagaraja** (Telugu Rama kritis), **Muthuswami Dikshitar** (Sanskrit), and **Syama Sastri** (Devi kritis). They are not Tansen’s line.
+10. Treatise match locks are **Ragamala–Pundrik Vitthal**, **Rasa Kaumudi–Sri Kantha**, **Raga Vibodh–Somanath**, and **Chaturdandi Prakashika–Venkatamakhin**.
+11. **Gwalior** is the oldest khayal gharana. **Agra** gharana is of Agra city in UP. **Kirana** gharana is of Kirana village in the western UP belt.
+12. **Patiala** locks **Bade Ghulam Ali Khan**. **Jaipur–Atrauli** locks **Kishori Amonkar**. **Maihar** locks **Allauddin Khan** and is in **Madhya Pradesh**, not UP.
+13. **Kirana** is strongly linked with **Bhimsen Joshi**. Do not place Maihar or Tyagaraja Aradhana inside UP.
+14. Instrument families are **tata** (plucked string), **vitat** (bowed string), **sushira** (wind), **avanaddha** (membrane), and **ghana** (solid / idiophone).
+15. **Tabla** pairs with khayal and thumri. **Pakhawaj** pairs with dhrupad. **Mridangam** is the Carnatic primary drum.
+16. **Shehnai** is the Hindustani reed of Banaras. **Nadaswaram** is the Carnatic temple reed.
+17. **Tansen** was a dhrupad master of Akbar’s Navaratna, earlier at the court of Raja Ramchandra of Bhata / Rewa. He is not part of the Carnatic Trinity.
+18. UP musician locks include **Bismillah Khan** (shehnai, Varanasi), **Begum Akhtar** (Faizabad / Lucknow), and **Girija Devi** (Banaras thumri).
+19. UP light-classical geography locks **thumri** of Lucknow–Banaras and **Kajri** of Mirzapur–Banaras. **Swami Haridas** belongs to Vrindavan.
+20. **Sangeet Natak Akademi** was founded in **1952** at New Delhi as the apex body for music, dance, and theatre.
+21. Bharat Ratna musician years lock as **M.S. Subbulakshmi 1998**, **Ravi Shankar 1999**, **Bismillah Khan 2001**, and **Bhimsen Joshi 2008**.
+22. A **raga** is a melody framework. A **tala** is a beat-cycle. **Teental** is **16** beats. Carnatic **Adi tala** is **8**.
+23. Vedic chanting is UNESCO ICH **2008**. Manipuri **Sankirtana** is UNESCO ICH **2013**.
+24. Tansen Samaroh is held at **Gwalior, Madhya Pradesh**. It is not a UP festival lock.
 
-- Tansen ≠ Carnatic Trinity.
-- Mridangam ≠ tabla.
-- Tappa ≠ Akbar.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -354,28 +362,6 @@ D. Muzaffar Shah of Gujarat
 **Ans: A — Raja Ramchandra Singh of Bhata** (Rewa).
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- **Agra gharana** is Agra city.
-- **Kirana gharana** is Kirana village (western UP belt).
-- **Banaras / Lucknow thumri** is a UP lock. **Kajri** is Mirzapur–Banaras.
-- **Bismillah Khan** is shehnai, Varanasi.
-- **Begum Akhtar** is Faizabad / Lucknow ghazal.
-- **Girija Devi** is Banaras thumri.
-- **Swami Haridas** is Vrindavan.
-- These are **not UP:** Tansen Samaroh (Gwalior, **MP**). Tyagaraja Aradhana (TN). Maihar (**MP**).
-
-**Bharat Ratna musicians**
-
-- **M.S. Subbulakshmi** received Bharat Ratna in **1998** (first musician).
-- **Ravi Shankar** received Bharat Ratna in **1999**.
-- **Bismillah Khan** received Bharat Ratna in **2001**.
-- **Bhimsen Joshi** received Bharat Ratna in **2008**.
 
 ---
 

@@ -15,20 +15,36 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-SNA 8 (not 7, not Chhau): Bharatanatyam TN | Kathak North/UP | Kathakali Kerala | Kuchipudi AP | Mohiniyattam Kerala | Odissi Odisha | Manipuri Manipur | Sattriya Assam 2000
-MARKERS: BN araimandi/sadir | Kathak chakkar+tatkar | Kathakali chutti/pacha | Kuchipudi tarangam plate | Mohini lasya white-gold | Odissi tribhangi | Manipuri Ras Lila | Sattriya Sankaradeva satra
-KERALA PAIR: Kathakali male tandava ≠ Mohiniyattam female lasya
-KATHAK GHARANA: Lucknow (Wajid Ali Shah, Birju) | Jaipur | Banaras
-MUSIC: BN/Kuchipudi/Mohini = Carnatic | Kathak = Hindustani
-FOLK ≠ CLASSICAL: Garba UNESCO 2023 | Kalbelia 2010 | Chhau 2010 | Bhangra | Lavani | Bihu
-UP: Lucknow Kathak | Braj Raslila (folk, not Manipuri) | Charkula | Chholiya Kumaon | Tharu Terai
-TRAP: Kathak dance ≠ Kathaka Shukla Yajurveda samhita
-```
+1. Sangeet Natak Akademi recognises **eight** classical dances. **Sattriya** of Assam was added in **2000**. A paper that says seven has dropped Sattriya.
+2. **Chhau** is **not** in the SNA eight. It is UNESCO intangible / martial-folk, even if some notes call it a ninth style.
+3. The eight state locks are Bharatanatyam–**Tamil Nadu**, Kathak–**North / UP**, Kathakali–**Kerala**, Kuchipudi–**Andhra Pradesh**, Mohiniyattam–**Kerala**, Odissi–**Odisha**, Manipuri–**Manipur**, and Sattriya–**Assam**.
+4. The root text is **Natyashastra** by **Bharata Muni**, with **nine** rasas and four abhinaya: angika, vachika, aharya, and sattvika.
+5. **Nritta** is pure dance without story. **Nritya** adds expressive abhinaya. **Natya** is dance-drama.
+6. **Lasya** is graceful movement. **Tandava** is vigorous movement. Kerala’s pair is male **Kathakali** tandava versus female **Mohiniyattam** lasya.
+7. **Bharatanatyam** uses the **araimandi** half-sit stance and grew from temple **sadir**. **Rukmini Devi Arundale** and Kalakshetra led the modern stage revival.
+8. **Kathak** is the Hindustani classical dance among the eight. Marker locks are **chakkar** spins and **tatkar** footwork.
+9. Kathak gharanas are **Lucknow** (Wajid Ali Shah, Bindadin, Birju Maharaj), **Jaipur**, and **Banaras**. Lucknow Kathak is the core UP lock.
+10. **Kathakali** of Kerala uses heavy **chutti** makeup and colour codes such as **pacha**. It is dance-drama, not north Indian Kathak.
+11. **Kuchipudi** of Andhra Pradesh is village dance-drama. The plate dance **tarangam** is its famous marker.
+12. **Mohiniyattam** of Kerala is a female solo lasya form in white-and-gold costume. It uses Carnatic music like Bharatanatyam and Kuchipudi.
+13. **Odissi** of Odisha uses the **tribhangi** three-bend posture. Temple **mahari** women and boy **gotipua** dancers feed its tradition.
+14. **Manipuri** classical dance centres on **Ras Lila** of Manipur. UP **Braj Raslila** is a separate folk Krishna play and must not be matched as Manipuri.
+15. **Sattriya** grew in Assam’s **satra** monasteries from **Sankaradeva**. It is the latest of the official eight.
+16. Carnatic-music dances among the eight are Bharatanatyam, Kuchipudi, and Mohiniyattam. Only **Kathak** among the eight uses Hindustani music.
+17. Folk is not classical. High-yield folk / ICH locks include **Garba** of Gujarat (UNESCO **2023**), **Kalbelia** (**2010**), and **Chhau** (**2010**).
+18. Other folk names often asked are **Bhangra**, **Lavani**, and **Bihu**. They are not SNA classical eight.
+19. UP folk dance locks include **Braj Raslila**, **Charkula**, **Mayur**, **Chholiya** of Kumaon, and **Tharu** dances of the Terai.
+20. Do not confuse **Kathak** the dance with **Kathaka**, a priestly reciter tradition linked in some texts with the Shukla Yajurveda.
+21. Revival name locks are **Rukmini Devi** for Bharatanatyam, **Kelucharan Mohapatra** for Odissi, **Birju Maharaj** for Kathak, and **Vallathol** for Kerala Kalamandalam.
+22. **Yamini Krishnamurthy** danced Bharatanatyam and Kuchipudi. She died on **3 August 2024**.
+23. **Abhinaya Darpana** by **Nandikesvara** is the hasta-mudra companion text often asked beside Natyashastra.
+24. Sankirtana of Manipur is UNESCO ICH **2013**. It is music–dance ritual, not a ninth SNA classical dance.
 
-### Confused pairs
+---
+
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -267,30 +283,6 @@ TRAP: Kathak dance ≠ Kathaka Shukla Yajurveda samhita
 - **Buksa / Raji** belongs to the UP–Uttarakhand border. This is a name-lock only.
 
 > **Exam note:** Cheraw belongs to **Mizoram**. Tharu belongs to **UP Terai**. Santhal is not a UP-majority lock.
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- **Lucknow Kathak** is linked to Wajid Ali Shah, Bindadin, and Birju Maharaj.
-- **Banaras Kathak** is a gharana.
-- **Braj Raslila, Charkula, and Mayur** belong to UP.
-- **Tharu** belongs to the Terai.
-- Tansen Samaroh is music (Gwalior) and is **not UP**. Sattriya is Assam. Garba is Gujarat.
-
-**UNESCO dance-related**
-
-- Kalbelia is **2010** and Chhau is **2010**. Sankirtana is **2013**. Garba is **2023**.
-
-**Revival names (one each)**
-
-- Rukmini Devi is linked to Bharatanatyam.
-- Kelucharan Mohapatra is linked to Odissi.
-- Birju Maharaj is linked to Kathak.
-- Vallathol is linked to Kerala Kalamandalam (Kathakali / Mohiniyattam).
-- Sankaradeva is linked to Sattriya (founder, not 20th-c. revival).
 
 ---
 

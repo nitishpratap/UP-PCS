@@ -15,31 +15,40 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-750–1200 CE   Post-Harsha regional kingdoms + samantas (not Delhi Sultanate)
-North         Tripartite: Pala + Pratihara + Rashtrakuta → Kannauj
-South cycle   Pallava → Chalukya → Rashtrakuta → Chola
+1. Early Medieval India runs roughly **750–1200 CE** after Harsha as an age of regional kingdoms and hereditary **samantas**, not the Delhi Sultanate that begins in **1206**.
+2. The **Tripartite Struggle** for **Kannauj** was fought by the **Pala**, **Gurjara-Pratihara**, and **Rashtrakuta** powers — not by the Cholas.
+3. In the south, imperial power rotated **Pallava → Chalukya → Rashtrakuta → Chola**.
+4. The **Pallava** capital was **Kanchi**; the **Pandya** capital was **Madurai**.
+5. Early Chalukyas ruled from **Badami / Vatapi**; later Western Chalukyas ruled from **Kalyani** — do not merge the two seats.
+6. The **Rashtrakuta** capital was **Manyakheta** (Malkhed) in the Deccan.
+7. The imperial **Chola** capital moved from **Thanjavur** to **Gangaikondacholapuram** under Rajendra I.
+8. **Hoysala** power centred on **Halebid / Dvarasamudra**; **Kakatiya** on **Warangal**; **Yadava** on **Devagiri** (later Daulatabad).
+9. Ruler–dynasty locks: **Mahendravarman** was Pallava; **Kadungon** was Pandya; **Amoghavarsha** was Rashtrakuta; **Rajaraja** was Chola.
+10. Temple chronology runs **Shore Temple** (~7th, Pallava Mahabalipuram) → **Brihadishwara** (**1010**, Rajaraja at Thanjavur) → **Gangaikondacholapuram** (~**1025**, Rajendra).
+11. Sena succession order is **Hemant → Vijaya → Ballal → Lakshman**.
+12. Chola administration ran **Mandalam → Valanadu → Nadu → Village**, and the empire had **four** mandalams at its peak.
+13. **Ur** was the ordinary village assembly; **Sabha / Mahasabha** was the Brahmana **agrahara** assembly.
+14. The Chola navy struck **Sri Lanka**, the **Maldives**, and **Kadaram (Kedah)**; **Nagapattinam** was a key port; the Bay of Bengal was called a “**Chola Lake**.”
+15. In the Kannauj contest, **Dharmapala** backed **Chakrayudha**; **Mihir Bhoja** recovered the city (~**836**); **Indra III** sacked it (**915–918**); **Krishna III** pressed again (**963**).
+16. **Gopala** was elected Pala founder; **Dharmapala** founded **Vikramashila**; **Devapala** marked the Pala peak; **Atisha** carried Buddhism toward Tibet.
+17. Pratiharas moved from **Bhinmal** to **Kannauj**; **Nagabhatta I** checked the Arabs; **Mihir Bhoja** took the title **Adivaraha**.
+18. **Mihir Bhoja** (Pratihara, Adivaraha, Kannauj) is not **Bhoja I** of the **Paramaras** at **Dhara** in Malwa.
+19. **Chandelas** held **Khajuraho / Mahoba / Kalinjar** in Bundelkhand; **Paramaras** held **Malwa / Dhara**.
+20. **Gahadavalas** ruled **Kannauj and Banaras** in the 11th–12th century after Pratihara decline.
+21. **Jay Chandra** of the Gahadavalas was killed at **Chandawar** in **1194**.
+22. UP medieval name locks: **Kannauj = Kanyakubja**; **Ayodhya = Saketa**; **Varanasi = Kashi / Avimukta**.
+23. **Mahoba** and **Kalinjar** (Banda district) are the Chandela strongholds in Bundelkhand **UP**.
+24. **Kalachuris** ruled from **Tripuri** in the Chedi / Dahala belt.
+25. **Pulakeshin II** of Badami defeated Harsha and left the **Aihole** prasasti; **Narasimhavarman I** took the title **Vatapikonda**.
+26. The poet **Rajasekhara** lived at the court of Pratihara **Mahipala**.
+27. Do not confuse **Kannauj (UP)** — the north sovereignty prize — with **Kanchi (TN)**, the Pallava capital.
+28. Sena capital under Lakshman Sen is linked with **Nadia**; Pala seats stayed in the Bengal–Bihar belt with only episodic Kannauj holds.
 
-CAPITALS (★★★)
-Pallava Kanchi | Early Chalukya Badami/Vatapi | Western Chalukya Kalyani
-Rashtrakuta Manyakheta | Chola Thanjavur → Gangaikondacholapuram
-Pandya Madurai | Hoysala Halebid/Dvarasamudra | Kakatiya Warangal | Yadava Devagiri
+---
 
-2025 Q121     Mahendravarman→Pallava | Kadungon→Pandya | Amoghavarsha→Rashtrakuta | Rajaraja→Chola
-2019 Q90      Pallava-Kanchi | Pandya-Madura | Yadava-Devagiri | Kakatiya-Warangal
-TEMPLES       Shore (~7th Pallava) → Brihadishwara 1010 (Rajaraja) → Gangaikondacholapuram ~1025 (Rajendra)
-SENA 2024     Hemant → Vijaya → Ballal → Lakshman
-CHOLA ADMIN   Mandalam → Valanadu → Nadu → Village | 4 mandalams at peak | Ur vs Sabha
-NAVY          Sri Lanka, Maldives, Kadaram (Kedah) | Nagapattinam | Bay of Bengal = "Chola Lake"
-TRIPARTITE    Dharmapala + Chakrayudha | Mihir Bhoja recovers (~836) | Indra III sacks 915–918 | Krishna III 963
-PALA          Gopala elected | Dharmapala → Vikramashila | Devapala peak | Atisha → Tibet
-PRATIHARA     Bhinmal → Kannauj | Nagabhatta I vs Arabs | Mihir Bhoja Adivaraha | Rajasekhara at Mahipala
-UP CITIES     Kannauj=Kanyakubja | Ayodhya=Saketa | Varanasi=Kashi/Avimukta | Mahoba/Kalinjar=Chandela
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -808,52 +817,6 @@ D. Madura–Veer Pandya
 - Do not confuse **Kannauj (UP)** with **Kanchi (TN)**.
 
 > **Exam note:** UPPCS likes **Kannauj / Kashi / Ayodhya / Mahoba / Kalinjar** in Rajput–early medieval frames.
-
----
-
-## Consolidated Reference
-
-### Dynasty ↔ Capital (once)
-
-| Dynasty | Capital |
-|---------|---------|
-| Pallava | Kanchi |
-| Early Chalukya | Badami / Vatapi |
-| Western Chalukya | Kalyani |
-| Rashtrakuta | Manyakheta |
-| Chola | Thanjavur → Gangaikondacholapuram |
-| Pandya | Madurai |
-| Pala | Mud-fort / regional Bengal–Bihar seats (Kannauj episodic) |
-| Pratihara | Bhinmal → **Kannauj** |
-| Sena | Nadia (Lakshman) |
-| Paramara | Dhara |
-| Chandela | Khajuraho / Mahoba / Kalinjar |
-| Gahadavala | Kannauj + Banaras |
-| Kalachuri | Tripuri |
-| Hoysala | Halebid / Dvarasamudra |
-| Kakatiya | Warangal |
-| Yadava | Devagiri |
-
-### Ruler chronology (high-yield only)
-
-| Dynasty | Order / peak |
-|---------|----------------|
-| **Sena** | Hemant → Vijaya → Ballal → Lakshman |
-| **Chola imperial rise** | Vijayalaya → Aditya I → Rajaraja I → Rajendra I |
-| **Tripartite Kannauj** | Dharmapala occupies → Mihir Bhoja recovers → Indra III sacks |
-| **Gahadavala** | Chandradeva → Govind Chandra → Jay Chandra (killed 1194) |
-| **Pala peak** | Gopala → Dharmapala → Devapala |
-
-### UP Focus
-
-| Place | Why asked |
-|-------|-----------|
-| **Kannauj** | Tripartite prize; Gahadavala capital; Kanyakubja |
-| **Varanasi / Kashi** | Gahadavala dual capital; sacred centre |
-| **Ayodhya / Saketa** | Medieval name lock |
-| **Mahoba** | Chandela capital (Bundelkhand, UP) |
-| **Kalinjar (Banda)** | Chandela fort vs Ghazni / later powers |
-| **Chandawar** | Jay Chandra killed by Ghori, **1194** |
 
 ---
 

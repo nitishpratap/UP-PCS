@@ -15,38 +15,36 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-FOUNDING
-Guru Nanak 1469–1539 | Nankana Sahib | Ik Onkar | householder, not ascetic-only
-Naam Japna | Kirat Karni | Vand Chakna | Langar + Sangat
-Mardana = disciple (rabab), NOT guru — 2025 Q12 = C (2-3-4-1)
-2025 Q74: Namdev → Kabir → Nanak → Chaitanya = C (3-4-1-2)
-Kabir hymns in Granth; Kabir did NOT found Sikhism
+1. **Guru Nanak (1469–1539)** founded Sikhism on **Ik Onkar**, the householder path, **langar**, and **sangat**.
+2. The ethical triad is **Naam Japna**, **Kirat Karni**, and **Vand Chakna**.
+3. **Mardana** was Nanak's Muslim **rabab** companion and **disciple**, not a Guru.
+4. There are exactly **ten human Gurus** from Nanak to Gobind Singh (**1469–1708**); after that the Granth is eternal.
+5. **Guru Angad** standardised **Gurmukhi**; **Guru Amar Das** made langar firm at **Goindwal**.
+6. **Guru Ram Das** founded the **Amritsar** settlement and its sacred tank.
+7. **Guru Arjan** compiled the **Adi Granth in 1604** and was martyred under **Jahangir in 1606**.
+8. **Guru Hargobind** introduced **miri–piri** and built the **Akal Takht**; he did **not** create the Khalsa.
+9. **Guru Tegh Bahadur** was executed in **Delhi in 1675** under **Aurangzeb**.
+10. **Guru Gobind Singh** founded the **Khalsa at Anandpur on Vaisakhi 1699** with the **Panj Pyare**.
+11. In **1708** at **Nanded (Hazur Sahib)**, Gobind Singh made **Guru Granth Sahib** the eternal Guru; there is **no 11th human Guru**.
+12. **Adi Granth** names the 1604 book; **Guru Granth Sahib** names the same canon as living Guru after 1708.
+13. **Dasam Granth** is a separate corpus linked to Gobind Singh and is **not** the eternal Guru.
+14. **Japji Sahib** of Nanak opens the Granth; hymns of Kabir, Namdev, Ravidas, and Sheikh Farid also appear.
+15. Five Ks are **Kesh, Kangha, Kara, Kachha, and Kirpan**; initiated names are **Singh** and **Kaur**.
+16. Sikh **Khalsa** is the 1699 initiated order; Mughal **Khalsa** means **crown land**.
+17. **Harmandir Sahib** is the spiritual centre; **Akal Takht** is the temporal seat beside it.
+18. At **Bhangani in 1688**, Gobind Singh defeated **Pahari hill rajas** before founding the Khalsa.
+19. **Zafarnama** is Gobind Singh's **Persian** letter to Aurangzeb.
+20. **Kabir did not found Sikhism**; his hymns later entered the Granth.
+21. **Har Krishan**, the child eighth Guru, is remembered for service during a **Delhi** epidemic.
+22. Arjan's martyrdom led to Hargobind's militarisation; Tegh Bahadur's martyrdom led to Gobind Singh and later the Khalsa.
+23. Saint chronology bridge often used in matches: **Namdev → Kabir → Nanak → Chaitanya**.
+24. **Ranjit Singh's Adalat-i-Ala** at Amritsar belongs to the later Sikh Empire, not the Guru period.
 
-TEN GURUS (1469–1708) then Granth eternal
-1 Nanak | 2 Angad (Gurmukhi) | 3 Amar Das (langar, Goindwal)
-4 Ram Das (Amritsar tank) | 5 Arjan (Adi Granth 1604; martyred 1606 Jahangir)
-6 Hargobind (Miri-Piri, Akal Takht) | 7 Har Rai | 8 Har Krishan (child, Delhi)
-9 Tegh Bahadur (martyred 1675 Aurangzeb, Delhi) | 10 Gobind Singh (Khalsa 1699)
+---
 
-GRANTH
-Adi Granth compiled by Arjan 1604 | installed Harmandir Sahib
-Gobind Singh made Guru Granth Sahib eternal Guru 1708 | no 11th human Guru
-Dasam Granth ≠ eternal Guru | Japji opens the Granth (Nanak)
-
-KHALSA
-Vaisakhi 1699 | Anandpur Sahib | Gobind Singh | Panj Pyare
-Five Ks: Kesh Kangha Kara Kachha Kirpan | Singh / Kaur
-Sikh Khalsa ≠ Mughal Khalsa (crown land — 2025 Q95)
-
-GOBIND SINGH
-Born Gobind Rai | Guru from 1675 | Bhangani 1688 vs hill rajas
-Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -247,32 +245,6 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 - Later Sikh polity (Misls, **Ranjit Singh**) is modern-history continuity, not an 11th Guru.
 
 > **Exam note:** Last **human** Guru = **Gobind Singh**. Eternal Guru = **Guru Granth Sahib**.
-
----
-
-## Consolidated Reference
-
-### Date spine
-
-| Year | Lock |
-|------|------|
-| **1469** | Nanak born |
-| **1604** | Adi Granth |
-| **1606** | Arjan martyred (Jahangir) |
-| **1675** | Tegh Bahadur martyred (Aurangzeb) |
-| **1699** | Khalsa, Anandpur |
-| **1708** | Gobind Singh dies; Granth eternal |
-
-### UP / Delhi geography
-
-- Nanak’s travels include the **Banaras–Prayag–Delhi** belt.
-- **Har Krishan** and **Tegh Bahadur** are Delhi-site Gurus (**1664**, **1675**).
-- **Kabir** of Kashi appears in the Granth.
-- That does not move Sikhism’s heartland out of Punjab.
-
-### 2021 bridge
-
-- **2021 Q67:** Ranjit Singh’s **Adalat-i-Ala** = **Amritsar** (Sikh Empire court, not a Guru-period office).
 
 ---
 

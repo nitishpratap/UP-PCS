@@ -14,50 +14,38 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 26 Must-Score Locks
 
-```
-WATER RESOURCES:
-  Oceans ~97.2% | Ice/glaciers ~2% | Groundwater ~0.6% | Rivers ~0.01%
-  Descending (2025 Q88): Oceans > Polar ice > Groundwater > Rivers → 1-3-4-2
-  India: ~4% world freshwater, ~18% population | Per capita ~1400 m³ (stressed)
+1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
+2. India holds roughly **4%** of world freshwater for about **18%** of world population. Per-capita availability around **1400 m³** marks water stress in many readings.
+3. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology, agriculture, and industry.
+4. The **Ministry of Jal Shakti** (**2019**) merged water resources and drinking-water departments.
+5. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu’s mandatory RWH (**2003**) is a state flagship lock. It cuts flood peaks and recharges aquifers.
+6. A **watershed** is land draining to a common outlet. Ridge-to-valley treatment uses contour bunds, check dams, and afforestation. Watersheds collect, store, and release water.
+7. River cleaning spine: **GAP 1985 → Namami Gange 2014** (NMCG under Jal Shakti). **STP** treats domestic sewage; **CETP** treats industrial effluent.
+8. Kanpur is the Ganga tannery pollution lock. **Gomti** is Lucknow’s river — do not put Gomti’s main story on Kanpur.
+9. Wetlands follow **Ramsar 1971**, Wise Use, World Wetlands Day on **2 February**, and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar (Tripura)** and **Sultanpur (Haryana)** are **not** UP.
+10. **CGWB** (Jal Shakti) prepares the Annual Groundwater Quality Report. **CPCB** does **not**. Arsenic is a Ganga-plains risk; fluoride appears in parts of UP and Rajasthan.
+11. **Atal Bhujal Yojana (2019)** is a groundwater management scheme lock.
+12. **Jal Jeevan Mission** launched in **August 2019** for rural household taps (Har Ghar Jal). Do not date JJM as **2014**.
+13. Drinking-water standard lock **IS 10500:2012**: fluoride about **≤1.5 mg/L**, arsenic about **≤0.01 mg/L**, pH about **6.5–8.5**.
+14. Rivers are **not** second after oceans in global freshwater ranking — ice/glaciers are.
+15. CGWB ≠ CPCB on the groundwater quality report.
+16. Namami Gange is **2014**; GAP is **1985**.
+17. IWRM is basin coordination; watershed is the local drainage unit used in ridge-to-valley works.
+18. Aquifer is the underground storage layer; it is not a surface canal.
+19. BOD measures organic pollution strength in water (mg/L) — a quality metric, not a volume share.
+20. Bundelkhand scarcity, Kanpur tanneries, Gomti–Lucknow, and arsenic plains are the UP colour set.
+21. IWMP/Hariyali-type watershed programmes sit in the rural water-conservation toolbox beside RWH.
+22. Wetland conservation is not identical to groundwater recharge, though both appear in water chapters.
+23. JJM is rural tap connectivity; it is not Namami Gange’s river-cleaning mission.
+24. STP vs CETP: domestic vs industrial effluent trains — swap them and consent logic breaks.
+25. National Water Policy priority order starts with **drinking water**, not industry.
+26. World Wetlands Day is **2 February** — keep it distinct from World Water Day messaging if both appear.
 
-IWRM:
-  Dublin Principles 1992 | River basin as planning unit
-  National Water Policy 2012: drinking > ecology > agriculture > industry
-  Ministry of Jal Shakti 2019 (merged WR + drinking water)
+---
 
-RAINWATER HARVESTING:
-  Capture + store/recharge | Rooftop, recharge pits, check dams, johads
-  Tamil Nadu mandatory RWH 2003 | Reduces flood peak + recharges aquifers
-
-WATERSHED:
-  Drainage basin ridge → outlet | Ridge-to-valley treatment
-  Contour bunds, check dams, afforestation | IWMP | Hariyali (2022)
-  Watershed = collects, stores, releases water (2023 Q110)
-
-RIVER CONSERVATION:
-  GAP 1985 → Namami Gange 2014 (NMCG under Jal Shakti)
-  STP = sewage | CETP = industrial | Kanpur = Ganga tanneries | Gomti = Lucknow
-
-WETLANDS:
-  Ramsar 1971 | Wise Use | World Wetlands Day = 2 February
-  Wetland Rules 2017 | UP Ramsar: Sarsai Nawar, Samaspur…
-  NOT UP: Rudrasagar (Tripura), Sultanpur (Haryana) — 2025 Q58
-
-GROUNDWATER:
-  CGWB (Jal Shakti) = Annual Groundwater Quality Report — NOT CPCB (2025 Q70)
-  Atal Bhujal Yojana 2019 | Arsenic (Ganga plains) | Fluoride (parts of UP/RJ)
-
-DRINKING WATER:
-  Jal Jeevan Mission Aug 2019 — Har Ghar Jal | Budget FY 2019–20
-  IS 10500:2012 | Fluoride ≤1.5 mg/L | Arsenic ≤0.01 mg/L | pH 6.5–8.5
-
-TRAPS: Rivers ≠ second after oceans | CGWB ≠ CPCB | JJM = 2019 not 2014
-  Namami = 2014 | GAP = 1985 | Gomti ≠ Kanpur
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -301,20 +289,6 @@ Options: A. 2021–22  B. 2022–23  C. 2020–21  D. 2019–20
 
 ---
 
-## Consolidated Reference
-
-| Theme | Lock |
-|-------|------|
-| World water order | Oceans > Ice > GW > Rivers |
-| Groundwater report | **CGWB** |
-| Ganga cleaning | GAP 1985 → Namami 2014 |
-| Rural taps | JJM 2019 |
-| Watershed definition | Collects, stores, releases |
-| UP Ramsar NOT | Rudrasagar, Sultanpur |
-
-**UP locks:** Bundelkhand scarcity | Kanpur Ganga tanneries | Gomti–Lucknow | Arsenic Ganga plains | UP Ramsar list
-
----
 
 ## Practice Zone
 

@@ -14,26 +14,40 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 28 Must-Score Locks
 
-```
-WPA 1972 = main protected-area law in India
-STRICTNESS (terrestrial WPA): National Park > Wildlife Sanctuary > Conservation/Community Reserve
-WLS (Sec 18): State declares | human use possible with CWLW permission | ~573 India
-NP (Sec 35): strictest WPA PA | no grazing/forestry | boundary change needs Parliament
-BR (UNESCO MAB): Core → Buffer → Transition | 18 India | 13 UNESCO network | NO WPA basis
-  Nokrek = Meghalaya (NOT Manipur) | First = Nilgiri 1986
-Conservation Reserve (Sec 36A, 2002): govt/community forest buffer near PA
-Community Reserve (Sec 36B, 2002): private/community land with voluntary consent
-Tiger Reserve (Sec 38V, 2006): NTCA 2005 | Core + Buffer | 58 TRs | Corbett first 1973
-Elephant Reserve: Project Elephant 1992 | 33 ERs | NO WPA statutory basis
-Marine PA: First Marine NP = Gulf of Kutch, Gujarat (1980) | UP = none (landlocked)
-Ramsar 1971 | India 1982 | ~100 sites India | UP = 12 | NOT in UP: Rudrasagar (Tripura), Sultanpur (Haryana)
-ESZ: EPA 1986 buffer around PA | mining/polluting industry restricted | NOT under WPA
-UP: Dudhwa NP | TRs Dudhwa/Pilibhit/Ranipur | Katarniaghat/Kishanpur WLS | 12 Ramsar sites
-```
+1. The **Wildlife (Protection) Act, 1972** is India’s main protected-area statute.
+2. Terrestrial WPA strictness runs **National Park > Wildlife Sanctuary > Conservation/Community Reserve**.
+3. A **Wildlife Sanctuary** (Section **18**) allows limited human use with **Chief Wildlife Warden** permission.
+4. A **National Park** (Section **35**) is the strictest WPA protected area. Grazing and forestry are largely banned. Boundary change needs **Parliament**.
+5. A **Biosphere Reserve** follows the UNESCO MAB three-zone model: **core → buffer → transition**. It has **no WPA statutory basis**.
+6. India has **18** biosphere reserves; **13** are in the UNESCO network. The first was **Nilgiri (1986)**. **Nokrek** is in **Meghalaya**, not Manipur.
+7. A **Conservation Reserve** (Section **36A**, 2002) is a government/community forest buffer near a protected area.
+8. A **Community Reserve** (Section **36B**, 2002) sits on private or community land with voluntary consent.
+9. A **Tiger Reserve** rests on WPA Section **38V** (2006 path) with **core + buffer** under **NTCA**. India has **58** tiger reserves. **Corbett** was first in **1973**.
+10. An **Elephant Reserve** comes from **Project Elephant (1992)** by executive notification. It has **no WPA statutory basis**. India has about **33** elephant reserves.
+11. India’s first Marine National Park is **Gulf of Kutch, Gujarat (1980)**. Uttar Pradesh has **no marine PA**.
+12. **Ramsar (1971)** marks wetlands of international importance. India joined in **1982**. Uttar Pradesh has **12** Ramsar sites.
+13. **Rudrasagar** is in **Tripura**. **Sultanpur** is in **Haryana**. Neither is an Uttar Pradesh Ramsar site.
+14. An **Eco-Sensitive Zone (ESZ)** is an **EPA 1986** buffer around protected areas that restricts mining and polluting industry. ESZ is **not** a WPA category.
+15. WPA basis yes: National Park, Sanctuary, Tiger Reserve, Conservation Reserve, Community Reserve. WPA basis no: Biosphere Reserve, Elephant Reserve, Ramsar, ESZ.
+16. Uttar Pradesh’s only classic National Park lock is **Dudhwa**.
+17. UP tiger reserves are **Dudhwa, Pilibhit, and Ranipur**.
+18. Important UP sanctuaries include **Katarniaghat, Kishanpur, Nawabganj, and Sur Sarovar**.
+19. UP elephant reserves include **UP ER (2009)** and **Terai ER (2022)**.
+20. UP Ramsar sites include Upper Ganga (Brijghat–Narora), Nawabganj, Parvati Arga, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Haiderpur, Bakhira, Patna, and Shekha Jheel.
+21. Uttar Pradesh has **no natural World Heritage** terrestrial site of the marine/island type used in coastal PA lists.
+22. The **Terai Arc** corridor links Dudhwa–Kishanpur–Katarniaghat toward Nepal.
+23. Tiger Reserves are statutory under WPA; Elephant Reserves are not — that swap is a high-yield trap.
+24. Biosphere Reserve zoning is landscape management under MAB; it is not the same as a National Park notification under Section 35.
+25. Community Reserve is private/community land; Conservation Reserve is mainly government forest buffer — do not reverse Sections **36A/36B**.
+26. ESZ regulates harmful activity around a PA; it does not itself create a new WPA Schedule animal list.
+27. Sanctuary permits regulated use; National Park does not allow the same degree of use — strictness order must stay NP > WLS.
+28. Match “firsts” carefully: first BR = **Nilgiri 1986**; first TR = **Corbett 1973**; first Marine NP = **Gulf of Kutch 1980**.
 
-### Must-Know Term Comparisons
+---
+
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -307,54 +321,6 @@ D. 1 and 2
 - ESZs aim to reduce shock between strict protected cores and surrounding development.
 
 > **Exam note:** ESZ = **EPA 1986**. National Park = **WPA 1972**. Do not swap the two laws.
-
----
-
-## Consolidated Reference — Once Only
-
-### Protected area comparison
-
-| Category | Law | WPA basis? | Human activity |
-|----------|-----|------------|----------------|
-| National Park | WPA Sec 35 | Yes | Largely prohibited |
-| Wildlife Sanctuary | WPA Sec 18 | Yes | Permitted with CWLW approval |
-| Tiger Reserve | WPA Sec 38V | Yes | Core inviolate; buffer regulated |
-| Conservation Reserve | WPA Sec 36A | Yes | Flexible buffer use |
-| Community Reserve | WPA Sec 36B | Yes | Community-managed |
-| Biosphere Reserve | Executive/MAB | No | Zone-dependent |
-| Elephant Reserve | Project Elephant | No | Corridor management |
-| Ramsar Site | Ramsar Convention | No | Wise use allowed |
-| ESZ | EPA 1986 | No | Regulated/prohibited activities |
-
-### UP Ramsar sites (12)
-
-| Site | District |
-|------|----------|
-| Upper Ganga River (Brijghat–Narora) | Multiple |
-| Nawabganj Bird Sanctuary | Unnao |
-| Parvati Arga Bird Sanctuary | Gonda |
-| Saman Bird Sanctuary | Mainpuri |
-| Samaspur Bird Sanctuary | Raebareli |
-| Sandi Bird Sanctuary | Hardoi |
-| Sarsai Nawar Jheel | Etawah |
-| Sur Sarovar (Keetham Lake) | Agra |
-| Haiderpur Wetland | Muzaffarnagar |
-| Bakhira Wildlife Sanctuary | Sant Kabir Nagar |
-| Patna Bird Sanctuary | Etah |
-| Shekha Jheel Bird Sanctuary | Aligarh |
-
-### UP Focus
-
-| Element | Detail |
-|---------|--------|
-| **National Park** | Dudhwa |
-| **Tiger Reserves** | Dudhwa, Pilibhit, Ranipur |
-| **Wildlife Sanctuaries** | Katarniaghat, Kishanpur, Nawabganj, Sur Sarovar |
-| **Elephant Reserves** | UP ER (2009), Terai ER (2022) |
-| **Ramsar** | 12 sites (see table) |
-| **NOT in UP** | Rudrasagar (Tripura), Sultanpur (Haryana) |
-| **Marine PA / natural WH** | None — landlocked |
-| **Corridor** | Terai Arc (Dudhwa–Kishanpur–Katarniaghat) |
 
 ---
 

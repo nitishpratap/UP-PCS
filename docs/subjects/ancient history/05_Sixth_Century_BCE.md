@@ -15,26 +15,40 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-~600–300 BCE | iron | NBPW (not PGW) | second urbanisation | punch-marked silver | no Mauryan empire yet
-Sources: Anguttara Nikaya + Jain Bhagavati | 4 monarchies: Magadha, Kosala, Vatsa, Avanti
-Gana: Vajji (8 clans, Vaishali) | Malla (Kushinagar + Pava) | Asmaka = only south of Vindhyas
+1. The sixth–fourth centuries BCE bring **iron**, **NBPW**, punch-marked silver, and the **second urbanisation**. This is still **before** the Mauryan empire.
+2. Sources for the sixteen mahajanapadas include the Buddhist **Anguttara Nikaya** and the Jain **Bhagavati Sutra**.
+3. The four great monarchies were **Magadha, Kosala, Vatsa, and Avanti**. Republics (**gana-sangha**) include **Vajji** and **Malla**.
+4. **Vajji** was a confederacy of clans with capital **Vaishali**. **Malla** held **Kushinagar** and **Pava**. **Asmaka** was the only mahajanapada **south of the Vindhyas**.
+5. Classic capital matches: **Matsya–Viratnagar**, **Kuru–Indraprastha**, **Surasena–Mathura**, **Asmaka–Potana**.
+6. Early strongest was often **Kashi**. **Anga** was Magadha’s first major bite. **Avanti** survived until the **Shishunaga** conquest.
+7. Eight mahajanapadas touch **Uttar Pradesh**: Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena, and Chedi.
+8. Not UP: **Magadha / Anga / Vajji** are Bihar-centred, **Avanti** is Madhya Pradesh, and **Matsya** is Rajasthan.
+9. UP capital locks: Kashi–**Varanasi**, Kosala–**Ayodhya / Shravasti**, Vatsa–**Kaushambi**, Kuru–**Hastinapur / Indraprastha**, Panchala–**Ahichchhatra / Kampilya**, Malla–**Kushinagar**, Surasena–**Mathura**, Chedi–Bundelkhand edge.
+10. **Rajagriha / Girivraja** was early Magadha’s hill capital. **Udayin** founded **Pataliputra** at the Ganga–Son junction.
+11. Haryanka order: **Bimbisara** (alliances and **Anga**) → **Ajatashatru** (war on **Vajji**, *rathamusala*) → **Udayin** (Pataliputra).
+12. **Shishunaga** rule took **Avanti**. **Kalashoka** is linked with the **Second Buddhist Council**. The last Shishunaga is often named **Nandivardhana**.
+13. **Mahapadma Nanda** is remembered as *ekarat / sarvakshatrantaka / ugrasena*. **Dhana Nanda** was the last Nanda, called **Agrammes** by the Greeks.
+14. Greek writers give the Nanda army huge figures (about 2 lakh foot, 20k horse, 2k chariots, 3k elephants). **Alexander never fought** the Nandas.
+15. A **janapada** is clan territory. A **mahajanapada** is one of the sixteen large states of this age.
+16. **Monarchy** means hereditary kingship. **Gana-sangha** means oligarchic clan-council rule, as in Vajji.
+17. **NBPW** (Northern Black Polished Ware) is the deluxe black pottery of mahajanapada / early historic cities. It is **not** Later Vedic **PGW**.
+18. Magadha rose through river trade, iron, elephants, and aggressive conquest from Anga toward Vajji and finally Avanti.
+19. **Champa** was the river-port capital of **Anga**. **Varanasi** was the capital of **Kashi**. Do not swap them.
+20. **Potana** is the Asmaka capital in standard match lists. Later **Pratishthana / Paithan** belongs to Satavahana geography, not the 2020 Asmaka key.
+21. **Kushinagar** and **Pava** are **Malla** towns. Jain **Pavapuri** (Mahavira’s nirvana) is a Magadha-site lock, not the same as Malla Pava in every stem.
+22. Magadha’s expansion wars should be read as Cause → Course → Result: Anga first, then Kosala/Vajji pressure, then Avanti under Shishunaga, then Nanda imperial climax before Mauryas.
+23. Punch-marked **silver** coins and NBPW mark the money-and-city package of second urbanisation.
+24. **Ajatashatru** is the parricide king who broke the Licchavi confederacy. **Bimbisara** is the alliance-builder who took Anga.
+25. The sixteen names are fixed exam furniture; capitals and UP/non-UP sorting decide most prelims marks.
+26. Second urbanisation centres sit on river corridors of the middle Ganga, not on Harappan Indus grids.
+27. After the Nandas comes the Mauryan takeover under **Chandragupta** — that story belongs to the next topic, not this one.
+28. Keep pottery chronology: **PGW** (Later Vedic) then **NBPW** (mahajanapada / early historic). Mixing them is a frequent trap.
 
-2020 Q6: Matsya–Viratnagar | Kuru–Indraprastha | Surasena–Mathura | Asmaka–Potana  =  C 3-4-1-2
-Kashi initially strongest | Anga = first Magadha bite | Avanti lasts till Shishunaga
+---
 
-UP (8): Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena, Chedi
-NOT UP: Magadha/Anga/Vajji = Bihar | Avanti = MP | Matsya = Rajasthan
-
-Haryanka: Bimbisara 544–492 (Anga, 3 marriages) → Ajatashatru (Vajji, rathamusala) → Udayin (Pataliputra)
-Shishunaga: Avanti | Kalashoka = 2nd council | last often Nandivardhana
-Nanda: Mahapadma = ekarat / sarvakshatrantaka / ugrasena → Dhana = Agrammes
-Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander never fought them
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|

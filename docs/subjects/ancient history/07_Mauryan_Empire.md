@@ -15,28 +15,44 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 32 Must-Score Locks
 
-```
-322–185 BCE | Moriya/Pipphalivana (Buddhist) vs Purana “low origin” | Chanakya Taxila vs Dhana Nanda
-Chandragupta 322–297 | Bindusara Amitraghata 297–273 | Ashoka acc. ~272 / coron. 268–232 | Brihadratha ← Pushyamitra 185
-Seleucus ~303: 500 elephants | Megasthenes → Indica (lost; Strabo/Arrian)
-Pliny army: 6 lakh foot, 30k horse, 9k elephants | punch-marked pana | NBPW + ring-wells
-Extent: Kandahar–Bengal, Himalaya–Karnataka | Chola/Pandya/Satiyaputra/Keralaputra = neighbours, not provinces
+1. The Mauryan empire runs about **322–185 BCE**. Buddhist tradition links the clan to **Moriya / Pipphalivana**; some Puranas smear a “low origin.”
+2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata (297–273)** → **Ashoka** (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga** in **185 BCE**.
+3. Chandragupta, guided by **Chanakya / Kautilya**, overthrew the last Nanda (**Dhana Nanda**) and later treaty-settled with **Seleucus** about **303 BCE**.
+4. Seleucus ceded north-west districts and received **500 elephants**. **Megasthenes** came as envoy and wrote the lost *Indica* (known through Strabo and Arrian).
+5. Pliny’s army figures for Chandragupta are huge (about 6 lakh foot, 30k horse, 9k elephants). Money used punch-marked **pana**. Material culture shows **NBPW** and ring-wells.
+6. Empire extent ran from **Kandahar to Bengal** and Himalaya to Karnataka. **Chola, Pandya, Satiyaputra, and Keralaputra** appear as **neighbours**, not Mauryan provinces.
+7. Ashoka’s titles include **Devanampiya Piyadassi**. The personal name **Ashoka** appears at **Maski, Gujarra, Nittur, and Udegolam**.
+8. The **Kalinga war** (about **261 BCE**) is narrated in **Rock Edict XIII** (traditional figures of 1 lakh killed and 1.5 lakh deported). Separate Kalinga edicts at **Dhauli / Jaugada** soften the tone (“all men are my children”).
+9. **Rock Edict XII** teaches **samavaya** — religious concord / synthesis. Do not give that role to RE XIII.
+10. **Dhamma-mahamatras** were appointed in Ashoka’s **14th year** (RE V). Dhamma is ethical **state policy**, not identical with the Buddhist religion he patronised.
+11. The Bhabru edict lists Buddhist texts such as *Laghulovada* for monks. That does **not** mean “Ashoka’s Dhamma is defined as Rahulovada.”
+12. Scripts: **Brahmi** is the main Prakrit script. **Kharoshthi** appears at **Shahbazgarhi** and **Mansehra**. **Greek and Aramaic** appear at **Kandahar**.
+13. The **Sarnath** four-lion capital is India’s **national emblem**. **Ahraura** in Mirzapur is Uttar Pradesh’s own **Minor Rock Edict**.
+14. **Barabar** caves were gifted to **Ajivikas**. Their polish is Mauryan; they are not Ajanta-style Buddhist painted caves.
+15. **Kanaganahalli** preserves a label reading **“Raya Asoka.”** Schism edicts appear at Sarnath and **Kaushambi**.
+16. **Samaharta** **collects** revenue. **Sannidhata** **stores** the treasury (**kosha**). Never reverse collector and storekeeper.
+17. **Rajuka** handled land and justice (pillar edicts). **Dhamma-mahamatras** handled moral and welfare work (RE V).
+18. Provincial princes (**kumara**) are classically posted at **Taxila, Ujjain, Suvarnagiri, and Tosali**. Kashi–Kosala–Vatsa sat in the imperial core, not as a separate kumara province label.
+19. Kautilya’s toolkit locks: **Saptanga** state limbs, **four vidyas**, **four upayas**, **18 tirthas**, and **15 adhikaranas**. Spies are **sanstha** (stationary) and **sanchara** (mobile).
+20. Greek *Agronomai* in Megasthenes match rural **revenue / land** officers. **Pautavadhyaksha** is the weights official — a common wrong option.
+21. Six city boards and six army boards in the Greek account cover crafts, foreigners, census, and military arms. They are parallel lists, not one board doing both jobs.
+22. **Bhaga** is the produce share. **Bali** is an extra or religious levy. Rummindei notes remission of *bali* at Lumbini.
+23. **Sudama** and **Lomas Rishi** are Barabar cells; Lomas Rishi shows the famous horseshoe chaitya-arch facade.
+24. UP Mauryan locks: Ahraura MRE (Mirzapur), Sarnath lions, Allahabad / Kaushambi pillar tradition, Meerut pillar moved by Firoz Shah, and Sankissa elephant capital.
+25. **Bindusara** is remembered as **Amitraghata** (“slayer of foes”) and held the empire between Chandragupta and Ashoka. Greek writers call him Amitrochates.
+26. **Bherighosha** is the war-drum. **Dhammaghosha** is the dhamma-drum of RE IV / XIII — Ashoka’s metaphor for moral conquest.
+27. Major Rock Edicts are the **14**-edict set under the Piyadassi title. Minor Rock Edicts are local; Maski is the name-lock for “Ashoka.”
+28. Pillar Edict V lists protected animals. Rock Edict V creates dhamma-mahamatras. Same number, different medium and content.
+29. Chandragupta Maurya (322 BCE founder) is not **Chandragupta II Vikramaditya** of the Gupta age.
+30. Pushyamitra’s coup in **185 BCE** ends Mauryan rule and begins Shunga power. Post-Ashoka decline had already weakened the periphery.
+31. Kautilya’s *Arthashastra* is the Sanskrit statecraft text. Megasthenes’ *Indica* is the Greek outsider report. Use each for the questions it can answer.
+32. Ashoka’s empire neighbours in the far south stayed independent; edicts speak to them as border peoples, not as conquered Magadhan districts.
 
-Ashoka = Devanampiya Piyadassi | “Ashoka” at Maski/Gujarra/Nittur/Udegolam | Kalinga 261 → RE XIII (1 lakh / 1.5 lakh)
-2022 Q54: synthesis = RE XII | 2024 Q20: Rahulovada definition ✗, mahamatras 14th yr ✓ → Only 2
-2020 Q4: Agronomai = revenue D | 2023 Q29: Vishnu Purana Mauryas ✓, Vayu Gupta governance ✗ → Only 1
-Bhabru lists Laghulovada as a text for monks — that is NOT “Dhamma is taken from Rahulovada”
+---
 
-Scripts: Brahmi | Kharoshthi Shahbazgarhi+Mansehra | Greek+Aramaic Kandahar
-Sarnath 4 lions = emblem | Ahraura (Mirzapur) = UP MRE | Barabar → Ajivikas | Kanaganahalli “Raya Asoka”
-
-Samaharta collects | Sannidhata stores | Rajuka land+justice | Kumara Taxila/Ujjain/Suvarnagiri/Tosali
-Saptanga | 4 vidyas | 4 upayas | 18 tirthas | 15 adhikaranas | spies sanstha + sanchara
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|

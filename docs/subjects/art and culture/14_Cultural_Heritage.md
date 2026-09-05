@@ -15,27 +15,38 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-TANGIBLE = monument/site you can touch | INTANGIBLE = living practice you perform
-1972 World Heritage (sites) | 2003 Intangible (practices) | Ramsar 1971 ≠ WHS
-WHC 21 states inscribe | ICOMOS cultural | IUCN natural | OUV required
-INDIA WHS 45: cultural 37 | natural 7 | mixed 1 (Khangchendzonga Sikkim)
-UP 4: Taj 1983 | Agra Fort 1983 | Fatehpur Sikri 1986 | Sarnath 2026
-NOT UP WHS: Varanasi ghats (Tentative only) | Khajuraho MP | Qutub Delhi
-RECENT: Moidams Assam 2024 | Maratha forts 2025 | Sarnath 2026 | Santiniketan+Hoysala 2023 | Dholavira+Ramappa 2021
-ICH INDIA 16: Kutiyattam 2001★ | Vedic 2003★ | Ramlila 2005★ → all RL 2008 | Yoga 2016 | Kumbh 2017 | Durga Puja 2021 | Garba 2023 | Deepavali 2025
-NOT ICH named: Bharatanatyam | Kathak | Nautanki | Holi
-DAY: World Heritage Day 18 April (ICOMOS)
-```
+1. **Tangible** cultural heritage is a monument or site you can touch. **Intangible** cultural heritage is a living practice or skill you perform.
+2. The World Heritage Convention is **1972** for sites with Outstanding Universal Value. The Intangible Heritage Convention is **2003** for living traditions. **Ramsar 1971** is wetlands, not WHS.
+3. The World Heritage Committee of **21** states decides inscriptions. **ICOMOS** advises on cultural sites. **IUCN** advises on natural sites. **OUV** is required.
+4. India has **45** World Heritage Sites: about **37** cultural, **7** natural, and **1** mixed (**Khangchendzonga**, Sikkim).
+5. Uttar Pradesh has **four** WHS: **Taj Mahal (1983)**, **Agra Fort (1983)**, **Fatehpur Sikri (1986)**, and **Sarnath (2026)**.
+6. **Varanasi ghats** remain on the **Tentative** List only. Do not count them as a fifth UP World Heritage Site.
+7. Recent India inscriptions: **Moidams** (Assam, **2024**), **Maratha Military Landscapes** (**2025**), and **Sarnath** (**2026**). Earlier pair locks include Santiniketan and Hoysala (**2023**) and Dholavira and Ramappa (**2021**).
+8. India has **16** UNESCO ICH elements. Early Masterpiece proclamations were **Kutiyattam 2001**, **Vedic chanting 2003**, and **Ramlila 2005**; all three entered the Representative List in **2008**.
+9. Later ICH locks: **Yoga 2016**, **Kumbh Mela 2017**, **Durga Puja of Kolkata 2021**, **Garba of Gujarat 2023**, and **Deepavali 2025**.
+10. These are **not** named UNESCO ICH elements: **Bharatanatyam**, **Kathak**, **Nautanki**, and **Holi** as a standalone Indian element.
+11. **World Heritage Day** is **18 April** (ICOMOS). The ICH Convention date lock is **17 October 2003**. India ratified ICH in **2005**.
+12. Cultural WHS use criteria **i–vi**. Natural WHS use **vii–x**. Mixed sites need both sets. India has only one mixed site: Khangchendzonga.
+13. The **Representative List** shows living identity. The **Urgent Safeguarding List** is for endangered ICH needing emergency action.
+14. The **Tentative List** is India’s proposed pipeline. The **Inscribed List** is the official World Heritage roll.
+15. An **ASI** monument under AMASR **1958** is national protection. It is **not** automatically a UNESCO World Heritage Site.
+16. **Keoladeo** is both a natural WHS and a Ramsar wetland. Most Ramsar sites are not World Heritage Sites.
+17. **Ramlila (2008)** is the UP-centred ICH performance. **Kumbh (2017)** includes Prayagraj among the four bathing sites.
+18. Lucknow’s **Imambara** and **Residency** are important heritage but **not** World Heritage Sites.
+19. These are outside UP: **Khajuraho**, **Sanchi**, **Bhimbetka**, **Keoladeo**, and **Qutub** (Delhi).
+20. **Sarnath WHS** is the **2026** inscription and UP’s fourth site. **Varanasi ghats** are still Tentative. Do not merge the two.
+21. **Ramlila** is intangible performance heritage. The **Taj Mahal** is tangible tomb heritage from **1983**. Papers love this swap.
+22. Masterpiece proclamation years (**2001 / 2003 / 2005**) are not the same as the common Representative List year **2008** for those three elements.
+23. Convention year order for exams: Ramsar **1971**, World Heritage **1972**, ICH **2003**, India ICH ratification **2005**.
+24. **Deepavali** entered UNESCO ICH on **10 December 2025** as India’s **16th** element. It is intangible festival heritage, not a monument inscription.
+25. **Qutub Minar** is a Delhi WHS, not an Uttar Pradesh site. **Khajuraho** is Madhya Pradesh, not UP.
+26. Tangible vs intangible is the first filter: if you can walk into it as a monument, it is tangible; if you perform it as living culture, it is intangible.
 
-★ = UNESCO Masterpiece proclamation; Representative List year is **2008**.
+---
 
-- ASI-protected is **not** automatically a WHS.
-- Keoladeo is **both** natural WHS and Ramsar. Most Ramsar sites are not WHS.
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -307,23 +318,6 @@ D. Marakesh (Morocco)
 - **Taj Mahal** is a WHS. Putting it on an ICH list is the classic wrong option.
 
 > **Exam note:** **16 elements**. **Deepavali 2025** is in. **Ramlila = UP**. **Garba 2023**. **Bharatanatyam is still not listed**.
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- Four WHS: **Taj Mahal**, **Agra Fort**, **Fatehpur Sikri**, **Sarnath (2026)**.
-- **Varanasi ghats** are Tentative only. Do not count them as a fifth WHS.
-- **Ramlila (2008)** is the UP-centred ICH performance. **Kumbh (2017)** includes Prayagraj.
-- **Nautanki** is not UNESCO ICH.
-- Lucknow’s Imambara and Residency are not WHS.
-- Khajuraho, Sanchi, Bhimbetka and Keoladeo are outside UP.
-
-**Convention years (once)**
-
-- Ramsar **1971** · World Heritage **1972** · ICH **2003** · India ICH ratification **2005**.
 
 ---
 

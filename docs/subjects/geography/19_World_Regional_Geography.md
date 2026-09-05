@@ -20,35 +20,36 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-CONTINENTS (area): Asia > Africa > N America > S America > Antarctica > Europe > Australia/Oceania
-ASIA: largest continent | Japan plains = Nobi + Kanto (NOT Korea)
- S Asia: Nepal/Bhutan landlocked | Maldives/Sri Lanka islands | Kabul = Afghanistan
-WEST ASIA: Sunni Triangle Iraq = Baghdad + Tikrit + Ramadi — NOT Basra (2022)
- Mts W→E: Pontic → Zagros → Hindu Kush → Karakoram (2024)
- Caucasus: Georgia–Armenia–Azerbaijan | Istanbul ≠ capital (Ankara)
-CENTRAL ASIA: UZB Tashkent | TJK Dushanbe | KGZ Bishkek | TKM Ashgabat | KAZ Astana
- Double-landlocked awareness: Uzbekistan · Liechtenstein (Europe)
- Kara Kum = Turkmenistan (2022) | Aral shrinking | Caspian west shore
-SE ASIA: ASEAN 10 | Borneo = ID+MY+BN, NOT volcanic (2022)
- Indonesia W→E: Sumatra → Java → Bali → Lombok (2021)
- Mekong delta = S Vietnam NOT Cambodia | Philippines cane = Spanish+US (2023)
- Jakarta–Indonesia port pair TRUE; Igarka ≠ China (2023)
-KOREA: 38th parallel | Seoul SK | Pyongyang NK | Nobi/Kanto ≠ Korea
-PALESTINE: West Bank + Gaza | Jordan R. / Dead Sea | neighbours IL–JO–EG–LB–SY
-EUROPE: W Europe = westerlies + rain in ALL months (2024 Both)
- Suez cut India–Europe ~7000 km (2018)
-AFRICA: Maghreb Rabat / Algiers / Tunis | Cape Verde = Praia NOT Bamako (2020)
- Horn = ET–SO–ER–DJ | Ethiopia landlocked after Eritrea | Sahel south of Sahara
-N AMERICA: Canada–USA–Mexico | 49th parallel | Central America 7 + Panama Canal
-S AMERICA: Brazil Selva + Terra Roxa | landlocked = Bolivia + Paraguay (2022 Bolivia)
-AUSTRALIA: interior desert TRUE | north ≠ temperate | Darling = SW
- NZ: Wellington capital | North+South Islands | Cook Strait | not a state of Australia
-ANTARCTICA: operational = Maitri + Bharati | Dakshin Gangotri NOT operational (2021)
-CARIBBEAN: Grenada, Montserrat, Anguilla | Madeira = Atlantic Portugal, NOT Caribbean (2021)
-```
+1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
+2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
+3. Iraq’s **Sunni Triangle** is **Baghdad, Tikrit, and Ramadi**. **Basra** (Shia south) is the trap.
+4. West Asia mountains west to east: **Pontic → Zagros → Hindu Kush → Karakoram**.
+5. Central Asia capitals: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**, Kazakhstan **Astana**.
+6. The **Kara Kum** desert is in **Turkmenistan**.
+7. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
+8. Philippines cane and coconut history lock: **Spanish and Americans**.
+9. Korea: **Seoul** south, **Pyongyang** north, roughly the **38th parallel**. Nobi/Kanto are not Korean plains.
+10. Palestine map: **Gaza** on the Egypt side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and Syria.
+11. Western Europe has **westerlies** and rain in **all months**.
+12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
+13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
+14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**.
+15. Brazil locks: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
+16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
+17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational answer.
+18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
+19. Indonesia west to east: **Sumatra → Java → Bali → Lombok**.
+20. The **Mekong** delta is in **southern Vietnam**, not Cambodia.
+21. South America’s landlocked pair is **Bolivia** and **Paraguay**. Uruguay, Peru, and Suriname have coasts.
+22. **Igarka** is in **Russia**, not China.
+23. New Zealand’s capital is **Wellington**. NZ has North and South Islands with **Cook Strait** and is **not** an Australian state.
+24. **Ethiopia** is landlocked after Eritrea’s secession; **Eritrea** holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
+25. Only **double-landlocked** states in common awareness are **Uzbekistan** and **Liechtenstein**.
+26. Capitals that are not the country’s most-famous tourist city: Turkey **Ankara**, Australia **Canberra**, Brazil **Brasília**, UAE **Abu Dhabi**, NZ **Wellington**.
+27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA.
+28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital.
 
 ---
 
@@ -956,39 +957,6 @@ D. Anguilla
 | Myanmar | **Naypyidaw** | Yangon |
 | Bolivia | Sucre / La Paz | — |
 | Netherlands | Amsterdam | Rotterdam (port); The Hague = government/ICJ |
-
----
-
-## Consolidated — 28 Must-Score Locks
-
-1. Nobi + Kanto = **Japan**, not Korea.
-2. Sunni Triangle = Baghdad, Tikrit, Ramadi — **not Basra**.
-3. Mountains W→E: Pontic → Zagros → Hindu Kush → Karakoram.
-4. UZB Tashkent · TJK Dushanbe · KGZ Bishkek · TKM Ashgabat.
-5. Kara Kum = **Turkmenistan**.
-6. Borneo = three countries, not volcanic.
-7. Philippines cane/coconut = **Spanish and Americans**.
-8. Korea: Seoul south, Pyongyang north, ~38°N.
-9. Palestine map: Gaza (Egypt side), West Bank (Jordan side), Dead Sea.
-10. W Europe = westerlies + rain **all months**.
-11. Suez shortened India–Europe by **~7000 km**.
-12. Cape Verde = **Praia**, not Bamako.
-13. Morocco–Rabat, Tunisia–Tunis, Algeria–Algiers.
-14. Brazil: Selva + Terra Roxa both true.
-15. Australia interior = desert; **north = tropical**.
-16. Darling Range = **south-west** Australia.
-17. Antarctica operational = **Maitri + Bharati**.
-18. Madeira ≠ Caribbean.
-19. Indonesia W→E: Sumatra → Java → Bali → Lombok.
-20. Mekong delta = Vietnam, not Cambodia.
-21. S America landlocked = Bolivia (+ Paraguay). Uruguay/Peru/Suriname have coasts.
-22. Igarka = Russia, not China.
-23. Cape Verde = Praia; Bamako = Mali.
-24. NZ capital = Wellington; not an Australian state.
-25. Ethiopia is landlocked; Eritrea has the Red Sea.
-26. Continent area: Asia > Africa > NA > SA > Antarctica > Europe > Australia.
-27. Double-landlocked awareness: Uzbekistan · Liechtenstein.
-28. Capitals ≠ cities: Ankara / Canberra / Brasília / Abu Dhabi / Wellington; 38° Korea · 49° Canada–USA.
 
 ---
 

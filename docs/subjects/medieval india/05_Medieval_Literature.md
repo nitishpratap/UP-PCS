@@ -15,52 +15,40 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-LANGUAGES
-Court = Persian (Sultanate + Mughal) | Baburnama = Chagatai Turki (NOT Persian — 2025 Q3)
-Hindavi = Amir Khusrau bridge | Vernacular = Awadhi/Braj bhakti parallel (Topic 4)
+1. The court language of the Sultanate and Mughal empires was **Persian**; **Baburnama** alone is written in **Chagatai Turki**.
+2. **Tabaqat-i-Nasiri** is by **Minhaj-us-Siraj**; **Tarikh-i-Firoz Shahi** is by **Ziauddin Barani**.
+3. **Tughlaqnama** is by **Barani**, not **Ibn Battuta**; **Rihla** is Ibn Battuta’s travelogue.
+4. **Fatawa-i-Jahandari** is Barani’s political theory text, not a narrative history.
+5. Both **Barani** and **Shams-i-Siraj Afif** wrote works titled **Tarikh-i-Firoz Shahi** for different periods of Firuz’s age.
+6. **Taj-ul-Maasir** is by Hasan Nizami; **Kitab-ul-Hind** is by **Alberuni**.
+7. **Amir Khusrau** wrote **Rag Vibodh**, **Khamsa**, **Nuh Sipihr**, **Miftah-ul-Futuh**, and **Khazain-ul-Futuh**.
+8. **Miftah-ul-Futuh** covers Jalaluddin Khalji; **Khazain-ul-Futuh** covers Alauddin — keep the Khalji pair straight.
+9. Vernacular match locks: **Mulla Daud–Chandayan**; **Damodar Kavi–Padmavati Katha**; **Somnath–Ashiqa**; **Amir Khusrau–Rag Vibodh**.
+10. **Padmavat** is **Malik Muhammad Jaisi’s** Awadhi epic — not Damodar Kavi’s Padmavati Katha.
+11. **Baburnama** = Babur; **Humayunnama** = Gulbadan Begum; **Tuzuk-i-Jahangiri** = Jahangir’s own memoir.
+12. **Akbarnama** is Abul Fazl’s narrative history; **Ain-i-Akbari** is his admin gazetteer, not a biography.
+13. **Padshahnama** = Abdul Hamid Lahori (Shah Jahan); **Muntakhab-ut-Tawarikh** = Badauni, who was critical of Akbar.
+14. Death chronology: **Faizi (1595)** → **Sheikh Mubarak (1597)** → **Abul Fazl murdered (1602)** → **Daniyal (1604)**.
+15. Regional Persian locks: **Mirat-e-Sikandari** = Gujarat; **Burhan-e-Masir** = Ahmadnagar; **Riyaz-us-Salatin** = Bengal; **Riyaz-ul-Insha** = Gawan’s letters.
+16. **Tutinama** is by **Nakhshabi**, not by Amir Khusrau.
+17. **Amir Khusrau** belongs to the Sultanate age; do not place him in the Akbar–Tansen court.
+18. **Alamgirnama** is by Mirza Muhammad Kazim (Aurangzeb); **Futuh-us-Salatin** is by Abdul Malik Isami.
+19. **Fatwa-i-Firuz Shahi** is Firuz Shah’s own regulations — not Barani’s **Fatawa-i-Jahandari**.
+20. **Tarikh** means continuous annals; **tabaqat** means generational “classes” of biographies.
+21. UP literary locks: **Jaisi–Padmavat** and **Mulla Daud–Chandayan** for Awadhi / Hindavi romance.
+22. **Hindavi** bridge literature is especially associated with Amir Khusrau.
+23. **Badauni** stands for hostile historiography; **Abul Fazl** stands for official panegyric under Akbar.
+24. Akbar’s translation peak rendered the Mahabharata (**Razmnama**), Ramayana, and related texts into Persian with Faizi’s circle.
+25. **Gulbadan Begum** is a rare female voice in Mughal prose through **Humayunnama**.
+26. Court Persian ran from **Iltutmish** through **Aurangzeb** as the main administrative literary language.
+27. Vernacular Bhakti poetry of Kabir, Tulsidas, and Surdas ran parallel to Persian court literature.
+28. **Afif** covers later Firuz; Barani’s Tarikh stops earlier — that period split is the double-title trap.
 
-SULTANATE BOOK ↔ AUTHOR (★★★)
-Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani
-Tarikh-i-Firoz Shahi — Ziauddin Barani
-Tughlaqnama — Ziauddin Barani (NOT Ibn Battuta — 2019 Q16)
-Taj-ul-Maasir — Hasan Nizami
-Rag Vibodh — Amir Khusrau (2019 Q88)
-Khamsa, Nuh Sipihr — Amir Khusrau
-Miftah-ul-Futuh — Khusrau (Jalaluddin Khalji) | Khazain-ul-Futuh — Khusrau (Alauddin)
-Fatawa-i-Jahandari — Barani (political theory, NOT history)
-Afif vs Barani — both wrote Tarikh-i-Firoz Shahi (different periods; 2019 Q16 trap)
-Rihla — Ibn Battuta (traveller, NOT historian)
+---
 
-MUGHAL BOOK ↔ AUTHOR
-Baburnama (Tuzk-e-Babri) — Babur (Turki)
-Humayunnama — Gulbadan Begum
-Akbarnama — Abul Fazl (narrative history)
-Ain-i-Akbari — Abul Fazl (admin gazetteer — NOT biography)
-Tuzuk-i-Jahangiri — Jahangir (Persian memoir)
-Padshahnama — Abdul Hamid Lahori (Shah Jahan)
-Muntakhab-ut-Tawarikh — Badauni (critical of Akbar)
-
-VERNACULAR MATCH (2019 Q88 = A 1-3-2-4)
-Mulla Daud — Chandayan | Damodar Kavi — Padmavati Katha
-Somnath — Ashiqa | Amir Khusrau — Rag Vibodh
-Malik Muhammad Jaisi — Padmavat (Awadhi; NOT Damodar's Padmavati Katha)
-
-REGIONAL PERSIAN (2023 Q33 = A 4-2-1-3)
-Mirat-e-Sikandari — Gujarat | Burhan-e-Masir — Ahmadnagar/Bahmani
-Riyaz-us-Salatin — Bengal | Riyaz-ul-Insha — Mahmud Gawan's letters
-
-CHRONOLOGY (2024 Q132 = B 3-2-1-4)
-Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl murdered (1602) → Daniyal (1604)
-
-TRAPS
-Tughlaqnama ≠ Ibn Battuta | Ain-i-Akbari ≠ biography
-Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -561,76 +549,6 @@ D. 4 2 3 1
 | **Futuh-us-Salatin** | **Abdul Malik Isami** | Bahmani / Deccan history |
 | **Alamgirnama** | Mirza Muhammad Kazim | **Aurangzeb** reign chronicle |
 | **Fatwa-i-Firuz Shahi** | **Firuz Shah Tughlaq** | Sultan's own regulations — not Barani's **Fatawa-i-Jahandari** |
-
----
-
-## Consolidated Reference
-
-### Master Book ↔ Author (raata all)
-
-| Book | Author |
-|------|--------|
-| Tabaqat-i-Nasiri | Minhaj-us-Siraj Juzjani |
-| Tarikh-i-Firoz Shahi | Ziauddin Barani |
-| Tughlaqnama | Ziauddin Barani |
-| Fatawa-i-Jahandari | Ziauddin Barani |
-| Tarikh-i-Firoz Shahi (later) | Shams-i-Siraj Afif |
-| Taj-ul-Maasir | Hasan Nizami |
-| Khazain-ul-Futuh / Miftah-ul-Futuh | Amir Khusrau |
-| Rag Vibodh / Khamsa | Amir Khusrau |
-| Kitab-ul-Hind | Alberuni |
-| Rihla | Ibn Battuta |
-| Padmavat | Malik Muhammad Jaisi |
-| Baburnama | Babur (Turki) |
-| Humayunnama | Gulbadan Begum |
-| Akbarnama | Abul Fazl |
-| Ain-i-Akbari | Abul Fazl |
-| Tuzuk-i-Jahangiri | Jahangir |
-| Padshahnama | Abdul Hamid Lahori |
-| Muntakhab-ut-Tawarikh | Badauni |
-| Alamgirnama | Mirza Muhammad Kazim |
-| Tutinama | Nakhshabi |
-| Mirat-e-Sikandari | Manjhu (Gujarat) |
-| Burhan-e-Masir | Tabatabai (Ahmadnagar) |
-| Riyaz-us-Salatin | Salim (Bengal) |
-| Riyaz-ul-Insha | Mahmud Gawan's letters |
-
-### Mughal Literary Deaths (2024 Q132 = B)
-
-| Order | Event | Year |
-|-------|-------|------|
-| 3 | Death of **Faizi** | 1595 |
-| 2 | Death of **Sheikh Mubarak** | 1597 |
-| 1 | Murder of **Abul Fazl** | 1602 |
-| 4 | Death of **Daniyal** | 1604 |
-
-### 2019 Q88 Match Key (A = 1-3-2-4)
-
-| Author | Work |
-|--------|------|
-| Mulla Daud | Chandayan (1) |
-| Damodar Kavi | Padmavati Katha (3) |
-| Somnath | Ashiqa (2) |
-| Amir Khusrau | Rag Vibodh (4) |
-
-### Regional Chronicles (2023 Q33 = A 4-2-1-3)
-
-| Book | Context |
-|------|---------|
-| Mirat-e-Sikandari | Gujarat victory (4) |
-| Burhan-e-Masir | Ahmadnagar history (2) |
-| Riyaz-us-Salatin | Bengal history (1) |
-| Riyaz-ul-Insha | Mahmud Gawan's letters (3) |
-
-### UP Focus
-
-| Element | UPPCS relevance |
-|---------|-----------------|
-| **Amir Khusrau** | Delhi Sultanate; Nizamuddin dargah; Hindavi pioneer |
-| **Barani** | Source on Alauddin policies affecting Gangetic cities |
-| **Malik Muhammad Jaisi** | **Padmavat** — Awadh/UP literary association |
-| **Mulla Daud** | **Chandayan** — early Awadhi/Hindavi romance |
-| **Firuz Shah** | Sanskrit translations from Nagarkot — north Indian patronage |
 
 ---
 

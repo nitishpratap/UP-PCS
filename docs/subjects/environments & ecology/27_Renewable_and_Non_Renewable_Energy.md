@@ -15,33 +15,38 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 26 Must-Score Locks
 
-```
-RENEWABLE vs NON-RENEWABLE:
-  Renewable = replenished on human timescale (sun, wind, water, biomass, geothermal)
-  Non-renewable = finite stock (coal, oil, gas, uranium)
-  Nuclear = low-carbon but exams usually NON-RENEWABLE
+1. **Renewable** sources replenish on a human timescale (sun, wind, water, biomass, geothermal). **Non-renewable** sources are finite stocks (coal, oil, gas, uranium). Exams usually treat **nuclear as non-renewable** even though it is low-carbon.
+2. In Indian exam usage, **conventional** energy means coal, oil, gas, **large hydro**, and nuclear. **Non-conventional** means solar, wind, biomass, biogas, tidal, geothermal, ocean, and **small hydro ≤25 MW**.
+3. Non-conventional is treated as roughly equal to renewable in many prelims stems — but large hydro sits on the conventional side of that Indian classification.
+4. **Biogas** major constituents are **methane and carbon dioxide**. Butane or carbon monoxide as the major pair is wrong.
+5. **Bioethanol** (E10/E20 from sugarcane and other biomass) blends with petrol. **Biodiesel** (Jatropha, used cooking oil, transesterification) blends with diesel. Biofuel Policy **2018** is the policy-year neighbour.
+6. Solar locks include National Solar Mission **2010**, ISA at **Gurugram**, **500 GW** non-fossil by **2030**, and **PM-KUSUM**.
+7. Wind leadership often names Tamil Nadu and Gujarat. **SHP ≤25 MW**. **Tidal** is Moon-driven. **Ocean energy** is a wider set that includes wave, OTEC, and tidal.
+8. **OTEC** uses the temperature difference between warm surface water and cold deep water — not the same as tidal barrage power.
+9. Energy security: India imports a very large share of crude oil (often taught near **~85%**), while coal is mostly domestic. Strategic Petroleum Reserves sit at **Vizag, Mangalore, and Padur**.
+10. **Energy Conservation Act 2001** created **BEE**. **PAT (2012)** trades **ESCerts**. Star labels and UJALA LEDs are efficiency/conservation tools. PAT is **not** CCTS carbon credits.
+11. Coal is fossil non-renewable; biomass is renewable organic matter — do not call coal “biomass.”
+12. Tidal ≠ wave ≠ OTEC, even though all are ocean-related.
+13. Conventional includes large hydro; calling all hydro “non-conventional” is wrong under the Indian exam split.
+14. E20 is the higher ethanol blend ambition beyond E10 — do not freeze policy forever at E10.
+15. BEE sits under the EC Act **2001** efficiency architecture.
+16. SPR locations are Vizag, Mangalore, Padur — three coastal storage locks.
+17. Western UP sugarcane supports bioethanol; bagasse supports cogeneration; UP wind remains limited; rooftop solar is the distributed play.
+18. Grey/green hydrogen colour language belongs with renewable electricity vs gas reforming — neighbour to this classification chapter.
+19. Non-renewable petroleum is a finite stock example often used against renewable lists.
+20. Ocean energy is the umbrella; tidal is one member of that set.
+21. ISA is solar diplomacy/IGO; BEE is domestic efficiency regulation — different lanes.
+22. PAT certificates measure energy savings trading; carbon markets measure CO₂ units — related climate politics, different instruments.
+23. Small hydro cutoff **≤25 MW** is the recurring MNRE number.
+24. Nuclear’s exam classification is usually non-renewable/conventional, not “renewable because low carbon.”
+25. Biogas is anaerobic digestion gas; biodiesel is oil-to-ester fuel — different bioenergy products.
+26. Energy conservation (using less) and energy efficiency (more service per unit energy) are neighbours under BEE/PAT, not synonyms for renewable capacity addition alone.
 
-CONVENTIONAL vs NON-CONVENTIONAL (India exam usage):
-  Conventional = coal, oil, gas, large hydro, nuclear
-  Non-conventional = solar, wind, biomass, biogas, tidal, geothermal, ocean, SHP ≤25 MW
-  Non-conventional ≈ renewable (2023 Q102)
+---
 
-BIOGAS (2025 Q28): METHANE + CARBON DIOXIDE | NOT butane/CO
-BIOFUELS: Bioethanol (E10/E20 sugarcane) | Biodiesel (Jatropha/UCO) | Policy 2018
-SOLAR: NSM 2010 | ISA Gurugram | 500 GW non-fossil 2030 | PM-KUSUM
-WIND: TN/Gujarat leaders | SHP ≤25 MW | TIDAL = Moon | OCEAN ⊃ wave + OTEC + tidal
-
-ENERGY SECURITY: ~85% crude oil import | coal mostly domestic | SPR Vizag–Mangalore–Padur
-CONSERVATION/EFFICIENCY: EC Act 2001 → BEE | PAT 2012 = ESCerts | Star labels | UJALA LEDs
-  PAT ≠ carbon credits (CCTS)
-
-TRAPS: Nuclear ≠ renewable | Coal ≠ biomass | Tidal ≠ wave/OTEC
-  Conventional includes large hydro | PAT ≠ CCTS | E20 ≠ E10 forever
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -400,24 +405,6 @@ Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 
 ---
 
-## Consolidated Reference
-
-| Theme | Lock |
-|-------|------|
-| Non-conventional | ≈ Renewable |
-| Non-renewable example | Petroleum |
-| Biogas | CH₄ + CO₂ |
-| Bioethanol | E20 by 2025–26 |
-| Biodiesel | Transesterification / Jatropha |
-| SHP | ≤25 MW |
-| Ocean | Wave + OTEC + tidal |
-| SPR | Vizag, Mangalore, Padur |
-| BEE | EC Act 2001 |
-| PAT | ESCerts 2012 |
-
-**UP locks:** Western UP sugar → bioethanol | Bagasse cogeneration | Limited wind | Rooftop solar + JJM/DISCOM links
-
----
 
 ## Practice Zone
 

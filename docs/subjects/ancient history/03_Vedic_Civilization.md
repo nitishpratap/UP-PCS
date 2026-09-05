@@ -15,31 +15,42 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-Early/Rigvedic ~1500–1000 BCE | Sapta Sindhu (Punjab) | PASTORAL (2020 Q21)
-Later Vedic ~1000–600 BCE | Ganga–Yamuna doab (UP) | AGRARIAN + iron + PGW (2020 Q21)
+1. The **Early / Rigvedic** age is about **1500–1000 BCE** in the **Sapta Sindhu** (Punjab) belt. Its economy type is **pastoral**.
+2. The **Later Vedic** age is about **1000–600 BCE** in the **Ganga–Yamuna doab**, including much of western–central Uttar Pradesh. Its economy type is **agrarian**, with iron and **PGW**.
+3. The Early Vedic **rajan** was a tribal chief, not an absolute king. Later Vedic kingship became more **hereditary** and stronger over land and ritual.
+4. **Sabha** was an assembly of elders or nobles. **Samiti** was the wider tribal assembly that could **choose the rajan**.
+5. **Vidatha** (Vidhata) is the **oldest** gathering, with economic and ritual roles and women’s presence. It **fades first** in Later Vedic times.
+6. **Bhagadugha** collected the king’s share (**bhaga**). **Sangrahitri** was the **treasurer**. **Akshavapa** handled **dice / gambling**. Do not swap revenue with dice.
+7. The **Rigveda** has **1028** hymns in **10 mandalas**. Mandala **2–7** are the oldest family books. Mandala **9** is Soma. Mandalas **1** and **10** are latest.
+8. Hymn-count locks are roughly **Indra ~250**, **Agni ~200**, **Soma ~120**, and **Ashvins 50+**. **Varuna** has fewer hymns but guards **rita**.
+9. Early popular gods are **Indra, Agni, Soma, Varuna, Ushas, and Savitr**. **Vishnu** and **Rudra** are minor in the Rigveda and rise in Later Vedic religion.
+10. Later Vedic ritual elevates **Prajapati**, and **Vishnu** and **Rudra** grow in importance beside older storm and fire gods.
+11. **Shukla (White) Yajurveda** is the **Vajasaneyi** school, with mantra and prose kept separate. **Krishna** here means **Black Yajurveda**, not the god Krishna.
+12. Black Yajurveda schools include **Taittiriya**, **Kathaka**, and **Maitrayani**, where mantra and Brahmana prose are mixed.
+13. Vedic literature order is **Samhita → Brahmana → Aranyaka → Upanishad**. Samhitas are hymns; Brahmanas explain ritual in prose.
+14. **Aranyakas** are forest texts of symbolic ritual. **Upanishads** teach **Brahman–Atman** philosophy (Vedanta).
+15. The six **Vedangas** are **Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, and Jyotisha**. They are tools of the Veda, not the Upanishads themselves.
+16. **Varna** is the four-fold order (Purusha Sukta; more rigid later). **Jati** is later birth-group identity. Do not treat them as identical.
+17. **Gavishti** means cattle-raid or war for cows. **Bali** is tribute to the king. **Nishka** is a gold ornament or value-unit, **not** coined money.
+18. **Shruti** is “heard” Vedic revelation. **Smriti** is remembered later dharma literature.
+19. **PGW** (Painted Grey Ware), about **1100–600 BCE**, is the Later Vedic **doab** marker: grey pottery with black geometric paint.
+20. Later Vedic iron appears in texts as **shyama ayas / krishna ayas**. Early Rigvedic **ayas** usually means copper or bronze, not iron.
+21. Doab pottery sequence continues **PGW → NBPW** (~700–200 BCE) into the mahajanapada / second-urbanisation age.
+22. Uttar Pradesh Later Vedic geography centres on **Kuru–Panchala**, **Kosala**, and **Kashi**. Key sites include **Hastinapur**, **Atranjikhera**, and **Ahichchhatra**.
+23. Rigvedic culture is **not** a UP heartland story. Its core is Punjab / Sapta Sindhu.
+24. **OCP** is pre-PGW ochre-wash doab rural pottery. **PGW** is iron-age painted grey ware of Later Vedic settlements.
+25. Later Vedic society shows stronger **raja**, rising **Brahmana** ritual power, more settled agriculture, and clearer varna ranking than the Early Vedic pastoral tribes.
+26. Political institutions to lock are **Sabha, Samiti, and Vidatha**. Vidatha fades; Sabha becomes more exclusive; Samiti remains the broader tribal body in Early Vedic memory.
+27. The **Atharvaveda** adds charms and domestic rites beside the three liturgical Vedas (Rig, Yajur, Sama).
+28. **Brahmana** texts are ritual prose, not the same as the **Brahmana** varna. Context decides which meaning is asked.
+29. **Videha** (north Bihar, Janaka tradition) is east of the UP doab but linked in Later Vedic texts such as the Shatapatha Brahmana.
+30. Match economy types carefully: Indus = **Urban**, Rigvedic = **Pastoral**, Later Vedic = **Agrarian**, Medieval landlordism is a later match-list item.
 
-Rajan = tribal chief (not absolute) | Later = hereditary raja
-Sabha = elders | Samiti = tribe (elects king) | Vidatha/Vidhata = oldest, women, fades first
-Bhagadugha = revenue (bhaga) ← 2023 Q26 D | Sangrahitri = treasurer | Akshavapa = dice/gambling
+---
 
-Rigveda 1028 hymns, 10 mandalas | 2–7 family books oldest | 9 Soma | 1 & 10 latest
-Hymn count lock: Indra ~250 | Agni ~200 | Soma ~120 | Ashvins ~50+ | Varuna fewer (rita)
-Early gods: Indra Agni Soma Varuna Ushas Savitr | Vishnu + Rudra minor | Later: Prajapati Vishnu Rudra rise
-Shukla Yajurveda = Vajasaneyi (paper: Vajasanami) ← 2018 Q13 A
-Krishna Yajurveda (Black) = Taittiriya, Kathaka, Maitrayani ← 2018 B/C/D traps (not deity Krishna)
-Samhita → Brahmana → Aranyaka → Upanishad
-6 Vedangas: Shiksha Kalpa Vyakarana Nirukta Chhanda Jyotisha
-
-UP Later Vedic: Kuru–Panchala, Kosala, Kashi | Hastinapur, Atranjikhera, Ahichchhatra
-PGW ~1100–600 BCE | grey + black geometric paint | Later Vedic doab marker
-Iron: shyama ayas / krishna ayas in texts | PGW + megalithic south = Iron Age markers
-PGW → NBPW ~700–200 BCE (mahajanapada / second urbanisation — Topic 5)
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -64,6 +75,7 @@ PGW → NBPW ~700–200 BCE (mahajanapada / second urbanisation — Topic 5)
 | shyama ayas | ayas (Rigveda) | Later Vedic **iron** vs Early Vedic **copper/bronze** | श्याम आयस / आयस |
 
 ---
+
 ![img_2.png](img_2.png)
 ## 3.1 Vedic Period
 

@@ -14,44 +14,36 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-GOVERNANCE CHAIN:
-  MoEFCC → policy + Category A EC + forest/wildlife laws
-  CPCB → national pollution standards/monitoring
-  SPCB/UPPCB → state consent + enforcement
-  NGT → appeals + compensation (2010)
+1. **MoEFCC** is India’s nodal ministry for environment, forests, wildlife, and climate change. It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
+2. MoEFCC grants **Category A Environmental Clearance**, runs the **PARIVESH** portal, and administers EPA, Wildlife Act, Forest Conservation Act, and Biodiversity Act. It does **not** set NAAQS pollution standards.
+3. **CPCB** was created under the **Water Act, 1974**, sits in **New Delhi**, sets **NAAQS**, and coordinates State Pollution Control Boards. The Air Act **1981** widened its air-pollution role.
+4. CPCB does **not** grant Environmental Clearance, does **not** publish ISFR, and does **not** prepare the Annual Groundwater Quality Report — that report belongs to **CGWB**.
+5. Every state has an **SPCB**. SPCBs issue **Consent to Establish** and **Consent to Operate** under the Water and Air Acts. They do **not** grant Category B EC — that is **SEIAA**.
+6. **UPPCB** is Uttar Pradesh’s board with headquarters at **Lucknow**. It enforces norms on Kanpur tanneries, Noida–Ghaziabad industry, and Ganga–Yamuna discharges.
+7. **NGT** was created by the **NGT Act, 2010** (operational **2011**). Headquarters is New Delhi, with regional benches at Bhopal, Pune, Kolkata, and Chennai.
+8. NGT hears environmental appeals, including EC appeals, and can award compensation under Polluter Pays. The Act aims for disposal within **six months**. NGT does **not** itself grant EC.
+9. The NGT Chairperson must be a retired **Supreme Court** judge or a High Court Chief Justice.
+10. **WII** (**1982**, Dehradun) does wildlife research and trains forest officers. It helped frame India’s **ten** biogeographic zones and tiger-census methods. It is **not** the plant or animal survey body.
+11. **BSI** (**1890**, Kolkata) surveys **plants** and publishes *Flora of India* and the plant Red Data Book. **ZSI** (**1916**, Kolkata) surveys **animals** and publishes *Fauna of India* and the animal Red Data Book.
+12. **FSI** (**1981**, Dehradun) maps forest cover and publishes the **India State of Forest Report** every **two years**. ISFR is **not** an annual CPCB product.
+13. Headquarters lock: **Delhi** — MoEFCC, CPCB, NGT; **Dehradun** — WII, FSI; **Kolkata** — BSI, ZSI; **Lucknow** — UPPCB.
+14. Category A EC → **MoEFCC**. Category B EC → **SEIAA**. Industry consent → **SPCB**. EC appeal → **NGT**.
+15. Pollution standards → **CPCB**. Forest cover report → **FSI**. Plant taxonomy → **BSI**. Animal taxonomy → **ZSI**. Wildlife training → **WII**.
+16. MoEFCC was **not** created in **1972**. That year marks the Stockholm Conference and the Wildlife (Protection) Act.
+17. Consent under Water/Air Acts is **not** the same as Environmental Clearance under EPA/EIA rules. Confusing CTE/CTO with EC is a classic trap.
+18. Forest clearance for diversion of forest land sits with **MoEFCC** under the Forest (Conservation) Act — not with CPCB or NGT.
+19. BSI and ZSI both sit in Kolkata, but BSI is plants only and ZSI is animals only. Swapping kingdoms is a frequent wrong match.
+20. WII and FSI both sit in Dehradun, but WII is wildlife science/training and FSI is forest-cover assessment. Do not give ISFR to WII.
+21. NGT adjudicates; it does **not** replace CPCB on standards or MoEFCC on clearances.
+22. SPCBs work under CPCB technical guidance and state administrative control. They enforce standards; they do not write national NAAQS.
+23. PARIVESH is MoEFCC’s online EC application system — not a CPCB monitoring portal.
+24. Match report to publisher: ISFR → **FSI**; Groundwater Quality Report → **CGWB**; NAAQS bulletins → **CPCB**; *Flora* → **BSI**; *Fauna* → **ZSI**.
 
-MoEFCC: Est. 1985 as MoEF | Renamed MoEFCC 2014 | HQ Delhi
-  EPA, WPA, FCA, EIA, PARIVESH | NOT pollution standards
+---
 
-CPCB: Water Act 1974 | HQ Delhi | NAAQS | coordinates SPCBs
-  NOT EC | NOT ISFR | NOT groundwater report (CGWB)
-
-SPCB: One per state | CTE/CTO under Water/Air Acts
-  UPPCB HQ Lucknow | NOT Category B EC (SEIAA)
-
-NGT: NGT Act 2010 | HQ Delhi + regional benches
-  Hears EC appeals | 6-month target | NOT grants EC
-
-SCIENTIFIC BODIES:
-  WII 1982 Dehradun — wildlife research/training
-  BSI 1890 Kolkata — PLANTS (*Flora of India*)
-  ZSI 1916 Kolkata — ANIMALS (*Fauna of India*)
-  FSI 1981 Dehradun — ISFR every 2 years
-
-HQ: Delhi = MoEFCC, CPCB, NGT
-     Dehradun = WII, FSI
-     Kolkata = BSI, ZSI
-     Lucknow = UPPCB
-
-TRAPS: CPCB ≠ EC ≠ ISFR ≠ CGWB report
-  BSI = plants | ZSI = animals
-  MoEFCC est. 1985 NOT 1972
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -233,31 +225,6 @@ ISFR 2023 is published by **FSI**. UP districts with >20% forest cover included 
 
 ---
 
-## Consolidated Reference — Once Only
-
-### HQ map
-
-| City | Bodies |
-|------|--------|
-| **Delhi** | MoEFCC, CPCB, NGT |
-| **Dehradun** | WII, FSI |
-| **Kolkata** | BSI, ZSI |
-| **Lucknow** | UPPCB |
-
-### Who does what — exam matrix
-
-| Function | Correct body | Wrong trap |
-|----------|--------------|------------|
-| Category A EC | MoEFCC | CPCB, NGT |
-| Pollution standards | CPCB | MoEFCC |
-| Industry consent | SPCB | SEIAA |
-| EC appeal | NGT | CPCB |
-| ISFR | FSI | CPCB |
-| Plant taxonomy | BSI | ZSI |
-| Animal taxonomy | ZSI | BSI |
-| Wildlife training | WII | ZSI |
-
----
 
 ## Practice Zone — UPPCS Format Drill
 

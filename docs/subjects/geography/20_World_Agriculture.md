@@ -16,35 +16,28 @@ Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds |
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 20 Must-Score Locks
 
-```
-SYSTEMS: intensive wet-rice (monsoon Asia) | extensive wheat (Prairie/Pampas/Downs/steppe)
- Von Thünen (awareness): market rings — dairy/veg near city → wood → intensive → grain → ranching outer
- SOY: USA–Brazil–Argentina export triangle | MILK volume = India (domestic)
- plantation (tropics, estate, export) | Med (citrus/vine/olive) | dairy (NW Europe/NZ)
- mixed (W Europe + US Midwest) | shifting (humid tropics) | ranching (Pampas/Prairie/Veld/Downs)
-PLANTATION: estate + capital + monoculture + hired labour + export
- Tea = plantation (2024) — NOT wheat/rice/maize
-RICE: China>India>Indonesia volume | exporters = Thailand/Vietnam/India — China eats its crop
-WHEAT: China/India volume | exporters = Russia/USA/Canada/France/Australia/Argentina
-MAIZE: US Corn Belt; USA>China>Brazil
-COTTON: long staple Egypt/Sudan; short India–Pakistan; India often largest area
-SUGAR: cane = Brazil world; beet = temperate Europe
-OIL PALM: Indonesia + Malaysia | OLIVE: Spain/Italy/Greece (Med)
-TEA: 20–30°C, 150–300 cm, slope, acid soil, 2 leaves + a bud
- China volume | India Assam+Darjeeling+Nilgiri | Kenya exporter | Ceylon = Sri Lanka
- Black = fermented (India/SL/Kenya); green = unfermented (China/Japan)
-COFFEE: freeze 2016 paper — Brazil > Vietnam > Colombia > Indonesia
- Brazil arabica + Terra Roxa | Vietnam robusta #2 | shade, 15–28°C, no frost
-COCOA: origin Amazon; crop = Côte d’Ivoire + Ghana + Cameroon | Latvia NOT (2021)
-RUBBER: Hevea Amazon → SE Asia (Wickham) | Thailand/Indonesia/Vietnam/Malaysia
- India = Kerala (2022) | Kinta Valley Malaysia = TIN (2020)
-SHIFTING: slash–burn, 1–3 yr crop, long fallow
- Jhum NE | Podu AP/OD | Ladang MY | Milpa MX | Roca BR | Chena SL | Caingin PH
-PHILIPPINES cane+coconut = Spanish and Americans (2023)
-CITRUS world belt = Mediterranean, not equatorial (2020)
-```
+1. In plantation MCQs the classic plantation crop is **tea**, not wheat, rice, or maize. Plantation means estate, capital, monoculture, hired labour, and export.
+2. Coffee producer order for the frozen paper year: **Brazil > Vietnam > Colombia > Indonesia**. Brazil is mainly **arabica** on Terra Roxa; Vietnam is bulk **robusta**.
+3. Major cocoa producers are **Côte d’Ivoire, Ghana, and Cameroon**. **Latvia** is not a cocoa producer. Cocoa originated in the Amazon.
+4. India’s rubber lock is **Kerala**. Rubber (*Hevea*) originated in the Amazon and moved to South-East Asia. Malaysia’s **Kinta Valley** is **tin**, not rubber.
+5. Shifting-cultivation names: **Jhum** (NE India), **Podu** (Andhra/Odisha), **Ladang** (Malaysia), **Milpa** (Mexico), **Roca** (Brazil), **Chena** (Sri Lanka), **Caingin** (Philippines).
+6. The world **citrus** belt is **Mediterranean**, not equatorial.
+7. Philippines cane and coconut history lock: **Spanish and Americans**.
+8. Wrong Indian crop–state dumps include Gujarat–tea, UP–jute, and Assam–wheat. The right lock is **Kerala–rubber** (and Assam for tea volume).
+9. **Oil palm** majors are **Indonesia and Malaysia**. **Olive** majors are Spain, Italy, and Greece.
+10. World **sugarcane** leader is **Brazil**. **Sugar beet** belongs to temperate **Europe**.
+11. For rice and wheat, **China and India** lead in **volume**, but classic **exporters** are often other countries (Thailand/Vietnam for rice; Russia/USA/Canada and others for wheat).
+12. **Intensive subsistence** = monsoon wet rice. **Extensive commercial** = Prairie/Pampas wheat. **Mixed farming** = crops plus livestock (West Europe / US Midwest).
+13. **Black tea** is fermented; **green tea** is not. The pluck lock is **two leaves and a bud**. Tea likes **20–30°C**, **150–300 cm** rain, slope, and acid soil.
+14. **IRRI** is in the Philippines. Borlaug’s Nobel was for **Peace**. **FAO** HQ is **Rome**.
+15. Banana: India produces heavily; **Ecuador** is a classic shipper. Silk and wool volume often lock on **China**; Australia is famous for **Merino** wool.
+16. Soy export triangle = **USA–Brazil–Argentina**. India leads world **milk volume**; New Zealand and the Netherlands dominate the dairy-export story.
+17. **Von Thünen** is market rings around a city. **Whittlesey** is the thirteen world agricultural types — do not merge the two models.
+18. Five Mediterranean **west coasts** carry the citrus / vine / olive world belt.
+19. Maize lock: **US Corn Belt**; USA > China > Brazil in volume. Long-staple cotton = Egypt/Sudan; short staple = India–Pakistan belt.
+20. Ranching belts include Pampas, Prairie, Veld, and Downs. Shifting cultivation is humid-tropics slash-and-burn with short crop years and long fallow.
 
 ---
 
@@ -648,31 +641,6 @@ Humid tropics: Amazon, Congo, SE Asia hills, NE India, Central America.
 | **Golden rice** | **Vitamin A** (correct 2018 pair) |
 
 India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture lock; here remember only the **world** institutions and Borlaug’s **Peace** Nobel.
-
----
-
-## Consolidated — 20 Must-Score Locks
-
-1. Plantation crop in the plantation MCQ = **Tea**, not wheat/rice/maize.
-2. Coffee 2016: **Brazil > Vietnam > Colombia > Indonesia**.
-3. Cocoa majors = Ivory Coast, Ghana, Cameroon; **Latvia NO**. Origin Amazon.
-4. Rubber India = **Kerala**. Origin Amazon (Wickham → SE Asia). Kinta = **tin**.
-5. Jhum = NE India; ladang = Malaysia; milpa = Mexico; roca = Brazil; chena = Sri Lanka; caingin = Philippines.
-6. Citrus world belt = **Mediterranean**.
-7. Philippines coconut + cane = **Spanish and Americans**.
-8. Gujarat–Tea / UP–Jute / Assam–Wheat = wrong; Kerala–Rubber = right.
-9. Oil palm = Indonesia + Malaysia. Olive = Spain/Italy/Greece.
-10. Sugarcane world = **Brazil**; beet = **Europe**.
-11. Rice/wheat: China–India **volume**; exporters are often **other** countries.
-12. Intensive subsistence = monsoon rice; extensive = Prairie wheat; mixed = crops + livestock.
-13. Black tea = fermented; green = not. Pluck = two leaves and a bud.
-14. IRRI = Philippines. Borlaug Nobel = **Peace**. FAO = Rome.
-15. Banana: India produces; Ecuador ships. Silk/wool: China volume; Australia Merino.
-16. Soy export triangle = USA–Brazil–Argentina; oil palm = Indonesia + Malaysia.
-17. India = milk volume; NZ/Netherlands = dairy export story.
-18. Von Thünen = market rings; Whittlesey = 13 world types — do not merge.
-19. Five Med west coasts = citrus / vine / olive world belt.
-20. Freeze coffee ranks only when the paper quotes a year (2016 lock above).
 
 ---
 

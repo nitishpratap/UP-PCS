@@ -15,27 +15,36 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-INDOLOGY: Asiatic Society 1784 Calcutta, William Jones (Hastings declined Presidentship)
-  Fort William 1800 Wellesley | Sanskrit College Calcutta 1824 | BORI Pune 1917
-EDUCATION: Gurukul = residential + oral + guru dakshina at END (not monthly fee)
-  18 Vidyas + 64 Kalas | Ashrama: Brahmacharya → Grihastha → Vanaprastha → Sannyasa
-  Kangri 1902 Haridwar, Dayananda
-N-T-V:
-  Nalanda Bihar Pala Hiuen Tsang ~1193 Khilji UNESCO 2016 | ruins = ASI; NEW univ = MEA Act 2010 Rajgir
-  Taxila Gandhara/Pakistan Panini Chanakya multi-teacher city UNESCO 1980 (Pakistan)
-  Vikramashila Bhagalpur Dharmapala Atisha ~1203 Khilji NOT separate WH
-INSTITUTIONS (year): Indian Museum 1814 | ASI 1861 Cunningham | NAI 1891 | NM Delhi 1949
-  SNA 1952 | Sahitya + Lalit Kala + NGMA 1954 | CCRT 1979 | IGNCA + Mo Culture 1985
-  ICCR 1950 = MEA (NOT Culture)
-AKADEMIS: SNA = performing 1952 | Sahitya = letters 1954, 24 langs | Lalit = visual 1954
-  Jnanpith 1965 = Bharatiya Jnanpith trust ≠ Sahitya
-SCHEMES: NCF 1996 | NMM 2003 → Gyan Bharatam 2024–31 | EBSB 2015 | HRIDAY 2015 | PRASAD = Tourism
-```
+1. The **Asiatic Society of Bengal** was founded in **1784** at Calcutta by **Sir William Jones**. **Warren Hastings** declined the Presidentship in Jones’s favour.
+2. **Fort William College** was set up in **1800** by **Lord Wellesley** to train Company officers in Indian languages.
+3. **Sanskrit College, Calcutta** opened in **1824**. **Benares Sanskrit College** was founded by **Jonathan Duncan** in **1791** and must not be confused with the Asiatic Society.
+4. The **Bhandarkar Oriental Research Institute** at Pune was founded in **1917** and is known for critical editions such as the Mahabharata.
+5. A **gurukul** is a residential guru–shishya school. **Guru dakshina** is an end-of-study offering, not a monthly fee.
+6. Classical learning counted **18 Vidyas** and **64 Kalas**. The ashrama order is **Brahmacharya → Grihastha → Vanaprastha → Sannyasa**.
+7. **Kangri Gurukul** at Haridwar was founded in **1902** in the Dayananda / Arya Samaj line.
+8. **Nalanda** mahavihara in Bihar flourished under Pala patronage. **Hiuen Tsang** studied there. It was destroyed around **1193** by Bakhtiyar Khilji. The ruins are UNESCO **2016** under the **ASI**.
+9. The **new Nalanda University** is under the **MEA** by the Act of **2010**, with campus at **Rajgir**. It is not a Culture Ministry body.
+10. **Taxila (Takshashila)** lay in Gandhara, now in **Pakistan**. It was a multi-teacher city linked with **Panini** and **Chanakya**, and is UNESCO **1980**.
+11. **Vikramashila** at Bhagalpur was founded by Pala **Dharmapala**. **Atisha** taught there. It fell around **1203** to Khilji and is **not** a separate World Heritage site.
+12. The **Indian Museum**, Kolkata (**1814**) is India’s oldest museum. The **National Museum**, Delhi dates to **1949**.
+13. The **Archaeological Survey of India** was founded in **1861** under **Alexander Cunningham**. The **National Archives of India** began in **1891**.
+14. **Sangeet Natak Akademi** (**1952**) covers performing arts. **Sahitya Akademi** and **Lalit Kala Akademi** both date to **1954** for literature and visual arts.
+15. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
+16. **IGNCA** and the **Ministry of Culture** date to **1985**. **CCRT** began in **1979**. **NGMA** also dates to **1954**.
+17. **ICCR** (**1950**) belongs to the **MEA**, not the Culture Ministry.
+18. UP museum locks include **Allahabad Museum** (Prayagraj, **1931**), State Museum Lucknow, Jhansi Museum, and the **Sarnath** ASI site museum.
+19. ASI circles for key UP monuments run through **Lucknow** and **Agra**, covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
+20. IVC sites in UP include **Alamgirpur**, **Mandi**, and **Hulas**. **Rakhigarhi** is in Haryana, not UP.
+21. The North Central Zonal Cultural Centre HQ is at **Prayagraj**. Lalit Kala has a regional centre at **Lucknow**. IGNCA has a regional centre at **Varanasi**.
+22. **HRIDAY** (**2015**) includes **Varanasi**. **PRASAD** is a **Tourism** ministry scheme, not Culture.
+23. The **National Culture Fund** began in **1996**. **Ek Bharat Shreshtha Bharat** began in **2015**.
+24. The **National Mission for Manuscripts** (**2003**) was restructured as **Gyan Bharatam** for **2024–31**.
 
-### Confused pairs
+---
+
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -432,25 +441,6 @@ Home for **scheme–year–ministry–objective**. KSVY is the **umbrella** for 
 | **Young Artist Scholarships** | Ongoing | Culture | Classical music/dance training | Age/guru criteria apply |
 
 > **Exam note:** EBSB = **2015**. NCF = **1996**. **PRASAD = Tourism**. Gyan Bharatam = NMM successor (Budget 2025–26).
-
----
-
-## Consolidated Reference — Once Only
-
-### UP Focus
-
-| Element | Lock |
-|---------|------|
-| **Museums** | Allahabad Museum (Prayagraj, 1931); State Museum Lucknow; Jhansi Museum; Sarnath ASI site museum |
-| **ASI circles** | Lucknow + Agra — Sarnath, Kushinagar, Taj, Fatehpur Sikri |
-| **IVC in UP** | Alamgirpur, Mandi, Hulas — **not** Rakhigarhi (Haryana) |
-| **ZCC** | North Central HQ **Prayagraj** |
-| **Lalit Kala** | Regional centre **Lucknow** |
-| **IGNCA** | Regional centre **Varanasi** |
-| **HRIDAY** | **Varanasi** |
-| **Indology** | Benares Sanskrit College tradition (Duncan, 1791), Varanasi |
-
-No second dates table — years live in QR spine + N.X cards.
 
 ---
 

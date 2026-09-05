@@ -15,36 +15,38 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-ONE PICTURE (phases)
-  Trade factories → Plassey puppet (1757) → Diwani (1765) → Dual Govt ends 1772
-  Ring Fence (W. Hastings) → Non-intervention (Cornwallis/Shore)
-  Subsidiary Alliance (Wellesley from 1798) → Paramountcy (Lord Hastings)
-  Lapse + annexations (Dalhousie from 1848) → Awadh 1856 = misrule, not Lapse
+1. Company rule grew in phases: factories → **Plassey puppet (1757)** → **Diwani (1765)** → Dual Government ends **1772** → Ring Fence → **Subsidiary Alliance (Wellesley from 1798)** → Paramountcy → **Lapse and annexations (Dalhousie)**.
+2. **Battle of Plassey, 23 June 1757:** **Cause** — Siraj feared English forts and dastak misuse; court conspiracy with Clive. **Course** — short fight; Mir Jafar held back. **Result** — Mir Jafar became puppet Nawab; **no Diwani yet**.
+3. **Battle of Buxar, 22 October 1764:** **Cause** — Mir Qasim joined **Shuja-ud-Daula** and **Shah Alam II**. **Course** — **Hector Munro** won a real pitched battle (Clive was in England). **Result** — Company supremacy in northern India.
+4. The **Treaty of Allahabad (August 1765)** gave the Company the **Diwani** of Bengal, Bihar and Orissa. Clive settled; Munro had fought.
+5. **Diwani** means revenue collection. **Nizamat** means police and criminal justice in the Nawab’s name. Under Dual Government the Company took profit and dodged blame.
+6. **Dual Government (1765–72)** was Clive’s design. **Warren Hastings ended it in 1772** and took direct civil and revenue charge.
+7. **Ring Fence** (Warren Hastings) was an informal buffer around Bengal. **Subsidiary Alliance** (Wellesley) meant British troops, subsidy and a Resident. Do not swap the two.
+8. **Subsidiary Alliance** began with Wellesley from **1798**; first major state was **Hyderabad**. **Doctrine of Lapse** is Dalhousie’s annexation tool when there was no natural heir.
+9. **Awadh (1856)** was annexed for alleged **misrule**, not under Lapse. **Jhansi (1853)** is the classic Lapse case.
+10. **First Anglo-Mysore War (1767–69)** ended with the **Treaty of Madras**. **Second (1780–84)** ended with the **Treaty of Mangalore**. Do not swap the treaties.
+11. **Third Anglo-Mysore War (1790–92)** ended with the **Treaty of Seringapatam** — Tipu ceded about half his territory. **Fourth (1799)** killed Tipu; Mysore went under Subsidiary Alliance with a Wodeyar child.
+12. **First Anglo-Maratha War (1775–82)** ran through **Surat (1775)** and **Purandhar (1776)** and ended with **Salbai (1782)**. **Bassein (1802)** is the Peshwa’s subsidiary treaty before the Second War.
+13. **Second Anglo-Maratha War (1803–05)** followed Bassein. **Third (1817–18)**, under **Lord Hastings**, crushed the Peshwa and cleared the Pindaris.
+14. **Warren Hastings** handled Dual Government, Ring Fence, Salbai and Banaras (**1781**). **Lord Hastings** handled Nepal, Pindaris and the Third Maratha War. Never swap the two men.
+15. **Anglo-Nepal War (1814–16)** ended with the **Treaty of Sugauli (1816)** — hill cessions, not Kathmandu annexation. Do not confuse Sugauli with **Lahore (1846)**.
+16. The **Treaty of Amritsar (1809)** was Ranjit Singh’s Sutlej peace with the English. The **Treaty of Lahore (1846)** settled the **First Anglo-Sikh War**. **Punjab was annexed in 1849** after the Second War.
+17. **Sindh (1843)** was taken under **Ellenborough / Napier**. **Punjab (1849)** was annexed under **Dalhousie** after the Second Anglo-Sikh War.
+18. **First Anglo-Burmese War (1824–26)** ended with the **Treaty of Yandabo**. Second War **1852**; Third War **1885** completed annexation of Burma.
+19. **First Anglo-Afghan War (1839–42)** belongs to **Auckland**. **Masterly Inactivity** is **Lawrence’s** caution. **Proud Reserve** is **Lytton’s** forward Afghan line.
+20. **Vellore Mutiny (1806)** was an early sepoy rising over dress and religious grievances — a preview theme for 1857, not the Revolt itself.
+21. **Chauth** was the Maratha claim of one-fourth of revenue. It is **not** the Subsidiary Alliance payment.
+22. Peshwa order lock: **Balaji Vishwanath → Baji Rao I → Balaji Baji Rao → Madhav Rao I → Narayan Rao → Raghoba / Baji Rao II**. Baji Rao II signed Bassein and was later pensioned at **Bithoor**.
+23. After Plassey the Nawabs were puppets: **Mir Jafar** then **Mir Qasim** (fought at Buxar) then **Najm-ud-Daulah** as a pensioned figurehead under Diwani.
+24. Farrukhsiyar’s **farman of 1717** gave the Company major duty-free privileges in Bengal. Later Nawabs fought private misuse of **dastaks** — that quarrel helps explain Plassey, but it is **not** Diwani.
+25. **Hyder Ali** seized real power in Mysore in **1761** and built an armoury at **Dindigal (1755)**. **Tipu** succeeded in **1782** and died at Seringapatam in **1799**.
+26. Paramountcy under **Lord Hastings** meant smashing rivals and claiming overlordship after Nepal, Pindaris and the Third Maratha War — the bridge from Subsidiary diplomacy to open supremacy.
 
-BENGAL
-  23 Jun 1757   Plassey — Clive; Mir Jafar puppet
-  22 Oct 1764   Buxar — Hector Munro (not Clive)
-  Aug 1765      Treaty of Allahabad; Diwani Bengal–Bihar–Orissa
-  1765–72       Dual Government; Hastings ends it 1772
-  Nawabs: Murshid Quli → Shujauddin → Sarfaraz → Alivardi → Siraj → Mir Jafar → Mir Qasim → Najm-ud-Daulah
+---
 
-WARS (treaty / end)
-  Mysore I 1767–69 Madras | II 1780–84 Mangalore | III 1790–92 Seringapatam | IV 1799 Tipu killed
-  Maratha I 1775–82 (Surat 1775 / Purandhar 1776 / Salbai 1782)
-  Maratha II 1803–05 after Bassein 1802 | III 1817–18 (+ Pindaris) Peshwa deposed
-  Nepal 1814–16 Sugauli (hills yes, Kathmandu no)
-  Burma I 1824–26 Yandabo | Sindh 1843 Napier
-  Amritsar 1809 (Ranjit–Sutlej peace) | Sikh I 1845–46 Lahore | Sikh II 1848–49 Punjab annexed
-  First Afghan 1839–42 (Auckland) | Masterly Inactivity (Lawrence) | Proud Reserve (Lytton)
-
-PESHWAS
-  Balaji Vishwanath → Baji Rao I → Balaji Baji Rao → Madhav Rao I → Narayan Rao → Raghoba / Baji Rao II
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -68,7 +70,6 @@ PESHWAS
 
 ---
 
----
 
 ## 2.0 One clear picture — how the Company became an empire
 

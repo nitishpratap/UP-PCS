@@ -14,21 +14,36 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-FOOD CHAIN = linear who-eats-whom | Grazing = living plants | Detritus = dead matter
-FOOD WEB = interconnected chains | More stable than single chain | Energy still one-way
-TROPHIC LEVELS: T1 Producers | T2 Herbivores | T3–T5 Carnivores | Sun = source, NOT a level
-ENERGY FLOW: Unidirectional (Sun → producers → consumers → heat) | Nutrients cycle, energy does NOT
-  ~10% passes to next level (Lindeman 1942) | ~90% lost as heat/respiration/movement
-  Chains short (3–5 levels) because energy runs out
-PYRAMIDS: Energy (kcal/m²/yr) = ALWAYS upright | Biomass (g/m²) = inverted in sea possible
-  Numbers (head count) = inverted in parasitic chain (one tree, many insects)
-TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Grazing starts dead matter? NO
-```
+1. A **food chain** is a single linear who-eats-whom sequence. A **food web** is a network of interconnected chains and is more stable than one chain alone.
+2. A **grazing food chain** starts from **living green plants**. A **detritus food chain** starts from **dead organic matter**.
+3. **Trophic levels** are feeding ranks counted from producers: **T1 producers, T2 herbivores, T3–T5 carnivores**.
+4. The **Sun is the energy source**, not a trophic level. Never count sunlight as T1.
+5. Energy flow is **unidirectional**: Sun → producers → consumers → heat. Nutrients cycle; **energy does not**.
+6. About **10%** of energy passes to the next trophic level (**Lindeman, 1942**). About **90%** is lost as heat, respiration, and movement.
+7. Food chains stay short, usually about **3–5 levels**, because usable energy runs out.
+8. The **energy pyramid** (kcal/m²/yr) is **always upright**. An inverted energy pyramid is never correct.
+9. A **biomass pyramid** can invert in some aquatic systems. A **numbers pyramid** can invert in a parasitic chain (one tree, many insects).
+10. Grazing does **not** start from dead matter. Detritus does **not** start from living green plants.
+11. More links in a food web raise stability, but energy still flows **one way**.
+12. Decomposers and detritivores close the detritus path and recycle nutrients back to producers.
+13. Apex predators sit at the top trophic levels and are often scarce because little energy remains.
+14. Dudhwa’s grass → deer → tiger chain is a classic UP **grazing** example with tiger as apex predator.
+15. A Ganga algae → fish → dolphin web is a standard UP **lotic aquatic** food-web example.
+16. Terai sal leaf litter → earthworm is a UP **detritus** start. Do not call it grazing.
+17. Western UP sugarcane → pest → predator is a short **cropland** chain of about three levels.
+18. Vulture decline after veterinary **diclofenac** disrupts the **detritus / scavenging** pathway.
+19. Ecological pyramids may show energy, biomass, or numbers — always note which quantity is plotted.
+20. Saying “energy is cyclic like nutrients” is a frequent false statement.
+21. A food web does not reverse the one-way energy rule; it only multiplies feeding links.
+22. Producers fix energy; consumers transfer it; heat loss explains why top carnivores are few.
+23. Match pyramid type to exception: energy never inverts; biomass may invert at sea; numbers may invert with parasites.
+24. Keep Lindeman’s **10% rule** as an approximate exam lock, not an exact laboratory constant for every ecosystem.
 
-### Must-Know Term Comparisons
+---
+
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -191,20 +206,6 @@ D. May increase or decrease
 | **Numbers** | Individual count | Usually | One tree → many insects/parasites |
 
 > **Exam note:** Trap — "all ecological pyramids are always upright" is **false**. Only the **energy** pyramid is always upright.
-
----
-
-## Consolidated Reference — Once Only
-
-### UP Focus — Food chains & pyramids
-
-| Element | UP example | Exam use |
-|---------|------------|----------|
-| **Grazing chain** | Dudhwa: grass → deer → tiger | Trophic levels / apex predator |
-| **Aquatic web** | Ganga: algae → fish → dolphin | Lotic food web |
-| **Detritus chain** | Terai sal leaf litter → earthworm | Detritus vs grazing start |
-| **Cropland chain** | Western UP sugarcane → pest → predator | Short 3-level chain |
-| **Scavenger loss** | Vulture decline (diclofenac) | Detritus pathway disruption |
 
 ---
 

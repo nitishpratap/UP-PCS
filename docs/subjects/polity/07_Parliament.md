@@ -17,49 +17,59 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-PARLIAMENT Art.79 = President + RS + LS
+1. **Article 79**: Parliament of the Union = the **President** + **Rajya Sabha** + **Lok Sabha**. The President is an integral part of Parliament even though he sits in neither House.
+2. Rajya Sabha maximum under **Article 80** is **250** (**238** States/UTs + **12** nominated). Present strength is **245** (**233 + 12**). Seats follow the **Fourth Schedule** and are **not** equal per State.
+3. Rajya Sabha members are elected by **elected MLAs** through **PR-STV**. Term is **six years**; **one-third retire every two years**. The House is **never dissolved**.
+4. The President nominates **12** members with special knowledge in **literature, science, art, or social service**. **Sport** is **not** in that list. Nominated members vote in the **Vice-President** election but **not** in the **President** election.
+5. Rajya Sabha special powers: **Article 249** (State List for one year), **Article 312** (All-India Services — **2/3 of members present and voting**), and the start of **Vice-President removal**.
+6. High-yield Rajya Sabha seat locks: **Uttar Pradesh 31**, Maharashtra 19, Tamil Nadu 18, Bihar/West Bengal 16; UTs with seats include **Delhi 3**, **Puducherry 1**, **Jammu & Kashmir 4**.
+7. Lok Sabha maximum under **Article 81** is **550** (**530** States + **20** UTs). Present elected strength is **543**. Election is **FPTP**; minimum age is **25**.
+8. Anglo-Indian nomination to the Lok Sabha ended with the **104th Amendment**. SC/ST reservation continues till **25 January 2030**. Seat freeze uses the **1971** census (84th) until the first census after **2026**.
+9. **Uttar Pradesh** has **80** Lok Sabha seats — the highest State lock in the usual map.
+10. Qualifications sit in **Article 84**; disqualifications in **Article 102**. Office of profit is decided by the **President on binding Election Commission advice**, not by the Speaker alone.
+11. Dual-membership clocks: both Houses of Parliament — choose within **10 days**; Parliament and a State legislature — Parliament seat goes after **14 days**. *Lily Thomas*: conviction of **two years or more** brings **instant** disqualification.
+12. The **Speaker** is elected by the House (**Article 93**), resigns to the Deputy Speaker, and can be removed by **14 days’** notice plus a majority of **all then members**. The Speaker gives the **Money Bill certificate** and presides over a **joint sitting**.
+13. The **Vice-President** is *ex-officio* **Chairman** of the Rajya Sabha and is **not a member**. The Deputy Chairman is elected **from among** Rajya Sabha members. **Pro Tem Speaker** is appointed by the **President**.
+14. Sessions under **Article 85**: Budget, Monsoon, Winter; gap between two sittings of a House must not exceed **six months**. **Adjournment** ends a sitting; **prorogation** ends a session (Bills survive); **dissolution** ends the Lok Sabha’s life.
+15. **Quorum** is **one-tenth** of total membership (**Article 100**). A **lame-duck** session is the last sitting of an outgoing Lok Sabha after a new House has been elected.
+16. **Joint sitting** is **Article 108** (not 109). It is for **ordinary Bills** only. The **Speaker** presides. There is **never** a joint sitting for a **Money Bill**, Appropriation Bill, or **Constitution Amendment Bill**.
+17. **Article 110** **defines** a Money Bill; **Article 109** is the **procedure**. A Money Bill can originate **only in the Lok Sabha**. The Speaker’s certificate is **final**. Rajya Sabha gets **14 days** and may only **recommend**.
+18. **Financial Bill I** (**117(1)**) has money-matter clauses plus other matter: only Lok Sabha origin; Rajya Sabha can amend; joint sitting **possible**. **Financial Bill II** (**117(3)**) involves expenditure from the Consolidated Fund: either House; joint sitting **possible**.
+19. **Finance Bill** is the annual tax Bill (usually certified as a Money Bill). **Appropriation Bill** (**Article 114**) is a Money Bill. Do not treat “Financial Bill” and “Finance Bill” as the same label.
+20. Funds: **Consolidated Fund of India** and **Public Account** sit under **Article 266**; the **Contingency Fund** sits under **Article 267** (at the President’s disposal). Charged expenditure is **discussed but not voted**.
+21. Budget is the **Annual Financial Statement** under **Article 112**. Lok Sabha may **reduce or refuse** a Demand for Grants — it **cannot increase** it. Guillotine closes undiscussed demands at the time limit.
+22. Devices: **Question Hour** is the first hour; **Zero Hour** (Indian innovation, 1962 teaching) comes **after** Question Hour. **Adjournment motion** and **no-confidence** are **Lok Sabha only**.
+23. Cut motions: **policy cut** reduces a demand to **₹1**; **economy cut** reduces by a specified amount; **token cut** reduces by **₹100**.
+24. **Public Accounts Committee**: **22** members (**15 Lok Sabha + 7 Rajya Sabha**), conventionally chaired by an **opposition** member, and examines **CAG** reports.
+25. **Estimates Committee**: **30** members, **all from the Lok Sabha** — the largest of the three classic financial committees and with **no** Rajya Sabha members. **COPU** is also **22**.
+26. Parliamentary privileges under **Article 105** cover freedom of speech in the House and protection from **civil** arrest in the session window (**40 days** before/after plus during). They do **not** cover ordinary **criminal** process.
+27. Prorogation does **not** kill Bills — notices and pending motions may lapse, but Bills remain. Only dissolution ends the Lok Sabha’s unfinished ordinary business in the usual way.
+28. Leader of Opposition rests on the **1977** statutory recognition with a practical **~10%** strength convention. Party **whips** (one-/two-/three-line) are **extra-constitutional**.
+29. Each House has its own **Secretariat** under **Article 98**. Ministers and the Attorney General may **speak in both Houses** (**Article 88**) but vote only in the House where they are members.
+30. **Meira Kumar** is locked as the first woman Speaker of the Lok Sabha. Business Advisory Committee is chaired by the **Speaker**.
 
-RS Art.80: max 250 (238 States/UTs + 12 nominated) | present 245 (233+12) | 4th Sch
-  PR-STV by elected MLAs | 6y; 1/3 retire/2y | NEVER dissolved | NOT equal per State
-  12 nominated: lit/sci/art/social service | vote in VP election, NOT President | can be Minister
-  Special: 249 (State List, 1y) · 312 AIS (2/3 present & voting) · VP removal starts here
-  UP 31 | MH 19 | TN 18 | Bihar/WB 16 | KA 12 | Delhi 3 | Puducherry 1 | J&K 4
+---
 
-LS Art.81: max 550 (530 States + 20 UTs); present 543 elected | FPTP | 25 yrs
-  Anglo-Indian 331 ended — 104th | SC/ST 330 reserved till 25 Jan 2030
-  Seat freeze 1971 → 84th till census after 2026 | UP 80 LS
+## Confused Pairs (exam killers)
 
-QUALIF 84 / DISQ 102: office of profit (President+EC) · 60d absence · 10th Sch (Speaker)
-  Dual seat: both Houses 10d | Parliament+State 14d | Lily Thomas = instant on ≥2y conviction
-SPEAKER 93: House elects; resigns to Dy Speaker; 14d + majority of all then members (94)
-  Casting vote | Money Bill cert | joint sitting | Meira Kumar 1st woman | Pro Tem = President
-CHAIRMAN RS = VP (NOT a member) | Dy Chairman from among RS (90)
-
-SESSIONS 85: Budget/Monsoon/Winter | gap ≤6 months
-  Adjourn = sitting | Prorogue = session (Bills live) | Dissolve = LS life
-QUORUM 100 = 1/10 (LS~55, RS~25) | Lame duck = last LS session after new LS elected
-LoP = 1977 Act, ~10% convention | Whip 1/2/3-line (extra-constitutional)
-
-JOINT SITTING 108 (NOT 109): ordinary bills only | Speaker presides | NEVER Money/Appr/CAB
-PRIVILEGES 105 (civil arrest 40d; not criminal) | 44th = as on 20 Jun 1979 | Art.122
-Secretariat 98 (each House)
-
-FUNDS: CFI 266(1) voted | Public A/c 266(2) not voted | Contingency 267 (President)
-BUDGET 112 Annual Financial Statement | charged discussed NOT voted | Guillotine
-  Grants: supplementary/additional/excess 115 | vote on account / credit / exceptional 116
-BILLS: Ordinary 107 either House + joint sitting
-  Money 110 ONLY LS | Speaker cert FINAL | RS 14 days recommendatory | President cannot return
-  Fin Bill I 117(1) = money-matter + other | only LS | RS can amend | joint sitting YES
-  Fin Bill II 117(3) = expenditure from CFI | either House | joint sitting YES
-  Finance Bill = annual tax (usually Money Bill) | Appropriation 114 = Money Bill
-DEVICES: QH first hour | Zero Hour AFTER QH (1962 Indian) | Adjournment/No-conf = LS only
-  Cut: policy ₹1 · economy · token ₹100
-COMMITTEES: PAC 22 (15LS+7RS) opp. chair, CAG reports | Estimates 30 LS-only (largest of 3)
-  COPU 22 | DRSC 24×31 (21+10) | BAC = Speaker
-```
+| A | B | Lock | Hindi |
+|---|----|------|-------|
+| Art. 79 Parliament | “Two Houses only” | President **+** RS **+** LS | संसद |
+| Art. 108 joint sitting | Art. 109 Money Bill procedure | Joint sitting ≠ 109 | संयुक्त बैठक / धन विधेयक |
+| Money Bill (110) | Financial Bill (117) | LS only + RS 14 days vs 117(1)/117(3) paths | धन / वित्तीय |
+| Finance Bill | Financial Bill | Annual tax Bill vs Art. 117 categories | वित्त / वित्तीय |
+| RS permanent House | Member’s 6-year term | House **never** dissolved vs individual term | राज्य सभा |
+| VP as Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
+| Question Hour | Zero Hour | First hour vs **after** Question Hour | प्रश्न / ज़ीरो ऑवर |
+| PAC (22; opp. chair) | Estimates (30 LS-only) | Mixed Houses + opposition chair vs LS-only largest | लोक लेखा / प्राक्कलन |
+| CFI / Public Account (266) | Contingency Fund (267) | Do not park Contingency under 266 | निधि |
+| Charged expenditure | Voted expenditure | Discussed **not** voted vs needs vote | भारित / मतदेय |
+| No-confidence | Rajya Sabha | **Lok Sabha only** | अविश्वास |
+| Civil privilege | Criminal process | Privilege covers civil arrest window, **not** crime | विशेषाधिकार |
+| Anglo-Indian nomination | SC/ST reservation | Ended by **104th** vs continues till **25 Jan 2030** | एंग्लो-इंडियन / आरक्षण |
+| Speaker Money Bill certificate | Office-of-profit decision | Speaker final on Money Bill vs **President + EC** on office of profit | अध्यक्ष / लाभ का पद |
 
 ---
 

@@ -14,26 +14,36 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-ORG → HQ → FLAGSHIP:
-  UNEP   Nairobi   Emissions Gap Report, GEO | Stockholm 1972
-  UNDP   New York  HDR / HDI (from 1990)
-  FAO    Rome      SOFO; Rotterdam with UNEP
-  UNESCO Paris     World Heritage; MAB Biosphere Reserves
-  IUCN   Gland     Red List (extinction risk)
-  WWF    Gland     Living Planet Report / LPI
-  IPCC   Geneva    Assessment Reports | WMO+UNEP 1988 | Nobel 2007
+1. **UNEP** was created after **Stockholm 1972**. Its HQ is **Nairobi**. Flagship products include the **Emissions Gap Report** and **GEO**.
+2. **UNDP** sits in **New York** and publishes the **Human Development Report / HDI** (from **1990**).
+3. **FAO** sits in **Rome** and publishes **SOFO**. It co-hosts Rotterdam work with UNEP.
+4. **UNESCO** sits in **Paris** and runs World Heritage and the **MAB** Biosphere Reserve programme.
+5. **IUCN** sits in **Gland** and publishes the **Red List** of extinction risk.
+6. **WWF** also sits in **Gland** and publishes the **Living Planet Report / LPI**.
+7. **IPCC** sits in **Geneva**. It was created by **WMO + UNEP** in **1988** and shared the **2007** Nobel Peace Prize.
+8. Emissions Gap Report = **UNEP**, not IPCC or UNDP. HDR = **UNDP**, not UNEP.
+9. IPCC does science assessment. **UNFCCC** is the climate treaty. Do not merge the two.
+10. IUCN assesses extinction risk. **CITES** regulates wildlife **trade**. Different jobs.
+11. IUCN and WWF share a city but differ: assessment union versus conservation NGO campaigning and Living Planet metrics.
+12. UNEP coordinates environment. UNDP coordinates development. HQ and report locks separate them.
+13. UNESCO heritage–education–MAB is not the same as UNEP environment coordination.
+14. The **GEF (1991)** is a multilateral funder. Donors are not “developed countries only” as a rigid lock.
+15. IPCC Assessment Reports synthesize climate science. They do not set national NDCs.
+16. FAO’s food–forest–agriculture mandate explains why SOFO and pesticide PIC work sit there.
+17. Red List categories are IUCN risk ranks, not CITES Appendix numbers.
+18. Living Planet Index tracks vertebrate abundance trends for WWF messaging.
+19. Nairobi versus Geneva versus New York versus Rome versus Paris versus Gland is a high-yield HQ ladder.
+20. Do not credit IPCC with the Emissions Gap Report.
+21. Do not credit UNEP with HDI.
+22. Treaty secretariats hosted or supported by UNEP (Montreal, Basel, Stockholm POPs, Minamata) are still treaty bodies, not UNEP synonyms.
+23. WWF is not the Red List author. IUCN is.
+24. FAO HQ is Rome, not Paris or Geneva.
 
-TRAPS:
-  Emissions Gap = UNEP (not IPCC/UNDP) | HDR = UNDP (not UNEP)
-  IPCC = science ≠ UNFCCC treaty | IUCN assess ≠ CITES trade
-  UNEP ≠ UNDP | WWF ≠ IUCN (same city, different roles)
-  GEF 1991 — donors not “developed only” (2025 Q145)
-```
+---
 
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Pair | Lock |
 |------|------|

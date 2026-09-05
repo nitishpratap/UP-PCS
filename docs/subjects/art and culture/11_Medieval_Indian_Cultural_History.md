@@ -15,27 +15,40 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-ART: Humayun brings Mir Sayyid Ali + Abdus Samad | Akbar kitabkhana Razmnama | Jahangir Mansur naturalism | Aurangzeb painters leave
-ARCH: Qutub Aibak–Iltutmish | Alai Darwaza Khalji | Jaunpur Sharqi Atala | Humayun Tomb Delhi charbagh | Fatehpur Sikri Akbar | Taj Shah Jahan Agra
-2025 TOMBS: Babur Kabul 4 | Humayun Delhi 3 | Jahangir Lahore 2 | Shah Jahan Agra 1 → 4 3 2 1
-BULAND: Fatehpur Sikri, Gujarat victory. NOT Jahangir birth (1569)
-LIT: Babur Tuzuk Turki | Court Persian | Abul Fazl Akbarnama + Ain | Faizi poet | Nakhshabi Tutinama | Azizuddin Khan Nagarkot
-SULTANATE: Iqta + muqti troops | Khalsa = crown direct | Jagir ≠ Khalsa
-AKBAR ADMIN: Mansab zat+sawar, NOT hereditary | Zabt/Dahsala Todar Mal 1580 | Dam copper like Sher Shah | 15 subas
-CULTURE: Ibadat Khana 1575 | Sulh-i-kul | Din-i-Ilahi 1582 NOT state religion | Jizya off 1564 | Mahzar 1579
-NAVARATNA: Tansen (from Ramchandra of Bhata) | Todar Mal | Birbal | Abul Fazl | Faizi
-CHRONOLOGY 2024: Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604
-UP: Jaunpur Sharqi | Agra–Fatehpur Sikri | Tulsidas Awadhi | Kavindra Acharya Banaras–Shah Jahan
-```
+1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad**. **Akbar** built the **kitabkhana** and the illustrated **Razmnama**. **Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
+2. Sultanate architecture spine: **Qutub** under Aibak–Iltutmish, **Alai Darwaza** under the Khaljis, and **Jaunpur Sharqi** work such as **Atala Masjid**.
+3. Mughal architecture spine: **Humayun’s Tomb** at Delhi with **charbagh**, **Fatehpur Sikri** under Akbar, and the **Taj Mahal** under Shah Jahan at Agra.
+4. Tomb geography lock: **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, **Shah Jahan** at **Agra**. Only Shah Jahan’s tomb among these is in Uttar Pradesh.
+5. **Buland Darwaza** at Fatehpur Sikri marks Akbar’s **Gujarat victory**. It is **not** a monument for Jahangir’s birth in **1569**.
+6. **Babur** wrote his memoir (*Tuzuk-i-Baburi*) in **Chagatai Turki**. The Mughal **court language** was **Persian**. Do not swap the two.
+7. **Abul Fazl** wrote the narrative **Akbarnama** and the gazetteer **Ain-i-Akbari**. **Faizi** was the court poet. **Nakhshabi** wrote the *Tutinama*.
+8. Death chronology lock: **Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604**.
+9. Sultanate **iqta** gave revenue to a **muqti** to raise troops. **Khalsa** was crown land under **direct** state control. A **jagir** is a revenue assignment, not Khalsa.
+10. Akbar’s **mansab** had **zat** (personal rank) and **sawar** (cavalry contingent). The original mansab system was **not hereditary**.
+11. **Zabt** is measured land assessment. **Dahsala** is Todar Mal’s **ten-year** average revenue system from about **1580**.
+12. The copper **dam** continued from Sher Shah into Akbar’s currency. Akbar organised about **15 subas** in the mature empire map used in exams.
+13. **Ibadat Khana** debates began at Fatehpur Sikri in **1575**. **Sulh-i-kul** was the public peace policy. **Din-i-Ilahi** of **1582** was a private fellowship, not a state religion.
+14. Akbar abolished **jizya** in **1564**. The **Mahzar** of **1579** asserted Akbar’s authority in religious disputes.
+15. Navaratna locks include **Tansen** (from Ramchandra of Bhata), **Todar Mal**, **Birbal**, **Abul Fazl**, and **Faizi**.
+16. Uttar Pradesh architecture: **Jaunpur** Sharqi (Atala, Lal Darwaza), **Agra** Fort–Itimad-ud-Daulah–Taj–Ram Bagh, and **Fatehpur Sikri** (Buland Darwaza, Ibadat Khana, Salim Chishti).
+17. **Tulsidas** wrote the Awadhi *Ramcharitmanas* in Akbar’s age. **Kavindra Acharya** of Banaras is linked to Shah Jahan’s court culture.
+18. These are **not** UP tombs: Babur at Kabul, Jahangir at Lahore, Humayun at Delhi.
+19. Medieval painting moved from Sultanate book-art into the Mughal **kitabkhana**, then outward to Rajput and Pahari courts as imperial patronage shifted.
+20. **Alai Darwaza** is an Alauddin Khalji gateway at the Qutub complex. It is not a Sharqi Jaunpur monument.
+21. **Fatehpur Sikri** is Akbar’s planned capital near Agra. It holds Buland Darwaza and the Ibadat Khana, not Shah Jahan’s Taj.
+22. **Akbarnama** tells the reign story. **Ain-i-Akbari** is the administrative and statistical companion. Papers often swap the two titles.
+23. **Zat** ranks the man’s personal status. **Sawar** ranks the horsemen he must maintain. High zat with low sawar is a classic trap pattern.
+24. **Iqta** revenue stayed with the muqti for troops. **Khalsa** revenue went to the treasury under direct officials. Do not call jagirs “direct crown land.”
+25. Persian was the language of farmans, chronicles, and court poetry after Babur. Turki remained Babur’s personal memoir tongue, not later court speech.
+26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** is the broader public tolerance policy examined more often than the private cult.
+27. **Jaunpur** Sharqi architecture is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
+28. **Azizuddin Khan** is linked to the *Nagarkot* / Kangra campaign literature lock in the medieval culture map; keep him separate from Abul Fazl’s court histories.
 
-- Court language = **Persian**, not Turki.
-- Jagirs are **not** land under direct state control.
-- Mansab is **not** hereditary in the original system.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -504,19 +517,6 @@ D. Muzaffar Shah of Gujarat
 **Ans: A — Ramchandra of Bhata.**
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- **Jaunpur** Sharqi architecture includes Atala and Lal Darwaza. It is not Delhi architecture.
-- **Agra** has the Fort, Itimad-ud-Daulah, the Taj and Ram Bagh.
-- **Fatehpur Sikri** has Buland Darwaza, Ibadat Khana and Salim Chishti.
-- **Tulsidas** wrote the Awadhi *Ramcharitmanas* in Akbar’s age.
-- **Kavindra Acharya** was of Banaras, under Shah Jahan.
-- These are **not** UP tombs: Babur at Kabul, Jahangir at Lahore, Humayun at Delhi.
 
 ---
 

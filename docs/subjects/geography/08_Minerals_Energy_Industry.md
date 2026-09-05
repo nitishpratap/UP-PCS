@@ -16,54 +16,36 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 28 Must-Score Locks
 
-```
-IRON: Hematite (~50–60%, most used) + Magnetite (~70% Fe) | 2021–22 leaders OD + CG (2022 Q2)
- Four belts: OD–JH | Durg–Bastar–Chandrapur | Ballari–Chitradurga belt | MH–Goa
- Map first: east of Mangalore–Kanpur line | plains almost mineral-empty | Chota Nagpur = richest / India’s Ruhr
- Belts: NE plateau + Central + SW plateau + NW Aravalli + Himalaya/Assam | non-ferrous poor except bauxite | mica = Koderma–Gaya–Hazaribagh dielectric
- Gurumahisani OD | Bailadila CG | Noamundi JH | Kudremukh KA
- Mount Newman = iron (Australia) | Ballari = iron city
-Mn: OD, MH, MP | Postmasburg SA = Mn | Bhilwara ≠ Mn
-BAUXITE→Al: OD lead (Panchpatmali); laterite link; Katni MP city | BALCO Korba | HINDALCO Renukoot (UP) | MALCO = Mettur TN NOT Chennai | INDAL Hirakud | NALCO Damanjodi/Angul
-Cu: Khetri RJ | Singhbhum JH | Malanjkhand MP | Chitradurga ≠ Cu | Chile + Andes porphyry
-Au: Kolar hist. + Hutti KA | Sn: cassiterite; Kinta MY / Bangka ID = tin | Pegu Yoma MM = mineral oil (NOT tin)
-MICA: JH Kodarma + AP Nellore + RJ (Bhilwara mica, NOT Mn) | LIMESTONE: cement (bulky → plant near quarry); UP Chunar–Dalla
-Cr: Sukinda OD | Graphite OD/JH | Diamond Panna MP | Zn–Pb Zawar + Rampura-Agucha (Bhilwara) RJ | Ag with Pb–Zn
-ATOMIC: U Jaduguda JH | Th/Monazite KL–TN beaches | Li Reasi J&K; IN import-dependent Li/Ni/Co
-COAL: Gondwana peninsula (~97% in Damodar–Son–Mahanadi–Godavari) vs Tertiary NE
- Rank: peat→lignite→bituminous→anthracite | Coking→steel; non-coking→thermal (~80%)
- Raniganj WB | Jharia JH (coking) | Ramgarh JH | Talcher OD
- Maolong = Meghalaya NOT Arunachal
- Valleys: Talcher–Mahanadi | Karanpura–Damodar | Singrauli–Son | Singareni–Godavari
- Singrauli NTPC oldest; MP–UP NOT N-CG
- Lignite Neyveli TN | World: Appalachian USA, Lancashire Eng, Ruhr DE, Kuzbass RU, Donetsk UA
-OIL/GAS: sedimentary basins | Methane = NG & CNG | LPG = propane/butane (≠ CNG)
- Digboi/Naharkatiya AS | Mumbai High | Ankleshwar GJ | Barmer RJ | KG/Cauvery
- Black Revolution = petroleum | Kuwait–Kashagan WRONG (Kazakhstan)
- Refineries: Nayara GJ, Manali TN, Numaligarh AS, Tatipaka AP | Digboi AS | Mathura UP | Barauni BR | Panipat HR | Jamnagar GJ | Paradip OD | Bina MP | Haldia WB
-ENERGY: Conventional = coal/oil/gas/nuclear | Non-conventional = solar/wind/tidal/biogas/geothermal
-THERMAL: flyash | coal non-renewable
-HYDEL: Shivanasamudra | Himalaya potential; E-UP/Bihar vs Nepal
-NUCLEAR: Tarapur MH | Kakrapar GJ | Kudankulam TN | Kaiga KA | Rawatbhata RJ | Kalpakkam TN | Narora UP
- Shivanasamudra hydel + Kalpakkam nuclear | Nuclear ≠ biomass; Nuclear & geothermal ≠ from Sun
-SOLAR: PV cells | Diu first UT 100% | Cochin first solar airport | no atm. pollution among options
- ISA HQ Gurugram (not Delhi/Paris) | India+France 2015 | NOT 38 members | OSOWOG under ISA
- Mirzapur (UP) major solar + France
-WIND: TN (Muppandal) + GJ (Kutch) + RJ (Jaisalmer) | TIDAL: Khambhat > Kutch | BIO: gobar, wood (not coal/nuclear)
-INDUSTRY: location = raw material/power/labour/market/transport/capital/policy
- Cotton: MH–GJ first cluster (cotton + humidity + Mumbai port); Mumbai traditionally largest; Ahmedabad in belt but not traditionally largest; Coimbatore TN spinning; Kanpur UP mill city; Hugli = jute
- Rubber: Kerala natural rubber core; tyres near markets/ports; synthetic ↔ petrochem
- Regions: Mumbai–Pune | Hugli jute | Bangalore–TN | Gujarat petro/textile | Chotanagpur mineral-heavy | Vizag–Guntur | Gurgaon–Delhi–Meerut | Kollam–Tvm
- STEEL: Bhilai CG | Rourkela OD | Bokaro JH | Durgapur WB | Vizag AP | Salem TN | Jamshedpur JH
- Agencies: ONGC Delhi | MECL Nagpur | NMDC Hyderabad | NALCO Bhubaneswar
- DMIC Delhi–Mumbai | DFC E+W | SEZ export zones | other corridors exist
-UP: Sonbhadra energy capital | Shankargarh silica → Firozabad glass | Chunar–Churk–Dalla cement
- Sonrai Lalitpur Cu | Obra/Anpara/Rihand thermal | Narora nuclear | Mathura refinery | HINDALCO Renukoot
- Cities: Kanpur textile/leather | Moradabad brass | Aligarh locks | Firozabad glass | Meerut sports/NCR | Noida–Ghaziabad NCR
- UP coal = non-coking Singrauli–Sonbhadra (not Jharia coking)
-```
+1. Most of India’s mineral wealth lies **east of the Mangalore–Kanpur line**. The northern plains are almost empty of major ores. **Chota Nagpur** is the richest mineral belt and is often called India’s Ruhr.
+2. India is poor in many non-ferrous metals but rich in **bauxite**. Mica’s classic dielectric belt is **Koderma–Gaya–Hazaribagh** in Jharkhand.
+3. In the 2021–22 Ministry of Mines framing used in papers, the leading iron-ore states are **Odisha and Chhattisgarh**. Do not assume Jharkhand and Karnataka always lead.
+4. Iron-ore mine–state locks are **Gurumahisani (Odisha)**, **Bailadila (Chhattisgarh)**, **Noamundi (Jharkhand)**, and **Kudremukh (Karnataka)**. Mount Newman in Australia is famous for **iron**, not manganese.
+5. The four main iron belts are the Odisha–Jharkhand belt, the Durg–Bastar–Chandrapur belt, the Ballari–Chitradurga belt, and the Maharashtra–Goa belt.
+6. Manganese leaders include **Odisha, Maharashtra and Madhya Pradesh**. Postmasburg in South Africa is a manganese centre. **Bhilwara** is not a manganese city — it is known for mica and zinc.
+7. Bauxite feeds aluminium and often sits with **laterite**. Odisha leads (Panchpatmali). **MALCO** is at **Mettur, Tamil Nadu**, not Chennai. **HINDALCO** is at **Renukoot, Uttar Pradesh**. BALCO is at Korba; NALCO at Damanjodi/Angul.
+8. Copper locks are **Khetri (Rajasthan)**, Singhbhum (Jharkhand) and Malanjkhand (Madhya Pradesh). **Panna (Madhya Pradesh)** is diamond. **Sukinda (Odisha)** is chromite. **Zawar** and **Rampura-Agucha** (Bhilwara) are zinc–lead.
+9. Uranium’s classic mine is **Jaduguda, Jharkhand**. Thorium and monazite sands line the **Kerala–Tamil Nadu** beaches. Lithium finds at **Reasi, Jammu & Kashmir** matter, but India still imports much Li, Ni and Co.
+10. About **97%** of Indian coal is **Gondwana** coal in the Damodar–Son–Mahanadi–Godavari valleys. Tertiary coal is mainly in the North-East. Rank rises **peat → lignite → bituminous → anthracite**.
+11. Coalfield locks: **Raniganj (West Bengal)**, **Jharia (Jharkhand, coking)**, Ramgarh (Jharkhand), **Talcher (Odisha)**. **Maolong** coal is in **Meghalaya**, not Arunachal. **Neyveli** is lignite in Tamil Nadu.
+12. Valley–field pairs: Talcher–Mahanadi, Karanpura–Damodar, Singrauli–Son, Singareni–Godavari. **Singrauli** is the oldest large NTPC hub and sits on the **Madhya Pradesh–Uttar Pradesh** border, not northern Chhattisgarh.
+13. World coal traps: Ruhr is **Germany**; Donetsk is **Ukraine**; Appalachian is USA; Kuzbass is Russia. **Pegu Yoma (Myanmar)** is mineral oil, not tin. **Kashagan** oil is in **Kazakhstan**, not Kuwait.
+14. **Methane** is the main gas in natural gas and **CNG**. **LPG** is propane–butane and is not the same as CNG. The **Black Revolution** means petroleum, not oilseeds.
+15. Oil–gas hubs include Digboi/Naharkatiya (Assam), Mumbai High, Ankleshwar (Gujarat), Barmer (Rajasthan) and the Krishna–Godavari / Cauvery basins. Digboi is among India’s oldest refineries.
+16. Refinery–state cues: Nayara (Gujarat), Manali (Tamil Nadu), Numaligarh (Assam), Tatipaka (Andhra Pradesh), **Mathura (Uttar Pradesh)**, Barauni (Bihar), Panipat (Haryana), Jamnagar (Gujarat), Paradip (Odisha), Bina (Madhya Pradesh), Haldia (West Bengal).
+17. Conventional energy means coal, oil, gas and nuclear. Non-conventional means solar, wind, tidal, biogas and geothermal. Nuclear and geothermal energy are **not** stored solar energy.
+18. Nuclear plant locks: **Tarapur (Maharashtra)**, **Kakrapar (Gujarat)**, **Kudankulam (Tamil Nadu)**, **Kaiga (Karnataka)**, **Rawatbhata (Rajasthan)**, **Kalpakkam (Tamil Nadu)**, **Narora (Uttar Pradesh)**. **Shivanasamudra** is hydel, not nuclear.
+19. Solar cues: electricity from **PV cells**; **Diu** was the first Union Territory to go fully solar-powered; **Cochin** was the first solar airport. The **International Solar Alliance** headquarters is at **Gurugram**, not New Delhi or Paris.
+20. Wind leaders include Tamil Nadu (Muppandal), Gujarat (Kutch) and Rajasthan (Jaisalmer). Tidal potential is higher in the **Gulf of Khambhat** than in Kutch.
+21. The first cotton-mill cluster grew in **Maharashtra–Gujarat** on cotton, humidity and Mumbai port. **Mumbai** was traditionally the largest mill centre; Ahmedabad is in the belt but was not traditionally the largest. Coimbatore is a Tamil Nadu spinning hub; Kanpur is an Uttar Pradesh mill city.
+22. Steel plant locks: **Bhilai (Chhattisgarh)**, **Rourkela (Odisha)**, **Bokaro (Jharkhand)**, **Durgapur (West Bengal)**, Vizag (Andhra Pradesh), Salem (Tamil Nadu), Jamshedpur (Jharkhand). Chotanagpur is the mineral-heavy industrial heartland.
+23. Agency headquarters cues: ONGC Delhi, MECL Nagpur, NMDC Hyderabad, NALCO Bhubaneswar.
+24. The **Delhi–Mumbai Industrial Corridor (DMIC)** and the **Eastern and Western Dedicated Freight Corridors** are the main corridor locks. SEZs are export-oriented zones.
+25. In Uttar Pradesh, **Sonbhadra** is the energy capital. **Mathura** has the major refinery. **Narora** is the nuclear plant. Obra, Anpara and Rihand are thermal hubs.
+26. Shankargarh silica feeds the **Firozabad** glass industry. The **Chunar–Churk–Dalla** belt is cement. **HINDALCO Renukoot** is aluminium. Sonrai (Lalitpur) has copper awareness.
+27. Uttar Pradesh city industry cues: Kanpur textile and leather, Moradabad brass, Aligarh locks, Firozabad glass, Meerut sports goods, Noida–Ghaziabad NCR engineering.
+28. Uttar Pradesh coal is mostly **non-coking** Singrauli–Sonbhadra coal. It is not Jharia-type coking coal.
 
 ---
 
@@ -106,8 +88,6 @@ UP: Sonbhadra energy capital | Shankargarh silica → Firozabad glass | Chunar�
 | Magnetite vs hematite | Magnetite ~**70%** Fe; hematite most **used** | Swap grades / uses | मैग्नेटाइट ≠ हेमेटाइट मात्रा |
 | Chota Nagpur vs Aravalli | Chota Nagpur = richest multi-mineral | Call Aravalli richest | छोटानागपुर = समृद्ध |
 | Mica belt | **Koderma–Gaya–Hazaribagh** + Nellore + Ajmer | Only “Kodarma town” as if exclusive | कोडरमा–गया–हजारीबाग |
-
----
 
 ---
 
@@ -167,7 +147,6 @@ Learn the belts as a map, not as rival “framings”. The north-eastern plateau
 - Control mine safety, land restoration, and pollution, because unmanaged mining is a high-risk industry.
 
 ---
-
 
 ## N.1 Metallic Minerals
 
@@ -842,33 +821,6 @@ Uttar Pradesh is not a Jharkhand-scale ore state. The **Gangetic plains** are al
 | Agra | Light industry and tourism, not a mineral capital |
 | Renukoot | Aluminium (HINDALCO) |
 | Chunar–Dalla belt | Cement |
-
----
-
-## Consolidated — 20 Must-Score Locks
-
-1. Most minerals **east of Mangalore–Kanpur**; plains almost empty; **Chota Nagpur** = richest / India’s Ruhr; non-ferrous poor except bauxite.
-2. Iron leaders (2021–22 framing) = **Odisha + Chhattisgarh**.
-3. Gurumahisani OD · Bailadila CG · Noamundi JH · Kudremukh KA.
-4. Mount Newman = iron; Postmasburg = manganese; ~**97% coal** in Damodar–Son–Mahanadi–Godavari.
-5. MALCO = **Mettur**; HINDALCO = **Renukoot, UP**; BALCO = Korba; bauxite often with **laterite**.
-6. Khetri = Cu; Panna = diamond; Zawar + Rampura-Agucha = Zn–Pb; Sukinda = chromite.
-7. Jaduguda = U; monazite beaches = Th/REE; Li Reasi + import Li/Ni/Co.
-8. Maolong = **Meghalaya**; Raniganj WB; Talcher OD; Jharia JH (coking).
-9. Ruhr = Germany; Donetsk = Ukraine coal; Kashagan = Kazakhstan; **Pegu Yoma = mineral oil**.
-10. Methane = NG/CNG; **LPG ≠ CNG**. Black Revolution = petroleum.
-11. Refineries: Nayara GJ, Manali TN, Numaligarh AS, Tatipaka AP; Mathura = UP.
-12. Singrauli NTPC oldest, **MP–UP** not N-CG.
-13. Kudankulam TN, Kakrapar GJ, Kaiga KA, Rawatbhata RJ, Narora UP.
-14. Shivanasamudra = hydel; Kalpakkam = nuclear; conventional ≠ non-conventional framing.
-15. Diu = first solar UT; Cochin = first solar airport; PV cells; Khambhat tidal; ISA HQ = **Gurugram**.
-16. Nuclear & geothermal **not** from the Sun.
-17. Cotton: MH–GJ first cluster; **Mumbai** traditionally largest mill centre; Ahmedabad in cotton belt but not traditionally largest; Coimbatore = TN spinning; Kanpur = UP mill city.
-18. Steel: Bhilai CG, Rourkela OD, Bokaro JH, Durgapur WB; Chotanagpur = mineral-heavy industry.
-19. DMIC = Delhi–Mumbai; DFC Eastern + Western; SEZ = export zone.
-20. Sonbhadra = UP energy capital; Mathura refinery; Shankargarh silica → Firozabad glass.
-
----
 
 ## Practice Zone — UPPCS Format Questions
 
@@ -1905,7 +1857,6 @@ D. Sonrai — petroleum refinery
 </details>
 
 ---
-
 
 **Q61.** With reference to the distribution of minerals in India, which of the following statements is/are correct?
 

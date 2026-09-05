@@ -14,30 +14,36 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-UP: 1 NP (Dudhwa, Lakhimpur Kheri) + 25 WLS | landlocked → zero marine/coastal NP
-TRAP: Valmiki = Bihar | Sultanpur = Haryana | Corbett = Uttarakhand
+1. Uttar Pradesh has **one National Park — Dudhwa** — in **Lakhimpur Kheri** on the Indo-Nepal Terai.
+2. Dudhwa moved sanctuary (**1958**) → National Park (**1977**) → core of **Dudhwa Tiger Reserve (1987)** with Kishanpur and Katarniaghat.
+3. **Valmiki** National Park is in **Bihar**. **Sultanpur** National Park is in **Haryana**. **Corbett** is in **Uttarakhand**. None is a UP national park.
+4. Uttar Pradesh is **landlocked**, so it has **zero** marine or coastal national parks.
+5. UP has **25 Wildlife Sanctuaries**. **Hastinapur** is the largest. **Chandraprabha** is in **Chandauli**. **Katarniaghat** was established in **1975**.
+6. **Rudrasagar** Lake is in **Tripura**. **Sultanpur** NP is in **Haryana**. **Samaspur** and **Sarsai Nawar** **are** in Uttar Pradesh.
+7. India’s first National Park is **Hailey / Jim Corbett (1936)** in Uttarakhand. The world’s first is **Yellowstone (USA, 1872)**.
+8. India’s **largest** National Park is **Hemis** in **Ladakh**. **Madhya Pradesh** has the most national parks.
+9. **Gir (Gujarat)** holds the only wild **Asiatic lions**. **Kaziranga (Assam)** is the classic one-horned rhino stronghold.
+10. A National Park is the strictest **Wildlife Protection Act** category (Section **35**). Boundary change needs **Parliament**.
+11. A Wildlife Sanctuary (Section **36**) is more flexible than a National Park. National Parks are **in-situ** conservation.
+12. India’s first Marine National Park is **Gulf of Kutch (Gujarat)**. Others include **Gulf of Mannar (Tamil Nadu)** and the Andaman marine parks.
+13. Marine NP locks: **Mahatma Gandhi Marine** and **Rani Jhansi Marine** are in the **Andaman** group.
+14. Natural World Heritage overlaps include Kaziranga, Keoladeo, Manas, Sundarbans, Nanda Devi–Valley of Flowers, Western Ghats, Great Himalayan, and Khangchendzonga.
+15. Uttar Pradesh has **no** natural UNESCO World Heritage site of its own.
+16. Classic match set: **Dachigam–Jammu & Kashmir**, **Keoladeo–Rajasthan**, **Kanha–Madhya Pradesh**, **Periyar–Kerala**.
+17. **Pilibhit (2014)** and **Ranipur (2023)** are tiger reserves. They are **not** additional full state national parks of UP.
+18. National Chambal Sanctuary spans Agra–Etawah with Madhya Pradesh and Rajasthan and is famous for **gharial** and dolphin.
+19. Coastal national parks sit on or near the coast. Marine national parks protect marine, coral, or mangrove seascapes.
+20. **Keoladeo** is a migratory-bird park in Rajasthan with Ramsar and World Heritage tags — not a UP park.
+21. Dudhwa flagship fauna include tiger, reintroduced one-horned rhino, and **barasingha** (swamp deer).
+22. Terai Arc pieces with Dudhwa are **Kishanpur** (Lakhimpur Kheri) and **Katarniaghat** (Bahraich).
+23. Do not invent a second UP national park by renaming a tiger reserve or a Bihar park.
+24. World-first versus India-first is a fixed pair: **Yellowstone 1872** versus **Corbett 1936**.
 
-INDIA: First NP = Corbett (Hailey) 1936 UK | Largest = Hemis, Ladakh
-  Only Asiatic lions = Gir, Gujarat | Most NPs = Madhya Pradesh (~11)
-  NP = in-situ (2023 Q118)
+---
 
-MARINE NPs (4): Gulf of Kutch (Gujarat) FIRST | Gulf of Mannar (TN)
-  Mahatma Gandhi Marine + Rani Jhansi Marine (Andaman)
-
-WORLD FIRST: Yellowstone USA 1872 | India first Corbett 1936
-
-NATURAL WH (NP overlap): Kaziranga, Keoladeo, Manas, Sundarbans,
-  Nanda Devi+VoF, Western Ghats, Great Himalayan, Khangchendzonga
-  UP = NO natural UNESCO WH site
-
-2025 Q90: Dachigam=J&K | Keoladeo=RJ | Kanha=MP | Periyar=KL → D
-2025 Q58 NOT in UP: Rudrasagar (Tripura) + Sultanpur (Haryana)
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -362,21 +368,6 @@ Which pair is NOT correctly matched?
 | MG / Rani Jhansi Marine | Andaman | Island marine |
 
 > **Exam note:** Coastal ≠ automatically “first marine NP.”
-
----
-
-## Consolidated Reference
-
-| Lock | Value |
-|------|-------|
-| UP NP | Dudhwa only (Lakhimpur Kheri) |
-| UP WLS | 25; Hastinapur largest |
-| India first NP | Corbett 1936 |
-| World first NP | Yellowstone 1872 |
-| First Marine NP | Gulf of Kutch |
-| Largest India NP | Hemis |
-| Only Asiatic lions | Gir |
-| Natural WH in UP | **None** |
 
 ---
 

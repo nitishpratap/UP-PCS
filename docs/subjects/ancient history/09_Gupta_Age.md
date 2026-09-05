@@ -15,27 +15,42 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-Sri Gupta → Ghatotkacha → Chandragupta I (Licchavi Kumaradevi) → Samudragupta → Chandragupta II Vikramaditya → Kumaragupta I → Skandagupta
-~320–550 CE | Pataliputra | Ujjain second under CG II
+1. The imperial Gupta line runs **Sri Gupta → Ghatotkacha → Chandragupta I → Samudragupta → Chandragupta II → Kumaragupta I → Skandagupta**. The empire spans roughly **320–550 CE**, with capital **Pataliputra**.
+2. **Sri Gupta** and **Ghatotkacha** carry only the title **Maharaja**. The first Gupta **Maharajadhiraja** is **Chandragupta I**.
+3. Chandragupta I married Lichchhavi princess **Kumaradevi**. The **king-and-queen** gold type belongs to this pair, and the Gupta era is usually pegged at **319–320 CE**.
+4. **Samudragupta** is the digvijaya king. In the north he **uprooted** nine kings and annexed land; in the south he **defeated then restored** twelve kings as tribute.
+5. The south match locks are **Dhananjaya–Kusthalapura**, **Nilaraja–Avamukta**, **Ugrasena–Palaka**, and **Vishnugopa–Kanchi**.
+6. The **Prayag Prashasti** is **Harishena’s** eulogy of Samudragupta, carved on the **Allahabad** Ashokan shaft. The prashasti is the **text**; the pillar is the **shaft**.
+7. **Chandragupta II (Vikramaditya)** ended the Western Kshatrapas in Malwa–Gujarat. **Ujjain** became a second pole while Pataliputra stayed the old capital.
+8. The strongest Shaka-victory proof for Chandragupta II is his **silver** coins weighing about **33 grains**. Gold dinaras are prestige types, not that proof.
+9. **Fa-Hien** visited India about **399–414 CE** under Chandragupta II. Traveller order is **Fa-Hien → Hiuen Tsang → I-Tsing → Al-Biruni**.
+10. **Kumaragupta I (Mahendraditya)** is the traditional founder-patron of **Nalanda**. Chinese visitors later studied there; they did not found it.
+11. **Skandagupta** is the last great imperial Gupta. The **Bhitari** pillar records his **Huna** war, and he also repaired the **Sudarsana** lake at Girnar.
+12. Gupta provinces are **bhukti** under an **uparika**. Districts are **vishaya** under a **kumaramatya**. The **sandhivigrahika** handles peace and war.
+13. Gupta rule runs through **samantas** and land grants. It is **not** a Mauryan spy-state, and “Guptas more central than Mauryas” is the trap.
+14. Gold coin types: **king-queen** = Chandragupta I; **lyrist / horse** = Samudragupta; **archer** = Chandragupta II; peacock types often mark **Kumaragupta I**.
+15. **Nalanda** is Gupta (Kumaragupta I). **Takshashila** is the older Gandhara town. **Vikramashila** is Pala **Dharmapala**. **Vallabhi** is Maitraka Gujarat.
+16. The classical **Sarnath Buddha** has a plain drape and halo. It is Gupta art, **not** Kushan **Gandhara** Greco-Buddhist sculpture.
+17. **Kalidasa** belongs to the Chandragupta II court tradition. *Shringara Shataka* is **Bhartrihari**, not Kalidasa.
+18. Later author–book locks: **Trivikrama Bhatta–Nala Champu**, **Somadeva–Kathasaritsagara**, **Jayadeva–Gita Govinda**, **Kshemendra–Brihatkathamanjari**.
+19. Science locks: **Aryabhata** wrote the *Aryabhatiya* and taught Earth’s rotation; **Varahamihira** wrote the *Brihatsamhita*.
+20. The **Mehrauli** iron pillar’s “Chandra” is usually taken as **Chandragupta II**. **Udayagiri** Varaha caves also sit in his reign.
+21. Chandragupta II’s daughter **Prabhavatigupta** married Vakataka **Rudrasena II** and later ruled as regent. Do not confuse Chandragupta II with Chandragupta Maurya.
+22. The **Vishnu Purana** carries Maurya genealogy. The **Vayu Purana** does **not** give a usable Gupta system of governance.
+23. **Bhitargaon** (Kanpur belt) is a Gupta-age brick temple in Uttar Pradesh. **Deogarh** Dashavatara is an early stone shikhara temple.
+24. Gupta samvat and imperial titles start with Chandragupta I; Samudragupta’s *kaviraja* pose is backed by the **lyrist / veena** gold type.
+25. After Skandagupta the imperial centre thins through the sixth century. The next north reunion is **Harsha**, not another Gupta emperor.
+26. Fa-Hien is two centuries earlier than Hiuen Tsang. Fa-Hien is Chandragupta II’s witness; Xuanzang is Harsha’s.
+27. Ajanta’s famous painted caves are largely **Vakataka** Deccan allies with Gupta-age style links, not the default Sarnath Gupta lock.
+28. Land tax **bhaga** is remembered as about **1/6 to 1/4**. Guilds (**shreni**) kept their own rules under Gupta rule.
+29. Samudragupta’s frontier tribute includes Samatata, Davaka, Kamarupa, Nepala, and Karttripura; ganarajya tribute includes Malava, Yaudheya, Arjunayana, and Madraka.
+30. Do not confuse **Chandragupta I** (Licchavi marriage founder) with **Chandragupta II** (Vikramaditya, Shaka silver), or either with **Chandragupta Maurya** (~322 BCE).
 
-2022 Q23: CG II Shaka proof = silver coins + ~33 grains = Both B
-2018 Q87: Dhananjaya-Kusthalapura, Nilaraja-Avamukta, Ugrasena-Palaka, Vishnugopa-Kanchi = C 3-1-4-2
-2025 Q48: Shringara Shataka NOT Kalidasa = Only 3 (Bhartrihari)
-2025 Q86: Trivikram-Nal Champu, Somdev-Kathasaritsagara, Jaidev-Gita Govinda, Kshemendra-Brihatkathamanjari = A 3-4-1-2
-2024 Q149: Fa-Hien → Hiuen Tsang → I-Tsing → Al-Biruni = B 4-3-1-2
-2023 Q29: Vayu Purana ≠ Gupta governance (Only 1 — Vishnu Purana has Mauryas)
+---
 
-Prayag Prashasti = Harishena on Allahabad pillar (Ashoka shaft reused)
-North 9 uprooted | South 12 restored as tributes | Vishnugopa = Kanchi
-Bhukti-Uparika | Vishaya-Kumaramatya | Sandhivigrahika | samanta ≠ Mauryan spy-state
-Nalanda = Kumaragupta I | Taxila older | Vikramashila = Pala Dharmapala | Vallabhi = Maitraka
-Sarnath Buddha | Aryabhata
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|

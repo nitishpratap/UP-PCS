@@ -14,39 +14,40 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 28 Must-Score Locks
 
-```
-FOREST = Tree-dominated ecosystem | Carbon sink | Biodiversity habitat | Livelihood (NTFP)
+1. Forest cover in ISFR means a patch of at least **1 ha** with canopy **≥10%**, on any land ownership.
+2. Canopy classes: **VDF ≥70%**, **MDF 40–70%**, **OF 10–40%**.
+3. ISFR **2023** India locks: forest cover about **21.76%**, tree cover about **3.41%**, total green cover about **25.17%**.
+4. **Madhya Pradesh** has the largest forest **area**. **Mizoram** has the highest **percentage** cover among States.
+5. **Forest cover ≠ Recorded Forest Area ≠ tree cover**. Recorded forest area is a legal-notification figure near about **23%**.
+6. Under the **Indian Forest Act, 1927**, **Reserved Forest** is strictest (acts banned unless permitted). **Protected Forest** is State-regulated with some customary rights possible.
+7. **Champion and Seth (1968)** classify Indian forests into **16 types in 6 groups**. The largest share is **Tropical Dry Deciduous** (about **38%**).
+8. The six Champion–Seth groups are Moist Tropical, Dry Tropical, Montane Subtropical, Montane Temperate, Sub-Alpine, and Alpine.
+9. UP type locks: Terai = moist deciduous; Vindhyan = dry deciduous; Bundelkhand = thorn.
+10. Law chronology: **IFA 1927 → FCA 1980 → NFP 1988 → JFM 1990 → FRA 2006 → CAMPA Act 2016**.
+11. The **Forest (Conservation) Act, 1980** requires **Central** approval before diverting forest land. Compensatory afforestation is mandatory.
+12. **National Forest Policy 1988** targets about **33%** national forest cover and **66%** in hills and mountains.
+13. **Chipko (1973, Reni, Uttarakhand)** is the classic Himalayan forest movement lock. The **Godavarman (1996)** line broadened the meaning of “forest.”
+14. Afforestation tools include **NAP (2000)**, **Green India Mission (2014)**, and **CAMPA** funds for compensatory planting.
+15. **Social forestry** (NCA **1976** lineage) grows trees on **non-forest** land for local needs: farm, community, and extension forestry.
+16. **Agroforestry** integrates trees with crops or livestock. India’s Agroforestry Policy is **2014**. **ICAR-CAFRI** sits at **Jhansi, Uttar Pradesh**.
+17. **JFM (1990)** is State–village co-management of **degraded forest** through VSS/FPC, often with about **50%** produce share to the community.
+18. **FRA 2006** recognises rights of Scheduled Tribes and Other Traditional Forest Dwellers. **Individual Forest Rights** are capped around **4 ha**, with cutoff **13 December 2005**, verified by the **Gram Sabha**.
+19. **FCA** controls **diversion**. **FRA** recognises **rights**. **JFM** is an executive co-management scheme — three different tools.
+20. UP ISFR **2023** forest cover is about **6.24%** of State area — not a double-digit “12.8%” trap.
+21. **Sonbhadra** has UP’s highest district forest cover (about **34.87%**).
+22. Districts above **20%** forest cover in UP include **Chandauli** and **Shravasti** — not Bahraich at that threshold.
+23. Western UP **poplar** farm forestry is a commercial social/agroforestry model.
+24. FRA implementation questions for UP often point to **Sonbhadra** and **Lalitpur** Vindhya tribal belts.
+25. Silvopasture, alley cropping, home gardens, windbreaks, and taungya are agroforestry system labels — know them as combinations, not as FCA diversion tools.
+26. Tree cover is scattered trees outside mapped forest patches; it is not the same as forest cover.
+27. NFP **1988** shifted emphasis from revenue forestry toward ecology and community needs.
+28. CAMPA manages compensatory afforestation funds after diversion — it is not FRA Gram Sabha rights recognition.
 
-ISFR/FSI FOREST COVER: Patch ≥1 ha + canopy ≥10% (any ownership)
-  VDF ≥70% | MDF 40–70% | OF 10–40%
-  India 2023: Forest 21.76% (7,15,343 sq km) | Tree 3.41% | Total green 25.17%
-  MP = largest forest area | Mizoram = highest % cover among states
-  Forest cover ≠ Recorded Forest Area (~23%) ≠ Tree cover
+---
 
-IFA 1927: Reserved Forest (strictest, all acts banned unless permitted)
-  Protected Forest (state-regulated, some rights allowed) | Unclassed Forest
-CHAMPION & SETH 1968: 16 types in 6 groups | Largest = Tropical Dry Deciduous (~38%)
-  Groups: Moist Tropical | Dry Tropical | Montane Subtropical | Montane Temperate | Sub-Alpine | Alpine
-UP types: Terai = Moist Deciduous | Vindhyan = Dry Deciduous | Bundelkhand = Thorn
-
-LAW CHRONOLOGY: IFA 1927 → FCA 1980 → NFP 1988 → JFM 1990 → FRA 2006 → CAMPA Act 2016
-FCA 1980 = Central approval for forest diversion | Compensatory afforestation mandatory
-NFP 1988 = 33% national cover target | 66% in hills/mountains
-Chipko 1973 Reni (Uttarakhand) | Godavarman 1996 = broad "forest" definition
-
-AFFORESTATION: NAP 2000 | Green India Mission 2014 | CAMPA fund for compensatory planting
-Social Forestry (NCA 1976): farm + community + extension on NON-forest land
-Agroforestry Policy 2014 | ICAR-CAFRI Jhansi (UP)
-JFM 1990: VSS/FPC | 50% produce income to community | degraded forest co-management
-FRA 2006: ST + OTFD rights | IFR max 4 ha | cutoff 13 Dec 2005 | Gram Sabha verifies
-
-UP ISFR 2023: Forest cover 6.24% | Sonbhadra highest (34.87%)
-  >20% districts: Chandauli (21.63%), Shravasti (20.95%) — NOT Bahraich (~10%)
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
@@ -330,61 +331,6 @@ Which is NOT correctly matched? A. ICRAF — Nairobi  B. IIFM — Bhopal  C. CAF
 - **FRA grants rights**. **FCA controls diversion**. Both can apply to the same forest landscape.
 
 > **Exam note:** IFR cap = **4 ha**, not 5 or 10. Cutoff date = **13 December 2005**.
-
----
-
-## Consolidated Reference — Once Only
-
-### Law and policy comparison
-
-| Instrument | Year | Role |
-|------------|------|------|
-| IFA | 1927 | Reserved/Protected Forest management |
-| FCA | 1980 | Central approval for forest diversion |
-| NFP | 1988 | 33%/66% cover targets; ecology over revenue |
-| JFM | 1990 | Community co-management of degraded forest |
-| FRA | 2006 | Forest dweller rights |
-| CAMPA Act | 2016 | Compensatory afforestation fund management |
-
-### FRA vs JFM vs FCA
-
-| Feature | FRA | JFM | FCA |
-|---------|-----|-----|-----|
-| Legal status | Statute | Executive scheme | Statute |
-| Purpose | Recognize rights | Regenerate degraded forest | Control diversion |
-| Community body | Gram Sabha | VSS/FPC | None direct |
-
-### FRA rights summary
-
-| Right | What it grants | Key limit |
-|-------|----------------|-----------|
-| **IFR** | Habitation + self-cultivation | Max **4 ha**; occupied by 13 Dec 2005 |
-| **CFR** | Grazing, NTFP, nistar, cultural use | Community traditional use |
-| **CFR management** | Protect and manage community forest | Gram Sabha governance |
-
-### Agroforestry systems (once only)
-
-| System | Combination | Example |
-|--------|-------------|---------|
-| Silvopasture | Trees + livestock | Cattle under Prosopis |
-| Alley cropping | Crops between tree rows | Coconut + spices |
-| Home garden | Multi-layer trees + vegetables | Kerala homestead |
-| Windbreak | Tree belt protecting crops | UP wheat fields |
-| Taungya | Temporary farming between planted trees | Forest dept + tribals |
-
-### UP Focus
-
-| Item | Detail |
-|------|--------|
-| Forest cover (ISFR 2023) | **6.24%** of state area |
-| Highest district | **Sonbhadra (34.87%)** |
-| Districts >20% forest | **Chandauli, Shravasti** only |
-| Forest types | Terai moist deciduous; Vindhyan dry deciduous; Bundelkhand thorn |
-| CAFRI | **Jhansi** — national agroforestry research |
-| Poplar farm forestry | Western UP commercial social/agroforestry model |
-| Terai forest divisions | Dudhwa, Pilibhit, Katarniaghat working-plan landscapes |
-| FRA implementation districts | Sonbhadra, Lalitpur — Vindhya tribal forest dwellers |
-| UP forest % trap | **~6.24%**, not 12.8% (2023 Q59) |
 
 ---
 

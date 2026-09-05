@@ -15,37 +15,38 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 26 Must-Score Locks
 
-```
-Raja Ram Mohan Roy     Atmiya Sabha 1815; Brahmo Sabha 1828; Sati ban 1829
-Ishwar Chandra Vidyasagar   Widow Remarriage Act 1856; Principal, Sanskrit College, Calcutta
-Jyotiba Phule          Anti-caste movement; Satyashodhak Samaj 1873
-Behramji Malabari      Age of Consent Act 1891 (Tilak opposed)
-D.K. Karve             Secretary, Widow Remarriage Association
-J.E.D. Bethune         Girls’ school, Calcutta
+1. **Raja Ram Mohan Roy** founded **Atmiya Sabha (1815)** and **Brahmo Sabha / Brahmo Samaj (1828)**. He campaigned against Sati; **Bentinck** banned Sati in **1829**.
+2. **Ishwar Chandra Vidyasagar** pushed the **Widow Remarriage Act, 1856** and served as Principal of Sanskrit College, Calcutta. Do not swap him with D.K. Karve’s western-India work.
+3. **Jyotiba Phule** founded the **Satyashodhak Samaj in 1873** for anti-caste “truth-seeking” in Maharashtra. He is not a Bengal Brahmo figure.
+4. **Behramji Malabari** pushed the **Age of Consent Act, 1891**. **Bal Gangadhar Tilak** opposed British interference in Hindu marriage on that issue.
+5. **D.K. Karve** worked through the Widow Remarriage Association, founded **SNDT Women’s University (1916)**, and later received the **Bharat Ratna (1958)**.
+6. **Arya Samaj** was founded by **Dayanand Saraswati** at Bombay in **1875** on the slogan **“Back to the Vedas.”** It is not Brahmo Samaj.
+7. **Prarthana Samaj** rose in Bombay in **1867** under **Atmaram Pandurang / M.G. Ranade**. **Paramahansa Mandali (1849, Dadoba Pandurang)** was its secret precursor against caste and idolatry.
+8. **Ramakrishna Mission** was founded by **Vivekananda in 1897**. Vivekananda’s **Chicago address** was in **1893**. Ramakrishna himself was the saint of Dakshineswar, not the Mission’s founder.
+9. **Sir Syed Ahmad Khan** founded **MAO College / the Aligarh Movement in 1875** for modern Western-style Muslim education. **Deoband (1866)** under **Nanautawi and Gangohi** was traditional madrasa revival — opposite orientation.
+10. The **Theosophical Society** was founded by **Blavatsky and Olcott in 1875** at New York; Indian HQ shifted to **Adyar in 1882**. **Annie Besant** later led it and became **INC President in 1917**.
+11. **Sri Narayana Guru** consecrated the **Aruvippuram** shrine in **1888** and the **SNDP Yogam** was organised in **1903** for Ezhava uplift in Kerala on a one-caste–one-god line.
+12. The **Self-Respect Movement** was launched by **Periyar E.V. Ramaswami Naicker in 1925** in the Tamil country. It is rationalist and anti-Brahmin — not the same as SNDP.
+13. The **Singh Sabha** revival began at **Amritsar (1873)** and **Lahore (1879)**; **Khalsa College** dates to **1892** and **Chief Khalsa Diwan** to **1902**.
+14. **Pandita Ramabai** founded **Arya Mahila Samaj (1882)**, **Sharada Sadan (1889)** and **Mukti Mission (1898)** for women’s education and shelter — keep her distinct from Karve.
+15. Bengal reform stream: reasoned monotheism, print, English education and law reform (**Sati 1829**, **Widow Remarriage 1856**). Maharashtra stream: anti-caste sabhas and women’s education (**Prarthana 1867**, **Satyashodhak 1873**).
+16. Muslim reform is its own axis: militant revival (**Wahabi** — Sayyid Ahmad of Rae Bareli), Faraizi in Bengal, peaceful messianic **Ahmadiyya** (Mirza Ghulam Ahmad), loyalist **Aligarh**, and traditional **Deoband**.
+17. The **Native Marriage Act** dates to **1872**. A correct institution lock often tested: **Sanatan Dharma Rakshini Sabha — Calcutta**.
+18. **J.E.D. Bethune** is locked to girls’ schooling in Calcutta. Annie Besant is locked to **Central Hindu College (1898)** and Theosophy leadership from **1907**.
+19. Brahmo Samaj later split under **Debendranath Tagore** and **Keshab Chandra Sen** lines — Roy founded; he did not run every later faction.
+20. Arya Samaj’s **shuddhi** and Vedic revival answered missionary pressure, especially in Punjab. Singh Sabha answered the same pressure for **Sikh** identity — parallel, not identical.
+21. Roy is the **Father of the Indian Renaissance**; he founded neither Arya Samaj nor Satyashodhak Samaj.
+22. Aligarh and Sir Syed are always paired in matches: the **institution (1875)** and its **founder-reformer**. Do not separate them into unrelated options.
+23. Wahabi vs Ahmadiyya: militant revivalist stream versus peaceful messianic stream — a religion-politics confused pair inside Muslim reform.
+24. Young Bengal / Derozio belongs to the Bengal radical student stream, not to Phule’s Satyashodhak work in Maharashtra.
+25. Region map for unknown bodies: place the name on Bengal / Maharashtra / Punjab / South / Muslim-orientation before guessing the year.
+26. Prarthana Samaj is Bombay liberal religious reform; Satyashodhak is Phule’s anti-caste sabha — same presidency, different social aim.
 
-Brahmo Samaj           Roy 1828; later Debendranath / Keshab split
-Arya Samaj             Dayanand, Bombay 1875; “Back to the Vedas”
-Prarthana Samaj        Bombay 1867; Atmaram Pandurang / M.G. Ranade
-Ramakrishna Mission    Vivekananda, 1897; Chicago address 1893
-Aligarh / MAO College  Sir Syed Ahmad Khan, 1875
-Deoband                1866; Nanautawi and Gangohi
-Theosophical Society   Blavatsky and Olcott, 1875 New York; Adyar 1882; Annie Besant later
+---
 
-Native Marriage Act    1872
-2022 Q18 correct pair  Sanatan Dharma Rakshini Sabha — Calcutta
-
-Paramahansa Mandali    Dadoba Pandurang, Bombay 1849; secret; precursor of Prarthana Samaj
-Sri Narayana Guru       Aruvippuram consecration 1888; SNDP Yogam 1903, Kerala
-Singh Sabha             Amritsar 1873; Lahore 1879; Chief Khalsa Diwan 1902; Khalsa College 1892
-Pandita Ramabai         Arya Mahila Samaj 1882; Sharada Sadan 1889; Mukti Mission 1898
-Self-Respect Movement   Periyar E.V. Ramaswami Naicker, 1925; Vaikom Satyagraha 1924–25
-D.K. Karve (full)       Widow Remarriage Assoc.; SNDT Women's University 1916; Bharat Ratna 1958
-Annie Besant (full)     Central Hindu College 1898; TS President 1907; INC President 1917
-```
-
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
@@ -66,7 +67,6 @@ Annie Besant (full)     Central Hindu College 1898; TS President 1907; INC Presi
 
 ---
 
----
 
 ## 6.0 One clear picture — five reform streams by region
 

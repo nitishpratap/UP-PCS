@@ -15,26 +15,36 @@ Ancient Indian Painting | Classical Painting | Mural Paintings | Ajanta Painting
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 24 Must-Score Locks
 
-```
-ANCIENT: Bhimbetka Wakankar 1957 UNESCO 2003 MP | Jogimara Ramgarh CG ~3rd c. BCE earliest fresco | Mirzapur UP rock art
-SHADANGA 6: Rupabheda | Pramanam | Bhava | Lavanyam | Sadrisyam | Varnikabhangam
-MURALS: Jogimara | Ajanta | Bagh MP | Badami | Sittanavasal Jain | Armamalai | Panamalai | Brihadeeswara | Lepakshi | Kerala | Alchi/Tabo
-AJANTA: Caves 1 Padmapani+Vajrapani | 16 Dying Princess/Mahajanaka | 17 Vessantara | John Smith 1819
-MUGHAL: Akbar = Hamzanama/Tuti-nama/Razmnama + Daswanth/Basawan | Jahangir = Mansur birds/Bishandas | Shah Jahan = Padshahnama
-DECCANI: Ahmadnagar–Bijapur–Golconda | Nujum al-Ulum | gold ground
-RAJPUT: Mewar Sahibdin | Kishangarh Bani Thani | Nathdwara Pichwai | Bundi | Kotah hunt
-PAHARI: Basohli→Guler (Nainsukh/Manaku)→Kangra (Sansar Chand)
-SOUTH BOARD: Tanjore gold-gesso | Mysore gesso | Kalamkari Srikalahasti vs Machilipatnam
-FOLK: Madhubani | Warli | Phad | Pattachitra | Gond | Pithora | Kalighat | Sanjhi UP
-MODERN: Ravi Varma oleograph | Abanindranath Bharat Mata | Nandalal Haripura+Constitution | PAG 1947 | Sher-Gil Three Girls
-```
+1. **Bhimbetka** rock shelters are in Raisen, **Madhya Pradesh**. **V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
+2. **Jogimara** in Ramgarh, **Chhattisgarh**, about **3rd–1st** century BCE, is the earliest Indian fresco lock. Scenes are secular, not Ajanta Buddhist narrative.
+3. **Mirzapur–Sonbhadra** holds the main **UP** prehistoric rock-art belt. **Bagh** caves are in **Madhya Pradesh**, not UP.
+4. The **Shadanga** six limbs are **Rupabheda**, **Pramanam** (proportion), **Bhava** (emotion), **Lavanyam** (grace), **Sadrisyam** (likeness), and **Varnikabhangam** (colour and brush).
+5. Ajanta is famous for **paintings**. Ellora is famous for **sculpture**, especially Kailasa. Do not swap the two.
+6. Ajanta Cave **1** holds Padmapani and Vajrapani. Cave **16** holds the Dying Princess / Mahajanaka theme. Cave **17** holds Vessantara. Rediscovery is linked to **John Smith** in **1819**.
+7. Other mural locks include **Bagh** (MP), **Badami**, Jain **Sittanavasal**, **Brihadeeswara** Chola frescoes, **Lepakshi**, Kerala murals, and Himalayan **Alchi / Tabo**.
+8. Akbar’s atelier locks are **Hamzanama**, **Tuti-nama**, and **Razmnama**, with painters such as **Daswanth** and **Basawan**. The **Hamzanama** is a cloth adventure cycle of about **1400** folios.
+9. Jahangir’s atelier locks are **Ustad Mansur** for birds and flowers and **Bishandas** for portraits. Shah Jahan’s court book is the **Padshahnama**.
+10. Deccani painting centres are **Ahmadnagar**, **Bijapur**, and **Golconda**, often with gold ground and books such as *Nujum al-Ulum*.
+11. **Rajput** painting is Rajasthan princely and bhakti / ragamala based. **Pahari** painting is Himalayan hill painting. Kangra is hills, not Rajasthan plains.
+12. Mewar locks **Sahibdin**. Kishangarh locks **Bani Thani**. Nathdwara locks **Pichwai**. Bundi and Kotah are known for hunt scenes.
+13. Pahari sequence runs **Basohli → Guler (Nainsukh / Manaku) → Kangra (Sansar Chand)**. Basohli is bold and flat; Kangra is lyrical Krishna–nature.
+14. **Tanjore** painting uses gold foil and gems on wood. **Mysore** painting uses finer gesso and is less gem-studded.
+15. **Srikalahasti Kalamkari** is temple pen-work. **Machilipatnam Kalamkari** is block-printed trade cloth.
+16. Folk locks include **Madhubani**, **Warli**, **Phad**, **Pattachitra**, **Gond**, **Pithora**, **Kalighat**, and UP **Sanjhi** of Braj / Mathura–Vrindavan.
+17. **Madhubani** has a GI tag. It is **not** UNESCO intangible heritage. Do not confuse GI with ICH.
+18. **Ravi Varma** used oil and oleograph realism. **Abanindranath** led the Bengal School wash revival and painted **Bharat Mata**.
+19. **Nandalal Bose** painted the Haripura Congress panels and Constitution illumination. The **Progressive Artists’ Group** formed in **1947**. **Amrita Sher-Gil** painted *Three Girls*.
+20. The **Company School** made colonial documentary pictures for East India Company patrons. It is not the nationalist Bengal School.
+21. Lucknow painting locks include **Mihr Chand** and Company Kalam. **Bharat Kala Bhavan** at BHU holds important miniatures.
+22. Ajanta technique is pigment on **wet** plaster (fresco tradition). Tempera / secco puts binder on a **dry** surface.
+23. A **mural** is wall or ceiling paint integral to a building. A **miniature** is a small album or manuscript picture.
+24. *Venushilpa* of Upendra Maharathi is a **bamboo** craft lock, not a painting school.
 
-- Bagh = **MP**, not UP. Kangra = hills, not Rajasthan.
-- Venushilpa (Upendra Maharathi) = **bamboo**, not painting.
+---
 
-### Confused pairs
+## Confused Pairs (exam killers)
 
 | A | B | Lock | Hindi |
 |---|----|------|-------|
@@ -483,18 +493,6 @@ D. Marble curving
 **Ans: C — Bamboo art.** Painting is the distractor.
 
 </details>
-
----
-
-## Consolidated Reference — Once Only
-
-**UP Focus**
-
-- **Sanjhi** is from Braj/Mathura–Vrindavan.
-- Lucknow has **Mihr Chand** and Company Kalam.
-- **Mirzapur–Sonbhadra** has prehistoric rock art.
-- **Bharat Kala Bhavan** (BHU) holds miniatures.
-- These are **not UP:** Bagh and Bhimbetka (**MP**); Jogimara (Chhattisgarh).
 
 ---
 

@@ -14,34 +14,36 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ---
 
-## Quick Revision Box — Raata This First
+## Consolidated — 24 Must-Score Locks
 
-```
-CLIMATE CHANGE = long-term shift (temp, rain, extremes) | Warming ⊂ climate change
-AR6: ~1.1°C above 1850–1900 | human influence dominant
+1. **Climate change** is a long-term shift in temperature, rainfall, and extremes. **Global warming** is the temperature-rise part only.
+2. IPCC AR6 places warming near **1.1°C** above **1850–1900**, with human influence dominant.
+3. The **Keeling Curve** records atmospheric **CO₂** at **Mauna Loa** since **1958**.
+4. The **Emissions Gap Report** is an annual **UNEP** product. It is **not** published by the IPCC.
+5. Main greenhouse gases are **CO₂, CH₄, N₂O, and F-gases**. **Argon is not a greenhouse gas**.
+6. India ranks near the top in **absolute** emissions but stays **low per capita**. Do not confuse absolute rank with a “tenth” distractor.
+7. A **carbon sink** absorbs net CO₂. A **carbon budget** is the cumulative CO₂ allowed for a temperature target.
+8. A **carbon credit** equals **1 tonne of CO₂ equivalent**. Carbon trading is the market for credits or allowances.
+9. **Green Credit (2023)** and **PAT ESCert** are **not** the same thing as a Kyoto-style carbon credit.
+10. **Mitigation** cuts emissions and grows sinks. **Adaptation** adjusts society and systems to climate impacts.
+11. **Kyoto** is climate mitigation. **Montreal** is ozone protection. Do not swap the two treaties.
+12. India’s **NAPCC** launched in **2008** with **eight** missions.
+13. India’s updated NDC path includes about **45%** emission-intensity cut and about **50%** non-fossil electricity capacity share.
+14. India’s **net-zero** year lock is **2070**, announced around **COP-26**.
+15. **LiFE** was floated as an idea at **COP-26 (2021)** and launched in **June 2022**. COP-25 Madrid is the false date trap.
+16. India’s **Carbon Credit Trading Scheme (2023)** sits with **BEE** under the Power Ministry.
+17. The **IPCC** does science assessment under **WMO + UNEP** parents. It does **not** set national targets or write the Emissions Gap Report.
+18. The **greenhouse effect** is infrared trapping by greenhouse gases. Without it Earth would be far colder than about **+15°C**.
+19. The **carbon cycle** moves carbon among atmosphere, oceans, land, and fossil pools. Sequestration is the storing process.
+20. Global climate monitoring also includes WMO State of the Climate products alongside Keeling and satellite records.
+21. Sources of GHGs span fossil fuels, cement, deforestation, livestock, paddies, fertilizers, and industrial F-gases.
+22. Carbon trading grew from Kyoto-era market tools; Paris-era systems use national NDCs and domestic markets.
+23. Do not treat IPCC Assessment Reports as UNFCCC treaty text. Science reports and the climate convention are different homes.
+24. Adaptation examples include early warning, climate-resilient crops, coastal defence, and heat-action plans — not only emission cuts.
 
-MONITORING: Keeling Curve (Mauna Loa CO₂ since 1958)
-  WMO State of Climate | Emissions Gap Report = UNEP (NOT IPCC) — 2024 Q6
+---
 
-GHG: CO₂, CH₄, N₂O, F-gases | Argon ≠ GHG (2022 Q102)
-  India ~3rd absolute emitter | low per capita | 2023 Q109 option = 10th (trap vs absolute)
-
-CARBON: Sink absorbs net CO₂ | Budget = cumulative CO₂ for temp target
-  Credit = 1 tCO₂e | originated Kyoto | Trading = market for credits/allowances
-  Green Credit 2023 ≠ carbon credit | PAT ESCert ≠ carbon credit
-
-MITIGATION = cut emissions + sinks | ADAPTATION = adjust to impacts
-  Kyoto = climate mitigation (2024 Q35) | Montreal = ozone
-
-INDIA: NAPCC 2008 (8 missions) | NDC 2022: 45% intensity, 50% non-fossil
-  Net zero 2070 (COP-26) | LiFE June 2022 — idea COP-26 not COP-25
-  CCTS 2023 (BEE / Power Ministry)
-
-IPCC: science assessment (WMO+UNEP parents) | AR6 SYR 2023
-  Does NOT set targets or publish Emissions Gap Report
-```
-
-### Must-Know Term Comparisons
+## Confused Pairs (exam killers)
 
 | Term | One-line lock |
 |------|---------------|
@@ -365,19 +367,6 @@ Options: A. Only 2  B. Neither  C. Both  D. Only 1
 | AR6 SYR | **2023** | Latest synthesis |
 
 > **Exam note:** IPCC ≠ UNFCCC ≠ UNEP Emissions Gap Report.
-
----
-
-## Consolidated Reference
-
-| Lock | Value |
-|------|-------|
-| Emissions Gap Report | UNEP |
-| Carbon credit origin | Kyoto |
-| Climate mitigation treaty | Kyoto (vs Montreal ozone) |
-| India net zero | 2070 |
-| AR6 synthesis | 2023 |
-| 1 carbon credit | 1 tCO₂e |
 
 ---
 
