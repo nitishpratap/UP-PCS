@@ -107,22 +107,23 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 - Under Emperor **Farrukhsiyar’s farman of 1717**, the Company gained major duty-free trade privileges in Bengal for a fixed annual payment. Later Nawabs fought the private misuse of those **dastaks**.
 - Conflict grew when English private traders used **dastaks** (duty-free passes) beyond Company goods.
 - The Nawabs wanted customs control. The Company wanted fort rights and trade privilege.
-- **Murshid Quli Khan** (from **1717**) was the first strong independent-minded Nawab. He made **Murshidabad** the capital.
+- **Murshid Quli Khan** (from **1717**) was the first strong independent-minded Nawab and the **last Subedar of Bengal appointed independently by the Mughal Emperor**. He shifted the capital from Dhaka to **Maksudabad**, renamed **Murshidabad**, and used the **ijara (revenue-farming)** system in land settlement.
 - **Shujauddin** followed him. Then came **Sarfaraz Khan**.
 - **Alivardi Khan** killed Sarfaraz and ruled **1740–56**.
 - Alivardi fought the Maratha **Bargis**. He was the last strong Nawab before the Plassey crisis.
+- Comparing Europeans to **honeybees**, Alivardi said that if left undisturbed they give honey, but if disturbed they sting to death.
 - **Siraj-ud-Daulah (1756–57)** was Alivardi’s grandson. Court rivals included the banker **Jagat Seth**, **Omichand** and **Rai Durlabh**.
 - Immediate sparks included English fortification of **Fort William** without leave, asylum to Krishnadas, and fear of the French in the **Seven Years’ War**.
-- In **June 1756** Siraj took Calcutta. The **Black Hole** episode belongs to that capture (Holwell’s famous story; numbers are debated, the event is not).
+- In **June 1756** Siraj took Calcutta. The **Black Hole** episode belongs to that capture (**Holwell’s** famous story of a tiny cell; numbers are debated, and **Ghulam Hussain’s Siyar-ul-Mutakherin** does not mention it).
 - Clive and Admiral Watson recaptured Calcutta. The **Treaty of Alinagar (February 1757)** restored English privileges. Peace lasted only until Plassey.
 
 | Nawab | Approx. | tag |
 |-------|---------|----------|
-| Murshid Quli Khan | from 1717 | First strong Nawab; Murshidabad |
+| Murshid Quli Khan | from 1717 | Last Mughal-appointed Subedar; Murshidabad; ijara |
 | Shujauddin | after Murshid Quli | Bridge ruler before Sarfaraz |
 | Sarfaraz Khan | brief | Killed by Alivardi |
-| Alivardi Khan | 1740–56 | Last strong Nawab; fought Bargis |
-| Siraj-ud-Daulah | 1756–57 | Calcutta 1756; fell at Plassey |
+| Alivardi Khan | 1740–56 | Last strong Nawab; Bargis; honeybee remark |
+| Siraj-ud-Daulah | 1756–57 | Calcutta 1756; Black Hole; fell at Plassey |
 | Mir Jafar | from 1757 | First puppet after Plassey |
 | Mir Qasim | 1760–63 | Munger; equal duties; Buxar ally |
 | Najm-ud-Daulah | after 1765 | Pensioned figurehead under Diwani |
@@ -172,7 +173,9 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 - Mir Jafar could not satisfy endless Company demands. In **1760** the Company replaced him with son-in-law **Mir Qasim**.
 - Under the **1760 arrangement**, Mir Qasim cleared dues, promised war help in the south, and accepted friendship with the Company. Mir Jafar was pensioned.
 - Mir Qasim shifted the capital to **Munger (Monghyr)** to keep distance from Calcutta.
-- He reformed the army and bureaucracy. He tried to abolish internal duties so that **Indian and English traders paid equally**.
+- He reformed the army on European lines and set up arms works at Munger for **matchlock** manufacture.
+- He tried to abolish internal duties so that **Indian and English traders paid equally**.
+- Officers involved in embezzlement were fined heavily; new taxes helped repair Bengal’s finances.
 - Private English misuse of **dastaks** made equal duties a clash of principles. Open war followed in **1763**.
 - After the **Patna massacre of 1763**, the English reinstalled **Mir Jafar**. Mir Qasim fled west and joined Awadh and the Emperor.
 
@@ -229,14 +232,17 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 - **Nizamat** (police and criminal justice) stayed in the Nawab’s **name**.
 - In practice the Company also controlled Nizamat by nominating the deputy and keeping the army.
 - **Dual Government (1765–72)** was Clive’s design: take the profit, avoid the blame for day-to-day rule.
+- The Company appointed two deputy Diwans: **Muhammad Reza Khan** for Bengal (Murshidabad) and **Raja Shitab Rai** for Bihar. Indians ran collection under Company authority.
+- **K. M. Panikkar** later called Bengal under Dual Government a **“state of dacoits”** for the Company’s plunder phase (**1765–72**).
+- After Diwani, English contact with the **Khasi** hills grew from the Sylhet side. Later road plans under **David Scott** met tough resistance under **Tirot Sing**.
 - Administration collapsed. The **Bengal Famine of 1770** is the catastrophe of this dual system.
 - In **1772 Warren Hastings** ended Dual Government. The Company took **direct** civil and revenue charge.
-- **Clive** governed Bengal **1758–60** and again **1765–67** (Diwani and Dual Government).
+- **Clive** governed Bengal **1758–60** and again **1765–67** (Diwani and Dual Government). During his terms Company plunder of Bengal resources deepened, and a **White Mutiny** among English officers also belongs to his governorship phase.
 - **Verelst** and **Cartier** governed while Dual Government continued, including the famine years.
 - **Hastings (1772–85)** ended Dual Government, used Ring Fence, faced Banaras **1781**, and fought the First Maratha War.
 - **Cornwallis (1786–93)** later brought the **Permanent Settlement of Bengal** (administration detail lives with revenue notes).
 
-> ** note:** Clive **created** Dual Government; Hastings **ended** it in **1772**, not in 1857.
+> ** note:** Clive **created** Dual Government; Hastings **ended** it in **1772**, not in 1857. Deputy Diwans = **Reza Khan (Bengal)** and **Shitab Rai (Bihar)**.
 
 ---
 
@@ -246,12 +252,13 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 
 - He rose in the Carnatic struggle and became the architect of English power in Bengal.
 - He designed the **Mir Jafar** conspiracy that won Plassey.
+- He is widely called the **founder of the British Empire in India**. William Pitt called him a **“Heaven-Born General.”**
 - In his second Bengal term he negotiated the **Treaty of Allahabad, 1765**, and set up Dual Government.
 - He did **not** command at Buxar.
 - Parliament later inquired into his presents and jagir.
 - He died in **1774**.
 
-> ** note:** Clive = Plassey + Diwani frame. Hastings = end of Dual Government + Ring Fence + Banaras + Salbai.
+> ** note:** Clive = Plassey + Diwani frame + “Heaven-Born General”. Hastings = end of Dual Government + Ring Fence + Banaras + Salbai.
 
 ---
 
@@ -424,6 +431,8 @@ D. Both 1 and 2
 - **Tipu Sultan** succeeded in **1782**. He used rockets, kept French contacts, and was called the Tiger of Mysore.
 - Tipu also pushed state reforms in trade, sericulture and a new calendar. Papers still test wars and treaties first.
 - The capital was **Seringapatam (Srirangapatna)**.
+- At Seringapatam Tipu founded a **Jacobin Club**, became its member, and planted a **Tree of Liberty** as a sign of friendship with France.
+- Tipu also set up embassies on modern lines in foreign states such as **Iran, Istanbul, Afghanistan and France** to seek help against the English.
 - There were **four** Anglo-Mysore Wars. Fear of French help to Tipu shaped Wellesley’s urgency in the Fourth War.
 
 ### First Anglo-Mysore War, 1767–69
@@ -633,13 +642,16 @@ D. Jamadani
 
 ## 2.12 Sikh Empire, Anglo-Sikh Wars, Treaty of Lahore, Punjab Annexation
 
-- **Ranjit Singh** unified the Sikh misls. He died in **1839**.
-- His capital was **Lahore**.
+- **Ranjit Singh** belonged to the **Sukerchakia** misl. He was born on **13 November 1780**. He unified the Sikh misls and died in **1839**.
+- His capital was **Lahore** (taken **1799** after Zaman Shah’s goodwill over returned cannon). **Amritsar** (taken **1802**) was the religious capital.
+- He annexed **Multan (1818)**, **Kashmir (1819)** and **Peshawar / Khyber belt (1834)**.
+- **Shah Shuja**, a descendant of Ahmad Shah Abdali, gifted him the **Kohinoor** diamond.
 - European officers such as **Ventura** and **Allard** trained his army.
 - He set up the **Adalat-i-Ala**, the supreme court, at **Lahore**, not Amritsar.
 - The empire stretched from the **Khyber** to the **Sutlej**.
-- By the **Treaty of Amritsar (25 April 1809)** with the Company, Ranjit accepted the **Sutlej** as the southern limit of his push. That kept peace while he lived.
-- After **1839** succession chaos (Kharak Singh, Nau Nihal Singh, Sher Singh and court factions) opened the door to war. The Khalsa army remained powerful but politics collapsed.
+- By the **Treaty of Amritsar (25 April 1809)** with the Company (Metcalfe for **Lord Minto**), Ranjit accepted the **Sutlej** as the southern limit of his push. That kept peace while he lived.
+- After **1839** succession chaos (**Kharak / Khadag Singh**, Nau Nihal Singh, Sher Singh and court factions of Dogra vs Sandhanwalia groups) opened the door to war. The Khalsa army remained powerful but politics collapsed.
+- **Duleep Singh** was the last Sikh ruler (**1843–49**). He later accepted Christianity, visited Russia, and died in **Paris (1893)**; his funeral was in England.
 
 ### First Anglo-Sikh War, 1845–46
 
@@ -653,11 +665,11 @@ D. Jamadani
 
 **Causes:** Multan revolt under **Mulraj**. Wider Sikh rising followed. Dalhousie chose annexation politics.
 
-**Course:** Fighting included Ramnagar, a British setback at **Chillianwala**, and the decisive victory at **Gujrat (21 Feb 1849)**.
+**Course:** Fighting included Ramnagar, a British setback at **Chillianwala (13 Jan 1849)** — Lord Gough vs Sher Singh; undecided field — and the decisive victory at **Gujrat (21 Feb 1849)**.
 
-**Results:** Punjab annexed on **29 March 1849**. Duleep Singh deposed and sent to England. Punjab became a **Chief Commissionership**. **Henry** and **John Lawrence** ran the Punjab School of administration.
+**Results:** Punjab annexed on **29 March 1849**. Duleep Singh deposed and sent to England on pension. Punjab became a **Chief Commissionership**. A **Board of Three** administered it: **Sir Henry Lawrence** (president), **John Lawrence** and **Charles Grenville Mansel**. **H. M. Elliot** and **Robert Montgomery** were **not** members of that first board.
 
-> ** note:1809 Amritsar ≠ 1846 Lahore ≠ 1849 annexation**. Mudki = First Sikh, not Mysore.
+> ** note:1809 Amritsar ≠ 1846 Lahore ≠ 1849 annexation**. Mudki = First Sikh, not Mysore. Sukerchakia = Ranjit’s misl. Kohinoor path = **Shah Shuja → Ranjit**.
 
 **PYQ — UPPCS Prelims 2021, Q67**
 
@@ -906,13 +918,14 @@ D. 3, 1, 2, 4
 
 | Site | Expansion fact |
 |------|----------------|
-| **Prayagraj / Allahabad** | 1765 treaty; Akbar Fort |
+| **Prayagraj / Allahabad** | 1765 treaty; Akbar Fort; fort handed over by **Saadat Ali Khan II** in **1798** |
 | **Awadh** | Shuja at Buxar; subsidiary 1801; annex 1856 |
 | **Banaras** | Chait Singh 1781 |
+| **Sardhana (Meerut)** | **Begum Samru** church; Sardhana jagir after Walter Reinhardt Sombre |
 | **Jhansi** | Lapse 1853 → later 1857 revolt |
 | **Rohilkhand** | Rohilla War 1774; later Awadh cessions |
 
-> ** note:** Banaras 1781 = **Warren Hastings**, not Dalhousie. Akbar Fort = **Prayagraj**.
+> ** note:** Banaras 1781 = **Warren Hastings**, not Dalhousie. Akbar Fort = **Prayagraj**. Prayagraj fort transfer = **1798**, not 1790–97.
 
 ---
 
