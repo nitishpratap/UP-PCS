@@ -822,21 +822,6 @@ D. Delhi
 | **1761** | Pondicherry falls | Third |
 | **1763** | **Treaty of Paris** | Third ends |
 
-### Persons
-
-| Person | Side | Role |
-|--------|------|------|
-| **Dupleix** | French | Governor; proxy-politics architect |
-| **La Bourdonnais** | French | Navy; helped take Madras 1746 |
-| **Bussy** | French | Deccan / Hyderabad operator |
-| **Count de Lally** | French | Third War commander; lost Wandiwash |
-| **Anwaruddin Khan** | Carnatic Nawab | First War phase; killed at Ambur 1749 |
-| **Chanda Sahib** | French client | Second War claimant |
-| **Muhammad Ali** | English client | Rival claimant; later Nawab with English support |
-| **Muzaffar Jung / Nasir Jung** | Hyderabad claimants | Drew both companies into Deccan |
-| **Robert Clive** | English | **Arcot 1751** |
-| **Eyre Coote** | English | **Wandiwash 1760** |
-
 > ** note:** Carnatic ≠ Anglo-Mysore. Standard count = **three**. Treaty pair: **1748 Aix** vs **1763 Paris**.
 
 ---
