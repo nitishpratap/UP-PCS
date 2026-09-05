@@ -28,9 +28,9 @@
 7. Millet leaders: **Jowar = Maharashtra**, **Bajra = Rajasthan**, **Ragi = Karnataka**. Maize is food plus feed and mostly kharif. International Year of Millets 2023 marketed millets as **Shree Anna**.
 8. Pulses fix nitrogen through **Rhizobium**. Gram is rabi; tur, moong, and urad are kharif. India is the world’s top pulse producer.
 9. Oilseed leaders: **Groundnut = Gujarat**, **Mustard = Rajasthan** (rabi), **Soybean = Madhya Pradesh** (kharif). The **Yellow Revolution** is oilseeds — not the Golden Revolution.
-10. Cotton (**white gold**) needs above about **21°C**, **50–100 cm** rain, about **210 frost-free days**, and preferably black soil. It is **kharif**, lasts about **6–8 months**, is about two-thirds rainfed, hates waterlogging, and has three zones (north alluvial, central black, south mixed).
+10. Cotton (**white gold**) needs above about **21°C**, **50–100 cm** rain, about **210 frost-free days**, and preferably black soil. It is **kharif**, lasts about **6–8 months**, is about two-thirds rainfed, hates waterlogging, and has three zones (north alluvial, central black, south mixed). India grows all four species (*arboreum*, *herbaceum*, *hirsutum*, *barbadense*); bulk is *hirsutum* / Bt; crop is mostly **medium** staple, not Egyptian ELS.
 11. Ahmedabad lies in the cotton belt, but India’s traditional largest textile mill centre is **Mumbai**, not Ahmedabad.
-12. Jute (**golden fibre**) needs about **25–35°C**, above **150 cm** rain, alluvial soil, and standing water for **retting**. The leading state is **West Bengal**. Uttar Pradesh–Jute is wrong. India is world number one in jute.
+12. Jute (**golden fibre**) needs about **25–35°C**, above **150 cm** rain, alluvial soil, and standing water for **retting**. India grows **white** (*C. capsularis*) and **tossa** (*C. olitorius*); **mesta** is the drier-area allied fibre. The state leader is **West Bengal**. Uttar Pradesh–Jute is wrong. India is world number one in jute.
 13. Sugarcane needs about **21–27°C** and **75–150 cm** rain or irrigation. **Uttar Pradesh leads quantity**; **Maharashtra leads productivity** and cooperatives. Frost and Loo hurt the north; the south is frost-free. Heavy rain lowers sugar; dry stress makes fibre. Price policy is **FRP** (plus SAP), not cereal MSP. Ratoon means a crop from stubble.
 14. Tea is a **plantation** crop needing about **20–30°C**, **150–300 cm** rain, and slopes — Assam, West Bengal, and Nilgiri. Coffee needs shade and is strongest in **Karnataka**, then Kerala and Tamil Nadu.
 15. Rubber needs about **25–35°C** and above **200 cm** rain; the correct state pair is **Kerala**. Pepper and cardamom also concentrate in **Kerala**. World citrus is a Mediterranean specialty.
@@ -79,6 +79,8 @@
 | Sen vs Swaminathan | Food **entitlements** = Amartya Sen | Swaminathan | सेन = एंटाइटलमेंट |
 | Two wheat belts | Ganga–Satluj plains + Deccan black soil | Assam as wheat belt | दो गेहूँ पेटियाँ |
 | White gold vs golden fibre | Cotton = white gold; jute = golden fibre | Swap nicknames | सफेद सोना / सुनहरा रेशा |
+| White vs tossa jute | White = *capsularis* (flood-tolerant); tossa = *olitorius* (upland, better fibre) | Swap flood / upland | सफेद / टोसा जूट |
+| Cotton species vs staple | Four species (*arboreum / herbaceum / hirsutum / barbadense*); *hirsutum* = bulk; ELS = *barbadense* | “India grows only short staple” | चार प्रजाति; ELS कम |
 | Sikkim organic | Sikkim = first fully organic state | Call any NE state first | सिक्किम जैविक |
 | Rice rank | Textbook **#2 after China**; 2024–25 GoI **#1 claim** | Mix a 2018 stem with the 2025 headline | रैंक स्टेम पढ़ो |
 | WB rice vs PB yield | WB often **volume** leader; Punjab **yield** leader | Punjab = largest producer always | बंगाल मात्रा; पंजाब उपज |
@@ -322,7 +324,28 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 - Three belts: **North** (PB–HR–RJ–W UP, irrigated), **Central** (GJ–MH–MP, the volume core), **South** (TG–AP–KA–TN).
 - About **two-thirds** of Indian cotton is **rainfed**. Yield is below the world average.
 - It can take some **salinity**. It **hates waterlogging**.
-- Staple grades: long / medium / short — Indian crop is mostly **medium**; mills blend staples.
+
+**Four species India grows** (India is often taught as the only country that cultivates all four recognised cotton species):
+
+| Species | Common tag | What it gives |
+|---------|------------|---------------|
+| *Gossypium arboreum* | Desi / Old World | Short staple; drought- and pest-hardy |
+| *Gossypium herbaceum* | Desi / Old World | Short–medium; harsh rainfed tracts (GJ / KA pockets) |
+| *Gossypium hirsutum* | American / Upland | **Bulk of India’s crop**; medium to long staple; most **Bt** hybrids |
+| *Gossypium barbadense* | Egyptian / Sea Island | **Extra-long staple (ELS)**; small premium pockets in the south |
+
+**Staple-length classes** (fibre length decides mill use; CCI / trade framing):
+
+| Class | Approx. length | India note |
+|-------|----------------|------------|
+| **Short staple** | ≤ about **20 mm** | Desi types; coarse cloth, blending, surgical cotton |
+| **Medium staple** | about **20.5–24.5 mm** | Large share of domestic mill use |
+| **Medium-long staple** | about **25–27 mm** | Modern mill demand |
+| **Long staple** | about **27.5–32 mm** | High-speed spinning; MSP is also quoted for a long-staple grade |
+| **Extra-long staple (ELS)** | about **≥32.5 mm** | Premium yarn; India still **imports** much ELS (Egypt / USA style) |
+
+- India’s harvested cotton is still **mostly medium** (and medium-long), not Egyptian-style ELS. Mills **blend** staples.
+- MSP for kapas is announced separately for **medium staple** and **long staple** grades (CACP → Cabinet).
 - **Ahmedabad** lies in a major cotton **region** (raw material true).
 - Traditionally India’s largest cotton-textile **centre** is **Mumbai**, not Ahmedabad (2020 Q58: A false, R true → D).
 - Cotton is indigenous to India (Rigveda / Manusmriti mention). India was first to commercialise **hybrid cotton**.
@@ -339,8 +362,18 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 - Core: **West Bengal** (+ Assam, Bihar, Odisha).
 - Mills on the **Hugli**.
 - **UP–Jute is wrong.**
-- **Mesta** = drier-area substitute fibre.
 - India is the world’s top jute producer.
+
+**Jute types India grows** (two true jute species + one related fibre often asked with them):
+
+| Type | Botanical name | Field note |
+|------|----------------|------------|
+| **White jute** | *Corchorus capsularis* | Stronger flood tolerance; classical lowland / waterlogged delta crop |
+| **Tossa jute** | *Corchorus olitorius* | Softer, usually better fibre and higher yield; prefers **uplands** and hates prolonged flood |
+| **Mesta** | *Hibiscus cannabinus* / *H. sabdariffa* (related fibre, not true jute) | Grown on **drier** tracts as a jute substitute; coarser fibre |
+
+- In volume, eastern India grows both white and tossa; **tossa** has expanded where drainage is better.
+- Do **not** call mesta a separate “jute species” in a strict botanical stem — it is the **allied fibre** used like jute.
 
 ### Sugarcane
 
