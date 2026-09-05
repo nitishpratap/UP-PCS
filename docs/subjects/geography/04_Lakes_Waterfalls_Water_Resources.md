@@ -108,21 +108,48 @@ BHUTAN: Chukha, Tala, Kurichhu, Mangdechhu/Mungdechhu (2019 Q115 Modi inaugurati
 
 ## N.1 Lakes of India
 
-**Classify before you pick.** The same water body can be “largest saline” or lose to Sambhar if the stem adds **inland**.
+Papers ask lakes in **two different ways**. Do not mix them in one mental list.
 
-| Type | Exam king | Chemistry / origin | Classic trap |
-|------|-----------|--------------------|--------------|
-| Lagoon | **Chilika** (Odisha) | Coastal, brackish, bar-separated | Call it inland saline |
-| Inland saline | **Sambhar** (Rajasthan) | Endorheic playa, evaporation | Use for every “saline” stem |
-| Freshwater | **Wular** (J&K, Jhelum) | Tectonic basin | Call Wular saline |
-| Crater | **Lonar** (MH, Buldhana) | Meteorite in Deccan basalt | Treat as volcanic caldera or RJ salt pan |
-| Oxbow | **Kabartal** (Bihar) | Cut-off meander | Call it a lagoon |
-| Glacial / high | Pangong, Tso Moriri, Chandra Tal, Tsomgo | Cirque, moraine, tectonic-high | Call Pangong a freshwater size-king |
-| Artificial | Gobind Sagar, Hirakud, Tehri, Pant Sagar | Dam reservoir | Confuse with natural lakes |
+### 1. Chemistry / size kings (first question type)
 
-> **Exam note:** Stem **“inland saline”** → Sambhar. Stem **“largest saline”** without inland → papers often key **Chilika**. Stem **lagoon / east coast** → Chilika (2021 Q74, Q144).
+Ask: *What kind of water is it, and who is the largest?*
 
-### Origin types (PMF IAS map)
+| If the stem says… | Pick | Where | Why this one wins |
+|-------------------|------|-------|-------------------|
+| Largest **lagoon** / east-coast lagoon | **Chilika** | Odisha | Barred from the sea; brackish; biggest east-coast lagoon |
+| Largest **saline** (**no** word “inland”) | **Chilika** | Odisha | Papers often treat Chilika as the saline king by area |
+| Largest **inland saline** | **Sambhar** | Rajasthan | Desert playa; no sea link; evaporation makes it salt |
+| Largest **freshwater** | **Wular** | J&K (Jhelum) | Usual volume lock; tectonic basin |
+
+**Do not swap**
+
+| Wrong thought | Right lock |
+|---------------|------------|
+| “Saline” → always Sambhar | Only if stem says **inland** |
+| Chilika = inland Rajasthan lake | Chilika = Odisha **coast** |
+| Wular = saline | Wular = **fresh** |
+| Kolleru = lagoon king | Kolleru = **freshwater** delta lake; Chilika is lagoon king |
+| Pulicat = largest lagoon | Pulicat = **second** after Chilika |
+
+> **Exam note:** 2021 Q74 “largest saline” (no inland) → **Chilika**. “Inland saline” → **Sambhar**. “East-coast lagoon” → **Chilika**.
+
+### 2. Origin kings (second question type)
+
+Ask: *How was the hollow made?*
+
+| Origin | Meaning in one line | Indian lock | Trap |
+|--------|---------------------|-------------|------|
+| **Tectonic** | Basin from earth movement / warp | **Wular** (also freshwater king) | Calling Wular a lagoon |
+| **Oxbow** | Cut-off river meander on a plain | **Kabartal / Kanwar** (Bihar) | Calling it a coastal lagoon |
+| **Crater (meteorite)** | Hollow from a meteor hit | **Lonar** (Buldhana, MH) | Calling it a volcano or RJ salt pan |
+| **Glacial / high mountain** | Ice-cut tarn or high closed basin | Chandra Tal, Roopkund, Tsomgo; Pangong / Tso Moriri (high, often brackish) | Calling Pangong India’s freshwater size-king |
+| **Lagoon (bar)** | Sea water trapped behind a sandbar | **Chilika**, Pulicat | Calling Chilika inland saline |
+| **Wind / playa** | Desert hollow, water evaporates | **Sambhar** belt | Using Sambhar for every “saline” stem |
+| **Artificial** | Reservoir behind a dam | Gobind Sagar, Hirakud, Tehri, Pant Sagar | Treating them as natural glacial lakes |
+
+**Quick read:** Size/chemistry table answers “largest saline / lagoon / freshwater.” Origin table answers “oxbow / crater / tectonic / glacial.” Same lake can appear in both (Wular = freshwater **and** tectonic; Chilika = lagoon **and** bar origin).
+
+### Origin types (PMF IAS map) — full teaching
 
 **Earth movement**
 
