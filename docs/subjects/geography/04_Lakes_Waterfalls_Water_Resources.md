@@ -23,21 +23,25 @@
 ```
 LAKE TYPE FIRST: lagoon | inland saline | freshwater | crater | glacial | oxbow | artificial
  Origin (PMF): tectonic (Wular) | rift | glacial (Ladakh/HP tarns) | oxbow (Ganga/Kabartal) | lagoon (Chilika) | crater (Lonar) | wind/playa (Sambhar belt) | landslide-dun | man-made
- Chilika = largest EAST-COAST LAGOON (Odisha); often "largest saline" if stem omits "inland" (2021 Q74, Q144)
- Pulicat = 2nd lagoon (AP–TN) | Vembanad = longest Kerala backwater | Kolleru = freshwater deltaic (AP) ≠ lagoon king
- Sambhar = largest INLAND saline (RJ) | Lonar = meteorite crater, MH (Buldhana) | Kabartal = Asia’s large oxbow (Bihar)
- Wular = largest freshwater (J&K, Jhelum) | Dal = tourism, NOT largest
- Loktak = Manipur; phumdis; Keibul Lamjao (only floating NP) + Sangai (2022 Q73)
+ Chilika = largest EAST-COAST LAGOON (Odisha / N. Circars); often "largest saline" if stem omits "inland" (2021 Q74, Q144)
+ Pulicat = 2nd brackish (AP–TN; Sriharikota bar) | Vembanad = Kerala kayal/backwater | Kolleru = freshwater ≠ lagoon
+ Sambhar = largest INLAND saline (RJ) | Didwana/Kuchaman/Sargol/Khatu = RJ saline set
+ Wular = largest freshwater volume lock (J&K, Jhelum) | Dal = tourism | Roopkund = Mystery/Skeleton (UK)
+ Loktak = Manipur; phumdis; Keibul Lamjao + Sangai | Kabartal = Bihar oxbow Ramsar
+ Phulhar (Pilibhit) = Gomti source | Kodaikanal = artificial | Periyar Lake ≠ lagoon | Kayal = Kerala lagoon
+ Hokera = J&K NOT Punjab | Sasthamkotta = Kerala | Renuka = HP | Yaya Tso = Ladakh BHS
  Onega = RUSSIA not Canada (2023 Q66)
 WATER: India >17% people / ~4% water / ~2.45% land | precip ~4000 | available ~1869 | utilisable ~1122 BCM (surface ~690 + GW ~433)
  GB+Barak ~1/3 area but ~60% surface water | irrigation ~89% surface / ~92% GW
  Irrigation: GW >60% of irrigated area; canals IG plains; tanks peninsula; TN = highest south GW use
  Quality: arsenic Ganga belt | fluoride RJ/MH | usar NW over-irrigation | Yamuna Delhi–Etawah dirtiest NCERT stretch
  NWP 2012 drink first | PMKSY har khet + more crop per drop | Atal Jal 7 states incl UP | JJM | Namami Gange | Ken–Betwa = live ILR
-FALLS: Kunchikal ~455 m Varahi KA cascade = HIGHEST | Nohkalikai = tallest plunge | Jog = Sharavati WEST not Cauvery trib
- Kapildhara = Narmada not Godavari | Shivanasamudra / Hogenakkal = Cauvery
+FALLS: Kunchikal = UPPCS highest (Varahi) | Nohkalikai = tallest plunge | Jog = Sharavati WIDTH not highest
+ Shivanasamudra = Cauvery VOLUME king | Kapildhara = Narmada not Godavari
  Dudhsagar–Goa/Mandovi | Barkana–KA | Khandadhar–OD | Palani–HP (2022 Q85 → 4 1 2 3)
- Hundru–Subarnarekha (JH) | Dhuandhar–Narmada (MP, Bhedaghat) | Chachai ≠ Bihad (2021 Q9)
+ Hundru–Subarnarekha | Lodh/Budha Ghagh–Burha (NOT Kanchi) | Dhuandhar–Narmada Bhedaghat
+ Chitrakote–Indravati “Niagara” | Amritdhara–Hasdeo | Chulia–Chambal | Duduma–Machhkund | Gokak–Ghataprabha
+ Chachai ≠ Bihad (2021 Q9) | Bhalkund = Bina NOT Narmada
 DAMS: Bhakra–Sutlej–Gobind Sagar (gravity) | Hirakud–Mahanadi–OD (longest earthen) | Tehri tallest rock-fill Bhagirathi
  Indira Sagar–Narmada–MP volume king | SSP–Narmada–GJ | Idukki–Periyar arch | Koyna RIS 1967
  Nagarjuna Sagar–Krishna | Tulbul–Jhelum/Wular | DVC Tilaiya Konar Maithon Panchet
@@ -57,7 +61,11 @@ BHUTAN: Chukha, Tala, Kurichhu, Mangdechhu/Mungdechhu (2019 Q115 Modi inaugurati
 | Chilika vs Sambhar | Chilika = lagoon / often “largest saline”; Sambhar = **inland** saline | Pick Sambhar whenever “saline” appears | चिल्का = तटीय; सांभर = अंतर्देशीय खारा |
 | Chilika vs Pulicat vs Kolleru | Chilika largest E-coast lagoon; Pulicat 2nd; Kolleru freshwater | Kolleru as lagoon king | कोलेरू = मीठा, लैगून नहीं |
 | Wular vs Dal vs Loktak | Wular size king; Dal tourism; Loktak = Keibul Lamjao | Keibul on Wular/Dal | लोकटक = मणिपुर, केइबुल लामजाओ |
-| Kunchikal vs Jog | Kunchikal highest (Varahi); Jog famous (Sharavati) | Jog = highest | कुंचिकल ऊँचा; जोग प्रसिद्ध |
+| Kunchikal vs Jog | Kunchikal = UPPCS highest; Jog = famous / **width** | Jog = highest | कुंचिकल ऊँचा; जोग चौड़ा |
+| Jog vs Shivanasamudra | Jog = Sharavati **width**; Shivanasamudra = Cauvery **volume** | Swap crowns | जोग चौड़ा; शिवसमुद्र आयतन |
+| Lodh vs Hundru | Lodh/Budha Ghagh = **Burha**, JH highest; Hundru = Subarnarekha | Lodh on Kanchi/Barakar | लोध = बूढ़ा |
+| Roopkund vs Renuka | Roopkund = UK mystery/skeleton; Renuka = HP Ramsar | Roopkund in HP | रूपकुंड = उत्तराखंड |
+| Kayal vs inland lake | Kayal = Kerala coastal lagoon/backwater | Call Wular a kayal | कायल = केरल |
 | Dudhsagar state | **Goa** (Mandovi) | Karnataka-only | दूधसागर = गोवा |
 | Chachai–Bihad | **Wrong** pair (2021 Q9) | Treat as correct | चाचई ≠ बिहद |
 | Bhakra vs Pandoh | Bhakra = Sutlej; Pandoh = **Beas** | Pandoh on Ravi/Sutlej | भाखड़ा = सतलुज |
@@ -157,15 +165,18 @@ BHUTAN: Chukha, Tala, Kurichhu, Mangdechhu/Mungdechhu (2019 Q115 Modi inaugurati
 
 ### Lagoons and coastal wetlands
 
-- The **Chilika** lagoon lies on the Odisha coast. It is India’s largest east-coast lagoon.
+- A **lagoon** is a shallow coastal water body separated from the sea by a sandbar, spit, or barrier island that runs parallel to the shore.
+- Kerala’s lagoons and backwaters are also called **kayals** (Vembanad Kayal, Ashtamudi Kayal, Punnamada Kayal).
+- The **Chilika** lagoon lies on the Odisha coast (Northern Circars belt), near the Mahanadi mouth. It is India’s largest east-coast lagoon and often the “largest saline” key when the stem omits **inland**.
 - **Nalabana** is the bird island inside Chilika. An outer channel links the lagoon to the Bay of Bengal.
 - Chilika is **not** on the west coast and **not** a Rajasthan salt lake.
-- **Pulicat** straddles Andhra Pradesh and Tamil Nadu. It is the second lagoon.
-- **Sriharikota** bars Pulicat. The Satish Dhawan space centre sits on that spit.
-- **Vembanad** is Kerala’s longest backwater and a Ramsar site. The Nehru Trophy boat race is the tourism lock.
-- **Ashtamudi** is a palm-shaped Kerala backwater Ramsar site.
-- **Sasthamkotta** is Kerala’s largest freshwater lake.
-- **Kolleru** sits inland between the Godavari and Krishna deltas. Emergence left it freshwater. Do not crown it the lagoon king.
+- **Pulicat** straddles Andhra Pradesh and Tamil Nadu. It is the second-largest brackish / lagoon water body after Chilika.
+- **Sriharikota** bars Pulicat from the Bay of Bengal. The Satish Dhawan space centre sits on that spit.
+- **Vembanad** is Kerala’s longest / largest backwater lagoon and a Ramsar site. The Nehru Trophy boat race is the tourism lock.
+- **Ashtamudi** (“eight branches”) is a palm-shaped Kerala backwater Ramsar site in Kollam.
+- **Sasthamkotta** is Kerala’s largest **freshwater** lake (not Tamil Nadu — UPSC 2022 trap).
+- **Kolleru** sits inland between the Godavari and Krishna deltas. Emergence left it freshwater. Do not crown it the lagoon king. Some papers treat it as India’s largest freshwater lake **by area**; **Wular** remains the usual **volume / overall freshwater** lock.
+- **Periyar Lake** (Kerala) is **artificial** (reservoir). It is **not** a lagoon (IAS 2002).
 - **Kaliveli** in Tamil Nadu is the 2020 Q56 coastal match.
 - Kerala, Odisha and West Bengal hold large lagoon and backwater tracts. NCERT notes the water is often brackish, yet it is used for fishing and some paddy and coconut.
 
@@ -173,30 +184,46 @@ BHUTAN: Chukha, Tala, Kurichhu, Mangdechhu/Mungdechhu (2019 Q115 Modi inaugurati
 
 - **Sambhar** lies across Jaipur, Ajmer and Nagaur. It is India’s largest **inland** saline lake.
 - Sambhar salt pans and flamingos are the picture. It is Ramsar-listed.
-- **Didwana**, **Pachpadra** and **Lunkaransar** are smaller Rajasthan salt lakes.
-- **Pushkar** is a small sacred freshwater tank. It is not the saline king.
-- **Lonar** is the Maharashtra meteorite crater.
+- **Didwana**, **Kuchaman**, **Sargol**, **Khatu**, **Pachpadra** and **Lunkaransar** are Rajasthan saline / playa lakes (UPSC 2021 style name-set).
+- **Pushkar** (Ajmer) is a small sacred **artificial** freshwater tank. It is not the saline king.
+- **Nakki** is a tourism lake at **Mount Abu**, Rajasthan. It is not Sambhar.
+- **Lonar** is the Maharashtra meteorite crater (Buldhana).
 - **Pangong Tso** is a high-altitude brackish lake on the India–China line in Ladakh.
 - **Tso Moriri** and **Tso Kar** are Ladakh’s high Ramsar / brackish set.
+- **Yaya Tso** in Ladakh is called a “bird’s paradise.” In 2023 it was declared Ladakh’s first Biodiversity Heritage Site under the Biological Diversity Act. It is **not** fed by the Sutlej.
 
 ### Freshwater icons and regional belts
 
-- **Wular** in Jammu and Kashmir is India’s largest freshwater lake. The Jhelum flows through it.
+- **Wular** in Jammu and Kashmir is India’s largest freshwater lake **by the usual volume lock**. The Jhelum flows through it.
 - Tulbul is the navigation and storage project on the Wular–Jhelum belt.
-- **Dal** in Srinagar is the houseboat and tourism lake. It is **not** the size king.
+- **Dal** in Srinagar (Zabarwan belt) is the houseboat and tourism lake. It is **not** the size king.
+- **Anchar** is another Jammu and Kashmir lake in the match set.
 - **Loktak** in Manipur is famous for **phumdis** (floating biomass).
 - **Keibul Lamjao** is the only floating national park. It holds the **Sangai** brow-antlered deer.
 - The Kumaon belt holds **Nainital, Bhimtal, Sattal and Naukuchiatal**.
-- **Renuka** in Himachal is a Ramsar lake.
+- **Roopkund** in Uttarakhand is a glacial tarn called the **Mystery Lake / Skeleton Lake** because of human skeletons found on its shore. It is **not** in Himachal Pradesh.
+- **Ghepan** is a snow-covered glacial lake in the **Lahaul** valley of Himachal Pradesh.
+- **Renuka** in Himachal is a Ramsar wetland lake. **Nako** is another Himachal high lake.
 - **Pong / Maharana Pratap Sagar** is the Beas reservoir-wetland in Himachal.
 - **Harike** in Punjab sits at the Sutlej–Beas meeting.
-- **Deepor Beel** is Assam’s Ramsar wetland near Guwahati.
+- **Hokera** Wetland is in **Jammu and Kashmir**, not Punjab (UPSC 2022).
+- **Deepor Beel** is Assam’s Ramsar wetland near Guwahati. **Chapanala**, **Chandubi**, and **Haflong** are other Assam lake names in PCS lists.
+- **Phulhar / Gomat Taal** near Madho Tanda (**Pilibhit, UP**) is the source of the **Gomti**.
 - **Bhojtal** (Upper Lake) at Bhopal is a large urban reservoir-wetland.
-- **Hussain Sagar** at Hyderabad is artificial.
+- **Hussain Sagar** and **Usman Sagar** at Hyderabad are artificial.
+- **Chembarambakkam** (south of Chennai, Tamil Nadu) feeds the **Adyar** and supplies Chennai water.
+- **Kodaikanal** lake (Tamil Nadu) is **artificial** (UPSC 2018). Renuka and Nainital are natural; Kolleru is natural freshwater.
+- **Surajkund** is in **Haryana** (match-list lock with Ashtamudi–Kerala, Pulicat–TN/AP, Roopkund–UK).
 - **Sukhna** at Chandigarh is a man-made siltation-sensitive lake.
-- Rajasthan’s **Pichola**, **Fateh Sagar** and **Nakki** are tourism lakes. They are not Sambhar.
+- Rajasthan’s **Pichola** and **Fateh Sagar** are tourism lakes. They are not Sambhar.
+- **Kabartal (Kanwar Lake)** in Begusarai is Asia’s large freshwater oxbow and Bihar’s only Ramsar site. **Telhar Kund** waterfall is in **Kaimur** district, Bihar (Rohtas Plateau belt).
 
 > **Exam note:** Keibul Lamjao National Park sits on **Loktak**, not Wular, Dal, or Kolleru (UPPCS 2022, Q73).
+
+### Ramsar Convention (short lock)
+
+- The **Ramsar Convention** (adopted **1971** at Ramsar, Iran; in force **1975**) is the global treaty for wetland conservation. It is the only global environmental treaty focused on one ecosystem type.
+- India’s Ramsar count and UP list live in the UP wetlands card below; do not confuse state sites with the treaty year.
 
 ### Lake–state match set (2020 Q56)
 
@@ -280,48 +307,68 @@ D. Wular
 
 ## N.2 Waterfalls
 
-- A **waterfall** is a large volume of water dropping from a height. PMF IAS places most falls in the **youth** stage of a river.
-- Hard rock over soft rock, a break of slope, a fall in base level, and rejuvenation all create **knickpoints**. Water plunges at the knickpoint.
+- A **waterfall** is a steep or vertical drop of a stream. Falls may be natural or artificial. Most Indian natural falls sit in mountain / plateau country with hard–soft rock contrasts.
+- Soft rock erodes faster than hard rock. The hard ledge remains as a lip and water plunges at the **knickpoint**.
+- PMF IAS places most falls in the **youth** stage of a river. A fall in base level or rejuvenation also creates knickpoints.
 - A **plunge** fall drops in one sheet. A **cascade / tiered** fall steps down in many drops. A **segmented** fall splits into side-by-side streams.
-- **Famous is not the same as tallest.** Height lists vary by a few metres. Lock **relative order** and **river–state pairs**.
+- **Famous is not the same as tallest.** Height lists shift with databases. Lock **relative order**, **river–state pairs**, and the UPPCS height key.
+
+| Superlative | Lock | Trap |
+|-------------|------|------|
+| Highest (UPPCS 2018 / older database) | **Kunchikal** (Varahi, Karnataka; older figure ~455 m) | Jog |
+| Tallest **plunge** (newer World Waterfalls Database) | **Nohkalikai** (Meghalaya, ~340 m) | Using Nohkalikai to beat every Kunchikal stem |
+| Largest by **width** | **Jog / Gersoppa** (Sharavati, Karnataka) | Calling Jog highest |
+| Largest by **volume** | **Shivanasamudra** (Cauvery, Karnataka) | Putting volume crown on Jog |
 
 | Waterfall | ~Height | River | State | Exam tag |
 |-----------|---------|-------|-------|----------|
-| **Kunchikal** | ~455 m | **Varahi** | Karnataka (Shimoga / Agumbe belt) | **Highest**; tiered (2018 Q24) |
-| Barehipani | ~399 m | Budhabalanga | Odisha (Simlipal) | Second-highest; two tiers |
-| Nohkalikai | ~340 m | Plateau stream | Meghalaya (Cherrapunji) | Tallest **plunge** |
-| Nohsngithiang (Seven Sisters) | ~315 m | — | Meghalaya | |
-| **Dudhsagar** | ~310 m | **Mandovi** | **Goa** (KA border) | 2022 Q85 |
+| **Kunchikal** | older ~455 m; newer DB ~183 m | **Varahi** | Karnataka (Shimoga / Agumbe) | UPPCS **highest** key (2018 Q24) |
+| Barehipani | ~399 / ~217 m by DB revision | Budhabalanga | Odisha (Simlipal) | High Odisha fall |
+| Nohkalikai | ~340 m | Plateau stream | Meghalaya (Cherrapunji) | Tallest **plunge**; Landshing / Lansing also Meghalaya |
+| Nohsngithiang (Seven Sisters) / Mawsmai | ~315 m class | — | Meghalaya | Height list fodder |
+| **Dudhsagar** | ~310–320 m | **Mandovi** | **Goa** (KA border) | 2022 Q85 |
 | Barkana | ~259 m | Sita belt | **Karnataka** | 2022 Q85 |
-| **Jog (Gersoppa)** | ~253 m | **Sharavati** | Karnataka | Famous; Raja–Rani–Roarer–Rocket |
+| **Jog (Gersoppa)** | ~253 m | **Sharavati** | Karnataka | Famous; **width** king; Raja–Rani–Roarer–Rocket |
 | **Khandadhar** | ~244 m | Korapani Nala → Brahmani | **Odisha** (Sundargarh) | 2022 Q85 |
 | **Palani** | — | Kullu belt | **Himachal Pradesh** | 2022 Q85 |
-| Hundru | ~98 m | **Subarnarekha** | Jharkhand (Chotanagpur) | 2021 Q9 correct |
-| Dhuandhar | — | **Narmada** | MP (Bhedaghat / Marble Rocks) | 2021 Q9 correct |
+| Hundru | ~98 m | **Subarnarekha** | Jharkhand (~45 km from Ranchi) | 2021 Q9 correct |
+| Jonha | — | **Rarhu** | Jharkhand | Match-list pair |
+| Dasam / Dasong | — | **Kanchi** | Jharkhand | Match-list pair |
+| **Lodh / Budha Ghagh** | ~143 m (468 ft) | **Burha** | Jharkhand (Latehar) | Highest in JH; **not** Kanchi / Barakar |
+| Dhuandhar | ~30 m | **Narmada** | MP (**Bhedaghat** / Marble Rocks) | 2021 Q9 correct |
+| Kapildhara | — | **Narmada** | MP (Anuppur / Amarkantak) | **Not** Godavari (UPSC 2008) |
+| Dugdhdhara / Bheraghat belt | — | **Narmada** | MP | Narmada falls set |
+| Bhalkund (Rahatgarh) | — | **Bina** | MP | **Not** on Narmada |
 | Chachai | ~130 m | Bihad / Beehar (Tamsa) | MP (Rewa) | 2021 Q9 **keyed unmatched** |
+| Chulia | — | **Chambal** | Rajasthan / MP belt | Jog ≠ Krishna; Chulia ≠ wrong river |
 | Joranda | ~150 m | Budhabalanga | Odisha (Simlipal) | Near Barehipani |
-| Shivanasamudra | ~90–98 m | **Cauvery** | Karnataka | Gaganachukki + Bharachukki |
+| Duduma | — | **Machhkund** | Odisha (Koraput) | With Gokak / Jog match lists |
+| Gokak | — | **Ghataprabha** | Karnataka (Belagavi) | |
+| Shivanasamudra | ~90–98 m | **Cauvery** | Karnataka | **Volume** king; Gaganachukki + Bharachukki |
 | Hogenakkal | — | **Cauvery** | Tamil Nadu | “Smoking rock” |
 | Athirappilly | — | Chalakudy | Kerala | |
-| Chitrakote | wide, low | **Indravati** | Chhattisgarh | “Niagara of India” |
-| Gokak | — | Ghataprabha | Karnataka | |
-| Kapildhara | — | **Narmada** | MP (Amarkantak) | **Not** Godavari (UPSC 2008) |
+| Chitrakote | wide, low (~29 m) | **Indravati** | Chhattisgarh (Bastar / Jagdalpur) | “Niagara of India” |
+| Amritdhara | — | **Hasdeo (Hasdo)** | Chhattisgarh | Not Indravati / Mahanadi stem |
 | Kevti / Rakim Kund | — | Rewa plateau streams | Madhya Pradesh | 2018 Q24 distractors |
 
-- Order to raata: **Kunchikal > Barehipani > Nohkalikai > Dudhsagar > Barkana ≈ Jog**.
-- **Kunchikal** is a cascade on the **Varahi**. Mani Dam has reduced its dry-season flow. It is still the height lock.
-- **Jog** is segmented on the **Sharavati**. Sharavati is a **west-flowing** Karnataka river to the Arabian Sea at Honnavar.
+- Order to raata for UPPCS height stems: **Kunchikal** remains the keyed highest answer (2018). Treat newer database ranks as awareness, not as a reason to pick Jog.
+- **Kunchikal** is a cascade on the **Varahi**. Mani Dam has reduced its dry-season flow.
+- **Jog** is segmented on the **Sharavati**. Sharavati is a **west-flowing** Karnataka river to the Arabian Sea at Honnavar. Jog is **not** India’s highest; it is the fame / width lock.
 - PMF IAS once called Sharavati a **Cauvery tributary**. That is **wrong**. Jog is not on the Cauvery.
 - **Linganamakki** dam stores Sharavati water for Karnataka hydropower.
-- **Nohkalikai** is the tallest **single-drop plunge**. Do not use it to beat Kunchikal on total height.
+- **Nohkalikai** is the tallest **single-drop plunge** in newer lists. Do not use it to overturn a UPPCS “highest waterfall = Kunchikal” key unless the stem specifies plunge.
 - **Dudhsagar** is keyed to **Goa** in UPPCS 2022, even though the Mandovi belt touches Karnataka.
-- **Dhuandhar** cuts marble at Bhedaghat on the Narmada. UPSC 2024-style stems may tag the region **Malwa** with the Narmada.
+- **Dhuandhar** cuts marble at Bhedaghat on the Narmada.
 - **Hundru** drops off the Ranchi plateau on the Subarnarekha.
-- **Shivanasamudra** on the Cauvery hosted India’s early hydro station (**1902**).
+- **Lodh / Budha Ghagh** on the **Burha** is Jharkhand’s highest fall. Pairing it with Kanchi or Barakar is wrong.
+- **Shivanasamudra** on the Cauvery is the **volume** king and hosted India’s early hydro station (**1902**).
 - **Kapildhara** is on the **Narmada** near Amarkantak. Pairing it with the Godavari is a classic unmatched trap.
+- **Chitrakote** on the **Indravati** (Bastar) is the “Niagara of India.”
 - Rewa district tourism still places **Chachai** on the **Bihad / Beehar**, a Tamsa tributary. The **2021 official key** treated **Chachai–Bihad** as the unmatched pair. For that stem, follow the key.
 
 **2022 Q85 code:** Dudhsagar–Goa, Barkana–KA, Khandadhar–OD, Palani–HP → **4 1 2 3**.
+
+**Match fodder (UPPCS 2017 style):** Dudhsagar–Mandovi · Duduma–Machhkund · Gokak–Ghataprabha · Jog–Sharavati.
 
 **PYQ — UPPCS Prelims 2018, Q24**
 
@@ -338,7 +385,9 @@ D. Kevti fall
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kunchikal (Varahi, KA). Jog is the fame trap.
+**Exam logic:** Famous ≠ tallest. UPPCS keyed the older height list.
+
+**Ans: B** — Kunchikal (Varahi, KA). Jog is the fame / width trap.
 
 </details>
 
@@ -537,10 +586,11 @@ D. Only 1
 7. Kabartal = Bihar oxbow Ramsar. Vembanad = longest Kerala backwater.
 8. Onega = **Russia**, not Canada (2023 Q66).
 9. Rudrasagar = Tripura; Sultanpur = Haryana — **not UP** (2025 Q58).
-10. Kunchikal (**Varahi**, KA, cascade) = **highest**; Nohkalikai = tallest **plunge**; Jog (**Sharavati**, west-flowing) = famous not tallest (2018 Q24).
-11. Sharavati is **not** a Cauvery tributary. Shivanasamudra and Hogenakkal are on the **Cauvery**. Kapildhara is on the **Narmada**.
+10. Kunchikal (**Varahi**, KA) = UPPCS **highest** key; Nohkalikai = tallest **plunge**; Jog (**Sharavati**) = famous / **width**, not tallest (2018 Q24).
+11. Sharavati is **not** a Cauvery tributary. **Shivanasamudra** = Cauvery **volume** king. Kapildhara = **Narmada**.
 12. Dudhsagar = **Goa**; Barkana = KA; Khandadhar = OD; Palani = HP (2022 Q85).
-13. Hundru = Subarnarekha; Dhuandhar = Narmada; **Chachai–Bihad** was the 2021 unmatched key.
+13. Hundru = Subarnarekha; Lodh/Budha Ghagh = **Burha**; Dhuandhar = Narmada; Chitrakote = Indravati; **Chachai–Bihad** = 2021 unmatched key.
+13a. Roopkund = UK Mystery/Skeleton Lake. Phulhar (Pilibhit) = Gomti source. Kodaikanal = artificial. Kayal = Kerala lagoon.
 14. Bhakra–Nangal = **Sutlej** / Gobind Sagar (gravity). Tehri = **Bhagirathi**, tallest, rock-fill.
 15. Hirakud = **Mahanadi**, Odisha, longest earthen narrative. Indira Sagar = Narmada **MP**, volume king.
 16. Sardar Sarovar = **Narmada**, Gujarat. Idukki = **Periyar** arch. Koyna = RIS 1967.
@@ -558,7 +608,7 @@ D. Only 1
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.  
-> **Format mix:** 60 questions — asked PYQ patterns plus unasked NCERT / PMF / dam-map angles
+> **Format mix:** 66 questions — asked PYQ patterns plus unasked NCERT / PMF / dam-map angles
 
 **Q1.** With reference to lakes of India, which of the following statements is/are correct?
 
@@ -1647,6 +1697,114 @@ D. it is the Indus Waters Treaty storage on the Jhelum
 
 </details>
 
+**Q61.** Which one of the following pairs is correctly matched?
+
+A. Jog Falls — largest by volume
+
+B. Shivanasamudra — Cauvery; largest by volume
+
+C. Kunchikal — Sharavati
+
+D. Chitrakote — Narmada
+
+<details>
+<summary>Show answer</summary>
+
+**Exam logic:** Separate width / volume / height crowns; river–fall pairs.
+
+**Ans: B** — Shivanasamudra on the **Cauvery** is the volume king. Jog is width / fame on Sharavati. Kunchikal is on Varahi. Chitrakote is on Indravati.
+</details>
+
+**Q62.** Which one of the following is called the ‘Mystery Lake’?
+
+A. Renuka
+
+B. Ghepan
+
+C. Roopkund
+
+D. Nako
+
+<details>
+<summary>Show answer</summary>
+
+**Exam logic:** Skeleton / mystery tag is Roopkund in Uttarakhand, not HP lakes.
+
+**Ans: C** — Roopkund is the glacial Mystery / Skeleton Lake in Uttarakhand. Renuka, Ghepan and Nako are Himachal lakes.
+</details>
+
+**Q63.** Which one of the following is **not** a lagoon?
+
+A. Ashtamudi
+
+B. Chilika
+
+C. Periyar Lake
+
+D. Pulicat
+
+<details>
+<summary>Show answer</summary>
+
+**Exam logic:** Artificial reservoir vs bar-separated coastal lagoon / kayal.
+
+**Ans: C** — Periyar Lake is artificial. Ashtamudi, Chilika and Pulicat are lagoon / backwater systems.
+</details>
+
+**Q64.** Lodh (Budha Ghagh) Falls are on which river?
+
+A. Subarnarekha
+
+B. Kanchi
+
+C. Burha
+
+D. Barakar
+
+<details>
+<summary>Show answer</summary>
+
+**Exam logic:** Jharkhand highest fall river lock — Burha, not Hundru’s Subarnarekha or Kanchi/Barakar traps.
+
+**Ans: C** — Lodh / Budha Ghagh (Latehar) is on the **Burha**. Hundru is Subarnarekha; Dasam is often paired with Kanchi.
+</details>
+
+**Q65.** Fulhar / Phulhar Lake, the source of the Gomti, is in:
+
+A. Uttarakhand
+
+B. Madhya Pradesh
+
+C. Uttar Pradesh
+
+D. Jammu and Kashmir
+
+<details>
+<summary>Show answer</summary>
+
+**Exam logic:** Gomti plains-origin source lake = Pilibhit, UP.
+
+**Ans: C** — Phulhar / Gomat Taal near Madho Tanda, **Pilibhit**, Uttar Pradesh.
+</details>
+
+**Q66.** With reference to Indian saline lakes, Didwana, Kuchaman, Sargol and Khatu are names of:
+
+A. glaciers
+
+B. mangrove areas
+
+C. Ramsar sites only
+
+D. saline lakes
+
+<details>
+<summary>Show answer</summary>
+
+**Exam logic:** UPSC 2021 name-set — Rajasthan saline / playa lakes, not glaciers or mangroves.
+
+**Ans: D** — They are saline lakes of the Rajasthan belt (with Sambhar as the inland king).
+</details>
+
 ---
 
 ## Complete PYQ Bank
@@ -1980,7 +2138,11 @@ D. 12
 2. **Chilika in Rajasthan / freshwater** — FALSE. **Odisha coastal lagoon**.
 3. **Kolleru = largest east-coast lagoon** — FALSE. **Chilika**; Kolleru is freshwater (2021 Q144).
 4. **Keibul Lamjao on Wular / Dal** — FALSE. **Loktak, Manipur** (2022 Q73).
-5. **Jog = highest waterfall** — FALSE. **Kunchikal** (Varahi, KA) (2018 Q24).
+5. **Jog = highest waterfall** — FALSE. **Kunchikal** (Varahi, KA) for UPPCS. Jog = fame / **width**; Shivanasamudra = **volume**.
+5a. **Lodh / Budha Ghagh on Kanchi or Barakar** — FALSE. On the **Burha** (Latehar).
+5b. **Roopkund in Himachal** — FALSE. **Uttarakhand** Mystery / Skeleton Lake.
+5c. **Periyar Lake is a lagoon / kayal** — FALSE. It is **artificial**. Kayals are Kerala coastal lagoons.
+5d. **Hokera in Punjab / Sasthamkotta in Tamil Nadu** — FALSE. Hokera = **J&K**; Sasthamkotta = **Kerala**.
 6. **Dudhsagar = Karnataka-only** — FALSE. Keyed to **Goa** (2022 Q85).
 7. **Chachai–Bihad is correct** — FALSE. That is the **wrong** pair (2021 Q9).
 8. **Onega = Canada** — FALSE. **Russia** (2023 Q66).
