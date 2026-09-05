@@ -97,6 +97,18 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 
 > ** note:** Start every answer from the **phase**. Plassey is not Diwani. Subsidiary is not Lapse. Warren Hastings is not Lord Hastings.
 
+### Deccan marker — Battle of Shakarkheda, 1724
+
+**Nizam-ul-Mulk (Asaf Jah I)** vs **Mubariz Khan** | Berar / Buldhana belt | **11 October 1724**
+
+- After Aurangzeb, Deccan politics broke into successor contests. The Mughal court under **Muhammad Shah** tried to check **Nizam-ul-Mulk** by backing **Mubariz Khan** as Deccan subedar.
+- At **Shakarkheda (Shakar Kheda)**, Nizam-ul-Mulk defeated and killed Mubariz Khan.
+- Maratha help under **Baji Rao I** is often noted in this fight.
+- The victory fixed **Asaf Jahi** power in the Deccan and is treated as the founding moment of independent **Hyderabad** under the Nizams.
+- Year lock for chronology stems: **Shakarkheda = 1724** — before Bedara, Porto Novo, or Mudki.
+
+> ** note:** Shakarkheda is **Nizam vs Mughal nominee**, not Anglo-Mysore and not Anglo-Sikh.
+
 ---
 
 ## 2.1 Bengal on the eve — Nawabs and Company friction
@@ -117,16 +129,16 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 - In **June 1756** Siraj took Calcutta. The **Black Hole** episode belongs to that capture (**Holwell’s** famous story of a tiny cell; numbers are debated, and **Ghulam Hussain’s Siyar-ul-Mutakherin** does not mention it).
 - Clive and Admiral Watson recaptured Calcutta. The **Treaty of Alinagar (February 1757)** restored English privileges. Peace lasted only until Plassey.
 
-| Nawab | Approx. | tag |
-|-------|---------|----------|
-| Murshid Quli Khan | from 1717 | Last Mughal-appointed Subedar; Murshidabad; ijara |
-| Shujauddin | after Murshid Quli | Bridge ruler before Sarfaraz |
-| Sarfaraz Khan | brief | Killed by Alivardi |
-| Alivardi Khan | 1740–56 | Last strong Nawab; Bargis; honeybee remark |
-| Siraj-ud-Daulah | 1756–57 | Calcutta 1756; Black Hole; fell at Plassey |
-| Mir Jafar | from 1757 | First puppet after Plassey |
-| Mir Qasim | 1760–63 | Munger; equal duties; Buxar ally |
-| Najm-ud-Daulah | after 1765 | Pensioned figurehead under Diwani |
+| Nawab | Years | Tag |
+|-------|-------|-----|
+| **Murshid Quli Khan** | from **1717** | Last Mughal-appointed Subedar; Murshidabad; ijara |
+| **Shujauddin** | after Murshid Quli | Bridge ruler before Sarfaraz |
+| **Sarfaraz Khan** | brief | Killed by Alivardi |
+| **Alivardi Khan** | **1740–56** | Last strong Nawab; Bargis; honeybee remark |
+| **Siraj-ud-Daulah** | **1756–57** | Calcutta 1756; Black Hole; fell at Plassey |
+| **Mir Jafar** | from **1757** | First puppet after Plassey |
+| **Mir Qasim** | **1760–63** | Munger; equal duties; Buxar ally |
+| **Najm-ud-Daulah** | after **1765** | Pensioned figurehead under Diwani |
 
 > ** note:** Independent Nawabi ends at Plassey. **Diwani is 1765, not 1757**. The **1717 farman** explains the dastak quarrel; it is not Diwani.
 
@@ -435,6 +447,15 @@ D. Both 1 and 2
 - Tipu also set up embassies on modern lines in foreign states such as **Iran, Istanbul, Afghanistan and France** to seek help against the English.
 - There were **four** Anglo-Mysore Wars. Fear of French help to Tipu shaped Wellesley’s urgency in the Fourth War.
 
+### Anglo-Mysore war ladder
+
+| War | Years | End / result tag |
+|-----|-------|------------------|
+| **First** | **1767–69** | **Treaty of Madras 1769** — Hyder strong |
+| **Second** | **1780–84** | **Pollilur 1780**; **Porto Novo 1781**; **Treaty of Mangalore 1784** |
+| **Third** | **1790–92** | **Treaty of Seringapatam 1792** — Tipu cedes about half |
+| **Fourth** | **1799** | Tipu killed **4 May 1799**; Wodeyar child under Subsidiary Alliance |
+
 ### First Anglo-Mysore War, 1767–69
 
 **Causes:** Hyder’s rise alarmed the English, the Nizam and the Marathas. Shifting alliances opened war.
@@ -514,6 +535,14 @@ D. Chikka Krishnaraj
 | **Raghunath Rao (Raghoba)** | disputed 1773–74 |
 | **Madhav Rao Narayan (II)** | infant; Nana Fadnavis era (Nana d. **1800**) |
 | **Baji Rao II** | 1796–1818 (Bassein; pensioned at **Bithoor**) |
+
+### Anglo-Maratha war ladder
+
+| War | Years | End / result tag |
+|-----|-------|------------------|
+| **First** | **1775–82** | **Treaty of Salbai 1782** — English keep Salsette |
+| **Second** | **1803–05** | **Bassein 1802** opens war; Assaye / Laswari; Deogaon & Surji-Anjangaon |
+| **Third** | **1817–18** | **Kirkee 1817**; Peshwa power ends; Pindari hunt |
 
 ### First Anglo-Maratha War, 1775–82
 
@@ -653,6 +682,23 @@ D. Jamadani
 - After **1839** succession chaos (**Kharak / Khadag Singh**, Nau Nihal Singh, Sher Singh and court factions of Dogra vs Sandhanwalia groups) opened the door to war. The Khalsa army remained powerful but politics collapsed.
 - **Duleep Singh** was the last Sikh ruler (**1843–49**). He later accepted Christianity, visited Russia, and died in **Paris (1893)**; his funeral was in England.
 
+### Sikh empire / Anglo-Sikh timeline
+
+| Year | Event |
+|------|-------|
+| **1780** | Ranjit born; **Sukerchakia** misl |
+| **1799** | Takes **Lahore**; makes it capital |
+| **1802** | Takes **Amritsar** |
+| **25 Apr 1809** | **Treaty of Amritsar** with Company (**Lord Minto** / Metcalfe) — Sutlej limit |
+| **1818** | Annexes **Multan** |
+| **1819** | Annexes **Kashmir** |
+| **1834** | Annexes **Peshawar** belt |
+| **1839** | Ranjit dies; succession chaos begins |
+| **1845–46** | **First Anglo-Sikh War** → **Treaty of Lahore 1846** |
+| **13 Jan 1849** | **Chillianwala** (setback / indecisive) |
+| **21 Feb 1849** | **Gujrat** — English win |
+| **29 Mar 1849** | Punjab annexed; **Board of Three** |
+
 ### First Anglo-Sikh War, 1845–46
 
 **Causes:** After Ranjit’s death the Lahore court was unstable. The Khalsa army crossed the Sutlej. Hardinge treated this as war.
@@ -667,7 +713,15 @@ D. Jamadani
 
 **Course:** Fighting included Ramnagar, a British setback at **Chillianwala (13 Jan 1849)** — Lord Gough vs Sher Singh; undecided field — and the decisive victory at **Gujrat (21 Feb 1849)**.
 
-**Results:** Punjab annexed on **29 March 1849**. Duleep Singh deposed and sent to England on pension. Punjab became a **Chief Commissionership**. A **Board of Three** administered it: **Sir Henry Lawrence** (president), **John Lawrence** and **Charles Grenville Mansel**. **H. M. Elliot** and **Robert Montgomery** were **not** members of that first board.
+**Results:** Punjab annexed on **29 March 1849**. Duleep Singh deposed and sent to England on pension. Punjab became a **Chief Commissionership**.
+
+| Board of Three (1849) | Role |
+|-----------------------|------|
+| **Sir Henry Lawrence** | President |
+| **John Lawrence** | Member |
+| **Charles Grenville Mansel** | Member |
+
+**Not on that board:** **H. M. Elliot** and **Robert Montgomery**.
 
 > ** note:1809 Amritsar ≠ 1846 Lahore ≠ 1849 annexation**. Mudki = First Sikh, not Mysore. Sukerchakia = Ranjit’s misl. Kohinoor path = **Shah Shuja → Ranjit**.
 
@@ -950,15 +1004,28 @@ D. 3, 1, 2, 4
 
 ### Battle year facts
 
-| Battle | Year | War |
-|--------|------|-----|
+| Battle | Year | War / theatre |
+|--------|------|----------------|
+| **Shakarkheda** | **1724** | Nizam-ul-Mulk vs Mubariz Khan; Hyderabad Asaf Jahi hold |
 | Plassey | 1757 | Bengal |
+| **Bedara / Chinsurah** | **1759** | English vs Dutch in Bengal |
 | Buxar | 1764 | Bengal / Awadh / Mughal |
-| Porto Novo | 1781 | 2nd Mysore |
+| Porto Novo | 1781 | 2nd Mysore (Eyre Coote vs Hyder) |
 | Assaye | 1803 | 2nd Maratha |
 | Miani | 1843 | Sindh |
 | Mudki | 1845 | 1st Sikh |
 | Gujrat | 1849 | 2nd Sikh |
+
+**UPPCS 2022 chronology stem (I Mudki, II Porto Novo, III Shakarkheda, IV Bedara):**
+
+| Order | Battle | Year |
+|------:|--------|------|
+| 1 | Shakarkheda | **1724** |
+| 2 | Bedara | **1759** |
+| 3 | Porto Novo | **1781** |
+| 4 | Mudki | **1845** |
+
+Code = **III, IV, II, I**.
 
 ### Governor-General ↔ expansion tag
 
@@ -1042,7 +1109,16 @@ D. I, II, III, IV
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Shakarkheda 1724 → Bedara 1759 → Porto Novo 1781 (2nd Mysore) → Mudki 1845 (1st Sikh).
+**Logic:**
+
+| Battle | Year | Theatre |
+|--------|------|---------|
+| Shakarkheda | **1724** | Nizam-ul-Mulk vs Mubariz Khan |
+| Bedara | **1759** | English vs Dutch (Bengal) |
+| Porto Novo | **1781** | 2nd Anglo-Mysore |
+| Mudki | **1845** | 1st Anglo-Sikh |
+
+**Ans: B** — III, IV, II, I.
 
 </details>
 
@@ -2436,7 +2512,7 @@ D. I, II, III, IV
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Mudki (1st Sikh) and Porto Novo (2nd Mysore) are expansion facts; Bedara is Advent of Europeans.
+**Ans: B** — Shakarkheda **1724** (Nizam vs Mubariz Khan) → Bedara **1759** (English vs Dutch) → Porto Novo **1781** (2nd Mysore) → Mudki **1845** (1st Sikh). Code **III, IV, II, I**.
 
 </details>
 
