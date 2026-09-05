@@ -45,7 +45,7 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 26. Early English and Dutch trade at ports such as Surat rested on a **Mughal farman**, not on conquest. Advent of Europeans is **not** the same as the British Raj.
 27. **Hormuz (1515)** and **Malacca (1511)** were Portuguese choke-points for sea lanes. Their main late Indian holdings were **Goa, Daman and Diu**.
 28. Traveller order: **Fitch** before the EIC factory phase, then **Hawkins (1608)**, then **Roe (1615–19)**. Keep that sequence tight. **Peter Mundy** was English under Shah Jahan — not Portuguese.
-29. Settlement match spine: **Goa** Portuguese; **Chinsurah** Dutch; **Tranquebar / Serampore** Danish; **Pondicherry / Chandernagore** French; **Sadras** Dutch; **Bandel** Portuguese.
+29. Bengal settlement identities: **Hooghly/Bandel** Portuguese; **Chinsurah** Dutch; **Chandernagore** French; **Serampore** Danish; **Calcutta** English.
 30. Carnatic Wars are **English vs French** in the 1740s–60s. Anglo–Mysore Wars are **English vs Hyder/Tipu** later — never merge the two series.
 
 ---
@@ -154,7 +154,15 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 - In **1534** the Portuguese got leave from Bengal’s **Ghiyasuddin Mahmud Shah** to open factories at **Satgaon** and **Chatgaon (Chittagong)**. As Satgaon declined, **Hooghly** rose.
 - At **Hooghly** the Portuguese traded textiles, saltpetre and slaves, and used the port as a **piracy base** in the Bay of Bengal.
 - **Shah Jahan expelled them from Hooghly in 1632** (subdued under Bengal governor **Qasim Khan**). That ended the Bengal foothold.
-- **Bandel** is the usual Portuguese Bengal identity in match lists. **Chinsurah** is Dutch; **Serampore** is Danish.
+- In Bengal the European settlement identities are:
+
+| Settlement | Power | Note |
+|------------|-------|------|
+| **Hooghly / Bandel** | Portuguese | Piracy base till Shah Jahan crushed it in **1632** |
+| **Chinsurah** | Dutch | **Fort Gustavus** from **1653** |
+| **Chandernagore** | French | Not Chinsurah |
+| **Serampore** | Danish | Also called Frederiksnagore |
+| **Calcutta** | English | Job Charnock / Sutanuti from **1690** |
 - They never ruled Delhi or Agra. By the later period the main Indian holdings were **Goa, Daman and Diu**.
 - Portuguese rule in India ended only in **1961** with the liberation of Goa — first to arrive, last to leave.
 - **St Francis Xavier** and Goan churches are a cultural fact. Papers still test **Goa = Portuguese**.
@@ -424,7 +432,7 @@ Minor player | papers ask **settlement identity**, not Danish politics
 | Tranquebar | Danish |
 | Sadras | Dutch |
 
-> ** note:** Coromandel four-power strip: **Madras (E) · Pulicat (D) · Pondicherry (F) · Tranquebar (Da)**. Bengal pair: **Chinsurah (D) vs Chandernagore (F)**. Bandel ≠ Chinsurah.
+> ** note:** Bengal five: **Bandel (P) · Chinsurah (D) · Chandernagore (F) · Serampore (Da) · Calcutta (E)**. Coromandel four: **Madras (E) · Pulicat (D) · Pondicherry (F) · Tranquebar (Da)**.
 
 ---
 
