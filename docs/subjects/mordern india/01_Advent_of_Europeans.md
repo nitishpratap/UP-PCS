@@ -33,7 +33,7 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 14. First English temporary factory: **Masulipatnam 1611**. After **Thomas Best** won at **Swally (1612)**, the first permanent English factory rose at **Surat in 1613**. Dutch Surat followed in **1616**; French Surat in **1668**.
 15. **Francis Day** obtained the Madras grant in **1639**; **Fort St George** followed in **1640**. **Bombay** came as Portuguese dowry in **1661–62** and was leased to the EIC in **1668** for **£10** a year.
 16. **Job Charnock** settled at **Sutanuti** (Calcutta) in **1690**. **Shah Jahan** destroyed the Portuguese base at **Hooghly in 1632** (piracy base in the Bay of Bengal).
-17. Dutch Bengal fact: early Pipali/Balasore phase, then **Chinsurah (1653)** with **Fort Gustavus**; **Chandernagore** was French. At **Bedara (1759)** the English defeated the Dutch in Bengal.
+17. Dutch Bengal: early **Pipali**/Balasore phase, then **Chinsurah (1653)** with **Fort Gustavus**. **Chandernagore** was French. At **Bedara (1759)** the English defeated the Dutch in Bengal.
 18. At **Colachel (1741)**, Travancore under **Marthanda Varma** defeated the Dutch — a rare Indian victory over a European company force.
 19. **First Carnatic War (1746–48)** grew from the War of the Austrian Succession. Immediate spark: English seizure of French ships (**Captain Bernett**). **Course:** French took Madras; **St Thome / Adyar** showed drilled troops beating a Nawabi army. **Result:Treaty of Aix-la-Chapelle (1748)** returned Madras to the English.
 20. **Second Carnatic War (1749–54)** was a succession duel in the Carnatic and Hyderabad. **Course:** Clive’s defence of **Arcot (1751)** flipped local alliances. **Result:** English influence rose; **Dupleix** was recalled.
@@ -45,7 +45,7 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 26. Early English and Dutch trade at ports such as Surat rested on a **Mughal farman**, not on conquest. Advent of Europeans is **not** the same as the British Raj.
 27. **Hormuz (1515)** and **Malacca (1511)** were Portuguese choke-points for sea lanes. Their main late Indian holdings were **Goa, Daman and Diu**.
 28. Traveller order: **Fitch** before the EIC factory phase, then **Hawkins (1608)**, then **Roe (1615–19)**. Keep that sequence tight. **Peter Mundy** was English under Shah Jahan — not Portuguese.
-29. Bengal settlement identities: **Hooghly/Bandel** Portuguese; **Chinsurah** Dutch; **Chandernagore** French; **Serampore** Danish; **Calcutta** English.
+29. Bengal power map: **Bandel/Hooghly** Portuguese, **Chinsurah** Dutch, **Chandernagore** French, **Serampore** Danish, **Calcutta** English.
 30. Carnatic Wars are **English vs French** in the 1740s–60s. Anglo–Mysore Wars are **English vs Hyder/Tipu** later — never merge the two series.
 
 ---
@@ -112,7 +112,15 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 | **Danish** | Danish EIC | **1616** | **Tranquebar** 1620 |
 | **French** | French EIC | **1664** | **Surat** 1668; **Pondicherry** 1674 |
 
-**Arrival order in India (must-score):** Portuguese → Dutch → English → Danes → French.
+**Arrival order in India (must-score):**
+
+| Order | Power | First contact / company tag |
+|------:|-------|-----------------------------|
+| 1 | **Portuguese** | **1498** (Gama) |
+| 2 | **Dutch** | VOC **1602**; India from **c.1605** |
+| 3 | **English** | Charter **1600**; India from **1608** |
+| 4 | **Danes** | Company **1616**; Tranquebar **1620** |
+| 5 | **French** | Company **1664**; Surat **1668** |
 
 | Stage | Period | Nature |
 |-------|--------|--------|
@@ -142,31 +150,41 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 
 **First European sea power in India** | crown **Estado da Índia** | forts, not a Gangetic land empire
 
-- **Vasco da Gama** reached **Calicut** in **1498**.
-- **Pedro Álvares Cabral** reached India in **September 1500** and helped open the first Portuguese factory at **Calicut**.
-- Early Portuguese bases included **Cochin** and **Cannanore** on the Malabar coast.
-- The first European fort in India was built at **Cochin in 1503** by **Afonso de Albuquerque**, who was not yet Viceroy/Governor. Almeida later fortified **Cannanore** and **Anjediva** in **1505**.
-- **Afonso de Albuquerque** captured **Goa in 1510** from **Yusuf Adil Shah** of Bijapur. Goa became the capital of **Estado da Índia**.
-- He took **Malacca in 1511** and **Hormuz in 1515** to lock Indian Ocean choke-points.
-- Later western holdings included **Daman** and **Diu**.
+### Portuguese timeline in India
+
+| Year | Event |
+|------|-------|
+| **20 May 1498** | **Vasco da Gama** at **Calicut**; welcomed by **Zamorin** |
+| **Sept 1500** | **Cabral**; early factory path at **Calicut** |
+| **1503** | First European fort at **Cochin** (Albuquerque, not yet Governor) |
+| **1505** | **Almeida** first Viceroy; Blue Water Policy; forts at Cannanore / Anjediva |
+| **1509** | Naval victory at **Diu**; **Albuquerque** becomes Governor |
+| **1510** | **Goa** taken from **Yusuf Adil Shah**; Estado capital |
+| **1511** | **Malacca** |
+| **1515** | **Hormuz** |
+| **1534** | Leave for **Satgaon** and **Chatgaon** from **Ghiyasuddin Mahmud Shah** |
+| **1534–35** | **Bassein** and **Diu** under **Nuno da Cunha** |
+| **1632** | Shah Jahan destroys Portuguese **Hooghly** base |
+| **1961** | Goa liberated; Portuguese leave India |
+
 - A **cartaze** was a Portuguese sea-pass. Indian Ocean ships had to buy it. Refusal meant seizure of the ship.
 - **Hormuz** and **Malacca** were choke-points. The aim was control of sea lanes, not conquest of the Deccan interior.
-- In **1534** the Portuguese got leave from Bengal’s **Ghiyasuddin Mahmud Shah** to open factories at **Satgaon** and **Chatgaon (Chittagong)**. As Satgaon declined, **Hooghly** rose.
-- At **Hooghly** the Portuguese traded textiles, saltpetre and slaves, and used the port as a **piracy base** in the Bay of Bengal.
-- **Shah Jahan expelled them from Hooghly in 1632** (subdued under Bengal governor **Qasim Khan**). That ended the Bengal foothold.
-- In Bengal the European settlement identities are:
+- At **Hooghly** the Portuguese traded textiles, saltpetre and slaves, and used the port as a **piracy base** in the Bay of Bengal until **1632**.
+- They never ruled Delhi or Agra. Late holdings were **Goa, Daman and Diu**. Portuguese were first to arrive and last to leave (**1961**).
+- **St Francis Xavier** and Goan churches are a cultural fact. Papers still test **Goa = Portuguese**.
+- Portuguese travellers often tested: **Barbosa**, **Paes**, **Nuniz**. **Peter Mundy** was **British** under **Shah Jahan**, not Portuguese.
+
+### Bengal settlements by power
 
 | Settlement | Power | Note |
 |------------|-------|------|
-| **Hooghly / Bandel** | Portuguese | Piracy base till Shah Jahan crushed it in **1632** |
+| **Hooghly / Bandel** | Portuguese | Piracy base till **1632** |
 | **Chinsurah** | Dutch | **Fort Gustavus** from **1653** |
 | **Chandernagore** | French | Not Chinsurah |
 | **Serampore** | Danish | Also called Frederiksnagore |
 | **Calcutta** | English | Job Charnock / Sutanuti from **1690** |
-- They never ruled Delhi or Agra. By the later period the main Indian holdings were **Goa, Daman and Diu**.
-- Portuguese rule in India ended only in **1961** with the liberation of Goa — first to arrive, last to leave.
-- **St Francis Xavier** and Goan churches are a cultural fact. Papers still test **Goa = Portuguese**.
-- Portuguese travellers often tested with Barbosa, Paes and Nuniz. **Peter Mundy** was a **British** traveller under **Shah Jahan**, not Portuguese.
+
+### Why Portuguese power declined
 
 - Dutch and English navies broke the **cartaze** monopoly in the 17th century.
 - Manpower was small, so they could not garrison a vast Asian network.
@@ -181,26 +199,38 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 
 These were **crown** officers at Goa, not directors of a joint-stock company.
 
-- **Francisco de Almeida** was the first **Portuguese Viceroy (1505)**.
+### Governors / Viceroys timeline (early Estado da Índia)
+
+| Order | Person | Years | Office | Must-score tag |
+|------:|--------|-------|--------|----------------|
+| 1 | **Francisco de Almeida** | **1505–09** | First **Viceroy** | **Blue Water Policy**; Battle of **Diu 1509** |
+| 2 | **Afonso de Albuquerque** | **1509–15** | Governor | Real founder; **Goa 1510**; Malacca **1511**; Hormuz **1515** |
+| 3 | **Lopo Soares de Albergaria** | **1515–18** | Governor | Succeeded Albuquerque |
+| 4 | **Diogo Lopes de Sequeira** | **1518–22** | Governor | — |
+| 5 | **Duarte de Menezes** | **1522–24** | Governor | — |
+| 6 | **Vasco da Gama** | **1524** | Viceroy (second term in India) | Died at **Cochin 1524** |
+| 7 | **Henrique de Menezes** | **1524–26** | Governor | — |
+| — | **Pedro Mascarenhas** | **1526** | Brief / disputed succession | Not the main PSC name |
+| 8 | **Lopo Vaz de Sampaio** | **1526–29** | Governor | Immediate predecessor of Nuno |
+| 9 | **Nuno da Cunha** | **1529–38** | Governor | HQ **Cochin → Goa**; **Bassein 1534**; **Diu 1535** |
+
+**Not a governor:** **Pedro Álvares Cabral** reached India in **September 1500** and opened the early **Calicut factory** path. He belongs to the arrival card, not this timeline.
+
+### Teaching cards for the three PSC names
+
+- **Francisco de Almeida** was the first **Portuguese Viceroy (1505–09)**.
 - His **Blue Water Policy** meant control of **sea lanes**, not conquest of the Deccan interior. The Portuguese were to be the sole trade power in the Arabian Sea and the Indian Ocean.
 - He won the naval battle of **Diu in 1509** against an Egyptian–Gujarat fleet.
 - **Afonso de Albuquerque** was Governor **1509–15**.
 - He captured **Goa in 1510** from **Yusuf Adil Shah** and made it the capital of Estado da Índia.
 - He also strengthened **Malacca (1511)** and **Hormuz (1515)**.
 - He encouraged mixed marriages to hold the forts with a settled population. He is called the **real founder** of Portuguese power in India.
-- **Nuno da Cunha** governed later (**1529–38**), after **Lopo Vaz de Sampaio**.
+- **Nuno da Cunha** governed **1529–38**, after **Lopo Vaz de Sampaio**.
 - He secured **Bassein (1534)** and **Diu (1535)** from the Gujarat coast.
 - He also shifted the Portuguese headquarters from **Cochin to Goa**.
 - He pressed Portuguese power along the western seaboard after Albuquerque’s generation.
 
-| Person | Tag |
-|--------|-----|
-| **Almeida** | First Viceroy **1505**; Blue Water Policy; Diu **1509** |
-| **Albuquerque** | Real founder; Goa **1510**; Malacca **1511**; Hormuz **1515** |
-| **Cabral** | Arrival **Sept 1500**; early Calicut factory path |
-| **Nuno da Cunha** | **1529–38**; HQ Cochin → Goa; Bassein / Diu |
-
-> ** note:** First Viceroy = **Almeida (1505)**, not Albuquerque. Albuquerque is the consolidator who took **Goa**.
+> ** note:** First Viceroy = **Almeida (1505)**, not Albuquerque. Albuquerque is the consolidator who took **Goa**. Cabral is **1500 voyage**, not in the governor line.
 
 ---
 
@@ -231,29 +261,44 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 - The VOC could wage war, coin money and make treaties. Partners ran it as a private chartered group under state leave.
 - Its first Indian interest was **spices**, then **Coromandel and Bengal textiles**.
 - It later put more weight on **Indonesia** than on an Indian land empire.
-- The Dutch first factory in India is often placed at **Masulipatnam**. In Bengal the early phase used **Pipali**, then Balasore; proper Bengal trade centred on **Chinsurah from 1653**.
 
-| Factory | Region / year tag |
-|---------|-------------------|
-| **Masulipatnam** | Early Coromandel / Golconda textiles |
-| **Pulicat** | Coromandel HQ phase |
-| **Negapatam (Nagapattinam)** | Later Coromandel HQ after Pulicat declined |
-| **Surat** | Western Mughal port from **1616** |
-| **Bimlipatam** | **1641** |
-| **Karaikal** | **1645** (Dutch phase before later French identity) |
-| **Chinsurah** | Bengal from **1653**; fort **Gustavus** |
-| **Cochin (Kochi)** | Taken from Portuguese; Dutch **Fort Williams** in **1663**; passed to the British in **1814** |
-| **Sadras** | Dutch Coromandel pocket |
-| **Patna** | Dutch factory often dated **1632** (sources vary; some place a short-lived 1638 works) |
-| **Agra, Broach, Ahmedabad** | Inland / Gujarat network |
+### Dutch timeline in India
+
+| Year | Event |
+|------|-------|
+| **1602** | VOC founded; eastern HQ later at **Batavia** |
+| **c.1605** | Dutch begin Indian factory phase; early base often **Masulipatnam** |
+| **1616** | Factory at **Surat** |
+| **1627–c.1650s** | Bengal phase via **Pipali** / Balasore before Chinsurah rises |
+| **1632** | Factory at **Patna** (some sources also note a short-lived **1638** works) |
+| **1641** | Factory at **Bimlipatam** |
+| **1645** | Factory at **Karaikal** (Dutch phase; later French identity) |
+| **1653** | **Chinsurah** becomes the main Bengal base; fort **Gustavus** |
+| **1663** | Take **Cochin** from Portuguese; build Dutch **Fort Williams** |
+| **1741** | Defeat at **Colachel** by Travancore (**Marthanda Varma**) |
+| **1759** | Defeat at **Bedara / Chinsurah** by the English |
+| **1814** | **Cochin** passes into British settlements |
+
+### Dutch factories by region
+
+| Factory | Region | Year / tag |
+|---------|--------|------------|
+| **Masulipatnam** | Coromandel / Golconda | Early first-factory claim |
+| **Pulicat** | Coromandel | HQ phase after early coastal start |
+| **Negapatam (Nagapattinam)** | Coromandel | Later HQ after Pulicat declined |
+| **Surat** | West coast | **1616** |
+| **Bimlipatam** | Andhra coast | **1641** |
+| **Karaikal** | Tamil coast | **1645** (Dutch phase) |
+| **Chinsurah** | Bengal | **1653**; **Fort Gustavus** |
+| **Cochin (Kochi)** | Malabar | Dutch **1663–1814** |
+| **Sadras** | Coromandel | Dutch pocket |
+| **Patna** | Bihar | **1632** (sources vary) |
+| **Agra, Broach, Ahmedabad** | Inland / Gujarat | Trade network |
 
 - The Dutch broke the Portuguese monopoly in Ceylon, Malacca and the Spice Islands.
-- At the **Battle of Colachel (1741)**, Travancore under **Marthanda Varma** defeated the Dutch.
-- At the **Battle of Bedara** (also called Biderra or Chinsurah) in **1759**, the **English defeated the Dutch** in Bengal.
 - After Bedara the Dutch political challenge in Bengal collapsed.
-- Dutch trading centres also included Nagapattinam, Machilipatnam, Surat, Broach, Agra, Cochin, Ahmedabad and Patna — papers may ask “all of the above”.
 
-> ** note:Chinsurah = Dutch (Fort Gustavus)**, **Chandernagore = French**. VOC ≠ 1600. Kochi Dutch fort ≠ Calcutta’s Fort William.
+> ** note:** Chinsurah = Dutch (**Fort Gustavus**). Chandernagore = French. VOC ≠ **1600**. Kochi Dutch fort ≠ Calcutta’s Fort William.
 
 **PYQ — UPPCS Prelims 2022, Q64**
 
@@ -284,26 +329,51 @@ D. I, II, III, IV
 **Queen Elizabeth I** charter | **31 December 1600** | London merchants’ East Indies monopoly | Emperor in India then: **Akbar**
 
 - Before the EIC sea charter, the **Levant Company** received a **1592** charter for **land-route** trade with India. Do not call Levant the first sea East India Company.
-- **Ralph Fitch (1585–91)** visited **before** the EIC factory phase. He is the earliest name in the 2021 traveller list.
-- **William Hawkins** reached Jahangir’s court in **1608** on the *Hector*. He knew **Turkish**. He was an EIC captain, not James I’s ambassador.
-- Captain **Thomas Best** defeated the Portuguese at the **Battle of Swally (1612)** near Surat and broke Portuguese monopoly claims there.
-- The first English **temporary** factory was at **Masulipatnam in 1611**. The first **permanent** English factory followed at **Surat in 1613**.
-- In the first quarter of the 17th century English factories also rose at **Agra, Ahmedabad, Broach (Bharuch)** and related inland points. **Trichinopoly** and **Chicacole** were not English factory centres in that early phase.
-- **Nicholas Downton** belongs to **1614**. He appears in the 2021 traveller list.
-- **Sir Thomas Roe** was ambassador of **James I** to Jahangir in **1615–19**. He sought farmans, not conquest.
-- Dutch factory at Surat: **1616**. French factory at Surat: **1668**. English were first among those three at Surat.
-- **Francis Day** obtained the Madras grant in **1639** from a Vijayanagara representative. **Fort St George** followed in **1640**.
-- In eastern India the English opened an early factory path in **Orissa in 1633** (Hariharpur / Balasore belt).
-- **Bombay** came to Charles II in **1661–62** as the Portuguese dowry of **Catherine of Braganza**. The Crown **leased Bombay to the EIC in 1668** for about **£10** a year.
-- The early western Presidency sat at **Surat**, then shifted to Bombay.
-- **Job Charnock**, head of the Kasimbazar factory, chose **Sutanuti** over Hooghly and settled Calcutta in **1690**. The zamindari of the three villages followed in **1698**.
-- **Fort William** became the Bengal nucleus.
-- In **1688** English Governor of Bombay **Sir John Child** attacked Mughal shipping and tried to seize Mecca pilgrims. **Aurangzeb** ordered his expulsion from India and forced the Company to seek peace.
-- Company power stayed commercial through most of the 17th century.
-- Political empire in India came later, after the Carnatic Wars and the Bengal conquests.
-- Success factors often listed together: weak Indian nationalism in the modern sense, Western-trained Company armies with modern arms, and Indian soldiers who could be hired by whoever paid — papers sometimes key “all of the above”.
+- Company power stayed commercial through most of the 17th century. Political empire came later, after the Carnatic Wars and the Bengal conquests.
 
-> ** note:** Hawkins arrived **1608**, not 1611 (2023 Q31 stmt 1 is false). Roe is James I’s ambassador; Hawkins is an EIC captain. Permanent Surat = **1613**, not “Goa factory”.
+### English timeline in India
+
+| Year | Event |
+|------|-------|
+| **1592** | **Levant Company** land-route charter |
+| **31 Dec 1600** | EIC charter; **Akbar** still emperor |
+| **1608** | **William Hawkins** at Jahangir’s court (*Hector*; knew Turkish) |
+| **1611** | First English **temporary** factory at **Masulipatnam** |
+| **1612** | **Thomas Best** defeats Portuguese at **Swally** |
+| **1613** | First **permanent** English factory at **Surat** |
+| **1614** | **Nicholas Downton** |
+| **1615–19** | **Sir Thomas Roe**, ambassador of **James I** |
+| by **1619** | Factories also at **Agra, Ahmedabad, Broach** |
+| **1633** | Eastern factory path in **Orissa** (Hariharpur / Balasore) |
+| **1639–40** | **Francis Day** Madras grant; **Fort St George** |
+| **1661–62** | **Bombay** as Portuguese dowry of **Catherine of Braganza** |
+| **1668** | Crown leases Bombay to EIC for about **£10** a year; western Presidency later shifts from **Surat** to Bombay |
+| **1687–88** | First Municipal Corporation at **Madras** |
+| **1688** | **Sir John Child** expelled after attack on Mughal shipping / Mecca pilgrims |
+| **1690** | **Job Charnock** settles **Sutanuti** (Calcutta) |
+| **1698** | Zamindari of the three Calcutta villages |
+
+### Travellers / envoys order
+
+| Order | Person | Year | Tag |
+|------:|--------|------|-----|
+| 1 | **Ralph Fitch** | **1585–91** | Before EIC factory phase |
+| 2 | **William Hawkins** | **1608** | EIC captain; Turkish; not James I’s envoy |
+| 3 | **Nicholas Downton** | **1614** | Appears in 2021 traveller list |
+| 4 | **Sir Thomas Roe** | **1615–19** | James I’s ambassador |
+
+### Who first at Surat
+
+| Power | Surat factory |
+|-------|---------------|
+| **English** | **1613** (first among the three companies) |
+| **Dutch** | **1616** |
+| **French** | **1668** |
+
+- **Trichinopoly** and **Chicacole** were **not** English factory centres in the first quarter of the 17th century.
+- Success factors often listed together: weak Indian nationalism in the modern sense, Western-trained Company armies with modern arms, and Indian soldiers who could be hired by whoever paid.
+
+> ** note:** Hawkins arrived **1608**, not 1611. Roe is James I’s ambassador; Hawkins is an EIC captain. Permanent Surat = **1613**.
 
 **PYQ — UPPCS Prelims 2023, Q31**
 
@@ -356,23 +426,50 @@ D. III, II, IV and I
 Founded **1664** | **Louis XIV** and **Colbert** | Compagnie Française pour le Commerce des Indes Orientales | last of the five syllabus companies
 
 - The French company was created and financed by the **state**, not only by private merchants.
-- **François Caron** led an expedition in **1667** and founded the first French factory at **Surat in 1668**.
-- **Marcara**, a Persian companion of Caron, founded another French factory at **Masulipatnam in 1669** with leave from the Sultan of Golconda.
-- **François Martin** developed **Pondicherry in 1674**. It became the French headquarters in India.
-- Pondicherry occupation order: **Portuguese** first among Europeans, then **Dutch**, then **French** as the lasting HQ power. The **English** also occupied Pondicherry in **1793** and returned it to France in **1814** (Treaty of Paris settlement of the Napoleonic wars). Do not say “English never occupied Pondicherry”.
-- **Chandernagore** was the French settlement in Bengal.
-- **Karaikal** was French on the Tamil coast.
-- **Mahe** was French on the Malabar coast.
-- **Yanam** was French on the Andhra coast.
-- **Joseph François Dupleix** was Governor **1742–1754**.
-- He used Indian succession disputes to make up for weaker French trade.
-- For the first time he planted European-trained forces in Indian courts at Indian expense and interfered in princely quarrels for European gain. Clive later copied that method.
-- Anglo-French fighting in India followed the **War of Austrian Succession** and the **Seven Years’ War**.
-- Dupleix was **recalled in 1754**.
-- French political hopes ended after **Wandiwash 1760** and the **Treaty of Paris 1763**.
+
+### French timeline in India
+
+| Year | Event |
+|------|-------|
+| **1664** | Company founded by **Colbert** under **Louis XIV** |
+| **1667–68** | **François Caron** expedition; first French factory at **Surat (1668)** |
+| **1669** | **Marcara** founds factory at **Masulipatnam** (Golconda leave) |
+| **1674** | **François Martin** develops **Pondicherry**; becomes French HQ |
+| **1742–54** | **Dupleix** as Governor; proxy politics in Indian courts |
+| **1746–48** | First Carnatic War; French take Madras |
+| **1754** | Dupleix recalled; **Godeheu** seeks peace |
+| **1758–63** | Third Carnatic War under **Count de Lally** |
+| **1760** | Defeat at **Wandiwash** |
+| **1761** | **Pondicherry** falls after siege |
+| **1763** | **Treaty of Paris** — factories kept, empire lost |
+| **1793** | English occupy Pondicherry |
+| **1814** | Pondicherry returned to France |
+
+### French settlements
+
+| Settlement | Coast / region | Tag |
+|------------|----------------|-----|
+| **Surat** | West | First French factory **1668** |
+| **Masulipatnam** | Andhra / Golconda | **1669** (Marcara) |
+| **Pondicherry** | Coromandel | HQ from **1674** |
+| **Chandernagore** | Bengal | French Bengal base |
+| **Karaikal** | Tamil coast | French |
+| **Mahe** | Malabar | French |
+| **Yanam** | Andhra coast | French |
+
+### Pondicherry occupation order
+
+| Order | Power | Note |
+|------:|-------|------|
+| 1 | **Portuguese** | First Europeans to occupy |
+| 2 | **Dutch** | Second European occupation |
+| 3 | **French** | Lasting HQ power from **1674** |
+| — | **English** | Occupied **1793**; returned it **1814** |
+
+- **Dupleix** planted European-trained forces in Indian courts at Indian expense and interfered in princely quarrels for European gain. Clive later copied that method.
 - French failure vs English success: weaker navy, weaker home continuity after Dupleix’s recall, and no equal of Bengal’s wealth after **Plassey**.
 
-> ** note:** Pondicherry = **French HQ**, not Dutch and not Portuguese capital. French company ≠ 1600. First French factory = **Surat 1668**, not Pondicherry.
+> ** note:** Pondicherry = **French HQ**, not Dutch and not Portuguese capital. First French factory = **Surat 1668**, not Pondicherry. English **did** occupy Pondicherry.
 
 ---
 
@@ -380,14 +477,23 @@ Founded **1664** | **Louis XIV** and **Colbert** | Compagnie Française pour le 
 
 Minor player | papers ask **settlement identity**, not Danish politics
 
-- The Danish company was founded in **1616**.
-- **Tranquebar (Tharangambadi)** was founded in **1620**.
-- **Fort Dansborg** stood there on the Tamil Nadu Coromandel coast.
-- **Serampore (Frederiksnagore)** was the Danish settlement in Bengal.
-- Missions, a press and education grew there under Danish protection. **William Carey** and the Serampore mission circle are the usual bridge to education/press.
-- Denmark sold Tranquebar to the British in **1845**.
+### Danish timeline
 
-> ** note:Tranquebar = Danish**. Serampore is not French.
+| Year | Event |
+|------|-------|
+| **1616** | Danish East India Company founded |
+| **1620** | **Tranquebar (Tharangambadi)** founded; **Fort Dansborg** |
+| later | **Serampore (Frederiksnagore)** in Bengal; missions / press |
+| **1845** | Denmark sells Tranquebar to the British |
+
+### Danish settlements
+
+| Settlement | Region | Tag |
+|------------|--------|-----|
+| **Tranquebar** | Tamil Coromandel | **Fort Dansborg**; sold **1845** |
+| **Serampore** | Bengal | Frederiksnagore; **William Carey** mission circle |
+
+> ** note:** Tranquebar and Serampore are **Danish**, not French.
 
 ---
 
@@ -443,17 +549,23 @@ Minor player | papers ask **settlement identity**, not Danish politics
 - Early factories needed **local permission or a Mughal farman**.
 - The usual path was factory, then fortified town, then **Presidency headquarters**, then territorial administration.
 
+### Presidency timeline
+
+| Stage | Place | Year / tag |
+|-------|-------|------------|
+| Early western Presidency | **Surat** | After permanent factory **1613** |
+| Madras Presidency nucleus | **Fort St George** | Grant **1639**; fort **1640** |
+| Western shift | **Bombay** | Lease **1668** |
+| First Municipal Corporation | **Madras** | **1687–88** |
+| Bengal Presidency nucleus | **Calcutta / Fort William** | Settlement **1690**; villages **1698** |
+
 | Presidency | Nucleus |
 |------------|---------|
 | **Madras** | Fort St George |
-| **Bombay** | Western island base (from 1668) |
+| **Bombay** | Western island base (from **1668**; earlier HQ at Surat) |
 | **Bengal** | Calcutta / Fort William |
 
-- India’s **first Municipal Corporation** was at **Madras in 1687–88**.
-- The early **western Presidency** sat at **Surat**, then moved to Bombay after the island lease.
-- The Presidency system did **not** exist in 1600. It matured as settlements expanded.
-
-> ** note:** First Municipal Corporation = **Madras**, not Calcutta / Bombay / Delhi.
+> ** note:** First Municipal Corporation = **Madras**, not Calcutta / Bombay / Delhi. Western Presidency began at **Surat**, then moved to Bombay.
 
 **PYQ — UPPCS Prelims 2021, Q145**
 
@@ -507,11 +619,30 @@ D. Delhi
 - Hyderabad succession pulled both companies into the Deccan as well.
 - The wars decided **which company** would dominate Coromandel politics. They were not a fight for “Carnatic independence.”
 
+### War ladder
+
 | War | Years | European link | End marker |
 |-----|-------|---------------|------------|
 | **First** | 1746–48 | War of Austrian Succession | **Aix-la-Chapelle 1748** |
 | **Second** | 1749–54 | Local succession (Carnatic + Hyderabad) | **Dupleix recalled 1754** |
 | **Third** | 1758–63 | Seven Years’ War | **Wandiwash 1760 + Paris 1763** |
+
+### Event timeline across the three wars
+
+| Year | Event | War |
+|------|-------|-----|
+| **1746** | English seize French ships; French take **Madras** | First |
+| **1746** | **St Thome / Adyar** — French beat Nawabi army | First |
+| **1748** | **Aix-la-Chapelle**; Madras returned to English | First ends |
+| **1749** | **Ambur** — Anwaruddin killed; Chanda Sahib rises | Second opens |
+| **1751** | Clive holds **Arcot** | Second |
+| **1754** | **Dupleix** recalled | Second ends |
+| **1758–59** | Failed French siege of Madras | Third |
+| **22 Jan 1760** | **Wandiwash** — Coote defeats Lally | Third |
+| **1761** | Pondicherry falls | Third |
+| **1763** | **Treaty of Paris** | Third ends |
+
+### Persons
 
 | Person | Side | Role |
 |--------|------|------|
@@ -519,7 +650,7 @@ D. Delhi
 | **La Bourdonnais** | French | Navy; helped take Madras 1746 |
 | **Bussy** | French | Deccan / Hyderabad operator |
 | **Count de Lally** | French | Third War commander; lost Wandiwash |
-| **Anwaruddin Khan** | Carnatic Nawab | First War phase |
+| **Anwaruddin Khan** | Carnatic Nawab | First War phase; killed at Ambur 1749 |
 | **Chanda Sahib** | French client | Second War claimant |
 | **Muhammad Ali** | English client | Rival claimant; later Nawab with English support |
 | **Muzaffar Jung / Nasir Jung** | Hyderabad claimants | Drew both companies into Deccan |
