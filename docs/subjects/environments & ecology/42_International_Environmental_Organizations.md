@@ -604,6 +604,17 @@ Options: A. Gap=UNEP; HDR=UNDP; Red List=IUCN; LPR=WWF; IPCC≠UNFCCC; IUCN≠CI
 
 ---
 
+## 42.8 OPCW & UN-Habitat (bank add-ons)
+
+**Identity:** Chemical Weapons Convention | The Hague | Habitat Nairobi
+
+- **OPCW (Organisation for the Prohibition of Chemical Weapons)** implements the **Chemical Weapons Convention** (force **29 April 1997**); HQ **The Hague**, Netherlands. It verifies destruction/non-re-emergence of chemical weapons and assists states against chemical threats — **not** an EU/NATO/WHO body. Nobel Peace Prize **2013**.
+- **UN-Habitat** (UN Human Settlements Programme; HQ **Nairobi**, from **1978**) is mandated to promote socially and environmentally sustainable towns/cities and adequate shelter; partners include governments, local authorities, and non-state actors; contributes to poverty reduction and safe water/sanitation access. Partners are **not** governments-only.
+
+> **Logic:** OPCW ≠ EU organ. UN-Habitat partners ≠ governments only.
+
+---
+
 ## Delivery Report
 
 | Metric | Value |

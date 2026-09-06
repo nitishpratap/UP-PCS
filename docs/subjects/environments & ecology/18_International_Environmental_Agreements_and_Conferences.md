@@ -81,6 +81,7 @@
 - Montreal was **signed in September 1987**; papers that say “enforcement” mean **January 1989**.
 - The **Rio Earth Summit (1992)** or **UNCED** produced the **Rio Declaration**, opened **UNFCCC** and **CBD** for signature, and adopted **Agenda 21**.
 - **Agenda 21** is a non-binding action plan for **sustainable development in the 21st century** — adopted at **Rio 1992**, not 1995.
+- Agenda 21 is a large multi-chapter blueprint (about **40 chapters** in **4 sections** / groupings) — bank stems sometimes say “4 agreements.”
 - **Local Agenda 21** encourages cities and local bodies to prepare their own SD plans.
 - The **Commission on Sustainable Development (CSD)** was created to monitor Earth Summit implementation.
 - **Earth Summit +5** was the UN General Assembly special session held in **New York in June 1997** to review Rio progress.

@@ -226,8 +226,10 @@ D. Only 1
 - WWF has used the **Giant Panda (*Ailuropoda melanoleuca*)** as its logo since **1961**.
 - The first International Tiger Forum / World Tiger Summit (**2010**) was held at **Saint Petersburg**, Russia.
 - Captive breeding centres operate at Nandankanan, Hyderabad, Chennai, Lucknow, and Trivandrum.
+- **Ganges River Dolphin** (*Platanista gangetica*) is India’s **National Aquatic Animal (notified 2009)** — one of four obligate freshwater dolphins; Ganga–Brahmaputra–Meghna systems. Decline drivers: dams/barrages, fishing nets, agrochemicals — not mainly rising crocodile numbers. UP also uses a state aquatic-animal / Meri Ganga Meri Dolphin awareness framing.
+- IUCN teaching: gharial often **Critically Endangered**; mugger/saltwater crocodile commonly **Vulnerable** in bank notes.
 
-> ** note:** The crocodile project covers **three species**, not gharial alone.
+> **Logic:** The crocodile project covers **three species**, not gharial alone. National aquatic animal = **dolphin**, not gharial.
 
 ---
 
