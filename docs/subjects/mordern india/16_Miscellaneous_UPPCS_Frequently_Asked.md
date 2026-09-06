@@ -424,6 +424,8 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 
 ## 16.13 Chronology spine (1757–1947)
 
+> **Full year-wise home:** [Chronology — Year-Wise Major Events](00_Chronology_Year_Wise_Events.md) (first in Modern India nav). This table is only a vault shortcut.
+
 | Year | Event |
 |------|--------|
 | 1757 | Plassey |

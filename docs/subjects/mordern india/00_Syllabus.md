@@ -2,6 +2,23 @@
 
 **Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/03_Modern_India.md)
 
+**Start here for arrange-order:** [Chronology — Year-Wise Major Events](00_Chronology_Year_Wise_Events.md)
+
+---
+
+# Chronology — Year-Wise Major Events (first)
+
+- European arrival and Company foundation years
+- Carnatic / Mysore / Maratha / Sikh / Afghan / Burma war ladders
+- Constitutional Acts ladder (1773–1947)
+- Socio-religious and peasant–tribal date anchors
+- 1857 to Crown and early organisations
+- Nationalism: INC, Swadeshi, League, Surat, Home Rule
+- Gandhian satyagrahas and mass movements order
+- Missions and transfer of power (Simon to 15 August 1947)
+- UP-facing chronology (Banaras, Allahabad Proclamation, Chauri Chaura, Kakori)
+- Arrange-the-events practice sets
+
 ---
 
 # 1. Advent of Europeans
@@ -401,4 +418,5 @@
 - Awadh Kisan Sabha
 - Bardoli Satyagraha
 
-> **Homes (Aug 2026 pass):** British Acts teaching cards live in Topic 3 (GG & Viceroys). Expansion wars / Subsidiary / Lapse / frontiers live in Topic 2. Vault match-tables live in Topic 16. Do not treat PYQs as the syllabus ceiling.
+> **Homes (Sep 2026 pass):** **Chronology** is the first teaching page (year / arrange-order home). British Acts teaching cards live in Topic 3 (GG & Viceroys). Expansion wars / Subsidiary / Lapse / frontiers live in Topic 2. Vault match-tables live in Topic 16. Do not treat PYQs as the syllabus ceiling.
+
