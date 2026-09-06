@@ -8,9 +8,9 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 
 </details>
 
-> **Sources baked in:** NCERT Themes III, Bipan Chandra, Naoroji, R.C. Dutt, Spectrum, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Themes III, Bipan Chandra, Naoroji, R.C. Dutt, Spectrum, Ghatnachakra economy bank, UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — land-revenue matching, Drain book year, Cornwallis/Munro/Mackenzie, judiciary/police ladder, ICS dates, railway guarantee, famine years, infrastructure dates
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -18,14 +18,14 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 ## Consolidated — 26 Must-Score Facts
 
 1. Colonial economic policy moved through three phases: **mercantilism (Plassey–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** with railway guarantees and Home Charges.
-2. The **Permanent Settlement (1793)** under **Cornwallis** made the **zamindar** proprietor in **Bengal, Bihar and Orissa**. Madras was **not** under this settlement.
-3. **Ryotwari** settled revenue with the **ryot** in **Madras and Bombay** (**Munro and Read**). **Mahalwari (1822)** under **Holt Mackenzie** settled with the **village / mahal** in the North-Western Provinces and Punjab.
+2. The **Permanent Settlement (1793)** under **Cornwallis** made the **zamindar** proprietor in **Bengal, Bihar, Orissa and Varanasi**. Also called **Istamrari**. About **19%** of British India. Share often remembered as **10/11** to the Company.
+3. **Ryotwari** (~**51%**) settled revenue with the **ryot** in **Madras and Bombay** (**Munro and Read / Baramahal**). **Mahalwari** (~**30%**, **1822**) under **Holt Mackenzie** settled with the **village / mahal** in UP / NWP, Central Provinces and Punjab.
 4. Different land systems in different regions created different peasant classes — a standard multi-statement fact.
 5. The **Cornwallis Code (1793)** built the civil ladder **Munsiff → Registrar → District (Diwani) Judge → Provincial Courts of Appeal → Sadar Diwani Adalat**. The same District Judge sat as Magistrate; criminal appeals rose to **Sadar Nizamat Adalat**.
 6. In **1793** the zamindar’s police role was abolished. The **thana–daroga** system was placed under the **District Magistrate**.
 7. **Haileybury College (1806)** trained Company nominees in England. The **Charter Act, 1853** opened competition; the **Macaulay Committee (1854)** followed. First Indian ICS was **Satyendranath Tagore (1863)**. Simultaneous in India began in **1922**.
 8. **Fort William College (1800)** was Wellesley’s Calcutta language college for civil servants. Do **not** confuse it with Haileybury.
-9. **Dadabhai Naoroji** published *Poverty and Un-British Rule in India* in **1901** (not 1900). **Drain of Wealth** is transfer of Indian wealth to Britain; **deindustrialization** is the decline of Indian handicrafts.
+9. **Dadabhai Naoroji** published *Poverty and Un-British Rule in India* in **1901** (not 1900). He called Drain the **“evil of all evils.”** First Indian in the British Commons (**1892**, Liberal). **Sir Syed** rejected Drain Theory. INC **Calcutta 1896** accepted it. **Drain** ≠ **deindustrialization**.
 10. **R.C. Dutt** wrote the *Economic History of India*. Keep him beside Naoroji as the other classic Drain critic, not as the 1901 book author.
 11. The railway **Guarantee System** promised about a **5%** return on British capital from Indian revenues (renegotiated **1869**). The **Managing Agency System** let British firms run jute, coal and tea companies on largely Indian-raised capital.
 12. First passenger railway: **Bombay–Thane, 1853** (Dalhousie). Telegraph experiment: **1851**, **O’Shaughnessy**. Company post starts **1774** (Hastings); uniform penny postage **1854** (Dalhousie).
@@ -36,7 +36,7 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 17. Ripon’s **1882 Resolution** only asked for elected local boards. It is **not** the same as the **1919** transfer of local self-government to Indian ministers.
 18. The **Charter Act, 1833** only carried the spirit of open ICS competition. Actual opening came with the **Charter Act, 1853** — a classic swap trap.
 19. Under free-trade years after **1813**, Manchester cloth entered freely while Indian crafts stayed unprotected. “Free trade” freed British goods, not Indian industry.
-20. **Home Charges**, guaranteed railway interest and managing-agency profits were core channels of the later Drain phase after **1858**.
+20. **Home Charges** = India Office, pensions, debt interest, store purchases in England — **not** costs of wars outside India. **Imperial Preference** = concessions to British imports in India. Guaranteed railway interest and managing-agency profits were other Drain channels after **1858**.
 21. Commercialization of agriculture pushed cash crops for export and left peasants more exposed to price swings and famine — the economic backdrop to indigo and Deccan unrest.
 22. Deindustrialization meant Indian weavers and artisans lost home markets to British machine goods, while India was pushed toward raw-material export.
 23. In the Cornwallis judiciary, the **Munsiff’s Court** handled small civil claims with an Indian officer. The **Sadar Diwani Adalat** at Calcutta was the final civil court.
@@ -55,6 +55,10 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 | Cornwallis | Munro | Permanent Settlement vs Ryotwari | कॉर्नवालिस / मुनरो |
 | Munro | Mackenzie | Ryotwari vs Mahalwari (1822) | मुनरो / मैकेंज़ी |
 | Drain of Wealth | Deindustrialization | Transfer of Indian wealth to Britain vs decline of Indian handicrafts | धन निष्कासन / विऔद्योगीकरण |
+| Home Charges | Overseas war costs | London-side charges on Indian revenue vs wars outside India (not Home Charges) | होम चार्जेस / विदेशी युद्ध |
+| Imperial Preference | Racial privilege only | Concessions on British imports in India vs a vague “race” label | इंपीरियल प्रेफरेंस |
+| Naoroji | Sir Syed Ahmad Khan | Drain Theory vs rejection of Drain / loyalty to British rule | नौरोजि / सर सैयद |
+| Permanent Settlement ~19% | Ryotwari ~51% | Zamindar Bengal belt vs direct ryot south/west | 19% / 51% |
 | Ripon 1882 | Mayo 1870 | Local self-government resolution vs financial decentralisation | रिपन / मेयो |
 | Hastings post 1774 | Dalhousie post 1854 | Start of Company postal system vs cheap uniform postage | हेस्टिंग्स / डलहौज़ी |
 | Naoroji 1901 | Wood 1854 | Drain book vs education despatch | नौरोजि / वुड |
@@ -206,10 +210,15 @@ D. Delhi
 
 - Every phase in the 4.0 table turned India into a **supplier of raw material** and a **market for British manufactures**. Only the financial tool changed.
 - **Land revenue** stayed the Company's main Indian income throughout, funding wars, administration and — after 1858 — railway guarantees.
-- **Home Charges** — India Office costs, pensions, guaranteed railway interest, debt service — are the clearest single channel of the finance-capital phase. The Drain card below carries the full theory.
-- Railways and the post served **troops, trade and control first**. Civilian benefit came later and was never the stated first aim.
+- **Home Charges** were expenditure incurred in **England** by the **Secretary of State for India** on India's behalf. They included India Office establishment costs, interest on public debt raised abroad, interest linked to railway capital, store purchases in England, pensions and gratuities of retired civil and military officers, and other non-effective army charges paid in Britain from Indian revenues.
+- Funds used for **waging wars outside India** were **not** counted as Home Charges — a standard multi-statement trap.
+- **Imperial Preference** meant special concessions for **British imports into India** (often near-nil or very low duty) while **Indian exports paid high duties in Britain**.
+- Interest and profit on **private foreign capital**, plus payments for banking, insurance and shipping services, were further leakages from India's national income.
+- A strong preference among the rich to invest in **land** rather than industry kept industrial capital thin — one reason for the lack of independent industrial development under colonial rule.
+- In the mid-eighteenth century the Company's staple Bengal exports for Europe included **cotton, silk, saltpetre and opium**.
+- Roughly **40%** of central revenue in British India went to the **military** — a common one-liner.
 
-> ** note:** Do not treat railways or postage as proof that British rule was mainly a welfare project.
+> **Logic:** Home Charges = London-side charges on Indian revenue. Imperial Preference = privilege for British goods in India. Land-preference of the rich ≠ “no natural resources.”
 
 ---
 
@@ -220,15 +229,19 @@ The British did **not** use one land system for all of India. Different regions 
 | Feature | Permanent Settlement | Ryotwari | Mahalwari |
 |---------|----------------------|----------|-----------|
 | Year | **1793** | 1820s (trials from 1790s) | **1822** report |
-| Region | **Bengal, Bihar, Orissa** | **Madras, Bombay**, parts of Assam | **NWP / Punjab / parts of Central India** (UP-relevant) |
-| Architect | **Cornwallis** | **Munro**, **Read** (Baramahal) | **Holt Mackenzie** (Bentinck extended) |
+| Region | **Bengal, Bihar, Orissa, Varanasi (UP)** etc. | **Madras, Bombay**, E. Bengal, Assam, Coorg | **UP / NWP, Central Provinces, Punjab** |
+| Share of British India (approx.) | **~19%** | **~51%** | **~30%** |
+| Architect | **Cornwallis** (Shore helped shape) | **Munro**, **Alexander Read** (Baramahal) | **Holt Mackenzie** (Bentinck extended) |
 | Payer | **Zamindar** | **Ryot** (cultivator) | Village / **mahal** (often via **lambardar**) |
-| Rights | Zamindar = proprietor | Ryot = **occupant**; state owns land | Collective village responsibility |
-| Revision | **Fixed / permanent** | Periodic **20–30 yrs** | Periodic **20–30 yrs** |
+| Rights | Zamindar = proprietor | Ryot = owner/occupant; pays government direct | Collective village responsibility |
+| Revision | **Fixed / permanent** | Periodic; demand high and strict | Periodic **20–30 yrs** |
+| Other names | **Istamrari / Ist-e-Marari**, Jagirdari, Malgujari, Bishvedari | — | — |
 
 - All three systems were meant to give the state a **steady cash surplus**, not to protect the peasant.
 - Demand was often high and rigid. Default led to debt, sale of land, and higher famine risk.
+- Different systems in different regions created **different peasant classes** — a standard A/R fact.
 
+---
 **PYQ — UPPCS Prelims 2020, Q30Assertion (A):** The British Government introduced different land revenue system in different part of India.
 
 **Reason (R):** It led to create different classes in Indian peasantry.
@@ -250,16 +263,19 @@ D. (A) is false but (R) is true
 
 ## 4.8 Permanent Settlement, 1793
 
-- Introduced by **Lord Cornwallis** in **1793** in **Bengal, Bihar and Orissa**. It was **not** applied to all of India.
-- The **zamindar** was recognised as **proprietor**. He paid a **fixed** yearly sum to the Company.
-- The actual cultivator became a **tenant**, not the owner of the soil.
-- Failed farming contracts and **decennial** (ten-year) experiments came before the permanent fix.
+- Introduced by **Lord Cornwallis** in **1793** in **Bengal, Bihar and Orissa**, and also in **Varanasi (UP)**. About **19%** of British India came under it.
+- It is also called **Istamrari / Ist-e-Marari**, and sometimes tagged Jagirdari, Malgujari or Bishvedari in older usage.
+- Failed farming contracts and **decennial** (ten-year) experiments came before the permanent fix of **1793**.
+- The **zamindar** was recognised as **proprietor** with hereditary and transferable rights. He paid a **fixed** yearly sum to the Company — commonly remembered as **10/11** of the collection to the state and **1/11** kept by the zamindar.
+- The actual cultivator became a **tenant**, not the owner of the soil. Zamindars were to issue **pattas** to farmers, but many never did because there was **no official check** on them.
 - Under the **Sunset Law**, if the zamindar did not pay by sunset on the due day, the estate could be sold at auction. Many buyers were urban absentees.
-- Because the state's demand was frozen, the Company could **not** raise it when production later grew.
-- **2025 Q40** matches Cornwallis with the Permanent Settlement of Bengal.
+- Making the zamindar stronger against the ryot, plus more intermediaries, fed **increased litigation** after 1793 — a classic UPSC angle.
+- Because the state's demand was frozen, the Company could **not** raise it when production later grew. Zamindars, however, often raised rents on tenants.
+- Peasant pressure later produced the **Bengal Tenancy Act, 1885**, which defined landlord and tenant rights in Bengal and Bihar.
 
-> ** note:** Not Wellesley. Cultivators did **not** become owners.
+> **Logic:** Permanent Settlement = **Cornwallis, 1793**, with zamindars — not Wellesley, not Munro. Cultivators did **not** become owners.
 
+---
 **PYQ — UPPCS Prelims 2025, Q40**
 
 Match List-I with List-II:
@@ -286,42 +302,47 @@ D. 4 3 2 1
 
 ## 4.9 Ryotwari System
 
-- **Alexander Read** first tried it in **Baramahal**. **Thomas Munro** expanded it as Governor of Madras. **Elphinstone** used it in Bombay.
-- The state settled **directly with the cultivator (ryot)**. There was no Bengal-style zamindar in between.
-- The ryot was an **occupant**, not a full freehold owner. Ultimate ownership stayed with the state.
-- Revenue was **revised every 20–30 years**, so the state could raise demand.
-- Higher cash demand pushed peasants into **cash crops** and into the hands of **moneylenders**.
+- **Alexander Read** (Reed) first tried it in **Baramahal** (Tamil country) after the 1790s acquisitions. **Thomas Munro** expanded it as Governor of Madras (**1820–27**) and said Ryotwari was “a system which has always prevailed in India.” **Elphinstone** carried a similar direct settlement into parts of **Bombay**.
+- It spread across the **Madras** Presidency and parts of **Bombay**, plus pockets of **eastern Bengal, Assam and Coorg**. About **51%** of British India came under it.
+- The state settled **directly with the cultivator (ryot)**. There was no Bengal-style zamindar in between. The government surveyed and assessed fields and issued **pattas**.
+- The ryot was treated as the landholder responsible for revenue. Tax rates were **high** and collection was **strict**; remission in bad harvests was not a standing right.
+- Revenue was **revised periodically**, so the state could raise demand. Cash pressure pushed peasants toward **moneylenders** and cash crops.
+- In the south, older village elites such as **mirasidars** often became the designated revenue payers under this system.
 
-> ** note:** Munro is Ryotwari, not Permanent Settlement. The ryot was not a freehold owner.
+> **Logic:** Munro + Read = Ryotwari. Cornwallis = Permanent Settlement. Peasants were **not** exempt from revenue in every bad year as a fixed rule.
 
 ---
 
 ## 4.10 Mahalwari System
 
-- Shaped by **Holt Mackenzie's report of 1822** in the **North-Western Provinces**. **Bentinck** later extended the idea.
-- The unit was the **village or mahal**, not a single field and not a Bengal zamindar.
+- Shaped by **Holt Mackenzie's report of 1822** for the **North-Western Provinces** (then under the wider Bengal Presidency administration, which is why some stems say “Bengal”). **Bentinck** later extended the idea. About **30%** of British India came under it.
+- The unit was the **village or mahal**. Village land was treated as belonging to the village community, which was **jointly responsible** for the revenue.
 - A **lambardar** often collected the village's share.
 - Demand was **revised periodically**. It was **not** a second Permanent Settlement.
-- This is the land-revenue background of much of later **Uttar Pradesh**.
+- Main zones: **UP / NWP, Central Provinces and Punjab** (with local variations). This is the land-revenue background of much of later **Uttar Pradesh**.
+- The **Punjab Land Alienation Act, 1900** later restricted land transfer from agricultural to non-agricultural classes — a separate Punjab agrarian fact often asked beside Mahalwari geography.
 
-> ** note:** Mackenzie is Mahalwari, not Ryotwari.
+> **Logic:** Mackenzie = Mahalwari, not Ryotwari. Do not place Mahalwari as the main system of Bengal (that is Permanent Settlement).
 
 ---
 
 ## 4.11 Drain of Wealth Theory
 
-- Drain means Indian resources were transferred to Britain **without an equal return**.
-- **Home Charges** were a main channel: India Office costs, pensions, and debt interest paid in Britain from Indian revenues.
-- Civil and military salaries spent or saved in England were another channel.
-- **Unrequited exports** meant goods left India without matching imports coming back.
-- **Dadabhai Naoroji** wrote *Poverty and Un-British Rule in India*, published in **1901** (**2021 Q139** — not 1900).
-- **R.C. Dutt** wrote *The Economic History of India* as a critique of colonial exploitation.
-- **Bipan Chandra** wrote *The Rise and Growth of Economic Nationalism in India* (**2019 Q97**).
-- M.G. Ranade and G.V. Joshi also belong to this economic-nationalist stream.
-- Early nationalists attacked **"Un-British rule"** (the Drain), not always the Empire itself. **2024 Q135:** both statements are true, but **R does not explain A**.
+- Drain means Indian resources were transferred to Britain **without an equal return**. Dadabhai Naoroji called it the **“evil of all evils”** and the main cause of Indian poverty.
+- **Before 1813**, the Company built a recurring surplus from oppressive land revenue, monopolistic trade profits and official exactions, then used that surplus as an **“investment”** to buy export goods. Against those exports India received **nothing** equivalent. The Charter Act of **1813** ended that old monopoly-investment pattern.
+- **From 1813**, the Drain took the form of **unrequited exports**. A favourable balance of trade for India often still meant wealth leaving without matching return.
+- **Home Charges** were a main later channel: India Office costs, pensions, debt interest, and store purchases paid in Britain from Indian revenues. Wars fought **outside** India were **not** Home Charges.
+- **Dadabhai Naoroji** was the first and chief propounder. Key writings include *England’s Duties to India*, *The Wants and Means of India*, *On the Commerce of India*, and *Poverty and Un-British Rule in India* (**1901**, not 1900).
+- With **W. C. Bonnerjee** he helped found the **London Indian Society (1865)** to publicise Indian grievances. In **1892** he became the **first Indian elected to the British House of Commons** (Liberal Party ticket).
+- **R. C. Dutt** (*Economic History of India*) stressed the same Drain and argued that a huge share of India’s annual product — often remembered in coaching notes as about **half** — was flowing out every year.
+- Other economic critics of colonialism include **G. Subramania Iyer**, **M. G. Ranade**, **G. V. Joshi** and **Gokhale**. **Sir Syed Ahmad Khan** did **not** accept the Drain Theory; he believed Muslim advance lay under British rule.
+- The **Indian National Congress at Calcutta in 1896** accepted the Drain Theory and linked Drain to famines and mass poverty.
+- **Bipan Chandra** later wrote *The Rise and Growth of Economic Nationalism in India* (**2019 Q97**).
+- Early nationalists attacked **"Un-British rule"** (the Drain), not always the Empire itself.
 
-> ** note:** Year trap = **1901**, not 1900. Drain ≠ Gandhi's invention. Drain ≠ deindustrialization.
+> **Logic:** Year trap for Naoroji’s book = **1901**. Drain ≠ deindustrialization. Syed Ahmad ≠ Drain critic. Home Charges ≠ overseas war costs.
 
+---
 **PYQ — UPPCS Prelims 2021, Q139**
 
 In which year the book 'Poverty and Un-British Rule in India' was published?
@@ -383,12 +404,12 @@ D. (A) is true, but (R) is false
 
 ## 4.12 Commercialization of Agriculture
 
-- Peasants were pushed from food-for-the-family towards **cash crops** for the market: indigo, cotton, jute, opium, tea and sugarcane.
-- Land revenue had to be paid in **cash**, so even a bad harvest forced sales.
-- Railways and ports carried crops out to Bombay, Calcutta and Madras.
-- Credit came from **moneylenders**. Default often meant loss of land.
-- When food crops were displaced, **famine** risk rose. Commercialization did **not** mean peasant prosperity.
-- The **Indigo Revolt of 1859–60** in Bengal was against forced indigo. That date is the fact in **2025 Q127**. The plantation-economy card below carries the indigo mechanism.
+- Under British rule, especially in the nineteenth century, agriculture was pushed toward **cash crops for export** — indigo, cotton, jute, opium, tea and sugarcane — rather than only subsistence food grains.
+- Land revenue had to be paid in **cash**, so even a bad harvest forced sales. Railways and ports carried crops out to Bombay, Calcutta and Madras.
+- Credit came from **moneylenders**. Default often meant loss of land. When food crops were displaced, **famine** risk rose. Commercialization did **not** mean peasant prosperity.
+- One of the clearest economic results of nineteenth-century British rule was this commercialization — **not** a boom in Indian-owned factories or a rapid rise in urban population.
+- **Sir Arthur Cotton** is remembered as the pioneer of large **irrigation works in South India**, linked to commercial agriculture and famine-control debates in the Madras Presidency.
+- The **Indigo Revolt of 1859–60** in Bengal was against forced indigo. The plantation-economy card below carries the indigo mechanism.
 
 **PYQ — UPPCS Prelims 2025, Q127**
 
@@ -409,6 +430,8 @@ D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Awadh annexation → Indigo Revolt → Second Afghan → Ilbert.
 
 **Ans: A** — Awadh **1856** → Indigo **1859** → Afghan **1878** → Ilbert **1883**.
 
@@ -436,15 +459,32 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 ## 4.14 Deindustrialization
 
 - Indian **handloom, metal-work and other crafts** declined under one-way free trade.
-- Cheap **Manchester** cloth undercut Indian weavers. India exported **raw cotton** and imported finished cloth — the reverse of the older pattern.
+- The process is commonly dated from **1813**, when the Company’s India trade monopoly ended and British manufactures flooded in more freely. The **Charter Act of 1833**, ending the Company as a trading body, aggravated the process.
+- Cheap **Manchester** cloth undercut Indian weavers. High tariffs in Britain blocked Indian finished goods. India exported **raw cotton** and imported finished cloth — the reverse of the older pattern.
 - After conquest, courts and nobles no longer bought on the old scale, so artisans lost patrons.
 - Many weavers were pushed into agriculture. That overcrowded the countryside. Bentinck's remark on weavers' bones is the usual quote.
+- **Karl Marx** also criticised British economic policy in India as destructive of old industry and village structures.
 - Modern factories came **late** and stayed thin. The nineteenth-century story is craft **decline**, not "Britain industrialised India."
 
-> ** note:** Deindustrialization is **not** the same thing as Drain of Wealth.
+> **Logic:** Deindustrialization ≠ Drain of Wealth. Start marker often asked = **1813**.
 
 ---
 
+## 4.14A Useful colonial economy terms (match bait)
+
+| Term | Meaning |
+|------|---------|
+| **Aurang** | Persian for a **warehouse** / place where goods are collected before sale — **not** “treasury officer” |
+| **Banian** | Indian commercial **agent** of the East India Company |
+| **Mirasidar** | South Indian village elite / designated **revenue payer** under Ryotwari-era arrangements |
+| **Jajmani** | Traditional service–patron system of **North India** |
+| **Bara Balute** | Traditional village service system of **Maharashtra** |
+| **Mirasi** | Associated with **Tamil Nadu** land/service rights |
+| **Adade** | Associated with **Karnataka** in the standard match set |
+
+> **Logic:** Aurang ≠ treasury in-charge. Banian ≠ Mirasidar. Keep the regional service-system match (Jajmani–North; Bara Balute–Maharashtra; Mirasi–Tamil Nadu; Adade–Karnataka).
+
+---
 ## 4.15 Railways and the Guarantee System
 
 - The first passenger line ran from **Bombay to Thane in 1853**, built by the **Great Indian Peninsula Railway**. It was **not** opened in 1857.
@@ -546,9 +586,9 @@ This section only joins the results. The mechanisms are already taught above.
 
 | System | Year | Architect | Region | Payer |
 |--------|------|-----------|--------|-------|
-| Permanent Settlement | 1793 | Cornwallis | Bengal, Bihar, Orissa | Zamindar |
-| Ryotwari | 1820s (Baramahal trial from the 1790s) | Munro / Read | Madras, Bombay | Ryot |
-| Mahalwari | 1822 | Holt Mackenzie | NWP, Punjab | Village / mahal |
+| Permanent Settlement | 1793 | Cornwallis | Bengal, Bihar, Orissa, Varanasi (~19%) | Zamindar (Istamrari) |
+| Ryotwari | 1820s (Baramahal trial from the 1790s) | Munro / Read | Madras, Bombay (~51%) | Ryot |
+| Mahalwari | 1822 | Holt Mackenzie | NWP/UP, CP, Punjab (~30%) | Village / mahal |
 
 ### Judiciary and police ↔ level (Cornwallis Code, 1793)
 
@@ -1223,12 +1263,12 @@ D. Gopal Krishna Gokhale
 
 **Q30.** With reference to Home Charges, which of the following statements is/are correct?
 
-1. They were Indian revenues spent in Britain (pensions, India Office, debt interest).
-2. Nationalists treated them as a major Drain item.
+1. Funds used to support the India Office in London and to pay pensions of British personnel engaged in India formed part of Home Charges.
+2. Funds used for waging wars outside India by the British formed part of Home Charges.
 
-A. Only 1
+A. 1 only
 
-B. Only 2
+B. 2 only
 
 C. Both 1 and 2
 
@@ -1236,6 +1276,50 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Home Charges = London-side India Office, pensions, debt, stores. Overseas war costs are the classic distractor.
+
+**Ans: A** — Statement 2 is false.
+
+</details>
+
+---
+
+**Q30A.** The term “Imperial Preference” was applied to:
+
+A. Racial discrimination by the Britishers
+
+B. Special privileges on British imports in India
+
+C. Preference given to British political agents over Indian princes
+
+D. Subordination of Indian interest only as a political slogan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Near-nil / low duty on British goods entering India; Indian exports faced high duty in Britain.
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q30B.** Who introduced the Ist-e-Marari / Istamrari settlement?
+
+A. Wellesley
+
+B. Warren Hastings
+
+C. Lord Cornwallis
+
+D. Lord Dufferin
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Istamrari is another name for the Permanent Settlement of **1793**.
 
 **Ans: C**
 
@@ -2026,8 +2110,8 @@ D. Bipin Chandra
 3. **Naoroji book = 1900** → **1901**.
 4. **First railway = 1857** → **1853 Bombay–Thane**.
 5. **Penny postage = Hastings 1774** → Hastings started post; **Dalhousie 1854** unified cheap postage.
-6. **Permanent Settlement = all India** → Bengal, Bihar, Orissa.
-7. **Ryot = full owner** → **occupant**; state owns land.
+6. **Permanent Settlement = all India** → Bengal, Bihar, Orissa, Varanasi belt; ~**19%**.
+7. **Ryot = full owner** → pays government directly; demand stayed high and strict.
 8. **Ripon created first municipal corporation** → **Madras 1688**.
 9. **Drain = deindustrialization** → transfer vs craft decline.
 10. **Railways = Indian welfare only** → troops, trade, guarantee profits.
@@ -2050,3 +2134,10 @@ D. Bipin Chandra
 27. **1876–78 famine relief was generous** → **Lytton's laissez-faire** kept it deliberately meagre.
 28. **Famine Codes were followed in 1943** → largely **ignored**; the **Woodhead Commission** followed in 1945.
 29. **Mercantilism = free trade** → mercantilism is a **trade monopoly** (to 1813); free trade begins only after.
+30. **Home Charges include overseas wars** → **no**; India Office, pensions, debt, stores in England.
+31. **Imperial Preference = racial discrimination only** → duty privilege for **British imports in India**.
+32. **Sir Syed accepted Drain Theory** → he **rejected** it.
+33. **Aurang = treasury officer** → **warehouse**.
+34. **Mahalwari = main system of Bengal** → Bengal = Permanent Settlement; Mahalwari = UP/NWP–Punjab (~**30%**).
+35. **Deindustrialization begins only after 1857** → commonly dated from **1813**.
+36. **Naoroji never entered British Parliament** → first Indian in Commons **1892** (Liberal Party).
