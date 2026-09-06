@@ -22,8 +22,8 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 3. The **Government of India Act, 1858** ended Company rule. The same man became **Viceroy**; first Viceroy was **Lord Canning**. Last Viceroy was **Mountbatten**; last GG of India (Dominion) was **C. Rajagopalachari (1948–50)**.
 4. Under **Pitt’s India Act, 1784**, the **Board of Control** handled political affairs and the **Court of Directors** handled commercial affairs.
 5. The **Charter Act, 1813** ended the Company’s trade monopoly in India (kept tea/China) and set aside **₹1 lakh a year** for education. The **Charter Act, 1853** implemented **open competition** for the civil service.
-6. The **Indian Councils Act, 1861** gave legal recognition to the **portfolio system**. The **1909** Act (Morley–Minto) began **Muslim separate electorates**.
-7. The **Government of India Act, 1919** introduced **dyarchy in the provinces**, a bicameral centre, and the **Chamber of Princes**. The **1935** Act introduced **provincial autonomy**; the proposed federation **never operated**.
+6. The **Indian Councils Act, 1861** legalised the **portfolio system** and began Indian **nomination**. The **1892** Act added budget discussion and **indirect election**. The **1909** Act (Morley–Minto) began **Muslim separate electorates** and put **S. P. Sinha** on the Viceroy’s Executive Council — still **no** dyarchy.
+7. The **Government of India Act, 1919** (Montford) introduced **provincial dyarchy**, a **bicameral centre**, the **Chamber of Princes**, and the **Simon** ten-year review clause. The **1935** Act gave **provincial autonomy** (worked) while **federation** and **centre dyarchy** stayed on paper.
 8. **Warren Hastings** ended Dual Government in **1772**, moved the treasury to Calcutta, faced Banaras **1781**, and saw the Asiatic Society (**15 Jan 1784**). **Sir William Jones** founded the Society; Hastings declined the chair. **Ring Fence** belongs with Hastings–Wellesley.
 9. **Cornwallis** introduced the **Permanent Settlement of 1793**, the **Cornwallis Code**, the **Daroga** police system, and the covenanted ICS line; he died at **Ghazipur (UP)** in **1805**. He led the **Third Anglo-Mysore War** to the **Treaty of Seringapatam, 1792**.
 10. **Wellesley** finished the **Subsidiary Alliance** from **1798** (first **Hyderabad**; first Maratha **Bajirao II** via **Bassein 1802**). **Dalhousie** used the **Doctrine of Lapse** (Satara first, **1848**), pushed railways (**Bombay–Thane 1853**, GIPR), and hosted **Wood’s Despatch, 1854**.
@@ -31,7 +31,7 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 12. **Lytton** passed the **Vernacular Press Act, 1878** (Gagging Act) and followed **Proud Reserve** on Afghanistan. **Ripon** repealed that Press Act, pushed **local self-government (1882)**, the **First Factory Act (1881)**, and faced the **Ilbert Bill (1883)**.
 13. **Dufferin** saw the founding of the **INC in 1885** and called it a **“microscopic minority.”** **Curzon** partitioned Bengal on **16 October 1905**, passed the **Ancient Monuments Act 1904**, and centralised the ASI under **John Marshall**.
 14. **Hardinge II** moved the capital to **Delhi in 1911** and annulled the Partition. **Chelmsford** is tagged to the **GOI Act 1919**.
-15. **Linlithgow** issued the **August Offer (1940)**. **Wavell** offered the **Wavell Plan (1945)**. **Mountbatten** announced the **3 June Plan (1947)**.
+15. **Linlithgow** ran provincial autonomy after **1937**, faced Congress resignations (**1939**), issued the **August Offer (1940)**, then **Cripps** and **Quit India (1942)**. **Wavell** offered the **Wavell Plan / Simla (1945)** and hosted the **Cabinet Mission / Interim Government (1946)**. **Mountbatten** announced the **3 June Plan (1947)** and oversaw Partition.
 16. **Lord Hastings** (1813–23) fought Nepal and the Third Maratha War. Do **not** confuse him with **Warren Hastings**.
 17. **Lawrence** followed **Masterly Inactivity** on Afghanistan. **Lytton’s** line was **Proud Reserve** — opposite Afghan postures.
 18. **Mayo** ran the first census attempt (**1872**), began **financial decentralisation (1870)**, and was assassinated at the Andamans. Regular census **1881** = **Ripon**. **Northbrook** resigned over Afghan-policy disagreement.
@@ -60,6 +60,8 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Clive Dual Govt | Hastings Dual Govt end | Enforced 1765 vs abolished 1772 | क्लाइव / हेस्टिंग्स |
 | Mayo census 1872 | Ripon census 1881 | First attempt vs first regular decennial census | मेयो / रिपन |
 | GOI Act 1858 | Indian Councils Act 1861 | Ends Company rule, creates Viceroy vs adds the portfolio system | 1858 / 1861 |
+| Indian Councils Act 1861 | Indian Councils Act 1892 | Portfolio + nomination vs budget discussion + indirect election | 1861 / 1892 |
+| Indian Councils Act 1892 | Indian Councils Act 1909 | Indirect election without the word “election” vs Muslim separate electorates | 1892 / 1909 |
 | Lytton | Ripon | Vernacular Press Act 1878 vs Ilbert Bill 1883 (Ripon repealed the Press Act) | लिटन / रिपन |
 | Dufferin | Curzon | "Microscopic minority" vs Partition of Bengal 1905 | डफ़रिन / कर्जन |
 | Macaulay 1835 | Wood 1854 | English Minute vs education despatch in Dalhousie's time | मैकॉले / वुड |
@@ -139,15 +141,19 @@ These names belong mainly to Topic 2's Bengal-conquest story. Here they are tagg
 
 ## 3.3 Regulating Act, 1773
 
-British Parliament's **first serious attempt** to regulate Company rule in India, passed after the Company nearly went bankrupt despite ruling rich Bengal.
+**Identity:** First parliamentary statute regulating the East India Company in India | **Creates:** Governor-General of Bengal
 
-- It created the post of **Governor-General of Bengal** with a **four-member Council**; **Warren Hastings** was the first holder.
-- Bombay and Madras presidencies were made **subordinate to Bengal** in matters of war, peace and treaties with Indian powers.
-- A **Supreme Court** was set up at **Calcutta in 1774**, with a Chief Justice and three other judges sent from Britain.
-- The Company's Court of Directors, a body of 24 members, was required to report on revenue, civil and military matters to the British government.
-- Company servants were barred from private trade and from taking presents or bribes from Indians, though this rule was widely broken in practice.
+British Parliament’s first serious attempt to regulate Company rule, passed after the Company nearly went bankrupt despite ruling rich Bengal.
 
-> ** note:** This Act **creates the office**, not a reform programme. Do not confuse it with Pitt's India Act, which reorganised **control** over the Company eleven years later.
+- It created the post of **Governor-General of Bengal** with a **four-member Executive Council**. **Warren Hastings** was the first holder.
+- This is **not** the Governor-General of India — that all-India title comes only with the **Charter Act of 1833**.
+- Bombay and Madras were made **subordinate to Bengal** in war, peace and treaties with Indian powers.
+- A **Supreme Court** was set up at **Calcutta in 1774**. The first Chief Justice was **Sir Elijah Impey**.
+- Clash between the Supreme Court and the Governor-General-in-Council was later eased by the **Amending Act / Act of Settlement, 1781**.
+- The Company’s **Court of Directors** (24 members) had to report revenue, civil and military matters to the British government.
+- Company servants were barred from **private trade** and from taking **presents or bribes**, though the ban was widely broken in practice.
+
+> **Logic:** Regulating Act **creates the Bengal office**. Pitt’s India Act (**1784**) reorganises **London control**. Do not call Hastings the first GG of India.
 
 ---
 
@@ -211,19 +217,28 @@ D. (A) is false, but (R) is true
 
 Named for British Prime Minister **William Pitt the Younger**. It fixed the problem the Regulating Act had left open: **who really controls Company policy from London.**
 
-- It created a **Board of Control**, a body of Crown-appointed commissioners, to oversee the Company's **political and military** affairs.
-- The **Court of Directors** kept charge of **commercial** business but had to send its political correspondence through the Board first.
-- The Governor-General's Council was **reduced from four members to three**, giving the Governor-General a stronger relative voice.
+- It created a **Board of Control** (commonly remembered as **six** Crown-appointed commissioners) to oversee the Company’s **political and military** affairs.
+- The **Court of Directors** kept charge of **commercial** business but had to send its political correspondence through the Board first. This dual setup is often called **dual control from London** — do not confuse it with Clive’s **Dual Government in Bengal (1765)**.
+- The Governor-General’s Council was **reduced from four members to three**, giving the Governor-General a stronger relative voice.
 - Bombay and Madras were placed **fully under the control** of the Governor-General and Council in Calcutta.
 - Company territories in India were, for the first time, officially termed **"British possessions in India."**
+- The Board’s expenses were later charged more clearly to Indian revenues under the quiet renewals that followed.
 
-> ** note:** This Act is about **dual control from London** (Board + Directors), not about who governs in India day to day. That is the Regulating Act's job.
+> **Logic:** Pitt’s Act = **Board of Control + Directors**. Regulating Act = **creates GG of Bengal**. Dual control (London) ≠ Dual Government (Bengal).
 
 ---
 
 ## 3.6 Lord Cornwallis (1786–1793; short second term 1805)
 
-- He introduced the **Permanent Settlement of 1793** in **Bengal, Bihar and Orissa**. Zamindars were treated as proprietors. Madras was **not** under this settlement.
+### Permanent Settlement, 1793
+
+- He introduced the **Permanent Settlement of 1793** in **Bengal, Bihar and Orissa**. Land revenue was fixed **in perpetuity** with the zamindar treated as proprietor.
+- The plan was shaped with **John Shore’s** revenue work; Cornwallis enacted it. Zamindars who failed to pay risked losing the estate under the harsh payment rules (often remembered as the **sunset** rule).
+- Cultivators stayed **tenants**; they did **not** get ownership under this settlement. The Company gained a **stable cash demand**.
+- **Madras** was **not** Permanent Settlement country — **Ryotwari** (Munro) and other systems dominate there. **Mahalwari** belongs mainly to North India.
+
+### Judicial, police and service reforms
+
 - The **Cornwallis Code of 1793** collected his judicial reforms and rested on **separation of powers**: revenue work was split from judicial work.
 - In **1787** the District Collector briefly held Diwani-judge powers and some Faujdari powers. In **1790–92** Indian-staffed district Faujdari courts were replaced by **four Circuit Courts** (three for Bengal, one for Bihar) under European judges, with Indian kazis and muftis assisting.
 - Under the Code, the Collector lost judicial and police powers and kept **taxation only**. District Judges took civil, criminal and police work in a new hierarchy.
@@ -232,21 +247,24 @@ Named for British Prime Minister **William Pitt the Younger**. It fixed the prob
 - He personally led the **Third Anglo-Mysore War**, which ended with the **Treaty of Seringapatam, 1792**.
 - He returned for a short second term from **30 July to 5 October 1805** and died at **Ghazipur (Uttar Pradesh)**; his tomb is still there.
 
-> **Logic:** Permanent Settlement and Cornwallis Code = **Cornwallis**. Abolition of Sati = **Bentinck, 1829**. Tomb at Ghazipur is a UP-facing fact.
+> **Logic:** Permanent Settlement = **Cornwallis** (not Bentinck). Ryotwari = **Munro**. Sati abolition = **Bentinck, 1829**. Tomb at Ghazipur is a UP-facing fact.
 
 ---
 
 ## 3.7 Charter Act, 1793
 
-- This Act simply **renewed the Company's charter for another 20 years**. It made almost no structural change to the office.
-- The Board of Control's expenses were now charged to **Indian revenue** rather than to the British treasury.
-- The Governor-General's power to **override his Council** in special cases was strengthened.
-- Cornwallis's separation of revenue collection from judicial work (the Cornwallis Code) continued alongside this renewal.
+**Identity:** Quiet 20-year renewal between Pitt’s dual control (1784) and the trade break of 1813
 
-> ** note:** 1793 is a **quiet renewal**, useful mainly as a chronology anchor between the Regulating Act family (1773, 1784) and the more active 1813/1833 Acts.
+- This Act **renewed the Company’s charter for another 20 years**. The Company’s **trade monopoly continued**.
+- It made almost no structural change to the Indian office, so it is easy to under-read — but Match List stems still use it as a chronology anchor.
+- The **Board of Control’s** expenses were charged to **Indian revenue**.
+- The Governor-General’s power to **override his Council** in special cases was strengthened.
+- The **Commander-in-Chief** was **not** automatically a Council member unless specially appointed.
+- Cornwallis’s separation of revenue from judicial work (the Cornwallis Code) continued alongside this renewal.
+
+> **Logic:** 1793 = **quiet renewal + monopoly continues**. **1813** cuts the India trade monopoly. **1833** ends all Company trade and creates GG of India.
 
 ---
-
 ## 3.8 Sir John Shore (1793–1798)
 
 - Shore continued Cornwallis's policy of **non-intervention**: avoid new wars with Indian states whenever possible.
@@ -520,14 +538,16 @@ D. Both 1 and 2
 
 ## 3.22 Charter Act, 1853
 
-The **last** of the Charter Acts, and the first to reform legislative structure rather than trade rights.
+**Identity:** Last Charter Act | First serious legislative redesign | Opens ICS to competition
 
-- For the first time, the Governor-General's **legislative and executive functions were separated**. Six new legislative councillors were added, forming what came to be called the **Indian (Central) Legislative Council** — a small law-making body distinct from the executive.
-- Recruitment to the **civil services** was opened to **competitive examination**, following the recommendations of a Macaulay-led committee. This ended the old system of patronage-based nomination.
-- The **Court of Directors was reduced from 24 to 18** members, with six now nominated directly by the Crown.
-- Unlike earlier Charter Acts, this one set **no fixed date** for renewal, leaving the question of Company rule's future deliberately open.
+- For the first time, the Governor-General’s **legislative and executive functions were separated**. Six new legislative councillors were added, forming a small **Indian (Central) Legislative Council** distinct from the executive.
+- Limited **local / Indian representation** began in that legislative wing — still nomination-heavy, but a step beyond pure executive law-making.
+- The **Law Member** became a **full** member of the Governor-General’s Executive Council (earlier, under 1833, the post had been weaker in voting terms).
+- Recruitment to the **civil services** was opened to **competitive examination**, following the **Macaulay Committee**. This ended patronage nomination. Papers long remained in **London**, so Indian entry stayed hard in practice.
+- The **Court of Directors was reduced from 24 to 18** members, with six nominated directly by the Crown.
+- Unlike earlier Charters, this one set **no fixed 20-year renewal** — Company rule was left deliberately open until **1858**.
 
-> ** note:** 1853 is the Act that gives India its first proto-legislature and opens the civil services to competitive papers. It is **not** the Act that ends Company rule — that is 1858.
+> **Logic:** **1833** promised equality of office in spirit (Section 87) and created GG of India. **1853** is the Act of **open ICS competition** and the first proto-legislature. **1858** ends Company rule.
 
 ---
 
@@ -583,13 +603,22 @@ D. Indian Council Act, 1909
 
 ## 3.25 Indian Councils Act, 1861
 
-- It restored **legislative powers to Bombay and Madras** presidencies, which the 1833 Act had taken away.
-- It introduced the **portfolio / departmental system** in the Viceroy's Executive Council, replacing the old corporate style of decision-making, so that each member now handled a specific department (**2021 Q13**).
-- It provided for new **legislative councils** in Bengal, the North-Western Provinces and the Punjab.
-- It empowered the Viceroy to issue **ordinances** in an emergency, valid for up to six months.
-- For the first time it allowed a few **non-official Indians** to be nominated to legislative councils, though this was a very limited beginning.
+**Identity:** Portfolio system Act | First limited Indian nomination to councils | Viceroy: Canning
 
-> ** note:** 1861 is the **portfolio-system** Act. Keep it apart from 1858 (Crown rule) and 1892 (indirect election).
+- **Canning** had already begun departmental portfolios in practice around **1859**. The **1861 Act gave the portfolio / departmental system legal force**, so each Executive Council member handled a named department instead of deciding everything corporately.
+- It restored **legislative powers to Bombay and Madras**, which the **1833** centralisation had taken away.
+- For the first time a few **non-official Indians** could be **nominated** to legislative councils. In **1862** Canning nominated the **Raja of Banaras**, the **Maharaja of Patiala**, and **Sir Dinkar Rao**.
+- New legislative councils followed for **Bengal (1862)**, later the **North-Western Provinces (1886)** and **Punjab (1897)**.
+- The Viceroy could issue **ordinances** in an emergency, valid for up to **six months**.
+- Indians entered law-making only by **nomination**. There was **no election** and **no responsible government**.
+
+### What it did **not** do
+
+- It did **not** end Company rule — that is **GOI Act 1858**.
+- It did **not** create communal / separate electorates — that is **1909**.
+- It did **not** introduce the indirect-election principle — that is **1892**.
+
+> **Logic:** **1858 = Crown + Viceroy**. **1861 = portfolio + nomination**. **1892 = budget discussion + indirect election**. **1909 = Muslim separate electorates**.
 
 ---
 
@@ -719,11 +748,11 @@ D. Lord Lansdown
 ## 3.33 Lord Lansdowne (1888–1894)
 
 - The **Age of Consent Act, 1891** was passed in his time, raising the age of consent for marriage consummation to 12, following Behramji Malabari's campaign.
-- The **Indian Councils Act, 1892** enlarged legislative councils and gave them limited power to discuss the budget and ask questions, introducing an **indirect principle of election** without ever using the word "election."
+- The **Indian Councils Act, 1892** belongs to his tenure (full card below).
 - The **Factory Act of 1891** further regulated working hours for women and children.
 - The **Durand Line**, the border between British India and Afghanistan, was demarcated in **1893**.
 
-> ** note:** Age of Consent Act 1891 and Councils Act 1892 both belong to **Lansdowne**, a standard confused pair with Ripon's Ilbert-era reforms.
+> **Logic:** Age of Consent Act 1891 and Councils Act 1892 both belong to **Lansdowne**, not Ripon.
 
 **PYQ — UPPCS Prelims 2024, Q17**
 
@@ -743,9 +772,26 @@ D. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Malabari yes (**Lansdowne** era). Tilak **opposed** (age of marriage / nationalist grounds).
+**Logic:** Malabari campaigned for the Act. Tilak opposed it on social–nationalist grounds.
+
+**Ans: C** — Malabari yes (**Lansdowne** era). Tilak **opposed**.
 
 </details>
+
+---
+
+## 3.33A Indian Councils Act, 1892
+
+**Identity:** Budget-discussion Act | Indirect election without using the word “election” | **Viceroy:** Lansdowne
+
+- Non-official seats rose in the Central and Provincial Legislative Councils, but an **official majority** remained at the Centre.
+- Councils could **discuss the annual budget** and ask **questions** on matters of public interest. They still could **not** vote the executive out or reject the budget as a whole.
+- An element of **indirect election** entered through **nomination on recommendation**. The statute carefully avoided the open word **“election.”**
+- Central nominations drew on Provincial Legislative Councils and bodies such as the **Bengal Chamber of Commerce**.
+- Provincial nominations drew on **District Boards, Municipalities, Universities, Trade Associations and Zamindars**.
+- The Act still gave **no responsible government** and **no separate communal electorate** (that comes in **1909**).
+
+> **Logic:** **1861 = portfolio + nomination**. **1892 = budget talk + indirect election**. **1909 = Muslim separate electorates**. Do not call 1892 the start of communal electorates.
 
 ---
 
@@ -801,24 +847,47 @@ D. Neither 1 nor 2
 
 ## 3.36 Lord Minto II (1905–1910)
 
-- The **Morley–Minto Reforms** are the **Indian Councils Act, 1909**.
-- This Act introduced **separate electorates for Muslims**.
-- The **Simla Deputation** of **1906** came first. The Secretary of State was **John Morley**.
-- The **All-India Muslim League** was founded at Dacca in **1906**, shortly before the Simla Deputation.
-- **S.P. Sinha** became the first Indian member of the Viceroy's Executive Council in 1909.
+- He took over after Curzon. **John Morley** was Secretary of State for India. Their joint package is remembered as the **Morley–Minto Reforms**, legally the **Indian Councils Act, 1909**.
+- Before the Act, the **Simla Deputation (1 October 1906)** met Minto and asked for Muslim weightage and separate representation. The **All-India Muslim League** was founded at **Dacca in December 1906**.
+- Minto is often tagged **"Father of the Communal Electorate"** because **1909** gave legal force to **Muslim separate electorates**.
+- **S. P. Sinha** became the first Indian member of the Viceroy’s Executive Council (**Law Member**) under these reforms.
+- The Act enlarged councils and let members discuss the budget and ask questions, but it did **not** create responsible government or dyarchy.
 
-> ** note:** 1909 is separate electorates. The **Chamber of Princes** is **1919**, not 1909.
+> **Logic:** 1909 = separate electorates + Sinha. **Chamber of Princes** and **dyarchy** belong to **1919**, not Minto.
 
 ---
 
-## 3.37 Indian Councils Act, 1909 (Morley-Minto Reforms)
+## 3.37 Indian Councils Act, 1909 (Morley–Minto Reforms)
 
-- It introduced **separate electorates for Muslims**, giving communal representation legal recognition for the first time.
-- It **increased the size** of both the central and provincial legislative councils.
-- Indians could now sit on the **Viceroy's Executive Council**: **S. P. Sinha** was appointed as its first Indian member, holding the law portfolio.
-- Legislative councils were given the power to move **resolutions on the budget**, though final authority still rested with the executive.
+**Identity:** Indian Councils Act, 1909 | **Viceroy:** Lord Minto II | **Secretary of State:** John Morley
 
-> ** note:** 1909 = **communal electorate**, not dyarchy. Dyarchy and the bicameral centre are the **1919** Act's job.
+### Background
+
+- After the Partition of Bengal and the rise of Extremists, the British wanted to **associate loyal Indians** with councils and to **detach Muslim opinion** from the Congress stream.
+- The **Simla Deputation (1906)** and the birth of the **Muslim League (1906)** set the communal bargaining frame that entered the statute in **1909**.
+
+### Main provisions
+
+- The **Imperial (Central) Legislative Council** was enlarged (commonly remembered rise from about **16 to about 60** members). An **official majority** was kept at the Centre.
+- **Provincial Legislative Councils** were also enlarged. In some provinces a **non-official majority** became possible.
+- Members could ask **questions** and **supplementary questions**, and move **resolutions on the budget**. They still could **not** vote the executive out, and the budget as a whole was not controlled by the council.
+- **Separate electorates for Muslims** were introduced: only Muslim voters elected Muslim candidates in reserved seats. This is the first legal communal electorate.
+- Separate representation was also arranged for bodies such as **Presidency Corporations, Chambers of Commerce, Universities and Zamindars**.
+- Indians entered the **Viceroy’s Executive Council**. The first Indian appointee was **Satyendra Prasad Sinha** (Law).
+
+### What it did **not** do
+
+- It did **not** introduce **dyarchy**.
+- It did **not** create a **bicameral** centre.
+- It did **not** create the **Chamber of Princes**.
+- It did **not** promise responsible self-government in the language later used in the **Montagu Declaration (1917)**.
+
+### Political result
+
+- Nationalists treated it as a **divide-and-rule** device that legalised communal politics.
+- Prelims traps almost always turn on **1909 = Muslim separate electorates** versus **1919 = dyarchy** versus **1932 Communal Award** (not the first Muslim separate electorate).
+
+> **Logic:** Morley–Minto = **association without responsibility**. Montagu–Chelmsford = **limited responsibility through provincial dyarchy**.
 
 ---
 
@@ -854,13 +923,12 @@ D. Yugantar
 
 ## 3.39 Lord Chelmsford (1916–1921)
 
-- The **Montagu Declaration** of **20 August 1917** announced the goal of gradually developing responsible, self-government in India.
-- The **Government of India Act 1919** introduced **dyarchy**.
-- The **Chamber of Princes**, provided for by the 1919 Act, had about **120 members** and was formally inaugurated in **1921** (**2023 Q43**).
-- The **Rowlatt Act** belongs to this tenure, in 1919.
-- **Jallianwala Bagh** took place on **13 April 1919**.
-- **Tagore** returned his knighthood (**2022 Q83**).
-- **C. Sankaran Nair** resigned from the Viceroy's Executive Council (**2025 Q135**).
+- His tenure covers World War I’s endgame in India and the first mass nationalist shock after Rowlatt–Jallianwala.
+- The **Montagu Declaration** of **20 August 1917** (Secretary of State **Edwin Montagu**) announced the goal of the gradual development of **self-governing institutions** and responsible government in India. That declaration is the political preface to the **GOI Act, 1919**.
+- The **Government of India Act, 1919** (Montagu–Chelmsford / “Montford” reforms) introduced **provincial dyarchy**, a **bicameral centre**, and the **Chamber of Princes**.
+- The **Rowlatt Act (1919)** and **Jallianwala Bagh (13 April 1919)** fall in the same years as the reform package and poisoned Indian trust in British “self-government” promises.
+- **Tagore** returned his knighthood. **C. Sankaran Nair** resigned from the Viceroy’s Executive Council over the Punjab wrongs.
+- The **Chamber of Princes** (~**120** members) was provided by the 1919 Act and formally inaugurated in **1921**.
 
 **PYQ — UPPCS Prelims 2023, Q43**
 
@@ -876,6 +944,8 @@ D. Government of India Act, 1919
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Chamber of Princes is a Montford / 1919 fact, not Morley–Minto.
 
 **Ans: D** — 1919 / Chelmsford, not Morley–Minto 1909.
 
@@ -900,6 +970,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Nair resigned from the Executive Council. Tagore returned knighthood — different protest form.
 
 **Ans: D — Only 1.** Tagore returned knighthood; he was not on the Executive Council.
 
@@ -926,16 +998,51 @@ D. Shankaran Nair
 
 ---
 
-## 3.40 Government of India Act, 1919 (Montagu-Chelmsford Reforms)
+## 3.40 Government of India Act, 1919 (Montagu–Chelmsford Reforms)
 
-- It introduced **dyarchy** in the provinces: subjects were split into **"reserved"** (handled by the Governor and his executive council, e.g. law and order) and **"transferred"** (handled by ministers responsible to the legislature, e.g. education and health).
-- Provincial legislative councils were **enlarged**, with a majority of elected members for the first time.
-- **Separate electorates** were extended beyond Muslims to Sikhs, Indian Christians, Anglo-Indians and Europeans.
-- A **bicameral central legislature** was created for the first time: the **Council of State** (upper house) and the **Legislative Assembly** (lower house).
-- A **Chamber of Princes** was provided for, to formally link princely states with the British government.
-- The Act promised a **statutory review commission after ten years**, which eventually produced the **Simon Commission of 1927**.
+**Identity:** GOI Act, 1919 / Montford Reforms | **Viceroy:** Lord Chelmsford | **Secretary of State:** Edwin Montagu | **In force from:** 1921
 
-> ** note:** 1919 = **dyarchy + bicameral centre + Chamber of Princes**. 1909 only gave separate electorates; it did not create dyarchy.
+### Background
+
+- Based on the **Montagu Declaration (20 August 1917)**: gradual introduction of responsible government in India.
+- Came after wartime recruitment and the Home Rule agitation, and in the same political climate as **Rowlatt** and **Jallianwala** — so Indians judged the Act against those wrongs.
+
+### Structure of government
+
+- Subjects were classified into **Central** and **Provincial** (Devolution Rules).
+- **Dyarchy in the provinces** (dual rule):
+  - **Reserved subjects** — police, justice, land revenue, irrigation, and similar “hard” subjects — stayed with the **Governor and his Executive Councillors**, **not** responsible to the legislature.
+  - **Transferred subjects** — education, health, local self-government, agriculture, and similar “soft” subjects — went to **Indian ministers** responsible to the Legislative Council.
+- At the **Centre** there was still **no dyarchy**. The Viceroy’s Executive Council remained the real executive. The Act did provide for **more Indian members** on that Council (commonly remembered as up to **three**, besides the Commander-in-Chief).
+
+### Legislature
+
+- The old Indian Legislative Council was replaced by a **bicameral** central legislature:
+  - **Council of State** (Upper House)
+  - **Legislative Assembly** (Lower House)
+- A majority of members were chosen by **direct election**, but the franchise stayed narrow.
+- Provincial legislatures were **enlarged**, with elected majorities for the first time in that form.
+- Provincial budgets were separated from the central budget.
+
+### Communal and princely features
+
+- **Separate electorates** were **extended** beyond Muslims to **Sikhs, Indian Christians, Anglo-Indians and Europeans**.
+- The Act provided for a **Chamber of Princes (Narendra Mandal)** — about **120** members — inaugurated in **1921**.
+
+### Other high-yield provisions
+
+- Created the office of **High Commissioner for India** in London.
+- Provided for a **Public Service Commission** → the **Central PSC** was set up in **1926**.
+- Ordered a **statutory commission after ten years** → this became the **Simon Commission (1927)**.
+- Local self-government became a real **transferred** subject under Indian ministers — the institutional payoff of Ripon’s earlier local-self-government seed.
+
+### Limits and later link
+
+- Dyarchy was **half-responsible government**: ministers controlled only transferred subjects; Governors kept reserved subjects and special powers.
+- Congress largely criticised the Act as inadequate; Liberals and some others worked the councils.
+- **1935** later ended provincial dyarchy and introduced **provincial autonomy**. Centre dyarchy under 1935 never operated. Until federation could start, large parts of central practice still rested on the **1919** frame.
+
+> **Logic:** 1919 = **provincial dyarchy + bicameral centre + Chamber of Princes + Simon clause**. 1909 = **Muslim separate electorates** only as the headline reform. Do not swap.
 
 ---
 
@@ -953,13 +1060,16 @@ D. Shankaran Nair
 
 ## 3.42 Lord Irwin (1926–1931)
 
-- The **Simon Commission** arrived in India in 1928 and was widely **boycotted** for having no Indian members.
-- The **Nehru Report (1928)** and the **Lahore Session of Congress (December 1929)**, which declared **Purna Swaraj** as the goal, both fall in his term.
+- The **Simon Commission** was the statutory review ordered by the **1919 Act** after ten years. It was appointed in **1927** and arrived in India in **1928**.
+- All **seven** members were British; **no Indian** sat on it. The boycott cry was **"Simon Go Back."**
+- **Lala Lajpat Rai** was injured in the Lahore lathi-charge during the protest (**1928**) and later died — a major flashpoint of the boycott years.
+- The Simon Report (**1930**) urged an end to **provincial dyarchy**, more responsibility for provinces, movement toward a **federation**, and continuation of **communal electorates**. Boycott and deadlock pushed politics into the **Round Table Conferences** and then **GOI Act 1935**.
+- The **Nehru Report (1928)** and the **Lahore Session of Congress (December 1929)**, which declared **Purna Swaraj**, both fall in Irwin’s term.
 - The **Dandi March / Salt Satyagraha** began in **1930**.
 - The **First Round Table Conference (1930–31)** was held in London without Congress participation.
-- The **Gandhi-Irwin Pact** was signed in **March 1931**, ending Civil Disobedience for the time being and securing the release of political prisoners.
+- The **Gandhi–Irwin Pact** was signed in **March 1931**, ending Civil Disobedience for the time being and securing the release of political prisoners.
 
-> ** note:** Irwin = **Simon Commission, Dandi March, Gandhi-Irwin Pact**, all core Non-Cooperation-to-Civil-Disobedience-era facts.
+> **Logic:** Irwin = **Simon boycott + Dandi + Gandhi–Irwin Pact**. Simon is the child of the **1919** ten-year clause, not a sudden 1927 invention.
 
 ---
 
@@ -977,29 +1087,75 @@ D. Shankaran Nair
 
 ## 3.44 Government of India Act, 1935
 
-The **longest and most detailed** of the Government of India Acts, and the last before Independence.
+**Identity:** Longest British Indian constitutional statute | Template for much of Independent India’s structure | **Provincial parts in force from 1937**
 
-- It proposed an **All-India Federation** of British provinces and princely states, but this federation **never actually came into force** because too few princely states agreed to join.
-- **Dyarchy in the provinces was abolished.** Provinces received **full autonomy**, with ministers now responsible to elected provincial legislatures across all subjects.
-- A limited form of **dyarchy was shifted to the centre**: federal subjects were split into reserved (defence and foreign affairs, kept with the Governor-General) and transferred subjects.
-- Separate electorates were extended further, including separate representation for the **depressed classes**, following the Poona Pact.
-- A **Federal Court** was established in **1937**, the direct forerunner of the Supreme Court of independent India.
-- The **Reserve Bank of India** was set up in **1935** around the same time as this Act, though as a separate piece of legislation.
+### Background
 
-> ** note:** 1935 gives **real autonomy to provinces** but only a **paper federation** at the centre. Congress ministries that took office in 1937 did so under **this** Act's provincial autonomy provisions.
+- Grew out of the **Simon Report (1930)**, the three **Round Table Conferences**, and the White Paper process after Civil Disobedience.
+- It is the last major constitutional Act before Independence and the one whose **provincial** machinery Congress actually worked in **1937**.
+
+### Federal design (mostly on paper)
+
+- It proposed an **All-India Federation** of British Indian provinces plus princely states.
+- Accession of states was **voluntary**. Because enough princes did not join, the **federation never started**.
+- At the Centre the Act wrote a form of **dyarchy**: defence, external affairs and related reserved subjects stayed with the Governor-General; other federal subjects were to go to ministers. This **centre dyarchy never operated**.
+- Until federation could begin, much of the Centre still ran on the older **1919** executive and legislative frame.
+
+### Provincial autonomy (what actually worked)
+
+- **Dyarchy in the provinces was abolished.** From **1937**, provinces got **provincial autonomy**: ministers responsible to elected legislatures for provincial subjects.
+- Powers were divided into **three lists**: **Federal, Provincial and Concurrent** (commonly remembered about **59 / 54 / 36**).
+- **Residuary** powers under the Act stayed with the **Governor-General / Viceroy**.
+- Bicameral legislatures were provided in **six** provinces: **Bengal, Bombay, Madras, Bihar, Assam and the United Provinces**.
+- Governors kept **special responsibilities** and **discretionary / ordinance** powers (including the Instrument of Instructions style control). So autonomy was real but **not absolute**.
+
+### Courts, money, services, territory
+
+- A **Federal Court** was set up in **1937** — the forerunner path to the Supreme Court.
+- The Act **provided for** a reserve bank to control currency and credit. The bank itself rests on the **RBI Act, 1934**, with operations from **1 April 1935**.
+- It provided for **Federal / Provincial / Joint Public Service Commissions**.
+- It **abolished the Council of India** in London and left the Secretary of State with advisers.
+- It **separated Burma (1937)** and **Aden** from India.
+- Franchise widened further but stayed limited. Communal representation continued and was extended after Poona Pact politics.
+
+### Political result
+
+- In the **1937** elections Congress formed ministries in a **majority of provinces** (commonly remembered as about **seven of eleven**).
+- The League’s “**Day of Deliverance**” (December 1939) celebrated Congress ministries’ resignation after the war declaration — a later Linlithgow-era fact that sits on this Act’s provincial stage.
+- Independent India’s Constitution borrowed heavily from this Act’s **lists, federal court idea, and provincial structure**.
+
+> **Logic:** **1919 = provincial dyarchy**. **1935 = provincial autonomy** (worked) + **federation / centre dyarchy** (paper only). Do not say the 1935 federation “started.”
 
 ---
 
 ## 3.45 Lord Linlithgow (1936–1943)
 
-Longest-serving Viceroy.
+**Identity:** Longest-serving Viceroy of the late British period | War Viceroy | August Offer / Cripps / Quit India years
 
-- Congress ministries took office in **1937** under the provincial autonomy granted by the 1935 Act.
-- They resigned in **October–November 1939**, in protest at India being drawn into the Second World War without consultation.
-- The **August Offer** is dated **8 August 1940**.
-- The **Cripps Mission** came in **1942**.
-- **Quit India** followed in **1942**.
-- The **Bengal Famine** belongs to **1943**.
+### Provincial autonomy years
+
+- He oversaw the first working of **provincial autonomy** under the **GOI Act, 1935**.
+- After the **1937** elections, **Congress ministries** took office in a majority of provinces.
+- When Britain declared war on Germany in **September 1939**, Linlithgow announced India’s involvement **without consulting** Indian leaders. Congress ministries **resigned in October–November 1939**.
+- The Muslim League marked **22 December 1939** as **Day of Deliverance**.
+
+### 1940 bridge
+
+- The **Ramgarh Congress session (March 1940)** sits just before the August Offer in the standard arrange ladder.
+- The **August Offer (8 August 1940)** promised dominion status after the war, expansion of the Viceroy’s Executive Council, and a post-war body to frame India’s constitution — but it kept a minority / League veto flavour that Congress rejected.
+- **Individual Satyagraha** began in **October 1940**. The first satyagrahi was **Vinoba Bhave**; Nehru followed. It was a limited, selected protest, not a mass CDM-style campaign.
+- The League’s **Lahore Resolution (March 1940)** demanding Muslim-majority “independent states” also falls in this Viceroyalty.
+
+### 1942 crisis
+
+- The **Cripps Mission (March 1942)** offered dominion status after the war, a Constituent Assembly, and a provincial opt-out clause. Congress and the League both rejected it. Gandhi’s side branded it a **post-dated cheque**.
+- **Quit India** was launched on **8 August 1942** at Bombay with Gandhi’s call of **Do or Die**. The British arrested the top leadership at once; the movement went underground and faced harsh repression.
+- **Subhas Chandra Bose** had already formed the **Forward Bloc (1939)**; the INA story abroad runs alongside Linlithgow’s last years and into Wavell’s.
+
+### Other tags
+
+- The **Bengal Famine of 1943** began toward the end of his tenure and continued into Wavell’s arrival.
+- He is the usual answer for the **longest-serving** late-phase Viceroy.
 
 **PYQ — UPPCS Prelims 2024, Q133**
 
@@ -1021,19 +1177,42 @@ D. 4, 2, 3, 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ministries quit after the war declaration; Ramgarh; then August Offer; Cripps only in 1942.
+
 **Ans: B** — Ministers resign **1939** → Ramgarh **Mar 1940** → August Offer **Aug 1940** → Cripps **1942**.
 
 </details>
+
+> **Logic:** August Offer = **Linlithgow, 1940**. Cripps / Quit India = **1942**. Do not give Wavell the August Offer.
 
 ---
 
 ## 3.46 Lord Wavell (1943–1947)
 
-- He took over amid the **Bengal Famine**.
-- The **Wavell Plan** and the **Simla Conference** belong to **1945**.
-- The **INA trials** (Red Fort trials) ran in his tenure.
-- The **Cabinet Mission of 1946** still fell in his time, as did the **Interim Government**.
-- **Mountbatten** replaced him in **March 1947**.
+**Identity:** Endgame Viceroy before Mountbatten | Wavell Plan / Simla | Cabinet Mission / Interim Government years
+
+### Famine and war end
+
+- He took charge in **October 1943** while the **Bengal Famine** was still killing on a mass scale and tried to improve food administration.
+- World War II ended in **1945**. Political prisoners from Quit India began to be released as talks restarted.
+
+### Wavell Plan and Simla Conference, 1945
+
+- The **Wavell Plan (June 1945)** proposed an interim Executive Council with equal Hindu and Muslim representation (apart from the Viceroy and Commander-in-Chief) and invited Indian leaders to form it.
+- The **Simla Conference (June–July 1945)** tried to implement that plan. It failed mainly because the League insisted it alone spoke for all Muslims, while Congress claimed to speak for all Indians including Muslims.
+- Do not confuse **Simla 1945** with the later Cabinet Mission of **1946**.
+
+### Pressure from armed forces and missions, 1945–46
+
+- The **INA Trials** at the Red Fort (**1945–46**) created huge public sympathy for the accused officers.
+- The **RIN Mutiny (February 1946)** of naval ratings at Bombay (and other centres) added military pressure on British authority.
+- The **Cabinet Mission (1946)** still arrived while Wavell was Viceroy. Its plan of **16 May 1946** proposed a united India with a weak centre and provincial grouping. Congress and League accepted and rejected different parts over time.
+- **Direct Action Day (16 August 1946)** followed League politics around the Cabinet Mission deadlock and produced communal massacres, especially in Calcutta.
+- The **Interim Government** was formed on **2 September 1946** under Nehru. The League later joined and then obstructed from inside.
+
+### Exit
+
+- By early 1947 London decided on a fixed withdrawal. **Mountbatten** replaced Wavell in **March 1947**.
 
 **PYQ — UPPCS Prelims 2025, Q41**
 
@@ -1055,20 +1234,46 @@ D. 1, 4, 2, 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Cripps is wartime 1942; Wavell Plan and Simla are mid-1945; Cabinet Mission is 1946.
+
 **Ans: A** — Cripps **1942** → Wavell Plan **1945** → Simla **1945** → Cabinet **1946**.
 
 </details>
+
+> **Logic:** Wavell Plan ≠ Mountbatten Plan. Simla **1945** ≠ Cabinet Mission **1946**. Full mission stories sit in Topic 14; this card is the Viceroy tag + order.
 
 ---
 
 ## 3.47 Lord Mountbatten (March–August 1947) and the transfer of power
 
-- He was the **last Viceroy of India**.
-- He announced the **3 June Plan (Mountbatten Plan)**, setting out the scheme for Partition.
-- The **Indian Independence Act** was passed on **18 July 1947**. Power was transferred on **15 August 1947**.
-- He remained the first Governor-General of the Dominion of India until **June 1948**. Then **C. Rajagopalachari** took over as the **last Governor-General of India**, serving until 1950.
+**Identity:** Last Viceroy of British India | Mountbatten Plan | Partition and Independence
 
-> ** note:** Last **Viceroy** = Mountbatten. Last **Governor-General of India** = Rajagopalachari.
+### Appointment and brief
+
+- He became Viceroy in **March 1947**, after **Attlee’s statement (20 February 1947)** fixed British withdrawal by **June 1948** and named him.
+- Communal violence and Congress–League deadlock made an early, clear transfer seem necessary. Mountbatten advanced the timetable.
+
+### Mountbatten Plan (3 June 1947)
+
+- Also called the **3 June Plan**. Congress and the League accepted its broad outline.
+- British India would be partitioned into two **Dominions**: **India** and **Pakistan**.
+- Provinces / areas would choose through assemblies or referendum-style procedures (Punjab and Bengal to be partitioned if they opted that way; NWFP referendum; Sylhet referendum).
+- Princely states would become free of paramountcy and could accede to either Dominion (or, in theory, stand aside — later integration is a post-Independence story).
+- A boundary commission would draw the lines — later associated with **Sir Cyril Radcliffe**.
+
+### Indian Independence Act, 1947
+
+- Passed by the British Parliament and received assent on **18 July 1947**.
+- It gave legal force to the two Dominions, ended British paramountcy over the states, and set **15 August 1947** as the transfer date.
+- Keep three 1947 dates apart: **Plan 3 June**, **Act 18 July**, **Independence 15 August**.
+
+### After 15 August
+
+- Mountbatten stayed on as the **first Governor-General of the Dominion of India** until **June 1948**.
+- **C. Rajagopalachari** then became the **last Governor-General of India** (to **26 January 1950**, when India became a Republic).
+- Pakistan’s first Governor-General was **Jinnah**.
+
+> **Logic:** Last **Viceroy** = Mountbatten. Last **Governor-General of India** = **Rajagopalachari**. Do not call Mountbatten the last GG of India.
 
 ---
 
@@ -1101,9 +1306,9 @@ D. 1, 4, 2, 3
 | Chelmsford | GOI 1919; Chamber of Princes |
 | Irwin | Dandi March 1930; Gandhi-Irwin Pact 1931 |
 | Willingdon | Communal Award; Poona Pact; GOI 1935 |
-| Linlithgow | August Offer 1940 |
-| Wavell | Wavell Plan 1945 |
-| Mountbatten | 3 June Plan 1947 |
+| Linlithgow | 1937 ministries; resign 1939; August Offer 1940; Cripps + Quit India 1942 |
+| Wavell | Wavell Plan + Simla 1945; Cabinet Mission / Interim Govt 1946 |
+| Mountbatten | 3 June Plan; Independence Act 18 Jul 1947; last Viceroy |
 
 ### GG ↔ war
 
@@ -1126,18 +1331,18 @@ D. 1, 4, 2, 3
 
 | Act | Year | One-line provision fact |
 |-----|------|--------------------------|
-| Regulating Act | **1773** | GG of Bengal + 4-member Council; Supreme Court at Calcutta (1774) |
-| Pitt's India Act | **1784** | Board of Control (political) placed above Court of Directors (commercial) |
-| Charter Act | **1793** | 20-year renewal; almost no structural change |
+| Regulating Act | **1773** | GG of Bengal + Council; Supreme Court Calcutta 1774 (Impey); not GG of India |
+| Pitt's India Act | **1784** | Board of Control (political) + Court of Directors (commercial); dual control from London |
+| Charter Act | **1793** | Quiet 20-year renewal; monopoly continues; Board expenses on Indian revenue |
 | Charter Act | **1813** | Ends Company's India trade monopoly (keeps tea/China); ₹1 lakh/yr for education |
 | Charter Act | **1833** | GG of India created; Company ends ALL trade; Law Member (Macaulay) added |
-| Charter Act | **1853** | Legislative/executive functions split; open competition for civil service |
-| GOI Act | **1858** | Crown rule; Secretary of State replaces Board + Directors; GG = Viceroy |
-| Indian Councils Act | **1861** | Portfolio system; legislative power restored to Bombay/Madras |
-| Indian Councils Act | **1892** | Indirect election principle; larger councils, budget discussion |
-| Indian Councils Act | **1909** | Separate electorates for Muslims (Morley-Minto) |
-| GOI Act | **1919** | Dyarchy in provinces; bicameral centre; Chamber of Princes |
-| GOI Act | **1935** | Provincial autonomy; federation proposed but never operative |
+| Charter Act | **1853** | Proto-legislature; open ICS competition; no fixed renewal date |
+| GOI Act | **1858** | Crown rule; Secretary of State; GG = Viceroy |
+| Indian Councils Act | **1861** | Portfolio system legalised; Indian nomination begins; Bombay/Madras legislatures restored |
+| Indian Councils Act | **1892** | Budget discussion + questions; indirect election without using the word “election” |
+| Indian Councils Act | **1909** | Muslim separate electorates; Sinha on Viceroy’s EC; no dyarchy |
+| GOI Act | **1919** | Provincial dyarchy; bicameral centre; Chamber of Princes; Simon clause |
+| GOI Act | **1935** | Provincial autonomy (worked); federation + centre dyarchy (paper); Federal Court 1937; three lists |
 
 ### GG/Viceroy ↔ Act passed in his tenure
 
@@ -2458,3 +2663,7 @@ D. Lord Lansdown
 30. **Regular census 1872 = Ripon** → **1872 attempt = Mayo**; **1881 regular = Ripon**.
 31. **Vernacular Press Act = Curzon** → **Lytton 1878** (Gagging Act).
 32. **Awadh Resident at annexation = Sleeman** → **James Outram** replaced Sleeman in **1854**.
+33. **1892 began Muslim separate electorates** → **1892** is budget discussion / indirect election; separate electorates = **1909**.
+34. **1853 ended Company rule** → **1853** opens ICS competition; Company ends in **1858**.
+35. **RBI created only by GOI Act 1935** → RBI statute is **1934**; Act **provided for** a reserve bank.
+36. **Simon Commission invented in 1927 from nowhere** → it is the **ten-year statutory review** ordered by **GOI Act 1919**.
