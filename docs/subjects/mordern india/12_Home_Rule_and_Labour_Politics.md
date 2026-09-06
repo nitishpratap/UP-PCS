@@ -1573,6 +1573,30 @@ D. Joseph Baptista
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** The 1929 split and the name of the breakaway federation carry the error.
+
+**Q. UKPCS Prelims 2025, Q61**
+
+Consider the following statements:
+
+1. All India Trade Union Congress was founded in 1920.
+2. Lala Lajpat Rai was elected its first President.
+3. All India Trade Union Federation was formed by S. A. Dange in 1929.
+
+A. Only 1 and 2
+B. Only 1 and 3
+C. Only 2 and 3
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** AITUC (1920) with Lala Lajpat Rai as first president is correct. Statement 3 is wrong because the moderate group led by N. M. Joshi broke away in 1929 to form the All India Trade Union Federation.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

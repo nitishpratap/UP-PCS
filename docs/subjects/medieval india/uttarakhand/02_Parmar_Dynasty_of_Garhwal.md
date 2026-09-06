@@ -120,3 +120,33 @@ D. Narendra Shah
 2. **Srinagar = Kashmir** in a Garhwal stem → Garhwal capital.
 3. **Garhwal painting begins with Kangra only** → origin card is **1658 Tasbirdar** line.
 4. **Prithvipati Shah = Ajay Pal** → different centuries / roles.
+
+---
+
+## Fateh Shah and Guru Ram Rai
+
+- **Fateh Shah** of Garhwal invites **Guru Ram Rai** and supports the **Jhanda Sahib** darbar tradition at Dehradun.
+- Village-grant lists in coaching notes usually name **Khurbura, Rajpur, Chamasari, and Dhamawala** — not the four-name distractor set used in UKPCS 2025.
+- This card bridges Parmar Garhwal into early modern Dehradun sacred geography.
+
+**Logic:** Invitation and gurudwara support are true; the four-village list in the stem is the error.
+
+**UKPCS Prelims 2025, Q81**
+
+Consider the following statements:
+
+1. Parmar king Fateh Shah invited Guru Ram Rai to his kingdom.
+2. He welcomed the construction of a Gurudwara at Dehradun.
+3. He presented four villages — Chhayawala, Bhujanwala, Panditwari and Ghantawala — to him.
+
+A. Only 2  
+B. Only 3  
+C. 1 and 2  
+D. 2 and 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Statements 1 and 2 are correct. Statement 3 uses the wrong village set; standard lists give Khurbura, Rajpur, Chamasari and Dhamawala.
+
+</details>

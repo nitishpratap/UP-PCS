@@ -1750,6 +1750,26 @@ D. (A) is false, but (R) is true
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** All four options share the date 16 — only the month distinguishes them.
+
+**Q. UKPCS Prelims 2025, Q65**
+
+When did the Muslim League observe ‘Direct Action Day’?
+
+A. 16 October, 1946
+B. 16 August, 1946
+C. 16 December, 1946
+D. 16 November, 1946
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Direct Action Day was 16 August 1946 after rejection of the Cabinet Mission plan; it led to the Great Calcutta Killings.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

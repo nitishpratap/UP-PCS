@@ -1927,6 +1927,26 @@ D. 1876
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Asks who started reform in Bombay — the earliest body outranks the better-known later one.
+
+**Q. UKPCS Prelims 2025, Q67**
+
+The religious reforms in Bombay were started by whom?
+
+A. Prarthna Samaj
+B. Deoband School
+C. Brahmo Samaj
+D. Paramhans Mandali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Paramhans Mandali (1849) was the first organised religious reform body in Bombay. Prarthana Samaj (1867) is the frequent later confusion.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

@@ -1906,6 +1906,31 @@ D. Nana Saheb
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Nana Saheb led Kanpur, not Bareilly — drop any option that keeps statement 4.
+
+**Q. UKPCS Prelims 2025, Q72**
+
+Consider the following statements:
+
+1. Syed Ahmad Khan wrote ‘Causes of the Indian Revolt’.
+2. Mangal Pande was hanged on March 29, 1857.
+3. Hazrat Mahal led the revolt at Lucknow.
+4. Nana Saheb led the revolt at Bareilly.
+
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 2, 3 and 4
+D. Only 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Statements 1–3 are keyed correct; statement 4 is wrong because Nana Saheb led Kanpur while Khan Bahadur Khan led Bareilly. Many textbooks date Mangal Pandey’s hanging to 8 April 1857 (29 March as the Barrackpore rising day) — follow the provisional key for this paper.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

@@ -1686,6 +1686,26 @@ D. C A B D
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Places a war-years education report among earlier and later reform dates.
+
+**Q. UKPCS Prelims 2025, Q68**
+
+When was the ‘Sargeant Plan’ of education started?
+
+A. 1902
+B. 1944
+C. 1948
+D. 1856
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** The Sargeant Plan of 1944 (Central Advisory Board of Education under John Sargeant) proposed universal free and compulsory education for ages six to eleven within forty years.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

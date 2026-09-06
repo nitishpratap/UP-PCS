@@ -2167,6 +2167,26 @@ D. III, I, IV, II
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Congress leaders of 1938 — association with planning decides it.
+
+**Q. UKPCS Prelims 2025, Q74**
+
+Who was appointed the Chairman of the ‘National Planning Committee’ by the Indian National Congress in 1938?
+
+A. Sardar Vallabhbhai Patel
+B. Rajendra Prasad
+C. Jawaharlal Nehru
+D. J. B. Kripalani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Nehru chaired the National Planning Committee set up in 1938 during Subhas Chandra Bose’s Congress presidency. Patel / Prasad / Kripalani are the planted Congress distractors.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

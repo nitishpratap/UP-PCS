@@ -30,4 +30,4 @@ Shared UPPCS chapters already cover Harappa, Vedic (incl. Krishna/Shukla Yajurve
 
 ## Status
 
-Teaching chapters + UKPCS PYQ bank added for the ancient UK slice. Expand Medieval UK next for Kattyuri/Chand/Parmar depth.
+Teaching chapters + UKPCS PYQ bank added for the ancient UK slice. Medieval and Modern UK folders are live.

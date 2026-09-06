@@ -424,4 +424,6 @@
 
 ## History of Uttarakhand — Modern slice (UKPCS-only)
 
-→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+State modern block — **Gorkha · British Rule · Tehri · Freedom / 1857 · people’s movements**.
+
+→ [Uttarakhand overview](uttarakhand/index.md) · [syllabus map](uttarakhand/00_Syllabus.md) · [UKPCS Modern PYQ Bank](uttarakhand/00_UKPCS_PYQ_Bank_Modern.md)

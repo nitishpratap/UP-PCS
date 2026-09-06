@@ -1687,6 +1687,26 @@ D. Bipin Chandra
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** A British official wrote this work — not the Aligarh reformer offered as a distractor.
+
+**Q. UKPCS Prelims 2025, Q66**
+
+Who wrote the book ‘The Indian Musalmans’?
+
+A. W. W. Hunter
+B. Charles McMillan
+C. Sir Syed Ahmad Khan
+D. S. N. Roy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** William Wilson Hunter published The Indian Musalmans in 1871 on Muslims under colonial rule and the Wahabi movement.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These
