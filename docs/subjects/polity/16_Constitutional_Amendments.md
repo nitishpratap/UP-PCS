@@ -612,6 +612,46 @@ D. A-3, B-1, C-4, D-2
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** 103rd is EWS; 101st is GST.
+
+**Q. UKPCS Prelims 2025, Q118**
+
+The 101st Constitutional Amendment Act is related with
+
+A. Reservation for EWS
+B. Delimitation of Constituencies
+C. Anti-defection Law
+D. Nationwide Goods and Services Tax (GST)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** 101st Amendment (2016) introduced GST / GST Council. EWS is 103rd; anti-defection is 52nd.
+
+</details>
+
+**Logic:** 91st vs 92nd in the same year is the confusion.
+
+**Q. UKPCS Prelims 2025, Q128**
+
+The size of the Council of Ministers was fixed up to 15 per cent of the total members of the Lok Sabha by which Amendment?
+
+A. 91st Constitutional Amendment Act, 2003
+B. 92nd Constitutional Amendment Act, 2003
+C. 74th Constitutional Amendment Act, 1992
+D. 86th Constitutional Amendment Act, 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** 91st Amendment (2003) capped CoM at 15% of Lok Sabha / Assembly strength. 92nd added Eighth Schedule languages.
+
+</details>
+
+---
+
 ## Common Traps
 
 1. Basic structure = Golaknath → **Kesavananda 1973**

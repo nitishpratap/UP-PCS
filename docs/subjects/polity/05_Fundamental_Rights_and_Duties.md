@@ -2358,6 +2358,73 @@ D. To abide by the Constitution and respect its ideals
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Equality of opportunity sits in Article 16, not Article 19(1).
+
+**Q. UKPCS Prelims 2025, Q120**
+
+Which right is/are not included in the 'Right to Freedom' under Article 19(1)?
+
+1. Right of equal opportunities
+2. Right to assemble peaceably
+3. Right to practise any profession
+4. Freedom of speech and expression
+
+A. Only 1
+B. 1 and 2
+C. 1 and 3
+D. Only 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Equal opportunity in public employment is Article 16 (right to equality). Assembly, profession and speech are in Article 19(1).
+
+</details>
+
+**Logic:** Only one committee fed the 42nd Amendment duties package.
+
+**Q. UKPCS Prelims 2025, Q121**
+
+Fundamental Duties were incorporated in the Constitution on the recommendation of
+
+A. Shah Commission
+B. Administrative Reforms Commission
+C. Santhanam Committee
+D. Swaran Singh Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Swaran Singh Committee → Fundamental Duties via the 42nd Amendment (1976).
+
+</details>
+
+**Logic:** Series B keys Only 1 and 2 for this RTE stem.
+
+**Q. UKPCS Prelims 2025, Q126**
+
+With reference to the Right to Education, consider the following statements:
+
+1. It tries to achieve the aim of 'Education for all'.
+2. Earlier a provision of free and compulsory education was provided in Part IV of the Constitution.
+3. It became a Fundamental Right after the 86th Constitutional Amendment.
+
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Follow the provisional letter (Only 1 and 2) for this paper. Statement 3 is standard textbook fact via Article 21A / 86th Amendment — treat any amended key carefully if released.
+
+</details>
+
+---
+
 ## Common Traps
 
 1. Equality before law = **14**, not 12/19/21 — 2024

@@ -900,6 +900,74 @@ The **1997** Conference of Chief Ministers also floated a draft Code of Ethics, 
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Extreme options (abolish / nationalise) are distractors.
+
+**Q. UKPCS Prelims 2025, Q27**
+
+What was the key focus of the Waqf Amendment Bill introduced in April 2025?
+
+A. Privatization of Waqf properties
+B. Enhancing transparency and ensuring better governance of Waqf properties
+C. Abolishing Waqf boards
+D. Nationalization of religious institutions
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Focus was transparency and better governance of waqf properties — not abolition or nationalisation.
+
+</details>
+
+**Logic:** Untouchability enforcement ministries — Series B keys Home + Social Justice + Tribal Affairs.
+
+**Q. UKPCS Prelims 2025, Q123**
+
+Which central ministries are responsible for implementation of the Protection of Civil Rights Rules, 1977?
+
+1. Ministry of Home Affairs
+2. Ministry of Social Justice and Empowerment
+3. Ministry of Minority Affairs
+4. Ministry of Tribal Affairs
+
+A. 1 and 2
+B. 1, 2 and 3
+C. 1, 2 and 4
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Home Affairs + Social Justice and Empowerment + Tribal Affairs. Minority Affairs is the excluded ministry in this key.
+
+</details>
+
+**Logic:** Punjab early and Maharashtra later bracket the sequence used in the paper.
+
+**Q. UKPCS Prelims 2025, Q124**
+
+Arrange chronologically the enactment of the 'Right to Service Act':
+
+(i) Punjab
+(ii) Assam
+(iii) Maharashtra
+(iv) Gujarat
+
+A. (i), (ii), (iii), (iv)
+B. (ii), (i), (iv), (iii)
+C. (i), (iii), (iv), (ii)
+D. (iii), (iv), (i), (ii)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Order taken by the paper: Punjab → Assam → Maharashtra → Gujarat.
+
+</details>
+
+---
+
 ## Common Traps
 
 1. MKSS = RTE / MGNREGA → **RTI**

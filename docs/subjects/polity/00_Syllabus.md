@@ -876,6 +876,8 @@ Maintain dedicated lists for:
 
 ## Political System of Uttarakhand (UKPCS-only)
 
-→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+State polity block — Governor · CM · legislature · PSC · HC · SC/ST · funds · parties · local bodies · governance schemes.
+
+→ [Uttarakhand overview](uttarakhand/index.md) · [syllabus map](uttarakhand/00_Syllabus.md) · [UKPCS Polity PYQ Bank](uttarakhand/00_UKPCS_PYQ_Bank_Polity.md)
 
 UP Special stays in Topic 25. Do not merge UK polity into the UP chapter.

@@ -2758,6 +2758,46 @@ El Niño **tendency** ≠ guaranteed all-India drought — still the 2026 -relev
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** A = tropical, w = dry winter — western coastal strip.
+
+**Q. UKPCS Prelims 2025, Q96**
+
+According to Koppen's climatic classification, the (Amw) climate is found predominantly in which part of India?
+
+A. North-Western India
+B. Western coastal region
+C. Thar desert
+D. Northern plain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Amw marks the western coastal strip (and parts of the north-east). Thar is BWhw; northern plain largely Cwg.
+
+</details>
+
+**Logic:** Loo and Kal Baisakhi are northern — southern pre-monsoon is mango shower.
+
+**Q. UKPCS Prelims 2025, Q98**
+
+Which local wind affects some parts of Kerala and Tamil Nadu during the pre-monsoon season?
+
+A. Loo
+B. Mango Shower
+C. Kal Baisakhi
+D. Mistral
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Mango showers help ripen mangoes in Kerala and coastal Tamil Nadu.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **TN gets heavy SW monsoon rain** — FALSE. Dry in SW; **NE monsoon** Oct–Dec — 2023 Q54.

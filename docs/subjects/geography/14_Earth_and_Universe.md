@@ -2399,6 +2399,28 @@ D. All of the above
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Farthest planet among the four has the longest year.
+
+**Q. UKPCS Prelims 2025, Q95**
+
+Which planet takes the longest time completing one revolution around the sun?
+
+A. Saturn
+B. Uranus
+C. Neptune
+D. Jupiter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Neptune (~165 Earth years) outranks Uranus, Saturn and Jupiter.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **Ozone = troposphere** — FALSE. **Stratosphere**.

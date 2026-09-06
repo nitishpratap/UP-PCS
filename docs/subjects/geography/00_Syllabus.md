@@ -688,6 +688,8 @@
 
 ## Geography of Uttarakhand (UKPCS-only)
 
-→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+State geography block — location · relief · climate · drainage · vegetation · wildlife · minerals · agri · population · transport · hazards.
+
+→ [Uttarakhand overview](uttarakhand/index.md) · [syllabus map](uttarakhand/00_Syllabus.md) · [UKPCS Geography PYQ Bank](uttarakhand/00_UKPCS_PYQ_Bank_Geography.md)
 
 UP Geography stays in Topic 24. Do not merge UK facts into the UP chapter.

@@ -1914,6 +1914,46 @@ Sagarmala / Bharatmala remain living umbrella programmes; still tests **name swa
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Three eastern ports — one western settles it.
+
+**Q. UKPCS Prelims 2025, Q88**
+
+Which of the following ports is on the western coastline?
+
+A. Nhava Sheva
+B. Visakhapatnam
+C. Chennai
+D. Tuticorin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Nhava Sheva (JNPT) near Mumbai is western; the other three are eastern.
+
+</details>
+
+**Logic:** Density is route length per area — Series B keys USA among the four.
+
+**Q. UKPCS Prelims 2025, Q92**
+
+Which country has the highest density of railway network?
+
+A. Canada
+B. U.S.A.
+C. Russia
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Among the given options the provisional key marks the U.S.A. India is the frequent coaching rival on density stems — follow Series B for this paper.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **SER HQ = Cuttack** — FALSE. **Garden Reach, Kolkata**.

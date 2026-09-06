@@ -1789,6 +1789,28 @@ D. Mississippi
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Only one of the four North American rivers cut the Arizona canyon.
+
+**Q. UKPCS Prelims 2025, Q94**
+
+The Grand Canyon of the U.S.A. is formed by which river?
+
+A. St. Lawrence
+B. Missouri
+C. Ohio
+D. Colorado
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** The Colorado River cut the Grand Canyon through the Colorado Plateau.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **New Orleans = Missouri** — FALSE. **Mississippi**. Missouri joins at **St Louis**.

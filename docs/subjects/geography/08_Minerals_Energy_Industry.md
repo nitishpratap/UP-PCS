@@ -2839,6 +2839,28 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Digboi is oldest, not largest.
+
+**Q. UKPCS Prelims 2025, Q100**
+
+Which is the largest centre of the petrochemical industry in India?
+
+A. Trombay
+B. Jamnagar
+C. Digboi
+D. Vadodara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Jamnagar hosts the largest refining–petrochemical complex. Digboi is oldest but small.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **West of Mangalore–Kanpur is mineral-rich** — FALSE. Most major minerals lie **east** of the Mangaluru–Kanpur line.

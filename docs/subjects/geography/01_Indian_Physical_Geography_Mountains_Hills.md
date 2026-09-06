@@ -2564,6 +2564,46 @@ D. Gujarat
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Youth of the Shiwaliks explains unconsolidated sediment fill.
+
+**Q. UKPCS Prelims 2025, Q84**
+
+The Shiwalik range is primarily composed of which type of material?
+
+A. Igneous rocks
+B. Consolidated rocks
+C. Unconsolidated sediments
+D. Metamorphic rocks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Shiwaliks are thick unconsolidated sediments from rising Himalaya — landslide-prone and dun-forming.
+
+</details>
+
+**Logic:** Among Karakoram glaciers, relative length decides it.
+
+**Q. UKPCS Prelims 2025, Q90**
+
+Which is the largest glacier of the Trans-Himalayas?
+
+A. Biafo
+B. Siachen
+C. Baltoro
+D. Hispar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Siachen (~76 km) is the largest Trans-Himalayan / Karakoram glacier among the options.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **Lipulekh is in Ladakh** — FALSE. **Uttarakhand** (India–Nepal–China trijunction) — UPPCS 2025 Q55.

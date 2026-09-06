@@ -804,6 +804,28 @@ The **Whip** is an **extra-constitutional** party office, not found anywhere in 
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Only one of the four has a constitutional right of audience in Parliament.
+
+**Q. UKPCS Prelims 2025, Q130**
+
+Who among the following officials can be invited to give his opinion in the Parliament?
+
+A. Auditor General
+B. Attorney General
+C. Chief Justice of India
+D. Governor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Attorney General may speak in either House under Article 88 (no vote). CAG reports to Parliament but does not address it this way.
+
+</details>
+
+---
+
 ## Common Traps
 
 - **Parliament = two Houses only:+ the President** (Art. 79).

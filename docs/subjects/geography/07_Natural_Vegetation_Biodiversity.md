@@ -2335,6 +2335,55 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Three Himalayan conifers vs one tropical deciduous hardwood.
+
+**Q. UKPCS Prelims 2025, Q91**
+
+Which tree is not of the evergreen forest type?
+
+A. Deodar
+B. Silver fir
+C. Sal
+D. Blue pine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Sal is tropical moist deciduous; the three conifers are evergreen.
+
+</details>
+
+**Logic:** Kanha–Madhya Pradesh anchors the match code.
+
+**Q. UKPCS Prelims 2025, Q99**
+
+Match national parks with states:
+
+| National Park | State |
+| --- | --- |
+| A. Simlipal | 1. Karnataka |
+| B. Indravati | 2. Madhya Pradesh |
+| C. Kanha | 3. Chhattisgarh |
+| D. Bandipur | 4. Odisha |
+
+*Row order is not the answer code.*
+
+A. A-4, B-3, C-2, D-1
+B. A-2, B-4, C-1, D-3
+C. A-3, B-2, C-4, D-1
+D. A-1, B-3, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Simlipal–Odisha; Indravati–Chhattisgarh; Kanha–MP; Bandipur–Karnataka.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **Simlipal = Madhya Pradesh** — FALSE. **Odisha**.

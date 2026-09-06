@@ -2573,6 +2573,28 @@ None mandatory. 12 / 24 / 200 nm are static.
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Mainland excludes islands — southern limit is Kanyakumari, not Indira Point.
+
+**Q. UKPCS Prelims 2025, Q89**
+
+What is the correct latitudinal extent of the mainland of India?
+
+A. 6 degrees 45' N to 37 degrees 6' N
+B. 6 degrees 4' N to 36 degrees 7' N
+C. 8 degrees 4' N to 36 degrees 12' N
+D. 8 degrees 4' N to 37 degrees 6' N
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Mainland: 8°4'N to 37°6'N. 6°4'N is Indira Point (islands).
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **EEZ = 12 nm** — FALSE. Territorial **12**; EEZ **200**.

@@ -586,6 +586,28 @@ D. 1, 4, 3, 2
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** VP college excludes state legislatures — unlike the President’s election.
+
+**Q. UKPCS Prelims 2025, Q116**
+
+Who participates in the election of the Vice-President of India?
+
+A. All the members of both Houses of Parliament
+B. Members of Parliament and State Legislatures
+C. Members of Rajya Sabha only
+D. Members of Lok Sabha only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Both Houses of Parliament (including nominated members). State Assemblies vote only for the President.
+
+</details>
+
+---
+
 ## Common Traps
 
 | Trap | Correct |
