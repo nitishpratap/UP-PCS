@@ -7,26 +7,29 @@ hide:
 
 UKPCS Unit 1 state block for the **early** period. National Ancient notes remain shared with UPPCS.
 
-**Fill order:** paste teaching dumps / PYQs → add numbered topic files here → list them in `.pages`.
-
 <div class="study-grid" markdown>
 
 [**Syllabus map**
-<span>Pre-historic → Proto-historic → tribes → Kuninda / Yaudheya → Kartikepur.</span>](00_Syllabus.md){ .study-card }
+<span>Pre/proto historic · tribes · Kuninda/Yaudheya · Kartikepur.</span>](00_Syllabus.md){ .study-card }
+
+[**UKPCS Ancient PYQ Bank**
+<span>2025 keyed stems + 2016 Kuninda + coverage checklist.</span>](00_UKPCS_PYQ_Bank_Ancient.md){ .study-card }
+
+[**Topic 1 — Pre / Proto historic**
+<span>Lakhu Udyar · Malari · Bankot copper.</span>](01_Prehistoric_and_Protohistoric_Uttarakhand.md){ .study-card }
+
+[**Topic 2 — Ancient tribes**
+<span>Kirata · Khasa · how UKPCS frames tribes.</span>](02_Ancient_Tribes_of_Uttarakhand.md){ .study-card }
+
+[**Topic 3 — Kuninda & Yaudheya**
+<span>First coin polities · 2016 + 2025 PYQs.</span>](03_Kuninda_and_Yaudheya.md){ .study-card }
+
+[**Topic 4 — Kartikepur**
+<span>Baijnath capital · Brahmapura trap.</span>](04_Kartikepur_Dynasty.md){ .study-card }
 
 [**UKPCS desk**
-<span>Full paper Units 1–6 and folder map.</span>](../../../ukpcs/index.md){ .study-card }
+<span>Full paper Units 1–6.</span>](../../../ukpcs/index.md){ .study-card }
 
 </div>
 
-## Planned topic files
-
-| # | Working title | Syllabus head |
-|---|---------------|---------------|
-| 01 | Pre-historic Uttarakhand | Pre-historic Period |
-| 02 | Proto-historic Uttarakhand | Proto-historic period |
-| 03 | Ancient tribes of Uttarakhand | Ancient tribes |
-| 04 | Kuninda and Yaudheya | Kuninda and Yaudheya |
-| 05 | Kartikepur dynasty | Kartikepur dynasty |
-
-> **UKPCS 2025 PYQs:** state-referenced questions from GS Paper I are collected in the [UKPCS Prelims 2025 Complete Bank](../../../ukpcs/pyqs/2025_GS_I_Complete_Bank.md).
+> **UKPCS 2025 PYQs:** also in the [year Complete Bank](../../../ukpcs/pyqs/2025_GS_I_Complete_Bank.md).

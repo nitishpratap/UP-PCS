@@ -326,4 +326,7 @@ Repeated UPSC/UPPCS hits that sit *inside* the topic files (not extra chapters):
 
 ## History of Uttarakhand — Ancient slice (UKPCS-only)
 
-→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md) · [UKPCS Ancient PYQ Bank](uttarakhand/00_UKPCS_PYQ_Bank_Ancient.md)
+
+Teaching files: Pre/Proto historic · Ancient tribes · Kuninda & Yaudheya · Kartikepur.  
+National UKPCS 2025 hits planted in Vedic (Q62) and Mauryan (Q63–Q64).

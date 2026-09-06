@@ -8,7 +8,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 </details>
 
-> **Sources baked in:** Ashokan epigraphy, Arthashastra, Megasthenes/Strabo, Puranas, UPPCS Prelims 2018–2025
+> **Sources baked in:** Ashokan epigraphy, Arthashastra, Megasthenes/Strabo, Puranas, UPPCS Prelims 2018–2025, UKPCS Prelims 2025 (Palibothra; Mansehra–Shahbazgarhi)
 > **Weight:** ★★★ — RE XII (2022), Agronomai (2020), Dhamma-mahamatras (2024), Vishnu Purana (2023)
 > **Last verified:** August 2026
 > **Current Affairs:** N/A — static
@@ -1543,10 +1543,51 @@ D. Revenue management
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Greek spelling of the Mauryan capital; Purushapura is the Peshawar distractor.
+
+**Q5. UKPCS Prelims 2025, Q63**
+
+Which ancient city was named ‘Palibothra’ in the Greek texts?
+
+A. Purushpur
+B. Patan
+C. Ahichhatrapur
+D. Pataliputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Greek writers call Pataliputra **Palibothra**. Purushapura is Peshawar.
+
+</details>
+
+**Logic:** Default Ashokan package is Prakrit + Brahmi; NW exceptions use Kharoshthi.
+
+**Q6. UKPCS Prelims 2025, Q64**
+
+Consider the following statements with reference to the inscriptions of Ashoka:
+
+1. Most of the inscriptions are in the Prakrit language and Brahmi script.
+2. The inscriptions found at Mansehra and Shahbazgarhi are in the Prakrit language and Kharoshthi script.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Statement 1 is the general rule. Statement 2 is the north-western exception pair.
+
+</details>
+
 ### Years with zero extra hits in local `pyq/`
 
-**2025, 2021, 2019, 2018** — no further GS-I Mauryan/edict/Arthashastra hit after keyword search.
-**Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. 2025 Q105 Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**.
+**2021, 2019, 2018** — no further GS-I Mauryan/edict/Arthashastra hit after keyword search (UPPCS). UKPCS 2025 adds Palibothra + Mansehra/Shahbazgarhi above.
+**Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. UPPCS 2025 Q105 Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**.
 
 ---
 

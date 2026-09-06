@@ -8,7 +8,7 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History* I, RS Sharma, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History* I, RS Sharma, UPPCS Prelims PYQs 2018–2025, UKPCS Prelims 2025 (Yajurveda Krishna/Shukla)
 > **Weight:** ★★★ — Rigvedic vs Later Vedic, assemblies, officials, Yajurveda schools
 > **Last verified:** August 2026
 > **Current Affairs:** N/A — purely historical; no scheme/report/appointment surface
@@ -1595,6 +1595,26 @@ D. Kathak
 
 **Ans: A** — Vajasaneyi (paper spelling Vajasanami).
 **B/C/D** = Krishna (Black) Yajurveda Samhitas. **Krishna** = Black school, not the deity.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Same Krishna/Shukla split as UPPCS 2018, but the stem asks for the **Veda**, not the Samhita name.
+
+**Q4. UKPCS Prelims 2025, Q62**
+
+Which of the following Vedas is divided into two branches as Krishna and Shukla?
+
+A. Rig Veda
+B. Sama Veda
+C. Yajur Veda
+D. Atharva Veda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Only the Yajurveda has Krishna (Black) and Shukla (White) branches. Krishna mixes mantra with prose; Shukla keeps them apart.
 
 </details>
 
