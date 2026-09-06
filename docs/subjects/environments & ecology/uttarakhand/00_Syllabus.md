@@ -2,14 +2,23 @@
 
 **Exam track:** UKPCS Unit 5 — Natural Resources of Uttarakhand and climate contribution.  
 **Parent subject:** [Environment & Ecology](../00_Syllabus.md)  
-**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md)
+**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md)  
+**PYQ drill:** [UKPCS Environment PYQ Bank](00_UKPCS_PYQ_Bank_Environment.md)
 
 ## Heads stored in this folder
 
-- Natural Resources of Uttarakhand and their contribution to National and International Climate change, etc.
-- State biodiversity / protected-area hooks when building notes
-- Cross-links to Geography UK (wildlife, hazards) and Science & Technology UK folder when needed
+| # | Topic file | Syllabus / coverage |
+|---|------------|---------------------|
+| 01 | [Natural Resources & Climate Contribution](01_Natural_Resources_and_Climate_Contribution.md) | Natural resources; Chipko; FSI/FRI/WII; Himalayan Mission |
+| 02 | [Biodiversity & Protected Areas](02_Biodiversity_and_Protected_Areas.md) | State biodiversity / parks / sanctuaries |
+| 03 | [Climate Vulnerability & Governance](03_Climate_Vulnerability_and_Governance.md) | Vulnerability; SCCC; UAPCC; climate contribution |
+
+Cross-links: [Geography — Uttarakhand](../../geography/uttarakhand/00_Syllabus.md) · [Science & Technology — Uttarakhand](../../science%20and%20technology/uttarakhand/index.md)
+
+## National Environment (shared)
+
+Biodiversity, climate, COP/GEF, pollution, laws — parent Topics 1–45. UKPCS 2025 national stems are listed in the [Environment PYQ Bank](00_UKPCS_PYQ_Bank_Environment.md).
 
 ## Status
 
-First teaching chapter live: **01 — Natural Resources & Climate Contribution**. Biodiversity/protected areas and hazard deep-dive still planned.
+All three UK Environment teaching chapters are live.

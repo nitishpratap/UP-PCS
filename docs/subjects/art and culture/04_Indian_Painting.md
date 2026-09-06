@@ -1598,6 +1598,31 @@ D. Marble curving
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Both the 1658 arrival and the Tasbirdar title must be true.
+
+**Q. UKPCS Prelims 2025, Q85**
+
+Consider the following statements about the 'Garhwal painting' style:
+
+1. Shyamdas and Hardas came to Srinagar in May 1658 in the court of Prithivipati Shah.
+2. They got the post of 'Tasbirdaar' in the court of the art-loving Garhwal kings.
+
+A. Only 1
+B. Only 2
+C. 1 and 2
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Both statements are correct. The Garhwal Pahari line later includes Mola Ram. Full UK card: Art & Culture `uttarakhand/` Topic 3.
+
+</details>
+
+---
+
 ## Common Traps
 
 1. **Bhimbetka** is **MP** prehistoric rock art (Wakankar **1957**), **not** Ajanta fresco.

@@ -781,6 +781,77 @@ D. Gujarat
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Baku for COP29 anchors the match code.
+
+**Q. UKPCS Prelims 2025, Q148**
+
+Match the COP session to its location:
+
+| COP session | Location |
+| --- | --- |
+| 1. COP 27 | A. Belem |
+| 2. COP 28 | B. Baku |
+| 3. COP 29 | C. Dubai |
+| 4. COP 30 | D. Sharm El-Sheikh |
+
+*Row order is not the answer code.*
+
+A. 1-A, 2-B, 3-C, 4-D
+B. 1-B, 2-C, 3-D, 4-A
+C. 1-C, 2-D, 3-A, 4-B
+D. 1-D, 2-C, 3-B, 4-A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** COP27 Sharm El-Sheikh; COP28 Dubai; COP29 Baku; COP30 Belem.
+
+</details>
+
+**Logic:** All three GEF statements are standard — partial option is the trap.
+
+**Q. UKPCS Prelims 2025, Q149**
+
+With reference to the Global Environment Facility, consider the following statements:
+
+1. The pilot GEF was agreed to be set up in 1990.
+2. UNDP, UNEP and the World Bank were the initial partners.
+3. India is both a donor and a recipient of GEF.
+
+A. Only 2 and 3
+B. 2 and 3
+C. 1 and 2
+D. All of the above statements
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Pilot agreed 1990; UNDP–UNEP–World Bank partners; India is both donor and recipient.
+
+</details>
+
+**Logic:** Among env/heritage options, the ILO labour convention is the odd one India has not ratified.
+
+**Q. UKPCS Prelims 2025, Q117**
+
+As on April 2025, India is not a party to which of the following?
+
+A. CITES
+B. World Heritage Convention
+C. Occupational Safety and Health Convention
+D. International Whaling Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** India has not ratified the ILO Occupational Safety and Health Convention (1981). It is party to CITES and the World Heritage Convention and a member of the IWC.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |

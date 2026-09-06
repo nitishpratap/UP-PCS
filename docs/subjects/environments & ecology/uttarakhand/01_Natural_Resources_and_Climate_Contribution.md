@@ -220,4 +220,7 @@ D. Roads
 - Dehradun research institutes detail → Topic 28
 - Literature (Fukuoka, Silent Spring) → Topic 30
 - Environmental days → Topic 31
+- UK biodiversity / parks PYQs → [Topic 2](02_Biodiversity_and_Protected_Areas.md)
+- UK climate vulnerability / SCCC → [Topic 3](03_Climate_Vulnerability_and_Governance.md)
 - Geography UK (relief, drainage, hazards) → Geography `uttarakhand/` folder
+- Dual-exam drill → [UKPCS Environment PYQ Bank](00_UKPCS_PYQ_Bank_Environment.md)

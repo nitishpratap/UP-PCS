@@ -987,6 +987,46 @@ D. Sudha Murthy
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Field of the award — social work vs folk music.
+
+**Q. UKPCS Prelims 2025, Q53**
+
+Who among the following received the Padma Shri Award in 2025 for social work from Uttarakhand?
+
+A. Dr. Yashwant Singh Katoch
+B. Dr. Madhuri Barthwal
+C. Smt. Radha Bahin Bhatt
+D. Shri Hugh and Colleen Gantzer (posthumously)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Radha Bahin Bhatt (Lakshmi Ashram, Kausani) — social work. Madhuri Barthwal is the folk-music distractor.
+
+</details>
+
+**Logic:** Cuisine / food-history author — Series B keys option C as not his.
+
+**Q. UKPCS Prelims 2025, Q49**
+
+Which one of the following books is NOT written by Pushpesh Pant, a noted author of Uttarakhand?
+
+A. From the King's Table to Street Food
+B. Victory Mantra: The Leader's Path to Success
+C. Himalaya Ke Barf
+D. Lazzatnama
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Keyed title not by him is **Himalaya Ke Barf**. Follow Series B letter for this paper.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 - SNA is **1952**. Sahitya and Lalit Kala are **1954**.

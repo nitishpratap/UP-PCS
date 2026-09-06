@@ -1136,6 +1136,50 @@ D. Thar Desert
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Statement 3 denies co-extinction — that is the planted error.
+
+**Q. UKPCS Prelims 2025, Q33**
+
+Which of the following statements about causes of biodiversity loss is/are correct?
+
+1. Habitat loss and fragmentation are the most important cause driving animals and plants to extinction.
+2. Human activities lead to over-exploitation of natural resources.
+3. When a species becomes extinct, the plant and animal species associated with it do not become extinct.
+
+A. Only 3
+B. Only 1
+C. Both 1 and 2
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Statements 1 and 2 are correct. Statement 3 is wrong because associated species can disappear with their host (co-extinction).
+
+</details>
+
+**Logic:** Tansley and Darwin belong to other concepts.
+
+**Q. UKPCS Prelims 2025, Q97**
+
+The word bio-diversity was coined by
+
+A. W. G. Rosen
+B. Tansley
+C. Darwin
+D. David
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Walter G. Rosen coined biodiversity in 1985. Tansley = ecosystem; Darwin = natural selection.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |

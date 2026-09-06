@@ -638,4 +638,6 @@
 
 ## Natural Resources of Uttarakhand (UKPCS-only)
 
-→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+State environment block — natural resources · biodiversity / protected areas · climate contribution & vulnerability governance.
+
+→ [Uttarakhand overview](uttarakhand/index.md) · [syllabus map](uttarakhand/00_Syllabus.md) · [UKPCS Environment PYQ Bank](uttarakhand/00_UKPCS_PYQ_Bank_Environment.md)

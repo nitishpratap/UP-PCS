@@ -1072,6 +1072,33 @@ D. Marakesh (Morocco)
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Kaziranga and Mountain Railways are WHS sites outside Uttarakhand.
+
+**Q. UKPCS Prelims 2025, Q52**
+
+Which of the following UNESCO World Heritage Sites is/are located in Uttarakhand?
+
+A. Valley of Flowers
+B. Kaziranga National Park
+C. Mountain Railways of India
+D. Nanda Devi National Park
+
+A. A only
+B. A and B only
+C. A, B and C only
+D. A and D only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Valley of Flowers and Nanda Devi form one WHS property in Uttarakhand. Kaziranga is in Assam; Mountain Railways are not in UK.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 - India WHS is **45**, not 43. UP is **4**, not 3. Add **Sarnath 2026**.

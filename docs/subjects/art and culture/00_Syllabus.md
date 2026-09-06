@@ -244,4 +244,6 @@
 
 ## Culture of Uttarakhand (UKPCS-only)
 
-→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+State culture block — folk culture · dances / music / fairs · heritage · institutes.
+
+→ [Uttarakhand overview](uttarakhand/index.md) · [syllabus map](uttarakhand/00_Syllabus.md) · [UKPCS Art & Culture PYQ Bank](uttarakhand/00_UKPCS_PYQ_Bank_Art_Culture.md)

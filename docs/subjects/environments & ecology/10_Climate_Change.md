@@ -830,6 +830,28 @@ D. Weather forecasting
 
 ---
 
+### UKPCS Prelims 2025
+
+**Logic:** Glasgow venue points straight to the climate package.
+
+**Q. UKPCS Prelims 2025, Q115**
+
+The 'Panchamrit' targets announced by Prime Minister Modi in Glasgow are related with
+
+A. Science and technology
+B. Foreign policy
+C. Climate change
+D. Investment plans in other countries
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Panchamrit is the five climate commitments at COP26 Glasgow (2021), including 500 GW non-fossil by 2030 and net zero by 2070.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 | Trap | Correct fact |
