@@ -8,9 +8,9 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 
 </details>
 
-> **Sources baked in:** Spectrum, NCERT Themes III, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** Spectrum, NCERT Themes III, UPPCS Prelims PYQs 2018–2025, Ghatnachakra GG/Viceroy bank
 > **Weight:** ★★★ — GG/Viceroy ↔ reform matching, associated wars, Act ↔ provision matching, title traps (GG vs Viceroy)
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -24,22 +24,22 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 5. The **Charter Act, 1813** ended the Company’s trade monopoly in India (kept tea/China) and set aside **₹1 lakh a year** for education. The **Charter Act, 1853** implemented **open competition** for the civil service.
 6. The **Indian Councils Act, 1861** gave legal recognition to the **portfolio system**. The **1909** Act (Morley–Minto) began **Muslim separate electorates**.
 7. The **Government of India Act, 1919** introduced **dyarchy in the provinces**, a bicameral centre, and the **Chamber of Princes**. The **1935** Act introduced **provincial autonomy**; the proposed federation **never operated**.
-8. **Warren Hastings** ended Dual Government in **1772**, faced Banaras **1781**, and saw the Asiatic Society era (**1784**). **Sir William Jones** founded the Society; Hastings declined the chair.
-9. **Cornwallis** introduced the **Permanent Settlement of 1793** in Bengal, Bihar and Orissa and led the **Third Anglo-Mysore War** to the **Treaty of Seringapatam, 1792**.
-10. **Wellesley** launched the **Subsidiary Alliance** from **1798** (first **Hyderabad**). **Dalhousie** used the **Doctrine of Lapse**, pushed railways, and hosted **Wood’s Despatch, 1854**.
-11. **Bentinck** abolished **Sati in 1829**. **Macaulay’s Minute (1835)** set English for higher education. **Metcalfe** is the **“Liberator of the Press” (1835)**.
-12. **Lytton** passed the **Vernacular Press Act, 1878** and followed **Proud Reserve** on Afghanistan. **Ripon** repealed that Press Act, pushed **local self-government (1882)**, and faced the **Ilbert Bill (1883)**.
-13. **Dufferin** saw the founding of the **INC in 1885** and called it a **“microscopic minority.”Curzon** partitioned Bengal on **16 October 1905**.
+8. **Warren Hastings** ended Dual Government in **1772**, moved the treasury to Calcutta, faced Banaras **1781**, and saw the Asiatic Society (**15 Jan 1784**). **Sir William Jones** founded the Society; Hastings declined the chair. **Ring Fence** belongs with Hastings–Wellesley.
+9. **Cornwallis** introduced the **Permanent Settlement of 1793**, the **Cornwallis Code**, the **Daroga** police system, and the covenanted ICS line; he died at **Ghazipur (UP)** in **1805**. He led the **Third Anglo-Mysore War** to the **Treaty of Seringapatam, 1792**.
+10. **Wellesley** finished the **Subsidiary Alliance** from **1798** (first **Hyderabad**; first Maratha **Bajirao II** via **Bassein 1802**). **Dalhousie** used the **Doctrine of Lapse** (Satara first, **1848**), pushed railways (**Bombay–Thane 1853**, GIPR), and hosted **Wood’s Despatch, 1854**.
+11. **Bentinck** abolished **Sati in 1829** and used Sleeman against Thugs. **Macaulay’s Minute (1835)** set English for higher education. **Metcalfe** is the **“Liberator of the Press” (1835)**. **Ellenborough** abolished slavery by **Act V, 1843** and annexed Sindh.
+12. **Lytton** passed the **Vernacular Press Act, 1878** (Gagging Act) and followed **Proud Reserve** on Afghanistan. **Ripon** repealed that Press Act, pushed **local self-government (1882)**, the **First Factory Act (1881)**, and faced the **Ilbert Bill (1883)**.
+13. **Dufferin** saw the founding of the **INC in 1885** and called it a **“microscopic minority.”** **Curzon** partitioned Bengal on **16 October 1905**, passed the **Ancient Monuments Act 1904**, and centralised the ASI under **John Marshall**.
 14. **Hardinge II** moved the capital to **Delhi in 1911** and annulled the Partition. **Chelmsford** is tagged to the **GOI Act 1919**.
 15. **Linlithgow** issued the **August Offer (1940)**. **Wavell** offered the **Wavell Plan (1945)**. **Mountbatten** announced the **3 June Plan (1947)**.
 16. **Lord Hastings** (1813–23) fought Nepal and the Third Maratha War. Do **not** confuse him with **Warren Hastings**.
 17. **Lawrence** followed **Masterly Inactivity** on Afghanistan. **Lytton’s** line was **Proud Reserve** — opposite Afghan postures.
-18. **Mayo** was assassinated at the Andamans (**1872**). **Northbrook** resigned over Afghan-policy disagreement.
-19. **Lansdowne** is locked to the **Age of Consent Act, 1891** and the **Indian Councils Act, 1892**. **Irwin** is locked to Dandi and the **Gandhi–Irwin Pact (1931)**.
-20. **Reading** faced Chauri Chaura and the Swaraj Party years. **Willingdon** saw the **GOI Act 1935** passed; **Linlithgow** was the longest-serving Viceroy of the late phase.
+18. **Mayo** ran the first census attempt (**1872**), began **financial decentralisation (1870)**, and was assassinated at the Andamans. Regular census **1881** = **Ripon**. **Northbrook** resigned over Afghan-policy disagreement.
+19. **Lansdowne** is tagged to the **Age of Consent Act, 1891** and the **Indian Councils Act, 1892**. **Irwin** is tagged to Dandi and the **Gandhi–Irwin Pact (1931)**.
+20. **Reading** (only Jewish Viceroy) faced Chauri Chaura and the Swaraj Party years. **Willingdon** saw the **GOI Act 1935** passed; **Linlithgow** was the longest-serving Viceroy of the late phase.
 21. Match fact: **Dalhousie — Doctrine of Lapse**; **Curzon — Partition of Bengal**; **Bentinck — abolition of Sati**; **Cornwallis — Permanent Settlement**.
 22. War tags: **Cornwallis — Third Mysore**; **Wellesley — Fourth Mysore / Second Maratha**; **Amherst — First Burma**; **Auckland — First Afghan**; **Ellenborough — Sindh**; **Hardinge I — First Sikh**; **Dalhousie — Second Sikh**.
-23. UP Focus: the **Queen’s Proclamation** was read at **Allahabad on 1 November 1858** under Canning. **Chait Singh / Banaras** belongs to **Warren Hastings, 1781**. **Awadh annexation 1856** is Dalhousie’s misrule case.
+23. UP Focus: the **Queen’s Proclamation** was read at **Allahabad on 1 November 1858** under Canning. **Chait Singh / Banaras** belongs to **Warren Hastings, 1781**. **Cornwallis’s tomb** is at **Ghazipur**. **Awadh annexation 1856** is Dalhousie’s misrule case (**Outram’s report**).
 24. **Sir John Shore** stands for non-intervention and no new war. **Wellesley** stands for Subsidiary Alliance and expansion — opposite styles.
 25. The office ladder is four shapes: Company Governors of Bengal (to 1773) → GG of Bengal (**1773**) → GG of India (**1833**) → Viceroy (**1858**). Hastings is never a Viceroy; Canning is never a mere GG of Bengal.
 26. Under **1833** a **Law Member** was added to the Council (**Macaulay**). Under **1858** a **Secretary of State** replaced the Board of Control and Court of Directors in London.
@@ -56,6 +56,9 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Charter Act 1813 | Charter Act 1833 | Ends Company's trade monopoly (kept tea/China) vs ends ALL Company trade, creates GG of India | चार्टर एक्ट 1813 / 1833 |
 | Cornwallis | Bentinck | Permanent Settlement 1793 vs abolition of Sati 1829 | कॉर्नवालिस / बेंटिंक |
 | Wellesley | Dalhousie | Subsidiary Alliance 1798 vs Doctrine of Lapse from 1848 | वेलेज़ली / डलहौज़ी |
+| Ring Fence | Subsidiary Alliance | Hastings–Wellesley buffer / Security Cell vs Wellesley's finished alliance tool | रिंग फेंस / सहायक संधि |
+| Clive Dual Govt | Hastings Dual Govt end | Enforced 1765 vs abolished 1772 | क्लाइव / हेस्टिंग्स |
+| Mayo census 1872 | Ripon census 1881 | First attempt vs first regular decennial census | मेयो / रिपन |
 | GOI Act 1858 | Indian Councils Act 1861 | Ends Company rule, creates Viceroy vs adds the portfolio system | 1858 / 1861 |
 | Lytton | Ripon | Vernacular Press Act 1878 vs Ilbert Bill 1883 (Ripon repealed the Press Act) | लिटन / रिपन |
 | Dufferin | Curzon | "Microscopic minority" vs Partition of Bengal 1905 | डफ़रिन / कर्जन |
@@ -88,11 +91,21 @@ Do not memorise 30-odd names as a flat list. The office itself changed **shape**
 | **Viceroy** | **1858–1947** | GOI Act 1858 ends Company rule after the 1857 Revolt; the Crown rules directly; the same person now holds both titles, Viceroy (Crown's representative) and Governor-General (head of administration) | **Canning** |
 | **Late Viceroys / transfer of power** | **1936–1947** | Provincial autonomy, war-time politics, and constitutional missions run down to Partition and Independence | Linlithgow → Wavell → **Mountbatten** |
 
+### British policy towards Indian states (PSC ladder)
+
+| # | Years | Policy name |
+|---|-------|-------------|
+| 1 | **1740–65** | Company's struggle for equality with Indian powers |
+| 2 | **1765–1813** | **Ring Fence / Security Cell** (buffer logic; Hastings and Wellesley) |
+| 3 | **1813–57** | **Subordinate Isolation** |
+| 4 | **1858–1935** | **Subordinate Union** |
+| 5 | **1935–47** | **Equal Federation** (federation idea under GOI Act 1935) |
+
 - The **richest single trap** across the whole topic is mixing up these four labels. Hastings is never a Viceroy. Canning is never a mere "GG of Bengal." Bentinck is the hinge year, **1833**.
 - Acts did two different jobs. Some **created or reshaped the office** (1773, 1784, 1833, 1858). Others **reshaped who could legislate or vote** (1861, 1892, 1909, 1919, 1935). Keep these two families apart in your head.
 - The **Governor-General of India remained in place after 1858 too** — the same man was simply also called Viceroy. The title never disappeared; it merged with "Viceroy."
 
-> ** note:** If a question asks for the "first Governor-General," check whether it means of **Bengal** (Hastings, 1773) or of **India** (Bentinck, 1833). If it asks for the first **Viceroy**, the answer is always **Canning, 1858**.
+> **Logic:** If a question asks for the "first Governor-General," check whether it means of **Bengal** (Hastings, 1773) or of **India** (Bentinck, 1833). If it asks for the first **Viceroy**, the answer is always **Canning, 1858**. Ring Fence ≠ Subsidiary Alliance ≠ Doctrine of Lapse.
 
 ---
 
@@ -115,10 +128,12 @@ Do not memorise 30-odd names as a flat list. The office itself changed **shape**
 These names belong mainly to Topic 2's Bengal-conquest story. Here they are tagged only as the **office predecessors** of the Governor-General.
 
 - **Robert Clive** governed Bengal in **1758–60** and again in **1765–67**. His second term produced the **Treaty of Allahabad (1765)** and the start of **Dual Government**.
+- On the **civilian** side he banned gifts to officials and private trade by Company servants. On the **military** side he ended the double **batta** (extra allowance); from **1766** the allowance was kept only for troops serving **outside** Bengal and Bihar.
+- He is often called the **founder of the British Empire in India** after Plassey and Diwani, but he was **never** Governor-General of Bengal — that title begins with Hastings under the Regulating Act.
 - **Verelst** and **Cartier** governed Bengal while Dual Government continued, including the **Bengal Famine of 1770**.
 - None of these men held the legal title **"Governor-General."** That title starts only with the **Regulating Act of 1773**.
 
-> ** note:** Full Plassey–Buxar–Diwani detail is Topic 2's territory. This card exists only so that Hastings' "first Governor-General" tag makes sense against what came before him.
+> **Logic:** Dual Government was **enforced by Clive (1765)** and **abolished by Warren Hastings (1772)**. Full Plassey–Buxar–Diwani detail sits in Topic 2.
 
 ---
 
@@ -140,17 +155,19 @@ British Parliament's **first serious attempt** to regulate Company rule in India
 
 **First Governor-General of Bengal** (Regulating Act 1773). Governor of Bengal from **1772**.
 
-- He ended **Dual Government in 1772**. The Company took direct revenue and civil charge.
+- On the Court of Directors' order he ended **Dual Government in 1772**. The Company took direct Diwani charge; deputy Diwans **Muhammad Reza Khan** and **Raja Shitab Rai** were dismissed.
+- He moved the **state treasury from Murshidabad to Calcutta**.
+- He started hierarchical **Diwani and Faujdari** courts; Cornwallis later made the system more rigid.
+- He and Wellesley are linked with the **Ring Fence / Security Cell** policy — protect Company territory by buffering neighbours (notably Awadh) rather than open annexation everywhere.
 - He fought the **Rohilla War in 1774**.
 - The **First Anglo-Maratha War** ended with the **Treaty of Salbai, 1782**.
-- The **Banaras / Chait Singh** clash belongs to **1781**.
-- The **Asiatic Society of Bengal** was founded in **1784**.
-- **Sir William Jones** was founder-president. Hastings **declined** the chair (**2021 Q40**, **2019 Q22**).
-- He was impeached in Britain by **Edmund Burke** from **1788 to 1795**. He was **acquitted**.
+- The **Banaras / Chait Singh** clash belongs to **1781** (Hastings fled to **Chunar**).
+- The **Asiatic Society of Bengal** was founded on **15 January 1784**. **Sir William Jones** was founder-president. Hastings **declined** the chair.
+- Impeachment proceedings ran in Britain from **1788 to 1795** (charges pressed by **Edmund Burke**); he was **acquitted** in light of his service.
 - His rival in Council was **Philip Francis**.
 - He did **not** invent the Subsidiary Alliance.
 
-> ** note:Warren ≠ Lord Hastings (1813–23).** Jones founded the Society, not Hastings.
+> **Logic:** Warren ≠ **Lord Hastings** (1813–23). Jones founded the Asiatic Society, not Hastings. Ring Fence is Hastings–Wellesley; Subsidiary Alliance as a finished tool is Wellesley.
 
 **PYQ — UPPCS Prelims 2021, Q40**
 
@@ -206,13 +223,16 @@ Named for British Prime Minister **William Pitt the Younger**. It fixed the prob
 
 ## 3.6 Lord Cornwallis (1786–1793; short second term 1805)
 
-- He introduced the **Permanent Settlement of 1793** in **Bengal, Bihar and Orissa**. Zamindars were treated as proprietors. Madras was **not** under this settlement. This is the **2025 Q40** pair.
-- The **Cornwallis Code of 1793** separated revenue collection from the judiciary.
-- Higher posts in the covenanted civil service were kept for **Europeans only**.
+- He introduced the **Permanent Settlement of 1793** in **Bengal, Bihar and Orissa**. Zamindars were treated as proprietors. Madras was **not** under this settlement.
+- The **Cornwallis Code of 1793** collected his judicial reforms and rested on **separation of powers**: revenue work was split from judicial work.
+- In **1787** the District Collector briefly held Diwani-judge powers and some Faujdari powers. In **1790–92** Indian-staffed district Faujdari courts were replaced by **four Circuit Courts** (three for Bengal, one for Bihar) under European judges, with Indian kazis and muftis assisting.
+- Under the Code, the Collector lost judicial and police powers and kept **taxation only**. District Judges took civil, criminal and police work in a new hierarchy.
+- He is credited with founding the **covenanted Indian Civil Service** (Public Services) on European lines; higher covenanted posts stayed **Europeans only**.
+- In **1793** he separated landlords from police duties, set up thanas roughly every twenty to thirty square miles, and appointed the **Daroga** under the Magistrate — often remembered as the local face of Company authority.
 - He personally led the **Third Anglo-Mysore War**, which ended with the **Treaty of Seringapatam, 1792**.
-- He returned for a short second term in **1805** and died at **Ghazipur** the same year.
+- He returned for a short second term from **30 July to 5 October 1805** and died at **Ghazipur (Uttar Pradesh)**; his tomb is still there.
 
-> ** note:** Permanent Settlement is Cornwallis. Abolition of Sati is **Bentinck, 1829**.
+> **Logic:** Permanent Settlement and Cornwallis Code = **Cornwallis**. Abolition of Sati = **Bentinck, 1829**. Tomb at Ghazipur is a UP-facing fact.
 
 ---
 
@@ -240,14 +260,16 @@ Named for British Prime Minister **William Pitt the Younger**. It fixed the prob
 
 ## 3.9 Lord Wellesley (1798–1805)
 
-- He introduced the **Subsidiary Alliance from 1798**. The **first** state to accept it was the **Nizam of Hyderabad**.
-- The ruler kept internal administration but lost control of war, peace and other Europeans. He paid a **subsidy** and accepted a **British Resident**.
+- He gave **Subsidiary Alliance** its finished shape from **1798**. He did **not** invent the idea: **Dupleix** had first lent European troops to an Indian ruler for fixed payment, and the Company used an early form with **Awadh in 1765**.
+- The **first state to accept Wellesley's evolved version** was the **Nizam of Hyderabad (1798; renewed 1800)**. Sequence after that: **Mysore (1799)**, **Tanjore (1799)**, **Awadh (1801)**, **Peshwa (Dec 1802)**, **Bhonsle of Berar (1803)**, **Sindhia (1804)**, then Rajput states such as Jodhpur, Jaipur, Machheri, Bundi and Bharatpur; **Holkar** came later (**1818**).
+- The ruler kept internal administration but lost control of war, peace and other Europeans. He paid a **subsidy**, accepted a **British Resident**, and could not employ non-British Europeans. The aim was British **paramountcy** and a standing army at the ally's cost — **not** a fixed commercial income for the Company as the main object.
+- He arrived when British fear of **Napoleon** was high; subsidiary alliances helped keep Indian states from French contact and keep the British flag firm in India.
 - In the **Fourth Anglo-Mysore War, 1799**, **Tipu** was killed.
-- The **Treaty of Bassein, 1802** pulled the Peshwa into subsidiary alliance.
+- The **Treaty of Bassein (31 December 1802)** pulled **Peshwa Bajirao II** into subsidiary alliance — the **first Maratha chief** to accept Wellesley's system. About **6,000** British troops restored him at Poona against land/revenue worth about **₹26 lakh** a year.
 - The **Second Anglo-Maratha War (1803–05)** followed. **Arthur Wellesley** won at **Assaye**.
-- Wellesley was **recalled in 1805** because the wars cost too much (**2024 Q137**).
+- Wellesley was **recalled in 1805** because the wars cost too much.
 
-> ** note:** Wellesley is Subsidiary Alliance, **not** Doctrine of Lapse. The full war stories sit with Company expansion.
+> **Logic:** Wellesley = Subsidiary Alliance, **not** Doctrine of Lapse. First Wellesley ally = **Hyderabad**; first Maratha = **Bajirao II (Bassein)**; earliest Company-style deal often cited = **Awadh 1765**. Full war stories sit with Company expansion.
 
 **PYQ — UPPCS Prelims 2024, Q137**
 
@@ -279,7 +301,7 @@ D. 3, 1, 2, 4
 
 Two lesser-named rulers cover the gap between Wellesley's recall and Lord Hastings' arrival. They are worth only a short bridge card.
 
-- **George Barlow** served as acting Governor-General for a short spell in **1805** after Cornwallis died in office. He kept to non-intervention and cut costs after Wellesley's expensive wars.
+- **George Barlow** served as acting Governor-General for a short spell in **1805** after Cornwallis died in office. He kept to non-intervention and cut costs after Wellesley's expensive wars. The **Vellore Mutiny (1806)** broke out in this bridge period (often tagged to Barlow's Madras/Company regime).
 - **Lord Minto I (1807–1813)** dealt with the fallout of the **Vellore Mutiny (1806)** and signed the **Treaty of Amritsar (1809)** with Ranjit Singh, fixing the Sutlej as the Sikh empire's southern limit.
 - The **Charter Act of 1813** was passed as his term was ending, right at the hand-over to Lord Hastings.
 
@@ -290,13 +312,14 @@ Two lesser-named rulers cover the gap between Wellesley's recall and Lord Hastin
 ## 3.11 Lord Hastings, Earl of Moira (1813–1823) — not Warren
 
 - He was the **Earl of Moira**. He is **not** Warren Hastings.
-- He fought the **Anglo-Nepal War of 1814–16**. It ended with the **Treaty of Sugauli**.
+- He fought the **Anglo-Nepal War of 1814–16**. It ended with the **Treaty of Sugauli** (signed **1815**, ratified **1816**).
 - He also ran the **Pindari** campaign.
-- The **Third Anglo-Maratha War of 1817–18** belongs to him. Together these campaigns established British **paramountcy** across central India.
-- The **Ryotwari settlement** was formalised in Madras under **Thomas Munro** during his governor-generalship.
+- The **Third Anglo-Maratha War of 1817–18** belongs to him. Together these campaigns established British **paramountcy** across central India. The **Peshwa title was abolished** and Peshwa territories went into the Bombay Presidency.
+- **Charles Metcalfe** negotiated **subordinate alliances of 1817–18** with princely states of **Rajputana** on Hastings' behalf.
+- The **Ryotwari settlement** was formalised in Madras under **Thomas Munro** (Governor of Madras **1820–27**) during this broader era.
 - The **Charter Act of 1813**, which ended the Company's India trade monopoly, was enacted right as his term began.
 
-> ** note:** If a question pairs Hastings with Nepal or Sugauli, it is **Lord Hastings**, not Warren.
+> **Logic:** If a question pairs Hastings with Nepal or Sugauli, it is **Lord Hastings**, not Warren. Third Maratha War ≠ Cornwallis.
 
 ---
 
@@ -325,14 +348,17 @@ Two lesser-named rulers cover the gap between Wellesley's recall and Lord Hastin
 
 ## 3.14 Lord William Bentinck (1828–1835)
 
-- **Sati was abolished in 1829** (Regulation XVII) after the campaign of **Raja Rammohan Roy**. This is the **2025 Q40** Bentinck pair.
-- **Thuggee** was suppressed under **William Sleeman**.
-- He followed a policy of financial **retrenchment** and cut army costs.
+- **Sati was abolished in 1829** (Regulation XVII) after the campaign of **Raja Rammohan Roy**; the rule was extended to Madras and Bombay in **1830**.
+- He also moved against **female infanticide** and other social evils.
+- **Thuggee** was suppressed under **Captain (later Major) William Sleeman**; about **1,562** thugs were arrested between **1826 and 1835**, and organised thuggee was largely broken by about **1837**.
+- On the Court of Directors' wish he preferred **non-interference** in princely states when possible (for example Jaipur, Jodhpur, Bundi, Kota, Bhopal), but he took over **Mysore in 1831**, **Cachar in 1832**, and **Coorg (Kurg) in 1834** for extreme mismanagement; **Jaintia** followed in **1835**.
+- His seven-year rule largely dropped the older war-and-annexation drive in favour of administrative and social reform.
 - He was the first to hold the title **Governor-General of India** under the **Charter Act of 1833**.
 - He accepted **Macaulay's Minute (1835)**. **Calcutta Medical College** was founded in **1835**.
 - He also extended the **Ryotwari** and **Mahalwari** revenue settlements and eased some restrictions on the press.
+- Slave-export from Bengal had been stopped by a **1789** order; later slave laws (**1811**, **1823**) and the **1833** Charter pressed for abolition; **Act V of 1843** under Ellenborough made slavery illegal in most of India, and the **IPC 1860** treated it as a crime.
 
-> ** note:** Bentinck = Sati **and** the title switch to "Governor-General of India" in **1833**. Permanent Settlement is **Cornwallis**, not Bentinck.
+> **Logic:** Bentinck = Sati **and** the title switch to "Governor-General of India" in **1833**. Permanent Settlement is **Cornwallis**. Slavery abolition as a finished Act = **Ellenborough 1843**, not Bentinck alone.
 
 ---
 
@@ -410,11 +436,13 @@ D. C A B D
 
 ## 3.19 Lord Ellenborough (1842–1844)
 
-- Sindh was ruled by the **Talpur Amirs**. Ellenborough's field commander **Sir Charles Napier** annexed it in **1843** after victories at **Miani** and **Dabo**.
+- Sindh was ruled by the **Talpur Amirs**. Ellenborough's field commander **Sir Charles Napier** annexed it in **August 1843** after victories at **Miani** and **Dabo**.
+- **Act V of 1843** abolished **slavery** in British India under him.
+- The Afghan line of **Masterly Inactivity** began in his time and ran through to **Northbrook**; it is usually credited to **John Lawrence**, who practised it most fully. The phrase is linked to an article by **J. W. S. Wiley**.
 - He is also remembered for the controversial **"Gates of Somnath"** episode, where he brought back gates from Afghanistan claiming they were the temple's original looted gates — a claim historians dispute.
 - His autocratic style and costly gestures irritated the Court of Directors, who **recalled him in 1844**, one of the few Governors-General removed directly by the Directors rather than by the Crown.
 
-> ** note:** Sindh is **1843**, under **Ellenborough**, not Dalhousie. Punjab (1849) is a different annexation under a different ruler.
+> **Logic:** Sindh is **1843**, under **Ellenborough**, not Dalhousie. Slavery Act = Ellenborough. Masterly Inactivity ≠ Wellesley or Canning.
 
 ---
 
@@ -432,15 +460,17 @@ D. C A B D
 ## 3.21 Lord Dalhousie (1848–1856)
 
 - He used the **Doctrine of Lapse**. Adopted heirs were **not recognised**.
-- **Satara** lapsed in **1848**. **Jhansi** lapsed in **1853**. **Nagpur** lapsed in **1854**.
-- **Awadh in 1856** was taken for **misgovernance**, not Lapse. The Nawab was **Wajid Ali Shah**.
-- **Punjab was annexed in 1849** after the Second Anglo-Sikh War.
+- Lapse chronology: **Satara (1848)** first; **Jaitpur and Sambalpur (1849)**; **Baghat (1850)**; **Udaipur (1852)**; **Jhansi (1854)**; **Nagpur (1854)**.
+- **Awadh in February 1856** was taken for **misgovernance**, not Lapse. The Nawab was **Wajid Ali Shah**. In **1854** **James Outram** replaced **W. H. Sleeman** as Resident; Outram's report that Awadh's administration was corrupt and the people miserable became the annexation brief.
+- **Punjab was annexed in 1849** after the Second Anglo-Sikh War. He also took hill tracts of **Sikkim** (including Darjeeling-side areas) on a pretext of mistreatment of British subjects.
+- His real name was **James Andrew Broun-Ramsay** (Earl of Dalhousie).
 - **Wood's Despatch** belongs to **1854**.
-- The **first passenger railway** ran from **Bombay to Thane in 1853**.
-- He also pushed the telegraph, the Public Works Department and postage reform.
+- The **first passenger railway** ran from **Bombay (Boribunder) to Thane in 1853**, started by the **Great Indian Peninsula Railway**. Motives were mainly to move **raw materials to ports** and to move the **army** quickly against revolt.
+- He set up a separate **Public Works Department** (about **1854**) and spent heavily on roads, canals and other works; earlier public works sat under the Military Board.
 - The Widow Remarriage Act of **1856** was drafted in his time and passed as Canning took over.
+- Later railway expansion peaked around **1900** under **Curzon**, but the **start** of passenger rail is Dalhousie.
 
-> ** note:2025 Q40** Dalhousie = Lapse. **2024 Q148** — he did **not** accept Lakshmibai's adopted son.
+> **Logic:** Dalhousie = Lapse + railways + PWD. Awadh = **misrule**, not Lapse. He did **not** accept Lakshmibai's adopted son.
 
 **PYQ — UPPCS Prelims 2025, Q40**
 
@@ -506,14 +536,15 @@ The **last** of the Charter Acts, and the first to reform legislative structure 
 **Last GG of Company + first Viceroy (from 1858).**
 
 - He suppressed the **1857 Revolt**. He was called **"Clemency Canning."**
-- The **Government of India Act 1858** ended Company rule.
-- The **Queen's Proclamation** was read at **Allahabad** on **1 November 1858**.
+- With the efforts of **Ishwar Chandra Vidyasagar**, the **Hindu Widow Remarriage Act, 1856** was passed; Section **XV** legalised widow remarriage and the children of such marriages. Later propagators included **Dhondo Keshav Karve** (widow ashram at Poona, **1899**) and **Vishnu Shastri**.
+- The **Government of India Act 1858** ended Company rule. The **Queen's Proclamation** was read by Canning at an **Allahabad Durbar on 1 November 1858**. It put India under the Crown, abandoned annexation by conquest/Lapse as policy, and restored the right of princes to **adopt heirs**.
 - The **Indian Councils Act 1861** introduced the **portfolio / departmental** system.
 - The universities of **Calcutta, Bombay and Madras** were founded in **1857**.
 - European troops staged the **White Mutiny in 1859**.
-- The **Indian Penal Code**, drafted under the 1833 Act's Law Commission, was finally enacted in **1860**.
+- The **Indian Penal Code**, drafted under the 1833 Act's Law Commission, was finally enacted in **1860** (and treated slavery as a crime).
+- **Alexander Cunningham** was appointed Archaeological Surveyor in **1861** in this era (ASI later expanded; Curzon centralised it).
 
-> ** note:** First **Viceroy** = Canning, not Hastings.
+> **Logic:** First **Viceroy** = Canning, not Hastings or Bentinck. Widow Remarriage Act year = **1856** under Canning (drafted across the Dalhousie–Canning hand-over). Victoria as Empress / Kaiser-i-Hind = **1877 Durbar (Lytton)**, not 1858.
 
 ---
 
@@ -575,22 +606,23 @@ D. Indian Council Act, 1909
 ## 3.27 Sir John Lawrence (1864–1869) — Masterly Inactivity
 
 - His guiding frontier policy was **"Masterly Inactivity"**: after the disaster of the First Afghan War, he chose to watch the frontier carefully but avoid costly occupation of Afghan territory.
+- The policy line began under **Ellenborough** and ran to **Northbrook**, but Lawrence is the name usually attached because he got the fullest chance to practise and refine it. The phrase is linked to **J. W. S. Wiley**.
 - **High Courts** were established at Calcutta, Bombay and Madras in **1865**.
 - The **Indian Forest Department** was set up in **1864** to manage forest resources systematically.
 - He also oversaw the **Bhutan War (1864–65)**, settled by the **Treaty of Sinchula (1865)**, under which Britain gained the Duars.
 
-> ** note:** Masterly Inactivity = **Lawrence**. Its opposite, the more forward "Proud Reserve," belongs to **Lytton** a decade later.
+> **Logic:** Masterly Inactivity = **Lawrence**. Its opposite, the more forward **"Proud Reserve,"** belongs to **Lytton**. Do not tag Masterly Inactivity to Wellesley, Canning or Mayo.
 
 ---
 
 ## 3.28 Lord Mayo (1869–1872)
 
-- He pushed the first **regular attempt at a census**, laying groundwork for the full census of **1881**.
+- The **first all-India census** attempt belongs to **1872** under him; the first **regular** decennial census ran in **1881** under **Ripon**.
+- He began **financial decentralisation** (**Mayo's Resolution, 1870**): provinces gained charge of certain services (education, medical, roads) and could raise local taxes to balance budgets — the first clear split of central and provincial finance.
 - He founded **Mayo College at Ajmer**, meant for the education of Indian princes.
-- He began **decentralising provincial finance**, giving provinces more control over their own budgets.
-- He was **assassinated in 1872** by a convict, Sher Ali, while inspecting the Cellular Jail area on the **Andaman Islands**.
+- He was **assassinated in 1872** by a convict, **Sher Ali Afridi**, while inspecting the Cellular Jail area on the **Andaman Islands** — the only Viceroy murdered while in office.
 
-> ** note:** Mayo = **assassinated at the Andamans**, a standard single-best-answer trap alongside other viceroys' death or recall stories.
+> **Logic:** Mayo = **1872 census start + financial decentralisation + Andaman assassination**. Regular census 1881 = Ripon.
 
 ---
 
@@ -607,16 +639,14 @@ D. Indian Council Act, 1909
 
 ## 3.30 Lord Lytton (1876–1880)
 
-Not a named syllabus person, but **PYQ-critical** with Ripon/Ilbert/Afghan chronology.
-
-- The **Delhi Durbar of 1877** proclaimed Victoria as Empress.
-- He passed the **Vernacular Press Act in 1878**.
-- He also passed the **Arms Act in 1878**.
-- The **Second Anglo-Afghan War** ran **1878–80**, guided by his forward policy known as **"Proud Reserve."**
-- The **Great Famine** belongs to **1876–78**; his government's poor handling of it led directly to the **Famine Commission of 1880**.
+- The **Delhi Durbar of 1 January 1877** proclaimed Victoria as **Empress of India (Kaiser-i-Hind)** under the **Royal Titles Act, 1876**.
+- He passed the **Vernacular Press Act in 1878**, also called the **Gagging / Silencing Act**, to curb criticism in Indian-language papers (S. N. Banerjee called it "lightning from the sky").
+- He also passed the **Arms Act in 1878**, making it a crime for most Indians to carry arms without a licence (Europeans largely exempt).
+- The **Second Anglo-Afghan War** ran **1878–80**, guided by his forward **"Proud Reserve"** policy that replaced Masterly Inactivity.
+- The **Great Famine** belongs to **1876–78**; the **Strachey Commission (1878)** and later Famine Codes grew from this crisis, and the **Famine Commission of 1880** followed.
 - He lowered the maximum entry age for the ICS, making it harder for Indian candidates to qualify.
 
-> ** note:** Press Act = Lytton; Ripon **repealed** it. **2025 Q127** — 2nd Afghan before Ilbert.
+> **Logic:** Press Act and Arms Act = **Lytton**; Ripon **repealed** the Press Act. Second Afghan War = Lytton, **not** First Afghan (Auckland). Ilbert Bill is **Ripon**, not Lytton.
 
 **PYQ — UPPCS Prelims 2025, Q127**
 
@@ -646,13 +676,15 @@ D. 1, 3, 2, 4
 
 ## 3.31 Lord Ripon (1880–1884)
 
-- He is called the **Father of Local Self-Government** because of the **Resolution of 1882**.
+- He is called the **Father of Local Self-Government** because of the **Resolution of 18 May 1882** (municipalities and rural local boards).
 - He **repealed the Vernacular Press Act**, which Lytton had passed in 1878.
-- The **Ilbert Bill of 1883** would have allowed Indian judges to try Europeans. White opposition forced a compromise.
-- The **Hunter Commission (1882)** reviewed education. The **First Factory Act** came in **1881**, restricting child labour.
+- The **Ilbert Bill of 1883** (presented by Law Member **C. P. Ilbert** on **2 February 1883**) would have allowed Indian judges to try Europeans in criminal cases. White opposition forced a compromise.
+- The **Hunter Commission (1882)** reviewed education.
+- The **First Factory Act, 1881** banned employment of children **under 7**, limited children **7–12** to **9 hours** a day with **4 holidays a month**, and covered factories of a set size. The **Second Factory Act, 1891** (Lansdowne) added weekly holidays and further rules for women and children.
+- The first **regular** all-India census ran in **1881** under him (the **1872** attempt was Mayo's).
 - His government implemented the **Famine Code**, drawn up on the recommendations of the 1880 Famine Commission set up after Lytton's failures.
 
-> ** note:** Ilbert Bill = **Ripon**, not Curzon. **2025 Q127** places Ilbert **1883** after the Second Afghan War **1878**.
+> **Logic:** Ilbert Bill and Father of Local Self-Government = **Ripon**, not Curzon or Lytton. Factory Act 1881 ≠ wage-fixing or trade-union Act.
 
 ---
 
@@ -730,17 +762,18 @@ D. Both 1 and 2
 
 ## 3.35 Lord Curzon (1899–1905)
 
-- The **Partition of Bengal** was announced for **16 October 1905**.
-- A new province of **East Bengal and Assam** was created (**2019 Q95**).
-- The **Ancient Monuments Preservation Act** belongs to **1904**.
+- Among Viceroys he had one of the **longest tenures (1899–1905, about seven years)**.
+- The **Partition of Bengal** was announced for **16 October 1905**. A new province of **East Bengal and Assam** was created.
+- Archaeological work had older roots (**Asiatic Society 1784**; **Alexander Cunningham** as Archaeological Surveyor from **1861**; Survey made a separate body in **1871**). Under Curzon the **ASI** was integrated and centralised (**1901**); **John Marshall** became Director-General (**appointed 1901; took charge 1902**).
+- The **Ancient Monuments Preservation Act, 1904** provided for protection of monuments; Curzon allocated about **£50,000** for conservation.
 - The **Indian Universities Act** also belongs to **1904**, tightening government control over universities.
-- The Police Commission sat in **1902**.
-- The **NWFP** was created in **1901**.
-- He pushed irrigation and slimmed the Calcutta Corporation.
+- The Police Commission sat in **1902**. The **NWFP** was created in **1901**. The **Imperial Cadet Corps** was approved in **1901**.
+- The **Calcutta Municipal Act, 1899** (Mackenzie Act) reduced elected Indian strength on the Corporation.
+- He pushed irrigation and resigned in **1905** after a clash with **Kitchener** over control of the army.
 - The **Younghusband mission** went to **Tibet in 1904**.
-- He resigned in **1905** after a clash with **Kitchener** over control of the army.
+- **Gopal Krishna Gokhale** compared Curzon's rule to that of **Aurangzeb**. Curzon also spoke of assisting Congress to a **"peaceful demise."**
 
-> ** note:** Partition = Curzon, not Dalhousie. "Microscopic minority" ≠ Curzon.
+> **Logic:** Partition and Ancient Monuments Act = **Curzon**. Vernacular Press Act ≠ Curzon (that is **Lytton**). "Microscopic minority" ≠ Curzon (**Dufferin**).
 
 **PYQ — UPPCS Prelims 2019, Q95**
 
@@ -791,13 +824,12 @@ D. Neither 1 nor 2
 
 ## 3.38 Lord Hardinge II (1910–1916)
 
-- The **Delhi Durbar of 1911** shifted the capital from **Calcutta to Delhi**.
-- The **Partition of Bengal was annulled** at the same Durbar.
+- At the **Delhi Durbar of 1911** (third Durbar), he hosted **George V** and **Queen Mary**. The capital was shifted from **Calcutta to Delhi**, and the **Partition of Bengal was annulled**.
 - A bomb was thrown at the Viceroy's procession in **Chandni Chowk on 23 December 1912**.
-- The network is linked to **Anushilan Samiti** and **Rash Behari Bose** (**2023 Q42**).
+- The network is linked to **Anushilan Samiti** and **Rash Behari Bose**.
 - The **First World War** began during his tenure, in 1914.
 
-> ** note:** Do not confuse with **Hardinge I** (1844–48, First Sikh War).
+> **Logic:** Do not confuse with **Hardinge I** (1844–48, First Sikh War). Capital shift and annulment of Partition = **Hardinge II**, not Curzon.
 
 **PYQ — UPPCS Prelims 2023, Q42**
 
@@ -909,12 +941,13 @@ D. Shankaran Nair
 
 ## 3.41 Lord Reading (1921–1926)
 
+- **Rufus Isaacs, Lord Reading**, was the **only Jewish Viceroy** of India.
 - The **Non-Cooperation Movement** ended after the **Chauri Chaura incident (February 1922)**; Gandhi was arrested in **March 1922**.
 - The **Moplah Rebellion** in Kerala broke out in 1921, early in his term.
 - The **Swaraj Party** was formed in 1923 by **C. R. Das** and **Motilal Nehru** after the suspension of Non-Cooperation.
 - The **Kakori Conspiracy Case (1925)** against revolutionary nationalists was tried during his tenure.
 
-> ** note:** Reading covers the **retreat from Non-Cooperation** and the rise of the Swaraj Party inside the legislatures. Do not confuse with Irwin's later Civil Disobedience years.
+> **Logic:** Reading covers the **retreat from Non-Cooperation** and the rise of the Swaraj Party. Do not confuse with Irwin's later Civil Disobedience years.
 
 ---
 
@@ -1045,23 +1078,26 @@ D. 1, 4, 2, 3
 
 | Person | Reform / tag |
 |--------|----------------|
-| Warren Hastings | Dual ends 1772; Asiatic Society era 1784 |
-| Cornwallis | Permanent Settlement 1793 |
-| Wellesley | Subsidiary Alliance 1798 |
-| Bentinck | Sati 1829; first GG of India, 1833 |
+| Warren Hastings | Dual ends 1772; treasury to Calcutta; Ring Fence; Asiatic Society 1784 |
+| Clive | Dual Govt 1765; ban gifts/private trade; batta reform |
+| Cornwallis | Permanent Settlement 1793; Cornwallis Code; Daroga; ICS; died Ghazipur |
+| Wellesley | Subsidiary Alliance; Bassein 1802 (Bajirao II) |
+| Bentinck | Sati 1829; Thugs (Sleeman); GG of India 1833 |
 | Macaulay | English Minute 1835 |
-| Metcalfe | Freed the press, 1835 |
-| Dalhousie | Lapse; railways 1853; Wood 1854 |
-| Canning | First Viceroy; portfolio 1861 |
+| Metcalfe | Liberator of the Press, 1835 |
+| Ellenborough | Sindh 1843; Slavery Act V 1843 |
+| Dalhousie | Lapse (Satara first); Bombay–Thane 1853 (GIPR); PWD; Wood 1854 |
+| Canning | Widow Remarriage 1856; first Viceroy; Allahabad Proclamation |
 | Lawrence | Masterly Inactivity; High Courts 1865 |
-| Mayo | Census effort; Mayo College; assassinated 1872 |
-| Lytton | Vernacular Press 1878; Proud Reserve |
-| Ripon | Local self-govt 1882; Ilbert 1883 |
+| Mayo | Census 1872; financial decentralisation 1870; assassinated Andamans |
+| Lytton | Vernacular Press 1878 (Gagging Act); Arms Act; Proud Reserve |
+| Ripon | Local self-govt 1882; Ilbert 1883; Factory Act 1881; census 1881 |
 | Dufferin | INC 1885; microscopic minority |
-| Lansdowne | Age of Consent 1891; Councils Act 1892 |
-| Curzon | Partition 16 Oct 1905 |
+| Lansdowne | Age of Consent 1891; Councils Act 1892; Factory Act 1891 |
+| Curzon | Partition 16 Oct 1905; Ancient Monuments 1904; ASI / Marshall |
 | Minto II | Separate electorates 1909 |
-| Hardinge II | Delhi 1911; bomb 1912 |
+| Hardinge II | Delhi capital 1911; Partition annulled |
+| Reading | Only Jewish Viceroy; Chauri Chaura / Swaraj Party years |
 | Chelmsford | GOI 1919; Chamber of Princes |
 | Irwin | Dandi March 1930; Gandhi-Irwin Pact 1931 |
 | Willingdon | Communal Award; Poona Pact; GOI 1935 |
@@ -1123,8 +1159,10 @@ D. 1, 4, 2, 3
 | Item | Fact |
 |------|------|
 | Queen's Proclamation | **Allahabad, 1 Nov 1858** (Canning) |
-| Banaras rebellion | Chait Singh **1781** (Warren Hastings) |
-| Awadh annexation | **1856** Dalhousie (misrule) |
+| Banaras rebellion | Chait Singh **1781** (Warren Hastings; refuge at **Chunar**) |
+| Awadh annexation | **1856** Dalhousie (misrule; Resident **James Outram**) |
+| Cornwallis tomb | **Ghazipur (UP)**, died **5 Oct 1805** |
+| Asiatic Society | **15 Jan 1784**, Calcutta, under Warren Hastings (founder **Jones**) |
 
 ---
 
@@ -2413,3 +2451,10 @@ D. Lord Lansdown
 23. **Masterly Inactivity = Lytton** → that is **Lawrence's** caution; **Lytton's** forward policy is "Proud Reserve."
 24. **Elgin I and Elgin II are the same tenure** → Elgin I (1862–63, died at Dharamshala) is a different, earlier viceroyalty from Elgin II (1894–99, famine/plague years).
 25. **Age of Consent Act 1891 = Ripon** → it belongs to **Lansdowne**; Ripon's signature reforms are Ilbert Bill and local self-government.
+26. **Cornwallis tomb = Varanasi / Ballia** → **Ghazipur (UP)**.
+27. **Slavery abolished by Bentinck** → finished by **Ellenborough, Act V 1843** (export ban from Bengal was earlier, **1789**).
+28. **First Subsidiary Alliance state = Awadh under Wellesley** → Wellesley's first was **Hyderabad 1798**; Awadh **1765** is the early Company form; first Maratha = **Bajirao II (Bassein)**.
+29. **Ring Fence = Dalhousie** → **Warren Hastings / Wellesley** (Security Cell).
+30. **Regular census 1872 = Ripon** → **1872 attempt = Mayo**; **1881 regular = Ripon**.
+31. **Vernacular Press Act = Curzon** → **Lytton 1878** (Gagging Act).
+32. **Awadh Resident at annexation = Sleeman** → **James Outram** replaced Sleeman in **1854**.
