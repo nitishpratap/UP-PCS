@@ -1734,6 +1734,26 @@ D. 4 3 2 1
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Chiragh-i-Delhi is Nasiruddin Mahmud, the disciple — not Nizamuddin’s own title.
+
+**Q. UKPCS Prelims 2025, Q58**
+
+Who was popularly known as Chiragh-i-Delhi?
+
+A. Shaikh Nizamuddin
+B. Nasiruddin Mahmud
+C. Fariduddin Masud
+D. Qutbuddin Bakhtiyar Kaki
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Nasiruddin Mahmud Chiragh-i-Delhi succeeds Nizamuddin in the Chishti line of Delhi. Nizamuddin is Mahbub-i-Ilahi; Farid is Baba Farid; Bakhtiyar Kaki is the Mehrauli saint.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

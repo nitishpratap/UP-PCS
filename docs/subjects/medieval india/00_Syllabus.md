@@ -328,4 +328,6 @@ These are not explicitly in your notes but have high probability for UPPCS:
 
 ## History of Uttarakhand — Medieval slice (UKPCS-only)
 
-→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+State dynasty block only — **Kattyuri · Parmar (Garhwal) · Chand (Kumaon)**.
+
+→ [Uttarakhand overview](uttarakhand/index.md) · [syllabus map](uttarakhand/00_Syllabus.md) · [UKPCS Medieval PYQ Bank](uttarakhand/00_UKPCS_PYQ_Bank_Medieval.md)

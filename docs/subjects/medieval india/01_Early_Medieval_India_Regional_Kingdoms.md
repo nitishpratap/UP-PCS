@@ -1813,6 +1813,35 @@ D. Madura — Veer Pandya
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Court biographies of the early medieval period — Bilhana and Hemchandra are the swap pair.
+
+**Q. UKPCS Prelims 2025, Q55**
+
+Match List-I with List-II and select the correct answer using the code given below:
+
+| List-I (Text) | List-II (Author) |
+| --- | --- |
+| A. Ramcharita | 1. Padmagupta |
+| B. Navsahasankcharit | 2. Hemchandra |
+| C. Kumarpalacharit | 3. Sandhyakarnandi |
+| D. Vikramankdevacharit | 4. Bilhana |
+
+*Row order is not the answer code.*
+
+A. A-3, B-1, C-4, D-2
+B. A-2, B-1, C-4, D-3
+C. A-3, B-1, C-2, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Ramcharita → Sandhyakarnandi (Pala Ramapala); Navsahasankcharita → Padmagupta (Paramara Sindhuraja); Kumarpalacharita → Hemchandra; Vikramankadevacharita → Bilhana (Chalukya Vikramaditya VI). Reversing Hemchandra and Bilhana is the standard trap.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

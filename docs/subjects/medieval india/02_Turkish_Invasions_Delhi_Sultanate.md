@@ -1967,11 +1967,29 @@ D. A fiscal unit only
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Agriculture department of Muhammad bin Tughlaq — not Firoz’s public works list.
+
+**Q. UKPCS Prelims 2025, Q57**
+
+Who founded a separate department called ‘Diwan-i-amir-i-kohi’ to improve agriculture?
+
+A. Alauddin Khalji
+B. Muhammad Tughlaq
+C. Firoz Tughlaq
+D. Sher Shah Suri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Muhammad bin Tughlaq created Diwan-i-Amir-i-Kohi for agrarian improvement. Firoz is the canal/works distractor; Alauddin is the market-control distractor.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These
-
-1. Do not mix **Tarain (1192, Prithviraj)**, **Chandawar (1194, Jaichand)**, and **Panipat (1526, Ibrahim Lodi)**.
 2. **Mahmud of Ghazni raided and withdrew**; **Muhammad Ghori conquered and stayed**. That is the Ghaznavid vs Ghurid difference.
 3. The Delhi Sultanate begins in **1206** when Aibak took the title of Sultan, not in **1192** when Ghori won Tarain.
 4. **Iltutmish** was the real consolidator of the Sultanate, not Aibak.

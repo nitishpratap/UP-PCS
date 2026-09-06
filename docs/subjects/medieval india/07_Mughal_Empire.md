@@ -1735,6 +1735,54 @@ D. A false, R true
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** Chanderi falls between Khanwa and Ghagra — that is where most sequences go wrong.
+
+**Q. UKPCS Prelims 2025, Q59**
+
+Arrange the following chronologically from earliest to last:
+
+I. First Battle of Panipat
+II. Battle of Khanwa
+III. Battle of Ghagra
+IV. Battle of Chanderi
+
+A. I, II, III, IV
+B. I, III, II, IV
+C. I, II, IV, III
+D. I, III, IV, II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Panipat (1526) → Khanwa (1527) → Chanderi (1528) → Ghagra (1529). Placing Ghagra before Chanderi is the usual swap.
+
+</details>
+
+**Logic:** Basawan belongs to Akbar’s atelier — that makes the all-four option wrong.
+
+**Q. UKPCS Prelims 2025, Q60**
+
+Who were famous painters at Jahangir’s court?
+
+1. Basawan
+2. Manohar
+3. Bishun Das
+4. Mansur
+
+A. Only 1, 2 and 4
+B. Only 2, 3 and 4
+C. Only 1, 3 and 4
+D. All 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Manohar, Bishan Das, and Ustad Mansur were leading painters of Jahangir’s studio. Basawan was a master of Akbar’s court; Mansur earned the title Nadir-ul-Asr for bird and animal studies.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These

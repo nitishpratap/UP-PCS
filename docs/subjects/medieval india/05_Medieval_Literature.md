@@ -1409,6 +1409,31 @@ Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1
 
 </details>
 
+### UKPCS Prelims 2025
+
+**Logic:** All four titles belong to Amir Khusrau — a partial option is the trap.
+
+**Q. UKPCS Prelims 2025, Q56**
+
+Which of the following texts are written by Amir Khusrau?
+
+1. Khazain-ul-Futuh
+2. Nuh Siphir
+3. Miftah-ul-Futuh
+4. Qiraan-us-Sadain
+
+A. Only 1, 2 and 3
+B. Only 2, 3 and 4
+C. Only 1, 3 and 4
+D. All 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Amir Khusrau wrote all four works in the Khalji and early Tughlaq period. Khazain-ul-Futuh records Alauddin’s campaigns; Qiran-us-Sadain describes the meeting of Bughra Khan and Kaiqubad. Dropping any one title is the usual trap.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These
