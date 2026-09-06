@@ -225,6 +225,16 @@ Options: A. 25 December B. 21 April C. 16 September D. 30 January
 
 ---
 
+## 31.9 International Tiger Day
+
+**Identity:** 29 July | St Petersburg 2010 | Awareness day
+
+- **International Tiger Day** is observed every **29 July**.
+- It was founded at the **Saint Petersburg Tiger Summit (2010)** to raise awareness for tiger conservation.
+- Do not confuse with World Wildlife Day (**3 March**) or Wildlife Week (**2–8 October**).
+
+---
+
 ## 31.10 Other High-Yield Days
 
 **Identity:** Toilet | No Tobacco | Habitat | Cities | Population | Health | Overshoot
@@ -237,16 +247,6 @@ Options: A. 25 December B. 21 April C. 16 September D. 30 January
 - **Swachh Bharat Mission** launched **2 October 2014**. Sierra Leone’s national cleanliness day is the last Saturday of each month.
 
 > **Logic:** Anti-tobacco ≠ 5 May. Habitat Day ≠ fixed 5 Oct.
-
----
-
-## 31.9 International Tiger Day
-
-**Identity:** 29 July | St Petersburg 2010 | Awareness day
-
-- **International Tiger Day** is observed every **29 July**.
-- It was founded at the **Saint Petersburg Tiger Summit (2010)** to raise awareness for tiger conservation.
-- Do not confuse with World Wildlife Day (**3 March**) or Wildlife Week (**2–8 October**).
 
 ---
 

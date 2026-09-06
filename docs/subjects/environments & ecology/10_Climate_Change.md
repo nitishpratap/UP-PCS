@@ -237,6 +237,7 @@ D. −4°C cooling
 - **Mitigation** reduces emissions. **Adaptation** copes with impacts already occurring or locked in.
 - **NAPCC (National Action Plan on Climate Change, 2008)** is India's master climate framework with **8 national missions**.
 - Adaptation-focused missions include **National Water Mission**, **Sustainable Agriculture Mission**, and **Himalayan Ecosystem Mission**.
+- **National Water Mission** goals include a public water database and climate-impact assessment, citizen/state conservation action, focus on over-exploited areas, **~20% water-use efficiency gain**, and basin-level IWRM. Urban wastewater recycling fits; nationwide Himalaya–peninsula river linking and free borewell reimbursement do **not**.
 - **Early warning systems** from IMD and CWC for heat, floods, and cyclones are adaptation tools.
 - **Climate-resilient crops**, micro-irrigation, and **PM Fasal Bima Yojana** support farm adaptation.
 - **Bundelkhand water harvesting** and **Lucknow heat action plans** are UP adaptation examples.

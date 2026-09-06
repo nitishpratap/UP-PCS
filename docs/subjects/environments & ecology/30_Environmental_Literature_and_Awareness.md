@@ -166,7 +166,9 @@ Options: A. Sustainable Development B. Polluter Pays C. Environmental Education 
 ### Eco-mark, greenwashing, and related awareness facts
 
 - **Eco-mark / ECOMARC** is India’s eco-labelling scheme launched in **1991** by the Government of India and administered by the **Bureau of Indian Standards (BIS)**.
-- Eco-mark identifies **environment-friendly consumer products** that cause least ecosystem impact — it is **not** Agmark or a general quality-only mark.
+- Eco-mark identifies **environment-friendly consumer products** that cause least ecosystem impact — it is **not** Agmark or a general quality-only mark. Drugs/antibiotics are typically **not** on the Eco-mark notified consumer list in bank teaching.
+- **AGMARK** is a quality certification mark for agricultural produce under the **Agricultural Produce (Grading and Marking) Act, 1937**, issued through the Directorate of Marketing and Inspection (Ministry of Agriculture) — **not FAO**.
+- **BIS / ISI** marks cover many industrial and consumer products (including mandatory certification for automotive tyres and tubes in classic stems).
 - **Greenwashing** means conveying a **false or misleading impression** that a company’s products or practices are eco-friendly.
 - **Greendex** (National Geographic / GlobeScan) measures **environmentally sustainable consumer behaviour** across countries — not carbon-credit sales volume.
 - **Plachimada** (Palakkad, **Kerala**) became a landmark local struggle against groundwater contamination linked to a Coca-Cola bottling plant.
@@ -186,7 +188,7 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 
 </details>
 
-> ** note:** LiFE = awareness/behaviour campaign. COP-25 Madrid trap is false.
+> **Logic:** LiFE = awareness/behaviour campaign. COP-25 Madrid trap is false.
 
 ---
 
@@ -210,10 +212,23 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 | Scheme IEC | Namami Gange / Swachh Bharat |
 | People's science | KSSP |
 
-> ** note:** Communication ≠ awareness alone — accurate transmission of science/policy is the core.
+> **Logic:** Communication ≠ awareness alone — accurate transmission of science/policy is the core.
 
 ---
 
+## 30.5 Environment Awards (high-yield)
+
+**Identity:** Indira Gandhi Paryavaran | Tyler | Global 500 → Champions of the Earth | Rajiv Gandhi | Borlaug
+
+- **Indira Gandhi Paryavaran Puraskar (1987, MoEF)** honours significant measurable contribution to environment protection and improvement — not only wildlife research or wasteland alone.
+- **Tyler Prize for Environmental Achievement** (University of Southern California) is often called the “Nobel of Environment” — environmental science, health, and energy. Notable awardees include Madhav Gadgil (2015 pairing), Partha Dasgupta (2016), Pavan Sukhdev & Gretchen Daily (2020).
+- **Rajiv Gandhi Environment Award** recognises clean/new technology and industrial pollution-reduction practice (MoEFCC track).
+- **Global 500 Award** (UNEP, from **1987**) honoured environmental achievement; later succeeded in spirit by **Champions of the Earth** (from **2005**). Narendra Modi received Champions of the Earth **2018**.
+- **Borlaug Award** is for outstanding agricultural research/contribution. Norman Borlaug’s Nobel was the **Peace** Prize (Green Revolution), not a medicine Nobel.
+
+> **Logic:** Tyler ≠ drama/child-rights prize. Global 500 = environment, not anti-terror. AGMARK ≠ Eco-mark; AGMARK ≠ FAO mark.
+
+---
 
 ## Practice Zone
 
