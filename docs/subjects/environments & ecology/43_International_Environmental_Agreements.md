@@ -154,7 +154,8 @@ Cartagena Protocol — Biosafety is a **correct** match.
 
 - The **Ramsar Convention (1971)** conserves wetlands of international importance under **“Wise Use.”**
 - **World Wetlands Day = 2 February** (Ramsar adoption date).
-- India has a large Ramsar network; UP has multiple sites.
+- India has about **80** Ramsar sites (**Tamil Nadu 16**, **UP 10**, **Punjab 6** among high counts).
+- **Montreux Record** = Ramsar sites with adverse / likely adverse ecological change from human interference.
 - Negative geography: **Rudrasagar = Tripura**; **Sultanpur NP = Haryana** — not UP.
 
 **PYQ — UPPCS Prelims 2025, Q58**

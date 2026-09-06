@@ -1,4 +1,4 @@
-# Geography (UPPCS Prelims Knowledge Base)
+# Geography (UPPCS + UKPCS Prelims Knowledge Base)
 
 **Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/05_Geography.md)
 
@@ -683,3 +683,11 @@
 * Urban Centres of UP
 * Transport & Expressways of UP
 * Smart Cities of UP
+
+---
+
+## Geography of Uttarakhand (UKPCS-only)
+
+→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+
+UP Geography stays in Topic 24. Do not merge UK facts into the UP chapter.

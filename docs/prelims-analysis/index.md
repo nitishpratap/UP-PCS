@@ -5,7 +5,9 @@ hide:
 
 # Prelims Analysis
 
-This is the **revision control room** for UPPCS Prelims GS Paper-I. It converts 2018–2025 PYQ tags into a practical plan: which subject to open first, what to memorise, what traps repeat, and how to practise.
+This is the **revision control room** for **UPPCS** Prelims GS Paper-I (2018–2025 tags). **UKPCS** heat maps start from [UKPCS Overview (placeholder)](09_UKPCS_Overview.md) after PYQs are pasted — until then use the [UKPCS Desk](../ukpcs/index.md) and every subject’s **Uttarakhand** folder (minimum **1/3rd** of 150 questions reference the state).
+
+It converts UPPCS 2018–2025 PYQ tags into a practical plan: which subject to open first, what to memorise, what traps repeat, and how to practise.
 
 Use it in three situations:
 

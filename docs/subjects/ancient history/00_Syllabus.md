@@ -1,4 +1,4 @@
-# Ancient India (UPPCS Prelims Knowledge Base)
+# Ancient India (UPPCS + UKPCS Prelims Knowledge Base)
 
 **Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/01_Ancient_History.md)
 
@@ -321,3 +321,9 @@ Repeated UPSC/UPPCS hits that sit *inside* the topic files (not extra chapters):
 - Ancient Universities (Nalanda, Takshashila, Vikramashila, Vallabhi) — Gupta Nalanda card
 - Megasthenes, Fa-Hien, Hiuen Tsang, I-tsing — Maurya / Gupta / Harsha
 - Sources / Numismatics / Epigraphy / Archaeology — Administration, Economy, Archaeology files
+
+---
+
+## History of Uttarakhand — Ancient slice (UKPCS-only)
+
+→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)

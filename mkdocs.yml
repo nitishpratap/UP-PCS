@@ -1,6 +1,6 @@
-site_name: UP PCS Study Library
-site_description: Readable UPSC and UP PCS notes, organised subject-wise and by Mains PYQ themes.
-site_author: UP PCS Study Library
+site_name: UPPCS + UKPCS Study Library
+site_description: Readable notes for UPPCS and UKPCS — shared national GS, with Uttarakhand-only folders for state syllabus.
+site_author: UPPCS + UKPCS Study Library
 site_url: https://nitishpratap.github.io/UP-PCS/
 
 theme:

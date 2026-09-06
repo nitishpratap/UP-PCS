@@ -23,6 +23,7 @@ Living sheets — **update every month** under the same fact checklists. Coverag
 | **A** | [National Events & Infra](06_National_Events_Infrastructure.md) | Aug: 80th I-Day + Ladakh HC Bench |
 | **A** | [Indices & Reports](07_Indices_Reports.md) | Jul–Aug: SOFI + soft ranks |
 | **S** | [Uttar Pradesh CA](08_UP_Special.md) | Aug: Sher + Ganga/Jhansi expressways |
+| **S** | [Uttarakhand CA](16_UK_Special.md) | Scaffold — paste UKPCS state CA |
 | **B** | [Firsts & Records](09_Firsts_Records.md) | Aug: Vande Mataram at Red Fort + Glaw |
 | **B** | [Economy / Budget / Trade](10_Economy_Budget_Trade.md) | Jul–Aug: energy Cabinet + nuclear 100 GW |
 | **B** | [Personalities & Appointments](11_Personalities_Appointments.md) | Aug: SAI DG + VCNS |

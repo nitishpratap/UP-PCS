@@ -65,6 +65,8 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 - Date **5 June** marks the opening of the **Stockholm Conference on the Human Environment (1972)**; first observed in **1973**.
 - Administered by **UNEP**; host country rotates and sets the year’s theme.
 - India hosted in **2011** ("Forests: Nature at Your Service") and **2018** ("Beat Plastic Pollution").
+- Recent host/theme facts: **2019** China — Air Pollution; **2020** Colombia (+Germany) — Biodiversity; **2021** Pakistan — Ecosystem Restoration; **2022** Only One Earth; **2023** Solutions to plastic pollution.
+- **2022** also marked **50 years** since Stockholm 1972, which designated **5 June** as World Environment Day.
 - WED is **not** Earth Day (**22 April**) and **not** Wetlands Day (**2 February**).
 
 **PYQ — UPPCS Prelims 2025, Q62**
@@ -92,7 +94,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 - **World Wetlands Day** marks adoption of the **Ramsar Convention on Wetlands** at Ramsar, Iran (**2 February 1971**).
 - Focus is wetland conservation and **wise use** — sustainable human use, not a total ban.
-- India has **75+** Ramsar sites; **Uttar Pradesh has 10** (geography overlap).
+- India has about **80** Ramsar sites; **Uttar Pradesh has 10**; **Tamil Nadu** leads with **16** (geography overlap).
 - Date traps: **not 2 March**, **not 3 March** (Wildlife), **not 22 March** (Water).
 
 **PYQ — UPPCS Prelims 2023, Q147**
@@ -131,10 +133,11 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 - **International Day for Biological Diversity (IDB)** promotes biodiversity conservation awareness every **22 May**.
 - Commemorates adoption of the **Convention on Biological Diversity** text at Nairobi (**22 May 1992**); Rio Earth Summit signed CBD the same year.
 - Originally linked to **29 December** (CBD entry into force 1993); shifted to **22 May** from **2000** — papers use **22 May** only.
+- The UN declared **2011–2020** the **United Nations Decade on Biodiversity**.
 - India implements CBD through the **Biological Diversity Act 2002** (NBA / SBBs / BMCs).
 - Scope is broader than World Wildlife Day (**3 March**, CITES fauna focus).
 
-> ** note:** IDB = **22 May** — not 22 March (Water) and not 5 June (WED).
+> **Logic:** IDB = **22 May** — not 22 March (Water) and not 5 June (WED). Decade 2011–20 ≠ climate-decade branding.
 
 ---
 
@@ -143,6 +146,9 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 **Identity:** 21 March | UNGA 2012 | Between Wildlife and Water
 
 - **International Day of Forests** raises awareness of forests and sustainable forest management every **21 March**.
+- It was proclaimed by the **UN General Assembly in 2012**.
+- India’s **Wildlife Week** is celebrated **2–8 October** (national awareness week — not the same as World Wildlife Day).
+- Theme examples: IDF 2018 = Forests and Sustainable Cities; IDF 2024 = Forests and innovation.
 - Proclaimed by the **UN General Assembly in 2012**.
 - Sits in the March ladder between **Wildlife (3 Mar)** and **Water (22 Mar)** — easy to drop in match lists.
 - India observance links to ISFR messaging and plantation drives (Van Mahotsav is a separate July campaign).
@@ -169,7 +175,8 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 **Identity:** 16 September | Montreal Protocol 1987 | UNEP Ozone Secretariat
 
 - **World Ozone Day** (International Day for the Preservation of the Ozone Layer) is observed every **16 September**.
-- Marks signing of the **Montreal Protocol on Substances that Deplete the Ozone Layer (1987)**.
+- Marks signing of the **Montreal Protocol on Substances that Deplete the Ozone Layer (16 September 1987)**; Montreal entered into force on **1 January 1989**.
+- The UN General Assembly declared the day in **1994**.
 - Linked to the Vienna Convention family; administered with UNEP Ozone Secretariat support.
 - India observance often highlights HCFC phase-out and cooling-sector compliance.
 
@@ -210,7 +217,17 @@ Options: A. 25 December B. 21 April C. 16 September D. 30 January
 - UN proclaimed the day in **2013**; observance involves UN and CITES Secretariat.
 - **Highest-yield trap:** listing Wildlife Day as **22 March** (that is Water Day) — wrong pair in **UPPCS 2025 Q62**.
 
-> ** note:** Wildlife = **3 March only**. Water = **22 March**.
+> **Logic:** Wildlife = **3 March only**. Water = **22 March**. Wildlife Week in India = **2–8 October**. **International Tiger Day = 29 July** (St Petersburg Summit **2010**).
+
+---
+
+## 31.9 International Tiger Day
+
+**Identity:** 29 July | St Petersburg 2010 | Awareness day
+
+- **International Tiger Day** is observed every **29 July**.
+- It was founded at the **Saint Petersburg Tiger Summit (2010)** to raise awareness for tiger conservation.
+- Do not confuse with World Wildlife Day (**3 March**) or Wildlife Week (**2–8 October**).
 
 ---
 

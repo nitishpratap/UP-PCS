@@ -14,32 +14,38 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. A **food chain** is a single linear who-eats-whom sequence. A **food web** is a network of interconnected chains and is more stable than one chain alone.
 2. A **grazing food chain** starts from **living green plants**. A **detritus food chain** starts from **dead organic matter**.
-3. **Trophic levels** are feeding ranks counted from producers: **T1 producers, T2 herbivores, T3–T5 carnivores**.
-4. The **Sun is the energy source**, not a trophic level. Never count sunlight as T1.
-5. Energy flow is **unidirectional**: Sun → producers → consumers → heat. Nutrients cycle; **energy does not**.
-6. About **10%** of energy passes to the next trophic level (**Lindeman, 1942**). About **90%** is lost as heat, respiration, and movement.
-7. Food chains stay short, usually about **3–5 levels**, because usable energy runs out.
-8. The **energy pyramid** (kcal/m²/yr) is **always upright**. An inverted energy pyramid is never correct.
-9. A **biomass pyramid** can invert in some aquatic systems. A **numbers pyramid** can invert in a parasitic chain (one tree, many insects).
-10. Grazing does **not** start from dead matter. Detritus does **not** start from living green plants.
-11. More links in a food web raise stability, but energy still flows **one way**.
-12. Decomposers and detritivores close the detritus path and recycle nutrients back to producers.
-13. Apex predators sit at the top trophic levels and are often scarce because little energy remains.
-14. Dudhwa’s grass → deer → tiger chain is a classic UP **grazing** example with tiger as apex predator.
-15. A Ganga algae → fish → dolphin web is a standard UP **lotic aquatic** food-web example.
-16. Terai sal leaf litter → earthworm is a UP **detritus** start. Do not call it grazing.
-17. Western UP sugarcane → pest → predator is a short **cropland** chain of about three levels.
-18. Vulture decline after veterinary **diclofenac** disrupts the **detritus / scavenging** pathway.
-19. Ecological pyramids may show energy, biomass, or numbers — always note which quantity is plotted.
-20. Saying “energy is cyclic like nutrients” is a frequent false statement.
-21. A food web does not reverse the one-way energy rule; it only multiplies feeding links.
-22. Producers fix energy; consumers transfer it; heat loss explains why top carnivores are few.
-23. Match pyramid type to exception: energy never inverts; biomass may invert at sea; numbers may invert with parasites.
-24. Keep Lindeman’s **10% rule** as an approximate key fact, not an exact laboratory constant for every ecosystem.
+3. Classic terrestrial chain: **Grass → Grasshopper → Frog → Snake**. Classic human-linked chain: **Grass → Goat → Human**.
+4. Classic marine chain: **Diatoms → Crustaceans → Herrings**.
+5. **Trophic levels** are feeding ranks counted from producers: **T1 producers, T2 herbivores, T3–T5 carnivores**.
+6. The **Sun is the energy source**, not a trophic level. Never count sunlight as T1. **Solar energy** is the driving force of the ecosystem.
+7. Energy flow is **unidirectional**: Sun → producers → consumers → heat. Nutrients cycle; **energy does not**.
+8. About **10%** of energy passes to the next trophic level (**Lindeman, 1942**). About **90%** is lost as heat, respiration, and movement. Energy **decreases** upward.
+9. Food chains stay short, usually about **3–5 levels**, because usable energy runs out. Food chains are **not** found within a single species.
+10. **Humans** are **primary as well as secondary** consumers (plants and meat).
+11. Main marine primary producers are **phytoplankton**.
+12. Primary consumers are mainly herbivores such as **deer**; **ants** may also act as primary consumers (and scavengers/decomposers in broader roles). Fox and tiger are not primary consumers.
+13. Decomposers are **fungi and bacteria**, not viruses.
+14. The **energy pyramid** (kcal/m²/yr) is **always upright**. An inverted energy pyramid is never correct.
+15. A **biomass pyramid** can invert in **pond / marine** systems. A **numbers pyramid** can invert in a parasitic chain (one tree, many insects).
+16. **Biomagnification** raises toxin concentration up the chain. For DDT, the **snake** (tertiary consumer) shows higher concentration than grasshopper or toad.
+17. Butterfly decline harms **pollination** and can cut populations of predators such as wasps, spiders, and birds. It does not by itself force a drastic rise in fungal infections of crops.
+18. Grazing does **not** start from dead matter. Detritus does **not** start from living green plants.
+19. More links in a food web raise stability, but energy still flows **one way**.
+20. Decomposers and detritivores close the detritus path and recycle nutrients back to producers.
+21. Apex predators sit at the top trophic levels and are often scarce because little energy remains.
+22. Dudhwa’s grass → deer → tiger chain is a classic UP **grazing** example with tiger as apex predator.
+23. A Ganga algae → fish → dolphin web is a standard UP **lotic aquatic** food-web example.
+24. Terai sal leaf litter → earthworm is a UP **detritus** start. Do not call it grazing.
+25. Western UP sugarcane → pest → predator is a short **cropland** chain of about three levels.
+26. Vulture decline after veterinary **diclofenac** disrupts the **detritus / scavenging** pathway.
+27. Ecological pyramids may show energy, biomass, or numbers — always note which quantity is plotted.
+28. Saying “energy is cyclic like nutrients” is a frequent false statement.
+29. Match pyramid type to exception: energy never inverts; biomass may invert at sea/pond; numbers may invert with parasites.
+30. Keep Lindeman’s **10% rule** as an approximate key fact, not an exact laboratory constant for every ecosystem.
 
 ---
 
@@ -69,13 +75,22 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 - Food chains are usually **short (3–5 levels)** because only about **10%** of energy passes to the next level. Too little energy remains to support a sixth or seventh level.
 - Removing one link can **break the chain** and trigger a **trophic cascade** in the levels above.
 - A **terrestrial grazing chain** in UP runs Terai grass to barasingha or chital to tiger in Dudhwa.
+- A classic textbook terrestrial chain is **Grass → Grasshopper → Frog → Snake** (producer → primary → secondary → tertiary consumer).
+- A human-linked chain is **Grass → Goat → Human** (autotroph → herbivore → omnivore).
 - An **aquatic grazing chain** runs phytoplankton to zooplankton to small fish to large fish.
+- A common marine chain is **Diatoms → Crustaceans → Herrings**.
 - A **detritus chain** on the Terai forest floor runs fallen sal leaves to earthworm to bacteria and fungi.
+- Food chains illustrate the **order** in which organisms feed upon each other. They are **not** found within the population of a single species.
+- Humans act as **primary as well as secondary consumers** because they eat both plant products and meat.
+- In the marine environment, the main primary producers are **phytoplankton** (micro-algae), not seaweeds alone.
+- Main primary consumers are herbivores such as **deer**. **Ants** may also feed as primary consumers. Fox and tiger are not primary consumers.
+- A large fall in butterfly populations can harm **pollination** of some plants and reduce prey for wasps, spiders, and birds. It does not by itself force a drastic rise in fungal infections of cultivated plants.
 
-| Type | Starts from | UP example |
-|------|-------------|------------|
-| **Grazing** | Living producers | Grass → deer → tiger (Dudhwa) |
+| Type | Starts from | UP / textbook example |
+|------|-------------|------------------------|
+| **Grazing** | Living producers | Grass → deer → tiger (Dudhwa); Grass → grasshopper → frog → snake |
 | **Detritus** | Dead organic matter | Leaf litter → earthworm → fungi |
+| **Marine** | Phytoplankton/diatoms | Diatoms → crustaceans → herrings |
 | **Parasitic** (special) | Living host tissue | Tree → insects → parasites |
 
 > ** note:** Grazing chain starts from a **living producer**. Detritus chain starts from **dead matter**. Trap: "all chains begin with green plants" is **false**.
@@ -110,7 +125,9 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 - **T5 (Quaternary consumers)** are top predators with few or no natural enemies. Tigers and eagles appear here when the chain is long enough.
 - **Omnivores** eat both plants and animals. They span **multiple trophic levels** simultaneously.
 - **Decomposers** break down dead matter from **all levels**. They recycle nutrients but are usually drawn **beside** the main chain, not as the top of an energy pyramid.
+- Decomposer organisms in standard stems are **fungi and bacteria**. **Viruses** are not counted as decomposers here.
 - **Detritivores** such as earthworms fragment dead material and bridge the detritus chain toward decomposers.
+- **Biomagnification** means a non-degradable toxin (classic example **DDT**, also mercury) rises in concentration at successive trophic levels and lodges in fatty tissues. The highest concentration appears in top consumers such as a **snake** in a grasshopper–toad–snake chain.
 
 | Level | Role | UP / India example |
 |-------|------|-------------------|
@@ -191,8 +208,9 @@ D. May increase or decrease
 - An **ecological pyramid** is a diagram of trophic structure. It shows energy, biomass, or numbers at each level.
 - **Charles Elton (1927)** developed the early pyramid concept in trophic studies.
 - A **pyramid of energy** plots energy flow in **kcal/m²/yr**. It is **always upright** because energy is lost at every transfer.
-- A **pyramid of biomass** plots standing dry weight in **g/m²**. It is usually upright on land but can be **inverted in open ocean**.
-- In the sea, phytoplankton reproduce so fast that at any instant their **standing biomass** may be less than zooplankton biomass, even though energy flow still moves upward correctly.
+- A **pyramid of biomass** plots standing dry weight in **g/m²**. It is usually upright on land but can be **inverted in open ocean and pond ecosystems**.
+- In a **pond**, producers are tiny organisms with low standing biomass, so biomass increases toward higher consumers and the pyramid looks inverted.
+- In the sea, phytoplankton reproduce so fast that at any instant their **standing biomass** may be less than fish biomass, even though energy flow still moves upward correctly.
 - A **pyramid of numbers** counts **individual organisms** at each level. It is usually upright but can be **inverted in parasitic chains**.
 - One large tree (one individual at T1) can support millions of insects and parasites at higher levels. That produces an inverted number pyramid.
 - The **pyramid of energy** is the best measure of ecosystem function because it shows actual energy availability and is never inverted.
@@ -753,6 +771,182 @@ D. Lindeman — 1942
 
 ---
 
+### Extra drill — food-chain / energy / biomagnification stems
+
+**Logic:** Classic chain order, human trophic role, marine producers, 10% law, inverted biomass, DDT biomagnification.
+
+**Q31.** Correct grassland food-chain order:
+
+A. Grass–Grasshopper–Frog–Snake
+
+B. Grass–Grasshopper–Snake–Frog
+
+C. Grasshopper–Frog–Grass–Snake
+
+D. Grasshopper–Snake–Frog–Grass
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Producer → primary → secondary → tertiary consumer.
+
+</details>
+
+**Q32.** Which constitutes a food chain?
+
+A. Grass, wheat and mango
+
+B. Grass, goat and human
+
+C. Goat, cow and elephant
+
+D. Grass, fish and goat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Grass → goat → human.
+
+</details>
+
+**Q33.** In a food chain, man is:
+
+A. Producer only
+
+B. Only primary consumer
+
+C. Only secondary consumer
+
+D. Primary as well as secondary consumer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Humans eat plants and meat.
+
+</details>
+
+**Q34.** Main primary producers in the marine environment:
+
+A. Phytoplankton
+
+B. Seaweeds only
+
+C. Marine angiosperms only
+
+D. Aquatic bryophytes only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Phytoplankton**.
+
+</details>
+
+**Q35.** Decomposer organisms include:
+
+A. Virus only
+
+B. Fungi and bacteria
+
+C. Virus and bacteria only
+
+D. Virus, fungi and bacteria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Fungi and bacteria — not virus in this framing.
+
+</details>
+
+**Q36.** Correct marine food-chain sequence:
+
+A. Diatoms–Crustaceans–Herrings
+
+B. Crustaceans–Diatoms–Herrings
+
+C. Diatoms–Herrings–Crustaceans
+
+D. Crustaceans–Herrings–Diatoms
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q37.** 10 percent law relates to:
+
+A. Heat transfer between metals
+
+B. Energy transfer as food between trophic levels
+
+C. Bird migration between zones
+
+D. Water transfer between aquifers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lindeman** ~10% rule.
+
+</details>
+
+**Q38.** Inverted pyramid of biomass is typical of:
+
+A. Forest
+
+B. Pond / marine
+
+C. Grassland
+
+D. Drylands
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pond and open ocean standing biomass can invert.
+
+</details>
+
+**Q39.** Highest DDT concentration after biomagnification is likely in:
+
+A. Grasshopper
+
+B. Toad
+
+C. Snake
+
+D. Cattle
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tertiary consumer holds the highest load.
+
+</details>
+
+**Q40.** Primary source / driving force of energy in an ecosystem:
+
+A. Fermentation heat
+
+B. Stored plant sugar alone
+
+C. Solar energy
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Solar energy**.
+
+</details>
+
+---
+
 ## Complete PYQ Bank (Topic 3)
 
 **Q1. UPPCS Prelims 2025, Q5**
@@ -957,4 +1151,8 @@ D. All three
 | 10% rule by Darwin | **Lindeman 1942** |
 | Food web makes energy cyclic | Each pathway is **one-way** |
 | Biomass pyramid measures energy flow | Biomass = **g/m²**; energy = **kcal/m²/yr** |
-| Open ocean = inverted number pyramid | Open ocean = inverted **biomass** pyramid |
+| Open ocean = inverted number pyramid | Open ocean / pond = inverted **biomass** pyramid |
+| Man is only secondary consumer | Man is **primary + secondary** consumer |
+| Virus is a decomposer | Decomposers = **fungi + bacteria** |
+| Food chain within one species | Food chains are **across** feeding links, not within one species |
+| Highest DDT in grasshopper | Highest in top consumer (e.g. **snake**) |

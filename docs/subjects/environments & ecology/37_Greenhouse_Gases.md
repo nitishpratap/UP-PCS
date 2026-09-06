@@ -14,32 +14,38 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
-2. Without the natural greenhouse effect Earth would average about **−18°C**. With it the surface averages about **+15°C**.
+2. Without the natural greenhouse effect Earth would average about **−18°C**. With it the surface averages about **+15°C**. **Joseph Fourier (1820s)** framed the idea.
 3. **CO₂** has **GWP = 1**. It dominates long-term forcing from fossil fuels, cement, and deforestation.
-4. Pre-industrial CO₂ was about **280 ppm**. Present levels are above **420 ppm**.
-5. **Methane (CH₄)** has GWP about **28–36**, a shorter lifetime near **12 years**, and strong links to paddies, cattle, landfills, and termites.
-6. **Nitrous oxide (N₂O)** is “laughing gas,” has very high GWP (about **265**), and is strongly linked to **fertilizer** use.
-7. **Water vapour** is the most abundant natural greenhouse gas, but it mainly acts as a **feedback**, not the primary anthropogenic driver.
-8. **Tropospheric ozone** is a greenhouse gas and pollutant. **Stratospheric ozone** is the UV shield.
-9. **CFCs** are both greenhouse gases and ozone-depleting substances and fall under Montreal controls.
-10. **HFCs** are greenhouse gases only (not classic ODS) and are phased down under **Kigali 2016**.
-11. Gases that are **not** greenhouse gases include **argon, N₂, O₂, and helium**.
-12. The Kyoto basket covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆**.
-13. **GWP** compares heat-trapping power to CO₂ over a stated horizon, usually **100 years**.
-14. **CO₂e** converts all greenhouse gases into carbon-dioxide equivalent using GWP.
-15. Biogas is mainly **methane plus CO₂**. Do not treat biogas as CO₂-only.
-16. Paddy fields are a classic **methane** source fact in Indian papers.
-17. CFC versus HFC is dual-role ODS+GHG versus climate-only substitute under Kigali.
-18. N₂O is not the same as N₂. Molecular nitrogen is inert as a greenhouse gas.
-19. Water vapour rises as Earth warms; that feedback amplifies warming but does not replace fossil CO₂ as the driver.
-20. F-gases (HFCs, PFCs, SF₆) are small by mass but can be huge by GWP.
-21. Cement process emissions are a major industrial CO₂ source beyond fuel combustion.
-22. Do not list argon as a greenhouse gas in a multi-statement stem.
-23. Methane’s shorter lifetime still matters because near-term warming impact is strong.
-24. Ozone’s greenhouse role is mainly **tropospheric**; do not call stratospheric ozone the main GHG form.
+4. Pre-industrial CO₂ was about **280 ppm (~0.03%)**. Present levels are above **415–420 ppm**.
+5. Rough WMO-style relative shares: **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**. Order: **CO₂ > CH₄ > CFCs > N₂O**.
+6. **Methane (CH₄)** has GWP about **28–36**, a shorter lifetime near **12 years**, and strong links to paddies, cattle, landfills, termites, and wetlands (**marsh gas**).
+7. **Nitrous oxide (N₂O)** is “laughing gas,” has very high GWP (about **265**), and is strongly linked to **fertilizer** use. **Rice** emits both CH₄ and N₂O.
+8. **Water vapour** is the most abundant natural greenhouse gas (~half of natural effect), but it mainly acts as a **feedback**, not the primary anthropogenic driver.
+9. **Tropospheric ozone** is a greenhouse gas and pollutant. **Stratospheric ozone** is the UV shield.
+10. **CFCs** are both greenhouse gases and ozone-depleting substances and fall under Montreal controls.
+11. **HFCs** are greenhouse gases only (not classic ODS) and are phased down under **Kigali 2016**.
+12. Gases that are **not** greenhouse gases include **argon, N₂, O₂, helium, hydrogen, and propane**.
+13. The Kyoto basket covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆** (later also **NF₃**).
+14. **GWP** compares heat-trapping power to CO₂ over a stated horizon, usually **100 years**. Methane’s short-horizon GWP is much higher than CO₂ — CH₄ is more potent per molecule.
+15. **CO₂e** converts all greenhouse gases into carbon-dioxide equivalent using GWP.
+16. Biogas is mainly **methane plus CO₂**. Do not treat biogas as CO₂-only.
+17. Paddy fields are a classic **methane** source fact in Indian papers.
+18. **Direct** GHGs: CO₂, CH₄, N₂O, CFCs, SF₆, NF₃. **Indirect:** NOₓ, CO, NMVOCs, SO₂.
+19. CFC versus HFC is dual-role ODS+GHG versus climate-only substitute under Kigali.
+20. N₂O is not the same as N₂. Molecular nitrogen is inert as a greenhouse gas.
+21. Water vapour rises as Earth warms; that feedback amplifies warming but does not replace fossil CO₂ as the driver.
+22. F-gases (HFCs, PFCs, SF₆) are small by mass but can be huge by GWP.
+23. Cement process emissions are a major industrial CO₂ source beyond fuel combustion.
+24. Do not list argon as a greenhouse gas in a multi-statement stem.
+25. Methane’s shorter lifetime still matters because near-term warming impact is strong.
+26. Ozone’s greenhouse role is mainly **tropospheric**; do not call stratospheric ozone the main GHG form.
+27. **Carbon fertilization** = higher plant growth from elevated CO₂.
+28. **Methane hydrates** in Arctic/seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in about a decade or two.
+29. **China** is the largest CO₂ emitter; India ~3rd absolute; **Bhutan** often carbon-negative.
+30. CO₂ is both **useful** (photosynthesis) and **harmful** (enhanced greenhouse effect) to life on Earth.
 
 ---
 
@@ -59,13 +65,15 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 **Identity:** Dominant by volume | GWP = 1 | Fossil fuels / cement / deforestation
 
-- **CO₂** is the main anthropogenic GHG by total forcing (~**76%**).
+- **CO₂** is the main anthropogenic GHG by total forcing (~**76%** IPCC-style). Many Indian papers also use WMO-style relative shares: **~64% CO₂, ~19% CH₄, ~6% N₂O, ~11% CFCs + others**.
 - **GWP = 1** — the reference gas for converting other gases to **CO₂e**.
-- Pre-industrial level ~**280 ppm**; now **420+ ppm**.
+- Pre-industrial level ~**280 ppm (~0.03%)**; now **415–420+ ppm**.
 - Main human sources: **fossil fuel combustion**, **cement**, **deforestation / land-use change**.
 - Persists in the climate system for a very long time compared with methane.
-- India ranks among the top absolute emitters (~**3rd**) but has **low per capita** emissions.
+- India ranks among the top absolute emitters (~**3rd**; **China** #1) but has **low per capita** emissions.
+- **Carbon fertilization** increases plant growth from higher CO₂ — distinct from warming and ocean acidification.
 - CO₂ forms weak carbonic acid in rain (natural pH ~5.6) but is **not** the main driver of damaging acid rain (SO₂/NOx dominate).
+- CO₂ is both **beneficial** (photosynthesis) and **harmful** (enhanced greenhouse warming).
 
 **PYQ — UPPCS Prelims 2018, Q132**
 
@@ -85,13 +93,15 @@ Options: A. China B. USA C. India D. France
 
 ## 37.2 Methane (CH₄)
 
-**Identity:** GWP ~28–36 | Paddies / cattle / landfills | Biogas / CNG
+**Identity:** Marsh gas | GWP ~28–36 | Paddies / cattle / wetlands | Hydrates
 
-- **Methane** is the second major anthropogenic GHG by forcing (~**16%**).
-- **GWP ≈ 28–36** (100-year); atmospheric lifetime ~**12 years**.
-- Flooded **rice paddies** create anaerobic soils that emit CH₄.
+- **Methane** is the second major anthropogenic GHG by forcing (~**16%** IPCC-style; ~**19%** in WMO-style relative-share stems).
+- Also called **marsh gas**.
+- **GWP ≈ 28–36** (100-year); atmospheric lifetime ~**12 years**. Short-horizon GWP is much higher than CO₂.
+- Flooded **rice paddies** create anaerobic soils that emit CH₄. With nitrogen fertiliser, **rice** is also a major **N₂O** source.
 - **Livestock** enteric fermentation (cattle/buffalo) is a major Indian source.
-- Other sources: **landfills**, natural **wetlands**, and **termites**.
+- Other sources: **landfills**, coal mines, natural **wetlands** (~**75–76%** of natural CH₄), and **termites**.
+- **Methane hydrates** under Arctic tundra and seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in roughly a decade or two.
 - **CNG** is mainly **methane** (~90%).
 - **Biogas** is mainly **methane + carbon dioxide**.
 
@@ -593,12 +603,15 @@ Options: A. Argon≠GHG; paddy→CH₄; laughing gas=N₂O; biogas=CH₄+CO₂; 
 | Trap | Correct |
 |------|------|
 | Argon / N₂ / O₂ are GHGs | **Not** |
+| Hydrogen / propane are GHGs | **Not** |
 | Paddy gas = CO₂ or CO | **Methane** |
 | Laughing gas = ammonia / CFC | **N₂O** |
 | Biogas = butane / CO | **CH₄ + CO₂** |
 | Highest GWP = most total warming | **CO₂ dominates by volume** |
-| Water vapour = primary human driver | **Feedback** |
+| Water vapour = primary human driver | **Feedback** / most abundant **natural** GHG |
 | CFC is not a GHG | **It is** (and ODS) |
+| SO₂ warms Earth directly | **Indirect** / acid-rain role |
+| Fourier missing | **Joseph Fourier (1820s)** |
 | HFC = ODS | **GHG only**; Kigali |
 | Stratospheric O₃ = smog pollutant | **UV shield**; bad O₃ is tropospheric |
 | CNG = butane | **Methane** |

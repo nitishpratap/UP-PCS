@@ -451,7 +451,7 @@ Teach CPCB industrial day standard as **75 dB** in general notes.
 
 - Coastal pollution comes mainly from **land-based** sewage, industry, ports, aquaculture, and plastics.
 - Damages mangroves, estuaries, turtle nesting beaches, and nearshore fisheries.
-- India’s first National Centre for Marine Biodiversity context is often linked to **Jamnagar** geography in older CA/PYQ banks.
+- India’s first **National Centre for Marine Biodiversity (NCMB)** is at **Jamnagar (Gujarat)** — coastal biodiversity safeguarding, not a CPCB/NGT fact.
 
 > ** note:** Coastal pollution is mostly land-origin, not only ship dumps.
 

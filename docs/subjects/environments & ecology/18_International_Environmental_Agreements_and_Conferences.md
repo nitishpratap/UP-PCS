@@ -15,7 +15,7 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. Conference spine: **Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015**.
 2. **Stockholm 1972** was the first UN Conference on the Human Environment. It led to **UNEP** (Nairobi). World Environment Day is **5 June**. The slogan fact is “Only One Earth.”
@@ -30,21 +30,23 @@
 11. **Ramsar** (**1971**) is the wetlands treaty under the Wise Use idea. World Wetlands Day is **2 February**.
 12. **CITES** (**1973**, Washington) regulates trade through Appendices **I–III**. IUCN’s Red List assesses extinction risk; CITES regulates trade — different jobs.
 13. **GEF** was established in **1991** on the eve of Rio as a finance mechanism for major environmental conventions.
-14. Kyoto set binding targets mainly for developed parties. Paris is a universal NDC architecture. Do not treat them as identical instruments.
-15. Kigali amends Montreal to phase down **HFCs**. It is an ozone-protocol amendment path, not a UNFCCC protocol.
-16. Basel is waste shipment control. Rotterdam is prior informed consent for chemicals. Stockholm POPs is about persistent toxics such as listed DDT/PCB classes. Minamata is mercury.
-17. CMS is migratory species; CITES is trade; Ramsar is wetlands. Mixing those three is a classic match trap.
-18. UNEP was born from Stockholm, not from Rio. Rio opened UNFCCC and CBD.
-19. Paris is **2015**; Kyoto is **1997**; UNFCCC framework is **1992**. Keep the climate chronology straight.
-20. Montreal successful ODS phase-out is often contrasted with slower climate politics — but stems still demand the correct issue tag, not slogans.
-21. Rudrasagar is a **Tripura** Ramsar site. Sultanpur is **Haryana**. Neither is an Uttar Pradesh site.
-22. Uttar Pradesh Ramsar examples include sites such as Nawabganj, Samaspur, Sarsai Nawar, Upper Ganga, Bakhira, and Haiderpur — verify the live list before the paper, but never park Rudrasagar or Sultanpur in UP.
-23. CBD opened at Rio **1992**; Nagoya ABS is **2010**. Do not date CBD as 2010.
-24. Forest Principles at Rio are non-binding soft law — not the same as CITES appendices.
-25. Johannesburg **2002** and Rio+20 **2012** continue the sustainable-development conference line after Rio; they do not reopen CITES as a 1992 invention.
-26. “Only One Earth” and UNEP creation fact to Stockholm **1972**, not to Paris **2015**.
-27. Wise Use is the Ramsar philosophy. It is not the CBD’s three objectives word-for-word.
-28. Master year table worth ratta: Ramsar 1971, CITES 1973, Vienna 1985, Montreal 1987, Basel 1989, UNFCCC/CBD 1992, Kyoto 1997, Rotterdam 1998, Stockholm POPs 2001, Nagoya 2010, Minamata 2013, Paris 2015, Kigali 2016.
+14. **UNCCD (1994)** is the sole legally binding convention linking environment, development, and sustainable land management; it stresses bottom-up local participation against desertification.
+15. The **New York Declaration on Forests (2014)** is a voluntary, non-legally binding political declaration (halve forest loss by 2020 / end by 2030 ambition language); India was **not** an original signatory.
+16. Kyoto set binding targets mainly for developed parties. Paris is a universal NDC architecture. Do not treat them as identical instruments.
+17. Kigali amends Montreal to phase down **HFCs**. It is an ozone-protocol amendment path, not a UNFCCC protocol.
+18. Basel is waste shipment control. Rotterdam is prior informed consent for chemicals. Stockholm POPs is about persistent toxics such as listed DDT/PCB classes. Minamata is mercury.
+19. CMS is migratory species; CITES is trade; Ramsar is wetlands. Mixing those three is a classic match trap.
+20. UNEP was born from Stockholm, not from Rio. Rio opened UNFCCC and CBD.
+21. Paris is **2015**; Kyoto is **1997**; UNFCCC framework is **1992**. Keep the climate chronology straight.
+22. Montreal successful ODS phase-out is often contrasted with slower climate politics — but stems still demand the correct issue tag, not slogans.
+23. Rudrasagar is a **Tripura** Ramsar site. Sultanpur is **Haryana**. Neither is an Uttar Pradesh site.
+24. Uttar Pradesh Ramsar examples include sites such as Nawabganj, Samaspur, Sarsai Nawar, Upper Ganga, Bakhira, and Haiderpur — verify the live list before the paper, but never park Rudrasagar or Sultanpur in UP.
+25. CBD opened at Rio **1992**; Nagoya ABS is **2010**. Do not date CBD as 2010.
+26. Forest Principles at Rio are non-binding soft law — not the same as CITES appendices.
+27. Johannesburg **2002** and Rio+20 **2012** continue the sustainable-development conference line after Rio; they do not reopen CITES as a 1992 invention.
+28. “Only One Earth” and UNEP creation fact to Stockholm **1972**, not to Paris **2015**.
+29. Wise Use is the Ramsar philosophy. It is not the CBD’s three objectives word-for-word.
+30. Master year table worth ratta: Ramsar 1971, CITES 1973, Vienna 1985, Montreal 1987, Basel 1989, UNFCCC/CBD 1992, UNCCD 1994, Kyoto 1997, Rotterdam 1998, Stockholm POPs 2001, Nagoya 2010, Minamata 2013, New York Forests Declaration 2014, Paris 2015, Kigali 2016.
 
 ---
 
@@ -67,7 +69,7 @@
 
 ## 18.1 Conferences — Stockholm, Brundtland, Rio, Agenda 21 & SD Summits
 
-**Identity:** UNEP 1972 | SD definition 1987 | Rio triple outcome 1992 | Agenda 21 trap
+**Identity:** UNEP 1972 | SD definition 1987 | Rio triple outcome 1992 | Agenda 21 trap | Earth Summit +5 | Rio+20
 
 - The **Stockholm Conference (1972)** was the first major UN conference on the **human environment**.
 - Its theme was **"Only One Earth"** and it adopted the **Stockholm Declaration** with 26 principles.
@@ -75,13 +77,20 @@
 - **World Environment Day** is celebrated on **5 June** every year, marking the Stockholm opening day.
 - The **Brundtland Commission (WCED)** published ***Our Common Future*** in **1987** with the classic **sustainable development** definition.
 - The Brundtland Report is **not** *The Limits to Growth* (Club of Rome, 1972).
+- Chronology often tested: ***Limits to Growth* (1972)** → **Brundtland Report (1987)** → **Montreal Protocol enforcement (January 1989)** → **Rio Earth Summit (June 1992)**.
+- Montreal was **signed in September 1987**; papers that say “enforcement” mean **January 1989**.
 - The **Rio Earth Summit (1992)** or **UNCED** produced the **Rio Declaration**, opened **UNFCCC** and **CBD** for signature, and adopted **Agenda 21**.
 - **Agenda 21** is a non-binding action plan for **sustainable development in the 21st century** — adopted at **Rio 1992**, not 1995.
 - **Local Agenda 21** encourages cities and local bodies to prepare their own SD plans.
-- **Johannesburg Summit (2002)** was Rio+10 on sustainable development.
-- **Rio+20 (2012)** reviewed SD progress and led toward the **2030 Agenda**.
+- The **Commission on Sustainable Development (CSD)** was created to monitor Earth Summit implementation.
+- **Earth Summit +5** was the UN General Assembly special session held in **New York in June 1997** to review Rio progress.
+- **Johannesburg Summit (2002)** was Rio+10 on sustainable development and reaffirmed Agenda 21.
+- **Rio+20 (2012)** — the United Nations Conference on Sustainable Development — reviewed SD progress and produced the outcome document ***The Future We Want***.
+- **PAGE (Partnership for Action on Green Economy)** was created as the UN response to Rio+20’s call for green-economy transitions.
 - **SDGs were adopted in 2015** at the UN General Assembly.
 - The **Global Environment Facility (GEF)** was established in **1991** on the eve of Rio to finance global environmental projects.
+- GEF is a financial mechanism for five major conventions: **Minamata** (mercury), **Stockholm POPs**, **CBD**, **UNCCD**, and **UNFCCC**.
+- Key implementing partners include **UNDP**, **UNEP**, and the **World Bank**. GEF also supports tools such as the **Least Developed Countries Fund (LDCF)** for National Adaptation Programmes of Action.
 
 **PYQ — UPPCS Prelims 2025, Q51**
 
@@ -125,10 +134,13 @@ Brundtland Report is also known as *The Limits to Growth*?
 | Conference | Year | Key output |
 |------------|------|------------|
 | Stockholm | 1972 | UNEP, WED 5 June |
+| Limits to Growth | 1972 | Club of Rome study |
 | Brundtland | 1987 | SD definition |
+| Montreal enforcement | Jan 1989 | ODS phase-out starts |
 | Rio | 1992 | UNFCCC, CBD, Agenda 21 |
+| Earth Summit +5 | 1997 | Rio progress review (NY) |
 | Johannesburg | 2002 | Rio+10 |
-| Rio+20 | 2012 | SD review |
+| Rio+20 | 2012 | *The Future We Want*; PAGE |
 | SDGs | 2015 | 17 goals, 2030 deadline |
 
 ---
@@ -139,8 +151,10 @@ Brundtland Report is also known as *The Limits to Growth*?
 
 - The **UNFCCC** was opened for signature at **Rio 1992** to stabilize greenhouse gas concentrations.
 - UNFCCC holds annual **COP** meetings. The secretariat is in **Bonn, Germany**.
-- The **Kyoto Protocol (1997)** set **legally binding emission reduction targets** for **Annex-I (developed) countries**.
-- Kyoto introduced **Clean Development Mechanism (CDM)** carbon credits and **Emissions Trading**.
+- The **Kyoto Protocol (1997)** set **legally binding emission reduction targets** for **Annex-I (developed) countries**. It entered into force on **16 February 2005**.
+- Kyoto introduced **Clean Development Mechanism (CDM)** carbon credits and **Emissions Trading**. CDM projects run in **developing countries**; **1 CER ≈ 1 tCO₂**.
+- The **Green Climate Fund (GCF)** was established at **Cancun COP-16 (2010)** under UNFCCC — not at Durban.
+- **Earth Hour** is a **WWF** climate-awareness event (usually last Saturday of March). **GHG Protocol** = **WRI + WBCSD**.
 - The **Paris Agreement (2015)** at **COP21** applies to **all countries** through **Nationally Determined Contributions (NDCs)**.
 - Paris aims to limit warming to **well below 2°C**, pursuing **1.5°C**.
 - Paris entered into force in **2016**. It is **not identical** to Kyoto's binding annex-only model.
@@ -197,6 +211,8 @@ D. CITES
 - The **Convention on Biological Diversity (CBD)** was opened at **Rio 1992**.
 - Its three objectives are **conservation**, **sustainable use**, and **fair benefit-sharing (ABS)**.
 - The **Cartagena Protocol** covers **biosafety** for living modified organisms.
+- **TRAFFIC** (WWF–IUCN alliance) monitors wildlife trade for sustainability — it is **not** a UNEP bureau.
+- **BirdLife International** identifies Important Bird and Biodiversity Areas; biodiversity **hotspots** were framed by **Norman Myers**, not BirdLife.
 - The **Nagoya Protocol (2010)** implements **Access and Benefit Sharing (ABS)**.
 - India implemented CBD through the **Biological Diversity Act, 2002**.
 
@@ -216,6 +232,8 @@ D. CITES
 
 - The **Ramsar Convention (1971)** conserves **wetlands** through the **"Wise Use"** principle.
 - **World Wetlands Day** is **2 February**.
+- India has about **80** Ramsar sites; state ranks often tested are **Tamil Nadu 16**, **Uttar Pradesh 10**, **Punjab 6**.
+- The **Montreux Record** lists Ramsar sites where ecological character has changed or may change from human interference.
 - India has many Ramsar sites including several in **UP**.
 
 **PYQ — UPPCS Prelims 2025, Q58**

@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
+MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 
 </details>
 
@@ -14,7 +14,7 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 26 Must-Score Facts
 
 1. **MoEFCC** is India’s nodal ministry for environment, forests, wildlife, and climate change. It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
 2. MoEFCC grants **Category A Environmental Clearance**, runs the **PARIVESH** portal, and administers EPA, Wildlife Act, Forest Conservation Act, and Biodiversity Act. It does **not** set NAAQS pollution standards.
@@ -28,18 +28,20 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 10. **WII** (**1982**, Dehradun) does wildlife research and trains forest officers. It helped frame India’s **ten** biogeographic zones and tiger-census methods. It is **not** the plant or animal survey body.
 11. **BSI** (**1890**, Kolkata) surveys **plants** and publishes *Flora of India* and the plant Red Data Book. **ZSI** (**1916**, Kolkata) surveys **animals** and publishes *Fauna of India* and the animal Red Data Book.
 12. **FSI** (**1981**, Dehradun) maps forest cover and publishes the **India State of Forest Report** every **two years**. ISFR is **not** an annual CPCB product.
-13. Headquarters fact: **Delhi** — MoEFCC, CPCB, NGT; **Dehradun** — WII, FSI; **Kolkata** — BSI, ZSI; **Lucknow** — UPPCB.
-14. Category A EC → **MoEFCC**. Category B EC → **SEIAA**. Industry consent → **SPCB**. EC appeal → **NGT**.
-15. Pollution standards → **CPCB**. Forest cover report → **FSI**. Plant taxonomy → **BSI**. Animal taxonomy → **ZSI**. Wildlife training → **WII**.
-16. MoEFCC was **not** created in **1972**. That year marks the Stockholm Conference and the Wildlife (Protection) Act.
-17. Consent under Water/Air Acts is **not** the same as Environmental Clearance under EPA/EIA rules. Confusing CTE/CTO with EC is a classic trap.
-18. Forest clearance for diversion of forest land sits with **MoEFCC** under the Forest (Conservation) Act — not with CPCB or NGT.
-19. BSI and ZSI both sit in Kolkata, but BSI is plants only and ZSI is animals only. Swapping kingdoms is a frequent wrong match.
-20. WII and FSI both sit in Dehradun, but WII is wildlife science/training and FSI is forest-cover assessment. Do not give ISFR to WII.
-21. NGT adjudicates; it does **not** replace CPCB on standards or MoEFCC on clearances.
-22. SPCBs work under CPCB technical guidance and state administrative control. They enforce standards; they do not write national NAAQS.
-23. PARIVESH is MoEFCC’s online EC application system — not a CPCB monitoring portal.
-24. Match report to publisher: ISFR → **FSI**; Groundwater Quality Report → **CGWB**; NAAQS bulletins → **CPCB**; *Flora* → **BSI**; *Fauna* → **ZSI**.
+13. **NEERI** (**1958**, **Nagpur**) began as **CPHERI** and is a CSIR laboratory for environmental science and engineering under the Ministry of Science and Technology.
+14. Headquarters fact: **Delhi** — MoEFCC, CPCB, NGT; **Dehradun** — WII, FSI; **Kolkata** — BSI, ZSI; **Nagpur** — NEERI; **Lucknow** — UPPCB.
+15. Category A EC → **MoEFCC**. Category B EC → **SEIAA**. Industry consent → **SPCB**. EC appeal → **NGT**.
+16. Pollution standards → **CPCB**. Forest cover report → **FSI**. Plant taxonomy → **BSI**. Animal taxonomy → **ZSI**. Wildlife training → **WII**. Environmental engineering research → **NEERI**.
+17. MoEFCC was **not** created in **1972**. That year marks the Stockholm Conference and the Wildlife (Protection) Act.
+18. Consent under Water/Air Acts is **not** the same as Environmental Clearance under EPA/EIA rules. Confusing CTE/CTO with EC is a classic trap.
+19. Forest clearance for diversion of forest land sits with **MoEFCC** under the Forest (Conservation) Act — not with CPCB or NGT.
+20. BSI and ZSI both sit in Kolkata, but BSI is plants only and ZSI is animals only. Swapping kingdoms is a frequent wrong match.
+21. WII and FSI both sit in Dehradun, but WII is wildlife science/training and FSI is forest-cover assessment. Do not give ISFR to WII.
+22. NGT adjudicates; it does **not** replace CPCB on standards or MoEFCC on clearances. The older **NEAA (1997)** was dissolved after NGT was set up.
+23. SPCBs work under CPCB technical guidance and state administrative control. They enforce standards; they do not write national NAAQS.
+24. PARIVESH is MoEFCC’s online EC application system — not a CPCB monitoring portal.
+25. Match report to publisher: ISFR → **FSI**; Groundwater Quality Report → **CGWB**; NAAQS bulletins → **CPCB**; *Flora* → **BSI**; *Fauna* → **ZSI**.
+26. NEERI is **Nagpur 1958**, not New Delhi 1970 and not a pollution-standards board.
 
 ---
 
@@ -56,6 +58,7 @@ MoEFCC | CPCB | SPCB | NGT | WII | BSI | ZSI | FSI
 | **ZSI** | Animal survey and taxonomy | ZSI |
 | **FSI** | Forest cover assessment — ISFR publisher | FSI |
 | **ISFR** | India State of Forest Report — biennial | ISFR |
+| **NEERI** | CSIR environmental engineering lab — **Nagpur 1958** | NEERI |
 
 ---
 
@@ -146,8 +149,11 @@ Annual Groundwater Quality Report 2024 prepared by:
 - The Act targets disposal within **6 months**.
 - NGT **does not grant EC** — it **adjudicates appeals**.
 - NGT **does not set pollution standards** — CPCB does.
+- NGT was established by an **Act of Parliament**. CPCB was constituted under the **Water Act, 1974** — it is **not** a mere executive order body.
+- The older **National Environment Appellate Authority (NEAA / NEA)** was created under the **NEAA Act, 1997** to hear appeals on restricted-area industrial siting under EPA.
+- After NGT began functioning (**18 October 2010**), the **NEAA stood dissolved**.
 
-> ** note:** NGT Act = **2010**, not 1986.
+> ** note:** NGT Act = **2010**, not 1986. NEAA 1997 → dissolved after NGT.
 
 ---
 
@@ -225,6 +231,25 @@ ISFR 2023 is published by **FSI**. UP districts with >20% forest cover included 
 
 ---
 
+## 16.8 National Environmental Engineering Research Institute (NEERI)
+
+**Identity:** 1958 Nagpur | Ex-CPHERI | CSIR | Environmental science & engineering
+
+- **NEERI** is India’s pioneering CSIR laboratory for **environmental science and engineering**.
+- It was established in **1958** at **Nagpur** as the **Central Public Health Engineering Research Institute (CPHERI)**.
+- Early focus was water supply, sewage disposal, related diseases, and industrial pollution control.
+- NEERI works under the **Council of Scientific and Industrial Research (CSIR)** and falls under the **Ministry of Science and Technology**.
+- It has zonal laboratories at **Chennai, Delhi, Hyderabad, Kolkata, and Mumbai**.
+- NEERI is **not** a pollution-control board and **does not** set NAAQS — that is **CPCB**.
+- HQ city: **Nagpur**, not Bengaluru, Hyderabad, or New Delhi.
+
+| Body | HQ | Job |
+|------|-----|-----|
+| NEERI | **Nagpur** | Env. engineering research (CSIR) |
+| CPCB | New Delhi | Pollution standards / monitoring |
+| NGT | New Delhi | Environmental adjudication |
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

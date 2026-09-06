@@ -4,15 +4,16 @@ hide:
   - toc
 ---
 
-# UP PCS Study Library
+# UPPCS + UKPCS Study Library
 
 <div class="landing-hero" markdown>
 
 ## Know what to revise first.
 
-Use this site like an exam desk: first see **where Prelims marks come from**, then open the matching notes, then drill questions with answers hidden.
+Shared national GS for **UPPCS** and **UKPCS**. State-only syllabus sits under each subject’s **Uttarakhand** folder. At least **1/3rd** of UKPCS GS questions reference Uttarakhand.
 
 [Start Prelims Analysis](prelims-analysis/index.md){ .md-button .md-button--primary }
+[UKPCS Desk](ukpcs/index.md){ .md-button .md-button--primary }
 [Open Subject Notes](subjects/index.md){ .md-button }
 [Current Affairs](current-affairs/index.md){ .md-button }
 [Fact Locks](fact-locks/index.md){ .md-button }
@@ -26,10 +27,13 @@ Use this site like an exam desk: first see **where Prelims marks come from**, th
 <div class="study-grid" markdown>
 
 [**:material-chart-box-outline: Prelims Analysis**
-<span>Best first stop. Shows mark weight, high-yield topics, traps, and what to study this week.</span>](prelims-analysis/index.md){ .study-card }
+<span>Best first stop for UPPCS heat maps. UKPCS overview placeholder until PYQs are pasted.</span>](prelims-analysis/index.md){ .study-card }
+
+[**:material-map-marker: UKPCS Desk**
+<span>UKPCS Units 1–6 syllabus, folder map, and links into every Uttarakhand subject folder.</span>](ukpcs/index.md){ .study-card }
 
 [**:material-book-open-page-variant: Subject Notes**
-<span>Full topic notes for the heat-map chapters: spine, confused pairs, PYQs, and practice.</span>](subjects/index.md){ .study-card }
+<span>Shared national chapters + nested Uttarakhand folders for UK-only heads.</span>](subjects/index.md){ .study-card }
 
 [**:material-lock: Fact Locks**
 <span>Must-memorise tables, X→Y associations, mnemonics, and traps — the ratta layer.</span>](fact-locks/index.md){ .study-card }
@@ -106,7 +110,7 @@ If you are short on time, do **Geography + Polity + Environment** first. Togethe
 
 1. **Open Prelims Analysis first.** It tells you what to study now and what can wait.
 2. **Open the linked subject notes.** Read the *Quick Revision — Spine Only* block before detail.
-3. **Drill confused pairs and traps.** These are where UPPCS options usually punish you.
+3. **Drill confused pairs and traps.** These are where UPPCS / UKPCS options usually punish you. For UKPCS, also finish each subject’s **Uttarakhand** section.
 4. **Attempt PYQs and practice stems.** Use `<details>` answers only after attempting.
 5. **Drill Fact Locks** for must-memorise associations before exam day.
 6. **Close with Active Recall.** If you cannot answer hidden-answer cards, reread the spine or Fact Locks.

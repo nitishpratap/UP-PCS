@@ -14,36 +14,40 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. The **Wildlife (Protection) Act, 1972** is India’s main protected-area statute.
 2. Terrestrial WPA strictness runs **National Park > Wildlife Sanctuary > Conservation/Community Reserve**.
 3. A **Wildlife Sanctuary** (Section **18**) allows limited human use with **Chief Wildlife Warden** permission.
-4. A **National Park** (Section **35**) is the strictest WPA protected area. Grazing and forestry are largely banned. Boundary change needs **Parliament**.
-5. A **Biosphere Reserve** follows the UNESCO MAB three-zone model: **core → buffer → transition**. It has **no WPA statutory basis**.
-6. India has **18** biosphere reserves; **13** are in the UNESCO network. The first was **Nilgiri (1986)**. **Nokrek** is in **Meghalaya**, not Manipur.
+4. A **National Park** (Section **35**) is the strictest WPA protected area. Grazing and forestry are largely banned. Boundary change needs a resolution of the **State Legislature** (not Parliament).
+5. A **Biosphere Reserve** follows the UNESCO MAB three-zone model: **core** (no exploitative use) → **buffer** (research, education, regulated tourism/grazing) → **transition** (settlements, cultivation, livelihoods). It has **no WPA statutory basis**.
+6. India has **18** biosphere reserves; about **12–13** are in the UNESCO network (count drifts with new WNBR listings). The first was **Nilgiri (1986)**. **Nokrek** is in **Meghalaya**, not Manipur.
 7. A **Conservation Reserve** (Section **36A**, 2002) is a government/community forest buffer near a protected area.
 8. A **Community Reserve** (Section **36B**, 2002) sits on private or community land with voluntary consent.
 9. A **Tiger Reserve** rests on WPA Section **38V** (2006 path) with **core + buffer** under **NTCA**. India has **58** tiger reserves. **Corbett** was first in **1973**.
 10. An **Elephant Reserve** comes from **Project Elephant (1992)** by executive notification. It has **no WPA statutory basis**. India has about **33** elephant reserves.
-11. India’s first Marine National Park is **Gulf of Kutch, Gujarat (1980)**. Uttar Pradesh has **no marine PA**.
+11. India’s first Marine National Park is **Gulf of Kutch, Gujarat (1980)**. **Gulf of Mannar (TN, 1980)** is also a Marine NP. Uttar Pradesh has **no marine PA**.
 12. **Ramsar (1971)** marks wetlands of international importance. India joined in **1982**. Uttar Pradesh has **12** Ramsar sites.
 13. **Rudrasagar** is in **Tripura**. **Sultanpur** is in **Haryana**. Neither is an Uttar Pradesh Ramsar site.
 14. An **Eco-Sensitive Zone (ESZ)** is an **EPA 1986** buffer around protected areas that restricts mining and polluting industry. ESZ is **not** a WPA category.
-15. WPA basis yes: National Park, Sanctuary, Tiger Reserve, Conservation Reserve, Community Reserve. WPA basis no: Biosphere Reserve, Elephant Reserve, Ramsar, ESZ.
-16. Uttar Pradesh’s only classic National Park fact is **Dudhwa**.
-17. UP tiger reserves are **Dudhwa, Pilibhit, and Ranipur**.
-18. Important UP sanctuaries include **Katarniaghat, Kishanpur, Nawabganj, and Sur Sarovar**.
-19. UP elephant reserves include **UP ER (2009)** and **Terai ER (2022)**.
-20. UP Ramsar sites include Upper Ganga (Brijghat–Narora), Nawabganj, Parvati Arga, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Haiderpur, Bakhira, Patna, and Shekha Jheel.
-21. Uttar Pradesh has **no natural World Heritage** terrestrial site of the marine/island type used in coastal PA lists.
-22. The **Terai Arc** corridor links Dudhwa–Kishanpur–Katarniaghat toward Nepal.
-23. Tiger Reserves are statutory under WPA; Elephant Reserves are not — that swap is a high-yield trap.
-24. Biosphere Reserve zoning is landscape management under MAB; it is not the same as a National Park notification under Section 35.
-25. Community Reserve is private/community land; Conservation Reserve is mainly government forest buffer — do not reverse Sections **36A/36B**.
-26. ESZ regulates harmful activity around a PA; it does not itself create a new WPA Schedule animal list.
-27. Sanctuary permits regulated use; National Park does not allow the same degree of use — strictness order must stay NP > WLS.
-28. Match “firsts” carefully: first BR = **Nilgiri 1986**; first TR = **Corbett 1973**; first Marine NP = **Gulf of Kutch 1980**.
+15. Protected-area stock (ENVIS-style ~2023): about **106** National Parks, **573** Wildlife Sanctuaries, **123** Conservation Reserves, **220** Community Reserves. **Madhya Pradesh** leads NP count; **Andaman & Nicobar** leads sanctuary count.
+16. In a National Park, local people are **not** allowed to collect/use biomass the way limited use is permitted in a sanctuary. BR is for landscape conservation of **all forms of life**, not “a few species only.”
+17. WPA basis yes: National Park, Sanctuary, Tiger Reserve, Conservation Reserve, Community Reserve. WPA basis no: Biosphere Reserve, Elephant Reserve, Ramsar, ESZ.
+18. Uttar Pradesh’s only classic National Park fact is **Dudhwa** (Lakhimpur Kheri; rhino rehabilitation from **1984**, later phases including ~**2018**).
+19. UP tiger reserves are **Dudhwa, Pilibhit, and Ranipur**.
+20. Important UP sanctuaries include **Katarniaghat (1975), Kishanpur, Chandra Prabha (Chandauli), Nawabganj, and Sur Sarovar**.
+21. UP elephant reserves include **UP ER (2009)** and **Terai ER (2022)**.
+22. UP Ramsar sites include Upper Ganga (Brijghat–Narora), Nawabganj, Parvati Arga, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Haiderpur, Bakhira, Patna, and Shekha Jheel.
+23. River–park traps: **Corbett = Ramganga + Kosi** (not Ganga); **Kaziranga = Brahmaputra / Diphlu system** (not Manas); **Silent Valley = Kunthipuzha** (not Kaveri).
+24. The **Terai Arc** corridor links Dudhwa–Kishanpur–Katarniaghat toward Nepal.
+25. Tiger Reserves are statutory under WPA; Elephant Reserves are not — that swap is a high-yield trap.
+26. Biosphere Reserve zoning is landscape management under MAB; it is not the same as a National Park notification under Section 35.
+27. Community Reserve is private/community land; Conservation Reserve is mainly government forest buffer — do not reverse Sections **36A/36B**.
+28. ESZ regulates harmful activity around a PA; it does not itself create a new WPA Schedule animal list.
+29. Sanctuary permits regulated use; National Park does not allow the same degree of use — strictness order must stay NP > WLS.
+30. Match “firsts” carefully: first BR = **Nilgiri 1986**; first TR = **Corbett 1973**; first Marine NP = **Gulf of Kutch 1980**; world first NP = **Yellowstone 1872**.
+31. **International Tiger Day = 29 July** (St Petersburg 2010). **M-STrIPES** monitors tiger reserves (patrol + ecology GIS tool).
+32. **Sathyamangalam TR (TN)** is a classic ecological link between Eastern and Western Ghats.
 
 ---
 
@@ -80,10 +84,11 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 | **WPA section** | Sec 18–27 | Sec 35 |
 | **Human activity** | Allowed with CWLW permission | Largely prohibited |
 | **Grazing / forestry** | May be permitted | Prohibited |
-| **Boundary change** | State process | De-notification needs **Parliament** |
+| **Biomass collection** | Limited use may be allowed | **Not** allowed as in sanctuary |
+| **Boundary change** | State process | Needs **State Legislature** resolution |
 | **Strictness** | Moderate | **Highest** among WPA terrestrial PAs |
 
-> ** note:** Trap — "no human activity is allowed in any wildlife sanctuary" is **false**.
+> **Logic:** Trap — "no human activity is allowed in any wildlife sanctuary" is **false**. NP boundary change = **State Legislature**, not Parliament.
 
 ---
 
@@ -94,11 +99,12 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 - A **National Park (NP)** is the **strictest** category of terrestrial protected area under WPA.
 - The **State Government** notifies a national park under **WPA Section 35**.
 - Grazing, hunting, forestry, and private exploitation are **prohibited** inside a national park.
-- Altering or de-notifying a national park boundary requires **Parliament's** approval.
+- Altering a national park boundary requires a resolution of the **Legislature of the State** (WPA Sec 35) — **not Parliament**.
+- Local people are **not** allowed to collect and use biomass in a National Park the way limited biotic interference may be permitted in a sanctuary.
 - India's first national park was **Hailey National Park**, now **Corbett National Park (1936)** in Uttarakhand.
-- Uttar Pradesh's major national park is **Dudhwa National Park** in the Terai.
+- Uttar Pradesh's major national park is **Dudhwa National Park** in the Terai (rhino rehabilitation from **1984**).
 
-> ** note:** UPPCS 2025 Q90 tests NP location matching. Keoladeo is in **Rajasthan**. Dachigam is in **Jammu & Kashmir**.
+> **Logic:** UPPCS 2025 Q90 tests NP location matching. Keoladeo is in **Rajasthan**. Dachigam is in **Jammu & Kashmir**.
 
 **PYQ — UPPCS Prelims 2025, Q90**
 
@@ -130,10 +136,12 @@ D. 4 2 1 3
 - A **Biosphere Reserve (BR)** is a large landscape for conservation, research, and sustainable community use under UNESCO's **Man and the Biosphere (MAB) Programme**.
 - India notified its first BR, **Nilgiri**, in **1986**.
 - India has **18 notified Biosphere Reserves**. **13** are in UNESCO's World Network of Biosphere Reserves.
-- Every BR has three zones. The **core** zone bans exploitative human activity. The **buffer** allows limited research and education. The **transition** zone permits regulated sustainable use by locals.
+- Every BR has three zones. The **core** zone bans exploitative human activity (strict protection / genetic diversity). The **buffer** allows limited research, education, regulated eco-tourism and grazing. The **transition** zone permits settlements, cultivation, and regulated sustainable livelihoods.
+- BRs conserve **in situ all forms of life** with support systems — they are **not** declared merely to conserve “a few specific species.”
 - BRs are **executive notifications** by MoEFCC. They do **not** have a separate statutory category under WPA, though core areas often overlap with national parks or sanctuaries.
-- **Nokrek** is in **Meghalaya**, not Manipur. **Simlipal** is in **Odisha**. **Agasthyamalai** spans **Kerala and Tamil Nadu**.
-- The **largest** BR is **Great Rann of Kutch** (Gujarat). The **smallest** is **Nokrek** (Meghalaya).
+- **Nokrek** is in **Meghalaya** (Garo Hills; Nokrek peak), not Manipur. **Simlipal** is in **Odisha**. **Agasthyamalai** spans **Kerala and Tamil Nadu** (Neyyar, Peppara, Shendurney WLS + Kalakad–Mundanthurai TR).
+- The **largest** national BR by area is **Great Rann of Kutch** (Gujarat). Among UNESCO-certified Indian BRs by area, **Gulf of Mannar** is often cited as the largest. The **smallest** is **Nokrek** (Meghalaya).
+- Area order among common options: **Gulf of Mannar > Sundarbans > Pachmarhi > Khangchendzonga**.
 
 | # | Biosphere Reserve | State(s) |
 |---|-------------------|----------|

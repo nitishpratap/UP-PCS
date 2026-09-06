@@ -14,36 +14,44 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
-1. **Ecology** is the **study** of organism–environment interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology.
+1. **Ecology** is the **study** of organism–environment interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** is synonymous with ecology; it does **not** mean “management of life.”
 2. An **ecosystem** is a **functional unit** of biotic and abiotic interaction with energy flow and nutrient cycling. **Tansley (1935)** coined the word.
-3. The seven ecological levels run **organism → population → community → ecosystem → landscape → biome → biosphere**.
-4. Ecosystems may be natural or anthropogenic, terrestrial or aquatic, and **lentic** (standing) or **lotic** (flowing).
-5. A pond’s vertical/horizontal zones include **littoral → limnetic → profundal**. Marine zones include littoral, neritic, pelagic, benthic, and abyssal.
-6. Structure runs **producers → primary/secondary/tertiary consumers → decomposers and detritivores**.
-7. Core ecosystem functions are **productivity, decomposition, nutrient cycling, and unidirectional energy flow**.
-8. A **niche** is a species’ **role**, not its place. A **habitat** is the place. Do not swap them.
-9. A **fundamental niche** is the full potential role without competitors. A **realized niche** is the narrower role after competition.
-10. **Gause’s competitive exclusion** says two species with identical niches cannot stably coexist when resources are limited.
-11. **Liebig** = limiting factor; **Shelford** = tolerance range; **Lindeman (1942)** ≈ **10%** energy transfer between trophic levels.
-12. **NPP = GPP − plant respiration**. Plants capture only about **1%** of incident sunlight on leaves.
-13. **Primary succession** starts on a lifeless substrate. **Secondary succession** starts where **soil already exists** after disturbance.
-14. Succession phases are often taught as **migration → ecesis → reaction → stabilisation**. The full community sequence is a **sere**.
-15. Pioneers such as lichen and moss lead through seral stages to a **climax community**. **Hydrosere** is wet; **xerosere** is dry.
-16. An **r-strategist** produces many offspring with fast growth and short life. A **K-strategist** produces few offspring with slow growth and long life.
-17. Population growth models contrast the **J-curve** (exponential) with the **S-curve** (logistic) that levels near carrying capacity.
-18. MEA (**2005**) ecosystem services are **provisioning, regulating, supporting, and cultural**.
-19. Ecosystem balance is a **dynamic equilibrium**. **Resilience** is the capacity to recover after disturbance.
-20. **Eutrophication** is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
-21. Energy flow is **one-way**. Nutrients **cycle**. Saying energy cycles is a classic wrong option.
-22. A **community** is all populations of different species in an area. A **population** is one interbreeding species in one area.
-23. Sufficient resources generally allow **more**, not fewer, coexisting species — do not reverse that logic under competitive exclusion.
-24. UP lotic examples include the **Ganga, Yamuna, and Gomti**. Terai forest and Vindhyan scrub are terrestrial examples.
-25. UP wetland examples include **Sur Sarovar (Agra)** and **Nawabganj (Unnao)**.
-26. Western UP sugarcane belts are classic **agro-ecosystem** examples.
-27. Dudhwa is a standard UP site for **tiger population** and Terai forest ecosystem questions.
-28. Odum is linked to modern ecosystem ecology; keep him separate from Haeckel (term ecology) and Tansley (term ecosystem).
+3. Ecosystems are normally **open systems**. Calling an ecosystem a closed system is wrong.
+4. Four basic components often listed together are **abiotic materials, producers, consumers, and decomposers**.
+5. The seven ecological levels run **organism → population → community → ecosystem → landscape → biome → biosphere**. A frequent shorter order asked is **Population → Community → Ecosystem → Landscape**.
+6. The **biosphere** is the largest ecosystem of Earth. Among ecosystem *types*, the **marine/ocean** ecosystem covers the largest area and is cited as the **most stable**.
+7. Ecosystems may be natural or anthropogenic, terrestrial or aquatic, and **lentic** (standing) or **lotic** (flowing).
+8. Artificial / anthropogenic examples include **farmland / rice field**, orchard, garden, aquarium, and human-made reservoir.
+9. A pond’s vertical/horizontal zones include **littoral → limnetic → profundal**. Marine zones include littoral, neritic, pelagic, benthic, and abyssal.
+10. Structure runs **producers → primary/secondary/tertiary consumers → decomposers and detritivores**. Producers generally outnumber primary consumers.
+11. Core ecosystem functions are **productivity, decomposition, nutrient cycling, and unidirectional energy flow**.
+12. A **niche** is a species’ **role**, not its place. A **habitat** is the place. **Joseph Grinnell (1917)** coined the ecological-niche concept.
+13. A **fundamental niche** is the full potential role without competitors. A **realized niche** is the narrower role after competition.
+14. **Gause’s competitive exclusion** says two species with identical niches cannot stably coexist when resources are limited.
+15. **Liebig** = limiting factor; **Shelford** = tolerance range; **Lindeman (1942)** ≈ **10%** energy transfer between trophic levels.
+16. **NPP = GPP − plant respiration**. Plants capture only about **1%** of incident sunlight on leaves.
+17. Decreasing productivity order often tested: **Mangroves > grasslands > lakes > oceans**.
+18. **Primary succession** starts on a lifeless substrate. **Secondary succession** starts where **soil already exists** after disturbance.
+19. Full succession phases: **Nudation → Migration → Ecesis → Reaction → Stabilisation**. The full community sequence is a **sere**. UPPCS 2024 often starts from Migration when Nudation is omitted.
+20. Pioneers such as lichen and moss lead through seral stages to a **climax community**. **Monoclimax** theory is linked to **F.E. Clements**. **Hydrosere** is wet; **xerosere** is dry.
+21. In grasslands, trees often fail to replace grasses because of **water limits and fire**.
+22. An **r-strategist** produces many offspring with fast growth and short life. A **K-strategist** produces few offspring with slow growth and long life.
+23. Population growth models contrast the **J-curve** (exponential) with the **S-curve** (logistic) that levels near **carrying capacity**.
+24. MEA (**2005**) ecosystem services are usually **provisioning, regulating, supporting, and cultural**. Some WDR/UPSC framings add **preserving**. Supporting examples include nutrient cycling and (in that framing) crop pollination.
+25. Ecosystem balance is a **dynamic equilibrium**. **Resilience** is the capacity to recover after disturbance. **Deforestation** is a main cause of ecological imbalance in India.
+26. **Eutrophication** is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
+27. Energy flow is **one-way**. Nutrients **cycle**. Saying energy cycles is a classic wrong option.
+28. A **community** is all populations of different species in an area. A **population** is one interbreeding species in one area.
+29. An **ecotone** is the transition zone between two communities or ecosystems.
+30. Aquatic clines: **pycnocline** = density gradient; **halocline** = salinity gradient; **thermocline** = temperature-with-depth gradient.
+31. In the **phosphorus cycle**, weathering of rocks is the main source releasing the nutrient into the cycle.
+32. **Upwelling** brings cold, nutrient-rich water to the surface and raises marine productivity.
+33. **Eucalyptus** is often treated as an environmental hazard because it draws heavy groundwater and can lower the water table.
+34. UP lotic examples include the **Ganga, Yamuna, and Gomti**. Terai forest and Vindhyan scrub are terrestrial examples.
+35. UP wetland examples include **Sur Sarovar (Agra)** and **Nawabganj (Unnao)**. Western UP sugarcane belts are classic agro-ecosystems.
+36. Odum is linked to modern ecosystem ecology; keep him separate from Haeckel (term ecology) and Tansley (term ecosystem). **Deep ecology** was coined by **Arne Næss (1973)**. **Ecological Transition** was used by **John W. Bennett**.
 
 ---
 
@@ -67,20 +75,28 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 | **Secondary succession** | Starts where soil already exists | द्वितीयक अनुक्रमण |
 | **r-strategist** | Many offspring, fast growth, short life | r-रणनीतिकारी |
 | **K-strategist** | Few offspring, slow growth, long life | K-रणनीतिकारी |
+| **Ecotone** | Transition zone between two communities | इकोटोन |
+| **Bionomics** | Synonym of ecology — not “management of life” | बायोनॉमिक्स |
+| **Carrying capacity** | Max sustainable population for available resources | वहन क्षमता |
 
 ---
 
 ## 2.1 Ecology – Meaning
 
-**Identity:** Study of interactions | Haeckel 1866 | 7 levels | Autoecology vs Synecology
+**Identity:** Study of interactions | Haeckel 1866 | 7 levels | Autoecology vs Synecology | Bionomics
 
 - **Ecology** (from Greek *Oikos* = house + *Logos* = study) is the study of relationships between living organisms and their environment.
 - **Ernst Haeckel** coined the term **Ecology** in **1866**.
+- **Bionomics** (Greek *bio* = life; *nomos* = law) is a comprehensive study of an organism in relation to its environment. It is **synonymous with ecology**.
+- Bionomics stresses the value of natural systems that influence human systems. It does **not** mean “management of life.”
 - NCERT definition: study of relationships of organisms with each other and with their environment.
 - Ecology is a **biological science** — distinct from environment studies (policy/law/economics).
 - **Ramdeo Misra** is regarded as the father of **ecology in India** (ecology teaching at BHU).
 - **Eugene P. Odum** is called the father of modern **ecosystem ecology** (*Fundamentals of Ecology*, 1953).
+- **Arne Næss** coined **deep ecology** in **1973**.
+- **John W. Bennett** used the concept of **Ecological Transition** in *The Ecological Transition: Cultural Anthropology and Human Adaptation*.
 - Ecology is studied at **seven levels**: Organism → Population → Community → Ecosystem → Landscape → Biome → Biosphere.
+- A shorter organisation order often asked from organism upward is **Population → Community → Ecosystem → Landscape**.
 - **Organ** is anatomy, **not** an ecological organisation level.
 - **Autoecology** studies one species in its environment.
 - **Synecology** studies communities and ecosystems together.
@@ -100,19 +116,25 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ## 2.2 Ecosystem
 
-**Identity:** Tansley 1935 | Functional unit | Open system | Natural vs anthropogenic
+**Identity:** Tansley 1935 | Functional unit | Open system | Natural vs anthropogenic | Four components
 
 - **A.G. Tansley** introduced the term **ecosystem** in **1935**.
 - An ecosystem is the basic **functional unit** where living organisms interact with each other and the physical environment.
+- A standard short definition is a community of organisms together with the environment in which they live.
 - Every ecosystem has **biotic components**, **abiotic components**, **energy flow**, and **nutrient cycling**.
+- Four components frequently listed together are **abiotic materials**, **producers**, **consumers**, and **decomposers**.
 - **Energy flow** is **unidirectional** (Sun → producers → consumers → heat loss).
 - **Nutrient cycling** is **cyclic** — matter is reused through decomposers.
-- Most ecosystems are **open systems** (exchange energy/matter with surroundings).
+- Most ecosystems are **open systems** (exchange energy and matter with surroundings). Calling an ecosystem a **closed system** is wrong.
+- The **biosphere** itself is an open system. New substances can enter, and energy can enter and leave.
+- Components of an ecosystem **are interdependent**. A rise or fall in one population can reshape the rest of the food web.
 - **Natural ecosystems** self-regulate (forest, lake, ocean).
-- **Anthropogenic ecosystems** depend on human inputs (cropland, aquaculture pond, sewage-treatment wetland).
-- Ecosystem size runs from **micro** (garden pond) to **macro** (river basin, biosphere).
+- **Anthropogenic / artificial ecosystems** depend on human inputs (cropland, rice field, orchard, garden, aquarium, sewage-treatment wetland, spaceship life-support systems).
+- Among ecosystem types, the **marine (ocean) ecosystem** covers about **71%** of Earth’s surface and holds about **97%** of planetary water. It is the largest and most stable ecosystem type in common option lists.
+- The **biosphere** is the largest ecosystem of Earth as a whole because it integrates atmosphere, hydrosphere, and lithosphere where life exists.
+- Ecosystem size runs from **micro** (drop of pond water, garden pond) to **macro** (river basin, biosphere).
 
-> ** note:** UPPCS 2021 Q41 — Assertion "components are not interdependent" is **false**.
+> ** note:** Ecosystem = open, not closed. Components are interdependent. Field/rice field = artificial. Biosphere = largest overall; ocean = largest/most stable type.
 
 ---
 
@@ -180,9 +202,13 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 - **Producers (autotrophs)** convert solar energy into food through photosynthesis or chemosynthesis. Green plants, algae, and cyanobacteria are the main producers.
 - **Consumers (heterotrophs)** feed on other organisms. They include herbivores, carnivores, and omnivores arranged in trophic levels.
-- **Decomposers** break down dead organic matter and return minerals to the environment. Bacteria and fungi are the classic decomposers.
+- Consumers do **not** make food by photosynthesis. That statement is false.
+- **Decomposers** break down dead organic matter and return minerals to the environment. Bacteria and fungi are the classic decomposers. Viruses are **not** treated as decomposer organisms in standard food-chain questions.
+- Decomposers convert **organic matter into inorganic** nutrients usable by producers. The reverse statement is false.
+- **Producers and decomposers** act as intermediaries between biotic and abiotic components.
 - **Detritivores** feed directly on detritus. Earthworms are a common example.
 - In a typical stable ecosystem, **producers outnumber primary consumers**.
+- Air is an **abiotic** component. Plants, animals, and bacteria are biotic.
 
 ### Abiotic components
 
@@ -203,25 +229,36 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 | **Energy flow** | One-way transfer of energy through trophic levels |
 
 - The movement of nutrient elements through living and non-living parts of an ecosystem is called a **bio-geochemical cycle**.
+- In the **phosphorus cycle**, weathering of rocks is the main source that releases the nutrient into the cycle. Carbon and nitrogen cycles are not rock-weathering dominated in the same way.
 - **Food chains**, **food webs**, and **ecological pyramids** are covered in the next syllabus topic. Here the fact is that energy flow is unidirectional through trophic levels.
 
-> ** note:** A **sere** is the community sequence in succession. It is **not** the name for nutrient cycling.
+### Ecotone and aquatic clines
+
+- An **ecotone** is the transition zone or boundary between two distinct communities or ecosystems.
+- **Pycnocline** shows a **density** gradient in a water column.
+- **Halocline** shows a **salinity** gradient.
+- **Thermocline** shows temperature change with depth.
+- **Marine upwelling** replaces surface water with colder, nutrient-rich deep water and raises biological productivity and fisheries.
+
+> ** note:** A **sere** is the community sequence in succession. It is **not** the name for nutrient cycling. Ecotone ≠ ecosphere.
 
 ---
 
 ## 2.5 Ecological Niche
 
-**Identity:** Role not place | Fundamental vs realized | Competitive exclusion
+**Identity:** Role not place | Grinnell 1917 | Fundamental vs realized | Competitive exclusion
 
 - A **habitat** is the place where a species lives. It answers the "where" question.
 - A **niche** is the functional role of a species in an ecosystem. It answers the "what job" question — resources used, conditions tolerated, and interaction with other species.
+- **Joseph Grinnell (1917)** coined the ecological-niche idea and treated it as a micro-habitat / distributional unit of species.
+- Each species has a **distinct niche**. The niche covers the range of conditions a species can tolerate, the resources it uses, and its functional role.
 - The **fundamental niche** is the full role a species could play if no competition or predation limited it.
 - The **realized niche** is the narrower role a species actually occupies after competitors, predators, or resource limits restrict it.
 - **Gause's competitive exclusion principle** states that two species competing for exactly the same niche cannot coexist forever. One species is excluded, or the niche gets divided between them.
 - When resources are abundant and spread fairly, **more species** can coexist in a community. UPPCS 2024 tests the false claim that species number becomes **small** when resources are sufficient.
 - **Dominant species** often occupy a **broader niche** because they control more resources in the habitat.
 
-> ** note:** UPPCS 2024 Q9 — the false statement is option **C** (fewer species when resources are sufficient).
+> ** note:** Habitat = place. Niche = role (Grinnell). More resources → more species, not fewer.
 
 **PYQ — UPPCS Prelims 2024, Q9**
 
@@ -258,13 +295,17 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 
 ## 2.7 Ecological Balance
 
-**Identity:** Dynamic equilibrium | Resilience | Eutrophication
+**Identity:** Dynamic equilibrium | Resilience | Deforestation | Eutrophication
 
 - Ecological balance is **dynamic equilibrium**. An ecosystem looks stable but species populations constantly adjust through births, deaths, and interactions.
 - **Feedback loops** such as predator–prey cycles and nutrient recycling help ecosystems absorb small disturbances without collapsing.
 - **Resilience** is the ability of an ecosystem to recover after a disturbance such as fire, flood, or pollution spike.
 - A **keystone species** has an influence on community structure far greater than its numbers suggest. Removing it can reshape the whole ecosystem.
-- Rapid human population growth **disrupts** environmental balance. UPPCS 2023 Q125 uses the false Reason that rapid growth "maintains" balance.
+- Rapid human population growth **disrupts** environmental balance.
+- **Deforestation** is one of the main causes of ecological imbalance in India. Desertification, floods, famines, and rainfall variation are related stresses, but forest loss is the primary driver in many stems.
+- Acts that disturb balance include **lumbering** / commercial felling. Afforestation, rainwater management, biosphere reserves, and wildlife protection help restore balance.
+- Industrial management alone is **not** treated as an ecological-balance tool in standard option sets that contrast it with water management, afforestation, and wildlife protection.
+- **Eucalyptus** plantations are often called an environmental hazard because the tree draws heavy groundwater and can lower the water table.
 
 ### Eutrophication — imbalance in aquatic ecosystems
 
@@ -279,11 +320,12 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 
 ## 2.8 Ecological Succession
 
-**Identity:** Primary vs secondary | Phases M-E-R-S | Sere | Pioneer → climax
+**Identity:** Primary vs secondary | Nudation → M-E-R-S | Sere | Pioneer → climax | Monoclimax
 
 - **Ecological succession** is the orderly, predictable replacement of one community by another over time in the same area.
 - The full set of communities that appear one after another is called a **sere**. Each intermediate community is a **seral stage**.
 - The final relatively stable community is the **climax community**.
+- **F.E. Clements** described succession toward climax and is linked to the **monoclimax** theory — one climatic climax for a region.
 
 ### Primary vs secondary succession
 
@@ -297,24 +339,27 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - Lichens are also sensitive **bio-indicators of air pollution**. They absorb pollutants from the air and fail to grow in dirty air.
 - Trap: "lichens grow well in polluted areas" is **false**.
 
-### Phases of biotic succession (sequence)
+### Phases of biotic succession (full sequence)
 
 | Phase | What happens |
 |-------|--------------|
+| **Nudation** | Creation of a bare site free of organisms (erosion, fire, glaciation, human clearance) |
 | **Migration** | Seeds, spores, or other propagules reach the bare or disturbed area |
-| **Ecesis** | The newcomers successfully establish, germinate, and grow |
+| **Ecesis** | The newcomers successfully establish, germinate, and grow (colonisation) |
 | **Reaction** | Established species modify the habitat (soil, shade, moisture) for the next community |
 | **Stabilisation** | Change slows and the climax community dominates |
 
-- UPPCS 2024 asks the exact order: **Migration → Ecesis → Reaction → Stabilisation**.
+- Full Odum/Clements-style order: **Nudation → Migration → Ecesis → Reaction → Stabilisation**.
+- UPPCS 2024 starts from Migration when Nudation is omitted: **Migration → Ecesis → Reaction → Stabilisation**.
 - Trap: putting **Ecesis before Migration** is always wrong.
+- In many grasslands, trees do not replace grasses in succession because of **water limits and fire**.
 
 ### Hydrosere and xerosere
 
 - A **hydrosere** is succession in an aquatic habitat that gradually becomes terrestrial. A pond may pass through floating plants, reeds, marsh, meadow, and finally forest if sediment fills it in.
 - A **xerosere** is succession on dry land starting from bare rock or sand. The usual sequence runs lichen → moss → grass → shrub → forest as soil builds up.
 
-> ** note:Sere** = the community **sequence**. It is not the same word as "succession" itself, and it is not nutrient cycling.
+> ** note:** **Sere** = the community **sequence**. Full five phases begin with **Nudation**.
 
 **PYQ — UPPCS Prelims 2024, Q26**
 
@@ -336,25 +381,27 @@ D. Migration – Ecesis – Reaction – Stabilisation
 
 ## 2.9 Ecosystem Services
 
-**Identity:** MEA 2005 | Four categories
+**Identity:** MEA 2005 | Four (sometimes five) categories | Supporting traps
 
 **Source:** Millennium Ecosystem Assessment (MEA), **2005**
 
-| Category | What humans get |
-|----------|-----------------|
-| **Provisioning** | Direct material products |
-| **Regulating** | Processes that stabilise the environment |
-| **Supporting** | Services that underpin all other services |
-| **Cultural** | Non-material benefits |
+| Category | What humans get | Example |
+|----------|-----------------|---------|
+| **Provisioning** | Direct material products | Food, water, timber |
+| **Regulating** | Processes that stabilise the environment | Climate/disease control |
+| **Supporting** | Services that underpin all other services | Nutrient cycling, soil formation |
+| **Cultural** | Non-material benefits | Recreation, spiritual value |
+| **Preserving** (WDR/UPSC five-fold framing) | Long-term diversity maintenance | Maintenance of diversity |
 
-- **Provisioning services** supply goods humans take directly from nature. Timber from a forest is a provisioning service.
-- **Regulating services** control natural processes that affect human welfare. Bee pollination of crops is a regulating service.
-- **Supporting services** maintain the basic conditions for life. Nutrient cycling and soil formation are supporting services — they rarely appear in news but appear often in MCQs.
+- **Provisioning services** supply goods humans take directly from nature. Timber from a forest is a provisioning service. Production of food and water sits here.
+- **Regulating services** control natural processes that affect human welfare. Climate and disease control sit here. Bee pollination of crops is often treated as regulating, though some stems place crop pollination with supporting.
+- **Supporting services** maintain the basic conditions for life. Nutrient cycling and soil formation are supporting services. In the UPSC MEA framing that lists five categories, **nutrient cycling and crop pollination** are the supporting pair tested.
 - **Cultural services** are non-material benefits such as recreation at a national park or spiritual value of a sacred grove.
+- **Preserving services**, when listed separately, cover maintenance of diversity over long time scales.
 - **Supporting services** underlie provisioning and regulating services. Without soil formation and primary production, food and timber cannot exist.
-- **TEEB** and **IPBES** later pushed economic valuation of ecosystem services for policy. This is mains/CA surface, not deep Prelims drill.
+- **TEEB** and **IPBES** later pushed economic valuation of ecosystem services for policy.
 
-> ** note:** Timber = **Provisioning**. Pollination = **Regulating**. Nutrient cycling = **Supporting**.
+> ** note:** Timber / food-water = **Provisioning**. Climate-disease control = **Regulating**. Nutrient cycling = **Supporting**. Maintenance of diversity = **Preserving** in five-fold lists.
 
 ---
 
@@ -377,8 +424,11 @@ D. Migration – Ecesis – Reaction – Stabilisation
 - **NPP** is what remains for herbivores and other consumers after plant respiration is subtracted.
 - **Tropical rainforests** and **coral reefs** rank among the highest-NPP ecosystems because they combine strong sunlight with ample moisture.
 - **Deserts** show low NPP despite bright sunlight because water availability is the limiting factor.
+- A decreasing productivity sequence often tested is **Mangroves → grasslands → lakes → oceans**.
+- Most of the world’s coral reefs lie in **tropical waters**. More than one-third are in the territories of **Australia, Indonesia, and the Philippines**.
+- Coral reefs host far more animal **phyla** than tropical rainforests, despite covering a tiny share of ocean floor.
 
-> ** note:** The **1% rule** applies to energy **captured by producers**. The **10% rule** applies to energy **transferred between trophic levels**. Both can be true in the same question.
+> ** note:** The **1% rule** applies to energy **captured by producers**. The **10% rule** applies to energy **transferred between trophic levels**. Both can be true in the same question. Productivity order ≠ stability order.
 
 ---
 
@@ -431,7 +481,9 @@ D. Only 1
 ### Species level ecology (population ecology)
 
 - A **population** is a group of individuals of the same species living in one area and interbreeding.
-- **Carrying capacity (K)** is the maximum population size an environment can support indefinitely without degradation.
+- **Carrying capacity (K)** is the maximum population size an environment can support indefinitely without degradation, given food, habitat, water, and other necessities.
+- **Biotic potential (r)** is the maximum reproductive capacity of an organism under optimum conditions. Carrying capacity is the environmental limit beyond which that growth cannot be sustained.
+- Exceeding carrying capacity stresses the ecosystem and can cause collapse.
 - A **J-curve** shows exponential population growth when resources seem unlimited at first.
 - An **S-curve** shows logistic growth slowing as the population approaches carrying capacity K.
 - An **r-strategist** species produces many offspring quickly and invests little in each individual. Mosquitoes and weeds are examples.
@@ -981,6 +1033,182 @@ D. Lake
 <details><summary>Show answer</summary>
 
 **Ans: C**
+
+</details>
+
+---
+
+### Extra drill — Ghatnachakra ecology stems
+
+**Logic:** These stems recycle Tansley / open system / hierarchy / artificial ecosystem / marine stability / succession / MEA / productivity order traps.
+
+**Q31.** The term ecosystem was proposed by:
+
+A. G. Taylor
+
+B. E. Hartigan
+
+C. D.R. Stoddart
+
+D. A.G. Tansley
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tansley coined *ecosystem* in **1935**.
+
+</details>
+
+**Q32.** Which is NOT correct about the ecosystem?
+
+A. It comprises abiotic and biotic components
+
+B. It has its productivity
+
+C. It is a closed system
+
+D. It is a natural resource system
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** An ecosystem is normally an **open** system.
+
+</details>
+
+**Q33.** Correct order from organism toward biosphere:
+
+A. Population–Ecosystem–Community–Landscape
+
+B. Landscape–Community–Ecosystem–Population
+
+C. Population–Community–Ecosystem–Landscape
+
+D. Population–Landscape–Community–Ecosystem
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Population → Community → Ecosystem → Landscape.
+
+</details>
+
+**Q34.** Which is an artificial ecosystem?
+
+A. Pond (natural)
+
+B. Rice field / farmland
+
+C. Forest
+
+D. Lake (natural)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Farmland / rice field is human-made and controlled.
+
+</details>
+
+**Q35.** Most stable / largest-area ecosystem type among common options:
+
+A. Desert
+
+B. Grassland
+
+C. Forest
+
+D. Marine (ocean)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Marine ecosystem covers ~71% of Earth and is treated as most stable.
+
+</details>
+
+**Q36.** Full biotic succession sequence:
+
+A. Migration–Nudation–Ecesis–Reaction–Stabilisation
+
+B. Nudation–Migration–Ecesis–Reaction–Stabilisation
+
+C. Ecesis–Migration–Nudation–Reaction–Stabilisation
+
+D. Stabilisation–Reaction–Nudation–Migration–Ecesis
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Starts with **Nudation**.
+
+</details>
+
+**Q37.** Decreasing productivity order:
+
+A. Oceans–lakes–grasslands–mangroves
+
+B. Mangroves–oceans–grasslands–lakes
+
+C. Mangroves–grasslands–lakes–oceans
+
+D. Oceans–mangroves–lakes–grasslands
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mangroves > grasslands > lakes > oceans.
+
+</details>
+
+**Q38.** Transition zone between two communities is:
+
+A. Ecosphere
+
+B. Ecoboundary
+
+C. Ecotone
+
+D. Ecotype
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ecotone**.
+
+</details>
+
+**Q39.** Density gradient in a water system is shown by:
+
+A. Ecocline
+
+B. Halocline
+
+C. Pycnocline
+
+D. Thermocline
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Pycnocline** = density; Halocline = salt; Thermocline = temperature with depth.
+
+</details>
+
+**Q40.** Which tree is treated as an environmental hazard for groundwater drawdown?
+
+A. Babul
+
+B. Eucalyptus
+
+C. Neem
+
+D. Peepal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Eucalyptus** draws heavy groundwater.
 
 </details>
 
@@ -1557,10 +1785,17 @@ D. Becomes cyclic
 | Trap | Correct fact |
 |------|----------------|
 | Odum coined "ecosystem" | **Tansley 1935** coined ecosystem |
-| Ecesis before Migration | **Migration → Ecesis → Reaction → Stabilisation** |
+| Ecosystem is a closed system | Ecosystem is normally **open** |
+| Ecesis before Migration | Full: **Nudation → Migration → Ecesis → Reaction → Stabilisation** |
 | Sere = nutrient cycle | **Sere** = succession community **sequence** |
 | Lichens thrive in polluted air | Lichens are **sensitive** indicators |
 | 1% and 10% cannot both be true | **Both true** in 2025 Q5 — different stages |
 | Energy increases up food chain | Energy **decreases** (~10% transfer) |
 | Coral reefs = most stable ecosystem | Coral reefs = high **diversity**; marine = high **stability** |
 | Primary succession has soil already | Primary = **no soil**; secondary = soil present |
+| Bionomics = management of life | Bionomics = **ecology** |
+| Niche coined by Odum | Niche concept linked to **Grinnell (1917)** |
+| Ecological Transition = Ratzel | **John W. Bennett** |
+| ESZ under WPA 1972 / total human ban | ESZ under **EPA 1986**; activities regulated, not all banned |
+| Eucalyptus is eco-friendly | Often treated as **groundwater hazard** |
+| Productivity: oceans first | Decreasing order **Mangroves > grasslands > lakes > oceans** |

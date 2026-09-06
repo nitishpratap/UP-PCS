@@ -170,9 +170,15 @@ D. 1 and 2
 - **Mangroves** are **salt-tolerant** trees and shrubs growing in **intertidal mudflats** of tropical and subtropical coasts.
 - **Pneumatophores** (vertical aerial breathing roots) and **prop roots** (Rhizophora) enable gas exchange in waterlogged anaerobic soil.
 - **Viviparous germination:** seeds germinate **while attached to the parent tree** and drop as ready seedlings (propagules).
-- **Ecological roles:** coastal protection against cyclones, fish nursery grounds, sediment trapping, **blue carbon** sequestration.
-- **Sundarbans** (West Bengal + Bangladesh) is the **largest mangrove forest in the world** — royal Bengal tiger, estuarine crocodile.
-- Other Indian mangrove areas: **Bhitar Kanika** (Odisha), **Pichavaram** (TN), **Gulf of Kutch** (Gujarat), **Andaman coast**.
+- **Ecological roles:** coastal protection against cyclones/tsunamis, fish nursery grounds, sediment trapping, shoreline stability, **blue carbon** sequestration.
+- Mangroves act as a **safety hedge** because trees **do not get uprooted easily** — they have **extensive, deep root systems** (not because of a wide uninhabited buffer alone).
+- **Coastal Odisha** is India’s most cyclone-prone Bay of Bengal coast; large mangrove loss in the **Mahanadi delta** increases cyclone risk (classic A/R pair).
+- **Sundarbans** (West Bengal + Bangladesh) is the **largest mangrove forest** — **Sundari** tree is the flagship associate; royal Bengal tiger and estuarine crocodile.
+- **Bhitarkanika** (Kendrapara, Odisha) sits on the **Brahmani–Baitarni** delta — **not** Vansadhara–Subarnarekha, and **not** West Bengal. Ramsar site (**2002**).
+- **Coringa** mangrove (Andhra Pradesh) lies in the **Godavari** delta — do not confuse with Coondapur/Honnavar (Karnataka coast names).
+- Other Indian mangrove areas: **Pichavaram** (TN), **Gulf of Kutch / Khambhat** (Gujarat), **Andaman** coasts, **Goa** (e.g. Chorao protected mangrove).
+- Mangrove area rank (ISFR 2021 style): **West Bengal > Gujarat > Andaman & Nicobar (~616–617 km²) > Andhra Pradesh**.
+- **Andaman & Nicobar** uniquely combine **mangrove + evergreen + deciduous** forests in one geography.
 - **UP is landlocked** — no natural mangrove coast; questions test national ecology and schemes.
 - **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) was announced in **Union Budget 2023–24** to restore mangrove forests and support livelihoods.
 

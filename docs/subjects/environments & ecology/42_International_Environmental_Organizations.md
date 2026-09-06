@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC
+UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
 
 </details>
 
@@ -65,6 +65,8 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC
 - Hosts/supports secretariats for treaties such as Montreal, Basel, Stockholm POPs, and Minamata.
 - Co-created **IPCC** with WMO, but Emissions Gap is **UNEP’s own** report.
 - **GEF (Global Environment Facility, 1991)** finances projects under major environment conventions; UNEP is an implementing agency. Donors are **not** “developed countries only.”
+- GEF serves as a financial mechanism for five major conventions: **Minamata**, **Stockholm POPs**, **CBD**, **UNCCD**, and **UNFCCC**.
+- Core implementing partners include **UNDP**, **UNEP**, and the **World Bank**.
 
 **PYQ — UPPCS Prelims 2024, Q6**
 
@@ -206,6 +208,8 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 **Identity:** Conservation NGO | Gland | Living Planet Report | Panda logo
 
 - **WWF (World Wide Fund for Nature)** is a global conservation **NGO**, not a UN agency.
+- Since **1961**, WWF’s logo animal has been the **Giant Panda (*Ailuropoda melanoleuca*)**.
+- It publishes the **Living Planet Report** and Living Planet Index.
 - **HQ: Gland, Switzerland** — same city as IUCN, different organisation.
 - Publishes the **Living Planet Report** and **Living Planet Index (LPI)** on vertebrate population trends.
 - Known for the **giant panda** logo and flagship-species campaigns.
@@ -230,6 +234,26 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 
 ---
 
+## 42.8 WMO, Greenpeace & US EPA
+
+**Identity:** WMO Geneva | Greenpeace Amsterdam | US EPA 1970
+
+- The **World Meteorological Organization (WMO)** provides the global framework for meteorology and operational hydrology.
+- WMO originated from the **International Meteorological Organization (1873)** and became WMO on **17 March 1951**.
+- **WMO headquarters is Geneva, Switzerland.** It co-created the **IPCC** with UNEP in **1988**.
+- **Greenpeace International** is an environmental NGO headquartered in **Amsterdam, Netherlands**.
+- The **US Environment Protection Agency (EPA)** was established on **2 December 1970** to write and enforce environmental health regulations in the United States.
+- Do not confuse the **US EPA** with India’s **Environment (Protection) Act, 1986**.
+
+| Body | HQ / year | Job |
+|------|-----------|-----|
+| WMO | Geneva | Weather/climate cooperation; IPCC parent |
+| Greenpeace | Amsterdam | Environmental NGO |
+| US EPA | Est. 1970 | US federal environment agency |
+| UNEP | Nairobi | UN environment programme |
+
+---
+
 ## Org ↔ Report ↔ HQ Card
 
 | Org | HQ | Flagship fact |
@@ -241,6 +265,8 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 | IUCN | Gland | Red List |
 | WWF | Gland | Living Planet |
 | IPCC | Geneva | Assessment Reports |
+| WMO | Geneva | Meteorology; IPCC co-parent |
+| Greenpeace | Amsterdam | Environmental NGO |
 
 ---
 

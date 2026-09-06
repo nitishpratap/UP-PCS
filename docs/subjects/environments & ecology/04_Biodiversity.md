@@ -8,42 +8,50 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Biology Ch 15–16, CBD/Nagoya, Biological Diversity Act 2002, IUCN Red List, Conservation International hotspots, UPPCS PYQs 2018–2025
-> **Weight:** ★★★ Very High — definitions, hotspots, IUCN, loss drivers, conservation
-> **Last verified:** August 2026
+> **Sources baked in:** NCERT Class 12 Biology Ch 15–16, CBD/Nagoya/Cartagena, Biological Diversity Act 2002, IUCN Red List, Conservation International hotspots, Ramsar (~80 sites), UPPCS/UPSC PYQs 2018–2025
+> **Weight:** ★★★ Very High — definitions, hotspots, IUCN, loss drivers, conservation, Ramsar
+> **Last verified:** September 2026
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
-1. Biodiversity is variability among living organisms at **genetic, species, and ecosystem** levels.
-2. **Genetic diversity** is variation **within** a species. **Species diversity** is variety **among** species. **Ecosystem diversity** is variety of habitats and ecosystems.
-3. Species richness is generally highest in the **tropics** and decreases toward the poles.
-4. India holds about **2.4%** of world land but about **7–8%** of global species.
-5. India’s four biodiversity hotspots are **Himalaya, Indo-Burma, Western Ghats–Sri Lanka, and Sundaland** (Andaman & Nicobar portion).
-6. A hotspot needs about **≥1500 endemic vascular plants** and **≥70%** original habitat lost. There are **36** global hotspots.
-7. The top cause of biodiversity loss is **habitat destruction**. The HIPPO set is Habitat, Invasive species, Pollution, Population pressure, and Over-exploitation.
-8. **In-situ** conservation protects species in natural habitat (national parks, sanctuaries). **Ex-situ** is a backup outside habitat (zoos, seed banks).
-9. The **CBD (1992, Rio)** rests on three pillars: conserve biodiversity, sustainable use, and fair benefit-sharing.
-10. India’s **Biological Diversity Act, 2002** creates the **NBA (Chennai)**, State Biodiversity Boards, Biodiversity Management Committees, and **People’s Biodiversity Registers**.
-11. The **Nagoya Protocol (2010)** details access and benefit-sharing under the CBD.
-12. On the IUCN Red List, **Threatened** means **VU + EN + CR** together. **Endangered** means the **EN** category only.
-13. An **endemic** species occurs only in one geographic area. An **invasive alien** is non-native and harmful.
-14. A **keystone** species has outsized ecosystem impact. A **flagship** species is charismatic for fundraising. An **umbrella** species’ large range protects many others. An **indicator** species signals environmental quality.
-15. International Day for Biological Diversity is **22 May**.
-16. The **Kunming–Montreal Global Biodiversity Framework (2022)** includes the **30×30** conservation target.
-17. Uttar Pradesh’s Terai (Dudhwa, Pilibhit) sits in the **Himalaya hotspot** fringe matching.
-18. UP tiger-reserve facts for umbrella conservation include **Dudhwa (1987)** and **Pilibhit (2014)**.
-19. Key UP species include tiger, one-horned rhino, **barasingha**, and **Gangetic dolphin**.
-20. Common UP invasive plants include **water hyacinth, Parthenium, and Lantana**.
-21. Uttar Pradesh’s state bird is the **Sarus crane**, a wetland indicator.
-22. UP Ramsar examples include Nawabganj, Saman, Samaspur, Sandi, Sarsai Nawar, Parvati Aranga, and Sur Sarovar.
-23. In-situ is preferred for wild populations; ex-situ supports recovery and gene banks — do not reverse priority in standard stems.
-24. Hotspot status is not the same as “any forest-rich state.” Endemism plus habitat loss are the two filters.
-25. CBD opened at Rio **1992**; Nagoya is **2010**. Dating CBD as 2010 is wrong.
-26. NBA sits in **Chennai**, not New Delhi. Keep that headquarters fact.
-27. Genetic diversity is within one species (ple rice varieties). Species diversity counts different species in an area.
-28. Sundaland in the Indian list refers to the **Andaman and Nicobar** portion — not mainland Uttar Pradesh.
+1. Biodiversity is variability among living organisms at **genetic, species, and ecosystem** levels — the range of plants and animals in an area.
+2. **Walter G. Rosen (1985)** coined the word *biodiversity*. **E.O. Wilson** popularised it. **Whittaker (1960)** advanced **alpha, beta, and gamma** diversity.
+3. **Genetic diversity** is variation **within** a species. **Species diversity** is variety **among** species. **Ecosystem diversity** is variety of habitats and ecosystems.
+4. **Alpha** = mean species diversity at a local habitat. **Beta** = change between ecosystems. **Gamma** = overall regional diversity.
+5. The most significant aspect of biodiversity is **maintenance of the ecosystem**, not food or drugs alone.
+6. Species richness is generally highest in the **tropics / tropical rainforest** (optimum biome) and **increases toward the equator**; it decreases toward the poles and with altitude.
+7. On land, tropical rainforest is richest; in the sea, **coral reefs** are among the richest. UPPCS has accepted both rainforest and coral reefs for “relatively higher diversity.”
+8. India holds about **2.4%** of world land but about **7–8%** of global species (rough shares often cited: mammals ~7.6%, birds ~12.6%, reptiles ~6.2%, amphibians ~4.4%).
+9. India’s four biodiversity hotspots are **Himalaya, Indo-Burma, Western Ghats–Sri Lanka, and Sundaland**. **Andamans** fall under **Indo-Burma**; **Nicobar** under **Sundaland**. Eastern Ghats / Vindhyas / Naro Hills are **not** hotspots.
+10. A hotspot needs about **≥1500 endemic vascular plants** and **≥70%** original habitat lost. Criteria also stress **species richness, endemism, and threat**. There are **36** global hotspots (~2.5% of land; >50% endemic plants).
+11. **Silent Valley (Kerala)** is among India’s richest rainforest biodiversity sites (NP **1984**; Silent Valley Project = Kerala). **Valley of Flowers** is in **Chamoli, Uttarakhand**. Himalayan richness reflects confluence of biogeographic zones.
+12. The top cause of biodiversity loss is **habitat destruction**. HIPPO = Habitat, Invasive species, Pollution, Population pressure, Over-exploitation. Vegetarianism is **not** a threat. Fewer trophic levels reduce diversity.
+13. India aims for **Land Degradation Neutrality by 2030**.
+14. **In-situ** = natural habitat (NP, sanctuary, BR, sacred grove). **Ex-situ** = outside habitat (zoo, botanical garden, seed bank). Cryo-banks use **liquid nitrogen**. Biosphere reserves best join biodiversity with traditional human life / cultural diversity.
+15. The **CBD (1992, Rio)** rests on three pillars: conserve, sustainable use, fair benefit-sharing. **Cartagena Protocol** = biosafety / LMOs. **Nagoya (2010)** = ABS.
+16. India’s **Biological Diversity Act, 2002** creates **NBA (Chennai, 2003)**, SBBs, BMCs, and **PBRs**. BMCs are central to Nagoya ABS, including collection fees.
+17. On the IUCN Red List, **Threatened** = **VU + EN + CR**. **Endangered** = **EN** only. Red Data Book lists threatened species. A species not seen for **50 years** may be treated as extinct in older definitional stems.
+18. An **endemic** species occurs only in one area. An **invasive alien** is non-native and harmful (**Prosopis juliflora** reduces native biodiversity).
+19. Keystone / flagship / umbrella / indicator roles stay distinct.
+20. International Day for Biological Diversity is **22 May** (earlier linked to **29 December**). UN **Decade on Biodiversity = 2011–2020**.
+21. India’s first **National Centre for Marine Biodiversity (NCMB)** is at **Jamnagar (Gujarat)**.
+22. The **Kunming–Montreal GBF (2022)** includes the **30×30** target. CBD COP-10 = **Nagoya 2010**; COP-11 = **Hyderabad 2012**.
+23. Hotspot concept = **Norman Myers** (not BirdLife). **BirdLife International** identifies Important Bird and Biodiversity Areas.
+24. **TRAFFIC** (WWF–IUCN alliance, 1976) monitors wildlife trade — not a UNEP bureau.
+25. India coral reefs: **Lakshadweep (atolls), Gulf of Mannar, Gulf of Kachchh, Andaman & Nicobar** — **not** Sundarbans (mangroves). Coral bleaching mainly from **warming seawater / global warming**.
+26. **Diclofenac** veterinary painkiller caused India’s vulture crash. **Dugong** = herbivorous marine mammal (Schedule I); Gulf of Mannar / Palk. **Indian wild ass** = Rann of Kachchh. **Lion-tailed macaque** = Western Ghats (Kerala, Karnataka, Tamil Nadu).
+27. India has **80 Ramsar sites**. **Tamil Nadu 16** (highest), **Uttar Pradesh 10**, **Punjab 6**. **Montreux Record** lists Ramsar sites with adverse ecological change from human interference.
+28. UP Terai (Dudhwa, Pilibhit) sits on the **Himalaya hotspot** fringe. Key UP species: tiger, rhino, barasingha, Gangetic dolphin; state bird **Sarus crane**.
+29. Common UP invasives: water hyacinth, Parthenium, Lantana.
+30. NBA HQ = **Chennai**. CBD ≠ Nagoya year. Threatened ≠ Endangered.
+31. **Sea buckthorn** (Ladakh / cold Himalaya) checks erosion and is nutritious — not primarily a biodiesel timber crop.
+32. **TEEB** makes nature’s economic values visible for decision-makers. **Wetlands International** is an independent NGO (HQ Netherlands), not a Ramsar intergovernmental organ.
+33. **CEBPOL** (Centre for Biodiversity Policy and Law) sits with NBA, **Chennai** (India–Norway).
+34. Maximum butterflies in tropics because they **cannot tolerate low temperatures**.
+35. **Gulf of Mannar Biosphere Reserve** is often cited as India’s richest marine biodiversity region (21 islands mosaic).
+36. Afforestation does **not** cause biodiversity loss; road expansion, urbanisation, and agriculture expansion do (UKPCS-style stems).
 
 ---
 
@@ -66,21 +74,23 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 ## 4.1 Biodiversity – Meaning
 
-**Identity:** CBD Art 2 | Three nested levels | E.O. Wilson popularised term
+**Identity:** CBD Art 2 | Three nested levels | Rosen coined · Wilson popularised
 
-- **Biodiversity** is the variety and variability of life at **genetic**, **species**, and **ecosystem** levels in a given area.
+- **Biodiversity** is the variety and variability of life at **genetic**, **species**, and **ecosystem** levels in a given area — the diverse range of plants and animals in an ecosystem.
 - The **Convention on Biological Diversity (CBD, 1992)** defines it as variability among living organisms from all sources, including terrestrial, marine, and aquatic ecosystems.
-- The word was popularised by **E.O. Wilson** in the 1980s as shorthand for biological diversity.
+- **Walter G. Rosen (1985)** coined the word *biodiversity* (from “biological diversity”) for a National Research Council seminar title. **E.O. Wilson** popularised the term thereafter.
 - Biodiversity is **not** just a species count. Genes within populations and the variety of habitats also matter.
-- **International Day for Biological Diversity** is observed on **22 May** each year.
+- The most significant aspect of biodiversity is **maintenance of the ecosystem**, ahead of food, drugs, or industrial use alone.
+- **International Day for Biological Diversity** is **22 May** (UN moved it from the older **29 December** CBD entry-into-force date). The UN declared **2011–2020** the **Decade on Biodiversity**.
+- India’s first **National Centre for Marine Biodiversity (NCMB)** is at **Jamnagar (Gujarat)**.
 
-> ** note:** Trap — "biodiversity means only number of species" is **false**. All three levels are required in the NCERT/CBD definition.
+> **Logic:** “Biodiversity = only number of species” is false — all three CBD/NCERT levels are required. Rosen coined; Wilson popularised — do not reverse.
 
 ---
 
 ## 4.2 Levels of Biodiversity
 
-**Identity:** Genetic | Species | Ecosystem | Alpha–beta–gamma (species scale)
+**Identity:** Genetic | Species | Ecosystem | Whittaker α–β–γ
 
 ### Genetic diversity
 
@@ -91,17 +101,19 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 ### Species diversity
 
 - **Species diversity** depends on **species richness** (how many species) and **evenness** (how evenly individuals are spread).
-- **Alpha diversity** is species diversity within one habitat.
-- **Beta diversity** is turnover of species **between** habitats.
-- **Gamma diversity** is total diversity across a large region.
-- Species diversity is highest in the **tropics** and generally **decreases toward the poles**.
+- **R.H. Whittaker (1960)** advanced the **alpha–beta–gamma** scale for species diversity.
+- **Alpha diversity** is the **mean species diversity in habitats at a local scale**.
+- **Beta diversity** is the comparison / change of species **between** ecosystems.
+- **Gamma diversity** is overall diversity across different ecosystems in a **region**.
+- Species diversity is highest in the **tropics** and generally **decreases toward the poles** (latitudinal diversity gradient). Along mountains, diversity is normally greater at **lower altitudes** than at higher ones.
 
 ### Ecosystem diversity
 
 - **Ecosystem diversity** is the variety of habitats and ecosystems in a region such as forests, wetlands, grasslands, and deserts.
 - India spans **10 biogeographic zones**, so ecosystem diversity is high despite moderate land area.
+- On land, **tropical rainforest** (about **23.5°N–23.5°S**) is the richest biome — often called the **optimum biome**. In the sea, **coral reefs** rank among the richest systems; both can be accepted when a stem asks for relatively higher diversity.
 
-> ** note:** UPPCS 2019 pattern — "species diversity **increases** from equator toward poles" is **NOT true**. Diversity is highest at the equator and falls toward poles.
+> **Logic:** “Species diversity increases from equator toward poles” is **false**. Alpha = local mean; beta = between ecosystems; gamma = regional total.
 
 ---
 
@@ -119,10 +131,13 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 | Brazil, Colombia, Ecuador, Peru, Mexico, Venezuela, United States, China, India, Malaysia, Indonesia, Philippines, Australia, Madagascar, Democratic Republic of Congo, South Africa, Papua New Guinea |
 - India covers about **2.4%** of world's land but holds roughly **7–8%** of recorded global species.
 - India has about **45,000** plant species and **91,000+** animal species (NCERT order of magnitude).
+- Rough India shares among megadiverse nations are often cited as mammals ~**7.6%**, birds ~**12.6%**, reptiles ~**6.2%**, amphibians ~**4.4%**.
 - High **endemism** occurs in the **Western Ghats**, **Northeast India**, **Himalaya**, and **Andaman & Nicobar Islands**.
 - The **most biodiversity-rich region among common Indian options** is the **Western Ghats**.
+- **Silent Valley (Kerala, Palakkad)** represents remnant moist evergreen rainforest of the Western Ghats. It was declared a **National Park in 1984** (inaugurated 1985); the **Silent Valley Project** is the Kerala hydel controversy. Among named Indian valleys in older stems, Silent Valley is the richest; **Valley of Flowers** lies in **Chamoli, Uttarakhand**.
+- Himalayan species richness is best explained as a **confluence of different biogeographic zones**, not rainfall alone.
 
-> ** note:** UPPCS 2019 — Western Ghats beats Gangetic Plain, Trans-Himalaya, and Central India for species richness.
+> **Logic:** Western Ghats beats Gangetic Plain, Trans-Himalaya, and Central India for species richness. Silent Valley = Kerala, not Uttarakhand.
 
 **PYQ — UPPCS Prelims 2019, Q139**
 
@@ -146,16 +161,18 @@ D. Central India
 
 ## 4.4 Importance & Biodiversity–Environment Link
 
-**Identity:** Direct + indirect + option values | Biodiversity supports ecosystem stability
+**Identity:** Direct + indirect + option values | Ecosystem maintenance first
 
+- The most significant aspect of biodiversity is **maintenance of the ecosystem**.
 - **Direct values** include food, fuel, fibre, medicine, and timber taken from nature.
-- **Indirect values** include pollination, climate regulation, flood control, and nutrient cycling.
+- **Indirect values** include soil formation, prevention of soil erosion, recycling of waste, pollination of crops, climate regulation, and flood control.
 - **Ethical and aesthetic values** cover cultural, spiritual, and recreational benefits.
 - **Option value** is the potential future use of species and genes not yet exploited.
 - Higher biodiversity often means **greater ecosystem stability** and resilience after disturbance.
 - Biodiverse systems recover faster from drought, pests, and pollution shocks.
+- Maximum butterfly species occur in **tropical** countries because butterflies **cannot tolerate low temperatures**.
 
-> ** note:** Medicinal plants and crop wild relatives are **direct + option** value traps in multi-statement questions.
+> **Logic:** Food/drugs matter, but stems asking the “most significant aspect” key **ecosystem maintenance**. Soil formation + pollination + waste recycling are classic multi-statement true sets.
 
 ---
 
@@ -190,28 +207,35 @@ D. Central India
 - **State Biodiversity Boards (SBB)** and **Biodiversity Management Committees (BMC)** operate at state and local levels.
 - A **People's Biodiversity Register (PBR)** documents local biodiversity and traditional knowledge at the panchayat level.
 - The **Nagoya Protocol (2010)** sets rules for **Access and Benefit Sharing (ABS)** of genetic resources under the CBD.
+- **Biodiversity Management Committees (BMCs)** are central to Nagoya-style ABS; they may levy **collection fees** on access to biological resources in their jurisdiction.
+- **CEBPOL** (Centre for Biodiversity Policy and Law), with Norway, sits with the NBA in **Chennai**.
 
-> ** note:** Trap — NBA HQ is **Chennai**, not New Delhi. Trap — **Threatened ≠ Endangered**.
+> **Logic:** NBA HQ is **Chennai**, not New Delhi. **Threatened ≠ Endangered**. NBA does **not** directly run GEAC genetic-modification supervision.
 
 ---
 
 ## 4.6 Biodiversity Loss
 
-**Identity:** Habitat destruction #1 | HIPPO | Extinction rate 100–1000× background
+**Identity:** Habitat destruction #1 | HIPPO | Jhum · invasives · trophic levels
 
 - **Habitat loss and fragmentation** is the **leading direct cause** of biodiversity loss worldwide.
 - **Habitat fragmentation** splits large habitats into small patches. Species face edge effects, inbreeding, and local extinction.
 - **Over-exploitation** through poaching, overfishing, and unsustainable harvesting removes species faster than they reproduce.
-- **Invasive alien species** outcompete or prey on natives. **Water hyacinth** choking UP ponds is a classic example.
+- **Invasive alien species** outcompete or prey on natives. **Water hyacinth** choking UP ponds and **Prosopis juliflora** wiping native flora are classic examples.
 - **Pollution** kills pollinators, poisons aquatic life, and degrades breeding habitats.
-- **Climate change** shifts ranges faster than many species can move or adapt.
+- **Climate change / global warming** shifts ranges faster than many species can move or adapt.
 - **HIPPO** summarises major drivers: **H**abitat loss, **I**nvasive species, **P**ollution, **P**opulation pressure, **O**ver-exploitation.
+- **Shifting cultivation (jhum)** in eastern and northeastern India degrades habitats when practised intensively.
+- India’s bird populations shrink mainly from **habitat loss** and **pesticides / chemical fertilisers / mosquito repellents** (e.g. **DDT** eggshell thinning) — not from large-scale use of bio-pesticides.
+- **Promotion of vegetarianism** is **not** a biodiversity threat. A **fewer number of trophic levels** indicates dominance of few organisms and **lowers** diversity — so it does **not** increase biodiversity.
+- Afforestation of barren land is **not** a cause of biodiversity loss; road expansion, urbanisation, and agricultural extension are.
 - Current extinction rates may be **100–1,000 times** the natural background rate.
 - Scientists describe the present era as a **sixth mass extinction** driven mainly by human activity.
 - The **species–area relationship** states that larger habitats generally support more species.
 - **IPBES (2019)** reported that about **1 million** animal and plant species face extinction risk if trends continue.
+- India aims for **Land Degradation Neutrality (LDN) by 2030**.
 
-> ** note:** UPPCS 2023 Q100 — destruction of **natural habitat** is the most important loss factor. Trap — pollution or climate change is **not** #1 in standard Prelims keys.
+> **Logic:** Destruction of **natural habitat** is the #1 loss factor. Pollution or climate change is not #1 in standard Prelims keys. Vegetarianism is a classic false threat option.
 
 **PYQ — UPPCS Prelims 2023, Q100**
 
@@ -235,19 +259,30 @@ D. Pest control
 
 ## 4.7 Biodiversity Conservation
 
-**Identity:** In-situ preferred | Ex-situ backup | CBD 3 objectives | 30×30 (2022)
+**Identity:** In-situ preferred | Ex-situ backup | Biosphere + culture | CBD 3 objectives | 30×30
 
-- **In-situ conservation** protects species in their **natural habitat**. National parks, wildlife sanctuaries, and biosphere reserves are examples.
-- **Ex-situ conservation** protects species **outside** natural habitat in zoos, botanical gardens, seed banks, and captive breeding centres.
+- **In-situ conservation** protects species in their **natural habitat**. National parks, wildlife sanctuaries, biosphere reserves, reserved/protected forests, nature reserves, and **sacred groves** are examples.
+- **Ex-situ conservation** protects species **outside** natural habitat in zoos, aquaria, botanical gardens, seed banks, and captive breeding centres.
+- Cryo-banks store seeds, pollen, tissue, or embryos in **liquid nitrogen** for long-term ex-situ storage.
 - **In-situ is preferred** because whole ecosystems and natural selection processes stay intact.
 - **Ex-situ** is a **supplementary** insurance for critically endangered species.
 - **Ex-situ** examples include the **National Bureau of Plant Genetic Resources (NBPGR)** seed bank in New Delhi, zoos, and botanical gardens.
+- The **most important strategy for biodiversity together with traditional human life / cultural diversity** is the establishment of **biosphere reserves** (UNESCO MAB logic).
+- India has **18** biosphere reserves; a majority are on the UNESCO World Network of Biosphere Reserves. **Gulf of Mannar** is often cited as India’s richest **marine** biodiversity biosphere mosaic (21 islands with reefs, seagrass, mangroves).
+- India’s coral reefs (~**5,790 km²**) lie mainly in **Lakshadweep (atolls)**, **Gulf of Mannar**, **Gulf of Kachchh**, and **Andaman & Nicobar**. **Sundarbans** is mangrove-dominated, **not** a coral-reef region. **Coral bleaching** is driven mainly by **rise in sea-water temperature / global warming**.
 - The **Wildlife (Protection) Act, 1972** gives maximum protection to **Schedule I** species.
 - The **CBD (1992)** has three objectives: **conserve** biodiversity, **use it sustainably**, and share benefits **fairly and equitably**.
+- The **Cartagena Protocol on Biosafety** covers safe handling of **living modified organisms (LMOs)**; India implements it through **MoEFCC**.
 - The **Kunming–Montreal Global Biodiversity Framework (2022)** targets protecting **30%** of land and oceans by **2030** (30×30).
+- CBD COP chronology: **COP-10 Nagoya (2010)**, **COP-11 Hyderabad (2012)**, COP-12 Korea, COP-13 Cancun, COP-14 Egypt, COP-15 Kunming–Montreal.
 - **Project Tiger (1973)** uses the **umbrella/flagship** approach to protect forest ecosystems.
+- **BirdLife International** is a global partnership of conservation organisations that identifies **Important Bird and Biodiversity Areas** — it did **not** invent biodiversity hotspots (**Norman Myers** did).
+- **TRAFFIC** (Trade Records Analysis of Flora and Fauna in Commerce, **1976**) is a **WWF–IUCN** alliance monitoring wildlife trade — **not** a UNEP bureau.
+- **TEEB** (The Economics of Ecosystems and Biodiversity) makes nature’s economic values visible for decision-makers.
+- **Wetlands International** is an independent global NGO (HQ **Netherlands**) working on wetlands — not an intergovernmental Ramsar organ.
+- **UN-REDD+** (FAO–UNDP–UNEP) can protect biodiversity, forest resilience, and support poverty reduction when well designed.
 
-> ** note:** UPPCS 2023 Q118 — genetic diversity in national parks is maintained through **in-situ conservation**.
+> **Logic:** Botanical garden = ex-situ, not in-situ. Biosphere reserve wins stems that join biodiversity with traditional human life. Cryo gas = **nitrogen**.
 
 **PYQ — UPPCS Prelims 2023, Q118**
 
@@ -274,21 +309,22 @@ D. None of the above
 **Identity:** Myers 1988 | ≥1500 endemic plants + ≥70% habitat lost | India has 4 of 36
 
 - A **biodiversity hotspot** is a region with **high endemism** and **severe habitat loss**.
-- **Norman Myers (1988)** set the hotspot concept. Conservation International later updated the global list to **36 hotspots**.
-- **Two criteria:** at least **1,500 endemic vascular plant species** and at least **70% loss** of original primary vegetation.
-- Hotspots cover about **2.4%** of Earth's land but hold roughly **half** of plant diversity and a large share of terrestrial vertebrates.
+- **Norman Myers (1988)** set the hotspot concept. Conservation International later updated the global list to **36 hotspots** (about **2.5%** of Earth’s land; >**50%** of endemic plant species). The **36th** hotspot added via CEPF (2016) is the **North American Coastal Plain**.
+- **Two formal criteria:** at least **1,500 endemic vascular plant species** and at least **70% loss** of original primary vegetation. Recognition also stresses **species richness, endemism, and threat perception** — not vegetation density or ethnobotany alone.
+- Hotspots are **not** confined to the tropics; temperate examples include the California Floristic Province and Japan.
 - **India has four hotspots:**
 
 | Hotspot | Indian region | UP link |
 |---------|---------------|---------|
-| **Himalaya** | Himalaya + Terai belt | Dudhwa, Pilibhit Terai |
-| **Indo-Burma** | Northeast India | — |
+| **Himalaya** (often called Eastern Himalaya in older stems) | Himalaya + Terai belt; Sikkim is a botanist’s paradise here | Dudhwa, Pilibhit Terai |
+| **Indo-Burma / Indo-Myanmar** | Northeast India + **Andaman Islands** | — |
 | **Western Ghats & Sri Lanka** | West coast mountains | — |
-| **Sundaland** | **Andaman & Nicobar only** | Not mainland |
+| **Sundaland** | **Nicobar Islands** (not Andaman) | Not mainland |
 
+- **Eastern Ghats, Vindhyas, Aravallis, Gangetic Plain, Naro Hills, and Silent Valley alone** are **not** global hotspots (Silent Valley sits inside the Western Ghats hotspot).
 - The **Gangetic Plain** is fertile and species-rich in places but is **not** a global biodiversity hotspot.
 
-> ** note:** UPPCS 2024 Q33 — both high endemism and significant habitat loss are **correct** hotspot traits.
+> **Logic:** Hotspot needs **endemism + threat**. Andaman ≠ Nicobar for hotspot mapping. Western Himalayas / Eastern Ghats are classic wrong options.
 
 **PYQ — UPPCS Prelims 2024, Q33**
 
@@ -338,8 +374,32 @@ D. Neither 1 nor 2
 - A **flagship species** is a charismatic animal used to raise public support and funds for conservation, such as the tiger on campaign logos.
 - An **umbrella species** needs a very large home range, so protecting it also protects many other species in the same habitat.
 - An **indicator species** shows habitat or pollution conditions. Lichens fail in polluted air and signal air quality decline.
+- Older definitional stems treat a species as **extinct** if not seen in its natural habitat for **50 years**.
+- **Diclofenac sodium** (veterinary NSAID) caused India’s vulture crash via contaminated carcasses.
+- The **dodo** of Mauritius helped disperse **Tambalacoque** seeds; plant failure followed bird extinction.
+- **Indian flying fox** is a **bat** (fruit bat), not a bird.
+- **Dugong** is a **herbivorous marine mammal** (“sea cow”), Schedule I, mainly Gulf of Mannar / Palk / parts of Gujarat and A&N — **not** the entire Indian coast.
+- **Indian wild ass** lives in the sandy saline **Rann of Kachchh**; threat is habitat destruction, not predators.
+- **Lion-tailed macaque** is endemic to the **Western Ghats** (Kerala, Karnataka, Tamil Nadu).
+- **Cheetah** was declared extinct in India in **1952** (reintroduction is a later policy story).
+- **Red panda** occurs in the eastern Himalayan belt (Sikkim, West Bengal, Meghalaya, Arunachal Pradesh, etc.) — **not** western Himalayas only. **Slow loris** lives in dense forests of the Northeast.
+- **Shrew and tapir** are Himalayan-range animals, **not** Malabar Western Ghats.
+- **Salt-water crocodile** occurs in the Andaman and Nicobar Islands.
+- **Sea buckthorn** grows in cold deserts of **Ladakh** / Lahaul–Spiti and related Himalayan tracts; it checks erosion and is nutritious — not mainly a biodiesel/timber crop.
+- **Prosopis juliflora** is an invasive exotic that reduces native biodiversity where it spreads.
+- **Sequoia (Redwood)** of California is the tallest known living tree. Deep sea has **minimum** annual biomass production among common biome options.
+- Hibernation occurs in **bats, bears, and many rodents**. Author of *Tomorrow’s Biodiversity* is **Vandana Shiva**.
+- **Bhitarkanika** (Odisha) sits where **Brahmani** (South Koel in Jharkhand) and **Vaitarni** meet near the Bay of Bengal.
 
-> ** note:** Lichens are good **pollution indicators** because they **do not** thrive in polluted air. Do not mark "grow well in pollution" as true.
+### Ramsar wetlands (biodiversity overlap)
+
+- **Ramsar Convention (1971, Iran)** conserves wetlands of international importance under **Wise Use**. **World Wetlands Day = 2 February**.
+- India has about **80** Ramsar sites. State counts often tested: **Tamil Nadu 16** (highest), **Uttar Pradesh 10**, **Punjab 6**. Bihar’s first is **Kabartal / Kanwar Lake (Begusarai)**.
+- **Montreux Record** lists Ramsar sites where ecological character has changed or is likely to change from human interference.
+- Wetlands act as “kidneys” mainly by aquatic plants absorbing **heavy metals and excess nutrients**; they also cycle nutrients, hold sediment, and buffer floods.
+- **Sambhar Lake (Rajasthan)** is India’s largest inland saline wetland. Wetland Rules **2010/2017** and catchment coverage are Indian law — not every wetland worldwide is a mandatory Ramsar obligation.
+
+> **Logic:** Lichens are pollution indicators because they **fail** in polluted air. Flying fox = bat. Dugong = mammal. Sundarbans ≠ coral reef. Ramsar count and TN/UP ranks move with notifications — verify live MoEFCC list before the paper year.
 
 ---
 
@@ -618,8 +678,13 @@ D. 1 2 3 4
 
 **Q16.** Match hotspot with Indian region:
 
-List-I: A. Sundaland B. Western Ghats C. Himalaya
-List-II: 1. Andaman & Nicobar only 2. West coast mountains 3. Terai belt
+*Row order is not the answer code.*
+
+| List-I | List-II |
+|--------|---------|
+| A. Sundaland | 1. Nicobar Islands |
+| B. Western Ghats | 2. West coast mountains |
+| C. Himalaya | 3. Terai belt |
 
 A. 1 2 3
 
@@ -630,6 +695,8 @@ C. 3 2 1
 D. 1 3 2
 
 <details><summary>Show answer</summary>
+
+**Logic:** Sundaland in India = **Nicobar** (Andamans sit under Indo-Burma). WG = west-coast mountains. Himalaya hotspot fringe includes Terai.
 
 **Ans: A**
 
@@ -1074,11 +1141,178 @@ D. Thar Desert
 | Trap | Correct fact |
 |------|----------------|
 | Biodiversity = species count only | **Genetic + species + ecosystem** |
+| Wilson coined “biodiversity” | **Walter G. Rosen (1985)** coined; Wilson popularised |
+| Alpha = regional diversity | Alpha = **local** mean; gamma = regional |
 | Russia is megadiverse | **Not** in the standard 17 list |
-| India has 6 hotspots | **4** — HIWS |
-| Sundaland = all India | **Andaman & Nicobar only** |
+| India has 6 hotspots | **4** — Himalaya, Indo-Burma, WG–Sri Lanka, Sundaland |
+| Sundaland = Andaman + Nicobar | **Nicobar** under Sundaland; **Andaman** under Indo-Burma |
+| Eastern Ghats / Vindhyas = hotspot | **Not** hotspots |
+| Hotspots only in tropics | Temperate hotspots also exist |
 | Threatened = Endangered | Threatened = **VU + EN + CR** |
+| Botanical garden = in-situ | **Ex-situ** |
+| Cryo-bank gas = oxygen / CO₂ | **Liquid nitrogen** |
 | Lichens thrive in pollution | **Sensitive** indicators — fail in pollution |
 | Ex-situ preferred over in-situ | **In-situ preferred** |
 | NBA headquarters Delhi | **Chennai** |
+| BirdLife invented hotspots | **Norman Myers**; BirdLife = IBAs |
+| TRAFFIC = UNEP bureau | **WWF–IUCN** NGO alliance |
+| Coral reefs in Sundarbans | Sundarbans = **mangroves**; reefs = GoM, GoK, A&N, Lakshadweep |
+| Vegetarianism threatens biodiversity | **Not** a threat |
+| NCMB = Mumbai / Bhavnagar | **Jamnagar** |
+| Silent Valley = Uttarakhand | **Kerala**; Valley of Flowers = Chamoli UK |
+| India Ramsar ≈ 26 forever | About **80**; TN **16**, UP **10**, Punjab **6** |
 | Gangetic Plain is a hotspot | **Not** a global hotspot |
+
+---
+
+## Extra Drill — Ghatnachakra-pattern (Q31–Q40)
+
+**Logic (set):** These stems recycle definition, hotspot geography, conservation method, species identity, and Ramsar traps from the Biodiversity chapter map.
+
+**Q31.** Who first used the term ‘biodiversity’?
+
+A. E.O. Wilson  
+B. Norman Myers  
+C. Walter G. Rosen  
+D. A.G. Tansley  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Walter G. Rosen coined it in **1985**; Wilson popularised it later.
+
+</details>
+
+**Q32.** Among mathematical indices, which shows mean species diversity in a habitat at a local scale?
+
+A. Alpha  
+B. Beta  
+C. Gamma  
+D. None  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Alpha = local; beta = between ecosystems; gamma = regional.
+
+</details>
+
+**Q33.** India’s first National Centre for Marine Biodiversity is at:
+
+A. Mumbai  
+B. Jamnagar  
+C. Bhavnagar  
+D. Puducherry  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NCMB is at **Jamnagar, Gujarat**.
+
+</details>
+
+**Q34.** Which statement is **NOT** true?
+
+A. Tropics harbour more species than temperate areas.  
+B. Species diversity increases from equator toward poles.  
+C. Greatest biodiversity occurs in Amazon rainforest.  
+D. Species diversity decreases from temperate areas toward poles.  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Diversity **increases toward the equator**, not toward the poles.
+
+</details>
+
+**Q35.** Which three criteria recognise Western Ghats–Sri Lanka and Indo-Burma as hotspots?
+
+A. Species richness, endemism, threat perception  
+B. Vegetation density, ethnobotany, warm-humid adaptation  
+C. Only rainfall and altitude  
+D. Only invasive-species count  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Richness + endemism + threat — not density or ethnobotany alone.
+
+</details>
+
+**Q36.** Cryo-bank for ex-situ conservation commonly uses which gas?
+
+A. Oxygen  
+B. Carbon dioxide  
+C. Nitrogen  
+D. Methane  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Storage uses **liquid nitrogen**.
+
+</details>
+
+**Q37.** Which regions have coral reefs?
+
+1. Andaman and Nicobar  
+2. Gulf of Kachchh  
+3. Gulf of Mannar  
+4. Sundarbans  
+
+A. 1, 2 and 3 only  
+B. 2 and 4 only  
+C. 1 and 3 only  
+D. All four  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sundarbans is mangrove country, not a coral-reef region.
+
+</details>
+
+**Q38.** With reference to TRAFFIC, which is correct?
+
+A. It is a UNEP bureau.  
+B. Its mission is to ensure wildlife trade is not a threat to nature.  
+C. Both A and B  
+D. Neither  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** TRAFFIC is a **WWF–IUCN** alliance (1976), not UNEP.
+
+</details>
+
+**Q39.** India currently has about how many Ramsar sites, and which state has the most?
+
+A. 26; Rajasthan  
+B. 80; Tamil Nadu (16)  
+C. 80; Uttar Pradesh (16)  
+D. 50; Punjab  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** About **80** sites; **Tamil Nadu 16**, UP **10**, Punjab **6**.
+
+</details>
+
+**Q40.** Assertion (A): Maximum butterfly species are found in tropical countries.  
+Reason (R): Butterflies cannot tolerate low temperatures.
+
+A. Both true; R explains A  
+B. Both true; R does not explain A  
+C. A true; R false  
+D. A false; R true  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests tropical richness; R tests temperature intolerance as the causal link.
+
+**Ans: A.** Both true and R correctly explains A.
+
+</details>

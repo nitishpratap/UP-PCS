@@ -61,11 +61,15 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 - **Chipko** means "to cling/hug" — villagers hugged trees to stop commercial logging.
 - Began **March 1973** at **Reni village**, Chamoli (Garhwal) — now **Uttarakhand**, then **Uttar Pradesh**.
+- On **26 March 1974**, **Gaura Devi** gathered village women and prevented loggers from felling trees by embracing them — a landmark Chipko episode.
 - **Gaura Devi** led village women who blocked contractors felling ash trees for a sports-goods factory.
 - Leaders: **Sunderlal Bahuguna**, **Chandi Prasad Bhatt** (Dasholi Gram Swarajya Mandal), **Gaura Devi**.
 - Method: **non-violent passive resistance** — UPSC grouped Chipko with **Dandi March**.
 - Influenced **Forest (Conservation) Act 1980** and conservation tilt of **National Forest Policy 1988**.
 - Bahuguna's line: **"ecology is permanent economy"**.
+- **Maiti Movement** (Uttarakhand; pioneered by **Kalyan Singh Rawat**, mid-1990s) asks newly married couples to plant a sapling at the bride’s parental home — separate from Chipko.
+- Related movements: **Appiko** (Karnataka), **Narmada Bachao Andolan** (anti-large dam on Narmada).
+- Rajasthan’s **Amrita Devi Smriti Award** honours wildlife/forest protection (Bishnoi memory line). **Apna Van Apna Dhan** is a Himachal afforestation scheme.
 
 > ** note:** Chipko = **Uttarakhand 1973**, not Karnataka (Appiko) or Kerala (Silent Valley).
 

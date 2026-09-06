@@ -1,4 +1,4 @@
-# Modern India (UPPCS Prelims Knowledge Base)
+# Modern India (UPPCS + UKPCS Prelims Knowledge Base)
 
 **Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/03_Modern_India.md)
 
@@ -420,3 +420,8 @@
 
 > **Homes (Sep 2026 pass):** **Chronology** is the first teaching page (year / arrange-order home). British Acts teaching cards live in Topic 3 (GG & Viceroys). Expansion wars / Subsidiary / Lapse / frontiers live in Topic 2. Vault match-tables live in Topic 16. Do not treat PYQs as the syllabus ceiling.
 
+---
+
+## History of Uttarakhand — Modern slice (UKPCS-only)
+
+→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)

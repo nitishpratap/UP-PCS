@@ -240,6 +240,10 @@ D. 4, 2, 3, 1
 - **C.O. Sauer** introduced the concept of **planting hearth**, the region where domesticated plants first originated.
 - The **Puszta grassland** is associated with **Hungary**.
 - The **cryophyte steppe** is associated with **Arctic tundra** vegetation.
+- **Red Sanders (*Pterocarpus santalinus*)** is a South India dry-deciduous endemic (Palkonda–Seshachalam / southern Eastern Ghats) — **not** a tropical rainforest tree.
+- **Taxus** occurs naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
+- Himalayan associates include **oak** and **rhododendron**; **sandalwood** is South Indian deciduous — not a Himalayan natural associate.
+- Desert flora often shows hard/waxy leaves, tiny leaves, or thorns to cut water loss.
 
 ### UP flora and fauna facts
 

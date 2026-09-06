@@ -633,3 +633,9 @@
 - Climate Refugees
 - Nature-based Solutions
 - LiFE Mission
+
+---
+
+## Natural Resources of Uttarakhand (UKPCS-only)
+
+→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)

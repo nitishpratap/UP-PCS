@@ -20,7 +20,7 @@
 1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
 2. **Article 48A** (DPSP) directs the State to protect the environment. **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
 3. **Article 21** has been read to include a healthy environment. **Article 48** is about agriculture and cattle — it is **not** the environment article (**48A** is).
-4. The **Environment (Protection) Act, 1986** is the post-Bhopal umbrella law. Section **3** powers support EIA, CRZ, and ESZ rules. It **supplements** Water and Air Acts; it does not repeal them.
+4. The **Environment (Protection) Act, 1986** is the post-Bhopal umbrella law under **Article 253**. Section **3** powers support EIA, CRZ, ESZ, **GEAC**, and **CGWA**. It **supplements** Water and Air Acts; it does not repeal them.
 5. EIA Notification and related clearances flow from **EPA**, not from the Water Act.
 6. The **Wildlife (Protection) Act, 1972** uses **six** Schedules. Schedules **I–IV** protect animals; Schedule **V** is vermin; Schedule **VI** covers plants. **Schedule I** is the highest protection; Schedule **V** animals may be hunted as vermin.
 7. Under WPA, a **National Park** (Section **35**) is stricter than a **Sanctuary** (Section **18**). Tiger Reserves rest on Section **38V** (2006 amendment path).
@@ -50,7 +50,9 @@
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
-| **EPA 1986** | Umbrella law — EIA, CRZ, ESZ under Section 3 | EPA 1986 |
+| **EPA 1986** | Umbrella law — EIA, CRZ, ESZ, GEAC, CGWA under Section 3 | EPA 1986 |
+| **GEAC** | Genetic Engineering Appraisal Committee — under EPA 1986 | GEAC |
+| **CGWA** | Groundwater regulation under EPA Sec 3(3) — ≠ CGWB | CGWA |
 | **WPA 1972** | Wildlife schedules and protected areas | WPA 1972 |
 | **FCA 1980** | Controls **diversion** of forest land | FCA 1980 |
 | **FRA 2006** | Recognizes **rights** of forest dwellers | FRA 2006 |
@@ -85,15 +87,21 @@
 
 ## 17.2 Environment (Protection) Act, 1986
 
-**Identity:** Post-Bhopal 1984 | Umbrella law | Section 3 | EIA/CRZ/ESZ
+**Identity:** Post-Bhopal 1984 | Umbrella law | Article 253 | Section 3 | EIA/CRZ/ESZ | GEAC | CGWA
 
 - The **EPA was enacted in 1986** after the **Bhopal Gas Tragedy (1984)** exposed gaps in environmental regulation.
-- It is India's **umbrella environmental law** giving the Centre broad powers under **Section 3** to protect and improve the environment.
+- Parliament passed it under **Article 253** to implement decisions of the **Stockholm Conference (1972)** on the human environment.
+- It is India's **umbrella environmental legislation** giving the Centre broad powers under **Section 3** to protect and improve the environment.
 - **Section 6** empowers the Centre to make **rules** for environmental protection.
 - EPA legally defines **"environment"** as water, air, land, and their inter-relationships with living beings.
 - The **EIA Notification**, **CRZ rules**, and **ESZ notifications** are issued under **EPA Section 3** — not under the Water Act.
 - EPA **supplements** the Water Act 1974 and Air Act 1981. It does **not replace** them.
 - **Environmental Clearance** under EIA is distinct from SPCB **consent** under Water/Air Acts. Large projects may need **both**.
+- The **Genetic Engineering Appraisal Committee (GEAC)** is constituted under the **Environment (Protection) Act, 1986**.
+- It was earlier called the Genetic Engineering **Approval** Committee and was renamed **Appraisal** Committee on **22 July 2010**.
+- GEAC is the apex body in MoEFCC for manufacture, use, import, export, and storage of hazardous microorganisms and genetically engineered organisms under the 1989 Rules.
+- The **Central Ground Water Authority (CGWA)** was constituted under **Section 3(3)** of the EPA, 1986 to regulate and control development and management of groundwater.
+- **CGWA** (regulatory authority under EPA) is **not** the same as **CGWB** (assessment board under Jal Shakti).
 - Violations can attract imprisonment up to **5 years** and fines, extendable on continued violation.
 - **MoEFCC** is the nodal ministry for EPA implementation.
 
@@ -211,7 +219,9 @@ D. 1977
 ### National Forest Policy, 1952
 
 - The **National Forest Policy 1952** focused on **revenue and industrial use** of forests.
-- It was superseded in practice by the **National Forest Policy 1988**, which targets **33% forest cover nationally** and **66% in hills**.
+- Under NFP **1952**, forests were classed as **Protected/Conserved Forests, National Forests, Village Forests, and Tree Lands** — **National Park is not** a 1952 forest class.
+- It was superseded in practice by the **National Forest Policy 1988**, which targets **33% forest/tree cover nationally** and **66% in hills**, with people’s participation and ecology first.
+- NFP **1988** includes afforestation of wastelands, reforestation, and wood substitutes — **not** wide promotion of insecticides/pesticides.
 - Notes may cite **1952** from syllabus — know it as the **early revenue-oriented policy**.
 
 | Act | Purpose |
@@ -239,10 +249,14 @@ D. 1977
 
 - The **NGT Act was passed in 2010** and the tribunal became operational in **2011**.
 - NGT is a **specialized environmental court** for fast disposal of environmental cases.
+- It draws inspiration from the right to a **healthy environment** read into **Article 21**.
 - It has jurisdiction over civil matters under **EPA, WPA, FCA, Water Act, Air Act, and BDA**.
 - NGT hears **appeals against Environmental Clearance** and pollution orders.
 - The Act targets case disposal within **6 months**.
 - NGT **does not grant EC** — MoEFCC/SEIAA do.
+- NGT was created by an **Act**. CPCB was constituted under the **Water Act, 1974** — not by a mere executive order.
+- NGT provides environmental justice and reduces the burden on higher courts. CPCB promotes cleanliness of streams and wells and improves air quality.
+- The **National Environment Appellate Authority (NEAA, 1997)** was dissolved after NGT was established.
 
 | Act | Year | Key body |
 |-----|------|----------|

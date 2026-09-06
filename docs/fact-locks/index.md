@@ -32,7 +32,16 @@ Use **after** Subject Notes once, or **minutes before** the . Toggle **Focus mod
 [**Polity**
 <span>No sheets yet.</span>](polity/index.md){ .study-card }
 
+[**Economy**
+<span>Scaffold · Uttarakhand folder ready.</span>](economy/index.md){ .study-card }
+
+[**Science and Technology**
+<span>Scaffold · Uttarakhand folder ready.</span>](science and technology/index.md){ .study-card }
+
 </div>
+
+!!! note "UKPCS"
+ Each subject also has an **Uttarakhand** nav section for UKPCS-only ratta. Overview: [UKPCS Desk](../ukpcs/index.md).
 
 ## How to use Fact Facts
 

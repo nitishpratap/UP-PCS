@@ -34,4 +34,13 @@ Paste a ChatGPT dump in Cursor and name the subject. New decks go under that sub
 [**Polity**
 <span>Elections · Statutory Bodies · Constitutional Bodies · Special Provisions</span>](polity/index.md){ .study-card }
 
+[**Economy**
+<span>Scaffold · Uttarakhand decks when pasted.</span>](economy/index.md){ .study-card }
+
+[**Science and Technology**
+<span>Scaffold · Uttarakhand decks when pasted.</span>](science and technology/index.md){ .study-card }
+
 </div>
+
+!!! note "UKPCS"
+ Each subject has an **Uttarakhand** section for state-only cards. Overview: [UKPCS Desk](../ukpcs/index.md).

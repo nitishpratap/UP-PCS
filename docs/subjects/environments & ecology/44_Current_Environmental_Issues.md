@@ -18,7 +18,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 1. A **carbon footprint** totals greenhouse gases in **tCO₂e**. Scope **1** is direct, Scope **2** is purchased energy, Scope **3** is the wider value chain.
 2. India’s **per capita** carbon footprint is about **2 tCO₂e** — low versus global and USA averages — even though absolute emissions are high.
-3. An **ecological footprint** measures resource demand in **global hectares (gha)**. It is **not** the same unit as tCO₂e.
+3. An **ecological footprint** measures resource demand in **global hectares (gha)**. It is **not** the same unit as tCO₂e. The **Social Cost of Carbon** is the monetary long-term damage of **one tonne of CO₂**.
 4. **Net zero** balances remaining emissions with removals. India’s year fact is **2070**. It is not gross zero and not automatically **2050**.
 5. NDC-style facts include about **45%** intensity cut, about **50%** non-fossil capacity, and a large forest sink goal.
 6. The **Emissions Gap Report** is by **UNEP**.
@@ -97,6 +97,12 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 | Carbon footprint | tCO₂e | ~2 / person |
 
 > ** note:** Same unit for both footprints = **FALSE**. EF = **gha**; carbon = **tCO₂e**.
+
+### Social Cost of Carbon
+
+- The **Social Cost of Carbon (SCC)** is a **monetary measure** of the long-term damage done by emitting **one tonne of CO₂** in a given year.
+- US EPA and other agencies use SCC estimates to evaluate climate impacts of rule-making.
+- SCC is **not** the same as a person’s carbon footprint, fossil-fuel requirement of a country, or climate-refugee adaptation cost.
 
 ---
 

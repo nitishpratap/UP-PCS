@@ -1,4 +1,4 @@
-# Medieval India (UPPCS Prelims Knowledge Base)
+# Medieval India (UPPCS + UKPCS Prelims Knowledge Base)
 
 **Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/02_Medieval_India.md)
 
@@ -323,3 +323,9 @@ These are not explicitly in your notes but have high probability for UPPCS:
 - Buland Darwaza
 - Mughal Schools of Painting
 - Provincial Administration under Mughals
+
+---
+
+## History of Uttarakhand — Medieval slice (UKPCS-only)
+
+→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)

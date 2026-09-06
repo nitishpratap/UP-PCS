@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Sustainable Development:** SD | SDGs | SDGs 2030 | Objectives | Indicators | Dimensions | Brundtland Report
+**Sustainable Development:** SD | SDGs | SDGs 2030 | Objectives | Indicators | Dimensions | Brundtland Report | Natural capital | Sustainable agriculture | NMSA
 **Environmental Governance:** Governance | Environmental Justice | Environmental Ethics | Green Economy | Circular Economy
 
 </details>
@@ -15,36 +15,40 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. **Sustainable development** (Brundtland **1987**, *Our Common Future*) means meeting present needs without compromising future generations’ ability to meet theirs.
 2. Brundtland is **not** *Limits to Growth* (Club of Rome, **1972**).
 3. SD rests on **economic, social, and environmental** pillars (plus institutional capacity). It is not environment-only.
 4. Core objectives include basic needs, intra- and inter-generational equity, ecological limits, participation, and integrated planning.
-5. Indicators include **HDI (UNDP)**, ecological footprint, NITI Aayog SDG Index, global SDG indicator sets, and EPI.
-6. **SDGs** were adopted in **September 2015**, run to **2030**, and include **17 goals** and **169 targets**.
-7. SDGs replaced **MDGs** (8 goals, **2000–2015**) and apply universally to all countries.
-8. Goal facts worth ratta include SDG **6** water, **7** energy, **13** climate, **14** life below water, and **15** life on land.
-9. Conference chain: **Stockholm 1972 → Brundtland 1987 → Rio and Agenda 21 in 1992 → SDGs 2015**.
-10. **Agenda 21** is Rio **1992**, not 1995.
-11. **LiFE Mission** launched in **June 2022**; the idea was floated at **COP26 Glasgow 2021**, not COP25.
-12. MoEFCC is the nodal environment ministry. **NGT Act 2010** creates the green tribunal.
-13. Rio principles frequently tested are **Precautionary Principle, Polluter Pays, and Public Trust**.
-14. Constitutional hooks are **Article 48A**, **Article 51A(g)**, and **Article 21** read with a healthy environment.
-15. UP SDG reporting typically sits with the **Planning Department**.
-16. Environmental justice means fair distribution of environmental benefits and burdens plus fair participation in decisions.
-17. Bhopal **1984** led to EPA **1986**. UP justice/pollution examples include Kanpur tanneries and the Singrauli coal belt.
-18. Ethics labels: **anthropocentrism** (human-centred), **biocentrism** (all life), **ecocentrism** (ecosystems). Leopold’s Land Ethic is **1949**; deep ecology links to **Arne Næss**.
-19. Gandhi’s **trusteeship** is a frequent Indian environmental-ethics fact.
-20. **Green economy** (UNEP **2011** line) means low-carbon, resource-efficient, socially inclusive growth.
-21. **Circular economy** redesigns take-make-dispose into reduce-reuse-recycle loops, often with **EPR** rules. Circular sits inside, but is not identical to, green economy.
-22. Example scheme–SDG matches: Jal Jeevan / Swachh Bharat → SDG **6**; SAUBHAGYA / UJALA → SDG **7**; NAPCC / Net Zero 2070 → SDG **13**.
-23. MDGs had 8 goals; SDGs have 17 — do not reverse the counts.
-24. HDI is an UNDP development indicator; it is not itself an MoEFCC clearance tool.
-25. Polluter Pays allocates cleanup cost to the polluter; Precautionary Principle acts under scientific uncertainty — different tools.
-26. Public Trust treats certain natural resources as held for public benefit, not absolute private exhaustion.
-27. Net Zero **2070** is India’s long-term climate cue nested under SDG 13 / Paris NDC politics.
-28. Sustainable development is intergenerational; “present growth only” options fail the Brundtland test.
+5. Priority objectives also include **poverty reduction**, **biodiversity conservation**, and **pollution control**.
+6. Indicators include **HDI (UNDP)**, ecological footprint, NITI Aayog SDG Index, global SDG indicator sets, and EPI.
+7. **Natural capital** means renewable and non-renewable environmental resources (air, water, land, minerals, forests). **Roads** are not natural capital.
+8. **SDGs** were adopted in **September 2015**, run to **2030**, and include **17 goals** and **169 targets**.
+9. SDGs replaced **MDGs** (8 goals, **2000–2015**) and apply universally to all countries.
+10. Goal facts worth ratta include SDG **6** water, **7** energy, **13** climate, **14** life below water, and **15** life on land.
+11. Global SDG Index ranks often place **Finland** first. India was about **116th (2017)** and about **112th (2023)**.
+12. NITI Aayog **SDG India Index** has repeatedly placed **Kerala** first; Himachal Pradesh and Tamil Nadu sit near the top. **Gujarat** was **not** in the 2019–20 top-five set often tested.
+13. Conference chain: **Stockholm 1972 → Brundtland 1987 → Rio and Agenda 21 in 1992 → SDGs 2015**.
+14. **Agenda 21** is Rio **1992**, not 1995.
+15. **LiFE Mission** launched in **June 2022**; the idea was floated at **COP26 Glasgow 2021**, not COP25.
+16. MoEFCC is the nodal environment ministry. **NGT Act 2010** creates the green tribunal.
+17. Rio principles frequently tested are **Precautionary Principle, Polluter Pays, and Public Trust**.
+18. Constitutional hooks are **Article 48A**, **Article 51A(g)**, and **Article 21** read with a healthy environment.
+19. UP SDG reporting typically sits with the **Planning Department**.
+20. Environmental justice means fair distribution of environmental benefits and burdens plus fair participation in decisions.
+21. Bhopal **1984** led to EPA **1986**. UP justice/pollution examples include Kanpur tanneries and the Singrauli coal belt.
+22. Ethics labels: **anthropocentrism** (human-centred), **biocentrism** (all life), **ecocentrism** (ecosystems). Leopold’s Land Ethic is **1949**; deep ecology links to **Arne Næss**.
+23. Gandhi’s **trusteeship** is a frequent Indian environmental-ethics fact.
+24. **Green economy** (UNEP **2011** line) means low-carbon, resource-efficient, socially inclusive growth.
+25. **Circular economy** redesigns take-make-dispose into reduce-reuse-recycle loops, often with **EPR** rules. Circular sits inside, but is not identical to, green economy.
+26. **Sustainable agriculture** means using land so its **quality remains intact**, with mixed cropping, organic manures, nitrogen-fixing plants, and pest-resistant varieties as the environment-friendly strategy set.
+27. **NMSA** (National Mission for Sustainable Agriculture) is a **NAPCC** mission on productivity, water-use efficiency, nutrient management, and livelihood diversification.
+28. Example scheme–SDG matches: Jal Jeevan / Swachh Bharat → SDG **6**; SAUBHAGYA / UJALA → SDG **7**; NAPCC / Net Zero 2070 → SDG **13**.
+29. MDGs had 8 goals; SDGs have 17 — do not reverse the counts.
+30. HDI is an UNDP development indicator; it is not itself an MoEFCC clearance tool.
+31. Polluter Pays allocates cleanup cost to the polluter; Precautionary Principle acts under scientific uncertainty — different tools.
+32. Public Trust treats certain natural resources as held for public benefit, not absolute private exhaustion.
 
 ---
 
@@ -60,20 +64,27 @@
 | **Green economy** | Low-carbon, resource-efficient, inclusive growth | हरित अर्थव्यवस्था |
 | **Circular economy** | Waste eliminated through reuse/recycle design loops | परिपत्र अर्थव्यवस्था |
 | **LiFE Mission** | India 2022 programme for pro-planet lifestyles | LiFE मिशन |
+| **Natural capital** | Nature-made resources — air, water, land, minerals, forests | प्राकृतिक पूंजी |
+| **Sustainable agriculture** | Farming that keeps land quality intact | सतत कृषि |
+| **NMSA** | NAPCC mission for sustainable farm pathways | NMSA |
 
 ---
 
 ## 15.1 Sustainable Development
 
-**Identity:** Brundtland 1987 | Three pillars | Inter/intra-generational equity | Indicators
+**Identity:** Brundtland 1987 | Three pillars | Inter/intra-generational equity | Indicators | Natural capital
 
 - **Sustainable development** means meeting the needs of the present **without compromising** the ability of future generations to meet their own needs.
 - This definition comes from the **Brundtland Report (1987)**, formally titled ***Our Common Future***, by the **World Commission on Environment and Development (WCED)** chaired by **Gro Harlem Brundtland**.
 - The Brundtland Report is **not** *The Limits to Growth*. That 1972 study was by the **Club of Rome**.
 - **Inter-generational equity** protects future generations. **Intra-generational equity** ensures fair sharing among people alive today.
+- Sustainable development is a matter of **inter-generational sensibility** in the use of **natural resources**.
 - The **three dimensions/pillars** are **economic** (viable growth), **social** (equity, health, education), and **environmental** (ecological integrity). Some frameworks add **institutional governance**.
 - **Objectives** include fulfilling **basic needs**, respecting **ecological limits** and carrying capacity, integrating environment into economic planning, and ensuring **public participation**.
+- Core practical objectives also include **poverty reduction**, **biodiversity conservation**, and **prevention and control of pollution**.
 - Development is unsustainable if resource extraction exceeds regeneration or waste exceeds environmental absorption capacity.
+- **Natural capital** includes all renewable and non-renewable environmental resources such as air, water, land, minerals, and forests. **Roads** and other purely human-made assets are **not** natural capital.
+- SD road-mapping often uses information from **remote sensing**, **GIS**, statistical methods, and environmental information systems.
 - **Indicators** include **HDI** (UNDP), **ecological footprint**, **SDG Index**, **Environmental Performance Index (EPI)**, and **231 SDG indicators**.
 - **NITI Aayog** publishes the **SDG India Index** ranking states on SDG progress.
 - The timeline runs **Stockholm 1972** → **Brundtland 1987** → **Rio Earth Summit and Agenda 21 (1992)** → **SDGs adopted 2015**.
@@ -136,6 +147,10 @@ D. A true, R false
 - **Leave No One Behind** requires progress to reach the poorest and most vulnerable groups.
 - **NITI Aayog** coordinates SDG localisation in India. **MoSPI** maintains the National Indicator Framework.
 - India's large population share makes its SDG performance critical for global success.
+- A global **SDG Index / Dashboard** ranks countries on progress toward the 17 goals. **Finland**, **Sweden**, and **Denmark** typically lead.
+- India ranked about **116th** in the **2017** global SDG Index and about **112th** among **166** countries in the **2023** reading.
+- **NITI Aayog’s SDG India Index** ranks states and UTs. **Kerala** has repeatedly held the **first** position (including the 2019–20 and 2020–21 editions).
+- In the 2019–20 / 2020-style top-five set often tested, leading states include **Kerala**, **Himachal Pradesh**, **Tamil Nadu**, and **Andhra Pradesh**. **Gujarat** was **not** in that top-five list.
 
 **PYQ — UPPCS Prelims 2025, Q142**
 
@@ -277,6 +292,28 @@ UP department preparing SDG National Indicator Framework Progress Report:
 | Scope | Broader | Narrower — subset of green |
 | Example | Solar parks, green hydrogen | EPR, plastic recycling |
 | SDG link | 7, 8, 13 and more | Mainly SDG 12 |
+
+---
+
+## 15.5 Sustainable Agriculture & NMSA
+
+**Identity:** Land quality intact | Mixed cropping strategy | NMSA under NAPCC
+
+- **Sustainable agriculture** means producing food, fibre, and related products with farming techniques that protect the environment, public health, communities, and animal welfare.
+- In short form, it means utilising land so that its **quality remains intact**.
+- Heavy chemical fertilisers and pesticides have damaged soil health, which is why sustainable pathways emphasise nutrient management and ecological farming.
+- An environment-friendly strategy set for Indian agriculture is **mixed cropping**, **organic manures**, **nitrogen-fixing plants**, and **pest-resistant crop varieties**.
+- Expansion of cultivable land with heavy urea/superphosphate use, monoculture, and intensive aerial pesticide spray is **not** the sustainable strategy option.
+- The **National Mission for Sustainable Agriculture (NMSA)** is a mission under the **National Action Plan on Climate Change (NAPCC)**.
+- NMSA focuses on agricultural productivity, **water-use efficiency**, nutrient management, and **livelihood diversification** through sustainable pathways.
+- **Conservation Agriculture** (FAO framing) rests on **minimum tillage**, **permanent soil cover with crop residues**, and **crop rotation / sequencing**. Avoiding plantation crops is **not** a Conservation Agriculture principle.
+
+| Idea | Correct fact |
+|------|------|
+| Sustainable agriculture | Land quality remains intact |
+| Best strategy set | Mixed cropping + organic + N-fixing + pest-resistant varieties |
+| NMSA | NAPCC mission |
+| Conservation Agriculture | Min tillage + residue cover + rotation |
 
 ---
 

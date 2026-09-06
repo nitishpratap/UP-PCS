@@ -8,40 +8,50 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 </details>
 
-> **Sources baked in:** IPCC AR6, NCERT Geography/Biology, India NDC 2022, NAPCC 2008, MoEFCC, IMD, UPPCS PYQs 2018–2025
+> **Sources baked in:** IPCC AR6, NCERT Geography/Biology, India NDC 2022, NAPCC 2008, MoEFCC, IMD, WMO GHG Bulletin shares, UPPCS/UPSC PYQs 2018–2025
 > **Weight:** ★★★ High — GHG traps, adaptation vs mitigation, treaty years, India targets
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. **Global warming** is the long-term rise in average surface temperature. It is a subset of broader **climate change**, which also includes rainfall, extremes, and sea-level shifts.
-2. IPCC AR6 facts about **1.1°C** above 1850–1900 globally. India has warmed about **0.7°C** since 1901 (IMD class figure).
+2. IPCC AR6 facts about **1.1°C** above 1850–1900 globally. India has warmed about **0.7°C** since 1901 (IMD class figure). Past-century surface rise is about **1°C ≈ 1.8°F**.
 3. The natural greenhouse effect keeps Earth near about **+15°C**. Without it, Earth would be near about **−18°C**.
-4. Enhanced greenhouse effect means excess anthropogenic GHGs trap outgoing infrared radiation.
-5. Kyoto-basket majors: **CO₂** (largest forcing share, GWP **1**), **CH₄** (GWP about **28–36**), **N₂O** (GWP about **265**), plus HFCs, PFCs, and SF₆.
-6. Water vapour is a strong feedback, not treated as the primary policy driver in the Kyoto basket.
-7. India is about the **third**-largest total emitter but remains **low per capita** (about **2 tCO₂e** class figure).
-8. A **carbon footprint** totals GHGs in tCO₂e across Scope **1** (direct), **2** (energy), and **3** (supply chain).
-9. A **carbon sink** absorbs more CO₂ than it releases (forests, oceans, soils, mangroves). **Sequestration** is the storage process.
-10. Impacts include heat waves, Himalayan glacier retreat, monsoon extremes, coral bleaching with roughly **+2°C** SST stress, drought, and floods.
-11. **Adaptation** means coping with impacts. **Mitigation** means cutting emissions and enhancing sinks.
-12. **NAPCC (2008)** has **eight** national missions as India’s adaptation–mitigation umbrella.
-13. India’s updated **NDC (2022)** targets include **45%** lower emission intensity of GDP by **2030** versus 2005, and **50%** cumulative non-fossil electricity capacity by **2030**.
-14. India also targets an additional forest carbon sink of about **2.5–3 GtCO₂e** by **2030**.
-15. India’s **Net Zero** pledge is **2070** (COP26 announcement track).
-16. **LiFE Mission** launched in **June 2022**; the idea was presented at **COP26 (2021)**, not COP25.
-17. Climate treaty chain: **UNFCCC 1992 → Kyoto Protocol 1997 → Paris Agreement 2015**.
-18. **Montreal Protocol (1987)** is for **ozone / ODS**, not climate mitigation. Do not swap Montreal with Kyoto/Paris.
-19. UP heat vulnerability often cites Lucknow, Agra, Prayagraj, and NCR.
-20. UP drought fact is **Bundelkhand’s seven districts**. Flood facts include Ballia, Ghazipur, and Varanasi belts.
-21. Emissions hotspot language for UP–MP often points to the **Singrauli** coal belt.
-22. Terai forests at Dudhwa and Pilibhit are UP **carbon-sink** examples.
-23. NCAP cities for UP air–climate overlap include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, and Noida.
-24. Paris uses universal **NDCs**; Kyoto’s classic framing is binding targets mainly for developed parties — they are not identical instruments.
-25. Methane sources often tested are cattle, rice paddies, and landfills; N₂O links strongly to fertilisers.
-26. Global warming is temperature rise; climate change is the wider long-term shift — do not treat the words as perfect synonyms in precise stems.
+4. **Joseph Fourier (1820s)** postulated the greenhouse-effect idea. Sun sends **shortwave** (UV + visible + IR); Earth re-emits **longwave IR**. Ozone absorbs harmful UV; GHGs trap outgoing IR.
+5. Enhanced greenhouse effect means excess anthropogenic GHGs trap outgoing infrared radiation. Main cause of recent warming is **CO₂** (highest concentration among long-lived GHGs).
+6. Kyoto-basket majors: **CO₂** (GWP **1**), **CH₄** (GWP about **28–36**), **N₂O** (GWP about **265**), plus HFCs, PFCs, **SF₆** (and **NF₃** in later inventories).
+7. Rough **WMO-style relative shares** often used in Indian papers: **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**. Decreasing order: **CO₂ > CH₄ > CFCs > N₂O**.
+8. **Water vapour** is Earth’s most abundant natural GHG (NASA: ~half of the natural greenhouse effect) but mainly a **feedback**, not the primary policy driver.
+9. **Not GHGs:** **argon, nitrogen (N₂), oxygen, hydrogen, propane**. **SO₂ / NOx** do **not** contribute to warming **directly** (indirect / other roles).
+10. **Direct** GHGs include CO₂, CH₄, N₂O, CFCs, SF₆, NF₃. **Indirect** agents include **NOx, CO, NMVOCs, SO₂**.
+11. India is about the **third**-largest total emitter (**China** first); **Bhutan** is often cited as **carbon-negative**.
+12. A **carbon footprint** totals GHGs in tCO₂e across Scope **1** (direct), **2** (energy), and **3** (supply chain).
+13. A **carbon sink** absorbs more CO₂ than it releases (forests, oceans, soils, mangroves / **blue carbon**). **Sequestration** is the storage process.
+14. **Carbon fertilization** = more plant growth from higher atmospheric CO₂ (not the same as ocean acidification or warming).
+15. Pre-industrial CO₂ ~**278–280 ppm (~0.03%)**; mid-20th century ~**315 ppm**; now **415–420+ ppm**.
+16. **Methane (“marsh gas”)** sources: paddies, cattle, coal mines, landfills, termites; natural wetlands dominate natural CH₄ (~**75–76%** of natural). **Rice** is a key anthropogenic source of **both CH₄ and N₂O**.
+17. **Methane hydrates** under Arctic tundra / seafloor can release CH₄ if warmed; atmospheric CH₄ oxidises to CO₂ in roughly a decade or two.
+18. Impacts include heat waves, glacier melt, sea-level rise, coral bleaching, disease spread, stronger storms. **Arctic / Greenland ice** is among the most fragile first-hit systems.
+19. Rough IPCC-style risk: beyond about **+2°C** pre-industrial → widespread coral mortality; beyond about **+3°C** → terrestrial biosphere tends toward a **net carbon source**.
+20. **Adaptation** = coping with impacts. **Mitigation** = cutting emissions and enhancing sinks.
+21. **NAPCC (2008)** has **eight** national missions — **not** nuclear power as a listed mission.
+22. India’s updated **NDC** path includes about **45%** emission-intensity cut and about **50%** non-fossil electricity capacity by **2030** (not “60% energy from renewables” as a false paraphrase).
+23. India’s **Net Zero** pledge is **2070**. Net zero means emissions balanced by removals — **not** literally zero every emission.
+24. **LiFE Mission** launched **June 2022**; idea at **COP26 (2021)**, not COP25.
+25. Climate treaty chain: **UNFCCC 1992 → Kyoto 1997 (force 2005) → Paris 2015**. **Montreal 1987** = ozone, not climate.
+26. **CDM** (Kyoto Art. 12) lets Annex-I parties fund projects in developing countries for **CERs** (1 CER ≈ 1 tCO₂). **Carbon credit** concept originates from Kyoto.
+27. **Green Climate Fund** was set up at **Cancun COP-16 (2010)**, not Durban. **Earth Hour** = **WWF**, last Saturday of March (lights off ~8:30–9:30 pm).
+28. **GHG Protocol** = **WRI + WBCSD** accounting tool. **Blue carbon** = ocean/coastal carbon (mangroves, seagrass, salt marsh).
+29. UP heat vulnerability often cites Lucknow, Agra, Prayagraj, and NCR.
+30. UP drought fact is **Bundelkhand’s seven districts**. Flood facts include Ballia, Ghazipur, and Varanasi belts.
+31. Emissions hotspot language for UP–MP often points to the **Singrauli** coal belt.
+32. Terai forests at Dudhwa and Pilibhit are UP **carbon-sink** examples.
+33. **Milankovitch** orbital theory (eccentricity, obliquity, precession) — **solar irradiance** is **not** part of that astronomical set.
+34. **Ice cores** are the classic **cryogenic** climate archive (Greenland / Antarctica).
+35. **Solar flares** are **not** a primary cause of recent climate change in standard NASA/IPCC framing.
+36. Farm practices that help soil carbon storage include **contour bunding, relay cropping, and zero tillage**.
 
 ---
 
@@ -80,43 +90,50 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ## 10.2 Greenhouse Effect
 
-**Identity:** IR trapping mechanism | Natural vs enhanced | Not same as ozone depletion
+**Identity:** Fourier 1820s | Shortwave in · longwave out | Natural vs enhanced | ≠ ozone depletion
 
-- The **greenhouse effect** is the process by which atmospheric gases absorb and re-emit **outgoing infrared radiation**.
-- **Solar shortwave radiation** passes through the atmosphere and warms Earth's surface.
-- Earth re-emits energy as **longwave IR**, which GHG molecules absorb and redirect back toward the surface.
+- The **greenhouse effect** is the process by which atmospheric gases absorb and re-emit **outgoing infrared radiation**, warming the surface and lower atmosphere.
+- **Joseph Fourier (1820s)** postulated the greenhouse-effect concept.
+- The Sun emits **high-energy shortwave** radiation (UV, visible, near-IR). Harmful **UV** is largely absorbed by the **ozone layer**; visible and IR reach the surface as heat.
+- Earth, being cooler, re-emits energy as **longwave IR**. Greenhouse gases absorb much of that longwave and re-radiate it in all directions.
 - The **natural greenhouse effect** keeps Earth's average temperature near **+15°C**.
 - Without it, Earth's average would be about **−18°C** and largely uninhabitable.
-- The **enhanced greenhouse effect** comes from human-caused GHG buildup faster than natural sinks can absorb.
-- **Water vapour** is the most abundant natural GHG but acts mainly as a **feedback**, not a primary emitted driver like CO₂.
+- The **enhanced greenhouse effect** comes from human-caused GHG buildup faster than natural sinks can absorb — this drives **global warming**.
+- **Water vapour** is the most abundant natural GHG (about **half** of the natural greenhouse effect in NASA-style framing) but acts mainly as a **feedback**, not a primary emitted driver like fossil CO₂.
 - The greenhouse effect is **not ozone depletion**. Ozone blocks UV; GHGs trap IR.
 
-> ** note:** The natural greenhouse effect is **essential**. The problem is the **enhanced** anthropogenic effect.
+> **Logic:** Natural greenhouse effect is **essential**. The problem is the **enhanced** anthropogenic effect. Fourier coined the concept — do not invent modern IPCC authors for that stem.
 
 ---
 
 ## 10.3 Greenhouse Gases (GHGs)
 
-**Identity:** Kyoto six-gas basket | CO₂ dominant by volume | CH₄/N₂O higher GWP
+**Identity:** Kyoto basket | WMO share order | Argon/H₂/propane not GHG | Direct vs indirect
 
 - **Greenhouse gases** absorb and emit infrared radiation in the atmosphere.
-- **CO₂** causes about **76%** of anthropogenic GHG forcing and has **GWP = 1** (reference gas).
-- **Methane (CH₄)** causes about **16%** of forcing with **GWP around 28–36** over 100 years.
-- **Nitrous oxide (N₂O)** causes about **6%** of forcing with **GWP around 265**.
-- Major **CH₄ sources** include cattle, rice paddies, landfills, and natural gas leaks.
-- Major **N₂O sources** include synthetic fertilizers and combustion.
-- The **Kyoto Protocol** covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆**.
-- **N₂ and O₂** are not GHGs because they do not absorb IR significantly.
-- **India is the 3rd largest total GHG emitter** but has **low per capita emissions** (~2 tCO₂e).
+- **CO₂** is the main anthropogenic driver by concentration and total forcing. IPCC-style forcing share is often ~**76%**; older WMO-bulletin style relative shares used in many Indian papers are **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**.
+- Decreasing contribution order commonly tested: **CO₂ > CH₄ > CFCs > N₂O**.
+- **CO₂** has **GWP = 1**. Pre-industrial ~**278–280 ppm (~0.03%)**; ~**315 ppm** around 1950s; now **415–420+ ppm**.
+- **Methane (CH₄)** — also called **marsh gas** — has **GWP around 28–36** (100-yr). Sources: paddies, cattle, coal mines, landfills, termites; natural **wetlands** dominate natural CH₄ (~**75–76%**).
+- **Rice** is a major anthropogenic source of **both methane and nitrous oxide** (anaerobic soils + nitrogen fertiliser).
+- **Nitrous oxide (N₂O)** has **GWP around 265** and links strongly to synthetic fertilisers.
+- The **Kyoto Protocol** covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆** (later inventories also track **NF₃**).
+- **Not greenhouse gases:** **argon, N₂, O₂, hydrogen, propane**. **Nitrogen oxide (NOₓ)** is **not** listed among the classic naturally occurring GHGs in UPPCS-style keys.
+- **SO₂ and oxides of nitrogen** do **not** contribute to global warming **directly** (acid rain / air pollution / indirect chemistry roles).
+- **IPCC direct GHGs** include CO₂, CH₄, N₂O, halocarbons, SF₆, NF₃. **Indirect** agents include **NOₓ, CO, NMVOCs, SO₂**.
+- **Carbon fertilization** means increased plant growth from higher atmospheric CO₂ — distinct from warming or ocean acidification.
+- Oceans remove much atmospheric CO₂ via **phytoplankton photosynthesis** (biological pump) — destroying phytoplankton harms the ocean carbon sink and marine food webs, not seawater density.
 - **Black carbon (soot)** is a climate forcer but **not a GHG**.
+- **India is the 3rd largest total GHG emitter** (**China** #1); **low per capita**. **Bhutan** is often described as **carbon-negative**.
 
-| GHG | Share of forcing | GWP (100-yr) |
-|-----|------------------|--------------|
-| CO₂ | ~76% | 1 |
-| CH₄ | ~16% | 28–36 |
+| GHG / group | Rough relative share (WMO-style stems) | GWP (100-yr) |
+|-------------|----------------------------------------|--------------|
+| CO₂ | ~64% | 1 |
+| CH₄ | ~19% | 28–36 |
 | N₂O | ~6% | 265 |
+| CFCs + others | ~11% | Very high (F-gases) |
 
-> ** note:** Highest **GWP per molecule** ≠ largest total warming. **CO₂ dominates by volume emitted**.
+> **Logic:** Highest **GWP per molecule** ≠ largest total warming. **CO₂ dominates by volume**. Water vapour can win “most abundant natural GHG / largest share of natural effect” stems; CO₂ wins “main component / highest contribution to anthropogenic warming” stems.
 
 ---
 
@@ -155,23 +172,24 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ## 10.6 Carbon Sequestration
 
-**Identity:** Long-term carbon storage | Biological + geological | CAMPA, GIM, Green Credit
+**Identity:** Long-term carbon storage | Biological + geological | Farm practices | CCS sites
 
 - **Carbon sequestration** is the process of capturing and storing atmospheric carbon for long periods.
 - **Biological sequestration** uses afforestation, soil carbon build-up, and mangrove restoration.
-- **Geological sequestration** uses **Carbon Capture and Storage (CCS)** in underground rock formations.
+- Farm practices that help soil carbon storage include **contour bunding**, **relay cropping**, and **zero tillage**.
+- **Geological sequestration / CCS** can use abandoned coal seams, depleted oil and gas reservoirs, and deep saline formations; other discussed methods include crushed basalt on farmland and ocean alkalinity enhancement.
 - **Afforestation and reforestation** are India's main practical sequestration tools under **Green India Mission**.
-- **Blue carbon projects** bury carbon in coastal wetland sediments for centuries.
+- **Blue carbon** is carbon captured by oceans and coastal ecosystems (mangroves, seagrasses, salt marshes).
 - **CAMPA** and the **Green Credit Programme (2023)** finance ecosystem restoration in India.
 - Stored carbon can be **re-released** by fire or deforestation, creating permanence risk.
 
-> ** note:Sequestration** is the process. **Sink** is the reservoir.
+> **Logic:** Sequestration is the **process**. Sink is the **reservoir**. Blue carbon ≠ forest biomass carbon label.
 
 ---
 
 ## 10.7 Climate Change Impacts
 
-**Identity:** Heat, glaciers, monsoon extremes, agriculture, coral bleaching
+**Identity:** Heat, glaciers, monsoon extremes, agriculture, coral bleaching | Arctic first
 
 - **Heat waves** are increasing in frequency across India, especially in **northwest India and UP**.
 - **Himalayan glaciers** such as Gangotri are retreating, affecting lean-season Ganga flow.
@@ -181,8 +199,15 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Wheat** in UP plains is sensitive to **March heat spikes** during the rabi season.
 - **Sea-level rise** threatens coastal India and increases delta salinity pressures.
 - **Coral bleaching** occurs when sea surface temperature rises about **1–2°C above normal** for sustained periods.
+- Impacts of warming commonly listed together: rise in sea level, melting glaciers, spread of diseases, coral bleaching, stronger cyclones/storms/hurricanes.
+- The **Arctic and Greenland ice sheet** are among the most fragile systems hit first by warming.
+- Rough IPCC risk framing: above about **+2°C** pre-industrial → widespread coral mortality; above about **+3°C** → terrestrial biosphere tends toward a **net carbon source** (wetlands do not all permanently disappear; cereal farming does not become impossible everywhere).
+- Climate stress on agriculture and food security can raise **social tension** through resource pressure and food insecurity.
+- **Milankovitch** astronomical climate theory covers **eccentricity, obliquity, and precession** — **not** solar irradiance as a listed element of that set.
+- **Ice cores** provide the classic **cryogenic** record of past climate and atmospheric composition.
+- Primary causes of recent climate change: fossil-fuel burning, oil-driven automobile growth, deforestation — **not** increasing solar flares as a major driver.
 
-> ** note:** UPPCS 2024 Q19 — Andaman coral bleaching linked to **+2°C Indian Ocean warming**.
+> **Logic:** UPPCS 2024 Q19 — Andaman coral bleaching linked to **+2°C Indian Ocean warming**. Do not mark “all wetlands vanish” or “no cereals anywhere” as automatic +3°C outcomes.
 
 **PYQ — UPPCS Prelims 2024, Q19**
 
@@ -227,25 +252,32 @@ D. −4°C cooling
 | 7 | Sustainable Agriculture |
 | 8 | Strategic Knowledge for Climate Change |
 
-> ** note:** Building sea walls = **adaptation**. Closing coal plants = **mitigation**.
+- **Atomic / nuclear power is not** one of the eight NAPCC missions.
+- Climate-smart village approaches linked to **CCAFS / CGIAR** (HQ France; **ICRISAT** is a CGIAR centre) sit in the adaptation–agriculture research lane.
+
+> **Logic:** Building sea walls = **adaptation**. Closing coal plants = **mitigation**. Nuclear ≠ listed NAPCC mission.
 
 ---
 
 ## 10.9 Climate Mitigation
 
-**Identity:** Cut emissions + sinks | UNFCCC/Kyoto/Paris | India NDC | LiFE
+**Identity:** Cut emissions + sinks | UNFCCC/Kyoto/Paris | CDM · GCF | India NDC | LiFE
 
 - **Climate mitigation** means reducing GHG sources or enhancing sinks to limit future warming.
-- **UNFCCC (1992)** is the framework convention from the Rio Earth Summit.
-- **Kyoto Protocol (1997)** was the first binding emission-cut treaty for **developed (Annex I) countries**.
-- **Paris Agreement (2015)** uses voluntary **NDCs** to limit warming well below **2°C** and pursue **1.5°C**.
+- **UNFCCC (1992, Rio)** entered into force **21 March 1994**; it frames greenhouse-gas mitigation.
+- **Kyoto Protocol (1997; force 16 February 2005)** was the first binding emission-cut treaty for **developed (Annex I) countries**.
+- Kyoto’s **Clean Development Mechanism (CDM)** lets Annex-I parties fund projects in developing countries and earn **CERs** (1 CER ≈ **1 tCO₂**). Carbon credits are **market-traded**, not fixed by UNEP price.
+- **Paris Agreement (2015)** uses voluntary **NDCs** to limit warming well below **2°C** and pursue **1.5°C**. The “$1000 billion/year” paraphrase is wrong — finance language was about mobilising **$100 billion** class climate finance.
+- **Green Climate Fund (GCF)** was established at **Cancun COP-16 (2010)** under UNFCCC to help developing countries with adaptation and mitigation — **not** founded at Durban and **not** under UNEP/OECD/ADB/World Bank as its founding aegis.
 - **India's updated NDC (2022)** targets **45% lower emissions intensity of GDP by 2030** (vs 2005).
-- India targets **50% cumulative electric installed capacity from non-fossil sources by 2030**.
-- India pledged **Net Zero by 2070** at **COP-26 Glasgow (2021)**.
+- India targets **50% cumulative electric installed capacity from non-fossil sources by 2030** (not a “60% of total energy from renewables” paraphrase).
+- India pledged **Net Zero by 2070** at **COP-26 Glasgow (2021)**. **Net zero** means emissions are **balanced by absorption/removal** — not that every emission falls to absolute zero.
 - **LiFE (Lifestyle for Environment)** was launched in **June 2022**. The idea was proposed at **COP-26**, not COP-25.
+- **Earth Hour** is a **WWF** awareness event (usually last Saturday of March, lights off ~1 hour) — not UNEP/UNESCO.
 - **Montreal Protocol (1987)** controls **ozone-depleting substances**, not climate change.
+- **GHG Protocol** (WRI + WBCSD) is an accounting tool for governments and business — not a UN treaty.
 
-> ** note:** UPPCS 2024 Q35 — climate mitigation treaty = **Kyoto**. Montreal = ozone.
+> **Logic:** Climate mitigation treaty stem → **Kyoto**. Montreal = ozone. GCF = Cancun 2010. Net zero ≠ absolute zero emissions.
 
 **PYQ — UPPCS Prelims 2024, Q35**
 
@@ -804,14 +836,178 @@ D. Weather forecasting
 | Montreal = climate treaty | **Ozone** — Kyoto/Paris = climate |
 | LiFE proposed at COP-25 | **COP-26 Glasgow** |
 | Eliminate greenhouse effect | **Natural effect essential** — problem is enhanced |
-| CH₄ highest total forcing | **CO₂ dominates by volume** |
-| India highest per capita emitter | **Low per capita**, 3rd total |
+| Wilson/IPCC invented greenhouse effect | **Joseph Fourier (1820s)** |
+| CH₄ highest total contribution | **CO₂** (~64% WMO-style / ~76% IPCC forcing) |
+| Water vapour = main Kyoto inventory driver | Most abundant **natural** GHG / feedback; policy driver = **CO₂** |
+| Argon / H₂ / propane / N₂ are GHGs | **Not** GHGs |
+| SO₂ / NOx warm Earth directly | **Not direct** GHGs |
+| India highest per capita emitter | **Low per capita**, ~3rd total; **China** #1 |
+| Net zero = absolute zero emissions | Emissions **balanced** by removals |
+| Nuclear power is an NAPCC mission | **Not** among the eight |
+| GCF founded at Durban | **Cancun COP-16 (2010)** |
+| Earth Hour = UNEP/UNESCO | **WWF** |
+| Carbon credit price fixed by UNEP | **Market-traded** |
 | Adaptation = cut emissions | **Mitigation** cuts emissions |
 | Kyoto bound India to cuts | Bound **Annex I developed** countries |
-| Coral bleaching from cooling | **Warming** (+1–2°C SST) |
-| Deforestation increases sink | Converts sink to **source** |
-| CCPI rank = total emitter rank | **3rd total** vs **10th CCPI** |
-| Water vapour main human GHG driver | **Feedback**, CO₂ is primary driver |
+| Solar flares = primary recent climate cause | **Not** major (NASA/IPCC framing) |
+| Milankovitch includes solar irradiance | Eccentricity, obliquity, precession only |
+| Blue carbon = petroleum carbon | **Ocean/coastal** ecosystems |
+
+---
+
+## Extra Drill — Ghatnachakra-pattern (Q31–Q40)
+
+**Logic (set):** Mechanism, non-GHG traps, methane/rice, impacts thresholds, treaties/finance, and net-zero wording.
+
+**Q31.** The greenhouse-effect concept was postulated by:
+
+A. C.C. Park  
+B. Joseph Fourier  
+C. L. Zobler  
+D. Arrhenius only in 1990s  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Joseph Fourier in the **1820s**.
+
+</details>
+
+**Q32.** Which is **not** responsible for global warming?
+
+A. Methane  
+B. Water vapour  
+C. Argon  
+D. Carbon dioxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Argon is **not** a greenhouse gas.
+
+</details>
+
+**Q33.** Decreasing order of contribution commonly tested:
+
+A. CO₂ > CH₄ > CFCs > N₂O  
+B. CH₄ > CO₂ > CFCs > N₂O  
+C. CO₂ > N₂O > CH₄ > CFCs  
+D. CFCs > CO₂ > CH₄ > N₂O  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** WMO-style share order used in many Indian papers.
+
+</details>
+
+**Q34.** Among the following crops, the most important anthropogenic source of **both** methane and nitrous oxide is:
+
+A. Cotton  
+B. Rice  
+C. Sugarcane  
+D. Wheat  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Paddy anaerobic CH₄ + fertiliser N₂O.
+
+</details>
+
+**Q35.** Carbon fertilization best describes:
+
+A. Ocean acidification from CO₂  
+B. Increased plant growth from higher atmospheric CO₂  
+C. Global warming from CO₂ alone  
+D. Adaptation of all species to climate change  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** More photosynthesis / greening from elevated CO₂.
+
+</details>
+
+**Q36.** Without the greenhouse effect, Earth’s average surface temperature would be about:
+
+A. 0°C  
+B. −18°C  
+C. 5°C  
+D. −20°C  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Roughly **−18°C**.
+
+</details>
+
+**Q37.** If warming exceeds about **3°C** above pre-industrial levels, which impacts are plausible?
+
+1. Terrestrial biosphere tends toward a net carbon source  
+2. Widespread coral mortality  
+3. All global wetlands permanently disappear  
+4. Cereals cannot be cultivated anywhere  
+
+A. 1 only  
+B. 1 and 2 only  
+C. 2, 3 and 4 only  
+D. All four  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** +2°C already implies widespread coral mortality; +3°C adds net carbon-source risk. Absolute “all wetlands” / “no cereals anywhere” are overstated.
+
+**Ans: B**
+
+</details>
+
+**Q38.** Green Climate Fund was established at:
+
+A. Durban COP  
+B. Cancun COP-16 (2010)  
+C. Paris COP-21 only as first idea  
+D. Stockholm 1972  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cancun **2010** under UNFCCC.
+
+</details>
+
+**Q39.** With reference to net-zero for 2050/2070 pathways, which is correct?
+
+A. A country must bring every emission to absolute zero.  
+B. Residual emissions are compensated by absorption and removal.  
+C. Both A and B  
+D. Neither  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Balance of emissions and removals — Bhutan-style negative emissions possible if removals exceed emissions.
+
+</details>
+
+**Q40.** Assertion (A): Climate change can increase social tension in India.  
+Reason (R): Extreme weather frequency/intensity has serious repercussions on food security.
+
+A. Both true; R explains A  
+B. Both true; R does not explain A  
+C. A true; R false  
+D. A false; R true  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests socio-political stress; R tests the food-security pathway linking climate extremes to social tension.
+
+**Ans: A**
+
+</details>
 
 ---
 
@@ -819,11 +1015,10 @@ D. Weather forecasting
 
 | Metric | Value |
 |--------|-------|
-| **Lines** | ~710 (was ~1630 old format) |
-| **Teaching blocks** | §10.1–10.9 (9 syllabus bullets) |
+| **Teaching blocks** | §10.1–10.9 |
 | **Practice Zone** | 30 questions |
+| **Extra Drill** | Q31–Q40 (Ghatnachakra GHG/climate) |
 | **PYQ Bank** | 7 questions (2018–2025) |
-| **Common Traps** | 11 |
 | **Inline PYQs** | 2024 Q19, Q35; 2025 Q139 |
 
 ### Syllabus coverage map

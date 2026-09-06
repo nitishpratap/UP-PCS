@@ -14,32 +14,40 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. **Climate change** is a long-term shift in temperature, rainfall, and extremes. **Global warming** is the temperature-rise part only.
-2. IPCC AR6 places warming near **1.1°C** above **1850–1900**, with human influence dominant.
+2. IPCC AR6 places warming near **1.1°C** above **1850–1900**, with human influence dominant. Past-century rise ≈ **1°C / 1.8°F**.
 3. The **Keeling Curve** records atmospheric **CO₂** at **Mauna Loa** since **1958**.
 4. The **Emissions Gap Report** is an annual **UNEP** product. It is **not** published by the IPCC.
-5. Main greenhouse gases are **CO₂, CH₄, N₂O, and F-gases**. **Argon is not a greenhouse gas**.
-6. India ranks near the top in **absolute** emissions but stays **low per capita**. Do not confuse absolute rank with a “tenth” distractor.
-7. A **carbon sink** absorbs net CO₂. A **carbon budget** is the cumulative CO₂ allowed for a temperature target.
-8. A **carbon credit** equals **1 tonne of CO₂ equivalent**. Carbon trading is the market for credits or allowances.
-9. **Green Credit (2023)** and **PAT ESCert** are **not** the same thing as a Kyoto-style carbon credit.
-10. **Mitigation** cuts emissions and grows sinks. **Adaptation** adjusts society and systems to climate impacts.
-11. **Kyoto** is climate mitigation. **Montreal** is ozone protection. Do not swap the two treaties.
-12. India’s **NAPCC** launched in **2008** with **eight** missions.
-13. India’s updated NDC path includes about **45%** emission-intensity cut and about **50%** non-fossil electricity capacity share.
-14. India’s **net-zero** year fact is **2070**, announced around **COP-26**.
-15. **LiFE** was floated as an idea at **COP-26 (2021)** and launched in **June 2022**. COP-25 Madrid is the false date trap.
-16. India’s **Carbon Credit Trading Scheme (2023)** sits with **BEE** under the Power Ministry.
-17. The **IPCC** does science assessment under **WMO + UNEP** parents. It does **not** set national targets or write the Emissions Gap Report.
-18. The **greenhouse effect** is infrared trapping by greenhouse gases. Without it Earth would be far colder than about **+15°C**.
-19. The **carbon cycle** moves carbon among atmosphere, oceans, land, and fossil pools. Sequestration is the storing process.
-20. Global climate monitoring also includes WMO State of the Climate products alongside Keeling and satellite records.
-21. Sources of GHGs span fossil fuels, cement, deforestation, livestock, paddies, fertilizers, and industrial F-gases.
-22. Carbon trading grew from Kyoto-era market tools; Paris-era systems use national NDCs and domestic markets.
-23. Do not treat IPCC Assessment Reports as UNFCCC treaty text. Science reports and the climate convention are different homes.
-24. Adaptation examples include early warning, climate-resilient crops, coastal defence, and heat-action plans — not only emission cuts.
+5. Main greenhouse gases are **CO₂, CH₄, N₂O, and F-gases**. **Argon is not a greenhouse gas**. **Joseph Fourier (1820s)** framed the greenhouse-effect idea.
+6. WMO-style relative shares often tested: **CO₂ ~64% > CH₄ ~19% > CFCs+others ~11% > N₂O ~6%**. Water vapour dominates the **natural** effect.
+7. India ranks near the top in **absolute** emissions (**China #1**, India ~**3rd**) but stays **low per capita**. **Bhutan** is often carbon-negative.
+8. A **carbon sink** absorbs net CO₂. A **carbon budget** is the cumulative CO₂ allowed for a temperature target. **Blue carbon** = ocean/coastal sinks.
+9. A **carbon credit** equals **1 tonne of CO₂ equivalent**. Carbon trading is the market for credits or allowances (Kyoto origin).
+10. **Green Credit (2023)** and **PAT ESCert** are **not** the same thing as a Kyoto-style carbon credit.
+11. **Mitigation** cuts emissions and grows sinks. **Adaptation** adjusts society and systems to climate impacts.
+12. **Kyoto** is climate mitigation. **Montreal** is ozone protection. Do not swap the two treaties.
+13. India’s **NAPCC** launched in **2008** with **eight** missions (**not** nuclear power).
+14. India’s updated NDC path includes about **45%** emission-intensity cut and about **50%** non-fossil electricity capacity share.
+15. India’s **net-zero** year fact is **2070**. Net zero = balance emissions with removals, not absolute zero every emission.
+16. **LiFE** was floated as an idea at **COP-26 (2021)** and launched in **June 2022**. COP-25 Madrid is the false date trap.
+17. India’s **Carbon Credit Trading Scheme (2023)** sits with **BEE** under the Power Ministry.
+18. The **IPCC** does science assessment under **WMO + UNEP** parents. It does **not** set national targets or write the Emissions Gap Report.
+19. The **greenhouse effect** is infrared trapping by greenhouse gases. Without it Earth would be about **−18°C**.
+20. The **carbon cycle** moves carbon among atmosphere, oceans, land, and fossil pools. Sequestration is the storing process.
+21. **Milankovitch** = eccentricity, obliquity, precession — **not** solar irradiance. **Ice cores** = cryogenic climate archive.
+22. **GCF** = Cancun **2010**. **CDM/CERs** = Kyoto. **GHG Protocol** = WRI + WBCSD. **Earth Hour** = WWF.
+23. Carbon trading grew from Kyoto-era market tools; Paris-era systems use national NDCs and domestic markets.
+24. Do not treat IPCC Assessment Reports as UNFCCC treaty text. Science reports and the climate convention are different homes.
+25. Adaptation examples include early warning, climate-resilient crops, coastal defence, and heat-action plans — not only emission cuts.
+26. **Methane hydrates**, paddy+fertiliser (CH₄+N₂O), and wetland CH₄ are high-yield source traps.
+27. **Carbon fertilization** ≠ ocean acidification.
+28. **Forest Carbon Partnership Facility** and **BioCarbon Fund ISFL** are **World Bank** programmes — FCPF does **not** fund universities/individuals for research grants.
+29. **Climate Action Tracker** = Climate Analytics + New Climate Institute (not IPCC/UNEP wing).
+30. **Deep Carbon Observatory** maps deep-Earth carbon (physics, reservoirs, deep energy, deep life).
+31. **Common Carbon Metric** (UNEP-linked) measures building-operation carbon footprints.
+32. Primary recent warming drivers are fossil fuels, autos, deforestation — **not** solar flares.
 
 ---
 
@@ -149,13 +157,18 @@ Options: A. China B. USA C. India D. France
 
 ## 34.5 Sources of Greenhouse Gases
 
-**Identity:** Energy / industry / AFOLU / transport / waste
+**Identity:** Energy / industry / AFOLU / transport / waste | Methane hydrates | Rice CH₄+N₂O
 
 - **Energy and electricity** (coal, oil, gas) dominate CO₂.
 - **Industry** adds process CO₂ (cement, steel) plus F-gases.
 - **AFOLU** (agriculture, forestry, land use): **CH₄** from livestock/rice; **N₂O** from fertilisers; CO₂ from deforestation.
+- **Rice** is a major anthropogenic source of **both methane and nitrous oxide**.
+- Natural **wetlands** dominate natural methane; **methane hydrates** under Arctic tundra and seafloor can release CH₄ if warmed.
 - **Transport** and **buildings** add fossil CO₂; **waste** adds landfill methane.
-- **Argon is not a greenhouse gas.PYQ — UPPCS Prelims 2022, Q102**
+- Crop/biomass residue burning can release **CO, SO₂, CH₄, and ozone-related pollutants**.
+- **Argon is not a greenhouse gas.**
+
+**PYQ — UPPCS Prelims 2022, Q102**
 
 Which is NOT a greenhouse gas?
 
@@ -167,19 +180,22 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 </details>
 
-> ** note:** Detailed gas-by-gas chemistry also appears in Topic 37.
+> **Logic:** Detailed gas-by-gas chemistry also appears in Topic 37. Solar flares are **not** a primary recent climate driver.
 
 ---
 
 ## 34.6 Greenhouse Effect
 
-**Identity:** Natural vs enhanced | IR trapping | Habitable Earth
+**Identity:** Fourier | Natural vs enhanced | IR trapping | −18°C without it
 
+- **Joseph Fourier (1820s)** postulated the greenhouse-effect concept.
 - The **natural greenhouse effect** keeps Earth habitable (~**+15°C** average; without it ≈ **−18°C**).
+- Shortwave solar energy reaches Earth; the surface re-emits **longwave IR**, which GHGs absorb and re-radiate.
 - The **enhanced greenhouse effect** from extra anthropogenic GHGs traps more outgoing infrared radiation.
 - Main natural greenhouse gases include water vapour, CO₂, CH₄, and N₂O; CFCs/HFCs are human-made.
+- **Astronomical (Milankovitch) climate theory** uses eccentricity, obliquity, and precession — **solar irradiance is not** listed in that set. **Ice cores** are the classic cryogenic climate indicator.
 
-> ** note:** Greenhouse effect itself is not the problem — **enhanced** anthropogenic forcing is.
+> **Logic:** Greenhouse effect itself is not the problem — **enhanced** anthropogenic forcing is.
 
 ---
 
@@ -198,14 +214,18 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 ## 34.8 Carbon Cycle
 
-**Identity:** Fast vs slow cycle | Atmosphere–ocean–biosphere–lithosphere
+**Identity:** Fast vs slow cycle | Atmosphere–ocean–biosphere–lithosphere | CO₂ sources trap
 
 - The **carbon cycle** moves carbon among atmosphere, biosphere, oceans, soils, and rocks.
 - **Fast cycle:** atmosphere ↔ plants ↔ soils ↔ surface ocean (years to decades).
 - **Slow cycle:** rock weathering, sediment burial, fossil carbon (millions of years).
 - Burning fossil fuels transfers slow-cycle carbon into the fast atmospheric pool.
+- Processes that **add CO₂** to the atmosphere include **respiration**, **decay of organic matter**, **volcanic action**, and **combustion of fossil fuels**.
+- **Photosynthesis** **consumes** CO₂ and releases oxygen. It does **not** add carbon dioxide to the carbon cycle on Earth.
+- Elemental carbon occurs as crystalline allotropes such as **graphite**, **diamond**, and **fullerene**.
+- In compound form, carbon appears as CO₂, carbonates, and hydrogen carbonates.
 
-> ** note:** Fossil CO₂ is “new” to the fast cycle on human timescales.
+> ** note:** Photosynthesis removes CO₂; respiration/decay/volcanoes add it.
 
 ---
 
@@ -237,11 +257,13 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 ## 34.11 Carbon Credit
 
-**Identity:** 1 tCO₂e | Kyoto origin | ≠ Green Credit 2023
+**Identity:** 1 tCO₂e | Kyoto CDM/CERs | ≠ Green Credit 2023 | Market price
 
 - A **carbon credit** is a tradeable unit equal to **one tonne of CO₂ equivalent (1 tCO₂e)** reduced, avoided, or removed.
-- The concept originated under the **Kyoto Protocol** flexible mechanisms (especially **CDM → CERs**).
+- The concept originated under the **Kyoto Protocol** flexible mechanisms (especially **CDM → CERs**). Projects are implemented in **developing (Non-Annex I)** countries for Annex-I buyers — CDM is **not** Annex-I-only projects.
+- Credits are **traded at market prices**, not a UNEP-fixed price.
 - India’s **Green Credit Programme (2023)** rewards broader eco-actions — it is **not identical** to a 1 tCO₂e carbon credit.
+- Related tools: **GHG Protocol** (WRI + WBCSD) for accounting; **Common Carbon Metric** for building-operation footprints; **blue carbon** for coastal sinks.
 
 **PYQ — UPPCS Prelims 2021, Q125**
 
@@ -316,10 +338,11 @@ Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
 **Identity:** NAPCC 2008 | NDC 2022 | Net zero 2070 | LiFE | CCTS
 
 - **MoEFCC** is the nodal ministry for climate policy and UNFCCC engagement.
-- **NAPCC (2008)** has **eight national missions** (solar, efficiency, water, Himalaya, Green India, agriculture, habitat, strategic knowledge).
-- **Updated NDC (2022):45%** emissions-intensity cut vs 2005 by 2030; **50%** non-fossil electricity capacity; **2.5–3 GtCO₂e** forest sink.
-- **Net zero by 2070** announced at **COP-26 Glasgow (2021)**, with **500 GW** non-fossil capacity by 2030 as a related pledge.
+- **NAPCC (2008)** has **eight national missions** (solar, efficiency, water, Himalaya, Green India, agriculture, habitat, strategic knowledge). **Nuclear power is not** a listed mission.
+- **Updated NDC (2022):** **45%** emissions-intensity cut vs 2005 by 2030; **50%** non-fossil electricity capacity; **2.5–3 GtCO₂e** forest sink.
+- **Net zero by 2070** announced at **COP-26 Glasgow (2021)**, with **500 GW** non-fossil capacity by 2030 as a related pledge. Net zero means emissions are **compensated by absorption/removal**, not absolute zero every emission.
 - **LiFE Mission** launched **June 2022**; idea floated at **COP-26**, not COP-25 Madrid.
+- Finance/institutions often tested beside policy: **GCF (Cancun 2010)**, Kyoto **CDM**, **Earth Hour (WWF)**, **GHG Protocol (WRI+WBCSD)**.
 - Diplomacy vehicles: **International Solar Alliance**, **CDRI**.
 
 **PYQ — UPPCS Prelims 2025, Q139**
@@ -695,6 +718,14 @@ Options: A. Kyoto=climate mitigation; Emissions Gap=UNEP; credit=1 tCO₂e; Indi
 | Green Credit = carbon credit | **Not identical** |
 | IPCC sets emission targets | **Science only** |
 | Absolute emitter rank = 10th | ~**3rd** absolute; 2023 Q109 keyed **10th** |
+| Argon is a GHG | **Not** |
+| Fourier missing / modern invent | **Joseph Fourier (1820s)** |
+| GCF = Durban | **Cancun 2010** |
+| Earth Hour = UNEP | **WWF** |
+| Net zero = absolute zero | Balance with **removals** |
+| Nuclear = NAPCC mission | **Not** listed |
+| Milankovitch includes solar irradiance | **No** — eccentricity/obliquity/precession |
+| CDM projects only in Annex-I | Projects in **developing** countries |
 | Argon is a GHG | **Not** |
 | India net zero 2050 | **2070** |
 | LiFE idea at COP-25 | **COP-26** |

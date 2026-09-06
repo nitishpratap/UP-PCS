@@ -55,6 +55,9 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 | **Brundtland Report** | *Our Common Future* 1987 — SD definition |
 | **NGC / ECO Club** | MoEFCC school eco-action programme |
 | **LiFE** | 2022 lifestyle awareness mission |
+| **Eco-mark** | BIS 1991 — environment-friendly products |
+| **Greenwashing** | False eco-friendly marketing claims |
+| **Greendex** | Sustainable consumer-behaviour score |
 
 ---
 
@@ -67,6 +70,8 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 - **Garrett Hardin, "Tragedy of the Commons" (1968):** argued individuals overuse shared resources (pasture, fisheries, air) for private gain.
 - **Club of Rome, *The Limits to Growth* (1972):** modelled exponential growth hitting planetary resource limits — **not** the Brundtland Report.
 - **Brundtland Commission, *Our Common Future* (1987):** defined and **popularised Sustainable Development** — meeting present needs without compromising future generations.
+- **W.M. Adams, *Green Development* (first edition 1990):** environment and sustainability in the developing world.
+- **Masanobu Fukuoka** was a Japanese farmer-philosopher who pioneered **natural farming** and re-vegetation of desertified lands.
 - **Aldo Leopold, *A Sand County Almanac* (1949):** "Land Ethic" — moral duty to the biotic community.
 - **Paul Ehrlich, *The Population Bomb* (1968):** population growth vs resource limits debate.
 - **Indian voices:** Gandhi *Hind Swaraj* (1909) — restraint vs reckless industrialism; Tagore/Shantiniketan — nature-linked education; Bahuguna — "ecology is permanent economy"; CSE (Anil Agarwal, Sunita Narain) — *Down To Earth*.
@@ -102,8 +107,9 @@ Options: A. Carolyn Merchant B. Karl Marx C. Rachel Carson D. Rajgopalan
 | Tragedy of the Commons | Garrett Hardin | 1968 |
 | Limits to Growth | Club of Rome | 1972 |
 | Our Common Future | Brundtland / WCED | 1987 |
+| Green Development | W.M. Adams | 1990 |
 
-> ** note:** Carson ≠ Hardin. Brundtland ≠ Limits to Growth.
+> ** note:** Carson ≠ Hardin. Brundtland ≠ Limits to Growth. Fukuoka = natural farming.
 
 ---
 
@@ -156,6 +162,17 @@ Options: A. Sustainable Development B. Polluter Pays C. Environmental Education 
 - **LiFE Mission:** idea at **COP26 (2021)**; launched **June 2022** — 75 pro-planet lifestyle actions (awareness/nudge, not school curriculum).
 - International awareness anchors: **World Environment Day (5 June)**, **Earth Day (22 April)** — full date list in Topic 31.
 - EE = structured institutional learning; awareness = broad public campaigns and duties.
+
+### Eco-mark, greenwashing, and related awareness facts
+
+- **Eco-mark / ECOMARC** is India’s eco-labelling scheme launched in **1991** by the Government of India and administered by the **Bureau of Indian Standards (BIS)**.
+- Eco-mark identifies **environment-friendly consumer products** that cause least ecosystem impact — it is **not** Agmark or a general quality-only mark.
+- **Greenwashing** means conveying a **false or misleading impression** that a company’s products or practices are eco-friendly.
+- **Greendex** (National Geographic / GlobeScan) measures **environmentally sustainable consumer behaviour** across countries — not carbon-credit sales volume.
+- **Plachimada** (Palakkad, **Kerala**) became a landmark local struggle against groundwater contamination linked to a Coca-Cola bottling plant.
+- Australia’s **Green Army** was a youth environment-works programme; it closed on **30 June 2018**.
+- **GACSA (Global Alliance for Climate-Smart Agriculture)** has **non-binding** membership. It is **not** an outcome of the Paris 2015 Climate Summit, and India was **not** instrumental in creating it.
+- **Conservation Agriculture** principles are **minimum tillage**, **soil cover with crop residues**, and **crop rotation / sequencing**.
 
 **PYQ — UPPCS Prelims 2025, Q139**
 

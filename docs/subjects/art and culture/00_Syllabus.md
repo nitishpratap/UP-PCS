@@ -1,5 +1,5 @@
 
-# Indian Art & Culture (UPPCS Prelims)
+# Indian Art & Culture (UPPCS + UKPCS Prelims)
 
 **Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/04_Art_and_Culture.md)
 
@@ -239,3 +239,9 @@
 * Important Cultural Personalities
 
 ---
+
+---
+
+## Culture of Uttarakhand (UKPCS-only)
+
+→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)

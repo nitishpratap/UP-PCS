@@ -1,0 +1,6 @@
+title: UKPCS
+nav:
+  - Overview: index.md
+  - "UKPCS Prelims Syllabus": 00_Syllabus.md
+  - "Folder Map (where notes live)": 00_Folder_Map.md
+  - PYQs: pyqs

@@ -14,34 +14,36 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
 2. India holds roughly **4%** of world freshwater for about **18%** of world population. Per-capita availability around **1400 m³** marks water stress in many readings.
-3. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology, agriculture, and industry.
-4. The **Ministry of Jal Shakti** (**2019**) merged water resources and drinking-water departments.
-5. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu’s mandatory RWH (**2003**) is a state flagship fact. It cuts flood peaks and recharges aquifers.
-6. A **watershed** is land draining to a common outlet. Ridge-to-valley treatment uses contour bunds, check dams, and afforestation. Watersheds collect, store, and release water.
-7. River cleaning spine: **GAP 1985 → Namami Gange 2014** (NMCG under Jal Shakti). **STP** treats domestic sewage; **CETP** treats industrial effluent.
-8. Kanpur is the Ganga tannery pollution fact. **Gomti** is Lucknow’s river — do not put Gomti’s main story on Kanpur.
-9. Wetlands follow **Ramsar 1971**, Wise Use, World Wetlands Day on **2 February**, and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar (Tripura)** and **Sultanpur (Haryana)** are **not** UP.
-10. **CGWB** (Jal Shakti) prepares the Annual Groundwater Quality Report. **CPCB** does **not**. Arsenic is a Ganga-plains risk; fluoride appears in parts of UP and Rajasthan.
-11. **Atal Bhujal Yojana (2019)** is a groundwater management scheme tag.
-12. **Jal Jeevan Mission** launched in **August 2019** for rural household taps (Har Ghar Jal). Do not date JJM as **2014**.
-13. Drinking-water standard fact **IS 10500:2012**: fluoride about **≤1.5 mg/L**, arsenic about **≤0.01 mg/L**, pH about **6.5–8.5**.
-14. Rivers are **not** second after oceans in global freshwater ranking — ice/glaciers are.
-15. CGWB ≠ CPCB on the groundwater quality report.
-16. Namami Gange is **2014**; GAP is **1985**.
-17. IWRM is basin coordination; watershed is the local drainage unit used in ridge-to-valley works.
-18. Aquifer is the underground storage layer; it is not a surface canal.
-19. BOD measures organic pollution strength in water (mg/L) — a quality metric, not a volume share.
-20. Bundelkhand scarcity, Kanpur tanneries, Gomti–Lucknow, and arsenic plains are the UP colour set.
-21. IWMP/Hariyali-type watershed programmes sit in the rural water-conservation toolbox beside RWH.
-22. Wetland conservation is not identical to groundwater recharge, though both appear in water chapters.
-23. JJM is rural tap connectivity; it is not Namami Gange’s river-cleaning mission.
-24. STP vs CETP: domestic vs industrial effluent trains — swap them and consent logic breaks.
-25. National Water Policy priority order starts with **drinking water**, not industry.
-26. World Wetlands Day is **2 February** — keep it distinct from World Water Day messaging if both appear.
+3. The **water cycle** is driven primarily by **solar radiation** through evaporation from oceans, lakes, and rivers. Humidity is measured with a **hygrometer** or psychrometer.
+4. Amount of rainfall depends strongly on **humidity** in the atmosphere — more vapour means greater chance of cloud and rain when temperature falls.
+5. Many transplanted seedlings fail because most **root hairs** are lost during transplantation; root hairs absorb water and mineral nutrients.
+6. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology, agriculture, and industry.
+7. The **Ministry of Jal Shakti** (**2019**) merged water resources and drinking-water departments.
+8. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu’s mandatory RWH (**2003**) is a state flagship fact. It cuts flood peaks and recharges aquifers.
+9. A **watershed** is land draining to a common outlet. Ridge-to-valley treatment uses contour bunds, check dams, and afforestation. Watersheds collect, store, and release water.
+10. River cleaning spine: **GAP 1985 → Namami Gange 2014** (NMCG under Jal Shakti). **STP** treats domestic sewage; **CETP** treats industrial effluent.
+11. Kanpur is the Ganga tannery pollution fact. **Gomti** is Lucknow’s river — do not put Gomti’s main story on Kanpur.
+12. Wetlands follow **Ramsar 1971**, Wise Use, World Wetlands Day on **2 February**, and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar (Tripura)** and **Sultanpur (Haryana)** are **not** UP.
+13. **CGWB** (Jal Shakti) prepares the Annual Groundwater Quality Report. **CPCB** does **not**. Arsenic is a Ganga-plains risk; fluoride appears in parts of UP and Rajasthan.
+14. **Atal Bhujal Yojana (2019)** is a groundwater management scheme tag.
+15. **Jal Jeevan Mission** launched in **August 2019** for rural household taps (Har Ghar Jal). Do not date JJM as **2014**.
+16. Drinking-water standard fact **IS 10500:2012**: fluoride about **≤1.5 mg/L**, arsenic about **≤0.01 mg/L**, pH about **6.5–8.5**.
+17. Rivers are **not** second after oceans in global freshwater ranking — ice/glaciers are.
+18. CGWB ≠ CPCB on the groundwater quality report.
+19. Namami Gange is **2014**; GAP is **1985**.
+20. IWRM is basin coordination; watershed is the local drainage unit used in ridge-to-valley works.
+21. Aquifer is the underground storage layer; it is not a surface canal.
+22. BOD measures organic pollution strength in water (mg/L) — a quality metric, not a volume share.
+23. Bundelkhand scarcity, Kanpur tanneries, Gomti–Lucknow, and arsenic plains are the UP colour set.
+24. IWMP/Hariyali-type watershed programmes sit in the rural water-conservation toolbox beside RWH.
+25. Wetland conservation is not identical to groundwater recharge, though both appear in water chapters.
+26. JJM is rural tap connectivity; it is not Namami Gange’s river-cleaning mission.
+27. STP vs CETP: domestic vs industrial effluent trains — swap them and consent logic breaks.
+28. National Water Policy priority order starts with **drinking water**, not industry.
 
 ---
 
@@ -71,6 +73,12 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 - **Groundwater:** India's largest **extractable** freshwater source (~45% irrigation, ~80% rural domestic).
 - **Ganga–Brahmaputra** system carries about **40%** of India's river water.
 - Drivers of stress: population, urbanisation, inefficient irrigation, pollution reducing usable supply.
+- The **hydrological / water cycle** moves water through evaporation, condensation, precipitation, infiltration, and runoff.
+- **Solar radiation** plays the main role in driving the water cycle by evaporating water from oceans, lakes, and rivers.
+- The water cycle is essentially a **closed system** for planetary water volume on human timescales.
+- **Humidity** measures water-vapour content of air and is measured with a **hygrometer** or psychrometer.
+- Higher humidity means more vapour available for clouds, so **amount of rain** depends strongly on atmospheric humidity when cooling occurs.
+- Many transplanted seedlings fail because most **root hairs** are lost during transplantation. Root hairs absorb water and mineral nutrients from soil.
 
 **PYQ — UPPCS Prelims 2025, Q88**
 

@@ -191,7 +191,7 @@ D. CITES
 - **Green bonds:** debt where proceeds fund **eligible green projects** only — renewables, clean transport, water, adaptation.
 - **India's first Sovereign Green Bonds** issued in **FY 2022–23** (January 2023 tranches) for solar, wind, green hydrogen, EV public transport.
 - **SEBI Green Bond Framework (2023)** defines eligible categories and disclosure — aligns with ICMA Green Bond Principles.
-- **Green Climate Fund (GCF)** operates under **UNFCCC** — supports developing-country climate projects.
+- **Green Climate Fund (GCF)** operates under **UNFCCC** — established at **Cancun COP-16 (2010)** to support developing-country adaptation and mitigation. It is **not** a Durban creation and not founded under UNEP/OECD/ADB/World Bank.
 - **$100 billion/year climate finance pledge** by developed countries — committed at **COP15 Copenhagen (2009)**, reaffirmed Paris 2015.
 - **Loss and Damage Fund** operationalised at **COP28 UAE (2023)** — finances recovery from climate impacts exceeding adaptation capacity.
 - **Green finance ≠ Green Credit Programme** — finance = capital markets; Green Credit = eco-action incentive certificates.

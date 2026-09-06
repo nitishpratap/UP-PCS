@@ -14,7 +14,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 29 Must-Score Facts
 
 1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
 2. The four spheres are **lithosphere, hydrosphere, atmosphere, and biosphere**. Biosphere roughly spans from about **200 m below soil** to about **6 km** above sea level.
@@ -25,7 +25,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 7. Land is about **29%** of Earth’s surface and water about **71%**. **Lentic** means standing water; **lotic** means flowing water. Mangroves and wetlands are **transitional**.
 8. Human–environment thought moves **environmental determinism (Ratzel) → possibilism (Vidal de la Blache) → neo-determinism (Griffith Taylor)**.
 9. **IPAT** is Impact = Population × Affluence × Technology. Hardin’s **Tragedy of the Commons** dates to **1968**.
-10. Sustainable development is locked to the **Brundtland Report (1987)**. **Rio 1992** produced **Agenda 21**, **UNFCCC**, and **CBD**.
+10. Sustainable development is defined in the **Brundtland Report (1987)**. **Rio 1992** produced **Agenda 21**, **UNFCCC**, and **CBD**.
 11. India’s **LiFE** Mission launched in **2022**; the idea was floated at **COP26 in 2021**, not COP25.
 12. **Chipko** began in **1973** at **Reni, Uttarakhand**. **JFM** guidance is **1990**. **FRA** is **2006**.
 13. **Article 48A** is the State DPSP on environment. **Article 51A(g)** is the citizen’s Fundamental Duty. **Article 48** is about agriculture and cows — not environment.
@@ -41,9 +41,10 @@ Environment – Meaning | Environmental Components | Classification of Environme
 23. Classic UP river–city facts include Ganga at Varanasi and Kanpur, Yamuna at Agra, and Gomti at Lucknow.
 24. Pollution hotspots often tested for UP include **Kanpur tanneries**, NCR air (Ghaziabad/Noida), and Ganga ghats at **Varanasi**.
 25. **Ganga Action Plan** began in **1985**. **Namami Gange** launched in **2014**.
-26. Natural versus anthropogenic, terrestrial versus aquatic, and internal versus external are the three common classification axes for environment questions.
-27. Micro-, meso-, and macro-scales describe environment size from a pond edge to a region or the globe. Prelims usually default to the **natural/physical** sense of environment.
-28. Agenda 21 belongs to **Rio 1992**, not 1995. Mixing Brundtland 1987 with Agenda 21’s year is a common trap.
+26. A standard triad classifies environment as **physical**, **biological**, and **cultural**. **Operational environment** is **not** part of that triad.
+27. Natural versus anthropogenic, terrestrial versus aquatic, and internal versus external are further common classification axes.
+28. Micro-, meso-, and macro-scales describe environment size from a pond edge to a region or the globe. Competitive papers usually default to the **natural/physical** sense of environment.
+29. Agenda 21 belongs to **Rio 1992**, not 1995. Mixing Brundtland 1987 with Agenda 21’s year is a common trap.
 
 ---
 
@@ -64,6 +65,9 @@ Environment – Meaning | Environmental Components | Classification of Environme
 | **Shelford's Law** | Species survives only within min–max tolerance range | शेलफोर्ड का सहन नियम |
 | **Internal environment** | Conditions inside organism (physiology) | आंतरिक पर्यावरण |
 | **External environment** | Conditions outside organism (ecology default) | बाह्य पर्यावरण |
+| **Physical environment** | Landforms, water, climate, soils, rocks, minerals | भौतिक पर्यावरण |
+| **Biological environment** | Plants, animals, microorganisms | जैविक पर्यावरण |
+| **Cultural environment** | Man-made social, economic, and political features | सांस्कृतिक पर्यावरण |
 
 ---
 
@@ -183,16 +187,25 @@ D. Sugarcane
 
 ## 1.3 Classification of Environment
 
-**Identity:** Natural/Anthropogenic | Terrestrial/Aquatic | Internal/External | Lentic/Lotic | India = 10 biogeographic zones
+**Identity:** Physical/Biological/Cultural triad | Natural/Anthropogenic | Terrestrial/Aquatic | Internal/External | India = 10 biogeographic zones
 
 | Basis | Categories |
 |-------|------------|
+| **Standard triad** | **Physical** / **Biological** / **Cultural** (**Operational** is **not** a category) |
 | **Origin** | Natural vs **Anthropogenic** (human-modified — cities, dams, cropland) |
 | **Components** | Abiotic vs Biotic |
 | **Domain** | **Terrestrial** (~29% surface) vs **Aquatic** (~71%) |
 | **Organism level** | **Internal** (inside body — physiology) vs **External** (outside — ecology default) |
 | **Scale** | Micro / Meso / Macro |
 | **Human use** | Rural / Urban / Industrial |
+
+### Physical, biological, and cultural environment
+
+- In the standard triad, environment is classified as **physical**, **biological**, and **cultural**.
+- The **physical environment** includes landforms, water bodies, climate, soils, rocks, and minerals.
+- The **biological environment** includes plants, animals, and microorganisms.
+- The **cultural environment** includes man-made features such as economic, social, and political elements.
+- **Operational environment** is **not** part of this standard classification.
 
 - **Internal environment** means conditions inside an organism's body, such as blood chemistry and tissue fluids studied in physiology.
 - **External environment** means conditions outside the organism. Ecology usually studies the external environment.
@@ -281,13 +294,17 @@ D. Sugarcane
 **Legal basis:** Declared under the **Environment (Protection) Act, 1986**
 
 - An **ESZ** is a **buffer belt** around a National Park, Wildlife Sanctuary, or other protected area.
+- Eco-Sensitive Zones are notified under the **Environment (Protection) Act, 1986**, **not** under the Wildlife (Protection) Act, 1972.
 - The aim is to reduce shock between a strict protected core and surrounding human use.
-- Typical restricted or regulated activities include mining, heavy industry, and large commercial tourism that damages habitat.
+- The purpose is **regulation**, not a total ban on every human activity except agriculture.
+- **Permitted** activities typically include ongoing local agriculture/horticulture, rainwater harvesting, and organic farming.
+- **Regulated** activities include tree felling, hotels/resorts, commercial use of natural water, and road widening.
+- **Prohibited** activities include polluting discharges into natural water bodies and tourism such as flying over protected areas in an aircraft or hot-air balloon.
 - ESZ width is **not** a fixed all-India kilometre figure. It is notified case by case, often up to about **10 km**.
 - Do not treat 10 km as a universal law for every protected area.
 - An ESZ is an **EPA buffer tool**. It is **not** the same as declaring a National Park under the Wildlife (Protection) Act.
 
-> ** note:** ESZ = EPA 1986 buffer around protected areas. CRZ = coastal regulation under the same Act. Do not swap the two.
+> ** note:** ESZ = EPA 1986 buffer. "All human activity banned except agriculture" is **false**. CRZ = coastal regulation under the same Act.
 
 > ** note:** Lentic = lake or pond (standing water). Lotic = river or stream (flowing water). UPPCS 2023 Q112 marks **river** as lotic.
 
@@ -1404,7 +1421,7 @@ D. Ratzel
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B** — **John W. Bennett** (*The Ecological Transition*). Not Ratzel.
 
 </details>
 

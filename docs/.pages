@@ -1,6 +1,7 @@
 nav:
   - Home: index.md
   - Subject Notes: subjects
+  - UKPCS: ukpcs
   - Fact Locks: fact-locks
   - Prelims Analysis: prelims-analysis
   - Current Affairs: current-affairs

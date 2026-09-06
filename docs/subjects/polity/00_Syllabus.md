@@ -1,4 +1,4 @@
-# Indian Polity & Governance (UPPCS Prelims Knowledge Base)
+# Indian Polity & Governance (UPPCS + UKPCS Prelims Knowledge Base)
 
 **Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/07_Polity.md)
 
@@ -871,3 +871,11 @@ Maintain dedicated lists for:
 * Oaths & Affirmations
 * Borrowed Features (Country-wise)
 * UP Polity Quick Facts
+
+---
+
+## Political System of Uttarakhand (UKPCS-only)
+
+→ [Uttarakhand syllabus map](uttarakhand/00_Syllabus.md)
+
+UP Special stays in Topic 25. Do not merge UK polity into the UP chapter.
