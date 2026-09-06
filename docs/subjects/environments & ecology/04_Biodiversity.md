@@ -126,20 +126,44 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 - **17 megadiverse countries** together hold most of the world's species. **India** is one of them.
 - **Russia is not** on the standard megadiverse list of 17.
 
-| Megadiverse country (17) |
-|--------------------------|
-| Brazil, Colombia, Ecuador, Peru, Mexico, Venezuela, United States, China, India, Malaysia, Indonesia, Philippines, Australia, Madagascar, Democratic Republic of Congo, South Africa, Papua New Guinea |
-- India covers about **2.4%** of world's land but holds roughly **7–8%** of recorded global species.
+| Region | Megadiverse countries (17) |
+|--------|----------------------------|
+| **South America** | Brazil, Colombia, Ecuador, Peru, Venezuela |
+| **North / Central America** | Mexico, United States |
+| **Asia** | China, India, Malaysia, Indonesia, Philippines |
+| **Africa** | Democratic Republic of Congo, South Africa, Madagascar |
+| **Oceania** | Australia, Papua New Guinea |
+
+- India covers about **2.4%** of the world's land but holds roughly **7–8%** of recorded global species.
 - India has about **45,000** plant species and **91,000+** animal species (NCERT order of magnitude).
-- Rough India shares among megadiverse nations are often cited as mammals ~**7.6%**, birds ~**12.6%**, reptiles ~**6.2%**, amphibians ~**4.4%**.
-- High **endemism** occurs in the **Western Ghats**, **Northeast India**, **Himalaya**, and **Andaman & Nicobar Islands**.
-- The **most biodiversity-rich region among common Indian options** is the **Western Ghats**.
-- **Silent Valley (Kerala, Palakkad)** represents remnant moist evergreen rainforest of the Western Ghats. It was declared a **National Park in 1984** (inaugurated 1985); the **Silent Valley Project** is the Kerala hydel controversy. Among named Indian valleys in older stems, Silent Valley is the richest; **Valley of Flowers** lies in **Chamoli, Uttarakhand**.
+
+| Group | India's rough share of global species |
+|-------|----------------------------------------|
+| Mammals | ~**7.6%** |
+| Birds | ~**12.6%** |
+| Reptiles | ~**6.2%** |
+| Amphibians | ~**4.4%** |
+
+| Indian endemism centre | Note |
+|------------------------|------|
+| **Western Ghats** | Richest among common Indian options |
+| **Northeast India** | High endemism belt |
+| **Himalaya** | Richness from confluence of biogeographic zones |
+| **Andaman & Nicobar Islands** | Island endemism |
+
+- Among common Indian options, the **Western Ghats** is the most biodiversity-rich region.
+- **Silent Valley (Kerala, Palakkad)** is remnant moist evergreen rainforest of the Western Ghats.
+- Silent Valley was declared a **National Park in 1984** (inaugurated **1985**).
+- The **Silent Valley Project** was the Kerala hydel controversy linked to this forest.
+- Among named Indian valleys in older stems, **Silent Valley** is the richest.
+- The **Valley of Flowers** lies in **Chamoli, Uttarakhand**.
 - Himalayan species richness is best explained as a **confluence of different biogeographic zones**, not rainfall alone.
 
 > **Logic:** Western Ghats beats Gangetic Plain, Trans-Himalaya, and Central India for species richness. Silent Valley = Kerala, not Uttarakhand.
 
 **PYQ — UPPCS Prelims 2019, Q139**
+
+**Logic:** Stem tests India's richest mainland biodiversity region among standard distractors — Gangetic Plain, Trans-Himalaya, and Central India are species-poorer than the Western Ghats hotspot.
 
 The most biodiversity rich area in India is
 
@@ -151,9 +175,10 @@ C. Western Ghats
 
 D. Central India
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** The **Western Ghats** hold the highest species richness among these options. Gangetic Plain, Trans-Himalaya, and Central India are classic weaker distractors. Silent Valley (Kerala) sits inside this Western Ghats richness belt — do not confuse it with Valley of Flowers (Chamoli, Uttarakhand).
 
 </details>
 
