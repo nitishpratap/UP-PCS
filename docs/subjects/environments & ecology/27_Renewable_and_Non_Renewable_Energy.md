@@ -15,34 +15,42 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. **Renewable** sources replenish on a human timescale (sun, wind, water, biomass, geothermal). **Non-renewable** sources are finite stocks (coal, oil, gas, uranium). Notes usually treat **nuclear as non-renewable** even though it is low-carbon.
-2. In Indian usage, **conventional** energy means coal, oil, gas, **large hydro**, and nuclear. **Non-conventional** means solar, wind, biomass, biogas, tidal, geothermal, ocean, and **small hydro ≤25 MW**.
+2. In Indian usage, **conventional** energy means coal, oil, gas, **large hydro**, and nuclear. **Non-conventional** means solar, wind, biomass, biogas, tidal, geothermal, ocean, and **small hydro ≤25 MW** — treated as roughly equal to **renewable** in many stems.
 3. Non-conventional is treated as roughly equal to renewable in many prelims stems — but large hydro sits on the conventional side of that Indian classification.
-4. **Biogas** major constituents are **methane and carbon dioxide**. Butane or carbon monoxide as the major pair is wrong.
-5. **Bioethanol** (E10/E20 from sugarcane and other biomass) blends with petrol. **Biodiesel** (Jatropha, used cooking oil, transesterification) blends with diesel. Biofuel Policy **2018** is the policy-year neighbour.
-6. Solar facts include National Solar Mission **2010**, ISA at **Gurugram**, **500 GW** non-fossil by **2030**, and **PM-KUSUM**.
-7. Wind leadership often names Tamil Nadu and Gujarat. **SHP ≤25 MW**. **Tidal** is Moon-driven. **Ocean energy** is a wider set that includes wave, OTEC, and tidal.
-8. **OTEC** uses the temperature difference between warm surface water and cold deep water — not the same as tidal barrage power.
-9. Energy security: India imports a very large share of crude oil (often taught near **~85%**), while coal is mostly domestic. Strategic Petroleum Reserves sit at **Vizag, Mangalore, and Padur**.
-10. **Energy Conservation Act 2001** created **BEE**. **PAT (2012)** trades **ESCerts**. Star labels and UJALA LEDs are efficiency/conservation tools. PAT is **not** CCTS carbon credits.
-11. Coal is fossil non-renewable; biomass is renewable organic matter — do not call coal “biomass.”
-12. Tidal ≠ wave ≠ OTEC, even though all are ocean-related.
-13. Conventional includes large hydro; calling all hydro “non-conventional” is wrong under the Indian split.
-14. E20 is the higher ethanol blend ambition beyond E10 — do not freeze policy forever at E10.
-15. BEE sits under the EC Act **2001** efficiency architecture.
-16. SPR locations are Vizag, Mangalore, Padur — three coastal storage facts.
-17. Western UP sugarcane supports bioethanol; bagasse supports cogeneration; UP wind remains limited; rooftop solar is the distributed play.
-18. Grey/green hydrogen colour language belongs with renewable electricity vs gas reforming — neighbour to this classification chapter.
-19. Non-renewable petroleum is a finite stock example often used against renewable lists.
-20. Ocean energy is the umbrella; tidal is one member of that set.
-21. ISA is solar diplomacy/IGO; BEE is domestic efficiency regulation — different lanes.
-22. PAT certificates measure energy savings trading; carbon markets measure CO₂ units — related climate politics, different instruments.
-23. Small hydro cutoff **≤25 MW** is the recurring MNRE number.
-24. Nuclear’s classification is usually non-renewable/conventional, not “renewable because low carbon.”
-25. Biogas is anaerobic digestion gas; biodiesel is oil-to-ester fuel — different bioenergy products.
-26. Energy conservation (using less) and energy efficiency (more service per unit energy) are neighbours under BEE/PAT, not synonyms for renewable capacity addition alone.
+4. **Energy crisis** in bank language means the danger of exhaustion of **fossil fuels** (coal, oil, gas) — not merely “short hydro” or malnutrition.
+5. UNGA declared **2014–2024** the **Decade of Sustainable Energy for All** (supports SDG 7). Initiative is of the **United Nations**, not World Bank alone.
+6. Ultimate source of energy stored in fossil fuels is the **Sun** (ancient photosynthesis).
+7. Among coal / oil-gas / nuclear / hydro options, **hydroelectricity** is often the best answer for electricity generation under **sustainable development** (water not depleted by the generation cycle).
+8. **Uranium is not a fossil fuel** — nuclear fuel, non-renewable. Coal / petroleum / natural gas are fossils.
+9. **Biogas** major constituents are **methane and carbon dioxide**. Butane or carbon monoxide as the major pair is wrong.
+10. **Bioethanol** (maize, sugarcane, etc.) blends with petrol. **Biodiesel** (Jatropha, Pongamia, UCO) blends with diesel. Biofuels are eco-friendly and can ease crisis but are often **not cost-effective** vs fossils.
+11. Biomass gasification of shells/husk yields **producer gas** (CO, H₂, traces of CH₄ — not CO₂-only); can run IC engines.
+12. Solar facts include National Solar Mission **2010**, ISA at **Gurugram**, **500 GW** non-fossil by **2030**, and **PM-KUSUM**.
+13. Wind leadership often names Tamil Nadu and Gujarat. **SHP ≤25 MW**. **Tidal** is Moon-driven. **Ocean energy** is a wider set that includes wave, OTEC, and tidal.
+14. **OTEC** uses the temperature difference between warm surface water and cold deep water — not the same as tidal barrage power.
+15. Energy security: India imports a very large share of crude oil (often taught near **~85%**), while coal is mostly domestic. Strategic Petroleum Reserves sit at **Vizag, Mangalore, and Padur**.
+16. **Energy Conservation Act 2001** created **BEE**. **PAT (2012)** trades **ESCerts**. Star labels and UJALA LEDs are efficiency/conservation tools. PAT is **not** CCTS carbon credits.
+17. Coal is fossil non-renewable; biomass is renewable organic matter — do not call coal “biomass.” Nuclear is **not** a biomass energy source.
+18. Tidal ≠ wave ≠ OTEC, even though all are ocean-related.
+19. Conventional includes large hydro; calling all hydro “non-conventional” is wrong under the Indian split.
+20. E20 is the higher ethanol blend ambition beyond E10 — do not freeze policy forever at E10.
+21. BEE sits under the EC Act **2001** efficiency architecture.
+22. SPR locations are Vizag, Mangalore, Padur — three coastal storage facts.
+23. Western UP sugarcane supports bioethanol; bagasse supports cogeneration; UP wind remains limited; rooftop solar is the distributed play.
+24. **Hydrogen** is the least-polluting common fuel option (burns to water); called a **future fuel**. National Hydrogen Energy Board set up **3 October 2003**.
+25. Fuel cells: pure H₂ → electricity + **heat and water**; can power buildings **and** small devices; output is **DC** (not AC).
+26. Microbial fuel cells use living microbes as catalysts; useful in wastewater plants — substrates are mainly **organic**, not “only inorganic.”
+27. **Bioasphalt** is non-petroleum / renewable-based paving binder — eco-friendlier road surfacing.
+28. Green hydrogen can be used in IC engines, blended with natural gas, and in fuel-cell vehicles — all three routes appear in stems.
+29. Ocean energy is the umbrella; tidal is one member of that set.
+30. ISA is solar diplomacy/IGO; BEE is domestic efficiency regulation — different lanes.
+31. PAT certificates measure energy savings trading; carbon markets measure CO₂ units — related climate politics, different instruments.
+32. Small hydro cutoff **≤25 MW** is the recurring MNRE number.
+33. Nuclear’s classification is usually non-renewable/conventional, not “renewable because low carbon.”
+34. Energy conservation (using less) and energy efficiency (more service per unit energy) are neighbours under BEE/PAT, not synonyms for renewable capacity addition alone.
 
 ---
 
@@ -71,10 +79,14 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 - India types: solar, wind, biomass/biogas, small hydro, tidal, geothermal, waste-to-energy.
 - Advantages: lower GHG than coal/oil; cuts oil/gas import pressure; decentralised rural supply.
 - Limits: intermittency (night/no-wind); needs storage, hybrids, or backup; high upfront cost.
+- **Energy crisis** commonly means the danger of exhaustion of **fossil fuels** such as coal and petroleum.
+- UNGA declared **2014–2024** the **Decade of Sustainable Energy for All** (UN initiative supporting SDG 7).
+- Ultimate energy in fossil fuels traces to the **Sun** via ancient photosynthesis.
+- Among common options, **hydroelectricity** is often preferred for sustainable electricity generation versus coal, oil-gas, or nuclear stock depletion.
 - India target: **500 GW non-fossil capacity by 2030** (COP26) — supports net zero **2070**.
-- **Nuclear** is usually classified as **non-renewable** s (finite uranium + waste).
+- **Nuclear** is usually classified as **non-renewable** (finite uranium + waste).
 
-> ** note:** "Nuclear is renewable" = usually **FALSE** in UPPCS/UPSC.
+> **Logic:** "Nuclear is renewable" = usually **FALSE** in UPPCS/UPSC. Non-conventional ≈ renewable in many stems.
 
 ---
 
@@ -86,8 +98,9 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 - **Coal:** India's primary electricity fuel; large domestic reserves in Jharkhand, Odisha, Chhattisgarh, West Bengal — eastern belt.
 - **Petroleum:** India imports ~**85%** of crude — main energy-security vulnerability.
 - **Natural gas:** cleaner than coal; used in power, fertiliser, CNG; partly imported (LNG).
-- **Uranium/thorium:** nuclear fuel — low operational carbon, finite ore, radioactive waste.
+- **Uranium/thorium:** nuclear fuel — low operational carbon, finite ore, radioactive waste — **not a fossil fuel**.
 - Coal is **not** a biomass energy source — fossilised carbon, not living organic matter.
+- Nuclear energy is **not** a biomass energy source.
 
 **PYQ — UPPCS Prelims 2021, Q124**
 
@@ -203,7 +216,9 @@ Options: A. Coal B. Nuclear C. Gobar D. Wood
 - **National Policy on Biofuels, 2018** sets blending roadmap and feedstock categories.
 - **1st generation:** sugarcane molasses ethanol; edible-oil biodiesel — food vs fuel concern.
 - **2G:** agri-waste, residues — reduces food competition.
-- Benefits: lower net GHG than fossils; domestic feedstock; energy security.
+- Benefits: lower net GHG than fossils; domestic feedstock; energy security. Trap: biofuels are often **not cost-effective** versus fossil fuels.
+- **Maize** is a classic **ethanol** crop; **Jatropha / Pongamia / sunflower** are classic **biodiesel** crops — do not swap.
+- Biomass **gasification** (coconut/groundnut shells, rice husk) produces combustible **producer gas** (CO + H₂ + traces of CH₄) usable for heat and **internal combustion engines** — not “CO₂ only” and not “heat only.”
 - UP western sugarcane belt is a major **bioethanol** feedstock zone.
 
 | Fuel | Feedstock | Blend use |
@@ -212,7 +227,7 @@ Options: A. Coal B. Nuclear C. Gobar D. Wood
 | Biodiesel | Jatropha, Pongamia, UCO | Diesel B5/B10 |
 | Biogas/CBG | Dung, organic waste | Cooking / transport |
 
-> ** note:** Biofuels ⊃ ethanol + biodiesel + biogas — terms are not interchangeable.
+> **Logic:** Biofuels ⊃ ethanol + biodiesel + biogas — terms are not interchangeable.
 
 ---
 
@@ -257,11 +272,13 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 **Identity:** Transesterification | Jatropha/Pongamia/UCO | Diesel blend B5/B10
 
 - **Biodiesel** is fatty acid methyl ester (**FAME**) made by **transesterification** of vegetable oils + methanol + catalyst → biodiesel + glycerol.
-- Feedstocks: **Jatropha**, **Pongamia (karanj)**, used cooking oil (**RUCO** initiative).
+- Feedstocks: **Jatropha**, **Pongamia pinnata (karanj)**, used cooking oil (**RUCO** initiative).
+- **Pongamia** grows in arid / saline / alkaline soils; seeds are lipid-rich with nearly half **oleic acid** — classic dual-statement biodiesel stem with Jatropha.
 - Blended with diesel as **B5/B10**.
 - Biodiesel ≠ biogas (liquid ester vs methane gas).
+- First Indian airline biofuel ATF flight (Aug **2018**): **SpiceJet** (Dehradun–Delhi).
 
-> ** note:** Jatropha was promoted as non-edible biodiesel crop — yield challenges limited scale.
+> **Logic:** Jatropha was promoted as non-edible biodiesel crop — yield challenges limited scale.
 
 ---
 
@@ -711,6 +728,182 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A true
 
 ---
 
+## Extra Drill — Energy Classification & Biofuels (Q31–Q40)
+
+**Logic:** Classification swaps (renewable / fossil / nuclear / biomass) and biofuel feedstock pairs are the densest traps.
+
+**Q31.** Energy crisis commonly means:
+
+A. Only shortage of hydroelectricity
+
+B. Malnutrition in the human body
+
+C. Danger of exhaustion of fossil fuels like coal and petroleum
+
+D. Only shortage of thermal power plants
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** UN Decade of Sustainable Energy for All = **2014–2024** (UN initiative).
+
+</details>
+
+**Q32.** Which is **not** a fossil fuel?
+
+A. Coal
+
+B. Petroleum
+
+C. Natural gas
+
+D. Uranium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Uranium is nuclear fuel — non-renewable but not fossil.
+
+</details>
+
+**Q33.** Best electricity source among options for sustainable development:
+
+A. Coal
+
+B. Mineral oil and gas
+
+C. Hydroelectricity
+
+D. Atomic energy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Water is not depleted by generation the way fossil/nuclear stocks are.
+
+</details>
+
+**Q34.** Ultimate source of energy stored in fossil fuels:
+
+A. Earth interior only
+
+B. Sun
+
+C. Sea
+
+D. Moon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ancient photosynthesis. Geothermal heat itself is **not** “from the Sun” in MCQ sense.
+
+</details>
+
+**Q35.** Maize is primarily cultivated among energy crops for:
+
+A. Biodiesel only
+
+B. Ethanol
+
+C. Nuclear fuel
+
+D. Tidal power
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Jatropha / Pongamia / sunflower → biodiesel; maize → ethanol.
+
+</details>
+
+**Q36.** Biomass gasification — which is correct?
+
+A. Only CO₂ is produced; cannot run engines
+
+B. Shells/husk usable; producer gas has CO + H₂ (+ traces CH₄); can run IC engines
+
+C. Only hydrogen and carbon dioxide; heat only
+
+D. Nuclear waste is a biomass feedstock
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement “CO₂ only” / “heat only” pairs are false.
+
+</details>
+
+**Q37.** Which statement about biofuels is **incorrect**?
+
+A. Biofuel is eco-friendly
+
+B. Biofuel is always cost-effective versus fossils
+
+C. Biofuel can help remedy energy crisis
+
+D. Biofuel can be made from corn
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cost remains a classic limitation.
+
+</details>
+
+**Q38.** Fuel cells with pure hydrogen:
+
+A. Emit heat and water; produce DC; can power buildings and small devices
+
+B. Produce only AC; cannot power laptops
+
+C. Emit CO₂ as the main by-product
+
+D. Are identical to coal boilers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement pairs claiming AC-only or buildings-only are false.
+
+</details>
+
+**Q39.** Least polluting common fuel among options:
+
+A. Diesel
+
+B. Coal
+
+C. Hydrogen
+
+D. Kerosene
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Future fuel / National Hydrogen Energy Board **2003**; Green Hydrogen Mission **2023**.
+
+</details>
+
+**Q40.** Non-conventional energy sources are those that are:
+
+A. Only produced from heat
+
+B. Only produced from electricity
+
+C. Non-renewable electricity
+
+D. Renewable
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Non-conventional ≈ renewable in Indian prelims usage (solar, wind, etc.).
+
+</details>
+
+---
+
 ## Complete PYQ Bank (Topic 27)
 
 **Q1. UPPCS 2025, Q28** — Biogas = Methane + CO₂ → **Ans: AQ2. UPPCS 2025, Q31** — Himalayan hydro potential true; Nepal excuse false → **Ans: D (Only 1)Q3. UPPCS 2025, Q109** — ISA OSOWOG true; 38 members outdated → **Ans: A (Only 2)Q4. UPPCS 2023, Q102** — Non-conventional = renewable → **Ans: BQ5. UPPCS 2022, Q69** — Coal/nuclear NOT biomass → coal/nuclear
@@ -730,6 +923,7 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A true
 | Nuclear = renewable | Usually **non-renewable** |
 | Non-conventional = non-renewable | **= renewable** |
 | Coal = biomass | **Fossil, not biomass** |
+| Uranium = fossil fuel | **Nuclear fuel**, not fossil |
 | Biogas = butane | **CH₄ + CO₂** |
 | Tidal = OTEC/wave | **Different drivers** |
 | PAT = carbon credits | **ESCerts** |
@@ -737,6 +931,11 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A true
 | Large hydro = non-conventional | Usually **conventional** |
 | E20 already forever since 2010 | **Target ~2025–26** |
 | SPR only in Delhi | **Vizag, Mangalore, Padur** |
+| Energy crisis = only hydro shortage | **Fossil fuel exhaustion risk** |
+| Biofuels always cheap | Often **not cost-effective** |
+| Maize = biodiesel crop | **Ethanol**; Jatropha = biodiesel |
+| Fuel cell = AC output | **DC**; by-products heat + water |
+| Gasification gas = CO₂ only | **Producer gas** CO + H₂ (+ CH₄) |
 
 ---
 

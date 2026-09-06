@@ -303,6 +303,7 @@ UP department preparing SDG National Indicator Framework Progress Report:
 - In short form, it means utilising land so that its **quality remains intact**.
 - Heavy chemical fertilisers and pesticides have damaged soil health, which is why sustainable pathways emphasise nutrient management and ecological farming.
 - An environment-friendly strategy set for Indian agriculture is **mixed cropping**, **organic manures**, **nitrogen-fixing plants**, and **pest-resistant crop varieties**.
+- **Sikkim** became India’s (and often cited as the world’s) first **100% organic state** (process from **2003**; declared around **2016**) — NPOP is under Commerce/APEDA, not Rural Development.
 - Expansion of cultivable land with heavy urea/superphosphate use, monoculture, and intensive aerial pesticide spray is **not** the sustainable strategy option.
 - The **National Mission for Sustainable Agriculture (NMSA)** is a mission under the **National Action Plan on Climate Change (NAPCC)**.
 - NMSA focuses on agricultural productivity, **water-use efficiency**, nutrient management, and **livelihood diversification** through sustainable pathways.

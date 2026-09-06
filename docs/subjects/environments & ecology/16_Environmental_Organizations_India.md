@@ -42,6 +42,8 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 24. PARIVESH is MoEFCC’s online EC application system — not a CPCB monitoring portal.
 25. Match report to publisher: ISFR → **FSI**; Groundwater Quality Report → **CGWB**; NAAQS bulletins → **CPCB**; *Flora* → **BSI**; *Fauna* → **ZSI**.
 26. NEERI is **Nagpur 1958**, not New Delhi 1970 and not a pollution-standards board.
+27. **CAZRI = Jodhpur**; **IIFM = Bhopal**; operational Antarctica stations = **Maitri + Bharati**.
+28. **INCOIS = Hyderabad**; ENVIS population–environment centre = **IIPS Mumbai**.
 
 ---
 
@@ -248,6 +250,25 @@ ISFR 2023 is published by **FSI**. UP districts with >20% forest cover included 
 | NEERI | **Nagpur** | Env. engineering research (CSIR) |
 | CPCB | New Delhi | Pollution standards / monitoring |
 | NGT | New Delhi | Environmental adjudication |
+
+---
+
+## 16.9 Institutes, Stations & Match Facts
+
+**Identity:** Antarctica bases | CAZRI Jodhpur | IIFM Bhopal | FRI / IGFRI | ENVIS | INCOIS
+
+- India’s Antarctic stations: **Dakshin Gangotri (1983–84)** first base (now supply/transit); **Maitri (1989)**; **Bharati (March 2013)**. Permanent **operational** pair today = **Maitri + Bharati** (not Dakshin Gangotri as active science base).
+- **Wildlife Institute of India** — **Dehradun**. **Forest Research Institute** — **Dehradun**. **Indian Institute of Forest Management** — **Bhopal** (not Kolkata).
+- **Central Arid Zone Research Institute (CAZRI)** — **Jodhpur** (ICAR; arid-zone research).
+- **Indian Grassland and Fodder Research Institute** — **Jhansi**. **IARI** — **New Delhi**.
+- **National Institute of Nutrition** — **Hyderabad**. **National Institute of Ayurveda** — **Jaipur**. **National Institute of Naturopathy** — **Pune**.
+- **Indian Institute of Ecology and Environment** — **New Delhi** (founded **5 June 1980** teaching).
+- **ENVIS Centre on Population and Environment** — **IIPS Mumbai**.
+- **Indian National Centre for Ocean Information Services (INCOIS)** — **Hyderabad** (1999; Ministry of Earth Sciences).
+- **G.B. Pant Institute of Himalayan Environment and Development** — **Almora**. **Centre for Ecological Sciences** — **Bengaluru**.
+- **Kailash Sacred Landscape Conservation and Development Initiative (KSLCDI)** partners: **India, China, Nepal**.
+
+> **Logic:** IIFM = **Bhopal**. CAZRI = **Jodhpur**. Operational Antarctica = **Maitri + Bharati**.
 
 ---
 

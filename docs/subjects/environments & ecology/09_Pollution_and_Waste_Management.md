@@ -14,38 +14,44 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. **Pollution** is harmful addition beyond the environment’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
-2. **Point sources** are chimneys and drains. **Non-point sources** include farm runoff and roads.
-3. **Primary pollutants** are emitted directly (SO₂, PM, CO). **Secondary pollutants** form in air (O₃, PAN, acid rain).
-4. Law years: **Water Act 1974 → Air Act 1981 → EPA 1986**. Noise Rules date to **2000**.
-5. **CPCB** sets ambient air and surface-water standards. **SPCB** enforces in States. **CGWB** handles **groundwater** assessment — not CPCB.
-6. **PM2.5** is ≤2.5 μm. **PM10** is ≤10 μm. AQI **0–50** is Good; **401–500** is Severe.
-7. London smog is **SO₂ + smoke**. Los Angeles smog is **photochemical** (O₃/PAN).
-8. **NCAP (2019)** covers non-attainment cities with a **20–30%** PM reduction target. **BS-VI** fuel arrived in **2020**.
-9. **Lichens** are SO₂ bio-indicators and die in polluted air.
-10. Water facts: high **BOD** means worse organic pollution; **COD ≥ BOD**; clean DO is often **>6 mg/L**, while **<5 mg/L** stresses fish.
-11. **Eutrophication** is nutrient overload (N/P) → algal bloom → dissolved-oxygen crash.
-12. The **Annual Groundwater Quality Report** is a **CGWB** product, not CPCB or CWC.
-13. **Namami Gange** launched in **2014**. Gomti pollution is a **Lucknow** fact; Kanpur is the Ganga tannery stretch.
-14. Noise is measured in **decibels** (logarithmic). Residential limits are often **55/45** day/night; silence zones **50/40**.
-15. Radioactive facts: **Bq** = activity; **Sv** = dose; half-life is time for **50%** decay; **AERB** regulates.
-16. Thermal pollution from hot power-plant effluent lowers DO and can kill fish.
-17. About **80%** of marine pollution comes from **land**. **MARPOL 73/78** is the shipping pollution convention.
-18. Plastic facts: **PWM Rules 2016**, single-use plastic ban push **2022**, microplastics **<5 mm**. India is among the largest plastic-waste generators.
-19. Waste rules cluster in **2016**: SWM, BMW, Hazardous Waste, and Plastic Waste. **E-waste Rules** updated in **2022**.
-20. **3R** priority is **Reduce > Reuse > Recycle**. **Swachh Bharat** began in **2014**.
-21. BMW colour codes: **Yellow** incineration; **Red** disinfect and recycle; **White** sharps; **Blue** glass/metal.
-22. **EPR** makes producers responsible for end-of-life waste, especially plastics and e-waste.
-23. **Basel Convention (1989)** covers transboundary hazardous waste.
-24. Carrying-capacity logic: waste should stay within absorption capacity; extraction above regeneration is unsustainable.
-25. UP air NCAP cities include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, and Bareilly.
-26. UP issue facts: Kanpur Ganga tanneries; Ghaziabad/Noida air; **Moradabad** noise; **Taj Trapezium** at Agra; Varanasi ghat/plastic pressure.
-27. FSI publishes forest cover, not pollution standards. CWC is surface-water resources, not the groundwater quality report.
-28. EPA **1986** is the umbrella for many later rules; it does not replace Water and Air Acts.
-29. Secondary ozone at ground level is a pollutant; do not confuse it with stratospheric protective ozone.
-30. Hazardous waste follows HW Rules **2016** plus Basel controls — not SWM municipal rules alone.
+2. Human-caused pollution / human-modified environment = **anthropogenic**. Anthropogenic pollution often raises persistent **non-biodegradable** loads.
+3. **Biodegradable** pollutants (sewage, faecal matter, urine, domestic waste, rubber in some stems) break down by microbes. **Non-biodegradable** include pesticides, plastics, mercury, asbestos.
+4. **Point sources** are chimneys and drains. **Non-point sources** include farm runoff and roads.
+5. **Primary pollutants** are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary pollutants** form in air (O₃, PAN, photochemical smog, acid rain).
+6. Law years: **Water Act 1974 → Air Act 1981 → EPA 1986**. Noise Rules date to **2000**. Air Act amended **1987** to include noise.
+7. **CPCB** sets ambient air and surface-water standards. **SPCB** enforces in States. **CGWB** handles **groundwater** assessment — not CPCB.
+8. India’s AQI uses **eight** pollutants: **PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb** — **not CO₂ or CH₄** (those are climate gases). Bands: **0–50 Good** … **401–500 Severe**.
+9. London smog is **SO₂ + smoke**. Los Angeles / photochemical smog is **NOx + VOCs + sunlight → O₃ / PAN**. **PAN** is a powerful eye irritant.
+10. **CO** binds haemoglobin **~200–300×** more strongly than O₂ (carboxyhaemoglobin). Lead antiknock in petrol harms IQ/brain development.
+11. **Fly ash** from coal TPPs: usable in bricks / Portland cement replacement; contains SiO₂, Al₂O₃, CaO **plus toxic metals** — not “oxides only.”
+12. **Lichens** are SO₂ bio-indicators and die in polluted air. **Radon** is the classic major **indoor** air pollutant (lung cancer risk).
+13. **NCAP (2019)** covers non-attainment cities with a **20–30%** PM reduction target. **BS-VI** fuel arrived in **2020**. **WAYU** air-purifying units were installed in **Delhi**.
+14. **CCAC** (2012, with UNEP) focuses on **methane, black carbon, HFCs** — not a G20-only club.
+15. Water facts: high **BOD** means worse organic pollution; **COD ≥ BOD**; clean DO is often **>6 mg/L**, while **<5 mg/L** / **<4 mg/L** stresses aquatic life.
+16. **Eutrophication** is nutrient overload (N/P) → algal bloom → dissolved-oxygen crash — a **water** phenomenon, not air pollution.
+17. Disease locks: **Minamata–Hg**, **Itai-itai–Cd**, **Knock-knee / fluorosis–F**, **Black Foot–As**, blue-baby–nitrate.
+18. **Damodar** is classically called a **biological desert** from mining/industry pollution. Ganga BOD often highest **Kanpur–Allahabad** stretch.
+19. Arsenic groundwater hotspots: Ganga–Brahmaputra / Bangladesh Padma–Meghna; Indian states include WB, Bihar, UP, Jharkhand, Assam, Manipur, Chhattisgarh.
+20. About **80%** of marine pollution comes from **land**. Ocean acidification from CO₂ harms calcareous plankton and corals. **IMO** HQ = **London**.
+21. Noise is measured in **decibels**. **Green muffler** = roadside tree belts for noise (and dust). Jet take-off/landing is among the loudest common sources.
+22. Plastic: **PWM Rules 2016**, SUP ban push **2022**, microplastics **<5 mm**; **microbeads** harm marine ecosystems. Polythene = ethylene polymer, non-biodegradable.
+23. **Bioremediation** uses microbes to clean pollution; **cannot** readily/completely treat **Cd/Pb** heavy metals. **Oilzapper** (TERI) is for oily sludge/spills. Genetic engineering can create specialised strains (e.g. *Pseudomonas putida*).
+24. Waste rules cluster in **2016**: SWM, BMW, Hazardous Waste, and Plastic Waste. **E-waste Rules** updated in **2022**. **EPR** first featured strongly in plastic/e-waste rules **2011+**.
+25. **3R** priority is **Reduce > Reuse > Recycle**. **Swachh Bharat** began in **2014**. NAQI launched **17 Oct 2014**.
+26. BMW colour codes: **Yellow** incineration; **Red** disinfect and recycle; **White** sharps; **Blue** glass/metal.
+27. **Euro / BS** emission norms limit CO, HC, NOx, PM. Euro-II ultra-low sulphur diesel ≈ **≤0.05% S**. India skipped BS-V to **BS-VI (1 Apr 2020)**.
+28. Catalytic converters use **Pt / Pd / Rh** to convert CO → CO₂, NOx → N₂, HC → CO₂ + H₂O.
+29. UP air NCAP cities include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, and Bareilly.
+30. UP issue facts: Kanpur Ganga tanneries; Ghaziabad/Noida air; **Moradabad** noise; **Taj Trapezium** at Agra; Varanasi ghat/plastic pressure.
+31. FSI publishes forest cover, not pollution standards. CWC is surface-water resources, not the groundwater quality report.
+32. EPA **1986** is the umbrella for many later rules; it does not replace Water and Air Acts.
+33. Secondary ozone at ground level is a pollutant; do not confuse it with stratospheric protective ozone.
+34. Hazardous waste follows HW Rules **2016** plus Basel controls — not SWM municipal rules alone.
+35. **Asian Brown Cloud** / atmospheric brown cloud is especially noted over **South Asia** (winter aerosols, black carbon, sulphate).
+36. Bag filters trap finer particulates (**<~50 μm**); cyclone separators/collectors handle coarser (**>~50 μm**). **Cyclone divider** is not a standard control device name.
 
 ---
 
@@ -71,16 +77,18 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 - **Environmental pollution** is the harmful addition of substances or energy when the rate exceeds the environment's **absorption or assimilative capacity**.
 - Pollutants may be **physical** (heat, noise, radiation), **chemical** (metals, pesticides, gases), or **biological** (pathogens).
+- Pollution caused or strongly influenced by humans is called **anthropogenic** pollution; the human-modified environment is the **anthropogenic environment**.
+- **Biodegradable** pollutants (sewage, faecal matter, urine, domestic organic waste) can be broken down by microbes. **Non-biodegradable** pollutants (pesticides, plastics, many metals, asbestos) persist or degrade very slowly.
 - **Point sources** have identifiable outlets such as factory chimneys and sewage pipes.
 - **Non-point sources** are diffuse, such as fertilizer runoff from farms and urban stormwater.
-- **Primary pollutants** are emitted directly, including **SO₂**, **CO**, and **particulate matter**.
-- **Secondary pollutants** form in the atmosphere, including **ground-level ozone**, **PAN**, and **acid rain**.
+- **Primary pollutants** are emitted directly, including **SO₂**, **CO**, **NOx**, and **particulate matter**.
+- **Secondary pollutants** form in the atmosphere, including **ground-level ozone**, **PAN**, photochemical smog, and **acid rain**.
 - The **Water (Prevention and Control of Pollution) Act, 1974** controls water pollution.
-- The **Air (Prevention and Control of Pollution) Act, 1981** controls air pollution.
+- The **Air (Prevention and Control of Pollution) Act, 1981** controls air pollution (noise included by **1987** amendment).
 - The **Environment (Protection) Act, 1986** is the umbrella law for hazardous substances, standards, and EIA.
 - **CPCB** sets national standards. **SPCBs** enforce pollution control at the state level.
 
-> ** note:** Pollution requires exceeding tolerance — not every human addition counts.
+> **Logic:** Pollution requires exceeding tolerance — not every human addition counts. Pesticide ≠ biodegradable.
 
 **PYQ — UPPCS Prelims 2025, Q22**
 
@@ -125,18 +133,27 @@ D. Only 1
 **Identity:** PM2.5/PM10 | Smog types | AQI | NCAP | Lichens as bio-indicators
 
 - **Air pollution** is the presence of harmful gases, dust, and smoke at levels that injure health or visibility.
-- **PM2.5** particles (≤2.5 μm) penetrate deep into the lungs and bloodstream.
+- **Natural sources** include volcanoes and forest fires. **Man-made sources** include fuel combustion, vehicles, and industry.
+- **PM2.5** particles (≤2.5 μm) penetrate deep into the lungs and bloodstream; rain cleans coarser dust better than ultrafines.
 - **PM10** particles (≤10 μm) mainly affect the upper respiratory tract.
 - **SO₂** from coal combustion causes respiratory illness, acid rain, and building damage.
 - **NOx** from vehicles and power plants helps form **photochemical smog** and **ground-level ozone**.
-- **CO** binds haemoglobin and reduces oxygen delivery to the body.
+- **CO** from incomplete combustion binds haemoglobin **~200–300×** more strongly than oxygen (carboxyhaemoglobin) and can kill at high saturation.
+- **Lead** from petrol antiknock additives harms children’s brain development and adult heart/respiratory health.
 - **London/classical smog** forms from **SO₂ and smoke** in cool, humid conditions.
-- **Los Angeles/photochemical smog** forms from **NOx and VOCs** in sunlight and contains **O₃ and PAN**.
-- **AQI** runs from **0–500**. **0–50 = Good**. **401–500 = Severe**.
-- **NCAP (National Clean Air Programme, 2019)** targets **122 non-attainment cities** for **20–30% PM reduction**.
+- **Los Angeles/photochemical smog** forms when **NOx + hydrocarbons** react in sunlight to yield **O₃, formaldehyde, and PAN**; **PAN** is a strong eye irritant.
+- India’s **AQI** is based on **eight** pollutants: **PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb** — **not CO₂ or CH₄**. Bands: **0–50 Good** … **401–500 Severe**. **NAQI** launched **17 Oct 2014**.
+- **NCAP (National Clean Air Programme, 2019)** targets non-attainment cities for about **20–30% PM reduction** (2017 baseline framing).
+- **Fly ash** from coal TPPs is used in bricks and as Portland cement replacement; main oxides are SiO₂, Al₂O₃, CaO, plus toxic metals (Pb, As, Cu).
+- Control devices: **bag filters** for finer particulates (**<~50 μm**); **cyclone separator/collector** and wet scrubbers for coarser loads; **cyclone divider** is not a standard device name.
+- **Catalytic converters** (Pt–Pd–Rh) convert CO → CO₂, NOx → N₂, and unburnt HC → CO₂ + H₂O.
 - **Lichens** are sensitive **bio-indicators of air pollution**, especially **SO₂**. They **do not grow well in polluted areas**.
+- **Radon** (from radium/soil) is the classic major **indoor** air pollutant and raises lung-cancer risk in poorly ventilated homes.
+- **Asian Brown Cloud** aerosols are especially noted over **South Asia** (winter; black carbon, sulphate).
+- **WAYU** (Wind Augmentation Purifying Unit) was installed at Delhi traffic junctions. **CCAC** (2012, UNEP partners) targets short-lived climate pollutants: **methane, black carbon, HFCs** — not a G20-only club.
+- **Ringelmann scale** grades smoke density/opacity.
 
-> ** note:** UPPCS 2025 Q61 — lichens indicate pollution but **decline** in polluted air.
+> **Logic:** UPPCS 2025 Q61 — lichens indicate pollution but **decline** in polluted air. AQI ≠ greenhouse-gas index.
 
 **PYQ — UPPCS Prelims 2025, Q61**
 
@@ -170,17 +187,23 @@ D. Only 1
 **Identity:** BOD/COD/DO | Eutrophication | Namami Gange | CGWB trap
 
 - **Water pollution** alters water quality so it becomes unfit for drinking, aquatic life, or irrigation.
-- **BOD (Biochemical Oxygen Demand)** measures oxygen consumed by microbes decomposing **organic** matter. **Higher BOD = more organic pollution**.
+- **BOD (Biochemical Oxygen Demand)** measures oxygen consumed by microbes decomposing **organic** matter. **Higher BOD = more organic pollution** (and usually lower DO).
 - **COD (Chemical Oxygen Demand)** measures total oxidizable matter. **COD is always ≥ BOD**.
-- **DO (Dissolved Oxygen)** above **6 mg/L** suits healthy rivers. Below **5 mg/L** stresses fish.
-- **Eutrophication** begins when excess **nitrogen and phosphorus** cause algal blooms, bacterial decomposition, and **DO collapse**.
+- **DO (Dissolved Oxygen)** above **6 mg/L** suits healthy rivers. Below about **5 mg/L** stresses fish; teaching banks often call **<4 mg/L** highly polluted.
+- **Eutrophication** begins when excess **nitrogen and phosphorus** cause algal blooms, bacterial decomposition, and **DO collapse** — a **water** phenomenon, not air pollution.
 - **Faecal coliform** bacteria indicate sewage contamination. Safe drinking water should have **zero faecal coliform**.
+- Highest **BOD** on the Ganga is classically taught between **Kanpur and Allahabad (Prayagraj)** from heavy pollutant load.
+- **Damodar** is called a **biological desert** along the Giridih–Durgapur industrial/mining stretch.
+- **Leather industry** effluents rank among the worst chemical polluters of water and soil.
+- Disease locks: **arsenic** → Black Foot / cancers (WHO limit **0.01 mg/L**); **fluoride** → fluorosis / **knock-knee**; **mercury** → Minamata; **cadmium** → Itai-itai.
+- Arsenic groundwater hotspots: Ganga–Brahmaputra plains and Bangladesh’s Padma–Meghna; Indian states include **West Bengal** (first reported **1978**), Bihar, UP, Jharkhand, Assam, Manipur, and Chhattisgarh.
 - **Kanpur's tanneries** discharge **chromium** into the Ganga as a major UP point source.
-- The **Gomti river** flows through **Lucknow**. The **Yamuna** is heavily polluted in the Mathura–Agra–Delhi stretch.
+- The **Gomti** through **Lucknow** has been flagged among India’s most polluted stretches. The **Yamuna** is heavily polluted in the Mathura–Agra–Delhi stretch.
 - **Namami Gange (2014)** is India's flagship Ganga cleaning mission. **NMCG** is the nodal agency.
 - The **Annual Groundwater Quality Report** is prepared by **CGWB**, not CPCB.
+- Rail **bio-toilets** use **anaerobic bacterial** inoculum (DRDO–Railways), producing water and gases after chlorination — not fungal-only, and not ammonia-only end products.
 
-> ** note:** UPPCS 2025 Q70 — groundwater report = **CGWB only**.
+> **Logic:** UPPCS 2025 Q70 — groundwater report = **CGWB only**. Eutrophication ≠ air pollution.
 
 **PYQ — UPPCS Prelims 2025, Q70**
 
@@ -218,10 +241,12 @@ D. Only 1
 - **Kanpur tanneries** release **hexavalent chromium**, contaminating soil and river sediments in UP.
 - **Acid rain** from **SO₂ and NOx** acidifies soil and releases toxic aluminium.
 - **Plastic mulch and microplastics** alter soil structure and microbial activity.
-- **Phytoremediation** uses plants to absorb contaminants. **Bioremediation** uses microbes to break them down.
-- Soil pollution often **leaches into groundwater** over time.
+- **Phytoremediation** uses plants to absorb contaminants. **Bioremediation** uses microbes to detoxify soil/water by enhancing natural biodegradation.
+- Bioremediation **cannot** readily and completely treat many **heavy metals** such as **cadmium and lead**. Genetic engineering can create specialised strains (e.g. *Pseudomonas putida* for oil spills).
+- **Oilzapper** (TERI) is a bacterial consortium for oily sludge and oil-spill remediation.
+- Indiscriminate fertilisers drive soil, water, and air pollution; residues can enter the food chain. Soil pollution often **leaches into groundwater** over time.
 
-> ** note:** Soil **erosion** is physical degradation. Chemical contamination = soil **pollution**.
+> **Logic:** Soil **erosion** is physical degradation. Chemical contamination = soil **pollution**. Heavy metals ≠ easy bioremediation.
 
 ---
 
@@ -236,10 +261,13 @@ D. Only 1
 - **Silence zones** near hospitals and schools allow **50 dB (day)** and **40 dB (night)**.
 - **Industrial zones** allow **75 dB (day)** and **70 dB (night)**.
 - Prolonged exposure above **85 dB** can cause permanent **Noise-Induced Hearing Loss (NIHL)**.
+- Rough dB anchors: rustling leaves **~20 dB**, normal talk **~60 dB**, truck **~80–85 dB**, jet engine **~120 dB**, jet landing **~150 dB**, rocket **~180 dB**.
+- Noise from aircraft faster than sound is a **sonic boom** (Mach scale: Mach-1 = speed of sound).
+- **Green muffler** means rows of trees/shrubs planted to absorb noise (and dust) near roads and industry.
 - **Moradabad (UP)** ranked among the world's most noise-polluted cities in UNEP's Frontier Report 2022.
-- **Noise Pollution (Regulation and Control) Rules, 2000** operate under **EPA 1986**.
+- **Noise Pollution (Regulation and Control) Rules, 2000** operate under **EPA 1986**. Jet flights are among the most intense common noise sources.
 
-> ** note:45 dB** is residential **night**, not silence zone night (40 dB).
+> **Logic:** **45 dB** is residential **night**, not silence zone night (**40 dB**). Green muffler = noise control, not soil.
 
 ---
 
@@ -253,11 +281,14 @@ D. Only 1
 - **Half-life** is the time for **50%** of a radioactive isotope to decay.
 - **Natural sources** include cosmic rays and **radon gas** in buildings.
 - **Anthropogenic sources** include nuclear power plants, medical isotopes, and uranium mining.
+- **Chernobyl (26 April 1986, Ukraine / then USSR)** is the classic nuclear accident case for radioactive pollution teaching.
+- Radioactive pollution can cause **hereditary damage**, blood-circulation harm, and **carcinogenesis** — it is not mainly a soil-mineral imbalance story.
+- **Bhopal Gas Tragedy (2–3 December 1984)** at Union Carbide released **methyl isocyanate (MIC, CH₃NCO)** — India’s worst industrial gas disaster.
 - **Alpha particles** are dangerous if ingested. **Gamma rays** penetrate the body from outside.
 - **AERB (Atomic Energy Regulatory Board)** regulates nuclear safety in India.
 - Radioactive biomedical waste needs **shielded containers** under **BMW Rules 2016**.
 
-> ** note:** Half-life means **50% decay**, not complete safety.
+> **Logic:** Half-life means **50% decay**, not complete safety. Bhopal = MIC 1984, not CO/SO₂.
 
 ---
 
@@ -284,12 +315,16 @@ D. Only 1
 - About **80% of marine pollution originates on land** via rivers and coastal discharge.
 - **Oil spills** form slicks that block oxygen exchange and coat wildlife.
 - **Plastic waste** and **microplastics** enter marine food chains globally.
-- **Nutrient runoff** causes coastal algal blooms and **hypoxic dead zones**.
-- **MARPOL 73/78** is the international convention to prevent pollution from ships.
+- **Nutrient runoff**, estuary discharges, monsoon run-off, and coastal **upwelling** can all drive harmful **algal blooms**.
+- **Ocean acidification** is falling ocean pH from atmospheric **CO₂** uptake; it harms **calcareous phytoplankton**, **coral reefs**, and some animals with phytoplankton larvae (cloud seeding is **not** the usual acidification concern).
+- Oceans absorb about **one-third** of anthropogenic CO₂.
+- **MARPOL 73/78** is the international convention to prevent pollution from ships. The **International Maritime Organization (IMO)** HQ is in **London** (IMCO renamed IMO in **1982**).
+- **SACEP** = **South Asia Cooperative Environment Programme** (oil/chemical pollution MoU framing in papers).
 - **MARPOL Annex V** prohibits plastic discharge from vessels.
 - **Coral bleaching** in the Andaman and Nicobar Islands was linked to **Indian Ocean warming of about 2°C** (2024 PYQ pattern).
+- **Oilzapper**-type bioremediation has been used for oily sludge/spills (e.g. Mumbai port spill teaching note).
 
-> ** note:** UPPCS 2024 Q19 — bleaching from **temperature rise**, not temperature decrease.
+> **Logic:** UPPCS 2024 Q19 — bleaching from **temperature rise**, not temperature decrease. Acidification concern ≠ cloud seeding.
 
 **PYQ — UPPCS Prelims 2024, Q19**
 
@@ -316,15 +351,19 @@ D. −4°C temperature drop
 **Identity:** PWM Rules 2016 | SUP ban 2022 | Microplastics | EPR
 
 - **Plastic pollution** persists because polymers take **100–1000 years** to break down.
-- **Microplastics** are fragments **smaller than 5 mm**. They enter food chains and human bodies.
+- **Polythene** is a polymer of **ethylene (C₂H₄)** — carbon–hydrogen chains that do not biodegrade readily.
+- **Microplastics** are fragments **smaller than 5 mm**. **Microbeads** (often polyethylene in cosmetics) harm **marine ecosystems**.
 - **Plastic Waste Management Rules, 2016** regulate manufacture, recycling, and **EPR**.
 - The **SUP (single-use plastic) ban notification of July 2022** banned identified items such as plastic cutlery, straws, and certain films.
-- **EPR** makes producers and brand owners collect equivalent plastic waste they place in the market.
+- **EPR** makes producers and brand owners collect equivalent plastic waste they place in the market; EPR featured early in **Plastic/E-waste Rules 2011**.
 - **India is the 3rd largest plastic waste generator** globally after the USA and China.
+- World Environment Day **2023** theme focused on solutions to plastic pollution (**Beat Plastic Pollution**).
 - The **Ganga** carries large amounts of plastic waste from ghats and urban dumping.
 - **MARPOL Annex V** bans plastic discharge from ships into the sea.
+- **Incinerators** burn waste. **Pyrolysis / plasma gasification** are waste-to-energy thermal routes.
+- **R2 Code of Practices** promotes environmentally responsible **electronics recycling**.
 
-> ** note:PWM Rules = 2016**. **SUP ban = 2022**. Do not swap.
+> **Logic:** PWM Rules = **2016**. **SUP ban = 2022**. Microbeads = marine harm, not mainly skin cancer.
 
 ---
 
@@ -335,6 +374,7 @@ D. −4°C temperature drop
 - **Solid waste management** covers collection, segregation, treatment, and disposal of municipal and commercial waste.
 - The **3R hierarchy** is **Reduce > Reuse > Recycle > Recovery > Disposal**.
 - **Solid Waste Management Rules, 2016** make **segregation at source** mandatory into wet, dry, and domestic hazardous fractions.
+- The Rules provide **exact and elaborate criteria** for identifying landfill and waste-processing sites.
 - **Wet waste** is treated by **composting** or **biomethanation**.
 - **Dry waste** goes to **Material Recovery Facilities (MRF)** for recycling.
 - **Landfill** is the **last resort** for inert rejects only, in lined sites.
@@ -895,9 +935,184 @@ C. Nuclear accidents
 
 D. Alpine degradation
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: B**
+
+</details>
+
+### Extra Drill (Ghatnachakra Pollution chapter)
+
+**Logic:** Bank stems on types, diseases, disasters, standards, and remediation so the chapter dump is absorbed.
+
+**Q31.** Anthropogenic pollution mainly raises—
+
+A. Only always instantly biodegradable gases
+
+B. Often persistent non-biodegradable pollutant loads
+
+C. Only pure rainwater
+
+D. Only stratospheric ozone repair
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Human-driven pollution often adds slow/non-biodegradable loads.
+
+</details>
+
+**Q32.** Secondary pollutants include—
+
+A. Only stack CO emitted directly
+
+B. Ozone, PAN, and photochemical smog
+
+C. Only elemental nitrogen in air always
+
+D. Only pure argon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Formed in the atmosphere from primary reactants + sunlight/chemistry.
+
+</details>
+
+**Q33.** CO binds haemoglobin relative to oxygen—
+
+A. Weaker always
+
+B. About 200–300 times more strongly
+
+C. Never binds
+
+D. Only binds calcium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Forms carboxyhaemoglobin and cuts O₂ delivery.
+
+</details>
+
+**Q34.** Bhopal Gas Tragedy gas / year—
+
+A. SO₂ in 1974
+
+B. Methyl isocyanate (MIC), 2–3 December 1984
+
+C. Only methane in 1991
+
+D. Only CO₂ in 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Union Carbide pesticide plant, Bhopal.
+
+</details>
+
+**Q35.** Chernobyl is related to—
+
+A. Only acid rain in Manchester
+
+B. Nuclear accident (1986, Ukraine / then USSR)
+
+C. Only noise Rules 2000
+
+D. Only SUP ban 2022
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Classic radioactive pollution disaster teaching case.
+
+</details>
+
+**Q36.** Green muffler is for—
+
+A. Only soil fertility
+
+B. Noise pollution control by planting tree belts
+
+C. Only nuclear shielding
+
+D. Only coral bleaching
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Multi-row greenery absorbs sound (and dust).
+
+</details>
+
+**Q37.** Ocean acidification mainly harms—
+
+A. Only cloud seeding machines
+
+B. Calcareous phytoplankton, coral reefs, and some planktonic larvae stages
+
+C. Only Himalayan snowmelt volume always
+
+D. Only desert sand dunes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Falling ocean pH from CO₂ uptake — not the cloud-seeding option.
+
+</details>
+
+**Q38.** Microbeads concern—
+
+A. Mainly skin cancer in children as the bank key
+
+B. Harmful to marine ecosystems
+
+C. Only tiger census
+
+D. Only Ramsar birds
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tiny plastic beads enter marine food webs.
+
+</details>
+
+**Q39.** Euro-II ultra-low sulphur diesel sulphur content—
+
+A. About 20% sulphur mandatory
+
+B. ≤0.05% (or less)
+
+C. Exactly 50% always
+
+D. Zero relevance to Euro norms
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sulphur limit for Euro-II ultra-low sulphur diesel teaching.
+
+</details>
+
+**Q40.** Correct disease match—
+
+A. Minamata–Hg; Itai-itai–Cd; Knock-knee–fluoride; Black Foot–arsenic
+
+B. Minamata–fluoride; Knock-knee–ozone only
+
+C. All diseases = only noise
+
+D. All diseases = only SO₂ smell
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Standard pollution–disease pairs for prelims.
 
 </details>
 
@@ -931,6 +1146,16 @@ D. Alpine degradation
 | Thermal kills fish by heat toxicity alone | Mainly **DO reduction** |
 | E-waste rank 1st globally | **3rd** |
 | Complete decay in one half-life | **50% decay** |
+| Pesticide = biodegradable | **Not** |
+| AQI includes CO₂/CH₄ | **Eight** pollutants — no |
+| PAN = primary pollutant | **Secondary**; eye irritant |
+| Knock-knee = mercury | **Fluoride** |
+| Eutrophication = air pollution | **Water** |
+| Cyclone divider = control device | **Not** |
+| Bhopal = CO/methane | **MIC, Dec 1984** |
+| Bioremediation cleans all Cd/Pb | **Not** readily |
+| Green muffler = soil only | **Noise** tree belts |
+| Most important indoor = outdoor SO₂ | Often **radon** |
 
 ---
 
@@ -940,9 +1165,9 @@ D. Alpine degradation
 |--------|-------|
 | **Lines** | ~850 (was ~2200 old format) |
 | **Teaching blocks** | §9.1–9.14 (14 syllabus bullets) |
-| **Practice Zone** | 30 questions |
+| **Practice Zone** | 30 + Extra Drill Q31–Q40 |
 | **PYQ Bank** | 10 questions (2018–2025) |
-| **Common Traps** | 12 |
+| **Common Traps** | 22 |
 | **Inline PYQs** | 2025 Q22, Q61, Q70; 2024 Q19 |
 
 ### Syllabus coverage map

@@ -30,7 +30,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 12. **Microplastics** are plastic pieces smaller than **5 mm**. They are primary (made small) or secondary (fragmented) and are not fast biodegradable.
 13. The **SUP ban** push of **2022** targets single-use plastics that feed microplastic pathways.
 14. **Climate refugees** are mostly **internally** displaced. They are **not** a separate legal category under the **1951** Refugee Convention.
-15. **Nature-based Solutions** protect, manage, or restore ecosystems (IUCN framing). They are not geoengineering.
+15. **Nature-based Solutions** protect, manage, or restore ecosystems (IUCN framing). They are not geoengineering (cirrus thinning / sulphate aerosols are geoengineering ideas for cooling, not NbS).
 16. **LiFE** was an idea at **COP-26 (2021)** and launched in **June 2022** under MoEFCC with a long action list. **COP-25 Madrid** is the false trap.
 17. Carbon footprint ≠ ecological footprint. Units are **tCO₂e** versus **gha**.
 18. Green economy ≠ circular economy as identical synonyms. Circular is the material-loop design inside a wider green agenda.
@@ -289,9 +289,10 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 - **MISHTI mangrove restoration** is a flagship Indian NbS example (Budget **2023–24**).
 - Related India tracks: Green India Mission, Amrit Dharohar wetlands, Namami Gange riparian works.
 - NbS ≠ **geoengineering**; planting trees is ecosystem management, not solar-radiation engineering.
+- Geoengineering teaching contrast: **cirrus cloud thinning** and **stratospheric sulphate aerosol injection** are proposed to cool the planet / offset warming — they are **not** NbS and are not for cyclone control or solar-wind shielding.
 - NbS may generate carbon credits but the concept is broader than offset markets alone.
 
-> ** note:** NbS = ecosystems for people + planet. Permanence risk (fire, clearing) still matters for carbon claims.
+> **Logic:** NbS = ecosystems for people + planet. Permanence risk (fire, clearing) still matters for carbon claims.
 
 ---
 

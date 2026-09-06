@@ -40,6 +40,9 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 22. A correct Ozone–WED pair is **16 September** and **5 June**. A Wildlife–**22 March** pair is always wrong.
 23. Stockholm **1972** anchors WED. Ramsar **1971** anchors Wetlands. Montreal **1987** anchors Ozone. CITES **1973** anchors Wildlife.
 24. Same-number traps: **22** March is Water, **22** April is Earth, **22** May is Biodiversity — three different months.
+25. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat Day** = first Monday of October (not a fixed 5 October).
+26. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
+27. Earth Day theme teaching: **2024 = Planet vs. Plastics**. WED **2023 = Beat Plastic Pollution**.
 
 ---
 
@@ -162,11 +165,12 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 **Identity:** 22 March | UN 1993 | Freshwater focus
 
 - **World Water Day** focuses on freshwater resources, access, and sustainable water management every **22 March**.
-- Designated by the **United Nations** (observed from **1993**); coordinated under **UN-Water**.
+- Designated by the **United Nations** (observed from **1993**); coordinated under **UN-Water** (programme continuity from **2003**).
+- Theme **2024**: *Leveraging Water for Peace* (also phrased as prosperity and peace in some bank notes).
 - Most dangerous trap: confuse with **World Wildlife Day (3 March)** — **2025 Q62** used this exact false pair.
 - Also ≠ Wetlands Day (**2 February**) and ≠ Earth Day (**22 April**).
 
-> ** note:** Water = **22 March**. Wildlife = **3 March**. Never swap.
+> **Logic:** Water = **22 March**. Wildlife = **3 March**. Never swap.
 
 ---
 
@@ -218,6 +222,21 @@ Options: A. 25 December B. 21 April C. 16 September D. 30 January
 - **Highest-yield trap:** listing Wildlife Day as **22 March** (that is Water Day) — wrong pair in **UPPCS 2025 Q62**.
 
 > **Logic:** Wildlife = **3 March only**. Water = **22 March**. Wildlife Week in India = **2–8 October**. **International Tiger Day = 29 July** (St Petersburg Summit **2010**).
+
+---
+
+## 31.10 Other High-Yield Days
+
+**Identity:** Toilet | No Tobacco | Habitat | Cities | Population | Health | Overshoot
+
+- **World Toilet Day = 19 November** (UNGA 2013; sanitation for all / end open defecation messaging).
+- **World No Tobacco Day = 31 May** (WHO) — not 5 May. Themes rotate (e.g. tobacco–environment / grow food not tobacco).
+- **World Habitat Day** = **first Monday of October** (UN; not a fixed calendar date like 5 October).
+- **World Cities Day = 31 October**. **World Population Day = 11 July**. **World Health Day = 7 April**.
+- **Earth Overshoot Day** marks when humanity’s annual demand exceeds Earth’s regenerative capacity — an environmental-degradation awareness marker (Global Footprint Network partnership framing).
+- **Swachh Bharat Mission** launched **2 October 2014**. Sierra Leone’s national cleanliness day is the last Saturday of each month.
+
+> **Logic:** Anti-tobacco ≠ 5 May. Habitat Day ≠ fixed 5 Oct.
 
 ---
 

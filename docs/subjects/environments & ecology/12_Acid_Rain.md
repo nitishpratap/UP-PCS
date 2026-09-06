@@ -186,8 +186,11 @@ D. Only 1
 - **Metal structures** rust faster under acid deposition.
 - **SO₂ and NOx** cause **respiratory illness** — asthma, bronchitis, and lung irritation from acid aerosols and PM₂.₅.
 - **Lichens** are **bio-indicators of clean air**. They **die in high SO₂** and do **not** thrive in polluted areas.
+- Transboundary teaching: **Norway** (and Canada/Scandinavia) are classic heavily affected countries; acidified lakes are sometimes called **“lake killers.”**
+- The **Acid Rain Information Centre (ARIC)** is associated with **Manchester, England**.
+- The **1985 Helsinki Protocol** targeted about a **30%** cut in sulphur emissions / transboundary fluxes.
 
-> ** note:** UPPCS 2025 Q61 — lichens as pollution indicators = true; grow well in polluted areas = **false**.
+> **Logic:** UPPCS 2025 Q61 — lichens as pollution indicators = true; grow well in polluted areas = **false**.
 
 **PYQ — UPPCS Prelims 2025, Q61**
 
@@ -748,6 +751,7 @@ D. Ramsar sites only
 |------|----------------|
 | Normal rain pH = 7 | **~5.6** from CO₂ |
 | CO₂ = main acid rain cause | **Weak acid only**; SO₂/NOx = strong acids |
+| Coal acid rain explained by CO₂ alone | A true (coal → acid rain via **SO₂**); R true (CO₂ emitted) but R **does not explain** A |
 | Acid rain = rain only | **Wet + dry deposition** |
 | Acidic pH > 7 | **Acidic < 7** |
 | Montreal = acid rain | **Gothenburg / CLRTAP** |

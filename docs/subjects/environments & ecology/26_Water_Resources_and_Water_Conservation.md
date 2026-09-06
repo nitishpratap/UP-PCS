@@ -14,36 +14,46 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 38 Must-Score Facts
 
 1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
 2. India holds roughly **4%** of world freshwater for about **18%** of world population. Per-capita availability around **1400 m³** marks water stress in many readings.
 3. The **water cycle** is driven primarily by **solar radiation** through evaporation from oceans, lakes, and rivers. Humidity is measured with a **hygrometer** or psychrometer.
 4. Amount of rainfall depends strongly on **humidity** in the atmosphere — more vapour means greater chance of cloud and rain when temperature falls.
 5. Many transplanted seedlings fail because most **root hairs** are lost during transplantation; root hairs absorb water and mineral nutrients.
-6. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology, agriculture, and industry.
-7. The **Ministry of Jal Shakti** (**2019**) merged water resources and drinking-water departments.
-8. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu’s mandatory RWH (**2003**) is a state flagship fact. It cuts flood peaks and recharges aquifers.
-9. A **watershed** is land draining to a common outlet. Ridge-to-valley treatment uses contour bunds, check dams, and afforestation. Watersheds collect, store, and release water.
-10. River cleaning spine: **GAP 1985 → Namami Gange 2014** (NMCG under Jal Shakti). **STP** treats domestic sewage; **CETP** treats industrial effluent.
-11. Kanpur is the Ganga tannery pollution fact. **Gomti** is Lucknow’s river — do not put Gomti’s main story on Kanpur.
-12. Wetlands follow **Ramsar 1971**, Wise Use, World Wetlands Day on **2 February**, and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar (Tripura)** and **Sultanpur (Haryana)** are **not** UP.
-13. **CGWB** (Jal Shakti) prepares the Annual Groundwater Quality Report. **CPCB** does **not**. Arsenic is a Ganga-plains risk; fluoride appears in parts of UP and Rajasthan.
-14. **Atal Bhujal Yojana (2019)** is a groundwater management scheme tag.
-15. **Jal Jeevan Mission** launched in **August 2019** for rural household taps (Har Ghar Jal). Do not date JJM as **2014**.
-16. Drinking-water standard fact **IS 10500:2012**: fluoride about **≤1.5 mg/L**, arsenic about **≤0.01 mg/L**, pH about **6.5–8.5**.
-17. Rivers are **not** second after oceans in global freshwater ranking — ice/glaciers are.
-18. CGWB ≠ CPCB on the groundwater quality report.
-19. Namami Gange is **2014**; GAP is **1985**.
-20. IWRM is basin coordination; watershed is the local drainage unit used in ridge-to-valley works.
-21. Aquifer is the underground storage layer; it is not a surface canal.
-22. BOD measures organic pollution strength in water (mg/L) — a quality metric, not a volume share.
-23. Bundelkhand scarcity, Kanpur tanneries, Gomti–Lucknow, and arsenic plains are the UP colour set.
-24. IWMP/Hariyali-type watershed programmes sit in the rural water-conservation toolbox beside RWH.
-25. Wetland conservation is not identical to groundwater recharge, though both appear in water chapters.
-26. JJM is rural tap connectivity; it is not Namami Gange’s river-cleaning mission.
-27. STP vs CETP: domestic vs industrial effluent trains — swap them and consent logic breaks.
-28. National Water Policy priority order starts with **drinking water**, not industry.
+6. **Freshwater is not a biotic resource.** Biotic resources come from living/organic material (forests, animals, fish); **coal and petroleum** are classed biotic because they form from decayed organic matter.
+7. **World Water Day = 22 March** (UN observance from **1993**; UN-Water since **2003**). Theme **2024** = *Leveraging Water for Peace* (also taught as prosperity and peace).
+8. **Rajendra Singh** (“Jal Purush” / Waterman of India; **Tarun Bharat Sangh**, Alwar) won **Ramon Magsaysay 2001** and **Stockholm Water Prize 2015**.
+9. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology, agriculture, and industry.
+10. **National Water Mission** (NAPCC, from **30 June 2008**) aims at conservation, less wastage, equitable distribution via IWRM. Five goals include public water database + climate impact assessment, citizen/state conservation action, focus on over-exploited areas, **+20% water-use efficiency**, and basin-level IWRM. Urban wastewater recycling and ocean-water tech for coastal cities fit NWM; **Himalayan–peninsular river linking and free borewell reimbursement do not**.
+11. The **Ministry of Jal Shakti** (**2019**) merged water resources and drinking-water departments.
+12. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu’s mandatory RWH (**2003**) is a state flagship fact.
+13. A **watershed** is land draining to a common outlet. **Hariyali** is the GOI watershed project for rural water conservation (≠ Pani Sansad / Jal Kranti as the 2022 key).
+14. Desert plants conserve water via hard/waxy leaves, tiny/absent leaves, and thorns instead of leaves.
+15. River cleaning spine: **Central Ganga Authority / GAP 1985 → NRCA 1995 → NGRBA 20 Feb 2009 (EPA; PM chair) → Namami Gange 2014** (NMCG). **STP** = domestic; **CETP** = industrial.
+16. **Yamuna Action Plan** launched **1993** (YAP-I to ~2003; YAP-II Dec 2004; **YAP-III 7 May 2016** under Namami Gange).
+17. **Ganges River Dolphin** (*Platanista gangetica*) = **National Aquatic Animal (2009)**; dams, nets, agrochemicals threaten it — crocodile increase is **not** a standard decline cause in UPSC framing.
+18. Kanpur is the Ganga tannery pollution fact. **Gomti** is Lucknow’s river — do not put Gomti’s main story on Kanpur.
+19. **NLCP (June 2001)** restored urban/semi-urban lakes; merged with NWCP into **NPCA (Feb 2013)**. NLCP lakes include Bhoj, Sukhna, Pichola, Bhimtal — **Chilika is not NLCP**.
+20. Wetlands follow **Ramsar 1971**, Wise Use, World Wetlands Day on **2 February**, and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar** and **Sultanpur** are **not** UP.
+21. **CGWB** prepares the Annual Groundwater Quality Report. **CGWA** (groundwater regulation) is under **EPA 1986**. India has the **largest groundwater-irrigated area** in the world. Arsenic drinking-water teaching often points to **Kolkata**.
+22. Disinfection: **chlorine**, chloramine, chlorine dioxide, ozone; **UV** kills microbes without changing taste/odour — UV does **not** remove odour or settle turbidity.
+23. Water Act **1974** (amended **1988**); Water Cess Act **1977** (enforced **1 Apr 1978**).
+24. **Atal Bhujal Yojana (2019)** is a groundwater management scheme tag.
+25. **Jal Jeevan Mission** launched in **August 2019** for rural household taps (Har Ghar Jal). Do not date JJM as **2014**.
+26. Drinking-water standard fact **IS 10500:2012**: fluoride about **≤1.5 mg/L**, arsenic about **≤0.01 mg/L**, pH about **6.5–8.5**.
+27. Heavy sand mining lowers water table and can pollute groundwater — it does **not** decrease river salinity as a standard consequence.
+28. **Lisbon Declaration** (UN Ocean Conference) is about **oceans**, not freshwater glaciers.
+29. Rivers are **not** second after oceans in global freshwater ranking — ice/glaciers are.
+30. CGWB ≠ CPCB on the groundwater quality report; CGWA ≠ CGWB.
+31. Namami Gange is **2014**; GAP is **1985**. NGRBA chair is the **Prime Minister**, not rotating CMs.
+32. IWRM is basin coordination; watershed is the local drainage unit used in ridge-to-valley works.
+33. Aquifer is the underground storage layer; it is not a surface canal.
+34. BOD measures organic pollution strength in water (mg/L) — a quality metric, not a volume share.
+35. Bundelkhand scarcity, Kanpur tanneries, Gomti–Lucknow, and arsenic plains are the UP colour set.
+36. JJM is rural tap connectivity; it is not Namami Gange’s river-cleaning mission.
+37. STP vs CETP: domestic vs industrial effluent trains — swap them and consent logic breaks.
+38. National Water Policy priority order starts with **drinking water**, not industry.
 
 ---
 
@@ -79,6 +89,11 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 - **Humidity** measures water-vapour content of air and is measured with a **hygrometer** or psychrometer.
 - Higher humidity means more vapour available for clouds, so **amount of rain** depends strongly on atmospheric humidity when cooling occurs.
 - Many transplanted seedlings fail because most **root hairs** are lost during transplantation. Root hairs absorb water and mineral nutrients from soil.
+- **Biotic resources** come from living or organic material (forests, animals, fish) and from materials obtained from them. **Coal and petroleum** are counted as biotic because they form from decayed organic matter.
+- **Freshwater / pure water is not a biotic resource** — it is an abiotic natural resource, and usable drinking freshwater is scarce, so conservation techniques matter.
+- **World Water Day (22 March)** highlights freshwater and sustainable management (UN designation; first observed **1993**; **UN-Water** coordination from **2003**). Theme **2024**: *Leveraging Water for Peace*.
+- **Rajendra Singh** of Alwar (Rajasthan), called **Jal Purush / Waterman of India**, runs **Tarun Bharat Sangh** for community water harvesting; awards include **Ramon Magsaysay (2001)** and **Stockholm Water Prize (2015)**.
+- The **Lisbon Declaration** (*Our Ocean, Our Future, Our Responsibility*) from the UN Ocean Conference is about **ocean** conservation and marine pollution — not freshwater glaciers.
 
 **PYQ — UPPCS Prelims 2025, Q88**
 
@@ -86,13 +101,14 @@ Arrange descending: (1) Oceans (2) Rivers (3) Polar ice and glaciers (4) Groundw
 
 Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A** — Oceans > Ice > Groundwater > Rivers.
 
 </details>
 
-> ** note:** Rivers are the **smallest** fraction — not second after oceans.
+> **Logic:** Rivers are the **smallest** fraction — not second after oceans. Freshwater ≠ biotic.
 
 ---
 
@@ -107,6 +123,9 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 - **Conjunctive use:** coordinated surface water + groundwater management.
 - **Ministry of Jal Shakti (May 2019)** merged Water Resources with Drinking Water & Sanitation — institutional home for IWRM.
 - IWRM ≠ only building dams — includes demand management, quality, ecology, and stakeholder participation.
+- **National Water Mission (NWM)** is one of eight **NAPCC** missions (plan launched **30 June 2008**). Goal: conserve water, cut wastage, and ensure more equitable distribution across and within states through integrated water resource development and management.
+- NWM’s five goals: (1) comprehensive water database in the public domain and assessment of climate-change impacts on water; (2) citizen and state action for conservation, augmentation, and preservation; (3) focused attention to vulnerable / over-exploited areas; (4) increasing water-use efficiency by **20%**; (5) promotion of basin-level IWRM.
+- Proper NWM implementation supports urban **wastewater recycling** and, for water-scarce coastal cities, technologies that allow use of **ocean water**. It does **not** include linking all Himalayan rivers to peninsular rivers or fully reimbursing farmers’ borewell costs.
 
 | Traditional | IWRM |
 |-------------|------|
@@ -114,7 +133,7 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 | Supply focus | Supply + demand + quality |
 | Environment ignored | Ecological flows included |
 
-> ** note:** "IWRM means maximum irrigation extraction" = **FALSE**.
+> **Logic:** "IWRM means maximum irrigation extraction" = **FALSE**. River linking ≠ NWM package.
 
 ---
 
@@ -153,6 +172,8 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 - **Hariyali** — Government of India watershed project enabling rural water conservation (2022 PYQ).
 - Classic success models: **Sukhomajri (Haryana)**, **Ralegan Siddhi (Maharashtra)**.
 - Outcomes: less erosion, higher water table, drought resilience, lower flood peaks.
+- Desert plants reduce water loss through **hard and waxy leaves**, **tiny or absent leaves**, and **thorns instead of leaves** — all three modifications inhibit water loss.
+- Heavy **sand mining** in riverbeds can pollute groundwater and lower the water table (sand acts as a sponge/filter). It does **not** typically decrease river salinity as a listed consequence.
 
 **PYQ — UPPCS Prelims 2023, Q110**
 
@@ -160,7 +181,8 @@ A geographical unit that collects, stores and releases water is called—
 
 Options: A. Watershed B. Wasteland C. Wetland D. Water Reserve
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A** — Watershed / drainage basin.
 
@@ -172,33 +194,44 @@ Watershed Development Project enabling rural population to conserve water:
 
 Options: A. Jal Kranti B. Pani Sansad C. Hariyali D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: C** — **Hariyali**.
 
 </details>
 
-> ** note:** Watershed management **reduces** soil erosion — does not increase it.
+> **Logic:** Watershed management **reduces** soil erosion — does not increase it.
 
 ---
 
 ## 26.5 River Conservation
 
-**Identity:** GAP 1985 → Namami Gange 2014 | NMCG | STP/CETP | Kanpur vs Gomti traps
+**Identity:** GAP 1985 → NGRBA 2009 → Namami Gange 2014 | YAP | Dolphin | STP/CETP
 
 - River degradation drivers: untreated sewage, industrial effluent, sand mining, floodplain encroachment, flow alteration by dams.
-- **Ganga Action Plan (GAP), 1985:** first major river cleaning programme — STP focus in Class-I towns.
-- **Namami Gange, 2014:** integrated Ganga rejuvenation — STPs/CETPs, surface cleaning, biodiversity, afforestation.
+- **Ganga** was declared a **National River** on **4 November 2008**.
+- **Central Ganga Authority (Feb 1985)** under Rajiv Gandhi launched the **Ganga Action Plan**; renamed **National River Conservation Authority (NRCA)** in **September 1995** (PM as chair).
+- **GAP Phase I = 1985**. Phase II (**1993**) brought in **Yamuna Action Plan** and **Gomti Action Plan**.
+- **Yamuna Action Plan:** formally launched **1993** (YAP-I ~1993–2003; YAP-II Dec **2004**; **YAP-III from 7 May 2016** under Namami Gange). *Maili Se Nirmal Yamuna* revitalisation framing from **2017**.
+- **NGRBA (National Ganga River Basin Authority)** constituted **20 February 2009** under **EPA 1986**. The **Prime Minister** chairs it; CMs of Ganga states are members — chair is **not** rotational among CMs. It plans, finances, monitors, and coordinates basin-scale Ganga conservation.
+- **Namami Gange, 2014** (Budget outlay teaching): integrated Ganga rejuvenation — STPs/CETPs, river-front/ghat works, surface cleaning, biodiversity, afforestation, industrial effluent monitoring, Ganga Gram. Pillars include **Nirmal Dhara** and **Aviral Dhara**.
 - **NMCG (National Mission for Clean Ganga)** under **Jal Shakti** implements Namami Gange.
+- **NRCP** works: intercept/divert raw sewage, STPs, low-cost sanitation on banks, electric/improved wood crematoria, public awareness.
 - **STP** treats domestic sewage; **CETP** treats combined industrial effluent (e.g. Kanpur tanneries — chromium).
 - Clean stretch targets: BOD **<3 mg/L**, DO **>6 mg/L**.
-- **UP facts:Kanpur** = Ganga tannery stretch; **Gomti** = Lucknow municipal sewage; **Varanasi** = sewage + ghat waste.
-- **NRCP** extends cleaning beyond Ganga to other polluted rivers (Yamuna, Gomti stretches).
+- **UP facts:** **Kanpur** = Ganga tannery stretch; **Gomti** = Lucknow municipal sewage; **Varanasi** = sewage + ghat waste.
+- **Ganges River Dolphin** (*Platanista gangetica*) is one of four obligate freshwater dolphins; declared India’s **National Aquatic Animal in 2009**. Decline drivers include dams/barrages, accidental fishing-net capture, and agrochemicals — **not** mainly rising crocodile numbers.
+- Jharkhand State Ganga River Conservation Authority was formed in **2009** (CM as ex-officio chair).
 
 | Programme | Year | Fact |
 |-----------|------|------|
-| GAP | **1985** | First Ganga STPs |
+| Central Ganga Authority / GAP | **1985** | First Ganga STPs |
+| NRCA rename | **1995** | Broader river mandate |
+| YAP launch | **1993** | Yamuna bilateral Japan–India track |
+| NGRBA | **2009** | PM-chaired basin authority |
 | Namami Gange | **2014** | NMCG nodal |
+| YAP-III | **2016** | Under Namami Gange |
 | NRCP | 1995 | Other rivers |
 
 **PYQ — UPPCS Prelims 2022**
@@ -207,27 +240,31 @@ Main purpose of Ganga Action Plan (1985):
 
 Options: A. Make water pollution-free B. Irrigation only C. Build new dams D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A** — Pollution abatement / make water pollution-free.
 
 </details>
 
-> ** note:** Namami Gange = **2014**, not 1985. Gomti ≠ Kanpur.
+> **Logic:** Namami Gange = **2014**, not 1985. NGRBA chair = **PM**, not rotating CM. Gomti ≠ Kanpur.
 
 ---
 
 ## 26.6 Wetland Conservation
 
-**Identity:** Ramsar 1971 | Wise Use | Wetland Rules 2017 | UP Ramsar geography
+**Identity:** Ramsar 1971 | NLCP 2001 → NPCA 2013 | Wetland Rules 2017 | UP Ramsar geography
 
 - Wetlands provide flood absorption, groundwater recharge, purification, fisheries, and bird habitat.
 - **Ramsar Convention (1971):** wetland conservation and **wise use** — World Wetlands Day = **2 February**.
 - India joined Ramsar **1982**; Wetland Rules **2017** (MoEFCC) regulate notified wetlands.
+- **National Lake Conservation Plan (NLCP)** launched **June 2001** to restore degraded urban and semi-urban lakes via an integrated ecosystem approach (pollution control from wastewater inflows).
+- In **February 2013**, CCEA approved merger of NLCP and the **National Wetlands Conservation Programme** into the **National Plan for Conservation of Aquatic Ecosystems (NPCA)**.
+- Classic NLCP teaching lakes: **Bhoj (MP)**, **Sukhna (Chandigarh)**, **Pichola (Udaipur)**, **Bhimtal / Nainital set (Uttarakhand)**, Powai, Pushkar, Ooty, Ramgarh Tal (Gorakhpur), Mansi Ganga (Mathura), Lakshmi Tal (Jhansi). **Chilika (Odisha) is not under NLCP**.
 - **UP Ramsar sites** include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga, Bakhira, Haiderpur.
-- **NOT in UP:Rudrasagar Lake (Tripura)** and **Sultanpur NP (Haryana)** — 2025 Q58 trap.
+- **NOT in UP: Rudrasagar Lake (Tripura)** and **Sultanpur NP (Haryana)** — 2025 Q58 trap.
 
-> ** note:** Full wetland ecology depth sits in Topic 21 — here fact **conservation schemes + UP geography**.
+> **Logic:** Full wetland ecology depth sits in Topic 21 — here fact **conservation schemes + UP geography**. Chilika ≠ NLCP.
 
 ---
 
@@ -238,10 +275,13 @@ Options: A. Make water pollution-free B. Irrigation only C. Build new dams D. No
 - Groundwater is India's main **extractable** freshwater stock — aquifers recharged by monsoon infiltration.
 - **CGWB (Central Ground Water Board)** under Jal Shakti assesses quantity and quality.
 - **Annual Groundwater Quality Report** is prepared by **CGWB** — not CPCB or CWC.
+- **CGWA (Central Ground Water Authority)** was formed under the **Environment (Protection) Act, 1986** to regulate and control groundwater development — **CGWA ≠ CGWB**.
+- India has the **largest area under groundwater irrigation** in the world (followed by China and the USA).
 - **Over-extraction hotspots:** Punjab–Haryana–western UP Green Revolution belt — falling water tables.
-- **Contamination:arsenic** in Ganga–Brahmaputra alluvium; **fluoride** in parts of Rajasthan and UP.
+- **Contamination:** **arsenic** in Ganga–Brahmaputra alluvium (urban drinking-water teaching often cites **Kolkata**); **fluoride** in parts of Rajasthan and UP.
 - **Atal Bhujal Yojana (2019):** community-led groundwater management in water-stressed blocks (7 states).
 - Conservation tools: recharge structures, crop diversification, regulated tubewell electricity, conjunctive use.
+- Legal stack reminder: **Water (Prevention and Control of Pollution) Act, 1974** (amended **1988**); **Water Cess Act, 1977** (enforced **1 April 1978**).
 
 **PYQ — UPPCS Prelims 2025, Q70**
 
@@ -249,7 +289,8 @@ Annual Groundwater Quality Report 2024 prepared by: (1) CPCB (2) CWC (3) CGWB
 
 Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: B** — **CGWB only**.
 
@@ -257,22 +298,25 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 | Body | Role |
 |------|------|
-| CGWB | Groundwater quantity/quality |
+| CGWB | Groundwater quantity/quality assessment |
+| CGWA | Groundwater regulation (EPA 1986) |
 | CPCB | Surface water & air pollution |
 | CWC | Surface water/irrigation data |
 
-> ** note:** CGWB ≠ CPCB — classic 2025 trap.
+> **Logic:** CGWB ≠ CPCB; CGWA ≠ CGWB.
 
 ---
 
 ## 26.8 Drinking Water Quality
 
-**Identity:** Jal Jeevan Mission 2019 | Har Ghar Jal | IS 10500:2012 | SDG 6
+**Identity:** Jal Jeevan Mission 2019 | Disinfection | IS 10500:2012 | SDG 6
 
 - **Jal Jeevan Mission (JJM):** announced **August 2019** / Union Budget **FY 2019–20** — functional household tap connection (**Har Ghar Jal**) in rural India.
 - Nodal: Ministry of Jal Shakti; aligns with **SDG 6** (Clean Water and Sanitation).
 - **IS 10500:2012 (BIS)** drinking water standard: pH **6.5–8.5**; fluoride **≤1.5 mg/L**; arsenic **≤0.01 mg/L**; faecal coliform ideally **zero**.
-- Quality risks: microbial contamination from sewage; fluoride/arsenic geogenic contamination; industrial toxins near polluted stretches.
+- Disinfection / purification tools: **chlorine** gas and bleaching powder (classic primary bactericidal step); also **chloramine (NH₂Cl)**, **chlorine dioxide (ClO₂)**, **ozone**, iodine compounds, heat, and **ultraviolet radiation**.
+- **UV purification** inactivates/kills harmful microorganisms without adding chemicals and without changing taste, smell, or colour. UV does **not** remove all undesirable odours or quicken sedimentation/turbidity clearance — those claims are false in UPSC framing.
+- Quality risks: microbial contamination from sewage; fluoride/arsenic geogenic contamination (Kolkata arsenic teaching); industrial toxins near polluted stretches.
 - Swachh Bharat (2014) + JJM (2019) together address sanitation and drinking water access.
 
 **PYQ — UPPCS Prelims 2022, Q145**
@@ -281,7 +325,8 @@ Jal Jeevan Mission was declared in Union Budget of which financial year?
 
 Options: A. 2021–22 B. 2022–23 C. 2020–21 D. 2019–20
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: D** — **2019–20**.
 
@@ -293,7 +338,7 @@ Options: A. 2021–22 B. 2022–23 C. 2020–21 D. 2019–20
 | Fluoride | ≤1.5 mg/L |
 | Arsenic | ≤0.01 mg/L |
 
-> ** note:** JJM = **2019**, not 2014 (Swachh Bharat year).
+> **Logic:** JJM = **2019**, not 2014 (Swachh Bharat year). UV = microbial kill only among the three classic claims.
 
 ---
 
@@ -601,6 +646,180 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A fals
 
 </details>
 
+### Extra Drill (Ghatnachakra Water Resources map)
+
+**Logic:** Bank traps on biotic vs freshwater, NWM scope, disinfection, lakes, Ganga institutions, and personalities.
+
+**Q31.** Which is not a biotic resource?
+
+A. Coal
+
+B. Petroleum
+
+C. Fish
+
+D. Freshwater
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Freshwater is abiotic; coal/petroleum counted biotic via organic origin.
+
+</details>
+
+**Q32.** ‘Jal Purush’ / Waterman of India is—
+
+A. Sunderlal Bahuguna
+
+B. Rajendra Singh (Tarun Bharat Sangh)
+
+C. Salim Ali
+
+D. Medha Patkar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Magsaysay 2001; Stockholm Water Prize 2015.
+
+</details>
+
+**Q33.** National Water Mission correctly includes—
+
+A. Only full Himalaya–peninsula river linking as a core goal
+
+B. Wastewater recycling for urban needs and +20% water-use efficiency framing
+
+C. Full reimbursement of all farmer borewell costs nationwide
+
+D. Only ozone treaty compliance
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1–2 of the classic UPSC NWM stem; 3–4 false.
+
+</details>
+
+**Q34.** UV in water purification primarily—
+
+A. Removes all odours and settles all turbidity
+
+B. Inactivates/kills harmful microorganisms without changing taste/odour
+
+C. Adds chlorine taste deliberately
+
+D. Only measures BOD
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only the microbial-kill claim is correct among the three UPSC statements.
+
+</details>
+
+**Q35.** NLCP urban lakes set correctly excludes—
+
+A. Bhoj (MP)
+
+B. Sukhna (Chandigarh)
+
+C. Pichola (Rajasthan)
+
+D. Chilika (Odisha)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Chilika is not under the NLCP list in bank teaching.
+
+</details>
+
+**Q36.** NGRBA was constituted in—
+
+A. 1985
+
+B. February 2009 under EPA; PM is chair
+
+C. 2014 only as Namami Gange rename
+
+D. 1974 Water Act alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Basin planning authority; chair is not rotating CM.
+
+</details>
+
+**Q37.** Yamuna Action Plan was formally launched in—
+
+A. 1985
+
+B. 1993
+
+C. 2014
+
+D. 2009
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** YAP-III (2016) sits under Namami Gange.
+
+</details>
+
+**Q38.** National Aquatic Animal of India—
+
+A. Saltwater crocodile
+
+B. Ganges River Dolphin (2009)
+
+C. Olive Ridley only
+
+D. Gharial only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** *Platanista gangetica*; dams/nets/chemicals threaten populations.
+
+</details>
+
+**Q39.** CGWA was formed under—
+
+A. Wildlife Act 1972 only
+
+B. Environment (Protection) Act, 1986
+
+C. Forest Act 1927 only
+
+D. Montreal Protocol
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Regulatory groundwater authority — not the same as CGWB.
+
+</details>
+
+**Q40.** Lisbon Declaration headlines are associated with—
+
+A. Air quality only
+
+B. Mountains only
+
+C. Oceans
+
+D. Freshwater glaciers only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** UN Ocean Conference framing — marine/coastal protection.
+
+</details>
+
 ---
 
 ## Complete PYQ Bank (Topic 26)
@@ -619,7 +838,17 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A fals
 |------|------|
 | Rivers second after oceans | **Ice then GW then rivers** |
 | Groundwater report = CPCB | **CGWB** |
+| CGWA = CGWB | **EPA regulator ≠ assessment board** |
 | JJM launched 2014 | **2019** |
+| Namami Gange = 1985 | **2014** (GAP = 1985) |
+| Freshwater = biotic resource | **Not** — abiotic |
+| NWM = river linking + free borewells | **Recycling / coastal tech / +20% efficiency** yes; linking/reimbursement **no** |
+| UV removes odour + turbidity | **Only microbial kill** among classic claims |
+| Chilika under NLCP | **Not** |
+| NGRBA chair = rotating CM | **Prime Minister** |
+| Dolphin decline = more crocodiles | **Dams, nets, agrochemicals** |
+| Lisbon = freshwater glaciers | **Oceans** |
+| Hariyali = Jal Kranti | **Watershed programme** |
 | Namami Gange = 1985 | **2014** (GAP = 1985) |
 | Gomti = Kanpur | **Lucknow** |
 | Sultanpur in UP | **Haryana** |
@@ -636,9 +865,9 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A fals
 |--------|-------|
 | **Lines** | ~435 (was ~990 old format) |
 | **Teaching blocks** | §26.1–26.8 (8 syllabus bullets) |
-| **Practice Zone** | 30 questions |
+| **Practice Zone** | 30 + Extra Drill Q31–Q40 |
 | **PYQ Bank** | 10 questions |
-| **Common Traps** | 10 |
+| **Common Traps** | 20 |
 | **Inline PYQs** | 2025 Q88, Q70; 2023 Q110; 2022 Hariyali, GAP, JJM |
 
 ### Syllabus coverage map
