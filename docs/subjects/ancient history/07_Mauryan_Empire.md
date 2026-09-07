@@ -358,14 +358,17 @@ D. Revenue management
 
 ## 7.6a Third Buddhist Council (Pataliputra)
 
-**Patron:** Ashoka | **President:** Moggaliputta Tissa | **Sources:** *Dipavamsa* and *Mahavamsa* (not Ashokan edicts)
+**c. 250 BCE** | **Patron:** Ashoka | **President:** Moggaliputta Tissa | **Sources:** *Dipavamsa* and *Mahavamsa* (not Ashokan edicts)
 
-- Ashoka convened the **Third Buddhist Council** at **Pataliputra** after the Kalinga turn toward dhamma.
+- Ashoka convened the **Third Buddhist Council** at **Pataliputra** about **250 BCE**, after the Kalinga turn toward dhamma.
+- Sinhalese tradition places it in Ashoka’s **17th–18th year** after coronation (coronation **268 BCE** → council near **250 BCE**).
 - **Moggaliputta Tissa** presided. The council purified doctrine and organised missions.
 - Missions went to Kashmir–Gandhara, Sri Lanka (**Mahinda**, **Sanghamitta**), and other regions.
-- order: Rajagriha (1st) → Vaishali (2nd) → Pataliputra (3rd) → Kundalvana (4th).
+- Order: Rajagriha (1st) → Vaishali (2nd) → Pataliputra (3rd) → Kundalvana (4th).
 - Third Council = **Ashoka** at **Pataliputra**. Fourth Council = **Kanishka** at **Kundalvana**.
 - **Sri Lanka** received the mission but remained an **edge neighbour**, not a Mauryan province (RE II).
+
+> ** note:** The year **c. 250 BCE** comes from chronicle tradition. Ashokan edicts do **not** date the Third Council.
 
 ---
 

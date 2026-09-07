@@ -262,7 +262,7 @@ Things arise from causes, not from a creator God. The **twelve nidanas** (links)
 |---|-------|----------------|-----------|--------------|
 | **1st** | **Rajagriha** (Sattapanni cave) | **Ajatashatru** (Magadha) | **Mahakassapa** | **Upali** recited **Vinaya**; **Ananda** recited **Suttas** |
 | **2nd** | **Vaishali** | **Kalashoka** | — | Ten-point **Vinaya** dispute; split into **Sthaviravada** (elders) and **Mahasanghika** (great assembly) |
-| **3rd** | **Pataliputra** | **Ashoka** | **Moggaliputta Tissa** | **Vibhajjavada** line wins; **Abhidhamma** and *Kathavatthu*; missions to Sri Lanka (**Mahinda**, **Sanghamitta**) |
+| **3rd** (**c. 250 BCE**) | **Pataliputra** | **Ashoka** | **Moggaliputta Tissa** | **Vibhajjavada** line wins; **Abhidhamma** and *Kathavatthu*; missions to Sri Lanka (**Mahinda**, **Sanghamitta**) |
 | **4th** (north-Indian list) | **Kundalvana**, Kashmir | **Kanishka** | **Vasumitra** (+ **Ashvaghosha**) | **Sarvastivada** school; **Sanskrit** turn; *Mahavibhasha* compiled; Mahayana gains Kushan patronage |
 
 - Theravada tradition also remembers a separate “fourth” council at **Anuradhapura** (Sri Lanka) under **Vattagamani**, when the **Pali canon was written down**.
