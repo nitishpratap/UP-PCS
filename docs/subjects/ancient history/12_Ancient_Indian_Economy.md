@@ -17,7 +17,7 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. Economy match ladder: **Indus = Urban**, **Rigvedic = Pastoral**, **Later Vedic = Agrarian**, and the medieval slot is **landlordism**. The Indus uses weights and seals but has **no coins**.
 2. Vedic **nishka** is a gold unit or ornament. It is **not** a minted coin. The first Indian coins are **punch-marked silver** from about the sixth century BCE (**karshapana / pana**).
@@ -35,11 +35,11 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 14. **Tamralipti** at the Ganga mouth faces the Bay of Bengal. **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port.
 15. Inland highways: **Uttarapatha** runs Taxila toward **Pataliputra**; **Dakshinapatha** runs from the Ganga belt through **Ujjain** into the Deccan. Dakshinapatha is a **road**, not “only sea.”
 16. Roman trade peaks about the first to third centuries CE. The ***Periplus of the Erythraean Sea*** is the coastal handbook; **Pliny** complains of a **gold drain** to India.
-17. Sangam poems call western foreign traders **Yavana**. **Arikamedu** near Puducherry yields Roman amphorae and related ware.
+17. Sangam poems call western foreign traders **Yavana**. **Arikamedu** near Puducherry yields Roman amphorae and related ware; the *Periplus* calls it **Poduke**.
 18. Punch-marked silver carries geometric and animal punches — **no royal portrait**. Common marks include sun, six-armed symbol, hill, elephant, bull, and tree-in-railing.
 19. Later Vedic dues appear as **bali** and **bhaga**. From the mahajanapada age, towns, **NBPW**, and punch-marked silver travel with long-distance trade.
-20. **Sopara** and **Kalyan** on the Konkan run from Mauryan times onward. **Puhar / Kaveripattinam** is the Sangam Chola port at the Kaveri mouth.
-21. Pepper, cotton, ivory, pearls, and gems leave Indian ports; **horses**, wine, gold, and glass are famous western imports. Sailors use **monsoon** reversal.
+20. **Sopara** and **Kalyan** on the Konkan run from Mauryan times onward. **Puhar / Kaveripattinam** is the Sangam Chola port at the Kaveri mouth. **Uraiyur** is the Sangam Chola capital and a **cotton** centre.
+21. Pepper, cotton, ivory, pearls, and gems leave Indian ports; **horses**, wine, gold, and glass are famous western imports. Sailors use **monsoon** reversal. Sanskrit ***Yavanapriya*** means **pepper**.
 22. East-coast **Tamralipti** is **not** the main Roman door. The pepper–gold circuit centres on Malabar and Broach.
 23. Gupta markets still use silver and copper for daily exchange even while gold dinaras advertise imperial prestige.
 24. The **Ainnurruvar** (“500”) are a later south merchant network. They are not a Mauryan guild label.
@@ -47,6 +47,8 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 26. After the Guptas, imperial gold thins. Roman **aurei** in south Indian hoards remain pepper-trade bullion evidence, not Gupta mintage.
 27. Guild custom is treated as usable law in the *Arthashastra*, and Sanchi–Bharhut gifts name shrenis — so shreni is **not** “only foreign trade.”
 28. Economy type changes by age: pastoral cattle wealth in the Rigveda, agrarian dues later, then coin-and-town trade from the sixth century BCE onward.
+29. An **amphora** is a tall Roman jar with a long neck and **two handles**, used for wine or oil — a classic Arikamedu find type.
+30. **Tagara** sat on the inland trade route connecting **Kalyan** with **Vengi**.
 
 ---
 
@@ -227,7 +229,10 @@ A. Śreni B. Nagaram C. Nānādesis D. Manigrama
 - **Lothal** on the Gulf of Khambhat is the Harappan **dockyard**. **Sutkagen-dor** on the Makran is the Harappan west end. Boat **models** come from **Mohenjo-daro and Lothal**. Dholavira is not that pair.
 - **Bharukaccha / Broach** at the Narmada mouth is Periplus **Barygaza**. **Sopara** and **Kalyan** on the Konkan run from Mauryan times onward. **Barbarikon** is the Indus-mouth Periplus port. It is **not** Broach.
 - **Tamralipti** at the Ganga mouth faces the Bay of Bengal.
-- **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port. **Nelcynda** in Kerala is another Periplus pepper landing. **Puhar / Kaveripattinam** at the Kaveri mouth is the Sangam Chola port. **Arikamedu** near Puducherry yields Roman amphorae.
+- **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port. **Nelcynda** in Kerala is another Periplus pepper landing. **Tondi** and **Mushiri** sit on the western *Periplus* list with them. **Puhar / Kaveripattinam** at the Kaveri mouth is the Sangam Chola port. **Arikamedu** near Puducherry yields Roman amphorae and was called **Poduke** in the *Periplus*.
+- Sanskrit ***Yavanapriya*** means **pepper** — the favourite spice of the Yavanas / Greeks and Romans. An **amphora** is the tall double-handled Roman jar for wine or oil.
+- **Uraiyur** on the Kaveri was a Sangam Chola capital and a major **cotton** centre.
+- **Tagara** was a significant inland trade centre on the route connecting **Kalyan** with **Vengi**.
 
 **PYQ — UPPCS Prelims 2022, Q68**
 

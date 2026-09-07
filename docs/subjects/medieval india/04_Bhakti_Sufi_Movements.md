@@ -435,6 +435,8 @@ D. A false, R true
 
 - NCERT groups **Nathpanthis**, **Jogis**, and **Siddhas** as north Indian ascetic communities that grew from craft and peasant backgrounds.
 - **Jogis** (yogis) often wandered with alms-bowls and practised breath-control; **Siddhas** claimed perfected yogic powers.
+- Tamil-region **Siddhas (Sittars)** are remembered as **monotheistic** and as condemning **idolatry** — a separate south stream from the north Nath list, but the same “Siddha” label appears in cultural-history stems.
+- **Lingayats** of the Kannada region (Basavanna line) **questioned rebirth** and rejected caste hierarchy — full card in **§4.17**.
 - These groups overlapped with Nath identity but were not identical — papers may use **"Nathpanthis"** as the formal sect name.
 - Their path stressed **body discipline**, not **saguna Krishna/Rama kirtan** — do not classify them as mainstream Bhakti poets.
 

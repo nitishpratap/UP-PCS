@@ -1,5 +1,5 @@
 # Topic 8 — Post-Mauryan India
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥54)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥62)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,14 +8,14 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 </details>
 
-> **Sources baked in:** Hathigumpha, Ayodhya, Junagadh, Nasik, Sangam corpus, Ghatnachakra Post-Mauryan Period, UPPCS Prelims 2018–2025, UKPCS (Ashvaghosa; empire outside India; gold–silver 1:35; Matsya Purana Andhra list)
+> **Sources baked in:** Hathigumpha, Ayodhya, Junagadh, Nasik, Sangam corpus, Ghatnachakra Post-Mauryan Period + South India (Sangam / Chola / Pallava / Chalukya), UPPCS Prelims 2018–2025, UKPCS (Ashvaghosa; empire outside India; gold–silver 1:35; Matsya Purana Andhra list)
 > **Weight:** ★★★ — 2023 invader order, 2025 south-dynasty match, 2021 Satavahana, 2018 Hathigumpha + Ayodhya
 > **Last verified:** September 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 36 Must-Score Facts
+## Consolidated — 45 Must-Score Facts
 
 1. The Mauryan empire ended in **185 BCE** when general **Pushyamitra Shunga** killed the last Mauryan **Brihadratha**. The **Shungas** then ruled Magadha about **185–73 BCE**, and the short **Kanva** house followed about **73–28 BCE**.
 2. Pushyamitra’s **two ashwamedhas** are recorded in the **Ayodhya** inscription of Dhanadeva. That record is **not** Besnagar and **not** Hathigumpha.
@@ -37,8 +37,8 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 18. Kanishka convened the **Fourth Buddhist Council** in Kashmir at **Kundalvana**. **Vasumitra** is remembered as president, and **Ashvaghosha** belongs to this age. Kanishka’s title is **Devaputra**.
 19. Sangam Tamilakam’s **Muvendar** are **Chera** (bow), **Chola** (tiger), and **Pandya** (fish). Capitals are **Vanji / Karur**, **Uraiyur**, and **Madurai**.
 20. **Karikala** is the Sangam Chola who built the **Kallanai** on the Kaveri. He is **not** imperial **Rajaraja I** of Thanjavur.
-21. Sangam seat tradition is **Madurai** under the Pandyas. **Tolkappiyam** is the earliest Tamil grammar. **Akam** is love poetry; **Puram** is war and kingship poetry.
-22. Sangam ports fact as **Muziris** (Chera / Roman pepper), **Puhar** (Chola), and **Korkai** (Pandya pearl coast). **Arikamedu** yields Roman amphorae.
+21. Sangam seat tradition is **Madurai** under the Pandyas. Three assemblies: **1st Madurai** (Agastya / Tolkappiyar), **2nd Kapadapuram** (Agastya), **3rd Madurai** (**Nakkirar**). **Tolkappiyam** is the earliest Tamil grammar. **Akam** is love poetry; **Puram** is war and kingship poetry.
+22. Sangam ports fact as **Muziris** (Chera / Roman pepper), **Puhar** (Chola), and **Korkai** (Pandya pearl coast). West-coast Periplus ports also include **Tondi**, **Mushiri / Muziris**, and **Nelcynda**. **Arikamedu** (Periplus **Poduke**) yields Roman amphorae.
 23. Later south dynasty matchs: **Mahendravarman I** is **Pallava**; **Kadungon** is **Pandya**; **Amoghavarsha I** is **Rashtrakuta**; **Rajaraja I** is **Chola**.
 24. **Gandhara** art is Kushan northwest Greco-Buddhist. **Amaravati** art is Satavahana Andhra limestone narrative relief. Do not swap the schools.
 25. Ashoka’s Rock Edict II names Chola, Pandya, Keralaputra, and Satiyaputra as **independent neighbours**, not Mauryan provinces.
@@ -53,6 +53,15 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 34. **Gautamiputra Satakarni** is **Ekabrahmana** / protector of the varna order (Nasik of Gautami Balashri). Satavahanas issue punch-marked, lead, copper, silver, potin — **not gold**. **Matsya Purana** gives the longest Andhra list (~30 kings).
 35. Rudradaman’s Junagadh is the earliest long literary **Sanskrit / kavya-style** prose. He repaired Sudarshana **without forced labour**. **Yaudheya** coins show **Kartikeya** with a peacock.
 36. **Strato II** issued **lead** coins. **Agathocles** put **Sankarshana (Balarama) and Vasudeva** on bilingual coins. Gandhara sculpture often uses **green schist**; **Bamiyan** held colossal Buddha images.
+37. Sangam titles for the king include **Kon**, **Ko**, and **Mannan**. The ordinary word *vendan* also means king.
+38. Sage **Agastya** is remembered as having Aryanised the south and as the **Father of Tamil Literature**. **Tolkappiyar**, author of *Tolkappiyam*, is listed among Agastya’s twelve disciples.
+39. *Silappadikaram* is by **Ilango Adigal** (linked as grandson of Chola **Karikala**) and narrates **Kannagi** and **Kovalan**. *Tirukkural* (*Kural* / **Muppal**) by **Tiruvalluvar** is called the Bible and **Laghuveda** of Tamil literature. *Ramavataram* (Tamil Ramayana) is by **Kamban**.
+40. **Uraiyur** (also **Koli** / **Varanam**) on the Kaveri at Tiruchirappalli was the Sangam Chola capital and a major **cotton** centre in the *Periplus*.
+41. Sanskrit *Yavanapriya* means **pepper** — the Greek / Roman favourite spice. An **amphora** is the tall double-handled Roman jar for wine or oil found at Arikamedu.
+42. **Vattakirutal** in Sangam poems is the defeated king’s ritual suicide by **fasting unto death**.
+43. Sangam literature names **Chera, Chola, and Pandya** only among the great houses. **Pallava** and **Kadamba** are **not** Sangam ruling dynasties in that corpus.
+44. A **Pandya** king sent an ambassador to **Rome in 26 BCE**. Pandya heartland lies south of the Kaveri around **Madurai**; the river of that core is the **Vaigai** (some MCQ banks print it as “Vengi” — do not confuse with Eastern Chalukya **Vengi**).
+45. **Udiyanjiral** belongs to the **Chera** line and is often treated as the first historical Chera of the Sangam age. Chera capital memory is **Vanji / Vanchi / Karuvur (Karur)**.
 
 ---
 
@@ -75,6 +84,9 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | Muvendar | Satavahana | Chera-Chola-Pandya vs north-Deccan **Andhra** house | मुवेन्दर / सातवाहन |
 | Nahapana | Rudradaman | Kshaharata, beaten by Gautamiputra vs Kardamaka, Junagadh | नहपान / रुद्रदामन |
 | Purushapura | Mathura | Kushan **main** capital vs **second** Indian capital | पुरुषपुर / मथुरा |
+| Vaigai (Pandya) | Vengi (Andhra) | Madurai Pandya river vs Eastern Chalukya coastal Andhra | वैगई / वेंगी |
+| Arikamedu / Poduke | Tamralipti | Coromandel Roman station vs Ganga-mouth Bay port | अरिकामेडु / ताम्रलिप्ति |
+| Muvendar | Pallava / Kadamba | Sangam trio only vs later Kanchi / Vanavasi houses | मुवेन्दर / पल्लव–कदम्ब |
 
 ---
 
@@ -91,8 +103,12 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | *Buddhacharita* | **Ashvaghosha** | Buddha’s life epic; Kanishka age |
 | *Saundarananda* | **Ashvaghosha** | Same court circle |
 | *Sariputraprakarana* | **Ashvaghosha** | Same court circle |
-| *Tolkappiyam* | Tolkappiyar tradition | Earliest Tamil grammar; Sangam age |
-| *Periplus of the Erythraean Sea* | **Anonymous** Greek merchant | Red Sea / Indian Ocean trade handbook |
+| *Tolkappiyam* | Tolkappiyar tradition | Earliest Tamil grammar and poetics; Sangam age |
+| *Silappadikaram* | **Ilango Adigal** | Kannagi–Kovalan epic; later Sangam edge |
+| *Manimekalai* | **Sattanar** | Buddhist sequel to Silappadikaram |
+| *Tirukkural* (*Kural* / Muppal) | **Tiruvalluvar** | Called Laghuveda / Bible of Tamil ethics |
+| *Ramavataram* | **Kamban** | Tamil Ramayana (later medieval Tamil classic) |
+| *Periplus of the Erythraean Sea* | **Anonymous** Greek merchant | Red Sea / Indian Ocean trade handbook; Poduke = Arikamedu |
 | *Matsya Purana* | Puranic tradition | Longest Andhra / Satavahana king list (~30) |
 | *Vayu Purana* | Puranic tradition | Kanva end / Andhra founder memory |
 
@@ -377,31 +393,56 @@ D. Sakas — Kushans — Greeks
 
 **Tamilakam south of Krishna–Tungabhadra | ~300 BCE–300 CE | literature as the state archive**
 
-- **Sangam** means a poet-assembly. The traditional seat is **Madurai** under the **Pandyas**.
+- **Sangam** means a conference of poets or a forum of scholars. The literature composed in those assemblies is **Sangam literature**.
+- The traditional seat is **Madurai** under the **Pandyas**.
 - Sangam Tamilakam is **contemporary** with the Satavahanas — a **parallel** south, a different dynasty.
-- Later legend counts three Sangams. The first two are mythical.
-- The Third Sangam is the poems we still have.
+- Later legend counts **three Sangams**. The first two are largely mythical; the Third Sangam is the poems we still have.
 
-- **Ettuttokai** is the eight anthologies (*Purananuru*, *Akananuru*). **Pattuppattu** is the ten long songs (*Pattinappalai* is the Puhar port poem). **Tolkappiyam** is the earliest Tamil grammar.
-- Later edge texts include *Tirukkural*, the Kannagi epic *Silappadikaram*, and the Buddhist sequel *Manimekalai*.
+| Sangam | Place | President / tradition |
+|--------|-------|------------------------|
+| **First** | **Madurai** | Saint **Agastya** (with **Tolkappiyar** in some lists) |
+| **Second** | **Kapadapuram** | Saint **Agastya** |
+| **Third** | **Madurai** | **Nakkirar** |
+
+- Sage **Agastya** is credited with having **Aryanised** south India. Tradition says he came south from **Kashi** at the gods’ request and later resided in the south. He is also called the **Father of Tamil Literature**.
+- According to Sangam texts, the titles **Kon**, **Ko**, and **Mannan** belong to the **king**.
+
+- **Ettuttokai** is the eight anthologies (*Purananuru*, *Akananuru*). **Pattuppattu** is the ten long songs (*Pattinappalai* is the Puhar port poem).
+- ***Tolkappiyam*** is the residual text of the Second Sangam tradition and the **most ancient available** long Tamil work. It is a treatise on **grammar and poetry**, written in a formula style. Author **Tolkappiyar** is counted among the **twelve disciples** of Agastya.
+- ***Silappadikaram*** is by **Ilango Adigal**, remembered as a grandson of Chola **Karikala**. It narrates the tragic story of **Kannagi** and her husband **Kovalan**.
+- ***Tirukkural*** (*Kural*) by **Tiruvalluvar** is called the Bible and **Laghuveda** of Tamil literature. It is also known as **Muppal**.
+- ***Manimekalai*** by **Sattanar** is the Buddhist sequel to the Kannagi epic.
+- ***Ramavataram*** (Tamil Ramayana) was authored by **Kamban** (later medieval Tamil; not a Third Sangam anthology, but a high-yield Tamil classic).
 - **Akam** is inner / love poetry. **Puram** is outer / war and kingship.
 - Five landscapes (*tinai*): **Kurinji** (hills, Murugan, hunting), **Mullai** (pastoral forest, cattle), **Marudam** (plains, paddy), **Neydal** (coast, fishing and salt), **Palai** (dry land, separation and raids).
+- **Vattakirutal** in Sangam poems is a defeated king’s **ritual suicide by starving himself to death**.
 
 | Kingdom | Emblem | Capital | Port | Famous king |
 |---------|--------|---------|------|-------------|
-| **Chera** | Bow | Vanji / Karur | **Muziris (Muchiri)** | **Senguttuvan** |
+| **Chera** | Bow | **Vanji / Vanchi / Karur (Karuvur)** | **Muziris (Muchiri)**; also **Tondi** | **Senguttuvan**; **Udiyanjiral** (early Chera) |
 | **Chola** | Tiger | **Uraiyur** | **Puhar / Kaveripattinam** | **Karikala** |
 | **Pandya** | Fish | **Madurai** | **Korkai** | **Nedunjeliyan** |
 
 - **Karikala** builds the **Kallanai** (Grand Anicut) on the Kaveri and builds up Puhar. He is **not** Rajaraja I.
+- **Uraiyur** on the Kaveri in Tiruchirappalli was also called **Koli** and **Varanam**. It was a major **cotton** centre and appears in the *Periplus of the Erythraean Sea*.
+- **Udiyanjiral** belongs to the **Chera** dynasty and is often treated as the first historical Chera of the Sangam age.
 - **Senguttuvan** sits on the west-coast Roman pepper trade. Later memory gives him the Pattini / Kannagi cult.
 - The Pandyas hold the pearl coast at Korkai and patronise the Madurai assembly.
+- Pandya country lies **south of the Kaveri**, centred on Madurai and parts of the far south. The river of that core is the **Vaigai**. Some question banks print **“Vengi”** for this Pandya river — do **not** confuse it with Eastern Chalukya **Vengi** on the Andhra coast.
+- A **Pandya** king sent an ambassador to the kingdom of **Rome in 26 BCE**. The Pandya house has one of the longest remembered spans in the deep south, with capital at **Madurai**.
 
-- The king is *vendan*. Land tax is **vari**. Customs are **sungam**. Units are **nadu** and **ur**. Sub-chiefs are **velir**. This is not a Mauryan kumara-mahamatra machine.
+- The king is *vendan* (also Kon / Ko / Mannan). Land tax is **vari**. Customs are **sungam**. Units are **nadu** and **ur**. Sub-chiefs are **velir**. This is not a Mauryan kumara-mahamatra machine.
+- Sangam literature describes the rise of **Chera, Chola, and Pandya** only. **Pallava** and **Kadamba** are **not** Sangam Muvendar houses.
 
-- **Arikamedu** yields Roman amphorae. **Keeladi** is early historic Tamil urban. Tamil-Brahmi appears on pottery and caves. Yavana in the poems means a foreign or Roman trader.
+- The anonymous Greek *Periplus of the Erythraean Sea* lists western ports such as **Naura**, **Tondi**, **Mushiri / Muziris**, and **Nelcynda / Nelisanda**.
+- **Arikamedu** near Pondicherry is the foremost Indo–Roman station on the eastern coast. An intaglio identified with **Augustus Caesar**, plus beads and gems, support Roman contact. Dubreuil called it “a true Roman city.” In the *Periplus* it is **Poduke**.
+- An **amphora** is an ancient tall jar with a long narrow neck and **two handles**, used in Rome for wine or oil.
+- Black pepper was a favourite of expensive Roman cookery. In Sanskrit it is ***Yavanapriya*** — “favourite of the Yavanas / Greeks.”
+- Trade guilds of later south-Indian townships include **Manigramam**, **Nanadesi**, and **Valanjiyar**.
 
-> ** note:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra*.
+- **Keeladi** is early historic Tamil urban. Tamil-Brahmi appears on pottery and caves. Yavana in the poems means a foreign or Roman trader.
+
+> ** note:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra*. **Poduke = Arikamedu**. **Yavanapriya = pepper**, not muslin.
 
 ---
 
@@ -412,6 +453,7 @@ D. Sakas — Kushans — Greeks
 - **Nedunjeliyan** of the Pandyas appears in war poems such as the **Purananuru**.
 - **Senguttuvan** of the Cheras is linked to the west-coast pepper trade and **Kannagi / Pattini** legend in *Silappadikaram*.
 - Sub-chiefs called **velir** held hill and border territories under the great kings.
+- When a king lost in battle, **Vattakirutal** could follow — ritual fasting unto death.
 
 ## 8.10 Later South — 2025 match only
 
@@ -1411,6 +1453,185 @@ D. (A) is false, but (R) is true
 
 ---
 
+**Q55.** According to Sangam texts, the terms **Kon**, **Ko**, and **Mannan** were attributed to which of the following?
+
+A. Prime Minister
+B. Revenue Minister
+C. Commander of the army
+D. King
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sangam titles **Kon**, **Ko**, and **Mannan** belong to the **king**.
+
+**Trap:** Do not invent a “minister” meaning for these Tamil royal titles.
+
+</details>
+
+---
+
+**Q56.** Match List-I with List-II and select the correct answer:
+
+| List-I (Sangam) | List-II (Place / president) |
+|-----------------|------------------------------|
+| A. First Sangam | 1. Kapadapuram — Agastya |
+| B. Second Sangam | 2. Madurai — Nakkirar |
+| C. Third Sangam | 3. Madurai — Agastya (with Tolkappiyar tradition) |
+
+*Row order is not the answer code.*
+
+A. 3 1 2
+B. 1 3 2
+C. 2 1 3
+D. 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tests place–president pairs for the three legendary assemblies under Pandya patronage.
+
+**Ans: A.** First = Madurai / Agastya; Second = Kapadapuram / Agastya; Third = Madurai / Nakkirar.
+
+**Trap:** Swapping First and Third presidents (Agastya vs Nakkirar) while both seats are Madurai.
+
+</details>
+
+---
+
+**Q57.** Which one of the following explains the practice of **Vattakirutal** as mentioned in Sangam poems?
+
+A. Kings employing women bodyguards
+B. Learned persons assembling in royal courts to discuss religion
+C. Young girls keeping watch over agricultural fields
+D. A king defeated in a battle committing ritual suicide by starving himself to death
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tests the exact meaning of a rare Sangam ritual term.
+
+**Ans: D.** **Vattakirutal** is ritual suicide by fasting unto death after defeat in battle.
+
+**Trap:** Confusing it with a peaceful scholarly assembly or farm-watch custom.
+
+</details>
+
+---
+
+**Q58.** With reference to Sangam literature and related Tamil texts, which of the following pairs is/are correctly matched?
+
+1. *Tolkappiyam* — Grammar and poetry
+2. *Silappadikaram* — Ilango Adigal; Kannagi–Kovalan
+3. *Tirukkural* — Called Laghuveda / Muppal; Tiruvalluvar
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Book ↔ author / nature match; common swaps with Manimekalai or administration treatises.
+
+**Ans: D.** All three are correct.
+
+**Trap:** Calling *Tolkappiyam* an astronomy or polity manual; assigning *Silappadikaram* to Sattanar (*Manimekalai*).
+
+</details>
+
+---
+
+**Q59.** Which of the following dynasties is **not** mentioned as a Sangam ruling house in Sangam literature?
+
+A. Chera
+B. Chola
+C. Pandya
+D. Kadamba
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Muvendar only — Chera, Chola, Pandya.
+
+**Ans: D.** **Kadamba** is not a Sangam Muvendar house. **Pallava** is the same trap in parallel stems.
+
+**Trap:** Assuming every later south dynasty appears in Sangam anthologies.
+
+</details>
+
+---
+
+**Q60.** With reference to Indo–Roman trade in the early centuries CE, which of the following statements is/are correct?
+
+1. *Yavanapriya* in Sanskrit denotes **pepper**.
+2. Arikamedu was known as **Poduke** in the *Periplus*.
+3. An amphora is a tall double-handled Roman jar for wine or oil.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pepper name, Periplus identity of Arikamedu, and amphora form.
+
+**Ans: D.** All three are correct.
+
+**Trap:** Taking *Yavanapriya* as muslin or ivory; placing the main Roman station at Tamralipti instead of Arikamedu / Poduke.
+
+</details>
+
+---
+
+**Q61.** Why was **Uraiyur** famous in the Sangam Era?
+
+A. An important trade centre of spices
+B. An important trade centre of cotton
+C. An important centre of foreign trade only
+D. Capital of the Pandyas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sangam Chola capital vs cotton specialisation vs Pandya Madurai.
+
+**Ans: B.** Uraiyur (Koli / Varanam) on the Kaveri was a major **cotton** centre.
+
+**Trap:** Assigning pepper (Chera / Muziris) or pearls (Pandya / Korkai) to Uraiyur; calling it the Pandya capital.
+
+</details>
+
+---
+
+**Q62.** Which of the following Sangam-age western-coast ports are correctly paired in the *Periplus* tradition?
+
+1. Tondi
+2. Mushiri / Muziris
+3. Korkai
+4. Puhar
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 and 4 only
+D. 1 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** West coast vs east / Pandya pearl coast.
+
+**Ans: A.** **Tondi** and **Mushiri / Muziris** (with Nelcynda) are western. **Korkai** is Pandya pearl coast; **Puhar** is Chola east-coast.
+
+**Trap:** Mixing Coromandel Chola–Pandya ports into a “western coast” list.
+
+</details>
+
+---
+
 ## Complete PYQ Bank (Topic 8)
 
 > Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
@@ -1647,3 +1868,14 @@ Keys are bolded above. Darius I / Alexander campaign detail stays in Topic 6.
 29. **Fourth Council = Ashoka** → **Kanishka** / Kashmir; Ashoka = Third.
 30. **Heliodorus = Pushyamitra’s ashwamedha clerk** → Bhagavata envoy of Antialcidas.
 31. **Sangam = Satavahana dynasty** → Tamil literary age; different house.
+32. **Kon / Ko / Mannan = minister** → **king**.
+33. **Third Sangam president = Agastya** → **Nakkirar**; First/Second = Agastya tradition.
+34. **Yavanapriya = muslin / ivory** → **pepper**.
+35. **Poduke = Tamralipti** → **Arikamedu**.
+36. **Uraiyur = pepper / Pandya capital** → Sangam **Chola** capital and **cotton** centre.
+37. **Kadamba / Pallava = Sangam Muvendar** → Chera, Chola, Pandya only.
+38. **Vattakirutal = peaceful court debate** → defeated king’s **fast unto death**.
+39. **Pandya river = Godavari / Krishna Vengi** → **Vaigai** core (MCQ “Vengi” ≠ Eastern Chalukya Vengi).
+40. ***Tolkappiyam* = astronomy / law code** → **grammar and poetry**.
+41. ***Silappadikaram* = Sattanar** → **Ilango Adigal**; Sattanar = *Manimekalai*.
+42. ***Kural* = Greek / Telugu** → **Tamil**; Laghuveda / Muppal by Tiruvalluvar.

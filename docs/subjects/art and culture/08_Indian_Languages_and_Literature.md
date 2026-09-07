@@ -15,7 +15,7 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 27 Must-Score Facts
 
 1. **Shruti** is the heard Veda stack of Samhita, Brahmana, Aranyaka, and Upanishad. **Smriti** covers epics, Puranas, Dharmashastra, and related remembered texts.
 2. The four Vedas are **Rig** (hymns), **Sama** (chant), **Yajur** (ritual), and **Atharva**. Shukla Yajurveda is **Vajasaneyi**; Krishna Yajurveda is **Taittiriya**.
@@ -41,6 +41,9 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 22. *Milindapanha* is the dialogue of Indo-Greek **Menander / Milinda** with Buddhist monk **Nagasena**.
 23. Classical language is a Culture Ministry recognition tag. Eighth Schedule is a **constitutional** language list. Do not equate the two counts.
 24. Valmiki is the Sanskrit Adikavi of the *Ramayana*. Tulsidas’s *Ramcharitmanas* is the Awadhi retelling fact for UPPCS.
+25. Tamil Sangam spine: *Tolkappiyam* = grammar; *Tirukkural* (*Kural* / Muppal / Laghuveda) = Tiruvalluvar; *Silappadikaram* = Ilango Adigal; *Manimekalai* = Sattanar.
+26. **Kamban** wrote *Ramavataram* (Tamil Ramayana). ***Tirumurai*** is the Saiva hymn corpus treated as a **Fifth Veda** of Tamil Shaivism.
+27. **Alvars** number **12** (Vaishnava); **Nayanars** number **63** (Shaiva). Do not reverse the counts.
 
 ---
 
@@ -289,12 +292,24 @@ D. Neither 1 nor 2
 
 ### Tamil / Sangam
 
-- Three Sangams are legendary. The corpus is Ettuttokai and Pattuppattu.
-- **Tiruvalluvar** wrote *Tirukkural*.
-- **Ilango Adigal** wrote *Silappadikaram*.
-- **Sattanar** wrote *Manimekalai*.
-- **Alvars** are 12 Vaishnava Tamil saints. Their fact is *Nalayira Divya Prabandham*.
-- **Nayanars** are 63 Shaiva Tamil saints. Their fact is *Tevaram*.
+- Three Sangams are legendary under Pandya patronage. Traditional seats: **1st Madurai** (Agastya), **2nd Kapadapuram** (Agastya), **3rd Madurai** (**Nakkirar**). The corpus is Ettuttokai and Pattuppattu.
+- ***Tolkappiyam*** by Tolkappiyar tradition is the earliest Tamil grammar and poetics.
+- **Tiruvalluvar** wrote *Tirukkural* (*Kural* / **Muppal**), also called the Bible and **Laghuveda** of Tamil literature.
+- **Ilango Adigal** wrote *Silappadikaram* (Kannagi–Kovalan love tragedy).
+- **Sattanar** wrote *Manimekalai* (Buddhist sequel; merchant / nun story).
+- **Kamban** wrote *Ramavataram*, the Tamil Ramayana.
+- ***Tirumurai*** is the twelve-volume Saiva hymn corpus; tradition treats it as a **Fifth Veda** of Tamil Shaivism (with Vedas and Saiva Agamas behind Saiva Siddhanta).
+- **Alvars** are **12** Vaishnava Tamil saints. Their fact is *Nalayira Divya Prabandham*.
+- **Nayanars** are **63** Shaiva Tamil saints. Their fact is *Tevaram* (within the wider Tirumurai).
+
+### Match spine (Tamil texts)
+
+| Text | Nature |
+|------|--------|
+| *Tirukkural* | Philosophy / ethics |
+| *Tolkappiyam* | Grammar |
+| *Silappadikaram* | Love / Kannagi story |
+| *Manimekalai* | Merchant / Buddhist nun story |
 
 ### Other Dravidian
 

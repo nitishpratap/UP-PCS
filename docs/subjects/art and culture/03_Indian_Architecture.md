@@ -190,7 +190,7 @@ D. Bhimashankar
 **Region:** Tamil country and south | **Tower:** pyramidal **vimana** over sanctum | **Gateway:** tall **gopuram**
 
 - Enclosure (*prakara*) with gopurams. Under **Pandya** and later **Nayaka** Madurai, gopurams become the dominant outer face and can dwarf the vimana.
-- **Meenakshi**, Madurai — 12 gopurams. Southern ~52 m. This is **not** a Pallava foundation.
+- **Meenakshi**, Madurai — 12 gopurams. Southern ~52 m. Tradition links the original shrine with **Kulasekara Pandya**; the gopuram peak is **Nayaka**. This is **not** a Pallava foundation.
 - Storeyed vimana (*tala*). *Kalasam* finial. *Kudu* horseshoe arches.
 - Material: **granite** (Pallava, Chola). Later brick-stucco gopurams (Nayaka).
 - **Rameshwaram** — longest corridor.
@@ -265,7 +265,7 @@ D. Bhimashankar
 
 - Early Chola: **Korangnath** temple at **Srinivasanallur** under **Parantaka I**.
 - **Brihadeeswara / Rajarajeshwara, Thanjavur** — **Rajaraja I, 1003–1010 CE**. Granite.
-- Vimana ~66 m, 13 storeys, monolithic *kalasam*, colossal Nandi. **Dravida**, not Nagara.
+- Vimana ~66 m, 13 storeys, monolithic *kalasam*, colossal **Nandi** carved from a single rock and counted among the tallest Nandi idols in India. Two **dvarapala** figures stand near the main shrine. **Dravida**, not Nagara.
 - **Gangaikonda Cholapuram** — **Rajendra I** (~1025–35), after the Ganges campaign.
 - **Airavatesvara, Darasuram** — Rajaraja II.
 - UNESCO Great Living Chola Temples **1987** = Thanjavur + Gangaikonda + Darasuram.

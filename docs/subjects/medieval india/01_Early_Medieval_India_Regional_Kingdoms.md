@@ -1,5 +1,5 @@
 # Topic 1 — Early Medieval India (Regional Kingdoms)
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥45)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥57)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,14 +8,14 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, Ghatnachakra South India (Chola / Chalukya / Pallava / Sangam), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — dynasty↔capital, ruler↔dynasty, temple chronology, Chola A/R, Sena order, UP medieval city names
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (purely historical; no 12–24 month scheme/appointment surface)
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 42 Must-Score Facts
 
 1. Early Medieval India runs roughly **750–1200 CE** after Harsha as an age of regional kingdoms and hereditary **samantas**, not the Delhi Sultanate that begins in **1206**.
 2. The **Tripartite Struggle** for **Kannauj** was fought by the **Pala**, **Gurjara-Pratihara**, and **Rashtrakuta** powers — not by the Cholas.
@@ -45,6 +45,20 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 26. The poet **Rajasekhara** lived at the court of Pratihara **Mahipala**.
 27. Do not confuse **Kannauj (UP)** — the north sovereignty prize — with **Kanchi (TN)**, the Pallava capital.
 28. Sena capital under Lakshman Sen is linked with **Nadia**; Pala seats stayed in the Bengal–Bihar belt with only episodic Kannauj holds.
+29. Imperial Chola founder is **Vijayalaya** (~**850**), not Rajaraja or Parantaka. **Parantaka I** took the title **Maduraikonda** after defeating the Madurai king.
+30. **Battle of Takkolam (949)** — Rashtrakuta **Krishna III** led a confederacy that killed Chola prince **Rajaditya** (son of Parantaka I) and broke Chola power for a generation.
+31. **Rajaraja I** created the standing **naval** arm, smashed the Chera fleet at **Kandalloor**, took **northern** Sri Lanka, and built **Brihadishwara** with its colossal **Nandi**.
+32. **Rajendra I** took **whole Sri Lanka** (prisoner **Mahendra V**), defeated Pala **Mahipala**, founded **Gangaikondacholapuram**, built the artificial lake **Chola Gangam**, and made the Bay of Bengal a “**Chola Lake**.”
+33. Under **Kulottunga I**, a Chola Buddhist / merchant mission of **72** traders went to **China (1077)**; he accepted Sinhala independence under **Vijayabahu** and married a daughter to prince **Virapperumal**.
+34. Chola village boards (**Variyam**): **Thotta** = gardens; **Samvatsara** = annual; **Eri** = tanks; **Pon** = gold / finance. **Uttaramerur** is the Sabha working-system inscription.
+35. **Eripatti** = land whose revenue maintains the village tank. **Taniyur** = a very large village administered as a single unit (not a Brahmana gift). **Ghatika** = temple-attached college.
+36. Chola **Nataraja** bronzes show the dancing Shiva with **four** hands; **Dakshinamurti** is Shiva as **teacher**, installed facing **south**.
+37. Pallava **Simhavishnu** took the title **Avanisimha**; **Narasimhavarman I** is **Mahamalla** / **Vatapikonda** and sent naval help to Ceylon (**642**); **Mahendravarman I** wrote *Mattavilasa Prahasana*.
+38. **Pulakeshin I** founded the Badami / Vatapi Chalukya house. **Aihole** prasasti of **Ravikirti** names **Kalidasa** and **Bharavi**. Chalukyas appointed **women** to high office (**Vijaya Bhattarika**).
+39. **Kadamba** capital was **Vanavasi**; founder **Mayurasharman**; the state was annexed by **Pulakeshin II**. Chera capital memory is **Vanchi / Karuvur**.
+40. **Meenakshi** temple at Madurai is linked in tradition to **Kulasekara Pandya** (later rebuilt under Nayakas). **Motupalli** was the Kakatiya overseas port (Marco Polo).
+41. Cholas commonly designated a **Yuvraj** (heir) during the reigning king’s lifetime.
+42. Sailendra / Srivijaya expedition under **Rajaraja I** and especially **Rajendra I** answered trade obstruction toward China.
 
 ---
 
@@ -65,6 +79,13 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 | Kannauj | Kanchi | UP sovereignty prize vs Tamil Pallava capital | कन्नौज / कांची |
 | Shore Temple | Brihadishwara | Pallava Mahabalipuram ~7th vs Chola Rajaraja **1010** Tanjore | शोर मंदिर / बृहदीश्वर |
 | Adivaraha | Gangaikondachola | Mihir Bhoja (Pratihara) vs Rajendra I (Chola) | आदिवराह / गंगैकोंडचोल |
+| Vijayalaya | Rajaraja I | Imperial Chola **founder ~850** vs peak navy / Brihadishwara builder | विजयालय / राजराज |
+| Rajaraja I (N. Lanka) | Rajendra I (whole Lanka) | Northern conquest vs full island + Mahendra V prisoner | राजराज / राजेन्द्र |
+| Thotta Variyam | Eri Variyam | Gardens / horticulture vs tanks and water | तोट्टा / एरी |
+| Eripatti | Taniyur | Tank-maintenance land vs large single-unit village | एरिपट्टी / तनियूर |
+| Nataraja | Dakshinamurti | Four-armed dancing Shiva vs teacher form facing south | नटराज / दक्षिणामूर्ति |
+| Badami / Vatapi | Vanavasi | Early Chalukya capital vs **Kadamba** capital | वातापी / वनवासी |
+| Vanchi / Karur | Madurai | Chera capital vs Pandya capital | वंची / मदुरै |
 
 ---
 
@@ -104,7 +125,7 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 | **Rashtrakuta** | **Manyakheta** (Malkhed) | Deccan | Dantidurga; **Amoghavarsha I**; Indra III; Krishna I (Ellora) |
 | **Chola** | **Thanjavur**; later **Gangaikondacholapuram** | Tamil country + overseas | Vijayalaya; **Rajaraja I**; **Rajendra I** |
 | **Pandya** | **Madurai** | S. Tamil Nadu | **Kadungon** (revival ~6th c.) |
-| **Chera** | Kerala / Malabar | Kerala coast | Pressured by Chola navy |
+| **Chera** | **Vanchi / Karuvur (Karur)** | Kerala coast | Pressured by Chola navy; pepper trade |
 | **Hoysala** | **Halebid / Dvarasamudra** | Karnataka | **Vishnuvardhana**; Hoysalesvara |
 | **Kakatiya** | **Warangal** (Orugallu) | Telangana | Ganapati Deva; **Rudramadevi** |
 | **Yadava** | **Devagiri** (later Daulatabad) | Maharashtra | Singhana; **Ramachandra** |
@@ -189,9 +210,12 @@ D. 4 2 1 3
 - He is the Pandya fact in **2025 Q121**.
 - Later Pandyas ruled from **Madurai** and repeatedly clashed with Cholas for Tamil supremacy.
 - **Rajaraja I** conquered Madurai.
+- **Parantaka I** earlier defeated the Madurai king and took the title **Maduraikonda**.
 - Pandya revival came again only after Chola decline.
+- Tradition links the original **Meenakshi** shrine at Madurai with **Kulasekara Pandya**; the city is remembered as lotus-shaped around the temple.
 - The **Cheras** drew wealth from **Malabar coast** trade in pepper and spices.
-- **Rajaraja I** destroyed the Chera navy at **Trivandrum**, ending their maritime challenge.
+- Chera capital memory is **Vanchi / Vanji / Karuvur (Karur)** — not Puducherry.
+- **Rajaraja I** destroyed the Chera navy at **Kandalloor / Trivandrum**, ending their maritime challenge.
 
 ---
 
@@ -199,17 +223,20 @@ D. 4 2 1 3
 
 **Capital:Kanchi (Kanchipuram)** | **Span:** c. **575–897 CE** | **Rival:** Early Chalukyas of Badami
 
-- **Simhavishnu** is treated as the dynastic restorer who made Kanchi the Pallava power centre.
-- **Mahendravarman I** pioneered **rock-cut** architecture at Mahabalipuram and is the Pallava fact in **2025 Q121**.
-- **Mahendravarman I** patronised Shaivism, Vaishnavism, and Jainism and wrote the Sanskrit play *Mattavilasa Prahasana*.
-- **Narasimhavarman I** took **Vatapi in 642** and earned the title **Vatapikonda**.
+- **Simhavishnu (c. 575–600)** is treated as the dynastic restorer who made Kanchi the Pallava power centre. He took the title **Avanisimha (Avanisingh)** and defeated Chola, Pandya, Sinhala, and Kalabhra rivals.
+- **Mahendravarman I (c. 600–630)** pioneered **rock-cut** architecture at Mahabalipuram and is the Pallava fact in **2025 Q121**.
+- **Mahendravarman I** patronised Shaivism, Vaishnavism, and Jainism and wrote the Sanskrit humorous play ***Mattavilasa Prahasana***.
+- **Narasimhavarman I (c. 630–668)** took the title **Mahamalla** (great wrestler). He took **Vatapi in 642** and earned the title **Vatapikonda**. The famous **Pancha Rathas** belong to his Mamalla phase.
+- In **642** he sent **two naval expeditions** to Ceylon to help a Sri Lankan prince.
+- **Parameshvaravarman I (c. 670–700)** carried titles such as Lokaditya, Ekamalla, Rananjaya, Ugradanda, and related warrior epithets.
 - **Narasimhavarman II (Rajasimha)** built the structural **Shore Temple** at **Mahabalipuram**.
-- **Nandivarman II** belongs to the later Pallava phase before Chola eclipse of Kanchi prestige.
-- Pallava art moved from rock-cut caves (Mahendravarman) to structural stone temples (Rajasimha).
+- **Nandivarman II (c. 731–795)** belongs to the later Pallava phase before Chola eclipse of Kanchi prestige.
+- Pallava chronological spine for arrange stems: **Mahendravarman I → Narasimhavarman I → Parameshvaravarman I → Nandivarman II**.
+- Pallava art moved from rock-cut caves (Mahendravarman) to monolith rathas (Mamalla) to structural stone temples (Rajasimha).
 - The Pallava–Chalukya rivalry centred on the **Krishna–Tungabhadra doab**.
 - Both sides fought for control of **Vatapi** and **Kanchi**.
 
-> ** note:** Shore Temple = **Pallava**, not Chola. Do not swap **Kanchi** with **Kannauj**.
+> ** note:** Shore Temple = **Pallava**, not Chola. Do not swap **Kanchi** with **Kannauj**. **Mahamalla ≠ Chola**.
 
 ### PYQ — Temple chronology (Pallava + Chola)
 
@@ -254,19 +281,29 @@ D. IV, III, I, II
 | Main rival | **Pallavas** | **Cholas** (Vengi + Tungabhadra doab) |
 | End | Overthrown by **Rashtrakutas** (**757**) | Pressed by Hoysalas, Yadavas, later Sultanate |
 
-- **Pulakeshin I** and **Kirtivarman I** built the early Badami base before Pulakeshin II’s fame.
-- **Pulakeshin II** stopped **Harsha** near the **Narmada**.
-- The **Aihole inscription** of **Ravikirti** praises Pulakeshin II.
+- **Pulakeshin I** was the real founder of the **Vatapi / Badami** Chalukya dynasty. **Kirtivarman I** and Mangalesha built the early Badami base before Pulakeshin II’s fame.
+- Present **Badami** (Bagalkot district, Karnataka) is ancient **Vatapi**, Chalukya capital in the 6th–7th centuries.
+- **Pulakeshin II (610–642)** was the most capable Early Chalukya ruler. He stopped **Harsha** near the **Narmada**.
+- The **Aihole inscription** of **Ravikirti** praises Pulakeshin II. At the end of the prasasti, Ravikirti claims fame like **Kalidasa** and **Bharavi** — so **Kalidasa’s name** appears in the Aihole record.
 - **Vikramaditya I** recovered Badami after the Pallava sack of Vatapi.
 - **Vikramaditya II** captured Kanchi and patronised the **Virupaksha temple at Pattadakal**.
 - Eastern Chalukyas of **Vengi** were founded by **Vishnuvardhana**, a branch line of Pulakeshin II.
 - Later Chola–Western Chalukya rivalry repeatedly turned on **Vengi** and the **Tungabhadra doab**.
 - **Pattadakal** (UNESCO) marks the Early Chalukya architectural peak.
 - The queen **Lokmahadevi** built the **Virupaksha temple** at Pattadakal.
+- Chalukyas frequently appointed **women** to high administrative posts. **Vijaya Bhattarika**, queen of Chandraditya (brother of Vikramaditya I), issued copper plates in her own name and ran administration efficiently; she was also a poetess. A royal sister **Kumkumadevi** could recommend a village grant to a learned Brahmana.
+- Chinese writer **Matwalin (Ma-twalin)** gives an account of China–India relations in the Chalukya age.
 - Chalukya origin legends claim **Agnikula** descent from **Ayodhya**.
 - That Ayodhya link is a UP-linked trap in Rajput-origin questions.
 
-> ** note:** Badami ≠ Kalyani. If the option says “Western Chalukya capital = Vatapi,” it is wrong.
+### Kadamba (neighbour fact)
+
+- The **Kadamba** capital was **Vanavasi**.
+- The dynasty was founded by **Mayurasharman**.
+- **Pulakeshin II** annexed the Kadamba state.
+- Kadambas are **not** a Sangam Muvendar house.
+
+> ** note:** Badami ≠ Kalyani. If the option says “Western Chalukya capital = Vatapi,” it is wrong. **Vanavasi = Kadamba**, not Chalukya.
 
 ### PYQ — Western Chalukya vs Chola
 
@@ -325,21 +362,39 @@ D. A false, R true
 
 **Founder:Vijayalaya** took **Thanjavur ~850** | **Span:** c. **850–1279** | **Peak:Rajaraja I (985–1014)** and **Rajendra I (1014–1044)**
 
-- **Vijayalaya** began as a Pallava feudatory before capturing Tanjore and founding the imperial Chola line.
+- After the Sangam Cholas there is a long interregnum until the medieval Cholas rise under **Vijayalaya**.
+- **Vijayalaya** began as a Pallava feudatory before capturing Tanjore and founding the imperial Chola line in the **9th century**.
 - **Aditya I** defeated the Pallavas and expanded Chola power in the Tamil core.
-- **Parantaka I** pushed Chola borders northward but lost to Rashtrakuta **Krishna III in 949**.
+- **Parantaka I** defeated the Madurai king and assumed the title **Maduraikonda**. He pushed Chola borders northward.
+- Chola emperors generally designated a **Yuvraj** (heir) during their own reign.
+
+### Battle of Takkolam (949) — Cause, Course, Result
+
+**Place:** Takkolam | **Chola side:** prince **Rajaditya**, son of **Parantaka I** | **Opponent:** Rashtrakuta **Krishna III** with Western Ganga and related allies
+
+- **Cause:** Chola expansion under Parantaka I collided with Rashtrakuta ambitions in the Tamil–Deccan frontier.
+- **Course:** At **Takkolam in 949**, Krishna III’s confederacy fought Rajaditya. The Chola prince was **killed on the battlefield**.
+- **Result:** The Cholas were defeated and lost northern holdings for a generation. Krishna III later reached Rameshwaram and raised a victory pillar. Chola recovery waited until after Rashtrakuta collapse (**972**).
+
 - After Rashtrakuta collapse (**972**), Cholas re-emerged as the dominant south Indian power.
-- **Rajaraja I** conquered northern **Sri Lanka**, the **Maldives**, and Madurai.
-- **Rajaraja I** built **Brihadishwara (Rajarajesvaram) at Tanjore in 1010**.
-- **Rajendra I** completed Sri Lanka conquest and led the **Ganga expedition (~1022)** to Bengal.
-- **Rajendra I** took the title **Gangaikondachola** and founded **Gangaikondacholapuram**.
+- The golden age opens with **Rajaraja I**. He was the first Chola king to organise a standing **naval army**.
+- **Rajaraja I** defeated the Chera naval force at **Kandalloor**, conquered **northern Sri Lanka** (Anuradhapura destroyed; the south remained independent for a time), took the **Maldives**, and conquered Madurai.
+- **Rajaraja I** and his son **Rajendra I** sent expeditions against the **Sailendra / Srivijaya** world of Southeast Asia when trade toward China was obstructed.
+- **Rajaraja I** built **Brihadishwara (Rajarajesvaram) at Tanjore in 1010** — a peak **Dravida** granite temple with two **dvarapalas** and a colossal single-rock **Nandi** among the tallest in India.
+- **Rajendra I** completed the conquest of **whole Sri Lanka** and brought Sinhala king **Mahendra V** as a prisoner.
+- **Rajendra I** defeated Pala ruler **Mahipala**, took the title **Gangaikondachola**, and founded the new capital **Gangaikondacholapuram**.
+- He built the artificial lake **Chola Gangam (Ponneri)** in memory of the Ganga-basin victory that included Bengal and Kalinga kings.
+- The Chola navy was the strongest in the region and turned the Bay of Bengal into a “**Chola Lake**.”
 - Rajendra’s **1025** naval war hit **Srivijaya** and **Kadaram (Kedah)** after trade obstruction.
-- Chola **bronze Nataraja** icons reached their artistic peak in this imperial age.
+- Chola artists excelled in stone and especially **bronze**. The classic **Nataraja** (dancing Shiva) icons have **four hands**. In the right ear he wears a man’s earring and in the left a woman’s — the **Ardhanarishwara** hint.
+- The **Dakshinamurti** form of Shiva shows him as **guru / teacher** giving knowledge to devotees. The image is installed facing **south**.
 - Chola rulers cut **victory narratives on temple walls** and issued copper plates.
 - That is why sources for the Cholas outrun earlier Tamil dynasties (**UPPCS 2020 Q8**).
-- **Kulottunga I** later consolidated Chola power, but the empire cracked under Pandya–Hoysala–Kakatiya pressure before the **14th-c.** Sultanate blow.
+- **Kulottunga I** consolidated Chola power. In **1077** a Chola mission of **72** merchants / Buddhist traders was sent to **China**.
+- When **Vijayabahu** proclaimed an independent Sinhala island in Kulottunga’s time, Kulottunga did not escalate hostility and married his daughter to Sinhala prince **Virapperumal**.
+- The empire later cracked under Pandya–Hoysala–Kakatiya pressure. Near **1279** Chola power ended under **Rajendra III**; Malik Kafur’s southern campaigns come later (~**1310**).
 
-> ** note:** Father’s temple (**Brihadishwara 1010**) before son’s capital-temple complex (**Gangaikondacholapuram ~1025**). **Rajaraja I = Chola** in 2025 Q121.
+> ** note:** Father’s temple (**Brihadishwara 1010**) before son’s capital-temple complex (**Gangaikondacholapuram ~1025**). **Rajaraja I = Chola** in 2025 Q121. Founder = **Vijayalaya**, not Parantaka.
 
 ### PYQ — Chola sources
 
@@ -373,9 +428,12 @@ D. A false, R true
 
 ## 1.7 Chola Administration
 
-**Hierarchy:** King, then **Mandalam** (province; empire had **4** at peak), then **Valanadu**, then **Nadu**, then the village.
+**Hierarchy:** King → **Mandalam** (province) → **Kottam / Valanadu** → **Nadu** → **Kurram** / village → **Gram Sabha**.
 
-- The four great **mandalam** provinces were roughly **Tondaimandalam**, **Cholamandalam**, **Pandimandalam**, and **Gangapadi/Kongumandalam** at peak.
+- At peak the empire is often counted with about **four** great **mandalam** provinces — roughly **Tondaimandalam**, **Cholamandalam**, **Pandimandalam**, and **Gangapadi / Kongumandalam** (some handbooks count up to six provincial divisions).
+- A province was divided into **Kottam** or **Valanadu** (commissionerate-like units).
+- Each Kottam held several **Nadu** (districts). The assembly of a Nadu was the **Nattar**.
+- The village association could be called **Kurram**. The smallest unit was the **Gram Sabha**.
 - Land revenue was the fiscal core of Chola finance.
 - Village-level surveys and **kudimai / karai** dues funded the state.
 - **Brahmadeya** villages were Brahmana settlements.
@@ -386,27 +444,38 @@ D. A false, R true
 - Temple institutions stored land, cash, and inscription records.
 - Administration and religion were tightly linked through these temple networks.
 
-> ** note:Nadu** is the basic territorial unit; **Mandalam** is the province. Do not reverse them.
+> ** note:Nadu** is the basic territorial unit below Valanadu; **Mandalam** is the province. Do not reverse them.
 
 ---
 
 ## 1.8 Chola Local Self-Government
 
-| Body | Who | Role |
-|------|-----|------|
+**Special feature of the Chola age:** systematic **autonomy of village administration**.
+
+| Body / board | Who / meaning | Role |
+|--------------|---------------|------|
 | **Ur** | General village assembly | Ordinary (non-agrahara) villages |
 | **Sabha / Mahasabha** | Brahmana assembly in **agrahara** villages | Higher autonomy; committee system |
-| **Tank committee** | Elected/selected members | Irrigation works |
-| **Variyam committees** | Functional boards | Gardens, temples, justice, gold, and street upkeep |
+| **Variyam** | Working committee of the Sabha | Supervised village executive work |
+| **Thotta Variyam** | Garden / horticulture board | Gardens and groves |
+| **Samvatsara Variyam** | Annual committee | Yearly oversight |
+| **Eri Variyam** | Tank committee | Lakes, tanks, water supply |
+| **Pon Variyam** | Gold / finance committee | Precious metal and money matters |
 
-- The **Uttaramerur** inscription lays down Sabha membership tests of property, age, learning, and character.
+- The **Uttaramerur** inscription archives how the executive committee of the Gram Sabha worked. Every such village had its own **Sabha**, largely independent of central command for local affairs.
 - Many committee tenures used **lottery / kudavolai** selection instead of open hereditary office.
-- The **garden committee** maintained temple groves and village green spaces.
-- The **temple committee** supervised endowments and ritual expenditure.
-- The **justice committee** handled local disputes under Sabha oversight.
+- Membership tests covered property, age, learning, and character.
 - Local bodies collected dues, maintained tanks, and managed temple lands under royal oversight.
 
-> ** note:Ur ≠ Sabha**. Sabha = Brahmana agrahara assembly with stronger autonomy.
+**Related land / college terms (high-yield pairs):**
+
+| Term | Meaning |
+|------|---------|
+| **Eripatti** | Land whose revenue was set apart for maintenance of the **village tank** |
+| **Taniyur** | A **very large village** administered as a single unit (not “land gifted to one Brahmana”) |
+| **Ghatika** | A college generally attached to a temple |
+
+> ** note:Ur ≠ Sabha**. Sabha = Brahmana agrahara assembly with stronger autonomy. **Taniyur ≠ Brahmadeya gift** in the usual wrong-pair stem.
 
 ---
 
@@ -416,12 +485,13 @@ D. A false, R true
 
 | Target | Ruler | Fact |
 |--------|-------|------|
-| Sri Lanka | Rajaraja I, then Rajendra I | Northern then full-island control |
+| Sri Lanka | Rajaraja I, then Rajendra I | Northern then full-island control; Mahendra V prisoner under Rajendra |
 | Maldives | **Rajaraja I** | Western sea lanes |
+| Chera fleet | **Rajaraja I** | Defeat at **Kandalloor** |
 | Srivijaya / **Kadaram (Kedah)** | **Rajendra I, 1025** | Malay / Sumatra trade choke |
-| China embassies | Chola court | **1016, 1033, 1077** |
+| China embassies / missions | Chola court | **1016, 1033, 1077** (72 traders under **Kulottunga I**, 1077) |
 
-- Merchant guilds such as **Manigramam** and **Nanadesi** backed long-distance trade.
+- Merchant guilds such as **Manigramam**, **Nanadesi**, and **Valanjiyar** backed long-distance trade.
 - **Nagapattinam** served as a major Chola port with Buddhist monastery links to Southeast Asia.
 - Naval power aimed to secure **Indian Ocean trade** in spices, textiles, ivory, and horses.
 - Rajendra I attacked **Srivijaya** in **1025** because Chola merchants faced trade obstruction there.
@@ -429,7 +499,7 @@ D. A false, R true
 - Later Arab and Chinese shipping reduced Indian dominance in the Indian Ocean.
 - The Chola navy was the first Indian empire to project **sustained naval power beyond the subcontinent**.
 
-> ** note:1025 Kadaram / Srivijaya** = **Rajendra I**, not Rajaraja. “Chola Lake” = **Bay of Bengal**.
+> ** note:1025 Kadaram / Srivijaya** = **Rajendra I**, not Rajaraja. “Chola Lake” = **Bay of Bengal**. First standing naval army = **Rajaraja I**.
 
 ### PYQ — “Chola Lake”
 
@@ -703,9 +773,10 @@ D. A false, R true
 - She was a woman ruler recorded under a male royal name.
 - The dynasty is famous for **fort walls**, gateways, and **tank irrigation** networks in Telangana.
 - The Kakatiya capital was **Warangal (Orugallu)**. Do not match it with Yadava **Devagiri**.
+- **Motupalli** was a famous Kakatiya seaport. Marco Polo visited through this port and wrote of Andhra prosperity. Ganapati Deva’s Motupalli charter protected sea merchants.
 - Kakatiya power fell to Delhi Sultanate pressure in the early **14th century**.
 
-> ** note:UPPCS 2019 Q90** — Kakatiya ↔ **Warangal**. **2018 Q96** trap: Warangal was **not** ruled by Ramchandra Dev.
+> ** note:UPPCS 2019 Q90** — Kakatiya ↔ **Warangal**. **Motupalli** = Kakatiya port, not Masulipatnam / Kakinada in the classic stem.
 
 ### PYQ — Rudramadevi
 
@@ -1638,6 +1709,12 @@ D. All three
 
 </details>
 
+**Q45.** Arrange the following events earliest to later:
+
+1. Pulakeshin II stops Harsha near the Narmada
+2. Parantaka I’s Cholas lose at Takkolam to Krishna III
+3. Rajendra I’s Ganga expedition
+
 A. 1-2-3 |
 
 B. 2-1-3 |
@@ -1648,9 +1725,260 @@ D. 1-3-2
 
 <details><summary>Show answer</summary>
 
-**Ans: A (1-2-3)Order:** 1 Pulakeshin II vs Harsha (7th c.) → 2 Parantaka I loses to Krishna III (**949**) → 3 Rajendra I's Ganga expedition (~**1022**)
+**Logic:** 7th-c. Chalukya peak → Takkolam **949** → Rajendra Ganga ~**1022**.
 
-**Trap:949** Rashtrakuta defeat of Parantaka is **before** Rajendra's Ganga expedition.
+**Ans: A (1-2-3).** Pulakeshin II (7th) → Takkolam **949** → Rajendra Ganga expedition (~**1022**).
+
+**Trap:** Placing Rajendra before Takkolam.
+
+</details>
+
+---
+
+**Q46.** Who among the following laid the foundation of the imperial Chola empire in the 9th century CE?
+
+A. Krishna I
+B. Rajaraja Chola
+C. Vijayalaya
+D. Parantaka
+
+<details><summary>Show answer</summary>
+
+**Logic:** Founder vs peak rulers vs Maduraikonda title-holder.
+
+**Ans: C.** **Vijayalaya** took Thanjavur ~**850** and founded the imperial line.
+
+**Trap:** Choosing **Parantaka** (Maduraikonda) or **Rajaraja** (navy / Brihadishwara).
+
+</details>
+
+---
+
+**Q47.** During Chola rule, which Variyam looked after garden administration?
+
+A. Pon Variyam
+B. Eri Variyam
+C. Thotta Variyam
+D. Samvatsara Variyam
+
+<details><summary>Show answer</summary>
+
+**Logic:** Named Variyam boards from Uttaramerur-type local government.
+
+**Ans: C.** **Thotta Variyam** = horticulture / gardens. **Eri** = tanks; **Pon** = gold; **Samvatsara** = annual.
+
+**Trap:** Swapping Eri (tanks) with Thotta (gardens).
+
+</details>
+
+---
+
+**Q48.** Consider the following pairs:
+
+| Term | Description |
+|------|-------------|
+| 1. Eripatti | Land revenue set apart for village-tank maintenance |
+| 2. Taniyur | Villages donated to a single Brahmana or group of Brahmanas |
+| 3. Ghatika | College generally attached to a temple |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details><summary>Show answer</summary>
+
+**Logic:** Classic IAS-style term pairs; Taniyur is the usual wrong description.
+
+**Ans: D.** **Eripatti** and **Ghatika** are correct. **Taniyur** is a **very large village administered as a single unit**, not a Brahmadeya gift.
+
+**Trap:** Accepting the Brahmana-gift wording for Taniyur.
+
+</details>
+
+---
+
+**Q49.** The Battle of Takkolam (949) was fought between?
+
+A. Chola and Northern Chalukyas
+B. Chola and Rashtrakutas
+C. Chola and Hoysala
+D. Chola and Pandya
+
+<details><summary>Show answer</summary>
+
+**Logic:** Cause–course of Chola setback under Parantaka I.
+
+**Ans: B.** Rashtrakuta **Krishna III** (with Ganga allies) defeated and killed Chola prince **Rajaditya** at Takkolam.
+
+**Trap:** Naming Pandya or Hoysala as the 949 opponent.
+
+</details>
+
+---
+
+**Q50.** Which of the following statements about Rajendra I is/are correct?
+
+1. He founded Gangaikondacholapuram and took the title Gangaikondachola.
+2. He converted the Bay of Bengal into a “Chola Lake” through naval supremacy.
+3. He built the artificial lake known as Chola Gangam.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Logic:** Capital, nickname, and lake — all Rajendra, not Rajaraja.
+
+**Ans: D.** All three are correct.
+
+**Trap:** Assigning Chola Gangam or “Chola Lake” to Rajaraja I.
+
+</details>
+
+---
+
+**Q51.** In whose reign were 72 traders sent to China (1077)?
+
+A. Kulottunga I
+B. Rajendra I
+C. Rajaraja I
+D. Rajadhiraja I
+
+<details><summary>Show answer</summary>
+
+**Logic:** China mission year **1077** under later Chola consolidation.
+
+**Ans: A.** **Kulottunga I** sent the mission of **72** merchants / Buddhist traders.
+
+**Trap:** Parking every China contact under Rajaraja or Rajendra alone.
+
+</details>
+
+---
+
+**Q52.** Bronze icons of Nataraja cast in the Chola period invariably show the deity with:
+
+A. Eight hands
+B. Six hands
+C. Four hands
+D. Two hands
+
+<details><summary>Show answer</summary>
+
+**Logic:** Iconographic hand-count of the classic Chola bronze.
+
+**Ans: C.** Classic Chola **Nataraja** bronzes have **four** hands.
+
+**Trap:** Choosing six or eight from other multi-armed Shiva forms.
+
+</details>
+
+---
+
+**Q53.** The ‘Dakshinamurti’ idol of Shiva depicts him in which form?
+
+A. Teacher
+B. Dancing
+C. Reclining
+D. Meditating
+
+<details><summary>Show answer</summary>
+
+**Logic:** Dakshinamurti vs Nataraja confusion.
+
+**Ans: A.** **Dakshinamurti** = Shiva as **guru / teacher**, installed facing **south**. Dancing form = **Nataraja**.
+
+**Trap:** Equating Dakshinamurti with Nataraja.
+
+</details>
+
+---
+
+**Q54.** Arrange the following Pallava rulers in correct chronological order:
+
+1. Parameshvaravarman I
+2. Narasimhavarman I
+3. Nandivarman II
+4. Mahendravarman I
+
+A. 4, 2, 1, 3
+B. 4, 3, 1, 2
+C. 1, 3, 2, 4
+D. 3, 2, 1, 4
+
+<details><summary>Show answer</summary>
+
+**Logic:** Mahendra → Mamalla → Parameshvara → Nandivarman II.
+
+**Ans: A.** Mahendravarman I → Narasimhavarman I → Parameshvaravarman I → Nandivarman II.
+
+**Trap:** Placing Nandivarman II before Narasimhavarman I.
+
+</details>
+
+---
+
+**Q55.** Which of the following statements is/are correct?
+
+1. Women were appointed to high posts in Chalukya administration.
+2. The name of poet Kalidasa is mentioned in the Aihole inscription of Pulakeshin II.
+3. The capital of Kadamba kings was Vanavasi.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Logic:** Chalukya women admins, Ravikirti’s Aihole claim, Kadamba seat.
+
+**Ans: D.** All three are correct. Ravikirti compares himself to **Kalidasa** and **Bharavi**.
+
+**Trap:** Making Vanavasi a Chalukya capital (it is **Kadamba**).
+
+</details>
+
+---
+
+**Q56.** Which one of the following was a very important seaport in the Kakatiya kingdom?
+
+A. Kakinada
+B. Motupalli
+C. Machilipatnam
+D. Nelluru
+
+<details><summary>Show answer</summary>
+
+**Logic:** Kakatiya overseas door vs later Andhra ports.
+
+**Ans: B.** **Motupalli** was the Kakatiya trading seaport visited by Marco Polo.
+
+**Trap:** Choosing Masulipatnam or Kakinada from later coastal fame.
+
+</details>
+
+---
+
+**Q57.** Which of the following pairs (south Indian state and capital) is **not** correctly matched?
+
+A. Pallava — Kanchipuram
+B. Pandya — Madurai
+C. Chera — Puducherry
+D. Chola — Thanjavur
+
+<details><summary>Show answer</summary>
+
+**Logic:** Chera capital identity.
+
+**Ans: C.** Chera capital is **Vanchi / Karuvur (Karur)**, not Puducherry.
+
+**Trap:** Parking Cheras at Pondicherry because Arikamedu is nearby.
 
 </details>
 
@@ -1866,3 +2194,13 @@ D. A-2, B-3, C-4, D-1
 18. **Rudramadevi** ruled the Kakatiyas and was recorded in inscriptions as **Rudradeva**.
 19. **Agrahara** grants were **tax-free** villages, not heavily taxed Brahmana settlements.
 20. **Chennakesava** is at **Belur (Hoysala)**; **Hoysalesvara** is at **Halebid**.
+21. Imperial Chola founder is **Vijayalaya (~850)**, not Rajaraja or Parantaka; **Maduraikonda** = Parantaka I.
+22. **Takkolam 949** = Rashtrakuta **Krishna III** vs Chola **Rajaditya** — not Pandya or Hoysala.
+23. **Thotta Variyam** = gardens; **Eri** = tanks; **Pon** = gold — do not swap.
+24. **Taniyur** ≠ Brahmadeya gift; it is a large single-unit village. **Eripatti** = tank-maintenance land.
+25. **Nataraja** = four-handed dancing Shiva; **Dakshinamurti** = teacher facing south.
+26. Northern Sri Lanka = **Rajaraja I**; whole island + Mahendra V = **Rajendra I**.
+27. **72 traders to China (1077)** = **Kulottunga I**, not Rajendra alone.
+28. **Chera capital ≠ Puducherry** → **Vanchi / Karuvur**. **Vanavasi** = Kadamba, not Chalukya.
+29. **Motupalli** = Kakatiya port; Aihole names **Kalidasa** via Ravikirti’s boast.
+30. First standing Chola navy = **Rajaraja I**; “Chola Lake” / Chola Gangam = **Rajendra I**.
