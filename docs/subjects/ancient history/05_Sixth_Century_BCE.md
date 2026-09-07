@@ -78,7 +78,7 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 ## Books and Writers — Sixth Century BCE
 
-**Match-list home | named texts of the mahajanapada age**
+**Book–writer pairs | named texts of the mahajanapada age**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -307,13 +307,31 @@ A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
 
 **Who ate whom — Magadha wins the century**
 
-- Early ranking puts **Kashi** first among equals. Then **Kosala** eclipses Kashi. Then **Magadha** eclipses everyone.
-- **Bimbisara** first swallows **Anga** and its Champa port. His marriages buy peace with Kosala (the **Kashi dowry**), with the Licchavis, and with Madra.
-- **Ajatashatru** kills Bimbisara, then fights Kosala over Kashi. Settlement comes when he marries **Vajira**, Prasenajit’s daughter.
-- He then fights a **~16-year** war on **Vajji**. War-engines are the **rathamusala** (scythed chariot) and the **mahashilakantaka** (stone-thrower).
-- Minister **Vassakara**, with **Sunidha**, sows discord in the Licchavi assembly. They fortify **Pataligrama**, the seed of Pataliputra.
+Sixteenth-century BCE politics is a chain of stronger states swallowing weaker ones. **Magadha** finishes on top.
+
+### Early ranking
+
+- Early ranking puts **Kashi** first among equals.
+- Then **Kosala** eclipses Kashi.
+- Then **Magadha** eclipses everyone.
+
+### Magadha’s bites
+
+- **Bimbisara** first swallows **Anga** and its Champa port.
+- His marriages buy peace with Kosala (the **Kashi dowry**), with the Licchavis, and with Madra.
+- **Ajatashatru** kills Bimbisara, then fights Kosala over Kashi.
+- Settlement comes when he marries **Vajira**, Prasenajit’s daughter.
+- He then fights a **~16-year** war on **Vajji**. Full Cause → Course → Result sits in §5.5a.
+- War-engines are the **rathamusala** (scythed chariot) and the **mahashilakantaka** (stone-thrower).
+- Minister **Vassakara**, with **Sunidha**, sows discord in the Licchavi assembly.
+- They fortify **Pataligrama**, the seed of Pataliputra.
+
+### What Magadha does not finish first
+
 - **Vidudabha** of Kosala destroys Kapilavastu and the Shakyas. That is Kosala internal, not Magadha.
-- **Avanti** under Pradyota stays independent until **Shishunaga**. Vatsa is usually tied by marriage, not by a first conquest. Gana-sanghas fall last.
+- **Avanti** under Pradyota stays independent until **Shishunaga**.
+- Vatsa is usually tied by marriage, not by a first conquest.
+- Gana-sanghas fall last.
 - Gandhara and Kamboja meet **Persia then the Greeks**, not Magadha first.
 - The **Nandas** roll leftover Kuru, Panchala, and Kalinga into one Gangetic empire. Then the Mauryas.
 
@@ -411,17 +429,29 @@ A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
 
 **Minister’s house | Avanti ends here | ~413–345 BCE**
 
-- **Shishunaga** is an ex-viceroy of Kashi. Some tellings call him a people’s choice.
+The Shishunagas take Magadha after the Haryanka weak tail. Their territorial prize is **Avanti**.
+
+### Rise and capitals
+
+- **Shishunaga** is an ex-viceroy of Kashi.
+- Some tellings call him a people’s choice.
 - He is often said to have sat first at **Vaishali**, then returned the court to **Pataliputra**.
-- When he made Vaishali his capital, tradition remembers a son as deputy-king at **Varanasi** — the “second capital” stem some papers accept for Shishunaga.
-- He crushes **Avanti** of the Pradyota line (Malwa enters Magadha).
+- When he made Vaishali his capital, tradition remembers a son as deputy-king at **Varanasi**.
+- That “second capital” reading is the stem some papers accept for Shishunaga.
+- Rajgir stays a second city, not the capital of record.
+
+### Avanti and Kalashoka
+
+- He crushes **Avanti** of the Pradyota line. Malwa enters Magadha.
 - Ujjain enters Magadha. That is the dynasty’s territorial fact.
 - **Kalashoka / Kakavarna** holds the **Second Buddhist Council at Vaishali**, about **383 BCE**.
 - The split at that council is **Sthavira / Mahasanghika**.
 - The **king’s name** on the paper is Kalashoka.
+
+### End of the house
+
 - Puranic count gives ten Shishunagas.
 - The last is often **Nandivardhana / Mahanandin**, overthrown by **Mahapadma Nanda**.
-- Rajgir stays a second city, not the capital of record.
 
 > ** note:** Shishunaga did **not** found Pataliputra. He **did** take Avanti. Kalashoka is not the First Council.
 

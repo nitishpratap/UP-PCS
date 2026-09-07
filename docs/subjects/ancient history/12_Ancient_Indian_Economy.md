@@ -72,7 +72,7 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 ## Books and Writers — Economy Sources
 
-**Match-list home | trade handbooks and statecraft**
+**Book–writer pairs | trade handbooks and statecraft**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -87,15 +87,26 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 ## 12.1 Economy
 
-**Agri + craft + trade | type changes by age | 2020 match lives here too**
+**Agriculture, craft, and trade | the economic type changes by age**
+
+Each age has a different economy label. Hold the match spine first, then the period facts.
+
+### Match spine
+
+- IVC = **Urban**
+- Rigvedic = **Pastoral**
+- Later Vedic = **Agrarian**
+- Medieval slot in the 2020 paper = landlordism
+
+### Period by period
 
 - The Indus economy is **urban** craft and trade. It uses cubical **weights** and **seals**. It has **no coins**.
 - The Rigvedic economy is **pastoral**. Wealth sits in cattle. The **nishka** is a gold piece or ornament. It is not a minted coin.
-- The Later Vedic economy is **agrarian**. **Bali** and **bhaga** appear as dues. Punch-marked coins appear in the **mahajanapada** age, after the Vedic phase.
+- The Later Vedic economy is **agrarian**. **Bali** and **bhaga** appear as dues.
+- Punch-marked coins appear in the **mahajanapada** age, after the Vedic phase.
 - From about the **sixth century BCE**, towns, **NBPW**, and **punch-marked silver** appear with long-distance trade.
 - The Mauryan state taxes trade. The weights officer is the ***pautavadhyaksha***.
 - The Gupta age shows land grants, guilds, and gold prestige. Daily markets still use silver and copper.
-- The standard economy match is: IVC = **Urban**, Later Vedic = **Agrarian**, Rigvedic = **Pastoral**, medieval slot = landlordism.
 
 **PYQ — UPPCS Prelims 2020, Q21**
 

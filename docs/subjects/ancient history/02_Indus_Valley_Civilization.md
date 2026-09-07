@@ -78,11 +78,16 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - **Mature Harappan** (~2600–1900 BCE): planned cities, seals, weights, long-distance trade. This is what papers mean by “IVC.”
 - **Late Harappan** (~1900–1300 BCE): de-urbanisation; Cemetery-H, Jhukar, Lustrous Red Ware (Rangpur); OCP overlap in the doab.
 - Spread about **12.5–13 lakh km²**. West–east roughly Sutkagen-dor to Alamgirpur; north–south Manda to Daimabad.
-- **West:** Sutkagen-dor (Makran). **East:Alamgirpur** (Meerut, UP). **North:Manda** (Jammu, Chenab). **South:Daimabad** (Maharashtra).
-- About **1400+** sites known; under **100** fully excavated. Core cluster in Pakistan + Haryana–Rajasthan–Gujarat.
-- Origin: **indigenous** growth from Mehrgarh / Early Harappan is the standard view. Mesopotamian-colony theory is outdated.
-- Decline ~1900 BCE: climate shift, Ghaggar drying, floods, overuse of land. **Wheeler’s Aryan-invasion massacre** at Mohenjo-daro is **rejected**. No single agreed cause.
-- Economy type in match-lists = **Urban** (not pastoral). Pastoral = Rigvedic.
+- **West:** Sutkagen-dor (Makran coast).
+- **East:** Alamgirpur (Meerut, UP).
+- **North:** Manda (Jammu, on the Chenab).
+- **South:** Daimabad (Maharashtra).
+- About **1400+** sites are known. Under **100** are fully excavated.
+- The core cluster sits in Pakistan plus Haryana–Rajasthan–Gujarat.
+- Origin is **indigenous** growth from Mehrgarh / Early Harappan. The Mesopotamian-colony theory is outdated.
+- Decline starts about **1900 BCE**. Causes include climate shift, Ghaggar drying, floods, and overuse of land.
+- **Wheeler’s Aryan-invasion massacre** at Mohenjo-daro is **rejected**. There is no single agreed cause.
+- Economy type in match-lists is **Urban** (not pastoral). Pastoral = Rigvedic.
 
 > ** note:** Eastern boundary = **Alamgirpur**, not Rakhigarhi. IVC economy type = **Urban** (Rigvedic = pastoral).
 
@@ -569,11 +574,19 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 ## 2.14 Script
 
-- **Undeciphered.** About **400–600** signs; most texts **5–6** signs; longest often cited **26** signs (Harappa) plus the **Dholavira signboard** (~10 large signs).
-- On seals, copper tablets, pottery, bangles. No long literary book.
-- Direction: generally **right to left**; some lines **boustrophedon** (alternate like a ploughed field).
-- No bilingual (no Rosetta Stone). Dravidian vs Indo-Aryan readings exist; **neither is proved**.
-- Appears fully in **Mature** phase; thins out in Late Harappan.
+**Undeciphered Harappan signs | short texts | no Rosetta Stone**
+
+- The Harappan script is **undeciphered**.
+- There are about **400–600** signs.
+- Most texts are only **5–6** signs long.
+- The longest seal-text is often cited at about **26** signs (Harappa).
+- The **Dholavira signboard** carries about **10** large signs.
+- Writing appears on seals, copper tablets, pottery, and bangles.
+- There is no long literary book.
+- Direction is generally **right to left**. Some lines are **boustrophedon** (alternate like a ploughed field).
+- There is no bilingual key like a Rosetta Stone.
+- Dravidian and Indo-Aryan readings both exist. **Neither is proved**.
+- The script appears fully in the **Mature** phase and thins out in Late Harappan.
 
 > ** note:** “Script has been read as Sanskrit” = false. Signboard = **Dholavira**.
 
@@ -581,13 +594,19 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 ## 2.15 Seals
 
-- Square/rectangular **steatite**, ~2–4 cm; carved **intaglio**; then fired.
-- Animal below, **script above**. Reverse has a boss for a cord. Clay **sealings** on packages and doors.
-- **Unicorn** = **most common**. Then humped bull; also buffalo, elephant, rhino, tiger, goat; rare composite monsters.
-- **Pashupati** seal is the religious celebrity, not the statistical majority.
-- Function: identity + cargo control + amulet — **not coins**.
-- Harappan seals in Mesopotamia = trade, not conquest.
-- Horse is **not** the standard seal animal (that trap confuses unicorn with horse).
+**Steatite stamps | trade and identity | unicorn is the common animal**
+
+- Seals are square or rectangular **steatite**, about **2–4 cm**.
+- They are carved **intaglio**, then fired.
+- An animal sits below. **Script** sits above.
+- The reverse has a boss for a cord.
+- Clay **sealings** closed packages and doors.
+- The **unicorn** is the **most common** animal type.
+- Next comes the humped bull. Buffalo, elephant, rhino, tiger, goat, and rare composite monsters also appear.
+- The **Pashupati** seal is the religious celebrity. It is **not** the statistical majority.
+- Function is identity, cargo control, and amulet use. Seals are **not coins**.
+- Harappan seals in Mesopotamia prove **trade**, not conquest.
+- The horse is **not** the standard seal animal. Do not confuse unicorn with horse.
 
 > ** note:** Material = **steatite**. Unicorn ≠ horse.
 
@@ -595,11 +614,16 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 ## 2.16 Weights and Measures
 
-- Cubical weights of **chert / jasper / black stone**, same system from Afghanistan to Maharashtra.
-- Series: **1, 2, 4, 8, 16, 32, 64…** then bigger decimal jumps (**160, 200, 320, 640…**). one-liner: **16** is the key ratio.
-- Smallest unit often ~**0.85 g**.
-- Length: shell/ivory **scale** at Mohenjo-daro; another at Lothal. Cubit-like units debated.
-- No gold punch-marked coins (those are later Janapada/Mahajanapada).
+**Cubical stone weights | binary then decimal series | not coined money**
+
+- Weights are cubical stones of **chert / jasper / black stone**.
+- The same system runs from Afghanistan to Maharashtra.
+- The series runs **1, 2, 4, 8, 16, 32, 64…**, then bigger decimal jumps (**160, 200, 320, 640…**).
+- The key ratio to remember is **16**.
+- The smallest unit is often about **0.85 g**.
+- Length is measured with shell or ivory **scales** at Mohenjo-daro and Lothal.
+- Cubit-like units are debated.
+- There are **no** gold punch-marked coins here. Those belong to later Janapada / Mahajanapada times.
 
 > ** note:** Weights = **stone cubes**, not minted coins.
 

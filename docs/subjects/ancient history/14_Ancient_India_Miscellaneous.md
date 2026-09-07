@@ -78,7 +78,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 ## Books and Writers — Miscellaneous
 
-**Match-list home | historiography four + medical samhitas**
+**Book–writer pairs | historiography four + medical samhitas**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -277,10 +277,17 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 **Charvaka / Lokayata | perception only | not the physician Charaka**
 
-- Indian materialism in the is the **Charvaka** school.
-- It is also called **Lokayata** and **Brihaspatya**.
+Indian materialism is the **Charvaka** school. Papers also call it **Lokayata** and **Brihaspatya**. Do not confuse it with the physician **Charaka**.
+
+### Names and sources
+
 - The putative sutra-author in the tradition is **Brihaspati**.
 - Surviving lines are mostly quotations in opponents’ books, such as Madhava’s *Sarvadarshanasamgraha*.
+- The school as a living *matha* **dies out**.
+- We meet it as a **refuted** position in Nyaya, Vedanta, and Buddhist texts.
+
+### What Charvaka accepts and rejects
+
 - The only **pramana** accepted is **pratyaksha**, direct perception.
 - Inference and verbal testimony are rejected as proofs of unseen things.
 - There is no lasting **atman**.
@@ -292,8 +299,6 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - The stock image is intoxication arising when ingredients mix.
 - Ethics in the hostile summaries say enjoy this world.
 - The “debt for ghee” taunt is the quote papers recycle.
-- The school as a living *matha* **dies out**.
-- We meet it as a **refuted** position in Nyaya, Vedanta, and Buddhist texts.
 
 ### Neighbours, not the same school
 
@@ -302,7 +307,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - **Nyaya** (Gautama) and **Vaisheshika** (Kanada) are orthodox *darshanas*. They are not Charvaka.
 - The correct pair is **Nyaya — Gautama**. Vaisheshika is **Kanada**, not Patanjali. Mimamsa is not Kanada. Uttara Mimamsa (Vedanta) is not Kapila (Kapila is Samkhya).
 
-> ** note:Charvaka ≠ Charaka**. Charaka writes Ayurveda. Charvaka denies the unseen. Mixing the two names is the cheap trap.
+> ** note:** Charvaka ≠ Charaka. Charaka writes Ayurveda. Charvaka denies the unseen. Mixing the two names is the cheap trap.
 
 ---
 
@@ -378,7 +383,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - Longest and widest Kakatiya rule. Coast to interior: Godavari–Krishna country.
 - Moves the political weight firmly onto **Warangal** fort.
 - **Motupalli** (Andhra coast): issues an **abhaya-shasana** — a safety-charter for sea merchants.
-- Marco Polo later calls the port **Mutfili**. The foreign-trade fact lives here.
+- Marco Polo later calls the port **Mutfili**. Keep that foreign-trade fact with Kakatiya Motupalli.
 - No son who can hold the line. He settles the succession on his **daughter**.
 
 ### Rudrama Devi (c. 1262–1289/96)

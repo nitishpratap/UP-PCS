@@ -92,7 +92,7 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ## Books and Writers — Post-Mauryan Age
 
-**Match-list home | book → writer | Shunga / Satavahana / Kushan / Sangam**
+**Book–writer pairs | book → writer | Shunga / Satavahana / Kushan / Sangam**
 
 | Book / text | Writer / authority | Horizon / use |
 |-------------|--------------------|---------------|
@@ -122,25 +122,47 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ## 8.1 Post-Mauryan Period
 
-**185 BCE to Gupta rise ~320 CE | no pan-Indian empire | foreign wave in the NW**
+**185 BCE to Gupta rise ~320 CE | Magadha after the Mauryas | no single pan-Indian empire**
 
-- The last Mauryan **Brihadratha** is killed by general **Pushyamitra Shunga** in **185 BCE**. The north splits. The Deccan has Satavahanas. The deep south has Sangam Muvendar. The NW door runs Indo-Greeks, then Shakas, then Parthians, then Kushans.
+After **185 BCE** India has several power centres at once. Magadha passes to the **Shungas**. The Deccan has the **Satavahanas**. The deep south has the Sangam **Muvendar**. The northwest door sees Indo-Greeks, then Shakas, then Parthians, then Kushans.
 
 ### Pushyamitra Shunga coup (185 BCE) — Cause, Course, Result
 
-**Victim:** last Mauryan **Brihadratha** | **Actor:** Mauryan general **Pushyamitra ShungaCause:** The Mauryan empire had weakened after **Ashoka**. The last king **Brihadratha** could not hold the army or the treasury.
-**Course:** General **Pushyamitra Shunga** killed **Brihadratha** at a review and seized Magadha. Buddhist tradition is hostile, but **Sanchi** still grew in this age.
+**Victim:** last Mauryan **Brihadratha** | **Actor:** Mauryan general **Pushyamitra Shunga**
+
+**Cause:** The Mauryan empire had weakened after **Ashoka**. The last king **Brihadratha** could not hold the army or the treasury.
+
+**Course:** General **Pushyamitra Shunga** killed **Brihadratha** at a military review and seized Magadha. Buddhist tradition is hostile to him, but **Sanchi** still grew in this age.
+
 **Result:** The **Mauryan empire ended** in **185 BCE**. The **Shunga dynasty** ruled Magadha until **73 BCE**. Pushyamitra performed **two ashwamedhas**, recorded at **Ayodhya** — not Besnagar or Hathigumpha.
-- chronology for the northwest trio is **Greeks — Sakas — Kushans** (Parthians are often dropped in match-lists).
 
-- The **Shungas** last **185–73 BCE**. Magadha is the capital. **Vidisha** is a second centre. Coaching memory also ties Shunga ancestry to **Ujjain**. There is a Brahmanical revival.
-- Pushyamitra performs two **ashwamedha** rites. The **Ayodhya inscription** of **Dhanadeva** records those two — not Besnagar, Hathigumpha, or Sarnath.
-- **Agnimitra** is Pushyamitra’s son. Kalidasa’s *Malavikagnimitra* uses him. **Patanjali** of the *Mahabhashya* is placed in this court in tradition. He is **not** a Kanishka-court scholar.
-- Buddhist books are hostile, yet Sanchi is still enlarged in this age. **Bharhut** stupa railings are a classic **Shunga** sculpture fact. The last Shunga **Devabhuti** is killed by **Vasudeva Kanva**.
+### How the northwest order is remembered
 
-- The **Kanvas** last **73–28 BCE**. They are a short Magadha house after the Shungas. Puranic memory says the last Kanva **Susharma** falls to an Andhra / Satavahana founder (**Simuka**). Then the north is open to later local and foreign powers.
+- Match-lists often use the short trio **Greeks → Sakas → Kushans**.
+- **Parthians** sit between Shakas and Kushans in fuller teaching. Papers sometimes drop them.
 
-- Kharavela’s **Hathigumpha** is the next south/Kalinga card. **Heliodorus** at Besnagar is a Bhagavata Greek ambassador. He is not Pushyamitra’s ashwamedha record.
+### Shunga house (185–73 BCE)
+
+- The capital is **Magadha**. **Vidisha** is a second centre. Coaching memory also ties Shunga ancestry to **Ujjain**.
+- There is a Brahmanical revival under this house.
+- Pushyamitra performs two **ashwamedha** rites. The **Ayodhya inscription** of **Dhanadeva** records those two.
+- Do not place those ashvamedhas at Besnagar, Hathigumpha, or Sarnath.
+- **Agnimitra** is Pushyamitra’s son. Kalidasa’s *Malavikagnimitra* uses him.
+- **Patanjali** of the *Mahabhashya* is placed in this court in tradition. He is **not** a Kanishka-court scholar.
+- Buddhist books are hostile, yet Sanchi is still enlarged in this age.
+- **Bharhut** stupa railings are a classic **Shunga** sculpture fact.
+- The last Shunga **Devabhuti** is killed by **Vasudeva Kanva**.
+
+### Kanva house (73–28 BCE)
+
+- The Kanvas are a short Magadha house after the Shungas.
+- Puranic memory says the last Kanva **Susharma** falls to an Andhra / Satavahana founder (**Simuka**).
+- After that, the north is open to later local and foreign powers.
+
+### Two inscriptions not to swap
+
+- Kharavela’s **Hathigumpha** is the Kalinga card. It is not Pushyamitra’s ashvamedha record.
+- **Heliodorus** at Besnagar is a Bhagavata Greek ambassador. He is also not the ashvamedha record.
 
 **PYQ — UPPCS Prelims 2018, Q91**
 
@@ -220,30 +242,46 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 ## 8.3 South Indian History
 
-**Peninsula below the Vindhyas | Kalinga + Tamilakam + later match-list housesKharavela (Kalinga, Chedi)**
+**Peninsula below the Vindhyas | Kalinga under Kharavela | megalithic south | Sangam Tamilakam**
+
+This card covers three south layers. First comes **Kharavela** of Kalinga. Then come Iron Age **megaliths**. Then Ashoka’s RE II names the Tamil neighbours who stay independent.
+
 ### Kharavela — Hathigumpha Campaigns (Cause, Course, Result)
 
 **Source:** Hathigumpha inscription, Udayagiri | **Dynasty:** Mahameghavahana / Chedi | **Religion:** Jain
 
-**Cause:** Kalinga sought independence, trade prestige, and recovery of cult images after Nanda/Mauryan pressure.
-**Course:** The inscription records recovery of a **Jina image** carried off by a **Nanda** king; military expeditions toward **Magadha** and the **south**; gifts to monks and public works.
+**Cause:** Kalinga sought independence, trade prestige, and recovery of cult images after Nanda and Mauryan pressure.
+
+**Course:** The inscription records recovery of a **Jina image** carried off by a **Nanda** king. It also records military expeditions toward **Magadha** and the **south**, plus gifts to monks and public works.
+
 **Result:** Kharavela is the strongest **post-Mauryan Kalinga** ruler in epigraphy. **Hathigumpha** = Kharavela.
 
+### Kharavela — identity facts
 
-- Source: **Hathigumpha** inscription, **Udayagiri**, Odisha.
+- The source is the **Hathigumpha** inscription at **Udayagiri**, Odisha.
 - **Hathigumpha** belongs to **Kharavela** of Kalinga. Ashoka, Harsha, and Kanishka have **other** inscriptions.
-- Jain patron. Caves at **Udayagiri (18)** and **Khandagiri (15)**. Hathigumpha is at **Udayagiri**, not Khandagiri.
-- Boasts of campaigns and of recovering a Jina image. Dynasty label is **Mahameghavahana / Chedi**.
+- He is a Jain patron.
+- Caves stand at **Udayagiri (18)** and **Khandagiri (15)**.
+- Hathigumpha itself is at **Udayagiri**, not Khandagiri.
+- The dynasty label is **Mahameghavahana / Chedi**.
 
-**Megalithic south**
-- **Megalithic** cultures are Iron Age burial traditions of the peninsula and parts of central India. They predate and underlie the Sangam polities.
+### Megalithic south
+
+- **Megalithic** cultures are Iron Age burial traditions of the peninsula and parts of central India.
+- They predate and underlie the Sangam polities.
 - Burial types include **dolmens**, **cists**, stone circles, capstones, and **hero stones (virakkal / nadukal)** for warriors.
-- Pottery is often **black-and-red ware (BRW)**. Iron tools and weapons appear in the graves.
-- Major sites include **Brahmagiri**, **Adichanallur**, **Maski**, **Hallur**, **Nevasa**, and **Piklihal**. Brahmagiri links megalithic layers to early historic transitions.
-- **PGW** = Later Vedic **doab**. **Megaliths** = mainly **south and Deccan** Iron Age burials.
-- Grave goods can include pottery, iron weapons, gold, and beads. Some sites show communal or family burials under large stone slabs.
+- Pottery is often **black-and-red ware (BRW)**.
+- Iron tools and weapons appear in the graves.
+- Major sites include **Brahmagiri**, **Adichanallur**, **Maski**, **Hallur**, **Nevasa**, and **Piklihal**.
+- Brahmagiri links megalithic layers to early historic transitions.
+- **PGW** is Later Vedic **doab** ware. **Megaliths** are mainly **south and Deccan** Iron Age burials.
+- Grave goods can include pottery, iron weapons, gold, and beads.
+- Some sites show communal or family burials under large stone slabs.
 
-**Ashoka’s RE II** names Chola, Pandya, Keralaputra, Satiyaputra as **independent neighbours**, not Mauryan provinces.
+### Ashoka’s southern neighbours
+
+- Rock Edict **II** names Chola, Pandya, Keralaputra, and Satiyaputra as **independent neighbours**.
+- They are **not** Mauryan provinces.
 
 **PYQ — UPPCS Prelims 2018, Q16**
 
@@ -448,12 +486,27 @@ D. Sakas — Kushans — Greeks
 
 ## 8.9a Sangam Wars and Inter-State Politics
 
-- Sangam **Puram** poetry records wars among **Chera, Chola, and Pandya** — the **Muvendar** trio.
-- The **Cholas** under **Karikala** fought rivals and built the **Kallanai** dam; they are **not** the imperial Cholas of Rajaraja I.
+**Chera–Chola–Pandya rivalry | Puram war poems | not the later imperial Cholas**
+
+Sangam **Puram** poetry remembers constant wars among the **Muvendar** — **Chera**, **Chola**, and **Pandya**. These are early historic Tamil kings, not the later imperial Cholas of Rajaraja I.
+
+### Cause
+
+- Three crowns competed for river land, ports, and prestige in Tamilakam.
+- Hill and border **velir** chiefs fought under or against the great kings.
+
+### Course — named kings
+
+- **Karikala** of the Cholas fought rivals and built the **Kallanai** dam on the Kaveri.
 - **Nedunjeliyan** of the Pandyas appears in war poems such as the **Purananuru**.
-- **Senguttuvan** of the Cheras is linked to the west-coast pepper trade and **Kannagi / Pattini** legend in *Silappadikaram*.
-- Sub-chiefs called **velir** held hill and border territories under the great kings.
+- **Senguttuvan** of the Cheras is linked to the west-coast pepper trade.
+- The same Chera house is tied to the **Kannagi / Pattini** legend in *Silappadikaram*.
+
+### Result / custom
+
+- Victory brought tribute, cattle, and fame in Puram verse.
 - When a king lost in battle, **Vattakirutal** could follow — ritual fasting unto death.
+- Do not confuse Sangam Karikala with later **Rajaraja I**.
 
 ## 8.10 Later South — 2025 match only
 

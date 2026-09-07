@@ -92,7 +92,7 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 ## Books and Writers — Gupta Age
 
-**Match-list home | literature + science | later pairs kept for 2025-style stems**
+**Book–writer pairs | literature + science | later pairs kept for 2025-style stems**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -158,17 +158,30 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 **Son of Chandragupta I | ~335–375 CE | digvijaya | source = Prayag Prashasti**
 
-- Accession follows Chandragupta I. Court poet is **Harishena**.
+Samudragupta’s wars are remembered as a **digvijaya**. The main source is the **Prayag / Allahabad Prashasti** of court poet **Harishena**.
+
+### Who he is
+
+- Accession follows Chandragupta I.
 - He is called *Lichchhavi-dauhitra* (daughter’s son of the Lichchhavis) on the Allahabad shaft, because mother **Kumaradevi** was a Lichchhavi princess.
 - **V. A. Smith** in *The Early History of India* called him the **Napoleon of India** for his campaigns.
 - The poet-king pose is *kaviraja*. The **lyrist / veena** gold type backs that.
 - He performs ashvamedha after the wars. A horse type appears on gold.
 - Chinese memory says Sri Lankan king **Meghavarman** sought his leave to build a Buddhist monastery at **Bodh Gaya**.
 
-- In **Aryavarta (north)** nine kings are **uprooted**. Land is annexed.
-- In **Dakshinapatha (south)** twelve kings are **defeated, then restored** as tributes. They are not annexed.
+### Digvijaya — Cause, Course, Result
+
+**Cause:** Samudragupta aimed to make the Guptas the paramount power of Aryavarta and to force southern and frontier kings into tribute.
+
+**Course:** The Prashasti groups the wars by region and policy.
+- In **Aryavarta (north)** nine kings are **uprooted**. Their land is annexed.
+- In **Dakshinapatha (south)** twelve kings are **defeated, then restored** as tributaries. They are not annexed.
 - Forest **atavika** chiefs are brought to heel.
 - Frontier states and **ganarajyas** pay tribute. Not all are wiped out.
+
+**Result:** Magadha becomes the clear north Indian paramount power. Southern kings keep their thrones but accept Gupta overlordship. The prashasti boasts he never lost — treat that as court praise. His son and successor is **Chandragupta II**.
+
+### South kings often matched
 
 | King | Kingdom |
 |------|---------|
@@ -178,12 +191,16 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 | **Vishnugopa** | **Kanchi** |
 
 - Other south names papers may add include Mahendra of Kosala, **Vyaghraraja** of Mahakantara, **Hastivarman** of Vengi, **Svamidatta** of Kottura, **Damana** of Erandapalla, and **Kubera** of Devarashtra.
+
+### North, frontier, and gana tribute
+
 - North names in the uprooted set include Ganapatinaga, **Nagasena**, **Achyuta**, **Chandravarman**, and **Balavarman**.
 - Frontier tribute includes Samatata, **Davaka**, **Kamarupa**, **Nepala**, and **Karttripura**.
 - Ganarajya tribute includes Malava, **Yaudheya**, **Arjunayana**, and **Madraka**.
 
-- The prashasti boasts he never lost. Treat that as court praise.
-- His son and successor is **Chandragupta II**.
+> ** note:** South = **tribute and restore**. North = **uproot**. Vishnugopa ≠ a Magadha king.
+
+**Logic:** Tests south-king ↔ kingdom pairs from the Prayag Prashasti. Trap = swapping Kanchi and Kusthalapura.
 
 **PYQ — UPPCS Prelims 2018, Q87**
 
@@ -196,16 +213,16 @@ Match List-I with List-II (Samudragupta’s contemporary kings of South India).
 | C. Ugrasena | 3. Kusthalpura |
 | D. Vishnugopa | 4. Palaka |
 
+*Row order is not the answer code.*
+
 A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — 3 1 4 2.**
+**Ans: C — 3 1 4 2.** Dhananjaya = Kusthalapura. Nilaraja = Avamukta. Ugrasena = Palaka. Vishnugopa = Kanchi. Trap = putting Vishnugopa at Kusthalapura.
 
 </details>
-
-> ** note:** South = **tribute and restore**. North = **uproot**. Vishnugopa ≠ a Magadha king.
 
 ---
 
@@ -213,15 +230,23 @@ A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 
 **Son of Samudragupta | ~375–415 CE | Vikramaditya | Sakari | Devagupta**
 
-- He ends the **Western Kshatrapas** in Malwa–Gujarat by defeating last Saka king **Rudrasimha III**. He takes the title **Sakari** (destroyer of the Sakas). **Ujjain** becomes a second pole. **Pataliputra** stays the old capital.
+- He ends the **Western Kshatrapas** in Malwa–Gujarat by defeating last Saka king **Rudrasimha III**.
+- He takes the title **Sakari** (destroyer of the Sakas).
+- **Ujjain** becomes a second pole. **Pataliputra** stays the old capital.
 - Sanchi and Vakataka records also name him **Devagupta**, **Devraja**, and **Devashri**.
-- He marries Naga princess **Kuberanaga**. Queen **Dhruvadevi** is mother of **Kumaragupta I**. Daughter **Prabhavatigupta** marries Vakataka **Rudrasena II**. She later rules as regent.
+- He marries Naga princess **Kuberanaga**.
+- Queen **Dhruvadevi** is mother of **Kumaragupta I**.
+- Daughter **Prabhavatigupta** marries Vakataka **Rudrasena II**. She later rules as regent.
 - Later play tradition (*Devichandraguptam* of Vishakhadatta) says he killed elder brother **Ramagupta** and married Dhruvadevi. Treat that as literary memory, not a hard inscription spine.
-- **Udayagiri** in Madhya Pradesh has Varaha / Vishnu caves. The **Mehrauli iron pillar** names **Chandra**. Most books take this as this king. The pillar is a **Vishnu dhvaja** set up on a hill called **Vishnupada**. It now stands in the courtyard of Quwwat-ul-Islam near the Qutub Minar.
+- **Udayagiri** in Madhya Pradesh has Varaha / Vishnu caves.
+- The **Mehrauli iron pillar** names **Chandra**. Most books take this as this king.
+- The pillar is a **Vishnu dhvaja** set up on a hill called **Vishnupada**.
+- It now stands in the courtyard of Quwwat-ul-Islam near the Qutub Minar.
 - Navaratna court is a later legend. **Kalidasa** is the name papers keep. Full nine-name table sits in the literature card.
-- After the Shaka victory he issues **silver rupaka** coins. The strongest Shaka-victory proof in the 2022 paper is those **silver coins** weighing about **33 grains**.
-
-- **Fa-Hien (Faxian)** is in India **399–414 CE**, in this reign. He sees Pataliputra and the Gangetic belt. In traveller chronology he comes **before** Hiuen Tsang, I-Tsing, and Al-Biruni.
+- After the Shaka victory he issues **silver rupaka** coins.
+- The strongest Shaka-victory proof in the 2022 paper is those **silver coins** weighing about **33 grains**.
+- **Fa-Hien (Faxian)** is in India **399–414 CE**, in this reign. He sees Pataliputra and the Gangetic belt.
+- In traveller chronology he comes **before** Hiuen Tsang, I-Tsing, and Al-Biruni.
 
 **PYQ — UPPCS Prelims 2022, Q23**
 
@@ -278,10 +303,23 @@ A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 **Last great imperial Gupta | ~455–467 CE | Huna war | Bhitari (Ghazipur, UP)**
 
-- Son of Kumaragupta I. Holds the **Hunas** for a time. **Bhitari** pillar at Saidpur tehsil, **Ghazipur**, Uttar Pradesh, is the war fact.
-- **Junagadh / Girnar** inscription: repairs the **Sudarsana** lake (after the older Rudradaman repair). Titles: **Vikramaditya** / **Kramaditya** on some types.
-- The first Huna raid is checked, but pressure helps thin the empire after his death. Full Huna sequel (**Toramana**, **Mihirakula**, **Yashodharman**) sits in the Post-Gupta chapter.
-- After him the centre thins: Purugupta, Buddhagupta, Narasimhagupta Baladitya — names only. Imperial Gupta clock ends ~6th c. Next political reunion in the north is **Harsha**.
+Skandagupta is the last strong imperial Gupta. His reign is remembered for holding the **Hunas** and repairing **Sudarsana** lake.
+
+### Huna war — Cause, Course, Result
+
+**Cause:** After Kumaragupta I, Huna pressure rose on the northwest and on the Gupta frontier. The empire needed a military answer.
+
+**Course:** Skandagupta fought the Hunas and checked the first major raid. The **Bhitari** pillar at Saidpur tehsil, **Ghazipur**, Uttar Pradesh, is the war record.
+
+**Result:** The first Huna raid is stopped for a time. After his death the pressure returns and helps thin the empire. The full sequel — **Toramana**, **Mihirakula**, **Yashodharman** — sits in the Post-Gupta chapter.
+
+### Other Skandagupta facts
+
+- He is the son of Kumaragupta I.
+- The **Junagadh / Girnar** inscription records repair of the **Sudarsana** lake (after the older Rudradaman repair).
+- Titles include **Vikramaditya** / **Kramaditya** on some coin types.
+- After him the centre thins: Purugupta, Buddhagupta, Narasimhagupta Baladitya — names only.
+- The imperial Gupta clock ends about the 6th century. The next political reunion in the north is **Harsha**.
 
 > ** note:** Bhitari = **Skandagupta vs Hunas**. Not Samudragupta’s south march.
 
@@ -289,15 +327,38 @@ A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 ## 9.7 Gupta Administration
 
-**Decentralised empire | samanta plus land grants | not a Mauryan spy-machine**
+**Decentralised empire | samanta plus land grants | lighter centre than the Mauryas**
 
-- The king is **Maharajadhiraja** and **Paramabhattaraka**. Divine kingship is louder than in the Mauryan file. A **mantriparishad** advises. The final word is the king’s.
-- The **sandhivigrahika** is the peace-and-war / foreign minister. The state is less central than the Mauryas. **Brahmadeya / agrahara** grants punch holes in the crown’s direct take. Guptas donate heavily to temples and Brahmins.
+The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is shared with **samantas** and with land grants.
+
+### King and ministers
+
+- The king is **Maharajadhiraja** and **Paramabhattaraka**.
+- Divine kingship is louder than in the Mauryan file.
+- A **mantriparishad** advises. The final word is the king’s.
+- The **sandhivigrahika** is the peace-and-war / foreign minister.
+
+### Feudatories and grants
+
 - A **samanta** is a feudatory. He sends tribute and troops. He is not a Mauryan salaried amatya.
-- Land revenue appears as **bhaga** and **udranga**, remembered as about **one-sixth** of produce on royal land. Irrigation dues appear as **udakabhoga**. Border / fringe cultivator dues appear as **uparnika** in some lists. Forced labour **vishti** is treated as a state take, not wage labour.
-- Guilds (**shreni**) keep their own wages, standards, prices, and internal justice. The guild head runs the body without daily royal micromanagement.
+- **Brahmadeya / agrahara** grants punch holes in the crown’s direct take.
+- Guptas donate heavily to temples and Brahmins.
+- The state is less central than the Mauryas.
+
+### Dues and labour
+
+- Land revenue appears as **bhaga** and **udranga**, remembered as about **one-sixth** of produce on royal land.
+- Irrigation dues appear as **udakabhoga**.
+- Border / fringe cultivator dues appear as **uparnika** in some lists.
+- Forced labour **vishti** is treated as a state take, not wage labour.
+
+### Guilds and law books
+
+- Guilds (**shreni**) keep their own wages, standards, prices, and internal justice.
+- The guild head runs the body without daily royal micromanagement.
 - Smriti age names include **Yajnavalkya** and **Narada**.
-- The **Vayu Purana does not** give a Gupta admin manual. That claim is **false**. The Vishnu Purana *does* carry Maurya names.
+- The **Vayu Purana does not** give a Gupta admin manual. That claim is **false**.
+- The Vishnu Purana *does* carry Maurya names.
 
 > ** note:** “Guptas more central than Mauryas” is the trap.
 

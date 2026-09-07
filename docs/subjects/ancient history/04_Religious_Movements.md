@@ -83,7 +83,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ## Books and Writers — Religious Movements
 
-**Match-list home | named Buddhist and Jain works | canons stay separate**
+**Book–writer pairs | named Buddhist and Jain works | canons stay separate**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -252,11 +252,16 @@ Things arise from causes, not from a creator God. The **twelve nidanas** (links)
 
 ## 4.6 Buddhist Councils
 
-**Chronological place-order | Rajagriha → Vaishali → Pataliputra → Kundalvana**
+**Four north-Indian councils | place order is the first fact to hold**
 
-- Councils are remembered as meetings that **fixed the teaching** after the Buddha’s death.
-- The **place order** is the highest-yield fact: Rajagriha → Vaishali → Pataliputra → Kundalvana.
-- Order: **Rajagriha** first, then Vaishali, then Pataliputra, then **Kundalvana** last.
+Councils are remembered as meetings that **fixed the teaching** after the Buddha’s death.
+
+### Place order (highest-yield spine)
+
+- First: **Rajagriha**.
+- Second: **Vaishali**.
+- Third: **Pataliputra**.
+- Fourth (north-Indian list): **Kundalvana**.
 
 | # | Place | Patron / ruler | President | Main outcome |
 |---|-------|----------------|-----------|--------------|
@@ -270,7 +275,9 @@ Things arise from causes, not from a creator God. The **twelve nidanas** (links)
 
 > ** note:** Order = Rajagriha (1st) → Vaishali (2nd, Sthaviravada / Mahasanghika split) → Pataliputra (3rd) → Kundalvana (4th). Anuradhapura = separate Theravada council when Pali was written down.
 
-**PYQ — UPPCS Prelims 2025, Q105Logic:** Tests **chronological order of council venues**, not presidents or outcomes. Trap = starting at Vaishali (2nd) or placing Kundalvana (4th) before Pataliputra (3rd).
+**Logic:** Tests **chronological order of council venues**, not presidents or outcomes. Trap = starting at Vaishali (2nd) or placing Kundalvana (4th) before Pataliputra (3rd).
+
+**PYQ — UPPCS Prelims 2025, Q105**
 
 The four Buddhist Councils were held at the following places. Arrange them in correct chronological order:
 
@@ -307,7 +314,9 @@ A. 1, 2, 4, 3 B. 2, 1, 3, 4 C. 2, 1, 4, 3 D. 1, 2, 3, 4
 
 - **Nagasena** answers Milinda. **Nagarjuna** wrote *Madhyamaka Karika*. **Kumarila Bhatta** is Mimamsa.
 
-**PYQ — UPPCS Prelims 2023, Q24Logic:** Tests the **Milinda Panha** pair — Menander and his interlocutor. Trap = **Nagarjuna** (Mahayana philosopher) or **Kumarila Bhatta** (Mimamsa).
+**PYQ — UPPCS Prelims 2023, Q24**
+
+**Logic:** Tests the **Milinda Panha** pair — Menander and his interlocutor. Trap = **Nagarjuna** (Mahayana philosopher) or **Kumarila Bhatta** (Mimamsa).
 
 *Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
 
@@ -508,7 +517,9 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 
 > ** note:** Amaravati school uses ayaka platforms generally, but match-the-site traps often target **Ghantasala**. Bodh Gaya is the wrong architecture family.
 
-**PYQ — UPPCS Prelims 2022, Q80Logic:** Tests **stupa architecture vocabulary** — aryaka-pillars on a platform. Trap = **Bodh Gaya** (Mahabodhi temple) or generic Amaravati without the named Andhra site.
+**PYQ — UPPCS Prelims 2022, Q80**
+
+**Logic:** Tests **stupa architecture vocabulary** — aryaka-pillars on a platform. Trap = **Bodh Gaya** (Mahabodhi temple) or generic Amaravati without the named Andhra site.
 
 In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
 
@@ -525,7 +536,7 @@ A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
 
 ## 4.13 Ashokan Patronage
 
-**Dhamma policy plus Buddhist missions | not “Buddhism as sole state church”**
+**Dhamma policy plus Buddhist missions | state ethic for all sects**
 
 ### What is Ashoka’s Dhamma?
 
@@ -560,7 +571,9 @@ A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
 - **Barabar Hill caves** (Bihar) were donated to **Ajivikas**, not to the Buddhist sangha. This proves Ashoka patronised non-Buddhist sects.
 - Rock Edict **XII** itself commands respect for **all sects** — not only his own.
 
-**PYQ — UPPCS Prelims 2024, Q20Logic:** Tests two Ashokan Dhamma facts — Rahulovada as *source* (false) vs Dhamma-mahamatras in the 14th year (true). Stmt 1 is the doctrinal trap; Stmt 2 is the cadre fact.
+**PYQ — UPPCS Prelims 2024, Q20**
+
+**Logic:** Tests two Ashokan Dhamma facts — Rahulovada as *source* (false) vs Dhamma-mahamatras in the 14th year (true). Stmt 1 is the doctrinal trap; Stmt 2 is the cadre fact.
 
 Consider the following statements with respect to Ashoka:
 
@@ -2181,7 +2194,7 @@ D. Mahavira — Pavapuri
 ### Years with zero extra hits in local `pyq/`
 
 UPPCS Prelims **2020, 2019, 2018** — no further GS-I question maps to this topic after keyword search (Buddha / Jain / Tirthankar / Hinayana / Tripitaka / Ajivika / Charvaka / Bhagavat / Shaiv / Vaishnav / Milinda / Ghantasala).
-**Out of boundary:** 2020 Kushinagar *Airport* (infra, not doctrine). 2022 Rock Edict XII is the edict-*number* question (answer **XII**). Menander’s campaigns are invasion-history; the *Milinda Panha* fact (Nagasena) lives here.
+**Out of boundary:** 2020 Kushinagar *Airport* (infra, not doctrine). 2022 Rock Edict XII is the edict-*number* question (answer **XII**). Menander’s campaigns are invasion-history; the *Milinda Panha* fact (Nagasena) belongs in this chapter.
 
 ---
 

@@ -71,7 +71,7 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ## Books and Writers — Administration Sources
 
-**Short source table | full Mauryan literature lives in Topic 7**
+**Short source table | fuller Mauryan literature list is in Topic 7**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -126,16 +126,42 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ## 11.2 Titles of Ancient Rulers
 
-**Match-list home | title is not the personal name**
+**Title is not the personal name | match each king to his stamp**
 
-- The Vedic chief is **Rajan**. A Later Vedic wider claim is **Samrat** or **Ekarat**. **Mahapadma Nanda** is **Ekarat** and **Sarvakshatrantaka**.
-- **Chandragupta Maurya** is Greek **Sandrokottos**. **Bindusara** is **Amitraghata / Amitrochates**.
-- **Ashoka** is **Devanampiya Piyadassi** on most edicts. His personal name appears at **Maski**, then at Gujarra, Nittur, and Udegolam.
-- **Kanishka** is **Devaputra**. **Gautamiputra Satakarni** is **Dakshinapathapati**. **Kharavela** is **Mahameghavahana** of the Chedi line. **Rudradaman I** is **Mahakshatrapa**.
-- **Sri Gupta** and **Ghatotkacha** are **Maharaja** only. **Chandragupta I** is the first Gupta **Maharajadhiraja**.
-- **Samudragupta** is Maharajadhiraja and *kaviraja*. Digvijaya is the **policy**, not a coin-title. **Chandragupta II** is **Vikramaditya**. **Kumaragupta I** is **Mahendraditya**. **Skandagupta** is **Kramaditya** or Vikramaditya on some types.
-- **Harsha** is Chinese **Siladitya**. He is also Paramabhattaraka. A Gupta or Harsha feudatory is **Samanta** or **Mahasamanta**.
-- **Chakravartin** is the ideal wheel-turning monarch. It is not one king’s exclusive stamp. Title inflation grows from Gupta grants onward.
+Ancient papers often ask a **title**, not a personal name. Hold the pairs below as separate sentences.
+
+### Vedic and Nanda
+
+- The Vedic chief is **Rajan**.
+- A Later Vedic wider claim is **Samrat** or **Ekarat**.
+- **Mahapadma Nanda** is **Ekarat** and **Sarvakshatrantaka**.
+
+### Mauryan
+
+- **Chandragupta Maurya** is Greek **Sandrokottos**.
+- **Bindusara** is **Amitraghata / Amitrochates**.
+- **Ashoka** is **Devanampiya Piyadassi** on most edicts.
+- His personal name appears at **Maski**, then at Gujarra, Nittur, and Udegolam.
+
+### Post-Mauryan
+
+- **Kanishka** is **Devaputra**.
+- **Gautamiputra Satakarni** is **Dakshinapathapati**.
+- **Kharavela** is **Mahameghavahana** of the Chedi line.
+- **Rudradaman I** is **Mahakshatrapa**.
+
+### Gupta and Harsha
+
+- **Sri Gupta** and **Ghatotkacha** are **Maharaja** only.
+- **Chandragupta I** is the first Gupta **Maharajadhiraja**.
+- **Samudragupta** is Maharajadhiraja and *kaviraja*. Digvijaya is the **policy**, not a coin-title.
+- **Chandragupta II** is **Vikramaditya**.
+- **Kumaragupta I** is **Mahendraditya**.
+- **Skandagupta** is **Kramaditya** or Vikramaditya on some types.
+- **Harsha** is Chinese **Siladitya**. He is also Paramabhattaraka.
+- A Gupta or Harsha feudatory is **Samanta** or **Mahasamanta**.
+- **Chakravartin** is the ideal wheel-turning monarch. It is not one king’s exclusive stamp.
+- Title inflation grows from Gupta grants onward.
 
 > ** note:** Vikramaditya is not Samudragupta. Devanampiya is not Harsha.
 
@@ -159,17 +185,34 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 ## 11.3 Rulers and their Inscriptions
 
-**Master match | inscription king-pairs**
+**King ↔ inscription pairs | do not swap look-alike stones**
+
+Each ruler below is tied to one famous inscription. Hold the pair as a full sentence.
+
+### Mauryan and early
 
 - **Ashoka** issues Major and Minor Rock Edicts and Pillar edicts. The personal name is rare. It appears at **Maski**. His **Rummindei** pillar records the Lumbini visit.
 - **Girnar / Junagadh** carries Ashoka, then Rudradaman, then Skandagupta. Three ages sit on **one** rock.
-- **Pushyamitra Shunga** is recorded at **Ayodhya** for two **ashwamedhas**. **Heliodorus** raises the **Besnagar** Bhagavata pillar. It is **not** Pushyamitra.
-- **Kharavela** is recorded at **Hathigumpha**, Udayagiri. Harsha is trap C.
-- **Gautamiputra Satakarni** is recorded in the **Nasik** prasasti of Gautami Balashri. He beats Nahapana. **Naganika** is recorded at **Naneghat**, with Satakarni I.
-- **Rudradaman I** writes Junagadh Sanskrit prose on the Sudarsana lake repair. **Kanishka** has the **Rabatak** genealogy.
-- **Samudragupta** has the **Prayag Prashasti** of Harishena, on the **Allahabad** Ashokan shaft. He also has the **Gaya** copper plate. That is the **2022 trap**. It is not Sarvavarman.
-- **Chandragupta II** is the usual key for the **Mehrauli** iron pillar’s “Chandra.” **Skandagupta** has the **Bhitari** pillar for the Huna war and also appears at Girnar for the Sudarsana repair after Rudradaman.
-- **Ishanavarman** has **Haraha** at Barabanki, **554 CE**. **Ishvaravarman** has the **Jaunpur** stone. **Jivitagupta II** has **Deo-Baranark**. Those three 2022 pairs are correct.
+- **Pushyamitra Shunga** is recorded at **Ayodhya** for two **ashwamedhas**.
+- **Heliodorus** raises the **Besnagar** Bhagavata pillar. It is **not** Pushyamitra.
+- **Kharavela** is recorded at **Hathigumpha**, Udayagiri. Harsha is a common wrong option.
+
+### Satavahana, Shaka, Kushan
+
+- **Gautamiputra Satakarni** is recorded in the **Nasik** prasasti of Gautami Balashri. He beats Nahapana.
+- **Naganika** is recorded at **Naneghat**, with Satakarni I.
+- **Rudradaman I** writes Junagadh Sanskrit prose on the Sudarsana lake repair.
+- **Kanishka** has the **Rabatak** genealogy.
+
+### Gupta and after
+
+- **Samudragupta** has the **Prayag Prashasti** of Harishena, on the **Allahabad** Ashokan shaft.
+- He also has the **Gaya** copper plate. That plate is the **2022 trap**. It is not Sarvavarman.
+- **Chandragupta II** is the usual key for the **Mehrauli** iron pillar’s “Chandra.”
+- **Skandagupta** has the **Bhitari** pillar for the Huna war and also appears at Girnar for the Sudarsana repair after Rudradaman.
+- **Ishanavarman** has **Haraha** at Barabanki, **554 CE**.
+- **Ishvaravarman** has the **Jaunpur** stone.
+- **Jivitagupta II** has **Deo-Baranark**. Those three 2022 pairs are correct.
 - **Sarvavarman** has the **Asirgarh** seal. He does **not** have the Gaya plate.
 - **Pulakeshin II** has **Aihole**, composed by Ravikirti. It records the stop of Harsha.
 - **Harsha** has **Banskhera**, with a signature, and **Madhuban**, a grant.

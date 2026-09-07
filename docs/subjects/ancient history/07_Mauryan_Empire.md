@@ -86,7 +86,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ## Books and Writers — Mauryan Age
 
-**Match-list home | book → writer | keep play vs statecraft separate**
+**Book–writer pairs | book → writer | keep play vs statecraft separate**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -252,17 +252,52 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 ## 7.4 Mauryan Administration
 
-**Centralised bureaucracy | *mantriparishad* | salaried amatyas | not Gupta samantas**
+**Centralised bureaucracy | mantriparishad | salaried amatyas | not a Gupta samanta state**
 
-- The king is *swami* in the saptanga. He has the final word after consulting ministers. Ashoka in Rock Edict VI takes reports **at any hour** via *pativedakas*.
-- The **four vidyas** are *anvikshiki* (philosophy), *trayi* (Veda), *varta* (economy), and *dandaniti* (polity).
-- The cadre is **amatyas / mahamatras**, paid in cash or produce. It is a career service, not a closed kshatriya club. *Tirthas* are 18 top posts.
-- The **Kautilya** picture is adhyakshas, spies, and taxes. The **Megasthenes** picture is six boards plus seven tribes. Keep the two sources as **separate** org-charts.
-- The army is *chaturanga* plus a navy under the *navadhyaksha*. *Indica* gives a war office of **six** army boards: navy, transport, infantry, cavalry, chariots, and elephants.
-- The great road is the **Uttarapatha** from Taxila to Pataliputra. Strabo’s agronomoi also set mile-pillars. That is the **2020 road trap**, not the key.
-- The village has a *gramika* plus elders. The *gopa* watches 5–10 villages. Next up is the *sthanika*. The district is *ahara / vishaya*.
-- Kautilya’s rural stack in match papers also uses **Samgrahana** (about 10 villages) → **Karvatika** (200) → **Dronamukha** (400) → **Sthaniya** (800). Ascending order starts at Samgrahana.
-- Pataliputra’s palisade in *Indica* has **570 towers** and **64 gates**. Town officials are **Astynomoi**. Welfare add-ons — wells, herbs, trees, hospitals — sit in **Rock Edict II**.
+The Mauryan state is a **centralised** empire. Officers are paid. Power does not rest mainly on feudatory **samantas** as in the Gupta age.
+
+### King and ministers
+
+- The king is *swami* in the saptanga. He has the final word after consulting ministers.
+- Ashoka in Rock Edict VI takes reports **at any hour** through *pativedakas*.
+- The cadre is **amatyas / mahamatras**, paid in cash or produce.
+- It is a career service, not a closed kshatriya club.
+- The top posts are remembered as **18 tirthas**.
+
+### Four vidyas (training of a king)
+
+- *Anvikshiki* is philosophy.
+- *Trayi* is Veda learning.
+- *Varta* is economy.
+- *Dandaniti* is polity and punishment.
+
+### Two source pictures — keep them separate
+
+- **Kautilya** describes adhyakshas, spies, and taxes.
+- **Megasthenes** describes six city boards, six army boards, and seven classes.
+- Do not mash the two org-charts into one list.
+
+### Army and roads
+
+- The army is *chaturanga* plus a navy under the *navadhyaksha*.
+- *Indica* gives a war office of **six** army boards: navy, transport, infantry, cavalry, chariots, and elephants.
+- The great road is the **Uttarapatha** from Taxila to Pataliputra.
+- Strabo’s agronomoi also set mile-pillars. That road detail is a **trap option**, not the key meaning of Agronomai (revenue / land).
+
+### Village to district ladder
+
+- The village has a *gramika* plus elders.
+- The *gopa* watches **5–10** villages.
+- Next up is the *sthanika*.
+- The district is *ahara / vishaya*.
+- Kautilya’s rural stack in match papers also uses **Samgrahana** (about 10 villages) → **Karvatika** (200) → **Dronamukha** (400) → **Sthaniya** (800).
+- Ascending order starts at **Samgrahana**.
+
+### Capital and trade officers
+
+- Pataliputra’s palisade in *Indica* has **570 towers** and **64 gates**.
+- Town officials are **Astynomoi**.
+- Welfare works — wells, herbs, trees, hospitals — sit in **Rock Edict II**.
 - The caravan chief of merchants is the **Sarthavaha** (*Arthashastra*).
 
 > ** note:** This is a **centralised** empire, not Gupta samanta-feudatory.
@@ -271,25 +306,40 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 ## 7.5 Important Mauryan Officials
 
-**Match-list home | 2020 Agronomai lives here**
+**Officer match-list | Kautilya names vs Greek names | do not swap pairs**
 
-- Read this as two machines that must not be mashed: Kautilya’s *adhyakshas* versus Megasthenes’ boards. The **samaharta** collects all revenue. The **sannidhata** stores the *kosha*. That pair is the first swap-trap.
+Read this as **two machines**. Kautilya’s *adhyakshas* are one picture. Megasthenes’ boards are another. Do not mash them.
+
+### Revenue pair (first swap-trap)
+
+- The **samaharta** **collects** all revenue.
+- The **sannidhata** **stores** the *kosha* (treasury).
+- Never reverse collector and storekeeper.
+
+### Land, justice, and tour officers
+
 - The **rajuka** does land assessment and justice. Ashoka trusts them on tour.
 - The **yukta** is a subordinate executive.
 - The **pradeshika / pradeshtri** inspects the district and links police and spies.
 - The **mahamatra** is a high officer of a province or department.
-- The **dhamma-mahamatra** appears in Rock Edict V. He works for welfare of sects, prisoners, and borders. The 2024 wording is the **14th year**.
-- The **kumara** is a prince-viceroy at **Taxila**, **Ujjain**, or **Suvarnagiri**. Tosali is the Kalinga post.
+- The **dhamma-mahamatra** appears in Rock Edict V. He works for welfare of sects, prisoners, and borders. Appointment is in the **14th year** after coronation.
+- The **pativedaka** is the reporter. Rock Edict VI says the king is reachable always.
+- The **gopa** and **sthanika** are Kautilya’s rural circle officers.
+
+### Princes and forts
+
+- The **kumara** is a prince-viceroy at **Taxila**, **Ujjain**, or **Suvarnagiri**.
+- **Tosali** is the Kalinga post.
 - The **antapala** holds the frontier.
 - The **durgapala** holds the fort.
 - The **nagaraka / nagaradhyaksha** holds the city.
+
+### Department heads (*adhyakshas*)
+
 - The **pautavadhyaksha** holds weights and measures.
 - The **sitadhyaksha** holds crown agriculture.
 - The **panyadhyaksha** holds trade.
 - The **akshapataladhyaksha** holds accounts.
-- The **agronomai** are Megasthenes’ rural officers for **revenue / land**.
-- The **pativedaka** is the reporter. Rock Edict VI says the king is reachable always.
-- The **gopa** and **sthanika** are Kautilya’s rural circle officers.
 - The **akaradhyaksha** holds mines.
 - The **lakshanadhyaksha** holds the mint.
 - The **suradhyaksha** holds liquor.
@@ -303,7 +353,17 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 - The **sutradhyaksha** holds spinning and yarn.
 - The **ganikadhyaksha** holds courtesans.
 - The **sarthavaha** is the caravan / merchant-convoy chief.
-- City officials in *Indica* are **Astynomoi**; rural officers are **Agronomoi**.
+
+### Greek names (Megasthenes / Strabo)
+
+- City officials in *Indica* are **Astynomoi**.
+- Rural officers are **Agronomoi**.
+- **Agronomai** work as **revenue / land** officers. That is the accepted key.
+- Strabo also gives them roads and mile-pillars. That is the road trap, not the key.
+- Weights are **not** Agronomai. Weights = *pautavadhyaksha*.
+
+### Road penalty
+
 - *Pankodakasannirodhe* is the penalty for throwing dirt or causing mud and water to collect on roads.
 
 **PYQ — UPPCS Prelims 2020, Q4**
@@ -329,28 +389,43 @@ D. Revenue management
 
 ## 7.6 Ashoka
 
-**Bindusara’s son | *Devanampiya Piyadassi* | accession ~272 · coronation 268–232 BCE**
+**Bindusara’s son | Devanampiya Piyadassi | accession ~272 · coronation 268–232 BCE**
 
-- Mother in legends is **Subhadrangi / Dharma**. Viceroyship is at Taxila, then Ujjain. The *Ashokavadana* succession fight should be used lightly.
-- Wife **Devi** of Vidisha is mother of **Mahinda** and **Sanghamitta**. Wife **Karuvaki** has the Queen’s edict. Her son is **Tivala**. Wife **Tishyarakshita** belongs to the Bodhi-tree / Kunala legend.
-- **Kalinga in 261 BCE** is the **8th** regnal year. Rock Edict XIII numbers **1 lakh** killed and **1.5 lakh** deported. Remorse leads to **dhamma-vijaya**. He does **not** give Kalinga back.
-- Major edicts say **Piyadassi / Devanampiya**, not the personal name. The personal name **Ashoka** is on Minor Rock Edicts at Maski, Gujarra, Nittur, and Udegolam.
+Ashoka is the Mauryan emperor of the edicts. After the **Kalinga war** he turns from conquest by slaughter to **dhamma-vijaya**.
+
+### Family and early posts
+
+- Mother in legends is **Subhadrangi / Dharma**.
+- Viceroyship is first at **Taxila**, then at **Ujjain**.
+- The *Ashokavadana* succession fight should be used lightly.
+- Wife **Devi** of Vidisha is mother of **Mahinda** and **Sanghamitta**.
+- Wife **Karuvaki** has the Queen’s edict. Her son is **Tivala**.
+- Wife **Tishyarakshita** belongs to the Bodhi-tree / Kunala legend.
+
+### Name on the stones
+
+- Major edicts say **Piyadassi / Devanampiya**, not the personal name.
+- The personal name **Ashoka** appears on Minor Rock Edicts at **Maski**, **Gujarra**, **Nittur**, and **Udegolam**.
 
 ### Kalinga War (261 BCE) — Cause, Course, Result
 
 **Cause:** Kalinga controlled the land and sea bridge between the Ganga valley and the Deccan / eastern seaboard. Independent Kalinga threatened Magadhan overseas and inland trade.
+
 **Course:** In his **8th regnal year (~261 BCE)**, Ashoka invaded Kalinga. Rock Edict **XIII** remembers **1 lakh** killed, **1.5 lakh** deported, and countless sufferers.
-**Result:** Kalinga was **annexed**; headquarters at **Tosali** and **Samapa**. Ashoka turned to **dhamma-vijaya**. Separate Kalinga edicts at **Dhauli** and **Jaugada** tell mahamatras that **"all men are my children."**
 
-- In the 10th year he makes a *dhammayatra* to Bodh Gaya (Rock Edict VIII), not a *viharayatra*.
+**Result:** Kalinga was **annexed**; headquarters at **Tosali** and **Samapa**. Ashoka turned to **dhamma-vijaya**. Separate Kalinga edicts at **Dhauli** and **Jaugada** tell mahamatras that **"all men are my children."** He does **not** give Kalinga back.
 
+### After Kalinga
+
+- In the **10th year** he makes a *dhammayatra* to Bodh Gaya (Rock Edict VIII), not a *viharayatra*.
 - Rock Edict XIII names five western kings: **Antiochus II Theos**, **Ptolemy II Philadelphus**, **Antigonus Gonatas**, **Magas of Cyrene**, and **Alexander of Epirus**.
-
-- The *Mahavamsa* missions follow the Third Council at Pataliputra under Moggaliputta Tissa. Destinations include Kashmir–Gandhara, Mahishamandala, Vanavasi, Aparantaka, Maharatha, the Yona, the Himalaya, and **Suvannabhumi**.
+- The *Mahavamsa* missions follow the Third Council at Pataliputra under Moggaliputta Tissa.
+- Mission lands include Kashmir–Gandhara, Mahishamandala, Vanavasi, Aparantaka, Maharatha, the Yona, the Himalaya, and **Suvannabhumi**.
 - **Lanka** receives **Mahinda** and **Sanghamitta**, under king **Devanampiya Tissa**, with a Bodhi-sapling.
-
-- Legend credits **84,000** stupas and viharas. **Jalauka** in Kashmir is from the *Rajatarangini*, not from edicts.
-- The Barabar gift to Ajivikas is polished granite cells, not Buddhist viharas. Death is about 232. The empire runs to **185**.
+- Legend credits **84,000** stupas and viharas.
+- **Jalauka** in Kashmir is from the *Rajatarangini*, not from edicts.
+- The Barabar gift to Ajivikas is polished granite cells, not Buddhist viharas.
+- Death is about **232 BCE**. The empire runs to **185 BCE**.
 
 > ** note:** Major edicts do **not** usually say the word “Ashoka.” Maski does.
 
@@ -364,7 +439,7 @@ D. Revenue management
 - Sinhalese tradition places it in Ashoka’s **17th–18th year** after coronation (coronation **268 BCE** → council near **250 BCE**).
 - **Moggaliputta Tissa** presided. The council purified doctrine and organised missions.
 - Missions went to Kashmir–Gandhara, Sri Lanka (**Mahinda**, **Sanghamitta**), and other regions.
-- Order: Rajagriha (1st) → Vaishali (2nd) → Pataliputra (3rd) → Kundalvana (4th).
+- Council place order is **Rajagriha** (1st), then **Vaishali** (2nd), then **Pataliputra** (3rd), then **Kundalvana** (4th).
 - Third Council = **Ashoka** at **Pataliputra**. Fourth Council = **Kanishka** at **Kundalvana**.
 - **Sri Lanka** received the mission but remained an **edge neighbour**, not a Mauryan province (RE II).
 
@@ -384,15 +459,64 @@ D. Revenue management
 
 ## 7.7 Ashoka's Dhamma
 
-**State ethic for all sects | not “Buddhism as established church”**
+**Ethical state policy for every community | after Kalinga | not a forced state religion**
 
-- **PE II** defines dhamma: few sins, many virtues, compassion, liberality, truth, purity. That edict definition is **not** Rahulovada.
-- **Bhabru / Calcutta-Bairat** lists texts for the sangha, including **Laghulovada (Rahulovada)**. Ashoka *knew* the sutta. 2024 still treats “Dhamma is **taken from** Rahulovada” as **false**. State Dhamma is not that sutta’s definition.
-- The cadre is **dhamma-mahamatras** (**RE V**). Wording **14th year** after coronation is accepted as correct. Their beat covers Brahmans, Shramanas, Ajivikas, prisoners, border people, women, and slaves.
-- **Bherighosha** becomes **Dhammaghosha** (RE IV / XIII): the war-drum yields to the dhamma-drum.
-- RE II welfare: wells, shade trees, rest-houses, herbs, and hospitals for men **and beasts**. Veterinary care is this fact.
-- RE I cuts kitchen slaughter. He still donates to **Ajivikas** (Barabar). He names Brahmans and Shramanas together (RE III, VII, XII).
-- PE VII punchline: **gift of dhamma is the best gift**.
+Ashoka’s **Dhamma** is a **public code of conduct**. It asks people of all sects to live with restraint and kindness. It is **not** “Buddhism made into the only state church.”
+
+### What Dhamma is
+
+- Dhamma is **state ethic**. It covers kings, officers, householders, and border peoples.
+- Ashoka personally favoured Buddhism and convened the Third Council. That personal faith is **separate** from the Dhamma he wrote on rocks and pillars for everyone.
+- He never forces conversion. He asks for **tolerance** among sects.
+
+### How PE II defines Dhamma
+
+- **Pillar Edict II** gives Ashoka’s own short definition.
+- It asks for **few sins** and **many virtues**.
+- The virtues named are **compassion**, **liberality**, **truth**, and **purity**.
+- This PE II list is the **edict definition** of Dhamma.
+- That definition is **not** taken from the *Rahulovada* sutta.
+
+### The Bhabru / Rahulovada trap
+
+- The **Bhabru** edict (also called **Calcutta-Bairat**) is a message to the **sangha**.
+- In it Ashoka lists Buddhist texts for monks. One of them is ***Laghulovada*** (also called ***Rahulovada***).
+- So Ashoka **knew** the sutta and valued it for monks.
+- Knowing a sutta is **not** the same as defining state Dhamma from that sutta.
+- UPPCS **2024** still treats this claim as **false**: “Ashoka’s Dhamma definition is taken from *Rahulovada-sutta*.”
+
+### Who spreads Dhamma — the dhamma-mahamatras
+
+- Rock Edict **V** creates a new cadre called **dhamma-mahamatras**.
+- They are appointed in Ashoka’s **14th year** after coronation.
+- Their beat covers **Brahmans**, **Shramanas**, **Ajivikas**, prisoners, border people, women, and slaves.
+- Their job is moral welfare and concord, not collecting land revenue like a **rajuka**.
+
+### From war-drum to dhamma-drum
+
+- **Bherighosha** means the **war-drum**.
+- **Dhammaghosha** means the **dhamma-drum**.
+- Rock Edicts **IV** and **XIII** say the war-drum yields to the dhamma-drum.
+- The image means moral conquest replaces conquest by slaughter.
+
+### Welfare written into Dhamma
+
+- Rock Edict **II** records wells, shade trees, rest-houses, herbs, and hospitals.
+- Care is for **men and beasts**. Veterinary care sits in this RE II fact.
+- Rock Edict **I** cuts royal kitchen slaughter and limits *samajas*.
+
+### Pluralism, not one sect only
+
+- Ashoka still donates caves to **Ajivikas** at **Barabar**.
+- Rock Edicts **III**, **VII**, and **XII** name **Brahmans** and **Shramanas** together.
+- Rock Edict **XII** teaches **samavaya** — religious concord. It is not the Kalinga text (that is RE XIII).
+
+### The punchline of PE VII
+
+- Pillar Edict **VII** says the **gift of dhamma is the best gift**.
+- Material gifts matter less than teaching this ethic.
+
+**Logic:** Tests whether state Dhamma is copied from *Rahulovada* (false) and whether dhamma-mahamatras in the **14th year** is true (true). Trap = treating Bhabru’s monk-list as the PE II definition.
 
 **PYQ — UPPCS Prelims 2024, Q20**
 
@@ -406,11 +530,11 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — Only 2.** Stmt 1 is the trap. Dhamma is not taken from *Rahulovada-sutta*.
+**Ans: D — Only 2.** Statement 1 is false: PE II defines Dhamma; *Rahulovada* is only listed for monks at Bhabru. Statement 2 is true: RE V creates **dhamma-mahamatras** in the **14th year**.
 
 </details>
 
-> ** note:** Dhamma ≠ forced conversion. 2024 is **not** “both correct.”
+> ** note:** Dhamma ≠ forced conversion. Personal Buddhism ≠ state Dhamma. Bhabru lists texts; PE II defines Dhamma.
 
 ---
 
@@ -532,7 +656,10 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 - These are **not** Buddhist viharas. Ajanta, Karle, and Bhaja copy the **horseshoe arch** centuries later.
 - Palace memory is the **Kumrahar 80-pillar** hall at Pataliputra. Wooden palisade is Greek memory. Stone polish is the Ashokan trademark.
-- Sculpture tagged Mauryan polish: **Didarganj Yakshi** (Patna; date debated), **Parkham Yaksha** (Mathura; inscribed **Manibhadra**), two Patna yakshas, and the **Dhauli elephant**.
+- Sculpture tagged Mauryan polish includes the **Didarganj Yakshi** at Patna (date debated).
+- The **Parkham Yaksha** at Mathura is inscribed **Manibhadra**.
+- Two Patna yakshas belong to the same polish tradition.
+- The **Dhauli elephant** is another Mauryan sculpture fact.
 - Barabar caves are **Mauryan** (Ashoka / Dasharatha gifts to Ajivikas). Dating them to the **6th century BCE** is false.
 
 > ** note:** Barabar ≠ Ajanta. Donee = **Ajivika**, not the sangha.
@@ -541,18 +668,39 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 ## 7.12 Kautilya's Arthashastra
 
-**Kautilya = Chanakya = Vishnugupta | 15 *adhikaranas*, about 150 chapters | R. Shamasastry 1909 (Mysore MS)**
+**Kautilya = Chanakya = Vishnugupta | 15 adhikaranas, about 150 chapters | recovered by R. Shamasastry in 1909**
 
-- The **four vidyas** are anvikshiki, trayi, varta, and dandaniti. The **saptanga** are swami, amatya, janapada, durga, kosha, danda (army), and **mitra** (the **seventh** limb — ally).
-- The **four upayas** are sama, dana, bheda, and danda. The **shadgunya** are sandhi, vigraha, asana, yana, samshraya, and dvaidhibhava.
+The *Arthashastra* is the Mauryan **statecraft handbook**. It is **not** the *Mudrarakshasa* and **not** Megasthenes’ *Indica*.
+
+### Core toolkits
+
+- The **four vidyas** are anvikshiki, trayi, varta, and dandaniti.
+- The **saptanga** are swami, amatya, janapada, durga, kosha, danda (army), and **mitra** (the **seventh** limb — ally).
+- The **four upayas** are sama, dana, bheda, and danda.
+- The **shadgunya** are sandhi, vigraha, asana, yana, samshraya, and dvaidhibhava.
 - The **raja-mandala** puts the *vijigishu* (would-be conqueror) at the centre, with ari, mitra, arimitra, and the rest of the twelve-king ring.
 - Fort types are *audaka, parvata, dhanvana,* and *vanadurga*.
+
+### Posts and economy
+
 - The **18 tirthas** include mantrin, purohita, senapati, yuvaraja, dauvarika, antarvamsika, prasasta, samaharta, and sannidhata, plus pradeshta, nayaka, pauravyavaharika, karmantika, mantri-parishad-adhyaksha, dandapala, durgapala, antapala, and atavika.
-- The adhyaksha-state covers mines, salt, liquor, forests, spinning, ships, passports, and mint. It is a **command economy**. Guilds (*shreni*) are regulated, not abolished.
-- **Slavery exists** here. That is a direct clash with Megasthenes’ “no slaves.” A person may become a slave by judicial punishment. If a female slave bears her master a son, she is set free (IAS 2022 style stem).
+- The adhyaksha-state covers mines, salt, liquor, forests, spinning, ships, passports, and mint.
+- It is a **command economy**. Guilds (*shreni*) are regulated, not abolished.
+
+### Slavery, courts, and family law
+
+- **Slavery exists** here. That is a direct clash with Megasthenes’ “no slaves.”
+- A person may become a slave by judicial punishment.
+- If a female slave bears her master a son, she is set free (a common multi-statement stem).
 - Courts: **Dharmasthiya** (civil) and **Kantakashodhana** (criminal / thorn-removal).
-- Divorce is allowed in listed cases (desertion, long absence, barrenness, adultery). Contrast **Manusmriti**: a widower may remarry, but a widow is barred; foreigners who ignore local priestly custom are **fallen kshatriyas**.
-- Date debate (Mauryan core versus later redaction) does not change the Prelims tag: it is the **Mauryan state-book**. The *Mudrarakshasa* is not this text. The book is often compared with Machiavelli’s *Prince*.
+- Divorce is allowed in listed cases (desertion, long absence, barrenness, adultery).
+- Contrast **Manusmriti**: a widower may remarry, but a widow is barred; foreigners who ignore local priestly custom are **fallen kshatriyas**.
+
+### Date and compare-text
+
+- Date debate (Mauryan core versus later redaction) does not change the Prelims tag: it is the **Mauryan state-book**.
+- The *Mudrarakshasa* is not this text.
+- The book is often compared with Machiavelli’s *Prince*.
 
 > ** note:** Kautilya is not Megasthenes. The Arthashastra is not the Indica.
 
@@ -618,7 +766,11 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 ## 7.16 Revenue Administration
 
-**Land is the tank | *bhaga* the headline | Samaharta in, Sannidhata stores**
+## 7.16 Revenue Administration
+
+**Land revenue is the main tank | Samaharta collects | Sannidhata stores**
+
+The Mauryan state lives mainly on land dues. Hold the levy names as separate facts.
 
 | Levy | Fact |
 |------|------|
@@ -628,40 +780,69 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 | **Shulka** | Toll / customs (*sulkadhyaksha*) |
 | **Vishti** | Forced labour |
 | **Udakabhaga** | Irrigation cess |
-| **Pranaya** | Emergency / benevolence tax (**UKPCS 2021** lock) |
+| **Pranaya** | Emergency / benevolence tax (**UKPCS 2021**) |
 | **Sita** | Crown-farm produce (*sitadhyaksha*) |
 | **Vivit** | Pasture tax (*vivitadhyaksha*) |
 
-- Also: mines, salt, liquor, forest (*kupya*), guild dues. Punch-marked silver in the *kosha*.
-- Rummindei: Lumbini **bali-free**, *bhaga* cut to **1/8**.
-- Agronomai measure fields for this machine (2020). Pautavadhyaksha = weights, not Agronomai.
-- Mauryas did **not** grant land on a religious basis as a system. Earliest epigraphic religious land grants appear under the **Satavahanas**.
+- Mines, salt, liquor, forest (*kupya*), and guild dues also feed the treasury.
+- Punch-marked silver sits in the *kosha*.
+- At Rummindei (Lumbini), **bali** is remitted and *bhaga* is cut to **1/8**.
+- Agronomai measure fields for this revenue machine. That is the accepted key.
+- The *pautavadhyaksha* is the **weights** officer. He is not Agronomai.
+- Mauryas did **not** grant land on a religious basis as a system.
+- The earliest epigraphic religious land grants appear under the **Satavahanas**.
 - **Sohgaura** copper plate (Gorakhpur, UP) and **Mahasthan** inscription (Bangladesh) are the earliest royal orders to store grain for famine relief.
-- Girnar / Sudarshana: **Pushyagupta** under Chandragupta built the lake; **Tushaspha** under Ashoka cut canals; **Rudradaman** later repaired it (full story in Topic 8).
+- At Girnar / Sudarshana, **Pushyagupta** under Chandragupta built the lake.
+- **Tushaspha** under Ashoka cut canals.
+- **Rudradaman** later repaired it (full story in Topic 8).
 
 > ** note:** Rummindei = tax-cut at Lumbini, not a new capital. **Pranaya** = emergency tax.
 
 ---
 
----
-
 ## 7.16a Mauryan Trade and Economy
 
-- Land revenue (**bhaga**, **bali**, **hiranya**) was the main tank; **samaharta** collected and **sannidhata** stored.
-- **Guilds (*shreni*)** were regulated, not abolished. Craft towns continued under *panyadhyaksha* control.
+**Trade beside land tax | neighbours stay neighbours | urban markers**
+
+- Land revenue (**bhaga**, **bali**, **hiranya**) was the main tank.
+- The **samaharta** collected. The **sannidhata** stored.
+- **Guilds (*shreni*)** were regulated, not abolished.
+- Craft towns continued under *panyadhyaksha* control.
 - Rock Edict **II** names **Chola, Pandya, Satiyaputra, Keralaputra, and Tamraparni** as neighbours — not Mauryan provinces.
-- The northwest had **Yavana** contact; punch-marked **silver** remained the standard coin.
+- The northwest had **Yavana** contact.
+- Punch-marked **silver** remained the standard coin.
 - **Ring-wells** and **NBPW** mark urban Mauryan sites.
 
 ## 7.17 Spy System
 
-**Kautilya’s eyes | *gudhapurusha* | nine textbook covers**
+**Kautilya’s secret service | sanstha = stationary | sanchara = mobile**
 
-- **Sanstha** spies are stationary (five covers): *kapatika* (student), *udasthita* (renouncer), *grihapatika* (householder), *vaidehaka* (trader), and *tapasa* (ascetic).
-- **Sanchara** spies are mobile (four covers): *satri*, *tikshna*, *rasada* (poisoner), and *bhikshuki* (wandering nun). Female agents exist.
-- **Ubhayavetana** is a double agent, paid by both sides. The *vishkanya* is later legend, not an edict.
-- **Upadha** tests of ministers use dharma, artha, kama, and bhaya. The *pradeshtri* inspects and feeds intelligence.
-- The Ashokan face is the *pativedaka* of Rock Edict VI. Megasthenes’ *ephoroi* are an outsider’s overseers.
+Ashoka did **not** abolish spies. The spy chapter belongs to the *Arthashastra*, not to Rock Edict XII.
+
+### Stationary covers (*sanstha*)
+
+- *Kapatika* is the student cover.
+- *Udasthita* is the renouncer cover.
+- *Grihapatika* is the householder cover.
+- *Vaidehaka* is the trader cover.
+- *Tapasa* is the ascetic cover.
+
+### Mobile covers (*sanchara*)
+
+- *Satri* is one mobile type.
+- *Tikshna* is another.
+- *Rasada* is the poisoner.
+- *Bhikshuki* is the wandering nun.
+- Female agents exist in the system.
+
+### Other spy facts
+
+- **Ubhayavetana** is a double agent, paid by both sides.
+- The *vishkanya* is later legend, not an edict.
+- **Upadha** tests of ministers use dharma, artha, kama, and bhaya.
+- The *pradeshtri* inspects and feeds intelligence.
+- The Ashokan face is the *pativedaka* of Rock Edict VI.
+- Megasthenes’ *ephoroi* are an outsider’s overseers.
 - The king gets secret reports **outside** the normal chain so officers cannot collude.
 
 > ** note:** Spy chapters are **Arthashastra**, not Rock Edict XII. Ashoka did not “abolish spies.”

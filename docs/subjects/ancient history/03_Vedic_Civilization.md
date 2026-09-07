@@ -78,7 +78,7 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 ## Books and Writers — Vedic Age
 
-**Match-list home | Vedanga authors | corpus heads stay without personal writers**
+**Book–writer pairs | Vedanga authors | corpus heads stay without personal writers**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -489,7 +489,9 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 
 > ** note:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna (Black)** Yajurveda — not hymns to god Krishna.
 
-**PYQ — UPPCS Prelims 2018, Q13Logic:** Stem asks which Samhita belongs to **Shukla** Yajurveda. Three distractors are famous **Krishna (Black)** Samhitas. Paper spelling **Vajasanami** = standard **Vajasaneyi**.
+**PYQ — UPPCS Prelims 2018, Q13**
+
+**Logic:** Stem asks which Samhita belongs to **Shukla** Yajurveda. Three distractors are famous **Krishna (Black)** Samhitas. Paper spelling **Vajasanami** = standard **Vajasaneyi**.
 
 Which of the following is a Samhita of Shukla Yajurveda?
 
@@ -1598,7 +1600,9 @@ D. 4 3 1 2
 
 ### UPPCS Prelims 2018
 
-**Q3. UPPCS Prelims 2018, Q13Logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
+**Q3. UPPCS Prelims 2018, Q13**
+
+**Logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
 
 Which of the following is a Samhita of Shukla Yajurveda?
 

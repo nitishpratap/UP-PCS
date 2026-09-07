@@ -98,7 +98,7 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 ## Books and Writers — Foreign Invasions Age
 
-**Match-list home | Greek and companion sources**
+**Book–writer pairs | Greek and companion sources**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -148,22 +148,48 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 **Born 356 at Pella | king 336 | India 327–325 (~19 months) | year 326**
 
-- In **327** he crosses the Hindu Kush into the Cophen (Kabul) valley, takes **Massaga** of the Assakenoi, and takes the Rock of **Aornos** (Pir-Sar).
-- In **326** he crosses the **Indus**. **Ambhi / Omphis** of Taxila **submits** and becomes an ally. **Abisares** of Kashmir sends gifts and does not fight.
-- The Battle of the **Hydaspes** is fought on the **Jhelum** against **Porus**. Alexander makes a night crossing in rain. **Craterus** holds the camp bank.
-- Porus asks to be treated as a **king**. He is restored and **enlarged**. Alexander founds **Nicaea** (victory) and **Bucephala** (for the horse).
-- He then crosses the Acesines (Chenab) and the Hydraotes (Ravi). He storms **Sangala** of the **Kathaioi**. This is not Menander’s Sagala.
-- **Phegeus** warns him of Nanda numbers. At the **Hyphasis (Beas)** the army mutinies. **Coenus** speaks for the troops. Alexander raises **twelve altars** and turns west.
-- Among the **Malloi / Malavas** Alexander is pierced by an arrow. The **Oxydrakai** (Kshudrakas) submit.
-- **Nearchus** sails from the Indus mouth to the Gulf. The **Gedrosia** desert march is a slaughter.
-- He leaves **Ambhi** as satrap at Taxila and **Porus** over the Hydaspes country. **Philip** is a satrap and is later murdered. **Peithon** holds the lower Indus. **Eudemus** is a leftover officer.
+Alexander’s Indian march lasts about **19 months**. The fight year to remember is **326 BCE**. The stop river is the **Beas (Hyphasis)**.
+
+### Entry and Taxila (327–326)
+
+- In **327** he crosses the Hindu Kush into the Cophen (Kabul) valley.
+- He takes **Massaga** of the Assakenoi.
+- He takes the Rock of **Aornos** (Pir-Sar).
+- In **326** he crosses the **Indus**.
+- **Ambhi / Omphis** of Taxila **submits** and becomes an ally.
+- **Abisares** of Kashmir sends gifts and does not fight.
+
+### Hydaspes and after
+
+- The Battle of the **Hydaspes** is fought on the **Jhelum** against **Porus**. Full Cause → Course → Result sits in §6.2a.
+- He then crosses the Acesines (Chenab) and the Hydraotes (Ravi).
+- He storms **Sangala** of the **Kathaioi**. This is not Menander’s Sagala.
+- **Phegeus** warns him of Nanda numbers.
+- At the **Hyphasis (Beas)** the army mutinies. **Coenus** speaks for the troops.
+- Alexander raises **twelve altars** and turns west.
+- Among the **Malloi / Malavas** Alexander is pierced by an arrow.
+- The **Oxydrakai** (Kshudrakas) submit.
+
+### Return and aftermath
+
+- **Nearchus** sails from the Indus mouth to the Gulf.
+- The **Gedrosia** desert march is a slaughter.
+- He leaves **Ambhi** as satrap at Taxila and **Porus** over the Hydaspes country.
+- **Philip** is a satrap and is later murdered.
+- **Peithon** holds the lower Indus.
+- **Eudemus** is a leftover officer.
 - In **323** Alexander dies at **Babylon**. The Indian posts evaporate.
 
-- The march gives the first tight Greek *description* of India. NW satrapies last only a blink. Sea and land route knowledge comes via **Nearchus**.
-- **Sandrokottos = Chandragupta** is the peg of **William Jones**. Magadha and Buddha dates hang on this.
-- The power vacuum is what the **Mauryas** fill. The seed of later portrait coins and Gandhara style is planted here.
+### Why the march matters
 
-- Sources are Arrian’s *Anabasis* and *Indica*, from Ptolemy and Aristobulus. Also used are Plutarch, Diodorus, Curtius, and Justin. There is no Indian royal inscription of the march.
+- The march gives the first tight Greek *description* of India.
+- Northwest satrapies last only a blink.
+- Sea and land route knowledge comes via **Nearchus**.
+- **Sandrokottos = Chandragupta** is the peg of **William Jones**. Magadha and Buddha dates hang on this.
+- The power vacuum is what the **Mauryas** fill.
+- The seed of later portrait coins and Gandhara style is planted here.
+- Sources are Arrian’s *Anabasis* and *Indica*, from Ptolemy and Aristobulus. Also used are Plutarch, Diodorus, Curtius, and Justin.
+- There is no Indian royal inscription of the march.
 
 > ** note:** Hydaspes is the **fight**. Hyphasis is the **stop**. Sangala is not Sagala. The Ganga is a trap.
 

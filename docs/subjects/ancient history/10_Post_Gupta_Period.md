@@ -78,7 +78,7 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 
 ## Books and Writers — Post-Gupta / Harsha Age
 
-**Match-list home | Bana, Harsha’s plays, Chinese travellers**
+**Book–writer pairs | Bana, Harsha’s plays, Chinese travellers**
 
 | Book / text | Writer / authority | What it is for |
 |-------------|--------------------|----------------|
@@ -175,14 +175,44 @@ D. Ishwaravarman — Jaunpur stone inscription
 
 ## 10.4 Policies of Harshavardhana
 
-**Digvijaya in the north | Narmada is the wall | charity plus assembly**
+**Digvijaya in the north | Narmada is the southern wall | charity plus assembly**
 
-- The early aim is to punish **Shashanka**. The east ally against Gauda is **Bhaskaravarman** of Kamarupa. Gauda is weakened. Shashanka dies about 637.
-- In the west he reaches Punjab, Rajasthan, and Gujarat. Maitraka **Dhruvasena II** of Valabhi is restored as an ally. **Rajyashri did not marry Dhruvasena.** She is Grihavarman’s widow.
-- In the south he tries the Deccan. **Pulakeshin II** beats him about **630–634**. The **Aihole inscription** of **Ravikirti** on the **Meguti** temple records that boast. Pulakeshin II is of **Vatapi**. The **Narmada** is the effective southern line. Some copper-plate readings push the clash toward **618 CE**; the stopper remains Pulakeshin II.
-- The Kannauj **assembly of 643** honours Xuanzang. Rulers from many lands attend; Mahayana is foregrounded. The **Prayag Moksha-parishad / Mahamoksha** is held every five years at the Sangam. Xuanzang sees one of these give-aways. An embassy goes to Tang **Taizong** about 641.
-- Chinese writers call India **Yin-tu**. Silk can appear as **kausheya**. Xuanzang notes **Mathura** for cotton cloth and **Varanasi** for silk; Thanesar’s prosperity is trade-based.
-- Chinese report a slaughter ban in his lands. Faith is Buddhist patronage without wiping out Hindu cults. He never becomes a Deccan emperor.
+Harsha tries to reunite north India after the Guptas. He succeeds in the north and west. He fails to become a Deccan emperor.
+
+### East — Shashanka
+
+- The early aim is to punish **Shashanka** of Gauda.
+- The east ally against Gauda is **Bhaskaravarman** of Kamarupa.
+- Gauda is weakened. Shashanka dies about **637 CE**.
+
+### West — Valabhi
+
+- In the west he reaches Punjab, Rajasthan, and Gujarat.
+- Maitraka **Dhruvasena II** of Valabhi is restored as an ally.
+- **Rajyashri did not marry Dhruvasena.** She is Grihavarman’s widow.
+
+### South — Pulakeshin II (Cause, Course, Result)
+
+**Cause:** Harsha pushed south from Kannauj and tried to cross into the Deccan.
+
+**Course:** **Pulakeshin II** of **Vatapi** stopped him about **630–634 CE**. The **Aihole inscription** of **Ravikirti** on the **Meguti** temple records that boast. Some copper-plate readings push the clash toward **618 CE**; the stopper remains Pulakeshin II.
+
+**Result:** The **Narmada** becomes Harsha’s effective southern line. He never becomes a Deccan emperor.
+
+### Assemblies and charity
+
+- The Kannauj **assembly of 643** honours Xuanzang. Rulers from many lands attend; Mahayana is foregrounded.
+- The **Prayag Moksha-parishad / Mahamoksha** is held every five years at the Sangam. Xuanzang sees one of these give-aways.
+- An embassy goes to Tang **Taizong** about **641**.
+
+### Economy and faith notes
+
+- Chinese writers call India **Yin-tu**.
+- Silk can appear as **kausheya**.
+- Xuanzang notes **Mathura** for cotton cloth and **Varanasi** for silk.
+- Thanesar’s prosperity is trade-based.
+- Chinese report a slaughter ban in his lands.
+- Faith is Buddhist patronage without wiping out Hindu cults.
 
 > ** note:** The Narmada stop is not the Battle of Kannauj 1540 (Sher Shah / Humayun).
 
@@ -282,11 +312,25 @@ A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 - Headline names for that later file: Pratihara **Nagabhata I**, Rashtrakuta **Dantidurga** (Hiranyagarbha at Ujjain; capital Manyakheta), **Amoghavarsha I**, Pala **Dharmapala**.
 - Shankaracharya’s Advaita maths and Chardham traps belong to Bhakti / Vedanta notes, not this Harsha card.
 
-## 10.11 Hunas in Post-Gupta North — Cause, Course, Result
+## 10.11 Hunas in Post-Gupta North
 
-- **Cause:** weakness of later Guptas; northwest gateway open.
-- **Course:** **Toramana** → **Mihirakula** (Gwalior inscription; Sakala seat); **Yashodharman** of Malwa boasts victory at **Mandasor / Sondani** (~532), composed by **Vasula**.
-- **Result:** Huna power fades by mid-6th c.; north fragments until **Harsha** (606–647).
+**After Skandagupta | Toramana → Mihirakula | Yashodharman stops them**
+
+### Cause
+
+- Later Guptas were weak after Skandagupta.
+- The northwest gateway stayed open to Huna pressure.
+
+### Course
+
+- **Toramana** is the early Huna king who pushes into north India.
+- **Mihirakula** follows him. The Gwalior inscription remembers him. His seat is at **Sakala**.
+- **Yashodharman** of Malwa boasts victory at **Mandasor / Sondani** about **532 CE**. The composer is **Vasula**.
+
+### Result
+
+- Huna power fades by the mid-6th century.
+- North India stays fragmented until **Harsha** (606–647 CE).
 
 ## UP Focus
 
