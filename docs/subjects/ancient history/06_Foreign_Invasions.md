@@ -4,21 +4,21 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign Invasions | Seleucus Nicator | Indo-Greek Kingdom | Shakas | Parthians | Kushanas | Kanishka
+Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign Invasions | Seleucus Nicator | Indo-Greek Kingdom | Shakas | Parthians | Kushanas | Kanishka | Dress & Art (Gandhara–Mathura)
 
 </details>
 
-> **Sources baked in:** NCERT, Arrian/Plutarch, RS Sharma, Junagadh/Nasik epigraphy, UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — 2023 invader order, Hydaspes vs Beas, Menander/Nagasena, Maues/Rudradaman, Kanishka/Shaka era
-> **Last verified:** August 2026
+> **Sources baked in:** NCERT, Arrian/Plutarch, RS Sharma, Junagadh/Nasik epigraphy, Mat / Surkh Kotal sculpture, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — 2023 invader order, Hydaspes vs Beas, Menander/Nagasena, Maues/Rudradaman, Kanishka/Shaka era, Kushan dress, Gandhara–Mathura
+> **Last verified:** September 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 33 Must-Score Facts
+## Consolidated — 42 Must-Score Facts
 
 1. North-west doors into India are the **Khyber** and **Bolan** routes. After Achaemenid Persians came Macedon, then **Indo-Greek → Shaka → Parthian → Kushan**.
-2. Correct invader order s is **Greeks → Sakas → Kushans**. Kushans do **not** come before Sakas.
+2. Correct invader order is **Greeks → Sakas → Kushans**. Kushans do **not** come before Sakas.
 3. **Darius I** (about **518 BCE**) took **Gandhara** and **Hindush** as the **20th** satrapy with gold-dust tribute. Behistun lists many provinces of his empire; Herodotus makes India the twentieth. **Skylax** explored the Indus. **Kharoshthi** grew from Aramaic. **Ctesias** was physician to **Artaxerxes II**.
 4. **Alexander** entered India about **327–325 BCE** (year often **326**). The campaign lasted roughly **19 months**. He returned west from the Indus mouth / Paatal region about **325 BCE**.
 5. **Ambhi** of Taxila was Alexander’s **ally**. **Porus** fought him at the **Hydaspes (Jhelum)** and was then restored and enlarged.
@@ -50,6 +50,15 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 31. Menander is the Indo-Greek **Milinda**. **Nagarjuna** is the later Madhyamaka philosopher — a common name trap beside Nagasena.
 32. After Kushan decline, north-west politics again fragment; the next big imperial story in Magadha is Gupta, not another Alexander.
 33. Alexander’s Indian success is usually read as **no central power**, a **superior army**, and help from **traitorous Indian rulers** (e.g. Ambhi). Being a “good administrator” is **not** a standard cause of that victory.
+34. Headline Indo-Greek kings to name: **Demetrius I** (first big Indian push), **Apollodotus** (early Indian-side silver), **Menander / Milinda** (Sagala; *Milinda Panha*), **Antialcidas** (sends Heliodorus), **Agathocleia–Strato I**, late **Hermaeus / Strato II**.
+35. Headline Shaka kings: **Maues / Moga** (first at Taxila), **Azes I**, **Nahapana** (Kshaharata; beaten by Gautamiputra), **Chashtana** then **Rudradaman I** (Kardamaka; Junagadh).
+36. Headline Kushan kings: **Kujula Kadphises** (unifier; mainly copper) → **Vima Kadphises** (gold; *Shaonanoshao*) → **Kanishka** → **Huvishka** → **Vasudeva I**.
+37. The headless **Mat** statue near **Mathura** shows **Kanishka** in Central Asian dress: long quilted coat / caftan, **trousers**, and heavy **padded boots**, holding a **mace** and **sword**.
+38. Kushan royal dress is steppe riding kit — **not** the Indian dhoti style of Mauryan royal memory. Coins and Mat / Surkh Kotal portraits keep that look.
+39. North Indian **Surya** images often wear tunic, trousers, and boots (**udichya-vesa**) under Shaka–Kushan influence. That boot-clad Surya is a foreign-wave art fact.
+40. **Gandhara** art uses grey / green **schist** and Greco-Roman Buddha modelling in the NW. **Mathura** art uses mottled **red sandstone** and indigenous types in **UP**.
+41. Early anthropomorphic **Buddha** images grow under Indo-Greek to Kushan patronage at both schools. Kanishka’s coins and the Sarnath image of monk **Bala** (year 3) are dated Buddhist-icon pegs.
+42. Classic **Nataraja** (Chola lost-wax bronze, damaru–agni–Apasmara) is **not** a Kushan sculpture fact. Kushan Mathura shows early **Shiva** as linga / mukhalinga and as **Oesho** on coins — not the Chola Nataraja type.
 
 ---
 
@@ -78,6 +87,12 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 | Purushapura | Sagala | Kushan **Peshawar** capital vs Indo-Greek **Sialkot** | पुरुषपुर / सागल |
 | Hathigumpha | Junagadh | Kharavela’s Kalinga cave vs Rudradaman’s Shaka rock | हाथीगुफा / जूनागढ़ |
 | Gondophares | Kanishka | Brief **Parthian** NW vs **Kushan** empire peak | गोंडोफेरिस / कनिष्क |
+| Demetrius I | Menander | First big Indo-Greek **push** vs greatest Indo-Greek / **Milinda** | डेमेट्रियस / मेनांडर |
+| Kujula | Kanishka | Founder / unifier vs imperial **climax** + era **78 CE** | कुजुल / कनिष्क |
+| Gandhara art | Mathura art | NW **schist**, Greco-Roman vs UP **red sandstone**, indigenous | गांधार / मथुरा |
+| Kushan dress | Mauryan dhoti look | Coat + **trousers** + boots vs Indian lower-garment royal memory | कुषाण वेश / धोती |
+| Early Mathura Shiva | Chola Nataraja | Linga / mukhalinga / Oesho under Kushan vs later Tamil **bronze dancer** | मथुरा शिव / चोल नटराज |
+| Booted Surya | Barefoot South Surya | North Indian **udichya-vesa** (Shaka–Kushan) vs southern bare legs | सूर्य जूते / दक्षिणी सूर्य |
 
 ---
 
@@ -155,7 +170,7 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 ### Rock of Aornos (327 BCE) — Cause, Course, Result
 
-**Site:Pir-Sar** (tradition) | **Fact:** “last natural fortress” before the Indus plain
+**Site:** Pir-Sar (tradition) | **Fact:** “last natural fortress” before the Indus plain
 
 **Cause:** Local tribes held a steep rock that controlled the line of march.
 **Course:** Alexander built a siege mound and scaled the rock in a night assault after encircling the defenders.
@@ -163,13 +178,17 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 ### Sangala (326 BCE) — Cause, Course, Result
 
-**People:Kathaioi** | **Trap:** not Menander’s **Sagala (Sialkot)Cause:** After Hydaspes, the **Kathaioi** fortified **Sangala** and resisted Macedonian control east of the Chenab.
+**People:** Kathaioi | **Trap:** not Menander’s **Sagala (Sialkot)**
+
+**Cause:** After Hydaspes, the **Kathaioi** fortified **Sangala** and resisted Macedonian control east of the Chenab.
 **Course:** Alexander stormed the city with siege engines after crossing the **Acesines (Chenab)** and **Hydraotes (Ravi)**.
 **Result:** Sangala was destroyed. This town is **not** Indo-Greek **Sagala** of **Menander (Milinda)**.
 
 ### Malloi campaign (326 BCE) — Cause, Course, Result
 
-**People:Malloi / Malavas** | **Fact:** Alexander **woundedCause:** The **Malloi** and allied **Oxydrakai (Kshudrakas)** resisted on the lower Indus approach after the eastward push stalled at the **Beas**.
+**People:** Malloi / Malavas | **Fact:** Alexander **wounded**
+
+**Cause:** The **Malloi** and allied **Oxydrakai (Kshudrakas)** resisted on the lower Indus approach after the eastward push stalled at the **Beas**.
 **Course:** Alexander led a punishing campaign into their towns. In one assault he was **pierced by an arrow** — his serious Indian wound.
 **Result:** The **Malloi** were crushed. The **Oxydrakai** submitted. Alexander then turned to the **Indus delta** and **Nearchus**’s fleet.
 
@@ -233,6 +252,8 @@ B. Greeks — Kushans — Sakas
 C. Sakas — Greeks — Kushans
 D. Sakas — Kushans — Greeks
 
+**Logic:** Stem tests relative order only; “Greeks” here means the Hellenistic entry (Alexander + Indo-Greek), not Darius.
+
 <details>
 <summary>Show answer</summary>
 
@@ -271,22 +292,36 @@ D. Sakas — Kushans — Greeks
 
 ## 6.6 Indo-Greek Kingdom
 
-**Bactrian Greeks in the Punjab–Gandhara | 2nd–1st c. BCE**
+**Bactrian Greeks in the Punjab–Gandhara | 2nd–1st c. BCE | many kings, few must-score names**
 
-- Greco-Bactria breaks from the Seleucids under **Diodotus**, about **250 BCE**. **Euthydemus** faces Antiochus III’s siege.
-- **Demetrius I**, about **180 BCE**, makes the first big Indian push. He uses an elephant-scalp helmet. He is the Indian-invasion king.
-- **Eucratides** splits Bactria. Indian Greek lines outlive Bactria. **Hermaeus** is among the last in the Kabul belt. **Strato II** is among the last in eastern Punjab.
+### Framework — how the house opens
 
-- **Agathocles** and **Pantaleon** put early **Brahmi** legends on coins. Their types include **Balarama** and **Vasudeva**. **Apollodotus** issues early Indian-side silver.
-- **Menander I (Milinda)** is the greatest Indo-Greek. His capital is **Sagala (Sialkot)**. His coin type is Athena Alkidemos. The *Milinda Panha* is his debate with **Nagasena**.
-- **Agathocleia** is queen and regent with **Strato I**. **Antialcidas** sends **Heliodorus** to Sunga Vidisha.
+- Greco-Bactria breaks from the Seleucids under **Diodotus**, about **250 BCE**.
+- **Euthydemus** faces Antiochus III’s siege and keeps Bactrian independence.
+- About thirty Hellenistic kings rule fragmented NW principalities from the **2nd century BCE** into the early **1st century CE**. Papers do **not** need all thirty names.
+- In chronology, these Indo-Greeks sit **after** Alexander’s own lifetime and **before** Shakas and Kushans.
 
-- The *Yuga Purana* / Gargi tradition has **Yavanas** toward **Pataliputra**. That raid is hung on Demetrius or Menander.
+### Kings — one card each
+
+- **Demetrius I** (about **180 BCE**), son of Euthydemus, makes the first big Greek push into India after Alexander. He conquers southern Afghanistan and parts of Punjab. His famous coin type wears an **elephant-scalp** helmet. He is the Indian-invasion king of the house.
+- **Apollodotus I** is often treated as the first king whose power is centred on the Indian side rather than on Bactria. He issues early Indian-side **silver** and holds Gandhara–western Punjab.
+- **Agathocles** puts early **Brahmi** legends on coins. His types include **Sankarshana (Balarama)** and **Vasudeva**.
+- **Pantaleon** belongs to the same early bilingual / Vaishnava coin horizon as Agathocles.
+- **Eucratides** splits Bactria and fights the Euthydemid line. Indian Greek lines outlive Bactria itself.
+- **Menander I (Milinda)** is the greatest Indo-Greek. He rules about the mid-**2nd century BCE** from **Sagala (Sialkot)**. His coin type is **Athena Alkidemos**. The *Milinda Panha* is his debate with the monk **Nagasena**. Tradition remembers him as a Buddhist patron. His reach is remembered from the Kabul valley toward the Ravi and, in some memories, farther east.
+- **Agathocleia** is queen and regent with her son **Strato I** after Menander’s age.
+- **Antialcidas** rules from Taxila tradition and sends the ambassador **Heliodorus** to Sunga Vidisha.
+- **Hermaeus** is among the last Indo-Greek names in the **Kabul** belt.
+- **Strato II** is among the last in eastern Punjab and is remembered for **lead** coins.
+
+### Culture, coins, sites
+
+- The *Yuga Purana* / Gargi tradition has **Yavanas** toward **Pataliputra**. That raid is hung on Demetrius or Menander, **not** on Alexander in 326 BCE.
 - Heliodorus raises the Besnagar Garuda pillar about **113 BCE**. He calls himself a Bhagavata of **Vasudeva**.
 - Coins are the first **portrait, die-struck** money in India. Legends are **Greek plus Kharoshthi**. Sometimes Brahmi appears.
 - Metal on the Indian side is silver and copper. **Gold** is the **Kushan** headline under Vima and Kanishka, not under Menander.
-- Gandhara art is Greco-Buddhist sculpture. It peaks under the **Kushans**, with Mathura, after these Greeks.
-- The end comes when **Shakas** eat the west.
+- Gandhara Greco-Buddhist sculpture starts from this Hellenistic seed and **peaks under the Kushans**, beside Mathura.
+- The end comes when **Shakas** eat the west. **Azes I** takes remaining Greek ground from kings such as **Hippostratos** in numismatic lists.
 - Pushyamitra’s **Ayodhya** inscription is the ashwamedha record. It is not Heliodorus.
 
 **PYQ — UPPCS Prelims 2023, Q24**
@@ -295,10 +330,12 @@ D. Sakas — Kushans — Greeks
 
 A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
+**Logic:** Stem tests the monk of *Milinda Panha*, not the later Madhyamaka philosopher.
+
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Nagasena.** King = Menander / Milinda. Not Nagarjuna.
+**Ans: C — Nagasena.** King = Menander / Milinda. Trap A swaps in **Nagarjuna**.
 
 </details>
 
@@ -313,24 +350,32 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 - The Indian name **Shaka** means the **Scythians**, Iranian nomadic tribes of the Central Asian steppes. They were pushed west and south when Chinese walls blocked their eastern path and pressure built on Bactria and Parthia.
 - They enter northwest India from about the **1st century BCE**, after the Indo-Greek wave. In chronology they sit **after Greeks** and **before Kushans**.
 - The Persian administrative word **kshatrapa** (satrap) becomes their Indian title. A great western ruler takes **mahakshatrapa**.
+- Like later Kushans, Shaka horse-nomads keep **trousers**, coats, and boots in portrait tradition. That northern dress later shapes boot-clad **Surya** images.
 
-**First Shaka in India — Maues / Moga**
+### Kings — north-west line
+
 - **Maues**, also called **Moga**, is the earliest Indo-Scythian king named in India. He establishes Shaka power in **Gandhara** and around **Taxila**.
-- His rule runs on both sides of the Indus, from **Pushkalavati** in the west to **Taxila** in the east. His capital tradition points to **Sirkap** in the Punjab.
-- His coins are mostly copper with some silver. Obverse types mix Greek deities with **Shiva** and **Buddha**. **Azes I** is the usual successor in numismatic lists.
+- His rule runs on both sides of the Indus, from **Pushkalavati** in the west to **Taxila** in the east. His capital tradition points to **Sirkap**.
+- His coins are mostly copper with some silver. Obverse types mix Greek deities with **Shiva** and **Buddha**.
+- **Azes I** is the usual successor in numismatic lists. He finishes off remaining Indo-Greek pockets in the Punjab belt.
 
-**Two western Shaka houses**
-- The **Kshaharata** line rules in the western Deccan belt. **Bhumaka** is an early name. **Nahapana** is the greatest of this house.
-- Nahapana’s coins appear from **Ajmer** to **Nasik**. His capital is **Minnagara**, between Ujjain and Broach. His son-in-law **Ushavadatta** is viceroy of the southern part.
+### Kings — Western Kshatrapa houses
+
+- The **Kshaharata** line rules in the western Deccan belt. **Bhumaka** is an early name.
+- **Nahapana** is the greatest of the Kshaharata house. His coins appear from **Ajmer** to **Nasik**. His capital is **Minnagara**, between Ujjain and Broach.
+- Nahapana’s son-in-law **Ushavadatta** is viceroy of the southern part and appears in Nasik cave donations.
 - **Gautamiputra Satakarni** of the Satavahanas defeats Nahapana. The **Nasik prasasti** of queen **Gautami Balashri** records the victory. Nahapana’s silver was restruck in the Jogalthembi hoard type.
 - The **Kardamaka** line rules western India from about the 1st century CE. **Chashtana** is the founder named in the **Andau inscription** of 130 CE.
+- **Jayadaman** sits between Chashtana and the great grandson in standard genealogies.
 - **Rudradaman I** is Chashtana’s grandson and the greatest western Shaka. He rules about **130–150 CE** as **mahakshatrapa**.
 
-**Rudradaman and the Junagadh inscription**
+### Rudradaman and the Junagadh inscription
+
 - The **Junagadh / Girnar rock inscription** of Rudradaman is the first long record in literary **Sanskrit** prose in India.
-- The inscription tells the story of the **Sudarshana lake** in Gujarat. **Pushyagupta**, a Vaishya governor, built it under **Chandragupta Maurya**. **Tushaspha**, a Yavana, adorned it under **Ashoka**. A storm burst the embankment. **Rudradaman repaired it**. He did **not** claim he founded the lake.
+- The inscription tells the story of the **Sudarshana lake** in Gujarat. **Pushyagupta**, a Vaishya governor, built it under **Chandragupta Maurya**. **Tushaspha**, a Yavana, adorned it under **Ashoka**. A storm burst the embankment. **Rudradaman repaired it without forced labour**. He did **not** claim he founded the lake.
 - Rudradaman boasts victories over a Satavahana **Satakarni** of the Deccan but spares his life because of family ties. He also humbled the **Yaudheyas** of southern Punjab.
 - His capital was **Ujjain**. His sway ran over Sindh, Kutch, Gujarat, Konkan, Malwa, and Kathiawar.
+- Kardamaka coinage is mainly **silver** and **potin**. Copper issues are rare.
 
 - Shaka rule in the far northwest fades as **Kushans** take Gandhara. Western kshatrapas last until **Rudrasimha III** is beaten by **Chandragupta II** in the 4th century CE.
 - **Vikrama Samvat 57 BCE** belongs to the Vikramaditya legend at Ujjain. It must not be confused with **Shaka era 78 CE**, which belongs to the Kushan age.
@@ -346,6 +391,7 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 - The **Parthians** are called **Pahlavas** in Indian sources. They enter the northwest after the Shakas and before the Kushans peak.
 - Their Indian hold is **short** compared with Shakas and Kushans. The zone is **Gandhara**, **Punjab**, and **Sind**.
 - The best-known king is **Gondophares**, who rules about **19–45 CE**. His coins and inscriptions appear in the Kabul–Taxila belt.
+- Earlier Indo-Parthian names such as **Vonones** appear in coin lists, but **Gondophares** is the must-score Indian fact.
 - The site fact for Parthian Buddhism in the NW is **Takht-i-Bahi** near Mardan in Pakistan. It is a famous monastic complex of the period.
 - Christian legend places **St Thomas** at Gondophares’ court. That is pious tradition, not a royal edict.
 - **Kujula Kadphises** of the Kushans displaces Parthian and remaining Greek power in the northwest. After him the Kushan empire grows.
@@ -362,16 +408,22 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 - They first occupied **Bactria** and then crossed the **Hindu Kush** into **Gandhara** and the Punjab. They replaced Greeks, Shakas, and Parthians in the northwest.
 - Their empire at its height ran from the **Oxus** to the middle **Ganga**, covering much of Afghanistan, Pakistan, and north India.
 
-**Kushan rulers — line**
-- **Kujula Kadphises** is the founder who unifies Yuezhi clans and takes Gandhara–Punjab.
-- **Vima Kadphises** issues the first large **gold** coinage in India on a wide scale. His title on coins is **Shaonanoshao** (king of kings).
-- **Kanishka** is the greatest Kushan. His details sit in **6.10**.
-- **Huvishka** and **Vasudeva I** are later great names before decline.
+### Kings — full line (must name each)
 
-**Capitals, coins, and art**
+- **Kujula Kadphises** is the founder who unifies Yuezhi clans and takes Gandhara–Punjab. His coinage is mainly **copper**.
+- **Vima Taktu / Vima Takto** sits in Rabatak genealogy between Kujula and Vima Kadphises in modern readings. Prelims still treat **Vima Kadphises** as the gold-coin headline after Kujula.
+- **Vima Kadphises** (Kadphises II) issues the first large **gold** coinage in India on a wide scale. His titles include **Shaonanoshao** (king of kings) and **Sarvalokeshvara**.
+- **Kanishka** is the greatest Kushan. His details sit in **6.10**.
+- **Huvishka** continues the imperial gold series and Buddhist–Hindu eclectic coin types after Kanishka.
+- **Vasudeva I** is the last great name before the empire fragments. Later minor Kushans hold reduced NW pockets.
+
+### Capitals, coins, dress, art
+
 - The main capital is **Purushapura (Peshawar)**. **Mathura** in Uttar Pradesh is the second great Kushan centre inside India.
+- Dynastic sanctuaries at **Mat** (near Mathura) and **Surkh Kotal** (Afghanistan) hold royal portrait statues.
 - Kushan coins are **gold dinaras** with legends in **Greek**, **Bactrian**, and **Kharoshthi**. Royal portraits are standard.
-- Kushan patronage creates two great art schools side by side. **Gandhara** sculpture is Greco-Buddhist in the northwest. **Mathura** sculpture uses red sandstone and Indian types.
+- Kushan kings wear Central Asian riding dress: long **caftan / quilted coat**, **trousers**, belt, and heavy **boots**. This is the first Indian imperial house systematically shown in trousered dress.
+- Kushan patronage creates two great art schools side by side. **Gandhara** sculpture is Greco-Buddhist in the northwest. **Mathura** sculpture uses red sandstone and Indian types. Full compare in **6.11**.
 - The Kushans are **last** in the 2023 invader trio: Greeks → Sakas → Kushans.
 
 > ** note:** Kushan gold is the headline under **Vima**, not Menander. Purushapura is Kushan; Sagala is Indo-Greek. Mathura’s big foreign layer is Kushan, not Alexander.
@@ -380,21 +432,31 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
 ## 6.10 Kanishka
 
-**Greatest Kushan | Purushapura | Shaka era 78 CE | Buddhist council fact**
+**Greatest Kushan | Purushapura | Shaka era 78 CE | Buddhist council | Mat statue**
 
 - **Kanishka** is the most famous Kushan ruler. His empire included Afghanistan, Gandhara, Punjab, and much of the Ganga plain.
-- keys usually peg his accession to **78 CE**, the start of the **Shaka Samvat** (Shaka era). Some reference books use about **127 CE** for his reign peak. Prelims still want **78 CE** when they say Shaka era.
-- Kanishka uses the title **Devaputra** (son of god), mixing Indian, Iranian, and Hellenistic royal ideas. The **Rabatak inscription** from Afghanistan gives his genealogy if a paper names it.
+- Coaching usually pegs his accession to **78 CE**, the start of the **Shaka Samvat** (Shaka era). Some reference books use about **127 CE** for his reign peak. Prelims still want **78 CE** when they say Shaka era.
+- Kanishka uses the title **Devaputra** (son of god), mixing Indian, Iranian, and Hellenistic royal ideas. The **Rabatak inscription** from Afghanistan gives his genealogy and names cities **Saketa, Kaushambi, Pataliputra, and Champa** — **not Shravasti**.
+- The Sarnath Buddhist image set up by the monk **Bala** is dated about **81 CE** (year 3 of Kanishka’s era).
 
-**Fourth Buddhist Council**
+### Dress and royal image
+
+- The headless **Mat** statue near Mathura shows Kanishka standing frontally with a **mace** and a **sword**.
+- He wears a long heavy coat, trousers, and oversized **padded boots** — steppe kit kept even in the Indian plains.
+- The Brahmi inscription style on such royal images remembers titles like **Maharaja Rajadhiraja Devaputra Kanishka**.
+- A parallel dynastic look appears at **Surkh Kotal** in Afghanistan. Coins show the same stiff, frontal, armed king.
+
+### Fourth Buddhist Council
+
 - Kanishka convenes the **Fourth Buddhist Council** in **Kashmir** at **Kundalvana / Kundalavana** (tradition places it in the Kashmir valley).
-- **Vasumitra** is remembered as president of the council. **Ashvaghosha** writes the *Buddhacharita* in this age.
+- **Vasumitra** is remembered as president of the council. **Ashvaghosha** writes the *Buddhacharita* in this age. Court memory also names **Parsva**, **Nagarjuna**, and physician **Charaka**.
 - The school associated with the council is **Sarvastivada**. Mahayana Buddhism grows strongly under Kushan patronage.
 - Council-king memory for earlier councils: **Ajatashatru** (1st), **Kalashoka** (2nd), **Ashoka** (3rd), **Kanishka** (4th).
 
-**Kanishka monuments and religion**
+### Monuments and religion
+
 - Kanishka builds a great stupa at **Peshawar**. Chinese pilgrims later describe it as a wonder.
-- His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same monetary series. That mirrors Kushan religious eclecticism.
+- His coins show **Buddha**, **Shiva (Oesho)**, **Mithra / Miiro**, and Greek deities on the same monetary series. That mirrors Kushan religious eclecticism.
 - Kanishka is a common **trap option** for **Hathigumpha**. That inscription belongs to **Kharavela** of Kalinga — not Ashoka, Harsha, or Kanishka.
 
 **PYQ — UPPCS Prelims 2023, Q23**
@@ -405,6 +467,8 @@ A. Greeks — Sakas — Kushans
 B. Greeks — Kushans — Sakas
 C. Sakas — Greeks — Kushans
 D. Sakas — Kushans — Greeks
+
+**Logic:** Stem tests relative order of the three Hellenistic / Central Asian waves; trap B flips Sakas and Kushans.
 
 <details>
 <summary>Show answer</summary>
@@ -417,9 +481,44 @@ D. Sakas — Kushans — Greeks
 
 ---
 
+## 6.11 Dress, Sculpture, and Iconography under the Foreign Waves
+
+**Clothes of the invaders | Gandhara vs Mathura | early Shiva | Nataraja trap**
+
+### Royal and divine dress
+
+- Indo-Greeks keep Hellenistic royal portrait dress on coins — cuirass, diadem, Greek deities such as Athena — while adopting Indian scripts and some Indian gods.
+- **Shakas** and **Kushans** bring Central Asian horse-nomad kit into Indian royal art: long coat / caftan, **trousers**, belt, and boots.
+- **Kanishka’s Mat statue** is the clearest sculpture fact for that look. Vima’s enthroned Mat type wears the same heavy steppe garments.
+- North Indian **Surya** often appears in **udichya-vesa** — tunic, trousers, and boots — under Shaka–Kushan / Iranian solar influence. Southern Surya images usually stay bare-legged. Do not treat booted Surya as a Chola bronze fact.
+
+### Two art schools
+
+| School | Zone | Stone | Look |
+|--------|------|-------|------|
+| **Gandhara** | NW (Peshawar–Taxila–Afghan belt) | Grey / green **schist** (also stucco) | Greco-Roman Buddha face, wavy hair, heavy drapery |
+| **Mathura** | **Uttar Pradesh** | Mottled **red sandstone** | Indigenous body types, yaksha heritage, smiling / robust figures |
+
+- Both schools make early human **Buddha** images in the Kushan age. Gandhara leans Hellenistic. Mathura leans Indian.
+- Mathura also carves Jain tirthankaras, yaksha–yakshi railings, and early Hindu gods.
+- **Amaravati** limestone narrative art is Satavahana Andhra — not a NW foreign school. Keep it out of this chapter’s invader pair.
+
+### Early Shiva — and why Nataraja does **not** belong here
+
+- Kushan Mathura shows early anthropomorphic **Shiva** as **linga**, **mukhalinga** (one-faced / four-faced), and standing forms with Nandi.
+- Kushan coins name the same deity as **Oesho** (Shiva), often with the bull.
+- Composite early forms such as **Ardhanarishvara** also appear in this Mathura horizon.
+- The classic **Nataraja** — Shiva as cosmic dancer with **damaru**, fire, **abhaya**, **gajahasta**, right foot on **Apasmara**, inside a **prabhamandala** — is a later **Chola** lost-wax bronze type from Tamil Nadu.
+- Early dancing-Shiva reliefs belong mainly to the **Gupta and post-Gupta** temple world (and later caves), **not** to Alexander, Menander, or Kanishka’s Mat portrait.
+- Trap sentence: foreign-invasion art = Gandhara / Mathura / booted Surya / early Shiva linga. It is **not** Chola Nataraja.
+
+> ** note:** Trousers + boots = Kushan / Shaka royal look. Red sandstone Buddha = Mathura. Grey schist Buddha = Gandhara. Nataraja = Chola, not Kushan.
+
+---
+
 ## UP Focus
 
-Alexander’s line stops at the **Beas**. **No** Macedonian campaign in Awadh, Kashi, or Magadha. Indo-Greek political centre = **Taxila / Sagala**, not Mathura. **Mathura** and the middle Ganga foreign layer are mainly **Kushan**. Heliodorus pillar = **Besnagar, MP**, not UP. Rudradaman’s Junagadh rock is Gujarat, not UP — but the Sudarshana-lake Mauryan layer is a cross-state key fact.
+Alexander’s line stops at the **Beas**. **No** Macedonian campaign in Awadh, Kashi, or Magadha. Indo-Greek political centre = **Taxila / Sagala**, not Mathura. **Mathura** and the middle Ganga foreign layer are mainly **Kushan** — second capital, red-sandstone art school, and the **Mat** royal statues in Central Asian coat–trousers–boots dress. Heliodorus pillar = **Besnagar, MP**, not UP. Rudradaman’s Junagadh rock is Gujarat, not UP — but the Sudarshana-lake Mauryan layer is a cross-state key fact. Classic **Nataraja** is Chola Tamil bronze, not a Mathura-Kushan sculpture.
 
 ---
 
@@ -1354,6 +1453,105 @@ A. 1 and 2 only B. 1, 2 and 3 C. 2, 3 and 4 D. All the above
 
 ---
 
+**Q54.** Which of the following statements about Indo-Greek kings is/are correct?
+
+1. Demetrius I led the first major Bactrian-Greek push into India after Alexander.
+2. Menander’s capital is traditionally Sagala (Sialkot).
+3. Antialcidas is remembered for sending Heliodorus to Vidisha.
+
+A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+**Logic:** Stem tests the three headline Indo-Greek name-facts; none is a Shaka or Kushan name.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three. Demetrius = early push; Menander = Milinda / Sagala; Antialcidas → Heliodorus / Besnagar.
+
+</details>
+
+---
+
+**Q55.** With reference to Kushan royal dress and art, consider the following statements:
+
+1. The Mat statue near Mathura shows Kanishka in a long coat, trousers, and heavy boots.
+2. Gandhara sculpture typically uses grey or green schist with Greco-Roman modelling.
+3. The classic Chola Nataraja bronze belongs to the same Kushan Mathura atelier as the Mat statue.
+
+How many of the above statements are correct?
+A. Only one B. Only two C. All three D. None
+
+**Logic:** Statements 1–2 are standard Kushan / school facts; statement 3 confuses Chola Tamil bronze with Mathura Kushan sculpture.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1 and 2. Classic **Nataraja** is later **Chola** lost-wax work, not Kushan Mathura.
+
+</details>
+
+---
+
+**Q56.** Which one of the following pairs is **not** correctly matched?
+
+A. Maues / Moga — first named Shaka king at Taxila–Gandhara
+B. Nahapana — Kshaharata; defeated by Gautamiputra Satakarni
+C. Rudradaman I — Kardamaka; Junagadh Sanskrit inscription
+D. Gondophares — Kushan founder who issued the first wide gold coinage
+
+**Logic:** Gondophares is Parthian; gold headline and founder facts belong to Vima / Kujula.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Gondophares** is **Parthian / Pahlava**. Kushan founder = **Kujula**; wide gold = **Vima Kadphises**.
+
+</details>
+
+---
+
+**Q57.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Kujula Kadphises | 1. Greatest Kushan; Shaka era tradition |
+| B. Vima Kadphises | 2. Founder / unifier; mainly copper |
+| C. Kanishka | 3. Wide gold dinaras; Shaonanoshao |
+| D. Huvishka | 4. Successor after Kanishka in the imperial line |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4 B. 2 1 3 4 C. 3 2 1 4 D. 2 3 4 1
+
+**Logic:** Tests the Kushan succession spine, not Indo-Greek names.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kujula = founder/copper; Vima = gold; Kanishka = peak / era; Huvishka = after Kanishka.
+
+</details>
+
+---
+
+**Q58.** North Indian images of Surya often show tunic, trousers, and boots. This dress fact is correctly linked with which foreign cultural wave?
+
+A. Only Alexander’s Macedonian officers at Hydaspes
+B. Shaka–Kushan Central Asian / northern (*udichya-vesa*) influence
+C. Only Chola temple bronze ateliers of Tamil Nadu
+D. Only Mauryan polished sandstone pillars of Ashoka
+
+**Logic:** Booted Surya is a Shaka–Kushan northern-dress iconography fact, not Macedonian battle kit or Chola bronze.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Boot-clad north Indian **Surya** reflects **Shaka–Kushan** northern dress influence.
+
+</details>
+
+---
+
 ## Complete PYQ Bank (Topic 6)
 
 > UPPCS + high-yield Alexander / Persian stems from Ghatnachakra Greek Invasion block, plus recent Prelims. Magadha Nanda founder = Topic 5.
@@ -1538,3 +1736,8 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I q
 27. **Purushapura = Sagala** → Peshawar Kushan vs Sialkot Indo-Greek.
 28. **Massaga women = Kathaioi / Sangala** → Assakenoi capital **Massaga**.
 29. **Alexander success = good administrator** → not a standard cause; use no central power + army + traitors.
+30. **Kushan kings wore dhoti like Ashoka’s pillar figures** → Mat / coin portraits show **coat, trousers, boots**.
+31. **Chola Nataraja = Kanishka’s Mathura sculpture** → Nataraja is later Tamil bronze; Kushan Mathura = early Shiva linga / Buddha / royal portraits.
+32. **Gandhara = red sandstone of Mathura** → Gandhara = **schist** / Greco-Roman NW; Mathura = **red sandstone** UP.
+33. **Demetrius = Menander** → Demetrius = early push; Menander = greatest / Milinda.
+34. **Vima = founder of Kushans** → founder = **Kujula**; Vima = **gold** headline.
