@@ -8,14 +8,14 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 </details>
 
-> **Sources baked in:** Ashokan epigraphy, Arthashastra, Megasthenes/Strabo, Puranas, UPPCS Prelims 2018–2025, UKPCS Prelims 2025 (Palibothra; Mansehra–Shahbazgarhi)
+> **Sources baked in:** Ashokan epigraphy, Arthashastra, Megasthenes/Strabo, Puranas, Ghatnachakra Maurya Empire, UPPCS Prelims 2018–2025, UKPCS Prelims (Palibothra; Mansehra–Shahbazgarhi; Sudarshan; Sandrokottos; Pranaya; Taxila; Brahmins–Shramanas)
 > **Weight:** ★★★ — RE XII (2022), Agronomai (2020), Dhamma-mahamatras (2024), Vishnu Purana (2023)
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 38 Must-Score Facts
 
 1. The Mauryan empire runs about **322–185 BCE**. Buddhist tradition links the clan to **Moriya / Pipphalivana**; some Puranas smear a “low origin.”
 2. King order is **Chandragupta (322–297)** → **Bindusara Amitraghata (297–273)** → **Ashoka** (accession about **272**, coronation **268–232**) → last **Brihadratha**, killed by **Pushyamitra Shunga** in **185 BCE**.
@@ -48,7 +48,13 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 29. Chandragupta Maurya (322 BCE founder) is not **Chandragupta II Vikramaditya** of the Gupta age.
 30. Pushyamitra’s coup in **185 BCE** ends Mauryan rule and begins Shunga power. Post-Ashoka decline had already weakened the periphery.
 31. Kautilya’s *Arthashastra* is the Sanskrit statecraft text. Megasthenes’ *Indica* is the Greek outsider report. Use each for the questions it can answer.
-32. Ashoka’s empire neighbours in the far south stayed independent; edicts speak to them as border peoples, not as conquered Magadhan districts.
+32. Ashoka’s empire neighbours in the far south stayed independent; edicts speak to them as border peoples, not as conquered Magadhan districts. **Sri Lanka (Tamraparni)** is a neighbour / mission land, **not** a Mauryan province.
+33. **Sohgaura** (Gorakhpur, UP) and **Mahasthan** (Bangladesh) are Mauryan famine / grain-store records. Mauryas did **not** make religious land grants as a system (that epigraphy starts with Satavahanas).
+34. **Pranaya** is the Mauryan **emergency** tax. **Sita** is crown-land produce under the *sitadhyaksha*. *Pankodakasannirodhe* is the penalty for fouling roads with mud and water.
+35. Courts in the *Arthashastra*: **Dharmasthiya** (civil) and **Kantakashodhana** (criminal). The text also allows divorce in listed cases. **Manusmriti** blocks widow remarriage and calls non-conforming foreigners **fallen kshatriyas**.
+36. **Vishnugupta** is Chanakya’s other name (papers often treat it as the childhood / alternate identity). *Arthashastra* is compared with Machiavelli’s *Prince*. *Mudrarakshasa* calls Chandragupta **Vrishal / Kulheen**; Dhundiraja wrote a commentary.
+37. **Justin** remembers Sandrokottos meeting Alexander. **William Jones** first equated Sandrokottos with Chandragupta Maurya. Jain texts call Bindusara **Simhasena**; his mother is **Durdhara**.
+38. City officials in *Indica* are **Astynomoi**. The caravan chief in the *Arthashastra* is **Sarthavaha**. Birth–death registration is one of the six municipal boards that still echoes modern municipal work.
 
 ---
 
@@ -83,10 +89,10 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 **First pan-North Indian state | 322–185 BCE | capital Pataliputra (Ganga–Son)**
 
 - Buddhist tradition makes them the **Moriya** clan of **Pipphalivana**, with a peacock totem, and treats them as kshatriya. Brahmanical Puranas give a **low / shudra** origin. That is a smear after the Nanda overthrow.
-- Greek writers describe a humble youth *Sandrokottos / Androcottus* who later topples the Nandas. Plutarch and Justin carry this. **William Jones** is the Chandragupta synchronism.
+- Greek writers describe a humble youth *Sandrokottos / Androcottus* who later topples the Nandas. **Plutarch** uses **Androcottus**. **Justin** remembers Sandrokottos meeting **Alexander**. **William Jones** first equated Sandrokottos with **Chandragupta Maurya**.
 
-- **Chanakya** is also **Kautilya** and **Vishnugupta**. He is a Taxila Brahman, insulted at the Nanda court, who trains Chandragupta.
-- The *Mudrarakshasa* of Vishakhadatta is a **play** about Malayaketu and Amatya Rakshasa. It is **not** the *Arthashastra*.
+- **Chanakya** is also **Kautilya** and **Vishnugupta**. Papers often treat **Vishnugupta** as his childhood / alternate identity. He is a Taxila Brahman, insulted at the Nanda court, who trains Chandragupta. The *Arthashastra* is often compared with Machiavelli’s *Prince* as a hard statecraft book.
+- The *Mudrarakshasa* of Vishakhadatta is a **play** about Malayaketu and Amatya Rakshasa. It shows court intrigue under Chandragupta and calls him **Vrishal / Kulheen**. **Dhundiraja** wrote a commentary. Vishakhadatta’s other remembered works include *Devichandraguptam* (Gupta-age story) and *Abhisarikavanchitaka*. It is **not** the *Arthashastra*.
 
 - **Chandragupta** rules about **322–297 BCE**. He overthrows **Dhana Nanda**. He is Sandrokottos.
 - **Bindusara** rules about **297–273 BCE**. His Greek fact is **Amitraghata / Amitrochates**.
@@ -133,8 +139,10 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Founder | ~322–297 BCE | Sandrokottos | first king-card, not Ashoka**
 
-- He overthrows **Dhana Nanda** with **Chanakya**. The Greek name is **Sandrokottos / Androcottus**. **William Jones** is the peg.
+- He overthrows **Dhana Nanda** with **Chanakya**. The Greek name is **Sandrokottos / Androcottus**. **William Jones** is the peg. **Justin** remembers a meeting with Alexander.
 - The Seleucus treaty about **303 BCE** gives **500 elephants**. Megasthenes is sent to his court at **Pataliputra**.
+- The **Junagadh** rock of Rudradaman remembers **Pushyagupta** building **Sudarshana lake** in Anarta–Saurashtra under Chandragupta — proof that western India sat inside the Mauryan empire.
+- Palace archaeology at Pataliputra points to **Kumrahar** (pillared hall) and **Bulandibagh** (wooden city-wall remains). Greek memory stresses a **wooden** palace and palisade.
 - Jain tradition ends him in *sallekhana* with **Bhadrabahu** at **Shravanabelagola**. His son and successor is **Bindusara**.
 
 > ** note:** This Chandragupta is **322 BCE**. Gupta Chandragupta I is **~320 CE**.
@@ -145,11 +153,12 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Son of Chandragupta | ~297–273 BCE | Amitraghata / Amitrochates**
 
-- The Greek fact is **Amitrochates**.
-- Envoy **Deimachus** comes from Antiochus I.
-- A letter to **Antiochus I** asks for wine, figs, and a sophist. The **sophist was refused**.
+- The Greek fact is **Amitrochates** (Sanskrit **Amitraghata**, “slayer of foes”). Jain texts call him **Simhasena**. His mother in Jain tradition is **Durdhara**.
+- Envoy **Deimachus** comes from Antiochus I (Strabo). **Dionysius** is remembered as the envoy of Egypt’s **Ptolemy II Philadelphus** to the Mauryan court.
+- A letter to **Antiochus I** asks for sweet wine, dry figs, and a philosopher. The **philosopher was refused**.
 - Tradition gives him an Ajivika lean.
-- Taxila revolts. **Ashoka** is posted there as *kumara*.
+- The *Divyavadana* remembers a **Taxila** revolt; **Ashoka** is posted there as *kumara* to suppress it. Buddhist tradition also places Ashoka as viceroy of **Avanti (Ujjain)** under Bindusara.
+- *Samantapasadika* of **Buddhaghosa** remembers Ashoka winning / merging **Avanti** into the Mauryan empire during Bindusara’s reign.
 - His son and successor is **Ashoka**.
 
 > ** note:** Bindusara is not the Kalinga king. The Kalinga war is Ashoka.
@@ -167,7 +176,9 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 - The army is *chaturanga* plus a navy under the *navadhyaksha*. *Indica* gives a war office of **six** army boards: navy, transport, infantry, cavalry, chariots, and elephants.
 - The great road is the **Uttarapatha** from Taxila to Pataliputra. Strabo’s agronomoi also set mile-pillars. That is the **2020 road trap**, not the key.
 - The village has a *gramika* plus elders. The *gopa* watches 5–10 villages. Next up is the *sthanika*. The district is *ahara / vishaya*.
-- Pataliputra’s palisade in *Indica* has **570 towers** and **64 gates**. Welfare add-ons — wells, herbs, trees — sit in **Rock Edict II**.
+- Kautilya’s rural stack in match papers also uses **Samgrahana** (about 10 villages) → **Karvatika** (200) → **Dronamukha** (400) → **Sthaniya** (800). Ascending order starts at Samgrahana.
+- Pataliputra’s palisade in *Indica* has **570 towers** and **64 gates**. Town officials are **Astynomoi**. Welfare add-ons — wells, herbs, trees, hospitals — sit in **Rock Edict II**.
+- The caravan chief of merchants is the **Sarthavaha** (*Arthashastra*).
 
 > ** note:** This is a **centralised** empire, not Gupta samanta-feudatory.
 
@@ -206,6 +217,9 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 - The **mudradhyaksha** holds passports and seals.
 - The **sutradhyaksha** holds spinning and yarn.
 - The **ganikadhyaksha** holds courtesans.
+- The **sarthavaha** is the caravan / merchant-convoy chief.
+- City officials in *Indica* are **Astynomoi**; rural officers are **Agronomoi**.
+- *Pankodakasannirodhe* is the penalty for throwing dirt or causing mud and water to collect on roads.
 
 **PYQ — UPPCS Prelims 2020, Q4**
 
@@ -239,7 +253,7 @@ D. Revenue management
 
 ### Kalinga War (261 BCE) — Cause, Course, Result
 
-**Cause:** Kalinga (Odisha coast) remained outside Magadhan control and threatened eastern trade routes.
+**Cause:** Kalinga controlled the land and sea bridge between the Ganga valley and the Deccan / eastern seaboard. Independent Kalinga threatened Magadhan overseas and inland trade.
 **Course:** In his **8th regnal year (~261 BCE)**, Ashoka invaded Kalinga. Rock Edict **XIII** remembers **1 lakh** killed, **1.5 lakh** deported, and countless sufferers.
 **Result:** Kalinga was **annexed**; headquarters at **Tosali** and **Samapa**. Ashoka turned to **dhamma-vijaya**. Separate Kalinga edicts at **Dhauli** and **Jaugada** tell mahamatras that **"all men are my children."**
 
@@ -259,13 +273,24 @@ D. Revenue management
 
 ## 7.6a Third Buddhist Council (Pataliputra)
 
-**Patron:** Ashoka | **President:** Moggaliputta Tissa
+**Patron:** Ashoka | **President:** Moggaliputta Tissa | **Sources:** *Dipavamsa* and *Mahavamsa* (not Ashokan edicts)
 
 - Ashoka convened the **Third Buddhist Council** at **Pataliputra** after the Kalinga turn toward dhamma.
 - **Moggaliputta Tissa** presided. The council purified doctrine and organised missions.
 - Missions went to Kashmir–Gandhara, Sri Lanka (**Mahinda**, **Sanghamitta**), and other regions.
 - order: Rajagriha (1st) → Vaishali (2nd) → Pataliputra (3rd) → Kundalvana (4th).
 - Third Council = **Ashoka** at **Pataliputra**. Fourth Council = **Kanishka** at **Kundalvana**.
+- **Sri Lanka** received the mission but remained an **edge neighbour**, not a Mauryan province (RE II).
+
+---
+
+## 7.6b Ashoka's Dhamma Yatra Circuit
+
+**After Bodh Gaya visit | traditional pilgrimage order**
+
+- After turning toward Buddhism, Ashoka stopped hunting and began pilgrimage. Tradition places the circuit as **Lumbini → Kapilavastu → Bodh Gaya → Sarnath → Kushinagar → Shravasti**.
+- **Rummindei** marks Lumbini (birth). **Bhabru / Bairat** shows him as **Piyadasi Raja of Magadha** and a Buddhist patron.
+- **Sanchi** is remembered as the finest / best-preserved early stupa core begun under Ashoka (Raisen, MP). **Bharhut** railings bloom mainly in the **Shunga** age.
 
 ---
 
@@ -319,7 +344,7 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 | **X** | Fame only through dhamma |
 | **XI** | *Dhamma-dana* (gift of dhamma) |
 | **XII** | **Samavaya / religious synthesis** ← **2022 Q54** |
-| **XIII** | **Kalinga**; five Greek kings; dhamma-vijaya |
+| **XIII** | **Kalinga**; five Greek kings (**Antioka** = Antiochus II Theos of Syria; **Turamaya** = Ptolemy II Philadelphus of Egypt; **Antikini** = Antigonus Gonatas of Macedonia; **Maka** = Magas of Cyrene; **Alikasudara** = Alexander of Epirus); dhamma-vijaya |
 | **XIV** | Edicts written short or long as the place needs |
 
 | Site | Region | Script / extra |
@@ -419,7 +444,8 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 - These are **not** Buddhist viharas. Ajanta, Karle, and Bhaja copy the **horseshoe arch** centuries later.
 - Palace memory is the **Kumrahar 80-pillar** hall at Pataliputra. Wooden palisade is Greek memory. Stone polish is the Ashokan trademark.
-- Sculpture tagged Mauryan polish: **Didarganj Yakshi** (Patna; date debated), **Parkham Yaksha** (Mathura), two Patna yakshas, and the **Dhauli elephant**.
+- Sculpture tagged Mauryan polish: **Didarganj Yakshi** (Patna; date debated), **Parkham Yaksha** (Mathura; inscribed **Manibhadra**), two Patna yakshas, and the **Dhauli elephant**.
+- Barabar caves are **Mauryan** (Ashoka / Dasharatha gifts to Ajivikas). Dating them to the **6th century BCE** is false.
 
 > ** note:** Barabar ≠ Ajanta. Donee = **Ajivika**, not the sangha.
 
@@ -429,14 +455,16 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 **Kautilya = Chanakya = Vishnugupta | 15 *adhikaranas*, about 150 chapters | R. Shamasastry 1909 (Mysore MS)**
 
-- The **four vidyas** are anvikshiki, trayi, varta, and dandaniti. The **saptanga** are swami, amatya, janapada, durga, kosha, danda (army), and mitra.
+- The **four vidyas** are anvikshiki, trayi, varta, and dandaniti. The **saptanga** are swami, amatya, janapada, durga, kosha, danda (army), and **mitra** (the **seventh** limb — ally).
 - The **four upayas** are sama, dana, bheda, and danda. The **shadgunya** are sandhi, vigraha, asana, yana, samshraya, and dvaidhibhava.
 - The **raja-mandala** puts the *vijigishu* (would-be conqueror) at the centre, with ari, mitra, arimitra, and the rest of the twelve-king ring.
 - Fort types are *audaka, parvata, dhanvana,* and *vanadurga*.
 - The **18 tirthas** include mantrin, purohita, senapati, yuvaraja, dauvarika, antarvamsika, prasasta, samaharta, and sannidhata, plus pradeshta, nayaka, pauravyavaharika, karmantika, mantri-parishad-adhyaksha, dandapala, durgapala, antapala, and atavika.
 - The adhyaksha-state covers mines, salt, liquor, forests, spinning, ships, passports, and mint. It is a **command economy**. Guilds (*shreni*) are regulated, not abolished.
-- **Slavery exists** here. That is a direct clash with Megasthenes’ “no slaves.”
-- Date debate (Mauryan core versus later redaction) does not change the Prelims tag: it is the **Mauryan state-book**. The *Mudrarakshasa* is not this text.
+- **Slavery exists** here. That is a direct clash with Megasthenes’ “no slaves.” A person may become a slave by judicial punishment. If a female slave bears her master a son, she is set free (IAS 2022 style stem).
+- Courts: **Dharmasthiya** (civil) and **Kantakashodhana** (criminal / thorn-removal).
+- Divorce is allowed in listed cases (desertion, long absence, barrenness, adultery). Contrast **Manusmriti**: a widower may remarry, but a widow is barred; foreigners who ignore local priestly custom are **fallen kshatriyas**.
+- Date debate (Mauryan core versus later redaction) does not change the Prelims tag: it is the **Mauryan state-book**. The *Mudrarakshasa* is not this text. The book is often compared with Machiavelli’s *Prince*.
 
 > ** note:** Kautilya is not Megasthenes. The Arthashastra is not the Indica.
 
@@ -459,23 +487,24 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 **Greek snapshot | mix of gold and howlers | two separate ‘six boards’**
 
-- The seven classes are **not** varna. They run: philosophers (Brahman and Shramana), farmers, herdsmen and hunters, artisans, soldiers, overseers (*ephoroi*), and councillors (the smallest class).
+- The seven classes are **not** varna. They run: philosophers (**Brahman and Shramana**), farmers, herdsmen and hunters, artisans, soldiers, overseers (*ephoroi*), and councillors (the smallest class).
 
-- The city has six boards of five: crafts, foreigners, births and deaths, trade, manufactures, and sales-tax / tithe.
+- The city has six boards of five: crafts, foreigners, **births and deaths**, trade, manufactures, and sales-tax / tithe. Birth–death registration is the municipal function that still continues today.
 
 - The army has six boards of five: navy, transport/bullock, infantry, cavalry, chariots, and elephants.
 
-- Pataliputra has a wooden palisade, a moat, **570 towers**, and **64 gates**.
+- Pataliputra has a wooden palisade, a moat, **570 towers**, and **64 gates**. Town officials are **Astynomoi**.
 - The claim of **no slavery** clashes with the Arthashastra.
 - The text also claims **no usury**.
 - It claims farmers are spared in war.
 - It claims the king never sleeps twice in the same room.
 - It claims women among palace guards.
+- Sales-tax evasion in the Greek account can carry the **death** penalty.
 - **Agronomoi** work in the countryside as **revenue / land** officers.
 - Strabo also gives them **roads and mile-pillars**. That is option C, the trap.
 - The *Indica* does **not** name Chanakya or the *Arthashastra*.
 
-> ** note:** The seven-caste list is **Indica**, not Manu.
+> ** note:** The seven-caste list is **Indica**, not Manu. Philosophers = Brahmins + Shramanas.
 
 ---
 
@@ -485,9 +514,9 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 
 | Province | HQ | Governor |
 |----------|-----|----------|
-| Magadha / Prachya core | **Pataliputra** | King |
+| **Prachyapatha** / Magadha core | **Pataliputra** | King |
 | **Uttarapatha** | **Taxila** | Kumara |
-| **Avantirashtra** | **Ujjain** | Kumara |
+| **Avantiratha / Avantirashtra** | **Ujjain** | Kumara |
 | **Kalinga** (after 261) | **Tosali** (+ **Samapa**) | Kumara / mahamatra |
 | **Dakshinapatha** | **Suvarnagiri** | Kumara |
 
@@ -495,6 +524,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 - Edicts also say **aryaputra** for princes. Mahamatras can hold a province when no prince is posted.
 - Post-Ashoka Jain memory: **Dasharatha** east, **Samprati** west/south — partition story, not an edict.
 - Pataliputra is the **capital**, not “a province.” Eastern UP (Kashi–Kosala–Vatsa) sits in the core, not a fifth kumara-seat.
+- **Taxila** was also the most famous learning centre of the Mauryan age.
 
 ---
 
@@ -510,15 +540,18 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 | **Shulka** | Toll / customs (*sulkadhyaksha*) |
 | **Vishti** | Forced labour |
 | **Udakabhaga** | Irrigation cess |
-| **Pranaya** | Emergency / benevolence tax |
+| **Pranaya** | Emergency / benevolence tax (**UKPCS 2021** lock) |
 | **Sita** | Crown-farm produce (*sitadhyaksha*) |
+| **Vivit** | Pasture tax (*vivitadhyaksha*) |
 
 - Also: mines, salt, liquor, forest (*kupya*), guild dues. Punch-marked silver in the *kosha*.
 - Rummindei: Lumbini **bali-free**, *bhaga* cut to **1/8**.
 - Agronomai measure fields for this machine (2020). Pautavadhyaksha = weights, not Agronomai.
-- No Gupta-style *agrahara* as the system’s core.
+- Mauryas did **not** grant land on a religious basis as a system. Earliest epigraphic religious land grants appear under the **Satavahanas**.
+- **Sohgaura** copper plate (Gorakhpur, UP) and **Mahasthan** inscription (Bangladesh) are the earliest royal orders to store grain for famine relief.
+- Girnar / Sudarshana: **Pushyagupta** under Chandragupta built the lake; **Tushaspha** under Ashoka cut canals; **Rudradaman** later repaired it (full story in Topic 8).
 
-> ** note:** Rummindei = tax-cut at Lumbini, not a new capital.
+> ** note:** Rummindei = tax-cut at Lumbini, not a new capital. **Pranaya** = emergency tax.
 
 ---
 
@@ -1584,10 +1617,110 @@ D. Neither 1 nor 2
 
 </details>
 
-### Years with zero extra hits in local `pyq/`
+### Ghatnachakra UPPCS + UKPCS fill (so the book is not needed)
 
-**2021, 2019, 2018** — no further GS-I Mauryan/edict/Arthashastra hit after keyword search (UPPCS). UKPCS 2025 adds Palibothra + Mansehra/Shahbazgarhi above.
-**Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. UPPCS 2025 Q105 Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**.
+**Q7. UPPCS Pre 2002** — Kautilya was prime minister of — **Ans: C Chandragupta Maurya** (not Gupta Vikramaditya).
+
+**Q8. UPPCS Pre 2006** — Childhood / alternate name of Chanakya — **Ans: C Vishnugupta**.
+
+**Q9. UPPCS Mains 2012** — Arthashastra is a book on — **Ans: D Principles of Government**.
+
+**Q10. UPPCS Re-exam Pre 2015** — Seventh Saptanga limb — **Ans: C Mitra**.
+
+**Q11. UP Lower Sub Pre 2015** — Deimachus came in the reign of — **Ans: B Bindusara**.
+
+**Q12. UPPCS Mains 2011 / Spl 2008** — Kumrahar / Bulandibagh remains — **Ans: Pataliputra**.
+
+**Q13. UPPCS Pre 1996** — Inscription proving Chandragupta’s western sway — **Ans: C Junagadh of Rudradaman** (Pushyagupta / Sudarshana).
+
+**Q14. UP RO/ARO Mains 2014** — Chandragupta defeated Seleucus in — **Ans: C 305 B.C.**
+
+**Q15. UPPCS Mains 2016** — South Indian kingdoms in Ashokan inscription — **Ans: B Second Major Rock Edict**.
+
+**Q16. UPPCS Pre 2016** — Kalinga war account — **Ans: A Rock Edict XIII**.
+
+**Q17. UP Lower Spl Pre 2008** — Sarnath Pillar built by — **Ans: B Ashoka**.
+
+**Q18. UPPCS Mains 2008** — Best stupa — **Ans: C Sanchi**.
+
+**Q19. UPPCS Pre 1999** — Ashoka pilgrimage order — **Ans: D** Lumbini → Kapilavastu → Bodh Gaya → Sarnath → Kushinagar → Shravasti.
+
+**Q20. UPPCS Spl Mains 2008** — Sarthwah — **Ans: B Convoy of Merchants** (*sarthavaha*).
+
+**Q21. UPPCS Mains 2012** — Weights officer — **Ans: A Pautavadhyaksha**.
+
+**Q22. UPPCS Pre 2013** — Sita in Mauryan period — **Ans: C Revenue from Crown land**.
+
+**Q23. UPPCS Pre 1996** — Bhaga and Bali — **Ans: B Sources of Revenue**.
+
+**Q24. UP Lower Spl Pre 2008** — Revenue collection in mantriparishad — **Ans: A Samaharta**.
+
+**Q25. UPPCS Pre 1996** — Rajjukas were — **Ans: B Officers in Mauryan administration**.
+
+**Q26. UP Lower Sub Pre 2008** — Gujarra MRE with name Ashoka — **Ans: B Datia (MP)**.
+
+**Q27. UP Lower Spl Pre 2008** — Kalsi famous for — **Ans: C Rock edicts of Ashoka**.
+
+**Q28. UPPCS Spl Mains 2008** — Rummindei marks — **Ans: A Birth of Buddha**.
+
+**Q29. UP UDA/LDA Pre 2006 / UPPCS Pre 2012** — Turamaya / Ptolemy Philadelphus — **Ans: Egypt**.
+
+**Q30. UP Lower Sub Pre 2002** — A: Ashoka annexed Kalinga; R: land and sea routes to South — **Ans: Both true, R explains A**.
+
+**Q31. UPPCS Spl Mains 2004** — A: Mauryas no religious land grants; R: peasant revolt — **Ans: A true, R false**.
+
+**Q32. UPPCS Mains 2009** — Detailed city admin of Mauryas — **Ans: B Indica**.
+
+**Q33. UP RO/ARO Mains 2013** — Source saying no slavery — **Ans: C Indica**.
+
+**Q34. UPPCS Pre 1990** — Mauryan achievements (culture / provincial division / Hindukush frontier), not gold coins — **Ans: A, C, D**.
+
+**Q35. UPPCS Pre 2017** — Not true of Barabar — **Ans: D** (not 6th century BC).
+
+**Q36. UP Lower Sub Mains 2015** — First hospitals / herbal gardens — **Ans: A Ashoka**.
+
+**Q37. UPPCS Pre 1993** — Rajdharma on longanimity, liberty, compassion — **Ans: A Ashoka**.
+
+**Q38. UP Lower Sub Pre 2008** — Justin on Sandrokottos meeting Alexander — **Ans: B Justin**.
+
+<details>
+<summary>Show answer keys for Q7–Q38</summary>
+
+All keys are in the bold lines above. Full stems live in Ghatnachakra Maurya pages; teaching cards above carry the facts so the book is not required.
+
+</details>
+
+---
+
+### UKPCS (beyond 2025)
+
+**Q39. UK Lower Sub Pre 2010** — India’s oldest dynasty among options — **Ans: B Maurya**.
+
+**Q40. UKPCS Pre 2016** — Sandrocottos (Justin) — **Ans: A Chandragupta Maurya**.
+
+**Q41. UKPCS Pre 2024** — Who constructed Sudarshana Lake — **Ans: A Chandragupta Maurya** (via Pushyagupta).
+
+**Q42. UKPCS Pre 2024** — Two types of philosophers Brahmins and Shramanas — **Ans: B Megasthenes**.
+
+**Q43. UKPCS Pre 2010** — Most famous Mauryan learning centre — **Ans: C Taxila**.
+
+**Q44. UKPCS Pre 2021** — Pranayam in Mauryan period — **Ans: A Emergency Tax**.
+
+**Q45. UK UDA/LDA Mains 2007** — Ashokan rock edicts in Uttarakhand — **Ans: D Kalsi**.
+
+<details>
+<summary>Show answer keys for UKPCS Q39–Q45</summary>
+
+Keys are bolded in each stem. Sudarshana repair story continues in Topic 8 (Rudradaman).
+
+</details>
+
+---
+
+### Years with zero extra hits in local `pyq/` folder
+
+**2021, 2019, 2018** UPPCS GS folder — no further recent Prelims hit beyond the 2020–2024 set already banked. Older UPPCS / RO-ARO / Lower / UKPCS stems above close the Ghatnachakra gap.
+**Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. UPPCS 2025 Q105 Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**. Bharhut Shunga art → Topic 8.
 
 ---
 
@@ -1599,11 +1732,11 @@ D. Neither 1 nor 2
 4. **Maski = Girnar Major set** → Maski = **MRE** that **names** Ashoka.
 5. **Sannidhata collects tax** → he **stores**; Samaharta collects.
 6. **Chandragupta Maurya = Chandragupta II** → 322 BCE vs Gupta.
-7. **Barabar = Buddhist Ajanta** → **Ajivika**, Mauryan polish.
-8. **Sarnath lions = Sanchi stupa** → emblem = **Sarnath**.
+7. **Barabar = Buddhist Ajanta / 6th c. BCE** → **Ajivika**, Mauryan polish.
+8. **Sarnath lions = Sanchi stupa** → emblem = **Sarnath**; “best stupa” often = **Sanchi**.
 9. **Megasthenes with Alexander** → Seleucus’s envoy.
-10. **Indica’s seven castes = varna** → Greek seven-fold sketch.
-11. **Chola/Pandya = Mauryan provinces** → **neighbours** in RE II.
+10. **Indica’s seven castes = varna** → Greek seven-fold sketch; philosophers = Brahman + Shramana.
+11. **Chola/Pandya / Sri Lanka = Mauryan provinces** → **neighbours** in RE II.
 12. **Vayu Purana = Gupta administration** → 2023 stmt 2 false.
 13. **Ashoka’s death = end of empire** → lasts to **185** (Brihadratha).
 14. **Arthashastra = Indica** → Kautilya vs Megasthenes.
@@ -1622,4 +1755,12 @@ D. Neither 1 nor 2
 27. **Vaishali pillar carries the seven PE** → single lion, **no** edict.
 28. **Chola/Keralaputra = kumara provinces** → **neighbours** (RE II).
 29. **Kunala is as epigraphic as Tivala** → Tivala is on the Queen’s edict; Kunala is legend.
-30. **Barabar = Buddhist** → **Ajivika**.
+30. **Pranaya = ordinary land tax** → **emergency** tax (UKPCS 2021).
+31. **Sita = goddess in revenue stems** → crown-land produce.
+32. **Turamaya = Syria** → **Egypt** (Ptolemy II).
+33. **Mauryas started religious land grants** → Satavahana epigraphy; Mauryas did not.
+34. **Vishnugupta = Vishakhadatta** → Chanakya’s other name.
+35. **Sudarshana founded by Rudradaman** → built under **Chandragupta**; Rudradaman **repairs**.
+36. **Third Council = Ashokan edicts** → *Dipavamsa* / *Mahavamsa*.
+37. **Parkham Yaksha unnamed** → inscribed **Manibhadra**.
+38. **Kumrahar / Bulandibagh = Vaishali** → **Pataliputra**.

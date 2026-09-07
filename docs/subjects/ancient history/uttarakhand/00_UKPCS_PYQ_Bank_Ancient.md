@@ -127,7 +127,7 @@ D. Dwij
 | Mahajanapadas / Magadha | Topic 5 — includes UKPCS 2016 Nanda founder + 2012 sixth-century upheaval A/B |
 | Jainism / Buddhism / Bhagavatism / Shaivism | Topic 4 |
 | Persian–Greek contacts | Topic 6 — Massaga women, Deimachus, Alexander-success codes filled from Ghatnachakra |
-| Maurya / Kushana | Topics 7–8 |
+| Maurya / Kushana | Topics 7–8 — GC Maurya + Post-Mauryan UPPCS/UKPCS banks filled (Sudarshan, Sandrokottos, Pranaya, Taxila, Ashvaghosa, 1:35, Matsya Andhra list) |
 | Gupta | Topic 9 |
 | Post-Gupta to 1200 | Topic 10 |
 | UK Pre / Proto historic | [Topic 1 UK](01_Prehistoric_and_Protohistoric_Uttarakhand.md) |

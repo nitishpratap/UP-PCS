@@ -8,14 +8,14 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 </details>
 
-> **Sources baked in:** Hathigumpha, Ayodhya, Junagadh, Nasik, Sangam corpus, UPPCS Prelims 2018–2025
+> **Sources baked in:** Hathigumpha, Ayodhya, Junagadh, Nasik, Sangam corpus, Ghatnachakra Post-Mauryan Period, UPPCS Prelims 2018–2025, UKPCS (Ashvaghosa; empire outside India; gold–silver 1:35; Matsya Purana Andhra list)
 > **Weight:** ★★★ — 2023 invader order, 2025 south-dynasty match, 2021 Satavahana, 2018 Hathigumpha + Ayodhya
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A — static
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. The Mauryan empire ended in **185 BCE** when general **Pushyamitra Shunga** killed the last Mauryan **Brihadratha**. The **Shungas** then ruled Magadha about **185–73 BCE**, and the short **Kanva** house followed about **73–28 BCE**.
 2. Pushyamitra’s **two ashwamedhas** are recorded in the **Ayodhya** inscription of Dhanadeva. That record is **not** Besnagar and **not** Hathigumpha.
@@ -43,8 +43,16 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 24. **Gandhara** art is Kushan northwest Greco-Buddhist. **Amaravati** art is Satavahana Andhra limestone narrative relief. Do not swap the schools.
 25. Ashoka’s Rock Edict II names Chola, Pandya, Keralaputra, and Satiyaputra as **independent neighbours**, not Mauryan provinces.
 26. In Uttar Pradesh, **Ayodhya** is the Pushyamitra ashwamedha fact, and **Mathura** is the Kushan second capital and Mathura-art home.
-27. **Patanjali** of the *Mahabhashya* and Kalidasa’s *Malavikagnimitra* (Agnimitra) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows.
+27. **Patanjali** of the *Mahabhashya* and Kalidasa’s *Malavikagnimitra* (Agnimitra) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows. **Patanjali is Shunga-age — not Kanishka’s court.**
 28. Satavahana personal names are often **metronymic** (Gautamiputra, Vashishthiputra). After their decline, Deccan power thins toward the third century CE.
+29. **Vima Kadphises** (Kadphises II) issues the first large-scale **gold** for regular use; title **Sarvalokeshvara**. **Kujula** mainly issues **copper**. **Kanishka** puts **Buddha** on coins.
+30. **Rabatak** lists Kushan cities **Saketa, Kaushambi, Pataliputra, and Champa** — **not Shravasti**. Sarnath Kanishka Buddha image inscription is dated about **81 CE** (year 3 of his era).
+31. Vikrama **57 BCE** and Shaka **78 CE** differ by **135 years**. Indian national calendar **Chaitra 1** matches **22 March** (21 March in a leap year).
+32. **Ashvaghosha** (*Buddhacharita*, *Saundarananda*, *Sariputraprakarana*), **Vasumitra**, **Nagarjuna**, **Parsva**, and physician **Charaka** adorn Kanishka’s court. Chinese texts remember **Pan Chao** defeating Kanishka’s force.
+33. Kushans traded via the Persian Gulf and Red Sea (**Periplus**, Arikamedu evidence) but had **no** strong naval-force tradition. Child marriage custom is often dated from the **Kushan** age.
+34. **Gautamiputra Satakarni** is **Ekabrahmana** / protector of the varna order (Nasik of Gautami Balashri). Satavahanas issue punch-marked, lead, copper, silver, potin — **not gold**. **Matsya Purana** gives the longest Andhra list (~30 kings).
+35. Rudradaman’s Junagadh is the earliest long literary **Sanskrit / kavya-style** prose. He repaired Sudarshana **without forced labour**. **Yaudheya** coins show **Kartikeya** with a peacock.
+36. **Strato II** issued **lead** coins. **Agathocles** put **Sankarshana (Balarama) and Vasudeva** on bilingual coins. Gandhara sculpture often uses **green schist**; **Bamiyan** held colossal Buddha images.
 
 ---
 
@@ -83,12 +91,12 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 **Result:** The **Mauryan empire ended** in **185 BCE**. The **Shunga dynasty** ruled Magadha until **73 BCE**. Pushyamitra performed **two ashwamedhas**, recorded at **Ayodhya** — not Besnagar or Hathigumpha.
 - chronology for the northwest trio is **Greeks — Sakas — Kushans** (Parthians are often dropped in match-lists).
 
-- The **Shungas** last **185–73 BCE**. Magadha is the capital. Vidisha is a second centre. There is a Brahmanical revival.
+- The **Shungas** last **185–73 BCE**. Magadha is the capital. **Vidisha** is a second centre. Coaching memory also ties Shunga ancestry to **Ujjain**. There is a Brahmanical revival.
 - Pushyamitra performs two **ashwamedha** rites. The **Ayodhya inscription** of **Dhanadeva** records those two — not Besnagar, Hathigumpha, or Sarnath.
-- **Agnimitra** is Pushyamitra’s son. Kalidasa’s *Malavikagnimitra* uses him. **Patanjali** of the *Mahabhashya* is placed in this court in tradition.
-- Buddhist books are hostile, yet Sanchi is still enlarged in this age. The last Shunga **Devabhuti** is killed by **Vasudeva Kanva**.
+- **Agnimitra** is Pushyamitra’s son. Kalidasa’s *Malavikagnimitra* uses him. **Patanjali** of the *Mahabhashya* is placed in this court in tradition. He is **not** a Kanishka-court scholar.
+- Buddhist books are hostile, yet Sanchi is still enlarged in this age. **Bharhut** stupa railings are a classic **Shunga** sculpture fact. The last Shunga **Devabhuti** is killed by **Vasudeva Kanva**.
 
-- The **Kanvas** last **73–28 BCE**. They are a short Magadha house after the Shungas. Then the north is open to later local and foreign powers.
+- The **Kanvas** last **73–28 BCE**. They are a short Magadha house after the Shungas. Puranic memory says the last Kanva **Susharma** falls to an Andhra / Satavahana founder (**Simuka**). Then the north is open to later local and foreign powers.
 
 - Kharavela’s **Hathigumpha** is the next south/Kalinga card. **Heliodorus** at Besnagar is a Bhagavata Greek ambassador. He is not Pushyamitra’s ashwamedha record.
 
@@ -116,27 +124,29 @@ D. Hathigumpha inscription
 
 **Deccan / Andhra house | ~1st c. BCE–3rd c. CE | Puranic “Andhras”**
 
-- The founder in tradition is **Simuka**. Capitals are **Pratishthana (Paithan)** and **Amaravati**. The title **Dakshinapathapati** means lord of the southern path. Names are often **metronymic**: Gautamiputra, Vashishthiputra.
+- The founder in tradition is **Simuka** (also Sindhuk / Shipraka in Puranas). Capitals are **Pratishthana (Paithan)** — the lasting capital — and early **Amaravati**. The title **Dakshinapathapati** means lord of the southern path. Names are often **metronymic**: Gautamiputra, Vashishthiputra.
+- The **Matsya Purana** gives the longest Andhra / Satavahana king list (about **30** names).
 
-- **Satakarni I** is the early expansion king. The **Naneghat** inscription of queen **Naganika** belongs to this house.
+- **Satakarni I** is the early expansion king and the first to hold the title **Satakarni**. The **Naneghat** inscription of queen **Naganika** belongs to this house.
 - **Gautamiputra Satakarni** is the greatest.
 ### Gautamiputra Satakarni vs Nahapana — Cause, Course, Result
 
 **Cause:** Shaka **Nahapana** (Kshaharata) controlled a belt from **Ajmer** to **Nasik** and threatened Satavahana survival.
-**Course:Gautamiputra Satakarni** defeated Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana's silver was restruck.
+**Course:** **Gautamiputra Satakarni** defeated Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana's silver was restruck. The same record calls him **Ekabrahmana** and protector of the **varna** order (no free intermixture of the four varnas).
 **Result:** Satavahana power peaked in the western Deccan. Later Shaka greatness passed to the **Kardamaka** house of **Rudradaman**. He restruck Nahapana’s silver (Jogalthembi hoard type).
 
 | Ruler | Fact |
 |-------|------|
-| **Simuka** | Traditional founder |
+| **Simuka** | Traditional founder after Kanva Susharma |
 | **Satakarni I** | Early expansion; **Naneghat** of queen **Naganika** |
-| **Gautamiputra Satakarni** | Greatest; defeats **Nahapana**; **Nasik prasasti** of **Gautami Balashri** |
+| **Gautamiputra Satakarni** | Greatest; defeats **Nahapana**; **Ekabrahmana** / varna protector; **Nasik** of **Gautami Balashri** |
 | **Vashishthiputra Pulumavi** | Son and successor |
 | **Hala** | *Gatha Saptasati* in Prakrit |
 | **Yajna Sri Satakarni** | **Ship** on coins — sea-trade fact |
 
-- They nurtured **Prakrit** in inscriptions and *gathas*, not Sanskrit as the court speech. **Public art** got more push: the **Amaravati** stupa, the **Karle** chaitya, and the Nasik caves.
-- Land grants to Brahmans and Buddhist monks start to show. Roman trade crosses their roads. Decline comes about the 3rd century CE. **Ikshvakus** at Nagarjunakonda come next in Andhra.
+- They nurtured **Prakrit** in inscriptions and *gathas*, not Sanskrit as the court speech. **Public art** got more push: the **Amaravati** stupa (with **Ayaka / Aryaka pillars**), the **Karle** chaitya, and the Nasik caves.
+- Coin metals: punch-marked, **lead**, copper, bronze, silver, potin — **not gold**.
+- Land grants to Brahmans and Buddhist monks start to show. Roman trade crosses their roads. Decline comes about the 3rd century CE. **Ikshvakus** at Nagarjunakonda come next in Andhra. **Vakatakas** (founder **Vindhyashakti**) rise in the Deccan after Satavahana weakening.
 
 **PYQ — UPPCS Prelims 2021, Q52**
 
@@ -162,7 +172,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 - After Satavahana decline (~3rd century CE), the **Ikshvakus** ruled coastal **Andhra** from **Nagarjunakonda**.
 - The site is famous for **Buddhist stupa**, monastery, and **Ikshvaku inscriptions**.
-- Ikshvakus here are a **post-Satavahana Andhra** house. The mythic Ayodhya Ikshvaku line is a separate Puranic genealogy.
+- Puranas call them **Shriparvatiya**. Ikshvakus here are a **post-Satavahana Andhra** house. The mythic Ayodhya Ikshvaku line is a separate Puranic genealogy.
 
 ---
 
@@ -180,8 +190,8 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 - Source: **Hathigumpha** inscription, **Udayagiri**, Odisha.
 - **Hathigumpha** belongs to **Kharavela** of Kalinga. Ashoka, Harsha, and Kanishka have **other** inscriptions.
-- Jain patron. Caves at Udayagiri–Khandagiri.
-- Boasts of campaigns and of recovering a Jina image.
+- Jain patron. Caves at **Udayagiri (18)** and **Khandagiri (15)**. Hathigumpha is at **Udayagiri**, not Khandagiri.
+- Boasts of campaigns and of recovering a Jina image. Dynasty label is **Mahameghavahana / Chedi**.
 
 **Megalithic south**
 - **Megalithic** cultures are Iron Age burial traditions of the peninsula and parts of central India. They predate and underlie the Sangam polities.
@@ -214,7 +224,7 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 | School | Period / patron | Material / style | Key fact |
 |--------|-----------------|------------------|-----------|
-| **Gandhara** | Kushan northwest | Greco-Buddhist schist | Greco-Roman Buddha face |
+| **Gandhara** | Kushan northwest | Greco-Buddhist **green schist** | Greco-Roman Buddha face; Indo-Greek bridge |
 | **Mathura** | Kushan / local | Red sandstone Indian types | Indigenous Buddha forms |
 | **Amaravati** | Satavahana Andhra | Limestone narrative reliefs | Andhra Buddhist stupa art |
 | **Karle / Nasik** | Satavahana age | Rock-cut **chaitya** halls | Public Buddhist architecture |
@@ -230,15 +240,15 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 - In chronology, “Greeks” means Alexander’s wave **plus** these Indo-Greeks.
 - They sit **before** Shakas and **before** Kushans.
 - **Greco-Bactria** breaks from the Seleucids under **Diodotus**, about **250 BCE**. **Demetrius I**, about **180 BCE**, makes the first major push into India with an elephant-scalp helmet type.
-- The greatest name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**. The *Milinda Panha* records his debate with **Nagasena**.
-- **Agathocles** and **Pantaleon** issue early coins with **Brahmi** legends and **Balarama / Vasudeva** types. **Apollodotus** is an early Indian-side silver king.
-- They issue the first **portrait**, die-struck coins in India. Legends are **Greek plus Kharoshthi**. Sometimes Brahmi appears.
+- The greatest name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**. The *Milinda Panha* records his debate with **Nagasena**. He is **not** a contemporary of Bimbisara / Buddha / Prasenjit. Sixteen Menander coins are remembered from **Bairat**.
+- **Agathocles** and **Pantaleon** issue early bilingual coins with **Brahmi** legends and **Sankarshana (Balarama) / Vasudeva** types. **Apollodotus** is an early Indian-side silver king.
+- They issue the first **portrait**, die-struck coins in India. Legends are **Greek plus Kharoshthi**. Sometimes Brahmi appears. Late Indo-Greek **Strato II** is remembered for **lead** coins.
 - **Heliodorus**, ambassador of **Antialcidas**, raises the **Besnagar** (Vidisha) Garuda pillar about **113 BCE**. He calls himself a Bhagavata of **Vasudeva**.
 - The *Yuga Purana* memory places **Yavanas** toward **Pataliputra**. That raid belongs to the Indo-Greek age, not to Alexander in 326 BCE.
 - Besnagar is **not** Pushyamitra’s two-ashwamedha record. That inscription is at **Ayodhya**.
 - Indo-Greek power in the northwest ends when **Shakas** take Gandhara and Punjab.
 
-> ** note:Menander** = Indo-Greek, *Milinda Panha*, capital **Sagala**. **Sangala** = Alexander’s 326 battle. **Heliodorus pillar** = **Besnagar**. Pushyamitra ashwamedha = **Ayodhya**.
+> ** note:** Menander = Indo-Greek, *Milinda Panha*, capital **Sagala**. **Sangala** = Alexander’s 326 battle. **Heliodorus pillar** = **Besnagar**. Pushyamitra ashwamedha = **Ayodhya**.
 
 ---
 
@@ -253,10 +263,12 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 - **Gautamiputra Satakarni** defeats Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana’s silver was restruck.
 - The **Kardamaka** line rules western India from about the 1st century CE. **Chashtana** is the founder named in the **Andau inscription** of 130 CE.
 - **Rudradaman I** is Chashtana’s grandson and the greatest western Shaka. He rules about **130–150 CE** as **mahakshatrapa**.
-- His **Junagadh / Girnar** inscription is the first long record in literary **Sanskrit** prose in India.
-- The **Sudarshana lake** story sits on that rock. It was built by **Pushyagupta**, a Vaishya, under **Chandragupta Maurya**. It was adorned by **Tushaspha**, a Yavana, under **Ashoka**. A storm burst the embankment. **Rudradaman repaired it**. He did **not** claim he founded the lake.
+- His **Junagadh / Girnar** inscription is the first long record in literary **Sanskrit** prose in India and the earliest specimen of **kavya** style on stone.
+- The **Sudarshana lake** story sits on that rock. It was built by **Pushyagupta**, a Vaishya, under **Chandragupta Maurya**. It was adorned by **Tushaspha**, a Yavana, under **Ashoka**. A storm burst the embankment. **Rudradaman repaired it without forced labour**. He did **not** claim he founded the lake.
+- Kardamaka coinage is mainly **silver** and **potin**; **copper** issues are rare.
 - Western Shaka rule fades when **Rudrasimha III** is defeated by **Chandragupta II** in the 4th century CE.
-- **Vikrama Samvat 57 BCE** is the Vikramaditya legend at Ujjain. It is **not** the **Shaka era 78 CE** tied to Kanishka.
+- Coaching ratio for gold : silver in the Saka–Kshatrapa horizon is **1 : 35** (**UKPCS 2021**).
+- **Vikrama Samvat 57 BCE** is the Vikramaditya legend at Ujjain. It is **not** the **Shaka era 78 CE** tied to Kanishka. The two eras differ by **135 years**.
 
 > ** note:** Junagadh is not Hathigumpha. Rudradaman is not Kharavela. Nahapana is Kshaharata, not Kardamaka.
 
@@ -282,14 +294,16 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 **Yuezhi clan | 1st–3rd c. CE | Silk Road empire | last of the 2023 trio**
 
 - The **Kushanas** were one clan of the **Yuezhi** nomads of north Central Asia. They moved through Bactria into Gandhara and the Punjab.
-- The founder is **Kujula Kadphises**. He unifies Yuezhi clans and takes Gandhara–Punjab.
-- **Vima Kadphises** issues the first large-scale **gold** coinage in India. His title on coins is **Shaonanoshao** (king of kings).
+- The founder is **Kujula Kadphises**. He unifies Yuezhi clans and takes Gandhara–Punjab. His coinage is mainly **copper**.
+- **Vima Kadphises** (Kadphises II) issues the first large-scale **gold** coinage for regular use in India. Titles include **Shaonanoshao** (king of kings) and **Sarvalokeshvara**.
 - **Kanishka** is the greatest ruler. Full card in **8.8**.
 - **Huvishka** and **Vasudeva I** are later great names before decline.
 - The main capital is **Purushapura (Peshawar)**. **Mathura** in Uttar Pradesh is the second great Kushan centre inside India.
-- At its height the empire runs from the **Oxus** belt to the middle **Ganga** plain.
-- Coins are gold **dinaras** with legends in **Greek**, **Bactrian**, and **Kharoshthi**. Royal portraits are standard.
-- Kushan patronage pairs **Gandhara** Greco-Buddhist sculpture with **Mathura** red-sandstone Indian types.
+- At its height the empire runs from the **Oxus** / Turfan fringe to the middle **Ganga** plain — a dynasty whose power also sat **outside** India.
+- Coins are gold **dinaras** with legends in **Greek**, **Bactrian**, and **Kharoshthi**. Royal portraits are standard. **Yaudheya** copper coins of this age show **Kartikeya** with a peacock.
+- Kushan patronage pairs **Gandhara** Greco-Buddhist sculpture (**green schist**) with **Mathura** red-sandstone Indian types. **Bamiyan** held colossal rock-cut Buddhas in the Afghan Kushan world.
+- Trade ran through the Persian Gulf and Red Sea (*Periplus of the Erythraean Sea* — **anonymous** Greek merchant; Arikamedu amphorae). Evidence does **not** support a strong Kushan **navy**.
+- Social coaching note: **child marriage** custom is often dated from the Kushan age, with girls’ upanayana fading.
 - The Kushans are **last** in the 2023 invader trio: Greeks → Sakas → Kushans.
 
 **PYQ — UPPCS Prelims 2023, Q23**
@@ -317,17 +331,19 @@ D. Sakas — Kushans — Greeks
 **Greatest Kushan | Purushapura | Shaka era 78 CE | Fourth Buddhist Council**
 
 - **Kanishka** is the most famous Kushan ruler. His empire included Afghanistan, Gandhara, Punjab, and much of the Ganga plain.
-- keys usually peg his accession to **78 CE**, the start of the **Shaka Samvat** (Shaka era). Some books use about **127 CE** for his reign peak. Prelims still want **78 CE** when they say Shaka era.
-- Kanishka uses the title **Devaputra** (son of god). The **Rabatak inscription** from Afghanistan gives his genealogy if a paper names it.
+- keys usually peg his accession to **78 CE**, the start of the **Shaka Samvat** (Shaka era). Some books use about **127 CE** for his reign peak. Prelims still want **78 CE** when they say Shaka era. Vikrama **57 BCE** and Shaka **78 CE** differ by **135 years**. National calendar **Chaitra 1 ≈ 22 March** (21 March in a leap year).
+- Kanishka uses the title **Devaputra** (son of god). The **Rabatak inscription** from Afghanistan gives his genealogy and names cities **Saketa, Kaushambi, Pataliputra, and Champa** — **not Shravasti**.
+- The Sarnath Buddhist image inscription of Kanishka is dated about **81 CE** (year 3 of his era).
 - Kanishka convenes the **Fourth Buddhist Council** in **Kashmir** at **Kundalvana / Kundalavana**.
-- **Vasumitra** is remembered as president of the council. **Ashvaghosha** writes the *Buddhacharita* in this age.
+- **Vasumitra** is remembered as president of the council. **Ashvaghosha** writes *Buddhacharita*, *Saundarananda*, and *Sariputraprakarana*. Court circle also remembers **Parsva**, **Nagarjuna**, and physician **Charaka**. **Patanjali** is **not** of this court (Shunga age).
+- Chinese texts remember Kanishka’s clash with **Pan Chao** (Ban Chao) and defeat of a large Kushan force.
 - The school linked to the council is **Sarvastivada**. Mahayana Buddhism grows strongly under Kushan patronage.
 - Council-king memory: **Ajatashatru** (1st), **Kalashoka** (2nd), **Ashoka** (3rd), **Kanishka** (4th).
 - Kanishka builds a great stupa at **Peshawar**. Chinese pilgrims later describe it.
 - His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same series.
 - Kanishka is a common **trap option** for **Hathigumpha**. That inscription belongs to **Kharavela** of Kalinga.
 
-> ** note:** Shaka era = **78 CE** (Kanishka). Vikrama era = **57 BCE**. **Hathigumpha** = **Kharavela** of Kalinga.
+> ** note:** Shaka era = **78 CE** (Kanishka). Vikrama era = **57 BCE**. **Hathigumpha** = **Kharavela** of Kalinga. Rabatak ≠ Shravasti.
 
 ---
 
@@ -1471,10 +1487,104 @@ D. Hathigumpha inscription
 
 </details>
 
-### Years with zero extra hits in local `pyq/`
+---
 
-**2024, 2022, 2020, 2019** — no further GS-I hit that maps to Shunga / Satavahana / Kushan / Sangam after keyword search.
-**Out of boundary:** 2022 Chandragupta **II** Shaka silver is Gupta, not Kushan/Shaka-dynasty. 2020 mahajanapada capitals are the sixth-century list. Indo-Greek campaign detail sits with Alexander–Menander.
+### Ghatnachakra UPPCS + UKPCS fill (so the book is not needed)
+
+**Q7. UPPCS (R.I.) 2014** — Indo-Greek ruler who issued lead coins — **Ans: A Strato II**.
+
+**Q8. UPPCS Mains 2017** — Sankarshana and Vasudeva on coins of — **Ans: D Agathocles**.
+
+**Q9. UPPCS Pre 1997** — Earliest specimen of kavya style — **Ans: A Rudradaman of Kathiawar (Junagadh)**.
+
+**Q10. UPPCS Pre 2014** — Who renovated Sudarshan lake without forced labour — **Ans: D Rudradaman I**.
+
+**Q11. UPPCS Pre 2015** — Who introduced gold coins for regular use — **Ans: A Vima Kadphises**.
+
+**Q12. UPPCS Mains 2009** — First to issue gold coins (Kushan line) — **Ans: B Vima Kadphises**.
+
+**Q13. UPPCS Pre 2010** — Buddha depicted on coins of — **Ans: B Kanishka**.
+
+**Q14. UPPCS Spl Mains 2008** — God on Yaudheya coins — **Ans: D Kartikeya**.
+
+**Q15. UPPCS Pre 2014** — Date of Sarnath Buddhist image inscription of Kanishka — **Ans: B 81 A.D.**
+
+**Q16. UPPCS Pre 1991** — Coronation of Kanishka — **Ans: D 78 A.D.**
+
+**Q17. UP RO/ARO Mains 2013 / UPPCS Pre 1990** — Saka Samvat begins — **Ans: B 78 A.D.**
+
+**Q18. UP UDA/LDA Pre 2006** — Year difference Vikrama vs Saka — **Ans: C 135 years**.
+
+**Q19. UPPCS Pre 1992** — Vikrama Samvat starts — **Ans: B 57 B.C.**
+
+**Q20. UPPCS Mains 2007** — Saka year in Dec 2009 — **Ans: A 1931** (2009−78).
+
+**Q21. UPPCS Pre 1994** — Contemporaries of Kanishka — Ashvaghosa and Vasumitra (not Kalidas / Kamban) — **Ans: C I and II**.
+
+**Q22. UP Lower Spl Pre 2008** — Not associated with court of Kanishka — **Ans: D Patanjali**.
+
+**Q23. UPPCS Mains 2005** — Did not adorn Kanishka’s court — **Ans: D Vishakhadatta**.
+
+**Q24. UP RO/ARO Mains 2014** — City not in Rabatak of Kanishka — **Ans: A Shravasti**.
+
+**Q25. UPPCS Pre 2018** — Two Ashwamedha of Pushyamitra — **Ans: C Ayodhya** (already Q6).
+
+**Q26. UPPCS Spl Mains 2008** — Simuka founded — **Ans: D Satavahana**.
+
+**Q27. UP RO/ARO Pre 2016** — “Ekabrahmana” used for — **Ans: C Gautamiputra Satakarni**.
+
+**Q28. UP RO/ARO Pre 2016** — NOT correctly matched: Satavahanas–Gold — **Ans: C** (no gold).
+
+**Q29. UPPCS Pre 2020** — Shriparvatiya in Puranas — **Ans: B Ikshvakus**.
+
+**Q30. UPPCS Pre 2022** — Platform with Aryak-pillars — **Ans: D Amaravati**.
+
+**Q31. UPPCS Mains 2015 / Spl 2008** — Kharavela’s dynasty — **Ans: A Chedi**.
+
+**Q32. UPPCS Pre 2018** — Hathigumpha informs about — **Ans: A Kharavela**.
+
+**Q33. UP RO/ARO Mains 2017** — Match Demetrius–Rudradaman–Gondophernes–Vima — **Ans: C** Indo-Greek / Scythian / Parthian / Kushan.
+
+**Q34. UPPCS Pre 2005** — Largest copper coins in north/NW — **Ans: B Kushanas**.
+
+**Q35. UP Lower Sub Pre 2004** — Regular gold coins — **Ans: C Kushana**.
+
+**Q36. UPPCS Pre 2017** — Match Gandhara Art–Kushanas; Junagarh–Rudradaman; Milindapanho–Menander; Taxila inscription–Patika — **Ans: C**.
+
+**Q37. UP Lower Sub Pre 1998** — A: Kushanas traded via Persian Gulf and Red Sea; R: well-organised navy — **Ans: C** A true, R false.
+
+<details>
+<summary>Show answer keys for Q7–Q37</summary>
+
+Keys are bolded in each stem. Full teaching cards above carry the facts.
+
+</details>
+
+---
+
+### UKPCS
+
+**Q38. UKPCS Pre 2010 / UPPCS Mains 2008** — Ashvaghosa was contemporary of — **Ans: C Kanishka**.
+
+**Q39. UK UDA/LDA Mains 2006** — Dynasty expanded outside India — **Ans: B and C** Maurya and Kushan (both accepted in some keys; Kushan is the clear “outside India” empire fact here).
+
+**Q40. UKPCS Pre 2021** — Gold–silver ratio in Saka–Kshatrapa period — **Ans: C 1 : 35**.
+
+**Q41. UK UDA/LDA Mains 2006** — Purana with longest Andhra Satavahana list — **Ans: C Matsya Purana**.
+
+<details>
+<summary>Show answer keys for UKPCS Q38–Q41</summary>
+
+Keys are bolded above. Darius I / Alexander campaign detail stays in Topic 6.
+
+</details>
+
+---
+
+### Years with zero extra hits in local `pyq/` folder
+
+**2024, 2022, 2020, 2019** — no further GS-I hit that maps to Shunga / Satavahana / Kushan / Sangam after keyword search beyond the banked set.
+**Out of boundary:** 2022 Chandragupta **II** Shaka silver is Gupta, not Kushan/Shaka-dynasty. 2020 mahajanapada capitals are the sixth-century list. Indo-Greek campaign detail sits with Alexander–Menander in Topic 6. Periplus anonymous author also in Economy Topic 12.
 
 ---
 
@@ -1483,20 +1593,31 @@ D. Hathigumpha inscription
 1. **Kushans before Shakas** (2023 B) → Greeks → Sakas → Kushans.
 2. **Hathigumpha = Ashoka / Kanishka / Harsha** → **Kharavela**.
 3. **Pushyamitra ashwamedha = Besnagar / Hathigumpha** → **Ayodhya**.
-4. **Satavahanas = Sanskrit-first court** → **Prakrit** (2021).
+4. **Satavahanas = Sanskrit-first / gold coins** → **Prakrit**; metals include lead/copper/silver/potin, **not gold**.
 5. **Karikala = Rajaraja I** → Sangam vs imperial Chola.
 6. **Mahendravarman = Chola** → **Pallava** (2025).
 7. **Rajaraja = Pallava** → **Chola**.
-8. **Kadungon = Rashtrakuta** → **Pandya**.
-9. **Milinda’s monk = Nagarjuna** → **Nagasena**.
-10. **Rudradaman dug Sudarshana first** → Mauryan lake, Shaka **repair**.
-11. **Gondophares = Kushan** → **Parthian**.
-12. **Shaka era = 57 BCE** → **78 CE**. 57 BCE = Vikrama.
-13. **Purushapura = Mathura** → Peshawar main. Mathura second.
-14. **Muvendar includes Pallava** → Chera, Chola, Pandya only.
-15. **Akam = war** → Akam = love. Puram = war.
-16. **Junagadh = Hathigumpha** → Gujarat Shaka vs Odisha Kalinga.
-17. **Simuka = Kushan founder** → Satavahana. Kushan founder = **Kujula**.
-18. **Fourth Council = Ashoka** → **Kanishka** / Kashmir. Ashoka = Third.
-19. **Heliodorus = Pushyamitra’s ashwamedha clerk** → Bhagavata envoy of Antialcidas.
-20. **Sangam = Satavahana dynasty** → Tamil literary age. Different house.
+8. **Shaka era = 57 BCE** → **78 CE**; Vikrama = 57 BCE; difference **135**.
+9. **Patanjali = Kanishka court** → **Shunga** / *Mahabhashya*.
+10. **Rabatak lists Shravasti** → Saketa, Kaushambi, Pataliputra, Champa — **not Shravasti**.
+11. **Sudarshana founded by Rudradaman** → built under Chandragupta; repaired **without forced labour**.
+12. **Vima = copper only / Kujula = gold** → reverse: Vima = gold; Kujula = copper.
+13. **Milinda contemporary of Bimbisara** → Indo-Greek, centuries later.
+14. **Strato II = silver only** → remembered for **lead**.
+15. **Satavahana capital = only Amaravati** → lasting capital **Pratishthana**.
+16. **Ekabrahmana = Pushyamitra** → **Gautamiputra Satakarni**.
+17. **Kushan navy explains Red Sea trade** → trade yes; navy claim false.
+18. **Gandhara = red sandstone** → **green schist**; Mathura = red sandstone.
+19. **Hathigumpha = Khandagiri** → **Udayagiri** (18 caves); Khandagiri has 15.
+20. **Yaudheya coins = Vasudeva** → **Kartikeya** + peacock.
+21. **Kadungon = Rashtrakuta** → **Pandya**.
+22. **Milinda’s monk = Nagarjuna** → **Nagasena**.
+23. **Gondophares = Kushan** → **Parthian**.
+24. **Purushapura = Mathura** → Peshawar main; Mathura second.
+25. **Muvendar includes Pallava** → Chera, Chola, Pandya only.
+26. **Akam = war** → Akam = love; Puram = war.
+27. **Junagadh = Hathigumpha** → Gujarat Shaka vs Odisha Kalinga.
+28. **Simuka = Kushan founder** → Satavahana; Kushan founder = **Kujula**.
+29. **Fourth Council = Ashoka** → **Kanishka** / Kashmir; Ashoka = Third.
+30. **Heliodorus = Pushyamitra’s ashwamedha clerk** → Bhagavata envoy of Antialcidas.
+31. **Sangam = Satavahana dynasty** → Tamil literary age; different house.
