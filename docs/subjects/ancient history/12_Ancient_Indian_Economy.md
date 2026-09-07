@@ -186,6 +186,7 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 - The **nanadesi** are merchants of **many regions** on long-distance routes. **Manigrama** is the **foreign and overseas** trade body. **Manigrama** is the foreign-trade guild. Nanadesi looks “foreign,” but the paper still wants Manigrama.
 - The **Ainnurruvar** are a later “500” south merchant network. They are not Mauryan.
 - The *Arthashastra* treats guild custom as usable law. Sanchi and Bharhut gifts name shrenis. Shreni is **not** “only foreign trade.”
+- Shreni quality, price, and member conduct are guild-controlled. The system is **not** “only northern India” — it is known in the south as well.
 
 **PYQ — UPPCS Prelims 2018, Q89**
 
@@ -1163,14 +1164,15 @@ A. Śreni B. Nagaram C. Nānādesis D. Manigrama
 5. **Lyrist = Chandragupta II** → **Samudragupta**.
 6. **Nishka = Mauryan coin** → Vedic gold **unit**.
 7. **Shreni = 2018 foreign trade** → **Manigrama**.
-8. **Nanadesi = Manigrama** → many-lands vs overseas guild.
-9. **Boat models = Dholavira** → **Mohenjo-daro + Lothal**.
-10. **Barbarikon = Broach** → Indus mouth. Broach = **Barygaza**.
-11. **Tamralipti = main Roman port** → **Muziris** / west-south.
-12. **Lothal = Muziris** → Bronze Age dock vs Sangam–Roman pepper.
-13. **IVC = pastoral** → **Urban** (2020). Pastoral = Rigvedic.
-14. **Later Vedic = urban** → **agrarian**.
-15. **Entrepot = any jetty** → warehouse / redistributor.
-16. **Dakshinapatha = only sea** → inland north–Deccan road.
-17. **Yavana = only a Greek king** → Sangam foreign / western trader.
-18. **2024 Q2 = Only 1** → **Both A**.
+8. **Shreni = only northern India** → north **and** south; quality/price/conduct are guild-controlled.
+9. **Nanadesi = Manigrama** → many-lands vs overseas guild.
+10. **Boat models = Dholavira** → **Mohenjo-daro + Lothal**.
+11. **Barbarikon = Broach** → Indus mouth. Broach = **Barygaza**.
+12. **Tamralipti = main Roman port** → **Muziris** / west-south.
+13. **Lothal = Muziris** → Bronze Age dock vs Sangam–Roman pepper.
+14. **IVC = pastoral** → **Urban** (2020). Pastoral = Rigvedic.
+15. **Later Vedic = urban** → **agrarian**.
+16. **Entrepot = any jetty** → warehouse / redistributor.
+17. **Dakshinapatha = only sea** → inland north–Deccan road.
+18. **Yavana = only a Greek king** → Sangam foreign / western trader.
+19. **2024 Q2 = Only 1** → **Both A**.

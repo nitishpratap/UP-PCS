@@ -124,9 +124,9 @@ D. Dwij
 | UKPCS Unit 1 head | Status in this subject |
 |-------------------|------------------------|
 | Pre-Historic / Harappa / Vedic / Sangam | National Topics 1–3, 8 |
-| Mahajanapadas / Magadha | Topic 5 |
+| Mahajanapadas / Magadha | Topic 5 — includes UKPCS 2016 Nanda founder + 2012 sixth-century upheaval A/B |
 | Jainism / Buddhism / Bhagavatism / Shaivism | Topic 4 |
-| Persian–Greek contacts | Topic 6 |
+| Persian–Greek contacts | Topic 6 — Massaga women, Deimachus, Alexander-success codes filled from Ghatnachakra |
 | Maurya / Kushana | Topics 7–8 |
 | Gupta | Topic 9 |
 | Post-Gupta to 1200 | Topic 10 |

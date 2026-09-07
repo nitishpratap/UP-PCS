@@ -1304,9 +1304,59 @@ D. (A) is false, but (R) is true
 
 ---
 
+**Q51.** The women of which Indian republic or kingdom had taken up arms against Alexander after many soldiers were killed?
+
+A. Abhisara B. Glausai C. Katha D. Massaga  
+
+**Logic:** Assakenoi capital Massaga; women fighters after male losses.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Massaga** of the Assakenoi.
+
+</details>
+
+---
+
+**Q52.** Who among the following had **not** come to India with Alexander?
+
+A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus  
+
+**Logic:** Deimachus = later envoy to Bindusara, not a companion of 326.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Deimachus** belongs to Bindusara’s court horizon.
+
+</details>
+
+---
+
+**Q53.** Alexander’s success in India is correctly linked with which of the following?
+
+1. There was no central power in India at that time  
+2. He had a superior army  
+3. He was helped by traitorous Indian rulers  
+4. He was a good administrator  
+
+A. 1 and 2 only B. 1, 2 and 3 C. 2, 3 and 4 D. All the above  
+
+**Logic:** Standard three causes; administrator is not a victory cause in this stem.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1, 2 and 3. Ambhi-type allies matter; “good administrator” does not.
+
+</details>
+
+---
+
 ## Complete PYQ Bank (Topic 6)
 
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+> UPPCS + high-yield Alexander / Persian stems from Ghatnachakra Greek Invasion block, plus recent Prelims. Magadha Nanda founder = Topic 5.
 
 ### UPPCS Prelims 2023
 
@@ -1339,9 +1389,120 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
 </details>
 
-### Years with zero extra hits in local `pyq/`
+### Alexander / Nanda contemporary (Ghatnachakra Greek Invasion)
 
-UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I question maps to Alexander / Seleucus / Indo-Greek after keyword search.
+**Q3. UPPCS Pre 1998**
+
+Assertion (A): After campaigning for nearly two years, Alexander left India in 325 BCE.  
+Reason (R): He was defeated by Chandragupta Maurya.
+
+A. Both true and R explains A  
+B. Both true but R does not explain A  
+C. A true, R false  
+D. A false, R true  
+
+**A/R logic:** A tests return date (~325); R tests a false defeat story.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** He returned about **325 BCE**; he was **not** defeated by Chandragupta.
+
+</details>
+
+---
+
+**Q4. UPPCS Mains 2013**
+
+The women of which Indian republic or kingdom had taken up arms against Alexander after a large number of its soldiers had been killed?
+
+A. Abhisara B. Glausai C. Katha D. Massaga  
+
+**Logic:** Massaga / Assakenoi.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Massaga.
+
+</details>
+
+---
+
+**Q5. UPPCS Pre 2003 / UDA-LDA Pre 2002 / UPPCS Pre 2000**
+
+Alexander’s success in India was due to:
+
+1. No central power  
+2. Superior army  
+3. Traitorous Indian rulers  
+4. Good administrator  
+
+A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All  
+
+**Logic:** Drop statement 4.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1, 2 and 3.
+
+</details>
+
+---
+
+**Q6. UP RO/ARO Mains 2013**
+
+Name the brave Indian King whom Alexander defeated on the bank of river Jhelum.
+
+A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda  
+
+**Logic:** Hydaspes = Porus; Ambhi was ally.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Porus.
+
+</details>
+
+---
+
+**Q7. UPPCS Re-exam Pre 2015**
+
+Who one of the following had not come to India with Alexander?
+
+A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus  
+
+**Logic:** Deimachus → Bindusara.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Deimachus.
+
+</details>
+
+---
+
+**Q8.** Which dynasty was ruling over North India at the time of Alexander’s invasion?
+
+A. Nanda B. Maurya C. Sunga D. Kanva  
+
+**Logic:** Dhana Nanda contemporary; Mauryas come after.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nanda (Dhana / Agrammes).
+
+</details>
+
+---
+
+### Years with zero extra hits in local `pyq/` folder
+
+UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I question maps to Alexander / Seleucus / Indo-Greek after keyword search beyond the 2023 pair above.
 **Out of boundary:** 2018 Q91 Besnagar is a *trap option* for Pushyamitra’s **ashwamedha** — correct answer **Ayodhya**, not Heliodorus. 2022 Chandragupta II’s Shaka silver coins are **Gupta**.
 
 ---
@@ -1352,7 +1513,7 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I q
 2. **Alexander beat the Nandas / sat at Pataliputra** → never crossed the Beas.
 3. **Ambhi fought at Hydaspes as the enemy** → **ally**; enemy = **Porus**.
 4. **Porus was killed** → restored as satrap.
-5. **Aristotle / Megasthenes / Chanakya in the Macedonian column** → no.
+5. **Aristotle / Megasthenes / Chanakya / Deimachus in the Macedonian column** → no (Deimachus = Bindusara envoy).
 6. **Megasthenes = Alexander’s admiral** → admiral = **Nearchus**; Megasthenes = **Seleucus’s envoy**.
 7. **Seleucus conquered Magadha** → he **ceded** NW tracts, took **500 elephants**.
 8. **Kushans before Sakas** (2023 B) → **Greeks → Sakas → Kushans**.
@@ -1375,3 +1536,5 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I q
 25. **Fourth Buddhist Council = Ashoka** → **Kanishka**, Kashmir / Vasumitra.
 26. **Hathigumpha = Kanishka** (2018 option) → **Kharavela**.
 27. **Purushapura = Sagala** → Peshawar Kushan vs Sialkot Indo-Greek.
+28. **Massaga women = Kathaioi / Sangala** → Assakenoi capital **Massaga**.
+29. **Alexander success = good administrator** → not a standard cause; use no central power + army + traitors.
