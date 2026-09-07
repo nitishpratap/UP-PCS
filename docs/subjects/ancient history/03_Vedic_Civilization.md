@@ -76,6 +76,23 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 ---
 
+## Books and Writers — Vedic Age
+
+**Match-list home | Vedanga authors | corpus heads stay without personal writers**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Ashtadhyayi* | **Panini** | Vyakarana; Classical Sanskrit grammar |
+| *Nirukta* | **Yaska** | Etymology Vedanga |
+| Chhanda / metre tradition | **Pingala** | Metre Vedanga |
+
+- The Samhitas, Brahmanas, Aranyakas, and Upanishads are **corpus** heads. They do not carry a single match-list author like Panini.
+- **Panini** is the usual Vyakarana name. Do not swap him with Yaska.
+
+> ** note:** *Ashtadhyayi* = **Panini**. *Nirukta* = **Yaska**.
+
+---
+
 ![img_2.png](img_2.png)
 ## 3.1 Vedic Period
 

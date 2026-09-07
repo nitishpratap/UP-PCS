@@ -76,6 +76,26 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 ---
 
+## Books and Writers — Miscellaneous
+
+**Match-list home | historiography four + medical samhitas**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Hindu Polity* | **K.P. Jayaswal** | Nationalist gana / polity reading |
+| *The Wonder That Was India* | **A.L. Basham** | Cultural survey |
+| *An Introduction to the Study of Indian History* | **D.D. Kosambi** | Marxist / analytical history |
+| *The Early History of India* | **Vincent Arthur Smith** | Colonial dynastic narrative |
+| *Charaka Samhita* | **Charaka** (Agnivesha redaction) | Internal medicine; **120 chapters / 8 sthanas** |
+| *Sushruta Samhita* | **Sushruta** | Surgery / rhinoplasty tradition |
+
+- Jayaswal ≠ Smith. Kosambi ≠ Basham.
+- **Charaka** = medicine. **Sushruta** = surgery.
+
+> ** note:** Full historiography and Charaka cards stay in §§14.8–14.9.
+
+---
+
 ## 14.1 World Civilizations
 
 **Four Old World Bronze cores | river surplus first**

@@ -81,6 +81,30 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ---
 
+## Books and Writers — Religious Movements
+
+**Match-list home | named Buddhist and Jain works | canons stay separate**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Milinda Panha* | **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist dialogue |
+| *Buddhacharita* | **Ashvaghosha** | Sanskrit Buddha-life; Kanishka age |
+| *Saundarananda* | **Ashvaghosha** | Same court circle |
+| *Madhyamaka Karika* | **Nagarjuna** | Madhyamaka / sunyata |
+| *Visuddhimagga* | **Buddhaghosa** | Theravada manual |
+| *Mahavibhasha* | Fourth Council circle (**Vasumitra**; Ashvaghosha age) | Sarvastivada; Kashmir / Kanishka |
+| *Tattvartha Sutra* | **Umasvati** | Jain; accepted by Digambara and Svetambara |
+| *Kalpasutra* | **Bhadrabahu** | Tirthankara lives; Paryushana reading |
+| *Parishishtaparvan* | **Hemachandra** | Later Jain narrative |
+
+- The **Tripitaka**, **Jataka**, **Dhammapada**, and Mahayana sutras are **canon baskets**. They are not single-author match pairs like *Buddhacharita*.
+- Jain **Angas** are also canon heads without one personal author on the paper.
+- *Milinda Panha* monk = **Nagasena**, not **Nagarjuna**.
+
+> ** note:** Full Tripitaka / council teaching stays in the Buddhist Texts cards below.
+
+---
+
 ## 4.1 Buddhism
 
 **Shramana religion of the Buddha | nastika | Middle Path | no creator God**

@@ -76,6 +76,24 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 ---
 
+## Books and Writers — Sixth Century BCE
+
+**Match-list home | named texts of the mahajanapada age**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Ashtadhyayi* | **Panini** (Pushkalavati / Gandhara) | Grammar; names about **22** janapadas |
+| *Svapnavasavadattam* | **Bhasa** | Udayana–Vasavadatta story set at **Ujjain** |
+| *Anguttara Nikaya* | Buddhist canon (no single author) | Standard list of **sixteen** mahajanapadas |
+| *Bhagavati Sutra* (*Vyakhya Prajnapti*) | Jain canon (no single author) | Parallel sixteen-name list (names differ) |
+
+- For “who wrote *Ashtadhyayi*” the answer is **Panini**.
+- For “which text lists the sixteen mahajanapadas” the usual answer is **Anguttara Nikaya**, not a personal author.
+
+> ** note:** Full capital / Magadha teaching stays in the cards below.
+
+---
+
 ## 5.1 Political Condition of Sixth Century BCE
 
 **Iron Age Gangetic states | second urbanisation | age of the Buddha and Mahavira**

@@ -78,6 +78,32 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ---
 
+## Books and Writers — Post-Mauryan Age
+
+**Match-list home | book → writer | Shunga / Satavahana / Kushan / Sangam**
+
+| Book / text | Writer / authority | Horizon / use |
+|-------------|--------------------|---------------|
+| *Mahabhashya* | **Patanjali** | Shunga-age grammar; **not** Kanishka’s court |
+| *Malavikagnimitra* | **Kalidasa** | Play on Agnimitra (Pushyamitra’s son); Shunga setting |
+| *Gatha Saptasati* | **Hala** | Prakrit anthology; Satavahana court |
+| *Milinda Panha* | Dialogue of **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist Q&A |
+| *Buddhacharita* | **Ashvaghosha** | Buddha’s life epic; Kanishka age |
+| *Saundarananda* | **Ashvaghosha** | Same court circle |
+| *Sariputraprakarana* | **Ashvaghosha** | Same court circle |
+| *Tolkappiyam* | Tolkappiyar tradition | Earliest Tamil grammar; Sangam age |
+| *Periplus of the Erythraean Sea* | **Anonymous** Greek merchant | Red Sea / Indian Ocean trade handbook |
+| *Matsya Purana* | Puranic tradition | Longest Andhra / Satavahana king list (~30) |
+| *Vayu Purana* | Puranic tradition | Kanva end / Andhra founder memory |
+
+- **Patanjali** belongs to the **Shunga** horizon. Do not put him in Kanishka’s court.
+- **Ashvaghosha** belongs to **Kanishka**. Do not put him with Ashoka.
+- The *Periplus* has **no named author**.
+
+> ** note:** *Milinda Panha* monk = **Nagasena**, not Nagarjuna.
+
+---
+
 ## 8.1 Post-Mauryan Period
 
 **185 BCE to Gupta rise ~320 CE | no pan-Indian empire | foreign wave in the NW**

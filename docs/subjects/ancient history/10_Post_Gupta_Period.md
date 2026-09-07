@@ -76,6 +76,28 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 
 ---
 
+## Books and Writers — Post-Gupta / Harsha Age
+
+**Match-list home | Bana, Harsha’s plays, Chinese travellers**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Harshacharita* | **Banabhatta** | Prose biography (*akhyayika*) of Harsha |
+| *Kadambari* | **Banabhatta** (finished by **Bhushanabhatta**) | Prose romance (*katha*) |
+| *Suryashataka* | **Mayura** | Same Harsha court; not Bana |
+| *Nagananda*, *Ratnavali*, *Priyadarshika* | Attributed to **Harsha** | Court plays; *Nagananda* has Buddhist flavour |
+| *Si-Yu-Ki* (*Xiyu Ji*) | **Hiuen Tsang / Xuanzang** | Chinese record of Harsha’s India |
+| *Nanhai Jigui Neifa Zhuan* | **I-tsing (Yijing)** | Post-Harsha Nalanda / sea-route account |
+| *Kitab-ul-Hind* | **Al-Biruni** | ~1017; last in the usual traveller order |
+| *Rajatarangini* | **Kalhana** | Later Kashmir chronicle (Huna / Harsha-age memory) |
+
+- **Banabhatta** wrote *Harshacharita* and *Kadambari*. **Mayura** wrote *Suryashataka*.
+- Traveller order for match stems: Fa-Hien → Hiuen Tsang → I-tsing → Al-Biruni (Fa-Hien is Gupta-age; taught in Topic 9).
+
+> ** note:** Full Banabhatta and Xuanzang cards stay below.
+
+---
+
 ## 10.1 Post-Gupta Age
 
 **~550–647 CE | Hunas then regional houses | Harsha is a reunion, not a Gupta**

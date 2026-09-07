@@ -84,6 +84,36 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ---
 
+## Books and Writers — Mauryan Age
+
+**Match-list home | book → writer | keep play vs statecraft separate**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Arthashastra* | **Kautilya / Chanakya / Vishnugupta** | Sanskrit statecraft; saptanga, officials, courts |
+| *Indica* | **Megasthenes** | Greek envoy account of Chandragupta’s India (lost; known via Strabo, Arrian) |
+| *Mudrarakshasa* | **Vishakhadatta** | Sanskrit play on Chandragupta–Chanakya court intrigue |
+| Commentary on *Mudrarakshasa* | **Dhundiraja** | Later commentary on Vishakhadatta’s play |
+| *Devichandraguptam* | **Vishakhadatta** | Drama remembered with Gupta-age story (same author; later setting) |
+| *Abhisarikavanchitaka* | **Vishakhadatta** | Another work attributed to the same dramatist |
+| *Dipavamsa* | Sinhalese Buddhist chronicle | Third Council at Pataliputra under Ashoka |
+| *Mahavamsa* | Sinhalese Buddhist chronicle | Same council; Moggaliputta Tissa; Lanka missions |
+| *Divyavadana* | Buddhist anthology | Taxila revolt under Bindusara; Ashoka as *kumara* |
+| *Samantapasadika* | **Buddhaghosa** | Ashoka / Avanti tradition in Bindusara’s reign |
+| *Ashokavadana* | Buddhist tradition | Ashokan succession legends (use lightly) |
+| *Vishnu Purana* | Puranic tradition | Maurya genealogy (**UPPCS 2023**) |
+| *Manusmriti* | Manu tradition | Contrast text: widow remarriage barred; “fallen kshatriyas” |
+| *The Prince* (*Il Principe*) | **Machiavelli** | European compare-text for *Arthashastra* (not a Mauryan book) |
+| *Laghulovada / Rahulovada* | Buddhist sutta (not written by Ashoka) | Listed for monks in the **Bhabru** edict |
+
+- The *Arthashastra* is **not** the *Mudrarakshasa*.
+- The *Indica* is **not** the *Arthashastra*.
+- *Devichandraguptam* shares Vishakhadatta’s name but its story sits in the **Gupta** horizon.
+
+> ** note:** For “author of Indica” the answer is **Megasthenes**. For “author of Arthashastra” the answer is **Kautilya / Chanakya / Vishnugupta**.
+
+---
+
 ## 7.1 Mauryan Empire
 
 **Chandragupta Maurya | c. 322–185 BCE | capital Pataliputra (Ganga–Son)**

@@ -69,6 +69,20 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ---
 
+## Books and Writers — Administration Sources
+
+**Short source table | full Mauryan literature lives in Topic 7**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Arthashastra* | **Kautilya / Chanakya** | Saptanga, adhyakshas, spies, revenue |
+| *Indica* | **Megasthenes** | Agronomai, city boards, seven classes |
+
+- Do not treat *Indica* as the *Arthashastra*.
+- Broader Mauryan book–writer pairs sit in Topic 7.
+
+---
+
 ## 11.1 Ancient Rulers
 
 **Time-order spine | titles and inscriptions in the next two headings**

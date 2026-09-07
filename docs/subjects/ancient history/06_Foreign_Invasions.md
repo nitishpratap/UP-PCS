@@ -96,6 +96,25 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 ---
 
+## Books and Writers — Foreign Invasions Age
+
+**Match-list home | Greek and companion sources**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Anabasis* (and related *Indica*) | **Arrian** | Alexander’s Indian march (draws on Ptolemy and Aristobulus) |
+| *Indica* (Mauryan India) | **Megasthenes** | Seleucid envoy after ~303 BCE; Chandragupta’s court |
+| India–Persia notes | **Ctesias** | Physician to Artaxerxes II |
+| Gymnosophist / march notes | **Onesicritus** | Helmsman-writer with Alexander |
+| *Milinda Panha* | **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist dialogue |
+
+- **Megasthenes** did **not** march with Alexander. He comes after the Seleucus treaty.
+- *Milinda Panha* also sits in Topics 4 and 8. Monk = **Nagasena**, not Nagarjuna.
+
+> ** note:** Full campaign teaching stays in the Alexander cards below.
+
+---
+
 ## 6.1 Greek Invasion
 
 **Two layers: Persian satrapy first, then Macedon | papers’ “Greeks” = Alexander plus Indo-Greek**

@@ -68,6 +68,21 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 ---
 
+## Books and Writers — Economy Sources
+
+**Match-list home | trade handbooks and statecraft**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Periplus of the Erythraean Sea* | **Anonymous** Greek merchant | 1st c. CE sailing handbook; Barygaza / Muziris |
+| Natural History (gold-drain note) | **Pliny** | Roman gold flowing to India |
+| *Arthashastra* | **Kautilya** | Guild custom, revenue, Mauryan economy |
+
+- The *Periplus* has **no named author**.
+- Pliny complains of Roman gold drain; he is not an Indian court writer.
+
+---
+
 ## 12.1 Economy
 
 **Agri + craft + trade | type changes by age | 2020 match lives here too**

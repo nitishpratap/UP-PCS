@@ -90,6 +90,38 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 ---
 
+## Books and Writers — Gupta Age
+
+**Match-list home | literature + science | later pairs kept for 2025-style stems**
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Abhijnanashakuntalam*, *Malavikagnimitra*, *Vikramorvashiyam* | **Kalidasa** | Gupta dramas; CG II court tradition |
+| *Raghuvamsa*, *Kumarasambhava* | **Kalidasa** | Mahakavyas |
+| *Meghaduta*, *Ritusamhara* | **Kalidasa** | Lyrics |
+| *Shringara Shataka* | **Bhartrihari** | Not Kalidasa |
+| *Amarakosha* | **Amarasimha** | Lexicon; Navaratna name |
+| *Mrichchhakatika* | **Sudraka** | Charudatta–Vasantasena |
+| *Mudrarakshasa*, *Devichandraguptam* | **Vishakhadatta** | Chanakya play; Ramagupta story |
+| *Panchatantra* | **Vishnu Sharma** (tradition) | Fable cycle |
+| *Kiratarjuniya* | **Bharavi** | Late Gupta / after |
+| *Aryabhatiya* | **Aryabhata** | 499 CE; maths / astronomy |
+| *Panchasiddhantika*, *Brihatsamhita* | **Varahamihira** | Astronomy / encyclopaedia |
+| *Brahmasphutasiddhanta* | **Brahmagupta** | Early 7th c. edge of the age |
+| *Setubandha* (*Ravanavaho*) | **Pravarasena II** | Vakataka Prakrit |
+| Prayag Prashasti | **Harishena** | Samudragupta’s literary eulogy |
+| *Nala Champu* | **Trivikrama Bhatta** | Later match pair |
+| *Kathasaritsagara* | **Somadeva** | Later match pair |
+| *Gita Govinda* | **Jayadeva** | Later match pair |
+| *Brihatkathamanjari* | **Kshemendra** | Later match pair |
+
+- **Kalidasa** is not the author of *Shringara Shataka* (**Bhartrihari**).
+- *Mudrarakshasa* is Vishakhadatta’s play. It is not the *Arthashastra*.
+
+> ** note:** Full Navaratna / science teaching stays in the Gupta Literature cards.
+
+---
+
 ## 9.1 Origin of the Guptas
 
 **~320–550 CE | Magadha / Pataliputra | after the Kushans | not a Mauryan house**
