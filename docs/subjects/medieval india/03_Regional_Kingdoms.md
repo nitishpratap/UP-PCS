@@ -138,10 +138,11 @@ D. IV, III, I, II
 
 ## 3.2 Kashmir under Zain-ul-Abidin
 
-**Reign:1420–1470** | **Capital:Srinagar** | **Title:Bud Shah** (Great Sultan)
+**Reign:1420–1470** | **Capital:Srinagar** | **Title:Bud Shah** (Great Sultan) | **Also called:** Akbar of Kashmir
 
+- Original name **Shahi Khan**; he sat on the Kashmir throne after his brother Ali Shah.
 - His predecessor **Sikandar Shah (1389–1413)** had forced conversions, destroyed temples, and allowed cow slaughter under **Suha Bhatt**.
-- **Zain-ul-Abidin (1420–1470)** reversed Sikandar’s intolerant policies and earned the title **Bud Shah**.
+- **Zain-ul-Abidin (1420–1470)** reversed Sikandar’s intolerant policies and earned the title **Bud Shah**. He is also remembered as the **Akbar of Kashmir** for liberal religion, learning, and crafts.
 - He **abolished jaziya** and banned cow slaughter.
 - He **restored temples** and permitted reconversion to Hinduism.
 - He appointed **Sriya Bhatt** as Minister of Justice and court physician.

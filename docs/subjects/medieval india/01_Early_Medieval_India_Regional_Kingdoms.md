@@ -1,5 +1,5 @@
 # Topic 1 — Early Medieval India (Regional Kingdoms)
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥57)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥70)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,14 +8,14 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, Ghatnachakra South India (Chola / Chalukya / Pallava / Sangam), UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, Ghatnachakra South India + Pre-Medieval Period, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — dynasty↔capital, ruler↔dynasty, temple chronology, Chola A/R, Sena order, UP medieval city names
 > **Last verified:** September 2026
 > **Current Affairs:** N/A (purely historical; no 12–24 month scheme/appointment surface)
 
 ---
 
-## Consolidated — 42 Must-Score Facts
+## Consolidated — 55 Must-Score Facts
 
 1. Early Medieval India runs roughly **750–1200 CE** after Harsha as an age of regional kingdoms and hereditary **samantas**, not the Delhi Sultanate that begins in **1206**.
 2. The **Tripartite Struggle** for **Kannauj** was fought by the **Pala**, **Gurjara-Pratihara**, and **Rashtrakuta** powers — not by the Cholas.
@@ -42,7 +42,7 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 23. **Mahoba** and **Kalinjar** (Banda district) are the Chandela strongholds in Bundelkhand **UP**.
 24. **Kalachuris** ruled from **Tripuri** in the Chedi / Dahala belt.
 25. **Pulakeshin II** of Badami defeated Harsha and left the **Aihole** prasasti; **Narasimhavarman I** took the title **Vatapikonda**.
-26. The poet **Rajasekhara** lived at the court of Pratihara **Mahipala**.
+26. The poet **Rajasekhara** lived at the courts of Pratihara **Mahendrapala I** and **Mahipala I** (*Karpuramanjari*, *Kavyamimamsa*, and related works).
 27. Do not confuse **Kannauj (UP)** — the north sovereignty prize — with **Kanchi (TN)**, the Pallava capital.
 28. Sena capital under Lakshman Sen is linked with **Nadia**; Pala seats stayed in the Bengal–Bihar belt with only episodic Kannauj holds.
 29. Imperial Chola founder is **Vijayalaya** (~**850**), not Rajaraja or Parantaka. **Parantaka I** took the title **Maduraikonda** after defeating the Madurai king.
@@ -59,6 +59,19 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 40. **Meenakshi** temple at Madurai is linked in tradition to **Kulasekara Pandya** (later rebuilt under Nayakas). **Motupalli** was the Kakatiya overseas port (Marco Polo).
 41. Cholas commonly designated a **Yuvraj** (heir) during the reigning king’s lifetime.
 42. Sailendra / Srivijaya expedition under **Rajaraja I** and especially **Rajendra I** answered trade obstruction toward China.
+43. **Prithviraj III** (Ajmer Chauhan) won **First Tarain (1191)** and lost **Second Tarain (1192)** to Muhammad Ghori. **Vigraharaja IV** earlier took **Delhi** from the Tomaras.
+44. **Anangpal Tomar** founded **Dhillika (Delhi)** in the 8th century as a Pratihara feudatory. **Jejakabhukti** = ancient **Bundelkhand** (from Jeja / Jayashakti, Chandela).
+45. Pala facts: **Gopala** (elected; **Odantapuri**); **Dharmapala** (**Vikramashila**, **Somapura / Paharpur**; title **Paramasaugata**); **Devapala** granted five villages for the **Sailendra / Balaputradeva** Nalanda vihara.
+46. **Kumaradevi** (queen of Govind Chandra Gahadavala) built the **Dharmachakra Jaina Vihara** at **Sarnath**. **Lakshmidhara** wrote *Krityakalpataru*.
+47. **Alha–Udal** of **Mahoba** served Chandela **Parmardi / Paramardi**; struggle with Prithviraj appears in Chand Bardai’s *Prithviraj Raso* and Jagnik’s *Alha-khand* (*Parmal Raso*).
+48. Kannauj medieval names include **Kanyakubja**, **Mahodaya**, and **Mahodaya Shri / Nagar Mahoday Shri**. **Koil** = Aligarh; **Mahotsava Nagar** = Mahoba.
+49. **Paramara** power centre moved from **Ujjain** to **Dhara**. **Bhoja** wrote *Samarangana Sutradhara* (architecture / devices) and founded **Bhojshala** (Saraswati; Sanskrit school at Dhar, **1035**).
+50. **Solanki / Chaulukya** capital was **Anhilwada**; founder line **Mularaja I**. Jain scholar **Hemachandra** advised **Kumarapala** (after fame under Jayasimha Siddharaja).
+51. **Lakshmana Sena** started **Lakshmana Samvat**. Early medieval jurists are **Vijnaneshwara** (*Mitakshara*), **Jimutavahana** (*Dayabhaga*), and **Hemadri** — not **Rajasekhara** (poet).
+52. **Dantidurga** founded Rashtrakutas and performed **Hiranyagarbha** at Ujjain. **Amoghavarsha I** was born in a military camp on the Narmada during Govinda III’s northern return.
+53. **Gangeyadeva** (Kalachuri of Tripuri) took the title **Vikramaditya** and revived **gold** coinage; **Al-Biruni** mentions him and Tripuri.
+54. *Hammira Mahakavya* treats Chauhans as **Suryavanshi** / Agnikula. *Hammir Raso* is by **Sharangadeva** (not Abdur Rehman). *Prithviraja Vijaya* is by **Jayanaka**.
+55. **Pundravardhana bhukti** was in **north Bengal** (later into north Bihar under Pala–Chandra–Sena). **Araghatta** = Persian-wheel style water device for irrigation.
 
 ---
 
@@ -86,6 +99,14 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 | Nataraja | Dakshinamurti | Four-armed dancing Shiva vs teacher form facing south | नटराज / दक्षिणामूर्ति |
 | Badami / Vatapi | Vanavasi | Early Chalukya capital vs **Kadamba** capital | वातापी / वनवासी |
 | Vanchi / Karur | Madurai | Chera capital vs Pandya capital | वंची / मदुरै |
+| Tarain | Chandawar | **1192** Prithviraj vs **1194** Jay Chandra | तराइन / चंदावर |
+| Mihir Bhoja (Pratihara) | Bhoja (Paramara) | Adivaraha / Kannauj vs Dhara scholar-king / Bhojshala | मिहिर भोज / परमार भोज |
+| Jejakabhukti | Kaushambi | Ancient **Bundelkhand** vs doab city | जेजाकभुक्ति / कौशांबी |
+| Vikramashila | Odantapuri | **Dharmapala** vs **Gopala** (Bihar seats) | विक्रमशिला / ओदन्तपुरी |
+| Prithviraj Raso | Prithviraja Vijaya | Chand Bardai vs **Jayanaka** | पृथ्वीराज रासो / विजय |
+| Hammir Raso | Hammira Mahakavya | **Sharangadeva** vs Nayachandra Suri epic | हम्मीर रासो / महाकाव्य |
+| Rajasekhara | Hemadri / Vijnaneshwara | Pratihara court poet vs early medieval **jurists** | राजशेखर / हेमाद्रि–विज्ञानेश्वर |
+| Anhilwada | Dhara | Solanki capital vs Paramara capital | अणहिलवाड़ / धारा |
 
 ---
 
@@ -104,7 +125,8 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 - In the north, the central theme was the **Tripartite Struggle for Kannauj**.
 - In the south, power rotated through the Pallava, Chalukya, Rashtrakuta, and **Chola** cycle.
 - **Sulaiman** called the Pala kingdom **Ruhma/Dharma** and praised its elephant corps.
-- **Al-Masudi** called the Pratihara realm **Al-Juzr (Gurjara)** and the Rashtrakuta emperor **Balhara**.
+- **Al-Masudi** called the Pratihara realm **Al-Juzr (Gurjara)** and the king **Baura** (likely a garbled form of **Adivaraha** for Mihir Bhoja’s line).
+- **Araghatta** in economic stems means a water-lifting wheel used to irrigate land (Persian-wheel type), not bonded labour or military land grants.
 - This topic covers regional kingdoms and is **not** the Delhi Sultanate, which begins in **1206**.
 - A common trap is calling Mihir Bhoja a “Sultan”; he was a Gurjara-Pratihara ruler.
 
@@ -136,11 +158,14 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 |---------|----------------|--------|-------------------|
 | **Pala** | Bengal–Bihar seats; Kannauj episodic | East | **Gopala** (elected); **Dharmapala**; **Devapala** |
 | **Gurjara-Pratihara** | **Bhinmal** → **Kannauj** | Rajasthan–UP–MP | Nagabhatta I; **Mihir Bhoja (Adivaraha)**; Mahendrapala I |
-| **Paramara** | **Dhara** | Malwa | **Bhoja I** (scholar-king) |
-| **Chandela** | **Khajuraho / Mahoba / Kalinjar** | Bundelkhand | **Dhanga**; **Vidyadhara** |
+| **Paramara** | **Dhara** (earlier Ujjain) | Malwa | **Bhoja I** (scholar-king) |
+| **Chandela** | **Khajuraho / Mahoba / Kalinjar** | Bundelkhand (**Jejakabhukti**) | **Dhanga**; **Vidyadhara** |
 | **Gahadavala** | **Kannauj + Banaras** | Eastern UP doab | **Govind Chandra**; **Jay Chandra** |
 | **Kalachuri** | **Tripuri** (Jabalpur belt) | Chedi / Dahala | **Gangeyadeva**; **Karna** |
 | **Sena** | **Nadia** (Lakshman Sen) | Bengal | Hemant → Vijaya → Ballal → **Lakshman** |
+| **Chauhan (Chahamana)** | **Ajmer** (later Delhi) | Rajasthan–Delhi corridor | **Vigraharaja IV**; **Prithviraj III** |
+| **Tomar** | **Dhillika (Delhi)** | Delhi–Haryana | **Anangpal** |
+| **Solanki / Chaulukya** | **Anhilwada** | Gujarat | **Mularaja I**; Jayasimha Siddharaja; **Kumarapala** |
 
 > ** note:UPPCS 2019 Q90** → Pallava-Kanchi, Pandya-Madura, Yadava-Devagiri, Kakatiya-Warangal (**B = 2 3 4 1**). **UPPCS 2025 Q121** → Mahendravarman-Pallava, Kadungon-Pandya, Amoghavarsha-Rashtrakuta, Rajaraja-Chola (**B = 2 4 1 3**).
 
@@ -338,11 +363,13 @@ D. A false, R true
 
 **Capital:Manyakheta (Malkhed)** | **Founder:Dantidurga** (overthrew Early Chalukyas **757**) | **Span:** c. **753–972**
 
+- **Dantidurga** laid the Rashtrakuta foundation and is remembered for the **Hiranyagarbha** ritual at **Ujjain**.
 - **Krishna I** commissioned the monolithic **Kailasa temple at Ellora**.
 - **Amoghavarsha I (814–878)** ruled for about **64 years**.
+- He was born in a military camp near the **Narmada** while his father **Govinda III** returned from northern campaigns.
 - He wrote **Kavirajamarga**, an early Kannada text.
 - He is the Rashtrakuta fact in **2025 Q121**.
-- **Govinda III** campaigned north against Pratiharas and south against Tamil powers.
+- **Govinda III** campaigned north against Pratiharas and south against Tamil powers. He defeated Pratihara **Nagabhatta II** (Sanjan / Radhanpur plates).
 - **Indra III** sacked **Kannauj (915–918)** in the tripartite contest.
 - **Krishna III** defeated Chola **Parantaka I** (**949**) and reached Rameshwaram.
 - **Krishna III** erected a **victory pillar at Rameshwaram** after the southern campaign.
@@ -354,7 +381,7 @@ D. A false, R true
 - The empire ended when Manyakheta fell in **972**.
 - Western Chalukyas rose in its place.
 
-> ** note:Amoghavarsha I = Rashtrakuta** (not Chola/Pallava). Manyakheta is not a Pratihara capital.
+> ** note:Amoghavarsha I = Rashtrakuta** (not Chola/Pallava). **Hiranyagarbha** = Dantidurga. Manyakheta is not a Pratihara capital.
 
 ---
 
@@ -530,23 +557,28 @@ D. A false, R true
 
 ## 1.10 Gurjara-Pratihara Dynasty
 
-**Early base:Bhinmal (Rajasthan)** | **Capital under Mihir Bhoja:Kannauj** | **Span:** 8th–10th c.
+**Early base:Bhinmal / Ujjain** | **Capital under Mihir Bhoja:Kannauj (Mahodaya / Mahodaya Shri)** | **Span:** 8th–10th c.
 
 - **Pratihara** means “doorkeeper” in Rajput **Agnikula** legend.
 - The Pratiharas are counted among the four fire-born clans in that tradition.
-- **Nagabhatta I (730–756)** resisted **Arab** pressure from Sind and united Rajput clans.
+- **Nagabhatta I (730–756)** is often listed as dynastic founder who resisted **Arab** pressure from Sind (Gwalior inscription tradition).
+- **Vatsaraja (c. 775–800)** is the consolidator who made the house a real imperial power in the tripartite age.
+- Chronology spine: **Vatsaraja → Nagabhatta II → Mihir Bhoja → Mahendrapala I → Mahipala**.
 - **Nagabhatta II** defeated **Dharmapala** near **Mongyr (Munger)** and revived Pratihara power in the doab.
-- **Mihir Bhoja (Adivaraha, ~836–885)** recovered **Kannauj around 836**.
-- He made Kannauj his capital.
-- **Al-Masudi** praised his cavalry as the best in India.
-- **Mahendrapala I (885–908)** extended the empire into Magadha, north Bengal, and Awadh.
-- **Mahipala (912–931)** patronised Sanskrit poet **Rajasekhara** but lost Kannauj to **Indra III**.
+- **Mihir Bhoja (Adivaraha / Prabhasa, ~836–885)** recovered **Kannauj around 836** and made it capital.
+- Arab traveller **Sulaiman** visited in the reign of **Bhoja I (Mihir Bhoja)**.
+- **Al-Masudi** praised Pratihara cavalry and called the king **Baura** (linked to the **Adivaraha** title).
+- **Mahendrapala I (885–910)** extended the empire into Magadha, north Bengal, and Awadh.
+- **Mahipala (912–944)** lost Kannauj to **Indra III**.
+- Sanskrit poet **Rajasekhara** adorned the courts of **Mahendrapala I** and his son **Mahipala I**.
+- His works include *Karpuramanjari*, *Kavyamimamsa*, *Viddhashalabhanjika*, *Balaramayana*, and related texts. He is a **poet**, not a jurist.
+- Early medieval jurists are **Vijnaneshwara** (*Mitakshara*), **Jimutavahana** (*Dayabhaga*), and **Hemadri**.
 - Pratihara courts sent mathematical and medical texts to **Baghdad**, showing wide cultural contact.
 - **Kanauj school** of temple architecture flourished under Pratihara patronage.
 - **Krishna III (Rashtrakuta)** invaded again in **963**, hastening Pratihara collapse.
 - Feudatories later became **Paramaras**, **Chandelas**, and **Chauhans** as the empire cracked.
 
-> ** note:Mihir Bhoja = Pratihara** (title **Adivaraha**). Not the same person as **Paramara Bhoja** of Dhara.
+> ** note:Mihir Bhoja = Pratihara** (title **Adivaraha**). Not the same person as **Paramara Bhoja** of Dhara. Kannauj = **Mahodaya / Mahodaya Shri**.
 
 ---
 
@@ -584,24 +616,31 @@ D. A false, R true
 
 **Region:Bengal + Bihar** | **Founder:Gopala (~750)**, elected by chiefs after anarchy | **Span:** mid-8th to mid-12th c.
 
-- **Gopala (~750–770)** was chosen by local chiefs to end anarchy.
-- He is the major **elected medieval founder** fact s.
-- **Dharmapala (770–810)** entered the tripartite war for Kannauj.
-- He occupied **Kannauj** during that struggle.
-- He revived **Nalanda**.
-- He founded **Vikramashila**.
-- **Devapala (810–850)** marked the territorial peak with Assam, Odisha, and Nepal contacts.
-- The **Sailendra** ruler of Java requested a monastery at **Nalanda** during Devapala’s reign.
-- Sulaiman called the Pala realm **Ruhma/Dharma**.
-- He also praised its elephant corps, reputedly numbering **50,000** (likely exaggerated).
+- **Gopala (~750–770)** was chosen by local chiefs to end **matsyanyaya** (law of the jungle), recorded in the Khalimpur tradition of Dharmapala.
+- Tibetan memory (Taranatha) links his birth near **Pundravardhana**.
+- He is the major **elected medieval founder** fact, often paired with Pallava **Nandivarman Pallavamalla** as another publicly chosen king.
+- **Gopala** founded / developed the **Odantapuri (Odantapura)** educational centre in **Bihar**.
+- **Dharmapala (770–810)** entered the tripartite war for Kannauj and occupied the city.
+- Inscriptions call him **Paramasaugata** (devoted Buddhist).
+- He revived **Nalanda** and founded **Vikramashila** (Bhagalpur, Bihar — not Banka).
+- He also built the great monastery at **Somapura / Somapuri (Paharpur)**.
+- Haribhadra and other Buddhist scholars are linked with his court; tradition credits many religious schools without religious persecution of others.
+- **Devapala (810–850)** marked the territorial peak with Assam, Odisha, and Nepal contacts. He too is remembered as **Paramasaugata**.
+- At the request of **Sailendra** king **Balaputradeva** of Suvarnadvipa / Java, Devapala granted **five villages** to maintain a Buddhist vihara at **Nalanda**.
+- **Pundravardhana bhukti** lay in **north Bengal** and later stretched into northern Bihar under Pala–Chandra–Sena rule.
+- Sulaiman called the Pala realm **Ruhma/Dharma** and praised its elephant corps.
 - The Palas were great **Buddhist patrons** who also granted Brahmana villages and supported Shaivism/Vaishnavism.
-- **Santarakshita** and **Atisha (Dipankara)** linked Pala Buddhism to **Tibet**.
+- **Santarakshita** and **Atisha (Dipankara)** linked Pala Buddhism to **Tibet**. Vajrayana flourished at Vikramashila alongside grammar, logic, law, astronomy, and philosophy.
 - **Mahipala (~988–1038)** briefly revived Pala power before Sena takeover in Bengal.
-- Palas faded under Pratihara and Rashtrakuta pressure.
-- The **Senas** replaced them in Bengal.
+- Early medieval learning centres of this belt are **Nalanda**, **Vikramashila**, and **Odantapuri**. **Taxila** belongs to an earlier age and is **not** an early-medieval Pala centre.
 - **Bakhtiyar Khalji** destroyed **Nalanda** and **Vikramashila** in the early **13th century** after Pala–Sena rule ended.
 
-> ** note:Gopala = elected founder**. **Vikramashila = Dharmapala** (not a Chalukya “Vikramaditya” name trap).
+### Mithila neighbour (Karnata line)
+
+- In the Mithila / north Bihar belt, the **Karnata** dynasty was founded by **Nanyadeva (c. 1097–1147)** with capital at **Simraungadh**.
+- The last major Karnata king was **Harisimha (c. 1295–1324)**, remembered for protecting arts and starting the **Panji** system.
+
+> ** note:Gopala = elected founder + Odantapuri**. **Vikramashila / Somapura = Dharmapala**. Balaputradeva = Sailendra request under **Devapala**.
 
 ---
 
@@ -614,17 +653,19 @@ D. A false, R true
 | 1 | **Hemant Sen** | Starts the 2024 chain |
 | 2 | **Vijaya Sen** | Defeated late Palas and consolidated Bengal |
 | 3 | **Ballal Sen** | Compiled **Danasagara** on gifts; pushed Brahmanical orthodoxy |
-| 4 | **Lakshman Sen** | Patronised **Jayadeva**; fled **Bakhtiyar Khalji (1204)** |
+| 4 | **Lakshman Sen** | Patronised **Jayadeva**; started **Lakshmana Samvat**; fled **Bakhtiyar Khalji (1204)** |
 
 - The Senas claimed a Karnataka / Kshatriya origin before entering Bengal as Palas weakened.
+- Full inscriptional line often runs Samanta → Hemanta → Vijaya → Ballala → Lakshmana → Visvarupa.
 - **Vijaya Sen** expanded Sena power into **Bengal and part of Bihar**.
-- **Ballal Sen** strengthened caste orthodoxy and Sanskrit learning at the cost of Pala-style Buddhism.
+- **Ballal Sen** strengthened caste orthodoxy and Sanskrit learning at the cost of Pala-style Buddhism. He compiled **Danasagara**.
+- **Lakshmana Sena (c. 1178–1206)** reigned about **28 years** and initiated **Lakshmana Samvat**.
 - **Jayadeva**, author of **Gita Govinda**, belonged to **Lakshman Sen’s** court at Nadia.
 - **Muhammad Bakhtiyar Khalji** captured **Nadia in 1204** after entering disguised as a horse merchant.
 - Lakshman Sen fled, marking the start of Turkish rule in Bengal.
 - Sena administration followed earlier Pala models of land grants to Brahmins.
 
-> ** note:UPPCS 2024 Q3** answer **D (3 4 1 2)** = Hemant → Vijaya → Ballal → Lakshman. Not alphabetical.
+> ** note:UPPCS 2024 Q3** answer **D (3 4 1 2)** = Hemant → Vijaya → Ballal → Lakshman. **Lakshmana Samvat = Sena**, not Pala/Pratihara.
 
 ### PYQ — Sena chronology
 
@@ -660,33 +701,68 @@ D. 3, 4, 1, 2
 
 ## 1.14 Paramara Dynasty
 
-**Region:Malwa** | **Capital:Dhara** | **Peak:Bhoja I (1010–1055 approx.)**, scholar-king
+**Region:Malwa** | **Capital:Dhara** (earlier **Ujjain**) | **Peak:Bhoja I (c. 1010–1055)**, scholar-king
 
 - Paramaras rose as **Pratihara feudatories** and fought **Kalachuris** for control of Malwa.
+- Dynastic start is linked with **Upendra / Krishnaraja** in the 9th century; **Siyaka II** is often called the real founder of Paramara power. Capital settled at **Dhara**.
 - **Bhoja I** patronised Sanskrit learning and is the archetype scholar-king of **Dhara**.
-- **Bhoja I** is credited with works such as **Sarasvatikanthabharana** and **Shringara Prakasha**.
-- **Rajasekhara**, author of **Kavyamimamsa**, served the **Pratihara** court of **Mahipala**, not Bhoja’s Paramara court.
+- His works include *Samarangana Sutradhara* (architecture and mechanical / scientific devices), *Sarasvatikanthabharana*, *Siddhanta Sangraha*, *Rajamartanda*, *Yukti-kalpataru*, *Charucharya*, and related texts.
+- He established **Bhojshala** at **Dhar (1035)** as a Sanskrit school whose presiding deity is **Saraswati** (later associated with the Kamal Maula mosque premises).
+- The **Samidheshwar / Tribhuvan Narayan** temple at Chittor is linked with Paramara **Bhoja**.
+- After Bhoja’s death, scholars remembered Dhara as “waterless” and Saraswati as unsupported — a famous mourning verse on learning’s collapse.
+- **Munja** and **Udayaditya** are other Paramara names; **Gangeyadeva** is **Kalachuri**, not Paramara.
+- **Rajasekhara**, author of **Kavyamimamsa**, served the **Pratihara** court, not Bhoja’s Paramara court.
 - Paramara architecture and learning mark **Malwa**.
 - They must not be confused with Bundelkhand temples of the Chandelas.
 
-> ** note:Dhara / Malwa = Paramara**. **Khajuraho = Chandela**. **Mihir Bhoja ≠ Paramara Bhoja**.
+> ** note:Dhara / Malwa = Paramara**. **Khajuraho = Chandela**. **Mihir Bhoja ≠ Paramara Bhoja**. Bhojshala deity = **Saraswati**.
 
 ---
 
 ## 1.15 Chandela Dynasty
 
-**Region:Bundelkhand** | **Span:** c. **9th–13th c.** | **UP facts:Mahoba**, **Kalinjar (Banda)**
+**Region:Bundelkhand (Jejakabhukti)** | **Span:** c. **9th–13th c.** | **UP facts:Mahoba**, **Kalinjar (Banda)**
 
-- **Nannuka (~831)** is treated as the founder of the Chandela line in Bundelkhand.
-- **Yasovarman (925–950)** expanded early Chandela power in the region.
-- **Dhanga (950–1002)** was the classic **Khajuraho** temple patron.
-- **Kandariya Mahadeva** at Khajuraho is the Nagara-style showpiece of the dynasty.
-- **Ganda (1019–1035)** resisted **Mahmud of Ghazni** during his Indian raids.
-- **Vidyadhara (1035–1050)** defeated Ghazni’s forces at **Kalinjar**.
+- **Nannuka (~831)** is the founder of the Chandela line in Bundelkhand.
+- The region’s ancient name **Jejakabhukti** comes from **Jeja / Jayashakti**, grandson of Nannuka. Do **not** match Jejakabhukti with **Kaushambi**.
+- Chandela chronology spine: **Yasovarman (925–950) → Dhanga (950–1002) → Vidyadhara (c. 1017–1029) → Kirtivarman (c. 1060–1100)**.
+- **Dhanga** is the classic **Khajuraho** temple patron. Tradition says he abandoned his body at the **Ganga–Yamuna sangam** at Prayagraj.
+- **Kandariya Mahadeva** at Khajuraho is the Nagara-style showpiece; it is usually dated to **Vidyadhara’s** reign (many MCQs still park it under Dhanga’s Khajuraho age).
+- **Vidyadhara** resisted Ghaznavid pressure and is the Kalinjar-age Chandela peak.
+- **Parmardi / Paramardi (c. 1165–1203)** fought **Prithviraj Chauhan**.
+- His Mahoba commanders **Alha** and **Udal** are remembered in folk epic. The Chauhan–Chandela struggle appears in Chand Bardai’s *Prithviraj Raso* and in Jagnik’s *Alha-khand* (*Parmal Raso*).
 - Khajuraho (UNESCO WHS) belongs to the **Chandelas**, not Paramaras or Pratiharas.
 - **Mahoba** and **Kalinjar** place the dynasty on the **UP–MP Bundelkhand** frontier tested by UPPCS.
 
-> ** note:** Assign **Khajuraho → Chandela**. **Kalinjar = Banda district, UP**.
+> ** note:** Assign **Khajuraho → Chandela**. **Jejakabhukti = Bundelkhand**. **Alha–Udal = Mahoba**, not Chanderi/Panna.
+
+---
+
+## 1.15a Chauhan, Tomar & Solanki (Pre-Medieval north–west)
+
+### Chauhans (Chahamanas) of Ajmer–Delhi
+
+- **Prithviraj III** is the famous **Prithviraj Chauhan** of Ajmer.
+- **First Tarain (1191):** he defeated **Muhammad Ghori**.
+- **Second Tarain (1192):** Ghori defeated and captured him — full Cause→Course→Result cards sit in Turkish Invasions Topic 2.
+- **Vigraharaja IV** was the earlier Chauhan peak who conquered the Tomaras and annexed **Delhi** / eastern Punjab.
+- *Hammira Mahakavya* presents Chauhans as **Suryavanshi** scions of Chahamana and as one of the four **Agnikula** clans. Early names include Vasudeva and Guvaka.
+- *Hammir Raso* is by **Sharangadeva** (not Abdur Rehman).
+- *Prithviraj Raso* is by **Chand Bardai**. *Prithviraja Vijaya* is by **Jayanaka**. *Visaldev Raso* is linked with **Narpati Nalha**.
+
+### Tomaras of Delhi
+
+- **Anangpal Tomar**, originally a Pratihara feudatory, founded **Dhillika (Delhi)** in the **8th century**.
+- Later Chauhan power absorbed Delhi before the Ghurid breakthrough.
+
+### Solankis / Chaulukyas of Gujarat
+
+- Agnikula Chaulukyas / Solankis were founded in power by **Mularaja I**.
+- Capital was **Anhilwada (Anhilwara / Patan)**.
+- Jain scholar **Hemachandra** rose under **Jayasimha Siddharaja (1093–1143)** and later advised **Kumarapala (1143–1172)**.
+- **Jayasimha Siddharaja** is remembered for restoring a demolished mosque at **Khambhat** with a large grant (Aufi’s account).
+
+> ** note:** Delhi founder = **Tomar Anangpal**, not Chauhan. Solanki capital = **Anhilwada**, not Dhara.
 
 ---
 
@@ -698,14 +774,16 @@ D. 3, 4, 1, 2
 - **Madanapala (~1100–1114)** consolidated the early Gahadavala base in the doab.
 - **Govind Chandra (~1114–1154)** was the greatest Gahadavala ruler.
 - Persian praise placed his territory from **Mongyr to Delhi**.
+- His queen **Kumaradevi** was Buddhist and built the **Dharmachakra Jaina Vihara** at **Sarnath**.
+- His minister **Lakshmidhara** wrote *Krityakalpataru*.
 - **Vijay Chandra (~1154–1170)** ruled during the intermediate phase before Jay Chandra.
-- **Jay Chandra (~1170–1194)** rivalled **Prithviraj Chauhan** over status and territory in the doab.
+- **Jay Chandra (~1170–1194)** was the last major Gahadavala ruler and rivalled **Prithviraj Chauhan** over status and territory in the doab.
 - **Muhammad Ghori** killed **Jay Chandra** at **Chandawar (1194)** and took Kannauj.
 - The Gahadavalas patronised **Sanskrit learning** at Banaras.
 - They held **Kannauj** as their political capital alongside Banaras.
 - Kannauj never regained imperial stature after Turkish conquest of the Ganga valley.
 
-> ** note:** Jay Chandra dies at **Chandawar 1194**, not Tarain (**1192**, Prithviraj). Greatest Gahadavala = **Govind Chandra**.
+> ** note:** Jay Chandra dies at **Chandawar 1194**, not Tarain (**1192**, Prithviraj). **Kumaradevi’s vihara = Sarnath**, not Bodh Gaya.
 
 ### PYQ — Gahadavala dual capitals
 
@@ -742,11 +820,13 @@ D. A false, R true
 
 - Kalachuris of Tripuri are often called **Chedi** or **Dahala** Kalachuris in textbooks.
 - **Gangeyadeva** expanded Kalachuri power and clashed with the **Paramaras of Malwa**.
+- He adopted the title **Vikramaditya** and revived **gold** coin issues after a long gap in the pre-medieval north.
+- **Al-Biruni** describes Gangeyadeva and his capital **Tripuri**.
 - **Karna** continued the conflict with Paramaras and left strong coin and temple records.
 - The Kalachuri capital was **Tripuri** near Jabalpur. Do not match it with Paramara **Dhara**, Chandela **Khajuraho**, or **Kannauj**.
 - Their rise forms part of the wider **Rajput regional state** map after Pratihara decline.
 
-> ** note:Tripuri / Jabalpur belt = Kalachuri**. Do not park them at Dhara (Paramara) or Mahoba (Chandela).
+> ** note:Tripuri / Jabalpur belt = Kalachuri**. **Gangeyadeva ≠ Paramara**. Do not park them at Dhara or Mahoba.
 
 ---
 
@@ -773,7 +853,9 @@ D. A false, R true
 - She was a woman ruler recorded under a male royal name.
 - The dynasty is famous for **fort walls**, gateways, and **tank irrigation** networks in Telangana.
 - The Kakatiya capital was **Warangal (Orugallu)**. Do not match it with Yadava **Devagiri**.
-- **Motupalli** was a famous Kakatiya seaport. Marco Polo visited through this port and wrote of Andhra prosperity. Ganapati Deva’s Motupalli charter protected sea merchants.
+- **Motupalli** (present **Prakasam** district, Andhra Pradesh) was a famous Kakatiya seaport. Marco Polo visited through this port and wrote of Andhra prosperity.
+- The Motupalli epigraph lists assessed rates on sandal, camphor, rose-water, ivory, pearls, coral, copper, zinc, lead, silk, pepper, and areca — a window on exports and imports.
+- Ganapati Deva’s Motupalli charter protected sea merchants.
 - Kakatiya power fell to Delhi Sultanate pressure in the early **14th century**.
 
 > ** note:UPPCS 2019 Q90** — Kakatiya ↔ **Warangal**. **Motupalli** = Kakatiya port, not Masulipatnam / Kakinada in the classic stem.
@@ -850,20 +932,22 @@ D. Madura–Veer Pandya
 
 | Modern / common | Medieval / classical name | Key fact |
 |-----------------|---------------------------|-----------|
-| **Kannauj** | **Kanyakubja** | Harsha capital; tripartite prize; later Gahadavala |
+| **Kannauj** | **Kanyakubja**; **Mahodaya / Mahodaya Shri / Nagar Mahoday Shri** | Harsha capital; tripartite prize; Mihir Bhoja / later Gahadavala |
 | **Ayodhya** | **Saketa** | Ancient–medieval continuity in Awadh |
 | **Varanasi** | **Kashi / Banaras / Avimukta** | Gahadavala secondary capital; sacred centre |
-| **Mahoba** | Mahoba (Chandela) | Chandela capital in Bundelkhand **UP** |
+| **Mahoba** | **Mahotsava Nagar** (also Mahoba) | Chandela capital in Bundelkhand **UP** |
 | **Kalinjar** | Kalanjar fort | Chandela stronghold, **Banda** district |
-| **Banaras** | Kashi / Avimukta | Gahadavala secondary capital with Kannauj |
+| **Aligarh** | **Koil** | Early medieval name for the Aligarh belt |
+| **Bundelkhand** | **Jejakabhukti** | Chandela country — **not** Kaushambi |
 
 - **Kannauj** was Harsha’s old capital and the tripartite sovereignty prize.
 - **Kashi / Banaras / Avimukta** was the Gahadavala religious-cultural centre, not the same role as Kannauj.
 - The standard ancient–medieval name pair for Awadh is **Ayodhya** and **Saketa**.
 - **Mahoba** and **Kalinjar** tie Chandela power to **Bundelkhand, UP**.
 - Do not confuse **Kannauj (UP)** with **Kanchi (TN)**.
+- Do not match **Jejakabhukti** with **Kaushambi**.
 
-> ** note:** UPPCS likes **Kannauj / Kashi / Ayodhya / Mahoba / Kalinjar** in Rajput–early medieval frames.
+> ** note:** UPPCS likes **Kannauj / Kashi / Ayodhya / Mahoba / Kalinjar / Koil / Jejakabhukti** in Rajput–early medieval frames.
 
 ---
 
@@ -1984,6 +2068,280 @@ D. Chola — Thanjavur
 
 ---
 
+**Q58.** Who among the following rulers is famous as “Prithviraj Chauhan”?
+
+A. Prithviraja I
+B. Prithviraja II
+C. Prithviraja III
+D. Vigraharaja IV only
+
+<details><summary>Show answer</summary>
+
+**Logic:** Numbered Chauhan identity vs Vigraharaja who took Delhi earlier.
+
+**Ans: C.** **Prithviraj III** of Ajmer — Tarain **1191 / 1192**.
+
+**Trap:** Confusing him with Vigraharaja IV (Delhi conquest from Tomaras).
+
+</details>
+
+---
+
+**Q59.** Kumaradevi, queen of Govind Chandra Gahadavala, constructed the Dharmachakra Jaina Vihara at:
+
+A. Bodh Gaya
+B. Rajgir
+C. Kushinagar
+D. Sarnath
+
+<details><summary>Show answer</summary>
+
+**Logic:** Gahadavala Buddhist / Jaina patronage site.
+
+**Ans: D.** **Sarnath**. Lakshmidhara’s *Krityakalpataru* is the related Gahadavala legal digest.
+
+**Trap:** Parking every Buddhist queen’s work at Bodh Gaya.
+
+</details>
+
+---
+
+**Q60.** Alha–Udal were related to:
+
+A. Chanderi
+B. Vidisha
+C. Mahoba
+D. Panna
+
+<details><summary>Show answer</summary>
+
+**Logic:** Chandela Mahoba commanders vs Prithviraj.
+
+**Ans: C.** Commandants of Chandela **Parmardi** of **Mahoba**; struggle in *Prithviraj Raso* and Jagnik’s *Alha-khand*.
+
+**Trap:** Choosing other Bundelkhand towns.
+
+</details>
+
+---
+
+**Q61.** Jejakabhukti was the ancient name of:
+
+A. Baghelkhand
+B. Bundelkhand
+C. Malwa
+D. Vidarbha
+
+<details><summary>Show answer</summary>
+
+**Logic:** Chandela territorial name from Jeja / Jayashakti.
+
+**Ans: B.** **Bundelkhand**. Wrong UP stem often pairs it with **Kaushambi**.
+
+**Trap:** Matching Jejakabhukti with Kaushambi or Malwa.
+
+</details>
+
+---
+
+**Q62.** Which ruler of Bengal founded Vikramashila University?
+
+A. Dharmapala
+B. Gopala
+C. Devapala
+D. Mahipala
+
+<details><summary>Show answer</summary>
+
+**Logic:** Pala monastery founders.
+
+**Ans: A.** **Dharmapala** also built **Somapura (Paharpur)**. **Odantapuri** = **Gopala**. Site = **Bhagalpur**, not Banka.
+
+**Trap:** Assigning Vikramashila to Gopala or Devapala.
+
+</details>
+
+---
+
+**Q63.** The Sailendra / Suvarnabhumi ruler who sought five villages from Devapala for a Nalanda monastery was:
+
+A. Dharanindra
+B. Sangramadhananjaya
+C. Balaputradeva
+D. Chudamanivarman
+
+<details><summary>Show answer</summary>
+
+**Logic:** Java–Pala Buddhist diplomacy.
+
+**Ans: C.** **Balaputradeva** of the Sailendra line.
+
+**Trap:** Naming Dharmapala as the donor king — the donor is **Devapala**.
+
+</details>
+
+---
+
+**Q64.** Match List-I (Dynasty) with List-II (Capital):
+
+| List-I | List-II |
+|--------|---------|
+| A. Pratihara | 1. Thanjavur |
+| B. Chola | 2. Anhilwada |
+| C. Paramara | 3. Dhara |
+| D. Solanki | 4. Kannauj |
+
+*Row order is not the answer code.*
+
+A. 4 2 3 1
+B. 4 3 2 1
+C. 4 2 1 3
+D. 4 1 3 2
+
+<details><summary>Show answer</summary>
+
+**Logic:** North dynasty capitals vs Chola Thanjavur.
+
+**Ans: D.** Pratihara–Kannauj; Chola–Thanjavur; Paramara–Dhara; Solanki–Anhilwada.
+
+**Trap:** Swapping Dhara and Anhilwada.
+
+</details>
+
+---
+
+**Q65.** Which of the following were famous jurists of early medieval India?
+
+1. Vijnaneshwara
+2. Hemadri
+3. Rajasekhara
+4. Jimutavahana
+
+A. 1, 2 and 3
+B. 2, 3 and 4
+C. 1, 2 and 4
+D. 1 and 4 only
+
+<details><summary>Show answer</summary>
+
+**Logic:** Mitakshara / Dayabhaga / Hemadri vs court poet.
+
+**Ans: C.** **Rajasekhara** is a Pratihara **poet** (*Karpuramanjari*), not a jurist.
+
+**Trap:** Including Rajasekhara because he is early medieval and famous.
+
+</details>
+
+---
+
+**Q66.** Which one of the following pairs is **not** correctly matched?
+
+A. Abdur Rehman — Hammir Raso
+B. Chand Bardai — Prithviraj Raso
+C. Jagnik — Alha-khand
+D. Narpati Nalha — Visaldev Raso
+
+<details><summary>Show answer</summary>
+
+**Logic:** Hammir Raso authorship.
+
+**Ans: A.** *Hammir Raso* = **Sharangadeva**. *Prithviraja Vijaya* = **Jayanaka**.
+
+**Trap:** Assigning every Chauhan epic to Chand Bardai or Abdur Rehman.
+
+</details>
+
+---
+
+**Q67.** With reference to Paramara Bhoja, which statement(s) is/are correct?
+
+1. *Samarangana Sutradhara* deals with architecture and scientific devices.
+2. Bhojshala at Dhar was a Sanskrit school with Saraswati as the deity.
+3. Gangeyadeva was a Paramara king of Dhara.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**Logic:** Bhoja works vs Kalachuri name trap.
+
+**Ans: A.** **Gangeyadeva** = **Kalachuri** of Tripuri (Vikramaditya title; gold coins).
+
+**Trap:** Parking Gangeyadeva under Paramaras because both are Malwa–Chedi rivals.
+
+</details>
+
+---
+
+**Q68.** Which of the following is **not** correctly matched?
+
+A. Koil — Aligarh
+B. Mahotsava Nagar — Mahoba
+C. Mahodaya Shri — Kannauj
+D. Jejakabhukti — Kaushambi
+
+<details><summary>Show answer</summary>
+
+**Logic:** UP early medieval place-name pairs.
+
+**Ans: D.** **Jejakabhukti** = **Bundelkhand**, not Kaushambi.
+
+**Trap:** Treating every “bhukti” as a doab city name.
+
+</details>
+
+---
+
+**Q69.** Who among the following initiated Lakshmana Samvat?
+
+A. Dharmapala
+B. Devapala
+C. Vijayasena
+D. Lakshmanasena
+
+<details><summary>Show answer</summary>
+
+**Logic:** Sena era name.
+
+**Ans: D.** **Lakshmana Sena** of the Sena dynasty.
+
+**Trap:** Assigning any new era to Dharmapala / Devapala.
+
+</details>
+
+---
+
+**Q70.** Consider the following pairs:
+
+| King / house | Fact |
+|--------------|------|
+| 1. Nannuka | Chandela founder |
+| 2. Jayashakti | Paramara king |
+| 3. Nagabhatta II | Gurjara-Pratihara |
+| 4. Bhoja | Rashtrakuta |
+
+How many pairs are correctly matched?
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details><summary>Show answer</summary>
+
+**Logic:** IAS-style dynasty identity pairs.
+
+**Ans: B.** Correct are **1** and **3**. Jayashakti = **Chandela**; Bhoja of Dhara = **Paramara** (not Rashtrakuta).
+
+**Trap:** Making every “Bhoja” a Rashtrakuta or every Jeja name a Paramara.
+
+</details>
+
+---
+
 ## Complete PYQ Bank (Topic 1)
 
 
@@ -2190,7 +2548,7 @@ D. A-2, B-3, C-4, D-1
 14. **Ur** was the general village assembly; **Sabha** was the Brahmana **agrahara** assembly.
 15. **Jay Chandra** died at **Chandawar in 1194**, not at Tarain in 1192.
 16. **Kadaram** is **Kedah (Malaysia)**; the **1025** naval expedition against it was led by **Rajendra I**.
-17. **Rajasekhara** served **Mahipala’s Pratihara court**, not Paramara **Bhoja I**.
+17. **Rajasekhara** served **Mahendrapala I** and **Mahipala I** at the Pratihara court, not Paramara **Bhoja I**.
 18. **Rudramadevi** ruled the Kakatiyas and was recorded in inscriptions as **Rudradeva**.
 19. **Agrahara** grants were **tax-free** villages, not heavily taxed Brahmana settlements.
 20. **Chennakesava** is at **Belur (Hoysala)**; **Hoysalesvara** is at **Halebid**.
@@ -2204,3 +2562,13 @@ D. A-2, B-3, C-4, D-1
 28. **Chera capital ≠ Puducherry** → **Vanchi / Karuvur**. **Vanavasi** = Kadamba, not Chalukya.
 29. **Motupalli** = Kakatiya port; Aihole names **Kalidasa** via Ravikirti’s boast.
 30. First standing Chola navy = **Rajaraja I**; “Chola Lake” / Chola Gangam = **Rajendra I**.
+31. **Prithviraj Chauhan** = **Prithviraj III**; Delhi founder city **Dhillika** = **Tomar Anangpal**.
+32. **Vikramashila / Somapura** = **Dharmapala**; **Odantapuri** = **Gopala**; Sailendra five villages = **Devapala**.
+33. **Jejakabhukti ≠ Kaushambi** → Bundelkhand. **Alha–Udal** = Mahoba Chandela.
+34. *Hammir Raso* ≠ Abdur Rehman → **Sharangadeva**. *Prithviraja Vijaya* = **Jayanaka**.
+35. Jurists = Hemadri / Vijnaneshwara / Jimutavahana; **Rajasekhara is not** a jurist.
+36. **Lakshmana Samvat** = **Lakshmana Sena**. **Kumaradevi’s vihara** = **Sarnath**.
+37. Paramara **Bhoja** ≠ Kalachuri **Gangeyadeva**. Bhojshala deity = **Saraswati**.
+38. Solanki capital = **Anhilwada**; Kannauj = **Mahodaya / Mahodaya Shri**.
+39. **Hiranyagarbha** = **Dantidurga**. **Araghatta** = irrigation waterwheel.
+40. **Taxila** is **not** an early-medieval Pala learning centre beside Nalanda / Vikramashila / Odantapuri.
