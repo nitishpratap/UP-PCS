@@ -86,26 +86,81 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ## 7.1 Mauryan Empire
 
-**First pan-North Indian state | 322–185 BCE | capital Pataliputra (Ganga–Son)**
+**Chandragupta Maurya | c. 322–185 BCE | capital Pataliputra (Ganga–Son)**
 
-- Buddhist tradition makes them the **Moriya** clan of **Pipphalivana**, with a peacock totem, and treats them as kshatriya. Brahmanical Puranas give a **low / shudra** origin. That is a smear after the Nanda overthrow.
-- Greek writers describe a humble youth *Sandrokottos / Androcottus* who later topples the Nandas. **Plutarch** uses **Androcottus**. **Justin** remembers Sandrokottos meeting **Alexander**. **William Jones** first equated Sandrokottos with **Chandragupta Maurya**.
+The Mauryas built the first large pan-North Indian state. Their capital was **Pataliputra** at the Ganga–Son junction.
 
-- **Chanakya** is also **Kautilya** and **Vishnugupta**. Papers often treat **Vishnugupta** as his childhood / alternate identity. He is a Taxila Brahman, insulted at the Nanda court, who trains Chandragupta. The *Arthashastra* is often compared with Machiavelli’s *Prince* as a hard statecraft book.
-- The *Mudrarakshasa* of Vishakhadatta is a **play** about Malayaketu and Amatya Rakshasa. It shows court intrigue under Chandragupta and calls him **Vrishal / Kulheen**. **Dhundiraja** wrote a commentary. Vishakhadatta’s other remembered works include *Devichandraguptam* (Gupta-age story) and *Abhisarikavanchitaka*. It is **not** the *Arthashastra*.
+### Origin and Greek names
 
-- **Chandragupta** rules about **322–297 BCE**. He overthrows **Dhana Nanda**. He is Sandrokottos.
-- **Bindusara** rules about **297–273 BCE**. His Greek fact is **Amitraghata / Amitrochates**.
-- **Ashoka** accedes about **272** and is crowned **268–232 BCE**. His facts are Kalinga, dhamma, and edicts.
-- **Kunala** is a legendary blinded heir, not a hard epigraphic king. **Dasharatha** gives the **Nagarjuni** caves to Ajivikas (often the **eastern** share). **Samprati** is the Jain “second Chandragupta” (often the **western and southern** share).
-- **Salisuka, Devavarman, and Satadhanvan** are Puranic names only. **Brihadratha** lasts to **185 BCE**. He is killed by **Pushyamitra Shunga**.
+- Buddhist tradition makes them the **Moriya** clan of **Pipphalivana**.
+- The clan’s totem is the peacock, and Buddhist texts treat them as kshatriya.
+- Brahmanical Puranas give a **low / shudra** origin. That line is a smear after the Nanda overthrow.
+- Greek writers remember a humble youth who later topples the Nandas.
+- **Plutarch** calls him **Androcottus**.
+- **Justin** calls him **Sandrokottos** and remembers a meeting with **Alexander**.
+- **William Jones** first equated Sandrokottos with **Chandragupta Maurya**.
 
-- Hardest sources are the edicts, then the *Arthashastra*, then *Indica* fragments. The **Vishnu Purana** genealogy is the **2023** fact. The *Dipavamsa* and *Mahavamsa* are Buddhist chronicles. The *Mudrarakshasa* comes last as a play.
-- **Prinsep in 1837** reads Brahmi. Maski later proves that Piyadassi is Ashoka.
+### Chanakya and literary sources
 
-- The Puranic span is often **137 years**. Rock Edict II names neighbours, **not** provinces: Chola, Pandya, Satiyaputra, Keralaputra, Tamraparni, Yonas, and Kambojas.
-- **NBPW** continues. It started in mahajanapada towns, not only under Ashoka. **Ring-wells** are a settlement fact. The coin is the punch-marked **pana / karshapana**. There are no portraits.
-- Pliny’s army size is **600,000** foot, **30,000** horse, and **9,000** elephants. Treat it as order of size, not a muster roll.
+- **Chanakya** is also called **Kautilya**.
+- Another name for him is **Vishnugupta**, often treated as his childhood or alternate identity.
+- He was a Taxila Brahman. After insult at the Nanda court, he trained Chandragupta.
+- His book is the *Arthashastra*, a hard statecraft text often compared with Machiavelli’s *Prince*.
+- The *Mudrarakshasa* of **Vishakhadatta** is a **play**, not the *Arthashastra*.
+- It shows court intrigue under Chandragupta through Malayaketu and Amatya Rakshasa.
+- The play calls Chandragupta **Vrishal** and **Kulheen**.
+- **Dhundiraja** wrote a commentary on *Mudrarakshasa*.
+- Vishakhadatta’s other remembered works are *Devichandraguptam* (a Gupta-age story) and *Abhisarikavanchitaka*.
+
+### King line (overview)
+
+| Ruler | Span (approx.) | Must-hold fact |
+|-------|----------------|----------------|
+| **Chandragupta** | 322–297 BCE | Overthrows **Dhana Nanda**; Greek **Sandrokottos** |
+| **Bindusara** | 297–273 BCE | Greek **Amitraghata / Amitrochates** |
+| **Ashoka** | Accedes ~272; crowned 268–232 BCE | **Kalinga**, **dhamma**, and the edicts |
+| **Brihadratha** | ends 185 BCE | Killed by **Pushyamitra Shunga** |
+
+- **Kunala** is a legendary blinded heir. He is not a hard epigraphic king.
+- **Dasharatha** gifts the **Nagarjuni** caves to the Ajivikas. Tradition often places him in the eastern share.
+- **Samprati** is the Jain “second Chandragupta.” Tradition often places him in the western and southern share.
+- **Salisuka** is a Puranic name only.
+- **Devavarman** is a Puranic name only.
+- **Satadhanvan** is a Puranic name only.
+- The Puranic span of the house is often given as **137 years**.
+
+### How to rank the sources
+
+- The hardest evidence is Ashoka’s **edicts**.
+- Next comes Kautilya’s *Arthashastra*.
+- Then come Megasthenes’ *Indica* fragments.
+- The **Vishnu Purana** carries the Maurya genealogy.
+- The *Dipavamsa* is a Buddhist chronicle.
+- The *Mahavamsa* is a Buddhist chronicle.
+- The *Mudrarakshasa* comes last, as a play.
+- **James Prinsep** deciphered Brahmi in **1837**.
+- The **Maski** edict later proved that **Piyadassi** is Ashoka.
+
+### Neighbours, pottery, coins, and army size
+
+- Rock Edict **II** names border peoples as **neighbours**, not Mauryan provinces.
+
+| Named in RE II | Fact |
+|----------------|------|
+| **Chola** | South neighbour |
+| **Pandya** | South neighbour |
+| **Satiyaputra** | South neighbour |
+| **Keralaputra** | South neighbour |
+| **Tamraparni** | Sri Lanka; neighbour / mission land, not a province |
+| **Yonas** | Greek / Yavana neighbours |
+| **Kambojas** | Northwest neighbours |
+
+- **NBPW** continues under the Mauryas. It began in mahajanapada towns, not only under Ashoka.
+- **Ring-wells** mark Mauryan settlement layers.
+- The coin is the punch-marked **pana / karshapana**. There are no royal portraits on it.
+- Pliny gives an army of about **600,000** foot, **30,000** horse, and **9,000** elephants. Treat this as order of size, not a muster roll.
+
+**Logic:** The Vishnu Purana is asked for Maurya genealogy. The Vayu Purana lists Gupta kings; it is not a Gupta administration manual.
 
 **PYQ — UPPCS Prelims 2023, Q29**
 
@@ -119,11 +174,11 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Only 1.** Vishnu Purana carries the Maurya genealogy. Vayu lists Gupta *kings*; it is not a Gupta *admin* manual.
+**Ans: A — Only 1.** The Vishnu Purana carries the Maurya genealogy. The Vayu Purana lists Gupta *kings*; it is not a Gupta *admin* manual.
 
 </details>
 
-> ** note:** Chandragupta Maurya ≠ Chandragupta II. Empire dies 185, not with Ashoka in 232.
+> ** note:** Chandragupta Maurya is not Chandragupta II. The empire ends in **185 BCE**, not with Ashoka’s death in **232 BCE**.
 
 ---
 
