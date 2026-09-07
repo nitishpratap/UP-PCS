@@ -15,17 +15,17 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 33 Must-Score Facts
 
 1. North-west doors into India are the **Khyber** and **Bolan** routes. After Achaemenid Persians came Macedon, then **Indo-Greek → Shaka → Parthian → Kushan**.
 2. Correct invader order s is **Greeks → Sakas → Kushans**. Kushans do **not** come before Sakas.
-3. **Darius I** (about **518 BCE**) took **Gandhara** and **Hindush** as the 20th satrapy with gold-dust tribute. **Skylax** explored the Indus. **Kharoshthi** grew from Aramaic.
-4. **Alexander** entered India about **327–325 BCE** (year often **326**). The campaign lasted roughly **19 months**.
+3. **Darius I** (about **518 BCE**) took **Gandhara** and **Hindush** as the **20th** satrapy with gold-dust tribute. Behistun lists many provinces of his empire; Herodotus makes India the twentieth. **Skylax** explored the Indus. **Kharoshthi** grew from Aramaic. **Ctesias** was physician to **Artaxerxes II**.
+4. **Alexander** entered India about **327–325 BCE** (year often **326**). The campaign lasted roughly **19 months**. He returned west from the Indus mouth / Paatal region about **325 BCE**.
 5. **Ambhi** of Taxila was Alexander’s **ally**. **Porus** fought him at the **Hydaspes (Jhelum)** and was then restored and enlarged.
 6. The army mutinied at the **Hyphasis (Beas)**. Alexander raised twelve altars there and turned back. Hydaspes is the battle; Beas is the turn-back.
 7. On the return, Alexander stormed **Sangala**, was wounded among the **Malloi**, sent **Nearchus** by sea, crossed harsh **Gedrosia**, and died at Babylon in **323 BCE**.
-8. **Kalanos** went with Alexander and later self-immolated. **Dandamis** refused to follow. **Aristotle** tutored Alexander but **never** came to India.
-9. Greek writers’ **Sandrokottos** is **Chandragupta Maurya** — the main Greek peg for early Indian chronology.
+8. **Kalanos** went with Alexander and later self-immolated. **Dandamis** refused to follow. **Aristotle** tutored Alexander but **never** came to India. **Deimachus** also did **not** come with Alexander — he is later Seleucid envoy to **Bindusara**.
+9. Greek writers’ **Sandrokottos** is **Chandragupta Maurya** — the main Greek peg for early Indian chronology. Last Nanda **Dhana** is **Agrammes / Xandrames**; commander **Bhaddasala**.
 10. **Seleucus Nicator** fought Chandragupta about **305–303 BCE**, ceded Arachosia, Gedrosia, and Paropamisadae, and received **500 elephants** plus the envoy **Megasthenes**.
 11. Those elephants later mattered at **Ipsus (301 BCE)** in the western Diadochi wars.
 12. Indo-Greek power grew after **Diodotus** freed Bactria and **Demetrius** entered India. **Menander (Milinda)** ruled from **Sagala** (Sialkot) and dialogued with **Nagasena**.
@@ -49,6 +49,7 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 30. Persian rule first planted the satrap idea (**kshatrapa**) and Aramaic writing habits that later feed Kharoshthi.
 31. Menander is the Indo-Greek **Milinda**. **Nagarjuna** is the later Madhyamaka philosopher — a common name trap beside Nagasena.
 32. After Kushan decline, north-west politics again fragment; the next big imperial story in Magadha is Gupta, not another Alexander.
+33. Alexander’s Indian success is usually read as **no central power**, a **superior army**, and help from **traitorous Indian rulers** (e.g. Ambhi). Being a “good administrator” is **not** a standard cause of that victory.
 
 ---
 
@@ -84,10 +85,11 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 **Two layers: Persian satrapy first, then Macedon | papers’ “Greeks” = Alexander plus Indo-Greek**
 
-- **Cyrus** (died 530 BCE) reaches the Indus fringe in **legend** only. The ** satrapy** is **Darius I**, about **518/516 BCE**.
-- Darius holds **Gandhara** and **Hindush**. Herodotus calls this the **20th** satrapy. Tribute is remembered as **gold dust**.
+- **Cyrus** (died 530 BCE) reaches the Indus fringe in **legend** only. The **satrapy** is **Darius I**, about **518/516 BCE**.
+- Darius holds **Gandhara** and **Hindush**. Herodotus calls this the **20th** satrapy. Tribute is remembered as **gold dust**. Behistun, Persepolis, and Naqsh-i-Rustam preserve Darius-age imperial lists and images.
 - **Skylax of Caryanda** sails the Indus to the sea. Persepolis and Naqsh-i-Rustam reliefs show Indian delegates.
 - **Xerxes** took Indian infantry and archers into the Persian host against the Greeks. Herodotus records this.
+- **Ctesias** served as state physician to **Artaxerxes II** and wrote on India–Persia from that court world.
 - The NW office kit that stays is **Aramaic**, which feeds **Kharoshthi** (right-to-left). The title that stays is **satrap / kshatrapa**.
 - The Macedonian sequel uses the **same NW door**, with a new army.
 
@@ -147,8 +149,8 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 **People:** Assakenoi | **Region:** Swat valley
 
-**Cause:** The **Assakenoi** blocked Alexander’s advance from the Cophen (Kabul) valley into the Punjab approach.
-**Course:** Alexander besieged their capital **Massaga**. The queen led resistance. After heavy losses, a truce was agreed; fighting resumed and the city was stormed.
+**Cause:** The **Assakenoi** blocked Alexander’s advance from the Cophen (Kabul) valley into the Punjab approach. Their capital was **Massaga**.
+**Course:** Alexander besieged **Massaga**. After heavy male losses, Greek writers say the **women took up arms**. Fighting resumed and the city was stormed; tradition remembers a massacre of the town’s people.
 **Result:** The Swat route opened. Alexander could march toward the **Indus** crossings of **326**.
 
 ### Rock of Aornos (327 BCE) — Cause, Course, Result
@@ -173,11 +175,12 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 ## 6.2b Results of Alexander's Indian Campaign
 
-- Alexander **never** fought **Dhana Nanda** and **never** reached Pataliputra.
+- Alexander **never** fought **Dhana Nanda** and **never** reached Pataliputra. Dhana is the Greek **Agrammes**; his commander is remembered as **Bhaddasala**.
 - Macedonian satrapies in India collapsed after his **323 BCE** death.
 - Greek writers' **Sandrokottos = Chandragupta Maurya** is the main **chronology peg**.
 - The campaign opened the northwest to **Greek reports**, later **Indo-Greek** rule, and **Gandhara art**.
 - Magadhan power filled the vacuum the Macedonians did not hold.
+- Standard causes of Alexander’s Indian success: **no central power**, a **superior army**, and help from **traitorous Indian rulers** such as Ambhi. “Good administrator” is **not** treated as a cause of that victory.
 
 ## 6.3 Persons Accompanying Alexander
 
@@ -191,6 +194,7 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 - **Aristotle** did **not** march to India. He was tutor in Macedon only.
 - **Megasthenes** did **not** march to India. He is a Seleucid envoy about **303**, at Chandragupta’s court.
+- **Deimachus** did **not** march with Alexander. He is the later Seleucid envoy to **Bindusara** (Antiochus’s court). Companion writers who **did** come include **Nearchus**, **Onesicritus**, and **Aristobulus**.
 - **Kautilya / Chanakya** did **not** march to India. He is on the Mauryan side, not in the Macedonian tent.
 
 - **Ambhi** is the Taxila ally. **Porus** is the Hydaspes foe who becomes a satrap.
