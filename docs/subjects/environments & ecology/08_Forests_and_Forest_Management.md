@@ -1043,15 +1043,233 @@ D. Kerala
 
 ## Complete PYQ Bank (Topic 8)
 
-**Q1. UPPCS Prelims 2025, Q8** — UP districts >20% forest → **Ans: C (Chandauli + Shravasti)Q2. UPPCS Prelims 2024, Q86** — "Piral Lao - Paise Pao" Uttarakhand pine-needle campaign → **Ans: D (Both)Q3. UPPCS Prelims 2021** — JFM launch year → **Ans: 1990Q4. UPPCS Prelims 2018, Q44** — ISFR 2017 forest cover % of India → **Ans: C (21.54%)Q5. UPPCS Prelims 2023, Q59** — UP forests 12.8% area; Jaunpur-Ghazipur-Ballia no forest land → **Ans: C (Only 2)** — ISFR 2023 gives ~6.24% forest cover, so statement 1 is incorrect; statement 2 is correct.
+**Q1. UPPCS Prelims 2025, Q8**
 
-<details><summary>Q5 detail</summary>
+As per **ISFR 2023**, which districts of Uttar Pradesh had forest cover on **more than 20%** of their total geographical area?
 
-Statement 1 uses outdated/higher figure. ISFR 2023 forest cover for UP = 6.24%. Eastern UP districts Jaunpur, Ghazipur, Ballia have negligible notified forest.
+1. Bahraich  
+2. Chandauli  
+3. Shravasti  
+
+A. 1 and 2 only  
+B. 3 only  
+C. 2 and 3 only  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ISFR district-level UP trap — only two districts cross the 20% forest-cover threshold.
+
+**Ans: C.** **Chandauli** and **Shravasti** exceed 20%; Bahraich is below that mark despite Terai forest presence.
+
+**Trap:** Bahraich is a Terai forest district but **does not** cross the 20% ISFR threshold — a frequent wrong pick.
 
 </details>
 
-**Q6. UPPCS Prelims 2022, Q61** — ISFR 2021 maximum forest cover increase among states → **Ans: D (Andhra Pradesh)Q7. UPSC pattern** — FRA IFR maximum → **Ans: 4 hectaresQ8. UPSC pattern** — FCA 1980 enacted to → **Ans: check deforestation (prior approval for diversion)**
+---
+
+**Q2. UPPCS Prelims 2024, Q86**
+
+With reference to the **"Piral Lao – Paise Pao"** campaign, consider the following statements:
+
+1. It helps reduce forest fires and provides income to villagers by collecting pine needles.  
+2. It was launched by the Chief Minister of Uttarakhand.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. 1 only  
+D. Both 1 and 2  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tests Uttarakhand chir-pine fire-fuel management campaign — purpose and launch authority.
+
+**Ans: D.** Villagers collect pine needles (**piral**) for cash while reducing summer fuel load; the campaign was launched under the **Uttarakhand CM**.
+
+**Trap:** This is a **Uttarakhand** scheme — not a default Uttar Pradesh flagship programme.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2021**
+
+**Joint Forest Management (JFM)** in India was launched through a MoEF resolution in—
+
+A. 1982  
+B. 1986  
+C. 1990  
+D. 1992  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Year fact for community–State co-management of degraded forest — distinct from FRA 2006.
+
+**Ans: C.** JFM began with a **June 1990** MoEF resolution creating Van Samrakshan Samitis / Forest Protection Committees.
+
+**Trap:** **1992** is Project Elephant — JFM is **1990**, eight years earlier.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2018, Q44**
+
+According to the **India State of Forest Report, 2017**, what percentage of India's total geographical area was under forest cover?
+
+A. 20.34%  
+B. 22.34%  
+C. 21.54%  
+D. 23.54%  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** National ISFR 2017 headline forest-cover percentage from FSI Dehradun.
+
+**Ans: C.** ISFR 2017 reported forest cover at about **21.54%** of India's geographical area.
+
+**Trap:** Do not confuse with the **33% national policy target** — that is aspirational, not the 2017 measured cover.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2023, Q59**
+
+Consider the following statements about **Uttar Pradesh**:
+
+1. Forests constitute about **12.8%** of the total geographical area of the State.  
+2. The districts of **Jaunpur, Ghazipur and Ballia** have no forest land.  
+
+A. 1 only  
+B. Both 1 and 2  
+C. 2 only  
+D. Neither 1 nor 2  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ISFR 2023 UP figure trap — outdated high percentage vs eastern UP zero-forest districts.
+
+**Ans: C.** ISFR 2023 gives UP forest cover about **6.24%**, not 12.8%; Jaunpur–Ghazipur–Ballia indeed have negligible forest land.
+
+**Trap:** Statement 1 uses an **outdated/higher** figure — do not accept both statements as true.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022, Q61**
+
+As per **India State of Forest Report–2021**, which State registered the **maximum increase in forest cover** during the last two years?
+
+A. Kerala  
+B. Assam  
+C. Arunachal Pradesh  
+D. Andhra Pradesh  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ISFR 2021 state-wise absolute gain ranking — distinct from highest percentage cover (Mizoram) or largest area (MP).
+
+**Ans: D.** **Andhra Pradesh** led absolute forest-cover gains (~647 km²), followed by Telangana and Odisha in ISFR 2021.
+
+**Trap:** Mizoram leads **percentage** cover; Madhya Pradesh leads **total area** — neither is the ISFR 2021 **maximum increase** answer.
+
+</details>
+
+---
+
+**Q7. UPSC pattern**
+
+Under the **Forest Rights Act, 2006**, the maximum area recognised under an **Individual Forest Right (IFR)** for cultivation/habitation is—
+
+A. 2 hectares  
+B. 4 hectares  
+C. 10 hectares  
+D. No statutory cap  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** FRA IFR ceiling per household — a standard coaching fact distinct from JFM benefit-sharing.
+
+**Ans: B.** IFR is capped at **4 hectares** per eligible household under FRA 2006.
+
+**Trap:** **10 hectares** is a common wrong guess — the statutory cap is **4 ha**.
+
+</details>
+
+---
+
+**Q8. UPSC pattern**
+
+The **Forest (Conservation) Act, 1980** was enacted primarily to—
+
+A. Grant permanent land titles to forest dwellers  
+B. Regulate diversion of forest land for non-forest use with prior central approval  
+C. Establish Joint Forest Management committees nationwide  
+D. Fix a 33% national forest-cover target by 1988  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Distinguishes FCA (diversion control) from FRA (rights), JFM (co-management), and NFP targets.
+
+**Ans: B.** FCA 1980 requires **prior approval** from the Centre/State for using forest land for non-forest purposes — the core anti-deforestation check.
+
+**Trap:** Forest dweller rights belong to **FRA 2006**, not FCA 1980.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2021, Q15**
+
+Which of the following is **NOT** correctly matched?
+
+A. ICRAF — Nairobi  
+B. IIFM — Bhopal  
+C. CAFRI — Banda  
+D. TERI — New Delhi  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Institution–headquarters matching for forestry/agroforestry research bodies.
+
+**Ans: C.** **Central Agroforestry Research Institute (CAFRI)** is at **Jhansi, Uttar Pradesh**, not Banda.
+
+**Trap:** CAFRI sounds like it could be in Bundelkhand's Banda — the correct UP city is **Jhansi**.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2019, Q98**
+
+In which of the following are provisions for the **protection and improvement of the environment** and **safeguarding of forests and wildlife** found in the Constitution of India?
+
+A. Only in the Directive Principles of State Policy  
+B. Only in the Fundamental Duties  
+C. Both (a) and (b)  
+D. None of the above  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Constitutional environment mandate spans DPSP **Article 48A** and Fundamental Duty **Article 51A(g)**.
+
+**Ans: C.** **Art 48A** (DPSP) directs the State to protect environment, forests, and wildlife; **Art 51A(g)** makes it every citizen's duty.
+
+**Trap:** Neither provision sits alone — both pillars carry forest/environment language.
+
+</details>
 
 ---
 
@@ -1130,4 +1348,3 @@ Statement 1 uses outdated/higher figure. ISFR 2023 forest cover for UP = 6.24%. 
 | 2021 JFM year | Practice + PYQ Bank Q3 |
 | 2018 Q44 ISFR % | PYQ Bank Q4 |
 
-**Q9. UPPCS Prelims 2021, Q15** — CAFRI NOT in Banda → **Ans: C (Jhansi)Q10. UPPCS Prelims 2019, Q98** — Forest/environment protection in Constitution → **Ans: C (Both DPSP Art 48A and Fundamental Duty Art 51A(g))**

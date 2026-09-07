@@ -1013,9 +1013,204 @@ D. Only Ramsar wetland birds
 
 ## Complete PYQ Bank (Topic 38)
 
-**Q1. UPPCS 2025, Q61** — Lichens indicate pollution; do not grow well in polluted air → **Ans: D (Only 1)Q2. UPPCS 2025, Q70** — Groundwater Quality Report = CGWB → **Ans: BQ3. UPPCS 2023, Q103** — BOD = aquatic pollution assay → **Ans: AQ4. UPPCS 2023, Q120** — Pesticide not biodegradable → **Ans: DQ5. UPPCS 2022, Q46** — Photochemical smog contains ozone → **Ans: BQ6. UPPCS 2022, Q81** — Moradabad 2nd noisiest → **Ans: BQ7. UPPCS 2022, Q63** — Arsenic contamination = Bangladesh → **Ans: BQ8. UPPCS 2022, Q115** — Noise zone matching → **Ans: C** (paper levels)
+**Logic:** Lichens are sensitive bio-indicators — they die back in polluted air; they do not thrive in it.
 
-**Q9. UPPCS 2021, Q143** — Fly ash = thermal power → **Ans: CQ10. UPPCS 2019, Q136 / 2018, Q121 / 2018, Q84** — Smog oxides; smog secondary; SAFAR Harsh Vardhan
+**Q1. UPPCS Prelims 2025, Q61**
+
+Consider the following statements:
+
+1. Lichens are very good indicators of pollution.
+2. Lichens grow well in polluted areas.
+
+A. Only 2
+B. Neither
+C. Both
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Only 1).** Statement 1 true; statement 2 false — lichens are **sensitive**, not pollution-tolerant. **Trap:** “Indicator” mistaken for “thrives in dirty air.”
+
+</details>
+
+**Logic:** Groundwater quality reporting is CGWB’s mandate — not CPCB or CWC.
+
+**Q2. UPPCS Prelims 2025, Q70**
+
+Annual Groundwater Quality Report 2024 was prepared by:
+
+1. Central Pollution Control Board (CPCB)
+2. Central Water Commission (CWC)
+3. Central Ground Water Board (CGWB)
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Only 3).** **CGWB** publishes the annual groundwater quality report. **Trap:** Swapping CPCB (air/surface water) with CGWB.
+
+</details>
+
+**Logic:** BOD measures microbial oxygen demand in water — an aquatic pollution assay, not blood oxygen.
+
+**Q3. UPPCS Prelims 2023, Q103**
+
+Biological Oxygen Demand (BOD) is a standard criterion for—
+
+A. Pollution assay in aquatic ecosystems
+B. High-altitude O₂
+C. Blood O₂
+D. Forest O₂
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **BOD** assays organic pollution in rivers/lakes. **Trap:** “Oxygen” in the name → blood or altitude distractors.
+
+</details>
+
+**Logic:** Pesticides persist and are not readily biodegradable unlike domestic organic waste.
+
+**Q4. UPPCS Prelims 2023, Q120**
+
+Which is not a biodegradable pollutant?
+
+A. Domestic waste
+B. Urine
+C. Faecal matter
+D. Pesticide
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Pesticides** are persistent; domestic waste, urine, and faecal matter biodegrade. **Trap:** Assuming all “natural” chemicals biodegrade quickly.
+
+</details>
+
+**Logic:** Photochemical smog always contains ozone as a key secondary product.
+
+**Q5. UPPCS Prelims 2022, Q46**
+
+Photochemical smog always contains—
+
+A. Phosphorus
+B. Ozone
+C. Methane
+D. Aluminium ion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NOx + VOCs + sunlight → **O₃** (+ PAN). **Trap:** London SO₂ smog without ozone chemistry.
+
+</details>
+
+**Logic:** UNEP Frontier Report 2022 ranked Moradabad among the world’s noisiest cities.
+
+**Q6. UPPCS Prelims 2022, Q81**
+
+According to UNEP Frontier Report 2022, the second most noise-polluted city was:
+
+A. Kota
+B. Moradabad
+C. Indore
+D. Patna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Moradabad** (UP brassware hub) was #2 in that report. **Trap:** Kota/Indore as generic UP/North India distractors.
+
+</details>
+
+**Logic:** Natural arsenic in groundwater is classically associated with Bangladesh / lower Gangetic basin.
+
+**Q7. UPPCS Prelims 2022, Q63**
+
+Which country has natural arsenic water contamination?
+
+A. Sri Lanka
+B. Bangladesh
+C. Bhutan
+D. Pakistan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bangladesh** is the textbook arsenic hotspot (Gangetic plains geology). **Trap:** Assuming arsenic is India-exclusive only.
+
+</details>
+
+**Logic:** CPCB daytime noise limits — silence zone lowest, then residential, commercial, industrial highest.
+
+**Q8. UPPCS Prelims 2022, Q115**
+
+Match the area with permissible noise level (daytime, as in paper):
+
+| Area | Level (dB) |
+| --- | --- |
+| Residential | 55 |
+| Silence zone | 50 |
+| Industrial | 70 |
+| Commercial | 65 |
+
+*Row order is not the answer code.*
+
+A. Residential–50; Silence–55; Industrial–65; Commercial–70
+B. Residential–65; Silence–75; Industrial–50; Commercial–55
+C. Residential–55; Silence–50; Industrial–70; Commercial–65
+D. All zones at 75 dB
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Residential **55**, Silence **50**, Industrial **70**, Commercial **65** — silence < residential < commercial < industrial (paper industrial **70**; teach CPCB day industrial **75 dB** in notes). **Trap:** Reversing silence vs residential or using one dB for all zones.
+
+</details>
+
+**Logic:** Fly ash is a primary pollutant from coal thermal power plants — usable in bricks/cement.
+
+**Q9. UPPCS Prelims 2021, Q143**
+
+Flyash pollution is caused by
+
+A. Oil refining
+B. Fertilizer industry
+C. Thermal power plant
+D. Mining
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Thermal power plants** emit fly ash (SiO₂/Al₂O₃/CaO plus toxic metals). **Trap:** Calling fly ash a secondary pollutant like smog.
+
+</details>
+
+**Logic:** Smog is a secondary pollutant; classical smog links to oxides of nitrogen and sulphur.
+
+**Q10. UPPCS Prelims 2019, Q136 / 2018, Q121**
+
+With reference to smog, consider the following:
+
+1. Smog is essentially caused by oxides of nitrogen and sulphur in the atmosphere.
+2. Among CO, CO₂, and fly ash, smog is the secondary pollutant.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statement 1 matches **2019 Q136** (oxides of N and S); statement 2 matches **2018 Q121** (smog secondary; fly ash/CO primary). **Trap:** Treating fly ash or stack SO₂ alone as “smog” without atmospheric formation.
+
+</details>
 
 ---
 

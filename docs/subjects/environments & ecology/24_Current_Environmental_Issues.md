@@ -774,17 +774,268 @@ D. Only voluntary forever
 
 ## Complete PYQ Bank (Topic 24)
 
-**Q1. UPPCS 2025, Q139** — LiFE launched June 2022; COP-25 Madrid false → **Ans: D (Only 1)Q2. UPPCS 2025, Q93** — MISHTI restore mangroves true; 2019 false → **Ans: A (Only 2)Q3. UPPCS 2024, Q35** — Climate mitigation = Kyoto Protocol → **Ans: CQ4. UPPCS 2024, Q6** — Emissions Gap Report = UNEP → cross-ref §24.4
+**Q1. UPPCS Prelims 2025, Q139**
 
-**Q5. UPPCS 2021, Q125** — Carbon credit originated from Kyoto Protocol → **Ans: BQ6. UPSC pattern** — 1 carbon credit = 1 tCO₂e
+With reference to the LiFE (Lifestyle for Environment) Mission, consider the following statements:
 
-**Q7. UPSC pattern** — CDM under Kyoto Protocol
+1. It was launched in June 2022.
+2. The idea was proposed at COP-25 in Madrid, Spain.
 
-**Q8. UPSC pattern** — PAT = energy efficiency trading
+A. Only 2
 
-**Q9. UPSC pattern** — India net zero 2070 at COP26
+B. Neither 1 nor 2
 
-**Q10. UPSC pattern** — SDG 14 = Life Below Water / blue economy
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** LiFE launch June 2022 is true; idea came at **COP26 Glasgow 2021**, not COP-25 Madrid.
+
+**Ans: D (Only 1).** **Launch June 2022** is correct; COP-25 Madrid claim is false.
+
+**Trap:** **COP-25 Madrid 2019** instead of **COP26 Glasgow 2021**.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q93**
+
+With reference to MISHTI, consider the following statements:
+
+1. It was initiated in 2019.
+2. It aims to restore mangrove forests.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** MISHTI = Union Budget **2023–24** mangrove scheme — restoration aim is correct.
+
+**Ans: A (Only 2).** Only the **mangrove restoration** aim is correct.
+
+**Trap:** **2019** start year — MISHTI is a **2023–24 Budget** announcement.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024, Q35**
+
+Which international agreement is related to climate change mitigation?
+
+A. Montreal Protocol
+
+B. Ramsar Convention
+
+C. Kyoto Protocol
+
+D. CITES
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kyoto/Paris = GHG mitigation; Montreal = ozone/ODS.
+
+**Ans: C.** The **Kyoto Protocol** addresses climate change mitigation.
+
+**Trap:** **Montreal Protocol** — ozone treaty, not climate.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q6**
+
+Match List-I with List-II:
+
+| List-I (Report) | List-II (Organisation) |
+| --- | --- |
+| A. Human Development Report | 1. IMF |
+| B. World Economic Outlook | 2. UNEP |
+| C. World Investment Report | 3. UNDP |
+| D. Emissions Gap Report | 4. UNCTAD |
+
+*Row order is not the answer code.*
+
+A. 3 1 4 2
+
+B. 3 4 1 2
+
+C. 1 2 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Emissions Gap = UNEP product in net-zero/emissions-gap teaching block.
+
+**Ans: A (3 1 4 2).** Emissions Gap Report → **UNEP**; HDR → **UNDP**.
+
+**Trap:** IPCC or UNDP as Emissions Gap publisher.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2021, Q125**
+
+The concept of 'carbon credit' originated from:
+
+A. Earth Summit, Rio
+
+B. Kyoto Protocol
+
+C. Montreal Protocol
+
+D. G-8 Summit
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kyoto flexible mechanisms (CDM/CERs) established tradable carbon credit architecture.
+
+**Ans: B.** **Carbon credits originated from the Kyoto Protocol** mechanisms.
+
+**Trap:** **Rio 1992** (UNFCCC framework) without Kyoto's CDM detail.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims pattern — carbon credit unit**
+
+One carbon credit typically represents reduction or removal of:
+
+A. One kilogram of CO₂
+
+B. One tonne of CO₂ equivalent (tCO₂e)
+
+C. One megatonne of methane only
+
+D. One hectare of forest cover
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard market unit = 1 tCO₂e per credit certificate.
+
+**Ans: B.** **One carbon credit = one tonne of CO₂ equivalent**.
+
+**Trap:** Kilogram scale or hectare land unit confusion.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims pattern — CDM**
+
+The Clean Development Mechanism (CDM) was introduced under:
+
+A. Montreal Protocol
+
+B. Kyoto Protocol
+
+C. Ramsar Convention
+
+D. CITES
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CDM = Kyoto flexible mechanism for project-based credits in developing countries.
+
+**Ans: B.** **CDM operates under the Kyoto Protocol**.
+
+**Trap:** Paris Agreement (CDM era is Kyoto-linked in standard stems).
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims pattern — PAT scheme**
+
+Perform, Achieve and Trade (PAT) is a market-based scheme for trading:
+
+A. Carbon credits identical to EU ETS
+
+B. Energy efficiency certificates (ESCerts)
+
+C. Wildlife trade permits
+
+D. Ozone-depleting substance quotas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAT = BEE-administered energy efficiency trading — parallel but not identical to carbon credits.
+
+**Ans: B.** **PAT trades energy efficiency certificates (ESCerts)**.
+
+**Trap:** Calling PAT a **carbon credit** scheme directly.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims pattern — India net zero**
+
+India announced a target to achieve net-zero emissions by:
+
+A. 2050
+
+B. 2060
+
+C. 2070
+
+D. 2030
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** COP26 Glasgow 2021 announcement — India net zero **2070**.
+
+**Ans: C.** **India's net-zero target year is 2070**.
+
+**Trap:** **2050** (EU/UK/US pledge timeline) applied to India.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims pattern — SDG 14**
+
+Sustainable Development Goal 14 (SDG 14) focuses on:
+
+A. Life on Land
+
+B. Life Below Water
+
+C. Climate Action
+
+D. Responsible Consumption
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Blue economy chapter links MISHTI/Sagarmala to SDG 14 oceans goal.
+
+**Ans: B.** **SDG 14 = Life Below Water**.
+
+**Trap:** SDG 15 (Life on Land) or SDG 13 (Climate Action).
+
+</details>
 
 ---
 

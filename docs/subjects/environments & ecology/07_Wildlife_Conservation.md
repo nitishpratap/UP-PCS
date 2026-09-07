@@ -1014,13 +1014,169 @@ D. WPA provisions / CWLW authority apply
 
 ## Complete PYQ Bank (Topic 7)
 
-**Q1. UPPCS Prelims 2025, Q62** — World Wildlife Day NOT 22 March → **Ans: B (Only 3)Q2. UPPCS Prelims 2025, Q143** — Operation Olivia: Only stmt 1 correct → **Ans: DQ3. UPPCS Prelims 2018, Q46** — Project Tiger launched in → **Ans: B (1973)Q4. UPPCS Prelims 2018, Q131** — Cattle painkiller killing vultures → **Ans: D (Diclofenac)Q5. UPPCS Prelims 2019, Q67** — Chronology WPA, Project Tiger, Project Elephant, BDA → **Ans: B (I, III, IV, II)Q6. UPPCS Prelims 2023, Q90** — Cheetah A/R (12 from South Africa Feb 2023) → **Ans: A** (both true; R explains A)
+**Q1. UPPCS Prelims 2025, Q62**
 
-**Q7. UPPCS Prelims 2022, Q150** — Dolphin Day announced by MoEFCC → **Ans: B (October 5)**
+Which of the following pairs is/are **NOT** correctly matched? (Day — Date)
 
-<details><summary>Q6 detail</summary>
+1. Ozone Day — 16 September  
+2. World Environment Day — 5 June  
+3. World Wildlife Day — 22 March  
 
-Assertion: Twelve cheetahs arrived from South Africa in Feb 2023. Reason: Restoring cheetah is a priority. Both true; R explains A.
+A. 1 and 2 only  
+B. 3 only  
+C. 2 and 3 only  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tests international environment/wildlife observance dates; only one listed date is wrong.
+
+**Ans: B.** World Wildlife Day is observed on **3 March**, not 22 March.
+
+**Trap:** Ozone Day (16 September) and World Environment Day (5 June) are correct — do not pick options mixing them with the WWD error.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q143**
+
+With reference to **Operation Olivia**, which of the following statements is/are correct?
+
+1. It is an Indian Coast Guard initiative to protect Olive Ridley turtles along the Odisha coast.  
+2. It is carried out mainly in August during the nesting season.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 1 tests agency, species, and coast; statement 2 tests nesting season timing.
+
+**Ans: D.** Operation Olivia is an ICG Odisha-coast turtle protection drive, but nesting runs **November–February**, not August.
+
+**Trap:** August sounds like a monsoon-adjacent season — Olive Ridley mass nesting on Odisha beaches peaks in winter.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2018, Q46**
+
+**Project Tiger** was launched in India in the year—
+
+A. 1972  
+B. 1973  
+C. 1992  
+D. 2006  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Separates WPA enactment year from flagship species programme launch year.
+
+**Ans: B.** Project Tiger began in **April 1973** under PM Indira Gandhi at Jim Corbett National Park.
+
+**Trap:** **1972** is the Wildlife (Protection) Act year — not Project Tiger.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2018, Q131**
+
+Which painkiller given to cattle is responsible for the near extinction of vultures in India?
+
+A. Ibuprofen  
+B. Acetaminophen  
+C. Aspirin  
+D. Diclofenac  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Links veterinary NSAID use to gyps vulture population collapse through kidney failure after feeding on carcasses.
+
+**Ans: D.** **Diclofenac** in cattle carcasses caused catastrophic vulture mortality; India banned veterinary diclofenac in **2006**.
+
+**Trap:** Human painkillers in options are distractors — the crisis was from **veterinary** use on livestock.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2019, Q67**
+
+Arrange the following events in chronological order of their commencement:
+
+I. Wild Life (Protection) Act  
+II. Biological Diversity Act  
+III. Project Tiger  
+IV. Project Elephant  
+
+A. I, II, III, IV  
+B. I, III, IV, II  
+C. II, III, IV, I  
+D. II, III, I, IV  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chronology of wildlife statutes and flagship species programmes from 1972 to 2002.
+
+**Ans: B.** Order: WLPA **1972** → Project Tiger **1973** → Project Elephant **1992** → Biological Diversity Act **2002**.
+
+**Trap:** Do not place BDA before Project Tiger — biodiversity legislation came **three decades** after the tiger programme.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2023, Q90**
+
+**Assertion (A):** Twelve cheetahs arrived from South Africa to India in February 2023.
+
+**Reason (R):** Restoring the cheetah population is considered to be a priority for India.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A).  
+C. (A) is true but (R) is false.  
+D. (A) is false but (R) is true.  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests the February 2023 reintroduction fact under Project Cheetah; R tests whether cheetah restoration is a stated national priority that explains that translocation.
+
+**Ans: A.** Twelve cheetahs were airlifted from South Africa in February 2023 to Kuno National Park, and restoring cheetah is an explicit Project Cheetah priority — R explains A.
+
+**Trap:** Namibia cheetahs arrived later — do not confuse the **South Africa batch (Feb 2023)** with subsequent translocations.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q150**
+
+The Union Ministry of Environment, Forest and Climate Change has announced **'Dolphin Day'**, which will be celebrated on—
+
+A. April 15  
+B. October 5  
+C. July 15  
+D. October 28  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tests MoEFCC observance for the Ganges river dolphin — India's National Aquatic Animal.
+
+**Ans: B.** **National Dolphin Day** is observed on **5 October** to raise awareness for freshwater dolphin conservation.
+
+**Trap:** Do not swap with Wildlife Week (**2–8 October**) or World Environment Day (**5 June**).
 
 </details>
 

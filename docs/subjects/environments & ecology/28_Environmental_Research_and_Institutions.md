@@ -526,23 +526,240 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A fals
 
 ## Complete PYQ Bank (Topic 28)
 
-**Q1. UPPCS 2025, Q8** — ISFR UP >20% = Chandauli + Shravasti → **Ans: CQ2. UPPCS 2022, Q61** — ISFR 2021 max forest cover increase state → Andhra Pradesh pattern
+**Logic:** ISFR 2023 UP district trap — Terai Bahraich is not automatically above 20% cover.
 
-**Q3. UPSC/UPPCS pattern** — BSI plants / ZSI animals / Kolkata HQ
+**Q1. UPPCS Prelims 2025, Q8**
 
-**Q4. UPSC/UPPCS pattern** — ISFR by FSI, biennial, Dehradun
+ISFR 2023 — Uttar Pradesh districts with forest over more than 20% of geographical area:
 
-**Q5. UPSC/UPPCS pattern** — FRI Dehradun research ≠ ISFR
+1. Bahraich
+2. Chandauli
+3. Shravasti
 
-**Q6. UPSC/UPPCS pattern** — WII Dehradun 1982
+A. 1 and 2
 
-**Q7. UPSC/UPPCS pattern** — NBA Chennai under BDA 2002
+B. Only 3
 
-**Q8. UPSC pattern** — BMC prepares PBR
+C. 2 and 3
 
-**Q9. UPSC pattern** — NBPGR New Delhi plant gene bank
+D. Only 1
 
-**Q10. Topic 20 crossover** — NBPGR ≠ NBAGR Karnal
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chandauli and Shravasti crossed 20%; Bahraich stays near ~10% despite Terai location. **Trap:** Listing every Terai border district as high-cover.
+
+</details>
+
+---
+
+**Logic:** ISFR 2021 absolute gain leader among the four options — Andhra Pradesh, not percentage-leader Mizoram.
+
+**Q2. UPPCS Prelims 2022, Q61**
+
+As per the India State of Forest Report–2021, which State registered the maximum increase in forest cover during the last two years?
+
+A. Kerala
+
+B. Assam
+
+C. Arunachal Pradesh
+
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Andhra Pradesh led absolute gain in that ISFR cycle (~647 km² class), with Telangana and Odisha also high. **Trap:** Picking Mizoram or Madhya Pradesh because they lead on percentage or total area respectively.
+
+</details>
+
+---
+
+**Logic:** BSI/ZSI split — plants vs animals; both Kolkata, not Dehradun.
+
+**Q3. UPPCS / UPSC pattern**
+
+Which pair is correctly matched?
+
+A. Botanical Survey of India — national animal survey, Kolkata
+
+B. Zoological Survey of India — national plant survey, Kolkata
+
+C. Botanical Survey of India — national plant survey, Kolkata
+
+D. Zoological Survey of India — forest cover mapping, Dehradun
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** BSI (1890) documents plants; ZSI (1916) documents animals — both HQ Kolkata. **Trap:** Swapping plant/animal mandates or placing survey institutes in Dehradun with FSI/FRI/WII.
+
+</details>
+
+---
+
+**Logic:** ISFR publisher, city, and frequency — FSI Dehradun, every two years.
+
+**Q4. UPPCS / UPSC pattern**
+
+India State of Forest Report (ISFR) is published by:
+
+A. Forest Survey of India, Dehradun, every two years
+
+B. Forest Research Institute, Dehradun, annually
+
+C. Botanical Survey of India, Kolkata, every two years
+
+D. CPCB, New Delhi, annually
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** FSI (1981, Dehradun) maps forest and tree cover and releases ISFR biennially. **Trap:** FRI publishes ISFR, or ISFR is annual/CPCB product.
+
+</details>
+
+---
+
+**Logic:** Dehradun duo — FRI researches forestry; FSI maps cover; same city, different output.
+
+**Q5. UPPCS / UPSC pattern**
+
+Assertion (A): Forest Research Institute publishes the India State of Forest Report.
+Reason (R): Both FRI and Forest Survey of India are headquartered at Dehradun.
+
+A. Both true; R explains A
+
+B. Both true; R does not explain A
+
+C. A false; R true
+
+D. Both false
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests ISFR publisher; R tests shared Dehradun HQ — same city does not mean same mandate.
+
+**Ans: C.** A is false — **FSI** publishes ISFR; FRI (1906) does silviculture/forestry research under ICFRE. R is true. **Trap:** “Both in Dehradun → same body.”
+
+</details>
+
+---
+
+**Logic:** WII founding year and wildlife-science role.
+
+**Q6. UPPCS / UPSC pattern**
+
+Wildlife Institute of India was established in:
+
+A. 1982 at Dehradun
+
+B. 1890 at Kolkata
+
+C. 2002 at Chennai
+
+D. 1978 at New Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** WII (1982, Dehradun) trains IFS officers and designs tiger-estimation protocols — not BSI/ZSI taxonomy or ISFR mapping. **Trap:** Confusing WII with ZSI (1916) or NBA (BDA 2002).
+
+</details>
+
+---
+
+**Logic:** NBA seat under Biological Diversity Act 2002 — Chennai, not Delhi.
+
+**Q7. UPPCS / UPSC pattern**
+
+National Biodiversity Authority under the Biological Diversity Act, 2002 is headquartered at:
+
+A. New Delhi
+
+B. Chennai
+
+C. Kolkata
+
+D. Lucknow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NBA regulates foreign access and ABS from **Chennai**. **Trap:** Placing NBA in Delhi with MoEFCC, or in Kolkata with BSI/ZSI.
+
+</details>
+
+---
+
+**Logic:** PBR is a local BMC duty under BDA — not NBA headquarters work.
+
+**Q8. UPSC pattern**
+
+People's Biodiversity Register (PBR) is prepared by:
+
+A. Biodiversity Management Committee at local level
+
+B. National Biodiversity Authority, Chennai
+
+C. Forest Survey of India
+
+D. State Pollution Control Board
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** BMCs at panchayat/municipality level document local species and traditional knowledge in the PBR. **Trap:** “Biodiversity authority → national register.”
+
+</details>
+
+---
+
+**Logic:** NBPGR = ICAR plant gene bank, New Delhi (Pusa) — ex-situ germplasm.
+
+**Q9. UPSC pattern**
+
+National Bureau of Plant Genetic Resources (NBPGR) is located at:
+
+A. New Delhi (Pusa Campus)
+
+B. Kolkata
+
+C. Karnal
+
+D. Chennai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** NBPGR (1978, ICAR) conserves crop genetic resources ex-situ. **Trap:** Kolkata because BSI is there, or Karnal because that is the animal gene bank.
+
+</details>
+
+---
+
+**Logic:** Plant gene bank (NBPGR Delhi) vs livestock gene bank (NBAGR Karnal).
+
+**Q10. Topic 20 crossover**
+
+Which statement is correct?
+
+A. NBPGR at New Delhi stores plant germplasm; NBAGR at Karnal stores animal/livestock germplasm
+
+B. Both NBPGR and NBAGR are headquartered at Kolkata
+
+C. NBPGR surveys wild fauna for Red Data Book
+
+D. NBAGR publishes ISFR
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** NBPGR = plants, Delhi; NBAGR = animals/livestock, Karnal — do not interchange. **Trap:** Treating any “gene bank” as one Kolkata institute.
+
+</details>
 
 ---
 

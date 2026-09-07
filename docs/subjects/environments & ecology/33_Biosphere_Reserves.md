@@ -709,17 +709,264 @@ D. Only agricultural produce storage
 
 ## Complete PYQ Bank (Topic 33)
 
-**Q1. UPPCS 2025, Q144** — Nokrek–Manipur NOT matched → **Ans: D (Only 1)Q2. UPPCS 2024, Q10** — Simlipal/Nokrek/Agasthyamalai/Manas → **Ans: D (2 4 1 3)Q3. UPPCS 2022, Q110** — Manas/Sundarbans/Nanda Devi/Pachmarhi → **Ans: D** (paper listed Nanda Devi against “UP”; geography = Uttarakhand)
+**Logic:** Nokrek–Manipur is the sole wrong pair — Nokrek is in Meghalaya (smallest Indian BR).
 
-**Q4. UPPCS 2021, Q140** — Similipal/Pachmarhi/Nandadevi/Nokrek → **Ans: B (4 3 1 2)Q5. UPPCS 2018, Q54** — Botanical garden ≠ in-situ → **Ans: BQ6. Pattern** — Nilgiri = first Indian BR (1986)
+**Q1. UPPCS Prelims 2025, Q144**
 
-**Q7. Pattern** — Core–Buffer–Transition zones
+Which of the following pair(s) is/are **NOT** correctly matched?
 
-**Q8. Pattern** — Manas removed from UNESCO WNBR 2011
+1. Nokrek — Manipur
+2. Manas — Assam
+3. Agasthyamalai — Kerala
 
-**Q9. Pattern** — UP has zero BRs
+A. 1 and 2
 
-**Q10. Pattern** — Great Rann largest / Nokrek smallest
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only statement 1 is wrong — **Nokrek = Meghalaya**. Manas–Assam and Agasthyamalai–Kerala are correct. **Trap:** Nokrek confused with North-East state names (Manipur/Nagaland).
+
+</details>
+
+---
+
+**Logic:** Four-BR match code 2-4-1-3 — Simlipal Odisha, Nokrek Meghalaya, Agasthyamalai Kerala, Manas Assam.
+
+**Q2. UPPCS Prelims 2024, Q10**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+| --- | --- |
+| A. Simlipal | 1. Kerala |
+| B. Nokrek | 2. Odisha |
+| C. Agasthyamalai | 3. Assam |
+| D. Manas | 4. Meghalaya |
+
+*Row order is not the answer code.*
+
+A. 1 2 4 3
+
+B. 3 1 4 2
+
+C. 2 4 3 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Simlipal=Odisha (2); Nokrek=Meghalaya (4); Agasthyamalai=Kerala (1); Manas=Assam (3). **Trap:** Simlipal in MP or Agasthyamalai only in Tamil Nadu (it spans KL–TN but Kerala is the keyed match).
+
+</details>
+
+---
+
+**Logic:** 2022 paper keyed Nanda Devi to Uttar Pradesh in List-II — geography fact is Uttarakhand; UP has zero BRs.
+
+**Q3. UPPCS Prelims 2022, Q110**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+| --- | --- |
+| A. Manas | 1. Madhya Pradesh |
+| B. Sundarbans | 2. Uttar Pradesh |
+| C. Nanda Devi | 3. Assam |
+| D. Pachmarhi | 4. West Bengal |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+
+B. A-4, B-3, C-2, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-3, B-4, C-2, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (paper code).** Manas=Assam (3); Sundarbans=WB (4); Pachmarhi=MP (1); Nanda Devi paired with UP (2) in the paper. **Geography fact:** Nanda Devi BR is in **Uttarakhand**; **UP has no BR**. **Trap:** Post-2000 statehood — never mark Nanda Devi as UP on a fact card.
+
+</details>
+
+---
+
+**Logic:** 2021 four-BR code 4-3-1-2 — Similipal Odisha, Pachmarhi MP, Nanda Devi Uttarakhand, Nokrek Meghalaya.
+
+**Q4. UPPCS Prelims 2021, Q140**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+| --- | --- |
+| A. Similipal | 1. Uttarakhand |
+| B. Pachmarhi | 2. Meghalaya |
+| C. Nandadevi | 3. Madhya Pradesh |
+| D. Nokrek | 4. Odisha |
+
+*Row order is not the answer code.*
+
+A. 4 3 2 1
+
+B. 4 3 1 2
+
+C. 1 3 4 2
+
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Similipal=Odisha (4); Pachmarhi=MP (3); Nanda Devi=Uttarakhand (1); Nokrek=Meghalaya (2). **Trap:** Nanda Devi listed as UP or Nokrek as Manipur.
+
+</details>
+
+---
+
+**Logic:** In-situ vs ex-situ — botanical garden is ex-situ; BR/NP/sacred groves are in-situ.
+
+**Q5. UPPCS Prelims 2018, Q54**
+
+Which of the following is **NOT** an example of in-situ conservation?
+
+A. Biosphere reserve
+
+B. Botanical garden
+
+C. National Park
+
+D. Sacred groves
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Botanical gardens conserve plants **outside** natural wild habitat (ex-situ). **Trap:** Treating any garden under biodiversity law as in-situ.
+
+</details>
+
+---
+
+**Logic:** First notified Indian BR — Nilgiri 1986, not Nanda Devi.
+
+**Q6. Pattern**
+
+India's first Biosphere Reserve (notified 1986) is:
+
+A. Nilgiri (Tamil Nadu–Karnataka–Kerala)
+
+B. Nanda Devi (Uttarakhand)
+
+C. Nokrek (Meghalaya)
+
+D. Sundarbans (West Bengal)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Nilgiri (1986)** was India's first BR. **Trap:** Nanda Devi WH fame or Nokrek smallest label used to pick wrong first.
+
+</details>
+
+---
+
+**Logic:** MAB zonation — core strict protection; transition sustainable human use.
+
+**Q7. Pattern**
+
+In a Biosphere Reserve under UNESCO MAB, regulated human settlements and livelihoods belong mainly to the:
+
+A. Core zone
+
+B. Buffer zone
+
+C. Transition (manipulation) zone
+
+D. Exosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Transition zone** supports sustainable use and settlements; **core** bans exploitative activity. **Trap:** No people anywhere in a BR or farming allowed in core.
+
+</details>
+
+---
+
+**Logic:** Manas UNESCO delisting 2011 — remains national BR.
+
+**Q8. Pattern**
+
+Manas Biosphere Reserve (Assam):
+
+A. Was removed from UNESCO World Network of Biosphere Reserves in 2011 but remains a national BR
+
+B. Is no longer any kind of Biosphere Reserve in India
+
+C. Was never part of the World Network
+
+D. Is located in Manipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** UNESCO **delisted Manas in 2011**; it is still a **national BR** in Assam. **Trap:** Removed from UNESCO means ceased to be a BR entirely.
+
+</details>
+
+---
+
+**Logic:** Uttar Pradesh has zero notified Biosphere Reserves.
+
+**Q9. Pattern**
+
+Which statement about Biosphere Reserves in Uttar Pradesh is correct?
+
+A. Uttar Pradesh has no notified Biosphere Reserve
+
+B. Dudhwa is UP's only Biosphere Reserve
+
+C. Valmiki is a UP Biosphere Reserve
+
+D. Nanda Devi lies in Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **UP = zero BRs**. Dudhwa is an NP; Valmiki is Bihar; Nanda Devi is Uttarakhand. **Trap:** Any UP Terai name assumed to carry a BR tag.
+
+</details>
+
+---
+
+**Logic:** Great Rann largest national BR; Nokrek smallest.
+
+**Q10. Pattern**
+
+Which pair is correctly matched?
+
+A. Largest Biosphere Reserve of India — Great Rann of Kutch
+
+B. Largest Biosphere Reserve of India — Nokrek
+
+C. Smallest Biosphere Reserve — Great Rann of Kutch
+
+D. Smallest Biosphere Reserve — Nilgiri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Great Rann of Kutch** is the largest national BR; **Nokrek (Meghalaya)** is the smallest. **Trap:** Gulf of Mannar largest marine confused with overall largest.
+
+</details>
 
 ---
 

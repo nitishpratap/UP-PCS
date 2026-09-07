@@ -818,9 +818,160 @@ D. Weather forecasting
 
 ## Complete PYQ Bank (Topic 10)
 
-**Q1. UPPCS 2025, Q139** — LiFE → **Ans: D (Only 1)Q2. UPPCS 2024, Q35** — Climate mitigation treaty → **Ans: C (Kyoto)Q3. UPPCS 2024, Q19** — Coral bleaching → **Ans: B (+2°C warming)Q4. UPPCS 2023, Q109** — India GHG rank 2022 → **Ans: B (10th per CCPI framing)** — Trap: **3rd** in absolute total emissions.
+**Q1. UPPCS Prelims 2025, Q139**
 
-**Q5. UPPCS 2022, Q103** — NOT a GHG → **Ans: A (Argon)Q6. UPPCS 2018 pattern** — Global warming increases frequency of → **extreme weather / heat wavesQ7. UPSC pattern** — Kyoto Protocol bound → **Annex I developed countries**
+With reference to the **LiFE (Lifestyle for Environment)** Mission, consider the following statements:
+
+1. LiFE was launched in **June 2022**.  
+2. The idea was first proposed at **COP-25 in Madrid**.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** LiFE launch date vs COP venue where PM Modi first floated the concept.
+
+**Ans: D.** LiFE launched **June 2022**; the idea was announced at **COP-26 Glasgow (2021)**, not COP-25 Madrid.
+
+**Trap:** COP-25 Madrid is a plausible-sounding UN climate venue — the correct pitch was **Glasgow 2021**.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q35**
+
+Which of the following international agreements relates to **climate change mitigation**?
+
+A. Montreal Protocol  
+B. Ramsar Convention  
+C. Kyoto Protocol  
+D. CITES  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Treaty-family trap — Montreal controls ozone; Kyoto/Paris address greenhouse-gas mitigation.
+
+**Ans: C.** The **Kyoto Protocol (1997)** imposed binding emission cuts on developed (Annex I) parties.
+
+**Trap:** **Montreal Protocol** is the most picked wrong answer — it phases out **ODS**, not CO₂ mitigation.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024, Q19**
+
+Coral bleaching in the **Andaman & Nicobar Islands** was primarily caused by—
+
+A. Increased coastal industrial effluents alone  
+B. About **+2°C warming** of the Indian Ocean  
+C. Heavy marine pollution alone  
+D. A **−4°C** drop in sea-surface temperature  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Climate-impact stem — thermal stress on reef symbionts drives bleaching events.
+
+**Ans: B.** **+2°C Indian Ocean warming** triggered bleaching; pollution adds stress but warming is primary.
+
+**Trap:** Cooling (−4°C) would not expel zooxanthellae — bleaching follows **heat stress**.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2023, Q109**
+
+What was India's rank in the world in **greenhouse gas emissions** in 2022 (as framed in the paper)?
+
+A. 9th  
+B. 10th  
+C. 11th  
+D. 12th  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rank framing trap — paper used a 9th–12th band; absolute total-emission rank is ~3rd.
+
+**Ans: B.** The keyed answer is **10th** (performance-index style framing in the paper).
+
+**Trap:** India is ~**3rd in absolute total emissions** — do not confuse with the paper's **10th** option key.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2022, Q103**
+
+Which of the following is **NOT** a greenhouse gas?
+
+A. Argon  
+B. Methane  
+C. Carbon dioxide  
+D. Nitrous oxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Non-GHG noble gas trap among Kyoto-basket gases.
+
+**Ans: A.** **Argon** is an inert atmospheric component and **not** a greenhouse gas.
+
+**Trap:** **Water vapour** is a natural GHG but absent here — **argon** is the keyed non-GHG distractor set.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2018 pattern**
+
+Global warming is most directly linked to an increased frequency and intensity of—
+
+A. Total solar eclipses  
+B. **Extreme weather events** such as heat waves and intense rainfall  
+C. Milankovitch ice-age cycles alone  
+D. Stratospheric ozone recovery  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Climate-impact consequence — enhanced greenhouse effect raises extreme-event probability.
+
+**Ans: B.** Warming intensifies **heat waves, droughts, floods, and cyclone rainfall** — core IPCC impact framing.
+
+**Trap:** Milankovitch cycles operate on **millennial** scales — they do not explain recent decadal extreme-weather rise.
+
+</details>
+
+---
+
+**Q7. UPSC pattern**
+
+Under the **Kyoto Protocol**, quantified emission-reduction commitments applied primarily to—
+
+A. All UN member states equally  
+B. **Annex I developed countries**  
+C. Only Least Developed Countries  
+D. Only island nations  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CBDR architecture — Kyoto bound industrialised Annex I parties, not India or other developing countries.
+
+**Ans: B.** Kyoto's binding cuts targeted **Annex I (developed) countries**; developing nations had no binding targets.
+
+**Trap:** India is a major emitter today but was **not** under Kyoto binding cuts — Paris uses voluntary NDCs instead.
+
+</details>
 
 ---
 

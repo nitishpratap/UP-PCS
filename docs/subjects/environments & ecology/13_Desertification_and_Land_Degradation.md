@@ -667,7 +667,187 @@ D. Only ozone chemistry
 
 ## Complete PYQ Bank (Topic 13)
 
-**Q1. UPPCS 2019, Q42** — LDN by 2030 → **Ans: BQ2. UPPCS 2025, Q73** — Earthworms as soil friends → **Ans: D (Only 1)Q3. UPPCS 2025, Q134** — DPAP chronology: CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979 → **Ans: BQ4. UPSC pattern** — NOT a cause of land degradation → **AfforestationQ5. UPSC pattern** — Desertification treaty → **UNCCDQ6. UPSC pattern** — Soil erosion consequence → **Silting of rivers/reservoirsQ7. UPSC pattern** — Chambal ravines → **Gully/ravine erosion (MP-UP-Rajasthan)Q8. UPSC pattern** — MARPOL vs UNCCD trap → **MARPOL = marine pollution; UNCCD = desertification**
+**Q1. UPPCS Prelims 2019, Q42**
+
+India aims to achieve **Land Degradation Neutrality (LDN)** by—
+
+A. 2025  
+B. 2030  
+C. 2035  
+D. 2040  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SDG 15.3 target year for no net loss of healthy land.
+
+**Ans: B.** LDN target year is **2030** under **SDG 15.3**.
+
+**Trap:** **2025** is a near-term distractor — LDN is pegged to the **2030 Agenda** timeline.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q73**
+
+Consider the following statements about **earthworms**:
+
+1. Earthworms increase soil fertility and are known as friends of farmers.  
+2. Earthworms have **two pairs** of hearts.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Soil-biology fact plus anatomy trap — earthworms aid fertility but have five aortic arches, not two hearts.
+
+**Ans: D.** Statement 1 is correct; earthworms have **5 pairs of hearts** (aortic arches), not 2.
+
+**Trap:** "Friends of farmers" makes statement 1 obviously true — statement 2's wrong heart count is the eliminator.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q134**
+
+Arrange the following programmes **chronologically**:
+
+1. Food for Work Programme  
+2. Community Development Programme (CDP)  
+3. Training of Rural Youth for Self-Employment (TRYSEM)  
+4. Drought Prone Areas Programme (DPAP)  
+
+A. 4, 2, 3, 1  
+B. 2, 4, 1, 3  
+C. 2, 4, 3, 1  
+D. 4, 2, 1, 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dryland/rural development scheme chronology — CDP earliest, TRYSEM latest in the set.
+
+**Ans: B.** Order: CDP **1952** → DPAP **1973** → Food for Work **1977** → TRYSEM **1979**.
+
+**Trap:** **1952** belongs to **CDP**, not DPAP — DPAP is **1973**.
+
+</details>
+
+---
+
+**Q4. UPSC pattern**
+
+Which of the following is **NOT** a cause of land degradation?
+
+A. Overgrazing  
+B. Unsustainable mining  
+C. **Afforestation**  
+D. Improper irrigation leading to salinization  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cause vs remedy trap — tree planting prevents degradation; other options accelerate it.
+
+**Ans: C.** **Afforestation** prevents degradation; overgrazing, mining, and salinization **cause** it.
+
+**Trap:** Deforestation causes degradation — **afforestation** is the opposite intervention.
+
+</details>
+
+---
+
+**Q5. UPSC pattern**
+
+The international treaty to combat **desertification** is—
+
+A. UNFCCC  
+B. **UNCCD**  
+C. Montreal Protocol  
+D. MARPOL  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Treaty-purpose matching — UNCCD = desertification; UNFCCC = climate.
+
+**Ans: B.** **UNCCD (1994, Paris)** is the desertification convention; World Desertification Day is **17 June**.
+
+**Trap:** **UNFCCC** is climate — do not swap the two "UN" environmental treaties.
+
+</details>
+
+---
+
+**Q6. UPSC pattern**
+
+A major consequence of **soil erosion** in river basins is—
+
+A. Increased stratospheric ozone  
+B. **Silting of rivers and reservoirs**  
+C. Expansion of coral reefs  
+D. Permanent ocean acidification reversal  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Erosion sediment pathway — topsoil enters streams and reduces dam storage capacity.
+
+**Ans: B.** Eroded soil **silts rivers and reservoirs**, raising flood risk and cutting irrigation/hydropower storage.
+
+**Trap:** Erosion removes topsoil on land first — **downstream silting** is the classic basin-scale consequence.
+
+</details>
+
+---
+
+**Q7. UPSC pattern**
+
+The **Chambal ravines** are a classic example of—
+
+A. Wind deflation in the Thar Desert  
+B. **Gully/ravine erosion** across MP–UP–Rajasthan  
+C. Glacier-scoured valleys in the Himalaya  
+D. Coastal retreat from sea-level rise  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Badland ravine geography — water erosion end-stage in soft alluvial banks of the Chambal.
+
+**Ans: B.** Chambal badlands (~3 million ha) span **MP, UP, and Rajasthan** — advanced **gully/ravine erosion**.
+
+**Trap:** Thar has **wind erosion** — Chambal is **water/gully** erosion, not aeolian deflation.
+
+</details>
+
+---
+
+**Q8. UPSC pattern**
+
+Which pair is **correctly** matched?
+
+A. Thar Desert — wind erosion hotspot  
+B. Chambal — stratospheric ozone hole  
+C. **MARPOL — marine pollution**; **UNCCD — desertification**  
+D. Afforestation — primary cause of land degradation  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Treaty and process matching — MARPOL vs UNCCD is a standard confused-pair trap.
+
+**Ans: C.** **MARPOL** regulates **ship-source marine pollution**; **UNCCD** addresses **land degradation/desertification**.
+
+**Trap:** UNCCD is **not** marine pollution — that is **MARPOL's** domain.
+
+</details>
 
 ---
 

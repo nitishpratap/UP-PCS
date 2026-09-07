@@ -765,13 +765,265 @@ D. Gujarat
 
 ## Complete PYQ Bank (Topic 18)
 
-**Q1. UPPCS 2024, Q35** — Climate mitigation = Kyoto → **Ans: CQ2. UPPCS 2025, Q51** — Agenda 21 not 1995 → **Ans: CQ3. UPPCS 2023, Q132** — Agenda 21 = SD → **Ans: AQ4. UPPCS 2024, Q51** — Brundtland ≠ Limits to Growth → **Ans: DQ5. UPPCS 2025, Q58** — Ramsar NOT in UP: Rudrasagar, Sultanpur → **Ans: BQ6. UPPCS 2025, Q145** — GEF established 1991 → **Ans: D (Only 1)Q7. UPSC pattern** — Montreal = ozone; Kyoto/Paris = climate
+**Q1. UPPCS Prelims 2024, Q35**
 
-**Q8. UPSC pattern** — CITES = 1973 trade; CMS = migration
+Which of the following international agreements is related to climate change **mitigation**?
 
-**Q9. UPSC pattern** — UNEP HQ Nairobi
+A. Montreal Protocol
 
-**Q10. UPSC pattern** — Rio 1992 produced UNFCCC + CBD + Agenda 21
+B. Ramsar Convention
+
+C. Kyoto Protocol
+
+D. CITES
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Treaty–issue matching — Montreal controls ozone/ODS; Kyoto/Paris address greenhouse gases.
+
+**Ans: C.** The **Kyoto Protocol** sets binding GHG mitigation targets for developed countries.
+
+**Trap:** **Montreal Protocol** — ozone treaty, not climate mitigation.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q51**
+
+Assertion (A): Sustainable development should take place without harming the environment and without compromising the needs of future generations.
+
+Reason (R): Agenda 21 was signed by world leaders in 1995.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** (A) states the Brundtland-style SD principle (true). (R) tests Agenda 21 year — Rio **1992**, not 1995.
+
+**Ans: C.** (A) is true; (R) is false because **Agenda 21 was adopted at Rio 1992**.
+
+**Trap:** Accepting **1995** as the Agenda 21 year.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2023, Q132**
+
+Agenda-21 of the Rio Summit (1992) is related to:
+
+A. Sustainable Development
+
+B. Polluter Pays Principle
+
+C. Environmental Education
+
+D. Ozone Layer Protection
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Agenda 21 is Rio's non-binding action plan for sustainable development in the 21st century.
+
+**Ans: A.** **Agenda 21** addresses **sustainable development**.
+
+**Trap:** Ozone layer (Montreal) or Polluter Pays (domestic principle) distractors.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q51**
+
+Assertion (A): Sustainable development was popularised by the Brundtland Report.
+
+Reason (R): The Brundtland Report is also known as *The Limits to Growth*.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. Both (A) and (R) are true and (R) explains (A)
+
+D. (A) is true, but (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** (A) is true — Brundtland (1987) defined SD. (R) is false — *Limits to Growth* is Club of Rome **1972**.
+
+**Ans: D.** Brundtland = ***Our Common Future* (1987)**; not *Limits to Growth*.
+
+**Trap:** Treating Brundtland and Club of Rome as the same report.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2025, Q58**
+
+Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel
+2. Samaspur Bird Sanctuary
+3. Rudrasagar Lake
+4. Sultanpur National Park
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP Ramsar geography — Rudrasagar and Sultanpur sound plausible but lie outside UP.
+
+**Ans: B.** **Rudrasagar Lake** is in **Tripura**; **Sultanpur** is in **Haryana**.
+
+**Trap:** Assuming every bird sanctuary name in the list belongs to UP.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2025, Q145**
+
+With reference to the Global Environment Facility (GEF), consider the following statements:
+
+1. GEF was established in 1991.
+2. Only developed countries are donors to GEF.
+
+A. Neither 1 nor 2
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** GEF 1991 fact is standard; donor base is broader than developed-only.
+
+**Ans: D (Only 1).** **GEF was established in 1991**; statement 2 is false.
+
+**Trap:** Rejecting 1991 or accepting "developed-only donors."
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims pattern — Montreal vs climate**
+
+Which of the following pairs is **NOT** correctly matched?
+
+A. Montreal Protocol — ozone-depleting substances
+
+B. Kyoto Protocol — climate change mitigation
+
+C. Montreal Protocol — climate change mitigation
+
+D. Paris Agreement — nationally determined contributions
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Montreal = ozone/ODS phase-out; UNFCCC–Kyoto–Paris = climate framework.
+
+**Ans: C.** **Montreal Protocol does not mitigate climate change** — it protects the ozone layer.
+
+**Trap:** "Montreal = climate treaty" — the single most tested treaty confusion.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims pattern — CITES vs CMS**
+
+Which statement is correct?
+
+A. CITES (1973) regulates international trade in endangered species; CMS (1979) protects migratory species and flyways.
+
+B. CITES protects migratory flyways; CMS bans all wildlife trade.
+
+C. Both CITES and CMS were opened for signature at Rio 1992.
+
+D. CITES assesses extinction risk; CMS issues Red List categories.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CITES = trade permits; CMS = migration/habitat — separate 1970s treaties, not Rio products.
+
+**Ans: A.** **CITES regulates trade**; **CMS protects migration routes**.
+
+**Trap:** Rio 1992 origin for CITES (CITES is **1973**, pre-Rio).
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims pattern — UNEP headquarters**
+
+The headquarters of the United Nations Environment Programme (UNEP) is located at:
+
+A. Geneva, Switzerland
+
+B. New York, USA
+
+C. Nairobi, Kenya
+
+D. Bonn, Germany
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** HQ matching — UNEP Nairobi; UNDP New York; IPCC Geneva; UNFCCC Bonn.
+
+**Ans: C.** **UNEP headquarters is in Nairobi**.
+
+**Trap:** **Geneva** (IPCC) or **New York** (UNDP).
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims pattern — Rio 1992 outcomes**
+
+The Rio Earth Summit (1992) directly produced which of the following?
+
+A. UNFCCC, CBD, and Agenda 21
+
+B. CITES, Ramsar Convention, and Stockholm Declaration
+
+C. Kyoto Protocol, Paris Agreement, and SDGs
+
+D. Montreal Protocol, Vienna Convention, and Minamata Convention
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rio "triple outcome" — climate framework, biodiversity convention, and Agenda 21 action plan.
+
+**Ans: A.** Rio **1992** opened **UNFCCC** and **CBD** and adopted **Agenda 21**.
+
+**Trap:** CITES (**1973**) or Kyoto (**1997**) as Rio products.
+
+</details>
 
 ---
 

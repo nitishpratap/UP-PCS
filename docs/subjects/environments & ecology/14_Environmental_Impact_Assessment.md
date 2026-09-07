@@ -620,9 +620,204 @@ D. 2010
 
 ## Complete PYQ Bank (Topic 14)
 
-**Q1. UPPCS 2025, Q22 (crossover)** — Waste within absorption capacity = true; core EIA logic → **Carrying capacity testQ2. UPPCS 2025, Q70 (org trap)** — Groundwater report = CGWB, not CPCB → parallel: **EC = MoEFCC/SEIAA, not CPCBQ3. UPPCS 2025 / Topic 1, Q33** — Water Act = **1974**; Air Act = 1981; **EPA = 1986** enables EIA
+**Q1. UPPCS Prelims 2025, Q22 (crossover)**
 
-**Q4. UPSC pattern** — Category A EC granted by → **MoEFCC on EAC recommendationQ5. UPSC pattern** — EIA mandatory for all projects? → **No — only listed Schedule projectsQ6. UPSC pattern** — EIA Notification issued under → **EPA 1986Q7. UPSC pattern** — NGT Act passed in → **2010Q8. UPSC pattern** — SEA conducted at → **Policies, plans, programmesQ9. UPSC pattern** — Espoo Convention → **Transboundary EIA**
+With reference to **carrying capacity**, consider the following statements:
+
+1. Resource extraction should remain **above** the rate of regeneration.  
+2. Waste generation should stay within the environment's **absorption capacity**.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** EIA/sustainable-development crossover — anticipatory assessment assumes waste and resource use within environmental limits.
+
+**Ans: A.** Sustainable carrying capacity requires waste within absorption limits; extraction must be **at or below** regeneration — not above.
+
+**Trap:** EIA stems often embed carrying-capacity logic — statement 2 alone is the sustainable-use rule.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q70 (org trap crossover)**
+
+**Environmental Clearance (EC)** for large Category A projects is granted by—
+
+A. Central Pollution Control Board (CPCB)  
+B. **Ministry of Environment, Forest and Climate Change (MoEFCC)**  
+C. Central Ground Water Board (CGWB)  
+D. Botanical Survey of India (BSI)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parallel to CGWB≠CPCB trap — EC authority is MoEFCC/SEIAA, not pollution boards.
+
+**Ans: B.** **MoEFCC** (through EAC recommendation) grants **Category A EC**; CPCB sets standards but does **not** grant clearance.
+
+**Trap:** CPCB is the default wrong pick when stems mention "central environment body."
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025 / Topic 1, Q33**
+
+The **Environment (Protection) Act, 1986** — which enables EIA notification — was preceded by which chronological pair of pollution statutes?
+
+A. Air Act 1974; Water Act 1981  
+B. Water Act 1974; Air Act 1981  
+C. Water Act 1981; Air Act 1974  
+D. EPA 1986; Water Act 1974  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Environmental law stack order before EPA 1986 as EIA enabling Act.
+
+**Ans: B.** **Water Act 1974** came first, then **Air Act 1981**, then **EPA 1986** (EIA Notification 2006 derives from EPA).
+
+**Trap:** Swapping Water and Air years (**1981/1974**) is the standard chronology trap.
+
+</details>
+
+---
+
+**Q4. UPSC pattern**
+
+**Environmental Clearance** for Category A projects is finally granted by—
+
+A. Expert Appraisal Committee (EAC) directly  
+B. **MoEFCC on EAC recommendation**  
+C. Central Pollution Control Board  
+D. National Green Tribunal  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** EAC recommends; MoEFCC/SEIAA grants — tribunal hears appeals only.
+
+**Ans: B.** **EAC/SEAC recommend**; **MoEFCC** (Category A) or **SEIAA** (Category B) **grant** EC.
+
+**Trap:** EAC **does not** issue final clearance — it only appraises and recommends.
+
+</details>
+
+---
+
+**Q5. UPSC pattern**
+
+In India, **EIA is mandatory** for—
+
+A. Every economic activity in the country  
+B. **Projects listed in the EIA Notification Schedule**  
+C. Only foreign-investment projects  
+D. Only mining projects below 1 ha  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Project EIA applies to scheduled categories, not universal mandatory assessment.
+
+**Ans: B.** EIA applies to **listed Schedule projects** under EIA Notification 2006 — not all activities.
+
+**Trap:** "All projects" sounds environmentally strict but is **legally false** — only scheduled categories.
+
+</details>
+
+---
+
+**Q6. UPSC pattern**
+
+India's **EIA Notification** is issued under powers of the—
+
+A. Water (Prevention and Control of Pollution) Act, 1974  
+B. Air (Prevention and Control of Pollution) Act, 1981  
+C. **Environment (Protection) Act, 1986**  
+D. Wildlife (Protection) Act, 1972  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** EPA 1986 is the umbrella enabling Act for EIA, ESZ, CRZ notifications — not Water/Air Acts alone.
+
+**Ans: C.** EIA Notification is promulgated under **EPA 1986** Section 3 powers.
+
+**Trap:** Water/Air Acts create **consent regimes** (SPCB) — they do **not** authorise project EC notification.
+
+</details>
+
+---
+
+**Q7. UPSC pattern**
+
+The **National Green Tribunal** was established under an Act passed in—
+
+A. 1986  
+B. 2005  
+C. **2010**  
+D. 2015  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NGT Act year distinct from EPA 1986 — tribunal operational from 2011.
+
+**Ans: C.** **NGT Act, 2010** established the tribunal; it became operational in **2011**.
+
+**Trap:** EPA **1986** followed Bhopal — NGT came **24 years later**, not the same statute.
+
+</details>
+
+---
+
+**Q8. UPSC pattern**
+
+**Strategic Environmental Assessment (SEA)** is conducted at the level of—
+
+A. Individual factory chimneys only  
+B. **Policies, plans and programmes**  
+C. Single-tree plantation plots  
+D. Household kitchen waste only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SEA vs EIA level — upstream PPP assessment before project-level EIA.
+
+**Ans: B.** SEA evaluates **policies, plans, and programmes (PPP)**; EIA is **project-level**.
+
+**Trap:** India has mandatory **project EIA** but **no standalone SEA statute** — yet SEA concept applies at PPP level internationally.
+
+</details>
+
+---
+
+**Q9. UPSC pattern**
+
+The **Espoo Convention** mainly concerns—
+
+A. Transboundary **Environmental Impact Assessment**  
+B. Whaling quotas in the Southern Ocean  
+C. Acid rain only in Europe  
+D. CFC phase-out schedules  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Espoo = transboundary EIA; SEA Protocol (Kiev 2003) extends to plans/programmes.
+
+**Ans: A.** **Espoo Convention (1991)** requires transboundary EIA for projects likely to cause significant cross-border impact.
+
+**Trap:** Gothenburg/CLRTAP = acid rain; Montreal = ODS — Espoo is **EIA-specific**.
+
+</details>
 
 ---
 

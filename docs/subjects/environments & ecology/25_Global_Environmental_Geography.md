@@ -563,11 +563,288 @@ Options: A. Bushman–Kalahari B. Eskimo–Northern Canada C. Pygmy–Congo D. M
 
 ## Complete PYQ Bank (Topic 25)
 
-**Q1. UPPCS 2025, Q1** — Australia interior desert true; northern temperate false → **Ans: CQ2. UPPCS 2025, Q23** — Masai–West Africa NOT matched → **Ans: B (Only 4)Q3. UPPCS 2025, Q27** — Gobi = Mongolia + China → **Ans: AQ4. UPPCS 2025, Q63** — Selva + Terra Roxa both true → **Ans: CQ5. UPPCS 2024, Q29** — Sauer / Tundra / Engler / Hungary → **Ans: A (3 4 2 1)Q6. UPPCS 2019** — Land of Big Games = Tropical Savanna → **Ans: DQ7. UPPCS 2019** — Vegetation–region matching (Epiphytes–Equatorial etc.)
+**Q1. UPPCS Prelims 2025, Q1**
 
-**Q8. UPPCS 2018, Q26** — Pampas in Argentina → **Ans: AQ9. UPSC pattern** — Permafrost in Taiga + Tundra
+Assertion (A): The interior part of Australia is desert and semi-desert.
 
-**Q10. UPSC pattern** — Latitudinal biodiversity gradient equator → poles
+Reason (R): Northern Australia is situated in the temperate zone.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** (A) on interior aridity is true. (R) is false — northern Australia is largely **tropical**, not temperate.
+
+**Ans: C.** Interior desert from **subtropical high + continentality**, not temperate-zone location.
+
+**Trap:** Accepting northern Australia as **temperate** to explain desert.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q23**
+
+Consider the following tribe–habitat pairs:
+
+1. Bushman — Kalahari
+2. Eskimo — Northern Canada
+3. Pygmy — Congo basin
+4. Masai — West Africa
+
+Which pair(s) is/are **NOT** correctly matched?
+
+A. Only 1
+
+B. Only 4
+
+C. Only 2
+
+D. Only 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Masai are East African (Kenya/Tanzania), not West Africa — only the fourth pair is wrong.
+
+**Ans: B (Only 4).** **Masai–West Africa** is the incorrectly matched pair.
+
+**Trap:** Bushman–Kalahari or Pygmy–Congo — both are standard correct pairs.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q27**
+
+The Gobi Desert extends into:
+
+1. Mongolia
+2. China
+3. Russia
+4. Kazakhstan
+
+A. Only 1 and 2
+
+B. Only 1, 2 and 4
+
+C. Only 1, 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gobi cold desert spans Mongolia–China core; Russia/Kazakhstan are marginal distractors.
+
+**Ans: A.** **Gobi extends mainly into Mongolia and China**.
+
+**Trap:** Adding **Russia** or **Kazakhstan** as primary extent countries.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2025, Q63**
+
+With reference to Brazil, consider the following statements:
+
+1. Equatorial rainforests there are called "Selva".
+2. Fertile dark soil known as "Terra Roxa" is found there.
+
+A. Only 1
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Amazon Selva + basaltic Terra Roxa coffee/soy belt — both standard Brazil geography facts.
+
+**Ans: C (Both 1 and 2).** **Selva** and **Terra Roxa** statements are both correct.
+
+**Trap:** Terra Roxa confused with **latosol/terra firme** generic labels only.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2024, Q29**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+| --- | --- |
+| A. Planting Hearth | 1. Hungary |
+| B. Cryophyte Steppe | 2. Adolf Engler |
+| C. World Floral Regions | 3. C.O. Sauer |
+| D. Puszta Grassland | 4. Arctic Tundra |
+
+*Row order is not the answer code.*
+
+A. 3 4 2 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Engler = floral regions; Sauer = planting hearth; Puszta = Hungary; cryophyte steppe = Arctic tundra.
+
+**Ans: A (3 4 2 1).** Sauer (3), Arctic Tundra (4), Engler (2), Hungary (1).
+
+**Trap:** Swapping **Engler** and **Sauer**.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2019, Q10**
+
+Which one of the following natural regions is known as the "Land of Big Games"?
+
+A. Temperate Grassland
+
+B. Tropical Monsoon Region
+
+C. Hot Desert Region
+
+D. Tropical Savanna Region
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** African savanna (Serengeti-type) = big-game grassland–woodland mosaic.
+
+**Ans: D.** **Tropical Savanna** is the Land of Big Games.
+
+**Trap:** **Temperate grassland** (Pampas/Prairie) or **hot desert** safari confusion.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2019, Q3**
+
+Match List-I with List-II:
+
+| List-I (Natural Vegetation) | List-II (Region) |
+| --- | --- |
+| A. Epiphytes | 1. Mediterranean |
+| B. Acacia | 2. Equatorial |
+| C. Baobab | 3. Sahara |
+| D. Cedars | 4. Savanna |
+
+*Row order is not the answer code.*
+
+A. 2 3 4 1
+
+B. 2 3 1 4
+
+C. 2 4 3 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Epiphytes–equatorial; acacia–Sahara fringe; baobab–savanna; cedars–Mediterranean.
+
+**Ans: A (2 3 4 1).** Code **2 3 4 1** for equatorial–Sahara–savanna–Mediterranean pairs.
+
+**Trap:** Baobab on Sahara or acacia on equatorial rainforest.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2018, Q26**
+
+Pampas grassland is located mainly in:
+
+A. Argentina
+
+B. Hungary
+
+C. Australia
+
+D. Kazakhstan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Temperate grassland names — Pampas = Argentina; Puszta = Hungary; Prairie = North America.
+
+**Ans: A.** **Pampas grassland is in Argentina**.
+
+**Trap:** **Hungary** (Puszta) or **Kazakhstan** (steppe).
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims pattern — permafrost**
+
+Permafrost is characteristically found in which biomes?
+
+A. Tropical rainforest and monsoon forest
+
+B. Taiga and tundra
+
+C. Hot desert and Mediterranean scrub
+
+D. Tropical savanna only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cold high-latitude/altitude belts — boreal forest with frozen ground patches and continuous tundra permafrost.
+
+**Ans: B.** **Permafrost occurs in taiga and tundra**.
+
+**Trap:** **Savanna** or **desert** — no continuous permafrost.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims pattern — biodiversity gradient**
+
+Species diversity generally ______ from the equator towards the poles.
+
+A. increases
+
+B. decreases
+
+C. remains constant
+
+D. peaks at mid-latitudes only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Latitudinal diversity gradient — richest near equator, poorer toward poles.
+
+**Ans: B.** **Species diversity decreases from equator to poles**.
+
+**Trap:** Statement "diversity increases toward poles" — false stem in 2019 Q58 trap family.
+
+</details>
 
 ---
 

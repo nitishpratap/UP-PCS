@@ -805,9 +805,249 @@ D. Both false
 
 ## Complete PYQ Bank (Topic 15)
 
-**Q1. UPPCS 2025, Q51** — SD A/R; Agenda 21 not 1995 → **Ans: CQ2. UPPCS 2024, Q51** — Brundtland ≠ Limits to Growth → **Ans: DQ3. UPPCS 2025, Q142** — SDG matching 1/3/4/6 → **Ans: BQ4. UPPCS 2025, Q120** — India critical for global SDGs → **Ans: DQ5. UPPCS 2025, Q111** — UP Planning Dept SDG report → **Ans: BQ6. UPPCS 2025, Q139** — LiFE June 2022; not COP-25 → **Ans: DQ7. UPPCS 2024, Q98** — SDG 4 measures → **Ans: AQ8. UPPCS 2025, Q22 (crossover)** — Carrying capacity / absorption limit → SD operational test
+**Q1. UPPCS Prelims 2025, Q51**
 
-**Q9. UPSC pattern** — Bhopal led to → **EPA 1986Q10. UPSC pattern** — UNEP green economy emphasises → **Well-being + equity + lower environmental risk**
+**Assertion (A):** Sustainable development should occur without harming the environment or compromising the needs of future generations.
+
+**Reason (R):** Agenda 21 was signed by world leaders in **1995**.
+
+A. Both (A) and (R) are true but (R) is not the correct explanation of (A).  
+B. (A) is false but (R) is true.  
+C. (A) is true but (R) is false.  
+D. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests Brundtland-style SD definition; R tests Agenda 21 signing year at Rio.
+
+**Ans: C.** A states the core SD principle correctly; R is false — **Agenda 21 was adopted at Rio 1992**, not 1995.
+
+**Trap:** 1995 sounds like a plausible post-Rio follow-up year — the Earth Summit was **1992**.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q51**
+
+**Assertion (A):** Sustainable development was popularised by the Brundtland Report.
+
+**Reason (R):** The Brundtland Report is also known as *The Limits to Growth*.
+
+A. Both (A) and (R) are true but (R) is not the correct explanation of (A).  
+B. (A) is false but (R) is true.  
+C. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+D. (A) is true but (R) is false.  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests Brundtland authorship of SD concept; R tests alternate book-title trap.
+
+**Ans: D.** Brundtland did popularise SD in ***Our Common Future* (1987)**; *The Limits to Growth* is a **different 1972 Club of Rome report**.
+
+**Trap:** Both are famous environment reports — titles are **not interchangeable**.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q142**
+
+Match **SDG number** with **official goal name**:
+
+| List I (Goal) | List II (Name) |
+|---------------|----------------|
+| 1. Goal 1 | A. Clean Water and Sanitation |
+| 2. Goal 3 | B. Quality Education |
+| 3. Goal 4 | C. No Poverty |
+| 4. Goal 6 | D. Good Health and Well-being |
+
+*Row order is not the answer code.*
+
+A. 1–C, 2–D, 3–B, 4–A  
+B. 1–D, 2–C, 3–A, 4–B  
+C. 1–A, 2–B, 3–C, 4–D  
+D. 1–B, 2–A, 3–D, 4–C  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SDG number–name matching for high-frequency goals 1, 3, 4, 6.
+
+**Ans: B.** Goal **1 = No Poverty**; **3 = Good Health**; **4 = Quality Education**; **6 = Clean Water and Sanitation** (code **3 4 2 1** in paper notation).
+
+**Trap:** Swapping Goals **3 and 4** (health vs education) is the most common match-list error.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2025, Q120**
+
+**Assertion (A):** India's success is critical for global SDG success.
+
+**Reason (R):** India accounts for nearly **one-sixth** of the world's population.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A).  
+C. (A) is true but (R) is false.  
+D. (A) is false but (R) is true.  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests India's weight in global SDG outcomes; R tests demographic scale as the explaining factor.
+
+**Ans: A.** With ~**1/6 of world population**, India's SDG performance heavily shapes global totals — R correctly explains A.
+
+**Trap:** "Critical for global success" follows from **population scale + development footprint**, not geography alone.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2025, Q111**
+
+The **SDG National Indicator Framework Progress Report** for Uttar Pradesh is prepared by the State's—
+
+A. Finance Department  
+B. **Planning Department**  
+C. Education Department  
+D. Forest Department  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP governance fact — SDG indicator reporting sits with state planning machinery.
+
+**Ans: B.** UP's **Planning Department** prepares the SDG National Indicator Framework Progress Report.
+
+**Trap:** Finance Department handles budgets — **Planning Department** owns SDG indicator reporting.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2025, Q139**
+
+With reference to **LiFE (Lifestyle for Environment)**, consider the following:
+
+1. LiFE was launched in **June 2022**.  
+2. The idea was proposed at **COP-25 in Madrid**.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Governance/mission fact — LiFE launch vs COP venue of original announcement.
+
+**Ans: D.** LiFE launched **June 2022**; the concept was announced at **COP-26 Glasgow (2021)**, not COP-25.
+
+**Trap:** COP-25 Madrid is geographically plausible — Glasgow **2021** is correct.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2024, Q98**
+
+Which of the following are essential for achieving **SDG 4 (Quality Education)**?
+
+1. Free and compulsory education  
+2. School infrastructure and digital transformation  
+3. Expansion of agricultural programmes  
+4. Increasing investment in technology  
+
+A. 1 and 2 only  
+B. 1, 2 and 4 only  
+C. 2 and 3 only  
+D. All four  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SDG 4 core targets vs unrelated agricultural expansion distractor.
+
+**Ans: A.** SDG 4 centres on **access, quality, and infrastructure** — agricultural programme expansion is not a core SDG 4 pillar.
+
+**Trap:** Statement 4 (technology investment) sounds education-relevant but the keyed combo is **1 and 2** — statement 3 is clearly off-topic.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2025, Q22 (crossover)**
+
+With reference to **carrying capacity**, consider the following:
+
+1. Resource extraction should remain **above** regeneration.  
+2. Waste should stay within environmental **absorption capacity**.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SD operational test — sustainable development requires living within regeneration and absorption limits.
+
+**Ans: A.** Statement 2 defines sustainable waste limits; statement 1 reverses the regeneration rule.
+
+**Trap:** SD governance stems often embed this carrying-capacity pair — only statement 2 survives scrutiny.
+
+</details>
+
+---
+
+**Q9. UPSC pattern**
+
+The **Bhopal Gas Tragedy (1984)** directly catalysed enactment of the—
+
+A. Stockholm Declaration enforcement Act  
+B. **Environment (Protection) Act, 1986**  
+C. Biological Diversity Act, 2002  
+D. NGT Act, 2010  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Environmental governance timeline — Bhopal exposed regulatory gaps leading to EPA.
+
+**Ans: B.** Bhopal **1984** led to India's comprehensive **EPA 1986** and later EIA notification.
+
+**Trap:** NGT (**2010**) is much later — the **immediate legislative response** was EPA **1986**.
+
+</details>
+
+---
+
+**Q10. UPSC pattern**
+
+The **green economy** (UNEP, 2011) emphasises—
+
+A. High-coal growth with waste maximisation  
+B. **Low-carbon, resource-efficient, socially inclusive growth**  
+C. Ozone-layer depletion as a development goal  
+D. Elimination of all industrial activity  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UNEP green economy definition — well-being + equity + lower environmental risk.
+
+**Ans: B.** Green economy pursues improved well-being and equity while **cutting environmental risk and ecological scarcity**.
+
+**Trap:** Green economy is **not** anti-industry — it redesigns growth to be **resource-efficient and inclusive**.
+
+</details>
 
 ---
 

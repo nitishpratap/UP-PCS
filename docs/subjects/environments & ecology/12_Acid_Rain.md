@@ -735,7 +735,191 @@ D. Ramsar sites only
 
 ## Complete PYQ Bank (Topic 12)
 
-**Q1. UPPCS 2024, Q108** — CO₂/SO₂/NO₂ A/R → **Ans: CQ2. UPPCS 2025, Q103** — pH reversal trap → **Ans: B (Neither)Q3. UPPCS 2025, Q43** — Gases lighter than air → **Ans: B (Only helium)Q4. UPPCS 2025, Q61** — Lichens as indicators → **Ans: D (Only 1)Q5. UPSC pattern** — Normal rain slightly acidic due to → **CO₂Q6. UPSC pattern** — Acid rain caused by → **SO₂ and NOxQ7. UPSC pattern** — FGD used in → **Thermal power plantsQ8. UPSC pattern** — Taj yellowing due to → **SO₂ pollution**
+**Q1. UPPCS Prelims 2024, Q108**
+
+**Assertion (A):** CO₂, SO₂ and NO₂ dissolve in rainwater and produce acid rain.
+
+**Reason (R):** Air is polluted due to high concentration of CO₂, SO₂ and oxides of nitrogen.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+B. (A) is false but (R) is true.  
+C. Both (A) and (R) are true but (R) is **not** the correct explanation of (A).  
+D. (A) is true but (R) is false.  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests whether all three gases dissolve in rain; R tests a generic air-pollution statement and whether it explains **strong acid rain** from SO₂/NOx vs weak carbonic acid from CO₂.
+
+**Ans: C.** All three dissolve (A true) and polluted air (R true), but R does **not explain** why **SO₂/NOx** drive severe acid rain while **CO₂** gives only weakly acidic normal rain (~pH 5.6).
+
+**Trap:** "Both true; R explains A" ignores that **CO₂ alone** cannot explain coal-driven **H₂SO₄/HNO₃** acid rain.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q103**
+
+Consider the following statements about **pH**:
+
+1. Acidic solutions have pH **more than 7**.  
+2. Basic solutions have pH **less than 7**.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Fundamental pH scale reversal trap — acidic < 7, basic > 7.
+
+**Ans: B.** Both statements reverse the scale — **acidic < 7**, **basic > 7**.
+
+**Trap:** Statement 1 alone sounds plausible if you confuse "more acid" with "higher number" — pH numbers **decrease** as acidity rises.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q43**
+
+Which of the following gas/gases is/are **lighter than air**?
+
+1. Hydrogen chloride  
+2. Sulfur dioxide  
+3. Helium  
+
+A. 1 and 2 only  
+B. 3 only  
+C. 2 and 3 only  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Molecular weight vs air (≈29 g/mol) — HCl and SO₂ are heavier; helium is lighter.
+
+**Ans: B.** Only **helium** is lighter than air; **HCl** and **SO₂** are denser and accumulate near ground.
+
+**Trap:** SO₂ is linked to acid rain but is **heavier than air** — do not assume all acid-rain gases rise quickly.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2025, Q61**
+
+Consider the following statements about **lichens**:
+
+1. Lichens are very good indicators of air pollution.  
+2. Lichens grow well in polluted areas.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bio-indicator sensitivity to SO₂ — presence signals clean air; absence signals pollution.
+
+**Ans: D.** Lichens indicate pollution levels but **decline or die** in high SO₂ — they do not thrive there.
+
+**Trap:** "Good indicator" does not mean "grows well in pollution" — sensitivity means **loss**, not growth.
+
+</details>
+
+---
+
+**Q5. UPSC pattern**
+
+Normal unpolluted rain is slightly acidic (pH ≈ **5.6**) primarily because of dissolved—
+
+A. Sulphur dioxide from coal plants  
+B. **Carbon dioxide** forming weak carbonic acid  
+C. Nitrogen oxides from vehicles  
+D. Hydrochloric acid from volcanoes  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Natural rain acidity vs anthropogenic acid rain — CO₂ equilibrium vs SO₂/NOx strong acids.
+
+**Ans: B.** Atmospheric **CO₂** dissolves to form weak **H₂CO₃**, giving natural rain pH about **5.6**.
+
+**Trap:** **SO₂/NOx** cause severe acid rain (pH < 5.6) — CO₂ alone cannot drop rain to ~4.
+
+</details>
+
+---
+
+**Q6. UPSC pattern**
+
+**Acid rain** is primarily caused by atmospheric emissions of—
+
+A. CO₂ and methane  
+B. **SO₂ and NOx**  
+C. CFCs and halons  
+D. Ozone and PAN only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Primary acid-rain precursors form H₂SO₄ and HNO₃ in the atmosphere.
+
+**Ans: B.** **SO₂** (coal, smelters) and **NOx** (vehicles, high-temperature combustion) are the main acid-rain precursors.
+
+**Trap:** CO₂ is emitted with coal but produces only **weak** acidity — not the main anthropogenic acid-rain driver.
+
+</details>
+
+---
+
+**Q7. UPSC pattern**
+
+**Flue Gas Desulphurisation (FGD)** scrubbers are installed mainly at—
+
+A. Vehicle exhaust pipes  
+B. **Thermal power plant chimneys**  
+C. Municipal landfill vents  
+D. Agricultural field boundaries  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** FGD hardware removes SO₂ from stack gas before release — TPP acid-rain prevention.
+
+**Ans: B.** FGD passes flue gas through lime/limestone slurry at **coal thermal power plants**, removing **90%+ SO₂**.
+
+**Trap:** Vehicle NOx uses **catalytic converters**, not FGD scrubbers.
+
+</details>
+
+---
+
+**Q8. UPSC pattern**
+
+Yellowing and pitting of the **Taj Mahal** marble is primarily attributed to—
+
+A. Carbon dioxide from tourist breathing  
+B. **SO₂ pollution** and acid deposition forming gypsum crust  
+C. Ozone hole ultraviolet alone  
+D. Plastic waste micro-abrasion only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Taj Trapezium classic case — sulphuric acid attack on calcium carbonate marble.
+
+**Ans: B.** **SO₂** from Mathura refinery and Firozabad industries caused **gypsum (CaSO₄) crust** on marble — acid deposition damage.
+
+**Trap:** CO₂ is present everywhere but **SO₂ + acid rain** is the documented Taj damage pathway.
+
+</details>
 
 ---
 

@@ -886,7 +886,256 @@ D. Lies entirely in Andhra Pradesh
 
 ## Complete PYQ Bank (Topic 32)
 
-**Q1. UPPCS 2025, Q90** — Dachigam/Keoladeo/Kanha/Periyar match → **Ans: DQ2. UPPCS 2025, Q58** — NOT in UP: Rudrasagar + Sultanpur → **Ans: BQ3. UPPCS 2023, Q56** — Chandraprabha = Chandauli → **Ans: BQ4. UPPCS 2023, Q118** — NP genetic diversity = in-situ → **Ans: AQ5. UPPCS 2022, Q36** — Katarniaghat established 1975 → **Ans: BQ6. UPPCS 2022, Q56** — Dudhwa = Lakhimpur Kheri → **Ans: BQ7. UPPCS 2022, Q73** — Keibul Lamjao = Loktak → **Ans: AQ8. UPPCS 2020, Q62** — Indravati/Mollem/Kalesar/Betla → **Ans: AQ9. UPPCS 2018, Q49** — Dachigam = Hangul → **Ans: DQ10. UPPCS 2018, Q58** — Simlipal ≠ Madhya Pradesh (Odisha)
+**Logic:** Four-NP state match — Dachigam J&K, Keoladeo Rajasthan, Kanha MP, Periyar Kerala.
+
+**Q1. UPPCS Prelims 2025, Q90**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+| --- | --- |
+| A. Dachigam | 1. Madhya Pradesh |
+| B. Keoladeo | 2. Rajasthan |
+| C. Kanha | 3. Kerala |
+| D. Periyar | 4. Jammu and Kashmir |
+
+*Row order is not the answer code.*
+
+A. 4 2 3 1
+
+B. 2 4 1 3
+
+C. 2 4 3 1
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Dachigam=J&K (4); Keoladeo=Rajasthan (2); Kanha=MP (1); Periyar=Kerala (3). **Trap:** Swapping Kanha–Periyar states or placing Keoladeo in UP.
+
+</details>
+
+---
+
+**Logic:** UP Ramsar trap — Sarsai Nawar and Samaspur are in UP; Rudrasagar Tripura and Sultanpur Haryana are not.
+
+**Q2. UPPCS Prelims 2025, Q58**
+
+Which Ramsar sites are **NOT** located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel
+2. Samaspur Bird Sanctuary
+3. Rudrasagar Lake
+4. Sultanpur National Park
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sarsai Nawar** and **Samaspur** are in UP. **Rudrasagar = Tripura**; **Sultanpur NP = Haryana**. **Trap:** Assuming every bird wetland in the Gangetic plain is UP.
+
+</details>
+
+---
+
+**Logic:** Chandraprabha WLS district — Chandauli, among earliest UP sanctuaries (1957).
+
+**Q3. UPPCS Prelims 2023, Q56**
+
+Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
+
+A. Sonbhadra
+
+B. Chandauli
+
+C. Bahraich
+
+D. Lakhimpur Kheri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Chandraprabha lies in **Chandauli** district. **Trap:** Sonbhadra (Kaimur forests) or Bahraich (Terai trio with Katarniaghat).
+
+</details>
+
+---
+
+**Logic:** National Parks conserve wild populations in natural habitat — in-situ genetic diversity maintenance.
+
+**Q4. UPPCS Prelims 2023, Q118**
+
+In National Parks, genetic diversity is maintained through—
+
+A. In-situ conservation
+
+B. Ex-situ conservation
+
+C. Gene pool
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** NPs are strict in-situ sites under WPA. **Trap:** "Gene pool" label or botanical garden (ex-situ) distractors.
+
+</details>
+
+---
+
+**Logic:** Katarniaghat establishment year among UP Terai sanctuaries — 1975.
+
+**Q5. UPPCS Prelims 2022, Q36**
+
+Which Wildlife Sanctuary of Uttar Pradesh was established in 1975?
+
+A. Chambal
+
+B. Katarniaghat
+
+C. Raipur
+
+D. Kishanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Katarniaghat (Bahraich)** was established **1975** in the Dudhwa Terai Arc. **Trap:** Kishanpur (same corridor, different year) or National Chambal (multi-state).
+
+</details>
+
+---
+
+**Logic:** Dudhwa NP district — Lakhimpur Kheri, not Pilibhit or Bahraich.
+
+**Q6. UPPCS Prelims 2022, Q56**
+
+Dudhwa National Park is situated in which district of Uttar Pradesh?
+
+A. Bahraich
+
+B. Lakhimpur Kheri
+
+C. Pilibhit
+
+D. Sitapur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Dudhwa — UP's only full NP — sits in **Lakhimpur Kheri**. **Trap:** Pilibhit Tiger Reserve (adjacent Terai, not Dudhwa district).
+
+</details>
+
+---
+
+**Logic:** Keibul Lamjao — world's only floating NP on Loktak, Manipur (phumdis, Sangai deer).
+
+**Q7. UPPCS Prelims 2022, Q73**
+
+Keibul Lamjao National Park is located in which lake?
+
+A. Loktak
+
+B. Dal
+
+C. Wular
+
+D. Kolleru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Keibul Lamjao floats on **Loktak (Manipur)**. **Trap:** Dal/Wular (J&K) or Kolleru (AP) lake-NP pairs.
+
+</details>
+
+---
+
+**Logic:** 2020 four-NP state code — Indravati CG, Mollem Goa, Kalesar Haryana, Betla Jharkhand.
+
+**Q8. UPPCS Prelims 2020, Q62**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+| --- | --- |
+| A. Indravati | 1. Jharkhand |
+| B. Mollem | 2. Haryana |
+| C. Kalesar | 3. Goa |
+| D. Betla | 4. Chhattisgarh |
+
+*Row order is not the answer code.*
+
+A. 4 3 2 1
+
+B. 4 2 3 1
+
+C. 4 1 3 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Indravati=Chhattisgarh (4); Mollem=Goa (3); Kalesar=Haryana (2); Betla=Jharkhand (1). **Trap:** Betla/Betva OCR confusion or Mollem placed in Karnataka.
+
+</details>
+
+---
+
+**Logic:** Dachigam flagship species — Hangul (Kashmir stag), not musk deer or Gir lion.
+
+**Q9. UPPCS Prelims 2018, Q49**
+
+Dachigam National Park is associated with which of the following?
+
+A. Musk Deer
+
+B. Golden Oriole
+
+C. Yellow-throated Marten
+
+D. Hangul or Kashmir Stag
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Hangul** is the Kashmir stag of **Dachigam (J&K)**. **Trap:** Musk deer (Himalayan sanctuaries) or Sangai (Loktak).
+
+</details>
+
+---
+
+**Logic:** Simlipal state trap — Odisha, not Madhya Pradesh (Bandipur/Kanha are MP/Karnataka).
+
+**Q10. UPPCS Prelims 2018, Q58**
+
+Which of the following pairs is **NOT** correctly matched?
+
+A. Bandipur National Park — Karnataka
+
+B. Manas Wildlife Sanctuary — Assam
+
+C. Periyar Wildlife Sanctuary — Kerala
+
+D. Simlipal National Park — Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Simlipal = Odisha**; A, B, C are correct. **Trap:** Simlipal grouped with central-Indian tiger landscapes (MP).
+
+</details>
 
 ---
 

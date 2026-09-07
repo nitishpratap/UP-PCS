@@ -1886,76 +1886,729 @@ D. Neither 1 nor 2
 
 </details>
 
-### Ghatnachakra UPPCS + UKPCS fill (so the book is not needed)
+### Complete PYQ Bank — older UPPCS / RO / Lower / UKPCS (Maurya)
 
-**Q7. UPPCS Pre 2002** — Kautilya was prime minister of — **Ans: C Chandragupta Maurya** (not Gupta Vikramaditya).
+**Q7. UPPCS Prelims 2002**
 
-**Q8. UPPCS Pre 2006** — Childhood / alternate name of Chanakya — **Ans: C Vishnugupta**.
+Kautilya was the prime minister of —
 
-**Q9. UPPCS Mains 2012** — Arthashastra is a book on — **Ans: D Principles of Government**.
-
-**Q10. UPPCS Re-exam Pre 2015** — Seventh Saptanga limb — **Ans: C Mitra**.
-
-**Q11. UP Lower Sub Pre 2015** — Deimachus came in the reign of — **Ans: B Bindusara**.
-
-**Q12. UPPCS Mains 2011 / Spl 2008** — Kumrahar / Bulandibagh remains — **Ans: Pataliputra**.
-
-**Q13. UPPCS Pre 1996** — Inscription proving Chandragupta’s western sway — **Ans: C Junagadh of Rudradaman** (Pushyagupta / Sudarshana).
-
-**Q14. UP RO/ARO Mains 2014** — Chandragupta defeated Seleucus in — **Ans: C 305 B.C.**
-
-**Q15. UPPCS Mains 2016** — South Indian kingdoms in Ashokan inscription — **Ans: B Second Major Rock Edict**.
-
-**Q16. UPPCS Pre 2016** — Kalinga war account — **Ans: A Rock Edict XIII**.
-
-**Q17. UP Lower Spl Pre 2008** — Sarnath Pillar built by — **Ans: B Ashoka**.
-
-**Q18. UPPCS Mains 2008** — Best stupa — **Ans: C Sanchi**.
-
-**Q19. UPPCS Pre 1999** — Ashoka pilgrimage order — **Ans: D** Lumbini → Kapilavastu → Bodh Gaya → Sarnath → Kushinagar → Shravasti.
-
-**Q20. UPPCS Spl Mains 2008** — Sarthwah — **Ans: B Convoy of Merchants** (*sarthavaha*).
-
-**Q21. UPPCS Mains 2012** — Weights officer — **Ans: A Pautavadhyaksha**.
-
-**Q22. UPPCS Pre 2013** — Sita in Mauryan period — **Ans: C Revenue from Crown land**.
-
-**Q23. UPPCS Pre 1996** — Bhaga and Bali — **Ans: B Sources of Revenue**.
-
-**Q24. UP Lower Spl Pre 2008** — Revenue collection in mantriparishad — **Ans: A Samaharta**.
-
-**Q25. UPPCS Pre 1996** — Rajjukas were — **Ans: B Officers in Mauryan administration**.
-
-**Q26. UP Lower Sub Pre 2008** — Gujarra MRE with name Ashoka — **Ans: B Datia (MP)**.
-
-**Q27. UP Lower Spl Pre 2008** — Kalsi famous for — **Ans: C Rock edicts of Ashoka**.
-
-**Q28. UPPCS Spl Mains 2008** — Rummindei marks — **Ans: A Birth of Buddha**.
-
-**Q29. UP UDA/LDA Pre 2006 / UPPCS Pre 2012** — Turamaya / Ptolemy Philadelphus — **Ans: Egypt**.
-
-**Q30. UP Lower Sub Pre 2002** — A: Ashoka annexed Kalinga; R: land and sea routes to South — **Ans: Both true, R explains A**.
-
-**Q31. UPPCS Spl Mains 2004** — A: Mauryas no religious land grants; R: peasant revolt — **Ans: A true, R false**.
-
-**Q32. UPPCS Mains 2009** — Detailed city admin of Mauryas — **Ans: B Indica**.
-
-**Q33. UP RO/ARO Mains 2013** — Source saying no slavery — **Ans: C Indica**.
-
-**Q34. UPPCS Pre 1990** — Mauryan achievements (culture / provincial division / Hindukush frontier), not gold coins — **Ans: A, C, D**.
-
-**Q35. UPPCS Pre 2017** — Not true of Barabar — **Ans: D** (not 6th century BC).
-
-**Q36. UP Lower Sub Mains 2015** — First hospitals / herbal gardens — **Ans: A Ashoka**.
-
-**Q37. UPPCS Pre 1993** — Rajdharma on longanimity, liberty, compassion — **Ans: A Ashoka**.
-
-**Q38. UP Lower Sub Pre 2008** — Justin on Sandrokottos meeting Alexander — **Ans: B Justin**.
+A. Chandragupta II Vikramaditya
+B. Ashoka
+C. Chandragupta Maurya
+D. Bindusara
 
 <details>
-<summary>Show answer keys for Q7–Q38</summary>
+<summary>Show answer</summary>
 
-All keys are in the bold lines above. Full stems live in Ghatnachakra Maurya pages; teaching cards above carry the facts so the book is not required.
+**Logic:** Tests Maurya vs Gupta Chandragupta identity for Chanakya’s king.
+
+**Ans: C.** Kautilya (Chanakya) was the prime minister of **Chandragupta Maurya**.
+
+**Trap:** Choosing Gupta **Chandragupta II Vikramaditya** because both names share “Chandragupta.”
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2006**
+
+The childhood / alternate name of Chanakya was —
+
+A. Vishakhadatta
+B. Kamandaka
+C. Vishnugupta
+D. Shamasastry
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Alternate name of Chanakya / Kautilya, not author of *Mudrarakshasa* or the modern editor.
+
+**Ans: C.** Chanakya is also called **Vishnugupta**.
+
+**Trap:** Picking **Vishakhadatta** (*Mudrarakshasa*) or **Shamasastry** (modern discoverer of the *Arthashastra*).
+
+</details>
+
+---
+
+**Q9. UPPCS Mains 2012**
+
+*Arthashastra* is a book on —
+
+A. Principles of Grammar
+B. Principles of Medicine
+C. Principles of Religion
+D. Principles of Government
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nature of Kautilya’s treatise — polity and statecraft, not a dharmashastra or medical manual.
+
+**Ans: D.** The *Arthashastra* deals with **Principles of Government**.
+
+**Trap:** Reading “artha” as only wealth/trade and missing the statecraft frame.
+
+</details>
+
+---
+
+**Q10. UPPCS Re-Prelims 2015**
+
+According to the Saptanga theory, the seventh limb of the state is —
+
+A. Durga
+B. Kosha
+C. Mitra
+D. Danda
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Order of seven *prakritis*: Swami, Amatya, Janapada, Durga, Kosha, Danda, **Mitra**.
+
+**Ans: C.** The seventh Saptanga limb is **Mitra** (ally).
+
+**Trap:** Stopping at **Danda** (army) as if it were the last limb.
+
+</details>
+
+---
+
+**Q11. UP Lower Sub Prelims 2015**
+
+Deimachus came to the Mauryan court in the reign of —
+
+A. Chandragupta Maurya
+B. Bindusara
+C. Ashoka
+D. Dasharatha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Successor ambassadors after Megasthenes — Deimachus under Bindusara; Dionysius under Ashoka’s age contacts.
+
+**Ans: B.** Deimachus came in the reign of **Bindusara**.
+
+**Trap:** Assigning every Greek envoy to **Chandragupta** because of Megasthenes.
+
+</details>
+
+---
+
+**Q12. UPPCS Mains 2011 / Special 2008**
+
+Archaeological remains at Kumrahar and Bulandibagh are associated with —
+
+A. Taxila
+B. Ujjain
+C. Pataliputra
+D. Tosali
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Excavation sites of the Mauryan capital’s wooden palisade and pillared hall.
+
+**Ans: C.** Kumrahar and Bulandibagh belong to **Pataliputra**.
+
+**Trap:** Linking any Mauryan dig automatically to **Taxila**.
+
+</details>
+
+---
+
+**Q13. UPPCS Prelims 1996**
+
+Which of the following inscriptions proves Chandragupta Maurya’s sway over western India?
+
+A. Rummindei pillar of Ashoka
+B. Hathigumpha inscription of Kharavela
+C. Junagadh inscription of Rudradaman
+D. Allahabad pillar of Samudragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Later Junagadh text recalls Pushyagupta constructing Sudarshana under Chandragupta Maurya.
+
+**Ans: C.** The **Junagadh inscription of Rudradaman** records that western sway.
+
+**Trap:** Using Ashoka’s Rummindei or Gupta Allahabad as the western Maurya proof.
+
+</details>
+
+---
+
+**Q14. UP RO/ARO Mains 2014**
+
+Chandragupta Maurya defeated Seleucus Nicator in about —
+
+A. 326 B.C.
+B. 321 B.C.
+C. 305 B.C.
+D. 273 B.C.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Date of the Seleucid war and treaty after Chandragupta’s consolidation.
+
+**Ans: C.** The defeat / settlement is dated to about **305 B.C.**
+
+**Trap:** Confusing it with Alexander’s Indian campaign (**326 B.C.**) or Maurya founding (**c. 321 B.C.**).
+
+</details>
+
+---
+
+**Q15. UPPCS Mains 2016**
+
+South Indian kingdoms are mentioned in which Ashokan record?
+
+A. First Major Rock Edict
+B. Second Major Rock Edict
+C. Twelfth Major Rock Edict
+D. Thirteenth Major Rock Edict
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chola, Pandya, Satiyaputra, Keralaputra appear in RE II (and also in RE XIII’s neighbour list — stem asks the classic RE II hit).
+
+**Ans: B.** South Indian kingdoms are named in the **Second Major Rock Edict**.
+
+**Trap:** Jumping only to **RE XIII** because it also lists neighbouring peoples after Kalinga.
+
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2016**
+
+The account of the Kalinga war is found in —
+
+A. Rock Edict XIII
+B. Rock Edict XII
+C. Pillar Edict VII
+D. Minor Rock Edict I
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kalinga conquest, slaughter figures, and remorse live in RE XIII, not in the synthesis edict.
+
+**Ans: A.** The Kalinga war account is in **Rock Edict XIII**.
+
+**Trap:** Choosing **Rock Edict XII** (religious synthesis / tolerance).
+
+</details>
+
+---
+
+**Q17. UP Lower Special Prelims 2008**
+
+The Sarnath Pillar was built by —
+
+A. Chandragupta Maurya
+B. Ashoka
+C. Kanishka
+D. Harsha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lion capital and Ashokan pillar at the First Sermon site.
+
+**Ans: B.** The Sarnath Pillar was built by **Ashoka**.
+
+**Trap:** Crediting **Kanishka** because of later Sarnath Buddhist imagery.
+
+</details>
+
+---
+
+**Q18. UPPCS Mains 2008**
+
+Which of the following is regarded as the finest / best-preserved stupa among the options?
+
+A. Bharhut
+B. Amaravati
+C. Sanchi
+D. Nagarjunakonda
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Classic comparison among early Buddhist stupas — Sanchi’s Great Stupa is the stock “best” answer in older papers.
+
+**Ans: C.** **Sanchi** is treated as the best / finest among these stupas.
+
+**Trap:** Preferring **Bharhut** or **Amaravati** for sculptural fame while the stem asks the stupa as a whole.
+
+</details>
+
+---
+
+**Q19. UPPCS Prelims 1999**
+
+Arrange the following places in the order of Ashoka’s pilgrimage:
+
+1. Bodh Gaya
+2. Kapilavastu
+3. Kushinagar
+4. Lumbini
+5. Sarnath
+6. Shravasti
+
+A. 4 → 1 → 2 → 5 → 3 → 6
+B. 4 → 2 → 5 → 1 → 3 → 6
+C. 2 → 4 → 1 → 5 → 3 → 6
+D. 4 → 2 → 1 → 5 → 3 → 6
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pilgrimage sequence starts at birth-place Lumbini, then Kapilavastu, enlightenment, first sermon, death, and Shravasti.
+
+**Ans: D.** Order: **Lumbini → Kapilavastu → Bodh Gaya → Sarnath → Kushinagar → Shravasti**.
+
+**Trap:** Placing **Bodh Gaya** immediately after Lumbini and skipping Kapilavastu.
+
+</details>
+
+---
+
+**Q20. UPPCS Special Mains 2008**
+
+In Mauryan terminology, *Sarthwah* (*sarthavaha*) meant —
+
+A. Superintendent of ships
+B. Convoy of Merchants
+C. Royal messenger
+D. Village headman
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Trade vocabulary — *sartha* = caravan; *sarthavaha* = caravan leader / merchant convoy.
+
+**Ans: B.** *Sarthwah* means a **convoy of merchants**.
+
+**Trap:** Reading it as a state adhyaksha title rather than a merchant-caravan term.
+
+</details>
+
+---
+
+**Q21. UPPCS Mains 2012**
+
+The Mauryan officer in charge of weights and measures was —
+
+A. Pautavadhyaksha
+B. Panyadhyaksha
+C. Sitadhyaksha
+D. Suradhyaksha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Pauta* = weights/standards; not the market, crown-land, or liquor officer.
+
+**Ans: A.** The weights officer is the **Pautavadhyaksha**.
+
+**Trap:** Confusing with **Panyadhyaksha** (commerce / market).
+
+</details>
+
+---
+
+**Q22. UPPCS Prelims 2013**
+
+In the Mauryan period, *Sita* referred to —
+
+A. Land revenue share from private fields
+B. Customs duty
+C. Revenue from Crown land
+D. Forced labour tax
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Sita* = produce / revenue of state (crown) farms; *bhaga* is the share from private holdings.
+
+**Ans: C.** *Sita* means **revenue from Crown land**.
+
+**Trap:** Equating *Sita* with ordinary *bhaga* land-share from peasants.
+
+</details>
+
+---
+
+**Q23. UPPCS Prelims 1996**
+
+*Bhaga* and *Bali* in the Mauryan context were —
+
+A. Types of spies
+B. Sources of Revenue
+C. Military ranks
+D. Provincial capitals
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Fiscal vocabulary of early historic polity — shares and offerings as revenue heads.
+
+**Ans: B.** *Bhaga* and *Bali* were **sources of revenue**.
+
+**Trap:** Treating them as spy classes (*sanstha* / *sanchara*) from the same chapter cluster.
+
+</details>
+
+---
+
+**Q24. UP Lower Special Prelims 2008**
+
+Who among the following handled revenue collection in the *mantriparishad*?
+
+A. Samaharta
+B. Sannidhata
+C. Senapati
+D. Purohita
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Samaharta* = collector / assessor of revenue; *Sannidhata* = treasurer / store-keeper.
+
+**Ans: A.** Revenue collection is linked to the **Samaharta**.
+
+**Trap:** Swapping **Samaharta** with **Sannidhata**.
+
+</details>
+
+---
+
+**Q25. UPPCS Prelims 1996**
+
+*Rajjukas* were —
+
+A. Village accountants only
+B. Officers in Mauryan administration
+C. Buddhist monks of the Sangha
+D. Guild chiefs of artisans
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ashokan / Mauryan administrative cadre with judicial and rural control duties.
+
+**Ans: B.** *Rajjukas* were **officers in Mauryan administration**.
+
+**Trap:** Reducing them to mere village accountants without the imperial officer frame.
+
+</details>
+
+---
+
+**Q26. UP Lower Sub Prelims 2008**
+
+The Gujarra Minor Rock Edict that mentions the personal name Ashoka is located in —
+
+A. Maski (Karnataka)
+B. Datia (Madhya Pradesh)
+C. Siddapur (Karnataka)
+D. Ahraura (Uttar Pradesh)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Name-Ashoka MREs include Maski, Gujarra (Datia), Nettur, Udegolam — stem asks Gujarra’s district.
+
+**Ans: B.** Gujarra is in **Datia (Madhya Pradesh)**.
+
+**Trap:** Answering **Maski** because it is the most famous name-Ashoka site.
+
+</details>
+
+---
+
+**Q27. UP Lower Special Prelims 2008**
+
+Kalsi is famous for —
+
+A. Cave temples of Barabar
+B. Lion capital of Sarnath
+C. Rock edicts of Ashoka
+D. Stupa of Sanchi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dehradun / Uttarakhand Major Rock Edict site on the Yamuna belt.
+
+**Ans: C.** Kalsi is famous for the **rock edicts of Ashoka**.
+
+**Trap:** Mixing Kalsi with Sarnath or Barabar from the same Ashokan cluster.
+
+</details>
+
+---
+
+**Q28. UPPCS Special Mains 2008**
+
+The Rummindei pillar inscription marks —
+
+A. Birth of Buddha
+B. Enlightenment of Buddha
+C. First sermon of Buddha
+D. Mahaparinirvana of Buddha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ashoka’s visit and tax concession at Lumbini, the birth-place.
+
+**Ans: A.** Rummindei marks the **birth of Buddha**.
+
+**Trap:** Linking every Ashokan Buddhist pillar to the First Sermon at Sarnath.
+
+</details>
+
+---
+
+**Q29. UP UDA/LDA Prelims 2006 / UPPCS Prelims 2012**
+
+*Turamaya* of the Ashokan edicts is identified with —
+
+A. Antiochus II of Syria
+B. Antigonus Gonatas of Macedonia
+C. Ptolemy Philadelphus of Egypt
+D. Magas of Cyrene
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Greek contemporary list in RE XIII — Turamaya = Ptolemy II Philadelphus of Egypt.
+
+**Ans: C.** *Turamaya* is **Ptolemy Philadelphus** of **Egypt**.
+
+**Trap:** Matching the name to **Antiochus** (Amtiyoko) instead.
+
+</details>
+
+---
+
+**Q30. UP Lower Sub Prelims 2002**
+
+Given below are two statements:
+
+**Assertion (A):** Ashoka annexed Kalinga.
+
+**Reason (R):** Kalinga controlled important land and sea routes to South India.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests the fact of annexation; R tests the strategic motive via coastal and inland routes; R correctly explains why Kalinga mattered.
+
+**Ans: A.** Both are true and **R explains A**.
+
+**Trap:** Treating the route motive as unrelated background (code B) after accepting both facts.
+
+</details>
+
+---
+
+**Q31. UPPCS Special Mains 2004**
+
+Given below are two statements:
+
+**Assertion (A):** The Mauryas did not make religious land grants on a large scale.
+
+**Reason (R):** There was a widespread peasant revolt against the Mauryan state.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is the standard fiscal/religious-policy reading; R invents a peasant-revolt explanation that is not established for the Mauryas.
+
+**Ans: C.** **A is true, R is false.**
+
+**Trap:** Accepting a late “peasant revolt caused Mauryan fall” story as proven Reason.
+
+</details>
+
+---
+
+**Q32. UPPCS Mains 2009**
+
+A detailed account of city administration under the Mauryas is found in —
+
+A. *Arthashastra*
+B. *Indica*
+C. *Divyavadana*
+D. *Mudrarakshasa*
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Megasthenes’ six boards of municipal administration vs Kautilya’s broader state manual.
+
+**Ans: B.** Detailed city administration comes from the ***Indica***.
+
+**Trap:** Answering ***Arthashastra*** for every Mauryan administration question.
+
+</details>
+
+---
+
+**Q33. UP RO/ARO Mains 2013**
+
+Which source states that there was no slavery in Mauryan India?
+
+A. *Arthashastra*
+B. Ashokan edicts
+C. *Indica*
+D. *Mahabhashya*
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Megasthenes claims absence of slavery; *Arthashastra* admits forms of dasa labour.
+
+**Ans: C.** The claim of no slavery is from the ***Indica***.
+
+**Trap:** Assuming Kautilya also denies slavery.
+
+</details>
+
+---
+
+**Q34. UPPCS Prelims 1990**
+
+Consider the following statements about Mauryan achievements:
+
+1. Cultural development
+2. Large-scale issue of gold coins
+3. Provincial division of the empire
+4. Extension of the frontier up to the Hindukush
+
+Which of the statements given above are correct?
+
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 3 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Multi-statement filter — culture, provinces, and NW frontier are Mauryan; regular gold coinage is not.
+
+**Ans: D.** Statements **1, 3 and 4** are correct; gold coins are not a Mauryan hallmark.
+
+**Trap:** Adding punch-marked silver / copper familiarity into a false “Mauryan gold” claim (statement 2).
+
+</details>
+
+---
+
+**Q35. UPPCS Prelims 2017**
+
+Which of the following is **not** true of the Barabar caves?
+
+A. They were dedicated to the Ajivikas
+B. They show highly polished interiors
+C. They are located in the Gaya region of Bihar
+D. They belong to the 6th century B.C.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NOT-true stem — Barabar is Mauryan (3rd century B.C.), not sixth-century BC.
+
+**Ans: D.** It is **not** true that Barabar belongs to the **6th century B.C.**
+
+**Trap:** Pushing the caves back to the age of Mahavira / Buddha because of Ajivika association.
+
+</details>
+
+---
+
+**Q36. UP Lower Sub Mains 2015**
+
+Who among the following is credited with establishing hospitals and herbal gardens?
+
+A. Ashoka
+B. Chandragupta Maurya
+C. Bindusara
+D. Kanishka
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ashokan welfare claims — medical care for men and animals, and planting of medicinal herbs.
+
+**Ans: A.** Hospitals / herbal gardens are credited to **Ashoka**.
+
+**Trap:** Shifting welfare works to **Chandragupta** via the *Arthashastra* state ideal.
+
+</details>
+
+---
+
+**Q37. UPPCS Prelims 1993**
+
+Who emphasised *rajdharma* based on longanimity, liberty and compassion?
+
+A. Ashoka
+B. Chandragupta Maurya
+C. Kautilya
+D. Manu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ethical kingship language of Dhamma — patience, freedom, and compassion — fits Ashoka, not Kautilyan realpolitik.
+
+**Ans: A.** This *rajdharma* framing is linked to **Ashoka**.
+
+**Trap:** Assigning every *rajdharma* phrase to **Manu** or **Kautilya**.
+
+</details>
+
+---
+
+**Q38. UP Lower Sub Prelims 2008**
+
+Which classical writer mentions Sandrokottos meeting Alexander?
+
+A. Megasthenes
+B. Justin
+C. Pliny
+D. Strabo
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Justin’s epitome preserves the youthful Sandrokottos–Alexander meeting tradition.
+
+**Ans: B.** The meeting tradition is from **Justin**.
+
+**Trap:** Crediting **Megasthenes** for every Chandragupta–Greek anecdote.
 
 </details>
 
@@ -1963,29 +2616,159 @@ All keys are in the bold lines above. Full stems live in Ghatnachakra Maurya pag
 
 ### UKPCS (beyond 2025)
 
-**Q39. UK Lower Sub Pre 2010** — India’s oldest dynasty among options — **Ans: B Maurya**.
+**Q39. UK Lower Sub Prelims 2010**
 
-**Q40. UKPCS Pre 2016** — Sandrocottos (Justin) — **Ans: A Chandragupta Maurya**.
+Which of the following is the oldest dynasty among the options?
 
-**Q41. UKPCS Pre 2024** — Who constructed Sudarshana Lake — **Ans: A Chandragupta Maurya** (via Pushyagupta).
-
-**Q42. UKPCS Pre 2024** — Two types of philosophers Brahmins and Shramanas — **Ans: B Megasthenes**.
-
-**Q43. UKPCS Pre 2010** — Most famous Mauryan learning centre — **Ans: C Taxila**.
-
-**Q44. UKPCS Pre 2021** — Pranayam in Mauryan period — **Ans: A Emergency Tax**.
-
-**Q45. UK UDA/LDA Mains 2007** — Ashokan rock edicts in Uttarakhand — **Ans: D Kalsi**.
+A. Gupta
+B. Maurya
+C. Kushana
+D. Pushyabhuti
 
 <details>
-<summary>Show answer keys for UKPCS Q39–Q45</summary>
+<summary>Show answer</summary>
 
-Keys are bolded in each stem. Sudarshana repair story continues in Topic 8 (Rudradaman).
+**Logic:** Relative chronology among given imperial houses — Mauryas are earliest.
+
+**Ans: B.** Among the options, **Maurya** is the oldest.
+
+**Trap:** Ranking **Kushana** before Gupta correctly but still after Maurya, then mis-picking Gupta as “classical oldest.”
 
 </details>
 
 ---
 
+**Q40. UKPCS Prelims 2016**
+
+Sandrocottos mentioned by Justin is identified with —
+
+A. Chandragupta Maurya
+B. Chandragupta I
+C. Samudragupta
+D. Chandragupta II
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Greek / Latin Sandrokottos–Androcottus = Chandragupta Maurya, not a Gupta emperor.
+
+**Ans: A.** Sandrocottos is **Chandragupta Maurya**.
+
+**Trap:** Gupta Chandraguptas sharing the same personal name.
+
+</details>
+
+---
+
+**Q41. UKPCS Prelims 2024**
+
+Who constructed the Sudarshana Lake?
+
+A. Chandragupta Maurya
+B. Ashoka
+C. Rudradaman
+D. Skandagupta
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Junagadh tradition — Pushyagupta built it for Chandragupta Maurya; Rudradaman and later Skandagupta repaired it.
+
+**Ans: A.** Construction is credited to **Chandragupta Maurya** (via Pushyagupta).
+
+**Trap:** Answering **Rudradaman**, who renovated the lake without forced labour.
+
+</details>
+
+---
+
+**Q42. UKPCS Prelims 2024**
+
+Who mentions two types of philosophers — Brahmins and Shramanas?
+
+A. Seleucus Nicator
+B. Megasthenes
+C. Fa-Hien
+D. Hiuen Tsang
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Greek ethnographic division of Indian philosophers in the *Indica* tradition.
+
+**Ans: B.** **Megasthenes** mentions Brahmins and Shramanas.
+
+**Trap:** Crediting later Chinese pilgrims for the same binary.
+
+</details>
+
+---
+
+**Q43. UKPCS Prelims 2010**
+
+The most famous Mauryan centre of learning was —
+
+A. Nalanda
+B. Vikramashila
+C. Taxila
+D. Vallabhi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Taxila as the NW learning hub in the Mauryan age; Nalanda is later.
+
+**Ans: C.** The famous Mauryan learning centre is **Taxila**.
+
+**Trap:** Answering **Nalanda** from medieval Buddhist university fame.
+
+</details>
+
+---
+
+**Q44. UKPCS Prelims 2021**
+
+In the Mauryan period, *Pranaya* meant —
+
+A. Emergency Tax
+B. Land grant to Brahmins
+C. Forced labour
+D. Irrigation cess
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Pranaya* / *pranaya* levy = extraordinary / emergency fiscal demand in distress.
+
+**Ans: A.** *Pranaya* was an **emergency tax**.
+
+**Trap:** Confusing it with *vishti* (forced labour) or ordinary *bhaga*.
+
+</details>
+
+---
+
+**Q45. UK UDA/LDA Mains 2007**
+
+Ashokan rock edicts in Uttarakhand are found at —
+
+A. Kashipur
+B. Almora
+C. Haridwar
+D. Kalsi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sole major Ashokan rock-edict site of the state — Kalsi (Dehradun belt).
+
+**Ans: D.** The Uttarakhand site is **Kalsi**.
+
+**Trap:** Guessing pilgrimage towns like Haridwar without an Ashokan RE corpus.
+
+</details>
+
+---
 ### Years with zero extra hits in local `pyq/` folder
 
 **2021, 2019, 2018** UPPCS GS folder — no further recent Prelims hit beyond the 2020–2024 set already banked. Older UPPCS / RO-ARO / Lower / UKPCS stems above close the Ghatnachakra gap.

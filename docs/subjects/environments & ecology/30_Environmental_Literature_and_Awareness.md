@@ -537,15 +537,237 @@ Options: A. Brundtland — Our Common Future B. Carson — Limits to Growth C. H
 
 ## Complete PYQ Bank (Topic 30)
 
-**Q1. UPPCS 2024, Q51** — Brundtland popularised SD; ≠ Limits to Growth → **Ans: DQ2. UPPCS 2020, Q17** — Silent Spring = Rachel Carson → **Ans: CQ3. UPPCS 2020** — 1987 UN report = Our Common Future → **Ans: BQ4. UPPCS 2023, Q132** — Agenda 21 = Sustainable Development → **Ans: AQ5. UPPCS 2025, Q139** — LiFE June 2022; not COP-25 → **Ans: DQ6. UPSC pattern** — Tragedy of Commons = Garrett Hardin
+**A/R logic:** A tests Brundtland → SD popularisation; R wrongly names Limits to Growth as Brundtland Report.
 
-**Q7. UPSC pattern** — Tbilisi 1977 = Environmental Education
+**Q1. UPPCS Prelims 2024, Q51**
 
-**Q8. Pattern** — Art 51A(g) Fundamental Duty
+Assertion (A): Sustainable Development was popularised by the Brundtland Report.
+Reason (R): The Brundtland Report is also known as "The Limits to Growth".
 
-**Q9. Pattern** — ECO Club / NGC under MoEFCC
+A. Both true; R does not explain A
 
-**Q10. Pattern** — Van Mahotsav July / K.M. Munshi
+B. A false; R true
+
+C. Both true; R explains A
+
+D. A true; R false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** A is true — *Our Common Future* (1987) popularised SD. R is false — *Limits to Growth* (1972) is **Club of Rome**, not Brundtland. **Trap:** Club of Rome title glued to Brundtland name.
+
+</details>
+
+---
+
+**Logic:** Silent Spring authorship — Rachel Carson 1962, not Hardin or Club of Rome.
+
+**Q2. UPPCS Prelims 2020, Q17**
+
+*Silent Spring* (1962) was written by:
+
+A. Carolyn Merchant
+
+B. Karl Marx
+
+C. Rachel Carson
+
+D. Rajgopalan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Carson exposed pesticide harm (especially DDT) and catalysed modern environmental awareness. **Trap:** Garrett Hardin (*Tragedy of the Commons*, 1968) or Brundtland for Carson works.
+
+</details>
+
+---
+
+**Logic:** 1987 WCED report title — Our Common Future = Brundtland Report.
+
+**Q3. UPPCS Prelims 2020 — pattern**
+
+The 1987 UN report that defined and popularised sustainable development is:
+
+A. Silent Spring
+
+B. Our Common Future
+
+C. Limits to Growth
+
+D. Hind Swaraj
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Brundtland Commission / WCED produced ***Our Common Future* (1987)**. **Trap:** Limits to Growth (1972) or Silent Spring (1962) year-title swap.
+
+</details>
+
+---
+
+**Logic:** Agenda 21 primary frame — Rio 1992 sustainable-development action plan (Chapter 36 covers EE as one part).
+
+**Q4. UPPCS Prelims 2023, Q132**
+
+Agenda-21 of Rio Summit (1992) is related to—
+
+A. Sustainable Development
+
+B. Polluter Pays
+
+C. Environmental Education alone
+
+D. Ozone Layer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Agenda 21 is Rio's non-binding **SD** action plan; EE appears inside it but is not the sole headline. **Trap:** Picking "Environmental Education only" because Tbilisi/EE syllabus overlap.
+
+</details>
+
+---
+
+**Logic:** LiFE launch June 2022 true; COP-25 Madrid idea false — idea at COP-26 Glasgow 2021.
+
+**Q5. UPPCS Prelims 2025, Q139**
+
+With reference to Mission LiFE:
+
+1. It was launched in June 2022.
+2. The idea was first proposed at COP-25 Madrid.
+
+A. Only 2
+
+B. Neither
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Launch **June 2022** is correct; the idea came at **COP-26 Glasgow (2021)**, not COP-25 Madrid. **Trap:** Any "COP-25 LiFE" distractor.
+
+</details>
+
+---
+
+**Logic:** Tragedy of the Commons essay — Garrett Hardin 1968.
+
+**Q6. UPSC pattern**
+
+"The Tragedy of the Commons" (1968) was written by:
+
+A. Garrett Hardin
+
+B. Rachel Carson
+
+C. Brundtland Commission
+
+D. Club of Rome
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hardin's essay on overuse of shared resources — distinct from Carson (1962) and Club of Rome *Limits* (1972). **Trap:** Hardin credited with *Silent Spring*.
+
+</details>
+
+---
+
+**Logic:** Tbilisi 1977 — landmark Environmental Education declaration; not Stockholm UNEP birth (1972).
+
+**Q7. UPSC pattern**
+
+The Tbilisi Declaration (1977) is chiefly associated with:
+
+A. Environmental Education
+
+B. Ozone layer protection
+
+C. Wetlands wise use
+
+D. Carbon credit trading
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Tbilisi (1977)** formalised global EE principles after Stockholm (1972) put EE on the agenda. **Trap:** Stockholm 1972 = UNEP creation, not Tbilisi EE milestone.
+
+</details>
+
+---
+
+**Logic:** Art 51A(g) — Fundamental Duty to protect environment; distinct from Art 48A State policy.
+
+**Q8. Pattern**
+
+Protection of the natural environment is a duty of every citizen under:
+
+A. Article 51A(g) of the Constitution
+
+B. Article 368 only
+
+C. Schedule 7 List I alone
+
+D. Wildlife Protection Act 1972 Section 35
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Art 51A(g)** is the citizen's fundamental duty; **Art 48A** is the State's directive principle. **Trap:** Mixing fundamental duty with DPSP or WPA sections.
+
+</details>
+
+---
+
+**Logic:** ECO Club / National Green Corps under MoEFCC — not CPCB pollution enforcement.
+
+**Q9. Pattern**
+
+ECO Clubs under the National Green Corps programme are run by:
+
+A. Ministry of Environment, Forest and Climate Change
+
+B. Central Pollution Control Board alone
+
+C. Reserve Bank of India
+
+D. International Solar Alliance secretariat only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** NGC/ECO Club is MoEFCC's school EE network (~2001-02 national push). **Trap:** CPCB because "environment" appears in both names.
+
+</details>
+
+---
+
+**Logic:** Van Mahotsav — July plantation week; K.M. Munshi; not February or WED June.
+
+**Q10. Pattern**
+
+Van Mahotsav, the tree-plantation campaign associated with K.M. Munshi, is observed in:
+
+A. July
+
+B. February
+
+C. 5 June
+
+D. 22 April
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Van Mahotsav = July** mass planting drive in India. **Trap:** 5 June (WED), 22 April (Earth Day), or 21 March (International Day of Forests).
+
+</details>
 
 ---
 

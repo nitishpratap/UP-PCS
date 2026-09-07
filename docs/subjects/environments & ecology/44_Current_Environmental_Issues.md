@@ -634,15 +634,194 @@ Options: A. India net zero 2070; MISHTI 2023; LiFE launch 2022/idea COP26; micro
 
 ## Complete PYQ Bank (Topic 44)
 
-**Q1. UPPCS 2025, Q139** — LiFE: launch June 2022 true; COP-25 Madrid false → **Ans: D (Only 1)Q2. UPPCS 2025, Q93** — MISHTI restore mangroves true; 2019 false → **Ans: A (Only 2)Q3. UPPCS 2024, Q6** — Emissions Gap Report = **UNEP** → **Ans: A (3 1 4 2)Q4. UPPCS 2021, Q70** — Net-zero for 2050: Only stmt 2 (balance by removals) → **Ans: BQ5. Pattern** — Ecological footprint = human pressure on nature; unit **ghaQ6. Pattern** — Carbon footprint unit **tCO₂e**; Scope 1/2/3
+**Logic:** LiFE — launch June 2022 true; idea was at COP26 Glasgow 2021, not COP-25 Madrid.
 
-**Q7. Pattern** — India net zero **2070** at COP26; NDC 45%/50%/forest sink
+**Q1. UPPCS Prelims 2025, Q139**
 
-**Q8. Pattern** — Microplastics **<5 mm**; SUP ban 2022
+With reference to Mission LiFE, consider the following statements:
 
-**Q9. Pattern** — Green Hydrogen Mission **2023**; **5 MMT** by 2030; grey ≠ green
+1. It was launched in June 2022.
+2. The idea was proposed at COP-25 in Madrid.
 
-**Q10. Pattern** — Blue economy = SDG 14; circular ⊂ green; NbS ≠ geoengineering; no 1951 climate-refugee status
+A. Only 2
+B. Neither
+C. Both
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Only 1).** Launch **June 2022** true; idea = **COP26 Glasgow 2021**, not COP-25 Madrid. **Trap:** Madrid 2019 COP number swap.
+
+</details>
+
+**Logic:** MISHTI restores mangroves (true) but was announced in Union Budget 2023–24, not 2019.
+
+**Q2. UPPCS Prelims 2025, Q93**
+
+With reference to MISHTI, consider the following statements:
+
+1. It was initiated in 2019.
+2. It aims to restore mangrove forests.
+
+A. Only 2
+B. Neither
+C. Both
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Only 2).** Mangrove restoration aim true; year is **Budget 2023–24**, not 2019. **Trap:** Any coastal scheme dated to 2019 by habit.
+
+</details>
+
+**Logic:** Org–report match — Emissions Gap Report publisher is UNEP, not IPCC or UNDP.
+
+**Q3. UPPCS Prelims 2024, Q6**
+
+In the organisation–report match set, Emissions Gap Report corresponds to:
+
+A. UNEP
+B. IPCC
+C. UNDP
+D. WWF
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Full paper code **A (3 1 4 2)** — Gap→**UNEP**; HDR→UNDP; WEO→IMF; WIR→UNCTAD. **Trap:** IPCC because “emissions” sounds like climate science body.
+
+</details>
+
+**Logic:** Net zero allows balance via removals — not the same as gross zero (all emissions to absolute zero by 2050).
+
+**Q4. UPPCS Prelims 2021, Q70**
+
+With reference to the ‘NET-ZERO’ goal for 2050:
+
+1. It means emissions are brought down to zero by 2050.
+2. Emissions will be compensated by absorption and removal of GHGs.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Only 2).** Stmt 1 = **gross zero** wording; net zero **balances** with sinks/removals. **Trap:** Treating net zero as “no emissions at all.”
+
+</details>
+
+**Logic:** Ecological footprint measures human pressure on nature in global hectares (gha) — broader than GHG-only carbon accounting.
+
+**Q5. UPPCS Prelims (pattern)**
+
+Ecological footprint is best described as measuring:
+
+A. Human demand on biologically productive land and water in global hectares (gha)
+B. Total GHGs only in tCO₂e
+C. Noise in decibels around silence zones
+D. BOD in mg/L only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **EF in gha** includes cropland, forest, carbon uptake land, etc. **Trap:** Same unit as carbon footprint (tCO₂e).
+
+</details>
+
+**Logic:** Carbon footprint unit is tCO₂e; Scope 1 direct, Scope 2 purchased energy, Scope 3 value chain.
+
+**Q6. UPPCS Prelims (pattern)**
+
+Carbon footprint is expressed in:
+
+A. Tonnes of CO₂ equivalent (tCO₂e)
+B. Global hectares only
+C. Decibels (dB)
+D. Dobson Units
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **tCO₂e** for GHG totals; scopes 1/2/3 cover direct, purchased energy, and indirect chain. **Trap:** gha unit from ecological footprint.
+
+</details>
+
+**Logic:** India pledged net zero by 2070 at COP26 Glasgow 2021 — not 2050 like EU/UK.
+
+**Q7. UPPCS Prelims (pattern)**
+
+India’s net-zero emissions pledge year is:
+
+A. 2070
+B. 2050
+C. 2030
+D. 2100
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Net zero by 2070** (COP26, 2021); NDC 2030 has 45% intensity cut and 50% non-fossil capacity tracks. **Trap:** 2050 EU/UK year applied to India.
+
+</details>
+
+**Logic:** Microplastics are plastic particles smaller than 5 mm — primary (microbeads) or secondary (fragmentation).
+
+**Q8. UPPCS Prelims (pattern)**
+
+Microplastics are plastic particles smaller than:
+
+A. 5 mm
+B. 5 cm
+C. 5 m
+D. 50 km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Threshold **<5 mm**; India’s **SUP ban July 2022** cuts primary sources. **Trap:** 5 cm or “biodegrade in weeks” distractors.
+
+</details>
+
+**Logic:** Green hydrogen from renewable-powered electrolysis; National Green Hydrogen Mission January 2023 targets ~5 MMT/year by 2030.
+
+**Q9. UPPCS Prelims (pattern)**
+
+Green hydrogen is produced mainly by:
+
+A. Water electrolysis using renewable electricity
+B. Natural gas reforming without carbon capture (grey hydrogen)
+C. Coal gasification only
+D. Diesel generator electrolysis
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Green H₂** = renewables + electrolysis; **Mission 2023 → ~5 MMT by 2030**. **Trap:** Grey hydrogen labelled “green.”
+
+</details>
+
+**Logic:** Blue economy = SDG 14 oceans; circular economy = material loops (SDG 12); NbS = ecosystem actions, not geoengineering; climate migrants lack 1951 Refugee Convention status.
+
+**Q10. UPPCS Prelims (pattern)**
+
+Which set is **correct**?
+
+A. Blue economy → SDG 14; circular economy ⊂ green economy; NbS = protect/manage/restore ecosystems; “climate refugee” is not a formal 1951 Convention category
+B. Circular economy = identical to green economy always; microplastics >5 cm; India net zero 2050; LiFE idea at COP-25 Madrid
+C. Green hydrogen = grey natural-gas reforming; MISHTI started 2019; Emissions Gap Report by IPCC
+D. Ecological footprint in tCO₂e; carbon footprint in gha; NbS = sulphate aerosol injection
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Consolidates syllabus traps: **SDG 14**, **circular ⊂ green**, **NbS ≠ geoengineering**, **no 1951 climate-refugee status**. **Trap:** Any option mixing footprint units or LiFE/MISHTI dates.
+
+</details>
 
 ---
 

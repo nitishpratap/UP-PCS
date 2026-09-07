@@ -717,15 +717,284 @@ D. Both false
 
 ## Complete PYQ Bank (Topic 23)
 
-**Q1. UPPCS 2025, Q134** — CDP → DPAP → FWP → TRYSEM → **Ans: B (2, 4, 1, 3)Q2. UPPCS 2024, Q86** — Piral Lao: fire reduction + income; Uttarakhand CM → **Ans: D (Both)Q3. UPPCS 2021, Q26** — NDMA Ex-officio Chair = Prime Minister → **Ans: AQ4. UPPCS 2020, Q74** — Cyclone names: Baguios–Philippines; Hurricanes–USA; Typhoons–China; Willy-Willies–Australia → **Ans: B (3 4 2 1)Q5. UPPCS 2019** — Tropical cyclone regional names matching → same fact set
+**Q1. UPPCS Prelims 2025, Q134**
 
-**Q6. UPPCS 2018, Q133** — Mangroves reduce cyclone impact (stmt true); India not disaster-free → **Ans: C (1, 2, 4)Q7. UPSC pattern** — Sendai Framework = DRR 2015
+Arrange the following programmes in chronological order of commencement:
 
-**Q8. UPSC pattern** — Kedarnath 2013 = cloudburst–landslide–flood
+1. Food for Work Programme
+2. Community Development Programme
+3. TRYSEM
+4. Drought Prone Areas Programme
 
-**Q9. UPSC pattern** — Storm surge = cyclone wind-driven coastal flooding
+A. 4, 2, 3, 1
 
-**Q10. UPSC pattern** — Eye calm; eyewall strongest
+B. 2, 4, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chronology stem — CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979.
+
+**Ans: B (2, 4, 1, 3).** Order: **CDP → DPAP → FWP → TRYSEM**.
+
+**Trap:** DPAP **1973** swapped with CDP **1952**.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q86**
+
+With reference to the "Piral Lao – Paise Pao" campaign, consider the following statements:
+
+1. It reduces forest fires and gives income to villagers.
+2. It was launched by the Chief Minister of Uttarakhand.
+
+A. Only 1
+
+B. Neither 1 nor 2
+
+C. Only 2
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Uttarakhand pine-needle collection — fire fuel reduction plus livelihood.
+
+**Ans: D (Both 1 and 2).** Both fire-prevention and CM-launch statements are correct.
+
+**Trap:** Assigning the scheme to **UP** instead of Uttarakhand.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2021, Q26**
+
+Who is the ex-officio Chairman of the National Disaster Management Authority (NDMA)?
+
+A. The Prime Minister
+
+B. The Home Minister
+
+C. The Defence Minister
+
+D. The Health and Family Welfare Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NDMA under DM Act 2005 — PM is ex-officio Chair; NDRF handles response.
+
+**Ans: A.** The **Prime Minister** is the ex-officio **NDMA Chairman**.
+
+**Trap:** **Home Minister** — common false association with disaster response.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2020, Q74**
+
+Match List-I with List-II:
+
+| List-I (Tropical cyclones) | List-II (Country/region) |
+| --- | --- |
+| A. Baguios | 1. Australia |
+| B. Hurricanes | 2. China |
+| C. Typhoons | 3. Philippines |
+| D. Willy-Willies | 4. United States of America |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 3 4 2 1
+
+C. 2 3 4 1
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Regional cyclone naming — Baguios–Philippines; Hurricanes–USA; Typhoons–China/NW Pacific; Willy-Willies–Australia.
+
+**Ans: B (3 4 2 1).** **Baguios–Philippines; Hurricanes–USA; Typhoons–China; Willy-Willies–Australia**.
+
+**Trap:** Swapping **Typhoons** (China) with **Hurricanes** (USA).
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2019, Q78**
+
+Match List-I with List-II:
+
+| List-I (Cyclone name) | List-II (Country) |
+| --- | --- |
+| A. Willy-Willies | 1. Philippines |
+| B. Taifu | 2. Australia |
+| C. Baguio | 3. Japan |
+| D. Hurricanes | 4. U.S.A. |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 2 3 4 1
+
+C. 1 3 2 4
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same regional naming set as 2020 Q74 with variant list labels.
+
+**Ans: D (2 3 1 4).** Willy-Willies–Australia; Taifu–Japan; Baguio–Philippines; Hurricanes–USA.
+
+**Trap:** **Taifu** (Japan) confused with **Typhoon** generic label only.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2018, Q133**
+
+Which of the following statements are true?
+
+1. Natural disasters cause maximum damage in developing countries.
+2. Bhopal gas tragedy was man-made.
+3. India is a disaster-free country.
+4. Mangroves reduce the impact of cyclones.
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 2 and 4
+
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Developing-country vulnerability + man-made Bhopal + mangrove buffer; India is **not** disaster-free.
+
+**Ans: C (1, 2 and 4).** Statements 1, 2, and 4 are true.
+
+**Trap:** Statement 3 — India faces floods, cyclones, droughts, landslides, and earthquakes.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims pattern — Sendai Framework**
+
+The Sendai Framework (2015) primarily relates to:
+
+A. Disaster risk reduction
+
+B. Ozone layer protection
+
+C. Wildlife trade regulation
+
+D. Carbon credit trading
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sendai 2015 = global DRR framework parallel to India's NDMA architecture.
+
+**Ans: A.** **Sendai Framework is for disaster risk reduction**.
+
+**Trap:** Montreal (ozone) or Kyoto (carbon) cross-topic distractors.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims pattern — Kedarnath 2013**
+
+The Kedarnath disaster of 2013 is best described as a cascade involving:
+
+A. Cloudburst leading to landslides and flash floods
+
+B. Purely tectonic earthquake with no rainfall link
+
+C. Tsunami after submarine earthquake
+
+D. Volcanic eruption in Garhwal Himalaya
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Classic environment–disaster chain — extreme rain → slope failure → downstream flood.
+
+**Ans: A.** **Cloudburst–landslide–flash flood** cascade.
+
+**Trap:** Pure earthquake or tsunami framing — Kedarnath was hydrometeorological + mass movement.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims pattern — storm surge**
+
+Storm surge during a tropical cyclone is caused mainly by:
+
+A. Cyclone winds pushing seawater onshore
+
+B. Calm eye of the cyclone drawing water inward only
+
+C. Lunar tides alone without wind
+
+D. Ozone depletion over the ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Surge = wind-driven coastal flooding — often deadlier than wind on flat coasts.
+
+**Ans: A.** **Cyclone winds push seawater onshore** as storm surge.
+
+**Trap:** **Eye** is calm — strongest winds and surge occur in the **eyewall**, not the eye.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims pattern — cyclone structure**
+
+In a mature tropical cyclone, the strongest winds are found in the:
+
+A. Eye
+
+B. Eyewall
+
+C. Outer rainbands only
+
+D. Stratosphere above the storm
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Eye = calm low pressure; eyewall = maximum wind and rain ring.
+
+**Ans: B.** The **eyewall** has the **strongest winds**.
+
+**Trap:** **Eye** — calm centre, not maximum wind zone.
+
+</details>
 
 ---
 

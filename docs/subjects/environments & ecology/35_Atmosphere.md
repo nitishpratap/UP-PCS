@@ -580,15 +580,236 @@ Options: A. Ozone=stratosphere; heat=longwave from surface; weather=troposphere;
 
 ## Complete PYQ Bank (Topic 35)
 
-**Q1. UPPCS 2023, Q52** — Ozone layer = Stratosphere → **Ans: CQ2. UPPCS 2022, Q138** — Atmosphere heated by long-wave terrestrial radiation → **Ans: AQ3. UPPCS 2018, Q52** — Max ozone = Stratosphere → **Ans: CQ4. UPPCS 2018, Q57** — Ozone layer–Troposphere NOT matched
+**Logic:** Ozone layer location — ~90% of atmospheric ozone sits in the stratosphere, not troposphere.
 
-**Q5. UPPCS 2025, Q45** — Ozone protects from UV; depletion linked to CFCs → both correct
+**Q1. UPPCS Prelims 2023, Q52**
 
-**Q6. UPPCS 2021, Q134** — Light diffusion due to dust particles → **Ans: BQ7. UPPCS 2020, Q139** — Nitrogen oxide NOT the listed natural GHG → **Ans: AQ8. Pattern** — Weather = troposphere only
+The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
 
-**Q9. Pattern** — Meteors = mesosphere; aurora/ISS = thermosphere
+A. Troposphere
 
-**Q10. Pattern** — N₂ 78%, O₂ 21%, Ar ~0.93%
+B. Mesosphere
+
+C. Stratosphere
+
+D. Thermosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Protective ozone maximum is in the **stratosphere** (~15–35 km). **Trap:** Troposphere because of ground-level photochemical ozone pollution.
+
+</details>
+
+---
+
+**Logic:** Atmospheric heating — surface emits longwave IR that warms the lower atmosphere from below.
+
+**Q2. UPPCS Prelims 2022, Q138**
+
+The Earth's atmosphere is mainly heated by which one of the following?
+
+A. Long-wave terrestrial radiation
+
+B. Scattered solar radiation
+
+C. Reflected solar radiation
+
+D. Short-wave solar radiation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The surface absorbs shortwave solar energy and re-emits **longwave terrestrial radiation** that heats the troposphere. **Trap:** Direct shortwave heats the ground first, not the main lower-air heating mechanism.
+
+</details>
+
+---
+
+**Logic:** Maximum ozone concentration layer — stratosphere in both 2018 and 2023 stems.
+
+**Q3. UPPCS Prelims 2018, Q52**
+
+The maximum concentration of Ozone is found in which of the following?
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Exosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Stratosphere** holds peak ozone column. **Trap:** Mesosphere (meteors) or exosphere (satellites).
+
+</details>
+
+---
+
+**Logic:** Wrong pair trap — ozone layer is never in troposphere on match lists.
+
+**Q4. UPPCS Prelims 2018, Q57**
+
+Which of the following pairs is **NOT** correctly matched?
+
+A. Renneting — Cheese
+
+B. Genetic Engineering — Plasmids
+
+C. Golden rice — Vitamin A
+
+D. Ozone layer — Troposphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ozone layer = **stratosphere**. A, B, C are correctly matched distractors. **Trap:** Accepting ozone anywhere in the atmosphere as the protective layer location.
+
+</details>
+
+---
+
+**Logic:** Stratospheric ozone protects from UV; CFCs linked to depletion — both statements true.
+
+**Q5. UPPCS Prelims 2025, Q45**
+
+With reference to the ozone layer:
+
+1. It protects Earth's surface from solar ultraviolet radiation.
+2. Ozone depletion has been linked to CFCs.
+
+A. Only 2
+
+B. Neither
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Good stratospheric ozone shields **UV**; **CFCs/ODS** drive anthropogenic depletion. **Trap:** Denying CFC link or treating all ozone as harmful ground pollutant.
+
+</details>
+
+---
+
+**Logic:** Light scattering — dust aerosols scatter sunlight (blue sky, red sunset).
+
+**Q6. UPPCS Prelims 2021, Q134**
+
+Diffusion of light in the atmosphere takes place due to
+
+A. Carbon dioxide
+
+B. Dust particles
+
+C. Helium
+
+D. Water vapours
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dust/aerosols** scatter visible light. **Trap:** CO2 (GHG IR trapping) or water vapour alone without aerosol context.
+
+</details>
+
+---
+
+**Logic:** Natural GHG set — CO2, CH4, O3 yes; nitrogen oxides not in the classic natural GHG list tested here.
+
+**Q7. UPPCS Prelims 2020, Q139**
+
+Which is **NOT** a greenhouse gas found naturally in the atmosphere?
+
+A. Nitrogen oxide
+
+B. Carbon dioxide
+
+C. Methane
+
+D. Ozone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **CO2, CH4, O3** are natural GHGs in this stem set; **NOx** is not treated as that major natural GHG basket. **Trap:** Confusing N2 (not GHG) with N2O (is GHG).
+
+</details>
+
+---
+
+**Logic:** Weather phenomena — confined to troposphere where water vapour and convection dominate.
+
+**Q8. Pattern**
+
+Weather (clouds, storms, rainfall) occurs mainly in the:
+
+A. Troposphere
+
+B. Stratosphere
+
+C. Mesosphere
+
+D. Thermosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Troposphere** alone has day-to-day weather. **Trap:** Stratosphere because ozone or jet streams are taught nearby.
+
+</details>
+
+---
+
+**Logic:** Meteors burn in mesosphere; aurora/ISS in thermosphere — layer-function pairing.
+
+**Q9. Pattern**
+
+Which pair is correctly matched?
+
+A. Meteors burning up — Mesosphere
+
+B. Meteors burning up — Troposphere
+
+C. Aurora borealis — Troposphere only
+
+D. International Space Station orbit — Exosphere only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Meteors ~50–85 km (mesosphere)**; aurora/ISS sit in **thermosphere** band. **Trap:** Putting meteors in troposphere because shooting stars appear in the sky below.
+
+</details>
+
+---
+
+**Logic:** Dry air composition — N2 ~78%, O2 ~21%, Ar ~0.93%; N2 is not a GHG.
+
+**Q10. Pattern**
+
+Near-surface dry air composition includes:
+
+A. Nitrogen ~78%, Oxygen ~21%, Argon ~0.93%
+
+B. Oxygen ~78%, Nitrogen ~21%, CO2 ~21%
+
+C. Argon ~21%, Nitrogen ~0.04%, CO2 ~78%
+
+D. Nitrogen and oxygen both major greenhouse gases
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Permanent gases **N2/O2/Ar** dominate by volume; trace **CO2 ~0.04%** still drives enhanced greenhouse effect. **Trap:** Percentage dominance mistaken for radiative importance, or argon listed as GHG.
+
+</details>
 
 ---
 
