@@ -7,10 +7,11 @@
 
 **Network:** Railways | Roads | Waterways | Ports | Major Ports of India | Natural vs Artificial Harbours | Airports | Major International Airports | Maritime Trade
 **Schemes:** Bharatmala | Sagarmala | Dedicated Freight Corridor | National Waterways | PM Gati Shakti | National Logistics Policy | Blue Economy | Communication (Basic)
+**Tourism:** Incredible India | Hill stations & resorts | World Heritage tourist sites | City nicknames | Pilgrimage geography
 </details>
 
-> **Sources baked in:** NCERT Class 10–12 transport, Drishti / PW heads, **Ghatnachakra** Transport (CA–352+ roads → rail → water/air), UPPCS Prelims 2018–2025
-> **Weight:** ★★★★ — zone–HQ, port–state, GQ / NS–EW / Jhansi, scheme year, UP expressway/airport
+> **Sources baked in:** NCERT Class 10–12 transport, Drishti / PW heads, **Ghatnachakra** Transport (CA–352+) + **Tourism / Misc** (CA–376+), UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — zone–HQ, port–state, GQ / NS–EW / Jhansi, tourism match lists, scheme year, UP expressway/airport
 > **Last verified:** August 2026
 > **Current Affairs:** Gati Shakti 2021; NLP 2022; New Pamban; FLY91; Jewar (Noida Intl); Amrit Bharat UP 149 stations
 
@@ -74,7 +75,7 @@ D. India
 ---
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 27 Must-Score Facts
 
 1. Transport moves people and goods; communication moves information. About **95%** of India’s trade by **volume** moves by sea.
 2. India’s first passenger train ran **Mumbai–Thane in 1853**. Indian Railways is organised into about **18 zones** (older books still say 16).
@@ -100,7 +101,9 @@ D. India
 22. Uttar Pradesh has **no major seaport**. Its rail HQ fact is **NER Gorakhpur**; its waterway fact is **NW-1** on the Ganga.
 23. NHAI was set up in **1995**. Expressways are access-controlled highways, distinct from ordinary National Highways.
 24. West-coast major ports include Kandla (Deendayal), Mumbai, JNPT, Mormugao, New Mangalore and Cochin. East-coast majors include Kolkata–Haldia, Paradip, Vizag, Chennai, Ennore (Kamarajar) and Tuticorin.
-
+25. **Incredible India** is the MoT tourism brand; **ITDC** dates from **1966**. Match hill stations carefully: Chakrata–UK, Haflong–Assam, Kalimpong–WB, Kufri–HP.
+26. **City of Lakes = Udaipur** (not Jaisalmer). **Pink City = Jaipur**. **Sabarimala = Kerala**. UNESCO tourist set includes Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark.
+27. **Srisailam = Nallamala**; Omkareshwar and Pushkar are **not** on Satmala / Mahadeo in the IAS 2015 trap. **Biligiriranga** holds the standing Ranganatha lore in Karnataka.
 ---
 
 ## Confused Pairs
@@ -730,6 +733,74 @@ Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expre
 | Stations | Amrit Bharat: **149 UP stations** identified for **modernisation** (Feb 2023), out of about 1,275 all-India |
 | Waterway | **NW-1** on the Ganga (Haldia–Prayagraj) |
 | DFC pull | Western UP / NCR toward the Dadri–JNPT freight spine |
+
+---
+
+## N.10 Tourism geography
+
+Tourism sells India’s **unity in diversity**. The Ministry’s brand is **Incredible India**. **ITDC** was set up in **October 1966**. Niche tourism pushes India as a **365-day** destination for specialised interest travel. Visa-on-arrival / e-tourist visa raised arrivals in coaching lore.
+
+### Resort / hill-station match bank
+
+| Place | State / UT | Cue |
+|-------|------------|-----|
+| **Chakrata** | **Uttarakhand** (Dehradun) | Cantonment; Tiger Fall |
+| **Haflong** | **Assam** | Only hill station of Assam (Dima Hasao) |
+| **Kalimpong** | **West Bengal** | Darjeeling hills |
+| **Kufri** | **Himachal Pradesh** | Near Shimla |
+| **Kasauli** | **Himachal Pradesh** | Solan |
+| **Keylong** | **Himachal Pradesh** | Lahaul |
+| **Auli** | **Uttarakhand** | Ski / hill station |
+| **Ooty (Udhagamandalam)** | **Tamil Nadu** | Nilgiris |
+| **Gulmarg / Pahalgam** | **J&K** | Valley hill stations |
+| **Chikmagalur** | **Karnataka** | Coffee / hills |
+| **Khajjiar** | **Himachal Pradesh** | Meadow / lake lore |
+| **Banni grassland** | **Gujarat** | Kachchh |
+| **Bugyal** | **Uttarakhand** | Alpine meadow |
+
+### City nicknames and pilgrimage geography
+
+| Fact | Correct | Trap |
+|------|---------|------|
+| **Pink City** | **Jaipur** | Not Mysore |
+| **City of Lakes** | **Udaipur** | **Not Jaisalmer** |
+| **City of Joy** | Kolkata | Coaching pair |
+| **City of Mahakal** | Ujjain | Correct with Jaipur pair |
+| **Incredible India** | MoT brand | Not “Beautiful India” |
+| **Sabarimala** | **Kerala** (Ayyappa) | Not TN / KA / AP |
+| **Srisailam** | **Nallamala Hills**, Andhra Pradesh | Mallikarjuna + Bhramaramba; Jyotirlinga |
+| **Omkareshwar** | Mandhata island, **Narmada**, Madhya Pradesh | **Not** Satmala Hills |
+| **Pushkar** | Ajmer, **Aravalli** / Brahma temple | **Not** Mahadeo Hills |
+| **Biligiriranga Hills** | SE Karnataka | Standing **Ranganatha / Venkatesha** temple lore |
+| **Tirupati Venkateswara** | **Seshachalam** (Andhra Pradesh) | Not Shevaroy / Jawadhu / Biligiri as the main Tirupati hill |
+| **Udvada** | Gujarat | Zoroastrian fire temple |
+| **Point Calimere** | Nagapattinam, Tamil Nadu | Apex of **Coromandel Coast** |
+| **Konark Sun Temple** | Odisha coast; UNESCO **1984**; Narasimha Deva I | World Heritage |
+| **Champaner–Pavagarh** | Panchmahal, Gujarat; UNESCO **2004** | World Heritage |
+| **Mamallapuram** | Pallava stone town, Tamil Nadu; UNESCO | World Heritage |
+| **CST Mumbai** | Victorian Gothic terminus; UNESCO | World Heritage |
+| Ghost towns | Kuldhara, Dhanushkodi, Lakhpat | **Charkhari** is **not** a ghost town (Mahoba, UP) |
+
+- IAS **2005**: Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark are **all** on the UNESCO World Heritage List.
+- IAS **2015** pilgrimage pairs: only **Srisailam–Nallamala** is correct among the three given.
+
+---
+
+## N.11 Geography misc (Ghatnachakra CA–379+)
+
+Keep these as one-line map facts that leak into the transport–economy paper.
+
+- **Biogas** plants give **both power and manure**.
+- **Speed Post** began **1 August 1986**.
+- **Thumba (TERLS)** sits near the **geomagnetic equator** (Kerala) — that is why the rocket range was sited there.
+- **BARC** is in **Maharashtra** (Trombay); **Pokhran** is in **Rajasthan**; first reactor **Apsara** (1956).
+- **Himalayan Mountaineering Institute** — **Darjeeling**.
+- **Chandipur (Odisha)** — sea recedes far at low tide (walkable foreshore lore).
+- **Alibag** holiday resort; **Nhava Sheva** port; **Ratnagiri** fishing — Mumbai vicinity specialisation.
+- **Green Highways Policy** = **tree plantation** along highways.
+- Saree map: **Chanderi**, **Banarasi**, **Kanjivaram** — **not Moradabad** (brass / Peetal Nagri).
+- Stadiums: Aishbagh–**Bhopal**; Brabourne–**Mumbai**; Green Park–**Kanpur**; Eden Gardens–**Kolkata**.
+- Pilgrimage match: Rameswaram–TN; Dwarka–Gujarat; Sarnath–UP; Mahakal–**Ujjain** (MP).
 
 ---
 
@@ -2828,6 +2899,1251 @@ D. 4 1 3 2
 
 ---
 
+## Complete PYQ Bank — Ghatnachakra Tourism & Geography Misc (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CA–376 onward (tourism then misc). Teaching facts live in N.10–N.11. No Logic lines.
+
+**Q-GC1. Ghatnachakra / standard**
+
+Match List-I with List-II and select the correct answer using the code given below:
+
+| List-I (Hill station / resort) | List-II (State / UT) |
+|---|---|
+| A. Chakrata | 1. Assam |
+| B. Haflong | 2. Himachal Pradesh |
+| C. Kalimpong | 3. Uttarakhand |
+| D. Kufri | 4. West Bengal |
+
+*Row order is not the answer.*
+
+A. A-3, B-1, C-4, D-2
+
+B. A-1, B-3, C-2, D-4
+
+C. A-4, B-2, C-1, D-3
+
+D. A-2, B-4, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Chakrata** is in **Uttarakhand**; **Haflong** is in **Assam**; **Kalimpong** is in **West Bengal**; **Kufri** is in **Himachal Pradesh**.
+
+</details>
+
+**Q-GC2. Ghatnachakra / standard**
+
+Match List-I with List-II:
+
+| List-I (Place) | List-II (State / UT) |
+|---|---|
+| A. Gulmarg | 1. Gujarat |
+| B. Kasauli | 2. Himachal Pradesh |
+| C. Udvada | 3. Jammu & Kashmir |
+| D. Point Calimere | 4. Tamil Nadu |
+
+*Row order is not the answer.*
+
+A. A-3, B-2, C-1, D-4
+
+B. A-2, B-3, C-4, D-1
+
+C. A-3, B-1, C-2, D-4
+
+D. A-4, B-2, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Gulmarg** is in **J&K**; **Kasauli** is in **Himachal Pradesh**; **Udvada** (Parsi fire temple) is in **Gujarat**; **Point Calimere** is in **Tamil Nadu**.
+
+</details>
+
+**Q-GC3. Ghatnachakra / standard**
+
+Match List-I with List-II:
+
+| List-I (Hill station) | List-II (State) |
+|---|---|
+| A. Keylong | 1. Karnataka |
+| B. Auli | 2. Himachal Pradesh |
+| C. Chikmagalur | 3. Tamil Nadu |
+| D. Ooty | 4. Uttarakhand |
+
+*Row order is not the answer.*
+
+A. A-2, B-4, C-1, D-3
+
+B. A-4, B-2, C-3, D-1
+
+C. A-1, B-3, C-2, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Keylong** (Lahaul) is in **Himachal Pradesh**; **Auli** is in **Uttarakhand**; **Chikmagalur** is in **Karnataka**; **Ooty** is in **Tamil Nadu**.
+
+</details>
+
+**Q-GC4. IAS Prelims 2005-type**
+
+Consider the following sites:
+
+1. Champaner–Pavagarh
+2. Chhatrapati Shivaji Terminus (CST), Mumbai
+3. Mamallapuram
+4. Konark Sun Temple
+
+How many of the above are on the **UNESCO World Heritage List**?
+
+A. Only one
+
+B. Only two
+
+C. Only three
+
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** In the **IAS 2005** stem **all four** — **Champaner–Pavagarh**, **CST Mumbai**, **Mamallapuram** and **Konark** — were marked as UNESCO World Heritage Sites.
+
+</details>
+
+**Q-GC5. Ghatnachakra / standard**
+
+Which city is known as the **Pink City**?
+
+A. Jodhpur
+
+B. Jaipur
+
+C. Udaipur
+
+D. Bikaner
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Jaipur** in Rajasthan is the **Pink City**; do not swap it with Jodhpur (Blue City) or Udaipur (City of Lakes).
+
+</details>
+
+**Q-GC6. Ghatnachakra / standard**
+
+Which of the following pairs is **NOT** correctly matched?
+
+A. Udaipur — City of Lakes
+
+B. Jaipur — Pink City
+
+C. Jaisalmer — City of Lakes
+
+D. Kolkata — City of Joy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Udaipur** is the **City of Lakes**; **Jaisalmer** is the desert **Golden City**, not a lakes city.
+
+</details>
+
+**Q-GC7. Ghatnachakra / standard**
+
+The official tourism promotion brand of the Ministry of Tourism, Government of India, is
+
+A. Beautiful India
+
+B. Incredible India
+
+C. Discover India
+
+D. Visit India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Incredible India** is the Ministry of Tourism brand; it is not “Beautiful India” or “Discover India.”
+
+</details>
+
+**Q-GC8. Ghatnachakra / standard**
+
+**Sabarimala**, the famous Ayyappa pilgrimage centre, is located in
+
+A. Tamil Nadu
+
+B. Karnataka
+
+C. Kerala
+
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Sabarimala** is in **Kerala** (Pathanamthitta district), not in Tamil Nadu or Karnataka.
+
+</details>
+
+**Q-GC9. Ghatnachakra / standard**
+
+Which of the following is **NOT** generally cited as a **ghost town** in Indian tourism lore?
+
+A. Kuldhara (Rajasthan)
+
+B. Dhanushkodi (Tamil Nadu)
+
+C. Lakhpat (Gujarat)
+
+D. Charkhari (Uttar Pradesh)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Kuldhara**, **Dhanushkodi** and **Lakhpat** are classic ghost-town cues; **Charkhari** in Mahoba, **Uttar Pradesh**, is **not** treated as a ghost town.
+
+</details>
+
+**Q-GC10. IAS Prelims 2015-type**
+
+Consider the following pairs (Pilgrimage centre — Hill range):
+
+1. Srisailam — Nallamala Hills
+2. Omkareshwar — Satmala Hills
+3. Pushkar — Mahadeo Hills
+
+How many pairs given above are correctly matched?
+
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** In the **IAS 2015** stem only **Srisailam–Nallamala Hills** (Andhra Pradesh) was correct; **Omkareshwar** is on **Mandhata island in the Narmada**, not Satmala, and **Pushkar** lies in the **Aravalli** belt near Ajmer, not Mahadeo Hills.
+
+</details>
+
+**Q-GC11. Ghatnachakra / standard**
+
+The standing **Ranganatha / Venkatesha** temple lore associated with **Biligiriranga Hills** belongs to
+
+A. Kerala
+
+B. Karnataka
+
+C. Tamil Nadu
+
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Biligiriranga Hills** (B.R. Hills) are in south-east **Karnataka** and carry the standing **Ranganatha** temple tradition.
+
+</details>
+
+**Q-GC12. Ghatnachakra / standard**
+
+Match List-I with List-II:
+
+| List-I (Landscape / meadow / resort) | List-II (State / UT) |
+|---|---|
+| A. Banni grassland | 1. Himachal Pradesh |
+| B. Bugyal | 2. Gujarat |
+| C. Khajjiar | 3. Uttarakhand |
+| D. Pahalgam | 4. Jammu & Kashmir |
+
+*Row order is not the answer.*
+
+A. A-2, B-3, C-1, D-4
+
+B. A-3, B-2, C-4, D-1
+
+C. A-1, B-4, C-3, D-2
+
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Banni** is in **Gujarat** (Kachchh); **Bugyal** is an alpine meadow in **Uttarakhand**; **Khajjiar** is in **Himachal Pradesh**; **Pahalgam** is in **J&K**.
+
+</details>
+
+**Q-GC13. Ghatnachakra / standard**
+
+The **Konark Sun Temple** on the Odisha coast is a UNESCO World Heritage Site built in the **13th century** by
+
+A. Chandela rulers
+
+B. Narasimha Deva I of the Eastern Ganga dynasty
+
+C. Pallava king Narasimhavarman I
+
+D. Hoysala Vishnuvardhana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Konark Sun Temple** is in **Odisha**; UNESCO listed it in **1984**; it was built by **Narasimha Deva I** of the Eastern Ganga dynasty.
+
+</details>
+
+**Q-GC14. Ghatnachakra / standard**
+
+**Champaner–Pavagarh Archaeological Park** became a UNESCO World Heritage Site in
+
+A. 1983
+
+B. 1984
+
+C. 2004
+
+D. 2016
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Champaner–Pavagarh** lies in Panchmahal, **Gujarat**, and was inscribed as UNESCO World Heritage in **2004**.
+
+</details>
+
+**Q-GC15. Ghatnachakra / standard**
+
+**Udvada** in Gujarat is famous among tourists and pilgrims as a centre of
+
+A. Jain marble temples
+
+B. Zoroastrian fire temple heritage
+
+C. Sufi dargah architecture
+
+D. Buddhist vihara ruins
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Udvada** on the Gujarat coast is the revered **Zoroastrian fire temple** town of the Parsi community.
+
+</details>
+
+**Q-GC16. Ghatnachakra / standard**
+
+**Point Calimere** (Kodiakkarai) in Nagapattinam district marks the
+
+A. Northern tip of the Konkan coast
+
+B. Apex of the Coromandel Coast
+
+C. Westernmost point of the Gulf of Kutch
+
+D. Delta mouth of the Godavari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Point Calimere** in **Tamil Nadu** forms the **apex of the Coromandel Coast** and is a noted wildlife / coastal tourism belt.
+
+</details>
+
+**Q-GC17. Ghatnachakra / standard**
+
+Which of the following is described as the **only hill station of Assam**?
+
+A. Shillong
+
+B. Haflong
+
+C. Cherrapunji
+
+D. Kohima
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Haflong** in Dima Hasao district is coaching lore for the **only hill station of Assam**; Shillong is in Meghalaya.
+
+</details>
+
+**Q-GC18. Ghatnachakra / standard**
+
+**Auli**, known for skiing and winter tourism, is located in
+
+A. Himachal Pradesh
+
+B. Uttarakhand
+
+C. Jammu & Kashmir
+
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Auli** is a hill station and ski resort in **Uttarakhand**, not in Himachal Pradesh.
+
+</details>
+
+**Q-GC19. Ghatnachakra / standard**
+
+**Ooty (Udhagamandalam)**, a major hill-station tourism centre, lies in the
+
+A. Western Ghats of Kerala
+
+B. Nilgiri Hills of Tamil Nadu
+
+C. Palani Hills of Karnataka
+
+D. Patkai Hills of Nagaland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Ooty** is in the **Nilgiri Hills** of **Tamil Nadu**; it is not in Kerala or Karnataka.
+
+</details>
+
+**Q-GC20. Ghatnachakra / standard**
+
+Which of the following nicknames is **correctly** matched with its city?
+
+A. Pink City — Udaipur
+
+B. City of Lakes — Jaisalmer
+
+C. Pink City — Jaipur
+
+D. City of Lakes — Jaipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Jaipur** is the **Pink City**; **Udaipur** is the **City of Lakes**, not Jaisalmer or Jaipur.
+
+</details>
+
+**Q-GC21. Ghatnachakra / standard**
+
+**Udaipur** in Rajasthan is popularly called the **City of Lakes** because of lakes such as
+
+A. Dal and Wular
+
+B. Pichola and Fateh Sagar
+
+C. Loktak and Umiam
+
+D. Chilika and Pulicat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Udaipur’s** tourism identity rests on **Pichola**, **Fateh Sagar** and allied lakes; it is the **City of Lakes**, not Jaisalmer.
+
+</details>
+
+**Q-GC22. Ghatnachakra / standard**
+
+**Tirupati Venkateswara Temple** is located in the
+
+A. Shevaroy Hills
+
+B. Seshachalam Hills
+
+C. Jawadhu Hills
+
+D. Biligiriranga Hills
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tirupati** sits in the **Seshachalam Hills** of **Andhra Pradesh**; Biligiriranga is a separate Karnataka range.
+
+</details>
+
+**Q-GC23. Ghatnachakra / standard**
+
+**Omkareshwar**, one of the twelve Jyotirlinga shrines, is situated on
+
+A. Mandhata island in the Narmada, Madhya Pradesh
+
+B. Satmala Hills, Maharashtra
+
+C. Mahadeo Hills, Madhya Pradesh
+
+D. Girnar Hills, Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Omkareshwar** is on **Mandhata island** in the **Narmada**, **Madhya Pradesh**; it is **not** on Satmala or Mahadeo Hills.
+
+</details>
+
+**Q-GC24. Ghatnachakra / standard**
+
+**Pushkar**, famous for the Brahma temple and fair, lies in the
+
+A. Mahadeo Hills of Madhya Pradesh
+
+B. Aravalli belt near Ajmer, Rajasthan
+
+C. Satpura range of Gujarat
+
+D. Nilgiri Hills of Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Pushkar** is near **Ajmer** in the **Aravalli** country of **Rajasthan**; the IAS 2015 trap wrongly paired it with Mahadeo Hills.
+
+</details>
+
+**Q-GC25. Ghatnachakra / standard**
+
+**Mamallapuram (Mahabalipuram)** on the Tamil Nadu coast is a UNESCO site chiefly associated with
+
+A. Chola bronze casting
+
+B. Pallava rock-cut and ratha architecture
+
+C. Vijayanagara fortification style
+
+D. Hoysala star-shaped temples
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mamallapuram** is a **Pallava** stone town with shore temples and rathas; it is a UNESCO World Heritage Site in **Tamil Nadu**.
+
+</details>
+
+**Q-GC26. Ghatnachakra / standard**
+
+**Chhatrapati Shivaji Terminus (CST), Mumbai** is on the UNESCO list as an outstanding example of
+
+A. Mughal garden tomb architecture
+
+B. Victorian Gothic Revival railway architecture
+
+C. Dravidian gopuram temple design
+
+D. Indo-Saracenic stepwell construction
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **CST Mumbai** is inscribed for its **Victorian Gothic** railway terminus architecture; it was part of the IAS 2005 four-site UNESCO set.
+
+</details>
+
+**Q-GC27. Ghatnachakra / standard**
+
+The **India Tourism Development Corporation (ITDC)** was set up in
+
+A. October 1966
+
+B. January 1950
+
+C. August 1947
+
+D. March 1991
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **ITDC** was established in **October 1966** to develop tourism infrastructure and hospitality services.
+
+</details>
+
+**Q-GC28. Ghatnachakra / standard**
+
+**Niche tourism** promotion in India emphasises the country as a
+
+A. 180-day seasonal destination only
+
+B. 365-day specialised-interest destination
+
+C. winter-only ski destination
+
+D. monsoon-only eco-tourism zone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Niche tourism frames India as a **365-day** destination for specialised interest travel beyond peak-season mass tourism.
+
+</details>
+
+**Q-GC29. Ghatnachakra / standard**
+
+The last wild population of the **Asiatic lion** is protected mainly in
+
+A. Sariska, Rajasthan
+
+B. Gir forest, Gujarat
+
+C. Bandipur, Karnataka
+
+D. Kaziranga, Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Gir** in **Gujarat** holds the only surviving wild **Asiatic lions**; it is a major wildlife tourism destination.
+
+</details>
+
+**Q-GC30. Ghatnachakra / standard**
+
+**Keoladeo National Park** (Bharatpur), a major bird-watching tourism site, is in
+
+A. Madhya Pradesh
+
+B. Rajasthan
+
+C. Uttar Pradesh
+
+D. Haryana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Keoladeo** at **Bharatpur** is in **Rajasthan**; it is both a Ramsar wetland and UNESCO World Heritage bird habitat.
+
+</details>
+
+**Q-GC31. Ghatnachakra / standard**
+
+**Mount Abu**, the only hill station of Rajasthan and site of the Dilwara Jain temples, lies in the
+
+A. Vindhyan range
+
+B. Aravalli range
+
+C. Satpura range
+
+D. Karbi Anglong hills
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mount Abu** is Rajasthan’s hill station in the **Aravalli** range; **Guru Shikhar** nearby is the state’s highest peak.
+
+</details>
+
+**Q-GC32. Ghatnachakra / standard**
+
+The **Ajanta** and **Ellora** cave complexes, major UNESCO tourism circuits, are located in
+
+A. Madhya Pradesh
+
+B. Maharashtra
+
+C. Karnataka
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Ajanta** and **Ellora** are near Aurangabad in **Maharashtra**; both were among India’s first UNESCO inscriptions (**1983**).
+
+</details>
+
+**Q-GC33. Ghatnachakra / standard**
+
+With reference to Indian **ghost towns** cited in tourism notes, consider the following:
+
+1. Kuldhara — abandoned village lore in Rajasthan
+2. Dhanushkodi — ruined town at Rameswaram tip
+3. Charkhari — classic deserted mining town of Bundelkhand
+
+How many of the statements given above are correct?
+
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kuldhara** (Rajasthan) and **Dhanushkodi** (Tamil Nadu) are valid ghost-town cues; **Charkhari** in Mahoba, UP, is **not** counted among them.
+
+</details>
+
+**Q-GC34. Ghatnachakra / standard**
+
+**Gulmarg** in the Kashmir Valley is especially known as a tourism centre for
+
+A. Coffee plantations and spice gardens
+
+B. Meadow, gondola and winter-sport scenery
+
+C. Parsi fire temples and coastal Parsi heritage
+
+D. Mangrove crocodile safaris
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Gulmarg** in **J&K** is a meadow and winter-tourism hub with gondola access; it is not a coffee or mangrove belt.
+
+</details>
+
+**Q-GC35. Ghatnachakra / standard**
+
+**Chakrata**, a cantonment hill station associated with Tiger Fall, is in
+
+A. Himachal Pradesh
+
+B. Uttarakhand
+
+C. West Bengal
+
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chakrata** lies in **Uttarakhand** (Dehradun district), not in Himachal Pradesh or West Bengal.
+
+</details>
+
+**Q-GC36. Ghatnachakra / standard**
+
+Which of the following UNESCO-related statements is **correct**?
+
+A. Konark Sun Temple is in Karnataka.
+
+B. Mamallapuram is a Pallava site in Tamil Nadu on the UNESCO list.
+
+C. Champaner–Pavagarh is in Rajasthan and was listed in 1983.
+
+D. CST Mumbai is a Mughal fort complex in Delhi.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mamallapuram** is a **Pallava** UNESCO site in **Tamil Nadu**; Konark is in Odisha, Champaner in Gujarat (2004), and CST is in Mumbai.
+
+</details>
+
+**Q-GC37. Ghatnachakra / standard**
+
+**Kalimpong**, a Darjeeling-hills tourism centre, is in
+
+A. Sikkim
+
+B. West Bengal
+
+C. Assam
+
+D. Arunachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kalimpong** is in **West Bengal** in the Darjeeling Himalayan foothills, not in Sikkim or Assam.
+
+</details>
+
+**Q-GC38. Ghatnachakra / standard**
+
+**Kasauli**, a colonial-era hill cantonment town, is located in
+
+A. Uttarakhand
+
+B. Himachal Pradesh
+
+C. Jammu & Kashmir
+
+D. Nagaland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kasauli** in **Solan district** is a well-known **Himachal Pradesh** hill station.
+
+</details>
+
+**Q-GC39. Ghatnachakra / standard**
+
+**Pahalgam** on the Lidder stream is a major valley tourism base in
+
+A. Himachal Pradesh
+
+B. Uttarakhand
+
+C. Jammu & Kashmir
+
+D. Ladakh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Pahalgam** is a Kashmir Valley resort in **Jammu & Kashmir**, often used as a base for Amarnath yatra routes.
+
+</details>
+
+**Q-GC40. Ghatnachakra / standard**
+
+With reference to **Srisailam**, which of the following statements is/are correct?
+
+1. It is located in the Nallamala Hills.
+2. The shrine combines Mallikarjuna Jyotirlinga and Bhramaramba Shakti peetha lore.
+3. It was paired with Satmala Hills in the correct IAS 2015 answer key.
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Srisailam** is in the **Nallamala Hills** of Andhra Pradesh with Mallikarjuna–Bhramaramba lore; statement 3 is false because the IAS 2015 key accepted **Nallamala**, not Satmala.
+
+</details>
+
+**Q-GC41. Ghatnachakra / standard**
+
+A **biogas plant** typically yields
+
+A. Only electricity with no by-product
+
+B. Both **power** and **manure** (slurry)
+
+C. Only compressed natural gas for vehicles
+
+D. Only irrigation water with no energy output
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Biogas** digestion produces usable **energy (power/gas)** and nutrient-rich **manure slurry** for fields.
+
+</details>
+
+**Q-GC42. Ghatnachakra / standard**
+
+India’s **Speed Post** service was introduced on
+
+A. 1 August 1986
+
+B. 15 August 1947
+
+C. 26 January 1950
+
+D. 1 April 1991
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Speed Post** began on **1 August 1986** as the Department of Posts’ time-definite fast delivery service.
+
+</details>
+
+**Q-GC43. Ghatnachakra / standard**
+
+The **Bhabha Atomic Research Centre (BARC)** is located at Trombay in
+
+A. Karnataka
+
+B. Maharashtra
+
+C. Tamil Nadu
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **BARC** is at **Trombay, Maharashtra**; the trap pairs it wrongly with Karnataka in some map stems.
+
+</details>
+
+**Q-GC44. Ghatnachakra / standard**
+
+**Thumba Equatorial Rocket Launching Station (TERLS)** near Thiruvananthapuram was sited in Kerala chiefly because the area lies close to the
+
+A. Tropic of Cancer
+
+B. Geomagnetic equator
+
+C. Arctic Circle
+
+D. International Date Line
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Thumba** in **Kerala** was chosen for rocket research because it is near the **geomagnetic equator**, giving favourable sounding-rocket conditions.
+
+</details>
+
+**Q-GC45. Ghatnachakra / standard**
+
+India’s nuclear tests at **Pokhran** were conducted in the desert of
+
+A. Gujarat
+
+B. Rajasthan
+
+C. Haryana
+
+D. Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Pokhran** is in the **Thar desert of Rajasthan**, associated with India’s nuclear test site lore.
+
+</details>
+
+**Q-GC46. Ghatnachakra / standard**
+
+The **Himalayan Mountaineering Institute (HMI)**, a landmark of adventure tourism training, is located at
+
+A. Shimla, Himachal Pradesh
+
+B. Darjeeling, West Bengal
+
+C. Gangtok, Sikkim
+
+D. Dehradun, Uttarakhand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **HMI** was established at **Darjeeling, West Bengal**, with Tenzing Norgay’s association in mountaineering lore.
+
+</details>
+
+**Q-GC47. Ghatnachakra / standard**
+
+**Chandipur** on the Odisha coast is unusual among tourist beaches because at low tide the sea
+
+A. Never recedes at all
+
+B. Recedes far enough for people to walk on the exposed foreshore
+
+C. Turns freshwater due to river mixing only at full moon
+
+D. Freezes in winter like an inland lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** At **Chandipur (Balasore district, Odisha)** the sea **recedes up to several kilometres** at low tide, allowing walkable foreshore tourism.
+
+</details>
+
+**Q-GC48. Ghatnachakra / standard**
+
+Match List-I with List-II (Mumbai region specialisation):
+
+| List-I (Place) | List-II (Known for) |
+|---|---|
+| A. Alibag | 1. Major container port (JNPT) |
+| B. Nhava Sheva | 2. Coastal holiday resort belt |
+| C. Ratnagiri | 3. Konkan fishing and Alphonso mango coast |
+
+*Row order is not the answer.*
+
+A. A-2, B-1, C-3
+
+B. A-1, B-3, C-2
+
+C. A-3, B-2, C-1
+
+D. A-2, B-3, C-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Alibag** is a **holiday resort** coast south of Mumbai; **Nhava Sheva (JNPT)** is the **container port**; **Ratnagiri** is a **fishing / mango** Konkan coast town.
+
+</details>
+
+**Q-GC49. Ghatnachakra / standard**
+
+Under India’s **Green Highways Policy**, highway corridors are primarily developed with
+
+A. Solar panels only on every bridge
+
+B. **Tree plantation** and green cover along road stretches
+
+C. Replacement of all rail lines by highways
+
+D. Mandatory cable-car stations at every toll plaza
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Green Highways Policy** emphasises **plantation / green cover** along national highways, not solar-only or cable-car mandates.
+
+</details>
+
+**Q-GC50. Ghatnachakra / standard**
+
+India’s first nuclear research reactor, commissioned in 1956, was named
+
+A. Apsara
+
+B. Dhruva
+
+C. Kamini
+
+D. Purnima
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Apsara** (1956) at Trombay was India’s **first nuclear reactor**; later reactors include Dhruva and Kamini.
+
+</details>
+
+**Q-GC51. Ghatnachakra / standard**
+
+Which of the following is **NOT** a famous **saree / textile** centre in the standard map stem?
+
+A. Chanderi
+
+B. Banarasi (Varanasi)
+
+C. Kanjivaram
+
+D. Moradabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Moradabad** is the **brassware / Peetal Nagri** centre; **Chanderi**, **Banarasi** and **Kanjivaram** are saree/textile traditions.
+
+</details>
+
+**Q-GC52. Ghatnachakra / standard**
+
+Match List-I with List-II:
+
+| List-I (Stadium) | List-II (City) |
+|---|---|
+| A. Aishbagh Stadium | 1. Mumbai |
+| B. Brabourne Stadium | 2. Kanpur |
+| C. Green Park Stadium | 3. Bhopal |
+| D. Eden Gardens | 4. Kolkata |
+
+*Row order is not the answer.*
+
+A. A-3, B-1, C-2, D-4
+
+B. A-1, B-3, C-4, D-2
+
+C. A-3, B-2, C-1, D-4
+
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Aishbagh** is in **Bhopal**; **Brabourne** is in **Mumbai**; **Green Park** is in **Kanpur**; **Eden Gardens** is in **Kolkata**.
+
+</details>
+
+**Q-GC53. Ghatnachakra / standard**
+
+Match List-I with List-II:
+
+| List-I (Pilgrimage centre) | List-II (State) |
+|---|---|
+| A. Rameswaram | 1. Gujarat |
+| B. Dwarka | 2. Uttar Pradesh |
+| C. Sarnath | 3. Tamil Nadu |
+| D. Mahakaleshwar (Ujjain) | 4. Madhya Pradesh |
+
+*Row order is not the answer.*
+
+A. A-3, B-1, C-2, D-4
+
+B. A-2, B-4, C-1, D-3
+
+C. A-1, B-3, C-2, D-4
+
+D. A-3, B-2, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Rameswaram** is in **Tamil Nadu**; **Dwarka** in **Gujarat**; **Sarnath** near Varanasi in **Uttar Pradesh**; **Mahakal at Ujjain** is in **Madhya Pradesh**.
+
+</details>
+
+**Q-GC54. Ghatnachakra / standard**
+
+The headquarters of **Cairn Energy** (operator linked with Rajasthan oil fields) is in
+
+A. Scotland
+
+B. Rajasthan
+
+C. Maharashtra
+
+D. Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Cairn Energy** is headquartered in **Scotland** (Edinburgh); its Indian producing assets are chiefly in **Rajasthan**.
+
+</details>
+
+**Q-GC55. Ghatnachakra / standard**
+
+**Diamond Harbour** and the **Salt Lake (Bidhannagar)** suburb are associated with the metropolitan region of
+
+A. Chennai
+
+B. Kolkata
+
+C. Mumbai
+
+D. Visakhapatnam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Diamond Harbour** lies downriver of **Kolkata** on the Hooghly; **Salt Lake (Bidhannagar)** is a Kolkata metro suburb — both are Hooghly-side map cues.
+
+</details>
+
+**Q-GC56. Ghatnachakra / standard**
+
+**Dindigul** is an important city of
+
+A. Kerala
+
+B. Tamil Nadu
+
+C. Karnataka
+
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dindigul** is a major city in **Tamil Nadu**, known for its historic fort and regional handicraft industry in coaching map notes.
+
+</details>
+
+**Q-GC57. Ghatnachakra / standard**
+
+Desert **locust** swarms that enter western India during outbreak years most commonly arrive from breeding grounds across the border in
+
+A. Nepal
+
+B. Pakistan
+
+C. Sri Lanka
+
+D. Myanmar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Locust** invasion lore for Rajasthan and Gujarat tracks movement from arid breeding zones in **Pakistan** and the Thar rim into India.
+
+</details>
+
+**Q-GC58. Ghatnachakra / standard**
+
+Consider the following statements:
+
+1. Moradabad is famous for brassware, not sarees.
+2. Chanderi is a noted saree centre in Madhya Pradesh.
+3. Kanjivaram sarees belong to Tamil Nadu.
+
+How many of the statements given above are correct?
+
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct: **Moradabad = brass**; **Chanderi** and **Banarasi** are textile centres; **Kanjivaram** is Tamil Nadu’s silk saree tradition.
+
+</details>
+
+**Q-GC59. Ghatnachakra / standard**
+
+Which of the following pairs is **correctly** matched?
+
+A. Thumba — geomagnetic-equator rocket range in Kerala
+
+B. BARC — Karnataka nuclear campus
+
+C. Pokhran — Gujarat test site
+
+D. Apsara — 1974 first reactor name
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Thumba/TERLS** is in **Kerala** near the **geomagnetic equator**; **BARC** is in **Maharashtra**, **Pokhran** in **Rajasthan**, and **Apsara** dates to **1956**, not 1974.
+
+</details>
+
+**Q-GC60. Ghatnachakra / standard**
+
+With reference to **miscellaneous geography map facts**, consider the following:
+
+1. Chandipur beach is in Odisha.
+2. HMI is at Darjeeling.
+3. Speed Post started in 1986.
+
+How many of the statements given above are correct?
+
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are standard Ghatnachakra misc facts: **Chandipur (Odisha)**, **HMI Darjeeling**, and **Speed Post from 1 August 1986**.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -3795,3 +5111,10 @@ D. A-4, B-1, C-2, D-3
 28. **NS–EW meet at Nagpur / Gwalior** — FALSE. **Jhansi**.
 29. **First CNG train = Delhi–Agra** — FALSE. **Rewari–Rohtak**.
 30. **Sethusamudram = Cape Comorin only** — FALSE. Links **Gulf of Mannar** with **Palk Bay**.
+31. **City of Lakes = Jaisalmer** — FALSE. **Udaipur**. Jaipur = **Pink City**.
+32. **Sabarimala = Tamil Nadu / Karnataka** — FALSE. **Kerala**.
+33. **Haflong = Himachal / Kalimpong = Assam** — FALSE. Haflong = **Assam**; Kalimpong = **West Bengal**; Chakrata = **Uttarakhand**; Kufri = **HP**.
+34. **Omkareshwar = Satmala / Pushkar = Mahadeo** — FALSE. Only **Srisailam–Nallamala** was correct in IAS 2015 among those three.
+35. **Charkhari = ghost town** — FALSE. Ghost-town cues are Kuldhara, Dhanushkodi, Lakhpat.
+36. **BARC = Karnataka** — FALSE. **Maharashtra**. Thumba = **geomagnetic equator** site in Kerala.
+37. **Moradabad sarees** — FALSE. Brassware; saree map = Chanderi / Banarasi / Kanjivaram.
