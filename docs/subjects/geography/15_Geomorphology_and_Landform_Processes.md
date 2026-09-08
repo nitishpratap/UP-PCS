@@ -27,7 +27,7 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, I
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
 2. Davis’s cycle of erosion is framed as **structure–process–time** (youth–mature–old). Penck and King modify timing, but the landform vocabulary stays -useful.
-3. **Igneous** rocks are primary: **granite** is intrusive (acidic awareness); **basalt** is extrusive (basic). Fossils belong to **sedimentary** rocks.
+3. **Igneous** rocks are primary: **granite** is intrusive (acidic); **basalt** is extrusive (basic). Fossils belong to **sedimentary** rocks.
 4. Igneous bodies: batholith, laccolith, lopolith, phacolith; a **sill** is parallel to beds; a **dyke** cuts across beds.
 5. Metamorphic pairs: **limestone → marble**, **sandstone → quartzite**, **granite → gneiss**, **shale → slate / schist**. Foliated rocks include slate–schist–gneiss; marble and quartzite are non-foliated.
 6. **Weathering** breaks rock **in situ**. **Erosion** picks up and carries material. **Denudation** is weathering plus erosion. Chemical routes include carbonation, oxidation, hydrolysis and hydration.
@@ -51,7 +51,7 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, I
 24. Intertrappean beds between Deccan lava flows hold **land and freshwater** fossils, not marine plant–animal assemblages.
 25. Himadri is fossil-poor crystalline rock; Lesser Himalaya carries marine fossils; Shiwalik holds human remains — keep the three belts distinct when landform stems mix fossils.
 26. A gorge is a steep mountain cut; a canyon is often the arid stair-step equivalent. U-valley = glacier; V-valley = youthful river.
-27. Mekong source awareness is Tibet; its delta is in **Vietnam**, not Cambodia.
+27. Mekong source is Tibet; its delta is in **Vietnam**, not Cambodia.
 28. The rock cycle links magma ⇄ igneous → sedimentary → metamorphic → melt, so the same material can reappear as a different rock type after burial, melting or recrystallisation.
 
 ---
@@ -324,7 +324,7 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 | Insequent | No obvious control (dendritic on uniform rock) |
 
 - **Antecedent** drainage is older than the uplift it cuts — Himalayan transverse giants are the classic Indian fact.
-- **Superimposed** drainage is inherited from a cover that is now stripped — the **Chambal** type is the coaching cue.
+- **Superimposed** drainage is inherited from a cover that is now stripped — the **Chambal** is the classic Indian example.
 - Concordant drainage follows structure; discordant drainage cuts across it.
 - **River capture / piracy:** an aggressive **pirate** stream beheads its neighbour, leaving an **elbow of capture**, a dry **wind gap**, and a **misfit** stream behind.
 - Rejuvenation extras: paired **terraces**, **incised / entrenched** meanders, and a nick point that migrates upstream.
@@ -413,7 +413,7 @@ A **structural basin** is a low enclosed by structure (syncline, rift or down-wa
 |---------|------|
 | **Imphal basin** | **Lacustrine** plain (old lake) — **not** loess / glacial / ordinary alluvial trap |
 | Kashmir vale | Lacustrine / structural (Pir Panjal wall) |
-| Chhattisgarh / Michigan type | Structural/sedimentary basin awareness |
+| Chhattisgarh / Michigan type | Structural/sedimentary basin |
 
 **Depositional plains (trap set)**
 
@@ -592,7 +592,7 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 
 - **Erosional** chain: cliff → wave-cut platform → notch → cave → **arch** → **stack** → stump.
 - **Depositional** forms: beach; **spit** (one end attached); **bar** (closes a bay into a **lagoon**); **tombolo** (island tied to mainland); hook; barrier island.
-- **Coral** succession: **fringing** (against shore) → **barrier** (with lagoon) → **atoll** (ring). Darwin’s subsidence idea is the coaching frame. Indian reefs need clear warm water — **not** muddy delta mouths.
+- **Coral** succession: **fringing** (against shore) → **barrier** (with lagoon) → **atoll** (ring). Darwin’s subsidence idea explains the sequence. Indian reefs need clear warm water — **not** muddy delta mouths.
 
 | Coast type | Meaning |
 |------------|------|
@@ -751,7 +751,7 @@ D. Ramaganga
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — **Damodar** is the keyed Indian **fault-valley** example. Chambal is ravine/gully country, not this tag. Narmada–Tapi are also rifts, but this paper’s options pick Damodar.
+**Ans: B** — **Damodar** is the classic Indian **fault-valley** example. Chambal is ravine/gully country, not this tag. Narmada–Tapi are also rifts, but this paper’s options pick Damodar.
 </details>
 
 ---
@@ -1611,7 +1611,7 @@ D. Ox-bows of Ganga only
 
 ---
 
-**Q48.** Greater Himalaya sedimentary rocks in the 2019 framing were:
+**Q48.** Greater Himalaya sedimentary rocks in the 2019 paper were:
 
 A. Rich in marine fossils like Lesser Himalaya
 
@@ -1665,7 +1665,7 @@ D. Gneiss + fjords
 
 ---
 
-**Q51.** Which river is famous for **fault valley drainage** in the UPPCS framing?
+**Q51.** Which river is famous for **fault valley drainage** in the UPPCS set?
 
 A. Chambal
 
@@ -1678,7 +1678,7 @@ D. Ramganga
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 2019 Q9. Chambal = ravines, not the keyed fault-valley river.
+**Ans: B** — 2019 Q9. Chambal = ravines, not the fault-valley river in that key.
 </details>
 
 ---

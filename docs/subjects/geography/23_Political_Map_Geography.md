@@ -68,7 +68,7 @@ D. 8 degrees 4' N to 37 degrees 6' N
 16. **49th Parallel** ≈ USA–Canada. **38th Parallel** ≈ Koreas. Maginot is a historic France–Germany line, not an India boundary.
 17. Equator traps: Egypt and Mexico are **not** equatorial countries in the usual MCQ sense.
 18. India’s nine coastal states include Gujarat as the longest; Telangana is not coastal.
-19. Oder–Neisse is the Germany–Poland historic line awareness fact; do not confuse it with McMahon or Durand.
+19. Oder–Neisse is the historic Germany–Poland line; do not confuse it with McMahon or Durand.
 20. Shelf rights beyond 200 nm (up to 350) are seabed rights — they do not create a wider EEZ water column.
 
 ---
@@ -204,9 +204,9 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 - **LoC** — India–Pakistan in J&K (ceasefire line, later LoC). Not McMahon.
 - **LAC** — India–China actual control in the west/middle. Not Radcliffe.
 - **Sir Creek** — India–Pakistan creek, Kutch/Sindh; maritime.
-- Johnson / McDonald lines — Aksai Chin claim-story (awareness).
+- Johnson / McDonald lines — Aksai Chin claim-story.
 
-**World lines (Lucent / coaching map)**
+**World lines**
 
 | Line | Fact |
 |------|------|
@@ -215,7 +215,7 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 | **Maginot Line** | Historical **France–Germany** fortification (WWII lore) |
 | **Oder–Neisse** | **Germany–Poland** post-WWII border |
 | **Hindenburg Line** | WWI German defence line (Europe) — not an India border |
-| **17th Parallel** | Historical Vietnam divide (awareness) |
+| **17th Parallel** | Historical Vietnam divide |
 
 **Inline PYQ — UPPCS Prelims 2018, Q32**
 
@@ -299,8 +299,8 @@ D. Gujarat
 | **Kyrgyzstan** ★ | **Bishkek** | — |
 | **Turkmenistan** ★ | **Ashgabat** | Not Dushanbe |
 | **Kazakhstan** | **Astana** (Nur-Sultan phase) | Almaty is **not** the capital |
-| Afghanistan | Kabul | Neighbourhood awareness |
-| Iran | Tehran | Neighbourhood awareness |
+| Afghanistan | Kabul | Neighbourhood |
+| Iran | Tehran | Neighbourhood |
 
 **2019 paper order:** Uzbekistan → Tajikistan → Kyrgyzstan → Turkmenistan.
 
@@ -724,7 +724,7 @@ D. Jakarta — Indonesia
 
 ## N.13 Köppen climate
 
-**Identity:** The quote *"Vegetation is the true index of climate"* is keyed to **Thornthwaite** in UPPCS. **Köppen** built the **letter-code** climate classification using vegetation, temperature, and precipitation — do not swap the two facts.
+**Identity:** The quote *"Vegetation is the true index of climate"* is linked to **Thornthwaite** in UPPCS. **Köppen** built the **letter-code** climate classification using vegetation, temperature, and precipitation — do not swap the two facts.
 
 - **Af** — tropical rainforest, rain all year (Amazon, Congo, Indonesia).
 - **Am** — tropical monsoon (west-coast India, parts of SE Asia).
@@ -1240,7 +1240,7 @@ D. 1 and 2
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
 
 **Q1.** MacMohan line forms the boundary between:
 
@@ -2449,7 +2449,7 @@ D. Oder–Neisse — India–Nepal
 
 ---
 
-**Q58.** The most populous landlocked country in the usual coaching fact is:
+**Q58.** The most populous landlocked country is:
 
 A. Liechtenstein
 

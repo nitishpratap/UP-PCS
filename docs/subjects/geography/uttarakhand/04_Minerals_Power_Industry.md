@@ -2,17 +2,17 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025 stem:** mineral–district pairs; silica sand wrong district (Q112).
+> **High-yield 2025:** mineral–district pairs; silica sand wrong district (Q112).
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Correct |
 |------|------|
 | Dolomite | **Dehradun, Pithoragarh** |
 | Soapstone (soap stone) | **Chamoli, Bageshwar** |
-| Graphite | **Almora, Nainital** (as keyed correct pair in 2025) |
+| Graphite | **Almora, Nainital** (correct pair in UKPCS 2025) |
 | Silica sand | **Dehradun, Nainital, Tehri Garhwal** — **not Pauri Garhwal** |
 | Power | Hydropower on Bhagirathi–Alaknanda–Yamuna systems; Tehri as flagship |
 | Industry sketch | Forest-based, tourism services, pharma/IT pockets in plains & Dehradun belt |
@@ -21,12 +21,12 @@
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Correct |
 |------|------|
-| Silica sand–Pauri | **Wrong** in 2025 stem — use Dehradun / Nainital / Tehri |
+| Silica sand–Pauri | **Wrong** in the 2025 question — use Dehradun / Nainital / Tehri |
 | Soapstone–Pithoragarh | Soapstone card is Chamoli–Bageshwar |
 | Dolomite–Almora | Dolomite card is Dehradun–Pithoragarh |
-| Power vs mineral stem | Do not answer hydropower questions with mineral districts |
+| Power vs mineral | Do not answer hydropower questions with mineral districts |
 
 ---
 
@@ -42,7 +42,7 @@
 
 - Hydropower dominates the “power resource” story because of steep Himalayan gradients.
 - Industrial development concentrates more in Tarai / dun / plains districts than in high alpine tehsils.
-- Keep detailed factory lists for CA; here lock the mineral map first.
+- Keep detailed factory lists for Current Affairs; here prioritise the mineral map first.
 
 ---
 
@@ -92,7 +92,7 @@ D. Almora, Pithoragarh
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** That is the coaching correction to the 2025 wrong pair.
+**Ans: B.** Silica sand associates with Dehradun, Nainital and Tehri Garhwal — that corrects the 2025 wrong pair.
 
 </details>
 

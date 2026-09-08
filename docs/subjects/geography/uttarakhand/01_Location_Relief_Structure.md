@@ -2,33 +2,33 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025 stems:** MBT–MCT zone (Q101) · physiography south→north (Q110). 
+> **High-yield 2025:** MBT–MCT zone (Q101) · physiography south→north (Q110). 
 > **National twin:** Shiwalik sediments → parent [Mountains & Hills](../01_Indian_Physical_Geography_Mountains_Hills.md) (UKPCS Q84).
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Correct |
 |------|------|
 | Location | Central Himalaya; between **Himachal** (W), **Nepal/Tibet** (E/N), **UP plains** (S) |
-| Lat–long memory | Roughly **28°43′–31°27′ N** · **77°34′–81°02′ E** (coaching band) |
+| Lat–long | Roughly **28°43′–31°27′ N** · **77°34′–81°02′ E** |
 | South → north belts | **Tarai → Shiwalik → Lesser Himalaya → Great Himalaya** |
 | Between MBT and MCT | **Lesser Himalayan zone** |
 | South of MBT | **Shiwalik** zone |
 | North of MCT | **Central crystalline / Higher Himalaya** approach |
 | Duns | Longitudinal valleys in Shiwalik belt (e.g. Dehradun type) |
-| Highest peak memory | **Nanda Devi** among major UK peaks in coaching maps |
+| Highest peak | **Nanda Devi** is the highest among the major Uttarakhand peaks usually listed |
 
 ---
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Correct |
 |------|------|
 | MBT–MCT belt vs Shiwalik | Lesser Himalaya ≠ Shiwalik (Shiwalik is **south** of MBT) |
 | Tarai last in N→S list | Tarai is **southernmost** — south→north starts with Tarai |
-| Great Himalaya vs Tethys | Tethys / Trans-Himalaya lies farther north — different stem family |
+| Great Himalaya vs Tethys | Tethys / Trans-Himalaya lies farther north — a different question family |
 | UK vs HP relief vocabulary | Same thrust names; apply to **Uttarakhand** districts in state papers |
 
 ---
@@ -54,7 +54,7 @@
 - The **Main Boundary Thrust (MBT)** separates the Shiwaliks from the Lesser Himalaya.
 - The **Main Central Thrust (MCT)** separates the Lesser Himalaya from the Higher / central crystalline belt.
 - Therefore the zone **between MBT and MCT** is the **Lesser Himalayan zone**.
-- Central crystalline and Tethys Himalaya belong north of the MCT system in standard teaching maps.
+- Central crystalline and Tethys Himalaya belong north of the MCT system in the standard relief sequence.
 
 ---
 

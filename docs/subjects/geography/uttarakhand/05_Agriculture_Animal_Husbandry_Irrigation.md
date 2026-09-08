@@ -2,31 +2,31 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025 stems:** animal husbandry statements (Q102) · highest agricultural land district (Q107).
+> **High-yield 2025:** animal husbandry statements (Q102) · highest agricultural land district (Q107).
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Correct |
 |------|------|
 | Hill farming | Terraced cereals, millets, pulses; orchards in mid-hills |
 | Granary belt | Tarai / plains districts lead in cropped area |
-| Highest agri land (2025 key) | **Haridwar** (Series B provisional key **A**) |
-| Rival coaching memory | Many notes name **Udham Singh Nagar** as the cultivated-area leader — revise both; **follow Series B letter for 2025** |
+| Highest agri land (2025) | **Haridwar** (Series B provisional key **A**) |
+| Cultivated-area leader | Official Series B (2025) answer is **Haridwar**; many notes also name **Udham Singh Nagar** — learn both names |
 | Animal husbandry | **Supplementary** to agriculture (milk, wool, manure) |
-| Sheep / pastures | Environmental degradation narrative exists in coaching — **2025 key accepted Only statement 1** |
+| Sheep / pastures | Environmental-degradation narrative appears in many notes — **2025 Series B accepted Only statement 1** |
 | Irrigation | Canals and tubewells in Tarai; springs / guls / limited canals in hills |
 
 ---
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Correct |
 |------|------|
-| Haridwar vs US Nagar on agri area | 2025 Series B keys **Haridwar**; US Nagar is the Tarai rival in many books |
-| AH as main vs supplementary | Stem keys **supplementary** occupation |
-| Q102 both vs only 1 | Series B **Only 1** — do not mark both unless amended key says so |
+| Haridwar vs US Nagar on agri area | 2025 Series B marks **Haridwar**; US Nagar is the Tarai rival in many books |
+| AH as main vs supplementary | Correct reading is **supplementary** occupation |
+| Q102 both vs only 1 | Series B **Only 1** — do not mark both unless an amended key says so |
 | Hill vs plain irrigation | Tubewell–canal plains ≠ spring-fed hill systems |
 
 ---
@@ -35,15 +35,15 @@
 
 - Cropped area concentrates in the southern plains and Tarai where slopes allow continuous fields.
 - Hill agriculture is fragmented and terrace-based; horticulture matters in suitable altitudes.
-- UKPCS 2025 asked which district has the **highest agricultural land** and keyed **Haridwar**.
+- UKPCS 2025 asked which district has the **highest agricultural land**; the Series B answer is **Haridwar**.
 
 ---
 
 ## 5.2 Animal husbandry
 
 - Livestock supplements crop farming across the hill economy.
-- Statement pattern: (1) AH is supplementary — keyed **true**; (2) sheep rearing hit by environmental degradation — **not keyed** in Series B (answer **Only 1**).
-- Revise the degradation narrative for essays / other papers, but lock the 2025 option letter as **C**.
+- Statement pattern: (1) AH is supplementary — treated as **true**; (2) sheep rearing hit by environmental degradation — **not accepted** in Series B (answer **Only 1**).
+- Revise the degradation narrative for essays / other papers, but keep the 2025 option letter as **C**.
 
 ---
 
@@ -61,7 +61,7 @@
 2. 2025 Q102 = **Only 1** (Series B).
 3. 2025 Q107 = **Haridwar** (Series B).
 4. Plains lead cultivated area; hills lead in terrace / horticulture stories.
-5. Keep US Nagar as a confused rival on agri-area stems.
+5. Keep US Nagar as a confused rival on agri-area questions.
 
 ---
 
@@ -84,11 +84,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Series B provisional key).** Statement 1 is keyed correct. Statement 2 is not accepted in this key — mark Only 1 unless an amended key changes it.
+**Ans: C (Series B provisional key).** Statement 1 is treated as correct. Statement 2 is not accepted in this key — mark Only 1 unless an amended key changes it.
 
 </details>
 
-**Logic:** Plains districts lead; Series B keys Haridwar for highest agricultural land.
+**Logic:** Plains districts lead; Series B marks Haridwar for highest agricultural land.
 
 **UKPCS Prelims 2025, Q107**
 
@@ -102,7 +102,7 @@ D. Nainital
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Series B provisional key).** Haridwar is the keyed district. Udham Singh Nagar is the frequent Tarai rival in coaching notes — stick to the provisional letter for this paper.
+**Ans: A (Series B provisional key).** Haridwar is the Series B district. Udham Singh Nagar is the frequent Tarai rival in many notes — keep the provisional letter for this paper.
 
 </details>
 

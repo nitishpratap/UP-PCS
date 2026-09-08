@@ -46,7 +46,7 @@ D. Metamorphic rocks
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Series B provisional key).** Shiwaliks are thick unconsolidated sediments from rising Himalaya — landslide-prone and dun-forming.
+**Ans: C.** Shiwaliks are thick unconsolidated sediments from rising Himalaya — landslide-prone and dun-forming.
 
 </details>
 
@@ -64,7 +64,7 @@ D. Hispar
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (Series B provisional key).** Siachen (~76 km) is the largest Trans-Himalayan / Karakoram glacier among the options.
+**Ans: B.** Siachen (~76 km) is the largest Trans-Himalayan / Karakoram glacier among the options.
 
 </details>
 
@@ -139,7 +139,7 @@ D. Hispar
 
 ## 1.0 Physiographic framework
 
-- NCERT splits India’s geology into **three** structural units. Coaching maps then teach **six** relief divisions on that skeleton.
+- NCERT splits India’s geology into **three** structural units. Standard relief maps then teach **six** relief divisions on that skeleton.
 
 | Structural unit | What it is | Key fact |
 |-----------------|------------|-----------|
@@ -149,8 +149,8 @@ D. Hispar
 
 ![physical-map-india.jpg](physical-map-india.jpg)
 - The **six** relief units used in map questions are Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, and Islands.
-- standard coaching often lists **five** units and folds the Thar into the **Rajasthan Plain**. UPPCS still asks Thar as a **separate** Pleistocene–recent sand sheet, so keep six.
-- About **43%** of India is plains, **28%** plateau, **19%** hills, and **11%** high mountains (coaching class figures).
+- Some notes list only **five** units and fold the Thar into the **Rajasthan Plain**. Keep the Thar as a **separate** Pleistocene–recent sand sheet, so use six divisions.
+- About **43%** of India is plains, **28%** plateau, **19%** hills, and **11%** high mountains (standard class figures).
 - The Himalaya is a **climatic wall**. It blocks cold Central Asian winds in winter and forces orographic rain on the southern slopes in the monsoon.
 - The Peninsular Plateau is **not** the same as the Deccan Plateau. The Deccan is the **southern** tableland. The Central Highlands (Malwa, Bundelkhand, Baghelkhand) are the **northern** part of the same old block.
 - The plateau is tilted **high in the west and low in the east**. That is why most peninsular rivers drain to the Bay of Bengal.
@@ -363,7 +363,7 @@ D. 1, 2 and 3 are correct
 - NCERT cuts the Himalaya by rivers, west to east.
 - The **Punjab Himalaya** (about **560 km**) lies between the **Indus and the Satluj**. Karakoram, Ladakh, Pir Panjal, Zaskar, and Dhauladhar sit in this western block.
 - The **Kumaon Himalaya** lies between the **Satluj and the Kali**. It is Uttarakhand Himalaya, with **Nanda Devi**, **Mana**, and **Niti**. Mussoorie and Nag Tibba represent the Lesser Himalaya here.
-- **Western Himalaya** as a coaching super-region runs **Indus to Kali** (Kashmir + Himachal + Kumaon).
+- **Western Himalaya** as a major regional block runs **Indus to Kali** (Kashmir + Himachal + Kumaon).
 - The **Nepal / Central Himalaya** (about **800 km**) lies between the **Kali and the Tista**. Everest, Dhaulagiri, Annapurna, and Makalu sit here. **Kathmandu** and **Pokhara** are lacustrine valleys.
 - The **Assam / Eastern Himalaya** (about **720 km**) lies between the **Tista and the Dihang / Brahmaputra**. Fluvial erosion is strong because rainfall is heavy.
 - **Kanchenjunga** belongs to the **Sikkim** Himalaya, not to the Assam Himalaya section.
@@ -591,7 +591,7 @@ D. Depth of upper trap – approximately 450 metres
 - **Hazaribagh Plateau** lies north of Damodar. **Ranchi Plateau** lies south of Damodar.
 - The **Rajmahal Hills** are the north-eastern basalt edge of Chotanagpur.
 - The **Meghalaya Plateau** is Garo–Khasi–Jaintia. The **Malda / Garo–Rajmahal Gap** is a down-fault filled by Ganga–Brahmaputra alluvium.
-- **Mikir (Karbi) Hills** are listed with this north-eastern block in the coaching map.
+- **Mikir (Karbi) Hills** are listed with this north-eastern block on the relief map.
 - **Jharia** and **Bokaro** are the Damodar-rift coalfields. Iron and mica are the other Chotanagpur matchs.
 - Chotanagpur is the easternmost unit of the west-to-east central-India hill sequence.
 
@@ -612,7 +612,7 @@ D. Depth of upper trap – approximately 450 metres
 
 | Pass | State / UT | Route / note | Trap |
 |------|------------|--------------|------|
-| **Burzil** | J&K / Ladakh | Greater Himalaya (coaching pass table) | — |
+| **Burzil** | J&K / Ladakh | Greater Himalaya (pass table) | — |
 | **Thaga La** | Uttarakhand | Greater Himalaya with Niti / Lipulekh | — |
 | **Zoji La** | Ladakh / J&K | Srinagar–Kargil–Leh | Pair with Z-Morh tunnel |
 | **Banihal** | J&K | Jammu–Srinagar; Jawahar Tunnel | Not a Tibet pass |
@@ -755,7 +755,7 @@ D. Only 1
 | **Odisha** | **Western** Odisha | Not the Bhubaneswar coast as the “IST city” |
 | **Andhra Pradesh** | Northern / coastal AP strip | **Not Telangana** (TG lies west of 82.5° E) |
 
-- Coaching / NDA-style fact: the IST meridian passes through **five states — UP, Madhya Pradesh, Chhattisgarh, Odisha, Andhra Pradesh**.
+- The IST meridian passes through **five states — UP, Madhya Pradesh, Chhattisgarh, Odisha, Andhra Pradesh**.
 - It does **not** pass through **Uttarakhand, Jharkhand, Bihar, West Bengal, Telangana, Maharashtra, or Tamil Nadu**. Options that sneak in **Uttarakhand** or **Jharkhand** are classic wrong sets.
 - Do **not** confuse this N–S **longitude** line with the Tropic of Cancer (an E–W **latitude** line). They are different. Both do cut through **Madhya Pradesh** and **Chhattisgarh**, so map stems can mix them.
 
@@ -780,9 +780,9 @@ D. Only 1
 - It does **not** pass through **Uttar Pradesh**.
 - It does **not** pass through **Ladakh** (Ladakh lies near 32°–36° N).
 - It does **not** pass through Bihar, Odisha, Maharashtra, Karnataka, Kerala, Tamil Nadu, Punjab, Haryana, Delhi, Assam, Nagaland, Manipur, Arunachal, Sikkim, Himachal, Uttarakhand, Goa, Andhra Pradesh, or Telangana.
-- NCERT says the Tropic passes through the **middle** of the country. A stem that claims **equal land area** north and south of 23°30′ N is an overclaim: **more land lies north** of the Tropic.
+- NCERT says the Tropic passes through the **middle** of the country. That does **not** mean equal land area north and south of 23°30′ N: **more land lies north** of the Tropic.
 
-> ** note:** Rank = **7th**, not 6th. Area **2.4%**. Tropic through the **middle** = NCERT / 2022 Q35 statement 3. India is **not** wholly tropical. UP is **not** on the Tropic.
+> **Note:** Rank = **7th**, not 6th. Area **2.4%**. Tropic through the **middle** matches the NCERT wording used in **2022 Q35** statement 3. India is **not** wholly tropical. UP is **not** on the Tropic.
 
 **PYQ — UPPCS Prelims 2022, Q35Logic:** Stmt 1 tests rank (7th vs 6th). Stmt 2 tests area share. Stmt 3 is the NCERT “middle” wording (do not upgrade it to equal land area). Stmt 4 traps “wholly tropical.”
 
@@ -1119,7 +1119,7 @@ D. Vindhya Range
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Himadri (Greater Himalaya) = tectonically youngest major range. **B** = oldest fold mountains. **C/D** = ancient peninsular hills — "OLD Aravalli, YOUNG Himalaya" memory trick.
+**Ans: A** — Himadri (Greater Himalaya) = tectonically youngest major range. **B** = oldest fold mountains. **C/D** = ancient peninsular hills. Remember: **old Aravalli, young Himalaya**.
 </details>
 
 ---
@@ -1780,7 +1780,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) correct: 82°30′ E / Mirzapur / +5:30 / five states UP–MP–CG–Odisha–AP; Tropic = eight states W→E as listed. **(3) fails:** more land lies **north** of 23°30′ N, and the Tropic does **not** cross Ladakh (or UP). Trap: the **2022 Q35** NCERT “through the middle” wording is keyed **true** with 2.4% → paper key **A (2 and 3)**; do not mix that stem with this equal-area + Ladakh drill. **C/D** accept Ladakh / equal-area traps.
+**Ans: A** — (1) and (2) correct: 82°30′ E / Mirzapur / +5:30 / five states UP–MP–CG–Odisha–AP; Tropic = eight states W→E as listed. **(3) fails:** more land lies **north** of 23°30′ N, and the Tropic does **not** cross Ladakh (or UP). Trap: the **2022 Q35** NCERT “through the middle” wording is **true** with 2.4% → answer **A (2 and 3)** on that paper; this drill adds the equal-area + Ladakh false claims. **C/D** accept Ladakh / equal-area traps.
 
 </details>
 

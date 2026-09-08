@@ -47,20 +47,20 @@ Million-city **population ranks**. Missions and settlement types
 9. Town functions are classed by the **dominant** job: administrative, industrial, transport, commercial, mining, garrison, educational, religious or tourist.
 10. Class I towns have **≥1 lakh** people (468 towns in 2011 held about **60%** of urban population). Classes II–VI step down from 50–99 thousand to under 5 thousand.
 11. In the standard Indian size ladder, metropolitan cities are **10 lakh–50 lakh** and mega cities are **above 50 lakh** — **six** in 2011. A UN megacity is **≥1 crore**. Do not mix these three thresholds.
-12. 2011 million-plus UA rank starts **Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad**. There were **53** million-plus UAs; the smallest in that set is often keyed as **Kota**. The **2001** order Mumbai > Kolkata > Delhi is a trap for 2011 stems.
+12. 2011 million-plus UA rank starts **Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad**. There were **53** million-plus UAs; the smallest in that set is often **Kota**. The **2001** order Mumbai > Kolkata > Delhi is a trap for 2011 stems.
 13. An urban agglomeration can be a town with outgrowths, two contiguous towns, or a city with adjoining towns and outgrowths. Outgrowths include railway colonies, campuses, ports and cantonments.
-14. Settlement evolution cues: ancient **Varanasi / Prayag / Madurai**; medieval **Delhi / Agra / Jaipur / Lucknow**; modern planned **Chandigarh** (Le Corbusier). Satellite-town awareness includes Ghaziabad.
+14. Settlement evolution cues: ancient **Varanasi / Prayag / Madurai**; medieval **Delhi / Agra / Jaipur / Lucknow**; modern planned **Chandigarh** (Le Corbusier). Satellite towns include Ghaziabad.
 15. The **Smart Cities Mission** launched on **25 June 2015** for **100** cities under **MoHUA**, implemented through an SPV. ABD means area-based development (retrofit / redevelopment / greenfield) plus pan-city ICT.
 16. Uttar Pradesh’s **Central / Mission** Smart City list is **10**: Lucknow, Kanpur, Prayagraj, Agra, Varanasi, Aligarh, Bareilly, Jhansi, Moradabad and Saharanpur. **Ghaziabad is not** in that Central-10.
 17. Uttar Pradesh’s **State Smart Cities (2019)** are seven Nagar Nigams (including Ghaziabad, Meerut, Gorakhpur, Mathura, Ayodhya, Firozabad, Shahjahanpur). State list does not rewrite Mission-100 keys.
 18. ISAC-2020 theme facts: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh**; best cities included Indore and Surat.
 19. **HRIDAY** covers **12** heritage cities. In Uttar Pradesh the pair is **Varanasi and Mathura** — not Prayagraj or Ayodhya.
 20. **SPMRM (Rurban)** was **launched on 21 February 2016** (Cabinet approval 2015). Matching the scheme to **2015** is the classic trap. It is under **MoRD**, not MoHUA.
-21. **Rurbanization** is keyed to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
+21. **Rurbanization** is linked to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
 22. Scheme chronology: **JNNURM 2005** → Urban Housing Policy **2007** → **AMRUT June 2015** → **Jal Jeevan Mission 2019**. **AMRUT 2.0** is **1 October 2021**. **SAGY** is **2014**.
 23. Smart Cities = **MoHUA**; smart village / Rurban = **MoRD**. Keep the ministries separate.
 24. **Bhopal** is the classic “not on a major river bank” city trap against Agra, Patna or Kolkata.
-25. NCR slice of Uttar Pradesh includes Ghaziabad, Noida, Greater Noida and Meerut for urban–industrial awareness.
+25. NCR slice of Uttar Pradesh includes Ghaziabad, Noida, Greater Noida and Meerut in the urban–industrial belt.
 26. Hamleted villages break the main settlement into secondary units (**panna / para / palli / nagla / dhani**); they are a rural pattern, not a separate census-town category.
 
 ---
@@ -103,7 +103,7 @@ Human geography studies the **relationship between people and the physical earth
 - Physical geography studies nature; human geography studies how societies live in, use and reshape that nature.
 - The two are linked: humans naturalise themselves to the environment and also humanise nature through farms, houses, roads and cities.
 
-**Schools / approaches (coaching + NCERT)**
+**Schools / approaches**
 
 | Approach | Core fact | Name cue |
 |----------|-----------|----------|
@@ -111,7 +111,7 @@ Human geography studies the **relationship between people and the physical earth
 | **Possibilism** | Nature offers possibilities; humans choose | **Vidal de la Blache** |
 | **Neo-determinism / stop-and-go** | Nature sets limits; man can proceed carefully | **Griffith Taylor** |
 
-**Branches / fields (awareness, not a dump)**
+**Branches / fields**
 
 - Population geography, settlement geography, economic geography, social geography, political geography and cultural geography are standard subfields.
 - This chapter’s home is mainly **settlement geography** — rural patterns, urban hierarchy, town functions and urban missions — but nature/scope can still be asked as a fresh angle.
@@ -260,7 +260,7 @@ Size (Census class) and function are **different** questions.
 | **Mega city (NCERT table)** | **> 5 million** · **six** in 2011: Greater Mumbai, Delhi, Kolkata, Chennai, Bengaluru, Hyderabad · ~**21%** of urban pop |
 | **Megacity (UN)** | ≥ **10 million** · 2011 India: Mumbai, Delhi, Kolkata |
 | **Conurbation** | Once-separate cities fused (Mumbai–Thane) |
-| **Megalopolis** | Chain of conurbations (Boswash awareness) |
+| **Megalopolis** | Chain of conurbations (Boswash type) |
 | **Primate city** | One city dwarfs the national urban system — **India does not** have a single primate city (Mumbai vs Delhi) |
 | **NCR** | Delhi + **Ghaziabad, Noida, Greater Noida, Meerut** (UP) + Gurugram, Faridabad (HR) |
 
@@ -302,7 +302,7 @@ ABD one-liners: **retrofit** = improve existing area; **redevelopment** = replac
 | Social Aspects | **Tirupati** |
 | Urban Environment | **Bhopal** |
 
-Best cities in that cycle include **Indore + Surat**; Best **State = Uttar Pradesh**. Varanasi also won leadership / COVID / water-awareness tags in that cycle.
+Best cities in that cycle include **Indore + Surat**; Best **State = Uttar Pradesh**. Varanasi also won leadership / COVID / water awards in that cycle.
 **HRIDAY** (National Heritage City Development and Augmentation Yojana, **Jan 2015**, MoHUA) — **12** cities nationally. **UP = Varanasi + Mathura only** — not Prayagraj or Ayodhya.
 National 12 (for NOT-matched): Ajmer, Amravati, Amritsar, Badami, Dwarka, Gaya, Kanchipuram, **Mathura**, Puri, **Varanasi**, Velankanni, Warangal.
 
@@ -355,7 +355,7 @@ D. 18
 | **SPMRM** (Shyama Prasad Mukherji Rurban Mission) | Launch **21 Feb 2016** (Cabinet **16 Sep 2015**); **MoRD**; ~**300** clusters | **2015 ≠ launch year** (2023 NOT-matched) |
 | Sansad Adarsh Gram Yojana (SAGY) | **11 Oct 2014** | |
 | DDU-GKY | **2014** | |
-| Rural Housing Interest Subsidy Scheme | **2017** (as keyed with that paper) | |
+| Rural Housing Interest Subsidy Scheme | **2017** (that paper) | |
 | **JNNURM** | **2005** | Confusing with AMRUT |
 | National Urban Housing and Habitat Policy | **2007** | |
 | **AMRUT** | **June 2015**; ~**500** cities (all 1-lakh+ ULBs + capitals + HRIDAY cities + selected others) | 2005 |
@@ -400,7 +400,7 @@ D. SAGY — 2014
 
 **Inline PYQ — UPPCS Prelims 2025, Q72**
 
-Arrange the following in chronological order of launch / framing:
+Arrange the following in chronological order of launch:
 
 1. AMRUT
 2. JNNURM
@@ -720,7 +720,7 @@ D. Greater Mumbai, Kolkata, Delhi, Chennai
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard coaching angles)
+> **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard angles)
 
 **Q1.** With reference to a census town in India, which of the following statements is/are correct?
 
@@ -965,7 +965,7 @@ D. Kanpur
 
 ---
 
-**Q13.** Number of U.P. cities covered under the (Central) 'Smart City' Scheme in the 2020 framing is:
+**Q13.** Number of U.P. cities covered under the (Central) 'Smart City' Scheme in the 2020 paper is:
 
 A. 10
 
@@ -1110,7 +1110,7 @@ D. 4, 2, 3, 1
 
 ---
 
-**Q20.** The idea of ‘Rurbanization’ in the 2022 sociologist set is keyed to:
+**Q20.** The idea of ‘Rurbanization’ in the 2022 sociologist set is linked to:
 
 A. M. N. Srinivas
 

@@ -49,7 +49,7 @@ D. Northern plain
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (Series B provisional key).** Amw marks the western coastal strip (and parts of the north-east). Thar is BWhw; northern plain largely Cwg.
+**Ans: B.** Amw marks the western coastal strip (and parts of the north-east). Thar is BWhw; northern plain largely Cwg.
 
 </details>
 
@@ -67,7 +67,7 @@ D. Mistral
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (Series B provisional key).** Mango showers help ripen mangoes in Kerala and coastal Tamil Nadu.
+**Ans: B.** Mango showers help ripen mangoes in Kerala and coastal Tamil Nadu.
 
 </details>
 
@@ -546,7 +546,7 @@ Foehn / Chinook are warm-dry lee winds. They are not the same as cold night-time
 
 ### World local winds (full match map)
 
-- UPPCS has already asked Mistral, Shamal, Chinook, Foehn, Santa Ana, Haboob, Brickfielder, Leveche, Black roller, and Yamo. Next year’s paper can still pick **Sirocco, Bora, Harmattan, Khamsin, Zonda, Samun**, or a Willy-willy trap. Teach the **whole coaching set**, not only the asked names.
+- Past papers have already asked Mistral, Shamal, Chinook, Foehn, Santa Ana, Haboob, Brickfielder, Leveche, Black roller, and Yamo. Other standard local winds still worth knowing include **Sirocco, Bora, Harmattan, Khamsin, Zonda, Samun**, and the Willy-willy trap.
 - Local winds are short-lived and near the ground. Group them by **family**, then fact the region.
 - **Warm and dry after crossing a mountain (Foehn family)**
 - The **Foehn (Föhn)** is the Alpine warm, dry downslope. It can melt snow and help grapes ripen.
@@ -707,12 +707,12 @@ Köppen classifies climate by temperature and rainfall letter codes. Thornthwait
 | **As** | Monsoon with dry **summer** | **Tamil Nadu / Coromandel** (rain in NE monsoon) |
 | **BWh** | Hot desert | **Thar**, Kutch |
 | **BSh** | Semi-arid | Punjab, Haryana, Gujarat, rain-shadow Deccan |
-| **Cwg** | Monsoon with dry winter | **Indo-Gangetic / Great Plains** (Lucknow, Delhi, Patna); also keyed for **North Bihar**, **North Bengal / much of NE plain** class maps |
+| **Cwg** | Monsoon with dry winter | **Indo-Gangetic / Great Plains** (Lucknow, Delhi, Patna); also covers **North Bihar**, **North Bengal / much of NE plain** on class maps |
 | **H** | Highland | Himalayan slopes |
 | **E** | Polar / tundra | Highest snow zones only |
 
 - India is **not** all **Am**. The interior Deccan is **Aw**. The Thar is **BWh**. The Tamil Nadu coast is often mapped as **As** because its dry season is the south-west-monsoon **summer**.
-- Coaching “humid south-east” belts (Chotanagpur–Odisha–south Chhattisgarh fringe) sit in the wetter monsoon east; do not confuse with Thar **BWh**.
+- The “humid south-east” belts (Chotanagpur–Odisha–south Chhattisgarh fringe) sit in the wetter monsoon east; do not confuse with Thar **BWh**.
 
 ### Jet streams
 
@@ -2406,7 +2406,7 @@ D. Only 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only (3) is wrong. Harmattan is a **West** African Saharan dust wind, not East African. (1), (2), (4) are standard coaching matches.
+**Ans: A** — Only (3) is wrong. Harmattan is a **West** African Saharan dust wind, not East African. (1), (2), (4) are the correct matches.
 </details>
 
 **Q53.** With reference to named winds, which of the following statements is/are correct?
@@ -2623,7 +2623,7 @@ D. 15 °C
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Classic UPSC framing: **January 18 °C** isotherm. **A/C/D** are distractor isotherms.
+**Ans: B** — The classic isotherm used here is the **January 18 °C** line. **A/C/D** are distractor isotherms.
 
 </details>
 

@@ -115,7 +115,7 @@ D. South Africa
 
 ## N.0 Framework — World Minerals & Energy
 
-This chapter is a **field–country / mineral–place** match map. Geology first, then the Lucent names.
+This chapter is a field–country / mineral–place match set. Geology first, then the standard field names.
 
 - **Precambrian shields** host many metallic ores; **sedimentary basins** host coal, oil and gas; **Andean porphyry** belts host copper (and lithium brines nearby).
 - Fact **one identity line** per famous field: mineral · country · one trap.
@@ -318,7 +318,7 @@ D. France
 | **Karaganda** | Kazakhstan | Coal city; 2020 iron list treated as matched |
 | Anshan / Wuhan | China | |
 | Sishen | South Africa | |
-| Liberia / Mauritania | W Africa | Export names in older books |
+| Liberia / Mauritania | W Africa | Classic export names |
 | Odisha–Chhattisgarh–Jharkhand–Karnataka | India | Bailadila, Noamundi, Kudremukh — India-map detail |
 
 **Steel tonnage**
@@ -435,7 +435,7 @@ D. India
 
 **Producer fact (2022)**
 
-- **Chile** = leading producer in the paper’s framing.
+- **Chile** = leading producer in that paper.
 - Do not write “Chile has no copper”.
 
 **Inline PYQ — UPPCS Prelims 2022, Q41**
@@ -1318,7 +1318,7 @@ D. Methane
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
 
 **Q1.** Match List-I with List-II:
 
@@ -1896,7 +1896,7 @@ D. Chile
 
 **Q26.** Consider the following statements:
 
-1. Porphyry copper of northern Chile supports Chile’s copper lead in the 2022 framing.
+1. Porphyry copper of northern Chile supports Chile’s copper lead in the 2022 paper.
 2. Katanga is a DRC copper name.
 
 **Options:**
@@ -2432,7 +2432,7 @@ D. Laos and Cambodia
 **Q50.** How many of the following are correct?
 
 1. Chile leads the 2018 iodine fact.
-2. Chile leads the 2022 copper framing.
+2. Chile leads copper production in the 2022 paper.
 3. Chile’s Atacama is equatorial rainforest.
 
 **Options:**
@@ -2473,7 +2473,7 @@ D. Australia–Indonesia–Malaysia
 
 ---
 
-**Q52.** Which country dominates rare-earth **processing** in the usual coaching fact?
+**Q52.** Which country dominates rare-earth **processing** in the usual classification?
 
 A. Chile
 
@@ -2551,7 +2551,7 @@ D. A is false but R is true
 
 ---
 
-**Q56.** Cobalt production volume in coaching maps is classically linked to:
+**Q56.** Cobalt production volume is classically linked to:
 
 A. Dhahran oil fields
 

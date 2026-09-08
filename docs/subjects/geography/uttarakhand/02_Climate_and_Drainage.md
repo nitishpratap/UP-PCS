@@ -2,14 +2,14 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025 stem:** rivers west→east (Q109). 
+> **High-yield 2025:** rivers west→east (Q109). 
 > **Climate vulnerability / SCCC:** [Natural Hazards](07_Transport_Tourism_Natural_Hazards.md) (Q105–Q106).
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Correct |
 |------|------|
 | Climate type | Mountain / monsoon-modified; altitudinal zones from subtropical foothills to alpine |
 | Rainfall pattern | Windward Himalayan slopes wetter; rain-shadow pockets inland |
@@ -18,19 +18,19 @@
 | Yamuna | Western margin drainage of the state |
 | Bhilangana | Joins **Bhagirathi** in **Tehri** belt |
 | Alaknanda | Central Garhwal trunk; meets Bhagirathi at **Devprayag** to form Ganga |
-| Gori (Gori Ganga) | Eastern **Pithoragarh** system |
+| Gori (Gori Ganga) | Eastern **Pithoragarh** drainage |
 | Bhagirathi / Alaknanda | Twin Ganga source streams — not in the 2025 four-name west–east list as a pair |
 
 ---
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Correct |
 |------|------|
 | West→east vs east→west | Yamuna west; Gori east — reverse list is the distractor |
 | Bhilangana vs Alaknanda | Tehri tributary of Bhagirathi vs central Garhwal trunk |
 | Gori vs Kali | Gori is the 2025 eastern marker; Kali is the Nepal-border trunk nearby |
-| Climate CA vs physio | Vulnerability stems live under hazards topic |
+| Climate CA vs physio | Climate-vulnerability facts sit under the hazards topic |
 
 ---
 
@@ -45,7 +45,7 @@
 ## 2.2 Drainage framework
 
 - The state is the upper basin of the **Ganga** system (Bhagirathi–Alaknanda) and also carries the upper **Yamuna**.
-- West-to-east coaching order used in UKPCS 2025: **Yamuna, Bhilangana, Alaknanda, Gori**.
+- West-to-east order used in UKPCS 2025: **Yamuna, Bhilangana, Alaknanda, Gori**.
 - Bhilangana joins the Bhagirathi around the Tehri reservoir landscape.
 - Alaknanda drains central Garhwal through the prayag sequence.
 - Gori marks the eastern Kumaon / Pithoragarh drainage.
@@ -55,10 +55,10 @@
 ## Must-Score Facts
 
 1. West→east: Yamuna → Bhilangana → Alaknanda → Gori.
-2. Yamuna = western edge; Gori = eastern marker in that stem.
+2. Yamuna = western edge; Gori = eastern marker in that order.
 3. Bhilangana → Bhagirathi (Tehri); Alaknanda → Devprayag confluence story.
 4. Altitude = primary climate control.
-5. Climate-change policy stems → Topic 7.
+5. Climate-change policy facts → Topic 7.
 
 ---
 

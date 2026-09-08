@@ -5,7 +5,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds | Plantation (tea, coffee, cocoa, rubber) | Livestock | Shifting cultivation | Green Revolution / FAO | Von Thünen (awareness)
+Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds | Plantation (tea, coffee, cocoa, rubber) | Livestock | Shifting cultivation | Green Revolution / FAO | Von Thünen
 
 </details>
 
@@ -27,7 +27,7 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 ## Consolidated — 20 Must-Score Facts
 
 1. In plantation MCQs the classic plantation crop is **tea**, not wheat, rice, or maize. Plantation means estate, capital, monoculture, hired labour, and export.
-2. Coffee producer order for the frozen paper year: **Brazil > Vietnam > Colombia > Indonesia**. Brazil is mainly **arabica** on Terra Roxa; Vietnam is bulk **robusta**.
+2. Coffee producer order often taught for **2016** is **Brazil > Vietnam > Colombia > Indonesia**. Brazil is mainly **arabica** on Terra Roxa; Vietnam is bulk **robusta**.
 3. Major cocoa producers are **Côte d’Ivoire, Ghana, and Cameroon**. **Latvia** is not a cocoa producer. Cocoa originated in the Amazon.
 4. India’s rubber fact is **Kerala**. Rubber (*Hevea*) originated in the Amazon and moved to South-East Asia. Malaysia’s **Kinta Valley** is **tin**, not rubber.
 5. Shifting-cultivation names: **Jhum** (NE India), **Podu** (Andhra/Odisha), **Ladang** (Malaysia), **Milpa** (Mexico), **Roca** (Brazil), **Chena** (Sri Lanka), **Caingin** (Philippines).
@@ -90,7 +90,7 @@ This chapter links **farming systems** to **crop belts** and **producer ≠ expo
 
 **Order of this chapter**
 
-1. Systems + Whittlesey (+ Von Thünen awareness).
+1. Systems + Whittlesey (+ Von Thünen).
 2. Cereals → fibres / sugar / oilseeds.
 3. Plantation crops (tea, coffee, cocoa, rubber) + livestock + shifting + FAO/GR.
 
@@ -223,7 +223,7 @@ Derwent **Whittlesey (1936)** — standard 13-type world map. Learn **region + c
 | 4 | Cape of South Africa |
 | 5 | SW Australia (Perth side) |
 
-**Von Thünen model (awareness — NCERT / coaching)**
+**Von Thünen model**
 
 - Ideal isolated state: one market town, flat plain, uniform soil, farmers maximise rent.
 - **Rings from the city outward (classic teaching order):** intensive dairy / vegetables / flowers → **forestry** (bulky wood) → intensive field crops → extensive **grain** → **livestock ranching** on the outer margin.
@@ -452,7 +452,7 @@ D. Spanish and Americans
 | **Ethiopia** | **Origin** story of arabica — **not** the 2016 tonnage king |
 | **India** | Karnataka (**Kodagu, Chikmagalur, Hassan**) > Kerala (Wayanad) > Tamil Nadu (Nilgiri). Shade often **silver oak** |
 
-**Coffee rust** (*Hemileia vastatrix*) = famous plantation disease (Ceylon tea-shift story in older books).
+**Coffee rust** (*Hemileia vastatrix*) = famous plantation disease (Ceylon tea-shift story).
 
 **Inline PYQ — UPPCS Prelims 2018, Q28**
 
@@ -494,7 +494,7 @@ Trap **D** puts Colombia second. Trap **C** starts with Vietnam.
 | **Ghana** | #2 belt; quality name |
 | **Cameroon** | Major (2021 list) |
 | Nigeria | West African belt |
-| Indonesia, Ecuador, Brazil | New World / SE Asia awareness |
+| Indonesia, Ecuador, Brazil | New World / SE Asia |
 | **Latvia** | **NOT** a cocoa country (2021) — Baltic **temperate forest**, not equator |
 
 **Inline PYQ — UPPCS Prelims 2021, Q45**
@@ -629,7 +629,7 @@ Slash vegetation → **burn** → ash as fertiliser → crop **1–3 years** →
 | **Roca** | **Brazil** |
 | **Masole** | Congo basin |
 | **Ray** | Vietnam |
-| **Fang** | Equatorial Africa (awareness) |
+| **Fang** | Equatorial Africa |
 
 Humid tropics: Amazon, Congo, SE Asia hills, NE India, Central America.
 
@@ -866,7 +866,7 @@ D. Ozone layer — Troposphere
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
 
 **Q1.** Crop predominantly grown under plantation agriculture:
 
@@ -2021,7 +2021,7 @@ D. 1, 2 and 3
 
 ---
 
-**Q54.** The soybean export triangle in coaching maps is:
+**Q54.** The soybean export triangle is:
 
 A. India–China–Japan only
 

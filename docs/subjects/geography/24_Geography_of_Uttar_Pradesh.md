@@ -17,9 +17,9 @@
 
 </details>
 
-> **Sources baked in:** Lucent UP geography; Census **2011** (frozen); ISFR 2023 forest MCQ; ForumIAS / LotusArise UP coaching map; UPPCS Prelims 2018–2025
+> **Sources baked in:** Lucent UP geography; Census **2011** (frozen); ISFR 2023 forest MCQ; ForumIAS / LotusArise UP notes; UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — Dudhwa district, Ramsar NOT-in-UP, Devipatan, Lalitpur, potato, soils Mar/Kabar; teach full UP physical–human map
-> **Last verified:** August 2026 — coaching gap-pass (district extremes, rain Gorakhpur/Mathura, tubewell dark zones, Saryu Canal)
+> **Last verified:** August 2026 — gap-pass (district extremes, rain Gorakhpur/Mathura, tubewell dark zones, Saryu Canal)
 > **Current Affairs:** UP Ramsar **13** (Surha Tal / JP Narayan BS, Ballia = India’s 100th, 5 Jun 2026); CIP potato centre = **Agra (Singna)**, not Aligarh
 
 ---
@@ -118,7 +118,7 @@ This is the **state special** map chapter. Prelims mixes physical belts, rivers,
 2. Rivers → irrigation / power → agriculture → minerals / industry.
 3. Forests / PA → Ramsar → population / districts → urban / transport.
 
-Teach the **full UP map** — next year can ask any Lucent district extreme or canal, not only Dudhwa or potato.
+Teach the **full UP map** — next year can ask any standard district extreme or canal, not only Dudhwa or potato.
 
 ---
 
@@ -131,7 +131,7 @@ Teach the **full UP map** — next year can ask any Lucent district extreme or c
 - Neighbours: Uttarakhand, Haryana, Delhi, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, Bihar, and **Nepal**. Only foreign land border = **Nepal**.
 - **Uttarakhand** carved out on **9 November 2000** — UP has **no Himalayan high peaks** after that. **Nanda Devi is Uttarakhand**, not UP.
 - Nepal-border districts (**7**): Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, Maharajganj.
-- **District extremes (coaching fact):** northernmost **Saharanpur**; southernmost **Sonbhadra**; easternmost **Ballia**; westernmost **Shamli**.
+- **District extremes:** northernmost **Saharanpur**; southernmost **Sonbhadra**; easternmost **Ballia**; westernmost **Shamli**.
 - **18 divisions:** Agra, Aligarh, Ayodhya, Azamgarh, Bareilly, Basti, Chitrakoot, **Devipatan (Gonda)**, Gorakhpur, Jhansi, Kanpur, Lucknow, Meerut, Mirzapur, Moradabad, Prayagraj, Saharanpur, Varanasi.
 - Census **2011** remains the Prelims freeze until Census 2027.
 - Indus sites **in present UP:** Alamgirpur (Meerut), **Hulas** (Saharanpur), **Mandi** (Muzaffarnagar). **Not** Rakhigarhi (Haryana), Kalibangan (Rajasthan), Lothal (Gujarat).
@@ -221,7 +221,7 @@ Teach the **full UP map** — next year can ask any Lucent district extreme or c
 
 ## N.4 Soils of UP
 
-**Identity:** ~**90% alluvial** — do not call UP a black-soil state. Local names are the, not “alluvial” on every stem.
+**Identity:** ~**90% alluvial** — do not call UP a black-soil state. Local names (**Mar**, **Kabar**, **Usar**) matter more than repeating “alluvial” for every soil question.
 
 - **Khadar** = new floodplain, fine, fertile. **Bangar** = old alluvium, **kankar**. **Bhur** = sandy ridges (upper doab).
 - **Usar / reh / kallar / thur** = saline–sodic crusts on **west–central canal tracts** (Aligarh, Mainpuri, Etawah, Kanpur, Unnao, Raebareli, Lucknow). Fix = **gypsum + drainage**, not lime.
@@ -310,7 +310,7 @@ D. Sind → Ken → Chambal → Betwa
 
 **Identity:** Canal + tube-well state. West = more tube-well; east = more canal/rain.
 
-- **Tubewells** dominate irrigation share (**2018–19** coaching: tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**, other ~**0.8%**). Western UP faces **groundwater dark-zone / over-exploitation** pressure — do not write “only canals everywhere”. UP also leads absolute tubewell / well irrigated area and replenishable groundwater for irrigation among major states (~**40.7 bcm**).
+- **Tubewells** dominate irrigation share (**2018–19** figures: tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**, other ~**0.8%**). Western UP faces **groundwater dark-zone / over-exploitation** pressure — do not write “only canals everywhere”. UP also leads absolute tubewell / well irrigated area and replenishable groundwater for irrigation among major states (~**40.7 bcm**).
 - **Upper Ganga Canal** — **Bhimgoda, Haridwar** (right bank); Sir **P.T. Cautley**; first water **8 Apr 1854**; main ~298 km / system ~6496 km; west Doab command; also ~200 cusec to Delhi and ~100 cusec to **Harduaganj** TPP.
 - **Lower Ganga Canal** — from **Narora** (Bulandshahr), completed **1878**; main ~99 km / system ~8278 km.
 - **Eastern Yamuna Canal** — Tajewala / **Hathinikund** (Haryana) offtake; Saharanpur–Muzaffarnagar–Meerut–Ghaziabad Doab; revived from **1830**.
@@ -424,7 +424,7 @@ D. Sitapur
 | Sultanpur | **Haryana** | Not UP |
 | Surinsar–Mansar | **J&K** | Not UP |
 
-- **Sarsai Nawar** and **Samaspur** **are** in UP — do not drop them on “NOT in UP” stems.
+- **Sarsai Nawar** and **Samaspur** **are** in UP — do not drop them on “NOT in UP” questions.
 
 ---
 
@@ -470,7 +470,7 @@ D. Bahraich
 - Central / Mission Smart Cities = **10**: Lucknow, Kanpur, Prayagraj (Allahabad), Varanasi, Agra, Aligarh, Bareilly, Jhansi, Moradabad, Saharanpur. **Ghaziabad was not** in that 10 (2018). State-2019 list (Ghaziabad, Meerut, Gorakhpur, Mathura, Ayodhya, Firozabad, Shahjahanpur) does **not** rewrite 2018/2020 keys.
 - **HRIDAY** in UP = **Varanasi + Mathura only** — not Prayagraj or Ayodhya (2020).
 - **Expressways:** Yamuna (Noida–Agra, first), Agra–Lucknow, **Purvanchal** (Lucknow–Ballia), Bundelkhand, Ganga (Meerut–Prayagraj), Gorakhpur Link, Delhi–Meerut.
-- **Purvanchal (built):** Lucknow–Barabanki–Ambedkar Nagar–Azamgarh–**Mau**–Ghazipur–Ballia. Does **not** run through Basti. 2018 paper keyed **Mau** as “will not pass” — frozen paper, not today’s atlas.
+- **Purvanchal (built):** Lucknow–Barabanki–Ambedkar Nagar–Azamgarh–**Mau**–Ghazipur–Ballia. Does **not** run through Basti. On the **2018** paper the official answer for the “will not pass” proposal-stage question was **Mau**. On today’s map, Mau lies on that corridor.
 - **Rail:NER HQ = Gorakhpur**. NCR HQ = Prayagraj. No major **seaport**. **NW-1** = Ganga (Haldia–Prayagraj). Amrit Bharat = station **modernisation**; UP Feb 2023 = **149** (not 57/82/123; not new lines).
 - **Air:Kushinagar** granted international status **24 June 2020**. Jewar = Noida International (CA). Also Lucknow, Varanasi, Gorakhpur, Prayagraj, Kanpur, Ayodhya.
 
@@ -1273,7 +1273,7 @@ D. Rajasthan
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + syllabus gaps)
 
 **Q1.** Dudhwa National Park is in:
 
@@ -2383,7 +2383,7 @@ D. Westernmost — Saharanpur
 
 ---
 
-**Q52.** Highest vs lowest rainfall name facts in UP coaching maps are:
+**Q52.** Among the usual UP rainfall name facts, which is correct?
 
 A. Mathura highest · Gorakhpur lowest
 
@@ -2403,7 +2403,7 @@ D. Only Sonbhadra receives monsoon
 
 **Q53.** Which statement about UP irrigation is/are correct?
 
-1. Tubewells dominate share in many coaching figures.
+1. Tubewells dominate share in many standard figures.
 2. Western UP faces groundwater over-exploitation / dark-zone pressure.
 3. Saryu Canal National Project serves eastern UP.
 
@@ -2555,7 +2555,7 @@ D. Matatila — Ganga at Kannauj
 
 ---
 
-**Q61.** Westernmost district among the coaching extremes is:
+**Q61.** Westernmost district among the usual extremes is:
 
 A. Ballia
 
@@ -2663,7 +2663,7 @@ D. Devipatan — Basti headquarters
 10. **Mar = red** — FALSE. Mar/Kabar = **black**. Parua/Rakar = red.
 11. **Badua dam = UP** — FALSE.
 12. **Lalitpur touches many UP districts** — FALSE. **One**.
-13. **Mau is off today’s Purvanchal Expressway** — FALSE for the **built** road. 2018 key is a frozen paper, not the atlas.
+13. **Mau is off today’s Purvanchal Expressway** — FALSE for the **built** road. On the **2018** paper the “will not pass” answer was **Mau**; on today’s map Mau lies on that corridor.
 14. **UP Day = 26 January** — FALSE. **24 January**.
 15. **Ghaziabad = Central Smart City (2018/2020)** — FALSE. Central count = **10**.
 16. **Surinsar–Mansar = UP Ramsar** — FALSE. **J&K**.
@@ -2683,4 +2683,4 @@ D. Devipatan — Basti headquarters
 30. **Rain: Mathura highest / Gorakhpur lowest** — FALSE. Swap those name facts.
 31. **Easternmost = Sonbhadra** — FALSE. E = **Ballia**; S = **Sonbhadra**.
 32. **Irrigation = canals only** — FALSE. Tubewells dominate; west dark-zone pressure.
-33. **Skip non-PYQ UP districts** — FALSE. Next year can ask any Lucent extreme, canal, or soil.
+33. **Skip non-PYQ UP districts** — FALSE. Next year can ask any standard district extreme, canal, or soil.

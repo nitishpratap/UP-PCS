@@ -2,13 +2,13 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025 stems:** Silkyara length (Q51) · airports mismatch (Q103) · climate vulnerability (Q105) · SCCC / UAPCC (Q106).
+> **High-yield 2025:** Silkyara length (Q51) · airports mismatch (Q103) · climate vulnerability (Q105) · SCCC / UAPCC (Q106).
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Correct |
 |------|------|
 | Silkyara tunnel | **4.531 km**; Char Dham all-weather road; shortens Gangotri–Yamunotri link |
 | Pantnagar airport | **Udham Singh Nagar** |
@@ -25,19 +25,19 @@
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Correct |
 |------|------|
 | Gauchar–Rudraprayag | **Wrong** — Gauchar is **Chamoli** |
-| Silkyara 3.531 / 6.531 | Keyed length **4.531 km** |
+| Silkyara 3.531 / 6.531 | Correct length **4.531 km** |
 | UAPCC by Revenue Dept | **False** — wrong department |
-| SCCC year 2011 vs 2009 | **2011** keyed |
+| SCCC year 2011 vs 2009 | **2011** is correct |
 
 ---
 
 ## 7.1 Transport network
 
 - Road corridors (NH and Char Dham project) dominate connectivity; rail is stronger on the southern fringe.
-- **Silkyara–Barkot** tunnel (**4.531 km**) is the length stem for Gangotri–Yamunotri access.
+- **Silkyara–Barkot** tunnel (**4.531 km**) is the length fact for Gangotri–Yamunotri access.
 - Airfields: Pantnagar (US Nagar), Naini Saini (Pithoragarh), Chinyalisaur (Uttarkashi), Gauchar (**Chamoli**).
 
 ---
@@ -45,14 +45,14 @@
 ## 7.2 Tourism geography
 
 - Pilgrimage (Char Dham, Haridwar–Rishikesh), hill stations, wildlife, and adventure tourism structure the visitor map.
-- Festival / expo CA stems may appear in Current Affairs — keep place identity here.
+- Festival / expo Current Affairs may appear separately — keep place identity here.
 
 ---
 
 ## 7.3 Natural hazards and climate action
 
 - Fragile slopes, intense monsoon bursts, and seismic belts make the state highly disaster-prone.
-- Climate change worsens water stress and biodiversity pressure — both statements keyed true in 2025.
+- Climate change worsens water stress and biodiversity pressure — both statements were treated as true in 2025.
 - **SCCC (2011)** steers climate action; **UAPCC** was not a Revenue Department product.
 
 ---
@@ -120,7 +120,7 @@ D. Both incorrect
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Series B provisional key).** Both vulnerability and water-stress / biodiversity effects are keyed correct.
+**Ans: C (Series B provisional key).** Both vulnerability and water-stress / biodiversity effects are treated as correct.
 
 </details>
 

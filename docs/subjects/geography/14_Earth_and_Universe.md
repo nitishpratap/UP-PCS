@@ -8,7 +8,7 @@
 Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motions of Earth | Latitude | Longitude | Time | Time Zones | IDL | Atmosphere | Weather & Climate | Global Warming | El Niño | Coriolis | Jet Stream | Pressure Belts | Planetary Winds | ITCZ | Interior of the Earth | Continental Drift | Plate Tectonics | Fold & Fault Mountains | Volcano Types | Earthquake & Volcano Belts
 </details>
 
-> **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti physical geography notes, IMD/NASA framing, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti physical geography notes, IMD/NASA data, UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — ozone layer, El Niño plankton trap, Coriolis SH, jets westerly, Ring of Fire, GHG; teach full earth-system map
 > **Last verified:** August 2026
 > **Current Affairs:** Aditya-L1 (solar); Mangalyaan = first Indian Mars orbiter; Montreal vs Kyoto; El Niño–monsoon
@@ -54,10 +54,10 @@ D. Jupiter
 
 ## Consolidated — 28 Must-Score Facts
 
-1. Big Bang awareness is linked to **Gamow** (~13.8 billion years) and Hubble’s expanding universe. Steady State is linked to **Hoyle**. Nebular hypothesis is **Kant–Laplace**. The Milky Way is a **spiral** galaxy.
+1. Big Bang theory is linked to **Gamow** (~13.8 billion years) and Hubble’s expanding universe. Steady State is linked to **Hoyle**. Nebular hypothesis is **Kant–Laplace**. The Milky Way is a **spiral** galaxy.
 2. Solar-system order mnemonic is **MVEMJSUN**. **Venus** is the hottest planet (greenhouse). **Jupiter** is the largest. **Saturn** has the clearest ring system. **Mercury** has the fastest orbit.
 3. The asteroid belt lies between **Mars and Jupiter**. The largest moon is **Ganymede** (Jupiter). Titan belongs to Saturn; Phobos and Deimos belong to Mars.
-4. In one UPPCS framing, Saturn’s atmosphere fact is **methane**. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). **Mangalyaan** was India’s first Mars orbiter.
+4. In the 2022 Prelims set, Saturn’s atmosphere is linked with **methane**. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). **Mangalyaan** was India’s first Mars orbiter.
 5. A **solar eclipse** occurs at **New Moon**. A **lunar eclipse** occurs at **Full Moon**. Sunlight takes about **8 minutes 20 seconds** to reach Earth.
 6. Earth **rotates** in about **24 hours** (day–night) and **revolves** in about **365¼ days** (year / leap year). **Perihelion** is about **3 January**; **aphelion** about **4 July**.
 7. Seasons are caused by the **23½° axial tilt**, not by perihelion distance. Equinoxes are about **21 March / 23 September**; solstices about **21 June / 22 December**.
@@ -65,10 +65,10 @@ D. Jupiter
 9. India’s Standard Time is based on **82°30′ E** near **Mirzapur** and is **GMT + 5 hours 30 minutes** for the whole country. The International Date Line is near **180°** (zigzag); the west side is a day ahead.
 10. Atmosphere layers: **troposphere** holds weather; **stratosphere** holds the **ozone** UV shield; mesosphere is coldest; thermosphere / ionosphere lie above.
 11. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Same-latitude Agra vs Darjeeling temperature contrast is an **altitude** fact.
-12. Diffusion / scattering of light is linked to **dust** in one Prelims framing. **Weather** is short-term; **climate** is the long-term average.
+12. Diffusion / scattering of light is linked to **dust** in one Prelims set. **Weather** is short-term; **climate** is the long-term average.
 13. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Argon is not** a greenhouse gas. **Kyoto** deals with climate / carbon; **Montreal** deals with ozone.
 14. **El Niño** is a warm eastern Pacific / Peru current phase with **less upwelling**, so **plankton and fish fall**. It can disturb the Indian monsoon.
-15. Coriolis deflects to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere**. It is zero at the equator (Ferrel’s law awareness).
+15. Coriolis deflects to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere**. It is zero at the equator (Ferrel’s law).
 16. Jet streams are mainly high-altitude **westerlies** (polar jet and subtropical jet). The **Tropical Easterly Jet (TEJ)** is the summer easterly exception. Speeds can reach **300–500 km/h**. “All jets are easterly” is false.
 17. Pressure belts: ITCZ / equatorial **low** (doldrums); subtropical **high** near **30°** (horse latitudes); subpolar low near **60°**; polar high. Planetary winds are trades, westerlies and polar easterlies.
 18. **Roaring Forties** are strong westerlies near **40°S** (with Furious Fifties / Shrieking Sixties farther south). The ITCZ is a **low**; belts shift with the solstice seasons.
@@ -80,7 +80,7 @@ D. Jupiter
 24. Match facts: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
 25. Earthquake–volcano belts include the Pacific **Ring of Fire**, Mid-Atlantic Ridge, Alpine–Himalayan belt and East African Rift. India’s seismic map uses Zones II–V.
 26. Earth’s spheres — lithosphere, atmosphere, hydrosphere and biosphere — interact. Rocks cycle among igneous, sedimentary and metamorphic states.
-27. Heat-budget awareness: about **35**/100 of insolation is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
+27. Heat budget: about **35**/100 of insolation is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
 28. Nuclear and geothermal energy are **not** forms of stored solar energy. India’s Tropic of Cancer runs through the **middle** of the country — India is not wholly tropical and is not split into equal tropical halves by that line alone.
 
 ---
@@ -135,7 +135,7 @@ Physical geography studies Earth as interacting spheres.
 2. Earth’s motions and lat–long set day, seasons and time.
 3. Atmosphere and oceans set weather–climate engines (pressure, winds, El Niño, jets).
 4. Interior and plate tectonics set earthquakes, volcanoes and mountain belts.
-5. Rock cycle awareness: **igneous** (cooled magma), **sedimentary** (layers), **metamorphic** (changed by heat/pressure).
+5. Rock cycle: **igneous** (cooled magma), **sedimentary** (layers), **metamorphic** (changed by heat/pressure).
 
 Teach the **full map** below — next year can ask any standard NCERT angle, not only the last paper’s ozone or El Niño stem.
 
@@ -153,7 +153,7 @@ Several theories try to explain how the universe and solar system began. Learn t
 | Binary star | Russell | Companion star disrupted |
 | **Big Bang** | **Gamow** (Lemaître idea; ~**13.8 bn yr**) | Hot dense start; expansion |
 | **Steady State** | **Hoyle – Bondi – Gold** | Universe looks the same; continuous creation |
-| Pulsating | Oscillating bang–crunch awareness | |
+| Pulsating | Oscillating bang–crunch model | |
 | Cue | Fact |
 |------|------|
 | Expansion | **Hubble** — galaxies recede; redshift |
@@ -238,7 +238,7 @@ Parallels; 0° = Equator; **90°** poles. **1° latitude ≈ 111 km**.
 | Arctic / Antarctic circles | **66½°** | 90−23½ |
 | Heat zones | Torrid 23½–23½; temperate to 66½; frigid to poles |
 
-**India:** Area rank **7th** (not 6th); **2.4%** of world land. Tropic of Cancer “through the middle” = NCERT / 2022 Q35 stmt 3. India is **not** wholly tropical. A bare “equal latitudinal halves” overclaim is false if asked alone. UP is not on the Tropic.
+**India:** Area rank **7th** (not 6th); **2.4%** of world land. Tropic of Cancer “through the middle” matches 2022 Q35 statement 3. India is **not** wholly tropical. A bare “equal latitudinal halves” overclaim is false if asked alone. UP is not on the Tropic.
 Same latitude ≠ same temperature: **Agra vs Darjeeling** — altitude / thinner air (2022 A/R both true, R explains A).
 
 ---
@@ -257,7 +257,7 @@ Meridians meet at poles. **Prime Meridian = 0° Greenwich**.
 
 **Worked rule:** longitude difference × 4 min; east = add. 30° east of Greenwich = 12:00 + 2 h = 14:00.
 
-| Country cue | Time zones (awareness) |
+| Country cue | Time zones |
 |-------------|------------------------|
 | Russia | Most (11) |
 | USA | 6 (contiguous 4 + AK + HI) |
@@ -281,7 +281,7 @@ Composition (dry air): **N₂ ~78%**, **O₂ ~21%**, Ar ~0.9%, CO₂ ~0.04%. Wat
 | Exosphere | outermost | Merges into space |
 
 - The atmosphere is heated mainly by **long-wave terrestrial radiation**, not by incoming short-wave alone.
-- Diffusion / scattering of light in the classic UPPCS framing is linked with **dust particles**.
+- Diffusion / scattering of light in the classic UPPCS set is linked with **dust particles**.
 
 **Inline PYQ — UPPCS Prelims 2025, Q45**
 
@@ -329,7 +329,7 @@ D. Only geothermal heat
 | Absorbed by atmosphere | ~**14** |
 | Absorbed by Earth’s surface | ~**51** |
 
-Earth then returns energy as **long-wave** (the 2022 heating fact). Ozone **hole** awareness = **Antarctica** (spring); Montreal cut CFCs. Temperature **inversion** = lapse reversed (valley nights, fronts).
+Earth then returns energy as **long-wave** (the 2022 heating fact). Ozone **hole** = **Antarctica** (spring); Montreal cut CFCs. Temperature **inversion** = lapse reversed (valley nights, fronts).
 
 ---
 
@@ -372,7 +372,7 @@ Greenhouse gases trap **outgoing long-wave**.
 | Is a GHG | Not a GHG  |
 |----------|------------------|
 | Water vapour, **CO₂, CH₄, N₂O, O₃, CFCs/HCFCs** | **Argon** |
-| Natural set includes CO₂, CH₄, O₃, N₂O | “**Nitrogen oxide**” (NO/NO₂) in 2020 Q139 framing → **not** the natural GHG they want |
+| Natural set includes CO₂, CH₄, O₃, N₂O | “**Nitrogen oxide**” (NO/NO₂) in 2020 Q139 → **not** the natural GHG in that key |
 | Instrument | Fact |
 |------------|------|
 | **Montreal Protocol 1987** | **Ozone / CFC** |
@@ -1281,7 +1281,7 @@ D. Carbon dioxide
 
 ---
 
-**Q9.** Saturn’s atmosphere in the 2022 paper is keyed to which gas in large quantity among the options?
+**Q9.** Saturn’s atmosphere in the 2022 paper is linked to which gas in large quantity among the options?
 
 A. Sulphur dioxide
 

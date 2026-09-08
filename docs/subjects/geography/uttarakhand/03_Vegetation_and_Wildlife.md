@@ -2,14 +2,14 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025 stems:** Nanda Devi BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).
-> **Ghatnachakra vegetation locks:** birch · deodar belt · Lisa (pine resin) · khair = sub-tropical · highest-elevation tree.
+> **High-yield 2025:** Nanda Devi BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).
+> **Ghatnachakra vegetation facts:** birch · deodar belt · Lisa (pine resin) · khair = sub-tropical · highest-elevation tree.
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Correct |
 |------|------|
 | Forest richness | Large forest share; belts from tropical foothill to alpine — **relief + climate** explain it |
 | Altitude stack | Foothill sal → oak–rhododendron → chir / deodar / fir → alpine birch–juniper → bugyal |
@@ -31,12 +31,12 @@
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Correct |
 |------|------|
 | Askot vs Binsar districts | Pithoragarh vs Almora — classic swap |
-| Govind 1989 vs 1990 | **1990** keyed; 1989 pairs with Gangotri |
+| Govind 1989 vs 1990 | **1990** is correct; 1989 pairs with Gangotri |
 | Nanda Devi fauna | Snow leopard + musk deer + blue sheep (bharal) all in |
-| A true but R not explain | UKPCS 2025 keys **R explains A** for forest richness |
+| A true but R not explain | UKPCS 2025 treats **R as explaining A** for forest richness |
 | Lisa vs Burans | Lisa = **pine** resin; not Burans / deodar / sheesham |
 | Khair forest type | **Sub-tropical** (not sub-alpine / cool temperate) |
 | Deodar vs chir height | Deodar temperate **1500–2500 m**; chir sub-tropical pine lower (**~900–2000 m**) |
@@ -53,15 +53,15 @@
 - **Birch** belongs to Himalayan alpine / moist alpine scrub. Its white paper-like bark was used in ancient times for writing scriptures and texts.
 - **Southern** Himalayan slopes (including Uttarakhand’s outer face) get more rain and sunlight than the rain-shadow north face, so vegetation is denser on the southern side.
 - Tree-line is generally **lower** in the Western Himalaya than in the Eastern Himalaya.
-- Assertion–reason stems treat topography and climate as the primary explanation of biodiversity richness.
+- Assertion–reason questions treat topography and climate as the primary explanation of biodiversity richness.
 
 ---
 
-## 3.2 Forest products & species locks
+## 3.2 Forest products & species
 
 - **Lisa** is a major forest product obtained from **pine** trees of Uttarakhand. It is tapped for resin. Distillation yields turpentine oil and non-volatile resin used in paper, soap, cosmetics, paint, varnish, rubber, and polish industries. Lisa is a base of rural self-employment in the hills.
-- **Khair (catechu)** is keyed as a tree of **sub-tropical** forests — small shrubs / scrub of the Shiwaliks and western Himalaya above about **1000 m**, with khair, keekar, and acacia. Katha is obtained from khair wood (national product lock).
-- **Burans** (rhododendron) is the famous flowering hill shrub of Uttarakhand — do not confuse it with Lisa when the stem asks for pine resin.
+- **Khair (catechu)** is a tree of **sub-tropical** forests — small shrubs / scrub of the Shiwaliks and western Himalaya above about **1000 m**, with khair, keekar, and acacia. Katha is obtained from khair wood.
+- **Burans** (rhododendron) is the famous flowering hill shrub of Uttarakhand. **Lisa** is the pine-resin product — do not confuse the two.
 - Forests remain the major natural resource of the western Himalayan region (large forest share of land area).
 
 ---
@@ -275,7 +275,7 @@ D. Temperate Forests
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Khair is keyed to sub-tropical forests of the Shiwaliks and western Himalaya (with keekar / acacia scrub). Katha comes from khair wood.
+**Ans: C.** Khair belongs to sub-tropical forests of the Shiwaliks and western Himalaya (with keekar / acacia scrub). Katha comes from khair wood.
 
 </details>
 

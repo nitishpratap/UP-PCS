@@ -11,8 +11,8 @@
 
 </details>
 
-> **Sources baked in:** Lucent world-geography match-lists; NCERT world climate/vegetation; coaching map (Drishti world geography / EduRev–Lucent landforms); UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — mountain–country, desert size/country, grassland names, Med winter rain, volcano location, island statements; teach full Lucent map
+> **Sources baked in:** Lucent world-geography match-lists; NCERT world climate/vegetation; Drishti world geography / EduRev–Lucent landforms notes; UPPCS Prelims 2018–2025
+> **Weight:** ★★★ — mountain–country, desert size/country, grassland names, Med winter rain, volcano location, island statements
 > **Last verified:** August 2026 — coaching gap-pass (mountain families, desert causes, chernozem, residual/dome)
 > **Current Affairs:** none mandatory (static map chapter)
 
@@ -99,20 +99,20 @@ This chapter is Lucent **map-matching**: landform → country, desert → size/c
 2. Volcanoes → islands → deserts.
 3. Grasslands → vegetation → world climatic regions.
 
-Teach the **full Lucent map** — next year can ask any standard range, desert or grassland pair, not only Kilimanjaro or Gobi.
+Learn the full mountain, desert and grassland match set below — any standard range or pair can appear, not only Kilimanjaro or Gobi.
 
 ---
 
 ## N.1 Mountains
 
-**Four families** (coaching / Lucent)
+**Four families**
 
 | Family | Force / story | World examples |
 |--------|---------------|----------------|
 | **Fold** | Compression (orogeny) | Himalaya, Alps, Andes, Rockies, Atlas, Pyrenees, Zagros; **Appalachians** = old worn fold |
 | **Block / fault / rift** | Tension / uplifted blocks | Vosges, Black Forest, Sierra Nevada; African rift shoulders (**Kilimanjaro, Kenya, Rwenzori**) |
 | **Volcanic cone** | Magma | Fuji, Etna, Cotopaxi, Mauna Loa — location table in **N.4** |
-| **Residual / dome** | Old highland left after long denudation; or magma push (dome) | Residual leftovers of old folds (Appalachian-type worn highlands); **Black Hills** / laccolith **dome** awareness |
+| **Residual / dome** | Old highland left after long denudation; or magma push (dome) | Residual leftovers of old folds (Appalachian-type worn highlands); **Black Hills** / laccolith **dome** |
 
 **Highest peak by continent** (match-list gold)
 
@@ -150,7 +150,7 @@ Teach the **full Lucent map** — next year can ask any standard range, desert o
 | **Ethiopian Highlands** | Ethiopia | Blue Nile / Lake Tana source side |
 | **Rwenzori** | Uganda–DRC | **Mt Stanley** — country fact **Uganda** |
 | **Hoggar / Ahaggar** | **Algeria** | Sahara highland. **Not** Atlas |
-| **Tibesti** | Chad | Sahara highland, awareness |
+| **Tibesti** | Chad | Sahara highland |
 | **Zagros / Elburz** | Iran | Zagros = west fold; Elburz = north, **Damavand** |
 | **Tien Shan / Altai** | C Asia | Syr Darya / Ob headwaters |
 | **Kunlun** | N of Tibet | Tibet’s northern wall |
@@ -346,7 +346,7 @@ Pampas vs Campos: same “open land” idea, **different country** — Argentina
 |---------|---------|--------------|
 | **Fuji** | Japan | Pacific. Classic cone |
 | **Pinatubo** | Philippines | Pacific. 1991 eruption tag |
-| **Mayon** | Philippines | Pacific. Perfect cone awareness |
+| **Mayon** | Philippines | Pacific. Perfect cone |
 | **Apo** | Philippines | Highest PH; 2021 list |
 | **St Helens** | USA (Washington) | Cascades / Pacific. 1980 |
 | **Rainier** | USA | Cascades / Pacific. 2021 list |
@@ -364,7 +364,7 @@ Pampas vs Campos: same “open land” idea, **different country** — Argentina
 | **Erebus** | Antarctica | Ross Island; southern active |
 | **Hekla** | Iceland | Mid-Atlantic |
 
-> ** note:** If the stem says **Pacific Ring of Fire**, drop **Kilimanjaro** (and Etna if it appears). Paper spelling **Pericutine** = Paricutin, Mexico.
+> **Note:** For **Pacific Ring of Fire** lists, exclude **Kilimanjaro** (and Etna if it appears). Paper spelling **Pericutine** = Paricutin, Mexico.
 
 **Inline PYQ — UPPCS Prelims 2024, Q30**
 
@@ -483,9 +483,9 @@ D. Only 1
 
 ## N.6 Deserts
 
-Deserts are arid lands (coaching cut often **< 25 cm** rain) with sparse xerophytic vegetation.
+Deserts are arid lands (often **< 25 cm** rain) with sparse xerophytic vegetation.
 
-**Why hot deserts favour west coasts (coaching card)**
+**Why hot deserts favour west coasts**
 
 - Subtropical **Horse Latitudes** (descending dry air of the subtropical high).
 - **Cold ocean currents** on western margins suppress convection (fog possible, rain rare).
@@ -1459,7 +1459,7 @@ D. Gibson – Brazil
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 60 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 60 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
 
 **Q1.** Match List-I with List-II and select the correct answer using the codes given below the lists:
 
@@ -2443,7 +2443,7 @@ D. Only tundra permafrost
 
 ---
 
-**Q43.** Which mountain family best fits the Appalachians in the usual coaching fact?
+**Q43.** Which mountain family best fits the Appalachians in the usual classification?
 
 A. Young volcanic cone like Fuji
 
@@ -2745,7 +2745,7 @@ D. Australia > Greenland as the largest island
 
 A. Southern ocean only
 
-B. North side of the Alps in the coaching fact
+B. North side of the Alps
 
 C. Only Amazon basin
 

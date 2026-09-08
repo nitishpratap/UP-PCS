@@ -5,7 +5,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earthquakes | Seismic Zones | Tsunami | Landslides | Floods | Drought | Cloudburst | Heat / Cold Waves | Cyclones | Industrial / Chemical (awareness) | Disaster Management Framework (NDMA / Sendai / NDMP)
+Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earthquakes | Seismic Zones | Tsunami | Landslides | Floods | Drought | Cloudburst | Heat / Cold Waves | Cyclones | Industrial / Chemical | Disaster Management Framework (NDMA / Sendai / NDMP)
 </details>
 
 > **Sources baked in:** NCERT (disasters / interior), PWOnlyIAS / Drishti DM notes, BIS IS 1893:2016, IMD, NDMA / DM Act 2005 / NPDM 2009, UPPCS Prelims 2018–2025
@@ -39,18 +39,18 @@ Cyclone **formation** numbers. Ring-of-Fire **volcano list**.
 2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
 3. Earthquake **focus** is the point **inside** the Earth; **epicentre** is the point on the **surface** above it. **Richter** measures magnitude; **Mercalli** measures intensity / damage.
 4. Seismic waves arrive **P then S then surface**. The Himalaya is India’s highest seismic belt because of **collision and thrust zones**.
-5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V framing.
+5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V zones.
 6. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman & Nicobar** belt. Much of Rajasthan and the Deccan sits in Zones II–III.
 7. About **59%** of India’s landmass is earthquake-prone in NDMA lore. Famous shocks: Kangra 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
 8. A tsunami is caused by **seafloor displacement** (quake, landslide or volcano), not by ordinary wind waves. India’s warning hub is **INCOIS, Hyderabad**.
 9. **Kilimanjaro** sits on the East African Rift and is **not** part of the Pacific Ring of Fire.
 10. Landslide belts are the Himalaya, Western Ghats and North-East. cues include Kedarnath **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
-11. Flood types include riverine (Ganga–Brahmaputra), flash floods in hills, urban floods and coastal storm surge. Drought is classed as meteorological, hydrological and agricultural. IMD drought awareness often uses rainfall deficiency **>25%** of normal.
+11. Flood types include riverine (Ganga–Brahmaputra), flash floods in hills, urban floods and coastal storm surge. Drought is classed as meteorological, hydrological and agricultural. IMD drought criteria often use rainfall deficiency **>25%** of normal.
 12. IMD **cloudburst** fact is rainfall **≥100 mm in one hour**, typically in Uttarakhand–Himachal–J&K–North-East hill belts around **1000–2500 m**.
-13. IMD plains heat-wave gate: when **Tmax ≥40°C**, a departure of **4.5–6.4°C** is a heat wave and **>6.4°C** is severe; or actual **≥45°C / ≥47°C**. Criteria also use two stations for two days. Cold-wave plains gate awareness is **Tmin ≤10°C** with a sharp drop.
+13. IMD plains heat-wave gate: when **Tmax ≥40°C**, a departure of **4.5–6.4°C** is a heat wave and **>6.4°C** is severe; or actual **≥45°C / ≥47°C**. Criteria also use two stations for two days. Cold-wave plains gate is **Tmin ≤10°C** with a sharp drop.
 14. The **Bay of Bengal** produces **more** cyclones than the Arabian Sea. Peak seasons are roughly **May–June** and **October–December**. Arabian Sea storms can still hit Gujarat–Maharashtra (Tauktae / Kandla lore).
 15. Cyclone-name facts: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
-16. 2019 storm–place awareness: Dorian–Bahamas, Hagibis–Japan, Lekima–China, Mitag–Korea, with Indian Ocean names like Amphan, Fani and Tauktae also in the news map.
+16. 2019 storm–place pairs: Dorian–Bahamas, Hagibis–Japan, Lekima–China, Mitag–Korea, with Indian Ocean names like Amphan, Fani and Tauktae also in the news map.
 17. **NDMA** is chaired by the **Prime Minister**. **SDMA** is chaired by the **Chief Minister**. **DDMA** is chaired by the District Magistrate / Collector.
 18. Framework years: **DM Act 2005**, **NPDM 2009**, **NDRF 2006** (MHA), **NDMP 2016**, **Sendai Framework 2015–2030** (after Hyogo 2005–15), **CDRI 2019**. International Day for Disaster Risk Reduction is **13 October**.
 19. NEC cue = Union Home Secretary. **NIDM** handles training from Delhi. India is **not** a disaster-free country.
@@ -190,7 +190,7 @@ A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use *
 | **V** | Very high | Entire **NE** (except some plains pockets in some maps); **Andaman & Nicobar**; parts of **J&K / Ladakh, HP, Uttarakhand**; **Rann of Kutch (GJ)**; parts of N Bihar |
 | **IV** | High | Rest of Himalayan states; **Delhi**; **northern & eastern UP** (Terai / Ghaghara–Gandak belt); parts of Bihar, Haryana, Punjab, Maharashtra, J&K |
 | **III** | Moderate | Broad peninsula + **most of UP** (Lucknow, Kanpur, Prayagraj, Varanasi, Agra); Mumbai, Chennai, Kolkata often tagged III; **Latur, Koyna** belt |
-| **II** | Low | Large stable Deccan / western Rajasthan interiors (Hyderabad–Bengaluru belt awareness) |
+| **II** | Low | Large stable Deccan / western Rajasthan interiors (Hyderabad–Bengaluru belt) |
 
 **UP:** no Zone **V**. North/east Terai = **IV**; bulk of the state = **III**.
 
@@ -300,11 +300,11 @@ IMD wind ladder. Basins, landfall, local names:
 | **Arabian Sea** | Fewer; **does** hit **Gujarat / Maharashtra** (1998 Kandla; **Tauktae 2021**; Biparjoy 2023) |
 | Peaks | **May–Jun** and **Oct–Dec** (retreating monsoon). Mid-monsoon shear suppresses BoB |
 
-**India events (awareness):** Odisha Super Cyclone **1999**; Phailin 2013; Hudhud 2014 (Vizag); Fani 2019; **Amphan 2020**; Yaas 2021 — detail in named-storm bank below.
+**India events:** Odisha Super Cyclone **1999**; Phailin 2013; Hudhud 2014 (Vizag); Fani 2019; **Amphan 2020**; Yaas 2021 — detail in named-storm bank below.
 
 **Local names (match bank — next year can swap any pair)**
 
-UPPCS has already asked Hurricane / Typhoon–Taifu / Baguio / Willy-willies. Next stem can still pick **Cyclone (NIO)** or **Cordonazo**. Learn the bank; ★ = asked set.
+Regional cyclone names already covered include Hurricane / Typhoon–Taifu / Baguio / Willy-willies. Also learn **Cyclone (NIO)** and **Cordonazo**. ★ = already asked set.
 
 | Name | Country / basin | Note |
 |------|-----------------|------|
@@ -316,7 +316,7 @@ UPPCS has already asked Hurricane / Typhoon–Taifu / Baguio / Willy-willies. Ne
 | **Cyclone** | North Indian Ocean (**India**/BoB/Arabian) | IMD names |
 | **Cordonazo** | West Mexico Pacific | Coaching distractor |
 
-**2019 named-storm match (asked four) + nearby awareness**
+**2019 named-storm match (asked four) + nearby names**
 
 | Storm | Most affected (fact) |
 |-------|----------------------|
@@ -382,7 +382,7 @@ D. The Health and Family Welfare Minister
 | INCOIS | Tsunami — **Hyderabad** |
 | IMD | Cyclone, rainfall, heat/cold |
 
-**Sendai Framework — four priorities (awareness)**
+**Sendai Framework — four priorities**
 
 1. Understanding disaster risk.
 2. Strengthening disaster risk governance.

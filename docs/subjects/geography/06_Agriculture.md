@@ -37,7 +37,7 @@
 2. Groundwater covers about **64%** of irrigated area (**2018–19**: tubewell ~**48.5%**; canals ~**23%**; tanks ~**2.3%**). Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh; tanks suit the peninsula; drip suits horticulture. Minor projects (CCA ≤ **2,000 ha**) create ~**62%** of irrigation potential.
 3. **Kharif** (June–October) includes rice, maize, jowar, bajra, ragi, cotton, jute, groundnut, soy, and tur. **Rabi** (October–March) includes wheat, barley, gram, mustard, peas, and linseed, helped by Western Disturbances. **Zaid** (March–June) covers melons, cucumber, fodder, and vegetables. Cane is long-duration; tea, coffee, and rubber are perennial.
 4. Rice needs hot-wet conditions (often above **20–27°C** and above **100 cm** rain) on clayey alluvium. Methods include transplant, broadcast, drill, **DSR**, and **AWD**. Aus / Aman / Boro are eastern season names. **Azolla** is a biofertiliser. Golden rice carries **Vitamin A**.
-5. West Bengal often leads rice **volume**; Punjab leads **yield**. Textbook world rank is usually **second after China** unless the stem is the 2024–25 claim of first place.
+5. West Bengal often leads rice **volume**; Punjab leads **yield**. India is usually the world’s **second** rice producer after **China**. In **2024–25**, the Union Agriculture Minister claimed India had become **first** — that is a separate recent claim, not the usual textbook rank.
 6. Wheat needs cool growing weather and bright ripening, about **50–75 cm** rain, and loam soils. It is a **rabi** crop with two belts: Ganga–Satluj plains and Deccan black soil. Assam–Wheat is a wrong pair. India is usually world **number two**.
 7. Millet leaders: **Jowar = Maharashtra**, **Bajra = Rajasthan**, **Ragi = Karnataka**. Maize is food plus feed and mostly kharif. International Year of Millets 2023 marketed millets as **Shree Anna**.
 8. Pulses fix nitrogen through **Rhizobium**. Gram is rabi; tur, moong, and urad are kharif. India is the world’s top pulse producer.
@@ -48,7 +48,7 @@
 13. Sugarcane needs about **21–27°C** and **75–150 cm** rain or irrigation. **Uttar Pradesh leads quantity**; **Maharashtra leads productivity** and cooperatives. Frost and Loo hurt the north; the south is frost-free. Heavy rain lowers sugar; dry stress makes fibre. Price policy is **FRP** (plus SAP), not cereal MSP. Ratoon means a crop from stubble.
 14. Tea is a **plantation** crop needing about **20–30°C**, **150–300 cm** rain, and slopes — Assam, West Bengal, and Nilgiri. Coffee needs shade and is strongest in **Karnataka**, then Kerala and Tamil Nadu.
 15. Rubber needs about **25–35°C** and above **200 cm** rain; the correct state pair is **Kerala**. Pepper and cardamom also concentrate in **Kerala**. World citrus is a Mediterranean specialty.
-16. Potato leadership is with **Uttar Pradesh**. CIP-SARC is at **Agra (Singna)**, not Aligarh. **Sultana / Gulabi / Kali Champa:** UPPCS 2018 keyed **guava**; some banks key **grapes** — contested.
+16. Potato leadership is with **Uttar Pradesh**. CIP-SARC is at **Agra (Singna)**, not Aligarh. **Sultana / Gulabi / Kali Champa:** the UPPCS **2018** answer was **guava**; some question banks list **grapes** — sources disagree.
 17. Planning Commission agro-climatic zones = **15**; NARP zones about **127**; agro-ecological regions about **20**. The Trans-Gangetic belt is the classic Green Revolution wheat–rice zone.
 18. **CACP recommends** MSP; the **Cabinet decides**. Mandated MSP crops are **22**. Cane uses FRP, not the cereal MSP schedule.
 19. Green Revolution = HYV seed + water + fertiliser (Lerma Rojo, Sonora 64, IR-8) in Punjab–Haryana–western Uttar Pradesh. Costs include groundwater crash, monoculture, millet/pulse neglect, and the stubble window. **BGREI** targets eastern rice systems. Norman Borlaug’s Nobel is for **Peace**.
@@ -87,7 +87,7 @@
 | Kerala rubber vs GJ tea | KL–Rubber **correct**; GJ–Tea / Assam–Wheat **wrong** | Pick GJ tea | रबर = केरल |
 | Ahmedabad vs Mumbai | Ahmedabad in cotton **region**; largest mill centre traditionally **Mumbai** | Ahmedabad = largest centre | कपड़ा केंद्र = मुंबई |
 | Potato CIP | **Agra (Singna)** | Aligarh | आलू केंद्र = आगरा |
-| Guava vs grapes | **Sultana / Gulabi / Kali Champa:** UPPCS 2018 keyed **guava**; some banks key **grapes** | Treat as contested | अमरूद/अंगूर विवाद |
+| Guava vs grapes | **Sultana / Gulabi / Kali Champa:** UPPCS **2018** answer was **guava**; some banks list **grapes** | Sources disagree | अमरूद/अंगूर विवाद |
 | Azolla vs pesticide | Azolla = **biofertiliser** in rice | Insecticide | एजोला = जैव उर्वरक |
 | 15 vs 127 vs 20 | ACZ **15** / NARP **~127** / AER **~20** | Mix counts | 15 कृषि-जलवायु |
 | Sen vs Swaminathan | Food **entitlements** = Amartya Sen | Swaminathan | सेन = एंटाइटलमेंट |
@@ -96,7 +96,7 @@
 | White vs tossa jute | White = *capsularis* (flood-tolerant); tossa = *olitorius* (upland, better fibre) | Swap flood / upland | सफेद / टोसा जूट |
 | Cotton species vs staple | Four species (*arboreum / herbaceum / hirsutum / barbadense*); *hirsutum* = bulk; ELS = *barbadense* | “India grows only short staple” | चार प्रजाति; ELS कम |
 | Sikkim organic | Sikkim = first fully organic state | Call any NE state first | सिक्किम जैविक |
-| Rice rank | Textbook **#2 after China**; 2024–25 GoI **#1 claim** | Mix a 2018 stem with the 2025 headline | रैंक स्टेम पढ़ो |
+| Rice rank | Textbook **#2 after China**; 2024–25 GoI **#1 claim** | Mixing the usual rank with the 2025 headline | रैंक अलग रखें |
 | WB rice vs PB yield | WB often **volume** leader; Punjab **yield** leader | Punjab = largest producer always | बंगाल मात्रा; पंजाब उपज |
 | DSR vs transplant | DSR = seed in field, less water; transplant = nursery + puddle | DSR needs more standing water | डीएसआर = कम पानी |
 | Ratoon vs rotation | Ratoon = cane from **stubble**; rotation = change the crop | Call wheat a ratoon crop | रैटून = गन्ना |
@@ -119,7 +119,7 @@
 
 ## N.1 Land Use, Farming Types, Seasons
 
-India’s land-use reporting (NCERT / Ministry framing) splits reported area into seven heads. These are accounting classes for the agricultural year — not a soil map.
+India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported area into seven heads. These are accounting classes for the agricultural year — not a soil map.
 
 | Class | What it means |
 |-------|----------------|
@@ -151,7 +151,7 @@ India’s land-use reporting (NCERT / Ministry framing) splits reported area int
 | Wetland / irrigated farming | Standing water or assured canal/tube-well (rice, cane) |
 | Contract farming | **Punjab** is the classic pioneer state in India |
 
-- Agriculture still engages about **half or more** of India’s workforce (~**54.6%** in Economic Survey **2021–22** / Census 2011 framing) and contributes under **one-fifth** of GVA (~**18.8%** GVA, 2021–22 1st AE coaching lock). Remember the direction, not a frozen year.
+- Agriculture still engages about **half or more** of India’s workforce (~**54.6%** in Economic Survey **2021–22** / Census 2011) and contributes under **one-fifth** of GVA (~**18.8%** GVA, 2021–22 1st AE). The direction matters more than any single year figure.
 - Indian agriculture is marked by over-dependence on nature, low productivity, crop diversity, and **predominance of small holdings** — not large farms.
 - Low productivity causes: population pressure on land, small holdings, traditional practices, and disguised unemployment. **Cooperative farming** is a remedy, not a cause.
 - **Sikkim** has under **10%** land available for agriculture (forest hill state). UP, Punjab and Haryana are major grain states; **UP** often leads total foodgrain volume.
@@ -181,7 +181,7 @@ India’s land-use reporting (NCERT / Ministry framing) splits reported area int
 - Holding size classes: **marginal < 1 ha**; small 1–2 ha; semi-medium 2–4 ha; medium 4–10 ha; large **> 10 ha**.
 - Average size of operational holdings is often largest in **Rajasthan** among major states.
 - About **half of NSA** is still rainfed. Groundwater waters about **two-thirds** of the irrigated area.
-- Land-use ballpark (Ministry of Agriculture framing): net sown area about **45–47%**, forest about **23%**, other uses about **30–31%** (closest IAS 2010 option was 47 / 23 / 30).
+- Land-use ballpark (Ministry of Agriculture): net sown area about **45–47%**, forest about **23%**, other uses about **30–31%** (closest IAS 2010 option was 47 / 23 / 30).
 - Horticulture output has overtaken foodgrain tonnage in recent years. That is volume, not calorie king.
 - MSP and free power still pull **paddy in Punjab** and **cane in drought Maharashtra**. That is policy, not climate.
 
@@ -195,7 +195,7 @@ India’s land-use reporting (NCERT / Ministry framing) splits reported area int
 | Long / perennial | — | Sugarcane (10–18 months); tea, coffee, rubber |
 
 - India’s tropical monsoon supports diversified cropping almost year-round (2024 Q73 stmt 2 **true**).
-- Textbook framing: India has a **higher share of geographical area under cultivation** than USA, China and Japan (stmt 1 — keys sometimes split; treat stmt 2 as sure).
+- India has a **higher share of geographical area under cultivation** than USA, China and Japan (statement 1 in the usual multi-statement set; keys sometimes split on stmt 1, but stmt 2 on year-round cropping is sure).
 - Rabi belts of PB–HR–W UP also benefit from **western disturbances** (winter rain) plus irrigation.
 
 **School agricultural regions** (crop-system map — separate from the 15 ACZ names):
@@ -213,10 +213,10 @@ India’s land-use reporting (NCERT / Ministry framing) splits reported area int
 
 ### Rice
 
-Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **China**. The Union Agriculture Minister in **2024–25** claimed India had become **#1**. Keep the two stems apart. Do not “update” an old PYQ key.
+Hot + wet (or irrigation). India is usually the world’s **2nd** rice producer after **China**. In **2024–25**, the Union Agriculture Minister claimed India had become **#1** — treat that as a separate recent claim, not the usual textbook rank.
 
 - Temperature typically **>~20–27°C** (NCERT often stresses **>25°C** with high humidity).
-- Rain **~100 cm+** in NCERT. Many coaching notes use **>150 cm** for the humid core. Punjab rice is **irrigation**, not 150 cm rain.
+- Rain **~100 cm+** in NCERT. Many notes use **>150 cm** for the humid core. Punjab rice is **irrigation**, not 150 cm rain.
 - Soil: **clayey / alluvial** that puddles; standing water is typical.
 - Main season = **kharif** in the north. With irrigation, the south can grow rice **almost year-round**.
 - East also grows three paddies: **Aus / Aman / Boro** (Assam, West Bengal, Odisha).
@@ -250,9 +250,9 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 **Rabi** cereal. India ranks **2nd** globally.
 
 - Cool while growing (~10–15°C); **brighter / warmer while ripening** (~20–25°C).
-- UPSC framing: **moderate temperature and moderate rainfall** (not high heat + heavy rain).
+- Needs **moderate temperature and moderate rainfall** (not high heat + heavy rain).
 - Frost at flowering or rain at harvest hurts yield.
-- Rain **50–75 cm** evenly (coaching often ~**75 cm**), or irrigation; well-drained **alluvial loam**.
+- Rain **50–75 cm** evenly (many notes say about **75 cm**), or irrigation; well-drained **alluvial loam**.
 - Two textbook belts: (1) **Ganga–Satluj** plains of the north-west; (2) **black-soil** Deccan wheat.
 - Core states: **UP, Punjab, Haryana** (+ MP, RJ, Bihar).
 - **Assam–Wheat is wrong**.
@@ -290,7 +290,7 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 - India is the world’s **largest** producer — and still a major importer (largest consumer and importer among major crops).
 - **Cobalt** is essential for symbiotic nitrogen fixation by Rhizobium (and for vitamin B12 synthesis).
 - Balanced NPK ratios for legumes are often **0:1:1**, **1:2:2** or **1:2:3** — not a cereal-heavy N dose.
-- About **90%** of pulse area is classically rainfed (IAS framing).
+- About **90%** of pulse area is classically rainfed.
 - Varieties often asked: **Malaviya Chamatkar / Bahar / Amar** (arhar); **Aparna** = leafless pea; **UPAS-120** = arhar for wheat double-crop.
 
 | Pulse | Season | Note |
@@ -327,7 +327,7 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 - Groundnut needs **gypsum**-rich soil for quality pods.
 - Sesame often tops oil-content % among common oilseed options. **Safflower** = *Carthamus tinctorius*.
 - Mustard varieties: **Varuna, Pusa Bold, Pitambari** (yellow mustard). **Kaushal** = groundnut variety.
-- Soybean area is largest in **Madhya Pradesh**; recent production leadership can flip with **Maharashtra** — read the stem year.
+- Soybean area is largest in **Madhya Pradesh**; recent production leadership can flip with **Maharashtra** — check the year of the data.
 
 ### Cotton (white gold)
 
@@ -348,7 +348,7 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 | *Gossypium hirsutum* | American / Upland | **Bulk of India’s crop**; medium to long staple; most **Bt** hybrids |
 | *Gossypium barbadense* | Egyptian / Sea Island | **Extra-long staple (ELS)**; small premium pockets in the south |
 
-**Staple-length classes** (fibre length decides mill use; CCI / trade framing):
+**Staple-length classes** (fibre length decides mill use; CCI / trade classes):
 
 | Class | Approx. length | India note |
 |-------|----------------|------------|
@@ -387,7 +387,7 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 | **Mesta** | *Hibiscus cannabinus* / *H. sabdariffa* (related fibre, not true jute) | Grown on **drier** tracts as a jute substitute; coarser fibre |
 
 - In volume, eastern India grows both white and tossa; **tossa** has expanded where drainage is better.
-- Do **not** call mesta a separate “jute species” in a strict botanical stem — it is the **allied fibre** used like jute.
+- Do **not** call mesta a separate “jute species” in a strict botanical question — it is the **allied fibre** used like jute.
 
 ### Sugarcane
 
@@ -438,7 +438,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - World coffee (2018 PYQ, 2016 data): **Brazil > Vietnam > Colombia > Indonesia**.
 - Cocoa majors: Ivory Coast, Ghana, Cameroon — **Latvia NOT** (2021).
 - Philippines cane + coconut = Spanish & Americans (2023).
-- Tobacco leadership has shifted toward **Gujarat** in recent data (older stems often said Andhra Pradesh).
+- Tobacco leadership has shifted toward **Gujarat** in recent data (older questions often said Andhra Pradesh).
 - Coconut leadership: **Kerala** remains the classic lead (Karnataka close in recent years).
 - Cashew: **Maharashtra** often leads among states.
 - Saffron commercial production: **Jammu & Kashmir** (Zafran).
@@ -452,7 +452,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - Temperate hills: apple (J&K, HP, Uttarakhand).
 - World citrus belt = **Mediterranean**.
 - India’s orange fame = **Nagpur**.
-- **Guava varieties:** Lalit / Banarsi (improved). **Sultana, Gulabi, Kali Champa:** UPPCS **2018** keyed **guava**; Ghatnachakra keys **grapes** — treat as contested; prefer the official paper key for that year.
+- **Guava varieties:** Lalit / Banarsi (improved). **Sultana, Gulabi, Kali Champa:** the UPPCS **2018** answer was **guava**; Ghatnachakra lists **grapes** — sources disagree; for that year the paper answer is guava.
 - **Potato:** UP is the **leading producer**.
 - CIP South Asia Regional Centre is at **Singna, Agra** — **not Aligarh** (2025 Q34 Only 1).
 - Best processing potato varieties: **Kufri Chipsona-2** / Chipsona-3 (plains); **Kufri Himsona** (hills).
@@ -509,7 +509,7 @@ Three **number** facts — do not mix:
 
 - One state can sit in **multiple** zones.
 - Western Dry ≠ West Coast Ghats.
-- Trap stem: “India has 20 agro-climatic and 15 agro-ecological regions” — **both counts swapped** → whole statement set false (CGPCS-type).
+- Trap: “India has 20 agro-climatic and 15 agro-ecological regions” — **both counts swapped** → whole statement set false (CGPCS-type).
 - **P. Sengupta and G. Sdasyuk (1968)** divided India into **60** micro agricultural regions (Registrar General monograph).
 
 ### Agro-ecological regions (NBSS&LUP ≈ 20)
@@ -550,13 +550,13 @@ D. Assam—Wheat
 CAD develops the **command** of an existing project (channels, drainage, warabandi). It is **not** “build a new dam.” Classic CADP launches (from **Dec 1974**) include **Sharda Tributary**, **Ramganga**, and **Gandak**.
 
 - Most of India is warm enough that evaporation creates a soil-moisture deficit for crops — hence irrigation. Agriculture uses most of India’s freshwater (NCERT surface ~**89%** / groundwater ~**92%**; often cited **~80%** overall).
-- **2018–19** coaching lock: **tubewells ~48.5%** of irrigated area; wells + tubewells ~**64%**; canals ~**23%**; tanks ~**2.3%**. About **two-thirds** of irrigated land drinks **groundwater**. Punjab paddy + free power is the over-exploited poster.
+- **2018–19** shares: **tubewells ~48.5%** of irrigated area; wells + tubewells ~**64%**; canals ~**23%**; tanks ~**2.3%**. About **two-thirds** of irrigated land drinks **groundwater**. Punjab paddy + free power is the over-exploited poster.
 - Project size by **CCA**: **minor** ≤ **2,000 ha** (~**62%** of irrigation potential — wells, tubewells, tanks, lift, drip, sprinkler); **medium** **2,000–10,000 ha**; **major** > **10,000 ha**. Major + medium together cover about **38%**.
 - Rice and sugarcane together take a huge share of irrigation water, often in **water-stressed** states.
 - Micro-irrigation (drip/sprinkler) is still a **small** slice of irrigated area. It cuts nutrient loss and can slow groundwater decline in places — it is **not** the only dryland irrigation method. PMKSY (**1 Jul 2015**) “more crop per drop” is the scheme tag.
 - **Protective / life-saving irrigation** = watering at **permanent wilting point (PWP)**.
 - Peninsula classic = **tanks / ponds** (hard rock + seasonal rivers). Sir **Arthur Cotton** is the pioneer of irrigation works in South India.
-- **Uttar Pradesh** leads absolute tubewell / well irrigated area and replenishable groundwater among major state options (~**40.7 bcm** for irrigation). UP net irrigated share (2018–19 coaching): tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**. Spectacular tubewell growth lore = **Saryupar** plain (canal-scarce).
+- **Uttar Pradesh** leads absolute tubewell / well irrigated area and replenishable groundwater among major states (~**40.7 bcm** for irrigation). UP net irrigated share (**2018–19**): tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**. Spectacular tubewell growth lore = **Saryupar** plain (canal-scarce).
 
 | Type | Best terrain | Risk / note |
 |------|--------------|-------------|
@@ -606,7 +606,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 - **Permaculture** discourages monoculture, stresses mulching, and resists salinity buildup better than chemical monoculture. It **is** workable in semi-arid settings — the false IAS statement is that it is “not easily possible” there.
 - **Zero tillage** allows wheat sowing without burning previous residue, supports direct-seeded rice logic, and aids carbon sequestration.
 - **Conservation agriculture** core: minimum / zero tillage, residue mulch on the soil, and crop rotation / sequencing — **not** “ban plantation crops.”
-- Eco-friendly practice set in IAS stems: crop diversification, legume intensification, **tensiometer** use, and **vertical farming**.
+- Eco-friendly practice set in IAS questions: crop diversification, legume intensification, **tensiometer** use, and **vertical farming**.
 - **Green agriculture** (UPPCS wording) = integrated pest management + integrated nutrient supply + integrated natural resource management.
 
 ### Schemes (practice)
@@ -642,7 +642,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 
 ## N.8 Animal Husbandry
 
-- India = world’s largest **milk** producer by volume (about one-fourth of world milk in recent FAOSTAT framing).
+- India = world’s largest **milk** producer by volume (about one-fourth of world milk in recent FAOSTAT figures).
 - Buffalo are important in the north (higher fat).
 - **White Revolution:Verghese Kurien**, **Operation Flood**, **NDDB**, **Amul / Anand** cooperatives.
 - Textbook phases: **I 1970–81** (milk grids / coops) → **II 1981–85** (expand dairies) → **III 1985–96** (consolidate). White Revolution launch often tagged **July 1970**.
@@ -693,7 +693,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 - Cane = **FRP** (Fair and Remunerative Price), not the cereal MSP label.
 - **APMC** = regulated mandi; **e-NAM** = electronic national mandi network.
 - **PM-KISAN** = direct income support; **PMFBY** = crop insurance; **NFSM** = rice–wheat–pulses–millets–oilseeds push; **NMSA** = climate-smart / soil-water.
-- AIDC (Budget 2021–22 framing) on **29** products.
+- AIDC (Budget **2021–22**) on **29** products.
 - 2018 paddy MSP figure **₹1,750/q** is year-specific — remember the institution, not old rupees.
 - Fertiliser / power / irrigation support = **indirect** subsidy (2022 Q74 stmt 1 solid).
 
@@ -780,7 +780,7 @@ D. Ministry of Finance
 
 ## Complete PYQ Bank — Agriculture (2018–2025)
 
-> Study these as real papers: read the stem, attempt mentally, then open the answer.
+> Study these as real papers: read the question, attempt mentally, then open the answer.
 > **Coverage:** UPPCS Prelims 2018–2025 agri hits (MSP, crops, GR, revolutions, plantation, potato, Azolla, CACP, diseases, subsidies, W-UP). Year-grouped.
 
 ### 2018
@@ -797,7 +797,7 @@ D. Rs. 1,950
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Rs. 1,750)** — Year-specific. Prefer remembering CACP→Cabinet for lasting revision.
+**Ans: C (Rs. 1,750)** — Year-specific. CACP recommends and the Cabinet decides — that process is the lasting fact.
 </details>
 
 **Q28.** Arrange the following coffee producing countries in descending order of their coffee production (2016, quantity) and select the correct answer from the codes given below:
@@ -847,7 +847,7 @@ D. Ozone layer–Troposphere
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Ozone layer = **stratosphere**. **C** is correct (golden rice → Vitamin A). Trap is picking golden rice because another stem once mixed science pairs.
+**Ans: D.** Ozone layer = **stratosphere**. **C** is correct (golden rice → Vitamin A). Trap is picking golden rice because another question once mixed science pairs.
 
 </details>
 
@@ -1047,7 +1047,7 @@ D. 1 and 2
 
 <details><summary>Show answer</summary>
 
-**Ans: Contested in keys.** Statement **1 is solid** (fertiliser = indirect input subsidy). Statement **2 is usually treated as false** (cheap power/irrigation is also an *input/indirect* subsidy, not a direct cash transfer). 3 and 4 are false (WTO does not simply “allow direct / prohibit indirect”; not *all* Indian subsidies are indirect). Prefer **only-1 logic**; if forced to a letter, many coaches still mark **D** — know the trap rather than a fake certainty.
+**Ans:** Statement **1 is correct** (fertiliser = indirect input subsidy). Statement **2 is usually treated as false** (cheap power/irrigation is also an *input/indirect* subsidy, not a direct cash transfer). 3 and 4 are false (WTO does not simply “allow direct / prohibit indirect”; not *all* Indian subsidies are indirect). Best reading is **only 1**; some notes still mark **D** — know the trap.
 </details>
 
 **Q91.** With reference to Western Uttar Pradesh, which of the following statements is/are correct?
@@ -1184,7 +1184,7 @@ D. Only 2
 
 <details><summary>Show answer</summary>
 
-**Ans: A in most coaching keys** — Stmt 2 is unambiguously true. Stmt 1 is the usual NCERT-style claim (higher *share* of area cultivated than those three). If a key splits, still treat stmt 2 as sure.
+**Ans: A in most keys** — Stmt 2 is unambiguously true. Stmt 1 is the usual NCERT-style claim (higher *share* of area cultivated than those three). If a key splits, stmt 2 is still sure.
 </details>
 
 ### 2025
@@ -1246,7 +1246,7 @@ D. Only 1
 
 ## Complete PYQ Bank — Ghatnachakra Agriculture (UPPCS / UKPCS / standard)
 
-Older agriculture stems from Ghatnachakra CA–195 onward. Teaching locks live in N.1–N.11. No Logic lines.
+Older agriculture questions from Ghatnachakra CA–195 onward. Teaching cards live in N.1–N.11. No Logic lines.
 
 **Q-GC1. IAS Prelims 2013**
 
@@ -1472,7 +1472,7 @@ D. 60% / 20% / 20%
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Ballpark Ministry framing: net sown about **45–47%**, forest about **23%**, other about **30–31%**.
+**Ans: B.** Ballpark Ministry figures: net sown about **45–47%**, forest about **23%**, other about **30–31%**.
 
 </details>
 
@@ -1684,7 +1684,7 @@ D. Himachal Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Uttar Pradesh** leads absolute groundwater irrigation volume among major states (~40.7 bcm framing).
+**Ans: B.** **Uttar Pradesh** leads absolute groundwater irrigation volume among major states (~40.7 bcm).
 
 </details>
 
@@ -1785,7 +1785,7 @@ D. only deep ploughing every season
 
 **Q-GC28. Agriculture Census 2015–16**
 
-As per Agriculture Census 2015–16 framing, small + marginal farmers are about
+As per Agriculture Census 2015–16, small + marginal farmers are about
 
 A. 26% of farmers owning 86% of area
 
@@ -2558,7 +2558,7 @@ D. the Cotton White Gold belt
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Sikkim** was declared the first fully organic state (**2016** framing).
+**Ans: B.** **Sikkim** was declared the first fully organic state (**2016**).
 
 </details>
 
@@ -2792,7 +2792,7 @@ D. only barren rock
 
 **Q-GC79. UPPCS / standard**
 
-About what share of irrigated area is watered by groundwater (wells + tubewells) in recent coaching framing?
+About what share of irrigated area is watered by groundwater (wells + tubewells) in recent figures?
 
 A. About one-tenth
 
@@ -2824,7 +2824,7 @@ D. only inundation canals
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** UP irrigation is tubewell-heavy (~**74.6%** tubewell in 2018–19 coaching).
+**Ans: B.** UP irrigation is tubewell-heavy (~**74.6%** tubewell in **2018–19**).
 
 </details>
 
@@ -3281,7 +3281,7 @@ D. (A) is false, but (R) is true
 **Ans: D** — UPPCS 2020 Q58. Traditionally largest centre = **Mumbai**; R true.
 </details>
 
-**Q15.** Arrange the following coffee-producing countries in descending order of production (2016 framing):
+**Q15.** Arrange the following coffee-producing countries in descending order of production (2016):
 
 1. Colombia
 2. Vietnam
@@ -3299,7 +3299,7 @@ D. 3, 2, 4, 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Brazil > Vietnam > Colombia > Indonesia (2018 PYQ framing).
+**Ans: A** — Brazil > Vietnam > Colombia > Indonesia (2018 PYQ).
 </details>
 
 **Q16.** Sultana, Gulabi and Kali Champa are varieties of:
@@ -3803,7 +3803,7 @@ D. 210
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Soils + Length of Growing Period framing.
+**Ans: B** — Soils + Length of Growing Period.
 </details>
 
 **Q47.** Murrah is a famous breed of:
@@ -3939,7 +3939,7 @@ D. Only MSP Cabinet meetings
 **Ans: A** — Online mandi network over APMC platforms.
 </details>
 
-**Q55.** Agriculture Infrastructure and Development Cess (Budget 2021–22 framing) was levied on how many products?
+**Q55.** Agriculture Infrastructure and Development Cess (Budget 2021–22) was levied on how many products?
 
 A. 10
 
@@ -4063,7 +4063,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — NCERT two-belt framing. Assam is not a wheat belt.
+**Ans: C** — NCERT two-belt picture. Assam is not a wheat belt.
 </details>
 
 **Q62.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
@@ -4162,7 +4162,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (3) fails. Standard textbooks put India **second after China**. A 2024–25 government claim of #1 is a different stem.
+**Ans: A** — (3) fails. Standard textbooks put India **second after China**. A 2024–25 government claim of #1 is a different, later claim.
 
 </details>
 
@@ -4179,7 +4179,7 @@ D. a frost-loving Himalayan crop
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — NCERT / coaching cotton framing. About two-thirds rainfed. Frost is injurious.
+**Ans: B** — NCERT cotton facts. About two-thirds rainfed. Frost is injurious.
 
 </details>
 
@@ -4236,7 +4236,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Coaching canal-soil cue. Tanks still dominate much of the hard-rock peninsula.
+**Ans: A** — Canal-soil cue. Tanks still dominate much of the hard-rock peninsula.
 
 </details>
 
@@ -4299,7 +4299,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** ACZ **15**, AER **20**, Sengupta–Sdasyuk micro regions **60**. Trap stems swap 15 and 20.
+**Ans: D.** ACZ **15**, AER **20**, Sengupta–Sdasyuk micro regions **60**. Trap questions swap 15 and 20.
 
 </details>
 
@@ -4415,7 +4415,7 @@ Reason (R): Sikkim has less than 10% of its land available for agriculture.
 8. **Ahmedabad = India’s largest cotton textile centre** — FALSE. In cotton *region* yes; largest mill centre traditionally **Mumbai**.
 9. **Maharashtra coops explain UP’s lower cane yield** — FALSE. Both facts true; R does **not** explain A (2019).
 10. **CIP potato centre = Aligarh** — FALSE. **Agra (Singna)**; UP is potato leader.
-11. **Sultana/Gulabi/Kali Champa = grapes only** — Contested. UPPCS **2018** keyed **guava**; Ghatnachakra keys **grapes** — prefer the official paper key for that year.
+11. **Sultana/Gulabi/Kali Champa = grapes only** — Sources disagree. The UPPCS **2018** answer was **guava**; Ghatnachakra lists **grapes** — for that year the paper answer is guava.
 12. **ACZ = 127 or 20** — FALSE. Planning ACZ = **15**; NARP ~127; AER ~20.
 13. **Azolla = insecticide** — FALSE. **Biofertiliser** in flooded rice (2023).
 14. **Food entitlements = Swaminathan** — FALSE. **Amartya Sen**.
@@ -4423,7 +4423,7 @@ Reason (R): Sikkim has less than 10% of its land available for agriculture.
 16. **Only one wheat belt** — FALSE. Ganga–Satluj plains **and** Deccan black-soil wheat.
 17. **Cotton = golden fibre** — FALSE. Cotton = **white gold**; jute = **golden fibre**.
 18. **Any NE state = first organic** — FALSE. **Sikkim** is the first fully organic state.
-19. **India is always rice #1 in every old PYQ** — FALSE. Textbook rank is **#2 after China** unless the stem is the 2024–25 claim.
+19. **India is always rice #1** — FALSE. Textbook rank is **#2 after China**. The **2024–25** GoI claim of first place is a separate recent claim.
 20. **Punjab is always India’s largest rice producer** — FALSE. It is the **yield** king; **West Bengal** often leads **volume**.
 21. **DSR needs more standing water than transplanting** — FALSE. DSR is the **water-saving** method.
 22. **BGREI is a Punjab second Green Revolution** — FALSE. It is an **eastern** rice-system programme.

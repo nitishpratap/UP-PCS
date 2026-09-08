@@ -57,7 +57,7 @@ D. Chilka, Michigan, Superior, Victoria
 ## Consolidated — 40 Must-Score Facts
 
 1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin cues: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
-2. **Chilika** is the largest **east-coast lagoon** (Odisha / Northern Circars). If a stem says “largest saline” and omits “inland,” Chilika is often the intended key.
+2. **Chilika** is the largest **east-coast lagoon** (Odisha / Northern Circars). If a question says “largest saline” and omits “inland,” Chilika is often the intended answer.
 3. **Sambhar** is the largest **inland** saline lake (Rajasthan). Sister Rajasthan saline names include Didwana, Kuchaman, Sargol, and Khatu.
 4. **Wular** is the largest-freshwater volume fact (Jammu & Kashmir, on the Jhelum, tectonic). **Dal** is the tourism lake. **Roopkund** is Uttarakhand’s Mystery / Skeleton Lake.
 5. **Loktak** (Manipur) holds **phumdis**, **Keibul Lamjao**, and the Sangai. **Kabartal** is Bihar’s oxbow Ramsar lake.
@@ -89,7 +89,7 @@ D. Chilka, Michigan, Superior, Victoria
 31. Lonar is a **meteorite crater** in Maharashtra basalt, not a volcanic caldera and not a tectonic basin like Wular.
 32. India now has **100 Ramsar** sites; Uttar Pradesh has **13**, with **Surha Tal / JP Narayan Bird Sanctuary, Ballia** as the 100th site.
 33. Irrigation project size by **Culturable Command Area (CCA)**: **minor** up to **2,000 ha** (~**62%** of irrigation potential); **medium** **2,000–10,000 ha**; **major** above **10,000 ha** (~**38%** via major + medium together).
-34. **2018–19** source share (provisional coaching lock): **tubewells ~48.5%**; wells + tubewells together ~**64%**; **canals ~23%**; **tanks ~2.3%**. Wells/tubewells — not canals alone — are the dominant national source.
+34. **2018–19** source share (provisional): **tubewells ~48.5%**; wells + tubewells together ~**64%**; **canals ~23%**; **tanks ~2.3%**. Wells/tubewells — not canals alone — are the dominant national source.
 35. **Garland Canal** idea = Captain **Dinshaw J. Dastur**. First river-linking thought often tagged to **M. Visvesvaraya**; later **K.L. Rao**. **Hariyali** (27 Jan **2003**) = watershed / rural water storage. **PMKSY** approved **1 July 2015**.
 36. Peninsula irrigation classic = **tanks / ponds** (hard rock + seasonal rivers). Groundwater resources available for irrigation among major states: **UP** leads (about **40.7 bcm**), then Punjab, Madhya Pradesh, Maharashtra.
 37. **DVC (1948)** is the first multipurpose valley project of independent India; Damodar = **Sorrow of Bengal**. Tilaiya / Maithon on **Barakar**; Panchet on Damodar.
@@ -137,7 +137,7 @@ D. Chilka, Michigan, Superior, Victoria
 | Oxbow vs lagoon | Oxbow = cut-off meander on a floodplain; lagoon = barred coast | Call Chilika an oxbow | गोखुर ≠ लैगून |
 | Tectonic vs crater | Wular = tectonic basin; Lonar = meteorite in basalt | Lonar as tectonic | वुलर = विवर्तनिक; लोनार = उल्का |
 | Kabartal vs Wular | Kabartal = Bihar oxbow Ramsar; Wular = J&K tectonic freshwater | Swap size kings | कबरताल = बिहार |
-| Sharavati vs Cauvery | Jog is on **Sharavati**, a **west-flowing** Karnataka river | coaching slip: Sharavati as Cauvery tributary | शरावती ≠ कावेरी |
+| Sharavati vs Cauvery | Jog is on **Sharavati**, a **west-flowing** Karnataka river | Wrong slip: Sharavati as Cauvery tributary | शरावती ≠ कावेरी |
 | Kunchikal vs Nohkalikai | Kunchikal = highest **total**; Nohkalikai = tallest **plunge** | Swap the two height titles | कुंचिकल कुल; नोहकलिकाइ प्लंज |
 | Kapildhara vs Jog | Kapildhara = **Narmada**; Jog = Sharavati | Kapildhara on Godavari (UPSC 2008 trap) | कपिलधारा = नर्मदा |
 | Shivanasamudra vs Jog | Both Karnataka; Shivanasamudra = **Cauvery** | Put Jog on Cauvery | शिवसमुद्र = कावेरी |
@@ -156,11 +156,11 @@ D. Chilka, Michigan, Superior, Victoria
 ## N.0 Framework
 
 - A **lake** is standing water in a basin on land. It is not the ocean, and it is larger and deeper than a pond.
-- A **lagoon** is barred from the sea by a spit or bar. Coaching notes therefore treat lagoons as **marine-deposit** lakes, not true inland lakes.
+- A **lagoon** is barred from the sea by a spit or bar. Notes therefore treat lagoons as **marine-deposit** lakes, not true inland lakes.
 - An **endorheic** lake has no surface outlet. It loses water by evaporation or seepage and often turns saline.
 - **Temporary** desert pans exist where evaporation exceeds precipitation. **Permanent** lakes are deep enough that precipitation and inflow beat evaporation.
 - Most lakes on Earth are freshwater. Salt lakes form where there is no outlet or where evaporation is fierce (Dead Sea, Great Salt Lake, Aral, Sambhar belt).
-- Coaching notes classify lakes by **how the hollow formed**, then by chemistry. UPPCS still asks the chemistry kings first (Chilika / Sambhar / Wular). Learn origin so a new stem can switch the angle.
+- Notes classify lakes by **how the hollow formed**, then by chemistry. UPPCS still asks the chemistry kings first (Chilika / Sambhar / Wular). Learn origin so a new question can switch the angle.
 - No lake is permanent on a geological clock. Draining and silting will fill it.
 - India’s **water-resource** story is separate from “name the lake.” Precipitation is large. Utilisable water is much smaller. Groundwater now irrigates more land than canals. Multipurpose dams store, generate, and cushion floods. They do not create new rain.
 
@@ -174,7 +174,7 @@ Papers ask lakes in **two different ways**. Do not mix them in one mental list.
 
 Ask: *What kind of water is it, and who is the largest?*
 
-| If the stem says… | Pick | Where | Why this one wins |
+| If the question says… | Pick | Where | Why this one wins |
 |-------------------|------|-------|-------------------|
 | Largest **lagoon** / east-coast lagoon | **Chilika** | Odisha | Barred from the sea; brackish; biggest east-coast lagoon |
 | Largest **saline** (**no** word “inland”) | **Chilika** | Odisha | Papers often treat Chilika as the saline king by area |
@@ -185,7 +185,7 @@ Ask: *What kind of water is it, and who is the largest?*
 
 | Wrong thought | Correct |
 |---------------|------------|
-| “Saline” → always Sambhar | Only if stem says **inland** |
+| “Saline” → always Sambhar | Only if the question says **inland** |
 | Chilika = inland Rajasthan lake | Chilika = Odisha **coast** |
 | Wular = saline | Wular = **fresh** |
 | Kolleru = lagoon king | Kolleru = **freshwater** delta lake; Chilika is lagoon king |
@@ -204,16 +204,16 @@ Ask: *How was the hollow made?*
 | **Crater (meteorite)** | Hollow from a meteor hit | **Lonar** (Buldhana, MH) | Calling it a volcano or RJ salt pan |
 | **Glacial / high mountain** | Ice-cut tarn or high closed basin | Chandra Tal, Roopkund, Tsomgo; Pangong / Tso Moriri (high, often brackish) | Calling Pangong India’s freshwater size-king |
 | **Lagoon (bar)** | Sea water trapped behind a sandbar | **Chilika**, Pulicat | Calling Chilika inland saline |
-| **Wind / playa** | Desert hollow, water evaporates | **Sambhar** belt | Using Sambhar for every “saline” stem |
+| **Wind / playa** | Desert hollow, water evaporates | **Sambhar** belt | Using Sambhar for every “saline” question |
 | **Artificial** | Reservoir behind a dam | Gobind Sagar, Hirakud, Tehri, Pant Sagar | Treating them as natural glacial lakes |
 
 **Quick read:** Size/chemistry table answers “largest saline / lagoon / freshwater.” Origin table answers “oxbow / crater / tectonic / glacial.” Same lake can appear in both (Wular = freshwater **and** tectonic; Chilika = lagoon **and** bar origin).
 
-### Origin types (coaching map) — full teaching
+### Origin types
 
 **Earth movement**
 
-- A **tectonic** lake sits in a crustal warp, fracture, or subsidence. **Wular** on the Jhelum is India’s freshwater tectonic king. The coaching world set for huge tectonic basins includes **Titicaca** and the **Caspian**.
+- A **tectonic** lake sits in a crustal warp, fracture, or subsidence. **Wular** on the Jhelum is India’s freshwater tectonic king. Huge world tectonic basins include **Titicaca** and the **Caspian**.
 - **Pangong Tso** and **Tso Moriri** sit in high Ladakh basins tied to India–Eurasia collision. They are endorheic and brackish. Do not treat them as size-kings of Indian freshwater.
 - A **rift-valley** lake is long, narrow and deep between parallel faults. East African examples (Tanganyika, Malawi, Turkana) and the **Dead Sea** (below sea level) are the world set.
 - India has no Tanganyika-scale rift lake. Narmada and Tapi occupy rifts, but they are **rivers**, not lakes.
@@ -227,7 +227,7 @@ Ask: *How was the hollow made?*
 **Volcanic and impact**
 
 - A **crater or caldera** lake fills a blown volcanic hollow. Krakatau is a world example.
-- **Lonar** in Buldhana is a **meteorite** crater in Deccan basalt, saline–alkaline, Ramsar 2020. Coaching notes list it under crater lakes. Do **not** treat it as a volcanic caldera or a Rajasthan salt pan.
+- **Lonar** in Buldhana is a **meteorite** crater in Deccan basalt, saline–alkaline, Ramsar 2020. Notes list it under crater lakes. Do **not** treat it as a volcanic caldera or a Rajasthan salt pan.
 
 **Erosion**
 
@@ -239,8 +239,8 @@ Ask: *How was the hollow made?*
 - An **oxbow** forms when a meander neck is cut off. The Ganga plain north of the present channel is oxbow country.
 - **Kabartal (Kanwar Lake)** in Begusarai is Asia’s large freshwater oxbow and Bihar’s first Ramsar site. It is rain-fed on the Burhi Gandak belt.
 - A **lagoon** is a marine-deposit lake behind a bar. **Chilika** is the Indian fact. **Pulicat** is second.
-- A **landslide or dun** lake is a short-lived barrier lake. Outer Himalayan **duns** (including the Dehradun hollow) were lakes a few centuries ago in the coaching narrative.
-- A **man-made** lake is a reservoir behind a dam. **Gobind Sagar**, **Hirakud**, **Tehri Lake**, **Pant Sagar**, and **Nagarjuna Sagar** reservoir are the set. The coaching world analogue is Lake Mead above Hoover Dam.
+- A **landslide or dun** lake is a short-lived barrier lake. Outer Himalayan **duns** (including the Dehradun hollow) were lakes a few centuries ago in the usual narrative.
+- A **man-made** lake is a reservoir behind a dam. **Gobind Sagar**, **Hirakud**, **Tehri Lake**, **Pant Sagar**, and **Nagarjuna Sagar** reservoir are the set. The world analogue is Lake Mead above Hoover Dam.
 
 **Why lakes matter (lakes and man)**
 
@@ -254,7 +254,7 @@ Ask: *How was the hollow made?*
 
 - A **lagoon** is a shallow coastal water body separated from the sea by a sandbar, spit, or barrier island that runs parallel to the shore.
 - Kerala’s lagoons and backwaters are also called **kayals** (Vembanad Kayal, Ashtamudi Kayal, Punnamada Kayal).
-- The **Chilika** lagoon lies on the Odisha coast (Northern Circars belt), near the Mahanadi mouth. It is India’s largest east-coast lagoon and often the “largest saline” key when the stem omits **inland**.
+- The **Chilika** lagoon lies on the Odisha coast (Northern Circars belt), near the Mahanadi mouth. It is India’s largest east-coast lagoon and often answers “largest saline” when the question omits **inland**.
 - **Nalabana** is the bird island inside Chilika. An outer channel links the lagoon to the Bay of Bengal.
 - Chilika is **not** on the west coast and **not** a Rajasthan salt lake.
 - **Pulicat** straddles Andhra Pradesh and Tamil Nadu. It is the second-largest brackish / lagoon water body after Chilika.
@@ -315,7 +315,7 @@ Ask: *How was the hollow made?*
 - The **Ramsar Convention** (adopted **1971** at Ramsar, Iran; in force **1975**) is the global treaty for wetland conservation. It is the only global environmental treaty focused on one ecosystem type.
 - India’s Ramsar count and UP list live in the UP wetlands card below; do not confuse state sites with the treaty year.
 
-### Lake–state match bank (raata for next paper)
+### Lake–state match bank
 
 UPPCS 2020 Q56 asked only four names. Next year can pick **any** high-yield pair. Learn the bank; the 2020 set is marked.
 
@@ -358,11 +358,11 @@ UPPCS 2020 Q56 asked only four names. Next year can pick **any** high-yield pair
 | Sukhna | **Chandigarh** | Man-made |
 | Phulhar / Gomat Taal | **Uttar Pradesh** (Pilibhit) | Gomti source |
 
-**2020 Q56 keyed order:** Sala–AP · Badkhal–HR · Loktak–MN · Kaliveli–TN → code **1 2 3 4**.
+**2020 Q56 match order:** Sala–AP · Badkhal–HR · Loktak–MN · Kaliveli–TN → code **1 2 3 4**.
 
-### World lake–country match bank (raata for next paper)
+### World lake–country match bank
 
-UPPCS 2023 Q66 asked four pairs and keyed **Onega ≠ Canada**. Next stem can swap in Ladoga, Victoria, Titicaca, etc. Learn the bank.
+UPPCS 2023 Q66 asked four pairs; the unmatched pair was **Onega ≠ Canada**. Later papers can swap in Ladoga, Victoria, Titicaca, and similar names — learn the bank.
 
 | Lake | Country | tag / trap |
 |------|---------|-----------------|
@@ -450,7 +450,7 @@ D. Wular
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — no “inland” in the stem → Chilika by area. Sambhar is the inland-saline trap.
+**Ans: A** — no “inland” in the question → Chilika by area. Sambhar is the inland-saline trap.
 
 </details>
 
@@ -460,20 +460,20 @@ D. Wular
 
 - A **waterfall** is a steep or vertical drop of a stream. Falls may be natural or artificial. Most Indian natural falls sit in mountain / plateau country with hard–soft rock contrasts.
 - Soft rock erodes faster than hard rock. The hard ledge remains as a lip and water plunges at the **knickpoint**.
-- Coaching notes place most falls in the **youth** stage of a river. A fall in base level or rejuvenation also creates knickpoints.
+- Most falls sit in the **youth** stage of a river. A fall in base level or rejuvenation also creates knickpoints.
 - A **plunge** fall drops in one sheet. A **cascade / tiered** fall steps down in many drops. A **segmented** fall splits into side-by-side streams.
 - **Famous is not the same as tallest.** Height lists shift with databases. Fact **relative order**, **river–state pairs**, and the UPPCS height key.
 
 | Superlative | Fact | Trap |
 |-------------|------|------|
 | Highest (UPPCS 2018 / older database) | **Kunchikal** (Varahi, Karnataka; older figure ~455 m) | Jog |
-| Tallest **plunge** (newer World Waterfalls Database) | **Nohkalikai** (Meghalaya, ~340 m) | Using Nohkalikai to beat every Kunchikal stem |
+| Tallest **plunge** (newer World Waterfalls Database) | **Nohkalikai** (Meghalaya, ~340 m) | Using Nohkalikai to beat every Kunchikal height question |
 | Largest by **width** | **Jog / Gersoppa** (Sharavati, Karnataka) | Calling Jog highest |
 | Largest by **volume** | **Shivanasamudra** (Cauvery, Karnataka) | Putting volume crown on Jog |
 
 | Waterfall | ~Height | River | State | tag |
 |-----------|---------|-------|-------|----------|
-| **Kunchikal** | older ~455 m; newer DB ~183 m | **Varahi** | Karnataka (Shimoga / Agumbe) | UPPCS **highest** key |
+| **Kunchikal** | older ~455 m; newer DB ~183 m | **Varahi** | Karnataka (Shimoga / Agumbe) | UPPCS **highest** answer |
 | Barehipani | ~399 / ~217 m by DB revision | Budhabalanga | Odisha (Simlipal) | High Odisha fall |
 | Nohkalikai | ~340 m | Plateau stream | Meghalaya (Cherrapunji) | Tallest **plunge**; Landshing / Lansing also Meghalaya |
 | Nohsngithiang (Seven Sisters) / Mawsmai | ~315 m class | — | Meghalaya | Height list fodder |
@@ -490,7 +490,7 @@ D. Wular
 | Kapildhara | — | **Narmada** | MP (Anuppur / Amarkantak) | **Not** Godavari (UPSC 2008) |
 | Dugdhdhara / Bheraghat belt | — | **Narmada** | MP | Narmada falls set |
 | Bhalkund (Rahatgarh) | — | **Bina** | MP | **Not** on Narmada |
-| Chachai | ~130 m | Bihad / Beehar (Tamsa) | MP (Rewa) | 2021 Q9 **keyed unmatched** |
+| Chachai | ~130 m | Bihad / Beehar (Tamsa) | MP (Rewa) | 2021 Q9 unmatched pair |
 | Chulia | — | **Chambal** | Rajasthan / MP belt | Jog ≠ Krishna; Chulia ≠ wrong river |
 | Joranda | ~150 m | Budhabalanga | Odisha (Simlipal) | Near Barehipani |
 | Duduma | — | **Machhkund** | Odisha (Koraput) | With Gokak / Jog match lists |
@@ -499,23 +499,23 @@ D. Wular
 | Hogenakkal | — | **Cauvery** | Tamil Nadu | “Smoking rock” |
 | Athirappilly | — | Chalakudy | Kerala | |
 | Chitrakote | wide, low (~29 m) | **Indravati** | Chhattisgarh (Bastar / Jagdalpur) | “Niagara of India” |
-| Amritdhara | — | **Hasdeo (Hasdo)** | Chhattisgarh | Not Indravati / Mahanadi stem |
+| Amritdhara | — | **Hasdeo (Hasdo)** | Chhattisgarh | Not Indravati / Mahanadi |
 | Kevti / Rakim Kund | — | Rewa plateau streams | Madhya Pradesh | 2018 Q24 distractors |
 
-- Order to raata for UPPCS height stems: **Kunchikal** remains the keyed highest answer (2018). Treat newer database ranks as awareness, not as a reason to pick Jog.
+- In the UPPCS **2018** height list, **Kunchikal** is India’s highest waterfall. Newer databases may rank other falls higher for specific measures, but they do not make **Jog** the highest.
 - **Kunchikal** is a cascade on the **Varahi**. Mani Dam has reduced its dry-season flow.
 - **Jog** is segmented on the **Sharavati**. Sharavati is a **west-flowing** Karnataka river to the Arabian Sea at Honnavar. Jog is **not** India’s highest; it is the fame / width fact.
-- Some coaching notes once called Sharavati a **Cauvery tributary**. That is **wrong**. Jog is not on the Cauvery.
+- Some older notes once called Sharavati a **Cauvery tributary**. That is **wrong**. Jog is not on the Cauvery.
 - **Linganamakki** dam stores Sharavati water for Karnataka hydropower.
-- **Nohkalikai** is the tallest **single-drop plunge** in newer lists. Do not use it to overturn a UPPCS “highest waterfall = Kunchikal” key unless the stem specifies plunge.
-- **Dudhsagar** is keyed to **Goa** in UPPCS 2022, even though the Mandovi belt touches Karnataka.
+- **Nohkalikai** is the tallest **single-drop plunge** in newer lists. For overall height, **Kunchikal** remains the usual textbook answer; for plunge height alone, use **Nohkalikai**.
+- **Dudhsagar** is in **Goa** in the UPPCS **2022** answer, even though the Mandovi belt touches Karnataka.
 - **Dhuandhar** cuts marble at Bhedaghat on the Narmada.
 - **Hundru** drops off the Ranchi plateau on the Subarnarekha.
 - **Lodh / Budha Ghagh** on the **Burha** is Jharkhand’s highest fall. Pairing it with Kanchi or Barakar is wrong.
 - **Shivanasamudra** on the Cauvery is the **volume** king and hosted India’s early hydro station (**1902**).
 - **Kapildhara** is on the **Narmada** near Amarkantak. Pairing it with the Godavari is a classic unmatched trap.
 - **Chitrakote** on the **Indravati** (Bastar) is the “Niagara of India.”
-- Rewa district tourism still places **Chachai** on the **Bihad / Beehar**, a Tamsa tributary. The **2021 official key** treated **Chachai–Bihad** as the unmatched pair. For that stem, follow the key.
+- Rewa district tourism still places **Chachai** on the **Bihad / Beehar**, a Tamsa tributary. The **2021 official answer** treated **Chachai–Bihad** as the unmatched pair.
 
 **2022 Q85 code:** Dudhsagar–Goa, Barkana–KA, Khandadhar–OD, Palani–HP → **4 1 2 3**.
 
@@ -536,7 +536,7 @@ D. Kevti fall
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Famous ≠ tallest. UPPCS keyed the older height list.
+**Logic:** Famous ≠ tallest. UPPCS **2018** followed the older height list (Kunchikal).
 
 **Ans: B** — Kunchikal (Varahi, KA). Jog is the fame / width trap.
 
@@ -595,12 +595,12 @@ D. Kevti fall
 
 **Damodar Valley (DVC)**
 
-- Damodar = **“Sorrow of Bengal”** (fast upper course, sluggish lower course → floods / silt). **DVC** established **1948** — often keyed as the **first multipurpose river-valley project of independent India**.
+- Damodar = **“Sorrow of Bengal”** (fast upper course, sluggish lower course → floods / silt). **DVC** established **1948** — the **first multipurpose river-valley project of independent India**.
 - **Tilaiya, Maithon, Belpahari** on the **Barakar**; **Konar** on the Konar; **Panchet** on the Damodar. Canals from **Durgapur Barrage** irrigate Howrah–Hooghly–Bardhaman belt.
 
-**Other high-yield locks**
+**Other high-yield projects**
 
-| Project | River / place | Lock |
+| Project | River / place | Note |
 |---------|---------------|------|
 | **Telugu Ganga** | Krishna → **Chennai** drinking water | Joint TN–AP–KA–MH |
 | **Chukha** | Wang Chu / Raidak, **Bhutan** | India-aided; handed to Bhutan **1991**; ~**336 MW** |
@@ -634,7 +634,7 @@ D. Kevti fall
 | **Narmada** | **6 Oct 1969** | Gujarat, MP, Maharashtra, Rajasthan (**4**) |
 | **Mahanadi** | **2018** | Odisha, Chhattisgarh (**2**) |
 
-- Large-dam count descending order often keyed (CGPCS 2021): **Madhya Pradesh > Gujarat > Rajasthan > Telangana > Andhra Pradesh**. Absolute “biggest dams” lore also tags **Maharashtra, Madhya Pradesh, Gujarat**.
+- Large-dam count descending order (CGPCS 2021): **Madhya Pradesh > Gujarat > Rajasthan > Telangana > Andhra Pradesh**. Absolute “biggest dams” lore also tags **Maharashtra, Madhya Pradesh, Gujarat**.
 
 ### River-wise dam map (match fodder)
 
@@ -701,12 +701,12 @@ D. Kevti fall
 | Mangalam | Bharathapuzha system | **Palakkad, Kerala** | One of several projects on that river |
 
 - Canal irrigation dominates the Indo-Gangetic plain. The peninsula was historically stronger on **tanks / ponds** because hard rock makes canals and wells hard to dig and most peninsular rivers are **seasonal**.
-- Groundwater now covers more than **60%** of India’s irrigated area (**2018–19** coaching lock: tubewells alone ~**48.5%**; wells + tubewells ~**64%**; canals ~**23%**; tanks ~**2.3%**). Do **not** say canals are the dominant national source.
+- Groundwater now covers more than **60%** of India’s irrigated area (**2018–19**: tubewells alone ~**48.5%**; wells + tubewells ~**64%**; canals ~**23%**; tanks ~**2.3%**). Do **not** say canals are the dominant national source.
 - **Ghaggar** water is **not** a source of the Indira Gandhi Canal.
 
 ### Irrigation project classes (CCA)
 
-| Class | Culturable Command Area | Share of irrigation potential (coaching) |
+| Class | Culturable Command Area | Share of irrigation potential |
 |-------|-------------------------|------------------------------------------|
 | **Minor** | Up to **2,000 ha** (wells, tubewells, tanks, lift, drip, sprinkler) | About **62%** |
 | **Medium** | **2,000–10,000 ha** | Part of the remaining ~**38%** with major |
@@ -756,7 +756,7 @@ D. Only 1
 
 ### How much India has
 
-- India has about **2.45%** of the world’s land, about **4%** of the world’s water, and more than **17%** of the world’s people (NCERT; coaching often rounds people to **18%** and land to **2.4%**).
+- India has about **2.45%** of the world’s land, about **4%** of the world’s water, and more than **17%** of the world’s people (NCERT; many notes round people to **18%** and land to **2.4%**).
 - Annual precipitation is about **4,000 cubic km**. Surface flow plus replenishable groundwater is about **1,869 cubic km**.
 - Only about **60%** of that 1,869 is utilisable. Total utilisable water is about **1,122–1,123 cubic km**.
 - Utilisable **surface** water is about **690 cubic km**. Replenishable **groundwater** is about **432–433 cubic km**.
@@ -777,14 +777,14 @@ D. Only 1
 
 - Most of India sits in a **sub-tropical / high-temperature** belt (except western Himalaya, parts of the north-east, and some southern tracts). High temperature drives high evaporation, so sown crops need irrigation to cover the moisture deficit. Rainfall also varies in space and time. Rice, sugarcane and jute need a lot of water. HYVs need a regular moisture supply.
 - **2018–19 (P)** national irrigated-area shares: **tubewell ~48.51%**; wells + tubewells together **~63.94%**; **canals ~22.96%**; **tanks ~2.33%**; rest other means. Dominant source = **wells / tubewells**, not canals alone.
-- Punjab, Haryana and western Uttar Pradesh irrigate more than **85%** of net sown area. That is why the Green Revolution stuck there. Among common state options, **Haryana / Punjab** lead **% cropped area under irrigation**; **Uttar Pradesh** leads **absolute** tubewell / well irrigated area.
+- Punjab, Haryana and western Uttar Pradesh irrigate more than **85%** of net sown area. That is why the Green Revolution stuck there. **Haryana / Punjab** lead **% cropped area under irrigation**; **Uttar Pradesh** leads **absolute** tubewell / well irrigated area.
 - In Punjab about **76%** of net irrigated area is wells and tubewells. In Haryana the well share is about **51%**. Over-pumping has dropped the water table.
-- Dynamic groundwater resources available for irrigation (coaching bcm order): **Uttar Pradesh ~40.72** > **Punjab ~26.69** > **Madhya Pradesh ~17.39** > **Maharashtra ~15.29** (West Bengal and Assam much lower among map-option sets).
+- Dynamic groundwater resources available for irrigation (bcm order): **Uttar Pradesh ~40.72** > **Punjab ~26.69** > **Madhya Pradesh ~17.39** > **Maharashtra ~15.29** (West Bengal and Assam much lower among map options).
 - NCERT MCQ fact: among south Indian states, **Tamil Nadu** has the highest groundwater utilisation of its potential.
 - Chhattisgarh, Odisha and Kerala still use only a small share of groundwater potential. Gujarat, Uttar Pradesh, Bihar, Tripura and Maharashtra sit in the moderate band.
 - **Protective / life-saving irrigation** = irrigation at **permanent wilting point (PWP)** when soil moisture can no longer sustain the plant.
 - **Micro-irrigation** (drip / sprinkler) cuts fertiliser / nutrient loss and can check groundwater decline in some areas. It is **not** the only means of irrigation in dryland farming.
-- **Drip** advantages: less weed, less soil erosion, higher water-use efficiency — not a guarantee of lower soil salinity as an automatic lock.
+- **Drip** advantages: less weed, less soil erosion, higher water-use efficiency — not a guarantee of lower soil salinity as an automatic result.
 
 ### Quality hazards
 
@@ -806,7 +806,7 @@ D. Only 1
 
 - **Ministry of Jal Shakti** (2019) merged water resources with drinking-water and sanitation.
 - **PMKSY** was approved on **1 July 2015** to cut monsoon dependence and take irrigation toward every farm (**Har khet ko pani** + **more crop per drop**). AIBP funds major irrigation. HKKP funds minor irrigation, water-body repair, and command-area work.
-- Till **1 April 2008**, Rural Development ran three watershed programmes — **Integrated Wastelands Development Programme (IWDP)**, **Drought Prone Areas Programme (DPAP)**, and **Desert Development Programme (DDP)**. From 2008 they sit under **Integrated Watershed Management Programme (IWMP)** / later WDC–PMKSY framing, under the **Department of Land Resources (MoRD)** — not Agriculture or Environment as the pair trap.
+- Till **1 April 2008**, Rural Development ran three watershed programmes — **Integrated Wastelands Development Programme (IWDP)**, **Drought Prone Areas Programme (DPAP)**, and **Desert Development Programme (DDP)**. From 2008 they sit under **Integrated Watershed Management Programme (IWMP)** / later WDC–PMKSY, under the **Department of Land Resources (MoRD)** — not Agriculture or Environment as the pair trap.
 - **Hariyali** was launched by Prime Minister **Atal Bihari Vajpayee** on **27 January 2003** for rural watershed / water storage and wasteland-linked conservation through panchayats.
 - **Command Area Development Programme (CADP)** (from **Dec 1974**) improves utilisation inside an existing command (field channels, drains, warabandi, levelling, cropping pattern). Classic UP projects: **Sharda Tributary**, **Ramganga**, **Gandak**.
 - **Garland Canal System** was proposed by Captain **Dinshaw J. Dastur**. The idea of linking rivers is first tagged to irrigation engineer **M. Visvesvaraya**; later **K.L. Rao** added another linking proposal. Both styles were later set aside by the water ministry in favour of other planning frames.
@@ -1013,7 +1013,7 @@ D. Wular
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Without "inland" in the stem, the key is Chilika as the largest saline/brackish water body by area. Sambhar is the largest inland saline lake — the main trap if the stem is misread.
+**Ans: A** — Without "inland" in the question, Chilika is the largest saline/brackish water body by area. Sambhar is the largest inland saline lake — the main trap if "inland" is misread.
 </details>
 
 ---
@@ -1096,7 +1096,7 @@ D. Kevti fall
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kunchikal on the Varahi in Karnataka is keyed as India's highest. Jog is famous but shorter — the classic trap.
+**Ans: B** — Kunchikal on the Varahi in Karnataka is India’s highest in the usual UPPCS height list. Jog is famous but shorter — the classic trap.
 </details>
 
 ---
@@ -1141,7 +1141,7 @@ D. 12
 
 ## Complete PYQ Bank — Ghatnachakra Irrigation & Canals (UPPCS / UKPCS / standard)
 
-Older irrigation–canal stems from Ghatnachakra CA–171–177. Teaching locks live in N.3 Canals, N.4 Irrigation map / Schemes, Agriculture N.6, and UP Topic 24 N.6.
+Older irrigation–canal questions from Ghatnachakra CA–171–177. Teaching cards live in N.3 Canals, N.4 Irrigation map / Schemes, Agriculture N.6, and UP Topic 24 N.6.
 
 **Q-GC1. BPSC Prelims 2022**
 
@@ -1206,7 +1206,7 @@ D. The mountain areas account for about thirty percent of the surface area of th
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (as keyed with modern data).** **2018–19** shares put **tubewells** first (~48.5%); wells + tubewells together ~64%. Saying only “wells” as the dominant label is treated wrong / outdated in the Ghatnachakra keying against canal-era wording. Canals ~23%; tanks ~2.3%.
+**Ans: B.** **2018–19** shares put **tubewells** first (~48.5%); wells + tubewells together ~64%. Calling only “wells” the dominant label is outdated against canal-era wording. Canals ~23%; tanks ~2.3%.
 
 </details>
 
@@ -1298,7 +1298,7 @@ D. Bundelkhand
 
 In which state of India is the maximum / largest area irrigated by tubewells (and wells)?
 
-A. Madhya Pradesh / Bihar / Haryana / Punjab (as per stem options)  
+A. Madhya Pradesh / Bihar / Haryana / Punjab (as per the given options)  
 B. Uttar Pradesh  
 
 <details>
@@ -1597,7 +1597,7 @@ D. None of the above is an advantage of practising drip irrigation
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Weed reduction and soil-erosion reduction are standard drip advantages. Statement 2 (salinity reduction as automatic lock) is not keyed.
+**Ans: C.** Weed reduction and soil-erosion reduction are standard drip advantages. Statement 2 (salinity reduction as automatic) is not correct.
 
 </details>
 
@@ -1645,7 +1645,7 @@ D. Tapti Basin
 <details>
 <summary>Show answer</summary>
 
-**Ans: Prefer C (Yamuna); B also defended.** Chambal is a Yamuna tributary, so the canal project sits in the **Yamuna** basin; as a larger frame it also belongs to the **Ganga** system. Prefer **Yamuna** when one answer is required.
+**Ans: C (Yamuna); B is also arguable.** Chambal is a Yamuna tributary, so the canal project sits in the **Yamuna** basin; as a larger frame it also belongs to the **Ganga** system. **Yamuna** is the clearer single answer.
 
 </details>
 
@@ -1653,7 +1653,7 @@ D. Tapti Basin
 
 ## Complete PYQ Bank — Ghatnachakra Multipurpose River Valley Projects (UPPCS / UKPCS / standard)
 
-Older multipurpose / dam–river stems from Ghatnachakra CA–178–195. Teaching locks live in N.3 Dams and Multipurpose valley cards.
+Older multipurpose / dam–river questions from Ghatnachakra CA–178–195. Teaching cards live in N.3 Dams and Multipurpose valley cards.
 
 **Q-GC1. UP Lower Sub. (Spl) Prelims 2004 / UPPCS Prelims 1999**
 
@@ -1715,7 +1715,7 @@ D. Rajasthan
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Madhya Pradesh** takes the largest Narmada water share from the project (~**65%** in coaching keys). Power share lore often tags ~**57%** of SSP electricity to MP — do not swap “water max” with “Gujarat dam site.”
+**Ans: C.** **Madhya Pradesh** takes the largest Narmada water share from the project (~**65%** in usual answers). Power share lore often tags ~**57%** of SSP electricity to MP — do not swap “water max” with “Gujarat dam site.”
 
 </details>
 
@@ -1844,7 +1844,7 @@ D. Haryana, U.P., Rajasthan
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Beneficiary / water-receiving group keyed as **Haryana, Punjab, Rajasthan** (joint project states).
+**Ans: C.** Beneficiary / water-receiving group is **Haryana, Punjab, Rajasthan** (joint project states).
 
 </details>
 
@@ -1876,7 +1876,7 @@ D. Shivasamudram
 <details>
 <summary>Show answer</summary>
 
-**Ans: D (as keyed).** **Sidrapong** (Darjeeling, **1897**) is actually the oldest; **Shivasamudram** (Cauvery, Karnataka, **1902**) is second. Many older keys pick Shivasamudram when Sidrapong is not listed — here the given options force **D**.
+**Ans: D.** **Sidrapong** (Darjeeling, **1897**) is actually the oldest; **Shivasamudram** (Cauvery, Karnataka, **1902**) is second. Many older answers pick Shivasamudram when Sidrapong is not listed — here the given options make **D** correct.
 
 </details>
 
@@ -1940,7 +1940,7 @@ D. Tamil Nadu
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (as keyed when asked).** Older keys say **Andhra Pradesh**. Today the dam sits on the **Telangana–Andhra Pradesh** border on the **Krishna** (completed **1967**; height ~**125 m**).
+**Ans: A.** Older answers say **Andhra Pradesh**. Today the dam sits on the **Telangana–Andhra Pradesh** border on the **Krishna** (completed **1967**; height ~**125 m**).
 
 </details>
 
@@ -2220,7 +2220,7 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Damodar Valley Project / DVC (1948)** is keyed as the first multipurpose river-valley project of independent India.
+**Ans: B.** **Damodar Valley Project / DVC (1948)** is the first multipurpose river-valley project of independent India.
 
 </details>
 
@@ -2962,7 +2962,7 @@ D. Madhya Pradesh > Gujarat > Telangana > Rajasthan > Andhra Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Order keyed: **MP > Gujarat > Rajasthan > Telangana > Andhra Pradesh**. Absolute “biggest dams” lore also tags Maharashtra–MP–Gujarat.
+**Ans: A.** Order: **MP > Gujarat > Rajasthan > Telangana > Andhra Pradesh**. Absolute “biggest dams” lore also tags Maharashtra–MP–Gujarat.
 
 </details>
 
@@ -2971,7 +2971,7 @@ D. Madhya Pradesh > Gujarat > Telangana > Rajasthan > Andhra Pradesh
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
-> **Format mix:** 66 questions — asked PYQ patterns plus unasked NCERT / coaching / dam-map angles
+> **Format mix:** 66 questions — asked PYQ patterns plus standard NCERT / dam-map angles
 
 **Q1.** With reference to lakes of India, which of the following statements is/are correct?
 
@@ -3100,7 +3100,7 @@ D. Wular
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — UPPCS 2021 Q74 common key: Chilika as largest saline/brackish water body by area. **B** is largest **inland** saline — trap if stem omits "inland." **D** is freshwater.
+**Ans: A** — UPPCS 2021 Q74: Chilika as largest saline/brackish water body by area. **B** is largest **inland** saline — trap if the question omits "inland." **D** is freshwater.
 </details>
 
 **Q8.** Match List-I with List-II:
@@ -3468,7 +3468,7 @@ D. 1, 2 and 3
 
 **Logic:** West-coast kayal vs inland saline; longest-in-India ≠ overall largest lake of every type.
 
-**Ans: A** — (1) and (2) true. (3) false: Vembanad is a **west-coast** brackish backwater / kayal (Ramsar), not a Rajasthan inland salt lake. Chilika/Wular remain type-wise size kings for lagoon/freshwater stems.
+**Ans: A** — (1) and (2) true. (3) false: Vembanad is a **west-coast** brackish backwater / kayal (Ramsar), not a Rajasthan inland salt lake. Chilika/Wular remain type-wise size kings for lagoon/freshwater questions.
 </details>
 
 **Q28.** Match the following:
@@ -3958,7 +3958,7 @@ A. Tallest dam in India — Hirakud
 
 B. Longest earthen dam narrative — Tehri
 
-C. Largest reservoir by volume (usual coaching fact) — Indira Sagar
+C. Largest reservoir by volume (usual fact) — Indira Sagar
 
 D. Highest waterfall in India — Jog
 
@@ -4174,7 +4174,7 @@ D. saline lakes
 
 ## Common Traps — Don't Fall For These
 
-1. **Sambhar = largest saline (any stem)** — FALSE unless **inland**. Else often **Chilika**.
+1. **Sambhar = largest saline (any wording)** — FALSE unless **inland**. Else often **Chilika**.
 2. **Chilika in Rajasthan / freshwater** — FALSE. **Odisha coastal lagoon**.
 3. **Kolleru = largest east-coast lagoon** — FALSE. **Chilika**; Kolleru is freshwater.
 4. **Keibul Lamjao on Wular / Dal** — FALSE. **Loktak, Manipur**.
@@ -4183,7 +4183,7 @@ D. saline lakes
 5b. **Roopkund in Himachal** — FALSE. **Uttarakhand** Mystery / Skeleton Lake.
 5c. **Periyar Lake is a lagoon / kayal** — FALSE. It is **artificial**. Kayals are Kerala coastal lagoons.
 5d. **Hokera in Punjab / Sasthamkotta in Tamil Nadu** — FALSE. Hokera = **J&K**; Sasthamkotta = **Kerala**.
-6. **Dudhsagar = Karnataka-only** — FALSE. Keyed to **Goa**.
+6. **Dudhsagar = Karnataka-only** — FALSE. The UPPCS answer places it in **Goa**.
 7. **Chachai–Bihad is correct** — FALSE. That is the **wrong** pair.
 8. **Onega = Canada** — FALSE. **Russia**. Ladoga is also Russia. Michigan = USA-only; Superior is shared USA–Canada.
 9. **Rudrasagar / Sultanpur in UP** — FALSE. **Tripura / Haryana**.

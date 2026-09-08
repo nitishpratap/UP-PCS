@@ -8,10 +8,10 @@
 World Rivers by Continent | Superlatives (longest / discharge / deepest) | Deltas | Cities on Rivers | Border / International Rivers | Navigation | Dams | Lakes (types + superlatives) | Waterfalls | Endorheic / shrinking lakes
 </details>
 
-> **Sources baked in:** Lucent world-geography match-lists; NCERT world map diet; coaching map (LotusArise / Circular Learnings world rivers–lakes); UPPCS Prelims 2018–2025
+> **Sources baked in:** Lucent world-geography match-lists; NCERT world map diet; LotusArise / Circular Learnings world rivers–lakes notes; UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — city–river pairs, river direction, border rivers, lake–country, Mekong source/delta; teach full world map
 > **Last verified:** August 2026 — coaching gap-pass (Congo, Niger, GERD, lake types, Great Lakes mnemonic)
-> **Current Affairs:** GERD (Blue Nile) awareness once; Aral / Chad / Dead Sea shrinkage static
+> **Current Affairs:** GERD (Blue Nile) once; Aral / Chad / Dead Sea shrinkage static
 
 ---
 
@@ -19,7 +19,7 @@ World Rivers by Continent | Superlatives (longest / discharge / deepest) | Delta
 ## Current Affairs (this topic)
 
 - Static map chapter — no living scheme tag.
-- Lake names / dam names do not need a yearly refresh unless a new “world’s largest” commission is officially keyed.
+- Lake names / dam names do not need a yearly refresh unless a new “world’s largest” commission is officially recorded.
 
 ---
 
@@ -169,7 +169,7 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 
 | River | Source  | Mouth | Cities / dams / falls | |
 |-------|---------------|-------|----------------------|------|
-| **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence) · Cairo · **Aswan High Dam** → **Lake Nasser** | Arcuate delta; traditional **longest**. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt–Sudan dispute awareness) |
+| **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence) · Cairo · **Aswan High Dam** → **Lake Nasser** | Arcuate delta; traditional **longest**. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt–Sudan dispute) |
 | **Congo / Zaire** | E African highlands | Atlantic | Congo Basin rainforest | **Deepest** major river; only major river that **crosses the Equator twice**; 2nd largest discharge after Amazon |
 | **Niger** | Guinea highlands | Gulf of Guinea (Nigeria) | Inland delta in Mali, then a coastal delta | **Paradox river** — arcs inland / away from the nearby Atlantic before turning south-east to the Gulf |
 | Zambezi | Zambia / Angola uplands | Mozambique Channel | **Victoria Falls** · Kariba · Cahora Bassa | Zambia–Zimbabwe border at the falls |
@@ -424,7 +424,7 @@ Match the dam to the river and the country pair.
 
 Learn **superlative** and **type**. Endorheic lakes have no ocean outlet.
 
-**Lake types (coaching map)**
+**Lake types**
 
 | Type | Fact / example |
 |------|----------------|
@@ -630,7 +630,7 @@ D. Mississippi
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (PYQ + standard gaps)
 
 **Q1.** Which pairs are **NOT** correctly matched? 1 Budapest–Danube 2 Cologne–Rhine 3 New Orleans–Missouri 4 Hyderabad–Musi
 
@@ -1736,7 +1736,7 @@ D. Nile
 
 ---
 
-**Q62.** Lake Tanganyika is shared by Tanzania and which other countries in the standard coaching set?
+**Q62.** Lake Tanganyika is shared by Tanzania and which other countries in the standard set?
 
 A. Only Egypt and Sudan
 

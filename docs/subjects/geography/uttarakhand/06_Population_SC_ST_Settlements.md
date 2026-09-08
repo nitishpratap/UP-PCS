@@ -2,14 +2,14 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025 stems:** sex-ratio order (Q111) · Vanrawats (Q113). 
+> **High-yield 2025:** sex-ratio order (Q111) · Vanrawats (Q113). 
 > **Airports / cities:** [Transport & Tourism](07_Transport_Tourism_Natural_Hazards.md).
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Correct |
 |------|------|
 | Sex ratio desc. (Census 2011) | **Almora → Rudraprayag → Tehri Garhwal → Haridwar** |
 | Almora | Highest sex ratio (~**1142**) |
@@ -24,11 +24,11 @@
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Correct |
 |------|------|
 | Almora vs Haridwar on sex ratio | Highest vs among lowest |
 | Vanrawat vs Bhotia / Tharu | Raji/Vanrawat = Pithoragarh forest PTG |
-| Shifting cultivation banned narrative | Statement 2 keyed **true** with stmt 1 in 2025 |
+| Shifting cultivation banned narrative | Statement 2 treated as **true** with stmt 1 in 2025 |
 | City vs district airport names | Separate transport card |
 
 ---
@@ -36,7 +36,7 @@
 ## 6.1 Population geography
 
 - Hill districts often show higher sex ratios than industrial plains districts in Census 2011 tables.
-- Haridwar’s low ratio anchors the descending-order stem.
+- Haridwar’s low ratio anchors the descending-order question.
 - Out-migration of working-age males shapes many hill demographic patterns (context for mains; Prelims uses table order).
 
 ---
@@ -46,7 +46,7 @@
 - **Vanrawats (Raji)** are associated with **Pithoragarh** district.
 - They are remembered as a small forest-dwelling / primitive tribal group.
 - Traditional **shifting cultivation** continued until forest department regulation pushed settled livelihoods.
-- UKPCS 2025 keyed **both** home-district and shifting-cultivation statements as correct.
+- UKPCS 2025 treated **both** the home-district and shifting-cultivation statements as correct.
 
 ---
 
@@ -64,7 +64,7 @@
 2. Vanrawats = Pithoragarh + shifting cultivation history.
 3. Haridwar low sex ratio is the plains trap.
 4. Do not put Haridwar first in a “descending sex ratio” list.
-5. Raji / Vanrawat naming variants refer to the same group in coaching notes.
+5. Raji / Vanrawat naming variants refer to the same group in standard notes.
 
 ---
 
@@ -103,7 +103,7 @@ D. Both incorrect
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Series B provisional key).** Both the Pithoragarh home and the shifting-cultivation history are keyed correct.
+**Ans: A (Series B provisional key).** Both the Pithoragarh home and the shifting-cultivation history are treated as correct.
 
 </details>
 
@@ -113,4 +113,4 @@ D. Both incorrect
 
 1. **Haridwar first in sex-ratio desc.** → last among the four.
 2. **Vanrawat = Chamoli only** → Pithoragarh.
-3. **Dropping shifting cultivation** → both statements keyed true.
+3. **Dropping shifting cultivation** → both statements are treated as true.

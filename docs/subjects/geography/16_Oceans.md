@@ -92,7 +92,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | Arctic Council | India = **observer** (2013) | Full member | आर्कटिक परिषद |
 | Neritic vs hadal | Over **shelf** vs inside **trench** | Same depth word | नेरिटिक / हैडल |
 | Territorial vs EEZ | **12 nm** vs **200 nm** | Swapped | 12 ≠ 200 |
-| India west vs east shelf | **West wider** (overall coaching fact) | East always wider | पश्चिमी शेल्फ |
+| India west vs east shelf | **West wider** (overall) | East always wider | पश्चिमी शेल्फ |
 | Constructive vs destructive wave | Builds beach vs **erodes** | Same | रचनात्मक / विनाशकारी |
 | Upwelling coast | **West** coast of continent | East coast rule | उत्प्रवाह |
 
@@ -206,7 +206,7 @@ The ocean floor profile is the skeleton of every later card.
 
 | Step | Depth / slope | What it is | meat |
 |------|----------------|------------|-----------|
-| **Continental shelf** | Shore to **shelf break ~100–200 m**; slope ≤1°; ~**7.5%** of ocean area; avg width ~**80 km** | Drowned edge of the continent | **Fisheries + oil/gas**; world widest = **Siberian / Arctic**. India coaching fact: **west shelf wider than east** (Gujarat–Mumbai / Khambhat up to ~300 km; Konkan–Kerala narrower). East coast shelf is narrower overall but carries big **delta / Bengal Fan** sediment. Oil cue: **Bombay High** (west); KG basin awareness (east) |
+| **Continental shelf** | Shore to **shelf break ~100–200 m**; slope ≤1°; ~**7.5%** of ocean area; avg width ~**80 km** | Drowned edge of the continent | **Fisheries + oil/gas**; world widest = **Siberian / Arctic**. India fact: **west shelf wider than east** (Gujarat–Mumbai / Khambhat up to ~300 km; Konkan–Kerala narrower). East coast shelf is narrower overall but carries big **delta / Bengal Fan** sediment. Oil cue: **Bombay High** (west); KG basin (east) |
 | **Shelf break** | ~130–200 m | Sudden steepening | Marks end of “neritic” zone |
 | **Continental slope** | ~200 m down to **~3000 m**; 2–5° | True edge of the continental block | Cut by **submarine canyons**; **turbidity currents** race down them |
 | **Deep-sea fan / cone** | Foot of a canyon | Turbidite dump | Same idea as an alluvial fan, underwater |
@@ -313,7 +313,7 @@ Trenches sit on **active** (convergent) margins. Match the deepest point to the 
 | **Atlantic** | **Puerto Rico Trench** |
 
 - **Challenger Deep** in the Mariana Trench is about **11 km**.
-- Other awareness names: Tonga, Philippine, Kuril–Kamchatka, Peru–Chile, South Sandwich (Southern Ocean).
+- Other trench names: Tonga, Philippine, Kuril–Kamchatka, Peru–Chile, South Sandwich (Southern Ocean).
 
 **Inline PYQ — UPPCS Prelims 2022, Q114**
 
@@ -464,9 +464,9 @@ D. Neither 1 nor 2
 
 Extra Atlantic names: **Irminger** and Norwegian = warm; East Greenland = cold.
 
-**Effects of ocean currents (Drishti / coaching map)**
+**Effects of ocean currents**
 
-- **Climate:** warm currents raise coastal temperatures (Gulf Stream / North Atlantic Drift → NW Europe mild). Cold currents cool coasts and can help desert belts along west coasts (Atacama / Namib / Peru–Chile / Canary–Sahara fringe awareness).
+- **Climate:** warm currents raise coastal temperatures (Gulf Stream / North Atlantic Drift → NW Europe mild). Cold currents cool coasts and can help desert belts along west coasts (Atacama / Namib / Peru–Chile / Canary–Sahara fringe).
 - **Fog / fisheries:** where **warm and cold currents meet** (Grand Banks = Gulf Stream + Labrador; Japan = Kuroshio + Oyashio), fog and rich fishing grounds appear.
 - **Upwelling coasts** (Peru, California, Benguela, Canary, Somalia) are plankton- and fish-rich until El Niño shuts Peru upwelling.
 - **Navigation:** currents speed or slow ships; knowledge of gyres mattered historically and still matters for routing.
@@ -475,7 +475,7 @@ Extra Atlantic names: **Irminger** and Norwegian = warm; East Greenland = cold.
 
 ## N.5 Salinity
 
-Open-ocean salinity averages about **35‰** (35 g salt per 1000 g seawater). **Sodium chloride (NaCl)** is about **77%** of the dissolved salts in the coaching salt table. Controls are evaporation, rainfall, river inflow and ice freeze / melt.
+Open-ocean salinity averages about **35‰** (35 g salt per 1000 g seawater). **Sodium chloride (NaCl)** is about **77%** of the dissolved salts in the dissolved-salt table. Controls are evaporation, rainfall, river inflow and ice freeze / melt.
 
 | Belt | Salinity |
 |------|----------|
@@ -604,7 +604,7 @@ Canals shorten trade routes. Fact the seas joined, the year, and whether facts a
 | **Suez** | **1869** · **no facts** · Med ↔ **Red Sea** · India–Europe **~7000 km** shorter |
 | **Panama** (1914, **facts**) | Atlantic ↔ **Pacific** |
 | **Kiel** | North Sea ↔ Baltic |
-| Corinth | Ionian ↔ Aegean (Greece, awareness) |
+| Corinth | Ionian ↔ Aegean (Greece) |
 
 | | **Suez** | **Panama** |
 |--|----------|-----------|
@@ -1048,7 +1048,7 @@ D. 10,000 km
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Standard Lucent/key fact **~7,000 km**.
+**Ans: B** — About **~7,000 km**.
 </details>
 
 ---
@@ -1076,7 +1076,7 @@ D. (A) is false. but (R) is true
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 75 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 75 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (PYQ + standard gaps)
 
 **Q1.** Which are **NOT** cold ocean currents? 1 Agulhas 2 Brazil 3 Humboldt 4 California
 
@@ -2277,7 +2277,7 @@ D. Kuroshio
 ---
 
 
-**Q71.** Which of the following statements about India’s continental shelf is correct in the standard coaching fact?
+**Q71.** Which of the following statements about India’s continental shelf is correct?
 
 A. The eastern shelf is everywhere wider than the western shelf
 

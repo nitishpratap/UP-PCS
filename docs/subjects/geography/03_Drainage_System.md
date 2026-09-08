@@ -133,7 +133,7 @@ Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
 | **Consequent** | Follows the original slope of the land | Godavari, Krishna, Kaveri from Western Ghats |
 | **Subsequent** | Grows later along a weak belt; often joins at right angles | Chambal, Sind, Betwa, Ken, Tons, Son to Yamuna/Ganga |
 | **Antecedent** | Older than uplift; keeps course by cutting a gorge through rising land | **Indus, Sutlej, Brahmaputra** (classic set); many PCS keys also tag **Ganga** |
-| **Superimposed** | Older course inherited onto newer structure; does not follow present slope | **Chambal** (also Son in some keys) |
+| **Superimposed** | Older course inherited onto newer structure; does not follow present slope | **Chambal** (also Son in some notes) |
 | **Concordant** | Follows structure and slope | Most peninsular rivers |
 | **Discordant** | Cuts across structure | Himalayan antecedent rivers |
 
@@ -350,7 +350,7 @@ D. 2 4 1 3
 - **Hemavati, Kabini, Bhavani, and Amravati** are the usual tributaries.
 - It forms the islands of **Srirangapatna, Shivasamudram, and Srirangam**. **Shivasamudram** is also the great Kaveri waterfall by volume.
 - **Mettur (Stanley)** is on the Kaveri, **not** on the Krishna.
-- The Kaveri delta is old and heavily irrigated. Do **not** use it for the UPPCS “Moribund Delta is a **subdivision**” stem — that key is **Bengal Delta** (2019).
+- The Kaveri delta is old and heavily irrigated. In UPPCS **2019**, the **moribund delta** as a **subdivision** refers to the **Bengal Delta**, not the Kaveri.
 - Kaveri water is a **Karnataka–Tamil Nadu** dispute. Basin also touches Kerala and Puducherry.
 
 ### Other east-flowing rivers
@@ -938,7 +938,7 @@ D. Ramaganga
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — **Damodar** is the standard Indian example of **fault-valley (rift) drainage**. Chambal is famous for ravines/gorges but is not the usual keyed answer for this wording.
+**Ans: B** — **Damodar** is the standard Indian example of **fault-valley (rift) drainage**. Chambal is famous for ravines/gorges but is not the usual answer for this wording.
 </details>
 
 ---
@@ -957,7 +957,7 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — **Luni** is an inland river ending toward the Rann; its upper course is fresher while the lower course becomes **saline**. Barak reaches the sea; Ghaggar is inland but Luni is the textbook keyed example.
+**Ans: B** — **Luni** is an inland river ending toward the Rann; its upper course is fresher while the lower course becomes **saline**. Barak reaches the sea; Ghaggar is inland but Luni is the textbook example.
 </details>
 
 ---
@@ -1016,7 +1016,7 @@ D. Tamsa
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — The UP river tagged as a **biological disaster** due to pollution in this question is the **Gomti (Gomati)**. Yamuna is polluted but was not the keyed answer here.
+**Ans: B** — The UP river tagged as a **biological disaster** due to pollution in this question is the **Gomti (Gomati)**. Yamuna is polluted but was not the answer here.
 </details>
 
 ---
@@ -2055,7 +2055,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) are the NCERT / coaching facts. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed example is **Chambal**.
+**Ans: A** — (1) and (2) are the standard NCERT facts. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed example is **Chambal**.
 </details>
 
 **Q52.** Which of the following pairs is/are **NOT** correctly matched?

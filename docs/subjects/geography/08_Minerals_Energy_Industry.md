@@ -49,7 +49,7 @@ D. Vadodara
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (Series B provisional key).** Jamnagar hosts the largest refining–petrochemical complex. Digboi is oldest but small.
+**Ans: B.** Jamnagar hosts the largest refining–petrochemical complex. Digboi is oldest but small.
 
 </details>
 
@@ -60,7 +60,7 @@ D. Vadodara
 
 1. Most of India’s mineral wealth lies **east of the Mangalore–Kanpur line**. The northern plains are almost empty of major ores. **Chota Nagpur** is the richest mineral belt and is often called India’s Ruhr. **Dharwar** rocks are the metallic storehouse; **Gondwana** holds nearly all coal.
 2. India is poor in many non-ferrous metals but rich in **bauxite**. Mica’s classic dielectric belt is **Koderma–Gaya–Hazaribagh** in Jharkhand.
-3. In the 2021–22 Ministry of Mines framing used in papers, the leading iron-ore states are **Odisha and Chhattisgarh**. Do not assume Jharkhand and Karnataka always lead.
+3. As per the Ministry of Mines Annual Report **2021–22**, the leading iron-ore states are **Odisha and Chhattisgarh**. Jharkhand and Karnataka do not always lead.
 4. Iron-ore mine–state facts are **Gurumahisani (Odisha)**, **Bailadila (Chhattisgarh)**, **Noamundi (Jharkhand)**, and **Kudremukh (Karnataka)**. Mount Newman in Australia is famous for **iron**, not manganese.
 5. The four main iron belts are the Odisha–Jharkhand belt, the Durg–Bastar–Chandrapur belt, the Ballari–Chitradurga belt, and the Maharashtra–Goa belt.
 6. Manganese leaders include **Odisha, Maharashtra and Madhya Pradesh**. Postmasburg in South Africa is a manganese centre. **Bhilwara** is not a manganese city — it is known for mica and zinc.
@@ -154,8 +154,8 @@ A deposit becomes a **mine** only when grade, ease of extraction, and distance t
 
 - Peninsular India is the **heart-place** of Indian minerals. **Chota Nagpur** is the richest plateau belt (often “Ruhr of India”).
 - Alluvial north India is almost empty of economic ores. Rajasthan’s Aravalli rock frame holds many **non-ferrous** minerals (Cu, Zn–Pb, etc.).
-- Coaching production-value order (metallic + non-metallic, excluding fuel/atomic/minor; **2021–22** framing): **Odisha > Chhattisgarh > Rajasthan > Karnataka > Jharkhand** … (~**97%** of value from seven states).
-- India produces about **95** minerals in Mines Annual Report framing (fuel / metallic / non-metallic / atomic / minor counts vary by year).
+- Mineral production-value order (metallic + non-metallic, excluding fuel/atomic/minor; Ministry of Mines **2021–22**): **Odisha > Chhattisgarh > Rajasthan > Karnataka > Jharkhand** … (~**97%** of value from seven states).
+- India produces about **95** minerals as listed in the Mines Annual Report (fuel / metallic / non-metallic / atomic / minor counts vary by year).
 
 ### How minerals occur
 
@@ -183,7 +183,7 @@ Mining is **opencast** when the ore is near the surface, and **underground** whe
 
 ### Mineral belts of India
 
-Learn the belts as a map, not as rival “framings”. The north-eastern plateau is richest; the other belts add specific minerals.
+The mineral belts of India form one map. The north-eastern plateau is richest; the other belts add specific minerals.
 
 | Belt | Cover | Character |
 |------|-------|-----------|
@@ -217,8 +217,8 @@ Iron is the backbone of heavy industry. Steel needs iron ore plus **coking coal*
 
 - About **95%** of India’s iron-ore reserves sit in Odisha, Jharkhand, Chhattisgarh, Karnataka, Goa, Telangana, Andhra Pradesh and Tamil Nadu.
 - Iron mines of the north-eastern plateau often sit **near coalfields**, which helps steel plants.
-- Leading producers in the Ministry of Mines **2021–22** framing used by UPPCS are **Odisha and Chhattisgarh** (then Karnataka, Jharkhand).
-- **Hematite** bulk (~**79%** lore) sits in the **eastern** sector; **magnetite** bulk (~**93%** lore) sits in the **southern** sector (Karnataka leads magnetite resources).
+- As per the Ministry of Mines Annual Report **2021–22**, the leading iron-ore producers are **Odisha and Chhattisgarh** (then Karnataka, Jharkhand).
+- About **79%** of hematite resources sit in the **eastern** sector; about **93%** of magnetite resources sit in the **southern** sector (Karnataka leads magnetite resources).
 - **Hematite** has the largest iron-ore **reserve** volume in India among ore types.
 - **Nathra-ki-Pal / Thoor–Hunder** (Udaipur) = Rajasthan iron cue. **Chiria** (West Singhbhum) = iron mining.
 - **Ballari** is an iron-ore mining city of Karnataka. **Guntur is not** an iron-ore fame city.
@@ -238,7 +238,7 @@ Iron is the backbone of heavy industry. Steel needs iron ore plus **coking coal*
 |-------------|-------|------|
 | Gurumahisani / Badampahar / Sulaipat | **Odisha** | Mayurbhanj hematite belt |
 | Bonai / Kendujhar / Sundargarh | Odisha | Bulk hematite of the state |
-| Bailadila | **Chhattisgarh** | High-grade **hematite**; NMDC; often keyed as India’s **largest mechanised** iron mine; export lore via **Visakhapatnam** to Japan |
+| Bailadila | **Chhattisgarh** | High-grade **hematite**; NMDC; India’s **largest mechanised** iron mine; ore exported via **Visakhapatnam** to Japan |
 | Dalli–Rajhara | Chhattisgarh | Historic feed for Bhilai |
 | Noamundi / Gua / Kiriburu | **Jharkhand** | Singhbhum |
 | Kudremukh | **Karnataka** | Magnetite; KIOCL |
@@ -302,7 +302,7 @@ Copper is valued for **electrical conductivity**. India is not copper-rich and s
 ### Tin
 
 - The ore of tin is **cassiterite**.
-- **Chhattisgarh** is India’s only tin-producing state in recent IMYB framing (Dantewada belt); resource share also tags Haryana in reserve tables.
+- **Chhattisgarh** is India’s only tin-producing state in recent Indian Minerals Yearbook data (Dantewada belt); resource share also tags Haryana in reserve tables.
 - India has very little tin overall.
 - World facts are **Kinta Valley (Malaysia)** and **Bangka (Indonesia)**.
 - **Pegu Yoma in Myanmar is mineral oil, not tin.**
@@ -310,9 +310,9 @@ Copper is valued for **electrical conductivity**. India is not copper-rich and s
 ### Zinc, lead and silver
 
 - **Zawar** near Udaipur in Rajasthan is the historic zinc–lead fact (also silver by-product lore).
-- **Rampura-Agucha** in **Bhilwara** is keyed as Asia’s best zinc–lead reserve belt; Hindustan Zinc smelter lore.
+- **Rampura-Agucha** in **Bhilwara** is Asia’s richest zinc–lead reserve belt; Hindustan Zinc has a major smelter association here.
 - Rajasthan has a near **monopoly** of India’s zinc–lead ore resources and production.
-- Silver often occurs **with lead–zinc**, not as a separate “silver city”; Rajasthan leads silver output in IMYB framing.
+- Silver often occurs **with lead–zinc**, not as a separate “silver city”; Rajasthan leads silver output in recent Indian Minerals Yearbook data.
 - Do not dump Zawar as copper.
 
 ### Nickel and cobalt (awareness)
@@ -329,9 +329,9 @@ Copper is valued for **electrical conductivity**. India is not copper-rich and s
 Mica splits into thin flexible sheets and is a **dielectric / electrical insulator**.
 
 - The main belt is **Koderma–Gaya–Hazaribagh–Munger**; **Kodarma** is often called the “capital of mica”.
-- **Nellore** in Andhra Pradesh is the southern mica fact; Andhra Pradesh leads **resources** share in IMYB framing; **Rajasthan** leads recent **production** framing.
+- **Nellore** in Andhra Pradesh is the southern mica centre; Andhra Pradesh leads **resource** share in the Indian Minerals Yearbook; **Rajasthan** leads recent **production**.
 - Rajasthan mica sits in the **Ajmer–Bhilwara** belt.
-- Mica was notified as a **minor mineral** (2015). China leads world mica production in recent WMP framing (older keys still say India/sheet mica).
+- Mica was notified as a **minor mineral** (2015). China leads world mica production in recent World Mineral Production data; older Indian notes still stressed India’s sheet-mica lead.
 - **Bhilwara is mica and zinc country, not a manganese city.**
 - **Makrana** (Nagaur, Rajasthan) = best marble (Taj / Victoria Memorial lore); marble is metamorphic (recrystallised limestone).
 
@@ -458,8 +458,8 @@ Coal is a sedimentary **fossil fuel** formed from buried plant matter. It is **n
 
 - **Neyveli in Tamil Nadu** is the lignite fact. It is **not** Gondwana bituminous coal.
 - Commercial chronology cue: Raniganj (**1774**) → **NCDC (1956)** → coking/non-coking **nationalisation (1971–73)** → **Coal India Ltd**.
-- Proved-reserve order (IMYB **1 Apr 2021** framing): **Jharkhand > Odisha > Chhattisgarh > West Bengal > Madhya Pradesh**.
-- Production order (**2020–21/21–22** framing): often **Chhattisgarh > Odisha > Madhya Pradesh > Jharkhand** — do not mix with reserve order.
+- Proved coal-reserve order (Indian Minerals Yearbook, **1 Apr 2021**): **Jharkhand > Odisha > Chhattisgarh > West Bengal > Madhya Pradesh**.
+- Coal production order (**2020–21 / 2021–22**): often **Chhattisgarh > Odisha > Madhya Pradesh > Jharkhand**. Do not mix this with the proved-reserve order.
 - **Namchik–Namphuk** coal is in **Arunachal Pradesh** (Changlang). **Maolong** is **Meghalaya**.
 - **CBM** is methane from coal seams; **shale gas** is mostly methane from fine shale (not propane–butane only). India has shale potential in Cambay, KG, Cauvery, Damodar, etc.
 - **Coal Controller’s Organisation** is the government’s coal–lignite statistics authority, monitors captive blocks, and hears objections under coal-bearing land acquisition law — it does **not** guarantee end-user delivery timelines.
@@ -666,7 +666,7 @@ D. 4 2 3 1
 - Among coal, petroleum, nuclear and solar options, **solar** is the clean atmospheric-pollution answer in school keys.
 - **Diu** was the first Union Territory framed as running fully on solar.
 - **Cochin** is framed as India’s first solar-powered airport.
-- **Mirzapur** in Uttar Pradesh has a major solar project linked with **France** in the 2018 framing.
+- **Mirzapur** in Uttar Pradesh has a major solar project linked with **France** (**2018**).
 
 **International Solar Alliance**
 
@@ -875,7 +875,7 @@ Uttar Pradesh is not a Jharkhand-scale ore state. The **Gangetic plains** are al
 - **Vindhyachal** is on the Madhya Pradesh side of the same belt.
 - **Narora** is Uttar Pradesh’s nuclear power station.
 - **Mathura** is the state’s petroleum refinery (market location for North India).
-- **Mirzapur** has a major solar project linked with France in the 2018 framing.
+- **Mirzapur** has a major solar project linked with France (**2018**).
 
 | City | Industry tag |
 |------|----------------|
@@ -1279,7 +1279,7 @@ D. Wood
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (standard key)** — Nuclear energy is not biomass. Note: coal is also not treated as biomass energy in the renewable-biomass sense; gobar and wood are biomass. Contested with option A in some discussions; prefer Nuclear as the clearest keyed non-biomass.
+**Ans: B.** Nuclear energy is not biomass. Coal is also not treated as biomass energy in the renewable-biomass sense; gobar and wood are biomass. Among the options, nuclear is the clearest non-biomass source.
 </details>
 
 ---
@@ -1789,7 +1789,7 @@ D. Tertiary
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** The Dharwar system holds iron, manganese, gold and copper and is the most mineralised crystalline belt in standard keys.
+**Ans: C.** The Dharwar system holds iron, manganese, gold and copper and is the most mineralised crystalline belt.
 
 </details>
 
@@ -1812,7 +1812,7 @@ D. (A) is false but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Both are true in GC framing, but coal abundance follows Gondwana sediments in river valleys, not the “oldest metallic” tag of Dharwar.
+**Ans: B.** Both are true, but coal abundance follows Gondwana sediments in river valleys, not the “oldest metallic” tag of Dharwar.
 
 </details>
 
@@ -1875,7 +1875,7 @@ D. only in the Himalayan core
 
 **Q-GC6. Ghatnachakra / standard**
 
-Among the following states, which pair is keyed for **high mineral prosperity** in peninsular framing?
+Among the following states, which pair is known for **high mineral prosperity** in peninsular India?
 
 A. Punjab and Haryana
 
@@ -1998,7 +1998,7 @@ D. coral limestone of Rann
 
 **Q-GC12. UPPCS Prelims 2022-type / MoM 2021–22**
 
-Which two states were the **leading producers of iron ore** in India as per the Ministry of Mines Annual Report **2021–22** framing?
+Which two states were the **leading producers of iron ore** in India as per the Ministry of Mines Annual Report **2021–22**?
 
 A. Jharkhand and Karnataka
 
@@ -2011,7 +2011,7 @@ D. Chhattisgarh and Jharkhand
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** When asked on the 2021–22 report, Odisha and Chhattisgarh lead; older keys sometimes cited Odisha and Karnataka.
+**Ans: C.** As per the **2021–22** report, Odisha and Chhattisgarh lead; older data sometimes cited Odisha and Karnataka.
 
 </details>
 
@@ -2172,7 +2172,7 @@ D. Bailadila
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Ballari, Kendujhar and Bailadila are iron districts; Guntur is not keyed for iron ore.
+**Ans: C.** Ballari, Kendujhar and Bailadila are iron districts; Guntur is not an iron-ore district.
 
 </details>
 
@@ -2216,7 +2216,7 @@ D. is a non-metallic mica substitute
 
 **Q-GC23. UPPCS / standard**
 
-In older Ministry of Mines framing, **Odisha and Karnataka** were often cited together as top iron-ore producers because
+In older Ministry of Mines data, **Odisha and Karnataka** were often cited together as top iron-ore producers because
 
 A. both lie in the Gangetic plain
 
@@ -2273,7 +2273,7 @@ D. West Bengal
 
 **Q-GC26. Ghatnachakra / standard**
 
-**Rampura-Agucha** in Bhilwara district is keyed as
+**Rampura-Agucha** in Bhilwara district is known as
 
 A. Asia’s largest and richest zinc–lead deposit
 
@@ -2311,7 +2311,7 @@ D. Nagaland
 
 **Q-GC28. Ghatnachakra / standard**
 
-Silver output in India is **not** led by Gujarat; the leading state in standard keys is
+Silver output in India is **not** led by Gujarat; the leading state is
 
 A. Rajasthan
 
@@ -2504,7 +2504,7 @@ D. Jammu and Kashmir
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Chhattisgarh (Dantewada belt) is the sole tin producer in recent Indian Minerals Yearbook framing.
+**Ans: A.** Chhattisgarh (Dantewada belt) is the sole tin producer in recent Indian Minerals Yearbook data.
 
 </details>
 
@@ -2823,7 +2823,7 @@ D. they are volcanic lavas of the Deccan trap
 
 **Q-GC54. UPPCS / standard**
 
-In **proved coal reserves** framing used in GC notes, the descending order is
+In **proved coal reserves** (standard yearbook order), the descending order is
 
 A. Jharkhand > Odisha > Chhattisgarh > West Bengal > Madhya Pradesh
 
@@ -2842,7 +2842,7 @@ D. Rajasthan > Gujarat > Delhi
 
 **Q-GC55. Ghatnachakra / standard**
 
-Leading **coal production** states in recent GC framing often rank
+Leading **coal production** states in recent data often rank
 
 A. Chhattisgarh > Odisha > Madhya Pradesh
 
@@ -3213,7 +3213,7 @@ D. Chiria and Noamundi
 
 **Q-GC73. Ghatnachakra / standard**
 
-India’s **oldest oil refinery** still keyed in GC notes is at
+India’s **oldest oil refinery** is at
 
 A. Digboi, Assam
 
@@ -3511,7 +3511,7 @@ D. Puducherry only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Diu became the first UT framed as fully solar-powered in standard PYQ keys.
+**Ans: A.** Diu became the first Union Territory to become fully solar-powered.
 
 </details>
 
@@ -3560,7 +3560,7 @@ D. mica exports of Kodarma only
 > **Answers hidden** — click *Show answer* under each question to reveal.
 > **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
-**Q1.** Which two states were the leading producers of iron ore in India as per the Ministry of Mines Annual Report 2021–22 framing used in UPPCS?
+**Q1.** Which two states were the leading producers of iron ore in India as per the Ministry of Mines Annual Report **2021–22**?
 
 A. Jharkhand and Karnataka
 
@@ -3906,7 +3906,7 @@ D. Bengaluru
 **Ans: C** — India + France initiative (2015).
 </details>
 
-**Q20.** Which is the first Union Territory to become 100% solar (framing)?
+**Q20.** Which is the first Union Territory to become 100% solar-powered?
 
 A. Chandigarh
 
@@ -3922,7 +3922,7 @@ D. Lakshadweep
 **Ans: B** — Diu fact.
 </details>
 
-**Q21.** India’s first solar-powered airport (framing) is:
+**Q21.** India’s first solar-powered airport is:
 
 A. Delhi
 
@@ -4055,7 +4055,7 @@ D. Neither 1 nor 2
 **Ans: C** — Tertiary coal is mainly NE and limited.
 </details>
 
-**Q29.** Which energy source is NOT a biomass source in school/PYQ framing?
+**Q29.** Which energy source is NOT a biomass source?
 
 A. Gobar gas
 
@@ -4169,7 +4169,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2023 critical-mineral framing.
+**Ans: C** — Critical minerals list (**2023**).
 </details>
 
 **Q36.** Thorium-bearing monazite sands are classically associated with:
@@ -4529,7 +4529,7 @@ D. Only gobar gas
 
 A. India’s only coking coalfield
 
-B. Major solar project associated with France (2018 framing)
+B. Major solar project associated with France (**2018**)
 
 C. Only Hangul sanctuary
 
@@ -4554,7 +4554,7 @@ D. Lignite — Jharia
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 2020 framing: Ballari–iron correct; Cu–Chitradurga and Mn–Bhilwara incorrect; Jharia = bituminous/coking, not lignite.
+**Ans: B** — For the **2020** stem: Ballari–iron is correct; Cu–Chitradurga and Mn–Bhilwara are incorrect; Jharia is bituminous/coking, not lignite.
 </details>
 
 **Q59.** Which statement about industry location is most accurate?
@@ -4673,7 +4673,7 @@ D. Only peat of the Ganga delta
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — ~80% bituminous non-coking framing in standard notes.
+**Ans: B** — About **80%** of India’s coal is bituminous non-coking.
 </details>
 
 ---
@@ -4682,7 +4682,7 @@ D. Only peat of the Ganga delta
 
 1. **West of Mangalore–Kanpur is mineral-rich** — FALSE. Most major minerals lie **east** of the Mangaluru–Kanpur line.
 2. **Aravalli = richest mineral belt** — FALSE. **Chota Nagpur / NE Peninsular** is richest (“India’s Ruhr”).
-3. **Jharkhand + Karnataka always lead iron** — FALSE for 2021–22 framing. **Odisha + Chhattisgarh**.
+3. **Jharkhand + Karnataka always lead iron** — FALSE for **2021–22**. **Odisha + Chhattisgarh** lead.
 4. **Bailadila = Odisha** — FALSE. **Chhattisgarh**. Gurumahisani = Odisha; Noamundi = Jharkhand; Kudremukh = Karnataka.
 5. **Bauxite = sedimentary basin only** — FALSE. Commonly linked to **laterite** weathering; Odisha lead (**Panchpatmali**).
 6. **MALCO = Chennai** — FALSE. **Mettur, Tamil Nadu**. HINDALCO = Renukoot (UP); BALCO = Korba.
@@ -4697,7 +4697,7 @@ D. Only peat of the Ganga delta
 15. **Shivanasamudra = nuclear** — FALSE. **Hydel**; Kalpakkam = nuclear.
 16. **ISA Secretariat = New Delhi / Paris** — FALSE. **Gurugram**. Member count is **not 38**.
 17. **Nuclear / geothermal = stored solar** — FALSE. Wind and biomass are solar-linked.
-18. **Copper city = Chitradurga; Mn city = Bhilwara** — FALSE. Ballari = iron; Katni = bauxite (as keyed).
+18. **Copper city = Chitradurga; Mn city = Bhilwara** — FALSE. Ballari = iron; Katni = bauxite.
 19. **Diu is not the first 100% solar UT** — FALSE. It **is**. First solar airport = **Cochin**, not Ahmedabad.
 20. **UP = Bhilai-class steel state / no coal at all** — FALSE. Facts = **Sonbhadra** energy, **non-coking** Singrauli coal, **Mathura** refinery, **Narora** nuclear, **Shankargarh** silica. Firozabad = **glass**, Moradabad = **brass**.
 21. **Pegu Yoma = tin** — FALSE. **Mineral oil**. Tin = Kinta / Bangka.
@@ -4707,7 +4707,7 @@ D. Only peat of the Ganga delta
 25. **~80% Indian coal is coking** — FALSE. Most is bituminous **non-coking** (thermal).
 26. **Gondwana = metallic storehouse / Dharwar = coal king** — FALSE. **Dharwar** = metallic minerals; **Gondwana** ≈ **95–99%** coal.
 27. **Vindhyan = iron–gold belt** — FALSE. Sedimentary **limestone / china clay** fame.
-28. **Tin producer = Assam / J&K** — FALSE. Only **Chhattisgarh** in recent production framing.
+28. **Tin producer = Assam / J&K** — FALSE. Only **Chhattisgarh** produces tin in recent production data.
 29. **Digboi = largest petrochemical centre** — FALSE. **Oldest** oilfield/refinery lore; **Jamnagar** is the giant complex.
 30. **ISPRL storages include Ankleshwar** — FALSE. **Visakhapatnam, Mangaluru, Padur**.
 31. **Coal reserve order = production order** — FALSE. Proved reserves often **JH > OD > CG**; production often **CG > OD > MP**.

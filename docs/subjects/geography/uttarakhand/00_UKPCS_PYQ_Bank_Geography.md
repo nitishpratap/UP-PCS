@@ -2,9 +2,9 @@
 
 Drill file for dual-exam Geography. Year banks: [UKPCS PYQs](../../../ukpcs/pyqs/index.md).
 
-## National Geography — keyed (2025)
+## National Geography — 2025 answers
 
-| Q | Stem | Home |
+| Q | Question | Home |
 |---|------|------|
 | Q83 | Leading gold producer 2023 | [World Minerals](../21_World_Minerals_Energy.md) |
 | Q84 | Shiwalik = unconsolidated sediments | [Mountains & Hills](../01_Indian_Physical_Geography_Mountains_Hills.md) |
@@ -21,9 +21,9 @@ Drill file for dual-exam Geography. Year banks: [UKPCS PYQs](../../../ukpcs/pyqs
 | Q99 | National parks–states match | [Vegetation](../07_Natural_Vegetation_Biodiversity.md) |
 | Q100 | Largest petrochemical centre | [Minerals Energy Industry](../08_Minerals_Energy_Industry.md) |
 
-## Uttarakhand Geography — keyed
+## Uttarakhand Geography — 2025 answers
 
-| Q | Stem | Home |
+| Q | Question | Home |
 |---|------|------|
 | Q20 | Nanda Devi Biosphere | [Vegetation & Wildlife](03_Vegetation_and_Wildlife.md) |
 | Q51 | Silkyara 4.531 km | [Transport / Hazards](07_Transport_Tourism_Natural_Hazards.md) |
@@ -44,8 +44,8 @@ Drill file for dual-exam Geography. Year banks: [UKPCS PYQs](../../../ukpcs/pyqs
 
 ## Key caveats (Series B provisional)
 
-- **Q102:** Only statement 1 keyed — not both.
-- **Q107:** Letter **A Haridwar** — many coaching notes prefer Udham Singh Nagar; follow provisional key for this paper.
+- **Q102:** Only statement 1 is accepted — not both.
+- **Q107:** Letter **A Haridwar** — many notes also name Udham Singh Nagar; keep the provisional key for this paper.
 
 ## Syllabus coverage checklist
 

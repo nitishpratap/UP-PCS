@@ -50,7 +50,7 @@ D. Tuticorin
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Series B provisional key).** Nhava Sheva (JNPT) near Mumbai is western; the other three are eastern.
+**Ans: A.** Nhava Sheva (JNPT) near Mumbai is western; the other three are eastern.
 
 </details>
 
@@ -68,7 +68,7 @@ D. India
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (Series B provisional key).** Among the given options the provisional key marks the U.S.A. India is the frequent coaching rival on density stems — follow Series B for this paper.
+**Ans: B.** Among the given options, the answer is the **U.S.A.** India is a common distractor on railway-density stems.
 
 </details>
 
@@ -96,7 +96,7 @@ D. India
 17. **Kushinagar** became an international airport on **24 June 2020**. **Cochin** was India’s first solar-powered airport. **Jewar** is Noida International Airport.
 18. FLY91’s inaugural flight (18 March 2024) was from **Manohar International Airport** (Goa Mopa).
 19. The Motihari–**Amlekhganj** (Nepal) petroleum pipeline was inaugurated in **September 2019**.
-20. **PM Gati Shakti** was launched on **13 October 2021** with the “seven engines” framing. The **National Logistics Policy** (September 2022) complements it. The **Blue Economy** means ocean-based growth.
+20. **PM Gati Shakti** was launched on **13 October 2021** with the “seven engines” model. The **National Logistics Policy** (September 2022) complements it. The **Blue Economy** means ocean-based growth.
 21. Optical-fibre communication uses **total internal reflection (TIR)**, not simple refraction.
 22. Uttar Pradesh has **no major seaport**. Its rail HQ fact is **NER Gorakhpur**; its waterway fact is **NW-1** on the Ganga.
 23. NHAI was set up in **1995**. Expressways are access-controlled highways, distinct from ordinary National Highways.
@@ -307,19 +307,19 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 
 - **NHAI** was operationalised in **1995** under the Ministry of Road Transport and Highways.
 - The **Nagpur Plan (1943)** sorted Indian roads into National Highways, State Highways, District Roads and Village Roads — still the syllabus skeleton.
-- India’s road length is about **63+ lakh km** (second-largest network framing). Roads carry roughly **~90%** of passenger traffic and **~65–70%** of freight in recent NTDPC / MoRTH lore (older papers used **~80%** passenger).
-- National Highways are only about **2%** of road length but often keyed as carrying about **40%** of road traffic.
-- **NH length by state** (Dec 2022 NHAI framing): **Maharashtra > Uttar Pradesh > Rajasthan > Madhya Pradesh**. Older keys often put **Uttar Pradesh** first — read the year.
-- **State Highway** length leaders: **Maharashtra**, then Karnataka, Gujarat, Rajasthan (Basic Road Statistics framing).
-- **Longest NH:** older keys = old **NH-7**; current MoRTH framing often keys **NH-27 (EW)** Porbandar–Silchar. **NH-44** is also cited as the longest single corridor (Srinagar–Kanyakumari).
-- **Golden Quadrilateral** links **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km**); launched under NHDP (**2001** framing).
+- India’s road length is about **63+ lakh km** — the world’s second-largest road network. Roads carry roughly **~90%** of passenger traffic and **~65–70%** of freight in recent NTDPC / MoRTH data (older figures used **~80%** passenger).
+- National Highways are only about **2%** of road length but carry about **40%** of road traffic.
+- National Highway length by state (NHAI, Dec 2022): **Maharashtra > Uttar Pradesh > Rajasthan > Madhya Pradesh**. Older data often ranked **Uttar Pradesh** first.
+- **State Highway** length leaders: **Maharashtra**, then Karnataka, Gujarat, Rajasthan (Basic Road Statistics).
+- **Longest NH:** older data cited old **NH-7**; current MoRTH data often cite **NH-27 (EW)** Porbandar–Silchar. **NH-44** is also cited as the longest single corridor (Srinagar–Kanyakumari).
+- **Golden Quadrilateral** links **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km**); launched under NHDP in **2001**.
 - The **North–South Corridor** links **Srinagar** to **Kanyakumari**.
 - The **East–West Corridor** links **Porbandar** to **Silchar** (not Dwarka / Dibrugarh–Surat).
 - **NS and EW corridors cross at Jhansi (Uttar Pradesh).**
 - **Pradhan Mantri Bharat Jodo Pariyojana** = highway corridors to tourist / economic nodes on **BOT**.
 - **Mumbai–Pune** was India’s first six-lane access-controlled expressway (~95 km).
 - **PMGSY** began **25 December 2000** — all-weather rural connectivity to eligible habitations.
-- **Jawahar (Banihal) Tunnel** crosses the **Banihal** axis of the **Pir Panjal** (J&K / BRO lore).
+- **Jawahar (Banihal) Tunnel** crosses the **Banihal** axis of the **Pir Panjal** in Jammu & Kashmir (BRO).
 - IAS **2023** connectivity trap: East–West is **not** Dibrugarh–Surat; India–Myanmar–Thailand Trilateral ends at **Mae Sot** (not Chiang Mai); BCIM runs **Kunming–Kolkata** (not Varanasi–Kunming). All three stems in that paper were wrong.
 - **Bharatmala** is the umbrella **highway** programme. It is **not** a port scheme.
 - An **expressway** is an **access-controlled** high-speed road, stricter than an ordinary national highway.
@@ -361,7 +361,7 @@ The **built** Purvanchal Expressway runs Lucknow–Barabanki–Ambedkar Nagar–
 - It **does pass Mau**.
 - It does **not** run through **Basti** on the main alignment.
 
-The 2018 Prelims asked a proposal-stage stem “will not pass”. That paper’s official key was **Mau**. Use that only when the stem is the 2018 wording. For today’s map, Mau is on the road.
+On the **2018** Prelims, the proposal-stage “will not pass” question’s official answer was **Mau**. On today’s map, Mau lies on that corridor.
 
 **Inline PYQ — UPPCS Prelims 2018, Q3**
 
@@ -546,7 +546,7 @@ Air transport is fast but costly, so it dominates high-value and time-sensitive 
 - India’s first airmail / air transport cue is **Prayagraj–Naini, 1911**.
 - Metro international hubs include Delhi (IGI), Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad and Cochin.
 - **Cochin** is India’s first **solar-powered** airport (and the world’s first fully solar-powered international airport lore).
-- **Cochin** airport is also the first Indian airport developed under a **public limited / PPP** ownership framing in older keys.
+- **Cochin** was India’s first airport developed under a **public limited / PPP** model.
 - **Kushinagar** airport in Uttar Pradesh got international status on **24 June 2020**.
 - **Jewar** is **Noida International Airport**, Uttar Pradesh’s new greenfield international hub.
 - FLY91 is a newly launched Indian airline. Its inaugural flight on **18 March 2024** took off from **Manohar International Airport** (Mopa, Goa).
@@ -738,7 +738,7 @@ Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expre
 
 ## N.10 Tourism geography
 
-Tourism sells India’s **unity in diversity**. The Ministry’s brand is **Incredible India**. **ITDC** was set up in **October 1966**. Niche tourism pushes India as a **365-day** destination for specialised interest travel. Visa-on-arrival / e-tourist visa raised arrivals in coaching lore.
+Tourism sells India’s **unity in diversity**. The Ministry’s brand is **Incredible India**. **ITDC** was set up in **October 1966**. Niche tourism pushes India as a **365-day** destination for specialised interest travel. Visa-on-arrival / e-tourist visa raised tourist arrivals.
 
 ### Resort / hill-station match bank
 
@@ -764,7 +764,7 @@ Tourism sells India’s **unity in diversity**. The Ministry’s brand is **Incr
 |------|---------|------|
 | **Pink City** | **Jaipur** | Not Mysore |
 | **City of Lakes** | **Udaipur** | **Not Jaisalmer** |
-| **City of Joy** | Kolkata | Coaching pair |
+| **City of Joy** | Kolkata | Common nickname pair |
 | **City of Mahakal** | Ujjain | Correct with Jaipur pair |
 | **Incredible India** | MoT brand | Not “Beautiful India” |
 | **Sabarimala** | **Kerala** (Ayyappa) | Not TN / KA / AP |
@@ -1136,14 +1136,14 @@ A. About 50%
 
 B. About 65%
 
-C. About 80% when older papers asked; about 90% in recent MoRTH framing
+C. About 80% in older figures; about 90% in recent MoRTH data
 
 D. About 95% of both passenger and freight equally
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Passenger share was keyed near **80%** in older stems; current notes often cite **~90%**. Freight is lower (about **65–69%**).
+**Ans: C.** Older figures put passenger share near **80%**; recent notes often cite **~90%**. Freight is lower (about **65–69%**).
 
 </details>
 
@@ -1295,13 +1295,13 @@ D. NH-1 (Delhi–Amritsar)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Older keys cited **NH-7**; current MoRTH framing often keys **NH-27 (EW)** or **NH-44 (NS)** as longest corridor.
+**Ans: C.** Older data cited **NH-7**; current MoRTH data often cite **NH-27 (EW)** or **NH-44 (NS)** as the longest corridor.
 
 </details>
 
 **Q-GC10. Ghatnachakra / standard**
 
-Which state has the **maximum length of National Highways** in current NHAI framing?
+Which state has the **maximum length of National Highways** as per current NHAI data?
 
 A. Uttar Pradesh
 
@@ -1314,7 +1314,7 @@ D. Madhya Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Maharashtra** leads NH length now; **Uttar Pradesh** was the older key when asked in past papers.
+**Ans: C.** **Maharashtra** leads NH length now; older data often ranked **Uttar Pradesh** first.
 
 </details>
 
@@ -1716,7 +1716,7 @@ D. 100 lakh km
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** India has about **63+ lakh km** of roads — second-largest network framing in standard notes.
+**Ans: C.** India has about **63+ lakh km** of roads — the world’s second-largest road network.
 
 </details>
 
@@ -2146,7 +2146,7 @@ D. Secunderabad
 
 **Q-GC53. Ghatnachakra / standard**
 
-Among numbered Rajdhani routes in standard MCQ sets, which is often keyed as the **longest**?
+Among numbered Rajdhani routes, which is commonly treated as the **longest**?
 
 A. Howrah Rajdhani
 
@@ -2261,7 +2261,7 @@ D. Kolkata (Garden Reach)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Cochin Shipyard** is India's **largest shipyard** in standard keys.
+**Ans: B.** **Cochin Shipyard** is India's **largest shipyard**.
 
 </details>
 
@@ -2318,7 +2318,7 @@ D. Kolkata — open seaport on the Arabian Sea
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Vizag** and **Cochin** are cited as **natural**; **Chennai** is often keyed as **artificial** / open seaport.
+**Ans: B.** **Vizag** and **Cochin** are cited as **natural** harbours; **Chennai** is commonly treated as an **artificial** / open seaport.
 
 </details>
 
@@ -2520,7 +2520,7 @@ D. Kempegowda, Bengaluru
 
 **Q-GC72. Ghatnachakra / standard**
 
-India's first airport developed under a **public limited company / PPP** framing is associated with
+India's first airport developed under a **public limited company / PPP** model is associated with
 
 A. Delhi IGI
 
@@ -2533,7 +2533,7 @@ D. Kolkata NSCBI
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Cochin** is the first **public ltd / PPP** airport cue in older keys.
+**Ans: B.** **Cochin** was India’s first airport developed under a **public limited / PPP** model.
 
 </details>
 
@@ -2643,7 +2643,7 @@ D. None is correct
 
 **Q-GC78. Ghatnachakra / standard**
 
-India has how many **major ports** under the Major Port Authorities Act framing (excluding project-stage additions)?
+India has how many **major ports** under the Major Port Authorities Act (excluding project-stage additions)?
 
 A. Eight
 
@@ -3271,7 +3271,7 @@ D. Kohima
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Haflong** in Dima Hasao district is coaching lore for the **only hill station of Assam**; Shillong is in Meghalaya.
+**Ans: B.** **Haflong** in Dima Hasao district is the **only hill station of Assam**; Shillong is in Meghalaya.
 
 </details>
 
@@ -4050,7 +4050,7 @@ D. Andhra Pradesh
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Dindigul** is a major city in **Tamil Nadu**, known for its historic fort and regional handicraft industry in coaching map notes.
+**Ans: B.** **Dindigul** is a major city in **Tamil Nadu**, known for its historic fort and regional handicraft industry.
 
 </details>
 
@@ -5107,7 +5107,7 @@ D. A-4, B-1, C-2, D-3
 24. **North Western Railway HQ = Jodhpur** — FALSE. **Jaipur**.
 25. **Chennai = deepest natural port** — FALSE. Often **artificial**; Vizag/Paradip depth lore varies by stem.
 26. **Kandla = LNG terminal** — FALSE. LNG cues are Dahej, Hazira, Kochi, Dabhol, Ennore.
-27. **Old NH-7 is still always the longest NH** — FALSE for current MoRTH framing — often **NH-27 EW**; also learn **NH-44** corridor lore.
+27. **Old NH-7 is still always the longest NH** — FALSE for current MoRTH data — often **NH-27 EW**; also note the **NH-44** corridor.
 28. **NS–EW meet at Nagpur / Gwalior** — FALSE. **Jhansi**.
 29. **First CNG train = Delhi–Agra** — FALSE. **Rewari–Rohtak**.
 30. **Sethusamudram = Cape Comorin only** — FALSE. Links **Gulf of Mannar** with **Palk Bay**.

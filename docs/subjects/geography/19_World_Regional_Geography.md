@@ -13,7 +13,7 @@
 
 </details>
 
-> **Sources baked in:** Lucent world regional match-lists; NCERT world map diet; coaching map (Lucent capitals / landlocked / boundaries); UPPCS Prelims 2018–2025
+> **Sources baked in:** Lucent world regional match-lists; NCERT world map diet; Lucent capitals / landlocked / boundaries notes; UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — country–capital, “which is NOT in this sea/region”, Australia interior, Japan plains, W Europe rain, West Asia mountains W→E; teach full regional map
 > **Last verified:** August 2026 — coaching gap-pass (continent order, double-landlocked, boundary lines, capital≠city)
 > **Current Affairs:** none mandatory (static political-map chapter)
@@ -54,7 +54,7 @@ None mandatory — static political-map chapter.
 22. **Igarka** is in **Russia**, not China.
 23. New Zealand’s capital is **Wellington**. NZ has North and South Islands with **Cook Strait** and is **not** an Australian state.
 24. **Ethiopia** is landlocked after Eritrea’s secession; **Eritrea** holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
-25. Only **double-landlocked** states in common awareness are **Uzbekistan** and **Liechtenstein**.
+25. Only **double-landlocked** states in the usual set are **Uzbekistan** and **Liechtenstein**.
 26. Capitals that are not the country’s most-famous tourist city: Turkey **Ankara**, Australia **Canberra**, Brazil **Brasília**, UAE **Abu Dhabi**, NZ **Wellington**.
 27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA.
 28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital.
@@ -120,7 +120,7 @@ Teach the **full regional map** — next year can ask any Lucent capital or land
 
 ## N.1 Asia (overview + East + South)
 
-**Continent area order (coaching fact):** Asia > Africa > North America > South America > Antarctica > Europe > Australia / Oceania.
+**Continent area order:** Asia > Africa > North America > South America > Antarctica > Europe > Australia / Oceania.
 
 Asia is the **largest** continent. splits: **East / SE / South / West / Central / North (Siberia)**.
 
@@ -151,7 +151,7 @@ Asia is the **largest** continent. splits: **East / SE / South / West / Central 
 | Maldives | Malé | Atolls; equator-near |
 | Afghanistan | Kabul | Landlocked hinge to West/Central Asia; Hindu Kush |
 
-India’s **land** neighbours (map, not the boundary-line chapter): PK, CN, NP, BT, MM, BD, AF (via PoK in some keys — usually lists **Pakistan, China, Nepal, Bhutan, Myanmar, Bangladesh**; Afghanistan if the stem uses the longer list). **Sri Lanka and Maldives are sea neighbours.**
+India’s usual **land** neighbours are **Pakistan, China, Nepal, Bhutan, Myanmar and Bangladesh**. Some lists also add **Afghanistan** (via PoK). **Sri Lanka and Maldives are sea neighbours.**
 
 > ** note:** Nobi + Kanto → **Japan**. Mongolia and Nepal/Bhutan are the Asian **landlocked** diet with Laos and the ‘stans.
 
@@ -927,13 +927,13 @@ D. Anguilla
 
 **Asia landlocked (core):** Mongolia, Nepal, Bhutan, Laos, Afghanistan, the five stans (Caspian ≠ ocean), Armenia, (plus Central Asian neighbours).
 
-**Double-landlocked (coaching rarity):** a landlocked country surrounded only by other landlocked states — **Uzbekistan** (Asia) and **Liechtenstein** (Europe).
+**Double-landlocked:** a landlocked country surrounded only by other landlocked states — **Uzbekistan** (Asia) and **Liechtenstein** (Europe).
 
 **Africa landlocked (core):** Ethiopia (post-Eritrea), Mali, Niger, Chad, Uganda, Zambia, Zimbabwe, Botswana, Malawi, Rwanda, Burundi, South Sudan, CAR, Lesotho, Eswatini.
 
 **Equator countries :** Ecuador, Colombia, Brazil, Gabon, Congo, DRC, Uganda, Kenya, Somalia, Indonesia, Maldives, Kiribati. **Not** India. **Not** Australia (Capricorn, not Equator).
 
-**Prime Meridian awareness:** runs through the UK (Greenwich), France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana — **not** through India.
+**Prime Meridian:** runs through the UK (Greenwich), France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana — **not** through India.
 
 **Boundary lines (short map diet)**
 
@@ -943,8 +943,8 @@ D. Anguilla
 | **49th parallel** | Much of **Canada–USA** border |
 | **Durand Line** | Afghanistan–Pakistan |
 | **Radcliffe Line** | India–Pakistan (1947) |
-| **McMahon Line** | India–China (eastern sector awareness) |
-| **Maginot / Siegfried** | Historic France–Germany fortification names (awareness) |
+| **McMahon Line** | India–China (eastern sector) |
+| **Maginot / Siegfried** | Historic France–Germany fortification names |
 
 **Capitals that are NOT the famous city**
 
@@ -1448,7 +1448,7 @@ D. Neither 1 nor 2
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
 
 **Q1.** Nobi and Kanto plains are located in:
 
@@ -2759,7 +2759,7 @@ D. South Africa–Namibia–Botswana only
 
 A. India–Pakistan western sector only
 
-B. India–China eastern sector awareness
+B. India–China eastern sector
 
 C. USA–Mexico Rio Grande only
 
@@ -2858,6 +2858,6 @@ D. 1, 2 and 3
 23. **Paraguay has a seacoast** — FALSE. Landlocked with Bolivia.
 24. **Casablanca / Istanbul / Sydney / Rio / Auckland = capitals** — FALSE. Rabat / Ankara / Canberra / Brasília / Wellington.
 25. **Europe is the largest continent** — FALSE. **Asia** is largest; Australia/Oceania is smallest inhabited.
-26. **Double-landlocked = Bolivia** — FALSE. Bolivia is landlocked; **Uzbekistan / Liechtenstein** are the double-landlocked coaching pair.
+26. **Double-landlocked = Bolivia** — FALSE. Bolivia is landlocked; **Uzbekistan / Liechtenstein** are the double-landlocked pair.
 27. **49th parallel = Korea** — FALSE. Korea ≈ **38th**; 49th ≈ Canada–USA.
 28. **Skip capitals map because recent papers asked Australia A/R** — FALSE. Next year can ask any Lucent capital or landlocked trap.

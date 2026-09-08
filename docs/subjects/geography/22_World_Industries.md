@@ -238,7 +238,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 | **Cuba** (Havana) | **Cigar** |
 | **St. Petersburg** | **Shipbuilding** |
 
-**Japan / Russia nicknames (coaching)**
+**Japan / Russia nicknames**
 
 | Nickname | City | Fact |
 |----------|------|------|
@@ -477,7 +477,7 @@ D. Jakarta — Indonesia
 - Suez / Panama = shorter; draft and politics can block them.
 - Cape routes = longer, still used for oversized tankers or when a canal is closed.
 
-**Land trade names (awareness)**
+**Land trade names**
 
 - Silk Route — China–Central Asia–Med.
 - Trans-Siberian — Moscow–Vladivostok rail.
@@ -556,7 +556,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 ## N.6 World local winds
 
-This is the **full Lucent / coaching match map**, not only the names UPPCS has already used. Group by family. The same set is taught in Climate of India.
+Learn the full local-wind match set below, grouped by family. The same set is also taught under Climate of India.
 
 **Foehn family — warm and dry after crossing a mountain**
 
@@ -916,7 +916,7 @@ D. 10,000 km
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
 
 **Q1.** Match List-I with List-II:
 
@@ -2137,7 +2137,7 @@ D. A is false but R is true
 
 ---
 
-**Q56.** Modern shipbuilding tonnage leaders in coaching maps are:
+**Q56.** Modern shipbuilding tonnage leaders are:
 
 A. Only Cuba and Lancashire
 

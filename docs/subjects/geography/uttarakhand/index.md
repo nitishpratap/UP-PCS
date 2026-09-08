@@ -28,7 +28,7 @@ UKPCS Unit 2 — **Geography of Uttarakhand**. Parallel to UP Topic 24; do not m
 <span>District mineral pairs · hydropower.</span>](04_Minerals_Power_Industry.md){ .study-card }
 
 [**Topic 5 — Agri, AH & Irrigation**
-<span>Haridwar agri land key · AH supplementary.</span>](05_Agriculture_Animal_Husbandry_Irrigation.md){ .study-card }
+<span>Haridwar agri land · AH supplementary.</span>](05_Agriculture_Animal_Husbandry_Irrigation.md){ .study-card }
 
 [**Topic 6 — Population & ST**
 <span>Sex ratio order · Vanrawats.</span>](06_Population_SC_ST_Settlements.md){ .study-card }

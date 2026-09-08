@@ -11,7 +11,7 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 > **Sources baked in:** Census 2011 (official until Census 2027), NCERT Class 12 (Population), PWOnlyIAS / Drishti notes, NFHS-4/5, NPP 2000, UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — census firsts, 2011 number facts, UP extremes, TFR vs CBR trap, DTT/theories
 > **Last verified:** August 2026
-> **Current Affairs:** UNFPA World Population Report; India most populous in UN estimates ~2023 — **Census 2011 figures stay frozen** until Census 2027; NFHS-5 TFR ~2.0 (do not overwrite 2018 key 2.2)
+> **Current Affairs:** UNFPA World Population Report; India most populous in UN estimates ~2023 — **Census 2011 figures stay frozen** until Census 2027; NFHS-5 TFR ~2.0 (NFHS-4 / 2018 figure remains **2.2**)
 
 ---
 
@@ -21,7 +21,7 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 | Year | Fact | Why asked | Source |
 |------|------|-----------|--------|
 | **Census 2011** | Official number set until **Census 2027** | Every density/SR/literacy MCQ | ORGI |
-| **NFHS-5** | TFR ~**2.0** nationally | Do not overwrite 2018 NFHS-4 key **2.2** | MoHFW |
+| **NFHS-5** | TFR ~**2.0** nationally | NFHS-4 (2015–16) figure used in 2018 was **2.2** | MoHFW |
 | **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
 | **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
 | **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
@@ -34,30 +34,30 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
 2. **1921** is the **Great Divide** year of Indian census history. **2011** was the **15th** census and the **7th** after Independence.
-3. Census 2011 India population was about **121.09 crore**. Decadal growth **2001–11** was **17.64%**. India holds roughly one-sixth of world population in that framing.
+3. Census 2011 India population was about **121.09 crore**. Decadal growth **2001–11** was **17.64%**. India holds roughly one-sixth of world population in that count.
 4. Arithmetic density is **population / total area**. India’s 2011 arithmetic density is **382** persons per km².
 5. Physiological density is **population / net sown area**. Agricultural density is **agricultural population / net sown area**. Do not swap these three density types.
 6. Among States, **Bihar** has the highest density (**1106**). West Bengal and Kerala follow high; Uttar Pradesh is **829**. **Arunachal Pradesh** has the lowest State density (**17**). Delhi UT is very dense but is not a “lowest density State” answer.
 7. Core 2011 facts: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
 8. **Uttar Pradesh** is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
-9. Highest State sex ratio is **Kerala**. In the 2018 framing, lowest State sex ratio is **Haryana**. Lowest child sex ratio (rural + urban) is also **Haryana**.
+9. Highest State sex ratio is **Kerala**. Among States in the usual 2011 set, lowest sex ratio is **Haryana**. Lowest child sex ratio (rural + urban) is also **Haryana**.
 10. Literacy is highest in **Kerala** and lowest among States in **Bihar**. In Uttar Pradesh, **Shrawasti** has the lowest female literacy among districts.
 11. Absolute growth is **P₂ − P₁**. Growth rate is the percentage change. **Natural growth = CBR − CDR**. Induced change comes from **migration**.
-12. Replacement-level **TFR is 2.1 children per woman**, not “per thousand” (that wording belongs to birth/death rates). NFHS-4 (2015–16) TFR was **2.2**. Do not overwrite older keys with NFHS-5 ~2.0 unless the stem asks for it.
+12. Replacement-level **TFR is 2.1** children per woman, not “per thousand” (that wording belongs to birth/death rates). NFHS-4 (2015–16) reported **2.2**. NFHS-5 reports about **2.0**.
 13. The National Population Policy **2000** aimed at population stability by **2045**. World Population Day is **11 July**. The World Population Report is associated with **UNFPA**.
 14. The demographic dividend window is the large share of working ages **15–59**, not 60+ or 0–6. Dependency compares young plus aged with workers.
 15. Urbanisation acceleration in the classic curve is linked to the **second stage** of demographic transition. Among religions, **Jains** are the most urbanised.
-16. Demographic Transition Theory awareness names **Thompson** (with Notestein). Optimum population is linked to **Cannan**. Malthus argued population grows **geometrically** while food grows **arithmetically**.
+16. Demographic Transition Theory is linked to **Thompson** (with Notestein). Optimum population is linked to **Cannan**. Malthus argued population grows **geometrically** while food grows **arithmetically**.
 17. The largest internal migration stream is **rural → rural**. Female migration is often for marriage; male migration is often for work. **Immigration** means in-movement; **emigration** means out-movement.
 18. Push factors drive people from the origin; pull factors attract them to the destination. Out-migration sources are often Uttar Pradesh–Bihar; destinations are often Maharashtra–Delhi–Gujarat.
 19. A **census town** needs population **≥5,000**, density **≥400/km²**, and **≥75%** of **male main workers** in non-agriculture.
 20. Census 2011 listed **53** million-plus urban agglomerations. Kanpur crossed the million mark in **1971**; Lucknow in **1981**. 2011 UP UA order is **Kanpur > Lucknow > Ghaziabad > Agra**.
-21. Uttar Pradesh district facts (2011): **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** high sex-ratio awareness; **Shrawasti** lowest female literacy.
+21. Uttar Pradesh district facts (2011): **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among the higher sex-ratio districts; **Shrawasti** lowest female literacy.
 22. Uttar Pradesh holds about **16.5%** of India’s population. Rural share is about **77.7%**; urban about **22.3%**. State sex ratio is **912**; literacy about **67.7%**.
 23. Crowded belts are the Ganga plain and coasts. Sparse belts are the Himalaya, North-East hills, Thar and dry interior pockets. Distribution factors include terrain, climate, soil, water, minerals, industry, transport and history.
 24. Keep **Census 2011** numbers for Prelims until **Census 2027** results replace them. UN estimates that India became the most populous country around **2023** do not rewrite the 2011 tables.
-25. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States in the usual coaching map.
-26. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share in India lore, with a slow shift toward secondary and tertiary as development proceeds.
+25. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States than in the high-fertility northern belt.
+26. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share of India’s workforce, with a slow shift toward secondary and tertiary as development proceeds.
 
 ---
 
@@ -133,7 +133,7 @@ A census is the official count of population and its attributes, taken at fixed 
 | III | 1951–1981 | Rapid growth / population explosion |
 | IV | 1981–2011 | High growth with a **declining rate** |
 
-> **Hall note:** Teach **1872** historically and **1881** as first sync. In a 2023-style stem keyed to **1871**, mark that option.
+> **Note:** Teach **1872** historically and **1881** as first sync. The UPPCS **2023** answer option was **1871**.
 
 **Inline PYQ — UPPCS Prelims 2023, Q128**
 
@@ -159,7 +159,7 @@ D. 1881
 
 People are unevenly spread across India. About half of India’s population is concentrated in a few large states led by **Uttar Pradesh, Maharashtra, Bihar, West Bengal and Andhra Pradesh** (2011 Andhra = undivided).
 
-**Factors affecting distribution (NCERT / coaching map)**
+**Factors affecting distribution**
 
 Physical factors:
 
@@ -181,7 +181,7 @@ Socio-economic and historical factors:
 - Sparse belts: Himalaya, north-eastern hills, Thar, and some dry or rugged interior pockets.
 
 - Census 2011 descending population among the states papers reuse most often is **Uttar Pradesh > Maharashtra > Bihar > West Bengal > Andhra Pradesh**.
-- A 2024 stem listing Bihar, Andhra Pradesh, Uttar Pradesh and West Bengal is answered as **UP > Bihar > WB > AP**.
+- A 2024 question listing Bihar, Andhra Pradesh, Uttar Pradesh and West Bengal is answered as **UP > Bihar > WB > AP**.
 
 **Inline PYQ — UPPCS Prelims 2024, Q5**
 
@@ -221,7 +221,7 @@ Population density compares people with land. Prelims usually quotes **arithmeti
 - India’s Census **2011** arithmetic density is **382** (do not mix with **2001 ≈ 325**).
 - High-density **state** ladder awareness: **Bihar (~1106)** > **West Bengal (~1028)** > **Kerala (~860)** > **Uttar Pradesh (829)**.
 - The lowest density **state** is **Arunachal Pradesh (~17)**.
-- NCT **Delhi** is a very high-density UT awareness fact, but it is **not** a “state” answer in the lowest-density stem.
+- NCT **Delhi** is a very high-density UT, but it is **not** a “state” answer for lowest density.
 - Moderate densities appear in many peninsular and central states; Himalayan and several NE hill states stay relatively low.
 
 **Inline PYQ — UPPCS Prelims 2021, Q142**
@@ -250,7 +250,7 @@ Sex ratio is the number of females per **1,000** males.
 
 - India’s Census **2011** sex ratio is **943** (up from **933** in 2001).
 - The highest state sex ratio is **Kerala**.
-- In the 2018 framing of an economically high but lowest sex-ratio state, the fact is **Haryana**.
+- Among States that rank high economically, **Haryana** has the lowest sex ratio in the usual 2011 set.
 - Uttar Pradesh sex ratio in 2011 is **912**.
 
 **Inline PYQ — UPPCS Prelims 2018, Q38**
@@ -279,7 +279,7 @@ Child sex ratio (CSR) counts girls per 1,000 boys in the age group **0–6**.
 
 - India’s Census **2011** CSR is **919**, worse than **927** in 2001.
 - The state with the **lowest CSR in both rural and urban areas** in the 2018 paper is **Haryana**.
-- Do not mark Uttar Pradesh, Kerala or Jammu & Kashmir for that stem.
+- Do not mark Uttar Pradesh, Kerala or Jammu & Kashmir for that lowest-CSR question.
 
 **Inline PYQ — UPPCS Prelims 2018, Q110**
 
@@ -334,7 +334,7 @@ D. Bahraich
 
 ## N.7 Birth Rate, Death Rate, Natural Growth, TFR
 
-**Growth vocabulary (NCERT / PW)**
+**Growth vocabulary**
 
 - **Absolute growth** is the difference between population at two dates (P₂ − P₁).
 - **Growth rate** expresses that change as a **percentage** of the base population.
@@ -348,8 +348,8 @@ D. Bahraich
 - Migration and marriages are **not** part of natural growth.
 - **Total Fertility Rate (TFR)** is the average number of children **per woman**.
 - Replacement-level TFR is **2.1**.
-- NFHS-4 (2015–16) TFR used in the 2018 paper is **2.2**.
-- NFHS-5 national TFR is about **2.0** for Current Affairs, but it does **not** rewrite the 2018 key.
+- NFHS-4 (2015–16) TFR was **2.2** (the figure used in the 2018 paper).
+- NFHS-5 national TFR is about **2.0**. That is a later survey figure; it does not change the 2018 paper answer.
 - **National Population Policy 2000** aimed for replacement fertility and a **stable population by 2045**.
 - **World Population Day** is **11 July**.
 - The **World Population Report** is released by **UNFPA**, not IMF, WHO or UNDP.
@@ -439,7 +439,7 @@ Migration in the Census means a change of residence. It changes both **size** an
 
 - **Push factors** make the origin less attractive — unemployment, poverty, drought, flood, conflict, or lack of services.
 - **Pull factors** make the destination more attractive — jobs, education, better wages, urban amenities, and industrial hubs.
-- Uttar Pradesh and Bihar are classic **out-migration** source states; Maharashtra, Delhi and Gujarat are classic **in-migration** destinations in coaching maps.
+- Uttar Pradesh and Bihar are classic **out-migration** source states; Maharashtra, Delhi and Gujarat are classic **in-migration** destinations.
 
 A **Census town** must satisfy three conditions together: population ≥ **5,000**, density ≥ **400** persons/km², and ≥ **75%** of male main workers in non-agricultural pursuits.
 
@@ -523,7 +523,7 @@ A Census **million city / urban agglomeration** has population ≥ **10 lakh**.
 - Census **2011** counted **53** million-plus UAs.
 - In Uttar Pradesh, **Kanpur** crossed 10 lakh in **1971** and **Lucknow** in **1981**.
 - UP UA size order in 2011 is **Kanpur > Lucknow > Ghaziabad > Agra**.
-- Coaching hierarchy words: **Class I** town (≥1 lakh), **million city** (≥10 lakh), **megacity** (UN framing often ≥10 million), and **conurbation** (merged urban sprawl). Learn the definition the stem uses.
+- Hierarchy terms: **Class I** town (≥1 lakh), **million city** (≥10 lakh), **megacity** (UN definition often ≥10 million), and **conurbation** (merged urban sprawl). Use the definition given in the question.
 
 ---
 
@@ -535,7 +535,7 @@ A population pyramid shows age–sex structure.
 - Age **15–59** is the working-age band used for the **demographic dividend** fact in the 2022 paper.
 - Age **60+** is the aged band and is **not** that paper’s dividend definition.
 - A broad base signals high fertility (expanding pyramid). A narrow base with a bulging top signals ageing.
-- India remains youthful while the **15–59** share stays high; southern states show earlier ageing signals than the high-fertility northern belt in coaching comparisons.
+- India remains youthful while the **15–59** share stays high; southern states show earlier ageing signals than the high-fertility northern belt.
 
 **Inline PYQ — UPPCS Prelims 2022, Q129**
 
@@ -559,7 +559,7 @@ D. Working population of 15 to 59 years
 
 ## N.13 Demographic Transition & Theories
 
-**Demographic Transition Theory (Thompson; Notestein also appears in coaching notes)**
+**Demographic Transition Theory (Thompson; Notestein also appears in standard notes)**
 
 - Stage 1: high birth rate and high death rate.
 - Stage 2: death rate falls first → population explosion.
@@ -634,7 +634,7 @@ Uttar Pradesh is India’s **most populous** state and also has the **largest ru
 - District awareness facts: **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among the better sex-ratio districts; **Shrawasti** lowest female literacy.
 - Million-city years: Kanpur **1971**, Lucknow **1981**.
 - UA order 2011: **Kanpur > Lucknow > Ghaziabad > Agra**.
-- In Bill-style stems, never treat TFR as a “per thousand” figure.
+- Never treat TFR as a “per thousand” figure — that unit belongs to CBR.
 
 | Item | 2011 fact |
 |------|-----------|
@@ -648,7 +648,7 @@ Uttar Pradesh is India’s **most populous** state and also has the **largest ru
 
 ## Complete PYQ Bank — Population Geography (2018–2025)
 
-**Instructions:** Click **Show answer** under each question. Read the full stem before opening.
+**Instructions:** Click **Show answer** under each question. Read the full question before opening.
 
 ---
 
@@ -1653,7 +1653,7 @@ D. Must already be a municipality
 
 ---
 
-**Q31.** State ranked economically high but lowest on sex-ratio (2018 framing):
+**Q31.** State ranked economically high but lowest on sex-ratio (2011 / usual set):
 
 A. Madhya Pradesh
 
@@ -2235,7 +2235,7 @@ D. 31.16%
 
 ---
 
-**Q62.** Occupational structure in NCERT framing groups workers into:
+**Q62.** Occupational structure in NCERT groups workers into:
 
 A. Only rural and urban
 
@@ -2266,7 +2266,7 @@ D. Kerala > Bihar > Arunachal > UP
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Bihar highest among states; then WB, Kerala, UP in common coaching ladder.
+**Ans: B** — Bihar highest among states; then WB, Kerala, UP in the usual density ladder.
 </details>
 
 ---

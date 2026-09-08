@@ -21,7 +21,7 @@
 
 ## National Geography (shared)
 
-India / World physical, climate, drainage, vegetation, minerals, transport — parent Topics 1–23. UKPCS 2025 national stems are listed in the [Geography PYQ Bank](00_UKPCS_PYQ_Bank_Geography.md).
+India / World physical, climate, drainage, vegetation, minerals, transport — parent Topics 1–23. UKPCS 2025 national questions are listed in the [Geography PYQ Bank](00_UKPCS_PYQ_Bank_Geography.md).
 
 ## Status
 
