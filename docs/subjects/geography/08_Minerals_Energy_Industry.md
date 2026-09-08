@@ -10,7 +10,8 @@
 **Industry:** Cotton Textile | Rubber Industry | Petroleum Refineries | Major Industrial Regions | Major Industrial Cities | Industrial Corridors | DMIC | SEZs | Freight Corridors | Dedicated Freight Corridor
 </details>
 
-> **Weight:** ★★★★ — mine–state triples, coalfield traps, nuclear/hydel, refineries, corridors
+> **Sources baked in:** NCERT Class 10–12 minerals/energy/industry, Drishti / PW heads, **Ghatnachakra** Mineral Resources (CA–264+ rock systems → metals → coal/oil → power → industry), UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — mine–state triples, Dharwar vs Gondwana, coalfield traps, nuclear/hydel, refineries, corridors
 > **Last verified:** August 2026
 > **Current Affairs:** Critical minerals (Li Reasi J&K); **National Critical Mineral Mission**; energy mix / nuclear+geothermal ≠ solar; DFC/DMIC as living schemes
 
@@ -57,7 +58,7 @@ D. Vadodara
 
 ## Consolidated — 28 Must-Score Facts
 
-1. Most of India’s mineral wealth lies **east of the Mangalore–Kanpur line**. The northern plains are almost empty of major ores. **Chota Nagpur** is the richest mineral belt and is often called India’s Ruhr.
+1. Most of India’s mineral wealth lies **east of the Mangalore–Kanpur line**. The northern plains are almost empty of major ores. **Chota Nagpur** is the richest mineral belt and is often called India’s Ruhr. **Dharwar** rocks are the metallic storehouse; **Gondwana** holds nearly all coal.
 2. India is poor in many non-ferrous metals but rich in **bauxite**. Mica’s classic dielectric belt is **Koderma–Gaya–Hazaribagh** in Jharkhand.
 3. In the 2021–22 Ministry of Mines framing used in papers, the leading iron-ore states are **Odisha and Chhattisgarh**. Do not assume Jharkhand and Karnataka always lead.
 4. Iron-ore mine–state facts are **Gurumahisani (Odisha)**, **Bailadila (Chhattisgarh)**, **Noamundi (Jharkhand)**, and **Kudremukh (Karnataka)**. Mount Newman in Australia is famous for **iron**, not manganese.
@@ -142,6 +143,20 @@ D. Vadodara
 
 A deposit becomes a **mine** only when grade, ease of extraction, and distance to market make working it profitable.
 
+### Rock systems (Ghatnachakra / NCERT map)
+
+| System | Character | Mineral cue |
+|--------|-----------|-------------|
+| **Dharwar** | Oldest metamorphosed belts; first studied in Karnataka | **Storehouse of metallic minerals** — iron, manganese, gold, copper; most mineralised system in teaching keys |
+| **Gondwana** | Palaeozoic–Mesozoic sediments in eastern/central valleys | About **95–99%** of India’s **coal** (Damodar, Son, Mahanadi, Godavari, etc.) |
+| **Vindhyan** | Sedimentary (limestone, sandstone, shale) | **Limestone**, sand, china clay — cement base; **not** the metallic king |
+| **Cuddapah / Tertiary** | Younger / basin rocks | Tertiary coal NE; petroleum in sedimentary basins (Gujarat, Assam, offshore) |
+
+- Peninsular India is the **heart-place** of Indian minerals. **Chota Nagpur** is the richest plateau belt (often “Ruhr of India”).
+- Alluvial north India is almost empty of economic ores. Rajasthan’s Aravalli rock frame holds many **non-ferrous** minerals (Cu, Zn–Pb, etc.).
+- Coaching production-value order (metallic + non-metallic, excluding fuel/atomic/minor; **2021–22** framing): **Odisha > Chhattisgarh > Rajasthan > Karnataka > Jharkhand** … (~**97%** of value from seven states).
+- India produces about **95** minerals in Mines Annual Report framing (fuel / metallic / non-metallic / atomic / minor counts vary by year).
+
 ### How minerals occur
 
 | Mode | Meaning | cue |
@@ -202,8 +217,11 @@ Iron is the backbone of heavy industry. Steel needs iron ore plus **coking coal*
 
 - About **95%** of India’s iron-ore reserves sit in Odisha, Jharkhand, Chhattisgarh, Karnataka, Goa, Telangana, Andhra Pradesh and Tamil Nadu.
 - Iron mines of the north-eastern plateau often sit **near coalfields**, which helps steel plants.
-- Leading producers in the Ministry of Mines **2021–22** framing used by UPPCS are **Odisha and Chhattisgarh**.
-- **Ballari** is an iron-ore mining city of Karnataka.
+- Leading producers in the Ministry of Mines **2021–22** framing used by UPPCS are **Odisha and Chhattisgarh** (then Karnataka, Jharkhand).
+- **Hematite** bulk (~**79%** lore) sits in the **eastern** sector; **magnetite** bulk (~**93%** lore) sits in the **southern** sector (Karnataka leads magnetite resources).
+- **Hematite** has the largest iron-ore **reserve** volume in India among ore types.
+- **Nathra-ki-Pal / Thoor–Hunder** (Udaipur) = Rajasthan iron cue. **Chiria** (West Singhbhum) = iron mining.
+- **Ballari** is an iron-ore mining city of Karnataka. **Guntur is not** an iron-ore fame city.
 - **Chitradurga** is not a copper city.
 - **Mount Newman** in Australia is famous for **iron ore**, not manganese.
 
@@ -220,7 +238,7 @@ Iron is the backbone of heavy industry. Steel needs iron ore plus **coking coal*
 |-------------|-------|------|
 | Gurumahisani / Badampahar / Sulaipat | **Odisha** | Mayurbhanj hematite belt |
 | Bonai / Kendujhar / Sundargarh | Odisha | Bulk hematite of the state |
-| Bailadila | **Chhattisgarh** | High-grade; NMDC |
+| Bailadila | **Chhattisgarh** | High-grade **hematite**; NMDC; often keyed as India’s **largest mechanised** iron mine; export lore via **Visakhapatnam** to Japan |
 | Dalli–Rajhara | Chhattisgarh | Historic feed for Bhilai |
 | Noamundi / Gua / Kiriburu | **Jharkhand** | Singhbhum |
 | Kudremukh | **Karnataka** | Magnetite; KIOCL |
@@ -284,15 +302,17 @@ Copper is valued for **electrical conductivity**. India is not copper-rich and s
 ### Tin
 
 - The ore of tin is **cassiterite**.
-- India has very little tin.
+- **Chhattisgarh** is India’s only tin-producing state in recent IMYB framing (Dantewada belt); resource share also tags Haryana in reserve tables.
+- India has very little tin overall.
 - World facts are **Kinta Valley (Malaysia)** and **Bangka (Indonesia)**.
 - **Pegu Yoma in Myanmar is mineral oil, not tin.**
 
 ### Zinc, lead and silver
 
-- **Zawar** near Udaipur in Rajasthan is the historic zinc–lead fact.
-- **Rampura-Agucha** in **Bhilwara** is India’s giant zinc mine.
-- Silver often occurs **with lead–zinc**, not as a separate “silver city”.
+- **Zawar** near Udaipur in Rajasthan is the historic zinc–lead fact (also silver by-product lore).
+- **Rampura-Agucha** in **Bhilwara** is keyed as Asia’s best zinc–lead reserve belt; Hindustan Zinc smelter lore.
+- Rajasthan has a near **monopoly** of India’s zinc–lead ore resources and production.
+- Silver often occurs **with lead–zinc**, not as a separate “silver city”; Rajasthan leads silver output in IMYB framing.
 - Do not dump Zawar as copper.
 
 ### Nickel and cobalt (awareness)
@@ -308,10 +328,12 @@ Copper is valued for **electrical conductivity**. India is not copper-rich and s
 
 Mica splits into thin flexible sheets and is a **dielectric / electrical insulator**.
 
-- The main belt is **Koderma–Gaya–Hazaribagh** on the northern edge of the Chota Nagpur plateau.
-- **Nellore** in Andhra Pradesh is the southern mica fact.
+- The main belt is **Koderma–Gaya–Hazaribagh–Munger**; **Kodarma** is often called the “capital of mica”.
+- **Nellore** in Andhra Pradesh is the southern mica fact; Andhra Pradesh leads **resources** share in IMYB framing; **Rajasthan** leads recent **production** framing.
 - Rajasthan mica sits in the **Ajmer–Bhilwara** belt.
+- Mica was notified as a **minor mineral** (2015). China leads world mica production in recent WMP framing (older keys still say India/sheet mica).
 - **Bhilwara is mica and zinc country, not a manganese city.**
+- **Makrana** (Nagaur, Rajasthan) = best marble (Taj / Victoria Memorial lore); marble is metamorphic (recrystallised limestone).
 
 ### Limestone, dolomite, gypsum, cement rocks
 
@@ -410,7 +432,7 @@ Coal is a sedimentary **fossil fuel** formed from buried plant matter. It is **n
 
 | Coalfield | State | Trap |
 |-----------|-------|------|
-| Raniganj | **West Bengal** | Oldest Indian field lore |
+| Raniganj | **West Bengal** | Oldest Indian field; first commercial mining **1774** (Damodar bank) |
 | Jharia | **Jharkhand** | Coking; mine-fire lore |
 | Bokaro / Ramgarh / Karanpura | Jharkhand | Damodar valley |
 | Giridih | Jharkhand | Damodar family |
@@ -435,6 +457,12 @@ Coal is a sedimentary **fossil fuel** formed from buried plant matter. It is **n
 ### Lignite
 
 - **Neyveli in Tamil Nadu** is the lignite fact. It is **not** Gondwana bituminous coal.
+- Commercial chronology cue: Raniganj (**1774**) → **NCDC (1956)** → coking/non-coking **nationalisation (1971–73)** → **Coal India Ltd**.
+- Proved-reserve order (IMYB **1 Apr 2021** framing): **Jharkhand > Odisha > Chhattisgarh > West Bengal > Madhya Pradesh**.
+- Production order (**2020–21/21–22** framing): often **Chhattisgarh > Odisha > Madhya Pradesh > Jharkhand** — do not mix with reserve order.
+- **Namchik–Namphuk** coal is in **Arunachal Pradesh** (Changlang). **Maolong** is **Meghalaya**.
+- **CBM** is methane from coal seams; **shale gas** is mostly methane from fine shale (not propane–butane only). India has shale potential in Cambay, KG, Cauvery, Damodar, etc.
+- **Coal Controller’s Organisation** is the government’s coal–lignite statistics authority, monitors captive blocks, and hears objections under coal-bearing land acquisition law — it does **not** guarantee end-user delivery timelines.
 - Other lignite awareness: **Palana / Barsingsar** (Rajasthan) and **Panandhro** (Gujarat).
 
 ### World coalfields (country fact)
@@ -1742,6 +1770,1791 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
+## Complete PYQ Bank — Ghatnachakra Mineral Resources (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CA–264 onward (rock systems → metals → coal/oil → power → industry). Teaching facts live in N.0–N.6. No Logic lines.
+
+**Q-GC1. Ghatnachakra / standard**
+
+Which rock system of India is called the **storehouse of metallic minerals**?
+
+A. Gondwana
+
+B. Vindhyan
+
+C. Dharwar
+
+D. Tertiary
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Dharwar system holds iron, manganese, gold and copper and is the most mineralised crystalline belt in standard keys.
+
+</details>
+
+**Q-GC2. IAS Prelims / Ghatnachakra**
+
+Consider the following statements:
+
+**Assertion (A):** About 95–99% of India’s coal reserves lie in Gondwana rocks.
+
+**Reason (R):** Gondwana is the oldest and most mineralised rock system of the peninsula.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both are true in GC framing, but coal abundance follows Gondwana sediments in river valleys, not the “oldest metallic” tag of Dharwar.
+
+</details>
+
+**Q-GC3. UPPCS / standard**
+
+The **Vindhyan** system is especially important for which mineral group?
+
+A. Coking coal seams
+
+B. Limestone and cement-grade rocks
+
+C. Offshore petroleum
+
+D. Beach monazite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Vindhyan sediments supply limestone, sandstone and shale; they are not the metallic king belt.
+
+</details>
+
+**Q-GC4. Ghatnachakra / standard**
+
+The **Chota Nagpur plateau** is often called India’s **Ruhr** because it is
+
+A. the main offshore oil belt
+
+B. the richest multi-mineral plateau of India
+
+C. the only tin-producing region
+
+D. devoid of coal and iron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Chota Nagpur combines iron, coal, manganese, bauxite, mica and copper in one dense mineral heartland.
+
+</details>
+
+**Q-GC5. UPPCS / standard**
+
+Most of India’s major mineral resources lie
+
+A. west of the Mumbai–Delhi line
+
+B. in the northern alluvial plain
+
+C. in peninsular India, largely east of the Mangalore–Kanpur line
+
+D. only in the Himalayan core
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The peninsula—especially east of Mangalore–Kanpur—is the heart-place of Indian minerals; the Gangetic plain is almost empty of major ores.
+
+</details>
+
+**Q-GC6. Ghatnachakra / standard**
+
+Among the following states, which pair is keyed for **high mineral prosperity** in peninsular framing?
+
+A. Punjab and Haryana
+
+B. Karnataka and Odisha
+
+C. Assam and Meghalaya only
+
+D. Kerala and Goa only for coal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Karnataka and Odisha sit in ferrous and bauxite-rich belts; northern plains states are poor mineral hosts.
+
+</details>
+
+**Q-GC7. UPPCS / standard**
+
+**Marble** is classified as a
+
+A. ferrous metallic mineral
+
+B. non-metallic mineral
+
+C. mineral fuel
+
+D. atomic mineral
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Marble is a non-metallic building and decorative stone, not a metal ore or fuel.
+
+</details>
+
+**Q-GC8. Ghatnachakra / standard**
+
+Copper deposits in India are mainly associated with the
+
+A. Dharwar crystalline system
+
+B. young alluvium of the Ganga plain
+
+C. coral reefs of Lakshadweep
+
+D. recent loess of Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Copper lodes sit in ancient metamorphic and igneous belts of the Dharwar–Aravalli–Singhbhum frame.
+
+</details>
+
+**Q-GC9. UPPCS / standard**
+
+Match List-I with List-II and select the correct answer using the code given below:
+
+| List-I (Rock system) | List-II (Main mineral cue) |
+|---|---|
+| A. Dharwar | 1. Limestone for cement |
+| B. Gondwana | 2. Metallic storehouse |
+| C. Vindhyan | 3. Bulk of Indian coal |
+| D. Tertiary | 4. North-East younger coal |
+
+*Row order is not the answer.*
+
+A. 2 3 1 4
+
+B. 3 2 4 1
+
+C. 2 3 4 1
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dharwar–metals; Gondwana–coal; Vindhyan–limestone; Tertiary–NE coal pockets.
+
+</details>
+
+**Q-GC10. Ghatnachakra / standard**
+
+The vast **northern alluvial plains** of India are
+
+A. the richest iron-ore zone
+
+B. almost devoid of economic minerals
+
+C. the main zinc–lead monopoly belt
+
+D. the chief Gondwana coalfield
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Economic metallic ores concentrate in peninsular hard-rock belts, not in Gangetic alluvium.
+
+</details>
+
+**Q-GC11. Ghatnachakra / standard**
+
+India’s **iron ore** is mainly drawn from rocks of the
+
+A. Dharwar system
+
+B. recent deltaic sand
+
+C. Himalayan glaciers only
+
+D. coral limestone of Rann
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Iron ore occurs in Dharwar-related crystalline and metamorphic belts of the peninsula.
+
+</details>
+
+**Q-GC12. UPPCS Prelims 2022-type / MoM 2021–22**
+
+Which two states were the **leading producers of iron ore** in India as per the Ministry of Mines Annual Report **2021–22** framing?
+
+A. Jharkhand and Karnataka
+
+B. Odisha and Karnataka
+
+C. Odisha and Chhattisgarh
+
+D. Chhattisgarh and Jharkhand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** When asked on the 2021–22 report, Odisha and Chhattisgarh lead; older keys sometimes cited Odisha and Karnataka.
+
+</details>
+
+**Q-GC13. Ghatnachakra / standard**
+
+**Bailadila** in Chhattisgarh is famous for
+
+A. high-grade hematite and India’s largest mechanised iron-ore mines
+
+B. lignite open-cast pits
+
+C. onshore petroleum since 1867
+
+D. mica sheet exports only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bailadila’s hematite is high-grade and NMDC’s mechanised mines here are a standard GC fact.
+
+</details>
+
+**Q-GC14. UPPCS / standard**
+
+**Kudremukh** is associated with iron ore in which state?
+
+A. Odisha
+
+B. Jharkhand
+
+C. Karnataka
+
+D. Chhattisgarh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kudremukh magnetite mines lie in Karnataka and ore was piped to Mangalore for export.
+
+</details>
+
+**Q-GC15. Ghatnachakra / standard**
+
+The **Singhbhum** belt of Jharkhand is noted for
+
+A. iron ore and copper
+
+B. only offshore gas
+
+C. Makrana marble
+
+D. Neyveli lignite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Singhbhum hosts iron mines such as Noamundi and copper towns such as Mosabani–Ghatsila.
+
+</details>
+
+**Q-GC16. UPPCS / standard**
+
+**Nathra-ki-Pal** (Thoor–Hunder belt) is an iron-ore awareness centre of
+
+A. Rajasthan
+
+B. Gujarat
+
+C. Kerala
+
+D. Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nathra-ki-Pal sits in the Udaipur district iron belt of Rajasthan.
+
+</details>
+
+**Q-GC17. UPPCS Prelims 2025-type / standard**
+
+Match List-I with List-II and choose the correct answer using the code given below:
+
+| List-I (Mine / area) | List-II (State) |
+|---|---|
+| A. Bailadila | 1. Odisha |
+| B. Kendujhar | 2. Madhya Pradesh |
+| C. Balaghat | 3. Chhattisgarh |
+| D. Kudremukh | 4. Karnataka |
+
+*Row order is not the answer.*
+
+A. 3 1 2 4
+
+B. 1 3 4 2
+
+C. 3 1 4 2
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bailadila–Chhattisgarh; Kendujhar–Odisha; Balaghat–Madhya Pradesh; Kudremukh–Karnataka.
+
+</details>
+
+**Q-GC18. Ghatnachakra / standard**
+
+Among iron-ore types, **hematite** has the
+
+A. lowest iron content in all Indian ores
+
+B. largest share of India’s iron-ore **reserves**
+
+C. exclusive occurrence only in Goa
+
+D. magnetic property of magnetite only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Hematite forms the bulk of reserve volume though magnetite can be richer in iron percentage.
+
+</details>
+
+**Q-GC19. UPPCS / standard**
+
+**Chiria** iron-ore mines are located in
+
+A. West Singhbhum, Jharkhand
+
+B. Surat, Gujarat
+
+C. Kannur, Kerala
+
+D. Shimla, Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chiria lies in West Singhbhum district of Jharkhand in the Singhbhum iron belt.
+
+</details>
+
+**Q-GC20. Ghatnachakra / standard**
+
+Which of the following is **NOT** an iron-ore fame centre?
+
+A. Ballari
+
+B. Kendujhar
+
+C. Guntur
+
+D. Bailadila
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Ballari, Kendujhar and Bailadila are iron districts; Guntur is not keyed for iron ore.
+
+</details>
+
+**Q-GC21. UPPCS / standard**
+
+**Gurumahisani** iron-ore mines are in
+
+A. Odisha
+
+B. Karnataka
+
+C. Rajasthan
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gurumahisani lies in Mayurbhanj district of Odisha.
+
+</details>
+
+**Q-GC22. Ghatnachakra / standard**
+
+**Magnetite** differs from hematite because magnetite
+
+A. carries about 70% iron and is magnetic
+
+B. is the main ore of aluminium
+
+C. occurs only in Assam tertiary coal
+
+D. is a non-metallic mica substitute
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Magnetite (Fe₃O₄) is the richest iron ore by grade and is magnetic; hematite is the most widely used bulk ore.
+
+</details>
+
+**Q-GC23. UPPCS / standard**
+
+In older Ministry of Mines framing, **Odisha and Karnataka** were often cited together as top iron-ore producers because
+
+A. both lie in the Gangetic plain
+
+B. both host major eastern hematite and southern magnetite belts
+
+C. both are devoid of iron
+
+D. both export only lignite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Odisha leads hematite bulk; Karnataka leads magnetite resources—newer reports may rank Chhattisgarh above Karnataka.
+
+</details>
+
+**Q-GC24. Ghatnachakra / standard**
+
+**Noamundi** iron mines are in
+
+A. Jharkhand
+
+B. Chhattisgarh
+
+C. Maharashtra
+
+D. Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Noamundi is a Singhbhum iron mine of Jharkhand, not Odisha.
+
+</details>
+
+**Q-GC25. UPPCS / standard**
+
+Bailadila iron-ore mines are **not** in Odisha; they are in
+
+A. Chhattisgarh
+
+B. Karnataka
+
+C. Gujarat
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bailadila lies in the Durg–Bastar belt of Chhattisgarh—a classic state-trap.
+
+</details>
+
+**Q-GC26. Ghatnachakra / standard**
+
+**Rampura-Agucha** in Bhilwara district is keyed as
+
+A. Asia’s largest and richest zinc–lead deposit
+
+B. the main chromite mine of Odisha
+
+C. a lignite field of Tamil Nadu
+
+D. an offshore gas field of KG basin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rampura-Agucha is Hindustan Zinc’s flagship Zn–Pb mine and Asia’s best deposit in GC notes.
+
+</details>
+
+**Q-GC27. UPPCS / standard**
+
+India’s **zinc** resources and production are dominated by
+
+A. Gujarat
+
+B. Rajasthan
+
+C. Kerala
+
+D. Nagaland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rajasthan holds a near monopoly on zinc–lead ore through Zawar and Rampura-Agucha belts.
+
+</details>
+
+**Q-GC28. Ghatnachakra / standard**
+
+Silver output in India is **not** led by Gujarat; the leading state in standard keys is
+
+A. Rajasthan
+
+B. Sikkim
+
+C. Goa
+
+D. Manipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Silver occurs as a by-product of Rajasthan’s lead–zinc smelting, not as a Gujarat monopoly.
+
+</details>
+
+**Q-GC29. UPPCS / standard**
+
+**Malanjkhand** is India’s largest open-pit **copper** mine in
+
+A. Madhya Pradesh
+
+B. Uttar Pradesh
+
+C. Bihar
+
+D. Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Malanjkhand in Balaghat district, Madhya Pradesh, leads copper production in many report years.
+
+</details>
+
+**Q-GC30. Ghatnachakra / standard**
+
+The **Khetri–Singhana** belt of Rajasthan is famous for
+
+A. copper
+
+B. diamond pipes
+
+C. lignite
+
+D. tin cassiterite only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Khetri is the textbook copper mine of Rajasthan.
+
+</details>
+
+**Q-GC31. UPPCS / standard**
+
+Match List-I with List-II and select the correct answer using the code given below:
+
+| List-I (Copper area) | List-II (State) |
+|---|---|
+| A. Khetri | 1. Telangana |
+| B. Khammam | 2. Rajasthan |
+| C. Mosabani | 3. Jharkhand |
+| D. Malanjkhand | 4. Madhya Pradesh |
+
+*Row order is not the answer.*
+
+A. 2 1 3 4
+
+B. 1 2 4 3
+
+C. 2 1 4 3
+
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Khetri–Rajasthan; Khammam–Telangana; Mosabani–Jharkhand; Malanjkhand–Madhya Pradesh.
+
+</details>
+
+**Q-GC32. Ghatnachakra / standard**
+
+**Bauxite**, the ore of aluminium, is mainly produced in India by
+
+A. Odisha and Gujarat among leading states
+
+B. Punjab and Haryana only
+
+C. Ladakh glaciers only
+
+D. Sundarbans delta only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Odisha leads bauxite output; Gujarat, Jharkhand and Chhattisgarh add major shares.
+
+</details>
+
+**Q-GC33. UPPCS / standard**
+
+**Kalahandi** district is a major **bauxite** centre of
+
+A. Odisha
+
+B. Rajasthan
+
+C. Kerala
+
+D. Uttarakhand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kalahandi in Odisha hosts Panchpatmali-class bauxite wealth.
+
+</details>
+
+**Q-GC34. Ghatnachakra / standard**
+
+**Zawar** mines near Udaipur are famous for
+
+A. zinc and lead
+
+B. iron hematite only
+
+C. offshore petroleum
+
+D. mica sheet muscovite only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Zawar is the historic zinc–lead–silver belt of Rajasthan.
+
+</details>
+
+**Q-GC35. UPPCS / standard**
+
+Historic **gold** mining at **Kolar** was in
+
+A. Karnataka
+
+B. Odisha
+
+C. Assam
+
+D. Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kolar gold fields lie in Karnataka; Hutti continues as a working mine.
+
+</details>
+
+**Q-GC36. Ghatnachakra / standard**
+
+**Mosabani** in Jharkhand is associated with
+
+A. copper
+
+B. tin only
+
+C. Neyveli lignite
+
+D. Makrana marble
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Mosabani–Ghatsila forms the Singhbhum copper belt of Jharkhand.
+
+</details>
+
+**Q-GC37. UPPCS / standard**
+
+India’s **tin** ore is produced only from
+
+A. Chhattisgarh
+
+B. Gujarat
+
+C. Tamil Nadu
+
+D. Jammu and Kashmir
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chhattisgarh (Dantewada belt) is the sole tin producer in recent Indian Minerals Yearbook framing.
+
+</details>
+
+**Q-GC38. Ghatnachakra / standard**
+
+**Kondagaon** bauxite deposits lie in
+
+A. Chhattisgarh
+
+B. Maharashtra
+
+C. Sikkim
+
+D. Andhra Pradesh coast only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kondagaon district of Chhattisgarh is a standard bauxite awareness point.
+
+</details>
+
+**Q-GC39. UPPCS / standard**
+
+Bauxite in India commonly forms as a **residual cap** on
+
+A. laterite weathering profiles
+
+B. pure river sand of Punjab
+
+C. Himalayan ice sheets
+
+D. basalt of Deccan traps only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hot-wet plateau weathering leaves aluminium-rich laterite bauxite.
+
+</details>
+
+**Q-GC40. Ghatnachakra / standard**
+
+Which pair is **NOT correctly matched**?
+
+A. Rampura-Agucha — Zinc–lead
+
+B. Zawar — Zinc–lead
+
+C. Kolar — Gold
+
+D. Zawar — Copper monopoly of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Zawar is zinc–lead, not copper; Khetri and Malanjkhand are copper cues.
+
+</details>
+
+**Q-GC41. Ghatnachakra / standard**
+
+**Kodarma** in Jharkhand is often called the **mica capital** of India because
+
+A. it sits in the core dielectric mica belt
+
+B. it hosts the largest coal mine of Raniganj
+
+C. it is India’s only tin field
+
+D. it is an offshore oil town
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kodarma heads the Jharkhand–Bihar mica sheet belt used in electrical insulation.
+
+</details>
+
+**Q-GC42. UPPCS / standard**
+
+The classic **mica belt** of northern India runs through
+
+A. Hazaribagh–Gaya–Munger
+
+B. Kutch desert only
+
+C. Brahmaputra delta only
+
+D. Nicobar coral reefs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hazaribagh–Gaya–Munger with Kodarma is the textbook northern mica belt.
+
+</details>
+
+**Q-GC43. Ghatnachakra / standard**
+
+**Makrana** marble of Nagaur district is used in the Taj Mahal because it is
+
+A. the finest white marble of Rajasthan
+
+B. a ferrous ore of iron
+
+C. a coking coal seam
+
+D. a petroleum refinery product
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Makrana supplies high-quality white marble for monuments and export.
+
+</details>
+
+**Q-GC44. IAS Prelims-type / standard**
+
+Consider the following statements:
+
+**Assertion (A):** Marble is a metamorphic rock.
+
+**Reason (R):** Marble forms by recrystallisation of limestone under heat and pressure.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Marble is metamorphosed limestone; the reason correctly explains the assertion.
+
+</details>
+
+**Q-GC45. UPPCS / standard**
+
+**Nellore** district is a southern **mica** centre of
+
+A. Andhra Pradesh
+
+B. Gujarat
+
+C. Uttarakhand
+
+D. Tripura
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nellore adds the Andhra Pradesh share of India’s mica resources.
+
+</details>
+
+**Q-GC46. Ghatnachakra / standard**
+
+Mica is valued mainly because it is a
+
+A. dielectric that splits into thin sheets
+
+B. liquid fossil fuel
+
+C. uranium ore
+
+D. coking coal substitute
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Muscovite mica insulates electrical equipment and can be split into flexible sheets.
+
+</details>
+
+**Q-GC47. UPPCS / standard**
+
+Rajasthan **mica** occurs mainly in the
+
+A. Ajmer–Bhilwara belt
+
+B. Jharia coking field
+
+C. Neyveli lignite basin
+
+D. Gulf of Khambhat tidal zone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rajasthan’s mica sits in the Ajmer–Bhilwara crystalline belt.
+
+</details>
+
+**Q-GC48. Ghatnachakra / standard**
+
+Marble and limestone belong to the **non-metallic** group because they
+
+A. supply building and cement materials, not extractable metals
+
+B. are liquid fuels
+
+C. are atomic fuels
+
+D. are ferrous ores of iron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both are industrial non-metals; marble is metamorphosed limestone.
+
+</details>
+
+**Q-GC49. Ghatnachakra / standard**
+
+Commercial **coal mining in India** began near **Raniganj** in
+
+A. 1774
+
+B. 1857
+
+C. 1947
+
+D. 1975
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Raniganj in West Bengal saw the first Indian coal mine in 1774 under East India Company lore.
+
+</details>
+
+**Q-GC50. UPPCS / standard**
+
+Arrange the following in **chronological order** (earliest first):
+
+1. Raniganj mining begins
+2. Formation of NCDC
+3. Coal mines nationalisation
+4. Creation of Coal India Limited (CIL)
+
+A. 1–2–3–4
+
+B. 2–1–3–4
+
+C. 1–3–2–4
+
+D. 4–3–2–1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Raniganj (1774) → NCDC (1956) → nationalisation (1973–75) → CIL (1975).
+
+</details>
+
+**Q-GC51. Ghatnachakra / standard**
+
+About **95–99%** of India’s **coal reserves** are
+
+A. Gondwana coal of peninsular river valleys
+
+B. anthracite of Kashmir
+
+C. peat of Thar desert
+
+D. coral-derived coal of Lakshadweep
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gondwana bituminous coal dominates reserves in Damodar, Son, Mahanadi and Godavari valleys.
+
+</details>
+
+**Q-GC52. UPPCS / standard**
+
+Indian **Gondwana coal** is generally characterised by
+
+A. high ash and low sulphur
+
+B. zero ash and very high sulphur
+
+C. no moisture content
+
+D. anthracite rank only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Indian coal is ash-rich but comparatively low in sulphur—a standard GC property pair.
+
+</details>
+
+**Q-GC53. Ghatnachakra / standard**
+
+Gondwana rocks hold more than **90%** of India’s coal because
+
+A. they are Palaeozoic–Mesozoic sediments that buried plant matter in rift valleys
+
+B. they are the oldest metallic shields without plant fossils
+
+C. they form only in the Himalaya today
+
+D. they are volcanic lavas of the Deccan trap
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Coal needs sedimentary basins with buried swamp vegetation; Gondwana valleys filled that role.
+
+</details>
+
+**Q-GC54. UPPCS / standard**
+
+In **proved coal reserves** framing used in GC notes, the descending order is
+
+A. Jharkhand > Odisha > Chhattisgarh > West Bengal > Madhya Pradesh
+
+B. Kerala > Goa > Punjab > Haryana
+
+C. Assam > Sikkim > Mizoram only
+
+D. Rajasthan > Gujarat > Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Jharkhand tops proved reserves, followed by Odisha, Chhattisgarh, West Bengal and Madhya Pradesh.
+
+</details>
+
+**Q-GC55. Ghatnachakra / standard**
+
+Leading **coal production** states in recent GC framing often rank
+
+A. Chhattisgarh > Odisha > Madhya Pradesh
+
+B. Kerala > Tamil Nadu > Goa
+
+C. Punjab > Haryana > Delhi
+
+D. Sikkim > Mizoram > Nagaland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chhattisgarh, Odisha and Madhya Pradesh lead output when asked; reserve order differs slightly.
+
+</details>
+
+**Q-GC56. UPPCS / standard**
+
+**Korba** coalfield lies in
+
+A. Chhattisgarh
+
+B. Jharkhand
+
+C. West Bengal
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Korba is the main Chhattisgarh coalfield feeding pit-head thermal plants.
+
+</details>
+
+**Q-GC57. Ghatnachakra / standard**
+
+**Talcher** coalfield of Odisha lies in the valley of the
+
+A. Mahanadi
+
+B. Narmada
+
+C. Kaveri
+
+D. Beas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Talcher–Ib Valley coalfields sit in the Mahanadi basin.
+
+</details>
+
+**Q-GC58. UPPCS Prelims 2019-type / standard**
+
+Match List-I with List-II and select the correct answer using the codes given below:
+
+| List-I (Valley) | List-II (Coalfield) |
+|---|---|
+| A. Damodar | 1. Talcher |
+| B. Son | 2. Barakar |
+| C. Godavari | 3. Umaria |
+| D. Mahanadi | 4. Singareni |
+
+*Row order is not the answer.*
+
+A. 2 3 4 1
+
+B. 3 2 1 4
+
+C. 1 3 4 2
+
+D. 4 1 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Damodar–Barakar; Son–Umaria; Godavari–Singareni; Mahanadi–Talcher.
+
+</details>
+
+**Q-GC59. UPPCS / standard**
+
+Match List-I with List-II and choose the correct code:
+
+| List-I (Coalfield / lignite centre) | List-II (State) |
+|---|---|
+| A. Karanpura | 1. Telangana |
+| B. Singareni | 2. Tamil Nadu |
+| C. Neyveli | 3. Jharkhand |
+| D. Korba | 4. Chhattisgarh |
+
+*Row order is not the answer.*
+
+A. 3 1 2 4
+
+B. 1 3 4 2
+
+C. 3 1 4 2
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Karanpura–Jharkhand; Singareni–Telangana; Neyveli–Tamil Nadu; Korba–Chhattisgarh.
+
+</details>
+
+**Q-GC60. Ghatnachakra / standard**
+
+**Neyveli** lignite mines are in Tamil Nadu and are **not** the same as
+
+A. Jharia coking coal of Jharkhand
+
+B. Makrana marble
+
+C. Kolar gold
+
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Neyveli is brown lignite of Tamil Nadu, unlike Gondwana bituminous or coking coal of Jharkhand.
+
+</details>
+
+**Q-GC61. UPPCS / standard**
+
+**Jharia** coalfield is especially known for
+
+A. coking coal
+
+B. lignite only
+
+C. offshore petroleum
+
+D. tin cassiterite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Jharia supplies metallurgical coking coal to steel plants.
+
+</details>
+
+**Q-GC62. Ghatnachakra / standard**
+
+**Namchik–Namphuk** coal occurs in
+
+A. Arunachal Pradesh
+
+B. Tamil Nadu
+
+C. Gujarat
+
+D. Rajasthan desert
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Namchik–Namphuk is a tertiary coal pocket of Arunachal Pradesh in the North-East.
+
+</details>
+
+**Q-GC63. IAS Prelims 2014-type / standard**
+
+With reference to **coal-bed methane (CBM)** and **shale gas**, consider:
+
+1. CBM is associated with Gondwana coalfields.
+2. Shale gas extraction needs hydraulic fracturing.
+
+Which is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** In the IAS 2014 key both statements were marked incorrect; teach CBM in coal seams and shale fracking separately from that stem’s wording.
+
+</details>
+
+**Q-GC64. UPPCS / standard**
+
+**Bisrampur** coalfield is an awareness centre in
+
+A. Chhattisgarh
+
+B. Kerala
+
+C. Punjab
+
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bisrampur coalfield lies in Surajpur district of Chhattisgarh.
+
+</details>
+
+**Q-GC65. Ghatnachakra / standard**
+
+Functions of the **Coal Controller** include
+
+1. collection of coal statistics
+2. grade declaration and price fixation
+3. inspection of collieries
+
+Which is **NOT** a Coal Controller function?
+
+A. Statement 1
+
+B. Statement 2
+
+C. Statement 3
+
+D. Physical delivery of coal to consumers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Coal Controller regulates data, grades and inspection; it does not deliver coal to buyers.
+
+</details>
+
+**Q-GC66. UPPCS / standard**
+
+The **National Coal Development Corporation (NCDC)** was set up in
+
+A. 1956
+
+B. 1774
+
+C. 1991
+
+D. 2005
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** NCDC (1956) preceded nationalisation and the formation of CIL.
+
+</details>
+
+**Q-GC67. Ghatnachakra / standard**
+
+Coal mines in India were **nationalised** mainly in
+
+A. 1973–75
+
+B. 1857
+
+C. 1942 Quit India year only
+
+D. 2000 privatisation wave
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Coking coal mines were nationalised in 1973 and non-coking mines in 1975.
+
+</details>
+
+**Q-GC68. UPPCS / standard**
+
+**Coal India Limited (CIL)** was formed in
+
+A. 1975
+
+B. 1950
+
+C. 1861
+
+D. 2014
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** CIL was incorporated in November 1975 as the apex coal PSU.
+
+</details>
+
+**Q-GC69. Ghatnachakra / standard**
+
+Correct **rank order** of coal from soft to hard is
+
+A. peat → lignite → bituminous → anthracite
+
+B. anthracite → peat → lignite → bituminous
+
+C. lignite → peat → anthracite → bituminous
+
+D. bituminous → anthracite → peat → lignite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Carbon rises and moisture falls along peat → lignite → bituminous → anthracite.
+
+</details>
+
+**Q-GC70. UPPCS / standard**
+
+**Tertiary coal** of India occurs mainly in the
+
+A. North-Eastern states
+
+B. Thar desert
+
+C. Malabar coast coral
+
+D. Punjab alluvium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Assam–Meghalaya–Arunachal host younger tertiary coal unlike peninsular Gondwana bulk.
+
+</details>
+
+**Q-GC71. Ghatnachakra / standard**
+
+**Digboi** in Assam is famous as
+
+A. India’s oldest oil town and refinery centre
+
+B. the largest refinery complex of Jamnagar scale
+
+C. a lignite basin of Tamil Nadu
+
+D. a zinc mine of Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Digboi began commercial oil in the nineteenth century and hosts one of India’s oldest refineries.
+
+</details>
+
+**Q-GC72. UPPCS / standard**
+
+Onshore **petroleum** fields of Gujarat include
+
+A. Ankleshwar, Lunej and Navgam
+
+B. Jharia and Bokaro
+
+C. Kodarma and Gaya
+
+D. Chiria and Noamundi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cambay–Ahmedabad–Ankleshwar belt fields lie in Gujarat; the others are coal or ore towns.
+
+</details>
+
+**Q-GC73. Ghatnachakra / standard**
+
+India’s **oldest oil refinery** still keyed in GC notes is at
+
+A. Digboi, Assam
+
+B. Jamnagar, Gujarat
+
+C. Mathura, Uttar Pradesh
+
+D. Panipat, Haryana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Digboi refinery (1901 lore) is oldest; Jamnagar is largest, not oldest.
+
+</details>
+
+**Q-GC74. UPPCS / standard**
+
+**Visakhapatnam** hosts a major **oil refinery** in
+
+A. Andhra Pradesh
+
+B. Odisha
+
+C. Kerala
+
+D. Punjab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** HPCL’s Visakhapatnam refinery is an east-coast hub.
+
+</details>
+
+**Q-GC75. UKPCS Prelims 2025-type / standard**
+
+The **largest** petrochemical and refining centre of India is
+
+A. Trombay
+
+B. Jamnagar
+
+C. Digboi
+
+D. Vadodara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Jamnagar (Reliance/Nayara belt) is the largest complex; Digboi is oldest but small.
+
+</details>
+
+**Q-GC76. Ghatnachakra / standard**
+
+**Tatipaka** onshore oil field is in Andhra Pradesh and is operated by
+
+A. ONGC
+
+B. Coal India
+
+C. NMDC
+
+D. Hindustan Zinc
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Tatipaka is an ONGC field in the KG onshore fringe of Andhra Pradesh.
+
+</details>
+
+**Q-GC77. UPPCS / standard**
+
+**Noonmati** oil installations lie near Guwahati in
+
+A. Assam
+
+B. Rajasthan
+
+C. Maharashtra
+
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Noonmati is part of the Assam valley oil–refinery cluster.
+
+</details>
+
+**Q-GC78. Ghatnachakra / standard**
+
+**Mangala, Bhagyam and Aishwarya** fields brought major onshore oil to
+
+A. Barmer, Rajasthan
+
+B. Kolar, Karnataka
+
+C. Neyveli, Tamil Nadu
+
+D. Kodarma, Jharkhand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cairn–ONGC Barmer fields boosted Rajasthan’s oil output in the 2000s.
+
+</details>
+
+**Q-GC79. UPPCS / standard**
+
+Under **NELP**, blocks were offered for exploration of
+
+A. petroleum and natural gas
+
+B. mica sheet only
+
+C. Makrana marble only
+
+D. Neyveli lignite only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** New Exploration Licensing Policy opened sedimentary blocks for hydrocarbon exploration.
+
+</details>
+
+**Q-GC80. Ghatnachakra / standard**
+
+India’s strategic petroleum storage under **ISPRL** includes sites at
+
+A. Visakhapatnam, Mangalore and Padur
+
+B. Ankleshwar, Jharia and Korba
+
+C. Digboi, Tatipaka and Noonmati only
+
+D. Kolar, Hutti and Ramagiri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ISPRL caverns are at Visakhapatnam (Andhra Pradesh), Mangalore (Karnataka) and Padur (Karnataka)—not Ankleshwar.
+
+</details>
+
+**Q-GC81. UPPCS / standard**
+
+The **Hazira–Vijaipur–Jagdishpur (HVJ/HBJ)** pipeline built by GAIL carries
+
+A. natural gas from western basins toward north-central India
+
+B. iron ore slurry to Mangalore
+
+C. mica sheets to Kolkata port
+
+D. lignite from Neyveli to Delhi only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** HVJ/HBJ is the backbone gas grid linking western offshore/onshore gas to northern markets.
+
+</details>
+
+**Q-GC82. Ghatnachakra / standard**
+
+**KG-D6** gas field lies off the coast of
+
+A. Andhra Pradesh
+
+B. Punjab
+
+C. Uttarakhand
+
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Krishna–Godavari basin gas, including KG-D6 lore, sits off the Andhra Pradesh coast.
+
+</details>
+
+**Q-GC83. UPPCS / standard**
+
+**Bombay High** oil field lies about **160 km** offshore Mumbai and was discovered in **1974** with
+
+A. Soviet–Indian collaboration on the first well
+
+B. Portuguese colonial mining law
+
+C. a lignite survey of Tamil Nadu
+
+D. a mica inspection team
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bombay High (1974) is the giant offshore field west of Mumbai, drilled with Soviet assistance in GC notes.
+
+</details>
+
+**Q-GC84. Ghatnachakra / standard**
+
+Shale-gas potential in India is noted in the basins of
+
+A. Cambay, Cauvery and Krishna–Godavari
+
+B. Jharia coking coal only
+
+C. Makrana marble belt only
+
+D. Sundarbans mangrove peat only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cambay, Cauvery and KG sedimentary basins carry shale-gas awareness in policy maps.
+
+</details>
+
+**Q-GC85. UPPCS / standard**
+
+Which of the following is **NOT** a fossil fuel?
+
+A. Coal
+
+B. Petroleum
+
+C. Natural gas
+
+D. Fuelwood
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Coal, petroleum and natural gas are fossil fuels; fuelwood is biomass, not a fossil fuel.
+
+</details>
+
+**Q-GC86. Ghatnachakra / standard**
+
+India’s first commercial **nuclear power station** started at
+
+A. Tarapur, Maharashtra
+
+B. Shivanasamudra, Karnataka
+
+C. Koyna, Maharashtra
+
+D. Diu, Daman and Diu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Tarapur (1969) is the first commercial nuclear plant; Shivanasamudra and Koyna are hydel sites.
+
+</details>
+
+**Q-GC87. UPPCS / standard**
+
+**Koyna** hydel project is in
+
+A. Maharashtra
+
+B. Assam
+
+C. Rajasthan
+
+D. Nagaland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Koyna dam on the Koyna river is a major western-ghats hydel station of Maharashtra.
+
+</details>
+
+**Q-GC88. UPPCS Prelims 2019-type / standard**
+
+The first Union Territory to run **100% on solar energy** for daytime needs was
+
+A. Diu
+
+B. Ladakh only
+
+C. Delhi
+
+D. Puducherry only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Diu became the first UT framed as fully solar-powered in standard PYQ keys.
+
+</details>
+
+**Q-GC89. Ghatnachakra / standard**
+
+The main **raw material** for cement manufacture is
+
+A. limestone
+
+B. bauxite ore
+
+C. cassiterite tin ore
+
+D. monazite sand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Limestone is the bulky base material for cement clinker.
+
+</details>
+
+**Q-GC90. UPPCS / standard**
+
+**Chunar** in Uttar Pradesh is linked industrially to
+
+A. limestone and cement manufacture
+
+B. offshore petroleum refining
+
+C. tin mining of Chhattisgarh
+
+D. mica exports of Kodarma only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chunar–Churk–Dalla is the UP limestone–cement belt on the Vindhyan fringe.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -2892,3 +4705,12 @@ D. Only peat of the Ganga delta
 23. **India rich in all non-ferrous metals** — FALSE. **Poor except bauxite**.
 24. **Hematite has more Fe than magnetite** — FALSE. Magnetite ~**70%**; hematite is the **quantity** workhorse (~50–60%).
 25. **~80% Indian coal is coking** — FALSE. Most is bituminous **non-coking** (thermal).
+26. **Gondwana = metallic storehouse / Dharwar = coal king** — FALSE. **Dharwar** = metallic minerals; **Gondwana** ≈ **95–99%** coal.
+27. **Vindhyan = iron–gold belt** — FALSE. Sedimentary **limestone / china clay** fame.
+28. **Tin producer = Assam / J&K** — FALSE. Only **Chhattisgarh** in recent production framing.
+29. **Digboi = largest petrochemical centre** — FALSE. **Oldest** oilfield/refinery lore; **Jamnagar** is the giant complex.
+30. **ISPRL storages include Ankleshwar** — FALSE. **Visakhapatnam, Mangaluru, Padur**.
+31. **Coal reserve order = production order** — FALSE. Proved reserves often **JH > OD > CG**; production often **CG > OD > MP**.
+32. **Zawar = copper** — FALSE. **Zinc–lead** (Udaipur); copper = **Khetri / Malanjkhand**.
+33. **Nathra-ki-Pal = copper of Rajasthan** — FALSE. **Iron ore**.
+34. **Marble = igneous rock** — FALSE. **Metamorphic** (recrystallised limestone); **Makrana** best quality.
