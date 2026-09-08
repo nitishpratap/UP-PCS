@@ -1147,6 +1147,106 @@ These accept **Veda authority**. They are **not** the nastika Shramana list.
 
 ---
 
+## Complete PYQ Bank (Topic 4)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q105**
+
+The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
+
+1. Vaishali
+2. Rajagriha
+3. Kundalvana
+4. Pataliputra
+
+A. 1, 2, 4, 3 B. 2, 1, 3, 4 C. 2, 1, 4, 3 D. 1, 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 2-1-4-3: Rajagriha → Vaishali → Pataliputra → Kundalvana.
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q2. UPPCS Prelims 2024, Q20**
+
+Consider the following statements with respect to Ashoka:
+
+1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
+2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
+
+Which of the above statements is/are correct?
+
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 2.** Rahulovada as *the* definition is the trap. Dhamma-mahamatras stand.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q3. UPPCS Prelims 2023, Q24**
+
+*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
+
+A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Nagasena.**
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q4. UPPCS Prelims 2022, Q80**
+
+In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
+
+A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Ghantasala.**
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q5. UPPCS Prelims 2021, Q131**
+
+Which one of the following pairs is NOT correctly matched?
+(Tirthankar) (Nirvan Place)
+
+A. Rishabhanath — Ashtapad
+B. Vasupujya — Sammedashikhar
+C. Neminath — Urjayanta
+D. Mahavira — Pavapuri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Vasupujya = Champapuri.
+
+</details>
+
+### Years with zero extra hits in local `pyq/`
+
+UPPCS Prelims **2020, 2019, 2018** — no further GS-I question maps to this topic after keyword search (Buddha / Jain / Tirthankar / Hinayana / Tripitaka / Ajivika / Charvaka / Bhagavat / Shaiv / Vaishnav / Milinda / Ghantasala).
+**Out of boundary:** 2020 Kushinagar *Airport* (infra, not doctrine). 2022 Rock Edict XII is the edict-*number* question (answer **XII**). Menander’s campaigns are invasion-history; the *Milinda Panha* fact (Nagasena) belongs in this chapter.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** The four Buddhist Councils were held at the following places. Arrange them in correct chronological order:
@@ -2095,106 +2195,6 @@ D. Vallabhi Jain council — Kanishka of Kashmir
 **Ans: D** — Vallabhi = Svetambara canon; Kanishka = 4th *Buddhist* council.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 4)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q105**
-
-The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
-
-1. Vaishali
-2. Rajagriha
-3. Kundalvana
-4. Pataliputra
-
-A. 1, 2, 4, 3 B. 2, 1, 3, 4 C. 2, 1, 4, 3 D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 2-1-4-3: Rajagriha → Vaishali → Pataliputra → Kundalvana.
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q2. UPPCS Prelims 2024, Q20**
-
-Consider the following statements with respect to Ashoka:
-
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 2.** Rahulovada as *the* definition is the trap. Dhamma-mahamatras stand.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q3. UPPCS Prelims 2023, Q24**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nagasena.**
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q4. UPPCS Prelims 2022, Q80**
-
-In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
-
-A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Ghantasala.**
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q5. UPPCS Prelims 2021, Q131**
-
-Which one of the following pairs is NOT correctly matched?
-(Tirthankar) (Nirvan Place)
-
-A. Rishabhanath — Ashtapad
-B. Vasupujya — Sammedashikhar
-C. Neminath — Urjayanta
-D. Mahavira — Pavapuri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Vasupujya = Champapuri.
-
-</details>
-
-### Years with zero extra hits in local `pyq/`
-
-UPPCS Prelims **2020, 2019, 2018** — no further GS-I question maps to this topic after keyword search (Buddha / Jain / Tirthankar / Hinayana / Tripitaka / Ajivika / Charvaka / Bhagavat / Shaiv / Vaishnav / Milinda / Ghantasala).
-**Out of boundary:** 2020 Kushinagar *Airport* (infra, not doctrine). 2022 Rock Edict XII is the edict-*number* question (answer **XII**). Menander’s campaigns are invasion-history; the *Milinda Panha* fact (Nagasena) belongs in this chapter.
 
 ---
 

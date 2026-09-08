@@ -528,6 +528,133 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 
 ---
 
+## Complete PYQ Bank
+
+> Matching / NOT-matched / slogan-adjacent stems. Narrative homes stay in T1–T15; full stems repeated here because this topic **is** the match vault.
+
+### UPPCS Prelims 2025
+
+**Q1. 2025 Q67** — Aix-la-Chapelle: 1. First Carnatic War ended 2. Madras returned to the English. **Ans: C (Both).** Home T2.
+
+**Q2. 2025 Q71** — SRC members: Panikkar and Kunzru (**2 and 4**). **Ans: B.** Home T15.
+
+### UPPCS Prelims 2023
+
+**Q3. 2023 Q42** — Hardinge bomb: **Anushilan Samiti**. **Ans: C.** Home T11.
+
+**Q4. 2023 Q48** — Woman not in QI: **Shanti Ghosh**. **Ans: D.** Home T14.
+
+### UPPCS Prelims 2022
+
+**Q5. 2022 Q117**
+
+Match List-I with List-II.
+
+**List-I (Newspaper)** A. Swadesh (*local file prints Kesari*) B. Bharat Bandhu C. Satyawadi D. Shakti
+**List-II** 1. Agra 2. Almora 3. Hathras 4. Gorakhpur
+
+A. 3, 2, 1, 4
+
+B. 4, 3, 1, 2
+
+C. 2, 3, 4, 1
+
+D. 1, 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Gorakhpur, Hathras, Agra, Almora. Home **Topic 7**.
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q6. 2021 Q50** — Never INC President: **Tilak**. **Ans: B.** Home T9.
+
+**Q7. 2021 Q139** — *Poverty and Un-British Rule* published **1901**. Home T10.
+
+### UPPCS Prelims 2020
+
+**Q8. 2020 Q26**
+
+Match List-I (Book) with List-II (Writer).
+
+A. The Story of My Deportation
+B. Gita Rahasya
+C. A Nation in Making
+D. India Wins Freedom
+
+1. Surendranath Banerjee 2. Maulana Abul Kalam Azad 3. Lala Lajpat Rai 4. Bal Gangadhar Tilak
+
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Home T10.
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q9. 2019 Q21** — INA trials: **Red Fort, Delhi**. **Ans: A.** Home T14.
+
+**Q10. 2019 Q93**
+
+Match: A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
+With: 1. 1782 2. 1784 3. 1769 4. 1765
+
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Home T2.
+
+</details>
+
+**Q11. 2019 Q97** — *Rise and Growth of Economic Nationalism in India* — **Bipan Chandra**. Home T10.
+
+### UPPCS Prelims 2018
+
+**Q12. 2018 Q21**
+
+Arrange: A. Hunter Commission B. Sadlar Commission C. Wood's Despatch D. Sargeant Plan
+
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Home T7.
+
+</details>
+
+**Q13. 2018 Q22** — Abhinav Bharat: **V.D. Savarkar**. **Ans: B.** Home T11.
+
+**Q14. 2018 Q95** — NOT matched: **Lucknow — Liyaqat Ali**. Lucknow = Hazrat Mahal.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **56 questions.** Matching, NOT-matched, chronology, multi-statement.
@@ -1654,133 +1781,6 @@ D. Neither 1 nor 2
 **Ans: C**
 
 </details>
-
----
-
-## Complete PYQ Bank
-
-> Matching / NOT-matched / slogan-adjacent stems. Narrative homes stay in T1–T15; full stems repeated here because this topic **is** the match vault.
-
-### UPPCS Prelims 2025
-
-**Q1. 2025 Q67** — Aix-la-Chapelle: 1. First Carnatic War ended 2. Madras returned to the English. **Ans: C (Both).** Home T2.
-
-**Q2. 2025 Q71** — SRC members: Panikkar and Kunzru (**2 and 4**). **Ans: B.** Home T15.
-
-### UPPCS Prelims 2023
-
-**Q3. 2023 Q42** — Hardinge bomb: **Anushilan Samiti**. **Ans: C.** Home T11.
-
-**Q4. 2023 Q48** — Woman not in QI: **Shanti Ghosh**. **Ans: D.** Home T14.
-
-### UPPCS Prelims 2022
-
-**Q5. 2022 Q117**
-
-Match List-I with List-II.
-
-**List-I (Newspaper)** A. Swadesh (*local file prints Kesari*) B. Bharat Bandhu C. Satyawadi D. Shakti
-**List-II** 1. Agra 2. Almora 3. Hathras 4. Gorakhpur
-
-A. 3, 2, 1, 4
-
-B. 4, 3, 1, 2
-
-C. 2, 3, 4, 1
-
-D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Gorakhpur, Hathras, Agra, Almora. Home **Topic 7**.
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q6. 2021 Q50** — Never INC President: **Tilak**. **Ans: B.** Home T9.
-
-**Q7. 2021 Q139** — *Poverty and Un-British Rule* published **1901**. Home T10.
-
-### UPPCS Prelims 2020
-
-**Q8. 2020 Q26**
-
-Match List-I (Book) with List-II (Writer).
-
-A. The Story of My Deportation
-B. Gita Rahasya
-C. A Nation in Making
-D. India Wins Freedom
-
-1. Surendranath Banerjee 2. Maulana Abul Kalam Azad 3. Lala Lajpat Rai 4. Bal Gangadhar Tilak
-
-A. 3 4 1 2
-
-B. 4 2 1 3
-
-C. 2 4 1 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Home T10.
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q9. 2019 Q21** — INA trials: **Red Fort, Delhi**. **Ans: A.** Home T14.
-
-**Q10. 2019 Q93**
-
-Match: A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
-With: 1. 1782 2. 1784 3. 1769 4. 1765
-
-A. 4 2 3 1
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Home T2.
-
-</details>
-
-**Q11. 2019 Q97** — *Rise and Growth of Economic Nationalism in India* — **Bipan Chandra**. Home T10.
-
-### UPPCS Prelims 2018
-
-**Q12. 2018 Q21**
-
-Arrange: A. Hunter Commission B. Sadlar Commission C. Wood's Despatch D. Sargeant Plan
-
-A. A B D C
-
-B. C B A D
-
-C. A B C D
-
-D. C A B D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Home T7.
-
-</details>
-
-**Q13. 2018 Q22** — Abhinav Bharat: **V.D. Savarkar**. **Ans: B.** Home T11.
-
-**Q14. 2018 Q95** — NOT matched: **Lucknow — Liyaqat Ali**. Lucknow = Hazrat Mahal.
 
 ---
 

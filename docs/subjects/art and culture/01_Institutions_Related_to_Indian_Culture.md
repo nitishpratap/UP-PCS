@@ -444,6 +444,193 @@ Home for **scheme–year–ministry–objective**. KSVY is the **umbrella** for 
 
 ---
 
+## Complete PYQ Bank (Topic 1)
+
+UPPCS/RO-ARO first (newest → oldest), then UPSC-pattern only where local `pyq/` is thin. Answers in `<details>`.
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q20**
+
+With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
+
+1. Yuva Puraskar was announced in 23 Indian languages.
+2. There is no Yuva Puraskar in Dogri this year.
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Sahitya Akademi press note, 18 June 2025: 23 writers; no Dogri award.
+
+</details>
+
+### 2023
+
+**Q2. UPPCS Prelims 2023, Q76**
+
+Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?
+
+A. Anita Desai
+B. Anuradha Roy
+C. Shobha De
+D. Sudha Murthy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Anuradha Roy.**
+
+</details>
+
+### 2022
+
+**Q3. UPPCS Prelims 2022, Q92**
+
+Which one of the famous buildings of New Delhi has been converted into the Prime Ministers' Museum?
+
+A. Vigyan Bhavan
+B. India Habitat Centre
+C. Teen Murti Bhavan
+D. Talkatora Stadium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Teen Murti Bhavan** (Pradhanmantri Sangrahalaya).
+
+</details>
+
+### 2021
+
+**Q4. UPPCS Prelims 2021, Q40**
+
+Who was the founder of the 'Asiatic Society of Bengal'?
+
+A. Jonathan Duncan
+B. Sir William Jones
+C. Warren Hastings
+D. William Bentinck
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Jones, 1784. Duncan = Benares Sanskrit College 1791; Hastings declined Presidentship.
+
+</details>
+
+### 2020
+
+**Q5. UPPCS Prelims 2020, Q31**
+
+In August, 2020 Railway Museum in India was dedicated to the nation at which of the following places?
+
+A. Hubballi
+B. Mysore
+C. Silvasa
+D. Chittaranjan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Hubballi.** Not the 1977 National Rail Museum, Delhi.
+
+</details>
+
+### 2019
+
+**Q6. UPPCS Prelims 2019, Q22**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
+
+**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Both true; Hastings’s orientalism explains patronage and declining the chair for Jones.
+
+</details>
+
+### UPSC / standard — pattern (not in local `pyq/`)
+
+**Q7. UPSC Prelims — pattern**
+
+Which of the following is the oldest museum in India?
+
+A. National Museum, New Delhi
+B. Indian Museum, Kolkata
+C. Salar Jung Museum, Hyderabad
+D. Government Museum, Chennai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Indian Museum, Kolkata, 1814.**
+
+</details>
+
+**Q8. UPSC Prelims — pattern**
+
+The Archaeological Survey of India was founded in:
+
+A. 1858
+B. 1861
+C. 1872
+D. 1902
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 1861**; first DG Alexander Cunningham.
+
+</details>
+
+**Q9. UPSC Prelims — pattern**
+
+Who among the following destroyed Nalanda Mahavihara?
+
+A. Mahmud of Ghazni
+B. Muhammad Bakhtiyar Khilji
+C. Iltutmish
+D. Alauddin Khilji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Bakhtiyar Khilji, ~1193.**
+
+</details>
+
+**Q10. UPSC Prelims — pattern**
+
+Nalanda Mahavihara was declared a UNESCO World Heritage Site in:
+
+A. 2010
+B. 2014
+C. 2016
+D. 2018
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 2016.** 2010 = Nalanda University Act (different campus, MEA).
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **40 questions.** ≥60% multi-statement/application. Includes A/R, Match-List, chronology, NOT-matched.
@@ -1245,193 +1432,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: D**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 1)
-
-UPPCS/RO-ARO first (newest → oldest), then UPSC-pattern only where local `pyq/` is thin. Answers in `<details>`.
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q20**
-
-With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
-
-1. Yuva Puraskar was announced in 23 Indian languages.
-2. There is no Yuva Puraskar in Dogri this year.
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sahitya Akademi press note, 18 June 2025: 23 writers; no Dogri award.
-
-</details>
-
-### 2023
-
-**Q2. UPPCS Prelims 2023, Q76**
-
-Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?
-
-A. Anita Desai
-B. Anuradha Roy
-C. Shobha De
-D. Sudha Murthy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Anuradha Roy.**
-
-</details>
-
-### 2022
-
-**Q3. UPPCS Prelims 2022, Q92**
-
-Which one of the famous buildings of New Delhi has been converted into the Prime Ministers' Museum?
-
-A. Vigyan Bhavan
-B. India Habitat Centre
-C. Teen Murti Bhavan
-D. Talkatora Stadium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Teen Murti Bhavan** (Pradhanmantri Sangrahalaya).
-
-</details>
-
-### 2021
-
-**Q4. UPPCS Prelims 2021, Q40**
-
-Who was the founder of the 'Asiatic Society of Bengal'?
-
-A. Jonathan Duncan
-B. Sir William Jones
-C. Warren Hastings
-D. William Bentinck
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Jones, 1784. Duncan = Benares Sanskrit College 1791; Hastings declined Presidentship.
-
-</details>
-
-### 2020
-
-**Q5. UPPCS Prelims 2020, Q31**
-
-In August, 2020 Railway Museum in India was dedicated to the nation at which of the following places?
-
-A. Hubballi
-B. Mysore
-C. Silvasa
-D. Chittaranjan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Hubballi.** Not the 1977 National Rail Museum, Delhi.
-
-</details>
-
-### 2019
-
-**Q6. UPPCS Prelims 2019, Q22**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
-
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Both true; Hastings’s orientalism explains patronage and declining the chair for Jones.
-
-</details>
-
-### UPSC / standard — pattern (not in local `pyq/`)
-
-**Q7. UPSC Prelims — pattern**
-
-Which of the following is the oldest museum in India?
-
-A. National Museum, New Delhi
-B. Indian Museum, Kolkata
-C. Salar Jung Museum, Hyderabad
-D. Government Museum, Chennai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Indian Museum, Kolkata, 1814.**
-
-</details>
-
-**Q8. UPSC Prelims — pattern**
-
-The Archaeological Survey of India was founded in:
-
-A. 1858
-B. 1861
-C. 1872
-D. 1902
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1861**; first DG Alexander Cunningham.
-
-</details>
-
-**Q9. UPSC Prelims — pattern**
-
-Who among the following destroyed Nalanda Mahavihara?
-
-A. Mahmud of Ghazni
-B. Muhammad Bakhtiyar Khilji
-C. Iltutmish
-D. Alauddin Khilji
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Bakhtiyar Khilji, ~1193.**
-
-</details>
-
-**Q10. UPSC Prelims — pattern**
-
-Nalanda Mahavihara was declared a UNESCO World Heritage Site in:
-
-A. 2010
-B. 2014
-C. 2016
-D. 2018
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 2016.** 2010 = Nalanda University Act (different campus, MEA).
 
 </details>
 

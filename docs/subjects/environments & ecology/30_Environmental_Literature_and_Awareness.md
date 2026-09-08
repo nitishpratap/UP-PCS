@@ -230,6 +230,242 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 
 ---
 
+## Complete PYQ Bank (Topic 30)
+
+**A/R logic:** A tests Brundtland → SD popularisation; R wrongly names Limits to Growth as Brundtland Report.
+
+**Q1. UPPCS Prelims 2024, Q51**
+
+Assertion (A): Sustainable Development was popularised by the Brundtland Report.
+Reason (R): The Brundtland Report is also known as "The Limits to Growth".
+
+A. Both true; R does not explain A
+
+B. A false; R true
+
+C. Both true; R explains A
+
+D. A true; R false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** A is true — *Our Common Future* (1987) popularised SD. R is false — *Limits to Growth* (1972) is **Club of Rome**, not Brundtland. **Trap:** Club of Rome title glued to Brundtland name.
+
+</details>
+
+---
+
+**Logic:** Silent Spring authorship — Rachel Carson 1962, not Hardin or Club of Rome.
+
+**Q2. UPPCS Prelims 2020, Q17**
+
+*Silent Spring* (1962) was written by:
+
+A. Carolyn Merchant
+
+B. Karl Marx
+
+C. Rachel Carson
+
+D. Rajgopalan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Carson exposed pesticide harm (especially DDT) and catalysed modern environmental awareness. **Trap:** Garrett Hardin (*Tragedy of the Commons*, 1968) or Brundtland for Carson works.
+
+</details>
+
+---
+
+**Logic:** 1987 WCED report title — Our Common Future = Brundtland Report.
+
+**Q3. UPPCS Prelims 2020 — pattern**
+
+The 1987 UN report that defined and popularised sustainable development is:
+
+A. Silent Spring
+
+B. Our Common Future
+
+C. Limits to Growth
+
+D. Hind Swaraj
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Brundtland Commission / WCED produced ***Our Common Future* (1987)**. **Trap:** Limits to Growth (1972) or Silent Spring (1962) year-title swap.
+
+</details>
+
+---
+
+**Logic:** Agenda 21 primary frame — Rio 1992 sustainable-development action plan (Chapter 36 covers EE as one part).
+
+**Q4. UPPCS Prelims 2023, Q132**
+
+Agenda-21 of Rio Summit (1992) is related to—
+
+A. Sustainable Development
+
+B. Polluter Pays
+
+C. Environmental Education alone
+
+D. Ozone Layer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Agenda 21 is Rio's non-binding **SD** action plan; EE appears inside it but is not the sole headline. **Trap:** Picking "Environmental Education only" because Tbilisi/EE syllabus overlap.
+
+</details>
+
+---
+
+**Logic:** LiFE launch June 2022 true; COP-25 Madrid idea false — idea at COP-26 Glasgow 2021.
+
+**Q5. UPPCS Prelims 2025, Q139**
+
+With reference to Mission LiFE:
+
+1. It was launched in June 2022.
+2. The idea was first proposed at COP-25 Madrid.
+
+A. Only 2
+
+B. Neither
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Launch **June 2022** is correct; the idea came at **COP-26 Glasgow (2021)**, not COP-25 Madrid. **Trap:** Any "COP-25 LiFE" distractor.
+
+</details>
+
+---
+
+**Logic:** Tragedy of the Commons essay — Garrett Hardin 1968.
+
+**Q6. UPSC pattern**
+
+"The Tragedy of the Commons" (1968) was written by:
+
+A. Garrett Hardin
+
+B. Rachel Carson
+
+C. Brundtland Commission
+
+D. Club of Rome
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hardin's essay on overuse of shared resources — distinct from Carson (1962) and Club of Rome *Limits* (1972). **Trap:** Hardin credited with *Silent Spring*.
+
+</details>
+
+---
+
+**Logic:** Tbilisi 1977 — landmark Environmental Education declaration; not Stockholm UNEP birth (1972).
+
+**Q7. UPSC pattern**
+
+The Tbilisi Declaration (1977) is chiefly associated with:
+
+A. Environmental Education
+
+B. Ozone layer protection
+
+C. Wetlands wise use
+
+D. Carbon credit trading
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Tbilisi (1977)** formalised global EE principles after Stockholm (1972) put EE on the agenda. **Trap:** Stockholm 1972 = UNEP creation, not Tbilisi EE milestone.
+
+</details>
+
+---
+
+**Logic:** Art 51A(g) — Fundamental Duty to protect environment; distinct from Art 48A State policy.
+
+**Q8. Pattern**
+
+Protection of the natural environment is a duty of every citizen under:
+
+A. Article 51A(g) of the Constitution
+
+B. Article 368 only
+
+C. Schedule 7 List I alone
+
+D. Wildlife Protection Act 1972 Section 35
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Art 51A(g)** is the citizen's fundamental duty; **Art 48A** is the State's directive principle. **Trap:** Mixing fundamental duty with DPSP or WPA sections.
+
+</details>
+
+---
+
+**Logic:** ECO Club / National Green Corps under MoEFCC — not CPCB pollution enforcement.
+
+**Q9. Pattern**
+
+ECO Clubs under the National Green Corps programme are run by:
+
+A. Ministry of Environment, Forest and Climate Change
+
+B. Central Pollution Control Board alone
+
+C. Reserve Bank of India
+
+D. International Solar Alliance secretariat only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** NGC/ECO Club is MoEFCC's school EE network (~2001-02 national push). **Trap:** CPCB because "environment" appears in both names.
+
+</details>
+
+---
+
+**Logic:** Van Mahotsav — July plantation week; K.M. Munshi; not February or WED June.
+
+**Q10. Pattern**
+
+Van Mahotsav, the tree-plantation campaign associated with K.M. Munshi, is observed in:
+
+A. July
+
+B. February
+
+C. 5 June
+
+D. 22 April
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Van Mahotsav = July** mass planting drive in India. **Trap:** 5 June (WED), 22 April (Earth Day), or 21 March (International Day of Forests).
+
+</details>
+
+---
+
 ## Practice Zone
 
 **Q1.** *Silent Spring* author:
@@ -535,242 +771,6 @@ Options: A. Brundtland — Our Common Future B. Carson — Limits to Growth C. H
 
 ---
 
-## Complete PYQ Bank (Topic 30)
-
-**A/R logic:** A tests Brundtland → SD popularisation; R wrongly names Limits to Growth as Brundtland Report.
-
-**Q1. UPPCS Prelims 2024, Q51**
-
-Assertion (A): Sustainable Development was popularised by the Brundtland Report.
-Reason (R): The Brundtland Report is also known as "The Limits to Growth".
-
-A. Both true; R does not explain A
-
-B. A false; R true
-
-C. Both true; R explains A
-
-D. A true; R false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** A is true — *Our Common Future* (1987) popularised SD. R is false — *Limits to Growth* (1972) is **Club of Rome**, not Brundtland. **Trap:** Club of Rome title glued to Brundtland name.
-
-</details>
-
----
-
-**Logic:** Silent Spring authorship — Rachel Carson 1962, not Hardin or Club of Rome.
-
-**Q2. UPPCS Prelims 2020, Q17**
-
-*Silent Spring* (1962) was written by:
-
-A. Carolyn Merchant
-
-B. Karl Marx
-
-C. Rachel Carson
-
-D. Rajgopalan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Carson exposed pesticide harm (especially DDT) and catalysed modern environmental awareness. **Trap:** Garrett Hardin (*Tragedy of the Commons*, 1968) or Brundtland for Carson works.
-
-</details>
-
----
-
-**Logic:** 1987 WCED report title — Our Common Future = Brundtland Report.
-
-**Q3. UPPCS Prelims 2020 — pattern**
-
-The 1987 UN report that defined and popularised sustainable development is:
-
-A. Silent Spring
-
-B. Our Common Future
-
-C. Limits to Growth
-
-D. Hind Swaraj
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Brundtland Commission / WCED produced ***Our Common Future* (1987)**. **Trap:** Limits to Growth (1972) or Silent Spring (1962) year-title swap.
-
-</details>
-
----
-
-**Logic:** Agenda 21 primary frame — Rio 1992 sustainable-development action plan (Chapter 36 covers EE as one part).
-
-**Q4. UPPCS Prelims 2023, Q132**
-
-Agenda-21 of Rio Summit (1992) is related to—
-
-A. Sustainable Development
-
-B. Polluter Pays
-
-C. Environmental Education alone
-
-D. Ozone Layer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Agenda 21 is Rio's non-binding **SD** action plan; EE appears inside it but is not the sole headline. **Trap:** Picking "Environmental Education only" because Tbilisi/EE syllabus overlap.
-
-</details>
-
----
-
-**Logic:** LiFE launch June 2022 true; COP-25 Madrid idea false — idea at COP-26 Glasgow 2021.
-
-**Q5. UPPCS Prelims 2025, Q139**
-
-With reference to Mission LiFE:
-
-1. It was launched in June 2022.
-2. The idea was first proposed at COP-25 Madrid.
-
-A. Only 2
-
-B. Neither
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Launch **June 2022** is correct; the idea came at **COP-26 Glasgow (2021)**, not COP-25 Madrid. **Trap:** Any "COP-25 LiFE" distractor.
-
-</details>
-
----
-
-**Logic:** Tragedy of the Commons essay — Garrett Hardin 1968.
-
-**Q6. UPSC pattern**
-
-"The Tragedy of the Commons" (1968) was written by:
-
-A. Garrett Hardin
-
-B. Rachel Carson
-
-C. Brundtland Commission
-
-D. Club of Rome
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Hardin's essay on overuse of shared resources — distinct from Carson (1962) and Club of Rome *Limits* (1972). **Trap:** Hardin credited with *Silent Spring*.
-
-</details>
-
----
-
-**Logic:** Tbilisi 1977 — landmark Environmental Education declaration; not Stockholm UNEP birth (1972).
-
-**Q7. UPSC pattern**
-
-The Tbilisi Declaration (1977) is chiefly associated with:
-
-A. Environmental Education
-
-B. Ozone layer protection
-
-C. Wetlands wise use
-
-D. Carbon credit trading
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Tbilisi (1977)** formalised global EE principles after Stockholm (1972) put EE on the agenda. **Trap:** Stockholm 1972 = UNEP creation, not Tbilisi EE milestone.
-
-</details>
-
----
-
-**Logic:** Art 51A(g) — Fundamental Duty to protect environment; distinct from Art 48A State policy.
-
-**Q8. Pattern**
-
-Protection of the natural environment is a duty of every citizen under:
-
-A. Article 51A(g) of the Constitution
-
-B. Article 368 only
-
-C. Schedule 7 List I alone
-
-D. Wildlife Protection Act 1972 Section 35
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Art 51A(g)** is the citizen's fundamental duty; **Art 48A** is the State's directive principle. **Trap:** Mixing fundamental duty with DPSP or WPA sections.
-
-</details>
-
----
-
-**Logic:** ECO Club / National Green Corps under MoEFCC — not CPCB pollution enforcement.
-
-**Q9. Pattern**
-
-ECO Clubs under the National Green Corps programme are run by:
-
-A. Ministry of Environment, Forest and Climate Change
-
-B. Central Pollution Control Board alone
-
-C. Reserve Bank of India
-
-D. International Solar Alliance secretariat only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** NGC/ECO Club is MoEFCC's school EE network (~2001-02 national push). **Trap:** CPCB because "environment" appears in both names.
-
-</details>
-
----
-
-**Logic:** Van Mahotsav — July plantation week; K.M. Munshi; not February or WED June.
-
-**Q10. Pattern**
-
-Van Mahotsav, the tree-plantation campaign associated with K.M. Munshi, is observed in:
-
-A. July
-
-B. February
-
-C. 5 June
-
-D. 22 April
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Van Mahotsav = July** mass planting drive in India. **Trap:** 5 June (WED), 22 April (Earth Day), or 21 March (International Day of Forests).
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -785,43 +785,3 @@ D. 22 April
 | Bharat Nirman = NEP scheme | **Infrastructure, not NEP EE** |
 | IPCC = MoEFCC awareness campaign | **Science assessment body** |
 | Van Mahotsav = February | **July** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | 602 |
-| **Teaching blocks** | §30.1–30.4 (4 syllabus bullets) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2024 Q51, 2020 Silent Spring, 2023 Agenda 21, 2025 Q139 |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Environmental Literature | §30.1 |
-| Environmental Education | §30.2 |
-| Environmental Awareness | §30.3 |
-| Environmental Communication | §30.4 |
-
-### Topic boundaries
-
-- **LiFE full CA detail** — Topic 24
-- **Environmental Days full list** — Topic 31
-- **SD / Brundtland governance depth** — Topic 15
-- **Chipko literary slogan context** — Topic 29
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2024 Q51 Brundtland A/R | §30.1 inline |
-| 2020 Silent Spring Carson | §30.1 inline |
-| 2023 Agenda 21 | §30.2 inline |
-| 2025 Q139 LiFE | §30.3 inline |
-
-**File ready: YES**

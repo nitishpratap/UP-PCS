@@ -1371,6 +1371,396 @@ D. 1, 4, 2, 3
 
 ---
 
+## Complete PYQ Bank (Topic 3)
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q40**
+
+Match List-I with List-II and select the correct answer using the code given below the lists.
+
+**List-I (Governor-General/Viceroy)**
+A. Lord Dalhousie
+B. Lord Curzon
+C. Lord William Bentinck
+D. Lord Cornwallis
+
+**List-II (Important contribution/work)**
+1. Permanent Settlement of Bengal
+2. Prohibition of Practice of Sati
+3. Partition of Bengal
+4. Doctrine of Lapse
+
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Dalhousie–Lapse, Curzon–Partition, Bentinck–Sati, Cornwallis–Permanent Settlement.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q41**
+
+Consider the following events and arrange them in correct chronological order.
+
+1. Cripps Mission
+2. Cabinet Mission
+3. Shimla Conference
+4. Wavell Plan
+
+A. 1, 4, 3, 2
+
+B. 4, 1, 2, 3
+
+C. 4, 1, 3, 2
+
+D. 1, 4, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1942 → 1945 (Plan) → 1945 (Simla) → 1946.
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q127**
+
+Consider the following events and arrange them in correct chronological order.
+
+1. Acquisition of Awadh by the British
+2. Ilbert Bill Controversy
+3. Indigo Revolt
+4. Second Anglo-Afghan War
+
+A. 1, 3, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 3, 1, 4, 2
+
+D. 1, 3, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1856 → 1859 → 1878 → 1883.
+
+</details>
+
+**Q4. UPPCS Prelims 2025, Q135**
+
+Who among the following resigned from the Viceroy's Executive Council in protest against the Jallianwala Bagh Massacre?
+
+1. Chettur Sankaran Nair
+2. Ishwari Prasad
+3. Muhammad Shafi
+4. Iqbal Narayan Gurtu
+
+A. 2 and 3
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 1**
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q5. UPPCS Prelims 2024, Q17**
+
+With reference to the Age of Consent Act, 1891 consider the following statements:
+
+1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.
+2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Malabari yes; Tilak opposed. Lansdowne era.
+
+</details>
+
+**Q6. UPPCS Prelims 2024, Q133**
+
+Consider the following events and arrange them in chronological order:
+
+1. Linlithgow August Offer
+2. Cripps Mission arrival in India
+3. Ramgarh Congress Session
+4. Resignation letters of Congress Ministers
+
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1939 → Mar 1940 → Aug 1940 → 1942.
+
+</details>
+
+**Q7. UPPCS Prelims 2024, Q137**
+
+Consider the following events and arrange them in chronological order starting from the earliest:
+
+1. Vellore Mutiny
+2. Death of Nana Fadnavis
+3. Recall of Wellesley
+4. Anglo-Nepalese War
+
+A. 2, 3, 1, 4
+
+B. 4, 1, 3, 2
+
+C. 2, 3, 4, 1
+
+D. 3, 1, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1800 → 1805 → 1806 → 1814–16.
+
+</details>
+
+**Q8. UPPCS Prelims 2024, Q148**
+
+Consider the following statements:
+
+1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
+2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Lapse rejected the heir.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q9. UPPCS Prelims 2023, Q42**
+
+Which among the following organisations was responsible for throwing a bomb at Viceroy Lord Hardinge in Delhi?
+
+A. All India Labour Association
+
+B. United Patriotic Association
+
+C. Anushilan Samiti
+
+D. Yugantar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Anushilan Samiti**
+
+</details>
+
+**Q10. UPPCS Prelims 2023, Q43**
+
+By which of the following Acts was the Chamber of Princes with 120 members created?
+
+A. Charter Act of 1853
+
+B. Act of 1793
+
+C. Act of 1909
+
+D. Government of India Act, 1919
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q11. UPPCS Prelims 2022, Q83**
+
+Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
+
+A. Md. Ali Jinnah
+
+B. Rabindranath Tagore
+
+C. Rameshwar Singh
+
+D. Shankaran Nair
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Tagore**
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q12. UPPCS Prelims 2021, Q13**
+
+Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
+
+A. Indian Council Act, 1861
+
+B. Government of India Act, 1858
+
+C. Indian Council Act, 1892
+
+D. Indian Council Act, 1909
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q13. UPPCS Prelims 2021, Q40**
+
+Who was the founder of the 'Asiatic Society of Bengal'?
+
+A. Jonathan Duncan
+
+B. Sir William Jones
+
+C. Warren Hastings
+
+D. William Bentinck
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Sir William Jones**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q14. UPPCS Prelims 2019, Q22Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
+
+**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Both true; declining the chair is not explained by his being a scholar.
+
+</details>
+
+**Q15. UPPCS Prelims 2019, Q95**
+
+With reference to the Civil Administration in 1905, which of the statements is/are correct?
+
+1. Lord Curzon decided to rearrange the provincial boundaries.
+2. A new province was constituted, called East Bengal and Assam.
+
+A. 1 only
+
+B. Both 1 and 2
+
+C. 2 only
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q16. UPPCS Prelims 2018, Q21**
+
+Arrange the following events in their chronological order and select the correct answer from the codes given below:
+
+A. Hunter Commission
+B. Sadlar Commission
+C. Wood's Despatch
+D. Sargeant Plan
+
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944.
+
+</details>
+
+**Q17. UPPCS Prelims 2018, Q76**
+
+Who among the following Governor Generals ridiculed congress as representing only a 'microscopic minority' of people?
+
+A. Lord Dufferin
+
+B. Lord Curzon
+
+C. Lord Minto
+
+D. Lord Lansdown
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Lord Dufferin**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **40 questions.Q1.** Match List-I with List-II.
@@ -2234,396 +2624,6 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: C**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 3)
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q40**
-
-Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (Governor-General/Viceroy)**
-A. Lord Dalhousie
-B. Lord Curzon
-C. Lord William Bentinck
-D. Lord Cornwallis
-
-**List-II (Important contribution/work)**
-1. Permanent Settlement of Bengal
-2. Prohibition of Practice of Sati
-3. Partition of Bengal
-4. Doctrine of Lapse
-
-A. 4 3 1 2
-
-B. 3 4 2 1
-
-C. 3 4 1 2
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Dalhousie–Lapse, Curzon–Partition, Bentinck–Sati, Cornwallis–Permanent Settlement.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q41**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Cripps Mission
-2. Cabinet Mission
-3. Shimla Conference
-4. Wavell Plan
-
-A. 1, 4, 3, 2
-
-B. 4, 1, 2, 3
-
-C. 4, 1, 3, 2
-
-D. 1, 4, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1942 → 1945 (Plan) → 1945 (Simla) → 1946.
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q127**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Acquisition of Awadh by the British
-2. Ilbert Bill Controversy
-3. Indigo Revolt
-4. Second Anglo-Afghan War
-
-A. 1, 3, 4, 2
-
-B. 3, 1, 2, 4
-
-C. 3, 1, 4, 2
-
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1856 → 1859 → 1878 → 1883.
-
-</details>
-
-**Q4. UPPCS Prelims 2025, Q135**
-
-Who among the following resigned from the Viceroy's Executive Council in protest against the Jallianwala Bagh Massacre?
-
-1. Chettur Sankaran Nair
-2. Ishwari Prasad
-3. Muhammad Shafi
-4. Iqbal Narayan Gurtu
-
-A. 2 and 3
-
-B. Only 4
-
-C. 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1**
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q5. UPPCS Prelims 2024, Q17**
-
-With reference to the Age of Consent Act, 1891 consider the following statements:
-
-1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.
-2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Malabari yes; Tilak opposed. Lansdowne era.
-
-</details>
-
-**Q6. UPPCS Prelims 2024, Q133**
-
-Consider the following events and arrange them in chronological order:
-
-1. Linlithgow August Offer
-2. Cripps Mission arrival in India
-3. Ramgarh Congress Session
-4. Resignation letters of Congress Ministers
-
-A. 3, 1, 4, 2
-
-B. 4, 3, 1, 2
-
-C. 1, 3, 4, 2
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1939 → Mar 1940 → Aug 1940 → 1942.
-
-</details>
-
-**Q7. UPPCS Prelims 2024, Q137**
-
-Consider the following events and arrange them in chronological order starting from the earliest:
-
-1. Vellore Mutiny
-2. Death of Nana Fadnavis
-3. Recall of Wellesley
-4. Anglo-Nepalese War
-
-A. 2, 3, 1, 4
-
-B. 4, 1, 3, 2
-
-C. 2, 3, 4, 1
-
-D. 3, 1, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1800 → 1805 → 1806 → 1814–16.
-
-</details>
-
-**Q8. UPPCS Prelims 2024, Q148**
-
-Consider the following statements:
-
-1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
-2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Lapse rejected the heir.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q9. UPPCS Prelims 2023, Q42**
-
-Which among the following organisations was responsible for throwing a bomb at Viceroy Lord Hardinge in Delhi?
-
-A. All India Labour Association
-
-B. United Patriotic Association
-
-C. Anushilan Samiti
-
-D. Yugantar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Anushilan Samiti**
-
-</details>
-
-**Q10. UPPCS Prelims 2023, Q43**
-
-By which of the following Acts was the Chamber of Princes with 120 members created?
-
-A. Charter Act of 1853
-
-B. Act of 1793
-
-C. Act of 1909
-
-D. Government of India Act, 1919
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q11. UPPCS Prelims 2022, Q83**
-
-Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
-
-A. Md. Ali Jinnah
-
-B. Rabindranath Tagore
-
-C. Rameshwar Singh
-
-D. Shankaran Nair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Tagore**
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q12. UPPCS Prelims 2021, Q13**
-
-Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
-
-A. Indian Council Act, 1861
-
-B. Government of India Act, 1858
-
-C. Indian Council Act, 1892
-
-D. Indian Council Act, 1909
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q13. UPPCS Prelims 2021, Q40**
-
-Who was the founder of the 'Asiatic Society of Bengal'?
-
-A. Jonathan Duncan
-
-B. Sir William Jones
-
-C. Warren Hastings
-
-D. William Bentinck
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Sir William Jones**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q14. UPPCS Prelims 2019, Q22Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
-
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both true; declining the chair is not explained by his being a scholar.
-
-</details>
-
-**Q15. UPPCS Prelims 2019, Q95**
-
-With reference to the Civil Administration in 1905, which of the statements is/are correct?
-
-1. Lord Curzon decided to rearrange the provincial boundaries.
-2. A new province was constituted, called East Bengal and Assam.
-
-A. 1 only
-
-B. Both 1 and 2
-
-C. 2 only
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q16. UPPCS Prelims 2018, Q21**
-
-Arrange the following events in their chronological order and select the correct answer from the codes given below:
-
-A. Hunter Commission
-B. Sadlar Commission
-C. Wood's Despatch
-D. Sargeant Plan
-
-A. A B D C
-
-B. C B A D
-
-C. A B C D
-
-D. C A B D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944.
-
-</details>
-
-**Q17. UPPCS Prelims 2018, Q76**
-
-Who among the following Governor Generals ridiculed congress as representing only a 'microscopic minority' of people?
-
-A. Lord Dufferin
-
-B. Lord Curzon
-
-C. Lord Minto
-
-D. Lord Lansdown
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Lord Dufferin**
 
 </details>
 

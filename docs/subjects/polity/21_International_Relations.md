@@ -737,6 +737,72 @@ Newest first. One event, one fact.
 
 ---
 
+## Complete PYQ Bank (Topic 21)
+
+No direct 2018–2025 stem on Panchsheel/NAM/Djibouti in the local dump. Grouping / money-body papers:
+
+**UPPCS Prelims 2025, Q91** — Which of the following is/are **not** a member of BIMSTEC? 1. Thailand 2. Nepal 3. Bhutan 4. Indonesia
+A. 2 and 3
+B. Only 4
+C. 1 and 4
+D. Only 1
+**Ans: B — Only 4.** Indonesia is ASEAN, not BIMSTEC.
+
+**UPPCS Prelims 2025, Q140** — World Bank and IMF: (1) set up together as Bretton Woods Twins (2) HQ of IMF and World Bank are Washington D.C. and New York respectively
+A. Only 2
+B. Neither
+C. Both
+D. Only 1
+**Ans: D — Only 1.** Both HQ = **Washington D.C.UPPCS Prelims 2023, Q81** — India’s G20 logo: (1) lotus with seven petals (2) seven petals represent seven continents
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
+**Ans: C — both.UPPCS Prelims 2023, Q89** — Which of the following cities of U.P. was **not** included as a venue for G20 meetings during India’s Presidency?
+A. Agra
+B. Varanasi
+C. Kanpur
+D. Greater Noida
+**Ans: C — Kanpur.UPPCS Prelims 2023, Q87** — SCO Film Festival–2023: (1) held during India’s Presidency of SCO (2) showcases films from SCO members
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
+**Ans: C — both.UPPCS Prelims 2022, Q119** — BIMSTEC: (1) PM addressed 5th Summit on 30 Mar 2022 (2) 5th Summit was chaired by India
+A. Neither
+B. Both
+C. Only 2
+D. Only 1
+**Ans: D — Only 1.** Chair = **Sri Lanka**.
+
+**UPPCS Prelims 2018, Q12** — 10th BRICS Summit 2018 was held in—
+A. Brazil
+B. South Africa
+C. Russia
+D. China
+**Ans: B — South Africa.UPPCS Prelims 2022, Q45** — WHO Global Traditional Medicine Centre will be at—
+A. Johannesburg
+B. Jaffna
+C. Haridwar
+D. Jamnagar
+**Ans: D — Jamnagar (Gujarat).UPPCS Prelims 2021, Q122** — G7 Summit June 2021: (1) UK was the Chair (2) Brazil was invited as a guest
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
+**Ans: A — Only 1.** India was a guest; Brazil was not.
+
+**UPPCS Prelims 2020, Q47** — Which is **NOT** correctly matched?
+A. East Asia Summit 2020 — Singapore
+B. G20 2019 — Osaka
+C. G7 2019 — Biarritz
+D. East Asia Summit 2019 — Bangkok
+**Ans: A.** EAS 2020 host = **Vietnam**, not Singapore.
+
+Neighbour papers (home elsewhere): UNESCO *which site* → art-culture; UNDP HDI/poverty → economy; WTO farm-subsidy boxes → economy/agri; UNFCCC → ecology; Commonwealth *Games* cities → sports.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **150 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -2818,72 +2884,6 @@ D. 1-4-3-2
 **Ans: B** — ILO **1919** → GATT **1947** → WHO **1948** → WTO **1995**.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 21)
-
-No direct 2018–2025 stem on Panchsheel/NAM/Djibouti in the local dump. Grouping / money-body papers:
-
-**UPPCS Prelims 2025, Q91** — Which of the following is/are **not** a member of BIMSTEC? 1. Thailand 2. Nepal 3. Bhutan 4. Indonesia
-A. 2 and 3
-B. Only 4
-C. 1 and 4
-D. Only 1
-**Ans: B — Only 4.** Indonesia is ASEAN, not BIMSTEC.
-
-**UPPCS Prelims 2025, Q140** — World Bank and IMF: (1) set up together as Bretton Woods Twins (2) HQ of IMF and World Bank are Washington D.C. and New York respectively
-A. Only 2
-B. Neither
-C. Both
-D. Only 1
-**Ans: D — Only 1.** Both HQ = **Washington D.C.UPPCS Prelims 2023, Q81** — India’s G20 logo: (1) lotus with seven petals (2) seven petals represent seven continents
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-**Ans: C — both.UPPCS Prelims 2023, Q89** — Which of the following cities of U.P. was **not** included as a venue for G20 meetings during India’s Presidency?
-A. Agra
-B. Varanasi
-C. Kanpur
-D. Greater Noida
-**Ans: C — Kanpur.UPPCS Prelims 2023, Q87** — SCO Film Festival–2023: (1) held during India’s Presidency of SCO (2) showcases films from SCO members
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-**Ans: C — both.UPPCS Prelims 2022, Q119** — BIMSTEC: (1) PM addressed 5th Summit on 30 Mar 2022 (2) 5th Summit was chaired by India
-A. Neither
-B. Both
-C. Only 2
-D. Only 1
-**Ans: D — Only 1.** Chair = **Sri Lanka**.
-
-**UPPCS Prelims 2018, Q12** — 10th BRICS Summit 2018 was held in—
-A. Brazil
-B. South Africa
-C. Russia
-D. China
-**Ans: B — South Africa.UPPCS Prelims 2022, Q45** — WHO Global Traditional Medicine Centre will be at—
-A. Johannesburg
-B. Jaffna
-C. Haridwar
-D. Jamnagar
-**Ans: D — Jamnagar (Gujarat).UPPCS Prelims 2021, Q122** — G7 Summit June 2021: (1) UK was the Chair (2) Brazil was invited as a guest
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-**Ans: A — Only 1.** India was a guest; Brazil was not.
-
-**UPPCS Prelims 2020, Q47** — Which is **NOT** correctly matched?
-A. East Asia Summit 2020 — Singapore
-B. G20 2019 — Osaka
-C. G7 2019 — Biarritz
-D. East Asia Summit 2019 — Bangkok
-**Ans: A.** EAS 2020 host = **Vietnam**, not Singapore.
-
-Neighbour papers (home elsewhere): UNESCO *which site* → art-culture; UNDP HDI/poverty → economy; WTO farm-subsidy boxes → economy/agri; UNFCCC → ecology; Commonwealth *Games* cities → sports.
 
 ---
 

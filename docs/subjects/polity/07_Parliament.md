@@ -2358,6 +2358,201 @@ D. Committee on Petitions
 
 ---
 
+## Complete PYQ Bank — Budget, Bills, Motions & Committees
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q42**
+With reference to the Public Accounts Committee, which of the following statements is/are correct?
+1. The Public Accounts Committee submits its report to the Lok Sabha.
+2. The Public Accounts Committee consists of 15 members from Rajya Sabha.
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 1** (15 **LS** + 7 **RS**).
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q89**
+Which of the following is/are Financial Committees of the Parliament of India?
+1. Public Accounts Committee
+2. Estimates Committee
+3. Committee on Public Undertakings
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — All three.**
+
+</details>
+
+### 2024
+
+**Q3. UPPCS Prelims 2024, Q102**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Consolidated Fund of India |
+| B | Finance Commission |
+| C | Financial Emergency |
+| D | CAG |
+
+**List-II**
+
+| Code | Article |
+|------|---------|
+| 1 | Article 266 |
+| 2 | Article 360 |
+| 3 | Article 280 |
+| 4 | Article 148 |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-3, B-1, C-2, D-4
+B. A-4, B-1, C-3, D-2
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 266, 280, 360, 148.
+
+</details>
+
+### 2022
+
+**Q4. UPPCS Prelims 2022, Q55**
+The audit report of the Comptroller and Auditor General of India is examined by—
+A. Public Accounts Committee
+B. Public Undertakings Committee
+C. Estimates Committee
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — PAC.**
+
+</details>
+
+### 2021
+
+**Q5. UPPCS Prelims 2021, Q37**
+Which of the following Bills can NOT be first introduced in Rajya Sabha?
+A. Ordinary Bill
+B. Constitutional Amendment Bill
+C. State Re-organisation Bill
+D. Money Bill
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Money Bill.**
+
+</details>
+
+**Q6. UPPCS Prelims 2021, Q98**
+Which of the following Articles of the Indian Constitution is related to Contingency Fund?
+A. Article 265
+B. Article 266
+C. Article 267
+D. Article 268
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 267.**
+
+</details>
+
+**Q7. UPPCS Prelims 2021, Q129**
+The Public Accounts Committee of Indian Parliament scrutinizes the
+A. Report of the Comptroller and Auditor General
+B. Consolidated Fund of India
+C. Public Account of India
+D. Contingency Fund of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q8. UPPCS Prelims 2021, Q141'Zero Hour'** in the working of the Indian Parliament means—
+A. The first hour of the Session
+B. When privilege motion are accepted
+C. Hour before question hour
+D. The time immediately following the question hour
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+### 2020
+
+**Q9. UPPCS Prelims 2020, Q112**
+Which is the largest Committee of the Indian Parliament?
+A. Public Account Committee
+B. Estimates Committee
+C. Committee on Public Undertakings
+D. Committee on Petitions
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Estimates (30), among the options.**
+
+</details>
+
+**Q10. UPPCS Prelims 2020, Q128**
+Joint sitting of Lok Sabha and Rajya Sabha can take place to resolve deadlock over
+A. Ordinary Legislation
+B. Money Bill
+C. Constitutional Amendment Bill
+D. Appropriation Bill
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+### 2019
+
+**Q11. UPPCS Prelims 2019, Q33**
+The Money Bill is defined in which Article of the Constitution of India?
+A. Article 109
+B. Article 110
+C. Article 111
+D. Article 112
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 110.**
+
+</details>
+
+---
+
 ## Practice Zone — Budget, Bills, Motions & Committees
 
 > **Answers hidden.** Full stems (not cryptic stubs). **40 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application.
@@ -3119,201 +3314,6 @@ D. None
 <summary>Show answer</summary>
 
 **Ans: B** — 1 and 2; a CAB is **not** a Money Bill.
-
-</details>
-
----
-
-## Complete PYQ Bank — Budget, Bills, Motions & Committees
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q42**
-With reference to the Public Accounts Committee, which of the following statements is/are correct?
-1. The Public Accounts Committee submits its report to the Lok Sabha.
-2. The Public Accounts Committee consists of 15 members from Rajya Sabha.
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1** (15 **LS** + 7 **RS**).
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q89**
-Which of the following is/are Financial Committees of the Parliament of India?
-1. Public Accounts Committee
-2. Estimates Committee
-3. Committee on Public Undertakings
-A. Only 1 and 2
-B. All 1, 2 and 3
-C. Only 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — All three.**
-
-</details>
-
-### 2024
-
-**Q3. UPPCS Prelims 2024, Q102**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Consolidated Fund of India |
-| B | Finance Commission |
-| C | Financial Emergency |
-| D | CAG |
-
-**List-II**
-
-| Code | Article |
-|------|---------|
-| 1 | Article 266 |
-| 2 | Article 360 |
-| 3 | Article 280 |
-| 4 | Article 148 |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-3, B-1, C-2, D-4
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 266, 280, 360, 148.
-
-</details>
-
-### 2022
-
-**Q4. UPPCS Prelims 2022, Q55**
-The audit report of the Comptroller and Auditor General of India is examined by—
-A. Public Accounts Committee
-B. Public Undertakings Committee
-C. Estimates Committee
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — PAC.**
-
-</details>
-
-### 2021
-
-**Q5. UPPCS Prelims 2021, Q37**
-Which of the following Bills can NOT be first introduced in Rajya Sabha?
-A. Ordinary Bill
-B. Constitutional Amendment Bill
-C. State Re-organisation Bill
-D. Money Bill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Money Bill.**
-
-</details>
-
-**Q6. UPPCS Prelims 2021, Q98**
-Which of the following Articles of the Indian Constitution is related to Contingency Fund?
-A. Article 265
-B. Article 266
-C. Article 267
-D. Article 268
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 267.**
-
-</details>
-
-**Q7. UPPCS Prelims 2021, Q129**
-The Public Accounts Committee of Indian Parliament scrutinizes the
-A. Report of the Comptroller and Auditor General
-B. Consolidated Fund of India
-C. Public Account of India
-D. Contingency Fund of India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q8. UPPCS Prelims 2021, Q141'Zero Hour'** in the working of the Indian Parliament means—
-A. The first hour of the Session
-B. When privilege motion are accepted
-C. Hour before question hour
-D. The time immediately following the question hour
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-### 2020
-
-**Q9. UPPCS Prelims 2020, Q112**
-Which is the largest Committee of the Indian Parliament?
-A. Public Account Committee
-B. Estimates Committee
-C. Committee on Public Undertakings
-D. Committee on Petitions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Estimates (30), among the options.**
-
-</details>
-
-**Q10. UPPCS Prelims 2020, Q128**
-Joint sitting of Lok Sabha and Rajya Sabha can take place to resolve deadlock over
-A. Ordinary Legislation
-B. Money Bill
-C. Constitutional Amendment Bill
-D. Appropriation Bill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-### 2019
-
-**Q11. UPPCS Prelims 2019, Q33**
-The Money Bill is defined in which Article of the Constitution of India?
-A. Article 109
-B. Article 110
-C. Article 111
-D. Article 112
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 110.**
 
 </details>
 

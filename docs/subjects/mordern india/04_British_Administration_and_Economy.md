@@ -645,6 +645,178 @@ This section only joins the results. The mechanisms are already taught above.
 
 ---
 
+## Complete PYQ Bank (Topic 4)
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q40**
+
+Match List-I with List-II and select the correct answer using the code given below the lists.
+
+**List-I (Governor-General/Viceroy)**
+A. Lord Dalhousie
+B. Lord Curzon
+C. Lord William Bentinck
+D. Lord Cornwallis
+
+**List-II (Important contribution/work)**
+1. Permanent Settlement of Bengal
+2. Prohibition of Practice of Sati
+3. Partition of Bengal
+4. Doctrine of Lapse
+
+Options:
+A. 4 3 1 2
+B. 3 4 2 1
+C. 3 4 1 2
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — This topic's pair: Cornwallis–Permanent Settlement.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q127**
+
+Consider the following events and arrange them in correct chronological order.
+
+1. Acquisition of Awadh by the British
+2. Ilbert Bill Controversy
+3. Indigo Revolt
+4. Second Anglo-Afghan War
+
+Select the correct answer from the code given below:
+
+Options:
+A. 1, 3, 4, 2
+B. 3, 1, 2, 4
+C. 3, 1, 4, 2
+D. 1, 3, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Indigo Revolt **1859** is the commercialization fact.
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q3. UPPCS Prelims 2024, Q135**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Most of the early nationalists considered British rule as an act of providence destined to bring modernisation.
+
+**Reason (R):** They complained only against "Un-British rule" in India.
+
+Select the correct answer from the codes given below:
+
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. Both (A) and (R) are true and (R) is the correct explanation of (A)
+D. (A) is true, but (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Both true; R is a parallel Moderate fact (Drain / Un-British), not why they called the Raj providential.
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q4. UPPCS Prelims 2021, Q139**
+
+In which year the book 'Poverty and Un-British Rule in India' was published?
+
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 1901 A.D.**
+
+</details>
+
+**Q5. UPPCS Prelims 2021, Q145**
+
+In India the First Municipal Corporation was set up in which one among the following places?
+
+A. Calcutta
+
+B. Madras
+
+C. Bombay
+
+D. Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Madras** (1688).
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q6. UPPCS Prelims 2020, Q30**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** The British Government introduced different land revenue system in different part of India.
+
+**Reason (R):** It led to create different classes in Indian peasantry.
+
+Select the correct answer from the codes given below.
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is true but (R) is false
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q7. UPPCS Prelims 2019, Q97**
+
+"The Rise and Growth of Economic Nationalism in India" was written by
+
+A. Partha Sarthi Gupta
+
+B. S Gopal
+
+C.
+
+B. R. Nanda
+
+D. Bipin Chandra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Bipin Chandra**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **58 questions.** Mixes asked PYQ patterns (land revenue, Drain, infrastructure dates) with standard coaching angles that UPPCS has not yet tested (judiciary ladder, ICS, managing agency, plantation economy, famine policy).
@@ -1926,178 +2098,6 @@ D. 3 2 1
 <summary>Show answer</summary>
 
 **Ans: A** — Monopoly to 1813, free trade 1813–58, finance capital from 1858.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 4)
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q40**
-
-Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (Governor-General/Viceroy)**
-A. Lord Dalhousie
-B. Lord Curzon
-C. Lord William Bentinck
-D. Lord Cornwallis
-
-**List-II (Important contribution/work)**
-1. Permanent Settlement of Bengal
-2. Prohibition of Practice of Sati
-3. Partition of Bengal
-4. Doctrine of Lapse
-
-Options:
-A. 4 3 1 2
-B. 3 4 2 1
-C. 3 4 1 2
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — This topic's pair: Cornwallis–Permanent Settlement.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q127**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Acquisition of Awadh by the British
-2. Ilbert Bill Controversy
-3. Indigo Revolt
-4. Second Anglo-Afghan War
-
-Select the correct answer from the code given below:
-
-Options:
-A. 1, 3, 4, 2
-B. 3, 1, 2, 4
-C. 3, 1, 4, 2
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Indigo Revolt **1859** is the commercialization fact.
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q3. UPPCS Prelims 2024, Q135**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Most of the early nationalists considered British rule as an act of providence destined to bring modernisation.
-
-**Reason (R):** They complained only against "Un-British rule" in India.
-
-Select the correct answer from the codes given below:
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Both true; R is a parallel Moderate fact (Drain / Un-British), not why they called the Raj providential.
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q4. UPPCS Prelims 2021, Q139**
-
-In which year the book 'Poverty and Un-British Rule in India' was published?
-
-A. 1900 A.D.
-
-B. 1901 A.D.
-
-C. 1902 A.D.
-
-D. 1903 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1901 A.D.**
-
-</details>
-
-**Q5. UPPCS Prelims 2021, Q145**
-
-In India the First Municipal Corporation was set up in which one among the following places?
-
-A. Calcutta
-
-B. Madras
-
-C. Bombay
-
-D. Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Madras** (1688).
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q6. UPPCS Prelims 2020, Q30**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** The British Government introduced different land revenue system in different part of India.
-
-**Reason (R):** It led to create different classes in Indian peasantry.
-
-Select the correct answer from the codes given below.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q7. UPPCS Prelims 2019, Q97**
-
-"The Rise and Growth of Economic Nationalism in India" was written by
-
-A. Partha Sarthi Gupta
-
-B. S Gopal
-
-C.
-
-B. R. Nanda
-
-D. Bipin Chandra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Bipin Chandra**
 
 </details>
 

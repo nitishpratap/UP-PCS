@@ -496,6 +496,46 @@ D. Marble curving
 
 ---
 
+## Complete PYQ Bank (Topic 4)
+
+### 2020
+
+**Q1. UPPCS Prelims 2020, Q10**
+
+Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
+
+A. Madho Swaroop Vatsa
+B. H.D. Sankalia
+C. V.S. Wakankar
+D. V.N. Mishra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — V.S. Wakankar.**
+
+</details>
+
+### 2019
+
+**Q2. UPPCS Prelims 2019, Q117** (painting is the trap option)
+
+The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
+
+A. Jewellery
+B. Painting
+C. Bamboo art
+D. Marble curving
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Bamboo art.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **50 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1545,46 +1585,6 @@ D. 2, 4, 1, 3
 <summary>Show answer</summary>
 
 **Ans: A.**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 4)
-
-### 2020
-
-**Q1. UPPCS Prelims 2020, Q10**
-
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
-D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — V.S. Wakankar.**
-
-</details>
-
-### 2019
-
-**Q2. UPPCS Prelims 2019, Q117** (painting is the trap option)
-
-The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
-
-A. Jewellery
-B. Painting
-C. Bamboo art
-D. Marble curving
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Bamboo art.**
 
 </details>
 

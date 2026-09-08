@@ -514,6 +514,180 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 ---
 
+## Complete PYQ Bank — this topic (UPPCS Prelims 2018–2025)
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q30** — Alauddin Khalji victories including **Warangal**.
+
+This is a **Delhi Sultanate chronology** item (Ranthambore, Jaisalmer, Warangal, Chittor). Teaching home for the **order** is medieval. The only fact this file needs: the Warangal that Alauddin’s officers hit is **Kakatiya**.
+
+### UPPCS Prelims 2024
+
+**Q2. UPPCS Prelims 2024, Q134**
+
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+
+**List-I (Book)**
+A. Hindu Polity
+B. The Wonder That Was India
+C. An Introduction to the Study of Indian History
+D. The Early History of India
+
+**List-II (Writer)**
+1. D.D. Kosambi
+2. A.L. Basham
+3. K.P. Jayaswal
+4. Vincent Arthur Smith
+
+A. 3 2 4 1
+B. 1 2 4 3
+C. 3 2 1 4
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 3-2-1-4. Trap A swaps Kosambi and Smith.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q3. UPPCS Prelims 2023, Q25**
+
+*Charaka Samhita* is divided into how many chapters and sections?
+
+A. 120 chapters and 8 sections
+B. 100 chapters and 5 sections
+C. 80 chapters and 7 sections
+D. 60 chapters and 8 sections
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q4. UPPCS Prelims 2023, Q29**
+
+With reference to the Puranas, which one of the following statements is correct?
+
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
+2. Vayu Purana throws light on the Gupta system of governance.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q5. UPPCS Prelims 2023, Q30**
+
+Which of the following pairs (**School of Thought — Proponent**) is correctly matched?
+
+A. Vaisheshika — Patanjali
+B. Mimansa — Kanada
+C. Nyaya — Gautama
+D. Uttara Mimansa — Kapila
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — sits next to materialists only as a **neighbour trap**. Full six-*darshana* teaching is the philosophy chapter.
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q6. UPPCS Prelims 2022, Q59** — Alauddin Khilji conquests: Ranthambor, Gujarat, Warangal, Chittor.
+
+Sultanate chronology. Warangal = Kakatiya capital under pressure (**1310** raid). Standard order on that paper: **C — 2, 1, 4, 3** (Gujarat, Ranthambor, Chittor, Warangal).
+
+### UPPCS Prelims 2021
+
+No extra GS-I hit on Puranas / Charvaka / Kakatiya / these four historiography books after keyword search.
+
+### UPPCS Prelims 2020
+
+**Q7. UPPCS Prelims 2020, Q2**
+
+The rulers of which of the following dynasty have been called as ‘Shriparvatiya’ in Puranas?
+
+A. Vakatakas
+B. Ikshvakus
+C. Shaks
+D. Kharvelas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q8. UPPCS Prelims 2019, Q90**
+
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+
+**List-I (Ruling Dynasties)**
+A. Pallava
+B. Pandya
+C. Yadava
+D. Kaktiya
+
+**List-II (Capitals)**
+1. Warangal
+2. Kanchi
+3. Madura
+4. Devagiri
+
+A. 2 1 4 3
+B. 2 3 4 1
+C. 1 2 3 4
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Pallava-Kanchi, Pandya-Madura, Yadava-Devagiri, Kakatiya-Warangal.
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q9. UPPCS Prelims 2018, Q96**
+
+Which of the following pairs is NOT correctly matched?
+State — Ruler
+
+A. Devgiri — Shankar Dev
+B. Warangal — Ramchandra Dev
+C. Hoysal — Veer Ballal
+D. Madura — Veer Pandya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Ramachandra Dev is Yadava of Devagiri, not Kakatiya of Warangal.
+
+</details>
+
+**Q10. UPPCS Prelims 2018, Q94** — Khayr-ul-manzil opposite **Purana Qila**.
+
+Medieval / Mughal (Maham Anaga). **Not** a Purana-text question. Name-trap only.
+
+---
+
 ## Practice Zone
 
 **40 questions. ≥60% multi-statement. Mix: Only-1/2, how-many, A/R, Match, chronology, NOT-matched.Q1.** With reference to early civilizations, which of the following statements is/are correct?
@@ -1238,180 +1412,6 @@ D. Neither 1 nor 2
 **Ans: A** — sovereignty ends **1323**. 1687 is Qutb Shahi Golconda.
 
 </details>
-
----
-
-## Complete PYQ Bank — this topic (UPPCS Prelims 2018–2025)
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q30** — Alauddin Khalji victories including **Warangal**.
-
-This is a **Delhi Sultanate chronology** item (Ranthambore, Jaisalmer, Warangal, Chittor). Teaching home for the **order** is medieval. The only fact this file needs: the Warangal that Alauddin’s officers hit is **Kakatiya**.
-
-### UPPCS Prelims 2024
-
-**Q2. UPPCS Prelims 2024, Q134**
-
-Match List-I with List-II and choose the correct answer using the codes given below the lists:
-
-**List-I (Book)**
-A. Hindu Polity
-B. The Wonder That Was India
-C. An Introduction to the Study of Indian History
-D. The Early History of India
-
-**List-II (Writer)**
-1. D.D. Kosambi
-2. A.L. Basham
-3. K.P. Jayaswal
-4. Vincent Arthur Smith
-
-A. 3 2 4 1
-B. 1 2 4 3
-C. 3 2 1 4
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 3-2-1-4. Trap A swaps Kosambi and Smith.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q3. UPPCS Prelims 2023, Q25**
-
-*Charaka Samhita* is divided into how many chapters and sections?
-
-A. 120 chapters and 8 sections
-B. 100 chapters and 5 sections
-C. 80 chapters and 7 sections
-D. 60 chapters and 8 sections
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q4. UPPCS Prelims 2023, Q29**
-
-With reference to the Puranas, which one of the following statements is correct?
-
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q5. UPPCS Prelims 2023, Q30**
-
-Which of the following pairs (**School of Thought — Proponent**) is correctly matched?
-
-A. Vaisheshika — Patanjali
-B. Mimansa — Kanada
-C. Nyaya — Gautama
-D. Uttara Mimansa — Kapila
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — sits next to materialists only as a **neighbour trap**. Full six-*darshana* teaching is the philosophy chapter.
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q6. UPPCS Prelims 2022, Q59** — Alauddin Khilji conquests: Ranthambor, Gujarat, Warangal, Chittor.
-
-Sultanate chronology. Warangal = Kakatiya capital under pressure (**1310** raid). Standard order on that paper: **C — 2, 1, 4, 3** (Gujarat, Ranthambor, Chittor, Warangal).
-
-### UPPCS Prelims 2021
-
-No extra GS-I hit on Puranas / Charvaka / Kakatiya / these four historiography books after keyword search.
-
-### UPPCS Prelims 2020
-
-**Q7. UPPCS Prelims 2020, Q2**
-
-The rulers of which of the following dynasty have been called as ‘Shriparvatiya’ in Puranas?
-
-A. Vakatakas
-B. Ikshvakus
-C. Shaks
-D. Kharvelas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q8. UPPCS Prelims 2019, Q90**
-
-Match List-I with List-II and select the correct answer from the codes given below the lists:
-
-**List-I (Ruling Dynasties)**
-A. Pallava
-B. Pandya
-C. Yadava
-D. Kaktiya
-
-**List-II (Capitals)**
-1. Warangal
-2. Kanchi
-3. Madura
-4. Devagiri
-
-A. 2 1 4 3
-B. 2 3 4 1
-C. 1 2 3 4
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Pallava-Kanchi, Pandya-Madura, Yadava-Devagiri, Kakatiya-Warangal.
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q9. UPPCS Prelims 2018, Q96**
-
-Which of the following pairs is NOT correctly matched?
-State — Ruler
-
-A. Devgiri — Shankar Dev
-B. Warangal — Ramchandra Dev
-C. Hoysal — Veer Ballal
-D. Madura — Veer Pandya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Ramachandra Dev is Yadava of Devagiri, not Kakatiya of Warangal.
-
-</details>
-
-**Q10. UPPCS Prelims 2018, Q94** — Khayr-ul-manzil opposite **Purana Qila**.
-
-Medieval / Mughal (Maham Anaga). **Not** a Purana-text question. Name-trap only.
 
 ---
 

@@ -769,6 +769,347 @@ D. 2 and 3
 
 ---
 
+## Complete PYQ Bank (Topic 13)
+
+### 2024
+
+**Q1. UPPCS Prelims 2024, Q41**
+Which of the following functions is performed by the Reserve Bank of India?
+A. Collection of income tax
+B. Issue of currency notes
+C. Conducting population census
+D. Foreign policy formulation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q43**
+Who recommends the MSP for agricultural crops?
+A. RBI
+B. NITI Aayog
+C. Commission for Agricultural Costs and Prices
+D. Ministry of Finance
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q130**
+Lokpal Selection Committee, PM as chairperson, among others:
+1. CJI or an SC Judge nominated by him
+2. Chairman of the Rajya Sabha
+3. Speaker of the Lok Sabha
+4. Leader of Opposition in the Lok Sabha
+A. 1, 2 and 3
+B. 2, 3 and 4
+C. 1, 2, 3 and 4
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2025
+
+**Q4. UPPCS Prelims 2025, Q126**
+'BHARATPOL', an online portal for International Police Co-operation has been developed by which of the following?
+1. Central Bureau of Investigation
+2. Research and Analysis Wing
+3. Intelligence Bureau
+4. Enforcement Directorate
+A. 2 and 3
+B. 3 and 4
+C. Only 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 1 (CBI).**
+
+</details>
+
+**Q4a. UPPCS Prelims 2025, Q133**
+Which of the following pairs is/are NOT correctly matched?
+1. National Voters' Day (India) — 25 January
+2. Constitution Day (India) — 27 January
+3. Human Rights Day (World) — 29 January
+A. 1 and 2
+B. 2 and 3
+C. Only 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 2 and 3.** Voters’ Day **25 Jan** is right. Constitution Day = **26 November**, not 27 Jan. World Human Rights Day = **10 December**, not 29 Jan. (NHRC home.)
+
+</details>
+
+### 2023
+
+**Q5. UPPCS Prelims 2023, Q10**
+With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
+1. Finance Commission has a Chairman and six members.
+2. It submits its report to the NITI Aayog.
+A. Only 2
+B. Both 1 and 2
+C. Only 1
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Chair + **four**; report to **President**. NITI is **not** the FC.
+
+</details>
+
+### 2022
+
+**Q6. UPPCS Prelims 2022, Q97**
+Which of the following three States of India were the top-performing States under 'NITI Aayog's State Energy and Climate Index' declared on 10th April 2022?
+A. Manipur, Tripura, Mizoram
+B. Tamil Nadu, Kerala, Karnataka
+C. Gujarat, Kerala, Punjab
+D. Punjab, Uttar Pradesh, West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### 2021
+
+**Q7. UPPCS Prelims 2021, Q2**
+How many districts of Uttar Pradesh has been covered under the Aspirational District Programme run by NITI Aayog, up to June, 2021?
+A. 4
+B. 6
+C. 8
+D. 10
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 8**
+
+</details>
+
+**Q7a. UPPCS Prelims 2021, Q26**
+The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
+A. The Prime Minister
+B. The Home Minister
+C. The Defence Minister
+D. The Health and Family Welfare Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Prime Minister**
+
+</details>
+
+**Q7b. UPPCS Prelims 2021, Q60**
+Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?
+A. The Reserve Bank of India
+B. The Ministry of Commerce and Industry
+C. The Ministry of Finance
+D. The Ministry of Consumer Affairs, Food and Public Distribution
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** RBI is the trap — **not** a WPI publisher.
+
+</details>
+
+### 2020
+
+**Q8. UPPCS Prelims 2020, Q104**
+Which Article of the Indian Constitution describes the Central Vigilance Commission?
+A. Article 268
+B. Article 280
+C. Article 276
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q8a. UPPCS Prelims 2020, Q102**
+Which one of the following pairs is NOT correctly matched?
+A. Interstate Council – Article 263
+B. Finance Commission – Article 280
+C. Administrative Tribunal – Article 323A
+D. Union Public Service Commission – Article 315
+
+<details>
+<summary>Show answer</summary>
+
+**Fact:C is a correct pair** (323A = administrative tribunals / CAT). *L. Chandra Kumar*: CAT supplements the High Court; **226/227 survive**.
+
+</details>
+
+**Q9. UPPCS Prelims 2020, Q15**
+The Atal Innovation Mission (AIM) is a flagship initiative set up by—
+A. Ministry of Human Resource Development
+B. NITI Aayog
+C. Ministry of Social Justice and Empowerment
+D. Ministry of Science and Technology
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q10. UPPCS Prelims 2020, Q113**
+According to the Report released by NITI Aayog in December 2019 on 'Sustainable Development Goals India Index 2019-20', Uttar Pradesh is grouped under which of the following categories?
+A. Aspirant
+B. Performer
+C. Front runner
+D. Achiever
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Aspirant**
+
+</details>
+
+**Q11. UPPCS Prelims 2020, Q138**
+The Development, Monitoring and Evaluation Office, which monitors the progress of long term policies is an attached office under—
+A. Prime Minister Office
+B. Ministry of Home Affairs
+C. Cabinet Secretariat
+D. NITI Aayog
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2019
+
+**Q12. UPPCS Prelims 2019, Q100**
+MKSS has been associated with—
+A. RTE Act
+B. RTI Act
+C. MGNREGA
+D. NHM
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q13. UPPCS Prelims 2019, Q112**
+According to NITI Aayog which of the following states is at the top in the India Innovation Index 2019?
+A. Tamil Nadu
+B. Maharashtra
+C. Haryana
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Karnataka**
+
+</details>
+
+**Q14. UPPCS Prelims 2019, Q140**
+Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?
+A. Planning Commission
+B. Disinvestment Commission
+C. NITI Aayog
+D. Finance Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### 2018
+
+**Q15. UPPCS Prelims 2018, Q67**
+Who was the first Vice-Chairman of the NITI Aayog?
+A. Arvind Panagariya
+B. Raghuram Rajan
+C. Chandrashekhara Subramanyam
+D. Rajiv Kumar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q16. UPPCS Prelims 2018, Q69**
+Which of the following is an extra-constitutional agency?
+A. Union Public Service Commission
+B. Finance Commission
+C. Election Commission
+D. NITI Aayog
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q17. UPPCS Prelims 2018, Q115**
+Which of the following fixes the poverty line in India?
+A. Central Council of Ministers
+B. Lok Sabha
+C. Rajya Sabha
+D. Planning Commission (Now NITI Aayog)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — the **PC** function; NITI is the successor trap, not CACP.
+
+</details>
+
+**Q18. UPPCS Prelims 2018, Q144**
+Which of the following was called as Economic cabinet of India by Ashok Chanda?
+A. Planning Commission
+B. Finance Commission
+C. Central Cabinet
+D. Administrative Reform Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **100 questions.** ≥60% multi-statement. Statutory + executive in one drill.
@@ -2315,347 +2656,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: D**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 13)
-
-### 2024
-
-**Q1. UPPCS Prelims 2024, Q41**
-Which of the following functions is performed by the Reserve Bank of India?
-A. Collection of income tax
-B. Issue of currency notes
-C. Conducting population census
-D. Foreign policy formulation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q43**
-Who recommends the MSP for agricultural crops?
-A. RBI
-B. NITI Aayog
-C. Commission for Agricultural Costs and Prices
-D. Ministry of Finance
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q130**
-Lokpal Selection Committee, PM as chairperson, among others:
-1. CJI or an SC Judge nominated by him
-2. Chairman of the Rajya Sabha
-3. Speaker of the Lok Sabha
-4. Leader of Opposition in the Lok Sabha
-A. 1, 2 and 3
-B. 2, 3 and 4
-C. 1, 2, 3 and 4
-D. 1, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2025
-
-**Q4. UPPCS Prelims 2025, Q126**
-'BHARATPOL', an online portal for International Police Co-operation has been developed by which of the following?
-1. Central Bureau of Investigation
-2. Research and Analysis Wing
-3. Intelligence Bureau
-4. Enforcement Directorate
-A. 2 and 3
-B. 3 and 4
-C. Only 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1 (CBI).**
-
-</details>
-
-**Q4a. UPPCS Prelims 2025, Q133**
-Which of the following pairs is/are NOT correctly matched?
-1. National Voters' Day (India) — 25 January
-2. Constitution Day (India) — 27 January
-3. Human Rights Day (World) — 29 January
-A. 1 and 2
-B. 2 and 3
-C. Only 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 2 and 3.** Voters’ Day **25 Jan** is right. Constitution Day = **26 November**, not 27 Jan. World Human Rights Day = **10 December**, not 29 Jan. (NHRC home.)
-
-</details>
-
-### 2023
-
-**Q5. UPPCS Prelims 2023, Q10**
-With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
-1. Finance Commission has a Chairman and six members.
-2. It submits its report to the NITI Aayog.
-A. Only 2
-B. Both 1 and 2
-C. Only 1
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Chair + **four**; report to **President**. NITI is **not** the FC.
-
-</details>
-
-### 2022
-
-**Q6. UPPCS Prelims 2022, Q97**
-Which of the following three States of India were the top-performing States under 'NITI Aayog's State Energy and Climate Index' declared on 10th April 2022?
-A. Manipur, Tripura, Mizoram
-B. Tamil Nadu, Kerala, Karnataka
-C. Gujarat, Kerala, Punjab
-D. Punjab, Uttar Pradesh, West Bengal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### 2021
-
-**Q7. UPPCS Prelims 2021, Q2**
-How many districts of Uttar Pradesh has been covered under the Aspirational District Programme run by NITI Aayog, up to June, 2021?
-A. 4
-B. 6
-C. 8
-D. 10
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 8**
-
-</details>
-
-**Q7a. UPPCS Prelims 2021, Q26**
-The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
-A. The Prime Minister
-B. The Home Minister
-C. The Defence Minister
-D. The Health and Family Welfare Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Prime Minister**
-
-</details>
-
-**Q7b. UPPCS Prelims 2021, Q60**
-Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?
-A. The Reserve Bank of India
-B. The Ministry of Commerce and Industry
-C. The Ministry of Finance
-D. The Ministry of Consumer Affairs, Food and Public Distribution
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** RBI is the trap — **not** a WPI publisher.
-
-</details>
-
-### 2020
-
-**Q8. UPPCS Prelims 2020, Q104**
-Which Article of the Indian Constitution describes the Central Vigilance Commission?
-A. Article 268
-B. Article 280
-C. Article 276
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q8a. UPPCS Prelims 2020, Q102**
-Which one of the following pairs is NOT correctly matched?
-A. Interstate Council – Article 263
-B. Finance Commission – Article 280
-C. Administrative Tribunal – Article 323A
-D. Union Public Service Commission – Article 315
-
-<details>
-<summary>Show answer</summary>
-
-**Fact:C is a correct pair** (323A = administrative tribunals / CAT). *L. Chandra Kumar*: CAT supplements the High Court; **226/227 survive**.
-
-</details>
-
-**Q9. UPPCS Prelims 2020, Q15**
-The Atal Innovation Mission (AIM) is a flagship initiative set up by—
-A. Ministry of Human Resource Development
-B. NITI Aayog
-C. Ministry of Social Justice and Empowerment
-D. Ministry of Science and Technology
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10. UPPCS Prelims 2020, Q113**
-According to the Report released by NITI Aayog in December 2019 on 'Sustainable Development Goals India Index 2019-20', Uttar Pradesh is grouped under which of the following categories?
-A. Aspirant
-B. Performer
-C. Front runner
-D. Achiever
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Aspirant**
-
-</details>
-
-**Q11. UPPCS Prelims 2020, Q138**
-The Development, Monitoring and Evaluation Office, which monitors the progress of long term policies is an attached office under—
-A. Prime Minister Office
-B. Ministry of Home Affairs
-C. Cabinet Secretariat
-D. NITI Aayog
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2019
-
-**Q12. UPPCS Prelims 2019, Q100**
-MKSS has been associated with—
-A. RTE Act
-B. RTI Act
-C. MGNREGA
-D. NHM
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q13. UPPCS Prelims 2019, Q112**
-According to NITI Aayog which of the following states is at the top in the India Innovation Index 2019?
-A. Tamil Nadu
-B. Maharashtra
-C. Haryana
-D. Karnataka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Karnataka**
-
-</details>
-
-**Q14. UPPCS Prelims 2019, Q140**
-Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?
-A. Planning Commission
-B. Disinvestment Commission
-C. NITI Aayog
-D. Finance Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### 2018
-
-**Q15. UPPCS Prelims 2018, Q67**
-Who was the first Vice-Chairman of the NITI Aayog?
-A. Arvind Panagariya
-B. Raghuram Rajan
-C. Chandrashekhara Subramanyam
-D. Rajiv Kumar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16. UPPCS Prelims 2018, Q69**
-Which of the following is an extra-constitutional agency?
-A. Union Public Service Commission
-B. Finance Commission
-C. Election Commission
-D. NITI Aayog
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q17. UPPCS Prelims 2018, Q115**
-Which of the following fixes the poverty line in India?
-A. Central Council of Ministers
-B. Lok Sabha
-C. Rajya Sabha
-D. Planning Commission (Now NITI Aayog)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — the **PC** function; NITI is the successor trap, not CACP.
-
-</details>
-
-**Q18. UPPCS Prelims 2018, Q144**
-Which of the following was called as Economic cabinet of India by Ashok Chanda?
-A. Planning Commission
-B. Finance Commission
-C. Central Cabinet
-D. Administrative Reform Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
 
 </details>
 

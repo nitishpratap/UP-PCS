@@ -618,6 +618,205 @@ Every list-matching or chronology question draws from this spine. Learn **year, 
 
 ---
 
+## Complete PYQ Bank
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q6**
+
+Which of the following events took place in the year 1911?
+
+1. Partition of Bengal revoked
+2. Transfer of capital from Calcutta to Delhi
+3. Lucknow Pact between Congress and Muslim League
+
+Select the correct answer from the code given below:
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Lucknow Pact = **1916**. Duplicate allowed with Topic 11 (Partition / Delhi).
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q2. UPPCS Prelims 2024, Q15**
+
+Consider the following events and arrange them in chronological order:
+
+1. East India Association
+2. National Indian Association
+3. Indian Society
+4. Indian Association
+
+Select the correct answer from the codes given below:
+
+A. 1, 2, 4, 3
+
+B. 1, 3, 2, 4
+
+C. 2, 1, 4, 3
+
+D. 1, 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q17**
+
+With reference to the Age of Consent Act, 1891 consider the following statements:
+
+1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.
+2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
+
+Which of the above statements is/are correct?
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Duplicate allowed with Topic 6.
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q133**
+
+Consider the following events and arrange them in chronological order:
+
+1. Linlithgow August Offer
+2. Cripps Mission arrival in India
+3. Ramgarh Congress Session
+4. Resignation letters of Congress Ministers
+
+Select the correct answer from the codes given below:
+
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — ministries **1939** → Ramgarh **1940** → August Offer **1940** → Cripps **1942**. Session fact for this topic; full missions live later.
+
+</details>
+
+**Q5. UPPCS Prelims 2024, Q135**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Most of the early nationalists considered British rule as an act of providence destined to bring modernisation.
+
+**Reason (R):** They complained only against "Un-British rule" in India.
+
+Select the correct answer from the codes given below:
+
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+B. (A) is false, but (R) is true.
+C. Both (A) and (R) are true and (R) is the correct explanation of (A).
+D. (A) is true, but (R) is false.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q6. UPPCS Prelims 2021, Q50**
+
+Who among the following never presided a Session of Indian National Congress?
+
+A. Lala Lajpat Rai
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Subhash Chandra Bose
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Bal Gangadhar Tilak**
+
+</details>
+
+**Q7. UPPCS Prelims 2021, Q139**
+
+In which year the book 'Poverty and Un-British Rule in India' was published?
+
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 1901**
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q8. UPPCS Prelims 2020, Q26**
+
+Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
+
+**List-I (Book)List-II (Writer)**
+A. The Story of My Deportation  1. Surendranath Banerjee
+B. Gita Rahasya  2. Maulana Abul Kalam Azad
+C. A Nation in Making  3. Lala Lajpat Rai
+D. India Wins Freedom  4. Bal Gangadhar Tilak
+
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Duplicate allowed with Topic 10.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **51 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
@@ -1726,205 +1925,6 @@ D. 1, 3, 2, 4
 <summary>Show answer</summary>
 
 **Ans: A** — Lajpat Rai deported **May 1907**, before the **December 1907** Surat Split; Tilak convicted **1908**; Lucknow reunion **1916**.
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q6**
-
-Which of the following events took place in the year 1911?
-
-1. Partition of Bengal revoked
-2. Transfer of capital from Calcutta to Delhi
-3. Lucknow Pact between Congress and Muslim League
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Lucknow Pact = **1916**. Duplicate allowed with Topic 11 (Partition / Delhi).
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q2. UPPCS Prelims 2024, Q15**
-
-Consider the following events and arrange them in chronological order:
-
-1. East India Association
-2. National Indian Association
-3. Indian Society
-4. Indian Association
-
-Select the correct answer from the codes given below:
-
-A. 1, 2, 4, 3
-
-B. 1, 3, 2, 4
-
-C. 2, 1, 4, 3
-
-D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q17**
-
-With reference to the Age of Consent Act, 1891 consider the following statements:
-
-1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.
-2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
-
-Which of the above statements is/are correct?
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Duplicate allowed with Topic 6.
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q133**
-
-Consider the following events and arrange them in chronological order:
-
-1. Linlithgow August Offer
-2. Cripps Mission arrival in India
-3. Ramgarh Congress Session
-4. Resignation letters of Congress Ministers
-
-Select the correct answer from the codes given below:
-
-A. 3, 1, 4, 2
-
-B. 4, 3, 1, 2
-
-C. 1, 3, 4, 2
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — ministries **1939** → Ramgarh **1940** → August Offer **1940** → Cripps **1942**. Session fact for this topic; full missions live later.
-
-</details>
-
-**Q5. UPPCS Prelims 2024, Q135**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Most of the early nationalists considered British rule as an act of providence destined to bring modernisation.
-
-**Reason (R):** They complained only against "Un-British rule" in India.
-
-Select the correct answer from the codes given below:
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true and (R) is the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q6. UPPCS Prelims 2021, Q50**
-
-Who among the following never presided a Session of Indian National Congress?
-
-A. Lala Lajpat Rai
-
-B. Bal Gangadhar Tilak
-
-C. Gopal Krishna Gokhale
-
-D. Subhash Chandra Bose
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Bal Gangadhar Tilak**
-
-</details>
-
-**Q7. UPPCS Prelims 2021, Q139**
-
-In which year the book 'Poverty and Un-British Rule in India' was published?
-
-A. 1900 A.D.
-
-B. 1901 A.D.
-
-C. 1902 A.D.
-
-D. 1903 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1901**
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q8. UPPCS Prelims 2020, Q26**
-
-Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
-
-**List-I (Book)List-II (Writer)**
-A. The Story of My Deportation  1. Surendranath Banerjee
-B. Gita Rahasya  2. Maulana Abul Kalam Azad
-C. A Nation in Making  3. Lala Lajpat Rai
-D. India Wins Freedom  4. Bal Gangadhar Tilak
-
-A. 3 4 1 2
-
-B. 4 2 1 3
-
-C. 2 4 1 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Duplicate allowed with Topic 10.
 
 </details>
 

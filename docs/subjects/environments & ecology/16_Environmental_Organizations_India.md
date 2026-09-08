@@ -272,6 +272,192 @@ ISFR 2023 is published by **FSI**. UP districts with >20% forest cover included 
 
 ---
 
+## Complete PYQ Bank (Topic 16)
+
+**Q1. UPPCS Prelims 2025, Q70**
+
+The **Annual Groundwater Quality Report 2024** was prepared by—
+
+1. Central Pollution Control Board (CPCB)  
+2. Central Water Commission (CWC)  
+3. Central Ground Water Board (CGWB)  
+
+A. 1 and 2 only  
+B. 3 only  
+C. 2 and 3 only  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Org–report matching trap — CPCB is pollution standards, not groundwater quality publisher.
+
+**Ans: B.** **CGWB** publishes the national groundwater quality report — not CPCB or CWC.
+
+**Trap:** CPCB is the reflex "central environment data" answer — groundwater quality is **CGWB's** mandate.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q8**
+
+**India State of Forest Report (ISFR) 2023** is published by **FSI**. Which UP districts had **>20% forest cover**?
+
+1. Bahraich  
+2. Chandauli  
+3. Shravasti  
+
+A. 1 and 2 only  
+B. 3 only  
+C. 2 and 3 only  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** FSI publishes ISFR — district-level UP forest-cover threshold fact.
+
+**Ans: C.** **Chandauli** and **Shravasti** exceed 20% forest cover; Bahraich does not cross the threshold.
+
+**Trap:** Bahraich is Terai forest country but **below 20%** in ISFR 2023 — not Chandauli-Shravasti pair.
+
+</details>
+
+---
+
+**Q3. UPSC pattern**
+
+**Environmental Clearance** for Category A projects is granted by—
+
+A. Central Pollution Control Board  
+B. **Ministry of Environment, Forest and Climate Change**  
+C. National Green Tribunal  
+D. Forest Survey of India  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** MoEFCC vs CPCB authority split — clearance ≠ pollution consent.
+
+**Ans: B.** **MoEFCC** (on EAC recommendation) grants **Category A EC**; CPCB does **not**.
+
+**Trap:** CPCB coordinates pollution control — **EC is MoEFCC/SEIAA**, not CPCB.
+
+</details>
+
+---
+
+**Q4. UPSC pattern**
+
+The **Central Pollution Control Board (CPCB)** was established under the—
+
+A. Environment (Protection) Act, 1986  
+B. **Water (Prevention and Control of Pollution) Act, 1974**  
+C. NGT Act, 2010  
+D. Wildlife (Protection) Act, 1972  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CPCB statutory birth under Water Act — Air Act 1981 widened its air role.
+
+**Ans: B.** CPCB was constituted under the **Water Act, 1974**; Air Act **1981** extended its air-pollution functions.
+
+**Trap:** EPA **1986** is umbrella environmental law — CPCB predates it by **12 years**.
+
+</details>
+
+---
+
+**Q5. UPSC pattern**
+
+The **National Green Tribunal** was established under an Act of Parliament passed in—
+
+A. 1986  
+B. 2005  
+C. **2010**  
+D. 2015  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NGT Act year — tribunal operational 2011, distinct from EPA 1986.
+
+**Ans: C.** **NGT Act, 2010** created the tribunal for environmental civil appeals.
+
+**Trap:** EPA **1986** and NGT **2010** are often confused — tribunal came **after** EIA notification 2006.
+
+</details>
+
+---
+
+**Q6. UPSC pattern**
+
+**Consent to Operate (CTO)** for industrial units is issued by the—
+
+A. MoEFCC  
+B. **State Pollution Control Board (SPCB)**  
+C. Forest Survey of India  
+D. Wildlife Institute of India  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Consent (CTE/CTO) under Water/Air Acts vs EC under EPA — SPCB enforces operational pollution consent.
+
+**Ans: B.** **SPCB** issues **Consent to Establish** and **Consent to Operate** under Water Act 1974 and Air Act 1981.
+
+**Trap:** **SEIAA** grants Category B **EC** — SPCB grants **pollution consent**, a different clearance track.
+
+</details>
+
+---
+
+**Q7. UPSC pattern**
+
+The **Botanical Survey of India (BSI)** is headquartered at **Kolkata** and surveys—
+
+A. Animals and birds only  
+B. **Plants only**  
+C. Forest cover area nationwide  
+D. Groundwater aquifers  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** BSI vs ZSI kingdom split — Kolkata HQ for plant taxonomy since 1890.
+
+**Ans: B.** **BSI (1890, Kolkata)** surveys **plants** and publishes *Flora of India*; animals are **ZSI's** domain.
+
+**Trap:** Both BSI and ZSI are in **Kolkata** — swapping plant/animal mandates is the classic trap.
+
+</details>
+
+---
+
+**Q8. UPSC pattern**
+
+The **Red Data Book of Indian Plants** is published by—
+
+A. Zoological Survey of India  
+B. **Botanical Survey of India**  
+C. Forest Survey of India  
+D. Central Pollution Control Board  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Report–publisher matching — plant Red Data Book = BSI; animal version = ZSI.
+
+**Ans: B.** **BSI** publishes the plant Red Data Book; **ZSI** publishes the fauna Red Data Book.
+
+**Trap:** FSI publishes **ISFR** forest-cover reports — not species Red Data Books.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questionsQ1.** MoEFCC was originally established in:
@@ -757,192 +943,6 @@ D. Both false
 
 ---
 
-## Complete PYQ Bank (Topic 16)
-
-**Q1. UPPCS Prelims 2025, Q70**
-
-The **Annual Groundwater Quality Report 2024** was prepared by—
-
-1. Central Pollution Control Board (CPCB)  
-2. Central Water Commission (CWC)  
-3. Central Ground Water Board (CGWB)  
-
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Org–report matching trap — CPCB is pollution standards, not groundwater quality publisher.
-
-**Ans: B.** **CGWB** publishes the national groundwater quality report — not CPCB or CWC.
-
-**Trap:** CPCB is the reflex "central environment data" answer — groundwater quality is **CGWB's** mandate.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q8**
-
-**India State of Forest Report (ISFR) 2023** is published by **FSI**. Which UP districts had **>20% forest cover**?
-
-1. Bahraich  
-2. Chandauli  
-3. Shravasti  
-
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** FSI publishes ISFR — district-level UP forest-cover threshold fact.
-
-**Ans: C.** **Chandauli** and **Shravasti** exceed 20% forest cover; Bahraich does not cross the threshold.
-
-**Trap:** Bahraich is Terai forest country but **below 20%** in ISFR 2023 — not Chandauli-Shravasti pair.
-
-</details>
-
----
-
-**Q3. UPSC pattern**
-
-**Environmental Clearance** for Category A projects is granted by—
-
-A. Central Pollution Control Board  
-B. **Ministry of Environment, Forest and Climate Change**  
-C. National Green Tribunal  
-D. Forest Survey of India  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** MoEFCC vs CPCB authority split — clearance ≠ pollution consent.
-
-**Ans: B.** **MoEFCC** (on EAC recommendation) grants **Category A EC**; CPCB does **not**.
-
-**Trap:** CPCB coordinates pollution control — **EC is MoEFCC/SEIAA**, not CPCB.
-
-</details>
-
----
-
-**Q4. UPSC pattern**
-
-The **Central Pollution Control Board (CPCB)** was established under the—
-
-A. Environment (Protection) Act, 1986  
-B. **Water (Prevention and Control of Pollution) Act, 1974**  
-C. NGT Act, 2010  
-D. Wildlife (Protection) Act, 1972  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CPCB statutory birth under Water Act — Air Act 1981 widened its air role.
-
-**Ans: B.** CPCB was constituted under the **Water Act, 1974**; Air Act **1981** extended its air-pollution functions.
-
-**Trap:** EPA **1986** is umbrella environmental law — CPCB predates it by **12 years**.
-
-</details>
-
----
-
-**Q5. UPSC pattern**
-
-The **National Green Tribunal** was established under an Act of Parliament passed in—
-
-A. 1986  
-B. 2005  
-C. **2010**  
-D. 2015  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NGT Act year — tribunal operational 2011, distinct from EPA 1986.
-
-**Ans: C.** **NGT Act, 2010** created the tribunal for environmental civil appeals.
-
-**Trap:** EPA **1986** and NGT **2010** are often confused — tribunal came **after** EIA notification 2006.
-
-</details>
-
----
-
-**Q6. UPSC pattern**
-
-**Consent to Operate (CTO)** for industrial units is issued by the—
-
-A. MoEFCC  
-B. **State Pollution Control Board (SPCB)**  
-C. Forest Survey of India  
-D. Wildlife Institute of India  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Consent (CTE/CTO) under Water/Air Acts vs EC under EPA — SPCB enforces operational pollution consent.
-
-**Ans: B.** **SPCB** issues **Consent to Establish** and **Consent to Operate** under Water Act 1974 and Air Act 1981.
-
-**Trap:** **SEIAA** grants Category B **EC** — SPCB grants **pollution consent**, a different clearance track.
-
-</details>
-
----
-
-**Q7. UPSC pattern**
-
-The **Botanical Survey of India (BSI)** is headquartered at **Kolkata** and surveys—
-
-A. Animals and birds only  
-B. **Plants only**  
-C. Forest cover area nationwide  
-D. Groundwater aquifers  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** BSI vs ZSI kingdom split — Kolkata HQ for plant taxonomy since 1890.
-
-**Ans: B.** **BSI (1890, Kolkata)** surveys **plants** and publishes *Flora of India*; animals are **ZSI's** domain.
-
-**Trap:** Both BSI and ZSI are in **Kolkata** — swapping plant/animal mandates is the classic trap.
-
-</details>
-
----
-
-**Q8. UPSC pattern**
-
-The **Red Data Book of Indian Plants** is published by—
-
-A. Zoological Survey of India  
-B. **Botanical Survey of India**  
-C. Forest Survey of India  
-D. Central Pollution Control Board  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Report–publisher matching — plant Red Data Book = BSI; animal version = ZSI.
-
-**Ans: B.** **BSI** publishes the plant Red Data Book; **ZSI** publishes the fauna Red Data Book.
-
-**Trap:** FSI publishes **ISFR** forest-cover reports — not species Red Data Books.
-
-</details>
-
----
-
 ## Mains Answer Framework
 
 **Environmental organizations (250 words):** Map India's governance chain — MoEFCC (policy, Category A EC, forest/wildlife laws), CPCB (national standards/monitoring), SPCB (state consent/enforcement), NGT (appeals). Scientific bodies — WII (wildlife research), BSI (plants), ZSI (animals), FSI (ISFR). HQ and report matching. UP angle — UPPCB Lucknow, Kanpur enforcement, ISFR UP districts. Distinguish consent vs clearance vs appeal. Conclude with coordination need and common traps (CPCB ≠ EC ≠ CGWB).
@@ -963,43 +963,3 @@ D. Central Pollution Control Board
 | ISFR is annual | **Biennial** |
 | BSI/ZSI in Dehradun | **Kolkata** |
 | SPCB grants Category B EC | **SEIAA** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~412 (was ~1505 old format) |
-| **Teaching blocks** | §16.1–16.7 (8 syllabus orgs) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 8 questions |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2025 Q70 (§16.2); 2025 Q8 ISFR (§16.7) |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| MoEFCC | §16.1 |
-| CPCB | §16.2 |
-| SPCB | §16.2 |
-| NGT | §16.3 |
-| WII | §16.4 |
-| BSI | §16.5 |
-| ZSI | §16.6 |
-| FSI | §16.7 |
-
-### Topic boundaries
-
-- **SEIAA, CGWB, EAC** — noted as traps; full EIA process in Topic 14
-- **Act details** — Topic 17
-- **International orgs** — Topic 18+
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q70 CGWB vs CPCB | §16.2 inline |
-| 2025 Q8 ISFR/FSI | §16.7 inline |
-| UPSC EC/CPCB patterns | PYQ Bank + traps |

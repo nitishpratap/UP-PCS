@@ -713,6 +713,265 @@ D. 32
 
 ---
 
+## Complete PYQ Bank (Topic 3)
+
+> Full UPPCS mapped hits (2018–2025). Answers in `<details>`.
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q24**
+Which of the following pairs of Parts and subjects are **NOT** correctly matched?
+
+1. Part IVA — Fundamental Duties
+2. Part VI — The States
+3. Part XI — The Municipalities
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 3 only.** Municipalities = **Part IXA**; Part XI = relations between the Union and the States.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q102**
+Which of the following language(s) is/are **NOT** included in the Eighth Schedule of the Constitution of India?
+
+1. Nepali
+2. Dogri
+3. Bodo
+4. Bhojpuri
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+B. 4 only
+C. 3 and 4 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 4 only (Bhojpuri).** Nepali, Dogri and Bodo are in the Eighth Schedule.
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q113**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I (Schedule)**
+
+| Code | Schedule |
+|------|----------|
+| A | Seventh Schedule |
+| B | Eighth Schedule |
+| C | Ninth Schedule |
+| D | Tenth Schedule |
+
+**List-II (Subject)**
+
+| Code | Subject |
+|------|---------|
+| 1 | Languages |
+| 2 | Anti-defection |
+| 3 | Union, State and Concurrent Lists |
+| 4 | Validation of certain Acts and Regulations |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. 3, 1, 2, 4
+B. 3, 1, 4, 2
+C. 2, 3, 4, 1
+D. 4, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
+
+</details>
+
+### 2024
+
+**Q4. UPPCS Prelims 2024, Q143**
+Which of the following is/are included in the Concurrent List of the Seventh Schedule?
+
+1. Trade and Commerce
+2. Adulteration of Goods
+3. Succession
+
+Select the correct answer using the code given below:
+
+A. 1 and 3 only
+B. 1, 2 and 3
+C. 1 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — 2 and 3 only.** Unqualified “Trade and Commerce” is not treated as Concurrent as a whole.
+
+</details>
+
+### 2023
+
+**Q5. UPPCS Prelims 2023, Q1**
+Which among the following (Provision — Part of the Constitution) is **NOT** correctly matched?
+
+A. The Union Territories — Part VIII
+B. The Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
+D. Official Language — Part XVII
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tribunals = **Part XIVA**. Part XI = Union–State relations.
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q7**
+Which one of the following Schedule—Subject pairs is **NOT** correctly matched?
+
+A. Third Schedule — Oaths and Affirmations
+B. Eighth Schedule — Languages
+C. Ninth Schedule — Allocation of seats in the Council of States
+D. Tenth Schedule — Anti-defection
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Rajya Sabha seat allocation = **Fourth Schedule**. Ninth Schedule = validation of certain Acts and Regulations.
+
+</details>
+
+### 2022
+
+**Q7. UPPCS Prelims 2022, Q89**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I (Schedule)**
+
+| Code | Schedule |
+|------|----------|
+| A | Third Schedule |
+| B | Fourth Schedule |
+| C | Seventh Schedule |
+| D | Eighth Schedule |
+
+**List-II (Subject)**
+
+| Code | Subject |
+|------|---------|
+| 1 | Allocation of seats in Rajya Sabha |
+| 2 | Forms of Oaths or Affirmations |
+| 3 | Languages |
+| 4 | Union / State / Concurrent Lists |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-4, B-3, C-1, D-2
+B. A-3, B-4, C-2, D-1
+C. A-2, B-1, C-4, D-3
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).
+
+</details>
+
+### 2020
+
+**Q8. UPPCS Prelims 2020, Q110**
+Which one of the following is **NOT** correctly matched?
+
+A. Fundamental Duties — Part IVA
+B. The States — Part VI
+C. Attorney-General — Part XIII
+D. Services under the Union and the States — Part XIV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Attorney-General is under **Part V** (Art. 76). Part XIII = Trade, Commerce and Intercourse.
+
+</details>
+
+### 2019
+
+**Q9. UPPCS Prelims 2019, Q28**
+Which one of the following is **NOT** correctly matched?
+
+A. Public Health and Sanitation — State List
+B. Census — Union List
+C. Allocation of seats in the Council of States — Second Schedule
+D. Anti-Defection — Tenth Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Allocation of Rajya Sabha seats = **Fourth Schedule**. Second Schedule = emoluments, allowances and privileges.
+
+</details>
+
+**Q10. UPPCS Prelims 2019, Q29**
+How many items are there in the 11th Schedule of the Constitution of India?
+
+A. 22
+B. 24
+C. 29
+D. 32
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 29.**
+
+</details>
+
+**Q11. UPPCS Prelims 2019, Q31**
+The Sixth Schedule of the Constitution is applicable in which of the following States?
+
+A. Tripura
+B. Sikkim
+C. Nagaland
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Tripura** (AMTM: Assam, Meghalaya, Tripura, Mizoram). Not Nagaland or Sikkim.
+
+</details>
+
+### 2018
+
+**Q12. UPPCS Prelims 2018, Q73**
+In which Part of the Constitution of India do we find the provisions relating to citizenship?
+
+A. Part I
+B. Part II
+C. Part VII
+D. Part IX
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Part II.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.48 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
@@ -1454,265 +1713,6 @@ D. 101st Constitutional Amendment
 <summary>Show answer</summary>
 
 **Ans: B** — **71st Amendment, 1992** (15 → 18 languages).
-</details>
-
----
-
-## Complete PYQ Bank (Topic 3)
-
-> Full UPPCS mapped hits (2018–2025). Answers in `<details>`.
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q24**
-Which of the following pairs of Parts and subjects are **NOT** correctly matched?
-
-1. Part IVA — Fundamental Duties
-2. Part VI — The States
-3. Part XI — The Municipalities
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 3 only
-C. 2 and 3 only
-D. 1 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 3 only.** Municipalities = **Part IXA**; Part XI = relations between the Union and the States.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q102**
-Which of the following language(s) is/are **NOT** included in the Eighth Schedule of the Constitution of India?
-
-1. Nepali
-2. Dogri
-3. Bodo
-4. Bhojpuri
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 4 only
-C. 3 and 4 only
-D. 1 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 4 only (Bhojpuri).** Nepali, Dogri and Bodo are in the Eighth Schedule.
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q113**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Seventh Schedule |
-| B | Eighth Schedule |
-| C | Ninth Schedule |
-| D | Tenth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Languages |
-| 2 | Anti-defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts and Regulations |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. 3, 1, 2, 4
-B. 3, 1, 4, 2
-C. 2, 3, 4, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
-
-</details>
-
-### 2024
-
-**Q4. UPPCS Prelims 2024, Q143**
-Which of the following is/are included in the Concurrent List of the Seventh Schedule?
-
-1. Trade and Commerce
-2. Adulteration of Goods
-3. Succession
-
-Select the correct answer using the code given below:
-
-A. 1 and 3 only
-B. 1, 2 and 3
-C. 1 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — 2 and 3 only.** Unqualified “Trade and Commerce” is not treated as Concurrent as a whole.
-
-</details>
-
-### 2023
-
-**Q5. UPPCS Prelims 2023, Q1**
-Which among the following (Provision — Part of the Constitution) is **NOT** correctly matched?
-
-A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Tribunals = **Part XIVA**. Part XI = Union–State relations.
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q7**
-Which one of the following Schedule—Subject pairs is **NOT** correctly matched?
-
-A. Third Schedule — Oaths and Affirmations
-B. Eighth Schedule — Languages
-C. Ninth Schedule — Allocation of seats in the Council of States
-D. Tenth Schedule — Anti-defection
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Rajya Sabha seat allocation = **Fourth Schedule**. Ninth Schedule = validation of certain Acts and Regulations.
-
-</details>
-
-### 2022
-
-**Q7. UPPCS Prelims 2022, Q89**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Third Schedule |
-| B | Fourth Schedule |
-| C | Seventh Schedule |
-| D | Eighth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Allocation of seats in Rajya Sabha |
-| 2 | Forms of Oaths or Affirmations |
-| 3 | Languages |
-| 4 | Union / State / Concurrent Lists |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-4, B-3, C-1, D-2
-B. A-3, B-4, C-2, D-1
-C. A-2, B-1, C-4, D-3
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).
-
-</details>
-
-### 2020
-
-**Q8. UPPCS Prelims 2020, Q110**
-Which one of the following is **NOT** correctly matched?
-
-A. Fundamental Duties — Part IVA
-B. The States — Part VI
-C. Attorney-General — Part XIII
-D. Services under the Union and the States — Part XIV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Attorney-General is under **Part V** (Art. 76). Part XIII = Trade, Commerce and Intercourse.
-
-</details>
-
-### 2019
-
-**Q9. UPPCS Prelims 2019, Q28**
-Which one of the following is **NOT** correctly matched?
-
-A. Public Health and Sanitation — State List
-B. Census — Union List
-C. Allocation of seats in the Council of States — Second Schedule
-D. Anti-Defection — Tenth Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Allocation of Rajya Sabha seats = **Fourth Schedule**. Second Schedule = emoluments, allowances and privileges.
-
-</details>
-
-**Q10. UPPCS Prelims 2019, Q29**
-How many items are there in the 11th Schedule of the Constitution of India?
-
-A. 22
-B. 24
-C. 29
-D. 32
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 29.**
-
-</details>
-
-**Q11. UPPCS Prelims 2019, Q31**
-The Sixth Schedule of the Constitution is applicable in which of the following States?
-
-A. Tripura
-B. Sikkim
-C. Nagaland
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Tripura** (AMTM: Assam, Meghalaya, Tripura, Mizoram). Not Nagaland or Sikkim.
-
-</details>
-
-### 2018
-
-**Q12. UPPCS Prelims 2018, Q73**
-In which Part of the Constitution of India do we find the provisions relating to citizenship?
-
-A. Part I
-B. Part II
-C. Part VII
-D. Part IX
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Part II.**
-
 </details>
 
 ---

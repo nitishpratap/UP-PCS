@@ -313,6 +313,318 @@ Options include: Dam length 825.8 m | Hydropower **198 MW** | Location Garhwal |
 
 ---
 
+## Complete PYQ Bank (Topic 22)
+
+**Q1. UPPCS Prelims 2025, Q28**
+
+Major constituents of biogas include:
+
+1. Methane
+2. Butane
+3. Carbon dioxide
+4. Carbon monoxide
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Biogas from anaerobic digestion — CH₄ + CO₂; butane is an LPG trap.
+
+**Ans: A (1 and 3).** **Methane and carbon dioxide** are the major biogas constituents.
+
+**Trap:** **Butane** or **carbon monoxide** as main components.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q31**
+
+With reference to hydroelectric power in Northern India, consider the following statements:
+
+1. The Himalayan region has enormous hydroelectric potential.
+2. Eastern Uttar Pradesh and Bihar cannot utilise Himalayan hydro because the Himalayas to their north lie in Nepal.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Himalayan potential is real; statement 2 falsely excuses UP/Bihar — Indian hydro sits in Uttarakhand, HP, Sikkim, etc.
+
+**Ans: D (Only 1).** **Himalayan potential is enormous**; the Nepal excuse in statement 2 is false.
+
+**Trap:** Accepting statement 2 — UP benefits via Ganga/Yamuna systems from Indian Himalayan projects.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q109**
+
+With reference to the International Solar Alliance (ISA), consider the following statements:
+
+1. It is the first treaty-based intergovernmental organization headquartered in India and has 38 member countries.
+2. The World Solar Bank and One Sun One World One Grid (OSOWOG) initiatives have been undertaken under it.
+
+A. Only 1
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** OSOWOG/World Solar Bank linkage to ISA is correct; "exactly 38 members" is outdated.
+
+**Ans: A (Only 2).** **Only statement 2 is correct** — member count in statement 1 is obsolete.
+
+**Trap:** Rejecting OSOWOG because statement 1 sounds authoritative.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q72**
+
+With reference to the Ramganga Multipurpose Project, which of the following pairs is **correctly** matched?
+
+A. Location — Garhwal (Uttarakhand)
+
+B. Hydropower capacity — 198 MW
+
+C. Both A and B
+
+D. Neither A nor B
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ramganga teaching facts — Garhwal site and ~198 MW are standard correct anchors.
+
+**Ans: C.** **Garhwal location** and **~198 MW** are both correctly matched.
+
+**Trap:** Irrigated-area or dam-length figures in other booklet options — verify against ~198 MW + Garhwal core pair.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2022, Q20**
+
+The largest tidal energy potential in India is associated with the:
+
+A. North Circars coast
+
+B. Mannar coast
+
+C. Khambhat (Cambay) coast
+
+D. Kerala coast
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gulf of Khambhat has India's highest tidal range (~11 m) — potential, not installed capacity leader.
+
+**Ans: C.** **Gulf of Khambhat (Cambay)** has the largest tidal energy potential.
+
+**Trap:** Kerala or eastern coast names — Gujarat/Khambhat is the tested fact.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022, Q69**
+
+Which of the following is **NOT** a biomass energy source?
+
+A. Coal
+
+B. Nuclear fuel
+
+C. Gobar (cow dung)
+
+D. Wood
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Biomass = organic matter; coal is fossilised carbon; nuclear is uranium/thorium.
+
+**Ans: A.** **Coal is not biomass** — it is a fossil fuel.
+
+**Trap:** Nuclear is also non-biomass, but coal is the standard keyed distractor in this stem.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q132**
+
+Solar energy is converted into electric energy through—
+
+A. Dry cells
+
+B. Leclanché cells
+
+C. Voltaic cells
+
+D. Photovoltaic cells
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PV direct conversion vs CSP/tidal/geothermal distractors.
+
+**Ans: D.** **Photovoltaic cells** convert solar energy into electricity.
+
+**Trap:** Dry cells, Leclanché, or Voltaic cell distractors — not solar-specific.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2022, Q139**
+
+Most sources of energy we use represent stored solar energy. Which of the following is **NOT** ultimately derived from the Sun's energy?
+
+A. Biomass energy
+
+B. Nuclear energy
+
+C. Wind energy
+
+D. Geothermal energy
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Solar-linked = biomass, wind; Earth's interior heat and nuclear fission are non-solar.
+
+**Ans: D.** **Geothermal energy** is not derived from the Sun.
+
+**Trap:** **Nuclear energy** is also non-solar — paper may list either; geothermal is the keyed answer here.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2022, Q27**
+
+The first airport powered by solar energy in India is:
+
+A. Chennai
+
+B. Cochin
+
+C. Ahmedabad
+
+D. New Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cochin International Airport = world's first fully solar-powered airport fact.
+
+**Ans: B.** **Cochin** was India's first solar-powered airport.
+
+**Trap:** **Diu** (100% solar UT) or **Ahmedabad** — different solar milestones.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2020, Q46**
+
+In which district of Uttar Pradesh was a major solar power plant established in collaboration with France in 2018?
+
+A. Agra
+
+B. Ballia
+
+C. Deoria
+
+D. Mirzapur
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP–France solar collaboration maps to Mirzapur belt in standard PYQ framing.
+
+**Ans: D.** The major UP–France solar plant is linked with **Mirzapur**.
+
+**Trap:** Eastern UP districts (Ballia/Deoria) with no solar–France association.
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2019, Q63**
+
+The Secretariat of the International Solar Alliance (ISA) is located at:
+
+A. Paris
+
+B. New Delhi
+
+C. Gurugram
+
+D. Nairobi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ISA HQ Gurugram — not Paris (launch city) or generic New Delhi.
+
+**Ans: C.** **ISA Secretariat is at Gurugram, Haryana**.
+
+**Trap:** **Paris** (COP21 launch) or **New Delhi** casual guess.
+
+</details>
+
+---
+
+**Q12. UPPCS Prelims pattern — National Solar Mission**
+
+The National Solar Mission is a pillar of which national climate/action framework?
+
+A. NAPCC (National Action Plan on Climate Change)
+
+B. Montreal Protocol
+
+C. Wildlife (Protection) Act, 1972
+
+D. Ramsar Convention
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** JNNSM/National Solar Mission (2010) sits under NAPCC (2008).
+
+**Ans: A.** The **National Solar Mission is under NAPCC**.
+
+**Trap:** Montreal (ozone) or WPA (wildlife) cross-topic distractors.
+
+</details>
+
+---
 
 ## Practice Zone
 
@@ -976,319 +1288,6 @@ D. Always cheaper than petrol with zero land use
 
 ---
 
-## Complete PYQ Bank (Topic 22)
-
-**Q1. UPPCS Prelims 2025, Q28**
-
-Major constituents of biogas include:
-
-1. Methane
-2. Butane
-3. Carbon dioxide
-4. Carbon monoxide
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Biogas from anaerobic digestion — CH₄ + CO₂; butane is an LPG trap.
-
-**Ans: A (1 and 3).** **Methane and carbon dioxide** are the major biogas constituents.
-
-**Trap:** **Butane** or **carbon monoxide** as main components.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q31**
-
-With reference to hydroelectric power in Northern India, consider the following statements:
-
-1. The Himalayan region has enormous hydroelectric potential.
-2. Eastern Uttar Pradesh and Bihar cannot utilise Himalayan hydro because the Himalayas to their north lie in Nepal.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Himalayan potential is real; statement 2 falsely excuses UP/Bihar — Indian hydro sits in Uttarakhand, HP, Sikkim, etc.
-
-**Ans: D (Only 1).** **Himalayan potential is enormous**; the Nepal excuse in statement 2 is false.
-
-**Trap:** Accepting statement 2 — UP benefits via Ganga/Yamuna systems from Indian Himalayan projects.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q109**
-
-With reference to the International Solar Alliance (ISA), consider the following statements:
-
-1. It is the first treaty-based intergovernmental organization headquartered in India and has 38 member countries.
-2. The World Solar Bank and One Sun One World One Grid (OSOWOG) initiatives have been undertaken under it.
-
-A. Only 1
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** OSOWOG/World Solar Bank linkage to ISA is correct; "exactly 38 members" is outdated.
-
-**Ans: A (Only 2).** **Only statement 2 is correct** — member count in statement 1 is obsolete.
-
-**Trap:** Rejecting OSOWOG because statement 1 sounds authoritative.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q72**
-
-With reference to the Ramganga Multipurpose Project, which of the following pairs is **correctly** matched?
-
-A. Location — Garhwal (Uttarakhand)
-
-B. Hydropower capacity — 198 MW
-
-C. Both A and B
-
-D. Neither A nor B
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ramganga teaching facts — Garhwal site and ~198 MW are standard correct anchors.
-
-**Ans: C.** **Garhwal location** and **~198 MW** are both correctly matched.
-
-**Trap:** Irrigated-area or dam-length figures in other booklet options — verify against ~198 MW + Garhwal core pair.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2022, Q20**
-
-The largest tidal energy potential in India is associated with the:
-
-A. North Circars coast
-
-B. Mannar coast
-
-C. Khambhat (Cambay) coast
-
-D. Kerala coast
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gulf of Khambhat has India's highest tidal range (~11 m) — potential, not installed capacity leader.
-
-**Ans: C.** **Gulf of Khambhat (Cambay)** has the largest tidal energy potential.
-
-**Trap:** Kerala or eastern coast names — Gujarat/Khambhat is the tested fact.
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2022, Q69**
-
-Which of the following is **NOT** a biomass energy source?
-
-A. Coal
-
-B. Nuclear fuel
-
-C. Gobar (cow dung)
-
-D. Wood
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Biomass = organic matter; coal is fossilised carbon; nuclear is uranium/thorium.
-
-**Ans: A.** **Coal is not biomass** — it is a fossil fuel.
-
-**Trap:** Nuclear is also non-biomass, but coal is the standard keyed distractor in this stem.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q132**
-
-Solar energy is converted into electric energy through—
-
-A. Dry cells
-
-B. Leclanché cells
-
-C. Voltaic cells
-
-D. Photovoltaic cells
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** PV direct conversion vs CSP/tidal/geothermal distractors.
-
-**Ans: D.** **Photovoltaic cells** convert solar energy into electricity.
-
-**Trap:** Dry cells, Leclanché, or Voltaic cell distractors — not solar-specific.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2022, Q139**
-
-Most sources of energy we use represent stored solar energy. Which of the following is **NOT** ultimately derived from the Sun's energy?
-
-A. Biomass energy
-
-B. Nuclear energy
-
-C. Wind energy
-
-D. Geothermal energy
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Solar-linked = biomass, wind; Earth's interior heat and nuclear fission are non-solar.
-
-**Ans: D.** **Geothermal energy** is not derived from the Sun.
-
-**Trap:** **Nuclear energy** is also non-solar — paper may list either; geothermal is the keyed answer here.
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2022, Q27**
-
-The first airport powered by solar energy in India is:
-
-A. Chennai
-
-B. Cochin
-
-C. Ahmedabad
-
-D. New Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Cochin International Airport = world's first fully solar-powered airport fact.
-
-**Ans: B.** **Cochin** was India's first solar-powered airport.
-
-**Trap:** **Diu** (100% solar UT) or **Ahmedabad** — different solar milestones.
-
-</details>
-
----
-
-**Q10. UPPCS Prelims 2020, Q46**
-
-In which district of Uttar Pradesh was a major solar power plant established in collaboration with France in 2018?
-
-A. Agra
-
-B. Ballia
-
-C. Deoria
-
-D. Mirzapur
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP–France solar collaboration maps to Mirzapur belt in standard PYQ framing.
-
-**Ans: D.** The major UP–France solar plant is linked with **Mirzapur**.
-
-**Trap:** Eastern UP districts (Ballia/Deoria) with no solar–France association.
-
-</details>
-
----
-
-**Q11. UPPCS Prelims 2019, Q63**
-
-The Secretariat of the International Solar Alliance (ISA) is located at:
-
-A. Paris
-
-B. New Delhi
-
-C. Gurugram
-
-D. Nairobi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ISA HQ Gurugram — not Paris (launch city) or generic New Delhi.
-
-**Ans: C.** **ISA Secretariat is at Gurugram, Haryana**.
-
-**Trap:** **Paris** (COP21 launch) or **New Delhi** casual guess.
-
-</details>
-
----
-
-**Q12. UPPCS Prelims pattern — National Solar Mission**
-
-The National Solar Mission is a pillar of which national climate/action framework?
-
-A. NAPCC (National Action Plan on Climate Change)
-
-B. Montreal Protocol
-
-C. Wildlife (Protection) Act, 1972
-
-D. Ramsar Convention
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** JNNSM/National Solar Mission (2010) sits under NAPCC (2008).
-
-**Ans: A.** The **National Solar Mission is under NAPCC**.
-
-**Trap:** Montreal (ozone) or WPA (wildlife) cross-topic distractors.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -1311,48 +1310,3 @@ D. Ramsar Convention
 | Green H₂ Mission 2019 | **January 2023** |
 | Nuclear = renewable in MCQs | **Usually non-renewable category** |
 | Singrauli = hydro | **Thermal power hub** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~442 (was ~908 old format) |
-| **Teaching blocks** | §22.1–22.7 (7 syllabus bullets) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 12 questions |
-| **Common Traps** | 13 |
-| **Inline PYQs** | 2025 Q28 (§22.3), Q31 (§22.6), Q109 (§22.1); 2024 Q72 (§22.6); 2022 Khambhat (§22.5) |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Solar Energy | §22.1 |
-| Wind Energy | §22.2 |
-| Biomass Energy | §22.3 |
-| Geothermal Energy | §22.4 |
-| Tidal Energy | §22.5 |
-| Small Hydro Projects | §22.6 |
-| Green Hydrogen | §22.7 |
-
-### Topic boundaries
-
-- **Climate change / NAPCC full detail** — Topic 10/15
-- **Pollution from stubble burning** — Topic 9
-- **MNRE org profile depth** — Topic 16/CA
-- **International climate treaties** — Topic 18
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q28 biogas | §22.3 inline |
-| 2025 Q31 Himalayan hydro | §22.6 inline |
-| 2025 Q109 ISA | §22.1 inline |
-| 2024 Q72 Ramganga | §22.6 inline |
-| 2022 Khambhat tidal | §22.5 inline |
-| 2022 Q139 NOT sun-derived | Practice Q18 + PYQ Bank |
-
-**File ready: YES**

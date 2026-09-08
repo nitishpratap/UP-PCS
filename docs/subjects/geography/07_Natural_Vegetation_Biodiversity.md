@@ -458,6 +458,787 @@ India reefs: **Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh**
 
 ---
 
+## Complete PYQ Bank — Natural Vegetation & Biodiversity Geography (2018–2025)
+
+**Q1. UPPCS Prelims 2018, Q25**
+'Vegetation is the true index of climate'. This statement is associated with
+
+A. Thornthwaite
+
+B. Koppen
+
+C. Trewartha
+
+D. Stamp
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Among the given climatologists, UPPCS keys this statement to Thornthwaite. Köppen is the letter-code climate system.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2018, Q44**
+According to the India State of Forest Report, 2017, what percentage of total geographical area of the country is under forest?
+
+A. 20.34
+
+B. 22.34
+
+C. 21.54
+
+D. 23.54
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Memorise the PYQ figure **21.54%** for ISFR 2017; later reports differ.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2018, Q45**
+When was 'Project Tiger' launched in India?
+
+A. 1968
+
+B. 1972
+
+C. 1984
+
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (among given options)** — True launch date is **1 April 1973**. Options omit 1973; many UPPCS keys pick 1972 (WLPA/census year). Remember **1973** for open-ended recall.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2018, Q49**
+Dachigam National Park is associated with which of the following?
+
+A. Musk Deer
+
+B. Golden Oriole
+
+C. Yellow-throated Marten
+
+D. Hangul or Kashmir Stag
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Hangul (Kashmir stag) is the flagship deer of Dachigam.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2018, Q54**
+Which of the following is NOT an example of in-situ conservation strategy?
+
+A. Biosphere reserve
+
+B. Botanical garden
+
+C. National Park
+
+D. Sacred groves
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Botanical gardens conserve plants outside wild habitats (ex-situ). Biosphere reserve, National Park and sacred groves are in-situ.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2018, Q58**
+Which of the following pairs is NOT correctly matched?
+
+Options:
+- A. Bandipur National Park — Karnataka
+- B. Manas Wildlife Sanctuary — Assam
+- C. Periyar Wildlife Sanctuary — Kerala
+- D. Simlipal National Park — Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Simlipal National Park is in **Odisha**, not Madhya Pradesh. A, B and C are correctly matched.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2019, Q1**
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+**List-I (Vegetation Type)**
+
+A. Maquis
+
+B. Fynbos
+
+C. Chaparral
+
+D. Matorral
+**List-II (Region)**
+
+1. California
+2. Mediterranean Sea Coastal Region
+3. South Africa
+4. Chile
+
+A. 2 3 1 4
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Maquis = Mediterranean; Fynbos = South Africa; Chaparral = California; Matorral = Chile.
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2019, Q3**
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+**List-I (Natural Vegetation)**
+
+A. Epiphytes
+
+B. Acacia
+
+C. Baobab
+
+D. Cedars
+**List-II (Region)**
+
+1. Mediterranean
+2. Equatorial
+3. Sahara
+4. Savanna
+
+A. 2 3 4 1
+
+B. 2 3 1 4
+
+C. 2 4 3 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Epiphytes = Equatorial; Acacia = Sahara; Baobab = Savanna; Cedars = Mediterranean.
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2019, Q58**
+Which of the following statement is NOT true?
+
+Options:
+- A. Species diversity increases from equator towards poles
+- B. Tropics harbour more species than temperate areas
+- C. Greatest biodiversity occurs in Amazonian rainforest
+- D. Species diversity decreases from temperate areas towards poles
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Statement A is false. Species diversity **decreases** from equator toward the poles. B, C and D are consistent with the latitudinal diversity gradient.
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2019, Q67**
+Arrange the following events in chronological order of their commencement and select correct answer from the codes given below:
+I. Wild Life (Protection) Act
+II. Biological Diversity Act
+III. Project Tiger
+IV. Project Elephant
+
+A. I, II, III, IV
+
+B. I, III, IV, II
+
+C. II, III, IV, I
+
+D. II, III, I, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1972 WLPA → 1973 Project Tiger → 1992 Project Elephant → 2002 Biological Diversity Act.
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2020, Q48**
+How many more 'Ramsar Sites' were added to Uttar Pradesh in January, 2020?
+
+A. 3
+
+B. 6
+
+C. 9
+
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Six additional Ramsar sites were added to UP in January 2020.
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2020, Q62**
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+**List-I (National Parks)**
+
+A. Indravati
+
+B. Mollem
+
+C. Kalesar
+
+D. Betla
+**List-II (States)**
+
+1. Jharkhand
+2. Haryana
+3. Goa
+4. Chhattisgarh
+
+A. 4 3 2 1
+
+B. 4 2 3 1
+
+C. 4 1 3 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Indravati–Chhattisgarh; Mollem–Goa; Kalesar–Haryana; Betla–Jharkhand.
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2020, Q77**
+Arrange the following events in chronological order of their commencement:
+I. Project Tiger
+II. Project Elephant
+III. Wildlife Protection Act
+IV. Biological Diversity Act
+
+Select the correct answer using the codes given below.
+
+A. I, II, III, IV
+
+B. II, I, IV, III
+
+C. III, I, II, IV
+
+D. III, IV, I, II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Wildlife Protection Act (1972) → Project Tiger (1973) → Project Elephant (1992) → Biological Diversity Act (2002).
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2021, Q17**
+Which of the following Ramsar site is NOT situated in Uttar Pradesh?
+
+A. Sur Sarovar
+
+B. Samaspur Bird Sanctuary
+
+C. Sarsai Nawar Jheel
+
+D. Surinsar–Mansar Lakes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Surinsar–Mansar Lakes are in Jammu & Kashmir. The other three are UP Ramsar sites.
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2021, Q140**
+Match List-I with List-II and select the correct answer using the codes given below the lists.
+**List-I (Biosphere)**
+
+A. Similipal
+
+B. Pachmarhi
+
+C. Nandadevi
+
+D. Nokrek
+**List-II (Location)**
+
+1. Uttarakhand
+2. Meghalaya
+3. Madhya Pradesh
+4. Odisha
+
+A. 4 3 2 1
+
+B. 4 3 1 2
+
+C. 1 3 4 2
+
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Similipal–Odisha; Pachmarhi–Madhya Pradesh; Nandadevi–Uttarakhand; Nokrek–Meghalaya.
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2022, Q36**
+Which of the following Wildlife Sanctuaries of Uttar Pradesh was established in 1975?
+
+A. Chambal
+
+B. Katarniaghat
+
+C. Raipur
+
+D. Kishanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Katarniaghat Wildlife Sanctuary (1975) is the year fact among the given options.
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2022, Q56**
+Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
+
+A. Bahraich
+
+B. Lakhimpur Kheri
+
+C. Pilibhit
+
+D. Sitapur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Dudhwa National Park is in Lakhimpur Kheri. Do not confuse with Pilibhit Tiger Reserve.
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2022, Q61**
+As per the India State of Forest Report–2021, which of the following States has registered the maximum increase in forest cover during the last two years?
+
+A. Kerala
+
+B. Assam
+
+C. Arunachal Pradesh
+
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Among the given options, Andhra Pradesh had the maximum increase in that ISFR comparison.
+</details>
+
+---
+
+**Q19. UPPCS Prelims 2022, Q73**
+Keibul Lamjao National Park is located in which lake?
+
+A. Loktak
+
+B. Dal
+
+C. Wular
+
+D. Kolleru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Keibul Lamjao is the floating national park on Manipur’s Loktak Lake.
+</details>
+
+---
+
+**Q20. UPPCS Prelims 2022, Q110**
+Match List-I with List-II and select the correct answer from the code given below.
+**List-I (Bio-reserve Sector)**
+
+A. Manas
+
+B. Sundarbans
+
+C. Nanda Devi
+
+D. Pachmarhi
+**List-II (State)**
+
+1. Madhya Pradesh
+2. Uttar Pradesh
+3. Assam
+4. West Bengal
+
+A. A-2, B-1, C-3, D-4
+
+B. A-4, B-3, C-2, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-3, B-4, C-2, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (paper key)** — Manas–Assam; Sundarbans–West Bengal; Pachmarhi–Madhya Pradesh. The paper keys Nanda Devi to Uttar Pradesh, but geographically Nanda Devi is in **Uttarakhand** — learn the true state.
+</details>
+
+---
+
+**Q21. UPPCS Prelims 2023, Q56**
+Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
+
+A. Sonbhadra
+
+B. Chandauli
+
+C. Bahraich
+
+D. Lakhimpur Kheri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Chandraprabha is in Chandauli.
+</details>
+
+---
+
+**Q22. UPPCS Prelims 2023, Q59**
+Consider the following statements with reference to Uttar Pradesh—
+
+1. Forests constitute about 12.8% of the total geographical area of the State.
+2. The districts of Jaunpur, Ghazipur and Ballia have no forest land.
+
+Select the correct answer using the code given below.
+
+A. Only 1
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (geography-standard key)** — Statement 1 is wrong for current ISFR (~6% forest cover, not 12.8%). Statement 2 is the traditional no-forest-land fact for those eastern plain districts.
+</details>
+
+---
+
+**Q23. UPPCS Prelims 2023, Q118**
+In National Parks, genetic diversity is maintained through—
+
+A. In-situ conservation
+
+B. Ex-situ conservation
+
+C. Gene pool
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — National Parks protect species in their natural habitats (in-situ).
+</details>
+
+---
+
+**Q24. UPPCS Prelims 2024, Q10**
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+**List-I**
+
+A. Simlipal
+
+B. Nokrek
+
+C. Agasthyamalai
+
+D. Manas
+**List-II**
+
+1. Kerala
+2. Odisha
+3. Assam
+4. Meghalaya
+
+A. 1 2 4 3
+
+B. 3 1 4 2
+
+C. 2 4 3 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Simlipal–Odisha; Nokrek–Meghalaya; Agasthyamalai–Kerala; Manas–Assam.
+</details>
+
+---
+
+**Q25. UPPCS Prelims 2024, Q19**
+Which of the following reasons caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?
+
+A. Increased industrial activities in the coastal regions
+
+B. Increase of 2°C temperature in the Indian Ocean
+
+C. Heavy marine pollution
+
+D. Decrease of temperature by 4°C in the Indian Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Mass bleaching is linked with ocean warming; the keyed option is about a 2°C rise, not cooling.
+</details>
+
+---
+
+**Q26. UPPCS Prelims 2025, Q8**
+As per the India State of Forest Report 2023, which of the following districts in Uttar Pradesh had forest over more than 20% of their total area?
+
+1. Bahraich
+2. Chandauli
+3. Shravasti
+
+Select the correct answer from the code given below.
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Chandauli and Shravasti crossed 20%; Bahraich did not.
+</details>
+
+---
+
+**Q27. UPPCS Prelims 2025, Q21**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+**Assertion (A):** In the Himalayan mountains different types of vegetation are found.
+
+**Reason (R):** In Himalayas, there are variations in climate with change in altitude.
+
+Options:
+- A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+- B. (A) is false, but (R) is true
+- C. (A) is true, but (R) is false
+- D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Both true; altitude-driven climate change explains stacked Himalayan vegetation belts.
+</details>
+
+---
+
+**Q28. UPPCS Prelims 2025, Q58**
+Which of the following Ramsar sites are NOT located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel
+2. Samaspur Bird Sanctuary
+3. Rudrasagar Lake
+4. Sultanpur National Park
+
+Select the correct answer from the code given below.
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rudrasagar (Tripura) and Sultanpur (Haryana) are outside UP. Sarsai Nawar and Samaspur are in UP.
+</details>
+
+---
+
+**Q29. UPPCS Prelims 2025, Q63**
+With reference to Brazil, which of the following statements is/are correct?
+
+1. The equatorial rainforests of Brazil are called "Selva".
+2. The fertile dark-coloured soil found there is known as "Terra Roxa".
+
+Select the correct answer from the code given below.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both statements are correct.
+</details>
+
+---
+
+**Q30. UPPCS Prelims 2025, Q90**
+Match List-I with List-II and select the correct answer using the code given below.
+**List-I**
+
+A. Dachigam
+
+B. Keoladeo
+
+C. Kanha
+
+D. Periyar
+**List-II**
+
+1. Madhya Pradesh
+2. Rajasthan
+3. Kerala
+4. Jammu and Kashmir
+
+A. 4 2 3 1
+
+B. 2 4 1 3
+
+C. 2 4 3 1
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Dachigam–J&K; Keoladeo–Rajasthan; Kanha–Madhya Pradesh; Periyar–Kerala.
+</details>
+
+---
+
+**Q31. UPPCS Prelims 2025, Q93**
+With reference to Mangrove Initiative for Shoreline Habitats and Tangible Income (MISHTI), which of the following statements is/are correct?
+
+1. It was initiated in 2019.
+2. It aims to restore mangrove forests.
+
+Select the correct answer from the code given below.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Only statement 2 is correct. MISHTI was announced in Union Budget 2023–24, not 2019.
+</details>
+
+---
+
+**Q32. UPPCS Prelims 2025, Q143**
+With reference to 'Operation Olivia', which of the following statements is/are correct?
+
+1. It is an initiative of Indian Coast Guard to protect Olive Ridley turtles along the coast of Odisha.
+2. Operation Olivia is carried out during the month of August which is the nesting time of Olive Ridley turtles.
+
+Select the correct answer from the code given below.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Statement 1 is correct. Statement 2 is false: nesting is mainly November–May, not August.
+</details>
+
+---
+
+**Q33. UPPCS Prelims 2025, Q144**
+Which of the following pairs is/are NOT correctly matched?
+**(Biosphere Reserve) — (State)**
+
+1. Nokrek — Manipur
+2. Manas — Assam
+3. Agasthyamalai — Kerala
+
+Select the correct answer from the code given below.
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Only Nokrek–Manipur is wrong. Nokrek is in Meghalaya. Manas–Assam and Agasthyamalai–Kerala are correctly matched.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -1536,787 +2317,6 @@ D. (A) is false, but (R) is true
 
 **Ans: A** — Moist deciduous teak–sal stands are the easier timber forests.
 
-</details>
-
----
-
-## Complete PYQ Bank — Natural Vegetation & Biodiversity Geography (2018–2025)
-
-**Q1. UPPCS Prelims 2018, Q25**
-'Vegetation is the true index of climate'. This statement is associated with
-
-A. Thornthwaite
-
-B. Koppen
-
-C. Trewartha
-
-D. Stamp
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Among the given climatologists, UPPCS keys this statement to Thornthwaite. Köppen is the letter-code climate system.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2018, Q44**
-According to the India State of Forest Report, 2017, what percentage of total geographical area of the country is under forest?
-
-A. 20.34
-
-B. 22.34
-
-C. 21.54
-
-D. 23.54
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Memorise the PYQ figure **21.54%** for ISFR 2017; later reports differ.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2018, Q45**
-When was 'Project Tiger' launched in India?
-
-A. 1968
-
-B. 1972
-
-C. 1984
-
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (among given options)** — True launch date is **1 April 1973**. Options omit 1973; many UPPCS keys pick 1972 (WLPA/census year). Remember **1973** for open-ended recall.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2018, Q49**
-Dachigam National Park is associated with which of the following?
-
-A. Musk Deer
-
-B. Golden Oriole
-
-C. Yellow-throated Marten
-
-D. Hangul or Kashmir Stag
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Hangul (Kashmir stag) is the flagship deer of Dachigam.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2018, Q54**
-Which of the following is NOT an example of in-situ conservation strategy?
-
-A. Biosphere reserve
-
-B. Botanical garden
-
-C. National Park
-
-D. Sacred groves
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Botanical gardens conserve plants outside wild habitats (ex-situ). Biosphere reserve, National Park and sacred groves are in-situ.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2018, Q58**
-Which of the following pairs is NOT correctly matched?
-
-Options:
-- A. Bandipur National Park — Karnataka
-- B. Manas Wildlife Sanctuary — Assam
-- C. Periyar Wildlife Sanctuary — Kerala
-- D. Simlipal National Park — Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Simlipal National Park is in **Odisha**, not Madhya Pradesh. A, B and C are correctly matched.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2019, Q1**
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-**List-I (Vegetation Type)**
-
-A. Maquis
-
-B. Fynbos
-
-C. Chaparral
-
-D. Matorral
-**List-II (Region)**
-
-1. California
-2. Mediterranean Sea Coastal Region
-3. South Africa
-4. Chile
-
-A. 2 3 1 4
-
-B. 4 3 2 1
-
-C. 3 4 1 2
-
-D. 4 2 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Maquis = Mediterranean; Fynbos = South Africa; Chaparral = California; Matorral = Chile.
-</details>
-
----
-
-**Q8. UPPCS Prelims 2019, Q3**
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-**List-I (Natural Vegetation)**
-
-A. Epiphytes
-
-B. Acacia
-
-C. Baobab
-
-D. Cedars
-**List-II (Region)**
-
-1. Mediterranean
-2. Equatorial
-3. Sahara
-4. Savanna
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 2 4 3 1
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Epiphytes = Equatorial; Acacia = Sahara; Baobab = Savanna; Cedars = Mediterranean.
-</details>
-
----
-
-**Q9. UPPCS Prelims 2019, Q58**
-Which of the following statement is NOT true?
-
-Options:
-- A. Species diversity increases from equator towards poles
-- B. Tropics harbour more species than temperate areas
-- C. Greatest biodiversity occurs in Amazonian rainforest
-- D. Species diversity decreases from temperate areas towards poles
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Statement A is false. Species diversity **decreases** from equator toward the poles. B, C and D are consistent with the latitudinal diversity gradient.
-</details>
-
----
-
-**Q10. UPPCS Prelims 2019, Q67**
-Arrange the following events in chronological order of their commencement and select correct answer from the codes given below:
-I. Wild Life (Protection) Act
-II. Biological Diversity Act
-III. Project Tiger
-IV. Project Elephant
-
-A. I, II, III, IV
-
-B. I, III, IV, II
-
-C. II, III, IV, I
-
-D. II, III, I, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1972 WLPA → 1973 Project Tiger → 1992 Project Elephant → 2002 Biological Diversity Act.
-</details>
-
----
-
-**Q11. UPPCS Prelims 2020, Q48**
-How many more 'Ramsar Sites' were added to Uttar Pradesh in January, 2020?
-
-A. 3
-
-B. 6
-
-C. 9
-
-D. 12
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Six additional Ramsar sites were added to UP in January 2020.
-</details>
-
----
-
-**Q12. UPPCS Prelims 2020, Q62**
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-**List-I (National Parks)**
-
-A. Indravati
-
-B. Mollem
-
-C. Kalesar
-
-D. Betla
-**List-II (States)**
-
-1. Jharkhand
-2. Haryana
-3. Goa
-4. Chhattisgarh
-
-A. 4 3 2 1
-
-B. 4 2 3 1
-
-C. 4 1 3 2
-
-D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Indravati–Chhattisgarh; Mollem–Goa; Kalesar–Haryana; Betla–Jharkhand.
-</details>
-
----
-
-**Q13. UPPCS Prelims 2020, Q77**
-Arrange the following events in chronological order of their commencement:
-I. Project Tiger
-II. Project Elephant
-III. Wildlife Protection Act
-IV. Biological Diversity Act
-
-Select the correct answer using the codes given below.
-
-A. I, II, III, IV
-
-B. II, I, IV, III
-
-C. III, I, II, IV
-
-D. III, IV, I, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Wildlife Protection Act (1972) → Project Tiger (1973) → Project Elephant (1992) → Biological Diversity Act (2002).
-</details>
-
----
-
-**Q14. UPPCS Prelims 2021, Q17**
-Which of the following Ramsar site is NOT situated in Uttar Pradesh?
-
-A. Sur Sarovar
-
-B. Samaspur Bird Sanctuary
-
-C. Sarsai Nawar Jheel
-
-D. Surinsar–Mansar Lakes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Surinsar–Mansar Lakes are in Jammu & Kashmir. The other three are UP Ramsar sites.
-</details>
-
----
-
-**Q15. UPPCS Prelims 2021, Q140**
-Match List-I with List-II and select the correct answer using the codes given below the lists.
-**List-I (Biosphere)**
-
-A. Similipal
-
-B. Pachmarhi
-
-C. Nandadevi
-
-D. Nokrek
-**List-II (Location)**
-
-1. Uttarakhand
-2. Meghalaya
-3. Madhya Pradesh
-4. Odisha
-
-A. 4 3 2 1
-
-B. 4 3 1 2
-
-C. 1 3 4 2
-
-D. 3 4 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Similipal–Odisha; Pachmarhi–Madhya Pradesh; Nandadevi–Uttarakhand; Nokrek–Meghalaya.
-</details>
-
----
-
-**Q16. UPPCS Prelims 2022, Q36**
-Which of the following Wildlife Sanctuaries of Uttar Pradesh was established in 1975?
-
-A. Chambal
-
-B. Katarniaghat
-
-C. Raipur
-
-D. Kishanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Katarniaghat Wildlife Sanctuary (1975) is the year fact among the given options.
-</details>
-
----
-
-**Q17. UPPCS Prelims 2022, Q56**
-Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
-
-A. Bahraich
-
-B. Lakhimpur Kheri
-
-C. Pilibhit
-
-D. Sitapur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Dudhwa National Park is in Lakhimpur Kheri. Do not confuse with Pilibhit Tiger Reserve.
-</details>
-
----
-
-**Q18. UPPCS Prelims 2022, Q61**
-As per the India State of Forest Report–2021, which of the following States has registered the maximum increase in forest cover during the last two years?
-
-A. Kerala
-
-B. Assam
-
-C. Arunachal Pradesh
-
-D. Andhra Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Among the given options, Andhra Pradesh had the maximum increase in that ISFR comparison.
-</details>
-
----
-
-**Q19. UPPCS Prelims 2022, Q73**
-Keibul Lamjao National Park is located in which lake?
-
-A. Loktak
-
-B. Dal
-
-C. Wular
-
-D. Kolleru
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Keibul Lamjao is the floating national park on Manipur’s Loktak Lake.
-</details>
-
----
-
-**Q20. UPPCS Prelims 2022, Q110**
-Match List-I with List-II and select the correct answer from the code given below.
-**List-I (Bio-reserve Sector)**
-
-A. Manas
-
-B. Sundarbans
-
-C. Nanda Devi
-
-D. Pachmarhi
-**List-II (State)**
-
-1. Madhya Pradesh
-2. Uttar Pradesh
-3. Assam
-4. West Bengal
-
-A. A-2, B-1, C-3, D-4
-
-B. A-4, B-3, C-2, D-1
-
-C. A-1, B-2, C-3, D-4
-
-D. A-3, B-4, C-2, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (paper key)** — Manas–Assam; Sundarbans–West Bengal; Pachmarhi–Madhya Pradesh. The paper keys Nanda Devi to Uttar Pradesh, but geographically Nanda Devi is in **Uttarakhand** — learn the true state.
-</details>
-
----
-
-**Q21. UPPCS Prelims 2023, Q56**
-Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
-
-A. Sonbhadra
-
-B. Chandauli
-
-C. Bahraich
-
-D. Lakhimpur Kheri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Chandraprabha is in Chandauli.
-</details>
-
----
-
-**Q22. UPPCS Prelims 2023, Q59**
-Consider the following statements with reference to Uttar Pradesh—
-
-1. Forests constitute about 12.8% of the total geographical area of the State.
-2. The districts of Jaunpur, Ghazipur and Ballia have no forest land.
-
-Select the correct answer using the code given below.
-
-A. Only 1
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (geography-standard key)** — Statement 1 is wrong for current ISFR (~6% forest cover, not 12.8%). Statement 2 is the traditional no-forest-land fact for those eastern plain districts.
-</details>
-
----
-
-**Q23. UPPCS Prelims 2023, Q118**
-In National Parks, genetic diversity is maintained through—
-
-A. In-situ conservation
-
-B. Ex-situ conservation
-
-C. Gene pool
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — National Parks protect species in their natural habitats (in-situ).
-</details>
-
----
-
-**Q24. UPPCS Prelims 2024, Q10**
-Match List-I with List-II and choose the correct answer using the codes given below the lists:
-**List-I**
-
-A. Simlipal
-
-B. Nokrek
-
-C. Agasthyamalai
-
-D. Manas
-**List-II**
-
-1. Kerala
-2. Odisha
-3. Assam
-4. Meghalaya
-
-A. 1 2 4 3
-
-B. 3 1 4 2
-
-C. 2 4 3 1
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Simlipal–Odisha; Nokrek–Meghalaya; Agasthyamalai–Kerala; Manas–Assam.
-</details>
-
----
-
-**Q25. UPPCS Prelims 2024, Q19**
-Which of the following reasons caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?
-
-A. Increased industrial activities in the coastal regions
-
-B. Increase of 2°C temperature in the Indian Ocean
-
-C. Heavy marine pollution
-
-D. Decrease of temperature by 4°C in the Indian Ocean
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Mass bleaching is linked with ocean warming; the keyed option is about a 2°C rise, not cooling.
-</details>
-
----
-
-**Q26. UPPCS Prelims 2025, Q8**
-As per the India State of Forest Report 2023, which of the following districts in Uttar Pradesh had forest over more than 20% of their total area?
-
-1. Bahraich
-2. Chandauli
-3. Shravasti
-
-Select the correct answer from the code given below.
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Chandauli and Shravasti crossed 20%; Bahraich did not.
-</details>
-
----
-
-**Q27. UPPCS Prelims 2025, Q21**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-**Assertion (A):** In the Himalayan mountains different types of vegetation are found.
-
-**Reason (R):** In Himalayas, there are variations in climate with change in altitude.
-
-Options:
-- A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-- B. (A) is false, but (R) is true
-- C. (A) is true, but (R) is false
-- D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Both true; altitude-driven climate change explains stacked Himalayan vegetation belts.
-</details>
-
----
-
-**Q28. UPPCS Prelims 2025, Q58**
-Which of the following Ramsar sites are NOT located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel
-2. Samaspur Bird Sanctuary
-3. Rudrasagar Lake
-4. Sultanpur National Park
-
-Select the correct answer from the code given below.
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Rudrasagar (Tripura) and Sultanpur (Haryana) are outside UP. Sarsai Nawar and Samaspur are in UP.
-</details>
-
----
-
-**Q29. UPPCS Prelims 2025, Q63**
-With reference to Brazil, which of the following statements is/are correct?
-
-1. The equatorial rainforests of Brazil are called "Selva".
-2. The fertile dark-coloured soil found there is known as "Terra Roxa".
-
-Select the correct answer from the code given below.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both statements are correct.
-</details>
-
----
-
-**Q30. UPPCS Prelims 2025, Q90**
-Match List-I with List-II and select the correct answer using the code given below.
-**List-I**
-
-A. Dachigam
-
-B. Keoladeo
-
-C. Kanha
-
-D. Periyar
-**List-II**
-
-1. Madhya Pradesh
-2. Rajasthan
-3. Kerala
-4. Jammu and Kashmir
-
-A. 4 2 3 1
-
-B. 2 4 1 3
-
-C. 2 4 3 1
-
-D. 4 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Dachigam–J&K; Keoladeo–Rajasthan; Kanha–Madhya Pradesh; Periyar–Kerala.
-</details>
-
----
-
-**Q31. UPPCS Prelims 2025, Q93**
-With reference to Mangrove Initiative for Shoreline Habitats and Tangible Income (MISHTI), which of the following statements is/are correct?
-
-1. It was initiated in 2019.
-2. It aims to restore mangrove forests.
-
-Select the correct answer from the code given below.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only statement 2 is correct. MISHTI was announced in Union Budget 2023–24, not 2019.
-</details>
-
----
-
-**Q32. UPPCS Prelims 2025, Q143**
-With reference to 'Operation Olivia', which of the following statements is/are correct?
-
-1. It is an initiative of Indian Coast Guard to protect Olive Ridley turtles along the coast of Odisha.
-2. Operation Olivia is carried out during the month of August which is the nesting time of Olive Ridley turtles.
-
-Select the correct answer from the code given below.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Statement 1 is correct. Statement 2 is false: nesting is mainly November–May, not August.
-</details>
-
----
-
-**Q33. UPPCS Prelims 2025, Q144**
-Which of the following pairs is/are NOT correctly matched?
-**(Biosphere Reserve) — (State)**
-
-1. Nokrek — Manipur
-2. Manas — Assam
-3. Agasthyamalai — Kerala
-
-Select the correct answer from the code given below.
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Only Nokrek–Manipur is wrong. Nokrek is in Meghalaya. Manas–Assam and Agasthyamalai–Kerala are correctly matched.
 </details>
 
 ---

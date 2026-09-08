@@ -782,6 +782,222 @@ Inscription years of *these* buildings stay here.
 
 ---
 
+## Complete PYQ Bank (Topic 3)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q49**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
+
+Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Gujarat victory, not Jahangir’s birth.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q57**
+
+Match List-I with List-II and select the correct answer using the code given below the lists.
+
+**List-I (Emperor)**
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan
+
+**List-II (City where tomb is situated)**
+1. Agra
+2. Lahore
+3. Delhi
+4. Kabul
+
+A. 4 3 2 1
+B. 3 4 1 2
+C. 3 4 2 1
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+### 2022
+
+**Q3. UPPCS Prelims 2022, Q4**
+
+Match List-I with List-II and select the correct answer from the code given below.
+
+**List-I (Building)**
+A. Sultan Garhi
+B. Red Palace
+C. Jamat Khana Masjid
+D. Dhai Din Ka Jhopra
+
+**List-II (Builder)**
+1. Alauddin Khilji
+2. Qutbuddin Aibak
+3. Iltutmish
+4. Balban
+
+A. 3, 4, 1, 2
+B. 3, 4, 2, 1
+C. 4, 3, 1, 2
+D. 4, 3, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q4. UPPCS Prelims 2022, Q80**
+
+In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
+
+A. Nagarjunakonda
+B. Ghantasala
+C. Amaravati
+D. Bodhgaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Amaravati.**
+
+</details>
+
+### 2020
+
+**Q5. UPPCS Prelims 2020, Q8**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** We have much more information about Cholas than their predecessors.
+
+**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is true but (R) is false
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+### 2019
+
+**Q6. UPPCS Prelims 2019, Q91**
+
+Arrange the following monuments in a chronological order and select the correct answer from the codes given below:
+
+I. Rabia Daurani's Tomb, Aurangabad
+II. Shershah Suri's Tomb, Sasaram
+III. Humayun's Tomb, Delhi
+IV. Aiala Mosque, Jaunpur
+
+A. I, II, IV, III
+B. IV, II, III, I
+C. II, I, III, IV
+D. III, IV, II, I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Q7. UPPCS Prelims 2019, Q109**
+
+Which of the following temples is also known as Khajuraho of Vidarbha?
+
+A. Markandeshwar
+B. Kailash
+C. Manudevi
+D. Bhimashankar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Markandeshwar.**
+
+</details>
+
+### 2018
+
+**Q8. UPPCS Prelims 2018, Q15**
+
+Arrange the following temples in a chronological order and select the correct answer from the codes given below:
+
+I. Brihdishwar temple
+II. Gangaikonda cholapuram temple
+III. Shore temple of Mahabalipuram
+IV. Sapt pagoda
+
+A. I, II, IV, III
+B. II, I, III, IV
+C. III, II, I, IV
+D. IV, III, I, II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+**Q9. UPPCS Prelims 2018, Q16**
+
+The inscription of Hathigumpha is the source of information about which king?
+
+A. Kharvela
+B. Ashok
+C. Harshavardhan
+D. Kanishka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Kharavela.**
+
+</details>
+
+**Q10. UPPCS Prelims 2018, Q19**
+
+Which of the following pairs is NOT correctly matched?
+
+A. Adina Masjid – Mandu
+B. Lal Darwaza Masjid – Jaunpur
+C. Dakhil Darwaza – Gaour
+D. Tin Darwaza – Ahmedabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Adina Masjid = Pandua, not Mandu.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **50 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1911,222 +2127,6 @@ A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A.** 1 and 2. **Omkareshwar** is Shiva, not Surya.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 3)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q49**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
-
-Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Gujarat victory, not Jahangir’s birth.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q57**
-
-Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (Emperor)**
-A. Babur
-B. Humayun
-C. Jahangir
-D. Shah Jahan
-
-**List-II (City where tomb is situated)**
-1. Agra
-2. Lahore
-3. Delhi
-4. Kabul
-
-A. 4 3 2 1
-B. 3 4 1 2
-C. 3 4 2 1
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-### 2022
-
-**Q3. UPPCS Prelims 2022, Q4**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Building)**
-A. Sultan Garhi
-B. Red Palace
-C. Jamat Khana Masjid
-D. Dhai Din Ka Jhopra
-
-**List-II (Builder)**
-1. Alauddin Khilji
-2. Qutbuddin Aibak
-3. Iltutmish
-4. Balban
-
-A. 3, 4, 1, 2
-B. 3, 4, 2, 1
-C. 4, 3, 1, 2
-D. 4, 3, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q4. UPPCS Prelims 2022, Q80**
-
-In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
-
-A. Nagarjunakonda
-B. Ghantasala
-C. Amaravati
-D. Bodhgaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Amaravati.**
-
-</details>
-
-### 2020
-
-**Q5. UPPCS Prelims 2020, Q8**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** We have much more information about Cholas than their predecessors.
-
-**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-### 2019
-
-**Q6. UPPCS Prelims 2019, Q91**
-
-Arrange the following monuments in a chronological order and select the correct answer from the codes given below:
-
-I. Rabia Daurani's Tomb, Aurangabad
-II. Shershah Suri's Tomb, Sasaram
-III. Humayun's Tomb, Delhi
-IV. Aiala Mosque, Jaunpur
-
-A. I, II, IV, III
-B. IV, II, III, I
-C. II, I, III, IV
-D. III, IV, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q7. UPPCS Prelims 2019, Q109**
-
-Which of the following temples is also known as Khajuraho of Vidarbha?
-
-A. Markandeshwar
-B. Kailash
-C. Manudevi
-D. Bhimashankar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Markandeshwar.**
-
-</details>
-
-### 2018
-
-**Q8. UPPCS Prelims 2018, Q15**
-
-Arrange the following temples in a chronological order and select the correct answer from the codes given below:
-
-I. Brihdishwar temple
-II. Gangaikonda cholapuram temple
-III. Shore temple of Mahabalipuram
-IV. Sapt pagoda
-
-A. I, II, IV, III
-B. II, I, III, IV
-C. III, II, I, IV
-D. IV, III, I, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q9. UPPCS Prelims 2018, Q16**
-
-The inscription of Hathigumpha is the source of information about which king?
-
-A. Kharvela
-B. Ashok
-C. Harshavardhan
-D. Kanishka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Kharavela.**
-
-</details>
-
-**Q10. UPPCS Prelims 2018, Q19**
-
-Which of the following pairs is NOT correctly matched?
-
-A. Adina Masjid – Mandu
-B. Lal Darwaza Masjid – Jaunpur
-C. Dakhil Darwaza – Gaour
-D. Tin Darwaza – Ahmedabad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Adina Masjid = Pandua, not Mandu.
 
 </details>
 

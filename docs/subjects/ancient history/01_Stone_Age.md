@@ -655,6 +655,52 @@ D. V.N. Mishra
 
 ---
 
+## Complete PYQ Bank (Topic 1)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2020
+
+**Q1. UPPCS Prelims 2020, Q10**
+
+Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
+
+A. Madho Swaroop Vatsa
+B. H.D. Sankalia
+C. V.S. Wakankar
+D. V.N. Mishra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Wakankar, 1957–58. Vats = Harappan; Sankalia = Langhnaj/other sites; Mishra = later Bhimbetka research.
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q2. UPPCS Prelims 2018, Q18**
+
+Which among the following sites provides evidence of domestication of animals in the Mesolithic period?
+
+A. Odai
+B. Bori
+C. Bagor
+D. Lakhnia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Bagor (Rajasthan). Bori is a claimed early Paleolithic site (Maharashtra), not the Mesolithic domestication key.
+
+</details>
+
+### Years with zero Stone Age hits in local `pyq/`
+
+UPPCS Prelims **2025, 2024, 2023, 2022, 2021, 2019** — no question in `pyq/` maps to this topic (searched: Paleolithic, Mesolithic, Neolithic, Chalcolithic, Bhimbetka, Bagor, Burzahom, Mehrgarh, Chirand, Koldihwa, Mahagara, microlith, Wakankar, rock painting/shelter, OCP as Stone Age).
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **48 questions** (20 syllabus bullets). Answers in `<details>`. ≥60% multi-statement / application. Includes A/R, Match-List, chronology, NOT-matched.
@@ -1717,52 +1763,6 @@ D. Neither 1 nor 2
 **Ans: C** — Sankalia ≠ only Langhnaj; Jwalapuram ≠ Jorwe.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 1)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2020
-
-**Q1. UPPCS Prelims 2020, Q10**
-
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
-D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Wakankar, 1957–58. Vats = Harappan; Sankalia = Langhnaj/other sites; Mishra = later Bhimbetka research.
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q2. UPPCS Prelims 2018, Q18**
-
-Which among the following sites provides evidence of domestication of animals in the Mesolithic period?
-
-A. Odai
-B. Bori
-C. Bagor
-D. Lakhnia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Bagor (Rajasthan). Bori is a claimed early Paleolithic site (Maharashtra), not the Mesolithic domestication key.
-
-</details>
-
-### Years with zero Stone Age hits in local `pyq/`
-
-UPPCS Prelims **2025, 2024, 2023, 2022, 2021, 2019** — no question in `pyq/` maps to this topic (searched: Paleolithic, Mesolithic, Neolithic, Chalcolithic, Bhimbetka, Bagor, Burzahom, Mehrgarh, Chirand, Koldihwa, Mahagara, microlith, Wakankar, rock painting/shelter, OCP as Stone Age).
 
 ---
 

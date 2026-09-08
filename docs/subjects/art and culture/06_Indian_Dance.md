@@ -286,6 +286,51 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 ---
 
+## Complete PYQ Bank (Topic 6)
+
+**Local `pyq/` 2018–2025:** no UPPCS question whose *primary* topic is Indian dance.
+
+**Trap:** UPPCS **2018 Q13** option “Kathak” is a Shukla Yajurveda *samhita* name, **not** the dance.
+
+**External high-yield (UPSC — not in local `pyq/`)UPSC Prelims 2014 (Sattriya) — not yet in local pyq/**
+
+With reference to the famous Sattriya dance, consider the following statements:
+
+1. Sattriya is a combination of music, dance and drama.
+2. It is a centuries-old living tradition of Vaishnavites of Assam.
+3. It is performed only during festive occasions.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Not restricted to festivals.
+
+</details>
+
+**UPSC Prelims 2012 (match — pattern still used in UPPCS)**
+
+How many of the following are correctly matched?
+
+1. Bharatanatyam — Tamil Nadu
+2. Mohiniyattam — Kerala
+3. Sattriya — Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** All three. This is the SNA state grid.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1012,51 +1057,6 @@ D. Sattvika — inner emotion
 <summary>Show answer</summary>
 
 **Ans: C** — Natya = drama. Nritta = pure dance.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 6)
-
-**Local `pyq/` 2018–2025:** no UPPCS question whose *primary* topic is Indian dance.
-
-**Trap:** UPPCS **2018 Q13** option “Kathak” is a Shukla Yajurveda *samhita* name, **not** the dance.
-
-**External high-yield (UPSC — not in local `pyq/`)UPSC Prelims 2014 (Sattriya) — not yet in local pyq/**
-
-With reference to the famous Sattriya dance, consider the following statements:
-
-1. Sattriya is a combination of music, dance and drama.
-2. It is a centuries-old living tradition of Vaishnavites of Assam.
-3. It is performed only during festive occasions.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 1 and 2 only
-C. 1, 2 and 3
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Not restricted to festivals.
-
-</details>
-
-**UPSC Prelims 2012 (match — pattern still used in UPPCS)**
-
-How many of the following are correctly matched?
-
-1. Bharatanatyam — Tamil Nadu
-2. Mohiniyattam — Kerala
-3. Sattriya — Assam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** All three. This is the SNA state grid.
 
 </details>
 

@@ -246,6 +246,83 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 
 ---
 
+## Complete PYQ Bank (Topic 10)
+
+
+**Q1. UPPCS Prelims 2025, Q12**
+
+Match List-I (Disciple) with List-II (Guru):
+
+| List-I | List-II |
+|--------|---------|
+| A. Kabir | 1. Guru Nanak Dev |
+| B. Amir Khusrau | 2. Swami Ramananda |
+| C. Surdas | 3. Nizamuddin Auliya |
+| D. Mardana | 4. Vallabhacharya |
+
+*Row order in the table is not the answer code.*
+
+A. 3 2 4 1 |
+
+B. 3 2 1 4 |
+
+C. 2 3 4 1 |
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (2-3-4-1)Facts:** A–2 Kabir–Ramananda | B–3 Amir Khusrau–Nizamuddin | C–4 Surdas–Vallabhacharya | D–1 Mardana–Guru Nanak Dev
+
+**Trap:Mardana** was Nanak's **disciple** (rababi), not his guru.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2025, Q74**
+
+Arrange: 1. Guru Nanak 2. Chaitanya Mahaprabhu 3. Namdev 4. Kabir
+
+A. 3, 4, 2, 1 |
+
+B. 4, 3, 1, 2 |
+
+C. 3, 4, 1, 2 |
+
+D. 4, 3, 2, 1
+
+<details><summary>Show answer</summary>
+
+**Ans: C (3-4-1-2)Order:** Namdev → Kabir → Guru Nanak → Chaitanya Mahaprabhu.
+
+**Trap:** Nanak belongs **after** Namdev and Kabir in the Bhakti timeline.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2021, Q67**
+
+At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
+
+A. Amritsar |
+
+B. Lahore |
+
+C. Firozpur |
+
+D. Multan
+
+<details><summary>Show answer</summary>
+
+**Ans: A (Amritsar)Why:Adalat-i-Ala** was the highest court of **Ranjit Singh's** Sikh Empire at **Amritsar**.
+
+**Trap:** This is **19th-c. Sikh Empire** history, not Guru-period Punjab.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **38 questions** · answers in `<details>`
@@ -951,83 +1028,6 @@ D. Tegh Bahadur 1606 → Arjan 1675
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 10)
-
-
-**Q1. UPPCS Prelims 2025, Q12**
-
-Match List-I (Disciple) with List-II (Guru):
-
-| List-I | List-II |
-|--------|---------|
-| A. Kabir | 1. Guru Nanak Dev |
-| B. Amir Khusrau | 2. Swami Ramananda |
-| C. Surdas | 3. Nizamuddin Auliya |
-| D. Mardana | 4. Vallabhacharya |
-
-*Row order in the table is not the answer code.*
-
-A. 3 2 4 1 |
-
-B. 3 2 1 4 |
-
-C. 2 3 4 1 |
-
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (2-3-4-1)Facts:** A–2 Kabir–Ramananda | B–3 Amir Khusrau–Nizamuddin | C–4 Surdas–Vallabhacharya | D–1 Mardana–Guru Nanak Dev
-
-**Trap:Mardana** was Nanak's **disciple** (rababi), not his guru.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2025, Q74**
-
-Arrange: 1. Guru Nanak 2. Chaitanya Mahaprabhu 3. Namdev 4. Kabir
-
-A. 3, 4, 2, 1 |
-
-B. 4, 3, 1, 2 |
-
-C. 3, 4, 1, 2 |
-
-D. 4, 3, 2, 1
-
-<details><summary>Show answer</summary>
-
-**Ans: C (3-4-1-2)Order:** Namdev → Kabir → Guru Nanak → Chaitanya Mahaprabhu.
-
-**Trap:** Nanak belongs **after** Namdev and Kabir in the Bhakti timeline.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2021, Q67**
-
-At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
-
-A. Amritsar |
-
-B. Lahore |
-
-C. Firozpur |
-
-D. Multan
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Amritsar)Why:Adalat-i-Ala** was the highest court of **Ranjit Singh's** Sikh Empire at **Amritsar**.
-
-**Trap:** This is **19th-c. Sikh Empire** history, not Guru-period Punjab.
 
 </details>
 

@@ -520,6 +520,331 @@ D. Muzaffar Shah of Gujarat
 
 ---
 
+## Complete PYQ Bank (Topic 11)
+
+**Q1. UPPCS Prelims 2025, Q3**
+
+Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
+Reason (R): Turki was the official language of the Mughal Court.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Memoir = Turki. Court = **Persian**.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q49**
+
+Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
+Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cause = **Gujarat victory**, not Jahangir’s birth.
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q57**
+
+Match List-I with List-II.
+
+**List-I (Emperor)**
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan
+
+**List-II (City of tomb)**
+1. Agra
+2. Lahore
+3. Delhi
+4. Kabul
+
+A. 4 3 2 1
+B. 3 4 1 2
+C. 3 4 2 1
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 4 3 2 1.**
+
+</details>
+
+**Q4. UPPCS Prelims 2025, Q95**
+
+Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.
+Reason (R): The Jagirs comprised the land under the direct control of the State.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Direct control = **Khalsa**, not jagir.
+
+</details>
+
+**Q5. UPPCS Prelims 2024, Q4**
+
+Consider the following statements with reference to Bairam Khan:
+
+1. Akbar gave the title of Khan-i-Khana to Bairam Khan.
+2. This title was not given at the time of appointment of Bairam Khan as Vazir of Empire.
+
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 2.Humayun** conferred Khan-i-Khanan.
+
+</details>
+
+**Q6. UPPCS Prelims 2024, Q132**
+
+Arrange in chronological order:
+
+1. Murder of Abul Fazl
+2. Death of Sheikh Mubarak
+3. Death of Faizi
+4. Death of Daniyal
+
+A. 2, 1, 4, 3
+B. 3, 2, 1, 4
+C. 2, 3, 1, 4
+D. 2, 4, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Faizi 1595 → Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604.
+
+</details>
+
+**Q7. UPPCS Prelims 2023, Q34**
+
+Which of the following is **not** correctly matched?
+
+A. Iltutmish — Father of Razia
+B. Shah Turkan — Wife of Iltutmish
+C. Hamida Banu Begum — Wife of Alauddin Khilji
+D. Gulbadan Begum — Daughter of Babur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Hamida Banu = Humayun’s wife.
+
+</details>
+
+**Q8. UPPCS Prelims 2023, Q37**
+
+Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
+
+A. Azizuddin Khan
+B. Talib Amuli
+C. Mulla Abdul Baqi
+D. Mirza Muhammad Ali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Azizuddin Khan.**
+
+</details>
+
+**Q9. UPPCS Prelims 2022, Q43**
+
+Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?
+
+A. Khwaja Ziya-ud-din Nakhshabi
+B. Abdur Razzak
+C. Shihabuddin-al-Umari
+D. Amir Khusro
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Nakhshabi.**
+
+</details>
+
+**Q10. UPPCS Prelims 2022, Q146**
+
+Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?
+
+A. Shah Jahan
+B. Jahangir
+C. Akbar
+D. Humayun
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Shah Jahan.**
+
+</details>
+
+**Q11. UPPCS Prelims 2019, Q12**
+
+Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.
+Reason (R): As in Sher Shah's currency, the chief copper coin of Akbar's time was the Dam.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q12. UPPCS Prelims 2019, Q15**
+
+Which one of the following is NOT the characteristics of Iqta System?
+
+A. Iqta was a revenue collection system
+B. Siyasatnama was the source of information for Iqta System
+C. Revenue from Iqta was directly deposited in Sultan's account
+D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+**Q13. UPPCS Prelims 2019, Q16**
+
+Which of the following is NOT correctly matched?
+
+A. Tabaqat-i-Nasiri — Minhaj-us-Siraj
+B. Tarikh-i-Firozshahi — Shams-i-Siraj Afif
+C. Tughlaqnama — Ibn Battuta
+D. Humayunnama — Gulbadan Begam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** *Tughlaqnama* = **Amir Khusrau**.
+
+</details>
+
+**Q14. UPPCS Prelims 2019, Q89**
+
+Who among the following kings had given patronage to Tansen before Akbar?
+
+A. Raja Ramchandra Singh of Bhata
+B. Rajbahadur of Malwa
+C. Uday Singh of Mewar
+D. Muzaffar Shah of Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Ramchandra of Bhata.**
+
+</details>
+
+**Q15. UPPCS Prelims 2019, Q91**
+
+Arrange the following monuments in chronological order.
+
+I. Rabia Daurani's Tomb, Aurangabad
+II. Shershah Suri's Tomb, Sasaram
+III. Humayun's Tomb, Delhi
+IV. Atala Mosque, Jaunpur
+
+A. I, II, IV, III
+B. IV, II, III, I
+C. II, I, III, IV
+D. III, IV, II, I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Atala (~1408) → Sasaram (~1545) → Humayun (~1570) → Bibi ka Maqbara (~1660).
+
+</details>
+
+**Q16. UPPCS Prelims 2019, Q92**
+
+With reference to Mansabdari system, which of the statements is/are correct?
+
+1. Mansabdari system was the official nobility of the state, started by Akbar.
+2. A Mansabdari was hereditary.
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 1 only.**
+
+</details>
+
+**Q17. UPPCS Prelims 2018, Q19**
+
+Which of the following pairs is NOT correctly matched?
+
+A. Adina Masjid – Mandu
+B. Lal Darwaza Masjid – Jaunpur
+C. Dakhil Darwaza – Gaur
+D. Tin Darwaza – Ahmedabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Adina Masjid = Pandua (Bengal), not Mandu.
+
+</details>
+
+**Q18. UPPCS Prelims 2018, Q90**
+
+Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
+Reason (R): The early Chishti sufis were fond of musical assemblies called 'sama'.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both true. Sama does not explain the court translation bureau.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1242,331 +1567,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A.** Babur = Kabul. Humayun = Delhi.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 11)
-
-**Q1. UPPCS Prelims 2025, Q3**
-
-Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
-Reason (R): Turki was the official language of the Mughal Court.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Memoir = Turki. Court = **Persian**.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q49**
-
-Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
-Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cause = **Gujarat victory**, not Jahangir’s birth.
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q57**
-
-Match List-I with List-II.
-
-**List-I (Emperor)**
-A. Babur
-B. Humayun
-C. Jahangir
-D. Shah Jahan
-
-**List-II (City of tomb)**
-1. Agra
-2. Lahore
-3. Delhi
-4. Kabul
-
-A. 4 3 2 1
-B. 3 4 1 2
-C. 3 4 2 1
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 4 3 2 1.**
-
-</details>
-
-**Q4. UPPCS Prelims 2025, Q95**
-
-Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.
-Reason (R): The Jagirs comprised the land under the direct control of the State.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Direct control = **Khalsa**, not jagir.
-
-</details>
-
-**Q5. UPPCS Prelims 2024, Q4**
-
-Consider the following statements with reference to Bairam Khan:
-
-1. Akbar gave the title of Khan-i-Khana to Bairam Khan.
-2. This title was not given at the time of appointment of Bairam Khan as Vazir of Empire.
-
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 2.Humayun** conferred Khan-i-Khanan.
-
-</details>
-
-**Q6. UPPCS Prelims 2024, Q132**
-
-Arrange in chronological order:
-
-1. Murder of Abul Fazl
-2. Death of Sheikh Mubarak
-3. Death of Faizi
-4. Death of Daniyal
-
-A. 2, 1, 4, 3
-B. 3, 2, 1, 4
-C. 2, 3, 1, 4
-D. 2, 4, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Faizi 1595 → Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604.
-
-</details>
-
-**Q7. UPPCS Prelims 2023, Q34**
-
-Which of the following is **not** correctly matched?
-
-A. Iltutmish — Father of Razia
-B. Shah Turkan — Wife of Iltutmish
-C. Hamida Banu Begum — Wife of Alauddin Khilji
-D. Gulbadan Begum — Daughter of Babur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Hamida Banu = Humayun’s wife.
-
-</details>
-
-**Q8. UPPCS Prelims 2023, Q37**
-
-Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
-
-A. Azizuddin Khan
-B. Talib Amuli
-C. Mulla Abdul Baqi
-D. Mirza Muhammad Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Azizuddin Khan.**
-
-</details>
-
-**Q9. UPPCS Prelims 2022, Q43**
-
-Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?
-
-A. Khwaja Ziya-ud-din Nakhshabi
-B. Abdur Razzak
-C. Shihabuddin-al-Umari
-D. Amir Khusro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Nakhshabi.**
-
-</details>
-
-**Q10. UPPCS Prelims 2022, Q146**
-
-Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?
-
-A. Shah Jahan
-B. Jahangir
-C. Akbar
-D. Humayun
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Shah Jahan.**
-
-</details>
-
-**Q11. UPPCS Prelims 2019, Q12**
-
-Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.
-Reason (R): As in Sher Shah's currency, the chief copper coin of Akbar's time was the Dam.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q12. UPPCS Prelims 2019, Q15**
-
-Which one of the following is NOT the characteristics of Iqta System?
-
-A. Iqta was a revenue collection system
-B. Siyasatnama was the source of information for Iqta System
-C. Revenue from Iqta was directly deposited in Sultan's account
-D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q13. UPPCS Prelims 2019, Q16**
-
-Which of the following is NOT correctly matched?
-
-A. Tabaqat-i-Nasiri — Minhaj-us-Siraj
-B. Tarikh-i-Firozshahi — Shams-i-Siraj Afif
-C. Tughlaqnama — Ibn Battuta
-D. Humayunnama — Gulbadan Begam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** *Tughlaqnama* = **Amir Khusrau**.
-
-</details>
-
-**Q14. UPPCS Prelims 2019, Q89**
-
-Who among the following kings had given patronage to Tansen before Akbar?
-
-A. Raja Ramchandra Singh of Bhata
-B. Rajbahadur of Malwa
-C. Uday Singh of Mewar
-D. Muzaffar Shah of Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Ramchandra of Bhata.**
-
-</details>
-
-**Q15. UPPCS Prelims 2019, Q91**
-
-Arrange the following monuments in chronological order.
-
-I. Rabia Daurani's Tomb, Aurangabad
-II. Shershah Suri's Tomb, Sasaram
-III. Humayun's Tomb, Delhi
-IV. Atala Mosque, Jaunpur
-
-A. I, II, IV, III
-B. IV, II, III, I
-C. II, I, III, IV
-D. III, IV, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Atala (~1408) → Sasaram (~1545) → Humayun (~1570) → Bibi ka Maqbara (~1660).
-
-</details>
-
-**Q16. UPPCS Prelims 2019, Q92**
-
-With reference to Mansabdari system, which of the statements is/are correct?
-
-1. Mansabdari system was the official nobility of the state, started by Akbar.
-2. A Mansabdari was hereditary.
-
-A. 1 only
-B. Both 1 and 2
-C. 2 only
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 1 only.**
-
-</details>
-
-**Q17. UPPCS Prelims 2018, Q19**
-
-Which of the following pairs is NOT correctly matched?
-
-A. Adina Masjid – Mandu
-B. Lal Darwaza Masjid – Jaunpur
-C. Dakhil Darwaza – Gaur
-D. Tin Darwaza – Ahmedabad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Adina Masjid = Pandua (Bengal), not Mandu.
-
-</details>
-
-**Q18. UPPCS Prelims 2018, Q90**
-
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
-Reason (R): The early Chishti sufis were fond of musical assemblies called 'sama'.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both true. Sama does not explain the court translation bureau.
 
 </details>
 

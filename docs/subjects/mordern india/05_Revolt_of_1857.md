@@ -627,6 +627,121 @@ In this region sepoys, peasants and taluqdars rose together more than in the Sou
 
 ---
 
+## Complete PYQ Bank (Topic 5)
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q127**
+
+Consider the following events and arrange them in correct chronological order.
+
+1. Acquisition of Awadh by the British
+2. Ilbert Bill Controversy
+3. Indigo Revolt
+4. Second Anglo-Afghan War
+
+Select the correct answer from the code given below:
+
+Options:
+A. 1, 3, 4, 2
+B. 3, 1, 2, 4
+C. 3, 1, 4, 2
+D. 1, 3, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Awadh **1856** is this topic’s fact (cause of 1857).
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q2. UPPCS Prelims 2024, Q148**
+
+Consider the following statements:
+
+1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
+2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
+
+Which of the above statements is/are correct?
+
+Options:
+A. Only 2
+B. Neither 1 nor 2
+C. Only 1
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Only 1** — Stmt 2 is Lapse: heir **not** recognised.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q3. UPPCS Prelims 2023, Q40**
+
+Which one of the following pairs (**Place of the Revolt of 1857 — Start of Rebellion**) is **not** correctly matched?
+
+Options:
+A. Barrackpore — 29 March 1857
+B. Meerut — 10 May 1857
+C. Lucknow — 4 June 1857
+D. Jhansi — 11 May 1857
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Jhansi rose in **June 1857**.
+
+</details>
+
+**Q4. UPPCS Prelims 2023, Q46**
+
+Who was the leader of the revolt in **Bareilly (Uttar Pradesh)** during the Revolt of 1857?
+
+Options:
+A. Hazrat Mahal
+B. Khan Bahadur Khan
+C. Kunwar Singh
+D. Nana Saheb
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Khan Bahadur Khan**
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Nana Saheb led Kanpur, not Bareilly — drop any option that keeps statement 4.
+
+**Q. UKPCS Prelims 2025, Q72**
+
+Consider the following statements:
+
+1. Syed Ahmad Khan wrote ‘Causes of the Indian Revolt’.
+2. Mangal Pande was hanged on March 29, 1857.
+3. Hazrat Mahal led the revolt at Lucknow.
+4. Nana Saheb led the revolt at Bareilly.
+
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 2, 3 and 4
+D. Only 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Statements 1–3 are keyed correct; statement 4 is wrong because Nana Saheb led Kanpur while Khan Bahadur Khan led Bareilly. Many textbooks date Mangal Pandey’s hanging to 8 April 1857 (29 March as the Barrackpore rising day) — follow the provisional key for this paper.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **55 questions.** Ghatnachakra + UPPCS pattern mix.
@@ -1813,121 +1928,6 @@ D. Neither 1 nor 2
 **Logic:** Witness and correspondent name pairs from the 1857 narrative.
 
 **Ans: C.** Ghalib (Agra-born, Delhi) witnessed the rising; Russell was *The Times* correspondent.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 5)
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q127**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Acquisition of Awadh by the British
-2. Ilbert Bill Controversy
-3. Indigo Revolt
-4. Second Anglo-Afghan War
-
-Select the correct answer from the code given below:
-
-Options:
-A. 1, 3, 4, 2
-B. 3, 1, 2, 4
-C. 3, 1, 4, 2
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Awadh **1856** is this topic’s fact (cause of 1857).
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q2. UPPCS Prelims 2024, Q148**
-
-Consider the following statements:
-
-1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
-2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
-
-Which of the above statements is/are correct?
-
-Options:
-A. Only 2
-B. Neither 1 nor 2
-C. Only 1
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Only 1** — Stmt 2 is Lapse: heir **not** recognised.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q3. UPPCS Prelims 2023, Q40**
-
-Which one of the following pairs (**Place of the Revolt of 1857 — Start of Rebellion**) is **not** correctly matched?
-
-Options:
-A. Barrackpore — 29 March 1857
-B. Meerut — 10 May 1857
-C. Lucknow — 4 June 1857
-D. Jhansi — 11 May 1857
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Jhansi rose in **June 1857**.
-
-</details>
-
-**Q4. UPPCS Prelims 2023, Q46**
-
-Who was the leader of the revolt in **Bareilly (Uttar Pradesh)** during the Revolt of 1857?
-
-Options:
-A. Hazrat Mahal
-B. Khan Bahadur Khan
-C. Kunwar Singh
-D. Nana Saheb
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Khan Bahadur Khan**
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Nana Saheb led Kanpur, not Bareilly — drop any option that keeps statement 4.
-
-**Q. UKPCS Prelims 2025, Q72**
-
-Consider the following statements:
-
-1. Syed Ahmad Khan wrote ‘Causes of the Indian Revolt’.
-2. Mangal Pande was hanged on March 29, 1857.
-3. Hazrat Mahal led the revolt at Lucknow.
-4. Nana Saheb led the revolt at Bareilly.
-
-A. Only 1 and 2
-B. Only 2 and 3
-C. Only 2, 3 and 4
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Series B provisional key).** Statements 1–3 are keyed correct; statement 4 is wrong because Nana Saheb led Kanpur while Khan Bahadur Khan led Bareilly. Many textbooks date Mangal Pandey’s hanging to 8 April 1857 (29 March as the Barrackpore rising day) — follow the provisional key for this paper.
 
 </details>
 

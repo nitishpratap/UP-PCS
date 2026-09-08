@@ -642,6 +642,219 @@ India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture f
 
 ---
 
+## Complete PYQ Bank
+
+**Instructions:** Answers under `<details>`. Options sit on separate lines.
+
+**Q1. UPPCS Prelims 2024, Q34**
+
+Which of the following crops is predominantly grown under plantation agriculture?
+
+**Options:**
+
+A. Wheat
+
+B. Tea
+
+C. Rice
+
+D. Maize
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2023, Q64**
+
+To whom does the credit go for the development of coconut and sugarcane agriculture in the Philippines?
+
+**Options:**
+
+A. French
+
+B. Britishers
+
+C. Hollanders
+
+D. Spanish and Americans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2022, Q142**
+
+Which one of the following is correctly matched?
+
+**Options:**
+
+A. Gujarat — Tea
+
+B. Uttar Pradesh — Jute
+
+C. Kerala — Rubber
+
+D. Assam — Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kerala rubber. Tea ≠ Gujarat; jute ≠ UP; wheat ≠ Assam.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2021, Q45**
+
+Which one of the following is NOT a major coco producer country?
+
+**Options:**
+
+A. Latvia
+
+B. Cameroon
+
+C. Ghana
+
+D. Ivory Coast
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Cocoa belt is West Africa. Latvia is the odd one.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2020, Q88**
+
+In Malaysia, the 'Kinta Valley' is famous for
+
+**Options:**
+
+A. Rubber Production
+
+B. Tea Production
+
+C. Tin Production
+
+D. Coffee Production
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2020, Q72**
+
+In which of the following regions of the world, the production of citrus fruits is well developed?
+
+**Options:**
+
+A. Between Kangra and Dhauladhar ranges
+
+B. Between Pir Panjal and Himadri ranges
+
+C. Mediterranean regions
+
+D. Equatorial regions
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2018, Q28**
+
+Arrange the following coffee producing countries in descending order of their coffee production (2016, quantity) and select the correct answer from the codes given below:
+
+A. Colombia B. Vietnam C. Brazil D. Indonesia
+
+**Options:**
+
+A. D, C, B, A
+
+B. C, B, A, D
+
+C. B, D, C, A
+
+D. C, A, B, D
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Brazil > Vietnam > Colombia > Indonesia.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2018, Q56**
+
+Norman Borlaug was given Nobel Prize in which field?
+
+**Options:**
+
+A. Agriculture
+
+B. Economics
+
+C. Medicine
+
+D. Peace
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Peace (1970), not “Nobel in Agriculture”.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2018, Q57**
+
+Which of the following pairs is NOT correctly matched?
+
+**Options:**
+
+A. Renneting — Cheese
+
+B. Genetic Engineering — Plasmids
+
+C. Golden rice — Vitamin A
+
+D. Ozone layer — Troposphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Ozone is stratosphere. Golden rice–Vitamin A is correct.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -2017,219 +2230,6 @@ D. Viticulture — tea estates
 <summary>Show answer</summary>
 
 **Ans: D** — Viticulture = **grapes**.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Answers under `<details>`. Options sit on separate lines.
-
-**Q1. UPPCS Prelims 2024, Q34**
-
-Which of the following crops is predominantly grown under plantation agriculture?
-
-**Options:**
-
-A. Wheat
-
-B. Tea
-
-C. Rice
-
-D. Maize
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2023, Q64**
-
-To whom does the credit go for the development of coconut and sugarcane agriculture in the Philippines?
-
-**Options:**
-
-A. French
-
-B. Britishers
-
-C. Hollanders
-
-D. Spanish and Americans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2022, Q142**
-
-Which one of the following is correctly matched?
-
-**Options:**
-
-A. Gujarat — Tea
-
-B. Uttar Pradesh — Jute
-
-C. Kerala — Rubber
-
-D. Assam — Wheat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kerala rubber. Tea ≠ Gujarat; jute ≠ UP; wheat ≠ Assam.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2021, Q45**
-
-Which one of the following is NOT a major coco producer country?
-
-**Options:**
-
-A. Latvia
-
-B. Cameroon
-
-C. Ghana
-
-D. Ivory Coast
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Cocoa belt is West Africa. Latvia is the odd one.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2020, Q88**
-
-In Malaysia, the 'Kinta Valley' is famous for
-
-**Options:**
-
-A. Rubber Production
-
-B. Tea Production
-
-C. Tin Production
-
-D. Coffee Production
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2020, Q72**
-
-In which of the following regions of the world, the production of citrus fruits is well developed?
-
-**Options:**
-
-A. Between Kangra and Dhauladhar ranges
-
-B. Between Pir Panjal and Himadri ranges
-
-C. Mediterranean regions
-
-D. Equatorial regions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2018, Q28**
-
-Arrange the following coffee producing countries in descending order of their coffee production (2016, quantity) and select the correct answer from the codes given below:
-
-A. Colombia B. Vietnam C. Brazil D. Indonesia
-
-**Options:**
-
-A. D, C, B, A
-
-B. C, B, A, D
-
-C. B, D, C, A
-
-D. C, A, B, D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Brazil > Vietnam > Colombia > Indonesia.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2018, Q56**
-
-Norman Borlaug was given Nobel Prize in which field?
-
-**Options:**
-
-A. Agriculture
-
-B. Economics
-
-C. Medicine
-
-D. Peace
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Peace (1970), not “Nobel in Agriculture”.
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2018, Q57**
-
-Which of the following pairs is NOT correctly matched?
-
-**Options:**
-
-A. Renneting — Cheese
-
-B. Genetic Engineering — Plasmids
-
-C. Golden rice — Vitamin A
-
-D. Ozone layer — Troposphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Ozone is stratosphere. Golden rice–Vitamin A is correct.
-
 </details>
 
 ---

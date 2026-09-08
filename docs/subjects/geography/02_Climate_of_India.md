@@ -813,6 +813,431 @@ D. Neither 1 nor 2
 
 ---
 
+## Complete PYQ Bank
+
+> **Answers hidden** — click *Show answer* under each question to reveal.
+> **Coverage:** 20 UPPCS Prelims hits (2018–2025) for this topic — **2025 → 2018**.
+
+**Q1. UPPCS Prelims 2025, Q45**
+With reference to the ozone layer, which of the following statements is/are correct?
+
+1. The ozone layer protects the Earth's surface from ultraviolet radiation coming from the Sun.
+2. Ozone depletion has been linked to chlorofluorocarbons (CFCs).
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both true. Protective ozone is in the **stratosphere**. CFCs linked to depletion. **D** drops CFCs; **A** drops UV shield.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q27**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Relative humidity decreases with increasing air temperature.
+
+**Reason (R):** Absolute humidity increases with increasing evaporation.
+
+Select the correct answer from the codes given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+D. (A) is true, but (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — RH falls because warmer air has higher saturation capacity. Evaporation raising absolute humidity is separately true and does **not** explain A. **C** over-links.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024, Q33**
+Consider the following statements:
+
+1. Chinook is a warm and dry wind.
+2. Foehn wind occurs in the Alps.
+Which of the above statements is/are correct?
+
+A. Both 1 and 2
+
+B. Only 1
+
+C. Only 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Both are warm/dry downslope winds; Foehn = Alps, Chinook = Rockies analogue.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q60**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Jet streams discovered during World War II are high altitude easterly winds.
+
+**Reason (R):** Jet streams flow with a speed of 300–500 km/hour.
+
+Select the correct answer from the codes given below:
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+D. (A) is true, but (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Mid-latitude jets are **westerly**. TEJ over India is a summer exception. Speed in R is acceptable.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2024, Q73**
+Consider the following statements with reference to cultivated area of some countries of the world:
+
+1. In comparison to USA, China and Japan, India has highest geographical area under cultivation.
+2. India's location in tropical monsoon region helps diversified cropping all through the year.
+Which of the above statements is/are correct?
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Only (2): tropical monsoon supports kharif + rabi + zaid. (1) is false as stated.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2023, Q52**
+The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Thermosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Stratosphere. **A** = weather-layer trap.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2023, Q54**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** The Tamil Nadu coast remains dry during the South-West monsoon season.
+
+**Reason (R):** The Tamil Nadu coast is situated parallel to the Bay of Bengal branch of the South-West monsoon and it lies in the rain shadow area of the Arabian Sea branch of the South-West monsoon during the monsoon season.
+
+Select the correct answer using the code given below:
+
+A. (A) is true but (R) is false
+
+B. (A) is false but (R) is true
+
+C. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Parallel coast + Arabian Sea rain shadow.
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2023, Q67**
+With reference to El Niño, which of the following statements is/are correct?
+
+1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
+2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Warm water **suppresses** upwelling → plankton **falls**. **C** is the trap.
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2023, Q68**
+What causes winds to deflect towards the left in the Southern Hemisphere?
+
+A. Temperature
+
+B. Coriolis Force
+
+C. Magnetic Field
+
+D. Pressure
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Left in SH, right in NH. A/D drive wind, they do not cause the leftward deflection.
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2022, Q22**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Agra and Darjeeling are located on nearly the same latitude, but the temperature in January in Agra is about 16°C whereas it is only 4°C in Darjeeling.
+
+**Reason (R):** Temperature decreases with height due to thinner air compared to places in the plains.
+
+A. (A) is false but (R) is true
+
+B. (A) is true but (R) is false
+
+C. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Lapse rate / altitude on nearly the same latitude.
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2022, Q138**
+The Earth's atmosphere is mainly heated by which one of the following?
+
+A. Long-wave terrestrial radiation
+
+B. Scattered solar radiation
+
+C. Reflected solar radiation
+
+D. Short-wave solar radiation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Troposphere heated from below by long-wave IR. **D** mostly reaches the surface without heating air directly.
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2021, Q30**
+Which one of the following pairs is NOT correctly matched?
+
+A. Leveche — Spain
+
+B. Brickfielder — Australia
+
+C. Black roller — North America
+
+D. Shamal — Austria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Shamal = Arabia / Persian Gulf, **not Austria**.
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2021, Q36**
+Which one of the following causes is responsible for rainfall during winters in the north-western part of India?
+
+A. Retreating Monsoon
+
+B. Cyclonic depression
+
+C. Western disturbances
+
+D. South-West Monsoon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — WD. A/D are monsoon-season systems.
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2021, Q66**
+Which one of the following reflects back more sunlight as compared to other three?
+
+A. Sand Desert
+
+B. Paddy crop land
+
+C. Land covered with fresh snow
+
+D. Prairie land
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Highest albedo among the options.
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2020, Q74**
+Match List-I with List-II:
+**List-I (Tropical cyclones):** A. Baguios B. Hurricanes C. Typhoons D. Willy-Willies
+**List-II (Country):** 1. Australia 2. China 3. Philippines 4. United States of America
+
+A. 3 4 1 2
+
+B. 3 4 2 1
+
+C. 2 3 4 1
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **3 4 2 1**: Baguios–Philippines, Hurricanes–USA, Typhoons–China, Willy-Willies–Australia.
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2019, Q78**
+Match List-I with List-II:
+**List-I (Different name of tropical cyclone):** A. Willy-Willies B. Taifu C. Baguio D. Hurricanes
+**List-II (Country):** 1. Philippines 2. Australia 3. Japan 4. U.S.A.
+
+A. 3 4 1 2
+
+B. 2 3 4 1
+
+C. 1 3 2 4
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **2 3 1 4**: Australia, Japan, Philippines, USA.
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2019, Q80**
+Which of the following is NOT correctly matched? (Wind) (Country)
+
+A. Santa Ana — California
+
+B. Haboob — Sudan
+
+C. Yamo — Japan
+
+D. Mistral — Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Mistral = southern **France**, not Australia.
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2019, Q83**
+The winter rains caused by Western disturbance in North Western Plain of India gradually decreases from:
+
+A. East to West
+
+B. West to East
+
+C. North to South
+
+D. South to North
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Enter from the west; Punjab/Haryana wetter than east UP.
+</details>
+
+---
+
+**Q19. UPPCS Prelims 2018, Q25**
+'Vegetation is the true index of climate'. This statement is associated with:
+
+A. Thornthwaite
+
+B. Koppen
+
+C. Trewartha
+
+D. Stamp
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Thornthwaite moisture/vegetation index. Köppen = letter codes; Trewartha = modified Köppen.
+</details>
+
+---
+
+**Q20. UPPCS Prelims 2018, Q52**
+The maximum concentration of Ozone is found in which of the following?
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Exosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Same fact as 2023 Q52. **A** is the weather-layer trap. Ozone = **stratosphere**.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -2320,429 +2745,6 @@ D. (A) is false, but (R) is true
 </details>
 
 ---
-
-## Complete PYQ Bank
-
-> **Answers hidden** — click *Show answer* under each question to reveal.
-> **Coverage:** 20 UPPCS Prelims hits (2018–2025) for this topic — **2025 → 2018**.
-
-**Q1. UPPCS Prelims 2025, Q45**
-With reference to the ozone layer, which of the following statements is/are correct?
-
-1. The ozone layer protects the Earth's surface from ultraviolet radiation coming from the Sun.
-2. Ozone depletion has been linked to chlorofluorocarbons (CFCs).
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both true. Protective ozone is in the **stratosphere**. CFCs linked to depletion. **D** drops CFCs; **A** drops UV shield.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2024, Q27**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Relative humidity decreases with increasing air temperature.
-
-**Reason (R):** Absolute humidity increases with increasing evaporation.
-
-Select the correct answer from the codes given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — RH falls because warmer air has higher saturation capacity. Evaporation raising absolute humidity is separately true and does **not** explain A. **C** over-links.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2024, Q33**
-Consider the following statements:
-
-1. Chinook is a warm and dry wind.
-2. Foehn wind occurs in the Alps.
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Only 1
-
-C. Only 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Both are warm/dry downslope winds; Foehn = Alps, Chinook = Rockies analogue.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q60**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Jet streams discovered during World War II are high altitude easterly winds.
-
-**Reason (R):** Jet streams flow with a speed of 300–500 km/hour.
-
-Select the correct answer from the codes given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Mid-latitude jets are **westerly**. TEJ over India is a summer exception. Speed in R is acceptable.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2024, Q73**
-Consider the following statements with reference to cultivated area of some countries of the world:
-
-1. In comparison to USA, China and Japan, India has highest geographical area under cultivation.
-2. India's location in tropical monsoon region helps diversified cropping all through the year.
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Only (2): tropical monsoon supports kharif + rabi + zaid. (1) is false as stated.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2023, Q52**
-The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
-
-A. Troposphere
-
-B. Mesosphere
-
-C. Stratosphere
-
-D. Thermosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Stratosphere. **A** = weather-layer trap.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2023, Q54**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** The Tamil Nadu coast remains dry during the South-West monsoon season.
-
-**Reason (R):** The Tamil Nadu coast is situated parallel to the Bay of Bengal branch of the South-West monsoon and it lies in the rain shadow area of the Arabian Sea branch of the South-West monsoon during the monsoon season.
-
-Select the correct answer using the code given below:
-
-A. (A) is true but (R) is false
-
-B. (A) is false but (R) is true
-
-C. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Parallel coast + Arabian Sea rain shadow.
-</details>
-
----
-
-**Q8. UPPCS Prelims 2023, Q67**
-With reference to El Niño, which of the following statements is/are correct?
-
-1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
-2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Warm water **suppresses** upwelling → plankton **falls**. **C** is the trap.
-</details>
-
----
-
-**Q9. UPPCS Prelims 2023, Q68**
-What causes winds to deflect towards the left in the Southern Hemisphere?
-
-A. Temperature
-
-B. Coriolis Force
-
-C. Magnetic Field
-
-D. Pressure
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Left in SH, right in NH. A/D drive wind, they do not cause the leftward deflection.
-</details>
-
----
-
-**Q10. UPPCS Prelims 2022, Q22**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Agra and Darjeeling are located on nearly the same latitude, but the temperature in January in Agra is about 16°C whereas it is only 4°C in Darjeeling.
-
-**Reason (R):** Temperature decreases with height due to thinner air compared to places in the plains.
-
-A. (A) is false but (R) is true
-
-B. (A) is true but (R) is false
-
-C. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Lapse rate / altitude on nearly the same latitude.
-</details>
-
----
-
-**Q11. UPPCS Prelims 2022, Q138**
-The Earth's atmosphere is mainly heated by which one of the following?
-
-A. Long-wave terrestrial radiation
-
-B. Scattered solar radiation
-
-C. Reflected solar radiation
-
-D. Short-wave solar radiation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Troposphere heated from below by long-wave IR. **D** mostly reaches the surface without heating air directly.
-</details>
-
----
-
-**Q12. UPPCS Prelims 2021, Q30**
-Which one of the following pairs is NOT correctly matched?
-
-A. Leveche — Spain
-
-B. Brickfielder — Australia
-
-C. Black roller — North America
-
-D. Shamal — Austria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Shamal = Arabia / Persian Gulf, **not Austria**.
-</details>
-
----
-
-**Q13. UPPCS Prelims 2021, Q36**
-Which one of the following causes is responsible for rainfall during winters in the north-western part of India?
-
-A. Retreating Monsoon
-
-B. Cyclonic depression
-
-C. Western disturbances
-
-D. South-West Monsoon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — WD. A/D are monsoon-season systems.
-</details>
-
----
-
-**Q14. UPPCS Prelims 2021, Q66**
-Which one of the following reflects back more sunlight as compared to other three?
-
-A. Sand Desert
-
-B. Paddy crop land
-
-C. Land covered with fresh snow
-
-D. Prairie land
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Highest albedo among the options.
-</details>
-
----
-
-**Q15. UPPCS Prelims 2020, Q74**
-Match List-I with List-II:
-**List-I (Tropical cyclones):** A. Baguios B. Hurricanes C. Typhoons D. Willy-Willies
-**List-II (Country):** 1. Australia 2. China 3. Philippines 4. United States of America
-
-A. 3 4 1 2
-
-B. 3 4 2 1
-
-C. 2 3 4 1
-
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **3 4 2 1**: Baguios–Philippines, Hurricanes–USA, Typhoons–China, Willy-Willies–Australia.
-</details>
-
----
-
-**Q16. UPPCS Prelims 2019, Q78**
-Match List-I with List-II:
-**List-I (Different name of tropical cyclone):** A. Willy-Willies B. Taifu C. Baguio D. Hurricanes
-**List-II (Country):** 1. Philippines 2. Australia 3. Japan 4. U.S.A.
-
-A. 3 4 1 2
-
-B. 2 3 4 1
-
-C. 1 3 2 4
-
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — **2 3 1 4**: Australia, Japan, Philippines, USA.
-</details>
-
----
-
-**Q17. UPPCS Prelims 2019, Q80**
-Which of the following is NOT correctly matched? (Wind) (Country)
-
-A. Santa Ana — California
-
-B. Haboob — Sudan
-
-C. Yamo — Japan
-
-D. Mistral — Australia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Mistral = southern **France**, not Australia.
-</details>
-
----
-
-**Q18. UPPCS Prelims 2019, Q83**
-The winter rains caused by Western disturbance in North Western Plain of India gradually decreases from:
-
-A. East to West
-
-B. West to East
-
-C. North to South
-
-D. South to North
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Enter from the west; Punjab/Haryana wetter than east UP.
-</details>
-
----
-
-**Q19. UPPCS Prelims 2018, Q25**
-'Vegetation is the true index of climate'. This statement is associated with:
-
-A. Thornthwaite
-
-B. Koppen
-
-C. Trewartha
-
-D. Stamp
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Thornthwaite moisture/vegetation index. Köppen = letter codes; Trewartha = modified Köppen.
-</details>
-
----
-
-**Q20. UPPCS Prelims 2018, Q52**
-The maximum concentration of Ozone is found in which of the following?
-
-A. Troposphere
-
-B. Mesosphere
-
-C. Stratosphere
-
-D. Exosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Same fact as 2023 Q52. **A** is the weather-layer trap. Ozone = **stratosphere**.
-</details>
 
 ## Current Affairs (this topic)
 

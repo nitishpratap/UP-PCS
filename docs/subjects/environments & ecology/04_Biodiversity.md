@@ -428,6 +428,196 @@ D. Neither 1 nor 2
 
 ---
 
+## Complete PYQ Bank (Topic 4)
+
+**Q1. UPPCS Prelims 2024, Q33**
+
+Consider the following statements regarding biodiversity hotspots:
+
+1. They have high species endemism.
+2. They have experienced significant habitat loss.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q2. UPPCS Prelims 2023, Q100**
+
+Which of the following is the **most important factor** responsible for the loss of biodiversity?
+
+A. Genetic assimilation
+
+B. Control of predators
+
+C. Destruction of natural habitat
+
+D. Pest control
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q3. UPPCS Prelims 2023, Q118**
+
+In National Parks, genetic diversity is maintained through—
+
+A. In-situ conservation
+
+B. Ex-situ conservation
+
+C. Gene pool
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q4. UPPCS Prelims 2019, Q139**
+
+The most biodiversity rich area in India is
+
+A. Gangetic plain
+
+B. Trans Himalayas
+
+C. Western Ghats
+
+D. Central India
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q5. UPPCS Prelims 2019, Q58**
+
+Which of the following statement is NOT true?
+
+A. Species diversity increases from equator towards poles
+
+B. Tropics harbour more species than temperate areas
+
+C. Greatest biodiversity occurs in Amazon rainforest
+
+D. Species diversity decreases from temperate areas towards poles
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q6. UPPCS Prelims 2018, Q50**
+
+When the world biodiversity Day is observed?
+
+A. March 22
+
+B. May 22
+
+C. June 23
+
+D. April 16
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q7. UPPCS Prelims 2025, Q61**
+
+With reference to lichens, which of the following statements is/are correct?
+
+1. Lichens are very good indicators of pollution.
+2. Lichens grow well in polluted areas.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — Indicator species fact; full teaching also in Topic 2 succession block.
+
+</details>
+
+**Q8. UPSC Prelims 2012 — pattern**
+
+How many biodiversity hotspots are located in India?
+
+A. 2
+
+B. 4
+
+C. 6
+
+D. 8
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q9. UPSC Prelims 2014 — pattern**
+
+Which is the most effective strategy for biodiversity conservation?
+
+A. Ex-situ only
+
+B. In-situ protected areas
+
+C. Captive breeding only
+
+D. Commercial farming
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q10. UPSC Prelims 2015 — pattern**
+
+Lion-tailed macaque is endemic to:
+
+A. Himalaya
+
+B. Western Ghats
+
+C. Sundarbans
+
+D. Thar Desert
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | multi-statement + A/R + match + NOT-matched
@@ -960,196 +1150,6 @@ D. Keystone species loss alone
 <details><summary>Show answer</summary>
 
 **Ans: A** — UPPCS 2023 Q100.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 4)
-
-**Q1. UPPCS Prelims 2024, Q33**
-
-Consider the following statements regarding biodiversity hotspots:
-
-1. They have high species endemism.
-2. They have experienced significant habitat loss.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q2. UPPCS Prelims 2023, Q100**
-
-Which of the following is the **most important factor** responsible for the loss of biodiversity?
-
-A. Genetic assimilation
-
-B. Control of predators
-
-C. Destruction of natural habitat
-
-D. Pest control
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3. UPPCS Prelims 2023, Q118**
-
-In National Parks, genetic diversity is maintained through—
-
-A. In-situ conservation
-
-B. Ex-situ conservation
-
-C. Gene pool
-
-D. None of the above
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4. UPPCS Prelims 2019, Q139**
-
-The most biodiversity rich area in India is
-
-A. Gangetic plain
-
-B. Trans Himalayas
-
-C. Western Ghats
-
-D. Central India
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q5. UPPCS Prelims 2019, Q58**
-
-Which of the following statement is NOT true?
-
-A. Species diversity increases from equator towards poles
-
-B. Tropics harbour more species than temperate areas
-
-C. Greatest biodiversity occurs in Amazon rainforest
-
-D. Species diversity decreases from temperate areas towards poles
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6. UPPCS Prelims 2018, Q50**
-
-When the world biodiversity Day is observed?
-
-A. March 22
-
-B. May 22
-
-C. June 23
-
-D. April 16
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7. UPPCS Prelims 2025, Q61**
-
-With reference to lichens, which of the following statements is/are correct?
-
-1. Lichens are very good indicators of pollution.
-2. Lichens grow well in polluted areas.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Indicator species fact; full teaching also in Topic 2 succession block.
-
-</details>
-
-**Q8. UPSC Prelims 2012 — pattern**
-
-How many biodiversity hotspots are located in India?
-
-A. 2
-
-B. 4
-
-C. 6
-
-D. 8
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9. UPSC Prelims 2014 — pattern**
-
-Which is the most effective strategy for biodiversity conservation?
-
-A. Ex-situ only
-
-B. In-situ protected areas
-
-C. Captive breeding only
-
-D. Commercial farming
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10. UPSC Prelims 2015 — pattern**
-
-Lion-tailed macaque is endemic to:
-
-A. Himalaya
-
-B. Western Ghats
-
-C. Sundarbans
-
-D. Thar Desert
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
 
 </details>
 

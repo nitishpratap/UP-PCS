@@ -643,6 +643,328 @@ Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expre
 | Waterway | **NW-1** on the Ganga (Haldia–Prayagraj) |
 | DFC pull | Western UP / NCR toward the Dadri–JNPT freight spine |
 
+---
+
+## Complete PYQ Bank
+
+**Instructions:** Answers are under **Show answer** spoilers. Read the full stem before opening.
+
+**Q1. UPPCS Prelims 2025, Q150**
+Which of the following pairs is/are correctly matched? (Railway Zone) - (Headquarter)
+
+1. Northern Railway - New Delhi
+2. North Eastern Railway - Gorakhpur
+3. South Eastern Railway - Cuttack
+
+A. Only 1 and 2
+
+B. Only 3
+
+C. Only 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** - SER HQ is Garden Reach, Kolkata, not Cuttack.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q136**
+With reference to the New Pamban Bridge, which of the following statements is/are correct?
+
+1. It has been constructed by Rail Vikas Nigam Limited, a Navratna PSU under the Ministry of Railways.
+2. It is India's first vertical lift railway sea bridge.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q44**
+With reference to the Atal Tunnel, which of the following statements is/are correct?
+
+1. This tunnel is the world's longest highway tunnel.
+2. This tunnel is built in the Pir Panjal range of the Himalayas.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** - Only Pir Panjal statement accepted.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q90**
+With reference to "FLY91", which of the following statements is/are correct?
+
+1. It is a newly launched airline in India.
+2. Its inaugural flight took off from Manohar International Airport on 18th March, 2024.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2023, Q136**
+With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?
+
+1. PM Gati Shakti National Master Plan was launched in 2022.
+2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics infrastructure.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** - Launch was 2021; seven-engines claim is true.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2023, Q71**
+How many railway stations have been identified for modernization under the Amrit Bharat Station Scheme in Uttar Pradesh as on February 2023?
+
+A. 57
+
+B. 82
+
+C. 123
+
+D. 149
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** - Scheme = station modernisation; UP identified stations = 149.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2023, Q60**
+Which of the following (Port - Country) is not correctly matched?
+
+A. Rotterdam - Netherlands
+
+B. Igarka - China
+
+C. Montevideo - Uruguay
+
+D. Jakarta - Indonesia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** - Igarka is in Russia.
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2022, Q27**
+The first airport powered by solar energy in India is-
+
+A. Chennai
+
+B. Cochin
+
+C. Ahmedabad
+
+D. New Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2020, Q71**
+First ever containership from Kolkata Port to Agartala was sent through which one of the following Ports of Bangladesh in July 2020?
+
+A. Benapole
+
+B. Maloti
+
+C. Payra
+
+D. Chattogram (Chittagong)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2020, Q61**
+Which of the following Airports in Uttar Pradesh has been granted International Status on 24th June, 2020 by Union Cabinet of India?
+
+A. Agra Airport
+
+B. Prayagraj Airport
+
+C. Gorakhpur Airport
+
+D. Kushinagar Airport
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2020, Q31**
+In August 2020, Railway Museum in India was dedicated to the nation at which of the following places?
+
+A. Hubballi
+
+B. Mysore
+
+C. Silvasa
+
+D. Chittaranjan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2019, Q125**
+The phenomenon used in optical fibre for transmission of light energy is
+
+A. Total internal reflection
+
+B. Diffraction
+
+C. Scattering
+
+D. Refraction
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2019, Q34**
+Cross border oil pipeline inaugurated by P.M. Modi in September 2019 connects which of the following cities?
+
+A. Motihari and Amlekhganj
+
+B. Darbhanga and Amlekhganj
+
+C. Motihari and Kathmandu
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2018, Q3**
+'Purvanchal Express Way' in Uttar Pradesh will not pass through which of the following cities?
+
+A. Faizabad
+
+B. Basti
+
+C. Azamgarh
+
+D. Mau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 2018 official key for that wording. The **built** expressway **does** pass Mau. Basti is not on the main alignment.
+</details>
+
+---
+
+**PYQ15. UPPCS Prelims 2025, Q50**
+Match List-I with List-II and choose the correct answer using the code given below the lists.
+**List-I (Port)**
+
+A. Paradip
+
+B. Tuticorin
+
+C. Kakinada
+
+D. Alappuzha
+**List-II (State)**
+
+1. Tamil Nadu
+2. Kerala
+3. Odisha
+4. Andhra Pradesh
+
+A. A-1, B-3, C-4, D-2
+
+B. A-3, B-1, C-2, D-4
+
+C. A-3, B-1, C-4, D-2
+
+D. A-1, B-3, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Paradip–Odisha; Tuticorin–Tamil Nadu; Kakinada–Andhra Pradesh; Alappuzha–Kerala (code 3 1 4 2). Paper option letters vary across booklets; fact the **state matches**.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -1574,326 +1896,6 @@ D. A-4, B-1, C-2, D-3
 <summary>Show answer</summary>
 
 **Ans: A** — PMGSY rural roads; Sagarmala ports; NHAI highways; Gati Shakti 2021 multimodal plan.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Answers are under **Show answer** spoilers. Read the full stem before opening.
-
-**Q1. UPPCS Prelims 2025, Q150**
-Which of the following pairs is/are correctly matched? (Railway Zone) - (Headquarter)
-
-1. Northern Railway - New Delhi
-2. North Eastern Railway - Gorakhpur
-3. South Eastern Railway - Cuttack
-
-A. Only 1 and 2
-
-B. Only 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** - SER HQ is Garden Reach, Kolkata, not Cuttack.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q136**
-With reference to the New Pamban Bridge, which of the following statements is/are correct?
-
-1. It has been constructed by Rail Vikas Nigam Limited, a Navratna PSU under the Ministry of Railways.
-2. It is India's first vertical lift railway sea bridge.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q44**
-With reference to the Atal Tunnel, which of the following statements is/are correct?
-
-1. This tunnel is the world's longest highway tunnel.
-2. This tunnel is built in the Pir Panjal range of the Himalayas.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** - Only Pir Panjal statement accepted.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q90**
-With reference to "FLY91", which of the following statements is/are correct?
-
-1. It is a newly launched airline in India.
-2. Its inaugural flight took off from Manohar International Airport on 18th March, 2024.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q5. UPPCS Prelims 2023, Q136**
-With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?
-
-1. PM Gati Shakti National Master Plan was launched in 2022.
-2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics infrastructure.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** - Launch was 2021; seven-engines claim is true.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2023, Q71**
-How many railway stations have been identified for modernization under the Amrit Bharat Station Scheme in Uttar Pradesh as on February 2023?
-
-A. 57
-
-B. 82
-
-C. 123
-
-D. 149
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** - Scheme = station modernisation; UP identified stations = 149.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2023, Q60**
-Which of the following (Port - Country) is not correctly matched?
-
-A. Rotterdam - Netherlands
-
-B. Igarka - China
-
-C. Montevideo - Uruguay
-
-D. Jakarta - Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** - Igarka is in Russia.
-</details>
-
----
-
-**Q8. UPPCS Prelims 2022, Q27**
-The first airport powered by solar energy in India is-
-
-A. Chennai
-
-B. Cochin
-
-C. Ahmedabad
-
-D. New Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q9. UPPCS Prelims 2020, Q71**
-First ever containership from Kolkata Port to Agartala was sent through which one of the following Ports of Bangladesh in July 2020?
-
-A. Benapole
-
-B. Maloti
-
-C. Payra
-
-D. Chattogram (Chittagong)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q10. UPPCS Prelims 2020, Q61**
-Which of the following Airports in Uttar Pradesh has been granted International Status on 24th June, 2020 by Union Cabinet of India?
-
-A. Agra Airport
-
-B. Prayagraj Airport
-
-C. Gorakhpur Airport
-
-D. Kushinagar Airport
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q11. UPPCS Prelims 2020, Q31**
-In August 2020, Railway Museum in India was dedicated to the nation at which of the following places?
-
-A. Hubballi
-
-B. Mysore
-
-C. Silvasa
-
-D. Chittaranjan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q12. UPPCS Prelims 2019, Q125**
-The phenomenon used in optical fibre for transmission of light energy is
-
-A. Total internal reflection
-
-B. Diffraction
-
-C. Scattering
-
-D. Refraction
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q13. UPPCS Prelims 2019, Q34**
-Cross border oil pipeline inaugurated by P.M. Modi in September 2019 connects which of the following cities?
-
-A. Motihari and Amlekhganj
-
-B. Darbhanga and Amlekhganj
-
-C. Motihari and Kathmandu
-
-D. None of these
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q14. UPPCS Prelims 2018, Q3**
-'Purvanchal Express Way' in Uttar Pradesh will not pass through which of the following cities?
-
-A. Faizabad
-
-B. Basti
-
-C. Azamgarh
-
-D. Mau
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 2018 official key for that wording. The **built** expressway **does** pass Mau. Basti is not on the main alignment.
-</details>
-
----
-
-**PYQ15. UPPCS Prelims 2025, Q50**
-Match List-I with List-II and choose the correct answer using the code given below the lists.
-**List-I (Port)**
-
-A. Paradip
-
-B. Tuticorin
-
-C. Kakinada
-
-D. Alappuzha
-**List-II (State)**
-
-1. Tamil Nadu
-2. Kerala
-3. Odisha
-4. Andhra Pradesh
-
-A. A-1, B-3, C-4, D-2
-
-B. A-3, B-1, C-2, D-4
-
-C. A-3, B-1, C-4, D-2
-
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Paradip–Odisha; Tuticorin–Tamil Nadu; Kakinada–Andhra Pradesh; Alappuzha–Kerala (code 3 1 4 2). Paper option letters vary across booklets; fact the **state matches**.
 </details>
 
 ---

@@ -203,6 +203,191 @@ D. CITES
 
 ---
 
+## Complete PYQ Bank (Topic 11)
+
+**Q1. UPPCS Prelims 2025, Q45**
+
+Consider the following statements about the **ozone layer**:
+
+1. The ozone layer protects Earth from harmful **ultraviolet radiation**.  
+2. Ozone depletion has been linked to **chlorofluorocarbons (CFCs)**.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Basic ozone-layer function and anthropogenic ODS link — both are standard textbook facts.
+
+**Ans: C.** Stratospheric O₃ absorbs UV-B/C; CFCs release catalytic chlorine that destroys ozone.
+
+**Trap:** Tropospheric ozone is a **pollutant** — the protective layer is **stratospheric**.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q62**
+
+Which of the following pairs is/are **NOT** correctly matched? (Day — Date)
+
+1. Ozone Day — 16 September  
+2. World Environment Day — 5 June  
+3. World Wildlife Day — 22 March  
+
+A. 1 and 2 only  
+B. 3 only  
+C. 2 and 3 only  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** International observance dates — Ozone Day and WED are correct; one wildlife date is wrong.
+
+**Ans: B.** **World Wildlife Day is 3 March**, not 22 March; Ozone Day (16 Sept) and WED (5 June) are correct.
+
+**Trap:** Do not confuse **Ozone Day (16 September)** with **World Environment Day (5 June)**.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024, Q35**
+
+Which international agreement relates to **climate change mitigation**?
+
+A. Montreal Protocol  
+B. Ramsar Convention  
+C. Kyoto Protocol  
+D. CITES  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cross-topic treaty trap — Montreal is ozone/ODS; Kyoto is climate mitigation.
+
+**Ans: C.** **Kyoto Protocol** targets greenhouse-gas cuts; Montreal controls ozone-depleting substances.
+
+**Trap:** Montreal is the most common wrong pick in "climate treaty" stems — it is **not** a climate convention.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2023, Q52**
+
+The **ozone layer**, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
+
+A. Troposphere  
+B. Mesosphere  
+C. Stratosphere  
+D. Thermosphere  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Atmospheric layer fact — peak ozone concentration and UV shield sit in the stratosphere.
+
+**Ans: C.** The ozone layer lies mainly in the **stratosphere** (about 15–35 km), not the troposphere.
+
+**Trap:** Ground-level ozone in the **troposphere** is harmful smog — opposite of the protective stratospheric layer.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2022**
+
+**International Ozone Day** is observed every year on—
+
+A. 5 June  
+B. 16 September  
+C. 22 March  
+D. 2 February  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Montreal Protocol anniversary observance date.
+
+**Ans: B.** World Ozone Day / International Ozone Day is **16 September** — the date the Montreal Protocol was signed (1987).
+
+**Trap:** **5 June** is World Environment Day — not Ozone Day.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2021, Q96 pattern**
+
+**World Ozone Day** is celebrated on—
+
+A. 3 March  
+B. 5 June  
+C. 16 September  
+D. 22 April  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Repeat observance-date fact for ozone protection awareness.
+
+**Ans: C.** World Ozone Day falls on **16 September** each year.
+
+**Trap:** **3 March** is World Wildlife Day — another frequent date-swap distractor.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2018, Q44 pattern**
+
+Maximum concentration of **atmospheric ozone** is found in the—
+
+A. Troposphere  
+B. Stratosphere  
+C. Mesosphere  
+D. Ionosphere  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Vertical ozone profile — Chapman production peaks in stratosphere near ~25 km.
+
+**Ans: B.** Ozone concentration peaks in the **stratosphere**, where UV photolysis builds the ozone layer.
+
+**Trap:** Troposphere has some ozone as **pollution**, but not the maximum column density.
+
+</details>
+
+---
+
+**Q8. UPSC pattern**
+
+The **Montreal Protocol** primarily controls—
+
+A. Transboundary hazardous waste trade  
+B. Phase-out of **ozone-depleting substances (ODS)**  
+C. Wetland encroachment in Ramsar sites  
+D. Carbon credit trading under Kyoto  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Montreal = ODS phase-out under Vienna Convention framework — universal ratification success story.
+
+**Ans: B.** Montreal mandates phased elimination of **CFCs, halons, carbon tetrachloride**, and later HCFCs/HFCs (Kigali).
+
+**Trap:** Kyoto/Paris handle **GHGs** — Montreal is exclusively **ozone/ODS**.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questionsQ1.** With reference to ozone, which statements is/are correct?
@@ -694,191 +879,6 @@ D. 2100
 
 ---
 
-## Complete PYQ Bank (Topic 11)
-
-**Q1. UPPCS Prelims 2025, Q45**
-
-Consider the following statements about the **ozone layer**:
-
-1. The ozone layer protects Earth from harmful **ultraviolet radiation**.  
-2. Ozone depletion has been linked to **chlorofluorocarbons (CFCs)**.  
-
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Basic ozone-layer function and anthropogenic ODS link — both are standard textbook facts.
-
-**Ans: C.** Stratospheric O₃ absorbs UV-B/C; CFCs release catalytic chlorine that destroys ozone.
-
-**Trap:** Tropospheric ozone is a **pollutant** — the protective layer is **stratospheric**.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q62**
-
-Which of the following pairs is/are **NOT** correctly matched? (Day — Date)
-
-1. Ozone Day — 16 September  
-2. World Environment Day — 5 June  
-3. World Wildlife Day — 22 March  
-
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** International observance dates — Ozone Day and WED are correct; one wildlife date is wrong.
-
-**Ans: B.** **World Wildlife Day is 3 March**, not 22 March; Ozone Day (16 Sept) and WED (5 June) are correct.
-
-**Trap:** Do not confuse **Ozone Day (16 September)** with **World Environment Day (5 June)**.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2024, Q35**
-
-Which international agreement relates to **climate change mitigation**?
-
-A. Montreal Protocol  
-B. Ramsar Convention  
-C. Kyoto Protocol  
-D. CITES  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Cross-topic treaty trap — Montreal is ozone/ODS; Kyoto is climate mitigation.
-
-**Ans: C.** **Kyoto Protocol** targets greenhouse-gas cuts; Montreal controls ozone-depleting substances.
-
-**Trap:** Montreal is the most common wrong pick in "climate treaty" stems — it is **not** a climate convention.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2023, Q52**
-
-The **ozone layer**, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
-
-A. Troposphere  
-B. Mesosphere  
-C. Stratosphere  
-D. Thermosphere  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Atmospheric layer fact — peak ozone concentration and UV shield sit in the stratosphere.
-
-**Ans: C.** The ozone layer lies mainly in the **stratosphere** (about 15–35 km), not the troposphere.
-
-**Trap:** Ground-level ozone in the **troposphere** is harmful smog — opposite of the protective stratospheric layer.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2022**
-
-**International Ozone Day** is observed every year on—
-
-A. 5 June  
-B. 16 September  
-C. 22 March  
-D. 2 February  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Montreal Protocol anniversary observance date.
-
-**Ans: B.** World Ozone Day / International Ozone Day is **16 September** — the date the Montreal Protocol was signed (1987).
-
-**Trap:** **5 June** is World Environment Day — not Ozone Day.
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2021, Q96 pattern**
-
-**World Ozone Day** is celebrated on—
-
-A. 3 March  
-B. 5 June  
-C. 16 September  
-D. 22 April  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Repeat observance-date fact for ozone protection awareness.
-
-**Ans: C.** World Ozone Day falls on **16 September** each year.
-
-**Trap:** **3 March** is World Wildlife Day — another frequent date-swap distractor.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2018, Q44 pattern**
-
-Maximum concentration of **atmospheric ozone** is found in the—
-
-A. Troposphere  
-B. Stratosphere  
-C. Mesosphere  
-D. Ionosphere  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Vertical ozone profile — Chapman production peaks in stratosphere near ~25 km.
-
-**Ans: B.** Ozone concentration peaks in the **stratosphere**, where UV photolysis builds the ozone layer.
-
-**Trap:** Troposphere has some ozone as **pollution**, but not the maximum column density.
-
-</details>
-
----
-
-**Q8. UPSC pattern**
-
-The **Montreal Protocol** primarily controls—
-
-A. Transboundary hazardous waste trade  
-B. Phase-out of **ozone-depleting substances (ODS)**  
-C. Wetland encroachment in Ramsar sites  
-D. Carbon credit trading under Kyoto  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Montreal = ODS phase-out under Vienna Convention framework — universal ratification success story.
-
-**Ans: B.** Montreal mandates phased elimination of **CFCs, halons, carbon tetrachloride**, and later HCFCs/HFCs (Kigali).
-
-**Trap:** Kyoto/Paris handle **GHGs** — Montreal is exclusively **ozone/ODS**.
-
-</details>
-
----
-
 ## Mains Answer Framework
 
 **Ozone layer protection (250 words):** Define ozone layer and UV shield function. Explain depletion mechanism — CFCs, catalytic chlorine, health/ecosystem impacts. Describe ozone hole — Antarctic spring, PSCs, 220 DU threshold. Treaty response — Vienna framework, Montreal Protocol, Multilateral Fund, universal ratification, recovery timeline. India compliance — Ozone Cell, 2010 CFC phase-out, HCFC 2030, Kigali HFCs. Conclude with Montreal as model environmental treaty; distinguish from Kyoto/Paris.
@@ -899,40 +899,3 @@ D. Carbon credit trading under Kyoto
 | Kigali targets CFCs | **HFC phase-down** |
 | UV-C reaches surface normally | **Blocked by O₃/O₂** |
 | Depletion permanent with no recovery | Recovery expected **~2040/2066** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~384 (was ~1190 old format) |
-| **Teaching blocks** | §11.1–11.4 (4 syllabus bullets) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 8 questions (2018–2025) |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2025 Q45 (§11.1), 2024 Q35 (§11.4) |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Ozone Layer | §11.1 |
-| Ozone Depletion | §11.2 |
-| Ozone Hole | §11.3 |
-| Montreal Protocol | §11.4 (+ Vienna Convention in treaty chain) |
-
-### Topic boundaries
-
-- **Ground-level ozone pollution** — Topic 9 air pollution; tropospheric ozone noted briefly here
-- **Greenhouse effect / climate treaties** — Topic 10; Kyoto/Paris contrast only
-- **Full ODS chemistry depth** — Topic 36 advanced syllabus if separate file exists
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q45 ozone + CFC | §11.1 inline |
-| 2025 Q62 Ozone Day in traps | Common Traps + PYQ Bank Q2 |
-| 2024 Q35 Montreal vs Kyoto | §11.4 inline |
-| 2023 Q52 stratosphere | PYQ Bank Q4 |

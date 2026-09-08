@@ -348,6 +348,77 @@ A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 ---
 
+## Complete PYQ Bank (Topic 10)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2025
+
+No in-boundary GS-I hit. **2025 Q79 Battle of Kannauj** = Humayun / Sher Shah (medieval). Out.
+
+### UPPCS Prelims 2024
+
+**Q1. UPPCS Prelims 2024, Q149**
+
+Consider the following foreign travellers and arrange them in ascending chronological order:
+
+1. I-Tsing
+2. Al-Biruni
+3. Huentsang (Hiuen Tsang)
+4. Fahyan (Fa-Hien)
+
+A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 4, 3, 1, 2.** Fa-Hien (~400) → Xuanzang (~630) → I-tsing (~670s) → Al-Biruni (~1017).
+
+</details>
+
+### UPPCS Prelims 2023
+
+No GS-I hit. 2023 Kannauj line is a **Ganga river** geography statement.
+
+### UPPCS Prelims 2022
+
+**Q2. UPPCS Prelims 2022, Q87**
+
+Which one of the following pairs is **NOT** correctly matched?
+
+A. Ishanavarman — Harha stone inscription
+B. Sarvavarman — Gaya Copper Plate
+C. Jivitagupta II — Deva Barnark inscription
+D. Ishwaravarman — Jaunpur stone inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gaya copper plate ≠ Maukhari Sarvavarman.
+
+</details>
+
+### UPPCS Prelims 2021, 2020, 2019
+
+No further GS-I Post-Gupta / Harsha / Xuanzang hit after keyword search.
+
+### UPPCS Prelims 2018
+
+**Q3. UPPCS Prelims 2018, Q16** (trap only)
+
+Hathigumpha inscription is the source of information about which of the following rulers?
+
+A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Kharavela.** Option C is the Harsha distractor. Home of the inscription = Post-Mauryan file.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** Arrange in ascending chronological order:
@@ -1253,77 +1324,6 @@ A. Pulakeshin I B. Pulakeshin II C. Vikramaditya II D. Shashanka
 <summary>Show answer</summary>
 
 **Ans: B.** **Pulakeshin II** of Vatapi.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 10)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2025
-
-No in-boundary GS-I hit. **2025 Q79 Battle of Kannauj** = Humayun / Sher Shah (medieval). Out.
-
-### UPPCS Prelims 2024
-
-**Q1. UPPCS Prelims 2024, Q149**
-
-Consider the following foreign travellers and arrange them in ascending chronological order:
-
-1. I-Tsing
-2. Al-Biruni
-3. Huentsang (Hiuen Tsang)
-4. Fahyan (Fa-Hien)
-
-A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 4, 3, 1, 2.** Fa-Hien (~400) → Xuanzang (~630) → I-tsing (~670s) → Al-Biruni (~1017).
-
-</details>
-
-### UPPCS Prelims 2023
-
-No GS-I hit. 2023 Kannauj line is a **Ganga river** geography statement.
-
-### UPPCS Prelims 2022
-
-**Q2. UPPCS Prelims 2022, Q87**
-
-Which one of the following pairs is **NOT** correctly matched?
-
-A. Ishanavarman — Harha stone inscription
-B. Sarvavarman — Gaya Copper Plate
-C. Jivitagupta II — Deva Barnark inscription
-D. Ishwaravarman — Jaunpur stone inscription
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Gaya copper plate ≠ Maukhari Sarvavarman.
-
-</details>
-
-### UPPCS Prelims 2021, 2020, 2019
-
-No further GS-I Post-Gupta / Harsha / Xuanzang hit after keyword search.
-
-### UPPCS Prelims 2018
-
-**Q3. UPPCS Prelims 2018, Q16** (trap only)
-
-Hathigumpha inscription is the source of information about which of the following rulers?
-
-A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Kharavela.** Option C is the Harsha distractor. Home of the inscription = Post-Mauryan file.
 
 </details>
 

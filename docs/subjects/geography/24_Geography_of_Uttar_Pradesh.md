@@ -444,6 +444,800 @@ D. Bahraich
 
 ---
 
+## Complete PYQ Bank
+
+**Instructions:** Answers under `<details>`. Options on separate lines.
+
+**Q1. UPPCS Prelims 2025, Q8**
+
+As per the India State of Forest Report 2023, which of the following districts in Uttar Pradesh had forest over more than 20% of their total area?
+
+1. Bahraich
+2. Chandauli
+3. Shravasti
+
+**Options:**
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Chandauli and Shravasti, not Bahraich.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q32**
+
+Which of the following districts is/are part of the Devipatan Division in Uttar Pradesh?
+
+1. Basti
+2. Bahraich
+3. Balrampur
+
+**Options:**
+
+A. Only 1 and 2
+
+B. Only 3
+
+C. Only 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q34**
+
+With reference to Uttar Pradesh, which of the following statements is/are correct?
+
+1. Uttar Pradesh is the leading producer of potato in the country.
+2. Government of India has approved the establishment of the South Asia Regional Centre of the International Potato Centre at Aligarh.
+
+**Options:**
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Potato #1 is true. CIP centre = **Agra (Singna)**, not Aligarh.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2025, Q58**
+
+Which of the following Ramsar sites are NOT located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel
+2. Samaspur Bird Sanctuary
+3. Rudrasagar Lake
+4. Sultanpur National Park
+
+**Options:**
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rudrasagar = Tripura; Sultanpur = Haryana.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2025, Q84**
+
+Which of the following districts of Uttar Pradesh shares its boundary with only one other district of Uttar Pradesh?
+
+1. Lalitpur
+2. Saharanpur
+3. Sonbhadra
+
+**Options:**
+
+A. Only 1 and 2
+
+B. All 1, 2 and 3
+
+C. Only 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2025, Q128**
+
+As per the One District One Product (ODOP) scheme of Uttar Pradesh, Moonj products are associated with which of the following districts?
+
+1. Amethi
+2. Sultanpur
+3. Sant Kabir Nagar
+
+**Options:**
+
+A. 1 and 3
+
+B. Only 3
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2023, Q56**
+
+Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
+
+**Options:**
+
+A. Sonbhadra
+
+B. Chandauli
+
+C. Bahraich
+
+D. Lakhimpur Kheri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2023, Q59**
+
+Consider the following statements with reference to Uttar Pradesh—
+
+1. Forests constitute about 12.8% of the total geographical area of the State.
+2. The districts of Jaunpur, Ghazipur and Ballia have no forest land.
+
+**Options:**
+
+A. Only 1
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Cover is ~6%, not 12.8%. Stmt 2 is the traditional fact.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2022, Q36**
+
+Which of the following Wildlife Sanctuaries of Uttar Pradesh was established in **1975**?
+
+**Options:**
+
+A. Chambal
+
+B. Katarniaghat
+
+C. Raipur
+
+D. Kishanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2022, Q51**
+
+Which one of the following dams is **NOT** in Uttar Pradesh?
+
+**Options:**
+
+A. Badua
+
+B. Adwa
+
+C. Baghelkhand
+
+D. Ahraura
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2022, Q56**
+
+Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
+
+**Options:**
+
+A. Bahraich
+
+B. Lakhimpur Kheri
+
+C. Pilibhit
+
+D. Sitapur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2022, Q62**
+
+On the basis of the **'One District One Product'** programme in Uttar Pradesh, which one of the following pairs is **NOT** correctly matched?
+
+**Options:**
+
+A. Gautam Buddh Nagar — Readymade Garments
+
+B. Amethi — Moonz Products
+
+C. Agra — Leather Products
+
+D. Baghpat — Wooden Toys
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2022, Q91**
+
+With reference to Western Uttar Pradesh, which of the following statements is/are correct?
+
+1. The western region of U.P. is much more developed compared to other regions.
+2. The region has witnessed the Green Revolution.
+
+**Options:**
+
+A. Neither 1 nor 2
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2022, Q98**
+
+Consider the following cities of Uttar Pradesh and arrange them in descending order in terms of their population.
+
+I. Ghaziabad II. Kanpur III. Agra IV. Lucknow
+
+**Options:**
+
+A. III, II, I, IV
+
+B. II, I, IV, III
+
+C. II, IV, I, III
+
+D. I, II, III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kanpur > Lucknow > Ghaziabad > Agra (2011 UA).
+
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2022, Q147**
+
+On which date is **'Uttar Pradesh Day'** celebrated?
+
+**Options:**
+
+A. 26th January
+
+B. 25th January
+
+C. 24th January
+
+D. 23rd January
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2021, Q135**
+
+Which among the following districts of Uttar Pradesh is smallest in terms of area?
+
+**Options:**
+
+A. Hamirpur
+
+B. Hardoi
+
+C. Hathras
+
+D. Hapur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2018, Q3**
+
+'Purvanchal Express Way' in Uttar Pradesh will not pass through which of the following cities?
+
+**Options:**
+
+A. Faizabad
+
+B. Basti
+
+C. Azamgarh
+
+D. Mau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 2018 proposal-stage key. The **built** corridor **does** pass Mau district; learn today’s map from N.12, not this option as atlas gospel.
+
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2018, Q88**
+
+Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
+
+I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
+
+**Options:**
+
+A. I, II, III, IV
+
+B. I, II
+
+C. II, III
+
+D. III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Alamgirpur and Hulas.
+
+</details>
+
+---
+
+**Q19. UPPCS Prelims 2018, Q99**
+
+Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution?
+
+**Options:**
+
+A. Yamuna
+
+B. Gomati
+
+C. Sai
+
+D. Tamsa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q20. UPPCS Prelims 2018, Q105**
+
+Which of the following districts of Uttar Pradesh has the lowest female literacy rate as per 2011 census?
+
+**Options:**
+
+A. Rampur
+
+B. Balrampur
+
+C. Shrawasti
+
+D. Bahraich
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q21. UPPCS Prelims 2020, Q48**
+
+How many more 'Ramsar Sites' were added to Uttar Pradesh in January, 2020?
+
+**Options:**
+
+A. 3
+
+B. 6
+
+C. 9
+
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q22. UPPCS Prelims 2021, Q17**
+
+Which of the following Ramsar site is NOT situated in Uttar Pradesh?
+
+**Options:**
+
+A. Sur Sarovar
+
+B. Samaspur Bird Sanctuary
+
+C. Sarsai Nawar Jheel
+
+D. Surinsar–Mansar Lakes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Surinsar–Mansar = J&K.
+
+</details>
+
+---
+
+**Q23. UPPCS Prelims 2018, Q41**
+
+Which of the following cities in Uttar Pradesh has NOT been selected for development under the Smart City Development Programme of the Central Government?
+
+**Options:**
+
+A. Lucknow
+
+B. Allahabad
+
+C. Ghaziabad
+
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Ghaziabad was not in UP’s Central 10.
+
+</details>
+
+---
+
+**Q24. UPPCS Prelims 2020, Q11**
+
+No. of cities in U.P. which are covered under the 'Smart City' Scheme
+
+**Options:**
+
+A. 10
+
+B. 12
+
+C. 15
+
+D. 18
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q25. UPPCS Prelims 2025, Q87**
+
+Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
+
+1. Mandi
+2. Rakhigarhi
+3. Hulas
+
+**Options:**
+
+A. 1 and 2
+
+B. Only 3
+
+C. 1 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Mandi and Hulas are in UP. Rakhigarhi = Haryana.
+
+</details>
+
+---
+
+**Q26. UPPCS Prelims 2025, Q31**
+
+With reference to hydroelectric power in Northern India, which of the following statements is/are correct?
+
+1. The Himalayan region has enormous hydroelectric potential.
+2. Eastern Uttar Pradesh and Bihar cannot utilize this potential because the Himalayas situated to their north lie within the territory of Nepal.
+
+**Options:**
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q27. UPPCS Prelims 2023, Q55**
+
+With reference to rivers of India, which of the following statements is/are correct?
+
+1. Ramganga joins the Ganga near Kannauj.
+2. River Betwa joins the Yamuna near Prayagraj.
+
+**Options:**
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Betwa joins Yamuna at **Hamirpur**.
+
+</details>
+
+---
+
+**Q28. UPPCS Prelims 2020, Q68**
+
+Consider the following tributaries of River Yamuna and arrange them from West to East:
+
+1. Betwa
+2. Ken
+3. Sindh
+4. Chambal
+
+**Options:**
+
+A. 4, 3, 1 and 2
+
+B. 1, 2, 3 and 4
+
+C. 3, 2, 1 and 4
+
+D. 2, 3, 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Chambal → Sind → Betwa → Ken.
+
+</details>
+
+---
+
+**Q29. UPPCS Prelims 2020, Q61**
+
+Which of the following Airports in Uttar Pradesh has been granted International Status on 24th June, 2020 by Union Cabinet of India?
+
+**Options:**
+
+A. Agra Airport
+
+B. Prayagraj Airport
+
+C. Gorakhpur Airport
+
+D. Kushinagar Airport
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q30. UPPCS Prelims 2023, Q71**
+
+How many railway stations have been identified for modernization under the Amrit Bharat Station Scheme in Uttar Pradesh as on February 2023?
+
+**Options:**
+
+A. 57
+
+B. 82
+
+C. 123
+
+D. 149
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q31. UPPCS Prelims 2020, Q115**
+
+Which of the following cities of Uttar Pradesh is/are covered under the 'Heritage City Development and Augmentation Yojana (HRIDAY)'?
+
+1. Varanasi
+2. Mathura
+3. Prayagraj
+4. Ayodhya
+
+**Options:**
+
+A. 1 only
+
+B. 3 only
+
+C. 1 and 2
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Varanasi and Mathura only.
+
+</details>
+
+---
+
+**Q32. UPPCS Prelims 2020**
+
+The National Chambal Sanctuary does NOT fall in which of the following States?
+
+**Options:**
+
+A. Uttar Pradesh
+
+B. Madhya Pradesh
+
+C. Haryana
+
+D. Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — It is **UP–MP–Rajasthan**. Not Haryana.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -1819,800 +2613,6 @@ D. Devipatan — Basti headquarters
 <summary>Show answer</summary>
 
 **Ans: D** — Devipatan HQ = **Gonda**.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Answers under `<details>`. Options on separate lines.
-
-**Q1. UPPCS Prelims 2025, Q8**
-
-As per the India State of Forest Report 2023, which of the following districts in Uttar Pradesh had forest over more than 20% of their total area?
-
-1. Bahraich
-2. Chandauli
-3. Shravasti
-
-**Options:**
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Chandauli and Shravasti, not Bahraich.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q32**
-
-Which of the following districts is/are part of the Devipatan Division in Uttar Pradesh?
-
-1. Basti
-2. Bahraich
-3. Balrampur
-
-**Options:**
-
-A. Only 1 and 2
-
-B. Only 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q34**
-
-With reference to Uttar Pradesh, which of the following statements is/are correct?
-
-1. Uttar Pradesh is the leading producer of potato in the country.
-2. Government of India has approved the establishment of the South Asia Regional Centre of the International Potato Centre at Aligarh.
-
-**Options:**
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Potato #1 is true. CIP centre = **Agra (Singna)**, not Aligarh.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2025, Q58**
-
-Which of the following Ramsar sites are NOT located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel
-2. Samaspur Bird Sanctuary
-3. Rudrasagar Lake
-4. Sultanpur National Park
-
-**Options:**
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Rudrasagar = Tripura; Sultanpur = Haryana.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2025, Q84**
-
-Which of the following districts of Uttar Pradesh shares its boundary with only one other district of Uttar Pradesh?
-
-1. Lalitpur
-2. Saharanpur
-3. Sonbhadra
-
-**Options:**
-
-A. Only 1 and 2
-
-B. All 1, 2 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2025, Q128**
-
-As per the One District One Product (ODOP) scheme of Uttar Pradesh, Moonj products are associated with which of the following districts?
-
-1. Amethi
-2. Sultanpur
-3. Sant Kabir Nagar
-
-**Options:**
-
-A. 1 and 3
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2023, Q56**
-
-Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
-
-**Options:**
-
-A. Sonbhadra
-
-B. Chandauli
-
-C. Bahraich
-
-D. Lakhimpur Kheri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2023, Q59**
-
-Consider the following statements with reference to Uttar Pradesh—
-
-1. Forests constitute about 12.8% of the total geographical area of the State.
-2. The districts of Jaunpur, Ghazipur and Ballia have no forest land.
-
-**Options:**
-
-A. Only 1
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Cover is ~6%, not 12.8%. Stmt 2 is the traditional fact.
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2022, Q36**
-
-Which of the following Wildlife Sanctuaries of Uttar Pradesh was established in **1975**?
-
-**Options:**
-
-A. Chambal
-
-B. Katarniaghat
-
-C. Raipur
-
-D. Kishanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q10. UPPCS Prelims 2022, Q51**
-
-Which one of the following dams is **NOT** in Uttar Pradesh?
-
-**Options:**
-
-A. Badua
-
-B. Adwa
-
-C. Baghelkhand
-
-D. Ahraura
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11. UPPCS Prelims 2022, Q56**
-
-Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
-
-**Options:**
-
-A. Bahraich
-
-B. Lakhimpur Kheri
-
-C. Pilibhit
-
-D. Sitapur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q12. UPPCS Prelims 2022, Q62**
-
-On the basis of the **'One District One Product'** programme in Uttar Pradesh, which one of the following pairs is **NOT** correctly matched?
-
-**Options:**
-
-A. Gautam Buddh Nagar — Readymade Garments
-
-B. Amethi — Moonz Products
-
-C. Agra — Leather Products
-
-D. Baghpat — Wooden Toys
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q13. UPPCS Prelims 2022, Q91**
-
-With reference to Western Uttar Pradesh, which of the following statements is/are correct?
-
-1. The western region of U.P. is much more developed compared to other regions.
-2. The region has witnessed the Green Revolution.
-
-**Options:**
-
-A. Neither 1 nor 2
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q14. UPPCS Prelims 2022, Q98**
-
-Consider the following cities of Uttar Pradesh and arrange them in descending order in terms of their population.
-
-I. Ghaziabad II. Kanpur III. Agra IV. Lucknow
-
-**Options:**
-
-A. III, II, I, IV
-
-B. II, I, IV, III
-
-C. II, IV, I, III
-
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kanpur > Lucknow > Ghaziabad > Agra (2011 UA).
-
-</details>
-
----
-
-**Q15. UPPCS Prelims 2022, Q147**
-
-On which date is **'Uttar Pradesh Day'** celebrated?
-
-**Options:**
-
-A. 26th January
-
-B. 25th January
-
-C. 24th January
-
-D. 23rd January
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q16. UPPCS Prelims 2021, Q135**
-
-Which among the following districts of Uttar Pradesh is smallest in terms of area?
-
-**Options:**
-
-A. Hamirpur
-
-B. Hardoi
-
-C. Hathras
-
-D. Hapur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q17. UPPCS Prelims 2018, Q3**
-
-'Purvanchal Express Way' in Uttar Pradesh will not pass through which of the following cities?
-
-**Options:**
-
-A. Faizabad
-
-B. Basti
-
-C. Azamgarh
-
-D. Mau
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 2018 proposal-stage key. The **built** corridor **does** pass Mau district; learn today’s map from N.12, not this option as atlas gospel.
-
-</details>
-
----
-
-**Q18. UPPCS Prelims 2018, Q88**
-
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-
-I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
-
-**Options:**
-
-A. I, II, III, IV
-
-B. I, II
-
-C. II, III
-
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Alamgirpur and Hulas.
-
-</details>
-
----
-
-**Q19. UPPCS Prelims 2018, Q99**
-
-Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution?
-
-**Options:**
-
-A. Yamuna
-
-B. Gomati
-
-C. Sai
-
-D. Tamsa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q20. UPPCS Prelims 2018, Q105**
-
-Which of the following districts of Uttar Pradesh has the lowest female literacy rate as per 2011 census?
-
-**Options:**
-
-A. Rampur
-
-B. Balrampur
-
-C. Shrawasti
-
-D. Bahraich
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q21. UPPCS Prelims 2020, Q48**
-
-How many more 'Ramsar Sites' were added to Uttar Pradesh in January, 2020?
-
-**Options:**
-
-A. 3
-
-B. 6
-
-C. 9
-
-D. 12
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q22. UPPCS Prelims 2021, Q17**
-
-Which of the following Ramsar site is NOT situated in Uttar Pradesh?
-
-**Options:**
-
-A. Sur Sarovar
-
-B. Samaspur Bird Sanctuary
-
-C. Sarsai Nawar Jheel
-
-D. Surinsar–Mansar Lakes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Surinsar–Mansar = J&K.
-
-</details>
-
----
-
-**Q23. UPPCS Prelims 2018, Q41**
-
-Which of the following cities in Uttar Pradesh has NOT been selected for development under the Smart City Development Programme of the Central Government?
-
-**Options:**
-
-A. Lucknow
-
-B. Allahabad
-
-C. Ghaziabad
-
-D. Kanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Ghaziabad was not in UP’s Central 10.
-
-</details>
-
----
-
-**Q24. UPPCS Prelims 2020, Q11**
-
-No. of cities in U.P. which are covered under the 'Smart City' Scheme
-
-**Options:**
-
-A. 10
-
-B. 12
-
-C. 15
-
-D. 18
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q25. UPPCS Prelims 2025, Q87**
-
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-**Options:**
-
-A. 1 and 2
-
-B. Only 3
-
-C. 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Mandi and Hulas are in UP. Rakhigarhi = Haryana.
-
-</details>
-
----
-
-**Q26. UPPCS Prelims 2025, Q31**
-
-With reference to hydroelectric power in Northern India, which of the following statements is/are correct?
-
-1. The Himalayan region has enormous hydroelectric potential.
-2. Eastern Uttar Pradesh and Bihar cannot utilize this potential because the Himalayas situated to their north lie within the territory of Nepal.
-
-**Options:**
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q27. UPPCS Prelims 2023, Q55**
-
-With reference to rivers of India, which of the following statements is/are correct?
-
-1. Ramganga joins the Ganga near Kannauj.
-2. River Betwa joins the Yamuna near Prayagraj.
-
-**Options:**
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Betwa joins Yamuna at **Hamirpur**.
-
-</details>
-
----
-
-**Q28. UPPCS Prelims 2020, Q68**
-
-Consider the following tributaries of River Yamuna and arrange them from West to East:
-
-1. Betwa
-2. Ken
-3. Sindh
-4. Chambal
-
-**Options:**
-
-A. 4, 3, 1 and 2
-
-B. 1, 2, 3 and 4
-
-C. 3, 2, 1 and 4
-
-D. 2, 3, 1 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Chambal → Sind → Betwa → Ken.
-
-</details>
-
----
-
-**Q29. UPPCS Prelims 2020, Q61**
-
-Which of the following Airports in Uttar Pradesh has been granted International Status on 24th June, 2020 by Union Cabinet of India?
-
-**Options:**
-
-A. Agra Airport
-
-B. Prayagraj Airport
-
-C. Gorakhpur Airport
-
-D. Kushinagar Airport
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q30. UPPCS Prelims 2023, Q71**
-
-How many railway stations have been identified for modernization under the Amrit Bharat Station Scheme in Uttar Pradesh as on February 2023?
-
-**Options:**
-
-A. 57
-
-B. 82
-
-C. 123
-
-D. 149
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q31. UPPCS Prelims 2020, Q115**
-
-Which of the following cities of Uttar Pradesh is/are covered under the 'Heritage City Development and Augmentation Yojana (HRIDAY)'?
-
-1. Varanasi
-2. Mathura
-3. Prayagraj
-4. Ayodhya
-
-**Options:**
-
-A. 1 only
-
-B. 3 only
-
-C. 1 and 2
-
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Varanasi and Mathura only.
-
-</details>
-
----
-
-**Q32. UPPCS Prelims 2020**
-
-The National Chambal Sanctuary does NOT fall in which of the following States?
-
-**Options:**
-
-A. Uttar Pradesh
-
-B. Madhya Pradesh
-
-C. Haryana
-
-D. Rajasthan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — It is **UP–MP–Rajasthan**. Not Haryana.
-
 </details>
 
 ---

@@ -491,6 +491,26 @@ Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant 
 
 ---
 
+## Complete PYQ Bank (Topic 23)
+
+**UPPCS Prelims 2023, Q2** — Match 324 / 315 / 280 / 338 = Election Commission / Public Service Commission / Finance Commission / NCSC. **Ans: B** (A-4, B-3, C-2, D-1). T23 fact = **324 and 315**.
+
+**UPPCS Prelims 2023, Q12** — AG: (1) SC-judge qualification (2) removed like SC judges. **Ans: A — Only 1.UPPCS Prelims 2022, Q55** — CAG audit report examined by? **Ans: A — PAC.UPPCS Prelims 2020, Q110** — AG of India — Part XIII is **not** correctly matched. AG = **Part V**.
+
+2020 Q124 AG statements: stem missing in the local dump; fact remains pleasure / 88-no-vote / private practice except vs GoI.
+
+**UPPCS Prelims 2021, Q91** — Sukumar Sen = first CEC; Rama Devi = first woman CEC. **Both true.UPPCS Prelims 2021, Q81** — SPSC member removed by **President after SC enquiry**. **Ans: C.UPPCS Prelims 2021, Q133** — UPPSC functions extended by **UP State Legislature**. **Ans: D.UPPCS Prelims 2022, Q24** — JPSC established by **Parliament if requested by the States**. **Ans: B.UPPCS Prelims 2023, Q19** — SC judge resigns to the **President**. **Ans: C.UPPCS Prelims 2024, Q124** — UPSC functions from Constitution, laws, executive rules, **and conventions**. **Ans: D.UPPCS Prelims 2024, Q24** — ECI does **not** elect Speaker / run municipal polls / decide those disputes. **Ans: D none.UPPCS Prelims 2018, Q145** — CJI when PIL introduced — **P.N. Bhagwati**. epistolary / continuing mandamus.
+
+**UPPCS Prelims 2024, Q125** — “correctly matched” body-article. **ECI ≠ 165** (that is AdvG). NCSC ≠ 148 (that is CAG). FC ≠ 263 (that is ISC). Fact: **324 vs 165**.
+
+**UPPCS Prelims 2024, Q102** — CAG = Art. **148** (with 266 / 280 / 360 in the same list).
+
+**UPPCS Prelims 2019, Q24** — accounting separated from auditing (CAG confined to audit) — **1976**.
+
+**UPPCS Prelims 2020, Q102** — UPSC — Art. **315** is a correctly matched pair (body-article paper; 315 UPSC, 324 ECI, 148 CAG, 165 AdvG, 280 FC, 263 ISC).
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **138 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -2397,26 +2417,6 @@ D. Law Minister = Attorney General
 **Ans: D**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 23)
-
-**UPPCS Prelims 2023, Q2** — Match 324 / 315 / 280 / 338 = Election Commission / Public Service Commission / Finance Commission / NCSC. **Ans: B** (A-4, B-3, C-2, D-1). T23 fact = **324 and 315**.
-
-**UPPCS Prelims 2023, Q12** — AG: (1) SC-judge qualification (2) removed like SC judges. **Ans: A — Only 1.UPPCS Prelims 2022, Q55** — CAG audit report examined by? **Ans: A — PAC.UPPCS Prelims 2020, Q110** — AG of India — Part XIII is **not** correctly matched. AG = **Part V**.
-
-2020 Q124 AG statements: stem missing in the local dump; fact remains pleasure / 88-no-vote / private practice except vs GoI.
-
-**UPPCS Prelims 2021, Q91** — Sukumar Sen = first CEC; Rama Devi = first woman CEC. **Both true.UPPCS Prelims 2021, Q81** — SPSC member removed by **President after SC enquiry**. **Ans: C.UPPCS Prelims 2021, Q133** — UPPSC functions extended by **UP State Legislature**. **Ans: D.UPPCS Prelims 2022, Q24** — JPSC established by **Parliament if requested by the States**. **Ans: B.UPPCS Prelims 2023, Q19** — SC judge resigns to the **President**. **Ans: C.UPPCS Prelims 2024, Q124** — UPSC functions from Constitution, laws, executive rules, **and conventions**. **Ans: D.UPPCS Prelims 2024, Q24** — ECI does **not** elect Speaker / run municipal polls / decide those disputes. **Ans: D none.UPPCS Prelims 2018, Q145** — CJI when PIL introduced — **P.N. Bhagwati**. epistolary / continuing mandamus.
-
-**UPPCS Prelims 2024, Q125** — “correctly matched” body-article. **ECI ≠ 165** (that is AdvG). NCSC ≠ 148 (that is CAG). FC ≠ 263 (that is ISC). Fact: **324 vs 165**.
-
-**UPPCS Prelims 2024, Q102** — CAG = Art. **148** (with 266 / 280 / 360 in the same list).
-
-**UPPCS Prelims 2019, Q24** — accounting separated from auditing (CAG confined to audit) — **1976**.
-
-**UPPCS Prelims 2020, Q102** — UPSC — Art. **315** is a correctly matched pair (body-article paper; 315 UPSC, 324 ECI, 148 CAG, 165 AdvG, 280 FC, 263 ISC).
 
 ---
 

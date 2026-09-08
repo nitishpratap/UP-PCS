@@ -250,6 +250,118 @@ D. A true, R false
 
 ---
 
+## Complete PYQ Bank (Topic 11)
+
+
+**Q1. UPPCS Prelims 2018, Q93**
+
+The Maratha claim of revenue for protection is known by what name?
+
+A. Sardesh Mukhi |
+
+B. Chauth |
+
+C. Abwab |
+
+D. Jamadani
+
+<details><summary>Show answer</summary>
+
+**Ans: B (Chauth)Why:Chauth** = **one-fourth (25%)** protection levy on assessed land revenue.
+
+**Trap:Sardeshmukhi** is extra **10%** deshmukh claim — not the protection-quarter name.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2023, Q35**
+
+Arrange: (I) Balaji Vishwanath (II) Bajirao I (III) Narayan Rao (IV) Madhav Rao I
+
+A. I, III, II, IV |
+
+B. I, II, III, IV |
+
+C. II, I, IV, III |
+
+D. I, II, IV, III
+
+<details><summary>Show answer</summary>
+
+**Ans: D (I-II-IV-III)Order:** Balaji Vishwanath → Bajirao I → **Madhav Rao I** → **Narayan Rao**.
+
+**Trap:Madhav Rao I (1761–72)** precedes **Narayan Rao (1772–73)** — not the reverse.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2024, Q1**
+
+Arrange: 1. Raghunath Rao (Raghoba) 2. Balaji Baji Rao 3. Narayan Rao 4. Balaji Vishwanath
+
+A. 4, 2, 3, 1 |
+
+B. 3, 4, 1, 2 |
+
+C. 1, 2, 3, 4 |
+
+D. 1, 3, 2, 4
+
+<details><summary>Show answer</summary>
+
+**Ans: A (4-2-3-1)Order:** Balaji Vishwanath → Balaji Baji Rao (Nana Saheb) → Narayan Rao → Raghunath Rao (Raghoba).
+
+**Trap:Raghoba** comes **after Narayan**, not before Balaji Baji Rao.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2024, Q18**
+
+Assertion (A): Shivaji had to face opposition from the big Deshmukhs.
+Reason (R): These Deshmukhs were not in favour of an independent Maratha State and wanted to remain as feudal lords of Bijapur.
+
+A. Both true, R explains A |
+
+B. A false, R true |
+
+C. Both true, R does not explain |
+
+D. A true, R false
+
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2024 Q18A is true:** Big **Deshmukhs** opposed Shivaji's **swaraj** project.
+
+**R is true:** They preferred remaining **Bijapur feudal lords** to an independent Maratha state.
+
+**Why R explains A:** Feudal self-interest **caused** their opposition.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2025, Q149**
+
+Arrange: 1. Bajirao I 2. Balaji Bajirao 3. Balaji Vishwanath 4. Madhav Rao I
+
+A. 1, 3, 2, 4 |
+
+B. 3, 1, 4, 2 |
+
+C. 3, 1, 2, 4 |
+
+D. 1, 3, 4, 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C (3-1-2-4)Order:** Balaji Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.
+
+**Trap:Bajirao I (1720–40)** is the **father**; **Balaji Bajirao (1740–61)** is the son — do not reverse them.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **38 questions** · answers in `<details>`
@@ -969,118 +1081,6 @@ D. Only after 1761
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 11)
-
-
-**Q1. UPPCS Prelims 2018, Q93**
-
-The Maratha claim of revenue for protection is known by what name?
-
-A. Sardesh Mukhi |
-
-B. Chauth |
-
-C. Abwab |
-
-D. Jamadani
-
-<details><summary>Show answer</summary>
-
-**Ans: B (Chauth)Why:Chauth** = **one-fourth (25%)** protection levy on assessed land revenue.
-
-**Trap:Sardeshmukhi** is extra **10%** deshmukh claim — not the protection-quarter name.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2023, Q35**
-
-Arrange: (I) Balaji Vishwanath (II) Bajirao I (III) Narayan Rao (IV) Madhav Rao I
-
-A. I, III, II, IV |
-
-B. I, II, III, IV |
-
-C. II, I, IV, III |
-
-D. I, II, IV, III
-
-<details><summary>Show answer</summary>
-
-**Ans: D (I-II-IV-III)Order:** Balaji Vishwanath → Bajirao I → **Madhav Rao I** → **Narayan Rao**.
-
-**Trap:Madhav Rao I (1761–72)** precedes **Narayan Rao (1772–73)** — not the reverse.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2024, Q1**
-
-Arrange: 1. Raghunath Rao (Raghoba) 2. Balaji Baji Rao 3. Narayan Rao 4. Balaji Vishwanath
-
-A. 4, 2, 3, 1 |
-
-B. 3, 4, 1, 2 |
-
-C. 1, 2, 3, 4 |
-
-D. 1, 3, 2, 4
-
-<details><summary>Show answer</summary>
-
-**Ans: A (4-2-3-1)Order:** Balaji Vishwanath → Balaji Baji Rao (Nana Saheb) → Narayan Rao → Raghunath Rao (Raghoba).
-
-**Trap:Raghoba** comes **after Narayan**, not before Balaji Baji Rao.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2024, Q18**
-
-Assertion (A): Shivaji had to face opposition from the big Deshmukhs.
-Reason (R): These Deshmukhs were not in favour of an independent Maratha State and wanted to remain as feudal lords of Bijapur.
-
-A. Both true, R explains A |
-
-B. A false, R true |
-
-C. Both true, R does not explain |
-
-D. A true, R false
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)** — **UPPCS 2024 Q18A is true:** Big **Deshmukhs** opposed Shivaji's **swaraj** project.
-
-**R is true:** They preferred remaining **Bijapur feudal lords** to an independent Maratha state.
-
-**Why R explains A:** Feudal self-interest **caused** their opposition.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2025, Q149**
-
-Arrange: 1. Bajirao I 2. Balaji Bajirao 3. Balaji Vishwanath 4. Madhav Rao I
-
-A. 1, 3, 2, 4 |
-
-B. 3, 1, 4, 2 |
-
-C. 3, 1, 2, 4 |
-
-D. 1, 3, 4, 2
-
-<details><summary>Show answer</summary>
-
-**Ans: C (3-1-2-4)Order:** Balaji Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.
-
-**Trap:Bajirao I (1720–40)** is the **father**; **Balaji Bajirao (1740–61)** is the son — do not reverse them.
 
 </details>
 

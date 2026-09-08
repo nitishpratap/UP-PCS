@@ -822,6 +822,887 @@ Uttar Pradesh is not a Jharkhand-scale ore state. The **Gangetic plains** are al
 | Renukoot | Aluminium (HINDALCO) |
 | Chunar–Dalla belt | Cement |
 
+---
+
+## Complete PYQ Bank — Minerals, Energy & Industry (2018–2025)
+
+**Instructions:** Answers are under **Show answer** spoilers. Read the full stem before opening.
+
+---
+
+**PYQ1. UPPCS Prelims 2018, Q130**
+Which of the following is the main component of the natural gas?
+
+A. Ethane
+
+B. Butane
+
+C. Carbon mono-oxide
+
+D. Methane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Methane is the main component of natural gas.
+</details>
+
+---
+
+**PYQ2. UPPCS Prelims 2018, Q142**
+Which of the following energy sources produces NO atmospheric pollution?
+
+A. Nuclear energy
+
+B. Solar energy
+
+C. Petroleum energy
+
+D. Coal energy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Solar energy produces no atmospheric pollution among the given options.
+</details>
+
+---
+
+**PYQ3. UPPCS Prelims 2019, Q64**
+The First Union Territory of India to run 100 percent on solar energy is
+
+A. Andaman-Nicobar
+
+B. Chandigarh
+
+C. Diu
+
+D. Puducherry
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Diu.
+</details>
+
+---
+
+**PYQ4. UPPCS Prelims 2019, Q81**
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I (Coal Fields) | List-II (Located) |
+|---|---|
+| A. Talcher | 1. Damodar Valley |
+| B. Karanpura | 2. Son Valley |
+| C. Singrauli | 3. Godavari Valley |
+| D. Singareni | 4. Mahanadi Valley |
+
+> Row order is **not** the answer — use the option codes.
+
+A. 4 1 2 3
+
+B. 3 2 1 4
+
+C. 2 4 3 1
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Talcher–Mahanadi; Karanpura–Damodar; Singrauli–Son; Singareni–Godavari.
+</details>
+
+---
+
+**PYQ5. UPPCS Prelims 2020, Q58**
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R):
+
+**Assertion (A):** Ahmedabad is the largest centre of cotton textile industry in India.
+
+**Reason (R):** Ahmedabad is located in Major cotton growing region of India, so it has no problem of raw materials.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Assertion is false (Mumbai traditionally largest). Reason is true (Ahmedabad is in a major cotton region).
+</details>
+
+---
+
+**PYQ6. UPPCS Prelims 2020, Q64**
+Which of the following are NOT correctly matched?
+**(Mineral) (Mining City)**
+
+1. Copper – Chitradurga
+2. Iron ore – Ballari
+3. Manganese – Bhilwara
+4. Bauxite – Katni
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. 2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Copper–Chitradurga and Manganese–Bhilwara are not correctly matched. Iron ore–Ballari and Bauxite–Katni are treated as correct.
+</details>
+
+---
+
+**PYQ7. UPPCS Prelims 2020, Q84**
+Postmasburg and its adjacent areas of South Africa is major producer of which of the following minerals?
+
+A. Uranium
+
+B. Bauxite
+
+C. Manganese
+
+D. Mica
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Manganese.
+</details>
+
+---
+
+**PYQ8. UPPCS Prelims 2021, Q89**
+With reference to NTPC unit at Singrauli, which of the following statement/s is/are correct?
+
+1. It is situated in Northern part of Chhattisgarh State.
+2. It is NTPC's oldest unit.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Only statement 2 is correct. Singrauli lies on the Madhya Pradesh–Uttar Pradesh belt, not northern Chhattisgarh.
+</details>
+
+---
+
+**PYQ9. UPPCS Prelims 2021, Q124**
+A non-renewable source of energy is
+
+A. Solar energy
+
+B. Petroleum
+
+C. Wind energy
+
+D. Biogas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Petroleum is non-renewable.
+</details>
+
+---
+
+**PYQ10. UPPCS Prelims 2021, Q143**
+Flyash pollution is caused by
+
+A. Oil refining
+
+B. Fertilizer industry
+
+C. Thermal power plant
+
+D. Mining
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Thermal power plant.
+</details>
+
+---
+
+**PYQ11. UPPCS Prelims 2021, Q149**
+Match List-I with List-II and select the correct answer using the codes given below the lists.
+
+| List-I (Mineral Exploration Agencies) | List-II (Headquarters) |
+|---|---|
+| A. Oil and Natural Gas Commission | 1. Bhubaneswar |
+| B. Mineral Exploration Corporation Ltd. | 2. Hyderabad |
+| C. National Mineral Development Corporation | 3. Nagpur |
+| D. National Aluminium Company Limited | 4. New Delhi |
+
+> Row order is **not** the answer — use the option codes.
+
+A. 4 2 3 1
+
+B. 1 2 4 3
+
+C. 4 3 2 1
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — ONGC–New Delhi; MECL–Nagpur; NMDC–Hyderabad; NALCO–Bhubaneswar.
+</details>
+
+---
+
+**PYQ12. UPPCS Prelims 2022, Q2**
+Which two of the following States are the leading producers of iron ore in India as per the Annual Report of the Ministry of Mines 2021–22?
+
+1. Odisha
+2. Chhattisgarh
+3. Jharkhand
+4. Karnataka
+
+A. 2 and 4
+
+B. 1 and 4
+
+C. 1 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Odisha and Chhattisgarh.
+</details>
+
+---
+
+**PYQ13. UPPCS Prelims 2022, Q19**
+Which among the following compounds is the main constituent of natural gas?
+
+A. Butane
+
+B. Hexane
+
+C. Benzene
+
+D. Methane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Methane.
+</details>
+
+---
+
+**PYQ14. UPPCS Prelims 2022, Q20**
+Which of the following coasts is the largest tidal energy producing area in India?
+
+A. North Circars Coast
+
+B. Mannar Coast
+
+C. Khambhat Coast
+
+D. Kerala Coast
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Khambhat Coast.
+</details>
+
+---
+
+**PYQ15. UPPCS Prelims 2022, Q27**
+The first airport powered by solar energy in India is—
+
+A. Chennai
+
+B. Cochin
+
+C. Ahmedabad
+
+D. New Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Cochin.
+</details>
+
+---
+
+**PYQ16. UPPCS Prelims 2022, Q52**
+Which one of the following is NOT correctly matched?
+
+A. Madras Aluminium Company Limited (MALCO) — Chennai
+
+B. Bharat Aluminium Company Limited (BALCO) — Korba
+
+C. Hindustan Aluminium Corporation Limited (HINDALCO) — Renukoot
+
+D. Indian Aluminium Company Limited (INDAL) — Hirakud
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — MALCO–Chennai is not correctly matched (Mettur, Tamil Nadu).
+</details>
+
+---
+
+**PYQ17. UPPCS Prelims 2022, Q57**
+Match List-I with List-II and select the correct answer from the code given below.
+
+| List-I (Centre) | List-II (Industry) |
+|---|---|
+| A. Osaka | 1. Cigar |
+| B. Detroit | 2. Ship building |
+| C. Cuba | 3. Cotton textile |
+| D. St. Petersburg | 4. Automobile |
+
+> Row order is **not** the answer — use the option codes.
+
+A. A-2, B-1, C-4, D-3
+
+B. A-4, B-3, C-2, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-3, B-4, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Osaka–cotton textile; Detroit–automobile; Cuba–cigar; St Petersburg–ship building.
+</details>
+
+---
+
+**PYQ18. UPPCS Prelims 2022, Q69**
+Which one of the following is NOT an example of biomass energy source?
+
+A. Coal
+
+B. Nuclear energy
+
+C. Gobar (dung)
+
+D. Wood
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (standard key)** — Nuclear energy is not biomass. Note: coal is also not treated as biomass energy in the renewable-biomass sense; gobar and wood are biomass. Contested with option A in some discussions; prefer Nuclear as the clearest keyed non-biomass.
+</details>
+
+---
+
+**PYQ19. UPPCS Prelims 2022, Q70**
+Which among the following is an important mineral of the Pegu Yoma region of Myanmar?
+
+A. Mineral oil
+
+B. Tin
+
+C. Copper
+
+D. Silver
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mineral oil. Tin is Kinta / Bangka / Tenasserim, not this PYQ’s Pegu Yoma tag.
+</details>
+
+---
+
+**PYQ20. UPPCS Prelims 2022, Q112**
+The famous 'Ruhr coalfield' is situated in which of the following countries?
+
+A. Great Britain
+
+B. Germany
+
+C. Russia
+
+D. France
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Germany.
+</details>
+
+---
+
+**PYQ21. UPPCS Prelims 2022, Q113**
+Compressed Natural Gas (CNG) is mainly composed of—
+
+A. Methane
+
+B. Propane
+
+C. Ethane
+
+D. Butane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Methane.
+</details>
+
+---
+
+**PYQ22. UPPCS Prelims 2022, Q132**
+Solar energy is converted into electric energy through—
+
+A. Dry cells
+
+B. Leclanché cells
+
+C. Voltaic cells
+
+D. Photovoltaic cells
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Photovoltaic cells.
+</details>
+
+---
+
+**PYQ23. UPPCS Prelims 2022, Q136**
+Match List-I with List-II and select the correct answer from the code given below.
+
+| List-I (Revolution) | List-II (Related with) |
+|---|---|
+| A. Golden Revolution | 1. Oilseed production |
+| B. Grey Revolution | 2. Horticulture and honey |
+| C. Yellow Revolution | 3. Petroleum production |
+| D. Black Revolution | 4. Fertilizers |
+
+> Row order is **not** the answer — use the option codes.
+
+A. A-2, B-4, C-1, D-3
+
+B. A-2, B-3, C-4, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-4, B-2, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Golden–horticulture/honey; Grey–fertilizers; Yellow–oilseeds; Black–petroleum.
+</details>
+
+---
+
+**PYQ24. UPPCS Prelims 2022, Q139**
+Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
+
+A. Biomass energy
+
+B. Nuclear energy
+
+C. Wind energy
+
+D. Geothermal energy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Contested B or D** — Both Nuclear and Geothermal are not ultimately derived from the Sun. Wind and biomass are solar-linked. Teach both; single-letter keys vary by source.
+</details>
+
+---
+
+**PYQ25. UPPCS Prelims 2023, Q58**
+Shivanasamudra and Kalpakkam are respectively important for—
+
+A. Hydel Power and Nuclear Energy
+
+B. Thermal Power and Nuclear Energy
+
+C. Nuclear Energy and Hydel Power
+
+D. Solar Power and Nuclear Energy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Hydel Power and Nuclear Energy.
+</details>
+
+---
+
+**PYQ26. UPPCS Prelims 2023, Q69**
+Which one of the following is the largest coal-producing centre of Ukraine?
+
+A. Zaporizhzhia
+
+B. Kharkiv
+
+C. Donetsk
+
+D. Kyiv
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Donetsk.
+</details>
+
+---
+
+**PYQ27. UPPCS Prelims 2023, Q70**
+"Mount Newman" is famous for which of the following minerals?
+
+A. Iron Ore
+
+B. Manganese
+
+C. Copper
+
+D. Bauxite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Iron Ore.
+</details>
+
+---
+
+**PYQ28. UPPCS Prelims 2023, Q77**
+With reference to mineral resources, which of the following statements is/are correct?
+
+1. Lithium's inferred resources have been found in Reasi district of Jammu & Kashmir.
+2. India is import dependent for many minerals like Lithium, Nickel and Cobalt.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both statements are correct.
+</details>
+
+---
+
+**PYQ29. UPPCS Prelims 2024, Q78**
+Which one of the following pairs (Country - Oil Field) is not correctly matched?
+
+A. Iran - Haft Kel
+
+B. Kuwait - Kashagan
+
+C. Saudi Arabia - Dhahran
+
+D. Iraq - Zubair
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Kashagan is in Kazakhstan, not Kuwait.
+</details>
+
+---
+
+**PYQ30. UPPCS Prelims 2025, Q4**
+Match List-I with List-II and choose the correct answer by using the code given below the lists.
+
+| List-I (Coal Field) | List-II (Country) |
+|---|---|
+| A. Appalachian | 1. England |
+| B. Lancashire | 2. Germany |
+| C. Ruhr | 3. Russia |
+| D. Kuzbass | 4. USA |
+
+> Row order is **not** the answer — use the option codes.
+
+A. 4 1 2 3
+
+B. 1 4 3 2
+
+C. 1 4 2 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Appalachian–USA; Lancashire–England; Ruhr–Germany; Kuzbass–Russia.
+</details>
+
+---
+
+**PYQ31. UPPCS Prelims 2025, Q9**
+Which of the following pairs is/are correctly matched?
+**(Coal Producing Area) — (State)**
+
+1. Maolong — Arunachal Pradesh
+2. Raniganj — West Bengal
+3. Ramgarh — Jharkhand
+4. Talcher — Odisha
+
+A. Only 1 and 2
+
+B. Only 2, 3 and 4
+
+C. Only 1, 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Only 2, 3 and 4. Maolong is in Meghalaya, not Arunachal Pradesh.
+</details>
+
+---
+
+**PYQ32. UPPCS Prelims 2025, Q14**
+Match List-I with List-II and choose the correct answer using the code given below the lists.
+
+| List-I (Refinery) | List-II (State) |
+|---|---|
+| A. Nayara | 1. Assam |
+| B. Manali | 2. Gujarat |
+| C. Numaligarh | 3. Andhra Pradesh |
+| D. Tatipaka | 4. Tamil Nadu |
+
+> Row order is **not** the answer — use the option codes.
+
+A. 4 2 3 1
+
+B. 2 4 1 3
+
+C. 2 4 3 1
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Nayara–Gujarat; Manali–Tamil Nadu; Numaligarh–Assam; Tatipaka–Andhra Pradesh.
+</details>
+
+---
+
+**PYQ33. UPPCS Prelims 2025, Q31**
+With reference to hydroelectric power in Northern India, which of the following statements is/are correct?
+
+1. The Himalayan region has enormous hydroelectric potential.
+2. Eastern Uttar Pradesh and Bihar cannot utilize this potential because the Himalayas situated to their north lie within the territory of Nepal.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both statements are correct.
+</details>
+
+---
+
+**PYQ34. UPPCS Prelims 2025, Q36**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+**Assertion (A):** Generally, an alloy of lead and tin is used as the material of fuse wire.
+
+**Reason (R):** Alloy of lead and tin has a higher melting point than copper and aluminium.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Assertion true; Reason false because the alloy has a lower melting point.
+</details>
+
+---
+
+**PYQ35. UPPCS Prelims 2025, Q106**
+Match List-I with List-II and choose the correct answer using the code given below the lists.
+
+| List-I (Nuclear Power Plant) | List-II (State) |
+|---|---|
+| A. Kudankulam | 1. Karnataka |
+| B. Kakrapar | 2. Tamil Nadu |
+| C. Kaiga | 3. Rajasthan |
+| D. Rawatbhata | 4. Gujarat |
+
+> Row order is **not** the answer — use the option codes.
+
+A. 4 2 1 3
+
+B. 2 4 3 1
+
+C. 2 4 1 3
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kudankulam–Tamil Nadu; Kakrapar–Gujarat; Kaiga–Karnataka; Rawatbhata–Rajasthan.
+</details>
+
+---
+
+**PYQ36. UPPCS Prelims 2025, Q108**
+Match List-I with List-II and choose the correct answer using the code given below.
+
+| List-I (Iron Ore Mine) | List-II (State) |
+|---|---|
+| A. Gurumahisani | 1. Jharkhand |
+| B. Bailadila | 2. Karnataka |
+| C. Noamundi | 3. Odisha |
+| D. Kudremukh | 4. Chhattisgarh |
+
+> Row order is **not** the answer — use the option codes.
+
+A. 3 4 2 1
+
+B. 4 3 1 2
+
+C. 4 3 2 1
+
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Code 3 4 1 2: Gurumahisani–Odisha; Bailadila–Chhattisgarh; Noamundi–Jharkhand; Kudremukh–Karnataka.
+</details>
+
+---
+
+**PYQ37. UPPCS Prelims 2019, Q63**
+At which of the following places is the Secretariat of the International Solar Alliance (ISA) located as present?
+
+A. Paris
+
+B. New Delhi
+
+C. Gurugram
+
+D. New York
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Gurugram (Gwal Pahari). Paper OCR may show “LSA” / “Paria”.
+</details>
+
+---
+
+**PYQ38. UPPCS Prelims 2020, Q46**
+In which of the following districts of U.P. a major solar power plant was established in collaboration with France in 2018?
+
+A. Agra
+
+B. Ballia
+
+C. Deoria
+
+D. Mirzapur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Mirzapur.
+</details>
+
+---
+
+**PYQ39. UPPCS Prelims 2025, Q109**
+With reference to the International Solar Alliance, which of the following statements is/are correct?
+
+1. It is the first treaty-based intergovernmental organization headquartered in India and has 38 member countries.
+2. The World Solar Bank and One Sun One World One Grid initiatives have been undertaken under it.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Only 2. HQ-in-India is true, but **38 members is outdated** (100+ signatories/members). OSOWOG is an ISA flagship; World Solar Bank is the finance-arm proposal tagged with ISA in the paper.
+</details>
+
+---
+
+**PYQ40. UPPCS Prelims 2022, Q41**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+**Assertion (A):** Chile is the leading producer of copper in the world.
+
+**Reason (R):** The Andes Region of North Chile is enriched with the largest deposits of porphyry copper.
+
+A. (A) is false but (R) is true
+
+B. (A) is true but (R) is false
+
+C. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** (standard geography key) — Chile–Andes porphyry copper. Rank vs DRC can flip in later years; for 2022 learn **Chile + northern Andes**.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -1941,885 +2822,6 @@ D. Only peat of the Ganga delta
 <summary>Show answer</summary>
 
 **Ans: B** — ~80% bituminous non-coking framing in standard notes.
-</details>
-
----
-
-## Complete PYQ Bank — Minerals, Energy & Industry (2018–2025)
-
-**Instructions:** Answers are under **Show answer** spoilers. Read the full stem before opening.
-
----
-
-**PYQ1. UPPCS Prelims 2018, Q130**
-Which of the following is the main component of the natural gas?
-
-A. Ethane
-
-B. Butane
-
-C. Carbon mono-oxide
-
-D. Methane
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Methane is the main component of natural gas.
-</details>
-
----
-
-**PYQ2. UPPCS Prelims 2018, Q142**
-Which of the following energy sources produces NO atmospheric pollution?
-
-A. Nuclear energy
-
-B. Solar energy
-
-C. Petroleum energy
-
-D. Coal energy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Solar energy produces no atmospheric pollution among the given options.
-</details>
-
----
-
-**PYQ3. UPPCS Prelims 2019, Q64**
-The First Union Territory of India to run 100 percent on solar energy is
-
-A. Andaman-Nicobar
-
-B. Chandigarh
-
-C. Diu
-
-D. Puducherry
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Diu.
-</details>
-
----
-
-**PYQ4. UPPCS Prelims 2019, Q81**
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I (Coal Fields) | List-II (Located) |
-|---|---|
-| A. Talcher | 1. Damodar Valley |
-| B. Karanpura | 2. Son Valley |
-| C. Singrauli | 3. Godavari Valley |
-| D. Singareni | 4. Mahanadi Valley |
-
-> Row order is **not** the answer — use the option codes.
-
-A. 4 1 2 3
-
-B. 3 2 1 4
-
-C. 2 4 3 1
-
-D. 1 3 2 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Talcher–Mahanadi; Karanpura–Damodar; Singrauli–Son; Singareni–Godavari.
-</details>
-
----
-
-**PYQ5. UPPCS Prelims 2020, Q58**
-Given below are two statements, one is labelled as Assertion (A) and other as Reason (R):
-
-**Assertion (A):** Ahmedabad is the largest centre of cotton textile industry in India.
-
-**Reason (R):** Ahmedabad is located in Major cotton growing region of India, so it has no problem of raw materials.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-
-C. (A) is true but (R) is false
-
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Assertion is false (Mumbai traditionally largest). Reason is true (Ahmedabad is in a major cotton region).
-</details>
-
----
-
-**PYQ6. UPPCS Prelims 2020, Q64**
-Which of the following are NOT correctly matched?
-**(Mineral) (Mining City)**
-
-1. Copper – Chitradurga
-2. Iron ore – Ballari
-3. Manganese – Bhilwara
-4. Bauxite – Katni
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. 2 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Copper–Chitradurga and Manganese–Bhilwara are not correctly matched. Iron ore–Ballari and Bauxite–Katni are treated as correct.
-</details>
-
----
-
-**PYQ7. UPPCS Prelims 2020, Q84**
-Postmasburg and its adjacent areas of South Africa is major producer of which of the following minerals?
-
-A. Uranium
-
-B. Bauxite
-
-C. Manganese
-
-D. Mica
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Manganese.
-</details>
-
----
-
-**PYQ8. UPPCS Prelims 2021, Q89**
-With reference to NTPC unit at Singrauli, which of the following statement/s is/are correct?
-
-1. It is situated in Northern part of Chhattisgarh State.
-2. It is NTPC's oldest unit.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Only statement 2 is correct. Singrauli lies on the Madhya Pradesh–Uttar Pradesh belt, not northern Chhattisgarh.
-</details>
-
----
-
-**PYQ9. UPPCS Prelims 2021, Q124**
-A non-renewable source of energy is
-
-A. Solar energy
-
-B. Petroleum
-
-C. Wind energy
-
-D. Biogas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Petroleum is non-renewable.
-</details>
-
----
-
-**PYQ10. UPPCS Prelims 2021, Q143**
-Flyash pollution is caused by
-
-A. Oil refining
-
-B. Fertilizer industry
-
-C. Thermal power plant
-
-D. Mining
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Thermal power plant.
-</details>
-
----
-
-**PYQ11. UPPCS Prelims 2021, Q149**
-Match List-I with List-II and select the correct answer using the codes given below the lists.
-
-| List-I (Mineral Exploration Agencies) | List-II (Headquarters) |
-|---|---|
-| A. Oil and Natural Gas Commission | 1. Bhubaneswar |
-| B. Mineral Exploration Corporation Ltd. | 2. Hyderabad |
-| C. National Mineral Development Corporation | 3. Nagpur |
-| D. National Aluminium Company Limited | 4. New Delhi |
-
-> Row order is **not** the answer — use the option codes.
-
-A. 4 2 3 1
-
-B. 1 2 4 3
-
-C. 4 3 2 1
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — ONGC–New Delhi; MECL–Nagpur; NMDC–Hyderabad; NALCO–Bhubaneswar.
-</details>
-
----
-
-**PYQ12. UPPCS Prelims 2022, Q2**
-Which two of the following States are the leading producers of iron ore in India as per the Annual Report of the Ministry of Mines 2021–22?
-
-1. Odisha
-2. Chhattisgarh
-3. Jharkhand
-4. Karnataka
-
-A. 2 and 4
-
-B. 1 and 4
-
-C. 1 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Odisha and Chhattisgarh.
-</details>
-
----
-
-**PYQ13. UPPCS Prelims 2022, Q19**
-Which among the following compounds is the main constituent of natural gas?
-
-A. Butane
-
-B. Hexane
-
-C. Benzene
-
-D. Methane
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Methane.
-</details>
-
----
-
-**PYQ14. UPPCS Prelims 2022, Q20**
-Which of the following coasts is the largest tidal energy producing area in India?
-
-A. North Circars Coast
-
-B. Mannar Coast
-
-C. Khambhat Coast
-
-D. Kerala Coast
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Khambhat Coast.
-</details>
-
----
-
-**PYQ15. UPPCS Prelims 2022, Q27**
-The first airport powered by solar energy in India is—
-
-A. Chennai
-
-B. Cochin
-
-C. Ahmedabad
-
-D. New Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Cochin.
-</details>
-
----
-
-**PYQ16. UPPCS Prelims 2022, Q52**
-Which one of the following is NOT correctly matched?
-
-A. Madras Aluminium Company Limited (MALCO) — Chennai
-
-B. Bharat Aluminium Company Limited (BALCO) — Korba
-
-C. Hindustan Aluminium Corporation Limited (HINDALCO) — Renukoot
-
-D. Indian Aluminium Company Limited (INDAL) — Hirakud
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — MALCO–Chennai is not correctly matched (Mettur, Tamil Nadu).
-</details>
-
----
-
-**PYQ17. UPPCS Prelims 2022, Q57**
-Match List-I with List-II and select the correct answer from the code given below.
-
-| List-I (Centre) | List-II (Industry) |
-|---|---|
-| A. Osaka | 1. Cigar |
-| B. Detroit | 2. Ship building |
-| C. Cuba | 3. Cotton textile |
-| D. St. Petersburg | 4. Automobile |
-
-> Row order is **not** the answer — use the option codes.
-
-A. A-2, B-1, C-4, D-3
-
-B. A-4, B-3, C-2, D-1
-
-C. A-1, B-2, C-3, D-4
-
-D. A-3, B-4, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Osaka–cotton textile; Detroit–automobile; Cuba–cigar; St Petersburg–ship building.
-</details>
-
----
-
-**PYQ18. UPPCS Prelims 2022, Q69**
-Which one of the following is NOT an example of biomass energy source?
-
-A. Coal
-
-B. Nuclear energy
-
-C. Gobar (dung)
-
-D. Wood
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (standard key)** — Nuclear energy is not biomass. Note: coal is also not treated as biomass energy in the renewable-biomass sense; gobar and wood are biomass. Contested with option A in some discussions; prefer Nuclear as the clearest keyed non-biomass.
-</details>
-
----
-
-**PYQ19. UPPCS Prelims 2022, Q70**
-Which among the following is an important mineral of the Pegu Yoma region of Myanmar?
-
-A. Mineral oil
-
-B. Tin
-
-C. Copper
-
-D. Silver
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mineral oil. Tin is Kinta / Bangka / Tenasserim, not this PYQ’s Pegu Yoma tag.
-</details>
-
----
-
-**PYQ20. UPPCS Prelims 2022, Q112**
-The famous 'Ruhr coalfield' is situated in which of the following countries?
-
-A. Great Britain
-
-B. Germany
-
-C. Russia
-
-D. France
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Germany.
-</details>
-
----
-
-**PYQ21. UPPCS Prelims 2022, Q113**
-Compressed Natural Gas (CNG) is mainly composed of—
-
-A. Methane
-
-B. Propane
-
-C. Ethane
-
-D. Butane
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Methane.
-</details>
-
----
-
-**PYQ22. UPPCS Prelims 2022, Q132**
-Solar energy is converted into electric energy through—
-
-A. Dry cells
-
-B. Leclanché cells
-
-C. Voltaic cells
-
-D. Photovoltaic cells
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Photovoltaic cells.
-</details>
-
----
-
-**PYQ23. UPPCS Prelims 2022, Q136**
-Match List-I with List-II and select the correct answer from the code given below.
-
-| List-I (Revolution) | List-II (Related with) |
-|---|---|
-| A. Golden Revolution | 1. Oilseed production |
-| B. Grey Revolution | 2. Horticulture and honey |
-| C. Yellow Revolution | 3. Petroleum production |
-| D. Black Revolution | 4. Fertilizers |
-
-> Row order is **not** the answer — use the option codes.
-
-A. A-2, B-4, C-1, D-3
-
-B. A-2, B-3, C-4, D-1
-
-C. A-1, B-2, C-3, D-4
-
-D. A-4, B-2, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Golden–horticulture/honey; Grey–fertilizers; Yellow–oilseeds; Black–petroleum.
-</details>
-
----
-
-**PYQ24. UPPCS Prelims 2022, Q139**
-Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
-
-A. Biomass energy
-
-B. Nuclear energy
-
-C. Wind energy
-
-D. Geothermal energy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: Contested B or D** — Both Nuclear and Geothermal are not ultimately derived from the Sun. Wind and biomass are solar-linked. Teach both; single-letter keys vary by source.
-</details>
-
----
-
-**PYQ25. UPPCS Prelims 2023, Q58**
-Shivanasamudra and Kalpakkam are respectively important for—
-
-A. Hydel Power and Nuclear Energy
-
-B. Thermal Power and Nuclear Energy
-
-C. Nuclear Energy and Hydel Power
-
-D. Solar Power and Nuclear Energy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Hydel Power and Nuclear Energy.
-</details>
-
----
-
-**PYQ26. UPPCS Prelims 2023, Q69**
-Which one of the following is the largest coal-producing centre of Ukraine?
-
-A. Zaporizhzhia
-
-B. Kharkiv
-
-C. Donetsk
-
-D. Kyiv
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Donetsk.
-</details>
-
----
-
-**PYQ27. UPPCS Prelims 2023, Q70**
-"Mount Newman" is famous for which of the following minerals?
-
-A. Iron Ore
-
-B. Manganese
-
-C. Copper
-
-D. Bauxite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Iron Ore.
-</details>
-
----
-
-**PYQ28. UPPCS Prelims 2023, Q77**
-With reference to mineral resources, which of the following statements is/are correct?
-
-1. Lithium's inferred resources have been found in Reasi district of Jammu & Kashmir.
-2. India is import dependent for many minerals like Lithium, Nickel and Cobalt.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both statements are correct.
-</details>
-
----
-
-**PYQ29. UPPCS Prelims 2024, Q78**
-Which one of the following pairs (Country - Oil Field) is not correctly matched?
-
-A. Iran - Haft Kel
-
-B. Kuwait - Kashagan
-
-C. Saudi Arabia - Dhahran
-
-D. Iraq - Zubair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kashagan is in Kazakhstan, not Kuwait.
-</details>
-
----
-
-**PYQ30. UPPCS Prelims 2025, Q4**
-Match List-I with List-II and choose the correct answer by using the code given below the lists.
-
-| List-I (Coal Field) | List-II (Country) |
-|---|---|
-| A. Appalachian | 1. England |
-| B. Lancashire | 2. Germany |
-| C. Ruhr | 3. Russia |
-| D. Kuzbass | 4. USA |
-
-> Row order is **not** the answer — use the option codes.
-
-A. 4 1 2 3
-
-B. 1 4 3 2
-
-C. 1 4 2 3
-
-D. 4 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Appalachian–USA; Lancashire–England; Ruhr–Germany; Kuzbass–Russia.
-</details>
-
----
-
-**PYQ31. UPPCS Prelims 2025, Q9**
-Which of the following pairs is/are correctly matched?
-**(Coal Producing Area) — (State)**
-
-1. Maolong — Arunachal Pradesh
-2. Raniganj — West Bengal
-3. Ramgarh — Jharkhand
-4. Talcher — Odisha
-
-A. Only 1 and 2
-
-B. Only 2, 3 and 4
-
-C. Only 1, 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Only 2, 3 and 4. Maolong is in Meghalaya, not Arunachal Pradesh.
-</details>
-
----
-
-**PYQ32. UPPCS Prelims 2025, Q14**
-Match List-I with List-II and choose the correct answer using the code given below the lists.
-
-| List-I (Refinery) | List-II (State) |
-|---|---|
-| A. Nayara | 1. Assam |
-| B. Manali | 2. Gujarat |
-| C. Numaligarh | 3. Andhra Pradesh |
-| D. Tatipaka | 4. Tamil Nadu |
-
-> Row order is **not** the answer — use the option codes.
-
-A. 4 2 3 1
-
-B. 2 4 1 3
-
-C. 2 4 3 1
-
-D. 4 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Nayara–Gujarat; Manali–Tamil Nadu; Numaligarh–Assam; Tatipaka–Andhra Pradesh.
-</details>
-
----
-
-**PYQ33. UPPCS Prelims 2025, Q31**
-With reference to hydroelectric power in Northern India, which of the following statements is/are correct?
-
-1. The Himalayan region has enormous hydroelectric potential.
-2. Eastern Uttar Pradesh and Bihar cannot utilize this potential because the Himalayas situated to their north lie within the territory of Nepal.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both statements are correct.
-</details>
-
----
-
-**PYQ34. UPPCS Prelims 2025, Q36**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-**Assertion (A):** Generally, an alloy of lead and tin is used as the material of fuse wire.
-
-**Reason (R):** Alloy of lead and tin has a higher melting point than copper and aluminium.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Assertion true; Reason false because the alloy has a lower melting point.
-</details>
-
----
-
-**PYQ35. UPPCS Prelims 2025, Q106**
-Match List-I with List-II and choose the correct answer using the code given below the lists.
-
-| List-I (Nuclear Power Plant) | List-II (State) |
-|---|---|
-| A. Kudankulam | 1. Karnataka |
-| B. Kakrapar | 2. Tamil Nadu |
-| C. Kaiga | 3. Rajasthan |
-| D. Rawatbhata | 4. Gujarat |
-
-> Row order is **not** the answer — use the option codes.
-
-A. 4 2 1 3
-
-B. 2 4 3 1
-
-C. 2 4 1 3
-
-D. 4 2 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kudankulam–Tamil Nadu; Kakrapar–Gujarat; Kaiga–Karnataka; Rawatbhata–Rajasthan.
-</details>
-
----
-
-**PYQ36. UPPCS Prelims 2025, Q108**
-Match List-I with List-II and choose the correct answer using the code given below.
-
-| List-I (Iron Ore Mine) | List-II (State) |
-|---|---|
-| A. Gurumahisani | 1. Jharkhand |
-| B. Bailadila | 2. Karnataka |
-| C. Noamundi | 3. Odisha |
-| D. Kudremukh | 4. Chhattisgarh |
-
-> Row order is **not** the answer — use the option codes.
-
-A. 3 4 2 1
-
-B. 4 3 1 2
-
-C. 4 3 2 1
-
-D. 3 4 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Code 3 4 1 2: Gurumahisani–Odisha; Bailadila–Chhattisgarh; Noamundi–Jharkhand; Kudremukh–Karnataka.
-</details>
-
----
-
-**PYQ37. UPPCS Prelims 2019, Q63**
-At which of the following places is the Secretariat of the International Solar Alliance (ISA) located as present?
-
-A. Paris
-
-B. New Delhi
-
-C. Gurugram
-
-D. New York
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Gurugram (Gwal Pahari). Paper OCR may show “LSA” / “Paria”.
-</details>
-
----
-
-**PYQ38. UPPCS Prelims 2020, Q46**
-In which of the following districts of U.P. a major solar power plant was established in collaboration with France in 2018?
-
-A. Agra
-
-B. Ballia
-
-C. Deoria
-
-D. Mirzapur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Mirzapur.
-</details>
-
----
-
-**PYQ39. UPPCS Prelims 2025, Q109**
-With reference to the International Solar Alliance, which of the following statements is/are correct?
-
-1. It is the first treaty-based intergovernmental organization headquartered in India and has 38 member countries.
-2. The World Solar Bank and One Sun One World One Grid initiatives have been undertaken under it.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only 2. HQ-in-India is true, but **38 members is outdated** (100+ signatories/members). OSOWOG is an ISA flagship; World Solar Bank is the finance-arm proposal tagged with ISA in the paper.
-</details>
-
----
-
-**PYQ40. UPPCS Prelims 2022, Q41**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-**Assertion (A):** Chile is the leading producer of copper in the world.
-
-**Reason (R):** The Andes Region of North Chile is enriched with the largest deposits of porphyry copper.
-
-A. (A) is false but (R) is true
-
-B. (A) is true but (R) is false
-
-C. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** (standard geography key) — Chile–Andes porphyry copper. Rank vs DRC can flip in later years; for 2022 learn **Chile + northern Andes**.
 </details>
 
 ---

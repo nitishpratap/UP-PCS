@@ -696,6 +696,215 @@ D. Mistral Australia
 
 ---
 
+## Complete PYQ Bank
+
+**Instructions:** Answers under `<details>`. Options sit on separate lines. Match-lists as tables.
+
+**Q1. UPPCS Prelims 2025, Q138**
+
+The Suez Canal connects which of the following?
+
+1. Atlantic Ocean
+2. Red Sea
+3. Mediterranean Sea
+4. Indian Ocean
+
+Select the correct answer from the code given below:
+
+**Options:**
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Mediterranean and Red Sea.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q32**
+
+Consider the following statements:
+
+1. Chinook is a warm and dry wind.
+2. Foehn wind occurs in the Alps.
+
+Which of the above statements is/are correct?
+
+**Options:**
+
+A. Both 1 and 2
+
+B. Only 1
+
+C. Only 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2023, Q60**
+
+Which of the following (**Port — Country**) is **not** correctly matched?
+
+**Options:**
+
+A. Rotterdam — Netherlands
+
+B. Igarka — China
+
+C. Montevideo — Uruguay
+
+D. Jakarta — Indonesia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Igarka = Russia (Yenisei).
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2022, Q57**
+
+Match List-I with List-II and select the correct answer from the code given below.
+
+| List-I (Centre) | List-II (Industry) |
+|-----------------|-------------------|
+| A. Osaka | 1. Cigar |
+| B. Detroit | 2. Ship building |
+| C. Cuba | 3. Cotton textile |
+| D. St. Petersburg | 4. Automobile |
+
+**Options:**
+
+A. A-2, B-1, C-4, D-3
+
+B. A-4, B-3, C-2, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-3, B-4, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2021, Q30**
+
+Which one of the following pairs is **NOT** correctly matched?
+
+**Options:**
+
+A. Leveche — Spain
+
+B. Brickfielder — Australia
+
+C. Black roller — North America
+
+D. Shamal — Austria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Shamal = Arabia / Persian Gulf.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2019, Q76**
+
+In the Suez canal region, the correct order of lakes lying from North to South direction is
+
+**Options:**
+
+A. Lake Timsah-Little Bitter Lake-Great Bitter Lake-Luke Manzola
+
+B. Great Bitter Lake - Little Bitter Lake-Lake Timsah-Lake Manzala
+
+C. Lake Manzala - Great Bitter Lake - Little Bitter Lake-Lake Timsah
+
+D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2019, Q80**
+
+Which of the fallowing is NOT correctly matched?
+
+(Wind) (Country)
+
+**Options:**
+
+A. Santa Ana California
+
+B. Haboob Sudan
+
+C. Yamo Japan
+
+D. Mistral Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Mistral = France.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2018, Q29**
+
+How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
+
+**Options:**
+
+A. 5,000 km
+
+B. 7,000 km
+
+C. 8,000 km
+
+D. 10,000 km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -2100,215 +2309,6 @@ D. Montevideo — Argentina
 <summary>Show answer</summary>
 
 **Ans: D** — Montevideo = **Uruguay**.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Answers under `<details>`. Options sit on separate lines. Match-lists as tables.
-
-**Q1. UPPCS Prelims 2025, Q138**
-
-The Suez Canal connects which of the following?
-
-1. Atlantic Ocean
-2. Red Sea
-3. Mediterranean Sea
-4. Indian Ocean
-
-Select the correct answer from the code given below:
-
-**Options:**
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Mediterranean and Red Sea.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2024, Q32**
-
-Consider the following statements:
-
-1. Chinook is a warm and dry wind.
-2. Foehn wind occurs in the Alps.
-
-Which of the above statements is/are correct?
-
-**Options:**
-
-A. Both 1 and 2
-
-B. Only 1
-
-C. Only 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2023, Q60**
-
-Which of the following (**Port — Country**) is **not** correctly matched?
-
-**Options:**
-
-A. Rotterdam — Netherlands
-
-B. Igarka — China
-
-C. Montevideo — Uruguay
-
-D. Jakarta — Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Igarka = Russia (Yenisei).
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2022, Q57**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-| List-I (Centre) | List-II (Industry) |
-|-----------------|-------------------|
-| A. Osaka | 1. Cigar |
-| B. Detroit | 2. Ship building |
-| C. Cuba | 3. Cotton textile |
-| D. St. Petersburg | 4. Automobile |
-
-**Options:**
-
-A. A-2, B-1, C-4, D-3
-
-B. A-4, B-3, C-2, D-1
-
-C. A-1, B-2, C-3, D-4
-
-D. A-3, B-4, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2021, Q30**
-
-Which one of the following pairs is **NOT** correctly matched?
-
-**Options:**
-
-A. Leveche — Spain
-
-B. Brickfielder — Australia
-
-C. Black roller — North America
-
-D. Shamal — Austria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Shamal = Arabia / Persian Gulf.
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2019, Q76**
-
-In the Suez canal region, the correct order of lakes lying from North to South direction is
-
-**Options:**
-
-A. Lake Timsah-Little Bitter Lake-Great Bitter Lake-Luke Manzola
-
-B. Great Bitter Lake - Little Bitter Lake-Lake Timsah-Lake Manzala
-
-C. Lake Manzala - Great Bitter Lake - Little Bitter Lake-Lake Timsah
-
-D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2019, Q80**
-
-Which of the fallowing is NOT correctly matched?
-
-(Wind) (Country)
-
-**Options:**
-
-A. Santa Ana California
-
-B. Haboob Sudan
-
-C. Yamo Japan
-
-D. Mistral Australia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Mistral = France.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2018, Q29**
-
-How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
-
-**Options:**
-
-A. 5,000 km
-
-B. 7,000 km
-
-C. 8,000 km
-
-D. 10,000 km
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
 </details>
 
 ---

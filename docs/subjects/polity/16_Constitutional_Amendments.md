@@ -697,6 +697,219 @@ D. 86th Constitutional Amendment Act, 2002
 
 ---
 
+## Complete PYQ Bank (Topic 16)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q56**
+Which of the following words were added to the Preamble by the 42nd Constitutional Amendment?
+1. Socialist
+2. Secular
+3. Sovereignty
+4. Republic
+A. 1 and 3
+B. 3 and 4
+C. 2 and 3
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2024
+
+**Q2. UPPCS Prelims 2024, Q45**
+GST in India was introduced through which Constitutional Amendment Act?
+A. 101st Amendment
+B. 91st Amendment
+C. 86th Amendment
+D. 73rd Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q126**
+Chronology: Shankari Prasad · Sajjan Singh · Golaknath · Kesavananda
+A. 1, 4, 3, 2
+B. 3, 2, 1, 4
+C. 1, 2, 3, 4
+D. 3, 4, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q127**
+42nd / 52nd / 86th / 96th years:
+A. A-2, B-1, C-3, D-4
+B. A-4, B-3, C-2, D-1
+C. A-1, B-2, C-3, D-4
+D. A-3, B-1, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 1976, 1985, 2002, 2011.
+
+</details>
+
+**Q5. UPPCS Prelims 2024, Q142**
+Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd
+*(Both wrong — one officer for India; 7th Amd.)*
+
+<details>
+<summary>Show answer</summary>
+
+**Neither.** 350B officer = 7th Amd, not 9th.
+
+</details>
+
+**Q6. UPPCS Prelims 2024, Q146**
+Which Amendment Acts deal with Local Governance Institutions in India?
+A. 63rd and 64th Amendment Acts
+B. 86th and 87th Amendment Acts
+C. 42nd and 43rd Amendment Acts
+D. 73rd and 74th Amendment Acts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2022
+
+**Q7. UPPCS Prelims 2022, Q12**
+The Right to Education was included in the Fundamental Rights by the—
+A. Constitution (103rd Amendment) Act, 2019
+B. Constitution (93rd Amendment) Act, 2005
+C. Constitution (86th Amendment) Act, 2002
+D. Constitution (71st Amendment) Act, 1992
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q8. UPPCS Prelims 2022, Q37**
+Basic structure propounded in—
+A. Kesavananda 1973
+B. Golaknath 1967
+C. Chitralekha 1964
+D. Yusuf 1954
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q9. UPPCS Prelims 2022, Q131**
+By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
+A. 75th
+B. 73rd
+C. 70th
+D. 69th
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — they mean **NCT** (239AA), not the NCR planning belt.
+
+</details>
+
+### 2021
+
+**Q10. UPPCS Prelims 2021, Q42**
+Golaknath · Kesavananda · 24th · 42nd chronology
+A. I, III, II, IV
+B. I, II, III, IV
+C. III, I, II, IV
+D. III, I, IV, II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q11. UPPCS Prelims 2021, Q110**
+Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST (Goods and Service Tax) regime?
+A. 101st Amendment Act
+B. 102nd Amendment Act
+C. 103rd Amendment Act
+D. 104th Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q12. UPPCS Prelims 2021, Q113**
+Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?
+A. 66th Amendment
+B. 62nd Amendment
+C. 61st Amendment
+D. 63rd Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### 2020
+
+**Q13. UPPCS Prelims 2020, Q120**
+Basic structure doctrine in—
+A. Golaknath 1967
+B. Keshavanand Bharati 1973
+C. Shankari Prasad 1951
+D. Sajjan Singh 1965
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### 2019
+
+**Q14. UPPCS Prelims 2019, Q106**
+Article inserted by 42nd for participation of workers in management?
+A. 38
+B. 39A
+C. 45
+D. 43A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **95 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -2136,219 +2349,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 16)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q56**
-Which of the following words were added to the Preamble by the 42nd Constitutional Amendment?
-1. Socialist
-2. Secular
-3. Sovereignty
-4. Republic
-A. 1 and 3
-B. 3 and 4
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2024
-
-**Q2. UPPCS Prelims 2024, Q45**
-GST in India was introduced through which Constitutional Amendment Act?
-A. 101st Amendment
-B. 91st Amendment
-C. 86th Amendment
-D. 73rd Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q126**
-Chronology: Shankari Prasad · Sajjan Singh · Golaknath · Kesavananda
-A. 1, 4, 3, 2
-B. 3, 2, 1, 4
-C. 1, 2, 3, 4
-D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q127**
-42nd / 52nd / 86th / 96th years:
-A. A-2, B-1, C-3, D-4
-B. A-4, B-3, C-2, D-1
-C. A-1, B-2, C-3, D-4
-D. A-3, B-1, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 1976, 1985, 2002, 2011.
-
-</details>
-
-**Q5. UPPCS Prelims 2024, Q142**
-Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd
-*(Both wrong — one officer for India; 7th Amd.)*
-
-<details>
-<summary>Show answer</summary>
-
-**Neither.** 350B officer = 7th Amd, not 9th.
-
-</details>
-
-**Q6. UPPCS Prelims 2024, Q146**
-Which Amendment Acts deal with Local Governance Institutions in India?
-A. 63rd and 64th Amendment Acts
-B. 86th and 87th Amendment Acts
-C. 42nd and 43rd Amendment Acts
-D. 73rd and 74th Amendment Acts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2022
-
-**Q7. UPPCS Prelims 2022, Q12**
-The Right to Education was included in the Fundamental Rights by the—
-A. Constitution (103rd Amendment) Act, 2019
-B. Constitution (93rd Amendment) Act, 2005
-C. Constitution (86th Amendment) Act, 2002
-D. Constitution (71st Amendment) Act, 1992
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q8. UPPCS Prelims 2022, Q37**
-Basic structure propounded in—
-A. Kesavananda 1973
-B. Golaknath 1967
-C. Chitralekha 1964
-D. Yusuf 1954
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9. UPPCS Prelims 2022, Q131**
-By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
-A. 75th
-B. 73rd
-C. 70th
-D. 69th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — they mean **NCT** (239AA), not the NCR planning belt.
-
-</details>
-
-### 2021
-
-**Q10. UPPCS Prelims 2021, Q42**
-Golaknath · Kesavananda · 24th · 42nd chronology
-A. I, III, II, IV
-B. I, II, III, IV
-C. III, I, II, IV
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11. UPPCS Prelims 2021, Q110**
-Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST (Goods and Service Tax) regime?
-A. 101st Amendment Act
-B. 102nd Amendment Act
-C. 103rd Amendment Act
-D. 104th Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12. UPPCS Prelims 2021, Q113**
-Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?
-A. 66th Amendment
-B. 62nd Amendment
-C. 61st Amendment
-D. 63rd Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### 2020
-
-**Q13. UPPCS Prelims 2020, Q120**
-Basic structure doctrine in—
-A. Golaknath 1967
-B. Keshavanand Bharati 1973
-C. Shankari Prasad 1951
-D. Sajjan Singh 1965
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### 2019
-
-**Q14. UPPCS Prelims 2019, Q106**
-Article inserted by 42nd for participation of workers in management?
-A. 38
-B. 39A
-C. 45
-D. 43A
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
 
 </details>
 

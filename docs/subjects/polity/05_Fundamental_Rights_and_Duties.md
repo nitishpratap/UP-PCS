@@ -818,6 +818,362 @@ D. To abide by the Constitution and respect its ideals
 9. Environment in **both** 48A and 51A(g); monuments = **49 DPSP**, not a Duty.
 10. Duties: **42nd** (10) + **86th** (51A(k)); **vote is NOT a Duty** (2021).
 
+---
+
+## Complete PYQ Bank (Topic 5)
+
+### 2024
+
+**Q1. UPPCS Prelims 2024, Q36**
+Which Article of the Constitution of India guarantees equality before law?
+
+A. Article 12
+B. Article 14
+C. Article 19
+D. Article 21
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Article 14.
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q99**
+Which of the following freedoms is not guaranteed by the Indian Constitution under Article 19?
+
+A. Freedom to assemble peacefully and without arms
+B. Freedom to own, acquire and dispose of property
+C. Freedom to move freely throughout the country
+D. Freedom to practise any trade or profession
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 19(1)(f) deleted by 44th.
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q103**
+Which of the following are envisaged by the Right against Exploitation in the Constitution of India?
+
+1. Abolition of untouchability
+2. Prohibition of human trafficking and forced labour
+3. Prohibition of employment of children in factories and mines
+4. Protection of interests of minorities
+
+A. 2 and 3
+B. 3 and 4
+C. 1 and 2
+D. 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 2 and 3.
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q101**
+Which one of the following pairs is not correctly matched?
+
+A. Equality before Law — Guaranteed to both citizens and non-citizens
+B. Equality of opportunity in public employment — Guaranteed only to Indian citizens
+C. Creating a new State — Power of Parliament
+D. Altering the name of a State — Power of a State Legislature
+
+<details>
+<summary>Show answer</summary>
+
+**D.** A and B are the FR facts (14 vs 16).
+
+</details>
+
+### 2023
+
+**Q5. UPPCS Prelims 2023, Q20**
+Which of the following is not a part of Article 20 of the Constitution of India?
+
+A. Prohibition against Self-Incrimination
+B. Double Jeopardy Clause
+C. Prohibition Against Torture
+D. Ex-post Facto Law
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Torture ≠ Art. 20.
+
+</details>
+
+### 2022
+
+**Q6. UPPCS Prelims 2022, Q12**
+The Right to Education was included in the Fundamental Rights by the—
+
+A. Constitution (103rd Amendment) Act, 2019
+B. Constitution (93rd Amendment) Act, 2005
+C. Constitution (86th Amendment) Act, 2002
+D. Constitution (71st Amendment) Act, 1992
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 86th Amendment, 2002.
+
+</details>
+
+### 2021
+
+**Q7. UPPCS Prelims 2021, Q73**
+Who among the following person said for the Fundamental Rights “a pledge to our people and a pact with the civilized world”?
+
+A. Pt. Jawahar Lal Nehru
+B. Dr. Bhim Rao Ambedkar
+C. Dr. Rajendra Prasad
+D. Dr. S. Radha Krishnan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — S. Radhakrishnan.
+
+</details>
+
+**Q8. UPPCS Prelims 2021, Q66**
+Which one of the following is NOT correctly matched? (Subject — Article)
+
+A. Separation of judiciary from executive — Article 50
+B. Promotion of educational and economic interests of SC/ST — Article 46
+C. Promotion of Co-operative Societies — Article 43A
+D. Organisation of Village Panchayats — Article 40
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Co-operatives = Article **43B**.
+
+</details>
+
+### 2020
+
+**Q9. UPPCS Prelims 2020, Q122**
+Which one of the following is NOT correctly matched?
+
+A. Article 39A — Equal Justice and free legal aid
+B. Article 40 — Organisation of Village Panchayats
+C. Article 44 — Uniform Civil Code
+D. Article 48 — Separation of Judiciary from Executive
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — separation = Article **50**.
+
+</details>
+
+### 2023 (DPSP / writs)
+
+**Q10. UPPCS Prelims 2023, Q11**
+Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights—
+
+1. The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari for the enforcement of Fundamental Rights.
+2. Parliament may by law empower any other court to exercise within its jurisdiction the powers given to the Supreme Court.
+
+A. Both 1 and 2
+B. Only 1
+C. Only 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Both** (Art. 32(3)).
+
+</details>
+
+**Q11. UPPCS Prelims 2023, Q21**
+Which of the following provisions is a part of both the Directive Principles of State Policy and the Fundamental Duties?
+
+A. Guardians to provide opportunity for education to children
+B. Protection of environment
+C. Participation of workers in management of industries
+D. Uniform Civil Code
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Protection of environment** (48A + 51A(g)).
+
+</details>
+
+### 2025
+
+**Q12. UPPCS Prelims 2025, Q146**
+Assertion (A): Directive Principles are important for economic, social and political functions in a modern democratic State.
+Reason (R): The core objective of Directive Principles is to establish economic and social democracy.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Both true; R explains A.
+
+</details>
+
+### 2022 (Duties)
+
+**Q13. UPPCS Prelims 2022, Q134**
+Which of the following is NOT a Fundamental Duty?
+
+A. To protect monuments and places of national importance
+B. To protect and improve the natural environment
+C. To safeguard public property
+D. To respect the National Anthem
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — monuments = DPSP Art. 49.
+
+</details>
+
+### 2019
+
+**Q14. UPPCS Prelims 2019, Q26**
+Assertion (A): Article 30 of the Constitution of India does not define the term ‘minorities’.
+Reason (R): The Constitution recognises only linguistic and religious minorities.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**B.**
+
+</details>
+
+**Q15. UPPCS Prelims 2019, Q98**
+In which of the following are the provisions for the protection and improvement of environment and safeguarding of forests and wildlife found in the Constitution of India?
+
+A. Only in the Directive Principles of State Policy
+B. Only in the Fundamental Duties
+C. Both (A) and (B)
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both** (48A + 51A(g)).
+
+</details>
+
+### 2018
+
+**Q16. UPPCS Prelims 2018, Q143**
+The Directive Principles of State Policy may be classified into which of the following parts for the sake of convenient study?
+
+A. Socialist
+B. Liberal intellectualistic
+C. Gandhian
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — All of the above.
+
+</details>
+
+**Q17. UPPCS Prelims 2021, Q107**
+Under the Constitution of India, which of the following is NOT a Fundamental Duty?
+
+A. To vote in General Election
+B. To develop the scientific temper
+C. To safeguard public property
+D. To abide by the Constitution and respect its ideals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Voting is a constitutional/legal right, **not** listed in Art. 51A. Scientific temper (h), public property (i), and abide by Constitution (a) are duties.
+</details>
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Equality of opportunity sits in Article 16, not Article 19(1).
+
+**Q. UKPCS Prelims 2025, Q120**
+
+Which right is/are not included in the 'Right to Freedom' under Article 19(1)?
+
+1. Right of equal opportunities
+2. Right to assemble peaceably
+3. Right to practise any profession
+4. Freedom of speech and expression
+
+A. Only 1
+B. 1 and 2
+C. 1 and 3
+D. Only 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Equal opportunity in public employment is Article 16 (right to equality). Assembly, profession and speech are in Article 19(1).
+
+</details>
+
+**Logic:** Only one committee fed the 42nd Amendment duties package.
+
+**Q. UKPCS Prelims 2025, Q121**
+
+Fundamental Duties were incorporated in the Constitution on the recommendation of
+
+A. Shah Commission
+B. Administrative Reforms Commission
+C. Santhanam Committee
+D. Swaran Singh Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Swaran Singh Committee → Fundamental Duties via the 42nd Amendment (1976).
+
+</details>
+
+**Logic:** Series B keys Only 1 and 2 for this RTE stem.
+
+**Q. UKPCS Prelims 2025, Q126**
+
+With reference to the Right to Education, consider the following statements:
+
+1. It tries to achieve the aim of 'Education for all'.
+2. Earlier a provision of free and compulsory education was provided in Part IV of the Constitution.
+3. It became a Fundamental Right after the 86th Constitutional Amendment.
+
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Follow the provisional letter (Only 1 and 2) for this paper. Statement 3 is standard textbook fact via Article 21A / 86th Amendment — treat any amended key carefully if released.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -2065,361 +2421,6 @@ D. None
 
 
 **Ans: B** — 1 and 2 are correct; Article 17 is **abolition of untouchability** (titles = Art. 18).
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 5)
-
-### 2024
-
-**Q1. UPPCS Prelims 2024, Q36**
-Which Article of the Constitution of India guarantees equality before law?
-
-A. Article 12
-B. Article 14
-C. Article 19
-D. Article 21
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Article 14.
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q99**
-Which of the following freedoms is not guaranteed by the Indian Constitution under Article 19?
-
-A. Freedom to assemble peacefully and without arms
-B. Freedom to own, acquire and dispose of property
-C. Freedom to move freely throughout the country
-D. Freedom to practise any trade or profession
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 19(1)(f) deleted by 44th.
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q103**
-Which of the following are envisaged by the Right against Exploitation in the Constitution of India?
-
-1. Abolition of untouchability
-2. Prohibition of human trafficking and forced labour
-3. Prohibition of employment of children in factories and mines
-4. Protection of interests of minorities
-
-A. 2 and 3
-B. 3 and 4
-C. 1 and 2
-D. 1 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2 and 3.
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q101**
-Which one of the following pairs is not correctly matched?
-
-A. Equality before Law — Guaranteed to both citizens and non-citizens
-B. Equality of opportunity in public employment — Guaranteed only to Indian citizens
-C. Creating a new State — Power of Parliament
-D. Altering the name of a State — Power of a State Legislature
-
-<details>
-<summary>Show answer</summary>
-
-**D.** A and B are the FR facts (14 vs 16).
-
-</details>
-
-### 2023
-
-**Q5. UPPCS Prelims 2023, Q20**
-Which of the following is not a part of Article 20 of the Constitution of India?
-
-A. Prohibition against Self-Incrimination
-B. Double Jeopardy Clause
-C. Prohibition Against Torture
-D. Ex-post Facto Law
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Torture ≠ Art. 20.
-
-</details>
-
-### 2022
-
-**Q6. UPPCS Prelims 2022, Q12**
-The Right to Education was included in the Fundamental Rights by the—
-
-A. Constitution (103rd Amendment) Act, 2019
-B. Constitution (93rd Amendment) Act, 2005
-C. Constitution (86th Amendment) Act, 2002
-D. Constitution (71st Amendment) Act, 1992
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 86th Amendment, 2002.
-
-</details>
-
-### 2021
-
-**Q7. UPPCS Prelims 2021, Q73**
-Who among the following person said for the Fundamental Rights “a pledge to our people and a pact with the civilized world”?
-
-A. Pt. Jawahar Lal Nehru
-B. Dr. Bhim Rao Ambedkar
-C. Dr. Rajendra Prasad
-D. Dr. S. Radha Krishnan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — S. Radhakrishnan.
-
-</details>
-
-**Q8. UPPCS Prelims 2021, Q66**
-Which one of the following is NOT correctly matched? (Subject — Article)
-
-A. Separation of judiciary from executive — Article 50
-B. Promotion of educational and economic interests of SC/ST — Article 46
-C. Promotion of Co-operative Societies — Article 43A
-D. Organisation of Village Panchayats — Article 40
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Co-operatives = Article **43B**.
-
-</details>
-
-### 2020
-
-**Q9. UPPCS Prelims 2020, Q122**
-Which one of the following is NOT correctly matched?
-
-A. Article 39A — Equal Justice and free legal aid
-B. Article 40 — Organisation of Village Panchayats
-C. Article 44 — Uniform Civil Code
-D. Article 48 — Separation of Judiciary from Executive
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — separation = Article **50**.
-
-</details>
-
-### 2023 (DPSP / writs)
-
-**Q10. UPPCS Prelims 2023, Q11**
-Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights—
-
-1. The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari for the enforcement of Fundamental Rights.
-2. Parliament may by law empower any other court to exercise within its jurisdiction the powers given to the Supreme Court.
-
-A. Both 1 and 2
-B. Only 1
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Both** (Art. 32(3)).
-
-</details>
-
-**Q11. UPPCS Prelims 2023, Q21**
-Which of the following provisions is a part of both the Directive Principles of State Policy and the Fundamental Duties?
-
-A. Guardians to provide opportunity for education to children
-B. Protection of environment
-C. Participation of workers in management of industries
-D. Uniform Civil Code
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Protection of environment** (48A + 51A(g)).
-
-</details>
-
-### 2025
-
-**Q12. UPPCS Prelims 2025, Q146**
-Assertion (A): Directive Principles are important for economic, social and political functions in a modern democratic State.
-Reason (R): The core objective of Directive Principles is to establish economic and social democracy.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Both true; R explains A.
-
-</details>
-
-### 2022 (Duties)
-
-**Q13. UPPCS Prelims 2022, Q134**
-Which of the following is NOT a Fundamental Duty?
-
-A. To protect monuments and places of national importance
-B. To protect and improve the natural environment
-C. To safeguard public property
-D. To respect the National Anthem
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — monuments = DPSP Art. 49.
-
-</details>
-
-### 2019
-
-**Q14. UPPCS Prelims 2019, Q26**
-Assertion (A): Article 30 of the Constitution of India does not define the term ‘minorities’.
-Reason (R): The Constitution recognises only linguistic and religious minorities.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**B.**
-
-</details>
-
-**Q15. UPPCS Prelims 2019, Q98**
-In which of the following are the provisions for the protection and improvement of environment and safeguarding of forests and wildlife found in the Constitution of India?
-
-A. Only in the Directive Principles of State Policy
-B. Only in the Fundamental Duties
-C. Both (A) and (B)
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both** (48A + 51A(g)).
-
-</details>
-
-### 2018
-
-**Q16. UPPCS Prelims 2018, Q143**
-The Directive Principles of State Policy may be classified into which of the following parts for the sake of convenient study?
-
-A. Socialist
-B. Liberal intellectualistic
-C. Gandhian
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All of the above.
-
-</details>
-
-**Q17. UPPCS Prelims 2021, Q107**
-Under the Constitution of India, which of the following is NOT a Fundamental Duty?
-
-A. To vote in General Election
-B. To develop the scientific temper
-C. To safeguard public property
-D. To abide by the Constitution and respect its ideals
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Voting is a constitutional/legal right, **not** listed in Art. 51A. Scientific temper (h), public property (i), and abide by Constitution (a) are duties.
-</details>
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Equality of opportunity sits in Article 16, not Article 19(1).
-
-**Q. UKPCS Prelims 2025, Q120**
-
-Which right is/are not included in the 'Right to Freedom' under Article 19(1)?
-
-1. Right of equal opportunities
-2. Right to assemble peaceably
-3. Right to practise any profession
-4. Freedom of speech and expression
-
-A. Only 1
-B. 1 and 2
-C. 1 and 3
-D. Only 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** Equal opportunity in public employment is Article 16 (right to equality). Assembly, profession and speech are in Article 19(1).
-
-</details>
-
-**Logic:** Only one committee fed the 42nd Amendment duties package.
-
-**Q. UKPCS Prelims 2025, Q121**
-
-Fundamental Duties were incorporated in the Constitution on the recommendation of
-
-A. Shah Commission
-B. Administrative Reforms Commission
-C. Santhanam Committee
-D. Swaran Singh Committee
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Series B provisional key).** Swaran Singh Committee → Fundamental Duties via the 42nd Amendment (1976).
-
-</details>
-
-**Logic:** Series B keys Only 1 and 2 for this RTE stem.
-
-**Q. UKPCS Prelims 2025, Q126**
-
-With reference to the Right to Education, consider the following statements:
-
-1. It tries to achieve the aim of 'Education for all'.
-2. Earlier a provision of free and compulsory education was provided in Part IV of the Constitution.
-3. It became a Fundamental Right after the 86th Constitutional Amendment.
-
-A. Only 1 and 2
-B. Only 2 and 3
-C. Only 1 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** Follow the provisional letter (Only 1 and 2) for this paper. Statement 3 is standard textbook fact via Article 21A / 86th Amendment — treat any amended key carefully if released.
 
 </details>
 

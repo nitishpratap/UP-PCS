@@ -567,6 +567,159 @@ Alexander’s line stops at the **Beas**. **No** Macedonian campaign in Awadh, K
 
 ---
 
+## Complete PYQ Bank (Topic 6)
+
+> UPPCS + high-yield Alexander / Persian stems from Ghatnachakra Greek Invasion block, plus recent Prelims. Magadha Nanda founder = Topic 5.
+
+### UPPCS Prelims 2023
+
+**Q1. UPPCS Prelims 2023, Q23**
+
+With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
+
+A. Greeks — Sakas — Kushans
+B. Greeks — Kushans — Sakas
+C. Sakas — Greeks — Kushans
+D. Sakas — Kushans — Greeks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Greeks (Hellenistic) → Sakas → Kushans.
+
+</details>
+
+**Q2. UPPCS Prelims 2023, Q24**
+
+*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
+
+A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Nagasena.** Milinda = Menander.
+
+</details>
+
+### Alexander / Nanda contemporary (Ghatnachakra Greek Invasion)
+
+**Q3. UPPCS Pre 1998**
+
+Assertion (A): After campaigning for nearly two years, Alexander left India in 325 BCE.  
+Reason (R): He was defeated by Chandragupta Maurya.
+
+A. Both true and R explains A  
+B. Both true but R does not explain A  
+C. A true, R false  
+D. A false, R true  
+
+**A/R logic:** A tests return date (~325); R tests a false defeat story.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** He returned about **325 BCE**; he was **not** defeated by Chandragupta.
+
+</details>
+
+---
+
+**Q4. UPPCS Mains 2013**
+
+The women of which Indian republic or kingdom had taken up arms against Alexander after a large number of its soldiers had been killed?
+
+A. Abhisara B. Glausai C. Katha D. Massaga  
+
+**Logic:** Massaga / Assakenoi.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Massaga.
+
+</details>
+
+---
+
+**Q5. UPPCS Pre 2003 / UDA-LDA Pre 2002 / UPPCS Pre 2000**
+
+Alexander’s success in India was due to:
+
+1. No central power  
+2. Superior army  
+3. Traitorous Indian rulers  
+4. Good administrator  
+
+A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All  
+
+**Logic:** Drop statement 4.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1, 2 and 3.
+
+</details>
+
+---
+
+**Q6. UP RO/ARO Mains 2013**
+
+Name the brave Indian King whom Alexander defeated on the bank of river Jhelum.
+
+A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda  
+
+**Logic:** Hydaspes = Porus; Ambhi was ally.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Porus.
+
+</details>
+
+---
+
+**Q7. UPPCS Re-exam Pre 2015**
+
+Who one of the following had not come to India with Alexander?
+
+A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus  
+
+**Logic:** Deimachus → Bindusara.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Deimachus.
+
+</details>
+
+---
+
+**Q8.** Which dynasty was ruling over North India at the time of Alexander’s invasion?
+
+A. Nanda B. Maurya C. Sunga D. Kanva  
+
+**Logic:** Dhana Nanda contemporary; Mauryas come after.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nanda (Dhana / Agrammes).
+
+</details>
+
+---
+
+### Years with zero extra hits in local `pyq/` folder
+
+UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I question maps to Alexander / Seleucus / Indo-Greek after keyword search beyond the 2023 pair above.
+**Out of boundary:** 2018 Q91 Besnagar is a *trap option* for Pushyamitra’s **ashwamedha** — correct answer **Ayodhya**, not Heliodorus. 2022 Chandragupta II’s Shaka silver coins are **Gupta**.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
@@ -1594,159 +1747,6 @@ D. Only Mauryan polished sandstone pillars of Ashoka
 **Ans: B.** Boot-clad north Indian **Surya** reflects **Shaka–Kushan** northern dress influence.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 6)
-
-> UPPCS + high-yield Alexander / Persian stems from Ghatnachakra Greek Invasion block, plus recent Prelims. Magadha Nanda founder = Topic 5.
-
-### UPPCS Prelims 2023
-
-**Q1. UPPCS Prelims 2023, Q23**
-
-With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
-
-A. Greeks — Sakas — Kushans
-B. Greeks — Kushans — Sakas
-C. Sakas — Greeks — Kushans
-D. Sakas — Kushans — Greeks
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Greeks (Hellenistic) → Sakas → Kushans.
-
-</details>
-
-**Q2. UPPCS Prelims 2023, Q24**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nagasena.** Milinda = Menander.
-
-</details>
-
-### Alexander / Nanda contemporary (Ghatnachakra Greek Invasion)
-
-**Q3. UPPCS Pre 1998**
-
-Assertion (A): After campaigning for nearly two years, Alexander left India in 325 BCE.  
-Reason (R): He was defeated by Chandragupta Maurya.
-
-A. Both true and R explains A  
-B. Both true but R does not explain A  
-C. A true, R false  
-D. A false, R true  
-
-**A/R logic:** A tests return date (~325); R tests a false defeat story.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** He returned about **325 BCE**; he was **not** defeated by Chandragupta.
-
-</details>
-
----
-
-**Q4. UPPCS Mains 2013**
-
-The women of which Indian republic or kingdom had taken up arms against Alexander after a large number of its soldiers had been killed?
-
-A. Abhisara B. Glausai C. Katha D. Massaga  
-
-**Logic:** Massaga / Assakenoi.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Massaga.
-
-</details>
-
----
-
-**Q5. UPPCS Pre 2003 / UDA-LDA Pre 2002 / UPPCS Pre 2000**
-
-Alexander’s success in India was due to:
-
-1. No central power  
-2. Superior army  
-3. Traitorous Indian rulers  
-4. Good administrator  
-
-A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All  
-
-**Logic:** Drop statement 4.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1, 2 and 3.
-
-</details>
-
----
-
-**Q6. UP RO/ARO Mains 2013**
-
-Name the brave Indian King whom Alexander defeated on the bank of river Jhelum.
-
-A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda  
-
-**Logic:** Hydaspes = Porus; Ambhi was ally.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Porus.
-
-</details>
-
----
-
-**Q7. UPPCS Re-exam Pre 2015**
-
-Who one of the following had not come to India with Alexander?
-
-A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus  
-
-**Logic:** Deimachus → Bindusara.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Deimachus.
-
-</details>
-
----
-
-**Q8.** Which dynasty was ruling over North India at the time of Alexander’s invasion?
-
-A. Nanda B. Maurya C. Sunga D. Kanva  
-
-**Logic:** Dhana Nanda contemporary; Mauryas come after.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Nanda (Dhana / Agrammes).
-
-</details>
-
----
-
-### Years with zero extra hits in local `pyq/` folder
-
-UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I question maps to Alexander / Seleucus / Indo-Greek after keyword search beyond the 2023 pair above.
-**Out of boundary:** 2018 Q91 Besnagar is a *trap option* for Pushyamitra’s **ashwamedha** — correct answer **Ayodhya**, not Heliodorus. 2022 Chandragupta II’s Shaka silver coins are **Gupta**.
 
 ---
 

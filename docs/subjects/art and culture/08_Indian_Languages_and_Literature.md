@@ -644,6 +644,214 @@ D. Both 1 and 2
 
 ---
 
+## Complete PYQ Bank (Topic 8)
+
+**Q1. UPPCS Prelims 2025, Q3**
+
+Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
+Reason (R): Turki was the official language of the Mughal Court.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Memoir = **Turki**. Court = **Persian**.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q48**
+
+Which of the following works was NOT written by Kalidasa?
+
+1. Meghaduta
+2. Raghuvamsha
+3. Shringara Shataka
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Only 3.** *Shringara Shataka* = **Bhartrihari**.
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q86**
+
+Match List-I with List-II.
+
+**List-I (Writer)**
+A. Trivikram Bhatta
+B. Somdev
+C. Jaidev
+D. Kshemendra
+
+**List-II (Book)**
+1. Gita Govinda
+2. Brihatkathamanjari
+3. Nal Champu
+4. Kathasaritsagara
+
+A. 3 4 1 2
+B. 4 3 2 1
+C. 4 3 1 2
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 3 4 1 2.**
+
+</details>
+
+**Q4. UPPCS Prelims 2025, Q102**
+
+Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?
+
+1. Nepali
+2. Dogri
+3. Bodo
+4. Bhojpuri
+
+A. 1 and 2
+B. Only 4
+C. 3 and 4
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Only 4 (Bhojpuri).**
+
+</details>
+
+**Q5. UPPCS Prelims 2024, Q87**
+
+With reference to "Nepal-India International Sanskrit Conclave-2024", which of the following statements is/are correct?
+
+1. It was held at New Delhi.
+2. This three-day conclave was organised by the Niti Anusandhan Pratisthan.
+
+A. Only 2
+B. Neither 1 nor 2
+C. Only 1
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 2.** Venue = **Kathmandu**, not New Delhi.
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q29**
+
+With reference to the Puranas, which one of the following statements is correct?
+
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
+2. Vayu Purana throws light on the Gupta system of governance.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+**Q7. UPPCS Prelims 2023, Q37**
+
+Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
+
+A. Azizuddin Khan
+B. Talib Amuli
+C. Mulla Abdul Baqi
+D. Mirza Muhammad Ali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Azizuddin Khan.**
+
+</details>
+
+**Q8. UPPCS Prelims 2022, Q43**
+
+Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?
+
+A. Khwaja Ziya-ud-din Nakhshabi
+B. Abdur Razzak
+C. Shihabuddin-al-Umari
+D. Amir Khusro
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Nakhshabi.**
+
+</details>
+
+**Q9. UPPCS Prelims 2022, Q146**
+
+Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?
+
+A. Shah Jahan
+B. Jahangir
+C. Akbar
+D. Humayun
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Shah Jahan.**
+
+</details>
+
+**Q10. UPPCS Prelims 2019, Q41**
+
+Central Institute of Indian Languages is located at which of the following places?
+
+A. Varanasi
+B. Mysore
+C. New Delhi
+D. Shimla
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Mysore.**
+
+</details>
+
+**Q11. UPPCS Prelims 2018, Q13**
+
+Which of the following is a Samhita of Shukla Yajurveda?
+
+A. Vajasanami
+B. Maitrayani
+C. Taittiriya
+D. Kathak
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Vajasaneyi / Vajasanami.** Others are Krishna Yajurveda.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **55 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1710,214 +1918,6 @@ D. 1, 2 and 3
 **Ans: D.** Arabs used zero by about **873 CE**.
 
 **Trap:** Naming Aryabhata alone as the inventor of zero in every stem.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 8)
-
-**Q1. UPPCS Prelims 2025, Q3**
-
-Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
-Reason (R): Turki was the official language of the Mughal Court.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Memoir = **Turki**. Court = **Persian**.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q48**
-
-Which of the following works was NOT written by Kalidasa?
-
-1. Meghaduta
-2. Raghuvamsha
-3. Shringara Shataka
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 3.** *Shringara Shataka* = **Bhartrihari**.
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q86**
-
-Match List-I with List-II.
-
-**List-I (Writer)**
-A. Trivikram Bhatta
-B. Somdev
-C. Jaidev
-D. Kshemendra
-
-**List-II (Book)**
-1. Gita Govinda
-2. Brihatkathamanjari
-3. Nal Champu
-4. Kathasaritsagara
-
-A. 3 4 1 2
-B. 4 3 2 1
-C. 4 3 1 2
-D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 3 4 1 2.**
-
-</details>
-
-**Q4. UPPCS Prelims 2025, Q102**
-
-Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?
-
-1. Nepali
-2. Dogri
-3. Bodo
-4. Bhojpuri
-
-A. 1 and 2
-B. Only 4
-C. 3 and 4
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 4 (Bhojpuri).**
-
-</details>
-
-**Q5. UPPCS Prelims 2024, Q87**
-
-With reference to "Nepal-India International Sanskrit Conclave-2024", which of the following statements is/are correct?
-
-1. It was held at New Delhi.
-2. This three-day conclave was organised by the Niti Anusandhan Pratisthan.
-
-A. Only 2
-B. Neither 1 nor 2
-C. Only 1
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 2.** Venue = **Kathmandu**, not New Delhi.
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q29**
-
-With reference to the Puranas, which one of the following statements is correct?
-
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q7. UPPCS Prelims 2023, Q37**
-
-Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
-
-A. Azizuddin Khan
-B. Talib Amuli
-C. Mulla Abdul Baqi
-D. Mirza Muhammad Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Azizuddin Khan.**
-
-</details>
-
-**Q8. UPPCS Prelims 2022, Q43**
-
-Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?
-
-A. Khwaja Ziya-ud-din Nakhshabi
-B. Abdur Razzak
-C. Shihabuddin-al-Umari
-D. Amir Khusro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Nakhshabi.**
-
-</details>
-
-**Q9. UPPCS Prelims 2022, Q146**
-
-Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?
-
-A. Shah Jahan
-B. Jahangir
-C. Akbar
-D. Humayun
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Shah Jahan.**
-
-</details>
-
-**Q10. UPPCS Prelims 2019, Q41**
-
-Central Institute of Indian Languages is located at which of the following places?
-
-A. Varanasi
-B. Mysore
-C. New Delhi
-D. Shimla
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Mysore.**
-
-</details>
-
-**Q11. UPPCS Prelims 2018, Q13**
-
-Which of the following is a Samhita of Shukla Yajurveda?
-
-A. Vajasanami
-B. Maitrayani
-C. Taittiriya
-D. Kathak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Vajasaneyi / Vajasanami.** Others are Krishna Yajurveda.
 
 </details>
 

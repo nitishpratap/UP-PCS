@@ -509,6 +509,564 @@ D. Only 1
 
 ---
 
+## Complete PYQ Bank (Topic 2)
+
+**Q1. UPPCS Prelims 2025, Q5**
+
+With reference to 'Ecosystem', which of the following statements is/are correct?
+
+1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
+2. Around 10% of organic matter reaches to the next higher level of consumers.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Both NCERT standard facts.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q61**
+
+With reference to lichens, which of the following statements is/are correct?
+
+1. Lichens are very good indicators of pollution.
+2. Lichens grow well in polluted areas.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — Sensitive bio-indicators; fail in polluted air.
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q9**
+
+Which of the following statements is not true about "ecological niche"?
+
+Options:
+A. Dominant species occupy extensive and broader ecological niche.
+B. Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.
+C. Number of species becomes small in ecological niche, if resources are sufficient.
+D. Dominance of single species becomes minimum if the resource distribution is equitable in a habitat.
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — More resources → more species.
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q26**
+
+Which of the following is the correct sequence of phases of Biotic succession?
+
+Options:
+A. Ecesis – Migration – Reaction – Stabilisation
+B. Ecesis – Migration – Stabilisation – Reaction
+C. Migration – Reaction – Stabilisation – Ecesis
+D. Migration – Ecesis – Reaction – Stabilisation
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q5. UPPCS Prelims 2024, Q62**
+
+Plants and animals that live on land are called:
+
+A. Abiotic
+
+B. Aquatic habitants
+
+C. Terrestrial habitants
+
+D. Biotic
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q100**
+
+Most important factor for loss of biodiversity?
+
+A. Genetic assimilation
+
+B. Control of predators
+
+C. Destruction of natural habitat
+
+D. Pest control
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q7. UPPCS Prelims 2023, Q104**
+
+Aquatic plant used as biofertilizer in water-logged rice fields:
+
+A. Lemna
+
+B. Azolla
+
+C. Wolffia
+
+D. Trapa
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Azolla–Anabaena mutualism.
+
+</details>
+
+**Q8. UPPCS Prelims 2023, Q112**
+
+Which of the following is an example of a Lotic Ecosystem?
+
+A. Swamps
+
+B. Ponds
+
+C. Rivers
+
+D. Marshy areas
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q9. UPPCS Prelims 2023, Q115**
+
+Desert-dwelling animals are called:
+
+A. Arboreal
+
+B. Terrestrial
+
+C. Fossorial
+
+D. Xericole
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q10. UPPCS Prelims 2023, Q117**
+
+Trophic levels are formed by—
+
+A. Organisms linked in a food chain
+
+B. Plants only
+
+C. Animals only
+
+D. Carnivorous animals only
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q11. UPPCS Prelims 2023, Q125**
+
+Assertion (A): Population control is necessary to maintain the environment of the country.
+
+Reason (R): Due to the rapid increase in population, environmental balance is maintained.
+
+A. Both true; R explains A
+
+B. Both true; R not explanation
+
+C. A true, R false
+
+D. A false, R true
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Rapid growth disrupts balance.
+
+</details>
+
+**Q12. UPPCS Prelims 2022, Q34**
+
+Assertion (A): Phytoplankton grow in abundance in the limnetic zone.
+
+Reason (R): The limnetic zone is the open-water zone.
+
+A. A false, R true
+
+B. A true, R false
+
+C. Both true; R not explanation
+
+D. Both true; R explains A
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q13. UPPCS Prelims 2022, Q94**
+
+With reference to 'ecological niche', which statements is/are correct?
+
+1. It represents the range of conditions that a species can tolerate, the resources it utilizes, and its functional role in ecological systems.
+2. Each species has a distinct niche.
+
+A. Neither 1 nor 2
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q14. UPPCS Prelims 2021, Q41**
+
+Assertion (A): Various components of an ecosystem are not interdependent.
+
+Reason (R): Human activities have impacts on the environment.
+
+A. Both true; R explains A
+
+B. Both true; R not explanation
+
+C. A true, R false
+
+D. A false, R true
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q15. UPPCS Prelims 2021, Q111**
+
+Indicator of air pollution:
+
+A. Puffballs
+
+B. Algae
+
+C. Lichen
+
+D. Moss
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q16. UPPCS Prelims 2020, Q79**
+
+Movement of nutrient elements through the various components of an ecosystem is called:
+
+A. Bio-geo-chemical cycle
+
+B. Bio-geological cycle
+
+C. Ecological succession
+
+D. Biological cycle
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q17. UPPCS Prelims 2020, Q85**
+
+Entire sequence of communities that successively change in a given area are called:
+
+A. Ecological succession
+
+B. Sere
+
+C. Community dynamics
+
+D. Pyramid of biomass
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q18. UPPCS Prelims 2020, Q144**
+
+The concept of 'Ecological Transition' was first used by:
+
+A. Elton
+
+B. Bennett
+
+C. Berkeley
+
+D. Ratzel
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q19. UPPCS Prelims 2019, Q46**
+
+Nitrogen fixing bacteria make combination with cells of the roots of:
+
+A. Pulses
+
+B. Rice
+
+C. Wheat
+
+D. Sugarcane
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q20. UPPCS Prelims 2019, Q55**
+
+What is true about ecosystem?
+
+A. Primary consumers are least dependent upon producer
+
+B. Primary consumers are out-number producers
+
+C. Producers are more than primary consumers
+
+D. Secondary consumers are the largest and most powerful
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q21. UPPCS Prelims 2019, Q56**
+
+With reference to Eutrophication, which statements is/are correct?
+
+1. It is a phenomenon of nutrient enrichment of a water body.
+2. It depletes dissolved oxygen of the water.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q22. UPPCS Prelims 2019, Q57**
+
+The environment modified by human activities is called:
+
+A. Natural environment
+
+B. Anthropogenic environment
+
+C. Urban environment
+
+D. Modern environment
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q23. UPPCS Prelims 2019, Q59**
+
+Well-known bioindicator of air pollution:
+
+A. Lichens
+
+B. Methyl mercury
+
+C. Rose
+
+D. Sunflower
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q24. UPPCS Prelims 2019, Q134**
+
+Energy during transfer from one trophic level to another in an ecosystem:
+
+A. Increases
+
+B. Decreases
+
+C. Remains constant
+
+D. May increase or decrease
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q25. UPPCS Prelims 2019, Q135**
+
+Associated with biological nitrogen fixation:
+
+A. Red algae
+
+B. Brown algae
+
+C. Green algae
+
+D. Blue-green algae
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q26. UPPCS Prelims 2018, Q46**
+
+Which of the following is an example of anthropogenic biome?
+
+A. Fresh water
+
+B. Grassland
+
+C. Rain forest
+
+D. Cropland
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q27. UPPCS Prelims 2018, Q51**
+
+Which of the following is concerned with soil?
+
+A. Edaphic
+
+B. Climatic
+
+C. Biotic
+
+D. Topography
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q28. UPPCS Prelims 2018, Q122**
+
+In which ecosystem is species diversity relatively higher?
+
+A. Deep sea
+
+B. Tropical rain forest
+
+C. Coral reefs
+
+D. Desert
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q29. UPPCS Prelims 2018, Q127**
+
+Which is the most stable ecosystem?
+
+A. Marine (ocean)
+
+B. Forest
+
+C. Mountain
+
+D. Desert
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q30. UPSC Prelims 2016 — pattern**
+
+In food chains, energy at successive trophic levels:
+
+A. Increases
+
+B. Decreases; ~10% transfers
+
+C. Stays same
+
+D. Becomes cyclic
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Lindeman rule. Energy decreases at each higher trophic level.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | multi-statement + A/R + match + chronology + NOT-matched
@@ -1209,564 +1767,6 @@ D. Peepal
 <summary>Show answer</summary>
 
 **Ans: B.** **Eucalyptus** draws heavy groundwater.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 2)
-
-**Q1. UPPCS Prelims 2025, Q5**
-
-With reference to 'Ecosystem', which of the following statements is/are correct?
-
-1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
-2. Around 10% of organic matter reaches to the next higher level of consumers.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Both NCERT standard facts.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q61**
-
-With reference to lichens, which of the following statements is/are correct?
-
-1. Lichens are very good indicators of pollution.
-2. Lichens grow well in polluted areas.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Sensitive bio-indicators; fail in polluted air.
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q9**
-
-Which of the following statements is not true about "ecological niche"?
-
-Options:
-A. Dominant species occupy extensive and broader ecological niche.
-B. Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.
-C. Number of species becomes small in ecological niche, if resources are sufficient.
-D. Dominance of single species becomes minimum if the resource distribution is equitable in a habitat.
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — More resources → more species.
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q26**
-
-Which of the following is the correct sequence of phases of Biotic succession?
-
-Options:
-A. Ecesis – Migration – Reaction – Stabilisation
-B. Ecesis – Migration – Stabilisation – Reaction
-C. Migration – Reaction – Stabilisation – Ecesis
-D. Migration – Ecesis – Reaction – Stabilisation
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q5. UPPCS Prelims 2024, Q62**
-
-Plants and animals that live on land are called:
-
-A. Abiotic
-
-B. Aquatic habitants
-
-C. Terrestrial habitants
-
-D. Biotic
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q100**
-
-Most important factor for loss of biodiversity?
-
-A. Genetic assimilation
-
-B. Control of predators
-
-C. Destruction of natural habitat
-
-D. Pest control
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7. UPPCS Prelims 2023, Q104**
-
-Aquatic plant used as biofertilizer in water-logged rice fields:
-
-A. Lemna
-
-B. Azolla
-
-C. Wolffia
-
-D. Trapa
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Azolla–Anabaena mutualism.
-
-</details>
-
-**Q8. UPPCS Prelims 2023, Q112**
-
-Which of the following is an example of a Lotic Ecosystem?
-
-A. Swamps
-
-B. Ponds
-
-C. Rivers
-
-D. Marshy areas
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q9. UPPCS Prelims 2023, Q115**
-
-Desert-dwelling animals are called:
-
-A. Arboreal
-
-B. Terrestrial
-
-C. Fossorial
-
-D. Xericole
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q10. UPPCS Prelims 2023, Q117**
-
-Trophic levels are formed by—
-
-A. Organisms linked in a food chain
-
-B. Plants only
-
-C. Animals only
-
-D. Carnivorous animals only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11. UPPCS Prelims 2023, Q125**
-
-Assertion (A): Population control is necessary to maintain the environment of the country.
-
-Reason (R): Due to the rapid increase in population, environmental balance is maintained.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Rapid growth disrupts balance.
-
-</details>
-
-**Q12. UPPCS Prelims 2022, Q34**
-
-Assertion (A): Phytoplankton grow in abundance in the limnetic zone.
-
-Reason (R): The limnetic zone is the open-water zone.
-
-A. A false, R true
-
-B. A true, R false
-
-C. Both true; R not explanation
-
-D. Both true; R explains A
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q13. UPPCS Prelims 2022, Q94**
-
-With reference to 'ecological niche', which statements is/are correct?
-
-1. It represents the range of conditions that a species can tolerate, the resources it utilizes, and its functional role in ecological systems.
-2. Each species has a distinct niche.
-
-A. Neither 1 nor 2
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14. UPPCS Prelims 2021, Q41**
-
-Assertion (A): Various components of an ecosystem are not interdependent.
-
-Reason (R): Human activities have impacts on the environment.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q15. UPPCS Prelims 2021, Q111**
-
-Indicator of air pollution:
-
-A. Puffballs
-
-B. Algae
-
-C. Lichen
-
-D. Moss
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q16. UPPCS Prelims 2020, Q79**
-
-Movement of nutrient elements through the various components of an ecosystem is called:
-
-A. Bio-geo-chemical cycle
-
-B. Bio-geological cycle
-
-C. Ecological succession
-
-D. Biological cycle
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q17. UPPCS Prelims 2020, Q85**
-
-Entire sequence of communities that successively change in a given area are called:
-
-A. Ecological succession
-
-B. Sere
-
-C. Community dynamics
-
-D. Pyramid of biomass
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18. UPPCS Prelims 2020, Q144**
-
-The concept of 'Ecological Transition' was first used by:
-
-A. Elton
-
-B. Bennett
-
-C. Berkeley
-
-D. Ratzel
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q19. UPPCS Prelims 2019, Q46**
-
-Nitrogen fixing bacteria make combination with cells of the roots of:
-
-A. Pulses
-
-B. Rice
-
-C. Wheat
-
-D. Sugarcane
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20. UPPCS Prelims 2019, Q55**
-
-What is true about ecosystem?
-
-A. Primary consumers are least dependent upon producer
-
-B. Primary consumers are out-number producers
-
-C. Producers are more than primary consumers
-
-D. Secondary consumers are the largest and most powerful
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q21. UPPCS Prelims 2019, Q56**
-
-With reference to Eutrophication, which statements is/are correct?
-
-1. It is a phenomenon of nutrient enrichment of a water body.
-2. It depletes dissolved oxygen of the water.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q22. UPPCS Prelims 2019, Q57**
-
-The environment modified by human activities is called:
-
-A. Natural environment
-
-B. Anthropogenic environment
-
-C. Urban environment
-
-D. Modern environment
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q23. UPPCS Prelims 2019, Q59**
-
-Well-known bioindicator of air pollution:
-
-A. Lichens
-
-B. Methyl mercury
-
-C. Rose
-
-D. Sunflower
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q24. UPPCS Prelims 2019, Q134**
-
-Energy during transfer from one trophic level to another in an ecosystem:
-
-A. Increases
-
-B. Decreases
-
-C. Remains constant
-
-D. May increase or decrease
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q25. UPPCS Prelims 2019, Q135**
-
-Associated with biological nitrogen fixation:
-
-A. Red algae
-
-B. Brown algae
-
-C. Green algae
-
-D. Blue-green algae
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q26. UPPCS Prelims 2018, Q46**
-
-Which of the following is an example of anthropogenic biome?
-
-A. Fresh water
-
-B. Grassland
-
-C. Rain forest
-
-D. Cropland
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q27. UPPCS Prelims 2018, Q51**
-
-Which of the following is concerned with soil?
-
-A. Edaphic
-
-B. Climatic
-
-C. Biotic
-
-D. Topography
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28. UPPCS Prelims 2018, Q122**
-
-In which ecosystem is species diversity relatively higher?
-
-A. Deep sea
-
-B. Tropical rain forest
-
-C. Coral reefs
-
-D. Desert
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q29. UPPCS Prelims 2018, Q127**
-
-Which is the most stable ecosystem?
-
-A. Marine (ocean)
-
-B. Forest
-
-C. Mountain
-
-D. Desert
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q30. UPSC Prelims 2016 — pattern**
-
-In food chains, energy at successive trophic levels:
-
-A. Increases
-
-B. Decreases; ~10% transfers
-
-C. Stays same
-
-D. Becomes cyclic
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Lindeman rule. Energy decreases at each higher trophic level.
 
 </details>
 

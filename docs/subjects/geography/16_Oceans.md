@@ -763,6 +763,304 @@ D. Dakshin Gangotri and Bharati
 
 ---
 
+## Complete PYQ Bank — Oceans (2018–2025)
+
+**Instructions:** Click **Show answer** under each question. Read the full stem before opening.
+
+---
+
+**Q1. UPPCS Prelims 2025, Q75**
+Which of the following are NOT cold ocean currents?
+
+1. Agulhas Current
+2. Brazil Current
+3. Humboldt Current
+4. California Current
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (1 and 2)** — The paper asks which are **NOT cold** (= which are **warm**).
+
+| Current | Type | Ocean |
+|---------|------|-------|
+| 1 Agulhas | **Warm** | Indian, SE Africa |
+| 2 Brazil | **Warm** | Atlantic, E Brazil |
+| 3 Humboldt | **Cold** | Pacific, Peru–Chile |
+| 4 California | **Cold** | Pacific, W USA |
+
+Pick **1 and 2**. Option B (3 and 4) is the cold pair — that is the trap if you miss the word **NOT**.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q78**
+With reference to the Indian Ocean, which of the following statements is/are correct?
+
+1. It was called by the Ancient Greeks as the Erythraean Sea.
+2. It is spread on either side of the Equator.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q138**
+The Suez Canal connects which of the following?
+
+1. Atlantic Ocean
+2. Red Sea
+3. Mediterranean Sea
+4. Indian Ocean
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Canal ends = **Red Sea and Mediterranean**. Indian Ocean is reached **via** the Red Sea, not a direct “connects 3 and 4” pair in this paper.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2023, Q61**
+Which of the following statements is true?
+
+Options:
+
+A. Benguela Current is a cold current of the Pacific Ocean.
+
+B. If the Sun, the Earth and the Moon are in a straight line, then this situation results in a small tide.
+
+C. Ocean salinity is maximum near the Tropics of Cancer and Capricorn.
+
+D. Tide comes on the Earth every day after exactly 12 hours 30 minutes.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — A: Benguela = **Atlantic**. B: syzygy = **spring / large**. D: ~**12 h 25 min**, not exactly 12 h 30 min.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2023, Q67**
+With reference to El Niño, which of the following statements is/are correct?
+
+1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
+2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Warm water **cuts upwelling → plankton fall**.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022, Q20**
+Which of the following coasts is the largest tidal energy producing area in India?
+
+A. North Circars Coast
+
+B. Mannar Coast
+
+C. Khambhat Coast
+
+D. Kerala Coast
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Energy capacity table.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q114**
+Match List-I with List-II and select the correct answer from the code given below.
+**List-I (Ocean)**
+
+A. Pacific
+
+B. Arctic
+
+C. Indian
+
+D. Atlantic
+**List-II (Maximum Deepest Point)**
+
+1. Sunda Trench
+2. Puerto Rico Trench
+3. Mariana Trench
+4. Molloy Deep
+
+A. 4, 3, 2, 1
+
+B. 3, 2, 1, 4
+
+C. 1, 2, 3, 4
+
+D. 3, 4, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 3, 4, 1, 2.
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2021, Q53**
+Which among the following are India's permanent and operational research stations in Antarctica?
+
+A. Bharati and Arya
+
+B. Bharati and Dakshin Gangotri
+
+C. Bharati and Maitri
+
+D. Dakshin Gangotri and Maitri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2020, Q78**
+Which of the following ocean currents is associated with Indian Ocean?
+
+A. Florida current
+
+B. Canary current
+
+C. Agulhas current
+
+D. Kurile current
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2019, Q76**
+In the Suez canal region, the correct order of lakes lying from North to South direction is
+
+Options:
+
+A. Lake Timsah-Little Bitter Lake-Great Bitter Lake-Luke Manzola
+
+B. Great Bitter Lake - Little Bitter Lake-Lake Timsah-Lake Manzala
+
+C. Lake Manzala - Great Bitter Lake - Little Bitter Lake-Lake Timsah
+
+D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **Manzala → Timsah → Great Bitter → Little Bitter**. OCR “Cireat” = Great.
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2019, Q77**
+Telegraphic Plateau is a part of
+
+A. North Atlantic Ridge
+
+B. South Atlantic Ridge
+
+C. Indian Ocean Ridge
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2018, Q29**
+How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
+
+A. 5,000 km
+
+B. 7,000 km
+
+C. 8,000 km
+
+D. 10,000 km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Standard Lucent/key fact **~7,000 km**.
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2019, Q5**
+Assertion (A): Indian Ocean has become the Military bases of many big powers.
+Reason (R): There is strong geo-political benefits in Indian Ocean and adjacent countries.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false. but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Both true; R explains why powers park in the Indian Ocean.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -2053,304 +2351,6 @@ D. Hydrothermal vent — only found on continental shelves under 50 m
 <summary>Show answer</summary>
 
 **Ans: C** — Seamount = peaked; guyot = flat-topped. Vents sit on volcanically active ridges.
-</details>
-
----
-
-## Complete PYQ Bank — Oceans (2018–2025)
-
-**Instructions:** Click **Show answer** under each question. Read the full stem before opening.
-
----
-
-**Q1. UPPCS Prelims 2025, Q75**
-Which of the following are NOT cold ocean currents?
-
-1. Agulhas Current
-2. Brazil Current
-3. Humboldt Current
-4. California Current
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (1 and 2)** — The paper asks which are **NOT cold** (= which are **warm**).
-
-| Current | Type | Ocean |
-|---------|------|-------|
-| 1 Agulhas | **Warm** | Indian, SE Africa |
-| 2 Brazil | **Warm** | Atlantic, E Brazil |
-| 3 Humboldt | **Cold** | Pacific, Peru–Chile |
-| 4 California | **Cold** | Pacific, W USA |
-
-Pick **1 and 2**. Option B (3 and 4) is the cold pair — that is the trap if you miss the word **NOT**.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q78**
-With reference to the Indian Ocean, which of the following statements is/are correct?
-
-1. It was called by the Ancient Greeks as the Erythraean Sea.
-2. It is spread on either side of the Equator.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q138**
-The Suez Canal connects which of the following?
-
-1. Atlantic Ocean
-2. Red Sea
-3. Mediterranean Sea
-4. Indian Ocean
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Canal ends = **Red Sea and Mediterranean**. Indian Ocean is reached **via** the Red Sea, not a direct “connects 3 and 4” pair in this paper.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2023, Q61**
-Which of the following statements is true?
-
-Options:
-
-A. Benguela Current is a cold current of the Pacific Ocean.
-
-B. If the Sun, the Earth and the Moon are in a straight line, then this situation results in a small tide.
-
-C. Ocean salinity is maximum near the Tropics of Cancer and Capricorn.
-
-D. Tide comes on the Earth every day after exactly 12 hours 30 minutes.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — A: Benguela = **Atlantic**. B: syzygy = **spring / large**. D: ~**12 h 25 min**, not exactly 12 h 30 min.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2023, Q67**
-With reference to El Niño, which of the following statements is/are correct?
-
-1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
-2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Warm water **cuts upwelling → plankton fall**.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2022, Q20**
-Which of the following coasts is the largest tidal energy producing area in India?
-
-A. North Circars Coast
-
-B. Mannar Coast
-
-C. Khambhat Coast
-
-D. Kerala Coast
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Energy capacity table.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q114**
-Match List-I with List-II and select the correct answer from the code given below.
-**List-I (Ocean)**
-
-A. Pacific
-
-B. Arctic
-
-C. Indian
-
-D. Atlantic
-**List-II (Maximum Deepest Point)**
-
-1. Sunda Trench
-2. Puerto Rico Trench
-3. Mariana Trench
-4. Molloy Deep
-
-A. 4, 3, 2, 1
-
-B. 3, 2, 1, 4
-
-C. 1, 2, 3, 4
-
-D. 3, 4, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 3, 4, 1, 2.
-</details>
-
----
-
-**Q8. UPPCS Prelims 2021, Q53**
-Which among the following are India's permanent and operational research stations in Antarctica?
-
-A. Bharati and Arya
-
-B. Bharati and Dakshin Gangotri
-
-C. Bharati and Maitri
-
-D. Dakshin Gangotri and Maitri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q9. UPPCS Prelims 2020, Q78**
-Which of the following ocean currents is associated with Indian Ocean?
-
-A. Florida current
-
-B. Canary current
-
-C. Agulhas current
-
-D. Kurile current
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q10. UPPCS Prelims 2019, Q76**
-In the Suez canal region, the correct order of lakes lying from North to South direction is
-
-Options:
-
-A. Lake Timsah-Little Bitter Lake-Great Bitter Lake-Luke Manzola
-
-B. Great Bitter Lake - Little Bitter Lake-Lake Timsah-Lake Manzala
-
-C. Lake Manzala - Great Bitter Lake - Little Bitter Lake-Lake Timsah
-
-D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — **Manzala → Timsah → Great Bitter → Little Bitter**. OCR “Cireat” = Great.
-</details>
-
----
-
-**Q11. UPPCS Prelims 2019, Q77**
-Telegraphic Plateau is a part of
-
-A. North Atlantic Ridge
-
-B. South Atlantic Ridge
-
-C. Indian Ocean Ridge
-
-D. None of these
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q12. UPPCS Prelims 2018, Q29**
-How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
-
-A. 5,000 km
-
-B. 7,000 km
-
-C. 8,000 km
-
-D. 10,000 km
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Standard Lucent/key fact **~7,000 km**.
-</details>
-
----
-
-**Q13. UPPCS Prelims 2019, Q5**
-Assertion (A): Indian Ocean has become the Military bases of many big powers.
-Reason (R): There is strong geo-political benefits in Indian Ocean and adjacent countries.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false. but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Both true; R explains why powers park in the Indian Ocean.
 </details>
 
 ---

@@ -208,6 +208,104 @@ A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
 
 ---
 
+## Complete PYQ Bank (Topic 9)
+
+
+**Q1. UPPCS Prelims 2021, Q118**
+
+Which is **NOT** correctly matched (Ruler–State)?
+
+A. Rana Hamir – Mewar |
+
+B. Rana Chunda – Marwar |
+
+C. Malik Raja Farooqi – Khandesh |
+
+D. Malik Sarwar – Malwa Khwaja Jahan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: BWhy wrong:Rana Chunda** is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
+
+**Trap:** Option D (Malik Sarwar–Malwa) is also false — he founded **Jaunpur** — but the keyed Rajput trap is **B**.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2022, Q59**
+
+Alauddin conquests: 1.Ranthambor 2.Gujarat 3.Warangal 4.Chittor
+
+Options: A.1-3-2-4 | B.3-4-1-2 | C.2-1-4-3 | D.4-2-3-1
+
+<details><summary>Show answer</summary>
+
+**Ans: C (2-1-4-3)Order:** Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **~1310**.
+
+**Trap:Warangal** (Deccan/Kafur) comes **last**, not first.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2025, Q30**
+
+Alauddin victories: 1.Ranthambore 2.Jaisalmer 3.Warangal 4.Chittor
+
+Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
+
+<details><summary>Show answer</summary>
+
+**Ans: B (2-1-4-3)Order:** Jaisalmer → Ranthambore → Chittor → Warangal.
+
+**Trap:2022 Q59** keys to **C**; **2025 Q30** keys to **B** — same sequence, different option lettering.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2022, Q95**
+
+Jayata and Kumpa, who impressed Sher Shah, were associated with?
+
+A. Bundelkhand |
+
+B. Malwa |
+
+C. Marwar |
+
+D. Mewar
+
+<details><summary>Show answer</summary>
+
+**Ans: C (Marwar)Why:** Rathore captains of **Rao Maldeo** at **Sammel (1544)** against Sher Shah.
+
+**Trap:Mewar** (Sisodia) is not the same as **Marwar** (Rathore).
+
+</details>
+
+
+**Q5. UPPCS Prelims 2019, Q89**
+
+Who patronised Tansen before Akbar?
+
+A. Raja Ramchandra Singh of Bhata |
+
+B. Rajbahadur of Malwa |
+
+C. Uday Singh of Mewar |
+
+D. Muzaffar Shah of Gujarat
+
+<details><summary>Show answer</summary>
+
+**Ans: A (Raja Ramchandra Singh of Bhata)Why:** Tansen served **Raja Ramchandra** before entering **Akbar's** court.
+
+**Trap:Udai Singh of Mewar** is the classic wrong pair — Tansen was not Mewar's court musician.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **38 questions** · answers in `<details>`
@@ -898,104 +996,6 @@ D. Founding Udaipur
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 9)
-
-
-**Q1. UPPCS Prelims 2021, Q118**
-
-Which is **NOT** correctly matched (Ruler–State)?
-
-A. Rana Hamir – Mewar |
-
-B. Rana Chunda – Marwar |
-
-C. Malik Raja Farooqi – Khandesh |
-
-D. Malik Sarwar – Malwa Khwaja Jahan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: BWhy wrong:Rana Chunda** is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
-
-**Trap:** Option D (Malik Sarwar–Malwa) is also false — he founded **Jaunpur** — but the keyed Rajput trap is **B**.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2022, Q59**
-
-Alauddin conquests: 1.Ranthambor 2.Gujarat 3.Warangal 4.Chittor
-
-Options: A.1-3-2-4 | B.3-4-1-2 | C.2-1-4-3 | D.4-2-3-1
-
-<details><summary>Show answer</summary>
-
-**Ans: C (2-1-4-3)Order:** Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **~1310**.
-
-**Trap:Warangal** (Deccan/Kafur) comes **last**, not first.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2025, Q30**
-
-Alauddin victories: 1.Ranthambore 2.Jaisalmer 3.Warangal 4.Chittor
-
-Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
-
-<details><summary>Show answer</summary>
-
-**Ans: B (2-1-4-3)Order:** Jaisalmer → Ranthambore → Chittor → Warangal.
-
-**Trap:2022 Q59** keys to **C**; **2025 Q30** keys to **B** — same sequence, different option lettering.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2022, Q95**
-
-Jayata and Kumpa, who impressed Sher Shah, were associated with?
-
-A. Bundelkhand |
-
-B. Malwa |
-
-C. Marwar |
-
-D. Mewar
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Marwar)Why:** Rathore captains of **Rao Maldeo** at **Sammel (1544)** against Sher Shah.
-
-**Trap:Mewar** (Sisodia) is not the same as **Marwar** (Rathore).
-
-</details>
-
-
-**Q5. UPPCS Prelims 2019, Q89**
-
-Who patronised Tansen before Akbar?
-
-A. Raja Ramchandra Singh of Bhata |
-
-B. Rajbahadur of Malwa |
-
-C. Uday Singh of Mewar |
-
-D. Muzaffar Shah of Gujarat
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Raja Ramchandra Singh of Bhata)Why:** Tansen served **Raja Ramchandra** before entering **Akbar's** court.
-
-**Trap:Udai Singh of Mewar** is the classic wrong pair — Tansen was not Mewar's court musician.
 
 </details>
 

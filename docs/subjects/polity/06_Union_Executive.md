@@ -630,6 +630,268 @@ D. Members of Lok Sabha only
 
 ---
 
+## Complete PYQ Bank (Topic 6)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q104**
+Consider the tenure of the following Presidents of India and arrange them in correct chronological order starting from the earliest to the last.
+1. Neelam Sanjiva Reddy
+2. K. R. Narayanan
+3. A. P. J. Abdul Kalam
+4. R. Venkataraman
+A. 1, 4, 2, 3
+B. 4, 1, 3, 2
+C. 4, 1, 2, 3
+D. 1, 4, 3, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Reddy → Venkataraman → Narayanan → Kalam.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q119**
+With reference to the Vice-President of India, which of the following statements is/are correct?
+1. The Vice-President is the ex-officio Chairman of the Rajya Sabha.
+2. The Vice-President is a member of the Rajya Sabha.
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 1.**
+
+</details>
+
+### 2024
+
+**Q3. UPPCS Prelims 2024, Q22**
+Which of the following is/are stated in the Constitution of India?
+1. The President shall not be a member of either of the Houses of the Parliament.
+2. The Parliament shall consist of the President and both Houses.
+A. Both 1 and 2
+B. Only 2
+C. Neither 1 nor 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both** (Arts. 79 & 59).
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q39**
+Who among the following participates in the election of the President of India?
+A. Members of Lok Sabha only
+B. Members of Rajya Sabha only
+C. Elected members of Parliament and State Legislative Assemblies
+D. All members of Parliament and State Legislatures
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+### 2023
+
+**Q5. UPPCS Prelims 2023, Q4Assertion (A):** The President can recommend to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.
+
+**Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true but R not the explanation
+C. A true, R false
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q5**
+With reference to the election of the Vice-President of India, which is declared void by the Supreme Court, which statement(s) is/are correct?
+1. The acts done by him before such declaration are valid.
+2. The acts done on the day of such declaration are not valid.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1** (Art. 71).
+
+</details>
+
+**Q7. UPPCS Prelims 2023, Q9Assertion (A):** The President is a part of the Parliament.
+
+**Reason (R):** A Bill passed by the two Houses of Parliament cannot become a law without the assent of the President.
+A. Both true but R not the explanation
+B. Both (A) and (R) are true and (R) is the correct explanation of (A)
+C. A true, R false
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q8. UPPCS Prelims 2023, Q12**
+With reference to the Attorney General of India, which statement(s) is/are correct?
+1. Appointed if qualified to be a Judge of the Supreme Court.
+2. Removed through the same process as SC judges.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1** (holds office during pleasure).
+
+</details>
+
+### 2022
+
+**Q9. UPPCS Prelims 2022, Q116**
+Which one of the following did **NOT** serve as Vice-President before assuming the office of the President of India?
+A. Dr. Shankar Dayal Sharma
+B. Neelam Sanjiva Reddy
+C. Dr. Zakir Hussain
+D. R. Venkataraman
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Neelam Sanjiva Reddy.**
+
+</details>
+
+### 2021
+
+**Q10. UPPCS Prelims 2021, Q84**
+With reference to the special address of the President of India, which statement(s) is/are correct?
+1. He addresses the joint meeting at the commencement of the first session after each general election and the first session of each year.
+2. He informs Parliament of the causes of its summons.
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 1 only.**
+
+</details>
+
+**Q11. UPPCS Prelims 2021, Q117Assertion (A):** The Council of Ministers in India is collectively responsible to both Lok Sabha and Rajya Sabha.
+
+**Reason (R):** Members of both Lok Sabha and Rajya Sabha are eligible to become Ministers in the Union Government.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true but R not the explanation
+C. A true, R false
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — A false, R true** (responsible to the Lok Sabha only).
+
+</details>
+
+### 2020
+
+**Q12. UPPCS Prelims 2020, Q124**
+Consider the following statements in the context of the Attorney General of India. *(Statement text missing in source copy.)*
+A. Only 1 is correct
+B. Only 2 is correct
+C. Both 1 and 2 are correct
+D. Neither 1 nor 2 is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Answer key not reproducible** — statements illegible in the source paper. Concept: AG = first law officer; SC-judge qualification; office **during pleasure**; speaks in both Houses without a vote.
+
+</details>
+
+### 2019
+
+**Q13. UPPCS Prelims 2019, Q30**
+With reference to Prime Minister's Office (PMO), which statement(s) is/are correct?
+1. It came into existence in 1977. 2. It is headed by the Cabinet Secretary.
+A. Only 2
+B. Both 1 and 2
+C. Only 1
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Neither.**
+
+</details>
+
+### 2018
+
+**Q14. UPPCS Prelims 2018, Q66**
+Who was the UPA candidate for the 2017 Presidential election?
+A. Ms. Meira Kumar
+B. Mr. Gopal Krishna Gandhi
+C. Dr. Karan Singh
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Meira Kumar** (lost to Ram Nath Kovind). Gopal Krishna Gandhi was the opposition VP candidate that year.
+
+</details>
+
+**Q15. UPPCS Prelims 2018, Q72**
+The Council of States (Rajya Sabha) has exclusive powers in relation to which of the following?
+A. To initiate proceedings for the removal of the President
+B. To initiate proceedings for the removal of a judge of the Supreme Court
+C. To recommend the creation of a new All India Service
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Art. 312 (new All India Service) is an exclusive power of the Rajya Sabha; impeachment/removal can start in **either** House.
+
+</details>
+
+**Q16. UPPCS Prelims 2018, Q146**
+Who is the author of the book "The Accidental Prime Minister"?
+A. Rajdeep Sardesai
+B. Karan Thapar
+C. Kuldeep Nayar
+D. Sanjaya Baru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Sanjaya Baru** (former media adviser to PM Manmohan Singh).
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **44 questions in UPPCS / RO-ARO 2024–25 format** — *which statement is/are correct*, *how-many-are-correct*, **Assertion–Reason**, **Match List-I/II**, **chronological order**, and *which pairs are NOT correctly matched* (numbered codes). **>60% multi-statement / application.Q1.** Consider the following statements regarding the election of the President of India:
@@ -1419,268 +1681,6 @@ D. Rank 11
 <summary>Show answer</summary>
 
 **Ans: C** — **Rank 9A** (after **Supreme Court judges — rank 9**).
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 6)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q104**
-Consider the tenure of the following Presidents of India and arrange them in correct chronological order starting from the earliest to the last.
-1. Neelam Sanjiva Reddy
-2. K. R. Narayanan
-3. A. P. J. Abdul Kalam
-4. R. Venkataraman
-A. 1, 4, 2, 3
-B. 4, 1, 3, 2
-C. 4, 1, 2, 3
-D. 1, 4, 3, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Reddy → Venkataraman → Narayanan → Kalam.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q119**
-With reference to the Vice-President of India, which of the following statements is/are correct?
-1. The Vice-President is the ex-officio Chairman of the Rajya Sabha.
-2. The Vice-President is a member of the Rajya Sabha.
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1.**
-
-</details>
-
-### 2024
-
-**Q3. UPPCS Prelims 2024, Q22**
-Which of the following is/are stated in the Constitution of India?
-1. The President shall not be a member of either of the Houses of the Parliament.
-2. The Parliament shall consist of the President and both Houses.
-A. Both 1 and 2
-B. Only 2
-C. Neither 1 nor 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Both** (Arts. 79 & 59).
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q39**
-Who among the following participates in the election of the President of India?
-A. Members of Lok Sabha only
-B. Members of Rajya Sabha only
-C. Elected members of Parliament and State Legislative Assemblies
-D. All members of Parliament and State Legislatures
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-### 2023
-
-**Q5. UPPCS Prelims 2023, Q4Assertion (A):** The President can recommend to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.
-
-**Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true but R not the explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q5**
-With reference to the election of the Vice-President of India, which is declared void by the Supreme Court, which statement(s) is/are correct?
-1. The acts done by him before such declaration are valid.
-2. The acts done on the day of such declaration are not valid.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1** (Art. 71).
-
-</details>
-
-**Q7. UPPCS Prelims 2023, Q9Assertion (A):** The President is a part of the Parliament.
-
-**Reason (R):** A Bill passed by the two Houses of Parliament cannot become a law without the assent of the President.
-A. Both true but R not the explanation
-B. Both (A) and (R) are true and (R) is the correct explanation of (A)
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q8. UPPCS Prelims 2023, Q12**
-With reference to the Attorney General of India, which statement(s) is/are correct?
-1. Appointed if qualified to be a Judge of the Supreme Court.
-2. Removed through the same process as SC judges.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1** (holds office during pleasure).
-
-</details>
-
-### 2022
-
-**Q9. UPPCS Prelims 2022, Q116**
-Which one of the following did **NOT** serve as Vice-President before assuming the office of the President of India?
-A. Dr. Shankar Dayal Sharma
-B. Neelam Sanjiva Reddy
-C. Dr. Zakir Hussain
-D. R. Venkataraman
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Neelam Sanjiva Reddy.**
-
-</details>
-
-### 2021
-
-**Q10. UPPCS Prelims 2021, Q84**
-With reference to the special address of the President of India, which statement(s) is/are correct?
-1. He addresses the joint meeting at the commencement of the first session after each general election and the first session of each year.
-2. He informs Parliament of the causes of its summons.
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 1 only.**
-
-</details>
-
-**Q11. UPPCS Prelims 2021, Q117Assertion (A):** The Council of Ministers in India is collectively responsible to both Lok Sabha and Rajya Sabha.
-
-**Reason (R):** Members of both Lok Sabha and Rajya Sabha are eligible to become Ministers in the Union Government.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true but R not the explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — A false, R true** (responsible to the Lok Sabha only).
-
-</details>
-
-### 2020
-
-**Q12. UPPCS Prelims 2020, Q124**
-Consider the following statements in the context of the Attorney General of India. *(Statement text missing in source copy.)*
-A. Only 1 is correct
-B. Only 2 is correct
-C. Both 1 and 2 are correct
-D. Neither 1 nor 2 is correct
-
-<details>
-<summary>Show answer</summary>
-
-**Answer key not reproducible** — statements illegible in the source paper. Concept: AG = first law officer; SC-judge qualification; office **during pleasure**; speaks in both Houses without a vote.
-
-</details>
-
-### 2019
-
-**Q13. UPPCS Prelims 2019, Q30**
-With reference to Prime Minister's Office (PMO), which statement(s) is/are correct?
-1. It came into existence in 1977. 2. It is headed by the Cabinet Secretary.
-A. Only 2
-B. Both 1 and 2
-C. Only 1
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Neither.**
-
-</details>
-
-### 2018
-
-**Q14. UPPCS Prelims 2018, Q66**
-Who was the UPA candidate for the 2017 Presidential election?
-A. Ms. Meira Kumar
-B. Mr. Gopal Krishna Gandhi
-C. Dr. Karan Singh
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Meira Kumar** (lost to Ram Nath Kovind). Gopal Krishna Gandhi was the opposition VP candidate that year.
-
-</details>
-
-**Q15. UPPCS Prelims 2018, Q72**
-The Council of States (Rajya Sabha) has exclusive powers in relation to which of the following?
-A. To initiate proceedings for the removal of the President
-B. To initiate proceedings for the removal of a judge of the Supreme Court
-C. To recommend the creation of a new All India Service
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. 312 (new All India Service) is an exclusive power of the Rajya Sabha; impeachment/removal can start in **either** House.
-
-</details>
-
-**Q16. UPPCS Prelims 2018, Q146**
-Who is the author of the book "The Accidental Prime Minister"?
-A. Rajdeep Sardesai
-B. Karan Thapar
-C. Kuldeep Nayar
-D. Sanjaya Baru
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Sanjaya Baru** (former media adviser to PM Manmohan Singh).
 
 </details>
 

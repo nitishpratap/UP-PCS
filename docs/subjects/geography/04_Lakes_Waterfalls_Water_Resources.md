@@ -664,6 +664,319 @@ D. Only 1
 
 ---
 
+## Complete PYQ Bank
+
+> **Answers hidden** — click *Show answer* under each question to reveal.
+> **Coverage:** 15 UPPCS Prelims hits (2018–2025) for lakes, waterfalls, dams/hydro mapped to this topic — grouped **2025 → 2018**.
+
+**Q1. UPPCS Prelims 2025, Q31**
+With reference to hydroelectric power in Northern India, which of the following statements is/are correct?
+
+1. The Himalayan region has enormous hydroelectric potential.
+2. Eastern Uttar Pradesh and Bihar cannot utilize this potential because the Himalayas situated to their north lie within the territory of Nepal.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both true. Himalaya = high hydro potential; E-UP/Bihar cannot fully tap northern ranges because those mountains lie largely in **Nepal**. **A/D** drop one true statement; **B** rejects both.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q58**
+Which of the following Ramsar sites are NOT located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — (3) Rudrasagar = **Tripura**; (4) Sultanpur = **Haryana**. Sarsai Nawar and Samaspur **are** in UP — so A/C/D that include them as "not in UP" fail.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q92**
+Which of the following pairs is/are NOT correctly matched?
+(Dam) — (River)
+
+1. Baglihar Dam — Chenab
+2. Pandoh Dam — Ravi
+3. Srisailam Dam — Tungabhadra
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — (1) Baglihar–Chenab is correct. (2) Pandoh is on **Beas**, not Ravi. (3) Srisailam is on **Krishna**, not Tungabhadra. Wrong pairs = 2 and 3.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q72**
+Which one of the following pairs is not correctly matched regarding peculiarities of Ramganga Project?
+
+A. Dam's length – 825.8 metres
+
+B. Hydropower generation capacity – 198 MW
+
+C. Location – Garhwal (Uttarakhand)
+
+D. Irrigated area – 6 lakh hectares
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Irrigation is about **5.75–5.90 lakh ha**, not 6 lakh. A/B/C (length 825.8 m, 198 MW, Garhwal) are treated as correctly matched.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2023, Q66**
+Which one of the following (Lake—Country) is not correctly matched?
+
+A. Baikal — Russia
+
+B. Michigan — United States of America
+
+C. Onega — Canada
+
+D. Maracaibo — Venezuela
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Lake Onega is in northwest Russia, not Canada. Baikal–Russia, Michigan–USA, and Maracaibo–Venezuela are correctly matched.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022, Q73**
+Keibul Lamjao National Park is located in which lake?
+
+A. Loktak
+
+B. Dal
+
+C. Wular
+
+D. Kolleru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Keibul Lamjao, the floating national park and Sangai habitat, is on Loktak Lake in Manipur. Dal and Wular are in J&K; Kolleru is in Andhra Pradesh.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q85**
+Match List-I with List-II and select the correct answer from the code given below.
+| List-I (Waterfall) | List-II (Location) |
+|---|---|
+| A. Dudhsagar | 1. Karnataka |
+| B. Barkana | 2. Odisha |
+| C. Khandadhar | 3. Himachal Pradesh |
+| D. Palani | 4. Goa |
+
+A. A-3, B-2, C-4, D-1
+
+B. A-4, B-3, C-2, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Dudhsagar–Goa, Barkana–Karnataka, Khandadhar–Odisha, Palani–Himachal Pradesh (code 4 1 2 3).
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2021, Q9**
+Which of the following is NOT correctly matched?
+
+A. Hundru Waterfall - Subarnarekha River
+
+B. Chachai Waterfall - Bihad River
+
+C. Dhuandhar Waterfall - Narmada River
+
+D. Budha Ghagh - Kanchi River
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Chachai is not correctly paired with the Bihad River. Hundru–Subarnarekha and Dhuandhar–Narmada are treated as correct pairs in that paper.
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2021, Q74**
+Largest saline water lake in India is
+
+A. Chilka
+
+B. Sambhar
+
+C. Lonar
+
+D. Wular
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Without "inland" in the stem, the key is Chilika as the largest saline/brackish water body by area. Sambhar is the largest inland saline lake — the main trap if the stem is misread.
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2021, Q144**
+Which of the following is the largest lagoon lake situated on the east coast of India?
+
+A. Pulicat
+
+B. Chilka
+
+C. Kulleru
+
+D. Kilivali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Chilika is the largest east-coast lagoon. Pulicat is second; Kolleru is mainly freshwater deltaic, not the lagoon king.
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2020, Q56**
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I (Lake) | List-II (Location) |
+|---|---|
+| A. Sala Lake | 1. Arunachal Pradesh |
+| B. Badkhal Lake | 2. Haryana |
+| C. Loktak Lake | 3. Manipur |
+| D. Kaliveli Lake | 4. Tamil Nadu |
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 3 2 4
+
+D. 1 4 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Sala–Arunachal Pradesh, Badkhal–Haryana, Loktak–Manipur, Kaliveli–Tamil Nadu match in that order.
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2019, Q115**
+Which hydropower plant in Bhutan was naugurated recently by Indian Prime Minister Narendra Modi
+
+A. Chhukhu Power Plant
+
+B. Dagachhu Power Plant
+
+C. Kurichha Power Plant
+
+D. Mungdechhu Power Plant
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Mangdechhu / Mungdechhu was the plant linked to PM Modi's 2019 Bhutan visit context. The other options are other Bhutan projects or distractors.
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2018, Q24**
+Which of the following is the highes waterfall in India?
+
+A. Jog fall
+
+B. Kunchikal fall
+
+C. Rakim Kund fall
+
+D. Kevti fall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Kunchikal on the Varahi in Karnataka is keyed as India's highest. Jog is famous but shorter — the classic trap.
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2019, Q84** *(overlap inland saline drainage — retain for Sambhar/Luni contrast)*
+In which of the following rivers, the upper course contains fresh water but saline water flowing at the lower part?
+
+A. Barak river
+
+B. Luni river
+
+C. Ghaggar river
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The Luni carries relatively fresh water in its upper course but becomes saline downstream in the arid Rajasthan basin — useful contrast with inland saline lake hydrology near the Sambhar belt.
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2020, Q48**
+How many more 'Ramsar Sites' were added to Uttar Pradesh in January, 2020?
+
+A. 3
+
+B. 6
+
+C. 9
+
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Six additional Ramsar sites were added to Uttar Pradesh in that January 2020 window (the 2019–20 bird-sanctuary cluster). 3 undercounts; 9 and 12 over-count.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -1864,319 +2177,6 @@ D. saline lakes
 **Logic:** UPSC 2021 name-set — Rajasthan saline / playa lakes, not glaciers or mangroves.
 
 **Ans: D** — They are saline lakes of the Rajasthan belt (with Sambhar as the inland king).
-</details>
-
----
-
-## Complete PYQ Bank
-
-> **Answers hidden** — click *Show answer* under each question to reveal.
-> **Coverage:** 15 UPPCS Prelims hits (2018–2025) for lakes, waterfalls, dams/hydro mapped to this topic — grouped **2025 → 2018**.
-
-**Q1. UPPCS Prelims 2025, Q31**
-With reference to hydroelectric power in Northern India, which of the following statements is/are correct?
-
-1. The Himalayan region has enormous hydroelectric potential.
-2. Eastern Uttar Pradesh and Bihar cannot utilize this potential because the Himalayas situated to their north lie within the territory of Nepal.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both true. Himalaya = high hydro potential; E-UP/Bihar cannot fully tap northern ranges because those mountains lie largely in **Nepal**. **A/D** drop one true statement; **B** rejects both.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q58**
-Which of the following Ramsar sites are NOT located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — (3) Rudrasagar = **Tripura**; (4) Sultanpur = **Haryana**. Sarsai Nawar and Samaspur **are** in UP — so A/C/D that include them as "not in UP" fail.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q92**
-Which of the following pairs is/are NOT correctly matched?
-(Dam) — (River)
-
-1. Baglihar Dam — Chenab
-2. Pandoh Dam — Ravi
-3. Srisailam Dam — Tungabhadra
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — (1) Baglihar–Chenab is correct. (2) Pandoh is on **Beas**, not Ravi. (3) Srisailam is on **Krishna**, not Tungabhadra. Wrong pairs = 2 and 3.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q72**
-Which one of the following pairs is not correctly matched regarding peculiarities of Ramganga Project?
-
-A. Dam's length – 825.8 metres
-
-B. Hydropower generation capacity – 198 MW
-
-C. Location – Garhwal (Uttarakhand)
-
-D. Irrigated area – 6 lakh hectares
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Irrigation is about **5.75–5.90 lakh ha**, not 6 lakh. A/B/C (length 825.8 m, 198 MW, Garhwal) are treated as correctly matched.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2023, Q66**
-Which one of the following (Lake—Country) is not correctly matched?
-
-A. Baikal — Russia
-
-B. Michigan — United States of America
-
-C. Onega — Canada
-
-D. Maracaibo — Venezuela
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Lake Onega is in northwest Russia, not Canada. Baikal–Russia, Michigan–USA, and Maracaibo–Venezuela are correctly matched.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2022, Q73**
-Keibul Lamjao National Park is located in which lake?
-
-A. Loktak
-
-B. Dal
-
-C. Wular
-
-D. Kolleru
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Keibul Lamjao, the floating national park and Sangai habitat, is on Loktak Lake in Manipur. Dal and Wular are in J&K; Kolleru is in Andhra Pradesh.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q85**
-Match List-I with List-II and select the correct answer from the code given below.
-| List-I (Waterfall) | List-II (Location) |
-|---|---|
-| A. Dudhsagar | 1. Karnataka |
-| B. Barkana | 2. Odisha |
-| C. Khandadhar | 3. Himachal Pradesh |
-| D. Palani | 4. Goa |
-
-A. A-3, B-2, C-4, D-1
-
-B. A-4, B-3, C-2, D-1
-
-C. A-1, B-2, C-3, D-4
-
-D. A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Dudhsagar–Goa, Barkana–Karnataka, Khandadhar–Odisha, Palani–Himachal Pradesh (code 4 1 2 3).
-</details>
-
----
-
-**Q8. UPPCS Prelims 2021, Q9**
-Which of the following is NOT correctly matched?
-
-A. Hundru Waterfall - Subarnarekha River
-
-B. Chachai Waterfall - Bihad River
-
-C. Dhuandhar Waterfall - Narmada River
-
-D. Budha Ghagh - Kanchi River
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Chachai is not correctly paired with the Bihad River. Hundru–Subarnarekha and Dhuandhar–Narmada are treated as correct pairs in that paper.
-</details>
-
----
-
-**Q9. UPPCS Prelims 2021, Q74**
-Largest saline water lake in India is
-
-A. Chilka
-
-B. Sambhar
-
-C. Lonar
-
-D. Wular
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Without "inland" in the stem, the key is Chilika as the largest saline/brackish water body by area. Sambhar is the largest inland saline lake — the main trap if the stem is misread.
-</details>
-
----
-
-**Q10. UPPCS Prelims 2021, Q144**
-Which of the following is the largest lagoon lake situated on the east coast of India?
-
-A. Pulicat
-
-B. Chilka
-
-C. Kulleru
-
-D. Kilivali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Chilika is the largest east-coast lagoon. Pulicat is second; Kolleru is mainly freshwater deltaic, not the lagoon king.
-</details>
-
----
-
-**Q11. UPPCS Prelims 2020, Q56**
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I (Lake) | List-II (Location) |
-|---|---|
-| A. Sala Lake | 1. Arunachal Pradesh |
-| B. Badkhal Lake | 2. Haryana |
-| C. Loktak Lake | 3. Manipur |
-| D. Kaliveli Lake | 4. Tamil Nadu |
-
-A. 1 2 3 4
-
-B. 2 1 3 4
-
-C. 1 3 2 4
-
-D. 1 4 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sala–Arunachal Pradesh, Badkhal–Haryana, Loktak–Manipur, Kaliveli–Tamil Nadu match in that order.
-</details>
-
----
-
-**Q12. UPPCS Prelims 2019, Q115**
-Which hydropower plant in Bhutan was naugurated recently by Indian Prime Minister Narendra Modi
-
-A. Chhukhu Power Plant
-
-B. Dagachhu Power Plant
-
-C. Kurichha Power Plant
-
-D. Mungdechhu Power Plant
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Mangdechhu / Mungdechhu was the plant linked to PM Modi's 2019 Bhutan visit context. The other options are other Bhutan projects or distractors.
-</details>
-
----
-
-**Q13. UPPCS Prelims 2018, Q24**
-Which of the following is the highes waterfall in India?
-
-A. Jog fall
-
-B. Kunchikal fall
-
-C. Rakim Kund fall
-
-D. Kevti fall
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kunchikal on the Varahi in Karnataka is keyed as India's highest. Jog is famous but shorter — the classic trap.
-</details>
-
----
-
-**Q14. UPPCS Prelims 2019, Q84** *(overlap inland saline drainage — retain for Sambhar/Luni contrast)*
-In which of the following rivers, the upper course contains fresh water but saline water flowing at the lower part?
-
-A. Barak river
-
-B. Luni river
-
-C. Ghaggar river
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The Luni carries relatively fresh water in its upper course but becomes saline downstream in the arid Rajasthan basin — useful contrast with inland saline lake hydrology near the Sambhar belt.
-</details>
-
----
-
-**Q15. UPPCS Prelims 2020, Q48**
-How many more 'Ramsar Sites' were added to Uttar Pradesh in January, 2020?
-
-A. 3
-
-B. 6
-
-C. 9
-
-D. 12
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Six additional Ramsar sites were added to Uttar Pradesh in that January 2020 window (the 2019–20 bird-sanctuary cluster). 3 undercounts; 9 and 12 over-count.
 </details>
 
 ---

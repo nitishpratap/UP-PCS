@@ -332,6 +332,210 @@ D. 1 and 2
 
 ---
 
+## Complete PYQ Bank (Topic 6)
+
+**Q1. UPPCS Prelims 2025, Q58**
+
+Which of the following Ramsar sites are NOT located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q90**
+
+Match List-I with List-II: A. Dachigam B. Keoladeo C. Kanha D. Periyar | 1. MP 2. Rajasthan 3. Kerala 4. J&K
+
+A. 4 2 1 3
+
+B. 2 4 3 1
+
+C. 4 2 3 1
+
+D. 4 2 1 3
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q144**
+
+Which pairs is/are NOT correctly matched? 1. Nokrek — Manipur 2. Manas — Assam 3. Agasthyamalai — Kerala
+
+A. Only 1
+
+B. Only 2
+
+C. Only 3
+
+D. Only 1 and 3
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q10**
+
+Match: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas | 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
+
+A. 1 2 4 3
+
+B. 3 1 4 2
+
+C. 2 4 3 1
+
+D. 2 4 1 3
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — Simlipal=Odisha(2); Nokrek=Meghalaya(4); Agasthyamalai=Kerala(1); Manas=Assam(3).
+
+</details>
+
+**Q5. UPPCS Prelims 2023, Q21**
+
+Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
+
+A. Chandauli
+
+B. Mirzapur
+
+C. Sonbhadra
+
+D. Varanasi
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q118**
+
+In National Parks, genetic diversity is maintained through—
+
+A. In-situ conservation
+
+B. Ex-situ conservation
+
+C. Gene pool
+
+D. None of the above
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q7. UPPCS Prelims 2022, Q11**
+
+Dudhwa National Park is situated in which district of Uttar Pradesh?
+
+A. Lakhimpur Kheri
+
+B. Pilibhit
+
+C. Bahraich
+
+D. Bijnor
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q8. UPPCS Prelims 2022, Q134**
+
+Keibul Lamjao National Park is located in which lake?
+
+A. Loktak
+
+B. Wular
+
+C. Dal
+
+D. Chilika
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q9. UPPCS Prelims 2018, Q46**
+
+When was Project Tiger launched in India?
+
+A. 1972
+
+B. 1973
+
+C. 1992
+
+D. 2006
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q10. UPPCS Prelims 2018, Q54**
+
+Which of the following is NOT an example of in-situ conservation strategy?
+
+A. Biosphere reserve
+
+B. Botanical garden
+
+C. National Park
+
+D. Sacred groves
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Botanical garden is **ex-situ**.
+
+</details>
+
+**Q11. UPPCS Prelims 2018, Q58**
+
+Which pair is NOT correctly matched?
+
+A. Bandipur NP — Karnataka
+
+B. Manas WLS — Assam
+
+C. Periyar WLS — Kerala
+
+D. Simlipal NP — Madhya Pradesh
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — Simlipal is in **Odisha**.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | multi-statement + A/R + match + NOT-matched
@@ -851,210 +1055,6 @@ D. 3, 1, 2, 4
 
 ---
 
-## Complete PYQ Bank (Topic 6)
-
-**Q1. UPPCS Prelims 2025, Q58**
-
-Which of the following Ramsar sites are NOT located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q90**
-
-Match List-I with List-II: A. Dachigam B. Keoladeo C. Kanha D. Periyar | 1. MP 2. Rajasthan 3. Kerala 4. J&K
-
-A. 4 2 1 3
-
-B. 2 4 3 1
-
-C. 4 2 3 1
-
-D. 4 2 1 3
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q144**
-
-Which pairs is/are NOT correctly matched? 1. Nokrek — Manipur 2. Manas — Assam 3. Agasthyamalai — Kerala
-
-A. Only 1
-
-B. Only 2
-
-C. Only 3
-
-D. Only 1 and 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q10**
-
-Match: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas | 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
-
-A. 1 2 4 3
-
-B. 3 1 4 2
-
-C. 2 4 3 1
-
-D. 2 4 1 3
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Simlipal=Odisha(2); Nokrek=Meghalaya(4); Agasthyamalai=Kerala(1); Manas=Assam(3).
-
-</details>
-
-**Q5. UPPCS Prelims 2023, Q21**
-
-Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
-
-A. Chandauli
-
-B. Mirzapur
-
-C. Sonbhadra
-
-D. Varanasi
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q118**
-
-In National Parks, genetic diversity is maintained through—
-
-A. In-situ conservation
-
-B. Ex-situ conservation
-
-C. Gene pool
-
-D. None of the above
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q7. UPPCS Prelims 2022, Q11**
-
-Dudhwa National Park is situated in which district of Uttar Pradesh?
-
-A. Lakhimpur Kheri
-
-B. Pilibhit
-
-C. Bahraich
-
-D. Bijnor
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8. UPPCS Prelims 2022, Q134**
-
-Keibul Lamjao National Park is located in which lake?
-
-A. Loktak
-
-B. Wular
-
-C. Dal
-
-D. Chilika
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9. UPPCS Prelims 2018, Q46**
-
-When was Project Tiger launched in India?
-
-A. 1972
-
-B. 1973
-
-C. 1992
-
-D. 2006
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10. UPPCS Prelims 2018, Q54**
-
-Which of the following is NOT an example of in-situ conservation strategy?
-
-A. Biosphere reserve
-
-B. Botanical garden
-
-C. National Park
-
-D. Sacred groves
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Botanical garden is **ex-situ**.
-
-</details>
-
-**Q11. UPPCS Prelims 2018, Q58**
-
-Which pair is NOT correctly matched?
-
-A. Bandipur NP — Karnataka
-
-B. Manas WLS — Assam
-
-C. Periyar WLS — Kerala
-
-D. Simlipal NP — Madhya Pradesh
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Simlipal is in **Odisha**.
-
-</details>
-
----
-
 ## Mains Answer Framework
 
 **Protected area network in India (250 words):** Define protected areas under WPA. Compare NP, sanctuary, TR, BR, Ramsar, ESZ. India counts and firsts (Corbett, Gulf of Kutch, Nilgiri BR). UP case — Dudhwa NP/TR, Pilibhit TR, 12 Ramsar sites, Terai corridor, no marine PA. Conclude with in-situ hierarchy and ESZ buffer role under EPA.
@@ -1074,50 +1074,3 @@ D. Simlipal NP — Madhya Pradesh
 | Biosphere Reserve under WPA | **No** — executive/MAB |
 | UP has marine PA | **No** — landlocked |
 | Grazing allowed in NP | **Prohibited** in NP |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~900 (was ~1550 old encyclopedic format) |
-| **Teaching blocks** | §6.1–6.11 (11 syllabus bullets, one home each) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 11 questions (2018–2025) |
-| **Common Traps** | 9 |
-| **Inline PYQs** | 2025 Q58, Q90, Q144 in teaching body |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Wildlife Sanctuary | §6.1 |
-| National Park | §6.2 |
-| Biosphere Reserve | §6.3 (+ 18-BR table) |
-| Conservation Reserve | §6.4 |
-| Community Reserve | §6.5 |
-| Tiger Reserve | §6.6 |
-| Elephant Reserve | §6.7 |
-| Marine Protected Areas | §6.8 |
-| Ramsar Sites | §6.9 (+ UP 12 in Consolidated) |
-| UNESCO World Heritage Sites | §6.10 |
-| Eco-Sensitive Zones | §6.11 |
-
-### Topic boundaries (no duplicate homes)
-
-- **In-situ definition** — one line only; full treatment in Topic 4 §4.7
-- **ESZ/CRZ basics** — Topic 1 §1.3; Topic 6 owns PA-context ESZ
-- **Project Tiger history depth** — Topic 7 Wildlife Conservation
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q58 Ramsar NOT in UP | §6.9 inline |
-| 2025 Q90 NP match | §6.2 inline |
-| 2025 Q144 Nokrek trap | §6.3 inline |
-| 2024 Q10 BR match | Practice Q11 + PYQ Bank Q4 |
-| 2023 Q118 in-situ in NP | Practice Q29 + PYQ Bank Q6 |
-| 2023 Q21 Chandraprabha | Practice Q17 + PYQ Bank Q5 |
-| 2018 Q46 Project Tiger | Practice Q13 + PYQ Bank Q9 |

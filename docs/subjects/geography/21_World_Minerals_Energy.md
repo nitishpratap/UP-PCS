@@ -923,6 +923,368 @@ D. Geothermal energy
 
 ---
 
+## Complete PYQ Bank
+
+**Instructions:** Answers under `<details>`. Options sit on separate lines. Match-lists as tables.
+
+**Q1. UPPCS Prelims 2025, Q4**
+
+Match List-I with List-II and choose the correct answer by using the code given below the lists.
+
+| List-I (Coal Field) | List-II (Country) |
+|---------------------|-------------------|
+| A. Appalachian | 1. England |
+| B. Lancashire | 2. Germany |
+| C. Ruhr | 3. Russia |
+| D. Kuzbass | 4. USA |
+
+**Options:**
+
+A. 4 1 2 3
+
+B. 1 4 3 2
+
+C. 1 4 2 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q78**
+
+Which one of the following pairs (Country - Oil Field) is not correctly matched?
+
+**Options:**
+
+A. Iran - Haft Kel
+
+B. Kuwait - Kashagan
+
+C. Saudi Arabia - Dhahran
+
+D. Iraq - Zubair
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Kashagan = Kazakhstan.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2023, Q69**
+
+Which one of the following is the largest coal-producing centre of Ukraine?
+
+**Options:**
+
+A. Zaporizhzhia
+
+B. Kharkiv
+
+C. Donetsk
+
+D. Kyiv
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2023, Q70**
+
+"Mount Newman" is famous for which of the following minerals?
+
+**Options:**
+
+A. Iron Ore
+
+B. Manganese
+
+C. Copper
+
+D. Bauxite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2022, Q41**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Chile is the leading producer of copper in the world.
+
+**Reason (R):** The Andes Region of North Chile is enriched with the largest deposits of porphyry copper.
+
+**Options:**
+
+A. (A) is false but (R) is true.
+
+B. (A) is true but (R) is false.
+
+C. Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022, Q70**
+
+Which among the following is an important mineral of the Pegu Yoma region of Myanmar?
+
+**Options:**
+
+A. Mineral oil
+
+B. Tin
+
+C. Copper
+
+D. Silver
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mineral oil. Tin is the Kinta/Bangka trap.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q112**
+
+The famous **'Ruhr coalfield'** is situated in which of the following countries?
+
+**Options:**
+
+A. Great Britain
+
+B. Germany
+
+C. Russia
+
+D. France
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2022, Q19**
+
+Which among the following compounds is the main constituent of natural gas?
+
+**Options:**
+
+A. Butane
+
+B. Hexane
+
+C. Benzene
+
+D. Methane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2022, Q139**
+
+Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
+
+**Options:**
+
+A. Biomass energy
+
+B. Nuclear energy
+
+C. Wind energy
+
+D. Geothermal energy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Contested B or D** — Both nuclear and geothermal are not stored solar. Wind and biomass are.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2022, Q140**
+
+As of early 2022, which country was at the top in steel production in the world?
+
+**Options:**
+
+A. China
+
+B. Japan
+
+C. England
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2020, Q70**
+
+Which one of the following is NOT correctly matched?
+
+(Country) (Iron-Ore Producing Area)
+
+**Options:**
+
+A. Kazakhstan – Karaganda
+
+B. Ukrain – Krivoy Rog
+
+C. Germany – Normendy
+
+D. France – Pyrenees
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Normandy = France.
+
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2020, Q84**
+
+Postmasburg and its adjacent areas of South Africa is major producer of which of the following minerals?
+
+**Options:**
+
+A. Uranium
+
+B. Bauxite
+
+C. Manganese
+
+D. Mica
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2020, Q88**
+
+In Malaysia, the 'Kinta Valley' is famous for
+
+**Options:**
+
+A. Rubber Production
+
+B. Tea Production
+
+C. Tin Production
+
+D. Coffee Production
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2018, Q109**
+
+Which of the following countries is the leading producer of lodine in the world?
+
+**Options:**
+
+A. Japan
+
+B. U.S.A.
+
+C. Chile
+
+D. China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Iodine; Chile.
+
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2018, Q130**
+
+Which of the following is the main component of the natural gas?
+
+**Options:**
+
+A. Ethane
+
+B. Butane
+
+C. Carbon mono-oxide
+
+D. Methane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -2339,368 +2701,6 @@ D. Haft Kel — Iraq
 <summary>Show answer</summary>
 
 **Ans: D** — Haft Kel = **Iran**.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Answers under `<details>`. Options sit on separate lines. Match-lists as tables.
-
-**Q1. UPPCS Prelims 2025, Q4**
-
-Match List-I with List-II and choose the correct answer by using the code given below the lists.
-
-| List-I (Coal Field) | List-II (Country) |
-|---------------------|-------------------|
-| A. Appalachian | 1. England |
-| B. Lancashire | 2. Germany |
-| C. Ruhr | 3. Russia |
-| D. Kuzbass | 4. USA |
-
-**Options:**
-
-A. 4 1 2 3
-
-B. 1 4 3 2
-
-C. 1 4 2 3
-
-D. 4 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2024, Q78**
-
-Which one of the following pairs (Country - Oil Field) is not correctly matched?
-
-**Options:**
-
-A. Iran - Haft Kel
-
-B. Kuwait - Kashagan
-
-C. Saudi Arabia - Dhahran
-
-D. Iraq - Zubair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kashagan = Kazakhstan.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2023, Q69**
-
-Which one of the following is the largest coal-producing centre of Ukraine?
-
-**Options:**
-
-A. Zaporizhzhia
-
-B. Kharkiv
-
-C. Donetsk
-
-D. Kyiv
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2023, Q70**
-
-"Mount Newman" is famous for which of the following minerals?
-
-**Options:**
-
-A. Iron Ore
-
-B. Manganese
-
-C. Copper
-
-D. Bauxite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2022, Q41**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Chile is the leading producer of copper in the world.
-
-**Reason (R):** The Andes Region of North Chile is enriched with the largest deposits of porphyry copper.
-
-**Options:**
-
-A. (A) is false but (R) is true.
-
-B. (A) is true but (R) is false.
-
-C. Both (A) and (R) are true but (R) is not the correct explanation of (A).
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2022, Q70**
-
-Which among the following is an important mineral of the Pegu Yoma region of Myanmar?
-
-**Options:**
-
-A. Mineral oil
-
-B. Tin
-
-C. Copper
-
-D. Silver
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mineral oil. Tin is the Kinta/Bangka trap.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q112**
-
-The famous **'Ruhr coalfield'** is situated in which of the following countries?
-
-**Options:**
-
-A. Great Britain
-
-B. Germany
-
-C. Russia
-
-D. France
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2022, Q19**
-
-Which among the following compounds is the main constituent of natural gas?
-
-**Options:**
-
-A. Butane
-
-B. Hexane
-
-C. Benzene
-
-D. Methane
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2022, Q139**
-
-Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
-
-**Options:**
-
-A. Biomass energy
-
-B. Nuclear energy
-
-C. Wind energy
-
-D. Geothermal energy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: Contested B or D** — Both nuclear and geothermal are not stored solar. Wind and biomass are.
-
-</details>
-
----
-
-**Q10. UPPCS Prelims 2022, Q140**
-
-As of early 2022, which country was at the top in steel production in the world?
-
-**Options:**
-
-A. China
-
-B. Japan
-
-C. England
-
-D. India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11. UPPCS Prelims 2020, Q70**
-
-Which one of the following is NOT correctly matched?
-
-(Country) (Iron-Ore Producing Area)
-
-**Options:**
-
-A. Kazakhstan – Karaganda
-
-B. Ukrain – Krivoy Rog
-
-C. Germany – Normendy
-
-D. France – Pyrenees
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Normandy = France.
-
-</details>
-
----
-
-**Q12. UPPCS Prelims 2020, Q84**
-
-Postmasburg and its adjacent areas of South Africa is major producer of which of the following minerals?
-
-**Options:**
-
-A. Uranium
-
-B. Bauxite
-
-C. Manganese
-
-D. Mica
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q13. UPPCS Prelims 2020, Q88**
-
-In Malaysia, the 'Kinta Valley' is famous for
-
-**Options:**
-
-A. Rubber Production
-
-B. Tea Production
-
-C. Tin Production
-
-D. Coffee Production
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q14. UPPCS Prelims 2018, Q109**
-
-Which of the following countries is the leading producer of lodine in the world?
-
-**Options:**
-
-A. Japan
-
-B. U.S.A.
-
-C. Chile
-
-D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Iodine; Chile.
-
-</details>
-
----
-
-**Q15. UPPCS Prelims 2018, Q130**
-
-Which of the following is the main component of the natural gas?
-
-**Options:**
-
-A. Ethane
-
-B. Butane
-
-C. Carbon mono-oxide
-
-D. Methane
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
 </details>
 
 ---

@@ -793,6 +793,450 @@ D. 1 and 2
 
 ---
 
+## Complete PYQ Bank
+
+> **Answers hidden** — click *Show answer* under each question to reveal.
+> **Coverage:** All 19 UPPCS Prelims geography hits (2018–2025) for this topic — grouped **2025 → 2018**.
+
+**Q1. UPPCS Prelims 2025, Q37**
+Match List-I with List-II and select the correct answer using the code given below the lists.
+**List-I (State)**
+
+A. Tamil Nadu
+
+B. Rajasthan
+
+C. Nagaland
+
+D. Madhya Pradesh
+**List-II (Highest Peak)**
+
+1. Dhupgarh
+2. Doddabetta
+3. Guru Shikhar
+4. Saramati
+
+A. 2 3 1 4
+
+B. 3 2 4 1
+
+C. 3 2 1 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — A→2 (Doddabetta, TN), B→3 (Guru Shikhar, Rajasthan/Aravalli), C→4 (Saramati, Nagaland), D→1 (Dhupgarh, Satpura/MP). **A** swaps MP-Nagaland peaks. **B/C** put Guru Shikhar on TN or Dhupgarh on Rajasthan.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q44**
+With reference to the Atal Tunnel, which of the following statements is/are correct?
+
+1. This tunnel is the world's longest highway tunnel.
+2. This tunnel is built in the Pir Panjal range of the Himalayas.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Statement 2 correct: Rohtang Pass, Pir Panjal, HP. Statement 1 false without qualification (other longer tunnels exist globally; high-altitude record is different). **C/D** accept the absolute "world's longest" trap.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q55**
+Which of the following pairs are NOT correctly matched?
+(Pass) — (State/Union Territory)
+
+1. Lipulekh — Ladakh
+2. Nathu La — Sikkim
+3. Bomdila — Arunachal Pradesh
+4. Shipki La — Himachal Pradesh
+
+Select the correct answer from the code given below:
+
+A. Only 1 and 2
+
+B. Only 2, 3 and 4
+
+C. Only 1, 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Only pair (1) wrong: Lipulekh = **Uttarakhand** (2025 trap). (2) Nathu La-Sikkim ✓. (3) Bomdila is a **town**, not a pass — but question asks NOT matched; Bomdila as "pass" is the implicit trap yet only Ladakh option is clearly wrong geographically. **A/B/C** over-count errors on correct pairs.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2025, Q94**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** The Himalayas form the source of several large perennial rivers.
+
+**Reason (R):** The higher ranges of the Himalayas remain snow-covered throughout the year.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Perennial Himalayan rivers (Ganga, Indus, Brahmaputra headwaters) fed by year-round snow-melt from high ranges. **A** severs the snow-melt → perennial flow logic. **B/C** deny true hydrological facts.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2025, Q21**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** In the Himalayan mountains different types of vegetation are found.
+
+**Reason (R):** In Himalayas, there are variations in climate with change in altitude.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Altitudinal belts (tropical → temperate → alpine → nival) directly cause vegetation zonation. **A** treats independent phenomena. **B/C** falsify obviously true Himalayan ecology facts.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2024, Q59**
+Which one of the following pairs (Deccan Trap – Peculiarity) is not correctly matched?
+
+A. Depth of middle trap – approximately 1200 metres
+
+B. Intertrappean beds – Fossils of sea plants and animals
+
+C. Depth of lower trap – approximately 150 metres
+
+D. Depth of upper trap – approximately 450 metres
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Intertrappean = **freshwater/lacustrine** fossils between lava flows, NOT marine sea fossils. **A/C/D** are accepted approximate trap thickness facts from standard geomorphology sources.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2023, Q57**
+Which one of the following (**Pass — State/UT**) is correctly matched?
+
+A. Aghil — Arunachal Pradesh
+
+B. Diphu — Ladakh
+
+C. Niti — Uttarakhand
+
+D. Mana — Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Niti Pass = Uttarakhand ✓. **A** Aghil in Karakoram/China side. **B** Diphu in Karakoram, not Ladakh as commonly tested. **D** Mana = **Uttarakhand**, not HP — recurring UPPCS trap.
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2022, Q31**
+Which of the following mountain peaks are in the Himalayan Mountains?
+
+1. Cho Oyu
+2. Lhotse
+3. Annamalai
+4. Sirumalai
+
+A. Only 2, 3 and 4
+
+B. Only 1, 2 and 3
+
+C. Only 3 and 4
+
+D. Only 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Cho Oyu and Lhotse = Himalayan 8000 m cluster. Annamalai (Kerala/TN Western Ghats) and Sirumalai (Tamil Nadu) = Peninsular. **B** wrongly includes Annamalai. **C** picks only peninsular peaks.
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2022, Q35**
+With reference to India, which of the following statements is/are correct?
+
+1. India is the sixth largest country in the world.
+2. India occupies about 2.4% of the total area of the world.
+3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
+4. India lies completely in the tropical zone.
+
+A. 2 and 3
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — **2 and 3**. India is **7th** largest, not 6th. **2.4%** true. Tropic through the middle = NCERT fact. **Not** wholly tropical (extends to 37°6′ N).
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2021, Q127**
+Match List-I with List-II and select the correct answer using the codes given below the lists.
+**List-I (State of India)**
+
+A. Tamil Nadu
+
+B. Rajasthan
+
+C. Nagaland
+
+D. Madhya Pradesh
+**List-II (Highest Peak)**
+
+1. Dhupgarh Peak
+2. Saramati Peak
+3. Gurushikhar Peak
+4. Dodda Betta
+
+A. 3 2 1 4
+
+B. 1 4 3 2
+
+C. 4 2 3 1
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — TN-Dodda Betta(4), Rajasthan-Guru Shikhar(3), Nagaland-Saramati(2), MP-Dhupgarh(1). **A** reverses TN-Rajasthan. **B** assigns Dhupgarh to TN.
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2020, Q60**
+Which one of the following is the youngest mountain range of India?
+
+A. Himadri Range
+
+B. Aravalli Range
+
+C. Western Ghat
+
+D. Vindhya Range
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Himadri (Greater Himalaya) = tectonically youngest major range. **B** = oldest fold mountains. **C/D** = ancient peninsular hills — "OLD Aravalli, YOUNG Himalaya" memory trick.
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2020, Q66**
+Valley of Kashmir is situated between
+
+A. Kangara and Dhauladhar ranges
+
+B. Pir-Panjal and Himadri ranges
+
+C. Mahabharat and Dhauladhar ranges
+
+D. Pir-Panjal and Mahabharat ranges
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Kashmir "sandwich": Pir Panjal (south) + Himadri/Greater Himalaya (north). **A/C/D** swap in Kangara, Dhauladhar, or Mahabharat (Peninsular/outlier names).
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2019, Q82**
+Which one of the following peaks is NOT located in India?
+
+A. Gurla Mandhata
+
+B. Namcha Barwa
+
+C. Kamet
+
+D. Nanga Parbat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Official key. Namcha Barwa is in Tibet at the eastern syntaxial bend. **Kamet** is in Uttarakhand. **Nanga Parbat** is the western syntaxial bend (Gilgit–Baltistan / PoK). **Gurla Mandhata** is geographically in **Tibet** (north of Mansarovar) — do not convert this distractor into an “in India” teaching fact.
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2019, Q11**
+With reference to the Himalayan range, which of the statements is/are correct?
+
+1. The sedimentary rocks of the greater Himalayas were fossil less.
+2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
+3. Remains of human civilization are found in outer or Shivalik Himalayas.
+
+Select the correct answer using the codes given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3 are correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — All three correct: Himadri fossil-less; Himachal marine fossils; Shiwalik human/civilization remains. **A/B/C** each omit one valid zonation fact — designed to trap partial knowledge.
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2019, Q6**
+Which one of the following is the correct sequence of the hills of Central India located from West to East?
+
+A. Maikal, Satpura, Mahadeo and Chhotanagpur
+
+B. Satpura, Mahadeo, Maikal and Chhotanagpur
+
+C. Maikal, Mahadeo, Satpura and Chhotanagpur
+
+D. Satpura, Mahadeo, Chhotanagpur and Maikal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — West→East: Satpura → Mahadeo → Maikal → Chhotanagpur. **A/D** start or misplace Maikal. **C** puts Chhotanagpur before Maikal.
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2018, Q108**
+Match List-I and List-II and select the correct answer using the codes given below the list:
+
+| List-I (States) | List-II (Highest Peak) |
+|---|---|
+| A. Kerala | 1. Dodda Betta |
+| B. Nagaland | 2. Nand Devi |
+| C. Uttarakhand | 3. Anai Mudi |
+| D. Tamil Nadu | 4. Saramati |
+
+A. 1 3 4 2
+
+B. 2 3 4 1
+
+C. 3 4 2 1
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kerala-Anai Mudi(3), Nagaland-Saramati(4), Uttarakhand-Nanda Devi(2), TN-Dodda Betta(1). **A** = Kerala-Dodda Betta trap (most common wrong pick). **D** = sequential guess without mapping.
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2018, Q100**
+In which of the following hills the world famous temple of Lord Venkateshwar (Tirupati) is located?
+
+A. Shevaroy
+
+B. Biligiriranga
+
+C. Javadhee
+
+D. Mallmalla
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Tirupati on **Tirumala/Mallamalla** hills (Eastern Ghats), Andhra Pradesh. **A** Shevaroy = Tamil Nadu (Yercaud). **B** Biligiriranga = Karnataka. **C** Javadhee = Tamil Nadu. All distractors are real South Indian hill names — not giving away "Tirumala" in options.
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2018, Q101**
+Rajasthan desert or Thar desert is the expanse of which of the following?
+
+A. Pliocene
+
+B. Paleocene
+
+C. Pleistocene and recent deposits
+
+D. Oligocene
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Thar sands = Pleistocene + recent (UPPCS direct repeat concept). **A/B/D** = older Cenozoic eras — trap for students who pick "old desert = Paleocene."
+</details>
+
+---
+
+**Q19. UPPCS Prelims 2018, Q98**
+Which of the following States of India has the longest coastline?
+
+A. Maharashtra
+
+B. Andhra Pradesh
+
+C. Kerala
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Gujarat has the longest state coastline. Maharashtra, Andhra Pradesh, and Kerala are the usual wrong options.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -2106,450 +2550,6 @@ D. Only 3 and 4
 <summary>Show answer</summary>
 
 **Ans: A** — Only (3) is wrong: Duars / Dooars are the **West Bengal–Assam** foothills toward Bhutan, not the UP Terai.
-</details>
-
----
-
-## Complete PYQ Bank
-
-> **Answers hidden** — click *Show answer* under each question to reveal.
-> **Coverage:** All 19 UPPCS Prelims geography hits (2018–2025) for this topic — grouped **2025 → 2018**.
-
-**Q1. UPPCS Prelims 2025, Q37**
-Match List-I with List-II and select the correct answer using the code given below the lists.
-**List-I (State)**
-
-A. Tamil Nadu
-
-B. Rajasthan
-
-C. Nagaland
-
-D. Madhya Pradesh
-**List-II (Highest Peak)**
-
-1. Dhupgarh
-2. Doddabetta
-3. Guru Shikhar
-4. Saramati
-
-A. 2 3 1 4
-
-B. 3 2 4 1
-
-C. 3 2 1 4
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — A→2 (Doddabetta, TN), B→3 (Guru Shikhar, Rajasthan/Aravalli), C→4 (Saramati, Nagaland), D→1 (Dhupgarh, Satpura/MP). **A** swaps MP-Nagaland peaks. **B/C** put Guru Shikhar on TN or Dhupgarh on Rajasthan.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q44**
-With reference to the Atal Tunnel, which of the following statements is/are correct?
-
-1. This tunnel is the world's longest highway tunnel.
-2. This tunnel is built in the Pir Panjal range of the Himalayas.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Statement 2 correct: Rohtang Pass, Pir Panjal, HP. Statement 1 false without qualification (other longer tunnels exist globally; high-altitude record is different). **C/D** accept the absolute "world's longest" trap.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q55**
-Which of the following pairs are NOT correctly matched?
-(Pass) — (State/Union Territory)
-
-1. Lipulekh — Ladakh
-2. Nathu La — Sikkim
-3. Bomdila — Arunachal Pradesh
-4. Shipki La — Himachal Pradesh
-
-Select the correct answer from the code given below:
-
-A. Only 1 and 2
-
-B. Only 2, 3 and 4
-
-C. Only 1, 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Only pair (1) wrong: Lipulekh = **Uttarakhand** (2025 trap). (2) Nathu La-Sikkim ✓. (3) Bomdila is a **town**, not a pass — but question asks NOT matched; Bomdila as "pass" is the implicit trap yet only Ladakh option is clearly wrong geographically. **A/B/C** over-count errors on correct pairs.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2025, Q94**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** The Himalayas form the source of several large perennial rivers.
-
-**Reason (R):** The higher ranges of the Himalayas remain snow-covered throughout the year.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Perennial Himalayan rivers (Ganga, Indus, Brahmaputra headwaters) fed by year-round snow-melt from high ranges. **A** severs the snow-melt → perennial flow logic. **B/C** deny true hydrological facts.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2025, Q21**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** In the Himalayan mountains different types of vegetation are found.
-
-**Reason (R):** In Himalayas, there are variations in climate with change in altitude.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Altitudinal belts (tropical → temperate → alpine → nival) directly cause vegetation zonation. **A** treats independent phenomena. **B/C** falsify obviously true Himalayan ecology facts.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2024, Q59**
-Which one of the following pairs (Deccan Trap – Peculiarity) is not correctly matched?
-
-A. Depth of middle trap – approximately 1200 metres
-
-B. Intertrappean beds – Fossils of sea plants and animals
-
-C. Depth of lower trap – approximately 150 metres
-
-D. Depth of upper trap – approximately 450 metres
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Intertrappean = **freshwater/lacustrine** fossils between lava flows, NOT marine sea fossils. **A/C/D** are accepted approximate trap thickness facts from standard geomorphology sources.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2023, Q57**
-Which one of the following (**Pass — State/UT**) is correctly matched?
-
-A. Aghil — Arunachal Pradesh
-
-B. Diphu — Ladakh
-
-C. Niti — Uttarakhand
-
-D. Mana — Himachal Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Niti Pass = Uttarakhand ✓. **A** Aghil in Karakoram/China side. **B** Diphu in Karakoram, not Ladakh as commonly tested. **D** Mana = **Uttarakhand**, not HP — recurring UPPCS trap.
-</details>
-
----
-
-**Q8. UPPCS Prelims 2022, Q31**
-Which of the following mountain peaks are in the Himalayan Mountains?
-
-1. Cho Oyu
-2. Lhotse
-3. Annamalai
-4. Sirumalai
-
-A. Only 2, 3 and 4
-
-B. Only 1, 2 and 3
-
-C. Only 3 and 4
-
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Cho Oyu and Lhotse = Himalayan 8000 m cluster. Annamalai (Kerala/TN Western Ghats) and Sirumalai (Tamil Nadu) = Peninsular. **B** wrongly includes Annamalai. **C** picks only peninsular peaks.
-</details>
-
----
-
-**Q9. UPPCS Prelims 2022, Q35**
-With reference to India, which of the following statements is/are correct?
-
-1. India is the sixth largest country in the world.
-2. India occupies about 2.4% of the total area of the world.
-3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
-4. India lies completely in the tropical zone.
-
-A. 2 and 3
-
-B. 2 and 4
-
-C. 3 and 4
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **2 and 3**. India is **7th** largest, not 6th. **2.4%** true. Tropic through the middle = NCERT fact. **Not** wholly tropical (extends to 37°6′ N).
-</details>
-
----
-
-**Q10. UPPCS Prelims 2021, Q127**
-Match List-I with List-II and select the correct answer using the codes given below the lists.
-**List-I (State of India)**
-
-A. Tamil Nadu
-
-B. Rajasthan
-
-C. Nagaland
-
-D. Madhya Pradesh
-**List-II (Highest Peak)**
-
-1. Dhupgarh Peak
-2. Saramati Peak
-3. Gurushikhar Peak
-4. Dodda Betta
-
-A. 3 2 1 4
-
-B. 1 4 3 2
-
-C. 4 2 3 1
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — TN-Dodda Betta(4), Rajasthan-Guru Shikhar(3), Nagaland-Saramati(2), MP-Dhupgarh(1). **A** reverses TN-Rajasthan. **B** assigns Dhupgarh to TN.
-</details>
-
----
-
-**Q11. UPPCS Prelims 2020, Q60**
-Which one of the following is the youngest mountain range of India?
-
-A. Himadri Range
-
-B. Aravalli Range
-
-C. Western Ghat
-
-D. Vindhya Range
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Himadri (Greater Himalaya) = tectonically youngest major range. **B** = oldest fold mountains. **C/D** = ancient peninsular hills — "OLD Aravalli, YOUNG Himalaya" memory trick.
-</details>
-
----
-
-**Q12. UPPCS Prelims 2020, Q66**
-Valley of Kashmir is situated between
-
-A. Kangara and Dhauladhar ranges
-
-B. Pir-Panjal and Himadri ranges
-
-C. Mahabharat and Dhauladhar ranges
-
-D. Pir-Panjal and Mahabharat ranges
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kashmir "sandwich": Pir Panjal (south) + Himadri/Greater Himalaya (north). **A/C/D** swap in Kangara, Dhauladhar, or Mahabharat (Peninsular/outlier names).
-</details>
-
----
-
-**Q13. UPPCS Prelims 2019, Q82**
-Which one of the following peaks is NOT located in India?
-
-A. Gurla Mandhata
-
-B. Namcha Barwa
-
-C. Kamet
-
-D. Nanga Parbat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Official key. Namcha Barwa is in Tibet at the eastern syntaxial bend. **Kamet** is in Uttarakhand. **Nanga Parbat** is the western syntaxial bend (Gilgit–Baltistan / PoK). **Gurla Mandhata** is geographically in **Tibet** (north of Mansarovar) — do not convert this distractor into an “in India” teaching fact.
-</details>
-
----
-
-**Q14. UPPCS Prelims 2019, Q11**
-With reference to the Himalayan range, which of the statements is/are correct?
-
-1. The sedimentary rocks of the greater Himalayas were fossil less.
-2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
-3. Remains of human civilization are found in outer or Shivalik Himalayas.
-
-Select the correct answer using the codes given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3 are correct
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All three correct: Himadri fossil-less; Himachal marine fossils; Shiwalik human/civilization remains. **A/B/C** each omit one valid zonation fact — designed to trap partial knowledge.
-</details>
-
----
-
-**Q15. UPPCS Prelims 2019, Q6**
-Which one of the following is the correct sequence of the hills of Central India located from West to East?
-
-A. Maikal, Satpura, Mahadeo and Chhotanagpur
-
-B. Satpura, Mahadeo, Maikal and Chhotanagpur
-
-C. Maikal, Mahadeo, Satpura and Chhotanagpur
-
-D. Satpura, Mahadeo, Chhotanagpur and Maikal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — West→East: Satpura → Mahadeo → Maikal → Chhotanagpur. **A/D** start or misplace Maikal. **C** puts Chhotanagpur before Maikal.
-</details>
-
----
-
-**Q16. UPPCS Prelims 2018, Q108**
-Match List-I and List-II and select the correct answer using the codes given below the list:
-
-| List-I (States) | List-II (Highest Peak) |
-|---|---|
-| A. Kerala | 1. Dodda Betta |
-| B. Nagaland | 2. Nand Devi |
-| C. Uttarakhand | 3. Anai Mudi |
-| D. Tamil Nadu | 4. Saramati |
-
-A. 1 3 4 2
-
-B. 2 3 4 1
-
-C. 3 4 2 1
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kerala-Anai Mudi(3), Nagaland-Saramati(4), Uttarakhand-Nanda Devi(2), TN-Dodda Betta(1). **A** = Kerala-Dodda Betta trap (most common wrong pick). **D** = sequential guess without mapping.
-</details>
-
----
-
-**Q17. UPPCS Prelims 2018, Q100**
-In which of the following hills the world famous temple of Lord Venkateshwar (Tirupati) is located?
-
-A. Shevaroy
-
-B. Biligiriranga
-
-C. Javadhee
-
-D. Mallmalla
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Tirupati on **Tirumala/Mallamalla** hills (Eastern Ghats), Andhra Pradesh. **A** Shevaroy = Tamil Nadu (Yercaud). **B** Biligiriranga = Karnataka. **C** Javadhee = Tamil Nadu. All distractors are real South Indian hill names — not giving away "Tirumala" in options.
-</details>
-
----
-
-**Q18. UPPCS Prelims 2018, Q101**
-Rajasthan desert or Thar desert is the expanse of which of the following?
-
-A. Pliocene
-
-B. Paleocene
-
-C. Pleistocene and recent deposits
-
-D. Oligocene
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Thar sands = Pleistocene + recent (UPPCS direct repeat concept). **A/B/D** = older Cenozoic eras — trap for students who pick "old desert = Paleocene."
-</details>
-
----
-
-**Q19. UPPCS Prelims 2018, Q98**
-Which of the following States of India has the longest coastline?
-
-A. Maharashtra
-
-B. Andhra Pradesh
-
-C. Kerala
-
-D. Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Gujarat has the longest state coastline. Maharashtra, Andhra Pradesh, and Kerala are the usual wrong options.
 </details>
 
 ---

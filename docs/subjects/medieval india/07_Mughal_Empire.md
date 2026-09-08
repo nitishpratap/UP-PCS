@@ -475,6 +475,410 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 
 ---
 
+## Complete PYQ Bank (Topic 7)
+
+
+**Q1. UPPCS Prelims 2025, Q3**
+
+A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was the official language of the Mughal Court.
+
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
+
+<details><summary>Show answer</summary>
+
+**Ans: C (A true, R false)** — **UPPCS 2025 Q3A is true:Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
+
+**R is false:** Mughal **court language** was **Persian**, not Turki.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q49**
+
+A(A): Akbar got Buland Darwaza constructed at Fatehpur Sikri. R(R): Constructed in memory of the birth of Jahangir.
+
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
+
+<details><summary>Show answer</summary>
+
+**Ans: C (A true, R false)** — **UPPCS 2025 Q49A is true:Buland Darwaza** at **Fatehpur Sikri** was built by **Akbar**.
+
+**R is false:** It commemorated **Gujarat victory (1572)**, not Jahangir's birth.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2025, Q57**
+
+Match emperor–tomb city: A.Babur B.Humayun C.Jahangir D.Shah Jahan with 1.Agra 2.Lahore 3.Delhi 4.Kabul
+
+Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:A** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2025, Q79**
+
+Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
+
+Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658. Daurah is **not** Dharmat.
+
+**Why:** Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658. Daurah is **not** Dharmat.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2024, Q4**
+
+Bairam Khan: 1. Akbar gave title Khan-i-Khana 2. Title was not given at appointment as Vazir
+
+A. Both |
+
+B. Neither |
+
+C. Only 1 |
+
+D. Only 2
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — Humayun conferred Khan-i-Khana.
+
+**Why:** Humayun conferred Khan-i-Khana.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q6. UPPCS Prelims 2024, Q132**
+
+Arrange: 1.Murder of Abul Fazl 2.Death of Sheikh Mubarak 3.Death of Faizi 4.Death of Daniyal
+
+Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
+
+<details><summary>Show answer</summary>
+
+**Ans: B (3-2-1-4)Why:B (3-2-1-4)** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q7. UPPCS Prelims 2023, Q31**
+
+Hawkins: 1. Came to India in 1611 as envoy of James I 2. Very well versed in Turkish
+
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — arrived **1608**.
+
+**Why:** arrived **1608**.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+**Q8. UPPCS Prelims 2023, Q34 (family overlap)**
+
+NOT matched: C. Hamida Banu Begum — Wife of Alauddin Khilji (she was Humayun’s wife).
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy:C** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q9. UPPCS Prelims 2022, Q103**
+
+Aurangzeb events: 1.Deorai 2.Defeat of Shuja near Banaras 3.Samugarh 4.Victory at Dharmat
+
+Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:A** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q10. UPPCS Prelims 2022, Q146**
+
+Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras?
+
+A. Shah Jahan |
+
+B. Jahangir |
+
+C. Akbar |
+
+D. Humayun
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:A** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q11. UPPCS Prelims 2021, Q75**
+
+Travellers arrival: I Hawkins II Ralph Fitch III Roe IV Nicholas Dawnton
+
+A. II-I-IV-III |
+
+B. IV-II-I-III |
+
+C. I-III-II-IV |
+
+D. III-II-IV-I
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:A** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q12. UPPCS Prelims 2020, Q34**
+
+Ruler of Golkonda when Aurangzeb seized the fort in 1687?
+
+A. Abul Hasan Qutb Shah |
+
+B. Sikandar Adil Shah |
+
+C. Ali Adil Shah II |
+
+D. Shayasta Khan
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:A** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q13. UPPCS Prelims 2020, Q42**
+
+Which Mughal canal was constructed by restoring Rajabwah of Firuz Shah?
+
+A. Shekhnu-Ni |
+
+B. Shahab Nahr |
+
+C. Nahr-i-Bihisht |
+
+D. Nahr-i-Agra
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy:C** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+**Q14. UPPCS Prelims 2019, Q12**
+
+A(A): Akbar, like Sher Shah, tried to regulate the currency of the state. R(R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12A is true:Akbar** continued **Sher Shah's** regulated currency.
+
+**R is true:** Chief **copper coin** was the **Dam** under both.
+
+**Why R explains A:** Shared **Dam** standard shows continuity of regulation.
+
+</details>
+
+
+**Q15. UPPCS Prelims 2019, Q13**
+
+I Battle of Sarnal II Bilgram III Dharmat IV Jajau
+
+A. II-I-III-IV |
+
+B. II-III-IV-I |
+
+C. III-II-I-IV |
+
+D. III-I-II-IV
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:A** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q16. UPPCS Prelims 2019, Q91**
+
+I Rabia Daurani’s Tomb Aurangabad II Sher Shah tomb Sasaram III Humayun’s Tomb Delhi IV Atala Mosque Jaunpur
+
+A. I-II-IV-III |
+
+B. IV-II-III-I |
+
+C. II-I-III-IV |
+
+D. III-IV-II-I
+
+<details><summary>Show answer</summary>
+
+**Ans: BWhy:B** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+
+**Q17. UPPCS Prelims 2019, Q92**
+
+Mansabdari: 1. Official nobility started by Akbar 2. A Mansabdari was hereditary
+
+A. 1 only |
+
+B. Both |
+
+C. 2 only |
+
+D. Neither
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:A** is the correct fact for this stem.
+
+**Trap:** Re-read Confused Pairs before eliminating.
+
+</details>
+
+**Q18. UPPCS Prelims 2021, Q126**
+
+A(A): The Mughal Empire was originally a Military State. R(R): The vitality of the development of the Central Government System depended on its military power.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2021 Q126A is true:** Mughal Empire began as a **military state**.
+
+**R is true:** Central vitality **depended on military power**.
+
+**Why R explains A:** Conquest armies **sustained** the centre.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Chanderi falls between Khanwa and Ghagra — that is where most sequences go wrong.
+
+**Q. UKPCS Prelims 2025, Q59**
+
+Arrange the following chronologically from earliest to last:
+
+I. First Battle of Panipat
+II. Battle of Khanwa
+III. Battle of Ghagra
+IV. Battle of Chanderi
+
+A. I, II, III, IV
+B. I, III, II, IV
+C. I, II, IV, III
+D. I, III, IV, II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Panipat (1526) → Khanwa (1527) → Chanderi (1528) → Ghagra (1529). Placing Ghagra before Chanderi is the usual swap.
+
+</details>
+
+**Logic:** Basawan belongs to Akbar’s atelier — that makes the all-four option wrong.
+
+**Q. UKPCS Prelims 2025, Q60**
+
+Who were famous painters at Jahangir’s court?
+
+1. Basawan
+2. Manohar
+3. Bishun Das
+4. Mansur
+
+A. Only 1, 2 and 4
+B. Only 2, 3 and 4
+C. Only 1, 3 and 4
+D. All 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Manohar, Bishan Das, and Ustad Mansur were leading painters of Jahangir’s studio. Basawan was a master of Akbar’s court; Mansur earned the title Nadir-ul-Asr for bird and animal studies.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **50 questions** · answers in `<details>`
@@ -1376,410 +1780,6 @@ D. 1679
 **Ans: CWhy:C** is the correct fact for this stem.
 
 **Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 7)
-
-
-**Q1. UPPCS Prelims 2025, Q3**
-
-A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was the official language of the Mughal Court.
-
-A. Both true, R not explanation |
-
-B. A false, R true |
-
-C. A true, R false |
-
-D. Both true, R explains A
-
-<details><summary>Show answer</summary>
-
-**Ans: C (A true, R false)** — **UPPCS 2025 Q3A is true:Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
-
-**R is false:** Mughal **court language** was **Persian**, not Turki.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q49**
-
-A(A): Akbar got Buland Darwaza constructed at Fatehpur Sikri. R(R): Constructed in memory of the birth of Jahangir.
-
-A. Both true, R not explanation |
-
-B. A false, R true |
-
-C. A true, R false |
-
-D. Both true, R explains A
-
-<details><summary>Show answer</summary>
-
-**Ans: C (A true, R false)** — **UPPCS 2025 Q49A is true:Buland Darwaza** at **Fatehpur Sikri** was built by **Akbar**.
-
-**R is false:** It commemorated **Gujarat victory (1572)**, not Jahangir's birth.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2025, Q57**
-
-Match emperor–tomb city: A.Babur B.Humayun C.Jahangir D.Shah Jahan with 1.Agra 2.Lahore 3.Delhi 4.Kabul
-
-Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:A** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2025, Q79**
-
-Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
-
-Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658. Daurah is **not** Dharmat.
-
-**Why:** Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658. Daurah is **not** Dharmat.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2024, Q4**
-
-Bairam Khan: 1. Akbar gave title Khan-i-Khana 2. Title was not given at appointment as Vazir
-
-A. Both |
-
-B. Neither |
-
-C. Only 1 |
-
-D. Only 2
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Humayun conferred Khan-i-Khana.
-
-**Why:** Humayun conferred Khan-i-Khana.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q6. UPPCS Prelims 2024, Q132**
-
-Arrange: 1.Murder of Abul Fazl 2.Death of Sheikh Mubarak 3.Death of Faizi 4.Death of Daniyal
-
-Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
-
-<details><summary>Show answer</summary>
-
-**Ans: B (3-2-1-4)Why:B (3-2-1-4)** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q7. UPPCS Prelims 2023, Q31**
-
-Hawkins: 1. Came to India in 1611 as envoy of James I 2. Very well versed in Turkish
-
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — arrived **1608**.
-
-**Why:** arrived **1608**.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q8. UPPCS Prelims 2023, Q34 (family overlap)**
-
-NOT matched: C. Hamida Banu Begum — Wife of Alauddin Khilji (she was Humayun’s wife).
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy:C** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q9. UPPCS Prelims 2022, Q103**
-
-Aurangzeb events: 1.Deorai 2.Defeat of Shuja near Banaras 3.Samugarh 4.Victory at Dharmat
-
-Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:A** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q10. UPPCS Prelims 2022, Q146**
-
-Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras?
-
-A. Shah Jahan |
-
-B. Jahangir |
-
-C. Akbar |
-
-D. Humayun
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:A** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q11. UPPCS Prelims 2021, Q75**
-
-Travellers arrival: I Hawkins II Ralph Fitch III Roe IV Nicholas Dawnton
-
-A. II-I-IV-III |
-
-B. IV-II-I-III |
-
-C. I-III-II-IV |
-
-D. III-II-IV-I
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:A** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q12. UPPCS Prelims 2020, Q34**
-
-Ruler of Golkonda when Aurangzeb seized the fort in 1687?
-
-A. Abul Hasan Qutb Shah |
-
-B. Sikandar Adil Shah |
-
-C. Ali Adil Shah II |
-
-D. Shayasta Khan
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:A** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q13. UPPCS Prelims 2020, Q42**
-
-Which Mughal canal was constructed by restoring Rajabwah of Firuz Shah?
-
-A. Shekhnu-Ni |
-
-B. Shahab Nahr |
-
-C. Nahr-i-Bihisht |
-
-D. Nahr-i-Agra
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy:C** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q14. UPPCS Prelims 2019, Q12**
-
-A(A): Akbar, like Sher Shah, tried to regulate the currency of the state. R(R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
-
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12A is true:Akbar** continued **Sher Shah's** regulated currency.
-
-**R is true:** Chief **copper coin** was the **Dam** under both.
-
-**Why R explains A:** Shared **Dam** standard shows continuity of regulation.
-
-</details>
-
-
-**Q15. UPPCS Prelims 2019, Q13**
-
-I Battle of Sarnal II Bilgram III Dharmat IV Jajau
-
-A. II-I-III-IV |
-
-B. II-III-IV-I |
-
-C. III-II-I-IV |
-
-D. III-I-II-IV
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:A** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q16. UPPCS Prelims 2019, Q91**
-
-I Rabia Daurani’s Tomb Aurangabad II Sher Shah tomb Sasaram III Humayun’s Tomb Delhi IV Atala Mosque Jaunpur
-
-A. I-II-IV-III |
-
-B. IV-II-III-I |
-
-C. II-I-III-IV |
-
-D. III-IV-II-I
-
-<details><summary>Show answer</summary>
-
-**Ans: BWhy:B** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-
-**Q17. UPPCS Prelims 2019, Q92**
-
-Mansabdari: 1. Official nobility started by Akbar 2. A Mansabdari was hereditary
-
-A. 1 only |
-
-B. Both |
-
-C. 2 only |
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:A** is the correct fact for this stem.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q18. UPPCS Prelims 2021, Q126**
-
-A(A): The Mughal Empire was originally a Military State. R(R): The vitality of the development of the Central Government System depended on its military power.
-
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)** — **UPPCS 2021 Q126A is true:** Mughal Empire began as a **military state**.
-
-**R is true:** Central vitality **depended on military power**.
-
-**Why R explains A:** Conquest armies **sustained** the centre.
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Chanderi falls between Khanwa and Ghagra — that is where most sequences go wrong.
-
-**Q. UKPCS Prelims 2025, Q59**
-
-Arrange the following chronologically from earliest to last:
-
-I. First Battle of Panipat
-II. Battle of Khanwa
-III. Battle of Ghagra
-IV. Battle of Chanderi
-
-A. I, II, III, IV
-B. I, III, II, IV
-C. I, II, IV, III
-D. I, III, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Panipat (1526) → Khanwa (1527) → Chanderi (1528) → Ghagra (1529). Placing Ghagra before Chanderi is the usual swap.
-
-</details>
-
-**Logic:** Basawan belongs to Akbar’s atelier — that makes the all-four option wrong.
-
-**Q. UKPCS Prelims 2025, Q60**
-
-Who were famous painters at Jahangir’s court?
-
-1. Basawan
-2. Manohar
-3. Bishun Das
-4. Mansur
-
-A. Only 1, 2 and 4
-B. Only 2, 3 and 4
-C. Only 1, 3 and 4
-D. All 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Manohar, Bishan Das, and Ustad Mansur were leading painters of Jahangir’s studio. Basawan was a master of Akbar’s court; Mansur earned the title Nadir-ul-Asr for bird and animal studies.
 
 </details>
 

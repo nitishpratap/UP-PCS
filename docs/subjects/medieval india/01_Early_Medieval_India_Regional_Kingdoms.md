@@ -951,6 +951,194 @@ D. Madura–Veer Pandya
 
 ---
 
+## Complete PYQ Bank (Topic 1)
+
+
+**Q1. UPPCS Prelims 2025, Q121**
+
+Match List-I (Ruler) with List-II (Dynasty):
+
+| List-I | List-II |
+|--------|---------|
+| A. Mahendravarman I | 1. Rashtrakuta |
+| B. Kadungon | 2. Pallava |
+| C. Amoghavarsha I | 3. Chola |
+| D. Rajaraja I | 4. Pandya |
+
+*Row order in the table is not the answer code.*
+
+A. 4 2 3 1 |
+
+B. 2 4 1 3 |
+
+C. 2 4 3 1 |
+
+D. 4 2 1 3
+
+<details><summary>Show answer</summary>
+
+**Ans: B (2 4 1 3)Facts:** A–2 Mahendravarman I–Pallava | B–4 Kadungon–Pandya | C–1 Amoghavarsha I–Rashtrakuta | D–3 Rajaraja I–Chola
+
+**Trap:Amoghavarsha I** = **Rashtrakuta** (Manyakheta); **Kadungon** = Pandya revival, not Pallava.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2024, Q3**
+
+Arrange the following Sen rulers of Bengal in ascending chronological order:
+
+1. Ballal Sen
+2. Lakshman Sen
+3. Hemant Sen
+4. Vijaya Sen
+
+Select the correct answer from the codes given below:
+A. 4, 3, 2, 1
+B. 2, 1, 4, 3
+C. 1, 2, 3, 4
+D. 3, 4, 1, 2
+
+<details><summary>Show answer</summary>
+
+**Ans: D (3 4 1 2)Order:** 3 Hemant Sen → 4 Vijaya Sen → 1 Ballal Sen → 2 Lakshman Sen
+
+**Trap:** Alphabetical or reversed **Ballal–Lakshman** order — fact **H-V-B-L**.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2020, Q8**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** We have much more information about Cholas than their predecessors.
+
+**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
+
+Select the correct answer from the codes given below.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is true but (R) is false
+D. (A) is false but (R) is true
+
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2020 Q8A is true:** Chola inscriptions, copper plates, and temple records outrun earlier Tamil dynasties.
+
+**R is true:** Chola rulers inscribed **victory narratives on temple walls**.
+
+**Why R explains A:** Temple-wall inscriptions were **deliberate historical record-keeping**, which is why the Chola archive is richer than Pallava/early Pandya sources.
+
+**If the stem changed:** If R said “Cholas had no inscriptions,” R would be false → **C**.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2019, Q90**
+
+Match List-I (Ruling Dynasties) with List-II (Capitals):
+
+| List-I | List-II |
+|--------|---------|
+| A. Pallava | 1. Warangal |
+| B. Pandya | 2. Kanchi |
+| C. Yadava | 3. Madura |
+| D. Kakatiya | 4. Devagiri |
+
+*Row order in the table is not the answer code.*
+
+A. 2 1 4 3 |
+
+B. 2 3 4 1 |
+
+C. 1 2 3 4 |
+
+D. 2 4 3 1
+
+<details><summary>Show answer</summary>
+
+**Ans: B (2 3 4 1)Facts:** A–2 Pallava–Kanchi | B–3 Pandya–Madura | C–4 Yadava–Devagiri | D–1 Kakatiya–Warangal
+
+**Trap:Devagiri** = Yadava; **Warangal** = Kakatiya — never swap this pair.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2018, Q15**
+
+Arrange the following temples in a chronological order and select the correct answer from the codes given below:
+
+I. Brihdishwar temple
+II. Gangaikonda cholapuram temple
+III. Shore temple of Mahabalipuram
+IV. Sapt pagoda
+
+Options:
+A. I, II, IV, III
+B. II, I, III, IV
+C. III, II, I, IV
+D. IV, III, I, II
+
+<details><summary>Show answer</summary>
+
+**Ans: D (IV, III, I, II)Order:** IV Sapt Pagoda → III Shore Temple (Pallava, Mahabalipuram) → I Brihadishwara (**1010**, Rajaraja I) → II Gangaikondacholapuram (~**1025**, Rajendra I)
+
+**Trap:** Brihadishwara **before** Gangaikondacholapuram; Shore Temple is **Pallava**, not Chola.
+
+</details>
+
+
+**Q6. UPPCS Prelims 2018, Q96**
+
+Which of the following pairs is NOT correctly matched?
+
+State — Ruler
+
+A. Devgiri — Shankar Dev
+B. Warangal — Ramchandra Dev
+C. Hoysal — Veer Ballal
+D. Madura — Veer Pandya
+
+<details><summary>Show answer</summary>
+
+**Ans: BWhy wrong:Ramachandra Dev** was a **Yadava** ruler of **Devagiri**, not a **Kakatiya** ruler of **Warangal**.
+
+**Trap:Devagiri = Yadava** | **Warangal = Kakatiya** — repeated UPPCS swap.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Court biographies of the early medieval period — Bilhana and Hemchandra are the swap pair.
+
+**Q. UKPCS Prelims 2025, Q55**
+
+Match List-I with List-II and select the correct answer using the code given below:
+
+| List-I (Text) | List-II (Author) |
+| --- | --- |
+| A. Ramcharita | 1. Padmagupta |
+| B. Navsahasankcharit | 2. Hemchandra |
+| C. Kumarpalacharit | 3. Sandhyakarnandi |
+| D. Vikramankdevacharit | 4. Bilhana |
+
+*Row order is not the answer code.*
+
+A. A-3, B-1, C-4, D-2
+B. A-2, B-1, C-4, D-3
+C. A-3, B-1, C-2, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Ramcharita → Sandhyakarnandi (Pala Ramapala); Navsahasankcharita → Padmagupta (Paramara Sindhuraja); Kumarpalacharita → Hemchandra; Vikramankadevacharita → Bilhana (Chalukya Vikramaditya VI). Reversing Hemchandra and Bilhana is the standard trap.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **45 questions** · answers in `<details>` · mix: multi-statement, A/R, Match-List, chronology, NOT-matched.
@@ -2337,194 +2525,6 @@ D. All four
 **Ans: B.** Correct are **1** and **3**. Jayashakti = **Chandela**; Bhoja of Dhara = **Paramara** (not Rashtrakuta).
 
 **Trap:** Making every “Bhoja” a Rashtrakuta or every Jeja name a Paramara.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 1)
-
-
-**Q1. UPPCS Prelims 2025, Q121**
-
-Match List-I (Ruler) with List-II (Dynasty):
-
-| List-I | List-II |
-|--------|---------|
-| A. Mahendravarman I | 1. Rashtrakuta |
-| B. Kadungon | 2. Pallava |
-| C. Amoghavarsha I | 3. Chola |
-| D. Rajaraja I | 4. Pandya |
-
-*Row order in the table is not the answer code.*
-
-A. 4 2 3 1 |
-
-B. 2 4 1 3 |
-
-C. 2 4 3 1 |
-
-D. 4 2 1 3
-
-<details><summary>Show answer</summary>
-
-**Ans: B (2 4 1 3)Facts:** A–2 Mahendravarman I–Pallava | B–4 Kadungon–Pandya | C–1 Amoghavarsha I–Rashtrakuta | D–3 Rajaraja I–Chola
-
-**Trap:Amoghavarsha I** = **Rashtrakuta** (Manyakheta); **Kadungon** = Pandya revival, not Pallava.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2024, Q3**
-
-Arrange the following Sen rulers of Bengal in ascending chronological order:
-
-1. Ballal Sen
-2. Lakshman Sen
-3. Hemant Sen
-4. Vijaya Sen
-
-Select the correct answer from the codes given below:
-A. 4, 3, 2, 1
-B. 2, 1, 4, 3
-C. 1, 2, 3, 4
-D. 3, 4, 1, 2
-
-<details><summary>Show answer</summary>
-
-**Ans: D (3 4 1 2)Order:** 3 Hemant Sen → 4 Vijaya Sen → 1 Ballal Sen → 2 Lakshman Sen
-
-**Trap:** Alphabetical or reversed **Ballal–Lakshman** order — fact **H-V-B-L**.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2020, Q8**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** We have much more information about Cholas than their predecessors.
-
-**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
-
-Select the correct answer from the codes given below.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)** — **UPPCS 2020 Q8A is true:** Chola inscriptions, copper plates, and temple records outrun earlier Tamil dynasties.
-
-**R is true:** Chola rulers inscribed **victory narratives on temple walls**.
-
-**Why R explains A:** Temple-wall inscriptions were **deliberate historical record-keeping**, which is why the Chola archive is richer than Pallava/early Pandya sources.
-
-**If the stem changed:** If R said “Cholas had no inscriptions,” R would be false → **C**.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2019, Q90**
-
-Match List-I (Ruling Dynasties) with List-II (Capitals):
-
-| List-I | List-II |
-|--------|---------|
-| A. Pallava | 1. Warangal |
-| B. Pandya | 2. Kanchi |
-| C. Yadava | 3. Madura |
-| D. Kakatiya | 4. Devagiri |
-
-*Row order in the table is not the answer code.*
-
-A. 2 1 4 3 |
-
-B. 2 3 4 1 |
-
-C. 1 2 3 4 |
-
-D. 2 4 3 1
-
-<details><summary>Show answer</summary>
-
-**Ans: B (2 3 4 1)Facts:** A–2 Pallava–Kanchi | B–3 Pandya–Madura | C–4 Yadava–Devagiri | D–1 Kakatiya–Warangal
-
-**Trap:Devagiri** = Yadava; **Warangal** = Kakatiya — never swap this pair.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2018, Q15**
-
-Arrange the following temples in a chronological order and select the correct answer from the codes given below:
-
-I. Brihdishwar temple
-II. Gangaikonda cholapuram temple
-III. Shore temple of Mahabalipuram
-IV. Sapt pagoda
-
-Options:
-A. I, II, IV, III
-B. II, I, III, IV
-C. III, II, I, IV
-D. IV, III, I, II
-
-<details><summary>Show answer</summary>
-
-**Ans: D (IV, III, I, II)Order:** IV Sapt Pagoda → III Shore Temple (Pallava, Mahabalipuram) → I Brihadishwara (**1010**, Rajaraja I) → II Gangaikondacholapuram (~**1025**, Rajendra I)
-
-**Trap:** Brihadishwara **before** Gangaikondacholapuram; Shore Temple is **Pallava**, not Chola.
-
-</details>
-
-
-**Q6. UPPCS Prelims 2018, Q96**
-
-Which of the following pairs is NOT correctly matched?
-
-State — Ruler
-
-A. Devgiri — Shankar Dev
-B. Warangal — Ramchandra Dev
-C. Hoysal — Veer Ballal
-D. Madura — Veer Pandya
-
-<details><summary>Show answer</summary>
-
-**Ans: BWhy wrong:Ramachandra Dev** was a **Yadava** ruler of **Devagiri**, not a **Kakatiya** ruler of **Warangal**.
-
-**Trap:Devagiri = Yadava** | **Warangal = Kakatiya** — repeated UPPCS swap.
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Court biographies of the early medieval period — Bilhana and Hemchandra are the swap pair.
-
-**Q. UKPCS Prelims 2025, Q55**
-
-Match List-I with List-II and select the correct answer using the code given below:
-
-| List-I (Text) | List-II (Author) |
-| --- | --- |
-| A. Ramcharita | 1. Padmagupta |
-| B. Navsahasankcharit | 2. Hemchandra |
-| C. Kumarpalacharit | 3. Sandhyakarnandi |
-| D. Vikramankdevacharit | 4. Bilhana |
-
-*Row order is not the answer code.*
-
-A. A-3, B-1, C-4, D-2
-B. A-2, B-1, C-4, D-3
-C. A-3, B-1, C-2, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Ramcharita → Sandhyakarnandi (Pala Ramapala); Navsahasankcharita → Padmagupta (Paramara Sindhuraja); Kumarpalacharita → Hemchandra; Vikramankadevacharita → Bilhana (Chalukya Vikramaditya VI). Reversing Hemchandra and Bilhana is the standard trap.
 
 </details>
 

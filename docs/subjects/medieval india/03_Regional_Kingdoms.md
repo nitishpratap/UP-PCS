@@ -645,6 +645,145 @@ D. A false, R true
 
 ---
 
+## Complete PYQ Bank (Topic 3)
+
+
+**Q1. UPPCS Prelims 2018, Q19**
+
+Which of the following pairs is NOT correctly matched?
+
+A. Adina Masjid – Mandu |
+
+B. Lal Darwaza Masjid – Jaunpur |
+
+C. Dakhil Darwaza – Gaour |
+
+D. Tin Darwaza – Ahmedabad
+
+<details><summary>Show answer</summary>
+
+**Ans: DWhy wrong:Tin Darwaza** is at **Bidar Fort** (Deccan), not Ahmedabad. Ahmedabad has **Teen Darwaza**.
+
+**Trap:** Do not mark **Lal Darwaza–Jaunpur** (B) wrong — it is a famous **Sharqi** monument pair in UP.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2019, Q91**
+
+Arrange chronologically: I. Rabia Daurani's Tomb, Aurangabad | II. Sher Shah's Tomb, Sasaram | III. Humayun's Tomb, Delhi | IV. Atala Mosque, Jaunpur
+
+A. I, II, IV, III |
+
+B. IV, II, III, I |
+
+C. II, I, III, IV |
+
+D. III, IV, II, I
+
+<details><summary>Show answer</summary>
+
+**Ans: B (IV, II, III, I)Order:** IV **Atala Mosque, Jaunpur** (~**15th c.**) → II **Sher Shah's Tomb** (**1545**) → III **Humayun's Tomb** (**1565**) → I **Rabia Daurani's Tomb** (**1678**).
+
+**Trap:Sher Shah (1545)** precedes **Humayun (1565)** by 20 years — never reverse II and III.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2020, Q34**
+
+Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in 1687?
+
+A. Abul Hasan Qutb Shah |
+
+B. Sikandar Adil Shah |
+
+C. Ali Adil Shah II |
+
+D. Shayasta Khan
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:Abul Hasan Qutb Shah** was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
+
+**Trap:Muhammad Quli Qutb Shah** (Charminar, 1591) and **Ibrahim Qutb Shah** ruled much earlier — the 1687 fact is **Abul Hasan** only.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2020, Q44**
+
+Who among the following was the author of the book **Kitab-i-Nauras**?
+
+A. Ibrahim Adil Shah II |
+
+B. Ali Adil Shah |
+
+C. Quli Qutab Shah |
+
+D. Akbar II
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:Ibrahim Adil Shah II** of **Bijapur (Adil Shahi)** authored **Kitab-i-Nauras**, a musical-devotional song collection.
+
+**Trap:Amuktamalyada** belongs to **Krishnadevaraya (Vijayanagara)** — do not cross-assign Deccan book facts.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2023, Q33**
+
+Match List-I (Book) with List-II (Context):
+
+| List-I | List-II |
+|--------|---------|
+| A. Mirat-e-Sikandari | 1. Bengal |
+| B. Burhan-e-Masir | 2. Ahmadnagar |
+| C. Riyaz-us-Salatin | 3. Gawan's letters |
+| D. Riyaz-ul-Insha | 4. Gujarat victory |
+
+*Row order in the table is not the answer code.*
+
+A. 4-2-1-3 |
+
+B. 2-4-1-3 |
+
+C. 1-2-4-3 |
+
+D. 4-2-3-1
+
+<details><summary>Show answer</summary>
+
+**Ans: A (4-2-1-3)Facts:** A→**4** Gujarat victory | B→**2** Ahmadnagar | C→**1** Bengal | D→**3** Gawan's letters
+
+**Trap:Riyaz-us-Salatin** sounds like **Riyaz-ul-Insha** but means **Bengal history**, not Bahmani ministerial correspondence.
+
+</details>
+
+
+**Q6. UPPCS Prelims 2023, Q36**
+
+Which among the following rulers of Kashmir abolished **Jaziya** and **cow slaughter**?
+
+A. Shamsuddin Shah |
+
+B. Sikandar Shah |
+
+C. Zain-ul-Abidin |
+
+D. Haider Shah
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy:Zain-ul-Abidin (Bud Shah, 1420–1470)** abolished **jaziya**, banned **cow slaughter**, and **restored temples** after **Sikandar Shah's** intolerant reign.
+
+**Trap:Sikandar Shah** enforced the **opposite** policies — he is the pre-Bud Shah destruction phase, not the answer here.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **45 questions** · answers in `<details>`
@@ -1464,145 +1603,6 @@ A. Both true, R explains A | B. Both true, R not explanation | C. A true, R fals
 **R is false:Mansab** was a Mughal rank system — similar logic of service-for-grant, but **not identical** to nayankara.
 
 **Trap:** Functional similarity ≠ same institution — nayankara belongs to **Vijayanagara**, mansab to **Mughals**.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 3)
-
-
-**Q1. UPPCS Prelims 2018, Q19**
-
-Which of the following pairs is NOT correctly matched?
-
-A. Adina Masjid – Mandu |
-
-B. Lal Darwaza Masjid – Jaunpur |
-
-C. Dakhil Darwaza – Gaour |
-
-D. Tin Darwaza – Ahmedabad
-
-<details><summary>Show answer</summary>
-
-**Ans: DWhy wrong:Tin Darwaza** is at **Bidar Fort** (Deccan), not Ahmedabad. Ahmedabad has **Teen Darwaza**.
-
-**Trap:** Do not mark **Lal Darwaza–Jaunpur** (B) wrong — it is a famous **Sharqi** monument pair in UP.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2019, Q91**
-
-Arrange chronologically: I. Rabia Daurani's Tomb, Aurangabad | II. Sher Shah's Tomb, Sasaram | III. Humayun's Tomb, Delhi | IV. Atala Mosque, Jaunpur
-
-A. I, II, IV, III |
-
-B. IV, II, III, I |
-
-C. II, I, III, IV |
-
-D. III, IV, II, I
-
-<details><summary>Show answer</summary>
-
-**Ans: B (IV, II, III, I)Order:** IV **Atala Mosque, Jaunpur** (~**15th c.**) → II **Sher Shah's Tomb** (**1545**) → III **Humayun's Tomb** (**1565**) → I **Rabia Daurani's Tomb** (**1678**).
-
-**Trap:Sher Shah (1545)** precedes **Humayun (1565)** by 20 years — never reverse II and III.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2020, Q34**
-
-Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in 1687?
-
-A. Abul Hasan Qutb Shah |
-
-B. Sikandar Adil Shah |
-
-C. Ali Adil Shah II |
-
-D. Shayasta Khan
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:Abul Hasan Qutb Shah** was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
-
-**Trap:Muhammad Quli Qutb Shah** (Charminar, 1591) and **Ibrahim Qutb Shah** ruled much earlier — the 1687 fact is **Abul Hasan** only.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2020, Q44**
-
-Who among the following was the author of the book **Kitab-i-Nauras**?
-
-A. Ibrahim Adil Shah II |
-
-B. Ali Adil Shah |
-
-C. Quli Qutab Shah |
-
-D. Akbar II
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:Ibrahim Adil Shah II** of **Bijapur (Adil Shahi)** authored **Kitab-i-Nauras**, a musical-devotional song collection.
-
-**Trap:Amuktamalyada** belongs to **Krishnadevaraya (Vijayanagara)** — do not cross-assign Deccan book facts.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2023, Q33**
-
-Match List-I (Book) with List-II (Context):
-
-| List-I | List-II |
-|--------|---------|
-| A. Mirat-e-Sikandari | 1. Bengal |
-| B. Burhan-e-Masir | 2. Ahmadnagar |
-| C. Riyaz-us-Salatin | 3. Gawan's letters |
-| D. Riyaz-ul-Insha | 4. Gujarat victory |
-
-*Row order in the table is not the answer code.*
-
-A. 4-2-1-3 |
-
-B. 2-4-1-3 |
-
-C. 1-2-4-3 |
-
-D. 4-2-3-1
-
-<details><summary>Show answer</summary>
-
-**Ans: A (4-2-1-3)Facts:** A→**4** Gujarat victory | B→**2** Ahmadnagar | C→**1** Bengal | D→**3** Gawan's letters
-
-**Trap:Riyaz-us-Salatin** sounds like **Riyaz-ul-Insha** but means **Bengal history**, not Bahmani ministerial correspondence.
-
-</details>
-
-
-**Q6. UPPCS Prelims 2023, Q36**
-
-Which among the following rulers of Kashmir abolished **Jaziya** and **cow slaughter**?
-
-A. Shamsuddin Shah |
-
-B. Sikandar Shah |
-
-C. Zain-ul-Abidin |
-
-D. Haider Shah
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy:Zain-ul-Abidin (Bud Shah, 1420–1470)** abolished **jaziya**, banned **cow slaughter**, and **restored temples** after **Sikandar Shah's** intolerant reign.
-
-**Trap:Sikandar Shah** enforced the **opposite** policies — he is the pre-Bud Shah destruction phase, not the answer here.
 
 </details>
 

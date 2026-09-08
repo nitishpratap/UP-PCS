@@ -259,6 +259,18 @@ Syllabus names the first two plus Kathputli (a string school).
 
 ---
 
+## Complete PYQ Bank (Topic 7)
+
+**Local `pyq/` 2018–2025:** no UPPCS question whose *primary* topic is theatre, Natyashastra, or puppetry.
+
+**Trap for this chapter:** UPPCS **2025 Q48** — *Shringara Shataka* is **Bhartrihari**, not Kalidasa. Kalidasa’s **three plays** are *Abhijnanashakuntalam*, *Vikramorvashiya*, *Malavikagnimitram*.
+
+**External high-yield (UPSC — not in local pyq/)**
+
+Koodiyattam is Sanskrit temple theatre of Kerala (UNESCO 2001/2008), not a classical dance. Nautanki is UP folk theatre. Yakshagana is Karnataka. These three matches are the usual UPSC/state pattern this chapter must carry.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -987,18 +999,6 @@ D. 1, 2 and 3
 **Ans: A.**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 7)
-
-**Local `pyq/` 2018–2025:** no UPPCS question whose *primary* topic is theatre, Natyashastra, or puppetry.
-
-**Trap for this chapter:** UPPCS **2025 Q48** — *Shringara Shataka* is **Bhartrihari**, not Kalidasa. Kalidasa’s **three plays** are *Abhijnanashakuntalam*, *Vikramorvashiya*, *Malavikagnimitram*.
-
-**External high-yield (UPSC — not in local pyq/)**
-
-Koodiyattam is Sanskrit temple theatre of Kerala (UNESCO 2001/2008), not a classical dance. Nautanki is UP folk theatre. Yakshagana is Karnataka. These three matches are the usual UPSC/state pattern this chapter must carry.
 
 ---
 

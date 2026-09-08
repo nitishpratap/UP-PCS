@@ -878,6 +878,281 @@ D. Emergency powers - Germany
 
 ---
 
+## Complete PYQ Bank (Topic 2)
+
+> Full UPPCS mapped hits (2018–2025). Answers under Show answer.
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q54Assertion (A):** India has a parliamentary system of government.
+
+**Reason (R):** In India, the executive is responsible to the legislature.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**D**
+</details>
+
+**Q2. UPPCS Prelims 2025, Q56**
+Which of the following words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment?
+
+1. Socialist
+2. Secular
+3. Sovereignty
+4. Republic
+
+A. 1 and 3
+B. 3 and 4
+C. 2 and 3
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**D — Socialist and Secular.**
+</details>
+
+**Q3. UPPCS Prelims 2025, Q47Assertion (A):** Public Interest Litigation is essential for the rule of law in India.
+
+**Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
+
+A. Both true, R not explanation
+B. A false R true
+C. A true R false
+D. Both true and R explains A
+
+<details>
+<summary>Show answer</summary>
+
+**D**
+</details>
+
+### 2024
+
+**Q4. UPPCS Prelims 2024, Q126**
+Identify the correct chronological sequence:
+
+1. Shankari Prasad vs Union of India
+2. Sajjan Singh vs State of Rajasthan
+3. Golaknath vs State of Punjab
+4. Kesavananda Bharati vs State of Kerala
+
+A. 1, 4, 3, 2
+B. 3, 2, 1, 4
+C. 1, 2, 3, 4
+D. 3, 4, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**C — 1951 → 1965 → 1967 → 1973.**
+</details>
+
+**Q5. UPPCS Prelims 2024, Q128**
+Match List-I with List-II:
+
+A. Cooperative Federalism
+B. Bargaining Federalism
+C. Quasi Federalism
+D. Federalism with Centralising Tendency
+
+1. K.C. Wheare
+2. Ivor Jennings
+3. Morris-Jones
+4. Granville Austin
+
+A. 2 4 3 1
+B. 2 1 4 3
+C. 4 3 1 2
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**C (4, 3, 1, 2)** — Austin, Morris-Jones, Wheare, Jennings.
+</details>
+
+### 2022
+
+**Q6. UPPCS Prelims 2022, Q37**
+The concept 'Basic Structure of the Constitution' was propounded by the Supreme Court in the case of—
+
+A. Kesavananda Bharati vs State of Kerala — 1973
+B. Golaknath vs State of Punjab — 1967
+C. Chitralekha vs State of Mysore — 1964
+D. Yusuf vs State of Bombay — 1954
+
+<details>
+<summary>Show answer</summary>
+
+**A**
+</details>
+
+### 2021
+
+**Q7. UPPCS Prelims 2021, Q42**
+Arrange chronologically:
+
+I. Golak Nath Case
+II. Kesavananda Bharti Case
+III. 24th Constitution Amendment Act
+IV. 42nd Constitution Amendment Act
+
+A. I, III, II, IV
+B. I, II, III, IV
+C. III, I, II, IV
+D. III, I, IV, II
+
+<details>
+<summary>Show answer</summary>
+
+**A — 1967 → 1971 → 1973 → 1976.**
+</details>
+
+**Q8. UPPCS Prelims 2021, Q49**
+Which of the following words is NOT mentioned in the Preamble of the Constitution of India?
+
+A. Sovereign
+B. Democratic
+C. Secular
+D. Federal
+
+<details>
+<summary>Show answer</summary>
+
+**D — Federal.**
+</details>
+
+### 2020
+
+**Q9. UPPCS Prelims 2020, Q94**
+When was the third tier added to Indian Federal System?
+
+A. 1990
+B. 1991
+C. 1992
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**C — 1992**
+</details>
+
+**Q10. UPPCS Prelims 2020, Q120**
+The Supreme Court of India enunciated the doctrine of "Basic Structure of the Constitution" in
+
+A. The Golaknath Case in 1967
+B. The Keshavanand Bharati Case in 1973
+C. The Shankari Prasad Case in 1951
+D. The Sajjan Singh Case in 1965
+
+<details>
+<summary>Show answer</summary>
+
+**B**
+</details>
+
+**Q11. UPPCS Prelims 2020, Q126Assertion (A):** Indian federalism is called 'Quasi-federal'.
+
+**Reason (R):** India has an independent judiciary with power of Judicial Review.
+
+A. Both true and R explains A
+B. Both true but R does not explain A
+C. A true R false
+D. A false R true
+
+<details>
+<summary>Show answer</summary>
+
+**B**
+</details>
+
+### 2019
+
+**Q12. UPPCS Prelims 2019, Q27**
+With reference to the federal system in India, which of the statements is/are correct?
+
+1. States have no right to secede from the Union under the Constitution of India.
+2. Just advocacy of secession will have the protection of freedom of expression.
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither I nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**A — 1 only.**
+</details>
+
+**Q13. UPPCS Prelims 2019, Q102**
+Who said "India is a Quasi Federal State"?
+
+A. Lord Bryce
+B. Ivor Jannigs
+C. H. J. Laski
+D. K. C. Wheare
+
+<details>
+<summary>Show answer</summary>
+
+**D**
+</details>
+
+**Q14. UPPCS Prelims 2019, Q107**
+What is the legal nature of the Preamble of the Constitution?
+
+A. It is enforceable
+B. It is not enforceable
+C. It may be enforced in special circumstances
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**B**
+</details>
+
+### 2018
+
+**Q15. UPPCS Prelims 2018, Q65**
+How many types of justice, liberty, equality and fraternity in that order has been mentioned in the preamble of constitution of India?
+
+A. 3, 5, 2, 1
+B. 1, 3, 5, 2
+C. 2, 5, 3, 1
+D. 5, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**A — 3, 5, 2, 1.**
+</details>
+
+**Q16. UPPCS Prelims 2018, Q71**
+The Parliamentary form of Government was first introduced in which country?
+
+A. Great Britain (UK)
+B. Belgium
+C. France
+D. Switzerland
+
+<details>
+<summary>Show answer</summary>
+
+**A**
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.47 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
@@ -1562,281 +1837,6 @@ D. Federalism with centralising tendency — H. J. Laski
 <summary>Show answer</summary>
 
 **Ans: D** — **Ivor Jennings** described Indian federalism as having a **centralising tendency**; Laski is not the standard match.
-</details>
-
----
-
-## Complete PYQ Bank (Topic 2)
-
-> Full UPPCS mapped hits (2018–2025). Answers under Show answer.
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q54Assertion (A):** India has a parliamentary system of government.
-
-**Reason (R):** In India, the executive is responsible to the legislature.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**D**
-</details>
-
-**Q2. UPPCS Prelims 2025, Q56**
-Which of the following words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment?
-
-1. Socialist
-2. Secular
-3. Sovereignty
-4. Republic
-
-A. 1 and 3
-B. 3 and 4
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**D — Socialist and Secular.**
-</details>
-
-**Q3. UPPCS Prelims 2025, Q47Assertion (A):** Public Interest Litigation is essential for the rule of law in India.
-
-**Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
-
-A. Both true, R not explanation
-B. A false R true
-C. A true R false
-D. Both true and R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**D**
-</details>
-
-### 2024
-
-**Q4. UPPCS Prelims 2024, Q126**
-Identify the correct chronological sequence:
-
-1. Shankari Prasad vs Union of India
-2. Sajjan Singh vs State of Rajasthan
-3. Golaknath vs State of Punjab
-4. Kesavananda Bharati vs State of Kerala
-
-A. 1, 4, 3, 2
-B. 3, 2, 1, 4
-C. 1, 2, 3, 4
-D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**C — 1951 → 1965 → 1967 → 1973.**
-</details>
-
-**Q5. UPPCS Prelims 2024, Q128**
-Match List-I with List-II:
-
-A. Cooperative Federalism
-B. Bargaining Federalism
-C. Quasi Federalism
-D. Federalism with Centralising Tendency
-
-1. K.C. Wheare
-2. Ivor Jennings
-3. Morris-Jones
-4. Granville Austin
-
-A. 2 4 3 1
-B. 2 1 4 3
-C. 4 3 1 2
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**C (4, 3, 1, 2)** — Austin, Morris-Jones, Wheare, Jennings.
-</details>
-
-### 2022
-
-**Q6. UPPCS Prelims 2022, Q37**
-The concept 'Basic Structure of the Constitution' was propounded by the Supreme Court in the case of—
-
-A. Kesavananda Bharati vs State of Kerala — 1973
-B. Golaknath vs State of Punjab — 1967
-C. Chitralekha vs State of Mysore — 1964
-D. Yusuf vs State of Bombay — 1954
-
-<details>
-<summary>Show answer</summary>
-
-**A**
-</details>
-
-### 2021
-
-**Q7. UPPCS Prelims 2021, Q42**
-Arrange chronologically:
-
-I. Golak Nath Case
-II. Kesavananda Bharti Case
-III. 24th Constitution Amendment Act
-IV. 42nd Constitution Amendment Act
-
-A. I, III, II, IV
-B. I, II, III, IV
-C. III, I, II, IV
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**A — 1967 → 1971 → 1973 → 1976.**
-</details>
-
-**Q8. UPPCS Prelims 2021, Q49**
-Which of the following words is NOT mentioned in the Preamble of the Constitution of India?
-
-A. Sovereign
-B. Democratic
-C. Secular
-D. Federal
-
-<details>
-<summary>Show answer</summary>
-
-**D — Federal.**
-</details>
-
-### 2020
-
-**Q9. UPPCS Prelims 2020, Q94**
-When was the third tier added to Indian Federal System?
-
-A. 1990
-B. 1991
-C. 1992
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**C — 1992**
-</details>
-
-**Q10. UPPCS Prelims 2020, Q120**
-The Supreme Court of India enunciated the doctrine of "Basic Structure of the Constitution" in
-
-A. The Golaknath Case in 1967
-B. The Keshavanand Bharati Case in 1973
-C. The Shankari Prasad Case in 1951
-D. The Sajjan Singh Case in 1965
-
-<details>
-<summary>Show answer</summary>
-
-**B**
-</details>
-
-**Q11. UPPCS Prelims 2020, Q126Assertion (A):** Indian federalism is called 'Quasi-federal'.
-
-**Reason (R):** India has an independent judiciary with power of Judicial Review.
-
-A. Both true and R explains A
-B. Both true but R does not explain A
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**B**
-</details>
-
-### 2019
-
-**Q12. UPPCS Prelims 2019, Q27**
-With reference to the federal system in India, which of the statements is/are correct?
-
-1. States have no right to secede from the Union under the Constitution of India.
-2. Just advocacy of secession will have the protection of freedom of expression.
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither I nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**A — 1 only.**
-</details>
-
-**Q13. UPPCS Prelims 2019, Q102**
-Who said "India is a Quasi Federal State"?
-
-A. Lord Bryce
-B. Ivor Jannigs
-C. H. J. Laski
-D. K. C. Wheare
-
-<details>
-<summary>Show answer</summary>
-
-**D**
-</details>
-
-**Q14. UPPCS Prelims 2019, Q107**
-What is the legal nature of the Preamble of the Constitution?
-
-A. It is enforceable
-B. It is not enforceable
-C. It may be enforced in special circumstances
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**B**
-</details>
-
-### 2018
-
-**Q15. UPPCS Prelims 2018, Q65**
-How many types of justice, liberty, equality and fraternity in that order has been mentioned in the preamble of constitution of India?
-
-A. 3, 5, 2, 1
-B. 1, 3, 5, 2
-C. 2, 5, 3, 1
-D. 5, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**A — 3, 5, 2, 1.**
-</details>
-
-**Q16. UPPCS Prelims 2018, Q71**
-The Parliamentary form of Government was first introduced in which country?
-
-A. Great Britain (UK)
-B. Belgium
-C. France
-D. Switzerland
-
-<details>
-<summary>Show answer</summary>
-
-**A**
 </details>
 
 ---

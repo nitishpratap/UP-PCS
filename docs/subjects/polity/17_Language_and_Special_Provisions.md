@@ -609,6 +609,239 @@ D. 1993
 
 ---
 
+## Complete PYQ Bank (Topic 17)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q102**
+Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?
+1. Nepali
+2. Dogri
+3. Bodo
+4. Bhojpuri
+A. 1 and 2
+B. Only 4
+C. 3 and 4
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q113**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I (Schedule)**
+
+| Code | Schedule |
+|------|----------|
+| A | Seventh Schedule |
+| B | Eighth Schedule |
+| C | Ninth Schedule |
+| D | Tenth Schedule |
+
+**List-II (Subject)**
+
+| Code | Subject |
+|------|---------|
+| 1 | Languages |
+| 2 | Anti-defection |
+| 3 | Union, State and Concurrent Lists |
+| 4 | Validation of certain Acts and Regulations |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. 3, 1, 2, 4
+B. 3, 1, 4, 2
+C. 2, 3, 4, 1
+D. 4, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
+
+</details>
+
+### 2024
+
+**Q3. UPPCS Prelims 2024, Q142**
+Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd
+A. Only 2
+B. Neither 1 nor 2
+C. Only 1
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### 2023
+
+**Q4. UPPCS Prelims 2023, Q1**
+Which (Provision — Part) is **not** correctly matched?
+A. Union Territories — Part VIII
+B. Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
+D. Official Language — Part XVII
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q5. UPPCS Prelims 2023, Q7**
+Which pair (Schedule — Subject) is **not** correctly matched?
+A. Third — Oaths
+B. Eighth — Languages
+C. Ninth — Allocation of seats in the Council of States
+D. Tenth — Defection
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q8**
+The Constitution of India initially permitted the use of English language for all official purposes for a period of—
+A. 5 years
+B. 10 years
+C. 15 years
+D. 20 years
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### 2022
+
+**Q7. UPPCS Prelims 2022, Q89**
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I (Schedule)**
+
+| Code | Schedule |
+|------|----------|
+| A | Third Schedule |
+| B | Fourth Schedule |
+| C | Seventh Schedule |
+| D | Eighth Schedule |
+
+**List-II (Subject)**
+
+| Code | Subject |
+|------|---------|
+| 1 | Allocation of seats in Rajya Sabha |
+| 2 | Forms of Oaths or Affirmations |
+| 3 | Languages |
+| 4 | Union / State / Concurrent Lists |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-4, B-3, C-1, D-2
+B. A-3, B-4, C-2, D-1
+C. A-2, B-1, C-4, D-3
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).
+
+</details>
+
+**Q8. UPPCS Prelims 2022, Q67**
+When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
+A. 1998
+B. 1996
+C. 1995
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### 2020
+
+**Q9. UPPCS Prelims 2020, Q108**
+Which region of the country conferred special status under Article 371-J of the Constitution of India?
+A. Nagaland
+B. Hyderabad and Karnataka
+C. Maharashtra and Gujarat
+D. Ladakh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### 2019
+
+**Q10. UPPCS Prelims 2019, Q26Assertion (A):** Article 30 of the Constitution of India does not define the term ‘minorities’.
+
+**Reason (R):** The Constitution recognises only linguistic and religious minorities.
+A. Both (A) and (R) true and (R) is the correct explanation of (A)
+B. Both (A) and (R) true but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both true; R does not explain why 30 is silent on a definition.
+
+</details>
+
+**Q11. UPPCS Prelims 2019, Q31**
+Sixth Schedule is applicable in which of the following States?
+A. Tripura
+B. Sikkim
+C. Nagaland
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### 2018
+
+**Q12. UPPCS Prelims 2018, Q74**
+Parliament can amend the provision on official language of India under the Constitution by—
+A. a simple majority of its members
+B. 2/3rd majority
+C. 3/4th majority
+D. support of 1/3 of its members
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The paper treats **343(3) / 120 / 348** ordinary legislation as the “OL provision.” Do **not** confuse with a 368 rewrite of Article 343.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **85 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -1913,239 +2146,6 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: C**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 17)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q102**
-Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?
-1. Nepali
-2. Dogri
-3. Bodo
-4. Bhojpuri
-A. 1 and 2
-B. Only 4
-C. 3 and 4
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q113**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Seventh Schedule |
-| B | Eighth Schedule |
-| C | Ninth Schedule |
-| D | Tenth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Languages |
-| 2 | Anti-defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts and Regulations |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. 3, 1, 2, 4
-B. 3, 1, 4, 2
-C. 2, 3, 4, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
-
-</details>
-
-### 2024
-
-**Q3. UPPCS Prelims 2024, Q142**
-Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd
-A. Only 2
-B. Neither 1 nor 2
-C. Only 1
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### 2023
-
-**Q4. UPPCS Prelims 2023, Q1**
-Which (Provision — Part) is **not** correctly matched?
-A. Union Territories — Part VIII
-B. Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q5. UPPCS Prelims 2023, Q7**
-Which pair (Schedule — Subject) is **not** correctly matched?
-A. Third — Oaths
-B. Eighth — Languages
-C. Ninth — Allocation of seats in the Council of States
-D. Tenth — Defection
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q8**
-The Constitution of India initially permitted the use of English language for all official purposes for a period of—
-A. 5 years
-B. 10 years
-C. 15 years
-D. 20 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### 2022
-
-**Q7. UPPCS Prelims 2022, Q89**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Third Schedule |
-| B | Fourth Schedule |
-| C | Seventh Schedule |
-| D | Eighth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Allocation of seats in Rajya Sabha |
-| 2 | Forms of Oaths or Affirmations |
-| 3 | Languages |
-| 4 | Union / State / Concurrent Lists |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-4, B-3, C-1, D-2
-B. A-3, B-4, C-2, D-1
-C. A-2, B-1, C-4, D-3
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).
-
-</details>
-
-**Q8. UPPCS Prelims 2022, Q67**
-When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
-A. 1998
-B. 1996
-C. 1995
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### 2020
-
-**Q9. UPPCS Prelims 2020, Q108**
-Which region of the country conferred special status under Article 371-J of the Constitution of India?
-A. Nagaland
-B. Hyderabad and Karnataka
-C. Maharashtra and Gujarat
-D. Ladakh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### 2019
-
-**Q10. UPPCS Prelims 2019, Q26Assertion (A):** Article 30 of the Constitution of India does not define the term ‘minorities’.
-
-**Reason (R):** The Constitution recognises only linguistic and religious minorities.
-A. Both (A) and (R) true and (R) is the correct explanation of (A)
-B. Both (A) and (R) true but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both true; R does not explain why 30 is silent on a definition.
-
-</details>
-
-**Q11. UPPCS Prelims 2019, Q31**
-Sixth Schedule is applicable in which of the following States?
-A. Tripura
-B. Sikkim
-C. Nagaland
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### 2018
-
-**Q12. UPPCS Prelims 2018, Q74**
-Parliament can amend the provision on official language of India under the Constitution by—
-A. a simple majority of its members
-B. 2/3rd majority
-C. 3/4th majority
-D. support of 1/3 of its members
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** The paper treats **343(3) / 120 / 348** ordinary legislation as the “OL provision.” Do **not** confuse with a 368 rewrite of Article 343.
 
 </details>
 

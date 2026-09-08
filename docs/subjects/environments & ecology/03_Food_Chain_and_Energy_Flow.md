@@ -227,6 +227,193 @@ D. May increase or decrease
 
 ---
 
+## Complete PYQ Bank (Topic 3)
+
+**Q1. UPPCS Prelims 2025, Q5**
+
+With reference to 'Ecosystem', which of the following statements is/are correct?
+
+1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
+2. Around 10% of organic matter reaches to the next higher level of consumers.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — 1% capture at producer stage. 10% transfer between trophic levels.
+
+</details>
+
+**Q2. UPPCS Prelims 2023, Q117**
+
+Trophic levels are formed by—
+
+A. Organisms linked in a food chain
+
+B. Plants only
+
+C. Animals only
+
+D. Carnivorous animals only
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q3. UPPCS Prelims 2019, Q134**
+
+The amount of energy during transfer from one trophic level to another in an ecosystem:
+
+A. Increases
+
+B. Decreases
+
+C. Remains constant
+
+D. May increase or decrease
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q4. UPSC Prelims 2016 — pattern**
+
+With reference to food chains in ecosystems, which of the following is correct?
+
+A. Energy increases at higher trophic levels
+
+B. Energy decreases; ~10% transfers
+
+C. Energy is cyclic
+
+D. 50% transfers between levels
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q5. UPSC Prelims 2011 — pattern**
+
+Why are food chains generally short?
+
+A. Predators are lazy
+
+B. Progressive energy loss at each trophic transfer
+
+C. Too many species
+
+D. Nutrients are scarce
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q6. UPSC Prelims 2017 — pattern**
+
+Inverted pyramid of biomass is seen in:
+
+A. Grassland
+
+B. Open ocean
+
+C. Desert
+
+D. Tropical rainforest
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q7. UPSC Prelims 2014 — pattern**
+
+Inverted pyramid of numbers is seen in:
+
+A. Grassland
+
+B. Parasitic food chain on a tree
+
+C. Open ocean
+
+D. Pond
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q8. UPSC Prelims 2018 — pattern**
+
+Which occupies the lowest trophic level?
+
+A. Tiger
+
+B. Phytoplankton
+
+C. Snake
+
+D. Eagle
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q9. UPSC Prelims 2014 — pattern**
+
+In grassland chain Grass → Grasshopper → Frog → Snake → Hawk, trophic levels are:
+
+A. T1–T5 in order
+
+B. All T2
+
+C. Hawk = T1
+
+D. Grass = T2
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q10. UPPCS Prelims 2019 — pattern**
+
+Which pyramid is always upright?
+
+A. Pyramid of biomass
+
+B. Pyramid of numbers
+
+C. Pyramid of energy
+
+D. All three
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | multi-statement + A/R + match + NOT-matched
@@ -942,193 +1129,6 @@ D. None of the above
 <summary>Show answer</summary>
 
 **Ans: C.** **Solar energy**.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 3)
-
-**Q1. UPPCS Prelims 2025, Q5**
-
-With reference to 'Ecosystem', which of the following statements is/are correct?
-
-1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
-2. Around 10% of organic matter reaches to the next higher level of consumers.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — 1% capture at producer stage. 10% transfer between trophic levels.
-
-</details>
-
-**Q2. UPPCS Prelims 2023, Q117**
-
-Trophic levels are formed by—
-
-A. Organisms linked in a food chain
-
-B. Plants only
-
-C. Animals only
-
-D. Carnivorous animals only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3. UPPCS Prelims 2019, Q134**
-
-The amount of energy during transfer from one trophic level to another in an ecosystem:
-
-A. Increases
-
-B. Decreases
-
-C. Remains constant
-
-D. May increase or decrease
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4. UPSC Prelims 2016 — pattern**
-
-With reference to food chains in ecosystems, which of the following is correct?
-
-A. Energy increases at higher trophic levels
-
-B. Energy decreases; ~10% transfers
-
-C. Energy is cyclic
-
-D. 50% transfers between levels
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q5. UPSC Prelims 2011 — pattern**
-
-Why are food chains generally short?
-
-A. Predators are lazy
-
-B. Progressive energy loss at each trophic transfer
-
-C. Too many species
-
-D. Nutrients are scarce
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6. UPSC Prelims 2017 — pattern**
-
-Inverted pyramid of biomass is seen in:
-
-A. Grassland
-
-B. Open ocean
-
-C. Desert
-
-D. Tropical rainforest
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7. UPSC Prelims 2014 — pattern**
-
-Inverted pyramid of numbers is seen in:
-
-A. Grassland
-
-B. Parasitic food chain on a tree
-
-C. Open ocean
-
-D. Pond
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8. UPSC Prelims 2018 — pattern**
-
-Which occupies the lowest trophic level?
-
-A. Tiger
-
-B. Phytoplankton
-
-C. Snake
-
-D. Eagle
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9. UPSC Prelims 2014 — pattern**
-
-In grassland chain Grass → Grasshopper → Frog → Snake → Hawk, trophic levels are:
-
-A. T1–T5 in order
-
-B. All T2
-
-C. Hawk = T1
-
-D. Grass = T2
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10. UPPCS Prelims 2019 — pattern**
-
-Which pyramid is always upright?
-
-A. Pyramid of biomass
-
-B. Pyramid of numbers
-
-C. Pyramid of energy
-
-D. All three
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
 
 </details>
 

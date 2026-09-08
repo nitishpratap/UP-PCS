@@ -538,6 +538,152 @@ D. 4 2 3 1
 
 ---
 
+## Complete PYQ Bank (Topic 5)
+
+
+**Q1. UPPCS Prelims 2019, Q16**
+
+Which is NOT correctly matched? A. Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani | B. Tarikh-i-Firozshahi — Shams-i-Siruj-Alif | C. Tughlaqnama — Ibn Battuta | D. Humayunnama — Gulbadan Begum
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — **UPPCS 2019 Q16Why C:Tughlaqnama** = **Ziauddin Barani**; Ibn Battuta wrote **Rihla**.
+
+**Trap:** Battuta was at Tughlaq's court but did not write Tughlaqnama.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2019, Q88**
+
+Match: A.Mulla Daud B.Damodar Kavi C.Somnath D.Amir Khusro with 1.Chandayan 2.Ashiqa 3.Padmavati Katha 4.Rag Vibodh
+
+Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
+
+<details><summary>Show answer</summary>
+
+**Ans: A (1-3-2-4)** — **UPPCS 2019 Q88Facts:** Mulla Daud–Chandayan (1) | Damodar–Padmavati Katha (3) | Somnath–Ashiqa (2) | Khusrau–Rag Vibodh (4)
+
+**Trap:** Khusrau = **4** in this literary list only.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2024, Q132**
+
+Arrange: 1.Murder of Abul Fazl 2.Death of Sheikh Mubarak 3.Death of Faizi 4.Death of Daniyal
+
+Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
+
+<details><summary>Show answer</summary>
+
+**Ans: B (3-2-1-4)** — **UPPCS 2024 Q132Chronology:** Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl murdered (1602) → Daniyal (1604).
+
+**Trap:** Abul Fazl's **murder** comes after both Faizi and Mubarak.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2025, Q3**
+
+A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.
+
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
+
+<details><summary>Show answer</summary>
+
+**Ans: C (A true, R false)** — **UPPCS 2025 Q3A is true:Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
+
+**R is false:** Mughal **court language** was **Persian**, not Turki.
+
+**Why not D:** Memoir language ≠ court language.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2025, Q12 (literature overlap)**
+
+Amir Khusrau → Nizamuddin Auliya (guru code 3) in disciple-guru match.
+
+<details><summary>Show answer</summary>
+
+**Ans: C (2-3-4-1)** — full match code.
+
+**Why:** Khusrau was disciple of **Nizamuddin Auliya** at Delhi Chishti circle.
+
+**Trap:** Do not pair Khusrau with Ramananda or Vallabhacharya.
+
+</details>
+
+
+**Q6. UPPCS Prelims 2022, Q43**
+
+Who translated *Suka Saptati* into Persian as *Tutinama*?
+
+A. Khwaja Ziya-ud-din Nakhshabi |
+
+B. Abdur Razzak |
+
+C. Shihabuddin-al-Umari |
+
+D. Amir Khusro
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — **UPPCS 2022 Q43Why A:Nakhshabi** translated *Suka Saptati* as **Tutinama**.
+
+**Trap:Amir Khusrau** is the standard wrong option.
+
+</details>
+
+
+**Q7. UPPCS Prelims 2023, Q33**
+
+Match: A.Mirat-e-Sikandari B.Burhan-e-Masir C.Riyaz-us-Salatin D.Riyaz-ul-Insha with 1.Bengal 2.Ahmadnagar 3.Gawan's letters 4.Gujarat victory
+
+Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1
+
+<details><summary>Show answer</summary>
+
+**Ans: A (4-2-1-3)** — **UPPCS 2023 Q33Facts:** Mirat-e-Sikandari–Gujarat (4) | Burhan-e-Masir–Ahmadnagar (2) | Riyaz-us-Salatin–Bengal (1) | Riyaz-ul-Insha–Gawan's letters (3)
+
+**Trap:** Do not swap **Riyaz-us-Salatin** (Bengal) with **Riyaz-ul-Insha** (Gawan).
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** All four titles belong to Amir Khusrau — a partial option is the trap.
+
+**Q. UKPCS Prelims 2025, Q56**
+
+Which of the following texts are written by Amir Khusrau?
+
+1. Khazain-ul-Futuh
+2. Nuh Siphir
+3. Miftah-ul-Futuh
+4. Qiraan-us-Sadain
+
+A. Only 1, 2 and 3
+B. Only 2, 3 and 4
+C. Only 1, 3 and 4
+D. All 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Amir Khusrau wrote all four works in the Khalji and early Tughlaq period. Khazain-ul-Futuh records Alauddin’s campaigns; Qiran-us-Sadain describes the meeting of Bughra Khan and Kaiqubad. Dropping any one title is the usual trap.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **43 questions** · answers in `<details>`
@@ -1285,152 +1431,6 @@ D. Barani
 **Ans: BWhy:Alberuni (Al-Biruni)** wrote **Kitab-ul-Hind** in **Arabic** after studying India under **Mahmud of Ghazni**.
 
 **Trap:** Khusrau and Barani are **Delhi Sultanate Persian** authors — Alberuni belongs to the earlier **Ghaznavid** scientific tradition.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 5)
-
-
-**Q1. UPPCS Prelims 2019, Q16**
-
-Which is NOT correctly matched? A. Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani | B. Tarikh-i-Firozshahi — Shams-i-Siruj-Alif | C. Tughlaqnama — Ibn Battuta | D. Humayunnama — Gulbadan Begum
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — **UPPCS 2019 Q16Why C:Tughlaqnama** = **Ziauddin Barani**; Ibn Battuta wrote **Rihla**.
-
-**Trap:** Battuta was at Tughlaq's court but did not write Tughlaqnama.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2019, Q88**
-
-Match: A.Mulla Daud B.Damodar Kavi C.Somnath D.Amir Khusro with 1.Chandayan 2.Ashiqa 3.Padmavati Katha 4.Rag Vibodh
-
-Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
-
-<details><summary>Show answer</summary>
-
-**Ans: A (1-3-2-4)** — **UPPCS 2019 Q88Facts:** Mulla Daud–Chandayan (1) | Damodar–Padmavati Katha (3) | Somnath–Ashiqa (2) | Khusrau–Rag Vibodh (4)
-
-**Trap:** Khusrau = **4** in this literary list only.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2024, Q132**
-
-Arrange: 1.Murder of Abul Fazl 2.Death of Sheikh Mubarak 3.Death of Faizi 4.Death of Daniyal
-
-Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
-
-<details><summary>Show answer</summary>
-
-**Ans: B (3-2-1-4)** — **UPPCS 2024 Q132Chronology:** Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl murdered (1602) → Daniyal (1604).
-
-**Trap:** Abul Fazl's **murder** comes after both Faizi and Mubarak.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2025, Q3**
-
-A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.
-
-A. Both true, R not explanation |
-
-B. A false, R true |
-
-C. A true, R false |
-
-D. Both true, R explains A
-
-<details><summary>Show answer</summary>
-
-**Ans: C (A true, R false)** — **UPPCS 2025 Q3A is true:Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki**.
-
-**R is false:** Mughal **court language** was **Persian**, not Turki.
-
-**Why not D:** Memoir language ≠ court language.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2025, Q12 (literature overlap)**
-
-Amir Khusrau → Nizamuddin Auliya (guru code 3) in disciple-guru match.
-
-<details><summary>Show answer</summary>
-
-**Ans: C (2-3-4-1)** — full match code.
-
-**Why:** Khusrau was disciple of **Nizamuddin Auliya** at Delhi Chishti circle.
-
-**Trap:** Do not pair Khusrau with Ramananda or Vallabhacharya.
-
-</details>
-
-
-**Q6. UPPCS Prelims 2022, Q43**
-
-Who translated *Suka Saptati* into Persian as *Tutinama*?
-
-A. Khwaja Ziya-ud-din Nakhshabi |
-
-B. Abdur Razzak |
-
-C. Shihabuddin-al-Umari |
-
-D. Amir Khusro
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — **UPPCS 2022 Q43Why A:Nakhshabi** translated *Suka Saptati* as **Tutinama**.
-
-**Trap:Amir Khusrau** is the standard wrong option.
-
-</details>
-
-
-**Q7. UPPCS Prelims 2023, Q33**
-
-Match: A.Mirat-e-Sikandari B.Burhan-e-Masir C.Riyaz-us-Salatin D.Riyaz-ul-Insha with 1.Bengal 2.Ahmadnagar 3.Gawan's letters 4.Gujarat victory
-
-Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1
-
-<details><summary>Show answer</summary>
-
-**Ans: A (4-2-1-3)** — **UPPCS 2023 Q33Facts:** Mirat-e-Sikandari–Gujarat (4) | Burhan-e-Masir–Ahmadnagar (2) | Riyaz-us-Salatin–Bengal (1) | Riyaz-ul-Insha–Gawan's letters (3)
-
-**Trap:** Do not swap **Riyaz-us-Salatin** (Bengal) with **Riyaz-ul-Insha** (Gawan).
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** All four titles belong to Amir Khusrau — a partial option is the trap.
-
-**Q. UKPCS Prelims 2025, Q56**
-
-Which of the following texts are written by Amir Khusrau?
-
-1. Khazain-ul-Futuh
-2. Nuh Siphir
-3. Miftah-ul-Futuh
-4. Qiraan-us-Sadain
-
-A. Only 1, 2 and 3
-B. Only 2, 3 and 4
-C. Only 1, 3 and 4
-D. All 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Series B provisional key).** Amir Khusrau wrote all four works in the Khalji and early Tughlaq period. Khazain-ul-Futuh records Alauddin’s campaigns; Qiran-us-Sadain describes the meeting of Bughra Khan and Kaiqubad. Dropping any one title is the usual trap.
 
 </details>
 

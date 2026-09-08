@@ -514,6 +514,584 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 
 ---
 
+## Complete PYQ Bank (Topic 5)
+
+> UPPCS + UKPCS + high-yield sister stems from Ghatnachakra Political Condition / Sixth Century BCE. Answers hidden. Tag = paper when known. Alexander Massaga / Deimachus stems live in Topic 6.
+
+### Silver coins / sources / lists
+
+**Q1. UPPCS (GIC) 2010**
+
+The earliest extant coins of India were of —
+
+A. Copper B. Gold C. Lead D. Silver
+
+**Logic:** Earliest extant = punch-marked silver (Aahat), not later gold.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Punch-marked / Aahat coins are of **silver**.
+
+</details>
+
+---
+
+**Q2. UPPCS (Spl) Pre 2004**
+
+Which Buddha text has described 16 Mahajanapadas of 6th century BCE?
+
+A. Digha Nikaya B. Tripitaka C. Deepavamsa D. Anguttara Nikaya
+
+**Logic:** Canonical list-source is Anguttara Nikaya; Jain parallel is Bhagavati Sutra.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Anguttara Nikaya**. Tripitaka is the whole basket, not the specific list text.
+
+</details>
+
+---
+
+**Q3. UPPCS Pre 2008 / Spl Mains 2008**
+
+Which one of the following Buddhist texts describes the sixteen Mahajanapadas?
+
+A. Anguttara Nikaya B. Majjhima Nikaya C. Khuddaka Nikaya D. Digha Nikaya
+
+**Logic:** Same list-source trap across Nikayas.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Anguttara Nikaya**.
+
+</details>
+
+---
+
+### Capitals / UP geography
+
+**Q4. UP RO/ARO Mains 2017**
+
+Which of the following is not correctly matched?
+
+A. Anga — Champa  
+B. Kosala — Ahichchhatra  
+C. Vatsa — Kaushambi  
+D. Matsya — Viratnagar  
+
+**Logic:** Wrong capital glued to Kosala.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kosala = Saket / Shravasti. Ahichchhatra = North Panchala.
+
+</details>
+
+---
+
+**Q5. UPPCS Pre 2008**
+
+Match List-I (Ancient places of U.P.) with List-II (Capital):
+
+| List-I | List-II |
+|--------|---------|
+| A. Kuru | 1. Saket |
+| B. Panchala | 2. Kaushambi |
+| C. Kosala | 3. Ahichchhatra |
+| D. Vatsa | 4. Indraprastha |
+
+A. 1 2 3 4 B. 4 3 1 2 C. 3 4 2 1 D. 4 2 3 1
+
+**Logic:** UP four; Indraprastha = Kuru, Ahichchhatra = Panchala.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kuru–Indraprastha; Panchala–Ahichchhatra; Kosala–Saket; Vatsa–Kaushambi.
+
+</details>
+
+---
+
+**Q6. UPPCS Pre 2020, Q6**
+
+Match List-I with List-II:
+
+| List-I (Mahajanpadas) | List-II (Capitals) |
+|-----------------------|-------------------|
+| A. Matsya | 1. Mathura |
+| B. Kuru | 2. Potan |
+| C. Sursena | 3. Virat Nagar |
+| D. Asmak | 4. Indraprastha |
+
+A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
+
+**Logic:** Classic 2020 four; Mathura is Surasena, never Matsya.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 3-4-1-2. Matsya–Viratnagar, Kuru–Indraprastha, Surasena–Mathura, Asmaka–Potana.
+
+</details>
+
+---
+
+**Q7. UP RO/ARO Mains 2016**
+
+Which of the following is NOT correctly matched?
+
+A. Kamboj — Rajpur / Hatak  
+B. Ashmak — Potan / Potil  
+C. Shurasen — Kaushambi  
+D. Koshal — Shravasti  
+
+**Logic:** Surasena–Mathura vs Vatsa–Kaushambi.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Surasena = Mathura.
+
+</details>
+
+---
+
+**Q8. UP RO/ARO Pre 2021**
+
+How many Mahajanapadas were located in present-day Uttar Pradesh among the oldest sixteen?
+
+A. 06 B. 07 C. 08 D. 09  
+
+**Logic:** Eight UP-touching states.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Eight mahajanapadas touch present UP.
+
+</details>
+
+---
+
+**Q9. UPPCS Mains 2006**
+
+The capital of North Panchala, according to the Mahabharata, was located at —
+
+A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura  
+
+**Logic:** North vs South Panchala split.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** North Panchala = **Ahichchhatra**; South = Kampilya.
+
+</details>
+
+---
+
+**Q10. UP RO/ARO Mains 2014**
+
+Champa was the capital of which Mahajanapada?
+
+A. Magadha B. Vajji C. Kosala D. Anga  
+
+**Logic:** Anga port vs Magadha Rajgir.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Anga = **Champa** (Bhagalpur–Munger).
+
+</details>
+
+---
+
+**Q11. UPPCS Mains 2011**
+
+In the sixth century BCE Suktimati was the capital of —
+
+A. Panchala B. Kuru C. Chedi D. Avanti  
+
+**Logic:** Sotthivati / Suktimati = Chedi.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chedi.
+
+</details>
+
+---
+
+**Q12. UPPCS Pre 2017**
+
+Matsya Mahajanapada of 6th century BCE was located in —
+
+A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand  
+
+**Logic:** Jaipur–Alwar–Bharatpur; not Rohilkhand (Panchala).
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rajasthan; capital Viratnagar.
+
+</details>
+
+---
+
+**Q13. UPPCS Pre 2010**
+
+What is the town configuration of ancient Shravasti?
+
+A. Circular B. Crescentic C. Triangular D. Quadratic  
+
+**Logic:** Saheth–Maheth excavation plan.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Crescentic.
+
+</details>
+
+---
+
+**Q14. UPPCS Mains 2015**
+
+The town of Kalpi is situated on the bank of the river —
+
+A. Ganga B. Yamuna C. Narmada D. Krishna  
+
+**Logic:** Jalaun Yamuna town.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Yamuna.
+
+</details>
+
+---
+
+**Q15. UP Lower Spl Pre 2008**
+
+The Legend of Udayan–Vasavadatta is related to —
+
+A. Ujjain B. Mathura C. Mahishmati D. Kaushambi  
+
+**Logic:** Story setting is Ujjain imprisonment; Vatsa king loves Avanti princess.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Related to **Ujjain** (Bhasa’s *Svapnavasavadattam*).
+
+</details>
+
+---
+
+**Q16. UPPCS Pre 2009**
+
+What was the ancient name of Ujjain?
+
+A. Taxila B. Indraprastha C. Avantika D. None of the above  
+
+**Logic:** Avantika / Ujjayini = northern Avanti capital.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Avantika**.
+
+</details>
+
+---
+
+### Kings / Magadha houses
+
+**Q17. UP Lower Spl Pre 2004 / UPPCS Pre 2000**
+
+Match List-I with List-II:
+
+| List-I (King) | List-II (State) |
+|---------------|-----------------|
+| A. Pradyot | 1. Magadha |
+| B. Udayana | 2. Vatsa |
+| C. Prasenjit | 3. Avanti |
+| D. Ajatashatru | 4. Kosala |
+
+A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
+
+**Logic:** Big Four kings.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pradyota–Avanti; Udayana–Vatsa; Prasenjit–Kosala; Ajatashatru–Magadha.
+
+</details>
+
+---
+
+**Q18. UPPCS Pre 2007**
+
+Which initial ruler of Magadha killed his father for enthroning and was also killed by his son for the same reason?
+
+A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka  
+
+**Logic:** Middle link of the parricide chain.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ajatashatru.
+
+</details>
+
+---
+
+**Q19. UPPCS Pre 2011**
+
+The Prince who was responsible for the death of his father was —
+
+A. Ajatashatru B. Chandapradyota C. Prasenjit D. Udayana  
+
+**Logic:** Same Ajatashatru fact; Udayana of Vatsa is a distractor.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Ajatashatru.
+
+</details>
+
+---
+
+**Q20. UP Lower Spl Pre 2008**
+
+Power of Magadha was extended over the Malwa region during the reign period of —
+
+A. Bimbisara B. Ajatashatru C. Udayabhadra D. Shishunaga  
+
+**Logic:** Avanti / Malwa falls to Shishunaga, not Bimbisara.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Shishunaga annexes Avanti (Malwa).
+
+</details>
+
+---
+
+**Q21. UP UDA/LDA Spl Pre 2010**
+
+Which King of Magadha is known as Aparoparashurama?
+
+A. Bindusara B. Ajatasatru C. Kalasoka D. Mahapadmananda  
+
+**Logic:** Nanda founder titles.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mahapadma Nanda.
+
+</details>
+
+---
+
+**Q22. UP UDA/LDA Pre 2006**
+
+Jivaka, the famous physician of the time of Mahatma Buddha, was associated with the court of —
+
+A. Bimbisara B. Chanda Pradyota C. Prasenjit D. Udayana  
+
+**Logic:** Magadha court physician; also sent to treat Pradyota.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Court of **Bimbisara**.
+
+</details>
+
+---
+
+**Q23. UP UDA/LDA Spl Mains 2010**
+
+Which inscription is the evidence of King Nanda?
+
+A. Hathigumpha inscription of Kharavela  
+B. Rummindei pillar inscription  
+C. Junagarh inscription of Rudradaman  
+D. Ayodhya inscription of Dhandeva  
+
+**Logic:** Nanda canal / Jina image memory sits in Kharavela’s text.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Hathigumpha** of Kharavela.
+
+</details>
+
+---
+
+**Q24. UPPCS Pre 1999**
+
+The epigraphical evidence reveals that under the instructions of a Nanda king, a canal was dug in —
+
+A. Anga B. Vanga C. Kalinga D. Magadha  
+
+**Logic:** Same Hathigumpha canal fact.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kalinga.
+
+</details>
+
+---
+
+**Q25. UP GIC Lecturer 2007 (key debate)**
+
+Who among the following made Varanasi his second capital?
+
+A. Ajatashatru B. Kalashoka C. Mahapadmananda D. Shishunaga  
+
+**Logic:** Ambiguous stem; accepted key = Shishunaga.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (accepted).** Shishunaga / Varanasi deputy-king tradition.
+
+</details>
+
+---
+
+### Republics / polity
+
+**Q26. UPPCS Pre 1992**
+
+Which one was not in the earlier Republic?
+
+A. Shakya B. Lichchhavi C. Yaudheya D. All of the above  
+
+**Logic:** Buddha-age gana list vs later Yaudheya gana.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Yaudheya** is not in the earlier Buddha-period republic list used by this stem.
+
+</details>
+
+---
+
+### UKPCS
+
+**Q27. Uttarakhand PCS Pre 2016**
+
+Who was the founder of Nanda Dynasty in Magadha?
+
+A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin  
+
+**Logic:** Founder vs last Nanda vs Shishunaga tail.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Mahapadma Nanda (Ugrasena).
+
+</details>
+
+---
+
+**Q28. Uttarakhand PCS Pre 2012**
+
+Read the statements (A) and (B):
+
+**(A)** The sixth century BCE was a period of great religious upheaval in all parts of the world.  
+**(B)** The Vedic religion had become very complex.
+
+A. Both false B. Both true C. A true, B false D. A false, B true  
+
+**A/R logic:** Global upheaval + Vedic ritual complexity; both accepted true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both (A) and (B) are true.
+
+</details>
+
+---
+
+### Sister stems (high-yield; keep for trap practice)
+
+**Q29.** Chanda Pradyota was the ruler of which ancient state?
+
+A. Kashi B. Anga C. Avanti D. Vajji  
+
+**Logic:** Avanti king treated by Jivaka.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Avanti.
+
+</details>
+
+---
+
+**Q30.** Who defeated and assimilated the Vajjis into Magadha?
+
+A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru  
+
+**Logic:** Long Vajji war = Ajatashatru.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ajatashatru.
+
+</details>
+
+---
+
+**Q31.** Arrange Magadhan dynasties: 1 Nandas 2 Sungas 3 Mauryas 4 Haryankas
+
+A. 2-1-4-3 B. 4-1-3-2 C. 3-2-1-4 D. 1-3-4-2  
+
+**Logic:** Haryanka → (Shishunaga omitted in options) → Nanda → Maurya → Shunga. Code uses 4,1,3,2.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Haryanka → Nanda → Maurya → Shunga (Shishunaga absent from the option set).
+
+</details>
+
+---
+
+**Out of boundary (do not dump into this file’s teaching body):** Karnata dynasty of Mithila (**Nanyadeva / Harisimhadeva / Simraon / Panji**, 1097–1324 CE) is medieval Mithila, not sixth-century BCE. Alexander Massaga women / Deimachus / Hydaspes = Topic 6. Shreni “only northern India” = Economy Topic 12.
+
+### Years with zero extra hits in local `pyq/` folder
+
+UPPCS Prelims **2025–2018** GS folder still shows the **2020 capital Match List** as the main recent Prelims hit; older UPPCS / RO-ARO / GIC / Lower / UKPCS stems above fill the Ghatnachakra gap so the book is not needed for this topic.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** Match List-I with List-II and select the correct answer using the codes given below:
@@ -1649,584 +2227,6 @@ D. (A) is false, while (B) is true
 **Ans: B.** Both true. Middle-Ganga new faiths rise while Vedic ritual grows complex; parallel questioning appears elsewhere in the same broad age.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 5)
-
-> UPPCS + UKPCS + high-yield sister stems from Ghatnachakra Political Condition / Sixth Century BCE. Answers hidden. Tag = paper when known. Alexander Massaga / Deimachus stems live in Topic 6.
-
-### Silver coins / sources / lists
-
-**Q1. UPPCS (GIC) 2010**
-
-The earliest extant coins of India were of —
-
-A. Copper B. Gold C. Lead D. Silver
-
-**Logic:** Earliest extant = punch-marked silver (Aahat), not later gold.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Punch-marked / Aahat coins are of **silver**.
-
-</details>
-
----
-
-**Q2. UPPCS (Spl) Pre 2004**
-
-Which Buddha text has described 16 Mahajanapadas of 6th century BCE?
-
-A. Digha Nikaya B. Tripitaka C. Deepavamsa D. Anguttara Nikaya
-
-**Logic:** Canonical list-source is Anguttara Nikaya; Jain parallel is Bhagavati Sutra.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Anguttara Nikaya**. Tripitaka is the whole basket, not the specific list text.
-
-</details>
-
----
-
-**Q3. UPPCS Pre 2008 / Spl Mains 2008**
-
-Which one of the following Buddhist texts describes the sixteen Mahajanapadas?
-
-A. Anguttara Nikaya B. Majjhima Nikaya C. Khuddaka Nikaya D. Digha Nikaya
-
-**Logic:** Same list-source trap across Nikayas.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Anguttara Nikaya**.
-
-</details>
-
----
-
-### Capitals / UP geography
-
-**Q4. UP RO/ARO Mains 2017**
-
-Which of the following is not correctly matched?
-
-A. Anga — Champa  
-B. Kosala — Ahichchhatra  
-C. Vatsa — Kaushambi  
-D. Matsya — Viratnagar  
-
-**Logic:** Wrong capital glued to Kosala.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kosala = Saket / Shravasti. Ahichchhatra = North Panchala.
-
-</details>
-
----
-
-**Q5. UPPCS Pre 2008**
-
-Match List-I (Ancient places of U.P.) with List-II (Capital):
-
-| List-I | List-II |
-|--------|---------|
-| A. Kuru | 1. Saket |
-| B. Panchala | 2. Kaushambi |
-| C. Kosala | 3. Ahichchhatra |
-| D. Vatsa | 4. Indraprastha |
-
-A. 1 2 3 4 B. 4 3 1 2 C. 3 4 2 1 D. 4 2 3 1
-
-**Logic:** UP four; Indraprastha = Kuru, Ahichchhatra = Panchala.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kuru–Indraprastha; Panchala–Ahichchhatra; Kosala–Saket; Vatsa–Kaushambi.
-
-</details>
-
----
-
-**Q6. UPPCS Pre 2020, Q6**
-
-Match List-I with List-II:
-
-| List-I (Mahajanpadas) | List-II (Capitals) |
-|-----------------------|-------------------|
-| A. Matsya | 1. Mathura |
-| B. Kuru | 2. Potan |
-| C. Sursena | 3. Virat Nagar |
-| D. Asmak | 4. Indraprastha |
-
-A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
-
-**Logic:** Classic 2020 four; Mathura is Surasena, never Matsya.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 3-4-1-2. Matsya–Viratnagar, Kuru–Indraprastha, Surasena–Mathura, Asmaka–Potana.
-
-</details>
-
----
-
-**Q7. UP RO/ARO Mains 2016**
-
-Which of the following is NOT correctly matched?
-
-A. Kamboj — Rajpur / Hatak  
-B. Ashmak — Potan / Potil  
-C. Shurasen — Kaushambi  
-D. Koshal — Shravasti  
-
-**Logic:** Surasena–Mathura vs Vatsa–Kaushambi.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Surasena = Mathura.
-
-</details>
-
----
-
-**Q8. UP RO/ARO Pre 2021**
-
-How many Mahajanapadas were located in present-day Uttar Pradesh among the oldest sixteen?
-
-A. 06 B. 07 C. 08 D. 09  
-
-**Logic:** Eight UP-touching states.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Eight mahajanapadas touch present UP.
-
-</details>
-
----
-
-**Q9. UPPCS Mains 2006**
-
-The capital of North Panchala, according to the Mahabharata, was located at —
-
-A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura  
-
-**Logic:** North vs South Panchala split.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** North Panchala = **Ahichchhatra**; South = Kampilya.
-
-</details>
-
----
-
-**Q10. UP RO/ARO Mains 2014**
-
-Champa was the capital of which Mahajanapada?
-
-A. Magadha B. Vajji C. Kosala D. Anga  
-
-**Logic:** Anga port vs Magadha Rajgir.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Anga = **Champa** (Bhagalpur–Munger).
-
-</details>
-
----
-
-**Q11. UPPCS Mains 2011**
-
-In the sixth century BCE Suktimati was the capital of —
-
-A. Panchala B. Kuru C. Chedi D. Avanti  
-
-**Logic:** Sotthivati / Suktimati = Chedi.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Chedi.
-
-</details>
-
----
-
-**Q12. UPPCS Pre 2017**
-
-Matsya Mahajanapada of 6th century BCE was located in —
-
-A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand  
-
-**Logic:** Jaipur–Alwar–Bharatpur; not Rohilkhand (Panchala).
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Rajasthan; capital Viratnagar.
-
-</details>
-
----
-
-**Q13. UPPCS Pre 2010**
-
-What is the town configuration of ancient Shravasti?
-
-A. Circular B. Crescentic C. Triangular D. Quadratic  
-
-**Logic:** Saheth–Maheth excavation plan.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Crescentic.
-
-</details>
-
----
-
-**Q14. UPPCS Mains 2015**
-
-The town of Kalpi is situated on the bank of the river —
-
-A. Ganga B. Yamuna C. Narmada D. Krishna  
-
-**Logic:** Jalaun Yamuna town.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Yamuna.
-
-</details>
-
----
-
-**Q15. UP Lower Spl Pre 2008**
-
-The Legend of Udayan–Vasavadatta is related to —
-
-A. Ujjain B. Mathura C. Mahishmati D. Kaushambi  
-
-**Logic:** Story setting is Ujjain imprisonment; Vatsa king loves Avanti princess.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Related to **Ujjain** (Bhasa’s *Svapnavasavadattam*).
-
-</details>
-
----
-
-**Q16. UPPCS Pre 2009**
-
-What was the ancient name of Ujjain?
-
-A. Taxila B. Indraprastha C. Avantika D. None of the above  
-
-**Logic:** Avantika / Ujjayini = northern Avanti capital.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Avantika**.
-
-</details>
-
----
-
-### Kings / Magadha houses
-
-**Q17. UP Lower Spl Pre 2004 / UPPCS Pre 2000**
-
-Match List-I with List-II:
-
-| List-I (King) | List-II (State) |
-|---------------|-----------------|
-| A. Pradyot | 1. Magadha |
-| B. Udayana | 2. Vatsa |
-| C. Prasenjit | 3. Avanti |
-| D. Ajatashatru | 4. Kosala |
-
-A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
-
-**Logic:** Big Four kings.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Pradyota–Avanti; Udayana–Vatsa; Prasenjit–Kosala; Ajatashatru–Magadha.
-
-</details>
-
----
-
-**Q18. UPPCS Pre 2007**
-
-Which initial ruler of Magadha killed his father for enthroning and was also killed by his son for the same reason?
-
-A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka  
-
-**Logic:** Middle link of the parricide chain.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Ajatashatru.
-
-</details>
-
----
-
-**Q19. UPPCS Pre 2011**
-
-The Prince who was responsible for the death of his father was —
-
-A. Ajatashatru B. Chandapradyota C. Prasenjit D. Udayana  
-
-**Logic:** Same Ajatashatru fact; Udayana of Vatsa is a distractor.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Ajatashatru.
-
-</details>
-
----
-
-**Q20. UP Lower Spl Pre 2008**
-
-Power of Magadha was extended over the Malwa region during the reign period of —
-
-A. Bimbisara B. Ajatashatru C. Udayabhadra D. Shishunaga  
-
-**Logic:** Avanti / Malwa falls to Shishunaga, not Bimbisara.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Shishunaga annexes Avanti (Malwa).
-
-</details>
-
----
-
-**Q21. UP UDA/LDA Spl Pre 2010**
-
-Which King of Magadha is known as Aparoparashurama?
-
-A. Bindusara B. Ajatasatru C. Kalasoka D. Mahapadmananda  
-
-**Logic:** Nanda founder titles.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Mahapadma Nanda.
-
-</details>
-
----
-
-**Q22. UP UDA/LDA Pre 2006**
-
-Jivaka, the famous physician of the time of Mahatma Buddha, was associated with the court of —
-
-A. Bimbisara B. Chanda Pradyota C. Prasenjit D. Udayana  
-
-**Logic:** Magadha court physician; also sent to treat Pradyota.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Court of **Bimbisara**.
-
-</details>
-
----
-
-**Q23. UP UDA/LDA Spl Mains 2010**
-
-Which inscription is the evidence of King Nanda?
-
-A. Hathigumpha inscription of Kharavela  
-B. Rummindei pillar inscription  
-C. Junagarh inscription of Rudradaman  
-D. Ayodhya inscription of Dhandeva  
-
-**Logic:** Nanda canal / Jina image memory sits in Kharavela’s text.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Hathigumpha** of Kharavela.
-
-</details>
-
----
-
-**Q24. UPPCS Pre 1999**
-
-The epigraphical evidence reveals that under the instructions of a Nanda king, a canal was dug in —
-
-A. Anga B. Vanga C. Kalinga D. Magadha  
-
-**Logic:** Same Hathigumpha canal fact.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Kalinga.
-
-</details>
-
----
-
-**Q25. UP GIC Lecturer 2007 (key debate)**
-
-Who among the following made Varanasi his second capital?
-
-A. Ajatashatru B. Kalashoka C. Mahapadmananda D. Shishunaga  
-
-**Logic:** Ambiguous stem; accepted key = Shishunaga.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (accepted).** Shishunaga / Varanasi deputy-king tradition.
-
-</details>
-
----
-
-### Republics / polity
-
-**Q26. UPPCS Pre 1992**
-
-Which one was not in the earlier Republic?
-
-A. Shakya B. Lichchhavi C. Yaudheya D. All of the above  
-
-**Logic:** Buddha-age gana list vs later Yaudheya gana.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Yaudheya** is not in the earlier Buddha-period republic list used by this stem.
-
-</details>
-
----
-
-### UKPCS
-
-**Q27. Uttarakhand PCS Pre 2016**
-
-Who was the founder of Nanda Dynasty in Magadha?
-
-A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin  
-
-**Logic:** Founder vs last Nanda vs Shishunaga tail.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Mahapadma Nanda (Ugrasena).
-
-</details>
-
----
-
-**Q28. Uttarakhand PCS Pre 2012**
-
-Read the statements (A) and (B):
-
-**(A)** The sixth century BCE was a period of great religious upheaval in all parts of the world.  
-**(B)** The Vedic religion had become very complex.
-
-A. Both false B. Both true C. A true, B false D. A false, B true  
-
-**A/R logic:** Global upheaval + Vedic ritual complexity; both accepted true.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both (A) and (B) are true.
-
-</details>
-
----
-
-### Sister stems (high-yield; keep for trap practice)
-
-**Q29.** Chanda Pradyota was the ruler of which ancient state?
-
-A. Kashi B. Anga C. Avanti D. Vajji  
-
-**Logic:** Avanti king treated by Jivaka.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Avanti.
-
-</details>
-
----
-
-**Q30.** Who defeated and assimilated the Vajjis into Magadha?
-
-A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru  
-
-**Logic:** Long Vajji war = Ajatashatru.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Ajatashatru.
-
-</details>
-
----
-
-**Q31.** Arrange Magadhan dynasties: 1 Nandas 2 Sungas 3 Mauryas 4 Haryankas
-
-A. 2-1-4-3 B. 4-1-3-2 C. 3-2-1-4 D. 1-3-4-2  
-
-**Logic:** Haryanka → (Shishunaga omitted in options) → Nanda → Maurya → Shunga. Code uses 4,1,3,2.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Haryanka → Nanda → Maurya → Shunga (Shishunaga absent from the option set).
-
-</details>
-
----
-
-**Out of boundary (do not dump into this file’s teaching body):** Karnata dynasty of Mithila (**Nanyadeva / Harisimhadeva / Simraon / Panji**, 1097–1324 CE) is medieval Mithila, not sixth-century BCE. Alexander Massaga women / Deimachus / Hydaspes = Topic 6. Shreni “only northern India” = Economy Topic 12.
-
-### Years with zero extra hits in local `pyq/` folder
-
-UPPCS Prelims **2025–2018** GS folder still shows the **2020 capital Match List** as the main recent Prelims hit; older UPPCS / RO-ARO / GIC / Lower / UKPCS stems above fill the Ghatnachakra gap so the book is not needed for this topic.
 
 ---
 

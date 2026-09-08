@@ -443,6 +443,238 @@ D. −4°C temperature drop
 
 ---
 
+## Complete PYQ Bank (Topic 9)
+
+**Q1. UPPCS Prelims 2025, Q22**
+
+With reference to **carrying capacity**, consider the following statements:
+
+1. Resource extraction should remain **above** the rate of regeneration.  
+2. Waste generation should stay within the environment's **absorption capacity**.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sustainable use requires extraction at or below regeneration and waste within absorption limits.
+
+**Ans: A.** Statement 2 is correct; statement 1 is wrong — extraction must be **at or below** regeneration, not above it.
+
+**Trap:** Statement 2 alone sounds incomplete — but statement 1 reverses the regeneration rule and makes "Both" wrong.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q61**
+
+Consider the following statements about **lichens**:
+
+1. Lichens are very good indicators of air pollution.  
+2. Lichens grow well in polluted areas.  
+
+A. 2 only  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bio-indicator sensitivity — lichens signal SO₂ pollution by declining, not thriving.
+
+**Ans: D.** Lichens are excellent pollution indicators but **die or disappear** in polluted air — they do not grow well there.
+
+**Trap:** Statement 1 is true and tempts "Both" — statement 2 is the classic reverse trap.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q70**
+
+The **Annual Groundwater Quality Report 2024** was prepared by which of the following?
+
+1. Central Pollution Control Board (CPCB)  
+2. Central Water Commission (CWC)  
+3. Central Ground Water Board (CGWB)  
+
+A. 1 and 2 only  
+B. 3 only  
+C. 2 and 3 only  
+D. 1 only  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Org–report matching — groundwater quality is CGWB's domain, not CPCB's air/water pollution mandate.
+
+**Ans: B.** The groundwater quality report is published by **CGWB only**.
+
+**Trap:** CPCB sets pollution standards but **does not** prepare the national groundwater quality report.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q19**
+
+Coral bleaching in the **Andaman & Nicobar** region was primarily caused by—
+
+A. Increased coastal industrial effluents alone  
+B. About **+2°C warming** of the Indian Ocean  
+C. Heavy marine plastic pollution alone  
+D. A **−4°C** drop in sea-surface temperature  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bleaching trigger is thermal stress on symbiotic zooxanthellae — warming, not cooling or pollution alone.
+
+**Ans: B.** Indian Ocean warming of about **+2°C** drove mass bleaching; pollution is a secondary stressor.
+
+**Trap:** **−4°C cooling** is physically opposite to bleaching mechanism — temperature **rise** expels algae.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2023, Q111**
+
+The **Water (Prevention and Control of Pollution) Act** was enacted in—
+
+A. 1974  
+B. 1981  
+C. 1986  
+D. 2000  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pollution law chronology — Water Act precedes Air Act and EPA in India's environmental statute stack.
+
+**Ans: A.** The Water Act was passed in **1974**; Air Act followed in **1981** and EPA in **1986**.
+
+**Trap:** **1981** is the Air Act — do not swap the two earliest pollution statutes.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022, Q46**
+
+**Photochemical smog** always contains—
+
+A. Phosphorus  
+B. Ozone  
+C. Methane  
+D. Aluminium ion  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Los Angeles-type smog is a secondary-pollution product — O₃ and PAN from NOx + VOCs in sunlight.
+
+**Ans: B.** Photochemical smog characteristically includes **ground-level ozone** (plus PAN and other oxidants).
+
+**Trap:** London smog is **SO₂ + smoke** — ozone chemistry defines photochemical, not primary stack gases alone.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q81**
+
+According to UNEP's **Frontier Report–2022**, which Indian city ranked as the **world's second most noise-polluted city**?
+
+A. Kota  
+B. Moradabad  
+C. Indore  
+D. Patna  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP noise hotspot from UNEP Frontier 2022 — brassware/industrial hub in western UP.
+
+**Ans: B.** **Moradabad (UP)** was flagged as the world's **second noisiest city** in Frontier Report 2022.
+
+**Trap:** Ghaziabad/Kanpur are air-pollution NCAP cities — **Moradabad** is the noise-specific PYQ city.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2021, Q15**
+
+Which of the following is the best **bio-indicator of air pollution**, especially sulphur dioxide?
+
+A. Moss on rocks in clean hills  
+B. Lichens  
+C. Mangrove pneumatophores  
+D. Deep-sea sponges  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard bio-indicator fact — lichens lack protective cuticle and die when SO₂ rises.
+
+**Ans: B.** **Lichens** are sensitive SO₂ bio-indicators and decline sharply in polluted air.
+
+**Trap:** Moss grows in clean environments too — lichens are the textbook **air-pollution indicator** pair.
+
+</details>
+
+---
+
+**Q9. UPSC pattern**
+
+The **Basel Convention (1989)** primarily deals with—
+
+A. Transboundary movement of hazardous wastes  
+B. Climate change mitigation commitments  
+C. Ozone-depleting substances phase-out  
+D. Wetland conservation (Ramsar sites)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Treaty-purpose matching — Basel is the hazardous-waste shipment control regime.
+
+**Ans: A.** Basel controls **international movement and disposal of hazardous wastes**; India ratified in 1992.
+
+**Trap:** Montreal = ozone; UNFCCC/Kyoto/Paris = climate — Basel is **waste movement**.
+
+</details>
+
+---
+
+**Q10. UPSC pattern**
+
+India ranks **how high globally** in **e-waste generation**?
+
+A. 1st  
+B. 2nd  
+C. 3rd  
+D. 5th  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India e-waste volume rank after China and the USA under E-waste Rules 2022 framing.
+
+**Ans: C.** India is the **3rd largest e-waste generator** globally after China and the USA.
+
+**Trap:** **1st** is a frequent overestimate — India is top-tier but **third**, not first.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questionsQ1.** With reference to pollution, which statements is/are correct?
@@ -1118,238 +1350,6 @@ D. All diseases = only SO₂ smell
 
 ---
 
-## Complete PYQ Bank (Topic 9)
-
-**Q1. UPPCS Prelims 2025, Q22**
-
-With reference to **carrying capacity**, consider the following statements:
-
-1. Resource extraction should remain **above** the rate of regeneration.  
-2. Waste generation should stay within the environment's **absorption capacity**.  
-
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sustainable use requires extraction at or below regeneration and waste within absorption limits.
-
-**Ans: A.** Statement 2 is correct; statement 1 is wrong — extraction must be **at or below** regeneration, not above it.
-
-**Trap:** Statement 2 alone sounds incomplete — but statement 1 reverses the regeneration rule and makes "Both" wrong.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q61**
-
-Consider the following statements about **lichens**:
-
-1. Lichens are very good indicators of air pollution.  
-2. Lichens grow well in polluted areas.  
-
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bio-indicator sensitivity — lichens signal SO₂ pollution by declining, not thriving.
-
-**Ans: D.** Lichens are excellent pollution indicators but **die or disappear** in polluted air — they do not grow well there.
-
-**Trap:** Statement 1 is true and tempts "Both" — statement 2 is the classic reverse trap.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q70**
-
-The **Annual Groundwater Quality Report 2024** was prepared by which of the following?
-
-1. Central Pollution Control Board (CPCB)  
-2. Central Water Commission (CWC)  
-3. Central Ground Water Board (CGWB)  
-
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Org–report matching — groundwater quality is CGWB's domain, not CPCB's air/water pollution mandate.
-
-**Ans: B.** The groundwater quality report is published by **CGWB only**.
-
-**Trap:** CPCB sets pollution standards but **does not** prepare the national groundwater quality report.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q19**
-
-Coral bleaching in the **Andaman & Nicobar** region was primarily caused by—
-
-A. Increased coastal industrial effluents alone  
-B. About **+2°C warming** of the Indian Ocean  
-C. Heavy marine plastic pollution alone  
-D. A **−4°C** drop in sea-surface temperature  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bleaching trigger is thermal stress on symbiotic zooxanthellae — warming, not cooling or pollution alone.
-
-**Ans: B.** Indian Ocean warming of about **+2°C** drove mass bleaching; pollution is a secondary stressor.
-
-**Trap:** **−4°C cooling** is physically opposite to bleaching mechanism — temperature **rise** expels algae.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2023, Q111**
-
-The **Water (Prevention and Control of Pollution) Act** was enacted in—
-
-A. 1974  
-B. 1981  
-C. 1986  
-D. 2000  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Pollution law chronology — Water Act precedes Air Act and EPA in India's environmental statute stack.
-
-**Ans: A.** The Water Act was passed in **1974**; Air Act followed in **1981** and EPA in **1986**.
-
-**Trap:** **1981** is the Air Act — do not swap the two earliest pollution statutes.
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2022, Q46**
-
-**Photochemical smog** always contains—
-
-A. Phosphorus  
-B. Ozone  
-C. Methane  
-D. Aluminium ion  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Los Angeles-type smog is a secondary-pollution product — O₃ and PAN from NOx + VOCs in sunlight.
-
-**Ans: B.** Photochemical smog characteristically includes **ground-level ozone** (plus PAN and other oxidants).
-
-**Trap:** London smog is **SO₂ + smoke** — ozone chemistry defines photochemical, not primary stack gases alone.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q81**
-
-According to UNEP's **Frontier Report–2022**, which Indian city ranked as the **world's second most noise-polluted city**?
-
-A. Kota  
-B. Moradabad  
-C. Indore  
-D. Patna  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP noise hotspot from UNEP Frontier 2022 — brassware/industrial hub in western UP.
-
-**Ans: B.** **Moradabad (UP)** was flagged as the world's **second noisiest city** in Frontier Report 2022.
-
-**Trap:** Ghaziabad/Kanpur are air-pollution NCAP cities — **Moradabad** is the noise-specific PYQ city.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2021, Q15**
-
-Which of the following is the best **bio-indicator of air pollution**, especially sulphur dioxide?
-
-A. Moss on rocks in clean hills  
-B. Lichens  
-C. Mangrove pneumatophores  
-D. Deep-sea sponges  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard bio-indicator fact — lichens lack protective cuticle and die when SO₂ rises.
-
-**Ans: B.** **Lichens** are sensitive SO₂ bio-indicators and decline sharply in polluted air.
-
-**Trap:** Moss grows in clean environments too — lichens are the textbook **air-pollution indicator** pair.
-
-</details>
-
----
-
-**Q9. UPSC pattern**
-
-The **Basel Convention (1989)** primarily deals with—
-
-A. Transboundary movement of hazardous wastes  
-B. Climate change mitigation commitments  
-C. Ozone-depleting substances phase-out  
-D. Wetland conservation (Ramsar sites)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Treaty-purpose matching — Basel is the hazardous-waste shipment control regime.
-
-**Ans: A.** Basel controls **international movement and disposal of hazardous wastes**; India ratified in 1992.
-
-**Trap:** Montreal = ozone; UNFCCC/Kyoto/Paris = climate — Basel is **waste movement**.
-
-</details>
-
----
-
-**Q10. UPSC pattern**
-
-India ranks **how high globally** in **e-waste generation**?
-
-A. 1st  
-B. 2nd  
-C. 3rd  
-D. 5th  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** India e-waste volume rank after China and the USA under E-waste Rules 2022 framing.
-
-**Ans: C.** India is the **3rd largest e-waste generator** globally after China and the USA.
-
-**Trap:** **1st** is a frequent overestimate — India is top-tier but **third**, not first.
-
-</details>
-
----
-
 ## Mains Answer Framework
 
 **Pollution and waste governance in India (250 words):** Define pollution vs degradation and carrying capacity. Media-wise controls — air (NCAP, AQI, CPCB standards), water (BOD/DO, Namami Gange, CGWB trap), soil, noise, thermal, marine, plastic. Legal stack Water 1974 → Air 1981 → EPA 1986. Waste streams — SWM 3R, BMW colour coding, hazardous waste + Basel, e-waste EPR. UP case — Kanpur Ganga, Gomti Lucknow, Ghaziabad air, Moradabad noise, Varanasi plastic. Conclude with EPR and source segregation as policy direction.
@@ -1382,52 +1382,3 @@ D. 5th
 | Bioremediation cleans all Cd/Pb | **Not** readily |
 | Green muffler = soil only | **Noise** tree belts |
 | Most important indoor = outdoor SO₂ | Often **radon** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~850 (was ~2200 old format) |
-| **Teaching blocks** | §9.1–9.14 (14 syllabus bullets) |
-| **Practice Zone** | 30 + Extra Drill Q31–Q40 |
-| **PYQ Bank** | 10 questions (2018–2025) |
-| **Common Traps** | 22 |
-| **Inline PYQs** | 2025 Q22, Q61, Q70; 2024 Q19 |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Environmental Pollution | §9.1 |
-| Environmental Degradation | §9.2 |
-| Air Pollution | §9.3 |
-| Water Pollution | §9.4 |
-| Soil Pollution | §9.5 |
-| Noise Pollution | §9.6 |
-| Radioactive Pollution | §9.7 |
-| Thermal Pollution | §9.8 |
-| Marine Pollution | §9.9 |
-| Plastic Pollution | §9.10 |
-| Solid Waste Management | §9.11 |
-| Biomedical Waste | §9.12 |
-| Hazardous Waste | §9.13 |
-| E-waste | §9.14 |
-
-### Topic boundaries
-
-- **Acid rain detail** — Topic 12 primary home; SO₂/NOx cause noted here only
-- **Climate change / GHGs** — Topic 10; thermal pollution linked briefly
-- **Environmental orgs full list** — Topic 16; CPCB/CGWB trap lives here
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q22 carrying capacity | §9.1 inline |
-| 2025 Q61 lichens | §9.3 inline |
-| 2025 Q70 CGWB | §9.4 inline |
-| 2024 Q19 coral bleaching | §9.9 inline |
-| 2023 Q111 Water Act | PYQ Bank Q5 |
-| 2022 photochemical smog | Practice Q7 |

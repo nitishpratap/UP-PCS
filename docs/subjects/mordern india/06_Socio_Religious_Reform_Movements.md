@@ -705,6 +705,179 @@ D. Neither 1 nor 2
 
 ---
 
+## Complete PYQ Bank (Topic 6)
+
+### UPPCS Prelims 2024
+
+**Q1. UPPCS Prelims 2024, Q17**
+
+With reference to the Age of Consent Act, 1891 consider the following statements:
+
+1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.
+2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
+
+Which of the above statements is/are correct?
+
+Options:
+A. Only 2
+B. Neither 1 nor 2
+C. Only 1
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Only 1** — Tilak opposed the Act.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q2. UPPCS Prelims 2023, Q44**
+
+With reference to **E. V. Ramaswami Naicker**, which of the following statement(s) is/are correct?
+
+1. He participated in the Non-Cooperation Movement.
+2. He left the Indian National Congress in 1925.
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Both 1 and 2**
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q3. UPPCS Prelims 2022, Q1**
+
+Jyotiba Phule was associated with—
+
+Options:
+A. Civil Disobedience Movement
+B. Trade Union Movement
+C. Anti-caste Movement
+D. Peasant Movement
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Anti-caste Movement**
+
+</details>
+
+**Q4. UPPCS Prelims 2022, Q18**
+
+Which one of the following is correctly matched?
+
+Options:
+A. Radhaswami Satsang — Lahore
+B. Bharat Dharma Mahamandal — Delhi
+C. Sanatan Dharma Rakshini Sabha — Calcutta
+D. Deva Samaj — Banaras
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Radhasoami = Agra; Bharat Dharma Mahamandal = Varanasi; Deva Samaj = Lahore.
+
+</details>
+
+**Q5. UPPCS Prelims 2022, Q84**
+
+Who was the founder of **'Satyashodhak Samaj'**, having its primary emphasis on the seeking of truth?
+
+Options:
+A. Tarabai Shinde
+B. M. G. Ranade
+C. Jyotiba Phule
+D. Raja Ram Mohan Roy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Jyotiba Phule**
+
+</details>
+
+**Q6. UPPCS Prelims 2022, Q90**
+
+Match List-I with List-II and select the correct answer from the code given below.
+
+**List-I (Person)**
+A. D. K. Karve
+B. J. E. D. Bethune
+C. Ishwar Chandra Vidyasagar
+D. B. M. Malabari
+
+**List-II (Associated Work/Post)**
+1. Establishment of Girls School in Calcutta
+2. Secretary, Widow Remarriage Association
+3. Starting a crusade against child marriage
+4. Principal of Sanskrit College in Calcutta
+
+Options:
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-4, D-3
+C. A-2, B-1, C-3, D-4
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 2, 1, 4, 3.
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q7. UPPCS Prelims 2019, Q17**
+
+In which year was the 'Native Marriage Act' passed?
+
+A. 1870
+
+B. 1872
+
+C. 1874
+
+D. 1876
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 1872**
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Asks who started reform in Bombay — the earliest body outranks the better-known later one.
+
+**Q. UKPCS Prelims 2025, Q67**
+
+The religious reforms in Bombay were started by whom?
+
+A. Prarthna Samaj
+B. Deoband School
+C. Brahmo Samaj
+D. Paramhans Mandali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Paramhans Mandali (1849) was the first organised religious reform body in Bombay. Prarthana Samaj (1867) is the frequent later confusion.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **50 questions.Q1.** Jyotiba Phule was associated with—
@@ -1771,179 +1944,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: D**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 6)
-
-### UPPCS Prelims 2024
-
-**Q1. UPPCS Prelims 2024, Q17**
-
-With reference to the Age of Consent Act, 1891 consider the following statements:
-
-1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.
-2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
-
-Which of the above statements is/are correct?
-
-Options:
-A. Only 2
-B. Neither 1 nor 2
-C. Only 1
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Only 1** — Tilak opposed the Act.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q2. UPPCS Prelims 2023, Q44**
-
-With reference to **E. V. Ramaswami Naicker**, which of the following statement(s) is/are correct?
-
-1. He participated in the Non-Cooperation Movement.
-2. He left the Indian National Congress in 1925.
-
-Options:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both 1 and 2**
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q3. UPPCS Prelims 2022, Q1**
-
-Jyotiba Phule was associated with—
-
-Options:
-A. Civil Disobedience Movement
-B. Trade Union Movement
-C. Anti-caste Movement
-D. Peasant Movement
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Anti-caste Movement**
-
-</details>
-
-**Q4. UPPCS Prelims 2022, Q18**
-
-Which one of the following is correctly matched?
-
-Options:
-A. Radhaswami Satsang — Lahore
-B. Bharat Dharma Mahamandal — Delhi
-C. Sanatan Dharma Rakshini Sabha — Calcutta
-D. Deva Samaj — Banaras
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Radhasoami = Agra; Bharat Dharma Mahamandal = Varanasi; Deva Samaj = Lahore.
-
-</details>
-
-**Q5. UPPCS Prelims 2022, Q84**
-
-Who was the founder of **'Satyashodhak Samaj'**, having its primary emphasis on the seeking of truth?
-
-Options:
-A. Tarabai Shinde
-B. M. G. Ranade
-C. Jyotiba Phule
-D. Raja Ram Mohan Roy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Jyotiba Phule**
-
-</details>
-
-**Q6. UPPCS Prelims 2022, Q90**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Person)**
-A. D. K. Karve
-B. J. E. D. Bethune
-C. Ishwar Chandra Vidyasagar
-D. B. M. Malabari
-
-**List-II (Associated Work/Post)**
-1. Establishment of Girls School in Calcutta
-2. Secretary, Widow Remarriage Association
-3. Starting a crusade against child marriage
-4. Principal of Sanskrit College in Calcutta
-
-Options:
-A. A-1, B-2, C-4, D-3
-B. A-2, B-1, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 2, 1, 4, 3.
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q7. UPPCS Prelims 2019, Q17**
-
-In which year was the 'Native Marriage Act' passed?
-
-A. 1870
-
-B. 1872
-
-C. 1874
-
-D. 1876
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1872**
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Asks who started reform in Bombay — the earliest body outranks the better-known later one.
-
-**Q. UKPCS Prelims 2025, Q67**
-
-The religious reforms in Bombay were started by whom?
-
-A. Prarthna Samaj
-B. Deoband School
-C. Brahmo Samaj
-D. Paramhans Mandali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Series B provisional key).** Paramhans Mandali (1849) was the first organised religious reform body in Bombay. Prarthana Samaj (1867) is the frequent later confusion.
 
 </details>
 

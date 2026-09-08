@@ -1184,6 +1184,336 @@ D. I, II, III, IV
 
 ---
 
+## Complete PYQ Bank (Topic 2)
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q26**
+
+Consider the following wars and arrange them in correct chronological order.
+
+1. First Anglo-Mysore War
+2. Second Anglo-French War
+3. First Anglo-Sikh War
+4. First Anglo-Afghan War
+
+A. 2, 1, 4, 3
+
+B. 1, 2, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 2, 1, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 2nd Anglo-French (c.1749–54) → 1st Mysore (1767–69) → 1st Afghan (1839–42) → 1st Sikh (1845–46).
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q40**
+
+Match List-I with List-II:
+
+**List-I** A. Lord Dalhousie B. Lord Curzon C. Lord William Bentinck D. Lord Cornwallis
+**List-II** 1. Permanent Settlement of Bengal 2. Prohibition of Practice of Sati 3. Partition of Bengal 4. Doctrine of Lapse
+
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Lapse = Dalhousie. Other three pairs are Governor-General / reform facts.
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q114**
+
+Which of the following sites were obtained by the British East India Company under the Treaty of Sugauli in 1816?
+
+1. Kathmandu
+2. Shimla
+3. Ranikhet
+4. Nainital
+
+A. 1 and 2
+
+B. Only 3 and 4
+
+C. 2, 3 and 4
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Not Kathmandu.
+
+</details>
+
+**Q4. UPPCS Prelims 2025, Q149**
+
+Arrange the following in chronological order of their rule:
+
+1. Bajirao I
+2. Balaji Bajirao
+3. Balaji Vishwanath
+4. Madhav Rao I
+
+A. 1, 3, 2, 4
+
+B. 3, 1, 4, 2
+
+C. 3, 1, 2, 4
+
+D. 1, 3, 4, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q5. UPPCS Prelims 2024, Q1**
+
+Consider the following Peshwas and arrange them in ascending chronological order:
+
+1. Raghunath Rao (Raghoba)
+2. Balaji Baji Rao
+3. Narayan Rao
+4. Balaji Vishwanath
+
+A. 4, 2, 3, 1
+
+B. 3, 4, 1, 2
+
+C. 1, 2, 3, 4
+
+D. 1, 3, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q6. UPPCS Prelims 2024, Q137**
+
+Consider the following events and arrange them in chronological order starting from the earliest:
+
+1. Vellore Mutiny
+2. Death of Nana Fadnavis
+3. Recall of Wellesley
+4. Anglo-Nepalese War
+
+A. 2, 3, 1, 4
+
+B. 4, 1, 3, 2
+
+C. 2, 3, 4, 1
+
+D. 3, 1, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1800 → 1805 → 1806 → 1814–16.
+
+</details>
+
+**Q7. UPPCS Prelims 2024, Q148**
+
+Consider the following statements:
+
+1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
+2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Lapse rejected the heir. Stmt 1 = 1857.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q8. UPPCS Prelims 2023, Q35**
+
+Consider the reign of the following Peshwas and arrange them in chronological order—
+
+(I) Balaji Vishwanath
+(II) Bajirao I
+(III) Narayan Rao
+(IV) Madhav Rao I
+
+A. I, III, II, IV
+
+B. I, II, III, IV
+
+C. II, I, IV, III
+
+D. I, II, IV, III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q9. UPPCS Prelims 2022, Q64**
+
+Consider the following events and arrange them in chronological order.
+
+I. Battle of Mudki
+II. Battle of Porto Novo
+III. Battle of Shakarkheda
+IV. Battle of Bedara
+
+A. II, III, IV, I
+
+B. III, IV, II, I
+
+C. IV, III, II, I
+
+D. I, II, III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Shakarkheda **1724** (Nizam vs Mubariz Khan) → Bedara **1759** (English vs Dutch) → Porto Novo **1781** (2nd Mysore) → Mudki **1845** (1st Sikh). Code **III, IV, II, I**.
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q10. UPPCS Prelims 2021, Q67**
+
+At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
+
+A. Amritsar
+
+B. Lahore
+
+C. Firozpur
+
+D. Multan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Lahore**
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q11. UPPCS Prelims 2020, Q28**
+
+Who among the following established a modem armoury in Dindigal Mysore in 1755?
+
+A. Nanjraj
+
+B. Haider Ali
+
+C. Devraj
+
+D. Chikka Krishnaraj
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q12. UPPCS Prelims 2019, Q22**
+
+Assertion (A): The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
+
+Reason (R): Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Society **1784**, Jones president; Hastings declined. R explains why he backed Jones. (*Paper spelling “Ambic” = Arabic.*)
+
+</details>
+
+**Q13. UPPCS Prelims 2019, Q93**
+
+Match List-I with List-II:
+
+**List-I** A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
+**List-II** 1. 1782 2. 1784 3. 1769 4. 1765
+
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q14. UPPCS Prelims 2018, Q93**
+
+The Maratha claim of revenue for protection is known by what name?
+
+A. Sardesh Mukhi
+
+B. Chauth
+
+C. Abwab
+
+D. Jamadani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Chauth**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **52 questions.** ≥60% multi-statement. Includes A/R, Match-List, chronology, NOT-matched.
@@ -2349,336 +2679,6 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <summary>Show answer</summary>
 
 **Ans: D** — Same chronology spine as 2024 Q137.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 2)
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q26**
-
-Consider the following wars and arrange them in correct chronological order.
-
-1. First Anglo-Mysore War
-2. Second Anglo-French War
-3. First Anglo-Sikh War
-4. First Anglo-Afghan War
-
-A. 2, 1, 4, 3
-
-B. 1, 2, 3, 4
-
-C. 1, 2, 4, 3
-
-D. 2, 1, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2nd Anglo-French (c.1749–54) → 1st Mysore (1767–69) → 1st Afghan (1839–42) → 1st Sikh (1845–46).
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q40**
-
-Match List-I with List-II:
-
-**List-I** A. Lord Dalhousie B. Lord Curzon C. Lord William Bentinck D. Lord Cornwallis
-**List-II** 1. Permanent Settlement of Bengal 2. Prohibition of Practice of Sati 3. Partition of Bengal 4. Doctrine of Lapse
-
-A. 4 3 1 2
-
-B. 3 4 2 1
-
-C. 3 4 1 2
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Lapse = Dalhousie. Other three pairs are Governor-General / reform facts.
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q114**
-
-Which of the following sites were obtained by the British East India Company under the Treaty of Sugauli in 1816?
-
-1. Kathmandu
-2. Shimla
-3. Ranikhet
-4. Nainital
-
-A. 1 and 2
-
-B. Only 3 and 4
-
-C. 2, 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Not Kathmandu.
-
-</details>
-
-**Q4. UPPCS Prelims 2025, Q149**
-
-Arrange the following in chronological order of their rule:
-
-1. Bajirao I
-2. Balaji Bajirao
-3. Balaji Vishwanath
-4. Madhav Rao I
-
-A. 1, 3, 2, 4
-
-B. 3, 1, 4, 2
-
-C. 3, 1, 2, 4
-
-D. 1, 3, 4, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q5. UPPCS Prelims 2024, Q1**
-
-Consider the following Peshwas and arrange them in ascending chronological order:
-
-1. Raghunath Rao (Raghoba)
-2. Balaji Baji Rao
-3. Narayan Rao
-4. Balaji Vishwanath
-
-A. 4, 2, 3, 1
-
-B. 3, 4, 1, 2
-
-C. 1, 2, 3, 4
-
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6. UPPCS Prelims 2024, Q137**
-
-Consider the following events and arrange them in chronological order starting from the earliest:
-
-1. Vellore Mutiny
-2. Death of Nana Fadnavis
-3. Recall of Wellesley
-4. Anglo-Nepalese War
-
-A. 2, 3, 1, 4
-
-B. 4, 1, 3, 2
-
-C. 2, 3, 4, 1
-
-D. 3, 1, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1800 → 1805 → 1806 → 1814–16.
-
-</details>
-
-**Q7. UPPCS Prelims 2024, Q148**
-
-Consider the following statements:
-
-1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
-2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Lapse rejected the heir. Stmt 1 = 1857.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q8. UPPCS Prelims 2023, Q35**
-
-Consider the reign of the following Peshwas and arrange them in chronological order—
-
-(I) Balaji Vishwanath
-(II) Bajirao I
-(III) Narayan Rao
-(IV) Madhav Rao I
-
-A. I, III, II, IV
-
-B. I, II, III, IV
-
-C. II, I, IV, III
-
-D. I, II, IV, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q9. UPPCS Prelims 2022, Q64**
-
-Consider the following events and arrange them in chronological order.
-
-I. Battle of Mudki
-II. Battle of Porto Novo
-III. Battle of Shakarkheda
-IV. Battle of Bedara
-
-A. II, III, IV, I
-
-B. III, IV, II, I
-
-C. IV, III, II, I
-
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Shakarkheda **1724** (Nizam vs Mubariz Khan) → Bedara **1759** (English vs Dutch) → Porto Novo **1781** (2nd Mysore) → Mudki **1845** (1st Sikh). Code **III, IV, II, I**.
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q10. UPPCS Prelims 2021, Q67**
-
-At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
-
-A. Amritsar
-
-B. Lahore
-
-C. Firozpur
-
-D. Multan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Lahore**
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q11. UPPCS Prelims 2020, Q28**
-
-Who among the following established a modem armoury in Dindigal Mysore in 1755?
-
-A. Nanjraj
-
-B. Haider Ali
-
-C. Devraj
-
-D. Chikka Krishnaraj
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q12. UPPCS Prelims 2019, Q22**
-
-Assertion (A): The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
-
-Reason (R): Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Society **1784**, Jones president; Hastings declined. R explains why he backed Jones. (*Paper spelling “Ambic” = Arabic.*)
-
-</details>
-
-**Q13. UPPCS Prelims 2019, Q93**
-
-Match List-I with List-II:
-
-**List-I** A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
-**List-II** 1. 1782 2. 1784 3. 1769 4. 1765
-
-A. 4 2 3 1
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q14. UPPCS Prelims 2018, Q93**
-
-The Maratha claim of revenue for protection is known by what name?
-
-A. Sardesh Mukhi
-
-B. Chauth
-
-C. Abwab
-
-D. Jamadani
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Chauth**
 
 </details>
 

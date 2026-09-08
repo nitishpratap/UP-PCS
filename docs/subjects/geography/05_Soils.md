@@ -736,6 +736,158 @@ D. Hoshangabad, Madhya Pradesh
 
 ---
 
+## Complete PYQ Bank
+
+> **Coverage:** 7 UPPCS Prelims hits (2018–2025) including earthworms fertility fact — grouped **2025 → 2018**.
+
+**Q1. UPPCS Prelims 2025, Q63**
+With reference to Brazil, which of the following statements is/are correct?
+
+1. The equatorial rainforests of Brazil are called "Selva".
+2. The fertile dark-coloured soil found there is known as "Terra Roxa".
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Majority keys treat both as correct. Selva = Brazilian rainforests; Terra Roxa = fertile basaltic coffee soil.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q73**
+With reference to earthworms, which of the following statements is/are correct?
+
+1. Earthworms increase soil fertility and are known as friends of farmers.
+2. Earthworms have two pairs of hearts.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Only statement 1 is correct. Earthworms aid fertility ("friends of farmers"); they have five pairs of aortic arches (hearts), not two.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2023, Q51**
+Which of the following statements is correct about Laterite Soil?
+
+1. This soil is developed in areas with high temperature and heavy rainfall.
+2. It is poor in iron oxide and aluminium.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Laterite is **rich** in Fe/Al oxides; statement 2 is false.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2022, Q25**
+Match List-I with List-II and select the correct answer from the code given below.
+| List-I (Day) | List-II (Event) |
+|---|---|
+| A. April 18 | 1. International Tiger Day |
+| B. May 22 | 2. World Heritage Day |
+| C. July 29 | 3. World Soil Day |
+| D. December 5 | 4. International Day of Biodiversity |
+
+A. 4, 3, 2, 1
+
+B. 1, 2, 3, 4
+
+C. 2, 4, 1, 3
+
+D. 3, 2, 1, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — April 18 = World Heritage Day (2); May 22 = Biodiversity (4); July 29 = Tiger Day (1); **5 December = World Soil Day (3)** → code **2, 4, 1, 3**.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2020, Q81**
+Where was the Mitti Bachao (Save the Soil) Movement started in India?
+
+A. Thane, Maharashtra
+
+B. Mysore, Karnataka
+
+C. Darbhanga, Bihar
+
+D. Hoshangabad, Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Hoshangabad (Narmadapuram), Madhya Pradesh.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2018, Q31**
+Which of the following statements is NOT correct?
+
+A. Black soil is locally called 'regur'
+
+B. According to Krabs the regur soil is essentially a mature soil
+
+C. Black soils are highly retentive to moisture
+
+D. Black soil is found in Himalayan region
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Black/regur soils belong to the Deccan Trap region, not the Himalaya.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2018, Q51**
+Which of the following is concerned with soil?
+
+A. Edaphic
+
+B. Climatic
+
+C. Biotic
+
+D. Topography
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Edaphic = soil-related environmental factor.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -2235,158 +2387,6 @@ D. 1, 2 and 3
 **Logic:** IAS 2017 — moisture conserve + pan break + residue mulch; all three help.
 
 **Ans: D** — Zero tillage, gypsum before irrigation, and residue cover all aid water use. **A/B/C** drop a true practice.
-</details>
-
----
-
-## Complete PYQ Bank
-
-> **Coverage:** 7 UPPCS Prelims hits (2018–2025) including earthworms fertility fact — grouped **2025 → 2018**.
-
-**Q1. UPPCS Prelims 2025, Q63**
-With reference to Brazil, which of the following statements is/are correct?
-
-1. The equatorial rainforests of Brazil are called "Selva".
-2. The fertile dark-coloured soil found there is known as "Terra Roxa".
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Majority keys treat both as correct. Selva = Brazilian rainforests; Terra Roxa = fertile basaltic coffee soil.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q73**
-With reference to earthworms, which of the following statements is/are correct?
-
-1. Earthworms increase soil fertility and are known as friends of farmers.
-2. Earthworms have two pairs of hearts.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Only statement 1 is correct. Earthworms aid fertility ("friends of farmers"); they have five pairs of aortic arches (hearts), not two.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2023, Q51**
-Which of the following statements is correct about Laterite Soil?
-
-1. This soil is developed in areas with high temperature and heavy rainfall.
-2. It is poor in iron oxide and aluminium.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Laterite is **rich** in Fe/Al oxides; statement 2 is false.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2022, Q25**
-Match List-I with List-II and select the correct answer from the code given below.
-| List-I (Day) | List-II (Event) |
-|---|---|
-| A. April 18 | 1. International Tiger Day |
-| B. May 22 | 2. World Heritage Day |
-| C. July 29 | 3. World Soil Day |
-| D. December 5 | 4. International Day of Biodiversity |
-
-A. 4, 3, 2, 1
-
-B. 1, 2, 3, 4
-
-C. 2, 4, 1, 3
-
-D. 3, 2, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — April 18 = World Heritage Day (2); May 22 = Biodiversity (4); July 29 = Tiger Day (1); **5 December = World Soil Day (3)** → code **2, 4, 1, 3**.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2020, Q81**
-Where was the Mitti Bachao (Save the Soil) Movement started in India?
-
-A. Thane, Maharashtra
-
-B. Mysore, Karnataka
-
-C. Darbhanga, Bihar
-
-D. Hoshangabad, Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Hoshangabad (Narmadapuram), Madhya Pradesh.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2018, Q31**
-Which of the following statements is NOT correct?
-
-A. Black soil is locally called 'regur'
-
-B. According to Krabs the regur soil is essentially a mature soil
-
-C. Black soils are highly retentive to moisture
-
-D. Black soil is found in Himalayan region
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Black/regur soils belong to the Deccan Trap region, not the Himalaya.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2018, Q51**
-Which of the following is concerned with soil?
-
-A. Edaphic
-
-B. Climatic
-
-C. Biotic
-
-D. Topography
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Edaphic = soil-related environmental factor.
 </details>
 
 ---

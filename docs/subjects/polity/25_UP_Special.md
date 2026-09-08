@@ -453,6 +453,20 @@ Newest first. One event, one fact.
 
 ---
 
+## Complete PYQ Bank (Topic 25)
+
+**UPPCS Prelims 2023, Q14** — UP in Parliament: RS **31** and LS **80**. **Ans: C — Both.UPPCS Prelims 2022, Q14** — LA strengths, NOT matched: **Manipur — 62** (actual **60**). UP **403** and Uttarakhand **70** are right.
+
+**UPPCS Prelims 2023, Q13** — LC not more than 1/3 of LA **and** at least 40. **Both true** (Art. 171). UP’s own House is **100**.
+
+**UPPCS Prelims 2018, Q148** — Which cannot be dissolved but can be abolished? **Legislative Council.UPPCS Prelims 2021, Q133** — UPPSC functions extended by **Uttar Pradesh State Legislature**. **Ans: D.UPPCS Prelims 2023, Q17** — All elections to the Panchayats are conducted by the **State Election Commission**. Not ECI. Not a “Panchayati Raj Commission of India.”
+
+**UPPCS Prelims 2020, Q100** — Superintendence, direction and control of all elections to the Panchayats are vested in the **State Election Commission** (not the Governor, not the ECI, not the District PRO).
+
+**UPPCS Prelims 2021, Q81** — SPSC member removed by **President after SC enquiry**.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **155 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -2555,20 +2569,6 @@ D. The State Election Commission
 **Ans: D** — 2020 Q100 / 2023 Q17.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 25)
-
-**UPPCS Prelims 2023, Q14** — UP in Parliament: RS **31** and LS **80**. **Ans: C — Both.UPPCS Prelims 2022, Q14** — LA strengths, NOT matched: **Manipur — 62** (actual **60**). UP **403** and Uttarakhand **70** are right.
-
-**UPPCS Prelims 2023, Q13** — LC not more than 1/3 of LA **and** at least 40. **Both true** (Art. 171). UP’s own House is **100**.
-
-**UPPCS Prelims 2018, Q148** — Which cannot be dissolved but can be abolished? **Legislative Council.UPPCS Prelims 2021, Q133** — UPPSC functions extended by **Uttar Pradesh State Legislature**. **Ans: D.UPPCS Prelims 2023, Q17** — All elections to the Panchayats are conducted by the **State Election Commission**. Not ECI. Not a “Panchayati Raj Commission of India.”
-
-**UPPCS Prelims 2020, Q100** — Superintendence, direction and control of all elections to the Panchayats are vested in the **State Election Commission** (not the Governor, not the ECI, not the District PRO).
-
-**UPPCS Prelims 2021, Q81** — SPSC member removed by **President after SC enquiry**.
 
 ---
 

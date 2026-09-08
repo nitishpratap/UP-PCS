@@ -537,6 +537,20 @@ Newest first. One event, one fact.
 
 ---
 
+## Complete PYQ Bank (Topic 22)
+
+Direct 2018–2025 stems on “constitutional morality / Dicey’s third limb / due process vs procedure” did **not** show in the local dump. Neighbouring homes:
+
+**UPPCS Prelims 2025, Q47** — PIL essential for Rule of Law / weaker-section access. **Ans: D** (both true, R explains A).
+
+**Preamble arithmetic / 42nd words / Federal / enforceability:** 2018 Q65 (3-5-2-1); 2021 Q49 (Federal not there); 2025 Q56 (Socialist + Secular, not Sovereignty/Republic); 2019 Q107 (Preamble not enforceable).
+
+**UPPCS Prelims 2018, Q143** — DPSP classified Socialist / Gandhian / Liberal-intellectual. **Ans: D all.UPPCS Prelims 2024, Q101** — 14 = all persons; 16 = citizens; renaming a State ≠ State legislature.
+
+If a 2026 paper prints *Gopalan vs Maneka*, Dicey-three, positive secularism, or “India has parliamentary sovereignty”, it belongs **here**.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **140 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -2454,20 +2468,6 @@ D. Art. 21’s Japan clause
 **Ans: B**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 22)
-
-Direct 2018–2025 stems on “constitutional morality / Dicey’s third limb / due process vs procedure” did **not** show in the local dump. Neighbouring homes:
-
-**UPPCS Prelims 2025, Q47** — PIL essential for Rule of Law / weaker-section access. **Ans: D** (both true, R explains A).
-
-**Preamble arithmetic / 42nd words / Federal / enforceability:** 2018 Q65 (3-5-2-1); 2021 Q49 (Federal not there); 2025 Q56 (Socialist + Secular, not Sovereignty/Republic); 2019 Q107 (Preamble not enforceable).
-
-**UPPCS Prelims 2018, Q143** — DPSP classified Socialist / Gandhian / Liberal-intellectual. **Ans: D all.UPPCS Prelims 2024, Q101** — 14 = all persons; 16 = citizens; renaming a State ≠ State legislature.
-
-If a 2026 paper prints *Gopalan vs Maneka*, Dicey-three, positive secularism, or “India has parliamentary sovereignty”, it belongs **here**.
 
 ---
 

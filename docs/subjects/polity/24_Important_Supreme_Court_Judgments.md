@@ -680,6 +680,18 @@ D. Gopi Aqua vs. Union of India
 
 ---
 
+## Complete PYQ Bank (Topic 24)
+
+**UPPCS Prelims 2024, Q126** — chronology: *Shankari Prasad* → *Sajjan Singh* → *Golaknath* → *Kesavananda*. **Ans: C (1, 2, 3, 4).UPPCS Prelims 2021, Q42** — *Golaknath* → 24th Amd → *Kesavananda* → 42nd Amd. **Ans: A.UPPCS Prelims 2022, Q37** — Basic Structure propounded in ***Kesavananda Bharati* 1973**. Distractors: *Golaknath* 1967, *Chitralekha* 1964, *Yusuf* 1954.
+
+**UPPCS Prelims 2020, Q120** — same fact: **Keshavanand Bharati 1973**, not Golaknath / Shankari / Sajjan.
+
+**UPPCS Prelims 2018, Q79** — Supreme Court’s homosexuality judgment is related to— **s.377 of the IPC**, not Article 377 / 277.
+
+Tenth Schedule as a *schedule-match* (2023/2025) is the Schedule list, not the *Kihoto* holding — but the holding is: Schedule **valid**, Speaker **reviewable**.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **150 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -2753,18 +2765,6 @@ D. 103rd
 **Ans: C**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 24)
-
-**UPPCS Prelims 2024, Q126** — chronology: *Shankari Prasad* → *Sajjan Singh* → *Golaknath* → *Kesavananda*. **Ans: C (1, 2, 3, 4).UPPCS Prelims 2021, Q42** — *Golaknath* → 24th Amd → *Kesavananda* → 42nd Amd. **Ans: A.UPPCS Prelims 2022, Q37** — Basic Structure propounded in ***Kesavananda Bharati* 1973**. Distractors: *Golaknath* 1967, *Chitralekha* 1964, *Yusuf* 1954.
-
-**UPPCS Prelims 2020, Q120** — same fact: **Keshavanand Bharati 1973**, not Golaknath / Shankari / Sajjan.
-
-**UPPCS Prelims 2018, Q79** — Supreme Court’s homosexuality judgment is related to— **s.377 of the IPC**, not Article 377 / 277.
-
-Tenth Schedule as a *schedule-match* (2023/2025) is the Schedule list, not the *Kihoto* holding — but the holding is: Schedule **valid**, Speaker **reviewable**.
 
 ---
 

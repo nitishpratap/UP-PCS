@@ -245,6 +245,28 @@ D. Bodhgaya
 
 ---
 
+## Complete PYQ Bank (Topic 12)
+
+**UPPCS Prelims 2022, Q80**
+
+In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
+
+A. Nagarjunakonda
+B. Ghantasala
+C. Amaravati
+D. Bodhgaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Amaravati.**
+
+</details>
+
+**Related, not banked as sculpture-primary:** 2025 Q87 IVC-UP sites (Topic 10). 2018 temple chronology (architecture). 2018 Hathigumpha = Kharavela (inscription). 2021 Tirthankara list (Topic 2).
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -961,28 +983,6 @@ D. (A) is false, but (R) is true
 **Ans: C.** Same age, different stone and region.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 12)
-
-**UPPCS Prelims 2022, Q80**
-
-In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
-
-A. Nagarjunakonda
-B. Ghantasala
-C. Amaravati
-D. Bodhgaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Amaravati.**
-
-</details>
-
-**Related, not banked as sculpture-primary:** 2025 Q87 IVC-UP sites (Topic 10). 2018 temple chronology (architecture). 2018 Hathigumpha = Kharavela (inscription). 2021 Tirthankara list (Topic 2).
 
 ---
 

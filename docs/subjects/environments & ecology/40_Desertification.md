@@ -173,6 +173,195 @@ Options: A. Pliocene B. Paleocene C. Pleistocene and recent deposits D. Oligocen
 
 ---
 
+## Complete PYQ Bank (Topic 40)
+
+**Logic:** SDG 15.3 Land Degradation Neutrality target year for India is 2030.
+
+**Q1. UPPCS Prelims 2019, Q42**
+
+India aims to achieve land degradation neutrality by the year
+
+A. 2025
+B. 2030
+C. 2035
+D. 2040
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **LDN by 2030** under SDG 15.3 / UNCCD framing. **Trap:** 2025 or 2040 as round-number distractors.
+
+</details>
+
+**Logic:** Chronology of rural employment/welfare programmes — CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979.
+
+**Q2. UPPCS Prelims 2025, Q134**
+
+Arrange the following chronologically:
+
+1. Food for Work Programme
+2. Community Development Programme
+3. Training of Rural Youth for Self-Employment (TRYSEM)
+4. Drought Prone Areas Programme (DPAP)
+
+A. 4, 2, 3, 1
+B. 2, 4, 1, 3
+C. 2, 4, 3, 1
+D. 4, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Order: **CDP (1952) → DPAP (1973) → Food for Work (1977) → TRYSEM (1979)**. **Trap:** Placing DPAP before CDP or TRYSEM before Food for Work.
+
+</details>
+
+**Logic:** Thar desert surficial deposits — Pleistocene and recent, not Paleocene/Oligocene alone.
+
+**Q3. UPPCS Prelims 2018, Q101**
+
+Thar / Rajasthan desert expanse is mainly of:
+
+A. Pliocene
+B. Paleocene
+C. Pleistocene and recent deposits
+D. Oligocene
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Thar cover is **Pleistocene + recent** aeolian/alluvial material. **Trap:** Picking older Tertiary epochs as “desert = ancient only.”
+
+</details>
+
+**Logic:** UNCCD adopted 1994; Desertification and Drought Day is 17 June.
+
+**Q4. UPPCS Prelims (pattern)**
+
+The UN Convention to Combat Desertification (UNCCD) was adopted in:
+
+A. 1994
+B. 1972
+C. 1987
+D. 2015
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **UNCCD adopted 17 June 1994** (Paris); in force 1996. **Trap:** Confusing with Rio 1992 or UNFCCC alone.
+
+</details>
+
+**Logic:** Desertification is productivity loss in ASDM drylands — not merely sand-dune expansion.
+
+**Q5. UPPCS Prelims (pattern)**
+
+Desertification, under UN definition, means:
+
+A. Land degradation in arid, semi-arid, and dry sub-humid areas
+B. Only physical expansion of the Thar sand sea eastward
+C. Any bare patch in a humid rainforest
+D. Permanent ocean acidification
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **ASDM dryland** productivity loss from climate + human pressure. **Trap:** “Desertification = dunes moving only.”
+
+</details>
+
+**Logic:** Water erosion stages — sheet → rill → gully → ravine; Chambal is the classic ravine belt.
+
+**Q6. UPPCS Prelims (pattern)**
+
+The correct sequence of water erosion stages is:
+
+A. Sheet → rill → gully → ravine
+B. Ravine → sheet → gully → rill
+C. Gully → sheet only
+D. Wind abrasion → BOD assay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Thin **sheet** loss → **rill** channels → **gullies** → deep **ravines** (Chambal badlands). **Trap:** Reversing ravine and sheet.
+
+</details>
+
+**Logic:** Afforestation and shelter belts prevent erosion — they are mitigation, not causes of degradation.
+
+**Q7. UPPCS Prelims (pattern)**
+
+Which of the following helps **prevent** land degradation?
+
+A. Afforestation and shelter belts
+B. Overgrazing
+C. Unchecked clear-felling
+D. Improper irrigation without drainage (salinization)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Afforestation** stabilises soil; overgrazing and salinization **cause** degradation. **Trap:** Statement stems that list afforestation as a “cause.”
+
+</details>
+
+**Logic:** Overgrazing is the leading human driver of dryland desertification in standard teaching.
+
+**Q8. UPPCS Prelims (pattern)**
+
+The leading human cause of desertification in drylands is often:
+
+A. Overgrazing
+B. Contour bunding
+C. Check dams
+D. Watershed management
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Overgrazing** removes cover → erosion; conservation structures are responses. **Trap:** Picking a conservation measure as the “cause.”
+
+</details>
+
+**Logic:** Bundelkhand spans seven UP districts — drought and degradation hotspot linked to desertification risk.
+
+**Q9. UPPCS Prelims (pattern)**
+
+Bundelkhand in Uttar Pradesh, often cited for drought stress, includes about how many UP districts in standard lists?
+
+A. Seven
+B. Seventy
+C. Two
+D. Zero
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Seven districts** — Jhansi, Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot. **Trap:** Treating Bundelkhand as only Rajasthan.
+
+</details>
+
+**Logic:** Meteorological drought — rainfall well below long-period average (IMD often uses <75% LPA as severe marker).
+
+**Q10. UPPCS Prelims (pattern)**
+
+Meteorological drought is commonly indicated when rainfall falls to about:
+
+A. Less than 75% of the long-period average
+B. More than 150% of LPA always
+C. Exactly 100% of LPA only
+D. Zero rainfall for one hour
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **<75% LPA** is a standard severe meteorological drought marker. **Trap:** Confusing meteorological with agricultural soil-moisture drought only.
+
+</details>
+
+---
+
 ## Practice Zone
 
 **Q1.** Desertification occurs in:
@@ -478,195 +667,6 @@ Options: A. Desertification=ASDM; LDN=2030; UNCCD=1994; DPAP=1973; sheet→ravin
 
 ---
 
-## Complete PYQ Bank (Topic 40)
-
-**Logic:** SDG 15.3 Land Degradation Neutrality target year for India is 2030.
-
-**Q1. UPPCS Prelims 2019, Q42**
-
-India aims to achieve land degradation neutrality by the year
-
-A. 2025
-B. 2030
-C. 2035
-D. 2040
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **LDN by 2030** under SDG 15.3 / UNCCD framing. **Trap:** 2025 or 2040 as round-number distractors.
-
-</details>
-
-**Logic:** Chronology of rural employment/welfare programmes — CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979.
-
-**Q2. UPPCS Prelims 2025, Q134**
-
-Arrange the following chronologically:
-
-1. Food for Work Programme
-2. Community Development Programme
-3. Training of Rural Youth for Self-Employment (TRYSEM)
-4. Drought Prone Areas Programme (DPAP)
-
-A. 4, 2, 3, 1
-B. 2, 4, 1, 3
-C. 2, 4, 3, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Order: **CDP (1952) → DPAP (1973) → Food for Work (1977) → TRYSEM (1979)**. **Trap:** Placing DPAP before CDP or TRYSEM before Food for Work.
-
-</details>
-
-**Logic:** Thar desert surficial deposits — Pleistocene and recent, not Paleocene/Oligocene alone.
-
-**Q3. UPPCS Prelims 2018, Q101**
-
-Thar / Rajasthan desert expanse is mainly of:
-
-A. Pliocene
-B. Paleocene
-C. Pleistocene and recent deposits
-D. Oligocene
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Thar cover is **Pleistocene + recent** aeolian/alluvial material. **Trap:** Picking older Tertiary epochs as “desert = ancient only.”
-
-</details>
-
-**Logic:** UNCCD adopted 1994; Desertification and Drought Day is 17 June.
-
-**Q4. UPPCS Prelims (pattern)**
-
-The UN Convention to Combat Desertification (UNCCD) was adopted in:
-
-A. 1994
-B. 1972
-C. 1987
-D. 2015
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **UNCCD adopted 17 June 1994** (Paris); in force 1996. **Trap:** Confusing with Rio 1992 or UNFCCC alone.
-
-</details>
-
-**Logic:** Desertification is productivity loss in ASDM drylands — not merely sand-dune expansion.
-
-**Q5. UPPCS Prelims (pattern)**
-
-Desertification, under UN definition, means:
-
-A. Land degradation in arid, semi-arid, and dry sub-humid areas
-B. Only physical expansion of the Thar sand sea eastward
-C. Any bare patch in a humid rainforest
-D. Permanent ocean acidification
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **ASDM dryland** productivity loss from climate + human pressure. **Trap:** “Desertification = dunes moving only.”
-
-</details>
-
-**Logic:** Water erosion stages — sheet → rill → gully → ravine; Chambal is the classic ravine belt.
-
-**Q6. UPPCS Prelims (pattern)**
-
-The correct sequence of water erosion stages is:
-
-A. Sheet → rill → gully → ravine
-B. Ravine → sheet → gully → rill
-C. Gully → sheet only
-D. Wind abrasion → BOD assay
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Thin **sheet** loss → **rill** channels → **gullies** → deep **ravines** (Chambal badlands). **Trap:** Reversing ravine and sheet.
-
-</details>
-
-**Logic:** Afforestation and shelter belts prevent erosion — they are mitigation, not causes of degradation.
-
-**Q7. UPPCS Prelims (pattern)**
-
-Which of the following helps **prevent** land degradation?
-
-A. Afforestation and shelter belts
-B. Overgrazing
-C. Unchecked clear-felling
-D. Improper irrigation without drainage (salinization)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Afforestation** stabilises soil; overgrazing and salinization **cause** degradation. **Trap:** Statement stems that list afforestation as a “cause.”
-
-</details>
-
-**Logic:** Overgrazing is the leading human driver of dryland desertification in standard teaching.
-
-**Q8. UPPCS Prelims (pattern)**
-
-The leading human cause of desertification in drylands is often:
-
-A. Overgrazing
-B. Contour bunding
-C. Check dams
-D. Watershed management
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Overgrazing** removes cover → erosion; conservation structures are responses. **Trap:** Picking a conservation measure as the “cause.”
-
-</details>
-
-**Logic:** Bundelkhand spans seven UP districts — drought and degradation hotspot linked to desertification risk.
-
-**Q9. UPPCS Prelims (pattern)**
-
-Bundelkhand in Uttar Pradesh, often cited for drought stress, includes about how many UP districts in standard lists?
-
-A. Seven
-B. Seventy
-C. Two
-D. Zero
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Seven districts** — Jhansi, Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot. **Trap:** Treating Bundelkhand as only Rajasthan.
-
-</details>
-
-**Logic:** Meteorological drought — rainfall well below long-period average (IMD often uses <75% LPA as severe marker).
-
-**Q10. UPPCS Prelims (pattern)**
-
-Meteorological drought is commonly indicated when rainfall falls to about:
-
-A. Less than 75% of the long-period average
-B. More than 150% of LPA always
-C. Exactly 100% of LPA only
-D. Zero rainfall for one hour
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **<75% LPA** is a standard severe meteorological drought marker. **Trap:** Confusing meteorological with agricultural soil-moisture drought only.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -681,42 +681,3 @@ D. Zero rainfall for one hour
 | Chambal only in one state | **MP–UP–Rajasthan** |
 | DPAP = 1994 | **1973–74** |
 | Normal erosion = focus | **Accelerated** erosion is |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | 579 |
-| **Teaching blocks** | §40.1–40.4 (4 syllabus bullets) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2019 Q42, 2025 Q134, 2018 Q101 |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Desertification | §40.1 |
-| Land Degradation | §40.2 |
-| Drought | §40.3 |
-| Soil Erosion | §40.4 |
-
-### Topic boundaries
-
-- **Shorter twin without dedicated drought bullet** — Topic 13
-- **Disaster drought CA depth** — Topic 23
-- **Soil as geography resource** — Geography soils chapter
-- **Climate change drought frequency** — Topics 10/34
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2019 Q42 LDN 2030 | §40.1 inline |
-| 2025 Q134 DPAP chronology | §40.3 inline |
-| 2018 Thar deposits | §40.4 inline |
-
-**File ready: YES**

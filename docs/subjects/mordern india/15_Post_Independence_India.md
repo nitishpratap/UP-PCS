@@ -659,6 +659,294 @@ D. 12th
 
 ---
 
+## Complete PYQ Bank
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q71**
+
+Which of the following persons were members of the States Reorganisation Commission?
+
+1. K. T. Shah
+2. K. M. Panikkar
+3. P. Sitaramayya
+4. H. N. Kunzru
+
+A. 1 and 3
+
+B. 2 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q82**
+
+Match List-I with List-II.
+
+**List-I (Committee)** A. Union Constitution Committee B. Rules of Procedure Committee C. Drafting Committee D. Fundamental Rights Sub-Committee
+**List-II (Chairman)** 1. Dr. Rajendra Prasad 2. J. B. Kripalani 3. Dr. B. R. Ambedkar 4. Jawaharlal Nehru
+
+A. 2 1 3 4
+
+B. 1 4 3 2
+
+C. 4 1 3 2
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q134**
+
+Consider the following programmes and arrange them in correct chronological order.
+
+1. Food for Work Programme
+2. Community Development Programme
+3. Training of Rural Youth for Self Employment (TRYSEM)
+4. Drought Prone Areas Programme
+
+A. 4, 2, 3, 1
+
+B. 2, 4, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q4. UPPCS Prelims 2023, Q3**
+
+Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
+
+(I) Appointment of the Drafting Committee
+(II) Indian Constitution was adopted and enacted
+(III) Date of commencement of Indian Constitution
+(IV) Constituent Assembly first met
+
+A. III, II, I, IV
+
+B. IV, I, III, II
+
+C. I, II, IV, III
+
+D. IV, I, II, III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q5. UPPCS Prelims 2021, Q1**
+
+"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind".
+
+Who among the following said the above mentioned statement in the Constituent Assembly debates?
+
+A. Somnath Lahiri
+
+B. Jawaharlal Nehru
+
+C. Sardar Vallabh Bhai Patel
+
+D. N. G. Ranga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q6. UPPCS Prelims 2021, Q73**
+
+Who among the following person said for the Fundamental Rights "a pledge to our people and a pact with the civilized world"?
+
+A. Pt. Jawahar Lal Nehru
+
+B. Dr. Bhim Rao Ambedkar
+
+C. Dr. Rajendra Prasad
+
+D. Dr. S. Radha Krishnan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q7. UPPCS Prelims 2020, Q134**
+
+On which of the following dates, Constituent Assembly of India adopted the National Flag?
+
+A. 22 January, 1950
+
+B. 24 January, 1950
+
+C. 22 July, 1947
+
+D. 22 July, 1948
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q8. UPPCS Prelims 2019, Q103**
+
+Arrange the following events in a chronological order:
+
+I. Maharaja Hari Singh signed the Instrument of Accession.
+II. Constitution of India was enforced.
+III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.
+IV. New Constitution of the State of Jammu and Kashmir came into force.
+
+A. I, III, IV, II
+
+B. III, IV, I, II
+
+C. I, II, III, IV
+
+D. IV, III, II, I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q9. UPPCS Prelims 2018, Q40**
+
+In India which of the following Five Year Plans was launched with a focus on sustainable growth?
+
+A. 9th
+
+B. 10th
+
+C. 11th
+
+D. 12th
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q10. UPPCS Prelims 2018, Q67**
+
+Who was the first Vice-Chairman of the NITI Ayog?
+
+A. Arvind Panagariya
+
+B. Raghuram Rajan
+
+C. Chandrashekhara Subramanyam
+
+D. Rajiv Kumar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q11. UPPCS Prelims 2018, Q68**
+
+Which of the following is the first State in India formed on the basis of languages?
+
+A. Kerala
+
+B. Madhya Pradesh
+
+C. Andhra Pradesh
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q12. UPPCS Prelims 2018, Q115**
+
+Which of the following fixes the poverty line in India?
+
+A. Central Council of Ministers
+
+B. Lok Sabha
+
+C. Rajya Sabha
+
+D. Planning Commission (Now Niti Ayog)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q13. UPPCS Prelims 2018, Q144**
+
+Which of the following was called as Economic cabinet of India by Ashok Chandra?
+
+A. Planning Commission
+
+B. Finance Commission
+
+C. Central Cabinet
+
+D. Administrative Reform Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **50 questions.** Mix: chronology, multi-statement, Match-List, A/R, NOT-matched.
@@ -1690,294 +1978,6 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: A** — Goa required **Operation Vijay**; Portugal refused a referendum route.
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q71**
-
-Which of the following persons were members of the States Reorganisation Commission?
-
-1. K. T. Shah
-2. K. M. Panikkar
-3. P. Sitaramayya
-4. H. N. Kunzru
-
-A. 1 and 3
-
-B. 2 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q82**
-
-Match List-I with List-II.
-
-**List-I (Committee)** A. Union Constitution Committee B. Rules of Procedure Committee C. Drafting Committee D. Fundamental Rights Sub-Committee
-**List-II (Chairman)** 1. Dr. Rajendra Prasad 2. J. B. Kripalani 3. Dr. B. R. Ambedkar 4. Jawaharlal Nehru
-
-A. 2 1 3 4
-
-B. 1 4 3 2
-
-C. 4 1 3 2
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q134**
-
-Consider the following programmes and arrange them in correct chronological order.
-
-1. Food for Work Programme
-2. Community Development Programme
-3. Training of Rural Youth for Self Employment (TRYSEM)
-4. Drought Prone Areas Programme
-
-A. 4, 2, 3, 1
-
-B. 2, 4, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q4. UPPCS Prelims 2023, Q3**
-
-Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
-
-(I) Appointment of the Drafting Committee
-(II) Indian Constitution was adopted and enacted
-(III) Date of commencement of Indian Constitution
-(IV) Constituent Assembly first met
-
-A. III, II, I, IV
-
-B. IV, I, III, II
-
-C. I, II, IV, III
-
-D. IV, I, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q5. UPPCS Prelims 2021, Q1**
-
-"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind".
-
-Who among the following said the above mentioned statement in the Constituent Assembly debates?
-
-A. Somnath Lahiri
-
-B. Jawaharlal Nehru
-
-C. Sardar Vallabh Bhai Patel
-
-D. N. G. Ranga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6. UPPCS Prelims 2021, Q73**
-
-Who among the following person said for the Fundamental Rights "a pledge to our people and a pact with the civilized world"?
-
-A. Pt. Jawahar Lal Nehru
-
-B. Dr. Bhim Rao Ambedkar
-
-C. Dr. Rajendra Prasad
-
-D. Dr. S. Radha Krishnan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q7. UPPCS Prelims 2020, Q134**
-
-On which of the following dates, Constituent Assembly of India adopted the National Flag?
-
-A. 22 January, 1950
-
-B. 24 January, 1950
-
-C. 22 July, 1947
-
-D. 22 July, 1948
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q8. UPPCS Prelims 2019, Q103**
-
-Arrange the following events in a chronological order:
-
-I. Maharaja Hari Singh signed the Instrument of Accession.
-II. Constitution of India was enforced.
-III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.
-IV. New Constitution of the State of Jammu and Kashmir came into force.
-
-A. I, III, IV, II
-
-B. III, IV, I, II
-
-C. I, II, III, IV
-
-D. IV, III, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q9. UPPCS Prelims 2018, Q40**
-
-In India which of the following Five Year Plans was launched with a focus on sustainable growth?
-
-A. 9th
-
-B. 10th
-
-C. 11th
-
-D. 12th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q10. UPPCS Prelims 2018, Q67**
-
-Who was the first Vice-Chairman of the NITI Ayog?
-
-A. Arvind Panagariya
-
-B. Raghuram Rajan
-
-C. Chandrashekhara Subramanyam
-
-D. Rajiv Kumar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11. UPPCS Prelims 2018, Q68**
-
-Which of the following is the first State in India formed on the basis of languages?
-
-A. Kerala
-
-B. Madhya Pradesh
-
-C. Andhra Pradesh
-
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q12. UPPCS Prelims 2018, Q115**
-
-Which of the following fixes the poverty line in India?
-
-A. Central Council of Ministers
-
-B. Lok Sabha
-
-C. Rajya Sabha
-
-D. Planning Commission (Now Niti Ayog)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q13. UPPCS Prelims 2018, Q144**
-
-Which of the following was called as Economic cabinet of India by Ashok Chandra?
-
-A. Planning Commission
-
-B. Finance Commission
-
-C. Central Cabinet
-
-D. Administrative Reform Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
 
 </details>
 

@@ -422,6 +422,268 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 ---
 
+## Complete PYQ Bank (Topic 27)
+
+**Q1. UPPCS Prelims 2025, Q28**
+
+Major constituents of biogas include:
+
+1. Methane
+2. Butane
+3. Carbon dioxide
+4. Carbon monoxide
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Biogas = anaerobic digestion product — CH₄ + CO₂ dominant.
+
+**Ans: A (1 and 3).** **Methane and carbon dioxide** are major biogas constituents.
+
+**Trap:** **Butane** (LPG component) as biogas constituent.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q31**
+
+With reference to hydroelectric power in Northern India, consider the following statements:
+
+1. The Himalayan region has enormous hydroelectric potential.
+2. Eastern Uttar Pradesh and Bihar cannot utilise Himalayan hydro because the Himalayas to their north lie in Nepal.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Himalayan hydro potential true; Nepal excuse in statement 2 is false.
+
+**Ans: D (Only 1).** **Only statement 1 is correct**.
+
+**Trap:** Accepting statement 2 — Indian projects in Uttarakhand/HP benefit the plain states.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q109**
+
+With reference to the International Solar Alliance (ISA), consider the following statements:
+
+1. It is the first treaty-based intergovernmental organization headquartered in India and has 38 member countries.
+2. The World Solar Bank and One Sun One World One Grid (OSOWOG) initiatives have been undertaken under it.
+
+A. Only 1
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** OSOWOG under ISA is correct; fixed "38 members" count is outdated.
+
+**Ans: A (Only 2).** **Only statement 2 is correct**.
+
+**Trap:** Rejecting statement 2 because statement 1 sounds precise.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2023, Q102**
+
+Non-conventional energy sources are those that are—
+
+A. Non-renewable
+
+B. Renewable
+
+C. Produced from electricity
+
+D. Produced from heat only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Indian usage treats non-conventional ≈ renewable (solar, wind, biomass, tidal, SHP).
+
+**Ans: B.** **Non-conventional sources are renewable**.
+
+**Trap:** **Non-renewable** — that describes conventional fossils, not solar/wind.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2022, Q69**
+
+Which of the following is **NOT** a biomass energy source?
+
+A. Coal
+
+B. Nuclear fuel
+
+C. Gobar (cow dung)
+
+D. Wood
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Biomass = organic matter; coal is fossilised carbon; nuclear is uranium/thorium.
+
+**Ans: A.** **Coal is not biomass**.
+
+**Trap:** Nuclear is also non-biomass, but coal is the standard keyed answer.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2021, Q124**
+
+A non-renewable source of energy is:
+
+A. Solar energy
+
+B. Petroleum
+
+C. Wind energy
+
+D. Biogas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Petroleum is a finite fossil fuel; solar, wind, and biogas are renewable.
+
+**Ans: B.** **Petroleum is non-renewable**.
+
+**Trap:** Confusing **biogas** (renewable) with fossil gas.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q20**
+
+The largest tidal energy potential in India is associated with the:
+
+A. North Circars coast
+
+B. Mannar coast
+
+C. Khambhat (Cambay) coast
+
+D. Kerala coast
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gulf of Khambhat has India's highest tidal range — potential fact.
+
+**Ans: C.** **Khambhat (Cambay) coast** has the largest tidal energy potential.
+
+**Trap:** Kerala or eastern coast names without highest range.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2022, Q132**
+
+Solar energy is converted into electric energy through—
+
+A. Dry cells
+
+B. Leclanché cells
+
+C. Voltaic cells
+
+D. Photovoltaic cells
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PV cells directly convert sunlight to electricity in solar applications.
+
+**Ans: D.** **Photovoltaic cells** convert solar to electric energy.
+
+**Trap:** Generic **voltaic/dry cell** chemistry distractors.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims pattern — EC Act 2001**
+
+The Energy Conservation Act, 2001 established which body as the nodal authority for energy efficiency?
+
+A. Bureau of Energy Efficiency (BEE)
+
+B. Central Electricity Authority only
+
+C. NITI Aayog
+
+D. MNRE
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** BEE under EC Act 2001 — administers PAT and standards/star labelling.
+
+**Ans: A.** **BEE was established under the Energy Conservation Act, 2001**.
+
+**Trap:** **MNRE** (renewable promotion) vs **BEE** (efficiency regulation).
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims pattern — PAT scheme**
+
+Perform, Achieve and Trade (PAT) is a scheme for:
+
+A. Trading energy efficiency certificates among designated consumers
+
+B. Trading wildlife permits
+
+C. Trading CFC quotas under Montreal Protocol
+
+D. Trading Ramsar wetland credits
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAT = market-based energy efficiency compliance under BEE — ESCerts trading.
+
+**Ans: A.** **PAT trades energy efficiency certificates (ESCerts)**.
+
+**Trap:** Confusing PAT with **carbon credit** markets directly.
+
+</details>
+
+---
 
 ## Practice Zone
 
@@ -904,269 +1166,6 @@ D. Renewable
 
 ---
 
-## Complete PYQ Bank (Topic 27)
-
-**Q1. UPPCS Prelims 2025, Q28**
-
-Major constituents of biogas include:
-
-1. Methane
-2. Butane
-3. Carbon dioxide
-4. Carbon monoxide
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Biogas = anaerobic digestion product — CH₄ + CO₂ dominant.
-
-**Ans: A (1 and 3).** **Methane and carbon dioxide** are major biogas constituents.
-
-**Trap:** **Butane** (LPG component) as biogas constituent.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q31**
-
-With reference to hydroelectric power in Northern India, consider the following statements:
-
-1. The Himalayan region has enormous hydroelectric potential.
-2. Eastern Uttar Pradesh and Bihar cannot utilise Himalayan hydro because the Himalayas to their north lie in Nepal.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Himalayan hydro potential true; Nepal excuse in statement 2 is false.
-
-**Ans: D (Only 1).** **Only statement 1 is correct**.
-
-**Trap:** Accepting statement 2 — Indian projects in Uttarakhand/HP benefit the plain states.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q109**
-
-With reference to the International Solar Alliance (ISA), consider the following statements:
-
-1. It is the first treaty-based intergovernmental organization headquartered in India and has 38 member countries.
-2. The World Solar Bank and One Sun One World One Grid (OSOWOG) initiatives have been undertaken under it.
-
-A. Only 1
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** OSOWOG under ISA is correct; fixed "38 members" count is outdated.
-
-**Ans: A (Only 2).** **Only statement 2 is correct**.
-
-**Trap:** Rejecting statement 2 because statement 1 sounds precise.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2023, Q102**
-
-Non-conventional energy sources are those that are—
-
-A. Non-renewable
-
-B. Renewable
-
-C. Produced from electricity
-
-D. Produced from heat only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Indian usage treats non-conventional ≈ renewable (solar, wind, biomass, tidal, SHP).
-
-**Ans: B.** **Non-conventional sources are renewable**.
-
-**Trap:** **Non-renewable** — that describes conventional fossils, not solar/wind.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2022, Q69**
-
-Which of the following is **NOT** a biomass energy source?
-
-A. Coal
-
-B. Nuclear fuel
-
-C. Gobar (cow dung)
-
-D. Wood
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Biomass = organic matter; coal is fossilised carbon; nuclear is uranium/thorium.
-
-**Ans: A.** **Coal is not biomass**.
-
-**Trap:** Nuclear is also non-biomass, but coal is the standard keyed answer.
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2021, Q124**
-
-A non-renewable source of energy is:
-
-A. Solar energy
-
-B. Petroleum
-
-C. Wind energy
-
-D. Biogas
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Petroleum is a finite fossil fuel; solar, wind, and biogas are renewable.
-
-**Ans: B.** **Petroleum is non-renewable**.
-
-**Trap:** Confusing **biogas** (renewable) with fossil gas.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q20**
-
-The largest tidal energy potential in India is associated with the:
-
-A. North Circars coast
-
-B. Mannar coast
-
-C. Khambhat (Cambay) coast
-
-D. Kerala coast
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gulf of Khambhat has India's highest tidal range — potential fact.
-
-**Ans: C.** **Khambhat (Cambay) coast** has the largest tidal energy potential.
-
-**Trap:** Kerala or eastern coast names without highest range.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2022, Q132**
-
-Solar energy is converted into electric energy through—
-
-A. Dry cells
-
-B. Leclanché cells
-
-C. Voltaic cells
-
-D. Photovoltaic cells
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** PV cells directly convert sunlight to electricity in solar applications.
-
-**Ans: D.** **Photovoltaic cells** convert solar to electric energy.
-
-**Trap:** Generic **voltaic/dry cell** chemistry distractors.
-
-</details>
-
----
-
-**Q9. UPPCS Prelims pattern — EC Act 2001**
-
-The Energy Conservation Act, 2001 established which body as the nodal authority for energy efficiency?
-
-A. Bureau of Energy Efficiency (BEE)
-
-B. Central Electricity Authority only
-
-C. NITI Aayog
-
-D. MNRE
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** BEE under EC Act 2001 — administers PAT and standards/star labelling.
-
-**Ans: A.** **BEE was established under the Energy Conservation Act, 2001**.
-
-**Trap:** **MNRE** (renewable promotion) vs **BEE** (efficiency regulation).
-
-</details>
-
----
-
-**Q10. UPPCS Prelims pattern — PAT scheme**
-
-Perform, Achieve and Trade (PAT) is a scheme for:
-
-A. Trading energy efficiency certificates among designated consumers
-
-B. Trading wildlife permits
-
-C. Trading CFC quotas under Montreal Protocol
-
-D. Trading Ramsar wetland credits
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** PAT = market-based energy efficiency compliance under BEE — ESCerts trading.
-
-**Ans: A.** **PAT trades energy efficiency certificates (ESCerts)**.
-
-**Trap:** Confusing PAT with **carbon credit** markets directly.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -1187,60 +1186,3 @@ D. Trading Ramsar wetland credits
 | Maize = biodiesel crop | **Ethanol**; Jatropha = biodiesel |
 | Fuel cell = AC output | **DC**; by-products heat + water |
 | Gasification gas = CO₂ only | **Producer gas** CO + H₂ (+ CH₄) |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~512 (was ~1635 old format) |
-| **Teaching blocks** | §27.1–27.20 (20 syllabus bullets) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2025 Q28; 2023 Q102; 2021 Q124; 2022 biomass |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Renewable Energy | §27.1 |
-| Non-renewable Energy | §27.2 |
-| Conventional Sources | §27.3 |
-| Non-conventional Sources | §27.4 |
-| Solar Energy | §27.5 |
-| Wind Energy | §27.6 |
-| Biomass Energy | §27.7 |
-| Biofuels | §27.8 |
-| Biogas | §27.9 |
-| Bioethanol | §27.10 |
-| Biodiesel | §27.11 |
-| Small Hydropower | §27.12 |
-| Tidal Energy | §27.13 |
-| Ocean Energy | §27.14 |
-| Energy Security | §27.15 |
-| RE Scenario in India | §27.16 |
-| National RE Programme | §27.17 |
-| National Solar Mission | §27.18 |
-| Energy Conservation | §27.19 |
-| Energy Efficiency | §27.20 |
-
-### Topic boundaries
-
-- **Deep solar/wind/SHP/tidal teaching** — Topic 22 (facts repeated here only as short homes)
-- **Carbon trading / CCTS** — Topic 24
-- **Net zero 2070** — Topic 24
-- **Climate NAPCC missions list** — Topic 10/15
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q28 biogas | §27.9 inline |
-| 2023 Q102 non-conventional | §27.4 inline |
-| 2021 Q124 petroleum | §27.2 inline |
-| 2022 biomass NOT coal | §27.7 inline |
-| 2025 Q31/Q109 | notes + PYQ Bank (full home Topic 22) |
-
-**File ready: YES**

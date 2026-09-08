@@ -697,6 +697,123 @@ A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 
 ---
 
+## Complete PYQ Bank (Topic 9)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q48**
+
+Which of the following works was NOT written by Kalidasa?
+
+1. Meghaduta
+2. Raghuvamsha
+3. Shringara Shataka
+
+A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Only 3.**
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q86**
+
+Match List-I (Writer) with List-II (Book):
+
+A. Trivikram Bhatta B. Somdev C. Jaidev D. Kshemendra
+1. Gita Govinda 2. Brihatkathamanjari 3. Nal Champu 4. Kathasaritsagara
+
+A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 3 4 1 2.**
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q3. UPPCS Prelims 2024, Q149**
+
+Consider the following foreign travellers and arrange them in ascending chronological order:
+
+1. I-Tsing 2. Al-Biruni 3. Huentsang (Hiuen Tsang) 4. Fahyan (Fa-Hien)
+
+A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 4, 3, 1, 2.** Fa-Hien is the Gupta-age peg.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q4. UPPCS Prelims 2023, Q29**
+
+With reference to the Puranas, which one of the following statements is correct?
+
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
+2. Vayu Purana throws light on the Gupta system of governance.
+
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Vishnu Purana has Mauryas. Vayu is not a Gupta admin manual.
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q5. UPPCS Prelims 2022, Q23**
+
+With reference to Chandragupta-II, which of the following statements is/are correct?
+
+1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
+2. The weight of these coins used to be about 33 grains.
+
+A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Both 1 and 2.**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q6. UPPCS Prelims 2018, Q87**
+
+Match List-I with List-II (Samudragupta’s contemporary kings of South India / their kingdoms):
+
+A. Dhananjaya B. Nilaraja C. Ugrasena D. Vishnugopa
+1. Avamukta 2. Kanchi 3. Kusthalpura 4. Palaka
+
+A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 3 1 4 2.**
+
+</details>
+
+### Years with zero extra hits in local `pyq/`
+
+**2021, 2020, 2019** — no further GS-I imperial-Gupta hit after keyword search.
+**Out of boundary:** 2022 Q87 Ishanavarman / Jivitagupta II inscription pairs are **Maukhari / later Gupta**, not imperial Gupta. 2023 Prayag of Uttarakhand is geography.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** With reference to Chandragupta-II, which of the following statements is/are correct?
@@ -1648,123 +1765,6 @@ A. Junagadh, 150 CE B. Eran, about 510 CE C. Bhitari, 326 BCE D. Sanchi, 78 CE
 **Ans: B.** **Eran** inscription of about **510 CE**.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 9)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q48**
-
-Which of the following works was NOT written by Kalidasa?
-
-1. Meghaduta
-2. Raghuvamsha
-3. Shringara Shataka
-
-A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 3.**
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q86**
-
-Match List-I (Writer) with List-II (Book):
-
-A. Trivikram Bhatta B. Somdev C. Jaidev D. Kshemendra
-1. Gita Govinda 2. Brihatkathamanjari 3. Nal Champu 4. Kathasaritsagara
-
-A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 3 4 1 2.**
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q3. UPPCS Prelims 2024, Q149**
-
-Consider the following foreign travellers and arrange them in ascending chronological order:
-
-1. I-Tsing 2. Al-Biruni 3. Huentsang (Hiuen Tsang) 4. Fahyan (Fa-Hien)
-
-A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 4, 3, 1, 2.** Fa-Hien is the Gupta-age peg.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q4. UPPCS Prelims 2023, Q29**
-
-With reference to the Puranas, which one of the following statements is correct?
-
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1.** Vishnu Purana has Mauryas. Vayu is not a Gupta admin manual.
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q5. UPPCS Prelims 2022, Q23**
-
-With reference to Chandragupta-II, which of the following statements is/are correct?
-
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
-2. The weight of these coins used to be about 33 grains.
-
-A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Both 1 and 2.**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q6. UPPCS Prelims 2018, Q87**
-
-Match List-I with List-II (Samudragupta’s contemporary kings of South India / their kingdoms):
-
-A. Dhananjaya B. Nilaraja C. Ugrasena D. Vishnugopa
-1. Avamukta 2. Kanchi 3. Kusthalpura 4. Palaka
-
-A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 3 1 4 2.**
-
-</details>
-
-### Years with zero extra hits in local `pyq/`
-
-**2021, 2020, 2019** — no further GS-I imperial-Gupta hit after keyword search.
-**Out of boundary:** 2022 Q87 Ishanavarman / Jivitagupta II inscription pairs are **Maukhari / later Gupta**, not imperial Gupta. 2023 Prayag of Uttarakhand is geography.
 
 ---
 

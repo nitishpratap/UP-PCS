@@ -804,6 +804,409 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 
 ---
 
+## Complete PYQ Bank
+
+**Instructions:** Answers under `<details>`. Options on separate lines. Match-lists as tables.
+
+**Q1. UPPCS Prelims 2025, Q138**
+
+The Suez Canal connects which of the following?
+
+1. Atlantic Ocean
+2. Red Sea
+3. Mediterranean Sea
+4. Indian Ocean
+
+**Options:**
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q75**
+
+Consider the following statements with respect to the climate of Western Europe:
+
+1. Western Europe receives rainfall in all months.
+2. Western Europe is located in the belt of Westerlies.
+
+**Options:**
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024, Q76**
+
+Consider the following mountains and arrange them in correct order from West to East by their location:
+
+1. Karakoram
+2. Pontic
+3. Hindu Kush
+4. Zagros
+
+**Options:**
+
+A. 2, 4, 3, 1
+
+B. 2, 3, 4, 1
+
+C. 4, 2, 3, 1
+
+D. 4, 1, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q79**
+
+Consider the following statements with reference to Mediterranean climate:
+
+1. It receives rainfall in winter season.
+2. Due to winter solstice, air pressure belts shift to the south.
+
+**Options:**
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2023, Q60**
+
+Which of the following (**Port — Country**) is **not** correctly matched?
+
+**Options:**
+
+A. Rotterdam — Netherlands
+
+B. Igarka — China
+
+C. Montevideo — Uruguay
+
+D. Jakarta — Indonesia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022, Q137**
+
+Which one of the following is a landlocked country?
+
+**Options:**
+
+A. Uruguay
+
+B. Suriname
+
+C. Peru
+
+D. Bolivia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q144Assertion (A):** Rainfall occurs in the winter season in Mediterranean climate.
+
+**Reason (R):** In summer these regions remain under the influence of dry terrestrial winds.
+
+**Options:**
+
+A. (A) is false but (R) is true.
+
+B. (A) is true but (R) is false.
+
+C. Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2021, Q55**
+
+Nobi and Kanto plains are located in which of the following countries?
+
+**Options:**
+
+A. North Korea
+
+B. South Korea
+
+C. Japan
+
+D. China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2019, Q2**
+
+Match List-I with List-II (Country) (Capital)
+
+A. Uzbekistan 1. Tashkent
+
+B. Tajikistan 2. Dushanbe
+
+C. Kyrgyzstan 3. Bishkek
+
+D. Turkmenistan 4. Ashgabat
+
+**Options:**
+
+A. 1 2 3 4
+
+B. 1 2 4 3
+
+C. 1 3 4 2
+
+D. 1 4 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2019, Q76**
+
+In the Suez canal region, the correct order of lakes lying from North to South direction is
+
+**Options:**
+
+A. Lake Timsah-Little Bitter Lake-Great Bitter Lake-Luke Manzola
+
+B. Great Bitter Lake - Little Bitter Lake-Lake Timsah-Lake Manzala
+
+C. Lake Manzala - Great Bitter Lake - Little Bitter Lake-Lake Timsah
+
+D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2018, Q25**
+
+'Vegetation is the true index of climate'. This statement is associated with
+
+**Options:**
+
+A. Thornthwaite
+
+B. Koppen
+
+C. Trewartha
+
+D. Stamp
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2018, Q29**
+
+How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
+
+**Options:**
+
+A. 5,000 km
+
+B. 7,000 km
+
+C. 8,000 km
+
+D. 10,000 km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2018, Q32**
+
+MacMohan line forms the boundary between
+
+**Options:**
+
+A. India and China
+
+B. India and Pakistan
+
+C. India and Myanmar
+
+D. India and Nepal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2018, Q98**
+
+Which of the following States of India has the longest coastline?
+
+**Options:**
+
+A. Maharashtra
+
+B. Andhra Pradesh
+
+C. Kerala
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2020, Q82**
+
+Which one of the following is NOT correctly matched?
+
+(Country) (Capital)
+
+**Options:**
+
+A. Morocco – Rabat
+
+B. Tunisia – Tunis
+
+C. Algeria – Algiers
+
+D. Cape Verde – Bamako
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Cape Verde = **Praia**. Bamako = Mali.
+
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2022, Q35**
+
+With reference to India, which of the following statements is/are correct?
+
+1. India is the sixth largest country in the world.
+2. India occupies about 2.4% of the total area of the world.
+3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
+4. India lies completely in the tropical zone.
+
+**Options:**
+
+A. 2 and 3
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — **2.4%** is solid. Tropic through the middle is the school fact. Rank is **7th**, not 6th. India is **not** wholly tropical.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -2160,409 +2563,6 @@ D. Double landlocked — Nepal and Bolivia
 <summary>Show answer</summary>
 
 **Ans: D** — Double = Uzbekistan and Liechtenstein.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Answers under `<details>`. Options on separate lines. Match-lists as tables.
-
-**Q1. UPPCS Prelims 2025, Q138**
-
-The Suez Canal connects which of the following?
-
-1. Atlantic Ocean
-2. Red Sea
-3. Mediterranean Sea
-4. Indian Ocean
-
-**Options:**
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2024, Q75**
-
-Consider the following statements with respect to the climate of Western Europe:
-
-1. Western Europe receives rainfall in all months.
-2. Western Europe is located in the belt of Westerlies.
-
-**Options:**
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2024, Q76**
-
-Consider the following mountains and arrange them in correct order from West to East by their location:
-
-1. Karakoram
-2. Pontic
-3. Hindu Kush
-4. Zagros
-
-**Options:**
-
-A. 2, 4, 3, 1
-
-B. 2, 3, 4, 1
-
-C. 4, 2, 3, 1
-
-D. 4, 1, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q79**
-
-Consider the following statements with reference to Mediterranean climate:
-
-1. It receives rainfall in winter season.
-2. Due to winter solstice, air pressure belts shift to the south.
-
-**Options:**
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2023, Q60**
-
-Which of the following (**Port — Country**) is **not** correctly matched?
-
-**Options:**
-
-A. Rotterdam — Netherlands
-
-B. Igarka — China
-
-C. Montevideo — Uruguay
-
-D. Jakarta — Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2022, Q137**
-
-Which one of the following is a landlocked country?
-
-**Options:**
-
-A. Uruguay
-
-B. Suriname
-
-C. Peru
-
-D. Bolivia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q144Assertion (A):** Rainfall occurs in the winter season in Mediterranean climate.
-
-**Reason (R):** In summer these regions remain under the influence of dry terrestrial winds.
-
-**Options:**
-
-A. (A) is false but (R) is true.
-
-B. (A) is true but (R) is false.
-
-C. Both (A) and (R) are true but (R) is not the correct explanation of (A).
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2021, Q55**
-
-Nobi and Kanto plains are located in which of the following countries?
-
-**Options:**
-
-A. North Korea
-
-B. South Korea
-
-C. Japan
-
-D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2019, Q2**
-
-Match List-I with List-II (Country) (Capital)
-
-A. Uzbekistan 1. Tashkent
-
-B. Tajikistan 2. Dushanbe
-
-C. Kyrgyzstan 3. Bishkek
-
-D. Turkmenistan 4. Ashgabat
-
-**Options:**
-
-A. 1 2 3 4
-
-B. 1 2 4 3
-
-C. 1 3 4 2
-
-D. 1 4 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q10. UPPCS Prelims 2019, Q76**
-
-In the Suez canal region, the correct order of lakes lying from North to South direction is
-
-**Options:**
-
-A. Lake Timsah-Little Bitter Lake-Great Bitter Lake-Luke Manzola
-
-B. Great Bitter Lake - Little Bitter Lake-Lake Timsah-Lake Manzala
-
-C. Lake Manzala - Great Bitter Lake - Little Bitter Lake-Lake Timsah
-
-D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q11. UPPCS Prelims 2018, Q25**
-
-'Vegetation is the true index of climate'. This statement is associated with
-
-**Options:**
-
-A. Thornthwaite
-
-B. Koppen
-
-C. Trewartha
-
-D. Stamp
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q12. UPPCS Prelims 2018, Q29**
-
-How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
-
-**Options:**
-
-A. 5,000 km
-
-B. 7,000 km
-
-C. 8,000 km
-
-D. 10,000 km
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q13. UPPCS Prelims 2018, Q32**
-
-MacMohan line forms the boundary between
-
-**Options:**
-
-A. India and China
-
-B. India and Pakistan
-
-C. India and Myanmar
-
-D. India and Nepal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q14. UPPCS Prelims 2018, Q98**
-
-Which of the following States of India has the longest coastline?
-
-**Options:**
-
-A. Maharashtra
-
-B. Andhra Pradesh
-
-C. Kerala
-
-D. Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q15. UPPCS Prelims 2020, Q82**
-
-Which one of the following is NOT correctly matched?
-
-(Country) (Capital)
-
-**Options:**
-
-A. Morocco – Rabat
-
-B. Tunisia – Tunis
-
-C. Algeria – Algiers
-
-D. Cape Verde – Bamako
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Cape Verde = **Praia**. Bamako = Mali.
-
-</details>
-
----
-
-**Q16. UPPCS Prelims 2022, Q35**
-
-With reference to India, which of the following statements is/are correct?
-
-1. India is the sixth largest country in the world.
-2. India occupies about 2.4% of the total area of the world.
-3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
-4. India lies completely in the tropical zone.
-
-**Options:**
-
-A. 2 and 3
-
-B. 2 and 4
-
-C. 3 and 4
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **2.4%** is solid. Tropic through the middle is the school fact. Rank is **7th**, not 6th. India is **not** wholly tropical.
-
 </details>
 
 ---

@@ -1068,6 +1068,181 @@ Ended the **Seven Years’ War** globally and closed the **Third Carnatic War** 
 
 ---
 
+## Complete PYQ Bank (Topic 1)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q26**
+
+Consider the following wars and arrange them in correct chronological order.
+
+1. First Anglo-Mysore War
+2. Second Anglo-French War
+3. First Anglo-Sikh War
+4. First Anglo-Afghan War
+
+Select the correct answer from the code given below:
+
+Options:
+A. 2, 1, 4, 3
+B. 1, 2, 3, 4
+C. 1, 2, 4, 3
+D. 2, 1, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Second Anglo-French / Carnatic II (c.1749–54) → First Anglo-Mysore (1767–69) → First Anglo-Afghan (1839–42) → First Anglo-Sikh (1845–46).
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q67**
+
+With reference to the Treaty of Aix-la-Chapelle (1748), which of the following statements is/are correct?
+
+1. The First Carnatic War ended.
+2. Madras was returned to the English.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both statements correct.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q3. UPPCS Prelims 2023, Q31**
+
+With reference to Captain Hawkins, which of the following statement(s) is/are correct?
+
+1. He came to India in 1611 as an envoy of James I.
+2. He was very well versed in the Turkish language.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Turkish skill correct. Arrival year is **1608**, not 1611; James I’s ambassador is **Roe**.
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q4. UPPCS Prelims 2022, Q64**
+
+Consider the following events and arrange them in chronological order.
+
+I. Battle of Mudki
+II. Battle of Porto Novo
+III. Battle of Shakarkheda
+IV. Battle of Bedara
+
+Options:
+A. II, III, IV, I
+B. III, IV, II, I
+C. IV, III, II, I
+D. I, II, III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Shakarkheda (**1724**, Nizam vs Mubariz Khan) → Bedara (**1759**, English vs Dutch) → Porto Novo (**1781**, 2nd Mysore) → Mudki (**1845**, 1st Sikh). Code **III, IV, II, I**.
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q5. UPPCS Prelims 2021, Q75**
+
+Arrange the following foreign travelers in chronological order of their arrival in India:
+
+I. William Hawkins
+II. Ralph Fitch
+III. Sir Thomas Roe
+IV. Nicholas Dawnton
+
+Options:
+A. II, I, IV and III
+B. IV, II, I and III
+C. I, III, II and IV
+D. III, II, IV and I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Fitch (1580s) → Hawkins (1608) → Downton (1614) → Roe (1615).
+
+</details>
+
+**Q6. UPPCS Prelims 2021, Q145**
+
+In India the First Municipal Corporation was set up in which one among the following places?
+
+A. Calcutta
+
+B. Madras
+
+C. Bombay
+
+D. Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Madras** (1687–88). (*`pyq/2021` option codes are garbled; standard paper options restored.*)
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q7. UPPCS Prelims 2020, Q18**
+
+With reference to the Treaty of Aix-la-Chapelle (1748), which of the following statements is/are correct?
+
+1. The First Carnatic War ended.
+2. Madras was returned to the English.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Same content as 2025 Q67. (*`pyq/2020` extract omitted statement text; restored from the identical 2025 stem.*)
+
+</details>
+
+### Years with no mapped hit
+
+**2018, 2019, 2024** — no UPPCS Prelims GS-I question whose primary concept is Advent of Europeans / companies / Carnatic / settlements. (Goa/Pulicat hits in those years are geography.)
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **48 questions** (13+ subtopics). Answers in Show-answer blocks. ≥60% multi-statement / application.
@@ -2195,181 +2370,6 @@ D. British
 **Ans: A** — Portuguese. Do not swap with Chinsurah (Dutch) or Chandernagore (French).
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 1)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q26**
-
-Consider the following wars and arrange them in correct chronological order.
-
-1. First Anglo-Mysore War
-2. Second Anglo-French War
-3. First Anglo-Sikh War
-4. First Anglo-Afghan War
-
-Select the correct answer from the code given below:
-
-Options:
-A. 2, 1, 4, 3
-B. 1, 2, 3, 4
-C. 1, 2, 4, 3
-D. 2, 1, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Second Anglo-French / Carnatic II (c.1749–54) → First Anglo-Mysore (1767–69) → First Anglo-Afghan (1839–42) → First Anglo-Sikh (1845–46).
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q67**
-
-With reference to the Treaty of Aix-la-Chapelle (1748), which of the following statements is/are correct?
-
-1. The First Carnatic War ended.
-2. Madras was returned to the English.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both statements correct.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q3. UPPCS Prelims 2023, Q31**
-
-With reference to Captain Hawkins, which of the following statement(s) is/are correct?
-
-1. He came to India in 1611 as an envoy of James I.
-2. He was very well versed in the Turkish language.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Turkish skill correct. Arrival year is **1608**, not 1611; James I’s ambassador is **Roe**.
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q4. UPPCS Prelims 2022, Q64**
-
-Consider the following events and arrange them in chronological order.
-
-I. Battle of Mudki
-II. Battle of Porto Novo
-III. Battle of Shakarkheda
-IV. Battle of Bedara
-
-Options:
-A. II, III, IV, I
-B. III, IV, II, I
-C. IV, III, II, I
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Shakarkheda (**1724**, Nizam vs Mubariz Khan) → Bedara (**1759**, English vs Dutch) → Porto Novo (**1781**, 2nd Mysore) → Mudki (**1845**, 1st Sikh). Code **III, IV, II, I**.
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q5. UPPCS Prelims 2021, Q75**
-
-Arrange the following foreign travelers in chronological order of their arrival in India:
-
-I. William Hawkins
-II. Ralph Fitch
-III. Sir Thomas Roe
-IV. Nicholas Dawnton
-
-Options:
-A. II, I, IV and III
-B. IV, II, I and III
-C. I, III, II and IV
-D. III, II, IV and I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Fitch (1580s) → Hawkins (1608) → Downton (1614) → Roe (1615).
-
-</details>
-
-**Q6. UPPCS Prelims 2021, Q145**
-
-In India the First Municipal Corporation was set up in which one among the following places?
-
-A. Calcutta
-
-B. Madras
-
-C. Bombay
-
-D. Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Madras** (1687–88). (*`pyq/2021` option codes are garbled; standard paper options restored.*)
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q7. UPPCS Prelims 2020, Q18**
-
-With reference to the Treaty of Aix-la-Chapelle (1748), which of the following statements is/are correct?
-
-1. The First Carnatic War ended.
-2. Madras was returned to the English.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Same content as 2025 Q67. (*`pyq/2020` extract omitted statement text; restored from the identical 2025 stem.*)
-
-</details>
-
-### Years with no mapped hit
-
-**2018, 2019, 2024** — no UPPCS Prelims GS-I question whose primary concept is Advent of Europeans / companies / Carnatic / settlements. (Goa/Pulicat hits in those years are geography.)
 
 ---
 

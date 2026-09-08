@@ -342,6 +342,271 @@ Options: A. 2021–22 B. 2022–23 C. 2020–21 D. 2019–20
 
 ---
 
+## Complete PYQ Bank (Topic 26)
+
+**Q1. UPPCS Prelims 2025, Q88**
+
+Arrange the following freshwater reservoirs in **descending** order of their share of total global freshwater:
+
+1. Oceans
+2. Rivers
+3. Polar ice and glaciers
+4. Groundwater
+
+A. 1, 3, 4, 2
+
+B. 1, 2, 4, 3
+
+C. 1, 2, 3, 4
+
+D. 1, 4, 3, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Freshwater fraction ranking — ice caps > groundwater > rivers; oceans are saline (often listed as distractor in stem).
+
+**Ans: A (1-3-4-2).** Among freshwater stores: **ice > groundwater > rivers**.
+
+**Trap:** Rivers second after oceans — rivers are the **smallest** usable freshwater fraction.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q70**
+
+The Annual Groundwater Quality Report 2024 was prepared by:
+
+1. Central Pollution Control Board (CPCB)
+2. Central Water Commission (CWC)
+3. Central Ground Water Board (CGWB)
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CGWB assesses groundwater quantity/quality; CPCB handles surface pollution; CWC surface water data.
+
+**Ans: B (Only 3).** **CGWB** publishes the Annual Groundwater Quality Report.
+
+**Trap:** **CPCB** (surface/air pollution board) or **CWC** confusion.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q58**
+
+Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel
+2. Samaspur Bird Sanctuary
+3. Rudrasagar Lake
+4. Sultanpur National Park
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Wetland conservation + UP geography — Tripura and Haryana sites outside UP.
+
+**Ans: B (3 and 4).** **Rudrasagar = Tripura**; **Sultanpur = Haryana**.
+
+**Trap:** Assuming all four names are UP Ramsar sites.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2023, Q110**
+
+A geographical unit that collects, stores and releases water is called—
+
+A. Watershed
+
+B. Wasteland
+
+C. Wetland
+
+D. Water Reserve
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Watershed/catchment definition — drainage basin hydrology.
+
+**Ans: A.** A **watershed** collects, stores, and releases water.
+
+**Trap:** **Wetland** — stores water but is an ecosystem type, not the drainage-unit definition.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2022 pattern — Hariyali**
+
+The watershed development project enabling rural populations to conserve water is known as:
+
+A. Jal Kranti
+
+B. Pani Sansad
+
+C. Hariyali
+
+D. Atal Bhujal Yojana
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hariyali = GoI watershed project for rural water conservation.
+
+**Ans: C.** **Hariyali** is the watershed development project.
+
+**Trap:** **Jal Kranti** or **Atal Bhujal** (groundwater-specific, 2019).
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022 pattern — GAP 1985**
+
+The main purpose of the Ganga Action Plan (1985) was to:
+
+A. Make Ganga water pollution-free
+
+B. Build large irrigation dams only
+
+C. Privatise river water rights
+
+D. Divert Ganga water to southern states
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** GAP/NRCP lineage — sewage interception and pollution abatement on Ganga.
+
+**Ans: A.** GAP aimed to make Ganga water **pollution-free**.
+
+**Trap:** River-linking or dam-building distractors — GAP is **pollution control**.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q145**
+
+Jal Jeevan Mission was declared in the Union Budget of which financial year?
+
+A. 2021–22
+
+B. 2022–23
+
+C. 2020–21
+
+D. 2019–20
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** JJM launch August 2019 / Budget FY 2019–20 — Har Ghar Jal rural tap connections.
+
+**Ans: D.** **Jal Jeevan Mission was announced in FY 2019–20**.
+
+**Trap:** Post-COVID years (2020–21 onward) as launch window.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2023 pattern — Water Act year**
+
+The Water (Prevention and Control of Pollution) Act was enacted in:
+
+A. 1974
+
+B. 1981
+
+C. 1986
+
+D. 1972
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Water 1974 created CPCB/SPCB — separate from Air 1981 and EPA 1986.
+
+**Ans: A.** The **Water Act year is 1974**.
+
+**Trap:** **1981** (Air Act) or **1986** (EPA).
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims pattern — Tamil Nadu RWH**
+
+Which state first made rooftop rainwater harvesting mandatory in new buildings (2003)?
+
+A. Rajasthan
+
+B. Tamil Nadu
+
+C. Kerala
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tamil Nadu 2003 mandatory RWH — Chennai model cited in water conservation teaching.
+
+**Ans: B.** **Tamil Nadu (2003)** mandated RWH in new buildings.
+
+**Trap:** **Rajasthan** (traditional johad/taanka) without mandatory urban law date.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims pattern — Sukhomajri**
+
+Sukhomajri (Haryana) is a classic success story of:
+
+A. Community watershed management
+
+B. Offshore desalination
+
+C. Nuclear-powered irrigation
+
+D. Interlinking of Himalayan rivers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Community watershed + afforestation + water harvesting model before IWMP scaling.
+
+**Ans: A.** **Sukhomajri exemplifies community watershed management**.
+
+**Trap:** National river-linking megaproject distractor.
+
+</details>
+
+---
 
 ## Practice Zone
 
@@ -822,272 +1087,6 @@ D. Freshwater glaciers only
 
 ---
 
-## Complete PYQ Bank (Topic 26)
-
-**Q1. UPPCS Prelims 2025, Q88**
-
-Arrange the following freshwater reservoirs in **descending** order of their share of total global freshwater:
-
-1. Oceans
-2. Rivers
-3. Polar ice and glaciers
-4. Groundwater
-
-A. 1, 3, 4, 2
-
-B. 1, 2, 4, 3
-
-C. 1, 2, 3, 4
-
-D. 1, 4, 3, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Freshwater fraction ranking — ice caps > groundwater > rivers; oceans are saline (often listed as distractor in stem).
-
-**Ans: A (1-3-4-2).** Among freshwater stores: **ice > groundwater > rivers**.
-
-**Trap:** Rivers second after oceans — rivers are the **smallest** usable freshwater fraction.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q70**
-
-The Annual Groundwater Quality Report 2024 was prepared by:
-
-1. Central Pollution Control Board (CPCB)
-2. Central Water Commission (CWC)
-3. Central Ground Water Board (CGWB)
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CGWB assesses groundwater quantity/quality; CPCB handles surface pollution; CWC surface water data.
-
-**Ans: B (Only 3).** **CGWB** publishes the Annual Groundwater Quality Report.
-
-**Trap:** **CPCB** (surface/air pollution board) or **CWC** confusion.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q58**
-
-Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel
-2. Samaspur Bird Sanctuary
-3. Rudrasagar Lake
-4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wetland conservation + UP geography — Tripura and Haryana sites outside UP.
-
-**Ans: B (3 and 4).** **Rudrasagar = Tripura**; **Sultanpur = Haryana**.
-
-**Trap:** Assuming all four names are UP Ramsar sites.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2023, Q110**
-
-A geographical unit that collects, stores and releases water is called—
-
-A. Watershed
-
-B. Wasteland
-
-C. Wetland
-
-D. Water Reserve
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Watershed/catchment definition — drainage basin hydrology.
-
-**Ans: A.** A **watershed** collects, stores, and releases water.
-
-**Trap:** **Wetland** — stores water but is an ecosystem type, not the drainage-unit definition.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2022 pattern — Hariyali**
-
-The watershed development project enabling rural populations to conserve water is known as:
-
-A. Jal Kranti
-
-B. Pani Sansad
-
-C. Hariyali
-
-D. Atal Bhujal Yojana
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hariyali = GoI watershed project for rural water conservation.
-
-**Ans: C.** **Hariyali** is the watershed development project.
-
-**Trap:** **Jal Kranti** or **Atal Bhujal** (groundwater-specific, 2019).
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2022 pattern — GAP 1985**
-
-The main purpose of the Ganga Action Plan (1985) was to:
-
-A. Make Ganga water pollution-free
-
-B. Build large irrigation dams only
-
-C. Privatise river water rights
-
-D. Divert Ganga water to southern states
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** GAP/NRCP lineage — sewage interception and pollution abatement on Ganga.
-
-**Ans: A.** GAP aimed to make Ganga water **pollution-free**.
-
-**Trap:** River-linking or dam-building distractors — GAP is **pollution control**.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q145**
-
-Jal Jeevan Mission was declared in the Union Budget of which financial year?
-
-A. 2021–22
-
-B. 2022–23
-
-C. 2020–21
-
-D. 2019–20
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** JJM launch August 2019 / Budget FY 2019–20 — Har Ghar Jal rural tap connections.
-
-**Ans: D.** **Jal Jeevan Mission was announced in FY 2019–20**.
-
-**Trap:** Post-COVID years (2020–21 onward) as launch window.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2023 pattern — Water Act year**
-
-The Water (Prevention and Control of Pollution) Act was enacted in:
-
-A. 1974
-
-B. 1981
-
-C. 1986
-
-D. 1972
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Water 1974 created CPCB/SPCB — separate from Air 1981 and EPA 1986.
-
-**Ans: A.** The **Water Act year is 1974**.
-
-**Trap:** **1981** (Air Act) or **1986** (EPA).
-
-</details>
-
----
-
-**Q9. UPPCS Prelims pattern — Tamil Nadu RWH**
-
-Which state first made rooftop rainwater harvesting mandatory in new buildings (2003)?
-
-A. Rajasthan
-
-B. Tamil Nadu
-
-C. Kerala
-
-D. Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tamil Nadu 2003 mandatory RWH — Chennai model cited in water conservation teaching.
-
-**Ans: B.** **Tamil Nadu (2003)** mandated RWH in new buildings.
-
-**Trap:** **Rajasthan** (traditional johad/taanka) without mandatory urban law date.
-
-</details>
-
----
-
-**Q10. UPPCS Prelims pattern — Sukhomajri**
-
-Sukhomajri (Haryana) is a classic success story of:
-
-A. Community watershed management
-
-B. Offshore desalination
-
-C. Nuclear-powered irrigation
-
-D. Interlinking of Himalayan rivers
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Community watershed + afforestation + water harvesting model before IWMP scaling.
-
-**Ans: A.** **Sukhomajri exemplifies community watershed management**.
-
-**Trap:** National river-linking megaproject distractor.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -1112,48 +1111,3 @@ D. Interlinking of Himalayan rivers
 | IWRM = dams only | **Basin + quality + ecology** |
 | CWC = groundwater quality | **Surface water data** |
 | Drinking water unlimited fluoride | **≤1.5 mg/L** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~435 (was ~990 old format) |
-| **Teaching blocks** | §26.1–26.8 (8 syllabus bullets) |
-| **Practice Zone** | 30 + Extra Drill Q31–Q40 |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 20 |
-| **Inline PYQs** | 2025 Q88, Q70; 2023 Q110; 2022 Hariyali, GAP, JJM |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Water Resources | §26.1 |
-| IWRM | §26.2 |
-| Rainwater Harvesting | §26.3 |
-| Watershed Management | §26.4 |
-| River Conservation | §26.5 |
-| Wetland Conservation | §26.6 |
-| Groundwater Conservation | §26.7 |
-| Drinking Water Quality | §26.8 |
-
-### Topic boundaries
-
-- **Wetland ecology depth / Ramsar types** — Topic 21
-- **Water Act / EPA full legal** — Topic 17
-- **DPAP drought schemes** — Topic 23
-- **Pollution BOD detail** — Topic 9
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q88 world water order | §26.1 inline |
-| 2025 Q70 CGWB report | §26.7 inline |
-| 2025 Q58 UP Ramsar NOT | §26.6 note |
-| 2023 Q110 watershed | §26.4 inline |
-| 2022 Hariyali / GAP / JJM | §26.4–26.5–26.8 |
-
-**File ready: YES**

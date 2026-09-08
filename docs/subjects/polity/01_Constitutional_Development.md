@@ -844,6 +844,355 @@ D. Emergency powers - Germany
 
 ---
 
+## Complete PYQ Bank (Topic 1)
+
+> Same full questions as cited in teaching blocks (plus remaining mapped hits). Answers under Show answer.
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q7**
+Consider the following events and arrange them in correct chronological order.
+
+1. Poona Pact
+2. End of Civil Disobedience Movement
+3. Gandhi-Irwin Pact
+4. Second Round Table Conference
+
+Select the correct answer from the code given below:
+
+A. 3, 4, 2, 1
+B. 4, 3, 1, 2
+C. 4, 3, 2, 1
+D. 3, 4, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**D** — GI Mar 1931 → 2nd RTC 1931 → Poona Sep 1932 → CDM ends 1934.
+</details>
+
+**Q2. UPPCS Prelims 2025, Q41**
+Consider the following events and arrange them in correct chronological order.
+
+1. Cripps Mission
+2. Cabinet Mission
+3. Shimla Conference
+4. Wavell Plan
+
+Select the correct answer from the code given below:
+
+A. 1, 4, 3, 2
+B. 4, 1, 2, 3
+C. 4, 1, 3, 2
+D. 1, 4, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**A** — Cripps 1942 → Wavell 1945 → Shimla 1945 → Cabinet 1946.
+</details>
+
+**Q3. UPPCS Prelims 2025, Q82**
+Match List-I with List-II and choose the correct answer using the code given below the lists.
+
+**List-I (Committee)**
+A. Union Constitution Committee
+B. Rules of Procedure Committee
+C. Drafting Committee
+D. Fundamental Rights Sub-Committee
+
+**List-II (Chairman)**
+1. Dr. Rajendra Prasad
+2. J. B. Kripalani
+3. Dr. B. R. Ambedkar
+4. Jawaharlal Nehru
+
+A. 2 1 3 4
+B. 1 4 3 2
+C. 4 1 3 2
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**C** — Nehru; Rajendra Prasad; Ambedkar; Kripalani.
+</details>
+
+### 2024
+
+**Q4. UPPCS Prelims 2024, Q16**
+Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
+
+1. Royal Indian Navy Revolt
+2. Announcement of Cabinet Mission
+3. Formation of Interim Government
+4. Arrival of a UK Parliamentary Delegation in Delhi
+
+A. 4, 3, 2, 1
+B. 4, 1, 2, 3
+C. 4, 2, 1, 3
+D. 2, 4, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**B** — Delegation Jan → RIN Feb → Cabinet announced Feb → Interim Sep 1946.
+</details>
+
+**Q5. UPPCS Prelims 2024, Q133**
+Consider the following events and arrange them in chronological order:
+
+1. Linlithgow August Offer
+2. Cripps Mission arrival in India
+3. Ramgarh Congress Session
+4. Resignation letters of Congress Ministers
+
+A. 3, 1, 4, 2
+B. 4, 3, 1, 2
+C. 1, 3, 4, 2
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**B** — Resignations 1939 → Ramgarh 1940 → August Offer 1940 → Cripps 1942.
+</details>
+
+### 2023
+
+**Q6. UPPCS Prelims 2023, Q3**
+Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
+
+(I) Appointment of the Drafting Committee
+(II) Indian Constitution was adopted and enacted
+(III) Date of commencement of Indian Constitution
+(IV) Constituent Assembly first met
+
+A. III, II, I, IV
+B. IV, I, III, II
+C. I, II, IV, III
+D. IV, I, II, III
+
+<details>
+<summary>Show answer</summary>
+
+**D**
+</details>
+
+**Q7. UPPCS Prelims 2023, Q43**
+By which of the following Acts was the **Chamber of Princes** with 120 members created?
+
+A. Charter Act of 1853
+B. Act of 1793
+C. Act of 1909
+D. Government of India Act, 1919
+
+<details>
+<summary>Show answer</summary>
+
+**D**
+</details>
+
+### 2022
+
+**Q8. UPPCS Prelims 2022, Q79**
+The first Interim National Government was announced on—
+
+A. 25th August 1946
+B. 24th August 1946
+C. 23rd August 1946
+D. 22nd August 1946
+
+<details>
+<summary>Show answer</summary>
+
+**B**
+</details>
+
+### 2021
+
+**Q9. UPPCS Prelims 2021, Q1**
+"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind."
+
+Who among the following said the above mentioned statement in the Constituent Assembly debates?
+
+A. Somnath Lahiri
+B. Jawaharlal Nehru
+C. Sardar Vallabh Bhai Patel
+D. N. G. Ranga
+
+<details>
+<summary>Show answer</summary>
+
+**C**
+</details>
+
+**Q10. UPPCS Prelims 2021, Q13**
+Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
+
+A. Indian Council Act, 1861
+B. Government of India Act, 1858
+C. Indian Council Act, 1892
+D. Indian Council Act, 1909
+
+<details>
+<summary>Show answer</summary>
+
+**A**
+</details>
+
+**Q11. UPPCS Prelims 2021, Q28**
+Consider the following events and arrange them into chronological order:
+
+I. Sharda Act
+II. Nehru Report
+III. Constitution of Simon Commission
+IV. Dandi March
+
+A. III, II, I and IV
+B. I, II, III and IV
+C. IV, III, II and I
+D. I, IV, II and III
+
+<details>
+<summary>Show answer</summary>
+
+**A** — Simon 1927 → Nehru 1928 → Sharda 1929 → Dandi 1930.
+</details>
+
+**Q12. UPPCS Prelims 2021, Q54**
+Which one of the following is NOT correctly matched?
+
+(Provisions) — (Sources)
+
+A. Fundamental Rights – USA
+B. Directive Principles of State Policy – Ireland
+C. Residual Powers of Center – Australia
+D. Emergency powers - Germany
+
+<details>
+<summary>Show answer</summary>
+
+**C** — Residuary = Canada.
+</details>
+
+### 2020
+
+**Q13. UPPCS Prelims 2020, Q24**
+Who among the following leaders did NOT participated in the Second Round Table Conference?
+
+A. M.K. Gandhi
+B. Sarojini Naidu
+C. Pt. Madan Mohan Malviya
+D. Dr. Rajendra Prasad
+
+<details>
+<summary>Show answer</summary>
+
+**D**
+</details>
+
+**Q14. UPPCS Prelims 2020, Q134**
+On which of the following dates, Constituent Assembly of India adopted the National Flag?
+
+A. 22 January, 1950
+B. 24 January, 1950
+C. 22 July, 1947
+D. 22 July, 1948
+
+<details>
+<summary>Show answer</summary>
+
+**C**
+</details>
+
+### 2019
+
+**Q15. UPPCS Prelims 2019, Q19**
+Which of the following is NOT correctly matched?
+
+A. Indian Navy Act — 1927
+B. Civil Disobedience Movement — 1930
+C. Second Round Table Conference — 1931
+D. The Communal Award — 1933
+
+<details>
+<summary>Show answer</summary>
+
+**D** — Award was 1932.
+</details>
+
+**Q16. UPPCS Prelims 2019, Q20**
+Arrange the following events in a chronological order and select the correct answer from the codes given below:
+
+I. Appointment of Simon Commission
+II. Jallianwala Bagh Massacre
+III. Mahatma Gandhi's Dandi March
+IV. Death of Ferozshah Mehta
+
+A. IV, II, I, III
+B. I, II, IV, III
+C. II, III, IV, I
+D. IV, III, II, I
+
+<details>
+<summary>Show answer</summary>
+
+**A** — 1915 → 1919 → 1927 → 1930.
+</details>
+
+**Q17. UPPCS Prelims 2019, Q94**
+Arrange the following events in a chronological order:
+
+I. Poona Pact
+II. Gandhi-Irvin Agreement
+III. Cripps Mission
+IV. Civil Disobedience Movement
+
+A. IV, II, III, I
+B. II, IV, I, III
+C. IV, II, I, III
+D. III, I, IV, II
+
+<details>
+<summary>Show answer</summary>
+
+**C** — CDM 1930 → GI 1931 → Poona 1932 → Cripps 1942.
+</details>
+
+### 2018
+
+**Q18. UPPCS Prelims 2018, Q17Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
+
+**Reason (R):** The Muslim League joined the interim government formed in 1946.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**B**
+</details>
+
+**Q19. UPPCS Prelims 2018, Q147**
+Mention the correct date of the last meeting of the Constituent Assembly of India.
+
+A. 26 Nov. 1949
+B. 5 Dec. 1949
+C. 24 Jan. 1950
+D. 25 Jan. 1950
+
+<details>
+<summary>Show answer</summary>
+
+**C**
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.48 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
@@ -1565,355 +1914,6 @@ D. 25
 <summary>Show answer</summary>
 
 **Ans: C** — About **15** women members.
-</details>
-
----
-
-## Complete PYQ Bank (Topic 1)
-
-> Same full questions as cited in teaching blocks (plus remaining mapped hits). Answers under Show answer.
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q7**
-Consider the following events and arrange them in correct chronological order.
-
-1. Poona Pact
-2. End of Civil Disobedience Movement
-3. Gandhi-Irwin Pact
-4. Second Round Table Conference
-
-Select the correct answer from the code given below:
-
-A. 3, 4, 2, 1
-B. 4, 3, 1, 2
-C. 4, 3, 2, 1
-D. 3, 4, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**D** — GI Mar 1931 → 2nd RTC 1931 → Poona Sep 1932 → CDM ends 1934.
-</details>
-
-**Q2. UPPCS Prelims 2025, Q41**
-Consider the following events and arrange them in correct chronological order.
-
-1. Cripps Mission
-2. Cabinet Mission
-3. Shimla Conference
-4. Wavell Plan
-
-Select the correct answer from the code given below:
-
-A. 1, 4, 3, 2
-B. 4, 1, 2, 3
-C. 4, 1, 3, 2
-D. 1, 4, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**A** — Cripps 1942 → Wavell 1945 → Shimla 1945 → Cabinet 1946.
-</details>
-
-**Q3. UPPCS Prelims 2025, Q82**
-Match List-I with List-II and choose the correct answer using the code given below the lists.
-
-**List-I (Committee)**
-A. Union Constitution Committee
-B. Rules of Procedure Committee
-C. Drafting Committee
-D. Fundamental Rights Sub-Committee
-
-**List-II (Chairman)**
-1. Dr. Rajendra Prasad
-2. J. B. Kripalani
-3. Dr. B. R. Ambedkar
-4. Jawaharlal Nehru
-
-A. 2 1 3 4
-B. 1 4 3 2
-C. 4 1 3 2
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**C** — Nehru; Rajendra Prasad; Ambedkar; Kripalani.
-</details>
-
-### 2024
-
-**Q4. UPPCS Prelims 2024, Q16**
-Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
-
-1. Royal Indian Navy Revolt
-2. Announcement of Cabinet Mission
-3. Formation of Interim Government
-4. Arrival of a UK Parliamentary Delegation in Delhi
-
-A. 4, 3, 2, 1
-B. 4, 1, 2, 3
-C. 4, 2, 1, 3
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**B** — Delegation Jan → RIN Feb → Cabinet announced Feb → Interim Sep 1946.
-</details>
-
-**Q5. UPPCS Prelims 2024, Q133**
-Consider the following events and arrange them in chronological order:
-
-1. Linlithgow August Offer
-2. Cripps Mission arrival in India
-3. Ramgarh Congress Session
-4. Resignation letters of Congress Ministers
-
-A. 3, 1, 4, 2
-B. 4, 3, 1, 2
-C. 1, 3, 4, 2
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**B** — Resignations 1939 → Ramgarh 1940 → August Offer 1940 → Cripps 1942.
-</details>
-
-### 2023
-
-**Q6. UPPCS Prelims 2023, Q3**
-Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
-
-(I) Appointment of the Drafting Committee
-(II) Indian Constitution was adopted and enacted
-(III) Date of commencement of Indian Constitution
-(IV) Constituent Assembly first met
-
-A. III, II, I, IV
-B. IV, I, III, II
-C. I, II, IV, III
-D. IV, I, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**D**
-</details>
-
-**Q7. UPPCS Prelims 2023, Q43**
-By which of the following Acts was the **Chamber of Princes** with 120 members created?
-
-A. Charter Act of 1853
-B. Act of 1793
-C. Act of 1909
-D. Government of India Act, 1919
-
-<details>
-<summary>Show answer</summary>
-
-**D**
-</details>
-
-### 2022
-
-**Q8. UPPCS Prelims 2022, Q79**
-The first Interim National Government was announced on—
-
-A. 25th August 1946
-B. 24th August 1946
-C. 23rd August 1946
-D. 22nd August 1946
-
-<details>
-<summary>Show answer</summary>
-
-**B**
-</details>
-
-### 2021
-
-**Q9. UPPCS Prelims 2021, Q1**
-"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind."
-
-Who among the following said the above mentioned statement in the Constituent Assembly debates?
-
-A. Somnath Lahiri
-B. Jawaharlal Nehru
-C. Sardar Vallabh Bhai Patel
-D. N. G. Ranga
-
-<details>
-<summary>Show answer</summary>
-
-**C**
-</details>
-
-**Q10. UPPCS Prelims 2021, Q13**
-Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
-
-A. Indian Council Act, 1861
-B. Government of India Act, 1858
-C. Indian Council Act, 1892
-D. Indian Council Act, 1909
-
-<details>
-<summary>Show answer</summary>
-
-**A**
-</details>
-
-**Q11. UPPCS Prelims 2021, Q28**
-Consider the following events and arrange them into chronological order:
-
-I. Sharda Act
-II. Nehru Report
-III. Constitution of Simon Commission
-IV. Dandi March
-
-A. III, II, I and IV
-B. I, II, III and IV
-C. IV, III, II and I
-D. I, IV, II and III
-
-<details>
-<summary>Show answer</summary>
-
-**A** — Simon 1927 → Nehru 1928 → Sharda 1929 → Dandi 1930.
-</details>
-
-**Q12. UPPCS Prelims 2021, Q54**
-Which one of the following is NOT correctly matched?
-
-(Provisions) — (Sources)
-
-A. Fundamental Rights – USA
-B. Directive Principles of State Policy – Ireland
-C. Residual Powers of Center – Australia
-D. Emergency powers - Germany
-
-<details>
-<summary>Show answer</summary>
-
-**C** — Residuary = Canada.
-</details>
-
-### 2020
-
-**Q13. UPPCS Prelims 2020, Q24**
-Who among the following leaders did NOT participated in the Second Round Table Conference?
-
-A. M.K. Gandhi
-B. Sarojini Naidu
-C. Pt. Madan Mohan Malviya
-D. Dr. Rajendra Prasad
-
-<details>
-<summary>Show answer</summary>
-
-**D**
-</details>
-
-**Q14. UPPCS Prelims 2020, Q134**
-On which of the following dates, Constituent Assembly of India adopted the National Flag?
-
-A. 22 January, 1950
-B. 24 January, 1950
-C. 22 July, 1947
-D. 22 July, 1948
-
-<details>
-<summary>Show answer</summary>
-
-**C**
-</details>
-
-### 2019
-
-**Q15. UPPCS Prelims 2019, Q19**
-Which of the following is NOT correctly matched?
-
-A. Indian Navy Act — 1927
-B. Civil Disobedience Movement — 1930
-C. Second Round Table Conference — 1931
-D. The Communal Award — 1933
-
-<details>
-<summary>Show answer</summary>
-
-**D** — Award was 1932.
-</details>
-
-**Q16. UPPCS Prelims 2019, Q20**
-Arrange the following events in a chronological order and select the correct answer from the codes given below:
-
-I. Appointment of Simon Commission
-II. Jallianwala Bagh Massacre
-III. Mahatma Gandhi's Dandi March
-IV. Death of Ferozshah Mehta
-
-A. IV, II, I, III
-B. I, II, IV, III
-C. II, III, IV, I
-D. IV, III, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**A** — 1915 → 1919 → 1927 → 1930.
-</details>
-
-**Q17. UPPCS Prelims 2019, Q94**
-Arrange the following events in a chronological order:
-
-I. Poona Pact
-II. Gandhi-Irvin Agreement
-III. Cripps Mission
-IV. Civil Disobedience Movement
-
-A. IV, II, III, I
-B. II, IV, I, III
-C. IV, II, I, III
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**C** — CDM 1930 → GI 1931 → Poona 1932 → Cripps 1942.
-</details>
-
-### 2018
-
-**Q18. UPPCS Prelims 2018, Q17Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
-
-**Reason (R):** The Muslim League joined the interim government formed in 1946.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-C. (A) is true, but (R) is false.
-D. (A) is false, but (R) is true.
-
-<details>
-<summary>Show answer</summary>
-
-**B**
-</details>
-
-**Q19. UPPCS Prelims 2018, Q147**
-Mention the correct date of the last meeting of the Constituent Assembly of India.
-
-A. 26 Nov. 1949
-B. 5 Dec. 1949
-C. 24 Jan. 1950
-D. 25 Jan. 1950
-
-<details>
-<summary>Show answer</summary>
-
-**C**
 </details>
 
 ---

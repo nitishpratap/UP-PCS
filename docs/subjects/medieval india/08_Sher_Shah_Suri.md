@@ -206,6 +206,145 @@ A. Both true and R explains A | B. Both true, R not explanation | C. A true, R f
 
 ---
 
+## Complete PYQ Bank (Topic 8)
+
+
+**Q1. UPPCS Prelims 2025, Q79**
+
+Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
+
+Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
+
+<details><summary>Show answer</summary>
+
+**Ans: D (2-4-1-3)Order:** Daurah **1532** → Chausa **26 June 1539** → Kannauj/Bilgram **17 May 1540** → Samugarh **1658**.
+
+**Trap:Daurah** is Humayun vs Afghan chiefs, **not** Dharmat (1658) or Chausa (1539).
+
+</details>
+
+
+**Q2. UPPCS Prelims 2022, Q95**
+
+From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?
+
+A. Bundelkhand |
+
+B. Malwa |
+
+C. Marwar |
+
+D. Mewar
+
+<details><summary>Show answer</summary>
+
+**Ans: C (Marwar)Why:** At **Sammel/Giri-Sumel (1544)** against **Rao Maldeo**, Rathore captains **Jayata** and **Kumpa** stayed loyal and died fighting.
+
+**Trap:Mewar** is Sisodia territory — the fact is **Marwar** under Maldeo.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2019, Q12**
+
+A(A): Akbar, like Sher Shah, tried to regulate the currency of the state. R(R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12A is true:Akbar** continued **Sher Shah's** regulated currency.
+
+**R is true:** Chief **copper coin** was the **Dam** under both.
+
+**Why R explains A:** Shared **Dam** standard shows continuity of regulation.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2019, Q13**
+
+I Sarnal II Bilgram III Dharmat IV Jajau
+
+A. II-I-III-IV |
+
+B. II-III-IV-I |
+
+C. III-II-I-IV |
+
+D. III-I-II-IV
+
+<details><summary>Show answer</summary>
+
+**Ans: A (II-I-III-IV)Order:** Bilgram/Kannauj **1540** → Sarnal **1739** → Dharmat **1658** → Jajau **1707**.
+
+**Trap:Bilgram** is the same battle as **Kannauj 1540** — not a separate later war.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2019, Q87**
+
+NOT correctly matched: A. Dam–Copper | B. Desai–Revenue Collector | C. Diwan–Revenue Chief of a province | D. Jarib–A type of tax
+
+<details><summary>Show answer</summary>
+
+**Ans: DWhy wrong:Jarib** is Sher Shah's **measuring rope**, not a tax. **Dam** = copper coin ✓. **Desai** = revenue collector ✓.
+
+**Trap:** Option C reflects Mughal usage; the clearest NOT-matched fact is **D**.
+
+</details>
+
+
+**Q6. UPPCS Prelims 2019, Q91**
+
+I Rabia Daurani’s Tomb Aurangabad II Sher Shah tomb Sasaram III Humayun’s Tomb Delhi IV Atala Mosque Jaunpur
+
+A. I-II-IV-III |
+
+B. IV-II-III-I |
+
+C. II-I-III-IV |
+
+D. III-IV-II-I
+
+<details><summary>Show answer</summary>
+
+**Ans: B (IV-II-III-I)Order:** Atala Jaunpur (~15th c.) → Sher Shah tomb Sasaram (**1545**) → Humayun's Tomb Delhi (**1565**) → Rabia Daurani Aurangabad (**1678**).
+
+**Trap:Sasaram** is birth place **and** tomb — not **Kalinjar** (death site).
+
+</details>
+
+
+**Q7. UPPCS Prelims 2018, Q94 (Purana Qila overlap)**
+
+Khayr-ul-Manazil opposite Purana Qila constituted by?
+
+A. Hamida Banu |
+
+B. Salima Sultan |
+
+C. Jiji Anga |
+
+D. Maham Anaga
+
+<details><summary>Show answer</summary>
+
+**Ans: D (Maham Anaga)Why:Khayr-ul-Manazil** opposite **Purana Qila** was built by **Maham Anaga** in **Akbar's** reign. **Purana Qila** itself is **Sher Shah's** Delhi fort.
+
+**Trap:** Sher Shah rebuilt Purana Qila, but the mosque opposite is **not** his work.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **35 questions** · answers in `<details>`
@@ -843,145 +982,6 @@ D. Neither
 **Ans: C (Both)Key:** Both statements are correct — **Shiqdar** = pargana law/order; **Munshif** = pargana accounts.
 
 **Trap:** Do not swap **Shiqdar** and **Munshif** portfolios.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 8)
-
-
-**Q1. UPPCS Prelims 2025, Q79**
-
-Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
-
-Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
-
-<details><summary>Show answer</summary>
-
-**Ans: D (2-4-1-3)Order:** Daurah **1532** → Chausa **26 June 1539** → Kannauj/Bilgram **17 May 1540** → Samugarh **1658**.
-
-**Trap:Daurah** is Humayun vs Afghan chiefs, **not** Dharmat (1658) or Chausa (1539).
-
-</details>
-
-
-**Q2. UPPCS Prelims 2022, Q95**
-
-From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?
-
-A. Bundelkhand |
-
-B. Malwa |
-
-C. Marwar |
-
-D. Mewar
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Marwar)Why:** At **Sammel/Giri-Sumel (1544)** against **Rao Maldeo**, Rathore captains **Jayata** and **Kumpa** stayed loyal and died fighting.
-
-**Trap:Mewar** is Sisodia territory — the fact is **Marwar** under Maldeo.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2019, Q12**
-
-A(A): Akbar, like Sher Shah, tried to regulate the currency of the state. R(R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
-
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12A is true:Akbar** continued **Sher Shah's** regulated currency.
-
-**R is true:** Chief **copper coin** was the **Dam** under both.
-
-**Why R explains A:** Shared **Dam** standard shows continuity of regulation.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2019, Q13**
-
-I Sarnal II Bilgram III Dharmat IV Jajau
-
-A. II-I-III-IV |
-
-B. II-III-IV-I |
-
-C. III-II-I-IV |
-
-D. III-I-II-IV
-
-<details><summary>Show answer</summary>
-
-**Ans: A (II-I-III-IV)Order:** Bilgram/Kannauj **1540** → Sarnal **1739** → Dharmat **1658** → Jajau **1707**.
-
-**Trap:Bilgram** is the same battle as **Kannauj 1540** — not a separate later war.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2019, Q87**
-
-NOT correctly matched: A. Dam–Copper | B. Desai–Revenue Collector | C. Diwan–Revenue Chief of a province | D. Jarib–A type of tax
-
-<details><summary>Show answer</summary>
-
-**Ans: DWhy wrong:Jarib** is Sher Shah's **measuring rope**, not a tax. **Dam** = copper coin ✓. **Desai** = revenue collector ✓.
-
-**Trap:** Option C reflects Mughal usage; the clearest NOT-matched fact is **D**.
-
-</details>
-
-
-**Q6. UPPCS Prelims 2019, Q91**
-
-I Rabia Daurani’s Tomb Aurangabad II Sher Shah tomb Sasaram III Humayun’s Tomb Delhi IV Atala Mosque Jaunpur
-
-A. I-II-IV-III |
-
-B. IV-II-III-I |
-
-C. II-I-III-IV |
-
-D. III-IV-II-I
-
-<details><summary>Show answer</summary>
-
-**Ans: B (IV-II-III-I)Order:** Atala Jaunpur (~15th c.) → Sher Shah tomb Sasaram (**1545**) → Humayun's Tomb Delhi (**1565**) → Rabia Daurani Aurangabad (**1678**).
-
-**Trap:Sasaram** is birth place **and** tomb — not **Kalinjar** (death site).
-
-</details>
-
-
-**Q7. UPPCS Prelims 2018, Q94 (Purana Qila overlap)**
-
-Khayr-ul-Manazil opposite Purana Qila constituted by?
-
-A. Hamida Banu |
-
-B. Salima Sultan |
-
-C. Jiji Anga |
-
-D. Maham Anaga
-
-<details><summary>Show answer</summary>
-
-**Ans: D (Maham Anaga)Why:Khayr-ul-Manazil** opposite **Purana Qila** was built by **Maham Anaga** in **Akbar's** reign. **Purana Qila** itself is **Sher Shah's** Delhi fort.
-
-**Trap:** Sher Shah rebuilt Purana Qila, but the mosque opposite is **not** his work.
 
 </details>
 

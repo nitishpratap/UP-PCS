@@ -760,6 +760,472 @@ D. Ministry of Finance
 
 ---
 
+## Complete PYQ Bank — Agriculture (2018–2025)
+
+> Study these as real papers: read the stem, attempt mentally, then open the answer.
+> **Coverage:** UPPCS Prelims 2018–2025 agri hits (MSP, crops, GR, revolutions, plantation, potato, Azolla, CACP, diseases, subsidies, W-UP). Year-grouped.
+
+### 2018
+
+**Q9.** From 4th July 2018 the Minimum Support Price (MSP) during 2018-19 for paddy per quintal is
+
+A. Rs. 1,550
+
+B. Rs. 1,650
+
+C. Rs. 1,750
+
+D. Rs. 1,950
+
+<details><summary>Show answer</summary>
+
+**Ans: C (Rs. 1,750)** — Year-specific. Prefer remembering CACP→Cabinet for lasting revision.
+</details>
+
+**Q28.** Arrange the following coffee producing countries in descending order of their coffee production (2016, quantity) and select the correct answer from the codes given below:
+
+A. Colombia B. Vietnam C. Brazil D. Indonesia
+
+A. D, C, B, A
+
+B. C, B, A, D
+
+C. B, D, C, A
+
+D. C, A, B, D
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Brazil > Vietnam > Colombia > Indonesia (C, B, A, D).
+</details>
+
+**Q56.** Norman Borlaug was given Nobel Prize in which field?
+
+A. Agriculture
+
+B. Economics
+
+C. Medicine
+
+D. Peace
+
+<details><summary>Show answer</summary>
+
+**Ans: D Peace** — Trap is Agriculture.
+</details>
+
+**Q57.** Which pair is NOT correctly matched?
+
+**Logic:** Find the one false pair. Golden rice–Vitamin A is true; ozone lives in the **stratosphere**, not the troposphere.
+
+A. Renneting–Cheese
+
+B. Genetic Engineering–Plasmids
+
+C. Golden rice–Vitamin A
+
+D. Ozone layer–Troposphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ozone layer = **stratosphere**. **C** is correct (golden rice → Vitamin A). Trap is picking golden rice because another stem once mixed science pairs.
+
+</details>
+
+**Q106.** Sultana, Gulabi and Kali Champa varieties are of which major fruit?
+
+A. Custard Apple
+
+B. Orange
+
+C. Guava
+
+D. Grapes
+
+<details><summary>Show answer</summary>
+
+**Ans: C Guava** — Trap: grapes because of the name Sultana.
+</details>
+
+**Q107.** Largest producer of cardamom and pepper in India?
+
+A. Tamil Nadu
+
+B. Goa
+
+C. Kerala
+
+D. Maharashtra
+
+<details><summary>Show answer</summary>
+
+**Ans: C Kerala**
+</details>
+
+### 2019
+
+**Q46.** Nitrogen fixing bacteria make combination with cells of the roots of
+
+A. Pulses
+
+B. Rice
+
+C. Wheat
+
+D. Sugarcane
+
+<details><summary>Show answer</summary>
+
+**Ans: A Pulses**
+</details>
+
+**Q86.** A: Sugarcane and sugar production in U.P. is more than Maharashtra but productivity is less. R: Most sugar factories in Maharashtra are in cooperative sector.
+
+A. Both, R explains
+
+B. Both, R does not explain
+
+C. A true R false
+
+D. A false R true
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Both true; cooperatives do not explain UP’s lower productivity.
+</details>
+
+### 2020
+
+**Q58.** A: Ahmedabad is the largest centre of cotton textile industry in India. R: Ahmedabad is located in a major cotton growing region, so no raw-material problem.
+
+A. Both, R explains
+
+B. Both, R not explanation
+
+C. A true R false
+
+D. A false R true
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — The first statement is false (Mumbai, not Ahmedabad, is traditionally the largest cotton textile centre). The second statement is true (Ahmedabad is in a major cotton-growing region).
+</details>
+
+**Q72.** In which of the following regions of the world, the production of citrus fruits is well developed?
+
+A. (Hindi OCR hill-range pair)
+
+B. (Hindi OCR Himalayan pair)
+
+C. Mediterranean regions
+
+D. Equatorial regions
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Mediterranean climate (winter rain, bright summer) is the classic world citrus belt. Equatorial is too wet/cloudy; the hill-range distractors are not the world citrus belt.
+</details>
+
+**Q143.** A: Union Budget 2020-21 focused on rural development aiming at doubling farmer income. R: 16 action points centred on agriculture, irrigation and rural development.
+
+Options: standard A/R codes
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Both true; R explains A.
+</details>
+
+### 2021
+
+**Q45.** Which is NOT a major cocoa producer country?
+
+A. Latvia
+
+B. Cameroon
+
+C. Ghana
+
+D. Ivory Coast
+
+<details><summary>Show answer</summary>
+
+**Ans: A Latvia**
+</details>
+
+**Q103.** Agriculture Infrastructure and Development Cess (Budget 2021-22) levied on how many products?
+
+A. 12
+
+B. 20
+
+C. 25
+
+D. 29
+
+<details><summary>Show answer</summary>
+
+**Ans: D 29**
+</details>
+
+### 2022
+
+**Q21.** Match List-I with List-II and select the correct answer from the code given below.
+| List-I (Plant Disease) | List-II (Cause) |
+|---|---|
+| A. Citrus Canker | 1. Insect |
+| B. Red Rot Disease of Sugarcane | 2. Deficiency of Oxygen |
+| C. Krishnakant Disease of Potato | 3. Bacteria |
+| D. Sahu Disease of Wheat | 4. Fungus |
+
+A. A-4, B-1, C-3, D-2
+
+B. A-1, B-3, C-4, D-2
+
+C. A-3, B-4, C-2, D-1
+
+D. A-1, B-2, C-3, D-4
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Citrus canker = bacteria (3); red rot = fungus (4); Krishnakant = O₂ deficiency (2); Sahu = insect (1).
+</details>
+
+**Q39.** Match List-I with List-II and select the correct answer from the code given below.
+| List-I (Person) | List-II (Concerned with) |
+|---|---|
+| A. M. S. Swaminathan | 1. Social control on Banks |
+| B. L. K. Jha | 2. Milk Production |
+| C. Verghese Kurien | 3. Green Revolution |
+| D. Morarji Desai | 4. Economic Administration Reforms |
+
+A. A-4, B-1, C-3, D-2
+
+B. A-2, B-3, C-4, D-1
+
+C. A-3, B-4, C-2, D-1
+
+D. A-1, B-2, C-4, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Swaminathan–GR (3); Jha–Economic Admin (4); Kurien–Milk (2); Desai–Bank social control (1).
+</details>
+
+**Q74.** Consider the following statements about farm subsidies in India.
+
+1. The input subsidies in India, such as on fertilizers, fall under indirect farm subsidies.
+2. Reduction in power and irrigation bills offered to farmers fall under direct farm subsidies.
+3. The agricultural provisions of the World Trade Organization (WTO) allow direct farm subsidies but prohibit indirect subsidies.
+4. All subsidies provided by the governments in India fall under indirect subsidies.
+
+A. 1 and 4
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details><summary>Show answer</summary>
+
+**Ans: Contested in keys.** Statement **1 is solid** (fertiliser = indirect input subsidy). Statement **2 is usually treated as false** (cheap power/irrigation is also an *input/indirect* subsidy, not a direct cash transfer). 3 and 4 are false (WTO does not simply “allow direct / prohibit indirect”; not *all* Indian subsidies are indirect). Prefer **only-1 logic**; if forced to a letter, many coaches still mark **D** — know the trap rather than a fake certainty.
+</details>
+
+**Q91.** With reference to Western Uttar Pradesh, which of the following statements is/are correct?
+
+1. The western region of U.P. is much more developed compared to other regions.
+2. The region has witnessed the Green Revolution.
+
+A. Neither 1 nor 2
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Both. W-UP is the GR wheat–rice–cane heartland and the more developed plain belt.
+</details>
+
+**Q136.** Match List-I with List-II and select the correct answer from the code given below.
+| List-I (Revolution) | List-II (Related with) |
+|---|---|
+| A. Golden Revolution | 1. Oilseed production |
+| B. Grey Revolution | 2. Horticulture and honey |
+| C. Yellow Revolution | 3. Petroleum production |
+| D. Black Revolution | 4. Fertilizers |
+
+A. A-2, B-4, C-1, D-3
+
+B. A-2, B-3, C-4, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-4, B-2, C-1, D-3
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — Golden→horticulture & honey (2); Grey→fertilisers (4); Yellow→oilseed (1); Black→petroleum (3).
+</details>
+
+**Q142.** Which one of the following is correctly matched?
+
+A. Gujarat — Tea
+
+B. Uttar Pradesh — Jute
+
+C. Kerala — Rubber
+
+D. Assam — Wheat
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Kerala–Rubber. Gujarat–Tea, UP–Jute, Assam–Wheat are all wrong pairs.
+</details>
+
+### 2023
+
+**Q64.** Credit for coconut and sugarcane agriculture in the Philippines?
+
+A. French
+
+B. Britishers
+
+C. Hollanders
+
+D. Spanish and Americans
+
+<details><summary>Show answer</summary>
+
+**Ans: D Spanish and Americans**
+</details>
+
+**Q104.** Aquatic plant used as biofertilizer in water-logged rice fields?
+
+A. Lemna
+
+B. Azolla
+
+C. Wolffia
+
+D. Trapa
+
+<details><summary>Show answer</summary>
+
+**Ans: B Azolla**
+</details>
+
+### 2024
+
+**Q34.** Crop predominantly grown under plantation agriculture?
+
+A. Wheat
+
+B. Tea
+
+C. Rice
+
+D. Maize
+
+<details><summary>Show answer</summary>
+
+**Ans: B Tea**
+</details>
+
+**Q43.** Who recommends MSP for agricultural crops?
+
+A. RBI
+
+B. NITI Aayog
+
+C. CACP
+
+D. Ministry of Finance
+
+<details><summary>Show answer</summary>
+
+**Ans: C CACP** — Cabinet decides later.
+</details>
+
+**Q73.** Consider the following statements with reference to cultivated area of some countries of the world:
+
+1. In comparison to USA, China and Japan, India has highest geographical area under cultivation.
+2. India's location in tropical monsoon region helps diversified cropping all through the year.
+Which of the above statements is/are correct?
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
+
+<details><summary>Show answer</summary>
+
+**Ans: A in most coaching keys** — Stmt 2 is unambiguously true. Stmt 1 is the usual NCERT-style claim (higher *share* of area cultivated than those three). If a key splits, still treat stmt 2 as sure.
+</details>
+
+### 2025
+
+**Q10.** With reference to 'Delhi Government's Bio-decomposer and Spray Programme', which of the following statements is/are correct?
+
+1. The Bio-decomposer solution is provided free of cost to farmers to help convert stubble into manure.
+2. The Bio-decomposer solution is prepared using a mix of several fungi.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Both. Free fungal mix for stubble-to-manure.
+</details>
+
+**Q34.** With reference to Uttar Pradesh, which of the following statements is/are correct?
+
+1. Uttar Pradesh is the leading producer of potato in the country.
+2. Government of India has approved the establishment of the South Asia Regional Centre of the International Potato Centre at Aligarh.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — Stmt 1 true. Stmt 2 false: CIP-SARC is at **Singna, Agra**, not Aligarh.
+</details>
+
+**Q147.** Who among the following introduced the concept of entitlements in food security?
+
+1. M. S. Swaminathan 2. Atul Pranay 3. Samali Srikant 4. Amartya Sen
+
+A. 1 and 2
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — **Amartya Sen** only. Swaminathan is GR/Evergreen — not the entitlements approach.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -2142,470 +2608,6 @@ Reason (R): Sikkim has less than 10% of its land available for agriculture.
 </details>
 
 ---
-
-## Complete PYQ Bank — Agriculture (2018–2025)
-
-> Study these as real papers: read the stem, attempt mentally, then open the answer.
-> **Coverage:** UPPCS Prelims 2018–2025 agri hits (MSP, crops, GR, revolutions, plantation, potato, Azolla, CACP, diseases, subsidies, W-UP). Year-grouped.
-
-### 2018
-
-**Q9.** From 4th July 2018 the Minimum Support Price (MSP) during 2018-19 for paddy per quintal is
-
-A. Rs. 1,550
-
-B. Rs. 1,650
-
-C. Rs. 1,750
-
-D. Rs. 1,950
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Rs. 1,750)** — Year-specific. Prefer remembering CACP→Cabinet for lasting revision.
-</details>
-
-**Q28.** Arrange the following coffee producing countries in descending order of their coffee production (2016, quantity) and select the correct answer from the codes given below:
-
-A. Colombia B. Vietnam C. Brazil D. Indonesia
-
-A. D, C, B, A
-
-B. C, B, A, D
-
-C. B, D, C, A
-
-D. C, A, B, D
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Brazil > Vietnam > Colombia > Indonesia (C, B, A, D).
-</details>
-
-**Q56.** Norman Borlaug was given Nobel Prize in which field?
-
-A. Agriculture
-
-B. Economics
-
-C. Medicine
-
-D. Peace
-
-<details><summary>Show answer</summary>
-
-**Ans: D Peace** — Trap is Agriculture.
-</details>
-
-**Q57.** Which pair is NOT correctly matched?
-
-**Logic:** Find the one false pair. Golden rice–Vitamin A is true; ozone lives in the **stratosphere**, not the troposphere.
-
-A. Renneting–Cheese
-
-B. Genetic Engineering–Plasmids
-
-C. Golden rice–Vitamin A
-
-D. Ozone layer–Troposphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Ozone layer = **stratosphere**. **C** is correct (golden rice → Vitamin A). Trap is picking golden rice because another stem once mixed science pairs.
-
-</details>
-
-**Q106.** Sultana, Gulabi and Kali Champa varieties are of which major fruit?
-
-A. Custard Apple
-
-B. Orange
-
-C. Guava
-
-D. Grapes
-
-<details><summary>Show answer</summary>
-
-**Ans: C Guava** — Trap: grapes because of the name Sultana.
-</details>
-
-**Q107.** Largest producer of cardamom and pepper in India?
-
-A. Tamil Nadu
-
-B. Goa
-
-C. Kerala
-
-D. Maharashtra
-
-<details><summary>Show answer</summary>
-
-**Ans: C Kerala**
-</details>
-
-### 2019
-
-**Q46.** Nitrogen fixing bacteria make combination with cells of the roots of
-
-A. Pulses
-
-B. Rice
-
-C. Wheat
-
-D. Sugarcane
-
-<details><summary>Show answer</summary>
-
-**Ans: A Pulses**
-</details>
-
-**Q86.** A: Sugarcane and sugar production in U.P. is more than Maharashtra but productivity is less. R: Most sugar factories in Maharashtra are in cooperative sector.
-
-A. Both, R explains
-
-B. Both, R does not explain
-
-C. A true R false
-
-D. A false R true
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Both true; cooperatives do not explain UP’s lower productivity.
-</details>
-
-### 2020
-
-**Q58.** A: Ahmedabad is the largest centre of cotton textile industry in India. R: Ahmedabad is located in a major cotton growing region, so no raw-material problem.
-
-A. Both, R explains
-
-B. Both, R not explanation
-
-C. A true R false
-
-D. A false R true
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — The first statement is false (Mumbai, not Ahmedabad, is traditionally the largest cotton textile centre). The second statement is true (Ahmedabad is in a major cotton-growing region).
-</details>
-
-**Q72.** In which of the following regions of the world, the production of citrus fruits is well developed?
-
-A. (Hindi OCR hill-range pair)
-
-B. (Hindi OCR Himalayan pair)
-
-C. Mediterranean regions
-
-D. Equatorial regions
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Mediterranean climate (winter rain, bright summer) is the classic world citrus belt. Equatorial is too wet/cloudy; the hill-range distractors are not the world citrus belt.
-</details>
-
-**Q143.** A: Union Budget 2020-21 focused on rural development aiming at doubling farmer income. R: 16 action points centred on agriculture, irrigation and rural development.
-
-Options: standard A/R codes
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Both true; R explains A.
-</details>
-
-### 2021
-
-**Q45.** Which is NOT a major cocoa producer country?
-
-A. Latvia
-
-B. Cameroon
-
-C. Ghana
-
-D. Ivory Coast
-
-<details><summary>Show answer</summary>
-
-**Ans: A Latvia**
-</details>
-
-**Q103.** Agriculture Infrastructure and Development Cess (Budget 2021-22) levied on how many products?
-
-A. 12
-
-B. 20
-
-C. 25
-
-D. 29
-
-<details><summary>Show answer</summary>
-
-**Ans: D 29**
-</details>
-
-### 2022
-
-**Q21.** Match List-I with List-II and select the correct answer from the code given below.
-| List-I (Plant Disease) | List-II (Cause) |
-|---|---|
-| A. Citrus Canker | 1. Insect |
-| B. Red Rot Disease of Sugarcane | 2. Deficiency of Oxygen |
-| C. Krishnakant Disease of Potato | 3. Bacteria |
-| D. Sahu Disease of Wheat | 4. Fungus |
-
-A. A-4, B-1, C-3, D-2
-
-B. A-1, B-3, C-4, D-2
-
-C. A-3, B-4, C-2, D-1
-
-D. A-1, B-2, C-3, D-4
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Citrus canker = bacteria (3); red rot = fungus (4); Krishnakant = O₂ deficiency (2); Sahu = insect (1).
-</details>
-
-**Q39.** Match List-I with List-II and select the correct answer from the code given below.
-| List-I (Person) | List-II (Concerned with) |
-|---|---|
-| A. M. S. Swaminathan | 1. Social control on Banks |
-| B. L. K. Jha | 2. Milk Production |
-| C. Verghese Kurien | 3. Green Revolution |
-| D. Morarji Desai | 4. Economic Administration Reforms |
-
-A. A-4, B-1, C-3, D-2
-
-B. A-2, B-3, C-4, D-1
-
-C. A-3, B-4, C-2, D-1
-
-D. A-1, B-2, C-4, D-3
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Swaminathan–GR (3); Jha–Economic Admin (4); Kurien–Milk (2); Desai–Bank social control (1).
-</details>
-
-**Q74.** Consider the following statements about farm subsidies in India.
-
-1. The input subsidies in India, such as on fertilizers, fall under indirect farm subsidies.
-2. Reduction in power and irrigation bills offered to farmers fall under direct farm subsidies.
-3. The agricultural provisions of the World Trade Organization (WTO) allow direct farm subsidies but prohibit indirect subsidies.
-4. All subsidies provided by the governments in India fall under indirect subsidies.
-
-A. 1 and 4
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details><summary>Show answer</summary>
-
-**Ans: Contested in keys.** Statement **1 is solid** (fertiliser = indirect input subsidy). Statement **2 is usually treated as false** (cheap power/irrigation is also an *input/indirect* subsidy, not a direct cash transfer). 3 and 4 are false (WTO does not simply “allow direct / prohibit indirect”; not *all* Indian subsidies are indirect). Prefer **only-1 logic**; if forced to a letter, many coaches still mark **D** — know the trap rather than a fake certainty.
-</details>
-
-**Q91.** With reference to Western Uttar Pradesh, which of the following statements is/are correct?
-
-1. The western region of U.P. is much more developed compared to other regions.
-2. The region has witnessed the Green Revolution.
-
-A. Neither 1 nor 2
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Both. W-UP is the GR wheat–rice–cane heartland and the more developed plain belt.
-</details>
-
-**Q136.** Match List-I with List-II and select the correct answer from the code given below.
-| List-I (Revolution) | List-II (Related with) |
-|---|---|
-| A. Golden Revolution | 1. Oilseed production |
-| B. Grey Revolution | 2. Horticulture and honey |
-| C. Yellow Revolution | 3. Petroleum production |
-| D. Black Revolution | 4. Fertilizers |
-
-A. A-2, B-4, C-1, D-3
-
-B. A-2, B-3, C-4, D-1
-
-C. A-1, B-2, C-3, D-4
-
-D. A-4, B-2, C-1, D-3
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Golden→horticulture & honey (2); Grey→fertilisers (4); Yellow→oilseed (1); Black→petroleum (3).
-</details>
-
-**Q142.** Which one of the following is correctly matched?
-
-A. Gujarat — Tea
-
-B. Uttar Pradesh — Jute
-
-C. Kerala — Rubber
-
-D. Assam — Wheat
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Kerala–Rubber. Gujarat–Tea, UP–Jute, Assam–Wheat are all wrong pairs.
-</details>
-
-### 2023
-
-**Q64.** Credit for coconut and sugarcane agriculture in the Philippines?
-
-A. French
-
-B. Britishers
-
-C. Hollanders
-
-D. Spanish and Americans
-
-<details><summary>Show answer</summary>
-
-**Ans: D Spanish and Americans**
-</details>
-
-**Q104.** Aquatic plant used as biofertilizer in water-logged rice fields?
-
-A. Lemna
-
-B. Azolla
-
-C. Wolffia
-
-D. Trapa
-
-<details><summary>Show answer</summary>
-
-**Ans: B Azolla**
-</details>
-
-### 2024
-
-**Q34.** Crop predominantly grown under plantation agriculture?
-
-A. Wheat
-
-B. Tea
-
-C. Rice
-
-D. Maize
-
-<details><summary>Show answer</summary>
-
-**Ans: B Tea**
-</details>
-
-**Q43.** Who recommends MSP for agricultural crops?
-
-A. RBI
-
-B. NITI Aayog
-
-C. CACP
-
-D. Ministry of Finance
-
-<details><summary>Show answer</summary>
-
-**Ans: C CACP** — Cabinet decides later.
-</details>
-
-**Q73.** Consider the following statements with reference to cultivated area of some countries of the world:
-
-1. In comparison to USA, China and Japan, India has highest geographical area under cultivation.
-2. India's location in tropical monsoon region helps diversified cropping all through the year.
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details><summary>Show answer</summary>
-
-**Ans: A in most coaching keys** — Stmt 2 is unambiguously true. Stmt 1 is the usual NCERT-style claim (higher *share* of area cultivated than those three). If a key splits, still treat stmt 2 as sure.
-</details>
-
-### 2025
-
-**Q10.** With reference to 'Delhi Government's Bio-decomposer and Spray Programme', which of the following statements is/are correct?
-
-1. The Bio-decomposer solution is provided free of cost to farmers to help convert stubble into manure.
-2. The Bio-decomposer solution is prepared using a mix of several fungi.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Both. Free fungal mix for stubble-to-manure.
-</details>
-
-**Q34.** With reference to Uttar Pradesh, which of the following statements is/are correct?
-
-1. Uttar Pradesh is the leading producer of potato in the country.
-2. Government of India has approved the establishment of the South Asia Regional Centre of the International Potato Centre at Aligarh.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Stmt 1 true. Stmt 2 false: CIP-SARC is at **Singna, Agra**, not Aligarh.
-</details>
-
-**Q147.** Who among the following introduced the concept of entitlements in food security?
-
-1. M. S. Swaminathan 2. Atul Pranay 3. Samali Srikant 4. Amartya Sen
-
-A. 1 and 2
-
-B. Only 4
-
-C. 3 and 4
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — **Amartya Sen** only. Swaminathan is GR/Evergreen — not the entitlements approach.
-</details>
 
 ## Current Affairs (this topic)
 

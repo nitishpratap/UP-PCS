@@ -1933,6 +1933,38 @@ First Governor **Sarojini Naidu** (1947). First CM **G.B. Pant**. First woman CM
 
 ---
 
+## Complete PYQ Bank (Topic 26) — Bodies, Parliament, Cases, UP
+
+**UPPCS Prelims 2024, Q125** — Body–article match. 165 = AdvG, 148 = CAG, 263 = ISC. Standing NCBC = **338B**; **340** = investigating commission — learn both.
+
+**UPPCS Prelims 2021** — Inter-State Council constituted after **Sarkaria**, not Punchhi.
+
+**UPPCS Prelims 2021, Q133** — UPPSC functions extended by **UP Legislature** (321).
+
+**UPPCS Prelims 2021, Q81** — SPSC member removed by **President** after SC enquiry.
+
+**UPPCS Prelims 2021, Q141** — Zero Hour = time **immediately after** Question Hour.
+
+**UPPCS Prelims 2019, Q33** — Money Bill **defined** in **Art. 110**.
+
+**UPPCS Prelims 2021, Q37** — Money Bill **cannot** be first introduced in RS.
+
+**UPPCS Prelims 2023, Q17** — Panchayat elections = **SEC**. No “Panchayati Raj Commission of India.”
+
+**UPPCS Prelims 2023, Q14** — UP RS **31** and LS **80**. Both true.
+
+**UPPCS Prelims 2022, Q14** — Manipur **62** is the NOT-matched pair (actual **60**).
+
+**UPPCS Prelims 2018, Q148** — LC can be **abolished**, not dissolved.
+
+**UPPCS Prelims 2018** — *Navtej* = **s.377 IPC**, not Art. 377.
+
+**UPPCS Prelims 2020** — CVC has **no** constitutional article.
+
+**UPPCS Prelims 2025, Q42** — PAC reports to the **Lok Sabha** (CAG-examining, Opposition chair).
+
+---
+
 ## Practice Zone — Bodies, Parliament, Cases, UP
 
 **Q71.** Which pairing is constitutional?
@@ -3052,38 +3084,6 @@ D. NOTA — candidate with most NOTA votes is declared elected
 **Ans: D**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 26) — Bodies, Parliament, Cases, UP
-
-**UPPCS Prelims 2024, Q125** — Body–article match. 165 = AdvG, 148 = CAG, 263 = ISC. Standing NCBC = **338B**; **340** = investigating commission — learn both.
-
-**UPPCS Prelims 2021** — Inter-State Council constituted after **Sarkaria**, not Punchhi.
-
-**UPPCS Prelims 2021, Q133** — UPPSC functions extended by **UP Legislature** (321).
-
-**UPPCS Prelims 2021, Q81** — SPSC member removed by **President** after SC enquiry.
-
-**UPPCS Prelims 2021, Q141** — Zero Hour = time **immediately after** Question Hour.
-
-**UPPCS Prelims 2019, Q33** — Money Bill **defined** in **Art. 110**.
-
-**UPPCS Prelims 2021, Q37** — Money Bill **cannot** be first introduced in RS.
-
-**UPPCS Prelims 2023, Q17** — Panchayat elections = **SEC**. No “Panchayati Raj Commission of India.”
-
-**UPPCS Prelims 2023, Q14** — UP RS **31** and LS **80**. Both true.
-
-**UPPCS Prelims 2022, Q14** — Manipur **62** is the NOT-matched pair (actual **60**).
-
-**UPPCS Prelims 2018, Q148** — LC can be **abolished**, not dissolved.
-
-**UPPCS Prelims 2018** — *Navtej* = **s.377 IPC**, not Art. 377.
-
-**UPPCS Prelims 2020** — CVC has **no** constitutional article.
-
-**UPPCS Prelims 2025, Q42** — PAC reports to the **Lok Sabha** (CAG-examining, Opposition chair).
 
 ---
 

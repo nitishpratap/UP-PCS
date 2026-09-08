@@ -539,6 +539,42 @@ Newest first. One event, one fact — not a dump of keywords.
 
 ---
 
+## Complete PYQ Bank (CCS: PM + HM + RM + FM)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q126**
+BHARATPOL developed by— 1 CBI 2 RAW 3 IB 4 ED
+A. 2 and 3
+B. 3 and 4
+C. Only 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — CBI.** Interpol NCB.
+
+</details>
+
+### 2024
+
+**Q2. UPPCS Prelims 2024, Q80**
+April 2024 anti-Maoist operation: (1) Gadchiroli, Maharashtra (2) BSF and District Reserve Guards
+A. Only 2
+B. Neither
+C. Only 1
+D. Both
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 2.** Place = **Kanker, Chhattisgarh**, not Gadchiroli.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **100 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -1972,42 +2008,6 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: D**
-
-</details>
-
----
-
-## Complete PYQ Bank (CCS: PM + HM + RM + FM)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q126**
-BHARATPOL developed by— 1 CBI 2 RAW 3 IB 4 ED
-A. 2 and 3
-B. 3 and 4
-C. Only 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — CBI.** Interpol NCB.
-
-</details>
-
-### 2024
-
-**Q2. UPPCS Prelims 2024, Q80**
-April 2024 anti-Maoist operation: (1) Gadchiroli, Maharashtra (2) BSF and District Reserve Guards
-A. Only 2
-B. Neither
-C. Only 1
-D. Both
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 2.** Place = **Kanker, Chhattisgarh**, not Gadchiroli.
 
 </details>
 

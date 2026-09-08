@@ -551,6 +551,169 @@ Three modes. India does **not** allow **dual citizenship**.
 
 ---
 
+## Complete PYQ Bank (Topic 4)
+
+> Full UPPCS mapped hits (2018–2025). Answers in `<details>`.
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q71**
+Which of the following persons were members of the States Reorganisation Commission?
+
+1. K. T. Shah
+2. K. M. Panikkar
+3. P. Sitaramayya
+4. H. N. Kunzru
+
+A. 1 and 3
+B. 2 and 4
+C. 2 and 3
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**B — 2 and 4.** SRC = Fazl Ali (chair), K.M. Panikkar, H.N. Kunzru.
+
+</details>
+
+### 2024
+
+**Q2. UPPCS Prelims 2024, Q101**
+Which one of the following pairs is not correctly matched?
+
+A. Equality before Law — Guaranteed to both citizens and non-citizens
+B. Equality of opportunity in public employment — Guaranteed only to Indian citizens
+C. Creating a new State — Power of Parliament
+D. Altering the name of a State — Power of a State Legislature
+
+<details>
+<summary>Show answer</summary>
+
+**D.** Name of a State is altered by **Parliament (Art. 3)**.
+
+</details>
+
+### 2023
+
+**Q3. UPPCS Prelims 2023, Q1**
+Which among the following (Provision — Part of the Constitution) is not correctly matched?
+
+A. The Union Territories — Part VIII
+B. The Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
+D. Official Language — Part XVII
+
+<details>
+<summary>Show answer</summary>
+
+**C.** Tribunals = Part XIVA. (UTs = Part VIII is correct.)
+
+</details>
+
+### 2022
+
+**Q4. UPPCS Prelims 2022, Q100**
+Consider the following subjects and arrange them in sequential order as mentioned in the Constitution.
+
+I. The Union and its territory
+II. Fundamental duties
+III. Citizenship
+IV. Directive Principles of State Policy
+
+A. II, IV, I, III
+B. I, III, IV, II
+C. III, I, II, IV
+D. IV, II, III, I
+
+<details>
+<summary>Show answer</summary>
+
+**B** — I (Part I), III (Part II), IV (Part IV), II (Part IVA).
+
+</details>
+
+**Q5. UPPCS Prelims 2022, Q131**
+By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
+
+A. 75th
+B. 73rd
+C. 70th
+D. 69th
+
+<details>
+<summary>Show answer</summary>
+
+**D — 69th Amendment, 1991** (NCT; NCR is a separate statutory region).
+
+</details>
+
+### 2020
+
+**Q6. UPPCS Prelims 2020, Q96**
+Which of the following is NOT possible by a law of Parliament under Article 3 of the Constitution?
+
+A. Formation of new States
+B. Alteration of areas of States
+C. Alteration of boundaries of States
+D. Admission of new States
+
+<details>
+<summary>Show answer</summary>
+
+**D.** Admission = **Art. 2**.
+
+</details>
+
+**Q7. UPPCS Prelims 2020, Q114**
+Which Articles of Indian Constitution are related to citizenship?
+
+A. Article 3 to 10
+B. Article 4 to 11
+C. Article 5 to 11
+D. Article 6 to 11
+
+<details>
+<summary>Show answer</summary>
+
+**C — 5 to 11.**
+
+</details>
+
+### 2018
+
+**Q8. UPPCS Prelims 2018, Q73**
+In which Part of the Constitution of India do we find the provisions relating to citizenship?
+
+A. Part I
+B. Part II
+C. Part VII
+D. Part IX
+
+<details>
+<summary>Show answer</summary>
+
+**B — Part II.**
+
+</details>
+
+**Q9. UPPCS Prelims 2018, Q150**
+What can be the maximum representation from the Union Territories to the Lok Sabha?
+
+A. 15
+B. 20
+C. 25
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**B — 20.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.50 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
@@ -1287,169 +1450,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: D** — Art. 240 regulations have the same force as an Act of Parliament. 70th Amendment, 1992 = Presidential electoral college. Mahe is on the Kerala coast; Yanam on the Andhra coast.
-</details>
-
----
-
-## Complete PYQ Bank (Topic 4)
-
-> Full UPPCS mapped hits (2018–2025). Answers in `<details>`.
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q71**
-Which of the following persons were members of the States Reorganisation Commission?
-
-1. K. T. Shah
-2. K. M. Panikkar
-3. P. Sitaramayya
-4. H. N. Kunzru
-
-A. 1 and 3
-B. 2 and 4
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**B — 2 and 4.** SRC = Fazl Ali (chair), K.M. Panikkar, H.N. Kunzru.
-
-</details>
-
-### 2024
-
-**Q2. UPPCS Prelims 2024, Q101**
-Which one of the following pairs is not correctly matched?
-
-A. Equality before Law — Guaranteed to both citizens and non-citizens
-B. Equality of opportunity in public employment — Guaranteed only to Indian citizens
-C. Creating a new State — Power of Parliament
-D. Altering the name of a State — Power of a State Legislature
-
-<details>
-<summary>Show answer</summary>
-
-**D.** Name of a State is altered by **Parliament (Art. 3)**.
-
-</details>
-
-### 2023
-
-**Q3. UPPCS Prelims 2023, Q1**
-Which among the following (Provision — Part of the Constitution) is not correctly matched?
-
-A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**C.** Tribunals = Part XIVA. (UTs = Part VIII is correct.)
-
-</details>
-
-### 2022
-
-**Q4. UPPCS Prelims 2022, Q100**
-Consider the following subjects and arrange them in sequential order as mentioned in the Constitution.
-
-I. The Union and its territory
-II. Fundamental duties
-III. Citizenship
-IV. Directive Principles of State Policy
-
-A. II, IV, I, III
-B. I, III, IV, II
-C. III, I, II, IV
-D. IV, II, III, I
-
-<details>
-<summary>Show answer</summary>
-
-**B** — I (Part I), III (Part II), IV (Part IV), II (Part IVA).
-
-</details>
-
-**Q5. UPPCS Prelims 2022, Q131**
-By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
-
-A. 75th
-B. 73rd
-C. 70th
-D. 69th
-
-<details>
-<summary>Show answer</summary>
-
-**D — 69th Amendment, 1991** (NCT; NCR is a separate statutory region).
-
-</details>
-
-### 2020
-
-**Q6. UPPCS Prelims 2020, Q96**
-Which of the following is NOT possible by a law of Parliament under Article 3 of the Constitution?
-
-A. Formation of new States
-B. Alteration of areas of States
-C. Alteration of boundaries of States
-D. Admission of new States
-
-<details>
-<summary>Show answer</summary>
-
-**D.** Admission = **Art. 2**.
-
-</details>
-
-**Q7. UPPCS Prelims 2020, Q114**
-Which Articles of Indian Constitution are related to citizenship?
-
-A. Article 3 to 10
-B. Article 4 to 11
-C. Article 5 to 11
-D. Article 6 to 11
-
-<details>
-<summary>Show answer</summary>
-
-**C — 5 to 11.**
-
-</details>
-
-### 2018
-
-**Q8. UPPCS Prelims 2018, Q73**
-In which Part of the Constitution of India do we find the provisions relating to citizenship?
-
-A. Part I
-B. Part II
-C. Part VII
-D. Part IX
-
-<details>
-<summary>Show answer</summary>
-
-**B — Part II.**
-
-</details>
-
-**Q9. UPPCS Prelims 2018, Q150**
-What can be the maximum representation from the Union Territories to the Lok Sabha?
-
-A. 15
-B. 20
-C. 25
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**B — 20.**
-
 </details>
 
 ---

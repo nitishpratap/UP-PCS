@@ -288,6 +288,195 @@ Stockholm Convention — Persistent organic pollutant is a **correct** match.
 
 ---
 
+## Complete PYQ Bank (Topic 43)
+
+**Logic:** Climate mitigation treaty among options — Kyoto/Paris/UNFCCC family, not Montreal (ozone) or Ramsar/CITES.
+
+**Q1. UPPCS Prelims 2024, Q35**
+
+Climate change mitigation agreement:
+
+A. Montreal Protocol
+B. Ramsar Convention
+C. Kyoto Protocol
+D. CITES
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kyoto Protocol (1997)** = binding Annex-I GHG cuts; Montreal = **ozone**. **Trap:** Montreal as generic “environment” answer.
+
+</details>
+
+**Logic:** Match-list trap — Kyoto ≠ “save water”; Cartagena=biosafety, Stockholm=POPs, Montreal=ozone are correct pairs.
+
+**Q2. UPPCS Prelims 2019, Q132**
+
+Which of the following is NOT correctly matched?
+
+A. Cartagena Protocol — Biosafety
+B. Stockholm Convention — Persistent organic pollutants
+C. Montreal Protocol — Ozone
+D. Kyoto Protocol — Save water
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Kyoto = climate/GHG mitigation**, not “save water.” **Trap:** Accepting any Kyoto label that sounds like sustainable development.
+
+</details>
+
+**Logic:** Carbon credits originated from Kyoto flexible mechanisms (CDM, JI, emissions trading).
+
+**Q3. UPPCS Prelims 2021, Q125**
+
+The concept of carbon credit originated from:
+
+A. Ramsar Convention
+B. Kyoto Protocol
+C. CITES
+D. Basel Convention
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kyoto (1997)** created **CDM/JI/ET** credit architecture. **Trap:** Paris 2015 as “origin” — Paris builds on Kyoto market experience.
+
+</details>
+
+**Logic:** UP Ramsar geography — Rudrasagar (Tripura) and Sultanpur NP (Haryana) are NOT in UP; Sarsai Nawar and Samaspur are in UP.
+
+**Q4. UPPCS Prelims 2025, Q58**
+
+Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
+
+1. Sarsai Nawar
+2. Samaspur Bird Sanctuary
+3. Rudrasagar Lake
+4. Sultanpur National Park
+
+A. 1 and 2
+B. 3 and 4
+C. 1 and 4
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (3 and 4).** **Rudrasagar = Tripura**; **Sultanpur = Haryana**; Sarsai Nawar and Samaspur **are in UP**. **Trap:** Assuming any famous wetland name is in UP.
+
+</details>
+
+**Logic:** Paris Agreement 2015 uses universal NDCs; UNFCCC 1992 is the Rio parent framework.
+
+**Q5. UPPCS Prelims (pattern)**
+
+The Paris Agreement (2015) differs from Kyoto mainly because Paris relies on:
+
+A. Nationally Determined Contributions (NDCs) by all parties
+B. Binding Annex-I-only targets for developed countries only
+C. Wetland wise-use principles
+D. PIC for hazardous chemicals in trade
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Paris = universal NDCs**; Kyoto = **Annex-I binding** model. **Trap:** Paris as Kyoto clone with same Annex structure.
+
+</details>
+
+**Logic:** CBD three objectives — conservation, sustainable use, fair benefit-sharing; Cartagena = biosafety; Nagoya = ABS.
+
+**Q6. UPPCS Prelims (pattern)**
+
+The Convention on Biological Diversity (CBD) seeks:
+
+A. Conservation, sustainable use, and fair benefit-sharing of genetic resources
+B. Only ozone layer protection
+C. Only transboundary hazardous waste shipment
+D. Only mercury phase-down
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **CBD (1992 Rio)** triple objective; **Cartagena** = biosafety; **Nagoya** = ABS. **Trap:** CBD = CITES trade regulation.
+
+</details>
+
+**Logic:** CITES 1973 Washington regulates wildlife trade; CMS/Bonn 1979 protects migratory species — different tools.
+
+**Q7. UPPCS Prelims (pattern)**
+
+CITES (1973) primarily regulates:
+
+A. International trade in endangered wild fauna and flora
+B. Migratory bird routes only without trade permits
+C. Wetland wise use only
+D. POPs elimination globally
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **CITES = trade** (Appendices I–III); **CMS = migration** routes/habitats. **Trap:** CMS and CITES swapped.
+
+</details>
+
+**Logic:** Chemicals/waste cluster — Basel = hazardous waste; Rotterdam = PIC chemicals; Stockholm 2001 = POPs; Minamata = mercury.
+
+**Q8. UPPCS Prelims (pattern)**
+
+The Stockholm Convention (2001) targets:
+
+A. Persistent Organic Pollutants (POPs)
+B. Wetlands of international importance
+C. Annex-I CO₂ quotas only
+D. Prior Informed Consent for pesticide trade alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Stockholm 2001 = POPs** (DDT, PCBs, etc.). **Trap:** **Stockholm Conference 1972** (UNEP birth) confused with **Stockholm Convention 2001**.
+
+</details>
+
+**Logic:** Montreal Protocol = ozone/ODS — frequent distractor when stem asks for climate treaty.
+
+**Q9. UPPCS Prelims (pattern)**
+
+Montreal Protocol is chiefly concerned with:
+
+A. Substances that deplete the stratospheric ozone layer
+B. Universal NDC climate pledges
+C. Mercury emissions from gold mining
+D. Transboundary movement of hazardous wastes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Montreal 1987 = ODS/CFC phase-out**; climate = UNFCCC/Kyoto/Paris. **Trap:** “Montreal = climate mitigation.”
+
+</details>
+
+**Logic:** Two Stockholms — 1972 conference created UNEP; 2001 convention controls POPs.
+
+**Q10. UPPCS Prelims (pattern)**
+
+Which statement is **correct**?
+
+A. The Stockholm Conference (1972) launched UNEP; the Stockholm Convention (2001) controls POPs — they are different instruments
+B. Both Stockholms are the same treaty on POPs
+C. Stockholm 1972 banned DDT globally immediately
+D. Stockholm 2001 created UNEP in Nairobi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **1972 conference ≠ 2001 POPs treaty** — highest-frequency treaty year trap. **Trap:** Single “Stockholm” answer for any chemical question.
+
+</details>
+
+---
+
 ## Practice Zone
 
 **Q1.** Climate mitigation among these:
@@ -593,195 +782,6 @@ Options: A. Kyoto=climate; Ramsar=wetlands; CITES=trade; Basel=waste; Minamata=m
 
 ---
 
-## Complete PYQ Bank (Topic 43)
-
-**Logic:** Climate mitigation treaty among options — Kyoto/Paris/UNFCCC family, not Montreal (ozone) or Ramsar/CITES.
-
-**Q1. UPPCS Prelims 2024, Q35**
-
-Climate change mitigation agreement:
-
-A. Montreal Protocol
-B. Ramsar Convention
-C. Kyoto Protocol
-D. CITES
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Kyoto Protocol (1997)** = binding Annex-I GHG cuts; Montreal = **ozone**. **Trap:** Montreal as generic “environment” answer.
-
-</details>
-
-**Logic:** Match-list trap — Kyoto ≠ “save water”; Cartagena=biosafety, Stockholm=POPs, Montreal=ozone are correct pairs.
-
-**Q2. UPPCS Prelims 2019, Q132**
-
-Which of the following is NOT correctly matched?
-
-A. Cartagena Protocol — Biosafety
-B. Stockholm Convention — Persistent organic pollutants
-C. Montreal Protocol — Ozone
-D. Kyoto Protocol — Save water
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Kyoto = climate/GHG mitigation**, not “save water.” **Trap:** Accepting any Kyoto label that sounds like sustainable development.
-
-</details>
-
-**Logic:** Carbon credits originated from Kyoto flexible mechanisms (CDM, JI, emissions trading).
-
-**Q3. UPPCS Prelims 2021, Q125**
-
-The concept of carbon credit originated from:
-
-A. Ramsar Convention
-B. Kyoto Protocol
-C. CITES
-D. Basel Convention
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Kyoto (1997)** created **CDM/JI/ET** credit architecture. **Trap:** Paris 2015 as “origin” — Paris builds on Kyoto market experience.
-
-</details>
-
-**Logic:** UP Ramsar geography — Rudrasagar (Tripura) and Sultanpur NP (Haryana) are NOT in UP; Sarsai Nawar and Samaspur are in UP.
-
-**Q4. UPPCS Prelims 2025, Q58**
-
-Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
-
-1. Sarsai Nawar
-2. Samaspur Bird Sanctuary
-3. Rudrasagar Lake
-4. Sultanpur National Park
-
-A. 1 and 2
-B. 3 and 4
-C. 1 and 4
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (3 and 4).** **Rudrasagar = Tripura**; **Sultanpur = Haryana**; Sarsai Nawar and Samaspur **are in UP**. **Trap:** Assuming any famous wetland name is in UP.
-
-</details>
-
-**Logic:** Paris Agreement 2015 uses universal NDCs; UNFCCC 1992 is the Rio parent framework.
-
-**Q5. UPPCS Prelims (pattern)**
-
-The Paris Agreement (2015) differs from Kyoto mainly because Paris relies on:
-
-A. Nationally Determined Contributions (NDCs) by all parties
-B. Binding Annex-I-only targets for developed countries only
-C. Wetland wise-use principles
-D. PIC for hazardous chemicals in trade
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Paris = universal NDCs**; Kyoto = **Annex-I binding** model. **Trap:** Paris as Kyoto clone with same Annex structure.
-
-</details>
-
-**Logic:** CBD three objectives — conservation, sustainable use, fair benefit-sharing; Cartagena = biosafety; Nagoya = ABS.
-
-**Q6. UPPCS Prelims (pattern)**
-
-The Convention on Biological Diversity (CBD) seeks:
-
-A. Conservation, sustainable use, and fair benefit-sharing of genetic resources
-B. Only ozone layer protection
-C. Only transboundary hazardous waste shipment
-D. Only mercury phase-down
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **CBD (1992 Rio)** triple objective; **Cartagena** = biosafety; **Nagoya** = ABS. **Trap:** CBD = CITES trade regulation.
-
-</details>
-
-**Logic:** CITES 1973 Washington regulates wildlife trade; CMS/Bonn 1979 protects migratory species — different tools.
-
-**Q7. UPPCS Prelims (pattern)**
-
-CITES (1973) primarily regulates:
-
-A. International trade in endangered wild fauna and flora
-B. Migratory bird routes only without trade permits
-C. Wetland wise use only
-D. POPs elimination globally
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **CITES = trade** (Appendices I–III); **CMS = migration** routes/habitats. **Trap:** CMS and CITES swapped.
-
-</details>
-
-**Logic:** Chemicals/waste cluster — Basel = hazardous waste; Rotterdam = PIC chemicals; Stockholm 2001 = POPs; Minamata = mercury.
-
-**Q8. UPPCS Prelims (pattern)**
-
-The Stockholm Convention (2001) targets:
-
-A. Persistent Organic Pollutants (POPs)
-B. Wetlands of international importance
-C. Annex-I CO₂ quotas only
-D. Prior Informed Consent for pesticide trade alone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Stockholm 2001 = POPs** (DDT, PCBs, etc.). **Trap:** **Stockholm Conference 1972** (UNEP birth) confused with **Stockholm Convention 2001**.
-
-</details>
-
-**Logic:** Montreal Protocol = ozone/ODS — frequent distractor when stem asks for climate treaty.
-
-**Q9. UPPCS Prelims (pattern)**
-
-Montreal Protocol is chiefly concerned with:
-
-A. Substances that deplete the stratospheric ozone layer
-B. Universal NDC climate pledges
-C. Mercury emissions from gold mining
-D. Transboundary movement of hazardous wastes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Montreal 1987 = ODS/CFC phase-out**; climate = UNFCCC/Kyoto/Paris. **Trap:** “Montreal = climate mitigation.”
-
-</details>
-
-**Logic:** Two Stockholms — 1972 conference created UNEP; 2001 convention controls POPs.
-
-**Q10. UPPCS Prelims (pattern)**
-
-Which statement is **correct**?
-
-A. The Stockholm Conference (1972) launched UNEP; the Stockholm Convention (2001) controls POPs — they are different instruments
-B. Both Stockholms are the same treaty on POPs
-C. Stockholm 1972 banned DDT globally immediately
-D. Stockholm 2001 created UNEP in Nairobi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **1972 conference ≠ 2001 POPs treaty** — highest-frequency treaty year trap. **Trap:** Single “Stockholm” answer for any chemical question.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -796,51 +796,3 @@ D. Stockholm 2001 created UNEP in Nairobi
 | Paris = Kyoto Annex-only model | **Universal NDCs** |
 | Basel = wildlife trade | **Hazardous waste** |
 | Minamata = all hazardous waste | **Mercury** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | 656 |
-| **Teaching blocks** | §43.1–43.11 (11 syllabus treaties) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2024 Q35, 2019 Q132, 2021 Q125, 2025 Q58 |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| UNFCCC | §43.1 |
-| Kyoto Protocol | §43.2 |
-| Paris Agreement | §43.3 |
-| CBD | §43.4 |
-| Ramsar Convention | §43.5 |
-| CITES | §43.6 |
-| Bonn Convention (CMS) | §43.7 |
-| Basel Convention | §43.8 |
-| Rotterdam Convention | §43.9 |
-| Stockholm Convention | §43.10 |
-| Minamata Convention | §43.11 |
-
-### Topic boundaries
-
-- **Conferences + full treaty twin** — Topic 18
-- **Orgs publishing/hosting** — Topic 42
-- **Ozone Vienna/Montreal depth** — Topics 11/36
-- **Ramsar site lists / UP geography** — Topics 6/32
-- **Carbon markets / NDC policy** — Topics 10/34
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2024 Kyoto climate | §43.2 inline |
-| 2019 match list | §43.2 / §43.4 / §43.10 |
-| 2021 carbon credit | §43.2 inline |
-| 2025 Ramsar UP | §43.5 inline |
-
-**File ready: YES**

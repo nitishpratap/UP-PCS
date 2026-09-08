@@ -365,6 +365,98 @@ D. Muzaffar Shah of Gujarat
 
 ---
 
+## Complete PYQ Bank (Topic 5)
+
+**Q1. UPPCS Prelims 2023, Q38**
+
+The Tappa style of music was refined and developed in the court of which of the following Mughal Emperors?
+
+A. Akbar
+B. Jahangir
+C. Shah Jahan
+D. Muhammad Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Muhammad Shah.**
+
+</details>
+
+**Q2. UPPCS Prelims 2022, Q108**
+
+Match List-I with List-II and select the correct answer from the code given below.
+
+**List-I (Text)**
+A. Ragmala
+B. Rasakaumudi
+C. Ragvivodh
+D. Chaturdandi Prakashika
+
+**List-II (Writer)**
+1. Somnath
+2. Venkatraman
+3. Pundarik Vitthal
+4. Srikantha
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-4, C-3, D-1
+C. A-4, B-2, C-1, D-3
+D. A-3, B-4, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Ragmala = Pundarik Vitthal, Rasakaumudi = Srikantha, Ragvivodh = Somnath, Chaturdandi = Venkatraman.
+
+</details>
+
+**Q3. UPPCS Prelims 2021, Q22**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists.
+
+**List-I (Text)**
+A. Ragamala
+B. Rasa Kaumudi
+C. Raga Vibodh
+D. Chaturdandi Prakashika
+
+**List-II (Author)**
+1. Somanath
+2. Venkatraman
+3. Pundrik Vitthal
+4. Sri Kantha
+
+A. 3 4 1 2
+B. 4 2 1 3
+C. 2 3 4 1
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 3 4 1 2.** Same four pairs as 2022 Q108; option order differs.
+
+</details>
+
+**Q4. UPPCS Prelims 2019, Q89**
+
+Who among the following kings had given patronage to Tansen before Akbar?
+
+A. Raja Ramchandra Singh of Bhata
+B. Rajbahadur of Malwa
+C. Uday Singh of Mewar
+D. Muzaffar Shah of Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Raja Ramchandra Singh of Bhata** (Rewa).
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1098,98 +1190,6 @@ D. Niyamat Khan Sadarang — Carnatic Pancharatna
 <summary>Show answer</summary>
 
 **Ans: D.**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 5)
-
-**Q1. UPPCS Prelims 2023, Q38**
-
-The Tappa style of music was refined and developed in the court of which of the following Mughal Emperors?
-
-A. Akbar
-B. Jahangir
-C. Shah Jahan
-D. Muhammad Shah
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Muhammad Shah.**
-
-</details>
-
-**Q2. UPPCS Prelims 2022, Q108**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Text)**
-A. Ragmala
-B. Rasakaumudi
-C. Ragvivodh
-D. Chaturdandi Prakashika
-
-**List-II (Writer)**
-1. Somnath
-2. Venkatraman
-3. Pundarik Vitthal
-4. Srikantha
-
-A. A-1, B-2, C-3, D-4
-B. A-2, B-4, C-3, D-1
-C. A-4, B-2, C-1, D-3
-D. A-3, B-4, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Ragmala = Pundarik Vitthal, Rasakaumudi = Srikantha, Ragvivodh = Somnath, Chaturdandi = Venkatraman.
-
-</details>
-
-**Q3. UPPCS Prelims 2021, Q22**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists.
-
-**List-I (Text)**
-A. Ragamala
-B. Rasa Kaumudi
-C. Raga Vibodh
-D. Chaturdandi Prakashika
-
-**List-II (Author)**
-1. Somanath
-2. Venkatraman
-3. Pundrik Vitthal
-4. Sri Kantha
-
-A. 3 4 1 2
-B. 4 2 1 3
-C. 2 3 4 1
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 3 4 1 2.** Same four pairs as 2022 Q108; option order differs.
-
-</details>
-
-**Q4. UPPCS Prelims 2019, Q89**
-
-Who among the following kings had given patronage to Tansen before Akbar?
-
-A. Raja Ramchandra Singh of Bhata
-B. Rajbahadur of Malwa
-C. Uday Singh of Mewar
-D. Muzaffar Shah of Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Raja Ramchandra Singh of Bhata** (Rewa).
 
 </details>
 

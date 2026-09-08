@@ -566,6 +566,160 @@ D. Only 1
 **Ans: B** — Ministry of **Tribal Affairs** only.
 </details>
 
+---
+
+## Complete PYQ Bank
+
+**Instructions:** Click **Show answer** under each question. Local `pyq/` 2018–2025 tribe/habitat and Tribal Affairs hits are below. Institute HQ facts are syllabus-mandatory.
+
+**Q1. UPPCS Prelims 2025, Q23**
+Which of the following pairs is/are NOT correctly matched? (Tribe) — (Habitat)
+
+1. Bushman — Kalahari Desert
+2. Eskimo — Northern Canada
+3. Pygmy — Congo Basin
+4. Masai — West Africa
+
+A. Only 1, 2 and 3
+
+B. Only 4
+
+C. Only 3 and 4
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Only pair 4 is wrong; Masai = East Africa.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2022, Q40**
+Which two of the following are correctly matched?
+
+1. Keria — Odisha
+2. Kuki — Uttar Pradesh
+3. Yanadi — Rajasthan
+4. Paliyan — Tamil Nadu
+
+A. 3 and 4
+
+B. 1 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2021, Q96**
+Which of the following pair is NOT correctly matched? (Place) — (Tribe)
+
+A. Alaska — Koryak
+
+B. Borneo — Punan
+
+C. Arab Desert — Ruwala
+
+D. Sweden and Finland — Lapps
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Koryak = NE Siberia, not Alaska.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2020, Q54**
+Which of the following is NOT correctly matched? (Tribes) — (Location)
+
+A. Angamis — Nagaland
+
+B. Birhors — Jharkhand
+
+C. Khas — Arunachal Pradesh
+
+D. Todas — Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Khasi = Meghalaya.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2020, Q50**
+Which of the following tribes is NOT the native to the Andaman and Nicobar Islands of India?
+
+A. Halchu
+
+B. Rengma
+
+C. Onge
+
+D. Shompen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rengma = Nagaland.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2019, Q4**
+Which of the following is NOT correctly matched? (Tribe) — (Place)
+
+A. Pygmy — Congo basin
+
+B. Angami — Nagaland
+
+C. Ainu — Japan
+
+D. Khirghiz — Sudan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Khirghiz/Kyrgyz are Central Asian, not Sudanese.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2025, Q29**
+In June 2025, the "Adi Karmayogi Beta Version - A Responsive Governance Initiative" was launched by which of the following Ministries?
+
+1. Ministry of AYUSH
+2. Ministry of Women and Child Development
+3. Ministry of Social Justice and Empowerment
+4. Ministry of Tribal Affairs
+
+A. Only 1 and 2
+
+B. Only 4
+
+C. Only 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Ministry of **Tribal Affairs** only.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -1474,158 +1628,6 @@ D. 1, 2, 3 and 4
 <summary>Show answer</summary>
 
 **Ans: A** — Toda = Tamil Nadu, not Nagaland.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Click **Show answer** under each question. Local `pyq/` 2018–2025 tribe/habitat and Tribal Affairs hits are below. Institute HQ facts are syllabus-mandatory.
-
-**Q1. UPPCS Prelims 2025, Q23**
-Which of the following pairs is/are NOT correctly matched? (Tribe) — (Habitat)
-
-1. Bushman — Kalahari Desert
-2. Eskimo — Northern Canada
-3. Pygmy — Congo Basin
-4. Masai — West Africa
-
-A. Only 1, 2 and 3
-
-B. Only 4
-
-C. Only 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Only pair 4 is wrong; Masai = East Africa.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2022, Q40**
-Which two of the following are correctly matched?
-
-1. Keria — Odisha
-2. Kuki — Uttar Pradesh
-3. Yanadi — Rajasthan
-4. Paliyan — Tamil Nadu
-
-A. 3 and 4
-
-B. 1 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q3. UPPCS Prelims 2021, Q96**
-Which of the following pair is NOT correctly matched? (Place) — (Tribe)
-
-A. Alaska — Koryak
-
-B. Borneo — Punan
-
-C. Arab Desert — Ruwala
-
-D. Sweden and Finland — Lapps
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Koryak = NE Siberia, not Alaska.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2020, Q54**
-Which of the following is NOT correctly matched? (Tribes) — (Location)
-
-A. Angamis — Nagaland
-
-B. Birhors — Jharkhand
-
-C. Khas — Arunachal Pradesh
-
-D. Todas — Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Khasi = Meghalaya.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2020, Q50**
-Which of the following tribes is NOT the native to the Andaman and Nicobar Islands of India?
-
-A. Halchu
-
-B. Rengma
-
-C. Onge
-
-D. Shompen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Rengma = Nagaland.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2019, Q4**
-Which of the following is NOT correctly matched? (Tribe) — (Place)
-
-A. Pygmy — Congo basin
-
-B. Angami — Nagaland
-
-C. Ainu — Japan
-
-D. Khirghiz — Sudan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Khirghiz/Kyrgyz are Central Asian, not Sudanese.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2025, Q29**
-In June 2025, the "Adi Karmayogi Beta Version - A Responsive Governance Initiative" was launched by which of the following Ministries?
-
-1. Ministry of AYUSH
-2. Ministry of Women and Child Development
-3. Ministry of Social Justice and Empowerment
-4. Ministry of Tribal Affairs
-
-A. Only 1 and 2
-
-B. Only 4
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Ministry of **Tribal Affairs** only.
 </details>
 
 ---

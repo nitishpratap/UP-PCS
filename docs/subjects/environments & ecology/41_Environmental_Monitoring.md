@@ -181,6 +181,197 @@ SAFAR inaugurated (July 2018) by:
 
 ---
 
+## Complete PYQ Bank (Topic 41)
+
+**Logic:** BOD assays organic pollution in aquatic ecosystems — not blood or altitude oxygen.
+
+**Q1. UPPCS Prelims 2023, Q103**
+
+Biological Oxygen Demand (BOD) is a standard criterion for—
+
+A. Pollution assay in aquatic ecosystems
+B. High-altitude O₂
+C. Blood O₂
+D. Forest O₂
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **BOD** = microbial oxygen demand in water; higher BOD = dirtier water. **Trap:** “Oxygen” in name → medical/altitude options.
+
+</details>
+
+**Logic:** Ringelmann scale grades smoke plume opacity 0–5 — not water, fog, or noise.
+
+**Q2. UPPCS Prelims 2021, Q34**
+
+Ringelmann scale is used to measure density of
+
+A. Smoke
+B. Polluted water
+C. Fog
+D. Noise
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Ringelmann 0–5** = visible **smoke** density from stacks. **Trap:** Fog meter or BOD/water quality distractors.
+
+</details>
+
+**Logic:** Annual Groundwater Quality Report is CGWB’s product — CPCB handles air/surface water, not this report.
+
+**Q3. UPPCS Prelims 2025, Q70**
+
+Annual Groundwater Quality Report 2024 was prepared by:
+
+1. CPCB
+2. CWC
+3. CGWB
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Only 3).** **CGWB** monitors groundwater quality/levels. **Trap:** CPCB name sounds like “all pollution.”
+
+</details>
+
+**Logic:** Lichens are sensitive SO₂ indicators — they do not grow well in polluted air.
+
+**Q4. UPPCS Prelims 2025, Q61**
+
+Consider the following statements:
+
+1. Lichens are very good indicators of pollution.
+2. Lichens grow well in polluted areas.
+
+A. Only 2
+B. Neither
+C. Both
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Only 1).** Indicators **die back** in dirty air — statement 2 is false. **Trap:** “Good indicator” read as “likes pollution.”
+
+</details>
+
+**Logic:** SAFAR is IITM’s air-quality and weather forecast system — inaugurated by Dr. Harsh Vardhan in July 2018.
+
+**Q5. UPPCS Prelims 2018, Q84**
+
+SAFAR (System of Air Quality and Weather Forecasting and Research) was inaugurated in July 2018 by:
+
+A. Dr. Harsh Vardhan
+B. Governor of RBI
+C. Director-General of WTO
+D. Secretary, UNFCCC alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Dr. Harsh Vardhan** launched SAFAR (IITM-backed). **Trap:** Attributing SAFAR to IMD alone or CPCB alone.
+
+</details>
+
+**Logic:** NCAP (2019) expanded monitoring and city action plans for non-attainment cities — complements CPCB networks.
+
+**Q6. UPPCS Prelims (pattern)**
+
+National Clean Air Programme (NCAP) was launched in:
+
+A. 2019
+B. 1974
+C. 1987
+D. 1730
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **NCAP 2019** targets ~20–30% PM cut in 122 cities. **Trap:** Water Act 1974 or Montreal 1987 year swaps.
+
+</details>
+
+**Logic:** CAAQMS gives continuous real-time ambient air data; NAMP is mainly manual long-term trend stations.
+
+**Q7. UPPCS Prelims (pattern)**
+
+Continuous Ambient Air Quality Monitoring Stations (CAAQMS) primarily provide:
+
+A. Real-time ambient air quality data
+B. Only annual groundwater atlases
+C. Only Form V filing receipts
+D. Only noise silence-zone maps
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **CAAQMS** = continuous feeds for AQI boards; **NAMP** = manual trend network. **Trap:** Calling NAMP “real-time only.”
+
+</details>
+
+**Logic:** Form V Environmental Statement under EPA Rule 14 is the annual statutory disclosure to SPCB.
+
+**Q8. UPPCS Prelims (pattern)**
+
+Under the Environment (Protection) Rules, the annual **Environmental Statement (Form V)** is filed with:
+
+A. State Pollution Control Board (SPCB)
+B. Montreal Protocol Secretariat only
+C. CITES Management Authority only
+D. Ramsar Bureau only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Form V** goes to **SPCB** yearly (Rule 14). **Trap:** Confusing with ISO 14001 certificate or EC portal alone.
+
+</details>
+
+**Logic:** ISO 14001 is the voluntary Environmental Management System standard — not a treaty or AQI tool.
+
+**Q9. UPPCS Prelims (pattern)**
+
+ISO 14001 standard relates to:
+
+A. Environmental Management Systems
+B. Carbon credit issuance under Kyoto only
+C. CITES Appendix listing
+D. Ringelmann smoke photography only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **ISO 14001** = voluntary **EMS** certification. **Trap:** Equating ISO certificate with Form V statutory filing.
+
+</details>
+
+**Logic:** Monitoring collects data; environmental audit verifies legal/EC compliance using that data.
+
+**Q10. UPPCS Prelims (pattern)**
+
+Environmental **audit** differs from **monitoring** because audit:
+
+A. Verifies compliance with laws, consents, and management systems
+B. Only publishes one daily AQI colour
+C. Only measures smoke once without standards
+D. Replaces all groundwater monitoring by CGWB
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Monitoring** = repeated measurement; **audit** = documented compliance check (Form V, EC reports, inspections). **Trap:** “We have AQI data, so audit is done.”
+
+</details>
+
+---
+
 ## Practice Zone
 
 **Q1.** BOD is a criterion for:
@@ -486,197 +677,6 @@ Options: A. BOD=aquatic assay; Ringelmann=smoke; CGWB=GW report; Form V=annual s
 
 ---
 
-## Complete PYQ Bank (Topic 41)
-
-**Logic:** BOD assays organic pollution in aquatic ecosystems — not blood or altitude oxygen.
-
-**Q1. UPPCS Prelims 2023, Q103**
-
-Biological Oxygen Demand (BOD) is a standard criterion for—
-
-A. Pollution assay in aquatic ecosystems
-B. High-altitude O₂
-C. Blood O₂
-D. Forest O₂
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **BOD** = microbial oxygen demand in water; higher BOD = dirtier water. **Trap:** “Oxygen” in name → medical/altitude options.
-
-</details>
-
-**Logic:** Ringelmann scale grades smoke plume opacity 0–5 — not water, fog, or noise.
-
-**Q2. UPPCS Prelims 2021, Q34**
-
-Ringelmann scale is used to measure density of
-
-A. Smoke
-B. Polluted water
-C. Fog
-D. Noise
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Ringelmann 0–5** = visible **smoke** density from stacks. **Trap:** Fog meter or BOD/water quality distractors.
-
-</details>
-
-**Logic:** Annual Groundwater Quality Report is CGWB’s product — CPCB handles air/surface water, not this report.
-
-**Q3. UPPCS Prelims 2025, Q70**
-
-Annual Groundwater Quality Report 2024 was prepared by:
-
-1. CPCB
-2. CWC
-3. CGWB
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Only 3).** **CGWB** monitors groundwater quality/levels. **Trap:** CPCB name sounds like “all pollution.”
-
-</details>
-
-**Logic:** Lichens are sensitive SO₂ indicators — they do not grow well in polluted air.
-
-**Q4. UPPCS Prelims 2025, Q61**
-
-Consider the following statements:
-
-1. Lichens are very good indicators of pollution.
-2. Lichens grow well in polluted areas.
-
-A. Only 2
-B. Neither
-C. Both
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Only 1).** Indicators **die back** in dirty air — statement 2 is false. **Trap:** “Good indicator” read as “likes pollution.”
-
-</details>
-
-**Logic:** SAFAR is IITM’s air-quality and weather forecast system — inaugurated by Dr. Harsh Vardhan in July 2018.
-
-**Q5. UPPCS Prelims 2018, Q84**
-
-SAFAR (System of Air Quality and Weather Forecasting and Research) was inaugurated in July 2018 by:
-
-A. Dr. Harsh Vardhan
-B. Governor of RBI
-C. Director-General of WTO
-D. Secretary, UNFCCC alone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Dr. Harsh Vardhan** launched SAFAR (IITM-backed). **Trap:** Attributing SAFAR to IMD alone or CPCB alone.
-
-</details>
-
-**Logic:** NCAP (2019) expanded monitoring and city action plans for non-attainment cities — complements CPCB networks.
-
-**Q6. UPPCS Prelims (pattern)**
-
-National Clean Air Programme (NCAP) was launched in:
-
-A. 2019
-B. 1974
-C. 1987
-D. 1730
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **NCAP 2019** targets ~20–30% PM cut in 122 cities. **Trap:** Water Act 1974 or Montreal 1987 year swaps.
-
-</details>
-
-**Logic:** CAAQMS gives continuous real-time ambient air data; NAMP is mainly manual long-term trend stations.
-
-**Q7. UPPCS Prelims (pattern)**
-
-Continuous Ambient Air Quality Monitoring Stations (CAAQMS) primarily provide:
-
-A. Real-time ambient air quality data
-B. Only annual groundwater atlases
-C. Only Form V filing receipts
-D. Only noise silence-zone maps
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **CAAQMS** = continuous feeds for AQI boards; **NAMP** = manual trend network. **Trap:** Calling NAMP “real-time only.”
-
-</details>
-
-**Logic:** Form V Environmental Statement under EPA Rule 14 is the annual statutory disclosure to SPCB.
-
-**Q8. UPPCS Prelims (pattern)**
-
-Under the Environment (Protection) Rules, the annual **Environmental Statement (Form V)** is filed with:
-
-A. State Pollution Control Board (SPCB)
-B. Montreal Protocol Secretariat only
-C. CITES Management Authority only
-D. Ramsar Bureau only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Form V** goes to **SPCB** yearly (Rule 14). **Trap:** Confusing with ISO 14001 certificate or EC portal alone.
-
-</details>
-
-**Logic:** ISO 14001 is the voluntary Environmental Management System standard — not a treaty or AQI tool.
-
-**Q9. UPPCS Prelims (pattern)**
-
-ISO 14001 standard relates to:
-
-A. Environmental Management Systems
-B. Carbon credit issuance under Kyoto only
-C. CITES Appendix listing
-D. Ringelmann smoke photography only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **ISO 14001** = voluntary **EMS** certification. **Trap:** Equating ISO certificate with Form V statutory filing.
-
-</details>
-
-**Logic:** Monitoring collects data; environmental audit verifies legal/EC compliance using that data.
-
-**Q10. UPPCS Prelims (pattern)**
-
-Environmental **audit** differs from **monitoring** because audit:
-
-A. Verifies compliance with laws, consents, and management systems
-B. Only publishes one daily AQI colour
-C. Only measures smoke once without standards
-D. Replaces all groundwater monitoring by CGWB
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Monitoring** = repeated measurement; **audit** = documented compliance check (Form V, EC reports, inspections). **Trap:** “We have AQI data, so audit is done.”
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -691,42 +691,3 @@ D. Replaces all groundwater monitoring by CGWB
 | COD < BOD always | **COD ≥ BOD** |
 | NAMP = real-time only | Mostly **manual**; CAAQMS = continuous |
 | High BOD = clean water | **Dirty** organics |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | 583 |
-| **Teaching blocks** | §41.1–41.3 (3 syllabus bullets) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2023 Q103, 2021 Q34, 2025 Q70/Q61, 2018 Q84 |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Environmental Indicators | §41.1 |
-| Environmental Monitoring | §41.2 |
-| Environmental Audit | §41.3 |
-
-### Topic boundaries
-
-- **AQI/NCAP/smog pollution depth** — Topic 38
-- **EIA / EC process** — Topic 14
-- **BOD as water pollution concept** — also Topic 9/38
-- **Lichens / acid rain SO₂** — Topics 38–39
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2023 BOD | §41.1 inline |
-| 2021 Ringelmann | §41.1 inline |
-| 2025 CGWB / lichens | §41.2 / §41.1 |
-| 2018 SAFAR | §41.2 inline |
-
-**File ready: YES**

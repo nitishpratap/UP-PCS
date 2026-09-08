@@ -1297,6 +1297,199 @@ A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyay
 
 ---
 
+## Complete PYQ Bank (Topic 9)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q47Assertion (A):** Public Interest Litigation is essential for the rule of law in India.
+
+**Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+### 2024
+
+**Q2. UPPCS Prelims 2024, Q40**
+Which Article of the Constitution provides for the establishment of the Supreme Court of India?
+A. Article 124
+B. Article 214
+C. Article 226
+D. Article 356
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 124.**
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q144**
+Fathima Beevi died recently. Consider the following statements regarding her:
+1. She was the first woman judge of the Supreme Court of India.
+2. She served as the Governor of Kerala from 1997-2001.
+3. She was the first Muslim woman to enter into higher judiciary.
+A. 1 and 2
+B. 1 and 3
+C. Only 1
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 1 and 3.** Governor of **Tamil Nadu**, not Kerala.
+
+</details>
+
+### 2023
+
+**Q4. UPPCS Prelims 2023, Q1**
+Which among the following (Provision — Part of the Constitution) is **not** correctly matched?
+A. The Union Territories — Part VIII
+B. The Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
+D. Official Language — Part XVII
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tribunals = **Part XIVA**.
+
+</details>
+
+**Q5. UPPCS Prelims 2023, Q5**
+With reference to the election of the Vice-President of India, which is declared void by the Supreme Court of India, which of the following statement(s) is/are correct?
+1. The acts done by him as Vice-President before such declaration are considered valid.
+2. The acts done by him as Vice-President on the day of such declaration are not considered valid.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1** (Art. **71(2)**).
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q11**
+Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights—
+1. The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari for the enforcement of Fundamental Rights.
+2. Parliament may by law empower any other court to exercise within its jurisdiction the powers given to the Supreme Court.
+A. Both 1 and 2
+B. Only 1
+C. Only 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both.**
+
+</details>
+
+**Q7. UPPCS Prelims 2023, Q19**
+The resignation letter by a Judge of the Supreme Court is addressed to—
+A. The Chief Justice of India
+B. The senior-most Judge of the Supreme Court
+C. The President
+D. The Prime Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — the President.**
+
+</details>
+
+### 2022 / 2020
+
+**Q8. UPPCS Prelims 2022, Q37 / 2020, Q120**
+The concept ‘Basic Structure of the Constitution’ was propounded by the Supreme Court in the case of—
+A. *Kesavananda Bharati* (1973)
+B. *Golaknath* (1967)
+C. (other cases)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: *Kesavananda Bharati*, 1973.**
+
+</details>
+
+**Q9. UPPCS Prelims 2020, Q102**
+Which one of the following pairs is NOT correctly matched?
+A. Interstate Council – Article 263
+B. Finance Commission – Article 280
+C. Administrative Tribunal – Article 323A
+D. Union Public Service Commission – Article 315
+
+<details>
+<summary>Show answer</summary>
+
+**Fact: C is correctly matched (323A).** Learn 323A vs 323B from this pair.
+
+</details>
+
+**Q10. UPPCS Prelims 2020, Q126Assertion (A):** Indian federalism is called ‘Quasi-federal’.
+
+**Reason (R):** India has an independent judiciary with power of Judicial Review.
+A. Both true, R explains A
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. A true, R false
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Quasi-federal = strong Centre, not JR.
+
+</details>
+
+### 2019
+
+**Q11. UPPCS Prelims 2019, Q104Assertion (A):** The Supreme Court of India has exclusive jurisdiction regarding Constitutional validity of Central laws.
+
+**Reason (R):** The Supreme Court is the Guardian of the Indian Constitution.
+A. Both true, R explains A
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. A true, R false
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 131A (42nd) was **repealed by the 43rd**; HCs can examine Central laws.
+
+</details>
+
+### 2018
+
+**Q12. UPPCS Prelims 2018, Q145**
+Who was the Chief Justice of India when Public Interest litigation was introduced in the Indian Judicial system?
+A. M. Hidayatullah
+B. A.M. Ahmedi
+C. P.N. Bhagwati
+D. A.S. Anand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — P.N. Bhagwati.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **90 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application. Q1–Q50 = SC/HC; Q51–Q90 = PIL, review/activism, subordinate courts, tribunals, ADR, contempt.
@@ -2992,199 +3185,6 @@ D. (A) is false, but (R) is true
 <summary>Show answer</summary>
 
 **Ans: D**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 9)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q47Assertion (A):** Public Interest Litigation is essential for the rule of law in India.
-
-**Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-### 2024
-
-**Q2. UPPCS Prelims 2024, Q40**
-Which Article of the Constitution provides for the establishment of the Supreme Court of India?
-A. Article 124
-B. Article 214
-C. Article 226
-D. Article 356
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 124.**
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q144**
-Fathima Beevi died recently. Consider the following statements regarding her:
-1. She was the first woman judge of the Supreme Court of India.
-2. She served as the Governor of Kerala from 1997-2001.
-3. She was the first Muslim woman to enter into higher judiciary.
-A. 1 and 2
-B. 1 and 3
-C. Only 1
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1 and 3.** Governor of **Tamil Nadu**, not Kerala.
-
-</details>
-
-### 2023
-
-**Q4. UPPCS Prelims 2023, Q1**
-Which among the following (Provision — Part of the Constitution) is **not** correctly matched?
-A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Tribunals = **Part XIVA**.
-
-</details>
-
-**Q5. UPPCS Prelims 2023, Q5**
-With reference to the election of the Vice-President of India, which is declared void by the Supreme Court of India, which of the following statement(s) is/are correct?
-1. The acts done by him as Vice-President before such declaration are considered valid.
-2. The acts done by him as Vice-President on the day of such declaration are not considered valid.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1** (Art. **71(2)**).
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q11**
-Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights—
-1. The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari for the enforcement of Fundamental Rights.
-2. Parliament may by law empower any other court to exercise within its jurisdiction the powers given to the Supreme Court.
-A. Both 1 and 2
-B. Only 1
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Both.**
-
-</details>
-
-**Q7. UPPCS Prelims 2023, Q19**
-The resignation letter by a Judge of the Supreme Court is addressed to—
-A. The Chief Justice of India
-B. The senior-most Judge of the Supreme Court
-C. The President
-D. The Prime Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — the President.**
-
-</details>
-
-### 2022 / 2020
-
-**Q8. UPPCS Prelims 2022, Q37 / 2020, Q120**
-The concept ‘Basic Structure of the Constitution’ was propounded by the Supreme Court in the case of—
-A. *Kesavananda Bharati* (1973)
-B. *Golaknath* (1967)
-C. (other cases)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: *Kesavananda Bharati*, 1973.**
-
-</details>
-
-**Q9. UPPCS Prelims 2020, Q102**
-Which one of the following pairs is NOT correctly matched?
-A. Interstate Council – Article 263
-B. Finance Commission – Article 280
-C. Administrative Tribunal – Article 323A
-D. Union Public Service Commission – Article 315
-
-<details>
-<summary>Show answer</summary>
-
-**Fact: C is correctly matched (323A).** Learn 323A vs 323B from this pair.
-
-</details>
-
-**Q10. UPPCS Prelims 2020, Q126Assertion (A):** Indian federalism is called ‘Quasi-federal’.
-
-**Reason (R):** India has an independent judiciary with power of Judicial Review.
-A. Both true, R explains A
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Quasi-federal = strong Centre, not JR.
-
-</details>
-
-### 2019
-
-**Q11. UPPCS Prelims 2019, Q104Assertion (A):** The Supreme Court of India has exclusive jurisdiction regarding Constitutional validity of Central laws.
-
-**Reason (R):** The Supreme Court is the Guardian of the Indian Constitution.
-A. Both true, R explains A
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 131A (42nd) was **repealed by the 43rd**; HCs can examine Central laws.
-
-</details>
-
-### 2018
-
-**Q12. UPPCS Prelims 2018, Q145**
-Who was the Chief Justice of India when Public Interest litigation was introduced in the Indian Judicial system?
-A. M. Hidayatullah
-B. A.M. Ahmedi
-C. P.N. Bhagwati
-D. A.S. Anand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — P.N. Bhagwati.**
 
 </details>
 

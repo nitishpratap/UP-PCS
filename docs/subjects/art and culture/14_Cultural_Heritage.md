@@ -321,6 +321,77 @@ D. Marakesh (Morocco)
 
 ---
 
+## Complete PYQ Bank (Topic 14)
+
+**Q1. UPPCS Prelims 2024, Q52**
+
+Consider the following events and arrange them in chronological order:
+
+1. World Heritage Day
+2. World Thyroid Day
+3. World No Tobacco Day
+4. International Day of Light
+
+Select the correct answer from the codes given below:
+
+A. 3, 1, 2, 4
+B. 1, 4, 2, 3
+C. 2, 3, 1, 4
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** World Heritage Day **18 April** → International Day of Light **16 May** → World Thyroid Day **25 May** → World No Tobacco Day **31 May**.
+
+</details>
+
+**Q2. UPPCS Prelims 2022, Q25**
+
+Match List-I with List-II and select the correct answer from the code given below.
+
+**List-I (Day)**
+A. April 18
+B. May 22
+C. July 29
+D. December 5
+
+**List-II (Event)**
+1. International Tiger Day
+2. World Heritage Day
+3. World Soil Day
+4. International Day of Biodiversity
+
+A. 4, 3, 2, 1
+B. 1, 2, 3, 4
+C. 2, 4, 1, 3
+D. 3, 2, 1, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-4, C-1, D-3.
+
+</details>
+
+**Q3. UPPCS Prelims 2019, Q35**
+
+Jaipur was listed as 'World Heritage Site by the UNESCO World Heritage Committee in its 43rd Session held in the city
+
+A. Baku (Azerbaizan)
+B. Bishkek (Kyrgyzstan)
+C. Istanbul (Turkey)
+D. Marakesh (Morocco)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Baku (Azerbaijan), 2019.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **35 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -985,77 +1056,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A.** Fatehpur Sikri is **cultural**, 1986.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 14)
-
-**Q1. UPPCS Prelims 2024, Q52**
-
-Consider the following events and arrange them in chronological order:
-
-1. World Heritage Day
-2. World Thyroid Day
-3. World No Tobacco Day
-4. International Day of Light
-
-Select the correct answer from the codes given below:
-
-A. 3, 1, 2, 4
-B. 1, 4, 2, 3
-C. 2, 3, 1, 4
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** World Heritage Day **18 April** → International Day of Light **16 May** → World Thyroid Day **25 May** → World No Tobacco Day **31 May**.
-
-</details>
-
-**Q2. UPPCS Prelims 2022, Q25**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Day)**
-A. April 18
-B. May 22
-C. July 29
-D. December 5
-
-**List-II (Event)**
-1. International Tiger Day
-2. World Heritage Day
-3. World Soil Day
-4. International Day of Biodiversity
-
-A. 4, 3, 2, 1
-B. 1, 2, 3, 4
-C. 2, 4, 1, 3
-D. 3, 2, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-4, C-1, D-3.
-
-</details>
-
-**Q3. UPPCS Prelims 2019, Q35**
-
-Jaipur was listed as 'World Heritage Site by the UNESCO World Heritage Committee in its 43rd Session held in the city
-
-A. Baku (Azerbaizan)
-B. Bishkek (Kyrgyzstan)
-C. Istanbul (Turkey)
-D. Marakesh (Morocco)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Baku (Azerbaijan), 2019.**
 
 </details>
 

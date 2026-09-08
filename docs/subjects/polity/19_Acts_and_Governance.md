@@ -1030,6 +1030,198 @@ D. (iii), (iv), (i), (ii)
 58. NIC born with Digital India → NIC **1976**; DI **2015**
 59. Meghalaya social-audit Act = AP → AP = pioneer *society*; **Meghalaya 2017** = first *Act*
 60. 1st ARC recommended Digital India → 1st ARC = **Lokpal / grievance machinery**. DI is **2015**
+
+---
+
+## Complete PYQ Bank (Topic 19)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q15**
+Which of the following is/are NOT a dimension of food security?
+1. Availability
+2. Accessibility
+3. Affordability
+4. Accountability
+A. 1 and 2
+B. Only 4
+C. 2, 3 and 4
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q137Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).
+
+**Reason (R):** MRP is the price above which a seller cannot charge a buyer.
+A. Both true, R not explanation
+B. A false R true
+C. A true R false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q2a. UPPCS Prelims 2025, Q29**
+Adi Karmayogi Beta Version (June 2025) launched by which Ministry?
+1. AYUSH
+2. WCD
+3. Social Justice
+4. Tribal Affairs
+A. 1 and 2 only
+B. Only 4
+C. 2 and 3 only
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Ministry of Tribal Affairs.** ≠ Mission Karmayogi / DoPT.
+
+</details>
+
+### 2024
+
+**Q3. UPPCS Prelims 2024, Q118**
+NFSA: (1) 75% rural 50% urban (2) nutrition focus women/children (3) enforced 5 July 2010
+A. 2 and 3
+B. 1 and 3
+C. 1, 2 and 3
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q3a. UPPCS Prelims 2024, Q123**
+ICT-based e-Governance: (1) reduces transparency (2) reduces cost (3) increases citizens’ input (4) increases red-tapism
+A. 2 and 4
+B. 2 and 3
+C. 1, 2 and 3
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### 2022
+
+**Q4. UPPCS Prelims 2022, Q67**
+When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
+A. 1998
+B. 1996
+C. 1995
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### 2021
+
+**Q5. UPPCS Prelims 2021, Q7**
+The symbol ‘ECOMARC’ is related to—
+A. Goods of best quality
+B. Safe goods for environment
+C. Exported goods
+D. Imported goods
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q6. UPPCS Prelims 2021, Q26**
+Ex-officio Chairman of NDMA?
+A. Prime Minister
+B. Home Minister
+C. Defence Minister
+D. Health Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q7. UPPCS Prelims 2021, Q72**
+Code on Wages 2019 amalgamated: I Minimum Wages II Payment of Bonus III Contract Labour IV Equal Remuneration
+A. I and II
+B. II and III
+C. I, II and IV
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q7a. UPPCS Prelims 2021, Q23**
+P.C. Hota Committee on Civil Services Reforms was constituted in—
+A. 2003
+B. 2004
+C. 2005
+D. 2006
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 2004.** Not the 2nd ARC (2005, Moily).
+
+</details>
+
+### 2019
+
+**Q8. UPPCS Prelims 2019, Q73**
+NFSA: I 75/50 II nutrition women/children III eldest woman ≥18 head
+A. I and II
+B. II and III
+C. I, II and III
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q9. UPPCS Prelims 2019, Q100**
+MKSS associated with—
+A. RTE Act
+B. RTI Act
+C. MGNREGA
+D. NHM
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
 ---
 
 ## Practice Zone — UPPCS Format Drill
@@ -2786,197 +2978,6 @@ D. Adi Karmayogi 2025 — DoPT
 <summary>Show answer</summary>
 
 **Ans: D** — **MoTA**.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 19)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q15**
-Which of the following is/are NOT a dimension of food security?
-1. Availability
-2. Accessibility
-3. Affordability
-4. Accountability
-A. 1 and 2
-B. Only 4
-C. 2, 3 and 4
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q137Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).
-
-**Reason (R):** MRP is the price above which a seller cannot charge a buyer.
-A. Both true, R not explanation
-B. A false R true
-C. A true R false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q2a. UPPCS Prelims 2025, Q29**
-Adi Karmayogi Beta Version (June 2025) launched by which Ministry?
-1. AYUSH
-2. WCD
-3. Social Justice
-4. Tribal Affairs
-A. 1 and 2 only
-B. Only 4
-C. 2 and 3 only
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Ministry of Tribal Affairs.** ≠ Mission Karmayogi / DoPT.
-
-</details>
-
-### 2024
-
-**Q3. UPPCS Prelims 2024, Q118**
-NFSA: (1) 75% rural 50% urban (2) nutrition focus women/children (3) enforced 5 July 2010
-A. 2 and 3
-B. 1 and 3
-C. 1, 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q3a. UPPCS Prelims 2024, Q123**
-ICT-based e-Governance: (1) reduces transparency (2) reduces cost (3) increases citizens’ input (4) increases red-tapism
-A. 2 and 4
-B. 2 and 3
-C. 1, 2 and 3
-D. 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### 2022
-
-**Q4. UPPCS Prelims 2022, Q67**
-When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
-A. 1998
-B. 1996
-C. 1995
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### 2021
-
-**Q5. UPPCS Prelims 2021, Q7**
-The symbol ‘ECOMARC’ is related to—
-A. Goods of best quality
-B. Safe goods for environment
-C. Exported goods
-D. Imported goods
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6. UPPCS Prelims 2021, Q26**
-Ex-officio Chairman of NDMA?
-A. Prime Minister
-B. Home Minister
-C. Defence Minister
-D. Health Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q7. UPPCS Prelims 2021, Q72**
-Code on Wages 2019 amalgamated: I Minimum Wages II Payment of Bonus III Contract Labour IV Equal Remuneration
-A. I and II
-B. II and III
-C. I, II and IV
-D. All four
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7a. UPPCS Prelims 2021, Q23**
-P.C. Hota Committee on Civil Services Reforms was constituted in—
-A. 2003
-B. 2004
-C. 2005
-D. 2006
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 2004.** Not the 2nd ARC (2005, Moily).
-
-</details>
-
-### 2019
-
-**Q8. UPPCS Prelims 2019, Q73**
-NFSA: I 75/50 II nutrition women/children III eldest woman ≥18 head
-A. I and II
-B. II and III
-C. I, II and III
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q9. UPPCS Prelims 2019, Q100**
-MKSS associated with—
-A. RTE Act
-B. RTI Act
-C. MGNREGA
-D. NHM
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
 
 </details>
 

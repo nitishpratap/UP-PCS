@@ -247,6 +247,136 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 ---
 
+## Complete PYQ Bank (Topic 12)
+
+
+**Q1. UPPCS Prelims 2021, Q75**
+
+Arrange foreign travellers by arrival: I. William Hawkins II. Ralph Fitch III. Sir Thomas Roe IV. Nicholas Dawnton
+
+A. II, I, IV and III |
+
+B. IV, II, I and III |
+
+C. I, III, II and IV |
+
+D. III, II, IV and I
+
+<details><summary>Show answer</summary>
+
+**Ans: A (II-I-IV-III)Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
+
+**Trap:Roe** is ambassador **1615–19**, not the first English arrival.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2023, Q31**
+
+Captain Hawkins: 1. Came to India in 1611 as envoy of James I. 2. Very well versed in Turkish.
+
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both 1 and 2 |
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: B (Only 2)Key:** Statement **1** is false (arrival **1608** on **Hector**); statement **2** is true (Turkish at Jahangir's court).
+
+**Trap:1611** is the trap year — Hawkins came **1608**, Roe came **1615**.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2020, Q18**
+
+Treaty of Aix-la-Chapelle (1748): 1. First Carnatic War ended. 2. Madras was returned to the English.
+
+A. 1 only |
+
+B. 2 only |
+
+C. Both 1 and 2 |
+
+D. Neither 1 nor 2
+
+<details><summary>Show answer</summary>
+
+**Ans: C (Both 1 and 2)Key:** Both statements are true — war ended **1748** and **Madras** (taken 1746) went back to the English.
+
+**Trap:** Same pair as **2025 Q67** — not **Paris 1763** (Seven Years' War).
+
+</details>
+
+
+**Q4. UPPCS Prelims 2025, Q67**
+
+Treaty of Aix-la-Chapelle (1748): 1. The First Carnatic War ended. 2. Madras was returned to the English.
+
+A. Only 2 |
+
+B. Neither 1 nor 2 |
+
+C. Both 1 and 2 |
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: C (Both 1 and 2)Key:** First Carnatic War ended; **Madras** restored to the English under the **1748** treaty.
+
+**Trap:Paris 1763** ended French hopes after Wandiwash — different treaty.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2025, Q26**
+
+Arrange: 1. First Anglo-Mysore War 2. Second Anglo-French War 3. First Anglo-Sikh War 4. First Anglo-Afghan War
+
+A. 2, 1, 4, 3 |
+
+B. 1, 2, 3, 4 |
+
+C. 1, 2, 4, 3 |
+
+D. 2, 1, 3, 4
+
+<details><summary>Show answer</summary>
+
+**Ans: A (2-1-4-3)Order:** Second Anglo-French/Carnatic **1749–54** → First Anglo-Mysore **1767** → First Anglo-Afghan **1839** → First Anglo-Sikh **1845**.
+
+**Trap:Second Anglo-French** is the Carnatic phase, not Panipat III.
+
+</details>
+
+
+**Q6. UPPCS Prelims 2025, Q127**
+
+Arrange: 1. Acquisition of Awadh by the British 2. Ilbert Bill Controversy 3. Indigo Revolt 4. Second Anglo-Afghan War
+
+A. 1, 3, 4, 2 |
+
+B. 3, 1, 2, 4 |
+
+C. 3, 1, 4, 2 |
+
+D. 1, 3, 2, 4
+
+<details><summary>Show answer</summary>
+
+**Ans: A (1-3-4-2)Order:** Awadh annexation **1856** → Indigo Revolt **1859** → Second Anglo-Afghan War **1878–80** → Ilbert Bill **1883**.
+
+**Trap:Awadh 1856** precedes **Indigo 1859** — annexation fed the **1857** Lucknow rising.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **38 questions** · answers in `<details>`
@@ -975,136 +1105,6 @@ D. True only for Fitch
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 12)
-
-
-**Q1. UPPCS Prelims 2021, Q75**
-
-Arrange foreign travellers by arrival: I. William Hawkins II. Ralph Fitch III. Sir Thomas Roe IV. Nicholas Dawnton
-
-A. II, I, IV and III |
-
-B. IV, II, I and III |
-
-C. I, III, II and IV |
-
-D. III, II, IV and I
-
-<details><summary>Show answer</summary>
-
-**Ans: A (II-I-IV-III)Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
-
-**Trap:Roe** is ambassador **1615–19**, not the first English arrival.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2023, Q31**
-
-Captain Hawkins: 1. Came to India in 1611 as envoy of James I. 2. Very well versed in Turkish.
-
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both 1 and 2 |
-
-D. Neither 1 nor 2
-
-<details><summary>Show answer</summary>
-
-**Ans: B (Only 2)Key:** Statement **1** is false (arrival **1608** on **Hector**); statement **2** is true (Turkish at Jahangir's court).
-
-**Trap:1611** is the trap year — Hawkins came **1608**, Roe came **1615**.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2020, Q18**
-
-Treaty of Aix-la-Chapelle (1748): 1. First Carnatic War ended. 2. Madras was returned to the English.
-
-A. 1 only |
-
-B. 2 only |
-
-C. Both 1 and 2 |
-
-D. Neither 1 nor 2
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Both 1 and 2)Key:** Both statements are true — war ended **1748** and **Madras** (taken 1746) went back to the English.
-
-**Trap:** Same pair as **2025 Q67** — not **Paris 1763** (Seven Years' War).
-
-</details>
-
-
-**Q4. UPPCS Prelims 2025, Q67**
-
-Treaty of Aix-la-Chapelle (1748): 1. The First Carnatic War ended. 2. Madras was returned to the English.
-
-A. Only 2 |
-
-B. Neither 1 nor 2 |
-
-C. Both 1 and 2 |
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Both 1 and 2)Key:** First Carnatic War ended; **Madras** restored to the English under the **1748** treaty.
-
-**Trap:Paris 1763** ended French hopes after Wandiwash — different treaty.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2025, Q26**
-
-Arrange: 1. First Anglo-Mysore War 2. Second Anglo-French War 3. First Anglo-Sikh War 4. First Anglo-Afghan War
-
-A. 2, 1, 4, 3 |
-
-B. 1, 2, 3, 4 |
-
-C. 1, 2, 4, 3 |
-
-D. 2, 1, 3, 4
-
-<details><summary>Show answer</summary>
-
-**Ans: A (2-1-4-3)Order:** Second Anglo-French/Carnatic **1749–54** → First Anglo-Mysore **1767** → First Anglo-Afghan **1839** → First Anglo-Sikh **1845**.
-
-**Trap:Second Anglo-French** is the Carnatic phase, not Panipat III.
-
-</details>
-
-
-**Q6. UPPCS Prelims 2025, Q127**
-
-Arrange: 1. Acquisition of Awadh by the British 2. Ilbert Bill Controversy 3. Indigo Revolt 4. Second Anglo-Afghan War
-
-A. 1, 3, 4, 2 |
-
-B. 3, 1, 2, 4 |
-
-C. 3, 1, 4, 2 |
-
-D. 1, 3, 2, 4
-
-<details><summary>Show answer</summary>
-
-**Ans: A (1-3-4-2)Order:** Awadh annexation **1856** → Indigo Revolt **1859** → Second Anglo-Afghan War **1878–80** → Ilbert Bill **1883**.
-
-**Trap:Awadh 1856** precedes **Indigo 1859** — annexation fed the **1857** Lucknow rising.
 
 </details>
 

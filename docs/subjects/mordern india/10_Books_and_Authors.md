@@ -523,6 +523,101 @@ D. Bipin Chandra
 
 ---
 
+## Complete PYQ Bank
+
+### UPPCS Prelims 2021
+
+**Q1. UPPCS Prelims 2021, Q139**
+
+In which year the book 'Poverty and Un-British Rule in India' was published?
+
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 1901**
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q2. UPPCS Prelims 2020, Q26**
+
+Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
+
+**List-I (Book)List-II (Writer)**
+A. The Story of My Deportation  1. Surendranath Banerjee
+B. Gita Rahasya  2. Maulana Abul Kalam Azad
+C. A Nation in Making  3. Lala Lajpat Rai
+D. India Wins Freedom  4. Bal Gangadhar Tilak
+
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q3. UPPCS Prelims 2019, Q97**
+
+"The Rise and Growth of Economic Nationalism in India" was written by
+
+A. Partha Sarthi Gupta
+
+B. S Gopal
+
+C.
+
+B. R. Nanda
+
+D. Bipin Chandra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** A British official wrote this work — not the Aligarh reformer offered as a distractor.
+
+**Q. UKPCS Prelims 2025, Q66**
+
+Who wrote the book ‘The Indian Musalmans’?
+
+A. W. W. Hunter
+B. Charles McMillan
+C. Sir Syed Ahmad Khan
+D. S. N. Roy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** William Wilson Hunter published The Indian Musalmans in 1871 on Muslims under colonial rule and the Wahabi movement.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **51 questions.** Mix: Match-List, multi-statement, A/R, NOT-matched, chronology of publication.
@@ -1609,101 +1704,6 @@ D. The Viceroy's Journal — Mountbatten
 <summary>Show answer</summary>
 
 **Ans: D** — *The Viceroy's Journal* is **Wavell's** posthumous diary, not Mountbatten's.
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-### UPPCS Prelims 2021
-
-**Q1. UPPCS Prelims 2021, Q139**
-
-In which year the book 'Poverty and Un-British Rule in India' was published?
-
-A. 1900 A.D.
-
-B. 1901 A.D.
-
-C. 1902 A.D.
-
-D. 1903 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1901**
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q2. UPPCS Prelims 2020, Q26**
-
-Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
-
-**List-I (Book)List-II (Writer)**
-A. The Story of My Deportation  1. Surendranath Banerjee
-B. Gita Rahasya  2. Maulana Abul Kalam Azad
-C. A Nation in Making  3. Lala Lajpat Rai
-D. India Wins Freedom  4. Bal Gangadhar Tilak
-
-A. 3 4 1 2
-
-B. 4 2 1 3
-
-C. 2 4 1 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q3. UPPCS Prelims 2019, Q97**
-
-"The Rise and Growth of Economic Nationalism in India" was written by
-
-A. Partha Sarthi Gupta
-
-B. S Gopal
-
-C.
-
-B. R. Nanda
-
-D. Bipin Chandra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** A British official wrote this work — not the Aligarh reformer offered as a distractor.
-
-**Q. UKPCS Prelims 2025, Q66**
-
-Who wrote the book ‘The Indian Musalmans’?
-
-A. W. W. Hunter
-B. Charles McMillan
-C. Sir Syed Ahmad Khan
-D. S. N. Roy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** William Wilson Hunter published The Indian Musalmans in 1871 on Muslims under colonial rule and the Wahabi movement.
 
 </details>
 

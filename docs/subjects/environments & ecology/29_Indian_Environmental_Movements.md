@@ -179,6 +179,242 @@ Options: A. 1 and 2 B. Only 4 C. 3 and 4 D. Only 1
 
 ---
 
+## Complete PYQ Bank (Topic 29)
+
+**Logic:** Appiko state trap — Karnataka only; UK/UP = Chipko; Kerala = Silent Valley.
+
+**Q1. UPPCS Prelims 2025, Q122**
+
+Appiko Movement is associated with:
+
+1. Uttarakhand
+2. Uttar Pradesh
+3. Kerala
+4. Karnataka
+
+A. 1 and 2
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Appiko (1983, Sirsi/Uttara Kannada) is **Karnataka only**. **Trap:** Pairing Appiko with Garhwal because both used tree-embrace methods.
+
+</details>
+
+---
+
+**Logic:** Chipko and Dandi March grouped as non-violent passive resistance in UPSC stems.
+
+**Q2. UPSC Prelims 2012 — pattern**
+
+Chipko Movement and Dandi March are both examples of:
+
+A. Passive resistance / non-violent protest
+
+B. Armed rebellion against the State
+
+C. International treaty negotiations
+
+D. Judicial public-interest litigation only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chipko villagers hugged trees; Dandi March broke the salt law — both are classic **passive resistance**. **Trap:** Calling Chipko armed or purely legal petitioning.
+
+</details>
+
+---
+
+**Logic:** Chipko origin — 1973 Reni, Garhwal; Gaura Devi and Bahuguna are anchor names.
+
+**Q3. UPPCS / UPSC pattern**
+
+Chipko Movement began in:
+
+A. 1973 at Reni, Garhwal Himalaya (then Uttar Pradesh, now Uttarakhand)
+
+B. 1983 in Sirsi, Karnataka
+
+C. 1730 at Khejarli, Rajasthan
+
+D. 1970s in Silent Valley, Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chipko = **1973**, Reni, leaders include **Gaura Devi**, **Bahuguna**, **Bhatt**. **Trap:** 1983 Appiko year or 1730 Bishnoi date applied to Chipko.
+
+</details>
+
+---
+
+**Logic:** Silent Valley = Kerala rainforest anti-dam; Kunthipuzha river; KSSP science campaign.
+
+**Q4. UPPCS / UPSC pattern**
+
+Silent Valley Movement was primarily:
+
+A. Anti-hydroelectric dam struggle to save tropical evergreen forest in Kerala
+
+B. Anti-logging tree-hug in Uttarakhand
+
+C. Mining protest only in Jharkhand Singhbhum
+
+D. Western Ghats policy report movement of 2011
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Silent Valley (Palakkad, Kerala) opposed KSEB dam on **Kunthipuzha**; KSSP led science-based advocacy. **Trap:** Tamil Nadu or Karnataka placement.
+
+</details>
+
+---
+
+**Logic:** Narmada Bachao = Medha Patkar; multi-state Narmada valley anti-large-dam displacement.
+
+**Q5. UPPCS / UPSC pattern**
+
+Narmada Bachao Andolan is most closely linked to:
+
+A. Medha Patkar and anti-large-dam displacement in the Narmada valley (MP, Gujarat, Maharashtra)
+
+B. Panduranga Hegde and Karnataka logging
+
+C. Amrita Devi and 1730 khejri martyrdom
+
+D. Gadgil Committee report on Western Ghats mining
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** NBA (movement) spans **MP–GJ–MH** with **Medha Patkar** and **Baba Amte** as leader facts — not the National Biodiversity Authority. **Trap:** Medha Patkar = Chipko.
+
+</details>
+
+---
+
+**Logic:** Bishnoi 1730 Khejarli — centuries before Chipko; Amrita Devi memory.
+
+**Q6. UPPCS / UPSC pattern**
+
+Amrita Devi and the Khejarli martyrdom (363 lives) are associated with:
+
+A. Bishnoi Movement, Rajasthan, 1730
+
+B. Chipko Movement, 1973
+
+C. Appiko Movement, 1983
+
+D. Save Western Ghats, 2011
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bishnoi resistance at **Khejarli (1730)** protected **khejri** trees — oldest movement in the syllabus set. **Trap:** 1973 Chipko date or Amrita Devi Smriti Award confused with Chipko itself.
+
+</details>
+
+---
+
+**Logic:** Appiko leader Hegde, year 1983, Kannada “embrace” — southern Chipko.
+
+**Q7. UPPCS / UPSC pattern**
+
+Appiko Movement (1983) was led by:
+
+A. Panduranga Hegde in Karnataka
+
+B. Sunderlal Bahuguna in Garhwal
+
+C. Medha Patkar on the Narmada
+
+D. Gaura Devi at Reni
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Hegde** launched Appiko in **Sirsi/Kalase, Karnataka** to stop clear-felling. **Trap:** Bahuguna/Hegde swap or Appiko dated 1973.
+
+</details>
+
+---
+
+**Logic:** Jungle Bachao = Singhbhum tribal forest rights, 1982 — not Garhwal.
+
+**Q8. Pattern**
+
+Jungle Bachao Andolan (1982) originated in:
+
+A. Singhbhum, Jharkhand
+
+B. Reni, Uttarakhand
+
+C. Palakkad, Kerala
+
+D. Sirsi, Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Tribal communities in **Singhbhum** resisted forest exploitation for livelihood rights. **Trap:** Mapping every “Jungle Bachao” slogan to Chipko Garhwal.
+
+</details>
+
+---
+
+**Logic:** Save Western Ghats ecology politics — Gadgil 2011 vs Kasturirangan 2013 reports.
+
+**Q9. Pattern**
+
+Save Western Ghats Movement (from about 2011) centred on:
+
+A. Gadgil (2011) and Kasturirangan (2013) expert reports on mining, ESZ, and ecology
+
+B. Tree-hugging at Reni village in 1973
+
+C. Khejarli martyrdom in Rajasthan
+
+D. Floating phumdis of Loktak Lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Multi-state **policy/ecology** protest around Western Ghats expert committees — distinct from 1983 Appiko tree embrace. **Trap:** Treating Appiko and Save Western Ghats as the same campaign.
+
+</details>
+
+---
+
+**Logic:** Silent Valley state — Kerala, not Tamil Nadu.
+
+**Q10. Pattern**
+
+Which pair is **NOT** correctly matched?
+
+A. Silent Valley Movement — Kerala
+
+B. Chipko Movement — Uttarakhand (Garhwal)
+
+C. Appiko Movement — Karnataka
+
+D. Silent Valley Movement — Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Silent Valley is in **Kerala (Palakkad)**; A, B, C are correct. **Trap:** Palakkad proximity to TN border used to push Tamil Nadu as the state.
+
+</details>
+
+---
 
 ## Practice Zone
 
@@ -485,243 +721,6 @@ Options: A. Bishnoi → Chipko → Appiko → Save W Ghats B. Appiko → Bishnoi
 
 ---
 
-## Complete PYQ Bank (Topic 29)
-
-**Logic:** Appiko state trap — Karnataka only; UK/UP = Chipko; Kerala = Silent Valley.
-
-**Q1. UPPCS Prelims 2025, Q122**
-
-Appiko Movement is associated with:
-
-1. Uttarakhand
-2. Uttar Pradesh
-3. Kerala
-4. Karnataka
-
-A. 1 and 2
-
-B. Only 4
-
-C. 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Appiko (1983, Sirsi/Uttara Kannada) is **Karnataka only**. **Trap:** Pairing Appiko with Garhwal because both used tree-embrace methods.
-
-</details>
-
----
-
-**Logic:** Chipko and Dandi March grouped as non-violent passive resistance in UPSC stems.
-
-**Q2. UPSC Prelims 2012 — pattern**
-
-Chipko Movement and Dandi March are both examples of:
-
-A. Passive resistance / non-violent protest
-
-B. Armed rebellion against the State
-
-C. International treaty negotiations
-
-D. Judicial public-interest litigation only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Chipko villagers hugged trees; Dandi March broke the salt law — both are classic **passive resistance**. **Trap:** Calling Chipko armed or purely legal petitioning.
-
-</details>
-
----
-
-**Logic:** Chipko origin — 1973 Reni, Garhwal; Gaura Devi and Bahuguna are anchor names.
-
-**Q3. UPPCS / UPSC pattern**
-
-Chipko Movement began in:
-
-A. 1973 at Reni, Garhwal Himalaya (then Uttar Pradesh, now Uttarakhand)
-
-B. 1983 in Sirsi, Karnataka
-
-C. 1730 at Khejarli, Rajasthan
-
-D. 1970s in Silent Valley, Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Chipko = **1973**, Reni, leaders include **Gaura Devi**, **Bahuguna**, **Bhatt**. **Trap:** 1983 Appiko year or 1730 Bishnoi date applied to Chipko.
-
-</details>
-
----
-
-**Logic:** Silent Valley = Kerala rainforest anti-dam; Kunthipuzha river; KSSP science campaign.
-
-**Q4. UPPCS / UPSC pattern**
-
-Silent Valley Movement was primarily:
-
-A. Anti-hydroelectric dam struggle to save tropical evergreen forest in Kerala
-
-B. Anti-logging tree-hug in Uttarakhand
-
-C. Mining protest only in Jharkhand Singhbhum
-
-D. Western Ghats policy report movement of 2011
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Silent Valley (Palakkad, Kerala) opposed KSEB dam on **Kunthipuzha**; KSSP led science-based advocacy. **Trap:** Tamil Nadu or Karnataka placement.
-
-</details>
-
----
-
-**Logic:** Narmada Bachao = Medha Patkar; multi-state Narmada valley anti-large-dam displacement.
-
-**Q5. UPPCS / UPSC pattern**
-
-Narmada Bachao Andolan is most closely linked to:
-
-A. Medha Patkar and anti-large-dam displacement in the Narmada valley (MP, Gujarat, Maharashtra)
-
-B. Panduranga Hegde and Karnataka logging
-
-C. Amrita Devi and 1730 khejri martyrdom
-
-D. Gadgil Committee report on Western Ghats mining
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** NBA (movement) spans **MP–GJ–MH** with **Medha Patkar** and **Baba Amte** as leader facts — not the National Biodiversity Authority. **Trap:** Medha Patkar = Chipko.
-
-</details>
-
----
-
-**Logic:** Bishnoi 1730 Khejarli — centuries before Chipko; Amrita Devi memory.
-
-**Q6. UPPCS / UPSC pattern**
-
-Amrita Devi and the Khejarli martyrdom (363 lives) are associated with:
-
-A. Bishnoi Movement, Rajasthan, 1730
-
-B. Chipko Movement, 1973
-
-C. Appiko Movement, 1983
-
-D. Save Western Ghats, 2011
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Bishnoi resistance at **Khejarli (1730)** protected **khejri** trees — oldest movement in the syllabus set. **Trap:** 1973 Chipko date or Amrita Devi Smriti Award confused with Chipko itself.
-
-</details>
-
----
-
-**Logic:** Appiko leader Hegde, year 1983, Kannada “embrace” — southern Chipko.
-
-**Q7. UPPCS / UPSC pattern**
-
-Appiko Movement (1983) was led by:
-
-A. Panduranga Hegde in Karnataka
-
-B. Sunderlal Bahuguna in Garhwal
-
-C. Medha Patkar on the Narmada
-
-D. Gaura Devi at Reni
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Hegde** launched Appiko in **Sirsi/Kalase, Karnataka** to stop clear-felling. **Trap:** Bahuguna/Hegde swap or Appiko dated 1973.
-
-</details>
-
----
-
-**Logic:** Jungle Bachao = Singhbhum tribal forest rights, 1982 — not Garhwal.
-
-**Q8. Pattern**
-
-Jungle Bachao Andolan (1982) originated in:
-
-A. Singhbhum, Jharkhand
-
-B. Reni, Uttarakhand
-
-C. Palakkad, Kerala
-
-D. Sirsi, Karnataka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Tribal communities in **Singhbhum** resisted forest exploitation for livelihood rights. **Trap:** Mapping every “Jungle Bachao” slogan to Chipko Garhwal.
-
-</details>
-
----
-
-**Logic:** Save Western Ghats ecology politics — Gadgil 2011 vs Kasturirangan 2013 reports.
-
-**Q9. Pattern**
-
-Save Western Ghats Movement (from about 2011) centred on:
-
-A. Gadgil (2011) and Kasturirangan (2013) expert reports on mining, ESZ, and ecology
-
-B. Tree-hugging at Reni village in 1973
-
-C. Khejarli martyrdom in Rajasthan
-
-D. Floating phumdis of Loktak Lake
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Multi-state **policy/ecology** protest around Western Ghats expert committees — distinct from 1983 Appiko tree embrace. **Trap:** Treating Appiko and Save Western Ghats as the same campaign.
-
-</details>
-
----
-
-**Logic:** Silent Valley state — Kerala, not Tamil Nadu.
-
-**Q10. Pattern**
-
-Which pair is **NOT** correctly matched?
-
-A. Silent Valley Movement — Kerala
-
-B. Chipko Movement — Uttarakhand (Garhwal)
-
-C. Appiko Movement — Karnataka
-
-D. Silent Valley Movement — Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Silent Valley is in **Kerala (Palakkad)**; A, B, C are correct. **Trap:** Palakkad proximity to TN border used to push Tamil Nadu as the state.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -736,43 +735,3 @@ D. Silent Valley Movement — Tamil Nadu
 | Jungle Bachao = Garhwal | **Singhbhum Jharkhand** |
 | Gaura Devi = Appiko | **Chipko Reni** |
 | Hegde = Chipko | **Appiko** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~345 (was ~859 old format) |
-| **Teaching blocks** | §29.1–29.7 (7 syllabus movements) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2025 Q122 (§29.2) |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Chipko Movement | §29.1 |
-| Appiko Movement | §29.2 |
-| Silent Valley Movement | §29.3 |
-| Narmada Bachao Andolan | §29.4 |
-| Bishnoi Movement | §29.5 |
-| Jungle Bachao Andolan | §29.6 |
-| Save Western Ghats Movement | §29.7 |
-
-### Topic boundaries
-
-- **Western Ghats biodiversity ecology** — Topic 4/21/25
-- **EIA / dam clearance process** — Topic 14
-- **Forest laws FCA/NFP** — Topic 8/17
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q122 Appiko Karnataka | §29.2 inline |
-| Chipko/Silent Valley/NBA/Bishnoi patterns | Teaching + Practice |
-
-**File ready: YES**

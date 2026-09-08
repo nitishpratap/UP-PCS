@@ -531,6 +531,209 @@ Teach CPCB industrial day standard as **75 dB** in general notes.
 
 ---
 
+## Complete PYQ Bank (Topic 38)
+
+**Logic:** Lichens are sensitive bio-indicators — they die back in polluted air; they do not thrive in it.
+
+**Q1. UPPCS Prelims 2025, Q61**
+
+Consider the following statements:
+
+1. Lichens are very good indicators of pollution.
+2. Lichens grow well in polluted areas.
+
+A. Only 2
+B. Neither
+C. Both
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Only 1).** Statement 1 true; statement 2 false — lichens are **sensitive**, not pollution-tolerant. **Trap:** “Indicator” mistaken for “thrives in dirty air.”
+
+</details>
+
+**Logic:** Groundwater quality reporting is CGWB’s mandate — not CPCB or CWC.
+
+**Q2. UPPCS Prelims 2025, Q70**
+
+Annual Groundwater Quality Report 2024 was prepared by:
+
+1. Central Pollution Control Board (CPCB)
+2. Central Water Commission (CWC)
+3. Central Ground Water Board (CGWB)
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Only 3).** **CGWB** publishes the annual groundwater quality report. **Trap:** Swapping CPCB (air/surface water) with CGWB.
+
+</details>
+
+**Logic:** BOD measures microbial oxygen demand in water — an aquatic pollution assay, not blood oxygen.
+
+**Q3. UPPCS Prelims 2023, Q103**
+
+Biological Oxygen Demand (BOD) is a standard criterion for—
+
+A. Pollution assay in aquatic ecosystems
+B. High-altitude O₂
+C. Blood O₂
+D. Forest O₂
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **BOD** assays organic pollution in rivers/lakes. **Trap:** “Oxygen” in the name → blood or altitude distractors.
+
+</details>
+
+**Logic:** Pesticides persist and are not readily biodegradable unlike domestic organic waste.
+
+**Q4. UPPCS Prelims 2023, Q120**
+
+Which is not a biodegradable pollutant?
+
+A. Domestic waste
+B. Urine
+C. Faecal matter
+D. Pesticide
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Pesticides** are persistent; domestic waste, urine, and faecal matter biodegrade. **Trap:** Assuming all “natural” chemicals biodegrade quickly.
+
+</details>
+
+**Logic:** Photochemical smog always contains ozone as a key secondary product.
+
+**Q5. UPPCS Prelims 2022, Q46**
+
+Photochemical smog always contains—
+
+A. Phosphorus
+B. Ozone
+C. Methane
+D. Aluminium ion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NOx + VOCs + sunlight → **O₃** (+ PAN). **Trap:** London SO₂ smog without ozone chemistry.
+
+</details>
+
+**Logic:** UNEP Frontier Report 2022 ranked Moradabad among the world’s noisiest cities.
+
+**Q6. UPPCS Prelims 2022, Q81**
+
+According to UNEP Frontier Report 2022, the second most noise-polluted city was:
+
+A. Kota
+B. Moradabad
+C. Indore
+D. Patna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Moradabad** (UP brassware hub) was #2 in that report. **Trap:** Kota/Indore as generic UP/North India distractors.
+
+</details>
+
+**Logic:** Natural arsenic in groundwater is classically associated with Bangladesh / lower Gangetic basin.
+
+**Q7. UPPCS Prelims 2022, Q63**
+
+Which country has natural arsenic water contamination?
+
+A. Sri Lanka
+B. Bangladesh
+C. Bhutan
+D. Pakistan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bangladesh** is the textbook arsenic hotspot (Gangetic plains geology). **Trap:** Assuming arsenic is India-exclusive only.
+
+</details>
+
+**Logic:** CPCB daytime noise limits — silence zone lowest, then residential, commercial, industrial highest.
+
+**Q8. UPPCS Prelims 2022, Q115**
+
+Match the area with permissible noise level (daytime, as in paper):
+
+| Area | Level (dB) |
+| --- | --- |
+| Residential | 55 |
+| Silence zone | 50 |
+| Industrial | 70 |
+| Commercial | 65 |
+
+*Row order is not the answer code.*
+
+A. Residential–50; Silence–55; Industrial–65; Commercial–70
+B. Residential–65; Silence–75; Industrial–50; Commercial–55
+C. Residential–55; Silence–50; Industrial–70; Commercial–65
+D. All zones at 75 dB
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Residential **55**, Silence **50**, Industrial **70**, Commercial **65** — silence < residential < commercial < industrial (paper industrial **70**; teach CPCB day industrial **75 dB** in notes). **Trap:** Reversing silence vs residential or using one dB for all zones.
+
+</details>
+
+**Logic:** Fly ash is a primary pollutant from coal thermal power plants — usable in bricks/cement.
+
+**Q9. UPPCS Prelims 2021, Q143**
+
+Flyash pollution is caused by
+
+A. Oil refining
+B. Fertilizer industry
+C. Thermal power plant
+D. Mining
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Thermal power plants** emit fly ash (SiO₂/Al₂O₃/CaO plus toxic metals). **Trap:** Calling fly ash a secondary pollutant like smog.
+
+</details>
+
+**Logic:** Smog is a secondary pollutant; classical smog links to oxides of nitrogen and sulphur.
+
+**Q10. UPPCS Prelims 2019, Q136 / 2018, Q121**
+
+With reference to smog, consider the following:
+
+1. Smog is essentially caused by oxides of nitrogen and sulphur in the atmosphere.
+2. Among CO, CO₂, and fly ash, smog is the secondary pollutant.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statement 1 matches **2019 Q136** (oxides of N and S); statement 2 matches **2018 Q121** (smog secondary; fly ash/CO primary). **Trap:** Treating fly ash or stack SO₂ alone as “smog” without atmospheric formation.
+
+</details>
+
+---
+
 ## Practice Zone
 
 **Q1.** Lichens grow well in polluted areas — True/False fact:
@@ -1011,209 +1214,6 @@ D. Only Ramsar wetland birds
 
 ---
 
-## Complete PYQ Bank (Topic 38)
-
-**Logic:** Lichens are sensitive bio-indicators — they die back in polluted air; they do not thrive in it.
-
-**Q1. UPPCS Prelims 2025, Q61**
-
-Consider the following statements:
-
-1. Lichens are very good indicators of pollution.
-2. Lichens grow well in polluted areas.
-
-A. Only 2
-B. Neither
-C. Both
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Only 1).** Statement 1 true; statement 2 false — lichens are **sensitive**, not pollution-tolerant. **Trap:** “Indicator” mistaken for “thrives in dirty air.”
-
-</details>
-
-**Logic:** Groundwater quality reporting is CGWB’s mandate — not CPCB or CWC.
-
-**Q2. UPPCS Prelims 2025, Q70**
-
-Annual Groundwater Quality Report 2024 was prepared by:
-
-1. Central Pollution Control Board (CPCB)
-2. Central Water Commission (CWC)
-3. Central Ground Water Board (CGWB)
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Only 3).** **CGWB** publishes the annual groundwater quality report. **Trap:** Swapping CPCB (air/surface water) with CGWB.
-
-</details>
-
-**Logic:** BOD measures microbial oxygen demand in water — an aquatic pollution assay, not blood oxygen.
-
-**Q3. UPPCS Prelims 2023, Q103**
-
-Biological Oxygen Demand (BOD) is a standard criterion for—
-
-A. Pollution assay in aquatic ecosystems
-B. High-altitude O₂
-C. Blood O₂
-D. Forest O₂
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **BOD** assays organic pollution in rivers/lakes. **Trap:** “Oxygen” in the name → blood or altitude distractors.
-
-</details>
-
-**Logic:** Pesticides persist and are not readily biodegradable unlike domestic organic waste.
-
-**Q4. UPPCS Prelims 2023, Q120**
-
-Which is not a biodegradable pollutant?
-
-A. Domestic waste
-B. Urine
-C. Faecal matter
-D. Pesticide
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Pesticides** are persistent; domestic waste, urine, and faecal matter biodegrade. **Trap:** Assuming all “natural” chemicals biodegrade quickly.
-
-</details>
-
-**Logic:** Photochemical smog always contains ozone as a key secondary product.
-
-**Q5. UPPCS Prelims 2022, Q46**
-
-Photochemical smog always contains—
-
-A. Phosphorus
-B. Ozone
-C. Methane
-D. Aluminium ion
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** NOx + VOCs + sunlight → **O₃** (+ PAN). **Trap:** London SO₂ smog without ozone chemistry.
-
-</details>
-
-**Logic:** UNEP Frontier Report 2022 ranked Moradabad among the world’s noisiest cities.
-
-**Q6. UPPCS Prelims 2022, Q81**
-
-According to UNEP Frontier Report 2022, the second most noise-polluted city was:
-
-A. Kota
-B. Moradabad
-C. Indore
-D. Patna
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Moradabad** (UP brassware hub) was #2 in that report. **Trap:** Kota/Indore as generic UP/North India distractors.
-
-</details>
-
-**Logic:** Natural arsenic in groundwater is classically associated with Bangladesh / lower Gangetic basin.
-
-**Q7. UPPCS Prelims 2022, Q63**
-
-Which country has natural arsenic water contamination?
-
-A. Sri Lanka
-B. Bangladesh
-C. Bhutan
-D. Pakistan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Bangladesh** is the textbook arsenic hotspot (Gangetic plains geology). **Trap:** Assuming arsenic is India-exclusive only.
-
-</details>
-
-**Logic:** CPCB daytime noise limits — silence zone lowest, then residential, commercial, industrial highest.
-
-**Q8. UPPCS Prelims 2022, Q115**
-
-Match the area with permissible noise level (daytime, as in paper):
-
-| Area | Level (dB) |
-| --- | --- |
-| Residential | 55 |
-| Silence zone | 50 |
-| Industrial | 70 |
-| Commercial | 65 |
-
-*Row order is not the answer code.*
-
-A. Residential–50; Silence–55; Industrial–65; Commercial–70
-B. Residential–65; Silence–75; Industrial–50; Commercial–55
-C. Residential–55; Silence–50; Industrial–70; Commercial–65
-D. All zones at 75 dB
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Residential **55**, Silence **50**, Industrial **70**, Commercial **65** — silence < residential < commercial < industrial (paper industrial **70**; teach CPCB day industrial **75 dB** in notes). **Trap:** Reversing silence vs residential or using one dB for all zones.
-
-</details>
-
-**Logic:** Fly ash is a primary pollutant from coal thermal power plants — usable in bricks/cement.
-
-**Q9. UPPCS Prelims 2021, Q143**
-
-Flyash pollution is caused by
-
-A. Oil refining
-B. Fertilizer industry
-C. Thermal power plant
-D. Mining
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Thermal power plants** emit fly ash (SiO₂/Al₂O₃/CaO plus toxic metals). **Trap:** Calling fly ash a secondary pollutant like smog.
-
-</details>
-
-**Logic:** Smog is a secondary pollutant; classical smog links to oxides of nitrogen and sulphur.
-
-**Q10. UPPCS Prelims 2019, Q136 / 2018, Q121**
-
-With reference to smog, consider the following:
-
-1. Smog is essentially caused by oxides of nitrogen and sulphur in the atmosphere.
-2. Among CO, CO₂, and fly ash, smog is the secondary pollutant.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statement 1 matches **2019 Q136** (oxides of N and S); statement 2 matches **2018 Q121** (smog secondary; fly ash/CO primary). **Trap:** Treating fly ash or stack SO₂ alone as “smog” without atmospheric formation.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -1239,46 +1239,3 @@ D. Neither 1 nor 2
 | Industrial noise day = 55 dB | **75 dB** (CPCB day) |
 | Green muffler = soil fix | **Noise** (tree belts) |
 | Bhopal gas = CO/SO₂ | **MIC**, Dec **1984** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | 892 |
-| **Teaching blocks** | §38.1–38.21 (full advanced syllabus set) |
-| **Practice Zone** | 30 + Extra Drill Q31–Q40 |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 22 |
-| **Inline PYQs** | 2025 Q61/Q70, 2023 Q103/Q120, 2022 Q46/Q81/Q63/Q115, 2021 Q143, 2019/2018 smog set |
-
-### Syllabus coverage map
-
-| Block | Sections |
-|-------|----------|
-| Air Pollution | §38.1–38.9 |
-| Water Pollution | §38.10–38.13 |
-| Soil Pollution | §38.14–38.16 |
-| Noise Pollution | §38.17–38.18 |
-| Marine Pollution | §38.19–38.20 |
-| Plastic Pollution | §38.21 |
-
-### Topic boundaries
-
-- **Basics + waste laws (BMW/HW/E-waste/SWM)** — Topic 9
-- **Acid rain depth** — Topic 39
-- **GHG gas chemistry** — Topic 37
-- **Ozone smog vs stratospheric ozone** — Topics 36–37
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 lichens / CGWB | §38.2 / §38.11 |
-| 2023 BOD / pesticide | §38.10 / §38.15 |
-| 2022 O₃ smog / Moradabad / arsenic / noise | §38.6 / §38.17 / §38.11 / §38.18 |
-| 2021 fly ash | §38.7 |
-| 2019/2018 smog | §38.5 |
-
-**File ready: YES**

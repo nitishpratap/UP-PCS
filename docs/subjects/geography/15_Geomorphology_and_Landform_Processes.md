@@ -600,6 +600,154 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 - **Stalactite** hangs from the **roof**; **stalagmite** grows from the **floor**; a pillar forms when they meet.
 - Classic world belt: Dinaric Karst. India cues: **Meghalaya** caves, Borra (AP), Belum (AP).
 
+---
+
+## Complete PYQ Bank — Geomorphology (2018–2025)
+
+**Instructions:** Answers under `<details>`.
+
+---
+
+**Q1. UPPCS Prelims 2024, Q31**
+Which one of the following drainage patterns is associated with folded structures?
+
+A. Radial
+
+B. Trellis
+
+C. Dendritic
+
+D. Rectangular
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2021, Q121**
+With reference to Mekong river, which of the following statement/s is/are correct?
+
+1. Mekong rises in Tibetan Plateau
+2. Mekong delta is situated in Southern Cambodia.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Delta = **Vietnam**. Full world-river table.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2019, Q85**
+'Moribund Delta' is a subdivision of which of the following Delta?
+
+A. Krishna-Godawari Delta
+
+B. Mahanadi Delta
+
+C. Bengal Delta
+
+D. Cauvery Delta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2019, Q11**
+With reference to the Himalayan range, which of the statements is/are correct?
+
+1. The sedimentary rocks of the greater Himalayas were fossil less.
+2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
+3. Remains of human civilization are found in outer or Shivalik Himalayas.
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3 are correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Greater Himalaya = fossil-poor sedimentary/crystalline; Lesser = marine fossils; Shiwalik = human remains.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2019, Q8**
+'Imphal Basin' surrounded by Manipur hills is fine example of
+
+A. Lacustrine plain
+
+B. Loess plain
+
+C. Glacial plain
+
+D. Alluvial plain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2018, Q33**
+At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
+
+A. Huang Ho
+
+B. Nile
+
+C. Danube
+
+D. Mississippi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Nile/Ganga = **arcuate**.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2019, Q9**
+Which of the following rivers is famous for its fault valley drainage?
+
+A. Chambal
+
+B. Damodar
+
+C. Gandak
+
+D. Ramaganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Damodar** is the keyed Indian **fault-valley** example. Chambal is ravine/gully country, not this tag. Narmada–Tapi are also rifts, but this paper’s options pick Damodar.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -1870,152 +2018,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — Stalactite hangs from the **ceiling**; stalagmite grows from the floor.
-</details>
-
----
-
-## Complete PYQ Bank — Geomorphology (2018–2025)
-
-**Instructions:** Answers under `<details>`.
-
----
-
-**Q1. UPPCS Prelims 2024, Q31**
-Which one of the following drainage patterns is associated with folded structures?
-
-A. Radial
-
-B. Trellis
-
-C. Dendritic
-
-D. Rectangular
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q2. UPPCS Prelims 2021, Q121**
-With reference to Mekong river, which of the following statement/s is/are correct?
-
-1. Mekong rises in Tibetan Plateau
-2. Mekong delta is situated in Southern Cambodia.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Delta = **Vietnam**. Full world-river table.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2019, Q85**
-'Moribund Delta' is a subdivision of which of the following Delta?
-
-A. Krishna-Godawari Delta
-
-B. Mahanadi Delta
-
-C. Bengal Delta
-
-D. Cauvery Delta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q4. UPPCS Prelims 2019, Q11**
-With reference to the Himalayan range, which of the statements is/are correct?
-
-1. The sedimentary rocks of the greater Himalayas were fossil less.
-2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
-3. Remains of human civilization are found in outer or Shivalik Himalayas.
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3 are correct
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Greater Himalaya = fossil-poor sedimentary/crystalline; Lesser = marine fossils; Shiwalik = human remains.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2019, Q8**
-'Imphal Basin' surrounded by Manipur hills is fine example of
-
-A. Lacustrine plain
-
-B. Loess plain
-
-C. Glacial plain
-
-D. Alluvial plain
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q6. UPPCS Prelims 2018, Q33**
-At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
-
-A. Huang Ho
-
-B. Nile
-
-C. Danube
-
-D. Mississippi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Nile/Ganga = **arcuate**.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2019, Q9**
-Which of the following rivers is famous for its fault valley drainage?
-
-A. Chambal
-
-B. Damodar
-
-C. Gandak
-
-D. Ramaganga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Damodar** is the keyed Indian **fault-valley** example. Chambal is ravine/gully country, not this tag. Narmada–Tapi are also rifts, but this paper’s options pick Damodar.
 </details>
 
 ---

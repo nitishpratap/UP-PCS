@@ -552,6 +552,517 @@ D. Kabini *(paper: Kabam in some OCR)*
 
 ---
 
+## Complete PYQ Bank
+
+> **Answers hidden** — click *Show answer* under each question to reveal.
+> **Coverage:** All 25 UPPCS Prelims drainage hits (2018–2025) mapped to this topic — grouped **2025 → 2018**.
+
+**Q1. UPPCS Prelims 2025, Q92**
+Which of the following pairs is/are NOT correctly matched?
+(Dam) — (River)
+
+1. Baglihar Dam — Chenab
+2. Pandoh Dam — Ravi
+3. Srisailam Dam — Tungabhadra
+
+Select the correct answer from the code given below:
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Pair (2) is wrong because **Pandoh Dam** is on the **Beas**, not the Ravi; pair (3) is wrong because **Srisailam** is on the **Krishna**, not the Tungabhadra. Baglihar–Chenab is correctly matched, so the NOT-matched pairs are 2 and 3.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q94**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): The Himalayas form the source of several large perennial rivers.
+Reason (R): The higher ranges of the Himalayas remain snow-covered throughout the year.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Both statements are true: the Himalayas do feed large perennial rivers, and year-round snow on the higher ranges supplies meltwater that keeps those headwaters flowing. Reason correctly explains Assertion.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q116**
+Which of the following rivers fall into the Arabian Sea?
+
+1. Periyar 2. Pennar 3. Palar
+
+Select the correct answer from the code given below:
+
+A. Only 1
+
+B. Only 3
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Among the three rivers, only **Periyar** drains west into the **Arabian Sea**. **Pennar** and **Palar** flow east into the **Bay of Bengal**, so “only 1” is correct.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q31**
+Which one of the following drainage patterns is associated with folded structures?
+
+A. Radial
+
+B. Trellis
+
+C. Dendritic
+
+D. Rectangular
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — On **folded** terrain with alternating hard and soft beds, tributaries form a **trellis** pattern. Dendritic is the trap for uniform lithology; radial suits domes; rectangular suits joint control.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2024, Q72**
+Which one of the following pairs is not correctly matched regarding peculiarities of Ramganga Project?
+
+A. Dam's length – 825.8 metres
+
+B. Hydropower generation capacity – 198 MW
+
+C. Location – Garhwal (Uttarakhand)
+
+D. Irrigated area – 6 lakh hectares
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Dam length (825.8 m), hydropower (198 MW), and Garhwal location are precise matches. **Irrigated area** is officially ~**5.75–5.90 lakh ha**; **6 lakh ha** is the least accurate pair. **A/B/C** are exact project specs.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2024, Q74**
+Match List-I with List-II:
+List-I: A. Devprayag B. Rudraprayag C. Karnaprayag D. Tehri
+List-II: 1. Alaknanda and Pindar 2. Alaknanda and Bhagirathi 3. Bhagirathi and Bhilangna 4. Alaknanda and Mandakini
+
+A. 4 1 2 3
+
+B. 2 3 1 4
+
+C. 4 1 3 2
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Match by confluence: **Devprayag** = Alaknanda + Bhagirathi (2); **Rudraprayag** = Alaknanda + Mandakini (4); **Karnaprayag** = Alaknanda + Pindar (1); **Tehri** = Bhagirathi + Bhilangana (3). Code **2 4 1 3**.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2023, Q49**
+Which one of the following pairs (Tributary — River) is not correctly matched?
+
+A. Manjra — Godavari
+
+B. Hemavathi — Kaveri
+
+C. Malaprabha — Krishna
+
+D. Pranhita — Mahanadi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **Pranhita** is formed by Wardha and Wainganga and joins the **Godavari**. Pairing it with Mahanadi is wrong; Manjra–Godavari, Hemavathi–Kaveri and Malaprabha–Krishna are correct.
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2023, Q50**
+Which one of the following places is the confluence of the rivers Alaknanda and Bhagirathi?
+
+A. Vishnu Prayag
+
+B. Karn Prayag
+
+C. Rudra Prayag
+
+D. Dev Prayag
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Alaknanda and Bhagirathi meet only at **Devprayag** to form the Ganga. Vishnu, Karn and Rudra Prayag are Alaknanda confluences with other tributaries.
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2023, Q53**
+Match the following rivers with their places of origin.
+(A) Yamuna — (1) Sihawa
+(B) Krishna — (2) Nashik
+(C) Godavari — (3) Mahabaleshwar
+(D) Mahanadi — (4) Yamunotri
+
+A. A-4, B-3, C-2, D-1
+
+B. A-1, B-2, C-3, D-4
+
+C. A-4, B-2, C-1, D-3
+
+D. A-4, B-2, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Correct pairing is Yamuna–Yamunotri (4), Krishna–Mahabaleshwar (3), Godavari–Nashik (2), Mahanadi–Sihawa (1). The usual trap is swapping Krishna and Godavari origins.
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2023, Q55**
+Which of the following statement(s) is/are correct?
+
+1. Ram Ganga River joins the Ganga at Kannauj.
+2. River Betwa joins the Yamuna near Prayagraj.
+
+Select the correct answer using the code given below.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Statement 1 is correct: Ramganga joins the Ganga near **Kannauj**. Statement 2 is wrong: Betwa joins the Yamuna at **Hamirpur**, upstream of Prayagraj, so only statement 1 is correct.
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2022, Q16**
+Which one of the following river basins is the largest in respect of area?
+
+A. Tapti
+
+B. Narmada
+
+C. Mahanadi
+
+D. Cauvery
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Among Tapti, Narmada, Mahanadi and Cauvery, **Mahanadi** has the largest basin area. Godavari is larger overall but is not among these options.
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2021, Q5**
+Which one of the following rivers is NOT part of Indian Ganga river basin?
+
+A. Punpun
+
+B. Ajoy
+
+C. Jalangi
+
+D. Jonk
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **Jonk** drains to the **Mahanadi** system, so it is not part of the Indian Ganga basin. Punpun, Ajoy and Jalangi belong to the Ganga system.
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2021, Q9**
+Which of the following is NOT correctly matched?
+
+A. Hundru — Subarnarekha
+
+B. Chachai — Bihad River
+
+C. Dhuandhar — Narmada
+
+D. Budha Ghagh — Kanchi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The mismatched pair is Chachai–Bihad: **Chachai Falls** are associated with the **Son/Bhadar** system, not a river called Bihad. Hundru–Subarnarekha and Dhuandhar–Narmada are correctly matched.
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2021, Q63**
+Assertion (A): Teesta river was earlier a tributary of Ganga now it is a tributary of Brahmaputra.
+Reason (R): River capturing is a major feature of Himalayan rivers.
+
+A. Both (A) and (R) are true and (R) is correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Assertion is true: Teesta shifted from the Ganga system to the Brahmaputra. Reason is also true: river capture is common in the Himalaya, and that process explains the Teesta shift.
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2020, Q52**
+Which of the following rivers is a Trans-Himalayan river?
+
+A. Jhelum
+
+B. Sutlej
+
+C. Ganga
+
+D. Ravi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Sutlej** rises in the Tibet/Mansarovar region and is Trans-Himalayan. Jhelum and Ravi rise in the Himalaya of Kashmir/Himachal; Ganga is formed at Devprayag south of the main crest.
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2020, Q68**
+Consider the following tributaries of River Yamuna and arrange them from West to East:
+
+1. Betwa 2. Ken 3. Sindh 4. Chambal
+
+A. 4, 3, 1 and 2
+
+B. 1, 2, 3 and 4
+
+C. 3, 2, 1 and 4
+
+D. 2, 3, 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Geographic west→east is Chambal → Sindh → Betwa → Ken, which with paper numbering is **4, 3, 1 and 2**. The archived `pyq/2020` OCR omitted the numbered list; restored from the standard paper wording (Testbook / official pattern).
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2020, Chambal Sanctuary Q**
+The National Chambal Sanctuary does NOT fall in which of the following States?
+
+A. Uttar Pradesh
+
+B. Madhya Pradesh
+
+C. Haryana
+
+D. Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — National Chambal Sanctuary extends through **Uttar Pradesh, Madhya Pradesh and Rajasthan**. It does **not** fall in **Haryana**.
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2019, Q9**
+Which of the following rivers is famous for its fault valley drainage?
+
+A. Chambal
+
+B. Damodar
+
+C. Gandak
+
+D. Ramaganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Damodar** is the standard Indian example of **fault-valley (rift) drainage**. Chambal is famous for ravines/gorges but is not the usual keyed answer for this wording.
+</details>
+
+---
+
+**Q19. UPPCS Prelims 2019, Q84**
+In which of the following rivers, the upper course contains fresh water but saline water flowing at the lower part?
+
+A. Barak
+
+B. Luni
+
+C. Ghaggar
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Luni** is an inland river ending toward the Rann; its upper course is fresher while the lower course becomes **saline**. Barak reaches the sea; Ghaggar is inland but Luni is the textbook keyed example.
+</details>
+
+---
+
+**Q20. UPPCS Prelims 2019, Q85**
+'Moribund Delta' is a subdivision of which of the following Delta?
+
+A. Krishna-Godawari Delta
+
+B. Mahanadi Delta
+
+C. Bengal Delta
+
+D. Cauvery Delta
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Word **subdivision** points to Bengal’s moribund–mature–active classification, not to naming Cauvery as an ageing delta.
+
+**Ans: C** — Moribund is a subdivision of the **Bengal Delta**. Cauvery is the common trap option.
+</details>
+
+---
+
+**Q21. UPPCS Prelims 2018, Q33**
+At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
+
+A. Huang Ho
+
+B. Nile
+
+C. Danube
+
+D. Mississippi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — The classic world **bird's-foot** delta is at the mouth of the **Mississippi**. Nile is often arcuate; Huang Ho and Danube are not the standard bird's-foot example in this paper.
+</details>
+
+---
+
+**Q22. UPPCS Prelims 2018, Q99**
+Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution?
+
+A. Yamuna
+
+B. Gomati
+
+C. Sai
+
+D. Tamsa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — The UP river tagged as a **biological disaster** due to pollution in this question is the **Gomti (Gomati)**. Yamuna is polluted but was not the keyed answer here.
+</details>
+
+---
+
+**Q23. UPPCS Prelims 2018, Q102**
+Which of the following rivers of India does NOT originate from the Western Ghats?
+
+A. Godavari
+
+B. Tapti/Tapi
+
+C. Kaveri
+
+D. Kabam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Tapi/Tapti** rises at **Multai on the Satpura range**, so it does **not** originate from the Western Ghats. Godavari, Kaveri and Kabini/Kabam are Western Ghats–linked.
+</details>
+
+---
+
+**Q24. UPPCS Prelims 2018, Q24** *(River–waterfall overlap; drainage relevance)*
+Which of the following is the highest waterfall in India?
+
+A. Jog fall
+
+B. Kunchikal fall
+
+C. Rakim Kund fall
+
+D. Kevti fall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Kunchikal (Shimoga, Sharavathi tributary). Brief cross-link to (Waterfalls).
+</details>
+
+---
+
+**Q25. UPPCS Prelims 2022, Q121** *(Drainage–pollution overlap)*
+The main purpose of the **'Ganga Action Plan'** project, launched in 1985, was—
+
+A. To make its water pollution-free only
+
+B. To utilize the river water for irrigation only
+
+C. To build new dams over the Ganga river valley
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Primary stated purpose was pollution abatement / making Ganga water pollution-free. Irrigation and dam-building were not the main GAP objective. Links to §3.1.9 and Namami Gange successor.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
@@ -1768,517 +2279,6 @@ D. 3, 1, 4, 2
 **Logic:** Length ranking — Godavari > Krishna > Narmada > Mahanadi.
 
 **Ans: C** — Godavari (~1465) → Krishna (~1400) → Narmada (~1312) → Mahanadi (~851). Trap: putting Narmada first because it is the longest west-flowing river.
-</details>
-
----
-
-## Complete PYQ Bank
-
-> **Answers hidden** — click *Show answer* under each question to reveal.
-> **Coverage:** All 25 UPPCS Prelims drainage hits (2018–2025) mapped to this topic — grouped **2025 → 2018**.
-
-**Q1. UPPCS Prelims 2025, Q92**
-Which of the following pairs is/are NOT correctly matched?
-(Dam) — (River)
-
-1. Baglihar Dam — Chenab
-2. Pandoh Dam — Ravi
-3. Srisailam Dam — Tungabhadra
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Pair (2) is wrong because **Pandoh Dam** is on the **Beas**, not the Ravi; pair (3) is wrong because **Srisailam** is on the **Krishna**, not the Tungabhadra. Baglihar–Chenab is correctly matched, so the NOT-matched pairs are 2 and 3.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q94**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-Assertion (A): The Himalayas form the source of several large perennial rivers.
-Reason (R): The higher ranges of the Himalayas remain snow-covered throughout the year.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Both statements are true: the Himalayas do feed large perennial rivers, and year-round snow on the higher ranges supplies meltwater that keeps those headwaters flowing. Reason correctly explains Assertion.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q116**
-Which of the following rivers fall into the Arabian Sea?
-
-1. Periyar 2. Pennar 3. Palar
-
-Select the correct answer from the code given below:
-
-A. Only 1
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Among the three rivers, only **Periyar** drains west into the **Arabian Sea**. **Pennar** and **Palar** flow east into the **Bay of Bengal**, so “only 1” is correct.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q31**
-Which one of the following drainage patterns is associated with folded structures?
-
-A. Radial
-
-B. Trellis
-
-C. Dendritic
-
-D. Rectangular
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — On **folded** terrain with alternating hard and soft beds, tributaries form a **trellis** pattern. Dendritic is the trap for uniform lithology; radial suits domes; rectangular suits joint control.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2024, Q72**
-Which one of the following pairs is not correctly matched regarding peculiarities of Ramganga Project?
-
-A. Dam's length – 825.8 metres
-
-B. Hydropower generation capacity – 198 MW
-
-C. Location – Garhwal (Uttarakhand)
-
-D. Irrigated area – 6 lakh hectares
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Dam length (825.8 m), hydropower (198 MW), and Garhwal location are precise matches. **Irrigated area** is officially ~**5.75–5.90 lakh ha**; **6 lakh ha** is the least accurate pair. **A/B/C** are exact project specs.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2024, Q74**
-Match List-I with List-II:
-List-I: A. Devprayag B. Rudraprayag C. Karnaprayag D. Tehri
-List-II: 1. Alaknanda and Pindar 2. Alaknanda and Bhagirathi 3. Bhagirathi and Bhilangna 4. Alaknanda and Mandakini
-
-A. 4 1 2 3
-
-B. 2 3 1 4
-
-C. 4 1 3 2
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Match by confluence: **Devprayag** = Alaknanda + Bhagirathi (2); **Rudraprayag** = Alaknanda + Mandakini (4); **Karnaprayag** = Alaknanda + Pindar (1); **Tehri** = Bhagirathi + Bhilangana (3). Code **2 4 1 3**.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2023, Q49**
-Which one of the following pairs (Tributary — River) is not correctly matched?
-
-A. Manjra — Godavari
-
-B. Hemavathi — Kaveri
-
-C. Malaprabha — Krishna
-
-D. Pranhita — Mahanadi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — **Pranhita** is formed by Wardha and Wainganga and joins the **Godavari**. Pairing it with Mahanadi is wrong; Manjra–Godavari, Hemavathi–Kaveri and Malaprabha–Krishna are correct.
-</details>
-
----
-
-**Q8. UPPCS Prelims 2023, Q50**
-Which one of the following places is the confluence of the rivers Alaknanda and Bhagirathi?
-
-A. Vishnu Prayag
-
-B. Karn Prayag
-
-C. Rudra Prayag
-
-D. Dev Prayag
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Alaknanda and Bhagirathi meet only at **Devprayag** to form the Ganga. Vishnu, Karn and Rudra Prayag are Alaknanda confluences with other tributaries.
-</details>
-
----
-
-**Q9. UPPCS Prelims 2023, Q53**
-Match the following rivers with their places of origin.
-(A) Yamuna — (1) Sihawa
-(B) Krishna — (2) Nashik
-(C) Godavari — (3) Mahabaleshwar
-(D) Mahanadi — (4) Yamunotri
-
-A. A-4, B-3, C-2, D-1
-
-B. A-1, B-2, C-3, D-4
-
-C. A-4, B-2, C-1, D-3
-
-D. A-4, B-2, C-3, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Correct pairing is Yamuna–Yamunotri (4), Krishna–Mahabaleshwar (3), Godavari–Nashik (2), Mahanadi–Sihawa (1). The usual trap is swapping Krishna and Godavari origins.
-</details>
-
----
-
-**Q10. UPPCS Prelims 2023, Q55**
-Which of the following statement(s) is/are correct?
-
-1. Ram Ganga River joins the Ganga at Kannauj.
-2. River Betwa joins the Yamuna near Prayagraj.
-
-Select the correct answer using the code given below.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Statement 1 is correct: Ramganga joins the Ganga near **Kannauj**. Statement 2 is wrong: Betwa joins the Yamuna at **Hamirpur**, upstream of Prayagraj, so only statement 1 is correct.
-</details>
-
----
-
-**Q11. UPPCS Prelims 2022, Q16**
-Which one of the following river basins is the largest in respect of area?
-
-A. Tapti
-
-B. Narmada
-
-C. Mahanadi
-
-D. Cauvery
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Among Tapti, Narmada, Mahanadi and Cauvery, **Mahanadi** has the largest basin area. Godavari is larger overall but is not among these options.
-</details>
-
----
-
-**Q12. UPPCS Prelims 2021, Q5**
-Which one of the following rivers is NOT part of Indian Ganga river basin?
-
-A. Punpun
-
-B. Ajoy
-
-C. Jalangi
-
-D. Jonk
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — **Jonk** drains to the **Mahanadi** system, so it is not part of the Indian Ganga basin. Punpun, Ajoy and Jalangi belong to the Ganga system.
-</details>
-
----
-
-**Q13. UPPCS Prelims 2021, Q9**
-Which of the following is NOT correctly matched?
-
-A. Hundru — Subarnarekha
-
-B. Chachai — Bihad River
-
-C. Dhuandhar — Narmada
-
-D. Budha Ghagh — Kanchi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The mismatched pair is Chachai–Bihad: **Chachai Falls** are associated with the **Son/Bhadar** system, not a river called Bihad. Hundru–Subarnarekha and Dhuandhar–Narmada are correctly matched.
-</details>
-
----
-
-**Q14. UPPCS Prelims 2021, Q63**
-Assertion (A): Teesta river was earlier a tributary of Ganga now it is a tributary of Brahmaputra.
-Reason (R): River capturing is a major feature of Himalayan rivers.
-
-A. Both (A) and (R) are true and (R) is correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Assertion is true: Teesta shifted from the Ganga system to the Brahmaputra. Reason is also true: river capture is common in the Himalaya, and that process explains the Teesta shift.
-</details>
-
----
-
-**Q15. UPPCS Prelims 2020, Q52**
-Which of the following rivers is a Trans-Himalayan river?
-
-A. Jhelum
-
-B. Sutlej
-
-C. Ganga
-
-D. Ravi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Sutlej** rises in the Tibet/Mansarovar region and is Trans-Himalayan. Jhelum and Ravi rise in the Himalaya of Kashmir/Himachal; Ganga is formed at Devprayag south of the main crest.
-</details>
-
----
-
-**Q16. UPPCS Prelims 2020, Q68**
-Consider the following tributaries of River Yamuna and arrange them from West to East:
-
-1. Betwa 2. Ken 3. Sindh 4. Chambal
-
-A. 4, 3, 1 and 2
-
-B. 1, 2, 3 and 4
-
-C. 3, 2, 1 and 4
-
-D. 2, 3, 1 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Geographic west→east is Chambal → Sindh → Betwa → Ken, which with paper numbering is **4, 3, 1 and 2**. The archived `pyq/2020` OCR omitted the numbered list; restored from the standard paper wording (Testbook / official pattern).
-</details>
-
----
-
-**Q17. UPPCS Prelims 2020, Chambal Sanctuary Q**
-The National Chambal Sanctuary does NOT fall in which of the following States?
-
-A. Uttar Pradesh
-
-B. Madhya Pradesh
-
-C. Haryana
-
-D. Rajasthan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — National Chambal Sanctuary extends through **Uttar Pradesh, Madhya Pradesh and Rajasthan**. It does **not** fall in **Haryana**.
-</details>
-
----
-
-**Q18. UPPCS Prelims 2019, Q9**
-Which of the following rivers is famous for its fault valley drainage?
-
-A. Chambal
-
-B. Damodar
-
-C. Gandak
-
-D. Ramaganga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Damodar** is the standard Indian example of **fault-valley (rift) drainage**. Chambal is famous for ravines/gorges but is not the usual keyed answer for this wording.
-</details>
-
----
-
-**Q19. UPPCS Prelims 2019, Q84**
-In which of the following rivers, the upper course contains fresh water but saline water flowing at the lower part?
-
-A. Barak
-
-B. Luni
-
-C. Ghaggar
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Luni** is an inland river ending toward the Rann; its upper course is fresher while the lower course becomes **saline**. Barak reaches the sea; Ghaggar is inland but Luni is the textbook keyed example.
-</details>
-
----
-
-**Q20. UPPCS Prelims 2019, Q85**
-'Moribund Delta' is a subdivision of which of the following Delta?
-
-A. Krishna-Godawari Delta
-
-B. Mahanadi Delta
-
-C. Bengal Delta
-
-D. Cauvery Delta
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Word **subdivision** points to Bengal’s moribund–mature–active classification, not to naming Cauvery as an ageing delta.
-
-**Ans: C** — Moribund is a subdivision of the **Bengal Delta**. Cauvery is the common trap option.
-</details>
-
----
-
-**Q21. UPPCS Prelims 2018, Q33**
-At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
-
-A. Huang Ho
-
-B. Nile
-
-C. Danube
-
-D. Mississippi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — The classic world **bird's-foot** delta is at the mouth of the **Mississippi**. Nile is often arcuate; Huang Ho and Danube are not the standard bird's-foot example in this paper.
-</details>
-
----
-
-**Q22. UPPCS Prelims 2018, Q99**
-Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution?
-
-A. Yamuna
-
-B. Gomati
-
-C. Sai
-
-D. Tamsa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The UP river tagged as a **biological disaster** due to pollution in this question is the **Gomti (Gomati)**. Yamuna is polluted but was not the keyed answer here.
-</details>
-
----
-
-**Q23. UPPCS Prelims 2018, Q102**
-Which of the following rivers of India does NOT originate from the Western Ghats?
-
-A. Godavari
-
-B. Tapti/Tapi
-
-C. Kaveri
-
-D. Kabam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Tapi/Tapti** rises at **Multai on the Satpura range**, so it does **not** originate from the Western Ghats. Godavari, Kaveri and Kabini/Kabam are Western Ghats–linked.
-</details>
-
----
-
-**Q24. UPPCS Prelims 2018, Q24** *(River–waterfall overlap; drainage relevance)*
-Which of the following is the highest waterfall in India?
-
-A. Jog fall
-
-B. Kunchikal fall
-
-C. Rakim Kund fall
-
-D. Kevti fall
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kunchikal (Shimoga, Sharavathi tributary). Brief cross-link to (Waterfalls).
-</details>
-
----
-
-**Q25. UPPCS Prelims 2022, Q121** *(Drainage–pollution overlap)*
-The main purpose of the **'Ganga Action Plan'** project, launched in 1985, was—
-
-A. To make its water pollution-free only
-
-B. To utilize the river water for irrigation only
-
-C. To build new dams over the Ganga river valley
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Primary stated purpose was pollution abatement / making Ganga water pollution-free. Irrigation and dam-building were not the main GAP objective. Links to §3.1.9 and Namami Gange successor.
 </details>
 
 ---

@@ -708,6 +708,298 @@ D. National Commission for Backward Classes — Article 340
 
 ---
 
+## Complete PYQ Bank (Topic 12)
+
+### 2025
+
+**Q0. UPPCS Prelims 2025, Q64**
+Match List-I (Finance Commission) with List-II (Chairman):
+A. Eleventh
+B. Twelfth
+C. Thirteenth
+D. Fourteenth
+1. C. Rangarajan
+2. Y.V. Reddy
+3. A.M. Khusro
+4. Vijay L. Kelkar
+A. A-3, B-1, C-4, D-2
+B. A-2, B-3, C-4, D-1
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Khusro, Rangarajan, Kelkar, Y.V. Reddy.
+
+</details>
+
+### 2024
+
+**Q1. UPPCS Prelims 2024, Q24**
+Which of the following are the functions of the Election Commission of India?
+1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
+2. Conduct of elections of the Municipal Corporations and Municipalities.
+3. Deciding on all doubts and disputes arising out of the above elections.
+A. 2 and 3
+B. 1 and 2
+C. 1 and 3
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — None.**
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q102**
+Match List-I with List-II:
+A. Consolidated Fund of India
+B. Finance Commission
+C. Financial Emergency
+D. CAG
+1. Art. 266
+2. Art. 360
+3. Art. 280
+4. Art. 148
+A. A-3, B-1, C-2, D-4
+B. A-4, B-1, C-3, D-2
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 266, 280, 360, 148.
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q124**
+The UPSC derives its functions from which of the following sources?
+1. The Constitution
+2. Parliamentary Laws
+3. Executive Rules and Orders
+4. Conventions
+A. 1 and 2
+B. 1 and 3
+C. Only 1
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q125**
+Which one of the following is correctly matched?
+A. Election Commission — Article 165
+B. National Commission for Scheduled Castes — Article 148
+C. Finance Commission — Article 263
+D. National Commission for Backward Classes — Article 340
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** (among those options). Standing NCBC = **338B**; **340** = investigating commission. 165 = AdvG. 148 = CAG. FC = **280**.
+
+</details>
+
+**Q5. UPPCS Prelims 2024, Q142**
+Consider the following statements with reference to Special Officer for Linguistic Minorities:
+1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State.
+2. A new Article 350B was added for this by the 9th Constitution Amendment Act.
+A. Only 2
+B. Neither 1 nor 2
+C. Only 1
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### 2023
+
+**Q6. UPPCS Prelims 2023, Q2**
+Match List-I with List-II:
+A. Art. 324
+B. Art. 315
+C. Art. 280
+D. Art. 338
+1. NCSC
+2. Finance Commission
+3. Public Service Commission
+4. Election Commission
+A. A-3, B-2, C-4, D-1
+B. A-4, B-3, C-2, D-1
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q7. UPPCS Prelims 2023, Q10**
+With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
+1. Finance Commission has a Chairman and six members.
+2. It submits its report to the NITI Aayog.
+A. Only 2
+B. Both 1 and 2
+C. Only 1
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q8. UPPCS Prelims 2023, Q12**
+With reference to the Attorney General of India, which of the following statement(s) is/are correct?
+1. A person is appointed as Attorney General who is qualified to be appointed as a Judge of the Supreme Court.
+2. The Attorney General can be removed through the same process as the Judges of the Supreme Court.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### 2022
+
+**Q9. UPPCS Prelims 2022, Q55**
+The audit report of the Comptroller and Auditor General of India is examined by—
+A. Public Accounts Committee
+B. Public Undertakings Committee
+C. Estimates Committee
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### 2021
+
+**Q10. UPPCS Prelims 2021, Q61 / Q68 / Q88**
+FC primary duty = tax distribution · First Chair = **K.C. Neogy** · President does **not** fix qualifications (Parliament does); President **does** appoint.
+
+<details>
+<summary>Show answer</summary>
+
+Facts as above.
+
+</details>
+
+**Q11. UPPCS Prelims 2021, Q91**
+1. Sukumar Sen was the first CEC.
+2. Rama Devi was the first woman CEC.
+
+<details>
+<summary>Show answer</summary>
+
+**Both true** (V.S. **Ramadevi**, 1990). Options garbled in some dumps.
+
+</details>
+
+**Q12. UPPCS Prelims 2021, Q133**
+The functions of the State Public Service Commission of Uttar Pradesh can be extended by
+A. Prime Minister
+B. Union Ministry of Personnel
+C. The President
+D. Uttar Pradesh State Legislature
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2020
+
+**Q13. UPPCS Prelims 2020, Q100**
+The superintendence, direction and control of all elections to the Panchayats are vested in
+A. The Governor
+B. The Election Commission of India
+C. The District Panchayat Raj Officer
+D. The State Election Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q14. UPPCS Prelims 2020, Q110**
+Which one of the following is NOT correctly matched?
+A. Fundamental Duties — Part IVA
+B. The States — Part VI
+C. Attorney General of India — Part XIII
+D. Services under the Union and States — Part XIV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### 2019–2018
+
+**Q15. UPPCS Prelims 2019, Q140**
+Nodal institution for SDGs in India — **NITI Aayog**, not Finance Commission.
+
+**Q16. UPPCS Prelims 2018, Q69**
+Extra-constitutional agency — **NITI Aayog** (not UPSC / FC / ECI).
+
+**Q17. UPPCS Prelims 2023, Q1**
+Which among the following (Provision — Part) is **not** correctly matched?
+A. Union Territories — Part VIII
+B. Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
+D. Official Language — Part XVII
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tribunals = **XIVA**. Official Language = **XVII**.
+
+</details>
+
+**Q18. UPPCS Prelims 2023, Q8**
+The Constitution of India initially permitted the use of English language for all official purposes for a period of—
+A. 5 years
+B. 10 years
+C. 15 years
+D. 20 years
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 15 years.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **82 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement. Q1–Q52 = core bodies; Q53–Q82 = commissions / classification.
@@ -2052,298 +2344,6 @@ D. All Eighth Schedule languages equally
 <summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 12)
-
-### 2025
-
-**Q0. UPPCS Prelims 2025, Q64**
-Match List-I (Finance Commission) with List-II (Chairman):
-A. Eleventh
-B. Twelfth
-C. Thirteenth
-D. Fourteenth
-1. C. Rangarajan
-2. Y.V. Reddy
-3. A.M. Khusro
-4. Vijay L. Kelkar
-A. A-3, B-1, C-4, D-2
-B. A-2, B-3, C-4, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Khusro, Rangarajan, Kelkar, Y.V. Reddy.
-
-</details>
-
-### 2024
-
-**Q1. UPPCS Prelims 2024, Q24**
-Which of the following are the functions of the Election Commission of India?
-1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
-2. Conduct of elections of the Municipal Corporations and Municipalities.
-3. Deciding on all doubts and disputes arising out of the above elections.
-A. 2 and 3
-B. 1 and 2
-C. 1 and 3
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — None.**
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q102**
-Match List-I with List-II:
-A. Consolidated Fund of India
-B. Finance Commission
-C. Financial Emergency
-D. CAG
-1. Art. 266
-2. Art. 360
-3. Art. 280
-4. Art. 148
-A. A-3, B-1, C-2, D-4
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 266, 280, 360, 148.
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q124**
-The UPSC derives its functions from which of the following sources?
-1. The Constitution
-2. Parliamentary Laws
-3. Executive Rules and Orders
-4. Conventions
-A. 1 and 2
-B. 1 and 3
-C. Only 1
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q125**
-Which one of the following is correctly matched?
-A. Election Commission — Article 165
-B. National Commission for Scheduled Castes — Article 148
-C. Finance Commission — Article 263
-D. National Commission for Backward Classes — Article 340
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** (among those options). Standing NCBC = **338B**; **340** = investigating commission. 165 = AdvG. 148 = CAG. FC = **280**.
-
-</details>
-
-**Q5. UPPCS Prelims 2024, Q142**
-Consider the following statements with reference to Special Officer for Linguistic Minorities:
-1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State.
-2. A new Article 350B was added for this by the 9th Constitution Amendment Act.
-A. Only 2
-B. Neither 1 nor 2
-C. Only 1
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### 2023
-
-**Q6. UPPCS Prelims 2023, Q2**
-Match List-I with List-II:
-A. Art. 324
-B. Art. 315
-C. Art. 280
-D. Art. 338
-1. NCSC
-2. Finance Commission
-3. Public Service Commission
-4. Election Commission
-A. A-3, B-2, C-4, D-1
-B. A-4, B-3, C-2, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7. UPPCS Prelims 2023, Q10**
-With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
-1. Finance Commission has a Chairman and six members.
-2. It submits its report to the NITI Aayog.
-A. Only 2
-B. Both 1 and 2
-C. Only 1
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q8. UPPCS Prelims 2023, Q12**
-With reference to the Attorney General of India, which of the following statement(s) is/are correct?
-1. A person is appointed as Attorney General who is qualified to be appointed as a Judge of the Supreme Court.
-2. The Attorney General can be removed through the same process as the Judges of the Supreme Court.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### 2022
-
-**Q9. UPPCS Prelims 2022, Q55**
-The audit report of the Comptroller and Auditor General of India is examined by—
-A. Public Accounts Committee
-B. Public Undertakings Committee
-C. Estimates Committee
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### 2021
-
-**Q10. UPPCS Prelims 2021, Q61 / Q68 / Q88**
-FC primary duty = tax distribution · First Chair = **K.C. Neogy** · President does **not** fix qualifications (Parliament does); President **does** appoint.
-
-<details>
-<summary>Show answer</summary>
-
-Facts as above.
-
-</details>
-
-**Q11. UPPCS Prelims 2021, Q91**
-1. Sukumar Sen was the first CEC.
-2. Rama Devi was the first woman CEC.
-
-<details>
-<summary>Show answer</summary>
-
-**Both true** (V.S. **Ramadevi**, 1990). Options garbled in some dumps.
-
-</details>
-
-**Q12. UPPCS Prelims 2021, Q133**
-The functions of the State Public Service Commission of Uttar Pradesh can be extended by
-A. Prime Minister
-B. Union Ministry of Personnel
-C. The President
-D. Uttar Pradesh State Legislature
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2020
-
-**Q13. UPPCS Prelims 2020, Q100**
-The superintendence, direction and control of all elections to the Panchayats are vested in
-A. The Governor
-B. The Election Commission of India
-C. The District Panchayat Raj Officer
-D. The State Election Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q14. UPPCS Prelims 2020, Q110**
-Which one of the following is NOT correctly matched?
-A. Fundamental Duties — Part IVA
-B. The States — Part VI
-C. Attorney General of India — Part XIII
-D. Services under the Union and States — Part XIV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### 2019–2018
-
-**Q15. UPPCS Prelims 2019, Q140**
-Nodal institution for SDGs in India — **NITI Aayog**, not Finance Commission.
-
-**Q16. UPPCS Prelims 2018, Q69**
-Extra-constitutional agency — **NITI Aayog** (not UPSC / FC / ECI).
-
-**Q17. UPPCS Prelims 2023, Q1**
-Which among the following (Provision — Part) is **not** correctly matched?
-A. Union Territories — Part VIII
-B. Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Tribunals = **XIVA**. Official Language = **XVII**.
-
-</details>
-
-**Q18. UPPCS Prelims 2023, Q8**
-The Constitution of India initially permitted the use of English language for all official purposes for a period of—
-A. 5 years
-B. 10 years
-C. 15 years
-D. 20 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 15 years.**
 
 </details>
 

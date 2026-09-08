@@ -342,6 +342,164 @@ D. III, IV
 
 ---
 
+## Complete PYQ Bank (Topic 15)
+
+**Q1. UPPCS Prelims 2025, Q87**
+
+Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
+
+1. Mandi
+2. Rakhigarhi
+3. Hulas
+
+Select the correct answer from the code given below:
+
+A. 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 1 and 3.** Mandi and Hulas = UP. Rakhigarhi = Haryana.
+
+</details>
+
+**Q2. UPPCS Prelims 2023, Q27**
+
+Match List-I with List-II and choose the correct answer using the code given below.
+
+**List-I (Archaeological Site)**
+A. Nevasa
+B. Isampur
+C. Didwana
+D. Gudiyam Cave
+
+**List-II (Present Location)**
+1. Rajasthan
+2. Tamil Nadu
+3. Maharashtra
+4. Karnataka
+
+A. A-(3), B-(4), C-(1), D-(2)
+B. A-(4), B-(3), C-(1), D-(2)
+C. A-(3), B-(4), C-(2), D-(1)
+D. A-(3), B-(2), C-(4), D-(1)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q3. UPPCS Prelims 2023, Q28**
+
+The eastern boundary of the Harappan culture is indicated by which of the following?
+
+A. Harappa
+B. Alamgirpur
+C. Rakhigarhi
+D. Manda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Alamgirpur.**
+
+</details>
+
+**Q4. UPPCS Prelims 2022, Q68**
+
+From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
+
+A. Dholavira and Bhagatrav
+B. Harappa and Kot Diji
+C. Mohenjo-daro and Lothal
+D. Kalibangan and Ropar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Mohenjo-daro and Lothal.**
+
+</details>
+
+**Q5. UPPCS Prelims 2021, Q100**
+
+In which State of India is the Harappan Civilization site Mandi situated?
+
+A. Gujarat
+B. Haryana
+C. Rajasthan
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Uttar Pradesh.**
+
+</details>
+
+**Q6. UPPCS Prelims 2020, Q12**
+
+Match List-I with List-II and answer using the codes given below the lists:
+
+**List-I (Harappan Site)List-II (UT/State of India)**
+A. Balu 1. Uttar Pradesh
+B. Manda 2. Jammu & Kashmir
+C. Padri 3. Haryana
+D. Hulas 4. Gujarat
+
+A. 3 2 1 4
+B. 2 3 4 1
+C. 2 4 3 1
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Balu–Haryana, Manda–J&K, Padri–Gujarat, Hulas–UP.
+
+</details>
+
+**Q7. UPPCS Prelims 2020, Q10**
+
+Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
+
+A. Madho Swaroop Vatsa
+B. H. D. Sankalia
+C. V. S. Wakankar
+D. V. N. Mishra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — V. S. Wakankar.**
+
+</details>
+
+**Q8. UPPCS Prelims 2018, Q88**
+
+Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
+
+I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
+
+A. I, II, III, IV
+B. I, II
+C. II, III
+D. III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — III and IV.** Alamgirpur and Hulas. Kalibangan = Rajasthan. Lothal = Gujarat.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **32 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -940,164 +1098,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: D.**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 15)
-
-**Q1. UPPCS Prelims 2025, Q87**
-
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. Only 3
-C. 1 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 1 and 3.** Mandi and Hulas = UP. Rakhigarhi = Haryana.
-
-</details>
-
-**Q2. UPPCS Prelims 2023, Q27**
-
-Match List-I with List-II and choose the correct answer using the code given below.
-
-**List-I (Archaeological Site)**
-A. Nevasa
-B. Isampur
-C. Didwana
-D. Gudiyam Cave
-
-**List-II (Present Location)**
-1. Rajasthan
-2. Tamil Nadu
-3. Maharashtra
-4. Karnataka
-
-A. A-(3), B-(4), C-(1), D-(2)
-B. A-(4), B-(3), C-(1), D-(2)
-C. A-(3), B-(4), C-(2), D-(1)
-D. A-(3), B-(2), C-(4), D-(1)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3. UPPCS Prelims 2023, Q28**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa
-B. Alamgirpur
-C. Rakhigarhi
-D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Alamgirpur.**
-
-</details>
-
-**Q4. UPPCS Prelims 2022, Q68**
-
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Mohenjo-daro and Lothal.**
-
-</details>
-
-**Q5. UPPCS Prelims 2021, Q100**
-
-In which State of India is the Harappan Civilization site Mandi situated?
-
-A. Gujarat
-B. Haryana
-C. Rajasthan
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Uttar Pradesh.**
-
-</details>
-
-**Q6. UPPCS Prelims 2020, Q12**
-
-Match List-I with List-II and answer using the codes given below the lists:
-
-**List-I (Harappan Site)List-II (UT/State of India)**
-A. Balu 1. Uttar Pradesh
-B. Manda 2. Jammu & Kashmir
-C. Padri 3. Haryana
-D. Hulas 4. Gujarat
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 4 3 1
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Balu–Haryana, Manda–J&K, Padri–Gujarat, Hulas–UP.
-
-</details>
-
-**Q7. UPPCS Prelims 2020, Q10**
-
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H. D. Sankalia
-C. V. S. Wakankar
-D. V. N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — V. S. Wakankar.**
-
-</details>
-
-**Q8. UPPCS Prelims 2018, Q88**
-
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-
-I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
-
-A. I, II, III, IV
-B. I, II
-C. II, III
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — III and IV.** Alamgirpur and Hulas. Kalibangan = Rajasthan. Lothal = Gujarat.
 
 </details>
 

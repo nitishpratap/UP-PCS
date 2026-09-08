@@ -293,6 +293,135 @@ Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 
 ---
 
+## Complete PYQ Bank (Topic 6)
+
+
+**Q1. UPPCS Prelims 2018, Q90**
+
+Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
+Reason (R): The early Chishti sufis were fond of musical assemblies called ‘sama’.
+
+A. Both true; R explains A |
+
+B. Both true; R not explanation |
+
+C. A true; R false |
+
+D. A false; R true
+
+<details><summary>Show answer</summary>
+
+**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
+
+**R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
+
+**Why R does not explain A:** Persian translations served **broader court patronage**; **sama alone** did not cause all translations.
+
+</details>
+
+**Q2. UPPCS Prelims 2019, Q89**
+
+Who among the following kings had given patronage to Tansen before Akbar?
+
+A. Raja Ramchandra Singh of Bhata |
+
+B. Rajbahadur of Malwa |
+
+C. Uday Singh of Mewar |
+
+D. Muzaffar Shah of Gujarat
+
+<details><summary>Show answer</summary>
+
+**Ans: A** — **UPPCS 2019 Q89Why:Raja Ramchandra Singh of Bhata (Rewa)** patronised Tansen before Akbar's court.
+
+**Trap:** Mewar, Malwa, Gujarat are standard distractors.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2019, Q88 (music-literature overlap)**
+
+Match: A.Mulla Daud B.Damodar Kavi C.Somnath D.Amir Khusro with 1.Chandayan 2.Ashiqa 3.Padmavati Katha 4.Rag Vibodh
+
+Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
+
+<details><summary>Show answer</summary>
+
+**Ans: A (1-3-2-4)Facts:** Khusrau = Rag Vibodh (4) in this **literary** list.
+
+**Trap:** In music-treatise questions, Raga Vibodh = **Somanath**.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2021, Q22**
+
+Match: A.Ragamala B.Rasa Kaumudi C.Raga Vibodh D.Chaturdandi Prakashika with 1.Somanath 2.Venkatraman 3.Pundrik Vitthal 4.Sri Kantha
+
+Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
+
+<details><summary>Show answer</summary>
+
+**Ans: A (3-4-1-2)** — **UPPCS 2021 Q22Facts:** Ragamala–Pundrik (3) | Rasa Kaumudi–Sri Kantha (4) | Raga Vibodh–Somanath (1) | Chaturdandi–Venkatraman (2)
+
+**Trap:** Same code repeated in 2022 Q108.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2022, Q108**
+
+Match: A.Ragmala B.Rasakaumudi C.Ragvivodh D.Chaturdandi Prakashika with 1.Somnath 2.Venkatraman 3.Pundarik Vitthal 4.Srikantha
+
+Options: A.A-1 B-2 C-3 D-4 | B.A-2 B-4 C-3 D-1 | C.A-4 B-2 C-1 D-3 | D.A-3 B-4 C-1 D-2
+
+<details><summary>Show answer</summary>
+
+**Ans: D (3-4-1-2)** — **UPPCS 2022 Q108Facts:** Same as 2021 Q22 — Pundrik–Ragamala, Sri Kantha–Rasa Kaumudi, Somanath–Raga Vibodh, Venkatraman–Chaturdandi.
+
+**Trap:** Spelling variants — pairs unchanged.
+
+</details>
+
+
+**Q6. UPPCS Prelims 2023, Q38**
+
+The Tappa style of music was refined and developed in the court of which Mughal Emperor?
+
+A. Akbar |
+
+B. Jahangir |
+
+C. Shah Jahan |
+
+D. Muhammad Shah
+
+<details><summary>Show answer</summary>
+
+**Ans: D** — **UPPCS 2023 Q38Why:Tappa** refined at **Muhammad Shah Rangeela's** court.
+
+**Trap:** Akbar = dhrupad/Tansen era, not Tappa.
+
+</details>
+
+
+**Q7. UPPCS Prelims 2025, Q12 (overlap)**
+
+Amir Khusrau → Nizamuddin Auliya in disciple–guru match.
+
+<details><summary>Show answer</summary>
+
+**Ans: C (2-3-4-1)** — full match code.
+
+**Why:** Khusrau guru = **Nizamuddin Auliya** (code 3).
+
+**Trap:** Not Ramananda or Vallabhacharya.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **35 questions** · answers in `<details>`
@@ -924,135 +1053,6 @@ D. Qawwali — Venkatamakhin
 **Ans: BWhy:B** is the correct fact for this stem.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 6)
-
-
-**Q1. UPPCS Prelims 2018, Q90**
-
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
-Reason (R): The early Chishti sufis were fond of musical assemblies called ‘sama’.
-
-A. Both true; R explains A |
-
-B. Both true; R not explanation |
-
-C. A true; R false |
-
-D. A false; R true
-
-<details><summary>Show answer</summary>
-
-**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
-
-**R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
-
-**Why R does not explain A:** Persian translations served **broader court patronage**; **sama alone** did not cause all translations.
-
-</details>
-
-**Q2. UPPCS Prelims 2019, Q89**
-
-Who among the following kings had given patronage to Tansen before Akbar?
-
-A. Raja Ramchandra Singh of Bhata |
-
-B. Rajbahadur of Malwa |
-
-C. Uday Singh of Mewar |
-
-D. Muzaffar Shah of Gujarat
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — **UPPCS 2019 Q89Why:Raja Ramchandra Singh of Bhata (Rewa)** patronised Tansen before Akbar's court.
-
-**Trap:** Mewar, Malwa, Gujarat are standard distractors.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2019, Q88 (music-literature overlap)**
-
-Match: A.Mulla Daud B.Damodar Kavi C.Somnath D.Amir Khusro with 1.Chandayan 2.Ashiqa 3.Padmavati Katha 4.Rag Vibodh
-
-Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
-
-<details><summary>Show answer</summary>
-
-**Ans: A (1-3-2-4)Facts:** Khusrau = Rag Vibodh (4) in this **literary** list.
-
-**Trap:** In music-treatise questions, Raga Vibodh = **Somanath**.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2021, Q22**
-
-Match: A.Ragamala B.Rasa Kaumudi C.Raga Vibodh D.Chaturdandi Prakashika with 1.Somanath 2.Venkatraman 3.Pundrik Vitthal 4.Sri Kantha
-
-Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
-
-<details><summary>Show answer</summary>
-
-**Ans: A (3-4-1-2)** — **UPPCS 2021 Q22Facts:** Ragamala–Pundrik (3) | Rasa Kaumudi–Sri Kantha (4) | Raga Vibodh–Somanath (1) | Chaturdandi–Venkatraman (2)
-
-**Trap:** Same code repeated in 2022 Q108.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2022, Q108**
-
-Match: A.Ragmala B.Rasakaumudi C.Ragvivodh D.Chaturdandi Prakashika with 1.Somnath 2.Venkatraman 3.Pundarik Vitthal 4.Srikantha
-
-Options: A.A-1 B-2 C-3 D-4 | B.A-2 B-4 C-3 D-1 | C.A-4 B-2 C-1 D-3 | D.A-3 B-4 C-1 D-2
-
-<details><summary>Show answer</summary>
-
-**Ans: D (3-4-1-2)** — **UPPCS 2022 Q108Facts:** Same as 2021 Q22 — Pundrik–Ragamala, Sri Kantha–Rasa Kaumudi, Somanath–Raga Vibodh, Venkatraman–Chaturdandi.
-
-**Trap:** Spelling variants — pairs unchanged.
-
-</details>
-
-
-**Q6. UPPCS Prelims 2023, Q38**
-
-The Tappa style of music was refined and developed in the court of which Mughal Emperor?
-
-A. Akbar |
-
-B. Jahangir |
-
-C. Shah Jahan |
-
-D. Muhammad Shah
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — **UPPCS 2023 Q38Why:Tappa** refined at **Muhammad Shah Rangeela's** court.
-
-**Trap:** Akbar = dhrupad/Tansen era, not Tappa.
-
-</details>
-
-
-**Q7. UPPCS Prelims 2025, Q12 (overlap)**
-
-Amir Khusrau → Nizamuddin Auliya in disciple–guru match.
-
-<details><summary>Show answer</summary>
-
-**Ans: C (2-3-4-1)** — full match code.
-
-**Why:** Khusrau guru = **Nizamuddin Auliya** (code 3).
-
-**Trap:** Not Ramananda or Vallabhacharya.
 
 </details>
 

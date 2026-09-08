@@ -611,6 +611,192 @@ D. M.A. Ansari
 
 ---
 
+## Complete PYQ Bank
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q6**
+
+Which of the following events took place in the year 1911?
+
+1. Partition of Bengal revoked
+2. Transfer of capital from Calcutta to Delhi
+3. Lucknow Pact between Congress and Muslim League
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Duplicate allowed with Topic 9.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q40**
+
+Match List-I with List-II and select the correct answer using the code given below the lists.
+
+**List-I (Governor-General/Viceroy)List-II (Important contribution/work)**
+A. Lord Dalhousie  1. Permanent Settlement of Bengal
+B. Lord Curzon  2. Prohibition of Practice of Sati
+C. Lord William Bentinck  3. Partition of Bengal
+D. Lord Cornwallis  4. Doctrine of Lapse
+
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Duplicate allowed with Topic 3. Curzon fact = **Partition of Bengal**.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q3. UPPCS Prelims 2023, Q42**
+
+Which among the following organisations was responsible for throwing a bomb at Viceroy **Lord Hardinge** in Delhi?
+
+A. All India Labour Association
+
+B. United Patriotic Association
+
+C. Anushilan Samiti
+
+D. Yugantar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q4. UPPCS Prelims 2022, Q38**
+
+Consider the following events and arrange them in chronological order.
+
+I. The foundation of Gadar Party
+II. Chittagong Armoury Raid
+III. Set up of the 'Indian Independence Committee' at Berlin
+IV. Central Assembly Bomb Case
+
+A. III, I, IV and II
+
+B. I, III, IV and II
+
+C. I, III, II and IV
+
+D. III, I, II and IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q5. UPPCS Prelims 2021, Q86**
+
+Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
+
+A. Muzaffar Ahmed
+
+B. Nalini Gupta
+
+C. Shaukat Usmani
+
+D. M.A. Ansari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q6. UPPCS Prelims 2021, Q108**
+
+Who among the following was NOT an early member of the Naujawan-Sabha' formed in 1926 A.D.?
+
+A. Bhagat Singh
+
+B. Yaspal
+
+C. Chhabil Das
+
+D. Ambika Chakravarti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q7. UPPCS Prelims 2019, Q95**
+
+With reference to the Civil Administration in 1905, which of the statements is/are correct?
+
+1. Lord Curzon decided to rearrange the provincial boundaries.
+2. A new province was constituted, called East Bengal and Assam.
+
+A. 1 only
+
+B. Both 1 and 2
+
+C. 2 only
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q8. UPPCS Prelims 2018, Q22**
+
+Who among the following leaders founded the revolutionary organization-'Abhinav Bharat Society'?
+
+A. Bhagat Singh
+
+B. Vinayak Damodar Savarkar
+
+C. Barindra Kumar Ghosh
+
+D. Pulin Bihari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **45 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
@@ -1567,192 +1753,6 @@ D. Only 1
 <summary>Show answer</summary>
 
 **Ans: A** — Faizabad = **Ashfaqulla**; Bismil = **Gorakhpur**.
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q6**
-
-Which of the following events took place in the year 1911?
-
-1. Partition of Bengal revoked
-2. Transfer of capital from Calcutta to Delhi
-3. Lucknow Pact between Congress and Muslim League
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Duplicate allowed with Topic 9.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q40**
-
-Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (Governor-General/Viceroy)List-II (Important contribution/work)**
-A. Lord Dalhousie  1. Permanent Settlement of Bengal
-B. Lord Curzon  2. Prohibition of Practice of Sati
-C. Lord William Bentinck  3. Partition of Bengal
-D. Lord Cornwallis  4. Doctrine of Lapse
-
-A. 4 3 1 2
-
-B. 3 4 2 1
-
-C. 3 4 1 2
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Duplicate allowed with Topic 3. Curzon fact = **Partition of Bengal**.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q3. UPPCS Prelims 2023, Q42**
-
-Which among the following organisations was responsible for throwing a bomb at Viceroy **Lord Hardinge** in Delhi?
-
-A. All India Labour Association
-
-B. United Patriotic Association
-
-C. Anushilan Samiti
-
-D. Yugantar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q4. UPPCS Prelims 2022, Q38**
-
-Consider the following events and arrange them in chronological order.
-
-I. The foundation of Gadar Party
-II. Chittagong Armoury Raid
-III. Set up of the 'Indian Independence Committee' at Berlin
-IV. Central Assembly Bomb Case
-
-A. III, I, IV and II
-
-B. I, III, IV and II
-
-C. I, III, II and IV
-
-D. III, I, II and IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q5. UPPCS Prelims 2021, Q86**
-
-Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
-
-A. Muzaffar Ahmed
-
-B. Nalini Gupta
-
-C. Shaukat Usmani
-
-D. M.A. Ansari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q6. UPPCS Prelims 2021, Q108**
-
-Who among the following was NOT an early member of the Naujawan-Sabha' formed in 1926 A.D.?
-
-A. Bhagat Singh
-
-B. Yaspal
-
-C. Chhabil Das
-
-D. Ambika Chakravarti
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q7. UPPCS Prelims 2019, Q95**
-
-With reference to the Civil Administration in 1905, which of the statements is/are correct?
-
-1. Lord Curzon decided to rearrange the provincial boundaries.
-2. A new province was constituted, called East Bengal and Assam.
-
-A. 1 only
-
-B. Both 1 and 2
-
-C. 2 only
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q8. UPPCS Prelims 2018, Q22**
-
-Who among the following leaders founded the revolutionary organization-'Abhinav Bharat Society'?
-
-A. Bhagat Singh
-
-B. Vinayak Damodar Savarkar
-
-C. Barindra Kumar Ghosh
-
-D. Pulin Bihari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
 
 </details>
 

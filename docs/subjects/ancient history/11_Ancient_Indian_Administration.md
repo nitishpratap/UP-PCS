@@ -410,6 +410,106 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 ---
 
+## Complete PYQ Bank (Topic 11)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this hub. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2025
+
+No extra GS-I official/title/inscription hit after keyword search.
+
+### UPPCS Prelims 2024
+
+**Q1. UPPCS Prelims 2024, Q20**
+
+Consider the following statements with respect to Ashoka:
+
+1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
+2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
+
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 2.** Dhamma-mahamatras year 14. *Rahulovada* is the trap.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q2. UPPCS Prelims 2023, Q26**
+
+Which officer was known as **'Bhagadugha'** during Vedic administration?
+
+A. Messenger B. Chief Officer of Forests C. Chief Officer of the Gambling Department D. Revenue Collector
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Bhagadugha = Vedic revenue. Akshavapa = dice.
+
+</details>
+
+**Q3. UPPCS Prelims 2023, Q29**
+
+With reference to the Puranas, which one of the following statements is correct?
+
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
+2. Vayu Purana throws light on the Gupta system of governance.
+
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Vishnu Purana has Mauryas. Vayu ≠ Gupta admin.
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q4. UPPCS Prelims 2022, Q87**
+
+Which one of the following pairs is **NOT** correctly matched?
+
+A. Ishanavarman — Harha stone inscription
+B. Sarvavarman — Gaya Copper Plate
+C. Jivitagupta II — Deva Barnark inscription
+D. Ishwaravarman — Jaunpur stone inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NOT matched = Sarvavarman — Gaya copper plate.
+
+</details>
+
+### UPPCS Prelims 2021, 2019
+
+No further GS-I admin/title/inscription hit after keyword search.
+
+### UPPCS Prelims 2020
+
+**Q5. UPPCS Prelims 2020, Q4**
+
+The official 'Agronomai' during Mauryan age was related with which of the following field?
+
+A. Weight and measurement B. Administrative management C. Construction of roads D. Revenue management
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Agronomai = Mauryan **revenue**, not roads.
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q6. UPPCS Prelims 2018, Q16** — Hathigumpha → **A Kharavela.Q7. UPPCS Prelims 2018, Q87** — Samudragupta south match → **C 3-1-4-2.Q8. UPPCS Prelims 2018, Q91** — Pushyamitra ashwamedha → **C Ayodhya.**
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** Which officer was known as ‘Bhagadugha’ during Vedic administration?
@@ -1143,106 +1243,6 @@ D. (A) is false, but (R) is true
 **Ans: A**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 11)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this hub. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2025
-
-No extra GS-I official/title/inscription hit after keyword search.
-
-### UPPCS Prelims 2024
-
-**Q1. UPPCS Prelims 2024, Q20**
-
-Consider the following statements with respect to Ashoka:
-
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
-
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 2.** Dhamma-mahamatras year 14. *Rahulovada* is the trap.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q2. UPPCS Prelims 2023, Q26**
-
-Which officer was known as **'Bhagadugha'** during Vedic administration?
-
-A. Messenger B. Chief Officer of Forests C. Chief Officer of the Gambling Department D. Revenue Collector
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Bhagadugha = Vedic revenue. Akshavapa = dice.
-
-</details>
-
-**Q3. UPPCS Prelims 2023, Q29**
-
-With reference to the Puranas, which one of the following statements is correct?
-
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1.** Vishnu Purana has Mauryas. Vayu ≠ Gupta admin.
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q4. UPPCS Prelims 2022, Q87**
-
-Which one of the following pairs is **NOT** correctly matched?
-
-A. Ishanavarman — Harha stone inscription
-B. Sarvavarman — Gaya Copper Plate
-C. Jivitagupta II — Deva Barnark inscription
-D. Ishwaravarman — Jaunpur stone inscription
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** NOT matched = Sarvavarman — Gaya copper plate.
-
-</details>
-
-### UPPCS Prelims 2021, 2019
-
-No further GS-I admin/title/inscription hit after keyword search.
-
-### UPPCS Prelims 2020
-
-**Q5. UPPCS Prelims 2020, Q4**
-
-The official 'Agronomai' during Mauryan age was related with which of the following field?
-
-A. Weight and measurement B. Administrative management C. Construction of roads D. Revenue management
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Agronomai = Mauryan **revenue**, not roads.
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q6. UPPCS Prelims 2018, Q16** — Hathigumpha → **A Kharavela.Q7. UPPCS Prelims 2018, Q87** — Samudragupta south match → **C 3-1-4-2.Q8. UPPCS Prelims 2018, Q91** — Pushyamitra ashwamedha → **C Ayodhya.**
 
 ---
 

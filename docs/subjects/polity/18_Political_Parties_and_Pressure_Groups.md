@@ -411,6 +411,52 @@ D. A-4, B-1, C-2, D-3
 
 ---
 
+## Complete PYQ Bank (Topic 18)
+
+### 2022
+
+**Q1. UPPCS Prelims 2022, Q53**
+Consider the following political parties and arrange them in the chronological order of their establishment.
+I. Bahujan Samaj Party
+II. Samajwadi Party
+III. Telugu Desam Party
+IV. All India Trinamool Congress
+A. III, I, II, IV
+B. II, I, III, IV
+C. III, II, I, IV
+D. I, II, III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1982 → 1984 → 1992 → 1998.
+
+</details>
+
+**Q2. UPPCS Prelims 2022, Q123**
+Match List-I (Trade Union) with List-II (Political Affiliation):
+A. Bharatiya Mazdoor Sangh
+B. Indian National Trade Union Congress
+C. United Trade Union Congress
+D. All India Trade Union Congress
+1. INC
+2. CPI
+3. CPI(M)
+4. BJP
+A. A-2, B-4, C-3, D-1
+B. A-3, B-2, C-1, D-4
+C. A-1, B-3, C-2, D-4
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** BMS–BJP and INTUC–INC are the clean facts. True union table: **AITUC = CPI**, **CITU = CPI(M)**, **UTUC = RSP**.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **55 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
@@ -1221,52 +1267,6 @@ D. PESA
 <summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 18)
-
-### 2022
-
-**Q1. UPPCS Prelims 2022, Q53**
-Consider the following political parties and arrange them in the chronological order of their establishment.
-I. Bahujan Samaj Party
-II. Samajwadi Party
-III. Telugu Desam Party
-IV. All India Trinamool Congress
-A. III, I, II, IV
-B. II, I, III, IV
-C. III, II, I, IV
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1982 → 1984 → 1992 → 1998.
-
-</details>
-
-**Q2. UPPCS Prelims 2022, Q123**
-Match List-I (Trade Union) with List-II (Political Affiliation):
-A. Bharatiya Mazdoor Sangh
-B. Indian National Trade Union Congress
-C. United Trade Union Congress
-D. All India Trade Union Congress
-1. INC
-2. CPI
-3. CPI(M)
-4. BJP
-A. A-2, B-4, C-3, D-1
-B. A-3, B-2, C-1, D-4
-C. A-1, B-3, C-2, D-4
-D. A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** BMS–BJP and INTUC–INC are the clean facts. True union table: **AITUC = CPI**, **CITU = CPI(M)**, **UTUC = RSP**.
 
 </details>
 

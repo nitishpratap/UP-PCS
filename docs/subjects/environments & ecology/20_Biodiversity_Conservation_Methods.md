@@ -244,6 +244,257 @@ D. Sacred groves
 
 ---
 
+## Complete PYQ Bank (Topic 20)
+
+**Q1. UPPCS Prelims 2018, Q54**
+
+Which of the following is **NOT** an example of an in-situ conservation strategy?
+
+A. Biosphere reserve
+
+B. Botanical garden
+
+C. National Park
+
+D. Sacred groves
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Four-way in-situ vs ex-situ trap — botanic gardens are off-site living collections.
+
+**Ans: B.** A **botanical garden is ex-situ** conservation; all other options are in-situ.
+
+**Trap:** Treating managed gardens as "natural habitat" in-situ.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2023, Q118**
+
+In National Parks, genetic diversity is maintained through—
+
+A. In-situ conservation
+
+B. Ex-situ conservation
+
+C. Gene pool
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NPs protect wild populations in natural habitat — primary in-situ strategy.
+
+**Ans: A.** **National Parks maintain genetic diversity through in-situ conservation**.
+
+**Trap:** **Ex-situ** (zoos/seed banks) as the answer for NP management.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2019 pattern — NOT in-situ**
+
+Which of the following is **NOT** an in-situ method of biodiversity conservation?
+
+A. Wildlife Sanctuary
+
+B. Seed bank
+
+C. National Park
+
+D. Sacred grove
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Seed banks store germplasm off-site — classic ex-situ distractor in UPPCS stems.
+
+**Ans: B.** A **seed bank is ex-situ** conservation.
+
+**Trap:** Picking sanctuary or sacred grove (both in-situ).
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2019 pattern — in-situ choice**
+
+Which of the following is an example of **in-situ** conservation?
+
+A. Zoological park
+
+B. National Park
+
+C. Seed bank
+
+D. Botanical garden
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only NP/sanctuary/BR/sacred grove among typical MCQ lists are in-situ.
+
+**Ans: B.** A **National Park is in-situ**; zoo, seed bank, and botanic garden are ex-situ.
+
+**Trap:** **Zoological park** — captive ex-situ, not wild in-situ.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims pattern — NBPGR location**
+
+The Indian national plant gene bank (ICAR-NBPGR) is located at:
+
+A. Kolkata
+
+B. New Delhi
+
+C. Karnal
+
+D. Lucknow
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NBPGR Delhi vs BSI Kolkata — storage versus survey institutions.
+
+**Ans: B.** **NBPGR is at New Delhi** (Pusa Campus).
+
+**Trap:** **Kolkata** — BSI/ZSI headquarters, not NBPGR.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims pattern — NBAGR**
+
+India's National Bureau of Animal Genetic Resources (NBAGR) is located at:
+
+A. New Delhi
+
+B. Karnal, Haryana
+
+C. Kolkata
+
+D. Hyderabad
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Plant gene bank = NBPGR Delhi; animal gene bank = NBAGR Karnal.
+
+**Ans: B.** **NBAGR is at Karnal** for livestock genetic resources.
+
+**Trap:** **New Delhi** (NBPGR) or assigning animals to NBPGR.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims pattern — Svalbard Vault**
+
+The Svalbard Global Seed Vault, a duplicate backup for national seed collections, is located in:
+
+A. India
+
+B. Norway
+
+C. Switzerland
+
+D. United Kingdom
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arctic "doomsday" vault — duplicate storage, not India's primary gene bank.
+
+**Ans: B.** **Svalbard Global Seed Vault is in Norway** (2008).
+
+**Trap:** Locating Svalbard in **India** (NBPGR) or confusing with formal ownership transfer.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims pattern — CZA nodal ministry**
+
+The Central Zoo Authority (CZA) functions under which ministry?
+
+A. Ministry of Agriculture
+
+B. Ministry of Environment, Forest and Climate Change
+
+C. Ministry of Jal Shakti
+
+D. Ministry of Tribal Affairs
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CZA is the statutory zoo regulator under MoEFCC, not agriculture or tribal affairs.
+
+**Ans: B.** **CZA operates under MoEFCC**.
+
+**Trap:** Agriculture ministry because zoos display animals/farming link distractor.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2014 pattern — most effective conservation**
+
+The most effective method for conserving biodiversity is:
+
+A. Ex-situ zoos alone
+
+B. In-situ protected areas in natural habitat
+
+C. Seed banks without habitat protection
+
+D. Botanical gardens only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NCERT/CBD priority — in-situ first; ex-situ is supplementary backup.
+
+**Ans: B.** **In-situ protected areas** are the primary effective strategy.
+
+**Trap:** "Zoos are the best/primary form" — false preference reversal.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2011 pattern — ex-situ mode**
+
+Which of the following is a mode of **ex-situ** conservation?
+
+A. National Park
+
+B. Wildlife Sanctuary
+
+C. Seed banks
+
+D. Sacred grove
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ex-situ = off-site storage or captive collections among mixed lists.
+
+**Ans: C.** **Seed banks** are ex-situ; parks, sanctuaries, and groves are in-situ.
+
+**Trap:** **Sacred grove** — community in-situ forest, not ex-situ.
+
+</details>
+
+---
 
 ## Practice Zone
 
@@ -730,258 +981,6 @@ D. 2008
 
 ---
 
-## Complete PYQ Bank (Topic 20)
-
-**Q1. UPPCS Prelims 2018, Q54**
-
-Which of the following is **NOT** an example of an in-situ conservation strategy?
-
-A. Biosphere reserve
-
-B. Botanical garden
-
-C. National Park
-
-D. Sacred groves
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Four-way in-situ vs ex-situ trap — botanic gardens are off-site living collections.
-
-**Ans: B.** A **botanical garden is ex-situ** conservation; all other options are in-situ.
-
-**Trap:** Treating managed gardens as "natural habitat" in-situ.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2023, Q118**
-
-In National Parks, genetic diversity is maintained through—
-
-A. In-situ conservation
-
-B. Ex-situ conservation
-
-C. Gene pool
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NPs protect wild populations in natural habitat — primary in-situ strategy.
-
-**Ans: A.** **National Parks maintain genetic diversity through in-situ conservation**.
-
-**Trap:** **Ex-situ** (zoos/seed banks) as the answer for NP management.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2019 pattern — NOT in-situ**
-
-Which of the following is **NOT** an in-situ method of biodiversity conservation?
-
-A. Wildlife Sanctuary
-
-B. Seed bank
-
-C. National Park
-
-D. Sacred grove
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Seed banks store germplasm off-site — classic ex-situ distractor in UPPCS stems.
-
-**Ans: B.** A **seed bank is ex-situ** conservation.
-
-**Trap:** Picking sanctuary or sacred grove (both in-situ).
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2019 pattern — in-situ choice**
-
-Which of the following is an example of **in-situ** conservation?
-
-A. Zoological park
-
-B. National Park
-
-C. Seed bank
-
-D. Botanical garden
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only NP/sanctuary/BR/sacred grove among typical MCQ lists are in-situ.
-
-**Ans: B.** A **National Park is in-situ**; zoo, seed bank, and botanic garden are ex-situ.
-
-**Trap:** **Zoological park** — captive ex-situ, not wild in-situ.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims pattern — NBPGR location**
-
-The Indian national plant gene bank (ICAR-NBPGR) is located at:
-
-A. Kolkata
-
-B. New Delhi
-
-C. Karnal
-
-D. Lucknow
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NBPGR Delhi vs BSI Kolkata — storage versus survey institutions.
-
-**Ans: B.** **NBPGR is at New Delhi** (Pusa Campus).
-
-**Trap:** **Kolkata** — BSI/ZSI headquarters, not NBPGR.
-
-</details>
-
----
-
-**Q6. UPPCS Prelims pattern — NBAGR**
-
-India's National Bureau of Animal Genetic Resources (NBAGR) is located at:
-
-A. New Delhi
-
-B. Karnal, Haryana
-
-C. Kolkata
-
-D. Hyderabad
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Plant gene bank = NBPGR Delhi; animal gene bank = NBAGR Karnal.
-
-**Ans: B.** **NBAGR is at Karnal** for livestock genetic resources.
-
-**Trap:** **New Delhi** (NBPGR) or assigning animals to NBPGR.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims pattern — Svalbard Vault**
-
-The Svalbard Global Seed Vault, a duplicate backup for national seed collections, is located in:
-
-A. India
-
-B. Norway
-
-C. Switzerland
-
-D. United Kingdom
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Arctic "doomsday" vault — duplicate storage, not India's primary gene bank.
-
-**Ans: B.** **Svalbard Global Seed Vault is in Norway** (2008).
-
-**Trap:** Locating Svalbard in **India** (NBPGR) or confusing with formal ownership transfer.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims pattern — CZA nodal ministry**
-
-The Central Zoo Authority (CZA) functions under which ministry?
-
-A. Ministry of Agriculture
-
-B. Ministry of Environment, Forest and Climate Change
-
-C. Ministry of Jal Shakti
-
-D. Ministry of Tribal Affairs
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CZA is the statutory zoo regulator under MoEFCC, not agriculture or tribal affairs.
-
-**Ans: B.** **CZA operates under MoEFCC**.
-
-**Trap:** Agriculture ministry because zoos display animals/farming link distractor.
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2014 pattern — most effective conservation**
-
-The most effective method for conserving biodiversity is:
-
-A. Ex-situ zoos alone
-
-B. In-situ protected areas in natural habitat
-
-C. Seed banks without habitat protection
-
-D. Botanical gardens only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NCERT/CBD priority — in-situ first; ex-situ is supplementary backup.
-
-**Ans: B.** **In-situ protected areas** are the primary effective strategy.
-
-**Trap:** "Zoos are the best/primary form" — false preference reversal.
-
-</details>
-
----
-
-**Q10. UPPCS Prelims 2011 pattern — ex-situ mode**
-
-Which of the following is a mode of **ex-situ** conservation?
-
-A. National Park
-
-B. Wildlife Sanctuary
-
-C. Seed banks
-
-D. Sacred grove
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ex-situ = off-site storage or captive collections among mixed lists.
-
-**Ans: C.** **Seed banks** are ex-situ; parks, sanctuaries, and groves are in-situ.
-
-**Trap:** **Sacred grove** — community in-situ forest, not ex-situ.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -998,45 +997,3 @@ D. Sacred grove
 | Svalbard vault in India | **Norway** — duplicate backup only |
 | Sanctuary = zoo | Sanctuary = **wild in-situ**; zoo = **captive ex-situ** |
 | Gene bank = in-situ farmer field | Formal gene bank = **ex-situ** storage |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~412 (was ~1263 old format) |
-| **Teaching blocks** | §20.1–20.6 (6 syllabus bullets) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 10 questions |
-| **Common Traps** | 12 |
-| **Inline PYQs** | 2018 Q54 (§20.2), 2023 Q118 (§20.1) |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| In-situ Conservation | §20.1 |
-| Ex-situ Conservation | §20.2 |
-| Gene Bank | §20.3 |
-| Seed Bank | §20.4 |
-| Botanical Garden | §20.5 |
-| Zoological Park | §20.6 |
-
-### Topic boundaries
-
-- **Protected area legal detail (WPA categories)** — Topics 6–7
-- **BSI/ZSI full org profile** — Topic 16
-- **IUCN Red List categories depth** — Topic 4/21
-- **Biodiversity hotspots** — Topic 4
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2018 Q54 NOT in-situ | §20.2 inline |
-| 2023 Q118 NP in-situ | §20.1 inline |
-| 2019 in-situ/ex-situ patterns | PYQ Bank + §20.1/20.2 notes |
-| UPSC NBPGR/NBAGR/Svalbard/CZA | Practice Zone + PYQ Bank |
-
-**File ready: YES**

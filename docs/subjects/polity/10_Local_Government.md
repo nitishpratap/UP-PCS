@@ -1177,6 +1177,294 @@ UP's three ULB types are called **Nagar Nigam, Nagar Palika Parishad,** and **Na
 
 ---
 
+## Complete PYQ Bank (Topic 10)
+
+### 2025
+
+**Q0. UPPCS Prelims 2025, Q39**
+With reference to Municipalities, which of the following statements is/are correct?
+1. The eligible age to be a member of a municipality is 25 years.
+2. One-third of the total number of seats to be filled by direct election in municipalities is reserved for women.
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Only 2.** Age = **21**.
+
+</details>
+
+**Q1. UPPCS Prelims 2025, Q85**
+With reference to Panchayati Raj Institutions in India, which of the following statements is/are correct?
+1. The tenure of Panchayati Raj Institutions shall be five years.
+2. Out of the reserved seats, one-fourth shall be reserved for women belonging to Scheduled Castes and Scheduled Tribes.
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 1.** Women = **1/3**, not 1/4.
+
+</details>
+
+### 2024
+
+**Q1a. UPPCS Prelims 2024, Q24**
+Which of the following are the functions of the Election Commission of India?
+1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
+2. Conduct of elections of the Municipal Corporations and Municipalities.
+3. Deciding on all doubts and disputes arising out of the above elections.
+A. 2 and 3
+B. 1 and 2
+C. 1 and 3
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — None.** Municipal polls = **SEC**. Speaker = **House**.
+
+</details>
+
+**Q1b. UPPCS Prelims 2024, Q146**
+Which Amendment Acts deal with Local Governance Institutions in India?
+A. 63rd and 64th
+B. 86th and 87th
+C. 42nd and 43rd
+D. 73rd and 74th
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q25**
+Which one of the following is not correctly matched?
+A. G.V.K. Rao Committee – Planning at the Block Level
+B. Dantwala Committee – Rural Credit
+C. Santhanam Committee – Panchayati Raj Finances
+D. Ashok Mehta Committee – Panchayati Raj Institutions
+
+<details>
+<summary>Show answer</summary>
+
+**A is a false pair** (GVK Rao = **district**). **B is also a false pair** (Dantwala = **block-level planning**). C and D are correct.
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q129**
+Which one of the following is not a level in the three-tier Panchayati Raj recommended by Balwant Rai Mehta Committee?
+A. Panchayat Samiti
+B. Gram Panchayat
+C. Zilla Panchayat
+D. Nyaya Panchayat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+### 2023
+
+**Q4. UPPCS Prelims 2023, Q16**
+Which of the following statements is **not true** regarding Gram Sabha?
+A. It has the powers and functions at the village level, like the State Legislature has at the State level.
+B. Its powers are determined by the Central Government.
+C. It is a Village Assembly consisting of all registered voters in the area of the Panchayat.
+D. Both (A) and (C)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Q5. UPPCS Prelims 2023, Q17**
+All elections to the Panchayats are conducted by—
+A. State Legislature
+B. State Election Commission
+C. Election Commission of India
+D. Panchayati Raj Commission of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q18**
+With reference to the recommendations of the Ashok Mehta Committee (1977) on Panchayati Raj, which of the following statement(s) is/are correct?
+1. The three-tier system of Panchayati Raj should be replaced by the two-tier system.
+2. A block should be the first point for decentralization under popular supervision below the State level.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.**
+
+</details>
+
+### 2022
+
+**Q7. UPPCS Prelims 2022, Q49Assertion (A):** The 73rd Amendment is a watershed in the history of local self-government in India.
+
+**Reason (R):** The 73rd Constitutional Amendment conferred constitutional status on Panchayats.
+A. (A) is false, but (R) is true
+B. (A) is true, but (R) is false
+C. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+**Q8. UPPCS Prelims 2022, Q67**
+When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
+A. 1998
+B. 1996
+C. 1995
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 1996.**
+
+</details>
+
+**Q9. UPPCS Prelims 2022, Q93**
+Match Committees with years: Balwant Rai Mehta 1957 · Ashok Mehta 1977 · L.M. Singhvi 1986 · P.K. Thungon 1988.
+Code: A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: that code (option B in the paper).**
+
+</details>
+
+### 2021
+
+**Q10. UPPCS Prelims 2021, Q85**
+Chronology of committees: B.R. Mehta · Ashok Mehta · G.V.K. Rao · L.M. Singhvi.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: 1957 → 1977 → 1985 → 1986** (III – I – IV – II).
+
+</details>
+
+**Q10a. UPPCS Prelims 2021, Q145**
+In India the First Municipal Corporation was set up in which one among the following places?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Madras (Chennai), 1688.**
+
+</details>
+
+### 2020
+
+**Q11. UPPCS Prelims 2020**
+Which Part of the Constitution has the provisions for Panchayati Raj System?
+A. IX
+B. VI
+C. III
+D. IV A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q12. UPPCS Prelims 2020**
+The superintendence, direction and control of all elections to the Panchayats are vested in
+A. The Governor
+B. The Election Commission of India
+C. The District Panchayat Raj Officer
+D. The State Election Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+### 2019
+
+**Q13. UPPCS Prelims 2019, Q99**
+With reference to Panchayats which of the statements is/are correct?
+1. Fifty percent seats shall be reserved for the women of SC/ST categories.
+2. Gram Sabha is a body consisting of all persons living in the village.
+3. There will be a Panchayat at intermediate level.
+A. 1 only
+B. 2 and 3
+C. Both 1 and 2
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — 3 only.**
+
+</details>
+
+**Q14. UPPCS Prelims 2019, Q105**
+National Panchayati Raj Day in India is celebrated on
+A. 26 January
+B. 2 October
+C. 21 April
+D. 24 April
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+### 2018
+
+**Q15. UPPCS Prelims 2018, Q39**
+Which of the following taxes is levied by the Gram Panchayats?
+A. Sales Tax
+B. Land Revenue Tax
+C. Tax on Local Fairs
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **82 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application. Q1–Q48 = PRIs; Q49–Q82 = ULBs.
@@ -2630,294 +2918,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — octroi is largely gone (GST era). 243Y applies 243I to municipalities.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 10)
-
-### 2025
-
-**Q0. UPPCS Prelims 2025, Q39**
-With reference to Municipalities, which of the following statements is/are correct?
-1. The eligible age to be a member of a municipality is 25 years.
-2. One-third of the total number of seats to be filled by direct election in municipalities is reserved for women.
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Only 2.** Age = **21**.
-
-</details>
-
-**Q1. UPPCS Prelims 2025, Q85**
-With reference to Panchayati Raj Institutions in India, which of the following statements is/are correct?
-1. The tenure of Panchayati Raj Institutions shall be five years.
-2. Out of the reserved seats, one-fourth shall be reserved for women belonging to Scheduled Castes and Scheduled Tribes.
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1.** Women = **1/3**, not 1/4.
-
-</details>
-
-### 2024
-
-**Q1a. UPPCS Prelims 2024, Q24**
-Which of the following are the functions of the Election Commission of India?
-1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
-2. Conduct of elections of the Municipal Corporations and Municipalities.
-3. Deciding on all doubts and disputes arising out of the above elections.
-A. 2 and 3
-B. 1 and 2
-C. 1 and 3
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — None.** Municipal polls = **SEC**. Speaker = **House**.
-
-</details>
-
-**Q1b. UPPCS Prelims 2024, Q146**
-Which Amendment Acts deal with Local Governance Institutions in India?
-A. 63rd and 64th
-B. 86th and 87th
-C. 42nd and 43rd
-D. 73rd and 74th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q25**
-Which one of the following is not correctly matched?
-A. G.V.K. Rao Committee – Planning at the Block Level
-B. Dantwala Committee – Rural Credit
-C. Santhanam Committee – Panchayati Raj Finances
-D. Ashok Mehta Committee – Panchayati Raj Institutions
-
-<details>
-<summary>Show answer</summary>
-
-**A is a false pair** (GVK Rao = **district**). **B is also a false pair** (Dantwala = **block-level planning**). C and D are correct.
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q129**
-Which one of the following is not a level in the three-tier Panchayati Raj recommended by Balwant Rai Mehta Committee?
-A. Panchayat Samiti
-B. Gram Panchayat
-C. Zilla Panchayat
-D. Nyaya Panchayat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-### 2023
-
-**Q4. UPPCS Prelims 2023, Q16**
-Which of the following statements is **not true** regarding Gram Sabha?
-A. It has the powers and functions at the village level, like the State Legislature has at the State level.
-B. Its powers are determined by the Central Government.
-C. It is a Village Assembly consisting of all registered voters in the area of the Panchayat.
-D. Both (A) and (C)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q5. UPPCS Prelims 2023, Q17**
-All elections to the Panchayats are conducted by—
-A. State Legislature
-B. State Election Commission
-C. Election Commission of India
-D. Panchayati Raj Commission of India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q18**
-With reference to the recommendations of the Ashok Mehta Committee (1977) on Panchayati Raj, which of the following statement(s) is/are correct?
-1. The three-tier system of Panchayati Raj should be replaced by the two-tier system.
-2. A block should be the first point for decentralization under popular supervision below the State level.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1.**
-
-</details>
-
-### 2022
-
-**Q7. UPPCS Prelims 2022, Q49Assertion (A):** The 73rd Amendment is a watershed in the history of local self-government in India.
-
-**Reason (R):** The 73rd Constitutional Amendment conferred constitutional status on Panchayats.
-A. (A) is false, but (R) is true
-B. (A) is true, but (R) is false
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q8. UPPCS Prelims 2022, Q67**
-When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
-A. 1998
-B. 1996
-C. 1995
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1996.**
-
-</details>
-
-**Q9. UPPCS Prelims 2022, Q93**
-Match Committees with years: Balwant Rai Mehta 1957 · Ashok Mehta 1977 · L.M. Singhvi 1986 · P.K. Thungon 1988.
-Code: A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: that code (option B in the paper).**
-
-</details>
-
-### 2021
-
-**Q10. UPPCS Prelims 2021, Q85**
-Chronology of committees: B.R. Mehta · Ashok Mehta · G.V.K. Rao · L.M. Singhvi.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: 1957 → 1977 → 1985 → 1986** (III – I – IV – II).
-
-</details>
-
-**Q10a. UPPCS Prelims 2021, Q145**
-In India the First Municipal Corporation was set up in which one among the following places?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: Madras (Chennai), 1688.**
-
-</details>
-
-### 2020
-
-**Q11. UPPCS Prelims 2020**
-Which Part of the Constitution has the provisions for Panchayati Raj System?
-A. IX
-B. VI
-C. III
-D. IV A
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q12. UPPCS Prelims 2020**
-The superintendence, direction and control of all elections to the Panchayats are vested in
-A. The Governor
-B. The Election Commission of India
-C. The District Panchayat Raj Officer
-D. The State Election Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-### 2019
-
-**Q13. UPPCS Prelims 2019, Q99**
-With reference to Panchayats which of the statements is/are correct?
-1. Fifty percent seats shall be reserved for the women of SC/ST categories.
-2. Gram Sabha is a body consisting of all persons living in the village.
-3. There will be a Panchayat at intermediate level.
-A. 1 only
-B. 2 and 3
-C. Both 1 and 2
-D. 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — 3 only.**
-
-</details>
-
-**Q14. UPPCS Prelims 2019, Q105**
-National Panchayati Raj Day in India is celebrated on
-A. 26 January
-B. 2 October
-C. 21 April
-D. 24 April
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-### 2018
-
-**Q15. UPPCS Prelims 2018, Q39**
-Which of the following taxes is levied by the Gram Panchayats?
-A. Sales Tax
-B. Land Revenue Tax
-C. Tax on Local Fairs
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
 
 </details>
 

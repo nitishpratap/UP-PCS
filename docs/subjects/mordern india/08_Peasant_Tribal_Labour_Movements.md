@@ -1016,6 +1016,260 @@ Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn 
 
 ---
 
+## Complete PYQ Bank
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q25**
+
+Consider the following revolts and arrange them in correct chronological order.
+
+1. Pabna Revolt
+2. Indigo Revolt
+3. Kuka Revolt
+4. Sanyasi Revolt
+
+Select the correct answer from the code given below:
+
+A. 4, 3, 2, 1
+
+B. 3, 4, 1, 2
+
+C. 3, 4, 2, 1
+
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** â€” Sanyasi â†’ Indigo â†’ Kuka â†’ Pabna.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q127**
+
+Consider the following events and arrange them in correct chronological order.
+
+1. Acquisition of Awadh by the British
+2. Ilbert Bill Controversy
+3. Indigo Revolt
+4. Second Anglo-Afghan War
+
+Select the correct answer from the code given below:
+
+A. 1, 3, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 3, 1, 4, 2
+
+D. 1, 3, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** â€” Awadh 1856 â†’ Indigo 1859â€“60 â†’ Second Afghan War 1878â€“80 â†’ Ilbert 1883. Duplicate allowed with Topics 2 / 4 / 5.
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q3. UPPCS Prelims 2024, Q14**
+
+Consider the following statements with reference to the Workers and Peasants Party:
+
+1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.
+2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.
+
+Which of the above statements is/are correct?
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** â€” Only 2. All-India form **December 1928**. Home **Topic 12**.
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q138**
+
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+
+**List-I (Revolt)**
+A. Paika Revolt
+B. Bareilly Revolt
+C. Malabar Revolt
+D. Sylhet Revolt
+
+**List-II (Leader)**
+1. Edachena Kungan
+2. Radharam
+3. Mufti Muhammad Aiwaz
+4. Jagabandhu Bidyadhar Mahapatra
+
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 3 2 1 4
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q5. UPPCS Prelims 2023, Q41**
+
+In 1918, the **United Provinces Kisan Sabha** was formed by which of the following leaders?
+
+A. Baba Ramchandra
+
+B. Indra Narayan Dwivedi
+
+C. Swami Sahajanand Saraswati
+
+D. Pt. Jawaharlal Nehru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q47**
+
+Which of the following events was the **last** in chronological order?
+
+A. Home Rule Movement
+
+B. Khilafat Movement
+
+C. Jallianwala Bagh Massacre
+
+D. Moplah Revolt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q7. UPPCS Prelims 2022, Q123**
+
+Match List-I with List-II and select the correct answer from the code given below.
+
+**List-I (Trade Union)**
+A. Bharatiya Mazdoor Sangh
+B. Indian National Trade Union Congress
+C. United Trade Union Congress
+D. All India Trade Union Congress
+
+**List-II (Political Affiliation)**
+1. Indian National Congress
+2. Communist Party of India
+3. Communist Party of India (Marxist)
+4. Bharatiya Janata Party
+
+Standard paper code: **4 1 3 2**
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (standard booklet)** â€” BMSâ€“BJP; INTUCâ€“Congress; UTUCâ€“CPI(M); AITUCâ€“CPI.
+Local `pyq/2022` English options omit this code (same class of mismatch as 2022 Q117).
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q8. UPPCS Prelims 2020, Q16**
+
+Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
+
+A. V.P. Wadia
+
+B. N.M. Joshi
+
+C. C.F. Andrews
+
+D. Joseph Baptista
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B â€” N.M. Joshi**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q9. UPPCS Prelims 2019, Q18**
+
+Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
+
+**List-I (Movement)**â€ƒâ€ƒ**List-II (Year)**
+A. Pabnaâ€ƒâ€ƒ1. 1855-56
+B. Ekaâ€ƒâ€ƒ2. 1873-85
+C. Santhalâ€ƒâ€ƒ3. 1922
+D. Tana Bhagatâ€ƒâ€ƒ4. 1914
+
+A. 1 2 4 3
+
+B. 2 3 1 4
+
+C. 3 1 4 2
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q10. UPPCS Prelims 2018, Q23**
+
+Which of the following pairs is NOT correctly matched?
+
+Rebellionâ€ƒâ€ƒYear
+
+A. Santhal 1855
+
+B. Kol 1831
+
+C. Khasi 1829
+
+D. Ahom 1815
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
 ## Practice Zone â€” UPPCS Format Drill
 
 > **50 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
@@ -2098,260 +2352,6 @@ D. AITUC â€” 1920
 <summary>Show answer</summary>
 
 **Ans: C** â€” Oudh Kisan Sabha = **Baba Ramchandra**; Madari Pasi = Eka.
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q25**
-
-Consider the following revolts and arrange them in correct chronological order.
-
-1. Pabna Revolt
-2. Indigo Revolt
-3. Kuka Revolt
-4. Sanyasi Revolt
-
-Select the correct answer from the code given below:
-
-A. 4, 3, 2, 1
-
-B. 3, 4, 1, 2
-
-C. 3, 4, 2, 1
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** â€” Sanyasi â†’ Indigo â†’ Kuka â†’ Pabna.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q127**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Acquisition of Awadh by the British
-2. Ilbert Bill Controversy
-3. Indigo Revolt
-4. Second Anglo-Afghan War
-
-Select the correct answer from the code given below:
-
-A. 1, 3, 4, 2
-
-B. 3, 1, 2, 4
-
-C. 3, 1, 4, 2
-
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** â€” Awadh 1856 â†’ Indigo 1859â€“60 â†’ Second Afghan War 1878â€“80 â†’ Ilbert 1883. Duplicate allowed with Topics 2 / 4 / 5.
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q3. UPPCS Prelims 2024, Q14**
-
-Consider the following statements with reference to the Workers and Peasants Party:
-
-1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.
-2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** â€” Only 2. All-India form **December 1928**. Home **Topic 12**.
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q138**
-
-Match List-I with List-II and choose the correct answer using the codes given below the lists:
-
-**List-I (Revolt)**
-A. Paika Revolt
-B. Bareilly Revolt
-C. Malabar Revolt
-D. Sylhet Revolt
-
-**List-II (Leader)**
-1. Edachena Kungan
-2. Radharam
-3. Mufti Muhammad Aiwaz
-4. Jagabandhu Bidyadhar Mahapatra
-
-A. 4 3 1 2
-
-B. 3 4 1 2
-
-C. 3 2 1 4
-
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q5. UPPCS Prelims 2023, Q41**
-
-In 1918, the **United Provinces Kisan Sabha** was formed by which of the following leaders?
-
-A. Baba Ramchandra
-
-B. Indra Narayan Dwivedi
-
-C. Swami Sahajanand Saraswati
-
-D. Pt. Jawaharlal Nehru
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q47**
-
-Which of the following events was the **last** in chronological order?
-
-A. Home Rule Movement
-
-B. Khilafat Movement
-
-C. Jallianwala Bagh Massacre
-
-D. Moplah Revolt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q7. UPPCS Prelims 2022, Q123**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Trade Union)**
-A. Bharatiya Mazdoor Sangh
-B. Indian National Trade Union Congress
-C. United Trade Union Congress
-D. All India Trade Union Congress
-
-**List-II (Political Affiliation)**
-1. Indian National Congress
-2. Communist Party of India
-3. Communist Party of India (Marxist)
-4. Bharatiya Janata Party
-
-Standard paper code: **4 1 3 2**
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (standard booklet)** â€” BMSâ€“BJP; INTUCâ€“Congress; UTUCâ€“CPI(M); AITUCâ€“CPI.
-Local `pyq/2022` English options omit this code (same class of mismatch as 2022 Q117).
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q8. UPPCS Prelims 2020, Q16**
-
-Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
-
-A. V.P. Wadia
-
-B. N.M. Joshi
-
-C. C.F. Andrews
-
-D. Joseph Baptista
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B â€” N.M. Joshi**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q9. UPPCS Prelims 2019, Q18**
-
-Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
-
-**List-I (Movement)**â€ƒâ€ƒ**List-II (Year)**
-A. Pabnaâ€ƒâ€ƒ1. 1855-56
-B. Ekaâ€ƒâ€ƒ2. 1873-85
-C. Santhalâ€ƒâ€ƒ3. 1922
-D. Tana Bhagatâ€ƒâ€ƒ4. 1914
-
-A. 1 2 4 3
-
-B. 2 3 1 4
-
-C. 3 1 4 2
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q10. UPPCS Prelims 2018, Q23**
-
-Which of the following pairs is NOT correctly matched?
-
-Rebellionâ€ƒâ€ƒYear
-
-A. Santhal 1855
-
-B. Kol 1831
-
-C. Khasi 1829
-
-D. Ahom 1815
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
 
 </details>
 

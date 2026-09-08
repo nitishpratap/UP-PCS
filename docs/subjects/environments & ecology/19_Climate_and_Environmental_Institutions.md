@@ -192,6 +192,222 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 
 ---
 
+## Complete PYQ Bank (Topic 19)
+
+**Q1. UPPCS Prelims 2024, Q6**
+
+Match List-I with List-II:
+
+| List-I (Report) | List-II (Organisation) |
+| --- | --- |
+| A. Human Development Report | 1. IMF |
+| B. World Economic Outlook | 2. UNEP |
+| C. World Investment Report | 3. UNDP |
+| D. Emissions Gap Report | 4. UNCTAD |
+
+*Row order is not the answer code.*
+
+A. 3 1 4 2
+
+B. 3 4 1 2
+
+C. 1 2 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Report–publisher matching — Emissions Gap is UNEP's product, not IPCC or UNDP.
+
+**Ans: A (3 1 4 2).** HDR→**UNDP**; WEO→**IMF**; WIR→**UNCTAD**; Emissions Gap→**UNEP**.
+
+**Trap:** Crediting the Emissions Gap Report to **IPCC** or **UNDP**.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q132**
+
+With reference to the Human Development Report (HDR), consider the following statements:
+
+1. UNDP published the first HDR with HDI in 1990.
+2. The HDI was developed by a team led by Mahbub ul Haq and S. Priesner.
+
+A. Neither 1 nor 2
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** HDR 1990 and HDI authorship — Mahbub ul Haq and **Amartya Sen**, not Priesner.
+
+**Ans: D (Only 1).** First HDR **1990** is correct; statement 2 is false.
+
+**Trap:** Accepting **Priesner** instead of **Sen** on the HDI team.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q145**
+
+With reference to the Global Environment Facility (GEF), consider the following statements:
+
+1. GEF was established in 1991.
+2. Only developed countries are donors to GEF.
+
+A. Neither 1 nor 2
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** GEF pre-Rio finance mechanism — 1991 establishment is tested; donor pool is not developed-only.
+
+**Ans: D (Only 1).** **GEF was established in 1991**; statement 2 is false.
+
+**Trap:** Choosing "Neither" by doubting the 1991 date.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims pattern — IPCC origin**
+
+The Intergovernmental Panel on Climate Change (IPCC) was established in 1988 by:
+
+A. WMO and UNEP
+
+B. UNFCCC and UNDP
+
+C. UNEP and UNDP
+
+D. WMO and FAO
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** IPCC parent bodies — science assessment under WMO + UNEP, not the climate treaty secretariat.
+
+**Ans: A.** **IPCC was created by WMO and UNEP in 1988**.
+
+**Trap:** UNFCCC (policy treaty body) as IPCC founder.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims pattern — UNEP headquarters**
+
+The headquarters of UNEP is located at:
+
+A. Geneva
+
+B. Nairobi
+
+C. New York
+
+D. Rome
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Institution HQ ladder — Nairobi = UNEP; New York = UNDP; Rome = FAO.
+
+**Ans: B.** **UNEP HQ is Nairobi**.
+
+**Trap:** **Geneva** (IPCC) or **New York** (UNDP).
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims pattern — Red List vs CITES**
+
+Which organisation prepares the **IUCN Red List**, and which treaty regulates international wildlife **trade**?
+
+A. IUCN — Red List; CITES — trade
+
+B. CITES — Red List; IUCN — trade
+
+C. UNEP — Red List; CMS — trade
+
+D. WWF — Red List; CBD — trade
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** IUCN assesses scientific extinction risk; CITES controls cross-border trade permits.
+
+**Ans: A.** **Red List = IUCN**; **trade regulation = CITES**.
+
+**Trap:** "IUCN bans wildlife trade" — IUCN does **not** regulate trade.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims pattern — IPCC vs UNFCCC**
+
+Which statement is correct?
+
+A. IPCC sets national emission targets at COP meetings; UNFCCC publishes Assessment Reports.
+
+B. IPCC synthesises climate science; UNFCCC is the treaty forum where countries negotiate NDCs.
+
+C. IPCC and UNFCCC are the same body with two names.
+
+D. UNFCCC was created in 1988; IPCC was opened for signature at Rio 1992.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Science (IPCC) versus policy treaty (UNFCCC/COP) — recurring institution trap.
+
+**Ans: B.** **IPCC assesses science**; **UNFCCC/COP handles NDC negotiations**.
+
+**Trap:** Swapping roles — "IPCC sets NDCs."
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims pattern — Living Planet Report**
+
+The Living Planet Report and Living Planet Index are published by:
+
+A. IUCN
+
+B. UNEP
+
+C. WWF
+
+D. IPCC
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** WWF NGO product versus IUCN Red List — both in Gland but different roles.
+
+**Ans: C.** The **Living Planet Report is published by WWF**.
+
+**Trap:** **IUCN** (Red List) or **UNEP** (Emissions Gap).
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -678,223 +894,6 @@ D. Both false
 
 ---
 
-## Complete PYQ Bank (Topic 19)
-
-**Q1. UPPCS Prelims 2024, Q6**
-
-Match List-I with List-II:
-
-| List-I (Report) | List-II (Organisation) |
-| --- | --- |
-| A. Human Development Report | 1. IMF |
-| B. World Economic Outlook | 2. UNEP |
-| C. World Investment Report | 3. UNDP |
-| D. Emissions Gap Report | 4. UNCTAD |
-
-*Row order is not the answer code.*
-
-A. 3 1 4 2
-
-B. 3 4 1 2
-
-C. 1 2 3 4
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Report–publisher matching — Emissions Gap is UNEP's product, not IPCC or UNDP.
-
-**Ans: A (3 1 4 2).** HDR→**UNDP**; WEO→**IMF**; WIR→**UNCTAD**; Emissions Gap→**UNEP**.
-
-**Trap:** Crediting the Emissions Gap Report to **IPCC** or **UNDP**.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q132**
-
-With reference to the Human Development Report (HDR), consider the following statements:
-
-1. UNDP published the first HDR with HDI in 1990.
-2. The HDI was developed by a team led by Mahbub ul Haq and S. Priesner.
-
-A. Neither 1 nor 2
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** HDR 1990 and HDI authorship — Mahbub ul Haq and **Amartya Sen**, not Priesner.
-
-**Ans: D (Only 1).** First HDR **1990** is correct; statement 2 is false.
-
-**Trap:** Accepting **Priesner** instead of **Sen** on the HDI team.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q145**
-
-With reference to the Global Environment Facility (GEF), consider the following statements:
-
-1. GEF was established in 1991.
-2. Only developed countries are donors to GEF.
-
-A. Neither 1 nor 2
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** GEF pre-Rio finance mechanism — 1991 establishment is tested; donor pool is not developed-only.
-
-**Ans: D (Only 1).** **GEF was established in 1991**; statement 2 is false.
-
-**Trap:** Choosing "Neither" by doubting the 1991 date.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims pattern — IPCC origin**
-
-The Intergovernmental Panel on Climate Change (IPCC) was established in 1988 by:
-
-A. WMO and UNEP
-
-B. UNFCCC and UNDP
-
-C. UNEP and UNDP
-
-D. WMO and FAO
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** IPCC parent bodies — science assessment under WMO + UNEP, not the climate treaty secretariat.
-
-**Ans: A.** **IPCC was created by WMO and UNEP in 1988**.
-
-**Trap:** UNFCCC (policy treaty body) as IPCC founder.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims pattern — UNEP headquarters**
-
-The headquarters of UNEP is located at:
-
-A. Geneva
-
-B. Nairobi
-
-C. New York
-
-D. Rome
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Institution HQ ladder — Nairobi = UNEP; New York = UNDP; Rome = FAO.
-
-**Ans: B.** **UNEP HQ is Nairobi**.
-
-**Trap:** **Geneva** (IPCC) or **New York** (UNDP).
-
-</details>
-
----
-
-**Q6. UPPCS Prelims pattern — Red List vs CITES**
-
-Which organisation prepares the **IUCN Red List**, and which treaty regulates international wildlife **trade**?
-
-A. IUCN — Red List; CITES — trade
-
-B. CITES — Red List; IUCN — trade
-
-C. UNEP — Red List; CMS — trade
-
-D. WWF — Red List; CBD — trade
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** IUCN assesses scientific extinction risk; CITES controls cross-border trade permits.
-
-**Ans: A.** **Red List = IUCN**; **trade regulation = CITES**.
-
-**Trap:** "IUCN bans wildlife trade" — IUCN does **not** regulate trade.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims pattern — IPCC vs UNFCCC**
-
-Which statement is correct?
-
-A. IPCC sets national emission targets at COP meetings; UNFCCC publishes Assessment Reports.
-
-B. IPCC synthesises climate science; UNFCCC is the treaty forum where countries negotiate NDCs.
-
-C. IPCC and UNFCCC are the same body with two names.
-
-D. UNFCCC was created in 1988; IPCC was opened for signature at Rio 1992.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Science (IPCC) versus policy treaty (UNFCCC/COP) — recurring institution trap.
-
-**Ans: B.** **IPCC assesses science**; **UNFCCC/COP handles NDC negotiations**.
-
-**Trap:** Swapping roles — "IPCC sets NDCs."
-
-</details>
-
----
-
-**Q8. UPPCS Prelims pattern — Living Planet Report**
-
-The Living Planet Report and Living Planet Index are published by:
-
-A. IUCN
-
-B. UNEP
-
-C. WWF
-
-D. IPCC
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** WWF NGO product versus IUCN Red List — both in Gland but different roles.
-
-**Ans: C.** The **Living Planet Report is published by WWF**.
-
-**Trap:** **IUCN** (Red List) or **UNEP** (Emissions Gap).
-
-</details>
-
----
-
 ## Mains Answer Framework
 
 **Environmental institutions (250 words):** Map IPCC (science), UNFCCC (policy treaty), UNEP (environment coordination, Emissions Gap, GEO, Nairobi), UNDP (HDR/HDI, SDGs), IUCN (Red List), WWF (Living Planet), FAO (ag-forest-environment). HQ and report matching. Distinctions IPCC≠UNFCCC, UNEP≠UNDP, IUCN≠CITES. GEF finance role. India engagement (IPCC authors, MoEFCC-UNEP treaties, HDR rank). Conclude with science-policy-civil society division of labour.
@@ -915,42 +914,3 @@ D. IPCC
 | WWF = IUCN | **Same city, different roles** |
 | FAO HQ Nairobi | **Rome** |
 | GEF donors only developed | **Stmt 2 false in Q145** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~375 (was ~1198 old format) |
-| **Teaching blocks** | §19.1–19.6 (6 syllabus orgs) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 8 questions |
-| **Common Traps** | 10 |
-| **Inline PYQs** | 2024 Q6 (§19.2), 2025 Q132 (§19.3), 2025 Q145 (§19.2) |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| IPCC | §19.1 |
-| UNEP | §19.2 |
-| UNDP | §19.3 |
-| IUCN | §19.4 |
-| WWF | §19.5 |
-| FAO (environment role) | §19.6 |
-
-### Topic boundaries
-
-- **GEF full detail** — Topic 18
-- **UNFCCC/COP treaties** — Topic 18
-- **Red List species examples** — Topic 4/7
-- **HDI economy depth** — Economy subjects
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2024 Q6 report matching | §19.2 inline |
-| 2025 Q132 HDI/UNDP | §19.3 inline |
-| 2025 Q145 GEF | §19.2 inline |

@@ -455,6 +455,192 @@ D. Only 2
 
 ---
 
+## Complete PYQ Bank
+
+### UPPCS Prelims 2024
+
+**Q1. UPPCS Prelims 2024, Q13**
+
+Consider the following statements with reference to the Justice Party:
+
+1. The Justice Party opposed Congress by calling it a Brahmin dominated organisation.
+2. It claimed the same communal representation for non-Brahmins as the Morley-Minto reforms had given to Muslims.
+
+Which of the above statements is/are correct?
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q14**
+
+Consider the following statements with reference to the Workers and Peasants Party:
+
+1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.
+2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.
+
+Which of the above statements is/are correct?
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — All-India form is **December 1928**, not a clean 1927 All-India birth.
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q131**
+
+Consider the following statements with reference to the Congress Socialist Party:
+
+1. The Congress Socialist Party was formed in January 1934.
+2. Jawaharlal Nehru formally joined this party due to his sympathy for socialism.
+
+Which of the above statements is/are correct?
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q4. UPPCS Prelims 2023, Q47**
+
+Which of the following events was the **last** in chronological order?
+
+A. Home Rule Movement
+
+B. Khilafat Movement
+
+C. Jallianwala Bagh Massacre
+
+D. Moplah Revolt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Home Rule (1916) is first in this set.
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q5. UPPCS Prelims 2022, Q123**
+
+Match List-I with List-II.
+
+**List-I (Trade Union)List-II (Political Affiliation)**
+A. Bharatiya Mazdoor Sangh  1. Indian National Congress
+B. Indian National Trade Union Congress  2. Communist Party of India
+C. United Trade Union Congress  3. Communist Party of India (Marxist)
+D. All India Trade Union Congress  4. Bharatiya Janata Party
+
+Standard paper code: **4 1 3 2**
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (standard booklet)** — Duplicate allowed with Topic 8.
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q6. UPPCS Prelims 2021, Q86**
+
+Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
+
+A. Muzaffar Ahmed
+
+B. Nalini Gupta
+
+C. Shaukat Usmani
+
+D. M.A. Ansari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Duplicate allowed with Topic 11.
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q7. UPPCS Prelims 2020, Q16**
+
+Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
+
+A. V.P. Wadia
+
+B. N.M. Joshi
+
+C. C.F. Andrews
+
+D. Joseph Baptista
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Duplicate allowed with Topic 8.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** The 1929 split and the name of the breakaway federation carry the error.
+
+**Q. UKPCS Prelims 2025, Q61**
+
+Consider the following statements:
+
+1. All India Trade Union Congress was founded in 1920.
+2. Lala Lajpat Rai was elected its first President.
+3. All India Trade Union Federation was formed by S. A. Dange in 1929.
+
+A. Only 1 and 2
+B. Only 1 and 3
+C. Only 2 and 3
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** AITUC (1920) with Lala Lajpat Rai as first president is correct. Statement 3 is wrong because the moderate group led by N. M. Joshi broke away in 1929 to form the All India Trade Union Federation.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **45 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
@@ -1408,192 +1594,6 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: C** — learn the **paper’s pairs** for 2022; know CITU as the real CPI(M) centre.
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-### UPPCS Prelims 2024
-
-**Q1. UPPCS Prelims 2024, Q13**
-
-Consider the following statements with reference to the Justice Party:
-
-1. The Justice Party opposed Congress by calling it a Brahmin dominated organisation.
-2. It claimed the same communal representation for non-Brahmins as the Morley-Minto reforms had given to Muslims.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q14**
-
-Consider the following statements with reference to the Workers and Peasants Party:
-
-1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.
-2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All-India form is **December 1928**, not a clean 1927 All-India birth.
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q131**
-
-Consider the following statements with reference to the Congress Socialist Party:
-
-1. The Congress Socialist Party was formed in January 1934.
-2. Jawaharlal Nehru formally joined this party due to his sympathy for socialism.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q4. UPPCS Prelims 2023, Q47**
-
-Which of the following events was the **last** in chronological order?
-
-A. Home Rule Movement
-
-B. Khilafat Movement
-
-C. Jallianwala Bagh Massacre
-
-D. Moplah Revolt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Home Rule (1916) is first in this set.
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q5. UPPCS Prelims 2022, Q123**
-
-Match List-I with List-II.
-
-**List-I (Trade Union)List-II (Political Affiliation)**
-A. Bharatiya Mazdoor Sangh  1. Indian National Congress
-B. Indian National Trade Union Congress  2. Communist Party of India
-C. United Trade Union Congress  3. Communist Party of India (Marxist)
-D. All India Trade Union Congress  4. Bharatiya Janata Party
-
-Standard paper code: **4 1 3 2**
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (standard booklet)** — Duplicate allowed with Topic 8.
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q6. UPPCS Prelims 2021, Q86**
-
-Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
-
-A. Muzaffar Ahmed
-
-B. Nalini Gupta
-
-C. Shaukat Usmani
-
-D. M.A. Ansari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Duplicate allowed with Topic 11.
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q7. UPPCS Prelims 2020, Q16**
-
-Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
-
-A. V.P. Wadia
-
-B. N.M. Joshi
-
-C. C.F. Andrews
-
-D. Joseph Baptista
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Duplicate allowed with Topic 8.
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** The 1929 split and the name of the breakaway federation carry the error.
-
-**Q. UKPCS Prelims 2025, Q61**
-
-Consider the following statements:
-
-1. All India Trade Union Congress was founded in 1920.
-2. Lala Lajpat Rai was elected its first President.
-3. All India Trade Union Federation was formed by S. A. Dange in 1929.
-
-A. Only 1 and 2
-B. Only 1 and 3
-C. Only 2 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** AITUC (1920) with Lala Lajpat Rai as first president is correct. Statement 3 is wrong because the moderate group led by N. M. Joshi broke away in 1929 to form the All India Trade Union Federation.
 
 </details>
 

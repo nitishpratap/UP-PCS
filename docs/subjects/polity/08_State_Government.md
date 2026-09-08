@@ -505,6 +505,107 @@ D. Neither 1 nor 2
 
 ---
 
+## Complete PYQ Bank (Topic 8)
+
+### 2024
+
+**Q1. UPPCS Prelims 2024, Q21**
+Which one of the following is not correctly matched?
+A. Article 153 – Office of the Governor
+B. Article 154 – Executive Authority of the Governor
+C. Article 155 – Removal of the Governor
+D. Article 156 – Term of the Governor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 155 is **appointment**.
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q100Assertion (A):** According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time.
+
+**Reason (R):** Article 153 of the Indian Constitution states that there shall be a Governor for each State.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. Both (A) and (R) are true and (R) is the correct explanation of (A)
+D. (A) is true, but (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 7th Amendment **allows** one person for two or more States.
+
+</details>
+
+### 2023
+
+**Q3. UPPCS Prelims 2023, Q13**
+With reference to the composition of the Legislative Council in a State of India, which statement(s) is/are correct?
+1. The Legislative Council may not have more than one-third of the total membership of the Legislative Assembly of that State.
+2. The Legislative Council of a State must have at least forty members.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Both.**
+
+</details>
+
+### 2020
+
+**Q4. UPPCS Prelims 2020, Q118**
+What can be the minimum strength of Council of Ministers including Chief Minister in the States?
+A. 10
+B. 12
+C. 13
+D. 14
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 12.**
+
+</details>
+
+### 2019
+
+**Q5. UPPCS Prelims 2019, Q108**
+Which of the following is correct about the heading of the Article 162 of the Constitution of India?
+A. Executive Power of State
+B. Conditions of Governor's Office
+C. Term of the Office of Governor
+D. Extension of Executive Power of State
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — official heading of 162 is **Extent** of executive power of State (papers: “Extension”). A = 154; B = 158; C = 156.
+
+</details>
+
+### 2018
+
+**Q6. UPPCS Prelims 2018, Q148**
+Which of the following CAN NOT be dissolved but abolished?
+A. House of People
+B. Council of State
+C. Legislative Assembly
+D. Legislative Council
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Legislative Council.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **40 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application.
@@ -1217,107 +1318,6 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: C** — Art. **192**. Defection is the Speaker’s call.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 8)
-
-### 2024
-
-**Q1. UPPCS Prelims 2024, Q21**
-Which one of the following is not correctly matched?
-A. Article 153 – Office of the Governor
-B. Article 154 – Executive Authority of the Governor
-C. Article 155 – Removal of the Governor
-D. Article 156 – Term of the Governor
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 155 is **appointment**.
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q100Assertion (A):** According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time.
-
-**Reason (R):** Article 153 of the Indian Constitution states that there shall be a Governor for each State.
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 7th Amendment **allows** one person for two or more States.
-
-</details>
-
-### 2023
-
-**Q3. UPPCS Prelims 2023, Q13**
-With reference to the composition of the Legislative Council in a State of India, which statement(s) is/are correct?
-1. The Legislative Council may not have more than one-third of the total membership of the Legislative Assembly of that State.
-2. The Legislative Council of a State must have at least forty members.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both.**
-
-</details>
-
-### 2020
-
-**Q4. UPPCS Prelims 2020, Q118**
-What can be the minimum strength of Council of Ministers including Chief Minister in the States?
-A. 10
-B. 12
-C. 13
-D. 14
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 12.**
-
-</details>
-
-### 2019
-
-**Q5. UPPCS Prelims 2019, Q108**
-Which of the following is correct about the heading of the Article 162 of the Constitution of India?
-A. Executive Power of State
-B. Conditions of Governor's Office
-C. Term of the Office of Governor
-D. Extension of Executive Power of State
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — official heading of 162 is **Extent** of executive power of State (papers: “Extension”). A = 154; B = 158; C = 156.
-
-</details>
-
-### 2018
-
-**Q6. UPPCS Prelims 2018, Q148**
-Which of the following CAN NOT be dissolved but abolished?
-A. House of People
-B. Council of State
-C. Legislative Assembly
-D. Legislative Council
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Legislative Council.**
 
 </details>
 

@@ -371,6 +371,79 @@ D. A-1, B-2, C-3, D-4
 
 ---
 
+## Complete PYQ Bank (Topic 15)
+
+### 2024
+
+**Q1. UPPCS Prelims 2024, Q40**
+Which Article of the Constitution provides for the establishment of the Supreme Court of India?
+A. Article 124
+B. Article 214
+C. Article 226
+D. Article 356
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 356 is the **trap**.
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q102**
+Match List-I and List-II:
+A. Consolidated Fund of India
+B. Finance Commission
+C. Financial Emergency
+D. CAG
+1. Article 266
+2. Article 360
+3. Article 280
+4. Article 148
+A. A-3, B-1, C-2, D-4
+B. A-4, B-1, C-3, D-2
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q122**
+Assertion (A): Article 352 of the Indian Constitution deals with the declaration of an emergency.
+Reason (R): An emergency may take place at any time.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. Both (A) and (R) are true and (R) is the correct explanation of (A)
+D. (A) is true, but (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### 2021
+
+**Q4. UPPCS Prelims 2021, Q54**
+Which one of the following is NOT correctly matched? (Provisions) (Sources)
+A. Fundamental Rights – USA
+B. Directive Principles of State Policy – Ireland
+C. Residual Powers of Center – Australia
+D. Emergency powers – Germany
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Residuary = **Canada**. Emergency FR-suspension = **Germany** (Weimar) is **correctly** matched.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **60 questions.** ≥60% multi-statement.
@@ -1296,79 +1369,6 @@ D. Putting material facts in the proclamation
 <summary>Show answer</summary>
 
 **Ans: C** — repeal = **Rajamannar**.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 15)
-
-### 2024
-
-**Q1. UPPCS Prelims 2024, Q40**
-Which Article of the Constitution provides for the establishment of the Supreme Court of India?
-A. Article 124
-B. Article 214
-C. Article 226
-D. Article 356
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 356 is the **trap**.
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q102**
-Match List-I and List-II:
-A. Consolidated Fund of India
-B. Finance Commission
-C. Financial Emergency
-D. CAG
-1. Article 266
-2. Article 360
-3. Article 280
-4. Article 148
-A. A-3, B-1, C-2, D-4
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q122**
-Assertion (A): Article 352 of the Indian Constitution deals with the declaration of an emergency.
-Reason (R): An emergency may take place at any time.
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### 2021
-
-**Q4. UPPCS Prelims 2021, Q54**
-Which one of the following is NOT correctly matched? (Provisions) (Sources)
-A. Fundamental Rights – USA
-B. Directive Principles of State Policy – Ireland
-C. Residual Powers of Center – Australia
-D. Emergency powers – Germany
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Residuary = **Canada**. Emergency FR-suspension = **Germany** (Weimar) is **correctly** matched.
 
 </details>
 

@@ -552,6 +552,922 @@ A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
 
 ---
 
+## Complete PYQ Bank (Topic 8)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q121**
+
+Match List-I with List-II and choose the correct answer using the code given below.
+
+List-I (Ruler): A. Mahendravarman I B. Kadungon C. Amoghavarsha I D. Rajaraja I
+List-II (Dynasty): 1. Rashtrakuta 2. Pallava 3. Chola 4. Pandya
+
+A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 2 4 1 3.**
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q2. UPPCS Prelims 2023, Q23**
+
+With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
+
+A. Greeks — Sakas — Kushans
+B. Greeks — Kushans — Sakas
+C. Sakas — Greeks — Kushans
+D. Sakas — Kushans — Greeks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Greeks — Sakas — Kushans.
+
+</details>
+
+**Q3. UPPCS Prelims 2023, Q24**
+
+*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
+
+A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Nagasena.** Milinda = Menander.
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q4. UPPCS Prelims 2021, Q52**
+
+With reference to the Satavahana Rulers which of the following statement/s is/are true?
+
+1. The Satavahana Kings were the nurturers of Prakrit language.
+2. Public aspect of the arts got more encouragement during the Satavahana period.
+
+A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Both 1 and 2.**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q5. UPPCS Prelims 2018, Q16**
+
+The inscription of Hathigumpha is the source of information about which king?
+
+A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Kharavela.**
+
+</details>
+
+**Q6. UPPCS Prelims 2018, Q91**
+
+Which of the following inscriptions gives the information about two Ashwamedha Yajnas performed by the King Pushyamitra Shung?
+
+A. Saranath inscription
+B. Besnagar inscription
+C. Ayodhya inscription
+D. Hathigumpha inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Ayodhya.**
+
+</details>
+
+---
+
+### Complete PYQ Bank — older UPPCS / RO / Lower / UKPCS (Post-Mauryan)
+
+**Q7. UPPCS (R.I.) 2014**
+
+Which Indo-Greek ruler issued lead coins?
+
+A. Strato II
+B. Menander
+C. Demetrius
+D. Apollodotus
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rare metal hit in Indo-Greek coinage — lead issues are linked to late Strato II.
+
+**Ans: A.** Lead coins are associated with **Strato II**.
+
+**Trap:** Defaulting to **Menander** for any Indo-Greek coin question.
+
+</details>
+
+---
+
+**Q8. UPPCS Mains 2017**
+
+Figures of Sankarshana and Vasudeva appear on the coins of —
+
+A. Menander
+B. Kanishka
+C. Rudradaman
+D. Agathocles
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Early Indo-Greek Bactrian issues showing Indian Vaishnava deities.
+
+**Ans: D.** Sankarshana and Vasudeva appear on coins of **Agathocles**.
+
+**Trap:** Linking every Vaishnava coin image to later Kushana or Saka rulers.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 1997**
+
+The earliest specimen of *kavya* style in an inscription is associated with —
+
+A. Rudradaman of Kathiawar (Junagadh)
+B. Ashoka
+C. Kharavela
+D. Samudragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Literary Sanskrit prose of the Junagadh / Girnar prasasti is the classic early *kavya* inscription sample.
+
+**Ans: A.** The earliest *kavya*-style specimen is the inscription of **Rudradaman of Kathiawar**.
+
+**Trap:** Crediting Ashokan Prakrit edicts with classical Sanskrit *kavya* style.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2014**
+
+Who renovated the Sudarshan lake without using forced labour?
+
+A. Chandragupta Maurya
+B. Ashoka
+C. Skandagupta
+D. Rudradaman I
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Junagadh text — Rudradaman repaired Sudarshana from his own resources, without *vishti*.
+
+**Ans: D.** The renovation without forced labour is by **Rudradaman I**.
+
+**Trap:** Answering the original Mauryan constructor instead of the Saka renovator.
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2015**
+
+Who introduced gold coins for regular use in India?
+
+A. Vima Kadphises
+B. Kujula Kadphises
+C. Kanishka
+D. Menander
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kushan monetary shift — Vima Kadphises begins substantial / regular gold issues.
+
+**Ans: A.** Regular gold coinage is linked to **Vima Kadphises**.
+
+**Trap:** Giving the credit to **Kanishka** because of later abundant gold types.
+
+</details>
+
+---
+
+**Q12. UPPCS Mains 2009**
+
+Who was the first in the Kushan line to issue gold coins?
+
+A. Kujula Kadphises
+B. Vima Kadphises
+C. Kanishka
+D. Huvishka
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Vima gold breakthrough asked in Mains wording as “first” in the dynasty line.
+
+**Ans: B.** The first gold issuer in the Kushan line is **Vima Kadphises**.
+
+**Trap:** Choosing founder **Kujula** for “first” without checking metal.
+
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2010**
+
+The Buddha is depicted on the coins of —
+
+A. Menander
+B. Kanishka
+C. Rudradaman
+D. Gautamiputra Satakarni
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kanishka’s gold/copper types include standing Buddha and related Buddhist images.
+
+**Ans: B.** Buddha appears on coins of **Kanishka**.
+
+**Trap:** Choosing **Menander** because of *Milindapanho* Buddhism without coin Buddha types as the stem asks.
+
+</details>
+
+---
+
+**Q14. UPPCS Special Mains 2008**
+
+Which deity appears on the coins of the Yaudheyas?
+
+A. Shiva
+B. Vishnu
+C. Surya
+D. Kartikeya
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tribal republic coinage of Punjab–Haryana belt centred on Kartikeya / Brahmanyadeva.
+
+**Ans: D.** Yaudheya coins feature **Kartikeya**.
+
+**Trap:** Assigning Shiva from neighbouring Kuninda / other tribal issues.
+
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2014**
+
+The Sarnath Buddhist image inscription of Kanishka is dated to —
+
+A. 78 A.D.
+B. 81 A.D.
+C. 100 A.D.
+D. 120 A.D.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dated Kanishka-era Buddhist image record at Sarnath — **81 A.D.** in standard keys.
+
+**Ans: B.** The inscription is dated to **81 A.D.**
+
+**Trap:** Confusing the image date with the era epoch **78 A.D.**
+
+</details>
+
+---
+
+**Q16. UPPCS Prelims 1991**
+
+The coronation of Kanishka is placed in —
+
+A. 57 B.C.
+B. 58 A.D.
+C. 68 A.D.
+D. 78 A.D.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Conventional start of Kanishka’s reign / Saka era epoch used in older papers.
+
+**Ans: D.** Coronation is placed in **78 A.D.**
+
+**Trap:** Mixing Vikrama epoch (**57 B.C.**) with Saka / Kanishka dating.
+
+</details>
+
+---
+
+**Q17. UP RO/ARO Mains 2013 / UPPCS Prelims 1990**
+
+The Saka Samvat begins in —
+
+A. 57 B.C.
+B. 78 A.D.
+C. 319 A.D.
+D. 606 A.D.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Official Saka era start vs Vikrama and Gupta eras.
+
+**Ans: B.** Saka Samvat begins in **78 A.D.**
+
+**Trap:** Answering Vikrama (**57 B.C.**) or Gupta (**c. 319 A.D.**).
+
+</details>
+
+---
+
+**Q18. UP UDA/LDA Prelims 2006**
+
+The difference between Vikrama Samvat and Saka Samvat is —
+
+A. 57 years
+B. 78 years
+C. 135 years
+D. 320 years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 78 − (−57) reckoning gap → **135** years between the two era starts.
+
+**Ans: C.** The difference is **135 years**.
+
+**Trap:** Quoting either epoch year (57 or 78) as the “difference.”
+
+</details>
+
+---
+
+**Q19. UPPCS Prelims 1992**
+
+Vikrama Samvat starts in —
+
+A. 78 A.D.
+B. 57 B.C.
+C. 58 A.D.
+D. 248 A.D.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Traditional Vikrama epoch linked to 57 B.C.
+
+**Ans: B.** Vikrama Samvat starts in **57 B.C.**
+
+**Trap:** Swapping it with Saka **78 A.D.**
+
+</details>
+
+---
+
+**Q20. UPPCS Mains 2007**
+
+If the Christian year is December 2009, the corresponding Saka year is —
+
+A. 1931
+B. 1932
+C. 1866
+D. 2087
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Saka year ≈ Gregorian year − 78 (with Chaitra/New Year caveats; key uses 2009 − 78 = 1931).
+
+**Ans: A.** The Saka year is **1931**.
+
+**Trap:** Using Vikrama conversion (year + 57) instead of Saka − 78.
+
+</details>
+
+---
+
+**Q21. UPPCS Prelims 1994**
+
+Which of the following were contemporaries of Kanishka?
+
+1. Ashvaghosa
+2. Vasumitra
+3. Kalidasa
+4. Kamban
+
+A. 1 and 3 only
+B. 2 and 4 only
+C. 1 and 2 only
+D. 1, 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Court / council names of Kanishka’s age vs much later classical poets.
+
+**Ans: C.** Contemporaries are **Ashvaghosa** and **Vasumitra** (I and II).
+
+**Trap:** Dragging **Kalidasa** into every “golden age of Buddhism / Sanskrit” list.
+
+</details>
+
+---
+
+**Q22. UP Lower Special Prelims 2008**
+
+Who among the following was **not** associated with the court of Kanishka?
+
+A. Ashvaghosa
+B. Vasumitra
+C. Charaka
+D. Patanjali
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Negative association — Patanjali belongs to the Shunga / early post-Mauryan milieu, not Kanishka’s court.
+
+**Ans: D.** **Patanjali** was not associated with Kanishka’s court.
+
+**Trap:** Keeping Charaka out instead, though medical tradition is often linked to the Kushan age in older keys.
+
+</details>
+
+---
+
+**Q23. UPPCS Mains 2005**
+
+Who did **not** adorn the court of Kanishka?
+
+A. Ashvaghosa
+B. Nagarjuna
+C. Charaka
+D. Vishakhadatta
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Mudrarakshasa* author is far later / different political setting than Kanishka’s court.
+
+**Ans: D.** **Vishakhadatta** did not adorn Kanishka’s court.
+
+**Trap:** Removing **Nagarjuna** because of debated dating while the clear odd-one-out is Vishakhadatta.
+
+</details>
+
+---
+
+**Q24. UP RO/ARO Mains 2014**
+
+Which city is **not** mentioned in the Rabatak inscription of Kanishka?
+
+A. Shravasti
+B. Kausambi
+C. Pataliputra
+D. Champa
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rabatak lists several Indian cities under Kushan control; Shravasti is the odd name in the asked set.
+
+**Ans: A.** **Shravasti** is not in the Rabatak list as framed by this stem.
+
+**Trap:** Eliminating Pataliputra because it feels “too eastern” for Kushans.
+
+</details>
+
+---
+
+**Q25. UPPCS Prelims 2018**
+
+The inscription that mentions two Ashwamedha sacrifices of Pushyamitra is from —
+
+A. Sanchi
+B. Bharhut
+C. Ayodhya
+D. Vidisha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ayodhya stone inscription of Dhanadeva refers to Pushyamitra’s two Ashwamedhas.
+
+**Ans: C.** The record is from **Ayodhya**.
+
+**Trap:** Choosing Sanchi / Vidisha from Shunga art geography.
+
+</details>
+
+---
+
+**Q26. UPPCS Special Mains 2008**
+
+Simuka was the founder of which dynasty?
+
+A. Kanva
+B. Chedi
+C. Ikshvaku
+D. Satavahana
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Early Satavahana / Andhra founder in Puranic lists.
+
+**Ans: D.** Simuka founded the **Satavahana** dynasty.
+
+**Trap:** Confusing him with Kanva founders after the Shungas.
+
+</details>
+
+---
+
+**Q27. UP RO/ARO Prelims 2016**
+
+The title *Ekabrahmana* was used for —
+
+A. Vashishthiputra Pulumavi
+B. Simuka
+C. Gautamiputra Satakarni
+D. Yajnasri Satakarni
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nasik / Gautami Balashri prasasti praise — *Ekabrahmana* for Gautamiputra Satakarni.
+
+**Ans: C.** *Ekabrahmana* refers to **Gautamiputra Satakarni**.
+
+**Trap:** Assigning the title to later Satavahana kings named in the same family prasastis.
+
+</details>
+
+---
+
+**Q28. UP RO/ARO Prelims 2016**
+
+Which of the following pairs is **NOT** correctly matched?
+
+A. Shungas — Revival of Brahmanism
+B. Kushanas — Gold coins
+C. Satavahanas — Gold coins
+D. Sakas — Western India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NOT matched — Satavahanas are known for lead / potin / silver, not a gold-coin tradition.
+
+**Ans: C.** **Satavahanas–Gold** is not correctly matched.
+
+**Trap:** Marking Kushanas–Gold as wrong despite that being the famous pair.
+
+</details>
+
+---
+
+**Q29. UPPCS Prelims 2020**
+
+In the Puranas, the term *Shriparvatiya* refers to —
+
+A. Satavahanas
+B. Ikshvakus
+C. Vakatakas
+D. Pallavas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Puranic label for the Ikshvakus of the Nagarjunakonda / Sriparvata region.
+
+**Ans: B.** *Shriparvatiya* denotes the **Ikshvakus**.
+
+**Trap:** Reading the name as a Satavahana synonym because of Andhra geography.
+
+</details>
+
+---
+
+**Q30. UPPCS Prelims 2022**
+
+The Buddhist site known for a platform with *Aryaka* pillars is —
+
+A. Sanchi
+B. Bharhut
+C. Sarnath
+D. Amaravati
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Amaravati stupa architecture — *aryaka* pillar platforms at the cardinal points.
+
+**Ans: D.** The platform with Aryaka pillars is at **Amaravati**.
+
+**Trap:** Choosing Sanchi for any early stupa architectural feature.
+
+</details>
+
+---
+
+**Q31. UPPCS Mains 2015 / Special 2008**
+
+Kharavela belonged to which dynasty?
+
+A. Chedi
+B. Satavahana
+C. Kanva
+D. Mahameghavahana only without Chedi link
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hathigumpha identity — Kharavela of the Chedi / Mahameghavahana line of Kalinga.
+
+**Ans: A.** Kharavela’s dynasty is **Chedi**.
+
+**Trap:** Calling him a Satavahana because of Deccan–Kalinga conflicts in the same century.
+
+</details>
+
+---
+
+**Q32. UPPCS Prelims 2018**
+
+The Hathigumpha inscription informs us about —
+
+A. Kharavela
+B. Ashoka
+C. Rudradaman
+D. Gautamiputra Satakarni
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Udayagiri–Khandagiri Prakrit prasasti of Kalinga’s Kharavela.
+
+**Ans: A.** Hathigumpha informs about **Kharavela**.
+
+**Trap:** Linking every “gumpha / cave” record to Ashoka or Ajivikas.
+
+</details>
+
+---
+
+**Q33. UP RO/ARO Mains 2017**
+
+Match List-I with List-II and select the correct answer:
+
+| List-I (Ruler) | List-II (Identity) |
+|----------------|--------------------|
+| A. Demetrius | 1. Scythian |
+| B. Rudradaman | 2. Indo-Greek |
+| C. Gondophernes | 3. Kushan |
+| D. Vima Kadphises | 4. Parthian |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dynasty identity match — Indo-Greek, Western Saka (Scythian), Indo-Parthian, Kushan.
+
+**Ans: C.** Demetrius = Indo-Greek; Rudradaman = Scythian; Gondophernes = Parthian; Vima = Kushan.
+
+**Trap:** Swapping Gondophernes (Parthian) with Vima (Kushan).
+
+</details>
+
+---
+
+**Q34. UPPCS Prelims 2005**
+
+Who issued the largest copper coins in north / north-western India among the options?
+
+A. Indo-Greeks
+B. Kushanas
+C. Satavahanas
+D. Shungas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Heavy Kushan copper issues dominate NW finds relative to Indo-Greek silver preference.
+
+**Ans: B.** The largest copper coins are associated with the **Kushanas**.
+
+**Trap:** Choosing Indo-Greeks for any NW coinage question.
+
+</details>
+
+---
+
+**Q35. UP Lower Sub Prelims 2004**
+
+Regular gold coins were issued by the —
+
+A. Shungas
+B. Satavahanas
+C. Kushanas
+D. Kanvas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same gold breakthrough as Vima–Kanishka line; other listed houses lack regular gold.
+
+**Ans: C.** Regular gold coins were issued by the **Kushanas**.
+
+**Trap:** Crediting Satavahanas from Deccan prosperity without gold tradition.
+
+</details>
+
+---
+
+**Q36. UPPCS Prelims 2017**
+
+Match List-I with List-II and select the correct answer:
+
+| List-I | List-II |
+|--------|---------|
+| A. Gandhara Art | 1. Menander |
+| B. Junagarh inscription | 2. Kushanas |
+| C. *Milindapanho* | 3. Patika |
+| D. Taxila copper inscription | 4. Rudradaman |
+
+*Row order is not the answer code.*
+
+A. A-1, B-4, C-2, D-3
+B. A-2, B-3, C-1, D-4
+C. A-2, B-4, C-1, D-3
+D. A-4, B-2, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art school, Saka prasasti, Indo-Greek dialogue text, and Patika / Taxila record.
+
+**Ans: C.** Gandhara Art–Kushanas; Junagarh–Rudradaman; *Milindapanho*–Menander; Taxila inscription–Patika.
+
+**Trap:** Assigning Gandhara Art only to Indo-Greeks and *Milindapanho* to Kushanas.
+
+</details>
+
+---
+
+**Q37. UP Lower Sub Prelims 1998**
+
+Given below are two statements:
+
+**Assertion (A):** The Kushanas traded via the Persian Gulf and the Red Sea.
+
+**Reason (R):** The Kushanas maintained a well-organised navy.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A reflects overland–maritime trade links of the Kushan age; R overstates a standing navy as the explanation.
+
+**Ans: C.** **A is true, R is false.**
+
+**Trap:** Assuming every long-distance trade power must have a “well-organised navy.”
+
+</details>
+
+---
+
+### UKPCS
+
+**Q38. UKPCS Prelims 2010 / UPPCS Mains 2008**
+
+Ashvaghosa was a contemporary of —
+
+A. Ashoka
+B. Menander
+C. Kanishka
+D. Harsha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Buddhist poet–philosopher of Kanishka’s court / age.
+
+**Ans: C.** Ashvaghosa was a contemporary of **Kanishka**.
+
+**Trap:** Pairing him with Ashoka because both are “Buddhist age” celebrities.
+
+</details>
+
+---
+
+**Q39. UK UDA/LDA Mains 2006**
+
+Which dynasty / dynasties expanded outside India?
+
+1. Maurya
+2. Gupta
+3. Kushan
+4. Shunga
+
+A. 1 only
+B. 1 and 3
+C. 3 only
+D. 2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Extra-Indian reach — Mauryan NW / Seleucid frontier and Kushan Central Asian empire; some keys accept both.
+
+**Ans: B.** **Maurya and Kushan** (both accepted in some keys; Kushan is the clearest “outside India” empire fact here).
+
+**Trap:** Limiting the answer to Gupta “foreign campaigns” rhetoric without Central Asian base.
+
+</details>
+
+---
+
+**Q40. UKPCS Prelims 2021**
+
+The gold–silver ratio in the Saka–Kshatrapa period was —
+
+A. 1 : 12
+B. 1 : 16
+C. 1 : 35
+D. 1 : 40
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Monetary metrology hit from Saka–Kshatrapa studies used in UKPCS keys.
+
+**Ans: C.** The ratio is **1 : 35**.
+
+**Trap:** Importing later medieval ratios (12/16) into the Saka period.
+
+</details>
+
+---
+
+**Q41. UK UDA/LDA Mains 2006**
+
+Which Purana gives the longest list of Andhra Satavahana kings?
+
+A. Vayu Purana
+B. Vishnu Purana
+C. Matsya Purana
+D. Bhagavata Purana
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Puranic king-list comparison — Matsya preserves the fullest Andhra / Satavahana sequence.
+
+**Ans: C.** The longest list is in the **Matsya Purana**.
+
+**Trap:** Choosing Vayu / Vishnu because they are strong on other dynasties.
+
+</details>
+
+---
+### Years with zero extra hits in local `pyq/` folder
+
+**2024, 2022, 2020, 2019** — no further GS-I hit that maps to Shunga / Satavahana / Kushan / Sangam after keyword search beyond the banked set.
+**Out of boundary:** 2022 Chandragupta **II** Shaka silver is Gupta, not Kushan/Shaka-dynasty. 2020 mahajanapada capitals are the sixth-century list. Indo-Greek campaign detail sits with Alexander–Menander in Topic 6. Periplus anonymous author also in Economy Topic 12.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
@@ -1682,922 +2598,6 @@ D. 1 and 4 only
 **Trap:** Mixing Coromandel Chola–Pandya ports into a “western coast” list.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 8)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q121**
-
-Match List-I with List-II and choose the correct answer using the code given below.
-
-List-I (Ruler): A. Mahendravarman I B. Kadungon C. Amoghavarsha I D. Rajaraja I
-List-II (Dynasty): 1. Rashtrakuta 2. Pallava 3. Chola 4. Pandya
-
-A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 2 4 1 3.**
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q2. UPPCS Prelims 2023, Q23**
-
-With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
-
-A. Greeks — Sakas — Kushans
-B. Greeks — Kushans — Sakas
-C. Sakas — Greeks — Kushans
-D. Sakas — Kushans — Greeks
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Greeks — Sakas — Kushans.
-
-</details>
-
-**Q3. UPPCS Prelims 2023, Q24**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nagasena.** Milinda = Menander.
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q4. UPPCS Prelims 2021, Q52**
-
-With reference to the Satavahana Rulers which of the following statement/s is/are true?
-
-1. The Satavahana Kings were the nurturers of Prakrit language.
-2. Public aspect of the arts got more encouragement during the Satavahana period.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both 1 and 2.**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q5. UPPCS Prelims 2018, Q16**
-
-The inscription of Hathigumpha is the source of information about which king?
-
-A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Kharavela.**
-
-</details>
-
-**Q6. UPPCS Prelims 2018, Q91**
-
-Which of the following inscriptions gives the information about two Ashwamedha Yajnas performed by the King Pushyamitra Shung?
-
-A. Saranath inscription
-B. Besnagar inscription
-C. Ayodhya inscription
-D. Hathigumpha inscription
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Ayodhya.**
-
-</details>
-
----
-
-### Complete PYQ Bank — older UPPCS / RO / Lower / UKPCS (Post-Mauryan)
-
-**Q7. UPPCS (R.I.) 2014**
-
-Which Indo-Greek ruler issued lead coins?
-
-A. Strato II
-B. Menander
-C. Demetrius
-D. Apollodotus
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rare metal hit in Indo-Greek coinage — lead issues are linked to late Strato II.
-
-**Ans: A.** Lead coins are associated with **Strato II**.
-
-**Trap:** Defaulting to **Menander** for any Indo-Greek coin question.
-
-</details>
-
----
-
-**Q8. UPPCS Mains 2017**
-
-Figures of Sankarshana and Vasudeva appear on the coins of —
-
-A. Menander
-B. Kanishka
-C. Rudradaman
-D. Agathocles
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Early Indo-Greek Bactrian issues showing Indian Vaishnava deities.
-
-**Ans: D.** Sankarshana and Vasudeva appear on coins of **Agathocles**.
-
-**Trap:** Linking every Vaishnava coin image to later Kushana or Saka rulers.
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 1997**
-
-The earliest specimen of *kavya* style in an inscription is associated with —
-
-A. Rudradaman of Kathiawar (Junagadh)
-B. Ashoka
-C. Kharavela
-D. Samudragupta
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Literary Sanskrit prose of the Junagadh / Girnar prasasti is the classic early *kavya* inscription sample.
-
-**Ans: A.** The earliest *kavya*-style specimen is the inscription of **Rudradaman of Kathiawar**.
-
-**Trap:** Crediting Ashokan Prakrit edicts with classical Sanskrit *kavya* style.
-
-</details>
-
----
-
-**Q10. UPPCS Prelims 2014**
-
-Who renovated the Sudarshan lake without using forced labour?
-
-A. Chandragupta Maurya
-B. Ashoka
-C. Skandagupta
-D. Rudradaman I
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Junagadh text — Rudradaman repaired Sudarshana from his own resources, without *vishti*.
-
-**Ans: D.** The renovation without forced labour is by **Rudradaman I**.
-
-**Trap:** Answering the original Mauryan constructor instead of the Saka renovator.
-
-</details>
-
----
-
-**Q11. UPPCS Prelims 2015**
-
-Who introduced gold coins for regular use in India?
-
-A. Vima Kadphises
-B. Kujula Kadphises
-C. Kanishka
-D. Menander
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kushan monetary shift — Vima Kadphises begins substantial / regular gold issues.
-
-**Ans: A.** Regular gold coinage is linked to **Vima Kadphises**.
-
-**Trap:** Giving the credit to **Kanishka** because of later abundant gold types.
-
-</details>
-
----
-
-**Q12. UPPCS Mains 2009**
-
-Who was the first in the Kushan line to issue gold coins?
-
-A. Kujula Kadphises
-B. Vima Kadphises
-C. Kanishka
-D. Huvishka
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same Vima gold breakthrough asked in Mains wording as “first” in the dynasty line.
-
-**Ans: B.** The first gold issuer in the Kushan line is **Vima Kadphises**.
-
-**Trap:** Choosing founder **Kujula** for “first” without checking metal.
-
-</details>
-
----
-
-**Q13. UPPCS Prelims 2010**
-
-The Buddha is depicted on the coins of —
-
-A. Menander
-B. Kanishka
-C. Rudradaman
-D. Gautamiputra Satakarni
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kanishka’s gold/copper types include standing Buddha and related Buddhist images.
-
-**Ans: B.** Buddha appears on coins of **Kanishka**.
-
-**Trap:** Choosing **Menander** because of *Milindapanho* Buddhism without coin Buddha types as the stem asks.
-
-</details>
-
----
-
-**Q14. UPPCS Special Mains 2008**
-
-Which deity appears on the coins of the Yaudheyas?
-
-A. Shiva
-B. Vishnu
-C. Surya
-D. Kartikeya
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tribal republic coinage of Punjab–Haryana belt centred on Kartikeya / Brahmanyadeva.
-
-**Ans: D.** Yaudheya coins feature **Kartikeya**.
-
-**Trap:** Assigning Shiva from neighbouring Kuninda / other tribal issues.
-
-</details>
-
----
-
-**Q15. UPPCS Prelims 2014**
-
-The Sarnath Buddhist image inscription of Kanishka is dated to —
-
-A. 78 A.D.
-B. 81 A.D.
-C. 100 A.D.
-D. 120 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dated Kanishka-era Buddhist image record at Sarnath — **81 A.D.** in standard keys.
-
-**Ans: B.** The inscription is dated to **81 A.D.**
-
-**Trap:** Confusing the image date with the era epoch **78 A.D.**
-
-</details>
-
----
-
-**Q16. UPPCS Prelims 1991**
-
-The coronation of Kanishka is placed in —
-
-A. 57 B.C.
-B. 58 A.D.
-C. 68 A.D.
-D. 78 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Conventional start of Kanishka’s reign / Saka era epoch used in older papers.
-
-**Ans: D.** Coronation is placed in **78 A.D.**
-
-**Trap:** Mixing Vikrama epoch (**57 B.C.**) with Saka / Kanishka dating.
-
-</details>
-
----
-
-**Q17. UP RO/ARO Mains 2013 / UPPCS Prelims 1990**
-
-The Saka Samvat begins in —
-
-A. 57 B.C.
-B. 78 A.D.
-C. 319 A.D.
-D. 606 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Official Saka era start vs Vikrama and Gupta eras.
-
-**Ans: B.** Saka Samvat begins in **78 A.D.**
-
-**Trap:** Answering Vikrama (**57 B.C.**) or Gupta (**c. 319 A.D.**).
-
-</details>
-
----
-
-**Q18. UP UDA/LDA Prelims 2006**
-
-The difference between Vikrama Samvat and Saka Samvat is —
-
-A. 57 years
-B. 78 years
-C. 135 years
-D. 320 years
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 78 − (−57) reckoning gap → **135** years between the two era starts.
-
-**Ans: C.** The difference is **135 years**.
-
-**Trap:** Quoting either epoch year (57 or 78) as the “difference.”
-
-</details>
-
----
-
-**Q19. UPPCS Prelims 1992**
-
-Vikrama Samvat starts in —
-
-A. 78 A.D.
-B. 57 B.C.
-C. 58 A.D.
-D. 248 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Traditional Vikrama epoch linked to 57 B.C.
-
-**Ans: B.** Vikrama Samvat starts in **57 B.C.**
-
-**Trap:** Swapping it with Saka **78 A.D.**
-
-</details>
-
----
-
-**Q20. UPPCS Mains 2007**
-
-If the Christian year is December 2009, the corresponding Saka year is —
-
-A. 1931
-B. 1932
-C. 1866
-D. 2087
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Saka year ≈ Gregorian year − 78 (with Chaitra/New Year caveats; key uses 2009 − 78 = 1931).
-
-**Ans: A.** The Saka year is **1931**.
-
-**Trap:** Using Vikrama conversion (year + 57) instead of Saka − 78.
-
-</details>
-
----
-
-**Q21. UPPCS Prelims 1994**
-
-Which of the following were contemporaries of Kanishka?
-
-1. Ashvaghosa
-2. Vasumitra
-3. Kalidasa
-4. Kamban
-
-A. 1 and 3 only
-B. 2 and 4 only
-C. 1 and 2 only
-D. 1, 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Court / council names of Kanishka’s age vs much later classical poets.
-
-**Ans: C.** Contemporaries are **Ashvaghosa** and **Vasumitra** (I and II).
-
-**Trap:** Dragging **Kalidasa** into every “golden age of Buddhism / Sanskrit” list.
-
-</details>
-
----
-
-**Q22. UP Lower Special Prelims 2008**
-
-Who among the following was **not** associated with the court of Kanishka?
-
-A. Ashvaghosa
-B. Vasumitra
-C. Charaka
-D. Patanjali
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Negative association — Patanjali belongs to the Shunga / early post-Mauryan milieu, not Kanishka’s court.
-
-**Ans: D.** **Patanjali** was not associated with Kanishka’s court.
-
-**Trap:** Keeping Charaka out instead, though medical tradition is often linked to the Kushan age in older keys.
-
-</details>
-
----
-
-**Q23. UPPCS Mains 2005**
-
-Who did **not** adorn the court of Kanishka?
-
-A. Ashvaghosa
-B. Nagarjuna
-C. Charaka
-D. Vishakhadatta
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** *Mudrarakshasa* author is far later / different political setting than Kanishka’s court.
-
-**Ans: D.** **Vishakhadatta** did not adorn Kanishka’s court.
-
-**Trap:** Removing **Nagarjuna** because of debated dating while the clear odd-one-out is Vishakhadatta.
-
-</details>
-
----
-
-**Q24. UP RO/ARO Mains 2014**
-
-Which city is **not** mentioned in the Rabatak inscription of Kanishka?
-
-A. Shravasti
-B. Kausambi
-C. Pataliputra
-D. Champa
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rabatak lists several Indian cities under Kushan control; Shravasti is the odd name in the asked set.
-
-**Ans: A.** **Shravasti** is not in the Rabatak list as framed by this stem.
-
-**Trap:** Eliminating Pataliputra because it feels “too eastern” for Kushans.
-
-</details>
-
----
-
-**Q25. UPPCS Prelims 2018**
-
-The inscription that mentions two Ashwamedha sacrifices of Pushyamitra is from —
-
-A. Sanchi
-B. Bharhut
-C. Ayodhya
-D. Vidisha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ayodhya stone inscription of Dhanadeva refers to Pushyamitra’s two Ashwamedhas.
-
-**Ans: C.** The record is from **Ayodhya**.
-
-**Trap:** Choosing Sanchi / Vidisha from Shunga art geography.
-
-</details>
-
----
-
-**Q26. UPPCS Special Mains 2008**
-
-Simuka was the founder of which dynasty?
-
-A. Kanva
-B. Chedi
-C. Ikshvaku
-D. Satavahana
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Early Satavahana / Andhra founder in Puranic lists.
-
-**Ans: D.** Simuka founded the **Satavahana** dynasty.
-
-**Trap:** Confusing him with Kanva founders after the Shungas.
-
-</details>
-
----
-
-**Q27. UP RO/ARO Prelims 2016**
-
-The title *Ekabrahmana* was used for —
-
-A. Vashishthiputra Pulumavi
-B. Simuka
-C. Gautamiputra Satakarni
-D. Yajnasri Satakarni
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Nasik / Gautami Balashri prasasti praise — *Ekabrahmana* for Gautamiputra Satakarni.
-
-**Ans: C.** *Ekabrahmana* refers to **Gautamiputra Satakarni**.
-
-**Trap:** Assigning the title to later Satavahana kings named in the same family prasastis.
-
-</details>
-
----
-
-**Q28. UP RO/ARO Prelims 2016**
-
-Which of the following pairs is **NOT** correctly matched?
-
-A. Shungas — Revival of Brahmanism
-B. Kushanas — Gold coins
-C. Satavahanas — Gold coins
-D. Sakas — Western India
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NOT matched — Satavahanas are known for lead / potin / silver, not a gold-coin tradition.
-
-**Ans: C.** **Satavahanas–Gold** is not correctly matched.
-
-**Trap:** Marking Kushanas–Gold as wrong despite that being the famous pair.
-
-</details>
-
----
-
-**Q29. UPPCS Prelims 2020**
-
-In the Puranas, the term *Shriparvatiya* refers to —
-
-A. Satavahanas
-B. Ikshvakus
-C. Vakatakas
-D. Pallavas
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Puranic label for the Ikshvakus of the Nagarjunakonda / Sriparvata region.
-
-**Ans: B.** *Shriparvatiya* denotes the **Ikshvakus**.
-
-**Trap:** Reading the name as a Satavahana synonym because of Andhra geography.
-
-</details>
-
----
-
-**Q30. UPPCS Prelims 2022**
-
-The Buddhist site known for a platform with *Aryaka* pillars is —
-
-A. Sanchi
-B. Bharhut
-C. Sarnath
-D. Amaravati
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Amaravati stupa architecture — *aryaka* pillar platforms at the cardinal points.
-
-**Ans: D.** The platform with Aryaka pillars is at **Amaravati**.
-
-**Trap:** Choosing Sanchi for any early stupa architectural feature.
-
-</details>
-
----
-
-**Q31. UPPCS Mains 2015 / Special 2008**
-
-Kharavela belonged to which dynasty?
-
-A. Chedi
-B. Satavahana
-C. Kanva
-D. Mahameghavahana only without Chedi link
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hathigumpha identity — Kharavela of the Chedi / Mahameghavahana line of Kalinga.
-
-**Ans: A.** Kharavela’s dynasty is **Chedi**.
-
-**Trap:** Calling him a Satavahana because of Deccan–Kalinga conflicts in the same century.
-
-</details>
-
----
-
-**Q32. UPPCS Prelims 2018**
-
-The Hathigumpha inscription informs us about —
-
-A. Kharavela
-B. Ashoka
-C. Rudradaman
-D. Gautamiputra Satakarni
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Udayagiri–Khandagiri Prakrit prasasti of Kalinga’s Kharavela.
-
-**Ans: A.** Hathigumpha informs about **Kharavela**.
-
-**Trap:** Linking every “gumpha / cave” record to Ashoka or Ajivikas.
-
-</details>
-
----
-
-**Q33. UP RO/ARO Mains 2017**
-
-Match List-I with List-II and select the correct answer:
-
-| List-I (Ruler) | List-II (Identity) |
-|----------------|--------------------|
-| A. Demetrius | 1. Scythian |
-| B. Rudradaman | 2. Indo-Greek |
-| C. Gondophernes | 3. Kushan |
-| D. Vima Kadphises | 4. Parthian |
-
-*Row order is not the answer code.*
-
-A. A-1, B-2, C-3, D-4
-B. A-2, B-1, C-3, D-4
-C. A-2, B-1, C-4, D-3
-D. A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dynasty identity match — Indo-Greek, Western Saka (Scythian), Indo-Parthian, Kushan.
-
-**Ans: C.** Demetrius = Indo-Greek; Rudradaman = Scythian; Gondophernes = Parthian; Vima = Kushan.
-
-**Trap:** Swapping Gondophernes (Parthian) with Vima (Kushan).
-
-</details>
-
----
-
-**Q34. UPPCS Prelims 2005**
-
-Who issued the largest copper coins in north / north-western India among the options?
-
-A. Indo-Greeks
-B. Kushanas
-C. Satavahanas
-D. Shungas
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Heavy Kushan copper issues dominate NW finds relative to Indo-Greek silver preference.
-
-**Ans: B.** The largest copper coins are associated with the **Kushanas**.
-
-**Trap:** Choosing Indo-Greeks for any NW coinage question.
-
-</details>
-
----
-
-**Q35. UP Lower Sub Prelims 2004**
-
-Regular gold coins were issued by the —
-
-A. Shungas
-B. Satavahanas
-C. Kushanas
-D. Kanvas
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same gold breakthrough as Vima–Kanishka line; other listed houses lack regular gold.
-
-**Ans: C.** Regular gold coins were issued by the **Kushanas**.
-
-**Trap:** Crediting Satavahanas from Deccan prosperity without gold tradition.
-
-</details>
-
----
-
-**Q36. UPPCS Prelims 2017**
-
-Match List-I with List-II and select the correct answer:
-
-| List-I | List-II |
-|--------|---------|
-| A. Gandhara Art | 1. Menander |
-| B. Junagarh inscription | 2. Kushanas |
-| C. *Milindapanho* | 3. Patika |
-| D. Taxila copper inscription | 4. Rudradaman |
-
-*Row order is not the answer code.*
-
-A. A-1, B-4, C-2, D-3
-B. A-2, B-3, C-1, D-4
-C. A-2, B-4, C-1, D-3
-D. A-4, B-2, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Art school, Saka prasasti, Indo-Greek dialogue text, and Patika / Taxila record.
-
-**Ans: C.** Gandhara Art–Kushanas; Junagarh–Rudradaman; *Milindapanho*–Menander; Taxila inscription–Patika.
-
-**Trap:** Assigning Gandhara Art only to Indo-Greeks and *Milindapanho* to Kushanas.
-
-</details>
-
----
-
-**Q37. UP Lower Sub Prelims 1998**
-
-Given below are two statements:
-
-**Assertion (A):** The Kushanas traded via the Persian Gulf and the Red Sea.
-
-**Reason (R):** The Kushanas maintained a well-organised navy.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A reflects overland–maritime trade links of the Kushan age; R overstates a standing navy as the explanation.
-
-**Ans: C.** **A is true, R is false.**
-
-**Trap:** Assuming every long-distance trade power must have a “well-organised navy.”
-
-</details>
-
----
-
-### UKPCS
-
-**Q38. UKPCS Prelims 2010 / UPPCS Mains 2008**
-
-Ashvaghosa was a contemporary of —
-
-A. Ashoka
-B. Menander
-C. Kanishka
-D. Harsha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Buddhist poet–philosopher of Kanishka’s court / age.
-
-**Ans: C.** Ashvaghosa was a contemporary of **Kanishka**.
-
-**Trap:** Pairing him with Ashoka because both are “Buddhist age” celebrities.
-
-</details>
-
----
-
-**Q39. UK UDA/LDA Mains 2006**
-
-Which dynasty / dynasties expanded outside India?
-
-1. Maurya
-2. Gupta
-3. Kushan
-4. Shunga
-
-A. 1 only
-B. 1 and 3
-C. 3 only
-D. 2 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Extra-Indian reach — Mauryan NW / Seleucid frontier and Kushan Central Asian empire; some keys accept both.
-
-**Ans: B.** **Maurya and Kushan** (both accepted in some keys; Kushan is the clearest “outside India” empire fact here).
-
-**Trap:** Limiting the answer to Gupta “foreign campaigns” rhetoric without Central Asian base.
-
-</details>
-
----
-
-**Q40. UKPCS Prelims 2021**
-
-The gold–silver ratio in the Saka–Kshatrapa period was —
-
-A. 1 : 12
-B. 1 : 16
-C. 1 : 35
-D. 1 : 40
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Monetary metrology hit from Saka–Kshatrapa studies used in UKPCS keys.
-
-**Ans: C.** The ratio is **1 : 35**.
-
-**Trap:** Importing later medieval ratios (12/16) into the Saka period.
-
-</details>
-
----
-
-**Q41. UK UDA/LDA Mains 2006**
-
-Which Purana gives the longest list of Andhra Satavahana kings?
-
-A. Vayu Purana
-B. Vishnu Purana
-C. Matsya Purana
-D. Bhagavata Purana
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Puranic king-list comparison — Matsya preserves the fullest Andhra / Satavahana sequence.
-
-**Ans: C.** The longest list is in the **Matsya Purana**.
-
-**Trap:** Choosing Vayu / Vishnu because they are strong on other dynasties.
-
-</details>
-
----
-### Years with zero extra hits in local `pyq/` folder
-
-**2024, 2022, 2020, 2019** — no further GS-I hit that maps to Shunga / Satavahana / Kushan / Sangam after keyword search beyond the banked set.
-**Out of boundary:** 2022 Chandragupta **II** Shaka silver is Gupta, not Kushan/Shaka-dynasty. 2020 mahajanapada capitals are the sixth-century list. Indo-Greek campaign detail sits with Alexander–Menander in Topic 6. Periplus anonymous author also in Economy Topic 12.
 
 ---
 

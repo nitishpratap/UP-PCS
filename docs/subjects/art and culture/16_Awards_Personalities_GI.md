@@ -281,6 +281,96 @@ D. 3 2 4 1
 
 ---
 
+## Complete PYQ Bank (Topic 16)
+
+**Q1. UPPCS Prelims 2025, Q20**
+
+With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
+
+1. Yuva Puraskar was announced in 23 Indian languages.
+2. There is no Yuva Puraskar in Dogri this year.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Both 1 and 2.**
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q148**
+
+With reference to Jnanpith Award, which of the following statements is/are correct?
+
+1. The 58th Jnanpith Award was conferred upon Sanskrit scholar Jagadguru Rambhadracharya Ji.
+2. The first Jnanpith Award was given in 1965.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Both 1 and 2.** Trust = Bharatiya Jnanpith. First winner = G. Sankara Kurup.
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q96**
+
+Match List-I with List-II and select the correct answer using the code given below.
+
+**List-I (Field)**
+A. Trade and Industry
+B. Literature and Education
+C. Medicine
+D. Art
+
+**List-II (Awardee, 2025)**
+1. Shri Lakshminarayanan Subramaniam
+2. Shri Osamu Suzuki
+3. Shri M. T. Vasudevan Nair
+4. Shri D. Nageshwar Reddy
+
+A. 3 2 1 4
+B. 2 3 4 1
+C. 2 3 1 4
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Art = L. Subramaniam. Literature = M. T. Vasudevan Nair.
+
+</details>
+
+**Q4. UPPCS Prelims 2023, Q76**
+
+Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?
+
+A. Anita Desai
+B. Anuradha Roy
+C. Shobha De
+D. Sudha Murthy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Anuradha Roy.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **32 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -881,96 +971,6 @@ D. (A) is false, but (R) is true
 <summary>Show answer</summary>
 
 **Ans: C.** Dogri **is** recognised. That year simply had **no award** in Dogri.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 16)
-
-**Q1. UPPCS Prelims 2025, Q20**
-
-With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
-
-1. Yuva Puraskar was announced in 23 Indian languages.
-2. There is no Yuva Puraskar in Dogri this year.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both 1 and 2.**
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q148**
-
-With reference to Jnanpith Award, which of the following statements is/are correct?
-
-1. The 58th Jnanpith Award was conferred upon Sanskrit scholar Jagadguru Rambhadracharya Ji.
-2. The first Jnanpith Award was given in 1965.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both 1 and 2.** Trust = Bharatiya Jnanpith. First winner = G. Sankara Kurup.
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q96**
-
-Match List-I with List-II and select the correct answer using the code given below.
-
-**List-I (Field)**
-A. Trade and Industry
-B. Literature and Education
-C. Medicine
-D. Art
-
-**List-II (Awardee, 2025)**
-1. Shri Lakshminarayanan Subramaniam
-2. Shri Osamu Suzuki
-3. Shri M. T. Vasudevan Nair
-4. Shri D. Nageshwar Reddy
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 3 1 4
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Art = L. Subramaniam. Literature = M. T. Vasudevan Nair.
-
-</details>
-
-**Q4. UPPCS Prelims 2023, Q76**
-
-Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?
-
-A. Anita Desai
-B. Anuradha Roy
-C. Shobha De
-D. Sudha Murthy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Anuradha Roy.**
 
 </details>
 

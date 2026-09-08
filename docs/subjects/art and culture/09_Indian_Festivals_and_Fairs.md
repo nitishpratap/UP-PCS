@@ -356,6 +356,67 @@ D. Neither 1 nor 2
 
 ---
 
+## Complete PYQ Bank (Topic 9)
+
+**UPPCS Prelims 2025, Q97**
+
+In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
+
+1. Rajasthan
+2. Uttar Pradesh
+3. Uttarakhand
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Only 3.** Keshav Prayag, Mana, Uttarakhand. Not the Rajasthan camel fair. Not UP.
+
+</details>
+
+**UPPCS Prelims 2023, Q87**
+
+With reference to the **SCO Film Festival–2023**, which of the following statement(s) is/are correct?
+
+1. The SCO Film Festival is being held during India's Presidency of the Shanghai Cooperation Organisation.
+2. The SCO Film Festival showcases films from SCO member countries.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mumbai, 27–31 Jan 2023. I&B / NFDC.
+
+</details>
+
+**UPPCS Prelims 2021, Q39**
+
+The 'Saras Ajeevika Mela - 2021' was organised in which of the following city?
+
+A. Patna
+B. Raipur
+C. Lucknow
+D. Noida
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Noida.**
+
+</details>
+
+**Related fact, not banked as a festival PYQ:** UPPCS **2024 Q56** Cannes Best Actress (Anasuya Sengupta) is international cinema CA, not this chapter. **2021 Q120** Azadi ka Amrit Mahotsav / Ram Prasad Bismil is modern-history CA.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1104,67 +1165,6 @@ D. 1, 2 and 3
 **Ans: D.**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 9)
-
-**UPPCS Prelims 2025, Q97**
-
-In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
-
-1. Rajasthan
-2. Uttar Pradesh
-3. Uttarakhand
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 3.** Keshav Prayag, Mana, Uttarakhand. Not the Rajasthan camel fair. Not UP.
-
-</details>
-
-**UPPCS Prelims 2023, Q87**
-
-With reference to the **SCO Film Festival–2023**, which of the following statement(s) is/are correct?
-
-1. The SCO Film Festival is being held during India's Presidency of the Shanghai Cooperation Organisation.
-2. The SCO Film Festival showcases films from SCO member countries.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Mumbai, 27–31 Jan 2023. I&B / NFDC.
-
-</details>
-
-**UPPCS Prelims 2021, Q39**
-
-The 'Saras Ajeevika Mela - 2021' was organised in which of the following city?
-
-A. Patna
-B. Raipur
-C. Lucknow
-D. Noida
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Noida.**
-
-</details>
-
-**Related fact, not banked as a festival PYQ:** UPPCS **2024 Q56** Cannes Best Actress (Anasuya Sengupta) is international cinema CA, not this chapter. **2021 Q120** Azadi ka Amrit Mahotsav / Ram Prasad Bismil is modern-history CA.
 
 ---
 

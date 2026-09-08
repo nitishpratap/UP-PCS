@@ -891,6 +891,463 @@ D. Centre-State relations
 
 ---
 
+## Complete PYQ Bank (Topic 11)
+
+### 2025
+
+**Q0. UPPCS Prelims 2025, Q11**
+With reference to creation of new All India Service, which of the following statements is/are correct?
+1. In the national interest, the Rajya Sabha can pass a resolution for creation of new All India Service.
+2. The resolution for creation of new All India Service must be passed by the Rajya Sabha by two-third majority of the total members of the House.
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Only 1.** Art. 312 = **2/3 present and voting**.
+
+</details>
+
+**Q0b. UPPCS Prelims 2025, Q64**
+
+Match List-I (Finance Commission) with List-II (Chairman):
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Eleventh |
+| B | Twelfth |
+| C | Thirteenth |
+| D | Fourteenth |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | C. Rangarajan |
+| 2 | Y.V. Reddy |
+| 3 | A.M. Khusro |
+| 4 | Vijay L. Kelkar |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-3, B-1, C-4, D-2
+B. A-2, B-3, C-4, D-1
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q0c. UPPCS Prelims 2025, Q113**
+
+Match List-I (Schedule) with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Seventh |
+| B | Eighth |
+| C | Ninth |
+| D | Tenth |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Language |
+| 2 | Defection |
+| 3 | Union, State and Concurrent Lists |
+| 4 | Validation of certain Acts |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-3, B-1, C-2, D-4
+B. A-3, B-1, C-4, D-2
+C. A-2, B-3, C-4, D-4
+D. A-4, B-2, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 7th = lists, 8th = languages, 9th = validation, 10th = defection.
+
+</details>
+
+### 2024
+
+**Q1. UPPCS Prelims 2024, Q45**
+GST in India was introduced through which Constitutional Amendment Act?
+A. 101st
+B. 91st
+C. 86th
+D. 73rd
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q102**
+
+Match List-I with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Consolidated Fund of India |
+| B | Finance Commission |
+| C | Financial Emergency |
+| D | CAG |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Art. 266 |
+| 2 | Art. 360 |
+| 3 | Art. 280 |
+| 4 | Art. 148 |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-3, B-1, C-2, D-4
+B. A-4, B-1, C-3, D-2
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 266, 280, 360, 148.
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q125**
+Which one of the following is correctly matched?
+A. Election Commission — Article 165
+B. National Commission for Scheduled Castes — Article 148
+C. Finance Commission — Article 263
+D. National Commission for Backward Classes — Article 340
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** FC = **280**, not 263. 165 = Advocate General. 148 = CAG. NCSC = **338**.
+
+</details>
+
+**Q4. UPPCS Prelims 2024, Q143**
+The Concurrent list of the Indian Constitution includes:
+1. Trade and Commerce
+2. Adulteration of Goods
+3. Succession
+A. 1 and 3
+B. 1, 2 and 3
+C. Only 1
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2023
+
+**Q5. UPPCS Prelims 2023, Q2**
+
+Match List-I with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Art. 324 |
+| B | Art. 315 |
+| C | Art. 280 |
+| D | Art. 338 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | NCSC |
+| 2 | Finance Commission |
+| 3 | Public Service Commission |
+| 4 | Election Commission |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-3, B-2, C-4, D-1
+B. A-4, B-3, C-2, D-1
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q10**
+
+With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
+
+1. Finance Commission has a Chairman and six members.
+2. It submits its report to the NITI Aayog.
+
+A. Only 2
+
+B. Both 1 and 2
+
+C. Only 1
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2022
+
+**Q7. UPPCS Prelims 2022, Q89**
+
+Match List-I (Schedule) with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Third |
+| B | Fourth |
+| C | Seventh |
+| D | Eighth |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Allocation of seats in the Council of States |
+| 2 | Forms of oath |
+| 3 | Languages |
+| 4 | List of subject-matter of laws of Parliament and State Legislatures |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-4, B-3, C-1, D-2
+B. A-3, B-4, C-2, D-1
+C. A-2, B-1, C-4, D-3
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### 2021
+
+**Q8. UPPCS Prelims 2021, Q61**
+The primary duty of the Finance Commission of India is
+A. To give the recommendations on distribution of tax revenue between the Union and States
+B. To prepare the Union Annual Budget
+C. To advise the President on financial matters
+D. To allocate funds to various Ministries/Departments of the Union and State Governments
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q9. UPPCS Prelims 2021, Q68**
+Who among the following was the Chairman of the First Finance Commission of India?
+A. Shri Santhanam
+B. Shri K.C. Neogy
+C. Dr. Raj Mannar
+D. Shri A.K. Chanda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q10. UPPCS Prelims 2021, Q88Assertion (A):** The President of India determines the qualifications of the Chairman and Members of the Finance Commission.
+
+**Reason (R):** Chairman and members are appointed by the President of India.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, (R) does not explain (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q11. UPPCS Prelims 2021, Q110**
+Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST?
+A. 101st
+B. 102nd
+C. 103rd
+D. 104th
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### 2020
+
+**Q12. UPPCS Prelims 2020, Q102**
+Which one of the following pairs is NOT correctly matched?
+A. Interstate Council — Article 263
+B. Finance Commission — Article 280
+C. Administrative Tribunal — Article 323A
+D. Union Public Service Commission — Article 315
+
+<details>
+<summary>Show answer</summary>
+
+**Article facts (all four as printed are the right articles):** ISC **263** · FC **280** · CAT **323A** · UPSC **315**. (Some dumps of this Q are messy — do not overfit a “wrong” letter.)
+
+</details>
+
+### 2019
+
+**Q13. UPPCS Prelims 2019, Q28**
+Which of the following is NOT correctly matched?
+A. Public Health and Sanitation — State List
+B. Census — Union List
+C. Allocation of seats in the Council of States — Second Schedule
+D. Anti-Defection — Tenth Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — **Fourth** Schedule, not Second.
+
+</details>
+
+### 2018
+
+**Q14. UPPCS Prelims 2018, Q69**
+Which of the following is an extra-constitutional agency?
+A. UPSC
+B. Finance Commission
+C. Election Commission
+D. NITI Aayog
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q15. UPPCS Prelims 2018, Q72**
+The Council of States has exclusive powers in relation to which of the following?
+A. To initiate proceedings for the removal of the President
+B. To initiate proceedings for the removal of a judge of the Supreme Court
+C. To recommend creation of a new All India Service
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q16. UPPCS Prelims 2021, Q8**
+On the recommendation of which Commission/Committee, the Inter-state Council was set up in India?
+A. Punchhi Commission
+B. Rajmannar Committee
+C. Kothari Committee
+D. Sarkaria Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Sarkaria (1990).** Rajamannar asked in 1969; Punchhi is later.
+
+</details>
+
+**Q17. UPPCS Prelims 2018, Q70**
+The recommendations of Sarkaria Commission relate to which of the following?
+A. Distribution of revenue
+B. Power and functions of the President
+C. Membership of Parliament
+D. Centre-State relations
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q18. UPPCS Prelims 2022, Q133**
+Who among the following signed the agreement to resolve the Assam–Meghalaya border dispute in March 2022?
+A. Home Secretary of India and Chief Secretaries of Assam and Meghalaya
+B. Home Secretary of India and Director Generals of Police of Assam and Meghalaya
+C. Chief Ministers of Assam and Meghalaya
+D. Union Home Minister and Chief Ministers of Assam and Meghalaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q19. UPPCS Prelims 2019, Q140**
+Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?
+A. Planning Commission
+B. Disinvestment Commission
+C. NITI Aayog
+D. Finance Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — NITI.** Not the FC.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **78 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement. Q1–Q48 = legislative/admin/finance; Q49–Q78 = inter-State machinery.
@@ -2184,463 +2641,6 @@ D. NITI Aayog
 <summary>Show answer</summary>
 
 **Ans: D** — 2019 fact. FC does **not** implement SDGs.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 11)
-
-### 2025
-
-**Q0. UPPCS Prelims 2025, Q11**
-With reference to creation of new All India Service, which of the following statements is/are correct?
-1. In the national interest, the Rajya Sabha can pass a resolution for creation of new All India Service.
-2. The resolution for creation of new All India Service must be passed by the Rajya Sabha by two-third majority of the total members of the House.
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1.** Art. 312 = **2/3 present and voting**.
-
-</details>
-
-**Q0b. UPPCS Prelims 2025, Q64**
-
-Match List-I (Finance Commission) with List-II (Chairman):
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Eleventh |
-| B | Twelfth |
-| C | Thirteenth |
-| D | Fourteenth |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | C. Rangarajan |
-| 2 | Y.V. Reddy |
-| 3 | A.M. Khusro |
-| 4 | Vijay L. Kelkar |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-4, D-2
-B. A-2, B-3, C-4, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q0c. UPPCS Prelims 2025, Q113**
-
-Match List-I (Schedule) with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Seventh |
-| B | Eighth |
-| C | Ninth |
-| D | Tenth |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Language |
-| 2 | Defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-2, D-4
-B. A-3, B-1, C-4, D-2
-C. A-2, B-3, C-4, D-4
-D. A-4, B-2, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 7th = lists, 8th = languages, 9th = validation, 10th = defection.
-
-</details>
-
-### 2024
-
-**Q1. UPPCS Prelims 2024, Q45**
-GST in India was introduced through which Constitutional Amendment Act?
-A. 101st
-B. 91st
-C. 86th
-D. 73rd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q102**
-
-Match List-I with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Consolidated Fund of India |
-| B | Finance Commission |
-| C | Financial Emergency |
-| D | CAG |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Art. 266 |
-| 2 | Art. 360 |
-| 3 | Art. 280 |
-| 4 | Art. 148 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-2, D-4
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 266, 280, 360, 148.
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q125**
-Which one of the following is correctly matched?
-A. Election Commission — Article 165
-B. National Commission for Scheduled Castes — Article 148
-C. Finance Commission — Article 263
-D. National Commission for Backward Classes — Article 340
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** FC = **280**, not 263. 165 = Advocate General. 148 = CAG. NCSC = **338**.
-
-</details>
-
-**Q4. UPPCS Prelims 2024, Q143**
-The Concurrent list of the Indian Constitution includes:
-1. Trade and Commerce
-2. Adulteration of Goods
-3. Succession
-A. 1 and 3
-B. 1, 2 and 3
-C. Only 1
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2023
-
-**Q5. UPPCS Prelims 2023, Q2**
-
-Match List-I with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Art. 324 |
-| B | Art. 315 |
-| C | Art. 280 |
-| D | Art. 338 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | NCSC |
-| 2 | Finance Commission |
-| 3 | Public Service Commission |
-| 4 | Election Commission |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-2, C-4, D-1
-B. A-4, B-3, C-2, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q10**
-
-With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
-
-1. Finance Commission has a Chairman and six members.
-2. It submits its report to the NITI Aayog.
-
-A. Only 2
-
-B. Both 1 and 2
-
-C. Only 1
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2022
-
-**Q7. UPPCS Prelims 2022, Q89**
-
-Match List-I (Schedule) with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Third |
-| B | Fourth |
-| C | Seventh |
-| D | Eighth |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Allocation of seats in the Council of States |
-| 2 | Forms of oath |
-| 3 | Languages |
-| 4 | List of subject-matter of laws of Parliament and State Legislatures |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-4, B-3, C-1, D-2
-B. A-3, B-4, C-2, D-1
-C. A-2, B-1, C-4, D-3
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### 2021
-
-**Q8. UPPCS Prelims 2021, Q61**
-The primary duty of the Finance Commission of India is
-A. To give the recommendations on distribution of tax revenue between the Union and States
-B. To prepare the Union Annual Budget
-C. To advise the President on financial matters
-D. To allocate funds to various Ministries/Departments of the Union and State Governments
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9. UPPCS Prelims 2021, Q68**
-Who among the following was the Chairman of the First Finance Commission of India?
-A. Shri Santhanam
-B. Shri K.C. Neogy
-C. Dr. Raj Mannar
-D. Shri A.K. Chanda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10. UPPCS Prelims 2021, Q88Assertion (A):** The President of India determines the qualifications of the Chairman and Members of the Finance Commission.
-
-**Reason (R):** Chairman and members are appointed by the President of India.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, (R) does not explain (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q11. UPPCS Prelims 2021, Q110**
-Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST?
-A. 101st
-B. 102nd
-C. 103rd
-D. 104th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### 2020
-
-**Q12. UPPCS Prelims 2020, Q102**
-Which one of the following pairs is NOT correctly matched?
-A. Interstate Council — Article 263
-B. Finance Commission — Article 280
-C. Administrative Tribunal — Article 323A
-D. Union Public Service Commission — Article 315
-
-<details>
-<summary>Show answer</summary>
-
-**Article facts (all four as printed are the right articles):** ISC **263** · FC **280** · CAT **323A** · UPSC **315**. (Some dumps of this Q are messy — do not overfit a “wrong” letter.)
-
-</details>
-
-### 2019
-
-**Q13. UPPCS Prelims 2019, Q28**
-Which of the following is NOT correctly matched?
-A. Public Health and Sanitation — State List
-B. Census — Union List
-C. Allocation of seats in the Council of States — Second Schedule
-D. Anti-Defection — Tenth Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **Fourth** Schedule, not Second.
-
-</details>
-
-### 2018
-
-**Q14. UPPCS Prelims 2018, Q69**
-Which of the following is an extra-constitutional agency?
-A. UPSC
-B. Finance Commission
-C. Election Commission
-D. NITI Aayog
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q15. UPPCS Prelims 2018, Q72**
-The Council of States has exclusive powers in relation to which of the following?
-A. To initiate proceedings for the removal of the President
-B. To initiate proceedings for the removal of a judge of the Supreme Court
-C. To recommend creation of a new All India Service
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q16. UPPCS Prelims 2021, Q8**
-On the recommendation of which Commission/Committee, the Inter-state Council was set up in India?
-A. Punchhi Commission
-B. Rajmannar Committee
-C. Kothari Committee
-D. Sarkaria Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Sarkaria (1990).** Rajamannar asked in 1969; Punchhi is later.
-
-</details>
-
-**Q17. UPPCS Prelims 2018, Q70**
-The recommendations of Sarkaria Commission relate to which of the following?
-A. Distribution of revenue
-B. Power and functions of the President
-C. Membership of Parliament
-D. Centre-State relations
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q18. UPPCS Prelims 2022, Q133**
-Who among the following signed the agreement to resolve the Assam–Meghalaya border dispute in March 2022?
-A. Home Secretary of India and Chief Secretaries of Assam and Meghalaya
-B. Home Secretary of India and Director Generals of Police of Assam and Meghalaya
-C. Chief Ministers of Assam and Meghalaya
-D. Union Home Minister and Chief Ministers of Assam and Meghalaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q19. UPPCS Prelims 2019, Q140**
-Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?
-A. Planning Commission
-B. Disinvestment Commission
-C. NITI Aayog
-D. Finance Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — NITI.** Not the FC.
 
 </details>
 

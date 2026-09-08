@@ -346,6 +346,102 @@ Common punch symbols: **sun**, **six-armed symbol**, **hill**, **elephant**, **b
 
 ---
 
+## Complete PYQ Bank (Topic 12)
+
+> Full UPPCS Prelims hits 2018–2025 mapped here. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2025
+
+No extra GS-I coin/guild/port hit after keyword search.
+
+### UPPCS Prelims 2024
+
+**Q1. UPPCS Prelims 2024, Q2**
+
+Consider the following statements with reference to early trade:
+
+1. There are references of numerous river-ports in ancient India.
+2. There were large entrepots of goods and traffic.
+
+A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+### UPPCS Prelims 2023, 2021, 2019
+
+No further GS-I economy/coin/guild/port hit after keyword search.
+
+### UPPCS Prelims 2022
+
+**Q2. UPPCS Prelims 2022, Q23**
+
+With reference to Chandragupta-II, which of the following statements is/are correct?
+
+1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
+2. The weight of these coins used to be about 33 grains.
+
+A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Chandragupta II’s Shaka proof = **silver** coins, ~33 grains.
+
+</details>
+
+**Q3. UPPCS Prelims 2022, Q68**
+
+From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
+
+A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D. Kalibangan and Ropar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Boat models = **Mohenjo-daro and Lothal**.
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q4. UPPCS Prelims 2020, Q21**
+
+Match List-I with List-II:
+
+A. Indus Valley Civilization B. Later Vedic Society C. Rigvedic Society D. Medieval Period
+1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
+
+A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** IVC = Urban, Later Vedic = Agrarian, Rigvedic = Pastoral, Medieval = Landlordism.
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q5. UPPCS Prelims 2018, Q89**
+
+Which of the following institutions belonged to foreign trade?
+
+A. Śreni B. Nagaram C. Nānādesis D. Manigrama
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** With reference to early trade, which of the following statements is/are correct?
@@ -1085,102 +1181,6 @@ D. (A) is false, but (R) is true
 <summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 12)
-
-> Full UPPCS Prelims hits 2018–2025 mapped here. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2025
-
-No extra GS-I coin/guild/port hit after keyword search.
-
-### UPPCS Prelims 2024
-
-**Q1. UPPCS Prelims 2024, Q2**
-
-Consider the following statements with reference to early trade:
-
-1. There are references of numerous river-ports in ancient India.
-2. There were large entrepots of goods and traffic.
-
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-### UPPCS Prelims 2023, 2021, 2019
-
-No further GS-I economy/coin/guild/port hit after keyword search.
-
-### UPPCS Prelims 2022
-
-**Q2. UPPCS Prelims 2022, Q23**
-
-With reference to Chandragupta-II, which of the following statements is/are correct?
-
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
-2. The weight of these coins used to be about 33 grains.
-
-A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Chandragupta II’s Shaka proof = **silver** coins, ~33 grains.
-
-</details>
-
-**Q3. UPPCS Prelims 2022, Q68**
-
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Boat models = **Mohenjo-daro and Lothal**.
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q4. UPPCS Prelims 2020, Q21**
-
-Match List-I with List-II:
-
-A. Indus Valley Civilization B. Later Vedic Society C. Rigvedic Society D. Medieval Period
-1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
-
-A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** IVC = Urban, Later Vedic = Agrarian, Rigvedic = Pastoral, Medieval = Landlordism.
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q5. UPPCS Prelims 2018, Q89**
-
-Which of the following institutions belonged to foreign trade?
-
-A. Śreni B. Nagaram C. Nānādesis D. Manigrama
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
 
 </details>
 

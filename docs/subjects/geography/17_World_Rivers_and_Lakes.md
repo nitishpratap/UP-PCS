@@ -465,6 +465,138 @@ Highest ≠ widest ≠ most famous. Fact Angel for height and Victoria for the Z
 
 ---
 
+## Complete PYQ Bank — World Rivers & Lakes (2018–2025)
+
+**Instructions:** World rivers, deltas, cities, dams, lakes, falls.
+
+---
+
+**Q1. UPPCS Prelims 2025, Q68**
+Which of the following pairs are NOT correctly matched?
+(City) — (River)
+
+1. Budapest — Danube
+2. Cologne — Rhine
+3. New Orleans — Missouri
+4. Hyderabad (India) — Musi
+
+A. Only 1, 2 and 3
+
+B. Only 3 and 4
+
+C. Only 2, 3 and 4
+
+D. Only 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans (facts):** 1 and 2 matched. 3 unmatched — New Orleans = **Mississippi**. 4 matched — Hyderabad = **Musi**.
+Paper options have **no “Only 3”**. Do not treat Musi as wrong. Some series print **Paleru** as 4 → then unmatched = 3 and 4 → **B**.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q77**
+Which one of the following pairs (River - Direction) is not correctly matched?
+
+Options:
+
+A. Amur River - North-East
+
+B. Syr Darya - North-West
+
+C. Angara River - North
+
+D. Mekong River - South-West
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Mekong flows **south / south-east**, not south-west.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2023, Q62**
+The river situated along the border between the United States of America and Mexico is—
+
+A. Mississippi
+
+B. Rio Grande
+
+C. Amazon
+
+D. Colorado
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2023, Q66**
+Which one of the following (Lake—Country) is not correctly matched?
+
+A. Baikal — Russia
+
+B. Michigan — United States of America
+
+C. Onega — Canada
+
+D. Maracaibo — Venezuela
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Onega = **Russia**.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2021, Q121**
+With reference to Mekong river, which of the following statement/s is/are correct?
+
+1. Mekong rises in Tibetan Plateau
+2. Mekong delta is situated in Southern Cambodia.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Delta = **southern Vietnam**.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2018, Q33**
+At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
+
+A. Huang Ho
+
+B. Nile
+
+C. Danube
+
+D. Mississippi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Mississippi = bird’s-foot; Nile / Hwang Ho = arcuate.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -1646,138 +1778,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — Amazon has the **largest** discharge.
-</details>
-
----
-
-## Complete PYQ Bank — World Rivers & Lakes (2018–2025)
-
-**Instructions:** World rivers, deltas, cities, dams, lakes, falls.
-
----
-
-**Q1. UPPCS Prelims 2025, Q68**
-Which of the following pairs are NOT correctly matched?
-(City) — (River)
-
-1. Budapest — Danube
-2. Cologne — Rhine
-3. New Orleans — Missouri
-4. Hyderabad (India) — Musi
-
-A. Only 1, 2 and 3
-
-B. Only 3 and 4
-
-C. Only 2, 3 and 4
-
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans (facts):** 1 and 2 matched. 3 unmatched — New Orleans = **Mississippi**. 4 matched — Hyderabad = **Musi**.
-Paper options have **no “Only 3”**. Do not treat Musi as wrong. Some series print **Paleru** as 4 → then unmatched = 3 and 4 → **B**.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2024, Q77**
-Which one of the following pairs (River - Direction) is not correctly matched?
-
-Options:
-
-A. Amur River - North-East
-
-B. Syr Darya - North-West
-
-C. Angara River - North
-
-D. Mekong River - South-West
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Mekong flows **south / south-east**, not south-west.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2023, Q62**
-The river situated along the border between the United States of America and Mexico is—
-
-A. Mississippi
-
-B. Rio Grande
-
-C. Amazon
-
-D. Colorado
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q4. UPPCS Prelims 2023, Q66**
-Which one of the following (Lake—Country) is not correctly matched?
-
-A. Baikal — Russia
-
-B. Michigan — United States of America
-
-C. Onega — Canada
-
-D. Maracaibo — Venezuela
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Onega = **Russia**.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2021, Q121**
-With reference to Mekong river, which of the following statement/s is/are correct?
-
-1. Mekong rises in Tibetan Plateau
-2. Mekong delta is situated in Southern Cambodia.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Delta = **southern Vietnam**.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2018, Q33**
-At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
-
-A. Huang Ho
-
-B. Nile
-
-C. Danube
-
-D. Mississippi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Mississippi = bird’s-foot; Nile / Hwang Ho = arcuate.
 </details>
 
 ---

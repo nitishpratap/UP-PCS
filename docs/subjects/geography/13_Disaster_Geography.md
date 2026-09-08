@@ -428,6 +428,223 @@ D. A is false but R is true
 | Biological-disaster label (2018) | **Gomati** (pollution) — not Yamuna/Sai/Tamsa in that paper |
 | Framework | SDMA under **CM**; DDMA under DM |
 
+---
+
+## Complete PYQ Bank — Disaster Geography (2018–2025)
+
+**Instructions:** Click **Show answer** under each question. Read the full stem before opening.
+
+---
+
+**Q1. UPPCS Prelims 2025, Q134**
+Consider the following programmes and arrange them in correct chronological order.
+
+1. Food for Work Programme
+2. Community Development Programme
+3. Training of Rural Youth for Self Employment (TRYSEM)
+4. Drought Prone Areas Programme
+
+A. 4, 2, 3, 1
+
+B. 2, 4, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — CDP 1952 → DPAP 1973–74 → Food for Work 1977 → TRYSEM 1979.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q30**
+Which of the following volcanoes is not located in the Pacific Ring of Fire?
+
+A. Mount Fuji
+
+B. Mount Pinatubo
+
+C. Mount Kilimanjaro
+
+D. Mount St. Helens
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kilimanjaro = East African Rift.
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2021, Q26**
+The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
+
+A. The Prime Minister
+
+B. The Home Minister
+
+C. The Defence Minister
+
+D. The Health and Family Welfare Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2020, Q74**
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+**List-I (Tropical cyclones)** A. Baguios B. Hurricanes C. Typhoons D. Willy-Willies
+**List-II (Country)** 1. Australia 2. China 3. Philippines 4. United States of America
+
+A. 3 4 1 2
+
+B. 3 4 2 1
+
+C. 2 3 4 1
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Philippines, USA, China, Australia.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2019, Q110**
+Match List-I with List-II:
+**List-I (Typhoon/Hurricane August–September 2019)** A. Dorian B. Hagibis C. Lekima D. Mitag
+**List-II (Most affected country)** 1. Bahamas 2. China 3. Jeju, South Korea 4. Japan
+
+A. 1 2 4 3
+
+B. 1 4 2 3
+
+C. 4 2 3 1
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Bahamas, Japan, China, Korea.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2019, Q78**
+Match List-I with List-II:
+**List-I (Different name of tropical cyclone)** A. Willy-Willies B. Taifu C. Baguio D. Hurricanes
+**List-II (Country)** 1. Philippines 2. Australia 3. Japan 4. U.S.A.
+
+A. 3 4 1 2
+
+B. 2 3 4 1
+
+C. 1 3 2 4
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Australia, Japan, Philippines, USA.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2019, Q7**
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+**Assertion (A):** The highest concentration of Seismic zones lies in Himalayan region in India.
+
+**Reason (R):** There are many longitudinal thrust zones in Himalayas.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2018, Q133**
+Which of the following statements are true?
+
+1. Natural disasters cause maximum damage in developing countries.
+2. Bhopal gas tragedy was man-made.
+3. India is a disaster free country.
+4. Mangroves reduce the impact of cyclones.
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 2 and 4
+
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — (3) is false.
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2018, Q99**
+Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution'?
+
+A. Yamuna
+
+B. Gomati
+
+C. Sai
+
+D. Tamsa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Gomati.
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2018, Q53**
+As a result of global warming the frequency and severity of which of the following are increasing due to global warming?
+
+A. Cyclones only
+
+B. Storms only
+
+C. Hurricanes only
+
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -1569,221 +1786,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — NDMA is chaired by the **Prime Minister**.
-</details>
-
----
-
-## Complete PYQ Bank — Disaster Geography (2018–2025)
-
-**Instructions:** Click **Show answer** under each question. Read the full stem before opening.
-
----
-
-**Q1. UPPCS Prelims 2025, Q134**
-Consider the following programmes and arrange them in correct chronological order.
-
-1. Food for Work Programme
-2. Community Development Programme
-3. Training of Rural Youth for Self Employment (TRYSEM)
-4. Drought Prone Areas Programme
-
-A. 4, 2, 3, 1
-
-B. 2, 4, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — CDP 1952 → DPAP 1973–74 → Food for Work 1977 → TRYSEM 1979.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2024, Q30**
-Which of the following volcanoes is not located in the Pacific Ring of Fire?
-
-A. Mount Fuji
-
-B. Mount Pinatubo
-
-C. Mount Kilimanjaro
-
-D. Mount St. Helens
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kilimanjaro = East African Rift.
-</details>
-
----
-
-**Q3. UPPCS Prelims 2021, Q26**
-The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
-
-A. The Prime Minister
-
-B. The Home Minister
-
-C. The Defence Minister
-
-D. The Health and Family Welfare Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q4. UPPCS Prelims 2020, Q74**
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-**List-I (Tropical cyclones)** A. Baguios B. Hurricanes C. Typhoons D. Willy-Willies
-**List-II (Country)** 1. Australia 2. China 3. Philippines 4. United States of America
-
-A. 3 4 1 2
-
-B. 3 4 2 1
-
-C. 2 3 4 1
-
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Philippines, USA, China, Australia.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2019, Q110**
-Match List-I with List-II:
-**List-I (Typhoon/Hurricane August–September 2019)** A. Dorian B. Hagibis C. Lekima D. Mitag
-**List-II (Most affected country)** 1. Bahamas 2. China 3. Jeju, South Korea 4. Japan
-
-A. 1 2 4 3
-
-B. 1 4 2 3
-
-C. 4 2 3 1
-
-D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Bahamas, Japan, China, Korea.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2019, Q78**
-Match List-I with List-II:
-**List-I (Different name of tropical cyclone)** A. Willy-Willies B. Taifu C. Baguio D. Hurricanes
-**List-II (Country)** 1. Philippines 2. Australia 3. Japan 4. U.S.A.
-
-A. 3 4 1 2
-
-B. 2 3 4 1
-
-C. 1 3 2 4
-
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Australia, Japan, Philippines, USA.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2019, Q7**
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-**Assertion (A):** The highest concentration of Seismic zones lies in Himalayan region in India.
-
-**Reason (R):** There are many longitudinal thrust zones in Himalayas.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q8. UPPCS Prelims 2018, Q133**
-Which of the following statements are true?
-
-1. Natural disasters cause maximum damage in developing countries.
-2. Bhopal gas tragedy was man-made.
-3. India is a disaster free country.
-4. Mangroves reduce the impact of cyclones.
-
-A. 1, 2 and 3
-
-B. 2, 3 and 4
-
-C. 1, 2 and 4
-
-D. 1, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — (3) is false.
-</details>
-
----
-
-**Q9. UPPCS Prelims 2018, Q99**
-Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution'?
-
-A. Yamuna
-
-B. Gomati
-
-C. Sai
-
-D. Tamsa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Gomati.
-</details>
-
----
-
-**Q10. UPPCS Prelims 2018, Q53**
-As a result of global warming the frequency and severity of which of the following are increasing due to global warming?
-
-A. Cyclones only
-
-B. Storms only
-
-C. Hurricanes only
-
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
 </details>
 
 ---

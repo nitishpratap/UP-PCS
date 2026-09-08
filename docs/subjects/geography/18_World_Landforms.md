@@ -945,6 +945,509 @@ D. Equatorial regions
 
 ---
 
+## Complete PYQ Bank
+
+**Instructions:** Answers under `<details>`. Match questions use a table. Options sit on separate lines.
+
+**Q1. UPPCS Prelims 2025, Q27**
+
+The Gobi Desert extends into which of the following countries?
+
+1. Mongolia
+2. China
+3. Russia
+4. Kazakhstan
+
+Select the correct answer from the code given below:
+
+**Options:**
+
+A. Only 1 and 2
+
+B. Only 1, 2 and 4
+
+C. Only 1, 2 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mongolia + China. Do not add Russia or Kazakhstan.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q63**
+
+With reference to Brazil, which of the following statements is/are correct?
+
+1. The equatorial rainforests of Brazil are called "Selva".
+2. The fertile dark-coloured soil found there is known as "Terra Roxa".
+
+Select the correct answer from the code given below:
+
+**Options:**
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024, Q29**
+
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+
+| List-I | List-II |
+|--------|---------|
+| A. Planting Hearth | 1. Hungary |
+| B. Cryophyte Steppe | 2. Adolf Engler |
+| C. World Floral Regions | 3. C.O. Sauer |
+| D. Puszta Grassland | 4. Arctic Tundra |
+
+**Options:**
+
+A. 3 4 2 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Sauer · Arctic tundra · Engler · Hungary.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q30**
+
+Which of the following volcanoes is not located in the Pacific Ring of Fire?
+
+**Options:**
+
+A. Mount Fuji
+
+B. Mount Pinatubo
+
+C. Mount Kilimanjaro
+
+D. Mount St. Helens
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — East African Rift. Fuji, Pinatubo and St Helens are Pacific-rim.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2024, Q61**
+
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+
+| List-I (Country) | List-II (Mountain) |
+|------------------|--------------------|
+| A. Spain–France | 1. Alps |
+| B. Switzerland | 2. Apennine |
+| C. Bulgaria | 3. Pyrenees |
+| D. Italy | 4. Balkan |
+
+**Options:**
+
+A. 3 1 2 4
+
+B. 3 1 4 2
+
+C. 2 3 1 4
+
+D. 4 1 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — A-3 Pyrenees · B-1 Alps · C-4 Balkan · D-2 Apennine.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2024, Q79**
+
+Consider the following statements with reference to Mediterranean climate:
+
+1. It receives rainfall in winter season.
+2. Due to winter solstice, air pressure belts shift to the south.
+
+Which of the above statements is/are correct?
+
+**Options:**
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2023, Q63**
+
+Consider the following deserts and arrange them in increasing order of their size (from smallest to largest).
+
+(I) Great Sandy Desert
+
+(II) Arabian Desert
+
+(III) Sahara Desert
+
+(IV) Gobi Desert
+
+**Options:**
+
+A. I, II, IV, III
+
+B. II, I, III, IV
+
+C. I, IV, II, III
+
+D. II, I, IV, III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Great Sandy < Gobi < Arabian < Sahara.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2023, Q65**
+
+Match List-I with List-II and select the correct answer using the code given below:
+
+| List-I (Mountain) | List-II (Country) |
+|-------------------|-------------------|
+| A. Kilimanjaro | 1. Morocco |
+| B. Toubkal | 2. Algeria |
+| C. Stanley | 3. Tanzania |
+| D. Hoggar | 4. Uganda |
+
+**Options:**
+
+A. A-(4), B-(3), C-(2), D-(1)
+
+B. A-(3), B-(1), C-(4), D-(2)
+
+C. A-(3), B-(4), C-(1), D-(2)
+
+D. A-(4), B-(2), C-(3), D-(1)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Tanzania · Morocco · Uganda · Algeria.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2022, Q126**
+
+With reference to Borneo Island, located in South-East Asia, which of the following statements is/are true?
+
+1. It is divided among three countries.
+2. It has been formed due to volcanic deposition.
+
+**Options:**
+
+A. Neither 1 nor 2
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Indonesia + Malaysia + Brunei. Not a volcanic dump.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2022, Q144**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Rainfall occurs in the winter season in Mediterranean climate.
+
+**Reason (R):** In summer these regions remain under the influence of dry terrestrial winds.
+
+**Options:**
+
+A. (A) is false but (R) is true.
+
+B. (A) is true but (R) is false.
+
+C. Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2021, Q78**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I (Volcanic Mountains) | List-II (Country) |
+|-----------------------------|-------------------|
+| A. Mount Rainier | 1. Italy |
+| B. Mount Etna | 2. Mexico |
+| C. Mount Pericutine | 3. Philippines |
+| D. Mount Apo | 4. U.S.A. |
+
+**Options:**
+
+A. 4 2 1 3
+
+B. 4 1 2 3
+
+C. 2 1 4 3
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — USA · Italy · Mexico · Philippines. Paper spelling **Pericutine** = Paricutin.
+
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2020, Q72**
+
+In which of the following regions of the world, the production of citrus fruits is well developed?
+
+**Options:**
+
+A. Between Kangra and Dhauladhar ranges
+
+B. Between Pir Panjal and Himadri ranges
+
+C. Mediterranean regions
+
+D. Equatorial regions
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2020, Q86**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I (Mountain) | List-II (Country) |
+|-------------------|-------------------|
+| A. Atlas | 1. France/Spain |
+| B. Kalimanjaro | 2. Ecuador |
+| C. Chimbrozo | 3. Tanzania |
+| D. Pyrenees | 4. Morocco |
+
+**Options:**
+
+A. 4 3 2 1
+
+B. 4 1 2 3
+
+C. 2 3 4 1
+
+D. 1 3 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Morocco · Tanzania · Ecuador · France/Spain.
+
+Paper spellings **Kalimanjaro / Chimbrozo** = Kilimanjaro / Chimborazo. Atlas is **not** France/Spain.
+
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2019, Q1**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I (Vegetation Type) | List-II (Region) |
+|--------------------------|------------------|
+| A. Maquis | 1. California |
+| B. Fynbus | 2. Mediterranean Sea Coastal Region |
+| C. Chaparral | 3. South Africa |
+| D. Matorral | 4. Chile |
+
+**Options:**
+
+A. 2 3 1 4
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Med · South Africa · California · Chile.
+
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2019, Q3**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I (Natural Vegetation) | List-II (Region) |
+|-----------------------------|------------------|
+| A. Epiphytes | 1. Mediterranean |
+| B. Acacia | 2. Equatorial |
+| C. Buobab | 3. Sahara |
+| D. Cedars | 4. Savanna |
+
+**Options:**
+
+A. 2 3 4 1
+
+B. 2 3 1 4
+
+C. 2 4 3 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Equatorial · Sahara · Savanna · Mediterranean. **Buobab** = baobab.
+
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2019, Q10**
+
+Which one of the following natural regions is known as "Land of Big Games"?
+
+**Options:**
+
+A. Temperate Grassland
+
+B. Tropical Monsoon Region
+
+C. Hot Desert Region
+
+D. Tropical Savanna Region
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2018, Q26**
+
+In which of the following countries is the Pampas grasslands situated?
+
+**Options:**
+
+A. Argentina
+
+B. Brazil
+
+C. Chile
+
+D. Ecuador
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Brazil = Campos. Chile ≠ Pampas.
+
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2018, Q27**
+
+Which of the following pairs is NOT correctly matched?
+
+(Desert — Country)
+
+**Options:**
+
+A. Sonoran – USA
+
+B. Taklamakan – China
+
+C. Karakum – Turkmenistan
+
+D. Gibson – Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Gibson Desert is in **Australia**.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -2262,509 +2765,6 @@ D. Campos — Chile
 <summary>Show answer</summary>
 
 **Ans: D** — Campos = **Brazil**.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Answers under `<details>`. Match questions use a table. Options sit on separate lines.
-
-**Q1. UPPCS Prelims 2025, Q27**
-
-The Gobi Desert extends into which of the following countries?
-
-1. Mongolia
-2. China
-3. Russia
-4. Kazakhstan
-
-Select the correct answer from the code given below:
-
-**Options:**
-
-A. Only 1 and 2
-
-B. Only 1, 2 and 4
-
-C. Only 1, 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mongolia + China. Do not add Russia or Kazakhstan.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q63**
-
-With reference to Brazil, which of the following statements is/are correct?
-
-1. The equatorial rainforests of Brazil are called "Selva".
-2. The fertile dark-coloured soil found there is known as "Terra Roxa".
-
-Select the correct answer from the code given below:
-
-**Options:**
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2024, Q29**
-
-Match List-I with List-II and choose the correct answer using the codes given below the lists:
-
-| List-I | List-II |
-|--------|---------|
-| A. Planting Hearth | 1. Hungary |
-| B. Cryophyte Steppe | 2. Adolf Engler |
-| C. World Floral Regions | 3. C.O. Sauer |
-| D. Puszta Grassland | 4. Arctic Tundra |
-
-**Options:**
-
-A. 3 4 2 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sauer · Arctic tundra · Engler · Hungary.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q30**
-
-Which of the following volcanoes is not located in the Pacific Ring of Fire?
-
-**Options:**
-
-A. Mount Fuji
-
-B. Mount Pinatubo
-
-C. Mount Kilimanjaro
-
-D. Mount St. Helens
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — East African Rift. Fuji, Pinatubo and St Helens are Pacific-rim.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2024, Q61**
-
-Match List-I with List-II and choose the correct answer using the codes given below the lists:
-
-| List-I (Country) | List-II (Mountain) |
-|------------------|--------------------|
-| A. Spain–France | 1. Alps |
-| B. Switzerland | 2. Apennine |
-| C. Bulgaria | 3. Pyrenees |
-| D. Italy | 4. Balkan |
-
-**Options:**
-
-A. 3 1 2 4
-
-B. 3 1 4 2
-
-C. 2 3 1 4
-
-D. 4 1 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — A-3 Pyrenees · B-1 Alps · C-4 Balkan · D-2 Apennine.
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2024, Q79**
-
-Consider the following statements with reference to Mediterranean climate:
-
-1. It receives rainfall in winter season.
-2. Due to winter solstice, air pressure belts shift to the south.
-
-Which of the above statements is/are correct?
-
-**Options:**
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2023, Q63**
-
-Consider the following deserts and arrange them in increasing order of their size (from smallest to largest).
-
-(I) Great Sandy Desert
-
-(II) Arabian Desert
-
-(III) Sahara Desert
-
-(IV) Gobi Desert
-
-**Options:**
-
-A. I, II, IV, III
-
-B. II, I, III, IV
-
-C. I, IV, II, III
-
-D. II, I, IV, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Great Sandy < Gobi < Arabian < Sahara.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2023, Q65**
-
-Match List-I with List-II and select the correct answer using the code given below:
-
-| List-I (Mountain) | List-II (Country) |
-|-------------------|-------------------|
-| A. Kilimanjaro | 1. Morocco |
-| B. Toubkal | 2. Algeria |
-| C. Stanley | 3. Tanzania |
-| D. Hoggar | 4. Uganda |
-
-**Options:**
-
-A. A-(4), B-(3), C-(2), D-(1)
-
-B. A-(3), B-(1), C-(4), D-(2)
-
-C. A-(3), B-(4), C-(1), D-(2)
-
-D. A-(4), B-(2), C-(3), D-(1)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Tanzania · Morocco · Uganda · Algeria.
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2022, Q126**
-
-With reference to Borneo Island, located in South-East Asia, which of the following statements is/are true?
-
-1. It is divided among three countries.
-2. It has been formed due to volcanic deposition.
-
-**Options:**
-
-A. Neither 1 nor 2
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Indonesia + Malaysia + Brunei. Not a volcanic dump.
-
-</details>
-
----
-
-**Q10. UPPCS Prelims 2022, Q144**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Rainfall occurs in the winter season in Mediterranean climate.
-
-**Reason (R):** In summer these regions remain under the influence of dry terrestrial winds.
-
-**Options:**
-
-A. (A) is false but (R) is true.
-
-B. (A) is true but (R) is false.
-
-C. Both (A) and (R) are true but (R) is not the correct explanation of (A).
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q11. UPPCS Prelims 2021, Q78**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I (Volcanic Mountains) | List-II (Country) |
-|-----------------------------|-------------------|
-| A. Mount Rainier | 1. Italy |
-| B. Mount Etna | 2. Mexico |
-| C. Mount Pericutine | 3. Philippines |
-| D. Mount Apo | 4. U.S.A. |
-
-**Options:**
-
-A. 4 2 1 3
-
-B. 4 1 2 3
-
-C. 2 1 4 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — USA · Italy · Mexico · Philippines. Paper spelling **Pericutine** = Paricutin.
-
-</details>
-
----
-
-**Q12. UPPCS Prelims 2020, Q72**
-
-In which of the following regions of the world, the production of citrus fruits is well developed?
-
-**Options:**
-
-A. Between Kangra and Dhauladhar ranges
-
-B. Between Pir Panjal and Himadri ranges
-
-C. Mediterranean regions
-
-D. Equatorial regions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q13. UPPCS Prelims 2020, Q86**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I (Mountain) | List-II (Country) |
-|-------------------|-------------------|
-| A. Atlas | 1. France/Spain |
-| B. Kalimanjaro | 2. Ecuador |
-| C. Chimbrozo | 3. Tanzania |
-| D. Pyrenees | 4. Morocco |
-
-**Options:**
-
-A. 4 3 2 1
-
-B. 4 1 2 3
-
-C. 2 3 4 1
-
-D. 1 3 4 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Morocco · Tanzania · Ecuador · France/Spain.
-
-Paper spellings **Kalimanjaro / Chimbrozo** = Kilimanjaro / Chimborazo. Atlas is **not** France/Spain.
-
-</details>
-
----
-
-**Q14. UPPCS Prelims 2019, Q1**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I (Vegetation Type) | List-II (Region) |
-|--------------------------|------------------|
-| A. Maquis | 1. California |
-| B. Fynbus | 2. Mediterranean Sea Coastal Region |
-| C. Chaparral | 3. South Africa |
-| D. Matorral | 4. Chile |
-
-**Options:**
-
-A. 2 3 1 4
-
-B. 4 3 2 1
-
-C. 3 4 1 2
-
-D. 4 2 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Med · South Africa · California · Chile.
-
-</details>
-
----
-
-**Q15. UPPCS Prelims 2019, Q3**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I (Natural Vegetation) | List-II (Region) |
-|-----------------------------|------------------|
-| A. Epiphytes | 1. Mediterranean |
-| B. Acacia | 2. Equatorial |
-| C. Buobab | 3. Sahara |
-| D. Cedars | 4. Savanna |
-
-**Options:**
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 2 4 3 1
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Equatorial · Sahara · Savanna · Mediterranean. **Buobab** = baobab.
-
-</details>
-
----
-
-**Q16. UPPCS Prelims 2019, Q10**
-
-Which one of the following natural regions is known as "Land of Big Games"?
-
-**Options:**
-
-A. Temperate Grassland
-
-B. Tropical Monsoon Region
-
-C. Hot Desert Region
-
-D. Tropical Savanna Region
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q17. UPPCS Prelims 2018, Q26**
-
-In which of the following countries is the Pampas grasslands situated?
-
-**Options:**
-
-A. Argentina
-
-B. Brazil
-
-C. Chile
-
-D. Ecuador
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Brazil = Campos. Chile ≠ Pampas.
-
-</details>
-
----
-
-**Q18. UPPCS Prelims 2018, Q27**
-
-Which of the following pairs is NOT correctly matched?
-
-(Desert — Country)
-
-**Options:**
-
-A. Sonoran – USA
-
-B. Taklamakan – China
-
-C. Karakum – Turkmenistan
-
-D. Gibson – Brazil
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Gibson Desert is in **Australia**.
-
 </details>
 
 ---

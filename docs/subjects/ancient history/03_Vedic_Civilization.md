@@ -647,6 +647,103 @@ Memory: **S-K-V-N-C-J**.
 
 ---
 
+## Complete PYQ Bank (Topic 3)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2023
+
+**Q1. UPPCS Prelims 2023, Q26**
+
+Which officer was known as **'Bhagadugha'** during Vedic administration?
+
+A. Messenger
+B. Chief Officer of Forests
+C. Chief Officer of the Gambling Department
+D. Revenue Collector
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — revenue collector (king’s **bhaga**). Option C describes **Akshavapa**.
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q2. UPPCS Prelims 2020, Q21**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I | List-II |
+|--------|---------|
+| A. Indus Valley Civilization | 1. Pastoral |
+| B. Later Vedic Society | 2. Land Lordism |
+| C. Rigvedic Society | 3. Agrarian |
+| D. Medieval Period | 4. Urban |
+
+A. 4 2 3 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — IVC = Urban (4); Later Vedic = Agrarian (3); Rigvedic = Pastoral (1); Medieval = Land Lordism (2).
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q3. UPPCS Prelims 2018, Q13**
+
+**Logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
+
+Which of the following is a Samhita of Shukla Yajurveda?
+
+A. Vajasanami
+B. Maitrayani
+C. Taittiriya
+D. Kathak
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Vajasaneyi (paper spelling Vajasanami).
+**B/C/D** = Krishna (Black) Yajurveda Samhitas. **Krishna** = Black school, not the deity.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Same Krishna/Shukla split as UPPCS 2018, but the stem asks for the **Veda**, not the Samhita name.
+
+**Q4. UKPCS Prelims 2025, Q62**
+
+Which of the following Vedas is divided into two branches as Krishna and Shukla?
+
+A. Rig Veda
+B. Sama Veda
+C. Yajur Veda
+D. Atharva Veda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Only the Yajurveda has Krishna (Black) and Shukla (White) branches. Krishna mixes mantra with prose; Shukla keeps them apart.
+
+</details>
+
+### Years with zero extra Vedic hits in local `pyq/`
+
+UPPCS Prelims **2025, 2024, 2022, 2021, 2019** — keyword search (Vedic / Rigved / Yajurveda / Bhagadugha / Upanishad / Sabha-as-Vedic-assembly) returned **no further GS-I questions** for this topic. Polity “Sabha” hits are Lok/Rajya/Gram Sabha — **out of boundary**.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** Match List-I with List-II and select the correct answer using the code given below:
@@ -1545,103 +1642,6 @@ A. Only one B. Only two C. All three D. None
 **Ans: C**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 3)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2023
-
-**Q1. UPPCS Prelims 2023, Q26**
-
-Which officer was known as **'Bhagadugha'** during Vedic administration?
-
-A. Messenger
-B. Chief Officer of Forests
-C. Chief Officer of the Gambling Department
-D. Revenue Collector
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — revenue collector (king’s **bhaga**). Option C describes **Akshavapa**.
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q2. UPPCS Prelims 2020, Q21**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I | List-II |
-|--------|---------|
-| A. Indus Valley Civilization | 1. Pastoral |
-| B. Later Vedic Society | 2. Land Lordism |
-| C. Rigvedic Society | 3. Agrarian |
-| D. Medieval Period | 4. Urban |
-
-A. 4 2 3 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — IVC = Urban (4); Later Vedic = Agrarian (3); Rigvedic = Pastoral (1); Medieval = Land Lordism (2).
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q3. UPPCS Prelims 2018, Q13**
-
-**Logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
-
-Which of the following is a Samhita of Shukla Yajurveda?
-
-A. Vajasanami
-B. Maitrayani
-C. Taittiriya
-D. Kathak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Vajasaneyi (paper spelling Vajasanami).
-**B/C/D** = Krishna (Black) Yajurveda Samhitas. **Krishna** = Black school, not the deity.
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Same Krishna/Shukla split as UPPCS 2018, but the stem asks for the **Veda**, not the Samhita name.
-
-**Q4. UKPCS Prelims 2025, Q62**
-
-Which of the following Vedas is divided into two branches as Krishna and Shukla?
-
-A. Rig Veda
-B. Sama Veda
-C. Yajur Veda
-D. Atharva Veda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Only the Yajurveda has Krishna (Black) and Shukla (White) branches. Krishna mixes mantra with prose; Shukla keeps them apart.
-
-</details>
-
-### Years with zero extra Vedic hits in local `pyq/`
-
-UPPCS Prelims **2025, 2024, 2022, 2021, 2019** — keyword search (Vedic / Rigved / Yajurveda / Bhagadugha / Upanishad / Sabha-as-Vedic-assembly) returned **no further GS-I questions** for this topic. Polity “Sabha” hits are Lok/Rajya/Gram Sabha — **out of boundary**.
 
 ---
 

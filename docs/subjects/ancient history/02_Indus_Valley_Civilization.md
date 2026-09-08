@@ -768,6 +768,166 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 ---
 
+## Complete PYQ Bank (Topic 2)
+
+> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q87**
+
+Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
+
+1. Mandi
+2. Rakhigarhi
+3. Hulas
+
+A. 1 and 2
+
+B. Only 3
+
+C. 1 and 3
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Mandi (Bijnor) and Hulas (Baghpat). Rakhigarhi = Hisar, Haryana.
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q2. UPPCS Prelims 2023, Q28**
+
+The eastern boundary of the Harappan culture is indicated by which of the following?
+
+A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Alamgirpur (Meerut, UP).
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q3. UPPCS Prelims 2022, Q68**
+
+From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
+
+A. Dholavira and Bhagatrav
+B. Harappa and Kot Diji
+C. Mohenjo-daro and Lothal
+D. Kalibangan and Ropar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Mohenjo-daro and Lothal.
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q4. UPPCS Prelims 2021, Q100**
+
+In which State of India is the Harappan Civilization site Mandi situated?
+
+A. Gujarat B. Haryana C. Rajasthan D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Bijnor, Uttar Pradesh.
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q5. UPPCS Prelims 2020, Q12**
+
+Match List-I with List-II and answer using the codes given below the lists:
+
+| List-I (Harappan Site) | List-II (UT/State of India) |
+|------------------------|-----------------------------|
+| A. Balu | 1. Uttar Pradesh |
+| B. Manda | 2. Jammu & Kashmir |
+| C. Padri | 3. Haryana |
+| D. Hulas | 4. Gujarat |
+
+A. 3 2 1 4
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Balu–Haryana, Manda–J&K, Padri–Gujarat, Hulas–UP.
+
+</details>
+
+**Q6. UPPCS Prelims 2020, Q21**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I | List-II |
+|--------|---------|
+| A. Indus Valley Civilization | 1. Pastoral |
+| B. Later Vedic Society | 2. Land Lordism |
+| C. Rigvedic Society | 3. Agrarian |
+| D. Medieval Period | 4. Urban |
+
+A. 4 2 3 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — IVC = Urban (4); Later Vedic = Agrarian (3); Rigvedic = Pastoral (1); Medieval = Land Lordism (2).
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q7. UPPCS Prelims 2018, Q88**
+
+Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
+
+I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
+
+A. I, II, III, IV
+
+B. I, II
+
+C. II, III
+
+D. III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Alamgirpur and Hulas only.
+
+</details>
+
+### Years with zero extra IVC hits in local `pyq/`
+
+UPPCS Prelims **2024, 2019** — no question in `pyq/` maps to this topic after keyword search (Harappa/Indus/Alamgirpur/Lothal/Mohenjo/Kalibangan/Dholavira/Rakhigarhi/Hulas/Mandi). 2024 Q2 on river-ports/entrepots is **trade**, not an IVC site question.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **45 questions**. Answers in `<details>`. ≥60% multi-statement / application. Includes A/R, Match-List, chronology, NOT-matched.
@@ -1716,166 +1876,6 @@ D. Neither 1 nor 2
 **Ans: C** — CA fact + geography fact.
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 2)
-
-> Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q87**
-
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-A. 1 and 2
-
-B. Only 3
-
-C. 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Mandi (Bijnor) and Hulas (Baghpat). Rakhigarhi = Hisar, Haryana.
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q2. UPPCS Prelims 2023, Q28**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Alamgirpur (Meerut, UP).
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q3. UPPCS Prelims 2022, Q68**
-
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Mohenjo-daro and Lothal.
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q4. UPPCS Prelims 2021, Q100**
-
-In which State of India is the Harappan Civilization site Mandi situated?
-
-A. Gujarat B. Haryana C. Rajasthan D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Bijnor, Uttar Pradesh.
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q5. UPPCS Prelims 2020, Q12**
-
-Match List-I with List-II and answer using the codes given below the lists:
-
-| List-I (Harappan Site) | List-II (UT/State of India) |
-|------------------------|-----------------------------|
-| A. Balu | 1. Uttar Pradesh |
-| B. Manda | 2. Jammu & Kashmir |
-| C. Padri | 3. Haryana |
-| D. Hulas | 4. Gujarat |
-
-A. 3 2 1 4
-
-B. 2 3 4 1
-
-C. 2 4 3 1
-
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Balu–Haryana, Manda–J&K, Padri–Gujarat, Hulas–UP.
-
-</details>
-
-**Q6. UPPCS Prelims 2020, Q21**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I | List-II |
-|--------|---------|
-| A. Indus Valley Civilization | 1. Pastoral |
-| B. Later Vedic Society | 2. Land Lordism |
-| C. Rigvedic Society | 3. Agrarian |
-| D. Medieval Period | 4. Urban |
-
-A. 4 2 3 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — IVC = Urban (4); Later Vedic = Agrarian (3); Rigvedic = Pastoral (1); Medieval = Land Lordism (2).
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q7. UPPCS Prelims 2018, Q88**
-
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-
-I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
-
-A. I, II, III, IV
-
-B. I, II
-
-C. II, III
-
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Alamgirpur and Hulas only.
-
-</details>
-
-### Years with zero extra IVC hits in local `pyq/`
-
-UPPCS Prelims **2024, 2019** — no question in `pyq/` maps to this topic after keyword search (Harappa/Indus/Alamgirpur/Lothal/Mohenjo/Kalibangan/Dholavira/Rakhigarhi/Hulas/Mandi). 2024 Q2 on river-ports/entrepots is **trade**, not an IVC site question.
 
 ---
 

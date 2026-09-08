@@ -389,6 +389,84 @@ UP site facts already sit in the table above. Extra traps:
 
 ---
 
+## Complete PYQ Bank (Topic 13)
+
+> Full UPPCS Prelims hits 2018–2025 mapped here. Answers hidden. Newest first.
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q87**
+
+Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
+
+1. Mandi 2. Rakhigarhi 3. Hulas
+
+A. 1 and 2 B. Only 3 C. 1 and 3 D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+### UPPCS Prelims 2024
+
+No extra GS-I archaeology-method / site-state hit after keyword search.
+
+### UPPCS Prelims 2023
+
+**Q2. UPPCS Prelims 2023, Q27**
+
+Match List-I with List-II.
+
+A. Nevasa B. Isampur C. Didwana D. Gudiyam Cave
+1. Rajasthan 2. Tamil Nadu 3. Maharashtra 4. Karnataka
+
+A. A-3, B-4, C-1, D-2 B. A-4, B-3, C-1, D-2 C. A-3, B-4, C-2, D-1 D. A-3, B-2, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q3. UPPCS Prelims 2023, Q28**
+
+The eastern boundary of the Harappan culture is indicated by which of the following?
+
+A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q4. UPPCS Prelims 2022, Q68** — boat models → **C Mohenjo-daro and Lothal.**
+
+### UPPCS Prelims 2021
+
+**Q5. UPPCS Prelims 2021, Q100** — Mandi situated in → **D Uttar Pradesh.**
+
+### UPPCS Prelims 2020
+
+**Q6. UPPCS Prelims 2020, Q10** — Bhimbetka first visitor → **C V.S. Wakankar.Q7. UPPCS Prelims 2020, Q12** — Balu / Manda / Padri / Hulas → **D 3-2-4-1.**
+
+### UPPCS Prelims 2019
+
+No further GS-I archaeology hit after keyword search.
+
+### UPPCS Prelims 2018
+
+**Q8. UPPCS Prelims 2018, Q88** — IVC centres in UP → **D III and IV** (Alamgirpur, Hulas).
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **Q1.** Which IVC sites are in present-day Uttar Pradesh?
@@ -1114,84 +1192,6 @@ D. (A) is false, but (R) is true
 **Ans: A**
 
 </details>
-
----
-
-## Complete PYQ Bank (Topic 13)
-
-> Full UPPCS Prelims hits 2018–2025 mapped here. Answers hidden. Newest first.
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q87**
-
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi 2. Rakhigarhi 3. Hulas
-
-A. 1 and 2 B. Only 3 C. 1 and 3 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-### UPPCS Prelims 2024
-
-No extra GS-I archaeology-method / site-state hit after keyword search.
-
-### UPPCS Prelims 2023
-
-**Q2. UPPCS Prelims 2023, Q27**
-
-Match List-I with List-II.
-
-A. Nevasa B. Isampur C. Didwana D. Gudiyam Cave
-1. Rajasthan 2. Tamil Nadu 3. Maharashtra 4. Karnataka
-
-A. A-3, B-4, C-1, D-2 B. A-4, B-3, C-1, D-2 C. A-3, B-4, C-2, D-1 D. A-3, B-2, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3. UPPCS Prelims 2023, Q28**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q4. UPPCS Prelims 2022, Q68** — boat models → **C Mohenjo-daro and Lothal.**
-
-### UPPCS Prelims 2021
-
-**Q5. UPPCS Prelims 2021, Q100** — Mandi situated in → **D Uttar Pradesh.**
-
-### UPPCS Prelims 2020
-
-**Q6. UPPCS Prelims 2020, Q10** — Bhimbetka first visitor → **C V.S. Wakankar.Q7. UPPCS Prelims 2020, Q12** — Balu / Manda / Padri / Hulas → **D 3-2-4-1.**
-
-### UPPCS Prelims 2019
-
-No further GS-I archaeology hit after keyword search.
-
-### UPPCS Prelims 2018
-
-**Q8. UPPCS Prelims 2018, Q88** — IVC centres in UP → **D III and IV** (Alamgirpur, Hulas).
 
 ---
 

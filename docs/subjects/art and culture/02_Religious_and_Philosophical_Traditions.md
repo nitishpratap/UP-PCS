@@ -903,6 +903,271 @@ D. Jain
 
 ---
 
+## Complete PYQ Bank (Topic 2)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q12**
+
+Match List-I with List-II and select the correct answer using the code given below the lists.
+
+List-I (Disciple)
+A. Kabir
+B. Amir Khusrau
+C. Surdas
+D. Mardana
+
+List-II (Guru)
+1. Guru Nanak Dev
+2. Swami Ramananda
+3. Nizamuddin Auliya
+4. Vallabhacharya
+
+A. 3 2 4 1
+B. 3 2 1 4
+C. 2 3 4 1
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Kabir–Ramananda, Khusrau–Nizamuddin, Surdas–Vallabha, Mardana–Nanak.
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q74**
+
+Arrange the following saints in the correct chronological order:
+
+1. Guru Nanak
+2. Chaitanya Mahaprabhu
+3. Namdev
+4. Kabir
+
+A. 3, 4, 2, 1
+B. 4, 3, 1, 2
+C. 3, 4, 1, 2
+D. 4, 3, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Namdev → Kabir → Nanak → Chaitanya.
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q105**
+
+The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
+
+1. Vaishali
+2. Rajagriha
+3. Kundalvana
+4. Pataliputra
+
+A. 1, 2, 4, 3
+B. 2, 1, 3, 4
+C. 2, 1, 4, 3
+D. 1, 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Rajagriha → Vaishali → Pataliputra → Kundalvana.
+
+</details>
+
+### 2023
+
+**Q4. UPPCS Prelims 2023, Q24**
+
+*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
+
+A. Nagarjun
+B. Nagbhatt
+C. Nagasena
+D. Kumaril Bhatt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Nagasena.**
+
+</details>
+
+**Q5. UPPCS Prelims 2023, Q30**
+
+Which of the following pairs (**School of Thought — Proponent**) is correctly matched?
+
+A. Vaisheshika — Patanjali
+B. Mimansa — Kanada
+C. Nyaya — Gautama
+D. Uttara Mimansa — Kapila
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Nyaya — Gautama.**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q39**
+
+Which of the following pairs (**Poetess — Composition**) is **not** correctly matched?
+
+A. Daya Bai — Vinay Malika
+B. Sahajobai — Sahaj Prakash
+C. Gangabai — Ganesh Dev Leela
+D. Son Kumari — Poem of Swam Beli
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+### 2022
+
+**Q7. UPPCS Prelims 2022, Q33**
+
+Match List-I with List-II and select the correct answer.
+
+**List-I (Philosopher)**
+A. Ramanuja
+B. Madhavacharya
+C. Nimbarka
+D. Vallabhacharya
+
+**List-II (Philosophy)**
+1. Shuddhadvaita
+2. Dvaitadvaita
+3. Dvaita
+4. Vishishtadvaita
+
+A. 2, 4, 1, 3
+B. 3, 1, 4, 2
+C. 1, 2, 3, 4
+D. 4, 3, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 4, 3, 2, 1.
+
+</details>
+
+**Q8. UPPCS Prelims 2022, Q96**
+
+Which religious group in India has its highest urban population?
+
+A. Hindu
+B. Buddhist
+C. Christian
+D. Jain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Jain.**
+
+</details>
+
+### 2021
+
+**Q9. UPPCS Prelims 2021, Q101**
+
+The book 'Fawaid ul Fawad' is the record of the conversations of Shaikh Nizamuddin Auliya, it was compiled by
+
+A. Amir Hassan Sizzi
+B. Amir Khusro
+C. Ziauddin Barni
+D. Hasan Nizami
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Amir Hasan Sijzi.**
+
+</details>
+
+**Q10. UPPCS Prelims 2021, Q131**
+
+Which one of the following pairs is NOT correctly matched?
+(Tirthankar) — (Nirvan Place)
+
+A. Rishabhanath — Ashtapad
+B. Vasupujya — Sammedashikhar
+C. Neminath — Urjayanta
+D. Mahavira — Pavapuri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Vasupujya = Champapuri.
+
+</details>
+
+### 2020
+
+**Q11. UPPCS Prelims 2020, Q40**
+
+Which of the following is NOT correctly matched?
+
+A. Shaikh Moinuddin — Ajmer Chishti
+B. Shaikh Burhanuddin — Daulatabad Gharib
+C. Shaikh Mohammad — Gulbarga Hussaini
+D. Shaikh Nizamuddin — Multan Auliya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Nizamuddin Auliya = Delhi.
+
+</details>
+
+### 2019
+
+**Q12. UPPCS Prelims 2019, Q14**
+
+With reference to Hath Yog, which of the following statement is/are correct?
+
+1. Hath Yog was practiced by Nathpanthis.
+2. Hath Yog technique was also adopted by the Sufis.
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+### 2018
+
+**Q13. UPPCS Prelims 2018, Q90**
+
+Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
+Reason (R): The early Chishti sufis were fond of musical assemblies called, 'sama'.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **45 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1832,271 +2097,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — Khalsa = **Anandpur / Keshgarh**, 1699. Damdama = Talwandi Sabo.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 2)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q12**
-
-Match List-I with List-II and select the correct answer using the code given below the lists.
-
-List-I (Disciple)
-A. Kabir
-B. Amir Khusrau
-C. Surdas
-D. Mardana
-
-List-II (Guru)
-1. Guru Nanak Dev
-2. Swami Ramananda
-3. Nizamuddin Auliya
-4. Vallabhacharya
-
-A. 3 2 4 1
-B. 3 2 1 4
-C. 2 3 4 1
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kabir–Ramananda, Khusrau–Nizamuddin, Surdas–Vallabha, Mardana–Nanak.
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q74**
-
-Arrange the following saints in the correct chronological order:
-
-1. Guru Nanak
-2. Chaitanya Mahaprabhu
-3. Namdev
-4. Kabir
-
-A. 3, 4, 2, 1
-B. 4, 3, 1, 2
-C. 3, 4, 1, 2
-D. 4, 3, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Namdev → Kabir → Nanak → Chaitanya.
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q105**
-
-The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
-
-1. Vaishali
-2. Rajagriha
-3. Kundalvana
-4. Pataliputra
-
-A. 1, 2, 4, 3
-B. 2, 1, 3, 4
-C. 2, 1, 4, 3
-D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Rajagriha → Vaishali → Pataliputra → Kundalvana.
-
-</details>
-
-### 2023
-
-**Q4. UPPCS Prelims 2023, Q24**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun
-B. Nagbhatt
-C. Nagasena
-D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nagasena.**
-
-</details>
-
-**Q5. UPPCS Prelims 2023, Q30**
-
-Which of the following pairs (**School of Thought — Proponent**) is correctly matched?
-
-A. Vaisheshika — Patanjali
-B. Mimansa — Kanada
-C. Nyaya — Gautama
-D. Uttara Mimansa — Kapila
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nyaya — Gautama.**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q39**
-
-Which of the following pairs (**Poetess — Composition**) is **not** correctly matched?
-
-A. Daya Bai — Vinay Malika
-B. Sahajobai — Sahaj Prakash
-C. Gangabai — Ganesh Dev Leela
-D. Son Kumari — Poem of Swam Beli
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-### 2022
-
-**Q7. UPPCS Prelims 2022, Q33**
-
-Match List-I with List-II and select the correct answer.
-
-**List-I (Philosopher)**
-A. Ramanuja
-B. Madhavacharya
-C. Nimbarka
-D. Vallabhacharya
-
-**List-II (Philosophy)**
-1. Shuddhadvaita
-2. Dvaitadvaita
-3. Dvaita
-4. Vishishtadvaita
-
-A. 2, 4, 1, 3
-B. 3, 1, 4, 2
-C. 1, 2, 3, 4
-D. 4, 3, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 4, 3, 2, 1.
-
-</details>
-
-**Q8. UPPCS Prelims 2022, Q96**
-
-Which religious group in India has its highest urban population?
-
-A. Hindu
-B. Buddhist
-C. Christian
-D. Jain
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Jain.**
-
-</details>
-
-### 2021
-
-**Q9. UPPCS Prelims 2021, Q101**
-
-The book 'Fawaid ul Fawad' is the record of the conversations of Shaikh Nizamuddin Auliya, it was compiled by
-
-A. Amir Hassan Sizzi
-B. Amir Khusro
-C. Ziauddin Barni
-D. Hasan Nizami
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Amir Hasan Sijzi.**
-
-</details>
-
-**Q10. UPPCS Prelims 2021, Q131**
-
-Which one of the following pairs is NOT correctly matched?
-(Tirthankar) — (Nirvan Place)
-
-A. Rishabhanath — Ashtapad
-B. Vasupujya — Sammedashikhar
-C. Neminath — Urjayanta
-D. Mahavira — Pavapuri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Vasupujya = Champapuri.
-
-</details>
-
-### 2020
-
-**Q11. UPPCS Prelims 2020, Q40**
-
-Which of the following is NOT correctly matched?
-
-A. Shaikh Moinuddin — Ajmer Chishti
-B. Shaikh Burhanuddin — Daulatabad Gharib
-C. Shaikh Mohammad — Gulbarga Hussaini
-D. Shaikh Nizamuddin — Multan Auliya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Nizamuddin Auliya = Delhi.
-
-</details>
-
-### 2019
-
-**Q12. UPPCS Prelims 2019, Q14**
-
-With reference to Hath Yog, which of the following statement is/are correct?
-
-1. Hath Yog was practiced by Nathpanthis.
-2. Hath Yog technique was also adopted by the Sufis.
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-### 2018
-
-**Q13. UPPCS Prelims 2018, Q90**
-
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
-Reason (R): The early Chishti sufis were fond of musical assemblies called, 'sama'.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
 
 </details>
 

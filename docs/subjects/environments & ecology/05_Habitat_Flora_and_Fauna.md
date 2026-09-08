@@ -283,6 +283,152 @@ D. 2 3 4 1
 
 ---
 
+## Complete PYQ Bank (Topic 5)
+
+**Q1. UPPCS Prelims 2024, Q62**
+
+Plants and animals that live on land are called:
+
+A. Abiotic
+
+B. Aquatic habitants
+
+C. Terrestrial habitants
+
+D. Biotic
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q29**
+
+Match List-I with List-II:
+
+List-I: A. Planting Hearth B. Cryophyte Steppe C. World Floral Regions D. Puszta Grassland
+List-II: 1. Hungary 2. Adolf Engler 3. C.O. Sauer 4. Arctic Tundra
+
+A. 3 4 2 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 2 3 4 1
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q3. UPPCS Prelims 2025, Q93**
+
+With reference to MISHTI, which statements is/are correct?
+
+1. It was initiated in 2019.
+2. It aims to restore mangrove forests.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q4. UPPCS Prelims 2025, Q72**
+
+Arrange chronologically: AMRUT, JNNURM, Jal Jeevan Mission, NUHHP.
+
+A. 2, 4, 1, 3
+
+B. 4, 2, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 3, 1
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q5. UPPCS Prelims 2025, Q23**
+
+Which pairs is/are NOT correctly matched? (Tribe — Habitat) — Masai — West Africa
+
+A. Only 1, 2 and 3
+
+B. Only 4
+
+C. Only 3 and 4
+
+D. Only 1
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q6. UPPCS Prelims 2023, Q115**
+
+Desert-dwelling animals are called:
+
+A. Arboreal
+
+B. Terrestrial
+
+C. Fossorial
+
+D. Xericole
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q7. UPSC Prelims 2020 — pattern**
+
+Among Desert, Mangrove, and Rainforest, which are terrestrial ecosystems?
+
+<details><summary>Show answer</summary>
+
+**Ans: Desert and Rainforest** — Mangrove is transitional.
+
+</details>
+
+**Q8. UPPCS Prelims 2019 — pattern**
+
+Which is an example of in-situ conservation?
+
+A. Botanical garden
+
+B. Seed bank
+
+C. National park
+
+D. Zoo
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | multi-statement + A/R + match + chronology + NOT-matched
@@ -813,152 +959,6 @@ D. Flora excludes grasses and ferns
 <details><summary>Show answer</summary>
 
 **Ans: B**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 5)
-
-**Q1. UPPCS Prelims 2024, Q62**
-
-Plants and animals that live on land are called:
-
-A. Abiotic
-
-B. Aquatic habitants
-
-C. Terrestrial habitants
-
-D. Biotic
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q29**
-
-Match List-I with List-II:
-
-List-I: A. Planting Hearth B. Cryophyte Steppe C. World Floral Regions D. Puszta Grassland
-List-II: 1. Hungary 2. Adolf Engler 3. C.O. Sauer 4. Arctic Tundra
-
-A. 3 4 2 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 2 3 4 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3. UPPCS Prelims 2025, Q93**
-
-With reference to MISHTI, which statements is/are correct?
-
-1. It was initiated in 2019.
-2. It aims to restore mangrove forests.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4. UPPCS Prelims 2025, Q72**
-
-Arrange chronologically: AMRUT, JNNURM, Jal Jeevan Mission, NUHHP.
-
-A. 2, 4, 1, 3
-
-B. 4, 2, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 3, 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5. UPPCS Prelims 2025, Q23**
-
-Which pairs is/are NOT correctly matched? (Tribe — Habitat) — Masai — West Africa
-
-A. Only 1, 2 and 3
-
-B. Only 4
-
-C. Only 3 and 4
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6. UPPCS Prelims 2023, Q115**
-
-Desert-dwelling animals are called:
-
-A. Arboreal
-
-B. Terrestrial
-
-C. Fossorial
-
-D. Xericole
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q7. UPSC Prelims 2020 — pattern**
-
-Among Desert, Mangrove, and Rainforest, which are terrestrial ecosystems?
-
-<details><summary>Show answer</summary>
-
-**Ans: Desert and Rainforest** — Mangrove is transitional.
-
-</details>
-
-**Q8. UPPCS Prelims 2019 — pattern**
-
-Which is an example of in-situ conservation?
-
-A. Botanical garden
-
-B. Seed bank
-
-C. National park
-
-D. Zoo
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
 
 </details>
 

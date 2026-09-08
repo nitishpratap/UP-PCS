@@ -579,6 +579,201 @@ D. 2, 1, 4, 3
 
 ---
 
+## Complete PYQ Bank (Topic 14)
+
+### 2025
+
+**Q1. UPPCS Prelims 2025, Q133**
+Which of the following pairs is/are NOT correctly matched?
+1. National Voters' Day (India) — 25 January
+2. Constitution Day (India) — 27 January
+3. Human Rights Day (World) — 29 January
+A. 1 and 2
+B. 2 and 3
+C. Only 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 2 and 3.** Voters’ Day **25 Jan** is correct.
+
+</details>
+
+**Q1a. UPPCS Prelims 2025, Q124**
+Consider the following electoral reforms in India and arrange them in correct chronological order from earliest to latest.
+1. Elector's Photo Identity Card (EPIC)
+2. Electronic Voting Machine (EVM)
+3. Voter Verifiable Paper Audit Trail (VVPAT)
+4. NOTA
+A. 2, 1, 3, 4
+B. 1, 2, 4, 3
+C. 1, 2, 3, 4
+D. 2, 1, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 2, 1, 3, 4**
+
+</details>
+
+**Q1b. UPPCS Prelims 2025, Q113**
+Match List-I (Schedule) with List-II:
+A. Seventh
+B. Eighth
+C. Ninth
+D. Tenth
+1. Language
+2. Disqualification on the ground of defection
+3. Union, State and Concurrent Lists
+4. Validation of certain Acts and Regulations
+A. A-3, B-1, C-2, D-4
+B. A-3, B-1, C-4, D-2
+C. A-2, B-3, C-4, D-4
+D. A-4, B-2, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 3, 1, 4, 2**
+
+</details>
+
+### 2024
+
+**Q2. UPPCS Prelims 2024, Q24**
+Which of the following are the functions of the Election Commission of India?
+1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
+2. Conduct of elections of the Municipal Corporations and Municipalities.
+3. Deciding on all doubts and disputes arising out of the above elections.
+A. 2 and 3
+B. 1 and 2
+C. 1 and 3
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2023
+
+**Q2a. UPPCS Prelims 2023, Q2**
+Match List-I with List-II:
+(A) Article 324 (B) Article 315 (C) Article 280 (D) Article 338
+1. NCSC
+2. Finance Commission
+3. Public Service Commission
+4. Election Commission
+A. A-3, B-2, C-4, D-1
+B. A-4, B-3, C-2, D-1
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 324 = ECI.
+
+</details>
+
+**Q3. UPPCS Prelims 2023, Q17**
+All elections to the Panchayats are conducted by—
+A. State Legislature
+B. State Election Commission
+C. Election Commission of India
+D. Panchayati Raj Commission of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q3a. UPPCS Prelims 2023, Q7**
+Which one of the following pairs (Schedule — Subject) is **not** correctly matched?
+A. Third Schedule — Forms of Oaths or Affirmations
+B. Eighth Schedule — Languages
+C. Ninth Schedule — Allocation of seats in the Council of States
+D. Tenth Schedule — Provisions as to disqualification on the ground of defection
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — RS seats = **Fourth** Schedule. Tenth **is** defection.
+
+</details>
+
+### 2022
+
+**Q4. UPPCS Prelims 2022, Q141**
+Which one of the following pairs is NOT correctly matched?
+A. 13th Lok Sabha — 1999
+B. 11th Lok Sabha — 1996
+C. 9th Lok Sabha — 1989
+D. 7th Lok Sabha — 1982
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 7th = **1980**.
+
+</details>
+
+### 2021
+
+**Q5. UPPCS Prelims 2021, Q113**
+Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?
+A. 66th
+B. 62nd
+C. 61st
+D. 63rd
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### 2020
+
+**Q6. UPPCS Prelims 2020, Q100**
+The superintendence, direction and control of all elections to the Panchayats are vested in—
+A. The Governor
+B. The Election Commission of India
+C. The District Panchayat Raj Officer
+D. The State Election Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### 2019
+
+**Q7. UPPCS Prelims 2019, Q28**
+Which of the following is NOT correctly matched?
+A. Public Health and Sanitation — State List
+B. Census — Union List
+C. Allocation of seats in the Council of States — Second Schedule
+D. Anti-Defection — Tenth Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — RS seats = **Fourth** Schedule. Tenth **is** correctly matched.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **Answers hidden.** Full stems (not cryptic stubs). **90 questions.** ≥60% multi-statement.
@@ -1988,201 +2183,6 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: B**
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 14)
-
-### 2025
-
-**Q1. UPPCS Prelims 2025, Q133**
-Which of the following pairs is/are NOT correctly matched?
-1. National Voters' Day (India) — 25 January
-2. Constitution Day (India) — 27 January
-3. Human Rights Day (World) — 29 January
-A. 1 and 2
-B. 2 and 3
-C. Only 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 2 and 3.** Voters’ Day **25 Jan** is correct.
-
-</details>
-
-**Q1a. UPPCS Prelims 2025, Q124**
-Consider the following electoral reforms in India and arrange them in correct chronological order from earliest to latest.
-1. Elector's Photo Identity Card (EPIC)
-2. Electronic Voting Machine (EVM)
-3. Voter Verifiable Paper Audit Trail (VVPAT)
-4. NOTA
-A. 2, 1, 3, 4
-B. 1, 2, 4, 3
-C. 1, 2, 3, 4
-D. 2, 1, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 2, 1, 3, 4**
-
-</details>
-
-**Q1b. UPPCS Prelims 2025, Q113**
-Match List-I (Schedule) with List-II:
-A. Seventh
-B. Eighth
-C. Ninth
-D. Tenth
-1. Language
-2. Disqualification on the ground of defection
-3. Union, State and Concurrent Lists
-4. Validation of certain Acts and Regulations
-A. A-3, B-1, C-2, D-4
-B. A-3, B-1, C-4, D-2
-C. A-2, B-3, C-4, D-4
-D. A-4, B-2, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 3, 1, 4, 2**
-
-</details>
-
-### 2024
-
-**Q2. UPPCS Prelims 2024, Q24**
-Which of the following are the functions of the Election Commission of India?
-1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
-2. Conduct of elections of the Municipal Corporations and Municipalities.
-3. Deciding on all doubts and disputes arising out of the above elections.
-A. 2 and 3
-B. 1 and 2
-C. 1 and 3
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2023
-
-**Q2a. UPPCS Prelims 2023, Q2**
-Match List-I with List-II:
-(A) Article 324 (B) Article 315 (C) Article 280 (D) Article 338
-1. NCSC
-2. Finance Commission
-3. Public Service Commission
-4. Election Commission
-A. A-3, B-2, C-4, D-1
-B. A-4, B-3, C-2, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 324 = ECI.
-
-</details>
-
-**Q3. UPPCS Prelims 2023, Q17**
-All elections to the Panchayats are conducted by—
-A. State Legislature
-B. State Election Commission
-C. Election Commission of India
-D. Panchayati Raj Commission of India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q3a. UPPCS Prelims 2023, Q7**
-Which one of the following pairs (Schedule — Subject) is **not** correctly matched?
-A. Third Schedule — Forms of Oaths or Affirmations
-B. Eighth Schedule — Languages
-C. Ninth Schedule — Allocation of seats in the Council of States
-D. Tenth Schedule — Provisions as to disqualification on the ground of defection
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — RS seats = **Fourth** Schedule. Tenth **is** defection.
-
-</details>
-
-### 2022
-
-**Q4. UPPCS Prelims 2022, Q141**
-Which one of the following pairs is NOT correctly matched?
-A. 13th Lok Sabha — 1999
-B. 11th Lok Sabha — 1996
-C. 9th Lok Sabha — 1989
-D. 7th Lok Sabha — 1982
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 7th = **1980**.
-
-</details>
-
-### 2021
-
-**Q5. UPPCS Prelims 2021, Q113**
-Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?
-A. 66th
-B. 62nd
-C. 61st
-D. 63rd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### 2020
-
-**Q6. UPPCS Prelims 2020, Q100**
-The superintendence, direction and control of all elections to the Panchayats are vested in—
-A. The Governor
-B. The Election Commission of India
-C. The District Panchayat Raj Officer
-D. The State Election Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### 2019
-
-**Q7. UPPCS Prelims 2019, Q28**
-Which of the following is NOT correctly matched?
-A. Public Health and Sanitation — State List
-B. Census — Union List
-C. Allocation of seats in the Council of States — Second Schedule
-D. Anti-Defection — Tenth Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — RS seats = **Fourth** Schedule. Tenth **is** correctly matched.
 
 </details>
 

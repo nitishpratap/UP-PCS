@@ -627,6 +627,205 @@ D. 2, 4, 1, 3
 
 ---
 
+## Complete PYQ Bank
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q41**
+
+Consider the following events and arrange them in correct chronological order.
+
+1. Cripps Mission
+2. Cabinet Mission
+3. Shimla Conference
+4. Wavell Plan
+
+A. 1, 4, 3, 2
+
+B. 4, 1, 2, 3
+
+C. 4, 1, 3, 2
+
+D. 1, 4, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### UPPCS Prelims 2024
+
+**Q2. UPPCS Prelims 2024, Q16**
+
+Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
+
+1. Royal Indian Navy Revolt
+2. Announcement of Cabinet Mission
+3. Formation of Interim Government
+4. Arrival of a UK Parliamentary Delegation in Delhi
+
+A. 4, 3, 2, 1
+
+B. 4, 1, 2, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q3. UPPCS Prelims 2024, Q133**
+
+Consider the following events and arrange them in chronological order:
+
+1. Linlithgow August Offer
+2. Cripps Mission arrival in India
+3. Ramgarh Congress Session
+4. Resignation letters of Congress Ministers
+
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2023
+
+**Q4. UPPCS Prelims 2023, Q45**
+
+What was the name of the women's regiment constituted as a part of the **Azad Hind Fauj** by Netaji Subhas Chandra Bose?
+
+A. Rani Bhabani Regiment
+
+B. Rani Jhansi Regiment
+
+C. Bharat Mata Regiment
+
+D. Veerangana Regiment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q5. UPPCS Prelims 2023, Q48**
+
+Who among the following women freedom fighters was **not associated** with the **Quit India Movement**?
+
+A. Matangini Hazra
+
+B. Aruna Asaf Ali
+
+C. Kanaklata Barua
+
+D. Shanti Ghosh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q6. UPPCS Prelims 2019, Q21**
+
+The trial of the Officers of the I.N.A. was held in
+
+A. Red Fort, Delhi
+
+B. Gwalior Fort
+
+C. Amer Fort, Jalpur
+
+D. Agra Fort
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q7. UPPCS Prelims 2019, Q96**
+
+Who prepared "C.R. Formula" to remove the political deadlock between Muslim League and Indian National Congress?
+
+A. Jawaharlal Nehru
+
+B. Rajgopalachar
+
+C. Chittaranjan Das
+
+D. V. P. Menon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q8. UPPCS Prelims 2018, Q17Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
+
+**Reason (R):** The Muslim League joined the interim government formed in 1946.
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** All four options share the date 16 — only the month distinguishes them.
+
+**Q. UKPCS Prelims 2025, Q65**
+
+When did the Muslim League observe ‘Direct Action Day’?
+
+A. 16 October, 1946
+B. 16 August, 1946
+C. 16 December, 1946
+D. 16 November, 1946
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Direct Action Day was 16 August 1946 after rejection of the Cabinet Mission plan; it led to the Great Calcutta Killings.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **45 questions.** Mix: chronology, multi-statement, Match-List, A/R, NOT-matched.
@@ -1568,205 +1767,6 @@ D. Only 1
 <summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q41**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Cripps Mission
-2. Cabinet Mission
-3. Shimla Conference
-4. Wavell Plan
-
-A. 1, 4, 3, 2
-
-B. 4, 1, 2, 3
-
-C. 4, 1, 3, 2
-
-D. 1, 4, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-### UPPCS Prelims 2024
-
-**Q2. UPPCS Prelims 2024, Q16**
-
-Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
-
-1. Royal Indian Navy Revolt
-2. Announcement of Cabinet Mission
-3. Formation of Interim Government
-4. Arrival of a UK Parliamentary Delegation in Delhi
-
-A. 4, 3, 2, 1
-
-B. 4, 1, 2, 3
-
-C. 4, 2, 1, 3
-
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q3. UPPCS Prelims 2024, Q133**
-
-Consider the following events and arrange them in chronological order:
-
-1. Linlithgow August Offer
-2. Cripps Mission arrival in India
-3. Ramgarh Congress Session
-4. Resignation letters of Congress Ministers
-
-A. 3, 1, 4, 2
-
-B. 4, 3, 1, 2
-
-C. 1, 3, 4, 2
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2023
-
-**Q4. UPPCS Prelims 2023, Q45**
-
-What was the name of the women's regiment constituted as a part of the **Azad Hind Fauj** by Netaji Subhas Chandra Bose?
-
-A. Rani Bhabani Regiment
-
-B. Rani Jhansi Regiment
-
-C. Bharat Mata Regiment
-
-D. Veerangana Regiment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q5. UPPCS Prelims 2023, Q48**
-
-Who among the following women freedom fighters was **not associated** with the **Quit India Movement**?
-
-A. Matangini Hazra
-
-B. Aruna Asaf Ali
-
-C. Kanaklata Barua
-
-D. Shanti Ghosh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q6. UPPCS Prelims 2019, Q21**
-
-The trial of the Officers of the I.N.A. was held in
-
-A. Red Fort, Delhi
-
-B. Gwalior Fort
-
-C. Amer Fort, Jalpur
-
-D. Agra Fort
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q7. UPPCS Prelims 2019, Q96**
-
-Who prepared "C.R. Formula" to remove the political deadlock between Muslim League and Indian National Congress?
-
-A. Jawaharlal Nehru
-
-B. Rajgopalachar
-
-C. Chittaranjan Das
-
-D. V. P. Menon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q8. UPPCS Prelims 2018, Q17Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
-
-**Reason (R):** The Muslim League joined the interim government formed in 1946.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** All four options share the date 16 — only the month distinguishes them.
-
-**Q. UKPCS Prelims 2025, Q65**
-
-When did the Muslim League observe ‘Direct Action Day’?
-
-A. 16 October, 1946
-B. 16 August, 1946
-C. 16 December, 1946
-D. 16 November, 1946
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Direct Action Day was 16 August 1946 after rejection of the Cabinet Mission plan; it led to the Great Calcutta Killings.
 
 </details>
 

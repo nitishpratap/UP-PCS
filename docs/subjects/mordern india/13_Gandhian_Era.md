@@ -765,6 +765,258 @@ D. Neither 1 nor 2
 
 ---
 
+## Complete PYQ Bank
+
+### UPPCS Prelims 2025
+
+**Q1. UPPCS Prelims 2025, Q7**
+
+Consider the following events and arrange them in correct chronological order.
+
+1. Poona Pact
+2. End of Civil Disobedience Movement
+3. Gandhi-Irwin Pact
+4. Second Round Table Conference
+
+A. 3, 4, 2, 1
+
+B. 4, 3, 1, 2
+
+C. 4, 3, 2, 1
+
+D. 3, 4, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q2. UPPCS Prelims 2025, Q135**
+
+Who among the following resigned from the Viceroy's Executive Council in protest against the Jallianwala Bagh Massacre?
+
+1. Chettur Sankaran Nair
+2. Ishwari Prasad
+3. Muhammad Shafi
+4. Iqbal Narayan Gurtu
+
+A. 2 and 3
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q3. UPPCS Prelims 2022, Q83**
+
+Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
+
+A. Md. Ali Jinnah
+
+B. Rabindranath Tagore
+
+C. Rameshwar Singh
+
+D. Shankaran Nair
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q4. UPPCS Prelims 2021, Q28**
+
+Consider the following events and arrange them into chronological order:
+
+I. Sharda Act
+II. Nehru Report
+III. Constitution of Simon Commission
+IV. Dandi March
+
+A. III, II, I and IV
+
+B. I, II, III and IV
+
+C. IV, III, II and I
+
+D. I, IV, II and III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q5. UPPCS Prelims 2021, Q82**
+
+The name of the foreign journalist who reported about Satyagraha at Dharsana salt works was
+
+A. Francis Louis
+
+B. Mark Tully
+
+C. Web Miller
+
+D. Philip Sprat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q6. UPPCS Prelims 2021, Q150**
+
+In the contexts of Indian history, which of the following statement/s is/are correct regarding Vaikom Satyagraha?
+
+1. It was a satyagraha against untouchability and caste discrimination.
+2. Mahatma Gandhi participated in this Satyagraha.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+### UPPCS Prelims 2020
+
+**Q7. UPPCS Prelims 2020, Q24**
+
+Who among the following leaders did NOT participated in the Second Round Table Conference?
+
+A. M.K. Gandhi
+
+B. Sarojini Naidu
+
+C. Pt. Madan Mohan Malviya
+
+D. Dr. Rajendra Prasad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q8. UPPCS Prelims 2019, Q19**
+
+Which of the following is NOT correctly matched? (Event) (Year)
+
+A. Indian Navy Act 1927
+
+B. Civil Disobedience 1930 Movement
+
+C. Second Round Table 1931 Conference
+
+D. The Communal Award 1933
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q9. UPPCS Prelims 2019, Q20**
+
+Arrange the following events in a chronological order and select the correct answer from the codes given below:
+
+I. Appointment of Simon Commission
+II. Jallianwala Bagh Massacre
+III. Mahatma Gandhi's Dandi March
+IV. Death of Ferozshah Mehta
+
+A. IV, II, I, III
+
+B. I, II, IV, III
+
+C. II, III, IV, I
+
+D. IV, III, II, I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1915 → 1919 → 1927 → 1930.
+
+</details>
+
+**Q10. UPPCS Prelims 2019, Q94**
+
+Arrange the following events in a chronological order and select correct answer from the codes given below:
+
+I. Poona Pact
+II. Gandhi-Irvin Agreement
+III. Cripps Mission
+IV. Civil Disobedience Movement
+
+A. IV, II, III, I
+
+B. II, IV, I, III
+
+C. IV, II, I, III
+
+D. III, I, IV, II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 1930 → 1931 → 1932 → 1942. Cripps full card is Topic 14.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Congress leaders of 1938 — association with planning decides it.
+
+**Q. UKPCS Prelims 2025, Q74**
+
+Who was appointed the Chairman of the ‘National Planning Committee’ by the Indian National Congress in 1938?
+
+A. Sardar Vallabhbhai Patel
+B. Rajendra Prasad
+C. Jawaharlal Nehru
+D. J. B. Kripalani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Nehru chaired the National Planning Committee set up in 1938 during Subhas Chandra Bose’s Congress presidency. Patel / Prasad / Kripalani are the planted Congress distractors.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **56 questions.** Mix: chronology, multi-statement, Match-List, A/R, NOT-matched.
@@ -1932,258 +2184,6 @@ D. 2 4 3 1
 <summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-### UPPCS Prelims 2025
-
-**Q1. UPPCS Prelims 2025, Q7**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Poona Pact
-2. End of Civil Disobedience Movement
-3. Gandhi-Irwin Pact
-4. Second Round Table Conference
-
-A. 3, 4, 2, 1
-
-B. 4, 3, 1, 2
-
-C. 4, 3, 2, 1
-
-D. 3, 4, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q2. UPPCS Prelims 2025, Q135**
-
-Who among the following resigned from the Viceroy's Executive Council in protest against the Jallianwala Bagh Massacre?
-
-1. Chettur Sankaran Nair
-2. Ishwari Prasad
-3. Muhammad Shafi
-4. Iqbal Narayan Gurtu
-
-A. 2 and 3
-
-B. Only 4
-
-C. 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q3. UPPCS Prelims 2022, Q83**
-
-Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
-
-A. Md. Ali Jinnah
-
-B. Rabindranath Tagore
-
-C. Rameshwar Singh
-
-D. Shankaran Nair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q4. UPPCS Prelims 2021, Q28**
-
-Consider the following events and arrange them into chronological order:
-
-I. Sharda Act
-II. Nehru Report
-III. Constitution of Simon Commission
-IV. Dandi March
-
-A. III, II, I and IV
-
-B. I, II, III and IV
-
-C. IV, III, II and I
-
-D. I, IV, II and III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5. UPPCS Prelims 2021, Q82**
-
-The name of the foreign journalist who reported about Satyagraha at Dharsana salt works was
-
-A. Francis Louis
-
-B. Mark Tully
-
-C. Web Miller
-
-D. Philip Sprat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6. UPPCS Prelims 2021, Q150**
-
-In the contexts of Indian history, which of the following statement/s is/are correct regarding Vaikom Satyagraha?
-
-1. It was a satyagraha against untouchability and caste discrimination.
-2. Mahatma Gandhi participated in this Satyagraha.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-### UPPCS Prelims 2020
-
-**Q7. UPPCS Prelims 2020, Q24**
-
-Who among the following leaders did NOT participated in the Second Round Table Conference?
-
-A. M.K. Gandhi
-
-B. Sarojini Naidu
-
-C. Pt. Madan Mohan Malviya
-
-D. Dr. Rajendra Prasad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q8. UPPCS Prelims 2019, Q19**
-
-Which of the following is NOT correctly matched? (Event) (Year)
-
-A. Indian Navy Act 1927
-
-B. Civil Disobedience 1930 Movement
-
-C. Second Round Table 1931 Conference
-
-D. The Communal Award 1933
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q9. UPPCS Prelims 2019, Q20**
-
-Arrange the following events in a chronological order and select the correct answer from the codes given below:
-
-I. Appointment of Simon Commission
-II. Jallianwala Bagh Massacre
-III. Mahatma Gandhi's Dandi March
-IV. Death of Ferozshah Mehta
-
-A. IV, II, I, III
-
-B. I, II, IV, III
-
-C. II, III, IV, I
-
-D. IV, III, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1915 → 1919 → 1927 → 1930.
-
-</details>
-
-**Q10. UPPCS Prelims 2019, Q94**
-
-Arrange the following events in a chronological order and select correct answer from the codes given below:
-
-I. Poona Pact
-II. Gandhi-Irvin Agreement
-III. Cripps Mission
-IV. Civil Disobedience Movement
-
-A. IV, II, III, I
-
-B. II, IV, I, III
-
-C. IV, II, I, III
-
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 1930 → 1931 → 1932 → 1942. Cripps full card is Topic 14.
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Congress leaders of 1938 — association with planning decides it.
-
-**Q. UKPCS Prelims 2025, Q74**
-
-Who was appointed the Chairman of the ‘National Planning Committee’ by the Indian National Congress in 1938?
-
-A. Sardar Vallabhbhai Patel
-B. Rajendra Prasad
-C. Jawaharlal Nehru
-D. J. B. Kripalani
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Nehru chaired the National Planning Committee set up in 1938 during Subhas Chandra Bose’s Congress presidency. Patel / Prasad / Kripalani are the planted Congress distractors.
 
 </details>
 

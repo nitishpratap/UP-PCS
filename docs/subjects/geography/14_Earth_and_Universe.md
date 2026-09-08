@@ -585,6 +585,509 @@ D. 4, 3, 2, 1
 
 India seismic **zones II–V**. NDMA chair = **PM**.
 
+---
+
+## Complete PYQ Bank — Earth & Universe (2018–2025)
+
+**Instructions:** Answers under `<details>`.
+
+---
+
+**Q1. UPPCS Prelims 2025, Q45**
+With reference to the ozone layer, which of the following statements is/are correct?
+
+1. The ozone layer protects the Earth's surface from ultraviolet radiation coming from the Sun.
+2. Ozone depletion has been linked to chlorofluorocarbons (CFCs).
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2024, Q60**
+Assertion (A): Jet streams discovered during World War II are high altitude easterly winds.
+Reason (R): Jet streams flow with a speed of 300-500 km/hour.
+
+A. Both true, R explains A
+
+B. (A) is false, but (R) is true
+
+C. Both true, R not explanation
+
+D. (A) is true, (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Jets are **westerly** (TEJ is the easterly exception).
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024, Q46**
+Which of the following missions was India's first mission to Mars?
+
+A. Chandrayaan-1
+
+B. Mangalyaan
+
+C. Aditya-L1
+
+D. Astrosat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q35**
+Which of the following international agreements is related to climate change mitigation?
+
+A. Montreal Protocol
+
+B. Ramsar Convention
+
+C. Kyoto Protocol
+
+D. CITES
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Montreal = ozone.
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2024, Q30**
+Which of the following volcanoes is not located in the Pacific Ring of Fire?
+
+A. Mount Fuji
+
+B. Mount Pinatubo
+
+C. Mount Kilimanjaro
+
+D. Mount St. Helens
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2024, Q79**
+Consider the following statements with reference to Mediterranean climate:
+
+1. It receives rainfall in winter season.
+2. Due to winter solstice, air pressure belts shift to the south.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2023, Q68**
+What causes winds to deflect towards the left in the Southern Hemisphere?
+
+A. Temperature
+
+B. Coriolis Force
+
+C. Magnetic Field
+
+D. Pressure
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2023, Q67**
+With reference to El Niño, which of the following statements is/are correct?
+
+1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
+2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Upwelling fails → **less** plankton.
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2023, Q52**
+The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Thermosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2022, Q138**
+The Earth's atmosphere is mainly heated by which one of the following?
+
+A. Long-wave terrestrial radiation
+
+B. Scattered solar radiation
+
+C. Reflected solar radiation
+
+D. Short-wave solar radiation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2022, Q139**
+Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
+
+A. Biomass energy
+
+B. Nuclear energy
+
+C. Wind energy
+
+D. Geothermal energy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B and D are both non-solar** (fission vs Earth’s internal heat). Wind and biomass are solar. If the official key is a single bubble, still treat **both** as correct in revision.
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2022, Q105**
+The atmosphere of Saturn contains which one of the following gases in large quantity?
+
+A. Sulphur dioxide
+
+B. Carbon monoxide
+
+C. Methane
+
+D. Nitrogen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Paper fact. Bulk composition is H₂+He.
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2022, Q102**
+Which of the following is NOT a greenhouse gas?
+
+A. Argon
+
+B. Chlorofluorocarbon
+
+C. Methane
+
+D. Carbon dioxide
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2022, Q35**
+With reference to India, which of the following statements is/are correct?
+
+1. India is the sixth largest country in the world.
+2. India occupies about 2.4% of the total area of the world.
+3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
+4. India lies completely in the tropical zone.
+
+A. 2 and 3
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — **2 and 3**. India is **7th**, not 6th. **2.4%** true. Tropic through the middle = NCERT fact. **Not** wholly tropical.
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2022, Q22**
+Assertion (A): Agra and Darjeeling are located on nearly the same latitude, but January temperature in Agra is about 16°C, whereas it is only 4°C in Darjeeling.
+Reason (R): Temperature decreases with height due to thinner air compared to places in the plains.
+
+A. (A) false (R) true
+
+B. (A) true (R) false
+
+C. Both true, R not explanation
+
+D. Both true and R explains A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2021, Q125**
+The concept of 'carbon credit' originated from
+
+A. Earth Summit, Rio-de-Janeiro
+
+B. Kyoto protocol
+
+C. Montreal protocol
+
+D. G-8 Summit, Heiligendum
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2021, Q78**
+Match List-I (Volcanic Mountains) with List-II (Country):
+
+A. Mount Rainier B. Mount Etna C. Mount Pericutine D. Mount Apo
+
+1. Italy 2. Mexico 3. Philippines 4. U.S.A.
+
+A. 4 2 1 3
+
+B. 4 1 2 3
+
+C. 2 1 4 3
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — USA, Italy, Mexico, Philippines.
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2021, Q134**
+Diffusion of light in the atmosphere takes place due to
+
+A. Carbon dioxide
+
+B. Dust particles
+
+C. Helium
+
+D. Water vapours
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q19. UPPCS Prelims 2020, Q139**
+Which one of the following is NOT a green house gas found naturally in the atmosphere?
+
+A. Nitrogen oxide
+
+B. Carbon dioxide
+
+C. Methane
+
+D. Ozone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — CO₂, CH₄, O₃ are natural GHGs; “nitrogen oxide” (NO/NO₂) is the odd one in this list.
+</details>
+
+---
+
+**Q20. UPPCS Prelims 2019, Q132**
+Which of the following is NOT correctly matched?
+
+A. Cartagena Protocol — Biosafety
+
+B. Stockholm Convention — Persistent organic pollutant
+
+C. Montreal Protocol — Ozone layer
+
+D. Kyoto Protocol — Save water
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Kyoto = GHG / climate, not water.
+</details>
+
+---
+
+**Q21. UPPCS Prelims 2018, Q57**
+Which of the following pairs is NOT correctly matched?
+
+A. Renneting–Cheese
+
+B. Genetic Engineering–Plasmids
+
+C. Golden rice–Vitamin A
+
+D. Ozone layer–Troposphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q22. UPPCS Prelims 2018, Q52**
+The maximum concentration of Ozone is found in which of the following?
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Exosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q23. UPPCS Prelims 2018, Q85**
+As per report released by U.S. Journal, 'SCIENCE' on 26th July, 2018, a massive underground lake has been detected on which planet?
+
+A. Jupiter
+
+B. Saturn
+
+C. Venus
+
+D. Mars
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q24. UPPCS Prelims 2018, Q140**
+Which of the following planets may be suitable for existence of life?
+
+A. Mars
+
+B. Mercury
+
+C. Venus
+
+D. Jupitor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q25. UPPCS Prelims 2018, Q53**
+As a result of global warming the frequency and severity of which of the following are increasing?
+
+A. Cyclones only
+
+B. Storms only
+
+C. Hurricanes only
+
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Also in.
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -1881,507 +2384,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: D**
-</details>
-
----
-
-## Complete PYQ Bank — Earth & Universe (2018–2025)
-
-**Instructions:** Answers under `<details>`.
-
----
-
-**Q1. UPPCS Prelims 2025, Q45**
-With reference to the ozone layer, which of the following statements is/are correct?
-
-1. The ozone layer protects the Earth's surface from ultraviolet radiation coming from the Sun.
-2. Ozone depletion has been linked to chlorofluorocarbons (CFCs).
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q2. UPPCS Prelims 2024, Q60**
-Assertion (A): Jet streams discovered during World War II are high altitude easterly winds.
-Reason (R): Jet streams flow with a speed of 300-500 km/hour.
-
-A. Both true, R explains A
-
-B. (A) is false, but (R) is true
-
-C. Both true, R not explanation
-
-D. (A) is true, (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Jets are **westerly** (TEJ is the easterly exception).
-</details>
-
----
-
-**Q3. UPPCS Prelims 2024, Q46**
-Which of the following missions was India's first mission to Mars?
-
-A. Chandrayaan-1
-
-B. Mangalyaan
-
-C. Aditya-L1
-
-D. Astrosat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q35**
-Which of the following international agreements is related to climate change mitigation?
-
-A. Montreal Protocol
-
-B. Ramsar Convention
-
-C. Kyoto Protocol
-
-D. CITES
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Montreal = ozone.
-</details>
-
----
-
-**Q5. UPPCS Prelims 2024, Q30**
-Which of the following volcanoes is not located in the Pacific Ring of Fire?
-
-A. Mount Fuji
-
-B. Mount Pinatubo
-
-C. Mount Kilimanjaro
-
-D. Mount St. Helens
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q6. UPPCS Prelims 2024, Q79**
-Consider the following statements with reference to Mediterranean climate:
-
-1. It receives rainfall in winter season.
-2. Due to winter solstice, air pressure belts shift to the south.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q7. UPPCS Prelims 2023, Q68**
-What causes winds to deflect towards the left in the Southern Hemisphere?
-
-A. Temperature
-
-B. Coriolis Force
-
-C. Magnetic Field
-
-D. Pressure
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q8. UPPCS Prelims 2023, Q67**
-With reference to El Niño, which of the following statements is/are correct?
-
-1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
-2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Upwelling fails → **less** plankton.
-</details>
-
----
-
-**Q9. UPPCS Prelims 2023, Q52**
-The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
-
-A. Troposphere
-
-B. Mesosphere
-
-C. Stratosphere
-
-D. Thermosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q10. UPPCS Prelims 2022, Q138**
-The Earth's atmosphere is mainly heated by which one of the following?
-
-A. Long-wave terrestrial radiation
-
-B. Scattered solar radiation
-
-C. Reflected solar radiation
-
-D. Short-wave solar radiation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q11. UPPCS Prelims 2022, Q139**
-Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
-
-A. Biomass energy
-
-B. Nuclear energy
-
-C. Wind energy
-
-D. Geothermal energy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B and D are both non-solar** (fission vs Earth’s internal heat). Wind and biomass are solar. If the official key is a single bubble, still treat **both** as correct in revision.
-</details>
-
----
-
-**Q12. UPPCS Prelims 2022, Q105**
-The atmosphere of Saturn contains which one of the following gases in large quantity?
-
-A. Sulphur dioxide
-
-B. Carbon monoxide
-
-C. Methane
-
-D. Nitrogen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Paper fact. Bulk composition is H₂+He.
-</details>
-
----
-
-**Q13. UPPCS Prelims 2022, Q102**
-Which of the following is NOT a greenhouse gas?
-
-A. Argon
-
-B. Chlorofluorocarbon
-
-C. Methane
-
-D. Carbon dioxide
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q14. UPPCS Prelims 2022, Q35**
-With reference to India, which of the following statements is/are correct?
-
-1. India is the sixth largest country in the world.
-2. India occupies about 2.4% of the total area of the world.
-3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
-4. India lies completely in the tropical zone.
-
-A. 2 and 3
-
-B. 2 and 4
-
-C. 3 and 4
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **2 and 3**. India is **7th**, not 6th. **2.4%** true. Tropic through the middle = NCERT fact. **Not** wholly tropical.
-</details>
-
----
-
-**Q15. UPPCS Prelims 2022, Q22**
-Assertion (A): Agra and Darjeeling are located on nearly the same latitude, but January temperature in Agra is about 16°C, whereas it is only 4°C in Darjeeling.
-Reason (R): Temperature decreases with height due to thinner air compared to places in the plains.
-
-A. (A) false (R) true
-
-B. (A) true (R) false
-
-C. Both true, R not explanation
-
-D. Both true and R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q16. UPPCS Prelims 2021, Q125**
-The concept of 'carbon credit' originated from
-
-A. Earth Summit, Rio-de-Janeiro
-
-B. Kyoto protocol
-
-C. Montreal protocol
-
-D. G-8 Summit, Heiligendum
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q17. UPPCS Prelims 2021, Q78**
-Match List-I (Volcanic Mountains) with List-II (Country):
-
-A. Mount Rainier B. Mount Etna C. Mount Pericutine D. Mount Apo
-
-1. Italy 2. Mexico 3. Philippines 4. U.S.A.
-
-A. 4 2 1 3
-
-B. 4 1 2 3
-
-C. 2 1 4 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — USA, Italy, Mexico, Philippines.
-</details>
-
----
-
-**Q18. UPPCS Prelims 2021, Q134**
-Diffusion of light in the atmosphere takes place due to
-
-A. Carbon dioxide
-
-B. Dust particles
-
-C. Helium
-
-D. Water vapours
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q19. UPPCS Prelims 2020, Q139**
-Which one of the following is NOT a green house gas found naturally in the atmosphere?
-
-A. Nitrogen oxide
-
-B. Carbon dioxide
-
-C. Methane
-
-D. Ozone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — CO₂, CH₄, O₃ are natural GHGs; “nitrogen oxide” (NO/NO₂) is the odd one in this list.
-</details>
-
----
-
-**Q20. UPPCS Prelims 2019, Q132**
-Which of the following is NOT correctly matched?
-
-A. Cartagena Protocol — Biosafety
-
-B. Stockholm Convention — Persistent organic pollutant
-
-C. Montreal Protocol — Ozone layer
-
-D. Kyoto Protocol — Save water
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Kyoto = GHG / climate, not water.
-</details>
-
----
-
-**Q21. UPPCS Prelims 2018, Q57**
-Which of the following pairs is NOT correctly matched?
-
-A. Renneting–Cheese
-
-B. Genetic Engineering–Plasmids
-
-C. Golden rice–Vitamin A
-
-D. Ozone layer–Troposphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q22. UPPCS Prelims 2018, Q52**
-The maximum concentration of Ozone is found in which of the following?
-
-A. Troposphere
-
-B. Mesosphere
-
-C. Stratosphere
-
-D. Exosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q23. UPPCS Prelims 2018, Q85**
-As per report released by U.S. Journal, 'SCIENCE' on 26th July, 2018, a massive underground lake has been detected on which planet?
-
-A. Jupiter
-
-B. Saturn
-
-C. Venus
-
-D. Mars
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q24. UPPCS Prelims 2018, Q140**
-Which of the following planets may be suitable for existence of life?
-
-A. Mars
-
-B. Mercury
-
-C. Venus
-
-D. Jupitor
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q25. UPPCS Prelims 2018, Q53**
-As a result of global warming the frequency and severity of which of the following are increasing?
-
-A. Cyclones only
-
-B. Storms only
-
-C. Hurricanes only
-
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Also in.
 </details>
 
 ---

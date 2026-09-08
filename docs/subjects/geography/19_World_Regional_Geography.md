@@ -960,6 +960,483 @@ D. Anguilla
 
 ---
 
+## Complete PYQ Bank
+
+**Instructions:** Answers under `<details>`. Match questions use a table. Options sit on separate lines.
+
+**Q1. UPPCS Prelims 2025, Q1**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** The interior part of Australia is desert and semi-desert.
+
+**Reason (R):** Northern Australia is situated in the temperate zone.
+
+Select the correct answer from the code given below:
+
+**Options:**
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Interior is dry. Northern Australia is **tropical**, not temperate.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q63**
+
+With reference to Brazil, which of the following statements is/are correct?
+
+1. The equatorial rainforests of Brazil are called "Selva".
+2. The fertile dark-coloured soil found there is known as "Terra Roxa".
+
+Select the correct answer from the code given below:
+
+**Options:**
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024, Q75**
+
+Consider the following statements with respect to the climate of Western Europe:
+
+1. Western Europe receives rainfall in all months.
+2. Western Europe is located in the belt of Westerlies.
+
+Which of the above statements is/are correct?
+
+**Options:**
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q76**
+
+Consider the following mountains and arrange them in correct order from West to East by their location:
+
+1. Karakoram
+2. Pontic
+3. Hindu Kush
+4. Zagros
+
+Select the correct answer from the codes given below:
+
+**Options:**
+
+A. 2, 4, 3, 1
+
+B. 2, 3, 4, 1
+
+C. 4, 2, 3, 1
+
+D. 4, 1, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Pontic → Zagros → Hindu Kush → Karakoram.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2023, Q64**
+
+To whom does the credit go for the development of coconut and sugarcane agriculture in the Philippines?
+
+**Options:**
+
+A. French
+
+B. Britishers
+
+C. Hollanders
+
+D. Spanish and Americans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2022, Q48**
+
+Which of the following cities is NOT part of the Sunni Triangle in Iraq?
+
+**Options:**
+
+A. Tikrit
+
+B. Ramadi
+
+C. Basra
+
+D. Baghdad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2022, Q106**
+
+Kara Kum desert is situated in which of the following countries?
+
+**Options:**
+
+A. Turkmenistan
+
+B. Tajikistan
+
+C. Kyrgyzstan
+
+D. Kazakhstan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2022, Q126**
+
+With reference to Borneo Island, located in South-East Asia, which of the following statements is/are true?
+
+1. It is divided among three countries.
+2. It has been formed due to volcanic deposition.
+
+**Options:**
+
+A. Neither 1 nor 2
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2021, Q53**
+
+Which among the following are India's permanent and operational research stations in Antarctica?
+
+**Options:**
+
+A. Bharati and Arya
+
+B. Bharati and Dakshin Gangotri
+
+C. Bharati and Maitri
+
+D. Dakshin Gangotri and Maitri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2021, Q55**
+
+Nobi and Kanto plains are located in which of the following countries?
+
+**Options:**
+
+A. North Korea
+
+B. South Korea
+
+C. Japan
+
+D. China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2021, Q104**
+
+Which of the following Islands is NOT located in the Caribbean Sea?
+
+**Options:**
+
+A. Grenada
+
+B. Montserrat
+
+C. Madeira
+
+D. Anguilla
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Madeira is Portuguese Atlantic.
+
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2020, Q76**
+
+Darling range is situated along which of the following coasts of Australia?
+
+**Options:**
+
+A. North-Eastern Coast
+
+B. Southern Coast
+
+C. Eastern Coast
+
+D. South-Western Coast
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2020, Q82**
+
+Which one of the following is NOT correctly matched? (Country) (Capital)
+
+**Options:**
+
+A. Morocco – Rabat
+
+B. Tunisia – Tunis
+
+C. Algeria – Algiers
+
+D. Cape Verde – Bamako
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Cape Verde = Praia. Bamako = Mali.
+
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2019, Q2**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I (Country) | List-II (Capital) |
+|------------------|-------------------|
+| A. Uzbekistan | 1. Tashkent |
+| B. Tajikistan | 2. Dushanbe |
+| C. Kyrgyzstan | 3. Bishkek |
+| D. Turkmenistan | 4. Ashgabat |
+
+**Options:**
+
+A. 1 2 3 4
+
+B. 1 2 4 3
+
+C. 1 3 4 2
+
+D. 1 4 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2018, Q29**
+
+How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
+
+**Options:**
+
+A. 5,000 km
+
+B. 7,000 km
+
+C. 8,000 km
+
+D. 10,000 km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — ~7000 km.
+
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2021, Q71**
+
+Which of the following is the correct sequence of the Islands of Indonesia from West to East?
+
+**Options:**
+
+A. Java, Sumatra, Lombok, Bali
+
+B. Sumatra, Java, Bali, Lombok
+
+C. Sumatra, Java, Lombok, Bali
+
+D. Bali, Sumatra, Java, Lombok
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Sumatra → Java → Bali → Lombok.
+
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2022, Q137**
+
+Which one of the following is a landlocked country?
+
+**Options:**
+
+A. Uruguay
+
+B. Suriname
+
+C. Peru
+
+D. Bolivia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2023, Q60**
+
+Which of the following (Port — Country) is **not** correctly matched?
+
+**Options:**
+
+A. Rotterdam — Netherlands
+
+B. Igarka — China
+
+C. Montevideo — Uruguay
+
+D. Jakarta — Indonesia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Igarka is in **Russia** (Yenisei).
+
+</details>
+
+---
+
+**Q19. UPPCS Prelims 2021, Q121**
+
+With reference to Mekong river, which of the following statement/s is/are correct?
+
+1. Mekong rises in Tibetan Plateau
+2. Mekong delta is situated in Southern Cambodia.
+
+**Options:**
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Delta = southern **Vietnam**.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -2342,483 +2819,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — Durand = Afghanistan–Pakistan; McMahon ≈ India–China east.
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Instructions:** Answers under `<details>`. Match questions use a table. Options sit on separate lines.
-
-**Q1. UPPCS Prelims 2025, Q1**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** The interior part of Australia is desert and semi-desert.
-
-**Reason (R):** Northern Australia is situated in the temperate zone.
-
-Select the correct answer from the code given below:
-
-**Options:**
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Interior is dry. Northern Australia is **tropical**, not temperate.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q63**
-
-With reference to Brazil, which of the following statements is/are correct?
-
-1. The equatorial rainforests of Brazil are called "Selva".
-2. The fertile dark-coloured soil found there is known as "Terra Roxa".
-
-Select the correct answer from the code given below:
-
-**Options:**
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2024, Q75**
-
-Consider the following statements with respect to the climate of Western Europe:
-
-1. Western Europe receives rainfall in all months.
-2. Western Europe is located in the belt of Westerlies.
-
-Which of the above statements is/are correct?
-
-**Options:**
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q76**
-
-Consider the following mountains and arrange them in correct order from West to East by their location:
-
-1. Karakoram
-2. Pontic
-3. Hindu Kush
-4. Zagros
-
-Select the correct answer from the codes given below:
-
-**Options:**
-
-A. 2, 4, 3, 1
-
-B. 2, 3, 4, 1
-
-C. 4, 2, 3, 1
-
-D. 4, 1, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Pontic → Zagros → Hindu Kush → Karakoram.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2023, Q64**
-
-To whom does the credit go for the development of coconut and sugarcane agriculture in the Philippines?
-
-**Options:**
-
-A. French
-
-B. Britishers
-
-C. Hollanders
-
-D. Spanish and Americans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2022, Q48**
-
-Which of the following cities is NOT part of the Sunni Triangle in Iraq?
-
-**Options:**
-
-A. Tikrit
-
-B. Ramadi
-
-C. Basra
-
-D. Baghdad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2022, Q106**
-
-Kara Kum desert is situated in which of the following countries?
-
-**Options:**
-
-A. Turkmenistan
-
-B. Tajikistan
-
-C. Kyrgyzstan
-
-D. Kazakhstan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2022, Q126**
-
-With reference to Borneo Island, located in South-East Asia, which of the following statements is/are true?
-
-1. It is divided among three countries.
-2. It has been formed due to volcanic deposition.
-
-**Options:**
-
-A. Neither 1 nor 2
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2021, Q53**
-
-Which among the following are India's permanent and operational research stations in Antarctica?
-
-**Options:**
-
-A. Bharati and Arya
-
-B. Bharati and Dakshin Gangotri
-
-C. Bharati and Maitri
-
-D. Dakshin Gangotri and Maitri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q10. UPPCS Prelims 2021, Q55**
-
-Nobi and Kanto plains are located in which of the following countries?
-
-**Options:**
-
-A. North Korea
-
-B. South Korea
-
-C. Japan
-
-D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q11. UPPCS Prelims 2021, Q104**
-
-Which of the following Islands is NOT located in the Caribbean Sea?
-
-**Options:**
-
-A. Grenada
-
-B. Montserrat
-
-C. Madeira
-
-D. Anguilla
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Madeira is Portuguese Atlantic.
-
-</details>
-
----
-
-**Q12. UPPCS Prelims 2020, Q76**
-
-Darling range is situated along which of the following coasts of Australia?
-
-**Options:**
-
-A. North-Eastern Coast
-
-B. Southern Coast
-
-C. Eastern Coast
-
-D. South-Western Coast
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q13. UPPCS Prelims 2020, Q82**
-
-Which one of the following is NOT correctly matched? (Country) (Capital)
-
-**Options:**
-
-A. Morocco – Rabat
-
-B. Tunisia – Tunis
-
-C. Algeria – Algiers
-
-D. Cape Verde – Bamako
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Cape Verde = Praia. Bamako = Mali.
-
-</details>
-
----
-
-**Q14. UPPCS Prelims 2019, Q2**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I (Country) | List-II (Capital) |
-|------------------|-------------------|
-| A. Uzbekistan | 1. Tashkent |
-| B. Tajikistan | 2. Dushanbe |
-| C. Kyrgyzstan | 3. Bishkek |
-| D. Turkmenistan | 4. Ashgabat |
-
-**Options:**
-
-A. 1 2 3 4
-
-B. 1 2 4 3
-
-C. 1 3 4 2
-
-D. 1 4 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q15. UPPCS Prelims 2018, Q29**
-
-How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
-
-**Options:**
-
-A. 5,000 km
-
-B. 7,000 km
-
-C. 8,000 km
-
-D. 10,000 km
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — ~7000 km.
-
-</details>
-
----
-
-**Q16. UPPCS Prelims 2021, Q71**
-
-Which of the following is the correct sequence of the Islands of Indonesia from West to East?
-
-**Options:**
-
-A. Java, Sumatra, Lombok, Bali
-
-B. Sumatra, Java, Bali, Lombok
-
-C. Sumatra, Java, Lombok, Bali
-
-D. Bali, Sumatra, Java, Lombok
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sumatra → Java → Bali → Lombok.
-
-</details>
-
----
-
-**Q17. UPPCS Prelims 2022, Q137**
-
-Which one of the following is a landlocked country?
-
-**Options:**
-
-A. Uruguay
-
-B. Suriname
-
-C. Peru
-
-D. Bolivia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q18. UPPCS Prelims 2023, Q60**
-
-Which of the following (Port — Country) is **not** correctly matched?
-
-**Options:**
-
-A. Rotterdam — Netherlands
-
-B. Igarka — China
-
-C. Montevideo — Uruguay
-
-D. Jakarta — Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Igarka is in **Russia** (Yenisei).
-
-</details>
-
----
-
-**Q19. UPPCS Prelims 2021, Q121**
-
-With reference to Mekong river, which of the following statement/s is/are correct?
-
-1. Mekong rises in Tibetan Plateau
-2. Mekong delta is situated in Southern Cambodia.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Delta = southern **Vietnam**.
-
 </details>
 
 ---

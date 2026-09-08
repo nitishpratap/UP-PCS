@@ -547,6 +547,152 @@ D. A-1, B-2, C-3, D-4
 
 ---
 
+## Complete PYQ Bank (Topic 7)
+
+### UPPCS Prelims 2024
+
+**Q1. UPPCS Prelims 2024, Q136**
+
+Which one of the following statements is not correct about William A.J. Archbold?
+
+Options:
+A. He was the Principal of Government College, Dacca.
+B. He was the Principal of Lahore College, Lahore.
+C. He was the Principal of MAO College, Aligarh.
+D. He was the Principal of the Muir Central College, Allahabad.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — He was not Principal of Lahore College.
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q2. UPPCS Prelims 2022, Q117**
+
+Match List-I with List-II and select the correct answer from the code given below.
+
+**List-I (Newspaper/Magazine)**
+A. Swadesh (*`pyq/2022` prints Kesari; standard paper restored*)
+B. Bharat Bandhu
+C. Satyawadi
+D. Shakti
+
+**List-II (Place of Publication)**
+1. Agra
+2. Almora
+3. Hathras
+4. Gorakhpur
+
+Options:
+A. A-3, B-2, C-1, D-4
+B. A-4, B-3, C-1, D-2
+C. A-2, B-3, C-4, D-1
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Swadesh–Gorakhpur; Bharat Bandhu–Hathras; Satyawadi–Agra; Shakti–Almora.
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q3. UPPCS Prelims 2021, Q40**
+
+Who was the founder of the 'Asiatic Society of Bengal'?
+
+A. Jonathan Duncan
+
+B. Sir William Jones
+
+C. Warren Hastings
+
+D. William Bentinck
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Sir William Jones**
+
+</details>
+
+### UPPCS Prelims 2019
+
+**Q4. UPPCS Prelims 2019, Q22**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
+
+**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
+
+Select the correct answer from the codes given below.
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+### UPPCS Prelims 2018
+
+**Q5. UPPCS Prelims 2018, Q21**
+
+Arrange the following events in their chronological order and select the correct answer from the codes given below:
+
+A. Hunter Commission
+B. Sadlar Commission
+C. Wood's Despatch
+D. Sargeant Plan
+
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Wood → Hunter → Sadler → Sargent.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Places a war-years education report among earlier and later reform dates.
+
+**Q. UKPCS Prelims 2025, Q68**
+
+When was the ‘Sargeant Plan’ of education started?
+
+A. 1902
+B. 1944
+C. 1948
+D. 1856
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** The Sargeant Plan of 1944 (Central Advisory Board of Education under John Sargeant) proposed universal free and compulsory education for ages six to eleven within forty years.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **48 questions.Q1.** Arrange: A. Hunter Commission B. Sadler Commission C. Wood's Despatch D. Sargent Plan
@@ -1557,152 +1703,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — Lytton **passed** the Vernacular Press Act; **Ripon** repealed it.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 7)
-
-### UPPCS Prelims 2024
-
-**Q1. UPPCS Prelims 2024, Q136**
-
-Which one of the following statements is not correct about William A.J. Archbold?
-
-Options:
-A. He was the Principal of Government College, Dacca.
-B. He was the Principal of Lahore College, Lahore.
-C. He was the Principal of MAO College, Aligarh.
-D. He was the Principal of the Muir Central College, Allahabad.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — He was not Principal of Lahore College.
-
-</details>
-
-### UPPCS Prelims 2022
-
-**Q2. UPPCS Prelims 2022, Q117**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Newspaper/Magazine)**
-A. Swadesh (*`pyq/2022` prints Kesari; standard paper restored*)
-B. Bharat Bandhu
-C. Satyawadi
-D. Shakti
-
-**List-II (Place of Publication)**
-1. Agra
-2. Almora
-3. Hathras
-4. Gorakhpur
-
-Options:
-A. A-3, B-2, C-1, D-4
-B. A-4, B-3, C-1, D-2
-C. A-2, B-3, C-4, D-1
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Swadesh–Gorakhpur; Bharat Bandhu–Hathras; Satyawadi–Agra; Shakti–Almora.
-
-</details>
-
-### UPPCS Prelims 2021
-
-**Q3. UPPCS Prelims 2021, Q40**
-
-Who was the founder of the 'Asiatic Society of Bengal'?
-
-A. Jonathan Duncan
-
-B. Sir William Jones
-
-C. Warren Hastings
-
-D. William Bentinck
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Sir William Jones**
-
-</details>
-
-### UPPCS Prelims 2019
-
-**Q4. UPPCS Prelims 2019, Q22**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
-
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-Select the correct answer from the codes given below.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-### UPPCS Prelims 2018
-
-**Q5. UPPCS Prelims 2018, Q21**
-
-Arrange the following events in their chronological order and select the correct answer from the codes given below:
-
-A. Hunter Commission
-B. Sadlar Commission
-C. Wood's Despatch
-D. Sargeant Plan
-
-A. A B D C
-
-B. C B A D
-
-C. A B C D
-
-D. C A B D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Wood → Hunter → Sadler → Sargent.
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Places a war-years education report among earlier and later reform dates.
-
-**Q. UKPCS Prelims 2025, Q68**
-
-When was the ‘Sargeant Plan’ of education started?
-
-A. 1902
-B. 1944
-C. 1948
-D. 1856
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** The Sargeant Plan of 1944 (Central Advisory Board of Education under John Sargeant) proposed universal free and compulsory education for ages six to eleven within forty years.
 
 </details>
 

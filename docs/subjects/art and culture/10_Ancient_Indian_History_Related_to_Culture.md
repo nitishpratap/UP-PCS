@@ -382,6 +382,222 @@ D. Manigrama
 
 ---
 
+## Complete PYQ Bank (Topic 10)
+
+**Q1. UPPCS Prelims 2025, Q87**
+
+Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
+
+1. Mandi
+2. Rakhigarhi
+3. Hulas
+
+A. 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 1 and 3.** Mandi and Hulas = UP. Rakhigarhi = Haryana.
+
+</details>
+
+**Q2. UPPCS Prelims 2024, Q20**
+
+Consider the following statements with respect to Ashoka:
+
+1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
+2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
+
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both 1 and 2.**
+
+</details>
+
+**Q3. UPPCS Prelims 2023, Q28**
+
+The eastern boundary of the Harappan culture is indicated by which of the following?
+
+A. Harappa
+B. Alamgirpur
+C. Rakhigarhi
+D. Manda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Alamgirpur.**
+
+</details>
+
+**Q4. UPPCS Prelims 2022, Q68**
+
+From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
+
+A. Dholavira and Bhagatrav
+B. Harappa and Kot Diji
+C. Mohenjo-daro and Lothal
+D. Kalibangan and Ropar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Mohenjo-daro and Lothal.**
+
+</details>
+
+**Q5. UPPCS Prelims 2022, Q80**
+
+In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
+
+A. Nagarjunakonda
+B. Ghantasala
+C. Amaravati
+D. Bodhgaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Amaravati.**
+
+</details>
+
+**Q6. UPPCS Prelims 2021, Q100**
+
+In which State of India is the Harappan Civilization site Mandi situated?
+
+A. Gujarat
+B. Haryana
+C. Rajasthan
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Uttar Pradesh.**
+
+</details>
+
+**Q7. UPPCS Prelims 2020, Q10**
+
+Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
+
+A. Madho Swaroop Vatsa
+B. H.D. Sankalia
+C. V.S. Wakankar
+D. V.N. Mishra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — V.S. Wakankar.**
+
+</details>
+
+**Q8. UPPCS Prelims 2020, Q12**
+
+Match List-I with List-II.
+
+**List-I (Harappan Site)**
+A. Balu
+B. Manda
+C. Padri
+D. Hulas
+
+**List-II (UT/State)**
+1. Uttar Pradesh
+2. Jammu & Kashmir
+3. Haryana
+4. Gujarat
+
+A. 3 2 1 4
+B. 2 3 4 1
+C. 2 4 3 1
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — 3 2 4 1.** Balu Haryana, Manda J&K, Padri Gujarat, Hulas UP.
+
+</details>
+
+**Q9. UPPCS Prelims 2020, Q21**
+
+Match List-I with List-II.
+
+**List-I**
+A. Indus Valley Civilization
+B. Later Vedic Society
+C. Rigvedic Society
+D. Medieval Period
+
+**List-II**
+1. Pastoral
+2. Landlordism
+3. Agrarian
+4. Urban
+
+A. 4 2 3 1
+B. 2 1 4 3
+C. 3 4 1 2
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — 4 3 1 2.** IVC urban, Later Vedic agrarian, Rigvedic pastoral, Medieval landlordism.
+
+</details>
+
+**Q10. UPPCS Prelims 2018, Q88**
+
+Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
+
+I. Kalibanga
+II. Lothal
+III. Alamgirpur
+IV. Hulas
+
+A. I, II, III, IV
+B. I, II
+C. II, III
+D. III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — III, IV.** Alamgirpur and Hulas. Kalibangan = Rajasthan. Lothal = Gujarat.
+
+</details>
+
+**Q11. UPPCS Prelims 2018, Q89**
+
+Which of the following institutions belonged to foreign trade?
+
+A. Sreni
+B. Nagaram
+C. Nanadesis
+D. Manigrama
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Manigrama.**
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **35 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1023,222 +1239,6 @@ D. (A) is false, but (R) is true
 <summary>Show answer</summary>
 
 **Ans: B.** Both true, different periods. R does not explain A.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 10)
-
-**Q1. UPPCS Prelims 2025, Q87**
-
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-A. 1 and 2
-B. Only 3
-C. 1 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 1 and 3.** Mandi and Hulas = UP. Rakhigarhi = Haryana.
-
-</details>
-
-**Q2. UPPCS Prelims 2024, Q20**
-
-Consider the following statements with respect to Ashoka:
-
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
-
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Both 1 and 2.**
-
-</details>
-
-**Q3. UPPCS Prelims 2023, Q28**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa
-B. Alamgirpur
-C. Rakhigarhi
-D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Alamgirpur.**
-
-</details>
-
-**Q4. UPPCS Prelims 2022, Q68**
-
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Mohenjo-daro and Lothal.**
-
-</details>
-
-**Q5. UPPCS Prelims 2022, Q80**
-
-In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
-
-A. Nagarjunakonda
-B. Ghantasala
-C. Amaravati
-D. Bodhgaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Amaravati.**
-
-</details>
-
-**Q6. UPPCS Prelims 2021, Q100**
-
-In which State of India is the Harappan Civilization site Mandi situated?
-
-A. Gujarat
-B. Haryana
-C. Rajasthan
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Uttar Pradesh.**
-
-</details>
-
-**Q7. UPPCS Prelims 2020, Q10**
-
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
-D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — V.S. Wakankar.**
-
-</details>
-
-**Q8. UPPCS Prelims 2020, Q12**
-
-Match List-I with List-II.
-
-**List-I (Harappan Site)**
-A. Balu
-B. Manda
-C. Padri
-D. Hulas
-
-**List-II (UT/State)**
-1. Uttar Pradesh
-2. Jammu & Kashmir
-3. Haryana
-4. Gujarat
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 4 3 1
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — 3 2 4 1.** Balu Haryana, Manda J&K, Padri Gujarat, Hulas UP.
-
-</details>
-
-**Q9. UPPCS Prelims 2020, Q21**
-
-Match List-I with List-II.
-
-**List-I**
-A. Indus Valley Civilization
-B. Later Vedic Society
-C. Rigvedic Society
-D. Medieval Period
-
-**List-II**
-1. Pastoral
-2. Landlordism
-3. Agrarian
-4. Urban
-
-A. 4 2 3 1
-B. 2 1 4 3
-C. 3 4 1 2
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — 4 3 1 2.** IVC urban, Later Vedic agrarian, Rigvedic pastoral, Medieval landlordism.
-
-</details>
-
-**Q10. UPPCS Prelims 2018, Q88**
-
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-
-I. Kalibanga
-II. Lothal
-III. Alamgirpur
-IV. Hulas
-
-A. I, II, III, IV
-B. I, II
-C. II, III
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — III, IV.** Alamgirpur and Hulas. Kalibangan = Rajasthan. Lothal = Gujarat.
-
-</details>
-
-**Q11. UPPCS Prelims 2018, Q89**
-
-Which of the following institutions belonged to foreign trade?
-
-A. Sreni
-B. Nagaram
-C. Nanadesis
-D. Manigrama
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Manigrama.**
 
 </details>
 

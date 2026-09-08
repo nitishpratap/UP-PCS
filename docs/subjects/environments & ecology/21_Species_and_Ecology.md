@@ -334,6 +334,322 @@ D. Both true; R explains A
 
 ---
 
+## Complete PYQ Bank (Topic 21)
+
+**Q1. UPPCS Prelims 2025, Q21**
+
+Assertion (A): In the Himalayan mountains, different types of vegetation are found.
+
+Reason (R): In the Himalayas, there are variations in climate with change in altitude.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** (A) states altitudinal vegetation zonation (true). (R) gives the standard NCERT cause — altitude-driven climate change.
+
+**Ans: A.** Both true; **R explains A** through lapse-rate-driven vegetation belts.
+
+**Trap:** Choosing "R does not explain A" — altitude–climate–vegetation is the textbook chain.
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025, Q58**
+
+Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel
+2. Samaspur Bird Sanctuary
+3. Rudrasagar Lake
+4. Sultanpur National Park
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP wetland geography — Tripura and Haryana sites masquerade as UP names.
+
+**Ans: B (3 and 4).** **Rudrasagar = Tripura**; **Sultanpur = Haryana**.
+
+**Trap:** Sarsai Nawar and Samaspur **are** in UP — do not pick 1 or 2 as wrong.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025, Q93**
+
+With reference to MISHTI, consider the following statements:
+
+1. It was initiated in 2019.
+2. It aims to restore mangrove forests.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** MISHTI = Union Budget **2023–24** mangrove scheme — not 2019.
+
+**Ans: A (Only 2).** Restoration aim is correct; **2019 start is false**.
+
+**Trap:** Accepting **2019** launch year.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024, Q19**
+
+Coral bleaching in the Andaman & Nicobar region was mainly caused by:
+
+A. Increased industrial activity alone
+
+B. Increase of about 2°C in the Indian Ocean
+
+C. Heavy marine pollution alone
+
+D. Decrease of 4°C in the Indian Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bleaching = heat stress expelling zooxanthellae — not cooling or pollution alone.
+
+**Ans: B.** **+2°C ocean warming** drives mass bleaching events.
+
+**Trap:** **−4°C cooling** — corals bleach from **heat**, not cold stress in this framing.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2023, Q147**
+
+World Wetlands Day is observed on:
+
+A. 2 February
+
+B. 22 March
+
+C. 5 June
+
+D. 16 September
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ramsar calendar — 2 February wetlands; 22 March water; 5 June environment; 16 September ozone.
+
+**Ans: A.** **World Wetlands Day = 2 February**.
+
+**Trap:** **22 March** (World Water Day) or **5 June** (WED).
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2018, Q54**
+
+Which of the following is **NOT** an example of in-situ conservation strategy?
+
+A. Biosphere reserve
+
+B. Botanical garden
+
+C. National Park
+
+D. Sacred groves
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Cross-topic in-situ trap — botanic gardens are ex-situ living collections.
+
+**Ans: B.** **Botanical garden = ex-situ**; others are in-situ.
+
+**Trap:** Biosphere reserve or sacred grove — both remain in-situ.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2018, Q133**
+
+Which of the following statements are true?
+
+1. Natural disasters cause maximum damage in developing countries.
+2. Bhopal gas tragedy was man-made.
+3. India is a disaster-free country.
+4. Mangroves reduce the impact of cyclones.
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 2 and 4
+
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Multi-statement disaster–environment link — India is **not** disaster-free; mangroves **do** buffer cyclones.
+
+**Ans: C (1, 2 and 4).** Statements **1, 2, and 4** are true; **3 is false**.
+
+**Trap:** Accepting "India is disaster-free" or rejecting mangrove protection role.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2018, Q122**
+
+In which ecosystem is species diversity relatively **highest**?
+
+A. Deep sea
+
+B. Tropical rain forest
+
+C. Coral reefs
+
+D. Desert
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Among given options, coral reefs often top local species richness per unit area.
+
+**Ans: C.** **Coral reefs** show exceptionally high species diversity among the choices.
+
+**Trap:** **Tropical rainforest** — globally rich, but this stem keys **coral reefs** among the four.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2020, Q48**
+
+How many more Ramsar sites were added to Uttar Pradesh in January 2020?
+
+A. 3
+
+B. 6
+
+C. 9
+
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UP Ramsar expansion CA fact — January 2020 batch count.
+
+**Ans: B.** **Six** Ramsar sites were added to UP in **January 2020**.
+
+**Trap:** Over-counting (9 or 12) or under-counting (3).
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims pattern — threatened species**
+
+On the IUCN Red List, "threatened species" includes which categories?
+
+A. Endangered only
+
+B. Vulnerable, Endangered, and Critically Endangered
+
+C. Near Threatened and Endangered
+
+D. Extinct and Extinct in the Wild
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Threatened band = **VU + EN + CR** — not Endangered alone.
+
+**Ans: B.** **Threatened = VU + EN + CR**.
+
+**Trap:** "Threatened = Endangered only" — drops Vulnerable and CR.
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims pattern — Red Data Book publisher**
+
+The Red Data Book of **Indian plants** is published by:
+
+A. ZSI
+
+B. BSI
+
+C. IUCN
+
+D. MoEFCC
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** National Red Data Books — BSI plants, ZSI animals (Kolkata).
+
+**Ans: B.** **BSI publishes the plant Red Data Book**.
+
+**Trap:** **ZSI** (animals) or **IUCN** (global Red List, not national book).
+
+</details>
+
+---
+
+**Q12. UPPCS Prelims pattern — zooxanthellae**
+
+Zooxanthellae are symbiotic algae associated with:
+
+A. Mangrove pneumatophores
+
+B. Coral polyps
+
+C. Grassland rhizomes
+
+D. Deep-sea anglerfish only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Coral energy symbiosis — zooxanthellae supply photosynthate; bleaching = their expulsion.
+
+**Ans: B.** **Zooxanthellae live inside coral polyps**.
+
+**Trap:** Mangroves or deep-sea-only distractors.
+
+</details>
+
+---
 
 ## Practice Zone
 
@@ -819,323 +1135,6 @@ D. 12,000 km
 
 ---
 
-## Complete PYQ Bank (Topic 21)
-
-**Q1. UPPCS Prelims 2025, Q21**
-
-Assertion (A): In the Himalayan mountains, different types of vegetation are found.
-
-Reason (R): In the Himalayas, there are variations in climate with change in altitude.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** (A) states altitudinal vegetation zonation (true). (R) gives the standard NCERT cause — altitude-driven climate change.
-
-**Ans: A.** Both true; **R explains A** through lapse-rate-driven vegetation belts.
-
-**Trap:** Choosing "R does not explain A" — altitude–climate–vegetation is the textbook chain.
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025, Q58**
-
-Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel
-2. Samaspur Bird Sanctuary
-3. Rudrasagar Lake
-4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP wetland geography — Tripura and Haryana sites masquerade as UP names.
-
-**Ans: B (3 and 4).** **Rudrasagar = Tripura**; **Sultanpur = Haryana**.
-
-**Trap:** Sarsai Nawar and Samaspur **are** in UP — do not pick 1 or 2 as wrong.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025, Q93**
-
-With reference to MISHTI, consider the following statements:
-
-1. It was initiated in 2019.
-2. It aims to restore mangrove forests.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** MISHTI = Union Budget **2023–24** mangrove scheme — not 2019.
-
-**Ans: A (Only 2).** Restoration aim is correct; **2019 start is false**.
-
-**Trap:** Accepting **2019** launch year.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024, Q19**
-
-Coral bleaching in the Andaman & Nicobar region was mainly caused by:
-
-A. Increased industrial activity alone
-
-B. Increase of about 2°C in the Indian Ocean
-
-C. Heavy marine pollution alone
-
-D. Decrease of 4°C in the Indian Ocean
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bleaching = heat stress expelling zooxanthellae — not cooling or pollution alone.
-
-**Ans: B.** **+2°C ocean warming** drives mass bleaching events.
-
-**Trap:** **−4°C cooling** — corals bleach from **heat**, not cold stress in this framing.
-
-</details>
-
----
-
-**Q5. UPPCS Prelims 2023, Q147**
-
-World Wetlands Day is observed on:
-
-A. 2 February
-
-B. 22 March
-
-C. 5 June
-
-D. 16 September
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ramsar calendar — 2 February wetlands; 22 March water; 5 June environment; 16 September ozone.
-
-**Ans: A.** **World Wetlands Day = 2 February**.
-
-**Trap:** **22 March** (World Water Day) or **5 June** (WED).
-
-</details>
-
----
-
-**Q6. UPPCS Prelims 2018, Q54**
-
-Which of the following is **NOT** an example of in-situ conservation strategy?
-
-A. Biosphere reserve
-
-B. Botanical garden
-
-C. National Park
-
-D. Sacred groves
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Cross-topic in-situ trap — botanic gardens are ex-situ living collections.
-
-**Ans: B.** **Botanical garden = ex-situ**; others are in-situ.
-
-**Trap:** Biosphere reserve or sacred grove — both remain in-situ.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2018, Q133**
-
-Which of the following statements are true?
-
-1. Natural disasters cause maximum damage in developing countries.
-2. Bhopal gas tragedy was man-made.
-3. India is a disaster-free country.
-4. Mangroves reduce the impact of cyclones.
-
-A. 1, 2 and 3
-
-B. 2, 3 and 4
-
-C. 1, 2 and 4
-
-D. 1, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Multi-statement disaster–environment link — India is **not** disaster-free; mangroves **do** buffer cyclones.
-
-**Ans: C (1, 2 and 4).** Statements **1, 2, and 4** are true; **3 is false**.
-
-**Trap:** Accepting "India is disaster-free" or rejecting mangrove protection role.
-
-</details>
-
----
-
-**Q8. UPPCS Prelims 2018, Q122**
-
-In which ecosystem is species diversity relatively **highest**?
-
-A. Deep sea
-
-B. Tropical rain forest
-
-C. Coral reefs
-
-D. Desert
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Among given options, coral reefs often top local species richness per unit area.
-
-**Ans: C.** **Coral reefs** show exceptionally high species diversity among the choices.
-
-**Trap:** **Tropical rainforest** — globally rich, but this stem keys **coral reefs** among the four.
-
-</details>
-
----
-
-**Q9. UPPCS Prelims 2020, Q48**
-
-How many more Ramsar sites were added to Uttar Pradesh in January 2020?
-
-A. 3
-
-B. 6
-
-C. 9
-
-D. 12
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP Ramsar expansion CA fact — January 2020 batch count.
-
-**Ans: B.** **Six** Ramsar sites were added to UP in **January 2020**.
-
-**Trap:** Over-counting (9 or 12) or under-counting (3).
-
-</details>
-
----
-
-**Q10. UPPCS Prelims pattern — threatened species**
-
-On the IUCN Red List, "threatened species" includes which categories?
-
-A. Endangered only
-
-B. Vulnerable, Endangered, and Critically Endangered
-
-C. Near Threatened and Endangered
-
-D. Extinct and Extinct in the Wild
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Threatened band = **VU + EN + CR** — not Endangered alone.
-
-**Ans: B.** **Threatened = VU + EN + CR**.
-
-**Trap:** "Threatened = Endangered only" — drops Vulnerable and CR.
-
-</details>
-
----
-
-**Q11. UPPCS Prelims pattern — Red Data Book publisher**
-
-The Red Data Book of **Indian plants** is published by:
-
-A. ZSI
-
-B. BSI
-
-C. IUCN
-
-D. MoEFCC
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** National Red Data Books — BSI plants, ZSI animals (Kolkata).
-
-**Ans: B.** **BSI publishes the plant Red Data Book**.
-
-**Trap:** **ZSI** (animals) or **IUCN** (global Red List, not national book).
-
-</details>
-
----
-
-**Q12. UPPCS Prelims pattern — zooxanthellae**
-
-Zooxanthellae are symbiotic algae associated with:
-
-A. Mangrove pneumatophores
-
-B. Coral polyps
-
-C. Grassland rhizomes
-
-D. Deep-sea anglerfish only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Coral energy symbiosis — zooxanthellae supply photosynthate; bleaching = their expulsion.
-
-**Ans: B.** **Zooxanthellae live inside coral polyps**.
-
-**Trap:** Mangroves or deep-sea-only distractors.
-
-</details>
-
----
-
 ## Common Traps
 
 | Trap | Correct |
@@ -1152,50 +1151,3 @@ D. Deep-sea anglerfish only
 | Gangetic dolphin = marine | **Freshwater river** |
 | Zoo/sanctuary same as wetland | Different ecosystems |
 | EW = EX | **EW = captive survival remains** |
-
----
-
-## Delivery Report
-
-| Metric | Value |
-|--------|-------|
-| **Lines** | ~471 (was ~1017 old format) |
-| **Teaching blocks** | §21.1–21.8 (8 syllabus bullets) |
-| **Practice Zone** | 30 questions |
-| **PYQ Bank** | 12 questions |
-| **Common Traps** | 12 |
-| **Inline PYQs** | 2025 Q21 (§21.7), Q58 (§21.3), Q93 (§21.4), 2024 Q19 (§21.5) |
-
-### Syllabus coverage map
-
-| Syllabus bullet | Section |
-|-----------------|---------|
-| Red Data Book | §21.1 |
-| IUCN Red List Categories | §21.2 |
-| Wetlands | §21.3 |
-| Mangroves | §21.4 |
-| Coral Reefs | §21.5 |
-| Grasslands | §21.6 |
-| Himalayan Ecosystem | §21.7 |
-| Marine Ecosystem | §21.8 |
-
-### Topic boundaries
-
-- **IUCN org profile / Living Planet** — Topic 19
-- **In-situ vs ex-situ methods** — Topic 20
-- **BSI/ZSI full org detail** — Topic 16
-- **Protected area legal categories** — Topics 6–7
-- **Disaster/cyclone full detail** — Topic 23
-
-### PYQ audit
-
-| PYQ | Placement |
-|-----|-----------|
-| 2025 Q21 Himalayan A/R | §21.7 inline |
-| 2025 Q58 Ramsar NOT UP | §21.3 inline |
-| 2025 Q93 MISHTI | §21.4 inline |
-| 2024 Q19 coral bleaching | §21.5 inline |
-| 2023 Q147 Wetlands Day | Practice Q7 + PYQ Bank |
-| 2018 mangrove/cyclone stmt | Practice Q28 + PYQ Bank |
-
-**File ready: YES**

@@ -449,6 +449,255 @@ D. Herbert Spencer
 | NCR (UP slice) | Ghaziabad, Noida, Greater Noida, Meerut |
 | Million+ years / UA order | |
 
+---
+
+## Complete PYQ Bank — Human Geography / Settlements (2018–2025)
+
+**Instructions:** Click **Show answer** under each question. Read the full stem before opening.
+
+---
+
+**Q1. UPPCS Prelims 2025, Q72**
+Consider the following and arrange them in the correct chronological order:
+
+1. Atal Mission for Rejuvenation and Urban Transformation (AMRUT)
+2. Jawaharlal Nehru National Urban Renewal Mission (JNNURM)
+3. Jal Jeevan Mission
+4. National Urban Housing and Habitat Policy
+
+Select the correct answer from the code given below:
+
+A. 2, 4, 1, 3
+
+B. 4, 2, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 2005 → 2007 → 2015 → 2019.
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2023, Q143**
+Which of the following (Scheme — Year) is not correctly matched?
+
+A. Deen Dayal Upadhyaya Gramin Kaushalya Yojana — 2014
+
+B. Rural Housing Interest Subsidy Scheme — 2017
+
+C. Shyama Prasad Mukherji Rurban Mission — 2015
+
+D. Sansad Adarsh Gram Yojana — 2014
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — SPMRM **launched 21 Feb 2016** (Cabinet Sep 2015).
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2022, Q26**
+With reference to the India Smart City Awards Contest–2020 (awards presented in April 2022), match List-I with List-II and select the correct answer.
+**List-I (Category)** A. Culture B. Governance C. Social Aspects D. Urban Environment
+**List-II (Winner City)** 1. Vadodara 2. Indore 3. Bhopal 4. Tirupati
+
+A. 2, 1, 3, 4
+
+B. 2, 1, 4, 3
+
+C. 1, 2, 4, 3
+
+D. 1, 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Indore, Vadodara, Tirupati, Bhopal.
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2022, Q120**
+The idea of 'Rurbanization' was elaborated by which one of the following sociologists?
+
+A. M. N. Srinivas
+
+B. Yogendra Singh
+
+C. G. S. Ghurye
+
+D. H. Spencer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — G.S. Ghurye. (Srinivas = Sanskritization.)
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2020, Q11**
+No. of cities in U.P. which are covered under the 'Smart City' Scheme
+
+A. 10
+
+B. 12
+
+C. 15
+
+D. 18
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — **10** Central / Mission cities.
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2020, Q115**
+Which of the following cities of Uttar Pradesh is/are covered under the 'Heritage City Development and Augmentation Yojana (HRIDAY)'?
+
+1. Varanasi 2. Mathura 3. Prayagraj 4. Ayodhya
+
+Select the correct answer from the codes given below.
+
+A. 1 only
+
+B. 3 only
+
+C. 1 and 2
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Varanasi and Mathura only.
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2018, Q41**
+Which of the following cities in Uttar Pradesh has NOT been selected for development under the Smart City Development Programme of the Central Government?
+
+A. Lucknow
+
+B. Allahabad
+
+C. Ghaziabad
+
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Ghaziabad was not in UP’s original Central 10.
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2018, Q103**
+The development of the concept of 'Global Village' is based on
+
+A. Social development
+
+B. Political development
+
+C. Transport and Communication Development
+
+D. International organisations
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q9. NCERT Class 12 (India: People and Economy, Ch. Human Settlements) — pattern**
+Which one of the following towns is NOT located on a river bank?
+
+A. Agra
+
+B. Bhopal
+
+C. Patna
+
+D. Kolkata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q10. NCERT Class 12 — pattern**
+Which one of the following is NOT part of the definition of a town as per the Census of India?
+
+A. Population density of 400 persons per sq km
+
+B. Presence of municipality, corporation, etc.
+
+C. More than 75% of the population engaged in primary sector
+
+D. Population size of more than 5,000 persons
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q11. NCERT Class 12 — pattern**
+In which one of the following environments does one expect the presence of dispersed rural settlements?
+
+A. Alluvial plains of Ganga
+
+B. Arid and semi-arid regions of Rajasthan
+
+C. Lower valleys of Himalayas
+
+D. Forests and hills in north-east
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Rajasthan is compact around water; hamleted is more Ganga/Himalayan valleys.
+</details>
+
+---
+
+**Q12. NCERT Class 12 — pattern (use Census 2011 ranks in the hall)**
+Which group of cities is arranged 1, 2, 3, 4 in size as per **Census 2011**?
+
+A. Greater Mumbai, Bengaluru, Kolkata, Chennai
+
+B. Delhi, Greater Mumbai, Chennai, Kolkata
+
+C. Greater Mumbai, Delhi, Kolkata, Chennai
+
+D. Greater Mumbai, Kolkata, Delhi, Chennai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Older NCERT key **D** followed **2001** (Mumbai > Kolkata > Delhi > Chennai).
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click **Show answer** under each question to reveal.
@@ -1712,253 +1961,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — Statement 3 is false; census town needs the full triple test or statutory status.
-</details>
-
----
-
-## Complete PYQ Bank — Human Geography / Settlements (2018–2025)
-
-**Instructions:** Click **Show answer** under each question. Read the full stem before opening.
-
----
-
-**Q1. UPPCS Prelims 2025, Q72**
-Consider the following and arrange them in the correct chronological order:
-
-1. Atal Mission for Rejuvenation and Urban Transformation (AMRUT)
-2. Jawaharlal Nehru National Urban Renewal Mission (JNNURM)
-3. Jal Jeevan Mission
-4. National Urban Housing and Habitat Policy
-
-Select the correct answer from the code given below:
-
-A. 2, 4, 1, 3
-
-B. 4, 2, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2005 → 2007 → 2015 → 2019.
-</details>
-
----
-
-**Q2. UPPCS Prelims 2023, Q143**
-Which of the following (Scheme — Year) is not correctly matched?
-
-A. Deen Dayal Upadhyaya Gramin Kaushalya Yojana — 2014
-
-B. Rural Housing Interest Subsidy Scheme — 2017
-
-C. Shyama Prasad Mukherji Rurban Mission — 2015
-
-D. Sansad Adarsh Gram Yojana — 2014
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — SPMRM **launched 21 Feb 2016** (Cabinet Sep 2015).
-</details>
-
----
-
-**Q3. UPPCS Prelims 2022, Q26**
-With reference to the India Smart City Awards Contest–2020 (awards presented in April 2022), match List-I with List-II and select the correct answer.
-**List-I (Category)** A. Culture B. Governance C. Social Aspects D. Urban Environment
-**List-II (Winner City)** 1. Vadodara 2. Indore 3. Bhopal 4. Tirupati
-
-A. 2, 1, 3, 4
-
-B. 2, 1, 4, 3
-
-C. 1, 2, 4, 3
-
-D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Indore, Vadodara, Tirupati, Bhopal.
-</details>
-
----
-
-**Q4. UPPCS Prelims 2022, Q120**
-The idea of 'Rurbanization' was elaborated by which one of the following sociologists?
-
-A. M. N. Srinivas
-
-B. Yogendra Singh
-
-C. G. S. Ghurye
-
-D. H. Spencer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — G.S. Ghurye. (Srinivas = Sanskritization.)
-</details>
-
----
-
-**Q5. UPPCS Prelims 2020, Q11**
-No. of cities in U.P. which are covered under the 'Smart City' Scheme
-
-A. 10
-
-B. 12
-
-C. 15
-
-D. 18
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **10** Central / Mission cities.
-</details>
-
----
-
-**Q6. UPPCS Prelims 2020, Q115**
-Which of the following cities of Uttar Pradesh is/are covered under the 'Heritage City Development and Augmentation Yojana (HRIDAY)'?
-
-1. Varanasi 2. Mathura 3. Prayagraj 4. Ayodhya
-
-Select the correct answer from the codes given below.
-
-A. 1 only
-
-B. 3 only
-
-C. 1 and 2
-
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Varanasi and Mathura only.
-</details>
-
----
-
-**Q7. UPPCS Prelims 2018, Q41**
-Which of the following cities in Uttar Pradesh has NOT been selected for development under the Smart City Development Programme of the Central Government?
-
-A. Lucknow
-
-B. Allahabad
-
-C. Ghaziabad
-
-D. Kanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Ghaziabad was not in UP’s original Central 10.
-</details>
-
----
-
-**Q8. UPPCS Prelims 2018, Q103**
-The development of the concept of 'Global Village' is based on
-
-A. Social development
-
-B. Political development
-
-C. Transport and Communication Development
-
-D. International organisations
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q9. NCERT Class 12 (India: People and Economy, Ch. Human Settlements) — pattern**
-Which one of the following towns is NOT located on a river bank?
-
-A. Agra
-
-B. Bhopal
-
-C. Patna
-
-D. Kolkata
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q10. NCERT Class 12 — pattern**
-Which one of the following is NOT part of the definition of a town as per the Census of India?
-
-A. Population density of 400 persons per sq km
-
-B. Presence of municipality, corporation, etc.
-
-C. More than 75% of the population engaged in primary sector
-
-D. Population size of more than 5,000 persons
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q11. NCERT Class 12 — pattern**
-In which one of the following environments does one expect the presence of dispersed rural settlements?
-
-A. Alluvial plains of Ganga
-
-B. Arid and semi-arid regions of Rajasthan
-
-C. Lower valleys of Himalayas
-
-D. Forests and hills in north-east
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Rajasthan is compact around water; hamleted is more Ganga/Himalayan valleys.
-</details>
-
----
-
-**Q12. NCERT Class 12 — pattern (use Census 2011 ranks in the hall)**
-Which group of cities is arranged 1, 2, 3, 4 in size as per **Census 2011**?
-
-A. Greater Mumbai, Bengaluru, Kolkata, Chennai
-
-B. Delhi, Greater Mumbai, Chennai, Kolkata
-
-C. Greater Mumbai, Delhi, Kolkata, Chennai
-
-D. Greater Mumbai, Kolkata, Delhi, Chennai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Older NCERT key **D** followed **2001** (Mumbai > Kolkata > Delhi > Chennai).
 </details>
 
 ---

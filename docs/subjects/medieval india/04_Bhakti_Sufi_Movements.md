@@ -617,6 +617,217 @@ Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Ea
 
 ---
 
+## Complete PYQ Bank (Topic 4)
+
+
+**Q1. UPPCS Prelims 2018, Q90**
+
+Assertion (A): Many Sanskrit works on music were translated into Persian during medieval period. Reason (R): Early Chishti sufis were fond of musical assemblies called 'sama'.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details><summary>Show answer</summary>
+
+**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
+
+**R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
+
+**Why R does not explain A:** Persian translations served **broader court patronage** (Akbar/Firuz circles, Khusrau synthesis); **sama alone** did not cause all translations.
+
+**Trap:** Chishti **sama** is real — but linking it as the **sole cause** of Sanskrit-to-Persian music translation is the UPPCS trap.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2019, Q14**
+
+Hath Yog: 1. Practiced by Nathpanthis 2. Adopted by Sufis
+
+A. 1 only |
+
+B. 2 only |
+
+C. Both |
+
+D. Neither
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy:** Statement 1 is true — **Nathpanthis** practised **Hath Yoga** (asana, pranayama). Statement 2 is true — **Nizamuddin Auliya** adopted **yogic breathing** from the Nath tradition.
+
+**Trap:** Sufi adoption does **not** mean all Sufi orders practised yoga — the fact is **some Chishti circles**, not universal Sufism.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2020, Q40**
+
+Which of the following is **not** correctly matched?
+
+A. Moinuddin — Ajmer (Chishti) |
+
+B. Burhanuddin — Daulatabad (Gharib) |
+
+C. Mohammad Hussaini — Gulbarga |
+
+D. Nizamuddin Auliya — Multan
+
+<details><summary>Show answer</summary>
+
+**Ans: DWhy wrong:Nizamuddin Auliya** belonged to **Delhi** (Chishti silsilah), not **Multan**. **Bahauddin Zakariya** was the Suhrawardi saint of **Multan**.
+
+**Trap:Moinuddin–Ajmer** and **Nizamuddin–Delhi** are both correct Chishti pairs — only D swaps Delhi with Multan.
+
+</details>
+
+
+**Q4. UPPCS Prelims 2021, Q101**
+
+Fawaid ul Fawad compiled by: A. Amir Hassan Sizzi | B. Amir Khusro | C. Ziauddin Barni | D. Hasan Nizami
+
+<details><summary>Show answer</summary>
+
+**Ans: AWhy:Amir Hasan Sijzi** compiled **Fawaid-ul-Fuad**, recording **Nizamuddin Auliya's** conversations. **Amir Khusrau** was Nizamuddin's chief **murid**, not the compiler.
+
+**Trap:** Khusrau's literary fame makes candidates pick B — fact **Sijzi** for Fawaid-ul-Fuad.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2022, Q33**
+
+Match List-I (Philosopher) with List-II (Philosophy):
+
+| List-I | List-II |
+|--------|---------|
+| A. Ramanuja | 1. Shuddhadvaita |
+| B. Madhvacharya | 2. Dvaitadvaita |
+| C. Nimbarka | 3. Dvaita |
+| D. Vallabhacharya | 4. Vishishtadvaita |
+
+*Row order in the table is not the answer code.*
+
+A. 2 4 1 3 |
+
+B. 3 1 4 2 |
+
+C. 1 2 3 4 |
+
+D. 4 3 2 1
+
+<details><summary>Show answer</summary>
+
+**Ans: D (4-3-2-1)Facts:** A **Ramanuja** → **4** Vishishtadvaita | B **Madhvacharya** → **3** Dvaita | C **Nimbarka** → **2** Dvaitadvaita | D **Vallabhacharya** → **1** Shuddhadvaita
+
+**Trap:Vallabhacharya** = **Shuddhadvaita** (pushti marg, Surdas's guru) — do not assign him **Dvaita** (Madhva's school).
+
+</details>
+
+
+**Q6. UPPCS Prelims 2023, Q39**
+
+Which poetess–composition pair is **not** matched?
+
+A. Daya Bai — Vinay Malika |
+
+B. Sahajobai — Sahaj Prakash |
+
+C. Gangabai — Ganesh Dev Leela |
+
+D. Mirabai — Padas
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy wrong:Gangabai — Ganesh Dev Leela** is **not** a standard matched pair. **Daya Bai** wrote **Vinay Malika**; **Sahajobai** wrote **Sahaj Prakash** (both Charandasi, 18th c.).
+
+**Trap:Mirabai–Padas** (D) is correct — do not mark D wrong when hunting the NOT-matched option.
+
+</details>
+
+
+**Q7. UPPCS Prelims 2025, Q12**
+
+Match List-I (Disciple) with List-II (Guru):
+
+| List-I | List-II |
+|--------|---------|
+| A. Kabir | 1. Guru Nanak Dev |
+| B. Amir Khusrau | 2. Swami Ramananda |
+| C. Surdas | 3. Nizamuddin Auliya |
+| D. Mardana | 4. Vallabhacharya |
+
+*Row order in the table is not the answer code.*
+
+A. 3 2 4 1 |
+
+B. 3 2 1 4 |
+
+C. 2 3 4 1 |
+
+D. 2 3 1 4
+
+<details><summary>Show answer</summary>
+
+**Ans: C (2-3-4-1)Facts:** A **Kabir** → **2** Ramananda | B **Amir Khusrau** → **3** Nizamuddin | C **Surdas** → **4** Vallabhacharya | D **Mardana** → **1** Guru Nanak
+
+**Trap:Mardana** was Nanak's **disciple**, not guru — reversing D to 4 is the common wrong code. **Surdas–Vallabhacharya**, not Ramananda.
+
+</details>
+
+
+**Q8. UPPCS Prelims 2025, Q74**
+
+Arrange the following saints in correct chronological order and select the correct answer from the code given below:
+
+1. Guru Nanak
+2. Chaitanya Mahaprabhu
+3. Namdev
+4. Kabir
+
+A. 4 3 1 2 |
+
+B. 3 4 2 1 |
+
+C. 3 4 1 2 |
+
+D. 4 3 2 1
+
+<details><summary>Show answer</summary>
+
+**Ans: C (3-4-1-2)Order:3 Namdev** (~1270–1350) → **4 Kabir** (~15th c.) → **1 Guru Nanak** (1469–1539) → **2 Chaitanya** (1486–1533).
+
+**Trap:Nanak (1469)** was born **before Chaitanya (1486)** — never place Chaitanya before Nanak. **Tulsidas** (16th–17th c.) is always **after** all four.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Chiragh-i-Delhi is Nasiruddin Mahmud, the disciple — not Nizamuddin’s own title.
+
+**Q. UKPCS Prelims 2025, Q58**
+
+Who was popularly known as Chiragh-i-Delhi?
+
+A. Shaikh Nizamuddin
+B. Nasiruddin Mahmud
+C. Fariduddin Masud
+D. Qutbuddin Bakhtiyar Kaki
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Nasiruddin Mahmud Chiragh-i-Delhi succeeds Nizamuddin in the Chishti line of Delhi. Nizamuddin is Mahbub-i-Ilahi; Farid is Baba Farid; Bakhtiyar Kaki is the Mehrauli saint.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 > **48 questions** · answers in `<details>`
@@ -1542,217 +1753,6 @@ D. The disciple of Ahmad Sirhindi in the Naqshbandi order
 **Ans: BWhy:Baba Farid** (Ganj-i-Shakar) headed the Chishti line at **Ajodhan/Pakpattan**; **134 of his Punjabi verses** are in the **Guru Granth Sahib**.
 
 **Trap:Fawaid-ul-Fuad** was compiled by **Amir Hasan Sijzi** about **Nizamuddin** (C); **Multan** belongs to **Bahauddin Zakariya** (Suhrawardi), not Farid (A).
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 4)
-
-
-**Q1. UPPCS Prelims 2018, Q90**
-
-Assertion (A): Many Sanskrit works on music were translated into Persian during medieval period. Reason (R): Early Chishti sufis were fond of musical assemblies called 'sama'.
-
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: B (Both true, R not explanation)** — **UPPCS 2018 Q90A is true:** Many **Sanskrit music treatises** were translated into **Persian** in medieval courts.
-
-**R is true:** Early **Chishti** sufis held **sama** (musical assemblies).
-
-**Why R does not explain A:** Persian translations served **broader court patronage** (Akbar/Firuz circles, Khusrau synthesis); **sama alone** did not cause all translations.
-
-**Trap:** Chishti **sama** is real — but linking it as the **sole cause** of Sanskrit-to-Persian music translation is the UPPCS trap.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2019, Q14**
-
-Hath Yog: 1. Practiced by Nathpanthis 2. Adopted by Sufis
-
-A. 1 only |
-
-B. 2 only |
-
-C. Both |
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy:** Statement 1 is true — **Nathpanthis** practised **Hath Yoga** (asana, pranayama). Statement 2 is true — **Nizamuddin Auliya** adopted **yogic breathing** from the Nath tradition.
-
-**Trap:** Sufi adoption does **not** mean all Sufi orders practised yoga — the fact is **some Chishti circles**, not universal Sufism.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2020, Q40**
-
-Which of the following is **not** correctly matched?
-
-A. Moinuddin — Ajmer (Chishti) |
-
-B. Burhanuddin — Daulatabad (Gharib) |
-
-C. Mohammad Hussaini — Gulbarga |
-
-D. Nizamuddin Auliya — Multan
-
-<details><summary>Show answer</summary>
-
-**Ans: DWhy wrong:Nizamuddin Auliya** belonged to **Delhi** (Chishti silsilah), not **Multan**. **Bahauddin Zakariya** was the Suhrawardi saint of **Multan**.
-
-**Trap:Moinuddin–Ajmer** and **Nizamuddin–Delhi** are both correct Chishti pairs — only D swaps Delhi with Multan.
-
-</details>
-
-
-**Q4. UPPCS Prelims 2021, Q101**
-
-Fawaid ul Fawad compiled by: A. Amir Hassan Sizzi | B. Amir Khusro | C. Ziauddin Barni | D. Hasan Nizami
-
-<details><summary>Show answer</summary>
-
-**Ans: AWhy:Amir Hasan Sijzi** compiled **Fawaid-ul-Fuad**, recording **Nizamuddin Auliya's** conversations. **Amir Khusrau** was Nizamuddin's chief **murid**, not the compiler.
-
-**Trap:** Khusrau's literary fame makes candidates pick B — fact **Sijzi** for Fawaid-ul-Fuad.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2022, Q33**
-
-Match List-I (Philosopher) with List-II (Philosophy):
-
-| List-I | List-II |
-|--------|---------|
-| A. Ramanuja | 1. Shuddhadvaita |
-| B. Madhvacharya | 2. Dvaitadvaita |
-| C. Nimbarka | 3. Dvaita |
-| D. Vallabhacharya | 4. Vishishtadvaita |
-
-*Row order in the table is not the answer code.*
-
-A. 2 4 1 3 |
-
-B. 3 1 4 2 |
-
-C. 1 2 3 4 |
-
-D. 4 3 2 1
-
-<details><summary>Show answer</summary>
-
-**Ans: D (4-3-2-1)Facts:** A **Ramanuja** → **4** Vishishtadvaita | B **Madhvacharya** → **3** Dvaita | C **Nimbarka** → **2** Dvaitadvaita | D **Vallabhacharya** → **1** Shuddhadvaita
-
-**Trap:Vallabhacharya** = **Shuddhadvaita** (pushti marg, Surdas's guru) — do not assign him **Dvaita** (Madhva's school).
-
-</details>
-
-
-**Q6. UPPCS Prelims 2023, Q39**
-
-Which poetess–composition pair is **not** matched?
-
-A. Daya Bai — Vinay Malika |
-
-B. Sahajobai — Sahaj Prakash |
-
-C. Gangabai — Ganesh Dev Leela |
-
-D. Mirabai — Padas
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy wrong:Gangabai — Ganesh Dev Leela** is **not** a standard matched pair. **Daya Bai** wrote **Vinay Malika**; **Sahajobai** wrote **Sahaj Prakash** (both Charandasi, 18th c.).
-
-**Trap:Mirabai–Padas** (D) is correct — do not mark D wrong when hunting the NOT-matched option.
-
-</details>
-
-
-**Q7. UPPCS Prelims 2025, Q12**
-
-Match List-I (Disciple) with List-II (Guru):
-
-| List-I | List-II |
-|--------|---------|
-| A. Kabir | 1. Guru Nanak Dev |
-| B. Amir Khusrau | 2. Swami Ramananda |
-| C. Surdas | 3. Nizamuddin Auliya |
-| D. Mardana | 4. Vallabhacharya |
-
-*Row order in the table is not the answer code.*
-
-A. 3 2 4 1 |
-
-B. 3 2 1 4 |
-
-C. 2 3 4 1 |
-
-D. 2 3 1 4
-
-<details><summary>Show answer</summary>
-
-**Ans: C (2-3-4-1)Facts:** A **Kabir** → **2** Ramananda | B **Amir Khusrau** → **3** Nizamuddin | C **Surdas** → **4** Vallabhacharya | D **Mardana** → **1** Guru Nanak
-
-**Trap:Mardana** was Nanak's **disciple**, not guru — reversing D to 4 is the common wrong code. **Surdas–Vallabhacharya**, not Ramananda.
-
-</details>
-
-
-**Q8. UPPCS Prelims 2025, Q74**
-
-Arrange the following saints in correct chronological order and select the correct answer from the code given below:
-
-1. Guru Nanak
-2. Chaitanya Mahaprabhu
-3. Namdev
-4. Kabir
-
-A. 4 3 1 2 |
-
-B. 3 4 2 1 |
-
-C. 3 4 1 2 |
-
-D. 4 3 2 1
-
-<details><summary>Show answer</summary>
-
-**Ans: C (3-4-1-2)Order:3 Namdev** (~1270–1350) → **4 Kabir** (~15th c.) → **1 Guru Nanak** (1469–1539) → **2 Chaitanya** (1486–1533).
-
-**Trap:Nanak (1469)** was born **before Chaitanya (1486)** — never place Chaitanya before Nanak. **Tulsidas** (16th–17th c.) is always **after** all four.
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Chiragh-i-Delhi is Nasiruddin Mahmud, the disciple — not Nizamuddin’s own title.
-
-**Q. UKPCS Prelims 2025, Q58**
-
-Who was popularly known as Chiragh-i-Delhi?
-
-A. Shaikh Nizamuddin
-B. Nasiruddin Mahmud
-C. Fariduddin Masud
-D. Qutbuddin Bakhtiyar Kaki
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Nasiruddin Mahmud Chiragh-i-Delhi succeeds Nizamuddin in the Chishti line of Delhi. Nizamuddin is Mahbub-i-Ilahi; Farid is Baba Farid; Bakhtiyar Kaki is the Mehrauli saint.
 
 </details>
 

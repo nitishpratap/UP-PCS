@@ -367,6 +367,125 @@ D. 2 and 3
 
 ---
 
+## Complete PYQ Bank (Topic 13)
+
+**Q1. UPPCS Prelims 2025, Q97**
+
+In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
+
+1. Rajasthan
+2. Uttar Pradesh
+3. Uttarakhand
+
+Select the correct answer from the code given below:
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Only 3.** Mana / Keshav Prayag, **Uttarakhand**. Not Rajasthan Pushkar town, not UP.
+
+</details>
+
+**Q2. UPPCS Prelims 2019, Q117**
+
+The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
+
+A. Jewellery
+B. Painting
+C. Bamboo art
+D. Marble curving
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Bamboo art.**
+
+</details>
+
+**Q3. UPPCS Prelims 2019, Q44**
+
+Which of the following statements about India's largest Charkha is/are true?
+
+1. It was inaugurated in Noida.
+2. It is made of used plastic waste.
+
+Select the correct answer from the codes given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Both 1 and 2.**
+
+</details>
+
+**Q4. UPSC Prelims 2018**
+
+Consider the following pairs:
+
+Craft — Heritage of
+
+1. Puthukkuli shawls — Tamil Nadu
+2. Sujni embroidery — Maharashtra
+3. Uppada Jamdani saris — Karnataka
+
+Which of the pairs given above is/are correct?
+
+A. 1 only
+B. 1 and 2
+C. 3 only
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 1 only.** Toda / Puthukkuli = Tamil Nadu. Sujni = Bihar. Uppada Jamdani = Andhra Pradesh.
+
+</details>
+
+**Q5. UPSC Prelims 2015**
+
+Kalamkari painting refers to
+
+A. a hand-painted cotton textile in South India
+B. a handmade drawing on bamboo handicrafts in North-East India
+C. a block-painted woollen cloth in Western Himalayan region of India
+D. a hand-painted decorative silk cloth in North-Western India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Andhra cotton; Srikalahasti pen + Machilipatnam block.
+
+</details>
+
+**Q6. UPSC Prelims 2015**
+
+India enacted The Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to
+
+A. ILO
+B. IMF
+C. UNCTAD
+D. WTO
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — WTO** (TRIPS).
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
 **35 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
@@ -1028,125 +1147,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A.** Pushkar Fair = **Rajasthan**. Bhadohi = carpets.
-
-</details>
-
----
-
-## Complete PYQ Bank (Topic 13)
-
-**Q1. UPPCS Prelims 2025, Q97**
-
-In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
-
-1. Rajasthan
-2. Uttar Pradesh
-3. Uttarakhand
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 3.** Mana / Keshav Prayag, **Uttarakhand**. Not Rajasthan Pushkar town, not UP.
-
-</details>
-
-**Q2. UPPCS Prelims 2019, Q117**
-
-The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
-
-A. Jewellery
-B. Painting
-C. Bamboo art
-D. Marble curving
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Bamboo art.**
-
-</details>
-
-**Q3. UPPCS Prelims 2019, Q44**
-
-Which of the following statements about India's largest Charkha is/are true?
-
-1. It was inaugurated in Noida.
-2. It is made of used plastic waste.
-
-Select the correct answer from the codes given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both 1 and 2.**
-
-</details>
-
-**Q4. UPSC Prelims 2018**
-
-Consider the following pairs:
-
-Craft — Heritage of
-
-1. Puthukkuli shawls — Tamil Nadu
-2. Sujni embroidery — Maharashtra
-3. Uppada Jamdani saris — Karnataka
-
-Which of the pairs given above is/are correct?
-
-A. 1 only
-B. 1 and 2
-C. 3 only
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 1 only.** Toda / Puthukkuli = Tamil Nadu. Sujni = Bihar. Uppada Jamdani = Andhra Pradesh.
-
-</details>
-
-**Q5. UPSC Prelims 2015**
-
-Kalamkari painting refers to
-
-A. a hand-painted cotton textile in South India
-B. a handmade drawing on bamboo handicrafts in North-East India
-C. a block-painted woollen cloth in Western Himalayan region of India
-D. a hand-painted decorative silk cloth in North-Western India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Andhra cotton; Srikalahasti pen + Machilipatnam block.
-
-</details>
-
-**Q6. UPSC Prelims 2015**
-
-India enacted The Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to
-
-A. ILO
-B. IMF
-C. UNCTAD
-D. WTO
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — WTO** (TRIPS).
 
 </details>
 
