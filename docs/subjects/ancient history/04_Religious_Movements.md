@@ -8,14 +8,14 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History* I, RS Sharma, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History* I, RS Sharma, Ghatnachakra Buddhism–Jainism–Bhagavata (B–47+), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — council order, Milinda Panha, Jain nirvana pairs, Ashokan Dhamma, Ghantasala
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A — static; no scheme/report surface for this file
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. **Shramana** renouncer traditions (often **nastika**) include Buddhism, Jainism, Ajivika, and Charvaka. **Astika** schools accept the authority of the Veda.
 2. Buddha’s life geography runs **Lumbini** (birth) → **Bodh Gaya** (enlightenment) → **Sarnath** first sermon (UP) → **Kushinagar** Mahaparinirvana (UP).
@@ -49,6 +49,10 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 30. Ashokan patronage spread stupas and Dhamma officers, but Barabar remains an **Ajivika** gift. Ghantasala is remembered for **Aryaka-pillars** on a platform.
 31. Shaivism centres on **Shiva / linga**. Vaishnavism centres on **Vishnu and avatars**. Bhagavatism is the early Krishna-Vasudeva stream inside the wider Vaishnava world.
 32. Heterodox sixth-century teachers include the six titthiyas: Purana Kassapa, Gosala, Ajita, Pakudha, Nigantha (Mahavira), and Sanjaya — the wider shramana field around Buddha.
+33. Buddha life symbols: birth **lotus / bull**, Mahabhinishkramana **horse**, enlightenment **Bodhi tree**, first sermon **wheel**, Mahaparinirvana **stupa**.
+34. **Rummindei** (Ashoka) proves Lumbini as birthplace. Last convert **Subhadda**; last rains often at **Vaishali**; **Mahapajapati** = first nun (Vaishali, via Ananda).
+35. Councils presidents: **Mahakassapa** (1st), **Sabakami** (2nd), **Moggaliputta Tissa** (3rd), **Vasumitra** (4th, Ashvaghosha deputy).
+36. **Triratna** = Buddha, Dhamma, Sangha. *Light of Asia* = **Edwin Arnold** (from *Lalitavistara*). **Nayaputta** = Mahavira, not Buddha.
 
 ---
 
@@ -127,32 +131,43 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 **Sakya | Kapilavastu | four great events — place is the question**
 
-| Event | Place | Age / fact |
-|-------|-------|------------|
-| **Birth** | **Lumbini** (Nepal) | Ashokan pillar marks the site |
-| **Enlightenment** | **Bodh Gaya** (Bihar) | ~35; under the Bodhi (peepul) tree |
-| **First sermon** | **Sarnath / Isipatana** (UP) | Deer Park; *Dhammacakkappavattana* |
-| **Mahaparinirvana** | **Kushinagar** (UP) | 80; between sala trees |
+| Event | Place | Age / fact | Art symbol |
+|-------|-------|------------|------------|
+| **Birth** | **Lumbini** (Nepal) | Ashokan **Rummindei** pillar marks the site | **Lotus** and **bull** |
+| **Mahabhinishkramana** | Kapilavastu departure | Age **29**; horse **Kanthaka**, charioteer **Channa** | **Horse** |
+| **Enlightenment** | **Bodh Gaya** (Bihar) | ~35; under the Bodhi (peepul) tree; Uruvela | **Bodhi / peepal tree** |
+| **First sermon** | **Sarnath / Isipatana** (UP) | Deer Park; *Dhammacakkappavattana* | **Wheel** (often with deer) |
+| **Mahaparinirvana** | **Kushinagar** (UP) | 80; Malla republic; between sala trees | **Stupa** |
 
-- The Buddha was born at **Lumbini** in Nepal. An Ashokan pillar marks the site.
-- His mother was **Mahamaya**. His father was **Suddhodana**, the Sakya chief of Kapilavastu under Kosala.
-- He married **Yashodhara**. Their son was **Rahul(a)**. Jain tradition names Mahavira's wife **Yashoda** — a separate person.
+- The Buddha was born at **Lumbini** in Nepal. Ashoka’s **Rummindei** pillar confirms the birthplace and records tax relief for the village.
+- His mother was **Mahamaya / Mayadevi** of the **Koliyan** clan. His father was **Suddhodana**, the Sakya chief of Kapilavastu under Kosala.
+- After Mahamaya’s death he was raised by foster mother **Mahapajapati Gotami**.
+- Childhood name **Siddhartha**. Epithets after awakening include **Buddha**, **Tathagata**, and **Shakyamuni**. **Nayaputta** is an epithet of **Mahavira**, not of Buddha.
+- He married **Yashodhara** (also called Gopa / Bimba in later texts). Their son was **Rahul(a)**. Jain tradition names Mahavira's wife **Yashoda** — a separate person.
 - On the night of the Great Renunciation he rode the horse **Kanthaka**. The charioteer **Channa** went with him and then turned back.
-- Traditional dates are 563–483 BCE. Some books use a shorter chronology. Either way, he is a sixth–fifth century BCE figure, not Mauryan.
+- Traditional dates are **563–483 BCE**. Some books use a shorter chronology. Either way, he is a sixth–fifth century BCE figure, not Mauryan.
 - Four sights — old age, sickness, death, and an ascetic — led to **Mahabhinishkramana** at age **29**.
-- He first trained under **Alara Kalama** and **Udraka Ramaputra**. Extreme fasting still failed, so he took the Middle Path.
-- Enlightenment came at about **35** under the Bodhi (peepal) tree at **Bodh Gaya** (Uruvela).
+- He first trained under **Alara Kalama** (Samkhya-linked teacher) and **Udraka / Rudraka Ramaputra**. Extreme fasting still failed, so he took the Middle Path.
+- Enlightenment came at about **35** under the Bodhi (peepal) tree at **Bodh Gaya** (Uruvela) on Vaishakha Purnima.
+- **Bhumisparsha mudra** shows the earth-touching gesture that witnesses enlightenment against Mara.
 - He then taught first at **Sarnath / Isipatana**, the Deer Park near Varanasi in Uttar Pradesh. The sermon is the *Dhammacakkappavattana*, the turning of the wheel of Dhamma.
 - The listeners were the **Panchavargiya**, the five former companions who had left him when he gave up starvation.
 - **Kaundinya** understood first. The other four were Bhadrika, Vashpa, Mahanaman, and Ashvajit.
+- Early rains retreats: **Rajagriha** (**Venuvana**, gift of Bimbisara); **Vaishali** (**Kutagarasala**; courtesan **Amrapali** gifted her mango grove).
+- Women entered the Sangha at **Vaishali** on **Ananda**’s request; first nun = **Mahapajapati Gotami**.
+- **Anathapindika** gifted **Jetavana** at Shravasti (Kosala); Prasenajit / family patronage and **Pubbarama** are also remembered.
+- Maximum sermons tradition clusters at **Shravasti**. He visited **Kaushambi** under **Udayana**.
 - In the later Sangha, **Ananda** was the personal attendant and the reciter of the Suttas.
 - **Upali** held the Vinaya because he remembered the monastic rules.
 - **Sariputta** and **Moggallana** were the chief pair of disciples.
 - Cousin **Devadatta** tried to split the order and seize the leadership.
-- **Mahapajapati Gotami**, the foster mother after Mahamaya’s death, became the **first nun**.
-- **Mahaparinirvana** came at age **80** at **Kushinagar** in Uttar Pradesh, between sala trees.
+- Last rains retreat memory often places him near **Vaishali** (Beluva). At **Pava**, smith **Chunda** offered **sukaramaddava**; illness followed.
+- Last convert / last sermon hearer = **Subhadda** at Kushinagar.
+- **Mahaparinirvana** came at age **80** at **Kushinagar** in Uttar Pradesh (Malla capital), between sala trees.
+- The reclining Buddha image in the **Mahaparinirvana temple** at Kushinagar was excavated in **1876–77**.
 - Relics were divided among clans. Tradition counts **eight** original relic-stupas.
 - Early Buddhist art is **aniconic**. The Buddha is shown by a footprint, a wheel, a stupa, the Bodhi tree, or deer. There is no human statue in that phase.
+- Edwin Arnold’s *The Light of Asia* draws on the *Lalitavistara* and popularised “Light of Asia” for the Buddha.
 
 > ** note:** Birth = Lumbini. First sermon = **Sarnath**. Death = **Kushinagar**. Milinda Panha = **Nagasena**, not Nagarjuna.
 
@@ -265,10 +280,10 @@ Councils are remembered as meetings that **fixed the teaching** after the Buddha
 
 | # | Place | Patron / ruler | President | Main outcome |
 |---|-------|----------------|-----------|--------------|
-| **1st** | **Rajagriha** (Sattapanni cave) | **Ajatashatru** (Magadha) | **Mahakassapa** | **Upali** recited **Vinaya**; **Ananda** recited **Suttas** |
-| **2nd** | **Vaishali** | **Kalashoka** | — | Ten-point **Vinaya** dispute; split into **Sthaviravada** (elders) and **Mahasanghika** (great assembly) |
-| **3rd** (**c. 250 BCE**) | **Pataliputra** | **Ashoka** | **Moggaliputta Tissa** | **Vibhajjavada** line wins; **Abhidhamma** and *Kathavatthu*; missions to Sri Lanka (**Mahinda**, **Sanghamitta**) |
-| **4th** (north-Indian list) | **Kundalvana**, Kashmir | **Kanishka** | **Vasumitra** (+ **Ashvaghosha**) | **Sarvastivada** school; **Sanskrit** turn; *Mahavibhasha* compiled; Mahayana gains Kushan patronage |
+| **1st** (~483 BCE) | **Rajagriha** (Sattapanni / Saptaparni cave) | **Ajatashatru** (Magadha) | **Mahakassapa** | **Upali** recited **Vinaya**; **Ananda** recited **Suttas** |
+| **2nd** (~383 BCE) | **Vaishali** | **Kalashoka** | **Sabakami / Sabbakami** | Ten-point **Vinaya** dispute; split into **Sthaviravada** (elders) and **Mahasanghika** (great assembly) |
+| **3rd** (**c. 250 / 247 BCE**) | **Pataliputra** | **Ashoka** | **Moggaliputta Tissa** | **Vibhajjavada** line wins; **Abhidhamma** and *Kathavatthu*; missions to Sri Lanka (**Mahinda**, **Sanghamitta**) |
+| **4th** (north-Indian list) | **Kundalvana**, Kashmir | **Kanishka** | **Vasumitra** (+ **Ashvaghosha** as deputy) | **Sarvastivada** school; **Sanskrit** turn; *Mahavibhasha*; Mahayana gains Kushan patronage; Buddha elevated as deity in Mahayana framing |
 
 - Theravada tradition also remembers a separate “fourth” council at **Anuradhapura** (Sri Lanka) under **Vattagamani**, when the **Pali canon was written down**.
 - For the **four-council chronology** question, the fourth place is **Kundalvana** — not Anuradhapura.
@@ -339,13 +354,16 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 |--------|---------|---------------------|-----------|
 | **Vinaya** | Monastic rules — Suttavibhanga, Khandhaka, Parivara | **Upali** | Sangha **law** |
 | **Sutta** | Buddha’s discourses — five nikayas (Digha, Majjhima, Samyutta, Anguttara, **Khuddaka**) | **Ananda** | **Dhammapada** and **Jataka** (547 stories) in Khuddaka |
-| **Abhidhamma** | Scholastic analysis and lists | — | Tied to **Third Council** in Theravada memory |
+| **Abhidhamma** | Scholastic analysis and lists | — | Tied to **Third Council** in Theravada memory; seven books include **Yamaka**, *Patthana*, *Kathavatthu*, *Puggalapannatti*, *Dhatukatha*, *Vibhanga*, *Dhammasangani* |
 
 - The Theravada canon is the **Tripitaka**, three baskets in **Pali**.
+- **Triratna** of Buddhism = **Buddha**, **Dhamma**, **Sangha** — not the Jain three jewels.
+- After the rains retreat, monks hold **Pavarana**: confession of offences committed during the monsoon stay.
 - Sanskrit, Chinese, and Tibetan canons are **not** this Pali trio.
 - Mahayana **adds** new sutras such as the Prajnaparamita and the Lotus.
+- Author match pairs: *Milinda Panha*–**Nagasena**; *Buddhacharita* / *Saundarananda*–**Ashvaghosha**; *Madhyamikakarika*–**Nagarjuna**; *Visuddhimagga*–**Buddhaghosa**; *Abhidharmakosha*–**Vasubandhu**.
 
-> ** note:** Tripitaka is not one book. Abhidhamma is not Vinaya.
+> ** note:** Tripitaka is not one book. Abhidhamma is not Vinaya. Yamaka sits in Abhidhamma.
 
 ---
 
@@ -497,10 +515,14 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 | **Bhaja, Karle, Bedsa, Kondane** | Western Hinayana chaityas | **Karle** = largest chaitya hall |
 | **Ajanta** (Maharashtra) | 30 caves; famous **paintings** | Phase I = Hinayana/aniconic; Phase II = Mahayana (Padmapani) |
 | **Ellora** | Multi-religion hill | Buddhist 1–12, Hindu 13–29, Jain 30–34; Cave **16** Kailasa = **Shaiva** |
-| **Kanheri** (Mumbai) | Late western Buddhist | In Sanjay Gandhi National Park |
+| **Kanheri** (Mumbai) | Late western Buddhist | Eleven-headed Avalokiteshvara image; Sanjay Gandhi National Park |
 | **Ghantasala** | Andhra stupa | **Aryaka-pillars** on platform — named site |
+| **Dhanyakataka** (Dharanikota, Andhra) | Mahasanghika centre | Later Satavahana capital tradition |
 
 - A **chaitya** is a prayer hall, often with a stupa inside. A **vihara** is a monastery where monks live.
+- The word **stupa** appears already in the **Rigveda** (pile / raised heap sense). Buddhist stupas become relic and votive monuments; the idea is **not** Buddhist-only in origin.
+- **Sanchi** is a great early stupa site but is **not** tied to a single episode of the Buddha’s own life the way Lumbini, Bodh Gaya, Sarnath, and Kushinagar are.
+- Learning centres: **Nalanda** (Gupta–**Kumaragupta I** foundation tradition; Mahayana-leaning later fame); **Vallabhi** (Gujarat; Hinayana memory); **Vikramashila** (Pala **Dharmapala**); **Odantapuri** (Pala **Gopala**). **Nav Nalanda Mahavihara** is the modern Pali research centre (foundation stone **20 November 1951**).
 
 ### Stupa parts (vocabulary)
 
@@ -1031,10 +1053,13 @@ These accept **Veda authority**. They are **not** the nastika Shramana list.
 **Shiva / Rudra | linga | Pashupata first historical sect**
 
 - Vedic **Rudra** becomes classical Shiva.
-- Forms include the linga, Nataraja, and Ardhanarishvara.
+- Forms include the linga, Nataraja, and Ardhanarishvara (half Shiva–half Parvati = union of Shiva with Shakti).
 - **Pashupata** is the first historical Shaiva sect. **Lakulisha** (~2nd century CE) is its named teacher. Other early names are Kalamukha and Kapalika.
+- **Mattamayura** is a named Shaiva sect in Chedi inscriptions.
+- **Lingayat / Virashaiva** tradition is linked to **Basava**.
 - Later streams include Kashmir Shaiva and Tamil **Shaiva Siddhanta**.
-- The **Nayanars** number **63**. Named saints are **Appar**, **Sambandar**, **Sundarar**, and **Manikkavachakar**.
+- The **Nayanars** number **63**. Named saints are **Appar**, **Sambandar**, **Sundarar**, and **Manikkavachakar**. **Tirugyan** is a Nayanar name, not an Alvar.
+- **Gomateshwara / Bahubali** at Shravanabelagola was raised under minister **Chamundaraya** (Ganga king Rachamalla IV). He is the son of the **first** tirthankara, not the last. **Mahamastakabhisheka** is the great head-anointing every twelve years.
 
 | Jyotirlinga | Place |
 |-------------|--------|
@@ -1090,11 +1115,13 @@ These accept **Veda authority**. They are **not** the nastika Shramana list.
 **Vasudeva–Krishna cult | Mathura (UP) | seed of Vaishnavism**
 
 - Folk hero Krishna / Vasudeva fused with Vedic Vishnu–Narayana.
-- The **Heliodorus pillar** at Besnagar (Vidisha), about **113 BCE**, records a Greek ambassador who calls himself a **Bhagavata** of Vasudeva.
+- The **Heliodorus pillar** at Besnagar (Vidisha), about **113 BCE**, records a Greek ambassador from **Taxila** who calls himself a **Bhagavata** of Vasudeva.
+- This is the earliest clear stone / epigraphic evidence of Bhagavata religion in standard coaching maps.
 - The **Bhagavad Gita** in the Mahabharata is a charter text.
 - The later **Bhagavata Purana** is the other charter text.
 - **Pancharatra** vyuha theology belongs to this stream.
 - Gopala-Krishna of **Vrindavan / Mathura** is the Uttar Pradesh geographic home.
+- Among the **12 Alvars**, **Andal** is the only woman saint usually named in prelims maps.
 
 > ** note:** Bhagavatism is the **early** Krishna-Vasudeva path. Vaishnavism is the wider later tent.
 
@@ -1244,6 +1271,2559 @@ D. Mahavira — Pavapuri
 
 UPPCS Prelims **2020, 2019, 2018** — no further GS-I question maps to this topic after keyword search (Buddha / Jain / Tirthankar / Hinayana / Tripitaka / Ajivika / Charvaka / Bhagavat / Shaiv / Vaishnav / Milinda / Ghantasala).
 **Out of boundary:** 2020 Kushinagar *Airport* (infra, not doctrine). 2022 Rock Edict XII is the edict-*number* question (answer **XII**). Menander’s campaigns are invasion-history; the *Milinda Panha* fact (Nagasena) belongs in this chapter.
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Buddhism / Jainism / Bhagavata (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra Buddhism–Jainism–Shaiva–Bhagavata (B–47+). Teaching lives in Topic 4 sections 4.1–4.32. Year-coded UPPCS stems already banked (2025 council order, 2024 Ashokan Dhamma, 2023 Milinda Panha, 2022 Ghantasala, 2021 Vasupujya nirvana pair) are not repeated as identical UPPCS-bank entries; older multi-state stems on the same facts are kept where useful.
+
+**Q-GC1. MPPCS (Spl) Pre 2004**
+
+When was Gautama Buddha born?
+
+A. 563 B.C.
+
+B. 561 B.C.
+
+C. 558 B.C.
+
+D. 544 B.C.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Traditional date **563 BCE** at Lumbini near Kapilavastu.
+
+</details>
+
+---
+**Q-GC2. UPPCS Mains 2014**
+
+Which of the events of Buddha’s life is known as ‘Mahabhinishkramana’?
+
+A. His death
+
+B. His birth
+
+C. His departure from home
+
+D. His attainment of enlightenment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mahabhinishkramana** is the Great Renunciation / departure from home (age 29).
+
+</details>
+
+---
+**Q-GC3. UPPCS Pre 2008**
+
+Gautama Buddha’s Mother was from which clan?
+
+A. Shakya clan
+
+B. Maya clan
+
+C. Lichchhavis clan
+
+D. Koliyan clan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Mayadevi / Mahamaya** belonged to the **Koliyan** clan.
+
+</details>
+
+---
+**Q-GC4. UPPCS Pre 2002 / MPPCS**
+
+Gautama Buddha was born at –
+
+A. Vaishali
+
+B. Lumbini
+
+C. Kapilvastu
+
+D. Patliputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Birth place is **Lumbini** (near Kapilavastu).
+
+</details>
+
+---
+**Q-GC5. UP UDA/LDA Pre 2006**
+
+From which inscriptions of the following dynasty was Lumbini known as Buddha’s birthplace?
+
+A. Mauryan
+
+B. Shung
+
+C. Satavahana
+
+D. Kushan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Ashoka’s **Rummindei** pillar (Mauryan) marks Lumbini as the birthplace.
+
+</details>
+
+---
+**Q-GC6. UP UDA/LDA Mains 2010**
+
+Which one of the following inscriptions of Ashoka confirms the tradition that Gautama Buddha was born in Lumbini?
+
+A. Basarh Pillar Inscription
+
+B. Nigali Sagar Pillar Inscription
+
+C. Rampurwa Pillar Inscription
+
+D. Rummindei Pillar Inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Rummindei** pillar confirms Lumbini as birthplace.
+
+</details>
+
+---
+**Q-GC7. UPPCS Mains 2011 / 2007 / 2004**
+
+The inscription of which one of the following kings gives the information that Sakyamuni Buddha was born in Lumbini?
+
+A. Ashoka
+
+B. Kanishka
+
+C. Harsha
+
+D. Dharmapala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Ashoka** (Rummindei).
+
+</details>
+
+---
+**Q-GC8. BPSC / UPPCS Pre 2011**
+
+Where did Mahatma Buddha’s ‘Mahaparinirvana’ take place?
+
+A. Lumbini
+
+B. Bodh Gaya
+
+C. Kushinagar
+
+D. Kapilvastu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mahaparinirvana** at **Kushinagar** (Malla).
+
+</details>
+
+---
+**Q-GC9. UPPCS Pre 2011**
+
+Gautama Buddha attained “Mahaparinirvana” in kingdom of –
+
+A. Aung
+
+B. Magadha
+
+C. Malla
+
+D. Vatsa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kushinagar was capital of the **Malla** republic.
+
+</details>
+
+---
+**Q-GC10. UPPCS Mains 2005**
+
+Buddha attained Mahaparinirvana in the Republic of the–
+
+A. Mallas
+
+B. Lichchavi
+
+C. Sakyas
+
+D. Palas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Mallas**.
+
+</details>
+
+---
+**Q-GC11. MPPCS / CGPCS**
+
+Gautama Buddha attained Nirvana at which place?
+
+A. Kusinara
+
+B. Shravasti
+
+C. Lumbini
+
+D. Sarnath
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Kusinara / Kushinagar** (Mahaparinirvana).
+
+</details>
+
+---
+**Q-GC12. UP Lower Sub Mains 2015**
+
+Mahaparinirvana Temple is located at -
+
+A. Kushinagar
+
+B. Sarnath
+
+C. Bodh Gaya
+
+D. Shravasti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Mahaparinirvana temple** is at **Kushinagar** (UP).
+
+</details>
+
+---
+**Q-GC13. IAS Pre 2015 / 2014**
+
+Which of the following Kingdoms were associated with the life of the Buddha?
+
+1. Avanti  2. Gandhara  3. Kosala  4. Magadha
+
+Select the correct answer using the code given below.
+
+A. 1, 2 and 3
+
+B. 2 and 4
+
+C. 3 and 4 only
+
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Strong life-association with **Kosala** and **Magadha**. Avanti/Gandhara are not the standard pair in this stem.
+
+</details>
+
+---
+**Q-GC14. UPPCS Pre 2013**
+
+Who was the last person to get enlightenment from Gautama Buddha?
+
+A. Anand
+
+B. Sariputta
+
+C. Mogglan
+
+D. Subhadda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Last convert / last sermon hearer = **Subhadda**.
+
+</details>
+
+---
+**Q-GC15. UP RO/ARO Pre 2016**
+
+Who amongst the following was the last person converted by the Buddha?
+
+A. Anand
+
+B. Vasumitra
+
+C. Goshal
+
+D. Subhadda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Subhadda**.
+
+</details>
+
+---
+**Q-GC16. UPPCS Mains 2015**
+
+Where did Buddha reside during the last rainy season of his life?
+
+A. Shravasti
+
+B. Vaishali
+
+C. Kushinagar
+
+D. Sarnath
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Last rains memory places him near **Vaishali** (Beluva).
+
+</details>
+
+---
+**Q-GC17. IAS Pre 2013**
+
+Which one of the following describes best the concept of Nirvana in Buddhism?
+
+A. The extinction of the flame of desire
+
+B. The complete annihilation of self
+
+C. A state of bliss and rest
+
+D. A mental stage beyond all comprehension
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nirvana as extinction / blowing out of the flame of **desire**.
+
+</details>
+
+---
+**Q-GC18. BPSC 67th Pre 2022**
+
+Who had attained enlightenment in Bodh Gaya?
+
+A. Mahavira Swami
+
+B. Gautama Buddha
+
+C. Simandhar Swami
+
+D. Parshvanath Swami
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Gautama Buddha** at Bodh Gaya.
+
+</details>
+
+---
+**Q-GC19. UPPSC GIC 2010**
+
+Who was Alara Kalama?
+
+A. A disciple of Buddha.
+
+B. A distinguished Buddhist monk.
+
+C. A king of Buddha’s time.
+
+D. A teacher of Buddha.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Alara Kalama** was an early teacher of Siddhartha (Samkhya-linked).
+
+</details>
+
+---
+**Q-GC20. BPSC / UPPCS / MPPCS**
+
+At which place did Mahatma Buddha give his first ‘Dhammachakkhapavathana’?
+
+A. Lumbini
+
+B. Sarnath
+
+C. Pataliputra
+
+D. Vaishali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** First sermon at **Sarnath** (*Dharmachakra Pravartana*).
+
+</details>
+
+---
+**Q-GC21. Jharkhand PCS Pre 2013**
+
+Where did Buddha preach his first sermon?
+
+A. Kashi
+
+B. Sarnath
+
+C. Kushinagar
+
+D. Bodh Gaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sarnath**.
+
+</details>
+
+---
+**Q-GC22. UP Lower Sub Pre 2004**
+
+In Buddhist text “Dharmachakra Parvartana” is known as –
+
+A. His (Buddha) sight
+
+B. First sermon at Sarnath
+
+C. His religious norms
+
+D. Buddha rituals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** First sermon at **Sarnath**.
+
+</details>
+
+---
+**Q-GC23. UPPCS Pre 2011**
+
+Gautama Buddha gave the maximum sermons at which place?
+
+A. Vaishali
+
+B. Shravasti
+
+C. Kaushambi
+
+D. Rajgriha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tradition of maximum sermons at **Shravasti** (Kosala).
+
+</details>
+
+---
+**Q-GC24. UP UDA/LDA Pre 2010**
+
+Buddha had visited Kaushambi during the reign of
+
+A. Satanika
+
+B. Udayana
+
+C. Bodhi
+
+D. Nicakshu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Visit under **Udayana** of Kaushambi.
+
+</details>
+
+---
+**Q-GC25. UPPCS Pre 2000**
+
+First Buddhist Conference after the death of Buddha was presided over by:
+
+A. Mahakashyapa
+
+B. Dharmasen
+
+C. Ajatashatru
+
+D. Nagasena
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** First Council president = **Mahakassapa / Mahakashyapa** (Ajatashatru patron).
+
+</details>
+
+---
+**Q-GC26. BPSC 67th Pre 2022**
+
+Who was the President of the First Buddhist Council?
+
+A. Vasumitra
+
+B. Mahakashyapa
+
+C. Sangharaksha
+
+D. Parshvaka
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mahakashyapa**.
+
+</details>
+
+---
+**Q-GC27. BPSC 67th Re-Exam 2022**
+
+Where was the first Buddhist Council convened?
+
+A. Pataliputra
+
+B. Rajagriha
+
+C. Amaravati
+
+D. Kanaganahalli
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Rajagriha / Rajgir** (Saptaparni cave).
+
+</details>
+
+---
+**Q-GC28. UP RO/ARO Pre 2014**
+
+‘Saptaparni Cave’ is situated in –
+
+A. Sanchi
+
+B. Nalanda
+
+C. Rajgriha
+
+D. Pawapuri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Saptaparni** cave at **Rajgriha**.
+
+</details>
+
+---
+**Q-GC29. IAS Pre 2001**
+
+Who among the following presided over the Buddhist Council held during the reign of Kanishka at Kashmir?
+
+A. Parsva
+
+B. Nagarjuna
+
+C. Sudraka
+
+D. Vasumitra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Fourth Council president = **Vasumitra** (Ashvaghosha deputy).
+
+</details>
+
+---
+**Q-GC30. IAS Pre 1993**
+
+‘Mahayana’ sect and Buddhism emerged during the reign of –
+
+A. Ajatashatru
+
+B. Ashoka
+
+C. Dharmapala
+
+D. Kanishka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mahayana framing linked to **Kanishka** age / Fourth Council patronage.
+
+</details>
+
+---
+**Q-GC31. BPSC 47th Pre 2005**
+
+A Buddhist Council during the reign of Kanishka was held at –
+
+A. Magadha
+
+B. Pataliputra
+
+C. Kashmir
+
+D. Rajgriha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kundalvana, Kashmir**.
+
+</details>
+
+---
+**Q-GC32. UP Lower Sub Pre 2002**
+
+Four Buddhist Councils were held in the following places. Arrange them in chronological order by using the code given below :
+
+1. Vaishali  2. Rajgriha  3. Kundalavana  4. Pataliputra
+
+A. 1, 2, 3, 4
+
+B. 4, 3, 2, 1
+
+C. 2, 1, 3, 4
+
+D. 2, 1, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Rajgriha → Vaishali → Pataliputra → Kundalavana (**2-1-4-3**). (Same order as UPPCS 2025 Q105.)
+
+</details>
+
+---
+**Q-GC33. UP RO/ARO Mains 2014**
+
+Second Buddhist Council was held at which place?
+
+A. Rajgriha
+
+B. Vaishali
+
+C. Pataliputra
+
+D. Kashi (Varanasi)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Second Council at **Vaishali**.
+
+</details>
+
+---
+**Q-GC34. BPSC 53–55 Pre 2011**
+
+Where was the third Buddhist Council held?
+
+A. Taxila
+
+B. Sarnath
+
+C. Bodhgaya
+
+D. Pataliputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Third Council at **Pataliputra** under Ashoka.
+
+</details>
+
+---
+**Q-GC35. UPPCS Mains 2010**
+
+The first Buddhist Council was held during the reign of -
+
+A. Aniruddha
+
+B. Ajatashatru
+
+C. Bimbisara
+
+D. Udayabhadra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Patron **Ajatashatru**.
+
+</details>
+
+---
+**Q-GC36. RAS/RTS Pre 1994**
+
+Second Buddhist Council was organized by -
+
+A. Ajatashatru
+
+B. Kalasoka
+
+C. Ananda
+
+D. Ashoka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Patron **Kalasoka**.
+
+</details>
+
+---
+**Q-GC37. CGPCS Pre 2022**
+
+Correctly match the following :
+
+Buddhist Councils — Presidents
+A. First — (i) Vasumitra
+B. Second — (ii) Mahakashyapa
+C. Third — (iii) Sabakami
+D. Fourth — (iv) Moggaliputta Tissa
+
+A. (i) (ii) (iii) (iv)
+
+B. (ii) (iv) (iii) (i)
+
+C. (ii) (iii) (i) (iv)
+
+D. (ii) (iii) (iv) (i)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1st Mahakashyapa; 2nd Sabakami; 3rd Moggaliputta Tissa; 4th Vasumitra.
+
+</details>
+
+---
+**Q-GC38. BPSC 41st Pre 1996**
+
+Four important events of Buddha’s life and thereby related four places are mentioned below.
+Match Schedule-I and Schedule-II:
+A. Birth  B. Enlightenment  C. First preaching  D. Death
+1. Sarnath  2. Bodhgaya  3. Lumbini  4. Kushinagar
+
+A. 1 2 4 3
+
+B. 2 3 1 4
+
+C. 3 2 1 4
+
+D. None of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Birth–Lumbini; Enlightenment–Bodhgaya; First sermon–Sarnath; Death–Kushinagar.
+
+</details>
+
+---
+**Q-GC39. UPPCS Mains 2002**
+
+Which event of Buddha’s life is represented by the wheel with deer, in Indian Art?
+
+A. Great departure
+
+B. Enlightenment
+
+C. First preaching
+
+D. Nirvana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Wheel with deer = **first sermon** at Mrigadava (Sarnath).
+
+</details>
+
+---
+**Q-GC40. UPPCS Mains 2005**
+
+Match List-I (Sign) with List-II (Meaning):
+A. Birth  B. First Sermon  C. Enlightenment  D. Great Departure
+1. Bodhi tree  2. Dharma Chakra Pravartana  3. Horse  4. Lotus
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Birth–Lotus; First Sermon–Dharma Chakra; Enlightenment–Bodhi tree; Great Departure–Horse.
+
+</details>
+
+---
+**Q-GC41. UPPCS Pre 2000**
+
+Karmapa Lama belongs to which of the following sects of Tibetan Buddhism?
+
+A. Gelugpa
+
+B. Kangyupa
+
+C. Sakyapa
+
+D. Lingamapa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Karmapa** belongs to the **Kagyupa / Kangyupa** line.
+
+</details>
+
+---
+**Q-GC42. BPSC 45th Pre 2001**
+
+Mahabodhi Temple has been built at Bodh Gaya where-
+
+A. Gautama Buddha was born
+
+B. Gautama Buddha received enlightenment
+
+C. Gautama Buddha gave his first sermon
+
+D. Gautama Buddha passed away
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Site of **enlightenment**.
+
+</details>
+
+---
+**Q-GC43. BPSC 48–52 Pre 2008**
+
+The ‘Bodhi Vriksha’ in Bodh Gaya belongs to which generation of its family?
+
+A. Third
+
+B. Fourth
+
+C. Fifth
+
+D. Sixth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Present Bodhi tree is usually taught as **fifth generation** (Cunningham planting tradition).
+
+</details>
+
+---
+**Q-GC44. UPPCS Pre 2012**
+
+Which of the following Buddhist sacred place is situated on the bank of River Niranjana.
+
+A. Bodhgaya
+
+B. Kushinagar
+
+C. Lumbini
+
+D. Rishipatan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Bodh Gaya** on the **Niranjana**.
+
+</details>
+
+---
+**Q-GC45. UPPCS Pre 1999**
+
+Who among the following wanted to become the leader of the Sangha even during the lifetime of Buddha –
+
+A. Devadatta
+
+B. Mahakassapa
+
+C. Upali
+
+D. Ananda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cousin **Devadatta** sought Sangha leadership.
+
+</details>
+
+---
+**Q-GC46. Uttarakhand PCS Pre 2002**
+
+Whom of the following did Gautam of Buddha nominate for the leadership of Buddhist Sangha after his death?
+
+A. Ananda
+
+B. Mahakassapa
+
+C. Upali
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Buddha **did not** nominate a successor as Sangha head.
+
+</details>
+
+---
+**Q-GC47. IAS Pre 1998**
+
+The concept of Eightfold path forms the theme of :
+
+A. Dipavamsa
+
+B. Divyavadana
+
+C. Mahaparinibbana
+
+D. Dharma Chakra Pravartana Sutta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Eightfold Path theme of **Dharma Chakra Pravartana Sutta**.
+
+</details>
+
+---
+**Q-GC48. CGPCS Pre 2024**
+
+According to Buddhist philosophy, the cause of Samskar (Impression) is
+
+A. Vigyan (Consciousness)
+
+B. Vedana (Sense-Experience)
+
+C. Avidya (Ignorance)
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** In the twelve-link chain, **avidya** conditions **samskara**.
+
+</details>
+
+---
+**Q-GC49. UPPCS Pre 2010**
+
+The entry of women as a “Bhikshuni” into the Buddhist Sangha was allowed by Gautam Buddha at –
+
+A. Shravasti
+
+B. Vaishali
+
+C. Rajgriha
+
+D. Kushinagar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Women admitted at **Vaishali** (Ananda’s request; first nun Mahapajapati).
+
+</details>
+
+---
+**Q-GC50. UP Lower Sub Pre 2003 / 2004**
+
+What is “Tripitaka”?
+
+A. Three monkeys of Gandhiji
+
+B. Brahma, Vishnu, Mahesh
+
+C. Triratnas of Mahavira
+
+D. Collection of the preachings of Buddha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Three baskets of the Buddhist canon (Vinaya, Sutta, Abhidhamma).
+
+</details>
+
+---
+**Q-GC51. UPPCS Pre 1996**
+
+Which of the following Buddhist texts contains the rules of Monastic life?
+
+A. Digha-Nikaya
+
+B. Vinaya Pitaka
+
+C. Abhidhamma Pitaka
+
+D. Vibhasha Shastra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vinaya Pitaka** = monastic rules.
+
+</details>
+
+---
+**Q-GC52. Jharkhand PCS Pre 2016**
+
+"Yamaka" belongs to the Buddhist "Pitaka" -
+
+A. Sutta
+
+B. Vinaya
+
+C. Abhidhamma
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Yamaka** is one of the seven Abhidhamma books.
+
+</details>
+
+---
+**Q-GC53. MPPCS Pre 2014**
+
+Which of the following Buddhist literature contains the Buddha’s sermons on matters of ethics and doctrine?
+
+A. Vinaya Pitaka
+
+B. Jataka Stories
+
+C. Abhidhamma Pitaka
+
+D. Sutta Pitaka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Sutta Pitaka** = discourses / ethics and doctrine.
+
+</details>
+
+---
+**Q-GC54. UP RO/ARO Pre 2017**
+
+What does ‘Triratna’ means in Buddhism?
+
+A. Tripitaka
+
+B. Buddha, Dhamma, Sangha
+
+C. Sheel, Samadhi, Sangha
+
+D. Satya, Ahimsa, Karuna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Buddhist **Triratna** = Buddha, Dhamma, Sangha.
+
+</details>
+
+---
+**Q-GC55. IAS Pre 2002**
+
+In ancient Indian Buddhist monasteries, a ceremony called Pavarana used to be held. It was the :
+
+A. Occasion to elect the Sanghparinayaka and two speakers one on Dhamma and the other on Vinaya.
+
+B. Confession by monks of their offences committed during their stay in the monasteries during the rainy season.
+
+C. Ceremony of initiation of new person into the Buddhist Sangha in which the head is shaved and when yellow robes are offered.
+
+D. Gathering of Buddhist monks on the next day to the full-moon day of Ashadha when they take up a fixed abode for the next four months of rainy season.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Pavarana** = confession of offences after the rains retreat.
+
+</details>
+
+---
+**Q-GC56. UPPCS Mains 2015**
+
+Ashokaram monastery was situated at –
+
+A. Vaishali
+
+B. Pataliputra
+
+C. Kaushambi
+
+D. Shravasti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Ashokaram** at **Pataliputra**.
+
+</details>
+
+---
+**Q-GC57. CGPCS Pre 2015**
+
+Where the word ‘Stupa’ has been used for the first time?
+
+A. Rigveda
+
+B. Jatak Katha
+
+C. Artha Shastra
+
+D. Astadhyayee
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Word **stupa** appears in the **Rigveda** (pile / raised heap sense).
+
+</details>
+
+---
+**Q-GC58. UPPCS Mains 2011 / Spl Pre 2008**
+
+The Stupa site which is not connected with any incident of Lord Buddha’s life, is :
+
+A. Sarnath
+
+B. Sanchi
+
+C. Bodhgaya
+
+D. Kusinara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sanchi** is not tied to a single life-episode of the Buddha.
+
+</details>
+
+---
+**Q-GC59. IAS Pre 2023**
+
+With reference to ancient India, consider the following statements :
+1. The concept of Stupa is Buddhist in origin.
+2. Stupa was generally a repository of relics.
+3. Stupa was a votive and commemorative structure in Buddhist tradition.
+How many of the statements given above are correct?
+
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 is wrong (pre-Buddhist / Vedic use). 2 and 3 stand.
+
+</details>
+
+---
+**Q-GC60. CGPCS Pre 2024**
+
+Where is Devnimori Stupa situated?
+
+A. Andhara Pradesh
+
+B. Chhattisgarh
+
+C. Rajasthan
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Devnimori** stupa / monastery remains in **Gujarat**.
+
+</details>
+
+---
+**Q-GC61. CGPCS Pre 2017**
+
+Anatmavada (no-self) is the doctrine of
+
+A. Sankhya
+
+B. Vedanta
+
+C. Buddhism
+
+D. Jainism
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Anatta / anatman** is Buddhist.
+
+</details>
+
+---
+**Q-GC62. UPPCS Mains 2010**
+
+Who among the following is known as the ‘Light of Asia’?
+
+A. Gautama Buddha
+
+B. Mahatma Gandhi
+
+C. Mahavir Swami
+
+D. Swami Vivekanand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Buddha; Edwin Arnold’s book *The Light of Asia*.
+
+</details>
+
+---
+**Q-GC63. IAS Pre 2024**
+
+With reference to ancient India. Gautama Buddha was generally known by which of the following epithets?
+1. Nayaputta  2. Shakyamuni  3. Tathagata
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. None of the above are epithets of Gautama Buddha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Shakyamuni** and **Tathagata** = Buddha. **Nayaputta** = Mahavira.
+
+</details>
+
+---
+**Q-GC64. CGPCS Pre 2019**
+
+Who advocated ‘Neo-Buddhism’?
+
+A. Radhakrishnan
+
+B. Tagore
+
+C. Ambedkar
+
+D. Vivekananda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **B.R. Ambedkar** — Navayana / Neo-Buddhism.
+
+</details>
+
+---
+**Q-GC65. IAS Pre 2020**
+
+With reference to the cultural history of India, which one of the following is the correct description of the term 'paramitas'?
+
+A. The earliest Dharmashastra texts are written in aphoristic (sutra) style
+
+B. Philosophical schools that did not accept the authority of Vedas
+
+C. Perfections whose attainment led to the Bodhisattva path
+
+D. Powerful merchant guilds of early medieval South India.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Paramitas** = perfections on the bodhisattva path.
+
+</details>
+
+---
+**Q-GC66. UPPCS Mains 2014**
+
+Sir Edwin Arnold's book ‘The Light of the Asia’ is based on–
+
+A. Divavadana
+
+B. Lalitvistara
+
+C. Suttapitaka
+
+D. Abhidhammapitaka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Based on ***Lalitavistara***.
+
+</details>
+
+---
+**Q-GC67. UPPCS Pre 1996**
+
+What is the fundamental difference between Hinayana and Mahayana sects of Buddhism?
+
+A. Belief in Non-violence
+
+B. Caste free society
+
+C. Worship of God and Goddess
+
+D. Worship of stupas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Core coaching contrast: Mahayana treats Buddha as **deity / idol worship**; Hinayana as great man / teacher.
+
+</details>
+
+---
+**Q-GC68. BPSC 45th Pre 2001**
+
+Gautama Buddha was elevated to the position of God during the period of –
+
+A. Ashoka
+
+B. Kanishka
+
+C. Chandragupta Vikramaditya
+
+D. Harsha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Deification framing linked to **Kanishka** / Mahayana rise.
+
+</details>
+
+---
+**Q-GC69. IAS Pre 1994**
+
+Name the ‘Mudra’ which is represented by the Gandharan Buddha image of Sarnath first Sermon.
+
+A. Abhaya
+
+B. Dhyana
+
+C. Dharm Chakra
+
+D. Bhumisparsha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** First sermon image = **Dharmachakra** mudra.
+
+</details>
+
+---
+**Q-GC70. IAS Pre 2012**
+
+Lord Buddha’s image is sometimes shown with the hand gesture called; 'Bhumisparsha Mudra'. It symbolizes -
+
+A. Buddha’s calling of the Earth to watch over Mara and to prevent Mara from disturbing his meditation
+
+B. Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara
+
+C. Buddha’s reminder to his followers that they all arise from the Earth and finally dissolve into the Earth, and thus life is transitory
+
+D. Both the statements (a) and (b) are correct in this context.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Earth as **witness** of enlightenment against Mara’s temptations.
+
+</details>
+
+---
+**Q-GC71. UPPCS Mains 2009**
+
+Sarnath Buddha's image of Bhumisparsha Mudra belongs to –
+
+A. Maurya period
+
+B. Shunga period
+
+C. Kushana period
+
+D. Gupta period
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Famous Sarnath earth-touching Buddha = **Gupta** period.
+
+</details>
+
+---
+**Q-GC72. IAS Pre 2020**
+
+With reference to the cultural history of India, consider the following pairs :
+1. Parivrajaka - Renunciant and Wanderer
+2. Shramana - Priest with a high status
+3. Upasaka - Lay follower of Buddhism
+Which of the pairs given above are correctly matched?
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 2 is wrong — **shramana** = wandering ascetic, not high-status Vedic priest.
+
+</details>
+
+---
+**Q-GC73. CGPCS Pre 2018**
+
+Which one of the following rulers did not contribute towards the expansion of Buddhism?
+
+A. Harshavardhana
+
+B. Kanishka
+
+C. Ashoka
+
+D. Pushyamitra Shunga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Pushyamitra Shunga** is remembered in Buddhist tradition as hostile, not a patron.
+
+</details>
+
+---
+**Q-GC74. UPPCS Spl Pre 2004**
+
+Assertion (A) : Kushinagar was the capital of Malla Republic.
+Reason (R) : Lord Buddha’s Mahaparinirvana took place in Kushinagar.
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both true; Mahaparinirvana does **not** explain why Kushinagar was Malla capital.
+
+</details>
+
+---
+**Q-GC75. IAS Pre 1997**
+
+In the Mahayana Buddhism, the Bodhisattva Avalokitesvara was also known as :
+
+A. Vajrapani
+
+B. Manjusri
+
+C. Padmapani
+
+D. Maitreya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Avalokiteshvara as **Padmapani** (lotus-bearer).
+
+</details>
+
+---
+**Q-GC76. IAS Pre 2020**
+
+With reference to the religious history of India, consider the following statements :
+1. Sthaviravadins belong to Mahayana Buddhism.
+2. Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.
+3. The deification of Buddha by Mahasanghikas fostered the Mahayana Buddhism.
+Which of the statements given below is/are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 is wrong — Sthaviravadins are early / Hinayana line, not Mahayana.
+
+</details>
+
+---
+**Q-GC77. IAS Pre 2018**
+
+With reference to Indian history, who among the following is a future Buddha, yet to come to save the world?
+
+A. Avalokiteshvara
+
+B. Lokesvara
+
+C. Maitreya
+
+D. Padmapani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Maitreya** = future Buddha.
+
+</details>
+
+---
+**Q-GC78. IAS Pre 2016**
+
+With reference to the religious history of India, consider the following statements:
+1. The concept of Bodhisattva is central to Hinayana sect of Buddhism.
+2. Bodhisattva is a compassionate one on his way to enlightenment.
+3. Bodhisattva delays achieving his salvation to help all sentient beings on their path to it.
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bodhisattva ideal is **Mahayana**-central; 2 and 3 stand.
+
+</details>
+
+---
+**Q-GC79. IAS Pre 2017**
+
+The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at –
+
+A. Ajanta
+
+B. Badami
+
+C. Bagh
+
+D. Ellora
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Padmapani painting at **Ajanta**.
+
+</details>
+
+---
+**Q-GC80. UP RO/ARO Pre 2014**
+
+The largest and the most evolved rock-cut Chaitya hall of the Hinayana phase is situated at :
+
+A. Pitalkhora
+
+B. Junnar
+
+C. Karle
+
+D. Bedsa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Karle** chaitya.
+
+</details>
+
+---
+**Q-GC81. UPPCS Pre 2017**
+
+In which of the following rock-cut caves, eleven headed Bodhisattava image is depicted?
+
+A. Ajanta
+
+B. Ellora
+
+C. Kanheri
+
+D. Karle
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Eleven-headed Avalokiteshvara at **Kanheri**.
+
+</details>
+
+---
+**Q-GC82. CGPCS Pre 2021**
+
+Who is the author of 'Visuddhimagga'?
+
+A. Nagarjuna
+
+B. Padmasambhava
+
+C. Vasubandhu
+
+D. Buddhaghosa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** ***Visuddhimagga*** by **Buddhaghosa**.
+
+</details>
+
+---
+**Q-GC83. UPPCS Pre 1998**
+
+The Doctrine of void (Shunyata) was propounded by the Buddhist philosopher :
+
+A. Nagarjuna
+
+B. Nagasena
+
+C. Ananda
+
+D. Ashvaghosha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Nagarjuna** — *sunyata* / Madhyamaka.
+
+</details>
+
+---
+**Q-GC84. Uttarakhand UDA/LDA Mains 2007**
+
+To which Buddhist School did Nagarjuna belong ?
+
+A. Sautrantika
+
+B. Vaibhashika
+
+C. Madhyamika
+
+D. Yogachara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Madhyamika / Madhyamaka**.
+
+</details>
+
+---
+**Q-GC85. MPPCS Pre 2004**
+
+Buddhist centre of learning is -
+
+A. Vikramshila
+
+B. Varanasi
+
+C. Girnar
+
+D. Ujjain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Vikramashila** (with Nalanda, Vallabhi).
+
+</details>
+
+---
+**Q-GC86. UP RO/ARO Pre 2014**
+
+Vallabhi University was situated in –
+
+A. Bihar
+
+B. Uttar Pradesh
+
+C. Bengal
+
+D. Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Vallabhi** in **Gujarat** (Hinayana memory).
+
+</details>
+
+---
+**Q-GC87. BPSC 43rd Pre 1999**
+
+Nalanda University was founded during the dynasty of
+
+A. Maurya
+
+B. Kushana
+
+C. Gupta
+
+D. Pala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Nalanda foundation tradition = **Gupta** age.
+
+</details>
+
+---
+**Q-GC88. BPSC 56–59 Pre 2015**
+
+Who was the founder of Nalanda University?
+
+A. Chandragupta Vikramaditya
+
+B. Kumargupta
+
+C. Dharmapala
+
+D. Pushyagupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tradition credits **Kumaragupta I**.
+
+</details>
+
+---
+**Q-GC89. BPSC 48–52 Pre 2008**
+
+‘Nava Nalanda Mahavihara’ is famous for –
+
+A. Hsuan-Tsang memorial
+
+B. Birthplace of Mahavir
+
+C. Pali Research Centre
+
+D. Museum
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Modern **Pali / Buddhist research** centre (foundation 1951).
+
+</details>
+
+---
+**Q-GC90. IAS Pre 1996 / 2012**
+
+Which of the following were common to both Buddhism and Jainism ?
+1. Avoidance of extremities of penance and enjoyment
+2. Indifference to the authority of the Vedas
+3. Denial of efficiency of rituals
+4. Non-injury to animal life
+
+A. 1, 2, 3 and 4
+
+B. 2, 3 and 4
+
+C. 1, 3 and 4
+
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Extremes-avoidance (middle path) is Buddhist, not Jain. Shared: Vedas indifference, ritual denial, ahimsa.
+
+</details>
+
+---
+**Q-GC91. UPPCS Pre 2006**
+
+Lord Buddha preached the following four noble truths - Put them in correct order :
+A. There is suffering.
+B. There is a cessation of suffering.
+C. There is a path leading to the cessation of suffering.
+D. There is the cause of suffering.
+
+A. ADBC
+
+B. ADCB
+
+C. ACBD
+
+D. ABDC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Order: suffering → cause → cessation → path (**A-D-B-C**).
+
+</details>
+
+---
+**Q-GC92. UP UDA/LDA Pre 2001**
+
+Consider the following statements, what is the difference between Chaityas and Viharas?
+
+A. Viharas are places of worship while Chaitya is dwelling place of the Buddhist monks.
+
+B. Chaitya is a place of worship while Vihara is a dwelling place.
+
+C. There is no particular difference between both of them.
+
+D. Viharas and Chaityas both are used as dwelling place.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chaitya** = worship hall; **Vihara** = monastery dwelling.
+
+</details>
+
+---
+**Q-GC93. IAS Pre 2013**
+
+Some Buddhist rock-cut caves are called Chaityas, while the others are called Viharas. What is the difference between the two?
+
+A. Vihara is a place of worship, while Chaitya is the dwelling place of the monks.
+
+B. Chaitya is a place of worship, while Vihara is the dwelling place of the monks.
+
+C. Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it.
+
+D. There is no material difference between the two.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Same chaitya / vihara split.
+
+</details>
+
+---
+**Q-GC94. IAS Pre 2023**
+
+In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?
+
+A. Andhra
+
+B. Gandhara
+
+C. Kalinga
+
+D. Magadha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Dhanyakataka** (Dharanikota) in **Andhra**.
+
+</details>
+
+---
+**Q-GC95. Jharkhand PCS Pre 2013**
+
+Which form of Buddhism was prominent during the Sultanate period?
+
+A. Theravada
+
+B. Hinayana
+
+C. Vajrayana
+
+D. Tantrayana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Eastern India / medieval map often stresses **Vajrayana**.
+
+</details>
+
+---
+**Q-GC96. IAS Pre 2024**
+
+Sanghabhuti, an Indian Buddhist monk, who travelled to China at the end of the fourth century AD, was the author of a commentary on :
+
+A. Prajnaparamita Sutra
+
+B. Visuddhimagga
+
+C. SarvastivadaVinaya
+
+D. Lalitavistara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Commentary on **Sarvastivada Vinaya**.
+
+</details>
+
+---
+**Q-GC97. IAS Pre 2017**
+
+With reference to the religious history of India, consider the following statements:
+1. Sautrantika and Sammitiya were the sects of Jainism.
+2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form.
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 wrong (Buddhist sects). Sarvastivada “all exists” reading stands.
+
+</details>
+
+---
+**Q-GC98. IAS Pre 2019**
+
+Consider the following :
+1. Deification of the Buddha
+2. Treading the path of Bodhisattvas
+3. Image worship and rituals
+Which of the above is/are the feature/features of Mahayana Buddhism?
+
+A. 1 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are Mahayana features.
+
+</details>
+
+---
+**Q-GC99. UPPCS Mains 2010**
+
+The originator of the Jain religion is –
+
+A. Arya Sudharma
+
+B. Mahavira Swami
+
+C. Parshwanath
+
+D. Rishabh Dev
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** First tirthankara **Rishabhdev / Adinath** as originator in tradition.
+
+</details>
+
+---
+**Q-GC100. CGPCS Pre 2013**
+
+Who was the first Tirthankara of Jain religion ?
+
+A. Parsvanath
+
+B. Rishabhanath
+
+C. Mahavira
+
+D. Chetaka
+
+E. Trisala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Rishabhanath**.
+
+</details>
+
+---
+**Q-GC101. UPPCS Mains 2016**
+
+Parshvanatha, the Jain ‘Thirthankara’ was associated mainly with which of the following places?
+
+A. Varanasi
+
+B. Kaushambi
+
+C. Giribraja
+
+D. Champa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Parshvanatha** linked to **Varanasi / Kashi**.
+
+</details>
+
+---
+**Q-GC102. UPPCS Pre 2017**
+
+Match List-I with List-II:
+(Tirthankara) — (Cognizance)
+A. Adinatha  B. Mallinatha  C. Parshavanatha  D. Sambhavnatha
+1. Bull  2. Horse  3. Snake  4. Water Jar
+
+A. 1 4 3 2
+
+B. 1 3 2 4
+
+C. 2 4 3 1
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Adinatha–Bull; Mallinatha–Kalasha; Parshva–Snake; Sambhavnatha–Horse.
+
+</details>
+
+---
+**Q-GC103. BPSC / UPPCS**
+
+Where was Mahavira Swami born?
+
+A. Kundagram
+
+B. Pataliputra
+
+C. Magadha
+
+D. Vaishali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Kundagram / Kundalpur** near Vaishali.
+
+</details>
+
+---
+**Q-GC104. IAS Pre 1993**
+
+In Jain Religion, which word is used for ‘Complete Intellect’?
+
+A. Jin
+
+B. Ratna
+
+C. Kaivalya
+
+D. Nirvana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kaivalya** = complete knowledge.
+
+</details>
+
+---
+**Q-GC105. UPPCS Pre 2004**
+
+The doctrine of three jewels-Right faith, Right action and Right Knowledge, is the crowning glory of :
+
+A. Buddhism
+
+B. Christianity
+
+C. Jainism
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Jain **Triratna** = right faith, knowledge, conduct.
+
+</details>
+
+---
+**Q-GC106. IAS Pre 1995**
+
+The correct of Anuvrata was advocated by :
+
+A. Mahayana Buddhism
+
+B. Hinayana Buddhism
+
+C. Jainism
+
+D. The Lokayata school
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Anuvratas** = householder vows in Jainism.
+
+</details>
+
+---
+**Q-GC107. Uttarakhand PCS Pre 2005**
+
+Syadvad is a doctrine of –
+
+A. Lokayatism
+
+B. Saivism
+
+C. Jainism
+
+D. Vaishnavism
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Syadvada** = Jain relative knowledge doctrine.
+
+</details>
+
+---
+**Q-GC108. IAS Pre 2009 / Jharkhand**
+
+Anekantavada is a core theory and philosophy of which one of the following
+
+A. Buddhism
+
+B. Jainism
+
+C. Sikhism
+
+D. Vaishnavism
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Anekantavada** = Jain.
+
+</details>
+
+---
+**Q-GC109. IAS Pre 2018**
+
+With reference to the religious practices in India, the "Sthanakvasi" sect belongs to
+
+A. Buddhism
+
+B. Jainism
+
+C. Vaishnavism
+
+D. Shaivism
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sthanakvasi** = Svetambara Jain (non-idol line).
+
+</details>
+
+---
+**Q-GC110. UPPCS Mains 2006**
+
+In which one of the following languages was the earliest Jain literature compiled?
+
+A. Ardh-Magadhi
+
+B. Paali
+
+C. Prakrit
+
+D. Sanskrit
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Earliest Jain texts in **Ardhamagadhi**.
+
+</details>
+
+---
+**Q-GC111. IAS Pre 1996**
+
+Which one of the following is not a part of early Jain literature?
+
+A. Therigatha
+
+B. Acarangasutra
+
+C. Sutrakritanga
+
+D. Brihatkalpasutra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ***Therigatha*** is **Buddhist** (nuns’ verses).
+
+</details>
+
+---
+**Q-GC112. RAS/RTS Pre 1999**
+
+Who was the first founder of Shwetambar creed during the first partition of Jain creed?
+
+A. Sthulabhadra
+
+B. Bhadrabahu
+
+C. Kalakacharya
+
+D. Deverdhi Kshama Sharaman
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Northern white-clad line under **Sthulabhadra** vs Digambara under Bhadrabahu.
+
+</details>
+
+---
+**Q-GC113. BPSC 47th Pre 2005**
+
+The first disciple of Lord Mahavir was –
+
+A. Jamali
+
+B. Yashoda
+
+C. Bipin
+
+D. Prabhash
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Jamali** (son-in-law) as first disciple in tradition.
+
+</details>
+
+---
+**Q-GC114. Uttarakhand PCS Pre 2021**
+
+In which of the following place the first Jain Council was held?
+
+A. Patliputra
+
+B. Vaishali
+
+C. Mathura
+
+D. Ujjain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** First Jain Council at **Pataliputra** (Sthulabhadra).
+
+</details>
+
+---
+**Q-GC115. UPPCS Pre 1996 / BPSC**
+
+‘Ajivika’ sect was founded by:
+
+A. Anand
+
+B. Rahulabhadra
+
+C. Makkhali Gosala
+
+D. Upali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Popularised / founded attribution to **Makkhali Gosala**.
+
+</details>
+
+---
+**Q-GC116. IAS Pre 2009**
+
+Mahamastakabhisheka, a great religious event, is associated with and done for which of the following?
+
+A. Bahubali
+
+B. Buddha
+
+C. Mahavir
+
+D. Natraja
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Mahamastakabhisheka** for **Bahubali / Gomateshwara**.
+
+</details>
+
+---
+**Q-GC117. IAS Pre 1994 / UP Lower**
+
+Who built “Gommateshwara” statue at Sravanabelagola?
+
+A. Chamundraya
+
+B. Krishan-I
+
+C. Kumarpala
+
+D. Tejpala.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Minister **Chamundaraya**.
+
+</details>
+
+---
+**Q-GC118. IAS Pre 1996**
+
+According to ancient Indian cosmogonic ideas, the sequential order of the cycle of four epochs (yugas) is –
+
+A. Dvapara, Krita, Treta and Kali
+
+B. Krita, Dvapara, Treta and Kali
+
+C. Krita, Treta, Dvapara and Kali
+
+D. Treta, Dvapara, Kali and Krita
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Krita → Treta → Dvapara → Kali**.
+
+</details>
+
+---
+**Q-GC119. IAS Pre 1996**
+
+Which one of the following was a Shaiva sect in ancient India?
+
+A. Ajivika
+
+B. Mattamayura
+
+C. Mayamata
+
+D. Isanasivagurudeva Paddhati
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mattamayura** Shaiva sect.
+
+</details>
+
+---
+**Q-GC120. UP UDA/LDA Pre 2006**
+
+Who were Nayanars?
+
+A. Shaiva
+
+B. Shakta
+
+C. Vaishnava
+
+D. Suryopasaka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Nayanars** = Tamil **Shaiva** saints.
+
+</details>
+
+---
+**Q-GC121. UPPCS Pre 2013**
+
+Who among the following was not an ‘Alvar Saint’?
+
+A. Poigai
+
+B. Tirugyan
+
+C. Pudam
+
+D. Thirumangai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tirugyan** is not an Alvar (Nayanar name).
+
+</details>
+
+---
+**Q-GC122. IAS Pre 1998**
+
+The Besanagar inscription of Heliodorus is associated with–
+
+A. Sankarshan and Vasudeva
+
+B. Sankarshan and Pradyumna
+
+C. Sankarshan, Pradyumna and Vasudeva
+
+D. Only Vasudeva
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Heliodorus pillar centres on **Vasudeva** as Devadevas.
+
+</details>
+
+---
+**Q-GC123. UPPCS Spl Mains 2008**
+
+The earliest archival evidence related to Bhagavat Religion is-
+
+A. Allahabad’s inscription of Samudragupta
+
+B. Besnagar’s inscription of Heliodorus
+
+C. Bhitri’s inscription of Skanda Gupta
+
+D. Mehrauli’s pillar inscription
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Heliodorus / Besnagar** pillar.
+
+</details>
+
+---
+**Q-GC124. UP RO/ARO Pre 2017**
+
+Match List-I with List-II:
+(Acharya) — (Doctrine)
+A. Lakulisa  B. Nagarjuna  C. Bhadrabahu  D. Gosala
+1. Ajivaka  2. Sunyavada  3. Pasupat  4. Jain
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 1 2 3 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lakulisha–Pashupata; Nagarjuna–Sunyavada; Bhadrabahu–Jain; Gosala–Ajivika.
+
+</details>
 
 ---
 

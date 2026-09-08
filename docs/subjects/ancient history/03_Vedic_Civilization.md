@@ -8,14 +8,14 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History* I, RS Sharma, UPPCS Prelims PYQs 2018–2025, UKPCS Prelims 2025 (Yajurveda Krishna/Shukla)
+> **Sources baked in:** NCERT *Themes in Indian History* I, RS Sharma, Ghatnachakra Vedic Age (B–31+), UPPCS Prelims PYQs 2018–2025, UKPCS Prelims 2025 (Yajurveda Krishna/Shukla)
 > **Weight:** ★★★ — Rigvedic vs Later Vedic, assemblies, officials, Yajurveda schools
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A — purely historical; no scheme/report/appointment surface
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. The **Early / Rigvedic** age is about **1500–1000 BCE** in the **Sapta Sindhu** (Punjab) belt. Its economy type is **pastoral**.
 2. The **Later Vedic** age is about **1000–600 BCE** in the **Ganga–Yamuna doab**, including much of western–central Uttar Pradesh. Its economy type is **agrarian**, with iron and **PGW**.
@@ -47,6 +47,10 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 28. **Brahmana** texts are ritual prose, not the same as the **Brahmana** varna. Context decides which meaning is asked.
 29. **Videha** (north Bihar, Janaka tradition) is east of the UP doab but linked in Later Vedic texts such as the Shatapatha Brahmana.
 30. Match economy types carefully: Indus = **Urban**, Rigvedic = **Pastoral**, Later Vedic = **Agrarian**, Medieval landlordism is a later match-list item.
+31. **Arya** in classical Sanskrit means a **noble** person. Homeland theories include Tilak’s **Arctic** (*The Arctic Home in the Vedas*), Max Müller’s **Central Asia**, and others — none is a closed scientific proof.
+32. **Sindhu** is named most often in the Rigveda; **Saraswati** is the most sacred (*Naditama / Devitama / Matetama*). Afghanistan rivers in the hymns include **Kubha, Krumu, Gomati, Suvastu**.
+33. **Gayatri** (RV III.62.10, Vishvamitra → Savitr); **Satyameva Jayate** (*Mundaka*); **Tamaso mā jyotir gamaya** (*Brihadaranyaka*); Nachiketa–Yama (*Katha*).
+34. **Boghaz-köi** (Hittite / Asia Minor) names **Indra, Varuna, Mitra, Nasatya**. Cow is **aghanya**. **Dasharajna** was fought on the **Parushni**.
 
 ---
 
@@ -73,6 +77,10 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 | PGW | NBPW | Later Vedic **grey painted** doab ware vs mahajanapada **black polished** elite ware | चित्रित धूसर / उत्तरी काली |
 | PGW | OCP | Iron-age **painted grey** vs pre-PGW **ochre-wash** doab rural | PGW / OCP |
 | shyama ayas | ayas (Rigveda) | Later Vedic **iron** vs Early Vedic **copper/bronze** | श्याम आयस / आयस |
+| Trayi | Atharvaveda | Rig–Yajur–Sama liturgical trio vs fourth Veda of charms / household | त्रयी / अथर्ववेद |
+| Karma-kanda | Jnana-kanda | Samhita + Brahmana ritual vs Aranyaka + Upanishad philosophy | कर्मकांड / ज्ञानकांड |
+| Aghanya | Horse sacrifice | Cow “not to be killed” vs Ashvamedha horse rite | अघन्या / अश्वमेध |
+| Sindhu (most named) | Saraswati (most sacred) | Frequency in hymns vs *Naditama* piety | सिन्धु / सरस्वती |
 
 ---
 
@@ -98,15 +106,24 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 **Indo-Aryan culture of Vedic Sanskrit texts | Early ~1500–1000 BCE | Later ~1000–600 BCE**
 
+- **Veda** means knowledge. The post-Harappan textual culture of the Indo-Aryans is called the **Vedic** age.
+- **Arya** in classical Sanskrit means a **noble** person. Older booklet keys sometimes call it a “superior race”; standard teaching treats Arya as a **cultural–linguistic** self-designation, not a modern racial science label.
+- Homeland theories differ: **Bal Gangadhar Tilak** argued the **Arctic / North Pole** in *The Arctic Home in the Vedas* (historians generally reject it); **Max Müller** stressed **Central Asia**; other writers place Aryans in South Russia, Tibet, the Danube, Kashmir, or “seven Indus states.” Treat these as **named theories**, not settled proof.
 - The **Early / Rigvedic** heartland is **Sapta Sindhu**, the north-west Punjab belt.
-- The seven rivers are **Sindhu** (Indus), **Vitasta** (Jhelum), **Asikni** (Chenab), **Parushni** (Ravi), **Vipas** (Beas), **Sutudri** (Sutlej), and **Saraswati**.
+- The seven rivers are **Sindhu** (Indus), **Vitasta** (Jhelum), **Asikni / Asakini** (Chenab), **Parushni** (Ravi), **Vipas / Vipasa** (Beas), **Sutudri / Shutudri** (Sutlej), and **Saraswati**.
+- Afghanistan rivers named in the Rigveda include **Kubha** (Kabul), **Krumu** (Kurram), **Gomati** (Gomal), and **Suvastu** (Swat).
+- **Sindhu** is mentioned **most often** and is called **Hiranyayi**; it empties toward the Arabian Sea.
+- **Saraswati** is the **most sacred** river — *Matetama*, *Devitama*, *Naditama*.
+- **Yamuna** appears a few times; **Ganga** appears once in early Rigvedic memory.
+- **Sadaneera** is identified with the **Gandak**; **Drishadvati** with the Ghaggar belt in many notes.
+- Aryans called the doab fringe **Brahmarshi Desh**, the Himalaya–Vindhya belt **Madhya Desh**, and later the wider north **Aryavarta**.
 - **Later Vedic** culture shifts **east** into the **Ganga–Yamuna doab** of western–central UP.
 - It then reaches **Kosala**, **Kashi**, and **Videha**.
 - The archaeological marker of Later Vedic is **Painted Grey Ware (PGW)**, about **1100–600 BCE**, with **iron**.
 - Early Vedic has **no** Harappan-style cities.
 - **Ayas** in the Rigveda means copper or bronze, not iron.
-- Iron appears as **shyama ayas** or **krishna ayas** in Later Vedic texts.
-- The language is **Vedic Sanskrit**, older than Panini’s Classical Sanskrit.
+- Iron appears as **shyama ayas** or **krishna ayas** in Later Vedic texts. Early iron in the doab is often linked to sites such as **Atranjikhera** (~1000 BCE band).
+- The language is **Vedic Sanskrit**, older than Panini’s Classical Sanskrit. Avestan of **Iran** shares close kinship with Rigvedic language.
 - The Vedic age ends around **600 BCE**. Mahajanapadas, Buddhism, and Jainism follow.
 - There was **no** Vedic empire.
 
@@ -154,14 +171,15 @@ D. 4 3 1 2
 - Wars are often **gavishti**, a cattle-raid.
 - **Dasas** and **Dasyus** are rival groups in the hymns.
 - **Panis** are cattle-keepers or traders, often hostile in the hymns.
-- **Apala** is a woman hymn-composer.
-- **Lopamudra** is a woman hymn-composer.
-- **Visvavara** is a woman hymn-composer.
-- **Ghosha** is a woman hymn-composer.
+- Women hymn-composers (**Brahmavadinis**) include **Lopamudra** (wife of Agastya), **Visvavara**, **Ghosha**, **Sikata**, and **Apala**.
 - Women could attend the **Sabha**.
 - Women could attend the **Vidatha**.
 - There is no sati, purdah, or child-marriage as a system.
-- **Varna** is named in the **Purusha Sukta** (Rigveda **X.90**), a **late** hymn.
+- **Varna** is named in the **Purusha Sukta** (Rigveda **X.90**), a **late** hymn. **Shudra** appears clearly here; earlier hymns stress three functional groups more loosely.
+- The **Panchajana** tribes are **Yadu, Turvasa, Druhyu, Anu, and Puru**. **Kikata** is **not** one of them.
+- **Kul / kula** is the smallest family unit. Society is **patriarchal**.
+- **Gotra** in early Rigvedic usage can mean a cow-pen / herd; lineage sense grows later.
+- The cow is **aghanya** — “not to be killed.” Cattle are wealth and a medium of exchange.
 - Occupation is still flexible in Early Vedic.
 - Early Vedic **varna** is still **flexible** occupation; the later four-fold *jati* system is a Later Vedic growth.
 - Religion is of **nature gods**, with **no temples and no idols**.
@@ -169,8 +187,9 @@ D. 4 3 1 2
 - Houses are of wood and thatch.
 - The **ratha** is a horse-chariot.
 - There are no stone cities, no iron, and no coins.
+- Clothing terms include **vasa** (lower) and **adhivasa** (upper). Craft terms include **taksha** (carpenter), **karma** (metal-worker), **veknat** (moneylender), and **aritri** (boatman).
 
-> ** note:** Rigvedic society is **Pastoral**, not agrarian. Later Vedic = agrarian.
+> ** note:** Rigvedic society is **Pastoral**, not agrarian. Later Vedic = agrarian. **Yava** = **barley** (not millet).
 
 ---
 
@@ -251,6 +270,7 @@ D. 4 3 1 2
 - **Bhaga** is the king’s share.
 - Later **shulka** is a toll.
 - Spies appear in later texts.
+- In family vocabulary, **kula**, **vamsha**, and **gotra** belong together; **kosha** means **treasury**, not a kinship term.
 - The system is still clan-based. It is **not** Ashokan district officers.
 
 > ** note:** In 2023, Bhagadugha is not a messenger, not a forest officer, and not the gambling chief.
@@ -280,10 +300,11 @@ D. Revenue Collector
 - Wealth is counted in **cows**.
 - **Gavishti** is a cattle-raid, not a tax.
 - Agriculture exists but is **secondary**.
-- **Yava** (barley) is known in Early Vedic.
+- **Yava** (barley) is known in Early Vedic. Do not match *yava* to millet.
+- Later crop vocabulary includes **vrihi** (rice), **mudga** (mung), and **ikshu** (sugarcane).
 - Wheat (**godhuma**) and rice become important **later**, with the iron plough.
 - Exchange is by **barter**.
-- **Nishka** is a gold necklace used as a **value standard**. It is **not** a coin.
+- **Nishka** is a gold necklace used as a **value standard**. It is **not** a coin. Later ages use *nishka* as a coin-name.
 - **Hiranya** means gold.
 - There are **no** punch-marked coins yet.
 - Crafts include copper and bronze work, leather, pottery, and **chariot**-making.
@@ -336,7 +357,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 
 | God | Approx. Rigvedic hymns | Role / fact |
 |-----|------------------------|-------------|
-| **Indra** | **~250** (largest) | War god, rain-bringer, slayer of **Vritra** |
+| **Indra** | **~250** (largest) | War god, rain-bringer, slayer of **Vritra**; called **Purandara** (fort-breaker) |
 | **Agni** | **~200** (second) | Fire god; carries offerings to other gods |
 | **Soma** | **~120** | Ritual drink-god; Mandala **IX** is the Soma book |
 | **Ashvins** | **~50+** | Twin healer / dawn horsemen gods |
@@ -349,9 +370,12 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 | **Vishnu** | few / **minor** | Three strides myth; **not** yet supreme |
 | **Rudra** | few / **minor** | Fierce storm / healer; later rises as Shiva |
 
-- Early Vedic religion is **nature worship** through **hymns and fire sacrifice**.
+- Early Vedic religion is **polytheistic** nature worship through **hymns and fire sacrifice** (yajna).
 - There are **no temples** and **no idols** in the Rigvedic pattern.
-- **Rita** is cosmic order; **Varuna** is its chief guardian.
+- **Rita** is cosmic / natural order; **Varuna** is its chief guardian (**Ritasyagopa**).
+- **Dharma** in Vedic usage points to duty and ordinance that keep order; **rita** is the impersonal universal law. Both appear from the Rigveda onward.
+- **Brihaspati** is the priest / teacher of the gods (**Deva-guru**).
+- The **Boghaz-köi** (Boğazköy) inscription from Asia Minor / Hittite lands (about **14th century BCE**) names **Indra, Varuna, Mitra, and Nasatya** — proof of Indo-Aryan god-names outside India.
 - **Dyaus** (sky) and **Prithvi** (earth) are older nature pair names in the hymns.
 
 ### Later Vedic religion
@@ -360,8 +384,13 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - **Prajapati** rises as a creator / ritual-supreme figure.
 - **Vishnu** and **Rudra** gain importance (they were **minor** in the Rigveda).
 - **Indra** remains famous but is no longer the unchallenged centre of religion.
+- Four **ashramas** (Brahmacharya → Grihastha → Vanaprastha → Sannyasa) and four **purusharthas** (Dharma, Artha, Kama, Moksha) are systematized in the post / Later Vedic horizon.
+- **Pancha Mahayajnas** belong to the **Grihastha** stage.
+- About **sixteen samskaras** appear in later lists (from Garbhadhana to Antyeshti).
+- Directional kingship titles in Later Vedic lists include **Samrat** (east), **Svarat** (west), **Virat** (north), **Bhoja** (south), and **Raja** (centre).
 - Thought shifts from **Brahmana** ritual manuals to forest **Aranyakas**.
 - It then reaches the **Upanishads**, which put **jnana** (Brahman–Atman) over **yajna**.
+- Untouchability as a clear social system is usually dated to the later **Dharmashastra** phase, not Early Rigvedic society.
 
 > ** note:** Trap — “Vishnu is already the supreme Rigvedic god.” False. Trap — “Krishna Yajurveda = hymns to god Krishna.” False; **Krishna** here means **Black** Yajurveda.
 
@@ -405,6 +434,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - In **Later Vedic** it becomes an elite-male club.
 - Women drop out. The king is less bound by it.
 - Later literature also uses *sabha* for a **gambling hall**. That is a social hall, not the early political body.
+- The **Atharvaveda** calls **Sabha** and **Samiti** the **two daughters of Prajapati** and treats them as distinct institutions more clearly than the Rigveda.
 - It is **not** Lok Sabha, Rajya Sabha, or the 73rd-Amendment **Gram Sabha**.
 
 > ** note:** Sabha means **elders**. Samiti means the **people**.
@@ -451,12 +481,15 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - It covers Samhita, Brahmana, Aranyaka, and Upanishad.
 - **Smriti** is later remembered law. It is not the core of this chapter.
 - Growth order is **Samhita** (mantra), then **Brahmana** (ritual prose), then **Aranyaka** (forest and symbol), then **Upanishad** (philosophy).
+- **Karma-kanda** = Samhita + Brahmana (ritual). **Jnana-kanda** = Aranyaka + Upanishad (philosophy).
+- **Trayi / Vedatrayi** = Rigveda + Yajurveda + Samaveda (the three liturgical Vedas). Atharvaveda is the fourth.
 - The corpus is kept by **guru–shishya** recitation.
-- **Shakhas** are recension schools.
+- **Shakhas** are recension schools. Patanjali cites **21** Rigveda branches.
 - The Rigveda is the oldest Veda.
 - The Atharvaveda and the prose layers are younger.
-- Later Vedic books take shape in **Kuru–Panchala** and **Videha** in the east.
+- Later Vedic books take shape in **Kuru–Panchala** and **Videha** in the east. Post-Vedic notes treat **Kuru–Panchala** as the axis of Aryan culture.
 - **Sayana** of fourteenth-century Vijayanagara commented on the Vedas. He is **medieval**, not Vedic-age.
+- An **Upadhyaya** teaches a portion of Veda / Vedanga for livelihood; an **Acharya** is a fuller teacher of the tradition.
 
 > ** note:** Vedas were **not** “published on paper” in 1500 BCE. Oral first.
 
@@ -468,24 +501,28 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 
 | Veda | Core content | Priest | Upaveda | Main Samhita(s) | Key Brahmana(s) | Structure fact |
 |------|--------------|--------|---------|-----------------|-----------------|----------------|
-| **Rigveda** | Oldest; hymns (*rik*) | **Hotri** | **Ayurveda** | Rigveda Samhita | **Aitareya**, Kausitaki | **1028** hymns (**1017 + 11** Valakhilya); **10** mandalas |
+| **Rigveda** | Oldest; hymns (*rik*) | **Hotri / Hota** | **Ayurveda** (often also linked Atharva) | Rigveda Samhita | **Aitareya**, Kausitaki | **1028** hymns; **~10552** verses (*richas*); **10** mandalas |
 | **Samaveda** | Melodies (*saman*) for Soma | **Udgatri** | **Gandharvaveda** | Samaveda Samhita (mostly from Rig) | Tandya / Panchavimsha, Jaiminiya | Chant-book for sacrifice |
 | **Yajurveda** | Sacrificial formulas (*yajus*) | **Adhvaryu** | **Dhanurveda** | **Shukla:Vajasaneyi** (Madhyandina, Kanva; paper: **Vajasanami**). **Krishna:** Taittiriya, Kathaka, Maitrayani (+ Kapishthala) | **Shatapatha** (Shukla, **100** ch.); Taittiriya (Krishna) | Shukla = mantra & Brahmana **apart**; Krishna = **mixed** |
 | **Atharvaveda** | Spells, healing, household | **Brahman** (rite supervisor) | **Arthashastra** | Atharvaveda Samhita | **Gopatha** (only one) | **20** books; newest of the four; early **iron** hints |
 
-- Mandalas **II–VII** are the family books and the oldest Rigvedic core.
-- Mandala **IX** is the Soma book.
+- Mandalas **II–VII** are the family books and the oldest Rigvedic core (Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vasishtha traditions).
+- Mandala **VIII** is linked with Kanva and Angiras lines.
+- Mandala **IX** is the Soma book (**114** hymns to Soma).
 - Mandalas **I and X** are the latest.
 - The **Purusha Sukta** lives in Mandala X.
 - The **Gayatri Mantra** is RV **III.62.10**.
 - It is addressed to **Savitr**. The seer is **Vishvamitra**.
 - The Nasadiya Sukta, the creation hymn, is also in Mandala X.
-- Most **Samaveda** verses are lifted from the Rigveda.
+- Most **Samaveda** verses are lifted from the Rigveda (about **1875** verses; only a small residue is not from Rig).
 - **Shukla (White) Yajurveda** keeps mantra and Brahmana **apart**.
 - **Krishna (Black) Yajurveda** mixes mantra and prose.
 - In **UPPCS 2018 Q13**, options **B Maitrayani**, **C Taittiriya**, and **D Kathak** are all **Krishna (Black) Yajurveda** Samhitas — only **A Vajasanami** is **Shukla**.
 - Here **Krishna** means the **Black Yajurveda** school (mantra + prose mixed). It does **not** mean the deity Krishna.
-- The Atharvaveda is everyday religion, not only royal yajna.
+- The Atharvaveda is everyday religion, charms, healing, and household rites — not only royal yajna.
+- First textual notice of **Anga** and **Magadha** (with Gandhari and Mujavat) appears in the **Atharvaveda**.
+- **Ayurveda** (science of life) is treated as an Upaveda / Upanga linked especially with the **Atharvaveda**.
+- The supervising priest of the Atharvan rite is often called **Brahman**.
 
 > ** note:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna (Black)** Yajurveda — not hymns to god Krishna.
 
@@ -527,7 +564,8 @@ D. Kathak
 - They set priest roles and varna duties.
 - **Rajasuya** is treated in the Aitareya Brahmana.
 - **Ashvamedha** is treated in the Shatapatha Brahmana.
-- The **Shatapatha** also carries the Videha eastward-expansion story of Mathava and Videgha.
+- **Purushamedha** is also discussed in the **Shatapatha** (and in Taittiriya Brahmana notes).
+- The **Shatapatha** also carries the Videha eastward-expansion story of **Videgha Mathava / Madhava** with priest **Gautama Rahugana** carrying Agni Vaisvanara east of the Sadaneera.
 - The language is Later Vedic Sanskrit **prose**.
 - They are the bridge toward Aranyakas.
 
@@ -560,19 +598,33 @@ D. Kathak
 
 - Tradition counts **108** Upanishads.
 - Notes use the principal early set: Brihadaranyaka, Chandogya, Isha, Kena, Katha, Mundaka, Mandukya, Prashna, Taittiriya, and Aitareya.
-- **Svetasvatara** is often added to that list.
+- **Svetasvatara** (“white horse” etymology in many notes) is often added to that list.
+- **Moksha / salvation** as liberation language is developed in the **Upanishads**, not as a Rigvedic Samhita keyword.
 - **Tat Tvam Asi** is taught in the **Chandogya**.
 - Uddalaka Aruni speaks it to Shvetaketu.
-- The **Yajnavalkya–Maitreyi** dialogue is in the **Brihadaranyaka**.
-- **Gargi** also debates there.
+- **Satyakama Jabala** appears in the **Chandogya**.
+- The **Yajnavalkya–Maitreyi** and **Yajnavalkya–Gargi** dialogues are in the **Brihadaranyaka**.
 - The Brihadaranyaka belongs to the Shukla Yajurveda.
 - The **Nachiketa–Yama** story is in the **Katha Upanishad**.
+- **Satyameva Jayate** (“Truth alone triumphs”) is from the **Mundaka Upanishad** — India’s national motto under the state emblem (adopted **26 January 1950**).
+- **Tamaso mā jyotir gamaya** is from the **Brihadaranyaka**.
 - The **Mandukya** is the shortest.
 - It teaches **Om / AUM** and the four states of consciousness.
-- **Janaka of Videha** patronises these debates.
+- **Janaka of Videha** patronises these debates. Other Upanishadic scholar-kings include **Asvapati of Kekaya**, Pravahana Jaivali of Panchala, and Ajatashatru of Kashi (in tradition).
 - The date-band is about **800–600 BCE**, in eastern courts.
+- Upanishads use **parables** (e.g. two-birds imagery) — they are not parable-free.
 
 > ** note:** Upanishads **question** big public yajna. They are **Shruti**. They are **not** a Vedanga.
+
+---
+
+## 3.14A Puranas and Itihasa (Vedic desk extras)
+
+- There are **18** Mahapuranas. Five traditional marks (*pancha-lakshana*) are **Sarga, Pratisarga, Vamsha, Manvantara, and Vamshanucharita**.
+- **Vishnu Purana** preserves Mauryan genealogical memory; **Vayu Purana** is often linked with Gupta-period material in booklet keys.
+- The **Bhagavad Gita** is originally in **Sanskrit** (about **700** verses) inside the Mahabharata.
+- The Mahabharata’s early form is remembered as **Jaya / Jayasamhita** (~**8,800** verses); the expanded epic is called **Shatasahasri Samhita** (~**100,000** verses), attributed to **Vyasa**.
+- Ocean-churning myths name **Vasuki** as the churning rope.
 
 ---
 
@@ -740,9 +792,1567 @@ D. Atharva Veda
 
 ### Years with zero extra Vedic hits in local `pyq/`
 
-UPPCS Prelims **2025, 2024, 2022, 2021, 2019** — keyword search (Vedic / Rigved / Yajurveda / Bhagadugha / Upanishad / Sabha-as-Vedic-assembly) returned **no further GS-I questions** for this topic. Polity “Sabha” hits are Lok/Rajya/Gram Sabha — **out of boundary**.
+UPPCS Prelims **2025–2018** year-codes for this topic are banked above (plus UKPCS 2025 Yajurveda). Older UPPCS / RO-ARO / Lower / IAS / sister stems in the Ghatnachakra bank below close the booklet gap.
 
 ---
+
+## Complete PYQ Bank — Ghatnachakra Vedic Age (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra Vedic Age (B–31+). Teaching lives in Topic 3 sections 3.1–3.17. Year-coded UPPCS stems already banked (2023 Bhagadugha, 2020 economy match, 2018 Vajasanami / Shukla Yajurveda) and UKPCS 2025 Krishna–Shukla Yajurveda are not repeated as identical entries.
+
+**Q-GC1. IAS / UPPCS 1999**
+
+The term ‘Aryan’ / ‘Arya’ in classical Sanskrit denotes
+
+A. An ethnic group only
+
+B. A nomadic people only
+
+C. A speech group only
+
+D. A noble man (self-designation)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Classical Sanskrit **Arya** means a **noble** person. Teaching treats it as a cultural–linguistic self-name, not modern racial science.
+
+</details>
+
+---
+
+**Q-GC2. UKPCS / UPPCS**
+
+Which among the following Vedas is the earliest composition?
+
+A. Yajurveda
+
+B. Rigveda
+
+C. Samaveda
+
+D. Atharvaveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Rigveda** is the oldest of the four Vedas.
+
+</details>
+
+---
+
+**Q-GC3. UPPSC (GIC) 2010**
+
+‘Trayi’ is a name for
+
+A. Three Vedas
+
+B. Dharma, Sangha and Buddha
+
+C. Three Gods in Hindu Pantheon
+
+D. Three seasons
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Trayi** = Rigveda + Yajurveda + Samaveda.
+
+</details>
+
+---
+
+**Q-GC4. UKPCS (Pre) 2012**
+
+In which Vedic text the term ‘Varna’ is found referred for the first time?
+
+A. Rigveda
+
+B. Atharvaveda
+
+C. Samaveda
+
+D. Yajurveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The **Purusha Sukta** varna framework appears in the **Rigveda** (Mandala X).
+
+</details>
+
+---
+
+**Q-GC5. CGPCS (Pre) 2014**
+
+The ‘Purush Sukta’ related to Varna System is originally found in
+
+A. Atharvaveda
+
+B. Samaveda
+
+C. Rig Veda
+
+D. Manusmriti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Purusha Sukta** = Rigveda **X.90**.
+
+</details>
+
+---
+
+**Q-GC6. UPPCS (Pre) 2003**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+|---|---|
+| A. Rigveda | 1. Musical hymns |
+| B. Yajurveda | 2. Hymns and rituals |
+| C. Samaveda | 3. Charms and spells |
+| D. Atharvaveda | 4. Hymns and prayers |
+
+*Row order is not the answer.*
+
+A. 4 2 1 3
+
+B. 3 2 4 1
+
+C. 4 1 2 3
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rig–hymns/prayers; Yajur–rituals; Sama–musical hymns; Atharva–charms/spells.
+
+</details>
+
+---
+
+**Q-GC7. Jharkhand PCS (Pre) 2011**
+
+Which one of the following four Vedas contains an account of magical charms and spells?
+
+A. Rig Veda
+
+B. Yajurveda
+
+C. Atharvaveda
+
+D. Samaveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Charms and spells = **Atharvaveda**.
+
+</details>
+
+---
+
+**Q-GC8. UP RO/ARO (Pre) 2016**
+
+The Rig Veda is the
+
+A. Collection of hymns
+
+B. Collection of stories
+
+C. Collection of words
+
+D. Text of war
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rigveda is a collection of **hymns** (*rik*).
+
+</details>
+
+---
+
+**Q-GC9. RAS/RTS (Pre) 2013**
+
+Match List-I and List-II (Veda — Brahmana):
+
+| List-I | List-II |
+|---|---|
+| A. Rig Veda | i. Gopatha |
+| B. Samaveda | ii. Shatpatha |
+| C. Atharvaveda | iii. Aitariya |
+| D. Yajurveda | iv. Panchvisha |
+
+*Row order is not the answer.*
+
+A. iv ii iii i
+
+B. ii iv iii i
+
+C. iii iv i ii
+
+D. i ii iv iii
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Rig–**Aitareya**; Sama–**Panchavimsha**; Atharva–**Gopatha**; Yajur–**Shatapatha**.
+
+</details>
+
+---
+
+**Q-GC10. MPPCS (Pre) 2017**
+
+Which one of the following Brahmana texts belongs to the Rigveda?
+
+A. Aitareya Brahmana
+
+B. Gopatha Brahmana
+
+C. Shatpatha Brahmana
+
+D. Taittiriya Brahmana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Aitareya** (and Kaushitaki) belong to the Rigveda.
+
+</details>
+
+---
+
+**Q-GC11. MPPCS (Pre) 2025**
+
+The Brahmin texts related to Yajurveda are
+
+A. Gopatha
+
+B. Panchvish and Jaiminiya
+
+C. Aitareya and Kaushitaki
+
+D. Taittiriya and Shatpatha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Taittiriya** (Krishna) and **Shatapatha** (Shukla) belong to Yajurveda.
+
+</details>
+
+---
+
+**Q-GC12. UP RO/ARO (Pre) 2014**
+
+‘Gopatha Brahmana’ is associated with
+
+A. Yajurveda
+
+B. Samaveda
+
+C. Atharvaveda
+
+D. Rigveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Gopatha** is the only Brahmana of the **Atharvaveda**.
+
+</details>
+
+---
+
+**Q-GC13. BPSC**
+
+Which Mandala of Rig Veda is completely dedicated to ‘Soma’?
+
+A. Seventh Mandala
+
+B. Eighth Mandala
+
+C. Ninth Mandala
+
+D. Tenth Mandala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mandala **IX** is the **Soma** book (~114 hymns).
+
+</details>
+
+---
+
+**Q-GC14. RAS/RTS (Pre) 1999**
+
+Rights and Rituals related to Yajnas are mentioned in
+
+A. Rig Veda
+
+B. Samaveda
+
+C. Brahmin Granthas
+
+D. Yajurveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sacrificial formulas / ritual procedure = **Yajurveda**.
+
+</details>
+
+---
+
+**Q-GC15. UPPCS (Pre) 1997**
+
+The compilation of which among the following is based upon the Rig Veda?
+
+A. Yajurveda
+
+B. Samaveda
+
+C. Atharvaveda
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Most **Samaveda** verses are taken from the Rigveda.
+
+</details>
+
+---
+
+**Q-GC16. UPPCS (Pre) 1998**
+
+The earliest evidence of the use of iron in India has been discovered from
+
+A. Taxila
+
+B. Atranjikhera
+
+C. Kaushambi
+
+D. Hastinapur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Booklet key: early iron at **Atranjikhera** (doab, ~1000 BCE band).
+
+</details>
+
+---
+
+**Q-GC17. UPPCS (Mains) 2004**
+
+Upanishads are books on
+
+A. Religion
+
+B. Yoga
+
+C. Law
+
+D. Philosophy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Upanishads are primarily **philosophy** (Brahman–Atman).
+
+</details>
+
+---
+
+**Q-GC18. UPPCS (Mains) 2003**
+
+Which one of the following Vedic literature talks about salvation
+
+A. Rig Veda
+
+B. Later Samhitas
+
+C. Brahmins
+
+D. Upanishads
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Moksha** language is developed in the **Upanishads**.
+
+</details>
+
+---
+
+**Q-GC19. IAS / UPPCS**
+
+The famous dialogue between Nachiketa and Yama is mentioned in the
+
+A. Brihadaranyaka Upanishad
+
+B. Chhandogyopanishad
+
+C. Kathopanishad
+
+D. Kenopanishad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Nachiketa–Yama = **Katha / Kathopanishad**.
+
+</details>
+
+---
+
+**Q-GC20. UPPCS (Pre) 1999**
+
+King Asvapati of the Upanishadic period was the ruler of
+
+A. Kashi
+
+B. Kekaya
+
+C. Panchala
+
+D. Videha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Asvapati** of **Kekaya**.
+
+</details>
+
+---
+
+**Q-GC21. UPPCS (Mains) 2014**
+
+Which of the following is the correct order of the Vedic literature?
+
+A. Vedic Samhitas, Brahmanas, Aranyakas, Upanishads
+
+B. Vedic Samhitas, Upanishads, Aranyakas, Brahmanas
+
+C. Vedic Samhitas, Aranyakas, Brahmanas, Upanishads
+
+D. Vedic Samhitas, Vedangas, Aranyakas, Smritis
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Samhita → Brahmana → Aranyaka → Upanishad**.
+
+</details>
+
+---
+
+**Q-GC22. IAS (Pre) 1996**
+
+The river mentioned most in early Vedic literature is
+
+A. Sindhu
+
+B. Shutudri
+
+C. Sarasvati
+
+D. Ganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Sindhu** is named most often; **Saraswati** is most sacred (*Naditama*).
+
+</details>
+
+---
+
+**Q-GC23. UPPSC (GIC) 2010**
+
+Vedic river Askini is identified with which one of the following rivers?
+
+A. Beas
+
+B. Ravi
+
+C. Chenab
+
+D. Jhelum
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Asikni / Askini** = **Chenab**.
+
+</details>
+
+---
+
+**Q-GC24. UPPCS (Pre) 2010**
+
+Which of the following rivers mentioned in the Rig Veda indicates the relations of Aryans with Afghanistan?
+
+A. Askini
+
+B. Parushni
+
+C. Kubha, Krumu
+
+D. Vipasha, Shutudri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kubha, Krumu** (with Gomati, Suvastu) flow in the Afghanistan belt.
+
+</details>
+
+---
+
+**Q-GC25. UPPCS (Pre) 2012**
+
+Match List-I and List-II (Vedic Rivers — Modern Name):
+
+| List-I | List-II |
+|---|---|
+| A. Kubha | 1. Gandak |
+| B. Parushni | 2. Kabul |
+| C. Sadaneera | 3. Ravi |
+| D. Shutudri | 4. Sutlej |
+
+*Row order is not the answer.*
+
+A. 1 2 4 3
+
+B. 2 3 1 4
+
+C. 3 4 2 1
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kubha–Kabul; Parushni–Ravi; Sadaneera–Gandak; Shutudri–Sutlej.
+
+</details>
+
+---
+
+**Q-GC26. IAS (Pre) 1994**
+
+Which of the followings customs emerged during the post-Vedic period
+
+A. Dharma, Artha, Kama, Moksha
+
+B. Brahmin, Kshatriya, Vaishya, Shudra
+
+C. Brahmcharya, Grihastha, Vanaprastha, Sanyasa
+
+D. Indra, Surya, Rudra, Maruta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A and C (both accepted in booklet).** Four **purusharthas** and four **ashramas** are systematized in the post / Later Vedic horizon.
+
+</details>
+
+---
+
+**Q-GC27. MPPCS (Pre) 2025**
+
+While living in which Ashram did a person have to perform the rituals of the Pancha Mahayagya?
+
+A. Brahmacharya Ashram
+
+B. Grihastha Ashram
+
+C. Vanaprastha Ashram
+
+D. Sannyasa Ashram
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Pancha Mahayajnas** belong to the **Grihastha** stage.
+
+</details>
+
+---
+
+**Q-GC28. IAS (Pre) 2011**
+
+‘Dharma’ and ‘Rita’ depict a central idea of ancient Vedic Civilization. Consider:
+
+1. ‘Dharma’ was a conception of obligations and the discharge of one’s duties to oneself and to others.
+2. ‘Rita’ was the fundamental moral law governing the functioning of the universe and all it contained.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct. Varuna is *Ritasyagopa*.
+
+</details>
+
+---
+
+**Q-GC29. CGPCS (Pre) 2016**
+
+In context on Indian culture 'Rita' means
+
+A. Natural law
+
+B. Artificial law
+
+C. Human law
+
+D. Social law
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Rita** = universal **natural order**.
+
+</details>
+
+---
+
+**Q-GC30. UPPCS (Mains) 2013**
+
+Who among the following Vedic deities was believed to be their priest?
+
+A. Agni
+
+B. Brihaspati
+
+C. Dyaus
+
+D. Indra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Brihaspati** = priest / guru of the gods.
+
+</details>
+
+---
+
+**Q-GC31. IAS (Pre) 1995**
+
+Who among the following was a Brahmavadini who composed some hymns of the Vedas?
+
+A. Lopamudra
+
+B. Gargi
+
+C. Leelavati
+
+D. Savitri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Lopamudra** (and Ghosha, Visvavara, etc.) are Rigvedic **Brahmavadinis**.
+
+</details>
+
+---
+
+**Q-GC32. IAS (Pre) 1993**
+
+During the Rigvedic Period word ‘Nishka’ was used for a Jewellery but in later periods it was used for the meaning of
+
+A. Arms
+
+B. Farming equipment
+
+C. Script
+
+D. Coin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Rigvedic **nishka** = gold neck ornament / value-unit; later used as a **coin** name.
+
+</details>
+
+---
+
+**Q-GC33. UPPCS (Pre) 1996**
+
+Boghaz-Koi is important because
+
+A. It was an important trading centre between Central Asia and Tibet
+
+B. Inscriptions were found which mentioned the names of Vedic Gods and Goddesses
+
+C. Original Texts of the Vedas were composed here
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Boghaz-köi** names **Indra, Varuna, Mitra, Nasatya**.
+
+</details>
+
+---
+
+**Q-GC34. UPPCS (Pre) 1996**
+
+Who among the following wrote on the original homeland of the Aryans?
+
+A. Sankaracharya
+
+B. Annie Besant
+
+C. Vivekanand
+
+D. Bal Gangadhar Tilak
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tilak’s *The Arctic Home in the Vedas* (Arctic homeland theory — not accepted by most historians).
+
+</details>
+
+---
+
+**Q-GC35. UP Lower Sub (Pre) 2015**
+
+The priest associated with King Videgha Madhava referred in Shatpatha Brahmana was
+
+A. Rishi Bharadwaj
+
+B. Rishi Vashishta
+
+C. Rishi Vishwamitra
+
+D. Rishi Gautama Rahugana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Gautama Rahugana** accompanies **Videgha Madhava**.
+
+</details>
+
+---
+
+**Q-GC36. UPPCS (Mains) 2007**
+
+In the post-Vedic period which was considered as the axis of Aryan Culture
+
+A. Anga, Magadha
+
+B. Kosal, Videha
+
+C. Kuru, Panchala
+
+D. Matsya, Shurasena
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kuru–Panchala** is treated as the Later / post-Vedic cultural axis.
+
+</details>
+
+---
+
+**Q-GC37. UPPCS (Mains) 2005**
+
+The word Gotra occurs for the first time in
+
+A. Atharvaveda
+
+B. Rigveda
+
+C. Samaveda
+
+D. Yajurveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Early **gotra** = cow-pen / herd in the **Rigveda**; lineage sense grows later.
+
+</details>
+
+---
+
+**Q-GC38. IAS (Pre) 2012**
+
+The religion of early Vedic Aryans was primarily of
+
+A. Bhakti
+
+B. Image worship and yajnas
+
+C. Worship of nature and yajnas
+
+D. Worship of nature and bhakti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Early Vedic religion = **nature worship + yajnas** (no idols/temples).
+
+</details>
+
+---
+
+**Q-GC39. BPSC / UPPCS**
+
+Famous Battle of ‘Ten Kings’ was fought on the bank of the river
+
+A. The Ganges
+
+B. Brahmaputra
+
+C. Kaveri
+
+D. Parushni
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Dasharajna** on the **Parushni (Ravi)**; Sudas defeats the ten-king confederacy.
+
+</details>
+
+---
+
+**Q-GC40. UPPCS (Spl) (Mains) 2008**
+
+Which of the following rivers among the following referred as ‘Matetama’, 'Devitama' and ‘Naditama’ in the Rig Veda?
+
+A. Sindhu
+
+B. Saraswati
+
+C. Vitasta
+
+D. Yamuna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Those epithets belong to **Saraswati**.
+
+</details>
+
+---
+
+**Q-GC41. UPPCS (Mains) 2009**
+
+Give the name of the tribe which is not related to the ‘Panchjana’ of the Rigveda Aryans
+
+A. Yadu
+
+B. Puru
+
+C. Turvasu
+
+D. Kikat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Panchajana = Yadu, Turvasa, Druhyu, Anu, Puru. **Kikata** is outside that five.
+
+</details>
+
+---
+
+**Q-GC42. UPPCS (Spl) (Mains) 2008**
+
+The word ‘Yava’ mentioned in Rigveda is used for which agricultural product?
+
+A. Barley
+
+B. Gram
+
+C. Rice
+
+D. Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Yava** = **barley** (not millet).
+
+</details>
+
+---
+
+**Q-GC43. MPPCS (Pre) 2019**
+
+The Rigvedic "Pani" belonged to which class of citizens?
+
+A. Priests
+
+B. Ironsmiths
+
+C. Goldsmiths
+
+D. Traders
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Panis** are remembered as **traders** / cattle-dealers hostile in hymns.
+
+</details>
+
+---
+
+**Q-GC44. RAS/RTS (Pre) 1993**
+
+The System of Governance prevalent in the Vedic era was
+
+A. Autocratic
+
+B. Democratic
+
+C. Republic
+
+D. Descended monarchy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Hereditary / descended **monarchy** was the prevalent form (with Sabha–Samiti checks).
+
+</details>
+
+---
+
+**Q-GC45. UPPCS (Mains) 2009**
+
+In which of the Vedas, Sabha and Samiti are called as two daughters of Prajapati?
+
+A. Rigveda
+
+B. Samveda
+
+C. Yajurveda
+
+D. Atharvaveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Atharvaveda names Sabha and Samiti as **two daughters of Prajapati**.
+
+</details>
+
+---
+
+**Q-GC46. Jharkhand PCS (Pre) 2016**
+
+The Rigvedic tribal assembly associated with judicial function was
+
+A. Sabha
+
+B. Samiti
+
+C. Vidhata
+
+D. All of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Sabha** handles disputes / judicial work more clearly than Samiti.
+
+</details>
+
+---
+
+**Q-GC47. UPPCS (Pre) 1994**
+
+‘Ayurveda’ that is ‘Science of Life’ appeared first in
+
+A. Aranyaka
+
+B. Samveda
+
+C. Yajurveda
+
+D. Atharvaveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Ayurveda** is linked as Upaveda with the **Atharvaveda**.
+
+</details>
+
+---
+
+**Q-GC48. UPPCS (Mains) 2014**
+
+Rig-vedic religion was
+
+A. Polytheistic
+
+B. Monotheistic
+
+C. Monistic
+
+D. Libertarian
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rigvedic religion is **polytheistic** nature-worship.
+
+</details>
+
+---
+
+**Q-GC49. UPPCS (Mains) 2002**
+
+The largest number of Rigvedic hymns are devoted to
+
+A. Agni
+
+B. Indra
+
+C. Rudra
+
+D. Vishnu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Indra** (~250 hymns) is the leading Rigvedic war / rain god (**Purandara**).
+
+</details>
+
+---
+
+**Q-GC50. BPSC (Pre) 1994**
+
+Gayatri Mantra is found in which book?
+
+A. Upanishad
+
+B. Bhagwadgita
+
+C. Rig Veda
+
+D. Yajurveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Gayatri** = Rigveda **III.62.10**, seer **Vishvamitra**, deity **Savitr**.
+
+</details>
+
+---
+
+**Q-GC51. UKPCS (Pre) 2006**
+
+Who composed the Gayatri Mantra?
+
+A. Vasishtha
+
+B. Vishwamitra
+
+C. Indra
+
+D. Parikshit
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Seer **Vishwamitra**.
+
+</details>
+
+---
+
+**Q-GC52. UPPCS (Pre) (Re. Exam) 2015**
+
+Sarga, Pratisarga, Vansa, Manvantara and Vanshanucharita are the indicators of
+
+A. Vedas
+
+B. Puranas
+
+C. Upanishads
+
+D. Sutras
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Those five marks define **Purana** content.
+
+</details>
+
+---
+
+**Q-GC53. UPPSC (GIC) 2010**
+
+The number of Puranas is
+
+A. 16
+
+B. 18
+
+C. 19
+
+D. 21
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** There are **18** Mahapuranas.
+
+</details>
+
+---
+
+**Q-GC54. IAS (Pre) 2024**
+
+Consider the following statements:
+
+1. There are no parables in Upanishads.
+2. Upanishads were composed earlier than the Puranas.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 is false (parables exist). Statement 2 is true.
+
+</details>
+
+---
+
+**Q-GC55. UPPCS (Pre) 2023**
+
+With reference to the Puranas, which statement is/are correct?
+
+(1) Information about the Mauryan dynasty is found in the Vishnu Purana.
+(2) Vayu Purana throws light on the Gupta's governance system.
+
+A. Only 1
+
+B. Neither 1 nor 2
+
+C. Only 2
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both booklet statements are treated as correct.
+
+</details>
+
+---
+
+**Q-GC56. UP RO/ARO (Pre) 2014**
+
+Originally the Mahabharata was known as
+
+A. Brihatkatha
+
+B. Brahmins
+
+C. Brihatsamhita
+
+D. Jayasamhita
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Early name **Jaya / Jayasamhita**; expanded form ~100,000 verses (*Shatasahasri*).
+
+</details>
+
+---
+
+**Q-GC57. UPPCS / IAS**
+
+From which Upanishad have the words “Satyameva Jayate” been taken?
+
+A. Mundakopanishad
+
+B. Kathopnishad
+
+C. Chhandogyopanishad
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Mundaka Upanishad** — national motto under the emblem (26 January 1950).
+
+</details>
+
+---
+
+**Q-GC58. CGPCS (Pre) 2016**
+
+The statement "Tamsoma Jyotirgamaya" was originally mentioned in
+
+A. Upanishadas
+
+B. Mahakavyas
+
+C. Puranas
+
+D. Shaddarshanas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** From the **Brihadaranyaka Upanishad**.
+
+</details>
+
+---
+
+**Q-GC59. MPPCS (Pre) 2025**
+
+In which Upanishad is the famous dialogue of Yagnavalkya and Gargi mentioned?
+
+A. Brihadaranyaka Upanishad
+
+B. Taittiriya Upanishad
+
+C. Aitareya Upanishad
+
+D. Prashnopanishad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Yajnavalkya–Gargi** = **Brihadaranyaka**.
+
+</details>
+
+---
+
+**Q-GC60. RAS/RTS (Pre) 2016**
+
+The legend of Satyakam Jabal, which challenges the stigma of being an unmarried mother, is mentioned in
+
+A. Jabal Upanishad
+
+B. Prashnophishad
+
+C. Chhandogya Upanishad
+
+D. Kathopanishad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Satyakama Jabala** = **Chandogya** IV.
+
+</details>
+
+---
+
+**Q-GC61. UP RO/ARO (Mains) 2013**
+
+In the Vedic rituals HOTA is associated with the
+
+A. Rig Veda
+
+B. Yajurveda
+
+C. Samaveda
+
+D. Atharvaveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Hotri / Hota** = Rigveda priest.
+
+</details>
+
+---
+
+**Q-GC62. UP Lower Sub (Spl) (Pre) 2004**
+
+There is a similarity in Avesta and the Rig Veda; Avesta is related to
+
+A. India
+
+B. Iran
+
+C. Israel
+
+D. Egypt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Avesta** = ancient **Iran** (Zoroastrian scripture; kinship with Rigvedic language).
+
+</details>
+
+---
+
+**Q-GC63. UPPCS (Pre) 2008**
+
+Which of the following animals was considered as “Aghanya” during the Vedic period
+
+A. Bull
+
+B. Sheep
+
+C. Cow
+
+D. Elephant
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Cow** = **aghanya** (not to be killed).
+
+</details>
+
+---
+
+**Q-GC64. IAS (Pre) 2017**
+
+With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which statements is/are correct?
+
+1. Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.
+2. Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.
+3. Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement 1 is accepted. Statement 2 is false (IVC had no iron). Statement 3 is false as framed (horse evidence at IVC is disputed, not a clean absence).
+
+</details>
+
+---
+
+**Q-GC65. UPPCS (Pre) (Re. Exam) 2015**
+
+In the early Rigvedic period, what was considered to be the most valuable property?
+
+A. Land
+
+B. Cow
+
+C. Women
+
+D. Water
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Cattle / cow** was the chief measure of wealth.
+
+</details>
+
+---
+
+**Q-GC66. IAS (Pre) 1996**
+
+In the context of ancient Indian society which one of the following terms does not belong to the category of the other three?
+
+A. Kula
+
+B. Vansha
+
+C. Kosa
+
+D. Gotra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kosha** = treasury; the others are kinship terms.
+
+</details>
+
+---
+
+**Q-GC67. MPPCS (Pre) 2015**
+
+What is the total number of Sanskaras?
+
+A. 10
+
+B. 12
+
+C. 15
+
+D. 16
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Traditional list has **sixteen** samskaras.
+
+</details>
+
+---
+
+**Q-GC68. UK UDA/LDA (Mains) 2007**
+
+The teacher who taught ‘Ved-Vedanga’ for livelihood, was called
+
+A. Acharya
+
+B. Adhvaryu
+
+C. Upadhyaya
+
+D. Purohita
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Upadhyaya** teaches a portion for livelihood.
+
+</details>
+
+---
+
+**Q-GC69. Ghatnachakra / standard**
+
+Which correctly pairs Rigvedic river names with modern rivers?
+
+A. Vipasa–Chenab; Asakini–Beas
+
+B. Parushni–Ravi; Vitasta–Jhelum; Shutudri–Sutlej
+
+C. Kubha–Sutlej; Krumu–Ravi
+
+D. Saraswati–Indus only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Parushni–Ravi; Vitasta–Jhelum; Shutudri–Sutlej (Vipasa–Beas; Asakini–Chenab).
+
+</details>
+
+---
+
+**Q-GC70. Ghatnachakra / standard**
+
+Karma-kanda and Jnana-kanda correctly mean
+
+A. Upanishads vs Samhitas only
+
+B. Samhita + Brahmana ritual vs Aranyaka + Upanishad philosophy
+
+C. Vedangas vs Puranas
+
+D. Smriti vs Shruti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Karma-kanda = Samhita + Brahmana; Jnana-kanda = Aranyaka + Upanishad.
+
+</details>
+
+---
+
+**Q-GC71. MPPCS (Pre) 2024**
+
+In which Veda are Sabha and Samiti declared as separate institutions?
+
+A. Rigveda
+
+B. Samaveda
+
+C. Atharvaveda
+
+D. Yajurveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Atharvaveda treats them most clearly as separate institutions (two daughters of Prajapati).
+
+</details>
+
+---
+
+**Q-GC72. UK UDA/LDA (Pre) 2007**
+
+In which language was the ‘Shrimad Bhagavad Gita’ originally written?
+
+A. Sanskrit
+
+B. Urdu
+
+C. Pali
+
+D. Hindi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The **Gita** was originally written in **Sanskrit**.
+
+</details>
 
 ## Practice Zone — UPPCS Format Drill
 

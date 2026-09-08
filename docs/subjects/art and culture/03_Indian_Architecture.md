@@ -8,7 +8,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I–III, ASI/UNESCO, Ghatnachakra architecture bank, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I–III, ASI/UNESCO, Ghatnachakra Architecture in Ancient India (B–153+), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — style ↔ monument ↔ dynasty ↔ place; Mughal tomb match; cave numbering; UP vs not-UP
 > **Last verified:** September 2026
 > **Current Affairs:** Sarnath UNESCO WHS **July 2026** (India **45th**; UP’s 4th cultural WHS); Maratha Military Landscapes **2025** (44th); Moidams Charaideo **2024** (43rd)
@@ -1004,6 +1004,1866 @@ D. Tin Darwaza – Ahmedabad
 <summary>Show answer</summary>
 
 **Ans: A** — Adina Masjid = Pandua, not Mandu.
+
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Architecture in Ancient India (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra Architecture in Ancient India (B–153+). Teaching lives in Topic 3 (Art & Culture) sections 3.1–3.12+. Year-coded UPPCS stems already banked above (2025 Buland Darwaza / tomb match; 2022 Sultan Garhi and Aryaka; 2020 Chola inscriptions; 2019 monument chronology / Markandeshwar; 2018 Sapt-pagoda chronology, Hathigumpha, Adina) are not repeated as identical UPPCS-bank entries.
+
+**Q-GC1. BPSC / MPPCS**
+
+The associates of Khajuraho Temple Architecture were –
+
+A. Chandela
+
+B. Gurjara-Pratihara
+
+C. Chahamana
+
+D. Paramara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Khajuraho temples are **Chandela** (Chhatarpur, MP; 10th–12th c.).
+
+</details>
+
+---
+**Q-GC2. UPPCS Pre 1991**
+
+The Temple of Kandariya Mahadev at Khajuraho was built by –
+
+A. Parmara
+
+B. Chedi
+
+C. Rashtrakuta
+
+D. Chandela
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Kandariya Mahadeva** is Chandela; often linked to **Vidyadhara**.
+
+</details>
+
+---
+**Q-GC3. MPPCS Pre 2005 / 2010**
+
+Which dynasty gave India its famous temples of Khajuraho?
+
+A. Parmar
+
+B. Mauryas
+
+C. Chandelas
+
+D. Holkars
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Chandelas**.
+
+</details>
+
+---
+**Q-GC4. MPPCS Pre 1999**
+
+The rulers of Chandela built–
+
+A. Sanchi
+
+B. Ujjain
+
+C. Gwalior
+
+D. Khajuraho
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Khajuraho**.
+
+</details>
+
+---
+**Q-GC5. UPPCS Pre 1993**
+
+The temples of Khajuraho are related to –
+
+A. Buddhist religion
+
+B. Hindu religion
+
+C. Hindu and Jain
+
+D. Jain religion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Groups are **Hindu and Jain** (~85 planned).
+
+</details>
+
+---
+**Q-GC6. MPPCS Mains 2014**
+
+The temples of Khajuraho were built by the rulers of which of the following dynasties?
+
+A. Baghel
+
+B. Parmar
+
+C. Chandel
+
+D. Bundela
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Chandel**.
+
+</details>
+
+---
+**Q-GC7. UPPSC GIC 2010**
+
+Matangesvara Temple at Khajuraho is dedicated to
+
+A. Vishnu
+
+B. Shiva
+
+C. Surya
+
+D. Parvati
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Matangeshvara** = **Shiva** (Dhanga’s age; Nagara).
+
+</details>
+
+---
+**Q-GC8. MPPCS Pre 2010**
+
+Which of the following temples is not located at Khajuraho?
+
+A. Kandariya Mahadev
+
+B. Chausath Yogini
+
+C. Dashavatara
+
+D. Chitragupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Dashavatara** is at **Deogarh** (Gupta), not Khajuraho.
+
+</details>
+
+---
+**Q-GC9. IAS Pre 2021**
+
+With reference to Chausath Yogini Temple situated near Morena, consider the following statements :
+1. It is a circular temple built during the reign of Kachchhapaghata Dynasty
+2. It is the only circular temple built in India.
+3. It was meant to promote the Vaishnava cult in the region.
+4. Its design has given rise to a popular belief that it was the inspiration behind the Indian Parliament building.
+Select the correct answer using the code given below.
+
+A. 1 and 2
+
+B. 2 and 3 only
+
+C. 1 and 4
+
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements **1 and 4** stand. Not the only circular temple; not a Vaishnava-promotion shrine.
+
+</details>
+
+---
+**Q-GC10. UP RO/ARO Mains 2017**
+
+Match List-I with List-II:
+A. Stupa  B. Painting  C. Headless statue of Kanishka  D. Dashavatara Temple
+1. Bagh  2. Sanchi  3. Deogarh  4. Mathura
+
+A. 1 2 3 4
+
+B. 2 1 4 3
+
+C. 4 3 2 1
+
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Stupa–Sanchi; Painting–Bagh; Kanishka headless–Mathura; Dashavatara–Deogarh.
+
+</details>
+
+---
+**Q-GC11. MPPCS Pre 2008**
+
+Which of the following is not a world heritage site –
+
+A. Khajuraho temples
+
+B. Bhimbetka rock shelters
+
+C. Sanchi stupa
+
+D. Mandu fort
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Mandu** is not UNESCO; Khajuraho, Bhimbetka, Sanchi are.
+
+</details>
+
+---
+**Q-GC12. RAS/RTS Pre 2018**
+
+Which of the following statements about Temple Architecture are true?
+(i) The freestanding (mortar & Stone) temples are supposed to have originated in the Gupta period.
+(ii) Ladkhan, which is one of the earliest temples belongs to Chalukya of Badami.
+(iii) In Khajuraho temples, all the compartments of the temple are connected internally and externally.
+(iv) Kailashnath temple at Kanchi is the earliest freestanding temple of Dravid style.
+
+A. (i), (iii) and (iv)
+
+B. (i) and (ii)
+
+C. (i), (ii) and (iv)
+
+D. (i), (ii) and (iii)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** (iv) is wrong — Kailasanatha Kanchi is Pallava Rajasimha, not the earliest freestanding Dravida.
+
+</details>
+
+---
+**Q-GC13. UP RO/ARO Pre 2016**
+
+The pinnacle of which of the following is built in Dravida style?
+
+A. Bhitargaon Temple
+
+B. Teli Temple of Gwalior
+
+C. Kandaria Mahadeo Temple
+
+D. Osiya Temple
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Teli ka Mandir** — Dravida-type shikhara with Nagara ornament.
+
+</details>
+
+---
+**Q-GC14. CGPCS Pre 2023**
+
+Which of the following temple is an example of Vesara style of architecture?
+
+A. Hoysaleshwara Temple
+
+B. Kandariya Mahadeva Temple
+
+C. Sri Rama Temple Ayodhya
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Hoysaleshwara** (Halebidu) is Vesara / Hoysala hybrid.
+
+</details>
+
+---
+**Q-GC15. UP Lower Sub Pre 2002**
+
+Which centre consists of more than 100 Buddha caves?
+
+A. Ajanta
+
+B. Karley
+
+C. Kanheri
+
+D. Rajgrih
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kanheri** = 100+ Buddhist caves (Mumbai fringe).
+
+</details>
+
+---
+**Q-GC16. UPPCS Pre 2010**
+
+Jain temple of Abu is made of –
+
+A. Sandstone
+
+B. Limestone
+
+C. Granite
+
+D. Marble
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Dilwara / Mount Abu Jain temples are famous for **marble** carving (Vimal Shah / Bhima I Solanki milieu).
+
+</details>
+
+---
+**Q-GC17. IAS Pre 2008**
+
+Palitana temple is located near –
+
+A. Bhavnagar
+
+B. Mount Abu
+
+C. Nasik
+
+D. Ujjain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Palitana** on Shatrunjaya near **Bhavnagar**, Gujarat.
+
+</details>
+
+---
+**Q-GC18. UP UDA/LDA / Lower**
+
+The Elephanta caves were mainly sculptured for which of the following devotees?
+
+A. Buddhist
+
+B. Jain
+
+C. Shaiva
+
+D. Vaishnava
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Main Hindu group is **Shaiva** (Trimurti); smaller Buddhist caves also exist.
+
+</details>
+
+---
+**Q-GC19. UPPCS Mains 2007**
+
+The ancient monuments of Elephanta are mostly
+1. Buddhist  2. Jain  3. Shaivite  4. Vaishnavite
+
+A. 1
+
+B. 2
+
+C. 3
+
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mainly **Shaivite**, with a smaller **Buddhist** group.
+
+</details>
+
+---
+**Q-GC20. Uttarakhand PCS / UPPCS Mains**
+
+Famous cave temples of Elephanta are ascribed to
+
+A. Chalukyas
+
+B. Cholas
+
+C. Pallavas
+
+D. Rashtrakutas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Standard coaching attribution = **Rashtrakutas**.
+
+</details>
+
+---
+**Q-GC21. MPPCS Pre 2021**
+
+To which period do the sites of Ellora and Elephanta belong?
+
+A. Pratihara
+
+B. Chalukyas
+
+C. Rashtrakuta
+
+D. Hoysalas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Rashtrakuta**-age framing for Ellora / Elephanta.
+
+</details>
+
+---
+**Q-GC22. UPPCS Mains 2011**
+
+Which of the following caves is famous for ‘Trimurti’?
+
+A. Ajanta
+
+B. Bhaja
+
+C. Elephanta
+
+D. Ellora
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Trimurti / Maheshamurti** at **Elephanta**.
+
+</details>
+
+---
+**Q-GC23. IAS Pre 2010**
+
+There are only two known examples of cave paintings of the Gupta period in ancient India. One of these is paintings of Ajanta caves. Where is the other surviving example of Gupta paintings?
+
+A. Bagh caves
+
+B. Elora caves
+
+C. Lomas Rishi caves
+
+D. Nasik caves
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Other Gupta-age mural cousin = **Bagh** (MP).
+
+</details>
+
+---
+**Q-GC24. IAS Pre 1993**
+
+The rock-cut caves in western India are located in –
+
+A. Nasik, Ellora and Ajanta
+
+B. Junar, Kalyan and Pitalkhora
+
+C. Ajanta, Bhaja and Kondane
+
+D. Bhaja, Pitalkhora and Kondane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Paper key = **Nasik, Ellora and Ajanta**.
+
+</details>
+
+---
+**Q-GC25. Uttarakhand PCS Mains 2006**
+
+Which of the following places is famous for Buddhist cave temples?
+
+A. Elephanta
+
+B. Nalanda
+
+C. Ajanta
+
+D. Khajuraho
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ajanta** = Buddhist cave temples.
+
+</details>
+
+---
+**Q-GC26. UPPSC GIC / UPPCS Pre**
+
+Ellora caves were built by –
+
+A. Pallavas
+
+B. Cholas
+
+C. Rashtrakutas
+
+D. Palas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Rashtrakutas** (esp. Hindu / Kailasa phase).
+
+</details>
+
+---
+**Q-GC27. IAS Pre 2013**
+
+With reference to the history of Indian rock-cut architecture, consider the following statements
+1. The caves at Badami are the oldest surviving rockcut caves in India,
+2. The Barabar rock-cut caves were originally made for Ajivikas by Emperor Chandragupta Maurya.
+3. At Ellora, caves were made for different faiths.
+Which of the statements given above is /are correct?
+
+A. Only 1
+
+B. 2 and 3
+
+C. Only 3
+
+D. All of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only **3** stands. Badami not oldest; Barabar Ajivika gift is **Ashoka**, not Chandragupta Maurya.
+
+</details>
+
+---
+**Q-GC28. UP Lower Sub Pre 2002**
+
+Ellora cave temples are related to–
+1. Hinduism  2. Buddhism  3. Jainism
+
+A. only 1
+
+B. only 2
+
+C. 1 and 2
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ellora = Buddhist **1–12**, Hindu **13–29**, Jain **30–34**.
+
+</details>
+
+---
+**Q-GC29. IAS Pre 1994 / UPPCS Pre 1998**
+
+The caves and rock-cut temples at Ellora represent only :
+
+A. Buddhists
+
+B. Buddhists and Jains
+
+C. Hindus and Jains
+
+D. Hindus, Buddhists, and Jains
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three faiths.
+
+</details>
+
+---
+**Q-GC30. UPPCS Mains 2002 / 2006**
+
+Buddhist, Hindu and Jain rock-cut caves coexist at –
+
+A. Ajanta
+
+B. Elephanta
+
+C. Ellora
+
+D. Karle
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Coexistence at **Ellora**.
+
+</details>
+
+---
+**Q-GC31. UPPCS Mains 2012**
+
+Which of the following temples is an example of rockcut architecture?
+
+A. Shore Temple, Mamallapuram.
+
+B. Rajarajeshwara Temple, Thanjavur.
+
+C. Kailasa Temple, Ellora.
+
+D. Jagannatha Temple, Puri.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kailasa** (Ellora 16) is rock-cut; others are structural.
+
+</details>
+
+---
+**Q-GC32. MPPCS Pre 2024**
+
+Among the cave temples, where is the famous Kailasa temple located?
+
+A. In the caves of Ajanta
+
+B. In the caves of Ellora
+
+C. In the caves of Elephanta
+
+D. In the caves of Kanheri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Ellora** Cave 16.
+
+</details>
+
+---
+**Q-GC33. UPPCS Mains 2007**
+
+Which of the following temples is considered as a wonder of rock-cut architecture ?
+
+A. Brihadeeswara Temple, Tanjavur
+
+B. Lingaraja Temple, Bhubaneshwar
+
+C. Kailasa Temple, Ellora
+
+D. Kandaria Mahadeva Temple, Khajuraho
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kailasa**, Ellora.
+
+</details>
+
+---
+**Q-GC34. UPPCS / MPPCS**
+
+Which dynasty constructed the Ellora Kailasa Temple?
+
+A. Rashtrakuta
+
+B. Satvahana
+
+C. Maurya
+
+D. Pallava
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Rashtrakuta**.
+
+</details>
+
+---
+**Q-GC35. Uttarakhand PCS Pre 2021**
+
+Which among the following Rashtrakuta ruler built the Kailas temple of Ellora?
+
+A. Govind-II
+
+B. Amoghavarsha
+
+C. Indra-III
+
+D. Krishna-I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Krishna I**.
+
+</details>
+
+---
+**Q-GC36. RAS/RTS Pre 1999**
+
+Which Rashtrakuta ruler built the famous Shiva temple of Ellora?
+
+A. Dantidurga
+
+B. Krishna- I
+
+C. Krishna- II
+
+D. Govind- III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Krishna I**.
+
+</details>
+
+---
+**Q-GC37. CGPCS Pre 2015**
+
+Kailasa temple of Ellora was constituted by
+
+A. Govind- III
+
+B. Krishna- I
+
+C. Krishna- II
+
+D. Krishna- III
+
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Krishna I**.
+
+</details>
+
+---
+**Q-GC38. UP UDA/LDA Pre 2010**
+
+Which religion had Rashtrakuta protection?
+
+A. Buddha
+
+B. Jain
+
+C. Shaiva
+
+D. Shakta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Coaching key stresses **Jain** lean (Amoghavarsha I / Jinasena), though they also patronised Shaiva–Vaishnava–Shakta.
+
+</details>
+
+---
+**Q-GC39. MPPCS Pre 1990**
+
+Caves of Ajanta and Ellora are located in–
+
+A. Nasik
+
+B. Mumbai
+
+C. Aurangabad
+
+D. Pune
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Aurangabad / Chhatrapati Sambhaji Nagar** district.
+
+</details>
+
+---
+**Q-GC40. UPPCS Pre 1993**
+
+The caves of Ajanta and Ellora are in -
+
+A. Andhra Pradesh
+
+B. Madhya Pradesh
+
+C. Maharashtra
+
+D. Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Maharashtra**.
+
+</details>
+
+---
+**Q-GC41. UPPCS Pre 2009**
+
+In which one of the following places, are the cave temples built by the Rashtrakutas in the Ellora mountains located?
+
+A. Aurangabad (Maharashtra)
+
+B. Nasik (Maharashtra)
+
+C. Gwalior (Madhya Pradesh)
+
+D. Golconda (Andhra Pradesh)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Aurangabad**.
+
+</details>
+
+---
+**Q-GC42. UPPCS Mains 2013**
+
+Match List – I with List – II:
+(Gupta Temple) — (Location)
+A. Brick-built Temple  B. Dasavatara Temple  C. Shiva Temple  D. Vishnu Temple
+1. Eran  2. Deogarh  3. Bhitargaon  4. Bhumara
+
+A. 4 2 1 3
+
+B. 3 2 4 1
+
+C. 2 1 3 4
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bhitargaon–brick; Deogarh–Dashavatara; Bhumara–Shiva; Eran–Vishnu.
+
+</details>
+
+---
+**Q-GC43. BPSC 68th / 70th**
+
+The temple of Deogarh near Jhansi and the sculptures in the temple at Garhwa near Allahabad are the important remains of the
+
+A. Maurya art
+
+B. Gupta art
+
+C. Rashtrakuta art
+
+D. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Gupta** art (Dashavatara Deogarh; Garhwa Prayagraj).
+
+</details>
+
+---
+**Q-GC44. UP RO/ARO Pre 2021**
+
+With reference to the temple of Bhitargaon, Kanpur, Uttar Pradesh, which of the following statements is/are correct?
+(1) This temple was constructed during 5th century A.D. to 6th century A.D.
+(2) It is one of the oldest brick temples of India.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both stand — Gupta-age **brick** temple, Nagara.
+
+</details>
+
+---
+**Q-GC45. Jharkhand PCS Pre 2013**
+
+The art of Ajanta was mainly patronized by the –
+
+A. Chalukyas
+
+B. Pallavas
+
+C. Vakatakas
+
+D. Gangas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Later Ajanta phase = **Vakataka** patronage.
+
+</details>
+
+---
+**Q-GC46. MPPCS Pre 2012**
+
+Ajanta caves are linked with –
+
+A. Ramayana
+
+B. Mahabharata
+
+C. Jataka stories
+
+D. Panchatantra stories
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Paintings heavily use **Jataka** cycles.
+
+</details>
+
+---
+**Q-GC47. IAS Pre 2021**
+
+Which one of the following statements is correct?
+
+A. Ajanta Caves lie in the gorge of Waghora river.
+
+B. Sanchi Stupa lies in the gorge of Chambal river.
+
+C. Pandu-lena Cave Shrines lie in the gorge of Narmada river.
+
+D. Amaravati Stupa lies in the gorge of Godavari river.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Ajanta in **Waghora** gorge. Others are wrong river matches.
+
+</details>
+
+---
+**Q-GC48. IAS Pre 2013**
+
+Consider the following historical places :
+1. Ajanta Caves
+2. Lepakshi Temple
+3. Sanchi Stupa
+Which of the above places is/are also known for mural paintings?
+
+A. Only 1
+
+B. Only 1 and 2
+
+C. 1, 2 and 3
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Murals at **Ajanta** and **Lepakshi**; not the classic Sanchi fact.
+
+</details>
+
+---
+**Q-GC49. IAS Pre 2016**
+
+What is/are common to the two historical places known as Ajanta and Mahabalipuram?
+1. Both were built in the same period.
+2. Both belong to the same religious denomination.
+3. Both have rock-cut monuments.
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 1 and 3 only
+
+D. None of the statements given above is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only **rock-cut** is common. Periods and religions differ.
+
+</details>
+
+---
+**Q-GC50. UPPCS Mains 2014**
+
+Match List-I with List-II:
+A. Hampi  B. Nagarjunakonda  C. Shishupalgarh  D. Arikamedu
+1. Puducherry  2. Karnataka  3. Andhra Pradesh  4. Odisha
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 1 3 2 4
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hampi–Karnataka; Nagarjunakonda–Andhra; Shishupalgarh–Odisha; Arikamedu–Puducherry.
+
+</details>
+
+---
+**Q-GC51. RAS / UPPCS**
+
+Who built the Konark Sun Temple?
+
+A. Narasimhadeva Varman
+
+B. Rajendra Chola
+
+C. Ashoka
+
+D. Krishnadev Rai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Eastern Ganga **Narasimhadeva I** (13th c.; Black Pagoda).
+
+</details>
+
+---
+**Q-GC52. UP Lower Sub Pre 2009**
+
+Which among these is known as ‘Black Pagoda’?
+
+A. Shore Temple
+
+B. Khajuraho Temple
+
+C. Konark Sun Temple
+
+D. Deogarh Temple
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Konark** = Black Pagoda.
+
+</details>
+
+---
+**Q-GC53. Uttarakhand PCS Pre 2010**
+
+Where is ‘Black Pagoda’?
+
+A. Madurai
+
+B. Konark
+
+C. Khajuraho
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Konark**.
+
+</details>
+
+---
+**Q-GC54. UPPCS Mains 2006**
+
+Which one of the following is a Sun temple ?
+
+A. Lingaraj temple
+
+B. Rajarani temple
+
+C. Konark temple
+
+D. Jagannath temple
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Konark**.
+
+</details>
+
+---
+**Q-GC55. CGPCS Pre 2011**
+
+The Sun Temple of Modhera lies in which state?
+
+A. Bihar
+
+B. Gujarat
+
+C. Odisha
+
+D. Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Modhera** = Gujarat (Bhima I Solanki).
+
+</details>
+
+---
+**Q-GC56. RAS/RTS Pre 1992**
+
+Which one of the following Sun Temples is located in Patan, Gujarat?
+
+A. Modhera
+
+B. Dakshinark
+
+C. Konark
+
+D. Martand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Modhera** (Patan district area).
+
+</details>
+
+---
+**Q-GC57. IAS Pre 2001 / UPPCS Spl**
+
+Lingaraj Temple is located at –
+
+A. Bhubaneswara
+
+B. Bijapur
+
+C. Kolkata
+
+D. Varanasi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Lingaraja**, Bhubaneswar (Nagara; ~180 ft).
+
+</details>
+
+---
+**Q-GC58. UPPSC GIC 2010**
+
+Which among the following is the largest and the tallest surviving temple in Orissa?
+
+A. Brahmesvara Temple
+
+B. Jagannath Temple
+
+C. Lingaraja Temple
+
+D. Rajarani Temple
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Lingaraja** tallest among the named set.
+
+</details>
+
+---
+**Q-GC59. MPPSC Pre 1995**
+
+Jagannath temple is located in state of –
+
+A. Bengal
+
+B. Orissa
+
+C. Kerala
+
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Odisha / Orissa** (Puri).
+
+</details>
+
+---
+**Q-GC60. UPPCS Pre 1997**
+
+The Temple of Bhubaneswara and Puri was built in:
+
+A. Nagara style
+
+B. Dravidian style
+
+C. Besara style
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Odisha temples = **Nagara**.
+
+</details>
+
+---
+**Q-GC61. CGPCS Pre 2019**
+
+The idols of Lord Jagannath, Subhadra and Balbhadra in sanctum sanctorum at Jagannath Puri Temple are made up of –
+
+A. Stone
+
+B. Metal
+
+C. Wood
+
+D. Glass
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Neem wood** (nabakalebara renewal).
+
+</details>
+
+---
+**Q-GC62. UPPCS Pre 1995 / 1992**
+
+Angkor Wat Vishnu Temple is located in :
+
+A. Java
+
+B. Sumatra
+
+C. Cambodia
+
+D. Champa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Angkor Wat**, Cambodia (Suryavarman II; Vishnu).
+
+</details>
+
+---
+**Q-GC63. CGPCS Pre 2011**
+
+In which country is the “Angkor-Wat Temple” complex located?
+
+A. Indonesia
+
+B. Myanmar
+
+C. Sri Lanka
+
+D. Kampuchea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Kampuchea / Cambodia**.
+
+</details>
+
+---
+**Q-GC64. UPPCS Pre 1993 / IAS Pre 2006**
+
+The initial design and construction of which massive temple took place during the reign of Suryavarman- II?
+
+A. Sri Mariamman Temple
+
+B. Angkor Wat Temple
+
+C. Batu Caves Temple
+
+D. Kamakhya Temple
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Angkor Wat**.
+
+</details>
+
+---
+**Q-GC65. UPPCS Mains 2013**
+
+Where is Borobudur Stupa situated ?
+
+A. Cambodia
+
+B. Java
+
+C. Sumatra
+
+D. Borneo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Borobudur** on **Java**, Indonesia.
+
+</details>
+
+---
+**Q-GC66. UPPCS Pre 1998**
+
+‘Gopuram’ the temples of Dravidian style stands for :
+
+A. Sanctuary
+
+B. Paintings on the walls
+
+C. Pinnacle
+
+D. Ornamental and multi-storied structures upon the gateways.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Gopuram** = ornate multi-storeyed **gateway** tower.
+
+</details>
+
+---
+**Q-GC67. UPPCS Pre 1994**
+
+Rock-cut temples of Mahabalipuram were built by :
+
+A. Pallavas
+
+B. Cholas
+
+C. Chalukyas
+
+D. Rashtrakutas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Pallavas**.
+
+</details>
+
+---
+**Q-GC68. UPPCS Mains 2014**
+
+The Rath temples at Mahabalipuram were built by
+
+A. Cholas
+
+B. Pallavas
+
+C. Chedis
+
+D. Chalukyas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Pallavas**.
+
+</details>
+
+---
+**Q-GC69. UPPCS Mains 2015**
+
+The Seven Ratha Temple of Mahabalipuram was built by –
+
+A. Mahendra Varman
+
+B. Narasimha Varman
+
+C. Parmeshwar Varman
+
+D. Nandi Varman
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Narasimhavarman I** (Mamalla).
+
+</details>
+
+---
+**Q-GC70. Uttarakhand UDA/LDA Mains 2007**
+
+Who constructed the Ratha Temples at Mahabalipuram?
+
+A. Narasingh Varman-I
+
+B. Samudragupta
+
+C. Harsha
+
+D. Pulakesin-II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Narasimhavarman I**.
+
+</details>
+
+---
+**Q-GC71. UPPCS Mains 2007**
+
+Who among the following was responsible for the creation of Ratha monuments at Mamallapuram?
+
+A. Cholas
+
+B. Pallavas
+
+C. Pandyas
+
+D. Chalukyas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Pallavas**.
+
+</details>
+
+---
+**Q-GC72. UPPCS Mains 2011**
+
+Which of the following Rath temples is the smallest?
+
+A. Draupadi Rath
+
+B. Bhima Rath
+
+C. Arjun Rath
+
+D. Dharmaraj Rath
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Draupadi ratha** is the smallest.
+
+</details>
+
+---
+**Q-GC73. MPPCS Pre 2025**
+
+In which style is the Kailasanathar Temple of Kanchi built?
+
+A. Rajsimha Style
+
+B. Mamalla Style
+
+C. Mahendra Style
+
+D. Nandivarman Style
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Rajasimha / Rajsimha** style (Narasimhavarman II).
+
+</details>
+
+---
+**Q-GC74. UP UDA/LDA Pre 2001**
+
+Match List - I with List - II:
+A. Elephanta  B. Shravanabelagola  C. Khajuraho  D. Sanchi
+1. Stupa  2. Temple  3. Cave  4. Statue
+
+A. 2 4 3 1
+
+B. 3 4 2 1
+
+C. 2 4 3 1
+
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Elephanta–Cave; Shravanabelagola–Statue; Khajuraho–Temple; Sanchi–Stupa.
+
+</details>
+
+---
+**Q-GC75. UP UDA/LDA Spl Pre 2010**
+
+Match List - I with List - II:
+A. Bhimbetka  B. Shore temple  C. Hampi  D. Manas
+1. Assam  2. Madhya Pradesh  3. Tamil Nadu  4. Karnataka
+
+A. 2 1 3 4
+
+B. 2 3 4 1
+
+C. 1 3 4 2
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bhimbetka–MP; Shore–TN; Hampi–Karnataka; Manas–Assam.
+
+</details>
+
+---
+**Q-GC76. IAS / UPPCS**
+
+Which of the following pairs is correctly matched?
+
+A. Ellora Caves - Sakas
+
+B. Meenakshi Temple - Pallavas
+
+C. Khajuraho Temple - Chandelas
+
+D. Mahabalipuram Temple- Rashtrakutas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only **Khajuraho–Chandelas** is correct.
+
+</details>
+
+---
+**Q-GC77. UPPCS Spl Pre 2004**
+
+Match List - I with List - II:
+A. Baidyanath Dham  B. Sarnath  C. Dilwara  D. Badrinath
+1. Jain Temple  2. Shiva Temple  3. First sermon place of Buddha  4. Vishnu Temple
+
+A. 2 3 1 4
+
+B. 1 2 3 4
+
+C. 1 4 2 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Baidyanath–Shiva; Sarnath–first sermon; Dilwara–Jain; Badrinath–Vishnu.
+
+</details>
+
+---
+**Q-GC78. IAS Pre 2023**
+
+Consider the following pairs :
+Site — Well known for
+1. Besnagar — Shaivite cave shrine
+2. Bhaja — Buddhist cave shrine
+3. Sittanavasal — Jain cave shrine
+How many of the above pairs are correctly matched?
+
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 1 wrong (Heliodorus / Bhagavata). **Bhaja** Buddhist and **Sittanavasal** Jain stand.
+
+</details>
+
+---
+**Q-GC79. UPPCS Pre 1992**
+
+Match the following:
+A. Sun Temple  B. Lingaraja Temple  C. Hawa Mahal  D. Statue of Gomateshwara
+1. Karnataka  2. Konark  3. Jaipur  4. Bhubaneswar
+
+A. 2 4 3 1
+
+B. 2 4 1 3
+
+C. 4 2 1 3
+
+D. 3 1 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Konark; Bhubaneswar; Jaipur; Karnataka (Shravanabelagola).
+
+</details>
+
+---
+**Q-GC80. IAS Pre 2017**
+
+Which of the following is/are famous for Sun temples?
+1. Arasavalli
+2. Amarakantak
+3. Omkareshwar
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only **Arasavalli** is the famous Sun temple among the three.
+
+</details>
+
+---
+**Q-GC81. Uttarakhand PCS Mains 2006**
+
+Match list-I and list-II :
+A. Nalanda  B. Sarnath  C. Sanchi  D. Konarka
+1. Ashoka Pillar  2. University  3. Sun Temple  4. Stupa
+
+A. 1 2 4 3
+
+B. 2 1 4 3
+
+C. 1 2 3 4
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Nalanda–University; Sarnath–Ashoka pillar; Sanchi–Stupa; Konark–Sun Temple.
+
+</details>
+
+---
+**Q-GC82. UPPCS Pre 2005**
+
+Sonagiri, the highest among 103 Jain temples, lies in the proximity of
+
+A. Datia
+
+B. Jhansi
+
+C. Orchha
+
+D. Lalitpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Sonagiri** near **Datia** (MP); main shrine Chandraprabhu.
+
+</details>
+
+---
+**Q-GC83. UPPCS Pre 1996**
+
+The historical Digambar Jain temple of Sonagiri is in–
+
+A. Uttar Pradesh
+
+B. Rajasthan
+
+C. Madhya Pradesh
+
+D. Odisha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Madhya Pradesh**.
+
+</details>
+
+---
+**Q-GC84. UPPSC GIC 2010**
+
+Dilwara Jain temple is situated at –
+
+A. Palitana
+
+B. Mount Abu
+
+C. Sonagiri
+
+D. Girnar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mount Abu**.
+
+</details>
+
+---
+**Q-GC85. IAS Pre 2009**
+
+Where is the famous Virupaksha temple located?
+
+A. Bhadrachalam
+
+B. Chidambaram
+
+C. Hampi
+
+D. Srikalahasti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Living **Virupaksha** at **Hampi** (do not confuse with Pattadakal).
+
+</details>
+
+---
+**Q-GC86. IAS Pre 2012 / 1995**
+
+The Nagara, the Dravida and the Vesara are :
+
+A. The three main racial groups of the Indian subcontinent.
+
+B. The three main linguistic divisions into which the languages of India can be classified.
+
+C. The three main styles of Indian temple architecture.
+
+D. The three main musical gharanas were prevalent in India.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Three main **temple architecture** styles.
+
+</details>
+
+---
+**Q-GC87. IAS Pre 2014**
+
+With reference to the cultural history of India, the term 'Panchayatan' refers to –
+
+A. An assembly of village elders
+
+B. A religious sect
+
+C. A style of temple construction
+
+D. An administrative functionary
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Panchayatana** = central shrine + four corner shrines.
+
+</details>
+
+---
+**Q-GC88. UPPCS Pre 2002**
+
+Naimisharanya, a famous pilgrimage is located in which of the following districts?
+
+A. Ujjain
+
+B. Mathura
+
+C. Sitapur
+
+D. Jabalpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Naimisharanya** = **Sitapur**, UP.
+
+</details>
+
+---
+**Q-GC89. IAS Pre 2014**
+
+With reference to the Indian history of art and culture, consider the following pairs :
+1. A grand image of Buddha’s Mahaparinirvana … — Ajanta
+2. A huge image of Varaha Avatar … — Mount Abu
+3. ‘Arjuna’s Penance’’ / Descent of Ganga’’ — Mamallapuram
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pair 2 wrong — Varaha panel is **Udayagiri (Vidisha)**, not Mount Abu.
+
+</details>
+
+---
+**Q-GC90. IAS Pre 2015**
+
+With reference to the art and archaeological history of India, which one among the following was made earliest?
+
+A. Lingaraja Temple at Bhubaneswar
+
+B. Rock-cut Elephant at Dhauli
+
+C. Rock-cut Monuments at Mahabalipuram
+
+D. Varaha Image at Udayagiri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ashokan **Dhauli** elephant (3rd c. BCE) is earliest among the four.
 
 </details>
 

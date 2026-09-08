@@ -8,7 +8,7 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 
 </details>
 
-> **Sources baked in:** NCERT Themes I–III, Sahitya Akademi / 8th Schedule, PIB classical-language notes, Ghatnachakra Ancient Literature and Litterateur, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Themes I–III, Sahitya Akademi / 8th Schedule, PIB classical-language notes, Ghatnachakra Ancient Literature and Litterateur (B–179+), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — work ↔ author, Vedic layer, 18 Puranas, 8th Schedule, classical languages **11**
 > **Last verified:** September 2026
 > **Current Affairs:** Classical languages **11** after **3 Oct 2024** (Marathi, Pali, Prakrit, Assamese, Bengali added). Nepal–India Sanskrit Conclave **Mar 2024, Kathmandu**.
@@ -860,6 +860,1699 @@ D. Kathak
 <summary>Show answer</summary>
 
 **Ans: A — Vajasaneyi / Vajasanami.** Others are Krishna Yajurveda.
+
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Ancient Literature and Litterateur (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra Ancient Literature and Litterateur (B–179+). Teaching lives in Topic 8 sections 8.1+. Year-coded UPPCS stems already banked above (2025 Babur Turki / Kalidasa NOT / writer match / Eighth Schedule; 2024 Sanskrit Conclave; 2023 Puranas / Firoz translations; 2022 Tutinama / Kavindra Acharya; 2019 CIIL Mysore; 2018 Vajasaneyi) are not repeated as identical UPPCS-bank entries.
+
+**Q-GC1. RAS/RTS Pre 1994**
+
+The title ‘Father of History’ rightly belongs to :
+
+A. Herodotus
+
+B. Euripides
+
+C. Thucydides
+
+D. Socrates
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Greek **Herodotus**; *Histories / Historica* on Indo–Persian relations (5th c. BCE).
+
+</details>
+
+---
+**Q-GC2. UP RO/ARO Mains 2017**
+
+Match List I with List II:
+A Ashtadhyayi  B Mahabhashya  C Nirukta  D Varttika
+1. Yaska  2. Katyayan  3. Patanjali  4. Panini
+
+A. 4 3 1 2
+
+B. 2 3 1 4
+
+C. 1 2 3 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Panini–Ashtadhyayi; Patanjali–Mahabhashya; Yaska–Nirukta; Katyayana–Varttika.
+
+</details>
+
+---
+**Q-GC3. BPSC / UPPCS Pre 1992**
+
+Who of the following was the writer of Mudrarakshasa ?
+
+A. Aswaghosha
+
+B. Vishakhadatta
+
+C. Kalidasa
+
+D. Bhasa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vishakhadatta** (Gupta-age drama; Maurya–Nanda plot).
+
+</details>
+
+---
+**Q-GC4. MPPCS Pre 2021**
+
+Who was the author of Mudrarakshasa?
+
+A. Hemchandra
+
+B. Ballal
+
+C. Vishakhadatta
+
+D. Padmagupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Vishakhadatta**.
+
+</details>
+
+---
+**Q-GC5. UPPCS Mains 2009**
+
+Which of the following classical works of literature were written during the Gupta Era ?
+1. Amarakosh  2. Kamasutra  3. Meghaduta  4. Mudrarakshasa
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four belong to the Gupta classical set.
+
+</details>
+
+---
+**Q-GC6. UPPCS Mains 2005**
+
+Daskumarcharitam was composed by –
+
+A. Surdas
+
+B. Dandin
+
+C. Tulsidas
+
+D. Kalidas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dandin / Dandi** — *Dashakumaracharita*.
+
+</details>
+
+---
+**Q-GC7. UP Lower Spl Pre 2008**
+
+Who wrote Daskumarcharitam?
+
+A. Bharavi
+
+B. Bilhana
+
+C. Dandin
+
+D. Soma deva
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Dandin**.
+
+</details>
+
+---
+**Q-GC8. BPSC 45th Pre 2001**
+
+‘Kumarasambhava,’ an epic poem was composed by –
+
+A. Banabhatta
+
+B. Chanda Bardai
+
+C. Harishena
+
+D. Kalidasa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Kalidasa**.
+
+</details>
+
+---
+**Q-GC9. MPPCS Pre 2005**
+
+Which of the following dramas was not written by Kalidasa?
+
+A. Malavikagnimitram
+
+B. Abhigyan Shakuntalam
+
+C. Kumarsambhavam
+
+D. Janaki haranam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** ***Janakiharanam*** = **Kumaradasa**, not Kalidasa. (*Kumarasambhava* is kavya, not drama — paper still keys D.)
+
+</details>
+
+---
+**Q-GC10. MPPCS Pre 2017**
+
+Which one of the following books is not written by Kalidasa?
+
+A. Meghadutam
+
+B. Kumarasambhavam
+
+C. Uttararamacharitam
+
+D. Ritusamharam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** ***Uttararamacharita*** = **Bhavabhuti**.
+
+</details>
+
+---
+**Q-GC11. UP BEO Pre 2019**
+
+'Bible Book' of North Indian classical music is related to
+
+A. Natyashastra
+
+B. Sursagar
+
+C. Nad-Vinad
+
+D. Sufinama
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ***Natyashastra*** of **Bharata Muni**.
+
+</details>
+
+---
+**Q-GC12. UPPCS Pre 1992**
+
+Match the following:-
+A. Panini  B. Vatsyayana  C. Chanakya  D. Kalhana
+(1) Kamasutra  (2) Rajatarangini  (3) Ashtadhyayi  (4) Arthashastra
+
+A. 3 1 4 2
+
+B. 4 1 2 3
+
+C. 2 3 1 4
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Panini–Ashtadhyayi; Vatsyayana–Kamasutra; Chanakya–Arthashastra; Kalhana–Rajatarangini.
+
+</details>
+
+---
+**Q-GC13. BPSC 53–55 Pre 2011**
+
+What is the name of Kalhana’s book?
+
+A. Arthashastra
+
+B. Indica
+
+C. Purana
+
+D. Rajatarangini
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** ***Rajatarangini***.
+
+</details>
+
+---
+**Q-GC14. MPPCS Pre 2012**
+
+‘Rajatarangini’ written by Kalhana is associated with which of the following ?
+
+A. Chandragupta’s reign
+
+B. Anthology of lyrics
+
+C. History of Kashmir
+
+D. Reign of Krishna Deva Raya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** History of **Kashmir** kings.
+
+</details>
+
+---
+**Q-GC15. Jharkhand / UPPSC GIC**
+
+‘Ashtadhyayi’ was written by –
+
+A. Vedavyas
+
+B. Panini
+
+C. Shukadeva
+
+D. Valmiki
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Panini**.
+
+</details>
+
+---
+**Q-GC16. Jharkhand PCS Pre 2021**
+
+A historical work "Gaudavaho" like Kalhana's "Rajatarangini" was written by :
+
+A. Sandhyakaranandin
+
+B. Vakpati
+
+C. Banabhatta
+
+D. Bilhana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vakpati** (Yasovarman of Kannauj).
+
+</details>
+
+---
+**Q-GC17. UPPCS Mains 2006**
+
+Match List-I with List-II:
+A. Bharavi  B. Harsha  C. Kalidasa  D. Rajasekhara
+1. Karpurmanjari  2. Kiratarjuniyam  3. Malavikagnimitram  4. Nagananda
+
+A. 1 2 3 4
+
+B. 3 4 2 1
+
+C. 2 1 4 3
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Bharavi–Kiratarjuniya; Harsha–Nagananda; Kalidasa–Malavikagnimitram; Rajasekhara–Karpuramanjari.
+
+</details>
+
+---
+**Q-GC18. BPSC 67th Pre 2022**
+
+Who wrote the book, Kiratarjuniya?
+
+A. Bhatti
+
+B. Shudraka
+
+C. Kalidasa
+
+D. Bharavi
+
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Bharavi** — Arjuna vs Shiva as kirata.
+
+</details>
+
+---
+**Q-GC19. RAS/RTS Pre 2016**
+
+Which of the following Sanskrit works has taken up their theme from the Mahabharata?
+(i) Naishdhiyacharita  (ii) Kiratarjuniyam  (iii) Sisupalavadha  (iv) Dasakumaracharita
+
+A. (ii) and (iii)
+
+B. (ii), (iii) and (iv)
+
+C. (i) and (iii)
+
+D. (i), (ii) and (iii)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** First three are Mahabharata-theme; *Dashakumaracharita* is not.
+
+</details>
+
+---
+**Q-GC20. IAS Pre 1996**
+
+Match List- I with List- II:
+A. Vishakhadatta  B. Varahamihira  C. Charaka  D. Brahmagupta
+1. Medicine  2. Drama  3. Astronomy  4. Mathematics
+
+A. 1 3 4 2
+
+B. 2 1 3 4
+
+C. 2 3 1 4
+
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Drama; Astronomy; Medicine; Mathematics.
+
+</details>
+
+---
+**Q-GC21. BPSC 69th Pre 2023**
+
+Match List-I with List-II :
+A. Charaka  B. Brahmagupta  C. Varahamihira  D. Vishakhadatta
+1. Mathematics  2. Medicine  3. Playwright  4. Astrology
+
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 3 2 4 1
+
+D. 1 4 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Medicine; Mathematics; Astrology; Playwright.
+
+</details>
+
+---
+**Q-GC22. MPPCS Pre 1993**
+
+Charaka Samhita is related to which of the following subjects?
+
+A. Arthashastra
+
+B. Politics
+
+C. Medicine
+
+D. Religion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ayurveda / medicine**.
+
+</details>
+
+---
+**Q-GC23. UPPCS Pre 2023**
+
+Charak Samhita is divided into how many chapters and sections?
+
+A. 60 chapters and 8 sections
+
+B. 120 chapters and 8 sections
+
+C. 100 chapters and 5 sections
+
+D. 80 chapters and 7 sections
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **120** chapters in **eight** sections.
+
+</details>
+
+---
+**Q-GC24. CGPCS Pre 2022**
+
+Which of the following is not written by Varahamihira?
+
+A. Panchasiddhantika
+
+B. Brihat Samhita
+
+C. Brihat Jataka
+
+D. Amarkosha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** ***Amarakosha*** = **Amarasimha**.
+
+</details>
+
+---
+**Q-GC25. UPPSC RI 2014**
+
+The Panchasiddhantika of Varahamihira is based upon –
+
+A. Persian astronomy
+
+B. Greek astronomy
+
+C. Iranian astronomy
+
+D. Mesopotamian astronomy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Based on **Greek** astronomy.
+
+</details>
+
+---
+**Q-GC26. BPSC 69th Pre 2023**
+
+Nitisara, an early book of politics, was written by
+
+A. Kautilya
+
+B. Kamandaka
+
+C. Charaka
+
+D. None of them
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kamandaka**.
+
+</details>
+
+---
+**Q-GC27. UPPCS Mains 2006**
+
+Which one of the following is not correctly matched?
+
+A. Kalidasa - Raghuvansa
+
+B. Bhasa - Svapna Vasavadattam
+
+C. Subandhu - Kadambari
+
+D. Harsha - Ratnavali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** ***Kadambari*** = **Banabhatta**, not Subandhu.
+
+</details>
+
+---
+**Q-GC28. UPPCS Pre 1996**
+
+‘Milindapanha’ is a –
+
+A. Sanskrit drama
+
+B. Jain chronicle
+
+C. Pali text
+
+D. Persian epic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Buddhist **Pali** dialogue text.
+
+</details>
+
+---
+**Q-GC29. Uttarakhand PCS Pre 2012**
+
+Buddhist text ‘Milindapanha’ throws light on which Indo-Greek ruler?
+
+A. Diodorus -II
+
+B. Demetrius
+
+C. Menander
+
+D. Strato- I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Menander / Milinda**.
+
+</details>
+
+---
+**Q-GC30. IAS Pre 1997**
+
+Milindapanha is in the form of a dialogue between king Menander and Buddhist monk :
+
+A. Nagarjuna
+
+B. Nagabhatta
+
+C. Nagasena
+
+D. Kumarilabhatta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Nagasena**.
+
+</details>
+
+---
+**Q-GC31. UPPCS Pre 2023**
+
+'Milindpanha' is in the form of a dialogue between King Milind and Buddhist Saint. The concerned saint was –
+
+A. Nagarjun
+
+B. Nagasena
+
+C. Kumaril Bhatt
+
+D. Nagbhatt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Nagasena**.
+
+</details>
+
+---
+**Q-GC32. Uttarakhand PCS Pre 2024**
+
+Milindapanha is based on the questions of King Milinda. In which language was it written?
+
+A. Sanskrit
+
+B. Hindi
+
+C. Pali
+
+D. Arabic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Pali**.
+
+</details>
+
+---
+**Q-GC33. Uttarakhand PCS Pre 2021**
+
+The religious text which explains about the eight different phases of agricultural works :
+
+A. Avadanashataka
+
+B. Aryamanjushrimulakalpa
+
+C. Milindapanha
+
+D. Deepavansa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Coaching key = ***Milindapanha***.
+
+</details>
+
+---
+**Q-GC34. IAS Pre 2022**
+
+With reference to Indian history, consider the following texts.
+1. Nettipakarana
+2. Parishishtaparvan
+3. Avadanashataka
+4. Trishashtilakshana Mahapurana
+Which of the above are Jaina texts?
+
+A. 1, 2 and 3
+
+B. 2 and 4 only
+
+C. 1, 3 and 4
+
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Jain = **Parishishtaparvan** and **Trishashtilakshana Mahapurana**. 1 and 3 are Buddhist.
+
+</details>
+
+---
+**Q-GC35. UP UDA/LDA Pre 2002**
+
+Match List- I with List- II:
+A. Amir Khusrau  B. Kalidasa  C. Harisena  D. Banabhatta
+1. Chandra Gupta II  2. Samudra Gupta  3. Harshavardhana  4. Allauddin Khalji
+
+A. 1 2 3 4
+
+B. 4 1 2 3
+
+C. 4 3 2 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Khusrau–Alauddin; Kalidasa–CG II; Harisena–Samudragupta; Banabhatta–Harsha.
+
+</details>
+
+---
+**Q-GC36. UPPSC GIC 2010**
+
+The contemporary ruler of Kalhana, the author of Rajatarangini was –
+
+A. Jai Singh
+
+B. Harsha
+
+C. Govindchandra
+
+D. Jayachandra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kashmir **Jayasimha / Jai Singh (1128–1149)**.
+
+</details>
+
+---
+**Q-GC37. UPPCS Mains 2015**
+
+How many Tarangas are in Rajatarangini of Kalhana?
+
+A. Eight
+
+B. Nine
+
+C. Ten
+
+D. Eleven
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Eight** tarangas.
+
+</details>
+
+---
+**Q-GC38. UPPCS Pre 2000**
+
+Who among the following continued the Rajatarangini of Kalhana:
+
+A. Bilhana and Merutunga
+
+B. Bilhana and Mammata
+
+C. Jonaraja and Merutunga
+
+D. Jonaraja and Srivara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Continuators **Jonaraja** and **Srivara**.
+
+</details>
+
+---
+**Q-GC39. MPPCS Pre 1991**
+
+Saundarananda was the composition of:
+
+A. Ashvaghosha
+
+B. Banabhatta
+
+C. Bhavbhuti
+
+D. Bhaas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Ashvaghosha**.
+
+</details>
+
+---
+**Q-GC40. RAS/RTS Pre 1999**
+
+“Nagananda”, ‘Ratnavali’ and ‘Priyadarshika’ were written by:
+
+A. Bana Bhatta
+
+B. Vishakha Datta
+
+C. Vatsyayan
+
+D. Harshavardhana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Harsha**’s three plays.
+
+</details>
+
+---
+**Q-GC41. UP RO/ARO Pre 2014**
+
+Which of the following works were authored by Harsha?
+1. Priyadarshika  2. Nagananda  3. Harshacharita  4. Ratnavali
+
+A. 1, 2, 3 and 4
+
+B. 1, 2 and 4
+
+C. 1, 2 and 3
+
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** *Harshacharita* is **Banabhatta**; the three plays are Harsha’s.
+
+</details>
+
+---
+**Q-GC42. Uttarakhand PCS Pre 2021**
+
+Which among the following plays was written by Harshavardhan?
+
+A. Harshacharita
+
+B. Kadambari
+
+C. Devichandraguptam
+
+D. Priyadarshika
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** ***Priyadarshika*** (Harsha).
+
+</details>
+
+---
+**Q-GC43. IAS Pre 1993**
+
+Among the four works mentioned below which one is encyclopedic in nature?
+
+A. Amarakosha
+
+B. Siddhantasiromani
+
+C. Brihat Samhita
+
+D. Ashtangahridayam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** ***Brihatsamhita*** of Varahamihira.
+
+</details>
+
+---
+**Q-GC44. IAS Pre 2021**
+
+With reference to the history of ancient India, Bhavabhuti, Hastimalla and Kshemeshvara were famous
+
+A. Jain monks
+
+B. Playwrights
+
+C. Temple architects
+
+D. Philosophers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Playwrights / poets**.
+
+</details>
+
+---
+**Q-GC45. IAS Pre 1998**
+
+Which of the following pairs are correctly matched?
+1. Mrichchhakatikam - Sudraka
+2. Buddhacharita - Vasuvandhu
+3. Mudrarakshasa - Vishakhadatta
+4. Harshacharita - Banabhatta
+
+A. 1, 2, 3 and 4
+
+B. 1, 3 and 4
+
+C. 1 and 4
+
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 2 wrong — *Buddhacharita* = **Ashvaghosha**.
+
+</details>
+
+---
+**Q-GC46. IAS Pre 2020**
+
+With reference to the scholars/litterateurs of ancient India, consider the following statements:
+(1) Panini is associated with Pushyamitra Shunga.
+(2) Amarasimha is Gupta associated with Harshavardhana
+(3) Kalidasa is associated with Chandra Gupta-II
+Which of the above statements are right
+
+A. Only 1 and 2
+
+B. Only 2 and 3
+
+C. Only 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only **3** stands. Panini is earlier; Amarasimha is Gupta Navaratna, not Harsha’s court.
+
+</details>
+
+---
+**Q-GC47. IAS Pre 1997**
+
+Match List- I with List- II:
+A. Varahamihira  B. Vishakhadatta  C. Sudraka  D. Bilhana
+1. Prabandha Chintamani  2. Mrichchha-Katikam  3. Brihat-Samhita  4. Devi-Chandraguptam  5. Vikramankadevacharita
+
+A. 3 4 5 2
+
+B. 3 4 2 5
+
+C. 5 3 4 1
+
+D. 1 3 5 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Brihatsamhita; Devichandraguptam; Mrichchhakatika; Vikramankadevacharita.
+
+</details>
+
+---
+**Q-GC48. IAS Pre 2023**
+
+With reference to ancient Indian history, consider the following pairs :
+1. Devichandragupta — Bihana
+2. Hammira Mahakavya — Nayachandra Suri
+3. Milinda-panha — Nagarjuna
+4. Nitivakyamrita — Somadeva Suri
+How many of the above pairs are correctly matched?
+
+A. Only one
+
+B. Only two
+
+C. Only three
+
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Correct: **2** and **4**. Devichandragupta = Vishakhadatta; Milindapanha monk = Nagasena.
+
+</details>
+
+---
+**Q-GC49. MPPCS Pre 2019**
+
+Which among the following sources throw light on the history of Parmar Dynasty?
+
+A. Navsahsank Charit of Padmagupta
+
+B. Prabandha Chintamani of Merutunga
+
+C. Udaipur Prashasti
+
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **All of the above**.
+
+</details>
+
+---
+**Q-GC50. UPPCS Pre 2012**
+
+Which of the following pairs is not correctly matched?
+
+A. Karpurmanjari - Harsha
+
+B. Malavikagnimitram - Kalidasa
+
+C. Mudrarakshasa - Vishakhadatta
+
+D. Saundarananda - Asvaghosha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** *Karpuramanjari* = **Rajasekhara**, not Harsha.
+
+</details>
+
+---
+**Q-GC51. MPPCS Pre 2000**
+
+Who wrote ‘Shakuntalam’?
+
+A. Bana Bhatt
+
+B. Ved Vyasa
+
+C. Kalidasa
+
+D. Bhavabhuti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kalidasa** — *Abhijnanashakuntalam*.
+
+</details>
+
+---
+**Q-GC52. CGPCS Pre 2005**
+
+Which of the following is not a literary masterpiece of Kalidasa?
+
+A. Mrichchhakatikam
+
+B. Meghduta
+
+C. Ritu Sangharm
+
+D. Vikramorvasiyam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ***Mrichchhakatika*** = **Shudraka**.
+
+</details>
+
+---
+**Q-GC53. UPPCS Pre 1998**
+
+The protagonist of the play ‘Malvikagnimitram’, written by Kalidasa, is –
+
+A. Pushyamitra Shunga
+
+B. Gautamiputra Satakarni
+
+C. Agnimitra
+
+D. Chandragupta- II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Agnimitra** (Shunga).
+
+</details>
+
+---
+**Q-GC54. IAS Pre 2016**
+
+Which one of the following books of ancient India has the love story of the son of the founder of Sunga dynasty?
+
+A. Swapnavasavadatta
+
+B. Malavikagnimitra
+
+C. Meghadoota
+
+D. Ratnavali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** ***Malavikagnimitram*** — Agnimitra, son of Pushyamitra.
+
+</details>
+
+---
+**Q-GC55. BPSC 43rd Pre 1999**
+
+The author of ‘Swapnavasavadatta’ is
+
+A. Kalidasa
+
+B. Bhasa
+
+C. Bhavabhuti
+
+D. Rajshekhara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bhasa**.
+
+</details>
+
+---
+**Q-GC56. IAS Pre 2024**
+
+Which one of the following is a work attributed to playwright Bhasa?
+
+A. Kavyalankara
+
+B. Natyashastra
+
+C. Madhyama-vyayoga
+
+D. Mahabhashya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** ***Madhyama-vyayoga*** = **Bhasa**.
+
+</details>
+
+---
+**Q-GC57. MPPCS / Uttarakhand**
+
+Who is the author of ‘Geet Govind’ ?
+
+A. Jayadeva
+
+B. Surdasa
+
+C. Kesava
+
+D. Mira
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Jayadeva** (Lakshmana Sena’s Bengal court).
+
+</details>
+
+---
+**Q-GC58. UPPCS Pre 1999**
+
+Whose court was embellished by ‘Jaydev,’ composer of Geet Govind?
+
+A. Dharmapala
+
+B. Devpala
+
+C. Vijayasen
+
+D. Lakshmana Sen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Lakshmana Sena**.
+
+</details>
+
+---
+**Q-GC59. UPPCS Pre 2010**
+
+Who had composed the ‘Gita Govinda’?
+
+A. Dhoyin
+
+B. Govardhanacharya
+
+C. Jayadeva
+
+D. Lakshmana Sena
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Jayadeva**.
+
+</details>
+
+---
+**Q-GC60. UP Lower Sub Pre 2002**
+
+Match the List- I with List - II:
+A. Ashtanga - Samgraha  B. Das rupaka  C. Lilavati  D. Mahabhasya
+1. Play  2. Grammar  3. Maths  4. Medical
+
+A. 3 2 1 4
+
+B. 4 1 3 2
+
+C. 2 3 4 1
+
+D. 1 4 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Medical; Play; Maths; Grammar.
+
+</details>
+
+---
+**Q-GC61. UPPCS Pre 1992**
+
+Thy right is to work only, but never with its fruits. This is stated in which of the following books?
+
+A. Astadhyayi
+
+B. Mahabhasya
+
+C. Geeta
+
+D. Mahabharata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** ***Bhagavad Gita***.
+
+</details>
+
+---
+**Q-GC62. UPPCS Pre 1992**
+
+In which epic it was told, “what is here is also found elsewhere, but if not here is found nowhere else –
+
+A. Ramayana
+
+B. Mahabharata
+
+C. Geeta
+
+D. Rajtarangini
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** ***Mahabharata***.
+
+</details>
+
+---
+**Q-GC63. Uttarakhand / RAS**
+
+Which ancient Indian book has been translated into 15 (fifteen) Indian and 40 (forty) foreign languages?
+
+A. Hitopadesha
+
+B. Panchatantra
+
+C. Katha Saritsagar
+
+D. Shakuntala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** ***Panchatantra*** (Vishnu Sharma; Abul Fazl *Ayar-e-Danish*).
+
+</details>
+
+---
+**Q-GC64. MPPCS Pre 2013**
+
+‘Panchatantra’ was originally written by –
+
+A. Kalidasa
+
+B. Vishnu Sharma
+
+C. Tulsidas
+
+D. Raidas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vishnu Sharma**.
+
+</details>
+
+---
+**Q-GC65. UP Lower / UPPCS Spl**
+
+Match the List- I with List- II:
+A. Sarvavarma  B. Sudraka  C. Vigyaneshwara  D. Kalhana
+1. Mitakshara  2. Rajtarangini  3. Mrichchhakatikam  4. Katantra
+
+A. 3 4 2 1
+
+B. 4 3 1 2
+
+C. 2 1 4 3
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Katantra; Mrichchhakatika; Mitakshara; Rajatarangini.
+
+</details>
+
+---
+**Q-GC66. UPPCS Pre 2024**
+
+Match List-I with List-II:
+A. Devana Bhatta  B. Hemadri  C. Madhvacharya  D. Ballal Sena
+1. Daan Sagar  2. Parashar Madhav  3. Chaturvarga Chintamani  4. Smriti Chandrika
+
+A. 2 4 1 3
+
+B. 1 4 2 3
+
+C. 3 2 1 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Smriti Chandrika; Chaturvarga Chintamani; Parashar Madhav; Daan Sagar.
+
+</details>
+
+---
+**Q-GC67. IAS Pre 2021**
+
+With reference to the history of ancient India, which of the following statements is/are correct?
+1. Mitakshara was the civil law for upper castes and Dayabhaga was the civil law for lower castes.
+2. In the Mitakshara system, the sons can claim right to the property during the lifetime of the father, whereas in the Dayabhaga system, it is only after the death of the father that the sons can claim right to the property.
+3. The Mitakshara system deals with the matters related to the property held by male members only of a family, whereas the Dayabhaga system deals with the matters related to the property held by both male and female members of a family.
+
+A. 1 and 2
+
+B. 2 only
+
+C. 1 and 3
+
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only statement **2** is correct.
+
+</details>
+
+---
+**Q-GC68. UPPCS / Lower 2002**
+
+Who of the following is especially known for his contribution in the field of Algebra?
+
+A. Aryabhatta
+
+B. Brahmagupta
+
+C. Bhaskar
+
+D. Lall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Bhaskara II** (*Bijaganita* in *Siddhantashiromani*).
+
+</details>
+
+---
+**Q-GC69. Uttarakhand PCS Pre 2021**
+
+The author of 'Lilavati', Bhaskar-II was :
+
+A. Physician
+
+B. Mathematician
+
+C. Musician
+
+D. Sculptor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mathematician**.
+
+</details>
+
+---
+**Q-GC70. Uttarakhand PCS Pre 2010**
+
+'Lilavati' a treatise on Mathematics, was written by –
+
+A. Ramanuj
+
+B. Kautilya
+
+C. Amartya Sen
+
+D. Bhaskaracharya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Bhaskaracharya / Bhaskara II**.
+
+</details>
+
+---
+**Q-GC71. Uttarakhand UDA/LDA Pre 2007**
+
+Aryabhatta was –
+
+A. Indian Politician
+
+B. Indian Mathematician and Astronomer
+
+C. Indian Sanskrit Scholar and Poet
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mathematician and astronomer (*Aryabhatiya*).
+
+</details>
+
+---
+**Q-GC72. UPPSC RI 2014**
+
+Which one of the following Indian Mathematicians invented decimal place value ?
+
+A. Bhaskar
+
+B. Varahmihira
+
+C. Brahmagupta
+
+D. Aryabhatta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Coaching key = **Aryabhata**.
+
+</details>
+
+---
+**Q-GC73. UP UDA/LDA Spl Pre 2010**
+
+Who was the author of “Matta Vilasa Prahasana”?
+
+A. Gautamiputra Satakarni
+
+B. Mahakshatrap Rudradaman
+
+C. Mahendra Varman
+
+D. Pulakesin II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pallava **Mahendravarman I**.
+
+</details>
+
+---
+**Q-GC74. Raj PCS Pre 2023**
+
+The author of 'Lalit Vigraharaj' drama was –
+
+A. Hemchandra
+
+B. Kalhan
+
+C. Somdeva
+
+D. Mahesh
+
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Somadeva**.
+
+</details>
+
+---
+**Q-GC75. UPPCS Pre 2007**
+
+'Manusmriti' is mainly related to –
+
+A. Social System
+
+B. Law
+
+C. Economics
+
+D. Working method of State
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Mainly the **social system** (*Manava Dharmashastra*).
+
+</details>
+
+---
+**Q-GC76. UPPCS Mains 2004**
+
+The great law-giver of ancient times was –
+
+A. Ashoka
+
+B. Arya Bhatta
+
+C. Manu
+
+D. Vatsyayan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Manu**.
+
+</details>
+
+---
+**Q-GC77. UPPCS Mains 2008**
+
+Who among the following is considered to be the first law-giver of India ?
+
+A. Panini
+
+B. Manu
+
+C. Kautilya
+
+D. Kapil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Manu**.
+
+</details>
+
+---
+**Q-GC78. CGPCS Pre 2024**
+
+Whose composition is ‘Natyashastra’?
+
+A. Vishwanath
+
+B. Bhamah
+
+C. Bharatamuni
+
+D. Bhavabhuti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Bharata Muni**.
+
+</details>
+
+---
+**Q-GC79. IAS Pre 1995**
+
+“Zero” was discovered by –
+
+A. Aryabhatta
+
+B. Varahmihira
+
+C. Bhaskara-I
+
+D. An anonymous Indian
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Paper key = **anonymous Indian** (Arabs used zero by 873 CE).
+
+</details>
+
+---
+**Q-GC80. UP Lower Sub Mains 2015**
+
+Zero was invented by –
+
+A. Romans
+
+B. Chinese
+
+C. Indians
+
+D. Sumerians
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Indians**.
+
+</details>
+
+---
+**Q-GC81. UPPCS Pre Re-Exam 2015**
+
+Which one of the following pairs is not correctly matched?
+
+A. Life of Hiuen Tsang - Hui-li
+
+B. The Natural History - Ptolemy
+
+C. Historial Philippical - Pompeius Trogus
+
+D. The Histories - Herodotus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** *Natural History* = **Pliny the Elder**, not Ptolemy.
+
+</details>
+
+---
+**Q-GC82. UPPSC GIC 2010**
+
+The most ancient musical instrument in given options is–
+
+A. Sitar
+
+B. Veena
+
+C. Sarod
+
+D. Tabla
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Veena** is the most ancient among the four.
 
 </details>
 
