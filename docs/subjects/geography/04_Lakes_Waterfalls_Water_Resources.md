@@ -18,6 +18,42 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **5 Jun 2026** | India designates **100th Ramsar** — **Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, UP** (World Environment Day) | “How many Ramsar in India / latest UP site?” | MoEFCC / PIB |
+| **2025–26** | UP Ramsar total **13** — adds **Patna BS (Etah)**, **Sheikha/Shekha Jheel (Aligarh)**, **Surha Tal (Ballia)** | State-paper list + 2025 Q58 “NOT in UP” | MoEFCC LS annex |
+| **2025** | India among top Ramsar countries in Asia; proposals in pipeline include Sauj Jheel (UP) | Count vs names trap | MoEFCC |
+| Ongoing | **Jal Jeevan Mission** extended (rural tap water) — water-*supply* overlay, not a dam–river fact | Don’t confuse with multipurpose dams | Jal Shakti |
+| 2019–20 | Six UP Ramsar added in the Jan 2020 window | Number question | UPPCS 2020 |
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Superior vs Victoria decides the head of the sequence.
+
+**Q. UKPCS Prelims 2025, Q93**
+
+What is the correct sequence of lakes in descending order of size?
+
+A. Victoria, Superior, Chilka, Michigan
+B. Superior, Victoria, Michigan, Chilka
+C. Michigan, Superior, Victoria, Chilka
+D. Chilka, Michigan, Superior, Victoria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Superior > Victoria > Michigan >> Chilka. Victoria-first is the tropical-lake trap.
+
+</details>
+
+---
+
+
 ## Consolidated — 32 Must-Score Facts
 
 1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin cues: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
@@ -2181,40 +2217,6 @@ D. saline lakes
 **Logic:** UPSC 2021 name-set — Rajasthan saline / playa lakes, not glaciers or mangroves.
 
 **Ans: D** — They are saline lakes of the Rajasthan belt (with Sambhar as the inland king).
-</details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **5 Jun 2026** | India designates **100th Ramsar** — **Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, UP** (World Environment Day) | “How many Ramsar in India / latest UP site?” | MoEFCC / PIB |
-| **2025–26** | UP Ramsar total **13** — adds **Patna BS (Etah)**, **Sheikha/Shekha Jheel (Aligarh)**, **Surha Tal (Ballia)** | State-paper list + 2025 Q58 “NOT in UP” | MoEFCC LS annex |
-| **2025** | India among top Ramsar countries in Asia; proposals in pipeline include Sauj Jheel (UP) | Count vs names trap | MoEFCC |
-| Ongoing | **Jal Jeevan Mission** extended (rural tap water) — water-*supply* overlay, not a dam–river fact | Don’t confuse with multipurpose dams | Jal Shakti |
-| 2019–20 | Six UP Ramsar added in the Jan 2020 window | Number question | UPPCS 2020 |
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Superior vs Victoria decides the head of the sequence.
-
-**Q. UKPCS Prelims 2025, Q93**
-
-What is the correct sequence of lakes in descending order of size?
-
-A. Victoria, Superior, Chilka, Michigan
-B. Superior, Victoria, Michigan, Chilka
-C. Michigan, Superior, Victoria, Chilka
-D. Chilka, Michigan, Superior, Victoria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Superior > Victoria > Michigan >> Chilka. Victoria-first is the tropical-lake trap.
-
 </details>
 
 ---

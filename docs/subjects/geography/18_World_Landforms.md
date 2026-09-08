@@ -18,6 +18,14 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+None mandatory — static world-map chapter. No living scheme tag.
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. The **Andes** are the world’s **longest** fold chain. The **Himalaya** are the **highest**. **Aconcagua** stands in the Andes of Argentina.
@@ -2766,12 +2774,6 @@ D. Campos — Chile
 
 **Ans: D** — Campos = **Brazil**.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-None mandatory — static world-map chapter. No living scheme tag.
 
 ---
 

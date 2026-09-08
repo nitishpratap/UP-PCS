@@ -20,6 +20,14 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+None mandatory — static political-map chapter.
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
@@ -2820,12 +2828,6 @@ D. 1, 2 and 3
 
 **Ans: A** — Durand = Afghanistan–Pakistan; McMahon ≈ India–China east.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-None mandatory — static political-map chapter.
 
 ---
 

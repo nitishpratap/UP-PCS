@@ -15,6 +15,14 @@ Endogenic / Exogenic Processes | Rocks — Igneous, Sedimentary, Metamorphic | R
 
 ---
 
+
+## Current Affairs (this topic)
+
+Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, Imphal) is the diet. Mekong/Himalaya fossils do not need a yearly CA refresh.
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Endogenic** processes (folding, faulting, volcanism, uplift) build relief from inside the Earth. **Exogenic** processes wear and deposit at the surface. **Gradation** = degradation + aggradation.
@@ -2019,12 +2027,6 @@ D. 1, 2 and 3
 
 **Ans: A** — Stalactite hangs from the **ceiling**; stalagmite grows from the floor.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, Imphal) is the diet. Mekong/Himalaya fossils do not need a yearly CA refresh.
 
 ---
 

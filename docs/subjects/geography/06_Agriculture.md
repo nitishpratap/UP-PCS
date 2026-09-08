@@ -17,6 +17,20 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **May 2026** | CCEA raised MSP for **14 Kharif** crops, MS 2026–27; common paddy **₹2,441/q** (+₹72); Grade A ₹2,461 | Latest paddy MSP figure | PIB / CCEA |
+| Static rule | MSP for **22 mandated crops**; CACP recommends, Cabinet decides; target **≥1.5×** all-India cost (Budget 2018–19) | Institution > old rupees | PIB |
+| 2025–26 Kharif | Highest MSP hike then: nigerseed, ragi, cotton, sesamum; extra push pulses/oilseeds/**Shree Anna** | Diversification narrative | PIB |
+| Ongoing | **PM-AASHA** (PSS via NAFED/NCCF); **e-NAM**; **PM-KISAN**; **PMFBY** | Scheme names | DA&FW |
+| 2025 | Delhi **bio-decomposer** (fungal mix, free) for stubble | 2025 Q10 | PYQ / GNCTD |
+
+---
+
+
 ## Consolidated — 34 Must-Score Facts
 
 1. **Net sown area (NSA)** is land sown at least once a year. **Gross cropped area (GCA)** counts every sowing. **Cropping intensity** = **GCA / NSA × 100** (about **111%** in 1950–51 to about **156%** now). About **86%** of holdings are small or marginal, and about half of NSA is still rainfed.
@@ -2606,18 +2620,6 @@ Reason (R): Sikkim has less than 10% of its land available for agriculture.
 **Ans: B.** Both true, but R is not the explanation of A. Punjab = contract farming pioneer; Sikkim = forest hill state with under 10% cultivable share.
 
 </details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **May 2026** | CCEA raised MSP for **14 Kharif** crops, MS 2026–27; common paddy **₹2,441/q** (+₹72); Grade A ₹2,461 | Latest paddy MSP figure | PIB / CCEA |
-| Static rule | MSP for **22 mandated crops**; CACP recommends, Cabinet decides; target **≥1.5×** all-India cost (Budget 2018–19) | Institution > old rupees | PIB |
-| 2025–26 Kharif | Highest MSP hike then: nigerseed, ragi, cotton, sesamum; extra push pulses/oilseeds/**Shree Anna** | Diversification narrative | PIB |
-| Ongoing | **PM-AASHA** (PSS via NAFED/NCCF); **e-NAM**; **PM-KISAN**; **PMFBY** | Scheme names | DA&FW |
-| 2025 | Delhi **bio-decomposer** (fungal mix, free) for stubble | 2025 Q10 | PYQ / GNCTD |
 
 ---
 

@@ -16,6 +16,36 @@ Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventi
 
 ---
 
+
+## Current Affairs (this topic)
+
+None mandatory. Producer ranks and “leading country” freeze to the **paper’s year**. Do not chase every USGS revision in the teaching home.
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** South Africa is the historic leader, not the 2023 leader.
+
+**Q. UKPCS Prelims 2025, Q83**
+
+Which country is the leading producer of gold in the world in the year 2023?
+
+A. China
+B. U.S.A.
+C. Canada
+D. South Africa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** China leads recent world gold output; South Africa is the twentieth-century trap.
+
+</details>
+
+---
+
+
 ## Consolidated — 20 Must-Score Facts
 
 1. Coalfield–country facts: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk** is Ukraine’s classic coal answer among common options.
@@ -2701,34 +2731,6 @@ D. Haft Kel — Iraq
 <summary>Show answer</summary>
 
 **Ans: D** — Haft Kel = **Iran**.
-</details>
-
----
-
-## Current Affairs (this topic)
-
-None mandatory. Producer ranks and “leading country” freeze to the **paper’s year**. Do not chase every USGS revision in the teaching home.
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** South Africa is the historic leader, not the 2023 leader.
-
-**Q. UKPCS Prelims 2025, Q83**
-
-Which country is the leading producer of gold in the world in the year 2023?
-
-A. China
-B. U.S.A.
-C. Canada
-D. South Africa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** China leads recent world gold output; South Africa is the twentieth-century trap.
-
 </details>
 
 ---

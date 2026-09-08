@@ -24,6 +24,18 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+- **5 Jun 2026:** India’s **100th Ramsar** = Surha Tal / JP Narayan Bird Sanctuary, **Ballia**. UP Ramsar total **13**.
+- **2025:** CIP South Asia Regional Centre approved at **Singna, Agra** — not Aligarh. UP remains India’s potato leader.
+- **Ken–Betwa:** only NPP link under implementation; foundation Dec 2024; Bundelkhand MP–UP.
+- **Jewar** = Noida International Airport (UP CA).
+- Census district ranks stay on **2011** until Census 2027.
+
+---
+
+
 ## Consolidated — 20 Must-Score Facts
 
 1. UP’s only National Park is **Dudhwa** in **Lakhimpur Kheri**. **Chandraprabha** sanctuary is in **Chandauli**. **Katarniaghat** (1975) is in Bahraich. Amangarh is a Bijnor tiger reserve; Ranipur is Chitrakoot TR.
@@ -186,7 +198,6 @@ Teach the **full UP map** — next year can ask any Lucent district extreme or c
 | **Bundelkhand** | Mar/Kabar black; Parua red | Pulses, oilseeds; drought stress |
 | **Purvanchal** | Gangetic alluvium | Rice; lowest forest cover belt |
 | **Vindhyan** | Bhonta; limestone | Thermal power, Rihand; Sonbhadra minerals |
-
 
 
 **Districts:** Sonbhadra, Mirzapur, Chandauli plateau edge, south Prayagraj
@@ -2631,16 +2642,6 @@ D. Devipatan — Basti headquarters
 
 **Ans: D** — Devipatan HQ = **Gonda**.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-- **5 Jun 2026:** India’s **100th Ramsar** = Surha Tal / JP Narayan Bird Sanctuary, **Ballia**. UP Ramsar total **13**.
-- **2025:** CIP South Asia Regional Centre approved at **Singna, Agra** — not Aligarh. UP remains India’s potato leader.
-- **Ken–Betwa:** only NPP link under implementation; foundation Dec 2024; Bundelkhand MP–UP.
-- **Jewar** = Noida International Airport (UP CA).
-- Census district ranks stay on **2011** until Census 2027.
 
 ---
 

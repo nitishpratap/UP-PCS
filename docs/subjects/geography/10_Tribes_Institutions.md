@@ -15,6 +15,22 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **15 Nov** | **Janjatiya Gaurav Diwas** — Birsa Munda birth anniversary | Tribal identity day |
+| **2023** | **PM-JANMAN** — PVTG mission (housing, health, education, connectivity) | Living PVTG scheme |
+| **1875–2025** | **IMD** 150 years; headquarters still **New Delhi** | Institute anniversary |
+| **Jun 2025** | **Adi Karmayogi** launched by **Ministry of Tribal Affairs** | Ministry trap vs Social Justice / AYUSH |
+| Static | Uttar Pradesh ST list is still the **15-entry** notification set, many of them district-limited | Match traps |
+
+Masai habitat remains **East Africa**. Do not “update” it to West Africa.
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Scheduled Tribe lists are **state-wise** under **Article 342**. Parliament can amend the lists by law. A community listed in one State need not be listed in another.
@@ -1629,20 +1645,6 @@ D. 1, 2, 3 and 4
 
 **Ans: A** — Toda = Tamil Nadu, not Nagaland.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **15 Nov** | **Janjatiya Gaurav Diwas** — Birsa Munda birth anniversary | Tribal identity day |
-| **2023** | **PM-JANMAN** — PVTG mission (housing, health, education, connectivity) | Living PVTG scheme |
-| **1875–2025** | **IMD** 150 years; headquarters still **New Delhi** | Institute anniversary |
-| **Jun 2025** | **Adi Karmayogi** launched by **Ministry of Tribal Affairs** | Ministry trap vs Social Justice / AYUSH |
-| Static | Uttar Pradesh ST list is still the **15-entry** notification set, many of them district-limited | Match traps |
-
-Masai habitat remains **East Africa**. Do not “update” it to West Africa.
 
 ---
 

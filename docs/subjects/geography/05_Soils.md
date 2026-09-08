@@ -18,6 +18,20 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **19 Feb 2015** | Soil Health Card launched at **Suratgarh, Rajasthan**; slogan **Swasth Dharaa, Khet Haraa**; 2015 = International Year of Soils | Scheme–place–slogan | PIB |
+| **2022–23 onward** | SHC merged into RKVY as **Soil Health and Fertility** | New name vs old scheme | PIB / DA&FW |
+| **Jul 2025** | **>25 crore** Soil Health Cards distributed; card reports **12 parameters** (N,P,K,S, Zn,Fe,Cu,Mn,B, pH, EC, OC) | Numbers / parameters | PIB Aug 2025 |
+| Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-*type* fact) | Scheme vs conservation method | Jal Shakti / DA&FW |
+| Static | World Soil Day **5 December** (UN; UPPCS 2022 Q25) | Date trap vs 5 June | UN / PYQ |
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. Ancient Indian names: **Urvara** = fertile and **Usara** = sterile. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock, and Time (**CLORPT**).
@@ -699,7 +713,6 @@ D. Hoshangabad, Madhya Pradesh
 - **Vindhyan fringe** — **Bhonta/Monta** shallow soils on sandstone.
 - **Rohilkhand–Awadh** — deep alluvium; mentha and cane on lighter loams.
 - **Usar/Reh/Kallar** — saline–alkaline patches in western canal tracts; gypsum and drainage remedies apply.
-
 
 
 ~**90% alluvial** (khadar / bangar / bhur).
@@ -2388,18 +2401,6 @@ D. 1, 2 and 3
 
 **Ans: D** — Zero tillage, gypsum before irrigation, and residue cover all aid water use. **A/B/C** drop a true practice.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **19 Feb 2015** | Soil Health Card launched at **Suratgarh, Rajasthan**; slogan **Swasth Dharaa, Khet Haraa**; 2015 = International Year of Soils | Scheme–place–slogan | PIB |
-| **2022–23 onward** | SHC merged into RKVY as **Soil Health and Fertility** | New name vs old scheme | PIB / DA&FW |
-| **Jul 2025** | **>25 crore** Soil Health Cards distributed; card reports **12 parameters** (N,P,K,S, Zn,Fe,Cu,Mn,B, pH, EC, OC) | Numbers / parameters | PIB Aug 2025 |
-| Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-*type* fact) | Scheme vs conservation method | Jal Shakti / DA&FW |
-| Static | World Soil Day **5 December** (UN; UPPCS 2022 Q25) | Date trap vs 5 June | UN / PYQ |
 
 ---
 

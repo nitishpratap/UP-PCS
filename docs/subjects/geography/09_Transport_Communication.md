@@ -15,6 +15,64 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Year trap with seven engines |
+| **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
+| **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
+| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift fact |
+| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa) | New airline + airport pair |
+| **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
+| **DFC** | Western Dadri–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
+
+Sagarmala / Bharatmala remain living umbrella programmes; still tests **name swap**, not project lists.
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Three eastern ports — one western settles it.
+
+**Q. UKPCS Prelims 2025, Q88**
+
+Which of the following ports is on the western coastline?
+
+A. Nhava Sheva
+B. Visakhapatnam
+C. Chennai
+D. Tuticorin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Nhava Sheva (JNPT) near Mumbai is western; the other three are eastern.
+
+</details>
+
+**Logic:** Density is route length per area — Series B keys USA among the four.
+
+**Q. UKPCS Prelims 2025, Q92**
+
+Which country has the highest density of railway network?
+
+A. Canada
+B. U.S.A.
+C. Russia
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Among the given options the provisional key marks the U.S.A. India is the frequent coaching rival on density stems — follow Series B for this paper.
+
+</details>
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Transport moves people and goods; communication moves information. About **95%** of India’s trade by **volume** moves by sea.
@@ -1896,62 +1954,6 @@ D. A-4, B-1, C-2, D-3
 <summary>Show answer</summary>
 
 **Ans: A** — PMGSY rural roads; Sagarmala ports; NHAI highways; Gati Shakti 2021 multimodal plan.
-</details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Year trap with seven engines |
-| **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
-| **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
-| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift fact |
-| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa) | New airline + airport pair |
-| **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
-| **DFC** | Western Dadri–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
-
-Sagarmala / Bharatmala remain living umbrella programmes; still tests **name swap**, not project lists.
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Three eastern ports — one western settles it.
-
-**Q. UKPCS Prelims 2025, Q88**
-
-Which of the following ports is on the western coastline?
-
-A. Nhava Sheva
-B. Visakhapatnam
-C. Chennai
-D. Tuticorin
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** Nhava Sheva (JNPT) near Mumbai is western; the other three are eastern.
-
-</details>
-
-**Logic:** Density is route length per area — Series B keys USA among the four.
-
-**Q. UKPCS Prelims 2025, Q92**
-
-Which country has the highest density of railway network?
-
-A. Canada
-B. U.S.A.
-C. Russia
-D. India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Among the given options the provisional key marks the U.S.A. India is the frequent coaching rival on density stems — follow Series B for this paper.
-
 </details>
 
 ---

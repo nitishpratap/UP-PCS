@@ -15,6 +15,43 @@ Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motion
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **2013–14** | Mangalyaan / MOM | First Indian Mars orbiter (2024) | ISRO |
+| **2023** | Aditya-L1 | Solar mission — not Mars | ISRO |
+| **1987 / 1997** | Montreal vs Kyoto | Ozone vs climate | UNEP / UNFCCC |
+| **2015** | Paris Agreement | NDC successor to Kyoto path | UNFCCC |
+| **2018** | Science — Mars subglacial lake | 2018 Q85 | Science |
+| **2026** | El Niño tendency vs Indian monsoon | IMD |
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Farthest planet among the four has the longest year.
+
+**Q. UKPCS Prelims 2025, Q95**
+
+Which planet takes the longest time completing one revolution around the sun?
+
+A. Saturn
+B. Uranus
+C. Neptune
+D. Jupiter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Neptune (~165 Earth years) outranks Uranus, Saturn and Jupiter.
+
+</details>
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. Big Bang awareness is linked to **Gamow** (~13.8 billion years) and Hubble’s expanding universe. Steady State is linked to **Hoyle**. Nebular hypothesis is **Kant–Laplace**. The Milky Way is a **spiral** galaxy.
@@ -2384,41 +2421,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: D**
-</details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2013–14** | Mangalyaan / MOM | First Indian Mars orbiter (2024) | ISRO |
-| **2023** | Aditya-L1 | Solar mission — not Mars | ISRO |
-| **1987 / 1997** | Montreal vs Kyoto | Ozone vs climate | UNEP / UNFCCC |
-| **2015** | Paris Agreement | NDC successor to Kyoto path | UNFCCC |
-| **2018** | Science — Mars subglacial lake | 2018 Q85 | Science |
-| **2026** | El Niño tendency vs Indian monsoon | IMD |
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Farthest planet among the four has the longest year.
-
-**Q. UKPCS Prelims 2025, Q95**
-
-Which planet takes the longest time completing one revolution around the sun?
-
-A. Saturn
-B. Uranus
-C. Neptune
-D. Jupiter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Neptune (~165 Earth years) outranks Uranus, Saturn and Jupiter.
-
 </details>
 
 ---

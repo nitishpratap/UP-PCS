@@ -15,6 +15,25 @@ Human Geography (nature, scope, approaches) | Settlements | Rural vs Urban | Vil
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year cue vs JNNURM 2005 | MoHUA |
+| **Jun 2015** | AMRUT (~500 cities) | 2025 chronology | MoHUA |
+| **1 Oct 2021** | **AMRUT 2.0** — water-secure towns | Successor of AMRUT | PIB / MoHUA |
+| **21 Feb 2016** | **SPMRM** launched (not “2015 launch”) | 2023 Q143 | MoRD |
+| **ISAC-2020** | Indore/Surat best cities; **UP best state**; category winners above | 2022 Q26 | PIB / MoHUA |
+| **100 / 10** | 100 Smart Cities nationally; **10 Central in UP** | 2018 + 2020 | MoHUA |
+| **2019** | UP **State** Smart Cities (7 Nagar Nigams) | Does **not** change 2018/2020 keys of 10 | UP DoUD |
+| Mission window | Smart Cities Mission timeline extended to **31 Mar 2025** | Completing works | MoHUA |
+
+Million-city **population ranks**. Missions and settlement types
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. Human geography studies the **man–environment relationship** and the spatial patterns of human life, settlements and economy.
@@ -1962,23 +1981,6 @@ D. 1, 2 and 3
 
 **Ans: A** — Statement 3 is false; census town needs the full triple test or statutory status.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year cue vs JNNURM 2005 | MoHUA |
-| **Jun 2015** | AMRUT (~500 cities) | 2025 chronology | MoHUA |
-| **1 Oct 2021** | **AMRUT 2.0** — water-secure towns | Successor of AMRUT | PIB / MoHUA |
-| **21 Feb 2016** | **SPMRM** launched (not “2015 launch”) | 2023 Q143 | MoRD |
-| **ISAC-2020** | Indore/Surat best cities; **UP best state**; category winners above | 2022 Q26 | PIB / MoHUA |
-| **100 / 10** | 100 Smart Cities nationally; **10 Central in UP** | 2018 + 2020 | MoHUA |
-| **2019** | UP **State** Smart Cities (7 Nagar Nigams) | Does **not** change 2018/2020 keys of 10 | UP DoUD |
-| Mission window | Smart Cities Mission timeline extended to **31 Mar 2025** | Completing works | MoHUA |
-
-Million-city **population ranks**. Missions and settlement types
 
 ---
 

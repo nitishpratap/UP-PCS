@@ -19,6 +19,22 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **Dec 2021 / Dec 2024** | Ken–Betwa Link: Cabinet ₹44,605 cr; PM foundation **25 Dec 2024** | First ILR under implementation | PIB |
+| **2025–26** | **Only** priority NPP link in implementation (30 identified: 16 peninsular + 14 Himalayan); NWDA nodal | “How many links operational?” trap | Rajya Sabha / Jal Shakti Aug 2026 |
+| **2026** | Spend ~₹12,382 cr to Jun 2026; target ~Mar 2030; Bundelkhand MP–UP; **Panna TR** forest | Cost / ecology pairing | LS Q Aug 2026 |
+| Ongoing | Polavaram includes Godavari–Krishna (Vijayawada) link assistance | Peninsular grid | PIB |
+| 2016 | National Waterways Act — 106 NWs; core still NW-1 to NW-5 | Number vs names | Act |
+
+Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
+
+---
+
+
 ## Consolidated — 32 Must-Score Facts
 
 1. About **77%** of India’s drainage **area** faces the **Bay of Bengal**, about **23%** faces the **Arabian Sea**, and inland basins cover about **8%** of area. Over **90% of river water** still goes to the Bay of Bengal.
@@ -418,7 +434,6 @@ D. Kabini *(paper: Kabam in some OCR)*
 - In Indian geography, **Moribund** is a **subdivision of the Bengal (Ganga–Brahmaputra) Delta**, along with mature and active parts (UPPCS 2019). The moribund belt lies mainly in the older western / north-western delta where distributaries have decayed after the main Ganga discharge shifted east toward the Padma.
 - Do **not** key Krishna–Godavari, Mahanadi, or Cauvery for that “subdivision” stem. Those are different deltas; Bengal alone is classed that way in the standard scheme.
 - **Estuary** replaces a delta where waves and tides dominate and the river mouth stays funnel-shaped — **Narmada, Tapi, Mandovi** on India's west coast.
-
 
 
 - A **delta** grows where a river dumps silt faster than waves can remove it. The **east coast** has a wide shelf, so large deltas form.
@@ -2280,20 +2295,6 @@ D. 3, 1, 4, 2
 
 **Ans: C** — Godavari (~1465) → Krishna (~1400) → Narmada (~1312) → Mahanadi (~851). Trap: putting Narmada first because it is the longest west-flowing river.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Dec 2021 / Dec 2024** | Ken–Betwa Link: Cabinet ₹44,605 cr; PM foundation **25 Dec 2024** | First ILR under implementation | PIB |
-| **2025–26** | **Only** priority NPP link in implementation (30 identified: 16 peninsular + 14 Himalayan); NWDA nodal | “How many links operational?” trap | Rajya Sabha / Jal Shakti Aug 2026 |
-| **2026** | Spend ~₹12,382 cr to Jun 2026; target ~Mar 2030; Bundelkhand MP–UP; **Panna TR** forest | Cost / ecology pairing | LS Q Aug 2026 |
-| Ongoing | Polavaram includes Godavari–Krishna (Vijayawada) link assistance | Peninsular grid | PIB |
-| 2016 | National Waterways Act — 106 NWs; core still NW-1 to NW-5 | Number vs names | Act |
-
-Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
 
 ---
 

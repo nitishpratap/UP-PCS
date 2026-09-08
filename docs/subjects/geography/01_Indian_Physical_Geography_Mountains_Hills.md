@@ -19,6 +19,58 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **Mar 2024** | **Sela Tunnel** (BRO) — all-weather Tezpur–**Tawang** (Arunachal); longest twin-lane tunnel **above ~13,000 ft** | Border tunnel / pass CA | PIB / inauguration |
+| **2025** | **Z-Morh / Sonamarg Tunnel** — all-weather Srinagar–Ladakh axis | Pair with Zoji La | PIB |
+| 2020 / PYQ 2025 | Atal Tunnel qualifier only: longest highway tunnel **above 10,000 ft**, not unqualified world longest | UPPCS 2025 Q44 | PIB / BRO |
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Youth of the Shiwaliks explains unconsolidated sediment fill.
+
+**Q. UKPCS Prelims 2025, Q84**
+
+The Shiwalik range is primarily composed of which type of material?
+
+A. Igneous rocks
+B. Consolidated rocks
+C. Unconsolidated sediments
+D. Metamorphic rocks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Shiwaliks are thick unconsolidated sediments from rising Himalaya — landslide-prone and dun-forming.
+
+</details>
+
+**Logic:** Among Karakoram glaciers, relative length decides it.
+
+**Q. UKPCS Prelims 2025, Q90**
+
+Which is the largest glacier of the Trans-Himalayas?
+
+A. Biafo
+B. Siachen
+C. Baltoro
+D. Hispar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Siachen (~76 km) is the largest Trans-Himalayan / Karakoram glacier among the options.
+
+</details>
+
+---
+
+
 ## Consolidated — 32 Must-Score Facts
 
 1. India has **six** relief divisions for map questions: Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert (Thar), Coastal Plains, and Islands. The Thar is a **Pleistocene and recent** sand sheet, not an older Tertiary desert.
@@ -2550,56 +2602,6 @@ D. Only 3 and 4
 <summary>Show answer</summary>
 
 **Ans: A** — Only (3) is wrong: Duars / Dooars are the **West Bengal–Assam** foothills toward Bhutan, not the UP Terai.
-</details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Mar 2024** | **Sela Tunnel** (BRO) — all-weather Tezpur–**Tawang** (Arunachal); longest twin-lane tunnel **above ~13,000 ft** | Border tunnel / pass CA | PIB / inauguration |
-| **2025** | **Z-Morh / Sonamarg Tunnel** — all-weather Srinagar–Ladakh axis | Pair with Zoji La | PIB |
-| 2020 / PYQ 2025 | Atal Tunnel qualifier only: longest highway tunnel **above 10,000 ft**, not unqualified world longest | UPPCS 2025 Q44 | PIB / BRO |
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Youth of the Shiwaliks explains unconsolidated sediment fill.
-
-**Q. UKPCS Prelims 2025, Q84**
-
-The Shiwalik range is primarily composed of which type of material?
-
-A. Igneous rocks
-B. Consolidated rocks
-C. Unconsolidated sediments
-D. Metamorphic rocks
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Shiwaliks are thick unconsolidated sediments from rising Himalaya — landslide-prone and dun-forming.
-
-</details>
-
-**Logic:** Among Karakoram glaciers, relative length decides it.
-
-**Q. UKPCS Prelims 2025, Q90**
-
-Which is the largest glacier of the Trans-Himalayas?
-
-A. Biafo
-B. Siachen
-C. Baltoro
-D. Hispar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Siachen (~76 km) is the largest Trans-Himalayan / Karakoram glacier among the options.
-
 </details>
 
 ---

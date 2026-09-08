@@ -15,6 +15,18 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 
 ---
 
+
+## Current Affairs (this topic)
+
+- **BBNJ 2023** — high seas biodiversity; India signed; 12/24/200 nm **unchanged**
+- Arctic Policy **2022** · Arctic Council observer **2013**
+- Deep Ocean Mission / Samudrayaan / Blue Economy
+- Nodules on abyssal plains / CIOB
+- Antarctic stations + Treaty years = **static**
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
@@ -2352,16 +2364,6 @@ D. Hydrothermal vent — only found on continental shelves under 50 m
 
 **Ans: C** — Seamount = peaked; guyot = flat-topped. Vents sit on volcanically active ridges.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-- **BBNJ 2023** — high seas biodiversity; India signed; 12/24/200 nm **unchanged**
-- Arctic Policy **2022** · Arctic Council observer **2013**
-- Deep Ocean Mission / Samudrayaan / Blue Economy
-- Nodules on abyssal plains / CIOB
-- Antarctic stations + Treaty years = **static**
 
 ---
 

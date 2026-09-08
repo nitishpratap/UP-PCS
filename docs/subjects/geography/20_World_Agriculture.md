@@ -16,6 +16,14 @@ Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds |
 
 ---
 
+
+## Current Affairs (this topic)
+
+None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that** ranking. Do not chase every FAO revision in the teaching home.
+
+---
+
+
 ## Consolidated — 20 Must-Score Facts
 
 1. In plantation MCQs the classic plantation crop is **tea**, not wheat, rice, or maize. Plantation means estate, capital, monoculture, hired labour, and export.
@@ -2231,12 +2239,6 @@ D. Viticulture — tea estates
 
 **Ans: D** — Viticulture = **grapes**.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that** ranking. Do not chase every FAO revision in the teaching home.
 
 ---
 

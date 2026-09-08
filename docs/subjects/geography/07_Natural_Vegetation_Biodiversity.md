@@ -9,14 +9,28 @@
 **Protected areas:** National Parks | Wildlife Sanctuaries | Biosphere Reserves (18; Nilgiri first) | Ramsar Sites | Mangroves | Coral Reefs | Project Tiger / Elephant
 </details>
 
-> **Sources baked in:** NCERT Class 9–11, **PMF IAS** Champion–Seth vegetation + mangroves + biodiversity (Kullar), ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Class 9–11, **PMF IAS** Champion–Seth vegetation + mangroves + biodiversity (Kullar), **Ghatnachakra** Natural Vegetation (CA–164–170), ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025 + older UPPCS/UKPCS vegetation stems
 > **Weight:** ★★★★ — type×rain×region, PA–state, UP Dudhwa/Ramsar, biosphere traps, Project chronology
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:Surha Tal (Ballia)** = India’s **100th Ramsar** (5 Jun 2026); UP **13**; MISHTI = Budget **2023–24** (not 2019)
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **5 Jun 2026** | **Surha Tal / JP Narayan BS (Ballia)** = India’s **100th Ramsar**; UP **13th** | Count + latest UP site | MoEFCC / PIB |
+| **2025–26** | UP Ramsar adds Patna BS, Sheikha Jheel, Surha Tal (full names in N.6) | State list | MoEFCC |
+| **Budget 2023–24** | **MISHTI** mangrove restoration — not a 2019 start | 2025 Q93 | Budget |
+| Static | Olivia (Coast Guard, Odisha, Nov–May); coral warming 2024 PYQ | Coastal ops | ICG / PYQ |
+| ISFR | Use the **report year in the stem**; 2017 = 21.54% is a frozen PYQ | Figure trap | FSI |
+
+Lakes-as-wetlands. This file keeps the **geography** facts.
+
+---
+
+## Consolidated — 36 Must-Score Facts
 
 1. “Vegetation is the true index of climate” is **Thornthwaite’s** line, not Köppen’s letter codes. Controls are climate, soil, relief, biotic factors, and time.
 2. India is a **mega-biodiversity** country. The four hotspots touching India are **Himalaya**, **Western Ghats–Sri Lanka**, **Indo-Burma**, and **Sundaland** (**Nicobar**, not Andaman). Do not split Himalaya into east and west as if those were the four.
@@ -46,6 +60,14 @@
 26. Keystone species collapse an ecosystem if lost; flagship species are public mascots — do not treat them as the same idea.
 27. India has about **50,000** rice strains and about **1,000** mango varieties in the usual diversity teaching line.
 28. Tea and rubber estates are **plantations**, not climax evergreen forest. Moist and dry deciduous belong to one monsoon-forest family split by rainfall.
+29. Tropical evergreen is also called **Selvas**. Coaching cue: rain **>200 cm**, mean annual temperature above about **22°C**, humidity near **70%** (PMF often writes humidity **>77%** and wet evergreen **>250 cm**).
+30. **Butea monosperma** is the **flame of the forest**, also called **Dhak** or **Palash**, and is the **state flower of Uttar Pradesh**.
+31. **Katha** is obtained from **khair** wood. **Khejri** is the multipurpose “king of the desert” tree used in social forestry.
+32. Tree-line is **lower** in the **Western** Himalaya (about **3300–3600 m**) than in the Eastern / Central Himalaya (about **3600–3800 m**). Alpine belts also sit higher in the east because that side is nearer the equator and the sea.
+33. **Southern** Himalayan slopes hold **denser** vegetation than northern slopes because they get **more rainfall and sunlight**. Assertion that northern slopes are denser is **false**.
+34. **Deodar** is abundant in the **western** Himalayan temperate belt at about **1500–2500 m**. Among common options (deodar, pine/chir, sal, teak), deodar grows at the **highest** elevation.
+35. Classic mangrove match: **Achra–Ratnagiri = Maharashtra**; **Coondapur = Karnataka**; **Pichavaram = Tamil Nadu**; **Vembanad = Kerala** (not Karnataka). **Silent Valley (Kerala)** = tropical evergreen.
+36. **Mahogany** is **not** a Himalayan species (tropical American origin / Indian evergreen belts). Himalayan set = juniper, silver fir, spruce, deodar, birch.
 
 ---
 
@@ -78,6 +100,13 @@
 | Dry evergreen vs wet evergreen | Dry evergreen = **TN coast**, NE monsoon ~100 cm | Call it Western Ghat rain forest | कोरोमंडल शुष्क सदाबहार |
 | Chir vs deodar belt | Chir = **subtropical pine** 1000–2000 m west; deodar = temperate | Swap belts | चीड़ निचला; देवदार ऊँचा |
 | Keystone vs flagship | Keystone = ecosystem collapse if lost; flagship = public mascot | Call panda a keystone fact for India | कीस्टोन ≠ फ्लैगशिप |
+| Flame of the forest | **Butea monosperma** / Palash / Dhak; UP state flower | Bauhinia / Jacaranda / Teak | पलाश = UP फूल |
+| Katha wood | **Khair** | Sal / babool / saaja | कत्था = खैर |
+| Tree-line E vs W | **Lower** in **Western** Himalaya | Higher in west | पश्चिम ट्री-लाइन नीची |
+| Himalaya aspect | **Southern** slopes denser (more rain + sun) | Northern denser | दक्षिणी ढाल सघन |
+| Vembanad mangrove | **Kerala** | Karnataka | वेम्बनाड = केरल |
+| Mahogany belt | Tropical evergreen (not Himalaya) | Call it Himalayan with fir/spruce | महोगनी ≠ हिमालय |
+| Khejri vs Dhak | Khejri = desert social forestry; Dhak/Palash = flame of forest | Swap uses | खेजड़ी ≠ पलाश |
 
 ---
 
@@ -98,13 +127,13 @@ NCERT five-type frame: Tropical Evergreen (& Semi-Evergreen) | Tropical Deciduou
 
 | Type | Rain (cm) | Region cue | Trees / trait |
 |------|-----------|------------|---------------|
-| **Tropical evergreen** | **>200** | W Ghats, NE, Andamans | Multilayer; rosewood, mahogany, ebony, cinchona; **no** complete dry leaf-shed |
+| **Tropical evergreen (Selvas)** | **>200** | W Ghats, NE, Kerala, WB, Andamans | Multilayer; rosewood, mahogany, ebony, cinchona, rubber, bamboo; **no** complete dry leaf-shed |
 | **Semi-evergreen** | Slightly less than pure evergreen | W Ghats / NE / Andamans mix zone | Evergreen + deciduous mix |
-| **Moist deciduous** | **100–200** | Central India, Terai, Chota Nagpur, E slopes of W Ghats | **Teak, sal**, shisham, sandalwood; **largest area**; sheds in dry season |
-| **Dry deciduous** | **70–100** | Drier peninsula, rain-shadow | Thinner teak/sal → scrub |
-| **Thorn / scrub** | **<50–70** | RJ, GJ, SW Punjab–Haryana, rain-shadow | Acacia, babool, ber, khair, kikar; xerophytes |
-| **Montane** | altitude | Himalaya; S Indian hills | Belts, not plains rainfall ladder |
-| **Littoral / mangrove** | tidal | Deltas + coasts | Sundari; pneumatophores; saline |
+| **Moist deciduous** | **100–200** | Central India, Terai–Bhabar, E slopes of W Ghats | **Teak, sal**, shisham, neem, mango; **largest area**; sheds in dry season |
+| **Dry deciduous** | **70–100** | UP, AP, MH, KA, TN; drier peninsula | Rosewood, mango, sandalwood, mahua |
+| **Thorn / scrub** | **<50–70** | RJ, GJ, SW Punjab–Haryana, rain-shadow / W AP | Babool, ber, khair, khejri, palas, wild date; xerophytes |
+| **Montane** | altitude | Himalaya; S Indian hills (sholas) | Belts, not plains rainfall ladder; deodar 1500–2500 m west |
+| **Littoral / mangrove** | tidal | Ganga–Brahmaputra, Godavari–Krishna deltas + coasts | Sundari; pneumatophores; saline |
 
 - Moist vs dry deciduous = same monsoon-forest family, split by rain.
 - Evergreen ≠ “any green tree in monsoon India.”
@@ -188,22 +217,29 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 
 ### Evergreen & semi-evergreen
 
-- Needs equable heat + heavy rain. PMF wet evergreen: often **>250 cm**, about **25–27°C**, humidity **>77%**, short dry season.
+- Needs equable heat + heavy rain. Coaching / Ghatnachakra cue: rain **>200 cm**, mean annual temperature above about **22°C**, relative humidity near **70%**. PMF wet evergreen often writes **>250 cm**, about **25–27°C**, humidity **>77%**, short dry season.
+- Different species shed leaves at different times, so the canopy stays green year-round. These forests are also called **Selvas**.
 - Trees are **mesophytes** (not cactus, not water lily). Height **45–60 m**. A closed canopy; epiphytes fight for light; undergrowth is bamboo, fern, orchid.
 - Hardwood (mahogany, rosewood, ebony, mesua, white cedar, jamun) is valuable but **hard to log** (no pure stands, dense climbers, poor roads).
-- Belt: **windward Western Ghats** (about 500–1370 m), **Purvanchal / NE**, **Andaman–Nicobar**. Not a UP plains type.
+- Major species set: **cinchona, rubber, coconut, bamboo, mahogany, ebony**, rosewood.
+- Belt: **windward Western Ghats** (about 500–1370 m), **Assam–Meghalaya–Tripura–Mizoram / Purvanchal**, **West Bengal** wet pockets, **Kerala**, **Andaman–Nicobar**, and parts of the western coastal plain. Not a UP plains type.
+- **Cinchona** grows in Assam, Kerala, and West Bengal evergreen belts. It does **not** grow as a Chhattisgarh dry-deciduous fact.
+- **Silent Valley (Kerala)** is the classic tropical evergreen / rain-forest name in match stems.
 - Semi-evergreen is the **transition**: PMF rain **200–250 cm**, a longer dry season, **buttressed** trunks, more **gregarious** (purer stands), so timber is easier than in true rain forest.
 - Semi-evergreen: western coast, Assam, lower eastern Himalaya, Odisha, Andamans. Laurel, rosewood, champa, mango, Indian chestnut.
 
 ### Deciduous (monsoon forest)
 
-- India’s workhorse timber / wildlife forest — **largest area (~37% moist deciduous)**.
-- Rain **100–200 cm**, about **27°C**, humidity **60–75%**. Leaves drop in **spring–early summer** (April–May look bare).
+- India’s workhorse timber / wildlife forest — **largest area (~37% moist deciduous)**. Also called **monsoon forests**. Trees shed leaves in the dry season to conserve water.
+- Rain **100–200 cm** for moist deciduous (coaching sometimes frames the whole deciduous family as **70–200 cm**), about **27°C**, humidity **60–75%**. Leaves drop in **spring–early summer** (April–May look bare).
 - Irregular top storey **25–60 m**, buttresses, undergrowth. **Teak and sal** form useful **pure stands**, so these forests are easier to exploit than evergreen.
-- Belt: around evergreen on the Western Ghats, **Shiwalik–Terai–Bhabar** (about 77°E–88°E), Chota Nagpur, eastern MP–Chhattisgarh, Odisha, parts of WB, Manipur–Mizoram, Andamans.
-- **Dry deciduous** is the drier twin (NCERT **70–100 cm**; PMF also writes 100–150 as a wide strip). Wetter side → moist deciduous. Drier side → thorn. Closed but uneven canopy, grass on the floor. Strip from Himalayan foot to Kanyakumari except Rajasthan, Western Ghats and West Bengal. Teak, axlewood, red sanders, bamboo.
+- Moist deciduous belt: **eastern slopes of the Western Ghats**, north-eastern peninsula, **Bhabar and Terai**, Chota Nagpur, eastern MP–Chhattisgarh, Odisha, parts of WB, Manipur–Mizoram, Andamans.
+- Trees of moist deciduous: **sal, teak, neem, shisham, mango** (plus sandalwood in the broader coaching set). Hardwoods dominate furniture timber.
+- **Dry deciduous** is the drier twin (NCERT **70–100 cm**; PMF also writes 100–150 as a wide strip). Found widely in **Uttar Pradesh**, Andhra Pradesh, Maharashtra, Karnataka, and Tamil Nadu, and from the central Gangetic plain toward southern India. Main trees: **rosewood, mango, sandalwood, mahua**. Wetter side → moist deciduous. Drier side → thorn. Closed but uneven canopy, grass on the floor.
+- Standard NCERT / ISFR teaching: teak and sal are signature products of the **moist deciduous** (largest-area) belt; Madhya Pradesh leads among common state options for dense deciduous / teak area. Some older keys put “teak and sal” under dry deciduous — prefer the moist-deciduous NCERT line unless the stem forces the older key.
 - Large tracts of both deciduous types have been **cleared for crops**. Fire and grazing thin what remains.
 - UP north belt = Terai teak–sal; UP south = Vindhyan Sonbhadra–Mirzapur–Chandauli.
+- **Butea monosperma** (**Palash / Dhak**) is called the **flame of the forest**. It is the **state flower of Uttar Pradesh**. It also appears in thorn / dry belts as **palas**.
 
 ### Tropical dry evergreen (PMF extra)
 
@@ -212,39 +248,59 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 - Most of it has been cleared for farms or **casuarina** (N-fixing coastal windbreak and fuelwood).
 - Do **not** confuse with Western Ghat wet evergreen.
 
-### Thorn / scrub
+### Thorn / scrub (arid / tropical thorn)
 
-- PMF: rain **<75 cm**, humidity **<50%**, trees only **6–10 m** and scattered. **Acacia and Euphorbia** dominate. Indian wild date is common.
-- Long dry season; spines, small leaves, deep roots, thick bark (**xerophytes**).
-- Rajasthan, SW Punjab, western Haryana, Kachchh–Saurashtra, then **rain-shadow** of the Western Ghats (MH, KA, TG, AP, TN).
+- Also called **tropical thorn forests** or arid forests. PMF: rain **<75 cm** (NCERT / Ghatnachakra often **<70 cm**), humidity **<50%**, temperature about **25–30°C**, trees only **6–10 m** and scattered. **Acacia and Euphorbia** dominate.
+- Long dry season; spines, small leaves, deep roots, thick bark (**xerophytes**). Plants may stay leafless for much of the year. Grasses and shrubs are common.
+- Semi-arid belt: south-west Punjab, south-west Haryana, Rajasthan, Gujarat (Kachchh–Saurashtra), then **rain-shadow** of the Western Ghats including western Andhra Pradesh (classic “open stunted forests with long roots and sharp thorns” stem).
+- Important species: **babool, ber, wild date palm, khair, neem, khejri, palas**.
+- **Katha** is obtained from **khair** wood. Khair also appears in **sub-tropical** Shiwalik / western Himalayan scrub stems (UKPCS).
+- **Khejri** is the multipurpose social-forestry tree of arid India (“king of the desert”): fuel, charcoal, fodder, green manure, and goat-proof fences. It is frost-resistant and drought-resistant.
 - Grades into Thar desert vegetation westward. Not “desert with zero plants.”
 
 ### Montane (altitude elevator)
 
-- Temperature falls with height → stacked belts. PMF: altitude rules above about **900 m**.
-- Rough Himalayan stack: foothill tropical / subtropical → **oak–chestnut** → **chir / deodar / pine / spruce / fir** → alpine juniper / rhododendron → **bugyals** → snow.
+- Temperature falls with height → stacked belts. PMF: altitude rules above about **900 m**. Mountain forests split into **northern (Himalayan)** and **southern (peninsular hill)** sets.
+- Rough Himalayan stack: foothill tropical / subtropical deciduous → **wet temperate oak–chestnut** (about **1000–2000 m**) → **chir / deodar / pine / spruce / fir** on southern slopes about **2000–3000 m** → alpine juniper / rhododendron / birch → **bugyals** → snow.
 - **Sub-tropical broad-leaved hill** forests: eastern Himalaya east of **88°E**, **1000–2000 m** — evergreen oak, chestnut, ash; also stunted on Nilgiri–Palani, Mahabaleshwar, Satpura–Maikal, Bastar, **Mt Abu**.
 - **Sub-tropical moist pine**: western Himalaya **73°E–88°E**, **1000–2000 m**. **Chir / chil** in pure stands; timber, **resin and turpentine**. Also Khasi–Naga–Manipur hills.
-- **Sub-tropical dry evergreen**: Bhabar, Shiwaliks, western Himalaya to about **1000 m**. Low scrub: **olive, Acacia modesta, pistacia**.
+- **Sub-tropical dry evergreen**: Bhabar, Shiwaliks, western Himalaya to about **1000 m**. Low scrub: **olive, Acacia modesta, pistacia**, khair–keekar set.
 - **Montane wet temperate**: **1800–3000 m**, 150–300 cm rain — higher hills of **Kerala–Tamil Nadu** and eastern Himalaya. Mossy evergreen, short trees.
 - **Himalayan moist temperate**: **1500–3300 m**, 150–250 cm — Kashmir to Sikkim. Conifers **30–50 m** in fairly pure stands (pine, cedar, silver fir, spruce) with oak and rhododendron below. Sleepers and construction timber.
+- **Deodar** (*Cedrus deodara*) is a highly valued western Himalayan endemic, abundant at about **1500–2500 m** in the temperate zone. Among common options (deodar, pine/chir, sal, teak), deodar sits at the **highest** elevation.
 - **Himalayan dry temperate**: inner ranges (Ladakh, Lahaul, Kinnaur, Chamba, inner Garhwal, north Sikkim) where the SW monsoon is weak. Precip often **snow**, **<100 cm**. Deodar, oak, olive.
-- **Alpine** (about **2900–3500 m+**): sub-alpine mix of conifer and broad-leaf; **moist alpine scrub** = rhododendron and birch to the snowline; **dry alpine scrub** above about **3500 m** = juniper, honeysuckle, artemisia.
-- Eastern Himalaya is wetter than the west.
-- South Indian hills: **shola**–grassland (Nilgiri, Anaimalai, Palani).
-- Aspect (N vs S slope) shifts the tree line.
+- **Alpine** (about **2900–3500 m+**, coaching often **3000–4900 m**): sub-alpine mix of conifer and broad-leaf; **moist alpine scrub** = rhododendron and **birch** to the snowline; **dry alpine scrub** above about **3500 m** = juniper, honeysuckle, artemisia. The **birch** is a Himalayan tree; its white paper-like bark was used for writing scriptures.
+- Tree-line height: Eastern / Central Himalaya about **3600–3800 m**; Western / north-western Himalaya about **3300–3600 m** — so the tree-line is **lower** in the west. Alpine vegetation also climbs higher in the east because the Eastern Himalaya is nearer the **equator and the sea**.
+- Eastern Himalaya is wetter than the west. Forests are the major resource of the western Himalayan region (large forest share of land).
+- **Southern mountain forests**: Western Ghats, Vindhyas, and Nilgiris. Lower belts are sub-tropical; higher belts are temperate. Temperate patches called **sholas** sit in the **Nilgiris, Anaimalai, and Palani** hills.
+- Aspect (N vs S slope) shifts the tree line. **Southern** slopes of the Himalaya get **more rainfall and sunlight**, so vegetation is **denser** there than on northern slopes. An assertion that northern slopes are denser is **false**; a reason that southern slopes get more rain is **true**.
+- **Mahogany** is **not** essentially a Himalayan species. Juniper, silver fir, and spruce are.
 - 2025 Q21: different Himalayan vegetation **because** climate varies with altitude — both true, R explains A.
 
 ### Mangrove / tidal (littoral & swamp)
 
-- Salt-tolerant **halophytes**; grow in fresh **or brackish** water. **Pneumatophores** and **prop roots** slow water, trap silt and buffer storms.
-- **Sundarbans** (*sundari* / *Heritiera*) = largest single tidal mangrove block; Royal Bengal Tiger and crocodile country.
+- Salt-tolerant **halophytes**; grow in fresh **or brackish** water. **Pneumatophores** and **prop roots** slow water, trap silt and buffer storms. Also called **deltaic / swampy / littoral** forests.
+- Grow along coasts in salt marshes, tidal creeks, mudflats, and estuaries. Deltaic stands develop in the deltas of the **Ganga, Brahmaputra, Godavari, Krishna**, Mahanadi, and Cauvery.
+- **Sundarbans** (*sundari* / *Heritiera*) = largest single tidal mangrove block; Royal Bengal Tiger and crocodile country. Sundarbans = **littoral / tidal** forest, not dry deciduous or alpine.
 - **Bhitarkanika (Odisha)** is the usual **second** Indian mangrove fact.
-- Also Godavari–Krishna creeks, Cauvery, Mahanadi, Andaman–Nicobar (dense, less disturbed).
-- **West coast** mangroves (MH–Goa–KA) are often **scrubby and degraded**. **Gulf of Kachchh / Kori** stands are often **dwarf**.
+- Classic mangrove–state match: **Achra–Ratnagiri = Maharashtra**; **Coondapur = Karnataka**; **Pichavaram = Tamil Nadu**; **Vembanad = Kerala**. Trap: Vembanad is **not** Karnataka.
+- Also Andaman–Nicobar (dense, less disturbed). **West coast** mangroves (MH–Goa–KA) are often **scrubby and degraded**. **Gulf of Kachchh / Kori** stands are often **dwarf**.
 - Swamp forests hug the Ganga, Mahanadi, Godavari, Krishna and Cauvery deltas. Fuelwood and boat timber are the old uses.
 - NCERT order-of-magnitude: India holds a notable share of world mangroves (~7% in older NCERT figure).
 - **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) = Budget **2023–24** restoration — **not initiated 2019** (2025 Q93 **Only 2**).
+
+**Species & product locks (Ghatnachakra)**
+
+| Fact | Lock |
+|------|------|
+| Flame of the forest | **Butea monosperma** = Dhak / Palash = UP state flower |
+| Katha | From **khair** wood |
+| Khejri | Multipurpose arid / social-forestry tree |
+| Birch | Himalayas; writing-bark lore |
+| Fern | Vascular, spore-bearing; **no flowers / no seeds** |
+| Oryx vs Chiru | Oryx = hot arid; Chiru = cold high-mountain steppe / semi-desert |
+| Teak–Central India | Major teak expansion in MP–CG–Odisha; MP often leads dense deciduous area |
+| Cinchona | Evergreen / Terai–NE coaching match; **not** Chhattisgarh |
 
 **PYQ — UPPCS Prelims 2018, Q25**
 
@@ -314,7 +370,6 @@ D. Stamp
 - **Buffer zone** — limited research and tourism.
 - **Transition zone** — settlements, forestry, and agriculture with regulation.
 - Several Indian BRs (Nilgiri, Nanda Devi, Sundarbans, Gulf of Mannar, etc.) also sit on UNESCO's **World Network of Biosphere Reserves**.
-
 
 
 | Category | Fact |
@@ -1256,6 +1311,531 @@ D. Only 1
 <summary>Show answer</summary>
 
 **Ans: D** — Only Nokrek–Manipur is wrong. Nokrek is in Meghalaya. Manas–Assam and Agasthyamalai–Kerala are correctly matched.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Natural Vegetation (UPPCS / UKPCS / standard)
+
+Older vegetation stems from Ghatnachakra CA–164–170. Soil-erosion ladder and Victoria Falls from the same pages live in Soils / World chapters — not repeated here.
+
+**Logic:** Birch is Himalayan alpine / moist alpine scrub, not Aravalli–Nilgiri–Vindhya.
+
+**Q-GC1. UKPCS Prelims 2006**
+
+The birch tree is found in
+
+A. Aravallis  
+B. Himalayas  
+C. Nilgiris  
+D. Vindhyas  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Birch belongs to the Himalayan alpine / moist alpine scrub belt. Its white paper-like bark was used for writing scriptures.
+
+</details>
+
+**Logic:** Product–tree pair; khair yields katha, not sal or babool.
+
+**Q-GC2.**
+
+Which of the following woods is used for manufacturing Katha?
+
+A. Sal  
+B. Khair  
+C. Babool  
+D. Saaja  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Katha is obtained from khair wood. Khair grows widely from the Himalaya toward arid India.
+
+</details>
+
+**Logic:** Area-share stem — moist deciduous is largest (~37%); wet evergreen is small.
+
+**Q-GC3. IAS Prelims 2010**
+
+In India, which type of forest among the following occupies the largest area?
+
+A. Montane Wet Temperate Forest  
+B. Sub-tropical Dry Evergreen Forest  
+C. Tropical Moist Deciduous Forest  
+D. Tropical Wet Evergreen Forest  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tropical moist deciduous holds the largest share. Teak and sal are signature products of this belt. Wet evergreen and montane wet temperate are much smaller shares.
+
+</details>
+
+**Logic:** Teak–sal signature of monsoon deciduous; prefer moist-deciduous NCERT teaching.
+
+**Q-GC4. UPPCS Mains 2007**
+
+Teak and Sal are the products of
+
+A. Tropical Dry Deciduous Forests  
+B. Tropical Evergreen Forests  
+C. Tropical Thorn Forests  
+D. Alpine Forests  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Prefer moist deciduous (NCERT / largest-area teaching).** Teak and sal are the signature monsoon-forest hardwoods of the moist deciduous belt. Some older printed keys mark option A (dry deciduous); for open recall use moist deciduous with teak–sal pure stands.
+
+</details>
+
+**Logic:** Tree-line is lower in the Western Himalaya than in the Eastern Himalaya.
+
+**Q-GC5. UPPCS Mains 2005**
+
+Compared to the Eastern Himalayas, the height of the tree-line in the Western Himalayas is
+
+A. More  
+B. Less  
+C. Same  
+D. Unrelated variable  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Eastern / Central tree-line is about **3600–3800 m**; western / north-western is about **3300–3600 m**.
+
+</details>
+
+**Logic:** Western Himalayan temperate zone abundance fact.
+
+**Q-GC6. UKPCS UDA/LDA Prelims 2003**
+
+Which one of the following trees is abundant in the temperate zone of Western Himalayas?
+
+A. Pine  
+B. Deodar  
+C. Silver fir  
+D. Blue pine  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Deodar is abundant in the western Himalayan temperate belt at about **1500–2500 m**.
+
+</details>
+
+**A/R logic:** A tests which slope is denser; R tests rainfall contrast. A is false; R is true.
+
+**Q-GC7. UP RO/ARO Prelims 2023**
+
+**Assertion (A):** The northern slopes of the Himalayas have a thicker vegetation cover compared to the southern slopes.  
+**Reason (R):** Southern slopes of the Himalayas receive more rainfall than the northern slopes.
+
+A. (A) is false but (R) is true  
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
+C. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+D. (A) is true but (R) is false  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Southern slopes get more rainfall and sunlight, so vegetation is denser there. A is false; R is true.
+
+</details>
+
+**Logic:** Cinchona needs evergreen / high-rain belts; Chhattisgarh is dry / monsoon deciduous country.
+
+**Q-GC8. UPPSC GIC 2010**
+
+In which one of the following states do Cinchona trees not grow?
+
+A. Assam  
+B. Kerala  
+C. Chhattisgarh  
+D. West Bengal  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cinchona is an evergreen tropical plant of Assam, Kerala, and West Bengal belts. Chhattisgarh suits dry / monsoon deciduous forests.
+
+</details>
+
+**Logic:** Botanical name of flame of the forest / UP state flower.
+
+**Q-GC9.**
+
+Which one of the following is called ‘flame of the forest’?
+
+A. Bauhinia variegata  
+B. Jacaranda mimosifolia  
+C. Butea monosperma  
+D. Tectona grandis  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** *Butea monosperma* = Dhak / Palash = state flower of Uttar Pradesh.
+
+</details>
+
+**Logic:** Alpine belt climbs higher in the east because that side is nearer the equator and the sea.
+
+**Q-GC10. IAS Prelims 1995**
+
+The alpine vegetation in the western Himalayas is found only up to a height of 3000 metres while in the eastern Himalayas it is found up to a height of 4000 metres. The reason is that
+
+A. Eastern Himalayas are higher than the western Himalayas  
+B. Eastern Himalayas are nearer to the equator and sea coast than the western Himalayas  
+C. Eastern Himalayas get more monsoon rainfall than the western Himalayas  
+D. Eastern Himalayan rocks are more fertile than the western Himalayan rocks  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Nearer equator and sea coast push snowline and alpine belts higher in the east. More monsoon rain (C) is a related climate fact but the keyed reason is latitude / sea proximity.
+
+</details>
+
+**Logic:** Match species to region; teak = Central India; deodar = high Himalaya; sundari = Sundarbans; cinchona = Terai / evergreen coaching pair.
+
+**Q-GC11. UPPCS Prelims 1992**
+
+Match the following
+
+| Tree | Region |
+| --- | --- |
+| A. Teak | 1. Himalayan Tarai Region |
+| B. Deodar | 2. Central India |
+| C. Sundari | 3. Sunderban |
+| D. Cinchona | 4. High Altitude regions of Himalaya |
+
+*Row order is not the answer code.*
+
+A. A-2, B-4, C-3, D-1  
+B. A-3, B-2, C-1, D-4  
+C. A-4, B-1, C-3, D-2  
+D. A-2, B-3, C-4, D-1  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Teak–Central India; Deodar–high Himalaya; Sundari–Sundarbans; Cinchona–Himalayan Terai / evergreen coaching match.
+
+</details>
+
+**Logic:** Sundarbans = littoral / tidal mangrove.
+
+**Q-GC12.**
+
+Sundarbans are which of the following types of forests?
+
+A. Tropical dry deciduous forest  
+B. Alpine forest  
+C. Sub-tropical pine forest  
+D. Littoral or Tidal forest  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sundarbans are the classic littoral / tidal / mangrove block; sundari is the signature tree.
+
+</details>
+
+**Logic:** Only Sundari–West Bengal is the correct pair among common traps.
+
+**Q-GC13. IAS Prelims 1997**
+
+Which one of the following pairs is correctly matched?
+
+A. Teak : Jammu and Kashmir  
+B. Deodar : Madhya Pradesh  
+C. Sandalwood : Kerala  
+D. Sundari : West Bengal  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sundari–West Bengal (Sundarbans) is correct. Teak is not a J&K fact; deodar is Himalayan; sandalwood is mainly Karnataka coaching lore.
+
+</details>
+
+**Logic:** Moist deciduous–Tarai; dry deciduous–Middle Ganga Plain; alpine–Arunachal; evergreen–Sahyadris.
+
+**Q-GC14. UPPCS Prelims 2001**
+
+Match List-I with List-II
+
+| Forest | Region |
+| --- | --- |
+| A. Tropical moist deciduous | 1. Arunachal Pradesh |
+| B. Tropical dry deciduous | 2. Sahyadris |
+| C. Alpine | 3. Middle Ganga Plain |
+| D. Tropical evergreen | 4. Tarai |
+
+*Row order is not the answer code.*
+
+A. A-4, B-3, C-1, D-2  
+B. A-4, B-2, C-1, D-3  
+C. A-1, B-3, C-2, D-4  
+D. A-3, B-1, C-4, D-2  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Moist deciduous–Tarai; dry deciduous–Middle Ganga Plain; alpine–Arunachal; evergreen–Sahyadris (Western Ghats).
+
+</details>
+
+**Logic:** Silent Valley = tropical evergreen; Himachal = conifer; Sundarbans = mangrove; Rajasthan = deciduous / thorn country.
+
+**Q-GC15. UPPCS Prelims 2017**
+
+Match List-I with List-II
+
+| List-I | List-II |
+| --- | --- |
+| A. Tropical forest | 1. Sunderbans |
+| B. Conifer forest | 2. Himachal Pradesh |
+| C. Mangroves | 3. Rajasthan |
+| D. Deciduous forest | 4. Silent Valley |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-4, D-3  
+B. A-2, B-1, C-4, D-3  
+C. A-1, B-4, C-2, D-3  
+D. A-4, B-2, C-1, D-3  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tropical–Silent Valley; Conifer–Himachal Pradesh; Mangroves–Sundarbans; Deciduous–Rajasthan.
+
+</details>
+
+**Logic:** Open stunted thorny scrub = tropical thorn forest of rain-shadow / western Andhra Pradesh.
+
+**Q-GC16. IAS Prelims 2002**
+
+Open stunted forests with bushes and small trees having long roots and sharp thorns / spines are commonly found in
+
+A. Eastern Odisha  
+B. North-Eastern Tamil Nadu  
+C. Siwaliks and Terai region  
+D. Western Andhra Pradesh  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Features of tropical thorn forests (rain **<70 cm**, low humidity). Western Andhra Pradesh is the keyed rain-shadow option; the same type also covers Rajasthan–SW Punjab–Haryana–Kachchh.
+
+</details>
+
+**Logic:** Among deodar / pine / sal / teak, deodar occupies the highest elevation belt.
+
+**Q-GC17. UKPCS Prelims 2002**
+
+Which among the following trees is found at the highest elevation from the sea level?
+
+A. Deodar  
+B. Pine  
+C. Sal  
+D. Teak  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Deodar at about **1500–2500 m** in the western Himalaya. Chir/pine is lower; sal and teak are plains / peninsula deciduous.
+
+</details>
+
+**Logic:** Mahogany is tropical, not Himalayan.
+
+**Q-GC18. IAS Prelims 2008**
+
+Which one of the following is not essentially a species of the Himalayan vegetation?
+
+A. Juniper  
+B. Mahogany  
+C. Silver fir  
+D. Spruce  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mahogany is a tropical evergreen hardwood, not a Himalayan conifer / alpine species.
+
+</details>
+
+**Logic:** Multipurpose arid social-forestry tree.
+
+**Q-GC19. UPPCS Mains 2002**
+
+An example of a multipurpose tree used in social forestry is
+
+A. Sheesham  
+B. Dhak  
+C. Eucalyptus  
+D. Khejri  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Khejri (“king of the desert”) gives fuel, charcoal, fodder, green manure, and fencing in arid social forestry.
+
+</details>
+
+**Logic:** State–mangrove match; Vembanad is Kerala.
+
+**Q-GC20. IAS Prelims 2002**
+
+Match List-I (Mangrove) with List-II (State)
+
+| Mangrove | State |
+| --- | --- |
+| A. Achra Ratnagiri | 1. Karnataka |
+| B. Coondapur | 2. Kerala |
+| C. Pichavaram | 3. Andhra Pradesh |
+| D. Vembanad | 4. Maharashtra |
+|  | 5. Tamil Nadu |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-5, D-4  
+B. A-4, B-5, C-3, D-2  
+C. A-2, B-5, C-3, D-4  
+D. A-4, B-1, C-5, D-2  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Achra–Ratnagiri–Maharashtra; Coondapur–Karnataka; Pichavaram–Tamil Nadu; Vembanad–Kerala.
+
+</details>
+
+**Logic:** Wrong-pair trap — Vembanad is Kerala, not Karnataka.
+
+**Q-GC21. UKPCS UDA Prelims 2003 / UP Lower Sub. 2002**
+
+Which of the following is not correctly matched?
+
+A. Sundarbans — West Bengal  
+B. Bhitarkanika — Odisha  
+C. Pichavaram — Tamil Nadu  
+D. Vembanad — Karnataka  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Vembanad mangroves are in **Kerala**.
+
+</details>
+
+**Logic:** Tropical rainforest = high-rain Assam and Kerala set among options.
+
+**Q-GC22.**
+
+Tropical rainforest in India is found in
+
+A. Assam and Nagaland  
+B. Odisha and Chhattisgarh  
+C. Uttar Pradesh and Maharashtra  
+D. Assam and Kerala  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** High-rainfall Western Ghats / Kerala and upper Assam / north-east evergreen belts. Also Andaman–Nicobar and Lakshadweep in the full map.
+
+</details>
+
+**Logic:** Habitat adaptation contrast, not antler / musk distractors.
+
+**Q-GC23. IAS Prelims 2012**
+
+What is the difference between the antelopes Oryx and Chiru?
+
+A. Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains  
+B. Oryx is poached for its antlers whereas Chiru is poached for its musk  
+C. Oryx exists in western India only whereas Chiru exists in North-East India only  
+D. None of the statements (a), (b) and (c) given above is correct  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Habitat adaptation is the correct contrast. Chiru (Tibetan antelope) is a cold high-mountain steppe / semi-desert animal.
+
+</details>
+
+**Logic:** Fern is spore-bearing and flowerless.
+
+**Q-GC24. UPPCS Prelims 1991**
+
+Which of the following plants have no flowers?
+
+A. Jackfruit  
+B. Fig  
+C. Orchid  
+D. Fern  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ferns are vascular spore plants without seeds or flowers.
+
+</details>
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Three Himalayan conifers vs one tropical deciduous hardwood.
+
+**Q. UKPCS Prelims 2025, Q91**
+
+Which tree is not of the evergreen forest type?
+
+A. Deodar
+B. Silver fir
+C. Sal
+D. Blue pine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Sal is tropical moist deciduous; the three conifers are evergreen.
+
+</details>
+
+**Logic:** Kanha–Madhya Pradesh anchors the match code.
+
+**Q. UKPCS Prelims 2025, Q99**
+
+Match national parks with states:
+
+| National Park | State |
+| --- | --- |
+| A. Simlipal | 1. Karnataka |
+| B. Indravati | 2. Madhya Pradesh |
+| C. Kanha | 3. Chhattisgarh |
+| D. Bandipur | 4. Odisha |
+
+*Row order is not the answer code.*
+
+A. A-4, B-3, C-2, D-1
+B. A-2, B-4, C-1, D-3
+C. A-3, B-2, C-4, D-1
+D. A-1, B-3, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Simlipal–Odisha; Indravati–Chhattisgarh; Kanha–MP; Bandipur–Karnataka.
+
 </details>
 
 ---
@@ -2342,69 +2922,6 @@ D. (A) is false, but (R) is true
 
 ---
 
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **5 Jun 2026** | **Surha Tal / JP Narayan BS (Ballia)** = India’s **100th Ramsar**; UP **13th** | Count + latest UP site | MoEFCC / PIB |
-| **2025–26** | UP Ramsar adds Patna BS, Sheikha Jheel, Surha Tal (full names in N.6) | State list | MoEFCC |
-| **Budget 2023–24** | **MISHTI** mangrove restoration — not a 2019 start | 2025 Q93 | Budget |
-| Static | Olivia (Coast Guard, Odisha, Nov–May); coral warming 2024 PYQ | Coastal ops | ICG / PYQ |
-| ISFR | Use the **report year in the stem**; 2017 = 21.54% is a frozen PYQ | Figure trap | FSI |
-
-Lakes-as-wetlands. This file keeps the **geography** facts.
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Three Himalayan conifers vs one tropical deciduous hardwood.
-
-**Q. UKPCS Prelims 2025, Q91**
-
-Which tree is not of the evergreen forest type?
-
-A. Deodar
-B. Silver fir
-C. Sal
-D. Blue pine
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Sal is tropical moist deciduous; the three conifers are evergreen.
-
-</details>
-
-**Logic:** Kanha–Madhya Pradesh anchors the match code.
-
-**Q. UKPCS Prelims 2025, Q99**
-
-Match national parks with states:
-
-| National Park | State |
-| --- | --- |
-| A. Simlipal | 1. Karnataka |
-| B. Indravati | 2. Madhya Pradesh |
-| C. Kanha | 3. Chhattisgarh |
-| D. Bandipur | 4. Odisha |
-
-*Row order is not the answer code.*
-
-A. A-4, B-3, C-2, D-1
-B. A-2, B-4, C-1, D-3
-C. A-3, B-2, C-4, D-1
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** Simlipal–Odisha; Indravati–Chhattisgarh; Kanha–MP; Bandipur–Karnataka.
-
-</details>
-
----
-
 ## Common Traps — Don't Fall For These
 
 1. **Simlipal = Madhya Pradesh** — FALSE. **Odisha**.
@@ -2429,3 +2946,12 @@ D. A-1, B-3, C-2, D-4
 20. **Dry evergreen = Western Ghat rain forest** — FALSE. It is the **Tamil Nadu / Coromandel** NE-monsoon belt.
 21. **Chir pine is an alpine juniper scrub** — FALSE. Chir is **sub-tropical pine** at about 1000–2000 m in the western Himalaya.
 22. **Hotspots exist only in the tropics** — FALSE. Mediterranean, SW Australia and Chilean temperate forest are hotspots too.
+23. **Northern Himalayan slopes denser than southern** — FALSE. **Southern** slopes denser (more rain + sun).
+24. **Tree-line higher in Western Himalaya** — FALSE. Tree-line is **lower** in the west.
+25. **Vembanad = Karnataka** — FALSE. **Kerala**.
+26. **Flame of the forest = Teak / Bauhinia** — FALSE. **Butea monosperma (Palash / Dhak)**; UP state flower.
+27. **Katha from Sal / Babool** — FALSE. From **khair**.
+28. **Mahogany = Himalayan species** — FALSE. Tropical evergreen; Himalayan set = juniper, fir, spruce, deodar, birch.
+29. **Cinchona grows in Chhattisgarh** — FALSE. Assam / Kerala / West Bengal evergreen belts.
+30. **Birch = Nilgiris / Aravallis / Vindhyas** — FALSE. **Himalayas**.
+

@@ -15,6 +15,21 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **Census 2011** | Official number set until **Census 2027** | Every density/SR/literacy MCQ | ORGI |
+| **NFHS-5** | TFR ~**2.0** nationally | Do not overwrite 2018 NFHS-4 key **2.2** | MoHFW |
+| **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
+| **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
+| **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
+| **11 July** | World Population Day | 2018 Q114 | UN |
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
@@ -2294,19 +2309,6 @@ D. 1, 2 and 3
 
 **Ans: A** — Statement 3 is wrong; physiological density uses **net sown** area.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Census 2011** | Official number set until **Census 2027** | Every density/SR/literacy MCQ | ORGI |
-| **NFHS-5** | TFR ~**2.0** nationally | Do not overwrite 2018 NFHS-4 key **2.2** | MoHFW |
-| **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
-| **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
-| **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
-| **11 July** | World Population Day | 2018 Q114 | UN |
 
 ---
 

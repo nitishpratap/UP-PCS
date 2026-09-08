@@ -16,6 +16,45 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **2023** | Li inferred resources **Reasi, J&K**; India import-dependent for **Li, Ni, Co** | Frozen 2023 Q77 | MoM / PYQ |
+| **2023** | Union list of **24 critical minerals** (Li, Ni, Co, REE, graphite, etc.) | Scheme/list trap | Ministry of Mines |
+| **2023–26** | **Critical Minerals Mission** + auction of critical-mineral blocks | Living CA | PIB / MoM |
+| **2015 / 2025** | **ISA**: India+France, HQ **Gurugram**; **not 38 members**; **OSOWOG** under ISA | 2019 Q63 + 2025 Q109 | ISA / MEA |
+| **Jan 2026** | US announced withdrawal from ISA; ISA continues with **120+** members | Member-count trap | MEA / ET |
+| **2018** | Major solar plant **Mirzapur (UP)** with **France** | UP energy PYQ | 2020 Q46 |
+| **DFC** | **Western** Dadri–JNPT; **Eastern** Ludhiana–Dankuni — phased commissioning | Corridor syllabus | DFCCIL |
+| **Nuclear** | Kakrapar / Kudankulam expansion; **Narora = only UP** plant | Plant–state | NPCIL |
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Digboi is oldest, not largest.
+
+**Q. UKPCS Prelims 2025, Q100**
+
+Which is the largest centre of the petrochemical industry in India?
+
+A. Trombay
+B. Jamnagar
+C. Digboi
+D. Vadodara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Jamnagar hosts the largest refining–petrochemical complex. Digboi is oldest but small.
+
+</details>
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. Most of India’s mineral wealth lies **east of the Mangalore–Kanpur line**. The northern plains are almost empty of major ores. **Chota Nagpur** is the richest mineral belt and is often called India’s Ruhr.
@@ -2822,43 +2861,6 @@ D. Only peat of the Ganga delta
 <summary>Show answer</summary>
 
 **Ans: B** — ~80% bituminous non-coking framing in standard notes.
-</details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2023** | Li inferred resources **Reasi, J&K**; India import-dependent for **Li, Ni, Co** | Frozen 2023 Q77 | MoM / PYQ |
-| **2023** | Union list of **24 critical minerals** (Li, Ni, Co, REE, graphite, etc.) | Scheme/list trap | Ministry of Mines |
-| **2023–26** | **Critical Minerals Mission** + auction of critical-mineral blocks | Living CA | PIB / MoM |
-| **2015 / 2025** | **ISA**: India+France, HQ **Gurugram**; **not 38 members**; **OSOWOG** under ISA | 2019 Q63 + 2025 Q109 | ISA / MEA |
-| **Jan 2026** | US announced withdrawal from ISA; ISA continues with **120+** members | Member-count trap | MEA / ET |
-| **2018** | Major solar plant **Mirzapur (UP)** with **France** | UP energy PYQ | 2020 Q46 |
-| **DFC** | **Western** Dadri–JNPT; **Eastern** Ludhiana–Dankuni — phased commissioning | Corridor syllabus | DFCCIL |
-| **Nuclear** | Kakrapar / Kudankulam expansion; **Narora = only UP** plant | Plant–state | NPCIL |
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Digboi is oldest, not largest.
-
-**Q. UKPCS Prelims 2025, Q100**
-
-Which is the largest centre of the petrochemical industry in India?
-
-A. Trombay
-B. Jamnagar
-C. Digboi
-D. Vadodara
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Jamnagar hosts the largest refining–petrochemical complex. Digboi is oldest but small.
-
 </details>
 
 ---

@@ -15,6 +15,37 @@ World Rivers by Continent | Superlatives (longest / discharge / deepest) | Delta
 
 ---
 
+
+## Current Affairs (this topic)
+
+- Static map chapter — no living scheme tag.
+- Lake names / dam names do not need a yearly refresh unless a new “world’s largest” commission is officially keyed.
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Only one of the four North American rivers cut the Arizona canyon.
+
+**Q. UKPCS Prelims 2025, Q94**
+
+The Grand Canyon of the U.S.A. is formed by which river?
+
+A. St. Lawrence
+B. Missouri
+C. Ohio
+D. Colorado
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** The Colorado River cut the Grand Canyon through the Colorado Plateau.
+
+</details>
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
@@ -357,7 +388,6 @@ D. Missouri
 - **St Lawrence Seaway** lets ocean ships reach the **Great Lakes** of North America.
 - **Yangtze** is China's main inland trunk from the interior to the **East China Sea**.
 - **Mississippi** system moves bulk freight from the interior USA to the **Gulf of Mexico**.
-
 
 
 | Waterway | From / to | |
@@ -1778,35 +1808,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A** — Amazon has the **largest** discharge.
-</details>
-
----
-
-## Current Affairs (this topic)
-
-- Static map chapter — no living scheme tag.
-- Lake names / dam names do not need a yearly refresh unless a new “world’s largest” commission is officially keyed.
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Only one of the four North American rivers cut the Arizona canyon.
-
-**Q. UKPCS Prelims 2025, Q94**
-
-The Grand Canyon of the U.S.A. is formed by which river?
-
-A. St. Lawrence
-B. Missouri
-C. Ohio
-D. Colorado
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Series B provisional key).** The Colorado River cut the Grand Canyon through the Colorado Plateau.
-
 </details>
 
 ---

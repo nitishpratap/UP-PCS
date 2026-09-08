@@ -16,6 +16,14 @@ Location factors | Industrial regions | City–industry pairs | Ports / entrepô
 
 ---
 
+
+## Current Affairs (this topic)
+
+None mandatory.
+
+---
+
+
 ## Consolidated — 20 Must-Score Facts
 
 1. City–industry facts: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
@@ -2310,12 +2318,6 @@ D. Montevideo — Argentina
 
 **Ans: D** — Montevideo = **Uruguay**.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-None mandatory.
 
 ---
 

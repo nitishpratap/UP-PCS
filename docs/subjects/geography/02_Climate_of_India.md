@@ -18,6 +18,62 @@
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **2026** | IMD SW monsoon **below normal (~90% of LPA)** | Seasonal rainfall category | IMD LRF Apr/May 2026 |
+| **2026** | ENSO: **neutral → El Niño** during Jun–Sep 2026 | Weak-monsoon tendency | IMD / MMCFS |
+| **2026** | **IOD neutral** (no +IOD offset of El Niño) | Contrast with 2019 +IOD rescue | IMD Jul 2026 |
+| **2026** | Onset over Kerala **4 June** (slightly after normal 1 June) | Onset date trap | USDA / IMD advance |
+| Ongoing | **Mission Mausam** (MoES/IMD) — improved monsoon & severe-weather forecast | Scheme/institution CA | IMD–MHA |
+
+El Niño **tendency** ≠ guaranteed all-India drought — still the 2026 -relevant pairing.
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** A = tropical, w = dry winter — western coastal strip.
+
+**Q. UKPCS Prelims 2025, Q96**
+
+According to Koppen's climatic classification, the (Amw) climate is found predominantly in which part of India?
+
+A. North-Western India
+B. Western coastal region
+C. Thar desert
+D. Northern plain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Amw marks the western coastal strip (and parts of the north-east). Thar is BWhw; northern plain largely Cwg.
+
+</details>
+
+**Logic:** Loo and Kal Baisakhi are northern — southern pre-monsoon is mango shower.
+
+**Q. UKPCS Prelims 2025, Q98**
+
+Which local wind affects some parts of Kerala and Tamil Nadu during the pre-monsoon season?
+
+A. Loo
+B. Mango Shower
+C. Kal Baisakhi
+D. Mistral
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Mango showers help ripen mangoes in Kerala and coastal Tamil Nadu.
+
+</details>
+
+---
+
+
 ## Consolidated — 30 Must-Score Facts
 
 1. India’s climate is **tropical monsoon**, not wholly tropical, because the country stretches into the subtropical north. The Himalaya acts as a winter **wall** against Central Asian cold and forces **orographic** rain on southern slopes in the monsoon.
@@ -2741,60 +2797,6 @@ D. (A) is false, but (R) is true
 <summary>Show answer</summary>
 
 **Ans: A** — NE trades move land → sea and stay dry until they cross the Bay (TN exception). UP RO/ARO 2023 pattern keys both true with R explaining A.
-
-</details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2026** | IMD SW monsoon **below normal (~90% of LPA)** | Seasonal rainfall category | IMD LRF Apr/May 2026 |
-| **2026** | ENSO: **neutral → El Niño** during Jun–Sep 2026 | Weak-monsoon tendency | IMD / MMCFS |
-| **2026** | **IOD neutral** (no +IOD offset of El Niño) | Contrast with 2019 +IOD rescue | IMD Jul 2026 |
-| **2026** | Onset over Kerala **4 June** (slightly after normal 1 June) | Onset date trap | USDA / IMD advance |
-| Ongoing | **Mission Mausam** (MoES/IMD) — improved monsoon & severe-weather forecast | Scheme/institution CA | IMD–MHA |
-
-El Niño **tendency** ≠ guaranteed all-India drought — still the 2026 -relevant pairing.
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** A = tropical, w = dry winter — western coastal strip.
-
-**Q. UKPCS Prelims 2025, Q96**
-
-According to Koppen's climatic classification, the (Amw) climate is found predominantly in which part of India?
-
-A. North-Western India
-B. Western coastal region
-C. Thar desert
-D. Northern plain
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Amw marks the western coastal strip (and parts of the north-east). Thar is BWhw; northern plain largely Cwg.
-
-</details>
-
-**Logic:** Loo and Kal Baisakhi are northern — southern pre-monsoon is mango shower.
-
-**Q. UKPCS Prelims 2025, Q98**
-
-Which local wind affects some parts of Kerala and Tamil Nadu during the pre-monsoon season?
-
-A. Loo
-B. Mango Shower
-C. Kal Baisakhi
-D. Mistral
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Mango showers help ripen mangoes in Kerala and coastal Tamil Nadu.
 
 </details>
 

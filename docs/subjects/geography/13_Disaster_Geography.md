@@ -15,6 +15,24 @@ Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earth
 
 ---
 
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **Mar 2026** | BIS **IS 1893:2025 / Zone VI withdrawn** | Do **not** replace II–V in the hall | The Hindu / BIS |
+| **2015–30** | Sendai Framework | Successor of Hyogo | UNDRR |
+| **2019** | **CDRI** launched by India | Infrastructure + DRR | MEA / NDMA |
+| **2016 / 2019** | NDMP issued / revised | First Sendai-aligned national plan | NDMA |
+| **2023** | Joshimath subsidence; Sikkim GLOF | Landslide / flood CA | NDMA / news |
+| **2021** | Tauktae (Arabian Sea → Gujarat) | “Arabian Sea never hits west coast” trap | IMD |
+| **2020** | Amphan (BoB → WB/Odisha) | Super cyclone east coast | IMD |
+
+Cyclone **formation** numbers. Ring-of-Fire **volcano list**.
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
@@ -1787,22 +1805,6 @@ D. 1, 2 and 3
 
 **Ans: A** — NDMA is chaired by the **Prime Minister**.
 </details>
-
----
-
-## Current Affairs (this topic)
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Mar 2026** | BIS **IS 1893:2025 / Zone VI withdrawn** | Do **not** replace II–V in the hall | The Hindu / BIS |
-| **2015–30** | Sendai Framework | Successor of Hyogo | UNDRR |
-| **2019** | **CDRI** launched by India | Infrastructure + DRR | MEA / NDMA |
-| **2016 / 2019** | NDMP issued / revised | First Sendai-aligned national plan | NDMA |
-| **2023** | Joshimath subsidence; Sikkim GLOF | Landslide / flood CA | NDMA / news |
-| **2021** | Tauktae (Arabian Sea → Gujarat) | “Arabian Sea never hits west coast” trap | IMD |
-| **2020** | Amphan (BoB → WB/Odisha) | Super cyclone east coast | IMD |
-
-Cyclone **formation** numbers. Ring-of-Fire **volcano list**.
 
 ---
 
