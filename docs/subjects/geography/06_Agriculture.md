@@ -10,7 +10,7 @@
 **Revolutions:** Green | White | Blue | Yellow | Golden | Silver | Pink | Rainbow | Evergreen
 </details>
 
-> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra** Agriculture + Irrigation/Canals facts, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra Agriculture CA–195+** + Irrigation/Canals facts, UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — crop triples, ACZ 15, revolutions match, CACP/MSP/FRP, GR personalities, UP cane/potato
 > **Last verified:** August 2026
 > **Current Affairs:** CCEA MSP — **22 mandated crops**; CACP recommends → Cabinet; Kharif 2026–27 common paddy **₹2,441/q**; MSP ≥ **1.5×** cost (Budget 2018–19)
@@ -48,7 +48,7 @@
 13. Sugarcane needs about **21–27°C** and **75–150 cm** rain or irrigation. **Uttar Pradesh leads quantity**; **Maharashtra leads productivity** and cooperatives. Frost and Loo hurt the north; the south is frost-free. Heavy rain lowers sugar; dry stress makes fibre. Price policy is **FRP** (plus SAP), not cereal MSP. Ratoon means a crop from stubble.
 14. Tea is a **plantation** crop needing about **20–30°C**, **150–300 cm** rain, and slopes — Assam, West Bengal, and Nilgiri. Coffee needs shade and is strongest in **Karnataka**, then Kerala and Tamil Nadu.
 15. Rubber needs about **25–35°C** and above **200 cm** rain; the correct state pair is **Kerala**. Pepper and cardamom also concentrate in **Kerala**. World citrus is a Mediterranean specialty.
-16. Potato leadership is with **Uttar Pradesh**. CIP-SARC is at **Agra (Singna)**, not Aligarh. Guava varieties Sultana, Gulabi, and Kali Champa are **guava**, not grapes.
+16. Potato leadership is with **Uttar Pradesh**. CIP-SARC is at **Agra (Singna)**, not Aligarh. **Sultana / Gulabi / Kali Champa:** UPPCS 2018 keyed **guava**; some banks key **grapes** — contested.
 17. Planning Commission agro-climatic zones = **15**; NARP zones about **127**; agro-ecological regions about **20**. The Trans-Gangetic belt is the classic Green Revolution wheat–rice zone.
 18. **CACP recommends** MSP; the **Cabinet decides**. Mandated MSP crops are **22**. Cane uses FRP, not the cereal MSP schedule.
 19. Green Revolution = HYV seed + water + fertiliser (Lerma Rojo, Sonora 64, IR-8) in Punjab–Haryana–western Uttar Pradesh. Costs include groundwater crash, monoculture, millet/pulse neglect, and the stubble window. **BGREI** targets eastern rice systems. Norman Borlaug’s Nobel is for **Peace**.
@@ -87,7 +87,7 @@
 | Kerala rubber vs GJ tea | KL–Rubber **correct**; GJ–Tea / Assam–Wheat **wrong** | Pick GJ tea | रबर = केरल |
 | Ahmedabad vs Mumbai | Ahmedabad in cotton **region**; largest mill centre traditionally **Mumbai** | Ahmedabad = largest centre | कपड़ा केंद्र = मुंबई |
 | Potato CIP | **Agra (Singna)** | Aligarh | आलू केंद्र = आगरा |
-| Guava vs grapes | Sultana/Gulabi/Kali Champa = **guava** | Grapes (Sultana name) | अमरूद किस्में |
+| Guava vs grapes | **Sultana / Gulabi / Kali Champa:** UPPCS 2018 keyed **guava**; some banks key **grapes** | Treat as contested | अमरूद/अंगूर विवाद |
 | Azolla vs pesticide | Azolla = **biofertiliser** in rice | Insecticide | एजोला = जैव उर्वरक |
 | 15 vs 127 vs 20 | ACZ **15** / NARP **~127** / AER **~20** | Mix counts | 15 कृषि-जलवायु |
 | Sen vs Swaminathan | Food **entitlements** = Amartya Sen | Swaminathan | सेन = एंटाइटलमेंट |
@@ -151,7 +151,7 @@ India’s land-use reporting (NCERT / Ministry framing) splits reported area int
 | Wetland / irrigated farming | Standing water or assured canal/tube-well (rice, cane) |
 | Contract farming | **Punjab** is the classic pioneer state in India |
 
-- Agriculture still engages about **half or more** of India’s workforce and contributes under **one-fifth** of GVA (Economic Survey framing — remember the direction, not a frozen year).
+- Agriculture still engages about **half or more** of India’s workforce (~**54.6%** in Economic Survey **2021–22** / Census 2011 framing) and contributes under **one-fifth** of GVA (~**18.8%** GVA, 2021–22 1st AE coaching lock). Remember the direction, not a frozen year.
 - Indian agriculture is marked by over-dependence on nature, low productivity, crop diversity, and **predominance of small holdings** — not large farms.
 - Low productivity causes: population pressure on land, small holdings, traditional practices, and disguised unemployment. **Cooperative farming** is a remedy, not a cause.
 - **Sikkim** has under **10%** land available for agriculture (forest hill state). UP, Punjab and Haryana are major grain states; **UP** often leads total foodgrain volume.
@@ -452,7 +452,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - Temperate hills: apple (J&K, HP, Uttarakhand).
 - World citrus belt = **Mediterranean**.
 - India’s orange fame = **Nagpur**.
-- **Guava varieties:** Sultana, Gulabi, Kali Champa (2018) — **not grapes**.
+- **Guava varieties:** Lalit / Banarsi (improved). **Sultana, Gulabi, Kali Champa:** UPPCS **2018** keyed **guava**; Ghatnachakra keys **grapes** — treat as contested; prefer the official paper key for that year.
 - **Potato:** UP is the **leading producer**.
 - CIP South Asia Regional Centre is at **Singna, Agra** — **not Aligarh** (2025 Q34 Only 1).
 - Best processing potato varieties: **Kufri Chipsona-2** / Chipsona-3 (plains); **Kufri Himsona** (hills).
@@ -1240,6 +1240,1782 @@ D. Only 1
 <details><summary>Show answer</summary>
 
 **Ans: B** — **Amartya Sen** only. Swaminathan is GR/Evergreen — not the entitlements approach.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Agriculture (UPPCS / UKPCS / standard)
+
+Older agriculture stems from Ghatnachakra CA–195 onward. Teaching locks live in N.1–N.11. No Logic lines.
+
+**Q-GC1. IAS Prelims 2013**
+
+Which of the following statements is/are correct about **permaculture**?
+
+1. It discourages monoculture.
+2. It emphasises mulching and organic matter.
+3. It is not easily possible in semi-arid regions.
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Permaculture resists monoculture and stresses mulching; the claim that it is not workable in semi-arid settings is false.
+
+</details>
+
+**Q-GC2. UPPCS / standard**
+
+Zero tillage in the rice–wheat belt mainly helps by
+
+A. forcing stubble burning before every wheat sowing
+
+B. allowing wheat sowing without burning previous crop residue
+
+C. banning all irrigation in rabi
+
+D. replacing wheat with only zaid melons
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Zero tillage supports residue retention and carbon sequestration; wheat can be sown without burning straw.
+
+</details>
+
+**Q-GC3. IAS Prelims / standard**
+
+With reference to **fertigation**, which statement is correct?
+
+A. Rock phosphate and superphosphate are ideal fertigation sources
+
+B. Fertigation dissolves fertiliser in irrigation water, usually via drip
+
+C. Fertigation always increases soil alkalinity without control
+
+D. Fertigation is used only in rainfed millets
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Fertigation feeds nutrients through irrigation water. Rock / super phosphate is a poor choice because of precipitation.
+
+</details>
+
+**Q-GC4. IAS Prelims 2014-type**
+
+Which of the following is/are considered eco-friendly agricultural practice(s)?
+
+1. Crop diversification
+2. Legume intensification
+3. Use of tensiometers for irrigation scheduling
+4. Vertical farming
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+
+B. 1, 2 and 3 only
+
+C. 2, 3 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four appear in standard eco-friendly agri practice sets.
+
+</details>
+
+**Q-GC5. UPPCS / standard**
+
+Who wrote *History of Indian Agriculture*?
+
+A. M.S. Swaminathan
+
+B. Verghese Kurien
+
+C. Norman Borlaug
+
+D. M.S. Randhawa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** M.S. Randhawa authored *History of Indian Agriculture*. Swaminathan is the Green / Evergreen face, not this book’s author.
+
+</details>
+
+**Q-GC6. CGPCS / standard**
+
+Consider the following statements:
+
+1. India has 20 agro-climatic zones and 15 agro-ecological regions.
+2. Planning Commission agro-climatic zones number 15.
+3. NBSS&LUP agro-ecological regions number about 20.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 swaps the counts. Correct pair is ACZ **15** and AER **~20**.
+
+</details>
+
+**Q-GC7. UPPCS / standard**
+
+P. Sengupta and G. Sdasyuk (1968) divided India into how many micro agricultural regions?
+
+A. 15
+
+B. 20
+
+C. 60
+
+D. 127
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Their Registrar General monograph used **60** micro agricultural regions. Do not confuse with ACZ 15 or AER 20.
+
+</details>
+
+**Q-GC8. IAS Prelims / standard**
+
+Seed Replacement Rate is constrained mainly because of
+
+A. a demand–supply gap for quality seed in low-value, high-volume crops
+
+B. a complete ban on private seed firms in India
+
+C. absence of any National Seeds Policy
+
+D. farmers being forbidden to buy seed
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Quality seed shortfalls hit low-value, high-volume crops hardest. India has a National Seeds Policy (2002).
+
+</details>
+
+**Q-GC9. UPPCS / UKPCS standard**
+
+India’s first agricultural university was established at Pantnagar in
+
+A. 1950
+
+B. 1960
+
+C. 1970
+
+D. 1980
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Uttar Pradesh Agricultural University (later GBPUAT, Pantnagar) was inaugurated by Nehru on **17 November 1960**.
+
+</details>
+
+**Q-GC10. FAO / standard**
+
+For safe grain storage, FAO guidance commonly cites moisture not exceeding about
+
+A. 8%
+
+B. 14%
+
+C. 18%
+
+D. 22%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Safe storage moisture for grain is taught as not more than about **14%**.
+
+</details>
+
+**Q-GC11. IAS Prelims 2010-type**
+
+Which of the following is the closest land-use share pattern taught for India (net sown / forest / other)?
+
+A. 23% / 47% / 30%
+
+B. 47% / 23% / 30%
+
+C. 30% / 47% / 23%
+
+D. 60% / 20% / 20%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ballpark Ministry framing: net sown about **45–47%**, forest about **23%**, other about **30–31%**.
+
+</details>
+
+**Q-GC12. UPPCS / standard**
+
+Mixed farming correctly means
+
+A. growing two crops in the same year only
+
+B. growing crops and livestock together
+
+C. growing only plantation tea
+
+D. leaving land fallow for two years
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mixed farming = crops **plus** livestock. Two crops in one year is double cropping.
+
+</details>
+
+**Q-GC13. UPPCS / standard**
+
+Double cropping means
+
+A. two crops grown at the same time in the same rows only
+
+B. two or more crops in one crop year on the same land
+
+C. only ratoon cane forever
+
+D. only jhum fallow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Double cropping is sequential sowings in **one year** on the same land — not the same as intercropping.
+
+</details>
+
+**Q-GC14. UPPCS / standard**
+
+A classic example of **parallel cropping** is
+
+A. wheat + mustard
+
+B. potato + rice as the only correct pair
+
+C. tea + wheat in Punjab
+
+D. jute + rubber
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Wheat + mustard** is the classic parallel pair — crops in parallel that do not compete hard for nutrients.
+
+</details>
+
+**Q-GC15. UPPCS / standard**
+
+Assertion (A): Punjab is the pioneer state for contract farming in India.
+Reason (R): Sikkim has less than 10% of its land available for agriculture.
+
+Select the correct answer:
+
+A. Both (A) and (R) are true and (R) explains (A)
+
+B. Both (A) and (R) are true but (R) does not explain (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both facts are true. Punjab pioneered contract farming; Sikkim’s low cultivable share does not explain that.
+
+</details>
+
+**Q-GC16. UPPCS / standard**
+
+Which of the following is **NOT** a cause of low agricultural productivity in India?
+
+A. Population pressure on land
+
+B. Predominance of small holdings
+
+C. Traditional practices and disguised unemployment
+
+D. Cooperative farming
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Cooperative farming** is a remedy, not a cause of low productivity.
+
+</details>
+
+**Q-GC17. Agriculture Census / standard**
+
+Among major states, the average size of operational holdings is often largest in
+
+A. Kerala
+
+B. Bihar
+
+C. Rajasthan
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Rajasthan** often leads average operational holding size among major states.
+
+</details>
+
+**Q-GC18. IAS Prelims / standard**
+
+About what share of India’s pulse area is classically rainfed?
+
+A. About 10%
+
+B. About 40%
+
+C. About 90%
+
+D. Almost nil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** About **90%** of pulse area is taught as rainfed.
+
+</details>
+
+**Q-GC19. UPPCS / standard**
+
+Among common green manure options, which has the highest nitrogen percentage?
+
+A. Dhaincha
+
+B. Sunhemp
+
+C. Cowpea
+
+D. Guar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cowpea is taught at about **0.49%** N — highest among the usual options. Sunhemp may still return more kg N/ha.
+
+</details>
+
+**Q-GC20. UPPCS / standard**
+
+**Lobia** (cowpea) as green manure is preferred especially on
+
+A. newly improved arid land
+
+B. waterlogged jute deltas only
+
+C. apple orchards of Himachal only
+
+D. rubber estates of Kerala only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Lobia is preferred green manure on newly improved **arid** land.
+
+</details>
+
+**Q-GC21. UPPCS / standard**
+
+Balanced fertiliser use is important because it
+
+A. only raises short-run yield and then ruins soil forever
+
+B. raises production, improves grain quality, and maintains soil productivity
+
+C. replaces the need for any organic matter
+
+D. works only on plantation rubber
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Balanced nutrients support yield, quality, and soil productivity together.
+
+</details>
+
+**Q-GC22. UPPCS / standard**
+
+Among major state options, which leads absolute tubewell / well irrigated area and replenishable groundwater for irrigation?
+
+A. Rajasthan
+
+B. Uttar Pradesh
+
+C. Kerala
+
+D. Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Uttar Pradesh** leads absolute groundwater irrigation volume among major states (~40.7 bcm framing).
+
+</details>
+
+**Q-GC23. UPPCS / standard**
+
+In UPPCS wording, **green agriculture** means
+
+A. only growing green vegetables
+
+B. integrated pest management + integrated nutrient supply + integrated natural resource management
+
+C. banning all livestock
+
+D. only plantation coffee
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Green agriculture = IPM + integrated nutrient supply + integrated natural resource management.
+
+</details>
+
+**Q-GC24. UPPCS / standard**
+
+The Seed Village Concept correctly means
+
+A. farmers must never buy seed
+
+B. trained farmer groups produce quality seed for self-use and neighbours at the right time and affordable cost
+
+C. whole villages are reserved only for certified-seed companies
+
+D. only urban entrepreneurs get seed finance
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Seed Village trains local groups to produce and supply affordable quality seed — not a ban on buying seed.
+
+</details>
+
+**Q-GC25. UPPCS / standard**
+
+Agmark is a quality certification mark under the Agricultural Produce (Grading and Marking) Act of
+
+A. 1927
+
+B. 1937
+
+C. 1955
+
+D. 1966
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Agmark rests on the **1937** Act. It is not an egg cooperative.
+
+</details>
+
+**Q-GC26. Agriculture Census 2015–16**
+
+In the Agriculture Census holding-size classes, a **marginal** holding is
+
+A. less than 1 hectare
+
+B. 1–2 hectares
+
+C. 2–4 hectares
+
+D. more than 10 hectares
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Marginal < 1 ha**; small 1–2 ha; semi-medium 2–4 ha; medium 4–10 ha; large > 10 ha.
+
+</details>
+
+**Q-GC27. IAS Prelims / standard**
+
+Conservation agriculture’s core package is
+
+A. ban on all plantation crops
+
+B. minimum / zero tillage + residue mulch + crop rotation / sequencing
+
+C. only calendar pesticide sprays
+
+D. only deep ploughing every season
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Conservation agri = min/zero till + residue cover + rotation — not “ban plantation crops.”
+
+</details>
+
+**Q-GC28. Agriculture Census 2015–16**
+
+As per Agriculture Census 2015–16 framing, small + marginal farmers are about
+
+A. 26% of farmers owning 86% of area
+
+B. 86% of farmers operating about 47% of area
+
+C. 50% of farmers operating 90% of area
+
+D. 10% of farmers operating 10% of area
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Small + marginal ≈ **86.2%** of farmers but only about **47%** of operated area.
+
+</details>
+
+**Q-GC29. UPPCS / standard**
+
+Certified seed in India’s seed chain is associated with which tag colour?
+
+A. Golden yellow
+
+B. White
+
+C. Blue
+
+D. Red
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Breeder = golden yellow; Foundation = white; **Certified = blue**.
+
+</details>
+
+**Q-GC30. UPPCS / standard**
+
+The Zero Till Seed-cum-Fertilizer Drill was developed at
+
+A. IARI Pusa only
+
+B. G.B. Pant University, Pantnagar
+
+C. Coffee Board, Bengaluru
+
+D. Rubber Board, Kottayam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** National Zero Till Seed-cum-Fertilizer Drill → **Pantnagar**.
+
+</details>
+
+**Q-GC31. UPPCS / standard**
+
+Norman Borlaug, associated with HYV wheat, received the Nobel Prize for
+
+A. Agriculture
+
+B. Chemistry
+
+C. Peace
+
+D. Economics
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Borlaug’s Nobel is for **Peace**, not Agriculture.
+
+</details>
+
+**Q-GC32. UPPCS / standard**
+
+Who is regarded as the face of the Green Revolution in India and of the Evergreen Revolution idea?
+
+A. Verghese Kurien
+
+B. M.S. Swaminathan
+
+C. Hiralal Chaudhuri
+
+D. Amartya Sen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **M.S. Swaminathan** = GR in India and Evergreen Revolution. Kurien = White / milk.
+
+</details>
+
+**Q-GC33. UPPCS / standard**
+
+The Evergreen Revolution means
+
+A. endless chemical monoculture only
+
+B. high productivity without ecological harm
+
+C. only blue fisheries
+
+D. only petroleum exploration
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Evergreen (Swaminathan) = high productivity **without** ecological harm.
+
+</details>
+
+**Q-GC34. UPPCS / standard**
+
+The first phase of India’s Green Revolution mainly benefited which crop?
+
+A. Jute
+
+B. Wheat
+
+C. Rubber
+
+D. Coffee
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** GR began as a **wheat** revolution (Mexican HYVs), then expanded to rice.
+
+</details>
+
+**Q-GC35. UPPCS / standard**
+
+Classic Mexican wheat varieties linked to India’s Green Revolution include
+
+A. IR-8 and Padma only
+
+B. Lerma Rojo and Sonora 64
+
+C. Co. 1148 only
+
+D. Pusa RH-10 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lerma Rojo / Sonora 64** from CIMMYT powered early wheat HYV gains. IR-8 is rice.
+
+</details>
+
+**Q-GC36. UPPCS / standard**
+
+The Second Green Revolution aim is best described as
+
+A. only more wheat–rice in already-benefited Punjab belts
+
+B. extending seed–water–fertiliser to left-out areas and integrating crops with animal husbandry, social forestry and fishing
+
+C. banning all irrigation
+
+D. replacing foodgrains with only jute
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Second GR widens technology to left-out regions and integrates farming systems — not only more monoculture wheat–rice.
+
+</details>
+
+**Q-GC37. UPPCS / standard**
+
+Rainbow Revolution entered India’s National Agricultural Policy as an integrated package in
+
+A. 1966
+
+B. 1985
+
+C. 2000
+
+D. 2015
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Rainbow Revolution is tagged to the National Agricultural Policy of **28 July 2000**.
+
+</details>
+
+**Q-GC38. UPPCS Prelims 2022-type**
+
+Match the following revolutions with sectors:
+
+| List-I | List-II |
+| --- | --- |
+| A. Golden | 1. Oilseeds |
+| B. Grey | 2. Horticulture and honey |
+| C. Yellow | 3. Petroleum |
+| D. Black | 4. Fertilisers |
+
+*Row order is not the answer code.*
+
+A. A-2, B-4, C-1, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-4, D-3
+
+D. A-4, B-2, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Golden = horticulture **and honey**; Grey = fertilisers; Yellow = oilseeds; Black = petroleum.
+
+</details>
+
+**Q-GC39. UPPCS / standard**
+
+Which colour revolution is correctly matched?
+
+A. Blue — poultry
+
+B. Silver — fisheries
+
+C. Yellow — oilseeds
+
+D. Pink — fertilisers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Yellow = oilseeds**. Blue = fisheries; Silver = eggs/poultry.
+
+</details>
+
+**Q-GC40. UPPCS / standard**
+
+Blue Revolution is associated with
+
+A. poultry eggs only
+
+B. fisheries / aquaculture
+
+C. petroleum
+
+D. fertilisers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Blue = **fisheries / pisciculture** (Hiralal Chaudhuri often tagged). Not poultry.
+
+</details>
+
+**Q-GC41. UPPCS / standard**
+
+White Revolution / Operation Flood is associated with
+
+A. M.S. Swaminathan
+
+B. Verghese Kurien
+
+C. Norman Borlaug
+
+D. Amartya Sen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Verghese Kurien** = White Revolution / NDDB / Amul. Swaminathan is not the milk face.
+
+</details>
+
+**Q-GC42. UPPCS / standard**
+
+Wheat varieties frequently asked with Green Revolution India include
+
+A. Arjun and Sonalika
+
+B. Co. 1148 and Adsali only
+
+C. Pusa RH-10 only
+
+D. Mahi Sugandha only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Arjun** and **Sonalika** (with Kalyan Sona / Sonora-64) are classic wheat variety names.
+
+</details>
+
+**Q-GC43. UPPCS / standard**
+
+**Triticale** is a hybrid of
+
+A. wheat and rye
+
+B. rice and maize
+
+C. cotton and jute
+
+D. tea and coffee
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Triticale = **wheat × rye**.
+
+</details>
+
+**Q-GC44. UPPCS / standard**
+
+Karnal bunt of wheat is caused by
+
+A. a bacterium
+
+B. a fungus (*Tilletia indica*)
+
+C. zinc deficiency only
+
+D. an insect named Sahu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Karnal bunt is fungal (*Tilletia indica*), first noted **1931**.
+
+</details>
+
+**Q-GC45. UPPCS / standard**
+
+Which statement about wheat climate is most correct?
+
+A. High heat and heavy rain throughout the season
+
+B. Cool growing weather and brighter / warmer ripening with about 50–75 cm rain or irrigation
+
+C. Only frost-loving Himalayan alpine conditions
+
+D. Standing water like puddled rice all season
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Wheat needs cool growth, bright ripening, and moderate moisture / irrigation on well-drained loam.
+
+</details>
+
+**Q-GC46. UPPCS / standard**
+
+Among foodgrains, which crop covers the largest cropped area in India?
+
+A. Wheat
+
+B. Rice
+
+C. Gram
+
+D. Maize
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Rice** covers the largest cropped area among foodgrains.
+
+</details>
+
+**Q-GC47. UPPCS / standard**
+
+The classic “Rice Bowl of India” tag is for
+
+A. Krishna–Godavari delta
+
+B. Thar Desert
+
+C. Ladakh cold desert
+
+D. Western Ghats coffee belt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Krishna–Godavari delta** (Andhra Pradesh) is the classic Rice Bowl tag.
+
+</details>
+
+**Q-GC48. UPPCS / standard**
+
+Which state is the usual **yield** leader in rice among major options?
+
+A. Assam always
+
+B. Punjab
+
+C. Rajasthan
+
+D. Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Punjab** leads rice **yield** (full irrigation). West Bengal often leads volume.
+
+</details>
+
+**Q-GC49. UPPCS / standard**
+
+Blue-green algae (BGA) in flooded rice fields act as
+
+A. insecticides only
+
+B. biofertilisers fixing atmospheric nitrogen
+
+C. petroleum catalysts
+
+D. ratoon cane starters
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** BGA (with Azolla–Anabaena) are rice **biofertilisers**, not insecticides.
+
+</details>
+
+**Q-GC50. UPPCS / standard**
+
+Uttar Pradesh is often the leading state in
+
+A. rubber production
+
+B. total foodgrain volume
+
+C. tea volume
+
+D. coffee volume
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **UP** often leads total **foodgrain** volume among states.
+
+</details>
+
+**Q-GC51. UPPCS / standard**
+
+Cotton requires approximately how many frost-free days?
+
+A. 90
+
+B. 120
+
+C. 210
+
+D. 365
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cotton needs about **210 frost-free days**; hard frost kills the crop.
+
+</details>
+
+**Q-GC52. UPPCS / standard**
+
+Among major cotton states, which is a core volume state of the central black-soil belt?
+
+A. Himachal Pradesh
+
+B. Gujarat
+
+C. Sikkim
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Gujarat** (with Maharashtra / Madhya Pradesh) sits in the central cotton volume core.
+
+</details>
+
+**Q-GC53. UPPCS / standard**
+
+Which statement about Indian cotton is correct?
+
+A. India never grew hybrid cotton commercially first
+
+B. India was first to commercialise hybrid cotton
+
+C. Cotton fibre comes from the root only
+
+D. Cotton is only a rabi crop
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** India was first to commercialise **hybrid cotton**. Cotton is **kharif**; fibre is from the seed.
+
+</details>
+
+**Q-GC54. UPPCS / standard**
+
+India’s classic “Sugar Bowl” (quantity) is
+
+A. Kerala
+
+B. Uttar Pradesh
+
+C. Assam
+
+D. Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Uttar Pradesh** = Sugar Bowl by quantity; Maharashtra often leads productivity.
+
+</details>
+
+**Q-GC55. UPPCS / standard**
+
+India’s first sugar mill is tagged at Pratappur (Deoria, UP) in
+
+A. 1857
+
+B. 1903
+
+C. 1947
+
+D. 1966
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** First sugar mill: **Pratappur, 1903**.
+
+</details>
+
+**Q-GC56. UPPCS / standard**
+
+The Sugarcane Breeding Institute is located at
+
+A. Lucknow only
+
+B. Coimbatore
+
+C. Kolkata
+
+D. Kottayam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Classic cane breeding HQ is **Coimbatore** (ICAR; key variety Co. 1148).
+
+</details>
+
+**Q-GC57. UPPCS / standard**
+
+Yellow Revolution is associated with
+
+A. horticulture and honey
+
+B. oilseeds
+
+C. fisheries
+
+D. eggs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Yellow = oilseeds**. Golden = horticulture and honey.
+
+</details>
+
+**Q-GC58. UPPCS / standard**
+
+Match oilseed / pulse leaders:
+
+| List-I | List-II |
+| --- | --- |
+| A. Soybean | 1. Gujarat |
+| B. Groundnut | 2. Madhya Pradesh |
+| C. Mustard | 3. Rajasthan |
+| D. Gram (often) | 4. Madhya Pradesh (leader belt) |
+
+*Row order is not the answer code.*
+
+Which pairing set is best?
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-4, D-3
+
+C. A-3, B-1, C-2, D-4
+
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Soybean → MP; Groundnut → Gujarat; Mustard → Rajasthan; gram belt often MP.
+
+</details>
+
+**Q-GC59. UPPCS / standard**
+
+Madhya Pradesh is classically strongest among states for
+
+A. rubber and tea together
+
+B. soybean and a major pulse / gram belt
+
+C. Assam-style tea only
+
+D. Kerala spices only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **MP** leads soybean area/production lore and is a major pulse / gram state.
+
+</details>
+
+**Q-GC60. UPPCS / standard**
+
+Karnataka is correctly paired with
+
+A. mulberry silk leadership and coffee leadership
+
+B. muga silk and Assam tea only
+
+C. rubber Board HQ at Kottayam only as a Karnataka fact
+
+D. jute mills on the Hugli
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Karnataka** leads mulberry silk and coffee (KA > KL > TN).
+
+</details>
+
+**Q-GC61. UPPCS Prelims 2022-type**
+
+Which is correctly matched?
+
+A. Gujarat — Tea
+
+B. Uttar Pradesh — Jute
+
+C. Kerala — Rubber
+
+D. Assam — Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kerala–Rubber** is the only correct pair in that trap set.
+
+</details>
+
+**Q-GC62. UPPCS / standard**
+
+Assam is India’s classic volume leader for
+
+A. wheat
+
+B. tea
+
+C. cotton ELS only
+
+D. soybean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Assam** leads tea volume; Assam–Wheat is a wrong pair.
+
+</details>
+
+**Q-GC63. UPPCS / standard**
+
+Kerala is correctly famous for
+
+A. rubber and spices (pepper / cardamom belt)
+
+B. largest wheat area
+
+C. largest jute mills
+
+D. cold-desert saffron only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Kerala** = rubber + Garden of Spices (pepper / cardamom).
+
+</details>
+
+**Q-GC64. UPPCS / standard**
+
+Match shifting cultivation names:
+
+| List-I | List-II |
+| --- | --- |
+| A. Jhum | 1. Western Ghats |
+| B. Kumari | 2. North-East India |
+| C. Waltre | 3. Madhya Pradesh–Chhattisgarh |
+| D. Dahiya | 4. South-East Rajasthan |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-4, C-1, D-3
+
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Jhum → NE; Kumari → Western Ghats; Waltre → SE Rajasthan; Dahiya → MP–CG.
+
+</details>
+
+**Q-GC65. UPPCS / standard**
+
+Match Boards with Headquarters:
+
+| List-I (Board) | List-II (HQ) |
+| --- | --- |
+| A. Coffee Board | 1. Kottayam |
+| B. Rubber Board | 2. Bengaluru |
+| C. Tea Board | 3. Guntur |
+| D. Tobacco Board | 4. Kolkata |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-4, C-1, D-3
+
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Coffee → Bengaluru; Rubber → Kottayam; Tea → Kolkata; Tobacco → Guntur.
+
+</details>
+
+**Q-GC66. UPPCS / standard**
+
+Sikkim is famous in Indian agriculture as
+
+A. the largest wheat state
+
+B. the first fully organic state
+
+C. the Sugar Bowl
+
+D. the Cotton White Gold belt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sikkim** was declared the first fully organic state (**2016** framing).
+
+</details>
+
+**Q-GC67. UPPCS / standard**
+
+Rice climate is best summarised as
+
+A. cool dry rabi only
+
+B. hot–wet (or irrigation) on clayey alluvium with standing water typical
+
+C. frost-free desert only
+
+D. Mediterranean winter rain only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rice wants heat + moisture (or irrigation) on puddling clayey soils.
+
+</details>
+
+**Q-GC68. UPPCS / standard**
+
+Wheat is mainly a
+
+A. kharif crop
+
+B. rabi crop
+
+C. only zaid melon
+
+D. plantation perennial
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Wheat = **rabi**. Cotton and rice (north) = **kharif**.
+
+</details>
+
+**Q-GC69. UPPCS / standard**
+
+Cotton is mainly a
+
+A. rabi cereal
+
+B. kharif fibre crop
+
+C. zaid melon
+
+D. temperate apple
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cotton = **kharif** fibre (~6–8 months), not rabi.
+
+</details>
+
+**Q-GC70. UPPCS / standard**
+
+Among major wheat producers, which state is often the top producer?
+
+A. Assam
+
+B. Uttar Pradesh
+
+C. Kerala
+
+D. Meghalaya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **UP** is the classic top wheat producer; Assam–Wheat is wrong.
+
+</details>
+
+**Q-GC71. UPPCS / standard**
+
+Seed chain purity order is
+
+A. Certified → Foundation → Breeder
+
+B. Breeder → Foundation → Certified
+
+C. Foundation → Certified → Breeder
+
+D. Breeder → Certified → Foundation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Purity downhill: **Breeder → Foundation → Certified**.
+
+</details>
+
+**Q-GC72. UPPCS / standard**
+
+Which fertiliser form is a poor choice for fertigation?
+
+A. Fully water-soluble N sources taught as suitable
+
+B. Rock phosphate / superphosphate
+
+C. Compatible drip-grade nutrients
+
+D. Carefully managed soluble fertilisers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Avoid **rock / super phosphate** in fertigation (precipitation).
+
+</details>
+
+**Q-GC73. UPPCS / standard**
+
+Eco-friendly agri practice sets often include use of
+
+A. only calendar sprays with no soil tests
+
+B. tensiometers for irrigation scheduling
+
+C. forced stubble burning every year
+
+D. monoculture forever
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tensiometers**, diversification, legumes, and vertical farming appear in eco-friendly sets.
+
+</details>
+
+**Q-GC74. UPPCS / standard**
+
+India’s Green Revolution heartland is
+
+A. only Kerala and Assam plantation belts
+
+B. Punjab, Haryana and western Uttar Pradesh
+
+C. only Rajasthan desert without irrigation
+
+D. only Andaman islands
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** GR heartland = **Punjab–Haryana–western UP**.
+
+</details>
+
+**Q-GC75. UPPCS / standard**
+
+Amartya Sen’s food thesis is about
+
+A. HYV wheat breeding
+
+B. food entitlements
+
+C. Operation Flood dairy coops
+
+D. Mexican wheat imports only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Amartya Sen = food **entitlements** — not Swaminathan’s breeding story.
+
+</details>
+
+**Q-GC76. UPPCS / standard**
+
+Which statement about Indian agriculture features is correct?
+
+A. Predominance of large capitalist farms only
+
+B. Predominance of small holdings with over-dependence on nature and low productivity
+
+C. Zero role of monsoon
+
+D. No crop diversity
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Indian agriculture is marked by small holdings, nature dependence, low productivity, and crop diversity.
+
+</details>
+
+**Q-GC77. UPPCS / standard**
+
+Cropping intensity is correctly expressed as
+
+A. NSA / GCA × 100
+
+B. GCA / NSA × 100
+
+C. Forest / NSA only
+
+D. GCA − NSA only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Intensity = **GCA ÷ NSA × 100**.
+
+</details>
+
+**Q-GC78. UPPCS / standard**
+
+Net sown area (NSA) means
+
+A. land sown at least once in the year, counted once
+
+B. every sowing counted separately
+
+C. only forest land
+
+D. only barren rock
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **NSA** counts a plot once even if multi-cropped; **GCA** counts every sowing.
+
+</details>
+
+**Q-GC79. UPPCS / standard**
+
+About what share of irrigated area is watered by groundwater (wells + tubewells) in recent coaching framing?
+
+A. About one-tenth
+
+B. About two-thirds (~64%)
+
+C. Almost 100% canals only
+
+D. Zero
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Groundwater covers about **two-thirds** (~64%) of irrigated area; canals ~23%.
+
+</details>
+
+**Q-GC80. UPPCS / standard**
+
+UP’s net irrigated share is dominated by
+
+A. tanks
+
+B. tubewells
+
+C. only drip from the start
+
+D. only inundation canals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** UP irrigation is tubewell-heavy (~**74.6%** tubewell in 2018–19 coaching).
+
+</details>
+
+**Q-GC81. UPPCS / standard**
+
+Sunhemp among green manures is often noted for
+
+A. lowest N% and lowest kg N/ha
+
+B. maximum kg N returned per hectare even if cowpea N% is higher
+
+C. being a wheat disease
+
+D. being a coffee variety
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cowpea leads **N%**; sunhemp often returns the **maximum kg N/ha**.
+
+</details>
+
+**Q-GC82. UPPCS / standard**
+
+Fertiliser **total tonnage** leadership among states is often with
+
+A. Goa
+
+B. Uttar Pradesh
+
+C. Sikkim
+
+D. Lakshadweep
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **UP** leads fertiliser tonnage; Punjab/Haryana lead intensity (kg/ha).
+
+</details>
+
+**Q-GC83. UPPCS / standard**
+
+Which is **NOT** part of conservation agriculture’s core?
+
+A. Minimum / zero tillage
+
+B. Residue mulch on the soil
+
+C. Crop rotation / sequencing
+
+D. Ban on all plantation crops
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** “Ban plantation crops” is the false add-on — not part of conservation agri.
+
+</details>
+
+**Q-GC84. UPPCS / standard**
+
+Hybrid Basmati rice variety often asked is
+
+A. Co. 1148
+
+B. Pusa RH-10
+
+C. Lerma Rojo
+
+D. UPAS-120
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Pusa RH-10** is hybrid Basmati. UPAS-120 is arhar for wheat double-crop.
+
+</details>
+
+**Q-GC85. UPPCS / standard**
+
+Dee-gee-woo-gen is associated with
+
+A. wheat dwarfing only
+
+B. rice dwarfing gene
+
+C. cotton ELS only
+
+D. rubber latex
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dee-gee-woo-gen** = rice dwarfing gene; wheat’s is **Norin-10**.
+
+</details>
+
+**Q-GC86. UPPCS / standard**
+
+Macaroni wheat (*Triticum durum*) suits
+
+A. flooded jute deltas only
+
+B. rainfed / dry conditions
+
+C. rubber estates
+
+D. tea nurseries
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Durum / macaroni wheat suits **rainfed / dry** tracts.
+
+</details>
+
+**Q-GC87. UPPCS / standard**
+
+Most critical irrigation stage for wheat is often taught as
+
+A. only flowering
+
+B. crown root initiation (CRI)
+
+C. only harvest day
+
+D. only zaid sowing
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **CRI (crown root initiation)** is the classic critical irrigation stage for wheat.
+
+</details>
+
+**Q-GC88. UPPCS / standard**
+
+India grows how many recognised cotton species (arboreum, herbaceum, hirsutum, barbadense)?
+
+A. Only one
+
+B. Two
+
+C. Three
+
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** India is taught as growing **all four** cotton species; bulk is *hirsutum* / Bt.
+
+</details>
+
+**Q-GC89. UPPCS / standard**
+
+Sustainable Sugarcane Initiative (SSI) is associated with
+
+A. WWF–ICRISAT, 2009
+
+B. only Coffee Board 1937
+
+C. only Tea Board Kolkata
+
+D. Borlaug Peace Prize alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** SSI = **WWF–ICRISAT, 2009** — fewer seeds, nursery seedlings, wider spacing, drip-friendly.
+
+</details>
+
+**Q-GC90. UPPCS / standard**
+
+Spices Board headquarters is at
+
+A. Bengaluru
+
+B. Kolkata
+
+C. Kochi
+
+D. Guntur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Spices Board → **Kochi**. Coffee Bengaluru; Tea Kolkata; Rubber Kottayam; Tobacco Guntur.
+
 </details>
 
 ---
@@ -2639,7 +4415,7 @@ Reason (R): Sikkim has less than 10% of its land available for agriculture.
 8. **Ahmedabad = India’s largest cotton textile centre** — FALSE. In cotton *region* yes; largest mill centre traditionally **Mumbai**.
 9. **Maharashtra coops explain UP’s lower cane yield** — FALSE. Both facts true; R does **not** explain A (2019).
 10. **CIP potato centre = Aligarh** — FALSE. **Agra (Singna)**; UP is potato leader.
-11. **Sultana/Gulabi/Kali Champa = grapes** — FALSE. **Guava** (2018).
+11. **Sultana/Gulabi/Kali Champa = grapes only** — Contested. UPPCS **2018** keyed **guava**; Ghatnachakra keys **grapes** — prefer the official paper key for that year.
 12. **ACZ = 127 or 20** — FALSE. Planning ACZ = **15**; NARP ~127; AER ~20.
 13. **Azolla = insecticide** — FALSE. **Biofertiliser** in flooded rice (2023).
 14. **Food entitlements = Swaminathan** — FALSE. **Amartya Sen**.
@@ -2663,3 +4439,5 @@ Reason (R): Sikkim has less than 10% of its land available for agriculture.
 32. **Coffee Board HQ = Hyderabad** — FALSE. **Bengaluru**.
 33. **Contract farming pioneer = Haryana** — FALSE. Classic pioneer is **Punjab**.
 34. **FAO safe grain moisture = 18%** — FALSE. About **14%**.
+35. **Seed Village = ban buying seed** — FALSE. It trains farmers to produce quality seed for self-use and neighbours at affordable cost.
+
