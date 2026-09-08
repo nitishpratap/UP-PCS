@@ -165,23 +165,27 @@ A deposit becomes a **mine** only when grade, ease of extraction, and distance t
 
 ### How minerals occur
 
-| Mode | Meaning | Examples |
-|------|---------|----------|
-| **Vein / lode** | Minerals fill cracks in igneous and metamorphic rock | Tin, copper, zinc, lead |
-| **Bed / layer** | Minerals form as strata with sedimentary rocks | Coal, iron ore, gypsum, potash |
-| **Placer / alluvial** | Weathered grains collect in sands and gravels | Gold, tin, platinum, monazite |
-| **Residual** | Weathering leaves a concentrated cap | Bauxite on laterite |
+NCERT teaches **five** modes. Vein is the **smaller** crack fill; lode is the **larger** crack fill.
 
-Mining is **opencast** when the ore is near the surface, and **underground** when it is deep. Opencast is cheaper but scars land; underground is costlier and more hazardous.
+| Mode | How it forms | Examples |
+|------|--------------|----------|
+| **Vein / lode** | Molten / gaseous minerals rise into cracks of **igneous and metamorphic** rock, then cool | Tin, copper, zinc, lead |
+| **Bed / layer** | Deposition in **sedimentary** strata under heat and pressure | Coal, iron ore, gypsum, potash, common salt |
+| **Residual** | Surface rock weathers; soluble parts wash away; a concentrated cap remains | **Bauxite** on laterite |
+| **Placer / alluvial** | Hard grains collect in valley-floor / hill-base sands (not corroded by water) | Gold, silver, tin, platinum, **monazite** |
+| **Ocean water / ocean bed** | Dissolved salts, and nodules on the sea floor | Common salt, magnesium, bromine; **manganese nodules** |
+
+Mining is **opencast** when the ore is near the surface, and **underground** when it is deep. Opencast is cheaper but scars land; underground is costlier and more hazardous. Narrow family tunnels in Meghalaya coal are called **rat-hole** mining (NGT has restricted the practice).
 
 ### Classification
 
-| Class | Meaning | examples |
-|-------|---------|---------------|
-| **Ferrous metallic** | Iron-group metals | Iron ore, manganese, chromite, nickel, cobalt |
-| **Non-ferrous metallic** | Metals without iron as the main metal | Bauxite (aluminium), copper, gold, zinc, lead, tin, silver |
-| **Non-metallic** | Inorganic non-metals | Mica, limestone, gypsum, graphite, diamond, salt, magnesite |
-| **Energy / mineral fuels** | Fossil and nuclear fuels | Coal, petroleum, natural gas, uranium, thorium |
+| Class | Meaning | Examples |
+|-------|---------|----------|
+| **Ferrous metallic** | Contain iron / feed steel | Iron ore, manganese, chromite, nickel, cobalt |
+| **Non-ferrous metallic** | Metals without iron as the main metal | Bauxite (aluminium), copper, zinc, lead, tin |
+| **Precious metals** | High-value non-ferrous subset | Gold, silver, platinum |
+| **Non-metallic (inorganic)** | Not used mainly as metal | Mica, limestone, gypsum, graphite, diamond, salt, magnesite |
+| **Energy / mineral fuels** | Organic fossil fuels + nuclear fuels | Coal, petroleum, natural gas, uranium, thorium |
 
 - India is **rich in ferrous minerals**, but **poor in non-ferrous metals except bauxite**.
 - Ferrous minerals make up about **three-fourths** of the value of metallic mineral production.
@@ -198,6 +202,25 @@ The mineral belts of India form one map. The north-eastern plateau is richest; t
 | **South-Western Plateau** | Karnataka, Goa, adjoining Tamil Nadu–Kerala uplands | Ferrous metals, bauxite, limestone; **almost no Gondwana coal**; **Neyveli lignite** in Tamil Nadu; Kerala **monazite** sands; Goa iron |
 | **North-Western (Aravalli)** | Rajasthan–Gujarat | Copper, zinc–lead, mica, building stone, gypsum, **Fuller’s earth**, salt; Gujarat petroleum |
 | **Himalayan / Assam–Arakan** | North-East and Himalayan foothills | Copper–lead–zinc pockets; **Tertiary coal**; Assam oil |
+
+### Master map — mineral → state / centre (revise daily)
+
+| Mineral | Main state / centre | One-line note |
+|---------|---------------------|---------------|
+| Iron ore | **Odisha**, Chhattisgarh, Karnataka, Jharkhand | Bailadila (CG); Noamundi (JH); Kudremukh / Ballari (KA) |
+| Manganese | **Odisha**, Maharashtra, Madhya Pradesh | Balaghat (MP); Nagpur–Bhandara (MH) |
+| Chromite | **Odisha (Sukinda)** | Stainless steel / ferrochrome |
+| Bauxite | **Odisha (Panchpatmali)** | Residual laterite ore of aluminium |
+| Copper | **Khetri (RJ)**; Malanjkhand (MP); Singhbhum (JH) | India still imports copper |
+| Zinc–lead | **Zawar**; **Rampura-Agucha (Bhilwara)** — RJ | Rajasthan near-monopoly |
+| Gold | **Hutti** (working); **Kolar** (historic) — KA | Tiny mine output vs jewellery |
+| Mica | **Koderma–Gaya–Hazaribagh**; Nellore; Ajmer–Bhilwara | Dielectric sheets |
+| Diamond | **Panna (MP)** | India’s diamond centre |
+| Coal (Gondwana) | Damodar–Son–Mahanadi–Godavari valleys | ~**97%** of Indian coal |
+| Lignite | **Neyveli (TN)** | Brown coal; pit-head power |
+| Petroleum | Assam; Mumbai High; Gujarat; Barmer; KG / Cauvery | Sedimentary basins only |
+| Uranium | **Jaduguda (JH)** | Also Tummalapalle (AP); Domiasiat (ML) |
+| Thorium / monazite | **Kerala–Tamil Nadu** beach sands | Also rare earths |
 
 ### Conservation
 
@@ -286,7 +309,7 @@ Bauxite is the ore of **aluminium**. It commonly forms as a **residual** weather
 | Older city tag | **Katni** (Madhya Pradesh) |
 | Smelting logic | Aluminium smelting is **power-hungry**, so plants sit near cheap electricity as well as near ore |
 
-| Company | Plant | State | Trap |
+| Company | Plant | State | Note |
 |---------|-------|-------|------|
 | BALCO | **Korba** | Chhattisgarh | Correct |
 | HINDALCO | **Renukoot** | **Uttar Pradesh** | Correct |
@@ -361,11 +384,11 @@ Mica splits into thin flexible sheets. It is a **dielectric / electrical insulat
 
 ### Limestone, dolomite, gypsum, cement rocks
 
-- Limestone is bulky, so a **cement plant sits near the quarry**.
-- Uttar Pradesh limestone–cement belt is **Chunar–Churk–Dalla**.
-- **Dolomite** is a steel **flux** and also a refractory rock; Sonbhadra–Mirzapur is the Uttar Pradesh dolomite belt.
-- **Gypsum** is used in cement and to reclaim **usar / alkaline** soils.
-- Rajasthan and western Uttar Pradesh are gypsum belts.
+| Rock / mineral | Use | Where (teaching centres) |
+|----------------|-----|--------------------------|
+| **Limestone** | Cement; bulky → plant near quarry | UP: **Chunar–Churk–Dalla**; wide Vindhyan / peninsula belts |
+| **Dolomite** | Steel **flux**; refractory | UP: **Sonbhadra–Mirzapur**; Odisha and other plateau belts |
+| **Gypsum** | Cement; reclaim **usar / alkaline** soils | Rajasthan; western Uttar Pradesh |
 
 ### Graphite and diamond
 
@@ -378,29 +401,33 @@ Mica splits into thin flexible sheets. It is a **dielectric / electrical insulat
 
 ### Salt, magnesite, silica, Fuller’s earth
 
-- **Sambhar Lake** in Rajasthan is the inland salt centre.
-- Gujarat coasts add large solar-salt production.
-- **Magnesite** is a **refractory** (MgCO₃).
-- Tamil Nadu and Uttarakhand have magnesite belts.
-- **Silica sand at Shankargarh (Prayagraj)** feeds **Firozabad** glass.
-- **Fuller’s earth** is a clay of the north-western Aravalli belt in Rajasthan.
+| Mineral | Chemistry / use | Where |
+|---------|-----------------|-------|
+| **Common salt** | Food; chemicals; from sea / lakes | **Sambhar Lake (RJ)** inland; Gujarat coastal solar salt |
+| **Magnesite** | MgCO₃; **refractory** bricks | Tamil Nadu; Uttarakhand |
+| **Silica sand** | Glass sand | **Shankargarh (Prayagraj)** → **Firozabad** glass |
+| **Fuller’s earth** | Clay used to clean oils and grease | North-western **Aravalli** belt, Rajasthan |
 
 ### Other industrial minerals
 
-- **Kyanite and sillimanite** are refractories of the eastern plateau (Jharkhand–Odisha).
-- **Asbestos** occurs in Rajasthan and Andhra belts in standard notes.
-- **Phosphorite** occurs at Jhamarkotra (Rajasthan) and in Bundelkhand / Lalitpur.
+| Mineral | Use | Where |
+|---------|-----|-------|
+| **Kyanite / sillimanite** | Refractories | Eastern plateau (Jharkhand–Odisha) |
+| **Asbestos** | Older industrial fibre | Rajasthan; Andhra belts |
+| **Phosphorite** | Fertilizer phosphate | **Jhamarkotra (Rajasthan)**; Bundelkhand / Lalitpur |
 
 ### Atomic minerals and critical minerals
 
-- **Uranium** of India is classically **Jaduguda in Jharkhand** (Singhbhum shear zone).
-- Other uranium centres include Bhatin–Narwapahar–Turamdih (Jharkhand), **Tummalapalle** (Andhra Pradesh), and **Domiasiat / Mawthabah** (Meghalaya).
-- **Thorium** and **monazite** beach sands sit on the **Kerala–Tamil Nadu** coast, with Andhra–Odisha coastal sands as extra.
-- Monazite also carries **rare earths**.
+| Mineral | Main centre | Note |
+|---------|-------------|------|
+| **Uranium** | **Jaduguda (Jharkhand)** | Singhbhum shear; also Bhatin–Narwapahar–Turamdih |
+| Uranium (other) | **Tummalapalle (AP)**; **Domiasiat / Mawthabah (Meghalaya)** | Extra centres |
+| **Thorium / monazite** | **Kerala–Tamil Nadu** beach sands | Also Andhra–Odisha coasts; monazite carries **rare earths** |
+| **Lithium** | **Reasi, Jammu & Kashmir** | 2023 inferred-resource find; India still imports Li |
+| **Nickel / cobalt** | Import-dependent | Laterite / ultramafic traces; no Khetri-class mines |
+
 - Shankargarh silica is **glass sand**, not an atomic mineral.
-- **Lithium** inferred resources at **Reasi, Jammu & Kashmir** are the 2023 find.
-- India is **import-dependent** for **lithium, nickel and cobalt**.
-- The Union list of **critical minerals** includes lithium, nickel, cobalt, rare earths, graphite and others.
+- The Union **critical minerals** list includes lithium, nickel, cobalt, rare earths, graphite and others.
 - Nuclear fuel is **not** solar-derived energy.
 
 **Inline PYQ — UPPCS Prelims 2025, Q108**
@@ -628,8 +655,11 @@ D. 4 2 1 3
 
 ## N.5 Power: thermal, hydro, nuclear, renewables
 
-**Conventional energy** includes coal, petroleum, natural gas and nuclear fuels.
-**Non-conventional energy** includes solar, wind, tidal, biogas, geothermal and similar sources.
+| Type | Sources | Teaching line |
+|------|---------|---------------|
+| **Conventional** | Coal, petroleum, natural gas, **nuclear** | Long-used commercial fuels; mostly exhaustible |
+| **Non-conventional** | Solar, wind, tidal, biogas, geothermal | Cleaner / renewable set in school keys |
+| **Stored solar?** | Wind, biomass | Nuclear and geothermal are **not** stored solar |
 
 ### Thermal
 
