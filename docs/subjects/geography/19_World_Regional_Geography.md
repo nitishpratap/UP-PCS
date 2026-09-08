@@ -13,7 +13,7 @@
 
 </details>
 
-> **Sources baked in:** Lucent world regional match-lists; NCERT world map diet; Lucent capitals / landlocked / boundaries notes; UPPCS Prelims 2018–2025
+> **Sources baked in:** Lucent world regional match-lists; NCERT world map diet; Lucent capitals / landlocked / boundaries notes; **Ghatnachakra** Languages (CB–206+); UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — country–capital, “which is NOT in this sea/region”, Australia interior, Japan plains, W Europe rain, West Asia mountains W→E; teach full regional map
 > **Last verified:** August 2026 — coaching gap-pass (continent order, double-landlocked, boundary lines, capital≠city)
 > **Current Affairs:** none mandatory (static political-map chapter)
@@ -58,6 +58,7 @@ None mandatory — static political-map chapter.
 26. Capitals that are not the country’s most-famous tourist city: Turkey **Ankara**, Australia **Canberra**, Brazil **Brasília**, UAE **Abu Dhabi**, NZ **Wellington**.
 27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA.
 28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital.
+29. **Esperanto** is an artificial world auxiliary language. **Tamil** is an official language of **Singapore**. Spanish is official in Chile/Colombia/Cuba — **not** Congo. **Bahasa** = Indonesia (not Thailand). Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
 
 ---
 
@@ -66,6 +67,9 @@ None mandatory — static political-map chapter.
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Nobi / Kanto | **Japan** | Korea | नोबी / कांतो |
+| Esperanto | Artificial world language | Mountain / seaport | एस्पेरान्तो |
+| Bahasa | **Indonesia** | Thailand | बहासा |
+| Tamil abroad | **Singapore** official set | Myanmar major | तमिल |
 | Sunni Triangle | Baghdad, Tikrit, **Ramadi** | **Basra** (Shia south) | सुन्नी त्रिभुज |
 | Pontic vs Zagros | Pontic = **N Turkey**; Zagros = **W Iran** | Swapped on W→E list | पोंटिक / ज़ाग्रोस |
 | Kara Kum vs Kyzylkum | Kara Kum = **Turkmenistan** | Kazakhstan / Tajikistan | काराकुम |
@@ -1440,6 +1444,173 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: A** — Delta = southern **Vietnam**.
+
+</details>
+
+---
+
+
+## N.15 World languages
+
+Linguistic counts often split **L-1** (mother tongue / primary) and **L-2** (second language). Total speakers ≈ L-1 + L-2.
+
+**Ethnologue-style cues (ranks move — freeze the paper’s year):**
+
+| Cue | Fact |
+|-----|------|
+| Largest by **L-1** | Often **Mandarin Chinese** |
+| Largest by **total** (L-1+L-2) in recent Ethnologue frames | Often **English** |
+| Hindi | Huge L-1 + L-2; classic “top world languages” set |
+| Spanish | Official across much of Latin America |
+
+**Esperanto** = artificial international auxiliary language (Zamenhof) — not a country’s official tongue.
+
+| Country / place | Language cue |
+|-----------------|--------------|
+| **Singapore** | Official set includes **Malay** (national), **English**, **Mandarin**, **Tamil** |
+| Mauritius | English + French official; also Hindi, Urdu, Bhojpuri, Creole, Hakka… |
+| Chile / Colombia / Cuba | **Spanish** official |
+| Republic of Congo | **Not** Spanish (French / local) |
+| Myanmar | **Burmese** (not Tamil as major) |
+| Indonesia | **Bahasa Indonesia** (Bahasa ≠ Thailand) |
+| Denmark / Netherlands / China | Danish / Dutch / Mandarin |
+| Pakistan | **Urdu + English** official; Punjabi widely spoken but not the sole “official = Punjabi” story |
+| Bangladesh | Stronger **ethnic/linguistic homogeneity** than Pakistan in classic A/R stems |
+
+Americas language map cue: French (e.g. Guiana), Portuguese (**Brazil**), Spanish (most of Spanish America), English (parts of Caribbean / North).
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Languages (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–206+ (world languages · official languages). Teaching lives in Topic 19 N.15. Map stems that need the original figure are summarised in teaching text only.
+
+**Q-GC1. BPSC 1992**
+
+What is Esperanto?
+
+A. Highest mountain of Latin America
+
+B. Seaport city of Spain
+
+C. The name of a game
+
+D. An artificial language to serve as world language
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Esperanto** = artificial international auxiliary language (Zamenhof).
+
+</details>
+
+---
+
+**Q-GC2. IAS 1999 / Jharkhand 2011**
+
+The language spoken by the largest number of people in the world is / The most widely spoken language is:
+
+A. Hindi / Bengali
+
+B. English
+
+C. Mandarin / Chinese
+
+D. Spanish
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Classic key = **Mandarin / Chinese** as L-1 leader. (Newer Ethnologue total-speaker frames may put **English** first — freeze the paper’s year.)
+
+</details>
+
+---
+
+**Q-GC3. IAS 2005**
+
+For which one of the following countries Spanish is not an official language?
+
+A. Chile
+
+B. Colombia
+
+C. Republic of Congo
+
+D. Cuba
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Spanish = Chile/Colombia/Cuba. **Congo** is not a Spanish-official state.
+
+</details>
+
+---
+
+**Q-GC4. IAS 2005**
+
+In which one of the following countries is Tamil a major language?
+
+A. Myanmar
+
+B. Indonesia
+
+C. Mauritius
+
+D. Singapore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Singapore** — Malay, English, Mandarin, **Tamil** official set.
+
+</details>
+
+---
+
+**Q-GC5. UP RO/ARO Mains 2016**
+
+**Assertion (A):** Pakistan has greater racial and ethnic diversity than Bangladesh.
+
+**Reason (R):** Punjabi is the official language of Pakistan where most people use Urdu language in speaking.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true (Bangladesh more homogeneous). R false — **Urdu + English** are official; Punjabi is widely spoken but not “the official language” in that stem.
+
+</details>
+
+---
+
+**Q-GC6. UP RO/ARO Pre 2021**
+
+Which of the following is not correctly matched?
+
+A. Danish — Denmark
+
+B. Dutch — Netherlands
+
+C. Mandarin — China
+
+D. Bahasa — Thailand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Bahasa** = **Indonesia**, not Thailand.
 
 </details>
 

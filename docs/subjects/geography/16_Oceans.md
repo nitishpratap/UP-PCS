@@ -8,7 +8,7 @@
 Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperature / Thermohaline | Salinity | Tides & Waves | Deposits | Straits | Canals | UNCLOS (12 / 24 / 200) | Fisheries | Polar Regions | Antarctic Treaty
 </details>
 
-> **Sources baked in:** NCERT Class 11 (Oceans); **PWOnlyIAS Udaan** (ocean-floor relief); **Drishti** To-the-Point (ocean currents); **ForumIAS UPPSC** oceanography map; Lucent match-lists; UNCLOS; UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Class 11 (Oceans); **PWOnlyIAS Udaan** (ocean-floor relief); **Drishti** To-the-Point (ocean currents); **ForumIAS UPPSC** oceanography map; Lucent match-lists; UNCLOS; **Ghatnachakra** World Geography Hydrosphere–Seas–Currents–Salinity–Tides–Trenches–Straits–Canals–Coral (CB–115+ / CB–156+); UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — warm vs cold currents, trench–ocean match, salinity belt, Suez, UNCLOS miles, Maitri–Bharati; teach full ocean map
 > **Last verified:** August 2026 — coaching gap-pass (density, waves, current effects, shelf economics)
 > **Current Affairs:** BBNJ high-seas treaty (2023) once; Antarctic stations static
@@ -27,7 +27,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
 2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
@@ -57,6 +57,10 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 26. The **Carlsberg Ridge** lies in the north-west Indian Ocean. The **Ninetyeast Ridge** is not the Mid-Atlantic Ridge.
 27. The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica). India’s inland waterway **NW-1** is the **Ganga** from Haldia to Prayagraj.
 28. **Drake Passage** is not the Strait of Magellan. Panama opened with facts in **1914**; Suez opened in **1869** without facts.
+29. Hydrosphere ≈ **71%** of Earth. Usable fresh ≈ **<1%** of all water. Of fresh water, ice ≫ groundwater ≫ rivers/lakes.
+30. **Datum line** = mean-sea-level height/depth zero. Abyssal plains ≈ most extensive ocean-floor province (~**76%**).
+31. **Sargasso** = North Atlantic, **no coast**. **Red Sea** = axial trough. **NAD** = Blanket of Europe. **OMT** (26°C isotherm) helps monsoon rainfall forecast.
+32. Lake salinity cues: Assal / Van / Dead Sea / Great Salt Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
 
 ---
 
@@ -75,6 +79,15 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | Mariana | **Pacific** | Atlantic | मारियाना |
 | Sunda/Java trench | **Indian** | Pacific | सुंडा |
 | Molloy Deep | **Arctic** | Atlantic | मोलॉय |
+| Datum line | Mean **sea level** reference | Date Line / 0° meridian | डेटा म रेखा |
+| Fresh after ice | Largest remaining = **groundwater** | Lakes/rivers larger than GW | भूजल |
+| Sargasso | No **coastline** | Has coasts like Black Sea | सारगैसो |
+| Red Sea form | **Axial trough** | Ordinary eroded valley | लाल सागर |
+| NAD | **Blanket of Europe** / warm | Cold Labrador clone | उत्तरी अटलांटिक ड्रिफ्ट |
+| Halocline | **Salinity** jump | Thermocline (temp) | हैलोक्लाइन |
+| Lake Van | Very high lake salinity (~330‰) | Always pick Dead Sea | वैन झील |
+| Diamantina | **Indian Ocean** | Pacific | डायमंटिना |
+| Ninetyeast Ridge | **Indian Ocean** | Mid-Atlantic | नाइंटी ईस्ट |
 | Suez | **Med ↔ Red** | Directly Atlantic–Indian | स्वेज |
 | Panama | Atlantic ↔ **Pacific** + **facts** | No facts like Suez | पनामा |
 | EEZ vs territorial | **200 nm** vs **12 nm** | Swapped | EEZ / क्षेत्रीय जल |
@@ -140,6 +153,31 @@ Five named oceans plus many seas and gulfs. Area order and Indian Ocean identity
 - **Sargasso** = North Atlantic gyre — **no land boundary**
 - **Caspian** and **Aral** = **lakes**, not true seas
 
+**Seas desk (GC extras)**
+
+| Sea | Cue |
+|-----|-----|
+| **South China Sea** | Pacific marginal; often deepest among common MCQ options (~5377 m) |
+| **Bering Sea** | Pacific marginal |
+| **Mediterranean** | Largest enclosed sea; Gibraltar to Atlantic |
+| **Black Sea** | SE Europe; **not** bordered by Syria |
+| **Sea of Azov** | Almost enclosed; opens to Black via Kerch |
+| **Tyrrhenian** | Between Italy, Sicily, Sardinia, Corsica |
+| **Sargasso** | North Atlantic; **no coastline**; named for Sargassum weed |
+| **Aral** | Kazakhstan–Uzbekistan (shrinking lake) |
+| **Red Sea** | **Axial trough** (rift) between Africa and Arabia |
+
+**Türkiye seas:** North = **Black Sea**; South = **Mediterranean**; West = Aegean; NW = Marmara.
+
+**West→East seas ladder:** Mediterranean → Black → Caspian → Aral.
+
+**Gaza Strip** faces the **Mediterranean**.
+
+**Baltic coasts:** Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden — **not Norway**.
+
+**Jordan** does **not** open to the Mediterranean.
+
+
 **Inline PYQ — UPPCS Prelims 2025, Q78**
 
 With reference to the Indian Ocean, which of the following statements is/are correct?
@@ -196,6 +234,26 @@ A gulf or bay is an arm of the sea into the land. ask: which sea does it open in
 
 ---
 
+
+## N.1A Hydrosphere budget · datum · OMT
+
+**Cover:** Oceans ≈ **71%** (about **2/3+**) of Earth’s surface. One world ocean; five named basins: Pacific > Atlantic > Indian > Southern > Arctic.
+
+**Fresh water (IAS framing)**
+
+- Salt water ≈ **96.5%** of all water. Fresh ≈ **2.5%**.
+- Usable fresh for humans ≈ **less than 1%** of total Earth water.
+- Of fresh water: ice/glaciers ≈ **68.7%**, groundwater ≈ **30.1%**, surface (lakes/rivers) ≈ **0.3%**, other ≈ **0.9%**.
+- So after ice, the largest remaining fresh store is **groundwater** (not lakes/rivers). Rivers+lakes hold **less** fresh water than groundwater.
+
+**Datum line:** horizontal reference at **mean sea level** from which heights and depths are measured — not the International Date Line and not the prime meridian.
+
+**Ocean Mean Temperature (OMT):** measured to the **26°C isotherm** depth (often ~50–100 m; SW Indian Ocean Jan–Mar mean ≈ **59 m** in the IAS key, not 129 m). OMT from Jan–Mar helps judge whether Indian monsoon rainfall will sit above or below the long-term mean — better cue than SST alone.
+
+**Gravitational water** in soil sits in macropores and drains under gravity; tension is typically **below ~1/3 atmosphere**.
+
+---
+
 ## N.2 Ocean Floor, Ridge, Shelf, Slope, Guyot
 
 The ocean floor profile is the skeleton of every later card.
@@ -211,7 +269,7 @@ The ocean floor profile is the skeleton of every later card.
 | **Continental slope** | ~200 m down to **~3000 m**; 2–5° | True edge of the continental block | Cut by **submarine canyons**; **turbidity currents** race down them |
 | **Deep-sea fan / cone** | Foot of a canyon | Turbidite dump | Same idea as an alluvial fan, underwater |
 | **Continental rise** | ~3000–4000 m; gentler than slope | **Sediment apron** (shelf mud + canyon fans merged) | Present on **passive** margins (Atlantic type). Often **missing** on **active** Pacific margins where a **trench** eats the sediment |
-| **Abyssal plain** | **~3000–6000 m**; almost flat | Most of the ocean floor | Red clay + Mn nodules; “abyssal hills” = small volcanic bumps on the plain |
+| **Abyssal plain** | **~3000–6000 m**; almost flat | Most of the ocean floor (~**76%** of ocean area in GC framing) | Red clay + Mn nodules; “abyssal hills” = small volcanic bumps on the plain |
 | **Trench (hadal)** | **>6000 m** (Mariana ~11 km) | Convergent plate; oceanic slab bends down | Island arc / Andes on the land side. Deepest points in **N.3** |
 | **Mid-ocean ridge** | Crest ~2000–3000 m (shallower than plains) | **Divergent**; new crust | Central **rift valley**; **transform faults** + **fracture zones**; black smokers / hydrothermal vents. Hess = seafloor spreading |
 
@@ -222,7 +280,7 @@ The ocean floor profile is the skeleton of every later card.
 | Form | Meaning |
 |------|------|
 | **Seamount** | Undersea volcano, **peaked**, rises **>1000 m** from the floor, does not break the surface (Emperor Seamount cue) |
-| **Guyot** | **Flat-topped** seamount — waves planed it when it was an island, then it drowned |
+| **Guyot** | **Flat-topped** seamount — waves planed it when it was an island, then it drowned. Common in the **Pacific**; identified in all oceans **except the Arctic** in GC framing |
 | Volcanic island | Seamount that **does** break the surface (Hawaii type) |
 | Atoll / reef | Coral on a sinking volcanic peak enclosing a lagoon; India reefs need clear warm water |
 | Submarine canyon | Gorge cut across **shelf + slope**; turbidity current highway (Hudson Canyon type) |
@@ -297,7 +355,7 @@ D. Pacific Ridge only
 
 - Cold, salty water sinks in the North Atlantic and around Antarctica and feeds deep global flow.
 - Five subtropical **gyres** dominate the surface.
-- The **Equatorial Counter Current** runs east between the two west-flowing equatorial currents.
+- The **Equatorial Counter Current** runs east between the two west-flowing equatorial currents — piled water from the converging equatorial currents drains eastward.
 
 ---
 
@@ -313,7 +371,7 @@ Trenches sit on **active** (convergent) margins. Match the deepest point to the 
 | **Atlantic** | **Puerto Rico Trench** |
 
 - **Challenger Deep** in the Mariana Trench is about **11 km**.
-- Other trench names: Tonga, Philippine, Kuril–Kamchatka, Peru–Chile, South Sandwich (Southern Ocean).
+- Other trench names: Tonga, **Kermadec**, Philippine, Kuril–Kamchatka / Aleutian, Peru–Chile, South Sandwich (S Atlantic), **Diamantina** (Indian Ocean fracture zone SW of Australia).
 
 **Inline PYQ — UPPCS Prelims 2022, Q114**
 
@@ -366,7 +424,7 @@ Ocean currents are driven by prevailing winds, the **Coriolis** force (deflectio
 | Current | Type |
 |---------|------|
 | **Gulf Stream** / Florida | **Warm** |
-| North Atlantic Drift | Warm (Europe mild) |
+| North Atlantic Drift | Warm (Europe mild); **Blanket of Europe** — keeps Norway harbours milder / ice freer |
 | **Canary** | **Cold** |
 | **Labrador** | **Cold** (meets Gulf Stream → Grand Banks fog/fish) |
 | **Brazil** | **Warm** |
@@ -382,11 +440,14 @@ Ocean currents are driven by prevailing winds, the **Coriolis** force (deflectio
 | Mozambique | Warm |
 | Somali | Seasonal (SW monsoon upwelling off Somalia) |
 | West Australian | **Cold** |
-| Monsoon current | **Reverses** with monsoon |
+| Monsoon current | **Reverses** with monsoon — why N Indian Ocean current direction changes seasonally |
 
 **Southern**
 - West Wind Drift / **Antarctic Circumpolar** = **cold**
-- Only current that **circles the globeEast-coast rule:** warm currents (Brazil, Agulhas, Kuroshio, Gulf Stream, East Australian).
+- Only current that **circles the globe**.
+
+**East-coast rule:** warm currents (Brazil, Agulhas, Kuroshio, Gulf Stream, East Australian).
+
 **West-coast rule:** cold upwelling (Humboldt, California, Canary, Benguela).
 
 **Upwelling (cold + fish)**
@@ -486,6 +547,10 @@ Open-ocean salinity averages about **35‰** (35 g salt per 1000 g seawater). **
 - **High** seas: Red Sea, Persian Gulf, Mediterranean.
 - **Low** seas: Baltic, equatorial belt, big river mouths.
 - Dead Sea and Great Salt Lake are **lakes**, not ocean MCQs.
+- Hypersaline lake cues: **Assal** (~348‰) often world’s highest; **Lake Van** (Türkiye, ~330‰); **Dead Sea** (~238‰); **Great Salt Lake** (Utah, USA, ~220‰).
+- **Halocline** = salinity changes rapidly with depth. **Thermocline** = temperature; **pycnocline** = density.
+- Open-ocean NaCl ≈ **77.8%** of dissolved salts (Dittmar / Challenger chemistry lore).
+- Arabian Sea salinity often higher than Bay of Bengal (~36‰ vs ~30‰) — more evaporation, fewer big rivers.
 
 **Inline PYQ — UPPCS Prelims 2023, Q61**
 
@@ -527,6 +592,10 @@ The Moon’s pull exceeds the Sun’s. A lunar day is about **24 h 50 min**, so 
 - A bore is a wall of tide in a funnel estuary.
 - India: **Hooghly**. World cues: Amazon, Qiantang (China).
 - Flood = rising; ebb = falling. A perigean spring is extra-large (Moon at perigee).
+- Neap: high tide **below** normal spring height; low tide **above** normal low — neaps are **not** at new/full moon (those are springs); neaps ≈ day 7–8 of the lunar fortnight.
+- Indirect high tide on the far side of Earth is linked to **centrifugal** balance with Moon gravity.
+- **Southampton** (England) is famous for **four** tides a day (Channel + North Sea timing).
+- Moon’s tide-raising force ≈ **2.17×** the Sun’s.
 
 **Waves (ForumIAS: teach separately from tides)**
 
@@ -561,7 +630,7 @@ A strait is a narrow natural waterway joining two larger water bodies. Fact **wh
 
 | Strait | Joins / fact |
 |--------|----------------|
-| **Hormuz** | Persian Gulf ↔ Gulf of Oman |
+| **Hormuz** | Persian Gulf ↔ Gulf of Oman. Persian Gulf states = Iran, UAE, Saudi, Qatar, Bahrain, Kuwait, Iraq — **not Oman** (Oman faces Gulf of Oman / Arabian Sea) |
 | **Malacca** | Andaman/S. China side ↔ Indian Ocean; Malaysia–Indonesia |
 | **Bab-el-Mandeb** | Red Sea ↔ Gulf of Aden |
 | **Gibraltar** | Mediterranean ↔ Atlantic |
@@ -605,6 +674,12 @@ Canals shorten trade routes. Fact the seas joined, the year, and whether facts a
 | **Panama** (1914, **facts**) | Atlantic ↔ **Pacific** |
 | **Kiel** | North Sea ↔ Baltic |
 | Corinth | Ionian ↔ Aegean (Greece) |
+| **Soo** | Superior ↔ **Huron** |
+| Erie Canal | Erie ↔ Hudson River |
+| Welland | Erie ↔ Ontario |
+| Rhine–Main–Danube | North Sea system ↔ Black Sea |
+| White Sea–Baltic (Stalin) | Baltic ↔ White/Arctic approaches |
+| Ludwig’s | S Germany inland waterway |
 
 | | **Suez** | **Panama** |
 |--|----------|-----------|
@@ -678,6 +753,19 @@ D. 10,000 km
 
 **Ans: B** — about **7,000 km**.
 </details>
+
+---
+
+
+## N.8A Coral reefs
+
+Coral reefs are tropical shallow-water communities — the “rainforests of the ocean.”
+
+- Found mainly between the **Tropics** (roughly **30°N–30°S**), in clear, warm, sunlit water.
+- Cover a tiny share of ocean floor but host a huge share of marine species (~**25%**).
+- **Coral bleaching** = loss of zooxanthellae under heat stress → reef turns white.
+- **Great Barrier Reef** = world’s largest; **NE Australia / Queensland**; **Pacific**; ~**2300 km**; ~400 coral / 1500 fish / 4000 mollusc types in coaching figures.
+- Reef types: **fringing** (near shore), barrier, **atoll** (ring / horseshoe). **Addu Atoll** = southern Maldives (**Indian Ocean**).
 
 ---
 
@@ -1069,6 +1157,2193 @@ D. (A) is false. but (R) is true
 <summary>Show answer</summary>
 
 **Ans: A** — Both true; R explains why powers park in the Indian Ocean.
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Hydrosphere Seas Currents Salinity Tides Trenches (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–115+ (hydrosphere budget · seas · currents · salinity · tides · trenches). Teaching lives in Topic 16 N.1–N.6 / N.1A. Year-coded UPPCS stems already in Topic 16 Complete PYQ Bank (Agulhas 2020/25, salinity 2023, trenches 2022, Indian Ocean 2025, etc.) are not repeated as identical year-coded entries.
+
+**Q-GC1. IAS 2020**
+
+With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct?
+
+1. OMT is measured up to a depth of 26°C isotherm which is 129 meters in the south-western Indian Ocean during January–March.
+2. OMT collected during January–March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long-term mean.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 2 is correct. Statement 1’s **129 m** figure is wrong (mean depth ≈ **59 m** in the key).
+
+</details>
+
+---
+
+**Q-GC2. BPSC 1996**
+
+The surface of the earth covered with water is approximately?
+
+A. One-fourth
+
+B. Half
+
+C. Two-thirds
+
+D. Three-fifth (3/5)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Oceans cover about **71%** ≈ more than two-thirds.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Pre 1991/94**
+
+Datum line:
+
+A. Is a horizontal line to the sea level from where heights and depths are measured
+
+B. Is the mean of primary and secondary data
+
+C. International date line
+
+D. Is an imaginary line that passes through zero degree meridian
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Datum = **mean sea level** reference for heights and depths.
+
+</details>
+
+---
+
+**Q-GC4. UKPCS Pre 2010**
+
+The part of our hydrosphere that is largest among the options is –
+
+A. Atlantic Ocean
+
+B. Indian Ocean
+
+C. Pacific Ocean
+
+D. Antarctica Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Pacific** is the largest ocean basin.
+
+</details>
+
+---
+
+**Q-GC5. BPSC 2005**
+
+A ridge of huge length passing through the Atlantic into the Indian and Pacific basins is –
+
+A. Socotra–Lakshadweep–Chagos Ridge
+
+B. Pacific–Antarctica Ridge
+
+C. Dolphin–Challenger Ridge
+
+D. Mid-Oceanic Ridge
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Global **Mid-Oceanic Ridge** system (~65,000 km).
+
+</details>
+
+---
+
+**Q-GC6. BPSC 2011**
+
+Where is 'Ninety East Ridge' situated?
+
+A. Pacific Ocean
+
+B. Indian Ocean
+
+C. Atlantic Ocean
+
+D. Arctic Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Ninety East Ridge** = Indian Ocean along ~90°E.
+
+</details>
+
+---
+
+**Q-GC7. IAS 2010**
+
+Consider the following statements:
+
+1. On the planet Earth, the fresh water available for use amounts to about less than 1% of the total water found.
+2. Of the total freshwater found on the planet Earth, 95% is bound up in polar ice caps and glaciers.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement 1 true. Ice share of fresh water is ~**68.7%**, not 95%.
+
+</details>
+
+---
+
+**Q-GC8. IAS 2021**
+
+With reference to the water on the planet Earth, consider the following statements:
+
+1. The amount of water in the rivers and lakes is more than the amount of groundwater.
+2. The amount of water in polar ice caps and glaciers is more than the amount of groundwater.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ice > groundwater > rivers/lakes. Statement 1 is false.
+
+</details>
+
+---
+
+**Q-GC9. UPPCS Pre Re-Exam 2015**
+
+The largest amount of fresh water on our planet is in
+
+A. River
+
+B. Lakes and streams
+
+C. Glaciers and mountains
+
+D. Underground water
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Most fresh water is locked in **glaciers / ice**.
+
+</details>
+
+---
+
+**Q-GC10. IAS 2013**
+
+On the planet Earth, most of the fresh water exists as ice caps and glaciers. Out of the remaining fresh water, the largest proportion
+
+A. Is found in the atmosphere as moisture and clouds
+
+B. Is found in freshwater lakes and rivers
+
+C. Exists as groundwater
+
+D. Exists as soil moisture
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** After ice, **groundwater** is the largest fresh store.
+
+</details>
+
+---
+
+**Q-GC11. UKPCS Pre 2012**
+
+Which one is the most extensive part of the oceanic floor?
+
+A. Ocean Deeps
+
+B. Oceanic Slope
+
+C. Oceanic Shelves
+
+D. Deep Sea Plains
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Abyssal / deep-sea plains** (~3000–6000 m) are the most extensive (~76%).
+
+</details>
+
+---
+
+**Q-GC12. UPPCS Pre 2017**
+
+Red sea is an example of:
+
+A. Volcanic valley
+
+B. Eroded valley
+
+C. Axial trough
+
+D. U-shaped valley
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Red Sea = **axial trough** (rift) between Africa and Arabia.
+
+</details>
+
+---
+
+**Q-GC13. MPPCS 2019**
+
+Out of the following which combination is incorrect?
+
+A. Telegraph Plateau — Indian Ocean
+
+B. Cocoa Ridge — Pacific Ocean
+
+C. Walvis Ridge — Atlantic Ocean
+
+D. Agulhas Basin — Indian Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Telegraphic Plateau = **North Atlantic Ridge**, not Indian Ocean.
+
+</details>
+
+---
+
+**Q-GC14. UP BEO 2019**
+
+Baku, the capital city of Azerbaijan is situated along the coast of which one of the following seas?
+
+A. Black Sea
+
+B. Levantine Sea
+
+C. Caspian Sea
+
+D. Aral Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Baku sits on the **Caspian**.
+
+</details>
+
+---
+
+**Q-GC15. MPPCS 1991**
+
+Towards the North of Turkey is –
+
+A. Black Sea
+
+B. Caspian Sea
+
+C. Red Sea
+
+D. Mediterranean Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Türkiye’s north coast = **Black Sea**.
+
+</details>
+
+---
+
+**Q-GC16. IAS 2014**
+
+Turkey is located between –
+
+A. The Black Sea and the Caspian Sea
+
+B. The Black Sea and the Mediterranean Sea
+
+C. Gulf of Suez and the Mediterranean Sea
+
+D. Gulf of Aqaba and the Dead Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** North Black Sea / South Mediterranean frame Türkiye.
+
+</details>
+
+---
+
+**Q-GC17. UP RO/ARO Pre 2016**
+
+The correct sequence of the following seas from west to east is:
+
+A. Black Sea, Mediterranean Sea, Caspian Sea, Aral Sea
+
+B. Caspian Sea, Mediterranean Sea, Black Sea, Aral Sea
+
+C. Mediterranean Sea, Black Sea, Caspian Sea, Aral Sea
+
+D. Black Sea, Mediterranean Sea, Aral Sea, Caspian Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** W→E: **Mediterranean → Black → Caspian → Aral**.
+
+</details>
+
+---
+
+**Q-GC18. RAS 1999**
+
+The inland sea is the:
+
+A. White Sea
+
+B. Black Sea
+
+C. Caspian Sea
+
+D. Sea of Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Caspian** = largest inland water / lake.
+
+</details>
+
+---
+
+**Q-GC19. RAS 1999 / MPPCS 2021 / BPSC 2022**
+
+Sargasso Sea is related to which ocean?
+
+A. Northern Pacific
+
+B. Northern Atlantic
+
+C. Southern Pacific
+
+D. Southern Atlantic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sargasso = **North Atlantic**; no land boundary.
+
+</details>
+
+---
+
+**Q-GC20. UP RO/ARO Pre 2014**
+
+The Sargasso Sea is characterized by –
+
+A. very cold water
+
+B. very warm water
+
+C. highly saline water
+
+D. typical marine vegetation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Named for abundant **Sargassum** seaweed.
+
+</details>
+
+---
+
+**Q-GC21. UPPCS Mains 2016**
+
+Which of the following seas does not have a coastline?
+
+A. Black Sea
+
+B. Sargasso Sea
+
+C. Sea of Azov
+
+D. Caspian Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sargasso** has no coastline.
+
+</details>
+
+---
+
+**Q-GC22. UP UDA/LDA Mains 2010**
+
+The sea surrounded by Italy, Sicily, Sardinia and Corsica is –
+
+A. Adriatic Sea
+
+B. Aegean Sea
+
+C. Ligurian Sea
+
+D. Tyrrhenian Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Tyrrhenian Sea**.
+
+</details>
+
+---
+
+**Q-GC23. UPPCS Pre 2012**
+
+Which of the following pairs of countries are around the Aral Sea?
+
+A. Kazakhstan — Uzbekistan
+
+B. Kazakhstan — Turkmenistan
+
+C. Azerbaijan — Uzbekistan
+
+D. Kazakhstan — Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Aral = **Kazakhstan–Uzbekistan**.
+
+</details>
+
+---
+
+**Q-GC24. UPPCS Mains 2010**
+
+Which one of the following African countries does not border with the Mediterranean Sea?
+
+A. Algeria
+
+B. Chad
+
+C. Morocco
+
+D. Tunisia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chad** is landlocked.
+
+</details>
+
+---
+
+**Q-GC25. IAS 2015**
+
+Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea?
+
+A. Syria
+
+B. Jordan
+
+C. Lebanon
+
+D. Israel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Jordan** has no Mediterranean coast.
+
+</details>
+
+---
+
+**Q-GC26. MPPCS 2023**
+
+Which of the following seas is near the 'Gaza Strip'?
+
+A. Mediterranean Sea
+
+B. Red Sea
+
+C. Black Sea
+
+D. Caspian Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gaza faces the **Mediterranean**.
+
+</details>
+
+---
+
+**Q-GC27. UPPCS Mains 2015**
+
+Which of the following is the deepest ocean? (among seas listed)
+
+A. South China Sea
+
+B. Bering Sea
+
+C. Mediterranean sea
+
+D. Sea of Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Among these options **South China Sea** is deepest (~5377 m).
+
+</details>
+
+---
+
+**Q-GC28. IAS 2019**
+
+Consider the following pairs:
+
+| Sea | Bordering country |
+|-----|-------------------|
+| 1. Adriatic Sea | Albania |
+| 2. Black Sea | Croatia |
+| 3. Caspian Sea | Kazakhstan |
+| 4. Mediterranean Sea | Morocco |
+| 5. Red Sea | Syria |
+
+Which of the pairs given above are correctly matched?
+
+A. 1, 2 and 4 only
+
+B. 1, 3 and 4 only
+
+C. 2 and 5 only
+
+D. 1, 2, 3, 4 and 5
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Adriatic–Albania, Caspian–Kazakhstan, Med–Morocco are correct. Croatia ≠ Black Sea; Syria ≠ Red Sea.
+
+</details>
+
+---
+
+**Q-GC29. UPPCS Pre 2021**
+
+Which of the following countries is NOT located on the bank of the Black Sea?
+
+A. Syria
+
+B. Turkey
+
+C. Georgia
+
+D. Bulgaria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Black Sea six: Russia, Ukraine, Romania, Bulgaria, Türkiye, Georgia. **Syria** is Mediterranean.
+
+</details>
+
+---
+
+**Q-GC30. UP RO/ARO Mains 2021**
+
+Which one of the following countries is not situated along the coast of Baltic Sea?
+
+A. Latvia and Poland
+
+B. Latvia and Russia
+
+C. Sweden and Russia
+
+D. Sweden and Norway
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Norway** is not a Baltic coastal state.
+
+</details>
+
+---
+
+**Q-GC31. IAS 2012**
+
+Consider the following factors:
+
+1. Rotation of the Earth
+2. Air pressure and wind
+3. Density of ocean water
+4. Revolution of the Earth
+
+Which of the above factors influence the ocean currents?
+
+A. 1 and 2
+
+B. 1, 2 and 3
+
+C. 1 and 4
+
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rotation, winds/pressure, density/salinity–temperature matter. **Revolution** does not drive currents.
+
+</details>
+
+---
+
+**Q-GC32. IAS 2002**
+
+Consider the following statements:
+
+1. Ocean currents are the slow-surface movement of water in the ocean.
+2. Ocean currents assist in maintaining the Earth's heat balance
+3. Ocean currents are set in motion primarily by prevailing winds
+4. Ocean currents are affected by the configuration of the ocean.
+
+Which of these statements are correct?
+
+A. 1 and 2
+
+B. 2, 3 and 4
+
+C. 1, 3 and 4
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four statements are accepted in the standard key.
+
+</details>
+
+---
+
+**Q-GC33. IAS 1997**
+
+Which one of the following factors is responsible for the change in the regular direction of the ocean currents in the Indian Ocean?
+
+A. Indian Ocean is half an Ocean
+
+B. Indian Ocean has Monsoon drift
+
+C. Indian Ocean is a land-locked ocean
+
+D. Indian Ocean has greater variation in salinity
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Monsoon drift** reverses N Indian Ocean currents seasonally.
+
+</details>
+
+---
+
+**Q-GC34. RAS 1999 / UPPCS Pre 2020**
+
+Agulhas current flows in –
+
+A. The Indian Ocean
+
+B. The Pacific Ocean
+
+C. North Atlantic Ocean
+
+D. South Atlantic Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Agulhas** = warm **Indian Ocean** (SE Africa).
+
+</details>
+
+---
+
+**Q-GC35. UPPCS Pre 2017**
+
+Which of the following is not a cold ocean current?
+
+A. Canaries
+
+B. Humboldt
+
+C. Oyashio
+
+D. Agulhas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Agulhas is **warm**.
+
+</details>
+
+---
+
+**Q-GC36. RAS 1999**
+
+The country benefiting the most out of the North Atlantic Drift is:
+
+A. Poland
+
+B. Portugal
+
+C. Norway
+
+D. Nigeria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Norway** gains most from NAD warmth (“Blanket of Europe”).
+
+</details>
+
+---
+
+**Q-GC37. UPPCS Pre 2005**
+
+Which one of the following is a cold current of the South Atlantic Ocean?
+
+A. Canary current
+
+B. Benguela current
+
+C. Agulhas current
+
+D. Brazil current
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Benguela** = cold South Atlantic (SW Africa).
+
+</details>
+
+---
+
+**Q-GC38. UPPCS Mains 2014**
+
+Which of the following ocean currents does not belong to the Indian Ocean?
+
+A. Agulhas Current
+
+B. Mozambique Current
+
+C. South Indian Ocean Current
+
+D. Benguela Current
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Benguela** = South Atlantic.
+
+</details>
+
+---
+
+**Q-GC39. UPPCS Pre 2000**
+
+Which one of the following currents does not contribute to forming a complete circle of currents in the South Atlantic Ocean:
+
+A. Benguela
+
+B. Brazil
+
+C. Canary
+
+D. West wind drift
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Canary** belongs to the **North** Atlantic gyre.
+
+</details>
+
+---
+
+**Q-GC40. UKPCS Pre 2021**
+
+Which of the following oceanic current does not flow in North Atlantic ocean?
+
+A. Gulf Stream
+
+B. Benguela
+
+C. Norwegian
+
+D. Florida
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Benguela** = South Atlantic.
+
+</details>
+
+---
+
+**Q-GC41. RAS 1999**
+
+The ocean current different from the remaining three is:
+
+A. Benguela
+
+B. Brazilian
+
+C. South Equatorial
+
+D. Peruvian
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Peruvian/Humboldt = **Pacific**; the other three are Atlantic-circle currents.
+
+</details>
+
+---
+
+**Q-GC42. Jharkhand/UPPCS**
+
+Which of the following is cold ocean current:
+
+A. Peruvian Current (Humboldt Current)
+
+B. Kuroshio Current
+
+C. Gulf Stream
+
+D. Brazil Current
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Humboldt/Peru** is cold.
+
+</details>
+
+---
+
+**Q-GC43. UPPCS Pre 1998**
+
+Which of the following is not matched correctly?
+
+A. Brazil Current — South Atlantic Ocean
+
+B. Humboldt Current — North Pacific Ocean
+
+C. Gulf Stream — North Atlantic Ocean
+
+D. Agulhas Current — Indian Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Humboldt = **South-east Pacific** (not North Pacific).
+
+</details>
+
+---
+
+**Q-GC44. BPSC 1997/2000**
+
+Gulf Stream is –
+
+A. a river in the Gulf
+
+B. an oceanic current
+
+C. another name of Jet Stream
+
+D. a surface wind
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gulf Stream = warm **North Atlantic** current.
+
+</details>
+
+---
+
+**Q-GC45. Jharkhand PCS 2013**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Gulf Stream | 1. Pacific Ocean |
+| B. West Wind Drift | 2. A slow eastward movement of water over the zone of westerly wind |
+| C. Peru Current | 3. Indian Ocean |
+| D. West Australian Current | 4. Warm current |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 4 2 1 3
+
+B. 1 3 4 2
+
+C. 4 3 1 2
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gulf Stream–warm; West Wind Drift–eastward under westerlies; Peru–Pacific; West Australian–Indian. Code **4 2 1 3**.
+
+</details>
+
+---
+
+**Q-GC46. IAS 2015**
+
+What explains the eastward flow of the equatorial counter-current?
+
+A. The Earth's rotation on its axis
+
+B. Convergence of the two equatorial currents
+
+C. Difference in salinity of water
+
+D. Occurrence of the Belt of Calm near the equator
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Standard key: **convergence / piling** of the two west-flowing equatorial currents drives the eastward counter current.
+
+</details>
+
+---
+
+**Q-GC47. UKPCS Pre 2016**
+
+Which one of the following Oceanic currents is not associated with the Pacific Ocean?
+
+A. Canaries
+
+B. Kuroshio
+
+C. California
+
+D. Humboldt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Canary** = Atlantic.
+
+</details>
+
+---
+
+**Q-GC48. UP RO/ARO Mains 2017**
+
+Which of the following is a warm current?
+
+A. Falkland Current
+
+B. Brazil Current
+
+C. Labrador Current
+
+D. Canary Current
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Brazil** is warm; the others are cold.
+
+</details>
+
+---
+
+**Q-GC49. UPPCS Pre Re-Exam 2015**
+
+Which one of the following denotes water salinity gradient?
+
+A. Thermocline
+
+B. Halocline
+
+C. Pycnocline
+
+D. Chemocline
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Halocline** = salinity change with depth.
+
+</details>
+
+---
+
+**Q-GC50. BPSC 2011**
+
+Main Source of Salinity of the Sea is –
+
+A. Rivers
+
+B. Land
+
+C. Wind
+
+D. Ash ejected from the Volcano
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ultimate source = **land**; rivers are carriers.
+
+</details>
+
+---
+
+**Q-GC51. UPPCS Pre 2000**
+
+Which one of the following salts contributes maximum to the salinity of sea water:
+
+A. Calcium sulphate
+
+B. Magnesium chloride
+
+C. Magnesium sulphate
+
+D. Sodium chloride
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **NaCl** ≈ 77.8% of dissolved salts.
+
+</details>
+
+---
+
+**Q-GC52. UPPCS Pre 1995 / RAS 1997**
+
+The highest salinity among these is found in:
+
+A. Dead sea
+
+B. Red sea
+
+C. Great Salt Lake in the U.S.A.
+
+D. Lake Van in Turkey
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Among the set, **Lake Van** (~330‰) tops Dead Sea / Red Sea / Great Salt Lake.
+
+</details>
+
+---
+
+**Q-GC53. UKPCS / UPPCS**
+
+Water of which one of the following seas is most saline?
+
+A. Baltic Sea
+
+B. Black Sea
+
+C. Dead Sea
+
+D. Red Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Among common options **Dead Sea** (lake) is far more saline than the listed seas.
+
+</details>
+
+---
+
+**Q-GC54. UK UDA/LDA**
+
+Where is Great Salt Lake located?
+
+A. Iran
+
+B. U.S.A.
+
+C. India
+
+D. Turkey
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Great Salt Lake = **Utah, USA**.
+
+</details>
+
+---
+
+**Q-GC55. BPSC 2011**
+
+The average salinity of water of Arabian Sea is-
+
+A. 25 ppt
+
+B. 35 ppt
+
+C. 45 ppt
+
+D. 55 ppt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Arabian Sea ≈ **~36‰**; nearest option **35 ppt**.
+
+</details>
+
+---
+
+**Q-GC56. UPPCS Pre 1991**
+
+What are the causes of high-tide low tide formation in the oceans?
+
+A. Due to the effect of the sun
+
+B. Due to the rotation of the Earth
+
+C. Due to the combined effect of sun and the moon
+
+D. Due to Gravitation, Centripetal force and the centrifugal force
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Gravity (Moon/Sun) plus Earth’s **centripetal/centrifugal** balance.
+
+</details>
+
+---
+
+**Q-GC57. IAS 2015**
+
+Tides occur in oceans and seas due to which among the following?
+
+1. Gravitational force of Sun
+2. Gravitational force of Moon
+3. Centrifugal force of Earth
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three forces are in the standard tide explanation.
+
+</details>
+
+---
+
+**Q-GC58. RAS 1999**
+
+The cause of producing indirect high tide is –
+
+A. Gravitational force of the Moon
+
+B. Gravitational force of the Sun
+
+C. Centrifugal force of the Earth
+
+D. Gravitational force of the Earth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Far-side / indirect high tide is linked to **centrifugal** effect.
+
+</details>
+
+---
+
+**Q-GC59. IAS 1998**
+
+**Assertion (A):** During the times of neap-tide, high-tide is below normal and low-tide is above normal.
+
+**Reason (R):** Neap-tides occur during the new-moon instead of full-Moon.
+
+A. (A) and (R) both are correct, and (R) is correct explanation of (A).
+
+B. (A) and (R) both are correct, and (R) is not correct explanation of (A).
+
+C. (A) is correct, but (R) is wrong.
+
+D. (A) is wrong, but (R) is correct.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true. Neaps are at **quadrature** (~7–8th day), not new moon.
+
+</details>
+
+---
+
+**Q-GC60. UPPCS Pre 1999**
+
+Spring Tide occurs:
+
+A. When the Sun the Earth and Moon are in a straight line
+
+B. When the Sun and Moon make a right angle
+
+C. When a strong wind blows
+
+D. When the night is very cold
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Syzygy (new/full) → **spring** tide.
+
+</details>
+
+---
+
+**Q-GC61. BPSC 2005**
+
+The high tide in the Ocean is caused by
+
+A. Earthquake
+
+B. Sun
+
+C. Stars
+
+D. Moon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Moon dominates tide-raising force (~2.17× Sun).
+
+</details>
+
+---
+
+**Q-GC62. IAS 2000**
+
+Match List-I with List-II (Oceanic Trench — Location):
+
+| List-I | List-II |
+|--------|---------|
+| A. Aleutian | 1. Indian Ocean |
+| B. Kermadec | 2. North Pacific |
+| C. Sunda | 3. South Pacific |
+| D. S. Sandwich | 4. South Atlantic Ocean |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 2 4 1 3
+
+B. 2 3 1 4
+
+C. 1 3 2 4
+
+D. 1 4 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Aleutian–N Pacific; Kermadec–S Pacific; Sunda–Indian; S Sandwich–S Atlantic. Code **2 3 1 4**.
+
+</details>
+
+---
+
+**Q-GC63. UPPCS Pre 1991 / Mains 2015**
+
+Which is the world's deepest trench / deepest oceanic trench?
+
+A. Tonga / Northern
+
+B. Mariana / Challenger
+
+C. Puerto Rico / Manhattan
+
+D. Izu-Bonin / Richards
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mariana / Challenger Deep** is deepest.
+
+</details>
+
+---
+
+**Q-GC64. IAS 2006**
+
+In which one of the following oceans Diamantina Trench is situated?
+
+A. Pacific Ocean
+
+B. Atlantic Ocean
+
+C. Indian Ocean
+
+D. Arctic Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Diamantina** = Indian Ocean.
+
+</details>
+
+---
+
+**Q-GC65. UPPCS Mains 2017**
+
+Match List-I with List-II (Ocean — Deepest Point):
+
+| List-I | List-II |
+|--------|---------|
+| A. Pacific Ocean | 1. Java Trench |
+| B. Atlantic Ocean | 2. Eurasian Basin |
+| C. Indian Ocean | 3. Mariana Trench |
+| D. Arctic Ocean | 4. Puerto Rico Trench |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 4 3 2 1
+
+B. 3 4 1 2
+
+C. 1 3 4 2
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pacific–Mariana; Atlantic–Puerto Rico; Indian–Java/Sunda; Arctic–Eurasian Basin. Code **3 4 1 2**.
+
+</details>
+
+---
+
+**Q-GC66. UPPCS Pre 2022**
+
+Match List-I with List-II (Ocean — Maximum Deepest Point):
+
+| List-I | List-II |
+|--------|---------|
+| A. Pacific | 1. Sunda Trench |
+| B. Arctic | 2. Puerto Rico Trench |
+| C. Indian | 3. Mariana Trench |
+| D. Atlantic | 4. Molloy deep |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 3 2 1 4
+
+B. 3 4 1 2
+
+C. 4 3 2 1
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pacific–Mariana; Arctic–Molloy; Indian–Sunda; Atlantic–Puerto Rico. Code **3 4 1 2**.
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Straits Canals Coral (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–156+ (straits · canals · coral reefs). Teaching lives in Topic 16 N.7–N.8 / N.8A. Year-coded UPPCS Suez stems already in Topic 16 Complete PYQ Bank are not repeated as identical year-coded entries.
+
+**Q-GC1. BPSC 2000**
+
+Malacca Strait facilitates movement from –
+
+A. Indian Ocean to China Sea
+
+B. Red Sea to Mediterranean Sea
+
+C. Atlantic Ocean to Pacific Ocean
+
+D. Mediterranean Sea to Black Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Malacca = Andaman/Indian Ocean approaches ↔ **South China Sea**.
+
+</details>
+
+---
+
+**Q-GC2. IAS 2011**
+
+Between India and East Asia, the navigation time and distance can be greatly reduced by which of the following?
+
+1. Deepening the Malacca Straits between Malaysia and Indonesia.
+2. Opening a new canal between the Gulf of Siam and the Andaman Sea.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only the **Kra/Siam–Andaman canal** idea shortens the route; deepening Malacca does not create a new shortcut.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Pre 1999**
+
+Which Strait separates Europe from Africa:
+
+A. Bosphorus
+
+B. Gibraltar
+
+C. Dover
+
+D. Bering
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Gibraltar** = Europe–Africa; Med ↔ Atlantic.
+
+</details>
+
+---
+
+**Q-GC4. UPPCS Mains 2005**
+
+Strait of Hormuz lies between –
+
+A. Black Sea and Marmara Sea
+
+B. Persian Gulf and Gulf of Oman
+
+C. Arabian Sea and Red Sea
+
+D. Red Sea and Mediterranean Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Hormuz = **Persian Gulf ↔ Gulf of Oman**.
+
+</details>
+
+---
+
+**Q-GC5. UP Lower 2004**
+
+The strait which separates Asia from North America is—
+
+A. Bering Strait
+
+B. Palk Strait
+
+C. Strait of Gibraltar
+
+D. Strait of Malacca
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Bering** = Asia–N America; Arctic ↔ Pacific.
+
+</details>
+
+---
+
+**Q-GC6. MPPCS 2021**
+
+Which one of the following waterways has more economic and strategic significance?
+
+A. Pak strait
+
+B. Malacca strait
+
+C. Suez canal
+
+D. Panama canal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** GC key emphasises **Suez** (~12% world trade / India–Europe cut).
+
+</details>
+
+---
+
+**Q-GC7. RAS Re-Exam 2013**
+
+Match the following:
+
+| Strait | Between |
+|--------|---------|
+| A. Gibraltar | iii. Africa and Europe |
+| B. Malacca | i. Indonesia and Malaysia |
+| C. Bering | iv. Asia and North America |
+| D. Hormuz | ii. Gulf of Persia and Gulf of Oman |
+
+**Codes:**
+
+A. iv ii iii i
+
+B. iii iv i ii
+
+C. iii i iv ii
+
+D. iv iii ii i
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Gibraltar–Africa/Europe; Malacca–Indonesia/Malaysia; Bering–Asia/N America; Hormuz–Persian/Oman. Code **iii i iv ii**.
+
+</details>
+
+---
+
+**Q-GC8. UP UDA/LDA 2001**
+
+Ten Degree Channel separates -
+
+A. Andaman from Nicobar Islands
+
+B. Andaman from Myanmar
+
+C. India from Sri Lanka
+
+D. Lakshadweep from Maldives
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **10° Channel** = Andaman ↔ Nicobar.
+
+</details>
+
+---
+
+**Q-GC9. IAS 2007**
+
+Through which one of the following straits does a tunnel connect the United Kingdom and France?
+
+A. Davis Strait
+
+B. Denmark Strait
+
+C. Strait of Dover
+
+D. Strait of Gibraltar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Channel Tunnel under **Dover Strait**.
+
+</details>
+
+---
+
+**Q-GC10. UPPCS Mains 2010**
+
+Strait of Dover connects –
+
+A. The Baltic Sea and the Gulf of Bothnia
+
+B. The Bay of Biscay and the English Channel
+
+C. The English Channel and the North Sea
+
+D. The Celtic Sea and the Irish Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Dover = English Channel ↔ **North Sea**.
+
+</details>
+
+---
+
+**Q-GC11. IAS 1996 / MPPSC 2018**
+
+The Palk Bay / Palk Strait lies between:
+
+A. Gulf of Kachchh and Gulf of Khambhat
+
+B. Gulf of Mannar and Bay of Bengal / India and Sri Lanka
+
+C. Lakshadweep and Maldives Islands
+
+D. Andaman and Nicobar Islands
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Palk = **India–Sri Lanka**; links Bay of Bengal / Palk Bay to Gulf of Mannar.
+
+</details>
+
+---
+
+**Q-GC12. UPPCS Mains 2007/08**
+
+The Persian Gulf does not form the border with –
+
+A. Bahrain
+
+B. Iraq
+
+C. Kuwait
+
+D. Oman
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Oman** faces Gulf of Oman / Arabian Sea, not the Persian Gulf proper.
+
+</details>
+
+---
+
+**Q-GC13. UPPCS Mains 2003**
+
+Which one of the following pairs is correctly matched?
+
+A. Gulf of Bothnia — France
+
+B. Baffin bay — Argentina
+
+C. Gulf of Carpentaria — Canada
+
+D. Gulf of Tonkin — Vietnam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tonkin = **Vietnam–China**. Bothnia = Sweden–Finland; Baffin = Canada–Greenland; Carpentaria = Australia.
+
+</details>
+
+---
+
+**Q-GC14. BPSC 2011**
+
+Which strait connects the Red Sea and the Indian Ocean?
+
+A. Bab-el-Mandeb
+
+B. Hormuz
+
+C. Bosphorus
+
+D. Malacca
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Bab-el-Mandeb** → Gulf of Aden / Indian Ocean.
+
+</details>
+
+---
+
+**Q-GC15. UP RO/ARO Mains 2017**
+
+Lombok Strait is located between which two islands?
+
+A. Bali and Lombok
+
+B. Lombok and Sumbawa
+
+C. Sumbawa and Java
+
+D. Java and Bali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Lombok Strait = **Bali ↔ Lombok**.
+
+</details>
+
+---
+
+**Q-GC16. RAS/UPPCS classic**
+
+Suez Canal Connects –
+
+A. Black sea with Red sea
+
+B. Mediterranean sea with Caspian sea
+
+C. Red sea with Mediterranean Sea
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Suez = **Med ↔ Red Sea**.
+
+</details>
+
+---
+
+**Q-GC17. UP UDA/LDA 2013**
+
+The port pair located at both ends of the Suez Canal is:
+
+A. Cairo & Alexandria
+
+B. Suez & Cairo
+
+C. Cairo & Port Said
+
+D. Port Said & Suez
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ends = **Port Said** (N) and **Suez** (S).
+
+</details>
+
+---
+
+**Q-GC18. UPPCS Pre 1992**
+
+**Assertion (A):** The distance between India and the western countries was shortened by the construction of the Suez Canal.
+
+**Reason (R):** The Suez Canal connects the Mediterranean to the Red Sea.
+
+A. (A) and (R) both are true, and (R) is the correct explanation of (A).
+
+B. (A) and (R) both are true, but (R) is not correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (R) is true, but (A) is false.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Med–Red link explains the India–Europe shortcut.
+
+</details>
+
+---
+
+**Q-GC19. UPPCS Pre 1995**
+
+Which of the following is the largest navigation canal in the world?
+
+A. Kiel Canal
+
+B. Panama Canal
+
+C. Soo Canal
+
+D. Suez Canal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** GC/coaching key = **Suez** as largest navigable canal.
+
+</details>
+
+---
+
+**Q-GC20. UPPCS Pre 2018**
+
+How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
+
+A. 5,000 km
+
+B. 7,000 km
+
+C. 8,000 km
+
+D. 10,000 km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** About **7000 km**.
+
+</details>
+
+---
+
+**Q-GC21. IAS 1997**
+
+One will NOT have to pass through the Suez Canal while going from Bombay to –
+
+A. Alexandria
+
+B. Suez
+
+C. Port Said
+
+D. Benghazi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Suez port is at the **southern end** — you reach it without “passing through” the canal.
+
+</details>
+
+---
+
+**Q-GC22. BPSC 1999**
+
+Panama Canal Connects –
+
+A. North America and South America
+
+B. Pacific Ocean and Atlantic Ocean
+
+C. Red Sea and Mediterranean Sea
+
+D. Indian Ocean and Pacific Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Panama = **Atlantic ↔ Pacific**.
+
+</details>
+
+---
+
+**Q-GC23. UPPCS Pre 1991**
+
+Soo Canal connects -
+
+A. Turan & Ontario
+
+B. Bengal & Tripura
+
+C. Superior & Michigan
+
+D. Superior & Huron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Soo = **Superior ↔ Huron**.
+
+</details>
+
+---
+
+**Q-GC24. IAS 2007**
+
+Which one of the following countries is planning to construct a rival to the Panama Canal to link the Pacific and Atlantic Oceans?
+
+A. Colombia
+
+B. Costa Rica
+
+C. Guatemala
+
+D. Nicaragua
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Nicaragua** canal proposal lore.
+
+</details>
+
+---
+
+**Q-GC25. RAS 1999**
+
+Kiel Canal connects:
+
+A. North Sea-Baltic Sea
+
+B. Black Sea-Red Sea
+
+C. Baltic Sea-Red Sea
+
+D. North Sea- Black Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kiel = **North Sea ↔ Baltic**.
+
+</details>
+
+---
+
+**Q-GC26. UPPCS Pre 2017**
+
+Which of the following canals is used as an inland waterway in Southern Germany?
+
+A. Volga-Don Canal
+
+B. Sault-Sainte Marie Canal
+
+C. Ludwings Canal
+
+D. White Sea Canal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ludwig’s Canal** = S Germany inland waterway.
+
+</details>
+
+---
+
+**Q-GC27. RAS 2018**
+
+Match List-I with List-II (Canal — Connects):
+
+| List-I | List-II |
+|--------|---------|
+| A. Kiel | 1. Mediterranean sea & Red sea |
+| B. Soo | 2. Elbe estuary & Baltic sea |
+| C. Panama | 3. Atlantic ocean & Pacific ocean |
+| D. Suez | 4. Lake superior & lake Huron |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 2 4 3 1
+
+B. 1 2 3 4
+
+C. 4 3 2 1
+
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kiel–Elbe/Baltic; Soo–Superior/Huron; Panama–Atlantic/Pacific; Suez–Med/Red. Code **2 4 3 1**.
+
+</details>
+
+---
+
+**Q-GC28. RAS 2008**
+
+Generally, where are coral reefs found?
+
+A. In temperate climate above 18°C
+
+B. Between Tropic of Cancer and Tropic of Capricorn coastal areas
+
+C. On both east and west coasts of continents and islands only
+
+D. On colder sea coasts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mainly **tropical** clear warm seas between the tropics.
+
+</details>
+
+---
+
+**Q-GC29. RAS 1999 / MPPCS 2015 / IAS 2007**
+
+'Great Barrier Reef' is—
+
+A. A coral reef near Australia
+
+B. A watershed in Rajasthan
+
+C. Wall of China
+
+D. A range of the Rocky Mountains
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** GBR = world’s largest coral reef off **NE Australia / Queensland** (Pacific).
+
+</details>
+
+---
+
+**Q-GC30. UP RO/ARO Pre 2023**
+
+With reference to the "Great Barrier Reef", which of the following statement/s is/are correct?
+
+1. It is situated along the north-eastern coast of Australia.
+2. It is more than 2500 kms in length.
+
+A. Neither 1 nor 2
+
+B. Only 1
+
+C. Both 1 and 2
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NE Australia true. Length ≈ **2300 km**, not >2500 in the key.
+
+</details>
+
+---
+
+**Q-GC31. IAS 2018**
+
+Consider the following statements:
+
+1. Most of the world's coral reefs are in tropical waters.
+2. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines.
+3. Coral reefs host far more number of animal phyla than those hosted by tropical rainforests.
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are accepted in the IAS key.
+
+</details>
+
+---
+
+**Q-GC32. BPSC 2020 Re-Exam**
+
+Addu Atoll are situated in which ocean?
+
+A. Atlantic Ocean
+
+B. Arctic Ocean
+
+C. Indian Ocean
+
+D. Pacific Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Addu = southern **Maldives** → **Indian Ocean**.
+
 </details>
 
 ---
@@ -2400,3 +4675,18 @@ D. Hydrothermal vent — only found on continental shelves under 50 m
 29. **Density ignores salinity** — FALSE. Cold + salt (+ pressure) set density and deep flow.
 30. **Waves = tides** — FALSE. Waves need wind/fetch; tides need Moon/Sun gravity.
 31. **Upwelling on east coasts of continents** — FALSE. Classic upwelling = **west** coasts.
+
+35. **OMT depth is always 129 m** — FALSE. IAS key uses ~**59 m** mean for SW Indian Ocean Jan–Mar; statement 1 in that stem is wrong.
+36. **Fresh usable = 95% in ice of all Earth water** — FALSE. Ice is most of *fresh* water; usable total is **<1%** of all water.
+37. **Rivers+lakes > groundwater** — FALSE among remaining fresh after ice. **Groundwater** is larger.
+38. **Sargasso has a coastline** — FALSE.
+39. **Telegraph Plateau = Indian Ocean** — FALSE. **North Atlantic Ridge**.
+40. **Neap tide = new/full moon** — FALSE. New/full = **spring**. Neap = quadrature (~7–8th day).
+41. **Benguela = Pacific / Indian** — FALSE. **South Atlantic**.
+42. **Agulhas = cold** — FALSE. **Warm** Indian Ocean.
+
+43. **Suez uses canal facts like Panama** — FALSE. Suez is sea-level (**no facts**); Panama has facts.
+44. **Persian Gulf borders Oman** — FALSE. Oman faces **Gulf of Oman**.
+45. **Soo Canal = Superior–Michigan** — FALSE. Superior–**Huron**.
+46. **Great Barrier Reef = Atlantic / New Zealand** — FALSE. **Pacific**, NE **Queensland / Australia**.
+47. **Coral reefs = cold coasts only** — FALSE. Tropical warm clear water.

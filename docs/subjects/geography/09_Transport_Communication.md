@@ -10,7 +10,7 @@
 **Tourism:** Incredible India | Hill stations & resorts | World Heritage tourist sites | City nicknames | Pilgrimage geography
 </details>
 
-> **Sources baked in:** NCERT Class 10–12 transport, Drishti / PW heads, **Ghatnachakra** Transport (CA–352+) + **Tourism / Misc** (CA–376+), UPPCS Prelims 2018–2025
+> **Sources baked in:** **Ghatnachakra** World Transport/Ports/Mapping (CB–247+);  NCERT Class 10–12 transport, Drishti / PW heads, **Ghatnachakra** Transport (CA–352+) + **Tourism / Misc** (CA–376+), UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — zone–HQ, port–state, GQ / NS–EW / Jhansi, tourism match lists, scheme year, UP expressway/airport
 > **Last verified:** August 2026
 > **Current Affairs:** Gati Shakti 2021; NLP 2022; New Pamban; FLY91; Jewar (Noida Intl); Amrit Bharat UP 149 stations
@@ -4139,6 +4139,535 @@ D. None
 <summary>Show answer</summary>
 
 **Ans: C.** All three are standard Ghatnachakra misc facts: **Chandipur (Odisha)**, **HMI Darjeeling**, and **Speed Post from 1 August 1986**.
+
+</details>
+
+---
+
+
+## N.12 World transport · ports · isopleths
+
+**Sea / air / rail cues**
+
+| Cue | Fact |
+|-----|------|
+| Busiest ocean trade route | **North Atlantic** (links two industrial zones) |
+| Trans-Siberian | Long Eurasian rail; **Sochi** is **not** on the main route |
+| Eurotunnel / Channel Tunnel | **England–France** |
+| Canadian Pacific | Montreal–Vancouver lore |
+| Bullet / HSR network length | **China** leader |
+| Rotterdam | Rhine mouth; Europe’s great seaport |
+| Shanghai | Often #1 container harbour in recent frames |
+| Santos | **Coffee port** (Brazil) |
+| Maracaibo | Venezuela **oil** port |
+| Port Nolloth | South Africa **diamond** port lore |
+| Gwadar | **Pakistan** (Balochistan), Arabian Sea |
+| Igarka | **Russia** (Yenisei) — not China |
+| Alexandria | **Egypt** |
+
+**Isopleths / relief**
+
+| Line | Equal… |
+|------|--------|
+| **Isobar** | Pressure |
+| **Isohyet** | Rainfall |
+| **Isotherm** | Temperature |
+| **Isohaline** | Salinity |
+| **Isobath** | Depth |
+| **Isogonic** | Magnetic declination |
+| Contours | Elevation / relief |
+
+Daily weather isobar maps are **isopleth** maps. Magellan = first circumnavigation lore.
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra World Transport Ports Mapping (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–247+ (ocean routes · railways · ports · isopleths). Teaching lives in Topic 09 N.12. India-only transport PYQs already in earlier GC Transport banks are not repeated here.
+
+**Q-GC1. UPPCS Pre 2003**
+
+**Assertion (A):** North Atlantic sea route is the busiest sea route in the world.
+
+**Reason (R):** It connects two major industrial zones of the world.
+
+A. Both true and R explains A
+
+B. Both true R does not explain A
+
+C. A true R false
+
+D. R true A false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** North Atlantic links Europe–N America industry — busiest classic ocean route.
+
+</details>
+
+---
+
+**Q-GC2. UPPCS Pre 2014**
+
+Which one of the following is the busiest ocean trade route?
+
+A. Cape of Good Hope
+
+B. Panama Canal
+
+C. Suez Canal
+
+D. North Atlantic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **North Atlantic**.
+
+</details>
+
+---
+
+**Q-GC3. IAS 1997**
+
+Delhi→Tokyo landing sequence: Hongkong, Hanoi, Taipei, Bangkok — correct onward order:
+
+A. 1, 2, 3, 4
+
+B. 4, 2, 1, 3
+
+C. 3, 4, 1, 2
+
+D. 4, 1, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bangkok → Hanoi → Hong Kong → Taipei.
+
+</details>
+
+---
+
+**Q-GC4. MPPCS Spl 2004**
+
+To which country the airlines 'Lufthansa' belongs to?
+
+A. Germany
+
+B. France
+
+C. Yugoslavia
+
+D. Spain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Germany**.
+
+</details>
+
+---
+
+**Q-GC5. IAS 1995**
+
+Match European Trans-Continental / Trans-Andean / Trans-Siberian / Orient Express.
+
+A. 5 4 2 1
+
+B. 1 4 3 2
+
+C. 5 1 2 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Paris–Warsaw; Buenos Aires–Valparaiso; Leningrad–Vladivostok; Paris–Istanbul.
+
+</details>
+
+---
+
+**Q-GC6. UPPCS Pre 2019**
+
+Which city is not located on the Trans-Siberian rail route?
+
+A. Kazan
+
+B. Omsk
+
+C. Sochi
+
+D. Chita
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Sochi** is off the main Trans-Siberian track.
+
+</details>
+
+---
+
+**Q-GC7. UKPCS Pre 2016**
+
+Which country has the world's longest network of bullet train?
+
+A. Russia
+
+B. Japan
+
+C. U.S.A.
+
+D. China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **China** HSR length leader.
+
+</details>
+
+---
+
+**Q-GC8. Jharkhand PCS 2013**
+
+The Canadian Pacific Railway runs between –
+
+A. Edmonton and Halifax
+
+B. Montreal and Vancouver
+
+C. Ottawa and Prince Rupert
+
+D. Halifax and Vancouver
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Montreal–Vancouver**.
+
+</details>
+
+---
+
+**Q-GC9. RAS 1997**
+
+Euro tunnel for fast running trains joins:
+
+A. Holland - England
+
+B. England- France
+
+C. Belgium - Holland
+
+D. France -Luxembourg
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **England–France**.
+
+</details>
+
+---
+
+**Q-GC10. UP Lower 2015**
+
+Which of the following is the busiest port of Japan?
+
+A. Yokohama
+
+B. Hiroshima
+
+C. Hitachi
+
+D. Kagoshima
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Yokohama**.
+
+</details>
+
+---
+
+**Q-GC11. BPSC 1995**
+
+Which one of the following is not a sea-port city?
+
+A. Tokyo
+
+B. Canberra
+
+C. New York
+
+D. London
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Canberra** is inland capital.
+
+</details>
+
+---
+
+**Q-GC12. IAS 1999**
+
+Which port city in Venezuela has been developed as an oil port?
+
+A. Caracas
+
+B. Maracaibo
+
+C. Maracay
+
+D. Carupano
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Maracaibo** oil port.
+
+</details>
+
+---
+
+**Q-GC13. UPPCS Mains 2007**
+
+Alexandria is a port in –
+
+A. Egypt
+
+B. Israel
+
+C. Jordan
+
+D. Libya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Egypt**.
+
+</details>
+
+---
+
+**Q-GC14. MPPCS 2015 / IAS 2000**
+
+Which one is known as the "Coffee port" of the world?
+
+A. Sao Paulo
+
+B. Santos
+
+C. Rio de Janeiro
+
+D. Buenos Aires
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Santos** (Brazil).
+
+</details>
+
+---
+
+**Q-GC15. Jharkhand PCS 2013**
+
+In which country, Port Gwadar is located?
+
+A. Iran
+
+B. Pakistan
+
+C. India
+
+D. Sri Lanka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Pakistan**.
+
+</details>
+
+---
+
+**Q-GC16. UPPCS Pre 2023 / 2016**
+
+Which Port–Country is not correctly matched?
+
+A. Montevideo — Uruguay
+
+B. Igarka — China
+
+C. Jakarta — Indonesia
+
+D. Rotterdam — Netherland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Igarka = **Russia**, not China.
+
+</details>
+
+---
+
+**Q-GC17. IAS 1997**
+
+Daily weather map showing isobars is an example of:
+
+A. Choropleth map
+
+B. Isopleth map
+
+C. Chorochromatic map
+
+D. Choroschematic map
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Isopleth** map.
+
+</details>
+
+---
+
+**Q-GC18. UP Lower 1998**
+
+Isogonic lines are:
+
+A. Same atmospheric pressure lines
+
+B. Same temperature lines
+
+C. Same salinity lines
+
+D. Same magnetic declination line
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Magnetic declination**.
+
+</details>
+
+---
+
+**Q-GC19. CGPCS 2003**
+
+Isobaths are used to show –
+
+A. Rainfall
+
+B. Pressure
+
+C. Time
+
+D. Depth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Depth**.
+
+</details>
+
+---
+
+**Q-GC20. MPPCS 2015**
+
+The line joining the areas having the same rainfall is called:
+
+A. Isobar
+
+B. Isohyet
+
+C. Isotherm
+
+D. Isohaline
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Isohyet**.
+
+</details>
+
+---
+
+**Q-GC21. Jharkhand PCS 2013**
+
+What is the most accurate method of representing relief features?
+
+A. Contours
+
+B. Hachures
+
+C. Layer colouring
+
+D. Hill shading
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Contours**.
+
+</details>
+
+---
+
+**Q-GC22. UPPCS Mains 2017**
+
+What is meant by the term 'Umland'?
+
+A. The heart area of a town
+
+B. A satellite town
+
+C. Area surrounding a town
+
+D. Residential area of a town
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Umland = **area surrounding a town**.
+
+</details>
+
+---
+
+**Q-GC23. UP RO/ARO Pre 2023**
+
+Who was the first to use the word 'Megalopolis'?
+
+A. Jean Gottmann
+
+B. Taylor
+
+C. Davis
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Jean Gottmann**.
 
 </details>
 

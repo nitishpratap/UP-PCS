@@ -8,7 +8,7 @@
 World Rivers by Continent | Superlatives (longest / discharge / deepest) | Deltas | Cities on Rivers | Border / International Rivers | Navigation | Dams | Lakes (types + superlatives) | Waterfalls | Endorheic / shrinking lakes
 </details>
 
-> **Sources baked in:** Lucent world-geography match-lists; NCERT world map diet; LotusArise / Circular Learnings world rivers–lakes notes; UPPCS Prelims 2018–2025
+> **Sources baked in:** Lucent world-geography match-lists; NCERT world map diet; LotusArise / Circular Learnings world rivers–lakes notes; **Ghatnachakra** World Geography Rivers–Cities–Landforms–Lakes–Falls–Dams (CB–132+ / CB–151+); UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — city–river pairs, river direction, border rivers, lake–country, Mekong source/delta; teach full world map
 > **Last verified:** August 2026 — coaching gap-pass (Congo, Niger, GERD, lake types, Great Lakes mnemonic)
 > **Current Affairs:** GERD (Blue Nile) once; Aral / Chad / Dead Sea shrinkage static
@@ -46,7 +46,7 @@ D. Colorado
 ---
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
 2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** is on the **Musi**, not the Godavari or Paleru.
@@ -72,6 +72,10 @@ D. Colorado
 22. Lake types include tectonic/rift, glacial, crater, lagoon, and oxbow. Do not dump every famous lake as simply a “fresh lake”.
 23. Continent spine: Nile (Africa), Amazon (South America), Yangtze (Asia), Mississippi–Missouri (North America), Volga (Europe), Murray–Darling (Australia).
 24. Navigation classics include the Rhine, Danube, Volga, St Lawrence, Yangtze, and Mississippi.
+25. **Limpopo** crosses the Tropic of Capricorn **twice**. **Congo/Zaire** crosses the Equator **twice**.
+26. **Mahaweli** = longest Sri Lanka river; Sri Lanka drainage is **radial** from central highlands.
+27. City–river desk: Phnom Penh–Mekong; Hanoi–Red; Yangon–Irrawaddy; Madrid–Manzanares; Bangkok–Chao Phraya; Basra–Shatt al-Arab.
+28. **Grand Canyon** = Colorado. **Chisapani Gorge** = Nepal (Karnali). Largest delta = **Ganga–Brahmaputra**. Inselberg ≠ glacier.
 
 ---
 
@@ -85,6 +89,12 @@ Read as: **this** is correct · **that** is the usual wrong option.
 | Hyderabad (India) is on the | **Musi** | Godavari / Paleru | मुसी |
 | Mekong flows | **South / south-east** | South-west | मेकांग |
 | Mekong delta is in | **Southern Vietnam** | Cambodia | मेकांग डेल्टा |
+| Limpopo Capricorn | Crosses **twice** | Once only | लिम्पोपो |
+| Mahaweli | **Sri Lanka** | India / Bangladesh | महावेली |
+| Inselberg | **Wind** residual | Glacier | इंसेलबर्ग |
+| Grand Canyon river | **Colorado** | Missouri / St Lawrence | ग्रैंड कैन्यन |
+| Berlin river | **Spree** | Rhine | बर्लिन |
+| Vienna river | **Danube** | Volga | वियना |
 | USA–Mexico border river | **Rio Grande** | Colorado or Mississippi | रियो ग्रांडे |
 | Lake Onega is in | **Russia** | Canada | ओनेगा |
 | Lake Michigan lies | **Wholly in the USA** | Shared USA–Canada (Superior / Huron / Erie / Ontario are shared) | मिशिगन |
@@ -162,7 +172,8 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 | Tigris | Turkey | Shatt al-Arab → Persian Gulf | Turkey–Iraq | **Baghdad** on Tigris |
 | Euphrates | Turkey | Shatt al-Arab → Persian Gulf | Turkey–Syria–Iraq | Twin of Tigris |
 | Jordan | Hermon / Anti-Lebanon | **Dead Sea** | Israel–Jordan | Ends in Dead Sea, no ocean |
-| Irrawaddy | N Myanmar | Andaman Sea | Myanmar | |
+| Irrawaddy | N Myanmar | Andaman Sea | Myanmar lifeline | |
+| **Mahaweli Ganga** | Sri Lanka highlands | Bay of Bengal | Longest Sri Lanka (~335 km); island shows **radial** drainage | |
 | Salween | Tibet | Andaman Sea | China–Myanmar–Thailand | |
 
 **Africa**
@@ -174,7 +185,7 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 | **Niger** | Guinea highlands | Gulf of Guinea (Nigeria) | Inland delta in Mali, then a coastal delta | **Paradox river** — arcs inland / away from the nearby Atlantic before turning south-east to the Gulf |
 | Zambezi | Zambia / Angola uplands | Mozambique Channel | **Victoria Falls** · Kariba · Cahora Bassa | Zambia–Zimbabwe border at the falls |
 | Orange | Drakensberg | Atlantic | South Africa / Namibia | |
-| Limpopo | S Africa | Indian Ocean (Mozambique) | South Africa–Botswana–Zimbabwe–Mozambique | |
+| Limpopo | S Africa | Indian Ocean (Mozambique) | Crosses **Tropic of Capricorn twice** | |
 
 **Europe**
 
@@ -182,7 +193,7 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 |-------|-------|--------|------|
 | **Volga** | Caspian | Source **Valdai Hills**; Volga–Don canal | Longest in Europe; mouth = **Caspian**, not Black Sea |
 | **Danube** | Black Sea | Vienna · **Budapest** · Belgrade | Crosses the **most countries** (~10) |
-| **Rhine** | North Sea at Rotterdam | Basel · Strasbourg · **Cologne** | **Busiest** European inland navigation |
+| **Rhine** | North Sea at Rotterdam | Basel · Strasbourg · **Cologne** · Bonn | **Busiest** European inland navigation; flows in a **rift valley** |
 | Thames | North Sea | **London** | |
 | Seine | English Channel | **Paris** | |
 | Po | Adriatic | N Italy | |
@@ -283,6 +294,23 @@ D. Niger
 
 ---
 
+
+## N.2A River landforms (world desk)
+
+| Form | Cue |
+|------|-----|
+| **Gorge** | Deep narrow valley with steep walls (e.g. **Chisapani** on Karnali, Nepal) |
+| **Canyon** | Broader/deeper eroded gorge — **Grand Canyon** cut by **Colorado** (Arizona) |
+| **V-shaped valley** | Youthful vertical + lateral erosion |
+| **Meander** | Looping course on gentle plains |
+| **Alluvial fan / cone** | Sediment cone where a stream leaves mountains into a plain |
+| **Delta** | Mouth deposit — Ganga–Brahmaputra–Meghna = world’s largest; Mississippi = **bird’s-foot**; Nile = arcuate |
+| **Watershed / catchment** | Land unit that collects, stores and releases water to a common outlet |
+
+**Agent traps:** Canyon/gorge = **river**; moraine = **glacier**; zeugen / inselberg = **wind** (not glacier).
+
+---
+
 ## N.3 Cities on Rivers
 
 | City | Country | River | Trap |
@@ -316,6 +344,19 @@ D. Niger
 | Washington DC | USA | Potomac | |
 | New York | USA | Hudson | |
 | **Hyderabad** | India | **Musi** (joins Krishna) | Not Godavari; not Paleru |
+
+| Phnom Penh | Cambodia | Mekong | |
+| Hanoi | Vietnam | Red River | |
+| Yangon | Myanmar | Irrawaddy | Former capital |
+| Madrid | Spain | Manzanares | |
+| Asunción | Paraguay | Paraguay | |
+| Niamey | Niger | Niger | |
+| Basra | Iraq | Shatt al-Arab | |
+| Kinshasa / Brazzaville | DRC / Congo | Congo (Zaire) | |
+| Bangkok | Thailand | Chao Phraya (Menam) | |
+| Lahore | Pakistan | Ravi | |
+| Perth | Australia | Swan | |
+| Caracas | Venezuela | Orinoco basin lore | |
 
 **Inline PYQ — UPPCS Prelims 2025, Q68**
 
@@ -418,6 +459,14 @@ Match the dam to the river and the country pair.
 | Nurek | Vakhsh | Tajikistan | |
 | Merowe | Nile | Sudan | |
 
+| Cahora Bassa | Zambezi | Mozambique | |
+| Kurobe | Kurobe | Japan | |
+| Grande Dixence | Dixence | Switzerland | |
+| Enguri | Enguri | Georgia | |
+| Xiaowan | Lancang / Mekong | China | |
+| **Zangmu** | Yarlung Tsangpo / Brahmaputra | Tibet (China) | Flow concern lore |
+| Oroville | Feather | USA | |
+
 ---
 
 ## N.7 Lakes
@@ -460,6 +509,28 @@ Learn **superlative** and **type**. Endorheic lakes have no ocean outlet.
 **Great Lakes, west → east:** Superior → Michigan → Huron → Erie → Ontario → St Lawrence.
 Mnemonic: **Super Man Helps Every One**. Together they hold about **20%** of the world’s surface freshwater.
 
+**East → west** reverse: Ontario → Erie → Huron → Michigan → Superior.
+
+**Lakes desk (GC extras)**
+
+| Lake / cue | Fact |
+|------------|------|
+| **Faguibine** | Mali (W Africa) — dried / desertified |
+| **Balkhash** | **Kazakhstan** |
+| **Finger Lakes** | New York, **USA** |
+| **Boiling Lake** | Dominica |
+| **Five Flower Lake** | Sichuan, **China** (not Mongolia) |
+| **Red Lagoon** | Bolivia |
+| **Urmia** | Iran |
+| **Reindeer / Athabasca** | **Canada** (Uranium City near Athabasca) |
+| **Plitvice** | Croatia — UNESCO lake park |
+| **Great Lakes E→W** | Ontario → Erie → Huron → Michigan → Superior |
+| Cities | Duluth–Superior; Chicago–Michigan; Buffalo–Erie; Detroit–Detroit River |
+| **Victoria** | TZ / UG / KE (**three** countries); rift-associated; White Nile outflow near Jinja |
+| Volume ladder (fresh lore) | Caspian (saline) > Baikal > Tanganyika > Superior > Malawi |
+| Area ladder (fresh) | Superior > Victoria > … |
+
+
 **Inline PYQ — UPPCS Prelims 2023, Q66**
 
 Which of the following pairs is NOT correctly matched?
@@ -491,6 +562,8 @@ Highest ≠ widest ≠ most famous. Fact Angel for height and Victoria for the Z
 | **Victoria** | **Zambezi** | Zambia–Zimbabwe | Not the highest |
 | **Niagara** | Niagara (Erie → Ontario) | USA–Canada | |
 | **Iguazu / Iguaçu** | Iguazu (Paraná system) | Brazil–Argentina | |
+| Ribbon | Ribbon Creek | California (Yosemite) | |
+| Browne | — | New Zealand | high fall lore |
 | Yosemite | Yosemite Creek | USA (California) | |
 
 ---
@@ -623,6 +696,1751 @@ D. Mississippi
 <summary>Show answer</summary>
 
 **Ans: D** — Mississippi = bird’s-foot; Nile / Hwang Ho = arcuate.
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra World Rivers Cities Landforms (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–132+ (world rivers · cities on rivers · fluvial landforms). Teaching lives in Topic 17 N.1–N.3 / N.2A. Year-coded UPPCS stems already in Topic 17 Complete PYQ Bank (Mekong 2021/24, Mississippi bird’s-foot 2018, Rio Grande 2023, city pairs 2025) are not repeated as identical year-coded entries.
+
+**Q-GC1. IAS 2020**
+
+Consider the following pairs:
+
+| River | Flows into |
+|-------|------------|
+| 1. Mekong | Andaman Sea |
+| 2. Thames | Irish Sea |
+| 3. Volga | Caspian Sea |
+| 4. Zambezi | Indian Ocean |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 3 and 4 only
+
+D. 1, 2 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Volga→Caspian and Zambezi→Indian Ocean are correct. Mekong→South China Sea; Thames→North Sea.
+
+</details>
+
+---
+
+**Q-GC2. RAS 1999/2000**
+
+The largest river of the world in terms of drainage area, is-
+
+A. Nile
+
+B. Amazon
+
+C. Congo
+
+D. Mississippi-Missouri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Amazon** = largest basin / discharge.
+
+</details>
+
+---
+
+**Q-GC3. UKPCS Pre 2021**
+
+Which one of the following rivers is the second longest river of the world?
+
+A. Nile
+
+B. Amazon
+
+C. Mississippi - Missouri
+
+D. Yangtze
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Usual length ladder: Nile then **Amazon**.
+
+</details>
+
+---
+
+**Q-GC4. UP Lower 2015**
+
+Which of the following rivers crosses the Equator twice?
+
+A. Zaire
+
+B. Niger
+
+C. Nil
+
+D. Amazon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Congo/Zaire** crosses the Equator twice.
+
+</details>
+
+---
+
+**Q-GC5. IAS 2023**
+
+Which one of the following is a part of the Congo Basin?
+
+A. Cameroon
+
+B. Nigeria
+
+C. South Sudan
+
+D. Uganda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Cameroon** is in the Congo Basin country set.
+
+</details>
+
+---
+
+**Q-GC6. IAS 2007**
+
+Which one among the following rivers is the longest?
+
+A. Amazon
+
+B. Amur
+
+C. Congo
+
+D. Lena
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Among options **Amazon** is longest (Nile not listed).
+
+</details>
+
+---
+
+**Q-GC7. BPSC 2008**
+
+The longest river of South America –
+
+A. Nile
+
+B. Amazon
+
+C. Mississipi
+
+D. Ganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Amazon**.
+
+</details>
+
+---
+
+**Q-GC8. UP UDA/LDA 2013**
+
+Which of the following countries is not under the drainage area of the Nile river-
+
+A. Chad
+
+B. Ethiopia
+
+C. Sudan
+
+D. Uganda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Chad** is not in the Nile basin.
+
+</details>
+
+---
+
+**Q-GC9. UP RO/ARO Pre 2016**
+
+The Blue Nile river originates from
+
+A. Lake Victoria
+
+B. Lake Tana
+
+C. Lake Edward
+
+D. Lake Albert
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Blue Nile = **Lake Tana** (Ethiopia).
+
+</details>
+
+---
+
+**Q-GC10. UPPCS Mains 2005**
+
+**Assertion (A):** Egypt is the Gift of the Nile.
+
+**Reason (R):** It is an oasis of the Sahara desert.
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nile water/silt make Egypt livable in Sahara context — R explains A.
+
+</details>
+
+---
+
+**Q-GC11. UPPCS Mains 2010**
+
+Which one of the following rivers of Asia flows towards the south?
+
+A. Amur
+
+B. Lena
+
+C. Ob
+
+D. Salween
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Salween** flows south; Amur NE; Ob/Lena north.
+
+</details>
+
+---
+
+**Q-GC12. UPPCS Mains 2016**
+
+The largest river of Asia is –
+
+A. Indus
+
+B. Brahmaputra
+
+C. Yangtze
+
+D. Hwang Ho
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Yangtze** = Asia’s longest.
+
+</details>
+
+---
+
+**Q-GC13. RAS 2012**
+
+Syr and Amu rivers fall into-
+
+A. Caspian sea
+
+B. Black sea
+
+C. Baltic sea
+
+D. Aral sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Amu Darya + Syr Darya → **Aral Sea**.
+
+</details>
+
+---
+
+**Q-GC14. RAS 1999**
+
+The river duo, which falls into the Black Sea are –
+
+A. Volga- Danube
+
+B. Dnieper- Volga
+
+C. Dnieper- Danube
+
+D. Ural- Volga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Dnieper** and **Danube** enter the Black Sea. Volga/Ural → Caspian.
+
+</details>
+
+---
+
+**Q-GC15. UPPCS Pre 1992**
+
+River Volga falls into:
+
+A. Red Sea
+
+B. Caspian Sea
+
+C. Black Sea
+
+D. Mediterranean Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Volga → **Caspian**.
+
+</details>
+
+---
+
+**Q-GC16. UP RO/ARO Pre 2016**
+
+Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Lena | 1. Persian Gulf |
+| B. Amur | 2. Arctic Ocean |
+| C. Tigris | 3. Arabian Sea |
+| D. Mahi | 4. Pacific Ocean |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 2 4 1 3
+
+B. 3 2 4 1
+
+C. 4 1 3 2
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Lena–Arctic; Amur–Pacific; Tigris–Persian Gulf; Mahi–Arabian Sea. Code **2 4 1 3**.
+
+</details>
+
+---
+
+**Q-GC17. UPPCS Pre 1998**
+
+Which of the following river flows through a rift valley?
+
+A. Amazon
+
+B. Indus
+
+C. Volga
+
+D. Rhine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Rhine** flows through a rift valley.
+
+</details>
+
+---
+
+**Q-GC18. Raj PCS 2023**
+
+In which sea do river Elbe and river Rhine drain their water?
+
+A. North Sea
+
+B. Mediterranean Sea
+
+C. Adriatic Sea
+
+D. Black Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both drain to the **North Sea**.
+
+</details>
+
+---
+
+**Q-GC19. RAS 1996**
+
+Which of the following is not related to Asia?
+
+A. Lop Nor
+
+B. Amur
+
+C. Niger
+
+D. Tigris
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Niger** = West Africa.
+
+</details>
+
+---
+
+**Q-GC20. UPPSC GIC 2010**
+
+Which of the following river of Africa crosses tropic of Capricorn twice?
+
+A. Zambezi
+
+B. Limpopo
+
+C. Congo
+
+D. Niger
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Limpopo** crosses Capricorn twice.
+
+</details>
+
+---
+
+**Q-GC21. UPPCS Spl Mains 2008**
+
+The country which provides the best example of radial drainage is
+
+A. Australia
+
+B. France
+
+C. Sri Lanka
+
+D. Zaire
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Sri Lanka** — streams radiate from central highlands.
+
+</details>
+
+---
+
+**Q-GC22. UP RO/ARO Mains 2013**
+
+Mahaweli Ganga is a river of –
+
+A. Bangladesh
+
+B. India
+
+C. Sri Lanka
+
+D. Nepal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mahaweli** = Sri Lanka.
+
+</details>
+
+---
+
+**Q-GC23. UPPCS Spl Mains 2008**
+
+Which of the following pair is not correctly matched?
+
+| River | Country |
+|-------|---------|
+| (a) Dnieper | Ukraine |
+| (b) Po | Italy |
+| (c) Rhine | Germany |
+| (d) Rhone | Spain |
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Rhône → France / Switzerland (Med), **not Spain**.
+
+</details>
+
+---
+
+**Q-GC24. Jharkhand PCS 2011 / MPPCS 2022**
+
+The great Asian river the Mekong does not flow through:
+
+A. China
+
+B. Malaysia / Bangladesh
+
+C. Cambodia
+
+D. Laos
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mekong skips **Malaysia** and **Bangladesh**.
+
+</details>
+
+---
+
+**Q-GC25. UPPCS Mains 2015**
+
+The glacial lake Itasca is the source of the river –
+
+A. Missouri
+
+B. Mississippi
+
+C. Rio Grande
+
+D. Red river
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lake Itasca → **Mississippi**.
+
+</details>
+
+---
+
+**Q-GC26. UP RO/ARO Re-Exam 2016**
+
+Match List-I with List-II (River — City):
+
+| List-I | List-II |
+|--------|---------|
+| A. Shatt-al-Arab | 1. Vienna |
+| B. Paraguay | 2. Basra |
+| C. Niger | 3. Asuncion |
+| D. Danube | 4. Niamey |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 1 2 3 4
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Shatt–Basra; Paraguay–Asunción; Niger–Niamey; Danube–Vienna. Code **2 3 4 1**.
+
+</details>
+
+---
+
+**Q-GC27. UP BEO 2019**
+
+Match List-I with List-II (Cities — Rivers):
+
+| List-I | List-II |
+|--------|---------|
+| A. Paris | 1. Paraguay |
+| B. Kinshasa | 2. Chao Phraya |
+| C. Bangkok | 3. Zaire (Congo) |
+| D. Asuncion | 4. Seine |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 4 1 2 3
+
+B. 3 4 1 2
+
+C. 4 3 2 1
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Paris–Seine; Kinshasa–Congo; Bangkok–Chao Phraya; Asunción–Paraguay. Code **4 3 2 1**.
+
+</details>
+
+---
+
+**Q-GC28. UPPCS Mains 2015**
+
+Which one of the following is not correctly matched?
+
+A. Khartoum — Nile
+
+B. New York — Hudson
+
+C. Berlin — Spree
+
+D. Sydney — Seine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Seine = **Paris**. Sydney ≠ Seine.
+
+</details>
+
+---
+
+**Q-GC29. IAS 2005**
+
+Match List-I with List-II (City — Location river):
+
+| List-I | List-II |
+|--------|---------|
+| A. Washington D.C. | 1. River Manzanares |
+| B. Berlin | 2. River Seine |
+| C. Paris | 3. River Spree |
+| D. Madrid | 4. River Potomac |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 2 3 4 1
+
+B. 4 1 2 3
+
+C. 2 1 4 3
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Washington–Potomac; Berlin–Spree; Paris–Seine; Madrid–Manzanares. Code **4 3 2 1**.
+
+</details>
+
+---
+
+**Q-GC30. UPPCS Pre 1999**
+
+Match List-I with List-II (Town — River):
+
+| List-I | List-II |
+|--------|---------|
+| A. Berlin | 1. Tiber |
+| B. Lahore | 2. Hudson |
+| C. New York | 3. Ravi |
+| D. Rome | 4. Spree |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 1 4 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Berlin–Spree; Lahore–Ravi; New York–Hudson; Rome–Tiber. Code **4 3 2 1**.
+
+</details>
+
+---
+
+**Q-GC31. IAS 2009**
+
+Which one of the following pairs is not correctly matched?
+
+A. Berlin — Rhine
+
+B. London — Thames
+
+C. New York — Hudson
+
+D. Vienna — Danube
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Berlin = **Spree**, not Rhine.
+
+</details>
+
+---
+
+**Q-GC32. UPPCS / Lower**
+
+Which of the following is not correctly matched?
+
+A. Bonn — Rhine
+
+B. Cairo — Nile
+
+C. New York — Hudson
+
+D. Vienna — Volga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Vienna = **Danube**, not Volga.
+
+</details>
+
+---
+
+**Q-GC33. RAS 1999**
+
+The correct pair is -
+
+A. Paris — Swan
+
+B. Perth — Seine
+
+C. Cairo — Congo
+
+D. Budapest — Danube
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Budapest–Danube** is correct.
+
+</details>
+
+---
+
+**Q-GC34. UPPCS Mains 2004**
+
+Which of the following is correctly matched?
+
+A. Hamburg — Elbe river
+
+B. Belgrade — Seine river
+
+C. Kiev — Don river
+
+D. Lahore — Satluj river
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hamburg–**Elbe**. Belgrade–Danube; Kiev–Dnieper; Lahore–Ravi.
+
+</details>
+
+---
+
+**Q-GC35. MPPCS 1997**
+
+Which of the following capitals is not situated on the banks of Danube river?
+
+A. Belgrade
+
+B. Budapest
+
+C. Rome
+
+D. Vienna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Rome** = Tiber.
+
+</details>
+
+---
+
+**Q-GC36. IAS 2006**
+
+Huangpu River flows through which one of the following cities?
+
+A. Beijing
+
+B. Ho Chi Minh City
+
+C. Shanghai
+
+D. Manila
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Huangpu → **Shanghai**.
+
+</details>
+
+---
+
+**Q-GC37. IAS 2007**
+
+Match List-I with List-II (City — River):
+
+| List-I | List-II |
+|--------|---------|
+| A. Bangkok | 1. Irrawaddy |
+| B. Phnom-Penh | 2. Mekong |
+| C. Hanoi | 3. Menam (Chao Phraya) |
+| D. Yangon | 4. Red River |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 3 2 4 1
+
+B. 4 1 3 2
+
+C. 3 1 4 2
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bangkok–Chao Phraya; Phnom Penh–Mekong; Hanoi–Red; Yangon–Irrawaddy. Code **3 2 4 1**.
+
+</details>
+
+---
+
+**Q-GC38. UP Lower 2009**
+
+Which one of the following pair is not correctly matched?
+
+A. Belgrade — Danube
+
+B. Lisbon — Tiber
+
+C. Warsaw — Vistula
+
+D. Washington — Potomac
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lisbon = **Tagus**; Tiber = Rome.
+
+</details>
+
+---
+
+**Q-GC39. UPPCS Pre 2017**
+
+Match List-I with List-II (City — River):
+
+| List-I | List-II |
+|--------|---------|
+| A. Khartoum | 1. Zaire |
+| B. Brazzaville | 2. Nile |
+| C. Rotterdam | 3. Seine |
+| D. Paris | 4. Rhine |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 4 3 2 1
+
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Khartoum–Nile; Brazzaville–Congo; Rotterdam–Rhine; Paris–Seine. Code **2 1 4 3**.
+
+</details>
+
+---
+
+**Q-GC40. UPPCS Pre 2023**
+
+A geographical unit that collects, stores and release water is called:
+
+A. Wet land
+
+B. Waste land
+
+C. Water reserve
+
+D. Watershed
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Watershed / catchment**.
+
+</details>
+
+---
+
+**Q-GC41. MPPCS 1993**
+
+Formation of delta is affected by:
+
+A. Rocks
+
+B. Tide - ebb
+
+C. Strong winds
+
+D. Deep sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Deep adjoining sea / gentle shelf conditions favour delta build-up (GC key).
+
+</details>
+
+---
+
+**Q-GC42. BPSC 1996**
+
+The greatest delta of the world is formed by –
+
+A. Ganga and Brahmaputra
+
+B. Mississippi- Missauri
+
+C. Yangtze-Kyang
+
+D. Huang-Hoe
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Ganga–Brahmaputra–Meghna** delta.
+
+</details>
+
+---
+
+**Q-GC43. BPSC 1994**
+
+Grand Canyon is –
+
+A. a gorge
+
+B. a large cannon
+
+C. a river
+
+D. an old cannon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Grand Canyon = river-cut **gorge/canyon** (Colorado).
+
+</details>
+
+---
+
+**Q-GC44. UP Lower 2015**
+
+Chisapani Gorge is located in –
+
+A. India
+
+B. Nepal
+
+C. Bangladesh
+
+D. Pakistan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Chisapani = **Nepal** (Karnali).
+
+</details>
+
+---
+
+**Q-GC45. MPPCS 2017**
+
+Which of the following pairs is not correctly matched?
+
+A. Canyon — River
+
+B. Zeugen — Wind
+
+C. Inselberg — Glacier
+
+D. Moraine — Glacier
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Inselberg = **wind** residual, not glacier.
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Lakes Waterfalls Dams (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–151+ (lakes · waterfalls · world dams). Teaching lives in Topic 17 N.6–N.8. Year-coded UPPCS stems already in Topic 17 (Onega 2023, Michigan, etc.) are not repeated as identical year-coded entries.
+
+**Q-GC1. IAS 2022**
+
+Which one of the following lakes of West Africa has become dry and turned into a desert?
+
+A. Lake Victoria
+
+B. Lake Faguibine
+
+C. Lake Oguta
+
+D. Lake Volta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lake Faguibine** (Mali) dried / desertified.
+
+</details>
+
+---
+
+**Q-GC2. RAS 2021**
+
+Which among the following is not correctly matched?
+
+A. Balkhash — Kazakhstan
+
+B. Titicaca — Bolivia–Peru
+
+C. Erie — USA–Canada
+
+D. Baikal — Ukraine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Baikal = **Russia**, not Ukraine.
+
+</details>
+
+---
+
+**Q-GC3. UP RO/ARO Mains 2021**
+
+Lake Balkhash is situated in which one of the following countries?
+
+A. Kazakhstan
+
+B. Kyrgyzstan
+
+C. Russia
+
+D. Turkmenistan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Balkhash = **Kazakhstan**.
+
+</details>
+
+---
+
+**Q-GC4. BPSC 2020 Re-Exam**
+
+Niagara Falls in North America is located between:
+
+A. Lake Superior and Lake Michigan
+
+B. Lake Michigan and Lake Huron
+
+C. Lake Huron and Lake Ontario
+
+D. Lake Ontario and Lake Erie
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Niagara sits between **Erie and Ontario**.
+
+</details>
+
+---
+
+**Q-GC5. UP RO/ARO Mains 2014**
+
+Which of the following is the second deepest and the longest lake in the world?
+
+A. Tanganyika Lake
+
+B. Baikal Lake
+
+C. Superior Lake
+
+D. Great Bear Lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Tanganyika** = 2nd deepest + longest freshwater lake.
+
+</details>
+
+---
+
+**Q-GC6. UKPCS Pre 2010**
+
+Which one is not a part of Great Lakes?
+
+A. Bear
+
+B. Superior
+
+C. Huron
+
+D. Michigan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Bear** is not a Great Lake.
+
+</details>
+
+---
+
+**Q-GC7. Jharkhand PCS 2013**
+
+The correct sequence of the Great Lakes of the USA from east to west is
+
+A. Huron–Michigan–Ontario–Superior–Erie
+
+B. Superior–Ontario–Erie–Michigan–Huron
+
+C. Ontario–Erie–Huron–Michigan–Superior
+
+D. Erie–Huron–Michigan–Ontario–Superior
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** E→W: **Ontario → Erie → Huron → Michigan → Superior**.
+
+</details>
+
+---
+
+**Q-GC8. UPPCS Mains 2015/17**
+
+Which of the following lakes lies entirely in the U.S.A.?
+
+A. Lake Michigan
+
+B. Lake Huron
+
+C. Lake Superior
+
+D. Lake Erie
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Michigan** is wholly in the USA.
+
+</details>
+
+---
+
+**Q-GC9. UPPCS Pre 2016**
+
+Arrange the following lakes in correct descending order of their area:
+
+1. Great Bear 2. Baikal 3. Victoria 4. Superior
+
+A. 4, 3, 2, 1
+
+B. 3, 2, 1, 4
+
+C. 4, 2, 1, 3
+
+D. 3, 1, 4, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Superior > Victoria > Baikal > Great Bear.
+
+</details>
+
+---
+
+**Q-GC10. RAS 1993**
+
+The largest fresh water lake in the world is?
+
+A. Lake Windermeere
+
+B. Lake Loch Ness
+
+C. Lake Baikal
+
+D. Lake Superior
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** By **area**, largest fresh = **Superior**.
+
+</details>
+
+---
+
+**Q-GC11. UPPCS Pre 2015**
+
+Which of the following is the oldest and deepest lake of the world?
+
+A. Lake Baikal
+
+B. Lake Huron
+
+C. Victoria Lake
+
+D. Lake Winnipeg
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Baikal** = oldest + deepest.
+
+</details>
+
+---
+
+**Q-GC12. UPPCS Spl Pre 2008**
+
+On the basis of area and volume, the largest lake of the world is:
+
+A. Aral Sea
+
+B. Caspian Sea
+
+C. Baikal Lake
+
+D. Michigan Lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Caspian** = largest lake by area and volume.
+
+</details>
+
+---
+
+**Q-GC13. RAS 2008**
+
+Finger Lake Region is located in:
+
+A. Australia
+
+B. Austria
+
+C. U.S.A
+
+D. Britain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Finger Lakes = **New York, USA**.
+
+</details>
+
+---
+
+**Q-GC14. UPPCS Mains 2014/15**
+
+Which of the following is called ‘Garden of lakes’ / 'land of one thousand lakes'?
+
+A. Finland
+
+B. Sweden
+
+C. New Zealand
+
+D. Greenland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Finland**.
+
+</details>
+
+---
+
+**Q-GC15. UPPCS Pre 2015**
+
+Which one of the following pairs is not correctly matched?
+
+A. Boiling lake — Dominica
+
+B. Five Flower Lake — Mongolia
+
+C. Red Lagoon — Bolivia
+
+D. Great Slave lake — Canada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Five Flower Lake = **Sichuan, China**.
+
+</details>
+
+---
+
+**Q-GC16. UP RO/ARO Mains 2014**
+
+Which of the following cities is located on Lake Superior?
+
+A. Chicago
+
+B. Buffalo
+
+C. Detroit
+
+D. Duluth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Duluth** (USA) on Superior; Chicago = Michigan.
+
+</details>
+
+---
+
+**Q-GC17. UP RO/ARO Mains 2014**
+
+Which of the following is not correctly matched?
+
+A. Titicaca Lake — Bolivia–Peru
+
+B. Lake Urmia — Iran
+
+C. Lake Reindeer — Russia
+
+D. Lake Athabaska — Canada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Reindeer Lake = **Canada**, not Russia.
+
+</details>
+
+---
+
+**Q-GC18. MPPCS 2005**
+
+Which is the highest waterfall of the world?
+
+A. Niagara
+
+B. Salto Angel
+
+C. Ribbon
+
+D. Tugela
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Angel / Salto Angel** (Venezuela) is highest.
+
+</details>
+
+---
+
+**Q-GC19. IAS 2003**
+
+The waterfall 'Victoria' is associated with the river:
+
+A. Amazon
+
+B. Missouri
+
+C. St. Lawrence
+
+D. Zambezi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Victoria Falls = **Zambezi** (Zambia–Zimbabwe).
+
+</details>
+
+---
+
+**Q-GC20. UP RO/ARO Mains 2021**
+
+With reference to 'Lake Victoria in Africa', which of the following statements is/are correct?
+
+(1) The lake is surrounded by four countries.
+(2) It is situated in the African rift valley.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Three countries (TZ/UG/KE). Rift association true in GC key.
+
+</details>
+
+---
+
+**Q-GC21. BPSC 2023**
+
+Consider the following statements about Lake Victoria:
+
+1. Lake Victoria is the third largest freshwater lake in the world by surface area.
+2. It is one of the great lakes of Africa.
+3. It is bordered by four countries – Tanzania, Uganda, Rwanda and Kenya.
+4. The only outflow from Lake Victoria is the Nile River, which exits near Jinja, Uganda.
+
+Which of the above statements are incorrect?
+
+A. 1 and 2
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** It is **2nd** largest fresh by area (not 3rd); bordered by **three** countries (not four including Rwanda).
+
+</details>
+
+---
+
+**Q-GC22. UP RO/ARO Pre 2014**
+
+Which of the following lakes is a world heritage site?
+
+A. Red Lagoon of Bolivia
+
+B. Boiling Lake of Dominica
+
+C. Five Flower Lake of China
+
+D. Plitvice Lake of Croatia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Plitvice** (Croatia) = UNESCO.
+
+</details>
+
+---
+
+**Q-GC23. UPPCS Pre Re-Exam 2015**
+
+Which one of the following is not correctly matched?
+
+A. World's tallest waterfall — Tugela Falls
+
+B. World's largest freshwater lake — Lake Superior
+
+C. World's highest navigable lake — Lake Titicaca
+
+D. World's second deepest lake — Lake Tanganyika
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Tallest = **Angel**, not Tugela.
+
+</details>
+
+---
+
+**Q-GC24. UP RO/ARO Mains 2017**
+
+Which of the following is not correctly matched?
+
+A. Baikal — Russian Federation
+
+B. Malawi — Asia
+
+C. Caspian Sea — Asia–Europe
+
+D. Tanganyika — Africa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Malawi / Nyasa = **Africa**, not Asia.
+
+</details>
+
+---
+
+**Q-GC25. IAS 2018**
+
+Which of the following has/have shrunk immensely/dried up in the recent past due to human activities?
+
+1. Aral Sea
+2. Black Sea
+3. Lake Baikal
+
+A. 1 only
+
+B. 2 and 3
+
+C. 2 only
+
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Aral** is the classic immense shrinkage case.
+
+</details>
+
+---
+
+**Q-GC26. UPPCS Pre 2023**
+
+Which one of the following (Lake — Country) is not correctly matched?
+
+A. Maracaibo — Venezuela
+
+B. Onega — Canada
+
+C. Michigan — United State of America
+
+D. Baikal — Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Onega = **Russia**, not Canada.
+
+</details>
+
+---
+
+**Q-GC27. IAS 1995**
+
+Itaipu Dam built on the river Parana is a joint project of:
+
+A. Brazil and Peru
+
+B. Paraguay and Ecuador
+
+C. Brazil and Paraguay
+
+D. Colombia and Paraguay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Itaipu = **Brazil–Paraguay** on Paraná.
+
+</details>
+
+---
+
+**Q-GC28. UPPCS Pre 2013**
+
+Match List-I with List-II (River — Dam):
+
+| List-I | List-II |
+|--------|---------|
+| A. Colorado | 1. Aswan |
+| B. Damodar | 2. Kariba |
+| C. Nile | 3. Panchet |
+| D. Zambezi | 4. Hoover |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 1 2 3 4
+
+B. 1 3 4 2
+
+C. 3 4 1 2
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Colorado–Hoover; Damodar–Panchet; Nile–Aswan; Zambezi–Kariba. Code **4 3 1 2**.
+
+</details>
+
+---
+
+**Q-GC29. UP RO/ARO Pre 2016**
+
+Kariba dam has been built on the river:
+
+A. Kafue
+
+B. Zambezi
+
+C. Chambeshi
+
+D. Kabompo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kariba = **Zambezi** (Zambia–Zimbabwe).
+
+</details>
+
+---
+
+**Q-GC30. Jharkhand PCS 2013**
+
+The Aswan High Dam is located –
+
+A. Sudan
+
+B. Egypt
+
+C. Zaire
+
+D. Nigeria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Aswan High = **Egypt** on Nile.
+
+</details>
+
+---
+
+**Q-GC31. UPPCS Pre 2013**
+
+The place where China has started construction of a dam on Brahmaputra River is
+
+A. Chingdu
+
+B. Zangmu
+
+C. Zhuang
+
+D. Gyangze
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Zangmu** on Yarlung Tsangpo.
+
+</details>
+
+---
+
+**Q-GC32. UPPCS Pre Re-Exam 2015**
+
+Which of the following is not correctly matched?
+
+A. Grand Coulee — Columbia
+
+B. Hoover — Tennessee
+
+C. Nurek — Vakhsh
+
+D. Cahora Bassa — Zambezi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Hoover = **Colorado**, not Tennessee.
+
 </details>
 
 ---
@@ -1834,3 +3652,17 @@ D. 1, 2 and 3
 18. **GERD = Aswan** — FALSE. GERD = Blue Nile Ethiopia; Aswan = Egypt Nile / Lake Nasser.
 14. **Darling Range = Murray–Darling river** — FALSE. Darling Range = hills of **Western Australia**.
 15. **Hyderabad = Godavari** — FALSE. **Musi**.
+
+25. **Inselberg = glacier landform** — FALSE. Wind residual (with zeugen). Moraine = glacier.
+26. **Grand Canyon = Missouri** — FALSE. **Colorado**.
+27. **Berlin = Rhine** — FALSE. **Spree**. Vienna = Danube (not Volga).
+28. **Lisbon = Tiber** — FALSE. Tiber = Rome; Lisbon = **Tagus**.
+29. **Mahaweli = India** — FALSE. **Sri Lanka**.
+30. **Congo Basin excludes Cameroon** — FALSE. Cameroon is in the Congo Basin set.
+
+31. **Baikal = Ukraine** — FALSE. **Russia**.
+32. **Five Flower Lake = Mongolia** — FALSE. **Sichuan, China**.
+33. **Angel = Tugela as world’s tallest** — FALSE. **Angel (Venezuela)** is tallest.
+34. **Hoover = Tennessee** — FALSE. **Colorado**.
+35. **Lake Victoria bordered by four countries** — FALSE. **Three** (TZ, UG, KE).
+36. **Onega = Canada** — FALSE. **Russia**.

@@ -9,7 +9,7 @@ Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds |
 
 </details>
 
-> **Sources baked in:** Lucent world-agriculture match-lists; NCERT Class 12 (primary activities); coaching crop-belt map; UPPCS Prelims 2018–2025
+> **Sources baked in:** Lucent world-agriculture match-lists; NCERT Class 12 (primary activities); coaching crop-belt map; **Ghatnachakra** Agriculture & Livestock (CB–208+); UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — plantation vs grain, coffee 2016 Brazil–Vietnam, cocoa West Africa, Kerala rubber, shifting names, citrus = Mediterranean; teach full systems map
 > **Last verified:** August 2026 — coaching gap-pass (Von Thünen, producer≠exporter, soybean, milk)
 > **Current Affairs:** none mandatory (producer ranks freeze to the PYQ year when the paper quotes a year)
@@ -46,6 +46,8 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 18. Five Mediterranean **west coasts** carry the citrus / vine / olive world belt.
 19. Maize fact: **US Corn Belt**; USA > China > Brazil in volume. Long-staple cotton = Egypt/Sudan; short staple = India–Pakistan belt.
 20. Ranching belts include Pampas, Prairie, Veld, and Downs. Shifting cultivation is humid-tropics slash-and-burn with short crop years and long fallow.
+21. **Golden Crescent** = Afghanistan–Iran–Pakistan opium. **Shahtoosh** = Chiru. **Fazenda** = Brazil plantation (not jhum). **Taungya** = Myanmar. **Mocha** = Yemen; **Kona** = Hawaii.
+22. Apiculture = bees; viticulture = grapes; olericulture = vegetables. India often leads milk + banana + castor; China tea/tobacco/silk; Brazil cane + coffee #1; Thailand rubber.
 
 ---
 
@@ -73,6 +75,10 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 | Producer vs exporter (coffee/tea) | Brazil coffee #1 volume; Kenya often tea **exporter** story | Same word | |
 | Soybean triangle | **USA–Brazil–Argentina** | Only India | सोया |
 | Milk volume vs dairy export | India = milk **volume**; NZ/Netherlands = **export** dairy | India = cheese ship king | दूध |
+| Golden Crescent | AFG–Iran–Pakistan | Includes Iraq | गोल्डन क्रिसेंट |
+| Fazenda vs Chena | Brazil plantation vs Sri Lanka shifting | Fazenda = jhum | फाजेंडा |
+| Mocha vs Kona | Yemen vs Hawaii | Swapped | मोचा / कोना |
+| Olericulture | Vegetables | Call it horticulture-only | शाककृषि |
 | Von Thünen vs Whittlesey | Thünen = **distance rings** from market; Whittlesey = **world type map** | Same theory | |
 
 ---
@@ -650,6 +656,48 @@ India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture f
 
 ---
 
+
+## N.14 GC extras — cash, livestock, terms
+
+**Producer cues (FAO years move — freeze the paper):** China often leads **rice + wheat volume**; India often has the **largest rice area**; hybrid rice is especially associated with **China**; **IRRI / Rice Gene Bank** = Los Baños, **Philippines**. Brazil leads **sugarcane**; Russia–France lead **sugar beet**; Ukraine’s sugar is almost entirely from **beet**. Thailand (+ Indonesia) lead **natural rubber**. Brazil + Vietnam lead **coffee**; **Robusta** = African species also grown in India. China leads **tea leaves** and **tobacco** and **silk**; India leads **bananas** and **milk volume** and often **castor**; Indonesia leads **coconut**. USA leads **maize**. China often leads total **livestock** inventory.
+
+**Named places / crops**
+
+| Cue | Fact |
+|-----|------|
+| **Mocha** coffee | **Yemen** (port name) |
+| **Kona** coffee | **Hawaii** (USA) |
+| Sacramento–San Joaquin | **California** — grapes / citrus |
+| **Sugar Bowl** | Classic tag for **Cuba** |
+| **Fazenda** | Brazil plantation (coffee) — **not** shifting cultivation |
+| **Taungya** | Agroforestry / forest–farm system in **Myanmar** |
+| **Alley cropping** | Crops in alleys between tree rows |
+| **Golden Crescent** | Illicit opium — **Afghanistan, Iran, Pakistan** (not Iraq) |
+| **Shahtoosh** | Tibetan antelope / **Chiru** hair (Tibet / Ladakh story) |
+| Catechu (**kattha**) | From **Khair** (*Acacia catechu*) wood |
+| Groundnut native | **Brazil** / Mato Grosso lore; Gambia’s classic peanut-economy cue |
+| **Alfalfa / Lucerne** | Fodder legume (Fabaceae) |
+| **Heroin** | From **opium** |
+
+**Definitions**
+
+| Term | Meaning |
+|------|---------|
+| **Apiculture** | Bees / honey |
+| **Viticulture** | Grapes (viniculture when for wine) |
+| **Pomology** | Fruits |
+| **Olericulture** | Vegetables (not “horticulture” as the vegetable-only label) |
+| Horticulture | Fruits + vegetables + flowers (wider umbrella) |
+| **Green Box** (AoA) | Allowed support — research, pest/disease control, training, marketing/promotion (not a fertiliser/irrigation dump) |
+
+**Livestock / dairy:** India = milk **volume** leader; mad-cow disease damaged beef’s “safe food” image in Europe/America. Commercial viticulture is classic **Mediterranean** (~85% grapes → wine in that story).
+
+**Trap cues (GC):** Golden Crescent ≠ Iraq; Fazenda ≠ jhum; Mocha ≠ Brazil; Shahtoosh ≠ merino; olericulture ≠ fruits.
+
+**Plantation note:** Ministry lists differ (Agri: coconut/cocoa/arecanut/cashew vs Commerce: tea/coffee/rubber/spices) — Prelims often treats tea/coffee/rubber/spices/cane as plantation family.
+
+---
+
 ## Complete PYQ Bank
 
 **Instructions:** Answers under `<details>`. Options sit on separate lines.
@@ -858,6 +906,1135 @@ D. Ozone layer — Troposphere
 <summary>Show answer</summary>
 
 **Ans: D** — Ozone is stratosphere. Golden rice–Vitamin A is correct.
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Agriculture & Livestock (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–208+ (world crops · plantation · livestock · agri terms). Teaching lives in Topic 20 N.3–N.14. Year-coded UPPCS stems already in this chapter (e.g. plantation tea 2024, Philippines Spanish–Americans 2023, cocoa Latvia 2021, India rice exporter 2019) are not repeated as identical year-coded entries. FAO ranks move — freeze the paper’s year.
+
+**Q-GC1. UPPCS Mains 2006 / UK / Lower**
+
+The leading producer of both wheat and rice in the world is:
+
+A. China
+
+B. India
+
+C. U.S.A.
+
+D. France
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **China** leads both rice and wheat **volume** in standard FAO frames.
+
+</details>
+
+---
+
+**Q-GC2. UPPCS Mains 2013**
+
+India’s rank in rice production in the world is:
+
+A. First
+
+B. Second
+
+C. Third
+
+D. Fourth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** India is typically **#2** rice volume after China.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Mains 2016**
+
+Which of the following countries has the largest area under rice cultivation?
+
+A. China
+
+B. India
+
+C. Japan
+
+D. Philippines
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **India** has the largest rice **area**.
+
+</details>
+
+---
+
+**Q-GC4. UPPCS Spl Mains 2008**
+
+Arrange China, India, Russia, U.S.A. in descending order of wheat production (FAO-2022 frame):
+
+A. 1, 2, 3, 4
+
+B. 1, 2, 4, 3
+
+C. 2, 3, 4, 1
+
+D. 4, 1, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **China > India > Russia > USA** in recent FAO wheat volume.
+
+</details>
+
+---
+
+**Q-GC5. UP Lower 2015**
+
+The 'Rice Gene Bank' of the world is situated in –
+
+A. China
+
+B. Philippines
+
+C. Japan
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **IRRI**, Los Baños, **Philippines**.
+
+</details>
+
+---
+
+**Q-GC6. UPPCS Mains 2013**
+
+The cultivation of hybrid rice is most popular in –
+
+A. Japan
+
+B. China
+
+C. Korea
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Hybrid rice is especially associated with **China**.
+
+</details>
+
+---
+
+**Q-GC7. UPPCS Mains 2008 / 2016**
+
+World’s largest producer of sugarcane / second largest producer:
+
+A. Brazil / India as #2
+
+B. China / Cuba
+
+C. India / Brazil as #2
+
+D. Indonesia / China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Brazil** #1 cane; **India** #2.
+
+</details>
+
+---
+
+**Q-GC8. UPPCS Mains 2010 / 2013**
+
+Two largest producers of beets / country producing sugar from sugar-beets only:
+
+A. France and Russia / Ukraine
+
+B. Germany and USA / Italy
+
+C. Turkey and Ukraine / France
+
+D. Belgium and China / Germany
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Beet leaders **Russia & France**; **Ukraine** sugar almost only from beet.
+
+</details>
+
+---
+
+**Q-GC9. RAS 2003**
+
+The largest producer of bananas in the world is:
+
+A. Columbia
+
+B. Zimbabwe
+
+C. Malaysia
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **India** leads banana volume.
+
+</details>
+
+---
+
+**Q-GC10. UPPCS Spl Mains 2008**
+
+The largest producer of coconut in the world is:
+
+A. Brazil
+
+B. India
+
+C. Indonesia
+
+D. Philippines
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Indonesia** #1 coconut; Philippines #2; India #3.
+
+</details>
+
+---
+
+**Q-GC11. MPPCS 2004**
+
+Which country in the world is the largest producer of tobacco?
+
+A. China
+
+B. India
+
+C. Pakistan
+
+D. Bangladesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **China**.
+
+</details>
+
+---
+
+**Q-GC12. UP UDA/LDA 2001 / UPPCS Mains 2006**
+
+The largest producer of natural rubber / two major producers:
+
+A. Thailand (+ Indonesia)
+
+B. Brazil and Malaysia
+
+C. India and China
+
+D. Malaysia alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Thailand** and **Indonesia** lead natural rubber.
+
+</details>
+
+---
+
+**Q-GC13. IAS 1995**
+
+Coffee cultivation in Sri Lanka was abandoned because of the disease:
+
+A. Leaf blight
+
+B. Leaf spot
+
+C. Leaf Rust
+
+D. Rot
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Coffee leaf rust** (*Hemileia vastatrix*).
+
+</details>
+
+---
+
+**Q-GC14. UPPCS Mains 2009 / RO 2012**
+
+The two leading producers of coffee / highest coffee producing country:
+
+A. Brazil and Vietnam / Brazil
+
+B. Brazil and Colombia / Bolivia
+
+C. Mexico and India / China
+
+D. Ethiopia and Mexico / India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Brazil** #1, **Vietnam** #2.
+
+</details>
+
+---
+
+**Q-GC15. Jharkhand PCS 2013**
+
+Robusta is a variety of_______produced in Africa.
+
+A. Banana
+
+B. Coffee
+
+C. Tobacco
+
+D. Cocoa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Coffea robusta**.
+
+</details>
+
+---
+
+**Q-GC16. UPPCS Mains 2003**
+
+Match crop–zone: Coffee, Jute, Rice, Wheat → Sao Paulo Plateau, Ganges delta, Yangtze plains, Prairies plains.
+
+A. 3 1 4 2
+
+B. 2 4 1 3
+
+C. 3 4 2 1
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Coffee–Sao Paulo; Jute–Ganges delta; Rice–Yangtze; Wheat–Prairies. Code **3 4 2 1**.
+
+</details>
+
+---
+
+**Q-GC17. UPPCS Mains 2015**
+
+Which of the following states of U.S.A. grows coffee?
+
+A. Florida
+
+B. California
+
+C. Hawaii
+
+D. Arizona
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Hawaii** (Kona).
+
+</details>
+
+---
+
+**Q-GC18. Jharkhand PCS 2013**
+
+Large amount of labour is applied on small-sized holdings under the system of
+
+A. Mediterranean Farming
+
+B. Oriental Farming
+
+C. Commercial Farming
+
+D. Commercial Horticulture
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Commercial horticulture** is labour-intensive on small holdings.
+
+</details>
+
+---
+
+**Q-GC19. UPPCS Pre 2013**
+
+Match Rubber/Coffee/Olive/Sugarcane with Malaysia/Colombia/Italy/Mauritius.
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 4 3 1 2
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rubber–Malaysia; Coffee–Colombia; Olive–Italy; Sugarcane–Mauritius.
+
+</details>
+
+---
+
+**Q-GC20. UPPCS Pre 2000**
+
+Match China/India/Saudi Arabia/Thailand with Iron-ore/Milk/Petroleum/Natural Rubber.
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 3 2 4 1
+
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** China–iron ore; India–milk; Saudi–petroleum; Thailand–rubber.
+
+</details>
+
+---
+
+**Q-GC21. UP UDA/LDA 2010**
+
+‘Monoculture’ is a distinct characteristic of –
+
+A. Commercial grain-farming
+
+B. Shifting cultivation
+
+C. Subsistence farming
+
+D. Organic farming
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Commercial grain farming is classic **monoculture**.
+
+</details>
+
+---
+
+**Q-GC22. UPPCS Mains 2006/2010**
+
+Which one of the following is not a type of shifting cultivation?
+
+A. Chena
+
+B. Jhooming
+
+C. Milpa
+
+D. Fazenda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Fazenda** = Brazilian plantation, not shifting.
+
+</details>
+
+---
+
+**Q-GC23. RAS 1999**
+
+‘Taungya’ agriculture is practised in:
+
+A. Myanmar
+
+B. Japan
+
+C. New Zealand
+
+D. Philippines
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Myanmar**.
+
+</details>
+
+---
+
+**Q-GC24. UP RO/ARO Pre 2023**
+
+With reference to primitive subsistence practices — Jhumming SE Asia; Milpa Mexico; Ladang Sri Lanka — which is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Ladang = **Indonesia/Malaysia**, not Sri Lanka (Sri Lanka = **Chena**).
+
+</details>
+
+---
+
+**Q-GC25. IAS 2013**
+
+Which of Agaricus, Nostoc, Spirogyra is/are used as biofertilizer?
+
+A. 1 and 2
+
+B. Only 2
+
+C. 2 and 3
+
+D. Only 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Nostoc** (cyanobacteria / BGA) — not Agaricus mushroom or Spirogyra as the key.
+
+</details>
+
+---
+
+**Q-GC26. RAS 2008 / UK Lower 2010**
+
+Azolla–Anabaena / which is used as a bio-fertilizer?
+
+A. Wheat / Neem
+
+B. Rice / Azolla
+
+C. Mustard / Urea
+
+D. Cotton / Potassium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Azolla–Anabaena** for **rice**; Azolla is a biofertiliser.
+
+</details>
+
+---
+
+**Q-GC27. MPPCS 2015**
+
+'Alfalfa' is:
+
+A. A kind of grass
+
+B. A tribe
+
+C. An animal
+
+D. A town
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Alfalfa / Lucerne = **fodder** plant.
+
+</details>
+
+---
+
+**Q-GC28. IAS 2007**
+
+**Assertion (A):** There are no tea plantations in any African country.
+
+**Reason (R):** Tea Plants need fertile soil with high humus.
+
+A. Both true and R explains A
+
+B. Both true but R does not explain A
+
+C. A true R false
+
+D. A false R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Africa **does** grow tea (Kenya, etc.). R about soil is acceptable — A is false.
+
+</details>
+
+---
+
+**Q-GC29. Jharkhand PCS 2003**
+
+What is Podzol?
+
+A. Soil found in Coniferous forest region
+
+B. Soil of arid region
+
+C. Very fertile alluvial soil
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Podzol = cold **coniferous / taiga** forest soil.
+
+</details>
+
+---
+
+**Q-GC30. RAS 2010**
+
+‘Mocha’ coffee is grown in:
+
+A. Iraq
+
+B. Brazil
+
+C. Argentina
+
+D. Yemen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Yemen**.
+
+</details>
+
+---
+
+**Q-GC31. UPPCS Mains 2009**
+
+Under the international agreement on agriculture the Green Box includes economic assistance for
+
+1. Agricultural Research
+2. Fertilizer
+3. Irrigation
+4. Plant Protection
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. 3 and 4
+
+D. 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Green Box = research + plant protection (and similar allowed services) — not fertiliser/irrigation dumps.
+
+</details>
+
+---
+
+**Q-GC32. UP Lower Spl 2008**
+
+Which one of the following is not a correct statement?
+
+A. Cocoa cultivation is popular in Ghana
+
+B. Coffee is an important plantation crop of Brazil.
+
+C. Sri Lanka is famous for the production of tea.
+
+D. Sugarcane is the major plantation crop of Malaysia.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Malaysia’s classic plantation = **rubber**, not sugarcane.
+
+</details>
+
+---
+
+**Q-GC33. UPPCS Mains 2007**
+
+Heroin is obtained from:
+
+A. Hemp
+
+B. Opium
+
+C. Tobacco
+
+D. Betelnut
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Heroin ← **opium**.
+
+</details>
+
+---
+
+**Q-GC34. UPPCS Mains 2007**
+
+Which of the following countries are included in the “Golden Crescent”?
+
+1. Afghanistan 2. Iran 3. Iraq 4. Pakistan
+
+A. 1 and 2
+
+B. 3 and 4
+
+C. 1, 2 and 3
+
+D. 1, 2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **AFG + Iran + Pakistan** — not Iraq.
+
+</details>
+
+---
+
+**Q-GC35. UP Lower 1998**
+
+Sacramento- San Joaquin Valley… is located at:
+
+A. California
+
+B. Alaska
+
+C. Mexico
+
+D. Columbia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **California**.
+
+</details>
+
+---
+
+**Q-GC36. UPPCS Pre 2020**
+
+In which of the following regions of the world, the production of citrus fruits is well developed?
+
+A. Monsoon regions
+
+B. Tropical high lands regions
+
+C. Mediterranean regions
+
+D. Equatorial regions
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mediterranean** citrus belt.
+
+</details>
+
+---
+
+**Q-GC37. UP Lower 2008**
+
+In which one of the following countries high yielding variety seed was developed for the first time?
+
+A. Argentina
+
+B. China
+
+C. Mexico
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Borlaug / CIMMYT story → **Mexico**.
+
+</details>
+
+---
+
+**Q-GC38. MPPCS 1990**
+
+The Wood of which tree is used for catechu production?
+
+A. Saal
+
+B. Khair
+
+C. Babool
+
+D. Saaja
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Khair** (*Acacia catechu*).
+
+</details>
+
+---
+
+**Q-GC39. UPPCS Pre 2012**
+
+Peanuts are the main crop of:
+
+A. Georgia
+
+B. Gambia
+
+C. Ghana
+
+D. Guatemala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Classic key among options = **Gambia**.
+
+</details>
+
+---
+
+**Q-GC40. UPPCS Mains 2010**
+
+The native place of groundnut is:
+
+A. Australia
+
+B. Brazil
+
+C. China
+
+D. South Africa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Brazil** / South America.
+
+</details>
+
+---
+
+**Q-GC41. BPSC 1994 / UPPCS Pre 2006**
+
+Shahtoosh… / Shahtoosh shawl is made from the hairs of -
+
+A. Nepal / Hangul
+
+B. Uzbekistan / Chinkara
+
+C. China / Chiru
+
+D. Bangladesh / Merino
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Shahtoosh = **Chiru** (Tibetan antelope); China/Tibet–Ladakh story.
+
+</details>
+
+---
+
+**Q-GC42. RAS 1997**
+
+Apiculture is the scientific method related to the production of:
+
+A. Honey
+
+B. Silk
+
+C. Apple
+
+D. Lac
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Beekeeping / honey**.
+
+</details>
+
+---
+
+**Q-GC43. MPPCS 2013**
+
+What is viticulture?
+
+A. Protection of forests
+
+B. Production of grapes
+
+C. Type of primitive agriculture
+
+D. Production of sugarcane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Grape** cultivation.
+
+</details>
+
+---
+
+**Q-GC44. UP Lower 2015**
+
+Which of the following is not correctly matched?
+
+A. Flower's Cultivation — Floriculture
+
+B. Crops Cultivation — Agronomy
+
+C. Vegetables Cultivation — Horticulture
+
+D. Fruits Cultivation — Pomology
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Vegetables = **Olericulture**, not horticulture-as-vegetables-only.
+
+</details>
+
+---
+
+**Q-GC45. MPPCS 2014 / BPSC 2018**
+
+Rank of India in silk / largest silk producer:
+
+A. First / India
+
+B. Second / China
+
+C. Third / Brazil
+
+D. Fourth / Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **China** #1 silk; India **#2**.
+
+</details>
+
+---
+
+**Q-GC46. IAS 2008**
+
+Which one amongst the following has the largest livestock population in the world?
+
+A. Brazil
+
+B. China
+
+C. India
+
+D. USA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Classic FAO frame among options = **China** livestock inventory.
+
+</details>
+
+---
+
+**Q-GC47. UPPCS Mains 2005**
+
+Which of the following has destroyed the image of 'beef' as a safe and healthy food in Europe and America?
+
+A. Bird flu disease
+
+B. Mad cow disease
+
+C. Methods used in Pig farming
+
+D. Poultry practices
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mad cow disease** (BSE).
+
+</details>
+
+---
+
+**Q-GC48. Multiple PCS**
+
+The leading producer of milk in the world is:
+
+A. China
+
+B. India
+
+C. USA
+
+D. Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **India** leads milk **volume**.
+
+</details>
+
+---
+
+**Q-GC49. UPPCS Mains 2013**
+
+Which one of the following countries ranks second in the production of Corn in the world?
+
+A. Brazil
+
+B. Mexico
+
+C. Argentina
+
+D. China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** USA #1 maize; **China** #2.
+
+</details>
+
+---
+
+**Q-GC50. UPPCS Mains 2013/2015**
+
+Which one of the following is called the ‘Sugar Bowl’ of the world?
+
+A. Hawai Islands
+
+B. Cuba
+
+C. India
+
+D. Philippines
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Cuba** classic sobriquet.
+
+</details>
+
+---
+
+**Q-GC51. UPPCS Pre 2017**
+
+Large coffee plantations in Brazil are called
+
+A. Estate
+
+B. Estancias
+
+C. Kalkhozes
+
+D. Fazendas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Fazendas**.
+
+</details>
+
+---
+
+**Q-GC52. UP RO/ARO Mains 2017**
+
+Match Chad/Niger/Rwanda/Benin with Petroleum/Uranium/Coffee/Cotton.
+
+A. 4 1 3 2
+
+B. 2 4 1 3
+
+C. 3 2 4 1
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chad–petroleum; Niger–uranium; Rwanda–coffee; Benin–cotton.
+
+</details>
+
+---
+
+**Q-GC53. MPPCS Pre 2021**
+
+Match dairy/grain/plantation/fruits with Denmark/Argentina/Malaysia/France.
+
+A. 3 1 4 2
+
+B. 1 2 3 4
+
+C. 4 3 2 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dairy–Denmark; grain–Argentina; plantation–Malaysia; fruits–France.
 
 </details>
 

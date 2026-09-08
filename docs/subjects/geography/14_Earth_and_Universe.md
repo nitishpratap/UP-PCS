@@ -5,13 +5,13 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motions of Earth | Latitude | Longitude | Time | Time Zones | IDL | Atmosphere | Weather & Climate | Global Warming | El Niño | Coriolis | Jet Stream | Pressure Belts | Planetary Winds | ITCZ | Interior of the Earth | Continental Drift | Plate Tectonics | Fold & Fault Mountains | Volcano Types | Earthquake & Volcano Belts
+Origin of Universe | Solar System | Earth System (spheres / **rock cycle**) | Motions of Earth | Latitude | Longitude | Time | Time Zones | IDL | Atmosphere | Weather & Climate | Global Warming | El Niño | Coriolis | Jet Stream | Pressure Belts | Planetary Winds | ITCZ | Interior of the Earth | Continental Drift | Plate Tectonics | Fold & Fault Mountains | **Igneous · Sedimentary · Metamorphic** | Volcano Types | **Earthquakes · seismic waves · tsunami** | Earthquake & Volcano Belts
 </details>
 
-> **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti physical geography notes, IMD/NASA data, UPPCS Prelims 2018–2025
-> **Weight:** ★★★★ — ozone layer, El Niño plankton trap, Coriolis SH, jets westerly, Ring of Fire, GHG; teach full earth-system map
+> **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti, **Ghatnachakra** World Geography (Universe–Solar–Earth + Rocks / Volcanoes + **Earthquakes** CB–58+; **Atmosphere–Insolation–Cyclones–Humidity–Pressure–Clouds–Winds** CB–164+), UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — Big Bang / Chandrasekhar, rock cycle pairs, P/S waves & Richter traps, volcano status / Ring of Fire, ozone, El Niño, Coriolis, IDL / IST
 > **Last verified:** August 2026
-> **Current Affairs:** Aditya-L1 (solar); Mangalyaan = first Indian Mars orbiter; Montreal vs Kyoto; El Niño–monsoon
+> **Current Affairs:** Aditya-L1 (solar); Mangalyaan = first Indian Mars orbiter; Montreal vs Kyoto; El Niño–monsoon; Mauna Loa 2022 eruption lore; Fukushima 2011 tsunami–nuclear lore
 
 ---
 
@@ -52,36 +52,44 @@ D. Jupiter
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
-1. Big Bang theory is linked to **Gamow** (~13.8 billion years) and Hubble’s expanding universe. Steady State is linked to **Hoyle**. Nebular hypothesis is **Kant–Laplace**. The Milky Way is a **spiral** galaxy.
-2. Solar-system order mnemonic is **MVEMJSUN**. **Venus** is the hottest planet (greenhouse). **Jupiter** is the largest. **Saturn** has the clearest ring system. **Mercury** has the fastest orbit.
-3. The asteroid belt lies between **Mars and Jupiter**. The largest moon is **Ganymede** (Jupiter). Titan belongs to Saturn; Phobos and Deimos belong to Mars.
-4. In the 2022 Prelims set, Saturn’s atmosphere is linked with **methane**. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). **Mangalyaan** was India’s first Mars orbiter.
-5. A **solar eclipse** occurs at **New Moon**. A **lunar eclipse** occurs at **Full Moon**. Sunlight takes about **8 minutes 20 seconds** to reach Earth.
-6. Earth **rotates** in about **24 hours** (day–night) and **revolves** in about **365¼ days** (year / leap year). **Perihelion** is about **3 January**; **aphelion** about **4 July**.
-7. Seasons are caused by the **23½° axial tilt**, not by perihelion distance. Equinoxes are about **21 March / 23 September**; solstices about **21 June / 22 December**.
-8. One degree of latitude is about **111 km**. Tropics sit at **23½°**; polar circles at **66½°**. Time zones use roughly **15° = 1 hour**.
-9. India’s Standard Time is based on **82°30′ E** near **Mirzapur** and is **GMT + 5 hours 30 minutes** for the whole country. The International Date Line is near **180°** (zigzag); the west side is a day ahead.
-10. Atmosphere layers: **troposphere** holds weather; **stratosphere** holds the **ozone** UV shield; mesosphere is coldest; thermosphere / ionosphere lie above.
-11. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Same-latitude Agra vs Darjeeling temperature contrast is an **altitude** fact.
-12. Diffusion / scattering of light is linked to **dust** in one Prelims set. **Weather** is short-term; **climate** is the long-term average.
-13. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Argon is not** a greenhouse gas. **Kyoto** deals with climate / carbon; **Montreal** deals with ozone.
-14. **El Niño** is a warm eastern Pacific / Peru current phase with **less upwelling**, so **plankton and fish fall**. It can disturb the Indian monsoon.
-15. Coriolis deflects to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere**. It is zero at the equator (Ferrel’s law).
-16. Jet streams are mainly high-altitude **westerlies** (polar jet and subtropical jet). The **Tropical Easterly Jet (TEJ)** is the summer easterly exception. Speeds can reach **300–500 km/h**. “All jets are easterly” is false.
-17. Pressure belts: ITCZ / equatorial **low** (doldrums); subtropical **high** near **30°** (horse latitudes); subpolar low near **60°**; polar high. Planetary winds are trades, westerlies and polar easterlies.
-18. **Roaring Forties** are strong westerlies near **40°S** (with Furious Fifties / Shrieking Sixties farther south). The ITCZ is a **low**; belts shift with the solstice seasons.
-19. Interior shells: **Sial** (continental crust), **Sima** (oceanic crust), **Nife** (core). Discontinuities: crust–**Moho**–mantle–**Gutenberg** (~2900 km, S-wave stop)–**Lehmann**–inner core.
-20. P-wave shadow is about **103–142°**; S-wave shadow lies beyond about **103°** because the outer core is liquid.
-21. **Wegener (1912)** proposed continental drift with **Pangaea** and **Panthalassa**. Plate margins are divergent, convergent or transform.
-22. **Fold mountains** include the Himalaya, Alps, Andes and Rockies. **Fault / block mountains** include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
-23. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan**), caldera (**Krakatoa**). **Stromboli** is the “lighthouse of the Mediterranean.” **Barren Island** is India’s only active volcano (Andaman).
-24. Match facts: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
-25. Earthquake–volcano belts include the Pacific **Ring of Fire**, Mid-Atlantic Ridge, Alpine–Himalayan belt and East African Rift. India’s seismic map uses Zones II–V.
-26. Earth’s spheres — lithosphere, atmosphere, hydrosphere and biosphere — interact. Rocks cycle among igneous, sedimentary and metamorphic states.
-27. Heat budget: about **35**/100 of insolation is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
-28. Nuclear and geothermal energy are **not** forms of stored solar energy. India’s Tropic of Cancer runs through the **middle** of the country — India is not wholly tropical and is not split into equal tropical halves by that line alone.
+1. Big Bang is linked to **Lemaître** / **Gamow** (~**13.7–13.8 bn yr**) and **Hubble** expansion. Steady State is **Hoyle**. Nebular is **Kant–Laplace**. The Milky Way is a **barred spiral** galaxy.
+2. **Chandrasekhar limit** ≈ **1.44 M☉** sets the white-dwarf ceiling; beyond that path → neutron star / black hole. A galactic year for the Sun is ~**22.5–25 crore** years. IAU lists **88** constellations; **Saptarishi** points to the Pole Star.
+3. Solar-system order mnemonic is **MVEMJSUN**. **Venus** is hottest (greenhouse). **Earth** has the highest mean density. **Jupiter** is largest. **Saturn** has the clearest rings. **Mercury** has the fastest orbit and (with Venus) **no moon**.
+4. The asteroid belt lies between **Mars and Jupiter**. The largest moon is **Ganymede** (Jupiter — not Saturn). Titan belongs to Saturn; Phobos and Deimos belong to Mars. **Copernicus** is the classic heliocentric name.
+5. In the 2022 Prelims set, Saturn’s atmosphere is linked with **methane**. Mars is the classic life-candidate planet (including the 2018 subsurface-lake news). **Mangalyaan** was India’s first Mars orbiter.
+6. A **solar eclipse** occurs at **New Moon**. A **lunar eclipse** occurs at **Full Moon**. Sunlight takes about **8 minutes 20 seconds** to reach Earth. Sun’s energy is **nuclear fusion**. One **AU** ≈ **149.6 million km**.
+7. Earth **rotates** in about **24 hours** (day–night) and **revolves** in about **365¼ days** (year / leap year). **Perihelion** is about **3–4 January**; **aphelion** about **4 July**.
+8. Seasons are caused by the **23½° axial tilt**, not by perihelion distance. Equinoxes are about **21 March / 23 September**; solstices about **21 June / 22 December**.
+9. One degree of latitude is about **111 km**. Tropics sit at **23½°**; polar circles at **66½°**. Time zones use roughly **15° = 1 hour**. **0° latitude and 0° longitude** meet in the **Atlantic** (Gulf of Guinea).
+10. India’s Standard Time is based on **82°30′ E** near **Mirzapur** and is **GMT + 5 hours 30 minutes** for the whole country. The International Date Line is near **180°** (zigzag); the west side is a day ahead.
+11. Atmosphere layers: **troposphere** holds weather; **stratosphere** holds the **ozone** UV shield and is nearly weather-free (**ideal for jet flight**); mesosphere is coldest; **ionosphere** reflects radio waves and hosts auroras; **exosphere** hosts communication satellites.
+12. Earth’s atmosphere is heated mainly by **long-wave terrestrial radiation**, not by direct short-wave alone. Normal lapse rate is about **6.5°C/km**. Permanent gases = **N₂, O₂, Ar**; CO₂ / O₃ / vapour vary. Albedo = **reflecting** power (fresh snow highest). Max heating belt often ~**20°N**. Same-latitude Agra vs Darjeeling contrast is an **altitude** fact. Cyclone names: Hurricane–USA, Typhoon–China Sea, Willy-Willy–Australia, Baguio–Philippines. Tornado scale = **Fujita**; hurricane = **Saffir–Simpson**.
+13. Diffusion / scattering of light is linked to **dust** in one Prelims set. **Weather** is short-term; **climate** is the long-term average.
+14. Greenhouse gases include water vapour, CO₂, CH₄, N₂O, O₃ and CFCs. **Argon is not** a greenhouse gas. **Kyoto** deals with climate / carbon; **Montreal** deals with ozone.
+15. **El Niño** is a warm eastern Pacific / Peru current phase with **less upwelling**, so **plankton and fish fall**. It can disturb the Indian monsoon.
+16. Coriolis deflects to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere**. It is zero at the equator (Ferrel’s law).
+17. Jet streams are mainly high-altitude **westerlies** (polar jet and subtropical jet). The **Tropical Easterly Jet (TEJ)** is the summer easterly exception. Speeds can reach **300–500 km/h**. “All jets are easterly” is false.
+18. Pressure belts: ITCZ / equatorial **low** (doldrums); subtropical **high** near **30°** (horse latitudes); subpolar low near **60°**; polar high. Planetary winds are trades, westerlies and polar easterlies.
+19. **Roaring Forties** are strong westerlies near **40°S** (with Furious Fifties / Shrieking Sixties farther south). The ITCZ is a **low**; belts shift with the solstice seasons.
+20. Interior shells: **Sial** (continental crust), **Sima** (oceanic crust), **Nife** (core). Discontinuities: crust–**Moho**–mantle–**Gutenberg** (~2900 km, S-wave stop)–**Lehmann**–inner core.
+21. P-wave shadow is about **103–142°**; S-wave shadow lies beyond about **103°** because the outer core is liquid.
+22. **Wegener (1912)** proposed continental drift with **Pangaea** and **Panthalassa**. Plate margins are divergent, convergent or transform. New ocean crust forms by **sea-floor spreading**.
+23. **Fold mountains** include the Himalaya, Alps, Andes and Rockies. **Fault / block mountains** include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
+24. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan**), caldera (**Krakatoa**). **Stromboli** is the “lighthouse of the Mediterranean.” **Barren Island** is India’s only active volcano (Andaman).
+25. Match facts: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
+26. Earthquake–volcano belts include the Pacific **Ring of Fire**, Mid-Atlantic Ridge, Alpine–Himalayan belt and East African Rift. India’s seismic map uses Zones II–V.
+27. Earth’s spheres — lithosphere, atmosphere, hydrosphere and biosphere — interact. Rocks cycle among igneous, sedimentary and metamorphic states.
+28. Heat budget: about **35**/100 of insolation is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
+29. Nuclear and geothermal energy are **not** forms of stored solar energy. India’s Tropic of Cancer runs through the **middle** of the country — India is not wholly tropical and is not split into equal tropical halves by that line alone.
+30. Pluto was reclassified as a **dwarf planet** by the IAU in **2006**. Neptune is the farthest true planet and the coldest among the eight.
+31. The Moon always shows roughly the same face because its rotation period ≈ its revolution (~**27.3 days**). Weight on the Moon is about **1/6** of weight on Earth. Apollo 11 landed in the **Sea of Tranquillity (1969)**.
+32. Light-year measures **distance**. Star colour tracks **temperature**. Brittle star is **not** an astronomical object. Earth Day is **22 April**.
+33. **Igneous** = cooled magma/lava (no fossils); **sedimentary** = layered + fossils; **metamorphic** = heat/pressure remake. Granite → **gneiss**; limestone → **marble**; sandstone → **quartzite**; shale → **slate**.
+34. Most abundant volcanic gas is **water vapour**. Magma is underground; lava is surface melt. **Stromboli** = Mediterranean lighthouse; **Barren Island** = India’s only confirmed active volcano; Circum-Pacific / **Ring of Fire** has the densest volcanic belt.
+35. Earthquake **focus/hypocentre** is the rupture point; **epicentre** is the surface point above it. **P** waves are fastest (all states of matter); **S** waves solids only; surface waves are slowest and most damaging. **Richter** = magnitude (~10× amplitude / ~32× energy per step); **Mercalli** = intensity.
+36. **Tsunami** is Japanese for harbour wave. Ring of Fire ≈ **90%** of world quakes. NW India shakes mainly from **Indian–Eurasian** plate convergence. 2004 Indian Ocean and 2011 **Fukushima** are the classic tsunami case studies.
 
 ---
 
@@ -97,6 +105,11 @@ D. Jupiter
 | TEJ | Summer **easterly** ~14°N | Same as STWJ | उष्णकटिबंधीय पूर्वी जेट |
 | ITCZ | **Low** / rising air | High-pressure belt | आईटीसीजेड |
 | Atmosphere heat | **Long-wave terrestrial** | Direct short-wave | दीर्घ तरंग |
+| Fujita vs Saffir–Simpson | Tornado vs **Hurricane** | Swapped | फुजिता / सफिर–सिंपसन |
+| Willy-Willy | **Australia** | USA hurricane | विली-विली |
+| Horse latitudes | Subtropical **high** ~30° | Low pressure | हॉर्स लैटिट्यूड |
+| Cumulonimbus | Intense rain / thunder | Fair-weather cumulus | कपासी वर्षा मेघ |
+| Albedo | **Reflecting** power | Absorbing | अल्बीडो |
 | GHG | Not **argon** | Argon as GHG | आर्गन नहीं |
 | Saturn (that paper) | **Methane**  | SO2 / CO | शनि |
 | Mars | Life-candidate + 2018 lake | Jupiter lake | मंगल |
@@ -117,6 +130,29 @@ D. Jupiter
 | Heat budget | Earth absorbs ~**51**/100; planet albedo ~**35** reflected | “All 100 heat the air directly” | ऊष्मा बजट |
 | Seasons cause | **23½° tilt** | Perihelion distance | ऋतु |
 | Divergent boundary | Plates **apart** / MOR | Convergent trench | अपसारी |
+| Chandrasekhar limit | ~**1.44 M☉** white dwarf | Eddington / Fowler alone | चंद्रशेखर |
+| Milky Way shape | **Barred spiral** | Plain spiral only | आकाशगंगा |
+| Earth density | **Highest** mean among 8 | Jupiter densest | घनत्व |
+| Albedo Mercury vs Earth | Earth **higher** (~0.3) | Mercury brighter albedo | अल्बीडो |
+| Brittle star | **Sea** echinoderm | Pulsar / quasar class | ब्रिटल स्टार |
+| 0°–0° meet | **Atlantic** / Guinea | On land / India | शून्य |
+| Cancer / Capricorn traps | Not **Iran** / not **Bolivia** | Wrong country lists | कर्क / मकर |
+| Granite | **Igneous** | Metamorphic | ग्रेनाइट |
+| Limestone → | **Marble** | Quartzite | संगमरमर |
+| Sandstone → | **Quartzite** | Marble | क्वार्टजाइट |
+| Shale → | **Slate** | Gneiss first | स्लेट |
+| Magma vs lava | Below vs **surface** | Swapped | मैग्मा / लावा |
+| Volcanic gas | Mostly **H₂O vapour** | CO₂ / SO₂ first | जल वाष्प |
+| Stromboli | **Active** Mediterranean lighthouse | Extinct / Etna only | स्ट्राम्बोली |
+| Kilimanjaro | **Dormant** (E. African Rift) | Ring of Fire active | किलिमंजारो |
+| Aconcagua | Peak / **not** active volcano in GC keys | Same class as Etna | एकोंकागुआ |
+| Focus vs epicentre | Rupture inside vs **surface above** | Swapped | फोकस / उपरिकेंद्र |
+| Richter vs Mercalli | Magnitude vs **intensity** | Swapped / both “intensity” | रिक्टर / मर्कली |
+| Richter +1 step | **10×** amplitude; ~**32×** energy | 100× energy | रिक्टर ऊर्जा |
+| S-waves | **Solids only** | Through liquid core | S-तरंग |
+| Ring of Fire | Quakes + volcanoes + Pacific | Forest fires | रिंग ऑफ फायर |
+| NW India quakes | **Plate convergence** | Volcano / coral | प्लेट |
+| Tsunami word | **Japanese** harbour wave | Arabic / Latin | सुनामी |
 
 ---
 
@@ -150,52 +186,68 @@ Several theories try to explain how the universe and solar system began. Learn t
 | **Nebular** | **Kant – Laplace** | Rotating gas cloud flattened into Sun + planets |
 | Planetesimal | Chamberlin – Moulton | Star fly-by pulled matter into planetesimals |
 | Tidal | Jeans – Jeffreys | Tidal filament from a passing star |
-| Binary star | Russell | Companion star disrupted |
-| **Big Bang** | **Gamow** (Lemaître idea; ~**13.8 bn yr**) | Hot dense start; expansion |
+| Binary star | Russell – Lyttleton | Companion star disrupted |
+| Interstellar dust | **Otto Schmidt** | Sun captured gas–dust cloud → planets |
+| **Big Bang** | **Lemaître** idea; often linked with **Gamow** / ~**13.7–13.8 bn yr** | Hot dense start; expansion |
 | **Steady State** | **Hoyle – Bondi – Gold** | Universe looks the same; continuous creation |
 | Pulsating | Oscillating bang–crunch model | |
 | Cue | Fact |
 |------|------|
 | Expansion | **Hubble** — galaxies recede; redshift |
 | Evidence | Expanding space + **CMB** |
-| Galaxy | **Milky Way** = barred spiral; **Andromeda** = nearest large spiral |
-| Distance | **AU** = Earth–Sun mean; **light-year** = distance light travels in 1 year |
-| Star life | Nebula → star → red giant / supernova → white dwarf / neutron star / black hole |
+| Galaxy | **Milky Way** = **barred spiral** (Spitzer 2005 lore); ~100 bn stars framing |
+| Galactic year | Sun orbits galactic centre in ~**22.5–25 crore** years |
+| Distance | **AU** = Earth–Sun mean (~**149.6 million km**); **light-year** = distance light travels in 1 year (~**9.46×10¹² km**) |
+| Star colour | Colour tracks **temperature** (blue hottest → red cooler) |
+| Star life | Nebula → main sequence → red giant → nova/supernova → white dwarf / **neutron star (pulsar)** / **black hole** |
+| **Chandrasekhar limit** | ~**1.44 solar masses** — white-dwarf ceiling; above → collapse path toward neutron star / black hole (Nobel with Fowler, 1983) |
+| Black hole | Remnant of a massive star; gravity so strong **light cannot escape** (high density) |
+| Constellations | IAU list = **88**; **Saptarishi / Ursa Major** points toward the **Pole Star** |
+| Closest star (after Sun) | **Proxima Centauri**; Hubble surface image fame = **Betelgeuse** |
+| Not space | **Brittle star** = marine echinoderm; **byte** = computing |
 
 ---
 
 ## N.2 Solar System
 
-Order from Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn – Uranus – Neptune** (Pluto = dwarf).
+Order from Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn – Uranus – Neptune** (Pluto = dwarf since IAU **2006**, Prague).
+
+**Heliocentric cue:** **Copernicus** (Commentariolus / De revolutionibus); coaching also credits **Varahamihira** earlier lore. **Kepler** = planetary laws; **Newton** = gravity.
 
 | Group | Fact |
 |-------|------|
 | Inner (terrestrial) | Mercury, Venus, Earth, Mars — rock, few moons |
-| Outer | Gas giants Jupiter–Saturn; ice giants Uranus–Neptune |
-| Earth | 3rd planet; **23½°** tilt; one moon; Goldilocks zone |
-| **Saturn** | Atmosphere -fact **methane** (bulk is H₂+He; methane is the option they want) |
-| **Mars** | Most **life-suitable** among 2018 options; 2018 Science paper — **underground lake** (south polar ice) |
-| Mangalyaan / MOM | India’s **first Mars** mission — not Chandrayaan / Aditya-L1 / Astrosat |
+| Outer (Jovian) | Gas giants Jupiter–Saturn; ice giants Uranus–Neptune |
+| Earth | 3rd planet; densest mean (~**5.5 g/cm³**); **23½°** tilt; one moon; **Goldilocks / habitable zone** |
+| Sun | ~**99.8%** of solar-system mass; energy = **nuclear fusion** (H→He); diameter ~**109×** Earth |
+| **Saturn** | Clearest rings; Titan largest moon; Cassini orbiter lore; bulk H₂+He (+ methane option traps) |
+| **Mars** | Red planet; Phobos & Deimos; day/tilt close to Earth; Phoenix / Curiosity / **Mangalyaan** |
 | Light from Sun | ~**8 min 20 s** to Earth |
+| Nebula | **Not** a member of the solar system (star-forming cloud) |
 
 **Planet / moon match (mug this)**
 
 | Superlative | Fact |
 |-------------|------|
-| Smallest / fastest orbit | **Mercury** |
-| Hottest (thick CO₂ greenhouse) | **Venus** (not Mercury) |
-| Largest / most moons | **Jupiter** (Great Red Spot = storm) |
+| Smallest / fastest orbit / least revolution time | **Mercury** (~88 days); **no moon** (with Venus) |
+| Hottest (thick CO₂ greenhouse) | **Venus** (~464°C) — Morning/Evening Star; twin of Earth; Magellan mapped it |
+| Albedo | Earth ~**0.3** > Mercury ~**0.1** — Mercury not brighter despite more sunlight |
+| Largest / heaviest / fast spin | **Jupiter**; Galilean moons IO, Europa, Ganymede, Callisto; rings = silicate dust |
+| Largest moon in solar system | **Ganymede** (Jupiter) — not Saturn’s |
 | Prominent rings | **Saturn** |
-| Sideways rotator | Uranus |
-| Farthest (8-planet set) | Neptune |
-| Dwarf (IAU **2006**) | **Pluto** |
+| Sideways rotator / sun rises west | **Uranus** (~84 yr year) |
+| Coldest / farthest (8-planet set) | **Neptune** (~165 yr); methane tint |
+| Dwarf (IAU **2006**) | **Pluto**; moons Charon, Nix, Hydra… |
 | Asteroid belt | Between **Mars and Jupiter** |
-| Largest moon in solar system | **Ganymede** (Jupiter) |
 | Moon with thick atmosphere | **Titan** (Saturn) |
 | Mars moons | **Phobos, Deimos** |
 | Kuiper Belt / Oort Cloud | Icy leftovers beyond Neptune / far comets |
+| Comet vs asteroid | Asteroids = rocky belt; comets = ice+dust, **tail away from Sun**; Halley ~76 yr |
 
-**Eclipse:Solar** only at **New Moon** (Moon between Sun–Earth). **Lunar** only at **Full Moon** (Earth between). Umbra = total; penumbra = partial.
+**Eclipse:** **Solar** only at **New Moon** (Moon between Sun–Earth). **Lunar** only at **Full Moon** (Earth between). Umbra = total; penumbra = partial. Diamond-ring effect at start/end of totality.
+
+**Moon cues:** Same face toward Earth (rotation period ≈ revolution ~**27.3 d**); no atmosphere → no sound; perigee = closest/brighter; weight on Moon ≈ **1/6** Earth weight; Apollo 11 / Sea of Tranquillity **1969**; Chandrayaan programme.
+
 Aditya-L1 = solar (CA). Chandrayaan = Moon.
 
 ---
@@ -241,6 +293,13 @@ Parallels; 0° = Equator; **90°** poles. **1° latitude ≈ 111 km**.
 **India:** Area rank **7th** (not 6th); **2.4%** of world land. Tropic of Cancer “through the middle” matches 2022 Q35 statement 3. India is **not** wholly tropical. A bare “equal latitudinal halves” overclaim is false if asked alone. UP is not on the Tropic.
 Same latitude ≠ same temperature: **Agra vs Darjeeling** — altitude / thinner air (2022 A/R both true, R explains A).
 
+- **0° + 0°** meet in the **Atlantic** (Gulf of Guinea) — not a land capital.
+- Great circles include the **equator** and all meridians; **60°N is not** a great circle.
+- Equator countries include Brazil, Colombia, Kenya, Indonesia, Gabon, Uganda… (**not Mexico**; not always Equatorial Guinea / Rwanda).
+- Tropic of Cancer countries include India, Egypt, Mexico, Saudi Arabia… (**not Iran**).
+- Tropic of Capricorn countries include Brazil, Australia, Chile, Argentina, Namibia… (**not Bolivia**).
+- About **179** latitude parallels at 1° interval including the equator (89 N + 89 S + equator).
+- Pole Star on your **left** → walking **east**. Stars rising **perpendicular to horizon** → observer on the **equator**.
 ---
 
 ## N.5 Longitude, Time, Time Zones, IDL
@@ -253,7 +312,10 @@ Meridians meet at poles. **Prime Meridian = 0° Greenwich**.
 | East | Local time **ahead** of Greenwich |
 | **IST** | **82°30′ E** (near **Mirzapur, UP**) = **GMT + 5 h 30 min**; **one** zone for all India |
 | Time zones | Roughly 15° wide; countries zigzag for politics |
-| **IDL** | Follows ~**180°**; bent around islands; crossing **westward skip a day**; eastward repeat a day. West side of IDL is **ahead** (e.g. New Zealand vs Hawaii) |
+| **IDL** | Follows ~**180°**; bent around islands / Aleutians; crossing **westward skip a day**; eastward repeat a day. West side of IDL is **ahead** (e.g. New Zealand vs Hawaii) |
+| Prime Meridian land | UK, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana… (**not Niger** / Nigeria as the classic wrong option) |
+| GMT places | London, Lisbon, Accra, Dublin… — **not Addis Ababa** |
+| Cairo | ~**30° E** → about **2 h ahead** of GMT |
 
 **Worked rule:** longitude difference × 4 min; east = add. 30° east of Greenwich = 12:00 + 2 h = 14:00.
 
@@ -282,6 +344,13 @@ Composition (dry air): **N₂ ~78%**, **O₂ ~21%**, Ar ~0.9%, CO₂ ~0.04%. Wat
 
 - The atmosphere is heated mainly by **long-wave terrestrial radiation**, not by incoming short-wave alone.
 - Diffusion / scattering of light in the classic UPPCS set is linked with **dust particles**.
+
+**Permanent vs variable gases:** N₂, O₂, Ar stay nearly constant day to day; CO₂, O₃, water vapour vary.
+
+**Layer cues (GC heights):** Troposphere (weather; lapse **~6.5°C/km**) → Stratosphere (**ozone**; dry; **ideal for jet flight** — little cloud/weather) → Mesosphere → Ionosphere (~80–640 km; **radio reflection**; **aurora**) → Exosphere (outer; **communication satellites** geostationary cue).
+
+**Correct upward order:** Troposphere → Stratosphere → Mesosphere → Ionosphere/Thermosphere → Exosphere.
+
 
 **Inline PYQ — UPPCS Prelims 2025, Q45**
 
@@ -330,6 +399,69 @@ D. Only geothermal heat
 | Absorbed by Earth’s surface | ~**51** |
 
 Earth then returns energy as **long-wave** (the 2022 heating fact). Ozone **hole** = **Antarctica** (spring); Montreal cut CFCs. Temperature **inversion** = lapse reversed (valley nights, fronts).
+
+---
+
+
+## N.6A Insolation · Albedo · Heat budget
+
+- Sun is the energy source; **insolation** = incoming short-wave. Earth re-radiates **long-wave**. Atmosphere is heated mainly by that **terrestrial long-wave** (GHG trap).
+- Maximum surface heating belt often near **~20°N**, not exactly on the equator.
+- **Albedo** = reflecting power. Fresh snow **75–95%**; deserts **20–30%**; prairie **10–20%**; paddy **3–15%**; Earth mean ~**30%**.
+- Water vapour absorbs much **IR / long-wave**; cloudy nights stay warmer because clouds **reflect/trap** outgoing radiation → **no dew** when nights stay too warm.
+- Tropical cyclones weaken inland because they lose the ocean’s **latent-heat** fuel.
+
+---
+
+
+## N.6B Humidity · Dew
+
+- **Humidity** = water vapour in air (from evaporation).
+- Absolute = mass of vapour per volume; relative = % of saturation (falls as temperature rises).
+- Moisture decreases with latitude; ~**90%** of atmospheric moisture sits in the lowest ~**5 km**.
+- Summer “humid heat” = **muggy**. Dew needs clear, calm, cool nights; cloudy nights reflect terrestrial radiation → surface stays warm → **no dew**.
+
+---
+
+
+## N.6C Clouds
+
+Clouds = condensation of vapour into droplets/ice.
+
+| Type | Cue |
+|------|-----|
+| **Cirrus / Cirrostratus** | Highest; icy; cirrostratus may make Sun/Moon **halo** |
+| Altostratus / Altocumulus | Mid-level sheets / patches |
+| Stratus / Nimbostratus | Low; nimbostratus = steady rain |
+| **Cumulus** | Cauliflower; fair-weather signal when isolated |
+| **Cumulonimbus** | Towering storm cloud — intense rain, hail, thunder |
+
+Thunder = acoustic boom from lightning heating air (not “meeting of two clouds” as the sole cause).
+
+---
+
+
+## N.6D Tropical cyclones · Tornado · Anticyclone
+
+Cyclones spiral into a **low**; NH anticlockwise, SH clockwise. Air **descends** in the eye (warm relative to surroundings aloft).
+
+| Name | Region |
+|------|--------|
+| **Hurricane** | USA / Atlantic–Caribbean |
+| **Typhoon** | China Sea / W Pacific |
+| **Willy-Willy** | NW Australia |
+| **Cyclone** | Indian Ocean / India |
+| **Baguio** | Philippines |
+| **Taifu** | Japan |
+
+- **Tornado** = intense funnel; USA **Tornado Alley** (Mississippi Plains / TX–OK–KS–NE). Scale = **Fujita**. Hurricane damage scale = **Saffir–Simpson**.
+- **Nargis** hit **Myanmar**, not India.
+- Few tropical cyclones in S Atlantic / SE Pacific tropics mainly because **SST is too low**.
+- Jet streams occur in **both** hemispheres; only some cyclones develop a clear **eye**; eye is **warmer**, not 10°C colder.
+
+**Anticyclone:** high centre; air outflows; NH **clockwise**.
+
+Sudden **mercury fall** in barometer → stormy weather ahead.
 
 ---
 
@@ -499,7 +631,14 @@ Belts **follow the Sun** (shift N in NH summer, **S around winter solstice**).
 | Furious Fifties | ~50°S |
 | Shrieking / Screaming Sixties | ~60°S |
 
-**Doldrums** = ITCZ calm. **Horse latitudes** = ~30° sinking air, deserts. Land–sea **monsoon** is seasonal, not a planetary belt.
+**Doldrums** = ITCZ calm. **Horse latitudes** = ~30°–35° subtropical **high** (not low). Land–sea **monsoon** is seasonal, not a planetary belt.
+
+**SH westerlies** are stronger (less land). **Roaring Forties / Furious Fifties / Shrieking Sixties** = SH westerlies. **Wellington** lies in Roaring Forties path.
+
+Trade winds warm the **western** tropical oceans; temperate **westerlies** warm the **eastern** ocean sections.
+
+Valley breeze = **anabatic** (day upslope); mountain breeze = **katabatic** (night downslope).
+
 
 ---
 
@@ -538,6 +677,8 @@ Evidence: jigsaw coasts, fossils (**Glossopteris, Mesosaurus**), glacial till, m
 | Sea-floor spreading | **Harry Hess** (1960s); paleomagnetic stripes on MOR |
 | Plates | Lithosphere pieces; India was in **Gondwana** |
 
+**Geological-time cues (Ghatnachakra):** **Pleistocene** = classic “Great Ice Age” framing; **Little Ice Age** ≈ **1300–1870 AD** (colder Europe/N. America winters). **Jurassic** = age of dinosaurs; Indian remains lore at **Raiyoli (Gujarat)** and **Bara Simla / Narmada (Jabalpur)**. **Cocos plate** sits between Central America and the Pacific plate. New crust is added by **sea-floor spreading**; old crust is destroyed by **subduction**.
+
 ---
 
 ## N.15 Plate Tectonic Theory
@@ -567,20 +708,81 @@ Lithosphere plates float on asthenosphere. **Seven majors:** Pacific, North Amer
 
 ---
 
+## N.16A Rock Types & Rock Cycle
+
+**Petrology** is the study of rocks. A rock is a natural solid aggregate of one or more minerals. Crust rocks fall into three families that recycle into each other.
+
+| Family | How it forms | Key cues |
+|--------|--------------|----------|
+| **Igneous** (primary) | Cooling of **magma / lava** | No fossils; not layered like sediment; hard for water to penetrate; crystalline or non-crystalline |
+| **Sedimentary** | Weathering → transport → deposition → **lithification** | Fossils common; occur in **layers (strata)**; form at / near Earth’s surface |
+| **Metamorphic** | Any rock remade by heat + pressure + chemistry (**metamorphism**) | New fabric / minerals; forms deeper / hotter than surface conditions |
+
+**Igneous split**
+
+| Kind | Setting | Examples |
+|------|---------|----------|
+| **Plutonic / intrusive** | Magma cools **slowly deep** inside the crust | **Granite**, gabbro, pegmatite |
+| **Volcanic / extrusive** | Lava cools at / near the surface | **Basalt**, volcanic breccia |
+
+**Sedimentary types (coaching map)**
+
+| Type | Examples |
+|------|----------|
+| Mechanical (clastic) | Sandstone, shale, conglomerate; limestone often listed here in older books |
+| Organic / carbonic | Coal; limestone / geyserite lore |
+| Chemical | Halite, potassium salts |
+
+Sandstone’s flaky / layered look comes from deposition (often under water / low basins), not from desert heat alone.
+
+**Must-score parent → metamorphic pairs**
+
+| Parent | Metamorphic product |
+|--------|---------------------|
+| Granite | **Gneiss** |
+| Basalt | Schist / amphibolite |
+| Shale | **Slate** → phyllite → schist (further grade) |
+| Limestone / chalk / dolomite | **Marble** |
+| Sandstone | **Quartzite** |
+| Conglomerate | Gneiss (listed in some GC sheets) |
+| Gabbro | Serpentine (GC sheet) |
+
+- **Granite** is igneous — not metamorphic. **Gneiss / marble / quartzite / slate** are metamorphic.
+- Sedimentary rocks can form from weathering of **all three** rock families, then cementation of fragments or chemical / organic growth in water.
+
+---
+
 ## N.17 Volcano Types
+
+A volcano is a crustal rupture that lets lava, ash and gases escape from a magma chamber.
+
+| Cue | Fact |
+|-----|------|
+| **Magma** | Molten rock **below** the surface |
+| **Lava** | Magma that reaches the surface (~600–1200°C); cools to igneous rock |
+| Most abundant volcanic gas | **Water vapour (H₂O)** — then CO₂, SO₂ and others |
+| Acidic lava | High silica → sticky / viscous |
+| Basic lava | Low silica → runny / fluid |
+| Caldera | Large collapsed vent / crater |
+| Geyser | Intermittent hot water + steam (e.g. Old Faithful, Yellowstone) — near magmatic heat |
+| Fumarole / solfatara | Late-stage gas vents (sulfurous = solfatara); Katmai “Valley of Ten Thousand Smokes” lore |
 
 | Type | Fact / example |
 |------|----------------|
-| **Shield** | Low silica, runny; **Mauna Loa / Mauna Kea** (Hawaii) |
-| **Composite / strato** | Sticky, explosive; **Fuji, Vesuvius, Etna, Pinatubo, St Helens, Rainier** |
+| **Shield** | Low silica, runny; **Mauna Loa / Mauna Kea** (Hawaii) — Mauna Loa = Earth’s largest volcano by bulk; strong 2022 eruption lore |
+| **Composite / strato** | Sticky, explosive; **Fuji, Vesuvius, Etna, Pinatubo, St Helens, Rainier, Cotopaxi** |
 | Cinder cone | Small, steep; **Paricutin** (Mexico) |
-| Caldera | Collapse after blast; Krakatoa, Yellowstone |
+| Caldera | Collapse after blast; **Krakatoa / Krakatau** (Indonesia), Yellowstone |
 | Fissure / flood basalt | **Deccan Trap** |
+
 | Status | Fact |
 |--------|------|
-| Active | Erupts in historic time — **Stromboli** (“lighthouse of the Mediterranean”), **Etna**, **Barren Island** (India’s **only** active — Andaman) |
-| Dormant | Long quiet, may revive — **Vesuvius**, **Narcondam** (Andaman) |
-| Extinct | No expected eruption |
+| **Active** | Open vent / recent eruptions — **Stromboli** (“lighthouse of the Mediterranean”), **Etna** (Sicily), **Kilauea** (often ranked among most active), **Mauna Loa**, **Barren Island** (India’s only confirmed active — Andaman Sea), **Fuji**, **Vesuvius**, **Erebus** (Ross Island, Antarctica), **Cotopaxi** (Ecuador) |
+| Highest active (world) | Coaching often cites **Ojos del Salado** (Andes, Chile–Argentina, ~6893 m); among common options **Cotopaxi** may be the tallest listed |
+| **Dormant** | Quiet but may revive — **Kilimanjaro** (Kibo dormant; Mawenzi / Shira extinct lore), **Damavand** (Iran) |
+| **Extinct** | Unlikely to erupt again — Kulal (Kenya), Chimborazo (Ecuador), Popa (Myanmar), Koh-e-Sultan (Pakistan) lore |
+
+**Match cues (beyond the 2021 Rainier set):** Sabancaya–Peru; Colima–Mexico; Merapi–Indonesia; Kinabalu–Malaysia; Elburz–Iran; Aconcagua–Argentina (peak, not an active volcano in GC keys); Krakatoa–Indonesia. Volcanic cone = **constructional / basic** landform from lava build-up (vs residual / erosional forms).
 
 **Inline PYQ — UPPCS Prelims 2021, Q78**
 
@@ -611,19 +813,61 @@ D. 4, 3, 2, 1
 
 ---
 
+## N.17B Earthquakes · Seismic Waves · Tsunami · Scales
+
+An earthquake is shaking from a sudden release of energy in the **lithosphere**. Natural earthquakes occur in the lithosphere.
+
+| Term | Meaning |
+|------|---------|
+| **Focus / hypocentre** | Point of **initial rupture** inside the Earth |
+| **Epicentre** | Point on the **surface directly above** the focus — where surface effects / first observations are tied in coaching keys |
+| Instrument | **Seismograph / seismometer** records waves; a **seismogram** is the record |
+
+**Three wave families (P.S.L. = Primary · Secondary · Love/surface framing)**
+
+| Wave | Nature | Travels through | Cue |
+|------|--------|-----------------|-----|
+| **P (primary)** | Longitudinal / sound-like; **fastest**; arrives first | Solids, liquids, gases | Body wave |
+| **S (secondary)** | Transverse / light-like; slower than P | **Solids only** | Body wave; stopped by liquid outer core |
+| **Surface** | Slowest; Love + Rayleigh; **most damaging** at surface | Near surface | Love waves are the faster of the two surface types |
+
+**Shadow zones:** Each quake has its own shadow pattern. Rough coaching lock — **S-waves** fail beyond ~**103–105°**; **P-waves** miss a belt ~**105–140°** (refraction at the mantle–core boundary). A claim that both P and S are recorded at *any* distance beyond 105° is **false**.
+
+**Magnitude vs intensity**
+
+| Scale | Measures | Cue |
+|-------|----------|-----|
+| **Richter** (C.F. Richter, **1935**) | **Magnitude** ≈ energy released (log₁₀ amplitude) | +1 magnitude ≈ **10×** amplitude; ≈ **~32×** energy (not 100×) |
+| **Mercalli** | **Intensity** (felt damage / effects) | Different from magnitude |
+
+Coaching MCQs sometimes loosely say “Richter = intensity” when no Mercalli option exists — prefer Mercalli for intensity and Richter for magnitude when both appear.
+
+**Tsunami** = Japanese *tsu* (harbour) + *nami* (wave). Triggered by undersea quakes, volcanic eruptions and underwater explosions; can cross whole ocean basins.
+
+| Event cue | Fact |
+|-----------|------|
+| **26 Dec 2004** Indian Ocean | Sumatra subduction; devastation to Africa; deaths ~**2–3 lakh** (not “50 lakh”); Bangladesh relatively few casualties (fault ~N–S; main wave energy ~E–W) |
+| **11 Mar 2011** Japan | Great quake + tsunami → **Fukushima** Daiichi nuclear disaster |
+
+**India:** NW subcontinent is quake-prone because it sits on the **Indian–Eurasian plate convergence**. India’s Himalayan / mid-continental arm links to the Alpine–Himalayan seismic belt (not only the Pacific Ring).
+
+**Plate-tectonics cue:** Sea-floor spreading (Hess and others) underpins plate tectonics; pinning “plate tectonics theory = Hess alone in 1967” is too narrow / false in CG-style keys — Statement II (based on sea-floor spreading) stays true.
+
+---
+
 ## N.18 Major Earthquake & Volcano Belts
 
 | Belt | Fact |
 |------|------|
-| **Circum-Pacific / Ring of Fire** | ~**80%** of world’s volcanoes + most great quakes: Fuji, Pinatubo, St Helens, Rainier, Apo, Andes, Krakatoa |
+| **Circum-Pacific / Ring of Fire** | ~**80%** of world’s volcanoes; ~**90%** of world’s **earthquakes**; Chile–California–Alaska–Japan–Philippines–New Zealand arc — **not** forest fires |
 | **Mid-Atlantic** | Iceland, Azores — divergent; quakes + volcanoes |
-| **Alpine–Himalayan / Mid-world** | Alps–Zagros–Himalaya–Indonesia; **Etna, Vesuvius, Stromboli** on the Med arm |
+| **Alpine–Himalayan / Mid-Continental** | Cape Verde–Atlantic–Mediterranean–Alps–Caucasus–**Himalaya**; India’s main seismic framing |
 | **East African Rift** | **Kilimanjaro, Kenya** — **not** Ring of Fire (**2024 Q30**) |
+| **Cocos plate** | Between **Central America** and the **Pacific** plate |
 
 India seismic **zones II–V**. NDMA chair = **PM**.
 
 ---
-
 ## Complete PYQ Bank — Earth & Universe (2018–2025)
 
 **Instructions:** Answers under `<details>`.
@@ -1121,6 +1365,4770 @@ D. All of the above
 <summary>Show answer</summary>
 
 **Ans: D** — Also in.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Universe & Solar System (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–1 onward (universe → solar system → sun/planets/moon → lat-long). Teaching facts live in N.1–N.5 of Topic 14. No Logic lines.
+
+**Q-GC1. Ghatnachakra / standard**
+
+The **Big Bang** theory is most closely linked with which scientist and core idea?
+
+A. Hoyle — continuous creation of matter
+
+B. Gamow — hot dense origin followed by expansion of the universe
+
+C. Wegener — drifting continents on a single landmass
+
+D. Kant — rotating nebula forming the Sun alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Big Bang model ties to **Gamow** and a hot dense start about **13.8 billion years ago**, with space expanding since.
+
+</details>
+
+**Q-GC2. Ghatnachakra / standard**
+
+**Continental drift** was proposed by
+
+A. Alfred Wegener in 1912
+
+B. Alfred Wallace in 1859
+
+C. Alfred Nobel in 1895
+
+D. Alfred Russel in 1920
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Wegener (1912)** argued continents drifted from **Pangaea** across **Panthalassa**.
+
+</details>
+
+**Q-GC3. UPPCS / standard**
+
+Our galaxy, the **Milky Way**, is classified as
+
+A. an elliptical galaxy
+
+B. an irregular galaxy
+
+C. a spiral or barred-spiral galaxy
+
+D. a dwarf galaxy outside the Local Group
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Milky Way is a **spiral / barred-spiral** galaxy hosting the Sun and roughly **100 billion** stars.
+
+</details>
+
+**Q-GC4. Ghatnachakra / standard**
+
+The Sun completes one orbit around the centre of the Milky Way in about
+
+A. 25 days
+
+B. 25 lakh years
+
+C. 25 crore years
+
+D. 250 crore years
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** One **galactic year** for the Sun is roughly **22.5–25 crore Earth years**.
+
+</details>
+
+**Q-GC5. Ghatnachakra / standard**
+
+The **colour of a star** mainly indicates its
+
+A. distance from Earth
+
+B. surface temperature
+
+C. age in billions of years only
+
+D. number of planets orbiting it
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Star colour tracks **temperature**: blue stars are hotter; red stars are cooler.
+
+</details>
+
+**Q-GC6. UPPCS / standard**
+
+The **Chandrasekhar limit** (~1.44 solar masses) marks the upper mass of a stable
+
+A. red giant
+
+B. white dwarf
+
+C. main-sequence star
+
+D. asteroid belt object
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Above ~**1.44 M☉**, a white dwarf cannot stay stable and the remnant tends toward **neutron star / black hole** collapse.
+
+</details>
+
+**Q-GC7. Ghatnachakra / standard**
+
+A **black hole** is best described as
+
+A. an empty void between galaxies
+
+B. a collapsed massive star whose gravity prevents even light from escaping
+
+C. a dark nebula that blocks starlight
+
+D. a planet without any atmosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A black hole is the remnant of a **massive collapsed star** with gravity so strong that **light cannot escape**.
+
+</details>
+
+**Q-GC8. Ghatnachakra / standard**
+
+Consider the following statements:
+
+**Assertion (A):** A telescope cannot photograph a black hole directly because gravity traps light.
+
+**Reason (R):** A black hole has extremely high density and gravitational pull.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both are true; intense gravity at the **event horizon** stops light from escaping, so direct imaging is impossible without indirect evidence.
+
+</details>
+
+**Q-GC9. Ghatnachakra / standard**
+
+A **supernova** is associated with
+
+A. birth of a new galaxy
+
+B. explosive death of a massive star
+
+C. formation of the ozone layer
+
+D. daily rising of the Sun
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A supernova is the **violent end** of a dying massive star, briefly outshining its host galaxy.
+
+</details>
+
+**Q-GC10. Ghatnachakra / standard**
+
+The International Astronomical Union recognises how many official **constellations**?
+
+A. 12
+
+B. 48
+
+C. 88
+
+D. 108
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The IAU list contains **88 constellations** across the celestial sphere.
+
+</details>
+
+**Q-GC11. Ghatnachakra / standard**
+
+Which of the following is **not** an astronomical object in space?
+
+A. Betelgeuse
+
+B. Brittle star
+
+C. Black hole
+
+D. Neutron star
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **brittle star** is a **marine echinoderm** on Earth, not a star in space.
+
+</details>
+
+**Q-GC12. Ghatnachakra / standard**
+
+A **constellation** is
+
+A. a cluster of galaxies bound by dark matter
+
+B. a group of stars forming a recognised pattern as seen from Earth
+
+C. the path of the Moon around Earth
+
+D. the belt of asteroids between Mars and Jupiter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A constellation is a **fixed pattern of stars** on the celestial sphere, not necessarily physically close in space.
+
+</details>
+
+**Q-GC13. Ghatnachakra / standard**
+
+**Betelgeuse** became famous in astronomy news because
+
+A. it is the nearest star to the Sun
+
+B. Hubble and other telescopes captured its surface detail
+
+C. it is the only star with a confirmed ocean
+
+D. it is a dwarf planet reclassified in 2006
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Betelgeuse** (Orion) drew attention when **Hubble** and later instruments imaged its **surface / dust shell**.
+
+</details>
+
+**Q-GC14. Ghatnachakra / standard**
+
+From a spacecraft above the atmosphere, stars **twinkle less** and the sky looks **blacker** mainly because
+
+A. space is hotter than Earth's surface
+
+B. there is no atmospheric turbulence or scattering of starlight
+
+C. stars stop emitting light outside the atmosphere
+
+D. gravity disappears above 100 km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Twinkling comes from **air refraction**; without an atmosphere there is **no scattering** and the sky stays dark — not because space is hotter.
+
+</details>
+
+**Q-GC15. Ghatnachakra / standard**
+
+A **light-year** measures
+
+A. the time light takes to reach the Moon
+
+B. the distance light travels in one year in vacuum
+
+C. the speed of sound in space
+
+D. the diameter of the Milky Way in days
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** One light-year is a **distance** (~**9.46×10¹² km**), not a time unit.
+
+</details>
+
+**Q-GC16. Ghatnachakra / standard**
+
+Stars appear to rise **perpendicular to the horizon** when the observer stands on the
+
+A. Tropic of Cancer
+
+B. Arctic Circle
+
+C. Equator
+
+D. Prime Meridian
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** On the **equator**, celestial bodies rise and set **at right angles** to the horizon.
+
+</details>
+
+**Q-GC17. Ghatnachakra / standard**
+
+**Saptarishi** (Ursa Major) helps locate the Pole Star. If **Polaris** is on your **left** while you face north, you are walking toward the
+
+A. North
+
+B. South
+
+C. East
+
+D. West
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Saptarishi** points to **Polaris**; with Polaris on the **left**, **east** lies ahead.
+
+</details>
+
+**Q-GC18. Ghatnachakra / standard**
+
+Terms such as **event horizon**, **redshift** and **cosmic microwave background** belong to the study of
+
+A. ocean currents
+
+B. the origin and structure of the universe
+
+C. soil classification
+
+D. river meandering
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** These are core **cosmology** concepts linked to expansion, black holes and Big Bang evidence.
+
+</details>
+
+**Q-GC19. Ghatnachakra / standard**
+
+**Standard time** in a country is
+
+A. a natural solar unit fixed by sunrise at every meridian
+
+B. a legally adopted mean time for uniform clocks, not a natural astronomical unit
+
+C. always identical to local mean time at each longitude
+
+D. measured only at the equator
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Standard time is a **human convention** for one clock across a zone; it is **not** a natural unit like solar time at every meridian.
+
+</details>
+
+**Q-GC20. Ghatnachakra / standard**
+
+Which of the following is **not** a member of the **solar system**?
+
+A. Asteroid belt
+
+B. Kuiper Belt objects
+
+C. Nebula (interstellar cloud)
+
+D. Comets
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A **nebula** is a **star-forming cloud** in space; it is **not** counted as part of the formed solar system.
+
+</details>
+
+**Q-GC21. Ghatnachakra / standard**
+
+The **heliocentric** model (Sun-centred solar system) is chiefly credited to
+
+A. Ptolemy
+
+B. Copernicus
+
+C. Aristotle
+
+D. Eratosthenes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Copernicus** placed the **Sun at the centre**; earlier Indian lore also cites **Varahamihira**.
+
+</details>
+
+**Q-GC22. UKPCS / standard**
+
+Among the planets, **Earth** is notable for having the
+
+A. lowest mean density
+
+B. highest mean density among major planets
+
+C. same density as Jupiter
+
+D. lowest gravity at the equator only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Earth is the **densest** major planet (~**5.5 g/cm³** mean), ahead of the gas giants.
+
+</details>
+
+**Q-GC23. Ghatnachakra / standard**
+
+How many **planets** does the solar system have according to the **IAU 2006** definition?
+
+A. 7
+
+B. 8
+
+C. 9
+
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Since **2006**, there are **8 planets**; **Pluto** is a **dwarf planet**. Older stems may still say **9** when asked in that context.
+
+</details>
+
+**Q-GC24. Ghatnachakra / standard**
+
+**Jupiter** and **Saturn** lie in the solar system
+
+A. between Mercury and Venus
+
+B. between Mars and Uranus
+
+C. beyond Neptune only
+
+D. inside the orbit of Mercury
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Order: Mercury, Venus, Earth, Mars, **Jupiter, Saturn**, Uranus, Neptune — the two gas giants sit **between Mars and Uranus**.
+
+</details>
+
+**Q-GC25. Ghatnachakra / standard**
+
+**Mercury** and **Venus** are the two planets that orbit
+
+A. beyond Neptune
+
+B. between the Sun and Earth
+
+C. only outside Mars
+
+D. in the asteroid belt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mercury** and **Venus** are **inferior** planets lying **between the Sun and Earth**.
+
+</details>
+
+**Q-GC26. Ghatnachakra / standard**
+
+Planets appear bright in the night sky mainly because they
+
+A. produce their own nuclear fusion like the Sun
+
+B. reflect sunlight toward Earth
+
+C. burn methane in their cores
+
+D. emit laser-like radio waves
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Planets **shine by reflected sunlight**; only stars (including the Sun) sustain fusion.
+
+</details>
+
+**Q-GC27. UPPCS / standard**
+
+Which planet is **nearest to the Sun**?
+
+A. Venus
+
+B. Earth
+
+C. Mercury
+
+D. Mars
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mercury** has the smallest orbit and is closest to the Sun.
+
+</details>
+
+**Q-GC28. UKPCS Prelims 2025-type**
+
+Which planet takes the **longest time** to complete one revolution around the Sun among these four?
+
+A. Jupiter
+
+B. Saturn
+
+C. Uranus
+
+D. Neptune
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Neptune** (~165 Earth years) has the longest revolution period among the eight classical planets.
+
+</details>
+
+**Q-GC29. Ghatnachakra / standard**
+
+Arrange the following planets in **descending order of size** (largest first):
+
+A. Jupiter — Saturn — Uranus — Earth
+
+B. Saturn — Jupiter — Earth — Uranus
+
+C. Jupiter — Uranus — Saturn — Earth
+
+D. Earth — Uranus — Saturn — Jupiter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Size order: **Jupiter > Saturn > Uranus > Neptune > Earth** — first three in option A are correct for this stem.
+
+</details>
+
+**Q-GC30. Ghatnachakra / standard**
+
+The **Goldilocks zone** (habitable zone) refers to the region where
+
+A. only gas giants can form rings
+
+B. conditions may allow liquid water and Earth-like life on a rocky planet
+
+C. comets always develop tails
+
+D. the Moon stays at perigee
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Goldilocks zone is the **not-too-hot, not-too-cold** band where an **Earth-like** rocky planet might hold liquid water.
+
+</details>
+
+**Q-GC31. Ghatnachakra / standard**
+
+**Halley's Comet** is
+
+A. an artificial satellite launched by NASA
+
+B. a periodic comet returning about every 76 years
+
+C. a dwarf planet beyond Neptune
+
+D. the largest moon of Saturn
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Halley** is a famous **natural periodic comet** (~76-year period). **Mariner** missions were **artificial** planetary probes.
+
+</details>
+
+**Q-GC32. UPPCS / standard**
+
+The **hottest planet** in the solar system is
+
+A. Mercury
+
+B. Venus
+
+C. Mars
+
+D. Jupiter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Venus** (~464°C) is hottest because of its thick **CO₂ greenhouse** atmosphere, not Mercury's proximity alone.
+
+</details>
+
+**Q-GC33. Ghatnachakra / standard**
+
+Match **List I** with **List II** and select the correct answer using the code given below the lists.
+
+| List I (Moon) | List II (Planet) |
+| --- | --- |
+| A. Ganymede | 1. Mars |
+| B. Phobos | 2. Jupiter |
+| C. Titan | 3. Saturn |
+| D. Nix | 4. Pluto |
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-3, C-1, D-4
+
+D. A-3, B-1, C-2, D-4
+
+*Row order is not the answer.*
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Ganymede → Jupiter**; **Phobos → Mars**; **Titan → Saturn**; **Nix → Pluto**.
+
+</details>
+
+**Q-GC34. Ghatnachakra / standard**
+
+The Sun's energy comes mainly from
+
+A. chemical burning of coal-like fuel
+
+B. nuclear fusion of hydrogen into helium in the core
+
+C. friction between planetary orbits
+
+D. reflected light from Jupiter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Solar power is **nuclear fusion** (H → He) in the core, releasing enormous energy.
+
+</details>
+
+**Q-GC35. Ghatnachakra / standard**
+
+A **solar eclipse** can occur only at
+
+A. Full Moon
+
+B. New Moon
+
+C. first quarter Moon
+
+D. any random date
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Solar eclipse needs the **Moon between Sun and Earth** — possible only at **New Moon**.
+
+</details>
+
+**Q-GC36. Ghatnachakra / standard**
+
+The **diamond ring** effect is seen during a solar eclipse at
+
+A. the start or end of totality on the central path
+
+B. every lunar eclipse
+
+C. the winter solstice only
+
+D. perihelion day only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The **diamond ring** flashes when a thin solar crescent shines through lunar valleys at **totality's edge**.
+
+</details>
+
+**Q-GC37. Ghatnachakra / standard**
+
+One **Astronomical Unit (AU)** equals approximately
+
+A. the Earth–Moon distance
+
+B. the mean Earth–Sun distance (~149.6 million km)
+
+C. one light-year
+
+D. the diameter of the Sun
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **1 AU** is the average **Earth–Sun** separation used as a solar-system yardstick.
+
+</details>
+
+**Q-GC38. Ghatnachakra / standard**
+
+Earth is nearest the Sun (**perihelion**) around
+
+A. 21 June
+
+B. 3–4 January
+
+C. 22 December
+
+D. 21 March
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Perihelion** falls near **3–4 January**; **aphelion** is around **4 July**.
+
+</details>
+
+**Q-GC39. Ghatnachakra / standard**
+
+The Sun's diameter is roughly how many times that of Earth?
+
+A. About 10 times
+
+B. About 50 times
+
+C. About 109 times
+
+D. About 500 times
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Solar diameter is about **109×** Earth's; volume is vastly larger still.
+
+</details>
+
+**Q-GC40. Ghatnachakra / standard**
+
+Consider the following statements:
+
+**Assertion (A):** Earth's seasons are caused by its revolution being slower than rotation.
+
+**Reason (R):** Seasons are caused by the tilt of Earth's axis, not by perihelion distance alone.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **(A) is false** — seasons follow **23.5° axial tilt**, not merely rotation vs revolution speed. **(R) is true.**
+
+</details>
+
+**Q-GC41. Ghatnachakra / standard**
+
+Which planet has the **shortest orbital period** (least time for one revolution)?
+
+A. Venus
+
+B. Earth
+
+C. Mercury
+
+D. Mars
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mercury** completes an orbit in about **88 Earth days** — the shortest among planets.
+
+</details>
+
+**Q-GC42. Ghatnachakra / standard**
+
+Which pair of planets has **no natural satellites**?
+
+A. Earth and Mars
+
+B. Mercury and Venus
+
+C. Jupiter and Saturn
+
+D. Uranus and Neptune
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mercury** and **Venus** are the only major planets **without moons**.
+
+</details>
+
+**Q-GC43. Ghatnachakra / standard**
+
+**Albedo** (reflectivity) of Earth is higher than that of Mercury because
+
+A. Mercury is farther from the Sun
+
+B. Earth has clouds, ice and lighter surfaces that reflect more sunlight despite Mercury receiving more insolation
+
+C. Mercury has a thick atmosphere
+
+D. Earth has no oceans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Earth's **albedo ~0.3** exceeds Mercury's **~0.1** thanks to **clouds and bright surfaces**, even though Mercury is closer to the Sun.
+
+</details>
+
+**Q-GC44. Ghatnachakra / standard**
+
+**Venus** is often called the **Evening Star** or **Morning Star** because
+
+A. it is a star that moves between horizons
+
+B. it is a bright planet seen near sunrise or sunset
+
+C. it is the farthest planet from the Sun
+
+D. it has the most moons
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Venus is a **planet** bright enough to appear as the **morning or evening "star"** near the horizon.
+
+</details>
+
+**Q-GC45. Ghatnachakra / standard**
+
+The **Magellan** mission radar-mapped the surface of
+
+A. Mars
+
+B. Venus
+
+C. Jupiter
+
+D. Pluto
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Magellan** (NASA) mapped **Venus** through its dense clouds.
+
+</details>
+
+**Q-GC46. Ghatnachakra / standard**
+
+Consider the following statements:
+
+**Assertion (A):** Venus is hotter than Mercury.
+
+**Reason (R):** Venus has a dense atmosphere rich in carbon dioxide that traps heat.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Venus's **greenhouse CO₂** explains why it beats **Mercury** in surface temperature despite being farther from the Sun.
+
+</details>
+
+**Q-GC47. Ghatnachakra / standard**
+
+**Aristotle** argued that Earth is
+
+A. flat and infinite
+
+B. spherical, citing ships' hulls disappearing below the horizon
+
+C. square with four corners
+
+D. hollow inside with a second Sun
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Aristotle** used **lunar eclipse shadow** and **ship observations** to support a **spherical Earth**.
+
+</details>
+
+**Q-GC48. Ghatnachakra / standard**
+
+Earth is sometimes called the **Green Planet** because
+
+A. it is the hottest planet
+
+B. it supports abundant plant life and liquid water
+
+C. its atmosphere is pure methane
+
+D. it has no biosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Green Planet** tag reflects **vegetation, water and life** — Earth's unique biosphere.
+
+</details>
+
+**Q-GC49. Ghatnachakra / standard**
+
+Earth's **equatorial diameter** is approximately
+
+A. 6,400 km
+
+B. 12,800 km
+
+C. 25,000 km
+
+D. 109,000 km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Equatorial diameter is about **12,756 km** (~**12,800 km** in round figures).
+
+</details>
+
+**Q-GC50. Ghatnachakra / standard**
+
+Consider the following statements:
+
+**Assertion (A):** A body's weight is maximum at the poles.
+
+**Reason (R):** Earth is a perfect sphere with uniform gravity everywhere.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Weight is slightly **higher at poles** (geoid/oblate shape + rotation). **(R) is false** — Earth is an **oblate spheroid**, not a perfect sphere.
+
+</details>
+
+**Q-GC51. Ghatnachakra / standard**
+
+The most **abundant element in Earth's crust** by weight is
+
+A. silicon
+
+B. aluminium
+
+C. oxygen
+
+D. iron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Oxygen** (~46%) dominates crust composition, mostly bound in silicates and oxides.
+
+</details>
+
+**Q-GC52. Ghatnachakra / standard**
+
+Sunlight reaches Earth in about
+
+A. 8 seconds
+
+B. 8 minutes
+
+C. 8 hours
+
+D. 8 days
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Light from the Sun takes roughly **8 minutes 20 seconds** to cross **1 AU**.
+
+</details>
+
+**Q-GC53. Ghatnachakra / standard**
+
+The **nearest star** to Earth (after the Sun) is
+
+A. Sirius
+
+B. Proxima Centauri
+
+C. Betelgeuse
+
+D. Polaris
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Proxima Centauri** (~4.24 light-years) is the closest known star to the Sun.
+
+</details>
+
+**Q-GC54. Ghatnachakra / standard**
+
+With reference to **Earth**, which of the following statements is/are correct?
+
+1. Earth completes one revolution around the Sun in about **365.25 days**.
+2. **Venus** is the nearest planet to Earth on average.
+3. **Aryabhata** explained day and night by Earth's rotation.
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are standard facts: **365¼-day year**, **Venus** as closest planet, and **Aryabhata** on **rotation → day/night**.
+
+</details>
+
+**Q-GC55. Ghatnachakra / standard**
+
+Earth's orbital speed around the Sun is roughly
+
+A. 3 km/s
+
+B. 30 km/s
+
+C. 300 km/s
+
+D. 3,000 km/s
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mean orbital speed is about **29.8 km/s** (~**30 km/s**).
+
+</details>
+
+**Q-GC56. Ghatnachakra / standard**
+
+**Earth Day** is observed internationally on
+
+A. 22 April
+
+B. 5 June
+
+C. 21 March
+
+D. 1 January
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Earth Day** falls on **22 April** each year.
+
+</details>
+
+**Q-GC57. Ghatnachakra / standard**
+
+Earth's axis is tilted about **23.5°**. This tilt mainly causes
+
+A. day and night
+
+B. seasons
+
+C. tides only
+
+D. magnetic reversals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **23.5° tilt** directs sunlight differently through the year, producing **seasons**.
+
+</details>
+
+**Q-GC58. Ghatnachakra / standard**
+
+Hot **deserts** like the Sahara lie near latitude
+
+A. 0° (equator)
+
+B. about 23° N/S under subtropical high-pressure belts
+
+C. 66° N only
+
+D. 90° S only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Subtropical deserts cluster near **~23°–30°** where **descending dry air** dominates (horse latitudes).
+
+</details>
+
+**Q-GC59. Ghatnachakra / standard**
+
+**Mars** resembles Earth in which pair of features?
+
+A. Same number of moons and same atmosphere
+
+B. Similar day length and similar axial tilt (~24 h and ~25°)
+
+C. Same size and same temperature
+
+D. Same rings and same oceans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mars has a **~24.6 h day** and **~25° tilt**, close to Earth's — useful for season comparisons.
+
+</details>
+
+**Q-GC60. Ghatnachakra / standard**
+
+Consider the following statements:
+
+**Assertion (A):** Mars takes less time than Earth to orbit the Sun.
+
+**Reason (R):** Mars is farther from the Sun than Earth.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **(A) is false** — Mars needs about **687 Earth days** per orbit, **more** than Earth's year. **(R) is true** — Mars is farther out.
+
+</details>
+
+**Q-GC61. Ghatnachakra / standard**
+
+Subsurface **ice on Mars** is important because it suggests
+
+A. Mars never had water
+
+B. past or present conditions that could support microbial life
+
+C. Mars is hotter than Venus
+
+D. Mars has no atmosphere at all
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Water ice** underpins the search for **habitable zones** and possible **past life** on Mars.
+
+</details>
+
+**Q-GC62. Ghatnachakra / standard**
+
+NASA's **Phoenix** lander touched down on Mars in about
+
+A. May 2008
+
+B. July 1969
+
+C. January 2006 (Pluto reclassification)
+
+D. August 2012 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Phoenix** landed on Mars in **May 2008** to study polar ice and soil.
+
+</details>
+
+**Q-GC63. Ghatnachakra / standard**
+
+**Galileo** discovered four large moons orbiting
+
+A. Saturn
+
+B. Jupiter
+
+C. Uranus
+
+D. Neptune
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Galilean moons** — Io, Europa, Ganymede, Callisto — orbit **Jupiter**.
+
+</details>
+
+**Q-GC64. Ghatnachakra / standard**
+
+When an older question asks how many moons **Jupiter** has, the best approach is to
+
+A. always answer 4 because Galileo found four
+
+B. use the count valid for the question's time — four Galilean moons are certain; total moons grew with later discoveries
+
+C. say zero because gas giants cannot have moons
+
+D. match Saturn's moon total exactly
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Four Galilean moons** are fixed facts; **total moon count** rises with discoveries — note **when asked** in older vs newer stems.
+
+</details>
+
+**Q-GC65. Ghatnachakra / standard**
+
+Among **Earth, Mars, Venus and Jupiter**, which planet takes the **longest** to complete one revolution?
+
+A. Earth
+
+B. Mars
+
+C. Venus
+
+D. Jupiter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Jupiter** (~12 years) beats Earth (~1 yr), Mars (~2 yr) and Venus (~225 days) in orbital period.
+
+</details>
+
+**Q-GC66. Ghatnachakra / standard**
+
+Jupiter's faint **rings** are mainly composed of
+
+A. pure gold dust
+
+B. silicate and dust particles
+
+C. liquid water oceans
+
+D. methane seas only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Jupiter's rings are **silicate/dust**, unlike Saturn's bright ice-dominated rings.
+
+</details>
+
+**Q-GC67. Ghatnachakra / standard**
+
+**Saturn** completes one orbit of the Sun in about
+
+A. 12 years
+
+B. 29.5 years
+
+C. 84 years
+
+D. 165 years
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Saturn's sidereal year is roughly **29.5 Earth years**.
+
+</details>
+
+**Q-GC68. Ghatnachakra / standard**
+
+The **Cassini** spacecraft studied which planet and its moons?
+
+A. Jupiter
+
+B. Saturn
+
+C. Uranus
+
+D. Pluto
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Cassini–Huygens** orbited **Saturn** and landed on **Titan**.
+
+</details>
+
+**Q-GC69. Ghatnachakra / standard**
+
+**Titan**, Saturn's largest moon, is notable for
+
+A. having a thick atmosphere and lakes of liquid methane/ethane
+
+B. being airless like Earth's Moon
+
+C. orbiting Jupiter
+
+D. being the hottest body in the solar system
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Titan** has a **dense atmosphere** and **hydrocarbon lakes** — unique among major moons.
+
+</details>
+
+**Q-GC70. Ghatnachakra / standard**
+
+**Uranus** takes about how many Earth years to orbit the Sun once?
+
+A. 12 years
+
+B. 29.5 years
+
+C. 84 years
+
+D. 165 years
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Uranus** completes one revolution in about **84 Earth years**.
+
+</details>
+
+**Q-GC71. Ghatnachakra / standard**
+
+**Pluto** was reclassified as a **dwarf planet** in
+
+A. 1990
+
+B. 2000
+
+C. 2006
+
+D. 2016
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The **IAU (2006, Prague)** demoted **Pluto** to dwarf-planet status.
+
+</details>
+
+**Q-GC72. Ghatnachakra / standard**
+
+Among the eight classical planets, **Neptune** is
+
+A. the nearest to the Sun and hottest
+
+B. the farthest and among the coldest
+
+C. the densest rocky planet
+
+D. the one with the shortest day
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Neptune** is the **outermost** major planet (~165 yr orbit) and **very cold** (~−200°C cloud tops).
+
+</details>
+
+**Q-GC73. Ghatnachakra / standard**
+
+**Nix** and **Hydra** are moons of
+
+A. Jupiter
+
+B. Saturn
+
+C. Pluto
+
+D. Mars
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Nix** and **Hydra** are small moons orbiting **Pluto** (with Charon).
+
+</details>
+
+**Q-GC74. Ghatnachakra / standard**
+
+The first human **Moon landing** (Apollo 11) occurred in
+
+A. 1969
+
+B. 1979
+
+C. 1959
+
+D. 2008
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Apollo 11** landed humans on the Moon in **July 1969**.
+
+</details>
+
+**Q-GC75. Ghatnachakra / standard**
+
+Apollo 11 astronauts landed in the lunar feature called
+
+A. Sea of Tranquility (Mare Tranquillitatis)
+
+B. Sea of Storms only
+
+C. Olympus Mons
+
+D. Valles Marineris
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Armstrong and Aldrin touched down in the **Sea of Tranquility** on 20 July 1969.
+
+</details>
+
+**Q-GC76. Ghatnachakra / standard**
+
+Consider the following statements:
+
+**Assertion (A):** We always see the same face of the Moon from Earth.
+
+**Reason (R):** The Moon's rotation period equals its revolution period around Earth.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The Moon's **rotation period matches its revolution** (~**27.3 days**), so the **same near-side** always faces Earth. Trap: some stems wrongly give **29.5 days** for rotation.
+
+</details>
+
+**Q-GC77. Ghatnachakra / standard**
+
+Sound cannot travel on the Moon because
+
+A. the Moon is too hot
+
+B. the Moon lacks a substantial atmosphere
+
+C. the Moon has too much gravity
+
+D. the Moon rotates too fast
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sound needs a **medium**; the Moon's **near-vacuum** cannot carry sound waves.
+
+</details>
+
+**Q-GC78. Ghatnachakra / standard**
+
+A **lunar eclipse** occurs when
+
+A. the Moon lies between Earth and Sun at New Moon
+
+B. Earth lies between Sun and Moon at Full Moon
+
+C. the Sun is at perihelion
+
+D. the Moon is at perigee only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Full Moon** + Earth casting shadow on the Moon = **lunar eclipse**.
+
+</details>
+
+**Q-GC79. Ghatnachakra / standard**
+
+The Moon appears **brighter** at **perigee** (supermoon) because it is
+
+A. closer to Earth and subtends a larger disk
+
+B. producing its own fusion light
+
+C. covered by Earth's shadow
+
+D. always at Full Moon phase regardless of distance
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** At **perigee** the Moon is **nearest**, looks **larger/brighter** when full — not because it emits light.
+
+</details>
+
+**Q-GC80. Ghatnachakra / standard**
+
+An astronaut's **weight on the Moon** is about
+
+A. the same as on Earth
+
+B. one-sixth of the weight on Earth
+
+C. six times the weight on Earth
+
+D. zero at all latitudes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lunar gravity is ~**1/6** of Earth's, so **weight** (not mass) drops sharply.
+
+</details>
+
+**Q-GC81. Ghatnachakra / standard**
+
+A **Blue Moon** commonly means
+
+A. the Moon turns blue from pollution every year
+
+B. the second Full Moon within the same calendar month
+
+C. a lunar eclipse at midnight only
+
+D. the Moon's first quarter in June
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Popular usage: **two Full Moons in one month** — the second is called a Blue Moon.
+
+</details>
+
+**Q-GC82. Ghatnachakra / standard**
+
+Most **asteroids** in the solar system are found
+
+A. between Mars and Jupiter in the asteroid belt
+
+B. inside Mercury's orbit
+
+C. only beyond Neptune with no rocky bodies
+
+D. between Earth and Venus exclusively
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The main **asteroid belt** lies **between Mars and Jupiter** and is mostly **rocky** debris.
+
+</details>
+
+**Q-GC83. Ghatnachakra / standard**
+
+Consider the following statements about small solar-system bodies:
+
+1. Asteroids are mainly rocky objects.
+2. Comets develop glowing tails when near the Sun.
+3. Meteors are streaks of light from particles burning in Earth's atmosphere.
+
+How many statements are correct?
+
+A. None
+
+B. Only one
+
+C. Only two
+
+D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three hold — coaching sets often stress **1 and 3**, but **2** is also true for comet tails near the Sun.
+
+</details>
+
+**Q-GC84. Ghatnachakra / standard**
+
+A comet's **tail** points generally
+
+A. toward the Sun due to gravity alone
+
+B. away from the Sun, pushed by solar radiation and wind
+
+C. toward Earth always
+
+D. perpendicular to the ecliptic only at equinox
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gas and dust tails stream **away from the Sun**, driven by **radiation pressure** and the **solar wind**.
+
+</details>
+
+**Q-GC85. Ghatnachakra / standard**
+
+**Comet Hale–Bopp** was widely observed in
+
+A. 1976
+
+B. 1997
+
+C. 2006
+
+D. 2019
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Hale–Bopp** was a bright naked-eye comet in **1997**.
+
+</details>
+
+**Q-GC86. Ghatnachakra / standard**
+
+**Shoemaker–Levy 9** crashed into which planet in 1994?
+
+A. Mars
+
+B. Jupiter
+
+C. Saturn
+
+D. Uranus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Fragments of **Shoemaker–Levy 9** impacted **Jupiter** in July 1994.
+
+</details>
+
+**Q-GC87. Ghatnachakra / standard**
+
+A **meteor** (shooting star) is
+
+A. a rock sitting permanently on the Moon
+
+B. a brief streak of light as a meteoroid burns in Earth's atmosphere
+
+C. the same as an asteroid in the belt
+
+D. a comet tail seen from Mars
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Meteor** = atmospheric **streak**; **meteorite** = surviving ground impact.
+
+</details>
+
+**Q-GC88. Ghatnachakra / standard**
+
+With reference to **latitude and longitude**, which statements are correct?
+
+1. **45° S** is a valid latitude.
+2. The parallel at **60° N** is a great circle.
+3. **0°N, 0°E** falls in the **Atlantic Ocean** (Gulf of Guinea).
+4. **Cairo** lies near **30° E** (about **2 h ahead** of GMT).
+
+A. 1 and 3 only
+
+B. 1, 3 and 4 only
+
+C. 2 and 4 only
+
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **45° S** is valid; **0°–0°** is in the **Atlantic**; **Cairo ~30° E**; **60° N** is **not** a great circle.
+
+</details>
+
+**Q-GC89. Ghatnachakra / standard**
+
+With reference to **tropical lines and the equator**, which statements are correct?
+
+1. **Kenya, Colombia and Indonesia** are crossed by the Equator.
+2. **Mexico** is crossed by the Equator.
+3. The **Tropic of Capricorn** does **not** pass through **Bolivia**.
+4. The **Tropic of Cancer** does **not** pass through **Iran**.
+
+A. 1 and 3 only
+
+B. 1, 3 and 4 only
+
+C. 2 and 4 only
+
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kenya, Colombia, Indonesia** straddle the equator; **Mexico, Bolivia and Iran** fail the respective line tests in statements 2–4.
+
+</details>
+
+**Q-GC90. Ghatnachakra / standard**
+
+With reference to **Earth's motions, seasons and time**, which statements are correct?
+
+1. On an **equinox**, day and night are nearly equal worldwide.
+2. The **June solstice** gives the **longest day** in the Northern Hemisphere; **21 June** brings the **shortest noon shadow** at the Tropic of Cancer and **midnight Sun** inside the Arctic Circle.
+3. The **December solstice** gives the **shortest day** in the Northern Hemisphere.
+4. **IST** is based on **82°30′ E** (GMT + 5 h 30 min); the **IDL** lies mainly in the **Pacific**; **90° E** is **6 hours ahead** of GMT.
+
+A. 1 and 2 only
+
+B. 1, 2 and 3 only
+
+C. 1, 2, 3 and 4
+
+D. 2 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four blocks are standard: **equinox** equality; **June** NH longest day + **21 June** shadow / Arctic Sun; **December** NH shortest day; **IST 82.5° E**, **IDL in Pacific**, **90° E = +6 h**.
+
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Rocks & Volcanoes (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–51+ (rock cycle → volcanoes). Teaching lives in N.16A–N.18 of Topic 14. Do not rewrite the year-coded UPPCS 2018–2025 bank. Skip an exact Rainier–Etna–Paricutin–Apo 2021 duplicate (already in UPPCS bank); other Match Lists OK.
+
+**Q-GC1. Ghatnachakra / standard**
+
+Consider the following statements about **sedimentary rocks**:
+
+1. They are formed at or near the Earth’s surface through hydrological and related surface processes.
+2. They are formed from the weathering of preexisting rocks.
+3. They often contain fossils of plants and animals.
+4. They occur in distinct layers or strata.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+
+B. 2, 3 and 4 only
+
+C. 1, 3 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four statements are standard sedimentary cues: surface deposition, weathered fragments, fossils, and layering.
+
+</details>
+
+**Q-GC2. Ghatnachakra / standard**
+
+Sedimentary rocks characteristically occur
+
+A. as massive unlayered blocks without fossils
+
+B. in distinct layers or strata
+
+C. only deep inside the continental mantle
+
+D. exclusively from direct cooling of magma
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sedimentary rocks are deposited in **layers (strata)** at or near the surface after transport and lithification.
+
+</details>
+
+**Q-GC3. Ghatnachakra / standard**
+
+Sandstone often shows a flaky or layered appearance mainly because it was
+
+A. formed by rapid cooling of lava on a volcano top
+
+B. deposited under water or in low basins and later compacted
+
+C. recrystallised solely by desert heat without water
+
+D. intruded as magma between older rock beds
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sandstone’s flaky, bedded look comes from **sediment deposition**—often underwater or in low basins—not from desert heat alone.
+
+</details>
+
+**Q-GC4. Ghatnachakra / standard**
+
+Igneous rocks may be
+
+A. crystalline only
+
+B. non-crystalline only
+
+C. either crystalline or non-crystalline
+
+D. neither crystalline nor non-crystalline
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Igneous rocks include **slow-cooled crystalline** types (e.g. granite) and **fast-cooled glassy / non-crystalline** types (e.g. obsidian).
+
+</details>
+
+**Q-GC5. UPPCS / standard**
+
+Which of the following rocks is **least likely** to contain fossils?
+
+A. Conglomerate
+
+B. Shale
+
+C. Sandstone
+
+D. Granite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Granite** is igneous and forms from cooled magma; fossils need sedimentary burial, not magma crystallisation.
+
+</details>
+
+**Q-GC6. Ghatnachakra / standard**
+
+Metamorphic rocks can originate from
+
+A. igneous rocks only
+
+B. sedimentary rocks only
+
+C. both igneous and sedimentary rocks
+
+D. neither igneous nor sedimentary rocks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Metamorphism** can remake **any** preexisting rock—igneous, sedimentary, or an older metamorphic rock.
+
+</details>
+
+**Q-GC7. Ghatnachakra / standard**
+
+Which of the following is **not** a metamorphic rock?
+
+A. Marble
+
+B. Quartzite
+
+C. Slate
+
+D. Granite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Granite** is **igneous** (intrusive). Marble, quartzite, and slate are metamorphic products.
+
+</details>
+
+**Q-GC8. Ghatnachakra / standard**
+
+Which of the following is the **odd one out** among sedimentary types?
+
+A. Sandstone
+
+B. Limestone
+
+C. Shale
+
+D. Gneiss
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Gneiss** is **metamorphic** (from granite). Sandstone, limestone, and shale are sedimentary.
+
+</details>
+
+**Q-GC9. Ghatnachakra / standard**
+
+**Granite** on prolonged heat and pressure typically changes into
+
+A. marble
+
+B. gneiss
+
+C. quartzite
+
+D. slate
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The classic parent–product pair is **granite → gneiss**.
+
+</details>
+
+**Q-GC10. Ghatnachakra / standard**
+
+**Limestone** subjected to regional metamorphism becomes
+
+A. marble
+
+B. slate
+
+C. schist
+
+D. basalt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Limestone / chalk** recrystallises into **marble**.
+
+</details>
+
+**Q-GC11. Ghatnachakra / standard**
+
+**Sandstone** under intense metamorphism becomes
+
+A. slate
+
+B. gneiss
+
+C. quartzite
+
+D. amphibolite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Sandstone → quartzite** is a must-score metamorphic pair.
+
+</details>
+
+**Q-GC12. Ghatnachakra / standard**
+
+**Shale** on metamorphism first turns into
+
+A. marble
+
+B. slate
+
+C. basalt
+
+D. conglomerate
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Shale → slate** is the first grade; further heat can yield phyllite and schist.
+
+</details>
+
+**Q-GC13. Ghatnachakra / standard**
+
+**Basalt**, when deeply metamorphosed, may become
+
+A. marble or chalk
+
+B. schist or amphibolite
+
+C. halite or gypsum
+
+D. peat or lignite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Basalt** (mafic igneous) grades to **schist / amphibolite** under high-grade metamorphism.
+
+</details>
+
+**Q-GC14. Ghatnachakra / standard**
+
+The branch of geology that deals with the study of rocks is called
+
+A. petrology
+
+B. seismology
+
+C. climatology
+
+D. pedology
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Petrology** studies the origin, composition, and classification of rocks.
+
+</details>
+
+**Q-GC15. Ghatnachakra / standard**
+
+Rocks formed directly from the solidification of magma or lava are called **primary** rocks. They belong to the
+
+A. sedimentary group
+
+B. metamorphic group
+
+C. igneous group
+
+D. organic group only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Igneous** rocks are **primary**—they crystallise straight from melt without needing a preexisting rock parent.
+
+</details>
+
+**Q-GC16. Ghatnachakra / standard**
+
+Which pair correctly matches rock type with a standard example?
+
+A. Plutonic — basalt
+
+B. Volcanic — granite
+
+C. Plutonic — granite
+
+D. Volcanic — gabbro (deep pluton)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Plutonic / intrusive** = slow deep cooling (**granite**); **volcanic / extrusive** = surface lava (**basalt**).
+
+</details>
+
+**Q-GC17. Ghatnachakra / standard**
+
+The conversion of loose sediments into solid rock through compaction and cementation is called
+
+A. metamorphism
+
+B. lithification
+
+C. subduction
+
+D. exfoliation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lithification** binds sediments into sedimentary rock through compaction and cementation.
+
+</details>
+
+**Q-GC18. UPPCS / standard**
+
+Match List-I with List-II and select the correct answer using the codes below.
+
+| List-I (Parent rock) | List-II (Metamorphic product) |
+|---|---|
+| A. Granite | 1. Marble |
+| B. Limestone | 2. Gneiss |
+| C. Sandstone | 3. Quartzite |
+| D. Shale | 4. Slate |
+
+*Row order is not the answer.*
+
+A. A–2, B–1, C–3, D–4
+
+B. A–1, B–2, C–4, D–3
+
+C. A–3, B–4, C–2, D–1
+
+D. A–4, B–3, C–1, D–2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Granite–gneiss; limestone–marble; sandstone–quartzite; shale–slate.
+
+</details>
+
+**Q-GC19. Ghatnachakra / standard**
+
+Sedimentary rocks can form from the weathering products of
+
+A. igneous rocks only
+
+B. metamorphic rocks only
+
+C. all three major rock families
+
+D. cosmic dust alone without crustal rocks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Weathering breaks down **igneous, sedimentary, and metamorphic** rocks; the fragments can lithify into new sedimentary layers.
+
+</details>
+
+**Q-GC20. UKPCS / standard**
+
+**Coal** is best classified as a
+
+A. plutonic igneous rock
+
+B. organic / carbonaceous sedimentary rock
+
+C. high-grade metamorphic rock
+
+D. volcanic glass
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Coal** forms from buried plant matter and belongs to **organic sedimentary** rocks.
+
+</details>
+
+**Q-GC21. Ghatnachakra / standard**
+
+A **volcanic cone** is an example of which kind of landform?
+
+A. erosional landform
+
+B. constructional / basic landform built by lava and ash
+
+C. aeolian depositional landform only
+
+D. glacial depositional landform
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Volcanic cones are **constructional** landforms raised by erupted lava, ash, and cinders.
+
+</details>
+
+**Q-GC22. Ghatnachakra / standard**
+
+The most abundant gas released during volcanic eruptions is
+
+A. carbon dioxide
+
+B. sulphur dioxide
+
+C. water vapour
+
+D. nitrogen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Water vapour (H₂O)** dominates volcanic gas output; CO₂ and SO₂ follow in smaller shares.
+
+</details>
+
+**Q-GC23. UPPCS / standard**
+
+Which of the following is the **highest** among these volcanic mountains?
+
+A. Mount Fuji
+
+B. Mount Vesuvius
+
+C. Cotopaxi
+
+D. Mount St Helens
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Among common options **Cotopaxi** (~5897 m) is tallest; the world’s highest **active** volcano is often cited as **Ojos del Salado** (~6893 m, Andes).
+
+</details>
+
+**Q-GC24. Ghatnachakra / standard**
+
+The belt with the **maximum concentration** of the world’s volcanoes and great earthquakes is the
+
+A. Mid-Atlantic Ridge alone
+
+B. Alpine–Himalayan belt only
+
+C. Circum-Pacific / Ring of Fire belt
+
+D. Baltic Sea region
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The **Circum-Pacific (Ring of Fire)** holds roughly **80%** of active volcanoes and most major earthquakes.
+
+</details>
+
+**Q-GC25. Ghatnachakra / standard**
+
+Molten rock **inside** the Earth before it reaches the surface is called
+
+A. lava
+
+B. basalt
+
+C. obsidian
+
+D. none of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Underground melt is **magma**; lava, basalt, and obsidian refer to surface or solidified forms—not the subsurface melt name.
+
+</details>
+
+**Q-GC26. Ghatnachakra / standard**
+
+Rock formed by the **slow solidification of magma deep inside** the crust is called
+
+A. volcanic rock
+
+B. plutonic rock
+
+C. clastic sediment
+
+D. peat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Plutonic / intrusive** igneous rock crystallises slowly at depth (e.g. granite, gabbro).
+
+</details>
+
+**Q-GC27. Ghatnachakra / standard**
+
+Volcanic eruptions are **absent** in which of the following regions?
+
+A. Iceland
+
+B. Indonesia
+
+C. Baltic Sea area
+
+D. Andes of South America
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The **Baltic Sea** region sits on stable continental crust without an active volcanic belt.
+
+</details>
+
+**Q-GC28. Ghatnachakra / standard**
+
+Mount **Etna** is located in
+
+A. Greece
+
+B. Sicily, Italy
+
+C. Turkey
+
+D. Spain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Etna** rises on **Sicily, Italy**, and is one of the Mediterranean’s most active volcanoes.
+
+</details>
+
+**Q-GC29. UPPCS / standard**
+
+Mount **St Helens**, often called the “Fuji of America,” is in
+
+A. Canada
+
+B. Mexico
+
+C. United States of America
+
+D. Chile
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mount St Helens** is in the **USA** (Washington State, Cascades).
+
+</details>
+
+**Q-GC30. Ghatnachakra / standard**
+
+**Mauna Loa** in Hawaii is notable because it is
+
+A. an extinct peak in the Alps
+
+B. one of Earth’s largest active shield volcanoes; it erupted again in November 2022
+
+C. a cinder cone born in 1943 in Mexico
+
+D. India’s only active volcano
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mauna Loa** is a huge **active shield volcano** in **Hawaii**; coaching notes highlight its **2022** eruption episode.
+
+</details>
+
+**Q-GC31. Ghatnachakra / standard**
+
+Which set lists **active volcanoes** only?
+
+A. Cotopaxi, Etna, Fujiyama
+
+B. Aconcagua, Etna, Fujiyama
+
+C. Cotopaxi, Aconcagua, Kilimanjaro
+
+D. Aconcagua, Kinabalu, Chimborazo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Cotopaxi, Etna, and Fujiyama (Fuji)** are active volcanic cones; **Aconcagua** is a high **peak**, not counted as an active volcano in standard keys.
+
+</details>
+
+**Q-GC32. Ghatnachakra / standard**
+
+Which pair correctly groups **Mediterranean active volcanoes**?
+
+A. Kilimanjaro and Aconcagua
+
+B. Etna and Vesuvius
+
+C. Rainier and St Helens
+
+D. Kinabalu and Elburz
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Etna** (Sicily) and **Vesuvius** (Italy) are classic **Mediterranean active** volcanoes—not Kilimanjaro or Aconcagua.
+
+</details>
+
+**Q-GC33. UKPCS / standard**
+
+**Mount Kilimanjaro** is a dormant volcanic peak in
+
+A. Kenya
+
+B. Tanzania
+
+C. Ethiopia
+
+D. Uganda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kilimanjaro** stands in **Tanzania** (East African Rift), not in the Pacific Ring of Fire.
+
+</details>
+
+**Q-GC34. Ghatnachakra / standard**
+
+**Stromboli** is famous as the
+
+A. highest volcano in the Andes
+
+B. “lighthouse of the Mediterranean” for its regular night glow
+
+C. only active volcano in India
+
+D. largest shield volcano on Earth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Stromboli** (Italy) erupts frequently and is nicknamed the **“lighthouse of the Mediterranean.”**
+
+</details>
+
+**Q-GC35. Ghatnachakra / standard**
+
+Active or recent volcanism near the **polar regions** is found in
+
+A. the Baltic Sea only
+
+B. Antarctica and parts of the Arctic (e.g. Iceland)
+
+C. the Sahara Desert core
+
+D. the Gangetic plain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Antarctica** hosts **Mount Erebus**; **Iceland** (Arctic fringe) sits on a divergent hot spot—both show polar-region volcanic activity.
+
+</details>
+
+**Q-GC36. Ghatnachakra / standard**
+
+Among the following, which volcano is often ranked as the **most active** in recent decades?
+
+A. Fujiyama
+
+B. Vesuvius
+
+C. Kilauea
+
+D. Damavand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kilauea** (Hawaii) is among the **most persistently active** volcanoes in standard coaching lists.
+
+</details>
+
+**Q-GC37. Ghatnachakra / standard**
+
+Match List-I with List-II and select the correct answer.
+
+| List-I (Volcano) | List-II (Location) |
+|---|---|
+| A. Etna | 1. Ross Island / Antarctica |
+| B. Vesuvius | 2. Sicily |
+| C. Erebus | 3. Italy (mainland) |
+| D. Cotopaxi | 4. Ecuador |
+
+*Row order is not the answer.*
+
+A. A–2, B–3, C–1, D–4
+
+B. A–3, B–2, C–4, D–1
+
+C. A–2, B–1, C–3, D–4
+
+D. A–4, B–3, C–2, D–1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Etna–Sicily; Vesuvius–Italy; Erebus–Ross Island (Antarctica); Cotopaxi–Ecuador.
+
+</details>
+
+**Q-GC38. Ghatnachakra / standard**
+
+Match List-I with List-II and select the correct answer.
+
+| List-I (Volcano) | List-II (Country) |
+|---|---|
+| A. Rainier | 1. Italy |
+| B. Etna | 2. Mexico |
+| C. Paricutin | 3. Philippines |
+| D. Taal | 4. USA |
+
+*Row order is not the answer.*
+
+A. 4, 1, 2, 3
+
+B. 4, 2, 1, 3
+
+C. 1, 4, 2, 3
+
+D. 4, 3, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rainier–USA; Etna–Italy; Paricutin–Mexico; **Taal**–Philippines (distinct from the 2021 Apo set).
+
+</details>
+
+**Q-GC39. Ghatnachakra / standard**
+
+Match List-I with List-II and select the correct answer.
+
+| List-I (Mountain / peak) | List-II (Country) |
+|---|---|
+| A. Kinabalu | 1. Iran |
+| B. Elburz | 2. Argentina |
+| C. Aconcagua | 3. Tanzania |
+| D. Kilimanjaro | 4. Malaysia |
+
+*Row order is not the answer.*
+
+A. A–4, B–1, C–2, D–3
+
+B. A–1, B–4, C–3, D–2
+
+C. A–4, B–2, C–1, D–3
+
+D. A–2, B–1, C–4, D–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kinabalu–Malaysia; Elburz–Iran; Aconcagua–Argentina; Kilimanjaro–Tanzania.
+
+</details>
+
+**Q-GC40. Ghatnachakra / standard**
+
+Match List-I with List-II and select the correct answer.
+
+| List-I (Volcano) | List-II (Country) |
+|---|---|
+| A. Sabancaya | 1. Italy |
+| B. Etna | 2. Mexico |
+| C. Colima | 3. Indonesia |
+| D. Merapi | 4. Peru |
+
+*Row order is not the answer.*
+
+A. A–4, B–1, C–2, D–3
+
+B. A–2, B–4, C–1, D–3
+
+C. A–4, B–3, C–2, D–1
+
+D. A–1, B–2, C–4, D–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sabancaya–Peru; Etna–Italy; Colima–Mexico; Merapi–Indonesia.
+
+</details>
+
+**Q-GC41. UPPCS / standard**
+
+Consider the following statements about **Indonesia**:
+
+1. Indonesia has roughly **150 active volcanoes**, among the highest national totals in the world.
+2. Indonesia consists of **fewer than 15,000 islands**.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement **1** is correct (~**150+** active volcanoes). Statement **2** is wrong—Indonesia spans **17,000+** islands, so only one statement holds.
+
+</details>
+
+**Q-GC42. Ghatnachakra / standard**
+
+The volcanic island of **Krakatoa (Krakatau)** lies in
+
+A. Japan
+
+B. Indonesia
+
+C. Philippines
+
+D. New Zealand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Krakatoa** is in the **Sunda Strait, Indonesia**, famous for its 1883 caldera-forming eruption.
+
+</details>
+
+**Q-GC43. Ghatnachakra / standard**
+
+**Acidic lava** is characterised by
+
+A. low silica content and high fluidity
+
+B. high silica content and high viscosity
+
+C. no silica and rapid flow like water
+
+D. organic carbon content from buried plants
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **High silica** makes lava **sticky (viscous)** → **acidic / rhyolitic** eruptions; **basic** lava is low-silica and runny.
+
+</details>
+
+**Q-GC44. UPPCS / standard**
+
+India’s only **confirmed active volcano** is
+
+A. Narcondam Island
+
+B. Barren Island (Andaman Sea)
+
+C. Great Nicobar peak
+
+D. Deccan Trap fissure
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Barren Island** in the **Andaman Sea** is India’s only **confirmed active** volcano; Narcondam is dormant/extinct in standard keys.
+
+</details>
+
+**Q-GC45. Ghatnachakra / standard**
+
+The correct distinction between **magma** and **lava** is
+
+A. magma is solid; lava is gaseous only
+
+B. magma is underground melt; lava is magma that has reached the surface
+
+C. magma forms sedimentary rock; lava forms metamorphic rock
+
+D. magma and lava are identical terms for cooled rock
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Magma** stays **below** the surface; **lava** is the same melt after it erupts onto the surface (~600–1200°C).
+
+</details>
+
+**Q-GC46. Ghatnachakra / standard**
+
+**Old Faithful** in **Yellowstone** is an example of a
+
+A. fumarole releasing only sulphur gas
+
+B. geyser—intermittent hot water and steam eruption
+
+C. dormant stratovolcano cone
+
+D. mid-ocean ridge fissure
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Geysers** like Old Faithful eject **hot water and steam** intermittently above magmatic heat; **fumaroles** vent gas (solfataras if sulphurous).
+
+</details>
+
+**Q-GC47. UKPCS / standard**
+
+**Mount Damavand** in **Iran** is best described as a
+
+A. active Ring of Fire composite cone erupting yearly
+
+B. dormant stratovolcano—the highest peak in the Middle East
+
+C. submerged mid-Atlantic shield
+
+D. cinder cone born in 1943
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Damavand** is a **dormant stratovolcano** in **Iran** and the highest peak in the Middle East.
+
+</details>
+
+**Q-GC48. Ghatnachakra / standard**
+
+Which is a classic **shield volcano** example?
+
+A. Paricutin
+
+B. Mauna Loa
+
+C. Vesuvius
+
+D. Stromboli (steep strato cone in many keys)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mauna Loa** is a low-slope **shield volcano** built by fluid basalt flows.
+
+</details>
+
+**Q-GC49. Ghatnachakra / standard**
+
+**Mount Fuji**, **Etna**, and **Cotopaxi** are standard examples of
+
+A. shield volcanoes
+
+B. composite / stratovolcanoes
+
+C. cinder cones only
+
+D. extinct erosional peaks without volcanic origin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** These are **composite (strato)** volcanoes with alternating lava and ash layers and explosive potential.
+
+</details>
+
+**Q-GC50. Ghatnachakra / standard**
+
+**Paricutin**, which appeared in a Mexican cornfield in **1943**, is a
+
+A. caldera collapse feature
+
+B. cinder cone
+
+C. continental flood basalt
+
+D. submarine mid-ocean ridge
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Paricutin** is a textbook **cinder cone** that grew rapidly from a fissure in 1943.
+
+</details>
+
+**Q-GC51. Ghatnachakra / standard**
+
+The **Deccan Trap** basalt province in India formed mainly from
+
+A. a single explosive caldera blast
+
+B. prolonged **fissure / flood basalt** eruptions
+
+C. deep plutonic granite intrusion only
+
+D. glacial deposition of volcanic ash
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Deccan Traps** are **fissure-type flood basalts** spread over the Indian plateau.
+
+</details>
+
+**Q-GC52. UPPCS / standard**
+
+Which of the following volcanoes is **not** located in the Pacific Ring of Fire?
+
+A. Mount Fuji
+
+B. Mount Pinatubo
+
+C. Mount Kilimanjaro
+
+D. Mount Rainier
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kilimanjaro** sits on the **East African Rift**, outside the Circum-Pacific belt.
+
+</details>
+
+**Q-GC53. Ghatnachakra / standard**
+
+**Mount Erebus** is an active volcano on
+
+A. Ross Island, Antarctica
+
+B. Sicily, Italy
+
+C. Hawaii, USA
+
+D. Honshu, Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Erebus** rises on **Ross Island, Antarctica**, with a persistent lava lake in coaching lore.
+
+</details>
+
+**Q-GC54. Ghatnachakra / standard**
+
+**Mount Vesuvius**, which buried Pompeii in **AD 79**, is in
+
+A. Greece
+
+B. Italy
+
+C. Turkey
+
+D. Spain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vesuvius** overlooks the Bay of Naples in **Italy**.
+
+</details>
+
+**Q-GC55. Ghatnachakra / standard**
+
+A large **caldera** formed by catastrophic volcanic collapse is best illustrated by
+
+A. Krakatoa (Krakatau) after the 1883 eruption
+
+B. the Baltic Sea floor
+
+C. the Gangetic alluvial plain
+
+D. the Bundelkhand granite plateau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Krakatoa’s** 1883 blast emptied its magma chamber and left a **caldera**—a classic collapse landform.
+
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Earthquakes (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–58+ (earthquakes → waves → tsunami → belts). Teaching lives in N.17B–N.18 of Topic 14. Do not duplicate the year-coded UPPCS 2018–2025 ozone/jets bank.
+
+---
+
+**Q-GC1. Ghatnachakra / standard**
+
+Consider the following statements about **plate tectonics**:
+
+1. The plate tectonics theory was proposed by Harry Hess alone in 1967.
+2. Plate tectonics is based on the concept of sea-floor spreading.
+
+Which is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 is **false** — Hess contributed to sea-floor spreading, but plate tectonics was built by many workers, not “Hess alone in 1967.” Statement 2 is **true** — spreading ridges and subduction zones underpin the modern plate framework.
+
+</details>
+
+---
+
+**Q-GC2. Ghatnachakra / standard**
+
+The three main families of **seismic waves** generated by an earthquake are commonly grouped as **P.S.L.** — meaning
+
+A. Primary, Secondary, and Love/surface waves
+
+B. Pacific, Seismic, and Lithospheric waves
+
+C. Pressure, Shear, and Longitudinal waves only
+
+D. Primary, Surface, and Lateral waves in the mantle alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **P** = Primary (body), **S** = Secondary (body), **L** = Love (a surface wave type, with Rayleigh as the other major surface family).
+
+</details>
+
+---
+
+**Q-GC3. Ghatnachakra / standard**
+
+Consider the following statements about the **shadow zone** of earthquakes:
+
+1. Each earthquake has its own shadow zone pattern.
+2. Both P-waves and S-waves are recorded at any distance beyond 105° from the epicentre.
+
+Which is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement 1 is **true** — shadow geometry depends on focus depth and Earth structure. Statement 2 is **false** — **S-waves** stop beyond roughly **103–105°**, and **P-waves** miss a belt near **105–140°**; both are not received at all distances beyond 105°.
+
+</details>
+
+---
+
+**Q-GC4. UPPCS / standard**
+
+With reference to the **Ring of Fire**, consider the following statements:
+
+1. It is associated with a high frequency of earthquakes.
+2. It is associated with many active volcanoes.
+3. It lies mainly around the Pacific Ocean.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The **Circum-Pacific Ring of Fire** links **earthquakes**, **volcanoes**, and the **Pacific** margin — not “forest fires.”
+
+</details>
+
+---
+
+**Q-GC5. UPPCS / standard**
+
+Consider the following statements about the **Richter scale**:
+
+1. It is a logarithmic scale based on a tenfold increase in wave amplitude for each unit increase.
+2. Each one-unit rise on the scale means roughly 100 times more energy released.
+
+Which is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement 1 is **true** — magnitude tracks **log₁₀ amplitude**. Statement 2 is **false** — energy rises roughly **~32×** per unit, not **100×** (IAS 2006 pattern).
+
+</details>
+
+---
+
+**Q-GC6. UPPCS / standard**
+
+Which of the following statements about earthquakes is/are correct?
+
+1. The **Mercalli scale** is used to measure intensity.
+2. **Magnitude** is a measure of energy released.
+3. Magnitude depends on the amplitude of seismic waves.
+
+Select the correct answer using the code below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements **1, 2, and 3** are correct. A claim that each Richter step equals **100× energy** would be wrong — that is why it is excluded from this stem (IAS 2001 pattern).
+
+</details>
+
+---
+
+**Q-GC7. UKPCS / standard**
+
+Which scale is classically linked with the **magnitude** of an earthquake (energy released)?
+
+A. Mercalli scale
+
+B. Richter scale
+
+C. Beaufort scale
+
+D. Saffir–Simpson scale
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Richter** (magnitude) scale estimates **energy / amplitude** of the quake. **Mercalli** measures **felt intensity**, not magnitude.
+
+</details>
+
+---
+
+**Q-GC8. UKPCS / standard**
+
+Which scale is classically used to describe the **intensity** of an earthquake (damage and felt effects at a place)?
+
+A. Richter scale
+
+B. Mercalli scale
+
+C. Mohs scale
+
+D. Richter–Mercalli combined scale
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Intensity** = **Mercalli** (local effects). Some older keys wrongly pick **Richter** when only magnitude scales appear in options — intensity stems should prefer **Mercalli**.
+
+</details>
+
+---
+
+**Q-GC9. Ghatnachakra / standard**
+
+A **seismometer** is an instrument used to
+
+A. predict the exact date of the next earthquake
+
+B. measure and detect earthquake motion / seismic waves
+
+C. measure atmospheric pressure during storms
+
+D. record volcanic gas emissions only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A **seismometer** (with a **seismograph** recording system) detects ground motion from earthquakes.
+
+</details>
+
+---
+
+**Q-GC10. Ghatnachakra / standard**
+
+The instrument that **records** seismic waves on paper or digitally, producing a trace of the shaking, is called a
+
+A. barometer
+
+B. seismograph
+
+C. anemometer
+
+D. hygrometer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **seismograph** records waves; the written trace is a **seismogram**.
+
+</details>
+
+---
+
+**Q-GC11. Ghatnachakra / standard**
+
+The word **tsunami** comes from which language?
+
+A. Sanskrit
+
+B. Japanese
+
+C. Indonesian
+
+D. Hawaiian
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tsunami** is Japanese: *tsu* (harbour) + *nami* (wave).
+
+</details>
+
+---
+
+**Q-GC12. UPPCS / standard**
+
+Which of the following is **NOT** correct about the **26 December 2004** Indian Ocean tsunami?
+
+A. It was triggered largely by a subduction-zone earthquake off Sumatra.
+
+B. Coastal areas from Indonesia to Africa were affected.
+
+C. The death toll was roughly **50 lakh** (five million).
+
+D. Bangladesh suffered relatively fewer casualties compared with Sri Lanka and Indonesia.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Deaths were on the order of **2–3 lakh**, not **50 lakh**. The other statements match standard teaching.
+
+</details>
+
+---
+
+**Q-GC13. UPPCS / standard**
+
+The **Fukushima Daiichi** nuclear disaster (2011) was closely linked to
+
+A. a cyclone on the Sea of Japan with no seismic activity
+
+B. a great earthquake and tsunami on the Pacific coast of Japan
+
+C. a landslide in the Alps unrelated to the sea
+
+D. a meteorite impact in the Pacific
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **11 March 2011** **Tōhoku** earthquake and **tsunami** flooded and crippled the **Fukushima** nuclear plant.
+
+</details>
+
+---
+
+**Q-GC14. UKPCS / standard**
+
+North-western India is particularly susceptible to earthquakes mainly because
+
+A. the region lies far from any plate boundary and is geologically stable
+
+B. significant **plate tectonic activity** — especially Indian–Eurasian convergence — affects the subcontinent
+
+C. only human mining, not geology, triggers all shocks there
+
+D. the area sits on an purely oceanic plate with no continental crust
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NW India and the **Himalayan front** feel **plate-tectonic** stress from the **Indian plate** pushing into **Eurasia**.
+
+</details>
+
+---
+
+**Q-GC15. Ghatnachakra / standard**
+
+The point on the **Earth's surface directly above** the underground point where an earthquake originates is called the
+
+A. focus (hypocentre)
+
+B. epicentre
+
+C. asthenosphere
+
+D. Benioff zone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **focus** is the rupture point **inside** the Earth; the **epicentre** is the surface point **above** it — where surface effects are often referenced first.
+
+</details>
+
+---
+
+**Q-GC16. Ghatnachakra / standard**
+
+The **Cocos Plate** lies between
+
+A. India and Antarctica
+
+B. Central America and the Pacific Plate
+
+C. Africa and South America only
+
+D. Australia and the Philippine Plate
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Cocos Plate** is a small oceanic plate **between Central America** and the **Pacific Plate**, subducting beneath Mexico and Central America.
+
+</details>
+
+---
+
+**Q-GC17. UPPCS / standard**
+
+Which seismic wave arrives **first** at a distant seismograph station after an earthquake?
+
+A. S-wave (secondary)
+
+B. P-wave (primary)
+
+C. Love wave
+
+D. Rayleigh wave
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **P-waves** are the **fastest** body waves and arrive **before S-waves** and surface waves.
+
+</details>
+
+---
+
+**Q-GC18. UPPCS / standard**
+
+Which type of seismic wave generally causes the **greatest damage to buildings at the surface**?
+
+A. P-wave
+
+B. S-wave
+
+C. Surface waves (Love and Rayleigh)
+
+D. Sound waves in the troposphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Surface waves** travel near the ground and shake structures longest — they are usually the **most damaging** at the surface.
+
+</details>
+
+---
+
+**Q-GC19. Ghatnachakra / standard**
+
+Between the two major **surface wave** types, **Love waves** travel
+
+A. slower than Rayleigh waves
+
+B. faster than Rayleigh waves
+
+C. at exactly the same speed as P-waves
+
+D. only through the liquid outer core
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Love waves** are the **faster** surface wave; **Rayleigh waves** are slower but often feel more rolling.
+
+</details>
+
+---
+
+**Q-GC20. UKPCS / standard**
+
+**Match List-I with List-II** and select the correct answer using the code below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Focus | 1. Point on surface above hypocentre |
+| B. Epicentre | 2. Initial rupture point inside Earth |
+| C. Seismogram | 3. Graphical record of seismic waves |
+| D. Seismograph | 4. Instrument that records waves |
+
+*Row order is not the answer.*
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-4, D-3
+
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Focus** = internal rupture (2); **epicentre** = surface above it (1); **seismogram** = record (3); **seismograph** = instrument (4).
+
+</details>
+
+---
+
+**Q-GC21. UPPCS / standard**
+
+Approximately what share of the world's **earthquakes** occur in the **Circum-Pacific (Ring of Fire)** belt?
+
+A. About 10%
+
+B. About 50%
+
+C. About 90%
+
+D. 100% with none elsewhere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Coaching standard: roughly **~90%** of world **earthquakes** (and ~**80%** of volcanoes) cluster in the **Ring of Fire**.
+
+</details>
+
+---
+
+**Q-GC22. UKPCS / standard**
+
+India's main **continental** seismic belt — linking the Alps, Caucasus, and Himalaya — is best described as the
+
+A. Mid-Atlantic Ridge belt only
+
+B. Alpine–Himalayan / mid-continental belt
+
+C. East African Rift alone
+
+D. Arctic mid-ocean ridge
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** India sits on the **Alpine–Himalayan (mid-continental)** belt, not only on the Pacific Ring of Fire.
+
+</details>
+
+---
+
+**Q-GC23. Ghatnachakra / standard**
+
+Bangladesh suffered **relatively fewer casualties** in the **2004 Indian Ocean tsunami** mainly because
+
+A. it has no coastline on the Bay of Bengal
+
+B. the fault rupture trend and main wave energy direction did not focus maximum surge on Bangladesh's open coast
+
+C. tsunamis cannot enter the Bay of Bengal
+
+D. Bangladesh sits on the Pacific Ring of Fire
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Sumatra** rupture and **wave propagation** sent devastating energy **west and north-west**; Bangladesh's geometry and energy focus left it **less hit** than Sri Lanka or Indonesia.
+
+</details>
+
+---
+
+**Q-GC24. UKPCS / standard**
+
+In the Japanese origin of the word **tsunami**, *tsu* and *nami* mean respectively
+
+A. ocean and storm
+
+B. harbour and wave
+
+C. earthquake and flood
+
+D. wind and tide
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** *Tsu* = **harbour**; *nami* = **wave** — a “harbour wave” surge.
+
+</details>
+
+---
+
+**Q-GC25. UPPCS / standard**
+
+A **one-unit increase** on the Richter magnitude scale corresponds to roughly how much increase in **energy released**?
+
+A. About 10 times
+
+B. About 32 times
+
+C. About 100 times
+
+D. About 1000 times
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Amplitude rises **10×** per unit, but **energy** rises about **~32×** per unit — not 100×.
+
+</details>
+
+---
+
+**Q-GC26. UKPCS / standard**
+
+Which pair is **correctly** matched?
+
+A. Seismograph — the recorded trace on paper
+
+B. Seismogram — the recorded trace of ground motion
+
+C. Mercalli — magnitude of energy in ergs only
+
+D. Richter — intensity of damage at a city
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A **seismogram** is the **record**; the **seismograph** is the **instrument**. **Richter** = magnitude; **Mercalli** = intensity.
+
+</details>
+
+---
+
+**Q-GC27. Ghatnachakra / standard**
+
+**P-waves** differ from **S-waves** because P-waves
+
+A. travel only through solids, never liquids
+
+B. are transverse waves stopped by the outer core
+
+C. can travel through solids, liquids, and gases and arrive first
+
+D. are always more damaging than surface waves at the epicentre
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **P-waves** are **longitudinal**, faster, and pass through **solids, liquids, and gases**. **S-waves** are **transverse** and **solids only**.
+
+</details>
+
+---
+
+**Q-GC28. UPPCS / standard**
+
+**S-waves** cannot pass through the **liquid outer core**. This helps explain why
+
+A. S-waves appear on every seismogram on the opposite side of Earth
+
+B. a shadow zone exists where S-waves are not recorded beyond about 103–105°
+
+C. P-waves are never detected anywhere
+
+D. tsunamis form in the mantle
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Core refraction and **S-wave** blockage create the **shadow zone** beyond roughly **103–105°**.
+
+</details>
+
+---
+
+**Q-GC29. UPPCS / standard**
+
+**Match List-I with List-II:**
+
+| List-I (Feature) | List-II (Ring of Fire link) |
+|------------------|----------------------------|
+| A. Chile | 1. Pacific-margin seismic arc |
+| B. Japan | 2. Pacific-margin seismic arc |
+| C. Kilimanjaro (East Africa) | 3. **Not** classic Ring of Fire |
+| D. Philippines | 4. Pacific-margin seismic arc |
+
+*Row order is not the answer.*
+
+A. A-1, B-2, C-3, D-4
+
+B. A-1, B-1, C-3, D-1
+
+C. A-4, B-2, C-1, D-3
+
+D. A-2, B-4, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chile, Japan, and the Philippines** sit on the **Pacific Ring of Fire** arc. **Kilimanjaro** belongs to the **East African Rift**, **not** the Ring of Fire.
+
+</details>
+
+---
+
+**Q-GC30. UKPCS / standard**
+
+Which statement about **earthquake belts** is **NOT** correct?
+
+A. The Mid-Atlantic belt is linked to sea-floor spreading and volcanic islands such as Iceland.
+
+B. The Alpine–Himalayan belt passes through the Himalaya and affects India.
+
+C. Every major volcano on Earth, including Kilimanjaro, lies only in the Pacific Ring of Fire.
+
+D. The East African Rift hosts volcanoes such as Kilimanjaro.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kilimanjaro** is **East African Rift**, **not** Pacific Ring of Fire — so “every major volcano only in the Ring of Fire” is false.
+
+</details>
+
+---
+
+**Q-GC31. UKPCS / standard**
+
+The **26 December 2004** tsunami was primarily caused by
+
+A. a strong tropical cyclone in the Bay of Bengal
+
+B. a large **undersea earthquake** (subduction zone) off **Sumatra**
+
+C. a nuclear test in the Indian Ocean
+
+D. melting of the Arctic ice cap alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A **M 9+ subduction earthquake** off **Sumatra** displaced the sea floor and generated the Indian Ocean tsunami.
+
+</details>
+
+---
+
+**Q-GC32. UKPCS / standard**
+
+Consider the following statements:
+
+1. **Magnitude** and **intensity** of the same earthquake are identical numbers worldwide.
+2. **Mercalli intensity** can differ from town to town for one quake.
+
+Which is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Magnitude** (Richter moment) is one value for the event; **Mercalli intensity** varies with distance, soil, and building type — only statement 2 is correct.
+
+</details>
+
+---
+
+**Q-GC33. Ghatnachakra / standard**
+
+Natural earthquakes originate mainly in the
+
+A. asthenosphere alone with no lithosphere involvement
+
+B. **lithosphere**, from sudden release of stored elastic energy
+
+C. ionosphere during auroral storms
+
+D. hydrosphere only in deep oceans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Earthquakes are sudden energy release in the **lithosphere** along faults.
+
+</details>
+
+---
+
+**Q-GC34. UPPCS / standard**
+
+Arrange the following seismic waves in **decreasing order of speed** (fastest first):
+
+1. P-wave  
+2. S-wave  
+3. Surface wave (Love / Rayleigh)
+
+Select the correct answer:
+
+A. 1 – 2 – 3
+
+B. 3 – 2 – 1
+
+C. 2 – 1 – 3
+
+D. 1 – 3 – 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Speed order: **P** (fastest body wave) → **S** → **surface waves** (slowest, most surface damage).
+
+</details>
+
+---
+
+**Q-GC35. UPPCS / standard**
+
+Assertion (A): The **Ring of Fire** name refers to the chain of **earthquakes and volcanoes** around the Pacific, not to wild forest fires.
+
+Reason (R): Forest fires are unrelated to plate boundaries and do not define the Circum-Pacific belt.
+
+A. Both A and R are true, and R is the correct explanation of A
+
+B. Both A and R are true, but R is not the correct explanation of A
+
+C. A is true, but R is false
+
+D. A is false, but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **A** is true — “fire” means **volcanic** activity. **R** is true and **explains** why forest fires are not the basis of the name.
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Atmosphere Insolation Cyclones Humidity Pressure Clouds Winds (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–164+ (atmosphere layers · insolation · cyclones · humidity · pressure · clouds · planetary winds). Teaching lives in Topic 14 N.6–N.6D / N.12. Year-coded UPPCS stems already in Topic 14 (ozone 2025, long-wave heating 2022, El Niño 2023, Coriolis 2023, Mediterranean 2024) are not repeated as identical year-coded entries.
+
+**Q-GC1. RAS 1997**
+
+The atmosphere near the earth surface contains mainly:
+
+A. Nitrogen and oxygen
+
+B. Nitrogen and carbon dioxide
+
+C. Oxygen and carbon dioxide
+
+D. Ethane and oxygen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ~99% = **N₂ + O₂**.
+
+</details>
+
+---
+
+**Q-GC2. UPPCS Pre 1993**
+
+Which gas has a maximum percentage in the atmosphere?
+
+A. Carbon
+
+B. Nitrogen
+
+C. Oxygen
+
+D. Hydrogen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Nitrogen** ~78%.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Mains 2017**
+
+Which one of the following is the permanent gas in the atmosphere?
+
+A. Carbon dioxide
+
+B. Ozone
+
+C. Nitrogen
+
+D. Neon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **N₂** (with O₂/Ar) is a permanent gas; CO₂/O₃ vary.
+
+</details>
+
+---
+
+**Q-GC4. IAS 1998**
+
+The correct sequence of different layers of the atmosphere from the surface of the Earth upwards is:
+
+A. Troposphere, Stratosphere, Ionosphere, Mesosphere
+
+B. Stratosphere, Troposphere, Ionosphere, Mesosphere
+
+C. Troposphere, Stratosphere, Mesosphere, Ionosphere
+
+D. Stratosphere, Troposphere, Mesosphere, Ionosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Troposphere → Stratosphere → Mesosphere → Ionosphere**.
+
+</details>
+
+---
+
+**Q-GC5. UP RO/ARO Re-Exam 2016**
+
+In the vertical structure of the atmosphere, which one is the lowest layer?
+
+A. Stratosphere
+
+B. Mesosphere
+
+C. Troposphere
+
+D. Thermosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Troposphere** is lowest.
+
+</details>
+
+---
+
+**Q-GC6. BPSC 2022**
+
+Which of the following statements is true about troposphere?
+
+A. Its average height is 13 km.
+
+B. It is the topmost layer of the atmosphere.
+
+C. The temperature at this layer increases with the height.
+
+D. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Average height ~12–13 km; temperature **decreases** with height; not topmost.
+
+</details>
+
+---
+
+**Q-GC7. UPPCS Mains 2005**
+
+The four layers — Ionosphere, Mesosphere, Stratosphere, Troposphere — correct ascending order in height is:
+
+A. 1, 2, 3, 4
+
+B. 2, 1, 4, 3
+
+C. 4, 3, 2, 1
+
+D. 3, 4, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Troposphere → Stratosphere → Mesosphere → Ionosphere = **4, 3, 2, 1**.
+
+</details>
+
+---
+
+**Q-GC8. UPPCS Pre Re-Exam 2015**
+
+Arrange Thermosphere, Troposphere, Stratosphere, Mesosphere from Earth upward:
+
+A. 1, 3, 4, 2
+
+B. 2, 3, 1, 4
+
+C. 3, 4, 2, 1
+
+D. 2, 3, 4, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Troposphere → Stratosphere → Mesosphere → Thermosphere = **2, 3, 4, 1**.
+
+</details>
+
+---
+
+**Q-GC9. RAS 1999 / MPPCS 2023**
+
+Most weather activity occurs in which atmospheric layer?
+
+A. Ozonosphere
+
+B. Ionosphere
+
+C. Troposphere
+
+D. Exosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Weather lives in the **troposphere**.
+
+</details>
+
+---
+
+**Q-GC10. Jharkhand PCS 2010**
+
+The stratosphere is said to be ideal for flying jet aircraft because—
+
+A. This layer is rich in ozone which reduces fuel consumption
+
+B. The temperature is constant and ideal for aircraft engine efficiency
+
+C. This layer is out of the firing range of antiaircraft guns
+
+D. The absence of clouds and other weather phenomena
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Stratosphere is dry with **little weather/cloud** — ideal flight layer.
+
+</details>
+
+---
+
+**Q-GC11. Chhattisgarh / UKPCS / UPPCS classic**
+
+The ozone layer lies in the:
+
+A. Troposphere
+
+B. Tropopause
+
+C. Stratosphere
+
+D. Photosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Ozone shield = **stratosphere** (~15–35 km peak).
+
+</details>
+
+---
+
+**Q-GC12. IAS 1996 / UPPCS Mains 2005**
+
+Which one of the following layers of the atmosphere is responsible for the deflection of radio waves?
+
+A. Troposphere
+
+B. Stratosphere
+
+C. Mesosphere
+
+D. Ionosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Ionosphere** reflects radio waves.
+
+</details>
+
+---
+
+**Q-GC13. UPPCS Pre 2010**
+
+Which layer of atmosphere is responsible for Aurora Borealis?
+
+A. Troposphere
+
+B. Thermosphere
+
+C. Ionosphere
+
+D. Exosphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Auroras are linked to the **ionosphere** (charged particles).
+
+</details>
+
+---
+
+**Q-GC14. UKPCS Pre 2005 / RAS 1997**
+
+In which atmospheric layer are communication satellites located?
+
+A. Exosphere
+
+B. Stratosphere
+
+C. Ionosphere
+
+D. Troposphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Geostationary satellites sit in the **exosphere** / outer space altitudes.
+
+</details>
+
+---
+
+**Q-GC15. UPPCS Mains 2002**
+
+Which of the following are correct?
+
+1. Troposphere — Weather Phenomena
+2. Stratosphere — Ozone layer
+3. Ionosphere — Radio waves reflected to Earth's surface
+4. Mesosphere — Aurorae
+
+A. 1, 2, 3 and 4
+
+B. 1, 2 and 4
+
+C. 1, 2, and 3
+
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Auroras are **not** mesosphere facts — ionosphere. 1–3 correct.
+
+</details>
+
+---
+
+**Q-GC16. UPPCS Pre 1997**
+
+**Assertion (A):** The atmosphere receives most of the heat only indirectly from the sun and directly from the earth’s surface.
+
+**Reason (R):** The conversion from shortwave solar to long wave terrestrial energy takes place at the earth’s surface.
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Long-wave from Earth heats the air; R explains A.
+
+</details>
+
+---
+
+**Q-GC17. IAS 2012**
+
+Normally, the temperature decreases with height because:
+
+1. The atmosphere can be heated upwards only from the Earth’s surface.
+2. There is more moisture in the upper atmosphere.
+3. The air is less dense in the upper atmosphere.
+
+A. Only 1
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1 and 3 true; upper air is **not** more moist.
+
+</details>
+
+---
+
+**Q-GC18. IAS 2010**
+
+Which one of the following reflects more sunlight as compared to the three?
+
+A. Sand desert
+
+B. Paddy cropland
+
+C. Land covered with fresh snow
+
+D. Prairie land
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Fresh snow has the **highest albedo**.
+
+</details>
+
+---
+
+**Q-GC19. UPPCS Pre 2019**
+
+Which one of the following is associated with 'Albedo'?
+
+A. Transmitting power
+
+B. Absorbing power
+
+C. Emissive power
+
+D. Reflecting power
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Albedo = **reflecting** power.
+
+</details>
+
+---
+
+**Q-GC20. IAS 2007**
+
+Consider the following statements:
+
+1. The annual range of temperature is greater in the Pacific Ocean than that in the Atlantic Ocean.
+2. The annual range of temperature is greater in the Northern Hemisphere than that in the Southern Hemisphere.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Larger Pacific → **smaller** annual range than Atlantic. NH land → larger range.
+
+</details>
+
+---
+
+**Q-GC21. UPPCS Pre 2002**
+
+Which of the following statements is not true:
+
+A. Presence of water vapour is highly variable in the lower atmosphere.
+
+B. The zone of maximum temperature is located along the equator
+
+C. Frigid zones are located in both the hemispheres between the polar circles and the poles.
+
+D. Jet streams are high altitude winds affecting the surface weather conditions.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Max heating belt is often near **~20°N**, not exactly on the equator.
+
+</details>
+
+---
+
+**Q-GC22. MPPCS Pre 2010**
+
+The highest temperature on the earth is recorded at -
+
+A. Equator
+
+B. 10° North Latitude
+
+C. 20° North Latitude
+
+D. 25° North Latitude
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Classic key ≈ **20°N**.
+
+</details>
+
+---
+
+**Q-GC23. BPSC 1994**
+
+Clear sky nights are cooler than cloudy sky nights due to
+
+A. condensation
+
+B. radiation
+
+C. induction
+
+D. conduction
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Clear nights lose heat by **radiation** to space.
+
+</details>
+
+---
+
+**Q-GC24. IAS 2023**
+
+With reference to the Earth's atmosphere, which one of the following statements is correct?
+
+A. The total amount of insolation received at the equator is roughly about 10 times of that received at the poles.
+
+B. Infrared rays constitute roughly two-thirds of insolation.
+
+C. Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere.
+
+D. Infrared waves are a part of visible spectrum of electromagnetic waves of solar radiation.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Water vapour in the lower atmosphere absorbs much **near-IR / IR**.
+
+</details>
+
+---
+
+**Q-GC25. IAS 2020**
+
+Consider the following statements:
+
+1. Jet streams occur in the Northern Hemisphere only.
+2. Only some cyclones develop an eye.
+3. The temperature inside the eye of a cyclone is nearly 10ºC lesser than that of the surroundings.
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 2 only
+
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only **2** is correct. Jets in both hemispheres; eye is **warmer**, not colder.
+
+</details>
+
+---
+
+**Q-GC26. IAS 2002**
+
+**Assertion (A):** The surface winds spiral inwards upon the centre of the cyclone.
+
+**Reason (R):** Air descends at the centre of the cyclone.
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; descent in the eye fits the cyclone structure explaining inflow.
+
+</details>
+
+---
+
+**Q-GC27. UPPCS Pre 1996**
+
+The Tornadoes are very strong tropical cyclones originating in:
+
+A. Caribbean Sea
+
+B. China Sea
+
+C. Arabian Sea
+
+D. Black Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Tornadoes are most associated with **Caribbean / USA** tropics–subtropics.
+
+</details>
+
+---
+
+**Q-GC28. UPPCS Pre 2005**
+
+Which one of the following regions of the U.S.A. is known as “Tornado Alley”?
+
+A. Atlantic Seaboard
+
+B. Pacific Coast
+
+C. Mississippi Plains
+
+D. Alaska
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tornado Alley ≈ **Mississippi Plains**.
+
+</details>
+
+---
+
+**Q-GC29. UP Lower 2009**
+
+To measure the intensity of Tornadoes we use-
+
+A. Mercalli scale
+
+B. Fujita Scale
+
+C. Saffir-samson scale
+
+D. Richter scale
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Fujita** = tornadoes; Saffir–Simpson = hurricanes.
+
+</details>
+
+---
+
+**Q-GC30. Jharkhand PCS 2003**
+
+Which of the following area is more susceptible to typhoon cyclone?
+
+A. Australia
+
+B. China-sea
+
+C. Asia
+
+D. America
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Typhoons = **China Sea / W Pacific**.
+
+</details>
+
+---
+
+**Q-GC31. UPPCS Mains 2005**
+
+Match List-I with List-II (region — cyclone name):
+
+| List-I | List-II |
+|--------|---------|
+| A. Australia | 1. Hurricanes |
+| B. China | 2. Willy-Willy |
+| C. India | 3. Typhoons |
+| D. U.S.A. | 4. Cyclones |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 1 2 3 4
+
+B. 2 3 4 1
+
+C. 3 2 1 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Australia–Willy-Willy; China–Typhoon; India–Cyclone; USA–Hurricane. Code **2 3 4 1**.
+
+</details>
+
+---
+
+**Q-GC32. UPPCS Pre 2014 / 2020**
+
+Match tropical cyclone names with countries (Willy-Willy, Hurricanes, Typhoons, Baguio):
+
+A. 1 2 3 4
+
+B. 2 1 4 3
+
+C. 1 2 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Willy-Willy–Australia; Hurricane–USA; Typhoon–China; Baguio–Philippines.
+
+</details>
+
+---
+
+**Q-GC33. UPPCS Mains 2016**
+
+Which of the following scales is used to measure the damage by a hurricane?
+
+A. Saffir-Simpson Scale
+
+B. Mercalli Scale
+
+C. Fujita Scale
+
+D. Richter scale
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Saffir–Simpson** = hurricane wind/damage.
+
+</details>
+
+---
+
+**Q-GC34. UKPCS Mains 2002**
+
+A sudden fall of Mercury in Barometer indicates;
+
+A. Fair weather
+
+B. Stormy weather
+
+C. Cold weather
+
+D. Hot weather
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sudden fall → **storm**.
+
+</details>
+
+---
+
+**Q-GC35. UP UDA/LDA 2013**
+
+Which of the following cyclones did not affect India?
+
+A. Aila
+
+B. Nargis
+
+C. Thane
+
+D. Neelam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Nargis** devastated **Myanmar**.
+
+</details>
+
+---
+
+**Q-GC36. IAS 2015**
+
+In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclone does not originate. What is the reason?
+
+A. Sea surface temperatures are low
+
+B. Inter-Tropical Convergence Zone seldom occurs
+
+C. Coriolis force is too weak
+
+D. Absence of land in those regions
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Main proximate reason = **low SST**.
+
+</details>
+
+---
+
+**Q-GC37. IAS 2006**
+
+**Assertion (A):** The amount of moisture in the atmosphere is associated with latitude.
+
+**Reason (R):** The ability to keep the moisture in the form of water vapour is related to temperature.
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Humidity falls poleward because cooler air holds less vapour.
+
+</details>
+
+---
+
+**Q-GC38. IAS 2019**
+
+Why are dewdrops not formed on a cloudy night?
+
+A. Clouds absorb the radiation released from the Earth's surface.
+
+B. Clouds reflect back the Earth's radiation.
+
+C. The Earth's surface would have the low temperature on cloudy nights.
+
+D. Clouds deflect the blowing wind to ground level.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Clouds **reflect** terrestrial radiation → surface stays warmer → no dew.
+
+</details>
+
+---
+
+**Q-GC39. IAS 2007**
+
+Consider the following statements:
+
+1. Either of the two belts over the oceans at about 30° to 35° N and S latitudes is known as Horse Latitudes.
+2. Horse Latitudes are low pressure belts.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Horse latitudes ~30–35° are subtropical **highs**, not lows.
+
+</details>
+
+---
+
+**Q-GC40. UP Lower 2008**
+
+Which of the following latitudes would you associate with 'Horse Latitudes'?
+
+A. 30°
+
+B. 45°
+
+C. 60°
+
+D. 23½°
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ~**30°** subtropical high.
+
+</details>
+
+---
+
+**Q-GC41. UPPCS Pre 2014**
+
+Air pressure is lowest in:
+
+A. Winter season
+
+B. Spring season
+
+C. Autumn season
+
+D. Summer season
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Highest temperature season → **lowest** pressure (surface heating).
+
+</details>
+
+---
+
+**Q-GC42. UKPCS Pre 2016**
+
+Clouds are the result of –
+
+A. Evaporation
+
+B. Normal temp. lapse rate
+
+C. Catabatic lapse rate
+
+D. Condensation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Clouds form by **condensation**.
+
+</details>
+
+---
+
+**Q-GC43. Jharkhand PCS 2003**
+
+Which of the following cloud is responsible for highly intense rain?
+
+A. Cumulus
+
+B. Cumulonimbus
+
+C. Nimbostratus
+
+D. Cirrostratus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Cumulonimbus** = intense convective rain.
+
+</details>
+
+---
+
+**Q-GC44. UP Lower 2009**
+
+Highest altitude clouds are -
+
+A. Altocumulus
+
+B. Altostratus
+
+C. Cumulus
+
+D. Cirrostratus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Cirrostratus** = high icy cloud family.
+
+</details>
+
+---
+
+**Q-GC45. IAS 2011**
+
+Westerlies in the southern hemisphere are stronger and persistent than in the northern hemisphere because?
+
+1. Southern hemisphere has less landmass as compared to northern hemisphere
+2. Coriolis force is higher in the southern hemisphere as compared to the northern hemisphere.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Less land → stronger SH westerlies. Coriolis is not “higher” in SH as a rule.
+
+</details>
+
+---
+
+**Q-GC46. MPPCS 2015 / BPSC 2022**
+
+What are roaring forties, furious fifties and shrieking sixties?
+
+A. Oceanic storms
+
+B. Westerlies in Southern hemisphere
+
+C. Westerlies in Northern hemisphere
+
+D. Pacific Ocean currents
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Named **SH westerlies**.
+
+</details>
+
+---
+
+**Q-GC47. IAS 2000**
+
+Consider the following statements about the 'Roaring Forties':
+
+1. They blow uninterrupted in the northern and southern hemispheres
+2. They blow with great strength and constancy
+3. Their direction is generally from north-west to east in the southern hemisphere
+4. Overcast skies, rain and raw weather are generally associated with them
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 3 and 4
+
+D. 1, 2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement 1 false (SH feature). 2–4 true.
+
+</details>
+
+---
+
+**Q-GC48. IAS 2014**
+
+The seasonal reversal of winds is the typical characteristic of –
+
+A. Equatorial climate
+
+B. Mediterranean climate
+
+C. Monsoon climate
+
+D. All of the above climates
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Monsoon** = seasonal wind reversal.
+
+</details>
+
+---
+
+**Q-GC49. IAS 2021**
+
+Consider the following statements:
+
+1. In the tropical zone, the western sections of the oceans are warmer than the eastern sections owing to the influence of trade winds.
+2. In the temperate zone, westerlies make the eastern sections of oceans warmer than the western sections.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both trade-wind and westerly ocean-warming statements are correct.
+
 </details>
 
 ---
@@ -2455,3 +7463,33 @@ D. 1, 2 and 3
 25. **Main jet streams = easterly** — FALSE. Main jets are **westerly**; TEJ is the exception.
 26. **Skip spheres / rock cycle / plate types because recent papers asked ozone** — FALSE. Next year can ask any standard NCERT angle from this topic.
 27. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.
+28. **Hottest planet = Mercury / densest = Jupiter** — FALSE. Hottest = **Venus**; densest mean = **Earth**.
+29. **Stratosphere = weather layer** — FALSE. Weather = **troposphere**. Stratosphere = ozone + jet flight (little weather).
+30. **Aurora = mesosphere** — FALSE. **Ionosphere / thermosphere**.
+31. **Horse latitudes = low pressure** — FALSE. Subtropical **high** ~30°.
+32. **Eye of cyclone is 10°C colder** — FALSE. Eye is **warmer**.
+33. **Jet streams = NH only** — FALSE. Both hemispheres.
+34. **Fresh snow = lowest albedo** — FALSE. Fresh snow has **highest** albedo among common options.
+29. **Ganymede = Saturn’s moon / largest moon = Titan** — FALSE. **Ganymede = Jupiter**; Titan = Saturn’s largest.
+30. **Chandrasekhar limit ≈ Eddington / Fowler name alone** — FALSE. ~**1.44 M☉** white-dwarf limit; black-hole path above collapse residue lore.
+31. **Nebula = solar-system member** — FALSE. Nebulae are star-forming clouds, not planets/asteroids/comets of the Sun’s family.
+32. **Brittle star = pulsar class** — FALSE. Marine animal; pulsars / quasars / black holes are cosmic.
+33. **Mercury albedo > Earth** — FALSE. Earth albedo higher (~0.3 vs ~0.1).
+34. **Equator through Mexico / Capricorn through Bolivia** — FALSE. Check country lists carefully.
+35. **0°–0° on land / in India** — FALSE. Intersection in **Atlantic** (Gulf of Guinea).
+36. **Solar eclipse at Full Moon / lunar at New Moon** — SWAP. Solar = **New**; lunar = **Full**.
+37. **Granite = metamorphic** — FALSE. **Igneous**; gneiss is its metamorphic child.
+38. **Fossils common in granite** — FALSE. Fossils favour **sedimentary** rocks.
+39. **Most volcanic gas = CO₂ / SO₂** — FALSE. **Water vapour** leads.
+40. **Magma = surface melt** — FALSE. Surface = **lava**; magma is underground.
+41. **Aconcagua = active like Etna** — FALSE. Peak / not active in GC keys; Etna–Vesuvius–Fuji are active.
+42. **Kilimanjaro = Ring of Fire / always extinct** — FALSE. **East African Rift**; mainly **dormant** framing.
+43. **No volcanoes possible in Circum-Pacific** — FALSE. That belt is the **maximum** volcanic belt.
+44. **Baltic Sea = volcanic hotspot** — FALSE. Classic “eruptions do **not** occur” option among seas.
+45. **Epicentre = underground rupture** — FALSE. That is the **focus/hypocentre**; epicentre is the surface point above it.
+46. **Richter step = 100× energy** — FALSE. ~**10×** amplitude and ~**32×** energy; Mercalli measures **intensity**.
+47. **S-waves travel through liquid outer core** — FALSE. **Solids only**; that makes the S shadow.
+48. **Ring of Fire includes forest fires** — FALSE. Quakes + volcanoes around the **Pacific**.
+49. **NW India quakes = coral / volcano only** — FALSE. Mainly **Indian–Eurasian plate** convergence.
+50. **2004 tsunami killed 50 lakh** — FALSE. Order of ~**2–3 lakh**; Bangladesh had few deaths for wave-direction reasons.
+51. **Tsunami is Latin / Arabic** — FALSE. **Japanese** harbour wave.

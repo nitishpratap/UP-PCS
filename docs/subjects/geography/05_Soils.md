@@ -11,7 +11,7 @@
 **UP Focus:** Bhabar–Tarai–Alluvial–Bundelkhand–Vindhyan; Mar/Kabar/Parua/Rakar; Usar
 </details>
 
-> **Sources baked in:** NCERT Geography Class 11 (Soils), Class 12 (Resources), soil types + Indian formation factors + erosion (Kullar), UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT Geography Class 11 (Soils), Class 12 (Resources), soil types + Indian formation factors + erosion (Kullar), **Ghatnachakra** World Geography **The Soil** (CB–197+), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — type–region–crop, laterite Fe/Al, black ≠ Himalaya, khadar/bangar, usar remedies, conservation methods
 > **Last verified:** August 2026
 > **Current Affairs:** Soil Health Card → RKVY **Soil Health and Fertility**; **>25 crore** cards (Jul 2025); slogan *Swasth Dharaa, Khet Haraa*
@@ -36,6 +36,8 @@
 
 1. Ancient Indian names: **Urvara** = fertile and **Usara** = sterile. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock, and Time (**CLORPT**).
 2. **Edaphic** means a **soil** factor — not climate, biotic, or topography. Residual / sedentary soils form on bedrock (regur, red). Transported / azonal soils are the alluvium of the plains.
+2a. World zonal cues: **Podzol** = cold temperate woods; **Chernozem** = temperate steppe; **Laterite** = hot humid; **Terra Rossa** = limestone/dolomite weathering; **Sierozem** = mid-latitude desert.
+2b. Capillary action strongest in **clay** (Clay > silt/loam > sand). Halophytes = saline soils. Contour bunding = **hill slopes**, not desert margins or flood plains.
 3. Profile downward is **O → A (topsoil) → E → B → C → R**. **Eluviation** washes material **out** of A/E; **illuviation** deposits it **into B**. Young khadar has weak horizons; mature residual soils show clear horizons.
 4. The usual eight-type teaching set is Alluvial, Black / Regur, Red & Yellow, Laterite, Arid, Saline / Usara, Peaty, and Forest / Mountain.
 5. Parent cues: crystalline rock → red; Cuddapah–Vindhyan → calcareous / clay; Gondwana → immature poor; Deccan Trap → regur; extra-peninsular sediment → alluvium. Climate can override rock — granite becomes laterite if wet, or sandy if arid.
@@ -93,6 +95,10 @@
 | World Soil Day | **5 December** | 5 June (Environment Day) | मृदा दिवस = 5 दिसंबर |
 | Mitti Bachao | **Hoshangabad, MP** | Darbhanga / Thane / Mysore | मिट्टी बचाओ = होशंगाबाद |
 | Terra Roxa vs regur | Terra Roxa = **Brazil** coffee basaltic | Indian black soil | टेरा रोक्सा = ब्राज़ील |
+| Terra Rossa | Limestone / dolomite weathering (red) | Terra Roxa Brazil coffee | टेरा रोसा |
+| Chernozem vs Chestnut | Steppe humus-rich vs drier less humus | Swap | चेरनोज़ेम / चेस्टनट |
+| Capillary max | **Clay** (tiny pores) | Sand | केशिका |
+| Halophyte | **Saline** soil | Acid / cold soil | हैलोफाइट |
 | Bhabar vs Tarai | Bhabar = pebbles, streams **vanish**; Tarai = streams **re-emerge**, moist fertile | Bhabar = best rice soil | भाबर पत्थर; तराई फसल |
 | Mar vs Parua | Mar/Kabar = Bundelkhand **black**; Parua/Rakar = **red** | Swap colours | मार काली; परुआ लाल |
 | UP soil identity | ~90% **alluvial** | UP = black-soil state | UP = जलोढ़ |
@@ -264,6 +270,41 @@ D. Topography
 **Ans: A** — Edaphic = the **soil** factor. Climatic, biotic and topography are other site factors, not the meaning of edaphic.
 
 </details>
+
+---
+
+
+## N.1A World soil belts · phytotypes
+
+World zonal soils travel with climate belts (Dokuchaev tradition):
+
+| Soil | Climate / setting | Cue |
+|------|-------------------|-----|
+| **Podzol** | Cold temperate woodlands | Light / ash-coloured forest soil |
+| **Spodosol** | Humid cold temperate | Related podzol family |
+| **Chernozem** | Temperate steppe / humid grassland | Dark, humus-rich “black earth” |
+| **Chestnut** | Drier steppe than chernozem | Dark brown; **less** humus than chernozem |
+| **Prairie** | Temperate grassland mix | Between chernozem and greyish podzol traits |
+| **Laterite** | Hot humid / tropical wet | Fe–Al rich top; strong leaching |
+| **Sierozem** | Mid-latitude deserts | Grey desert soil |
+| **Terra Rossa** | Weathering of **limestone / dolomite** | Reddish silty / clayey Mediterranean cue |
+
+**Capillary rise:** smaller pores → stronger capillary climb. Effectiveness order ≈ **Clay > Loam / Silt > Sandy soil > Sand**. Water-holding capacity among common options: **Clay > Silt > Sand**.
+
+**Phytotype ↔ substrate:**
+
+| Plant label | Grows well in |
+|-------------|----------------|
+| **Halophyte** | **Saline** soil |
+| Cryophyte | Cold regions |
+| Lithophyte | Rock terrain |
+| Xerophyte | Tropical deserts / arid |
+| Hygrophyte | Swamps / marshes |
+| Hydrophyte | Water (aquatic) |
+
+Earthworms are **ecosystem engineers** — pores for air/water, castings raise fertility, softens soil. They are **good** for agriculture (not bad).
+
+Tropical rainforests suffer strong **leaching** from year-round rain. Contour bunding / terracing conserves soil on **hill slopes** — not desert margins, flood plains, or scrubland as the classic wrong IAS options.
 
 ---
 
@@ -897,6 +938,309 @@ D. Topography
 <summary>Show answer</summary>
 
 **Ans: A** — Edaphic = soil-related environmental factor.
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra The Soil (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–197+ (world soils · capillary · conservation · phytotypes). Teaching lives in Topic 5 N.1 / N.1A / N.3. Year-coded UPPCS stems already in this chapter (e.g. Edaphic 2018, Terra Roxa 2025, Soil Health / World Soil Day) are not repeated as identical year-coded entries. Paleolithic ‘formation’ chronology stems from the booklet are archaeology — not filed here.
+
+**Q-GC1. MPPCS Pre 2023**
+
+Which of the following is the correct order of agricultural practices?
+
+A. Soil preparation - Irrigation - Sowing - Harvesting
+
+B. Soil Preparation - Sowing - Irrigation - Harvesting
+
+C. Sowing - Harvesting - Irrigation - Soil preparation
+
+D. Soil preparation - Irrigation - Harvesting - Sowing
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Prepare → sow → irrigate → harvest (growth/fertilise sit in between in full farm calendars).
+
+</details>
+
+---
+
+**Q-GC2. RO/ARO Pre 2017**
+
+The water holding capacity of different types of soils decreases in the order:
+
+A. Clay > Silt > Sand
+
+B. Clay > Sand > Silt
+
+C. Sand > Silt > Clay
+
+D. Silt > Sand > Clay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Clay > Silt > Sand**.
+
+</details>
+
+---
+
+**Q-GC3. BPSC 2011**
+
+Capillaries are most effective in –
+
+A. Clayey soil
+
+B. Silt soil
+
+C. Sandy soil
+
+D. Loamy soil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Smallest pores → strongest capillary action in **clay**.
+
+</details>
+
+---
+
+**Q-GC4. BPSC 1994**
+
+Conservation of soil is the process in which –
+
+A. Barren land is converted into fertile
+
+B. Soil is aerated
+
+C. Soil is eroded
+
+D. Soil is conserved from harm
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Soil conservation = protect soil from harm and keep fertility, not “cause erosion.”
+
+</details>
+
+---
+
+**Q-GC5. BPSC 1994**
+
+The formal development of Terrarossa takes place in that part of land which consists of
+
+A. Limestone
+
+B. Cynite
+
+C. Granite
+
+D. Sandstone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Terra Rossa** forms on **limestone / dolomite**.
+
+</details>
+
+---
+
+**Q-GC6. UPPCS Pre 1998**
+
+Soil leaching is a major problem –
+
+A. In tropical rainforests
+
+B. In African savanna
+
+C. In mediterranean regions
+
+D. In Australian Dawns
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Year-round tropical rain → strong **leaching**.
+
+</details>
+
+---
+
+**Q-GC7. MPPCS Pre 2014**
+
+Halophytes grow well in –
+
+A. Acidic soils
+
+B. Cold soils
+
+C. soil containing calcium
+
+D. Saline soils
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Halophytes** = saline soils.
+
+</details>
+
+---
+
+**Q-GC8. IAS Pre 2013**
+
+Which of the following adds/add nitrogen to the soil?
+
+1. Excretion of urea by animals
+2. Burning of coal by man
+3. Death of vegetation
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Urea and dead vegetation feed the **nitrogen cycle**. Coal burning is not a soil-N adder here.
+
+</details>
+
+---
+
+**Q-GC9. UPPCS Pre 2015**
+
+**Assertion (A):** Of the soil species, clay holds maximum water.
+
+**Reason (R):** Porosity is found to be of large size in clay.
+
+A. (A) and (R) both are correct, and (R) is the correct explanation of (A).
+
+B. (A) is correct, and (R) is wrong.
+
+C. (A) and (R) both are correct, but (A) is not the correct explanation of (R).
+
+D. (A) is wrong, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Clay holds the most water — true. Clay pores are **small**, not large — so **R is false**. (Booklet key (c) conflicts with its own explanation; revise with **B**.)
+
+</details>
+
+---
+
+**Q-GC10. IAS Pre 2013**
+
+Contour bunding is a method of soil conservation used in –
+
+A. Desert margins, liable to strong wind action
+
+B. Low flat plains, close to stream courses, liable to flooding
+
+C. Scrublands, liable to spread to weed growth
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Contour bunding / terracing is for **slopes / hills**. None of A–C is that setting.
+
+</details>
+
+---
+
+**Q-GC11. RAS Re-Exam 2013**
+
+Match List-I (Soils) with List-II (Climate region):
+
+| List-I | List-II |
+|--------|---------|
+| A. Podzol | (i) Temperate cold steppe |
+| B. Chernozem | (ii) Cold temperate |
+| C. Spodosols | (iii) Hot and humid |
+| D. Laterite | (iv) Humid cold temperate |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. ii i iv iii
+
+B. iii iv ii i
+
+C. ii iii iv i
+
+D. iv i iii ii
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Podzol–cold temperate; Chernozem–temperate cold steppe; Spodosols–humid cold temperate; Laterite–hot humid. Code **ii i iv iii**.
+
+</details>
+
+---
+
+**Q-GC12. Jharkhand PCS 2013**
+
+**Assertion (A):** Earthworms are not good for agriculture.
+
+**Reason (R):** Earthworms break down the soil into fine particles and make it soft.
+
+A. (A) and (R) both are correct, and (R) is the correct explanation of (A).
+
+B. (A) is correct, and (R) is wrong.
+
+C. (A) and (R) both are correct, but (A) is not the correct explanation of (R).
+
+D. (A) is wrong, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Earthworms **are** good (ecosystem engineers). R is true.
+
+</details>
+
+---
+
+**Q-GC13. IAS Pre 2018**
+
+With reference to agricultural soils, consider the following statements:
+
+1. A high content of organic matter in soil drastically reduces its water holding capacity.
+2. Soil does not play any role in the sulphur cycle.
+3. Irrigation over a period of time can contribute to the salinization of some agricultural lands.
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only **3** is true. OM raises water holding; soil is part of the sulphur cycle.
+
 </details>
 
 ---
@@ -2420,6 +2764,12 @@ D. 1, 2 and 3
 12. **Bhabar = best rice soil** — FALSE. Pebbly/poor; streams vanish; **Tarai** re-emerges and is moist fertile.
 13. **Shelter belt stops gullies** — FALSE. Shelter belt = **wind**; check dams = gullies.
 14. **Terra Roxa = Indian regur** — FALSE. **Brazil** basaltic coffee soil.
+29. **Contour bunding = desert margins / flood plains** — FALSE. Classic use = **hill / mountain slopes**.
+30. **Earthworms are bad for agriculture** — FALSE. They are **ecosystem engineers** that raise fertility.
+31. **Clay pores are large** — FALSE. Clay pores are **tiny**; that is why capillary climb and water holding are high.
+32. **Organic matter cuts water-holding capacity** — FALSE. OM usually **raises** water holding; irrigation can still **salinise** land.
+33. **Terra Rossa forms on granite** — FALSE. On **limestone / dolomite**.
+34. **Halophytes = acidic soils** — FALSE. **Saline** soils.
 15. **Earthworms have two pairs of hearts** — FALSE. Fertility statement alone is correct.
 16. **Alluvial always rich in phosphorus** — FALSE. Class 11 keys **rich potash, poor phosphorus**.
 17. **Karewa = Gangetic bangar** — FALSE. Kashmir **lacustrine**; saffron belt.

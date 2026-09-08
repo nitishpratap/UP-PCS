@@ -5,16 +5,16 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Political:** UNCLOS (12/24/200) | India’s neighbours | Boundary lines | Coastline | Capitals | Landlocked / equator
+**Political:** UNCLOS (12/24/200) | India’s neighbours | Boundary lines | Coastline | Capitals | Landlocked / equator | Geographical sobriquets
 
 **Map:** Seas · gulfs · bays | Straits | Canals | Mountains | Rivers / lakes | Ports | Köppen (map climate)
 
 </details>
 
-> **Sources baked in:** Lucent political + atlas match-lists; UNCLOS basics; coaching boundary-line / landlocked map; UPPCS Prelims 2018–2025
-> **Weight:** ★★★★ — 12/24/200 nm, McMahon, Gujarat coast, Suez, capitals, landlocked, Köppen/Mediterranean; teach full political + atlas map
-> **Last verified:** August 2026 — coaching gap-pass (world lines, Kazakhstan landlocked, Lesotho enclave, section order)
-> **Current Affairs:** none mandatory (nm limits are static)
+> **Sources baked in:** Lucent political + atlas match-lists; UNCLOS basics; coaching boundary-line / landlocked map; **Ghatnachakra** World Geography (borders · capitals · landlocked · dependent territories · old names · world towns · geographical sobriquets CB–84+ / CB–112+); UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — 12/24/200 nm, McMahon/Radcliffe/Durand, capitals, landlocked, sobriquets, country ranks, Horn/Balkans, Köppen/Mediterranean
+> **Last verified:** August 2026 — GC political-map pass
+> **Current Affairs:** none mandatory (nm limits are static); Gaza / Horn conflict stems stay map-first
 
 ---
 
@@ -48,7 +48,7 @@ D. 8 degrees 4' N to 37 degrees 6' N
 ---
 
 
-## Consolidated — 20 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
 1. UNCLOS: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf may extend to **350 nm**, but that does **not** push EEZ water beyond 200.
 2. **Innocent passage** applies in the territorial sea. **Transit passage** applies in international straits.
@@ -56,20 +56,30 @@ D. 8 degrees 4' N to 37 degrees 6' N
 4. India has **seven** land neighbours (Pakistan, Afghanistan via Wakhan/PoK, China, Nepal, Bhutan, Myanmar, Bangladesh). Maritime neighbours are **Sri Lanka** and the **Maldives**.
 5. Longest Indian **state** coastline = **Gujarat**. Longest land border = **Bangladesh**. Shortest land border = **Afghanistan**. Mainland plus islands coastline ≈ **7516 km**.
 6. The **Suez Canal** joins Med and Red Sea, shortens India–Europe by about **7000 km**, and lakes run Manzala → Timsah → Great Bitter → Little Bitter.
-7. **Panama** = Atlantic–Pacific with facts. **Kiel** = North Sea–Baltic.
+7. **Panama** = Atlantic–Pacific canal. **Kiel** = North Sea–Baltic.
 8. Straits: **Hormuz** = Gulf oil; **Malacca** = Indian Ocean–South China Sea; **Gibraltar** = Med–Atlantic; **Bosporus** = Black Sea–Marmara; **Bering** = Russia–USA.
-9. Central Asia capital set: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**.
-10. **Bolivia** is landlocked among common South America traps. **Nobi/Kanto** = Japan. **Igarka** = Russia.
-11. **Thornthwaite** is the true **vegetation** climate index. **Köppen** gives letter-code climate classes. Mediterranean = **winter rain**. Western Europe = rain **all months** plus westerlies (**Cfb**).
-12. India is the **seventh**-largest country, about **2.4%** of world land, with the Tropic of Cancer through the middle — so India is **not** wholly tropical. The Tropic does **not** cross **Uttar Pradesh**.
-13. **Cape Verde** capital = **Praia**. **Bamako** = Mali. Only common double-landlocked states: **Uzbekistan** and **Liechtenstein**.
-14. Uttar Pradesh’s only foreign neighbour is **Nepal**.
-15. Largest landlocked country by area = **Kazakhstan**. Most populous landlocked = **Ethiopia**. **Lesotho** is an enclave inside South Africa.
-16. **49th Parallel** ≈ USA–Canada. **38th Parallel** ≈ Koreas. Maginot is a historic France–Germany line, not an India boundary.
-17. Equator traps: Egypt and Mexico are **not** equatorial countries in the usual MCQ sense.
-18. India’s nine coastal states include Gujarat as the longest; Telangana is not coastal.
-19. Oder–Neisse is the historic Germany–Poland line; do not confuse it with McMahon or Durand.
-20. Shelf rights beyond 200 nm (up to 350) are seabed rights — they do not create a wider EEZ water column.
+9. Area ladder: Russia > Canada > USA > China > Brazil > Australia > **India (7th)**. Longest world coastline = **Canada**.
+10. Central Asia capital set: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**.
+11. **Bolivia** is landlocked among common South America traps. **Laos** = only SE Asia landlocked. **Nobi/Kanto** = Japan. **Igarka** = Russia.
+12. **Thornthwaite** is the true **vegetation** climate index. **Köppen** gives letter-code climate classes. Mediterranean = **winter rain**. Western Europe = rain **all months** plus westerlies (**Cfb**).
+13. India is the **seventh**-largest country, about **2.4%** of world land, with the Tropic of Cancer through the middle — so India is **not** wholly tropical. The Tropic does **not** cross **Uttar Pradesh**.
+14. **Cape Verde** capital = **Praia**. **Bamako** = Mali. Only common double-landlocked states: **Uzbekistan** and **Liechtenstein**.
+15. Uttar Pradesh’s only foreign neighbour is **Nepal**.
+16. Largest landlocked country by area = **Kazakhstan**. Most populous landlocked = **Ethiopia**. **Lesotho** is an enclave inside South Africa.
+17. **49th Parallel** ≈ USA–Canada. **38th Parallel** ≈ Koreas. Maginot ≈ France–Germany; Rio Grande ≈ USA–Mexico.
+18. Equator traps: Egypt and Mexico are **not** equatorial countries in the usual MCQ sense.
+19. India’s nine coastal states include Gujarat as the longest; Telangana is not coastal.
+20. Oder–Neisse is the historic Germany–Poland line; do not confuse it with McMahon or Durand.
+21. Shelf rights beyond 200 nm (up to 350) are seabed rights — they do not create a wider EEZ water column.
+22. Horn of Africa = Djibouti, Eritrea, Ethiopia, Somalia (**not Sudan**). Balkans exclude **Austria**. Oceania excludes **Indonesia**. Caspian five exclude Armenia/Iraq.
+23. Capitals ≠ famous cities: Australia **Canberra**; Japan **Tokyo**; Nigeria **Abuja**; Myanmar **Naypyidaw**; Slovenia **Ljubljana** (Bratislava = Slovakia).
+24. Old names: Siam→Thailand; Formosa→Taiwan; Gold Coast→Ghana; Dutch Guiana→**Suriname**; Southern Rhodesia→Zimbabwe.
+25. Greenland = Denmark politically / N America geographically. Gaza borders **Egypt + Israel**. Afghanistan does **not** border Russia.
+26. Most megacities are coastal as **ocean gateways**. Alaska = USA; Malta = Mediterranean; Baikonur = **Kazakhstan**.
+27. **Norway** = Land of the Midnight Sun (Arctic Circle). **Japan** = Land of the Rising Sun. **Finland** = Thousand Lakes. **(South) Korea** = Morning Calm. **Thailand** = White Elephants.
+28. **South America** = Bird Continent. **Sri Lanka** = Mistress of the Eastern Sea / Pearl of the Indian Ocean. **Singapore** = Gateway to Asia. **Istanbul** = Gateway to the West.
+29. City tags: **Venice** = canals; **Osaka** = Manchester of the East; **San Francisco** = Golden Gate; **Chicago** = City of Smoke; **Buenos Aires** = Paris of South America; **St. Petersburg** = Venice of the North.
+30. **Pamir** = Roof of the World. **Baikal** = Pearl of Siberia. **Bahrain** = Island of Pearls. **Aberdeen** = Oil Capital of Europe. **Ninety East Ridge** = Indian Ocean.
 
 ---
 
@@ -105,6 +115,28 @@ D. 8 degrees 4' N to 37 degrees 6' N
 | Lesotho | **Enclave** inside South Africa | Coastal SA dump | लेसोथो |
 | 49th Parallel | **USA–Canada** (long stretch) | USA–Mexico | 49वीं |
 | 38th Parallel | **North–South Korea** | India–China | 38वीं |
+| Horn of Africa | Djibouti, Eritrea, Ethiopia, Somalia | Includes Sudan | हॉर्न ऑफ अफ्रीका |
+| Slovenia capital | **Ljubljana** | Bratislava (Slovakia) | ल्युब्लियाना |
+| Gold Coast | Old name of **Ghana** | Dutch Guiana / Suriname | गोल्ड कोस्ट |
+| Great Britain vs UK | GB = England+Wales+Scotland | Includes Northern Ireland | ग्रेट ब्रिटेन |
+| Greenland | Denmark politically; N America geographically | Independent continent | ग्रीनलैंड |
+| Caspian littoral | Five states; not Armenia/Iraq | Armenia on Caspian | कैस्पियन |
+| Oceania | Melanesia/Micronesia/Polynesia + Australia | Indonesia included | ओशिआनिया |
+| Laos | Only SE Asia **landlocked** | Cambodia / Thailand | लाओस |
+| Rio Grande | **USA–Mexico** | USA–Canada | रियो ग्रांडे |
+| Baikonur | **Kazakhstan** | Ukraine | बैकोनुर |
+| Midnight Sun vs Rising Sun | Midnight Sun = **Norway** (Arctic); Rising Sun = **Japan** | Swapped | मध्यरात्रि सूर्य / उगता सूर्य |
+| Morning Calm vs Rising Sun | Morning Calm = **Korea**; Rising Sun = Japan | Korea = Japan | सुबह की शांति |
+| Thousand Lakes | **Finland** | Switzerland / Netherlands | हज़ार झीलें |
+| Bird Continent | **South America** | Australia | पक्षी महाद्वीप |
+| Mistress of Eastern Sea | **Sri Lanka** | India / Myanmar | पूर्वी सागर की स्वामिनी |
+| Manchester of the East | **Osaka** | Tokyo / Nagoya | पूर्व का मैनचेस्टर |
+| Pearl of Siberia | **Baikal** | Great Bear | साइबेरिया का मोती |
+| Venice of the North | **St. Petersburg** (usual Russia key) | Moscow / Vladivostok | उत्तर का वेनिस |
+| City of Smoke | **Chicago** | London / Kolkata | धुएँ का शहर |
+| Oil Capital of Europe | **Aberdeen** | Liverpool / Belfast | यूरोप की तेल राजधानी |
+| Land of Promise | **Mindanao** | Java / Cuba | वादा द्वीप |
+| Ninety East Ridge | **Indian Ocean** | Pacific / Atlantic | नाइंटी ईस्ट रिज |
 
 ---
 
@@ -123,7 +155,7 @@ This chapter is the **atlas + UNCLOS** home. Notes ask distances, lines, capital
 **Order of this chapter**
 
 1. UNCLOS → neighbours → India map → boundary lines → coastline.
-2. Capitals → landlocked / equator → seas → straits → canals.
+2. Capitals → sobriquets → landlocked / equator → seas → straits → canals.
 3. Mountains → rivers/lakes → ports → Köppen.
 
 Teach the **full political atlas** — next year can ask any Lucent capital or strait, not only McMahon or Suez.
@@ -215,7 +247,10 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 | **Maginot Line** | Historical **France–Germany** fortification (WWII lore) |
 | **Oder–Neisse** | **Germany–Poland** post-WWII border |
 | **Hindenburg Line** | WWI German defence line (Europe) — not an India border |
+| **Mannerheim Line** | Historic Finland / Russian front lore (coaching “Poland–Russia” trap — learn as Mannerheim, not Radcliffe) |
 | **17th Parallel** | Historical Vietnam divide |
+| **Rio Grande** | Forms much of **USA–Mexico** border (with Colorado water-sharing lore) |
+| **Alpine / Little Maginot** | France–Italy framing |
 
 **Inline PYQ — UPPCS Prelims 2018, Q32**
 
@@ -318,6 +353,75 @@ D. Gujarat
 - Cape Verde — **Praia**. **Bamako = Mali** (2020 NOT matched).
 - Benin — Porto-Novo, not Cotonou.
 - Maghreb correct pairs: Morocco–Rabat, Tunisia–Tunis, Algeria–Algiers.
+- Slovenia capital = **Ljubljana** (Bratislava = **Slovakia**).
+- Peru = **Lima**; Austria = **Vienna** (IAEA HQ); North Korea = **Pyongyang** (Seoul = South).
+- Myanmar capital = **Nay Pyi Taw** / Naypyidaw (moved from Yangon / Pyinmana area).
+- Palestine map cue: **Ramallah**; Kosovo **Pristina**; Taiwan **Taipei**.
+
+## N.5A Country ranks · regions · dependent territories · old names
+
+**Area (largest →):** Russia → Canada → USA → China → Brazil → Australia → **India (7th)** → Argentina → Kazakhstan → Algeria. Ascending Argentina → India → Australia → Brazil is a classic code.
+
+**Coastline longest:** **Canada** (then Indonesia, Greenland/Denmark, Russia…).
+
+**India’s longest land border:** **Bangladesh**.
+
+**South Asia area:** India largest; **Maldives** smallest. South Asia ≈ Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka, Afghanistan.
+
+| Region | Members / cue |
+|--------|----------------|
+| **Horn of Africa** | Djibouti, Eritrea, Ethiopia, **Somalia** — **not Sudan** |
+| **Balkans** | Albania, Bosnia, Bulgaria, Croatia, Greece, Kosovo, Montenegro, N Macedonia, Romania, Serbia, Slovenia, European Türkiye… — **Austria not** Balkan |
+| **Scandinavia (geo)** | Norway, Sweden, Denmark — Finland often cultural/historical set but MCQ may exclude Finland |
+| **Central America** | Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama — **not Sierra Leone** (W Africa) |
+| **Oceania** | Melanesia / Micronesia / Polynesia + Australia — **Indonesia not** Oceania |
+| **Arabian Peninsula** | Saudi Arabia, Yemen, Oman, UAE, Bahrain, Qatar, Kuwait (+ Iraq fringe) — **Syria not** |
+| **UAE emirates** | Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al-Quwain, Fujairah, Ras Al-Khaimah |
+| **Gaza Strip** | Borders **Egypt** and **Israel** (Mediterranean strip) |
+| **Caspian shores** | Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan — **not Armenia / Iraq** |
+| **Dead Sea** | Israel / West Bank / Jordan — **not Lebanon** |
+| **Afghanistan neighbours** | Iran, Pakistan, China, Tajikistan, Uzbekistan, Turkmenistan (+ India SE lore) — **not Russia / Azerbaijan / Kyrgyzstan** |
+| **Myanmar neighbours** | India, Bangladesh, China, Laos, Thailand — **not Vietnam/Cambodia/Malaysia as the trio** |
+| **Israel land borders** | Lebanon, Syria, Jordan, Egypt |
+| **Chile** | Longest N–S extension among common traps (W South America) |
+| **Japan** | Largest among common “island without land border” options vs NZ / Philippines / Cuba |
+| **Indonesia land borders** | Malaysia, Papua New Guinea, Timor-Leste — **not Brunei** |
+
+**Dependent territories (one-liners)**
+
+| Place | Owner / note |
+|-------|----------------|
+| **Greenland** | Denmark politically; geographically **N America**; largest island |
+| **Christmas Island** | Australia (Indian Ocean) |
+| **Martinique** | France (Caribbean) |
+| **Falklands / St Helena / Gibraltar / Pitcairn / BIOT** | UK |
+| **Puerto Rico / American Samoa / US Virgin / Midway** | USA |
+| **Canaries / Ceuta / Melilla / Balearics** | Spain |
+| **Azores / Madeira** | Portugal |
+| **Cook / Niue / Tokelau / Ross Dependency** | NZ association |
+| **Chechnya** | Republic of **Russia** (Caucasus; capital Grozny) |
+| **Aleutian** | USA; **Bear** Norway; **Franz Josef** Russia |
+
+**Old → new names**
+
+| Old | New |
+|-----|-----|
+| Siam | **Thailand** |
+| Formosa | **Taiwan** |
+| Mesopotamia | **Iraq** |
+| Burma | **Myanmar** |
+| Gold Coast | **Ghana** |
+| Dutch Guiana | **Suriname** (not Ghana) |
+| Southern Rhodesia | **Zimbabwe** (Harare was Salisbury) |
+| Abyssinia | Ethiopia |
+| Basutoland | Lesotho |
+| Bechuanaland | Botswana |
+| Zaire | DR Congo |
+| Nyasaland | Malawi |
+
+**Landlocked extras:** Laos = only SE Asia landlocked. Chad in Africa options. North America / Oceania have **no** classic landlocked sovereign states. Transcontinental = **Georgia, Türkiye** (+ Russia, Azerbaijan, Kazakhstan lore). South Sudan = landlocked; capital **Juba**; White Nile; Christianity framing. Bolivia landlocked (not Suriname/Uruguay/Peru).
+
+**World towns cues:** Most megacities coastal because they are **ocean-route gateways**. Alaska = USA. Malta = Mediterranean. Silicon Valley cities exclude Santa Rosa. South Africa Parliament seat = **Cape Town**. Lhasa among highest capitals/towns. Baikonur = **Kazakhstan** (not Ukraine). Kanto plain = **Japan**. Congo = **Africa**. Mexico = **North America**.
 
 **Inline PYQ — UPPCS Prelims 2019, Q2**
 
@@ -346,6 +450,86 @@ D. 1 4 2 3
 **Ans: A**
 
 </details>
+
+---
+
+## N.5B Geographical sobriquets
+
+Geographical sobriquets are coaching nicknames for countries, cities, and regions. Learn the **pair**, not a story dump.
+
+**Midnight Sun**
+
+- Visible at local midnight north of the **Arctic Circle** or south of the **Antarctic Circle** near summer solstice (~21 June N / ~22 December S).
+- **Norway** is the classic **Land of the Midnight Sun**. Parts of Canada, Sweden, Russia, Iceland, and Finland also see it.
+- No sovereign country sits between the Antarctic Circle and the South Pole, so the southern case is polar/expedition framing, not a country nickname.
+
+**World country / region nicknames**
+
+| Sobriquet | Place |
+|-----------|-------|
+| Land of the Midnight Sun | **Norway** (Arctic set) |
+| Bird Continent / Continent of Birds | **South America** |
+| Mistress of the Eastern Sea / Pearl of the Indian Ocean | **Sri Lanka** |
+| Gateway to Asia | **Singapore** |
+| Land of White Elephants | **Thailand** |
+| Land of the Rising Sun / Nippon | **Japan** |
+| Land of Thousand Lakes / Garden of Lakes | **Finland** |
+| Land of Morning Calm | **(South) Korea** |
+| Dark Continent | **Africa** |
+| Land of Thunderbolts | **Bhutan** |
+| Land of Golden Pagodas | **Myanmar** |
+| Land of Kangaroos | **Australia** |
+| Britain of the South | **New Zealand** |
+| Key of the Mediterranean | **Gibraltar** |
+| Holy Land | Palestine / Jerusalem |
+| Sick Man of Europe | **Türkiye** |
+| Playground of Europe | **Switzerland** |
+| Island of Cloves | **Zanzibar** |
+| Pearl of the Antilles / Sugar Bowl of the World | **Cuba** |
+| Island of Pearls / Pearl of the Persian Gulf | **Bahrain** |
+| Gift of the Nile | **Egypt** |
+| Land of Canals | **Pakistan** (coaching tag) |
+| Blue Grass State | **Kentucky** (USA) |
+| Land of Promise | **Mindanao** (Philippines) |
+
+**City / feature nicknames**
+
+| Sobriquet | Place |
+|-----------|-------|
+| Venice of the North | **St. Petersburg** (also shared lore with Amsterdam, Bruges, Stockholm…) |
+| Gateway to the West | **Istanbul** |
+| City of Canals / Queen of the Adriatic / City of Dreams | **Venice** |
+| City of Seven Hills / Eternal City | **Rome** |
+| Manchester of the East / Nation’s Kitchen | **Osaka** |
+| City of the Golden Gate | **San Francisco** |
+| City of Smoke / City of Smokers | **Chicago** |
+| Paris of South America | **Buenos Aires** |
+| Empire City | **New York** |
+| Oil Capital of Europe | **Aberdeen** |
+| Pearl of Siberia | **Lake Baikal** (Russia) |
+| Roof of the World | **Pamir** (Pamir Knot — southern edge of Central Asia) |
+
+**India sobriquets (map desk)**
+
+| Sobriquet | Place |
+|-----------|-------|
+| City of Golden Temple | Amritsar |
+| Land of Five Rivers | Punjab |
+| Gateway of India / City of Seven Islands | Mumbai |
+| Queen of the Arabian Sea | Kochi (Cochin) |
+| Spice Garden of India | Kerala |
+| Switzerland of India | Kashmir |
+| Twin Cities | Hyderabad–Secunderabad |
+| Manchester of India | Ahmedabad |
+| Venice of the East | Alappuzha (Alleppey) |
+| Sorrow of Bengal | Damodar |
+| Sorrow of Bihar | Kosi |
+| Sorrow of China | Huang He (Hwang Ho) |
+| Queen of Chotanagpur | Netarhat (Jharkhand) |
+| Queen of Mountains (India) | Mussoorie |
+| World’s Bread Basket | Prairies of North America |
+
+**Ocean ridge cue (often pasted near sobriquets in GC):** **Ninety East Ridge** (90°E Ridge) lies in the **Indian Ocean**.
 
 ---
 
@@ -685,7 +869,7 @@ D. China
 - Irrawaddy → Andaman Sea. Indus → Arabian Sea. Ganga–Brahmaputra → Bay of Bengal.
 - Huang He → Yellow Sea. Yangtze → East China Sea. Amur → north-east (Tatar Strait side).
 - Caspian — largest lake; five countries. Superior — largest freshwater Great Lake by area.
-- Baikal — deepest, Russia. Victoria / Tanganyika / Malawi — East Africa.
+- Baikal — deepest, Russia; sobriquet **Pearl of Siberia**. Victoria / Tanganyika / Malawi — East Africa.
 - Titicaca — Peru–Bolivia. Eyre — Australia, ephemeral. Dead Sea — Jordan–Israel, lowest land.
 - Aral — shrinking, Kazakhstan–Uzbekistan. Manzala / Timsah / Bitter Lakes — Suez.
 
@@ -1232,6 +1416,2553 @@ D. 1 and 2
 <summary>Show answer</summary>
 
 **Ans: A** — **2.4%** is solid. Tropic through the middle is the school fact. Rank is **7th**, not 6th. India is **not** wholly tropical.
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Borders Capitals Landlocked (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–84+ (countries & borders · dependent territories · landlocked · old names · boundary lines · capitals · world towns). Teaching lives in Topic 23 N.2–N.6 / N.5A. Year-coded UPPCS stems already in Topic 23 Complete PYQ Bank (Bolivia 2022, Central Asia capitals 2019, Cape Verde 2020, etc.) are not repeated as identical year-coded entries; GC variants still drill the map facts.
+
+**Q-GC1. RAS 2012 / standard**
+
+Arrange the following countries in **descending** order of their area:
+
+(i) Brazil (ii) Canada (iii) China (iv) U.S.A.
+
+A. iii iv i ii
+
+B. ii iii iv i
+
+C. ii iv iii i
+
+D. i iii ii iv
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Area order among four: **Canada > USA > China > Brazil**.
+
+</details>
+
+---
+
+**Q-GC2. UPPCS Pre 2012**
+
+The correct **ascending** order of the following countries in terms of area is:
+
+A. Brazil, Argentina, Australia, India
+
+B. Australia, Brazil, India, Argentina
+
+C. Argentina, India, Australia, Brazil
+
+D. India, Brazil, Argentina, Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Argentina < India < Australia < Brazil.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Pre 2023**
+
+The river situated along the border between the United States of America and Mexico is:
+
+A. The Mississippi
+
+B. The Colorado
+
+C. The Rio Grande
+
+D. The Amazon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B & C.** Both **Rio Grande** and **Colorado** share USA–Mexico waters under the 1944 Water Treaty framing. Common single key still = Rio Grande.
+
+</details>
+
+---
+
+**Q-GC4. UPPCS / UDA 2013**
+
+Which of the following countries is **not** larger than India in terms of Area?
+
+A. Russia
+
+B. Brazil
+
+C. Canada
+
+D. France
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Six larger than India: Russia, Canada, USA, China, Brazil, Australia. **France** is smaller.
+
+</details>
+
+---
+
+**Q-GC5. UP RO/ARO Pre 2023**
+
+With reference to the Gaza Strip, which of the following statement/s is/are correct?
+
+1. It is bordered by Egypt.
+2. It is bordered by Israel.
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Gaza is a Mediterranean strip between **Egypt** and **Israel**.
+
+</details>
+
+---
+
+**Q-GC6. UKPCS Pre 2006**
+
+Which of the following countries of South Asia is the **smallest** in terms of area?
+
+A. Maldives
+
+B. Bhutan
+
+C. Sri Lanka
+
+D. Bangladesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Maldives** (~298 km²) is the smallest South Asian country by area.
+
+</details>
+
+---
+
+**Q-GC7. UP RO/ARO Pre 2023**
+
+Which of the following country/countries is **not** part of the Arabian Peninsula?
+
+1. Oman 2. Iraq 3. Kuwait 4. Syria
+
+A. Only 4
+
+B. Only 1
+
+C. 2 and 3 both
+
+D. 2 and 4 both
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Syria** is not on the Arabian Peninsula. Oman/Kuwait are; Iraq is fringe/partial in some maps but the key here isolates Syria.
+
+</details>
+
+---
+
+**Q-GC8. UPPCS Pre 2015 / BPSC**
+
+Which one of the following countries has the longest coastal line?
+
+A. India
+
+B. Canada
+
+C. Australia
+
+D. Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** World’s longest coastline = **Canada**.
+
+</details>
+
+---
+
+**Q-GC9. UPPCS / MPPCS 2013**
+
+Which of these countries forms the longest territorial border with India?
+
+A. China
+
+B. Pakistan
+
+C. Bangladesh
+
+D. Nepal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Longest India land border = **Bangladesh** (~4096 km).
+
+</details>
+
+---
+
+**Q-GC10. IAS 2003**
+
+Which one of the following countries does **not** share a border with the Caspian Sea?
+
+A. Armenia
+
+B. Azerbaijan
+
+C. Kazakhstan
+
+D. Turkmenistan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Caspian five: Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan. **Armenia** does not.
+
+</details>
+
+---
+
+**Q-GC11. MPPCS 2017**
+
+Which of the following countries does **not** form a border with the Caspian Sea?
+
+A. Azerbaijan
+
+B. Iran
+
+C. Iraq
+
+D. Kazakhstan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Iraq** is not a Caspian littoral state.
+
+</details>
+
+---
+
+**Q-GC12. BPSC 2022**
+
+Which of the following countries does **not** have a land border with the Dead Sea?
+
+A. Lebanon
+
+B. Jordan
+
+C. Israel
+
+D. Palestine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dead Sea shores = Israel / West Bank / Jordan. **Lebanon** does not touch it. (Paper also allows “None / more than one” framing.)
+
+</details>
+
+---
+
+**Q-GC13. UPPCS Pre 2017 / IAS 2003**
+
+Israel has common borders with:
+
+A. Lebanon, Syria, Jordan and Egypt
+
+B. Lebanon, Syria, Turkey and Jordan
+
+C. Cyprus, Turkey, Jordan and Egypt
+
+D. Turkey, Syria, Iraq and Yemen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Israel land borders: **Lebanon, Syria, Jordan, Egypt**.
+
+</details>
+
+---
+
+**Q-GC14. UPPCS Pre 1999**
+
+‘Horn of Africa’ consists of —
+
+A. Algeria, Morocco and West Sahara
+
+B. Libya, Sudan and Egypt
+
+C. Somalia, Ethiopia and Djibouti
+
+D. Zimbabwe, Botswana and Angola
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Horn = Djibouti, Eritrea, Ethiopia, **Somalia**. Option C is the closest classic set (Eritrea often added).
+
+</details>
+
+---
+
+**Q-GC15. UPPCS Mains 2009**
+
+The Horn of Africa does **not** include —
+
+A. Ethiopia
+
+B. Eritrea
+
+C. Somalia
+
+D. Sudan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Sudan** is not in the Horn of Africa.
+
+</details>
+
+---
+
+**Q-GC16. IAS 2002**
+
+Consider the following countries:
+
+1. Albania 2. Bosnia Herzegovina 3. Croatia 4. Macedonia
+
+Which of these countries has/have the Adriatic Sea as a boundary?
+
+A. 1 and 2
+
+B. 1, 2 and 3
+
+C. Only 4
+
+D. 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Adriatic shores include Albania, Bosnia-Herzegovina, Croatia (plus Slovenia, Montenegro, Italy). North Macedonia is landlocked.
+
+</details>
+
+---
+
+**Q-GC17. MPPCS 2004**
+
+Which one of the following is **not** a Balkan country?
+
+A. Slovenia
+
+B. Bulgaria
+
+C. Romania
+
+D. Austria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Austria** is Central European, not Balkan.
+
+</details>
+
+---
+
+**Q-GC18. UP RO/ARO Mains 2014**
+
+Which of the following countries is **not** located in Central America?
+
+A. Panama
+
+B. Sierra Leone
+
+C. Honduras
+
+D. Guatemala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sierra Leone** is in West Africa.
+
+</details>
+
+---
+
+**Q-GC19. IAS 2005**
+
+Which one of the following countries does **not** border with Lithuania?
+
+A. Poland
+
+B. Ukraine
+
+C. Belarus
+
+D. Latvia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lithuania borders Belarus, Latvia, Poland, Russia (Kaliningrad) — **not Ukraine**.
+
+</details>
+
+---
+
+**Q-GC20. IAS 2005**
+
+Consider the following statements:
+
+1. Great Britain comprises England, Wales, Scotland and Northern Ireland.
+2. England covers less than 60% of the total area of the United Kingdom.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Great Britain = England + Wales + Scotland (**not** Northern Ireland). England ≈ **53%** of UK area, so statement 2 is true.
+
+</details>
+
+---
+
+**Q-GC21. UKPCS Pre 2010**
+
+Which of the following is **not** included in the geographical group of countries designated Oceania?
+
+A. Indonesia
+
+B. Melanesia
+
+C. Micronesia
+
+D. Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Indonesia** is SE Asia, not Oceania.
+
+</details>
+
+---
+
+**Q-GC22. UP UDA/LDA 2001**
+
+Which of the following is **not** included in the group of Scandinavian countries?
+
+A. Denmark
+
+B. Finland
+
+C. Norway
+
+D. Sweden
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Geographic Scandinavia = Norway, Sweden, Denmark. **Finland** is often excluded in that narrow set.
+
+</details>
+
+---
+
+**Q-GC23. UPPCS Mains 2012**
+
+Afghanistan does **not** have a common border with
+
+A. Tajikistan
+
+B. Turkmenistan
+
+C. Uzbekistan
+
+D. Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Afghanistan does **not** border Russia.
+
+</details>
+
+---
+
+**Q-GC24. IAS 2022**
+
+Consider the following countries:
+
+1. Azerbaijan 2. Kyrgyzstan 3. Tajikistan 4. Turkmenistan 5. Uzbekistan
+
+Which of the above have borders with Afghanistan?
+
+A. 1, 2 and 5 only
+
+B. 1, 2, 3 and 4 only
+
+C. 3, 4 and 5 only
+
+D. 1, 2, 3, 4 and 5
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Afghanistan borders Tajikistan, Turkmenistan, Uzbekistan (not Azerbaijan or Kyrgyzstan among these).
+
+</details>
+
+---
+
+**Q-GC25. IAS 2006**
+
+Other than India and China, which one of the following groups of countries border with Myanmar?
+
+A. Bangladesh, Thailand and Vietnam
+
+B. Cambodia, Laos and Malaysia
+
+C. Thailand, Vietnam and Malaysia
+
+D. Thailand, Laos and Bangladesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Myanmar neighbours (besides India/China): **Bangladesh, Laos, Thailand**.
+
+</details>
+
+---
+
+**Q-GC26. IAS 2017**
+
+Mediterranean Sea is a border of which of the following countries?
+
+1. Jordan 2. Iraq 3. Lebanon 4. Syria
+
+A. 1, 2 and 3 only
+
+B. 2 and 3 only
+
+C. 3 and 4 only
+
+D. 1, 3 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Lebanon and Syria** border the Mediterranean. Jordan and Iraq do not.
+
+</details>
+
+---
+
+**Q-GC27. UPPCS Mains 2017**
+
+Which of the following countries is **not** located in the continent of Africa:
+
+A. Gabon
+
+B. Guinea
+
+C. Guinea Bissau
+
+D. Guyana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Guyana** is in South America.
+
+</details>
+
+---
+
+**Q-GC28. UP RO/ARO Pre Re-Exam 2016**
+
+Which among the following countries is NOT located on the western coast of Africa?
+
+A. Gabon
+
+B. Botswana
+
+C. Liberia
+
+D. Angola
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Botswana** is landlocked in southern Africa.
+
+</details>
+
+---
+
+**Q-GC29. BPSC 2019**
+
+Which one of the following countries is the largest country without land borders in terms of geographical area?
+
+A. New Zealand
+
+B. Philippines
+
+C. Japan
+
+D. Cuba
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Among the options, **Japan** is the largest island country without land borders.
+
+</details>
+
+---
+
+**Q-GC30. BPSC 2019**
+
+The country which has the longest north-south (latitudinal) extension of its territory is:
+
+A. Russia
+
+B. Chile
+
+C. China
+
+D. Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Among common traps, **Chile** has the longest N–S stretch.
+
+</details>
+
+---
+
+**Q-GC31. UP RO/ARO Pre 2021**
+
+Indonesia does **not** share its land boundary with which one of the following countries?
+
+A. Brunei
+
+B. Timor-Leste
+
+C. Malaysia
+
+D. Papua New Guinea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Indonesia borders Malaysia, Papua New Guinea, Timor-Leste — **not Brunei**.
+
+</details>
+
+---
+
+**Q-GC32. BPSC 2023**
+
+The emirates of UAE are:
+
+A. Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al-Quwain, Fujairah, Ras Al-Khaimah
+
+B. Dubai, Sharjah, Ajman, Jeddah, Kuwait, Bahrain, Umm Al-Quwain
+
+C. Umm Al-Quwain, Fujairah, Ras Al-Khaimah, Riyadh, Dammam, Taif, Dubai
+
+D. Sharjah, Abu Dhabi, Ajman, Fujairah, Dubai, Bahrain, Kuwait
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Seven emirates: Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al-Quwain, Fujairah, Ras Al-Khaimah.
+
+</details>
+
+---
+
+**Q-GC33. IAS 2023**
+
+Consider the following countries:
+
+1. Bulgaria 2. Czech Republic 3. Hungary 4. Latvia 5. Lithuania 6. Romania
+
+How many of the above-mentioned countries share a land border with Ukraine?
+
+A. Only two
+
+B. Only three
+
+C. Only four
+
+D. Only five
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** From the list, only **Hungary** and **Romania** border Ukraine (two).
+
+</details>
+
+---
+
+**Q-GC34. UPPCS Pre 2022**
+
+Which one of the following is a land locked country?
+
+A. Surinam
+
+B. Bolivia
+
+C. Uruguay
+
+D. Peru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bolivia** is landlocked. Suriname, Uruguay and Peru have coasts.
+
+</details>
+
+---
+
+**Q-GC35. UPPCS Pre 2002**
+
+Which one of the following Country is geographically located in America but politically is a part of Europe?
+
+A. Iceland
+
+B. Canary Islands
+
+C. Greenland
+
+D. Cuba
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Greenland** = Denmark politically; North America geographically.
+
+</details>
+
+---
+
+**Q-GC36. UPPCS Mains 2014**
+
+Match List-I with List-II:
+
+| List-I (World Islands) | List-II (Owner Country) |
+|------------------------|-------------------------|
+| A. Aleutian Islands | 1. Russia |
+| B. Bear Islands | 2. Denmark |
+| C. Greenland | 3. Norway |
+| D. Franz Josef Island | 4. U.S.A. |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 4 3 2 1
+
+B. 1 2 3 4
+
+C. 3 1 4 2
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Aleutian–USA; Bear–Norway; Greenland–Denmark; Franz Josef–Russia. Code **4 3 2 1**.
+
+</details>
+
+---
+
+**Q-GC37. IAS 2018**
+
+Consider the following pairs:
+
+| Regions sometimes mentioned in news | Country |
+|-------------------------------------|---------|
+| 1. Catalonia | Spain |
+| 2. Crimea | Hungary |
+| 3. Mindanao | Philippines |
+| 4. Oromia | Nigeria |
+
+Which of the pairs given above are correctly matched?
+
+A. 1, 2 and 3
+
+B. 3 and 4 only
+
+C. 1 and 3 only
+
+D. 2 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Catalonia–Spain and Mindanao–Philippines are correct. Crimea ≠ Hungary; Oromia = Ethiopia, not Nigeria.
+
+</details>
+
+---
+
+**Q-GC38. UPPCS Pre 2005**
+
+Which of the following countries is **not** a land-locked country?
+
+A. Afghanistan
+
+B. Liberia
+
+C. Laos
+
+D. Luxembourg
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Liberia** has an Atlantic coast.
+
+</details>
+
+---
+
+**Q-GC39. UP UDA/LDA Mains 2010**
+
+Which one of the following is a land-locked country in Africa?
+
+A. Angola
+
+B. Chad
+
+C. Kenya
+
+D. Senegal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chad** is landlocked. Angola/Kenya/Senegal have coasts.
+
+</details>
+
+---
+
+**Q-GC40. IAS / UPPCS classic**
+
+The only land-locked Country in Southeast Asia is—
+
+A. Cambodia
+
+B. Laos
+
+C. Malaysia
+
+D. Thailand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Laos** is the only SE Asia landlocked state.
+
+</details>
+
+---
+
+**Q-GC41. MPPCS 2022**
+
+Which of the following countries in Asia is **not** a landlocked country?
+
+A. Nepal
+
+B. Thailand
+
+C. Laos
+
+D. Bhutan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Thailand** has coasts; Nepal, Laos, Bhutan are landlocked.
+
+</details>
+
+---
+
+**Q-GC42. UPPCS Mains 2005**
+
+Which one of the following continents has **no** landlocked country?
+
+A. Africa
+
+B. Asia
+
+C. Europe
+
+D. North America
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **North America** has no classic landlocked sovereign state.
+
+</details>
+
+---
+
+**Q-GC43. UPPCS Pre 2009**
+
+Which of the following Countries is a land-locked country?
+
+1. Afghanistan 2. Hungary 3. Malaysia 4. Switzerland
+
+A. 1 and 2
+
+B. 1, 2 and 3
+
+C. 2, 3 and 4
+
+D. 1, 2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Afghanistan, Hungary, Switzerland are landlocked; **Malaysia** is not.
+
+</details>
+
+---
+
+**Q-GC44. UP UDA/LDA Mains 2010**
+
+Which of the following statements is true about South Sudan?
+
+I. It is a landlocked country.
+II. Its capital is located in Akoba.
+III. Its main river is the White Nile.
+IV. Its main religion is Islam.
+
+A. I and II only
+
+B. II and III only
+
+C. I and III only
+
+D. II and IV only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Landlocked + White Nile are true. Capital = **Juba** (not Akoba). Main religion framing = Christianity, not Islam.
+
+</details>
+
+---
+
+**Q-GC45. UP Lower 2009**
+
+Which of the following countries is trans-Continental?
+
+1. Laos 2. Georgia 3. Turkey 4. Tunisia
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 4
+
+D. 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Georgia** and **Türkiye** span Asia–Europe.
+
+</details>
+
+---
+
+**Q-GC46. BPSC 2018**
+
+Which one of the following is a landlocked country?
+
+A. Belgium
+
+B. Hungary
+
+C. Romania
+
+D. Ukraine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Hungary** is landlocked. Belgium/Romania/Ukraine have coasts.
+
+</details>
+
+---
+
+**Q-GC47. UK UDA/LDA 2003**
+
+Match List-I and List-II:
+
+| List-I (Old Name) | List-II (New Name) |
+|-------------------|--------------------|
+| A. Siam | 1. Taiwan |
+| B. Formosa | 2. Myanmar |
+| C. Mesopotamia | 3. Thailand |
+| D. Burma | 4. Iraq |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 2 1 3 4
+
+B. 4 2 1 3
+
+C. 1 3 2 4
+
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Siam→Thailand; Formosa→Taiwan; Mesopotamia→Iraq; Burma→Myanmar. Code **3 1 4 2**.
+
+</details>
+
+---
+
+**Q-GC48. IAS 2005**
+
+Which of the following pairs is **not** correctly matched?
+
+| Current Name | Old Name |
+|--------------|----------|
+| (a) Harare | Salisbury |
+| (b) Ethiopia | Abyssinia |
+| (c) Ghana | Dutch Guiana |
+| (d) Kinshasa | Leopoldville |
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Ghana’s old name = **Gold Coast**. Dutch Guiana = **Suriname**.
+
+</details>
+
+---
+
+**Q-GC49. UP Lower Spl 2004**
+
+Zimbabwe was earlier known as —
+
+A. Southern Rhodesia
+
+B. Gold Coast
+
+C. Ivory Coast
+
+D. Belgian Congo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Zimbabwe = former **Southern Rhodesia**. Harare was Salisbury.
+
+</details>
+
+---
+
+**Q-GC50. UPPCS Mains 2015**
+
+Which one of the following is **not** correctly matched?
+
+A. Radcliffe line — India and Pakistan
+
+B. Maginot line — France and Germany
+
+C. Durand line — Bangladesh and India
+
+D. Hindenburg line — Belgium and Germany
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Durand = **Pakistan–Afghanistan** (and Afghan–India lore), not Bangladesh–India. Bangladesh–India = Radcliffe.
+
+</details>
+
+---
+
+**Q-GC51. UP Lower Spl 2002/03**
+
+Which of the following rivers forms international border?
+
+A. Indus
+
+B. Nile
+
+C. Rio Grande
+
+D. Rhine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Rio Grande** forms much of the USA–Mexico border. Rhine also borders France–Germany in lore, but the classic key here is Rio Grande.
+
+</details>
+
+---
+
+**Q-GC52. UPPCS Spl Mains 2008**
+
+Rio Grande river makes boundary between —
+
+A. Canada and USA
+
+B. Mexico and USA
+
+C. Mexico and Guatemala
+
+D. Guatemala and Honduras
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rio Grande ≈ **USA–Mexico**.
+
+</details>
+
+---
+
+**Q-GC53. IAS 2000**
+
+Which one of the following lakes forms an International boundary between Tanzania and Uganda?
+
+A. Chad
+
+B. Malawi
+
+C. Victoria
+
+D. Zambezi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Lake Victoria** is shared by Kenya, Uganda, Tanzania.
+
+</details>
+
+---
+
+**Q-GC54. MPPCS 1999**
+
+McMahon Line is —
+
+A. India–China Border
+
+B. India–Nepal Border
+
+C. India–Pakistan Border
+
+D. India–Bangladesh Border
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** McMahon = **India–China** (1914 Simla).
+
+</details>
+
+---
+
+**Q-GC55. UPPCS Pre 2014**
+
+Radcliffe line defines the boundary between
+
+A. North Korea and South Korea
+
+B. U.S.A. and Canada
+
+C. India and Pakistan
+
+D. India and China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Radcliffe = **India–Pakistan / Bangladesh**. Koreas = 38th; USA–Canada = 49th; India–China = McMahon.
+
+</details>
+
+---
+
+**Q-GC56. Chhattisgarh PCS 2008**
+
+38th Parallel border lines divide which of the two following countries?
+
+A. Poland and Germany
+
+B. Pakistan and Afghanistan
+
+C. India and Tibet
+
+D. North Korea and South Korea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **38th Parallel** ≈ North Korea–South Korea.
+
+</details>
+
+---
+
+**Q-GC57. UPPCS Pre 1994**
+
+The Maginot line was—
+
+A. The border between France and Germany.
+
+B. The border between East Germany and Poland.
+
+C. The border between America and Canada.
+
+D. The border between India and Afghanistan.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Maginot = historic **France–Germany** fortification line.
+
+</details>
+
+---
+
+**Q-GC58. IAS 2006**
+
+Which one of the following pairs is **not** correctly matched?
+
+A. Slovenia — Bratislava
+
+B. Seychelles — Victoria
+
+C. Sierra Leone — Freetown
+
+D. Uzbekistan — Tashkent
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Slovenia capital = **Ljubljana**. Bratislava = **Slovakia**.
+
+</details>
+
+---
+
+**Q-GC59. IAS 2005**
+
+Which one of the following cities is **not** a former capital of the given country?
+
+A. Karachi (Pakistan)
+
+B. Auckland (New Zealand)
+
+C. Kyoto (Japan)
+
+D. Brisbane (Australia)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Australia’s former capital = **Melbourne**, not Brisbane. Present = Canberra.
+
+</details>
+
+---
+
+**Q-GC60. IAS 2006**
+
+What is the new Administrative capital proposed for Myanmar?
+
+A. Bassein
+
+B. Mandalay
+
+C. Myitkyina
+
+D. Pyinmana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** New capital near **Pyinmana**, officially **Naypyidaw**.
+
+</details>
+
+---
+
+**Q-GC61. IAS 2005**
+
+Which one of the following pairs is **not** correctly matched?
+
+A. Bahamas: Nassau
+
+B. Costa Rica: San Jose
+
+C. Nicaragua: Balmopan
+
+D. Dominican Republic: Santo Domingo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Nicaragua capital = **Managua**. Belmopan = Belize.
+
+</details>
+
+---
+
+**Q-GC62. MPPCS 2012**
+
+The capital of Peru is:
+
+A. Lisbon
+
+B. Lima
+
+C. Madrid
+
+D. Caracas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Peru = **Lima**. Lisbon = Portugal; Madrid = Spain; Caracas = Venezuela.
+
+</details>
+
+---
+
+**Q-GC63. Chhattisgarh PCS 2008**
+
+Which one of the following pairs (Nations and Capitals) is **not** correctly matched?
+
+A. Chile — Santiago
+
+B. Argentina — Buenos Aires
+
+C. North Korea — Seoul
+
+D. Ethiopia — Addis Ababa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** North Korea = **Pyongyang**. Seoul = South Korea.
+
+</details>
+
+---
+
+**Q-GC64. Chhattisgarh PCS 2008**
+
+Which one of the following pairs (Country and Capital) is **not** properly matched?
+
+A. China — Beijing
+
+B. Japan — Kyoto
+
+C. Austria — Vienna
+
+D. Spain — Madrid
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Japan capital = **Tokyo**. Kyoto is a historic city.
+
+</details>
+
+---
+
+**Q-GC65. UPPCS Mains 2007**
+
+Which one of the following pairs is **not** correctly matched?
+
+A. Ghana — Accra
+
+B. Kenya — Nairobi
+
+C. Namibia — Windhoek
+
+D. Nigeria — Rabat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nigeria = **Abuja**. Rabat = Morocco.
+
+</details>
+
+---
+
+**Q-GC66. UPPCS Pre 1993**
+
+Pisa famous for its leaning tower is located in—
+
+A. Australia
+
+B. France
+
+C. Italy
+
+D. Spain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pisa is in **Italy** (Arno / Ligurian coast).
+
+</details>
+
+---
+
+**Q-GC67. UP RO/ARO Pre 2023**
+
+Match List-I with List-II:
+
+| List-I (Capital City) | List-II (Country) |
+|-----------------------|-------------------|
+| A. Kampala | 1. Rwanda |
+| B. Kigali | 2. Uganda |
+| C. Kinshasa | 3. Sudan |
+| D. Khartoum | 4. Democratic Republic of the Congo |
+
+A. A-1, B-2, C-4, D-3
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kampala–Uganda; Kigali–Rwanda; Kinshasa–DRC; Khartoum–Sudan.
+
+</details>
+
+---
+
+**Q-GC68. UPPCS Pre 2007**
+
+Which one of the following pair is **not** correctly matched?
+
+A. Amman — Jordan
+
+B. Bishkek — Tajikistan
+
+C. Ulan Bator — Mongolia
+
+D. Sana’a — Yemen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bishkek = **Kyrgyzstan**. Tajikistan = Dushanbe.
+
+</details>
+
+---
+
+**Q-GC69. RAS 2012**
+
+Which one of the following is **not** a correct match?
+
+A. Finland — Helsinki
+
+B. Bolivia — La Paz
+
+C. Ethiopia — Lusaka
+
+D. Ukraine — Kiev
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Ethiopia = **Addis Ababa**. Lusaka = Zambia.
+
+</details>
+
+---
+
+**Q-GC70. UPPCS Mains 2010**
+
+Which one of the following pairs is **not** correctly matched?
+
+A. Budapest — Hungary
+
+B. Kinshasa — Zaire
+
+C. Nairobi — Kenya
+
+D. Christchurch — New Zealand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** New Zealand capital = **Wellington**, not Christchurch. (Kinshasa = DRC / former Zaire is acceptable lore.)
+
+</details>
+
+---
+
+**Q-GC71. BPSC 2011**
+
+Which of the following is **not** a capital city of a country?
+
+A. Canberra
+
+B. Sydney
+
+C. Wellington
+
+D. Riyadh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sydney** is Australia’s major city, not the capital (Canberra).
+
+</details>
+
+---
+
+**Q-GC72. UPPCS Pre 2017**
+
+Which of the following pairs is **not** correctly matched?
+
+A. Guinea Bissau — Bissau
+
+B. Taiwan — Taipei
+
+C. Nicaragua — Managua
+
+D. Maldives — Malabo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Maldives = **Male**. Malabo = Equatorial Guinea.
+
+</details>
+
+---
+
+**Q-GC73. BPSC 2019**
+
+What is the capital of Paraguay?
+
+A. Asuncion
+
+B. Zagreb
+
+C. San Jose
+
+D. Managua
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Paraguay = **Asunción**.
+
+</details>
+
+---
+
+**Q-GC74. UPPCS Pre 2020**
+
+Which one of the following is NOT correctly matched?
+
+A. Morocco — Rabat
+
+B. Tunisia — Tunis
+
+C. Algeria — Algiers
+
+D. Cape Verde — Bamako
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Cape Verde = **Praia**. Bamako = Mali.
+
+</details>
+
+---
+
+**Q-GC75. UP RO/ARO Pre 2021**
+
+Which of the following pair is **not** correctly matched?
+
+A. Antigua and Barbuda — Saint John's
+
+B. Dominica — Santo Domingo
+
+C. El Salvador — San Salvador
+
+D. Bahamas — Nassau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Dominica = **Roseau**. Santo Domingo = Dominican Republic.
+
+</details>
+
+---
+
+**Q-GC76. UP RO/ARO Mains 2021**
+
+Match List-I with List-II (Provinces of Australia — Capital city):
+
+| List-I | List-II |
+|--------|---------|
+| A. New South Wales | 1. Brisbane |
+| B. Queensland | 2. Sydney |
+| C. Victoria | 3. Perth |
+| D. Western Australia | 4. Melbourne |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 1 2 3 4
+
+B. 1 2 4 3
+
+C. 2 1 4 3
+
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** NSW–Sydney; Queensland–Brisbane; Victoria–Melbourne; WA–Perth. Code **2 1 4 3**.
+
+</details>
+
+---
+
+**Q-GC77. UPPCS Mains 2005**
+
+**Assertion (A):** Most of the mega cities of the world are located in coastal areas.
+
+**Reason (R):** They are the gateways to international ocean routes.
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; coastal megacity location is explained by ocean-route gateway role.
+
+</details>
+
+---
+
+**Q-GC78. Uttarakhand PCS 2006 / MPPCS 2012**
+
+Alaska is a part of which of the following countries?
+
+A. Greenland
+
+B. United States of America
+
+C. Canada
+
+D. Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Alaska is a US state (purchased from Russia, 1867).
+
+</details>
+
+---
+
+**Q-GC79. UP Lower 2013**
+
+Which one of the following cities of California (USA) is **not** located within the “Silicon Valley”?
+
+A. Campbell
+
+B. Palo Alto
+
+C. Santa Rosa
+
+D. Santa Clara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Santa Rosa** (Sonoma County) is outside Silicon Valley.
+
+</details>
+
+---
+
+**Q-GC80. IAS 2005**
+
+Which of the following cities is the seat of Parliament of South Africa?
+
+A. Pretoria
+
+B. Durban
+
+C. Johannesburg
+
+D. Cape Town
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Legislative capital / Parliament = **Cape Town**. Pretoria = executive; Bloemfontein = judicial.
+
+</details>
+
+---
+
+**Q-GC81. IAS 2005**
+
+Which one of the following is the correct sequence of the given towns of Pakistan while moving from North to South?
+
+A. Islamabad–Gujranwala–Peshawar–Multan
+
+B. Peshawar–Gujranwala–Multan–Islamabad
+
+C. Peshawar–Islamabad–Gujranwala–Multan
+
+D. Islamabad–Multan–Peshawar–Gujranwala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** North→South: **Peshawar → Islamabad → Gujranwala → Multan**.
+
+</details>
+
+---
+
+**Q-GC82. RAS 1999/2000**
+
+Kandahar is located in:
+
+A. Southern Afghanistan
+
+B. Northern Afghanistan
+
+C. Eastern Iraq
+
+D. Western Pakistan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kandahar = **southern Afghanistan**.
+
+</details>
+
+---
+
+**Q-GC83. UPPCS Pre 1993**
+
+Which one of the following is situated at the highest altitude?
+
+A. Gartola
+
+B. Kathmandu
+
+C. Lhasa
+
+D. Thimphu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Lhasa** (~3650 m) is the highest among the set.
+
+</details>
+
+---
+
+**Q-GC84. UPPCS Pre 1992**
+
+Which of the following pairs is **not** correctly matched?
+
+A. Auroville — Pondicherry
+
+B. Baikonur — Ukraine
+
+C. Bandung — Indonesia
+
+D. Batticaloa — Sri Lanka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Baikonur Cosmodrome is in **Kazakhstan**, not Ukraine.
+
+</details>
+
+---
+
+**Q-GC85. UPPCS Pre 1990**
+
+Which is **not** correctly matched?
+
+A. Tasmania — Uganda
+
+B. Sicily — Italy
+
+C. Newfoundland — Canada
+
+D. Durban — South Africa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Tasmania is an island state of **Australia**, not Uganda.
+
+</details>
+
+---
+
+**Q-GC86. UP UDA/LDA 2013**
+
+Which of the following country is located in the south of the Arctic Circle?
+
+A. Finland
+
+B. Iceland
+
+C. Norway
+
+D. Sweden
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Iceland** lies south of the Arctic Circle; the Circle cuts Finland/Norway/Sweden.
+
+</details>
+
+---
+
+**Q-GC87. UPPCS Pre 2011**
+
+The Sun City is located in —
+
+A. Italy
+
+B. Japan
+
+C. Mexico
+
+D. South Africa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sun City = north-west **South Africa**.
+
+</details>
+
+---
+
+**Q-GC88. RAS 1999/2000**
+
+Kanto plain is in:
+
+A. China
+
+B. Cambodia
+
+C. New Zealand
+
+D. Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Kanto Plain = **Japan**.
+
+</details>
+
+---
+
+**Q-GC89. Uttarakhand PCS 2006**
+
+Mexico is located in—
+
+A. South American Continent
+
+B. North American Continent
+
+C. African Continent
+
+D. European Continent
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mexico = **North America**.
+
+</details>
+
+---
+
+**Q-GC90. Jharkhand PCS 2013**
+
+Congo is situated in —
+
+A. Africa
+
+B. Asia
+
+C. Europe
+
+D. North America
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** DR Congo / Congo = **Africa**.
+
+</details>
+
+---
+
+**Q-GC91. IAS 2008**
+
+In which one of the following is Malta located?
+
+A. Baltic Sea
+
+B. Mediterranean Sea
+
+C. Black Sea
+
+D. North Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Malta = **Mediterranean** island state.
+
+</details>
+
+---
+
+**Q-GC92. IAS 2014**
+
+What is the correct sequence of the following cities in south-east Asia as one proceeds from south to north?
+
+1. Bangkok 2. Hanoi 3. Jakarta 4. Singapore
+
+A. 4-2-1-3
+
+B. 3-2-4-1
+
+C. 3-4-1-2
+
+D. 4-3-2-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** South→North: **Jakarta → Singapore → Bangkok → Hanoi**.
+
+</details>
+
+---
+
+**Q-GC93. IAS 2018**
+
+Consider the following pairs:
+
+| Towns sometimes mentioned in news | Country |
+|-----------------------------------|---------|
+| 1. Aleppo | Syria |
+| 2. Kirkuk | Yemen |
+| 3. Mosul | Palestine |
+| 4. Mazar-i-sharif | Afghanistan |
+
+Which of the pairs given above are correctly matched?
+
+A. 1 and 2
+
+B. 1 and 4
+
+C. 2 and 3
+
+D. 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Aleppo–Syria and Mazar-i-Sharif–Afghanistan. Kirkuk/Mosul = **Iraq**.
+
+</details>
+
+---
+
+**Q-GC94. UP RO/ARO Pre 2023**
+
+Which of the following city/cities is/are **not** situated in present day Afghanistan?
+
+1. Ghazni 2. Fergana 3. Kandahar 4. Samarkand
+
+A. 2 and 3
+
+B. Only 4
+
+C. 2 and 4
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Fergana and Samarkand are in **Uzbekistan**. Ghazni and Kandahar are in Afghanistan.
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Geographical Sobriquets (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–112+ (country/city nicknames · midnight sun · Ninety East Ridge). Teaching lives in Topic 23 N.5B.
+
+**Q-GC1. BPSC 2020 Re-Exam**
+
+Name the city of Russia that is known as 'Venice of North'.
+
+A. Vladivostok
+
+B. St. Petersburg
+
+C. Novosibirsk
+
+D. Moscow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **St. Petersburg** (Neva) is the usual Russia key among the “Venice of the North” set.
+
+</details>
+
+---
+
+**Q-GC2. UPPCS Pre 1990**
+
+The midnight sun appears at—
+
+A. North Pole
+
+B. South Pole
+
+C. Equator
+
+D. Tropic of Cancer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A & B.** Midnight sun occurs poleward of the **Arctic** and **Antarctic** Circles. Equator / Tropic of Cancer do not get 24-hour midnight sun.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Pre 1994**
+
+Which of the following is known as ‘the Continent of Birds’?
+
+A. Europe
+
+B. Australia
+
+C. South America
+
+D. Asia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **South America** holds a very large share of world bird species (~3400+ in GC framing).
+
+</details>
+
+---
+
+**Q-GC4. RAS 1994**
+
+Match the following:
+
+| A | B |
+|---|---|
+| A. Niagara Falls | 1. Pamir |
+| B. The land of thousand lakes | 2. Paris |
+| C. Eiffel Tower | 3. Finland |
+| D. The Roof of the World | 4. New York State |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 3 4 1 2
+
+B. 4 3 2 1
+
+C. 1 2 4 3
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Niagara–New York State (USA–Canada border); Thousand lakes–Finland; Eiffel–Paris; Roof of the World–Pamir. Code **4 3 2 1**.
+
+</details>
+
+---
+
+**Q-GC5. RAS 1997**
+
+Match the following:
+
+| A | B |
+|---|---|
+| A. Dark Continent | 1. Finland |
+| B. The Roof of the World | 2. Bahrain |
+| C. Country of thousand lakes | 3. Africa |
+| D. Pearls Island | 4. Pamir |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 4 3 2 1
+
+B. 3 4 1 2
+
+C. 2 1 4 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Dark Continent–Africa; Roof–Pamir; Thousand lakes–Finland; Pearls Island–Bahrain. Code **3 4 1 2**.
+
+</details>
+
+---
+
+**Q-GC6. UKPCS Pre 2005**
+
+Which of the following city is known by the name of the city of smoke?
+
+A. Kolkata
+
+B. Chicago
+
+C. London
+
+D. Lanzhou
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chicago** = City of Smoke / Smokers in coaching sobriquets.
+
+</details>
+
+---
+
+**Q-GC7. BPSC 1994**
+
+Which of the following is known as ‘Mistress of Eastern Sea’?
+
+A. Sri Lanka
+
+B. Pakistan
+
+C. Burma
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Sri Lanka** = Mistress of the Eastern Sea / Pearl of the Indian Ocean.
+
+</details>
+
+---
+
+**Q-GC8. MPPCS 2022**
+
+The Ninety East Ridge (90° East Ridge) is located in which of the following oceans?
+
+A. Arctic Ocean
+
+B. Atlantic Ocean
+
+C. Pacific Ocean
+
+D. Indian Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ninety East Ridge runs in the **Indian Ocean**.
+
+</details>
+
+---
+
+**Q-GC9. RAS 1993**
+
+Which city of South America is known as ‘The Paris of America’ due to its wide roads?
+
+A. Santiago
+
+B. Buenos Aires
+
+C. Mexico City
+
+D. Rio de Janeiro
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Buenos Aires** = Paris of South America.
+
+</details>
+
+---
+
+**Q-GC10. UPPCS Mains 2004**
+
+Which state of the U.S.A. is also known as the 'Blue Grass State'?
+
+A. California
+
+B. Kentucky
+
+C. Montana
+
+D. Texas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kentucky** = Blue Grass State.
+
+</details>
+
+---
+
+**Q-GC11. UPPCS Mains 2005 / GIC 2010**
+
+Which city of Turkey is known as the 'Gateway to the West'?
+
+A. Adana
+
+B. Ankara
+
+C. Istanbul
+
+D. Izmir
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Istanbul** (transcontinental / Bosporus) = Gateway to the West.
+
+</details>
+
+---
+
+**Q-GC12. UKPCS Mains 2006**
+
+Which country is called “Land of White Elephants”?
+
+A. China
+
+B. Thailand
+
+C. South Africa
+
+D. South Korea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Thailand** = Land of White Elephants.
+
+</details>
+
+---
+
+**Q-GC13. UPPCS Pre 1991 / MPPCS 1990**
+
+Which country is famous by the name of the land of the rising sun?
+
+A. Norway
+
+B. Japan
+
+C. Britain
+
+D. Finland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Japan** / Nippon = Land of the Rising Sun. Norway = Midnight Sun.
+
+</details>
+
+---
+
+**Q-GC14. UPPCS Mains 2012**
+
+Which of the following countries is called ‘Garden of Lakes’?
+
+A. Poland
+
+B. Finland
+
+C. Netherlands
+
+D. Switzerland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Finland** = Garden / Land of Thousand Lakes.
+
+</details>
+
+---
+
+**Q-GC15. MPPCS 2012**
+
+Which of the following cities is known as the 'city of canals'?
+
+A. Amsterdam
+
+B. Rome
+
+C. Venice
+
+D. Athens
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Venice** = City of Canals (also Queen of the Adriatic).
+
+</details>
+
+---
+
+**Q-GC16. UPPCS Mains 2013**
+
+Which one of the following is known as the city of the golden gate?
+
+A. Paris
+
+B. Amsterdam
+
+C. Mumbai
+
+D. San Francisco
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **San Francisco** = City of the Golden Gate (Golden Gate Bridge).
+
+</details>
+
+---
+
+**Q-GC17. UPPCS Mains 2014**
+
+Which of the following cities is called ‘Manchester of East’?
+
+A. Nagoya
+
+B. Tokyo
+
+C. Sendai
+
+D. Osaka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Osaka** = Manchester of the East (also ‘Nation’s Kitchen’ lore).
+
+</details>
+
+---
+
+**Q-GC18. UPPCS Pre 2015**
+
+Which one of the following is called the 'Pearl of Siberia'?
+
+A. Baikal Lake
+
+B. Great Bear Lake
+
+C. Karda Lake
+
+D. Lincanbur Lake
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Lake Baikal** = Pearl of Siberia (deepest ancient freshwater lake).
+
+</details>
+
+---
+
+**Q-GC19. UPPCS Pre 2015**
+
+Which one of the following is called the 'Land of Morning calm'?
+
+A. Philippines
+
+B. Japan
+
+C. Taiwan
+
+D. Korea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **(South) Korea** = Land of Morning Calm. Japan = Rising Sun.
+
+</details>
+
+---
+
+**Q-GC20. UPPCS Pre 2017**
+
+Which of the following cities is known as the oil capital of Europe?
+
+A. Belfast
+
+B. Aberdeen
+
+C. Leeds
+
+D. Liverpool
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Aberdeen** (North Sea oil) = Oil Capital of Europe.
+
+</details>
+
+---
+
+**Q-GC21. UP RO/ARO Pre 2021**
+
+Which of the following Island is known as "The Land of Promise"?
+
+A. Cuba
+
+B. Java
+
+C. Sulawesi
+
+D. Mindanao
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Mindanao** (Philippines) = Land of Promise.
 
 </details>
 
@@ -2623,3 +5354,24 @@ D. Double landlocked — Nepal and Bolivia
 22. **Lesotho = double landlocked Asia** — FALSE. Enclave in South Africa.
 23. **49th Parallel = USA–Mexico** — FALSE. USA–Canada stretch.
 24. **Skip non-PYQ atlas pairs** — FALSE. Next year can ask any Lucent capital, strait, or line.
+
+25. **Horn includes Sudan** — FALSE. Horn = Djibouti, Eritrea, Ethiopia, Somalia.
+26. **Slovenia = Bratislava** — FALSE. Ljubljana. Bratislava = Slovakia.
+27. **Ghana = Dutch Guiana** — FALSE. Gold Coast → Ghana; Dutch Guiana → Suriname.
+28. **Great Britain includes Northern Ireland** — FALSE. That makes the **United Kingdom**.
+29. **Greenland = independent continent / only Europe** — FALSE. Largest island; Denmark politically; N America geographically.
+30. **Armenia / Iraq on Caspian** — FALSE. Caspian five exclude both.
+31. **Indonesia = Oceania** — FALSE. SE Asia.
+32. **Longest world coast = Australia / Brazil** — FALSE. **Canada**.
+33. **Baikonur = Ukraine** — FALSE. **Kazakhstan**.
+34. **Durand = Bangladesh–India** — FALSE. Pak–Afghan. Bangladesh–India = Radcliffe.
+
+35. **Norway = Rising Sun** — FALSE. Rising Sun = **Japan**. Norway = **Midnight Sun**.
+36. **Japan = Morning Calm** — FALSE. Morning Calm = **Korea**.
+37. **Bird Continent = Australia** — FALSE. **South America**.
+38. **Mistress of Eastern Sea = India** — FALSE. **Sri Lanka**.
+39. **Manchester of the East = Tokyo** — FALSE. **Osaka**.
+40. **Pearl of Siberia = Great Bear** — FALSE. **Baikal**.
+41. **Venice of the North = Moscow** — FALSE. **St. Petersburg**.
+42. **City of Smoke = London** — FALSE in that GC key. **Chicago**.
+43. **Ninety East Ridge = Pacific** — FALSE. **Indian Ocean**.

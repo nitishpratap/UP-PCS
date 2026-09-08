@@ -9,7 +9,7 @@ Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventi
 
 </details>
 
-> **Sources baked in:** Lucent world mineral–field match-lists; NCERT Class 12 (minerals & energy); coaching resource map (LotusArise / shields–basins); UPPCS Prelims 2018–2025
+> **Sources baked in:** Lucent world mineral–field match-lists; NCERT Class 12 (minerals & energy); coaching resource map (LotusArise / shields–basins); **Ghatnachakra** Minerals (CB–223+); UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — coalfield–country, Mount Newman iron, Chile copper, Kinta tin, Kashagan ≠ Kuwait, Pegu Yoma oil; teach full field map
 > **Last verified:** August 2026 — coaching gap-pass (Lithium Triangle, REE–China, Carajás, producer≠exporter)
 > **Current Affairs:** none mandatory for Prelims field matches (producer ranks freeze to the PYQ year)
@@ -68,6 +68,7 @@ D. South Africa
 18. Pegu Yoma must not be dumped into the SE-Asia tin belt — it is an **oil** fact.
 19. Chile copper Assertion–Reason pattern: both copper leadership and porphyry geology can be true, and geology can explain leadership.
 20. North Sea oil/gas = UK–Norway belt; West Siberia = Russia’s giant hydrocarbon province.
+21. **German silver** contains **no silver**. **Peace Pipeline** = Iran–Pakistan. Brent = North Sea light crude. Uranium City = **Canada**. Rare earth processing = **China**.
 
 ---
 
@@ -106,6 +107,10 @@ D. South Africa
 | Broken Hill | Australia **Pb–Zn** | Iron / tin | ब्रोकन हिल |
 | Lithium Triangle | **Chile–Argentina–Bolivia** (brines) | Brazil in the triangle | लिथियम |
 | Rare earths | **China** dominates processing | “India has zero REE” | दुर्लभ मृदा |
+| German silver | Cu–Ni–Zn (**no Ag**) | Contains silver | जर्मन सिल्वर |
+| Peace Pipeline | Iran–Pakistan gas | Russia–Europe only | पीस पाइपलाइन |
+| Uranium City | **Canada** | Australia / USA | यूरेनियम सिटी |
+| Kinta Valley | **Tin** (Malaysia) | Rubber | किंटा घाटी |
 | Carajás vs Newman | Both **iron**; Carajás = Brazil, Newman = Australia | Swap countries | काराजास |
 | Producer vs exporter (coal/iron) | China often huge **volume**; Australia/Indonesia **ship** | China = export king | |
 
@@ -953,6 +958,40 @@ D. Geothermal energy
 
 ---
 
+
+**Trap cues (GC minerals):** German silver ≠ silver metal; Mesabi = iron not copper; Saar = coal not iron; Peace Pipeline ≠ Russia–Europe; Brent ≠ zero sulphur.
+
+## N.9 GC extras — silver German · oil lore · uranium city
+
+| Cue | Fact |
+|-----|------|
+| **German silver** | Cu–Ni–Zn alloy — **no silver** (name from appearance) |
+| Silver volume | Often **Mexico** #1 in recent frames |
+| Aluminium ore | **Bauxite** (≠ haematite / magnetite / limonite) |
+| Primary Al volume | Often **China** first in recent frames |
+| Tin | Mostly **placer**; **Kinta Valley** (Malaysia) = tin |
+| **Brent** crude | Major crude class; sourced from **North Sea**; low sulphur — not “zero sulphur” |
+| **Gasohol** | ~90% gasoline + ~10% ethanol; USA classic producer/consumer |
+| **Peace Pipeline** | **Iran–Pakistan** gas pipeline name |
+| First commercial oil (1857 register) | **Romania** (Drake 1859 Titusville is the other classic “first well” story) |
+| Crude reserves | Often **Venezuela** #1 proved in IMYB frames; Saudi #2 |
+| SE Asia oil | **Indonesia** |
+| Venezuela | Oil-dominated export economy |
+| Ras Tanura | Refinery — **Saudi Arabia** |
+| Pegu Yoma (Myanmar) | **Mineral oil** cue |
+| **Uranium City** | **Canada** (Athabasca) |
+| U production | Often **Kazakhstan** #1; reserves fame **Australia** (Olympic Dam) |
+| Radium | From **pitchblende** (uranium ore) |
+| Rare earths | **China** dominates; export curbs + electronics demand |
+| Lithium Afghanistan lore | Compared with oil discovery in Iran |
+| Chile fame | **Nitrate / iodine** (Atacama caliche) |
+| Diamond volume | Often **Russia** |
+| Cobalt (~¾ batteries lore) | **DRC** |
+| Non-ferrous | Al, Cu, Zn, Ni, Sn… — **not** pig iron / carbon steel |
+| Camphor | Tree native to **China/Japan** (*Cinnamomum camphora*) lore |
+
+---
+
 ## Complete PYQ Bank
 
 **Instructions:** Answers under `<details>`. Options sit on separate lines. Match-lists as tables.
@@ -1310,6 +1349,911 @@ D. Methane
 <summary>Show answer</summary>
 
 **Ans: D**
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Minerals (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–223+ (coal · iron · copper · gold · silver · Al · tin · oil · uranium · misc). Teaching lives in Topic 21. Year-coded UPPCS stems already in this chapter (Donetsk 2023, Appalachian/Ruhr/Kuzbass 2025, iodine 2018, Postmasburg 2020, Mount Newman 2023) are not repeated as identical year-coded entries. FAO/USGS ranks move — freeze the paper’s year.
+
+**Q-GC1. UKPCS Pre 2006**
+
+Coal is an example of –
+
+A. Igneous
+
+B. Metamorphic rock
+
+C. Sedimentary
+
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Coal is a **sedimentary** (biotic) rock / fossil fuel.
+
+</details>
+
+---
+
+**Q-GC2. UKPCS Mains 2002**
+
+Coal, Crude Oil and Natural gas are called –
+
+A. Crude Fuel
+
+B. Traditional Fuel
+
+C. Natural Fuel
+
+D. Fossil Fuel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Fossil fuels**.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Pre 1999**
+
+Which statements are correct?
+
+I. China is the leading coal producer of the World
+II. Donetsk Basin is the major coal producing region in Ukraine
+III. Saar Region is the major coal producing area in Germany
+IV. The major coal mining areas of the USA lie in the Appalachian Region
+
+A. I and II
+
+B. II and III
+
+C. I, II and III
+
+D. All
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four coal-region statements are standard.
+
+</details>
+
+---
+
+**Q-GC4. UPPCS Pre 2007**
+
+‘Donbass’ region is famous for –
+
+A. Iron ore
+
+B. Coal
+
+C. Copper ore
+
+D. Gold
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Donbas / Donetsk** = coal.
+
+</details>
+
+---
+
+**Q-GC5. UPPCS Pre 2013**
+
+Match coalfields: Donetsk, Kuznetsk, Lancashire, Saar → Ukraine, Russia, UK, Germany.
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Donetsk–Ukraine; Kuznetsk–Russia; Lancashire–UK; Saar–Germany.
+
+</details>
+
+---
+
+**Q-GC6. UPPCS Pre 2010 / 2022**
+
+The Ruhr basin / Ruhr coalfield is famous industrial/coal region of –
+
+A. China / France
+
+B. Germany
+
+C. Japan / Great Britain
+
+D. United Kingdom / Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Germany**.
+
+</details>
+
+---
+
+**Q-GC7. BPSC 2011**
+
+The highest coal-producing country in the world is-
+
+A. India
+
+B. USA
+
+C. China
+
+D. Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **China** leads coal **production** volume.
+
+</details>
+
+---
+
+**Q-GC8. BPSC Re-Exam 2020**
+
+Which of the following is not a coalfield of Germany?
+
+A. Ruhr Valley
+
+B. Lorraine Basin
+
+C. Saar Basin
+
+D. Achen Basin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lorraine** is mainly **France**.
+
+</details>
+
+---
+
+**Q-GC9. UP RO/ARO Pre 2023**
+
+With reference to Kuzbass region in Russia:
+
+1. This region is rich in coal and iron ore.
+2. Novosibirsk is an important industrial centre of this region.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both coal/industry statements are accepted in the key.
+
+</details>
+
+---
+
+**Q-GC10. MPPCS Pre 2021**
+
+'Marquette range' in United States of America is famous for which mineral?
+
+A. Uranium
+
+B. Copper
+
+C. Zinc
+
+D. Iron ore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Marquette** = Michigan iron range.
+
+</details>
+
+---
+
+**Q-GC11. UP UDA Spl Mains 2010**
+
+Match Lorraine / Midland / Kiruna / Kostanay with France / UK / Sweden / Kazakhstan.
+
+A. 4 2 3 1
+
+B. 3 4 2 1
+
+C. 4 3 1 2
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Lorraine–France; Midland–UK; Kiruna–Sweden; Kostanay–Kazakhstan.
+
+</details>
+
+---
+
+**Q-GC12. UPPCS Pre 2020**
+
+Which one is NOT correctly matched (Country — Iron-Ore Area)?
+
+A. Kazakhstan — Karaganda
+
+B. Ukraine — Krivoy Rog
+
+C. Germany — Normandy
+
+D. France — Pyrenees
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Normandy** iron is a **France** cue, not Germany.
+
+</details>
+
+---
+
+**Q-GC13. UP RO/ARO Mains 2017**
+
+Superior Lake region in North America is famous for–
+
+A. Iron - ore reserves
+
+B. Coal reserves
+
+C. Gold reserves
+
+D. Uranium reserves
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Lake Superior / Mesabi system = **iron**.
+
+</details>
+
+---
+
+**Q-GC14. UPPCS Pre 2023**
+
+‘Mount Newman’ is famous for which of the following minerals?
+
+A. Copper
+
+B. Bauxite
+
+C. Iron ore
+
+D. Manganese
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mount Newman** (Australia) = iron.
+
+</details>
+
+---
+
+**Q-GC15. UPPCS Pre 1996**
+
+The largest producer of copper ore in the world is:
+
+A. Chile
+
+B. Poland
+
+C. U.S.A.
+
+D. Zaire
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Chile** leads copper mine production.
+
+</details>
+
+---
+
+**Q-GC16. IAS 1999 / UPPCS Pre 2022**
+
+Chile is a leading copper producer because Andes / N Chile holds large **porphyry copper** deposits.
+
+A. Both A and R true and R explains A
+
+B. Both true R does not explain A
+
+C. A true R false
+
+D. A false R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chile + Andes **porphyry** (Chuquicamata) explain leadership.
+
+</details>
+
+---
+
+**Q-GC17. RAS 1992**
+
+Zambia has prolific copper but economic progress limited because of –
+
+A. Dense Forests
+
+B. lack of means of transportation
+
+C. No seaport
+
+D. Less population
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Zambia is **landlocked** — no seaport.
+
+</details>
+
+---
+
+**Q-GC18. UPPCS Pre 2014**
+
+Japan is almost self-sufficient in –
+
+A. Bauxite
+
+B. Iron ore
+
+C. Copper
+
+D. Mineral oil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Japan is relatively self-reliant in **copper** among these.
+
+</details>
+
+---
+
+**Q-GC19. UP RO/ARO Pre 2017**
+
+Chiquicamata (Chili) is worldwide famous for which mineral?
+
+A. Copper
+
+B. Iron
+
+C. Silver
+
+D. Manganese
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Chuquicamata** = copper.
+
+</details>
+
+---
+
+**Q-GC20. UPPCS Pre 1991**
+
+'Kalgoorlie' situated in Australia is famous for –
+
+A. Gold production
+
+B. Good Climate
+
+C. Education
+
+D. Poultry
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Kalgoorlie / Coolgardie** = Western Australia gold.
+
+</details>
+
+---
+
+**Q-GC21. BPSC 1997**
+
+Johannesburg is famous for –
+
+A. Gold mining
+
+B. Tin mining
+
+C. Mica mining
+
+D. Iron-ore mining
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Johannesburg / Witwatersrand = **gold** (and diamond lore).
+
+</details>
+
+---
+
+**Q-GC22. UPPCS Mains 2011**
+
+The largest producer of Silver in the world is:
+
+A. Chile
+
+B. China
+
+C. Mexico
+
+D. Peru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Mexico** often leads silver volume.
+
+</details>
+
+---
+
+**Q-GC23. IAS 2007**
+
+Which one of the following does not contain silver?
+
+A. Horn Silver
+
+B. German Silver
+
+C. Ruby Silver
+
+D. Lunar Caustic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **German silver** = Cu–Ni–Zn alloy — **no Ag**.
+
+</details>
+
+---
+
+**Q-GC24. MPPCS 2008 / 2014**
+
+Bauxite is different / Bauxite is the ore of
+
+A. Haematite family / Iron
+
+B. Magnetite / Zinc
+
+C. Limonite / Tin
+
+D. Aluminium ore / Aluminium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Bauxite = **aluminium** ore; others are iron ores.
+
+</details>
+
+---
+
+**Q-GC25. UPPCS Pre 2020**
+
+Malaysia, the 'Kinta Valley' is famous for:
+
+A. Rubber Production
+
+B. Tea Production
+
+C. Tin Production
+
+D. Coffee Production
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kinta Valley** = **tin**.
+
+</details>
+
+---
+
+**Q-GC26. UP Lower 2013 / UPPCS Pre 2012**
+
+World’s largest reserves of mineral oil are in
+
+A. Venezuela
+
+B. Iran
+
+C. Saudi Arabia
+
+D. Iraq
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** IMYB-style proved reserves often put **Venezuela** first.
+
+</details>
+
+---
+
+**Q-GC27. UPPCS Mains 2011**
+
+Which country is the largest producer and consumer of gasohol?
+
+A. Brazil
+
+B. Cuba
+
+C. India
+
+D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **USA** = gasohol (gasoline + ethanol) leader among options.
+
+</details>
+
+---
+
+**Q-GC28. IAS 2011**
+
+With reference to Brent crude oil:
+
+1. It is a major classification of crude oil.
+2. It is sourced from the North Sea.
+3. It does not contain sulphur.
+
+A. 2 only
+
+B. 1 and 2
+
+C. 1 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Brent is a major class from the **North Sea**; it has **low** sulphur, not zero.
+
+</details>
+
+---
+
+**Q-GC29. RAS 2013**
+
+In which of the following countries mineral oil was commercially drilled in 1857?
+
+A. U.S.A.
+
+B. Venezuela
+
+C. Indonesia
+
+D. Romania
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Romania** 1857 commercial register story.
+
+</details>
+
+---
+
+**Q-GC30. UPPCS Pre 2022**
+
+Which among the following is an important mineral of Pegu Yoma region of Myanmar?
+
+A. Tin
+
+B. Silver
+
+C. Mineral oil
+
+D. Copper
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pegu Yoma = **mineral oil** cue.
+
+</details>
+
+---
+
+**Q-GC31. UP GIC 2010**
+
+The leading producer of Uranium in the world is –
+
+A. Australia
+
+B. Canada
+
+C. Kazakhstan
+
+D. India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Recent WNA frames often put **Kazakhstan** #1 production.
+
+</details>
+
+---
+
+**Q-GC32. UPPCS Mains 2006**
+
+Which one of the following countries is credited with the establishment of 'Uranium city'?
+
+A. Australia
+
+B. Canada
+
+C. Russia
+
+D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Uranium City**, Saskatchewan, **Canada**.
+
+</details>
+
+---
+
+**Q-GC33. BPSC 1994**
+
+Radium is extracted from the mines of –
+
+A. Limestone
+
+B. Pitchblende
+
+C. Rutile
+
+D. Hematite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Radium from **pitchblende**.
+
+</details>
+
+---
+
+**Q-GC34. IAS 2012**
+
+Rare earth metals concern — China export curbs; essential for electronics. Which statements?
+
+1. China largest producer has restricted exports.
+2. Other than China, Australia, Canada and Chile, these are not found elsewhere.
+3. Essential for electronics; growing demand.
+
+A. Only 1
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1 and 3 true; 2 false — REE occur more widely (incl. India monazite).
+
+</details>
+
+---
+
+**Q-GC35. UPPCS Pre 2012**
+
+Which of the following countries is the largest producer of diamond?
+
+A. Australia
+
+B. Venezuela
+
+C. Russia
+
+D. Botswana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Russia** often leads diamond carat volume.
+
+</details>
+
+---
+
+**Q-GC36. UPPCS Pre 2018**
+
+Which of the following countries is the leading producer of iodine in the world?
+
+A. Japan
+
+B. U.S.A.
+
+C. Chile
+
+D. China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Chile** iodine.
+
+</details>
+
+---
+
+**Q-GC37. IAS 2023**
+
+About three-fourths of world's cobalt… is produced by:
+
+A. Argentina
+
+B. Botswana
+
+C. the Democratic Republic of the Congo
+
+D. Kazakhstan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **DRC** cobalt.
+
+</details>
+
+---
+
+**Q-GC38. UPPCS Mains 2004**
+
+Which one of the following pair is not correctly matched?
+
+A. Donbas Basin — Coal
+
+B. Mesabi Range — Copper
+
+C. Mosul — Petroleum
+
+D. Transvaal — Gold
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mesabi = **iron**, not copper.
+
+</details>
+
+---
+
+**Q-GC39. UPPCS Pre 1999**
+
+Match Iron ore / Petroleum / Copper / Uranium with Mesabi / Baku / Bingham / Port Radium.
+
+A. 4 3 2 1
+
+B. 3 4 1 2
+
+C. 1 2 3 4
+
+D. 1 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Iron–Mesabi; Petroleum–Baku; Copper–Bingham; Uranium–Port Radium.
+
+</details>
+
+---
+
+**Q-GC40. UKPCS Pre 2010**
+
+What is Baku famous for?
+
+A. Iron Industry
+
+B. Aircraft Industry
+
+C. Ship-building Industry
+
+D. Petroleum
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Baku** = petroleum.
+
+</details>
+
+---
+
+**Q-GC41. RAS 2010**
+
+The mineral which has earned fame to Chile is
+
+A. Gold
+
+B. Manganese
+
+C. Nitrate
+
+D. Mineral oil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chile = **nitrate** (Atacama).
+
+</details>
+
+---
+
+**Q-GC42. UP Lower Spl 2008**
+
+Afghanistan mineral discovery compared with oil in Iran?
+
+A. Gold
+
+B. Lithium
+
+C. Cobalt
+
+D. Iron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lithium** lore.
 
 </details>
 

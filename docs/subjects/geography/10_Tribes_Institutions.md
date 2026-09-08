@@ -9,6 +9,7 @@
 **Institutions:** IMD | ICAR | Agricultural Institutes | Dairy Research | Horticulture Institutes | Forest Research Institutes
 </details>
 
+> **Sources baked in:** Lucent / coaching tribe–state & world-habitat maps; **Ghatnachakra** Major Tribes of the World (CB–200+); UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — tribe–state pairs, Andaman natives, world habitats, institute headquarters
 > **Last verified:** August 2026
 > **Current Affairs:** PM-JANMAN (PVTG); Janjatiya Gaurav Diwas 15 Nov; IMD 150 years (1875–2025); Adi Karmayogi (MoTA, Jun 2025)
@@ -50,6 +51,8 @@ Masai habitat remains **East Africa**. Do not “update” it to West Africa.
 15. **Janjatiya Gaurav Diwas** is observed on **15 November** (Birsa Munda’s birth anniversary).
 16. Andaman **Negrito** natives are Great Andamanese, **Onge**, **Jarawa** and **Sentinelese** (North Sentinel Island). Nicobar **Mongoloid** groups are Nicobarese and **Shompen** (Great Nicobar PVTG). **Rengma** is not an island tribe.
 17. World habitat facts: **Bushman = Kalahari**; **Eskimo = northern Canada**; **Pygmy = Congo**; **Masai = East Africa** (not West Africa); **Ainu = Japan**; **Punan = Borneo**; Lapps/Sami = Sweden–Finland.
+17a. Also: Semang = **Malaysia** (not Indonesia); Bedouin = Arabia; Kirghiz = Central Asia (not Sudan); Maori = New Zealand; Zulu = South Africa; Bantu ≠ Sahara. **Transhumance** = seasonal valley–mountain herding.
+17b. Gypsies’ original home cue = **India**. Africa = cradle of mankind. Cro-Magnon is the most recent among classic fossil-human options.
 18. **Khirghiz** are Central Asian, not Sudanese. **Koryak** live in north-east Siberia, not Alaska.
 19. **IMD** headquarters is New Delhi (**1875**). **ICAR** headquarters is New Delhi (**1929**). **IARI** is at **Pusa, New Delhi** — it is not the apex ICAR council itself.
 20. **FRI** and **ICFRE** are at **Dehradun**. **WII** is also Dehradun but is not the FRI answer. **NDRI** is at **Karnal** (dairy lab). **IVRI** is at **Izatnagar, Bareilly (UP)**. **NDDB** is at **Anand** and ran **Operation Flood** — it is not NDRI.
@@ -74,6 +77,10 @@ Masai habitat remains **East Africa**. Do not “update” it to West Africa.
 | Masai | **East Africa** | West Africa | पूर्वी अफ्रीका |
 | Khirghiz | **Central Asia** | Sudan | मध्य एशिया |
 | Koryak | **NE Siberia** | Alaska | साइबेरिया |
+| Semang | **Malaysia** | Indonesia | सेमांग |
+| Maasai | **East Africa** | West Africa / Zambia | मसाई |
+| Bantu | E / C / S Africa | Sahara | बांटू |
+| Transhumance | Seasonal herd move | Permanent emigration | ट्रांसह्यूमेंस |
 | Tharu | **Terai** | Sonbhadra only | तराई |
 | Agariya | Iron smelting | Farming-only tag | लोहा गलाना |
 | Saharya | **Lalitpur** | Terai | ललितपुर |
@@ -432,7 +439,43 @@ The **Punan** live in **Borneo**.
 
 The **Ruwala** are an **Arab desert** people.
 
-The **Lapps / Sami** live in **Sweden and Finland**.
+The **Lapps / Sami** live in **Sweden and Finland** (Fenno-Scandinavia including Norway and Kola Peninsula).
+
+
+**More world habitats (GC map):**
+
+| People | Habitat / cue |
+|--------|----------------|
+| **Maasai** | E Africa plateau — Kenya, N Tanzania, E Uganda; cattle; **kraal** huts |
+| **Bushman / San** | **Kalahari** (Botswana, Namibia, parts of SA) — hunting–gathering; termites lore |
+| **Zulu** | **South Africa** — agriculture + cattle; Isandlwana 1879 lore |
+| **Semang** | **Malay Peninsula / Malaysia** (Negrito hunter–gatherers) — **not** Indonesia |
+| **Sakai** | Malay Peninsula / Indonesia forests — blowpipe hunting |
+| **Papuan** | Papua New Guinea |
+| **Bedouin** | Arabian deserts (esp. N Saudi) — pastoral nomads |
+| **Kirghiz / Kyrgyz** | Central Asia (Pamir–Tianshan) — seasonal herding; **yurt** |
+| **Yupik** | E Russia / W Alaska — dog **sledge** |
+| **Yukaghir** | NE Siberia (Verkhoyansk / Stanovoy) |
+| **Maya** | Central America — Mexico, Guatemala, Honduras |
+| **Maori** | **New Zealand** (Polynesian) |
+| **Fulani** | West Africa |
+| **Bantu** | E / C / S Africa — **not** Sahara |
+| **Nuba** | Sudan |
+| **Vedda** | Sri Lanka |
+| **Berber** | Morocco / N Africa |
+| **Ainu (Enu lore)** | Japan |
+| **Aeta** | Philippines |
+| **Bora** | W Amazon (Brazil–Peru–Colombia) |
+| **Jews / Teda / Beja / Lur** | Israel / Libya / Egypt / Iran (ethnic match sets) |
+
+**Transhumance** = seasonal herd movement valley ↔ mountain (Gaddi, Bakarwal, Bhotia in India). Nomadic herding concentrates in **arid** lands.
+
+**Pygmy** = Congo rainforest hunters–gatherers; tree **mongulu** huts; not pastoral. **Kayak** = narrow hunting boat; **umiak** = transport boat; **sledge** = dog vehicle; **igloo** = snow house (Inuit).
+
+**Trap cues:** Semang ≠ Indonesia; Maasai ≠ West Africa/Zambia; Bantu ≠ Sahara; Pygmy ≠ pastoral; Gypsy origin ≠ Egypt.
+
+**Race / origin cues (awareness):** Africa = “cradle of mankind”; Caucasoid often listed as largest racial group in older booklets; Gypsies’ original home cue = **India**; Archaeopteryx ≈ **150 mya**; Cro-Magnon = most recent among Heidelberg / Neanderthal / Cro-Magnon options.
+
 
 **Inline PYQ — UPPCS Prelims 2025, Q23**
 
@@ -732,6 +775,719 @@ D. Only 1
 <summary>Show answer</summary>
 
 **Ans: B** — Ministry of **Tribal Affairs** only.
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Major Tribes of the World (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–200+ (world tribes · transhumance · race/origin cues). Teaching lives in Topic 10 N.6. Year-coded UPPCS stems already in this chapter (Bushman/Eskimo/Pygmy/Masai 2025; Koryak 2021; Khirghiz 2019) are not repeated as identical year-coded entries.
+
+**Q-GC1. Jharkhand PCS 2013**
+
+The most common areas of nomadic herding are –
+
+A. Hot humid regions
+
+B. Cold humid regions
+
+C. Rainy areas
+
+D. Dry areas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nomadic herding concentrates in **arid / dry** lands.
+
+</details>
+
+---
+
+**Q-GC2. Jharkhand PCS 2013**
+
+'Transhumance' refers to –
+
+A. Migration of animals in ranches
+
+B. Human migration in search of job
+
+C. Seasonal movement of people and their herds from the valley to the mountain and vice versa
+
+D. Migration of nomads
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Transhumance** = seasonal valley ↔ mountain herding.
+
+</details>
+
+---
+
+**Q-GC3. RAS Pre 1994**
+
+Which of the following is considered to be the most recent?
+
+A. Heidelberg humans
+
+B. Cro-Magnon humans
+
+C. Pilt magnon humans
+
+D. Neanderthal humans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Cro-Magnon** is the most recent among these options.
+
+</details>
+
+---
+
+**Q-GC4. IAS Pre 1994**
+
+The first bird is believed to have appeared on the surface of the earth-
+
+A. 300 million years ago
+
+B. 200 million years ago
+
+C. 150 million years ago
+
+D. 100 million years ago
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Archaeopteryx** ≈ **150 million years** ago.
+
+</details>
+
+---
+
+**Q-GC5. RAS Pre 2012**
+
+Which continent is known as ‘the Cradle of Mankind’?
+
+A. Asia
+
+B. Africa
+
+C. Europe
+
+D. South America
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Africa**.
+
+</details>
+
+---
+
+**Q-GC6. Jharkhand PCS 2011**
+
+Which racial group has the largest number of members?
+
+A. Negroid
+
+B. Mongoloid
+
+C. Australoid
+
+D. Caucasoid
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Older booklet key = **Caucasoid**.
+
+</details>
+
+---
+
+**Q-GC7. UPPCS Pre 2020**
+
+Match List-I with List-II (Ethnic Group — Country):
+
+| List-I | List-II |
+|--------|---------|
+| A. Jews | 1. Egypt |
+| B. Teda | 2. Iran |
+| C. Beja | 3. Libya |
+| D. Lur | 4. Israel |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 1 2 3 4
+
+B. 4 1 2 3
+
+C. 4 1 3 2
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Jews–Israel; Teda–Libya; Beja–Egypt; Lur–Iran. Code **4 3 1 2**.
+
+</details>
+
+---
+
+**Q-GC8. IAS Pre 1995**
+
+The original home of the Gypsies was:
+
+A. Egypt
+
+B. Russia
+
+C. India
+
+D. Persia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Original home cue = **India**.
+
+</details>
+
+---
+
+**Q-GC9. BPSC 2001**
+
+The native African tribe 'Pygmies' are found in which of the following river basins –
+
+A. Niger
+
+B. Congo
+
+C. Nile
+
+D. Zambezi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Congo Basin**.
+
+</details>
+
+---
+
+**Q-GC10. MPPCS Pre 2015**
+
+In which of the following regions are Pygmies found?
+
+A. Sahara
+
+B. Kalahari
+
+C. Equatorial forest
+
+D. Pampas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Equatorial **Congo rainforest**.
+
+</details>
+
+---
+
+**Q-GC11. UPPCS Pre 2005**
+
+Which one of the following is not pastoral nomads?
+
+A. Pygmies
+
+B. Kazaks
+
+C. Masai
+
+D. Lapps
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pygmies are **hunter–gatherers**, not pastoral nomads.
+
+</details>
+
+---
+
+**Q-GC12. UPPCS Pre 2001**
+
+Which of the following is correctly matched?
+
+A. Eskimo - Canada
+
+B. Oraon - Japan
+
+C. Lapps - India
+
+D. Gonds - Africa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Eskimo–Canada** (Arctic). Oraon/Gond = India; Lapps = N Europe.
+
+</details>
+
+---
+
+**Q-GC13. UPPCS Mains 2012**
+
+Which of the following is correctly matched?
+
+A. Eskimo - Amazon Basin
+
+B. Pigmy - Irrawadi Basin
+
+C. Bundu - Sahara
+
+D. Bushman - Kalahari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Bushman–Kalahari**.
+
+</details>
+
+---
+
+**Q-GC14. UPPCS Pre 2009**
+
+Match List-I with List-II (Tribe — Country):
+
+| List-I | List-II |
+|--------|---------|
+| A. Eskimo | 1. Botswana |
+| B. Maasai | 2. Saudi Arabia |
+| C. Bedouins | 3. Canada |
+| D. Bushman | 4. Kenya |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 3 4 2 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Eskimo–Canada; Maasai–Kenya; Bedouin–Saudi; Bushman–Botswana. Code **3 4 2 1**.
+
+</details>
+
+---
+
+**Q-GC15. RAS Pre 1993**
+
+The major island, where Eskimos live, is:
+
+A. New Guinea
+
+B. Hawaii
+
+C. Greenland
+
+D. Iceland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Greenland**.
+
+</details>
+
+---
+
+**Q-GC16. UPPCS Pre 2016**
+
+Match List-I with List-II (Tribes — Area):
+
+| List-I | List-II |
+|--------|---------|
+| A. Khirghiz | 1. Japan |
+| B. Bushman | 2. Arab |
+| C. Ainu | 3. Central Asia |
+| D. Bedouin | 4. Kalahari |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 3 1 4 2
+
+B. 2 3 4 1
+
+C. 3 4 1 2
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Khirghiz–Central Asia; Bushman–Kalahari; Ainu–Japan; Bedouin–Arab. Code **3 4 1 2**.
+
+</details>
+
+---
+
+**Q-GC17. UPPCS Mains 2014**
+
+Match List-I with List-II (Means in polar areas — Function):
+
+| List-I | List-II |
+|--------|---------|
+| A. Kayak | 1. Boat for transport |
+| B. Inuit | 2. Dog pulled vehicle |
+| C. Umiak | 3. Narrow hunting Boat |
+| D. Sledge | 4. Snow house |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 3 4 1 2
+
+B. 2 1 4 3
+
+C. 1 2 3 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kayak–narrow hunting boat; Inuit–snow house (igloo); Umiak–transport boat; Sledge–dog vehicle. Code **3 4 1 2**. (Inuit is also the people; booklet uses snow-house pairing.)
+
+</details>
+
+---
+
+**Q-GC18. UPPCS Mains 2005**
+
+Match List-I with List-II (Tribe — Country):
+
+| List-I | List-II |
+|--------|---------|
+| A. Bushman | 1. Congo |
+| B. Bedouins | 2. Namibia |
+| C. Pigmies | 3. Saudi Arabia |
+| D. Maasai | 4. Kenya |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 2 3 1 4
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Bushman–Namibia; Bedouin–Saudi; Pygmy–Congo; Maasai–Kenya. Code **2 3 1 4**.
+
+</details>
+
+---
+
+**Q-GC19. UP Lower 2002**
+
+In which dense tropical forest do the Semang tribe live?
+
+A. Amazonia
+
+B. Indonesia
+
+C. Malaysia
+
+D. Congo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Malaysia** / Malay Peninsula.
+
+</details>
+
+---
+
+**Q-GC20. UPPCS Mains 2010**
+
+Which one of the following pairs is not correctly matched?
+
+A. Berber - Morocco
+
+B. Inuits - Canada
+
+C. Semangs - Indonesia
+
+D. Veddas - Sri Lanka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Semang = **Malaysia**, not Indonesia.
+
+</details>
+
+---
+
+**Q-GC21. RAS Pre 1999**
+
+‘Zulu’ is a tribe associated with:
+
+A. New Zealand
+
+B. South Africa
+
+C. Zimbabwe
+
+D. Mexico
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **South Africa**.
+
+</details>
+
+---
+
+**Q-GC22. UP Lower 2008**
+
+Which region of the World, would you associate with "Bushmen"?
+
+A. East Africa
+
+B. Sahara Desert
+
+C. New Zealand
+
+D. Kalahari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Kalahari**.
+
+</details>
+
+---
+
+**Q-GC23. UPPCS Pre 2008**
+
+Which one of the following is correctly matched?
+
+A. Hemites - Uganda
+
+B. Semites - Malaysia
+
+C. Sakai - Sudan
+
+D. Bushmen - Botswana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Bushmen–Botswana** (Kalahari).
+
+</details>
+
+---
+
+**Q-GC24. UPPCS Spl Mains 2004**
+
+Which one of the following is not correctly matched?
+
+A. Central Asia - Alpine
+
+B. Congo basin - Negrito
+
+C. Kalahari - Bushmen
+
+D. Scandinavia - Nordic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Congo Basin = **Pygmy**; Negrito is more SE Asia framing.
+
+</details>
+
+---
+
+**Q-GC25. UP UDA/LDA 2006**
+
+Which of the following is not correctly matched?
+
+A. Kyrgyz - Central Asia
+
+B. Maasai - Western Africa
+
+C. Red Indians - North America
+
+D. Eskimos - Greenland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Maasai = **East** Africa, not West.
+
+</details>
+
+---
+
+**Q-GC26. UP Lower 2009**
+
+Which of the following pairs is not correctly matched?
+
+A. Maori - New Zealand
+
+B. Maasai - Zambia
+
+C. Mayas - Guatemala
+
+D. Bushman - Kalahari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Maasai ≠ **Zambia** (Kenya–Tanzania–E Uganda).
+
+</details>
+
+---
+
+**Q-GC27. UPPCS Mains 2009**
+
+The Inuit people are not found in –
+
+A. Alaska
+
+B. Greenland
+
+C. Canada
+
+D. Sweden
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Inuit = Arctic Americas/Greenland/Russia — **not Sweden**.
+
+</details>
+
+---
+
+**Q-GC28. UPPCS Pre 2012**
+
+Which of the following pairs is not correctly matched?
+
+A. Fulani-West Africa
+
+B. Bantu-Sahara
+
+C. Masai-East Africa
+
+D. Nuba- Sudan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bantu ≠ **Sahara**.
+
+</details>
+
+---
+
+**Q-GC29. UP UDA/LDA Spl Mains 2010**
+
+Which of the following region is famous for ‘Lapps’ Tribe?
+
+A. Alaska
+
+B. Scandinavia
+
+C. Greenland
+
+D. Iceland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Scandinavia** / Fenno-Scandinavia.
+
+</details>
+
+---
+
+**Q-GC30. UPPCS Pre 2015**
+
+To which of the following racial groups the natives of North America belong?
+
+A. Austric
+
+B. Caucasoid
+
+C. Mongoloid
+
+D. Negroid
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Native North Americans = **Mongoloid** framing in older notes.
+
+</details>
+
+---
+
+**Q-GC31. IAS Pre 2000**
+
+Within biological communities, some species are important in determining the ability of a large number of other species to persist in the community. Such species are called:
+
+A. Keystone species
+
+B. Allopatric species
+
+C. Sympatric species
+
+D. Threatened species
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Keystone species**.
+
 </details>
 
 ---

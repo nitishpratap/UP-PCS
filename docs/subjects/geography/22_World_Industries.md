@@ -9,7 +9,7 @@ Location factors | Industrial regions | City–industry pairs | Ports / entrepô
 
 </details>
 
-> **Sources baked in:** Lucent world industry / port / local-wind match-lists; NCERT Class 12 (secondary activities); coaching industrial-region map; UPPCS Prelims 2018–2025
+> **Sources baked in:** **Ghatnachakra** Local Winds (CB–180+) + **Industries** (CB–240+);  Lucent world industry / port / local-wind match-lists; NCERT Class 12 (secondary activities); coaching industrial-region map; UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — city–industry pairs, port–country, Suez facts, Chinook/Foehn, Mistral ≠ Australia, Shamal ≠ Austria; teach full industry + canal + wind map
 > **Last verified:** August 2026 — coaching gap-pass (Japan nicknames, footloose, Silicon Valley, shipbuilding East Asia)
 > **Current Affairs:** none mandatory
@@ -107,6 +107,8 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 ---
 
 ## N.1 Industrial location factors
+
+**Footloose** industries (software, chips, diamond cutting) are not tied to bulky raw materials. Japan steel is largely **market / port-based** (imported ore + coal). Osaka = Manchester of the East (cotton). Aberdeen = oil capital of Europe lore.
 
 **Least-cost idea**
 
@@ -566,6 +568,8 @@ The **Foehn (Föhn)** is the Alpine member.
 
 The **Chinook** is the Rockies member. It is warm **and dry** (the “snow eater”).
 
+**Also ratta:** Harmattan (W Africa “Doctor”); Sirocco (Sahara→Med, blood rain in Italy lore); Simoom (Arabia/Kurdistan); Loo / Kalbaisakhi–Norwesters (India); Black Roller (N America plains).
+
 The **Zonda** is the eastern Andes member in **Argentina**.
 
 The **Berg** wind is the South African member.
@@ -908,6 +912,564 @@ D. 10,000 km
 <summary>Show answer</summary>
 
 **Ans: B**
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Local Winds (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–180+ (local winds). Teaching lives in Topic 22 N.6.
+
+**Q-GC1. IAS 2001**
+
+Match List-I with List-II (Local Wind — Region):
+
+| List-I | List-II |
+|--------|---------|
+| A. Foehn | 1. Argentina |
+| B. Simoom | 2. Kurdistan |
+| C. Santa Ana | 3. California |
+| D. Zonda | 4. Alps |
+
+*Row order is not the answer code.*
+
+**Codes:**
+
+A. 2 4 1 3
+
+B. 4 2 3 1
+
+C. 2 4 3 1
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Foehn–Alps; Simoom–Arabia/Kurdistan; Santa Ana–California; Zonda–Argentina. Code **4 2 3 1**.
+
+</details>
+
+---
+
+**Q-GC2. UP UDA/LDA 2010**
+
+‘Foehn’ is a local wind of –
+
+A. China
+
+B. Korea
+
+C. Japan
+
+D. Switzerland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Foehn = **Alps / Switzerland**.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Pre 2016**
+
+Which one of the following pairs is not correctly matched?
+
+A. Foehn — Alps Mountain
+
+B. Bora — Poland
+
+C. Mistral — Rhine Valley
+
+D. Khamsin — Egypt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bora = **Adriatic / N Italy**, not Poland.
+
+</details>
+
+---
+
+**Q-GC4. UPPCS Pre 2005**
+
+Which one of the following is not correctly matched?
+
+A. Chinook — U.S.A.
+
+B. Sirocco — Sicily
+
+C. Blizzard — Chile
+
+D. Norwesters — India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Blizzard ≠ Chile as the classic match.
+
+</details>
+
+---
+
+**Q-GC5. UP Lower 1998**
+
+Which one of the following locations has “Blood Rain”.
+
+A. Italy
+
+B. France
+
+C. Canada
+
+D. Spain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sirocco dust rain / “blood rain” lore for **Italy**.
+
+</details>
+
+---
+
+**Q-GC6. UPPCS Mains 2013**
+
+Which one of the above pairs is not correctly matched?
+
+1. Sirocco — France
+2. Bora — Italy
+3. Blizzard — Canada
+
+A. 1 only
+
+B. 2 only
+
+C. 2 and 3 only
+
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sirocco is Sahara → Med (**Italy** etc.), not France.
+
+</details>
+
+---
+
+**Q-GC7. Jharkhand PCS 2013**
+
+What is the effect of Chinook winds in the central plains in the USA?
+
+A. Temperature of winter rises
+
+B. Temperature of summer reduces
+
+C. Uniform temperature
+
+D. No effect on temperature
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chinook = warm dry “snow eater” → **winter warming**.
+
+</details>
+
+---
+
+**Q-GC8. UPPCS Pre 2019**
+
+Which of the following is not correctly matched?
+
+A. Santa Ana — California
+
+B. Haboob — Sudan
+
+C. Yamo — Japan
+
+D. Mistral — Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mistral = **France/Spain**, not Australia.
+
+</details>
+
+---
+
+**Q-GC9. UPPCS Pre 2021**
+
+Which one of the following pairs is NOT correctly matched?
+
+A. Leveche — Spain
+
+B. Brickfielder — Australia
+
+C. Black roller — North America
+
+D. Shamal — Austria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Shamal = **Iraq/Arabia**, not Austria.
+
+</details>
+
+---
+
+
+---
+
+## Complete PYQ Bank — Ghatnachakra World Industries (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CB–240+ (city–industry · regions · footloose). Teaching lives in Topic 22 N.1–N.3. Local-wind stems sit in the Local Winds bank above.
+
+**Q-GC1. UPPCS Pre 2011**
+
+Match Hamilton / Birmingham / Essen / Anshan with Canada / UK / Germany / China.
+
+A. 4 3 1 2
+
+B. 2 1 4 3
+
+C. 2 3 4 1
+
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Hamilton–Canada; Birmingham–UK; Essen–Germany; Anshan–China.
+
+</details>
+
+---
+
+**Q-GC2. UPPCS Pre 2005**
+
+Match Pittsburg / Shanghai / Dundee / Leningrad with Iron & Steel / Cotton / Jute / Shipbuilding.
+
+A. 1 2 3 4
+
+B. 4 3 2 1
+
+C. 2 3 4 1
+
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pittsburgh–steel; Shanghai–cotton; Dundee–jute; Leningrad–shipbuilding.
+
+</details>
+
+---
+
+**Q-GC3. UPPCS Pre 1998**
+
+Which of the given is not correctly matched?
+
+A. Detroit — Automobiles
+
+B. Magnitogorsk — Iron and Steel
+
+C. Johannesburg — Gold Mining
+
+D. Birmingham — Shipbuilding
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Birmingham (UK) = **iron & steel**, not shipbuilding.
+
+</details>
+
+---
+
+**Q-GC4. UP GIC 2010**
+
+Which one is not correctly matched?
+
+A. Osaka — Textile
+
+B. Yokohama — Ship building
+
+C. Pittsburgh — Iron and Steel
+
+D. Houston — Automobile
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Houston = **oil/gas**; Detroit = autos.
+
+</details>
+
+---
+
+**Q-GC5. UPPCS Pre 2022**
+
+Match Osaka / Detroit / Cuba / St. Petersburg with cotton / auto / cigar / shipbuilding.
+
+A. 4 3 2 1
+
+B. 3 4 1 2
+
+C. 2 1 4 3
+
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Osaka–cotton; Detroit–auto; Cuba–cigar; St. Petersburg–shipbuilding.
+
+</details>
+
+---
+
+**Q-GC6. UPPCS Pre 1990**
+
+Which city is an important centre for the cotton textile industry?
+
+A. Sheffield
+
+B. Bern
+
+C. Osaka
+
+D. Johannesburg
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Osaka** cotton textiles.
+
+</details>
+
+---
+
+**Q-GC7. UP RO/ARO Pre 2016**
+
+Which shipbuilding centre–state pair is NOT correct?
+
+A. Houston — Texas
+
+B. Sparrows Point — Maryland
+
+C. New Orleans — Louisiana
+
+D. Camden — Florida
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Camden = **New Jersey**, not Florida.
+
+</details>
+
+---
+
+**Q-GC8. UPPCS Pre 2016**
+
+Match Kinki / Canton / Lorraine / Belo Horizonte with Japan / China / France / Brazil.
+
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 3 2 1 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kinki–Japan; Canton–China; Lorraine–France; Belo Horizonte–Brazil.
+
+</details>
+
+---
+
+**Q-GC9. RAS 2016**
+
+Match Lancashire / Ruhr / Keihin / Southern Appalachian with UK / Germany / Japan / USA.
+
+A. iii ii i iv
+
+B. iii iv ii i
+
+C. i ii iii iv
+
+D. iii ii iv i
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Lancashire–UK; Ruhr–Germany; Keihin–Japan; S Appalachian–USA.
+
+</details>
+
+---
+
+**Q-GC10. UP UDA 2013**
+
+Which is an example of 'Footloose' industry?
+
+A. Oil Refinery
+
+B. Sugar
+
+C. Software
+
+D. Aluminium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Software** is footloose.
+
+</details>
+
+---
+
+**Q-GC11. UPPCS Pre 2015**
+
+For which industry is raw-material availability not the primary consideration?
+
+A. Iron and Steel
+
+B. Sugar
+
+C. Electronics
+
+D. Cement
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Electronics**.
+
+</details>
+
+---
+
+**Q-GC12. UPPCS Pre 2017**
+
+Which of the following cities is known as the oil capital of Europe?
+
+A. Belfast
+
+B. Aberdeen
+
+C. Leeds
+
+D. Liverpool
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Aberdeen**.
+
+</details>
+
+---
+
+**Q-GC13. RAS 2018**
+
+Which is not a correct match?
+
+A. Ruhr — Germany
+
+B. Southern New England — United Kingdom
+
+C. Po Valley — Italy
+
+D. Kanto Plains — Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Southern New England = **USA**, not UK.
+
+</details>
+
+---
+
+**Q-GC14. UPPCS Re-Exam 2015**
+
+Which one is not correctly matched?
+
+A. Paper — Ontario
+
+B. Cotton Textiles — Detroit
+
+C. Chemical — Texas
+
+D. Motor Car — Nagoya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Detroit = **autos**, not cotton textiles.
+
+</details>
+
+---
+
+**Q-GC15. IAS 2013**
+
+Bagasse / molasses usefulness:
+
+1. Bagasse as biomass fuel
+2. Molasses as feedstock for synthetic chemical fertilizers
+3. Molasses for ethanol
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1 and 3 true; molasses ≠ fertiliser feedstock in this key.
+
+</details>
+
+---
+
+**Q-GC16. UP UDA 2013 / UPPSC RI 2014**
+
+Which country has market-based locations of iron and steel industries?
+
+A. China / Germany
+
+B. India / England
+
+C. Japan
+
+D. U.K. / India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Japan** steel is classic market/port-based.
 
 </details>
 
