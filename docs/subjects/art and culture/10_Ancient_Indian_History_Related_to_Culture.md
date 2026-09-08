@@ -15,6 +15,20 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| 2025 Q87 | Mandi + Hulas = UP IVC. Rakhigarhi = Haryana | Repeats 2018/2021 site-state trap | UPPCS |
+| 2021 | Dholavira UNESCO WHS | Water architecture of IVC | UNESCO |
+| 2026 | Sarnath UNESCO WHS | Lion Capital / Gupta Buddha site is already the sculpture fact | UNESCO |
+
+No scheme/ministry CA changes the static craft and school lists (verified August 2026).
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. Ancient Indian cultural span runs from **Bhimbetka** rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya**, **Shunga–Kushan**, and **Gupta** (4th–6th century CE).
@@ -1241,18 +1255,6 @@ D. (A) is false, but (R) is true
 **Ans: B.** Both true, different periods. R does not explain A.
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 2025 Q87 | Mandi + Hulas = UP IVC. Rakhigarhi = Haryana | Repeats 2018/2021 site-state trap | UPPCS |
-| 2021 | Dholavira UNESCO WHS | Water architecture of IVC | UNESCO |
-| 2026 | Sarnath UNESCO WHS | Lion Capital / Gupta Buddha site is already the sculpture fact | UNESCO |
-
-No scheme/ministry CA changes the static craft and school lists (verified August 2026).
 
 ---
 

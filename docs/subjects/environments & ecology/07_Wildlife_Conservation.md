@@ -491,6 +491,184 @@ D. October 28
 
 ---
 
+## Extra Drill — Species, Schedules & Institutions (Q31–Q40)
+
+**Logic:** Schedule levels, Indian vs exotic fauna, and institution years are high-yield traps.
+
+**Q31.** If a tortoise is listed under Schedule I of WPA 1972, it implies:
+
+A. It is extinct in the wild
+
+B. It enjoys the same protection level as the tiger
+
+C. It is endemic to one state only
+
+D. It may be hunted as vermin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Schedule I = maximum protection, same band as tiger.
+
+</details>
+
+**Q32.** Schedule VI plant cultivation under WPA:
+
+A. Is allowed freely everywhere
+
+B. Is banned under all circumstances
+
+C. Needs a licence from CWLW / authorised officer
+
+D. Applies only to genetically modified crops
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cultivation of Schedule VI plants needs a licence — not an absolute ban.
+
+</details>
+
+**Q33.** Best place among options to see gharial in natural habitat:
+
+A. Pulicat Lake
+
+B. Deepor Beel
+
+C. Chambal River
+
+D. Bhitarkanika only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chambal / National Chambal Sanctuary; also Girwa–Katarniaghat. IUCN: Critically Endangered.
+
+</details>
+
+**Q34.** Kharai camel — which statements are correct?  
+1. Can swim in seawater  2. Grazes mangroves  3. Cannot be domesticated
+
+A. 1 and 2 only
+
+B. 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kutch swimming camel; domesticated by graziers. Statement 3 is false.
+
+</details>
+
+**Q35.** Which is **not** naturally found in India?
+
+A. Star tortoise
+
+B. Monitor lizard
+
+C. Pygmy hog
+
+D. Spider monkey
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Spider monkeys are Central/South American. Pugmark technique estimates wild populations from footprints.
+
+</details>
+
+**Q36.** Animal Welfare Board of India was established under:
+
+A. Environment (Protection) Act, 1986
+
+B. Prevention of Cruelty to Animals Act, 1960
+
+C. Wildlife (Protection) Act, 1972
+
+D. Biological Diversity Act, 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** AWBI **1962** under PCA **1960**. NTCA is statutory; NGRBA was PM-chaired.
+
+</details>
+
+**Q37.** Symbol of WWF since inception:
+
+A. Tiger
+
+B. Giant Panda
+
+C. Hornbill
+
+D. White Bear
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** *Ailuropoda melanoleuca*; WWF founded **1961**. World Tiger Summit **2010** = Saint Petersburg.
+
+</details>
+
+**Q38.** India’s largest fish among common options:
+
+A. Hilsa
+
+B. Marlin
+
+C. Whale shark
+
+D. Stonefish
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Whale shark; seasonal aggregations off Gujarat; protection push from ~2004.
+
+</details>
+
+**Q39.** Match correctly: Asiatic wild ass — Barasingha — Chinkara — Nilgai
+
+A. Equus hemionus; Cervus/Rucervus duvaucelii; Gazella bennettii; Boselaphus tragocamelus
+
+B. Boselaphus; Equus; Gazella; Cervus
+
+C. Gazella; Equus; Cervus; Boselaphus
+
+D. Cervus; Gazella; Equus; Boselaphus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Keep one name–one sentence locks; do not swap Nilgai with wild ass.
+
+</details>
+
+**Q40.** Community Reserve notification — which is incorrect?
+
+A. Hunting is not allowed
+
+B. People may collect non-timber forest produce
+
+C. Traditional agriculture / jhum continues freely after notification
+
+D. WPA provisions / CWLW authority apply
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** After notification, hunting stops and agriculture/jhum is not allowed; NTFP collection may continue.
+
+</details>
+
+---
+
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questionsQ1.** With reference to wildlife conservation, which statements is/are correct?
@@ -1000,183 +1178,6 @@ D. CPCB
 <details><summary>Show answer</summary>
 
 **Ans: B**
-
-</details>
-
----
-
-## Extra Drill — Species, Schedules & Institutions (Q31–Q40)
-
-**Logic:** Schedule levels, Indian vs exotic fauna, and institution years are high-yield traps.
-
-**Q31.** If a tortoise is listed under Schedule I of WPA 1972, it implies:
-
-A. It is extinct in the wild
-
-B. It enjoys the same protection level as the tiger
-
-C. It is endemic to one state only
-
-D. It may be hunted as vermin
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Schedule I = maximum protection, same band as tiger.
-
-</details>
-
-**Q32.** Schedule VI plant cultivation under WPA:
-
-A. Is allowed freely everywhere
-
-B. Is banned under all circumstances
-
-C. Needs a licence from CWLW / authorised officer
-
-D. Applies only to genetically modified crops
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cultivation of Schedule VI plants needs a licence — not an absolute ban.
-
-</details>
-
-**Q33.** Best place among options to see gharial in natural habitat:
-
-A. Pulicat Lake
-
-B. Deepor Beel
-
-C. Chambal River
-
-D. Bhitarkanika only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Chambal / National Chambal Sanctuary; also Girwa–Katarniaghat. IUCN: Critically Endangered.
-
-</details>
-
-**Q34.** Kharai camel — which statements are correct?  
-1. Can swim in seawater  2. Grazes mangroves  3. Cannot be domesticated
-
-A. 1 and 2 only
-
-B. 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Kutch swimming camel; domesticated by graziers. Statement 3 is false.
-
-</details>
-
-**Q35.** Which is **not** naturally found in India?
-
-A. Star tortoise
-
-B. Monitor lizard
-
-C. Pygmy hog
-
-D. Spider monkey
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Spider monkeys are Central/South American. Pugmark technique estimates wild populations from footprints.
-
-</details>
-
-**Q36.** Animal Welfare Board of India was established under:
-
-A. Environment (Protection) Act, 1986
-
-B. Prevention of Cruelty to Animals Act, 1960
-
-C. Wildlife (Protection) Act, 1972
-
-D. Biological Diversity Act, 2002
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** AWBI **1962** under PCA **1960**. NTCA is statutory; NGRBA was PM-chaired.
-
-</details>
-
-**Q37.** Symbol of WWF since inception:
-
-A. Tiger
-
-B. Giant Panda
-
-C. Hornbill
-
-D. White Bear
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** *Ailuropoda melanoleuca*; WWF founded **1961**. World Tiger Summit **2010** = Saint Petersburg.
-
-</details>
-
-**Q38.** India’s largest fish among common options:
-
-A. Hilsa
-
-B. Marlin
-
-C. Whale shark
-
-D. Stonefish
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Whale shark; seasonal aggregations off Gujarat; protection push from ~2004.
-
-</details>
-
-**Q39.** Match correctly: Asiatic wild ass — Barasingha — Chinkara — Nilgai
-
-A. Equus hemionus; Cervus/Rucervus duvaucelii; Gazella bennettii; Boselaphus tragocamelus
-
-B. Boselaphus; Equus; Gazella; Cervus
-
-C. Gazella; Equus; Cervus; Boselaphus
-
-D. Cervus; Gazella; Equus; Boselaphus
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Keep one name–one sentence locks; do not swap Nilgai with wild ass.
-
-</details>
-
-**Q40.** Community Reserve notification — which is incorrect?
-
-A. Hunting is not allowed
-
-B. People may collect non-timber forest produce
-
-C. Traditional agriculture / jhum continues freely after notification
-
-D. WPA provisions / CWLW authority apply
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** After notification, hunting stops and agriculture/jhum is not allowed; NTFP collection may continue.
 
 </details>
 

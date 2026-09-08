@@ -19,6 +19,41 @@
 
 ---
 
+
+## Current Affairs (Union Executive)
+
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| 2022 | **Droupadi Murmu** elected **15th President** (took office 25 July 2022) | First **tribal** and **second woman** President; youngest to hold the office |
+| 2022 | 16th Vice-President assumed office | VP is ex-officio RS Chairman — election-composition trap |
+
+> **For the aspirant:** verify the **current** President/Vice-President name and the latest Cabinet Committee reshuffle before the — office-holders change.
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** VP college excludes state legislatures — unlike the President’s election.
+
+**Q. UKPCS Prelims 2025, Q116**
+
+Who participates in the election of the Vice-President of India?
+
+A. All the members of both Houses of Parliament
+B. Members of Parliament and State Legislatures
+C. Members of Rajya Sabha only
+D. Members of Lok Sabha only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** Both Houses of Parliament (including nominated members). State Assemblies vote only for the President.
+
+</details>
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Part V, Articles 52–78** cover the Union Executive: **President, Vice-President, Prime Minister, Council of Ministers, and Attorney General**.
@@ -572,39 +607,6 @@ D. 1, 4, 3, 2
 | Bharat Ratna | **7A** — after rank 7 block | Place with rank 1–3 |
 
 > ** note:** Fact **6 = CJI + Speaker**; **11 = AG**; table is **ceremonial**, not constitutional hierarchy. Speaker detail also in **Topic 7 — Parliament**.
-
----
-
-## Current Affairs (Union Executive)
-
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| 2022 | **Droupadi Murmu** elected **15th President** (took office 25 July 2022) | First **tribal** and **second woman** President; youngest to hold the office |
-| 2022 | 16th Vice-President assumed office | VP is ex-officio RS Chairman — election-composition trap |
-
-> **For the aspirant:** verify the **current** President/Vice-President name and the latest Cabinet Committee reshuffle before the — office-holders change.
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** VP college excludes state legislatures — unlike the President’s election.
-
-**Q. UKPCS Prelims 2025, Q116**
-
-Who participates in the election of the Vice-President of India?
-
-A. All the members of both Houses of Parliament
-B. Members of Parliament and State Legislatures
-C. Members of Rajya Sabha only
-D. Members of Lok Sabha only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** Both Houses of Parliament (including nominated members). State Assemblies vote only for the President.
-
-</details>
 
 ---
 

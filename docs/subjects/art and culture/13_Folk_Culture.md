@@ -15,6 +15,19 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **Jan 2025** | **e-Pehchan** portal for handloom workers’ digital IDs | Card name + ministry trap vs 2016 PEHCHAN | Ministry of Textiles |
+| **Dec 2025** | UP **81** GIs (leading state); **445** handicraft GIs India-wide | “Which state leads GI?” / handicraft share | PIB / DPIIT |
+| **7 Aug 2026** | **12th** National Handloom Day; Sant Kabir + National Handloom Awards | Day + award name | PIB / Mo Textiles |
+| **2021–26** | NHDP + RMSS remain the two handloom umbrellas | Scheme-matching | Lok Sabha / Mo Textiles |
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Folk art** is community, oral, and ritual. It is not a Natyashastra classical school like Bharatanatyam or a court Mughal miniature atelier.
@@ -1149,17 +1162,6 @@ D. 1, 2 and 3
 **Ans: A.** Pushkar Fair = **Rajasthan**. Bhadohi = carpets.
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Jan 2025** | **e-Pehchan** portal for handloom workers’ digital IDs | Card name + ministry trap vs 2016 PEHCHAN | Ministry of Textiles |
-| **Dec 2025** | UP **81** GIs (leading state); **445** handicraft GIs India-wide | “Which state leads GI?” / handicraft share | PIB / DPIIT |
-| **7 Aug 2026** | **12th** National Handloom Day; Sant Kabir + National Handloom Awards | Day + award name | PIB / Mo Textiles |
-| **2021–26** | NHDP + RMSS remain the two handloom umbrellas | Scheme-matching | Lok Sabha / Mo Textiles |
 
 ---
 

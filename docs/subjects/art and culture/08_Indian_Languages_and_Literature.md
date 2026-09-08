@@ -15,6 +15,19 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| 3 Oct 2024 | Classical languages become **11** (Marathi, Pali, Prakrit, Assamese, Bengali added) | Count trap vs old “six” | Union Cabinet / PIB |
+| Mar 2024 | Nepal–India Sanskrit Conclave at **Kathmandu**, not Delhi | 2024 Q87 | Neeti Anusandhan Pratisthan |
+
+Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith.
+
+---
+
+
 ## Consolidated — 42 Must-Score Facts
 
 1. **Shruti** is the heard Veda stack of Samhita, Brahmana, Aranyaka, and Upanishad. **Smriti** covers epics, Puranas, Dharmashastra, and related remembered texts.
@@ -1920,17 +1933,6 @@ D. 1, 2 and 3
 **Trap:** Naming Aryabhata alone as the inventor of zero in every stem.
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 3 Oct 2024 | Classical languages become **11** (Marathi, Pali, Prakrit, Assamese, Bengali added) | Count trap vs old “six” | Union Cabinet / PIB |
-| Mar 2024 | Nepal–India Sanskrit Conclave at **Kathmandu**, not Delhi | 2024 Q87 | Neeti Anusandhan Pratisthan |
-
-Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith.
 
 ---
 

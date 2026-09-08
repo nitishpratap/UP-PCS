@@ -19,6 +19,19 @@
 
 ---
 
+
+## Current Affairs
+
+- **2019:** SC strength **34** (CJI + 33).
+- **2019:** AP & Telangana High Courts **split** (1 Jan) — number of HCs = **25**.
+- **2015:** NJAC struck down 4:1; Collegium restored.
+- **2013:** Manipur, Meghalaya, Tripura HCs — newest trio before 2019 split.
+- **2023:Fathima Beevi** died; Mediation Act.
+- **2025:** PIL A/R on rule of law + access to justice.
+
+---
+
+
 ## Consolidated — 30 Must-Score Facts
 
 1. India’s judiciary is **integrated** (one hierarchy from district courts to the Supreme Court) and **independent** (separate from the executive and legislature). The United States uses a **dual** court system; India does not.
@@ -1223,17 +1236,6 @@ A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyay
 **Other facts:** The **Commercial Courts Act, 2015** made **pre-institution mediation** compulsory for specified commercial suits. The **Mediation Act, 2023** enables online and court-annexed mediation. The constitutional hook for all of ADR remains **Art. 39A**.
 
 > ** note:** Arbitration is **adjudicatory**. Mediation / conciliation / regular Lok Adalat are **consensual**. **PLA** is the hybrid that can decide merits. **FTC is not ADR** — it is a regular court on a fast track.
-
----
-
-## Current Affairs
-
-- **2019:** SC strength **34** (CJI + 33).
-- **2019:** AP & Telangana High Courts **split** (1 Jan) — number of HCs = **25**.
-- **2015:** NJAC struck down 4:1; Collegium restored.
-- **2013:** Manipur, Meghalaya, Tripura HCs — newest trio before 2019 split.
-- **2023:Fathima Beevi** died; Mediation Act.
-- **2025:** PIL A/R on rule of law + access to justice.
 
 ---
 

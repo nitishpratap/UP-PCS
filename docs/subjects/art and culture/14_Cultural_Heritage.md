@@ -15,6 +15,46 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **2024** | **Moidams**, Charaideo, Assam — 43rd Indian WHS | Newest-before-Maratha cultural fact | WHC / ASI |
+| **2025** | **Maratha Military Landscapes** — 12 forts, MH + Gingee TN — 44th | Serial fort property; not all in Maharashtra | WHC 47th session |
+| **July 2026** | **Sarnath** inscribed — 45th WHS; UP’s **4th** | UP count trap vs old “only 3” | WHC 48th, Busan |
+| **10 Dec 2025** | **Deepavali** ICH — India’s **16th**; 20.COM at Red Fort, Delhi | Stale “Diwali not listed” trap | UNESCO / Ministry of Culture |
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Kaziranga and Mountain Railways are WHS sites outside Uttarakhand.
+
+**Q. UKPCS Prelims 2025, Q52**
+
+Which of the following UNESCO World Heritage Sites is/are located in Uttarakhand?
+
+A. Valley of Flowers
+B. Kaziranga National Park
+C. Mountain Railways of India
+D. Nanda Devi National Park
+
+A. A only
+B. A and B only
+C. A, B and C only
+D. A and D only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** Valley of Flowers and Nanda Devi form one WHS property in Uttarakhand. Kaziranga is in Assam; Mountain Railways are not in UK.
+
+</details>
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. **Tangible** cultural heritage is a monument or site you can touch. **Intangible** cultural heritage is a living practice or skill you perform.
@@ -1056,44 +1096,6 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A.** Fatehpur Sikri is **cultural**, 1986.
-
-</details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2024** | **Moidams**, Charaideo, Assam — 43rd Indian WHS | Newest-before-Maratha cultural fact | WHC / ASI |
-| **2025** | **Maratha Military Landscapes** — 12 forts, MH + Gingee TN — 44th | Serial fort property; not all in Maharashtra | WHC 47th session |
-| **July 2026** | **Sarnath** inscribed — 45th WHS; UP’s **4th** | UP count trap vs old “only 3” | WHC 48th, Busan |
-| **10 Dec 2025** | **Deepavali** ICH — India’s **16th**; 20.COM at Red Fort, Delhi | Stale “Diwali not listed” trap | UNESCO / Ministry of Culture |
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Kaziranga and Mountain Railways are WHS sites outside Uttarakhand.
-
-**Q. UKPCS Prelims 2025, Q52**
-
-Which of the following UNESCO World Heritage Sites is/are located in Uttarakhand?
-
-A. Valley of Flowers
-B. Kaziranga National Park
-C. Mountain Railways of India
-D. Nanda Devi National Park
-
-A. A only
-B. A and B only
-C. A, B and C only
-D. A and D only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Series B provisional key).** Valley of Flowers and Nanda Devi form one WHS property in Uttarakhand. Kaziranga is in Assam; Mountain Railways are not in UK.
 
 </details>
 

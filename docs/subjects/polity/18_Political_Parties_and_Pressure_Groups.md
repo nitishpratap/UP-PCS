@@ -15,6 +15,17 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 ---
 
+
+## Current Affairs
+
+- **2022** — TDP 1982 → BSP 1984 → SP 1992 → TMC 1998; union–party match.
+- **2023** — CPI **loses** national status; AAP **gains**.
+- **2024** — 6 national parties; BJP 240 → NDA coalition; electoral bonds **struck** (*ADR* Feb 2024 — anonymous party funding gone).
+- **2019** — NPP first NE national party.
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. The Constitution barely names parties. The main hooks are Article **19(1)(c)** (association), the **Tenth Schedule** (defection), and Article **324** (elections). Parties were largely **extra-constitutional** until the **52nd** Amendment.
@@ -372,15 +383,6 @@ D. A-4, B-1, C-2, D-3
 **Ans: D** — only option with BMS = BJP and INTUC = INC. True fact remains **AITUC = CPI**, **CITU = CPI(M)**.
 
 </details>
-
----
-
-## Current Affairs
-
-- **2022** — TDP 1982 → BSP 1984 → SP 1992 → TMC 1998; union–party match.
-- **2023** — CPI **loses** national status; AAP **gains**.
-- **2024** — 6 national parties; BJP 240 → NDA coalition; electoral bonds **struck** (*ADR* Feb 2024 — anonymous party funding gone).
-- **2019** — NPP first NE national party.
 
 ---
 

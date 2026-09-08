@@ -14,6 +14,18 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked |
+|------|------|-----------|
+| **2023** | **Amrit Dharohar Scheme** — wetlands conservation; launched on WED 2023 | Wetlands + governance |
+| **2023** | **National Green Hydrogen Mission** | SD / climate policy overlap |
+| **2019** | **NCAP** — 132 cities; 20–30% PM2.5/PM10 reduction target by 2024 | Urban environment governance |
+
+---
+
+
 ## Consolidated — 29 Must-Score Facts
 
 1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
@@ -491,16 +503,6 @@ D. Both true; R explains A
 **Ans: C** — A is true (Brundtland definition). R is false — Agenda 21 = **Rio 1992**.
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked |
-|------|------|-----------|
-| **2023** | **Amrit Dharohar Scheme** — wetlands conservation; launched on WED 2023 | Wetlands + governance |
-| **2023** | **National Green Hydrogen Mission** | SD / climate policy overlap |
-| **2019** | **NCAP** — 132 cities; 20–30% PM2.5/PM10 reduction target by 2024 | Urban environment governance |
 
 ---
 

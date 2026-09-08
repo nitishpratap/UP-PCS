@@ -17,6 +17,41 @@
 
 ---
 
+
+## Current Affairs
+
+- **2024:18th Lok Sabha** constituted; **Om Birla** re-elected Speaker (Speaker match-lists).
+- **2019–20:104th Amendment** ended Anglo-Indian nomination to LS (and State Assemblies) — Art. 331 / 334 trap.
+- **Frozen:** LS/RS territorial seats frozen till the first census after **2026** (84th / 87th) — delimitation.
+- **2017–:** Union Budget on **1 February**; **Railway Budget merged** with General Budget.
+- **Each year:** Finance Bill to be passed within **75 days** of introduction (Provisional Collection of Taxes).
+- **Convention:** PAC chair from the **Opposition** (since 1967).
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Only one of the four has a constitutional right of audience in Parliament.
+
+**Q. UKPCS Prelims 2025, Q130**
+
+Who among the following officials can be invited to give his opinion in the Parliament?
+
+A. Auditor General
+B. Attorney General
+C. Chief Justice of India
+D. Governor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Attorney General may speak in either House under Article 88 (no vote). CAG reports to Parliament but does not address it this way.
+
+</details>
+
+---
+
+
 ## Consolidated — 30 Must-Score Facts
 
 1. **Article 79**: Parliament of the Union = the **President** + **Rajya Sabha** + **Lok Sabha**. The President is an integral part of Parliament even though he sits in neither House.
@@ -790,39 +825,6 @@ The **Whip** is an **extra-constitutional** party office, not found anywhere in 
 - The **Speaker or Chairman** supervises the Secretariat of his House.
 - The **Secretary-General** of each House is its administrative head and chief adviser on procedure, and he **continues in office** even across a dissolution of the Lok Sabha.
 - Each House also has a **Parliamentary Notice Office**, its own reporters, and a library — the Lok Sabha Secretariat runs the **Parliament Library**.
-
----
-
-## Current Affairs
-
-- **2024:18th Lok Sabha** constituted; **Om Birla** re-elected Speaker (Speaker match-lists).
-- **2019–20:104th Amendment** ended Anglo-Indian nomination to LS (and State Assemblies) — Art. 331 / 334 trap.
-- **Frozen:** LS/RS territorial seats frozen till the first census after **2026** (84th / 87th) — delimitation.
-- **2017–:** Union Budget on **1 February**; **Railway Budget merged** with General Budget.
-- **Each year:** Finance Bill to be passed within **75 days** of introduction (Provisional Collection of Taxes).
-- **Convention:** PAC chair from the **Opposition** (since 1967).
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Only one of the four has a constitutional right of audience in Parliament.
-
-**Q. UKPCS Prelims 2025, Q130**
-
-Who among the following officials can be invited to give his opinion in the Parliament?
-
-A. Auditor General
-B. Attorney General
-C. Chief Justice of India
-D. Governor
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Attorney General may speak in either House under Article 88 (no vote). CAG reports to Parliament but does not address it this way.
-
-</details>
 
 ---
 

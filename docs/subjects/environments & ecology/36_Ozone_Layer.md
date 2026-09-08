@@ -488,6 +488,154 @@ D. Vienna alone banned all CFCs without Montreal schedules
 
 ---
 
+## Extra Drill — Ghatnachakra-pattern (Q31–Q40)
+
+**Logic (set):** Location, measurement, ODS identity, Antarctic chemistry, treaties, and UV harm.
+
+**Q31.** Ozone layer absorbing UV exists mainly in the:
+
+A. Mesosphere  
+B. Troposphere  
+C. Stratosphere  
+D. Thermosphere  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** About **90%** of ozone is stratospheric.
+
+</details>
+
+**Q32.** Stratospheric ozone is naturally regulated in large part by:
+
+A. Nitrous oxide only  
+B. Nitrogen dioxide  
+C. CFC alone as a natural regulator  
+D. Water vapour alone  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **NO₂** helps regulate stratospheric ozone chemically.
+
+</details>
+
+**Q33.** Which statement about Dobson Unit is correct?
+
+A. It measures ground-level ppm of ozone pollution only  
+B. 1 DU ≈ 0.01 mm pure ozone at 0°C and 1 atm  
+C. Hole threshold is always 500 DU  
+D. It measures only UV-A  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Column measure; hole often **< 220 DU**.
+
+</details>
+
+**Q34.** Which is **NOT** correctly matched?
+
+A. Renneting — Cheese  
+B. Golden rice — Vitamin A  
+C. Genetic engineering — Plasmids  
+D. Ozone layer — Troposphere  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ozone layer = **stratosphere**.
+
+</details>
+
+**Q35.** Antarctic ozone-hole chemistry is best linked to:
+
+A. Tropospheric turbulence only  
+B. Polar front + stratospheric clouds + CFCs  
+C. Absence of polar front and PSCs  
+D. Warm polar midsummer only  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** PSC chlorine activation + vortex isolation.
+
+</details>
+
+**Q36.** Who discovered the Antarctic ozone hole reported in 1985?
+
+A. Russian team only  
+B. German team only  
+C. American team only  
+D. British team (Farman et al.)  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Farman, Gardiner, Shanklin — *Nature* 1985.
+
+</details>
+
+**Q37.** ‘Ozone halo’ over the Tibetan Plateau (2005) is linked to work led by:
+
+A. M. Molina alone  
+B. Joseph Farman alone  
+C. G.W. Kent Moore  
+D. Marcus Rex alone  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** University of Toronto team led by **Kent Moore**.
+
+</details>
+
+**Q38.** Montreal Protocol entered into force on:
+
+A. 16 September 1987 only as force date  
+B. 1 January 1989  
+C. 1 January 1992  
+D. 16 February 2005  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Signed **16 Sep 1987**; force **1 Jan 1989**.
+
+</details>
+
+**Q39.** Harmful UV reaching the surface mainly raises risk of:
+
+A. Liver cancer  
+B. Brain cancer  
+C. Oral cancer  
+D. Skin cancer  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** UV-B exposure → **skin cancer** (classic key).
+
+</details>
+
+**Q40.** Assertion (A): Stratospheric ozone is essential for biotic life.  
+Reason (R): The ozone layer protects Earth’s surface from high-energy UV radiation.
+
+A. Both true; R explains A  
+B. Both true; R does not explain A  
+C. A true; R false  
+D. A false; R true  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests “good ozone” necessity; R tests the UV-shield mechanism (not ground-level toxicity).
+
+**Ans: A**
+
+</details>
+
+
 ## Practice Zone
 
 **Q1.** Protective ozone layer is in the:
@@ -819,149 +967,3 @@ Options: A. Ozone=stratosphere; hole<220 DU Antarctic spring; Montreal=ODS; Vien
 
 ---
 
-## Extra Drill — Ghatnachakra-pattern (Q31–Q40)
-
-**Logic (set):** Location, measurement, ODS identity, Antarctic chemistry, treaties, and UV harm.
-
-**Q31.** Ozone layer absorbing UV exists mainly in the:
-
-A. Mesosphere  
-B. Troposphere  
-C. Stratosphere  
-D. Thermosphere  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** About **90%** of ozone is stratospheric.
-
-</details>
-
-**Q32.** Stratospheric ozone is naturally regulated in large part by:
-
-A. Nitrous oxide only  
-B. Nitrogen dioxide  
-C. CFC alone as a natural regulator  
-D. Water vapour alone  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **NO₂** helps regulate stratospheric ozone chemically.
-
-</details>
-
-**Q33.** Which statement about Dobson Unit is correct?
-
-A. It measures ground-level ppm of ozone pollution only  
-B. 1 DU ≈ 0.01 mm pure ozone at 0°C and 1 atm  
-C. Hole threshold is always 500 DU  
-D. It measures only UV-A  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Column measure; hole often **< 220 DU**.
-
-</details>
-
-**Q34.** Which is **NOT** correctly matched?
-
-A. Renneting — Cheese  
-B. Golden rice — Vitamin A  
-C. Genetic engineering — Plasmids  
-D. Ozone layer — Troposphere  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Ozone layer = **stratosphere**.
-
-</details>
-
-**Q35.** Antarctic ozone-hole chemistry is best linked to:
-
-A. Tropospheric turbulence only  
-B. Polar front + stratospheric clouds + CFCs  
-C. Absence of polar front and PSCs  
-D. Warm polar midsummer only  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** PSC chlorine activation + vortex isolation.
-
-</details>
-
-**Q36.** Who discovered the Antarctic ozone hole reported in 1985?
-
-A. Russian team only  
-B. German team only  
-C. American team only  
-D. British team (Farman et al.)  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Farman, Gardiner, Shanklin — *Nature* 1985.
-
-</details>
-
-**Q37.** ‘Ozone halo’ over the Tibetan Plateau (2005) is linked to work led by:
-
-A. M. Molina alone  
-B. Joseph Farman alone  
-C. G.W. Kent Moore  
-D. Marcus Rex alone  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** University of Toronto team led by **Kent Moore**.
-
-</details>
-
-**Q38.** Montreal Protocol entered into force on:
-
-A. 16 September 1987 only as force date  
-B. 1 January 1989  
-C. 1 January 1992  
-D. 16 February 2005  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Signed **16 Sep 1987**; force **1 Jan 1989**.
-
-</details>
-
-**Q39.** Harmful UV reaching the surface mainly raises risk of:
-
-A. Liver cancer  
-B. Brain cancer  
-C. Oral cancer  
-D. Skin cancer  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** UV-B exposure → **skin cancer** (classic key).
-
-</details>
-
-**Q40.** Assertion (A): Stratospheric ozone is essential for biotic life.  
-Reason (R): The ozone layer protects Earth’s surface from high-energy UV radiation.
-
-A. Both true; R explains A  
-B. Both true; R does not explain A  
-C. A true; R false  
-D. A false; R true  
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests “good ozone” necessity; R tests the UV-shield mechanism (not ground-level toxicity).
-
-**Ans: A**
-
-</details>

@@ -608,6 +608,183 @@ D. Interlinking of Himalayan rivers
 
 ---
 
+## Extra Drill (Ghatnachakra Water Resources map)
+
+**Logic:** Bank traps on biotic vs freshwater, NWM scope, disinfection, lakes, Ganga institutions, and personalities.
+
+**Q31.** Which is not a biotic resource?
+
+A. Coal
+
+B. Petroleum
+
+C. Fish
+
+D. Freshwater
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Freshwater is abiotic; coal/petroleum counted biotic via organic origin.
+
+</details>
+
+**Q32.** ‘Jal Purush’ / Waterman of India is—
+
+A. Sunderlal Bahuguna
+
+B. Rajendra Singh (Tarun Bharat Sangh)
+
+C. Salim Ali
+
+D. Medha Patkar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Magsaysay 2001; Stockholm Water Prize 2015.
+
+</details>
+
+**Q33.** National Water Mission correctly includes—
+
+A. Only full Himalaya–peninsula river linking as a core goal
+
+B. Wastewater recycling for urban needs and +20% water-use efficiency framing
+
+C. Full reimbursement of all farmer borewell costs nationwide
+
+D. Only ozone treaty compliance
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1–2 of the classic UPSC NWM stem; 3–4 false.
+
+</details>
+
+**Q34.** UV in water purification primarily—
+
+A. Removes all odours and settles all turbidity
+
+B. Inactivates/kills harmful microorganisms without changing taste/odour
+
+C. Adds chlorine taste deliberately
+
+D. Only measures BOD
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only the microbial-kill claim is correct among the three UPSC statements.
+
+</details>
+
+**Q35.** NLCP urban lakes set correctly excludes—
+
+A. Bhoj (MP)
+
+B. Sukhna (Chandigarh)
+
+C. Pichola (Rajasthan)
+
+D. Chilika (Odisha)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Chilika is not under the NLCP list in bank teaching.
+
+</details>
+
+**Q36.** NGRBA was constituted in—
+
+A. 1985
+
+B. February 2009 under EPA; PM is chair
+
+C. 2014 only as Namami Gange rename
+
+D. 1974 Water Act alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Basin planning authority; chair is not rotating CM.
+
+</details>
+
+**Q37.** Yamuna Action Plan was formally launched in—
+
+A. 1985
+
+B. 1993
+
+C. 2014
+
+D. 2009
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** YAP-III (2016) sits under Namami Gange.
+
+</details>
+
+**Q38.** National Aquatic Animal of India—
+
+A. Saltwater crocodile
+
+B. Ganges River Dolphin (2009)
+
+C. Olive Ridley only
+
+D. Gharial only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** *Platanista gangetica*; dams/nets/chemicals threaten populations.
+
+</details>
+
+**Q39.** CGWA was formed under—
+
+A. Wildlife Act 1972 only
+
+B. Environment (Protection) Act, 1986
+
+C. Forest Act 1927 only
+
+D. Montreal Protocol
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Regulatory groundwater authority — not the same as CGWB.
+
+</details>
+
+**Q40.** Lisbon Declaration headlines are associated with—
+
+A. Air quality only
+
+B. Mountains only
+
+C. Oceans
+
+D. Freshwater glaciers only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** UN Ocean Conference framing — marine/coastal protection.
+
+</details>
+
+---
+
+
 ## Practice Zone
 
 **Q1.** Descending world water: Oceans, Ice, Groundwater, Rivers is coded:
@@ -910,182 +1087,6 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A fals
 **Ans: C** — A false (rivers tiny); R true.
 
 </details>
-
-### Extra Drill (Ghatnachakra Water Resources map)
-
-**Logic:** Bank traps on biotic vs freshwater, NWM scope, disinfection, lakes, Ganga institutions, and personalities.
-
-**Q31.** Which is not a biotic resource?
-
-A. Coal
-
-B. Petroleum
-
-C. Fish
-
-D. Freshwater
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Freshwater is abiotic; coal/petroleum counted biotic via organic origin.
-
-</details>
-
-**Q32.** ‘Jal Purush’ / Waterman of India is—
-
-A. Sunderlal Bahuguna
-
-B. Rajendra Singh (Tarun Bharat Sangh)
-
-C. Salim Ali
-
-D. Medha Patkar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Magsaysay 2001; Stockholm Water Prize 2015.
-
-</details>
-
-**Q33.** National Water Mission correctly includes—
-
-A. Only full Himalaya–peninsula river linking as a core goal
-
-B. Wastewater recycling for urban needs and +20% water-use efficiency framing
-
-C. Full reimbursement of all farmer borewell costs nationwide
-
-D. Only ozone treaty compliance
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1–2 of the classic UPSC NWM stem; 3–4 false.
-
-</details>
-
-**Q34.** UV in water purification primarily—
-
-A. Removes all odours and settles all turbidity
-
-B. Inactivates/kills harmful microorganisms without changing taste/odour
-
-C. Adds chlorine taste deliberately
-
-D. Only measures BOD
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only the microbial-kill claim is correct among the three UPSC statements.
-
-</details>
-
-**Q35.** NLCP urban lakes set correctly excludes—
-
-A. Bhoj (MP)
-
-B. Sukhna (Chandigarh)
-
-C. Pichola (Rajasthan)
-
-D. Chilika (Odisha)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Chilika is not under the NLCP list in bank teaching.
-
-</details>
-
-**Q36.** NGRBA was constituted in—
-
-A. 1985
-
-B. February 2009 under EPA; PM is chair
-
-C. 2014 only as Namami Gange rename
-
-D. 1974 Water Act alone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Basin planning authority; chair is not rotating CM.
-
-</details>
-
-**Q37.** Yamuna Action Plan was formally launched in—
-
-A. 1985
-
-B. 1993
-
-C. 2014
-
-D. 2009
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** YAP-III (2016) sits under Namami Gange.
-
-</details>
-
-**Q38.** National Aquatic Animal of India—
-
-A. Saltwater crocodile
-
-B. Ganges River Dolphin (2009)
-
-C. Olive Ridley only
-
-D. Gharial only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** *Platanista gangetica*; dams/nets/chemicals threaten populations.
-
-</details>
-
-**Q39.** CGWA was formed under—
-
-A. Wildlife Act 1972 only
-
-B. Environment (Protection) Act, 1986
-
-C. Forest Act 1927 only
-
-D. Montreal Protocol
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Regulatory groundwater authority — not the same as CGWB.
-
-</details>
-
-**Q40.** Lisbon Declaration headlines are associated with—
-
-A. Air quality only
-
-B. Mountains only
-
-C. Oceans
-
-D. Freshwater glaciers only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** UN Ocean Conference framing — marine/coastal protection.
-
-</details>
-
----
 
 ## Common Traps
 

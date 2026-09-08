@@ -15,6 +15,46 @@ India’s Foreign Policy | Panchsheel | Non-Alignment | NAM | UNSC | Global Secu
 
 ---
 
+
+## Current Affairs (what the year actually tests)
+
+Newest first. One event, one fact.
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
+| **2024** | BRICS adds **Egypt, Ethiopia, Iran, UAE** (Saudi invited) | Original 5 still in; this is **expansion**, not a UN organ |
+| **2024** | **Belarus** joins SCO | After **Iran 2023**. RATS still **Tashkent** |
+| **2024** | 19th NAM Summit at **Kampala, Uganda** | NAM is **alive**; India attends; it is still **not** NATO |
+| **2024** | **Sweden** joins NATO (Finland was **2023**) | NATO membership **32**. India still **out** |
+| **2023** | G20 New Delhi Summit **9–10 Sep**; **AU** admitted as a member | India president **Dec 2022–Nov 2023**. Logo = lotus, **7 petals = 7 continents** |
+| **2023** | G20 working meetings in UP: **Agra, Varanasi, Greater Noida, Lucknow** | **Kanpur was not** a venue (2023 paper) |
+| **2023** | SCO Film Festival **Mumbai** during India’s SCO chair | India chaired SCO **2022–23**; festival **does** show member films |
+| **2023** | **Iran** becomes SCO member | India+Pak were **2017**; Iran is later |
+| **2022** | WHO Global Centre for Traditional Medicine at **Jamnagar** | Not Haridwar, not Jaffna, not Johannesburg (2022 paper) |
+| **2022** | 5th BIMSTEC Summit, **Colombo, 30 Mar** | Chair = **Sri Lanka**, not India. Modi **did** address it |
+| **2022** | India’s elected UNSC term **2021–22** ends | 8th elected term. India is **not** P5 |
+| **2021** | G7 Cornwall, **UK chair**; India invited as guest | India is **not** G7. Brazil was **not** the guest in that stem |
+| **2021** | **AUKUS** announced; Quad Leaders’ summit | AUKUS = AUS–UK–US. Quad **includes India** |
+| **2021** | Vaccine Maitri | Outreach colour under “India FP”, not a Charter article |
+| **2020** | EAS 2020 host = **Vietnam**, not Singapore | India **is** in EAS. Match-the-summit papers lie on the city |
+| **2020** | **BECA** signed with the US | Last of the four foundational pacts. **Not** NATO membership |
+| **2019** | India walks out of **RCEP** | Still Act East / ASEAN dialogue partner |
+| **2019** | Jaishankar at **OIC** (Abu Dhabi) as guest | **Guest ≠ member**. India is **not** in the OIC |
+| **2018** | 10th BRICS Summit **Johannesburg** | Host = **South Africa** (2018 paper) |
+| **2018** | **COMCASA** | Comms pact with US — not a base treaty |
+| **2017** | India + Pakistan join **SCO** | SCO is **not** NATO and **not** SAARC |
+| **2017** | **Jeddah Amendment** to the Djibouti Code | Piracy code **widened** to other maritime crime |
+| **2016** | **LEMOA** | Logistics access, not a foreign military base |
+| **2015** | **SAGAR** coined (Mauritius); **NDB** Shanghai | SAGAR = India’s phrase. NDB = BRICS bank, **not** IMF |
+| **2014** | Act East at ASEAN; last SAARC summit **Kathmandu** | Look East **upgraded**. SAARC leaders’ track **stalls** |
+| **2011** | Obama “pivot to Asia” | US FP turn the paper still uses |
+| **2008** | **123 Agreement** + **NSG waiver** | Civil nuclear with US; India still **outside NPT** |
+| **1971** | PRC takes UN China seat (Res. **2758**) | India voted **for** PRC. ROC/Taiwan out of the UN seat |
+| **1950** | Uniting for Peace **377(V)** | GA can *recommend* if the veto kills the Council |
+
+---
+
+
 ## Consolidated — 32 Must-Score Facts
 
 1. India’s foreign policy rests on **independent judgment** — historically called non-alignment and later strategic autonomy. It is **not** isolation and was **not** joining a US or USSR military camp in the Cold War textbook sense.
@@ -629,44 +669,6 @@ D. Neither
 - **OECD (1961)** — HQ **Paris**. Rich-country policy club (~38). **India is not a member** (Key Partner). “Great Reset” 2021 paper = **WEF**, not OECD
 
 > ** note:** India is **out** of APEC and OECD; **in** G20.
-
----
-
-## Current Affairs (what the year actually tests)
-
-Newest first. One event, one fact.
-
-| Year | What happened | What you mark |
-|------|-----------------|---------------|
-| **2024** | BRICS adds **Egypt, Ethiopia, Iran, UAE** (Saudi invited) | Original 5 still in; this is **expansion**, not a UN organ |
-| **2024** | **Belarus** joins SCO | After **Iran 2023**. RATS still **Tashkent** |
-| **2024** | 19th NAM Summit at **Kampala, Uganda** | NAM is **alive**; India attends; it is still **not** NATO |
-| **2024** | **Sweden** joins NATO (Finland was **2023**) | NATO membership **32**. India still **out** |
-| **2023** | G20 New Delhi Summit **9–10 Sep**; **AU** admitted as a member | India president **Dec 2022–Nov 2023**. Logo = lotus, **7 petals = 7 continents** |
-| **2023** | G20 working meetings in UP: **Agra, Varanasi, Greater Noida, Lucknow** | **Kanpur was not** a venue (2023 paper) |
-| **2023** | SCO Film Festival **Mumbai** during India’s SCO chair | India chaired SCO **2022–23**; festival **does** show member films |
-| **2023** | **Iran** becomes SCO member | India+Pak were **2017**; Iran is later |
-| **2022** | WHO Global Centre for Traditional Medicine at **Jamnagar** | Not Haridwar, not Jaffna, not Johannesburg (2022 paper) |
-| **2022** | 5th BIMSTEC Summit, **Colombo, 30 Mar** | Chair = **Sri Lanka**, not India. Modi **did** address it |
-| **2022** | India’s elected UNSC term **2021–22** ends | 8th elected term. India is **not** P5 |
-| **2021** | G7 Cornwall, **UK chair**; India invited as guest | India is **not** G7. Brazil was **not** the guest in that stem |
-| **2021** | **AUKUS** announced; Quad Leaders’ summit | AUKUS = AUS–UK–US. Quad **includes India** |
-| **2021** | Vaccine Maitri | Outreach colour under “India FP”, not a Charter article |
-| **2020** | EAS 2020 host = **Vietnam**, not Singapore | India **is** in EAS. Match-the-summit papers lie on the city |
-| **2020** | **BECA** signed with the US | Last of the four foundational pacts. **Not** NATO membership |
-| **2019** | India walks out of **RCEP** | Still Act East / ASEAN dialogue partner |
-| **2019** | Jaishankar at **OIC** (Abu Dhabi) as guest | **Guest ≠ member**. India is **not** in the OIC |
-| **2018** | 10th BRICS Summit **Johannesburg** | Host = **South Africa** (2018 paper) |
-| **2018** | **COMCASA** | Comms pact with US — not a base treaty |
-| **2017** | India + Pakistan join **SCO** | SCO is **not** NATO and **not** SAARC |
-| **2017** | **Jeddah Amendment** to the Djibouti Code | Piracy code **widened** to other maritime crime |
-| **2016** | **LEMOA** | Logistics access, not a foreign military base |
-| **2015** | **SAGAR** coined (Mauritius); **NDB** Shanghai | SAGAR = India’s phrase. NDB = BRICS bank, **not** IMF |
-| **2014** | Act East at ASEAN; last SAARC summit **Kathmandu** | Look East **upgraded**. SAARC leaders’ track **stalls** |
-| **2011** | Obama “pivot to Asia” | US FP turn the paper still uses |
-| **2008** | **123 Agreement** + **NSG waiver** | Civil nuclear with US; India still **outside NPT** |
-| **1971** | PRC takes UN China seat (Res. **2758**) | India voted **for** PRC. ROC/Taiwan out of the UN seat |
-| **1950** | Uniting for Peace **377(V)** | GA can *recommend* if the veto kills the Council |
 
 ---
 

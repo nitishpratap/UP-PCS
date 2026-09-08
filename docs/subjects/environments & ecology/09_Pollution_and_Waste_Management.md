@@ -675,6 +675,183 @@ D. 5th
 
 ---
 
+## Extra Drill (Ghatnachakra Pollution chapter)
+
+**Logic:** Bank stems on types, diseases, disasters, standards, and remediation so the chapter dump is absorbed.
+
+**Q31.** Anthropogenic pollution mainly raises—
+
+A. Only always instantly biodegradable gases
+
+B. Often persistent non-biodegradable pollutant loads
+
+C. Only pure rainwater
+
+D. Only stratospheric ozone repair
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Human-driven pollution often adds slow/non-biodegradable loads.
+
+</details>
+
+**Q32.** Secondary pollutants include—
+
+A. Only stack CO emitted directly
+
+B. Ozone, PAN, and photochemical smog
+
+C. Only elemental nitrogen in air always
+
+D. Only pure argon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Formed in the atmosphere from primary reactants + sunlight/chemistry.
+
+</details>
+
+**Q33.** CO binds haemoglobin relative to oxygen—
+
+A. Weaker always
+
+B. About 200–300 times more strongly
+
+C. Never binds
+
+D. Only binds calcium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Forms carboxyhaemoglobin and cuts O₂ delivery.
+
+</details>
+
+**Q34.** Bhopal Gas Tragedy gas / year—
+
+A. SO₂ in 1974
+
+B. Methyl isocyanate (MIC), 2–3 December 1984
+
+C. Only methane in 1991
+
+D. Only CO₂ in 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Union Carbide pesticide plant, Bhopal.
+
+</details>
+
+**Q35.** Chernobyl is related to—
+
+A. Only acid rain in Manchester
+
+B. Nuclear accident (1986, Ukraine / then USSR)
+
+C. Only noise Rules 2000
+
+D. Only SUP ban 2022
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Classic radioactive pollution disaster teaching case.
+
+</details>
+
+**Q36.** Green muffler is for—
+
+A. Only soil fertility
+
+B. Noise pollution control by planting tree belts
+
+C. Only nuclear shielding
+
+D. Only coral bleaching
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Multi-row greenery absorbs sound (and dust).
+
+</details>
+
+**Q37.** Ocean acidification mainly harms—
+
+A. Only cloud seeding machines
+
+B. Calcareous phytoplankton, coral reefs, and some planktonic larvae stages
+
+C. Only Himalayan snowmelt volume always
+
+D. Only desert sand dunes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Falling ocean pH from CO₂ uptake — not the cloud-seeding option.
+
+</details>
+
+**Q38.** Microbeads concern—
+
+A. Mainly skin cancer in children as the bank key
+
+B. Harmful to marine ecosystems
+
+C. Only tiger census
+
+D. Only Ramsar birds
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tiny plastic beads enter marine food webs.
+
+</details>
+
+**Q39.** Euro-II ultra-low sulphur diesel sulphur content—
+
+A. About 20% sulphur mandatory
+
+B. ≤0.05% (or less)
+
+C. Exactly 50% always
+
+D. Zero relevance to Euro norms
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sulphur limit for Euro-II ultra-low sulphur diesel teaching.
+
+</details>
+
+**Q40.** Correct disease match—
+
+A. Minamata–Hg; Itai-itai–Cd; Knock-knee–fluoride; Black Foot–arsenic
+
+B. Minamata–fluoride; Knock-knee–ozone only
+
+C. All diseases = only noise
+
+D. All diseases = only SO₂ smell
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Standard pollution–disease pairs for prelims.
+
+</details>
+
+---
+
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questionsQ1.** With reference to pollution, which statements is/are correct?
@@ -1173,182 +1350,6 @@ D. Alpine degradation
 **Ans: B**
 
 </details>
-
-### Extra Drill (Ghatnachakra Pollution chapter)
-
-**Logic:** Bank stems on types, diseases, disasters, standards, and remediation so the chapter dump is absorbed.
-
-**Q31.** Anthropogenic pollution mainly raises—
-
-A. Only always instantly biodegradable gases
-
-B. Often persistent non-biodegradable pollutant loads
-
-C. Only pure rainwater
-
-D. Only stratospheric ozone repair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Human-driven pollution often adds slow/non-biodegradable loads.
-
-</details>
-
-**Q32.** Secondary pollutants include—
-
-A. Only stack CO emitted directly
-
-B. Ozone, PAN, and photochemical smog
-
-C. Only elemental nitrogen in air always
-
-D. Only pure argon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Formed in the atmosphere from primary reactants + sunlight/chemistry.
-
-</details>
-
-**Q33.** CO binds haemoglobin relative to oxygen—
-
-A. Weaker always
-
-B. About 200–300 times more strongly
-
-C. Never binds
-
-D. Only binds calcium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Forms carboxyhaemoglobin and cuts O₂ delivery.
-
-</details>
-
-**Q34.** Bhopal Gas Tragedy gas / year—
-
-A. SO₂ in 1974
-
-B. Methyl isocyanate (MIC), 2–3 December 1984
-
-C. Only methane in 1991
-
-D. Only CO₂ in 2000
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Union Carbide pesticide plant, Bhopal.
-
-</details>
-
-**Q35.** Chernobyl is related to—
-
-A. Only acid rain in Manchester
-
-B. Nuclear accident (1986, Ukraine / then USSR)
-
-C. Only noise Rules 2000
-
-D. Only SUP ban 2022
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Classic radioactive pollution disaster teaching case.
-
-</details>
-
-**Q36.** Green muffler is for—
-
-A. Only soil fertility
-
-B. Noise pollution control by planting tree belts
-
-C. Only nuclear shielding
-
-D. Only coral bleaching
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Multi-row greenery absorbs sound (and dust).
-
-</details>
-
-**Q37.** Ocean acidification mainly harms—
-
-A. Only cloud seeding machines
-
-B. Calcareous phytoplankton, coral reefs, and some planktonic larvae stages
-
-C. Only Himalayan snowmelt volume always
-
-D. Only desert sand dunes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Falling ocean pH from CO₂ uptake — not the cloud-seeding option.
-
-</details>
-
-**Q38.** Microbeads concern—
-
-A. Mainly skin cancer in children as the bank key
-
-B. Harmful to marine ecosystems
-
-C. Only tiger census
-
-D. Only Ramsar birds
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Tiny plastic beads enter marine food webs.
-
-</details>
-
-**Q39.** Euro-II ultra-low sulphur diesel sulphur content—
-
-A. About 20% sulphur mandatory
-
-B. ≤0.05% (or less)
-
-C. Exactly 50% always
-
-D. Zero relevance to Euro norms
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Sulphur limit for Euro-II ultra-low sulphur diesel teaching.
-
-</details>
-
-**Q40.** Correct disease match—
-
-A. Minamata–Hg; Itai-itai–Cd; Knock-knee–fluoride; Black Foot–arsenic
-
-B. Minamata–fluoride; Knock-knee–ozone only
-
-C. All diseases = only noise
-
-D. All diseases = only SO₂ smell
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Standard pollution–disease pairs for prelims.
-
-</details>
-
----
 
 ## Mains Answer Framework
 

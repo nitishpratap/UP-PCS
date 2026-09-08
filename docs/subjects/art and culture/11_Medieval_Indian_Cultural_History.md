@@ -15,6 +15,19 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| 2025 paper | Four Mughal tomb-city pairs + Buland Darwaza + Turki/Persian + Khalsa/Jagir | Fresh statement forms of static facts | UPPCS 2025 |
+| Standing | Fatehpur Sikri / Taj / Humayun’s Tomb UNESCO | Monument identity, not a new style | UNESCO |
+
+No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad**. **Akbar** built the **kitabkhana** and the illustrated **Razmnama**. **Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
@@ -1569,17 +1582,6 @@ D. 1, 2 and 3
 **Ans: A.** Babur = Kabul. Humayun = Delhi.
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 2025 paper | Four Mughal tomb-city pairs + Buland Darwaza + Turki/Persian + Khalsa/Jagir | Fresh statement forms of static facts | UPPCS 2025 |
-| Standing | Fatehpur Sikri / Taj / Humayun’s Tomb UNESCO | Monument identity, not a new style | UNESCO |
-
-No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ---
 

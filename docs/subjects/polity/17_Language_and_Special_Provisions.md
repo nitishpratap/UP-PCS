@@ -15,6 +15,22 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 
 ---
 
+
+## Current Affairs
+
+- **2025** — Bhojpuri **not** in 8th; Nepali/Dogri/Bodo **are**.
+- **2024** — 350B ≠ per State; ≠ 9th Amd; classical = **11** (3 Oct Cabinet); J&K Assembly polls; Ladakh 6th-Schedule demand pending.
+- **2023** — English initially **15 years**; OL = Part **XVII**; SC upholds 370 orders; Part X = Scheduled/Tribal Areas.
+- **2011** — 96th: Oriya → **Odia**.
+- **1987** — **58th / 394A** Hindi authoritative text.
+- **1949** — Hindi Diwas **14 Sep** (Munshi–Ayyangar).
+- **2019** — 370 inoperative; J&K + Ladakh UTs **31 Oct**.
+- **2020** — 371J = Hyderabad-Karnataka.
+- **2022** — PESA year **1996**.
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. Part **XVII** (Arts. **343–351**) deals with official language. The Constitution **never** names a **national language**.
@@ -552,20 +568,6 @@ D. 1993
 | Who is boss | **Governor** + President | **ADC** + Governor’s overlay |
 | PESA | **Yes (1996)** | **No** |
 | 73rd auto-apply | No (needs PESA) | No (**243M**) |
-
----
-
-## Current Affairs
-
-- **2025** — Bhojpuri **not** in 8th; Nepali/Dogri/Bodo **are**.
-- **2024** — 350B ≠ per State; ≠ 9th Amd; classical = **11** (3 Oct Cabinet); J&K Assembly polls; Ladakh 6th-Schedule demand pending.
-- **2023** — English initially **15 years**; OL = Part **XVII**; SC upholds 370 orders; Part X = Scheduled/Tribal Areas.
-- **2011** — 96th: Oriya → **Odia**.
-- **1987** — **58th / 394A** Hindi authoritative text.
-- **1949** — Hindi Diwas **14 Sep** (Munshi–Ayyangar).
-- **2019** — 370 inoperative; J&K + Ladakh UTs **31 Oct**.
-- **2020** — 371J = Hyderabad-Karnataka.
-- **2022** — PESA year **1996**.
 
 ---
 

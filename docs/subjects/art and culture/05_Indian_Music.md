@@ -15,6 +15,19 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| Dec 2024 | Ustad **Zakir Hussain** died (tabla). Padma Vibhushan 2023. | Personality + instrument match | Family/press, 15 Dec 2024 |
+| 1952 / standing | Sangeet Natak Akademi | Body year if mixed with musicians | SNA 1952, New Delhi |
+
+Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **Sangeet** means **gita** (vocal) + **vadya** (instrumental) + **nritya** (dance). The earliest chant fact is the **Samaveda**.
@@ -1192,17 +1205,6 @@ D. Niyamat Khan Sadarang — Carnatic Pancharatna
 **Ans: D.**
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| Dec 2024 | Ustad **Zakir Hussain** died (tabla). Padma Vibhushan 2023. | Personality + instrument match | Family/press, 15 Dec 2024 |
-| 1952 / standing | Sangeet Natak Akademi | Body year if mixed with musicians | SNA 1952, New Delhi |
-
-Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ---
 

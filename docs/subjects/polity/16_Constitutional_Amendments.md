@@ -15,6 +15,59 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 
 ---
 
+
+## Current Affairs
+
+- **2025** — 42nd Preamble = Socialist + Secular (direct).
+- **2024** — Kesavananda chronology; 42nd = **1976**; GST = **101st**; local bodies = **73rd+74th**.
+- **2021** — Golaknath → 24th → Kesavananda → 42nd (order trap); *Rajendra N. Shah* — 97th Part IXB dead for **State** co-ops.
+- **2019** — 43A workers (42nd DPSP).
+- **2022** — RTE = **86th** not 103rd; Delhi NCT = **69th**; *Janhit Abhiyan* upholds EWS (103rd valid).
+- **2023** — 106th women 33% — **not** yet in force; waits delimitation.
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** 103rd is EWS; 101st is GST.
+
+**Q. UKPCS Prelims 2025, Q118**
+
+The 101st Constitutional Amendment Act is related with
+
+A. Reservation for EWS
+B. Delimitation of Constituencies
+C. Anti-defection Law
+D. Nationwide Goods and Services Tax (GST)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** 101st Amendment (2016) introduced GST / GST Council. EWS is 103rd; anti-defection is 52nd.
+
+</details>
+
+**Logic:** 91st vs 92nd in the same year is the confusion.
+
+**Q. UKPCS Prelims 2025, Q128**
+
+The size of the Council of Ministers was fixed up to 15 per cent of the total members of the Lok Sabha by which Amendment?
+
+A. 91st Constitutional Amendment Act, 2003
+B. 92nd Constitutional Amendment Act, 2003
+C. 74th Constitutional Amendment Act, 1992
+D. 86th Constitutional Amendment Act, 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Series B provisional key).** 91st Amendment (2003) capped CoM at 15% of Lok Sabha / Assembly strength. 92nd added Eighth Schedule languages.
+
+</details>
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. Amendment power sits in **Part XX, Article 368**. An amendment Bill may start in **either House**. There is **no joint sitting**. After the **24th Amendment**, the President **shall** assent.
@@ -598,57 +651,6 @@ D. A-3, B-1, C-4, D-2
 - **105th, 2021** — State OBC lists.
 - **106th, 2023** — women 33% (after delimitation).
 - **96th, 2011** (also asked) — Oriya → **Odia**.
-
----
-
-## Current Affairs
-
-- **2025** — 42nd Preamble = Socialist + Secular (direct).
-- **2024** — Kesavananda chronology; 42nd = **1976**; GST = **101st**; local bodies = **73rd+74th**.
-- **2021** — Golaknath → 24th → Kesavananda → 42nd (order trap); *Rajendra N. Shah* — 97th Part IXB dead for **State** co-ops.
-- **2019** — 43A workers (42nd DPSP).
-- **2022** — RTE = **86th** not 103rd; Delhi NCT = **69th**; *Janhit Abhiyan* upholds EWS (103rd valid).
-- **2023** — 106th women 33% — **not** yet in force; waits delimitation.
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** 103rd is EWS; 101st is GST.
-
-**Q. UKPCS Prelims 2025, Q118**
-
-The 101st Constitutional Amendment Act is related with
-
-A. Reservation for EWS
-B. Delimitation of Constituencies
-C. Anti-defection Law
-D. Nationwide Goods and Services Tax (GST)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Series B provisional key).** 101st Amendment (2016) introduced GST / GST Council. EWS is 103rd; anti-defection is 52nd.
-
-</details>
-
-**Logic:** 91st vs 92nd in the same year is the confusion.
-
-**Q. UKPCS Prelims 2025, Q128**
-
-The size of the Council of Ministers was fixed up to 15 per cent of the total members of the Lok Sabha by which Amendment?
-
-A. 91st Constitutional Amendment Act, 2003
-B. 92nd Constitutional Amendment Act, 2003
-C. 74th Constitutional Amendment Act, 1992
-D. 86th Constitutional Amendment Act, 2002
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Series B provisional key).** 91st Amendment (2003) capped CoM at 15% of Lok Sabha / Assembly strength. 92nd added Eighth Schedule languages.
-
-</details>
 
 ---
 

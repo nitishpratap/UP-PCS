@@ -17,6 +17,26 @@
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked |
+|------|------|-----------|
+| 1 July 2017 | GST operational | 101st vs “GST Act year” |
+| 2022 | *Mohit Minerals* — GST Council recommendatory | Binding vs cooperative |
+| 2023 | **16th FC** under **Arvind Panagariya** | Chair matching; award **2026–31** |
+| 2021–26 | 15th FC (**N.K. Singh**) | vs 14th Y.V. Reddy |
+| 2025 PYQ | AIS 312 majority | present and voting ≠ total |
+| 14th / 15th FC | Vertical **42% → 41%** | Devolution matching |
+| 1 Jan 2015 | NITI replaces Planning Commission | Extra-constitutional; **≠ FC** |
+| 2019 | NITI = nodal for **SDGs** (not FC) | 2019 PYQ |
+| Mar 2022 | Assam–Meghalaya border: **HM + CMs** | Inter-State dispute ≠ 131 |
+| 2019 | ISRWD Amendment Bill (permanent tribunal) | **LS only; lapsed — not law** |
+| 2018 | SC Cauvery judgment / CWMA | Award ≠ 131 original |
+
+---
+
+
 ## Consolidated — 30 Must-Score Facts
 
 1. Centre–State rules sit mainly in **Part XI** (legislative and administrative, **245–263**), **Part XII** (finance, **264–293** slice), and **Part XIII** (trade, **301–307**). The **7th Schedule** carries the Union, State, and Concurrent Lists.
@@ -824,24 +844,6 @@ D. Centre-State relations
 - **GST Council:** UP Finance Minister sits as a **State** member (States together = **2/3** weight).
 - **15th FC:** UP is the **largest** horizontal recipient (~**18%** of the State pool — order, not a third decimal).
 - **ISC:** UP CM is a member; PM chairs.
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked |
-|------|------|-----------|
-| 1 July 2017 | GST operational | 101st vs “GST Act year” |
-| 2022 | *Mohit Minerals* — GST Council recommendatory | Binding vs cooperative |
-| 2023 | **16th FC** under **Arvind Panagariya** | Chair matching; award **2026–31** |
-| 2021–26 | 15th FC (**N.K. Singh**) | vs 14th Y.V. Reddy |
-| 2025 PYQ | AIS 312 majority | present and voting ≠ total |
-| 14th / 15th FC | Vertical **42% → 41%** | Devolution matching |
-| 1 Jan 2015 | NITI replaces Planning Commission | Extra-constitutional; **≠ FC** |
-| 2019 | NITI = nodal for **SDGs** (not FC) | 2019 PYQ |
-| Mar 2022 | Assam–Meghalaya border: **HM + CMs** | Inter-State dispute ≠ 131 |
-| 2019 | ISRWD Amendment Bill (permanent tribunal) | **LS only; lapsed — not law** |
-| 2018 | SC Cauvery judgment / CWMA | Award ≠ 131 original |
 
 ---
 

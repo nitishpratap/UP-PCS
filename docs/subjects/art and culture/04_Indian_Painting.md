@@ -15,6 +15,41 @@ Ancient Indian Painting | Classical Painting | Mural Paintings | Ajanta Painting
 
 ---
 
+
+## Current Affairs
+
+- **Pithora** painting (Rathwa, Gujarat; also practised in adjoining belts) — GI-led livelihood push in 2025–26 news; folk wall art, not a Mughal school.
+- **Madhubani** = GI; **not** a UNESCO ICH inscribed element.
+- No new Ajanta/Mughal manuscript CA that changes static facts (last verified August 2026).
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Both the 1658 arrival and the Tasbirdar title must be true.
+
+**Q. UKPCS Prelims 2025, Q85**
+
+Consider the following statements about the 'Garhwal painting' style:
+
+1. Shyamdas and Hardas came to Srinagar in May 1658 in the court of Prithivipati Shah.
+2. They got the post of 'Tasbirdaar' in the court of the art-loving Garhwal kings.
+
+A. Only 1
+B. Only 2
+C. 1 and 2
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Both statements are correct. The Garhwal Pahari line later includes Mola Ram. Full UK card: Art & Culture `uttarakhand/` Topic 3.
+
+</details>
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **Bhimbetka** rock shelters are in Raisen, **Madhya Pradesh**. **V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
@@ -1585,39 +1620,6 @@ D. 2, 4, 1, 3
 <summary>Show answer</summary>
 
 **Ans: A.**
-
-</details>
-
----
-
-## Current Affairs
-
-- **Pithora** painting (Rathwa, Gujarat; also practised in adjoining belts) — GI-led livelihood push in 2025–26 news; folk wall art, not a Mughal school.
-- **Madhubani** = GI; **not** a UNESCO ICH inscribed element.
-- No new Ajanta/Mughal manuscript CA that changes static facts (last verified August 2026).
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Both the 1658 arrival and the Tasbirdar title must be true.
-
-**Q. UKPCS Prelims 2025, Q85**
-
-Consider the following statements about the 'Garhwal painting' style:
-
-1. Shyamdas and Hardas came to Srinagar in May 1658 in the court of Prithivipati Shah.
-2. They got the post of 'Tasbirdaar' in the court of the art-loving Garhwal kings.
-
-A. Only 1
-B. Only 2
-C. 1 and 2
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Both statements are correct. The Garhwal Pahari line later includes Mola Ram. Full UK card: Art & Culture `uttarakhand/` Topic 3.
 
 </details>
 

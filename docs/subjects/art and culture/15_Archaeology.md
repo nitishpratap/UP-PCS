@@ -15,6 +15,17 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **2025–26** | ASI season at Rakhigarhi Mound 7; burials transferred to **AnSI Kolkata**; aDNA samples to **BSIP Lucknow** | Lab names + still **Haryana**, not UP | PIB / ASI, June 2026 |
+| **2026** | Sarnath inscribed UNESCO WHS | Site is excavated Buddhist UP; year lives with heritage too | WHC 48th |
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. **Archaeology** studies material remains through excavation and dating. **History** builds narrative mainly from written sources. The two work together but are not the same method.
@@ -1100,15 +1111,6 @@ D. 1, 2 and 3
 **Ans: D.**
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2025–26** | ASI season at Rakhigarhi Mound 7; burials transferred to **AnSI Kolkata**; aDNA samples to **BSIP Lucknow** | Lab names + still **Haryana**, not UP | PIB / ASI, June 2026 |
-| **2026** | Sarnath inscribed UNESCO WHS | Site is excavated Buddhist UP; year lives with heritage too | WHC 48th |
 
 ---
 

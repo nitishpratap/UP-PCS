@@ -17,6 +17,74 @@
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked |
+|------|------|-----------|
+| 2019 | First Lokpal (**P.C. Ghose**) | 2013 Act finally operational |
+| 2019 | RTI Amendment — term/salary by government | Independence |
+| 2019 | PHRA amendment — NHRC Chair, 3-year term | Composition |
+| 2016 | RBI MPC | Monetary policy |
+| 2014 | Jains notified as minority | NCM |
+| 2013 | PEMSR Act (manual scavenging) | NCSK neighbour |
+| 2011 | Anna Hazare / IAC | Political origin of Lokpal Act |
+| 2003 | CVC Act | Vineet Narain |
+| 2015 | NITI replaces Planning Commission | Extra-constitutional (2018) |
+| 2018 | Aspirational Districts | NITI; UP **8** (2021) |
+| 2019 | NIA Amendment | Schedule / extra-territorial |
+| 2025 | BHARATPOL | **CBI**, not IB/RAW/ED |
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Selection committee composition carries the planted error.
+
+**Q. UKPCS Prelims 2025, Q122**
+
+With reference to the Lokpal and Lokayukta Act, 2013, consider the following statements:
+
+1. The Selection Committee of Lokpal consists of the Chairperson of Rajya Sabha.
+2. It shall apply to Indian public servants both within and outside India.
+
+A. Only 1
+B. Only 2
+C. 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Statement 1 is wrong (no Rajya Sabha Chairperson on the selection committee). Statement 2 is correct — Act covers public servants in and outside India.
+
+</details>
+
+**Logic:** Year of creation and chairperson identity are both planted errors.
+
+**Q. UKPCS Prelims 2025, Q127**
+
+With reference to NITI Aayog, consider the following statements:
+
+1. It was established on January 1, 2014.
+2. It was created by a resolution of the Union Cabinet.
+3. The President of India is the Chairman of NITI Aayog.
+
+A. 1 and 3
+B. Only 1
+C. Only 2
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Only statement 2 is correct. Created 1 January **2015** by Cabinet resolution; Chairperson is the **Prime Minister**, not the President.
+
+</details>
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. A **statutory body** is created by an **Act of Parliament or a State legislature**. It is not created by the Constitution (CAT is the special case that rides on **Article 323A**).
@@ -658,72 +726,6 @@ Quick chronology and identity fact for the police/intelligence/think-tank agenci
 | NITI Aayog | **2015** (Resolution) | Think-tank / SDG nodal body | **PM chairs** |
 
 The chronology to remember is: **IB (1887) → ED (1956) → CBI (1963) → RAW (1968) → NSC (1998) → NIA (2008) → NITI Aayog (2015)**.
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked |
-|------|------|-----------|
-| 2019 | First Lokpal (**P.C. Ghose**) | 2013 Act finally operational |
-| 2019 | RTI Amendment — term/salary by government | Independence |
-| 2019 | PHRA amendment — NHRC Chair, 3-year term | Composition |
-| 2016 | RBI MPC | Monetary policy |
-| 2014 | Jains notified as minority | NCM |
-| 2013 | PEMSR Act (manual scavenging) | NCSK neighbour |
-| 2011 | Anna Hazare / IAC | Political origin of Lokpal Act |
-| 2003 | CVC Act | Vineet Narain |
-| 2015 | NITI replaces Planning Commission | Extra-constitutional (2018) |
-| 2018 | Aspirational Districts | NITI; UP **8** (2021) |
-| 2019 | NIA Amendment | Schedule / extra-territorial |
-| 2025 | BHARATPOL | **CBI**, not IB/RAW/ED |
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Selection committee composition carries the planted error.
-
-**Q. UKPCS Prelims 2025, Q122**
-
-With reference to the Lokpal and Lokayukta Act, 2013, consider the following statements:
-
-1. The Selection Committee of Lokpal consists of the Chairperson of Rajya Sabha.
-2. It shall apply to Indian public servants both within and outside India.
-
-A. Only 1
-B. Only 2
-C. 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Statement 1 is wrong (no Rajya Sabha Chairperson on the selection committee). Statement 2 is correct — Act covers public servants in and outside India.
-
-</details>
-
-**Logic:** Year of creation and chairperson identity are both planted errors.
-
-**Q. UKPCS Prelims 2025, Q127**
-
-With reference to NITI Aayog, consider the following statements:
-
-1. It was established on January 1, 2014.
-2. It was created by a resolution of the Union Cabinet.
-3. The President of India is the Chairman of NITI Aayog.
-
-A. 1 and 3
-B. Only 1
-C. Only 2
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (Series B provisional key).** Only statement 2 is correct. Created 1 January **2015** by Cabinet resolution; Chairperson is the **Prime Minister**, not the President.
-
-</details>
 
 ---
 

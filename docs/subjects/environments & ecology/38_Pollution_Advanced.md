@@ -734,6 +734,183 @@ D. Neither 1 nor 2
 
 ---
 
+## Extra Drill (Ghatnachakra Pollution map)
+
+**Logic:** These stems recycle bank traps on anthropogenic pollution, AQI gases, control devices, diseases, and remediation.
+
+**Q31.** Human-made pollutants / human-modified environment are called—
+
+A. Natural only
+
+B. Anthropogenic
+
+C. Xenobiotic antibiotics only
+
+D. Humalins
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Anthropogenic means caused or influenced by humans.
+
+</details>
+
+**Q32.** Which is biodegradable among typical options?
+
+A. Mercury
+
+B. Plastic / asbestos
+
+C. Sewage
+
+D. Pesticide
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Sewage/domestic organic waste biodegrades; pesticide/plastic/Hg/asbestos do not (or only very slowly).
+
+</details>
+
+**Q33.** India’s AQI includes which set?
+
+A. CO₂ and CH₄ only
+
+B. PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb
+
+C. Only methane and CFC
+
+D. Only radon and neon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Eight criteria pollutants — not CO₂/CH₄.
+
+</details>
+
+**Q34.** Powerful eye irritant in photochemical smog—
+
+A. Argon
+
+B. Peroxyacetyl nitrate (PAN)
+
+C. Pure nitrogen
+
+D. Helium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** PAN is a secondary lachrymator in photochemical smog.
+
+</details>
+
+**Q35.** Most important classic indoor air pollutant gas—
+
+A. Outdoor ozone only
+
+B. Radon
+
+C. Stratospheric CFCs only
+
+D. Pure oxygen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Radon from soil/radium accumulates indoors and raises lung-cancer risk.
+
+</details>
+
+**Q36.** Knock-knee syndrome is linked to—
+
+A. Mercury Minamata only
+
+B. Fluoride excess
+
+C. Ozone hole only
+
+D. Noise Rules 2000 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Excess fluoride → fluorosis / knock-knee. Minamata = Hg; Itai-itai = Cd.
+
+</details>
+
+**Q37.** Which river is classically called a biological desert from pollution?
+
+A. Only pristine Brahmaputra whole length
+
+B. Damodar (Giridih–Durgapur industrial stretch)
+
+C. Only Antarctic meltwater
+
+D. Only pure glacial melt always
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mining/industry load makes Damodar a biological desert teaching fact.
+
+</details>
+
+**Q38.** Not a standard air-pollution control device name—
+
+A. Bag filter
+
+B. Cyclone separator / collector
+
+C. Cyclone divider
+
+D. Wet scrubber
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cyclone divider is the distractor; bag/cyclone separator/scrubber are real tools.
+
+</details>
+
+**Q39.** Bioremediation / Oilzapper facts — which is correct?
+
+A. Cd and Pb are always fully cleaned by simple bioremediation
+
+B. Oilzapper (TERI) remediates oily sludge/spills; heavy metals like Cd/Pb are not readily/completely treated by microbes
+
+C. Bioremediation only means transplanting organs
+
+D. Oilzapper is a maize biofuel variety
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Enhance natural biodegradation; Oilzapper for oil; metals remain hard.
+
+</details>
+
+**Q40.** CCAC focuses primarily on—
+
+A. Only G20 membership rules for ozone hole
+
+B. Methane, black carbon, and HFCs (short-lived climate pollutants)
+
+C. Only tiger census
+
+D. Only Ramsar wetland birds
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Founded 2012 with UNEP partners — not a G20-only club statement.
+
+</details>
+
+---
+
+
 ## Practice Zone
 
 **Q1.** Lichens grow well in polluted areas — True/False fact:
@@ -1037,182 +1214,6 @@ Options: A. Smog secondary; BOD=aquatic assay; CGWB=groundwater report; Moradaba
 **Ans: A**
 
 </details>
-
-### Extra Drill (Ghatnachakra Pollution map)
-
-**Logic:** These stems recycle bank traps on anthropogenic pollution, AQI gases, control devices, diseases, and remediation.
-
-**Q31.** Human-made pollutants / human-modified environment are called—
-
-A. Natural only
-
-B. Anthropogenic
-
-C. Xenobiotic antibiotics only
-
-D. Humalins
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Anthropogenic means caused or influenced by humans.
-
-</details>
-
-**Q32.** Which is biodegradable among typical options?
-
-A. Mercury
-
-B. Plastic / asbestos
-
-C. Sewage
-
-D. Pesticide
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Sewage/domestic organic waste biodegrades; pesticide/plastic/Hg/asbestos do not (or only very slowly).
-
-</details>
-
-**Q33.** India’s AQI includes which set?
-
-A. CO₂ and CH₄ only
-
-B. PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb
-
-C. Only methane and CFC
-
-D. Only radon and neon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Eight criteria pollutants — not CO₂/CH₄.
-
-</details>
-
-**Q34.** Powerful eye irritant in photochemical smog—
-
-A. Argon
-
-B. Peroxyacetyl nitrate (PAN)
-
-C. Pure nitrogen
-
-D. Helium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** PAN is a secondary lachrymator in photochemical smog.
-
-</details>
-
-**Q35.** Most important classic indoor air pollutant gas—
-
-A. Outdoor ozone only
-
-B. Radon
-
-C. Stratospheric CFCs only
-
-D. Pure oxygen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Radon from soil/radium accumulates indoors and raises lung-cancer risk.
-
-</details>
-
-**Q36.** Knock-knee syndrome is linked to—
-
-A. Mercury Minamata only
-
-B. Fluoride excess
-
-C. Ozone hole only
-
-D. Noise Rules 2000 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Excess fluoride → fluorosis / knock-knee. Minamata = Hg; Itai-itai = Cd.
-
-</details>
-
-**Q37.** Which river is classically called a biological desert from pollution?
-
-A. Only pristine Brahmaputra whole length
-
-B. Damodar (Giridih–Durgapur industrial stretch)
-
-C. Only Antarctic meltwater
-
-D. Only pure glacial melt always
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Mining/industry load makes Damodar a biological desert teaching fact.
-
-</details>
-
-**Q38.** Not a standard air-pollution control device name—
-
-A. Bag filter
-
-B. Cyclone separator / collector
-
-C. Cyclone divider
-
-D. Wet scrubber
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cyclone divider is the distractor; bag/cyclone separator/scrubber are real tools.
-
-</details>
-
-**Q39.** Bioremediation / Oilzapper facts — which is correct?
-
-A. Cd and Pb are always fully cleaned by simple bioremediation
-
-B. Oilzapper (TERI) remediates oily sludge/spills; heavy metals like Cd/Pb are not readily/completely treated by microbes
-
-C. Bioremediation only means transplanting organs
-
-D. Oilzapper is a maize biofuel variety
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Enhance natural biodegradation; Oilzapper for oil; metals remain hard.
-
-</details>
-
-**Q40.** CCAC focuses primarily on—
-
-A. Only G20 membership rules for ozone hole
-
-B. Methane, black carbon, and HFCs (short-lived climate pollutants)
-
-C. Only tiger census
-
-D. Only Ramsar wetland birds
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Founded 2012 with UNEP partners — not a G20-only club statement.
-
-</details>
-
----
 
 ## Common Traps
 

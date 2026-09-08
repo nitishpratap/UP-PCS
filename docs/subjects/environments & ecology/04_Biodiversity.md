@@ -618,6 +618,159 @@ D. Thar Desert
 
 ---
 
+## Extra Drill — Ghatnachakra-pattern (Q31–Q40)
+
+**Logic (set):** These stems recycle definition, hotspot geography, conservation method, species identity, and Ramsar traps from the Biodiversity chapter map.
+
+**Q31.** Who first used the term ‘biodiversity’?
+
+A. E.O. Wilson  
+B. Norman Myers  
+C. Walter G. Rosen  
+D. A.G. Tansley  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Walter G. Rosen coined it in **1985**; Wilson popularised it later.
+
+</details>
+
+**Q32.** Among mathematical indices, which shows mean species diversity in a habitat at a local scale?
+
+A. Alpha  
+B. Beta  
+C. Gamma  
+D. None  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Alpha = local; beta = between ecosystems; gamma = regional.
+
+</details>
+
+**Q33.** India’s first National Centre for Marine Biodiversity is at:
+
+A. Mumbai  
+B. Jamnagar  
+C. Bhavnagar  
+D. Puducherry  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NCMB is at **Jamnagar, Gujarat**.
+
+</details>
+
+**Q34.** Which statement is **NOT** true?
+
+A. Tropics harbour more species than temperate areas.  
+B. Species diversity increases from equator toward poles.  
+C. Greatest biodiversity occurs in Amazon rainforest.  
+D. Species diversity decreases from temperate areas toward poles.  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Diversity **increases toward the equator**, not toward the poles.
+
+</details>
+
+**Q35.** Which three criteria recognise Western Ghats–Sri Lanka and Indo-Burma as hotspots?
+
+A. Species richness, endemism, threat perception  
+B. Vegetation density, ethnobotany, warm-humid adaptation  
+C. Only rainfall and altitude  
+D. Only invasive-species count  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Richness + endemism + threat — not density or ethnobotany alone.
+
+</details>
+
+**Q36.** Cryo-bank for ex-situ conservation commonly uses which gas?
+
+A. Oxygen  
+B. Carbon dioxide  
+C. Nitrogen  
+D. Methane  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Storage uses **liquid nitrogen**.
+
+</details>
+
+**Q37.** Which regions have coral reefs?
+
+1. Andaman and Nicobar  
+2. Gulf of Kachchh  
+3. Gulf of Mannar  
+4. Sundarbans  
+
+A. 1, 2 and 3 only  
+B. 2 and 4 only  
+C. 1 and 3 only  
+D. All four  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sundarbans is mangrove country, not a coral-reef region.
+
+</details>
+
+**Q38.** With reference to TRAFFIC, which is correct?
+
+A. It is a UNEP bureau.  
+B. Its mission is to ensure wildlife trade is not a threat to nature.  
+C. Both A and B  
+D. Neither  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** TRAFFIC is a **WWF–IUCN** alliance (1976), not UNEP.
+
+</details>
+
+**Q39.** India currently has about how many Ramsar sites, and which state has the most?
+
+A. 26; Rajasthan  
+B. 80; Tamil Nadu (16)  
+C. 80; Uttar Pradesh (16)  
+D. 50; Punjab  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** About **80** sites; **Tamil Nadu 16**, UP **10**, Punjab **6**.
+
+</details>
+
+**Q40.** Assertion (A): Maximum butterfly species are found in tropical countries.  
+Reason (R): Butterflies cannot tolerate low temperatures.
+
+A. Both true; R explains A  
+B. Both true; R does not explain A  
+C. A true; R false  
+D. A false; R true  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests tropical richness; R tests temperature intolerance as the causal link.
+
+**Ans: A.** Both true and R correctly explains A.
+
+</details>
+
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | multi-statement + A/R + match + NOT-matched
@@ -1234,154 +1387,3 @@ D. David
 
 ---
 
-## Extra Drill — Ghatnachakra-pattern (Q31–Q40)
-
-**Logic (set):** These stems recycle definition, hotspot geography, conservation method, species identity, and Ramsar traps from the Biodiversity chapter map.
-
-**Q31.** Who first used the term ‘biodiversity’?
-
-A. E.O. Wilson  
-B. Norman Myers  
-C. Walter G. Rosen  
-D. A.G. Tansley  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Walter G. Rosen coined it in **1985**; Wilson popularised it later.
-
-</details>
-
-**Q32.** Among mathematical indices, which shows mean species diversity in a habitat at a local scale?
-
-A. Alpha  
-B. Beta  
-C. Gamma  
-D. None  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Alpha = local; beta = between ecosystems; gamma = regional.
-
-</details>
-
-**Q33.** India’s first National Centre for Marine Biodiversity is at:
-
-A. Mumbai  
-B. Jamnagar  
-C. Bhavnagar  
-D. Puducherry  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** NCMB is at **Jamnagar, Gujarat**.
-
-</details>
-
-**Q34.** Which statement is **NOT** true?
-
-A. Tropics harbour more species than temperate areas.  
-B. Species diversity increases from equator toward poles.  
-C. Greatest biodiversity occurs in Amazon rainforest.  
-D. Species diversity decreases from temperate areas toward poles.  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Diversity **increases toward the equator**, not toward the poles.
-
-</details>
-
-**Q35.** Which three criteria recognise Western Ghats–Sri Lanka and Indo-Burma as hotspots?
-
-A. Species richness, endemism, threat perception  
-B. Vegetation density, ethnobotany, warm-humid adaptation  
-C. Only rainfall and altitude  
-D. Only invasive-species count  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Richness + endemism + threat — not density or ethnobotany alone.
-
-</details>
-
-**Q36.** Cryo-bank for ex-situ conservation commonly uses which gas?
-
-A. Oxygen  
-B. Carbon dioxide  
-C. Nitrogen  
-D. Methane  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Storage uses **liquid nitrogen**.
-
-</details>
-
-**Q37.** Which regions have coral reefs?
-
-1. Andaman and Nicobar  
-2. Gulf of Kachchh  
-3. Gulf of Mannar  
-4. Sundarbans  
-
-A. 1, 2 and 3 only  
-B. 2 and 4 only  
-C. 1 and 3 only  
-D. All four  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Sundarbans is mangrove country, not a coral-reef region.
-
-</details>
-
-**Q38.** With reference to TRAFFIC, which is correct?
-
-A. It is a UNEP bureau.  
-B. Its mission is to ensure wildlife trade is not a threat to nature.  
-C. Both A and B  
-D. Neither  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** TRAFFIC is a **WWF–IUCN** alliance (1976), not UNEP.
-
-</details>
-
-**Q39.** India currently has about how many Ramsar sites, and which state has the most?
-
-A. 26; Rajasthan  
-B. 80; Tamil Nadu (16)  
-C. 80; Uttar Pradesh (16)  
-D. 50; Punjab  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** About **80** sites; **Tamil Nadu 16**, UP **10**, Punjab **6**.
-
-</details>
-
-**Q40.** Assertion (A): Maximum butterfly species are found in tropical countries.  
-Reason (R): Butterflies cannot tolerate low temperatures.
-
-A. Both true; R explains A  
-B. Both true; R does not explain A  
-C. A true; R false  
-D. A false; R true  
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests tropical richness; R tests temperature intolerance as the causal link.
-
-**Ans: A.** Both true and R correctly explains A.
-
-</details>

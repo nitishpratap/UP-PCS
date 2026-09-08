@@ -414,6 +414,183 @@ D. All three
 
 ---
 
+## Extra drill — food-chain / energy / biomagnification stems
+
+**Logic:** Classic chain order, human trophic role, marine producers, 10% law, inverted biomass, DDT biomagnification.
+
+**Q31.** Correct grassland food-chain order:
+
+A. Grass–Grasshopper–Frog–Snake
+
+B. Grass–Grasshopper–Snake–Frog
+
+C. Grasshopper–Frog–Grass–Snake
+
+D. Grasshopper–Snake–Frog–Grass
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Producer → primary → secondary → tertiary consumer.
+
+</details>
+
+**Q32.** Which constitutes a food chain?
+
+A. Grass, wheat and mango
+
+B. Grass, goat and human
+
+C. Goat, cow and elephant
+
+D. Grass, fish and goat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Grass → goat → human.
+
+</details>
+
+**Q33.** In a food chain, man is:
+
+A. Producer only
+
+B. Only primary consumer
+
+C. Only secondary consumer
+
+D. Primary as well as secondary consumer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Humans eat plants and meat.
+
+</details>
+
+**Q34.** Main primary producers in the marine environment:
+
+A. Phytoplankton
+
+B. Seaweeds only
+
+C. Marine angiosperms only
+
+D. Aquatic bryophytes only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Phytoplankton**.
+
+</details>
+
+**Q35.** Decomposer organisms include:
+
+A. Virus only
+
+B. Fungi and bacteria
+
+C. Virus and bacteria only
+
+D. Virus, fungi and bacteria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Fungi and bacteria — not virus in this framing.
+
+</details>
+
+**Q36.** Correct marine food-chain sequence:
+
+A. Diatoms–Crustaceans–Herrings
+
+B. Crustaceans–Diatoms–Herrings
+
+C. Diatoms–Herrings–Crustaceans
+
+D. Crustaceans–Herrings–Diatoms
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q37.** 10 percent law relates to:
+
+A. Heat transfer between metals
+
+B. Energy transfer as food between trophic levels
+
+C. Bird migration between zones
+
+D. Water transfer between aquifers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lindeman** ~10% rule.
+
+</details>
+
+**Q38.** Inverted pyramid of biomass is typical of:
+
+A. Forest
+
+B. Pond / marine
+
+C. Grassland
+
+D. Drylands
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pond and open ocean standing biomass can invert.
+
+</details>
+
+**Q39.** Highest DDT concentration after biomagnification is likely in:
+
+A. Grasshopper
+
+B. Toad
+
+C. Snake
+
+D. Cattle
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tertiary consumer holds the highest load.
+
+</details>
+
+**Q40.** Primary source / driving force of energy in an ecosystem:
+
+A. Fermentation heat
+
+B. Stored plant sugar alone
+
+C. Solar energy
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Solar energy**.
+
+</details>
+
+---
+
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | multi-statement + A/R + match + NOT-matched
@@ -953,182 +1130,6 @@ D. Lindeman — 1942
 <details><summary>Show answer</summary>
 
 **Ans: C** — Number pyramid is usually upright.
-
-</details>
-
----
-
-### Extra drill — food-chain / energy / biomagnification stems
-
-**Logic:** Classic chain order, human trophic role, marine producers, 10% law, inverted biomass, DDT biomagnification.
-
-**Q31.** Correct grassland food-chain order:
-
-A. Grass–Grasshopper–Frog–Snake
-
-B. Grass–Grasshopper–Snake–Frog
-
-C. Grasshopper–Frog–Grass–Snake
-
-D. Grasshopper–Snake–Frog–Grass
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Producer → primary → secondary → tertiary consumer.
-
-</details>
-
-**Q32.** Which constitutes a food chain?
-
-A. Grass, wheat and mango
-
-B. Grass, goat and human
-
-C. Goat, cow and elephant
-
-D. Grass, fish and goat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Grass → goat → human.
-
-</details>
-
-**Q33.** In a food chain, man is:
-
-A. Producer only
-
-B. Only primary consumer
-
-C. Only secondary consumer
-
-D. Primary as well as secondary consumer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Humans eat plants and meat.
-
-</details>
-
-**Q34.** Main primary producers in the marine environment:
-
-A. Phytoplankton
-
-B. Seaweeds only
-
-C. Marine angiosperms only
-
-D. Aquatic bryophytes only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Phytoplankton**.
-
-</details>
-
-**Q35.** Decomposer organisms include:
-
-A. Virus only
-
-B. Fungi and bacteria
-
-C. Virus and bacteria only
-
-D. Virus, fungi and bacteria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Fungi and bacteria — not virus in this framing.
-
-</details>
-
-**Q36.** Correct marine food-chain sequence:
-
-A. Diatoms–Crustaceans–Herrings
-
-B. Crustaceans–Diatoms–Herrings
-
-C. Diatoms–Herrings–Crustaceans
-
-D. Crustaceans–Herrings–Diatoms
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q37.** 10 percent law relates to:
-
-A. Heat transfer between metals
-
-B. Energy transfer as food between trophic levels
-
-C. Bird migration between zones
-
-D. Water transfer between aquifers
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Lindeman** ~10% rule.
-
-</details>
-
-**Q38.** Inverted pyramid of biomass is typical of:
-
-A. Forest
-
-B. Pond / marine
-
-C. Grassland
-
-D. Drylands
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pond and open ocean standing biomass can invert.
-
-</details>
-
-**Q39.** Highest DDT concentration after biomagnification is likely in:
-
-A. Grasshopper
-
-B. Toad
-
-C. Snake
-
-D. Cattle
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Tertiary consumer holds the highest load.
-
-</details>
-
-**Q40.** Primary source / driving force of energy in an ecosystem:
-
-A. Fermentation heat
-
-B. Stored plant sugar alone
-
-C. Solar energy
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Solar energy**.
 
 </details>
 

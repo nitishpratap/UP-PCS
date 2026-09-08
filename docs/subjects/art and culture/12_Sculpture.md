@@ -15,6 +15,19 @@ Indian Sculpture | Gupta Sculpture | Buddhist Sculpture | Temple Sculpture | Sto
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **25 July 2026** | Ancient Buddhist Site of Sarnath = UNESCO WHS (India’s **45th**; UP’s **4th**). Serial: **Chaukhandi Stupa** + Archaeological Remains | Lion Capital + Gupta Buddha campus | UNESCO 48th WHC, Busan |
+| Standing | National Emblem from Sarnath Lion Capital (1950) | Static identity | GoI |
+
+No new school-vs-stone CA (verified August 2026).
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Indian sculpture timeline: Indus bronze and terracotta → **Mauryan polish** → **Bharhut / Sanchi** relief → Kushan **Gandhara + Mathura** → **Amaravati** → **Gupta Sarnath** → temple walls → **Chola bronze**.
@@ -983,17 +996,6 @@ D. (A) is false, but (R) is true
 **Ans: C.** Same age, different stone and region.
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **25 July 2026** | Ancient Buddhist Site of Sarnath = UNESCO WHS (India’s **45th**; UP’s **4th**). Serial: **Chaukhandi Stupa** + Archaeological Remains | Lion Capital + Gupta Buddha campus | UNESCO 48th WHC, Busan |
-| Standing | National Emblem from Sarnath Lion Capital (1950) | Static identity | GoI |
-
-No new school-vs-stone CA (verified August 2026).
 
 ---
 

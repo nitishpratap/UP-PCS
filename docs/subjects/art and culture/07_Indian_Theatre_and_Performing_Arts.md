@@ -15,6 +15,20 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| 2001 / 2008 | Koodiyattam UNESCO masterpiece then Representative List | Theatre vs dance trap | UNESCO ICH |
+| 2008 | Ramlila UNESCO ICH | UP + folk theatre | UNESCO |
+| 2010 | Mudiyettu UNESCO | Kerala ritual theatre ≠ Kathakali | UNESCO |
+
+SNA / NSD standing dates are static, not news.
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **Natyashastra** by **Bharata Muni** (about **200 BCE–200 CE**) codifies drama with about **10** rupaka, **9** rasa, and four abhinaya.
@@ -999,18 +1013,6 @@ D. 1, 2 and 3
 **Ans: A.**
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 2001 / 2008 | Koodiyattam UNESCO masterpiece then Representative List | Theatre vs dance trap | UNESCO ICH |
-| 2008 | Ramlila UNESCO ICH | UP + folk theatre | UNESCO |
-| 2010 | Mudiyettu UNESCO | Kerala ritual theatre ≠ Kathakali | UNESCO |
-
-SNA / NSD standing dates are static, not news.
 
 ---
 

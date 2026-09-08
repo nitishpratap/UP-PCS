@@ -655,6 +655,186 @@ D. Simlipal National Park — Madhya Pradesh
 
 ---
 
+## Extra Drill — Sanctuary / NP Match Bank (Q31–Q40)
+
+**Logic:** River–park, species–park, and state–park mismatches are the densest traps in this chapter.
+
+**Q31.** Which river–park pair is correct?
+
+A. Corbett — Ganga
+
+B. Kaziranga — Manas
+
+C. Silent Valley — Kunthipuzha
+
+D. Corbett — Kaveri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Corbett = Ramganga + Kosi; Kaziranga = Brahmaputra / Diphlu system; Silent Valley = Kunthipuzha.
+
+</details>
+
+**Q32.** Which sanctuary–species pair is **wrong**?
+
+A. Jim Corbett — Tiger
+
+B. Keoladeo Ghana — Lion
+
+C. Kaziranga — Rhinoceros
+
+D. Periyar — Elephant
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ghana / Bharatpur is a bird park — not lion habitat. Gir = Asiatic lion.
+
+</details>
+
+**Q33.** Pin Valley National Park is in:
+
+A. Jammu and Kashmir
+
+B. Himachal Pradesh (Lahaul–Spiti)
+
+C. Uttarakhand
+
+D. Sikkim
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Great Himalayan NP = Kullu (HP). Van Vihar = Bhopal (MP).
+
+</details>
+
+**Q34.** Which statements about National Park vs Sanctuary / BR are correct?  
+1. NP boundaries are defined by legislation; alteration needs State Legislature.  
+2. Biosphere Reserves exist only to conserve a few specific species.  
+3. Limited biotic interference may be permitted in a Wildlife Sanctuary.
+
+A. 1 only
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statement 2 is false — BRs conserve all forms of life with support systems and sustainable use.
+
+</details>
+
+**Q35.** Rajaji National Park is correctly described as:
+
+A. Only in Dehradun district; never a tiger reserve
+
+B. Merger of Rajaji–Motichur–Chilla (1983); TR in 2015; three UK districts
+
+C. Located in Rajasthan like Sariska
+
+D. Same as Corbett Tiger Reserve
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Named after C. Rajagopalachari. Corbett remains India’s first NP (1936).
+
+</details>
+
+**Q36.** Keibul Lamjao National Park is unique because it is:
+
+A. India’s first marine NP
+
+B. A floating park on Loktak Lake (phumdis)
+
+C. The hangul stronghold of Kashmir
+
+D. Located in Odisha mangrove deltas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sangai (Manipur dancing deer). Hangul = Dachigam. Bhitarkanika = saltwater crocodile.
+
+</details>
+
+**Q37.** Desert National Park — which is correct?
+
+A. Spread over one district only; no human habitation; no GIB
+
+B. Two districts (Jaisalmer–Barmer); GIB habitat; human habitation exists
+
+C. Located in Gujarat Rann only
+
+D. Famous for Asiatic lion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** GIB / Godawan. Gir = lion. Wild Ass Sanctuary = largest WLS in Kachchh.
+
+</details>
+
+**Q38.** Nokrek Biosphere / Loktak / Namdapha — correctly matched?
+
+A. All three: Garo Hills / Barail / Dafla Hills
+
+B. Only Nokrek — Garo Hills
+
+C. Only Loktak — Barail Range
+
+D. Only Namdapha — Dafla Hills
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Loktak = Manipur freshwater lake; Namdapha = Arunachal Eastern Himalaya hotspot — classic wrong-pair stem.
+
+</details>
+
+**Q39.** Hard-ground barasingha / “Bhoorsingh” mascot is associated with:
+
+A. Manas
+
+B. Kanha
+
+C. Mudumalai
+
+D. Tal Chhapar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kanha (MP) — exclusively graminivorous hard-ground swamp deer subspecies.
+
+</details>
+
+**Q40.** Sathyamangalam Tiger Reserve is important because it:
+
+A. Is India’s first Marine NP
+
+B. Links Eastern Ghats and Western Ghats
+
+C. Is the hangul habitat of J&K
+
+D. Lies entirely in Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tamil Nadu. Nagarjunsagar–Srisailam = largest critical tiger habitat among common options. International Tiger Day = **29 July**.
+
+</details>
+
+---
+
+
 ## Practice Zone
 
 **Q1.** Dudhwa NP district:
@@ -955,185 +1135,6 @@ Options: A. Dudhwa=UP; Corbett=UK; Yellowstone=world first; Kutch=first marine N
 <details><summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Extra Drill — Sanctuary / NP Match Bank (Q31–Q40)
-
-**Logic:** River–park, species–park, and state–park mismatches are the densest traps in this chapter.
-
-**Q31.** Which river–park pair is correct?
-
-A. Corbett — Ganga
-
-B. Kaziranga — Manas
-
-C. Silent Valley — Kunthipuzha
-
-D. Corbett — Kaveri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Corbett = Ramganga + Kosi; Kaziranga = Brahmaputra / Diphlu system; Silent Valley = Kunthipuzha.
-
-</details>
-
-**Q32.** Which sanctuary–species pair is **wrong**?
-
-A. Jim Corbett — Tiger
-
-B. Keoladeo Ghana — Lion
-
-C. Kaziranga — Rhinoceros
-
-D. Periyar — Elephant
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Ghana / Bharatpur is a bird park — not lion habitat. Gir = Asiatic lion.
-
-</details>
-
-**Q33.** Pin Valley National Park is in:
-
-A. Jammu and Kashmir
-
-B. Himachal Pradesh (Lahaul–Spiti)
-
-C. Uttarakhand
-
-D. Sikkim
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Great Himalayan NP = Kullu (HP). Van Vihar = Bhopal (MP).
-
-</details>
-
-**Q34.** Which statements about National Park vs Sanctuary / BR are correct?  
-1. NP boundaries are defined by legislation; alteration needs State Legislature.  
-2. Biosphere Reserves exist only to conserve a few specific species.  
-3. Limited biotic interference may be permitted in a Wildlife Sanctuary.
-
-A. 1 only
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statement 2 is false — BRs conserve all forms of life with support systems and sustainable use.
-
-</details>
-
-**Q35.** Rajaji National Park is correctly described as:
-
-A. Only in Dehradun district; never a tiger reserve
-
-B. Merger of Rajaji–Motichur–Chilla (1983); TR in 2015; three UK districts
-
-C. Located in Rajasthan like Sariska
-
-D. Same as Corbett Tiger Reserve
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Named after C. Rajagopalachari. Corbett remains India’s first NP (1936).
-
-</details>
-
-**Q36.** Keibul Lamjao National Park is unique because it is:
-
-A. India’s first marine NP
-
-B. A floating park on Loktak Lake (phumdis)
-
-C. The hangul stronghold of Kashmir
-
-D. Located in Odisha mangrove deltas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Sangai (Manipur dancing deer). Hangul = Dachigam. Bhitarkanika = saltwater crocodile.
-
-</details>
-
-**Q37.** Desert National Park — which is correct?
-
-A. Spread over one district only; no human habitation; no GIB
-
-B. Two districts (Jaisalmer–Barmer); GIB habitat; human habitation exists
-
-C. Located in Gujarat Rann only
-
-D. Famous for Asiatic lion
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** GIB / Godawan. Gir = lion. Wild Ass Sanctuary = largest WLS in Kachchh.
-
-</details>
-
-**Q38.** Nokrek Biosphere / Loktak / Namdapha — correctly matched?
-
-A. All three: Garo Hills / Barail / Dafla Hills
-
-B. Only Nokrek — Garo Hills
-
-C. Only Loktak — Barail Range
-
-D. Only Namdapha — Dafla Hills
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Loktak = Manipur freshwater lake; Namdapha = Arunachal Eastern Himalaya hotspot — classic wrong-pair stem.
-
-</details>
-
-**Q39.** Hard-ground barasingha / “Bhoorsingh” mascot is associated with:
-
-A. Manas
-
-B. Kanha
-
-C. Mudumalai
-
-D. Tal Chhapar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kanha (MP) — exclusively graminivorous hard-ground swamp deer subspecies.
-
-</details>
-
-**Q40.** Sathyamangalam Tiger Reserve is important because it:
-
-A. Is India’s first Marine NP
-
-B. Links Eastern Ghats and Western Ghats
-
-C. Is the hangul habitat of J&K
-
-D. Lies entirely in Andhra Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Tamil Nadu. Nagarjunsagar–Srisailam = largest critical tiger habitat among common options. International Tiger Day = **29 July**.
 
 </details>
 

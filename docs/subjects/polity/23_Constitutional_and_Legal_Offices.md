@@ -17,6 +17,34 @@ Attorney General | Solicitor General | Advocate General | Comptroller & Auditor 
 
 ---
 
+
+## Current Affairs (what the year actually tests)
+
+Newest first. One event, one fact.
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
+| **2023** | **CEC Act**: selection = PM + LoP LS + Cabinet Minister | **CJI not on the panel** (*Anoop Baranwal* had put CJI there *until a law*) |
+| **2023** | SC judge resignation paper | Address = **President**, not CJI |
+| **2023** | Paper asks AG qualify-as-SC-judge **and** impeachment | Only qualify is true. **Pleasure**, not 124(4) |
+| **2022** | JPSC how created | **Parliament**, if the States request |
+| **2022** | CAG report examined by? | **PAC**, not Estimates, not “COPU for everything” |
+| **2021** | SPSC member removal | **President** after **SC** inquiry — not Governor, not HC |
+| **2021** | First CEC / first woman CEC | **Sukumar Sen** · **Ramadevi 1990** |
+| **2021** | UPPSC functions extended by | **UP Legislature** (321), not President |
+| **2020** | AG matched to Part XIII | **Wrong.** Part **V** |
+| **2024** | Body–article “correctly matched” | **ECI ≠ 165**. 165 = AdvG. ECI = **324** |
+| **2024** | CAG in a match-list | **148** (with 266 / 280 / 360) |
+| **2023** | 324 / 315 / 280 / 338 match | EC / PSC / FC / NCSC |
+| **2018** | CJI when PIL “introduced” | **P.N. Bhagwati** (colour). epistolary / continuing mandamus |
+| **1976** | Accounts compilation taken off CAG | CAG = **auditor only** (2019) |
+| **1971** | CAG DPC Act | Duties live in **statute**, Art. 149 |
+
+Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant as if he were Art. 76.
+
+---
+
+
 ## Consolidated — 30 Must-Score Facts
 
 1. The **Attorney General** (Article **76**) is the Union’s first law officer. Qualification matches a **Supreme Court judge**. Tenure is during the **pleasure of the President**. Removal is **not** by judge-impeachment.
@@ -412,32 +440,6 @@ Trap: CJI resigns to the Law Minister / to the next senior judge. **President.**
 | **SPSC Chair** | **Governor** | 6y / **62** | **President** after SC inquiry | not 3rd Sch. | **Governor** |
 | **CJI** | President | **65** | 124(4) | **President** | **President** |
 | **CJ HC** | President | **62** | 124(4) via 218 | **Governor** | **President** |
-
----
-
-## Current Affairs (what the year actually tests)
-
-Newest first. One event, one fact.
-
-| Year | What happened | What you mark |
-|------|-----------------|---------------|
-| **2023** | **CEC Act**: selection = PM + LoP LS + Cabinet Minister | **CJI not on the panel** (*Anoop Baranwal* had put CJI there *until a law*) |
-| **2023** | SC judge resignation paper | Address = **President**, not CJI |
-| **2023** | Paper asks AG qualify-as-SC-judge **and** impeachment | Only qualify is true. **Pleasure**, not 124(4) |
-| **2022** | JPSC how created | **Parliament**, if the States request |
-| **2022** | CAG report examined by? | **PAC**, not Estimates, not “COPU for everything” |
-| **2021** | SPSC member removal | **President** after **SC** inquiry — not Governor, not HC |
-| **2021** | First CEC / first woman CEC | **Sukumar Sen** · **Ramadevi 1990** |
-| **2021** | UPPSC functions extended by | **UP Legislature** (321), not President |
-| **2020** | AG matched to Part XIII | **Wrong.** Part **V** |
-| **2024** | Body–article “correctly matched” | **ECI ≠ 165**. 165 = AdvG. ECI = **324** |
-| **2024** | CAG in a match-list | **148** (with 266 / 280 / 360) |
-| **2023** | 324 / 315 / 280 / 338 match | EC / PSC / FC / NCSC |
-| **2018** | CJI when PIL “introduced” | **P.N. Bhagwati** (colour). epistolary / continuing mandamus |
-| **1976** | Accounts compilation taken off CAG | CAG = **auditor only** (2019) |
-| **1971** | CAG DPC Act | Duties live in **statute**, Art. 149 |
-
-Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant as if he were Art. 76.
 
 ---
 

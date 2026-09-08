@@ -626,6 +626,185 @@ D. Ramsar Convention
 
 ---
 
+## Extra Drill — Solar, Hydrogen & Geothermal (Q31–Q40)
+
+**Logic:** ISA membership, DCR, firsts (Kochi/Diu), and hydrogen/fuel-cell physics dominate recent stems.
+
+**Q31.** International Solar Alliance — which is correct?
+
+A. Launched at UN Climate Change Conference 2015; includes all UN members
+
+B. Launched 2015; not all UN members; HQ Gurugram
+
+C. HQ Paris; launched 2010
+
+D. First Summit only in New York
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** First Summit New Delhi **2018**. USD ~1 trillion solar finance ambition by **2030**.
+
+</details>
+
+**Q32.** Domestic Content Requirement (DCR) refers to:
+
+A. Foreign TV channel licences
+
+B. Developing domestic solar PV cell/module manufacturing
+
+C. Food export quotas only
+
+D. Foreign university campuses
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** MNRE solar RfS manufacturing condition.
+
+</details>
+
+**Q33.** Correct solar “firsts” set:
+
+A. Kochi airport fully solar; Diu 100% solar UT/daytime; Surat 100% solar PHCs
+
+B. Gujarat always has India’s largest solar park (vs Bhadla)
+
+C. India is #3 silicon-wafer manufacturer
+
+D. SECI alone sets all solar tariffs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bhadla (Rajasthan) mega park; CERC/SERCs regulate tariffs; wafers largely not Indian-made.
+
+</details>
+
+**Q34.** Geothermal energy sources have **not** been found in which area among options?
+
+A. Godavari Delta
+
+B. Ganga Delta
+
+C. Himalayas
+
+D. West Coast
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Provinces include Himalaya, Cambay, West Coast, SONATA, Godavari, Mahanadi — not Ganga Delta.
+
+</details>
+
+**Q35.** Green hydrogen uses — how many are correct?  
+1. Direct fuel for IC engines  2. Blend with natural gas  3. Fuel-cell vehicles
+
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mission **2023**; Hydrogen Energy Board **2003**.
+
+</details>
+
+**Q36.** Most eco-friendly among common options:
+
+A. Petroleum products
+
+B. Forest products
+
+C. Nuclear fission
+
+D. Solar cells
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Solar has greatest RE potential in India among common options.
+
+</details>
+
+**Q37.** Pongamia pinnata is preferred for biodiesel because:
+
+A. It grows only in Antarctica
+
+B. Grows in arid regions; seeds rich in lipids (~half oleic acid)
+
+C. It is a nuclear fuel crop
+
+D. It produces only biogas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair with Jatropha in dual-statement stems.
+
+</details>
+
+**Q38.** Assertion (A): Coal-based thermal plants contribute to acid rain.  
+Reason (R): Oxides of carbon are emitted when coal burns.
+
+A. Both true; R explains A
+
+B. Both true; R does not explain A
+
+C. A false; R true
+
+D. A true; R false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Acid rain driver is mainly **SO₂** from sulphur in coal — CO₂ emission is true but does not explain acid rain.
+
+</details>
+
+**Q39.** Microbial fuel cells — correct set:
+
+A. Living microbes as catalysts; useful in wastewater plants; substrates mainly organic
+
+B. Only inorganic substrates forever
+
+C. Cannot cleanse wastewater
+
+D. Same as nuclear reactors
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** “Inorganic-only substrates” is the false statement in classic stems.
+
+</details>
+
+**Q40.** Algae-based biofuel limits in developing countries:
+
+A. Possible only in seas, never continents
+
+B. High expertise/tech + large facilities may raise ecological/social concerns
+
+C. No expertise needed
+
+D. Always cheaper than petrol with zero land use
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement “seas only” is false.
+
+</details>
+
+---
+
+
 ## Practice Zone
 
 **Q1.** Major constituents of biogas are:
@@ -1105,184 +1284,6 @@ D. Uses Moon's gravity
 <details><summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Extra Drill — Solar, Hydrogen & Geothermal (Q31–Q40)
-
-**Logic:** ISA membership, DCR, firsts (Kochi/Diu), and hydrogen/fuel-cell physics dominate recent stems.
-
-**Q31.** International Solar Alliance — which is correct?
-
-A. Launched at UN Climate Change Conference 2015; includes all UN members
-
-B. Launched 2015; not all UN members; HQ Gurugram
-
-C. HQ Paris; launched 2010
-
-D. First Summit only in New York
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** First Summit New Delhi **2018**. USD ~1 trillion solar finance ambition by **2030**.
-
-</details>
-
-**Q32.** Domestic Content Requirement (DCR) refers to:
-
-A. Foreign TV channel licences
-
-B. Developing domestic solar PV cell/module manufacturing
-
-C. Food export quotas only
-
-D. Foreign university campuses
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** MNRE solar RfS manufacturing condition.
-
-</details>
-
-**Q33.** Correct solar “firsts” set:
-
-A. Kochi airport fully solar; Diu 100% solar UT/daytime; Surat 100% solar PHCs
-
-B. Gujarat always has India’s largest solar park (vs Bhadla)
-
-C. India is #3 silicon-wafer manufacturer
-
-D. SECI alone sets all solar tariffs
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Bhadla (Rajasthan) mega park; CERC/SERCs regulate tariffs; wafers largely not Indian-made.
-
-</details>
-
-**Q34.** Geothermal energy sources have **not** been found in which area among options?
-
-A. Godavari Delta
-
-B. Ganga Delta
-
-C. Himalayas
-
-D. West Coast
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Provinces include Himalaya, Cambay, West Coast, SONATA, Godavari, Mahanadi — not Ganga Delta.
-
-</details>
-
-**Q35.** Green hydrogen uses — how many are correct?  
-1. Direct fuel for IC engines  2. Blend with natural gas  3. Fuel-cell vehicles
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Mission **2023**; Hydrogen Energy Board **2003**.
-
-</details>
-
-**Q36.** Most eco-friendly among common options:
-
-A. Petroleum products
-
-B. Forest products
-
-C. Nuclear fission
-
-D. Solar cells
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Solar has greatest RE potential in India among common options.
-
-</details>
-
-**Q37.** Pongamia pinnata is preferred for biodiesel because:
-
-A. It grows only in Antarctica
-
-B. Grows in arid regions; seeds rich in lipids (~half oleic acid)
-
-C. It is a nuclear fuel crop
-
-D. It produces only biogas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pair with Jatropha in dual-statement stems.
-
-</details>
-
-**Q38.** Assertion (A): Coal-based thermal plants contribute to acid rain.  
-Reason (R): Oxides of carbon are emitted when coal burns.
-
-A. Both true; R explains A
-
-B. Both true; R does not explain A
-
-C. A false; R true
-
-D. A true; R false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Acid rain driver is mainly **SO₂** from sulphur in coal — CO₂ emission is true but does not explain acid rain.
-
-</details>
-
-**Q39.** Microbial fuel cells — correct set:
-
-A. Living microbes as catalysts; useful in wastewater plants; substrates mainly organic
-
-B. Only inorganic substrates forever
-
-C. Cannot cleanse wastewater
-
-D. Same as nuclear reactors
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** “Inorganic-only substrates” is the false statement in classic stems.
-
-</details>
-
-**Q40.** Algae-based biofuel limits in developing countries:
-
-A. Possible only in seas, never continents
-
-B. High expertise/tech + large facilities may raise ecological/social concerns
-
-C. No expertise needed
-
-D. Always cheaper than petrol with zero land use
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statement “seas only” is false.
 
 </details>
 

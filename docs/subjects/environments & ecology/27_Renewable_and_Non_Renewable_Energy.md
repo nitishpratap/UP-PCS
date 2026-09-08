@@ -685,6 +685,183 @@ D. Trading Ramsar wetland credits
 
 ---
 
+## Extra Drill — Energy Classification & Biofuels (Q31–Q40)
+
+**Logic:** Classification swaps (renewable / fossil / nuclear / biomass) and biofuel feedstock pairs are the densest traps.
+
+**Q31.** Energy crisis commonly means:
+
+A. Only shortage of hydroelectricity
+
+B. Malnutrition in the human body
+
+C. Danger of exhaustion of fossil fuels like coal and petroleum
+
+D. Only shortage of thermal power plants
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** UN Decade of Sustainable Energy for All = **2014–2024** (UN initiative).
+
+</details>
+
+**Q32.** Which is **not** a fossil fuel?
+
+A. Coal
+
+B. Petroleum
+
+C. Natural gas
+
+D. Uranium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Uranium is nuclear fuel — non-renewable but not fossil.
+
+</details>
+
+**Q33.** Best electricity source among options for sustainable development:
+
+A. Coal
+
+B. Mineral oil and gas
+
+C. Hydroelectricity
+
+D. Atomic energy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Water is not depleted by generation the way fossil/nuclear stocks are.
+
+</details>
+
+**Q34.** Ultimate source of energy stored in fossil fuels:
+
+A. Earth interior only
+
+B. Sun
+
+C. Sea
+
+D. Moon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ancient photosynthesis. Geothermal heat itself is **not** “from the Sun” in MCQ sense.
+
+</details>
+
+**Q35.** Maize is primarily cultivated among energy crops for:
+
+A. Biodiesel only
+
+B. Ethanol
+
+C. Nuclear fuel
+
+D. Tidal power
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Jatropha / Pongamia / sunflower → biodiesel; maize → ethanol.
+
+</details>
+
+**Q36.** Biomass gasification — which is correct?
+
+A. Only CO₂ is produced; cannot run engines
+
+B. Shells/husk usable; producer gas has CO + H₂ (+ traces CH₄); can run IC engines
+
+C. Only hydrogen and carbon dioxide; heat only
+
+D. Nuclear waste is a biomass feedstock
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement “CO₂ only” / “heat only” pairs are false.
+
+</details>
+
+**Q37.** Which statement about biofuels is **incorrect**?
+
+A. Biofuel is eco-friendly
+
+B. Biofuel is always cost-effective versus fossils
+
+C. Biofuel can help remedy energy crisis
+
+D. Biofuel can be made from corn
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cost remains a classic limitation.
+
+</details>
+
+**Q38.** Fuel cells with pure hydrogen:
+
+A. Emit heat and water; produce DC; can power buildings and small devices
+
+B. Produce only AC; cannot power laptops
+
+C. Emit CO₂ as the main by-product
+
+D. Are identical to coal boilers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement pairs claiming AC-only or buildings-only are false.
+
+</details>
+
+**Q39.** Least polluting common fuel among options:
+
+A. Diesel
+
+B. Coal
+
+C. Hydrogen
+
+D. Kerosene
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Future fuel / National Hydrogen Energy Board **2003**; Green Hydrogen Mission **2023**.
+
+</details>
+
+**Q40.** Non-conventional energy sources are those that are:
+
+A. Only produced from heat
+
+B. Only produced from electricity
+
+C. Non-renewable electricity
+
+D. Renewable
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Non-conventional ≈ renewable in Indian prelims usage (solar, wind, etc.).
+
+</details>
+
+---
+
+
 ## Practice Zone
 
 **Q1.** Non-conventional energy sources are generally:
@@ -985,182 +1162,6 @@ Options: A. Both true; R explains A B. Both true; R does not explain A C. A true
 <details><summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Extra Drill — Energy Classification & Biofuels (Q31–Q40)
-
-**Logic:** Classification swaps (renewable / fossil / nuclear / biomass) and biofuel feedstock pairs are the densest traps.
-
-**Q31.** Energy crisis commonly means:
-
-A. Only shortage of hydroelectricity
-
-B. Malnutrition in the human body
-
-C. Danger of exhaustion of fossil fuels like coal and petroleum
-
-D. Only shortage of thermal power plants
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** UN Decade of Sustainable Energy for All = **2014–2024** (UN initiative).
-
-</details>
-
-**Q32.** Which is **not** a fossil fuel?
-
-A. Coal
-
-B. Petroleum
-
-C. Natural gas
-
-D. Uranium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Uranium is nuclear fuel — non-renewable but not fossil.
-
-</details>
-
-**Q33.** Best electricity source among options for sustainable development:
-
-A. Coal
-
-B. Mineral oil and gas
-
-C. Hydroelectricity
-
-D. Atomic energy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Water is not depleted by generation the way fossil/nuclear stocks are.
-
-</details>
-
-**Q34.** Ultimate source of energy stored in fossil fuels:
-
-A. Earth interior only
-
-B. Sun
-
-C. Sea
-
-D. Moon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Ancient photosynthesis. Geothermal heat itself is **not** “from the Sun” in MCQ sense.
-
-</details>
-
-**Q35.** Maize is primarily cultivated among energy crops for:
-
-A. Biodiesel only
-
-B. Ethanol
-
-C. Nuclear fuel
-
-D. Tidal power
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Jatropha / Pongamia / sunflower → biodiesel; maize → ethanol.
-
-</details>
-
-**Q36.** Biomass gasification — which is correct?
-
-A. Only CO₂ is produced; cannot run engines
-
-B. Shells/husk usable; producer gas has CO + H₂ (+ traces CH₄); can run IC engines
-
-C. Only hydrogen and carbon dioxide; heat only
-
-D. Nuclear waste is a biomass feedstock
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statement “CO₂ only” / “heat only” pairs are false.
-
-</details>
-
-**Q37.** Which statement about biofuels is **incorrect**?
-
-A. Biofuel is eco-friendly
-
-B. Biofuel is always cost-effective versus fossils
-
-C. Biofuel can help remedy energy crisis
-
-D. Biofuel can be made from corn
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Cost remains a classic limitation.
-
-</details>
-
-**Q38.** Fuel cells with pure hydrogen:
-
-A. Emit heat and water; produce DC; can power buildings and small devices
-
-B. Produce only AC; cannot power laptops
-
-C. Emit CO₂ as the main by-product
-
-D. Are identical to coal boilers
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statement pairs claiming AC-only or buildings-only are false.
-
-</details>
-
-**Q39.** Least polluting common fuel among options:
-
-A. Diesel
-
-B. Coal
-
-C. Hydrogen
-
-D. Kerosene
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Future fuel / National Hydrogen Energy Board **2003**; Green Hydrogen Mission **2023**.
-
-</details>
-
-**Q40.** Non-conventional energy sources are those that are:
-
-A. Only produced from heat
-
-B. Only produced from electricity
-
-C. Non-renewable electricity
-
-D. Renewable
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Non-conventional ≈ renewable in Indian prelims usage (solar, wind, etc.).
 
 </details>
 

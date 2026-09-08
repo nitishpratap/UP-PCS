@@ -15,6 +15,34 @@ Articles | Parts | Schedules | Constitutional Bodies | Statutory Bodies | Import
 
 ---
 
+
+## Current Affairs (what the year actually tests)
+
+| Year | Fact |
+|------|------|
+| 2025 | Part XI ≠ Municipalities; 8th Schedule **Bhojpuri OUT**; 42nd Preamble = **Socialist + Secular** |
+| 2024 | *Kesavananda* chronology; 42nd = **1976**; GST = **101st** |
+| 2023 | Schedule NOT-matched (9th ≠ RS seats); Panchayat polls = **SEC** |
+| 2022 | 3rd/4th/7th/8th match; RTE = **86th** not 103rd |
+| 2021 | *Golaknath* → 24th → *Kesavananda* → 42nd |
+| 2023 | **106th** women 33% — **not yet in force** |
+
+---
+
+## Current Affairs (bodies · Parliament)
+
+| Year | Fact |
+|------|------|
+| 2024 | NCBC matched to **340** as the paper’s “least-wrong” — still learn **338B** vs **340** |
+| 2024 | UPSC functions = **four sources**; Zero Hour already locked 2021 |
+| 2023 | Panchayat polls = **SEC**, not ECI, not a “PR Commission of India” |
+| 2023 | CEC Act panel **without CJI** |
+| 2021 | ISC = **Sarkaria**; UPPSC extend = **Legislature** |
+| 2018 | *Navtej* = **s.377 IPC** |
+
+---
+
+
 ## Quick Revision — Spine Only
 
 ```
@@ -534,19 +562,6 @@ Trap: Governor’s oath = CJI. **State HC Chief Justice.** Trap: President’s o
 | **Japan** | **Procedure established by law** (Art. 21) |
 
 Trap: Residuary = USA (States). **Canada / Centre.** Trap: DPSP = USA. **Ireland.** Trap: Duties = Ireland. **USSR.** Trap: Joint sitting = UK. **Australia.** Trap: “Procedure established by law” = USA due process. **Japan**; USA is due process.
-
----
-
-## Current Affairs (what the year actually tests)
-
-| Year | Fact |
-|------|------|
-| 2025 | Part XI ≠ Municipalities; 8th Schedule **Bhojpuri OUT**; 42nd Preamble = **Socialist + Secular** |
-| 2024 | *Kesavananda* chronology; 42nd = **1976**; GST = **101st** |
-| 2023 | Schedule NOT-matched (9th ≠ RS seats); Panchayat polls = **SEC** |
-| 2022 | 3rd/4th/7th/8th match; RTE = **86th** not 103rd |
-| 2021 | *Golaknath* → 24th → *Kesavananda* → 42nd |
-| 2023 | **106th** women 33% — **not yet in force** |
 
 ---
 
@@ -1889,19 +1904,6 @@ Trap: 109 = definition. **110 = definition; 109 = procedure.** Trap: CAB in RS i
 | **Not UP** | **No Art. 371**. **No 5th/6th Schedule**. Manipur LA is **60** not 62 |
 
 First Governor **Sarojini Naidu** (1947). First CM **G.B. Pant**. First woman CM **Sucheta Kripalani** (1963).
-
----
-
-## Current Affairs (bodies · Parliament)
-
-| Year | Fact |
-|------|------|
-| 2024 | NCBC matched to **340** as the paper’s “least-wrong” — still learn **338B** vs **340** |
-| 2024 | UPSC functions = **four sources**; Zero Hour already locked 2021 |
-| 2023 | Panchayat polls = **SEC**, not ECI, not a “PR Commission of India” |
-| 2023 | CEC Act panel **without CJI** |
-| 2021 | ISC = **Sarkaria**; UPPSC extend = **Legislature** |
-| 2018 | *Navtej* = **s.377 IPC** |
 
 ---
 

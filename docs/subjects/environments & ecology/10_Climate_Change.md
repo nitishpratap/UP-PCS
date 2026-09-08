@@ -484,6 +484,161 @@ D. Only island nations
 
 ---
 
+## Extra Drill — Ghatnachakra-pattern (Q31–Q40)
+
+**Logic (set):** Mechanism, non-GHG traps, methane/rice, impacts thresholds, treaties/finance, and net-zero wording.
+
+**Q31.** The greenhouse-effect concept was postulated by:
+
+A. C.C. Park  
+B. Joseph Fourier  
+C. L. Zobler  
+D. Arrhenius only in 1990s  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Joseph Fourier in the **1820s**.
+
+</details>
+
+**Q32.** Which is **not** responsible for global warming?
+
+A. Methane  
+B. Water vapour  
+C. Argon  
+D. Carbon dioxide  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Argon is **not** a greenhouse gas.
+
+</details>
+
+**Q33.** Decreasing order of contribution commonly tested:
+
+A. CO₂ > CH₄ > CFCs > N₂O  
+B. CH₄ > CO₂ > CFCs > N₂O  
+C. CO₂ > N₂O > CH₄ > CFCs  
+D. CFCs > CO₂ > CH₄ > N₂O  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** WMO-style share order used in many Indian papers.
+
+</details>
+
+**Q34.** Among the following crops, the most important anthropogenic source of **both** methane and nitrous oxide is:
+
+A. Cotton  
+B. Rice  
+C. Sugarcane  
+D. Wheat  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Paddy anaerobic CH₄ + fertiliser N₂O.
+
+</details>
+
+**Q35.** Carbon fertilization best describes:
+
+A. Ocean acidification from CO₂  
+B. Increased plant growth from higher atmospheric CO₂  
+C. Global warming from CO₂ alone  
+D. Adaptation of all species to climate change  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** More photosynthesis / greening from elevated CO₂.
+
+</details>
+
+**Q36.** Without the greenhouse effect, Earth’s average surface temperature would be about:
+
+A. 0°C  
+B. −18°C  
+C. 5°C  
+D. −20°C  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Roughly **−18°C**.
+
+</details>
+
+**Q37.** If warming exceeds about **3°C** above pre-industrial levels, which impacts are plausible?
+
+1. Terrestrial biosphere tends toward a net carbon source  
+2. Widespread coral mortality  
+3. All global wetlands permanently disappear  
+4. Cereals cannot be cultivated anywhere  
+
+A. 1 only  
+B. 1 and 2 only  
+C. 2, 3 and 4 only  
+D. All four  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** +2°C already implies widespread coral mortality; +3°C adds net carbon-source risk. Absolute “all wetlands” / “no cereals anywhere” are overstated.
+
+**Ans: B**
+
+</details>
+
+**Q38.** Green Climate Fund was established at:
+
+A. Durban COP  
+B. Cancun COP-16 (2010)  
+C. Paris COP-21 only as first idea  
+D. Stockholm 1972  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cancun **2010** under UNFCCC.
+
+</details>
+
+**Q39.** With reference to net-zero for 2050/2070 pathways, which is correct?
+
+A. A country must bring every emission to absolute zero.  
+B. Residual emissions are compensated by absorption and removal.  
+C. Both A and B  
+D. Neither  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Balance of emissions and removals — Bhutan-style negative emissions possible if removals exceed emissions.
+
+</details>
+
+**Q40.** Assertion (A): Climate change can increase social tension in India.  
+Reason (R): Extreme weather frequency/intensity has serious repercussions on food security.
+
+A. Both true; R explains A  
+B. Both true; R does not explain A  
+C. A true; R false  
+D. A false; R true  
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A tests socio-political stress; R tests the food-security pathway linking climate extremes to social tension.
+
+**Ans: A**
+
+</details>
+
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questionsQ1.** With reference to global warming, which statements is/are correct?
@@ -1029,156 +1184,3 @@ D. Investment plans in other countries
 
 ---
 
-## Extra Drill — Ghatnachakra-pattern (Q31–Q40)
-
-**Logic (set):** Mechanism, non-GHG traps, methane/rice, impacts thresholds, treaties/finance, and net-zero wording.
-
-**Q31.** The greenhouse-effect concept was postulated by:
-
-A. C.C. Park  
-B. Joseph Fourier  
-C. L. Zobler  
-D. Arrhenius only in 1990s  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Joseph Fourier in the **1820s**.
-
-</details>
-
-**Q32.** Which is **not** responsible for global warming?
-
-A. Methane  
-B. Water vapour  
-C. Argon  
-D. Carbon dioxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Argon is **not** a greenhouse gas.
-
-</details>
-
-**Q33.** Decreasing order of contribution commonly tested:
-
-A. CO₂ > CH₄ > CFCs > N₂O  
-B. CH₄ > CO₂ > CFCs > N₂O  
-C. CO₂ > N₂O > CH₄ > CFCs  
-D. CFCs > CO₂ > CH₄ > N₂O  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** WMO-style share order used in many Indian papers.
-
-</details>
-
-**Q34.** Among the following crops, the most important anthropogenic source of **both** methane and nitrous oxide is:
-
-A. Cotton  
-B. Rice  
-C. Sugarcane  
-D. Wheat  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Paddy anaerobic CH₄ + fertiliser N₂O.
-
-</details>
-
-**Q35.** Carbon fertilization best describes:
-
-A. Ocean acidification from CO₂  
-B. Increased plant growth from higher atmospheric CO₂  
-C. Global warming from CO₂ alone  
-D. Adaptation of all species to climate change  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** More photosynthesis / greening from elevated CO₂.
-
-</details>
-
-**Q36.** Without the greenhouse effect, Earth’s average surface temperature would be about:
-
-A. 0°C  
-B. −18°C  
-C. 5°C  
-D. −20°C  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Roughly **−18°C**.
-
-</details>
-
-**Q37.** If warming exceeds about **3°C** above pre-industrial levels, which impacts are plausible?
-
-1. Terrestrial biosphere tends toward a net carbon source  
-2. Widespread coral mortality  
-3. All global wetlands permanently disappear  
-4. Cereals cannot be cultivated anywhere  
-
-A. 1 only  
-B. 1 and 2 only  
-C. 2, 3 and 4 only  
-D. All four  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** +2°C already implies widespread coral mortality; +3°C adds net carbon-source risk. Absolute “all wetlands” / “no cereals anywhere” are overstated.
-
-**Ans: B**
-
-</details>
-
-**Q38.** Green Climate Fund was established at:
-
-A. Durban COP  
-B. Cancun COP-16 (2010)  
-C. Paris COP-21 only as first idea  
-D. Stockholm 1972  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Cancun **2010** under UNFCCC.
-
-</details>
-
-**Q39.** With reference to net-zero for 2050/2070 pathways, which is correct?
-
-A. A country must bring every emission to absolute zero.  
-B. Residual emissions are compensated by absorption and removal.  
-C. Both A and B  
-D. Neither  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Balance of emissions and removals — Bhutan-style negative emissions possible if removals exceed emissions.
-
-</details>
-
-**Q40.** Assertion (A): Climate change can increase social tension in India.  
-Reason (R): Extreme weather frequency/intensity has serious repercussions on food security.
-
-A. Both true; R explains A  
-B. Both true; R does not explain A  
-C. A true; R false  
-D. A false; R true  
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests socio-political stress; R tests the food-security pathway linking climate extremes to social tension.
-
-**Ans: A**
-
-</details>

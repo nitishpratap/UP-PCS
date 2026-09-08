@@ -15,6 +15,17 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ---
 
+
+## Current Affairs
+
+- **Ancient Buddhist Site of Sarnath (UP)** inscribed UNESCO WHS, **July 2026** (48th WHC, Busan) — India’s **45th** property; serial site = Chaukhandi Stupa + archaeological remains (Dhamek, Ashokan pillar zone).
+- **Maratha Military Landscapes of India** — UNESCO **2025**, India’s **44th** (12 forts: 11 Maharashtra + Gingee, TN).
+- **Moidams – Mound-Burial System of the Ahom Dynasty** (Charaideo, Assam) — UNESCO **2024**, **43rd**.
+- These three are architecture/landscape facts for this topic.
+
+---
+
+
 ## Consolidated — 40 Must-Score Facts
 
 1. **Nagara** temples have a curvilinear **shikhara** and generally **no** monumental gopuram. **Dravida** temples have a pyramidal **vimana** plus tall **gopuram**. **Vesara** is the Deccan hybrid of Chalukya / Hoysala land.
@@ -2129,15 +2140,6 @@ A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 **Ans: A.** 1 and 2. **Omkareshwar** is Shiva, not Surya.
 
 </details>
-
----
-
-## Current Affairs
-
-- **Ancient Buddhist Site of Sarnath (UP)** inscribed UNESCO WHS, **July 2026** (48th WHC, Busan) — India’s **45th** property; serial site = Chaukhandi Stupa + archaeological remains (Dhamek, Ashokan pillar zone).
-- **Maratha Military Landscapes of India** — UNESCO **2025**, India’s **44th** (12 forts: 11 Maharashtra + Gingee, TN).
-- **Moidams – Mound-Burial System of the Ahom Dynasty** (Charaideo, Assam) — UNESCO **2024**, **43rd**.
-- These three are architecture/landscape facts for this topic.
 
 ---
 

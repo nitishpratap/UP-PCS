@@ -15,6 +15,19 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **June 2025** | Sahitya Akademi Yuva Puraskar in **23** languages; **no Dogri** | UPPCS 2025 Q20 | Sahitya Akademi press note / PIB |
+| **Budget 2025–26** | **Gyan Bharatam Mission** — NMM restructured (Central Sector, ~2024–31) for manuscript survey/digitisation | Scheme-name trap vs old NMM 2003 | PIB / Mo Culture |
+| **June 2024** | New **Nalanda University** campus inaugurated at **Rajgir**; university under **MEA** | Not ASI ruins; not Mo Culture | PMO / MEA |
+| **May 2025** | **Sachin Chaturvedi** assumed charge as VC, Nalanda University | Appointment CA | University / press |
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. The **Asiatic Society of Bengal** was founded in **1784** at Calcutta by **Sir William Jones**. **Warren Hastings** declined the Presidentship in Jones’s favour.
@@ -1434,17 +1447,6 @@ D. 1, 2 and 3
 **Ans: D**
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **June 2025** | Sahitya Akademi Yuva Puraskar in **23** languages; **no Dogri** | UPPCS 2025 Q20 | Sahitya Akademi press note / PIB |
-| **Budget 2025–26** | **Gyan Bharatam Mission** — NMM restructured (Central Sector, ~2024–31) for manuscript survey/digitisation | Scheme-name trap vs old NMM 2003 | PIB / Mo Culture |
-| **June 2024** | New **Nalanda University** campus inaugurated at **Rajgir**; university under **MEA** | Not ASI ruins; not Mo Culture | PMO / MEA |
-| **May 2025** | **Sachin Chaturvedi** assumed charge as VC, Nalanda University | Appointment CA | University / press |
 
 ---
 

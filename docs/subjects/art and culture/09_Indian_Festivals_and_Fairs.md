@@ -15,6 +15,21 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| 13 Jan–26 Feb 2025 | Maha Kumbh at **Prayagraj**, ~45 days | UP + Kumbh site | UP / PIB |
+| May 2025 (about 14–26) | **Pushkar Kumbh** at Mana / Keshav Prayag, **Uttarakhand** | 2025 Q97. Not Rajasthan camel fair | UK CMO / press |
+| Dec 2023 | Garba of Gujarat UNESCO ICH | Folk ≠ classical | UNESCO |
+| 2021 | Durga Puja of Kolkata UNESCO ICH | Bengal festival vs Navratri | UNESCO |
+| 2017 | Kumbh Mela UNESCO ICH | Standing fact | UNESCO |
+| Jan 2023 | SCO Film Festival, Mumbai | 2023 Q87 | PIB / I&B |
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. The four **Kumbh** sites are **Prayagraj**, **Haridwar**, **Nashik**, and **Ujjain**. Their rivers are Ganga–Yamuna–Saraswati, Ganga, Godavari, and Shipra. **Pushkar** is not a Kumbh site.
@@ -1165,19 +1180,6 @@ D. 1, 2 and 3
 **Ans: D.**
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 13 Jan–26 Feb 2025 | Maha Kumbh at **Prayagraj**, ~45 days | UP + Kumbh site | UP / PIB |
-| May 2025 (about 14–26) | **Pushkar Kumbh** at Mana / Keshav Prayag, **Uttarakhand** | 2025 Q97. Not Rajasthan camel fair | UK CMO / press |
-| Dec 2023 | Garba of Gujarat UNESCO ICH | Folk ≠ classical | UNESCO |
-| 2021 | Durga Puja of Kolkata UNESCO ICH | Bengal festival vs Navratri | UNESCO |
-| 2017 | Kumbh Mela UNESCO ICH | Standing fact | UNESCO |
-| Jan 2023 | SCO Film Festival, Mumbai | 2023 Q87 | PIB / I&B |
 
 ---
 

@@ -17,6 +17,23 @@
 
 ---
 
+
+## Current Affairs
+
+- **24 April** is National Panchayati Raj Day, marking when the 73rd Amendment came into force.
+- On **2 October 1959**, the first 3-tier Panchayati Raj system was inaugurated at Nagaur, Rajasthan.
+- In **2021**, the Supreme Court in *Rajendra N. Shah* limited Part IXB, the cooperatives amendment (97th), to multi-State cooperatives only.
+- Many States, including UP, now give women **50%** reservation by State law, well above the constitutional floor of 1/3 under Art. 243D.
+- The Union **Ministry of Panchayati Raj** was created in **2004**.
+- The **15th Finance Commission** gives grants to all three PRI tiers, partly tied to water and sanitation outcomes.
+- Key current schemes include **e-Gram Swaraj** (e-governance for Panchayats), **SVAMITVA** (rural property cards), and the **RGSA** (Rashtriya Gram Swaraj Abhiyan).
+- The 74th Amendment came into force on **1 June**, a little after the 73rd's **24 April**.
+- The **Madras Municipal Corporation (1688)** remains the first municipal corporation in India.
+- Urban schemes such as **AMRUT, SBM-Urban, PMAY-U,** and **Smart Cities** (all under MoHUA) do not replace the 74th Amendment framework.
+
+---
+
+
 ## Consolidated — 30 Must-Score Facts
 
 1. **Article 40** (Gandhian DPSP) asks the State to organise village panchayats. The **73rd Amendment** gave Panchayats constitutional status in **Part IX** (**Articles 243–243O**) plus the **11th Schedule** (**29** subjects).
@@ -1111,21 +1128,6 @@ UP's three ULB types are called **Nagar Nigam, Nagar Palika Parishad,** and **Na
 - The **same U.P. State Election Commission** that conducts Panchayat elections also conducts ULB elections.
 - The **Lucknow Development Authority (LDA)** and other Development Authorities handle the master plan and land, but they are **not** the Nagar Nigam itself; Cantonment Boards also sit **beside** the Nigam in cities like Lucknow, Kanpur, Meerut, and Prayagraj.
 - Union schemes such as AMRUT, SBM-Urban, PMAY-U, and Smart Cities are delivered **through** the ULB or a dedicated SPV — they do not replace the 74th Amendment framework.
-
----
-
-## Current Affairs
-
-- **24 April** is National Panchayati Raj Day, marking when the 73rd Amendment came into force.
-- On **2 October 1959**, the first 3-tier Panchayati Raj system was inaugurated at Nagaur, Rajasthan.
-- In **2021**, the Supreme Court in *Rajendra N. Shah* limited Part IXB, the cooperatives amendment (97th), to multi-State cooperatives only.
-- Many States, including UP, now give women **50%** reservation by State law, well above the constitutional floor of 1/3 under Art. 243D.
-- The Union **Ministry of Panchayati Raj** was created in **2004**.
-- The **15th Finance Commission** gives grants to all three PRI tiers, partly tied to water and sanitation outcomes.
-- Key current schemes include **e-Gram Swaraj** (e-governance for Panchayats), **SVAMITVA** (rural property cards), and the **RGSA** (Rashtriya Gram Swaraj Abhiyan).
-- The 74th Amendment came into force on **1 June**, a little after the 73rd's **24 April**.
-- The **Madras Municipal Corporation (1688)** remains the first municipal corporation in India.
-- Urban schemes such as **AMRUT, SBM-Urban, PMAY-U,** and **Smart Cities** (all under MoHUA) do not replace the 74th Amendment framework.
 
 ---
 

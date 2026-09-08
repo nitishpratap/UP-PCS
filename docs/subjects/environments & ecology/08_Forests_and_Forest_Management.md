@@ -594,6 +594,184 @@ D. None of the above
 
 ---
 
+## Extra Drill — Ghatnachakra Forest & Wildlife (Q31–Q40)
+
+**Logic:** These stems recycle evergreen/teak/mangrove/NFP/ISFR traps from standard banks.
+
+**Q31.** Tropical evergreen forests in India are typically found in:
+
+A. Malwa Plateau
+
+B. Chhotanagpur Plateau
+
+C. Western Ghats
+
+D. Only Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Evergreen belts need >**200 cm** rain — Western Ghats, NE hills, A&N. Himachal is mainly pine/temperate, not tropical wet evergreen.
+
+</details>
+
+**Q32.** Teak is the dominant tree species of which forest type?
+
+A. Tropical rainforest
+
+B. Tropical moist deciduous forest
+
+C. Tropical thorn scrub
+
+D. Temperate grassland forest
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Teak dominates tropical moist deciduous (100–200 cm). **Madhya Pradesh** leads teak area among common options.
+
+</details>
+
+**Q33.** With reference to Red Sanders, which is correct?
+
+A. It is a tropical rainforest tree of South India
+
+B. It is endemic to dry deciduous South India / southern Eastern Ghats
+
+C. It is a Himalayan conifer
+
+D. It is found only in Sundarbans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** *Pterocarpus santalinus* — Palkonda–Seshachalam / southern Eastern Ghats dry deciduous. Statement pairing it with tropical rainforest is false.
+
+</details>
+
+**Q34.** Mangroves function as a safety hedge against coastal calamities mainly because:
+
+A. People never live near mangrove coasts
+
+B. Trees provide post-disaster food and medicine only
+
+C. Dense canopies alone stop every cyclone
+
+D. Extensive roots keep trees from being uprooted by storms and tides
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Classic root-system explanation. Odisha is most cyclone-prone; Mahanadi mangrove loss raises risk.
+
+</details>
+
+**Q35.** Which region has mangrove + evergreen + deciduous forests together?
+
+A. Southern Saurashtra
+
+B. North Coastal Andhra Pradesh
+
+C. Andaman and Nicobar Islands
+
+D. Himalayan Terai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A&N mangrove cover ~**616–617 km²** (ISFR 2021-style). Coringa = Godavari (AP); Bhitarkanika = Brahmani–Baitarni (Odisha).
+
+</details>
+
+**Q36.** National Forest Policy 1952 classified forests as Protected, National, Village Forests and:
+
+A. National Parks
+
+B. Tree Lands
+
+C. Biosphere Reserves
+
+D. Community Reserves
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Four classes include **Tree Lands**. National Park is not a 1952 forest class. Current cover target is from **NFP 1988** (~**33%**).
+
+</details>
+
+**Q37.** Which is **not** an impact of deforestation?
+
+A. Soil erosion
+
+B. Loss of biodiversity
+
+C. Urbanisation
+
+D. Drying of water sources
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Urbanisation is a **cause**, not an effect. Nagaland barren hills → jhum; Jharkhand climate stress often linked to forest fires.
+
+</details>
+
+**Q38.** Assertion (A): Forests are a renewable resource.  
+Reason (R): They enhance environmental quality by absorbing CO₂ and releasing O₂.
+
+A. Both true; R explains A
+
+B. Both true; R does not explain A
+
+C. A true; R false
+
+D. A false; R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both true, but renewability comes from regenerative capacity / sustainable reuse — not from the CO₂–O₂ services alone.
+
+</details>
+
+**Q39.** Living root bridges are found in:
+
+A. Meghalaya
+
+B. Himachal Pradesh
+
+C. Jharkhand
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Meghalaya Ficus-trained bridges. Valparai (TN) is a plantation town fact, not root bridges.
+
+</details>
+
+**Q40.** As per ISFR 2021-style ranking, maximum increase in forest cover among common options was in:
+
+A. Assam
+
+B. Andhra Pradesh
+
+C. Arunachal Pradesh
+
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Top gains: Andhra Pradesh (~647 km²), Telangana, Odisha. Mizoram leads **percentage** cover; MP leads **area**.
+
+</details>
+
+---
+
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questionsQ1.** With reference to ISFR, which statements is/are correct?
@@ -1091,183 +1269,6 @@ D. 33.00%
 <details><summary>Show answer</summary>
 
 **Ans: C**
-
-</details>
-
----
-
-## Extra Drill — Ghatnachakra Forest & Wildlife (Q31–Q40)
-
-**Logic:** These stems recycle evergreen/teak/mangrove/NFP/ISFR traps from standard banks.
-
-**Q31.** Tropical evergreen forests in India are typically found in:
-
-A. Malwa Plateau
-
-B. Chhotanagpur Plateau
-
-C. Western Ghats
-
-D. Only Himachal Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Evergreen belts need >**200 cm** rain — Western Ghats, NE hills, A&N. Himachal is mainly pine/temperate, not tropical wet evergreen.
-
-</details>
-
-**Q32.** Teak is the dominant tree species of which forest type?
-
-A. Tropical rainforest
-
-B. Tropical moist deciduous forest
-
-C. Tropical thorn scrub
-
-D. Temperate grassland forest
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Teak dominates tropical moist deciduous (100–200 cm). **Madhya Pradesh** leads teak area among common options.
-
-</details>
-
-**Q33.** With reference to Red Sanders, which is correct?
-
-A. It is a tropical rainforest tree of South India
-
-B. It is endemic to dry deciduous South India / southern Eastern Ghats
-
-C. It is a Himalayan conifer
-
-D. It is found only in Sundarbans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** *Pterocarpus santalinus* — Palkonda–Seshachalam / southern Eastern Ghats dry deciduous. Statement pairing it with tropical rainforest is false.
-
-</details>
-
-**Q34.** Mangroves function as a safety hedge against coastal calamities mainly because:
-
-A. People never live near mangrove coasts
-
-B. Trees provide post-disaster food and medicine only
-
-C. Dense canopies alone stop every cyclone
-
-D. Extensive roots keep trees from being uprooted by storms and tides
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Classic root-system explanation. Odisha is most cyclone-prone; Mahanadi mangrove loss raises risk.
-
-</details>
-
-**Q35.** Which region has mangrove + evergreen + deciduous forests together?
-
-A. Southern Saurashtra
-
-B. North Coastal Andhra Pradesh
-
-C. Andaman and Nicobar Islands
-
-D. Himalayan Terai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A&N mangrove cover ~**616–617 km²** (ISFR 2021-style). Coringa = Godavari (AP); Bhitarkanika = Brahmani–Baitarni (Odisha).
-
-</details>
-
-**Q36.** National Forest Policy 1952 classified forests as Protected, National, Village Forests and:
-
-A. National Parks
-
-B. Tree Lands
-
-C. Biosphere Reserves
-
-D. Community Reserves
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Four classes include **Tree Lands**. National Park is not a 1952 forest class. Current cover target is from **NFP 1988** (~**33%**).
-
-</details>
-
-**Q37.** Which is **not** an impact of deforestation?
-
-A. Soil erosion
-
-B. Loss of biodiversity
-
-C. Urbanisation
-
-D. Drying of water sources
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Urbanisation is a **cause**, not an effect. Nagaland barren hills → jhum; Jharkhand climate stress often linked to forest fires.
-
-</details>
-
-**Q38.** Assertion (A): Forests are a renewable resource.  
-Reason (R): They enhance environmental quality by absorbing CO₂ and releasing O₂.
-
-A. Both true; R explains A
-
-B. Both true; R does not explain A
-
-C. A true; R false
-
-D. A false; R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both true, but renewability comes from regenerative capacity / sustainable reuse — not from the CO₂–O₂ services alone.
-
-</details>
-
-**Q39.** Living root bridges are found in:
-
-A. Meghalaya
-
-B. Himachal Pradesh
-
-C. Jharkhand
-
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Meghalaya Ficus-trained bridges. Valparai (TN) is a plantation town fact, not root bridges.
-
-</details>
-
-**Q40.** As per ISFR 2021-style ranking, maximum increase in forest cover among common options was in:
-
-A. Assam
-
-B. Andhra Pradesh
-
-C. Arunachal Pradesh
-
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Top gains: Andhra Pradesh (~647 km²), Telangana, Odisha. Mizoram leads **percentage** cover; MP leads **area**.
 
 </details>
 

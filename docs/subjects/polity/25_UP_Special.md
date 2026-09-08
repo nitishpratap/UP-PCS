@@ -15,6 +15,28 @@ Governor of Uttar Pradesh | UP Legislative Assembly | Strength of UP LA | UP Leg
 
 ---
 
+
+## Current Affairs (what the year actually tests)
+
+Newest first. One event, one fact.
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
+| **2025** | Devipatan division districts (geography paper) | **Gonda** division: Bahraich, Balrampur, Gonda, Shravasti |
+| **2023** | UP in Parliament | RS **31** and LS **80** — **both** true |
+| **2022** | LA strengths “NOT matched” | **Manipur 62** is wrong (**60**). UP **403** is right |
+| **2007** | Uttaranchal renamed | **Uttarakhand, 1 Jan 2007** |
+| **2000** | Reorganisation | **9 Nov** · LA 425→**403** · LS 85→**80** · RS 34→**31** |
+| **1989** | Urdu | **Second** official language |
+| **1948** | Lucknow Bench | Oudh Chief Court **merged**, not a new HC |
+| **2023** | Who conducts Panchayat elections? | **SEC** — not ECI, not a “PR Commission of India” |
+| **2021** | Who extends UPPSC functions? | **UP State Legislature** (321) |
+| **2013** | Union Lokpal Act | UP already had Lokayukta **1975** |
+| **1866** | Allahabad HC | Letters Patent **17 Mar**; first seat **Agra** |
+
+---
+
+
 ## Consolidated — 32 Must-Score Facts
 
 1. Uttar Pradesh’s **capital** is **Lucknow** (Raj Bhavan and Vidhan Bhavan). The High Court’s **principal seat** is **Prayagraj**. Lucknow hosts a **Bench**, not a second High Court.
@@ -379,26 +401,6 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - **Ward Committees (243S):** compulsory in a municipality of **3 lakh+**. **Not** a fourth 74th type
 
 > ** note:** Nagar Nigam polls = **SEC**, not ECI. Mayor ≠ executive (that is the **Commissioner**). Cantonment = **Defence**. **Noida is not a Nagar Nigam.**
-
----
-
-## Current Affairs (what the year actually tests)
-
-Newest first. One event, one fact.
-
-| Year | What happened | What you mark |
-|------|-----------------|---------------|
-| **2025** | Devipatan division districts (geography paper) | **Gonda** division: Bahraich, Balrampur, Gonda, Shravasti |
-| **2023** | UP in Parliament | RS **31** and LS **80** — **both** true |
-| **2022** | LA strengths “NOT matched” | **Manipur 62** is wrong (**60**). UP **403** is right |
-| **2007** | Uttaranchal renamed | **Uttarakhand, 1 Jan 2007** |
-| **2000** | Reorganisation | **9 Nov** · LA 425→**403** · LS 85→**80** · RS 34→**31** |
-| **1989** | Urdu | **Second** official language |
-| **1948** | Lucknow Bench | Oudh Chief Court **merged**, not a new HC |
-| **2023** | Who conducts Panchayat elections? | **SEC** — not ECI, not a “PR Commission of India” |
-| **2021** | Who extends UPPSC functions? | **UP State Legislature** (321) |
-| **2013** | Union Lokpal Act | UP already had Lokayukta **1975** |
-| **1866** | Allahabad HC | Letters Patent **17 Mar**; first seat **Agra** |
 
 ---
 

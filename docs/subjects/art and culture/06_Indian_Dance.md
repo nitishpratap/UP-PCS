@@ -15,6 +15,20 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| Dec 2023 | **Garba of Gujarat** UNESCO ICH (then India’s 15th) | Folk ≠ classical. Year/state | UNESCO 18.COM, Kasane |
+| Aug 2024 | **Yamini Krishnamurthy** died (Bharatanatyam + Kuchipudi) | Personality match | Press, 3 Aug 2024 |
+| Jan 2022 | **Birju Maharaj** died (Lucknow Kathak) | UP gharana fact | Standing personality fact |
+
+Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
+
+---
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Sangeet Natak Akademi recognises **eight** classical dances. **Sattriya** of Assam was added in **2000**. A paper that says seven has dropped Sattriya.
@@ -1059,18 +1073,6 @@ D. Sattvika — inner emotion
 **Ans: C** — Natya = drama. Nritta = pure dance.
 
 </details>
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| Dec 2023 | **Garba of Gujarat** UNESCO ICH (then India’s 15th) | Folk ≠ classical. Year/state | UNESCO 18.COM, Kasane |
-| Aug 2024 | **Yamini Krishnamurthy** died (Bharatanatyam + Kuchipudi) | Personality match | Press, 3 Aug 2024 |
-| Jan 2022 | **Birju Maharaj** died (Lucknow Kathak) | UP gharana fact | Standing personality fact |
-
-Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 ---
 

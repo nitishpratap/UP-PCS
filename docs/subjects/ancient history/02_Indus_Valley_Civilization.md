@@ -15,6 +15,17 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 
 ---
 
+
+## Current Affairs
+
+- **2021:** Dholavira → UNESCO World Heritage Site.
+- **2018:** Sanauli chariot burials (ASI).
+- **2026:** Rakhigarhi skeletons to AnSI (Kolkata) and BSIP Lucknow for DNA / facial reconstruction; ASI 3-year excavation.
+- **Budget 2026:** 15 archaeological sites as experiential destinations, including **Lothal** and **Rakhigarhi**.
+
+---
+
+
 ## Consolidated — 30 Must-Score Facts
 
 1. The Indus Valley Civilization is a **Bronze Age urban** culture. The Mature phase is about **2600–1900 BCE**. Early is roughly **3300–2600 BCE** and Late about **1900–1300 BCE**.
@@ -756,15 +767,6 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - **Sanauli** (Baghpat) — 2018 chariots, Late Harappan/OCP.
 - OCP belt = western UP doab (Hastinapur).
 - Rakhigarhi is **not** this list.
-
----
-
-## Current Affairs
-
-- **2021:** Dholavira → UNESCO World Heritage Site.
-- **2018:** Sanauli chariot burials (ASI).
-- **2026:** Rakhigarhi skeletons to AnSI (Kolkata) and BSIP Lucknow for DNA / facial reconstruction; ASI 3-year excavation.
-- **Budget 2026:** 15 archaeological sites as experiential destinations, including **Lothal** and **Rakhigarhi**.
 
 ---
 

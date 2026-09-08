@@ -1067,6 +1067,183 @@ D. Becomes cyclic
 
 ---
 
+## Extra drill — Ghatnachakra ecology stems
+
+**Logic:** These stems recycle Tansley / open system / hierarchy / artificial ecosystem / marine stability / succession / MEA / productivity order traps.
+
+**Q31.** The term ecosystem was proposed by:
+
+A. G. Taylor
+
+B. E. Hartigan
+
+C. D.R. Stoddart
+
+D. A.G. Tansley
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tansley coined *ecosystem* in **1935**.
+
+</details>
+
+**Q32.** Which is NOT correct about the ecosystem?
+
+A. It comprises abiotic and biotic components
+
+B. It has its productivity
+
+C. It is a closed system
+
+D. It is a natural resource system
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** An ecosystem is normally an **open** system.
+
+</details>
+
+**Q33.** Correct order from organism toward biosphere:
+
+A. Population–Ecosystem–Community–Landscape
+
+B. Landscape–Community–Ecosystem–Population
+
+C. Population–Community–Ecosystem–Landscape
+
+D. Population–Landscape–Community–Ecosystem
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Population → Community → Ecosystem → Landscape.
+
+</details>
+
+**Q34.** Which is an artificial ecosystem?
+
+A. Pond (natural)
+
+B. Rice field / farmland
+
+C. Forest
+
+D. Lake (natural)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Farmland / rice field is human-made and controlled.
+
+</details>
+
+**Q35.** Most stable / largest-area ecosystem type among common options:
+
+A. Desert
+
+B. Grassland
+
+C. Forest
+
+D. Marine (ocean)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Marine ecosystem covers ~71% of Earth and is treated as most stable.
+
+</details>
+
+**Q36.** Full biotic succession sequence:
+
+A. Migration–Nudation–Ecesis–Reaction–Stabilisation
+
+B. Nudation–Migration–Ecesis–Reaction–Stabilisation
+
+C. Ecesis–Migration–Nudation–Reaction–Stabilisation
+
+D. Stabilisation–Reaction–Nudation–Migration–Ecesis
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Starts with **Nudation**.
+
+</details>
+
+**Q37.** Decreasing productivity order:
+
+A. Oceans–lakes–grasslands–mangroves
+
+B. Mangroves–oceans–grasslands–lakes
+
+C. Mangroves–grasslands–lakes–oceans
+
+D. Oceans–mangroves–lakes–grasslands
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mangroves > grasslands > lakes > oceans.
+
+</details>
+
+**Q38.** Transition zone between two communities is:
+
+A. Ecosphere
+
+B. Ecoboundary
+
+C. Ecotone
+
+D. Ecotype
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ecotone**.
+
+</details>
+
+**Q39.** Density gradient in a water system is shown by:
+
+A. Ecocline
+
+B. Halocline
+
+C. Pycnocline
+
+D. Thermocline
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Pycnocline** = density; Halocline = salt; Thermocline = temperature with depth.
+
+</details>
+
+**Q40.** Which tree is treated as an environmental hazard for groundwater drawdown?
+
+A. Babul
+
+B. Eucalyptus
+
+C. Neem
+
+D. Peepal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Eucalyptus** draws heavy groundwater.
+
+</details>
+
+---
+
+
 ## Practice Zone — UPPCS Format Drill
 
 > **30 questions** | multi-statement + A/R + match + chronology + NOT-matched
@@ -1591,182 +1768,6 @@ D. Lake
 <details><summary>Show answer</summary>
 
 **Ans: C**
-
-</details>
-
----
-
-### Extra drill — Ghatnachakra ecology stems
-
-**Logic:** These stems recycle Tansley / open system / hierarchy / artificial ecosystem / marine stability / succession / MEA / productivity order traps.
-
-**Q31.** The term ecosystem was proposed by:
-
-A. G. Taylor
-
-B. E. Hartigan
-
-C. D.R. Stoddart
-
-D. A.G. Tansley
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Tansley coined *ecosystem* in **1935**.
-
-</details>
-
-**Q32.** Which is NOT correct about the ecosystem?
-
-A. It comprises abiotic and biotic components
-
-B. It has its productivity
-
-C. It is a closed system
-
-D. It is a natural resource system
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** An ecosystem is normally an **open** system.
-
-</details>
-
-**Q33.** Correct order from organism toward biosphere:
-
-A. Population–Ecosystem–Community–Landscape
-
-B. Landscape–Community–Ecosystem–Population
-
-C. Population–Community–Ecosystem–Landscape
-
-D. Population–Landscape–Community–Ecosystem
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Population → Community → Ecosystem → Landscape.
-
-</details>
-
-**Q34.** Which is an artificial ecosystem?
-
-A. Pond (natural)
-
-B. Rice field / farmland
-
-C. Forest
-
-D. Lake (natural)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Farmland / rice field is human-made and controlled.
-
-</details>
-
-**Q35.** Most stable / largest-area ecosystem type among common options:
-
-A. Desert
-
-B. Grassland
-
-C. Forest
-
-D. Marine (ocean)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Marine ecosystem covers ~71% of Earth and is treated as most stable.
-
-</details>
-
-**Q36.** Full biotic succession sequence:
-
-A. Migration–Nudation–Ecesis–Reaction–Stabilisation
-
-B. Nudation–Migration–Ecesis–Reaction–Stabilisation
-
-C. Ecesis–Migration–Nudation–Reaction–Stabilisation
-
-D. Stabilisation–Reaction–Nudation–Migration–Ecesis
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Starts with **Nudation**.
-
-</details>
-
-**Q37.** Decreasing productivity order:
-
-A. Oceans–lakes–grasslands–mangroves
-
-B. Mangroves–oceans–grasslands–lakes
-
-C. Mangroves–grasslands–lakes–oceans
-
-D. Oceans–mangroves–lakes–grasslands
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Mangroves > grasslands > lakes > oceans.
-
-</details>
-
-**Q38.** Transition zone between two communities is:
-
-A. Ecosphere
-
-B. Ecoboundary
-
-C. Ecotone
-
-D. Ecotype
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Ecotone**.
-
-</details>
-
-**Q39.** Density gradient in a water system is shown by:
-
-A. Ecocline
-
-B. Halocline
-
-C. Pycnocline
-
-D. Thermocline
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Pycnocline** = density; Halocline = salt; Thermocline = temperature with depth.
-
-</details>
-
-**Q40.** Which tree is treated as an environmental hazard for groundwater drawdown?
-
-A. Babul
-
-B. Eucalyptus
-
-C. Neem
-
-D. Peepal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Eucalyptus** draws heavy groundwater.
 
 </details>
 

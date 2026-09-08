@@ -15,6 +15,53 @@ A.K. Gopalan | Shankari Prasad | Sajjan Singh | Golaknath | Kesavananda Bharati 
 
 ---
 
+
+## Current Affairs (what the year actually tests)
+
+Newest first. One event, one fact.
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
+| **2018** | *Navtej* on homosexuality | **s.377 IPC**, not Art. 377 (UPPCS Q79) |
+| **2018** | *Joseph Shine* | s.497 adultery **struck** as a crime |
+| **2017** | *Puttaswamy* 9-judge | Privacy = FR; *Jabalpur* majority **wrong** |
+| **2016** | *Nabam Rebia* | Governor cannot rig the Assembly calendar |
+| **2015** | NJAC / *Shreya Singhal* | **99th struck 4:1** · **s.66A void** |
+| **2013** | *Lily Thomas* · POSH Act | Instant DQ on conviction · *Vishaka* guidelines get a statute |
+| **2006** | *Rameshwar Prasad* | Bihar dissolution on horse-trading fear **struck** |
+| **2024** | Chronology of the four amendment cases | **1951 → 1965 → 1967 → 1973** |
+| **2022 / 2020** | Who propounded Basic Structure? | ***Kesavananda* 1973**, not Golaknath |
+| **2021** | Golaknath / 24th / Kesavananda / 42nd | **1967 → 1971 → 1973 → 1976** |
+| **2017** | *Puttaswamy* on *Jabalpur* | Majority was **wrongly decided** |
+| **2007** | *Coelho* 9-judge | 9th Schedule post-**24 Apr 1973** still faces BS |
+| **1980** | *Minerva* | 368(4)(5) **dead** |
+| **24 Apr 1973** | *Kesavananda* | The date *and* the doctrine |
+
+---
+
+### UKPCS Prelims 2025
+
+**Logic:** Nilabati Behera is the custodial-compensation distractor.
+
+**Q. UKPCS Prelims 2025, Q132**
+
+Under Article 32, in which case was 'wilful non-compliance' with a court order declared as contempt of the court?
+
+A. Nilabati vs. State of Orissa
+B. M. L. Sachdev vs. Union of India
+C. Gracy vs. State of Kerala
+D. Gopi Aqua vs. Union of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** M. L. Sachdev vs Union of India is keyed for wilful non-compliance as contempt. Nilabati Behera is the compensation / custodial death trap.
+
+</details>
+
+---
+
+
 ## Consolidated — 32 Must-Score Facts
 
 1. *A.K. Gopalan* (**1950**) held that Article **21** is satisfied by any procedure in a valid law and read Fundamental Rights in silos. *Maneka Gandhi* (**1978**) requires a **fair, just, and reasonable** procedure and reads Articles **14, 19, and 21** together.
@@ -592,51 +639,6 @@ Two women in Palghar were arrested over a Facebook post after Bal Thackeray’s 
 - **NJAC 2015:judicial independence** — a constitutional amendment can **die**
 
 > ** note:** If the option says “propounded in *Golaknath* / *Shankari* / *Sajjan*” — **wrong year and wrong holding.** Don’t confuse *Kesavananda* (invented the ceiling) with *Minerva* (struck 42nd’s unlimited 368).
-
----
-
-## Current Affairs (what the year actually tests)
-
-Newest first. One event, one fact.
-
-| Year | What happened | What you mark |
-|------|-----------------|---------------|
-| **2018** | *Navtej* on homosexuality | **s.377 IPC**, not Art. 377 (UPPCS Q79) |
-| **2018** | *Joseph Shine* | s.497 adultery **struck** as a crime |
-| **2017** | *Puttaswamy* 9-judge | Privacy = FR; *Jabalpur* majority **wrong** |
-| **2016** | *Nabam Rebia* | Governor cannot rig the Assembly calendar |
-| **2015** | NJAC / *Shreya Singhal* | **99th struck 4:1** · **s.66A void** |
-| **2013** | *Lily Thomas* · POSH Act | Instant DQ on conviction · *Vishaka* guidelines get a statute |
-| **2006** | *Rameshwar Prasad* | Bihar dissolution on horse-trading fear **struck** |
-| **2024** | Chronology of the four amendment cases | **1951 → 1965 → 1967 → 1973** |
-| **2022 / 2020** | Who propounded Basic Structure? | ***Kesavananda* 1973**, not Golaknath |
-| **2021** | Golaknath / 24th / Kesavananda / 42nd | **1967 → 1971 → 1973 → 1976** |
-| **2017** | *Puttaswamy* on *Jabalpur* | Majority was **wrongly decided** |
-| **2007** | *Coelho* 9-judge | 9th Schedule post-**24 Apr 1973** still faces BS |
-| **1980** | *Minerva* | 368(4)(5) **dead** |
-| **24 Apr 1973** | *Kesavananda* | The date *and* the doctrine |
-
----
-
-### UKPCS Prelims 2025
-
-**Logic:** Nilabati Behera is the custodial-compensation distractor.
-
-**Q. UKPCS Prelims 2025, Q132**
-
-Under Article 32, in which case was 'wilful non-compliance' with a court order declared as contempt of the court?
-
-A. Nilabati vs. State of Orissa
-B. M. L. Sachdev vs. Union of India
-C. Gracy vs. State of Kerala
-D. Gopi Aqua vs. Union of India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** M. L. Sachdev vs Union of India is keyed for wilful non-compliance as contempt. Nilabati Behera is the compensation / custodial death trap.
-
-</details>
 
 ---
 

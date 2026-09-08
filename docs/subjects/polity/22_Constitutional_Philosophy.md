@@ -15,6 +15,28 @@ Constitutionalism | Constitutional Morality | Rule of Law | Due Process of Law |
 
 ---
 
+
+## Current Affairs (what the year actually tests)
+
+Newest first. One event, one fact.
+
+| Year | What happened | What you mark |
+|------|-----------------|---------------|
+| **2023** | SC: NCT **services** (except public order/police/land) with the elected government. Union **Ordinance/Act 2023** tried to park services with the LG | 2018 idea = LG is not a parallel CM. 2023 = the *services* fight. Don’t freeze the statute as if the judgment vanished |
+| **2021** | GNCTD **Amendment Act** enlarges the LG | Statutory push against the 2018 judgment — CA, not a new article |
+| **2018** | *NCT Delhi* (aid-and-advice) · *Navtej* (§377) · *Sabarimala* | Constitutional morality **≠** majority custom |
+| **2017** | *Puttaswamy*: privacy = FR; *ADM Jabalpur* majority called wrong | Due-process content of Art. **21** survived Emergency’s worst case |
+| **2015** | **NJAC** (99th) struck | Review of an *amendment* = constitutional supremacy, not “judicial coup” as a syllabus answer |
+| **1994** | *Bommai*: secularism = Basic Structure | A communal State government can justify **356**. floor test; don’t dissolve first |
+| **1978** | *Maneka Gandhi* | The due-process *turn*. Art. 21 words unchanged |
+| **1978** | **44th**: Art. **38(2)** inequalities; property out of Part III | Welfare clause thickened; socialism ≠ Art. 31 forever |
+| **1976** | **42nd** prints **Socialist, Secular, integrity** | Names the ideals; does **not** invent Arts. 25–28 or Part IV |
+| **1973–80** | *Kesavananda* → *Minerva* | Parliamentary sovereignty **refused**; constitutional supremacy **locked**. Secular character already in the BS *list* |
+| **1963** | **16th Amd** — sovereignty and integrity in Art. **19** restrictions + 3rd Schedule oaths | Integrity as a *liberty bound* before the Preamble printed the word (1976) |
+
+---
+
+
 ## Consolidated — 30 Must-Score Facts
 
 1. The Preamble counts are **Justice 3**, **Liberty 5**, **Equality 2**, and **Fraternity 1**. The word **Federal** is **not** in the Preamble. The **42nd** Amendment added **Socialist**, **Secular**, and **integrity**.
@@ -467,26 +489,6 @@ France’s revolutionary triad was **Liberty, Equality, Fraternity**. India **pr
 - Unity-and-integrity works through a combination of a **Preamble ideal**, a **Fundamental Duty**, and a **restriction ground** — it is not a fourth Emergency article, even during a secession-related crisis.
 
 > ** note:** “Federal” is **not** in the Preamble. Integrity in the Preamble is **42nd**; in Art. **19** and the oaths it is already **16th Amd 1963**.
-
----
-
-## Current Affairs (what the year actually tests)
-
-Newest first. One event, one fact.
-
-| Year | What happened | What you mark |
-|------|-----------------|---------------|
-| **2023** | SC: NCT **services** (except public order/police/land) with the elected government. Union **Ordinance/Act 2023** tried to park services with the LG | 2018 idea = LG is not a parallel CM. 2023 = the *services* fight. Don’t freeze the statute as if the judgment vanished |
-| **2021** | GNCTD **Amendment Act** enlarges the LG | Statutory push against the 2018 judgment — CA, not a new article |
-| **2018** | *NCT Delhi* (aid-and-advice) · *Navtej* (§377) · *Sabarimala* | Constitutional morality **≠** majority custom |
-| **2017** | *Puttaswamy*: privacy = FR; *ADM Jabalpur* majority called wrong | Due-process content of Art. **21** survived Emergency’s worst case |
-| **2015** | **NJAC** (99th) struck | Review of an *amendment* = constitutional supremacy, not “judicial coup” as a syllabus answer |
-| **1994** | *Bommai*: secularism = Basic Structure | A communal State government can justify **356**. floor test; don’t dissolve first |
-| **1978** | *Maneka Gandhi* | The due-process *turn*. Art. 21 words unchanged |
-| **1978** | **44th**: Art. **38(2)** inequalities; property out of Part III | Welfare clause thickened; socialism ≠ Art. 31 forever |
-| **1976** | **42nd** prints **Socialist, Secular, integrity** | Names the ideals; does **not** invent Arts. 25–28 or Part IV |
-| **1973–80** | *Kesavananda* → *Minerva* | Parliamentary sovereignty **refused**; constitutional supremacy **locked**. Secular character already in the BS *list* |
-| **1963** | **16th Amd** — sovereignty and integrity in Art. **19** restrictions + 3rd Schedule oaths | Integrity as a *liberty bound* before the Preamble printed the word (1976) |
 
 ---
 

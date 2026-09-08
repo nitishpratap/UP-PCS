@@ -17,6 +17,27 @@
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked |
+|------|------|-----------|
+| 2023 | CEC Act — appointment panel **without CJI** | CEC Act 2023 panel sans CJI; machinery still 324 |
+| 2023 | **106th** — 33% women, after delimitation | Reserved seats |
+| 2019–20 | **104th** — Anglo-Indian nomination ends; SC/ST quota till 2030 | 331/333/334 |
+| 2011 | First National Voters’ Day | 25 January |
+| 2001/03 | 84th freeze / 87th redraw on 2001 census | Delimitation |
+| 1988–89 | **61st** — voting age 18 | 326 |
+| 2003 | RS elections: **open ballot** for party vote | PR-STV trap |
+| 2022 | Four qualifying dates for the roll | Age 18 tested quarterly |
+| 2013 | NOTA (*PUCL*) · VVPAT Noksen | 2025 chronology |
+| 2018–24 | Electoral bonds; SC struck down Feb 2024 | Party funding |
+| 2003 | 91st Amendment — merger 2/3, split gone | 10th Schedule |
+| 2023–24 | Kovind committee, simultaneous polls | Not yet law |
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Article 324** gives the Election Commission superintendence over elections to Parliament, State legislatures, the President, and the Vice-President. It does **not** cover the Speaker’s election inside the House or Panchayat/ULB polls (those are **SEC**).
@@ -523,25 +544,6 @@ D. 2, 1, 4, 3
 - **Why “basic”:** Needs **constitutional** change to **83 / 85 / 172 / 174** (terms, dissolution) plus RPA — **not** an ECI notification.
 - **Body:** High-level committee **2023–24** (Chair **Ram Nath Kovind**) recommended a framework; **not** yet the law.
 - **Trap:** Simultaneous ≠ ECI can dissolve a State Assembly on its own. **174** remains the Governor/CM/House politics.
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked |
-|------|------|-----------|
-| 2023 | CEC Act — appointment panel **without CJI** | CEC Act 2023 panel sans CJI; machinery still 324 |
-| 2023 | **106th** — 33% women, after delimitation | Reserved seats |
-| 2019–20 | **104th** — Anglo-Indian nomination ends; SC/ST quota till 2030 | 331/333/334 |
-| 2011 | First National Voters’ Day | 25 January |
-| 2001/03 | 84th freeze / 87th redraw on 2001 census | Delimitation |
-| 1988–89 | **61st** — voting age 18 | 326 |
-| 2003 | RS elections: **open ballot** for party vote | PR-STV trap |
-| 2022 | Four qualifying dates for the roll | Age 18 tested quarterly |
-| 2013 | NOTA (*PUCL*) · VVPAT Noksen | 2025 chronology |
-| 2018–24 | Electoral bonds; SC struck down Feb 2024 | Party funding |
-| 2003 | 91st Amendment — merger 2/3, split gone | 10th Schedule |
-| 2023–24 | Kovind committee, simultaneous polls | Not yet law |
 
 ---
 

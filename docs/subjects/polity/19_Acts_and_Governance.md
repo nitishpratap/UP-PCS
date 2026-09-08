@@ -17,6 +17,19 @@
 
 ---
 
+
+## Current Affairs
+
+- **2025:** "Accountability" is **not** a food-security dimension under NFSA. Consumers can bargain below the MRP. **Adi Karmayogi** (launched June) belongs to the **Ministry of Tribal Affairs**, not Mission Karmayogi.
+- **2024:** NFSA covers **75%/50%** (rural/urban), and was **not** enforced on 5 July 2010. ICT-based e-governance **reduces cost** and **increases citizen input** — it does **not** cut transparency or add red-tape.
+- **2022:** PESA was passed in **1996**.
+- **2021:** The **NDMA** is chaired by the **PM**. The ECO Mark denotes environment-safe goods. The Wages Code does **not** include Contract Labour.
+- **2019:** MKSS is linked to **RTI**. NFSA's woman-head provision was also tested.
+- **2019–24 (running themes):** the CPA, 2019; the RTI Amendment; the CAA's 2024 upholding; Mission Karmayogi (2020); the CBC (2021); and the lateral-entry debate (2018–24).
+
+---
+
+
 ## Consolidated — 32 Must-Score Facts
 
 1. Under the Disaster Management Act **2005**, the **NDMA** is chaired by the **Prime Minister**, the **SDMA** by the **Chief Minister**, and the **DDMA** by the **District Magistrate**. The **NEC** is chaired by the **Cabinet Secretary**. The nodal ministry is **Home**.
@@ -515,17 +528,6 @@ If a paper mixes “important Acts”: Regulating **1773** · Pitt **1784** · C
 - The **Companies Act, 2013** made CSR spending mandatory under **s.135**, and created the **SFIO** along with the **NCLT/NCLAT** tribunal structure.
 - The **Motor Vehicles (Amendment) Act, 2019** raised traffic penalties and added Good Samaritan protection for those who help accident victims.
 - The **National Medical Commission Act, 2019** replaced the **Medical Council of India (MCI)**.
-
----
-
-## Current Affairs
-
-- **2025:** "Accountability" is **not** a food-security dimension under NFSA. Consumers can bargain below the MRP. **Adi Karmayogi** (launched June) belongs to the **Ministry of Tribal Affairs**, not Mission Karmayogi.
-- **2024:** NFSA covers **75%/50%** (rural/urban), and was **not** enforced on 5 July 2010. ICT-based e-governance **reduces cost** and **increases citizen input** — it does **not** cut transparency or add red-tape.
-- **2022:** PESA was passed in **1996**.
-- **2021:** The **NDMA** is chaired by the **PM**. The ECO Mark denotes environment-safe goods. The Wages Code does **not** include Contract Labour.
-- **2019:** MKSS is linked to **RTI**. NFSA's woman-head provision was also tested.
-- **2019–24 (running themes):** the CPA, 2019; the RTI Amendment; the CAA's 2024 upholding; Mission Karmayogi (2020); the CBC (2021); and the lateral-entry debate (2018–24).
 
 ---
 

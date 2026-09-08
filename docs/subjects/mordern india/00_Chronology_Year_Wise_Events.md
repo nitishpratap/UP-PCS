@@ -15,6 +15,13 @@ Year-wise Modern India timeline | Later Mughals to Independence | Company wars c
 
 ---
 
+
+## Current Affairs / Living links
+
+- Chronology itself is historical. Use this file as the **order engine** when Prelims asks arrange-events; open Topics 2–3 / 5 / 9–14 for the story behind any single year.
+)
+
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Hold **four megaspines**, not one flat list: **Wars / Expansion**, **Acts**, **Reform & Press**, **National Movement**.
@@ -1133,7 +1140,3 @@ D. 2, 4, 1, 3
 
 ---
 
-## Current Affairs / Living links
-
-- Chronology itself is historical. Use this file as the **order engine** when Prelims asks arrange-events; open Topics 2–3 / 5 / 9–14 for the story behind any single year.
-)

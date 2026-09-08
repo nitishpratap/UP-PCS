@@ -17,6 +17,24 @@
 
 ---
 
+
+## Current Affairs
+
+| Year | Fact | Why asked |
+|------|------|-----------|
+| 2023 | CEC & Other ECs Act — panel **PM + LoP + Cabinet Minister** | Replaced the SC’s interim **CJI-on-panel** |
+| 2023 | *Anoop Baranwal* | Independence of ECI appointments |
+| 2022 | *Mohit Minerals* | GST Council recommendatory |
+| 2023– | 16th FC **Panagariya** | Body, not NITI |
+| 1993 | ECI became durable multi-member | 3 commissioners |
+| 2004 | 89th — NCSC / NCST split | 338 vs 338A |
+| 2018 / 2021 | 102nd NCBC constitutional; **105th** State OBC lists | 338B vs 340 |
+| 1992–93 | *Indra Sawhney* → NCBC Act | Why a standing OBC body |
+| 1963 / 67 | Official Languages Act | English continues after 15-year clause |
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. A **constitutional body** is created by the Constitution itself. Pay is often **charged** on the Consolidated Fund, and removal is often on the lines of a **Supreme Court judge**.
@@ -641,22 +659,6 @@ D. National Commission for Backward Classes — Article 340
 - The **GST Council** is constituted by the President as a political, deliberative body.
 - The **350B Officer** is appointed by the President and holds office at his pleasure, or as otherwise determined.
 - **NCSC, NCST, and NCBC** members are appointed by the President, with conditions of service fixed by the President — not through an SC-judge-style impeachment process.
-
----
-
-## Current Affairs
-
-| Year | Fact | Why asked |
-|------|------|-----------|
-| 2023 | CEC & Other ECs Act — panel **PM + LoP + Cabinet Minister** | Replaced the SC’s interim **CJI-on-panel** |
-| 2023 | *Anoop Baranwal* | Independence of ECI appointments |
-| 2022 | *Mohit Minerals* | GST Council recommendatory |
-| 2023– | 16th FC **Panagariya** | Body, not NITI |
-| 1993 | ECI became durable multi-member | 3 commissioners |
-| 2004 | 89th — NCSC / NCST split | 338 vs 338A |
-| 2018 / 2021 | 102nd NCBC constitutional; **105th** State OBC lists | 338B vs 340 |
-| 1992–93 | *Indra Sawhney* → NCBC Act | Why a standing OBC body |
-| 1963 / 67 | Official Languages Act | English continues after 15-year clause |
 
 ---
 

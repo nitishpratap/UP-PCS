@@ -15,6 +15,15 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ---
 
+
+## Current Affairs
+
+- **Maha Kumbh, Prayagraj, 13 Jan–26 Feb 2025** (~45 days) — UP sacred geography.
+- Kumbh Mela on UNESCO ICH list **2017** — not a tangible monument.
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. The six **Astika** schools that accept the Veda as pramana are **Nyaya–Gautama**, **Vaisheshika–Kanada**, **Samkhya–Kapila**, **Yoga–Patanjali**, **Mimamsa–Jaimini**, and **Vedanta–Badarayana**.
@@ -2099,13 +2108,6 @@ D. 1, 2 and 3
 **Ans: A** — Khalsa = **Anandpur / Keshgarh**, 1699. Damdama = Talwandi Sabo.
 
 </details>
-
----
-
-## Current Affairs
-
-- **Maha Kumbh, Prayagraj, 13 Jan–26 Feb 2025** (~45 days) — UP sacred geography.
-- Kumbh Mela on UNESCO ICH list **2017** — not a tangible monument.
 
 ---
 

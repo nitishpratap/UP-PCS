@@ -17,6 +17,22 @@
 
 ---
 
+
+## Current Affairs
+
+**Why these years are asked.**
+
+- **2024:** 352 Assertion–Reason; Financial Emergency matched to **360** (direct PYQ).
+- **1978:44th Amendment** rewrite — every 352 / 358 / 359 question.
+- **1994:** *Bommai* — 356 is justiciable.
+- **1975–77:** Internal Emergency — why the 44th exists.
+- **Never:** Art. **360** (“Which has never been used?”).
+- **1977–78:** Shah Commission on 1975 excesses.
+- **1992:** UP President’s Rule after Babri (Leading state).
+
+---
+
+
 ## Consolidated — 26 Must-Score Facts
 
 1. Emergency Provisions sit in **Part XVIII** (**Articles 352–360**). There are three proclamations: **National Emergency (352)**, **President’s Rule (356)**, and **Financial Emergency (360)**.
@@ -326,20 +342,6 @@ D. A-1, B-2, C-3, D-4
 | Can they overlap? | Yes — martial law in a district **while** 352 is on for the country | 352 does **not** automatically create martial law |
 
 > ** note:** “Martial law is Article 352” is **false**. Art. **34** is indemnity, not a proclamation article. Art. **33** is not Art. **34**.
-
----
-
-## Current Affairs
-
-**Why these years are asked.**
-
-- **2024:** 352 Assertion–Reason; Financial Emergency matched to **360** (direct PYQ).
-- **1978:44th Amendment** rewrite — every 352 / 358 / 359 question.
-- **1994:** *Bommai* — 356 is justiciable.
-- **1975–77:** Internal Emergency — why the 44th exists.
-- **Never:** Art. **360** (“Which has never been used?”).
-- **1977–78:** Shah Commission on 1975 excesses.
-- **1992:** UP President’s Rule after Babri (Leading state).
 
 ---
 

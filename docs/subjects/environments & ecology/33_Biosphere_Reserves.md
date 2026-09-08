@@ -489,6 +489,183 @@ D. Smallest Biosphere Reserve — Nilgiri
 
 ---
 
+## Extra Drill — Biosphere Zones & Match (Q31–Q40)
+
+**Logic:** Zone purposes, largest/smallest, and state–BR mismatches dominate BR stems.
+
+**Q31.** Correct zone match for a Biosphere Reserve:
+
+A. Core — crop cultivation and settlements
+
+B. Buffer — no human activity of any kind forever
+
+C. Transition — settlements and livelihood use allowed
+
+D. Core — industrial mining encouraged
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Core = no exploitation; Buffer = research/tourism/regulated use; Transition = settlements/cultivation.
+
+</details>
+
+**Q32.** Which is **not** a UNESCO WNBR site among common options historically?
+
+A. Nilgiri
+
+B. Gulf of Mannar
+
+C. Rann of Kutch (often national-only in older stems)
+
+D. Nanda Devi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Great Rann of Kutch is India’s largest **national** BR; older stems treat it as outside UNESCO network. Nilgiri/Mannar/Nanda Devi are classic WNBR sites.
+
+</details>
+
+**Q33.** Agasthyamalai Biosphere Reserve includes:
+
+A. Kawal and Srisailam only
+
+B. Neyyar, Peppara, Shendurney WLS and Kalakad–Mundanthurai TR
+
+C. Mudumalai and Silent Valley only
+
+D. Only Andhra Papikonda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kerala–Tamil Nadu Western Ghats landscape.
+
+</details>
+
+**Q34.** Decreasing area order (common set):
+
+A. Pachmarhi > Nanda Devi > Agasthyamalai > Panna > Khangchendzonga
+
+B. Nanda Devi > Pachmarhi > Agasthyamalai > Panna > Khangchendzonga
+
+C. Khangchendzonga > Panna > Nanda Devi
+
+D. Panna > Gulf of Mannar > Sundarbans
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Among UNESCO area comparisons, Gulf of Mannar > Sundarbans > Pachmarhi > Khangchendzonga.
+
+</details>
+
+**Q35.** Bundala Biosphere Reserve is in:
+
+A. India
+
+B. Bangladesh
+
+C. Sri Lanka
+
+D. Nepal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Southeast coast of Sri Lanka — migratory bird wintering ground.
+
+</details>
+
+**Q36.** Cold Desert / Seshachalam / Panna notification order facts:
+
+A. Cold Desert = 16th (HP, 2009); Seshachalam = 17th (AP, 2010); Panna = 18th (MP, 2011)
+
+B. Panna was first Indian BR
+
+C. Cold Desert is in Ladakh only as a national BR
+
+D. Seshachalam is in Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Panna is newest notified national BR; also WNBR 2020.
+
+</details>
+
+**Q37.** “Biosphere reserve” term / biodiversity coinage — best teaching pair:
+
+A. Ecosystem = Edward Suess; Biodiversity = A.G. Tansley
+
+B. Biosphere concept classically linked to Edward Suess; “biodiversity” contraction linked to Rosen after Dasmann’s biological diversity
+
+C. MAB launched in 1991
+
+D. BR = WPA Section 35 category
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** MAB = **1971**. BR ≠ WPA statutory category.
+
+</details>
+
+**Q38.** Which BR–state pair is wrong?
+
+A. Nokrek — Meghalaya
+
+B. Manas — Assam
+
+C. Khangchendzonga — Himachal Pradesh
+
+D. Agasthyamalai — Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Khangchendzonga = **Sikkim**. Cold Desert = Himachal.
+
+</details>
+
+**Q39.** Nallamalai is:
+
+A. An Indian Biosphere Reserve
+
+B. Not a notified Biosphere Reserve (classic distractor)
+
+C. Same as Nilgiri BR
+
+D. UP’s only BR
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Nallamalai appears as a trap option against Agasthyamalai/Nilgiri/Pachmarhi.
+
+</details>
+
+**Q40.** Purpose of Biosphere Reserves among options:
+
+A. Preserve only grasslands
+
+B. Conserve genetic diversity / all forms of life with sustainable use
+
+C. Only atmospheric balance engineering
+
+D. Only agricultural produce storage
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Core protects genetic variation; transition supports people.
+
+</details>
+
+---
+
+
 ## Practice Zone
 
 **Q1.** India’s first Biosphere Reserve:
@@ -789,182 +966,6 @@ Options: A. Nilgiri first; Nokrek=Meghalaya; UP=0 BR; Manas UNESCO removed 2011 
 <details><summary>Show answer</summary>
 
 **Ans: A**
-
-</details>
-
----
-
-## Extra Drill — Biosphere Zones & Match (Q31–Q40)
-
-**Logic:** Zone purposes, largest/smallest, and state–BR mismatches dominate BR stems.
-
-**Q31.** Correct zone match for a Biosphere Reserve:
-
-A. Core — crop cultivation and settlements
-
-B. Buffer — no human activity of any kind forever
-
-C. Transition — settlements and livelihood use allowed
-
-D. Core — industrial mining encouraged
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Core = no exploitation; Buffer = research/tourism/regulated use; Transition = settlements/cultivation.
-
-</details>
-
-**Q32.** Which is **not** a UNESCO WNBR site among common options historically?
-
-A. Nilgiri
-
-B. Gulf of Mannar
-
-C. Rann of Kutch (often national-only in older stems)
-
-D. Nanda Devi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Great Rann of Kutch is India’s largest **national** BR; older stems treat it as outside UNESCO network. Nilgiri/Mannar/Nanda Devi are classic WNBR sites.
-
-</details>
-
-**Q33.** Agasthyamalai Biosphere Reserve includes:
-
-A. Kawal and Srisailam only
-
-B. Neyyar, Peppara, Shendurney WLS and Kalakad–Mundanthurai TR
-
-C. Mudumalai and Silent Valley only
-
-D. Only Andhra Papikonda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kerala–Tamil Nadu Western Ghats landscape.
-
-</details>
-
-**Q34.** Decreasing area order (common set):
-
-A. Pachmarhi > Nanda Devi > Agasthyamalai > Panna > Khangchendzonga
-
-B. Nanda Devi > Pachmarhi > Agasthyamalai > Panna > Khangchendzonga
-
-C. Khangchendzonga > Panna > Nanda Devi
-
-D. Panna > Gulf of Mannar > Sundarbans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Among UNESCO area comparisons, Gulf of Mannar > Sundarbans > Pachmarhi > Khangchendzonga.
-
-</details>
-
-**Q35.** Bundala Biosphere Reserve is in:
-
-A. India
-
-B. Bangladesh
-
-C. Sri Lanka
-
-D. Nepal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Southeast coast of Sri Lanka — migratory bird wintering ground.
-
-</details>
-
-**Q36.** Cold Desert / Seshachalam / Panna notification order facts:
-
-A. Cold Desert = 16th (HP, 2009); Seshachalam = 17th (AP, 2010); Panna = 18th (MP, 2011)
-
-B. Panna was first Indian BR
-
-C. Cold Desert is in Ladakh only as a national BR
-
-D. Seshachalam is in Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Panna is newest notified national BR; also WNBR 2020.
-
-</details>
-
-**Q37.** “Biosphere reserve” term / biodiversity coinage — best teaching pair:
-
-A. Ecosystem = Edward Suess; Biodiversity = A.G. Tansley
-
-B. Biosphere concept classically linked to Edward Suess; “biodiversity” contraction linked to Rosen after Dasmann’s biological diversity
-
-C. MAB launched in 1991
-
-D. BR = WPA Section 35 category
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** MAB = **1971**. BR ≠ WPA statutory category.
-
-</details>
-
-**Q38.** Which BR–state pair is wrong?
-
-A. Nokrek — Meghalaya
-
-B. Manas — Assam
-
-C. Khangchendzonga — Himachal Pradesh
-
-D. Agasthyamalai — Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Khangchendzonga = **Sikkim**. Cold Desert = Himachal.
-
-</details>
-
-**Q39.** Nallamalai is:
-
-A. An Indian Biosphere Reserve
-
-B. Not a notified Biosphere Reserve (classic distractor)
-
-C. Same as Nilgiri BR
-
-D. UP’s only BR
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Nallamalai appears as a trap option against Agasthyamalai/Nilgiri/Pachmarhi.
-
-</details>
-
-**Q40.** Purpose of Biosphere Reserves among options:
-
-A. Preserve only grasslands
-
-B. Conserve genetic diversity / all forms of life with sustainable use
-
-C. Only atmospheric balance engineering
-
-D. Only agricultural produce storage
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Core protects genetic variation; transition supports people.
 
 </details>
 

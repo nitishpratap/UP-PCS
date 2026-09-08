@@ -15,6 +15,18 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 
 ---
 
+
+## Current Affairs
+
+**Live facts** for match / how-many / hung-house questions.
+
+- **Ongoing:Six** bicameral States: AP, Bihar, Karnataka, MH, Telangana, UP (match / how-many).
+- **2019:** J&K Legislative Council **abolished** with the State (Art. 169 / reorganisation trap).
+- **Convention:** *Bommai* floor-test still the fact in every hung-house controversy (discretion vs majority).
+
+---
+
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Part VI** covers the State Executive: **Governor + Chief Minister + Council of Ministers + Advocate General**. The Governor is the **nominal** head; the CoM headed by the CM is the **real** executive.
@@ -466,16 +478,6 @@ D. Neither 1 nor 2
 - **UP Legislative Council:100** (bicameral).
 - **Governor of UP:** Appointed by the President; Raj Bhavan, Lucknow.
 - **High Court:** Principal seat **Prayagraj** (Letters Patent **17 Mar 1866**; first sat **Agra**). **Lucknow Bench** 1948 (Oudh Chief Court 1925 merged). Not a second High Court.
-
----
-
-## Current Affairs
-
-**Live facts** for match / how-many / hung-house questions.
-
-- **Ongoing:Six** bicameral States: AP, Bihar, Karnataka, MH, Telangana, UP (match / how-many).
-- **2019:** J&K Legislative Council **abolished** with the State (Art. 169 / reorganisation trap).
-- **Convention:** *Bommai* floor-test still the fact in every hung-house controversy (discretion vs majority).
 
 ---
 
