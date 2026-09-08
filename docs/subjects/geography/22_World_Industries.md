@@ -1,6 +1,6 @@
 # Topic 22 — World Industries
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -9,7 +9,7 @@ Location factors | Industrial regions | City–industry pairs | Ports / entrepô
 
 </details>
 
-> **Sources baked in:** **Ghatnachakra** Local Winds (CB–180+) + **Industries** (CB–240+);  Lucent world industry / port / local-wind match-lists; NCERT Class 12 (secondary activities); coaching industrial-region map; UPPCS Prelims 2018–2025
+> **Sources baked in:** **Ghatnachakra** Local Winds (CB–180+) + **Industries** (CB–240+); Lucent world industry / port / local-wind match-lists; NCERT Class 12 (secondary activities); coaching industrial-region map; UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — city–industry pairs, port–country, Suez facts, Chinook/Foehn, Mistral ≠ Australia, Shamal ≠ Austria; teach full industry + canal + wind map
 > **Last verified:** August 2026 — coaching gap-pass (Japan nicknames, footloose, Silicon Valley, shipbuilding East Asia)
 > **Current Affairs:** none mandatory
@@ -26,7 +26,7 @@ None mandatory.
 
 ## Consolidated — 20 Must-Score Facts
 
-1. City–industry facts: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
+1. City–industry pairs: **Osaka–cotton**, **Detroit–auto**, **Cuba–cigar**, **St Petersburg–shipbuilding**.
 2. **Igarka** is in **Russia** (Yenisei timber), not China. **Rotterdam** is in the **Netherlands**. **Montevideo** is Uruguay. **Jakarta** is Indonesia.
 3. The **Suez Canal** joins the **Mediterranean** and **Red Sea** and cut India–Europe distance by about **7000 km**. Lakes north to south: **Manzala → Timsah → Great Bitter → Little Bitter**.
 4. **Panama** joins Atlantic/Caribbean and Pacific **with facts**. **Kiel** joins the North Sea and Baltic. Suez is sea-level with **no facts**.
@@ -36,7 +36,7 @@ None mandatory.
 8. Japan belts: **Keihin** = Tokyo–Yokohama; **Hanshin** = Osaka–Kobe; **Chukyo** = Nagoya autos. Nicknames: Osaka = Manchester of Japan; Nagoya = Detroit of Japan; Kawasaki = Pittsburgh of Japan; Ivanovo = Russian Manchester.
 9. **Footloose** industry example = electronics. **Aluminium** seeks cheap hydel. **Steel** seeks ore and coking coal (weight-losing near raw material).
 10. **Entrepôt** classics = Singapore, Rotterdam, Hong Kong. **Duisburg** is an inland Rhine port, not a Dutch sea mouth.
-11. More wind facts: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
+11. More wind pairs: **Santa Ana** = California; **Haboob** = Sudan; **Yamo** = Japan; **Leveche** = Spain; **Bora** = Adriatic cold; **Harmattan** = West Africa; **Sirocco** = Sahara→Med; **Khamsin** = Egypt.
 12. A **willy-willy** is a cyclone name, not a local wind. **Akron** = tyres. **Toulouse** = Airbus.
 13. **Silicon Valley** (California) = electronics / IT — not Detroit.
 14. Shipbuilding volume leaders are **China–South Korea–Japan**. St Petersburg remains the classic European city.
@@ -108,7 +108,7 @@ Teach the **full map** — next year can ask any Lucent city, port, or wind, not
 
 ## N.1 Industrial location factors
 
-**Footloose** industries (software, chips, diamond cutting) are not tied to bulky raw materials. Japan steel is largely **market / port-based** (imported ore + coal). Osaka = Manchester of the East (cotton). Aberdeen = oil capital of Europe lore.
+**Footloose** industries (software, chips, diamond cutting) are not tied to bulky raw materials. Japan steel is largely **market / port-based** (imported ore + coal). Osaka = Manchester of the East (cotton). Aberdeen = oil capital of Europe.
 
 **Least-cost idea**
 
@@ -568,7 +568,7 @@ The **Foehn (Föhn)** is the Alpine member.
 
 The **Chinook** is the Rockies member. It is warm **and dry** (the “snow eater”).
 
-**Also ratta:** Harmattan (W Africa “Doctor”); Sirocco (Sahara→Med, blood rain in Italy lore); Simoom (Arabia/Kurdistan); Loo / Kalbaisakhi–Norwesters (India); Black Roller (N America plains).
+**Also revise:** Harmattan (W Africa “Doctor”); Sirocco (Sahara→Med, blood rain in Italy); Simoom (Arabia/Kurdistan); Loo / Kalbaisakhi–Norwesters (India); Black Roller (N America plains).
 
 The **Zonda** is the eastern Andes member in **Argentina**.
 
@@ -632,7 +632,7 @@ The **Elephanta** is the Malabar September wind.
 
 The **Williwaw** is an Alaskan / Magellan squall.
 
-**Do not dump cyclone names hereWilly-willy** is an Australian **tropical cyclone**, not a local wind like Brickfielder.
+**Do not mix cyclone names here — Willy-willy** is an Australian **tropical cyclone**, not a local wind like Brickfielder.
 
 Hurricane, typhoon, and baguio are synoptic storms, not Foehn / Mistral pairs.
 
@@ -1034,7 +1034,7 @@ D. Spain
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Sirocco dust rain / “blood rain” lore for **Italy**.
+**Ans: A.** Sirocco dust rain / “blood rain” for **Italy**.
 
 </details>
 
@@ -2020,7 +2020,7 @@ D. 2 4 1 3
 
 ---
 
-**Q25.** Singapore’s trade-route fame is mainly:
+**Q25.** Singapore’s trade-route role is mainly:
 
 **Options:**
 
@@ -2512,7 +2512,7 @@ D. (A) is false, but (R) is true
 
 ---
 
-**Q47.** Chicago–Gary industrial fame is mainly:
+**Q47.** Chicago–Gary industrial role is mainly:
 
 **Options:**
 

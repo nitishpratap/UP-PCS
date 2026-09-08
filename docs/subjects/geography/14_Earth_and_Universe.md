@@ -1,6 +1,6 @@
 # Topic 14 — Earth & Universe
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -11,7 +11,7 @@ Origin of Universe | Solar System | Earth System (spheres / **rock cycle**) | Mo
 > **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti, **Ghatnachakra** World Geography (Universe–Solar–Earth + Rocks / Volcanoes + **Earthquakes** CB–58+; **Atmosphere–Insolation–Cyclones–Humidity–Pressure–Clouds–Winds** CB–164+), UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — Big Bang / Chandrasekhar, rock cycle pairs, P/S waves & Richter traps, volcano status / Ring of Fire, ozone, El Niño, Coriolis, IDL / IST
 > **Last verified:** August 2026
-> **Current Affairs:** Aditya-L1 (solar); Mangalyaan = first Indian Mars orbiter; Montreal vs Kyoto; El Niño–monsoon; Mauna Loa 2022 eruption lore; Fukushima 2011 tsunami–nuclear lore
+> **Current Affairs:** Aditya-L1 (solar); Mangalyaan = first Indian Mars orbiter; Montreal vs Kyoto; El Niño–monsoon; Mauna Loa 2022 eruption note; Fukushima 2011 tsunami–nuclear note
 
 ---
 
@@ -78,7 +78,7 @@ D. Jupiter
 22. **Wegener (1912)** proposed continental drift with **Pangaea** and **Panthalassa**. Plate margins are divergent, convergent or transform. New ocean crust forms by **sea-floor spreading**.
 23. **Fold mountains** include the Himalaya, Alps, Andes and Rockies. **Fault / block mountains** include the Vosges, Black Forest, Sierra Nevada and Rhine graben.
 24. Volcano types: shield (**Mauna Loa**), composite (**Fuji / Etna / Vesuvius**), cinder (**Paricutin**), fissure (**Deccan**), caldera (**Krakatoa**). **Stromboli** is the “lighthouse of the Mediterranean.” **Barren Island** is India’s only active volcano (Andaman).
-25. Match facts: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
+25. Match pairs: **Rainier = USA**, **Etna = Italy**, **Paricutin = Mexico**, **Apo = Philippines**. **Kilimanjaro** is East African Rift, **not** Ring of Fire.
 26. Earthquake–volcano belts include the Pacific **Ring of Fire**, Mid-Atlantic Ridge, Alpine–Himalayan belt and East African Rift. India’s seismic map uses Zones II–V.
 27. Earth’s spheres — lithosphere, atmosphere, hydrosphere and biosphere — interact. Rocks cycle among igneous, sedimentary and metamorphic states.
 28. Heat budget: about **35**/100 of insolation is reflected (albedo) and about **51**/100 reaches the surface; surface heating then returns as **long-wave** radiation.
@@ -111,7 +111,7 @@ D. Jupiter
 | Cumulonimbus | Intense rain / thunder | Fair-weather cumulus | कपासी वर्षा मेघ |
 | Albedo | **Reflecting** power | Absorbing | अल्बीडो |
 | GHG | Not **argon** | Argon as GHG | आर्गन नहीं |
-| Saturn (that paper) | **Methane**  | SO2 / CO | शनि |
+| Saturn (that paper) | **Methane** | SO2 / CO | शनि |
 | Mars | Life-candidate + 2018 lake | Jupiter lake | मंगल |
 | Kilimanjaro | **E. African Rift** | Ring of Fire | किलिमंजारो |
 | Fold vs fault | Compressional folds vs **block/rift** | All Himalaya = fault | वलित / भ्रंश |
@@ -191,11 +191,11 @@ Several theories try to explain how the universe and solar system began. Learn t
 | **Big Bang** | **Lemaître** idea; often linked with **Gamow** / ~**13.7–13.8 bn yr** | Hot dense start; expansion |
 | **Steady State** | **Hoyle – Bondi – Gold** | Universe looks the same; continuous creation |
 | Pulsating | Oscillating bang–crunch model | |
-| Cue | Fact |
+| Note | Note |
 |------|------|
 | Expansion | **Hubble** — galaxies recede; redshift |
 | Evidence | Expanding space + **CMB** |
-| Galaxy | **Milky Way** = **barred spiral** (Spitzer 2005 lore); ~100 bn stars framing |
+| Galaxy | **Milky Way** = **barred spiral** (Spitzer 2005 note); ~100 bn stars framing |
 | Galactic year | Sun orbits galactic centre in ~**22.5–25 crore** years |
 | Distance | **AU** = Earth–Sun mean (~**149.6 million km**); **light-year** = distance light travels in 1 year (~**9.46×10¹² km**) |
 | Star colour | Colour tracks **temperature** (blue hottest → red cooler) |
@@ -203,7 +203,7 @@ Several theories try to explain how the universe and solar system began. Learn t
 | **Chandrasekhar limit** | ~**1.44 solar masses** — white-dwarf ceiling; above → collapse path toward neutron star / black hole (Nobel with Fowler, 1983) |
 | Black hole | Remnant of a massive star; gravity so strong **light cannot escape** (high density) |
 | Constellations | IAU list = **88**; **Saptarishi / Ursa Major** points toward the **Pole Star** |
-| Closest star (after Sun) | **Proxima Centauri**; Hubble surface image fame = **Betelgeuse** |
+| Closest star (after Sun) | **Proxima Centauri**; Hubble surface image renown = **Betelgeuse** |
 | Not space | **Brittle star** = marine echinoderm; **byte** = computing |
 
 ---
@@ -212,7 +212,7 @@ Several theories try to explain how the universe and solar system began. Learn t
 
 Order from Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn – Uranus – Neptune** (Pluto = dwarf since IAU **2006**, Prague).
 
-**Heliocentric cue:** **Copernicus** (Commentariolus / De revolutionibus); coaching also credits **Varahamihira** earlier lore. **Kepler** = planetary laws; **Newton** = gravity.
+**Heliocentric pair:** **Copernicus** (Commentariolus / De revolutionibus); coaching also credits **Varahamihira** earlier note. **Kepler** = planetary laws; **Newton** = gravity.
 
 | Group | Fact |
 |-------|------|
@@ -220,7 +220,7 @@ Order from Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn �
 | Outer (Jovian) | Gas giants Jupiter–Saturn; ice giants Uranus–Neptune |
 | Earth | 3rd planet; densest mean (~**5.5 g/cm³**); **23½°** tilt; one moon; **Goldilocks / habitable zone** |
 | Sun | ~**99.8%** of solar-system mass; energy = **nuclear fusion** (H→He); diameter ~**109×** Earth |
-| **Saturn** | Clearest rings; Titan largest moon; Cassini orbiter lore; bulk H₂+He (+ methane option traps) |
+| **Saturn** | Clearest rings; Titan largest moon; Cassini orbiter note; bulk H₂+He (+ methane option traps) |
 | **Mars** | Red planet; Phobos & Deimos; day/tilt close to Earth; Phoenix / Curiosity / **Mangalyaan** |
 | Light from Sun | ~**8 min 20 s** to Earth |
 | Nebula | **Not** a member of the solar system (star-forming cloud) |
@@ -246,7 +246,7 @@ Order from Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn �
 
 **Eclipse:** **Solar** only at **New Moon** (Moon between Sun–Earth). **Lunar** only at **Full Moon** (Earth between). Umbra = total; penumbra = partial. Diamond-ring effect at start/end of totality.
 
-**Moon cues:** Same face toward Earth (rotation period ≈ revolution ~**27.3 d**); no atmosphere → no sound; perigee = closest/brighter; weight on Moon ≈ **1/6** Earth weight; Apollo 11 / Sea of Tranquillity **1969**; Chandrayaan programme.
+**Moon pairs:** Same face toward Earth (rotation period ≈ revolution ~**27.3 d**); no atmosphere → no sound; perigee = closest/brighter; weight on Moon ≈ **1/6** Earth weight; Apollo 11 / Sea of Tranquillity **1969**; Chandrayaan programme.
 
 Aditya-L1 = solar (CA). Chandrayaan = Moon.
 
@@ -270,7 +270,7 @@ Aditya-L1 = solar (CA). Chandrayaan = Moon.
 
 Winter solstice → pressure belts **shift south** (2024 Mediterranean Q — statement 2 true).
 
-| Extra fact | Fact |
+| Note | Fact |
 |------------|------|
 | Axis to orbital plane | **66½°** (complement of 23½°) |
 | Circle of illumination | Great circle separating day/night; tilts with seasons |
@@ -283,7 +283,7 @@ Winter solstice → pressure belts **shift south** (2024 Mediterranean Q — sta
 
 Parallels; 0° = Equator; **90°** poles. **1° latitude ≈ 111 km**.
 
-| Parallel | Value | Cue |
+| Parallel | Value | Note |
 |----------|-------|-----|
 | Tropic of Cancer | **23½° N** | NH summer solstice |
 | Tropic of Capricorn | **23½° S** | |
@@ -306,7 +306,7 @@ Same latitude ≠ same temperature: **Agra vs Darjeeling** — altitude / thinne
 
 Meridians meet at poles. **Prime Meridian = 0° Greenwich**.
 
-| Cue | Fact |
+| Note | Note |
 |------|------|
 | Earth 360° / 24 h | **15° = 1 hour**; **1° = 4 minutes** |
 | East | Local time **ahead** of Greenwich |
@@ -319,7 +319,7 @@ Meridians meet at poles. **Prime Meridian = 0° Greenwich**.
 
 **Worked rule:** longitude difference × 4 min; east = add. 30° east of Greenwich = 12:00 + 2 h = 14:00.
 
-| Country cue | Time zones |
+| Country pair | Time zones |
 |-------------|------------------------|
 | Russia | Most (11) |
 | USA | 6 (contiguous 4 + AK + HI) |
@@ -334,7 +334,7 @@ India’s extreme longs / Tropic **states**. **15° / IDL / IST meridian**
 
 Composition (dry air): **N₂ ~78%**, **O₂ ~21%**, Ar ~0.9%, CO₂ ~0.04%. Water vapour variable.
 
-| Layer | Height cue | Key fact |
+| Layer | Height pair | Note |
 |-------|------------|-----------|
 | **Troposphere** | ~8–18 km (thicker at equator) | **All weather**; lapse ~**6.5°C / km**; tropopause |
 | **Stratosphere** | ~18–50 km | **Ozone UV shield** (2018 Q52, 2023 Q52, 2025 Q45); temp rises with O₃ |
@@ -347,7 +347,7 @@ Composition (dry air): **N₂ ~78%**, **O₂ ~21%**, Ar ~0.9%, CO₂ ~0.04%. Wat
 
 **Permanent vs variable gases:** N₂, O₂, Ar stay nearly constant day to day; CO₂, O₃, water vapour vary.
 
-**Layer cues (GC heights):** Troposphere (weather; lapse **~6.5°C/km**) → Stratosphere (**ozone**; dry; **ideal for jet flight** — little cloud/weather) → Mesosphere → Ionosphere (~80–640 km; **radio reflection**; **aurora**) → Exosphere (outer; **communication satellites** geostationary cue).
+**Layer pairs (GC heights):** Troposphere (weather; lapse **~6.5°C/km**) → Stratosphere (**ozone**; dry; **ideal for jet flight** — little cloud/weather) → Mesosphere → Ionosphere (~80–640 km; **radio reflection**; **aurora**) → Exosphere (outer; **communication satellites** geostationary pair).
 
 **Correct upward order:** Troposphere → Stratosphere → Mesosphere → Ionosphere/Thermosphere → Exosphere.
 
@@ -428,7 +428,7 @@ Earth then returns energy as **long-wave** (the 2022 heating fact). Ozone **hole
 
 Clouds = condensation of vapour into droplets/ice.
 
-| Type | Cue |
+| Type | Note |
 |------|-----|
 | **Cirrus / Cirrostratus** | Highest; icy; cirrostratus may make Sun/Moon **halo** |
 | Altostratus / Altocumulus | Mid-level sheets / patches |
@@ -501,7 +501,7 @@ D. Neither 1 nor 2
 
 Greenhouse gases trap **outgoing long-wave**.
 
-| Is a GHG | Not a GHG  |
+| Is a GHG | Not a GHG |
 |----------|------------------|
 | Water vapour, **CO₂, CH₄, N₂O, O₃, CFCs/HCFCs** | **Argon** |
 | Natural set includes CO₂, CH₄, O₃, N₂O | “**Nitrogen oxide**” (NO/NO₂) in 2020 Q139 → **not** the natural GHG in that key |
@@ -644,7 +644,7 @@ Valley breeze = **anabatic** (day upslope); mountain breeze = **katabatic** (nig
 
 ## N.13 Interior of the Earth
 
-| Boundary | Depth cue | Fact |
+| Boundary | Depth pair | Fact |
 |----------|-----------|------|
 | **Moho** | Base of crust (~8–40 km) | Crust / mantle |
 | **Gutenberg** | ~**2900 km** | Mantle / **outer core** — **S-waves stop** (liquid) |
@@ -657,7 +657,7 @@ Valley breeze = **anabatic** (day upslope); mountain breeze = **katabatic** (nig
 
 Oceanic crust ~**5–10 km**; continental ~**30–40 km** (thicker under mountains). Lithosphere (plates) rides **asthenosphere**.
 
-| Shadow | Cue |
+| Shadow | Note |
 |--------|-----|
 | **S-wave** | None beyond ~**103°** from epicentre (liquid outer core) |
 | **P-wave** | Weak/absent ~**103–142°** (refraction in the core) |
@@ -677,7 +677,7 @@ Evidence: jigsaw coasts, fossils (**Glossopteris, Mesosaurus**), glacial till, m
 | Sea-floor spreading | **Harry Hess** (1960s); paleomagnetic stripes on MOR |
 | Plates | Lithosphere pieces; India was in **Gondwana** |
 
-**Geological-time cues (Ghatnachakra):** **Pleistocene** = classic “Great Ice Age” framing; **Little Ice Age** ≈ **1300–1870 AD** (colder Europe/N. America winters). **Jurassic** = age of dinosaurs; Indian remains lore at **Raiyoli (Gujarat)** and **Bara Simla / Narmada (Jabalpur)**. **Cocos plate** sits between Central America and the Pacific plate. New crust is added by **sea-floor spreading**; old crust is destroyed by **subduction**.
+**Geological-time pairs (Ghatnachakra):** **Pleistocene** = classic “Great Ice Age” framing; **Little Ice Age** ≈ **1300–1870 AD** (colder Europe/N. America winters). **Jurassic** = age of dinosaurs; Indian remains note at **Raiyoli (Gujarat)** and **Bara Simla / Narmada (Jabalpur)**. **Cocos plate** sits between Central America and the Pacific plate. New crust is added by **sea-floor spreading**; old crust is destroyed by **subduction**.
 
 ---
 
@@ -712,7 +712,7 @@ Lithosphere plates float on asthenosphere. **Seven majors:** Pacific, North Amer
 
 **Petrology** is the study of rocks. A rock is a natural solid aggregate of one or more minerals. Crust rocks fall into three families that recycle into each other.
 
-| Family | How it forms | Key cues |
+| Family | How it forms | Key pairs |
 |--------|--------------|----------|
 | **Igneous** (primary) | Cooling of **magma / lava** | No fossils; not layered like sediment; hard for water to penetrate; crystalline or non-crystalline |
 | **Sedimentary** | Weathering → transport → deposition → **lithification** | Fossils common; occur in **layers (strata)**; form at / near Earth’s surface |
@@ -730,7 +730,7 @@ Lithosphere plates float on asthenosphere. **Seven majors:** Pacific, North Amer
 | Type | Examples |
 |------|----------|
 | Mechanical (clastic) | Sandstone, shale, conglomerate; limestone often listed here in older books |
-| Organic / carbonic | Coal; limestone / geyserite lore |
+| Organic / carbonic | Coal; limestone / geyserite note |
 | Chemical | Halite, potassium salts |
 
 Sandstone’s flaky / layered look comes from deposition (often under water / low basins), not from desert heat alone.
@@ -756,7 +756,7 @@ Sandstone’s flaky / layered look comes from deposition (often under water / lo
 
 A volcano is a crustal rupture that lets lava, ash and gases escape from a magma chamber.
 
-| Cue | Fact |
+| Note | Fact |
 |-----|------|
 | **Magma** | Molten rock **below** the surface |
 | **Lava** | Magma that reaches the surface (~600–1200°C); cools to igneous rock |
@@ -765,11 +765,11 @@ A volcano is a crustal rupture that lets lava, ash and gases escape from a magma
 | Basic lava | Low silica → runny / fluid |
 | Caldera | Large collapsed vent / crater |
 | Geyser | Intermittent hot water + steam (e.g. Old Faithful, Yellowstone) — near magmatic heat |
-| Fumarole / solfatara | Late-stage gas vents (sulfurous = solfatara); Katmai “Valley of Ten Thousand Smokes” lore |
+| Fumarole / solfatara | Late-stage gas vents (sulfurous = solfatara); Katmai “Valley of Ten Thousand Smokes” note |
 
 | Type | Fact / example |
 |------|----------------|
-| **Shield** | Low silica, runny; **Mauna Loa / Mauna Kea** (Hawaii) — Mauna Loa = Earth’s largest volcano by bulk; strong 2022 eruption lore |
+| **Shield** | Low silica, runny; **Mauna Loa / Mauna Kea** (Hawaii) — Mauna Loa = Earth’s largest volcano by bulk; strong 2022 eruption note |
 | **Composite / strato** | Sticky, explosive; **Fuji, Vesuvius, Etna, Pinatubo, St Helens, Rainier, Cotopaxi** |
 | Cinder cone | Small, steep; **Paricutin** (Mexico) |
 | Caldera | Collapse after blast; **Krakatoa / Krakatau** (Indonesia), Yellowstone |
@@ -779,10 +779,10 @@ A volcano is a crustal rupture that lets lava, ash and gases escape from a magma
 |--------|------|
 | **Active** | Open vent / recent eruptions — **Stromboli** (“lighthouse of the Mediterranean”), **Etna** (Sicily), **Kilauea** (often ranked among most active), **Mauna Loa**, **Barren Island** (India’s only confirmed active — Andaman Sea), **Fuji**, **Vesuvius**, **Erebus** (Ross Island, Antarctica), **Cotopaxi** (Ecuador) |
 | Highest active (world) | Coaching often cites **Ojos del Salado** (Andes, Chile–Argentina, ~6893 m); among common options **Cotopaxi** may be the tallest listed |
-| **Dormant** | Quiet but may revive — **Kilimanjaro** (Kibo dormant; Mawenzi / Shira extinct lore), **Damavand** (Iran) |
-| **Extinct** | Unlikely to erupt again — Kulal (Kenya), Chimborazo (Ecuador), Popa (Myanmar), Koh-e-Sultan (Pakistan) lore |
+| **Dormant** | Quiet but may revive — **Kilimanjaro** (Kibo dormant; Mawenzi / Shira extinct note), **Damavand** (Iran) |
+| **Extinct** | Unlikely to erupt again — Kulal (Kenya), Chimborazo (Ecuador), Popa (Myanmar), Koh-e-Sultan (Pakistan) note |
 
-**Match cues (beyond the 2021 Rainier set):** Sabancaya–Peru; Colima–Mexico; Merapi–Indonesia; Kinabalu–Malaysia; Elburz–Iran; Aconcagua–Argentina (peak, not an active volcano in GC keys); Krakatoa–Indonesia. Volcanic cone = **constructional / basic** landform from lava build-up (vs residual / erosional forms).
+**Match pairs (beyond the 2021 Rainier set):** Sabancaya–Peru; Colima–Mexico; Merapi–Indonesia; Kinabalu–Malaysia; Elburz–Iran; Aconcagua–Argentina (peak, not an active volcano in GC keys); Krakatoa–Indonesia. Volcanic cone = **constructional / basic** landform from lava build-up (vs residual / erosional forms).
 
 **Inline PYQ — UPPCS Prelims 2021, Q78**
 
@@ -825,17 +825,17 @@ An earthquake is shaking from a sudden release of energy in the **lithosphere**.
 
 **Three wave families (P.S.L. = Primary · Secondary · Love/surface framing)**
 
-| Wave | Nature | Travels through | Cue |
+| Wave | Nature | Travels through | Note |
 |------|--------|-----------------|-----|
 | **P (primary)** | Longitudinal / sound-like; **fastest**; arrives first | Solids, liquids, gases | Body wave |
 | **S (secondary)** | Transverse / light-like; slower than P | **Solids only** | Body wave; stopped by liquid outer core |
 | **Surface** | Slowest; Love + Rayleigh; **most damaging** at surface | Near surface | Love waves are the faster of the two surface types |
 
-**Shadow zones:** Each quake has its own shadow pattern. Rough coaching lock — **S-waves** fail beyond ~**103–105°**; **P-waves** miss a belt ~**105–140°** (refraction at the mantle–core boundary). A claim that both P and S are recorded at *any* distance beyond 105° is **false**.
+**Shadow zones:** Each quake has its own shadow pattern. Rough teaching line — **S-waves** fail beyond ~**103–105°**; **P-waves** miss a belt ~**105–140°** (refraction at the mantle–core boundary). A claim that both P and S are recorded at *any* distance beyond 105° is **false**.
 
 **Magnitude vs intensity**
 
-| Scale | Measures | Cue |
+| Scale | Measures | Note |
 |-------|----------|-----|
 | **Richter** (C.F. Richter, **1935**) | **Magnitude** ≈ energy released (log₁₀ amplitude) | +1 magnitude ≈ **10×** amplitude; ≈ **~32×** energy (not 100×) |
 | **Mercalli** | **Intensity** (felt damage / effects) | Different from magnitude |
@@ -844,20 +844,20 @@ Coaching MCQs sometimes loosely say “Richter = intensity” when no Mercalli o
 
 **Tsunami** = Japanese *tsu* (harbour) + *nami* (wave). Triggered by undersea quakes, volcanic eruptions and underwater explosions; can cross whole ocean basins.
 
-| Event cue | Fact |
+| Event pair | Fact |
 |-----------|------|
 | **26 Dec 2004** Indian Ocean | Sumatra subduction; devastation to Africa; deaths ~**2–3 lakh** (not “50 lakh”); Bangladesh relatively few casualties (fault ~N–S; main wave energy ~E–W) |
 | **11 Mar 2011** Japan | Great quake + tsunami → **Fukushima** Daiichi nuclear disaster |
 
 **India:** NW subcontinent is quake-prone because it sits on the **Indian–Eurasian plate convergence**. India’s Himalayan / mid-continental arm links to the Alpine–Himalayan seismic belt (not only the Pacific Ring).
 
-**Plate-tectonics cue:** Sea-floor spreading (Hess and others) underpins plate tectonics; pinning “plate tectonics theory = Hess alone in 1967” is too narrow / false in CG-style keys — Statement II (based on sea-floor spreading) stays true.
+**Plate-tectonics pair:** Sea-floor spreading (Hess and others) underpins plate tectonics; pinning “plate tectonics theory = Hess alone in 1967” is too narrow / false in CG-style keys — Statement II (based on sea-floor spreading) stays true.
 
 ---
 
 ## N.18 Major Earthquake & Volcano Belts
 
-| Belt | Fact |
+| Belt | Note |
 |------|------|
 | **Circum-Pacific / Ring of Fire** | ~**80%** of world’s volcanoes; ~**90%** of world’s **earthquakes**; Chile–California–Alaska–Japan–Philippines–New Zealand arc — **not** forest fires |
 | **Mid-Atlantic** | Iceland, Azores — divergent; quakes + volcanoes |
@@ -1371,7 +1371,7 @@ D. All of the above
 
 ## Complete PYQ Bank — Ghatnachakra Universe & Solar System (UPPCS / UKPCS / standard)
 
-Older stems from Ghatnachakra CB–1 onward (universe → solar system → sun/planets/moon → lat-long). Teaching facts live in N.1–N.5 of Topic 14. No Logic lines.
+Older stems from Ghatnachakra CB–1 onward (universe → solar system → sun/planets/moon → lat-long). Teaching content lives in N.1–N.5 of Topic 14. No Logic lines.
 
 **Q-GC1. Ghatnachakra / standard**
 
@@ -1772,7 +1772,7 @@ D. Eratosthenes
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Copernicus** placed the **Sun at the centre**; earlier Indian lore also cites **Varahamihira**.
+**Ans: B.** **Copernicus** placed the **Sun at the centre**; earlier Indian note also cites **Varahamihira**.
 
 </details>
 
@@ -2424,7 +2424,7 @@ D. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are standard facts: **365¼-day year**, **Venus** as closest planet, and **Aryabhata** on **rotation → day/night**.
+**Ans: C.** All three are standard associations: **365¼-day year**, **Venus** as closest planet, and **Aryabhata** on **rotation → day/night**.
 
 </details>
 
@@ -3169,7 +3169,7 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All four statements are standard sedimentary cues: surface deposition, weathered fragments, fossils, and layering.
+**Ans: D.** All four statements are standard sedimentary pairs: surface deposition, weathered fragments, fossils, and layering.
 
 </details>
 
@@ -4207,7 +4207,7 @@ D. Honshu, Japan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Erebus** rises on **Ross Island, Antarctica**, with a persistent lava lake in coaching lore.
+**Ans: A.** **Erebus** rises on **Ross Island, Antarctica**, with a persistent lava lake in coaching note.
 
 </details>
 
@@ -5004,8 +5004,8 @@ D. hydrosphere only in deep oceans
 
 Arrange the following seismic waves in **decreasing order of speed** (fastest first):
 
-1. P-wave  
-2. S-wave  
+1. P-wave 
+2. S-wave 
 3. Surface wave (Love / Rayleigh)
 
 Select the correct answer:
@@ -7471,7 +7471,7 @@ D. 1, 2 and 3
 33. **Jet streams = NH only** — FALSE. Both hemispheres.
 34. **Fresh snow = lowest albedo** — FALSE. Fresh snow has **highest** albedo among common options.
 29. **Ganymede = Saturn’s moon / largest moon = Titan** — FALSE. **Ganymede = Jupiter**; Titan = Saturn’s largest.
-30. **Chandrasekhar limit ≈ Eddington / Fowler name alone** — FALSE. ~**1.44 M☉** white-dwarf limit; black-hole path above collapse residue lore.
+30. **Chandrasekhar limit ≈ Eddington / Fowler name alone** — FALSE. ~**1.44 M☉** white-dwarf limit; black-hole path above collapse residue note.
 31. **Nebula = solar-system member** — FALSE. Nebulae are star-forming clouds, not planets/asteroids/comets of the Sun’s family.
 32. **Brittle star = pulsar class** — FALSE. Marine animal; pulsars / quasars / black holes are cosmic.
 33. **Mercury albedo > Earth** — FALSE. Earth albedo higher (~0.3 vs ~0.1).

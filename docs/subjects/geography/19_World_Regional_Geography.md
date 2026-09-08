@@ -1,6 +1,6 @@
 # Topic 19 — World Regional Geography
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -44,7 +44,7 @@ None mandatory — static political-map chapter.
 12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
 13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
 14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**.
-15. Brazil facts: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
+15. Brazil points: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
 16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
 17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational answer.
 18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
@@ -516,7 +516,7 @@ Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
 
 ## N.7 Europe
 
-| Belt | Who | Fact |
+| Belt | Who | Note |
 |------|-----|------|
 | **Western Europe climate** | Britain, NW France, Low Countries | **Westerlies** + **rain in all months** (2024 Both) |
 | Mediterranean Europe | Spain, S France, Italy, Greece | Winter rain — **not** the “all months” fact |
@@ -789,7 +789,7 @@ States/territories: **WA, NT, QLD, NSW, VIC, SA, TAS** + **ACT** (**Canberra** =
 
 ### New Zealand (Oceania pair — always asked with Australia)
 
-| Cue | Fact |
+| Note | Note |
 |------|------|
 | Capital | **Wellington** (not Auckland) |
 | Islands | **North Island + South Island**; **Cook Strait** |
@@ -941,7 +941,7 @@ D. Anguilla
 
 **Boundary lines (short map diet)**
 
-| Line | Fact |
+| Line | Note |
 |------|------|
 | **38th parallel** | Approx. Korea DMZ / North–South Korea |
 | **49th parallel** | Much of **Canada–USA** border |
@@ -1454,9 +1454,9 @@ D. Neither 1 nor 2
 
 Linguistic counts often split **L-1** (mother tongue / primary) and **L-2** (second language). Total speakers ≈ L-1 + L-2.
 
-**Ethnologue-style cues (ranks move — freeze the paper’s year):**
+**Ethnologue-style ranks (ranks move — freeze the paper’s year):**
 
-| Cue | Fact |
+| Note | Fact |
 |-----|------|
 | Largest by **L-1** | Often **Mandarin Chinese** |
 | Largest by **total** (L-1+L-2) in recent Ethnologue frames | Often **English** |
@@ -1465,7 +1465,7 @@ Linguistic counts often split **L-1** (mother tongue / primary) and **L-2** (sec
 
 **Esperanto** = artificial international auxiliary language (Zamenhof) — not a country’s official tongue.
 
-| Country / place | Language cue |
+| Country / place | Language |
 |-----------------|--------------|
 | **Singapore** | Official set includes **Malay** (national), **English**, **Mandarin**, **Tamil** |
 | Mauritius | English + French official; also Hindi, Urdu, Bhojpuri, Creole, Hakka… |
@@ -1477,7 +1477,7 @@ Linguistic counts often split **L-1** (mother tongue / primary) and **L-2** (sec
 | Pakistan | **Urdu + English** official; Punjabi widely spoken but not the sole “official = Punjabi” story |
 | Bangladesh | Stronger **ethnic/linguistic homogeneity** than Pakistan in classic A/R stems |
 
-Americas language map cue: French (e.g. Guiana), Portuguese (**Brazil**), Spanish (most of Spanish America), English (parts of Caribbean / North).
+Americas language map pair: French (e.g. Guiana), Portuguese (**Brazil**), Spanish (most of Spanish America), English (parts of Caribbean / North).
 
 ---
 
@@ -2848,7 +2848,7 @@ D. Brunei
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Timor-Leste is SE Asia but not the classic ASEAN-10 fact.
+**Ans: C** — Timor-Leste is SE Asia but not the classic ASEAN-10 set.
 </details>
 
 ---

@@ -646,7 +646,7 @@ Hydel needs a **head** (drop) and a **flow**. Storage dams hold monsoon water; r
 - Eastern Uttar Pradesh and Bihar have less Himalayan hydel of their own because the high ranges immediately to their north largely lie in **Nepal**.
 - **Shivanasamudra** on the Cauvery in Karnataka is a classic hydel site, not a nuclear site.
 
-| Hydel name | Cue |
+| Hydel name | Note |
 |------------|-----|
 | Shivanasamudra | pair with Kalpakkam |
 | Bhakra | Satluj (multipurpose) |

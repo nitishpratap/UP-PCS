@@ -1,6 +1,6 @@
 # Topic 12 — Human Geography (Settlements)
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -20,7 +20,7 @@ Human Geography (nature, scope, approaches) | Settlements | Rural vs Urban | Vil
 
 | Year | Fact | Why asked | Source |
 |------|------|-----------|--------|
-| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year cue vs JNNURM 2005 | MoHUA |
+| **25 Jun 2015** | Smart Cities Mission + PMAY-U same day | Year pair vs JNNURM 2005 | MoHUA |
 | **Jun 2015** | AMRUT (~500 cities) | 2025 chronology | MoHUA |
 | **1 Oct 2021** | **AMRUT 2.0** — water-secure towns | Successor of AMRUT | PIB / MoHUA |
 | **21 Feb 2016** | **SPMRM** launched (not “2015 launch”) | 2023 Q143 | MoRD |
@@ -43,17 +43,17 @@ Million-city **population ranks**. Missions and settlement types
 5. Rural settlements lean on primary activities and lower density. Urban places are statutory towns or census towns.
 6. Village types are **clustered / nucleated**, **semi-clustered**, **hamleted** and **dispersed**. Clustered villages appear on plains, around Rajasthan water points, and for defence in Bundelkhand / Nagaland — do **not** call the Thar “dispersed by default.”
 7. Dispersed villages typify **Meghalaya, Uttarakhand, Himachal Pradesh, Kerala** and many North-East forest–hill tracts. Hamlet local names include **panna, para, palli, nagla and dhani**.
-8. Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks (Gujarat / Rajasthan cue). Linear villages follow a road, river, canal or coast.
+8. Semi-clustered villages often show a dominant-caste centre with lower strata on the flanks (Gujarat / Rajasthan pair). Linear villages follow a road, river, canal or coast.
 9. Town functions are classed by the **dominant** job: administrative, industrial, transport, commercial, mining, garrison, educational, religious or tourist.
 10. Class I towns have **≥1 lakh** people (468 towns in 2011 held about **60%** of urban population). Classes II–VI step down from 50–99 thousand to under 5 thousand.
 11. In the standard Indian size ladder, metropolitan cities are **10 lakh–50 lakh** and mega cities are **above 50 lakh** — **six** in 2011. A UN megacity is **≥1 crore**. Do not mix these three thresholds.
 12. 2011 million-plus UA rank starts **Mumbai > Delhi > Kolkata > Chennai > Bengaluru > Hyderabad**. There were **53** million-plus UAs; the smallest in that set is often **Kota**. The **2001** order Mumbai > Kolkata > Delhi is a trap for 2011 stems.
 13. An urban agglomeration can be a town with outgrowths, two contiguous towns, or a city with adjoining towns and outgrowths. Outgrowths include railway colonies, campuses, ports and cantonments.
-14. Settlement evolution cues: ancient **Varanasi / Prayag / Madurai**; medieval **Delhi / Agra / Jaipur / Lucknow**; modern planned **Chandigarh** (Le Corbusier). Satellite towns include Ghaziabad.
+14. Settlement evolution pairs: ancient **Varanasi / Prayag / Madurai**; medieval **Delhi / Agra / Jaipur / Lucknow**; modern planned **Chandigarh** (Le Corbusier). Satellite towns include Ghaziabad.
 15. The **Smart Cities Mission** launched on **25 June 2015** for **100** cities under **MoHUA**, implemented through an SPV. ABD means area-based development (retrofit / redevelopment / greenfield) plus pan-city ICT.
 16. Uttar Pradesh’s **Central / Mission** Smart City list is **10**: Lucknow, Kanpur, Prayagraj, Agra, Varanasi, Aligarh, Bareilly, Jhansi, Moradabad and Saharanpur. **Ghaziabad is not** in that Central-10.
 17. Uttar Pradesh’s **State Smart Cities (2019)** are seven Nagar Nigams (including Ghaziabad, Meerut, Gorakhpur, Mathura, Ayodhya, Firozabad, Shahjahanpur). State list does not rewrite Mission-100 keys.
-18. ISAC-2020 theme facts: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh**; best cities included Indore and Surat.
+18. ISAC-2020 theme pairs: Culture **Indore**, Governance **Vadodara**, Social **Tirupati**, Urban environment **Bhopal**. Best State award went to **Uttar Pradesh**; best cities included Indore and Surat.
 19. **HRIDAY** covers **12** heritage cities. In Uttar Pradesh the pair is **Varanasi and Mathura** — not Prayagraj or Ayodhya.
 20. **SPMRM (Rurban)** was **launched on 21 February 2016** (Cabinet approval 2015). Matching the scheme to **2015** is the classic trap. It is under **MoRD**, not MoHUA.
 21. **Rurbanization** is linked to sociologist **G.S. Ghurye**. McLuhan’s **Global Village** rests on **transport plus communication**.
@@ -105,7 +105,7 @@ Human geography studies the **relationship between people and the physical earth
 
 **Schools / approaches**
 
-| Approach | Core fact | Name cue |
+| Approach | Core fact | Name pair |
 |----------|-----------|----------|
 | **Environmental determinism** | Nature controls human life and culture | **Friedrich Ratzel**; **Ellen C. Semple** |
 | **Possibilism** | Nature offers possibilities; humans choose | **Vidal de la Blache** |
@@ -129,7 +129,7 @@ Human geography studies the **relationship between people and the physical earth
 
 Type of settlement is read from **built-up form and inter-house spacing**, not from a vague “developed vs backward” label.
 
-- **Wet-point** settlements cluster **around water** (well / oasis) — common compact Rajasthan cue.
+- **Wet-point** settlements cluster **around water** (well / oasis) — common compact Rajasthan pair.
 - **Dry-point** settlements sit on **flood-free upland** or a levee in wet plains.
 
 | Feature | Rural | Urban |
@@ -168,7 +168,7 @@ Rural settlement pattern differs for three NCERT reasons.
 
 **Hamlet local names (one village, many units)**
 
-| Name | Region cue |
+| Name | Region |
 |------|------------|
 | **Panna / para / palli** | East / Ganga–Chhattisgarh belt |
 | **Nagla** | Western UP / Ganga plain |
@@ -176,16 +176,16 @@ Rural settlement pattern differs for three NCERT reasons.
 
 **Shape add-ons (not a fifth NCERT type)**
 
-| Shape | Cue |
+| Shape | Note |
 |-------|-----|
 | **Linear** | Road, river, canal, coast, levee |
 | Rectangular | Planned / northern plains field grid |
 | Circular / radial | Around tank, temple, well |
 | Star / T / Y | Where routes meet |
 
-**Rural house-material cues (climate)**
+**Rural house-material pairs (climate)**
 
-| Belt | Fact |
+| Belt | Note |
 |------|------|
 | Heavy rain (W. coast, NE) | **Sloping** roofs; bamboo / wood in NE |
 | Arid Rajasthan | **Flat** roofs; compact around water |
@@ -216,7 +216,7 @@ Size (Census class) and function are **different** questions.
 
 **Dominant function — NCERT example list (learn the match)**
 
-| Type | Cue / example |
+| Type | Example |
 |------|----------------|
 | Administrative | Chandigarh, New Delhi, Bhopal, Shillong, Guwahati, Imphal, Srinagar, Gandhinagar, Jaipur, Chennai, **Lucknow** |
 | Industrial | Jamshedpur, Bhilai, Durgapur, Modinagar, Barauni, Sindri, Mumbai, Madurai, **Kanpur** |
@@ -240,7 +240,7 @@ Size (Census class) and function are **different** questions.
 
 **Planned / new-town architects (extras)**
 
-| City | Fact |
+| City | Note |
 |------|------|
 | New Delhi | Lutyens / Baker |
 | Chandigarh | **Le Corbusier** |
@@ -1894,7 +1894,7 @@ D. Only megacities
 
 A. Vidal de la Blache
 
-B. Friedrich Ratzel / Ellen C. Semple lore
+B. Friedrich Ratzel / Ellen C. Semple note
 
 C. Only Le Corbusier
 

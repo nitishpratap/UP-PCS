@@ -1,6 +1,6 @@
 # Topic 10 — Tribes & Institutions
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -35,24 +35,24 @@ Masai habitat remains **East Africa**. Do not “update” it to West Africa.
 ## Consolidated — 24 Must-Score Facts
 
 1. Scheduled Tribe lists are **state-wise** under **Article 342**. Parliament can amend the lists by law. A community listed in one State need not be listed in another.
-2. STs are about **8.6%** of India’s population (Census 2011). Among the largest awareness groups are **Bhil, Gond and Santhal**. Madhya Pradesh often leads in absolute ST population.
-3. Lokur Committee cues for ST listing include primitive traits, distinctive culture, geographical isolation, shyness of contact, and economic backwardness.
+2. STs are about **8.6%** of India’s population (Census 2011). Among the largest groups are **Bhil, Gond and Santhal**. Madhya Pradesh often leads in absolute ST population.
+3. Lokur Committee criteria for ST listing include primitive traits, distinctive culture, geographical isolation, shyness of contact, and economic backwardness.
 4. There are **75 Particularly Vulnerable Tribal Groups (PVTGs)** (Dhebar PTG renamed PVTG in 2006). **Odisha** has the most PVTG communities. **PM-JANMAN** is the main outreach mission.
 5. PVTG criteria stress pre-agricultural technology, stagnant or declining population, extremely low literacy, and a subsistence economy.
 6. The **Fifth Schedule** covers Scheduled Areas in many States. The **Sixth Schedule** covers autonomous councils in **Assam, Meghalaya, Tripura and Mizoram** only.
-7. State–tribe facts: **Angami / Rengma = Nagaland**; **Toda / Paliyan = Tamil Nadu**; **Birhor = Jharkhand**; **Khasi = Meghalaya** (not Arunachal); **Yanadi = Andhra Pradesh** (not Rajasthan); **Chenchu = Andhra / Telangana**.
+7. State–tribe pairs: **Angami / Rengma = Nagaland**; **Toda / Paliyan = Tamil Nadu**; **Birhor = Jharkhand**; **Khasi = Meghalaya** (not Arunachal); **Yanadi = Andhra Pradesh** (not Rajasthan); **Chenchu = Andhra / Telangana**.
 8. **Kuki** is a North-East tribe and is **not** a Uttar Pradesh Scheduled Tribe. **Keria / Kharia** fact to Odisha (also Jharkhand for Kharia). **Bodo = Assam**; **Lepcha = Sikkim**; **Meena = Rajasthan**; **Warli = Maharashtra**; **Apatani = Arunachal**.
 9. **Khasi and Garo** of Meghalaya are classic **matrilineal** societies.
 10. Uttar Pradesh has **15** notified ST entries. The classic five are **Tharu, Bhotia, Buksa, Jaunsari and Raji**. UP PVTGs are **Buksa and Raji**.
 11. In Uttar Pradesh, **Tharu** live in the **Terai**; **Buksa** on the Bijnor fringe; **Saharya** in **Lalitpur**; **Agariya** are linked to **iron smelting** in the Sonbhadra–Mirzapur belt.
 12. After the 2003 Act, many UP ST notifications are **district-limited**. Two clusters matter: Terai north versus Vindhyan / Sonbhadra south.
 13. Central Indian heartland tribes include **Gond** (with Maria/Muria), **Bhil**, Baiga, Kol, Korku, Sahariya, Halba, Warli and Meena.
-14. Jharkhand core tribes include **Santhal, Munda, Oraon**, Ho, Kharia, Birhor, Bhumij, Asur and **Birjia**. Birjia is **not** an Andaman tribe. Santhali uses the **Ol Chiki** script; **Birsa Munda** and the **Hul of 1855** are cues.
+14. Jharkhand core tribes include **Santhal, Munda, Oraon**, Ho, Kharia, Birhor, Bhumij, Asur and **Birjia**. Birjia is **not** an Andaman tribe. Santhali uses the **Ol Chiki** script; **Birsa Munda** and the **Hul of 1855** are pairs.
 15. **Janjatiya Gaurav Diwas** is observed on **15 November** (Birsa Munda’s birth anniversary).
 16. Andaman **Negrito** natives are Great Andamanese, **Onge**, **Jarawa** and **Sentinelese** (North Sentinel Island). Nicobar **Mongoloid** groups are Nicobarese and **Shompen** (Great Nicobar PVTG). **Rengma** is not an island tribe.
-17. World habitat facts: **Bushman = Kalahari**; **Eskimo = northern Canada**; **Pygmy = Congo**; **Masai = East Africa** (not West Africa); **Ainu = Japan**; **Punan = Borneo**; Lapps/Sami = Sweden–Finland.
+17. World habitat pairs: **Bushman = Kalahari**; **Eskimo = northern Canada**; **Pygmy = Congo**; **Masai = East Africa** (not West Africa); **Ainu = Japan**; **Punan = Borneo**; Lapps/Sami = Sweden–Finland.
 17a. Also: Semang = **Malaysia** (not Indonesia); Bedouin = Arabia; Kirghiz = Central Asia (not Sudan); Maori = New Zealand; Zulu = South Africa; Bantu ≠ Sahara. **Transhumance** = seasonal valley–mountain herding.
-17b. Gypsies’ original home cue = **India**. Africa = cradle of mankind. Cro-Magnon is the most recent among classic fossil-human options.
+17b. Gypsies’ original home = **India**. Africa = cradle of mankind. Cro-Magnon is the most recent among classic fossil-human options.
 18. **Khirghiz** are Central Asian, not Sudanese. **Koryak** live in north-east Siberia, not Alaska.
 19. **IMD** headquarters is New Delhi (**1875**). **ICAR** headquarters is New Delhi (**1929**). **IARI** is at **Pusa, New Delhi** — it is not the apex ICAR council itself.
 20. **FRI** and **ICFRE** are at **Dehradun**. **WII** is also Dehradun but is not the FRI answer. **NDRI** is at **Karnal** (dairy lab). **IVRI** is at **Izatnagar, Bareilly (UP)**. **NDDB** is at **Anand** and ran **Operation Flood** — it is not NDRI.
@@ -121,11 +121,11 @@ The **Gond** are another of the largest groups.
 
 The **Santhal** are a major eastern group.
 
-**Lokur Committee (identification cues)**
+**Lokur Committee (identification criteria)**
 
-ST identification has used five cues associated with the **Lokur Committee**: primitive traits, distinctive culture, geographical isolation, shyness of contact with the wider community, and economic backwardness.
+ST identification has used five pairs associated with the **Lokur Committee**: primitive traits, distinctive culture, geographical isolation, shyness of contact with the wider community, and economic backwardness.
 
-These are **administrative identification cues**. They are **not** a definition written into the Constitution.
+These are **administrative identification criteria**. They are **not** a definition written into the Constitution.
 
 **Particularly Vulnerable Tribal Groups (PVTG)**
 
@@ -135,7 +135,7 @@ In **2006** the Government renamed them **Particularly Vulnerable Tribal Groups 
 
 There are **75** PVTGs across **18 States** and the **Andaman & Nicobar Islands**.
 
-Identification of a PVTG uses four cues: pre-agricultural technology, a stagnant or declining population, extremely low literacy, and a subsistence-level economy.
+Identification of a PVTG uses four pairs: pre-agricultural technology, a stagnant or declining population, extremely low literacy, and a subsistence-level economy.
 
 **Odisha** has the highest number of PVTG communities.
 
@@ -266,7 +266,7 @@ The **Constitution (Scheduled Tribes) Order (Amendment) Act, 2003** added many *
 
 **Kol** is a strong Vindhyan identity in southern Uttar Pradesh geography. The official notification, however, is the **15-entry list** below.
 
-| # | Tribe | Cue |
+| # | Tribe | Note |
 |---|-------|-----|
 | 1 | Bhotia | Himalayan trading and herding |
 | 2 | Buksa (Bhoksa) | Terai–Bhabar on the Bijnor fringe; **PVTG** |
@@ -444,11 +444,11 @@ The **Lapps / Sami** live in **Sweden and Finland** (Fenno-Scandinavia including
 
 **More world habitats (GC map):**
 
-| People | Habitat / cue |
+| People | Habitat / note |
 |--------|----------------|
 | **Maasai** | E Africa plateau — Kenya, N Tanzania, E Uganda; cattle; **kraal** huts |
-| **Bushman / San** | **Kalahari** (Botswana, Namibia, parts of SA) — hunting–gathering; termites lore |
-| **Zulu** | **South Africa** — agriculture + cattle; Isandlwana 1879 lore |
+| **Bushman / San** | **Kalahari** (Botswana, Namibia, parts of SA) — hunting–gathering; termites |
+| **Zulu** | **South Africa** — agriculture + cattle; Isandlwana 1879 |
 | **Semang** | **Malay Peninsula / Malaysia** (Negrito hunter–gatherers) — **not** Indonesia |
 | **Sakai** | Malay Peninsula / Indonesia forests — blowpipe hunting |
 | **Papuan** | Papua New Guinea |
@@ -463,7 +463,7 @@ The **Lapps / Sami** live in **Sweden and Finland** (Fenno-Scandinavia including
 | **Nuba** | Sudan |
 | **Vedda** | Sri Lanka |
 | **Berber** | Morocco / N Africa |
-| **Ainu (Enu lore)** | Japan |
+| **Ainu** | Japan |
 | **Aeta** | Philippines |
 | **Bora** | W Amazon (Brazil–Peru–Colombia) |
 | **Jews / Teda / Beja / Lur** | Israel / Libya / Egypt / Iran (ethnic match sets) |
@@ -472,9 +472,9 @@ The **Lapps / Sami** live in **Sweden and Finland** (Fenno-Scandinavia including
 
 **Pygmy** = Congo rainforest hunters–gatherers; tree **mongulu** huts; not pastoral. **Kayak** = narrow hunting boat; **umiak** = transport boat; **sledge** = dog vehicle; **igloo** = snow house (Inuit).
 
-**Trap cues:** Semang ≠ Indonesia; Maasai ≠ West Africa/Zambia; Bantu ≠ Sahara; Pygmy ≠ pastoral; Gypsy origin ≠ Egypt.
+**Trap lines:** Semang ≠ Indonesia; Maasai ≠ West Africa/Zambia; Bantu ≠ Sahara; Pygmy ≠ pastoral; Gypsy origin ≠ Egypt.
 
-**Race / origin cues (awareness):** Africa = “cradle of mankind”; Caucasoid often listed as largest racial group in older booklets; Gypsies’ original home cue = **India**; Archaeopteryx ≈ **150 mya**; Cro-Magnon = most recent among Heidelberg / Neanderthal / Cro-Magnon options.
+**Race / origin lines:** Africa = “cradle of mankind”; Caucasoid often listed as largest racial group in older booklets; Gypsies’ original home = **India**; Archaeopteryx ≈ **150 mya**; Cro-Magnon = most recent among Heidelberg / Neanderthal / Cro-Magnon options.
 
 
 **Inline PYQ — UPPCS Prelims 2025, Q23**
@@ -784,7 +784,7 @@ D. Only 1
 
 ## Complete PYQ Bank — Ghatnachakra Major Tribes of the World (UPPCS / UKPCS / standard)
 
-Older stems from Ghatnachakra CB–200+ (world tribes · transhumance · race/origin cues). Teaching lives in Topic 10 N.6. Year-coded UPPCS stems already in this chapter (Bushman/Eskimo/Pygmy/Masai 2025; Koryak 2021; Khirghiz 2019) are not repeated as identical year-coded entries.
+Older stems from Ghatnachakra CB–200+ (world tribes · transhumance · race/origin pairs). Teaching lives in Topic 10 N.6. Year-coded UPPCS stems already in this chapter (Bushman/Eskimo/Pygmy/Masai 2025; Koryak 2021; Khirghiz 2019) are not repeated as identical year-coded entries.
 
 **Q-GC1. Jharkhand PCS 2013**
 
@@ -959,7 +959,7 @@ D. Persia
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Original home cue = **India**.
+**Ans: C.** Original home = **India**.
 
 </details>
 
@@ -2126,7 +2126,7 @@ D. Punjab
 **Ans: C** — **Odisha** has the most PVTG communities.
 </details>
 
-**Q40.** Which of the following is a correct PVTG identification cue?
+**Q40.** Which of the following is a correct PVTG identification criterion?
 
 A. Very high urban literacy with industrial surplus
 
@@ -2365,7 +2365,7 @@ D. Ministry of Ports
 </details>
 
 **Q54.** Assertion (A): PVTGs are a more vulnerable subset identified within Scheduled Tribes.
-Reason (R): PVTG identification cues include pre-agricultural technology, stagnant or declining population, extremely low literacy and subsistence economy.
+Reason (R): PVTG identification criteria include pre-agricultural technology, stagnant or declining population, extremely low literacy and subsistence economy.
 
 A. Both A and R are true and R explains A
 

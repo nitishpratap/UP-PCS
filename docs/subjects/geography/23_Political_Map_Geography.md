@@ -1,6 +1,6 @@
 # Topic 23 — Political & Map-Based Geography
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -150,7 +150,7 @@ This chapter is the **atlas + UNCLOS** home. Notes ask distances, lines, capital
 - India’s neighbours need **land vs maritime** and **longest / shortest** borders.
 - Boundary lines need **countries + year + person** where Lucent gives them.
 - Map sections (seas, straits, canals, mountains, ports, Köppen) are **match-list** homes — one identity line each.
-- Detailed world rivers / industries live in Topics 17 and 22 — here keep only map facts that Prelims still match.
+- Detailed world rivers / industries live in Topics 17 and 22 — here keep only map associations that Prelims still match.
 
 **Order of this chapter**
 
@@ -240,16 +240,16 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 
 **World lines**
 
-| Line | Fact |
+| Line | Note |
 |------|------|
 | **49th Parallel** | Long USA–**Canada** stretch (not USA–Mexico) |
 | **38th Parallel** | **North Korea–South Korea** armistice story |
-| **Maginot Line** | Historical **France–Germany** fortification (WWII lore) |
+| **Maginot Line** | Historical **France–Germany** fortification (WWII note) |
 | **Oder–Neisse** | **Germany–Poland** post-WWII border |
 | **Hindenburg Line** | WWI German defence line (Europe) — not an India border |
-| **Mannerheim Line** | Historic Finland / Russian front lore (coaching “Poland–Russia” trap — learn as Mannerheim, not Radcliffe) |
+| **Mannerheim Line** | Historic Finland / Russian front note (coaching “Poland–Russia” trap — learn as Mannerheim, not Radcliffe) |
 | **17th Parallel** | Historical Vietnam divide |
-| **Rio Grande** | Forms much of **USA–Mexico** border (with Colorado water-sharing lore) |
+| **Rio Grande** | Forms much of **USA–Mexico** border (with Colorado water-sharing note) |
 | **Alpine / Little Maginot** | France–Italy framing |
 
 **Inline PYQ — UPPCS Prelims 2018, Q32**
@@ -356,7 +356,7 @@ D. Gujarat
 - Slovenia capital = **Ljubljana** (Bratislava = **Slovakia**).
 - Peru = **Lima**; Austria = **Vienna** (IAEA HQ); North Korea = **Pyongyang** (Seoul = South).
 - Myanmar capital = **Nay Pyi Taw** / Naypyidaw (moved from Yangon / Pyinmana area).
-- Palestine map cue: **Ramallah**; Kosovo **Pristina**; Taiwan **Taipei**.
+- Palestine map pair: **Ramallah**; Kosovo **Pristina**; Taiwan **Taipei**.
 
 ## N.5A Country ranks · regions · dependent territories · old names
 
@@ -368,7 +368,7 @@ D. Gujarat
 
 **South Asia area:** India largest; **Maldives** smallest. South Asia ≈ Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka, Afghanistan.
 
-| Region | Members / cue |
+| Region | Members / pair |
 |--------|----------------|
 | **Horn of Africa** | Djibouti, Eritrea, Ethiopia, **Somalia** — **not Sudan** |
 | **Balkans** | Albania, Bosnia, Bulgaria, Croatia, Greece, Kosovo, Montenegro, N Macedonia, Romania, Serbia, Slovenia, European Türkiye… — **Austria not** Balkan |
@@ -380,7 +380,7 @@ D. Gujarat
 | **Gaza Strip** | Borders **Egypt** and **Israel** (Mediterranean strip) |
 | **Caspian shores** | Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan — **not Armenia / Iraq** |
 | **Dead Sea** | Israel / West Bank / Jordan — **not Lebanon** |
-| **Afghanistan neighbours** | Iran, Pakistan, China, Tajikistan, Uzbekistan, Turkmenistan (+ India SE lore) — **not Russia / Azerbaijan / Kyrgyzstan** |
+| **Afghanistan neighbours** | Iran, Pakistan, China, Tajikistan, Uzbekistan, Turkmenistan (+ India SE note) — **not Russia / Azerbaijan / Kyrgyzstan** |
 | **Myanmar neighbours** | India, Bangladesh, China, Laos, Thailand — **not Vietnam/Cambodia/Malaysia as the trio** |
 | **Israel land borders** | Lebanon, Syria, Jordan, Egypt |
 | **Chile** | Longest N–S extension among common traps (W South America) |
@@ -419,9 +419,9 @@ D. Gujarat
 | Zaire | DR Congo |
 | Nyasaland | Malawi |
 
-**Landlocked extras:** Laos = only SE Asia landlocked. Chad in Africa options. North America / Oceania have **no** classic landlocked sovereign states. Transcontinental = **Georgia, Türkiye** (+ Russia, Azerbaijan, Kazakhstan lore). South Sudan = landlocked; capital **Juba**; White Nile; Christianity framing. Bolivia landlocked (not Suriname/Uruguay/Peru).
+**Landlocked extras:** Laos = only SE Asia landlocked. Chad in Africa options. North America / Oceania have **no** classic landlocked sovereign states. Transcontinental = **Georgia, Türkiye** (+ Russia, Azerbaijan, Kazakhstan note). South Sudan = landlocked; capital **Juba**; White Nile; Christianity framing. Bolivia landlocked (not Suriname/Uruguay/Peru).
 
-**World towns cues:** Most megacities coastal because they are **ocean-route gateways**. Alaska = USA. Malta = Mediterranean. Silicon Valley cities exclude Santa Rosa. South Africa Parliament seat = **Cape Town**. Lhasa among highest capitals/towns. Baikonur = **Kazakhstan** (not Ukraine). Kanto plain = **Japan**. Congo = **Africa**. Mexico = **North America**.
+**World towns pairs:** Most megacities coastal because they are **ocean-route gateways**. Alaska = USA. Malta = Mediterranean. Silicon Valley cities exclude Santa Rosa. South Africa Parliament seat = **Cape Town**. Lhasa among highest capitals/towns. Baikonur = **Kazakhstan** (not Ukraine). Kanto plain = **Japan**. Congo = **Africa**. Mexico = **North America**.
 
 **Inline PYQ — UPPCS Prelims 2019, Q2**
 
@@ -496,7 +496,7 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 
 | Sobriquet | Place |
 |-----------|-------|
-| Venice of the North | **St. Petersburg** (also shared lore with Amsterdam, Bruges, Stockholm…) |
+| Venice of the North | **St. Petersburg** (also shared note with Amsterdam, Bruges, Stockholm…) |
 | Gateway to the West | **Istanbul** |
 | City of Canals / Queen of the Adriatic / City of Dreams | **Venice** |
 | City of Seven Hills / Eternal City | **Rome** |
@@ -529,7 +529,7 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 | Queen of Mountains (India) | Mussoorie |
 | World’s Bread Basket | Prairies of North America |
 
-**Ocean ridge cue (often pasted near sobriquets in GC):** **Ninety East Ridge** (90°E Ridge) lies in the **Indian Ocean**.
+**Ocean ridge pair (often pasted near sobriquets in GC):** **Ninety East Ridge** (90°E Ridge) lies in the **Indian Ocean**.
 
 ---
 
@@ -554,7 +554,7 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 - Largest landlocked by **area** = **Kazakhstan** (Caspian shore does **not** cancel landlocked status).
 - Most populous landlocked = **Ethiopia** (Eritrea took the Red Sea coast).
 - **Lesotho** = enclave wholly inside **South Africa**. **Eswatini** (Swaziland) is also landlocked in southern Africa but not a full enclave like Lesotho.
-- Smallest landlocked names in Europe lore = Vatican City, San Marino, Liechtenstein.
+- Smallest landlocked names in Europe = Vatican City, San Marino, Liechtenstein.
 
 **Africa — frequent landlocked names**
 
@@ -622,7 +622,7 @@ D. Bolivia
 **Bays**
 
 - Bengal — east India; the big Indian- bay.
-- Hudson — Canada. Fundy — highest tide fame. Baffin — Canadian Arctic.
+- Hudson — Canada. Fundy — highest tide renown. Baffin — Canadian Arctic.
 - Biscay — France–Spain. Ha Long — Vietnam.
 
 ---
@@ -674,7 +674,7 @@ D. Bolivia
 
 ### Suez Canal, 1869
 
-**Joins:** Mediterranean Sea and Red Sea · **Facts:** none (sea-level)
+**Joins:** Mediterranean Sea and Red Sea · **Note:** sea-level canal
 
 - Does **not** itself touch the Atlantic or the open Indian Ocean (2025 = Red Sea + Med).
 - Shortened India–Europe sea distance by about **7,000 km** (2018).
@@ -683,7 +683,7 @@ D. Bolivia
 
 ### Panama Canal, 1914
 
-**Joins:** Caribbean / Atlantic and Pacific · **Facts:** yes, plus **Gatun Lake**
+**Joins:** Caribbean / Atlantic and Pacific · **Note:** ships climb stepped chambers, plus **Gatun Lake**
 
 - Avoids Cape Horn. Not Med–Red.
 
@@ -804,9 +804,9 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 | South America | **Aconcagua** | **Argentina** |
 | North America | **Denali** | USA (Alaska) |
 | Africa | **Kilimanjaro** | **Tanzania** (not Kenya) |
-| Europe  | **Elbrus** | Russia / Caucasus |
+| Europe | **Elbrus** | Russia / Caucasus |
 | Australia (mainland) | **Kosciuszko** | Australia |
-| Antarctica | Vinson Massif | Awareness |
+| Antarctica | Vinson Massif | Also revise |
 
 - Nobi and Kanto plains = **Japan**, not Korea/China (2021).
 
@@ -1426,7 +1426,7 @@ D. 1 and 2
 
 ## Complete PYQ Bank — Ghatnachakra Borders Capitals Landlocked (UPPCS / UKPCS / standard)
 
-Older stems from Ghatnachakra CB–84+ (countries & borders · dependent territories · landlocked · old names · boundary lines · capitals · world towns). Teaching lives in Topic 23 N.2–N.6 / N.5A. Year-coded UPPCS stems already in Topic 23 Complete PYQ Bank (Bolivia 2022, Central Asia capitals 2019, Cape Verde 2020, etc.) are not repeated as identical year-coded entries; GC variants still drill the map facts.
+Older stems from Ghatnachakra CB–84+ (countries & borders · dependent territories · landlocked · old names · boundary lines · capitals · world towns). Teaching lives in Topic 23 N.2–N.6 / N.5A. Year-coded UPPCS stems already in Topic 23 Complete PYQ Bank (Bolivia 2022, Central Asia capitals 2019, Cape Verde 2020, etc.) are not repeated as identical year-coded entries; GC variants still drill the map associations.
 
 **Q-GC1. RAS 2012 / standard**
 
@@ -2535,7 +2535,7 @@ D. Hindenburg line — Belgium and Germany
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Durand = **Pakistan–Afghanistan** (and Afghan–India lore), not Bangladesh–India. Bangladesh–India = Radcliffe.
+**Ans: C.** Durand = **Pakistan–Afghanistan** (and Afghan–India note), not Bangladesh–India. Bangladesh–India = Radcliffe.
 
 </details>
 
@@ -2556,7 +2556,7 @@ D. Rhine
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Rio Grande** forms much of the USA–Mexico border. Rhine also borders France–Germany in lore, but the classic key here is Rio Grande.
+**Ans: C.** **Rio Grande** forms much of the USA–Mexico border. Rhine also borders France–Germany in note, but the classic key here is Rio Grande.
 
 </details>
 
@@ -2962,7 +2962,7 @@ D. Christchurch — New Zealand
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** New Zealand capital = **Wellington**, not Christchurch. (Kinshasa = DRC / former Zaire is acceptable lore.)
+**Ans: D.** New Zealand capital = **Wellington**, not Christchurch. (Kinshasa = DRC / former Zaire is acceptable note.)
 
 </details>
 
@@ -3878,7 +3878,7 @@ D. Osaka
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Osaka** = Manchester of the East (also ‘Nation’s Kitchen’ lore).
+**Ans: D.** **Osaka** = Manchester of the East (also ‘Nation’s Kitchen’ note).
 
 </details>
 

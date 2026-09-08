@@ -1,6 +1,6 @@
 # Topic 1 — Indian Physical Geography: Mountains & Hills
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -81,7 +81,7 @@ D. Hispar
 6. The classic state–peak match set is **Tamil Nadu–Doddabetta**, **Rajasthan–Guru Shikhar**, **Nagaland–Saramati**, and **Madhya Pradesh–Dhupgarh**. Also fact **Kerala–Anaimudi** and **Uttarakhand–Nanda Devi**.
 7. **Lipulekh, Niti, and Mana** are all in **Uttarakhand**. Lipulekh is **not** in Ladakh. Mana is **not** in Himachal. **Nathu La** is Sikkim. **Shipki La** is Himachal.
 8. Tirupati’s Venkateswara temple stands on the **Tirumala / Mallamalla Hills** of the **Eastern Ghats** in Andhra Pradesh. It is **not** on the Shevaroy Hills of Tamil Nadu.
-9. **Intertrappean beds** between Deccan lava flows hold **land and freshwater** fossils. They do **not** hold sea plants and animals. Keep the depth facts: upper about **450 m**, middle about **1200 m**, lower about **150 m**.
+9. **Intertrappean beds** between Deccan lava flows hold **land and freshwater** fossils. They do **not** hold sea plants and animals. Keep the depth figures: upper about **450 m**, middle about **1200 m**, lower about **150 m**.
 10. India is the **seventh**-largest country by area (about **3.28 million km²**, roughly **2.4%** of world land). The Tropic of Cancer passes through the **middle** of the country, so India is **not** wholly tropical.
 11. The **Atal Tunnel** runs under **Rohtang** in the **Pir Panjal** of Himachal Pradesh. The safe line is longest highway tunnel **above 10,000 ft** — not an unqualified “world’s longest.”
 12. The Tropic of Cancer (**23°30′ N**) crosses **eight states only**, west to east: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. It does **not** cross **Uttar Pradesh** or **Ladakh**.
@@ -141,7 +141,7 @@ D. Hispar
 
 - NCERT splits India’s geology into **three** structural units. Standard relief maps then teach **six** relief divisions on that skeleton.
 
-| Structural unit | What it is | Key fact |
+| Structural unit | What it is | Note |
 |-----------------|------------|-----------|
 | **Peninsular Block** | Oldest stable crust; gneiss, granite, schist | Faulted and eroded, **not** recently folded like the Himalaya |
 | **Himalayas and extra-peninsular mountains** | Young fold belt from India–Eurasia collision | Still rising in zones; includes Karakoram and Purvanchal |
@@ -423,7 +423,7 @@ D. 1, 2 and 3 are correct
 
 ### Himalayan peaks (match home)
 
-| Peak | m | Fact |
+| Peak | m | Note |
 |------|---|------|
 | **K2 (Godwin Austin)** | 8611 | **Karakoram** (PoK) — not the main Himalayan arc |
 | **Kanchenjunga** | 8586 | Highest peak **fully in India** (Sikkim, Himadri) |
@@ -717,7 +717,7 @@ D. Only 1
 
 - India lies entirely in the **northern** and **eastern** hemispheres.
 
-| Item | Fact |
+| Item | Note |
 |------|------|
 | Latitude | **8°4′ N – 37°6′ N** (about 29°; about 3214 km N–S) |
 | Longitude | **68°7′ E – 97°25′ E** (about 29°; about 2933 km E–W) |
@@ -731,7 +731,7 @@ D. Only 1
 
 **Easy idea first:** Earth spins once in 24 hours. Time is tied to **longitude** (north–south lines). Places farther **east** see sunrise **earlier**. India is wide enough for about **two hours** of natural solar difference, so one official line — the **Standard Meridian** — gives the whole country a **single clock time (IST)**.
 
-- The Standard Meridian of India is **82°30′ E** (also written **82.5° E**). The classic place fact is **Mirzapur, Uttar Pradesh** (Prayagraj / Allahabad belt). It is **not** Lucknow, Delhi, or “exactly at Prayagraj city.”
+- The Standard Meridian of India is **82°30′ E** (also written **82.5° E**). The classic place centre is **Mirzapur, Uttar Pradesh** (Prayagraj / Allahabad belt). It is **not** Lucknow, Delhi, or “exactly at Prayagraj city.”
 - **IST = GMT / UTC + 5 hours 30 minutes.** India keeps **one** time zone for the whole country (mainland + islands). CSIR–NPL maintains the official time signal.
 
 **Why 82°30′ E, not 80° or 85°?**
@@ -1516,7 +1516,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three standard facts. **A** drops Barren Island. **B** drops Indira Point (Kanyakumari trap — mainland tip ≠ southernmost territory). **C** drops Ten Degree Channel.
+**Ans: D** — All three standard associations. **A** drops Barren Island. **B** drops Indira Point (Kanyakumari trap — mainland tip ≠ southernmost territory). **C** drops Ten Degree Channel.
 </details>
 
 **Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
@@ -2093,7 +2093,7 @@ D. Gujarat
 **Q37.** With reference to Meghalaya Plateau and associated hills, which of the following statements is/are correct?
 
 1. Garo, Khasi, and Jaintia hills form the Meghalaya Plateau.
-2. Cherrapunji-Mawsynram rainfall fame lies in Khasi Hills.
+2. Cherrapunji-Mawsynram rainfall renown lies in Khasi Hills.
 3. Meghalaya Plateau is separated from the Peninsular block by the Malda Gap.
 
 Select the correct answer from the code given below:
@@ -2577,7 +2577,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three are standard island facts.
+**Ans: D** — All three are standard island associations.
 </details>
 
 **Q60.** Which of the following pairs is/are **NOT** correctly matched?

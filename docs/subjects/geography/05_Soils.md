@@ -1,6 +1,6 @@
 # Topic 5 — Soils
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥80)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥80)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -26,7 +26,7 @@
 | **19 Feb 2015** | Soil Health Card launched at **Suratgarh, Rajasthan**; slogan **Swasth Dharaa, Khet Haraa**; 2015 = International Year of Soils | Scheme–place–slogan | PIB |
 | **2022–23 onward** | SHC merged into RKVY as **Soil Health and Fertility** | New name vs old scheme | PIB / DA&FW |
 | **Jul 2025** | **>25 crore** Soil Health Cards distributed; card reports **12 parameters** (N,P,K,S, Zn,Fe,Cu,Mn,B, pH, EC, OC) | Numbers / parameters | PIB Aug 2025 |
-| Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-*type* fact) | Scheme vs conservation method | Jal Shakti / DA&FW |
+| Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-type topic) | Scheme vs conservation method | Jal Shakti / DA&FW |
 | Static | World Soil Day **5 December** (UN; UPPCS 2022 Q25) | Date trap vs 5 June | UN / PYQ |
 
 ---
@@ -36,11 +36,11 @@
 
 1. Ancient Indian names: **Urvara** = fertile and **Usara** = sterile. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock, and Time (**CLORPT**).
 2. **Edaphic** means a **soil** factor — not climate, biotic, or topography. Residual / sedentary soils form on bedrock (regur, red). Transported / azonal soils are the alluvium of the plains.
-2a. World zonal cues: **Podzol** = cold temperate woods; **Chernozem** = temperate steppe; **Laterite** = hot humid; **Terra Rossa** = limestone/dolomite weathering; **Sierozem** = mid-latitude desert.
+2a. World zonal pairs: **Podzol** = cold temperate woods; **Chernozem** = temperate steppe; **Laterite** = hot humid; **Terra Rossa** = limestone/dolomite weathering; **Sierozem** = mid-latitude desert.
 2b. Capillary action strongest in **clay** (Clay > silt/loam > sand). Halophytes = saline soils. Contour bunding = **hill slopes**, not desert margins or flood plains.
 3. Profile downward is **O → A (topsoil) → E → B → C → R**. **Eluviation** washes material **out** of A/E; **illuviation** deposits it **into B**. Young khadar has weak horizons; mature residual soils show clear horizons.
 4. The usual eight-type teaching set is Alluvial, Black / Regur, Red & Yellow, Laterite, Arid, Saline / Usara, Peaty, and Forest / Mountain.
-5. Parent cues: crystalline rock → red; Cuddapah–Vindhyan → calcareous / clay; Gondwana → immature poor; Deccan Trap → regur; extra-peninsular sediment → alluvium. Climate can override rock — granite becomes laterite if wet, or sandy if arid.
+5. Parent material pairs: crystalline rock → red; Cuddapah–Vindhyan → calcareous / clay; Gondwana → immature poor; Deccan Trap → regur; extra-peninsular sediment → alluvium. Climate can override rock — granite becomes laterite if wet, or sandy if arid.
 6. **Pedocal** soils accumulate lime in arid tracts such as Rajasthan. Himalayan soils develop better on gentler **north-facing** slopes; many south faces are too steep.
 7. **Alluvial** is India’s **largest** soil group (about **40%** in the Class 11 frame). It is rich in potash, **poor in phosphorus**, low in nitrogen–humus, and supports over **40%** of the people. Uttar Pradesh is about **90%** alluvial. Do not crown red as the largest group.
 8. **Khadar** is new, fine, and fertile. **Bangar** is older, coarser, and has **more kankar**. **Bhur** is sandy ridges of the western Gangetic belt. **Rarh** is older West Bengal / Jharkhand fringe upland — not active khadar.
@@ -122,7 +122,7 @@
 
 Think of weathering as three jobs that turn parent rock into loose material for soil:
 
-| Type | Simple meaning | What changes? | India cue |
+| Type | Simple meaning | What changes? | India note |
 |------|-------------|-----------------|----------------|
 | **Physical** | Breaks rock into **smaller pieces** | Size only — chemistry stays the same | Heat cracking, frost, wind abrasion on exposed rock |
 | **Chemical** | **Changes minerals** inside the rock | New compounds form (hydration, oxidation, carbonation, solution) | Strong under **hot wet monsoon** → laterite path |
@@ -278,7 +278,7 @@ D. Topography
 
 World zonal soils travel with climate belts (Dokuchaev tradition):
 
-| Soil | Climate / setting | Cue |
+| Soil | Climate / setting | Note |
 |------|-------------------|-----|
 | **Podzol** | Cold temperate woodlands | Light / ash-coloured forest soil |
 | **Spodosol** | Humid cold temperate | Related podzol family |
@@ -287,7 +287,7 @@ World zonal soils travel with climate belts (Dokuchaev tradition):
 | **Prairie** | Temperate grassland mix | Between chernozem and greyish podzol traits |
 | **Laterite** | Hot humid / tropical wet | Fe–Al rich top; strong leaching |
 | **Sierozem** | Mid-latitude deserts | Grey desert soil |
-| **Terra Rossa** | Weathering of **limestone / dolomite** | Reddish silty / clayey Mediterranean cue |
+| **Terra Rossa** | Weathering of **limestone / dolomite** | Reddish silty / clayey Mediterranean belt |
 
 **Capillary rise:** smaller pores → stronger capillary climb. Effectiveness order ≈ **Clay > Loam / Silt > Sandy soil > Sand**. Water-holding capacity among common options: **Clay > Silt > Sand**.
 
@@ -459,7 +459,7 @@ Needs **high temperature + heavy rainfall** with **alternate wet and dry** perio
 | Iron oxide, aluminium compounds | Excess / rich |
 | OM, N, phosphate, calcium, lime, silica | Poor / leached |
 
-| Item | Fact |
+| Item | Note |
 |------|------|
 | Climate | High T + heavy rain + wet–dry |
 | Process | Intense leaching |
@@ -531,7 +531,7 @@ NCERT name **Usara**. Excess soluble **Na, K, Mg** salts make ordinary crops fai
 - **Indira Gandhi Canal** turned sand into grain land and also **created new usar** where drainage failed.
 - Green Revolution irrigation without outlets **creates** usar.
 - Reclamation = **leach salts + drainage** (more canal water alone worsens it). Line canals. Use gypsum on alkali. Salt-tolerant crops (cotton, barley) are a stop-gap.
-- Salinization after irrigation water evaporates can leave salts that make some soils **impermeable** (IAS classic effect fact).
+- Salinization after irrigation water evaporates can leave salts that make some soils **impermeable** (IAS classic effect centre).
 - Among states, **Gujarat** is the usual key for the **largest salt-affected / saline** area; older “max alkali = UP” stems need the atlas year on the paper.
 - **Usar** may support salt-tolerant **paddy** varieties after reclaim; **lime does not reclaim usar** — lime is for acid soils.
 
@@ -718,7 +718,7 @@ D. Black soil is found in Himalayan region
 | Gypsum / lime | Chemical reclaim | Alkaline / acid |
 | Drainage / canal lining | Lower water table | Canal usar tracts |
 
-| Awareness fact | Fact |
+| Scheme / name | Note |
 |----------------|------|
 | **Mitti Bachao** | Started **Hoshangabad (Narmadapuram), MP** — waterlogging/degradation in a dam command; not Thane / Mysore / Darbhanga |
 | **World Soil Day** | **5 December**. April 18 = Heritage; May 22 = Biodiversity; July 29 = Tiger Day; 5 June = Environment Day |
@@ -1382,7 +1382,7 @@ D. Black soil is found in Himalayan region
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — UPPCS 2018 Q31. Regur belongs to Deccan Trap, not Himalaya. **A/B/C** are standard true facts.
+**Ans: D** — UPPCS 2018 Q31. Regur belongs to Deccan Trap, not Himalaya. **A/B/C** are standard true associations.
 </details>
 
 **Q8.** Black soils are considered ideal for which of the following crops?
@@ -1860,7 +1860,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both are standard fertility facts.
+**Ans: C** — Both are standard fertility associations.
 </details>
 
 **Q35.** Strip cropping is a conservation practice in which:
@@ -2492,7 +2492,7 @@ D. Karewa saffron soils — Chambal badlands
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Karewa belongs to Kashmir Valley, not Chambal ravines. **A/B/C** are standard UPSC facts.
+**Ans: D** — Karewa belongs to Kashmir Valley, not Chambal ravines. **A/B/C** are standard UPSC associations.
 </details>
 
 **Q71.** With reference to soil formation in India, which of the following statements is/are correct?

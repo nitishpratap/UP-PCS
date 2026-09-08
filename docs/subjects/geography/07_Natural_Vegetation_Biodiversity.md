@@ -1,6 +1,6 @@
 # Topic 7 — Natural Vegetation & Biodiversity Geography
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥60)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥60)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -48,7 +48,7 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 14. National Parks are stricter than Wildlife Sanctuaries. Biosphere Reserves have **core + buffer + transition**. India has **18** biosphere reserves; **Nilgiri (1986)** was the first.
 15. **In-situ** conservation = National Park, Sanctuary, Biosphere Reserve, sacred grove. **Ex-situ** = zoo, botanical garden, seed bank. A botanical garden is **not** in-situ.
 16. Chronology fact: Wildlife Protection Act **1972** → Project Tiger **1973** → Project Elephant **1992** → Biological Diversity Act **2002**. Project Tiger launched on **1 April 1973**.
-17. Park–state facts: **Simlipal = Odisha** (not Madhya Pradesh); **Nokrek = Meghalaya** (not Manipur); **Nanda Devi = Uttarakhand** (not Uttar Pradesh); **Agasthyamalai = Kerala and Tamil Nadu**; Manas = Assam; Keoladeo = Rajasthan; Kanha = Madhya Pradesh.
+17. Park–state pairs: **Simlipal = Odisha** (not Madhya Pradesh); **Nokrek = Meghalaya** (not Manipur); **Nanda Devi = Uttarakhand** (not Uttar Pradesh); **Agasthyamalai = Kerala and Tamil Nadu**; Manas = Assam; Keoladeo = Rajasthan; Kanha = Madhya Pradesh.
 18. **Dachigam** protects the **Hangul** (Kashmir stag). **Keibul Lamjao** sits on **Loktak** (Manipur) for the Sangai.
 19. Uttar Pradesh’s **only National Park** is **Dudhwa** in **Lakhimpur Kheri**. Tiger Reserves are Dudhwa, Pilibhit, Amangarh, and Ranipur — do not invent extra National Parks.
 20. Dudhwa Tiger Reserve = Dudhwa National Park + Kishanpur + **Katarniaghat** (Katarniaghat established **1975**). **Chandraprabha** Wildlife Sanctuary is in **Chandauli**.
@@ -125,7 +125,7 @@ Natural vegetation grows without human planting.
 
 NCERT five-type frame: Tropical Evergreen (& Semi-Evergreen) | Tropical Deciduous | Tropical Thorn | Montane | Littoral / Swamp (Mangrove).
 
-| Type | Rain (cm) | Region cue | Trees / trait |
+| Type | Rain (cm) | Region | Trees / trait |
 |------|-----------|------------|---------------|
 | **Tropical evergreen (Selvas)** | **>200** | W Ghats, NE, Kerala, WB, Andamans | Multilayer; rosewood, mahogany, ebony, cinchona, rubber, bamboo; **no** complete dry leaf-shed |
 | **Semi-evergreen** | Slightly less than pure evergreen | W Ghats / NE / Andamans mix zone | Evergreen + deciduous mix |
@@ -219,7 +219,7 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 
 Tropical evergreen needs equable heat and heavy rain. These forests are also called **Selvas**.
 
-| Cue | Standard figure | Alternate note you may see |
+| Note | Standard figure | Alternate note you may see |
 |-----|-----------------|----------------------------|
 | Rain | **>200 cm** | Wet evergreen often written **>250 cm** |
 | Mean annual temperature | Above about **22°C** | Some notes use about **25–27°C** |
@@ -261,7 +261,7 @@ Tropical evergreen needs equable heat and heavy rain. These forests are also cal
 
 India’s workhorse timber and wildlife forest. Also called **monsoon forests**. Trees shed leaves in the dry season to conserve water.
 
-| Type | Rain (usual) | Area cue | Signature trees |
+| Type | Rain (usual) | Area | Signature trees |
 |------|--------------|----------|-----------------|
 | **Moist deciduous** | **100–200 cm** | Largest share (~**37%**) | **Teak**, **sal**, shisham, neem, mango |
 | **Dry deciduous** | **70–100 cm** (some notes widen to 100–150) | UP, AP, MH, KA, TN; drier peninsula | Rosewood, mango, sandalwood, mahua |
@@ -285,7 +285,7 @@ India’s workhorse timber and wildlife forest. Also called **monsoon forests**.
 - Wetter side grades into moist deciduous. Drier side grades into thorn.
 - Canopy is closed but uneven, with grass on the floor.
 
-**Clearance and UP cue**
+**Clearance and Uttar Pradesh**
 
 - Large tracts of both deciduous types have been **cleared for crops**.
 - Fire and grazing thin what remains.
@@ -306,7 +306,7 @@ India’s workhorse timber and wildlife forest. Also called **monsoon forests**.
 
 Also called **tropical thorn forests** or arid forests. Plants are **xerophytes**.
 
-| Cue | Figure / trait |
+| Note | Figure / trait |
 |-----|----------------|
 | Rain | Often **<75 cm** (NCERT / many notes **<70 cm**) |
 | Humidity | **<50%** |
@@ -424,7 +424,7 @@ Montane forests are an **altitude elevator**, not a plains rain ladder. Above ab
 | Tree-line | About **3600–3800 m** | About **3300–3600 m** (**lower**) |
 | Alpine climb | Climbs **higher** | Stops earlier |
 | Why | Nearer the **equator** and the **sea**; wetter | Drier monsoon side |
-| Resource cue | Wet forests | Forests are a **major land resource** of the western Himalayan region |
+| Resource note | Wet forests | Forests are a **major land resource** of the western Himalayan region |
 
 #### Southern mountain forests (peninsular hills)
 
@@ -484,7 +484,7 @@ Salt-tolerant **halophytes**. They grow in fresh **or brackish** water. Also cal
 | Flame of the forest | **Butea monosperma** = Dhak / Palash = UP state flower |
 | Katha | From **khair** wood |
 | Khejri | Multipurpose arid / social-forestry tree |
-| Birch | Himalayas; writing-bark lore |
+| Birch | Himalayas; writing-bark tradition |
 | Fern | Vascular, spore-bearing; **no flowers / no seeds** |
 | Oryx vs Chiru | Oryx = hot arid; Chiru = cold high-mountain steppe / semi-desert |
 | Teak–Central India | Major teak expansion in MP–CG–Odisha; MP often leads dense deciduous area |
@@ -525,11 +525,11 @@ D. Stamp
 | ISFR **2021** | Max increase among options: **Andhra Pradesh** |
 | UP cover | About **6%** of TGA — **not 12.8%** |
 | ISFR **2023** UP >20% districts | **Chandauli + Shravasti** — **not Bahraich** (2025 Q8 → 2 and 3) |
-| Eastern plain lore | Jaunpur, Ghazipur, **Ballia** ≈ near-nil **forest land** — wetland still possible |
+| Eastern plain belt | Jaunpur, Ghazipur, **Ballia** ≈ near-nil **forest land** — wetland still possible |
 
-- Forest Policy **1988** national goal = **33%** forest/tree cover (awareness).
+- Forest Policy **1988** national goal = **33%** forest/tree cover .
 - Legal admin classes: **Reserved / Protected / Unclassed** — not the same as NCERT climate types.
-- Social / farm forestry = people-centric planting outside dense natural forest (Class 9 awareness).
+- Social / farm forestry = people-centric planting outside dense natural forest (Class 9).
 
 ---
 
@@ -565,7 +565,7 @@ D. Stamp
 | **National Park** | Strictest; no private rights in core idea; habitat + species |
 | **Wildlife Sanctuary** | Wildlife first; some regulated rights possible |
 | **Biosphere Reserve** | **Core** (strict) + **buffer** + **transition** (settlements/use) — UNESCO MAB idea; India list is national programme too |
-| **Conservation / Community Reserve** | WLPA later additions — community/landscape gaps (awareness) |
+| **Conservation / Community Reserve** | WLPA later additions — community/landscape gaps |
 | **Tiger Reserve** | NTCA unit (core+buffer); may contain NP + WLS |
 
 - **In-situ** = in natural habitat (NP, WLS, BR, sacred groves).
@@ -573,7 +573,7 @@ D. Stamp
 - 2018 Q54: botanical garden is **NOT** in-situ.
 - 2023: genetic diversity in NPs is maintained through **in-situ** conservation.
 - Chronology (2019 Q67 / 2020 Q77): **WLPA 1972 → Project Tiger 1973 (1 Apr) → Project Elephant 1992 → BDA 2002**.
-- Other project awareness: Project Rhino, Project Great Indian Bustard.
+- Other projects: Project Rhino, Project Great Indian Bustard.
 - 2018 Q45 options omit 1973; many keys pick **1972** — for open recall write **1973**.
 - India has **18** Biosphere Reserves; **Nilgiri (1986)** is the first.
 - Several BRs are on UNESCO’s World Network (Nilgiri, Nanda Devi, Sundarbans, Gulf of Mannar, etc.).
@@ -651,7 +651,7 @@ D. Sacred groves
 
 **Only one National Park: Dudhwa (Lakhimpur Kheri)** — 2022 Q56. Do not invent a second NP.
 
-| Name | Type | Belt | Fact |
+| Name | Type | Belt | Note |
 |------|------|------|------|
 | Dudhwa | NP | Lakhimpur Kheri | Only UP NP |
 | Dudhwa TR | Tiger Reserve | Kheri + Bahraich complex | **NP + Kishanpur + Katarniaghat** |
@@ -1223,7 +1223,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (geography-standard key)** — Statement 1 is wrong for current ISFR (~6% forest cover, not 12.8%). Statement 2 is the traditional no-forest-land fact for those eastern plain districts.
+**Ans: C (geography-standard key)** — Statement 1 is wrong for current ISFR (~6% forest cover, not 12.8%). Statement 2 is the traditional near-nil forest land for those eastern plain districts.
 </details>
 
 ---
@@ -2756,7 +2756,7 @@ D. Zero forest outside parks
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Awareness goal; not the same as any one ISFR year figure.
+**Ans: C** — Policy goal; not the same as any one ISFR year figure.
 </details>
 
 **Q45.** Keibul Lamjao National Park is famous because it is:

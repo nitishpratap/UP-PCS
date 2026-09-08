@@ -1,6 +1,6 @@
 # Topic 13 — Disaster Geography
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -41,22 +41,22 @@ Cyclone **formation** numbers. Ring-of-Fire **volcano list**.
 4. Seismic waves arrive **P then S then surface**. The Himalaya is India’s highest seismic belt because of **collision and thrust zones**.
 5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V zones.
 6. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman & Nicobar** belt. Much of Rajasthan and the Deccan sits in Zones II–III.
-7. About **59%** of India’s landmass is earthquake-prone in NDMA lore. Famous shocks: Kangra 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
+7. About **59%** of India’s landmass is earthquake-prone in NDMA note. Famous shocks: Kangra 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
 8. A tsunami is caused by **seafloor displacement** (quake, landslide or volcano), not by ordinary wind waves. India’s warning hub is **INCOIS, Hyderabad**.
 9. **Kilimanjaro** sits on the East African Rift and is **not** part of the Pacific Ring of Fire.
-10. Landslide belts are the Himalaya, Western Ghats and North-East. cues include Kedarnath **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
+10. Landslide belts are the Himalaya, Western Ghats and North-East. pairs include Kedarnath **2013**, Joshimath subsidence **2023**, and Sikkim GLOF **2023**.
 11. Flood types include riverine (Ganga–Brahmaputra), flash floods in hills, urban floods and coastal storm surge. Drought is classed as meteorological, hydrological and agricultural. IMD drought criteria often use rainfall deficiency **>25%** of normal.
 12. IMD **cloudburst** fact is rainfall **≥100 mm in one hour**, typically in Uttarakhand–Himachal–J&K–North-East hill belts around **1000–2500 m**.
 13. IMD plains heat-wave gate: when **Tmax ≥40°C**, a departure of **4.5–6.4°C** is a heat wave and **>6.4°C** is severe; or actual **≥45°C / ≥47°C**. Criteria also use two stations for two days. Cold-wave plains gate is **Tmin ≤10°C** with a sharp drop.
-14. The **Bay of Bengal** produces **more** cyclones than the Arabian Sea. Peak seasons are roughly **May–June** and **October–December**. Arabian Sea storms can still hit Gujarat–Maharashtra (Tauktae / Kandla lore).
-15. Cyclone-name facts: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
+14. The **Bay of Bengal** produces **more** cyclones than the Arabian Sea. Peak seasons are roughly **May–June** and **October–December**. Arabian Sea storms can still hit Gujarat–Maharashtra (Tauktae / Kandla note).
+15. Cyclone-name pairs: **Baguio = Philippines**; Hurricane = USA; Typhoon / Taifu = China–Japan; **Willy-willy = Australia**; cyclone = North Indian Ocean; Cordonazo = Mexico.
 16. 2019 storm–place pairs: Dorian–Bahamas, Hagibis–Japan, Lekima–China, Mitag–Korea, with Indian Ocean names like Amphan, Fani and Tauktae also in the news map.
 17. **NDMA** is chaired by the **Prime Minister**. **SDMA** is chaired by the **Chief Minister**. **DDMA** is chaired by the District Magistrate / Collector.
 18. Framework years: **DM Act 2005**, **NPDM 2009**, **NDRF 2006** (MHA), **NDMP 2016**, **Sendai Framework 2015–2030** (after Hyogo 2005–15), **CDRI 2019**. International Day for Disaster Risk Reduction is **13 October**.
-19. NEC cue = Union Home Secretary. **NIDM** handles training from Delhi. India is **not** a disaster-free country.
-20. India’s multi-hazard lore: ~**59%** quake-prone, ~**12%** flood-prone, ~**5,700 km** cyclone/tsunami coast, ~**68%** of cultivable area drought-vulnerable.
+19. NEC pair = Union Home Secretary. **NIDM** handles training from Delhi. India is **not** a disaster-free country.
+20. India’s multi-hazard note: ~**59%** quake-prone, ~**12%** flood-prone, ~**5,700 km** cyclone/tsunami coast, ~**68%** of cultivable area drought-vulnerable.
 21. **Mangroves** cut cyclone and surge impact. **Bhopal 1984** is the classic man-made industrial / chemical disaster.
-22. **DPAP** began in **1973–74**. The earlier Community Development Programme cue is **1952**.
+22. **DPAP** began in **1973–74**. The earlier Community Development Programme pair is **1952**.
 23. Uttar Pradesh sits mainly in seismic **Zones III–IV** (not Zone V as a whole-State label). Eastern districts face river floods; Bundelkhand faces drought. Plains heat waves peak in May–June (**Loo**).
 24. In the 2018 UP paper, the **Gomati** carried the “biological disaster” pollution label among the given rivers.
 25. Hazard is potential danger; disaster is when capacity fails. Do not treat the two words as identical.
@@ -107,7 +107,7 @@ A **hazard** is a potentially damaging natural or man-made event. A **disaster**
 - Man-made / anthropogenic disasters include industrial and chemical accidents (**Bhopal 1984**), major fires, transport crashes and some CBRN risks.
 - Climate change and unplanned urbanisation raise the chance that a hazard becomes a disaster.
 
-**India’s multi-hazard map (NDMA / NPDM lore)**
+**India’s multi-hazard map (NDMA / NPDM note)**
 
 - About **59%** of the landmass is earthquake-prone (moderate to very high).
 - About **12%** of land is flood-prone.
@@ -117,7 +117,7 @@ A **hazard** is a potentially damaging natural or man-made event. A **disaster**
 
 **Disaster management cycle**
 
-1. **Mitigation** — reduce risk before the event (codes, embankments, zoning, awareness).
+1. **Mitigation** — reduce risk before the event (codes, embankments, zoning, note).
 2. **Preparedness** — plans, drills, early warning, stockpiles.
 3. **Response** — rescue, relief, medical care during and just after impact.
 4. **Recovery / reconstruction** — restore livelihoods and build back better.
@@ -202,7 +202,7 @@ A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use *
 
 Long ocean waves from **sudden seafloor displacement** (undersea quake, landslide, volcano) — **not** ordinary wind waves.
 
-| Cue | Fact |
+| Note | Note |
 |------|------|
 | Indian Ocean mega-event | **26 Dec 2004** — Sumatra megathrust → Andaman–Tamil Nadu–Kerala–AP–Puducherry |
 | Warning | **INCOIS, Hyderabad** (MoES) |
@@ -1713,7 +1713,7 @@ D. Replacing NDMA with a private company
 
 ---
 
-**Q56.** About what share of India’s landmass is earthquake-prone in NDMA lore?
+**Q56.** About what share of India’s landmass is earthquake-prone in NDMA note?
 
 A. About 12%
 

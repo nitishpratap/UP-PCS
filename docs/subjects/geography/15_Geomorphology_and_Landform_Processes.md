@@ -1,6 +1,6 @@
 # Topic 15 — Geomorphology & Landform Processes
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -35,19 +35,19 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, I
 8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
 9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial fans**; coalescing fans form a **bajada**.
 10. Stream genetic types include consequent, subsequent, obsequent and resequent. **Antecedent** streams cut rising land; **superimposed** streams inherit a course from a cover; subsequent streams follow structure.
-11. **Bird’s-foot** delta = **Mississippi**. **Arcuate** deltas = **Nile** and **Ganga–Brahmaputra**. **Cuspate** cue = Tiber. **Moribund** delta lobe = **Cauvery**. Eastern India mouths favour deltas; western mouths often form **estuaries** (Narmada / Tapi).
+11. **Bird’s-foot** delta = **Mississippi**. **Arcuate** deltas = **Nile** and **Ganga–Brahmaputra**. **Cuspate** pair = Tiber. **Moribund** delta lobe = **Cauvery**. Eastern India mouths favour deltas; western mouths often form **estuaries** (Narmada / Tapi).
 12. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic**; dome → **radial**; joints / faults → **rectangular**.
-13. The classic fault-valley river tag is the **Damodar**, not the Chambal. **Narmada–Tapi** are rift / fault-line cues as well.
-14. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural cues. **Loess** is wind-laid silt (China belt), not Imphal.
+13. The classic fault-valley river tag is the **Damodar**, not the Chambal. **Narmada–Tapi** are rift / fault-line pairs as well.
+14. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural pairs. **Loess** is wind-laid silt (China belt), not Imphal.
 15. Structure landforms include cuesta, hogback, mesa and butte. A **mesa** is broader than a **butte**. Davis’s humid old-age plain is a **peneplain** with leftover **monadnocks**; King’s arid form is a **pediplain**.
 16. Glacial erosional forms: cirque, arête, horn, **U-valley**, hanging valley, fjord, tarn. Depositional forms: moraine, drumlin, esker, kame, outwash, erratic.
 17. A **fjord** is a drowned glacial trough. A **ria** is a drowned river valley. Do not treat them as the same estuary type.
-18. Aeolian facts: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
+18. Aeolian points: **barchan** horns point **downwind**; parabolic dunes often show horns upwind. Yardang, zeugen and mushroom rocks are wind-eroded forms.
 19. Coastal deposition builds **spit, bar, tombolo and lagoon** with longshore drift. Coral reefs include fringing, barrier and atoll types.
 20. Karst needs **limestone plus carbonation**. **Stalactite** hangs from the **ceiling**; **stalagmite** grows from the **floor**. Forms include doline, cave, uvala and polje.
 21. River capture vocabulary includes pirate stream, beheaded stream, wind gap and elbow of capture.
 22. East Indian rivers typically build **deltas**; west-flowing Narmada and Tapi typically form **estuaries** into the Arabian Sea.
-23. Conglomerate has rounded pebbles; breccia has angular fragments. Organic sedimentary rock cue includes coal.
+23. Conglomerate has rounded pebbles; breccia has angular fragments. Organic sedimentary rock pair includes coal.
 24. Intertrappean beds between Deccan lava flows hold **land and freshwater** fossils, not marine plant–animal assemblages.
 25. Himadri is fossil-poor crystalline rock; Lesser Himalaya carries marine fossils; Shiwalik holds human remains — keep the three belts distinct when landform stems mix fossils.
 26. A gorge is a steep mountain cut; a canyon is often the arid stair-step equivalent. U-valley = glacier; V-valley = youthful river.
@@ -323,7 +323,7 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 | Resequent | Same direction as consequent, later |
 | Insequent | No obvious control (dendritic on uniform rock) |
 
-- **Antecedent** drainage is older than the uplift it cuts — Himalayan transverse giants are the classic Indian fact.
+- **Antecedent** drainage is older than the uplift it cuts — Himalayan transverse giants are the classic Indian centre.
 - **Superimposed** drainage is inherited from a cover that is now stripped — the **Chambal** is the classic Indian example.
 - Concordant drainage follows structure; discordant drainage cuts across it.
 - **River capture / piracy:** an aggressive **pirate** stream beheads its neighbour, leaving an **elbow of capture**, a dry **wind gap**, and a **misfit** stream behind.
@@ -427,7 +427,7 @@ A **structural basin** is a low enclosed by structure (syncline, rift or down-wa
 
 - **Fault-valley drainage** follows subsequent streams along **faults**; joints give **rectangular** patterns; rifts include **Narmada, Tapi and Damodar**.
 - The UPPCS fact “famous for fault valley drainage” is **Damodar**, not **Chambal** (Chambal is ravine/gully country).
-- World rift cues: Rhine, Dead Sea/Jordan, East Africa.
+- World rift pairs: Rhine, Dead Sea/Jordan, East Africa.
 
 **Inline PYQ — UPPCS Prelims 2019, Q8**
 
@@ -606,7 +606,7 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 
 - Forms include swallow hole, **doline / sinkhole**, uvala, **polje**, cave, limestone pavement (clint / gryke), disappearing stream and resurgence.
 - **Stalactite** hangs from the **roof**; **stalagmite** grows from the **floor**; a pillar forms when they meet.
-- Classic world belt: Dinaric Karst. India cues: **Meghalaya** caves, Borra (AP), Belum (AP).
+- Classic world belt: Dinaric Karst. India pairs: **Meghalaya** caves, Borra (AP), Belum (AP).
 
 ---
 

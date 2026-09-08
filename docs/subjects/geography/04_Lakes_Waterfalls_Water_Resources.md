@@ -1,6 +1,6 @@
 # Topic 4 — Lakes, Waterfalls & Water Resources
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥60)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥60)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -56,7 +56,7 @@ D. Chilka, Michigan, Superior, Victoria
 
 ## Consolidated — 40 Must-Score Facts
 
-1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin cues: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
+1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin pairs: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
 2. **Chilika** is the largest **east-coast lagoon** (Odisha / Northern Circars). If a question says “largest saline” and omits “inland,” Chilika is often the intended answer.
 3. **Sambhar** is the largest **inland** saline lake (Rajasthan). Sister Rajasthan saline names include Didwana, Kuchaman, Sargol, and Khatu.
 4. **Wular** is the largest-freshwater volume fact (Jammu & Kashmir, on the Jhelum, tectonic). **Dal** is the tourism lake. **Roopkund** is Uttarakhand’s Mystery / Skeleton Lake.
@@ -69,17 +69,17 @@ D. Chilka, Michigan, Superior, Victoria
 11. India has more than **17%** of world people, about **4%** of water, and about **2.45%** of land. Precipitation is about **4000 BCM**; available water about **1869 BCM**; utilisable about **1122 BCM** (surface ~690 + groundwater ~433).
 12. The Ganga–Brahmaputra–Barak belt is about **one-third** of area but about **60%** of surface water. Irrigation takes about **89%** of surface water use and about **92%** of groundwater use.
 13. Groundwater now covers more than **60%** of irrigated area. Canals dominate the Indo-Gangetic plains; tanks matter on the peninsula. Tamil Nadu leads south-Indian groundwater utilisation.
-14. Quality facts: **arsenic** in the Ganga belt; **fluoride** in Rajasthan and parts of Maharashtra; **usar** from over-irrigation in the north-west; Yamuna’s Delhi–Etawah stretch is the classic dirty stretch.
+14. Quality points: **arsenic** in the Ganga belt; **fluoride** in Rajasthan and parts of Maharashtra; **usar** from over-irrigation in the north-west; Yamuna’s Delhi–Etawah stretch is the classic dirty stretch.
 15. National Water Policy 2012 puts **drinking first**. PMKSY means har khet plus more crop per drop. **Atal Jal** covers seven states including **Uttar Pradesh**. Ken–Betwa is the live interlinking project.
 16. **Kunchikal** on the **Varahi** is the usual UPPCS **highest** waterfall key. **Nohkalikai** is the tallest **plunge**. **Jog** on the **Sharavati** is famous for **width**, not height.
 17. **Shivanasamudra** on the **Cauvery** is the volume king. **Kapildhara** is on the **Narmada**, not the Godavari. Sharavati is a **west-flowing** Karnataka river, not a Cauvery tributary.
-18. Match facts: **Dudhsagar–Goa (Mandovi)**; Barkana–Karnataka; Khandadhar–Odisha; Palani–Himachal Pradesh.
+18. Match pairs: **Dudhsagar–Goa (Mandovi)**; Barkana–Karnataka; Khandadhar–Odisha; Palani–Himachal Pradesh.
 19. **Hundru** is on the Subarnarekha. **Lodh / Budha Ghagh** is on the **Burha** (Jharkhand’s highest), not the Kanchi. **Dhuandhar** is Narmada at Bhedaghat. **Chitrakote** is on the Indravati.
 20. **Chachai–Bihad** is a wrong pair. **Bhalkund** is on the **Bina**, not the Narmada. Other falls: Amritdhara–Hasdeo, Chulia–Chambal, Duduma–Machhkund, Gokak–Ghataprabha.
 21. **Bhakra–Nangal** is on the **Sutlej** with **Gobind Sagar** (joint **PB–HR–RJ**). **Tehri** is the tallest rock-fill dam on the **Bhagirathi** (+ Bhilangana confluence). **Hirakud** on the **Mahanadi** in Odisha is the longest-earthen narrative (**1948–57**).
 22. **Indira Sagar** (Narmada Sagar) on the Narmada in **Madhya Pradesh** is the volume king (**Harsud** submerged). **Sardar Sarovar** is Narmada in **Gujarat** (~163 m, ~1450 MW; beneficiaries GJ–RJ–MH–MP). **Ban Sagar** is on the **Son**, not Narmada. **Idukki** is an arch dam on the **Periyar**. Koyna is linked to reservoir-induced seismicity in **1967**.
 23. **Nagarjuna Sagar** and **Srisailam** are both on the **Krishna**. **Tulbul** is on the Jhelum / Wular. **Baglihar** / **Dulhasti** are on the Chenab. **Pandoh** / **Pong** are on the Beas.
-24. Ramganga project facts: length about **825.8 m**, power about **198 MW**, Garhwal location; irrigation is **not** a neat **6 lakh ha**.
+24. Ramganga project points: length about **825.8 m**, power about **198 MW**, Garhwal location; irrigation is **not** a neat **6 lakh ha**.
 25. **Indira Gandhi Canal** is India’s **longest** canal (Harike Barrage; Sutlej–Beas–Ravi waters; western Rajasthan). **Gang Canal** (1927, Maharaja Ganga Singh) is among the oldest developed systems. Upper Ganga Canal offtake is at **Bhimgoda / Haridwar**; Lower Ganga Canal at **Narora**.
 26. Himalayan hydropower potential is huge. Eastern Uttar Pradesh and Bihar cannot tap the ranges to their north because those ranges lie in **Nepal**.
 27. India–Bhutan hydro names to fact: **Chukha**, Tala, Kurichhu, and **Mangdechhu / Mungdechhu**.
@@ -321,7 +321,7 @@ UPPCS 2020 Q56 asked only four names. Next year can pick **any** high-yield pair
 
 *Row order in a match table is **not** the answer code.*
 
-| Lake | State / UT | Extra fact |
+| Lake | State / UT | Note |
 |------|------------|------------|
 | **Sala** ★2020 | **Arunachal Pradesh** | 2020 Q56 |
 | **Badkhal** ★2020 | **Haryana** (Faridabad belt) | 2020 Q56 |
@@ -504,7 +504,7 @@ D. Wular
 
 - In the UPPCS **2018** height list, **Kunchikal** is India’s highest waterfall. Newer databases may rank other falls higher for specific measures, but they do not make **Jog** the highest.
 - **Kunchikal** is a cascade on the **Varahi**. Mani Dam has reduced its dry-season flow.
-- **Jog** is segmented on the **Sharavati**. Sharavati is a **west-flowing** Karnataka river to the Arabian Sea at Honnavar. Jog is **not** India’s highest; it is the fame / width fact.
+- **Jog** is segmented on the **Sharavati**. Sharavati is a **west-flowing** Karnataka river to the Arabian Sea at Honnavar. Jog is **not** India’s highest; it is the renown / width fact.
 - Some older notes once called Sharavati a **Cauvery tributary**. That is **wrong**. Jog is not on the Cauvery.
 - **Linganamakki** dam stores Sharavati water for Karnataka hydropower.
 - **Nohkalikai** is the tallest **single-drop plunge** in newer lists. For overall height, **Kunchikal** remains the usual textbook answer; for plunge height alone, use **Nohkalikai**.
@@ -538,7 +538,7 @@ D. Kevti fall
 
 **Logic:** Famous ≠ tallest. UPPCS **2018** followed the older height list (Kunchikal).
 
-**Ans: B** — Kunchikal (Varahi, KA). Jog is the fame / width trap.
+**Ans: B** — Kunchikal (Varahi, KA). Jog is the renown / width trap.
 
 </details>
 
@@ -557,7 +557,7 @@ D. Kevti fall
 | Project | River | Where / type | Reservoir / extra |
 |---------|-------|--------------|-------------------|
 | **Bhakra–Nangal** | **Sutlej** | HP dam + Punjab headworks; **gravity**; joint **PB–HR–RJ** (command also touches HP) | **Gobind Sagar**; completed **1963**; Nehru’s “temple of modern India” tag |
-| **Hirakud** | **Mahanadi** | Odisha (~15 km from Sambalpur); started **1948**, completed **1957** | Longest earthen-dam narrative (~**4.8 km** main / ~**26 km** with dykes); ~10 lakh ha irrigation lore |
+| **Hirakud** | **Mahanadi** | Odisha (~15 km from Sambalpur); started **1948**, completed **1957** | Longest earthen-dam narrative (~**4.8 km** main / ~**26 km** with dykes); ~10 lakh ha irrigation note |
 | **Sardar Sarovar** | **Narmada** | Near **Navagam**, Gujarat; height ~**163 m**; ~**1450 MW** | Beneficiaries **GJ, RJ, MH, MP**; MP takes the largest Narmada water share; **NBA / Medha Patkar** opposed height rise |
 | **Indira Sagar** (Narmada Sagar) | **Narmada** | Near **Punasa / Khandwa**, MP | Largest reservoir **by volume**; ~1.23 lakh ha + ~**1000 MW** target; **Harsud** town submerged (**2004**) |
 | **Nagarjuna Sagar** | **Krishna** | AP–TS border; completed **1967** | Multipurpose; Nalgonda–Khammam–Guntur–Prakasam belt; height ~**125 m** |
@@ -610,19 +610,19 @@ D. Kevti fall
 | **Gandak Project** | Gandak Barrage (**1959** treaty) | India–Nepal; **UP + Bihar** (+ Nepal) |
 | **Kishau** | **Tons** (Yamuna) | HP–UK border; benefits HP/UK (+ others) |
 | **Kalpong** | Kalpong | First hydro of **Andaman & Nicobar** |
-| **Rihand / Pant Sagar** | Rihand (Son tributary), Pipri, Sonbhadra | Largest UP multipurpose lore; Obra power below dam |
+| **Rihand / Pant Sagar** | Rihand (Son tributary), Pipri, Sonbhadra | Largest UP multipurpose note; Obra power below dam |
 | **Rajghat / Rani Lakshmibai** | **Betwa**, Lalitpur | Joint UP–MP |
 | **Matatila** | Betwa | Joint UP–MP |
 | **Pochampad** | Godavari | Telangana |
 | **Tapovan–Vishnugad** | **Dhauliganga**, Chamoli UK | |
 | **Dulhasti** | **Chenab**, Kishtwar | |
-| **Baglihar** | **Chenab**, Ramban | IWT / World Bank dispute lore |
+| **Baglihar** | **Chenab**, Ramban | IWT / World Bank dispute note |
 | **Suil** | Suil (Ravi tributary), Chamba HP | |
-| **Kol Dam** | **Sutlej**, HP | NTPC; silt check for Bhakra lore |
+| **Kol Dam** | **Sutlej**, HP | NTPC; silt check for Bhakra note |
 | **Meja (RJ)** | **Kothari** (Banas), Bhilwara | Irrigation — not UP’s Meja |
 | **Kalpasar** | Gulf of Khambhat, **Gujarat** | Freshwater reservoir / tidal idea |
 | **Teesta** hydro | Teesta | Sikkim / West Bengal (TLDP III–IV = WB) |
-| **Malampuzha** | Malampuzha (Bharathapuzha), Kerala | Largest Kerala reservoir lore |
+| **Malampuzha** | Malampuzha (Bharathapuzha), Kerala | Largest Kerala reservoir note |
 | **Aliyar / Isapur / Kangsabati** | — | All are **water reservoirs** |
 
 **Interstate water-dispute tribunals (match fodder)**
@@ -634,7 +634,7 @@ D. Kevti fall
 | **Narmada** | **6 Oct 1969** | Gujarat, MP, Maharashtra, Rajasthan (**4**) |
 | **Mahanadi** | **2018** | Odisha, Chhattisgarh (**2**) |
 
-- Large-dam count descending order (CGPCS 2021): **Madhya Pradesh > Gujarat > Rajasthan > Telangana > Andhra Pradesh**. Absolute “biggest dams” lore also tags **Maharashtra, Madhya Pradesh, Gujarat**.
+- Large-dam count descending order (CGPCS 2021): **Madhya Pradesh > Gujarat > Rajasthan > Telangana > Andhra Pradesh**. Absolute “biggest dams” note also tags **Maharashtra, Madhya Pradesh, Gujarat**.
 
 ### River-wise dam map (match fodder)
 
@@ -1147,10 +1147,10 @@ Older irrigation–canal questions from Ghatnachakra CA–171–177. Teaching ca
 
 Pattiseema Project is associated with the integration of which of the following rivers?
 
-A. Krishna and Kaveri  
-B. Krishna and Godavari  
-C. Godavari and Mahanadi  
-D. Ganga and Brahmaputra  
+A. Krishna and Kaveri 
+B. Krishna and Godavari 
+C. Godavari and Mahanadi 
+D. Ganga and Brahmaputra 
 
 <details>
 <summary>Show answer</summary>
@@ -1179,13 +1179,13 @@ Which of the following is NOT correctly matched?
 
 **Q-GC3. UP Lower Sub. Prelims 2015**
 
-**Assertion (A):** One of the major sources of irrigation in Peninsular India is a pond.  
+**Assertion (A):** One of the major sources of irrigation in Peninsular India is a pond. 
 **Reason (R):** Most of the rivers in the Peninsular region are seasonal.
 
-A. Both (A) and (R) are correct and (R) explains (A)  
-B. Both (A) and (R) are correct but (R) does not explain (A)  
-C. (A) is correct, but (R) is false  
-D. (A) is false, but (R) is correct  
+A. Both (A) and (R) are correct and (R) explains (A) 
+B. Both (A) and (R) are correct but (R) does not explain (A) 
+C. (A) is correct, but (R) is false 
+D. (A) is false, but (R) is correct 
 
 <details>
 <summary>Show answer</summary>
@@ -1198,10 +1198,10 @@ D. (A) is false, but (R) is correct
 
 With reference to India, which one of the following statements is not correct?
 
-A. About one-third of the area of the country records more than 750 millimetres of annual rainfall  
-B. The dominant source of irrigation in the country are wells  
-C. Alluvial soil is the predominant type of soil in Northern plains of the country  
-D. The mountain areas account for about thirty percent of the surface area of the country  
+A. About one-third of the area of the country records more than 750 millimetres of annual rainfall 
+B. The dominant source of irrigation in the country are wells 
+C. Alluvial soil is the predominant type of soil in Northern plains of the country 
+D. The mountain areas account for about thirty percent of the surface area of the country 
 
 <details>
 <summary>Show answer</summary>
@@ -1214,10 +1214,10 @@ D. The mountain areas account for about thirty percent of the surface area of th
 
 In which of the following states is the percentage of total cropped area under irrigation (2011) the highest?
 
-A. Madhya Pradesh  
-B. Maharashtra  
-C. Uttar Pradesh  
-D. Haryana  
+A. Madhya Pradesh 
+B. Maharashtra 
+C. Uttar Pradesh 
+D. Haryana 
 
 <details>
 <summary>Show answer</summary>
@@ -1230,10 +1230,10 @@ D. Haryana
 
 Which State in India has the largest extent in irrigation (percent)?
 
-A. Punjab  
-B. Uttar Pradesh  
-C. Haryana  
-D. Madhya Pradesh  
+A. Punjab 
+B. Uttar Pradesh 
+C. Haryana 
+D. Madhya Pradesh 
 
 <details>
 <summary>Show answer</summary>
@@ -1246,14 +1246,14 @@ D. Madhya Pradesh
 
 With reference to micro-irrigation, which of the following statements is/are correct?
 
-1. Fertilizer/nutrient loss can be reduced.  
-2. It is the only means of irrigation in dry land farming.  
-3. In some areas of farming, receding of groundwater level can be checked.  
+1. Fertilizer/nutrient loss can be reduced. 
+2. It is the only means of irrigation in dry land farming. 
+3. In some areas of farming, receding of groundwater level can be checked. 
 
-A. 1 only  
-B. 2 and 3  
-C. 1 and 3  
-D. 1, 2 and 3  
+A. 1 only 
+B. 2 and 3 
+C. 1 and 3 
+D. 1, 2 and 3 
 
 <details>
 <summary>Show answer</summary>
@@ -1266,10 +1266,10 @@ D. 1, 2 and 3
 
 Life saving or Protective irrigation refers to:
 
-A. Constant flow of water  
-B. Irrigation at critical growth stage  
-C. P.W.P. Irrigation  
-D. Alternate wetting and drying  
+A. Constant flow of water 
+B. Irrigation at critical growth stage 
+C. P.W.P. Irrigation 
+D. Alternate wetting and drying 
 
 <details>
 <summary>Show answer</summary>
@@ -1282,10 +1282,10 @@ D. Alternate wetting and drying
 
 During last 25 years, the development of tubewell irrigation has been most spectacular in:
 
-A. Ganga-Ghaghra Doab  
-B. Ganga-Yamuna Doab  
-C. Saryupar Plain  
-D. Bundelkhand  
+A. Ganga-Ghaghra Doab 
+B. Ganga-Yamuna Doab 
+C. Saryupar Plain 
+D. Bundelkhand 
 
 <details>
 <summary>Show answer</summary>
@@ -1298,8 +1298,8 @@ D. Bundelkhand
 
 In which state of India is the maximum / largest area irrigated by tubewells (and wells)?
 
-A. Madhya Pradesh / Bihar / Haryana / Punjab (as per the given options)  
-B. Uttar Pradesh  
+A. Madhya Pradesh / Bihar / Haryana / Punjab (as per the given options) 
+B. Uttar Pradesh 
 
 <details>
 <summary>Show answer</summary>
@@ -1312,10 +1312,10 @@ B. Uttar Pradesh
 
 Descending order of states for available groundwater resources for irrigation (map labels 4–3–2–1 = UP–Maharashtra–West Bengal–Assam):
 
-A. 3, 4, 1, 2  
-B. 3, 4, 2, 1  
-C. 4, 3, 1, 2  
-D. 4, 3, 2, 1  
+A. 3, 4, 1, 2 
+B. 3, 4, 2, 1 
+C. 4, 3, 1, 2 
+D. 4, 3, 2, 1 
 
 <details>
 <summary>Show answer</summary>
@@ -1328,10 +1328,10 @@ D. 4, 3, 2, 1
 
 The Garland Canal System in India was proposed by:
 
-A. K.L. Rao  
-B. Dineshaw J. Dastur  
-C. Visvesarayya  
-D. Y.K. Alagh  
+A. K.L. Rao 
+B. Dineshaw J. Dastur 
+C. Visvesarayya 
+D. Y.K. Alagh 
 
 <details>
 <summary>Show answer</summary>
@@ -1344,10 +1344,10 @@ D. Y.K. Alagh
 
 Who is regarded as the Pioneer of Irrigation works in South India?
 
-A. Sir Arthur Cotton  
-B. Col. Baird Smith  
-C. Lt. Blaine  
-D. Col. Robert Smith  
+A. Sir Arthur Cotton 
+B. Col. Baird Smith 
+C. Lt. Blaine 
+D. Col. Robert Smith 
 
 <details>
 <summary>Show answer</summary>
@@ -1360,10 +1360,10 @@ D. Col. Robert Smith
 
 The maximum irrigation potential of India is created through:
 
-A. Major Projects  
-B. Minor projects & Major Projects  
-C. Minor Projects  
-D. Medium Projects  
+A. Major Projects 
+B. Minor projects & Major Projects 
+C. Minor Projects 
+D. Medium Projects 
 
 <details>
 <summary>Show answer</summary>
@@ -1376,10 +1376,10 @@ D. Medium Projects
 
 The water-carrying capacity of Farakka canal is:
 
-A. 75,000 Cusecs  
-B. 70,000 Cusecs  
-C. 40,000 Cusecs  
-D. 35,000 Cusecs  
+A. 75,000 Cusecs 
+B. 70,000 Cusecs 
+C. 40,000 Cusecs 
+D. 35,000 Cusecs 
 
 <details>
 <summary>Show answer</summary>
@@ -1392,10 +1392,10 @@ D. 35,000 Cusecs
 
 Mangalam Irrigation Project is located in:
 
-A. Andhra Pradesh  
-B. Kerala  
-C. Tamil Nadu  
-D. West Bengal  
+A. Andhra Pradesh 
+B. Kerala 
+C. Tamil Nadu 
+D. West Bengal 
 
 <details>
 <summary>Show answer</summary>
@@ -1408,10 +1408,10 @@ D. West Bengal
 
 The Saran irrigation canal is drawn from the river:
 
-A. Son  
-B. Ganga  
-C. Kosi  
-D. Gandak  
+A. Son 
+B. Ganga 
+C. Kosi 
+D. Gandak 
 
 <details>
 <summary>Show answer</summary>
@@ -1424,10 +1424,10 @@ D. Gandak
 
 Indira Gandhi Canal has its source at / Harike Barrage is at the confluence of:
 
-A. Gandhi Sagar Dam / Ravi–Beas  
-B. Bhakra Dam / Jhelum–Chenab  
-C. **Harike Barrage** / **Beas and Satluj**  
-D. Govind Ballabh Sagar / Chenab–Satluj  
+A. Gandhi Sagar Dam / Ravi–Beas 
+B. Bhakra Dam / Jhelum–Chenab 
+C. **Harike Barrage** / **Beas and Satluj** 
+D. Govind Ballabh Sagar / Chenab–Satluj 
 
 <details>
 <summary>Show answer</summary>
@@ -1440,10 +1440,10 @@ D. Govind Ballabh Sagar / Chenab–Satluj
 
 Which is the most well-developed and the oldest canal systems of the world in India? / Gang canal was constructed by Maharaja Ganga Singh Ji in:
 
-A. Gang Canal / **1927**  
-B. Sikri Canal / 1930  
-C. Indira Gandhi Nahar / 1944  
-D. Krishna-Godavari Canal / 1932  
+A. Gang Canal / **1927** 
+B. Sikri Canal / 1930 
+C. Indira Gandhi Nahar / 1944 
+D. Krishna-Godavari Canal / 1932 
 
 <details>
 <summary>Show answer</summary>
@@ -1456,14 +1456,14 @@ D. Krishna-Godavari Canal / 1932
 
 Which of the following is/are the main objectives of Sharda Tributary Command Development Project?
 
-1. To increase agriculture production  
-2. To change the format of land use by multiple crop cultivation  
-3. Reforms of land management  
+1. To increase agriculture production 
+2. To change the format of land use by multiple crop cultivation 
+3. Reforms of land management 
 
-A. Only 1  
-B. Only 1 & 2  
-C. Only 2 & 3  
-D. All the above  
+A. Only 1 
+B. Only 1 & 2 
+C. Only 2 & 3 
+D. All the above 
 
 <details>
 <summary>Show answer</summary>
@@ -1476,10 +1476,10 @@ D. All the above
 
 Which one of the following statements is not true?
 
-A. Ghaggar's water is utilised in the Indira Gandhi Canal  
-B. Narmada rises from Amarkantak region  
-C. Nizam Sagar is situated on the Manjra river  
-D. Penganga is a tributary of the Godavari  
+A. Ghaggar's water is utilised in the Indira Gandhi Canal 
+B. Narmada rises from Amarkantak region 
+C. Nizam Sagar is situated on the Manjra river 
+D. Penganga is a tributary of the Godavari 
 
 <details>
 <summary>Show answer</summary>
@@ -1492,10 +1492,10 @@ D. Penganga is a tributary of the Godavari
 
 The Lower Ganga Canal is taken out of the Ganga at:
 
-A. Haridwar  
-B. Narora  
-C. Bareilly  
-D. Kanpur  
+A. Haridwar 
+B. Narora 
+C. Bareilly 
+D. Kanpur 
 
 <details>
 <summary>Show answer</summary>
@@ -1508,10 +1508,10 @@ D. Kanpur
 
 Which of the following canal systems irrigate areas of Bihar?
 
-A. Upper Ganga Canal  
-B. Triveni Canal  
-C. Sharda Canal  
-D. Eastern Yamuna Canal  
+A. Upper Ganga Canal 
+B. Triveni Canal 
+C. Sharda Canal 
+D. Eastern Yamuna Canal 
 
 <details>
 <summary>Show answer</summary>
@@ -1524,10 +1524,10 @@ D. Eastern Yamuna Canal
 
 Hariyali is a new scheme for / ‘Hariyali Yojana’ is related to:
 
-A. Second green revolution / Soil Management  
-B. Development of wasteland / Water Management  
-C. Forestation of desert land / Air Management  
-D. Development of grassland / Crop management  
+A. Second green revolution / Soil Management 
+B. Development of wasteland / Water Management 
+C. Forestation of desert land / Air Management 
+D. Development of grassland / Crop management 
 
 <details>
 <summary>Show answer</summary>
@@ -1540,15 +1540,15 @@ D. Development of grassland / Crop management
 
 What are the benefits of implementing the ‘Integrated Watershed Development Programme?
 
-1. Prevention of soil run off  
-2. Linking the country’s perennial rivers with seasonal rivers  
-3. Rainwater harvesting and recharge of groundwater level  
-4. Regeneration of natural vegetation  
+1. Prevention of soil run off 
+2. Linking the country’s perennial rivers with seasonal rivers 
+3. Rainwater harvesting and recharge of groundwater level 
+4. Regeneration of natural vegetation 
 
-A. 1 and 2 only  
-B. 2, 3 and 4 only  
-C. 1, 3 and 4 only  
-D. 1, 2, 3 and 4  
+A. 1 and 2 only 
+B. 2, 3 and 4 only 
+C. 1, 3 and 4 only 
+D. 1, 2, 3 and 4 
 
 <details>
 <summary>Show answer</summary>
@@ -1569,10 +1569,10 @@ Consider the following pairs:
 
 Which of the above pairs is/are correctly matched?
 
-A. 1 and 2 only  
-B. 3 only  
-C. 1, 2 and 3  
-D. None  
+A. 1 and 2 only 
+B. 3 only 
+C. 1, 2 and 3 
+D. None 
 
 <details>
 <summary>Show answer</summary>
@@ -1585,14 +1585,14 @@ D. None
 
 Which of the following is/are the advantage/advantages of practising drip irrigation?
 
-1. Reduction in weed  
-2. Reduction in soil salinity  
-3. Reduction in soil erosion  
+1. Reduction in weed 
+2. Reduction in soil salinity 
+3. Reduction in soil erosion 
 
-A. 1 and 2 only  
-B. 3 only  
-C. 1 and 3 only  
-D. None of the above is an advantage of practising drip irrigation  
+A. 1 and 2 only 
+B. 3 only 
+C. 1 and 3 only 
+D. None of the above is an advantage of practising drip irrigation 
 
 <details>
 <summary>Show answer</summary>
@@ -1605,10 +1605,10 @@ D. None of the above is an advantage of practising drip irrigation
 
 Buckingham canal is situated:
 
-A. On Kalinga Coast  
-B. On Malabar Coast  
-C. On Koromandal Coast  
-D. On Kutch Coast  
+A. On Kalinga Coast 
+B. On Malabar Coast 
+C. On Koromandal Coast 
+D. On Kutch Coast 
 
 <details>
 <summary>Show answer</summary>
@@ -1621,10 +1621,10 @@ D. On Kutch Coast
 
 Which one of the following sectors has greater consumption share of water in India?
 
-A. Agricultural Sector  
-B. Domestic Sector  
-C. Mining Sector  
-D. Industrial Sector  
+A. Agricultural Sector 
+B. Domestic Sector 
+C. Mining Sector 
+D. Industrial Sector 
 
 <details>
 <summary>Show answer</summary>
@@ -1637,10 +1637,10 @@ D. Industrial Sector
 
 Chambal Canal Irrigation Project is related with:
 
-A. Sindh Basin  
-B. Ganga Basin  
-C. Yamuna Basin  
-D. Tapti Basin  
+A. Sindh Basin 
+B. Ganga Basin 
+C. Yamuna Basin 
+D. Tapti Basin 
 
 <details>
 <summary>Show answer</summary>
@@ -1659,10 +1659,10 @@ Older multipurpose / dam–river questions from Ghatnachakra CA–178–195. Tea
 
 The beneficiary states of the Sardar Sarovar Project are–
 
-A. Gujarat, Maharashtra, M.P. and Rajasthan  
-B. Andhra Pradesh, M.P., Gujarat and Maharashtra  
-C. Orissa, M.P., Gujarat and Maharashtra  
-D. M.P., Gujarat, Karnataka and Maharashtra  
+A. Gujarat, Maharashtra, M.P. and Rajasthan 
+B. Andhra Pradesh, M.P., Gujarat and Maharashtra 
+C. Orissa, M.P., Gujarat and Maharashtra 
+D. M.P., Gujarat, Karnataka and Maharashtra 
 
 <details>
 <summary>Show answer</summary>
@@ -1675,10 +1675,10 @@ D. M.P., Gujarat, Karnataka and Maharashtra
 
 On which of the following rivers is the Sardar Sarovar Dam being constructed?
 
-A. Narmada  
-B. Chambal  
-C. Sutluj  
-D. Mahanadi  
+A. Narmada 
+B. Chambal 
+C. Sutluj 
+D. Mahanadi 
 
 <details>
 <summary>Show answer</summary>
@@ -1691,10 +1691,10 @@ D. Mahanadi
 
 Which one of the following rivers is associated with Sardar Sarovar Project?
 
-A. Narmada  
-B. Tapti (Tapi)  
-C. Godawari  
-D. Cauvery (Kaveri)  
+A. Narmada 
+B. Tapti (Tapi) 
+C. Godawari 
+D. Cauvery (Kaveri) 
 
 <details>
 <summary>Show answer</summary>
@@ -1707,15 +1707,15 @@ D. Cauvery (Kaveri)
 
 Maximum benefits occupying state by Sardar Sarovar Dam is :
 
-A. Gujarat  
-B. Odisha  
-C. Madhya Pradesh  
-D. Rajasthan  
+A. Gujarat 
+B. Odisha 
+C. Madhya Pradesh 
+D. Rajasthan 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Madhya Pradesh** takes the largest Narmada water share from the project (~**65%** in usual answers). Power share lore often tags ~**57%** of SSP electricity to MP — do not swap “water max” with “Gujarat dam site.”
+**Ans: C.** **Madhya Pradesh** takes the largest Narmada water share from the project (~**65%** in usual answers). Power share note often tags ~**57%** of SSP electricity to MP — do not swap “water max” with “Gujarat dam site.”
 
 </details>
 
@@ -1723,10 +1723,10 @@ D. Rajasthan
 
 Who among the following is against the Sardar Sarovar Project?
 
-A. Yogendra Makwana  
-B. Kesubhai Patel  
-C. Chagan Bhujbal  
-D. Medha Patekar  
+A. Yogendra Makwana 
+B. Kesubhai Patel 
+C. Chagan Bhujbal 
+D. Medha Patekar 
 
 <details>
 <summary>Show answer</summary>
@@ -1739,10 +1739,10 @@ D. Medha Patekar
 
 Which of the following dams is not related to the river Narmada?
 
-A. Bargi  
-B. Omkareshwar  
-C. Indira Sagar  
-D. Ban Sagar  
+A. Bargi 
+B. Omkareshwar 
+C. Indira Sagar 
+D. Ban Sagar 
 
 <details>
 <summary>Show answer</summary>
@@ -1755,16 +1755,16 @@ D. Ban Sagar
 
 Indira Sagar dam is situated on which river ?
 
-A. Tapti  
-B. Narmada  
-C. Krishna  
-D. Kaveri  
-E. Ganga  
+A. Tapti 
+B. Narmada 
+C. Krishna 
+D. Kaveri 
+E. Ganga 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Indira Sagar** (= Narmada Sagar) is on the **Narmada** near Punasa / Khandwa, Madhya Pradesh (~**1000 MW**; irrigation target lore ~**1.23 lakh ha**).
+**Ans: B.** **Indira Sagar** (= Narmada Sagar) is on the **Narmada** near Punasa / Khandwa, Madhya Pradesh (~**1000 MW**; irrigation target note ~**1.23 lakh ha**).
 
 </details>
 
@@ -1772,10 +1772,10 @@ E. Ganga
 
 In which one of the following water reservoirs, Harsud town of Madhya Pradesh has been submerged ?
 
-A. Indira Sagar  
-B. Rani Avanti Bai dam  
-C. Sardar Sarovar  
-D. Mahi Dam  
+A. Indira Sagar 
+B. Rani Avanti Bai dam 
+C. Sardar Sarovar 
+D. Mahi Dam 
 
 <details>
 <summary>Show answer</summary>
@@ -1788,10 +1788,10 @@ D. Mahi Dam
 
 With which one of the following rivers is the Omkareshwar project associated?
 
-A. Chambal  
-B. Narmada  
-C. Tapi  
-D. Bhima  
+A. Chambal 
+B. Narmada 
+C. Tapi 
+D. Bhima 
 
 <details>
 <summary>Show answer</summary>
@@ -1804,10 +1804,10 @@ D. Bhima
 
 Raising the height of which dam is being opposed by Narmada Bachao Andolan?
 
-A. Indira Sagar  
-B. Sardar Sarovar  
-C. Gandhi Sagar  
-D. None of the above  
+A. Indira Sagar 
+B. Sardar Sarovar 
+C. Gandhi Sagar 
+D. None of the above 
 
 <details>
 <summary>Show answer</summary>
@@ -1820,10 +1820,10 @@ D. None of the above
 
 Bhakra Nangal is a joint project of –
 
-A. Haryana, Punjab and Rajasthan  
-B. Haryana, Punjab and Delhi  
-C. Himachal Pradesh, Haryana, Punjab  
-D. Punjab, Delhi, Rajasthan  
+A. Haryana, Punjab and Rajasthan 
+B. Haryana, Punjab and Delhi 
+C. Himachal Pradesh, Haryana, Punjab 
+D. Punjab, Delhi, Rajasthan 
 
 <details>
 <summary>Show answer</summary>
@@ -1836,10 +1836,10 @@ D. Punjab, Delhi, Rajasthan
 
 Which group of States receives water from the Bhakra-Nangal project?
 
-A. Jammu & Kashmir, Haryana, Punjab  
-B. H.P., Punjab, Haryana  
-C. Haryana, Punjab, Rajasthan  
-D. Haryana, U.P., Rajasthan  
+A. Jammu & Kashmir, Haryana, Punjab 
+B. H.P., Punjab, Haryana 
+C. Haryana, Punjab, Rajasthan 
+D. Haryana, U.P., Rajasthan 
 
 <details>
 <summary>Show answer</summary>
@@ -1852,15 +1852,15 @@ D. Haryana, U.P., Rajasthan
 
 On which river is the Bhakhra-Nangal dam built?
 
-A. Ravi  
-B. Indus  
-C. Chenab  
-D. Satluj  
+A. Ravi 
+B. Indus 
+C. Chenab 
+D. Satluj 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Bhakra–Nangal is on the **Sutlej** (~80 km north of Ambala lore; Bhakra completed **1963**).
+**Ans: D.** Bhakra–Nangal is on the **Sutlej** (~80 km north of Ambala note; Bhakra completed **1963**).
 
 </details>
 
@@ -1868,10 +1868,10 @@ D. Satluj
 
 Which of the following is the oldest hydropower station in India?
 
-A. Mayurakshi  
-B. Machkund  
-C. Pallivasar  
-D. Shivasamudram  
+A. Mayurakshi 
+B. Machkund 
+C. Pallivasar 
+D. Shivasamudram 
 
 <details>
 <summary>Show answer</summary>
@@ -1884,10 +1884,10 @@ D. Shivasamudram
 
 Shiva Samundram Hydropower Project is located in-
 
-A. Tamil Nadu  
-B. Kerala  
-C. Andhra Pradesh  
-D. Karnataka  
+A. Tamil Nadu 
+B. Kerala 
+C. Andhra Pradesh 
+D. Karnataka 
 
 <details>
 <summary>Show answer</summary>
@@ -1900,15 +1900,15 @@ D. Karnataka
 
 Cauvery River Water Dispute (CRWD) is related to which of the following states?
 
-A. Tamil Nadu and Karnataka  
-B. Tamil Nadu, Karnataka and Kerala  
-C. Tamil Nadu, Karnataka, Kerala and Gujarat  
-D. Tamil Nadu, Karnataka, Kerala and Puducherry  
+A. Tamil Nadu and Karnataka 
+B. Tamil Nadu, Karnataka and Kerala 
+C. Tamil Nadu, Karnataka, Kerala and Gujarat 
+D. Tamil Nadu, Karnataka, Kerala and Puducherry 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Parties = **Tamil Nadu, Karnataka, Kerala and Puducherry**. Supreme Court **2018** allocation lore: total ~**740 TMC**; TN ~**404.25**, KA ~**284.75**, Kerala **30**, Puducherry **7**.
+**Ans: D.** Parties = **Tamil Nadu, Karnataka, Kerala and Puducherry**. Supreme Court **2018** allocation note: total ~**740 TMC**; TN ~**404.25**, KA ~**284.75**, Kerala **30**, Puducherry **7**.
 
 </details>
 
@@ -1916,10 +1916,10 @@ D. Tamil Nadu, Karnataka, Kerala and Puducherry
 
 Water dispute between Tamil Nadu and Karnataka is related to-
 
-A. Krishna  
-B. Cauvery  
-C. Godavari  
-D. Mahanadi  
+A. Krishna 
+B. Cauvery 
+C. Godavari 
+D. Mahanadi 
 
 <details>
 <summary>Show answer</summary>
@@ -1932,10 +1932,10 @@ D. Mahanadi
 
 Nagarjuna Sagar dam is situated in which state of India?
 
-A. Andhra Pradesh  
-B. Madhya Pradesh  
-C. Uttar Pradesh  
-D. Tamil Nadu  
+A. Andhra Pradesh 
+B. Madhya Pradesh 
+C. Uttar Pradesh 
+D. Tamil Nadu 
 
 <details>
 <summary>Show answer</summary>
@@ -1948,10 +1948,10 @@ D. Tamil Nadu
 
 Nagarjuna Sagar Project is located on the river :
 
-A. Bhadra  
-B. Bhima  
-C. Godavari  
-D. Krishna  
+A. Bhadra 
+B. Bhima 
+C. Godavari 
+D. Krishna 
 
 <details>
 <summary>Show answer</summary>
@@ -1964,15 +1964,15 @@ D. Krishna
 
 On which river is the Hirakud Dam constructed?
 
-A. Shivnath  
-B. Narmada  
-C. Mahanadi  
-D. Son  
+A. Shivnath 
+B. Narmada 
+C. Mahanadi 
+D. Son 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Hirakud** on the **Mahanadi** in Odisha (~15 km from Sambalpur; started **1948**, completed **1957**; longest earthen-dam lore; irrigates ~**10 lakh ha**).
+**Ans: C.** **Hirakud** on the **Mahanadi** in Odisha (~15 km from Sambalpur; started **1948**, completed **1957**; longest earthen-dam note; irrigates ~**10 lakh ha**).
 
 </details>
 
@@ -1980,10 +1980,10 @@ D. Son
 
 The name of dam build on Mahanadi River is –
 
-A. Bhakra-Nangal  
-B. Gandhi Sagar  
-C. Hirakund  
-D. Tungabhadra  
+A. Bhakra-Nangal 
+B. Gandhi Sagar 
+C. Hirakund 
+D. Tungabhadra 
 
 <details>
 <summary>Show answer</summary>
@@ -1996,10 +1996,10 @@ D. Tungabhadra
 
 Which dam has been constructed on the Chambal river?
 
-A. Indira Sagar  
-B. Sardar Sarovar  
-C. Gandhi Sagar  
-D. Bhakra Dam  
+A. Indira Sagar 
+B. Sardar Sarovar 
+C. Gandhi Sagar 
+D. Bhakra Dam 
 
 <details>
 <summary>Show answer</summary>
@@ -2012,10 +2012,10 @@ D. Bhakra Dam
 
 The benefits of which one of the following river valley projects are shared by more than one state ?
 
-A. Chambal Valley Project  
-B. Mayurakshi Project  
-C. Sharavati Project  
-D. Hirakud Project  
+A. Chambal Valley Project 
+B. Mayurakshi Project 
+C. Sharavati Project 
+D. Hirakud Project 
 
 <details>
 <summary>Show answer</summary>
@@ -2028,10 +2028,10 @@ D. Hirakud Project
 
 Gandhi Sagar Dam is a part of which one of the following?
 
-A. Chambal Project  
-B. Kosi Project  
-C. Damodar Valley Project  
-D. Bhakra Nangal Project  
+A. Chambal Project 
+B. Kosi Project 
+C. Damodar Valley Project 
+D. Bhakra Nangal Project 
 
 <details>
 <summary>Show answer</summary>
@@ -2044,17 +2044,17 @@ D. Bhakra Nangal Project
 
 Which of the following are not associated with the Chambal Valley Project ?
 
-1. Gandhi Sagar  
-2. Jawahar Sagar  
-3. Gobind Sagar  
-4. Govind Ballabh Pant Sagar  
+1. Gandhi Sagar 
+2. Jawahar Sagar 
+3. Gobind Sagar 
+4. Govind Ballabh Pant Sagar 
 
 Select the correct answer from the code given below :
 
-A. 1 and 2  
-B. 2 and 3  
-C. 3 and 4  
-D. 1 and 4  
+A. 1 and 2 
+B. 2 and 3 
+C. 3 and 4 
+D. 1 and 4 
 
 <details>
 <summary>Show answer</summary>
@@ -2067,10 +2067,10 @@ D. 1 and 4
 
 Which of the following water reservoirs is built on Chambal River?
 
-A. Nagarjuna Sagar  
-B. Rana Pratap Sagar  
-C. Vindhya Sagar  
-D. Rihand  
+A. Nagarjuna Sagar 
+B. Rana Pratap Sagar 
+C. Vindhya Sagar 
+D. Rihand 
 
 <details>
 <summary>Show answer</summary>
@@ -2083,15 +2083,15 @@ D. Rihand
 
 Tehri dam is being constructed in Uttarakhand-
 
-A. On Bhagirathi river  
-B. On Ramganga river  
-C. On Alaknanda river  
-D. On Bhilangana rivers  
+A. On Bhagirathi river 
+B. On Ramganga river 
+C. On Alaknanda river 
+D. On Bhilangana rivers 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Tehri is on the **Bhagirathi** (Bhilangana joins at old Tehri before the dam). Tallest Indian dam lore (~**260.5 m**).
+**Ans: A.** Tehri is on the **Bhagirathi** (Bhilangana joins at old Tehri before the dam). Tallest Indian dam note (~**260.5 m**).
 
 </details>
 
@@ -2099,10 +2099,10 @@ D. On Bhilangana rivers
 
 On which of the following rivers, the Tehri Hydro Power Project has been constructed?
 
-A. Bhagirathi and Alaknanda  
-B. Yamuna and Bhagirathi  
-C. Kali and Tons  
-D. Bhagirathi and Bhilangana  
+A. Bhagirathi and Alaknanda 
+B. Yamuna and Bhagirathi 
+C. Kali and Tons 
+D. Bhagirathi and Bhilangana 
 
 <details>
 <summary>Show answer</summary>
@@ -2115,10 +2115,10 @@ D. Bhagirathi and Bhilangana
 
 On which one of the following rivers is the Tehri Hydropower Complex located?
 
-A. Alaknanda  
-B. Bhagirathi  
-C. Dhauliganga  
-D. Mandakini  
+A. Alaknanda 
+B. Bhagirathi 
+C. Dhauliganga 
+D. Mandakini 
 
 <details>
 <summary>Show answer</summary>
@@ -2131,10 +2131,10 @@ D. Mandakini
 
 Tehri dam is constructed on –
 
-A. Tehri river  
-B. Yamuna river  
-C. Alaknanda river  
-D. Ganga river  
+A. Tehri river 
+B. Yamuna river 
+C. Alaknanda river 
+D. Ganga river 
 
 <details>
 <summary>Show answer</summary>
@@ -2147,10 +2147,10 @@ D. Ganga river
 
 Tilaiya Dam is constructed on river
 
-A. Damodar  
-B. Barakar  
-C. Konar  
-D. Usri  
+A. Damodar 
+B. Barakar 
+C. Konar 
+D. Usri 
 
 <details>
 <summary>Show answer</summary>
@@ -2163,10 +2163,10 @@ D. Usri
 
 Maithon, Belpahari and Tilaya dams are constructed on the river-
 
-A. Damodar  
-B. Barakar  
-C. Konar  
-D. Bokaro  
+A. Damodar 
+B. Barakar 
+C. Konar 
+D. Bokaro 
 
 <details>
 <summary>Show answer</summary>
@@ -2177,13 +2177,13 @@ D. Bokaro
 
 **Q-GC33. UPPCS Prelims 2010**
 
-**Assertion (A):** River Damodar was Known as "River of Sorrow" in West Bengal prior to the development of the Damodar Valley Corporation.  
+**Assertion (A):** River Damodar was Known as "River of Sorrow" in West Bengal prior to the development of the Damodar Valley Corporation. 
 **Reason (R):** Damodar in its upper reaches flows rapidly and in its lower reaches it runs too sluggishly.
 
-A. Both (A) and (R) are true, and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
-D. (A) is false, but (R) is true  
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A) 
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) 
+C. (A) is true, but (R) is false 
+D. (A) is false, but (R) is true 
 
 <details>
 <summary>Show answer</summary>
@@ -2196,10 +2196,10 @@ D. (A) is false, but (R) is true
 
 When was the Damodar Valley Corporation established?
 
-A. 1945  
-B. 1946  
-C. 1947  
-D. 1948  
+A. 1945 
+B. 1946 
+C. 1947 
+D. 1948 
 
 <details>
 <summary>Show answer</summary>
@@ -2212,10 +2212,10 @@ D. 1948
 
 Which one of the following is the first multipurpose river valley project of independent India?
 
-A. Bhakra - Nangal Project  
-B. Damodar Valley Project  
-C. Hirakud Multipurpose Project  
-D. None of the above  
+A. Bhakra - Nangal Project 
+B. Damodar Valley Project 
+C. Hirakud Multipurpose Project 
+D. None of the above 
 
 <details>
 <summary>Show answer</summary>
@@ -2228,15 +2228,15 @@ D. None of the above
 
 Which of the following Hydro projects has been built by India in co-operation with Bhutan?
 
-A. Dulhasti Dam  
-B. Loktak Dam  
-C. Chukha Dam  
-D. Beyas-Siyul Dam  
+A. Dulhasti Dam 
+B. Loktak Dam 
+C. Chukha Dam 
+D. Beyas-Siyul Dam 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Chukha** on Wang Chu / Raidak (Bhutan); India-funded (**60% grant / 40% loan** lore); ~**336 MW**; handed to Bhutan **1991**.
+**Ans: C.** **Chukha** on Wang Chu / Raidak (Bhutan); India-funded (**60% grant / 40% loan** note); ~**336 MW**; handed to Bhutan **1991**.
 
 </details>
 
@@ -2253,10 +2253,10 @@ Match List-I and List-II and select the correct answer from the code given below
 
 *Row order is not the answer code.*
 
-A. 1 2 3 4  
-B. 4 3 2 1  
-C. 3 4 1 2  
-D. 4 1 3 2  
+A. 1 2 3 4 
+B. 4 3 2 1 
+C. 3 4 1 2 
+D. 4 1 3 2 
 
 <details>
 <summary>Show answer</summary>
@@ -2269,10 +2269,10 @@ D. 4 1 3 2
 
 Which of the following projects is the joint venture of Tamil Nadu, Andhra Pradesh and Karnataka :
 
-A. Dakshin Gangotri  
-B. Nagarjuna Sagar  
-C. Silent Valley  
-D. Telugu Ganga  
+A. Dakshin Gangotri 
+B. Nagarjuna Sagar 
+C. Silent Valley 
+D. Telugu Ganga 
 
 <details>
 <summary>Show answer</summary>
@@ -2285,10 +2285,10 @@ D. Telugu Ganga
 
 Which city will get water from the Telugu Ganga Project
 
-A. Madurai  
-B. Madras  
-C. Banglore  
-D. Tiruchirappalli  
+A. Madurai 
+B. Madras 
+C. Banglore 
+D. Tiruchirappalli 
 
 <details>
 <summary>Show answer</summary>
@@ -2301,10 +2301,10 @@ D. Tiruchirappalli
 
 Who called the multipurpose river valley projects “the temples of modern India”?
 
-A. Dr. Rajendra Prasad  
-B. Jawaharlal Nehru  
-C. Indira Gandhi  
-D. Mahatma Gandhi  
+A. Dr. Rajendra Prasad 
+B. Jawaharlal Nehru 
+C. Indira Gandhi 
+D. Mahatma Gandhi 
 
 <details>
 <summary>Show answer</summary>
@@ -2326,10 +2326,10 @@ Match List–I with List–II and select the correct answer using the code given
 
 *Row order is not the answer code.*
 
-A. 1 4 2 3  
-B. 2 1 4 3  
-C. 2 1 3 4  
-D. 1 3 4 2  
+A. 1 4 2 3 
+B. 2 1 4 3 
+C. 2 1 3 4 
+D. 1 3 4 2 
 
 <details>
 <summary>Show answer</summary>
@@ -2342,10 +2342,10 @@ D. 1 3 4 2
 
 The Almatti dam is on the river :
 
-A. Godavari  
-B. Cauvery  
-C. Krishna  
-D. Mahanadi  
+A. Godavari 
+B. Cauvery 
+C. Krishna 
+D. Mahanadi 
 
 <details>
 <summary>Show answer</summary>
@@ -2367,10 +2367,10 @@ Match list I with list II and select the correct answer from the codes given bel
 
 *Row order is not the answer code.*
 
-A. 4 2 3 1  
-B. 2 1 3 4  
-C. 4 1 3 2  
-D. 1 3 4 2  
+A. 4 2 3 1 
+B. 2 1 3 4 
+C. 4 1 3 2 
+D. 1 3 4 2 
 
 <details>
 <summary>Show answer</summary>
@@ -2383,15 +2383,15 @@ D. 1 3 4 2
 
 Consider the following statements and select the correct answer from the codes given below.
 
-1. Rihand Dam is on a tributary of the Sone river.  
-2. Hirakund Dam is on Mahanadi river.  
-3. Tungabhadra project is a joint venture of Andhra Pradesh and Karnataka.  
+1. Rihand Dam is on a tributary of the Sone river. 
+2. Hirakund Dam is on Mahanadi river. 
+3. Tungabhadra project is a joint venture of Andhra Pradesh and Karnataka. 
 4. Maithan Dam is on Barakar river, a tributary of Damodar river.
 
-A. 1, 2 and 3 are correct  
-B. 1, 2 and 4 are correct  
-C. 1, 3 and 4 are correct  
-D. 1, 2, 3 and 4 are correct  
+A. 1, 2 and 3 are correct 
+B. 1, 2 and 4 are correct 
+C. 1, 3 and 4 are correct 
+D. 1, 2, 3 and 4 are correct 
 
 <details>
 <summary>Show answer</summary>
@@ -2404,10 +2404,10 @@ D. 1, 2, 3 and 4 are correct
 
 Kalpong Hydroelectric Power project is located in-
 
-A. Andaman and Nicobar Islands  
-B. Arunachal Pradesh  
-C. Meghalaya  
-D. Sikkim  
+A. Andaman and Nicobar Islands 
+B. Arunachal Pradesh 
+C. Meghalaya 
+D. Sikkim 
 
 <details>
 <summary>Show answer</summary>
@@ -2420,10 +2420,10 @@ D. Sikkim
 
 The oldest hydropower power plant in India is-
 
-A. Khopoli  
-B. Paikara  
-C. Mettur  
-D. Sidrapong  
+A. Khopoli 
+B. Paikara 
+C. Mettur 
+D. Sidrapong 
 
 <details>
 <summary>Show answer</summary>
@@ -2454,15 +2454,15 @@ Which one of the following pairs is not correctly matched?
 
 Kalagarh Dam is built on which river?
 
-A. Yamuna  
-B. Sharda  
-C. Ganga  
-D. Ramganga  
+A. Yamuna 
+B. Sharda 
+C. Ganga 
+D. Ramganga 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Kalagarh / Ramganga Dam** on the **Ramganga** (length ~**715 m**, height ~**128 m** lore).
+**Ans: D.** **Kalagarh / Ramganga Dam** on the **Ramganga** (length ~**715 m**, height ~**128 m** note).
 
 </details>
 
@@ -2470,10 +2470,10 @@ D. Ramganga
 
 Tawa project is related to which of the following places?
 
-A. Balaghat  
-B. Bastar  
-C. Hoshangabad  
-D. Mandla  
+A. Balaghat 
+B. Bastar 
+C. Hoshangabad 
+D. Mandla 
 
 <details>
 <summary>Show answer</summary>
@@ -2486,10 +2486,10 @@ D. Mandla
 
 ‘Pong Dam’ is constructed over which of the following rivers?
 
-A. Sutlej  
-B. Ravi  
-C. Chenab  
-D. Beas  
+A. Sutlej 
+B. Ravi 
+C. Chenab 
+D. Beas 
 
 <details>
 <summary>Show answer</summary>
@@ -2502,10 +2502,10 @@ D. Beas
 
 Tulbul project is associated with the river -
 
-A. Beas  
-B. Ravi  
-C. Jhelum  
-D. Satluj  
+A. Beas 
+B. Ravi 
+C. Jhelum 
+D. Satluj 
 
 <details>
 <summary>Show answer</summary>
@@ -2518,10 +2518,10 @@ D. Satluj
 
 Baglihar hydropower project, the issue of which was raised by Pakistan before the World Bank, is being constructed by India on –
 
-A. Jhelum  
-B. Indus  
-C. Chenab  
-D. Sutlej  
+A. Jhelum 
+B. Indus 
+C. Chenab 
+D. Sutlej 
 
 <details>
 <summary>Show answer</summary>
@@ -2540,10 +2540,10 @@ Which of the following pairs are correctly matched?
 | 2. Girna | Maharashtra |
 | 3. Pamba | Kerala |
 
-A. 1 and 2  
-B. 2 and 3  
-C. 1 and 3  
-D. 1, 2 and 3  
+A. 1 and 2 
+B. 2 and 3 
+C. 1 and 3 
+D. 1, 2 and 3 
 
 <details>
 <summary>Show answer</summary>
@@ -2556,10 +2556,10 @@ D. 1, 2 and 3
 
 Where are Tapovan and Vishnugarh Hydroelectric Projects located?
 
-A. Madhya Pradesh  
-B. Uttar Pradesh  
-C. Uttarakhand  
-D. Rajasthan  
+A. Madhya Pradesh 
+B. Uttar Pradesh 
+C. Uttarakhand 
+D. Rajasthan 
 
 <details>
 <summary>Show answer</summary>
@@ -2572,10 +2572,10 @@ D. Rajasthan
 
 Mahakali Treaty is signed between India and which of the following countries?
 
-A. Pakistan  
-B. Nepal  
-C. Bangladesh  
-D. Sri Lanka  
+A. Pakistan 
+B. Nepal 
+C. Bangladesh 
+D. Sri Lanka 
 
 <details>
 <summary>Show answer</summary>
@@ -2588,10 +2588,10 @@ D. Sri Lanka
 
 Which one of the following is NOT correctly matched ?
 
-A. Kalpakkam – Tamil Nadu  
-B. Rana Pratap Sagar – M.P.  
-C. Narora – U.P.  
-D. Tarapore – Maharashtra  
+A. Kalpakkam – Tamil Nadu 
+B. Rana Pratap Sagar – M.P. 
+C. Narora – U.P. 
+D. Tarapore – Maharashtra 
 
 <details>
 <summary>Show answer</summary>
@@ -2604,10 +2604,10 @@ D. Tarapore – Maharashtra
 
 The Kalpasar Project, a fresh water reservoir is located in-
 
-A. Gujarat  
-B. Haryana  
-C. Maharashtra  
-D. Rajasthan  
+A. Gujarat 
+B. Haryana 
+C. Maharashtra 
+D. Rajasthan 
 
 <details>
 <summary>Show answer</summary>
@@ -2620,10 +2620,10 @@ D. Rajasthan
 
 Which one of the following is incorrectly matched?
 
-A. Mahi Bajaj Sagar Project- Gujarat and Rajasthan  
-B. Chambal Project-Rajasthan, Punjab and Haryana  
-C. Beas Project – Rajasthan, Punjab and Haryana  
-D. Indira Gandhi Canal Project-Rajasthan and Punjab  
+A. Mahi Bajaj Sagar Project- Gujarat and Rajasthan 
+B. Chambal Project-Rajasthan, Punjab and Haryana 
+C. Beas Project – Rajasthan, Punjab and Haryana 
+D. Indira Gandhi Canal Project-Rajasthan and Punjab 
 
 <details>
 <summary>Show answer</summary>
@@ -2636,10 +2636,10 @@ D. Indira Gandhi Canal Project-Rajasthan and Punjab
 
 In which one of the following states is Suil river project located?
 
-A. Uttarakhand  
-B. Haryana  
-C. Punjab  
-D. Himachal Pradesh  
+A. Uttarakhand 
+B. Haryana 
+C. Punjab 
+D. Himachal Pradesh 
 
 <details>
 <summary>Show answer</summary>
@@ -2670,10 +2670,10 @@ Which one of the following is not correctly matched ?
 
 Which one of the following is not correctly matched?
 
-A. Nangal Dam - Satluj River  
-B. Sardar Sarovar Project - Narmada River  
-C. Nagarjuna Sagar - Godavari River  
-D. Hirakud Dam - Mahanadi  
+A. Nangal Dam - Satluj River 
+B. Sardar Sarovar Project - Narmada River 
+C. Nagarjuna Sagar - Godavari River 
+D. Hirakud Dam - Mahanadi 
 
 <details>
 <summary>Show answer</summary>
@@ -2686,10 +2686,10 @@ D. Hirakud Dam - Mahanadi
 
 Teesta Low Dam Project (TLDP)-III is proposed along the Teesta river. The site of the project lies in :
 
-A. Assam  
-B. West Bengal  
-C. Nagaland  
-D. Meghalaya  
+A. Assam 
+B. West Bengal 
+C. Nagaland 
+D. Meghalaya 
 
 <details>
 <summary>Show answer</summary>
@@ -2702,10 +2702,10 @@ D. Meghalaya
 
 On which river is Dulhasti Power station situated ?
 
-A. Vyas  
-B. Chenab  
-C. Ravi  
-D. Sutlej  
+A. Vyas 
+B. Chenab 
+C. Ravi 
+D. Sutlej 
 
 <details>
 <summary>Show answer</summary>
@@ -2718,10 +2718,10 @@ D. Sutlej
 
 Which of the following pairs is not correctly matched?
 
-A. Dulhasti - Chenab  
-B. Indira Gandhi canal - Sutlej  
-C. Nagarjuna Sagar - Kaveri(Cauvery)  
-D. Ukkai - Tapti  
+A. Dulhasti - Chenab 
+B. Indira Gandhi canal - Sutlej 
+C. Nagarjuna Sagar - Kaveri(Cauvery) 
+D. Ukkai - Tapti 
 
 <details>
 <summary>Show answer</summary>
@@ -2734,10 +2734,10 @@ D. Ukkai - Tapti
 
 Which of the following pairs is not correctly matched?
 
-A. Sardar Sarovar Dam - Narmada river  
-B. Tilaiya Dam - Konar river  
-C. Gandhi Sagar Dam - Chambal river  
-D. Nagarjuna Sagar Dam - Krishna river  
+A. Sardar Sarovar Dam - Narmada river 
+B. Tilaiya Dam - Konar river 
+C. Gandhi Sagar Dam - Chambal river 
+D. Nagarjuna Sagar Dam - Krishna river 
 
 <details>
 <summary>Show answer</summary>
@@ -2750,15 +2750,15 @@ D. Nagarjuna Sagar Dam - Krishna river
 
 Govind Ballabh Pant Sagar Reservoir is situated in
 
-A. Uttar Pradesh  
-B. Chhattisgarh  
-C. Jharkhand  
-D. Uttarakhand  
+A. Uttar Pradesh 
+B. Chhattisgarh 
+C. Jharkhand 
+D. Uttarakhand 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Rihand / Pant Sagar** at Pipri, **Sonbhadra**, Uttar Pradesh (largest UP multipurpose lore; Obra power below dam).
+**Ans: A.** **Rihand / Pant Sagar** at Pipri, **Sonbhadra**, Uttar Pradesh (largest UP multipurpose note; Obra power below dam).
 
 </details>
 
@@ -2766,10 +2766,10 @@ D. Uttarakhand
 
 In Uttar Pradesh ‘Rani Laxmibai Dam Project’ has been constructed on the river –
 
-A. Ghagra  
-B. Betwa  
-C. Son  
-D. Chambal  
+A. Ghagra 
+B. Betwa 
+C. Son 
+D. Chambal 
 
 <details>
 <summary>Show answer</summary>
@@ -2782,15 +2782,15 @@ D. Chambal
 
 Which of the following state/states will be benefitted by the proposed "Kishau Dam" Project?
 
-A. Haryana  
-B. Uttarakhand & Himachal Pradesh  
-C. Jammu-Kashmir  
-D. Assam  
+A. Haryana 
+B. Uttarakhand & Himachal Pradesh 
+C. Jammu-Kashmir 
+D. Assam 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (primary).** **Kishau** on the **Tons** (Yamuna tributary) along HP–UK border. Primary beneficiaries **Uttarakhand & Himachal**; Haryana, Delhi, Rajasthan, UP also benefit in wider lore — when only one option fits, pick **B**.
+**Ans: B (primary).** **Kishau** on the **Tons** (Yamuna tributary) along HP–UK border. Primary beneficiaries **Uttarakhand & Himachal**; Haryana, Delhi, Rajasthan, UP also benefit in wider note — when only one option fits, pick **B**.
 
 </details>
 
@@ -2798,10 +2798,10 @@ D. Assam
 
 The most controversial ‘Babli Project’ is situated in which of the following States ?
 
-A. Andhra Pradesh  
-B. Gujarat  
-C. Madhya Pradesh  
-D. Maharashtra  
+A. Andhra Pradesh 
+B. Gujarat 
+C. Madhya Pradesh 
+D. Maharashtra 
 
 <details>
 <summary>Show answer</summary>
@@ -2823,10 +2823,10 @@ Match List-I with List-II and select the correct answer using the codes given be
 
 *Row order is not the answer code.*
 
-A. 1 2 3 4  
-B. 3 2 1 4  
-C. 2 3 1 4  
-D. 2 1 3 4  
+A. 1 2 3 4 
+B. 3 2 1 4 
+C. 2 3 1 4 
+D. 2 1 3 4 
 
 <details>
 <summary>Show answer</summary>
@@ -2839,15 +2839,15 @@ D. 2 1 3 4
 
 Kol Dam Project has been constructed on which of the following rivers in India?
 
-A. Krishna  
-B. Sutlej  
-C. Godavari  
-D. Narmada  
+A. Krishna 
+B. Sutlej 
+C. Godavari 
+D. Narmada 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Kol Dam** on the **Sutlej** (NTPC; silt-check lore for Bhakra).
+**Ans: B.** **Kol Dam** on the **Sutlej** (NTPC; silt-check note for Bhakra).
 
 </details>
 
@@ -2855,10 +2855,10 @@ D. Narmada
 
 What is common to the places known as Aliyar, Isapur and Kangsabati?
 
-A. Recently discovered uranium deposits  
-B. Tropical rain forests  
-C. Underground cave systems  
-D. Water reservoirs  
+A. Recently discovered uranium deposits 
+B. Tropical rain forests 
+C. Underground cave systems 
+D. Water reservoirs 
 
 <details>
 <summary>Show answer</summary>
@@ -2880,10 +2880,10 @@ Consider the following pairs :
 
 How many pairs given above are not correctly matched?
 
-A. Only one pair  
-B. Only two pairs  
-C. Only three pairs  
-D. All four pairs  
+A. Only one pair 
+B. Only two pairs 
+C. Only three pairs 
+D. All four pairs 
 
 <details>
 <summary>Show answer</summary>
@@ -2896,10 +2896,10 @@ D. All four pairs
 
 Which hydropower plant in Bhutan was inaugurated recently by Indian Prime Minister Narendra Modi?
 
-A. Chhukha Power Plant  
-B. Dagachhu Power Plant  
-C. Kurichha Power Plant  
-D. Mangdechhu Power Plant  
+A. Chhukha Power Plant 
+B. Dagachhu Power Plant 
+C. Kurichha Power Plant 
+D. Mangdechhu Power Plant 
 
 <details>
 <summary>Show answer</summary>
@@ -2912,11 +2912,11 @@ D. Mangdechhu Power Plant
 
 Which dam is not for irrigation?
 
-A. Bhavani Sagar  
-B. Shivsamudram  
-C. Krishnaraj Sagar  
-D. Bhakra Nangal  
-E. None of these  
+A. Bhavani Sagar 
+B. Shivsamudram 
+C. Krishnaraj Sagar 
+D. Bhakra Nangal 
+E. None of these 
 
 <details>
 <summary>Show answer</summary>
@@ -2938,10 +2938,10 @@ Match List-I with List-II and choose the correct answer from the code given belo
 
 *Row order is not the answer code.*
 
-A. (i) (ii) (iii) (iv)  
-B. (iii) (ii) (i) (iv)  
-C. (ii) (iii) (i) (iv)  
-D. (iii) (ii) (iv) (i)  
+A. (i) (ii) (iii) (iv) 
+B. (iii) (ii) (i) (iv) 
+C. (ii) (iii) (i) (iv) 
+D. (iii) (ii) (iv) (i) 
 
 <details>
 <summary>Show answer</summary>
@@ -2954,15 +2954,15 @@ D. (iii) (ii) (iv) (i)
 
 Arrange the following States in descending order with respect to number of large dams constructed there :
 
-A. Madhya Pradesh > Gujarat > Rajasthan > Telangana > Andhra Pradesh  
-B. Gujarat > Madhya Pradesh > Rajasthan > Andhra Pradesh > Telangana  
-C. Gujarat > Madhya Pradesh > Rajasthan > Telangana > Andhra Pradesh  
-D. Madhya Pradesh > Gujarat > Telangana > Rajasthan > Andhra Pradesh  
+A. Madhya Pradesh > Gujarat > Rajasthan > Telangana > Andhra Pradesh 
+B. Gujarat > Madhya Pradesh > Rajasthan > Andhra Pradesh > Telangana 
+C. Gujarat > Madhya Pradesh > Rajasthan > Telangana > Andhra Pradesh 
+D. Madhya Pradesh > Gujarat > Telangana > Rajasthan > Andhra Pradesh 
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Order: **MP > Gujarat > Rajasthan > Telangana > Andhra Pradesh**. Absolute “biggest dams” lore also tags Maharashtra–MP–Gujarat.
+**Ans: A.** Order: **MP > Gujarat > Rajasthan > Telangana > Andhra Pradesh**. Absolute “biggest dams” note also tags Maharashtra–MP–Gujarat.
 
 </details>
 
@@ -3343,7 +3343,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both standard canal facts.
+**Ans: C** — Both standard canal associations.
 </details>
 
 **Q21.** Which of the following is a freshwater lake?
@@ -4077,7 +4077,7 @@ D. Chitrakote — Narmada
 
 **Logic:** Separate width / volume / height crowns; river–fall pairs.
 
-**Ans: B** — Shivanasamudra on the **Cauvery** is the volume king. Jog is width / fame on Sharavati. Kunchikal is on Varahi. Chitrakote is on Indravati.
+**Ans: B** — Shivanasamudra on the **Cauvery** is the volume king. Jog is width / renown on Sharavati. Kunchikal is on Varahi. Chitrakote is on Indravati.
 </details>
 
 **Q62.** Which one of the following is called the ‘Mystery Lake’?
@@ -4178,7 +4178,7 @@ D. saline lakes
 2. **Chilika in Rajasthan / freshwater** — FALSE. **Odisha coastal lagoon**.
 3. **Kolleru = largest east-coast lagoon** — FALSE. **Chilika**; Kolleru is freshwater.
 4. **Keibul Lamjao on Wular / Dal** — FALSE. **Loktak, Manipur**.
-5. **Jog = highest waterfall** — FALSE. **Kunchikal** (Varahi, KA) for UPPCS. Jog = fame / **width**; Shivanasamudra = **volume**.
+5. **Jog = highest waterfall** — FALSE. **Kunchikal** (Varahi, KA) for UPPCS. Jog = renown / **width**; Shivanasamudra = **volume**.
 5a. **Lodh / Budha Ghagh on Kanchi or Barakar** — FALSE. On the **Burha** (Latehar).
 5b. **Roopkund in Himachal** — FALSE. **Uttarakhand** Mystery / Skeleton Lake.
 5c. **Periyar Lake is a lagoon / kayal** — FALSE. It is **artificial**. Kayals are Kerala coastal lagoons.

@@ -1,6 +1,6 @@
 # Topic 3 — Drainage System
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -45,9 +45,9 @@ Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
 6. Drainage types: **consequent** follows original slope; **subsequent** follows weak belts later; **antecedent** (Indus, Sutlej, Brahmaputra) cuts rising Himalaya; **superimposed** (Chambal) inherits an older course.
 7. **Trans-Himalayan** rivers rise north of the Great Himalaya in Tibet and cut through — fact **Sutlej**, and also Indus and Brahmaputra (Tsangpo). Among Jhelum / Sutlej / Ganga / Ravi, the trans-Himalayan pick is **Sutlej**.
 8. The Indus rises in a Tibet gorge and reaches the Arabian Sea in Pakistan. The five Punjab rivers east to west are **Jhelum–Chenab–Ravi–Beas–Sutlej**. Under the Indus Treaty, India gets Ravi, Beas, and Sutlej; Pakistan gets Indus, Jhelum, and Chenab.
-9. Dam–river facts: **Baglihar = Chenab**, **Pandoh = Beas** (not Ravi), **Srisailam = Krishna** (not Tungabhadra).
+9. Dam–river pairs: **Baglihar = Chenab**, **Pandoh = Beas** (not Ravi), **Srisailam = Krishna** (not Tungabhadra).
 10. The Ganga is named only at **Devprayag** where Alaknanda meets Bhagirathi. It is about **2525 km** long. In Bangladesh it becomes the **Padma**, meets the Brahmaputra as **Jamuna**, then joins the Meghna system to the Bay of Bengal.
-11. Join facts on the Ganga: Yamuna at **Prayagraj**, Ramganga at **Kannauj**, Ghaghara at **Chhapra**, Gandak at **Sonpur**, Son at **Patna**, Kosi at **Kursela**. Left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak, Kosi, and Mahananda; **Gomti** is a plains-origin left-bank river. Right-bank facts are Yamuna, Son, and Damodar.
+11. Ganga joins: Yamuna at **Prayagraj**, Ramganga at **Kannauj**, Ghaghara at **Chhapra**, Gandak at **Sonpur**, Son at **Patna**, Kosi at **Kursela**. Left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak, Kosi, and Mahananda; **Gomti** is a plains-origin left-bank river. Right-bank facts are Yamuna, Son, and Damodar.
 12. Yamuna right-bank tributes west to east are **Chambal–Sind–Betwa–Ken**. Chambal joins at Etawah; Betwa at **Hamirpur**; Ken at **Banda**. Betwa does **not** meet at Prayagraj.
 13. **Jonk** joins the **Mahanadi**, not the Ganga. **Gandak** is not an Uttar Pradesh river in the usual state list. **Punpun** meets near Fatuha. Chambal ravines start near **Mhow**.
 14. Panch Prayag upstream to downstream: **Vishnu** (Dhauli) → **Nanda** (Nandakini) → **Karn** (Pindar) → **Rudra** (Mandakini) → **Dev** (Bhagirathi) = Ganga. Badrinath is on the **Alaknanda**; Kedarnath is on the **Mandakini**.
@@ -55,14 +55,14 @@ Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
 16. The Brahmaputra rises as Angsi / Tsangpo, makes a **U-turn at the eastern syntaxial bend near Namcha Barwa**, and enters India as Siang / Dihang. **Majuli** is the classic island. Right-bank north tributes include Subansiri, Manas, Sankosh, and Teesta; left-bank south tributes include Burhi Dihing and Dhansiri.
 17. **Teesta** was captured from the Ganga system into the Brahmaputra. Barak becomes Meghna and reaches the Bay of Bengal — it is **not** inland drainage.
 18. Peninsular length fact: **Godavari (~1465 km) > Krishna (~1400) > Narmada (~1312) > Mahanadi (~851) > Tapi (~724)**. Godavari is also called Dakshin / Vriddha Ganga and rises near **Trimbak**.
-19. Origin facts: Yamuna–Yamunotri, Krishna–Mahabaleshwar, Godavari–Nashik, Mahanadi–Sihawa, Narmada–Amarkantak, Tapi–**Multai (Satpura)** not Western Ghats, Kaveri–Brahmagiri.
+19. Origins: Yamuna–Yamunotri, Krishna–Mahabaleshwar, Godavari–Nashik, Mahanadi–Sihawa, Narmada–Amarkantak, Tapi–**Multai (Satpura)** not Western Ghats, Kaveri–Brahmagiri.
 20. **Pranhita** joins **Godavari**. **Hemavati** joins Kaveri. **Malaprabha** joins Krishna. Hyderabad stands on the **Musi**, not the Krishna stem. Ludhiana is on the **Sutlej**, not the Ravi.
 21. West-flowing set: Narmada, Tapi, Mahi, Sabarmati, **Periyar**. East-flowing examples include Pennar and Palar. Narmada and Tapi form **estuaries** in rift valleys; most east-flowing peninsular rivers build **deltas**.
 22. **Luni** is inland: upper course fresh, lower course **saline**. The classic fault-valley tag is **Damodar**; Narmada and Tapi are also rift valleys.
-23. Delta facts: **Arcuate** = Sundarbans; **Bird’s-foot** = Mississippi (not Ganga); **moribund subdivision** = Bengal Delta. **Trellis** marks folded structure; **radial** marks Amarkantak; **dendritic** is the common homogeneous pattern.
+23. Delta types: **Arcuate** = Sundarbans; **Bird’s-foot** = Mississippi (not Ganga); **moribund subdivision** = Bengal Delta. **Trellis** marks folded structure; **radial** marks Amarkantak; **dendritic** is the common homogeneous pattern.
 24. National Waterways: **NW-1** Ganga–Hooghly, **NW-2** Brahmaputra, **NW-3** Kerala, **NW-4** Krishna–Godavari, **NW-5** Brahmani–Mahanadi.
 25. **Ken–Betwa** is the only National Perspective Plan link under implementation, linking Madhya Pradesh and Uttar Pradesh in Bundelkhand.
-26. Uttar Pradesh facts: Sangam at **Prayagraj**; **Gomti** is Lucknow’s river and the pollution tag; **Ghaghara** is Ayodhya’s river; the Ganga–Yamuna **Doab** is the core plain.
+26. Uttar Pradesh points: Sangam at **Prayagraj**; **Gomti** is Lucknow’s river and the pollution tag; **Ghaghara** is Ayodhya’s river; the Ganga–Yamuna **Doab** is the core plain.
 27. Chambal sanctuary spans **Uttar Pradesh, Madhya Pradesh, and Rajasthan** — not Haryana.
 28. Kaveri island sequence includes **Srirangapatna–Shivasamudram–Srirangam**. Bhubaneswar is **not** a Mahanadi-bank city fact in the usual trap set.
 29. East-flowing peninsular rivers north to south often run **Subarnarekha → Mahanadi → Godavari → Krishna → Pennar → Cauvery → Vaigai**.
@@ -557,7 +557,7 @@ D. Kabini *(paper: Kabam in some OCR)*
 | **NW-4** | Krishna–Godavari canals |
 | **NW-5** | Brahmani–Mahanadi–Paradip |
 
-- The National Waterways Act **2016** declared **106** waterways. core remains NW-1 to NW-5. Awareness names: **NW-16 Barak**, **NW-97 Yamuna**, **NW-37 Gandak**.
+- The National Waterways Act **2016** declared **106** waterways. Core remains NW-1 to NW-5. Other named waterways: **NW-16 Barak**, **NW-97 Yamuna**, **NW-37 Gandak**.
 - The most navigable rivers are the **Ganga, Brahmaputra, and Mahanadi**. Godavari, Krishna, Narmada, and Tapi are navigable mainly near their mouths.
 - **Interlinking (NPP):** NWDA / Jal Shakti. The plan lists **16 peninsular + 14 Himalayan** links. The aim is surplus to deficit, plus flood, drought, power, and navigation.
 - **Ken–Betwa** is the **only priority NPP link under implementation** (Cabinet 2021; foundation **25 December 2024**). Both rivers are in the **Yamuna** basin. The project is **Madhya Pradesh–Uttar Pradesh Bundelkhand**. **Daudhan dam** and **Panna Tiger Reserve** submergence are the ecology facts.
@@ -1530,7 +1530,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All standard peninsular drainage facts. **A/B/C** omit one true statement.
+**Ans: D** — All standard peninsular drainage associations. **A/B/C** omit one true statement.
 </details>
 
 **Q25.** Given below are two statements:
@@ -1825,7 +1825,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both standard river linking/NW facts. **B/C** drop one correct statement.
+**Ans: A** — Both standard river linking/NW associations. **B/C** drop one correct statement.
 </details>
 
 **Q40.** Arrange the following **west-flowing rivers** from **north to south**:
@@ -2055,7 +2055,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) are the standard NCERT facts. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed example is **Chambal**.
+**Ans: A** — (1) and (2) are the standard NCERT associations. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed example is **Chambal**.
 </details>
 
 **Q52.** Which of the following pairs is/are **NOT** correctly matched?

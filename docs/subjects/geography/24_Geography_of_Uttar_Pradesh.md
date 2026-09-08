@@ -1,6 +1,6 @@
 # Topic 24 — Geography of Uttar Pradesh
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -49,7 +49,7 @@
 9. Census 2011: lowest female literacy among common facts = **Shrawasti**. Smallest-area trap among listed four = **Hapur**. City order **Kanpur > Lucknow > Ghaziabad > Agra**. UP Day = **24 January**.
 10. Central Smart Cities list has **10**; **Ghaziabad** is out. NER HQ = **Gorakhpur**. Kushinagar international airport opened **24 June 2020**. Amrit Bharat stations fact **149**. HRIDAY cities = Varanasi and Mathura.
 11. District extremes: north **Saharanpur**, south **Sonbhadra**, east **Ballia**, west **Shamli**.
-12. Rain name facts: highest among common options **Gorakhpur**; lowest **Mathura**.
+12. Rain name pairs: highest among common options **Gorakhpur**; lowest **Mathura**.
 13. Irrigation is dominated by **tubewells** (~**75%**; canal ~**15%**). Western UP faces groundwater **dark-zone** pressure. UP leads absolute tubewell area and GW resources for irrigation.
 14. **Saryu Canal** National Project serves eastern UP. Classics: Upper Ganga (**Bhimgoda/Haridwar**, 1854), Lower Ganga (**Narora**, 1878), **Sharda** (Banbasa; longest UP system length), East Yamuna (Tajewala/Hathinikund), Agra, Sarda Sahayak.
 15. **Bangar** is older alluvium with kankar. **Khadar** is newer floodplain. Bhabar is pebble soak zone; Terai is marshy fertile re-emergence.
@@ -152,7 +152,7 @@ Teach the **full UP map** — next year can ask any standard district extreme or
 
 **Belt:** South of Bhabar — Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, Maharajganj
 
-- Marshy, high water table, malaria lore; **N + OM rich** once drained. Rice–wheat–cane. Dudhwa / Katarniaghat / Suhelwa sit here.
+- Marshy, high water table, malaria note; **N + OM rich** once drained. Rice–wheat–cane. Dudhwa / Katarniaghat / Suhelwa sit here.
 
 ### Doab (Ganga–Yamuna)
 
@@ -211,8 +211,8 @@ Teach the **full UP map** — next year can ask any standard district extreme or
 **Type:** Tropical monsoon; more **continental** in the west, more humid in the east
 
 - Rainfall rises **west → east** (roughly 60–80 cm in the west doab to 100–140 cm in the east/Terai). Bay of Bengal arm is the main monsoon feed.
-- Classic name facts: **highest rainfall belt ≈ Gorakhpur**; **lowest ≈ Mathura** (do not swap).
-- Köppen teaching tag for the Gangetic plain = **Cwg** (monsoon, dry winter) — awareness, not an essay.
+- Classic name pairs: **highest rainfall belt ≈ Gorakhpur**; **lowest ≈ Mathura** (do not swap).
+- Köppen teaching tag for the Gangetic plain = **Cwg** (monsoon, dry winter) — note, not an essay.
 - Hottest belt: south-west (Jhansi–Banda–Agra). Loo in May–June on the western plain.
 - Winter **western disturbances** = rabi wheat in the doab. Fog in the central–east plain.
 - After UK’s creation, UP has **no alpine/snow climate**. Terai is wetter and more malarial than the doab.
@@ -314,11 +314,11 @@ D. Sind → Ken → Chambal → Betwa
 - **Upper Ganga Canal** — **Bhimgoda, Haridwar** (right bank); Sir **P.T. Cautley**; first water **8 Apr 1854**; main ~298 km / system ~6496 km; west Doab command; also ~200 cusec to Delhi and ~100 cusec to **Harduaganj** TPP.
 - **Lower Ganga Canal** — from **Narora** (Bulandshahr), completed **1878**; main ~99 km / system ~8278 km.
 - **Eastern Yamuna Canal** — Tajewala / **Hathinikund** (Haryana) offtake; Saharanpur–Muzaffarnagar–Meerut–Ghaziabad Doab; revived from **1830**.
-- **Agra Canal** (Okhla). **Sharda Canal** — Banbasa (right bank of Sharda); protective command from Pilibhit–Bareilly–Kheri through Awadh to Prayagraj–Ghazipur belt; main ~44 km / system ~**9961 km**. **Sarda Sahayak**. **Saryu Canal National Project** — eastern UP (Ayodhya–Purvanchal). Ramganga command. Gandak canals in the east. Ken / Betwa canals and **Arjun Sahayak** awareness in Bundelkhand.
-- Spectacular recent tubewell growth lore = **Saryupar** plain (canal-scarce).
+- **Agra Canal** (Okhla). **Sharda Canal** — Banbasa (right bank of Sharda); protective command from Pilibhit–Bareilly–Kheri through Awadh to Prayagraj–Ghazipur belt; main ~44 km / system ~**9961 km**. **Sarda Sahayak**. **Saryu Canal National Project** — eastern UP (Ayodhya–Purvanchal). Ramganga command. Gandak canals in the east. Ken / Betwa canals and **Arjun Sahayak** note in Bundelkhand.
+- Spectacular recent tubewell growth note = **Saryupar** plain (canal-scarce).
 - **Dams in UP:Matatila** and **Rajghat** on Betwa (Lalitpur / MP border). **Parichha** (Jhansi, Betwa). **Rihand / GB Pant Sagar** (Sonbhadra). Obra barrage. **Meja** (Prayagraj). Maudaha (Hamirpur). **Adwa, Baghelkhand, Ahraura** = UP (2022). **Badua is NOT in UP** (Bihar).
 - **Ken–Betwa link** — only National Perspective Plan link under implementation; **Bundelkhand MP–UP**; Daudhan dam; Panna TR submergence.
-- **Narora** — **nuclear**, Bulandshahr (also the Lower Ganga offtake). **Obra, Anpara, Rihand** — thermal, Sonbhadra. Tanda (Ambedkar Nagar), Panki (Kanpur), Harduaganj (Aligarh) = thermal awareness.
+- **Narora** — **nuclear**, Bulandshahr (also the Lower Ganga offtake). **Obra, Anpara, Rihand** — thermal, Sonbhadra. Tanda (Ambedkar Nagar), Panki (Kanpur), Harduaganj (Aligarh) = thermal note.
 - **HINDALCO Renukoot** — aluminium, Sonbhadra. **Mathura** — refinery. **Mirzapur** — major solar with **France** (2018 paper).
 - Himalaya has huge hydro potential, but **eastern UP and Bihar cannot tap the hills to their north because those Himalaya lie in Nepal** (2025 **both**). Kalagarh / Ramganga dam itself is in UK.
 
@@ -332,8 +332,8 @@ D. Sind → Ken → Chambal → Betwa
 - **Sugarcane** — west and centre; mill towns. Quantity often #1; **productivity usually below Maharashtra**.
 - **Rice** — eastern plain and Terai (kharif). **IRRI-SARC** rice centre = **Varanasi** (do not mix with CIP potato).
 - **Potato** — leading state. Belt: Agra–Firozabad, Farrukhabad–Kannauj, Mainpuri–Etah, Aligarh–Hathras. CIP South Asia Regional Centre = **Singna, Agra**, **not Aligarh**.
-- **Mentha** — Rohilkhand (Barabanki–Badaun–Rampur). **Oilseeds and pulses** — Bundelkhand. **Mango** — Malihabad Dasheri; Langra lore. **Guava** — Prayagraj. **Aonla** — Pratapgarh. **Kannauj** — attar / perfume (flower crop link).
-- Western UP is more developed and **did** see the Green Revolution (**both**, 2022). SAU awareness: Kanpur, Meerut.
+- **Mentha** — Rohilkhand (Barabanki–Badaun–Rampur). **Oilseeds and pulses** — Bundelkhand. **Mango** — Malihabad Dasheri; Langra note. **Guava** — Prayagraj. **Aonla** — Pratapgarh. **Kannauj** — attar / perfume (flower crop link).
+- Western UP is more developed and **did** see the Green Revolution (**both**, 2022). SAU note: Kanpur, Meerut.
 - UP–Jute / UP–Tea / UP–Rubber are **wrong matches**.
 
 ---
@@ -344,13 +344,13 @@ D. Sind → Ken → Chambal → Betwa
 
 - **Sonbhadra** — energy/mineral capital: Singrauli-side **non-coking** coal, limestone, dolomite, thermal, **HINDALCO Renukoot**.
 - **Chunar / Churk / Dalla** — limestone → cement. **Shankargarh (Prayagraj)** silica → **Firozabad** glass.
-- **Sonrai (Lalitpur)** — copper occurrence. Bundelkhand — building stone, phosphorite lore.
+- **Sonrai (Lalitpur)** — copper occurrence. Bundelkhand — building stone, phosphorite note.
 - UP is **not** an iron-ore leader (Odisha/Chhattisgarh are).
 
 **City tags**
 
 - Kanpur — textile, leather. Unnao — leather. **Moradabad — brass**. **Aligarh — facts**. **Firozabad — glass**. Meerut — sports goods. Noida–Ghaziabad — NCR engineering/electronics.
-- Varanasi — silk. **Bhadohi — carpets**. Saharanpur — woodcraft. Khurja — pottery. Agra — leather / tourism. Lucknow — chikankari / administration. Kannauj — perfume. Rampur — knives lore.
+- Varanasi — silk. **Bhadohi — carpets**. Saharanpur — woodcraft. Khurja — pottery. Agra — leather / tourism. Lucknow — chikankari / administration. Kannauj — perfume. Rampur — knives note.
 - ODOP: Amethi — **Moonj**; Sultanpur — Moonj. 2025 Moonj = **Amethi + Sultanpur**, not Sant Kabir Nagar. 2022 **NOT** matched = **Baghpat — Wooden Toys** (toys are Chitrakoot / Varanasi-type).
 
 ---
@@ -2523,7 +2523,7 @@ D. 1, 2, 3 and 4
 
 A. Af equatorial only
 
-B. Cwg (monsoon, dry winter) awareness
+B. Cwg (monsoon, dry winter) note
 
 C. ET tundra
 

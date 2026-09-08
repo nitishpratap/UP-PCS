@@ -1,6 +1,6 @@
 # Topic 17 — World Rivers & Lakes
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -51,14 +51,14 @@ D. Colorado
 1. **New Orleans** stands on the **Mississippi**, not the Missouri. The Missouri joins the Mississippi at **St Louis**.
 2. **Budapest** is on the **Danube**. **Cologne** is on the **Rhine**. India’s **Hyderabad** is on the **Musi**, not the Godavari or Paleru.
 3. The **Mekong** rises in Tibet, flows **south / south-east**, and builds its delta in **southern Vietnam**. It does **not** flow south-west and the delta is **not** in Cambodia.
-4. Direction facts: **Amur** north-east; **Syr Darya** north-west into the Aral; **Angara** north out of Baikal; **Volga** from the Valdai Hills into the **Caspian**.
+4. Direction pairs: **Amur** north-east; **Syr Darya** north-west into the Aral; **Angara** north out of Baikal; **Volga** from the Valdai Hills into the **Caspian**.
 5. The main USA–Mexico border river is the **Rio Grande**. The **Colorado** is the usual trap option.
 6. **Lake Onega** is in **Russia**, not Canada. **Lake Michigan** lies wholly in the **USA**. **Maracaibo** is in Venezuela. **Baikal** is in Russia.
 7. Superlatives: the **Nile** is longest for Prelims; the **Amazon** has the largest discharge; the **Congo** is deepest and crosses the Equator **twice**; the **Yangtze** is Asia’s longest; the **Volga** is Europe’s longest.
 8. Delta shapes: **Mississippi** = bird’s-foot; **Nile**, **Hwang Ho**, and **Niger** = arcuate (bow).
 9. The **Danube** crosses the most countries. The **Rhine** is Europe’s busiest navigation artery.
 10. **Khartoum** is where the White and Blue Nile meet. **Aswan** created **Lake Nasser**. **GERD** sits on the **Blue Nile** in Ethiopia.
-11. Dam facts: **Three Gorges–Yangtze**, **Aswan–Nile**, **Itaipu–Paraná**, **Hoover–Colorado**, **Kariba–Zambezi**.
+11. Dam pairs: **Three Gorges–Yangtze**, **Aswan–Nile**, **Itaipu–Paraná**, **Hoover–Colorado**, **Kariba–Zambezi**.
 12. The **Caspian** is the largest lake. **Superior** is the largest freshwater lake by area. **Baikal** is deepest, holds the most fresh volume, and is among the oldest.
 13. **Tanganyika** is second deepest and the longest freshwater lake. **Titicaca** is the highest navigable lake. The **Dead Sea** is the lowest land surface and is hypersaline (about **34%** salt).
 14. Great Lakes west to east: **Superior → Michigan → Huron → Erie → Ontario** (mnemonic: Super Man Helps Every One).
@@ -68,8 +68,8 @@ D. Colorado
 18. The **Niger** is the paradox river that first flows inland. The Congo is also known as the **Zaire**.
 19. The **Darling Range** is a highland of south-west Australia. It is **not** the same as the **Murray–Darling** river system.
 20. **Endorheic** lakes have no ocean outlet — Caspian, Aral, Dead Sea, Chad, and Eyre.
-21. More city facts: **Baghdad–Tigris**, **Paris–Seine**, **London–Thames**, **Cairo–Nile**.
-22. Lake types include tectonic/rift, glacial, crater, lagoon, and oxbow. Do not dump every famous lake as simply a “fresh lake”.
+21. More city–river pairs: **Baghdad–Tigris**, **Paris–Seine**, **London–Thames**, **Cairo–Nile**.
+22. Lake types include tectonic/rift, glacial, crater, lagoon, and oxbow. Do not treat every famous lake as simply a “fresh lake”.
 23. Continent spine: Nile (Africa), Amazon (South America), Yangtze (Asia), Mississippi–Missouri (North America), Volga (Europe), Murray–Darling (Australia).
 24. Navigation classics include the Rhine, Danube, Volga, St Lawrence, Yangtze, and Mississippi.
 25. **Limpopo** crosses the Tropic of Capricorn **twice**. **Congo/Zaire** crosses the Equator **twice**.
@@ -128,7 +128,7 @@ This is a **map-matching** chapter. Notes ask city–river, river–direction, l
 - Fact **one identity line** per river: continent · mouth · one famous city or dam · one trap.
 - Separate the three Nile / Amazon / Congo records — longest ≠ largest discharge ≠ deepest.
 - Lakes need **type** (rift, glacial, crater, lagoon, endorheic) plus the superlative (area / depth / volume / height / salinity).
-- Indian drainage detail lives in Topic 03 — here teach only world facts that Prelims actually match (Hyderabad–Musi is the India city trap that sneaks in).
+- Indian drainage detail lives in Topic 03 — here teach only world centres that Prelims actually match (Hyderabad–Musi is the India city trap that sneaks in).
 
 **Order of this chapter**
 
@@ -178,7 +178,7 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 
 **Africa**
 
-| River | Source  | Mouth | Cities / dams / falls | |
+| River | Source | Mouth | Cities / dams / falls | |
 |-------|---------------|-------|----------------------|------|
 | **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence) · Cairo · **Aswan High Dam** → **Lake Nasser** | Arcuate delta; traditional **longest**. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt–Sudan dispute) |
 | **Congo / Zaire** | E African highlands | Atlantic | Congo Basin rainforest | **Deepest** major river; only major river that **crosses the Equator twice**; 2nd largest discharge after Amazon |
@@ -297,7 +297,7 @@ D. Niger
 
 ## N.2A River landforms (world desk)
 
-| Form | Cue |
+| Form | Note |
 |------|-----|
 | **Gorge** | Deep narrow valley with steep walls (e.g. **Chisapani** on Karnali, Nepal) |
 | **Canyon** | Broader/deeper eroded gorge — **Grand Canyon** cut by **Colorado** (Arizona) |
@@ -356,7 +356,7 @@ D. Niger
 | Bangkok | Thailand | Chao Phraya (Menam) | |
 | Lahore | Pakistan | Ravi | |
 | Perth | Australia | Swan | |
-| Caracas | Venezuela | Orinoco basin lore | |
+| Caracas | Venezuela | Orinoco basin note | |
 
 **Inline PYQ — UPPCS Prelims 2025, Q68**
 
@@ -464,7 +464,7 @@ Match the dam to the river and the country pair.
 | Grande Dixence | Dixence | Switzerland | |
 | Enguri | Enguri | Georgia | |
 | Xiaowan | Lancang / Mekong | China | |
-| **Zangmu** | Yarlung Tsangpo / Brahmaputra | Tibet (China) | Flow concern lore |
+| **Zangmu** | Yarlung Tsangpo / Brahmaputra | Tibet (China) | Flow concern note |
 | Oroville | Feather | USA | |
 
 ---
@@ -513,7 +513,7 @@ Mnemonic: **Super Man Helps Every One**. Together they hold about **20%** of the
 
 **Lakes desk (GC extras)**
 
-| Lake / cue | Fact |
+| Lake / pair | Fact |
 |------------|------|
 | **Faguibine** | Mali (W Africa) — dried / desertified |
 | **Balkhash** | **Kazakhstan** |
@@ -527,7 +527,7 @@ Mnemonic: **Super Man Helps Every One**. Together they hold about **20%** of the
 | **Great Lakes E→W** | Ontario → Erie → Huron → Michigan → Superior |
 | Cities | Duluth–Superior; Chicago–Michigan; Buffalo–Erie; Detroit–Detroit River |
 | **Victoria** | TZ / UG / KE (**three** countries); rift-associated; White Nile outflow near Jinja |
-| Volume ladder (fresh lore) | Caspian (saline) > Baikal > Tanganyika > Superior > Malawi |
+| Volume ladder (fresh note) | Caspian (saline) > Baikal > Tanganyika > Superior > Malawi |
 | Area ladder (fresh) | Superior > Victoria > … |
 
 
@@ -563,7 +563,7 @@ Highest ≠ widest ≠ most famous. Fact Angel for height and Victoria for the Z
 | **Niagara** | Niagara (Erie → Ontario) | USA–Canada | |
 | **Iguazu / Iguaçu** | Iguazu (Paraná system) | Brazil–Argentina | |
 | Ribbon | Ribbon Creek | California (Yosemite) | |
-| Browne | — | New Zealand | high fall lore |
+| Browne | — | New Zealand | high fall note |
 | Yosemite | Yosemite Creek | USA (California) | |
 
 ---

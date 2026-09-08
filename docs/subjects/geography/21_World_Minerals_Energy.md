@@ -1,6 +1,6 @@
 # Topic 21 — World Minerals & Energy
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -48,7 +48,7 @@ D. South Africa
 
 ## Consolidated — 20 Must-Score Facts
 
-1. Coalfield–country facts: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk** is Ukraine’s classic coal answer among common options.
+1. Coalfield–country pairs: **Appalachian–USA**, **Lancashire–England**, **Ruhr–Germany**, **Kuzbass–Russia**. **Donetsk** is Ukraine’s classic coal answer among common options.
 2. **Mount Newman / Pilbara / Hamersley** = **iron** in Australia. **Krivoy Rog** = Ukraine iron. **Lorraine** = France. **Kiruna** = Sweden. **Mesabi** = USA.
 3. Germany–Normandy iron is **wrong**. **Normandy** is in **France**.
 4. **Chile** leads copper with northern Andes **porphyry** deposits (Chuquicamata, El Teniente). Also fact Katanga (DRC), Copperbelt (Zambia), and Bingham (USA).
@@ -63,7 +63,7 @@ D. South Africa
 13. **Lithium Triangle** = Chile–Argentina–Bolivia. Cobalt volume = **DRC**. REE processing fact = **China**. Uranium volume often facts on **Kazakhstan**.
 14. Iron exporters = Australia (**Pilbara**) and Brazil (**Carajás**). China mines iron and still imports heavily.
 15. Ancient **shields** host many metals. Sedimentary **basins** host coal, oil, and gas.
-16. Karaganda (Kazakhstan) is a classic coal-city fact. Tin also facts on Bangka–Belitung (Indonesia) and the Andes of Bolivia.
+16. Karaganda (Kazakhstan) is a classic coal city. Tin also centres on Bangka–Belitung (Indonesia) and the Andes of Bolivia.
 17. Energy classification: coal/oil/gas = conventional non-renewable; wind/biomass/hydro = renewable solar-linked; nuclear and geothermal stand apart from “stored solar” wording.
 18. Pegu Yoma must not be dumped into the SE-Asia tin belt — it is an **oil** fact.
 19. Chile copper Assertion–Reason pattern: both copper leadership and porphyry geology can be true, and geology can explain leadership.
@@ -84,7 +84,7 @@ D. South Africa
 | Mount Newman | **Iron**, Australia | Mn / Cu / bauxite | माउंट न्यूमैन |
 | Krivoy Rog | **Ukraine** iron | Russia | क्रिवॉय रोग |
 | Normandy iron | **France** | Germany (2020 wrong pair) | नॉर्मंडी |
-| Karaganda | Kazakhstan (coal fame; 2020 iron list accepted) | Kuwait oil | कारागांदा |
+| Karaganda | Kazakhstan (coal renown; 2020 iron list accepted) | Kuwait oil | कारागांदा |
 | Chile copper | **Andes porphyry**, N Chile | “Chile has no copper” | चिली तांबा |
 | Kinta Valley | **Tin** | Rubber / tea / coffee | किंटा |
 | Pegu Yoma | **Mineral oil** | Tin (that is Kinta / Bangka / Tenasserim) | पेगू योमा |
@@ -125,7 +125,7 @@ This chapter is a field–country / mineral–place match set. Geology first, th
 - **Precambrian shields** host many metallic ores; **sedimentary basins** host coal, oil and gas; **Andean porphyry** belts host copper (and lithium brines nearby).
 - Fact **one identity line** per famous field: mineral · country · one trap.
 - Separate **producer volume** from **exporter** (China often mines and still imports iron/coal).
-- India mineral belts live mainly in Topic 08 — here keep only world facts that sneak into Prelims (and a few India tags already in PYQs).
+- India mineral belts live mainly in Topic 08 — here keep only world centres that sneak into Prelims (and a few India tags already in PYQs).
 
 **Order of this chapter**
 
@@ -145,7 +145,7 @@ Teach the **full field map** — next year can ask any Lucent coalfield or ore t
 
 **Types**
 
-| Type | Carbon  | Character | Region |
+| Type | Carbon | Character | Region |
 |------|---------------|-----------|-------------------------|
 | **Peat** | Lowest | First stage; high water | Ireland, Russia, Canada bogs |
 | **Lignite** (brown coal) | Low | Soft; thermal only | Germany (Lusatia), Australia, Neyveli-type |
@@ -162,16 +162,16 @@ Teach the **full field map** — next year can ask any Lucent coalfield or ore t
 
 **World coalfields — country fact**
 
-| Coalfield | Country | Extra fact |
+| Coalfield | Country | Note |
 |-----------|---------|------------|
 | **Appalachian** | **USA** | Eastern USA (not the Rockies as the name) |
 | Pennsylvania anthracite | USA | Highest-rank US coal |
 | Interior / Illinois | USA | Bituminous |
 | **Lancashire** | **England** | Historic English coal–textile belt |
-| Yorkshire / Northumberland / Midlands | England | Same island; do not dump on USA |
-| South Wales | UK | Anthracite fame |
+| Yorkshire / Northumberland / Midlands | England | Same island; do not place on the USA |
+| South Wales | UK | anthracite |
 | **Ruhr** | **Germany** | **Not** Britain / France / Russia |
-| Saar | Germany–France border | Awareness |
+| Saar | Germany–France border | Also revise |
 | Lusatia / Rhineland | Germany | **Lignite** |
 | Silesia (Upper) | **Poland** | |
 | **Kuzbass / Kuznetsk** | **Russia** | Siberia |
@@ -184,7 +184,7 @@ Teach the **full field map** — next year can ask any Lucent coalfield or ore t
 | Hunter Valley (NSW) | Australia | Export |
 | Bowen (Queensland) | Australia | Export |
 | Witbank / Highveld | South Africa | |
-| Damodar — Jharia, Raniganj | India | Jharia = coking fame; Raniganj = West Bengal |
+| Damodar — Jharia, Raniganj | India | Jharia = coking; Raniganj = West Bengal |
 
 The 2025 coal matchs Appalachian to the **USA**, Lancashire to **England**, Ruhr to **Germany**, and Kuzbass to **Russia**. Ukraine’s coal centre among the usual city options is **Donetsk**.
 
@@ -270,7 +270,7 @@ D. France
 
 **Ores**
 
-| Ore | Colour | Fe  | Fact |
+| Ore | Colour | Fe | Fact |
 |-----|--------|-----------|------|
 | **Hematite** | **Red** | ~70% | **Bulk** ore of world trade |
 | **Magnetite** | **Black** | ~72% | **Highest grade**; magnetic |
@@ -301,13 +301,13 @@ D. France
 
 **World iron areas**
 
-| Area | Country | Extra fact |
+| Area | Country | Note |
 |------|---------|------------|
 | **Mount Newman** | **Australia** | 2023. Pilbara / Hamersley |
 | Hamersley Range | Australia | Same belt |
 | Itabira | **Brazil** | Minas Gerais; old “iron quadrangle” |
 | **Carajás** | Brazil | Giant Amazon-side mine |
-| Cerro Bolívar | Venezuela | Awareness |
+| Cerro Bolívar | Venezuela | Also revise |
 | **Mesabi Range** | **USA** | Lake Superior / Minnesota |
 | Labrador Trough | Canada | Quebec–Labrador |
 | **Lorraine** | **France** | Minette ore; **not** Germany |
@@ -422,7 +422,7 @@ D. India
 
 **World copper map**
 
-| Place | Country | Extra fact |
+| Place | Country | Note |
 |-------|---------|------------|
 | **Chuquicamata** | **Chile** | Open-pit giant; Atacama / N Chile |
 | **El Teniente** | Chile | One of the world’s largest underground Cu mines |
@@ -487,7 +487,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 
 **Other tin countries**
 
-| Place | Country | Extra fact |
+| Place | Country | Note |
 |-------|---------|------------|
 | **Kinta Valley** | **Malaysia** | 2020 PYQ. Rubber grows in Malaysia; Kinta still = **tin** |
 | **Bangka / Belitung** | Indonesia | |
@@ -496,7 +496,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 | Andes | Peru | |
 | Jos Plateau | Nigeria | Older textbook name |
 | Cornwall | UK | Historical; worked out |
-| Rondônia | Brazil | Awareness |
+| Rondônia | Brazil | Also revise |
 
 **Pegu Yoma is oil, not tin**
 
@@ -653,7 +653,7 @@ D. Iraq - Zubair
 
 **World gas fields**
 
-| Field / area | Country | Extra fact |
+| Field / area | Country | Note |
 |--------------|---------|------------|
 | **Urengoy** / Yamburg / Medvezhye | Russia | West Siberia |
 | **North Field** | **Qatar** | Same giant reservoir as Iran’s South Pars |
@@ -819,7 +819,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 | Place | Country |
 |-------|---------|
 | Weipa / Gove / Darling Range | **Australia** |
-| — | **Guinea** (reserves fame) |
+| — | **Guinea** (reserves renown) |
 | Jamaica / Suriname | Caribbean–Guiana |
 | Trombetas | Brazil |
 | Les Baux | France (name origin) |
@@ -880,7 +880,7 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 
 **Mica / graphite / sulphur / platinum / cobalt / lithium / tungsten**
 
-| Mineral | World fact |
+| Mineral | World centre |
 |---------|------------|
 | Sheet **mica** | **India** (Jharkhand–Andhra–Rajasthan) classic |
 | Graphite | China; India; Sri Lanka (vein) |
@@ -959,11 +959,11 @@ D. Geothermal energy
 ---
 
 
-**Trap cues (GC minerals):** German silver ≠ silver metal; Mesabi = iron not copper; Saar = coal not iron; Peace Pipeline ≠ Russia–Europe; Brent ≠ zero sulphur.
+**Trap lines (GC minerals):** German silver ≠ silver metal; Mesabi = iron not copper; Saar = coal not iron; Peace Pipeline ≠ Russia–Europe; Brent ≠ zero sulphur.
 
-## N.9 GC extras — silver German · oil lore · uranium city
+## N.9 GC extras — silver German · oil · uranium city
 
-| Cue | Fact |
+| Note | Fact |
 |-----|------|
 | **German silver** | Cu–Ni–Zn alloy — **no silver** (name from appearance) |
 | Silver volume | Often **Mexico** #1 in recent frames |
@@ -978,17 +978,17 @@ D. Geothermal energy
 | SE Asia oil | **Indonesia** |
 | Venezuela | Oil-dominated export economy |
 | Ras Tanura | Refinery — **Saudi Arabia** |
-| Pegu Yoma (Myanmar) | **Mineral oil** cue |
+| Pegu Yoma (Myanmar) | **Mineral oil** pair |
 | **Uranium City** | **Canada** (Athabasca) |
-| U production | Often **Kazakhstan** #1; reserves fame **Australia** (Olympic Dam) |
+| U production | Often **Kazakhstan** #1; reserves **Australia** (Olympic Dam) |
 | Radium | From **pitchblende** (uranium ore) |
 | Rare earths | **China** dominates; export curbs + electronics demand |
-| Lithium Afghanistan lore | Compared with oil discovery in Iran |
-| Chile fame | **Nitrate / iodine** (Atacama caliche) |
+| Lithium Afghanistan find | Compared with oil discovery in Iran |
+| Chile | **Nitrate / iodine** (Atacama caliche) |
 | Diamond volume | Often **Russia** |
-| Cobalt (~¾ batteries lore) | **DRC** |
+| Cobalt (~¾ of batteries) | **DRC** |
 | Non-ferrous | Al, Cu, Zn, Ni, Sn… — **not** pig iron / carbon steel |
-| Camphor | Tree native to **China/Japan** (*Cinnamomum camphora*) lore |
+| Camphor | Tree native to **China/Japan** (*Cinnamomum camphora*) |
 
 ---
 
@@ -1615,7 +1615,7 @@ D. France — Pyrenees
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Normandy** iron is a **France** cue, not Germany.
+**Ans: C.** **Normandy** iron is a **France** pair, not Germany.
 
 </details>
 
@@ -1804,7 +1804,7 @@ D. Iron-ore mining
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Johannesburg / Witwatersrand = **gold** (and diamond lore).
+**Ans: A.** Johannesburg / Witwatersrand = **gold** (and diamonds).
 
 </details>
 
@@ -1997,7 +1997,7 @@ D. Copper
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Pegu Yoma = **mineral oil** cue.
+**Ans: C.** Pegu Yoma = **mineral oil** pair.
 
 </details>
 
@@ -2219,7 +2219,7 @@ D. Petroleum
 
 **Q-GC41. RAS 2010**
 
-The mineral which has earned fame to Chile is
+The mineral which has earned renown to Chile is
 
 A. Gold
 
@@ -2253,7 +2253,7 @@ D. Iron
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Lithium** lore.
+**Ans: B.** **Lithium** find.
 
 </details>
 
@@ -3605,7 +3605,7 @@ D. Only Ruhr coal
 
 **Q62.** Which of the following is/are correctly matched?
 
-1. Morocco — phosphate reserves fame
+1. Morocco — phosphate reserves
 2. Sudbury — nickel (+ copper), Canada
 3. Kimberley — diamond story, South Africa
 

@@ -1,6 +1,6 @@
 # Topic 18 — World Landforms
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -28,19 +28,19 @@ None mandatory — static world-map chapter. No living scheme tag.
 
 1. Area order (largest → smallest): **Asia → Africa → North America → South America → Antarctica → Europe → Australia**. Australia is the **smallest** continent; Africa has the **most countries (~54)**.
 2. Mean elevation leader is **Antarctica** (~2300 m). Europe has the **highest share of plains** in its area. **Guyana** is in **South America**, not Africa.
-3. The **Andes** are the world’s **longest** fold chain. The **Himalaya** are the **highest**. **Aconcagua** stands in the Andes of Argentina. Length ladder cue: Andes > Rockies > Great Dividing Range > Himalaya.
+3. The **Andes** are the world’s **longest** fold chain. The **Himalaya** are the **highest**. **Aconcagua** stands in the Andes of Argentina. Length ladder pair: Andes > Rockies > Great Dividing Range > Himalaya.
 4. **Pyrenees** = Spain–France; **Alps** = Switzerland / central Europe (**not England**); **Apennine** = Italy; **Balkan** = Bulgaria; **Urals** mark Europe–Asia. **British Columbia** = “Sea of Mountains.”
 5. **Toubkal** (Atlas) is in **Morocco**. **Hoggar** is in **Algeria**. **Stanley / Rwenzori** is in Uganda. **Kilimanjaro** is in **Tanzania**. **Darling Range** = SW Australia.
 6. **Chimborazo** is in **Ecuador**. The Atlas system is North African — do not place it in France or Spain. **Sierra Nevada** = block mountain (not young fold like Rockies/Alps/Himalaya).
 7. **Kilimanjaro** sits on the **East African Rift** and is **not** in the Pacific Ring of Fire. **Etna** is in Italy / the Mediterranean. Tertiary young folds: Alps, Andes, Himalaya, Rockies, Atlas; Appalachians = **Caledonian / old**.
-8. **Tibet** is the highest large plateau (~4500 m). The **Pamir** is the “**Roof of the world**”. The **Altiplano** is Bolivia–Peru. The **Meseta** / **Madrid** is Spain. **Patagonia Plateau** = mineral storehouse cue.
+8. **Tibet** is the highest large plateau (~4500 m). The **Pamir** is the “**Roof of the world**”. The **Altiplano** is Bolivia–Peru. The **Meseta** / **Madrid** is Spain. **Patagonia Plateau** = mineral storehouse pair.
 9. The **Colorado Plateau** holds the Grand Canyon. The **Columbia Plateau** is a lava plateau. Do not swap the two. **Telegraphic Plateau** sits on the **North Atlantic Ridge** (not Indian Ocean).
 10. Grassland names: **Pampas** = Argentina; **Campos** = Brazil; **Llanos** = Venezuela–Colombia; **Puszta** = Hungary; **Prairie** = North America; **Steppe** = Eurasia; **Veld** = South Africa; **Downs** = Australia.
 11. **Borneo** is shared by three countries and is **not** a volcanic dump. **Java** and **Sumatra** sit on a volcanic arc.
 12. Island rank by size: **Greenland > New Guinea > Borneo > Madagascar**. Australia is a continent, not ranked as an island in that list. **Honshu** = Japan’s largest; **Faroe** = Sheep Islands (Denmark).
 13. The **Gobi** lies in **Mongolia and China** only. It is a cold desert, not Russia or Kazakhstan.
 14. Hot-desert size order: **Great Sandy < Gobi < Arabian < Sahara**. The **Sahara** is the largest hot desert. **Thar** = densest populated desert; **Atacama** = driest; **Europe** has the least desertification problem among continents.
-15. **Gibson** = Australia (not Brazil). **Sonoran** = USA. **Taklamakan** = China. **Karakum** = Turkmenistan (also Kazakhstan fringe lore).
+15. **Gibson** = Australia (not Brazil). **Sonoran** = USA. **Taklamakan** = China. **Karakum** = Turkmenistan (also Kazakhstan fringe note).
 16. The **Atacama** (N Chile / S Peru — not southern Chile alone) is the driest. The **Namib** is a fog coast. **Patagonia** is Argentina’s rain-shadow / temperate desert.
 17. Hot deserts favour **west coasts** because of the Horse Latitudes plus cold ocean currents (~15–30°).
 18. “Land of Big Games” points to the tropical **savanna**.
@@ -49,11 +49,11 @@ None mandatory — static world-map chapter. No living scheme tag.
 21. In Brazil, **Selva** is the rainforest and **Terra Roxa** is the famous coffee soil — both are Brazil facts.
 22. The **Mediterranean** climate has **winter rain** on five **west coasts** near **30–45°**. Summer is dry under the subtropical high.
 23. **Taiga** is boreal conifer forest. **Tundra** is treeless. Climate letters: Savanna **Aw**, Steppe **BS**, Tundra **ET**.
-24. Volcano facts: **Rainier** USA; **Etna** Italy; **Paricutin** Mexico; **Apo** Philippines; also Fuji (Japan), Pinatubo (Philippines), St Helens (USA).
+24. Volcano pairs: **Rainier** USA; **Etna** Italy; **Paricutin** Mexico; **Apo** Philippines; also Fuji (Japan), Pinatubo (Philippines), St Helens (USA).
 25. Peak continents: **Elbrus** = Europe (Caucasus / Russia); **Mont Blanc** = Alps; **Denali / McKinley** = North America; **Kosciuszko** = Australia mainland; **Cook / Aoraki** = New Zealand Southern Alps.
 26. Temperate grasslands (Prairie, Steppe, Pampas, Veld, Downs) sit on **chernozem**-type wheat soils. Residual and dome mountains are worn or laccolith leftovers, not young fold belts.
 27. **Death Valley** (California) = rift valley, extreme heat, Devil’s Golf Course salt pan. **Silicon Valley** = California chip belt. **Great Artesian Basin** = Australia. Blind valley / sinkhole = **karst**.
-28. **Arakan Yoma** = Myanmar (India–Myanmar hills: Naga, Chin, Patkai / Lushai — not Khasi as the boundary trio). **Golan Heights** = Middle East (SW Syria / occupied lore). **Black Forest** = Germany (east of Rhine; Vosges west).
+28. **Arakan Yoma** = Myanmar (India–Myanmar hills: Naga, Chin, Patkai / Lushai — not Khasi as the boundary trio). **Golan Heights** = Middle East (SW Syria / occupied note). **Black Forest** = Germany (east of Rhine; Vosges west).
 
 ---
 
@@ -127,7 +127,7 @@ Learn the full mountain, desert and grassland match set below — any standard r
 
 Seven continents by **area** (largest → smallest):
 
-| Rank | Continent | Area cue (km²) | % of Earth’s land (Philip’s-type) | Countries (GC sheet) |
+| Rank | Continent | Area pair (km²) | % of Earth’s land (Philip’s-type) | Countries (GC sheet) |
 |------|-----------|----------------|----------------------------------|----------------------|
 | 1 | **Asia** | ~44.6 million | ~29.8% | ~48 |
 | 2 | **Africa** | ~30.1 million | ~20.3% | ~**54** (most of any continent) |
@@ -171,7 +171,7 @@ Seven continents by **area** (largest → smallest):
 | South America | **Aconcagua** | Andes | **Argentina** — highest outside Asia |
 | North America | **Denali / McKinley** | Alaska Range | USA |
 | Africa | **Kilimanjaro** | — | **Tanzania** (not Kenya) |
-| Europe  | **Elbrus** | Caucasus | Russia |
+| Europe | **Elbrus** | Caucasus | Russia |
 | Alps (W Europe) | **Mont Blanc** | Alps | France–Italy |
 | Australia (mainland) | **Kosciuszko** | Snowy Mts | Australia |
 | Oceania (often asked) | **Puncak Jaya / Carstensz** | Sudirman | Indonesia (New Guinea) |
@@ -179,7 +179,7 @@ Seven continents by **area** (largest → smallest):
 
 **Major ranges — country / trap**
 
-| Range | Where | Highest / extra fact |
+| Range | Where | Highest / note |
 |-------|-------|----------------------|
 | **Andes** | W South America, ~7,000 km | **Longest** fold chain. Chimborazo (**Ecuador**). Copper Chile–Peru. Rain-shadow → Atacama + Patagonia |
 | **Himalaya** | India–Nepal–Bhutan–China | **Highest**. Young Tertiary. Everest / Kanchenjunga |
@@ -190,7 +190,7 @@ Seven continents by **area** (largest → smallest):
 | **Pyrenees** | **Spain–France** (Andorra) | **Not** Alps |
 | **Apennines** | **Italy** | Spine of the peninsula |
 | **Balkans** | **Bulgaria** / SE Europe | Not Carpathians |
-| **Carpathians** | Romania / Slovakia / Ukraine | Transylvania arc — do not dump on Bulgaria MCQ |
+| **Carpathians** | Romania / Slovakia / Ukraine | Transylvania arc — do not place on Bulgaria in MCQs |
 | **Caucasus** | Russia–Georgia–Azerbaijan | **Elbrus** = Europe’s high point |
 | **Urals** | Russia | Conventional **Europe–Asia** divide |
 | **Atlas** | Morocco–Algeria–Tunisia | Highest peak **Toubkal = Morocco** (not Algeria) |
@@ -209,7 +209,7 @@ Seven continents by **area** (largest → smallest):
 | **White Mountains** | New Hampshire / Maine, **USA** | |
 | **Black Mountains** | North Carolina, **USA** (Appalachian) | Not Black Forest |
 | **Black Forest** | **Germany** (Feldberg); east of **Rhine**; Vosges west in France | Block mountain |
-| **Salt Range** | Pakistan | Block mountain lore |
+| **Salt Range** | Pakistan | Block mountain note |
 | **Allegheny** | USA (Appalachian) | |
 | **Cantabrian** | **Spain** | |
 | **Mackenzie** | **Canada** | |
@@ -217,13 +217,13 @@ Seven continents by **area** (largest → smallest):
 | **Dinaric Alps** | Balkans coast belt | |
 | **Pennines** | Europe (UK) | Residual / old with Appalachians & Aravallis |
 
-**Length cue (surface ranges):** Andes (~7000–8900 km) > Rockies (~4800) > Great Dividing (~3700) > Himalaya (~2500).
+**Length pair (surface ranges):** Andes (~7000–8900 km) > Rockies (~4800) > Great Dividing (~3700) > Himalaya (~2500).
 
-**Orogeny age cues:** Alps, Andes, Himalaya, Rockies, Atlas = **Tertiary / young fold**. Appalachians = **Caledonian / old**. Aravalli = Pre-Cambrian. Black Forest / Vosges / Tien Shan type = Hercynian lore. **Sierra Nevada** = world’s most extensive **block** range framing (California) — **not** a young folded mountain like Rockies/Alps/Himalaya.
+**Orogeny age pairs:** Alps, Andes, Himalaya, Rockies, Atlas = **Tertiary / young fold**. Appalachians = **Caledonian / old**. Aravalli = Pre-Cambrian. Black Forest / Vosges / Tien Shan type = Hercynian note. **Sierra Nevada** = world’s most extensive **block** range framing (California) — **not** a young folded mountain like Rockies/Alps/Himalaya.
 
-**Phrase:** **British Columbia** = “**Sea of Mountains**” (Molyneux St John / Dufferin tour lore).
+**Phrase:** **British Columbia** = “**Sea of Mountains**” (Molyneux St John / Dufferin tour note).
 
-**Golan Heights** = Middle East basaltic plateau (SW Syria; 1967 occupation lore) — not Central Asia / SE Asia / Central Africa.
+**Golan Heights** = Middle East basaltic plateau (SW Syria; 1967 occupation note) — not Central Asia / SE Asia / Central Africa.
 
 **African / Andes peaks that come as a four-row match**
 
@@ -342,7 +342,7 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 | **Continental / shield** | Old worn-down block | **Deccan**, Brazilian, African, Western Australian |
 | **Lava / volcanic** | Flood basalt | **Columbia** (USA), **Deccan Trap** cover |
 
-| Plateau | Where | Key fact |
+| Plateau | Where | Note |
 |---------|-------|-----------|
 | **Tibetan Plateau** | China / Tibet | **Highest large** plateau. Headwaters: Indus, Sutlej, Brahmaputra, Mekong, Yangtze, Hwang Ho |
 | **Pamir** | Tajikistan knot | Phrase **“Roof of the world”**. Knot of Himalaya–Karakoram–Hindu Kush–Tien Shan |
@@ -364,9 +364,9 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 | **Meseta** | **Spain** | Interior tableland of Iberia |
 | **Loess Plateau** | N China | Wind-silt; Hwang Ho yellow colour |
 | **Kimberley / Western Plateau** | Australia | Old shield |
-| **Ozark** | USA | Domed plateau lore |
-| **Shan** | Myanmar | Fluvial / tableland lore |
-| **Telegraphic Plateau** | **North Atlantic Ridge** (Newfoundland–Ireland lore) | **Not** Indian Ocean |
+| **Ozark** | USA | Domed plateau note |
+| **Shan** | Myanmar | Fluvial / tableland note |
+| **Telegraphic Plateau** | **North Atlantic Ridge** (Newfoundland–Ireland note) | **Not** Indian Ocean |
 
 > ** note:** Tibet ≈ **4500 m+** average — closest option often **5 km**. **Pamir** = stock “Roof of the world” (also applied loosely to Tibet). **Patagonia Plateau** = “storehouse of minerals” in South America coaching keys. **Madrid** sits on the **Meseta**. Among Coconino / Aquarius / Colorado / Columbia size options, **Colorado** is largest; world’s largest plateau remains **Tibetan**.
 
@@ -376,11 +376,11 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 
 A valley is a long lowland between higher ground. A **rift valley** forms along divergent faults / crustal extension.
 
-| Place | Cue |
+| Place | Note |
 |-------|-----|
 | **Death Valley** | Mainly **California**, USA — **rift valley**; Devil’s Golf Course salt pan; lowest point in N America (~−86 m); extreme **heat** |
 | **Panjshir** | NE **Afghanistan** (Hindu Kush / north of Kabul) |
-| **Taylor Valley** | **Antarctica** — “Valley of the Dead” (Scott 1903 lore) |
+| **Taylor Valley** | **Antarctica** — “Valley of the Dead” (Scott 1903 note) |
 | **Silicon Valley** | S San Francisco Bay, **California** — chip / tech belt |
 | **Valley of the Kings** | **Egypt** |
 | **Great Artesian Basin** | **Australia** — huge groundwater basin (~1.7 million km²) between Great Dividing Range and interior uplands |
@@ -400,7 +400,7 @@ Plains are **low, gently rolling** lands — the world’s grain and cattle belt
 | **Coastal** | Sea + river | Atlantic coastal USA; eastern India |
 | **Lacustrine** | Old lake floor | Imphal-type locally; some interior basins |
 
-| Plain | Where | Key fact |
+| Plain | Where | Note |
 |-------|-------|-----------|
 | **Indo-Gangetic** | India–Pakistan–Bangladesh | Alluvium; wheat–rice–cane |
 | **North / Great European** | France → Poland → Russia | Wheat–dairy; glacial + river |
@@ -546,7 +546,7 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 
 **World island desk (GC extras)**
 
-| Island / group | Cue |
+| Island / group | Note |
 |----------------|-----|
 | **Nuuk** | Capital of Greenland; elevation ~**1–3 m** |
 | **Diego Garcia** | Largest of **Chagos** (Indian Ocean); UK/US base |
@@ -568,8 +568,8 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 | **NZ South Island** | Larger than NZ North / Java / Newfoundland among common options |
 | **Australia** | **Island continent** (smallest continent) |
 | **Polynesia** | Tonga, Tuvalu, Tahiti — **Tinian** (Marianas) is **not** Polynesia |
-| **Saint Martin** | Caribbean salt-pan / lagoon coast cue |
-| **Indonesia island count** | ~**17,500** islands (highest among common MCQ options; Sweden lore for absolute world count) |
+| **Saint Martin** | Caribbean salt-pan / lagoon coast pair |
+| **Indonesia island count** | ~**17,500** islands (highest among common MCQ options; Sweden note for absolute world count) |
 
 
 **Inline PYQ — UPPCS Prelims 2022, Q126**
@@ -635,14 +635,14 @@ Deserts are arid lands (often **< 25 cm** rain) with sparse xerophytic vegetatio
 | **Atacama** | N **Chile** (into Peru) | Among the **driest** on Earth |
 | **Patagonia** | **Argentina** | Cold rain-shadow. Not Chile’s Atacama |
 | **Thar** | India–Pakistan | Pleistocene–recent sands |
-| **Dasht-e-Lut / Kavir** | Iran | Hot interior; Lut = extreme surface-temperature fame (NASA Aqua lore) |
+| **Dasht-e-Lut / Kavir** | Iran | Hot interior; Lut = extreme surface-temperature renown (NASA Aqua note) |
 | **Great Basin** | USA | Cold interior |
 | **Rubʿ al-Khali** | Arabian Peninsula | Largest contiguous sand sea |
 | **An Nafud** | Saudi Arabia | |
 
 **2023 size ladder (smallest → largest):** Great Sandy → **Gobi** → **Arabian** → **Sahara**. Code **I, IV, II, III**.
 
-**Extra GC cues:** Deserts ≈ **< 25 cm** annual rain. Hot deserts on **western** margins ~**15–30°**. Knies lore — deserts receive more solar energy in ~6 hours than humanity uses in a year. **Thar** = most densely populated desert. **Europe** = least desertification problem among continents (essentially no true hot desert). Kalahari = **Southern Hemisphere** (Botswana + Namibia + SA). African–Eurasian desert belt sits under subtropical highs — **not** mainly warm currents.
+**Extra GC pairs:** Deserts ≈ **< 25 cm** annual rain. Hot deserts on **western** margins ~**15–30°**. Knies note — deserts receive more solar energy in ~6 hours than humanity uses in a year. **Thar** = most densely populated desert. **Europe** = least desertification problem among continents (essentially no true hot desert). Kalahari = **Southern Hemisphere** (Botswana + Namibia + SA). African–Eurasian desert belt sits under subtropical highs — **not** mainly warm currents.
 
 > ** note:** Kazakhstan has **other** dry belts (Kyzylkum fringe, steppe). That does **not** put Gobi into option 4.
 
@@ -756,7 +756,7 @@ D. Gibson – Brazil
 
 **“Land of Big Games”** = **Tropical Savanna**. Temperate grassland = farms and cattle, not the lion–zebra poster. Hot desert is **not** this label.
 
-**Latitude cues:** Tropical savanna ~**10–25°** N/S (between tropics). Temperate grasslands ~**30–45°** (can stretch toward **50°N** where landmass is wide).
+**Latitude pairs:** Tropical savanna ~**10–25°** N/S (between tropics). Temperate grasslands ~**30–45°** (can stretch toward **50°N** where landmass is wide).
 
 **Selvas (Selva)** = Amazon **tropical rainforest**, not a grassland name. **Downs** = **temperate** (Australia), not tropical.
 
@@ -812,7 +812,7 @@ D. Tropical Savanna Region
 
 ## N.8 Vegetation (world belts)
 
-**Forest cover cues (Bhutan forest constitution):** Bhutan’s constitution targets **≥60%** forest (actual cover higher). Among common options Japan has a high % cover. Softwood/conifer belt = **taiga** (largest forest area type). Amazon **Selva** = broadleaf evergreen. Tropical rainforest soil is **nutrient-poor** despite high productivity — cleared rainforest does **not** stay fertile like temperate clearings.
+**Forest cover pairs (Bhutan forest constitution):** Bhutan’s constitution targets **≥60%** forest (actual cover higher). Among common options Japan has a high % cover. Softwood/conifer belt = **taiga** (largest forest area type). Amazon **Selva** = broadleaf evergreen. Tropical rainforest soil is **nutrient-poor** despite high productivity — cleared rainforest does **not** stay fertile like temperate clearings.
 
 Walk **equator → pole** (one row each):
 
@@ -1675,10 +1675,10 @@ D. Southeast Asia
 
 Arrange the following continents in **decreasing order of area** (largest first):
 
-1. Europe  
-2. Australia  
-3. Africa  
-4. South America  
+1. Europe 
+2. Australia 
+3. Africa 
+4. South America 
 
 **Options:**
 
@@ -1775,7 +1775,7 @@ D. Europe
 
 **Q-GC10. Ghatnachakra / standard**
 
-Which continent has the **maximum per capita land area** (coaching / World Bank-type cue)?
+Which continent has the **maximum per capita land area** (coaching / World Bank-type pair)?
 
 A. Australia
 
@@ -2073,10 +2073,10 @@ D. Switzerland
 
 Arrange the following ranges in **decreasing order of length**:
 
-1. Himalaya  
-2. Andes  
-3. Great Dividing Range  
-4. Rockies  
+1. Himalaya 
+2. Andes 
+3. Great Dividing Range 
+4. Rockies 
 
 **Options:**
 
@@ -2776,7 +2776,7 @@ D. Red Sea Rift
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** The **Telegraphic Plateau** lies on the **North Atlantic Ridge** (Newfoundland–Ireland submarine plateau lore).
+**Ans: B.** The **Telegraphic Plateau** lies on the **North Atlantic Ridge** (Newfoundland–Ireland submarine plateau note).
 
 </details>
 
@@ -2871,7 +2871,7 @@ D. Sudan
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Death Valley**, **California**, is among the **hottest places on Earth** (furnace-creek lore).
+**Ans: A.** **Death Valley**, **California**, is among the **hottest places on Earth** (furnace-creek note).
 
 </details>
 
@@ -3240,7 +3240,7 @@ D. Iraq
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** The **Karakum** covers most of **Turkmenistan** (Karakum Canal lore).
+**Ans: B.** The **Karakum** covers most of **Turkmenistan** (Karakum Canal note).
 
 </details>
 
@@ -3362,7 +3362,7 @@ D. Mediterranean scrubland only
 
 Consider the following statements:
 
-1. Tropical deserts on **western continental margins** receive dry **trade-wind** subsidence.  
+1. Tropical deserts on **western continental margins** receive dry **trade-wind** subsidence. 
 2. The **north-east Himalaya** receives heavy monsoon rain because moist winds rise on the windward slope.
 
 **Options:**
@@ -4337,7 +4337,7 @@ D. Paracel Island
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Saint Martin** = salt pans / lagoons cue.
+**Ans: B.** **Saint Martin** = salt pans / lagoons pair.
 
 </details>
 

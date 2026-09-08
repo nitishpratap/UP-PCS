@@ -1,6 +1,6 @@
 # Topic 2 — Climate of India
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -91,7 +91,7 @@ D. Mistral
 13. The **Tropical Easterly Jet** is a summer **easterly** around about **14° N** and supports the south-west monsoon. The **Somali Jet** is the cross-equatorial feed into that monsoon.
 14. **El Niño** warms the eastern Pacific off Peru, usually weakens the Indian monsoon, and **reduces** plankton because warm water suppresses upwelling. **La Niña** cools that ocean and usually strengthens the monsoon.
 15. The **Indian Ocean Dipole** compares the western and eastern **Indian Ocean**, not the Pacific. A **positive IOD** helps the Indian monsoon; a **negative IOD** hurts it.
-16. Köppen facts for India: **Am** = Kerala / Konkan / north-east; **Aw** = Deccan; **As** = Tamil Nadu dry-summer Coromandel; **BWh** = Thar; **Cwg** = Ganga / Great Plains / north Bihar (and most of the Uttar Pradesh plain).
+16. Köppen map for India: **Am** = Kerala / Konkan / north-east; **Aw** = Deccan; **As** = Tamil Nadu dry-summer Coromandel; **BWh** = Thar; **Cwg** = Ganga / Great Plains / north Bihar (and most of the Uttar Pradesh plain).
 17. The January **18°C** isotherm is the usual tropical–subtropical divide. **Diurnal range** is highest in the Rajasthan desert. **Leh** is among the driest class stations; Mawsynram / Cherrapunji are the wettest class.
 18. The troposphere is heated mainly by **long-wave** radiation from the ground. Condensation releases **latent heat**. Normal lapse rate is about **6.5 °C per 1000 m**. Relative humidity **falls as temperature rises**. Ozone peaks in the **stratosphere**.
 19. Circulation cells are **Hadley (0–30°)**, **Ferrel (30–60°)**, and **Polar (60–90°)**. **Doldrums** mark the rainy ITCZ calm belt. **Horse latitudes** are the dry subtropical highs near **30°**.
@@ -360,7 +360,7 @@ Two standard explanations work together:
 | **Thermal** | Land heats faster than sea → summer low over India pulls ocean air in |
 | **Dynamic (Flohn)** | Pressure belts and the ITCZ shift with the Sun; monsoon is largely that seasonal shift |
 
-| Step | What happens | Fact |
+| Step | What happens | Note |
 |------|--------------|------|
 | 1 | Tibetan Plateau / NW India heat strongly in late spring | Thermal **low** over NW India–Pakistan |
 | 2 | ITCZ shifts **north** onto India | Monsoon trough forms |
@@ -493,7 +493,7 @@ These two names cover the same autumn window, but they are not the same process.
 
 Western Disturbances are **extra-tropical** winter storms. They form near the Mediterranean–Caspian region, travel east in the subtropical westerly jet, and bring rain or snow to north-west India. They are not monsoon lows and not Bay of Bengal depressions.
 
-| Item | Fact |
+| Item | Note |
 |------|------|
 | Type | Extra-tropical cyclone |
 | Carrier jet | STWJ branch **south of the Himalaya** (not the northern Tibetan branch) |
@@ -617,7 +617,7 @@ Foehn / Chinook are warm-dry lee winds. They are not the same as cold night-time
 
 A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surface temperature of about **26–27 °C or more**, deep moisture, Coriolis spin, and low vertical wind shear. Coriolis is too weak on the equator, so genesis is usually between about **5° and 30°**.
 
-| Need | Fact |
+| Need | Note |
 |------|------|
 | Sea surface temperature | About **26–27 °C or more** |
 | Moisture | Deep moist air |
@@ -670,7 +670,7 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 | **Cordonazo** | West Mexico / E Pacific coast | Lucent-class distractor |
 | **Hurricane** (also) | Caribbean / Gulf of Mexico | Same Atlantic family as USA |
 
-**Named-event awareness (not a closed four-pack):** Amphan (2020, BoB→WB/Odisha), Fani (2019), Yaas (2021), Tauktae (2021, Arabian), Biparjoy (2023), Hudhud (2014), Phailin (2013), Odisha Super Cyclone (1999).
+**Named-event note (not a closed four-pack):** Amphan (2020, BoB→WB/Odisha), Fani (2019), Yaas (2021), Tauktae (2021, Arabian), Biparjoy (2023), Hudhud (2014), Phailin (2013), Odisha Super Cyclone (1999).
 
 > ** note:** 2019 Q78 code **2 3 1 4** (Willy-willies–Australia, Taifu–Japan, Baguio–Philippines, Hurricanes–USA). 2020 Q74 code **3 4 2 1** (Baguios–Philippines, Hurricanes–USA, Typhoons–China, Willy-willies–Australia). Willy-willy ≠ Brickfielder.
 
@@ -682,7 +682,7 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 
 Köppen classifies climate by temperature and rainfall letter codes. Thornthwaite classifies by moisture balance. The line **“Vegetation is the true index of climate”** belongs to Thornthwaite, not Köppen.
 
-| Thinker | Method | Key fact |
+| Thinker | Method | Note |
 |---------|--------|-----------|
 | **Köppen** | Temperature + precipitation **letter codes** | India’s Am / Aw / As / BWh / Cwg map |
 | **Thornthwaite** | Moisture balance (P minus potential ET) | **“Vegetation is the true index of climate”** — 2018 Q25 |
@@ -836,7 +836,7 @@ Compare two sides of the Indian Ocean:
 
 #### How to use them in questions
 
-| Name | Ocean | India monsoon | Extra fact |
+| Name | Ocean | India monsoon | Note |
 |------|-------|---------------|------------|
 | **El Niño** | Pacific (warm Peru) | Often weaker | Plankton **decrease** |
 | **La Niña** | Pacific (cool Peru) | Often stronger | Opposite of El Niño |
@@ -1658,7 +1658,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three standard cyclone facts. **A** drops Coriolis constraint. **B** drops BoB frequency fact.
+**Ans: D** — All three standard cyclone associations. **A** drops Coriolis constraint. **B** drops BoB frequency fact.
 </details>
 
 **Q18.** Match **List-I** with **List-II**:

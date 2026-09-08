@@ -1,6 +1,6 @@
 # Topic 20 — World Agriculture
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -40,7 +40,7 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 12. **Intensive subsistence** = monsoon wet rice. **Extensive commercial** = Prairie/Pampas wheat. **Mixed farming** = crops plus livestock (West Europe / US Midwest).
 13. **Black tea** is fermented; **green tea** is not. The pluck fact is **two leaves and a bud**. Tea likes **20–30°C**, **150–300 cm** rain, slope, and acid soil.
 14. **IRRI** is in the Philippines. Borlaug’s Nobel was for **Peace**. **FAO** HQ is **Rome**.
-15. Banana: India produces heavily; **Ecuador** is a classic shipper. Silk and wool volume often fact on **China**; Australia is famous for **Merino** wool.
+15. Banana: India produces heavily; **Ecuador** is a classic shipper. Silk and wool volume often centres on **China**; Australia is famous for **Merino** wool.
 16. Soy export triangle = **USA–Brazil–Argentina**. India leads world **milk volume**; New Zealand and the Netherlands dominate the dairy-export story.
 17. **Von Thünen** is market rings around a city. **Whittlesey** is the thirteen world agricultural types — do not merge the two models.
 18. Five Mediterranean **west coasts** carry the citrus / vine / olive world belt.
@@ -92,7 +92,7 @@ This chapter links **farming systems** to **crop belts** and **producer ≠ expo
 - First fact the **system** (intensive / extensive / plantation / Med / dairy / ranching / shifting).
 - Then fact the **crop climate** and the **country rank the paper froze** (e.g. coffee 2016).
 - **Whittlesey** is the world-type map; **Von Thünen** is the ideal market-distance ring model — do not merge them.
-- India crop detail lives in Topic 06 — here keep only world facts that sneak into Prelims (Kerala rubber, Assam tea, Philippines cane).
+- India crop detail lives in Topic 06 — here keep only world centres that sneak into Prelims (Kerala rubber, Assam tea, Philippines cane).
 
 **Order of this chapter**
 
@@ -130,7 +130,7 @@ Agriculture = primary activity that raises crops and/or animals. first splits **
 
 **Other named systems (one home each)**
 
-| System | Climate / where | What is grown / raised | Extra fact |
+| System | Climate / where | What is grown / raised | Note |
 |--------|-----------------|------------------------|------------|
 | **Mixed farming** | W Europe, US Midwest | Crops **+** livestock on the **same** farm | Fodder rotation; manure; not “only wheat” |
 | **Dairy farming** | NW Europe, Great Lakes, NZ, Denmark, Netherlands | Milk, butter, cheese | Mild climate + fodder + urban market; NZ = grass-export dairy |
@@ -141,7 +141,7 @@ Agriculture = primary activity that raises crops and/or animals. first splits **
 | **Horticulture** | Med + hill + greenhouse | Fruit, veg, flowers | Viticulture = **grape / wine** |
 | **Plantation** | Humid tropics | Tea, coffee, cocoa, rubber, cane, oil palm, banana, coconut, spices | **N.5** |
 | **Shifting / slash-and-burn** | Humid tropics | Millets, maize, cassava, upland rice | **N.12** |
-| **Collective / cooperative** | Former USSR kolkhoz; Israel kibbutz; Denmark dairy co-ops | Shared marketing / land | Awareness only |
+| **Collective / cooperative** | Former USSR kolkhoz; Israel kibbutz; Denmark dairy co-ops | Shared marketing / land | Secondary example |
 
 **Viticulture / sericulture / pisciculture / apiculture** (definition MCQs)
 
@@ -151,7 +151,7 @@ Agriculture = primary activity that raises crops and/or animals. first splits **
 | **Sericulture** | Silk — **China** volume; India (Mulberry Karnataka–AP–WB; also tussar/eri/muga) |
 | **Pisciculture** | Fish rearing |
 | **Apiculture** | Bees / honey |
-| **Floriculture** | Flowers (Netherlands auction fame) |
+| **Floriculture** | Flowers (Netherlands auction) |
 
 Plantation MCQ fact = **Tea** (not wheat / rice / maize). World citrus belt = **Mediterranean**, not equatorial and not Kangra / Pir Panjal as the *world* answer.
 
@@ -314,7 +314,7 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 |--|-----------|------------|
 | Climate | Tropical; long season **10–18 months**; frost-free | Temperate; **4–7 months** |
 | Rain / water | **~75–150 cm** or irrigation | Moderate rain; Europe plains |
-| World fact | **Brazil** (also ethanol from cane) | **France, Germany, Russia, Ukraine, USA** |
+| World centre | **Brazil** (also ethanol from cane) | **France, Germany, Russia, Ukraine, USA** |
 | Asia names | India, China, Thailand, Pakistan | Not a Kerala crop |
 
 ### Oilseeds and tree oils
@@ -427,11 +427,11 @@ D. Spanish and Americans
 
 | Region | Fact |
 |--------|------|
-| **China** | Usual **largest producer**; original home; green-tea fame |
+| **China** | Usual **largest producer**; original home; green tea |
 | **India** | **Assam** (Brahmaputra valley — **volume**), **Darjeeling** (GI, hill, orthodox), **Dooars/Terai**, **Nilgiri**, Kangra, Munnar |
 | **Sri Lanka** | “**Ceylon** tea”; central highlands; high / mid / low grown |
 | **Kenya** | Leading **African** name; often among top **exporters**; highland |
-| Indonesia, Vietnam, Bangladesh, Turkey | Awareness |
+| Indonesia, Vietnam, Bangladesh, Turkey | Also revise |
 
 **India vs world:** Assam = volume. Darjeeling = quality/GI. Kenya = export competitor. China = volume king.
 
@@ -445,11 +445,11 @@ D. Spanish and Americans
 |------|-----------|-------|
 | **Arabica** (*C. arabica*) | Milder aroma; higher hills (~600–1600 m) | Brazilian highlands, **Colombia**, Ethiopia, India’s Ghats |
 | **Robusta** (*C. canephora*) | Stronger, more caffeine, hardier, lower altitude | **Vietnam**, Uganda, lowland tropics |
-| **Liberica** | Awareness only | W Africa pockets |
+| **Liberica** | Secondary example | W Africa pockets |
 
 **2016 quantity (freeze this paper order):Brazil > Vietnam > Colombia > Indonesia**
 
-| Country | Extra fact |
+| Country | Note |
 |---------|------------|
 | **Brazil** | Usual **#1**. São Paulo–Minas–Paraná highlands. **Terra Roxa** soil. Mostly **arabica** |
 | **Vietnam** | **#2** in the 2016 fact. **Robusta** bulk. Central Highlands. Trap = putting it first |
@@ -571,7 +571,7 @@ D. Coffee Production
 
 ## N.10 Other plantation / tropical cash crops
 
-| Crop | Climate | World fact | Trap |
+| Crop | Climate | World centre | Trap |
 |------|---------|------------|------|
 | **Oil palm** | Equatorial, high rain | **Indonesia + Malaysia** | Latvia / Kerala-only |
 | **Banana** | Hot, wet, frost-free | India = huge **producer**; **Ecuador** (also Philippines, Costa Rica) = **export** | Equating producer with exporter |
@@ -586,9 +586,9 @@ D. Coffee Production
 
 ## N.11 Livestock, dairy, wool, silk
 
-Ranching is **commercial**. Nomadic herding is **subsistence**. Do not dump both on “Pampas”.
+Ranching is **commercial**. Nomadic herding is **subsistence**. Do not put both on “Pampas”.
 
-| Item | Fact |
+| Item | Note |
 |------|------|
 | **Cattle numbers** | **India** often #1 inventory; then Brazil, China, USA |
 | **Beef export** | Brazil, Australia, USA — **not** “India exports most beef because it has most cattle” as a blind fact |
@@ -643,7 +643,7 @@ Humid tropics: Amazon, Congo, SE Asia hills, NE India, Central America.
 
 ## N.13 World Green Revolution and FAO (short)
 
-| Cue | Fact |
+| Note | Note |
 |------|------|
 | **HYV package** | Seeds + water + fertiliser + pesticide — same logic worldwide |
 | **Wheat** | **Norman Borlaug**; CIMMYT **Mexico**; Nobel **Peace** (1970) — **not** “Nobel in Agriculture” |
@@ -659,11 +659,11 @@ India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture f
 
 ## N.14 GC extras — cash, livestock, terms
 
-**Producer cues (FAO years move — freeze the paper):** China often leads **rice + wheat volume**; India often has the **largest rice area**; hybrid rice is especially associated with **China**; **IRRI / Rice Gene Bank** = Los Baños, **Philippines**. Brazil leads **sugarcane**; Russia–France lead **sugar beet**; Ukraine’s sugar is almost entirely from **beet**. Thailand (+ Indonesia) lead **natural rubber**. Brazil + Vietnam lead **coffee**; **Robusta** = African species also grown in India. China leads **tea leaves** and **tobacco** and **silk**; India leads **bananas** and **milk volume** and often **castor**; Indonesia leads **coconut**. USA leads **maize**. China often leads total **livestock** inventory.
+**Producer ranks (FAO years move — freeze the paper):** China often leads **rice + wheat volume**; India often has the **largest rice area**; hybrid rice is especially associated with **China**; **IRRI / Rice Gene Bank** = Los Baños, **Philippines**. Brazil leads **sugarcane**; Russia–France lead **sugar beet**; Ukraine’s sugar is almost entirely from **beet**. Thailand (+ Indonesia) lead **natural rubber**. Brazil + Vietnam lead **coffee**; **Robusta** = African species also grown in India. China leads **tea leaves** and **tobacco** and **silk**; India leads **bananas** and **milk volume** and often **castor**; Indonesia leads **coconut**. USA leads **maize**. China often leads total **livestock** inventory.
 
 **Named places / crops**
 
-| Cue | Fact |
+| Note | Fact |
 |-----|------|
 | **Mocha** coffee | **Yemen** (port name) |
 | **Kona** coffee | **Hawaii** (USA) |
@@ -675,7 +675,7 @@ India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture f
 | **Golden Crescent** | Illicit opium — **Afghanistan, Iran, Pakistan** (not Iraq) |
 | **Shahtoosh** | Tibetan antelope / **Chiru** hair (Tibet / Ladakh story) |
 | Catechu (**kattha**) | From **Khair** (*Acacia catechu*) wood |
-| Groundnut native | **Brazil** / Mato Grosso lore; Gambia’s classic peanut-economy cue |
+| Groundnut native | **Brazil** / Mato Grosso; Gambia’s classic peanut economy |
 | **Alfalfa / Lucerne** | Fodder legume (Fabaceae) |
 | **Heroin** | From **opium** |
 
@@ -692,7 +692,7 @@ India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture f
 
 **Livestock / dairy:** India = milk **volume** leader; mad-cow disease damaged beef’s “safe food” image in Europe/America. Commercial viticulture is classic **Mediterranean** (~85% grapes → wine in that story).
 
-**Trap cues (GC):** Golden Crescent ≠ Iraq; Fazenda ≠ jhum; Mocha ≠ Brazil; Shahtoosh ≠ merino; olericulture ≠ fruits.
+**Trap lines (GC):** Golden Crescent ≠ Iraq; Fazenda ≠ jhum; Mocha ≠ Brazil; Shahtoosh ≠ merino; olericulture ≠ fruits.
 
 **Plantation note:** Ministry lists differ (Agri: coconut/cocoa/arecanut/cashew vs Commerce: tea/coffee/rubber/spices) — Prelims often treats tea/coffee/rubber/spices/cane as plantation family.
 
@@ -2245,7 +2245,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
-**Q10.** Vietnam’s coffee fame is mainly:
+**Q10.** Vietnam’s coffee role is mainly:
 
 **Options:**
 
@@ -3230,7 +3230,7 @@ D. A is false but R is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — India = volume; NZ remains a classic **export** dairy fact.
+**Ans: C** — India = volume; NZ remains a classic **export** dairy centre.
 </details>
 
 ---
@@ -3274,7 +3274,7 @@ D. Only Japanese wet-rice terraces
 **Q58.** Which statement about rice is/are correct?
 
 1. China and India are usual high-volume producers.
-2. China is always the classic top rice exporter in Prelims lore.
+2. China is always the classic top rice exporter in older notes.
 3. IRRI is at Los Baños, Philippines.
 
 A. 1 and 2 only

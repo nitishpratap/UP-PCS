@@ -1,6 +1,6 @@
 # Topic 11 — Population Geography
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -38,7 +38,7 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 4. Arithmetic density is **population / total area**. India’s 2011 arithmetic density is **382** persons per km².
 5. Physiological density is **population / net sown area**. Agricultural density is **agricultural population / net sown area**. Do not swap these three density types.
 6. Among States, **Bihar** has the highest density (**1106**). West Bengal and Kerala follow high; Uttar Pradesh is **829**. **Arunachal Pradesh** has the lowest State density (**17**). Delhi UT is very dense but is not a “lowest density State” answer.
-7. Core 2011 facts: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
+7. Core 2011 figures: sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**. Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
 8. **Uttar Pradesh** is the most populous State and has the largest rural population. **Sikkim** is the least populous State. **Nagaland** showed negative growth in 2001–11.
 9. Highest State sex ratio is **Kerala**. Among States in the usual 2011 set, lowest sex ratio is **Haryana**. Lowest child sex ratio (rural + urban) is also **Haryana**.
 10. Literacy is highest in **Kerala** and lowest among States in **Bihar**. In Uttar Pradesh, **Shrawasti** has the lowest female literacy among districts.
@@ -107,7 +107,7 @@ Population geography asks **how many people live where**, **how that number chan
 - Population ≈ **121.09 crore**.
 - Density **382**, sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**.
 - Decadal growth **2001–11 = 17.64%**.
-- Composition awareness: Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
+- Composition note: Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
 
 ---
 
@@ -175,7 +175,7 @@ Socio-economic and historical factors:
 - **Transport networks** thicken settlement along roads and railways.
 - **Urbanisation and jobs** concentrate migrants in metros such as Delhi, Mumbai, Kolkata, Bengaluru, Chennai, Hyderabad and Ahmedabad.
 
-**Map cue**
+**Map pair**
 
 - Crowded belts: Indo-Gangetic plain and many coastal plains.
 - Sparse belts: Himalaya, north-eastern hills, Thar, and some dry or rugged interior pockets.
@@ -219,7 +219,7 @@ Population density compares people with land. Prelims usually quotes **arithmeti
 | **Agricultural density** | Agricultural population ÷ **net sown** area | Pressure of farm workers on cultivated land |
 
 - India’s Census **2011** arithmetic density is **382** (do not mix with **2001 ≈ 325**).
-- High-density **state** ladder awareness: **Bihar (~1106)** > **West Bengal (~1028)** > **Kerala (~860)** > **Uttar Pradesh (829)**.
+- High-density **state** ladder note: **Bihar (~1106)** > **West Bengal (~1028)** > **Kerala (~860)** > **Uttar Pradesh (829)**.
 - The lowest density **state** is **Arunachal Pradesh (~17)**.
 - NCT **Delhi** is a very high-density UT, but it is **not** a “state” answer for lowest density.
 - Moderate densities appear in many peninsular and central states; Himalayan and several NE hill states stay relatively low.
@@ -454,15 +454,15 @@ Composition answers **who** the people are, not only how many.
 - Children (**0–14**), working age (**15–59**), and aged (**60+**) are the standard three bands.
 - A high child share means a broad-base pyramid and higher future labour entry.
 - **Demographic dividend** exists while the **15–59** share is high and dependency is manageable.
-- **Dependency ratio** lore compares young + aged dependents with the working-age population.
+- **Dependency ratio** note compares young + aged dependents with the working-age population.
 
 **Occupational structure**
 
 - Workers are grouped as **primary** (agriculture and allied), **secondary** (industry), and **tertiary** (services).
-- India still has a large primary workforce in Census lore, but development shifts people toward secondary and tertiary work.
+- India still has a large primary workforce in Census note, but development shifts people toward secondary and tertiary work.
 - Males are more visible in non-farm work; many women remain concentrated in primary occupations in rural areas.
 
-**Social composition (Census 2011 awareness)**
+**Social composition (Census 2011 note)**
 
 - Scheduled Castes are about **16.6%** of India’s population.
 - Scheduled Tribes are about **8.6%** of India’s population.
@@ -631,7 +631,7 @@ Uttar Pradesh is India’s **most populous** state and also has the **largest ru
 - UP held about **16.5%** of India’s population (~**19.98 crore**).
 - Density **829**, sex ratio **912**, literacy about **67.7%**, urban share about **22.3%**, rural share about **77.7%**.
 - Decadal growth **2001–11** was about **20.23%**.
-- District awareness facts: **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among the better sex-ratio districts; **Shrawasti** lowest female literacy.
+- District notes: **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among the better sex-ratio districts; **Shrawasti** lowest female literacy.
 - Million-city years: Kanpur **1971**, Lucknow **1981**.
 - UA order 2011: **Kanpur > Lucknow > Ghaziabad > Agra**.
 - Never treat TFR as a “per thousand” figure — that unit belongs to CBR.
@@ -2032,7 +2032,7 @@ D. Jains — highest urban share among religions
 
 ---
 
-**Q51.** Which UP district is the most populous as per Census 2011 awareness?
+**Q51.** Which UP district is the most populous as per Census 2011 note?
 
 A. Mahoba
 
@@ -2217,7 +2217,7 @@ D. Pull factor — destination attraction such as jobs and amenities
 
 ---
 
-**Q61.** According to Census 2011 composition awareness, Scheduled Tribes form about:
+**Q61.** According to Census 2011 composition note, Scheduled Tribes form about:
 
 A. 2%
 
@@ -2253,7 +2253,7 @@ D. Only SC and ST
 
 ---
 
-**Q63.** Which density ladder is closest to Census 2011 high-density state awareness?
+**Q63.** Which density ladder is closest to Census 2011 high-density state note?
 
 A. Arunachal > Bihar > Kerala > UP
 

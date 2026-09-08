@@ -1,6 +1,6 @@
 # Topic 16 — Oceans
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -33,7 +33,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
 3. India’s **west shelf is wider than the east**. The Gujarat–Mumbai belt is widest and holds **Bombay High**. The east shelf is narrower but carries large delta fans.
 4. The **Telegraphic Plateau** is part of the **North Atlantic Ridge**, not a separate land plateau.
-5. Trench–ocean facts: **Mariana–Pacific**, **Puerto Rico–Atlantic**, **Sunda/Java–Indian**, and **Molloy–Arctic**.
+5. Trench–ocean pairs: **Mariana–Pacific**, **Puerto Rico–Atlantic**, **Sunda/Java–Indian**, and **Molloy–Arctic**.
 6. **Agulhas** and **Brazil** are **warm** currents. **Humboldt (Peru)** and **California** are **cold**. Do not mark Agulhas or Brazil as cold.
 7. The **Benguela** is an **Atlantic** cold current off south-west Africa. It is **not** a Pacific current.
 8. Among classic MCQ options, the current linked to the **Indian Ocean** is the **Agulhas**.
@@ -50,7 +50,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 19. The **Suez Canal** joins the **Mediterranean** and the **Red Sea**. North to south the lakes are **Manzala → Timsah → Great Bitter → Little Bitter**. It cut the India–Europe sea route by about **7000 km**. Suez is **sea-level** and has **no facts**.
 20. The **Panama Canal** joins the **Atlantic/Caribbean** and the **Pacific** and uses **facts** (with Gatun Lake). The **Kiel Canal** joins the **North Sea** and the **Baltic**.
 21. UNCLOS belts: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf starts at **200 nm** and may extend to **350 nm**.
-22. Classic fishery facts: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
+22. Classic fishery centres: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
 23. India’s **operational** Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational pair. **Himadri** is India’s **Arctic** station, not Antarctic.
 24. The **Antarctic Treaty** dates to **1959/61**. India joined in **1983**. India is an **observer** in the Arctic Council.
 25. Key straits: **Hormuz** (Gulf oil), **Malacca** (Indian Ocean–South China Sea), **Gibraltar** (Med–Atlantic), **Bering** (Asia–America), **Bab-el-Mandeb**, **Palk**, and the **10° Channel**.
@@ -60,7 +60,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 29. Hydrosphere ≈ **71%** of Earth. Usable fresh ≈ **<1%** of all water. Of fresh water, ice ≫ groundwater ≫ rivers/lakes.
 30. **Datum line** = mean-sea-level height/depth zero. Abyssal plains ≈ most extensive ocean-floor province (~**76%**).
 31. **Sargasso** = North Atlantic, **no coast**. **Red Sea** = axial trough. **NAD** = Blanket of Europe. **OMT** (26°C isotherm) helps monsoon rainfall forecast.
-32. Lake salinity cues: Assal / Van / Dead Sea / Great Salt Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
+32. Lake salinity pairs: Assal / Van / Dead Sea / Great Salt Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
 
 ---
 
@@ -155,7 +155,7 @@ Five named oceans plus many seas and gulfs. Area order and Indian Ocean identity
 
 **Seas desk (GC extras)**
 
-| Sea | Cue |
+| Sea | Note |
 |-----|-----|
 | **South China Sea** | Pacific marginal; often deepest among common MCQ options (~5377 m) |
 | **Bering Sea** | Pacific marginal |
@@ -203,7 +203,7 @@ D. Only 1
 
 A gulf or bay is an arm of the sea into the land. ask: which sea does it open into, and which strait guards the mouth?
 
-| Name | Where | Opens into | Key fact |
+| Name | Where | Opens into | Note |
 |------|-------|------------|-----------|
 | **Persian / Arab Gulf** | Between Iran and Arabia | Gulf of Oman → Arabian Sea | Mouth = **Strait of Hormuz** (oil chokepoint) |
 | **Gulf of Oman** | SE of Hormuz | Arabian Sea | Outer side of Hormuz; **not** the same as Persian Gulf |
@@ -248,7 +248,7 @@ A gulf or bay is an arm of the sea into the land. ask: which sea does it open in
 
 **Datum line:** horizontal reference at **mean sea level** from which heights and depths are measured — not the International Date Line and not the prime meridian.
 
-**Ocean Mean Temperature (OMT):** measured to the **26°C isotherm** depth (often ~50–100 m; SW Indian Ocean Jan–Mar mean ≈ **59 m** in the IAS key, not 129 m). OMT from Jan–Mar helps judge whether Indian monsoon rainfall will sit above or below the long-term mean — better cue than SST alone.
+**Ocean Mean Temperature (OMT):** measured to the **26°C isotherm** depth (often ~50–100 m; SW Indian Ocean Jan–Mar mean ≈ **59 m** in the IAS key, not 129 m). OMT from Jan–Mar helps judge whether Indian monsoon rainfall will sit above or below the long-term mean — better pair than SST alone.
 
 **Gravitational water** in soil sits in macropores and drains under gravity; tension is typically **below ~1/3 atmosphere**.
 
@@ -264,7 +264,7 @@ The ocean floor profile is the skeleton of every later card.
 
 | Step | Depth / slope | What it is | meat |
 |------|----------------|------------|-----------|
-| **Continental shelf** | Shore to **shelf break ~100–200 m**; slope ≤1°; ~**7.5%** of ocean area; avg width ~**80 km** | Drowned edge of the continent | **Fisheries + oil/gas**; world widest = **Siberian / Arctic**. India fact: **west shelf wider than east** (Gujarat–Mumbai / Khambhat up to ~300 km; Konkan–Kerala narrower). East coast shelf is narrower overall but carries big **delta / Bengal Fan** sediment. Oil cue: **Bombay High** (west); KG basin (east) |
+| **Continental shelf** | Shore to **shelf break ~100–200 m**; slope ≤1°; ~**7.5%** of ocean area; avg width ~**80 km** | Drowned edge of the continent | **Fisheries + oil/gas**; world widest = **Siberian / Arctic**. India fact: **west shelf wider than east** (Gujarat–Mumbai / Khambhat up to ~300 km; Konkan–Kerala narrower). East coast shelf is narrower overall but carries big **delta / Bengal Fan** sediment. Oil pair: **Bombay High** (west); KG basin (east) |
 | **Shelf break** | ~130–200 m | Sudden steepening | Marks end of “neritic” zone |
 | **Continental slope** | ~200 m down to **~3000 m**; 2–5° | True edge of the continental block | Cut by **submarine canyons**; **turbidity currents** race down them |
 | **Deep-sea fan / cone** | Foot of a canyon | Turbidite dump | Same idea as an alluvial fan, underwater |
@@ -279,7 +279,7 @@ The ocean floor profile is the skeleton of every later card.
 
 | Form | Meaning |
 |------|------|
-| **Seamount** | Undersea volcano, **peaked**, rises **>1000 m** from the floor, does not break the surface (Emperor Seamount cue) |
+| **Seamount** | Undersea volcano, **peaked**, rises **>1000 m** from the floor, does not break the surface (Emperor Seamount pair) |
 | **Guyot** | **Flat-topped** seamount — waves planed it when it was an island, then it drowned. Common in the **Pacific**; identified in all oceans **except the Arctic** in GC framing |
 | Volcanic island | Seamount that **does** break the surface (Hawaii type) |
 | Atoll / reef | Coral on a sinking volcanic peak enclosing a lagoon; India reefs need clear warm water |
@@ -547,9 +547,9 @@ Open-ocean salinity averages about **35‰** (35 g salt per 1000 g seawater). **
 - **High** seas: Red Sea, Persian Gulf, Mediterranean.
 - **Low** seas: Baltic, equatorial belt, big river mouths.
 - Dead Sea and Great Salt Lake are **lakes**, not ocean MCQs.
-- Hypersaline lake cues: **Assal** (~348‰) often world’s highest; **Lake Van** (Türkiye, ~330‰); **Dead Sea** (~238‰); **Great Salt Lake** (Utah, USA, ~220‰).
+- Hypersaline lake pairs: **Assal** (~348‰) often world’s highest; **Lake Van** (Türkiye, ~330‰); **Dead Sea** (~238‰); **Great Salt Lake** (Utah, USA, ~220‰).
 - **Halocline** = salinity changes rapidly with depth. **Thermocline** = temperature; **pycnocline** = density.
-- Open-ocean NaCl ≈ **77.8%** of dissolved salts (Dittmar / Challenger chemistry lore).
+- Open-ocean NaCl ≈ **77.8%** of dissolved salts (Dittmar / Challenger chemistry note).
 - Arabian Sea salinity often higher than Bay of Bengal (~36‰ vs ~30‰) — more evaporation, fewer big rivers.
 
 **Inline PYQ — UPPCS Prelims 2023, Q61**
@@ -590,7 +590,7 @@ The Moon’s pull exceeds the Sun’s. A lunar day is about **24 h 50 min**, so 
 **Tidal bore**
 
 - A bore is a wall of tide in a funnel estuary.
-- India: **Hooghly**. World cues: Amazon, Qiantang (China).
+- India: **Hooghly**. World pairs: Amazon, Qiantang (China).
 - Flood = rising; ebb = falling. A perigean spring is extra-large (Moon at perigee).
 - Neap: high tide **below** normal spring height; low tide **above** normal low — neaps are **not** at new/full moon (those are springs); neaps ≈ day 7–8 of the lunar fortnight.
 - Indirect high tide on the far side of Earth is linked to **centrifugal** balance with Moon gravity.
@@ -666,7 +666,7 @@ A strait is a narrow natural waterway joining two larger water bodies. Fact **wh
 
 ## N.8 Canals & Waterways
 
-Canals shorten trade routes. Fact the seas joined, the year, and whether facts are needed.
+Canals shorten trade routes. Remember the seas joined, the year, and whether ships must climb stepped chambers.
 
 | Canal | Fact |
 |-------|------|
@@ -693,7 +693,7 @@ Canals shorten trade routes. Fact the seas joined, the year, and whether facts a
 **Other waterways**
 
 - India **NW-1** = Ganga–Bhagirathi–Hooghly (Haldia–Prayagraj).
-- International cues: St Lawrence, Rhine–Danube, Volga–Don.
+- International pairs: St Lawrence, Rhine–Danube, Volga–Don.
 
 **Inline PYQ — UPPCS Prelims 2025, Q138**
 
@@ -3156,7 +3156,7 @@ D. Nicaragua
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Nicaragua** canal proposal lore.
+**Ans: D.** **Nicaragua** canal proposal note.
 
 </details>
 

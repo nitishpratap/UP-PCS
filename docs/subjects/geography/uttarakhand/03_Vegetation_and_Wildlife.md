@@ -3,7 +3,7 @@
 ### ★ UKPCS state card (Unit 2)
 
 > **High-yield 2025:** Nanda Devi BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).
-> **Ghatnachakra vegetation facts:** birch · deodar belt · Lisa (pine resin) · khair = sub-tropical · highest-elevation tree.
+> **Ghatnachakra vegetation points:** birch · deodar belt · Lisa (pine resin) · khair = sub-tropical · highest-elevation tree.
 
 ---
 
@@ -14,7 +14,7 @@
 | Forest richness | Large forest share; belts from tropical foothill to alpine — **relief + climate** explain it |
 | Altitude stack | Foothill sal → oak–rhododendron → chir / deodar / fir → alpine birch–juniper → bugyal |
 | Deodar | Abundant western Himalayan temperate belt **1500–2500 m**; highest among deodar / pine / sal / teak |
-| Birch | Himalayan alpine / moist alpine scrub; writing-bark lore |
+| Birch | Himalayan alpine / moist alpine scrub; writing-bark tradition |
 | Lisa | Resin product from **pine**; turpentine after distillation; rural UK livelihood |
 | Khair | **Sub-tropical** forests (Shiwalik / western Himalaya scrub); also yields **katha** |
 | Nanda Devi BR | UNESCO WHS (with Valley of Flowers); fauna includes **snow leopard, musk deer, blue sheep** |
@@ -75,7 +75,7 @@
 
 ---
 
-## 3.4 Sanctuary–district ratta
+## 3.4 Sanctuary–district map
 
 | Sanctuary | District |
 |-----------|----------|

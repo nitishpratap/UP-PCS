@@ -1,6 +1,6 @@
 # Topic 6 — Agriculture
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥70)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥70)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -65,7 +65,7 @@
 30. World coffee order often taught for 2016 is Brazil > Vietnam > Colombia > Indonesia. Do not put Gujarat–Tea or Assam–Wheat in a correct-pair list.
 31. Mixed farming = crops + livestock. Double cropping = two crops in one year. Parallel cropping classic = **wheat + mustard**. Contract farming pioneer = **Punjab**.
 32. Green manure N% fact: **cowpea highest** among common options; sunhemp often max kg N/ha. Fertigation avoids rock / super phosphate. Conservation agri = min till + residue + rotation.
-33. Cane facts: Sugar Bowl **UP**; breeding **Coimbatore**; first mill **Pratappur 1903**; SSI = WWF–ICRISAT **2009**. Rice Bowl of India = **Krishna–Godavari delta**.
+33. Cane points: Sugar Bowl **UP**; breeding **Coimbatore**; first mill **Pratappur 1903**; SSI = WWF–ICRISAT **2009**. Rice Bowl of India = **Krishna–Godavari delta**.
 34. Board HQ: Coffee **Bengaluru**, Tea **Kolkata**, Rubber **Kottayam**, Tobacco **Guntur**. History of Indian Agriculture = **M.S. Randhawa**.
 
 ---
@@ -424,7 +424,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 
 - Tea process: **CTC** (Crush–Tear–Curl) = bulk everyday tea; **orthodox** = premium leaf.
 - Tea likes acidic, well-drained hill soils.
-- Tea is often nicknamed **Green Gold**. Origin lore tags the **Yunnan** plateau of South China.
+- Tea is often nicknamed **Green Gold**. Origin note tags the **Yunnan** plateau of South China.
 - Coffee was first grown in India in **Chikkamagaluru** (Karnataka). Coffee is propagated by **seeds**; tea mainly by **stem cuttings**.
 - Kerala is the classic **“Garden of Spices.”** Black pepper is **black gold / black diamond**. **Clove** = flower bud of *Eugenia caryophyllata*.
 - Board HQs: **Coffee Board — Bengaluru**; **Tea Board — Kolkata**; **Rubber Board — Kottayam**; **Tobacco Board — Guntur**; **Spices Board — Kochi**.
@@ -451,7 +451,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - Subtropical: citrus, grapes.
 - Temperate hills: apple (J&K, HP, Uttarakhand).
 - World citrus belt = **Mediterranean**.
-- India’s orange fame = **Nagpur**.
+- India’s orange renown = **Nagpur**.
 - **Guava varieties:** Lalit / Banarsi (improved). **Sultana, Gulabi, Kali Champa:** the UPPCS **2018** answer was **guava**; Ghatnachakra lists **grapes** — sources disagree; for that year the paper answer is guava.
 - **Potato:** UP is the **leading producer**.
 - CIP South Asia Regional Centre is at **Singna, Agra** — **not Aligarh** (2025 Q34 Only 1).
@@ -460,7 +460,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - **Kanchan / Krishna / Banarasi** = improved amla (Indian gooseberry). **Lalit** = guava.
 - Ginger storage organ = **rhizome**.
 - Golden Revolution = horticulture **and honey**.
-- **Arunachal Pradesh** is the classic low-cost orchid / export-horticulture climate cue.
+- **Arunachal Pradesh** is the classic low-cost orchid / export-horticulture climate pair.
 
 | GI / variety | Place |
 |--------------|-------|
@@ -473,7 +473,7 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 | Malabar Pepper | Kerala |
 | Kashmiri saffron | J&K |
 | Nashik grapes | MH |
-| Coorg coffee / Alleppey cardamom | KA / KL GI awareness |
+| Coorg coffee / Alleppey cardamom | KA / KL GI note |
 
 ---
 
@@ -556,7 +556,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 - Micro-irrigation (drip/sprinkler) is still a **small** slice of irrigated area. It cuts nutrient loss and can slow groundwater decline in places — it is **not** the only dryland irrigation method. PMKSY (**1 Jul 2015**) “more crop per drop” is the scheme tag.
 - **Protective / life-saving irrigation** = watering at **permanent wilting point (PWP)**.
 - Peninsula classic = **tanks / ponds** (hard rock + seasonal rivers). Sir **Arthur Cotton** is the pioneer of irrigation works in South India.
-- **Uttar Pradesh** leads absolute tubewell / well irrigated area and replenishable groundwater among major states (~**40.7 bcm** for irrigation). UP net irrigated share (**2018–19**): tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**. Spectacular tubewell growth lore = **Saryupar** plain (canal-scarce).
+- **Uttar Pradesh** leads absolute tubewell / well irrigated area and replenishable groundwater among major states (~**40.7 bcm** for irrigation). UP net irrigated share (**2018–19**): tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**. Spectacular tubewell growth note = **Saryupar** plain (canal-scarce).
 
 | Type | Best terrain | Risk / note |
 |------|--------------|-------------|
@@ -656,12 +656,12 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 | Breed | Animal | Tag |
 |-------|--------|-----|
 | Murrah | Buffalo | Haryana / high yield |
-| Bhadawari | Buffalo | UP / Bundelkhand lore |
+| Bhadawari | Buffalo | UP / Bundelkhand note |
 | Gir | Cattle | Gujarat |
-| Sahiwal | Cattle | Punjab-region lore; high milk |
+| Sahiwal | Cattle | Punjab-region note; high milk |
 | Tharparkar | Cattle | Western Rajasthan border |
 | Deoni | Cattle | Dual-purpose |
-| Jamunapari | Goat | UP fame; high milk |
+| Jamunapari | Goat | UP renown; high milk |
 | Barbari / Beetal | Goat | Other common breeds |
 
 - 20th Livestock Census (**2019**): cattle about **193 million**. Top cattle states often **West Bengal, UP, Madhya Pradesh**. Top total livestock often **UP > Rajasthan > MP**. Top sheep often **Telangana**.
@@ -2407,7 +2407,7 @@ D. Kerala spices only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **MP** leads soybean area/production lore and is a major pulse / gram state.
+**Ans: B.** **MP** leads soybean area/production note and is a major pulse / gram state.
 
 </details>
 
@@ -3331,7 +3331,7 @@ D. Hot deserts without irrigation
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UPPCS 2020 Q72. Nagpur is India’s orange fame.
+**Ans: B** — UPPCS 2020 Q72. Nagpur is India’s orange renown.
 </details>
 
 **Q18.** With reference to Uttar Pradesh, which of the following statements is/are correct?
@@ -3989,7 +3989,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both are standard UPSC facts.
+**Ans: C** — Both are standard UPSC associations.
 </details>
 
 **Q58.** With reference to Western Uttar Pradesh, which of the following statements is/are correct?
@@ -4236,7 +4236,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Canal-soil cue. Tanks still dominate much of the hard-rock peninsula.
+**Ans: A** — Canal-soil pair. Tanks still dominate much of the hard-rock peninsula.
 
 </details>
 
@@ -4250,7 +4250,7 @@ C. K.B. Thomas
 
 D. M.S. Randhawa
 
-**Logic:** Author cue vs “Father of Green Revolution” name trap.
+**Logic:** Author pair vs “Father of Green Revolution” name trap.
 
 <details>
 <summary>Show answer</summary>
@@ -4269,7 +4269,7 @@ C. 1970
 
 D. 1980
 
-**Logic:** Year cue for Pantnagar / GBPUAT inauguration.
+**Logic:** Year pair for Pantnagar / GBPUAT inauguration.
 
 <details>
 <summary>Show answer</summary>
@@ -4332,7 +4332,7 @@ C. Cowpea
 
 D. Guar
 
-**Logic:** Percentage N cue among common green manures.
+**Logic:** Percentage N pair among common green manures.
 
 <details>
 <summary>Show answer</summary>
