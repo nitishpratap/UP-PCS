@@ -1,8 +1,8 @@
 # Geography of Uttarakhand (UKPCS)
 
-**Exam track:** UKPCS Unit 2 — Geography of Uttarakhand.  
-**Parent subject:** [Geography](../00_Syllabus.md)  
-**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md)  
+**Exam track:** UKPCS Unit 2 — Geography of Uttarakhand. 
+**Parent subject:** [Geography](../00_Syllabus.md) 
+**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md) 
 **PYQ drill:** [UKPCS Geography PYQ Bank](00_UKPCS_PYQ_Bank_Geography.md)
 
 ## Heads stored in this folder

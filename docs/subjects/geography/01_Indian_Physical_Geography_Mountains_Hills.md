@@ -12,7 +12,7 @@
 **Locational Framework:** Standard Meridian of India | Tropic of Cancer through Indian States | Latitude and Longitude of India | Extreme Points of India | Longest Coastline & Coastal States
 </details>
 
-> **Sources baked in:** NCERT Geography Class 11 (Ch 2–3), Class 12 (Ch 1–2), **PMF IAS** physiography map (Kullar), UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT Geography Class 11 (Ch 2–3), Class 12 (Ch 1–2), physiography map (Kullar), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — map matching, peaks, passes, physiographic traps every year
 > **Last verified:** August 2026
 > **Current Affairs:** Sela Tunnel (Mar 2024, Arunachal); Z-Morh / Sonamarg Tunnel (2025); Atal Tunnel = longest highway tunnel **above 10,000 ft** (not unqualified “world’s longest” — UPPCS 2025 Q44)
@@ -149,8 +149,8 @@ D. Hispar
 
 ![physical-map-india.jpg](physical-map-india.jpg)
 - The **six** relief units used in map questions are Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, and Islands.
-- PMF IAS (Kullar) often lists **five** units and folds the Thar into the **Rajasthan Plain**. UPPCS still asks Thar as a **separate** Pleistocene–recent sand sheet, so keep six.
-- About **43%** of India is plains, **28%** plateau, **19%** hills, and **11%** high mountains (PMF IAS class figures).
+- standard coaching often lists **five** units and folds the Thar into the **Rajasthan Plain**. UPPCS still asks Thar as a **separate** Pleistocene–recent sand sheet, so keep six.
+- About **43%** of India is plains, **28%** plateau, **19%** hills, and **11%** high mountains (coaching class figures).
 - The Himalaya is a **climatic wall**. It blocks cold Central Asian winds in winter and forces orographic rain on the southern slopes in the monsoon.
 - The Peninsular Plateau is **not** the same as the Deccan Plateau. The Deccan is the **southern** tableland. The Central Highlands (Malwa, Bundelkhand, Baghelkhand) are the **northern** part of the same old block.
 - The plateau is tilted **high in the west and low in the east**. That is why most peninsular rivers drain to the Bay of Bengal.
@@ -591,7 +591,7 @@ D. Depth of upper trap – approximately 450 metres
 - **Hazaribagh Plateau** lies north of Damodar. **Ranchi Plateau** lies south of Damodar.
 - The **Rajmahal Hills** are the north-eastern basalt edge of Chotanagpur.
 - The **Meghalaya Plateau** is Garo–Khasi–Jaintia. The **Malda / Garo–Rajmahal Gap** is a down-fault filled by Ganga–Brahmaputra alluvium.
-- **Mikir (Karbi) Hills** are listed with this north-eastern block in the PMF IAS map.
+- **Mikir (Karbi) Hills** are listed with this north-eastern block in the coaching map.
 - **Jharia** and **Bokaro** are the Damodar-rift coalfields. Iron and mica are the other Chotanagpur matchs.
 - Chotanagpur is the easternmost unit of the west-to-east central-India hill sequence.
 
@@ -612,7 +612,7 @@ D. Depth of upper trap – approximately 450 metres
 
 | Pass | State / UT | Route / note | Trap |
 |------|------------|--------------|------|
-| **Burzil** | J&K / Ladakh | Greater Himalaya (PMF IAS pass table) | — |
+| **Burzil** | J&K / Ladakh | Greater Himalaya (coaching pass table) | — |
 | **Thaga La** | Uttarakhand | Greater Himalaya with Niti / Lipulekh | — |
 | **Zoji La** | Ladakh / J&K | Srinagar–Kargil–Leh | Pair with Z-Morh tunnel |
 | **Banihal** | J&K | Jammu–Srinagar; Jawahar Tunnel | Not a Tibet pass |

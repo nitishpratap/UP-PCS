@@ -9,7 +9,7 @@
 **Protected areas:** National Parks | Wildlife Sanctuaries | Biosphere Reserves (18; Nilgiri first) | Ramsar Sites | Mangroves | Coral Reefs | Project Tiger / Elephant
 </details>
 
-> **Sources baked in:** NCERT Class 9–11, **PMF IAS** Champion–Seth vegetation + mangroves + biodiversity (Kullar), **Ghatnachakra** Natural Vegetation (CA–164–170), ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025 + older UPPCS/UKPCS vegetation stems
+> **Sources baked in:** NCERT Class 9–11, Champion–Seth vegetation + mangroves + biodiversity (Kullar), **Ghatnachakra** Natural Vegetation (CA–164–170), ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025 + older UPPCS/UKPCS vegetation stems
 > **Weight:** ★★★★ — type×rain×region, PA–state, UP Dudhwa/Ramsar, biosphere traps, Project chronology
 > **Last verified:** September 2026
 > **Current Affairs:Surha Tal (Ballia)** = India’s **100th Ramsar** (5 Jun 2026); UP **13**; MISHTI = Budget **2023–24** (not 2019)
@@ -60,7 +60,7 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 26. Keystone species collapse an ecosystem if lost; flagship species are public mascots — do not treat them as the same idea.
 27. India has about **50,000** rice strains and about **1,000** mango varieties in the usual diversity teaching line.
 28. Tea and rubber estates are **plantations**, not climax evergreen forest. Moist and dry deciduous belong to one monsoon-forest family split by rainfall.
-29. Tropical evergreen is also called **Selvas**. Coaching cue: rain **>200 cm**, mean annual temperature above about **22°C**, humidity near **70%** (PMF often writes humidity **>77%** and wet evergreen **>250 cm**).
+29. Tropical evergreen is also called **Selvas**. Coaching cue: rain **>200 cm**, mean annual temperature above about **22°C**, humidity near **70%** (coaching notes often write humidity **>77%** and wet evergreen **>250 cm**).
 30. **Butea monosperma** is the **flame of the forest**, also called **Dhak** or **Palash**, and is the **state flower of Uttar Pradesh**.
 31. **Katha** is obtained from **khair** wood. **Khejri** is the multipurpose “king of the desert” tree used in social forestry.
 32. Tree-line is **lower** in the **Western** Himalaya (about **3300–3600 m**) than in the Eastern / Central Himalaya (about **3600–3800 m**). Alpine belts also sit higher in the east because that side is nearer the equator and the sea.
@@ -96,7 +96,7 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 | Nilgiri BR | **First** Indian BR (1986) | Call Nanda Devi first | नीलगिरि पहला |
 | Hotspot count | **Four** Indian hotspots | Mix with 18 BRs | चार हॉटस्पॉट |
 | 2010 hotspot names | Himalaya + WG–SL + Indo-Burma + Sundaland (Nicobar) | Split Himalaya E/W + Andaman as the four | निकोबार = सुंडालैंड |
-| Wet evergreen rain | NCERT **>200 cm**; PMF often **>250** for wet evergreen | Mix the two numbers in one stem | 200 NCERT / 250 PMF |
+| Wet evergreen rain | NCERT **>200 cm**; coaching often **>250** for wet evergreen | Mix the two numbers in one stem | 200 NCERT / 250 coaching |
 | Dry evergreen vs wet evergreen | Dry evergreen = **TN coast**, NE monsoon ~100 cm | Call it Western Ghat rain forest | कोरोमंडल शुष्क सदाबहार |
 | Chir vs deodar belt | Chir = **subtropical pine** 1000–2000 m west; deodar = temperate | Swap belts | चीड़ निचला; देवदार ऊँचा |
 | Keystone vs flagship | Keystone = ecosystem collapse if lost; flagship = public mascot | Call panda a keystone fact for India | कीस्टोन ≠ फ्लैगशिप |
@@ -139,9 +139,9 @@ NCERT five-type frame: Tropical Evergreen (& Semi-Evergreen) | Tropical Deciduou
 - Evergreen ≠ “any green tree in monsoon India.”
 - Tea / rubber **estates** are plantations, not climax evergreen.
 
-**Champion and Seth (PMF 5 × 16 map)**
+**Champion and Seth (5 × 16 map)**
 
-Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixteen** sub-types. NCERT’s five climate types still win the first stem. The 16 names win a “which is a dry tropical / montane temperate” stem.
+Coaching (standard coaching) splits Indian vegetation into **five** heads and **sixteen** sub-types. NCERT’s five climate types still win the first stem. The 16 names win a “which is a dry tropical / montane temperate” stem.
 
 | Head | Sub-types |
 |------|-----------|
@@ -151,7 +151,7 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 | **Montane temperate** | Wet temperate · Himalayan moist temperate · Himalayan dry temperate |
 | **Alpine** | Sub-alpine · Moist alpine scrub · Dry alpine scrub |
 
-| Share of forest area (PMF class figures) | Type |
+| Share of forest area (coaching class figures) | Type |
 |------------------------------------------|------|
 | About **37%** | Tropical **moist deciduous** (largest) |
 | About **28%** | Tropical **dry deciduous** |
@@ -162,18 +162,18 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 - Rain on the **plains** sets the type. Above about **900 m**, **temperature** (altitude) takes over.
 - **Soil** is the main control for mangroves and swamps. **Topography** makes alpine and tidal belts local.
 
-**PMF rain table vs NCERT ladder**
+**Coaching rain table vs NCERT ladder**
 
-- **>200 cm** (PMF wet evergreen often **>250**): rain forest.
+- **>200 cm** (coaching often puts wet evergreen above **250**): rain forest.
 - **100–200 cm**: monsoon deciduous (moist).
 - **50–100 cm**: drier deciduous / savanna-like.
 - **25–50 cm**: dry thorn (semi-arid).
 - **<25 cm**: desert.
 - NCERT thorn is **<50–70 cm**. Keep **moist deciduous = largest**. Do not fight a UPPCS rain number with a second table in the same stem.
 
-### Biodiversity (PMF terms)
+### Biodiversity
 
-- **Biodiversity** = variety of life. splits it as **genetic**, **species** and **ecosystem** (ecological) diversity.
+- **Biodiversity** is the variety of life. It is split as **genetic**, **species**, and **ecosystem** (ecological) diversity.
 - **Species richness** = how many species. **Evenness** = how evenly they are abundant. Same richness can hide a few dominant species.
 - **Alpha** = diversity **inside** one ecosystem. **Beta** = change **between** ecosystems. **Gamma** = diversity of a whole **region**.
 - Species diversity **falls equator → poles**. Amazon is the peak. Insects are the richest animal group. Fungi outnumber fish+amphibians+reptiles+mammals combined.
@@ -217,7 +217,7 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 
 ### Evergreen & semi-evergreen
 
-- Needs equable heat + heavy rain. Coaching / Ghatnachakra cue: rain **>200 cm**, mean annual temperature above about **22°C**, relative humidity near **70%**. PMF wet evergreen often writes **>250 cm**, about **25–27°C**, humidity **>77%**, short dry season.
+- Needs equable heat + heavy rain. Coaching / Ghatnachakra cue: rain **>200 cm**, mean annual temperature above about **22°C**, relative humidity near **70%**. Coaching notes often put wet evergreen above **250 cm**, about **25–27°C**, humidity **>77%**, with a short dry season.
 - Different species shed leaves at different times, so the canopy stays green year-round. These forests are also called **Selvas**.
 - Trees are **mesophytes** (not cactus, not water lily). Height **45–60 m**. A closed canopy; epiphytes fight for light; undergrowth is bamboo, fern, orchid.
 - Hardwood (mahogany, rosewood, ebony, mesua, white cedar, jamun) is valuable but **hard to log** (no pure stands, dense climbers, poor roads).
@@ -225,7 +225,7 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 - Belt: **windward Western Ghats** (about 500–1370 m), **Assam–Meghalaya–Tripura–Mizoram / Purvanchal**, **West Bengal** wet pockets, **Kerala**, **Andaman–Nicobar**, and parts of the western coastal plain. Not a UP plains type.
 - **Cinchona** grows in Assam, Kerala, and West Bengal evergreen belts. It does **not** grow as a Chhattisgarh dry-deciduous fact.
 - **Silent Valley (Kerala)** is the classic tropical evergreen / rain-forest name in match stems.
-- Semi-evergreen is the **transition**: PMF rain **200–250 cm**, a longer dry season, **buttressed** trunks, more **gregarious** (purer stands), so timber is easier than in true rain forest.
+- Semi-evergreen is the **transition**: coaching rain **200–250 cm**, a longer dry season, **buttressed** trunks, more **gregarious** (purer stands), so timber is easier than in true rain forest.
 - Semi-evergreen: western coast, Assam, lower eastern Himalaya, Odisha, Andamans. Laurel, rosewood, champa, mango, Indian chestnut.
 
 ### Deciduous (monsoon forest)
@@ -235,13 +235,13 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 - Irregular top storey **25–60 m**, buttresses, undergrowth. **Teak and sal** form useful **pure stands**, so these forests are easier to exploit than evergreen.
 - Moist deciduous belt: **eastern slopes of the Western Ghats**, north-eastern peninsula, **Bhabar and Terai**, Chota Nagpur, eastern MP–Chhattisgarh, Odisha, parts of WB, Manipur–Mizoram, Andamans.
 - Trees of moist deciduous: **sal, teak, neem, shisham, mango** (plus sandalwood in the broader coaching set). Hardwoods dominate furniture timber.
-- **Dry deciduous** is the drier twin (NCERT **70–100 cm**; PMF also writes 100–150 as a wide strip). Found widely in **Uttar Pradesh**, Andhra Pradesh, Maharashtra, Karnataka, and Tamil Nadu, and from the central Gangetic plain toward southern India. Main trees: **rosewood, mango, sandalwood, mahua**. Wetter side → moist deciduous. Drier side → thorn. Closed but uneven canopy, grass on the floor.
+- **Dry deciduous** is the drier twin (NCERT **70–100 cm**; Coaching notes also write 100–150 as a wide strip). Found widely in **Uttar Pradesh**, Andhra Pradesh, Maharashtra, Karnataka, and Tamil Nadu, and from the central Gangetic plain toward southern India. Main trees: **rosewood, mango, sandalwood, mahua**. Wetter side → moist deciduous. Drier side → thorn. Closed but uneven canopy, grass on the floor.
 - Standard NCERT / ISFR teaching: teak and sal are signature products of the **moist deciduous** (largest-area) belt; Madhya Pradesh leads among common state options for dense deciduous / teak area. Some older keys put “teak and sal” under dry deciduous — prefer the moist-deciduous NCERT line unless the stem forces the older key.
 - Large tracts of both deciduous types have been **cleared for crops**. Fire and grazing thin what remains.
 - UP north belt = Terai teak–sal; UP south = Vindhyan Sonbhadra–Mirzapur–Chandauli.
 - **Butea monosperma** (**Palash / Dhak**) is called the **flame of the forest**. It is the **state flower of Uttar Pradesh**. It also appears in thorn / dry belts as **palas**.
 
-### Tropical dry evergreen (PMF extra)
+### Tropical dry evergreen(coaching extra)
 
 - A **strange evergreen** on the **Tamil Nadu / Coromandel** coast with only about **100 cm** rain, mostly from the **north-east monsoon** (Oct–Dec).
 - Short trees (to about **12 m**), closed canopy; jamun, tamarind, neem. Bamboo and grass are not conspicuous.
@@ -250,7 +250,7 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 
 ### Thorn / scrub (arid / tropical thorn)
 
-- Also called **tropical thorn forests** or arid forests. PMF: rain **<75 cm** (NCERT / Ghatnachakra often **<70 cm**), humidity **<50%**, temperature about **25–30°C**, trees only **6–10 m** and scattered. **Acacia and Euphorbia** dominate.
+- Also called **tropical thorn forests** or arid forests. Coaching: rain **<75 cm** (NCERT / Ghatnachakra often **<70 cm**), humidity **<50%**, temperature about **25–30°C**, trees only **6–10 m** and scattered. **Acacia and Euphorbia** dominate.
 - Long dry season; spines, small leaves, deep roots, thick bark (**xerophytes**). Plants may stay leafless for much of the year. Grasses and shrubs are common.
 - Semi-arid belt: south-west Punjab, south-west Haryana, Rajasthan, Gujarat (Kachchh–Saurashtra), then **rain-shadow** of the Western Ghats including western Andhra Pradesh (classic “open stunted forests with long roots and sharp thorns” stem).
 - Important species: **babool, ber, wild date palm, khair, neem, khejri, palas**.
@@ -260,7 +260,7 @@ Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixte
 
 ### Montane (altitude elevator)
 
-- Temperature falls with height → stacked belts. PMF: altitude rules above about **900 m**. Mountain forests split into **northern (Himalayan)** and **southern (peninsular hill)** sets.
+- Temperature falls with height → stacked belts. Coaching: altitude rules above about **900 m**. Mountain forests split into **northern (Himalayan)** and **southern (peninsular hill)** sets.
 - Rough Himalayan stack: foothill tropical / subtropical deciduous → **wet temperate oak–chestnut** (about **1000–2000 m**) → **chir / deodar / pine / spruce / fir** on southern slopes about **2000–3000 m** → alpine juniper / rhododendron / birch → **bugyals** → snow.
 - **Sub-tropical broad-leaved hill** forests: eastern Himalaya east of **88°E**, **1000–2000 m** — evergreen oak, chestnut, ash; also stunted on Nilgiri–Palani, Mahabaleshwar, Satpura–Maikal, Bastar, **Mt Abu**.
 - **Sub-tropical moist pine**: western Himalaya **73°E–88°E**, **1000–2000 m**. **Chir / chil** in pure stands; timber, **resin and turpentine**. Also Khasi–Naga–Manipur hills.
@@ -347,7 +347,7 @@ D. Stamp
 
 ## N.4 Plant Acclimatization & Adaptations
 
-**Acclimatization** = organism adjusting to a new climate. uses **adaptation types**:
+**Acclimatization** is an organism adjusting to a new climate. Teaching uses these **adaptation types**:
 
 | Type | Meaning | Example |
 |------|---------|---------|
@@ -1319,16 +1319,15 @@ D. Only 1
 
 Older vegetation stems from Ghatnachakra CA–164–170. Soil-erosion ladder and Victoria Falls from the same pages live in Soils / World chapters — not repeated here.
 
-**Logic:** Birch is Himalayan alpine / moist alpine scrub, not Aravalli–Nilgiri–Vindhya.
 
 **Q-GC1. UKPCS Prelims 2006**
 
 The birch tree is found in
 
-A. Aravallis  
-B. Himalayas  
-C. Nilgiris  
-D. Vindhyas  
+A. Aravallis 
+B. Himalayas 
+C. Nilgiris 
+D. Vindhyas 
 
 <details>
 <summary>Show answer</summary>
@@ -1337,16 +1336,15 @@ D. Vindhyas
 
 </details>
 
-**Logic:** Product–tree pair; khair yields katha, not sal or babool.
 
 **Q-GC2.**
 
 Which of the following woods is used for manufacturing Katha?
 
-A. Sal  
-B. Khair  
-C. Babool  
-D. Saaja  
+A. Sal 
+B. Khair 
+C. Babool 
+D. Saaja 
 
 <details>
 <summary>Show answer</summary>
@@ -1355,16 +1353,15 @@ D. Saaja
 
 </details>
 
-**Logic:** Area-share stem — moist deciduous is largest (~37%); wet evergreen is small.
 
 **Q-GC3. IAS Prelims 2010**
 
 In India, which type of forest among the following occupies the largest area?
 
-A. Montane Wet Temperate Forest  
-B. Sub-tropical Dry Evergreen Forest  
-C. Tropical Moist Deciduous Forest  
-D. Tropical Wet Evergreen Forest  
+A. Montane Wet Temperate Forest 
+B. Sub-tropical Dry Evergreen Forest 
+C. Tropical Moist Deciduous Forest 
+D. Tropical Wet Evergreen Forest 
 
 <details>
 <summary>Show answer</summary>
@@ -1373,16 +1370,15 @@ D. Tropical Wet Evergreen Forest
 
 </details>
 
-**Logic:** Teak–sal signature of monsoon deciduous; prefer moist-deciduous NCERT teaching.
 
 **Q-GC4. UPPCS Mains 2007**
 
 Teak and Sal are the products of
 
-A. Tropical Dry Deciduous Forests  
-B. Tropical Evergreen Forests  
-C. Tropical Thorn Forests  
-D. Alpine Forests  
+A. Tropical Dry Deciduous Forests 
+B. Tropical Evergreen Forests 
+C. Tropical Thorn Forests 
+D. Alpine Forests 
 
 <details>
 <summary>Show answer</summary>
@@ -1391,16 +1387,15 @@ D. Alpine Forests
 
 </details>
 
-**Logic:** Tree-line is lower in the Western Himalaya than in the Eastern Himalaya.
 
 **Q-GC5. UPPCS Mains 2005**
 
 Compared to the Eastern Himalayas, the height of the tree-line in the Western Himalayas is
 
-A. More  
-B. Less  
-C. Same  
-D. Unrelated variable  
+A. More 
+B. Less 
+C. Same 
+D. Unrelated variable 
 
 <details>
 <summary>Show answer</summary>
@@ -1409,16 +1404,15 @@ D. Unrelated variable
 
 </details>
 
-**Logic:** Western Himalayan temperate zone abundance fact.
 
 **Q-GC6. UKPCS UDA/LDA Prelims 2003**
 
 Which one of the following trees is abundant in the temperate zone of Western Himalayas?
 
-A. Pine  
-B. Deodar  
-C. Silver fir  
-D. Blue pine  
+A. Pine 
+B. Deodar 
+C. Silver fir 
+D. Blue pine 
 
 <details>
 <summary>Show answer</summary>
@@ -1427,17 +1421,16 @@ D. Blue pine
 
 </details>
 
-**A/R logic:** A tests which slope is denser; R tests rainfall contrast. A is false; R is true.
 
 **Q-GC7. UP RO/ARO Prelims 2023**
 
-**Assertion (A):** The northern slopes of the Himalayas have a thicker vegetation cover compared to the southern slopes.  
+**Assertion (A):** The northern slopes of the Himalayas have a thicker vegetation cover compared to the southern slopes. 
 **Reason (R):** Southern slopes of the Himalayas receive more rainfall than the northern slopes.
 
-A. (A) is false but (R) is true  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-D. (A) is true but (R) is false  
+A. (A) is false but (R) is true 
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A) 
+C. Both (A) and (R) are true and (R) is the correct explanation of (A) 
+D. (A) is true but (R) is false 
 
 <details>
 <summary>Show answer</summary>
@@ -1446,16 +1439,15 @@ D. (A) is true but (R) is false
 
 </details>
 
-**Logic:** Cinchona needs evergreen / high-rain belts; Chhattisgarh is dry / monsoon deciduous country.
 
 **Q-GC8. UPPSC GIC 2010**
 
 In which one of the following states do Cinchona trees not grow?
 
-A. Assam  
-B. Kerala  
-C. Chhattisgarh  
-D. West Bengal  
+A. Assam 
+B. Kerala 
+C. Chhattisgarh 
+D. West Bengal 
 
 <details>
 <summary>Show answer</summary>
@@ -1464,16 +1456,15 @@ D. West Bengal
 
 </details>
 
-**Logic:** Botanical name of flame of the forest / UP state flower.
 
 **Q-GC9.**
 
 Which one of the following is called ‘flame of the forest’?
 
-A. Bauhinia variegata  
-B. Jacaranda mimosifolia  
-C. Butea monosperma  
-D. Tectona grandis  
+A. Bauhinia variegata 
+B. Jacaranda mimosifolia 
+C. Butea monosperma 
+D. Tectona grandis 
 
 <details>
 <summary>Show answer</summary>
@@ -1482,16 +1473,15 @@ D. Tectona grandis
 
 </details>
 
-**Logic:** Alpine belt climbs higher in the east because that side is nearer the equator and the sea.
 
 **Q-GC10. IAS Prelims 1995**
 
 The alpine vegetation in the western Himalayas is found only up to a height of 3000 metres while in the eastern Himalayas it is found up to a height of 4000 metres. The reason is that
 
-A. Eastern Himalayas are higher than the western Himalayas  
-B. Eastern Himalayas are nearer to the equator and sea coast than the western Himalayas  
-C. Eastern Himalayas get more monsoon rainfall than the western Himalayas  
-D. Eastern Himalayan rocks are more fertile than the western Himalayan rocks  
+A. Eastern Himalayas are higher than the western Himalayas 
+B. Eastern Himalayas are nearer to the equator and sea coast than the western Himalayas 
+C. Eastern Himalayas get more monsoon rainfall than the western Himalayas 
+D. Eastern Himalayan rocks are more fertile than the western Himalayan rocks 
 
 <details>
 <summary>Show answer</summary>
@@ -1500,7 +1490,6 @@ D. Eastern Himalayan rocks are more fertile than the western Himalayan rocks
 
 </details>
 
-**Logic:** Match species to region; teak = Central India; deodar = high Himalaya; sundari = Sundarbans; cinchona = Terai / evergreen coaching pair.
 
 **Q-GC11. UPPCS Prelims 1992**
 
@@ -1515,10 +1504,10 @@ Match the following
 
 *Row order is not the answer code.*
 
-A. A-2, B-4, C-3, D-1  
-B. A-3, B-2, C-1, D-4  
-C. A-4, B-1, C-3, D-2  
-D. A-2, B-3, C-4, D-1  
+A. A-2, B-4, C-3, D-1 
+B. A-3, B-2, C-1, D-4 
+C. A-4, B-1, C-3, D-2 
+D. A-2, B-3, C-4, D-1 
 
 <details>
 <summary>Show answer</summary>
@@ -1527,16 +1516,15 @@ D. A-2, B-3, C-4, D-1
 
 </details>
 
-**Logic:** Sundarbans = littoral / tidal mangrove.
 
 **Q-GC12.**
 
 Sundarbans are which of the following types of forests?
 
-A. Tropical dry deciduous forest  
-B. Alpine forest  
-C. Sub-tropical pine forest  
-D. Littoral or Tidal forest  
+A. Tropical dry deciduous forest 
+B. Alpine forest 
+C. Sub-tropical pine forest 
+D. Littoral or Tidal forest 
 
 <details>
 <summary>Show answer</summary>
@@ -1545,16 +1533,15 @@ D. Littoral or Tidal forest
 
 </details>
 
-**Logic:** Only Sundari–West Bengal is the correct pair among common traps.
 
 **Q-GC13. IAS Prelims 1997**
 
 Which one of the following pairs is correctly matched?
 
-A. Teak : Jammu and Kashmir  
-B. Deodar : Madhya Pradesh  
-C. Sandalwood : Kerala  
-D. Sundari : West Bengal  
+A. Teak : Jammu and Kashmir 
+B. Deodar : Madhya Pradesh 
+C. Sandalwood : Kerala 
+D. Sundari : West Bengal 
 
 <details>
 <summary>Show answer</summary>
@@ -1563,7 +1550,6 @@ D. Sundari : West Bengal
 
 </details>
 
-**Logic:** Moist deciduous–Tarai; dry deciduous–Middle Ganga Plain; alpine–Arunachal; evergreen–Sahyadris.
 
 **Q-GC14. UPPCS Prelims 2001**
 
@@ -1578,10 +1564,10 @@ Match List-I with List-II
 
 *Row order is not the answer code.*
 
-A. A-4, B-3, C-1, D-2  
-B. A-4, B-2, C-1, D-3  
-C. A-1, B-3, C-2, D-4  
-D. A-3, B-1, C-4, D-2  
+A. A-4, B-3, C-1, D-2 
+B. A-4, B-2, C-1, D-3 
+C. A-1, B-3, C-2, D-4 
+D. A-3, B-1, C-4, D-2 
 
 <details>
 <summary>Show answer</summary>
@@ -1590,7 +1576,6 @@ D. A-3, B-1, C-4, D-2
 
 </details>
 
-**Logic:** Silent Valley = tropical evergreen; Himachal = conifer; Sundarbans = mangrove; Rajasthan = deciduous / thorn country.
 
 **Q-GC15. UPPCS Prelims 2017**
 
@@ -1605,10 +1590,10 @@ Match List-I with List-II
 
 *Row order is not the answer code.*
 
-A. A-1, B-2, C-4, D-3  
-B. A-2, B-1, C-4, D-3  
-C. A-1, B-4, C-2, D-3  
-D. A-4, B-2, C-1, D-3  
+A. A-1, B-2, C-4, D-3 
+B. A-2, B-1, C-4, D-3 
+C. A-1, B-4, C-2, D-3 
+D. A-4, B-2, C-1, D-3 
 
 <details>
 <summary>Show answer</summary>
@@ -1617,16 +1602,15 @@ D. A-4, B-2, C-1, D-3
 
 </details>
 
-**Logic:** Open stunted thorny scrub = tropical thorn forest of rain-shadow / western Andhra Pradesh.
 
 **Q-GC16. IAS Prelims 2002**
 
 Open stunted forests with bushes and small trees having long roots and sharp thorns / spines are commonly found in
 
-A. Eastern Odisha  
-B. North-Eastern Tamil Nadu  
-C. Siwaliks and Terai region  
-D. Western Andhra Pradesh  
+A. Eastern Odisha 
+B. North-Eastern Tamil Nadu 
+C. Siwaliks and Terai region 
+D. Western Andhra Pradesh 
 
 <details>
 <summary>Show answer</summary>
@@ -1635,16 +1619,15 @@ D. Western Andhra Pradesh
 
 </details>
 
-**Logic:** Among deodar / pine / sal / teak, deodar occupies the highest elevation belt.
 
 **Q-GC17. UKPCS Prelims 2002**
 
 Which among the following trees is found at the highest elevation from the sea level?
 
-A. Deodar  
-B. Pine  
-C. Sal  
-D. Teak  
+A. Deodar 
+B. Pine 
+C. Sal 
+D. Teak 
 
 <details>
 <summary>Show answer</summary>
@@ -1653,16 +1636,15 @@ D. Teak
 
 </details>
 
-**Logic:** Mahogany is tropical, not Himalayan.
 
 **Q-GC18. IAS Prelims 2008**
 
 Which one of the following is not essentially a species of the Himalayan vegetation?
 
-A. Juniper  
-B. Mahogany  
-C. Silver fir  
-D. Spruce  
+A. Juniper 
+B. Mahogany 
+C. Silver fir 
+D. Spruce 
 
 <details>
 <summary>Show answer</summary>
@@ -1671,16 +1653,15 @@ D. Spruce
 
 </details>
 
-**Logic:** Multipurpose arid social-forestry tree.
 
 **Q-GC19. UPPCS Mains 2002**
 
 An example of a multipurpose tree used in social forestry is
 
-A. Sheesham  
-B. Dhak  
-C. Eucalyptus  
-D. Khejri  
+A. Sheesham 
+B. Dhak 
+C. Eucalyptus 
+D. Khejri 
 
 <details>
 <summary>Show answer</summary>
@@ -1689,7 +1670,6 @@ D. Khejri
 
 </details>
 
-**Logic:** State–mangrove match; Vembanad is Kerala.
 
 **Q-GC20. IAS Prelims 2002**
 
@@ -1701,14 +1681,14 @@ Match List-I (Mangrove) with List-II (State)
 | B. Coondapur | 2. Kerala |
 | C. Pichavaram | 3. Andhra Pradesh |
 | D. Vembanad | 4. Maharashtra |
-|  | 5. Tamil Nadu |
+| | 5. Tamil Nadu |
 
 *Row order is not the answer code.*
 
-A. A-2, B-1, C-5, D-4  
-B. A-4, B-5, C-3, D-2  
-C. A-2, B-5, C-3, D-4  
-D. A-4, B-1, C-5, D-2  
+A. A-2, B-1, C-5, D-4 
+B. A-4, B-5, C-3, D-2 
+C. A-2, B-5, C-3, D-4 
+D. A-4, B-1, C-5, D-2 
 
 <details>
 <summary>Show answer</summary>
@@ -1717,16 +1697,15 @@ D. A-4, B-1, C-5, D-2
 
 </details>
 
-**Logic:** Wrong-pair trap — Vembanad is Kerala, not Karnataka.
 
 **Q-GC21. UKPCS UDA Prelims 2003 / UP Lower Sub. 2002**
 
 Which of the following is not correctly matched?
 
-A. Sundarbans — West Bengal  
-B. Bhitarkanika — Odisha  
-C. Pichavaram — Tamil Nadu  
-D. Vembanad — Karnataka  
+A. Sundarbans — West Bengal 
+B. Bhitarkanika — Odisha 
+C. Pichavaram — Tamil Nadu 
+D. Vembanad — Karnataka 
 
 <details>
 <summary>Show answer</summary>
@@ -1735,16 +1714,15 @@ D. Vembanad — Karnataka
 
 </details>
 
-**Logic:** Tropical rainforest = high-rain Assam and Kerala set among options.
 
 **Q-GC22.**
 
 Tropical rainforest in India is found in
 
-A. Assam and Nagaland  
-B. Odisha and Chhattisgarh  
-C. Uttar Pradesh and Maharashtra  
-D. Assam and Kerala  
+A. Assam and Nagaland 
+B. Odisha and Chhattisgarh 
+C. Uttar Pradesh and Maharashtra 
+D. Assam and Kerala 
 
 <details>
 <summary>Show answer</summary>
@@ -1753,16 +1731,15 @@ D. Assam and Kerala
 
 </details>
 
-**Logic:** Habitat adaptation contrast, not antler / musk distractors.
 
 **Q-GC23. IAS Prelims 2012**
 
 What is the difference between the antelopes Oryx and Chiru?
 
-A. Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains  
-B. Oryx is poached for its antlers whereas Chiru is poached for its musk  
-C. Oryx exists in western India only whereas Chiru exists in North-East India only  
-D. None of the statements (a), (b) and (c) given above is correct  
+A. Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains 
+B. Oryx is poached for its antlers whereas Chiru is poached for its musk 
+C. Oryx exists in western India only whereas Chiru exists in North-East India only 
+D. None of the statements (a), (b) and (c) given above is correct 
 
 <details>
 <summary>Show answer</summary>
@@ -1771,16 +1748,15 @@ D. None of the statements (a), (b) and (c) given above is correct
 
 </details>
 
-**Logic:** Fern is spore-bearing and flowerless.
 
 **Q-GC24. UPPCS Prelims 1991**
 
 Which of the following plants have no flowers?
 
-A. Jackfruit  
-B. Fig  
-C. Orchid  
-D. Fern  
+A. Jackfruit 
+B. Fig 
+C. Orchid 
+D. Fern 
 
 <details>
 <summary>Show answer</summary>
@@ -2819,7 +2795,7 @@ D. in alpine Ladakh as juniper scrub
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — PMF “strange evergreen” of a relatively dry east coast. Jamun, tamarind, neem.
+**Ans: B** — Coaching “strange evergreen” of a relatively dry east coast. Jamun, tamarind, neem.
 
 </details>
 
@@ -2893,7 +2869,7 @@ D. Neotropical and Afrotropical
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — PMF / wildlife-planning fact. Ten biogeographic **zones** are a different list.
+**Ans: B** — wildlife-planning fact. Ten biogeographic **zones** are a different list.
 
 </details>
 

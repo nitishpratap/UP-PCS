@@ -10,7 +10,7 @@
 **Revolutions:** Green | White | Blue | Yellow | Golden | Silver | Pink | Rainbow | Evergreen
 </details>
 
-> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), **PMF IAS** cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra** Agriculture (institutions, practices, variety/disease facts, board HQs), UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra** Agriculture (institutions, practices, variety/disease facts, board HQs), UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — crop triples, ACZ 15, revolutions match, CACP/MSP/FRP, GR personalities, UP cane/potato
 > **Last verified:** August 2026
 > **Current Affairs:** CCEA MSP — **22 mandated crops**; CACP recommends → Cabinet; Kharif 2026–27 common paddy **₹2,441/q**; MSP ≥ **1.5×** cost (Budget 2018–19)
@@ -176,7 +176,7 @@ India’s land-use reporting (NCERT / Ministry framing) splits reported area int
 - Pre-1965: rainfed subsistence, coarse cereals and pulses, low yield.
 - GR 1965–90: rice–wheat HYV belts, then **monoculture** and water stress.
 - After 1991: more horticulture, commercial crops and contract farming.
-- Cropping intensity rose from about **111% (1950–51)** to about **156%** now (PMF). Irrigation and HYV made the extra sowings possible.
+- Cropping intensity rose from about **111% (1950–51)** to about **156%** now . Irrigation and HYV made the extra sowings possible.
 - About **86%** of holdings are small or marginal (Agriculture Census **2015–16**: small + marginal ≈ **86.2%** of farmers but only about **47%** of operated area). That caps machines and diversification.
 - Holding size classes: **marginal < 1 ha**; small 1–2 ha; semi-medium 2–4 ha; medium 4–10 ha; large **> 10 ha**.
 - Average size of operational holdings is often largest in **Rajasthan** among major states.
@@ -216,7 +216,7 @@ India’s land-use reporting (NCERT / Ministry framing) splits reported area int
 Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **China**. The Union Agriculture Minister in **2024–25** claimed India had become **#1**. Keep the two stems apart. Do not “update” an old PYQ key.
 
 - Temperature typically **>~20–27°C** (NCERT often stresses **>25°C** with high humidity).
-- Rain **~100 cm+** in NCERT. Many PMF notes use **>150 cm** for the humid core. Punjab rice is **irrigation**, not 150 cm rain.
+- Rain **~100 cm+** in NCERT. Many coaching notes use **>150 cm** for the humid core. Punjab rice is **irrigation**, not 150 cm rain.
 - Soil: **clayey / alluvial** that puddles; standing water is typical.
 - Main season = **kharif** in the north. With irrigation, the south can grow rice **almost year-round**.
 - East also grows three paddies: **Aus / Aman / Boro** (Assam, West Bengal, Odisha).
@@ -252,7 +252,7 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 - Cool while growing (~10–15°C); **brighter / warmer while ripening** (~20–25°C).
 - UPSC framing: **moderate temperature and moderate rainfall** (not high heat + heavy rain).
 - Frost at flowering or rain at harvest hurts yield.
-- Rain **50–75 cm** evenly (PMF often ~**75 cm**), or irrigation; well-drained **alluvial loam**.
+- Rain **50–75 cm** evenly (coaching often ~**75 cm**), or irrigation; well-drained **alluvial loam**.
 - Two textbook belts: (1) **Ganga–Satluj** plains of the north-west; (2) **black-soil** Deccan wheat.
 - Core states: **UP, Punjab, Haryana** (+ MP, RJ, Bihar).
 - **Assam–Wheat is wrong**.
@@ -2399,7 +2399,7 @@ D. a frost-loving Himalayan crop
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — PMF / NCERT cotton framing. About two-thirds rainfed. Frost is injurious.
+**Ans: B** — NCERT / coaching cotton framing. About two-thirds rainfed. Frost is injurious.
 
 </details>
 
@@ -2456,7 +2456,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — PMF canal-soil cue. Tanks still dominate much of the hard-rock peninsula.
+**Ans: A** — Coaching canal-soil cue. Tanks still dominate much of the hard-rock peninsula.
 
 </details>
 

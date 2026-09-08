@@ -113,10 +113,10 @@ Consider the following statements about Nanda Devi Biosphere Reserve:
 1. It is a World Heritage Site.
 2. Its inhabitants include snow leopard, musk deer and blue sheep.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
-D. Neither 1 nor 2  
+A. Only 1 
+B. Only 2 
+C. Both 1 and 2 
+D. Neither 1 nor 2 
 
 <details>
 <summary>Show answer</summary>
@@ -140,10 +140,10 @@ Match sanctuaries with districts:
 
 *Row order is not the answer code.*
 
-A. A-3, B-4, C-2, D-1  
-B. A-3, B-4, C-1, D-2  
-C. A-4, B-3, C-1, D-2  
-D. A-1, B-2, C-3, D-4  
+A. A-3, B-4, C-2, D-1 
+B. A-3, B-4, C-1, D-2 
+C. A-4, B-3, C-1, D-2 
+D. A-1, B-2, C-3, D-4 
 
 <details>
 <summary>Show answer</summary>
@@ -156,13 +156,13 @@ D. A-1, B-2, C-3, D-4
 
 **UKPCS Prelims 2025, Q108**
 
-Assertion (A): Uttarakhand is rich in forest and bio-diversity.  
+Assertion (A): Uttarakhand is rich in forest and bio-diversity. 
 Reason (R): Topography and climate primarily determine the forest and bio-diversity.
 
-A. Both true, R not correct explanation  
-B. Both true and R is correct explanation  
-C. A true, R false  
-D. A false, R true  
+A. Both true, R not correct explanation 
+B. Both true and R is correct explanation 
+C. A true, R false 
+D. A false, R true 
 
 <details>
 <summary>Show answer</summary>
@@ -177,10 +177,10 @@ D. A false, R true
 
 Which pair is not correctly matched?
 
-A. Govind National Park — 1989  
-B. Rajaji National Park — 1983  
-C. Corbett National Park — 1936  
-D. Gangotri National Park — 1989  
+A. Govind National Park — 1989 
+B. Rajaji National Park — 1983 
+C. Corbett National Park — 1936 
+D. Gangotri National Park — 1989 
 
 <details>
 <summary>Show answer</summary>
@@ -195,10 +195,10 @@ D. Gangotri National Park — 1989
 
 The birch tree is found in
 
-A. Aravallis  
-B. Himalayas  
-C. Nilgiris  
-D. Vindhyas  
+A. Aravallis 
+B. Himalayas 
+C. Nilgiris 
+D. Vindhyas 
 
 <details>
 <summary>Show answer</summary>
@@ -213,10 +213,10 @@ D. Vindhyas
 
 Which one of the following trees is abundant in the temperate zone of Western Himalayas?
 
-A. Pine  
-B. Deodar  
-C. Silver fir  
-D. Blue pine  
+A. Pine 
+B. Deodar 
+C. Silver fir 
+D. Blue pine 
 
 <details>
 <summary>Show answer</summary>
@@ -231,10 +231,10 @@ D. Blue pine
 
 Which among the following trees is found at the highest elevation from the sea level?
 
-A. Deodar  
-B. Pine  
-C. Sal  
-D. Teak  
+A. Deodar 
+B. Pine 
+C. Sal 
+D. Teak 
 
 <details>
 <summary>Show answer</summary>
@@ -249,10 +249,10 @@ D. Teak
 
 Lisa is obtained from the tree of
 
-A. Pine  
-B. Devdar  
-C. Burans  
-D. Sheesham  
+A. Pine 
+B. Devdar 
+C. Burans 
+D. Sheesham 
 
 <details>
 <summary>Show answer</summary>
@@ -267,10 +267,10 @@ D. Sheesham
 
 Khair (Catechu) is a tree of which type of forest?
 
-A. Sub-Alpine Forests  
-B. Cool-Temperate Forests  
-C. Sub-Tropical Forests  
-D. Temperate Forests  
+A. Sub-Alpine Forests 
+B. Cool-Temperate Forests 
+C. Sub-Tropical Forests 
+D. Temperate Forests 
 
 <details>
 <summary>Show answer</summary>
@@ -285,10 +285,10 @@ D. Temperate Forests
 
 Which of the following is not correctly matched?
 
-A. Sundarbans — West Bengal  
-B. Bhitarkanika — Odisha  
-C. Pichavaram — Tamil Nadu  
-D. Vembanad — Karnataka  
+A. Sundarbans — West Bengal 
+B. Bhitarkanika — Odisha 
+C. Pichavaram — Tamil Nadu 
+D. Vembanad — Karnataka 
 
 <details>
 <summary>Show answer</summary>

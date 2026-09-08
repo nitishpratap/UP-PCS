@@ -931,7 +931,7 @@ D. Anguilla
 
 **Africa landlocked (core):** Ethiopia (post-Eritrea), Mali, Niger, Chad, Uganda, Zambia, Zimbabwe, Botswana, Malawi, Rwanda, Burundi, South Sudan, CAR, Lesotho, Eswatini.
 
-**Equator countries ():** Ecuador, Colombia, Brazil, Gabon, Congo, DRC, Uganda, Kenya, Somalia, Indonesia, Maldives, Kiribati. **Not** India. **Not** Australia (Capricorn, not Equator).
+**Equator countries :** Ecuador, Colombia, Brazil, Gabon, Congo, DRC, Uganda, Kenya, Somalia, Indonesia, Maldives, Kiribati. **Not** India. **Not** Australia (Capricorn, not Equator).
 
 **Prime Meridian awareness:** runs through the UK (Greenwich), France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana — **not** through India.
 

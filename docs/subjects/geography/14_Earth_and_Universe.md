@@ -98,7 +98,7 @@ D. Jupiter
 | ITCZ | **Low** / rising air | High-pressure belt | आईटीसीजेड |
 | Atmosphere heat | **Long-wave terrestrial** | Direct short-wave | दीर्घ तरंग |
 | GHG | Not **argon** | Argon as GHG | आर्गन नहीं |
-| Saturn (that paper) | **Methane** () | SO2 / CO | शनि |
+| Saturn (that paper) | **Methane**  | SO2 / CO | शनि |
 | Mars | Life-candidate + 2018 lake | Jupiter lake | मंगल |
 | Kilimanjaro | **E. African Rift** | Ring of Fire | किलिमंजारो |
 | Fold vs fault | Compressional folds vs **block/rift** | All Himalaya = fault | वलित / भ्रंश |
@@ -369,7 +369,7 @@ D. Neither 1 nor 2
 
 Greenhouse gases trap **outgoing long-wave**.
 
-| Is a GHG | Not a GHG () |
+| Is a GHG | Not a GHG  |
 |----------|------------------|
 | Water vapour, **CO₂, CH₄, N₂O, O₃, CFCs/HCFCs** | **Argon** |
 | Natural set includes CO₂, CH₄, O₃, N₂O | “**Nitrogen oxide**” (NO/NO₂) in 2020 Q139 framing → **not** the natural GHG they want |

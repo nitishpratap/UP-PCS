@@ -123,7 +123,7 @@ Teach the **full Lucent map** — next year can ask any standard range, desert o
 | South America | **Aconcagua** | Andes | **Argentina** — highest outside Asia |
 | North America | **Denali / McKinley** | Alaska Range | USA |
 | Africa | **Kilimanjaro** | — | **Tanzania** (not Kenya) |
-| Europe () | **Elbrus** | Caucasus | Russia |
+| Europe  | **Elbrus** | Caucasus | Russia |
 | Alps (W Europe) | **Mont Blanc** | Alps | France–Italy |
 | Australia (mainland) | **Kosciuszko** | Snowy Mts | Australia |
 | Oceania (often asked) | **Puncak Jaya / Carstensz** | Sudirman | Indonesia (New Guinea) |

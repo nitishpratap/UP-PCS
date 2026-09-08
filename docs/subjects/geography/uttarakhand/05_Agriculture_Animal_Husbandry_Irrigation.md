@@ -76,10 +76,10 @@ Consider the following statements:
 1. Animal husbandry is a supplementary occupation of agriculture.
 2. Sheep rearing in the mountainous areas has been affected by environmental degradation.
 
-A. Both 1 and 2  
-B. Only 2  
-C. Only 1  
-D. Neither 1 nor 2  
+A. Both 1 and 2 
+B. Only 2 
+C. Only 1 
+D. Neither 1 nor 2 
 
 <details>
 <summary>Show answer</summary>
@@ -94,10 +94,10 @@ D. Neither 1 nor 2
 
 Which district of Uttarakhand has the highest agricultural land?
 
-A. Haridwar  
-B. Udham Singh Nagar  
-C. Dehradun  
-D. Nainital  
+A. Haridwar 
+B. Udham Singh Nagar 
+C. Dehradun 
+D. Nainital 
 
 <details>
 <summary>Show answer</summary>

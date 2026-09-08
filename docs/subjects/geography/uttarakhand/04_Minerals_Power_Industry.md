@@ -64,10 +64,10 @@
 
 Which pair is not correctly matched?
 
-A. Dolomite — Dehradun, Pithoragarh  
-B. Soap stone — Chamoli, Bageshwar  
-C. Graphite — Almora, Nainital  
-D. Silica sand — Pauri Garhwal  
+A. Dolomite — Dehradun, Pithoragarh 
+B. Soap stone — Chamoli, Bageshwar 
+C. Graphite — Almora, Nainital 
+D. Silica sand — Pauri Garhwal 
 
 <details>
 <summary>Show answer</summary>
@@ -84,10 +84,10 @@ D. Silica sand — Pauri Garhwal
 
 **Q1.** Silica sand in Uttarakhand is associated with which set?
 
-A. Pauri Garhwal only  
-B. Dehradun, Nainital, Tehri Garhwal  
-C. Chamoli, Bageshwar  
-D. Almora, Pithoragarh  
+A. Pauri Garhwal only 
+B. Dehradun, Nainital, Tehri Garhwal 
+C. Chamoli, Bageshwar 
+D. Almora, Pithoragarh 
 
 <details>
 <summary>Show answer</summary>

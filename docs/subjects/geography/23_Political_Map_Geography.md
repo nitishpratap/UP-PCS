@@ -173,7 +173,7 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 - Eight states on it: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. **Not UP. Not Ladakh.**
 - India is **not** wholly tropical — the north goes well beyond 23½° N (2022 stmt 4 is false).
 - Standard meridian **82°30′ E** (Mirzapur / Allahabad belt) = IST.
-- Extremes (): north = Indira Col / Kashmir; south = Indira Point (A&N); west = Ghuar Mota (Gujarat); east = Kibithu (Arunachal).
+- Extremes : north = Indira Col / Kashmir; south = Indira Point (A&N); west = Ghuar Mota (Gujarat); east = Kibithu (Arunachal).
 
 ---
 
@@ -620,7 +620,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 | South America | **Aconcagua** | **Argentina** |
 | North America | **Denali** | USA (Alaska) |
 | Africa | **Kilimanjaro** | **Tanzania** (not Kenya) |
-| Europe () | **Elbrus** | Russia / Caucasus |
+| Europe  | **Elbrus** | Russia / Caucasus |
 | Australia (mainland) | **Kosciuszko** | Australia |
 | Antarctica | Vinson Massif | Awareness |
 

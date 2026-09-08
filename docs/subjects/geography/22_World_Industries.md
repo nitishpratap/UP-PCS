@@ -556,7 +556,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 ## N.6 World local winds
 
-This is the **full Lucent / PMF IAS match map**, not only the names UPPCS has already used. Group by family. The same set is taught in Climate of India.
+This is the **full Lucent / coaching match map**, not only the names UPPCS has already used. Group by family. The same set is taught in Climate of India.
 
 **Foehn family — warm and dry after crossing a mountain**
 

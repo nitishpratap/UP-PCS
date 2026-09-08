@@ -11,7 +11,7 @@
 **Water resources:** Surface vs groundwater | Irrigation map | National Water Policy | PMKSY / Atal Jal / JJM / Namami Gange | Interlinking | Quality hazards
 </details>
 
-> **Sources baked in:** NCERT Geography Class 11 (drainage / landforms), Class 12 (Water Resources), **PMF IAS** lake classification + waterfall + groundwater notes, Drishti / PW water-resources heads, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT Geography Class 11 (drainage / landforms), Class 12 (Water Resources), lake classification + waterfall + groundwater notes, Drishti / PW water-resources heads, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Chilika vs Sambhar vs Wular, Kunchikal ≠ Jog, dam–river, Ramganga specs, Bhutan hydro, UP Ramsar
 > **Last verified:** August 2026
 > **Current Affairs:** India **100 Ramsar** (5 Jun 2026); UP **13** — 100th = **Surha Tal / JP Narayan BS, Ballia**
@@ -118,7 +118,7 @@ D. Chilka, Michigan, Superior, Victoria
 | Oxbow vs lagoon | Oxbow = cut-off meander on a floodplain; lagoon = barred coast | Call Chilika an oxbow | गोखुर ≠ लैगून |
 | Tectonic vs crater | Wular = tectonic basin; Lonar = meteorite in basalt | Lonar as tectonic | वुलर = विवर्तनिक; लोनार = उल्का |
 | Kabartal vs Wular | Kabartal = Bihar oxbow Ramsar; Wular = J&K tectonic freshwater | Swap size kings | कबरताल = बिहार |
-| Sharavati vs Cauvery | Jog is on **Sharavati**, a **west-flowing** Karnataka river | PMF slip: Sharavati as Cauvery tributary | शरावती ≠ कावेरी |
+| Sharavati vs Cauvery | Jog is on **Sharavati**, a **west-flowing** Karnataka river | coaching slip: Sharavati as Cauvery tributary | शरावती ≠ कावेरी |
 | Kunchikal vs Nohkalikai | Kunchikal = highest **total**; Nohkalikai = tallest **plunge** | Swap the two height titles | कुंचिकल कुल; नोहकलिकाइ प्लंज |
 | Kapildhara vs Jog | Kapildhara = **Narmada**; Jog = Sharavati | Kapildhara on Godavari (UPSC 2008 trap) | कपिलधारा = नर्मदा |
 | Shivanasamudra vs Jog | Both Karnataka; Shivanasamudra = **Cauvery** | Put Jog on Cauvery | शिवसमुद्र = कावेरी |
@@ -134,11 +134,11 @@ D. Chilka, Michigan, Superior, Victoria
 ## N.0 Framework
 
 - A **lake** is standing water in a basin on land. It is not the ocean, and it is larger and deeper than a pond.
-- A **lagoon** is barred from the sea by a spit or bar. PMF IAS therefore treats lagoons as **marine-deposit** lakes, not true inland lakes.
+- A **lagoon** is barred from the sea by a spit or bar. Coaching notes therefore treat lagoons as **marine-deposit** lakes, not true inland lakes.
 - An **endorheic** lake has no surface outlet. It loses water by evaporation or seepage and often turns saline.
 - **Temporary** desert pans exist where evaporation exceeds precipitation. **Permanent** lakes are deep enough that precipitation and inflow beat evaporation.
 - Most lakes on Earth are freshwater. Salt lakes form where there is no outlet or where evaporation is fierce (Dead Sea, Great Salt Lake, Aral, Sambhar belt).
-- PMF IAS classifies lakes by **how the hollow formed**, then by chemistry. UPPCS still asks the chemistry kings first (Chilika / Sambhar / Wular). Learn origin so a new stem can switch the angle.
+- Coaching notes classify lakes by **how the hollow formed**, then by chemistry. UPPCS still asks the chemistry kings first (Chilika / Sambhar / Wular). Learn origin so a new stem can switch the angle.
 - No lake is permanent on a geological clock. Draining and silting will fill it.
 - India’s **water-resource** story is separate from “name the lake.” Precipitation is large. Utilisable water is much smaller. Groundwater now irrigates more land than canals. Multipurpose dams store, generate, and cushion floods. They do not create new rain.
 
@@ -187,11 +187,11 @@ Ask: *How was the hollow made?*
 
 **Quick read:** Size/chemistry table answers “largest saline / lagoon / freshwater.” Origin table answers “oxbow / crater / tectonic / glacial.” Same lake can appear in both (Wular = freshwater **and** tectonic; Chilika = lagoon **and** bar origin).
 
-### Origin types (PMF IAS map) — full teaching
+### Origin types (coaching map) — full teaching
 
 **Earth movement**
 
-- A **tectonic** lake sits in a crustal warp, fracture, or subsidence. **Wular** on the Jhelum is India’s freshwater tectonic king. PMF’s world set for huge tectonic basins includes **Titicaca** and the **Caspian**.
+- A **tectonic** lake sits in a crustal warp, fracture, or subsidence. **Wular** on the Jhelum is India’s freshwater tectonic king. The coaching world set for huge tectonic basins includes **Titicaca** and the **Caspian**.
 - **Pangong Tso** and **Tso Moriri** sit in high Ladakh basins tied to India–Eurasia collision. They are endorheic and brackish. Do not treat them as size-kings of Indian freshwater.
 - A **rift-valley** lake is long, narrow and deep between parallel faults. East African examples (Tanganyika, Malawi, Turkana) and the **Dead Sea** (below sea level) are the world set.
 - India has no Tanganyika-scale rift lake. Narmada and Tapi occupy rifts, but they are **rivers**, not lakes.
@@ -205,7 +205,7 @@ Ask: *How was the hollow made?*
 **Volcanic and impact**
 
 - A **crater or caldera** lake fills a blown volcanic hollow. Krakatau is a world example.
-- **Lonar** in Buldhana is a **meteorite** crater in Deccan basalt, saline–alkaline, Ramsar 2020. PMF lists it under crater lakes. Do **not** treat it as a volcanic caldera or a Rajasthan salt pan.
+- **Lonar** in Buldhana is a **meteorite** crater in Deccan basalt, saline–alkaline, Ramsar 2020. Coaching notes list it under crater lakes. Do **not** treat it as a volcanic caldera or a Rajasthan salt pan.
 
 **Erosion**
 
@@ -217,10 +217,10 @@ Ask: *How was the hollow made?*
 - An **oxbow** forms when a meander neck is cut off. The Ganga plain north of the present channel is oxbow country.
 - **Kabartal (Kanwar Lake)** in Begusarai is Asia’s large freshwater oxbow and Bihar’s first Ramsar site. It is rain-fed on the Burhi Gandak belt.
 - A **lagoon** is a marine-deposit lake behind a bar. **Chilika** is the Indian fact. **Pulicat** is second.
-- A **landslide or dun** lake is a short-lived barrier lake. Outer Himalayan **duns** (including the Dehradun hollow) were lakes a few centuries ago in the PMF narrative.
-- A **man-made** lake is a reservoir behind a dam. **Gobind Sagar**, **Hirakud**, **Tehri Lake**, **Pant Sagar**, and **Nagarjuna Sagar** reservoir are the set. PMF’s world analogue is Lake Mead above Hoover Dam.
+- A **landslide or dun** lake is a short-lived barrier lake. Outer Himalayan **duns** (including the Dehradun hollow) were lakes a few centuries ago in the coaching narrative.
+- A **man-made** lake is a reservoir behind a dam. **Gobind Sagar**, **Hirakud**, **Tehri Lake**, **Pant Sagar**, and **Nagarjuna Sagar** reservoir are the set. The coaching world analogue is Lake Mead above Hoover Dam.
 
-**Why lakes matter (PMF “lakes and man”)**
+**Why lakes matter (lakes and man)**
 
 - Large lakes are inland waterways. The Great Lakes–St Lawrence is the world teaching example.
 - Lakes store water for towns and irrigation. **Kolleru** is a freshwater storage wetland on the Godavari–Krishna delta, not a lagoon king.
@@ -438,7 +438,7 @@ D. Wular
 
 - A **waterfall** is a steep or vertical drop of a stream. Falls may be natural or artificial. Most Indian natural falls sit in mountain / plateau country with hard–soft rock contrasts.
 - Soft rock erodes faster than hard rock. The hard ledge remains as a lip and water plunges at the **knickpoint**.
-- PMF IAS places most falls in the **youth** stage of a river. A fall in base level or rejuvenation also creates knickpoints.
+- Coaching notes place most falls in the **youth** stage of a river. A fall in base level or rejuvenation also creates knickpoints.
 - A **plunge** fall drops in one sheet. A **cascade / tiered** fall steps down in many drops. A **segmented** fall splits into side-by-side streams.
 - **Famous is not the same as tallest.** Height lists shift with databases. Fact **relative order**, **river–state pairs**, and the UPPCS height key.
 
@@ -483,7 +483,7 @@ D. Wular
 - Order to raata for UPPCS height stems: **Kunchikal** remains the keyed highest answer (2018). Treat newer database ranks as awareness, not as a reason to pick Jog.
 - **Kunchikal** is a cascade on the **Varahi**. Mani Dam has reduced its dry-season flow.
 - **Jog** is segmented on the **Sharavati**. Sharavati is a **west-flowing** Karnataka river to the Arabian Sea at Honnavar. Jog is **not** India’s highest; it is the fame / width fact.
-- PMF IAS once called Sharavati a **Cauvery tributary**. That is **wrong**. Jog is not on the Cauvery.
+- Some coaching notes once called Sharavati a **Cauvery tributary**. That is **wrong**. Jog is not on the Cauvery.
 - **Linganamakki** dam stores Sharavati water for Karnataka hydropower.
 - **Nohkalikai** is the tallest **single-drop plunge** in newer lists. Do not use it to overturn a UPPCS “highest waterfall = Kunchikal” key unless the stem specifies plunge.
 - **Dudhsagar** is keyed to **Goa** in UPPCS 2022, even though the Mandovi belt touches Karnataka.
@@ -1020,7 +1020,7 @@ D. 12
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.
-> **Format mix:** 66 questions — asked PYQ patterns plus unasked NCERT / PMF / dam-map angles
+> **Format mix:** 66 questions — asked PYQ patterns plus unasked NCERT / coaching / dam-map angles
 
 **Q1.** With reference to lakes of India, which of the following statements is/are correct?
 

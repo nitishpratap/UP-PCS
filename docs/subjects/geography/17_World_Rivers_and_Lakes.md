@@ -167,7 +167,7 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 
 **Africa**
 
-| River | Source () | Mouth | Cities / dams / falls | |
+| River | Source  | Mouth | Cities / dams / falls | |
 |-------|---------------|-------|----------------------|------|
 | **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence) · Cairo · **Aswan High Dam** → **Lake Nasser** | Arcuate delta; traditional **longest**. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt–Sudan dispute awareness) |
 | **Congo / Zaire** | E African highlands | Atlantic | Congo Basin rainforest | **Deepest** major river; only major river that **crosses the Equator twice**; 2nd largest discharge after Amazon |

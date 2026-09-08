@@ -12,7 +12,7 @@
 **Waterways & Linking:** River Linking Project | River Interlinking | National Waterways | Inland Waterways (NW-1 to NW-5 and New Waterways)
 </details>
 
-> **Sources baked in:** NCERT Geography Class 11 (Ch 3), Class 12 (Ch 2–3), **PMF IAS** drainage map (Kullar), UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT Geography Class 11 (Ch 3), Class 12 (Ch 2–3), drainage map (Kullar), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Prayag/confluence, tributary traps, west-flowing rivers, deltas, UP rivers, dam–river
 > **Last verified:** August 2026
 > **Current Affairs:** Ken–Betwa = **only NPP link under implementation** (foundation Dec 2024; ~₹44,605 cr; Bundelkhand MP–UP; Panna TR)
@@ -2055,7 +2055,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) are the PMF IAS / NCERT facts. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed example is **Chambal**.
+**Ans: A** — (1) and (2) are the NCERT / coaching facts. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed example is **Chambal**.
 </details>
 
 **Q52.** Which of the following pairs is/are **NOT** correctly matched?

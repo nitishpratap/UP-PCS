@@ -140,7 +140,7 @@ Teach the **full field map** — next year can ask any Lucent coalfield or ore t
 
 **Types**
 
-| Type | Carbon () | Character | Region |
+| Type | Carbon  | Character | Region |
 |------|---------------|-----------|-------------------------|
 | **Peat** | Lowest | First stage; high water | Ireland, Russia, Canada bogs |
 | **Lignite** (brown coal) | Low | Soft; thermal only | Germany (Lusatia), Australia, Neyveli-type |
@@ -265,7 +265,7 @@ D. France
 
 **Ores**
 
-| Ore | Colour | Fe () | Fact |
+| Ore | Colour | Fe  | Fact |
 |-----|--------|-----------|------|
 | **Hematite** | **Red** | ~70% | **Bulk** ore of world trade |
 | **Magnetite** | **Black** | ~72% | **Highest grade**; magnetic |
