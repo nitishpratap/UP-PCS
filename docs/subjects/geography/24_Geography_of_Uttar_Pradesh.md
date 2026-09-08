@@ -50,8 +50,8 @@
 10. Central Smart Cities list has **10**; **Ghaziabad** is out. NER HQ = **Gorakhpur**. Kushinagar international airport opened **24 June 2020**. Amrit Bharat stations fact **149**. HRIDAY cities = Varanasi and Mathura.
 11. District extremes: north **Saharanpur**, south **Sonbhadra**, east **Ballia**, west **Shamli**.
 12. Rain name facts: highest among common options **Gorakhpur**; lowest **Mathura**.
-13. Irrigation is dominated by **tubewells** (about three-fourths). Western UP faces groundwater **dark-zone** pressure.
-14. **Saryu Canal** National Project serves eastern UP. Other canal classics: Upper/Lower Ganga, Sharda, East Yamuna, Agra, Sarda Sahayak.
+13. Irrigation is dominated by **tubewells** (~**75%**; canal ~**15%**). Western UP faces groundwater **dark-zone** pressure. UP leads absolute tubewell area and GW resources for irrigation.
+14. **Saryu Canal** National Project serves eastern UP. Classics: Upper Ganga (**Bhimgoda/Haridwar**, 1854), Lower Ganga (**Narora**, 1878), **Sharda** (Banbasa; longest UP system length), East Yamuna (Tajewala/Hathinikund), Agra, Sarda Sahayak.
 15. **Bangar** is older alluvium with kankar. **Khadar** is newer floodplain. Bhabar is pebble soak zone; Terai is marshy fertile re-emergence.
 16. **Sonbhadra** is the energy capital. **Shankargarh** silica feeds **Firozabad** glass. **Renukoot** = HINDALCO aluminium. **Sonrai** copper is in Lalitpur. Mathura has the oil refinery.
 17. State animal = **swamp deer**; state bird = **Sarus crane**.
@@ -310,11 +310,15 @@ D. Sind → Ken → Chambal → Betwa
 
 **Identity:** Canal + tube-well state. West = more tube-well; east = more canal/rain.
 
-- **Tubewells** dominate irrigation share (often quoted near **three-fourths**). Western UP faces **groundwater dark-zone / over-exploitation** pressure — do not write “only canals everywhere”.
-- **Upper Ganga Canal** — from Haridwar into west UP. **Lower Ganga Canal** — from **Narora**. **Eastern Yamuna Canal**. **Agra Canal** (Okhla). **Sharda Canal** (Banbasa). **Sarda Sahayak**. **Saryu Canal National Project** — eastern UP command (Ayodhya–Purvanchal belt). Ramganga command. Gandak canals in the east. Ken / Betwa canals and **Arjun Sahayak** awareness in Bundelkhand.
+- **Tubewells** dominate irrigation share (**2018–19** coaching: tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**, other ~**0.8%**). Western UP faces **groundwater dark-zone / over-exploitation** pressure — do not write “only canals everywhere”. UP also leads absolute tubewell / well irrigated area and replenishable groundwater for irrigation among major states (~**40.7 bcm**).
+- **Upper Ganga Canal** — **Bhimgoda, Haridwar** (right bank); Sir **P.T. Cautley**; first water **8 Apr 1854**; main ~298 km / system ~6496 km; west Doab command; also ~200 cusec to Delhi and ~100 cusec to **Harduaganj** TPP.
+- **Lower Ganga Canal** — from **Narora** (Bulandshahr), completed **1878**; main ~99 km / system ~8278 km.
+- **Eastern Yamuna Canal** — Tajewala / **Hathinikund** (Haryana) offtake; Saharanpur–Muzaffarnagar–Meerut–Ghaziabad Doab; revived from **1830**.
+- **Agra Canal** (Okhla). **Sharda Canal** — Banbasa (right bank of Sharda); protective command from Pilibhit–Bareilly–Kheri through Awadh to Prayagraj–Ghazipur belt; main ~44 km / system ~**9961 km**. **Sarda Sahayak**. **Saryu Canal National Project** — eastern UP (Ayodhya–Purvanchal). Ramganga command. Gandak canals in the east. Ken / Betwa canals and **Arjun Sahayak** awareness in Bundelkhand.
+- Spectacular recent tubewell growth lore = **Saryupar** plain (canal-scarce).
 - **Dams in UP:Matatila** and **Rajghat** on Betwa (Lalitpur / MP border). **Parichha** (Jhansi, Betwa). **Rihand / GB Pant Sagar** (Sonbhadra). Obra barrage. **Meja** (Prayagraj). Maudaha (Hamirpur). **Adwa, Baghelkhand, Ahraura** = UP (2022). **Badua is NOT in UP** (Bihar).
 - **Ken–Betwa link** — only National Perspective Plan link under implementation; **Bundelkhand MP–UP**; Daudhan dam; Panna TR submergence.
-- **Narora** — **nuclear**, Bulandshahr. **Obra, Anpara, Rihand** — thermal, Sonbhadra. Tanda (Ambedkar Nagar), Panki (Kanpur), Harduaganj (Aligarh) = thermal awareness.
+- **Narora** — **nuclear**, Bulandshahr (also the Lower Ganga offtake). **Obra, Anpara, Rihand** — thermal, Sonbhadra. Tanda (Ambedkar Nagar), Panki (Kanpur), Harduaganj (Aligarh) = thermal awareness.
 - **HINDALCO Renukoot** — aluminium, Sonbhadra. **Mathura** — refinery. **Mirzapur** — major solar with **France** (2018 paper).
 - Himalaya has huge hydro potential, but **eastern UP and Bihar cannot tap the hills to their north because those Himalaya lie in Nepal** (2025 **both**). Kalagarh / Ramganga dam itself is in UK.
 

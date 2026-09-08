@@ -11,7 +11,7 @@
 **Water resources:** Surface vs groundwater | Irrigation map | National Water Policy | PMKSY / Atal Jal / JJM / Namami Gange | Interlinking | Quality hazards
 </details>
 
-> **Sources baked in:** NCERT Geography Class 11 (drainage / landforms), Class 12 (Water Resources), lake classification + waterfall + groundwater notes, Drishti / PW water-resources heads, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT Geography Class 11 (drainage / landforms), Class 12 (Water Resources), lake classification + waterfall + groundwater notes, Drishti / PW water-resources heads, **Ghatnachakra** Irrigation & Canals (CA–171–177), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Chilika vs Sambhar vs Wular, Kunchikal ≠ Jog, dam–river, Ramganga specs, Bhutan hydro, UP Ramsar
 > **Last verified:** August 2026
 > **Current Affairs:** India **100 Ramsar** (5 Jun 2026); UP **13** — 100th = **Surha Tal / JP Narayan BS, Ballia**
@@ -54,7 +54,7 @@ D. Chilka, Michigan, Superior, Victoria
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 36 Must-Score Facts
 
 1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin cues: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
 2. **Chilika** is the largest **east-coast lagoon** (Odisha / Northern Circars). If a stem says “largest saline” and omits “inland,” Chilika is often the intended key.
@@ -80,14 +80,18 @@ D. Chilka, Michigan, Superior, Victoria
 22. **Indira Sagar** on the Narmada in **Madhya Pradesh** is the volume king. **Sardar Sarovar** is Narmada in **Gujarat**. **Idukki** is an arch dam on the **Periyar**. Koyna is linked to reservoir-induced seismicity in **1967**.
 23. **Nagarjuna Sagar** and **Srisailam** are both on the **Krishna**. **Tulbul** is on the Jhelum / Wular. **Baglihar** is on the Chenab. **Pandoh** is on the Beas.
 24. Ramganga project facts: length about **825.8 m**, power about **198 MW**, Garhwal location; irrigation is **not** a neat **6 lakh ha**.
-25. **Indira Gandhi Canal** is India’s **longest** canal (Rajasthan, Sutlej–Beas–Ravi waters). The Upper Ganga Canal offtake is at **Haridwar** toward western Uttar Pradesh.
+25. **Indira Gandhi Canal** is India’s **longest** canal (Harike Barrage; Sutlej–Beas–Ravi waters; western Rajasthan). **Gang Canal** (1927, Maharaja Ganga Singh) is among the oldest developed systems. Upper Ganga Canal offtake is at **Bhimgoda / Haridwar**; Lower Ganga Canal at **Narora**.
 26. Himalayan hydropower potential is huge. Eastern Uttar Pradesh and Bihar cannot tap the ranges to their north because those ranges lie in **Nepal**.
 27. India–Bhutan hydro names to fact: Chukha, Tala, Kurichhu, and **Mangdechhu / Mungdechhu**.
 28. **Hokera** is in Jammu & Kashmir, not Punjab. **Sasthamkotta** is Kerala. **Renuka** is Himachal. **Yaya Tso** is a Ladakh biodiversity heritage site.
-29. A **dam stores** water; a **barrage diverts** it (Farakka is a diversion structure, not a storage dam).
+29. A **dam stores** water; a **barrage diverts** it (**Farakka** 1975 diverts about **40,000 cusec** toward the Hooghly — not a storage dam).
 30. Oxbow lakes are cut-off meanders on floodplains; lagoons are barred coastal water bodies — Chilika is a lagoon, not an oxbow.
 31. Lonar is a **meteorite crater** in Maharashtra basalt, not a volcanic caldera and not a tectonic basin like Wular.
 32. India now has **100 Ramsar** sites; Uttar Pradesh has **13**, with **Surha Tal / JP Narayan Bird Sanctuary, Ballia** as the 100th site.
+33. Irrigation project size by **Culturable Command Area (CCA)**: **minor** up to **2,000 ha** (~**62%** of irrigation potential); **medium** **2,000–10,000 ha**; **major** above **10,000 ha** (~**38%** via major + medium together).
+34. **2018–19** source share (provisional coaching lock): **tubewells ~48.5%**; wells + tubewells together ~**64%**; **canals ~23%**; **tanks ~2.3%**. Wells/tubewells — not canals alone — are the dominant national source.
+35. **Garland Canal** idea = Captain **Dinshaw J. Dastur**. First river-linking thought often tagged to **M. Visvesvaraya**; later **K.L. Rao**. **Hariyali** (27 Jan **2003**) = watershed / rural water storage. **PMKSY** approved **1 July 2015**.
+36. Peninsula irrigation classic = **tanks / ponds** (hard rock + seasonal rivers). Groundwater resources available for irrigation among major states: **UP** leads (about **40.7 bcm**), then Punjab, Madhya Pradesh, Maharashtra.
 
 ---
 
@@ -113,7 +117,9 @@ D. Chilka, Michigan, Superior, Victoria
 | Nagarjuna Sagar vs Srisailam | Both Krishna; NS = AP–TS iconic | Put NS on Godavari | नागार्जुन सागर = कृष्णा |
 | Ramganga irrigation | ~5.75–5.90 lakh ha | Neat **6 lakh ha** | सिंचाई ≠ 6 लाख हेक्टेयर |
 | Tulbul vs Baglihar | Tulbul = Jhelum/Wular; Baglihar = Chenab | Swap | तुलबुल = झेलम |
-| IGC vs Upper Ganga Canal | IGC = longest, Rajasthan; UGC = Haridwar → W-UP | Mix offtakes | इंदिरा गांधी = सबसे लंबी |
+| IGC vs Upper Ganga Canal | IGC = longest, **Harike** → RJ; UGC = **Bhimgoda/Haridwar** → W-UP | Mix offtakes | इंदिरा गांधी = सबसे लंबी |
+| IGC vs Gang Canal | **Gang Canal** = oldest developed RJ system (**1927**, Ganga Singh, Hussainiwala) | Call IGC the oldest | गंग नहर = 1927 |
+| Harike vs Bhakra source | IGC source = **Harike Barrage** (Sutlej–Beas) | Bhakra / Gandhi Sagar as IGC source | हरिके = IGC |
 | Onega | **Russia** | Canada | ओनेगा = रूस |
 | Oxbow vs lagoon | Oxbow = cut-off meander on a floodplain; lagoon = barred coast | Call Chilika an oxbow | गोखुर ≠ लैगून |
 | Tectonic vs crater | Wular = tectonic basin; Lonar = meteorite in basalt | Lonar as tectonic | वुलर = विवर्तनिक; लोनार = उल्का |
@@ -124,8 +130,11 @@ D. Chilka, Michigan, Superior, Victoria
 | Shivanasamudra vs Jog | Both Karnataka; Shivanasamudra = **Cauvery** | Put Jog on Cauvery | शिवसमुद्र = कावेरी |
 | Hirakud vs Indira Sagar vs Tehri | Longest earthen vs largest **volume** vs **tallest** dam | Swap the three superlatives | हीराकुड लंबा; इंदिरा सागर आयतन; टिहरी ऊँचा |
 | Idukki vs Mullaperiyar | Both **Periyar**; Idukki = arch hydro | Put Idukki on Cauvery | इडुक्की = पेरियार |
-| Canal vs groundwater irrigation | IG plains = canals + tubewells; peninsula historically **tanks**; GW now >60% of irrigated area | “All India is canal-irrigated” | मैदान = नहर; प्रायद्वीप = तालाब |
-| Dam vs barrage | Dam **stores**; barrage **diverts** (Farakka) | Call Farakka a storage dam | बांध जलाशय; बैराज मोड़ |
+| Canal vs groundwater irrigation | IG plains = canals + tubewells; peninsula historically **tanks**; GW now >60% | “Dominant source = canals only” | मैदान = नहर; प्रायद्वीप = तालाब |
+| Minor vs major irrigation | Minor CCA ≤ **2000 ha** (~62%); major > **10,000 ha** | Swap shares | लघु ≈ 62% |
+| Dam vs barrage | Dam **stores**; barrage **diverts** (Farakka ~**40,000 cusec** to Hooghly) | Call Farakka a storage dam | बांध जलाशय; बैराज मोड़ |
+| Garland vs Visvesvaraya | Garland = **Dastur**; first linking idea often **Visvesvaraya**; later **K.L. Rao** | Tag Garland to Rao alone | गारलैंड = दस्तूर |
+| Jawai Project | **Rajasthan** (Luni tributary) | Tamil Nadu | जवाई = राजस्थान |
 
 ---
 
@@ -587,20 +596,37 @@ D. Kevti fall
 
 ### Canals
 
-| Canal | Source | Region | Tag |
-|-------|--------|--------|-----|
-| **Indira Gandhi Canal** | Sutlej–Beas–Ravi | Western Rajasthan | **Longest**; Thar command |
-| Upper Ganga Canal | Ganga at **Haridwar** | Western UP | Sugarcane–wheat |
-| Lower Ganga Canal | Ganga | Central / east-UP belt | |
-| Eastern Yamuna Canal | Yamuna | W-UP / Haryana | |
-| Agra Canal | Yamuna | Agra belt | |
-| Sharda / Sharda Sahayak | Sharda (Mahakali) | E / central UP | |
+| Canal | Source / offtake | Region | Tag |
+|-------|------------------|--------|-----|
+| **Gang Canal** | Sutlej at **Hussainiwala** (Firozpur) | North Rajasthan / Bikaner command | Among world’s **oldest developed** systems; **1927**; Maharaja **Ganga Singh** |
+| **Indira Gandhi Canal** | **Harike Barrage** (Sutlej–Beas confluence, Punjab) | Ganganagar, Bikaner, Jodhpur, Jaisalmer | India’s **longest** (~**649 km** main); foundation **Mar 1958** (G.B. Pant); also draws Beas–Ravi–Sutlej waters (Pong / Beas project support) |
+| Upper Ganga Canal | Ganga at **Bhimgoda, Haridwar** (right bank) | W-UP Doab (Haridwar–Saharanpur–Muzaffarnagar–Meerut–Ghaziabad–Bulandshahr–Aligarh–Etah–Mathura–Firozabad–Mainpuri–Agra belt) | Father often tagged **Sir P.T. Cautley**; first discharge **8 Apr 1854**; main ~**298 km**; system ~**6496 km**; also feeds Delhi (~200 cusec) and Harduaganj TPP (~100 cusec) |
+| Lower Ganga Canal | Ganga at **Narora** (Bulandshahr) | Central / lower Doab | Completed **1878**; main ~**99 km**; system ~**8278 km** |
+| Eastern Yamuna Canal | Yamuna left bank at **Tajewala**; **Hathinikund** barrage ~3 km upstream (Haryana) | Hindon–Yamuna Doab: Saharanpur, Muzaffarnagar, Meerut, Ghaziabad | Revived functioning from **1830**; main ~**197 km** |
+| Agra Canal | Yamuna (Okhla) | Agra–Mathura belt | |
+| Sharda Canal | Sharda right bank near **Banbasa** (Nainital / UK border) | Protective irrigation across Rohilkhand–Awadh–Purvanchal (Pilibhit to Prayagraj belt) | Main ~**44 km**; system ~**9961 km** (longest UP canal-system length fact) |
+| Sharda Sahayak / CAD | Sharda command | E / central UP | CADP projects also include Ramganga and Gandak |
 | Betwa Canal | Betwa | Bundelkhand | |
 | Bhakra / Sirhind | Sutlej system | Punjab–Haryana | |
-| Buckingham Canal | East-coast backwaters | Andhra–Tamil Nadu | Navigation, not IGC |
+| **Buckingham Canal** | East-coast backwaters | AP (Kakinada) → TN (Viluppuram); Coromandel | Freshwater **navigation** canal (~796 km), not IGC |
+| Gandak / **Saran** canals | Gandak barrage near **Triveni / Balmiki Nagar** (~740 m) | NW Bihar | Saran irrigation canal drawn from this system |
+| Ukai Canal | Tapti / Ukai | Gujarat | |
+| Ghataprabha Canal | Ghataprabha | Karnataka | |
+| Nira Canal | Nira (Bhima tributary) | Maharashtra | |
+| **Jawai** Project | Jawai (Luni tributary) | **Rajasthan** | Trap: not Tamil Nadu |
+| Mangalam | Bharathapuzha system | **Palakkad, Kerala** | One of several projects on that river |
 
-- Canal irrigation dominates the Indo-Gangetic plain. The peninsula was historically stronger on **tanks**.
-- Groundwater now covers more than **60%** of India’s irrigated area. Punjab and Haryana irrigate largely by wells and tubewells.
+- Canal irrigation dominates the Indo-Gangetic plain. The peninsula was historically stronger on **tanks / ponds** because hard rock makes canals and wells hard to dig and most peninsular rivers are **seasonal**.
+- Groundwater now covers more than **60%** of India’s irrigated area (**2018–19** coaching lock: tubewells alone ~**48.5%**; wells + tubewells ~**64%**; canals ~**23%**; tanks ~**2.3%**). Do **not** say canals are the dominant national source.
+- **Ghaggar** water is **not** a source of the Indira Gandhi Canal.
+
+### Irrigation project classes (CCA)
+
+| Class | Culturable Command Area | Share of irrigation potential (coaching) |
+|-------|-------------------------|------------------------------------------|
+| **Minor** | Up to **2,000 ha** (wells, tubewells, tanks, lift, drip, sprinkler) | About **62%** |
+| **Medium** | **2,000–10,000 ha** | Part of the remaining ~**38%** with major |
+| **Major** | Above **10,000 ha** | Major + medium together about **38%** |
 
 ### Hydroelectric geography
 
@@ -665,11 +691,16 @@ D. Only 1
 
 ### Irrigation map
 
-- Irrigation is needed because rainfall varies in space and time. Rice, sugarcane and jute need a lot of water. HYVs need a regular moisture supply.
-- Punjab, Haryana and western Uttar Pradesh irrigate more than **85%** of net sown area. That is why the Green Revolution stuck there.
+- Most of India sits in a **sub-tropical / high-temperature** belt (except western Himalaya, parts of the north-east, and some southern tracts). High temperature drives high evaporation, so sown crops need irrigation to cover the moisture deficit. Rainfall also varies in space and time. Rice, sugarcane and jute need a lot of water. HYVs need a regular moisture supply.
+- **2018–19 (P)** national irrigated-area shares: **tubewell ~48.51%**; wells + tubewells together **~63.94%**; **canals ~22.96%**; **tanks ~2.33%**; rest other means. Dominant source = **wells / tubewells**, not canals alone.
+- Punjab, Haryana and western Uttar Pradesh irrigate more than **85%** of net sown area. That is why the Green Revolution stuck there. Among common state options, **Haryana / Punjab** lead **% cropped area under irrigation**; **Uttar Pradesh** leads **absolute** tubewell / well irrigated area.
 - In Punjab about **76%** of net irrigated area is wells and tubewells. In Haryana the well share is about **51%**. Over-pumping has dropped the water table.
+- Dynamic groundwater resources available for irrigation (coaching bcm order): **Uttar Pradesh ~40.72** > **Punjab ~26.69** > **Madhya Pradesh ~17.39** > **Maharashtra ~15.29** (West Bengal and Assam much lower among map-option sets).
 - NCERT MCQ fact: among south Indian states, **Tamil Nadu** has the highest groundwater utilisation of its potential.
 - Chhattisgarh, Odisha and Kerala still use only a small share of groundwater potential. Gujarat, Uttar Pradesh, Bihar, Tripura and Maharashtra sit in the moderate band.
+- **Protective / life-saving irrigation** = irrigation at **permanent wilting point (PWP)** when soil moisture can no longer sustain the plant.
+- **Micro-irrigation** (drip / sprinkler) cuts fertiliser / nutrient loss and can check groundwater decline in some areas. It is **not** the only means of irrigation in dryland farming.
+- **Drip** advantages: less weed, less soil erosion, higher water-use efficiency — not a guarantee of lower soil salinity as an automatic lock.
 
 ### Quality hazards
 
@@ -690,17 +721,24 @@ D. Only 1
 ### Schemes and conservation (keep Ken–Betwa short; drainage chapter owns the link)
 
 - **Ministry of Jal Shakti** (2019) merged water resources with drinking-water and sanitation.
-- **PMKSY** (2015–16) is **Har khet ko pani** plus **more crop per drop**. AIBP funds major irrigation. HKKP funds minor irrigation, water-body repair, and command-area work.
+- **PMKSY** was approved on **1 July 2015** to cut monsoon dependence and take irrigation toward every farm (**Har khet ko pani** + **more crop per drop**). AIBP funds major irrigation. HKKP funds minor irrigation, water-body repair, and command-area work.
+- Till **1 April 2008**, Rural Development ran three watershed programmes — **Integrated Wastelands Development Programme (IWDP)**, **Drought Prone Areas Programme (DPAP)**, and **Desert Development Programme (DDP)**. From 2008 they sit under **Integrated Watershed Management Programme (IWMP)** / later WDC–PMKSY framing, under the **Department of Land Resources (MoRD)** — not Agriculture or Environment as the pair trap.
+- **Hariyali** was launched by Prime Minister **Atal Bihari Vajpayee** on **27 January 2003** for rural watershed / water storage and wasteland-linked conservation through panchayats.
+- **Command Area Development Programme (CADP)** (from **Dec 1974**) improves utilisation inside an existing command (field channels, drains, warabandi, levelling, cropping pattern). Classic UP projects: **Sharda Tributary**, **Ramganga**, **Gandak**.
+- **Garland Canal System** was proposed by Captain **Dinshaw J. Dastur**. The idea of linking rivers is first tagged to irrigation engineer **M. Visvesvaraya**; later **K.L. Rao** added another linking proposal. Both styles were later set aside by the water ministry in favour of other planning frames.
+- **Pattiseema** Lift Irrigation links **Godavari** to **Krishna** (Andhra Pradesh).
 - **Atal Bhujal Yojana** works in water-stressed gram panchayats of **Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan and Uttar Pradesh**.
 - **Jal Jeevan Mission** is rural tap water. It is not a dam–river fact.
 - **Namami Gange** cleans the Ganga. It is not a lake-origin fact.
 - **Ken–Betwa** is the only National Perspective Plan link under implementation (Bundelkhand, MP–UP). Full specs live in the Drainage chapter.
-- **Watershed** work stores runoff and recharges wells. NCERT names **Haryali**, Andhra’s **Neeru-Meeru**, and Alwar’s **Arvari Pani Sansad**.
+- **Watershed** work stores runoff and recharges wells. Benefits include soil-runoff control, rainwater harvesting / recharge, and regeneration of vegetation — **not** national perennial–seasonal river linking.
+- NCERT also names Andhra’s **Neeru-Meeru** and Alwar’s **Arvari Pani Sansad**.
 - **Ralegan Siddhi** (Ahmednagar) is NCERT’s watershed success story.
 - **Rainwater harvesting** captures roof and surface rain to use or to recharge. It dilutes fluoride and nitrate, checks erosion, and can slow coastal salinity intrusion.
 - Rajasthan’s **kund / tanka** is a covered underground tank. **Johads** are village ponds. Tamil Nadu made rooftop harvesting compulsory in buildings.
 - Recycle grey water for gardens and industry cooling. Keep the cleanest water for drinking.
 - Desalination and river-linking are costly extras. Pricing and conservation still matter more for households.
+- Agriculture has the **largest water-consumption share** among sectors in India.
 
 ---
 
@@ -1013,6 +1051,518 @@ D. 12
 <summary>Show answer</summary>
 
 **Ans: B** — Six additional Ramsar sites were added to Uttar Pradesh in that January 2020 window (the 2019–20 bird-sanctuary cluster). 3 undercounts; 9 and 12 over-count.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Irrigation & Canals (UPPCS / UKPCS / standard)
+
+Older irrigation–canal stems from Ghatnachakra CA–171–177. Teaching locks live in N.3 Canals, N.4 Irrigation map / Schemes, Agriculture N.6, and UP Topic 24 N.6.
+
+**Q-GC1. BPSC Prelims 2022**
+
+Pattiseema Project is associated with the integration of which of the following rivers?
+
+A. Krishna and Kaveri  
+B. Krishna and Godavari  
+C. Godavari and Mahanadi  
+D. Ganga and Brahmaputra  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pattiseema Lift Irrigation links the **Godavari** to the **Krishna**.
+
+</details>
+
+**Q-GC2. UPBEO Prelims 2019**
+
+Which of the following is NOT correctly matched?
+
+| Canal Project | Location |
+| --- | --- |
+| A. Ghatprabha Canal Project | Karnataka |
+| B. Ukai Canal Project | Gujarat |
+| C. Nira Canal Project | Maharashtra |
+| D. Jawai Project | Tamil Nadu |
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Jawai** is on the Jawai (Luni tributary) in **Rajasthan**. Ukai = Gujarat (Tapti); Ghataprabha = Karnataka; Nira = Maharashtra (Bhima tributary).
+
+</details>
+
+**Q-GC3. UP Lower Sub. Prelims 2015**
+
+**Assertion (A):** One of the major sources of irrigation in Peninsular India is a pond.  
+**Reason (R):** Most of the rivers in the Peninsular region are seasonal.
+
+A. Both (A) and (R) are correct and (R) explains (A)  
+B. Both (A) and (R) are correct but (R) does not explain (A)  
+C. (A) is correct, but (R) is false  
+D. (A) is false, but (R) is correct  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hard rock makes canals and wells hard to dig; seasonal rivers cannot feed canals reliably — so **tanks / ponds** dominate. R explains A.
+
+</details>
+
+**Q-GC4. IAS Prelims 2002**
+
+With reference to India, which one of the following statements is not correct?
+
+A. About one-third of the area of the country records more than 750 millimetres of annual rainfall  
+B. The dominant source of irrigation in the country are wells  
+C. Alluvial soil is the predominant type of soil in Northern plains of the country  
+D. The mountain areas account for about thirty percent of the surface area of the country  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (as keyed with modern data).** **2018–19** shares put **tubewells** first (~48.5%); wells + tubewells together ~64%. Saying only “wells” as the dominant label is treated wrong / outdated in the Ghatnachakra keying against canal-era wording. Canals ~23%; tanks ~2.3%.
+
+</details>
+
+**Q-GC5. UPPCS Mains 2015**
+
+In which of the following states is the percentage of total cropped area under irrigation (2011) the highest?
+
+A. Madhya Pradesh  
+B. Maharashtra  
+C. Uttar Pradesh  
+D. Haryana  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Among the options, **Haryana** led % cropped area under irrigation (2011 ~84%; later even higher). Punjab/Chandigarh lead in some later census frames.
+
+</details>
+
+**Q-GC6. UKPCS Prelims 2016**
+
+Which State in India has the largest extent in irrigation (percent)?
+
+A. Punjab  
+B. Uttar Pradesh  
+C. Haryana  
+D. Madhya Pradesh  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Punjab** leads % irrigation extent among these options in the usual keying (near-total irrigated cropped area).
+
+</details>
+
+**Q-GC7. IAS Prelims 2011**
+
+With reference to micro-irrigation, which of the following statements is/are correct?
+
+1. Fertilizer/nutrient loss can be reduced.  
+2. It is the only means of irrigation in dry land farming.  
+3. In some areas of farming, receding of groundwater level can be checked.  
+
+A. 1 only  
+B. 2 and 3  
+C. 1 and 3  
+D. 1, 2 and 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements 1 and 3 are correct. Statement 2 is false — micro-irrigation is not the only dryland method.
+
+</details>
+
+**Q-GC8. UP UDA/LDA Mains 2010**
+
+Life saving or Protective irrigation refers to:
+
+A. Constant flow of water  
+B. Irrigation at critical growth stage  
+C. P.W.P. Irrigation  
+D. Alternate wetting and drying  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Protective / life-saving irrigation is at **permanent wilting point (PWP)**.
+
+</details>
+
+**Q-GC9. UPPCS Prelims 1995**
+
+During last 25 years, the development of tubewell irrigation has been most spectacular in:
+
+A. Ganga-Ghaghra Doab  
+B. Ganga-Yamuna Doab  
+C. Saryupar Plain  
+D. Bundelkhand  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Saryupar** plain saw the most spectacular tubewell growth (canal-scarce belt).
+
+</details>
+
+**Q-GC10. UPPCS Prelims 2006 / 2016 / Mains 2017**
+
+In which state of India is the maximum / largest area irrigated by tubewells (and wells)?
+
+A. Madhya Pradesh / Bihar / Haryana / Punjab (as per stem options)  
+B. Uttar Pradesh  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Uttar Pradesh.** UP leads absolute net area under tubewell / well irrigation (2018–19 order: UP ≫ Punjab > Haryana / Bihar).
+
+</details>
+
+**Q-GC11. IAS Prelims 1998**
+
+Descending order of states for available groundwater resources for irrigation (map labels 4–3–2–1 = UP–Maharashtra–West Bengal–Assam):
+
+A. 3, 4, 1, 2  
+B. 3, 4, 2, 1  
+C. 4, 3, 1, 2  
+D. 4, 3, 2, 1  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** UP (~40.72 bcm) > Maharashtra (~15.29) > West Bengal (~8.38) > Assam (~2.06).
+
+</details>
+
+**Q-GC12. UPPCS Prelims 1999**
+
+The Garland Canal System in India was proposed by:
+
+A. K.L. Rao  
+B. Dineshaw J. Dastur  
+C. Visvesarayya  
+D. Y.K. Alagh  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Captain **Dinshaw J. Dastur** proposed the Garland Canal. River-linking thought is first tagged to **M. Visvesvaraya**; later **K.L. Rao**.
+
+</details>
+
+**Q-GC13. UKPCS Prelims 2016**
+
+Who is regarded as the Pioneer of Irrigation works in South India?
+
+A. Sir Arthur Cotton  
+B. Col. Baird Smith  
+C. Lt. Blaine  
+D. Col. Robert Smith  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Sir Arthur Cotton** pioneered irrigation and navigation canals in South India.
+
+</details>
+
+**Q-GC14. BPSC Prelims 2008**
+
+The maximum irrigation potential of India is created through:
+
+A. Major Projects  
+B. Minor projects & Major Projects  
+C. Minor Projects  
+D. Medium Projects  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Minor** projects (CCA ≤ 2,000 ha) create about **62%** of irrigation potential. Major + medium together about **38%**.
+
+</details>
+
+**Q-GC15. IAS Prelims 1997**
+
+The water-carrying capacity of Farakka canal is:
+
+A. 75,000 Cusecs  
+B. 70,000 Cusecs  
+C. 40,000 Cusecs  
+D. 35,000 Cusecs  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Farakka (1975) turns about **40,000 cusec** toward the Bhagirathi–Hooghly to protect Kolkata Port navigability.
+
+</details>
+
+**Q-GC16. UP Lower Sub. Prelims 1998**
+
+Mangalam Irrigation Project is located in:
+
+A. Andhra Pradesh  
+B. Kerala  
+C. Tamil Nadu  
+D. West Bengal  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mangalam** is on the Bharathapuzha system in **Palakkad, Kerala**.
+
+</details>
+
+**Q-GC17. BPSC Prelims 2000**
+
+The Saran irrigation canal is drawn from the river:
+
+A. Son  
+B. Ganga  
+C. Kosi  
+D. Gandak  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Saran canal is drawn from the **Gandak** barrage system near Triveni / Balmiki Nagar.
+
+</details>
+
+**Q-GC18. UPPCS Prelims 1999 / RAS 2007 / UK UDA 2006**
+
+Indira Gandhi Canal has its source at / Harike Barrage is at the confluence of:
+
+A. Gandhi Sagar Dam / Ravi–Beas  
+B. Bhakra Dam / Jhelum–Chenab  
+C. **Harike Barrage** / **Beas and Satluj**  
+D. Govind Ballabh Sagar / Chenab–Satluj  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** IGC originates at **Harike Barrage** (Sutlej–Beas confluence, Punjab). Main length ~**649 km**; irrigates Ganganagar, Bikaner, Jodhpur, Jaisalmer. Foundation **1958**. Also receives Beas–Ravi–Sutlej waters (Pong / Beas project support). **Ghaggar is not** an IGC source.
+
+</details>
+
+**Q-GC19. RAS Prelims 2007 / 2010**
+
+Which is the most well-developed and the oldest canal systems of the world in India? / Gang canal was constructed by Maharaja Ganga Singh Ji in:
+
+A. Gang Canal / **1927**  
+B. Sikri Canal / 1930  
+C. Indira Gandhi Nahar / 1944  
+D. Krishna-Godavari Canal / 1932  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A / 1927.** **Gang Canal** — Maharaja **Ganga Singh** of Bikaner; offtake **Hussainiwala** on the Sutlej (Firozpur); completed **1927**.
+
+</details>
+
+**Q-GC20. UPPCS Prelims 2008 / 2002**
+
+Which of the following is/are the main objectives of Sharda Tributary Command Development Project?
+
+1. To increase agriculture production  
+2. To change the format of land use by multiple crop cultivation  
+3. Reforms of land management  
+
+A. Only 1  
+B. Only 1 & 2  
+C. Only 2 & 3  
+D. All the above  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** CADP aims to raise production and improve land/water management inside the command (field channels, warabandi, levelling, cropping pattern). Sharda Tributary, Ramganga and Gandak were classic launches.
+
+</details>
+
+**Q-GC21. IAS Prelims 2000**
+
+Which one of the following statements is not true?
+
+A. Ghaggar's water is utilised in the Indira Gandhi Canal  
+B. Narmada rises from Amarkantak region  
+C. Nizam Sagar is situated on the Manjra river  
+D. Penganga is a tributary of the Godavari  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Ghaggar** water is **not** used in the Indira Gandhi Canal. B, C and D are correct.
+
+</details>
+
+**Q-GC22. UPPSC GIC 2010**
+
+The Lower Ganga Canal is taken out of the Ganga at:
+
+A. Haridwar  
+B. Narora  
+C. Bareilly  
+D. Kanpur  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lower Ganga Canal offtake is at **Narora** (Bulandshahr), completed **1878**. Upper Ganga = Haridwar / Bhimgoda.
+
+</details>
+
+**Q-GC23. BPSC Prelims 2016**
+
+Which of the following canal systems irrigate areas of Bihar?
+
+A. Upper Ganga Canal  
+B. Triveni Canal  
+C. Sharda Canal  
+D. Eastern Yamuna Canal  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Triveni Canal** irrigates north-western Bihar (Gandak / related command). Upper Ganga, Sharda and Eastern Yamuna are UP/Haryana systems.
+
+</details>
+
+**Q-GC24. UK UDA Prelims 2003 / UPPCS Mains 2013**
+
+Hariyali is a new scheme for / ‘Hariyali Yojana’ is related to:
+
+A. Second green revolution / Soil Management  
+B. Development of wasteland / Water Management  
+C. Forestation of desert land / Air Management  
+D. Development of grassland / Crop management  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (wasteland / water management).** **Hariyali** launched **27 Jan 2003** by A.B. Vajpayee for watershed / rural water storage through panchayats.
+
+</details>
+
+**Q-GC25. IAS Prelims 2014**
+
+What are the benefits of implementing the ‘Integrated Watershed Development Programme?
+
+1. Prevention of soil run off  
+2. Linking the country’s perennial rivers with seasonal rivers  
+3. Rainwater harvesting and recharge of groundwater level  
+4. Regeneration of natural vegetation  
+
+A. 1 and 2 only  
+B. 2, 3 and 4 only  
+C. 1, 3 and 4 only  
+D. 1, 2, 3 and 4  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Soil-runoff control, recharge / rainwater harvesting, and vegetation regeneration are IWMP benefits. Statement 2 (national river linking) is **not**.
+
+</details>
+
+**Q-GC26. IAS Prelims 2014**
+
+Consider the following pairs:
+
+| Programme/Project | Ministry |
+| --- | --- |
+| 1. Drought-Prone Area Programme | Ministry of Agriculture |
+| 2. Desert Development Programme | Ministry of Environment and Forests |
+| 3. National Watershed Development Project for Rainfed Areas | Ministry of Rural Development |
+
+Which of the above pairs is/are correctly matched?
+
+A. 1 and 2 only  
+B. 3 only  
+C. 1, 2 and 3  
+D. None  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** DPAP / DDP / IWDP sat under **Land Resources / Rural Development** (later IWMP). **NWDPRA** is an **Agriculture** ministry rainfed programme — so none of the three pairs is correctly matched as written.
+
+</details>
+
+**Q-GC27. IAS Prelims 2016**
+
+Which of the following is/are the advantage/advantages of practising drip irrigation?
+
+1. Reduction in weed  
+2. Reduction in soil salinity  
+3. Reduction in soil erosion  
+
+A. 1 and 2 only  
+B. 3 only  
+C. 1 and 3 only  
+D. None of the above is an advantage of practising drip irrigation  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Weed reduction and soil-erosion reduction are standard drip advantages. Statement 2 (salinity reduction as automatic lock) is not keyed.
+
+</details>
+
+**Q-GC28. Chhattisgarh PCS Prelims 2019**
+
+Buckingham canal is situated:
+
+A. On Kalinga Coast  
+B. On Malabar Coast  
+C. On Koromandal Coast  
+D. On Kutch Coast  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Buckingham Canal** parallels the **Coromandel** coast (AP to TN) as a freshwater navigation canal.
+
+</details>
+
+**Q-GC29. Jharkhand PCS Prelims 2021**
+
+Which one of the following sectors has greater consumption share of water in India?
+
+A. Agricultural Sector  
+B. Domestic Sector  
+C. Mining Sector  
+D. Industrial Sector  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Agriculture / irrigation** has the largest water-consumption share.
+
+</details>
+
+**Q-GC30. MPPCS Prelims 2020**
+
+Chambal Canal Irrigation Project is related with:
+
+A. Sindh Basin  
+B. Ganga Basin  
+C. Yamuna Basin  
+D. Tapti Basin  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Prefer C (Yamuna); B also defended.** Chambal is a Yamuna tributary, so the canal project sits in the **Yamuna** basin; as a larger frame it also belongs to the **Ganga** system. Prefer **Yamuna** when one answer is required.
+
 </details>
 
 ---
@@ -2249,3 +2799,14 @@ D. saline lakes
 20. **Idukki is on the Cauvery** — FALSE. **Periyar**, Kerala, arch dam.
 21. **Industry uses most of India’s groundwater** — FALSE. **Agriculture ~92%**.
 22. **Lonar is a volcanic caldera** — FALSE. It is a **meteorite** crater in Deccan basalt.
+
+33. **Dominant irrigation = canals only** — FALSE. Wells/tubewells dominate (~64% together; tubewell ~48.5% in 2018–19).
+34. **IGC source = Bhakra / Gandhi Sagar** — FALSE. **Harike Barrage** (Sutlej–Beas).
+35. **Gang Canal = Indira Gandhi Canal** — FALSE. Gang Canal = **1927** Ganga Singh / Hussainiwala; IGC = longest / Harike / 1958.
+36. **Lower Ganga offtake = Haridwar** — FALSE. **Narora**; Upper Ganga = Bhimgoda/Haridwar.
+37. **Jawai Project = Tamil Nadu** — FALSE. **Rajasthan** (Luni tributary).
+38. **Garland Canal = K.L. Rao** — FALSE. **Dastur**; Visvesvaraya/Rao = linking ideas.
+39. **Farakka carries 75,000 cusec** — FALSE. About **40,000 cusec**.
+40. **Ghaggar feeds IGC** — FALSE.
+41. **Minor irrigation = smallest potential share** — FALSE. Minor (~62%) is the largest potential share.
+42. **Hariyali = second Green Revolution** — FALSE. Watershed / wasteland–water storage (Jan 2003).

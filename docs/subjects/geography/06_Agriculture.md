@@ -10,7 +10,7 @@
 **Revolutions:** Green | White | Blue | Yellow | Golden | Silver | Pink | Rainbow | Evergreen
 </details>
 
-> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra** Agriculture (institutions, practices, variety/disease facts, board HQs), UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra** Agriculture + Irrigation/Canals facts, UPPCS Prelims 2018–2025
 > **Weight:** ★★★★ — crop triples, ACZ 15, revolutions match, CACP/MSP/FRP, GR personalities, UP cane/potato
 > **Last verified:** August 2026
 > **Current Affairs:** CCEA MSP — **22 mandated crops**; CACP recommends → Cabinet; Kharif 2026–27 common paddy **₹2,441/q**; MSP ≥ **1.5×** cost (Budget 2018–19)
@@ -34,7 +34,7 @@
 ## Consolidated — 34 Must-Score Facts
 
 1. **Net sown area (NSA)** is land sown at least once a year. **Gross cropped area (GCA)** counts every sowing. **Cropping intensity** = **GCA / NSA × 100** (about **111%** in 1950–51 to about **156%** now). About **86%** of holdings are small or marginal, and about half of NSA is still rainfed.
-2. Groundwater covers about **64%** of irrigated area. Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh; tanks suit the peninsula; drip suits horticulture.
+2. Groundwater covers about **64%** of irrigated area (**2018–19**: tubewell ~**48.5%**; canals ~**23%**; tanks ~**2.3%**). Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh; tanks suit the peninsula; drip suits horticulture. Minor projects (CCA ≤ **2,000 ha**) create ~**62%** of irrigation potential.
 3. **Kharif** (June–October) includes rice, maize, jowar, bajra, ragi, cotton, jute, groundnut, soy, and tur. **Rabi** (October–March) includes wheat, barley, gram, mustard, peas, and linseed, helped by Western Disturbances. **Zaid** (March–June) covers melons, cucumber, fodder, and vegetables. Cane is long-duration; tea, coffee, and rubber are perennial.
 4. Rice needs hot-wet conditions (often above **20–27°C** and above **100 cm** rain) on clayey alluvium. Methods include transplant, broadcast, drill, **DSR**, and **AWD**. Aus / Aman / Boro are eastern season names. **Azolla** is a biofertiliser. Golden rice carries **Vitamin A**.
 5. West Bengal often leads rice **volume**; Punjab leads **yield**. Textbook world rank is usually **second after China** unless the stem is the 2024–25 claim of first place.
@@ -547,29 +547,33 @@ D. Assam—Wheat
 
 ## N.6 Irrigation & Command Area Development
 
-CAD develops the **command** of an existing project (channels, drainage, warabandi). It is **not** “build a new dam.”
+CAD develops the **command** of an existing project (channels, drainage, warabandi). It is **not** “build a new dam.” Classic CADP launches (from **Dec 1974**) include **Sharda Tributary**, **Ramganga**, and **Gandak**.
 
-- Agriculture uses most of India’s freshwater (often cited **~80%**).
-- About **two-thirds** of irrigated land drinks **groundwater**. Punjab paddy + free power is the over-exploited poster.
+- Most of India is warm enough that evaporation creates a soil-moisture deficit for crops — hence irrigation. Agriculture uses most of India’s freshwater (NCERT surface ~**89%** / groundwater ~**92%**; often cited **~80%** overall).
+- **2018–19** coaching lock: **tubewells ~48.5%** of irrigated area; wells + tubewells ~**64%**; canals ~**23%**; tanks ~**2.3%**. About **two-thirds** of irrigated land drinks **groundwater**. Punjab paddy + free power is the over-exploited poster.
+- Project size by **CCA**: **minor** ≤ **2,000 ha** (~**62%** of irrigation potential — wells, tubewells, tanks, lift, drip, sprinkler); **medium** **2,000–10,000 ha**; **major** > **10,000 ha**. Major + medium together cover about **38%**.
 - Rice and sugarcane together take a huge share of irrigation water, often in **water-stressed** states.
-- Micro-irrigation (drip/sprinkler) is still a **small** slice of irrigated area. PMKSY “more crop per drop” is the scheme tag.
+- Micro-irrigation (drip/sprinkler) is still a **small** slice of irrigated area. It cuts nutrient loss and can slow groundwater decline in places — it is **not** the only dryland irrigation method. PMKSY (**1 Jul 2015**) “more crop per drop” is the scheme tag.
+- **Protective / life-saving irrigation** = watering at **permanent wilting point (PWP)**.
+- Peninsula classic = **tanks / ponds** (hard rock + seasonal rivers). Sir **Arthur Cotton** is the pioneer of irrigation works in South India.
+- **Uttar Pradesh** leads absolute tubewell / well irrigated area and replenishable groundwater among major state options (~**40.7 bcm** for irrigation). UP net irrigated share (2018–19 coaching): tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**. Spectacular tubewell growth lore = **Saryupar** plain (canal-scarce).
 
 | Type | Best terrain | Risk / note |
 |------|--------------|-------------|
 | Perennial canal | Alluvial plains (PB–HR–UP; IGC RJ). Clayey beds **leak less** | Waterlogging / usar |
 | Inundation canal | Flood plains | Unreliable timing |
-| **River lift** | Where canal flow is irregular; common in **peninsular** belts | Pumping cost |
+| **River lift** | Where canal flow is irregular; common in **peninsular** belts; **Pattiseema** = Godavari→Krishna | Pumping cost |
 | Tube well | Alluvial aquifers; GR NW + W-UP | Groundwater depletion |
 | Dug well | Local / hard-rock | Limited yield |
 | **Tank** | **Peninsular** hard rock | Siltation |
-| Drip | Horti, cane, cotton, veg; 40–60% water save | High efficiency; capital cost |
+| Drip | Horti, cane, cotton, veg; 40–60% water save; less weed / erosion | High efficiency; capital cost |
 | Sprinkler | Sandy / undulating | Wind drift |
 
-**CADWM pack:** field channels, land levelling, **warabandi** (roster turns), drainage, farmer organisations.
+**CADWM pack:** field channels, land levelling, **warabandi** (roster turns), drainage, farmer organisations, suitable cropping patterns.
 
 - Over-irrigation without drainage → saline / alkaline usar. IGC is the desert example.
-- **Uttar Pradesh** is the classic richest state in **replenishable groundwater** among major state options (dynamic GW resources framing).
 - Zero / reduced tillage, gypsum before irrigation, and leaving crop residue on the field all help **water conservation** in agriculture.
+- Full canal–project map (Gang, IGC, Upper/Lower Ganga, Sharda, Farakka, Hariyali, IWMP) lives in **Lakes & Water Resources**.
 
 ---
 
