@@ -385,14 +385,31 @@ D. Sitapur
 
 ## N.10 Wetlands / Ramsar
 
-**UP total 13** (June 2026). India’s **100th** = **Surha Tal / JP Narayan Bird Sanctuary, Ballia** (5 Jun 2026; sanctuary since 1991).
+**UP total = 13** (June 2026). India’s **100th** = **Surha Tal / JP Narayan Bird Sanctuary, Ballia** (5 Jun 2026; sanctuary since 1991). January 2020 added **+6** Ramsar sites to UP.
 
-**In UP (name + district)**
+| # | Ramsar site (IN UP) | District / belt |
+|---|---------------------|-----------------|
+| 1 | Upper Ganga | Brijghat–Narora |
+| 2 | Nawabganj | Unnao |
+| 3 | Sarsai Nawar | Etawah |
+| 4 | Sandi | Hardoi |
+| 5 | Samaspur | Raebareli |
+| 6 | Parvati Arga | Gonda |
+| 7 | Saman | Mainpuri |
+| 8 | Sur Sarovar / Keetham | Agra |
+| 9 | Haiderpur | Muzaffarnagar–Bijnor |
+| 10 | Bakhira | Sant Kabir Nagar |
+| 11 | Patna Bird Sanctuary | Etah |
+| 12 | Shekha Jheel | Aligarh |
+| 13 | Surha Tal / JP Narayan Bird Sanctuary | Ballia |
 
-- Upper Ganga (Brijghat–Narora) · Nawabganj (**Unnao**) · Sarsai Nawar (**Etawah**) · Sandi (**Hardoi**) · Samaspur (**Raebareli**) · Parvati Arga (**Gonda**) · Saman (**Mainpuri**) · Sur Sarovar / Keetham (**Agra**) · Haiderpur (**Muzaffarnagar–Bijnor**) · Bakhira (**Sant Kabir Nagar**) · Patna BS (**Etah**) · Shekha Jheel (**Aligarh**) · Surha Tal (**Ballia**)
+| Name that sounds like UP | Actual state | Trap |
+|--------------------------|--------------|------|
+| Rudrasagar | **Tripura** | Not UP |
+| Sultanpur | **Haryana** | Not UP |
+| Surinsar–Mansar | **J&K** | Not UP |
 
-- **January 2020:+6** Ramsar to UP.
-- **NOT UP:** Rudrasagar = **Tripura**; Sultanpur = **Haryana**; Surinsar–Mansar = **J&K**. Sarsai Nawar and Samaspur **are** UP.
+- **Sarsai Nawar** and **Samaspur** **are** in UP — do not drop them on “NOT in UP” stems.
 
 ---
 

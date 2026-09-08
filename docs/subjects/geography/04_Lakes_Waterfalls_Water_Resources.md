@@ -359,9 +359,13 @@ Ramsar **in UP** (learn the names that *are* UP). UP total **13** as of June 202
 | Sheikha / Shekha Jheel | Aligarh |
 | **Jai Prakash Narayan BS / Surha Tal** | **Ballia** (India’s 100th Ramsar, 5 Jun 2026) |
 
-**Not UP**: **Rudrasagar = Tripura**; **Sultanpur = Haryana**. Sarsai Nawar and Samaspur **are** UP.
+| Name that sounds like UP | Actual state | Trap |
+|--------------------------|--------------|------|
+| Rudrasagar | **Tripura** | Not UP |
+| Sultanpur | **Haryana** | Not UP |
+| Surinsar–Mansar | **J&K** | Not UP |
 
-> ** note:** “Which Ramsar sites are **NOT** in UP?” — pick Rudrasagar and Sultanpur; do not throw out Sarsai Nawar / Samaspur.
+> ** note:** “Which Ramsar sites are **NOT** in UP?” — pick Rudrasagar, Sultanpur, Surinsar–Mansar; do not throw out Sarsai Nawar / Samaspur.
 
 ### Artificial lakes (reservoirs)
 
