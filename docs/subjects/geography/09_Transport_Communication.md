@@ -9,7 +9,8 @@
 **Schemes:** Bharatmala | Sagarmala | Dedicated Freight Corridor | National Waterways | PM Gati Shakti | National Logistics Policy | Blue Economy | Communication (Basic)
 </details>
 
-> **Weight:** ★★★★ — zone–HQ, port–state, scheme year, UP expressway/airport
+> **Sources baked in:** NCERT Class 10–12 transport, Drishti / PW heads, **Ghatnachakra** Transport (CA–352+ roads → rail → water/air), UPPCS Prelims 2018–2025
+> **Weight:** ★★★★ — zone–HQ, port–state, GQ / NS–EW / Jhansi, scheme year, UP expressway/airport
 > **Last verified:** August 2026
 > **Current Affairs:** Gati Shakti 2021; NLP 2022; New Pamban; FLY91; Jewar (Noida Intl); Amrit Bharat UP 149 stations
 
@@ -82,8 +83,8 @@ D. India
 5. **Amrit Bharat** is a **station modernisation** programme, not a new-lines scheme. About **1,275** stations were identified all-India; in **February 2023**, **149 Uttar Pradesh stations** were listed.
 6. The new **Pamban** bridge is an **RVNL** project and India’s first **vertical-lift** railway sea bridge. Hubballi holds both the **South Western Railway HQ** and the **August 2020** railway museum.
 7. National Highways are only about **2%** of road length but carry about **40%** of traffic. Rural roads are most of the length and are linked to **PMGSY**.
-8. The **Golden Quadrilateral** joins Delhi–Mumbai–Chennai–Kolkata (about **5,846 km**). North–South is Srinagar–Kanyakumari; East–West is Porbandar–**Silchar**.
-9. **Bharatmala** is a **highway** programme. **Sagarmala** is **port-led**. Do not swap the two.
+8. The **Golden Quadrilateral** joins Delhi–Mumbai–Chennai–Kolkata (about **5,846 km**). North–South is Srinagar–Kanyakumari; East–West is Porbandar–**Silchar**. They meet at **Jhansi**.
+9. **Bharatmala** is a **highway** programme. **Sagarmala** is **port-led**. Do not swap the two. **PMGSY (2000)** = rural all-weather roads; **PMBJP** = highway BOT corridors.
 10. The **Atal Tunnel** runs under **Rohtang** in the **Pir Panjal** (Himachal / BRO). A bare claim that it is the “world’s longest highway tunnel” is not the safe line.
 11. The built **Purvanchal Expressway** alignment is Lucknow–Azamgarh–Mau–Ghazipur–Ballia. It **passes Mau**; Basti is off the main spine.
 12. India has **12 major ports** plus many non-major ports. **IWAI** dates from **1986**. The 2016 Act notified **111 National Waterways**.
@@ -148,10 +149,18 @@ Transport and communication are the **arteries of circulation** of the economy.
 Indian Railways is the country’s principal long-distance land carrier for passengers and bulky freight.
 
 - The first passenger train ran from **Mumbai to Thane in 1853** (about 34 km).
+- Gauge widths: **broad gauge ~1.676 m (5½ ft)**; metre gauge **1 m**; narrow gauge **762 / 610 mm**. Most traffic is now broad gauge.
 - Indian Railways is often described as the **largest public-sector undertaking** in the country.
 - The network is organised into **railway zones**, each with a fixed headquarters. Count in current notes is **18 zones** (including South Coast Railway at **Visakhapatnam**). Older books still say 16 — read the stem.
-- Gauge types are broad, metre and narrow; India has pushed **broad-gauge conversion** so most traffic now runs on broad gauge.
-- **Konkan Railway** is a famous west-coast engineering stretch through the Western Ghats — do not confuse it with a zone-HQ trick.
+- **Konkan Railway** runs **Roha (Maharashtra)–Mangaluru (Karnataka)** through Maharashtra–Goa–Karnataka. It does **not** enter Kerala as a Konkan Railway main line.
+- **Pir Panjal** rail tunnel (~**11.2 km**) is the classic long Himalayan rail tunnel fact.
+- **Fairy Queen** uses one of the world’s oldest working steam engines (1855 / re-launch lore).
+- Factory cues: **Kapurthala** Rail Coach Factory; **Perambur** Integral Coach Factory; **Chittaranjan** electric locomotives; **Banaras / Varanasi (Manduadih)** diesel–electric (now Banaras Locomotive Works); third coach factory **Rae Bareli**.
+- **National Academy of Indian Railways** (old Railway Staff College) is at **Vadodara**.
+- First **CNG** passenger train: **Rewari–Rohtak**. First PPP rail line lore: **Gandhidham–Tuna Tekra (Gujarat)**.
+- **Darjeeling Himalayan Railway** (Siliguri–Darjeeling) is a UNESCO Mountain Railway of India site (with Nilgiri and Kalka–Shimla).
+- **Mumbai–Ahmedabad** is India’s first high-speed / bullet-train corridor project (~508 km; Japan partnership lore).
+- Sal / sakhu hard wood is the classic **railway sleeper** timber fact.
 
 | Zone | Headquarters |
 |------|----------------|
@@ -162,15 +171,16 @@ Indian Railways is the country’s principal long-distance land carrier for pass
 | Eastern | Kolkata (Fairlie Place) |
 | South Eastern | **Garden Reach, Kolkata** |
 | Southern | Chennai |
-| South Central | Secunderabad |
+| South Central | **Secunderabad** (not Hyderabad city trap) |
 | Western | Churchgate, Mumbai |
 | West Central | Jabalpur |
 | Central | Mumbai CSMT |
 | East Coast | Bhubaneswar |
-| North Western | Jaipur |
+| North Western | **Jaipur** (not Jodhpur) |
 | South Western | **Hubballi** |
 | South East Central | Bilaspur |
 | South Coast | Visakhapatnam |
+| Metro Railway Kolkata | 17th zone lore (2010) |
 
 **Dedicated Freight Corridors**
 
@@ -293,10 +303,21 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 | **International highways** | Cross-border links | Neighbour connectivity |
 
 - **NHAI** was operationalised in **1995** under the Ministry of Road Transport and Highways.
-- **NH-44** from Srinagar to Kanyakumari is often cited as India’s **longest** national highway corridor.
-- **Golden Quadrilateral** links **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km**).
+- The **Nagpur Plan (1943)** sorted Indian roads into National Highways, State Highways, District Roads and Village Roads — still the syllabus skeleton.
+- India’s road length is about **63+ lakh km** (second-largest network framing). Roads carry roughly **~90%** of passenger traffic and **~65–70%** of freight in recent NTDPC / MoRTH lore (older papers used **~80%** passenger).
+- National Highways are only about **2%** of road length but often keyed as carrying about **40%** of road traffic.
+- **NH length by state** (Dec 2022 NHAI framing): **Maharashtra > Uttar Pradesh > Rajasthan > Madhya Pradesh**. Older keys often put **Uttar Pradesh** first — read the year.
+- **State Highway** length leaders: **Maharashtra**, then Karnataka, Gujarat, Rajasthan (Basic Road Statistics framing).
+- **Longest NH:** older keys = old **NH-7**; current MoRTH framing often keys **NH-27 (EW)** Porbandar–Silchar. **NH-44** is also cited as the longest single corridor (Srinagar–Kanyakumari).
+- **Golden Quadrilateral** links **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km**); launched under NHDP (**2001** framing).
 - The **North–South Corridor** links **Srinagar** to **Kanyakumari**.
-- The **East–West Corridor** links **Porbandar** to **Silchar**.
+- The **East–West Corridor** links **Porbandar** to **Silchar** (not Dwarka / Dibrugarh–Surat).
+- **NS and EW corridors cross at Jhansi (Uttar Pradesh).**
+- **Pradhan Mantri Bharat Jodo Pariyojana** = highway corridors to tourist / economic nodes on **BOT**.
+- **Mumbai–Pune** was India’s first six-lane access-controlled expressway (~95 km).
+- **PMGSY** began **25 December 2000** — all-weather rural connectivity to eligible habitations.
+- **Jawahar (Banihal) Tunnel** crosses the **Banihal** axis of the **Pir Panjal** (J&K / BRO lore).
+- IAS **2023** connectivity trap: East–West is **not** Dibrugarh–Surat; India–Myanmar–Thailand Trilateral ends at **Mae Sot** (not Chiang Mai); BCIM runs **Kunming–Kolkata** (not Varanasi–Kunming). All three stems in that paper were wrong.
 - **Bharatmala** is the umbrella **highway** programme. It is **not** a port scheme.
 - An **expressway** is an **access-controlled** high-speed road, stricter than an ordinary national highway.
 
@@ -419,16 +440,22 @@ India’s mainland plus island coasts stretch about **7,517 km**.
 - A **harbour** is sheltered water where ships can ride safely.
 - A **port** is a harbour **plus** docks, cargo gear and passenger facilities.
 - A **natural harbour** already has coastal shelter; an **artificial harbour** needs breakwaters and dredging.
-- Mumbai, Cochin and Visakhapatnam are often cited as **natural**; **Chennai** is often cited as **artificial**.
-- **Kolkata–Haldia** is a major **riverine** port complex.
-- **JNPT / JNPA** is India’s container flagship on the west coast.
-- India has **12 major ports** and about **200** non-major ports.
+- Mumbai, Cochin and Visakhapatnam are often cited as **natural**; **Chennai** is often cited as **artificial** / open seaport.
+- **Kolkata–Haldia** is a major **riverine** port complex; **Haldia** is the classic **outport** of Kolkata.
+- **Kandla (Deendayal)** on the **Gulf of Kutch** is a **tidal** natural harbour; **Diamond Harbour** is also tidal lore.
+- **JNPT / JNPA (Nhava Sheva)** was built to **decongest Mumbai** and is India’s container flagship.
+- **Cochin Shipyard** is India’s largest shipyard fact; **Alang (Gujarat)** is the largest ship-breaking yard.
+- **Paradip** was developed to ease congestion on **Kolkata and Visakhapatnam**; iron-ore export lore to Japan.
+- **Sethusamudram** aims to link the **Gulf of Mannar** with **Palk Bay** / Palk Strait for a continuous peninsula route.
+- **LNG terminals** lore: Dahej, Hazira, Kochi, Dabhol, Ennore — **not Kandla**.
+- Kochi sits on the **Malabar Coast**.
+- India has **12 major ports** and about **200** non-major ports (**Vadhavan, Maharashtra** is the 13th major port project lore).
 - Roughly **95% of trade by volume** moves by maritime transport.
 - **Uttar Pradesh has no major seaport.**
 - **Kandla (Deendayal)** serves a large north-western hinterland, including petroleum products.
 - **Mormugao** is classically an **iron-ore** export port.
 - **Paradip** handles iron ore and coal on the Odisha coast.
-- **Ennore (Kamarajar)** is a major port on the Tamil Nadu coast, north of Chennai.
+- **Ennore (Kamarajar)** is a major port on the Tamil Nadu coast, north of Chennai — first major port registered as a company; **Mundra** is the largest privately owned port lore.
 
 | Coast | Major ports |
 |-------|-------------|
@@ -513,11 +540,14 @@ D. Jakarta - Indonesia
 Air transport is fast but costly, so it dominates high-value and time-sensitive flows plus long passenger hauls.
 
 - **UDAN** is the regional connectivity scheme that tries to make flying viable to smaller cities.
+- India’s first airmail / air transport cue is **Prayagraj–Naini, 1911**.
 - Metro international hubs include Delhi (IGI), Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad and Cochin.
-- **Cochin** is India’s first **solar-powered** airport.
+- **Cochin** is India’s first **solar-powered** airport (and the world’s first fully solar-powered international airport lore).
+- **Cochin** airport is also the first Indian airport developed under a **public limited / PPP** ownership framing in older keys.
 - **Kushinagar** airport in Uttar Pradesh got international status on **24 June 2020**.
 - **Jewar** is **Noida International Airport**, Uttar Pradesh’s new greenfield international hub.
 - FLY91 is a newly launched Indian airline. Its inaugural flight on **18 March 2024** took off from **Manohar International Airport** (Mopa, Goa).
+- Amritsar’s international airport is **Sri Guru Ram Das Jee** (Raja Sansi).
 
 **Inline PYQ — UPPCS Prelims 2022, Q27**
 
@@ -1019,6 +1049,1781 @@ D. A-1, B-3, C-2, D-4
 <summary>Show answer</summary>
 
 **Ans: C** — Paradip–Odisha; Tuticorin–Tamil Nadu; Kakinada–Andhra Pradesh; Alappuzha–Kerala (code 3 1 4 2). Paper option letters vary across booklets; fact the **state matches**.
+</details>
+
+---
+
+## Complete PYQ Bank — Ghatnachakra Transport (UPPCS / UKPCS / standard)
+
+Older stems from Ghatnachakra CA–352 onward (roads → rail → water/air). Teaching facts live in N.1–N.5. No Logic lines.
+
+**Q-GC1. Ghatnachakra / standard**
+
+Roads carry roughly what share of India's **passenger** traffic?
+
+A. About 50%
+
+B. About 65%
+
+C. About 80% when older papers asked; about 90% in recent MoRTH framing
+
+D. About 95% of both passenger and freight equally
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Passenger share was keyed near **80%** in older stems; current notes often cite **~90%**. Freight is lower (about **65–69%**).
+
+</details>
+
+**Q-GC2. Ghatnachakra / standard**
+
+Roads carry roughly what share of India's **freight** traffic?
+
+A. About 40%
+
+B. About 65–69%
+
+C. About 80%
+
+D. About 95%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Freight on roads is roughly **65–69%**; passenger share is higher (about **80%** when asked, **~90%** now).
+
+</details>
+
+**Q-GC3. Ghatnachakra / standard**
+
+The **Golden Quadrilateral** highway project links which four cities?
+
+A. Delhi, Mumbai, Chennai, Kolkata
+
+B. Delhi, Mumbai, Bengaluru, Kolkata
+
+C. Srinagar, Porbandar, Silchar, Kanyakumari
+
+D. Delhi, Ahmedabad, Hyderabad, Kolkata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The GQ joins **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km**) under the National Highways Development Project.
+
+</details>
+
+**Q-GC4. Ghatnachakra / standard**
+
+The **East–West** national highway corridor runs between
+
+A. Dibrugarh and Surat
+
+B. Porbandar and Silchar
+
+C. Srinagar and Kanyakumari
+
+D. Delhi and Chennai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** East–West is **Porbandar–Silchar**. North–South is **Srinagar–Kanyakumari**; they meet at **Jhansi**.
+
+</details>
+
+**Q-GC5. Ghatnachakra / standard**
+
+The **North–South** and **East–West** highway corridors meet at which city?
+
+A. Nagpur
+
+B. Jhansi
+
+C. Gwalior
+
+D. Agra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The NS (Srinagar–Kanyakumari) and EW (Porbandar–Silchar) corridors cross at **Jhansi, Uttar Pradesh**.
+
+</details>
+
+**Q-GC6. Ghatnachakra / standard**
+
+**Pradhan Mantri Bharat Jodo Pariyojana (PMBJP)** mainly refers to
+
+A. Rural all-weather village roads under PMGSY
+
+B. Highway corridor development on **BOT** to tourist and economic nodes
+
+C. Port-led coastal connectivity under Sagarmala
+
+D. Dedicated freight rail corridors
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **PMBJP** is highway development on **BOT** terms. **PMGSY** is rural roads; **Sagarmala** is port-led.
+
+</details>
+
+**Q-GC7. Ghatnachakra / standard**
+
+India's first **six-lane access-controlled expressway** was built on which route?
+
+A. Delhi–Agra
+
+B. Mumbai–Pune
+
+C. Ahmedabad–Vadodara
+
+D. Bengaluru–Mysuru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Mumbai–Pune** expressway (~95 km) was India's first six-lane access-controlled expressway.
+
+</details>
+
+**Q-GC8. Ghatnachakra / standard**
+
+**Pradhan Mantri Gram Sadak Yojana (PMGSY)** was launched in December 2000 to provide
+
+A. Urban metro connectivity
+
+B. All-weather rural road links to eligible habitations
+
+C. National Waterway dredging on NW-1
+
+D. Airport modernisation under UDAN
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **PMGSY** began **25 December 2000** for all-weather **rural** connectivity.
+
+</details>
+
+**Q-GC9. Ghatnachakra / standard**
+
+When older papers asked India's **longest National Highway**, the usual key was
+
+A. NH-27 (Porbandar–Silchar)
+
+B. NH-44 (Srinagar–Kanyakumari)
+
+C. NH-7 (older numbering)
+
+D. NH-1 (Delhi–Amritsar)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Older keys cited **NH-7**; current MoRTH framing often keys **NH-27 (EW)** or **NH-44 (NS)** as longest corridor.
+
+</details>
+
+**Q-GC10. Ghatnachakra / standard**
+
+Which state has the **maximum length of National Highways** in current NHAI framing?
+
+A. Uttar Pradesh
+
+B. Rajasthan
+
+C. Maharashtra
+
+D. Madhya Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Maharashtra** leads NH length now; **Uttar Pradesh** was the older key when asked in past papers.
+
+</details>
+
+**Q-GC11. Ghatnachakra / standard**
+
+Which state has the **maximum length of State Highways**?
+
+A. Karnataka
+
+B. Gujarat
+
+C. Maharashtra
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Maharashtra** leads in **State Highway** length, followed by Karnataka, Gujarat and Rajasthan.
+
+</details>
+
+**Q-GC12. IAS Prelims 2014-type**
+
+Consider the following pairs (National Highway — Route):
+
+1. NH-1 — Delhi–Amritsar
+2. NH-2 — Delhi–Kolkata
+3. NH-3 — Agra–Mumbai
+4. NH-4 — Chennai–Thane
+
+How many pairs are correctly matched?
+
+A. None
+
+B. Only one
+
+C. Only two
+
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** In the **IAS 2014** stem **all four pairs were wrong** — do not treat any as safe without checking current NH numbering.
+
+</details>
+
+**Q-GC13. IAS Prelims 2023-type**
+
+Which of the following connectivity statements is/are correct?
+
+1. East–West Corridor: Dibrugarh–Surat
+2. India–Myanmar–Thailand Trilateral Highway ends at Chiang Mai
+3. BCIM Economic Corridor: Varanasi–Kunming
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three were **wrong** in IAS 2023: EW is **Porbandar–Silchar**; Trilateral ends at **Mae Sot**; BCIM is **Kunming–Kolkata**.
+
+</details>
+
+**Q-GC14. Ghatnachakra / standard**
+
+Arrange the following cities on the **North–South corridor** from **north to south**:
+
+A. Krishnagiri — Nagpur — Gwalior — Agra
+
+B. Agra — Gwalior — Nagpur — Krishnagiri
+
+C. Gwalior — Agra — Krishnagiri — Nagpur
+
+D. Nagpur — Agra — Gwalior — Krishnagiri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** North to south: **Agra → Gwalior → Nagpur → Krishnagiri**.
+
+</details>
+
+**Q-GC15. Ghatnachakra / standard**
+
+The **Jawahar (Banihal) Tunnel** crosses which mountain axis?
+
+A. Zoji La in Ladakh
+
+B. Banihal pass in the **Pir Panjal** range
+
+C. Nathu La in Sikkim
+
+D. Rohtang in Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Jawahar Tunnel** crosses **Banihal** in the **Pir Panjal** (Jammu & Kashmir axis).
+
+</details>
+
+**Q-GC16. Ghatnachakra / standard**
+
+National Highways form about what share of India's total road length, and carry about what share of road traffic?
+
+A. About 10% length; about 10% traffic
+
+B. About 2% length; about 40% traffic
+
+C. About 40% length; about 2% traffic
+
+D. About 80% length; about 65% traffic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NHs are only about **2%** of road length but carry about **40%** of road traffic.
+
+</details>
+
+**Q-GC17. Ghatnachakra / standard**
+
+National Highway **Kohima–Kottayam** passes through at least how many states?
+
+A. Five
+
+B. Six
+
+C. Seven
+
+D. Nine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kohima–Kottayam** crosses a minimum of **seven states** — a classic long-corridor count stem.
+
+</details>
+
+**Q-GC18. Ghatnachakra / standard**
+
+Among Indian states, which typically shows **high road density** (road length per unit area) in standard MCQ sets?
+
+A. Rajasthan
+
+B. Madhya Pradesh
+
+C. Kerala
+
+D. Arunachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kerala** is the frequent key for high **road density** among given options.
+
+</details>
+
+**Q-GC19. MPPCS / Ghatnachakra-type**
+
+Match List-I with List-II:
+
+| List-I (National Highway) | List-II (City / node) |
+|---|---|
+| A. NH-30 | 1. Jabalpur |
+| B. NH-39 | 2. Khajuraho |
+| C. NH-46 | 3. Bhopal |
+| D. NH-44 | 4. Sagar |
+
+*Row order is not the answer.*
+
+A. A-1, B-2, C-3, D-4
+
+B. A-3, B-2, C-1, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-4, B-3, C-2, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **NH-30–Jabalpur**, **NH-39–Khajuraho**, **NH-46–Bhopal**, **NH-44–Sagar** (Madhya Pradesh map).
+
+</details>
+
+**Q-GC20. Ghatnachakra / standard**
+
+**Bharatmala** is best described as
+
+A. A port-modernisation programme
+
+B. An umbrella **highway** development programme
+
+C. A rural drinking-water scheme
+
+D. A dedicated freight rail corridor project
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bharatmala** is for **highways**. **Sagarmala** is port-led — do not swap them.
+
+</details>
+
+**Q-GC21. Ghatnachakra / standard**
+
+**Sagarmala** primarily aims at
+
+A. Golden Quadrilateral completion
+
+B. Port-led development and coastal connectivity
+
+C. Rural all-weather roads under PMGSY
+
+D. Bullet train corridors
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sagarmala** is **port-led** maritime connectivity, not a highway scheme.
+
+</details>
+
+**Q-GC22. Ghatnachakra / standard**
+
+The **Atal Tunnel** lies in which range and was built with BRO association toward the Rohtang axis?
+
+A. Karakoram
+
+B. Pir Panjal
+
+C. Shivalik
+
+D. Aravalli
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Atal Tunnel** is in the **Pir Panjal** (Rohtang / Manali–Lahaul axis). A bare "world's longest highway tunnel" claim is not the safe line.
+
+</details>
+
+**Q-GC23. Ghatnachakra / standard**
+
+**NHAI** (National Highways Authority of India) was operationalised in
+
+A. 1986
+
+B. 1995
+
+C. 2000
+
+D. 2016
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **NHAI** was set up in **1995** under the Ministry of Road Transport and Highways.
+
+</details>
+
+**Q-GC24. Ghatnachakra / standard**
+
+**Border Roads Organisation (BRO)** was raised in 1960 mainly to build and maintain roads in
+
+A. Coastal Tamil Nadu and Kerala
+
+B. Northern and north-eastern border areas
+
+C. Indo-Gangetic plain districts only
+
+D. Metro city ring roads
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **BRO** (from **1960**) serves **border** and high-altitude road works, especially in the north and north-east.
+
+</details>
+
+**Q-GC25. Ghatnachakra / standard**
+
+The **Nagpur Plan (1943)** classified Indian roads into
+
+A. Only National Highways and Expressways
+
+B. National Highways, State Highways, District Roads and Village Roads
+
+C. Metro, Suburban and Rural roads only
+
+D. Golden Quadrilateral corridors only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Nagpur Plan** gave the classic four-tier road classification still used in syllabus notes.
+
+</details>
+
+**Q-GC26. Ghatnachakra / standard**
+
+An **expressway** differs from an ordinary National Highway mainly because it is
+
+A. Unpaved and village-linked
+
+B. **Access-controlled** and built for higher speeds
+
+C. Maintained only by zila parishads
+
+D. Limited to hill states under BRO
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Expressways** are **access-controlled** high-speed roads, stricter than ordinary NHs.
+
+</details>
+
+**Q-GC27. Ghatnachakra / standard**
+
+Roughly what share of India's total road length is formed by **rural roads**?
+
+A. About 2%
+
+B. About 20%
+
+C. About 40%
+
+D. About 80%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Rural roads** form about **80%** of total road length; NHs are only about **2%**.
+
+</details>
+
+**Q-GC28. UPPCS / standard**
+
+The built **Purvanchal Expressway** alignment passes through which of the following?
+
+A. Basti on the main spine
+
+B. Mau
+
+C. Gorakhpur city centre as the western terminus
+
+D. Meerut as the eastern terminus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The built Purvanchal corridor runs Lucknow–Azamgarh–**Mau**–Ghazipur–Ballia; **Basti** is off the main spine.
+
+</details>
+
+**Q-GC29. Ghatnachakra / standard**
+
+Sea transport carries roughly what share of India's trade by **volume**?
+
+A. About 50%
+
+B. About 65%
+
+C. About 80%
+
+D. About 95%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** About **95%** of India's trade by **volume** moves by sea — roads and rail feed ports.
+
+</details>
+
+**Q-GC30. Ghatnachakra / standard**
+
+India's total road network length is often framed as the **second largest** in the world at roughly
+
+A. 6 lakh km
+
+B. 16 lakh km
+
+C. 63+ lakh km
+
+D. 100 lakh km
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** India has about **63+ lakh km** of roads — second-largest network framing in standard notes.
+
+</details>
+
+**Q-GC31. Ghatnachakra / standard**
+
+India's first passenger train ran in **1853** on which route?
+
+A. Kolkata–Howrah
+
+B. Mumbai–Thane
+
+C. Chennai–Arakkonam
+
+D. Delhi–Meerut
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The first train ran **Mumbai–Thane** in **1853** (~34 km).
+
+</details>
+
+**Q-GC32. Ghatnachakra / standard**
+
+Indian **broad gauge** has a width of approximately
+
+A. 1 metre
+
+B. 1.676 m (5.5 ft)
+
+C. 762 mm
+
+D. 610 mm
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Broad gauge** is **~1.676 m (5½ ft)**; metre gauge is 1 m; narrow gauges are 762 / 610 mm.
+
+</details>
+
+**Q-GC33. Ghatnachakra / standard**
+
+The headquarters of **South Eastern Railway** is at
+
+A. Bhubaneswar
+
+B. Garden Reach, Kolkata
+
+C. Cuttack
+
+D. Hajipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **SER HQ** is **Garden Reach, Kolkata**, not Bhubaneswar or Cuttack (East Coast HQ is Bhubaneswar).
+
+</details>
+
+**Q-GC34. Ghatnachakra / standard**
+
+The headquarters of **Northeast Frontier Railway** is at
+
+A. Prayagraj
+
+B. Maligaon, Guwahati
+
+C. Gorakhpur
+
+D. Silchar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **NFR HQ** is **Maligaon (Guwahati)**, not Prayagraj (that is North Central Railway).
+
+</details>
+
+**Q-GC35. Ghatnachakra / standard**
+
+The headquarters of **North Central Railway** is at
+
+A. New Delhi
+
+B. Prayagraj
+
+C. Jaipur
+
+D. Gorakhpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **North Central Railway** HQ is **Prayagraj**.
+
+</details>
+
+**Q-GC36. Ghatnachakra / standard**
+
+The headquarters of **North Western Railway** is at
+
+A. Jodhpur
+
+B. Jaipur
+
+C. Bikaner
+
+D. Udaipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **North Western Railway** HQ is **Jaipur**, not Jodhpur.
+
+</details>
+
+**Q-GC37. IAS Prelims 2005-type**
+
+Consider the following statements about Indian Railways:
+
+1. Fairy Queen is a steam locomotive still in operation.
+2. The first railway line was built between Mumbai and Thane.
+3. The first electric train ran between Mumbai and Pune.
+
+Which is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** In the **IAS 2005** stem only **Fairy Queen** was correct; statements 2 and 3 were wrong as framed.
+
+</details>
+
+**Q-GC38. Ghatnachakra / standard**
+
+The headquarters of **East Central Railway** is at
+
+A. Kolkata
+
+B. Hajipur, Bihar
+
+C. Gorakhpur
+
+D. Ranchi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **ECR HQ** is **Hajipur (Bihar)** — do not confuse with NER (Gorakhpur) or SER (Kolkata).
+
+</details>
+
+**Q-GC39. Ghatnachakra / standard**
+
+India's **Rail Coach Factory** at Kapurthala is in which state?
+
+A. Punjab
+
+B. Uttar Pradesh
+
+C. Tamil Nadu
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Kapurthala (Punjab)** is the classic **coach factory** cue.
+
+</details>
+
+**Q-GC40. Ghatnachakra / standard**
+
+Wheel and axle for Indian Railways are produced at
+
+A. Perambur, Chennai
+
+B. Bengaluru
+
+C. Varanasi
+
+D. Chittaranjan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Wheel and axle** production is linked to **Bengaluru** in standard factory-bank stems.
+
+</details>
+
+**Q-GC41. Ghatnachakra / standard**
+
+**Diesel Locomotive Works (DLW)** is located at
+
+A. Chittaranjan
+
+B. Varanasi (Banaras Locomotive Works)
+
+C. Kapurthala
+
+D. Perambur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **DLW / Banaras Locomotive Works** is at **Varanasi** (Manduadih axis).
+
+</details>
+
+**Q-GC42. Ghatnachakra / standard**
+
+**Integral Coach Factory (ICF)** is located at
+
+A. Perambur, Chennai
+
+B. Rae Bareli
+
+C. Kapurthala
+
+D. Bengaluru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **ICF** is at **Perambur (Chennai)**.
+
+</details>
+
+**Q-GC43. Ghatnachakra / standard**
+
+Classic **railway sleepers** in Indian lore were often made of
+
+A. Sal (sakhu) hard wood
+
+B. Bamboo only
+
+C. Pure copper
+
+D. Unreinforced glass
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Sal / sakhu** hard wood is the standard **sleeper timber** fact before concrete sleepers spread.
+
+</details>
+
+**Q-GC44. Ghatnachakra / standard**
+
+India's **third rail coach factory** was established at
+
+A. Perambur
+
+B. Kapurthala
+
+C. Rae Bareli
+
+D. Hubballi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The **third coach factory** is at **Rae Bareli** (after ICF and Kapurthala).
+
+</details>
+
+**Q-GC45. Ghatnachakra / standard**
+
+India's first **CNG** passenger train service was introduced on the
+
+A. Mumbai–Pune route
+
+B. Rewari–Rohtak route
+
+C. Delhi–Meerut route
+
+D. Chennai–Bengaluru route
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The first **CNG** train ran on **Rewari–Rohtak**.
+
+</details>
+
+**Q-GC46. Ghatnachakra / standard**
+
+India's first **PPP railway line** lore points to which project?
+
+A. Konkan Railway
+
+B. Gandhidham–Tuna Tekra (Gujarat)
+
+C. Delhi Metro Phase I
+
+D. Mumbai–Ahmedabad bullet corridor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** First **PPP rail line** cue: **Gandhidham–Tuna Tekra (Gujarat)**.
+
+</details>
+
+**Q-GC47. Ghatnachakra / standard**
+
+**Konkan Railway** runs from Roha (Maharashtra) to Mangaluru (Karnataka). Which statement is correct?
+
+A. It passes through Kerala as part of the Konkan main line
+
+B. It benefits Maharashtra, Goa and Karnataka; Belgaum is not a Konkan main-line city
+
+C. It is wholly inside Gujarat
+
+D. Its western terminus is Kochi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Konkan is **Roha–Mangaluru** through **MH–Goa–KA**; it does **not** enter Kerala on the main line; **Belgaum** is off the Konkan spine.
+
+</details>
+
+**Q-GC48. Ghatnachakra / standard**
+
+Which mountain railway is a **UNESCO World Heritage** site on the Siliguri–Darjeeling section?
+
+A. Nilgiri Mountain Railway only
+
+B. Darjeeling Himalayan Railway
+
+C. Matheran Hill Railway only
+
+D. Kangra Valley Railway
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Siliguri–Darjeeling** (Darjeeling Himalayan Railway) is a UNESCO Mountain Railway site with Nilgiri and Kalka–Shimla.
+
+</details>
+
+**Q-GC49. Ghatnachakra / standard**
+
+Rail connectivity on the map reached **Meghalaya** by about **2014**. An older stem calling Meghalaya a "deprived" state without rail is
+
+A. Still fully correct today
+
+B. Outdated — Shillong/Northeast connectivity improved after 2014
+
+C. Correct because Meghalaya has no roads
+
+D. Correct because Meghalaya has a major seaport
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Meghalaya** got rail on the map by **~2014**; older "deprived of railways" keys are **outdated**.
+
+</details>
+
+**Q-GC50. Ghatnachakra / standard**
+
+Arrange the following **railway tunnels** in **decreasing order of length**:
+
+A. Karbude > Pir Panjal > Nathuwadi > Berdewadi
+
+B. Pir Panjal > Karbude > Nathuwadi > Berdewadi
+
+C. Nathuwadi > Berdewadi > Pir Panjal > Karbude
+
+D. Berdewadi > Nathuwadi > Karbude > Pir Panjal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Length order: **Pir Panjal > Karbude > Nathuwadi > Berdewadi**.
+
+</details>
+
+**Q-GC51. Ghatnachakra / standard**
+
+India's first **high-speed / bullet train** corridor project is planned on
+
+A. Delhi–Kolkata
+
+B. Mumbai–Ahmedabad
+
+C. Chennai–Bengaluru
+
+D. Hyderabad–Vijayawada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mumbai–Ahmedabad** (~508 km) is India's first bullet-train corridor (Japan partnership lore).
+
+</details>
+
+**Q-GC52. Ghatnachakra / standard**
+
+The **National Academy of Indian Railways** (old Railway Staff College) is at
+
+A. Vadodara
+
+B. Hubballi
+
+C. New Delhi
+
+D. Secunderabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Railway **Staff College** / National Academy is at **Vadodara**.
+
+</details>
+
+**Q-GC53. Ghatnachakra / standard**
+
+Among numbered Rajdhani routes in standard MCQ sets, which is often keyed as the **longest**?
+
+A. Howrah Rajdhani
+
+B. Trivandrum Rajdhani
+
+C. Patna Rajdhani
+
+D. Ranchi Rajdhani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Trivandrum Rajdhani** is the frequent key as **longest** among the numbered options when asked.
+
+</details>
+
+**Q-GC54. Ghatnachakra / standard**
+
+The **Western Dedicated Freight Corridor** links
+
+A. Ludhiana to Dankuni
+
+B. Dadri to JNPT
+
+C. Mumbai to Chennai
+
+D. Delhi to Kolkata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Western DFC** runs **Dadri–JNPT**. Eastern DFC is **Ludhiana–Dankuni**.
+
+</details>
+
+**Q-GC55. Ghatnachakra / standard**
+
+Electric locomotives for Indian Railways are mainly manufactured at
+
+A. Chittaranjan
+
+B. Varanasi
+
+C. Perambur
+
+D. Kapurthala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Chittaranjan** is the classic **electric locomotive** factory cue.
+
+</details>
+
+**Q-GC56. Ghatnachakra / standard**
+
+**Kochi (Cochin) port** lies on which coastal belt?
+
+A. Coromandel Coast
+
+B. Malabar Coast
+
+C. Konkan Coast only north of Mumbai
+
+D. Utkal Coast
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kochi** sits on the **Malabar Coast** (Kerala).
+
+</details>
+
+**Q-GC57. IAS Prelims 2000-type**
+
+Consider the following statements:
+
+1. Tides help in navigation.
+2. Kandla is a tidal port.
+3. Diamond Harbour is a tidal port.
+4. Tidal ports require regular dredging.
+
+How many statements are correct?
+
+A. One only
+
+B. Two only
+
+C. Three only
+
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** In **IAS 2000** all **four** statements were marked **true** — tides aid navigation; **Kandla** and **Diamond Harbour** are tidal; tidal ports need dredging.
+
+</details>
+
+**Q-GC58. Ghatnachakra / standard**
+
+India's **largest shipyard** is at
+
+A. Mazgaon, Mumbai
+
+B. Cochin (Kochi)
+
+C. Visakhapatnam
+
+D. Kolkata (Garden Reach)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Cochin Shipyard** is India's **largest shipyard** in standard keys.
+
+</details>
+
+**Q-GC59. Ghatnachakra / standard**
+
+**Kandla (Deendayal) port** is located on
+
+A. The eastern coast in Odisha
+
+B. The Gulf of Kutch on the western coast
+
+C. The Malabar Coast in Kerala
+
+D. The Hooghly river in West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kandla** is on the **Gulf of Kutch (Gujarat)** — a **western** tidal port, not eastern coast.
+
+</details>
+
+**Q-GC60. Ghatnachakra / standard**
+
+**Paradip port** was developed mainly to
+
+A. Replace Mumbai as India's only container hub
+
+B. Decongest **Kolkata** and **Visakhapatnam** and handle Odisha bulk cargo
+
+C. Serve as Uttar Pradesh's major seaport
+
+D. Host India's first solar airport
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Paradip (Odisha)** eased pressure on **Kolkata–Vizag** and exports iron ore / handles bulk.
+
+</details>
+
+**Q-GC61. Ghatnachakra / standard**
+
+Which pairing of port and harbour type is correct?
+
+A. Chennai — natural harbour
+
+B. Visakhapatnam — natural; Cochin — natural; Chennai — artificial / open seaport
+
+C. All major ports on the east coast are natural only
+
+D. Kolkata — open seaport on the Arabian Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vizag** and **Cochin** are cited as **natural**; **Chennai** is often keyed as **artificial** / open seaport.
+
+</details>
+
+**Q-GC62. IAS Prelims 2023-type**
+
+Consider the following pairs:
+
+1. Kamarajar (Ennore) — first major port registered as a company
+2. Mundra — largest privately owned port
+3. Visakhapatnam — largest container port of India
+
+How many pairs are correctly matched?
+
+A. None
+
+B. Only one
+
+C. Only two
+
+D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pairs **1 and 2** are correct; **JNPT**, not Vizag, is India's **largest container** port — so only **two** pairs match.
+
+</details>
+
+**Q-GC63. Ghatnachakra / standard**
+
+**Kolkata port** is best described as a
+
+A. Major **riverine** port on the Hooghly
+
+B. Desert port on the Gulf of Kutch
+
+C. Landlocked dry port in Punjab
+
+D. Natural fjord port in Norway
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Kolkata–Haldia** is a major **riverine** complex; **Haldia** is Kolkata's outport.
+
+</details>
+
+**Q-GC64. Ghatnachakra / standard**
+
+Which port **does not** have an **LNG terminal** among standard port–facility lists?
+
+A. Kochi
+
+B. Hazira
+
+C. Kandla (Deendayal)
+
+D. Dahej
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Kandla** has **no LNG terminal** in standard lists; Dahej, Hazira, Kochi and Ennore appear among LNG sites.
+
+</details>
+
+**Q-GC65. Ghatnachakra / standard**
+
+The **Sethusamudram** project aims to create a navigable channel linking
+
+A. Gulf of Mannar and Palk Bay (~167 km shorter route lore)
+
+B. Bay of Bengal and Arabian Sea via Kerala backwaters only
+
+C. Ganga and Brahmaputra at Patna
+
+D. Mumbai harbour and JNPT by road
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Sethusamudram** links the **Gulf of Mannar** with **Palk Bay / Palk Strait** (~167 km cut lore).
+
+</details>
+
+**Q-GC66. Ghatnachakra / standard**
+
+**National Waterway-1 (NW-1)** is the longest waterway stretch on
+
+A. Brahmaputra (Dhubri–Sadiya)
+
+B. Ganga–Hooghly (**Haldia–Prayagraj**)
+
+C. Kerala backwaters (Kottapuram–Kollam)
+
+D. Godavari–Krishna canal system
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **NW-1** on the Ganga is **Haldia–Prayagraj** (~1,620 km) — the **longest** NW stretch.
+
+</details>
+
+**Q-GC67. Ghatnachakra / standard**
+
+**National Waterway-3 (NW-3)** runs through
+
+A. Assam on the Brahmaputra
+
+B. Kerala (**Kottapuram–Kollam** West Coast Canal system)
+
+C. Odisha on the Mahanadi only
+
+D. Punjab on the Sutlej
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **NW-3** is the **Kottapuram–Kollam** canal network in **Kerala**.
+
+</details>
+
+**Q-GC68. Ghatnachakra / standard**
+
+**National Inland Navigation Institute (NINI)** is located at
+
+A. Patna
+
+B. Kolkata
+
+C. Guwahati
+
+D. Kochi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **NINI** is at **Patna** on the Ganga / NW-1 axis.
+
+</details>
+
+**Q-GC69. Ghatnachakra / standard**
+
+The world's largest **ship-breaking** yard at **Alang** is in which state?
+
+A. Maharashtra
+
+B. Gujarat
+
+C. Andhra Pradesh
+
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Alang (Gujarat)** is the largest **ship-breaking** yard fact.
+
+</details>
+
+**Q-GC70. Ghatnachakra / standard**
+
+**JNPT (Nhava Sheva)** was built to decongest Mumbai and lies in which state?
+
+A. Gujarat
+
+B. Maharashtra
+
+C. Goa
+
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **JNPT** near Mumbai is in **Maharashtra** and is India's **container flagship**.
+
+</details>
+
+**Q-GC71. Ghatnachakra / standard**
+
+India's first **solar-powered airport** is
+
+A. Indira Gandhi International, Delhi
+
+B. Cochin (Kochi)
+
+C. Sardar Vallabhbhai Patel, Ahmedabad
+
+D. Kempegowda, Bengaluru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Cochin** was India's first **solar-powered** airport (fully solar international airport lore).
+
+</details>
+
+**Q-GC72. Ghatnachakra / standard**
+
+India's first airport developed under a **public limited company / PPP** framing is associated with
+
+A. Delhi IGI
+
+B. Cochin (Kochi)
+
+C. Mumbai CSIA
+
+D. Kolkata NSCBI
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Cochin** is the first **public ltd / PPP** airport cue in older keys.
+
+</details>
+
+**Q-GC73. Ghatnachakra / standard**
+
+Organised **air transport** in India began in **1911** with airmail between
+
+A. Mumbai and Pune
+
+B. Prayagraj (Allahabad) and Naini
+
+C. Delhi and Karachi
+
+D. Chennai and Port Blair
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** India's first airmail / air transport cue is **Prayagraj–Naini, 1911**.
+
+</details>
+
+**Q-GC74. Ghatnachakra / standard**
+
+**Kushinagar** was declared an **international airport** on
+
+A. 24 June 2018
+
+B. 24 June 2020
+
+C. 24 June 2022
+
+D. 24 June 2024
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kushinagar** became an international airport on **24 June 2020**.
+
+</details>
+
+**Q-GC75. Ghatnachakra / standard**
+
+**Raja Sansi airport** serves which city?
+
+A. Chandigarh
+
+B. Amritsar
+
+C. Jammu
+
+D. Srinagar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Raja Sansi** is the airport for **Amritsar** (Sri Guru Ram Dass Jee International).
+
+</details>
+
+**Q-GC76. Ghatnachakra / standard**
+
+**Karaikal port** is **not** on India's western coastline because it lies in
+
+A. Gujarat on the Gulf of Kutch
+
+B. Puducherry on the **eastern** Coromandel coast
+
+C. Kerala on the Malabar Coast
+
+D. Maharashtra near JNPT
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Karaikal** (Puducherry) is on the **east coast** — not a western-coast port.
+
+</details>
+
+**Q-GC77. Ghatnachakra / standard**
+
+Match the **shipyard** with its location:
+
+| Shipyard | State |
+|---|---|
+| Garden Reach | West Bengal |
+| Hindustan Shipyard | Andhra Pradesh |
+| Mazgaon Dock | Maharashtra |
+| Cochin Shipyard | Kerala |
+
+Which option correctly matches all four?
+
+A. All four matches are correct
+
+B. Only three matches are correct
+
+C. Only two matches are correct
+
+D. None is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Garden Reach (WB)**, **Hindustan Shipyard (AP)**, **Mazgaon (MH)**, **Cochin (Kerala)** — all four pairings are correct.
+
+</details>
+
+**Q-GC78. Ghatnachakra / standard**
+
+India has how many **major ports** under the Major Port Authorities Act framing (excluding project-stage additions)?
+
+A. Eight
+
+B. Ten
+
+C. Twelve
+
+D. Twenty
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** India has **12 major ports** plus many non-major ports (Vadhavan is 13th major project lore).
+
+</details>
+
+**Q-GC79. Ghatnachakra / standard**
+
+**Inland Waterways Authority of India (IWAI)** was established in
+
+A. 1960
+
+B. 1986
+
+C. 2000
+
+D. 2016
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **IWAI** was set up in **1986**; the **2016 Act** notified **111** National Waterways.
+
+</details>
+
+**Q-GC80. Ghatnachakra / standard**
+
+**National Waterway-2 (NW-2)** is on which river stretch?
+
+A. Ganga (Haldia–Prayagraj)
+
+B. Brahmaputra (**Dhubri–Sadiya**)
+
+C. Mahanadi delta only
+
+D. Narmada (Bharuch–Dahej)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **NW-2** is the **Brahmaputra** stretch **Dhubri–Sadiya** in Assam.
+
+</details>
+
+**Q-GC81. Ghatnachakra / standard**
+
+**National Waterway-4 (NW-4)** mainly covers
+
+A. Kerala canals only
+
+B. Godavari–Krishna and connected canals (**Kakinada–Puducherry** awareness)
+
+C. Sutlej in Punjab
+
+D. Yamuna in Delhi only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **NW-4** spans **Godavari–Krishna** and canal links toward **Kakinada–Puducherry**.
+
+</details>
+
+**Q-GC82. UPPCS / standard**
+
+Which of the following ports is on the **western coastline**?
+
+A. Nhava Sheva (JNPT)
+
+B. Visakhapatnam
+
+C. Chennai
+
+D. Tuticorin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **JNPT (Nhava Sheva)** is western; Vizag, Chennai and Tuticorin are eastern.
+
+</details>
+
+**Q-GC83. Ghatnachakra / standard**
+
+**Mormugao port**, known for iron-ore export lore, is in
+
+A. Karnataka
+
+B. Goa
+
+C. Gujarat
+
+D. Maharashtra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mormugao** is a major port in **Goa**.
+
+</details>
+
+**Q-GC84. Ghatnachakra / standard**
+
+**Tuticorin (VOC) port** is in which state?
+
+A. Kerala
+
+B. Tamil Nadu
+
+C. Andhra Pradesh
+
+D. Odisha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tuticorin / VOC** is a major port in **Tamil Nadu**.
+
+</details>
+
+**Q-GC85. Ghatnachakra / standard**
+
+Which **port–country** pair is **not** correctly matched?
+
+A. Rotterdam — Netherlands
+
+B. Igarka — China
+
+C. Montevideo — Uruguay
+
+D. Jakarta — Indonesia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Igarka** is in **Russia**, not China.
+
+</details>
+
+**Q-GC86. Ghatnachakra / standard**
+
+**FLY91** airline's inaugural flight (March 2024) operated from which airport?
+
+A. Kempegowda, Bengaluru
+
+B. Manohar International (Mopa, Goa)
+
+C. Kushinagar International
+
+D. Noida International (Jewar)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **FLY91** began from **Manohar International (Mopa, Goa)** on **18 March 2024**.
+
+</details>
+
+**Q-GC87. Ghatnachakra / standard**
+
+**Uttar Pradesh** has which of the following transport facts?
+
+A. A major seaport on the west coast
+
+B. **No major seaport**; NW-1 on the Ganga and NER HQ at Gorakhpur are the classic cues
+
+C. Headquarters of South Eastern Railway
+
+D. India's largest container port at Varanasi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **UP has no major seaport**; its waterway cue is **NW-1** and rail HQ fact is **NER Gorakhpur**.
+
+</details>
+
+**Q-GC88. Ghatnachakra / standard**
+
+The **July 2020** first containership movement from **Kolkata to Agartala** used which Bangladesh port?
+
+A. Benapole
+
+B. Chattogram (Chittagong)
+
+C. Payra
+
+D. Maloti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The route used **Chattogram**, not Benapole, Maloti or Payra.
+
+</details>
+
+**Q-GC89. Ghatnachakra / standard**
+
+**PM Gati Shakti** National Master Plan was launched in
+
+A. October 2020
+
+B. October 2021
+
+C. September 2022
+
+D. March 2024
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **PM Gati Shakti** was launched **13 October 2021** (not 2022 — NLP came in 2022).
+
+</details>
+
+**Q-GC90. Ghatnachakra / standard**
+
+Match List-I with List-II:
+
+| List-I (Port) | List-II (State) |
+|---|---|
+| A. Paradip | 1. Tamil Nadu |
+| B. Tuticorin | 2. Kerala |
+| C. Kakinada | 3. Odisha |
+| D. Alappuzha | 4. Andhra Pradesh |
+
+*Row order is not the answer.*
+
+A. 1 3 2 4
+
+B. 3 1 4 2
+
+C. 3 1 2 4
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Paradip–Odisha (3)**, **Tuticorin–Tamil Nadu (1)**, **Kakinada–Andhra Pradesh (4)**, **Alappuzha–Kerala (2)** — code **3 1 4 2**.
+
 </details>
 
 ---
@@ -1980,3 +3785,13 @@ D. A-4, B-1, C-2, D-3
 18. **IWAI = NHAI** — FALSE. IWAI (1986) = inland waterways; NHAI (1995) = national highways.
 19. **Only three National Waterways exist** — FALSE. The 2016 Act declared **111**. The first five are the map you must know even if a paper has not yet asked NW-4 or NW-5.
 20. **Kakinada is a major-port-state fact for Odisha** — FALSE. Kakinada = **Andhra Pradesh**; Paradip = **Odisha**.
+21. **East–West Corridor = Dibrugarh–Surat / Dwarka** — FALSE. **Porbandar–Silchar**. Cross with NS at **Jhansi**.
+22. **Konkan Railway = Kerala main line** — FALSE. **Roha–Mangaluru** through MH–Goa–KA.
+23. **SER HQ = Bhubaneswar / SCR HQ = Hyderabad** — FALSE. SER = **Garden Reach, Kolkata**; East Coast = Bhubaneswar; SCR = **Secunderabad**.
+24. **North Western Railway HQ = Jodhpur** — FALSE. **Jaipur**.
+25. **Chennai = deepest natural port** — FALSE. Often **artificial**; Vizag/Paradip depth lore varies by stem.
+26. **Kandla = LNG terminal** — FALSE. LNG cues are Dahej, Hazira, Kochi, Dabhol, Ennore.
+27. **Old NH-7 is still always the longest NH** — FALSE for current MoRTH framing — often **NH-27 EW**; also learn **NH-44** corridor lore.
+28. **NS–EW meet at Nagpur / Gwalior** — FALSE. **Jhansi**.
+29. **First CNG train = Delhi–Agra** — FALSE. **Rewari–Rohtak**.
+30. **Sethusamudram = Cape Comorin only** — FALSE. Links **Gulf of Mannar** with **Palk Bay**.
