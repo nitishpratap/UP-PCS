@@ -38,7 +38,7 @@ Cyclone **formation** numbers. Ring-of-Fire **volcano list**.
 1. Coaching risk fact: **Risk ≈ Hazard × Vulnerability / Capacity**. A disaster happens when a hazard hits exposed people or assets and capacity is too weak.
 2. The disaster-management cycle runs **mitigation → preparedness → response → recovery**. Mitigation is before impact; response is during and just after.
 3. Earthquake **focus** is the point **inside** the Earth; **epicentre** is the point on the **surface** above it. **Richter** measures magnitude; **Mercalli** measures intensity / damage.
-4. Seismic waves arrive **P then S then surface**. The Himalaya is India’s highest seismic belt because of **collision and thrust zones**.
+4. Seismic waves split into **body** (through the Earth) and **surface** (along the ground). Body waves arrive **P then S**; surface waves come last and do most damage. **P-wave** shadow is about **103–142°**; **S-wave** shadow lies beyond about **103°** (liquid outer core). The Himalaya is India’s highest seismic belt because of **collision and thrust zones**.
 5. India uses seismic **Zones II–V** only (Zone I was dropped in 2002). **Zone V is highest**. A draft Zone VI was **withdrawn in March 2026** — maps still follow the 2016 II–V zones.
 6. Zone V covers the North-East, Himalayan pockets, **Kutch** and the **Andaman & Nicobar** belt. Much of Rajasthan and the Deccan sits in Zones II–III.
 7. About **59%** of India’s landmass is earthquake-prone in NDMA note. Famous shocks: Kangra 1905, Bihar–Nepal 1934, **Koyna 1967 (reservoir-induced)**, **Latur 1993 (peninsular / Killari, Zone III)**, Bhuj 2001, and the **26 December 2004** tsunami.
@@ -69,6 +69,9 @@ Cyclone **formation** numbers. Ring-of-Fire **volcano list**.
 | Pair | Correct | Trap | Hindi |
 |------|------------|------|-------|
 | Focus vs epicentre | Focus = **inside**; epicentre = **surface** | Swapped | उद्गम / अधिकेन्द्र |
+| Body vs surface waves | Body = through Earth (**P, S**); surface = along ground (**Love, Rayleigh**) | Treating all as one family | शरीर तरंग / पृष्ठ तरंग |
+| P-wave vs S-wave | **P** = fastest, solids+liquids+gases; **S** = slower, **solids only** | S through outer core | प्राथमिक / द्वितीयक |
+| P shadow vs S shadow | P miss ~**103–142°**; S absent beyond ~**103°** | Same belt for both / both recorded past 105° | छाया क्षेत्र |
 | Richter vs Mercalli | Magnitude vs **intensity/damage** | Same scale | रिक्टर / मर्कली |
 | Zone V vs II | V = **highest** (NE, Himalaya, Kutch, A&N) | V = safest | क्षेत्र V |
 | Latur 1993 | **Peninsular** / Killari (Zone III) | “Only Himalaya shakes” | लातूर |
@@ -134,12 +137,39 @@ An earthquake is the sudden release of energy when rocks slip along a fault.
 - The **epicentre** is the surface point directly above the focus.
 - **Richter / moment magnitude** measures size or energy (logarithmic).
 - The **Mercalli (MMI)** scale measures **intensity** — felt shaking and damage (Roman I–XII).
-- **P-waves** are fastest, travel through solids and liquids, and arrive first.
-- **S-waves** are slower, travel through **solids only**, and arrive second.
-- **Surface waves** (Love and Rayleigh) do most damage at the ground surface.
 - Most damaging Indian quakes are **tectonic**. **Koyna 1967** is the classic **reservoir-induced** (RIS) trap.
 
 About **90%** of world quakes sit on plate edges. The **Pacific Ring of Fire** is the circum-Pacific volcano–quake belt (Fuji, Pinatubo, Mount St. Helens). **Kilimanjaro is not** on that ring.
+
+### Seismic waves — body first, then surface
+
+Seismic energy leaves the focus in two big families.
+
+**1. Body waves** travel **through the interior** of the Earth. They split into **P** and **S**.
+
+- **P-waves (primary / longitudinal)** are the **fastest**. They push and pull like sound waves and travel through **solids, liquids and gases**. They arrive **first** on a seismogram.
+- **S-waves (secondary / transverse / shear)** are **slower** than P. They shake side-to-side and travel through **solids only**. They cannot cross the **liquid outer core**, so they arrive **second** where they are recorded.
+
+**2. Surface waves** travel along the **ground surface** after body waves.
+
+- The two main types are **Love** and **Rayleigh** waves.
+- They are the **slowest** to arrive but usually cause the **worst shaking and damage** at the surface.
+
+Arrival order on a record: **P → S → surface**.
+
+| Wave | Family | Nature | Travels through | Arrival / damage |
+|------|--------|--------|-----------------|------------------|
+| **P (primary)** | Body | Longitudinal / sound-like; **fastest** | Solids, liquids, gases | First |
+| **S (secondary)** | Body | Transverse / shear; slower than P | **Solids only** | Second; stopped by liquid outer core |
+| **Love / Rayleigh** | Surface | Along the free surface | Near-surface rock / soil | Last; usually most destructive at ground |
+
+### Shadow zones
+
+Each earthquake has its own shadow pattern because wave paths bend inside Earth.
+
+- **S-wave shadow:** Beyond about **103–105°** from the epicentre, **S-waves are not recorded**. The liquid outer core blocks shear waves.
+- **P-wave shadow:** **P-waves** are weak or absent in a belt of about **103–142°** (often taught as ~**105–140°**). They do enter the core but are **refracted** at the mantle–core boundary, so that angular belt is a gap.
+- A claim that **both P and S are recorded at any distance beyond 105°** is **false**.
 
 | Term | Meaning |
 |------|------|
@@ -147,7 +177,11 @@ About **90%** of world quakes sit on plate edges. The **Pacific Ring of Fire** i
 | Epicentre | Surface above the focus |
 | Richter / Mw | Magnitude (energy) |
 | Mercalli | Intensity (damage) |
+| Body waves | Through Earth — **P** and **S** |
+| Surface waves | Along ground — Love and Rayleigh |
 | P then S then surface | Arrival order |
+| S shadow | Beyond ~**103°** (liquid outer core) |
+| P shadow | Gap ~**103–142°** (core refraction) |
 
 ---
 
@@ -1232,6 +1266,8 @@ D. Only when Tmax is 47°C
 **Q30.** Assertion (A): S-waves do not travel through the outer core.
 Reason (R): S-waves are shear waves that need a solid.
 
+**A/R logic:** A tests the liquid-outer-core block on S; R tests shear = solids only. If both true and R is the reason S stop in the outer core, the code is “R explains A.” Trap: treating S like P and saying they cross liquids.
+
 A. Both true, R explains A
 
 B. Both true, R not explanation
@@ -1243,7 +1279,8 @@ D. A false R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** A is true — the **liquid outer core** stops **S-waves**, which creates the S shadow beyond about **103–105°**. R is true — S are **shear / transverse** and need a **solid**. R explains A. P-waves can still cross liquids, so do not swap P and S here.
+
 </details>
 
 ---
@@ -1361,6 +1398,8 @@ D. Only Zone V Himalaya inside UP
 1. P-waves arrive before S-waves.
 2. Surface waves generally cause the worst shaking at the ground.
 
+**Logic:** Statement 1 tests body-wave arrival order (**P** then **S**). Statement 2 tests that **surface** waves (Love / Rayleigh), not the first-arriving P, usually do the worst surface damage. Trap: thinking the fastest wave is also the most destructive.
+
 A. Only 1
 
 B. Only 2
@@ -1372,7 +1411,8 @@ D. Neither
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Both are true. **P** is the fastest body wave and arrives before **S**; **surface waves** arrive last but usually cause the worst shaking at the ground. Do not confuse speed with damage.
+
 </details>
 
 ---
@@ -1815,19 +1855,20 @@ D. 1, 2 and 3
 3. **Entire UP = Zone V** — FALSE. **III–IV**.
 4. **Only Himalaya shakes** — FALSE. **Latur 1993, Koyna 1967**.
 5. **Richter = damage scale** — FALSE. **Mercalli** = intensity.
-6. **Tsunami = wind waves / cyclone swell** — FALSE. **Seafloor displacement**.
-7. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.
-8. **Cloudburst = any hill rain** — FALSE. **≥100 mm/hour**.
-9. **Heat wave = any day above 35°C** — FALSE. Plains **gate 40°C** + departure/actual cuts.
-10. **Arabian Sea never hits India** — FALSE. **Gujarat/MH** (Tauktae).
-11. **Baguio = Japan; Willy-willy = USA** — FALSE. **PH and Australia**.
-12. **Sendai = 2005–15** — FALSE. That is **Hyogo**. Sendai **2015–30**.
-13. **NPDM = 2005** — FALSE. DM Act **2005**; NPDM **2009**.
-14. **NDMA chair = Home Minister** — FALSE. **Prime Minister**.
-15. **Hazard = disaster always** — FALSE. Disaster needs exposure + weak capacity.
-16. **Skip HVRC / Sendai priorities because recent papers asked zones** — FALSE. Next year can ask the framework from the same topic.
-17. **Arabian Sea never hits India** — FALSE. Gujarat–Maharashtra landfalls exist.
-18. **India is disaster-free** — FALSE (2018 key).
-13. **India is disaster-free** — FALSE (2018).
-14. **DPAP = 1952** — FALSE. **1973–74**; 1952 = CDP.
-15. **Gomati vs Yamuna as 2018 biological-disaster river** — paper key **Gomati**.
+6. **S-waves travel through the liquid outer core / both P and S recorded past 105°** — FALSE. **S** stop beyond ~**103°**; **P** miss ~**103–142°**.
+7. **Surface waves arrive first / P waves do most surface damage** — FALSE. Arrival is **P → S → surface**; surface waves usually do worst ground damage.
+8. **Tsunami = wind waves / cyclone swell** — FALSE. **Seafloor displacement**.
+9. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.
+10. **Cloudburst = any hill rain** — FALSE. **≥100 mm/hour**.
+11. **Heat wave = any day above 35°C** — FALSE. Plains **gate 40°C** + departure/actual cuts.
+12. **Arabian Sea never hits India** — FALSE. **Gujarat/MH** (Tauktae).
+13. **Baguio = Japan; Willy-willy = USA** — FALSE. **PH and Australia**.
+14. **Sendai = 2005–15** — FALSE. That is **Hyogo**. Sendai **2015–30**.
+15. **NPDM = 2005** — FALSE. DM Act **2005**; NPDM **2009**.
+16. **NDMA chair = Home Minister** — FALSE. **Prime Minister**.
+17. **Hazard = disaster always** — FALSE. Disaster needs exposure + weak capacity.
+18. **Skip HVRC / Sendai priorities because recent papers asked zones** — FALSE. Next year can ask the framework from the same topic.
+19. **Arabian Sea never hits India** — FALSE. Gujarat–Maharashtra landfalls exist.
+20. **India is disaster-free** — FALSE (2018 key).
+21. **DPAP = 1952** — FALSE. **1973–74**; 1952 = CDP.
+22. **Gomati vs Yamuna as 2018 biological-disaster river** — paper key **Gomati**.

@@ -4,18 +4,18 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, XXI) | Important Articles | Article Number–Subject Mapping | Schedules | First Schedule | Second Schedule | Third Schedule (Oaths & Affirmations) | Fourth Schedule | Fifth Schedule | Sixth Schedule | Fifth vs Sixth Schedule | Seventh Schedule (Union, State, Concurrent Lists) | Eighth Schedule | Ninth Schedule | Tenth Schedule | Eleventh Schedule | Twelfth Schedule
+Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, XXI) | Important Articles (1–35 clause map; VP 63–71; High Courts 214–235) | Article 21 expanded-rights table | Article 51A duties table | Article Number–Subject Mapping | Schedules | First Schedule | Second Schedule | Third Schedule (Oaths & Affirmations) | Fourth Schedule | Fifth Schedule | Sixth Schedule | Fifth vs Sixth Schedule | Seventh Schedule (Union, State, Concurrent Lists) | Eighth Schedule | Ninth Schedule | Tenth Schedule | Eleventh Schedule | Twelfth Schedule
 
 </details>
 
-> **Sources baked in:** Laxmikanth, Constitution of India text, UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — Part↔Subject NOT matched; Article↔subject; Schedule↔Subject; 8th Schedule languages; 11th=29 / 12th=18; Concurrent List items; 371-series States
-> **Last verified:** August 2026
+> **Sources baked in:** Laxmikanth, Constitution of India text, India Code Constitution PDF, Drishti / PWOnlyIAS article maps, UPPCS Prelims PYQs 2018–2025
+> **Weight:** ★★★ — Part↔Subject NOT matched; Article↔subject (incl. VP / HC / AG); Schedule↔Subject; 8th Schedule languages; 11th=29 / 12th=18; Concurrent List items; 371-series States; Art. 21 expansions; 51A(a)–(k)
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (static structure) — watch only if a new language is added to 8th Schedule
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. The Constitution is organised into **Parts**. Originally there were **22 Parts**; today there are about **25 Parts** (including IVA, IXA, IXB, XIVA). **Part VII** stands **repealed**.
 2. **Part III** is **Fundamental Rights** (justiciable). **Part IV** is **DPSP** (non-justiciable). **Part IVA** is **Fundamental Duties**.
@@ -45,6 +45,10 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 26. National Emergency is **352**; State Emergency / President’s Rule is **356**; Financial Emergency is **360**. Do not mix the three codes.
 27. Fourth Schedule is **Rajya Sabha seats**, not validation of Acts. Ninth Schedule is **validation of Acts**, not RS seats.
 28. Part match trap set: Municipalities ≠ Part XI; Tribunals ≠ Part XI; Attorney General ≠ Part XIII; Citizenship = Part II.
+29. **Vice-President** cluster: Arts. **63–69** (office, RS Chair, acting President, election, term/removal, vacancy, oath). VP is elected by **Parliament only** (Art. **66**). President’s college includes **State MLAs** (Art. **54**).
+30. **High Court** cluster: Art. **214** (HC for each State), **215** (court of record), **217** (appointment; age **62**), **226** (writs — wider than 32), **227** (superintendence), **231** (common HC). Do not swap **226** with **227**.
+31. **Article 21** is one sentence in the text, but courts have read into it dignity, livelihood, privacy, health, environment and related rights (*Maneka* → *Puttaswamy* map). **Article 21A** is the separate RTE for ages **6–14**.
+32. **Article 51A** lists **11** Fundamental Duties (**a–k**). Ten came with the **42nd**; **51A(k)** came with the **86th**. Advocate-General of a State is Art. **165** (parallel to Union AG under Art. **76**).
 
 ---
 
@@ -60,9 +64,17 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 | 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs AMTM Autonomous Councils | — |
 | 11th Schedule | 12th Schedule | 29 Panchayat subjects vs 18 Municipality subjects | — |
 | Art. 32 | Art. 226 | SC writs (FR) vs HC writs (wider — any purpose) | — |
+| Art. 226 | Art. 227 | HC writs vs HC **superintendence** over subordinate courts | — |
+| Art. 54 | Art. 66 | President: elected MPs + elected MLAs vs VP: **Parliament only** | — |
+| Art. 61 | Art. 67 | President **impeachment** vs VP removal by RS resolution + LS agreement | — |
 | Art. 72 | Art. 161 | President’s pardon vs Governor’s pardon | — |
+| Art. 76 | Art. 165 | Attorney-General of India vs Advocate-General of a State | — |
 | Art. 123 | Art. 213 | President’s Ordinance vs Governor’s Ordinance | — |
+| Art. 124 age | Art. 217 age | SC Judge **65** vs HC Judge **62** | — |
+| Art. 21 | Art. 21A | Life/liberty (wide, all persons) vs RTE **6–14** only | — |
+| Art. 29 | Art. 30 | Any **section** (culture) vs **minorities**’ institutions | — |
 | Art. 352 | Art. 356 / 360 | National vs State vs Financial Emergency | — |
+| Art. 371I | Art. 371J | **Goa** (min. 30 MLAs) vs **Karnataka** (Kalyana-Karnataka) | — |
 
 ---
 
@@ -104,13 +116,15 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 | **XXII** | Short Title, Commencement, Authoritative Text, Repeals |
 
 ### High-yield Part facts
-- **III** = FR · **IV** = DPSP · **IVA** = Duties (42nd Amendment)
-- **IX / IXA / IXB** = Panchayats / Municipalities / Cooperatives
-- **X** = Scheduled & Tribal Areas · **XI** = Union–State relations
-- **XIVA** = Tribunals · **XV** = Elections · **XVIII** = Emergency
-- **Attorney General** sits under **Part V** (not Part XIII)
+- **Part III** holds Fundamental Rights. **Part IV** holds DPSP. **Part IVA** holds Fundamental Duties (42nd Amendment).
+- **Part IX** is Panchayats. **Part IXA** is Municipalities. **Part IXB** is Cooperative Societies.
+- **Part X** covers Scheduled and Tribal Areas. **Part XI** covers Union–State relations.
+- **Part XIVA** covers Tribunals. **Part XV** covers Elections. **Part XVIII** covers Emergency.
+- The **Attorney General** sits under **Part V**, not under Part XIII.
 
 **PYQ — UPPCS Prelims 2025, Q24**
+
+**Logic:** Tests Part↔subject matching. Municipalities sit in Part **IXA**, not Part XI (Union–State relations). IVA and VI are correctly matched.
 
 Which pairs of Parts and subjects are NOT correctly matched?
 
@@ -126,11 +140,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Only 3.** Municipalities = **Part IXA**; Part XI = Union–State relations.
+**Ans: B — Only 3.** Municipalities = **Part IXA**; Part XI = Union–State relations. Statements 1 and 2 are correct. Trap: parking Municipalities under Part XI because “local” sounds like Centre–State relations.
 
 </details>
 
 **PYQ — UPPCS Prelims 2023, Q1**
+
+**Logic:** Tribunals were added as Part **XIVA** (42nd). Part XI is only Union–State relations. UTs, Scheduled Areas and Official Language matches are standard.
 
 Which (Provision — Part) is NOT correctly matched?
 
@@ -142,11 +158,13 @@ D. Official Language — Part XVII
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Tribunals = **Part XIVA**.
+**Ans: C.** Tribunals = **Part XIVA**. Part XI = relations between the Union and the States. Trap: confusing XIVA with XI because both sit in the later Parts map.
 
 </details>
 
 **PYQ — UPPCS Prelims 2020, Q110**
+
+**Logic:** Attorney-General is Art. **76** under Part **V** (Union). Part XIII is Trade, Commerce and Intercourse — a classic wrong parking for AG.
 
 Which is NOT correctly matched?
 
@@ -158,11 +176,13 @@ D. Services — Part XIV
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Attorney General is under **Part V**; Part XIII = Trade, Commerce and Intercourse.
+**Ans: C.** Attorney-General is under **Part V**; Part XIII = Trade, Commerce and Intercourse. Trap: AG sounds “legal services”, so candidates park him under XIV/XIII.
 
 </details>
 
 **PYQ — UPPCS Prelims 2018, Q73**
+
+**Logic:** Citizenship is a standalone Part **II** (Arts. 5–11). Part I is only Union and Territory.
 
 In which Part of the Constitution of India do we find the provisions relating to citizenship?
 
@@ -174,7 +194,7 @@ D. Part IX
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Part II.**
+**Ans: B — Part II.** Part I = Union and its Territory. Part VII is repealed. Part IX = Panchayats.
 
 </details>
 
@@ -182,16 +202,16 @@ D. Part IX
 
 ## Important Parts (syllabus set — elaborated)
 
-| Part | Articles | What it contains () |
-|------|----------|-------------------------|
-| **III** | **12–35** | Fundamental Rights — justiciable; Art. 32 “heart and soul” (Ambedkar) |
+| Part | Articles | What it contains |
+|------|----------|------------------|
+| **III** | **12–35** | Fundamental Rights — justiciable; Art. 32 called the “heart and soul” by Ambedkar |
 | **IV** | **36–51** | DPSP — **not** justiciable; fundamental in governance (Art. 37) |
 | **IVA** | **51A** | Fundamental Duties — **42nd Amd, 1976**; **11** duties (10 original + **51A(k)** by **86th**) |
 | **IX** | **243–243O** | Panchayats — **73rd Amd**; Gram Sabha; 3-tier; SEC; **11th Schedule** |
 | **IXA** | **243P–243ZG** | Municipalities — **74th Amd**; **12th Schedule** |
 | **IXB** | **243ZH–243ZT** | Cooperative Societies — **97th Amd, 2011** |
 | **XV** | **324–329** | Elections; Election Commission; adult suffrage (**326**); bar on court interference (**329**) |
-| **XVIII** | **352–360** | National **352** · State/President’s Rule **356** · Financial **360** |
+| **XVIII** | **352–360** | National Emergency (**352**); State / President’s Rule (**356**); Financial Emergency (**360**) |
 | **XXI** | **369–392** | Temporary, Transitional & Special — **370** (J&K, now inoperative); **371–371J** |
 
 Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tribal Areas · **XI** Union–State relations · **XIVA** Tribunals · **XVII** Official Language · **XX** Amendment.
@@ -200,214 +220,504 @@ Also match: **V** Union · **VI** States · **VIII** UTs · **X** Scheduled & Tr
 
 ## Important Articles — number · subject · elaboration
 
-*Column 2 = matching label. Column 3 = key fact (numbers, firsts, traps). Deep FR/Emergency chapters still come later.*
+*Column tables remain for quick match. Articles **1–35** also carry clause-wise teaching below. Deep FR / Emergency / Judiciary chapters still come later for case law depth.*
 
-### Part I–II — Union, Territory, Citizenship
-
-| Art. | Subject | Elaboration |
-|------|---------|-------------|
-| **1** | Name and territory of the Union | India, that is Bharat, shall be a **Union of States**. Territory = States + UTs + such other territories as may be acquired. “Union” (not federation) = indestructible Union of destructible States. |
-| **2** | Admission / establishment of new States | Parliament may by law admit new States into the Union or establish new States on such terms as it thinks fit (e.g. historically Sikkim via related provisions). |
-| **3** | Formation of new States; alteration of area, boundaries, name | Parliament may form a new State, increase/diminish area, alter boundaries or name. **President’s recommendation** is needed; State Legislature’s view is **not binding**. |
-| **4** | Laws under Arts. 2–3 | Such laws may amend First/Fourth Schedules and are **not** deemed amendments under **Art. 368**. |
-| **5** | Citizenship at commencement | Person domiciled in India + born in India, or either parent born in India, or ordinarily resident 5 years — citizen at commencement (26 Jan 1950). |
-| **6–8** | Citizenship — Pakistan migrants / persons of Indian origin abroad | Art. 6–7: migrants from Pakistan (cut-off **19 July 1948**). Art. 8: persons of Indian origin residing outside India. |
-| **9** | Voluntary acquisition of foreign citizenship | Such a person **shall not** be a citizen under Arts. 5–8. |
-| **10–11** | Continuance; Parliament’s power | Art. 10: citizenship continues subject to law. **Art. 11**: Parliament may make any provision on acquisition/termination — **Citizenship Act, 1955**. |
-
-### Part III — Fundamental Rights
+### Part I–II — Union, Territory, Citizenship (Arts. 1–11)
 
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
-| **12** | Definition of **State** | Government & Parliament of India; Government & Legislature of each State; local and **other authorities** within India or under control of GoI. FR bind this “State”. |
-| **13** | Laws inconsistent with FR | Pre-Constitution laws inconsistent with FR are **void** to that extent. **13(2)**: State shall not make abridging laws. Includes ordinance, order, bye-law, rule, notification, custom. **Trap:** Constitutional amendment is not “law” under 13 (*Kesavananda* line; Golaknath had held otherwise). |
-| **14** | Equality before law | Equality before law (British) + **equal protection of laws** (US). Permits **reasonable classification**, forbids class legislation. |
-| **15** | Prohibition of discrimination | No discrimination on **religion, race, caste, sex, place of birth**. 15(3) women/children; 15(4) SEBC/SC/ST; **15(6) EWS** (103rd). Access to shops, wells, etc. |
-| **16** | Equality of opportunity in public employment | No discrimination in State employment on the same grounds + **residence** (Parliament may prescribe residence). 16(4) backward-class reservation; **16(6) EWS**. |
-| **17** | Abolition of Untouchability | Untouchability abolished; practice a **punishable offence**. Protection of Civil Rights Act, 1955. |
-| **18** | Abolition of titles | No title (except military/academic). No citizen to accept foreign title without President’s consent. Bharat Ratna / Padma awards are **not** titles in this sense (*Balaji Raghavan*). |
-| **19** | Six freedoms | (a) speech & expression (b) assembly (c) association (d) movement (e) residence (g) profession. **19(1)(f) property deleted by 44th.** All subject to **reasonable restrictions** (19(2)–(6)). Citizens only. |
-| **20** | Protection in respect of conviction | (1) **No ex post facto** criminal law (2) **No double jeopardy** (3) **No self-incrimination**. Available to citizens and non-citizens. |
-| **21** | Life and personal liberty | No deprivation except according to **procedure established by law**. Expanded: privacy, livelihood, health, shelter, speedy trial, dignity (*Maneka, Francis Coralie, Puttaswamy*). Citizens + foreigners. |
-| **21A** | Right to Education | Free and compulsory education to children **6–14 years** — **86th Amendment, 2002**; RTE Act, 2009. |
-| **22** | Protection against arrest and detention | Rights of ordinary arrested person (grounds, lawyer, produce before magistrate in **24 hours**). **22(3)–(7)** carve-out for **preventive detention** (Parliament: max period, advisory board). |
-| **23** | Traffic in human beings and forced labour | Prohibits traffic, *begar* and similar forced labour. State may impose compulsory service for public purposes (no discrimination on religion/race/caste/class). |
-| **24** | Prohibition of child labour (hazardous) | No child **below 14** to work in factory, mine or other hazardous employment. |
-| **25** | Freedom of conscience and religion | Profession, practice, **propagation**. Subject to public order, morality, health. Sikh kirpan saved. State may regulate secular activity associated with religion. |
-| **26** | Freedom to manage religious affairs | Every religious denomination: establish institutions, manage own affairs in religion, own/acquire property, administer property by law. |
-| **27** | Freedom from taxes for religion | No person compelled to pay tax whose proceeds are specifically appropriated for promotion/maintenance of any **particular** religion. |
-| **28** | Religious instruction in institutions | Wholly State-funded institutions: **no** religious instruction. Administered by State but established under endowment: instruction as provided, with consent. |
-| **29** | Protection of minorities’ interests | Any section of citizens with distinct language/script/culture has right to conserve it. No denial of admission into State-maintained/aided institutions on religion, race, caste, language. |
-| **30** | Minorities’ educational institutions | Religious or linguistic minorities: establish and administer educational institutions. Includes compensation when property is acquired (after 44th). |
-| **31A** | Saving of laws for estates etc. | Protects agrarian reform / estate-acquisition laws from Arts. 14 and 19. |
-| **31B** | Validation via Ninth Schedule | Acts in **9th Schedule** cannot be void for FR inconsistency — later limited by *I.R. Coelho* (post-**24 Apr 1973** entries open to Basic Structure). |
-| **31C** | Saving of laws giving effect to DPSP | Laws giving effect to **39(b)–(c)** (and, historically, wider 42nd text) saved from 14/19; linked to *Kesavananda / Minerva Mills*. |
-| **32** | Constitutional remedies (Supreme Court) | Right to move SC for FR — **five writs**: habeas corpus, mandamus, prohibition, certiorari, quo warranto. Ambedkar: **heart and soul**. Itself a FR. |
-| **33** | Power to modify FR for armed forces | Parliament may restrict/abrogate FR of armed forces, police, intelligence, analogous forces to ensure proper discharge and discipline. |
-| **34** | Restriction of FR when martial law in force | Parliament may indemnify persons for acts in any area where martial law was in force. |
-| **35** | Legislation to give effect to certain FR | Only **Parliament** (not States) can make laws on 16(3), 32, 33, 34 and prescribed punishments for 17/23. |
+| **1** | Name and territory of the Union | India, that is Bharat, shall be a **Union of States**. Territory = States + UTs + such other territories as may be acquired. |
+| **2** | Admission / establishment of new States | Parliament may by law admit new States into the Union or establish new States on such terms as it thinks fit. |
+| **3** | Formation of new States; alteration of area, boundaries, name | Parliament may form a new State, increase or diminish area, alter boundaries or name. **President’s recommendation** is needed. The State Legislature’s view is **not binding**. |
+| **4** | Laws under Arts. 2–3 | Such laws may amend the First and Fourth Schedules and are **not** deemed amendments under **Art. 368**. |
+| **5** | Citizenship at commencement | A person domiciled in India who was born in India, or either of whose parents was born in India, or who had been ordinarily resident for not less than five years, became a citizen on **26 Jan 1950**. |
+| **6** | Rights of citizenship of certain persons who have migrated to India from Pakistan | Cut-off teaching: migrants before **19 July 1948** (and related domicile rules) vs those who came after and registered. |
+| **7** | Rights of citizenship of certain migrants to Pakistan | A person who migrated to Pakistan after **1 March 1947** generally loses citizenship under Arts. 5–6, with a narrow return-and-resettle exception. |
+| **8** | Rights of citizenship of certain persons of Indian origin residing outside India | Persons of Indian origin abroad may register as citizens on prescribed terms. |
+| **9** | Persons voluntarily acquiring citizenship of a foreign State not to be citizens | Such a person **shall not** be a citizen by virtue of Arts. 5–8. |
+| **10** | Continuance of the rights of citizenship | Citizenship continues subject to any law made by Parliament. |
+| **11** | Parliament to regulate the right of citizenship by law | Parliament may make any provision on acquisition, termination and related matters — basis of the **Citizenship Act, 1955**. |
 
-### Part IV–IVA — DPSP & Duties
+#### Clause teaching — Arts. 1–4 (high-yield)
+
+- **Article 1(1)** says India, that is Bharat, shall be a **Union of States**.
+- **Article 1(2)** says the States and their territories shall be as specified in the **First Schedule**.
+- **Article 1(3)** defines the territory of India as the territories of the States, the Union Territories specified in the First Schedule, and such other territories as may be acquired.
+- The word **Union** (not federation) is taught as an **indestructible Union of destructible States**.
+- **Article 2** covers admission or establishment of **new** States into the Union.
+- **Article 3** covers formation of a new State by separation, uniting States or parts of States, increasing or diminishing area, and altering boundaries or name.
+- A Bill under Article 3 needs the **President’s recommendation**. The President refers it to the concerned State Legislature for its views within a prescribed period. Those views do **not** bind Parliament.
+- **Article 4** says laws under Arts. 2–3 may amend the First and Fourth Schedules and do **not** attract the Art. 368 amendment procedure.
+
+#### Clause teaching — Arts. 5–11 (citizenship cluster)
+
+- **Article 5** fixed citizenship **at the commencement** of the Constitution (26 Jan 1950).
+- **Articles 6 and 7** deal with migration between India and Pakistan around Partition, with the classic cut-off date **19 July 1948** in Art. 6 teaching.
+- **Article 8** covers persons of Indian origin residing outside India.
+- **Article 9** bars dual citizenship through Arts. 5–8 if a person voluntarily acquires foreign citizenship.
+- **Article 10** continues citizenship subject to law.
+- **Article 11** gives **Parliament** full power to regulate citizenship by law. Detailed acquisition and termination rules live in the **Citizenship Act, 1955**, not in the Constitution’s short Part II text.
+
+---
+
+### Part III — Fundamental Rights (Arts. 12–35) — full clause map
+
+| Art. | Subject | Quick label |
+|------|---------|-------------|
+| **12** | Definition of **State** | Who is bound by FR |
+| **13** | Laws inconsistent with FR | Voidness + what “law” means |
+| **14–18** | Right to Equality | Equality cluster |
+| **19–22** | Right to Freedom | Six freedoms + conviction + life + arrest |
+| **23–24** | Right against Exploitation | Trafficking, begar, child labour |
+| **25–28** | Freedom of Religion | Conscience to religious instruction |
+| **29–30** | Cultural & Educational Rights | Sections / minorities |
+| **31A–31C** | Saving of certain laws | Estates / 9th Schedule / DPSP link |
+| **32–35** | Constitutional remedies & Parliament’s power | Writs; armed forces; martial law; legislation |
+
+#### Article 12 — Definition of State
+
+- **Article 12** defines **State** for Part III.
+- It includes the Government and Parliament of India.
+- It includes the Government and the Legislature of each State.
+- It includes all local authorities within the territory of India.
+- It includes **other authorities** within India or under the control of the Government of India.
+- Fundamental Rights primarily bind this “State”. Courts use the instrumentality / agency tests to decide whether a body is an “other authority”.
+
+#### Article 13 — Laws inconsistent with Fundamental Rights
+
+- **Article 13(1)** says pre-Constitution laws inconsistent with Part III are **void to the extent of inconsistency**.
+- **Article 13(2)** says the State shall **not** make any law that takes away or abridges rights conferred by Part III. Any such law is void to that extent.
+- **Article 13(3)** defines **law** to include ordinance, order, bye-law, rule, regulation, notification, custom or usage having the force of law.
+- **Article 13(4)** (after the **24th Amendment**) says nothing in this article applies to any amendment of the Constitution under **Article 368**.
+- Classic trap: a constitutional amendment is **not** treated as ordinary “law” under Art. 13 after the 24th Amendment line (contrast the earlier *Golaknath* reading).
+
+#### Article 14 — Equality before law
+
+- **Article 14** says the State shall not deny to **any person** equality before the law or the equal protection of the laws within the territory of India.
+- **Equality before law** is the British rule-of-law idea (no special privilege).
+- **Equal protection of the laws** is the American idea (like should be treated alike).
+- Reasonable classification is allowed. Class legislation is forbidden.
+- Article 14 is available to **citizens and non-citizens**.
+
+#### Article 15 — Prohibition of discrimination (clause-wise)
+
+| Clause | What it does |
+|--------|----------------|
+| **15(1)** | State shall not discriminate against any **citizen** only on religion, race, caste, sex, place of birth, or any of them. |
+| **15(2)** | No citizen shall face disability on those grounds regarding access to shops, restaurants, hotels, places of public entertainment, or use of wells, tanks, bathing ghats, roads and places of public resort (State-funded or for general public). This reaches certain **private** discrimination in public spaces. |
+| **15(3)** | Special provisions for **women and children** are allowed. |
+| **15(4)** | Special provisions for advancement of **SEBCs / SCs / STs** are allowed (**1st Amendment**, after *Champakam Dorairajan*). |
+| **15(5)** | Special provisions for SEBC/SC/ST admission to educational institutions, including private aided/unaided ones, **except** minority institutions under Art. 30(1) (**93rd Amendment**). |
+| **15(6)** | Special provisions for **EWS** (other than classes in 15(4)/(5)), including education reservation up to **10%** (**103rd Amendment**). |
+
+- Grounds in 15(1)/(2) do **not** include language or descent (those appear elsewhere, e.g. Art. 16 for descent/residence).
+- **15(4)** is the classic reservation-enabling clause for SEBC/SC/ST advancement.
+- **15(6)** is the EWS education route. Pair it with **16(6)** for public employment.
+
+#### Article 16 — Equality of opportunity in public employment (clause-wise)
+
+| Clause | What it does |
+|--------|----------------|
+| **16(1)** | Equality of opportunity for all **citizens** in employment or appointment under the State. |
+| **16(2)** | No citizen shall be discriminated against in State employment only on religion, race, caste, sex, **descent**, place of birth, **residence**, or any of them. |
+| **16(3)** | Parliament may prescribe residence requirements for certain classes of State employment. |
+| **16(4)** | State may reserve posts for any backward class not adequately represented in State services. |
+| **16(4A)** | Reservation in **promotion** for SCs/STs (**77th Amendment** line). |
+| **16(4B)** | Carry-forward of unfilled reserved vacancies (**81st** / related teaching). |
+| **16(5)** | Religious denomination offices / connected institutions may be reserved for members of that denomination. |
+| **16(6)** | EWS reservation in public employment (**103rd Amendment**). |
+
+- Article 16 is for **citizens** and for **public employment**, unlike Art. 14 which covers any person.
+- **Residence** as a ground appears in 16(2); Parliament may still prescribe residence under 16(3).
+
+#### Article 17 — Abolition of Untouchability
+
+- Untouchability is abolished and its practice in any form is forbidden.
+- Enforcement of any disability arising out of untouchability is a **punishable offence**.
+- The Protection of Civil Rights Act, 1955 gives effect to this article.
+- Article 17 also binds private persons in the classic teaching.
+
+#### Article 18 — Abolition of titles
+
+- **18(1)** says no title shall be conferred by the State except a military or academic distinction.
+- **18(2)** says no citizen of India shall accept any title from a foreign State.
+- **18(3)** and **18(4)** restrict foreign titles / presents for non-citizens holding office of profit and for citizens holding such office, without the President’s consent where required.
+- National awards such as **Bharat Ratna** and **Padma** awards are **not** “titles” in the Art. 18 sense (*Balaji Raghavan* line).
+
+#### Article 19 — Six freedoms (citizens only)
+
+| Sub-clause | Freedom | Restriction clause |
+|------------|---------|-------------------|
+| **19(1)(a)** | Freedom of speech and expression | **19(2)** — sovereignty, security, foreign relations, public order, decency/morality, contempt of court, defamation, incitement to offence |
+| **19(1)(b)** | Assemble peaceably and without arms | **19(3)** |
+| **19(1)(c)** | Form associations or unions or cooperative societies | **19(4)** |
+| **19(1)(d)** | Move freely throughout India | **19(5)** |
+| **19(1)(e)** | Reside and settle in any part of India | **19(5)** |
+| **19(1)(g)** | Practise any profession, or carry on any occupation, trade or business | **19(6)** |
+
+- Original **19(1)(f)** (property) was deleted by the **44th Amendment**. Property is now a legal right under **Art. 300A**.
+- All six surviving freedoms are available only to **citizens**.
+- Restrictions must be **reasonable** and on the grounds listed in 19(2)–(6).
+
+#### Article 20 — Protection in respect of conviction for offences
+
+| Clause | Rule | Teaching sentence |
+|--------|------|-------------------|
+| **20(1)** | No **ex post facto** criminal law | No person shall be convicted of an offence except for violation of a law in force at the time of the act. No greater penalty than what the law then provided. |
+| **20(2)** | No **double jeopardy** | No person shall be prosecuted and punished for the same offence more than once. |
+| **20(3)** | No **self-incrimination** | No person accused of an offence shall be compelled to be a witness against himself. |
+
+- Article 20 is available to **citizens and non-citizens**.
+- It is a conviction / criminal-process protection. Do not park torture, privacy or livelihood only under Art. 20 — those sit mainly under **Art. 21**.
+
+#### Article 21 — Protection of life and personal liberty
+
+- Text: *No person shall be deprived of his life or personal liberty except according to **procedure established by law**.*
+- Available to **citizens and foreigners**.
+- *A.K. Gopalan* read this narrowly. *Maneka Gandhi* (1978) held that the procedure must be **fair, just and reasonable**, and linked Arts. **14, 19 and 21** (golden triangle).
+- “Life” is not mere animal existence. It includes living with human dignity (*Francis Coralie Mullin*).
+
+##### Table — Rights read into Article 21 (high-yield map)
+
+| Right read into Art. 21 | Leading case / note |
+|-------------------------|---------------------|
+| Fair, just and reasonable procedure; travel abroad | *Maneka Gandhi* (1978) |
+| Speedy trial; free legal aid (linked teaching) | *Hussainara Khatoon* |
+| Live with human dignity | *Francis Coralie Mullin* |
+| Livelihood | *Olga Tellis* |
+| Against handcuffing / inhuman treatment (custody) | *Prem Shankar Shukla* / *D.K. Basu* line |
+| Education (before Art. 21A) | *Mohini Jain* / *Unni Krishnan* → later **21A** |
+| Health and emergency medical care | *Paschim Banga Khet Mazdoor Samity* line |
+| Shelter / housing dignity themes | Court expansion after *Olga Tellis* line |
+| Clean environment / clean air | Environment cases (*Subhash Kumar*, *Murli Deora* line) |
+| Food / against starvation themes | *PUCL* line |
+| Against sexual harassment at workplace | *Vishaka* guidelines |
+| Gender identity of transgender persons | *NALSA* (2014) |
+| **Privacy** as a Fundamental Right | *K.S. Puttaswamy* (2017) |
+| Die with dignity / passive euthanasia framework | *Common Cause* (2018) |
+| Choose life partner / personal autonomy themes | Later autonomy cases |
+
+- **Article 21A** is a separate FR for free and compulsory education of children aged **6–14** (**86th Amendment, 2002**; RTE Act, 2009). Do not treat every education question as only Art. 21 after 21A was inserted.
+
+#### Article 22 — Protection against arrest and detention
+
+| Block | Clauses | What it teaches |
+|-------|---------|-----------------|
+| Ordinary arrest | **22(1)–(2)** | Person arrested must be informed of grounds as soon as may be; right to consult and be defended by a legal practitioner of choice; produce before the nearest magistrate within **24 hours** (excluding journey time); no further detention without magistrate’s authority. |
+| Carve-out | **22(3)** | 22(1)–(2) do **not** apply to an enemy alien or to a person detained under a **preventive detention** law. |
+| Preventive detention | **22(4)–(7)** | Detention beyond **three months** needs an **Advisory Board** opinion (High Court judges / qualified persons), unless Parliament by law fixes the maximum period and procedure under 22(7). Parliament may prescribe the circumstances and classes of cases, and the maximum period of detention. |
+
+- Ordinary arrest rights and preventive-detention rules are **two different codes** inside one article.
+- Classic trap: “24 hours before magistrate” is for ordinary arrest, not the full story of preventive detention.
+
+#### Articles 23–24 — Right against Exploitation
+
+- **Article 23(1)** prohibits traffic in human beings, *begar*, and other similar forms of forced labour. Contravention is a punishable offence.
+- **Article 23(2)** lets the State impose compulsory service for public purposes, without discrimination only on religion, race, caste or class.
+- **Article 24** says no child below **fourteen years** shall work in any factory or mine or engage in any other hazardous employment.
+- Do not park untouchability here. Untouchability is **Article 17** under equality.
+
+#### Articles 25–28 — Freedom of religion (clause highlights)
+
+- **Article 25(1)** guarantees freedom of conscience and the right freely to profess, practise and **propagate** religion, subject to public order, morality and health, and to the other Part III provisions.
+- **Article 25(2)** lets the State regulate or restrict any economic, financial, political or other secular activity associated with religious practice, and provide for social welfare and reform (including throwing open Hindu religious institutions of a public character to all classes and sections of Hindus). The Sikh wearing of *kirpan* is saved by explanation.
+- **Article 26** gives every religious denomination (or section) rights to establish and maintain institutions for religious and charitable purposes, manage its own affairs in matters of religion, own and acquire movable and immovable property, and administer such property in accordance with law.
+- **Article 27** says no person shall be compelled to pay any **tax** whose proceeds are specifically appropriated for payment of expenses for the promotion or maintenance of any particular religion or denomination. A regulatory **fee** is treated differently in teaching.
+- **Article 28(1)** bars religious instruction in institutions wholly maintained out of State funds.
+- **Article 28(2)** saves institutions administered by the State but established under an endowment or trust requiring religious instruction.
+- **Article 28(3)** protects a person attending a State-recognised or State-aided institution from being required to take part in religious instruction or worship without consent (guardian’s consent if a minor).
+
+#### Articles 29–30 — Cultural and educational rights
+
+- **Article 29(1)** says any section of citizens residing in India having a distinct language, script or culture of its own shall have the right to conserve the same.
+- **Article 29(2)** says no citizen shall be denied admission into any educational institution maintained by the State or receiving State aid only on religion, race, caste, language, or any of them.
+- **Article 30(1)** says all minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.
+- **Article 30(1A)** (after the 44th) deals with compensation when the State acquires property of a minority educational institution.
+- **Article 30(2)** says the State shall not discriminate against any educational institution in granting aid on the ground that it is under minority management.
+- Trap: **29** speaks of **any section** of citizens. **30** speaks of **minorities**.
+
+#### Articles 31A, 31B, 31C — Saving of certain laws
+
+- **Article 31A** saves laws for acquisition of estates and related agrarian reform measures from being void under Arts. **14** and **19**.
+- **Article 31B** validates Acts and Regulations placed in the **Ninth Schedule**. Later, *I.R. Coelho* held that post-**24 April 1973** insertions can be tested on **Basic Structure**.
+- **Article 31C** saves laws giving effect to the policy in **Art. 39(b)** and **39(c)** from Arts. 14 and 19 (historical wider 42nd text was cut back in the *Kesavananda / Minerva Mills* line).
+
+#### Article 32 — Remedies for enforcement of Fundamental Rights
+
+- **Article 32(1)** guarantees the right to move the Supreme Court by appropriate proceedings for enforcement of Part III rights.
+- **Article 32(2)** empowers the Supreme Court to issue directions, orders or writs, including **habeas corpus, mandamus, prohibition, quo warranto and certiorari**.
+- **Article 32(3)** lets Parliament empower any other court to exercise these powers within local limits, without prejudice to SC powers.
+- **Article 32(4)** says this right shall not be suspended except as otherwise provided in the Constitution (Emergency suspension rules under Arts. 358–359).
+- Ambedkar called Article 32 the **heart and soul** of the Constitution. The right to constitutional remedies is itself a Fundamental Right.
+- Article 32 writs are for **Fundamental Rights**. Article **226** is wider (FR + other legal rights).
+
+#### Articles 33–35 — Armed forces, martial law, Parliament’s exclusive power
+
+- **Article 33** lets Parliament determine to what extent Part III rights apply to members of the armed forces, forces charged with maintenance of public order, persons employed in intelligence/telecom related to them, and analogous forces, so as to ensure proper discharge of duties and maintenance of discipline.
+- **Article 34** lets Parliament indemnify any person in the service of the Union or a State, or any other person, for acts done in connection with maintenance or restoration of order in any area where **martial law** was in force. It also validates related sentences, punishments and forfeitures.
+- **Article 35** says Parliament (not State Legislatures) shall have power to make laws on matters in Arts. **16(3), 32(3), 33 and 34**, and to prescribe punishment for acts under Arts. **17** and **23**. Existing laws on those subjects continue until altered or repealed by Parliament.
+
+---
+
+### Part IV–IVA — DPSP & Fundamental Duties (Arts. 36–51A)
 
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
 | **36** | Definition of State (Part IV) | Same meaning as **Art. 12**. |
-| **37** | Application of DPSP | **Not enforceable** in court, but **fundamental in the governance** of the country; State duty to apply in making laws. |
-| **38** | Social order; minimise inequalities | Secure a social order for welfare. **38(2)** (44th): minimise inequalities in income, status, facilities, opportunities. |
-| **39** | Certain principles of policy | Livelihood for all; ownership of resources distributed for common good **39(b)**; no concentration of wealth **39(c)**; equal pay; child health; workers not abused. 39(b)(c) ↔ Art. 31C. |
-| **39A** | Equal justice and free legal aid | **42nd Amendment.** |
-| **40** | Village Panchayats | Organise village panchayats and endow them with powers of self-government — seed of **Part IX / 73rd**. |
-| **41** | Right to work, education, public assistance | Within economic capacity — unemployment, old age, sickness, disablement. |
-| **42** | Just and humane conditions of work; maternity relief | Basis of labour welfare / maternity benefit laws. |
-| **43** | Living wage; cottage industry | Living wage, decent standard of life, cottage industries in rural areas. **43A** workers’ participation in management (**42nd**). **43B** cooperative societies (**97th**). |
-| **44** | Uniform Civil Code | State shall endeavour to secure UCC for citizens throughout India. |
-| **45** | Early childhood care and education | After **86th**: State to provide early childhood care and education for children **below 6** (6–14 shifted to 21A). |
-| **46** | SC, ST and other weaker sections | Promote educational and economic interests; protect from social injustice and exploitation. |
-| **47** | Nutrition, standard of living, public health | Primary duty; **prohibit consumption of intoxicating drinks and drugs** except for medicinal purposes. |
-| **48** | Agriculture and animal husbandry | Organise on modern lines; **prohibit slaughter** of cows, calves and other milch/draught cattle. |
-| **48A** | Environment, forests, wildlife | Protect and improve environment; safeguard forests and wildlife — **42nd Amendment**. |
-| **49** | Protection of monuments | Protect monuments, places and objects of national importance. |
+| **37** | Application of DPSP | DPSP are **not enforceable** in court, but are **fundamental in the governance** of the country. It is the State’s duty to apply them in making laws. |
+| **38** | Social order; minimise inequalities | Secure a social order for the promotion of welfare. **38(2)** (44th) directs the State to minimise inequalities in income, status, facilities and opportunities. |
+| **39** | Certain principles of policy | Livelihood for all citizens; ownership and control of material resources distributed for the common good **39(b)**; operation of the economic system does not result in concentration of wealth **39(c)**; equal pay for equal work; health of workers and children; children are given opportunities to develop in a healthy manner. **39(b)–(c)** link to Art. **31C**. |
+| **39A** | Equal justice and free legal aid | Inserted by the **42nd Amendment**. |
+| **40** | Organisation of village panchayats | State shall take steps to organise village panchayats and endow them with powers of self-government — seed of **Part IX / 73rd**. |
+| **41** | Right to work, to education and to public assistance | Within the limits of economic capacity and development — unemployment, old age, sickness and disablement, and undeserved want. |
+| **42** | Just and humane conditions of work and maternity relief | Basis of labour welfare and maternity benefit laws. |
+| **43** | Living wage for workers; cottage industries | Living wage, decent standard of life, and cottage industries on an individual or co-operative basis in rural areas. |
+| **43A** | Participation of workers in management | **42nd Amendment**. |
+| **43B** | Promotion of co-operative societies | **97th Amendment**. |
+| **44** | Uniform Civil Code | State shall endeavour to secure for citizens a Uniform Civil Code throughout India. |
+| **45** | Early childhood care and education | After the **86th**: State shall endeavour to provide early childhood care and education for all children until they complete the age of **six years** (6–14 shifted to Art. **21A**). |
+| **46** | Promotion of educational and economic interests of SC, ST and other weaker sections | Protect them from social injustice and all forms of exploitation. |
+| **47** | Duty to raise nutrition and standard of living and improve public health | Primary duty of the State. Includes endeavour to prohibit consumption of intoxicating drinks and drugs injurious to health, except for medicinal purposes. |
+| **48** | Organisation of agriculture and animal husbandry | Organise on modern and scientific lines. Take steps to prohibit slaughter of cows, calves and other milch and draught cattle. |
+| **48A** | Protection of environment, forests and wildlife | Protect and improve the environment and safeguard forests and wildlife — **42nd Amendment**. Pairs with duty **51A(g)**. |
+| **49** | Protection of monuments and places and objects of national importance | Protect every monument, place or object of artistic or historic interest declared to be of national importance. |
 | **50** | Separation of judiciary from executive | In the public services of the State. |
-| **51** | International peace and security | Promote international peace; just relations; respect for international law and treaty obligations; settlement of disputes by arbitration. |
-| **51A** | Fundamental Duties | **11** duties (a–k). Added **42nd, 1976** (Swaran Singh; 10 duties). **51A(k)** — parent/guardian to provide education to child **6–14** (**86th, 2002**). |
+| **51** | Promotion of international peace and security | Promote international peace and security; maintain just and honourable relations between nations; foster respect for international law and treaty obligations; encourage settlement of international disputes by arbitration. |
 
-### Union Executive, Parliament, Judiciary, CAG
+#### Article 51A — Fundamental Duties (full table)
+
+- Part **IVA** was added by the **42nd Amendment, 1976** (Swaran Singh Committee background).
+- Originally **10** duties. The **86th Amendment, 2002** added **51A(k)** — now **11** duties.
+- Duties are addressed to **every citizen** of India. They are **not** directly enforceable like Fundamental Rights, but courts may read them as interpretive aids and Parliament may give them statutory teeth.
+
+| Clause | Duty of every citizen |
+|--------|------------------------|
+| **51A(a)** | Abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem. |
+| **51A(b)** | Cherish and follow the noble ideals which inspired the national struggle for freedom. |
+| **51A(c)** | Uphold and protect the sovereignty, unity and integrity of India. |
+| **51A(d)** | Defend the country and render national service when called upon to do so. |
+| **51A(e)** | Promote harmony and the spirit of common brotherhood among all the people of India, transcending religious, linguistic and regional or sectional diversities; renounce practices derogatory to the dignity of women. |
+| **51A(f)** | Value and preserve the rich heritage of our composite culture. |
+| **51A(g)** | Protect and improve the natural environment including forests, lakes, rivers and wildlife, and have compassion for living creatures. |
+| **51A(h)** | Develop the scientific temper, humanism and the spirit of inquiry and reform. |
+| **51A(i)** | Safeguard public property and abjure violence. |
+| **51A(j)** | Strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement. |
+| **51A(k)** | Parent or guardian shall provide opportunities for education to the child or ward between the ages of **six and fourteen years** (**86th Amendment**). |
+
+- **51A(g)** pairs with DPSP **48A** (environment).
+- **51A(k)** pairs with FR **21A** and the rewritten DPSP **45** (under-6 care).
+
+---
+
+### Union Executive — President, Vice-President, Council of Ministers, Attorney-General
 
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
 | **52** | President of India | There shall be a President of India. |
-| **53** | Executive power of the Union | Vested in the President; exercised directly or through officers. Supreme command of Defence Forces, regulation by law. |
-| **54** | Election of President | Electoral college: elected MPs of both Houses + elected MLAs of States (**and of Delhi & Puducherry** after 70th). Nominated members do **not** vote. |
-| **55** | Manner of election | Proportional representation by **single transferable vote**; secret ballot. Uniformity among States and parity Union–States. |
-| **56** | Term of office | **5 years**; continues until successor enters office. May resign to VP; may be removed by impeachment (61). |
-| **60** | Oath of President | Oath/affirmation by **Chief Justice of India** (in his absence, senior-most SC judge). **Not** in Third Schedule. |
-| **61** | Impeachment of President | Violation of the Constitution. Charge by either House (**1/4 members** notice, **14 days**); passed by **2/3 of total membership**; other House investigates. |
-| **63–64** | Vice-President | VP of India; **ex-officio Chairman of Rajya Sabha**. |
-| **66** | Election of Vice-President | Elected by members of **both Houses** (elected + nominated) — **not** State MLAs. STV, secret ballot. |
-| **72** | President’s pardoning power | Pardon, reprieve, respite, remission, commutation — Union law offences, **court-martial**, and **death sentences** (all cases). |
-| **74** | Council of Ministers to aid and advise | President shall act on advice of CoM headed by PM. **42nd** made advice binding; **44th** allows President to require reconsideration **once**. |
-| **75** | PM and Council of Ministers | PM appointed by President; other ministers on PM’s advice. **Collective responsibility to Lok Sabha**. 91st: CoM size cap **15%** of LS. |
-| **76** | Attorney-General of India | Appointed by President; qualified to be SC judge. Right of audience in all Indian courts; may take part in Parliament (no vote). |
-| **78** | Duties of Prime Minister | Communicate all CoM decisions; furnish information the President calls for; submit a decision of a minister for CoM consideration if President requires. |
-| **79** | Constitution of Parliament | President + **Lok Sabha** + **Rajya Sabha**. |
-| **80** | Composition of Rajya Sabha | Max **250** (238 States/UTs + **12** nominated by President — literature, science, art, social service). |
-| **81** | Composition of Lok Sabha | Max **550** (530 States + 20 UTs) + **not more than 2** Anglo-Indians (nomination lapsed after 104th, 2020). |
-| **83** | Duration of Houses | RS: continuing House; **1/3 retire every 2 years**. LS: **5 years** unless dissolved (during Emergency, Parliament may extend **1 year at a time**). |
-| **85** | Sessions of Parliament | President summons, prorogues, dissolves LS. **6 months** max between sessions. |
-| **108** | Joint sitting | Disagreement on ordinary Bills (not Money/Constitutional Amendment). Presided by **Speaker**. |
-| **110** | Definition of Money Bill | Taxation, borrowing, Consolidated Fund, etc. **Speaker’s certificate is final**. RS cannot amend; 14 days. |
-| **111** | Assent to Bills | President may assent, withhold, or (except Money Bill) return once for reconsideration. |
-| **112** | Annual Financial Statement | Union **Budget** laid before Parliament. |
-| **123** | President’s Ordinance | When **both Houses not in session**; same force as Act; laid before Parliament; ceases **6 weeks** after reassembly unless approved. |
-| **124** | Establishment of Supreme Court | CJI + other judges (number by law). Appointed by President; age **65**; impeachment under 124(4). |
-| **131** | Original jurisdiction of SC | Centre vs State(s); State vs State — **not** disputes from treaties/agreements that exclude SC. |
-| **136** | Special leave to appeal | SC may grant SLP from any court/tribunal in India (except armed-forces courts). Discretionary. |
-| **137** | Review of SC judgments | SC may review its own judgment (subject to law / rules). |
-| **141** | Law declared by SC | Binding on **all courts** within the territory of India. |
-| **143** | Advisory jurisdiction | President may refer a question of law or fact to SC; opinion **not binding** (but highly respected). |
-| **148** | Comptroller and Auditor-General | Appointed by President; oath in Third Schedule; removed like SC judge. **149–151**: duties; reports to President/Governor, laid before the House(s). |
-| **151** | Audit reports | Union CAG reports submitted to **President**; State reports to **Governor**. |
+| **53** | Executive power of the Union | Vested in the President and exercised directly or through officers subordinate to him. Supreme command of the Defence Forces of the Union, regulation by law. |
+| **54** | Election of President | Electoral college: elected members of both Houses of Parliament + elected members of the Legislative Assemblies of States (**and of Delhi and Puducherry** after the 70th). Nominated members do **not** vote. |
+| **55** | Manner of election | Proportional representation by means of the **single transferable vote**; voting by secret ballot. Uniformity among States and parity between the Union and the States. |
+| **56** | Term of office of President | **Five years** from the date of entering office. Continues until the successor enters office. May resign by writing to the Vice-President. May be removed by impeachment under Art. **61**. |
+| **57** | Eligibility for re-election | A person who holds, or who has held, office as President is eligible for re-election. |
+| **58** | Qualifications for election as President | Citizen of India; completed **35 years**; qualified for election as a member of the Lok Sabha; must not hold any office of profit (exceptions as provided). |
+| **59** | Conditions of President’s office | Shall not be a member of either House of Parliament or of a State Legislature (seat becomes vacant on entering office). Shall not hold any other office of profit. Emoluments in the Second Schedule / by law; privileges protected. |
+| **60** | Oath of President | Oath or affirmation before the **Chief Justice of India** (or, in his absence, the senior-most Judge of the Supreme Court). This form is **not** in the Third Schedule. |
+| **61** | Impeachment of President | For **violation of the Constitution**. Charge may be preferred by either House after notice by **not less than one-fourth** of the total members of that House and **14 days**. Resolution must be passed by a majority of **not less than two-thirds of the total membership** of that House. The other House investigates. |
+| **62** | Time of holding election to fill vacancy | Election to fill a vacancy caused by expiry of term shall be completed before the expiry of the term. Casual vacancy election as soon as possible, and in no case later than **six months** from the date of vacancy. |
 
-### States, UTs, Local Government
+#### Vice-President — Arts. 63–71 (complete high-yield set)
 
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
-| **153** | Governors of States | One Governor per State; **same person may be Governor of two or more States** (153 proviso). |
-| **154** | Executive power of State | Vested in the Governor. |
-| **155** | Appointment of Governor | By **President** by warrant under his hand and seal. |
-| **156** | Term of Governor | **5 years**; holds office **during the pleasure of the President**. |
-| **161** | Governor’s pardoning power | For offences against **State law**. **Cannot** pardon death sentence in the sense of 72’s exclusive Union/death/court-martial sweep — death sentence: Governor may commute/remit; **pardon of death** is with President under 72. Key fact: **no court-martial; no Union-law offences**. |
-| **163** | CoM to aid and advise Governor | Except functions to be exercised in **discretion** (e.g. some 6th Schedule / 371 / reservation of Bills). |
-| **164** | State Council of Ministers | CM appointed by Governor; other ministers on CM’s advice. Collective responsibility to **Legislative Assembly**. Tribal welfare minister in Chhattisgarh, Jharkhand, Madhya Pradesh, Odisha. |
-| **167** | Duties of Chief Minister | Parallel to Art. 78 — communicate, inform, submit for CoM consideration. |
-| **168** | Constitution of State Legislatures | Unicameral or bicameral. Only some States have Legislative Council (Art. 169 procedure). |
-| **200** | Assent to State Bills | Governor may assent, withhold, return (except Money Bill), or **reserve for the President**. |
-| **201** | Bills reserved for President | President may assent, withhold, or direct return to the House(s). |
-| **213** | Governor’s Ordinance | When State Legislature **not in session**; analogous to 123; needs President’s instructions in specified cases (e.g. if Bill would have needed reservation). |
-| **214** | High Courts | A High Court for each State (common HC possible). |
-| **217** | Appointment of HC judges | By President after consultation (CJI, Governor, CJ of HC). Age **62**. |
-| **226** | Power of High Courts to issue writs | Writs for **FR and for any other purpose** — **wider than Art. 32**. Territorial: cause of action in the Court’s jurisdiction. |
-| **239** | Administration of UTs | President acts through an **Administrator** (LG / Chief Commissioner as designated). |
-| **239AA** | Special provisions for Delhi | NCT Delhi: Legislative Assembly; CoM; **public order, police, land** with Centre. Inserted by **69th Amendment, 1991**. |
-| **243** | Definitions (Panchayats) | District, Gram Sabha, Panchayat, village, etc. |
-| **243A** | Gram Sabha | Exercise powers at village level as the State Legislature provides. |
-| **243D** | Reservation of seats (Panchayats) | SC/ST in proportion to population; **not less than 1/3** for women (including SC/ST women). |
-| **243E** | Duration of Panchayats | **5 years**; election before expiry; if dissolved, within **6 months**. |
-| **243G** | Powers of Panchayats | State may endow powers for 11th Schedule subjects (**29**). |
-| **243K** | State Election Commission (Panchayats) | Superintendence of Panchayat elections; SEC appointed by Governor. |
-| **243W** | Powers of Municipalities | 12th Schedule subjects (**18**). |
-| **243ZA** | Elections to Municipalities | SEC (same as 243K) superintends municipal elections. |
-| **244** | Scheduled and Tribal Areas | **244(1)** = Fifth Schedule (Scheduled Areas). **244(2)** = Sixth Schedule (AMTM tribal areas). |
+| **63** | The Vice-President of India | There shall be a Vice-President of India. |
+| **64** | VP as ex-officio Chairman of Rajya Sabha | The Vice-President is **ex-officio Chairman of the Council of States** and shall not hold any other office of profit. While acting as President under Art. 65, he does **not** perform the duties of Chairman of Rajya Sabha. |
+| **65** | VP to act as President or discharge functions | If the President’s office falls vacant by death, resignation, removal or otherwise, the VP **acts as President** until a new President enters office. If the President is unable to discharge functions owing to absence, illness or any other cause, the VP **discharges** those functions until the President resumes. While so acting, the VP has all powers and immunities of the President and the emoluments as determined by Parliament / Second Schedule. |
+| **66** | Election of Vice-President | Elected by members of an electoral college consisting of the members of **both Houses of Parliament** (elected **and nominated**). System: proportional representation by STV; secret ballot. **State MLAs do not vote** (contrast Art. **54**). |
+| **67** | Term of office of Vice-President | **Five years** from entering office. May resign by writing to the **President**. May be removed by a resolution of the Rajya Sabha passed by a majority of **all the then members** of the Council of States and agreed to by the Lok Sabha; **14 days’** notice is required. Continues until successor enters office. |
+| **68** | Time of holding election to fill vacancy | Election to fill a vacancy by expiry of term shall be completed before expiry. Casual vacancy: as soon as possible. Person elected to a casual vacancy holds office for the full term of five years from the date of entering office. |
+| **69** | Oath of Vice-President | Oath or affirmation before the **President** (or a person appointed by him). This form is **not** in the Third Schedule. |
+| **70** | Discharge of President’s functions in other contingencies | Parliament may make provision for discharge of Presidential functions in contingencies not provided for in this Chapter. |
+| **71** | Matters relating to election of President / VP | Doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the **Supreme Court**, whose decision is final. |
+
+- Trap: President’s electoral college = elected MPs + elected State MLAs (and Delhi/Puducherry). Vice-President’s college = **Parliament only** (including nominated MPs).
+- Trap: President is removed by **impeachment** (Art. 61). Vice-President is removed by **Rajya Sabha resolution + Lok Sabha agreement** (Art. 67) — not the same procedure.
+- Trap: VP oath = **Art. 69**, not Third Schedule.
+
+| Art. | Subject | Elaboration |
+|------|---------|-------------|
+| **72** | Power of President to grant pardons etc. | Pardon, reprieve, respite, remission, suspension, commutation — for offences against Union law, sentences by **court-martial**, and **death sentences** in all cases. |
+| **73** | Extent of executive power of the Union | Extends to matters on which Parliament has power to make laws, and to exercise of rights/authority/jurisdiction exercisable by the Government of India by virtue of any treaty or agreement — subject to the Constitution and to State executive power on Concurrent List matters where a State law applies. |
+| **74** | Council of Ministers to aid and advise President | There shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President. The **42nd** made advice binding. The **44th** allows the President to require the CoM to reconsider advice **once**; thereafter the President shall act in accordance with the advice tendered after such reconsideration. |
+| **75** | Other provisions as to Ministers | PM is appointed by the President. Other Ministers are appointed by the President on the advice of the PM. Collective responsibility to the **Lok Sabha**. A Minister who for any period of **six consecutive months** is not a member of either House ceases to be a Minister. **91st Amendment**: CoM of the Union shall not exceed **15%** of the total number of members of the Lok Sabha. |
+| **76** | Attorney-General for India | Appointed by the President. Must be qualified to be appointed a Judge of the Supreme Court. Gives advice on legal matters and performs other duties of a legal character as assigned. Right of audience in all courts in India. May take part in the proceedings of Parliament without vote. Holds office during the pleasure of the President. |
+| **77** | Conduct of business of the Government of India | All executive action of the Government of India shall be expressed to be taken in the name of the President. Orders and instruments are authenticated as rules provide. President makes rules for convenient transaction of business and allocation among Ministers. |
+| **78** | Duties of Prime Minister as respects furnishing of information to President | Communicate to the President all decisions of the CoM relating to administration and legislation. Furnish such information relating to administration as the President may call for. If the President so requires, submit for the consideration of the CoM any matter on which a decision has been taken by a Minister but which has not been considered by the Council. |
+
+---
+
+### Parliament, Union Judiciary, CAG
+
+| Art. | Subject | Elaboration |
+|------|---------|-------------|
+| **79** | Constitution of Parliament | Parliament consists of the President and two Houses — **Rajya Sabha** (Council of States) and **Lok Sabha** (House of the People). |
+| **80** | Composition of Rajya Sabha | Maximum **250** members: not more than **238** representatives of States and UTs + **12** nominated by the President from persons having special knowledge or practical experience in literature, science, art and social service. |
+| **81** | Composition of Lok Sabha | Not more than **530** representatives of States + not more than **20** representatives of UTs. Nomination of not more than two Anglo-Indian members lapsed after the **104th Amendment (2020)**. |
+| **83** | Duration of Houses | Rajya Sabha is a continuing House; as nearly as possible **one-third** of members retire every **second year**. Lok Sabha continues for **five years** from its first meeting unless sooner dissolved. During a Proclamation of Emergency, Parliament may by law extend the life of the Lok Sabha by **one year at a time**, not extending beyond six months after the Proclamation ceases. |
+| **85** | Sessions of Parliament, prorogation and dissolution | President summons each House. **Six months** shall not intervene between its last sitting in one session and the date appointed for its first sitting in the next session. President may prorogue Houses and dissolve the Lok Sabha. |
+| **93** | Speaker and Deputy Speaker of Lok Sabha | Lok Sabha chooses a Speaker and a Deputy Speaker from among its members. |
+| **108** | Joint sitting of both Houses | If a Bill (other than a Money Bill or a Constitution Amendment Bill) is rejected by the other House, or Houses disagree on amendments, or more than six months elapse from receipt without passage, the President may summon a joint sitting. Presided over by the **Speaker** of the Lok Sabha. |
+| **110** | Definition of Money Bill | A Bill dealing with taxation, borrowing, Consolidated Fund, Appropriation, etc., as listed. The **Speaker’s certificate** that a Bill is a Money Bill is **final**. Rajya Sabha cannot amend a Money Bill; it may recommend within **14 days**. |
+| **111** | Assent to Bills | When a Bill is presented, the President may assent, withhold assent, or (except a Money Bill) return the Bill once for reconsideration. After reconsideration and re-passage, the President shall not withhold assent. |
+| **112** | Annual Financial Statement | The President causes to be laid before both Houses a statement of estimated receipts and expenditure of the Government of India for that year — the Union **Budget**. |
+| **123** | Power of President to promulgate Ordinances | When **both Houses** are not in session and the President is satisfied that circumstances exist which render it necessary to take immediate action. Ordinance has the same force as an Act. Must be laid before both Houses. Ceases to operate at the expiration of **six weeks** from reassembly unless approved earlier; may be withdrawn. |
+| **124** | Establishment and constitution of Supreme Court | Chief Justice of India and other Judges as Parliament may by law prescribe. Appointed by the President. Judge holds office until age **65**. Removal by Presidential order after address by each House on grounds of proved misbehaviour or incapacity (special majority process under 124(4)). |
+| **129** | Supreme Court to be a court of record | SC is a court of record and has power to punish for contempt of itself. |
+| **131** | Original jurisdiction of the Supreme Court | Centre vs State(s); State vs State — subject to exclusions for disputes arising out of treaties/agreements that exclude such jurisdiction. |
+| **132–134** | Appellate jurisdiction (constitutional / civil / criminal) | Appeals from High Courts in certain constitutional, civil and criminal matters as provided. |
+| **136** | Special leave to appeal | SC may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed by any court or tribunal in India (except a court or tribunal constituted by or under any law relating to the Armed Forces). |
+| **137** | Review of judgments or orders by the Supreme Court | SC may review its own judgment or order, subject to law made by Parliament / rules. |
+| **141** | Law declared by Supreme Court to be binding on all courts | The law declared by the Supreme Court is binding on **all courts** within the territory of India. |
+| **143** | Power of President to consult Supreme Court | President may refer a question of law or fact of public importance to the SC for consideration. The opinion is **advisory** (not binding like a judgment), though highly respected. |
+| **148** | Comptroller and Auditor-General of India | Appointed by the President. Oath in the Third Schedule. Removed in like manner and on like grounds as a Judge of the Supreme Court. |
+| **149–151** | Duties and reports of CAG | Duties prescribed by Parliament. Reports relating to Union accounts are submitted to the **President**, who causes them to be laid before each House of Parliament. State accounts reports go to the **Governor**, who causes them to be laid before the Legislature. |
+
+---
+
+### States — Governor, State Executive, Legislature, Advocate-General
+
+| Art. | Subject | Elaboration |
+|------|---------|-------------|
+| **153** | Governors of States | There shall be a Governor for each State. The same person may be appointed Governor for two or more States. |
+| **154** | Executive power of State | Vested in the Governor and exercised directly or through officers subordinate to him. |
+| **155** | Appointment of Governor | By the **President** by warrant under his hand and seal. |
+| **156** | Term of office of Governor | Holds office during the pleasure of the President. Usual term teaching: **five years** from entering office. May resign to the President. |
+| **159** | Oath of Governor | Oath or affirmation before the Chief Justice of the High Court (or, in his absence, the senior-most Judge of that Court). **Not** in the Third Schedule. |
+| **161** | Power of Governor to grant pardons etc. | For offences against any law relating to a matter to which the executive power of the State extends. **No** power over court-martial. Death-sentence teaching: Governor may suspend, remit or commute; the full pardon map for death sentences sits with the President under Art. **72**. |
+| **163** | Council of Ministers to aid and advise Governor | There shall be a CoM with the Chief Minister at the head to aid and advise the Governor, except in so far as the Governor is by or under the Constitution required to exercise functions in his **discretion**. |
+| **164** | Other provisions as to Ministers | CM appointed by the Governor; other Ministers on CM’s advice. Collective responsibility to the Legislative Assembly. In the States of Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha there shall be a Minister in charge of tribal welfare (and may hold additional charge). CoM size cap under the **91st** (15% of Assembly). |
+| **165** | Advocate-General for the State | Appointed by the Governor. Must be qualified to be appointed a Judge of a High Court. Advises the State Government on legal matters. Right of audience in all courts in the State. Holds office during the pleasure of the Governor. Parallel to the Union’s Attorney-General (Art. **76**). |
+| **167** | Duties of Chief Minister as respects furnishing of information to Governor | Parallel to Art. **78** — communicate CoM decisions, furnish information the Governor calls for, and submit a Minister’s decision for CoM consideration if the Governor so requires. |
+| **168** | Constitution of Legislatures in States | Every State shall have a Legislature which consists of the Governor and one House (unicameral) or two Houses (bicameral). Creation or abolition of a Legislative Council follows Art. **169**. |
+| **200** | Assent to Bills | When a Bill is presented to the Governor, he may assent, withhold assent, return the Bill (if it is not a Money Bill) for reconsideration, or **reserve the Bill for the consideration of the President**. |
+| **201** | Bills reserved for consideration of President | President may assent, withhold assent, or direct the Governor to return the Bill to the House or Houses for reconsideration. |
+| **213** | Power of Governor to promulgate Ordinances | When the Legislature (or both Houses where bicameral) is not in session. Same force as an Act of the State Legislature. Needs instructions from the President in specified cases (for example where a Bill would have required reservation). |
+
+---
+
+### High Courts and Subordinate Courts (Arts. 214–237) — missing cluster filled
+
+| Art. | Subject | Elaboration |
+|------|---------|-------------|
+| **214** | High Courts for States | There shall be a High Court for each State. Parliament may establish a **common High Court** for two or more States under Art. **231**. |
+| **215** | High Courts to be courts of record | Every High Court is a court of record and has power to punish for contempt of itself. Parallel to Art. **129** for the Supreme Court. |
+| **216** | Constitution of High Courts | Every High Court consists of a Chief Justice and such other Judges as the President may from time to time deem necessary. |
+| **217** | Appointment and conditions of the office of a Judge of a High Court | Appointed by the President after consultation with the Chief Justice of India, the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court. Holds office until age **62**. Resignation to the President. Removal in the manner provided for removal of a Supreme Court Judge (Art. 124 procedure via Art. 218). |
+| **219** | Oath of High Court Judges | Oath or affirmation before the Governor (or a person appointed by him). Form is in the **Third Schedule**. |
+| **222** | Transfer of a Judge from one High Court to another | President may transfer a Judge after consultation with the Chief Justice of India. |
+| **223** | Appointment of acting Chief Justice | When the office of Chief Justice is vacant or the CJ is unable to perform duties, the President may appoint one of the other Judges to perform them. |
+| **224** | Appointment of additional and acting Judges | President may appoint additional Judges for a temporary increase in business (up to two years) and acting Judges when a Judge is absent or unable to sit. |
+| **224A** | Appointment of retired Judges at sittings of High Courts | Chief Justice of a High Court may, with the previous consent of the President, request a retired Judge to sit and act as a Judge of that Court. |
+| **226** | Power of High Courts to issue certain writs | Every High Court may issue to any person or authority, including in appropriate cases any Government, directions, orders or writs, including habeas corpus, mandamus, prohibition, quo warranto and certiorari, for enforcement of **Fundamental Rights** and **for any other purpose**. This is **wider than Art. 32**. Territorial reach depends on whether the cause of action arises wholly or in part within the Court’s jurisdiction. |
+| **227** | Power of superintendence over all courts by the High Court | Every High Court has **superintendence** over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction (subject to exclusions for Armed Forces courts). This is supervisory jurisdiction — distinct from the writ power under Art. **226**. |
+| **228** | Transfer of certain cases to High Court | If a case pending in a subordinate court involves a substantial question of law as to the interpretation of the Constitution, the High Court may withdraw the case and either dispose of it or determine the question and return it. |
+| **231** | Establishment of a common High Court for two or more States | Parliament may by law establish a common High Court for two or more States or for two or more States and a Union Territory. |
+| **233** | Appointment of district judges | Appointed by the Governor in consultation with the High Court exercising jurisdiction in relation to the State. |
+| **235** | Control over subordinate courts | The High Court has control over district courts and courts subordinate thereto, including posting, promotion and leave of persons belonging to the judicial service and holding posts inferior to district judge. |
+
+- Trap: **226** = writs (FR + any other purpose). **227** = superintendence over subordinate courts/tribunals. Do not treat them as the same power.
+- Trap: SC Judge retires at **65**. HC Judge retires at **62**.
+- Trap: Common High Court = Art. **231** (e.g. teaching examples of shared High Courts across States/UTs).
+
+---
+
+### UTs and Local Government (selected)
+
+| Art. | Subject | Elaboration |
+|------|---------|-------------|
+| **239** | Administration of Union Territories | Every UT is administered by the President acting through an **Administrator** appointed by him (Lieutenant Governor / Chief Commissioner as designated). |
+| **239AA** | Special provisions with respect to Delhi | National Capital Territory of Delhi has a Legislative Assembly and a Council of Ministers. Subjects of **public order, police and land** remain with the Centre. Inserted by the **69th Amendment, 1991**. |
+| **243** | Definitions (Panchayats) | Defines district, Gram Sabha, intermediate level, Panchayat, village and related terms for Part IX. |
+| **243A** | Gram Sabha | A Gram Sabha may exercise such powers and perform such functions at the village level as the Legislature of a State may by law provide. |
+| **243D** | Reservation of seats (Panchayats) | Seats reserved for SCs/STs in proportion to population. Not less than **one-third** of total seats reserved for women (including seats reserved for women belonging to SC/ST). |
+| **243E** | Duration of Panchayats | Every Panchayat continues for **five years**. Election to constitute a Panchayat shall be completed before expiry of duration; if dissolved, before expiration of a period of **six months** from the date of dissolution (with limited exceptions). |
+| **243G** | Powers, authority and responsibilities of Panchayats | State may by law endow Panchayats with powers for economic development and social justice, including implementation of schemes for subjects in the **Eleventh Schedule (29 subjects)**. |
+| **243K** | Elections to the Panchayats | Superintendence, direction and control of electoral rolls and elections vested in a **State Election Commission**. The State Election Commissioner is appointed by the Governor. |
+| **243W** | Powers, authority and responsibilities of Municipalities | State may endow Municipalities with powers for subjects in the **Twelfth Schedule (18 subjects)**. |
+| **243ZA** | Elections to the Municipalities | Superintendence of municipal elections also vested in the State Election Commission (same institutional line as Art. 243K). |
+| **244** | Administration of Scheduled Areas and Tribal Areas | **244(1)** applies the **Fifth Schedule** to Scheduled Areas and Scheduled Tribes in States other than Assam, Meghalaya, Tripura and Mizoram. **244(2)** applies the **Sixth Schedule** to tribal areas in **Assam, Meghalaya, Tripura and Mizoram**. |
+
+---
 
 ### Centre–State, Finance, Services, Elections, Emergency, Amendment
 
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
-| **245** | Extent of laws | Parliament: whole or any part of India. State Legislature: the State. Extra-territorial law by Parliament is valid. |
-| **246** | Subject-matter of laws | **7th Schedule**: List I Union, List II State, List III Concurrent. In overlap, Union prevails (with 254 nuances on Concurrent). |
-| **248** | Residuary powers of legislation | **Parliament** has exclusive power on matters not in State or Concurrent Lists (Union List Entry **97**). |
-| **249** | Parliament legislates on State List (national interest) | **Rajya Sabha** resolution: **2/3 of members present and voting**. Valid **1 year**; renewable. |
-| **250** | Parliament legislates on State List during Emergency | While a Proclamation of Emergency is in operation. |
-| **252** | Power of Parliament to legislate for two or more States by consent | If those States’ Legislatures pass resolutions; other States may adopt later. |
-| **253** | Legislation for international agreements | Parliament may make any law for implementing treaties / international conferences — even on State List. |
-| **254** | Inconsistency between Union and State laws | Concurrent List: **Union law prevails**. State law reserved and assented by President can prevail in that State until Parliament legislates again. |
-| **256** | Obligation of States and the Union | States must comply with Union laws; Union may give **directions** as necessary. |
-| **262** | Adjudication of inter-State river disputes | Parliament may provide; may bar SC/other courts. **Inter-State River Water Disputes Act**. |
-| **263** | Inter-State Council | President may establish if public interest so requires. Sarkaria recommended its activation; set up **1990**. |
-| **265** | Taxes not to be imposed save by authority of law | No tax except by law. |
-| **266** | Consolidated Funds | Consolidated Fund of India and of each State — revenues, loans, repayments. |
-| **267** | Contingency Fund | Contingency Fund of India (and of States) — advances pending authorisation. |
-| **280** | Finance Commission | President constitutes every **5th year** (or earlier). Recommends tax distribution, grants-in-aid, etc. Chairman + 4 members. |
-| **300A** | Persons not to be deprived of property | Except by **authority of law**. **Legal right**, not FR (**44th Amendment** deleted Art. 31/19(1)(f)). |
-| **310** | Tenure of office of persons serving the Union or a State | Doctrine of **pleasure** of President/Governor — subject to 311. |
-| **311** | Dismissal, removal, reduction in rank | No dismissal by authority subordinate to appointing authority; reasonable opportunity of hearing — with exceptions (conviction, impracticable, security of State). |
-| **312** | All-India Services | Rajya Sabha resolution (**2/3 present and voting**) → Parliament may create new AIS. IAS, IPS, IFS (Forest). |
-| **315** | Public Service Commissions | UPSC for Union; SPSC for State; Joint SPSC possible. |
-| **320** | Functions of PSCs | Conduct papers; consulted on recruitment, promotions, disciplinary matters (exceptions by regulations). |
-| **323A** | Administrative tribunals | Parliament may set up CAT/SATs for Union/State service disputes. **Part XIVA (42nd)**. |
-| **323B** | Tribunals for other matters | Tax, foreign exchange, industrial/labour, land reforms, urban ceiling, elections to Legislature, etc. |
-| **324** | Superintendence of elections | **Election Commission** — President, VP, Parliament, State Legislatures. CEC + ECs; CEC removed like SC judge. |
-| **325** | No person to be ineligible on grounds of religion etc. | One general electoral roll; no special electoral roll on religion, race, caste, sex. |
-| **326** | Elections to LS and Assemblies on adult suffrage | Citizen, **18 years** (61st Amendment; originally 21). |
-| **329** | Bar to interference by courts in electoral matters | Validity of election laws and election of a member — election petition only (as provided). |
-| **330 / 332** | Reservation of seats for SC/ST | Lok Sabha / State Assemblies — in proportion to population. |
-| **335** | Claims of SC/ST to services | Consistent with maintenance of efficiency of administration. |
-| **338 / 338A / 338B** | NCSC / NCST / NCBC | Constitutional bodies for SC, ST, Backward Classes (102nd for NCBC). |
-| **343** | Official language of the Union | **Hindi in Devanagari**; international form of Indian numerals. English to continue as provided (Official Languages Act). |
-| **348** | Language of SC, HC and Acts | English unless Parliament provides otherwise; Governor with President’s consent may authorise Hindi/State language in HC. |
-| **351** | Directive for development of Hindi | Union’s duty to promote Hindi as medium of expression of the composite culture of India. |
-| **352** | Proclamation of Emergency (National) | War, external aggression, or **armed rebellion** (44th replaced “internal disturbance”). Written Cabinet advice. LS approval; duration rules. |
-| **355** | Duty of the Union to protect States | Against external aggression and internal disturbance; ensure government as per Constitution. |
-| **356** | State Emergency / President’s Rule | Failure of constitutional machinery. Initially 6 months; max typically **3 years** with conditions. |
-| **358 / 359** | Suspension of FR during Emergency | 358: Art. **19** automatically suspends in war/external aggression Emergency. 359: President may suspend enforcement of other FR **except 20 and 21** (44th). |
-| **360** | Financial Emergency | Threat to financial stability or credit of India. Salaries of Union/State servants including judges may be reduced. **Never imposed so far**. |
-| **365** | Effect of failure to comply with Union directions | President may hold that constitutional machinery has failed → ground for **356**. |
-| **368** | Power and procedure to amend | Parliament may amend by **special majority**; some federal features need **State ratification (half of States)**. Basic Structure cannot be destroyed. |
+| **245** | Extent of laws made by Parliament and by State Legislatures | Parliament may make laws for the whole or any part of India. A State Legislature may make laws for the whole or any part of the State. A law made by Parliament shall not be invalid because it would have extra-territorial operation. |
+| **246** | Subject-matter of laws made by Parliament and State Legislatures | **Seventh Schedule**: List I (Union), List II (State), List III (Concurrent). In case of overlap, Union power prevails subject to Art. **254** nuances on the Concurrent List. |
+| **248** | Residuary powers of legislation | Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List. Linked to Union List Entry **97**. |
+| **249** | Power of Parliament to legislate with respect to a matter in the State List in the national interest | If the Rajya Sabha passes a resolution supported by not less than **two-thirds** of the members **present and voting**, Parliament may legislate on that State List matter for the whole or any part of India. Such resolution remains in force for a period not exceeding **one year** and may be renewed. |
+| **250** | Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation | While a Proclamation of Emergency is in operation, Parliament may legislate for a State on State List matters. |
+| **252** | Power of Parliament to legislate for two or more States by consent | If the Legislatures of two or more States pass resolutions that Parliament should legislate on a State List matter, Parliament may do so for those States. Other States may adopt later by resolution. |
+| **253** | Legislation for giving effect to international agreements | Parliament may make any law for implementing any treaty, agreement or convention, or any decision at an international conference — even on a State List matter. |
+| **254** | Inconsistency between laws made by Parliament and laws made by State Legislatures | On a Concurrent List matter, if a State law is repugnant to a Parliamentary law, the Union law prevails. A State law reserved for the President and assented to may prevail in that State until Parliament legislates further. |
+| **256** | Obligation of States and the Union | Executive power of every State shall be so exercised as to ensure compliance with Union laws. Union may give directions to a State as may appear necessary. |
+| **262** | Adjudication of disputes relating to waters of inter-State rivers or river valleys | Parliament may by law provide for adjudication of any dispute or complaint. Parliament may also provide that neither the Supreme Court nor any other court shall exercise jurisdiction in respect of any such dispute. |
+| **263** | Provisions with respect to an Inter-State Council | If at any time it appears to the President that the public interests would be served, he may establish an Inter-State Council. Sarkaria Commission recommended its activation; it was set up in **1990**. |
+| **265** | Taxes not to be imposed save by authority of law | No tax shall be levied or collected except by authority of law. |
+| **266** | Consolidated Funds and public accounts of India and of the States | Consolidated Fund of India and Consolidated Fund of each State — all revenues, loans and moneys received in repayment of loans. |
+| **267** | Contingency Fund | Parliament / State Legislature may establish a Contingency Fund of India / of the State for advances pending authorisation. |
+| **280** | Finance Commission | President shall constitute a Finance Commission within two years from commencement and thereafter at the expiration of every **fifth year** or at such earlier time as he considers necessary. Recommends distribution of net proceeds of taxes, principles of grants-in-aid, and other related matters. Chairman + four other members. |
+| **300A** | Persons not to be deprived of property save by authority of law | No person shall be deprived of his property save by authority of law. This is a **legal / constitutional right**, not a Fundamental Right. The **44th Amendment** deleted the old Fundamental Right to property (Arts. 19(1)(f) and 31). |
+| **310** | Tenure of office of persons serving the Union or a State | Except as expressly provided, a Union civil servant holds office during the pleasure of the President, and a State civil servant during the pleasure of the Governor — subject to Art. **311**. |
+| **311** | Dismissal, removal or reduction in rank of persons employed in civil capacities | No person shall be dismissed or removed by an authority subordinate to that by which he was appointed. No dismissal, removal or reduction in rank except after an inquiry and a reasonable opportunity of being heard — with exceptions (conviction on criminal charge; impracticable to hold inquiry; security of the State). |
+| **312** | All-India Services | If the Rajya Sabha declares by resolution supported by not less than **two-thirds** of the members present and voting that it is necessary in the national interest, Parliament may create one or more All-India Services common to the Union and the States. IAS, IPS and Indian Forest Service are the classic examples. |
+| **315** | Public Service Commissions for the Union and for the States | UPSC for the Union; a Public Service Commission for each State; two or more States may agree to a Joint State Commission. |
+| **320** | Functions of Public Service Commissions | Conduct examinations for appointments. Consulted on recruitment methods, principles of appointment/promotion/transfer, suitability of candidates, disciplinary matters, and related claims — subject to regulations making exceptions. |
+| **323A** | Administrative tribunals | Parliament may by law provide for adjudication of disputes relating to recruitment and conditions of service of Union / State public servants. Basis of CAT / SATs. Part **XIVA** (42nd Amendment). |
+| **323B** | Tribunals for other matters | Appropriate Legislature may provide tribunals for tax, foreign exchange, industrial and labour disputes, land reforms, ceiling on urban property, elections to Legislature, and other listed matters. |
+| **324** | Superintendence, direction and control of elections | Vested in the **Election Commission** for elections to Parliament, State Legislatures, and offices of President and Vice-President. Commission consists of the Chief Election Commissioner and such number of other Election Commissioners as the President may fix. CEC removed like a Supreme Court Judge. |
+| **325** | No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex | There shall be one general electoral roll for every territorial constituency. |
+| **326** | Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage | Citizen of India, not less than **eighteen years** of age (reduced from 21 by the **61st Amendment**), and not otherwise disqualified. |
+| **329** | Bar to interference by courts in electoral matters | Validity of laws relating to delimitation or allotment of seats shall not be called in question in any court. No election to Parliament or a State Legislature shall be called in question except by an election petition presented to such authority and in such manner as Parliament may by law provide. |
+| **330 / 332** | Reservation of seats for Scheduled Castes and Scheduled Tribes | In the Lok Sabha / State Legislative Assemblies — seats reserved in proportion to population, as provided. |
+| **335** | Claims of Scheduled Castes and Scheduled Tribes to services and posts | Shall be taken into consideration, consistently with the maintenance of efficiency of administration. |
+| **338 / 338A / 338B** | National Commissions for SC / ST / Backward Classes | Constitutional bodies. NCBC strengthened as a constitutional body by the **102nd Amendment**. |
+| **343** | Official language of the Union | Hindi in Devanagari script. The international form of Indian numerals. English continues for official purposes of the Union as provided by law (Official Languages Act line). |
+| **348** | Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc. | Until Parliament by law otherwise provides, all proceedings in the Supreme Court and in every High Court shall be in English. Governor, with previous consent of the President, may authorise use of Hindi or the State language in the High Court, with judgments still in English unless Parliament provides otherwise. |
+| **351** | Directive for development of the Hindi language | It shall be the duty of the Union to promote the spread of Hindi and to develop it so that it may serve as a medium of expression for all the elements of the composite culture of India. |
+| **352** | Proclamation of Emergency (National Emergency) | If the President is satisfied that a grave emergency exists whereby the security of India or any part is threatened by **war**, **external aggression**, or **armed rebellion** (44th replaced “internal disturbance”). Written advice of the Union Cabinet is required. Parliamentary approval and duration rules apply. |
+| **355** | Duty of the Union to protect every State against external aggression and internal disturbance | Also to ensure that the government of every State is carried on in accordance with the Constitution. |
+| **356** | Provisions in case of failure of constitutional machinery in States (President’s Rule) | If the President, on receipt of a report from the Governor or otherwise, is satisfied that a situation has arisen in which the government of the State cannot be carried on in accordance with the Constitution. Initially for six months with parliamentary approval rhythm; maximum duration teaching is typically **three years** with conditions. |
+| **358 / 359** | Suspension of provisions of Art. 19 / enforcement of FR during Emergencies | **358**: while a Proclamation of Emergency on war or external aggression is in operation, Art. **19** does not restrict State power (automatic suspension teaching). **359**: President may by order declare that the right to move any court for enforcement of such of the rights conferred by Part III (except Arts. **20** and **21**) as may be named shall remain suspended. |
+| **360** | Provisions as to financial emergency | If the President is satisfied that a situation has arisen whereby the financial stability or credit of India or any part is threatened. Directions may include reduction of salaries and allowances of persons serving the Union or a State, including Judges. **Never imposed so far**. |
+| **365** | Effect of failure to comply with, or to give effect to, directions given by the Union | Where a State fails to comply with Union directions, it shall be lawful for the President to hold that a situation has arisen in which the government of the State cannot be carried on in accordance with the Constitution — a ground linked to Art. **356**. |
+| **368** | Power of Parliament to amend the Constitution and procedure therefor | Parliament may amend by adding, varying or repealing any provision. Ordinary amendments need a special majority. Amendments of certain federal features also need ratification by not less than **one-half** of the State Legislatures. Basic Structure cannot be destroyed (*Kesavananda*). |
 | **393** | Short title | This Constitution may be called the **Constitution of India**. |
-| **394** | Commencement | Some articles from 26 Nov 1949; Constitution as a whole **26 Jan 1950**. |
-| **395** | Repeals | Indian Independence Act, 1947 and GoI Act, 1935 (as specified) repealed. |
+| **394** | Commencement | Some articles came into force on **26 Nov 1949**. The Constitution as a whole commenced on **26 Jan 1950**. |
+| **395** | Repeals | The Indian Independence Act, 1947, and the Government of India Act, 1935, together with related enactments as specified, stand repealed. |
+
+---
 
 ### Part XXI — 371 series (special States)
 
 | Art. | State | Elaboration |
 |------|-------|-------------|
-| **370** | Jammu & Kashmir (historical) | Temporary provisions; special status. **Inoperative** after Presidential Order + **Constitution (Application to J&K) Order, 2019** / reorganisation — J&K and Ladakh as UTs. |
-| **371** | Maharashtra & Gujarat | Governor’s special responsibility for Vidarbha, Marathwada, rest of Maharashtra; Saurashtra, Kutch, rest of Gujarat — development boards, equitable allocation of funds. |
-| **371A** | **Nagaland** | No Act of Parliament on Naga religious/social practices, customary law, civil/criminal justice per Naga customary law, or ownership of land/resources — unless **State Assembly** so decides. |
-| **371B** | **Assam** | President may provide for a committee of Assembly members from **tribal areas** of Assam. |
-| **371C** | **Manipur** | Special provision for a committee of MLAs from **Hill Areas**; Governor’s responsibility. |
-| **371D** | Andhra Pradesh & Telangana | Equitable opportunities and facilities in public employment and education; administrative tribunal history. |
-| **371E** | Andhra Pradesh | Parliament may establish a **Central University** in AP. |
-| **371F** | **Sikkim** | Special provisions on admission as a State (1975); Legislative Assembly seats; Governor’s special responsibility for peace and for ensuring social/economic advancement of different sections. |
-| **371G** | **Mizoram** | Parallel to 371A: Mizo religious/social practices, customary law, land — Parliament’s Act applies only if **Assembly** so decides. |
-| **371H** | **Arunachal Pradesh** | Governor’s special responsibility for **law and order**; discretion, after consulting CM. |
-| **371I** | **Goa** | Legislative Assembly of Goa shall consist of **not less than 30 members**. |
-| **371J** | **Karnataka** | Special provision for **Hyderabad-Karnataka / Kalyana-Karnataka** region — development board, equitable funds, local reservation in education/posts. |
+| **370** | Jammu & Kashmir (historical) | Temporary provisions relating to the State of Jammu and Kashmir. Special status teaching is historical. The article was made **inoperative** after the Presidential Order and the constitutional reorganisation of 2019. J&K and Ladakh became Union Territories. |
+| **371** | Maharashtra and Gujarat | Governor’s special responsibility for Vidarbha, Marathwada and the rest of Maharashtra, and for Saurashtra, Kutch and the rest of Gujarat — development boards and equitable allocation of funds and opportunities. |
+| **371A** | **Nagaland** | No Act of Parliament in respect of Naga religious or social practices, Naga customary law and procedure, administration of civil and criminal justice involving Naga customary law, or ownership and transfer of land and its resources, shall apply to Nagaland unless the **Legislative Assembly** of Nagaland so decides. |
+| **371B** | **Assam** | President may provide for the constitution and functions of a committee of the Legislative Assembly consisting of members elected from the tribal areas of Assam. |
+| **371C** | **Manipur** | Special provision for a committee of the Legislative Assembly consisting of members elected from the Hill Areas of Manipur, with responsibility of the Governor. |
+| **371D** | Andhra Pradesh and Telangana | Equitable opportunities and facilities for the people of different parts of the State in public employment and education; administrative tribunal history in teaching. |
+| **371E** | Andhra Pradesh | Parliament may by law provide for the establishment of a **Central University** in Andhra Pradesh. |
+| **371F** | **Sikkim** | Special provisions consequential upon the admission of Sikkim into the Union (1975), including Legislative Assembly composition and the Governor’s special responsibility for peace and for the social and economic advancement of different sections of the population. |
+| **371G** | **Mizoram** | Parallel to 371A for Mizo religious or social practices, customary law and procedure, administration of civil and criminal justice involving Mizo customary law, and ownership and transfer of land — Parliament’s Act applies only if the **Legislative Assembly** so decides. |
+| **371H** | **Arunachal Pradesh** | Governor has special responsibility with respect to **law and order** in the State. In discharge of that responsibility, the Governor acts after consulting the Council of Ministers, but exercises individual judgment as provided. |
+| **371I** | **Goa** | The Legislative Assembly of the State of Goa shall consist of not less than **thirty members**. |
+| **371J** | **Karnataka** | Special provision for the Hyderabad-Karnataka / **Kalyana-Karnataka** region — establishment of a development board, equitable allocation of funds, and reservation in education and State government posts for local persons as provided. |
 
-> **Match traps:32 vs 226** · **72 vs 161** · **123 vs 213** · **54 vs 66** (President: MPs+MLAs; VP: Parliament only) · **352 vs 356 vs 360** · Art. **4** ≠ Art. **368** · **371I Goa** vs **371J Karnataka**.
+> **Match traps:** Art. **32 vs 226** · Art. **226 vs 227** · Art. **72 vs 161** · Art. **123 vs 213** · Art. **54 vs 66** (President: elected MPs + elected MLAs; VP: Parliament only) · Art. **76 vs 165** (AG of India vs Advocate-General of a State) · Art. **352 vs 356 vs 360** · Art. **4 ≠ 368** · Art. **371I Goa** vs **371J Karnataka** · President oath **60** / VP oath **69** / Governor oath **159** (none of these three is in the Third Schedule).
 
 ---
-
 ## Schedules — Master Match (1 to 12)
 
 Originally **8 Schedules** (1950); now **12**.
@@ -429,6 +739,8 @@ Originally **8 Schedules** (1950); now **12**.
 
 **PYQ — UPPCS Prelims 2023, Q7**
 
+**Logic:** Ninth Schedule validates Acts. Rajya Sabha seat allocation is the **Fourth** Schedule. Oaths / languages / defection matches are standard.
+
 Which Schedule—Subject pair is NOT correctly matched?
 
 A. Third — Oaths
@@ -439,11 +751,13 @@ D. Tenth — Defection
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** RS seat allocation = **Fourth** Schedule; Ninth = validation of Acts.
+**Ans: C.** RS seat allocation = **Fourth** Schedule; Ninth = validation of Acts. Trap: mixing “Council of States” with Ninth because both sound institutional.
 
 </details>
 
 **PYQ — UPPCS Prelims 2022, Q89**
+
+**Logic:** Match Schedule to subject. Third = oaths; Fourth = RS seats; Seventh = Lists; Eighth = languages. Row order is not the answer code.
 
 Match List-I with List-II:
 
@@ -473,6 +787,8 @@ D. A-1, B-2, C-3, D-4
 
 **PYQ — UPPCS Prelims 2019, Q28**
 
+**Logic:** Second Schedule is emoluments of constitutional functionaries. RS seat allocation is **Fourth**. Public health = State List; Census = Union List; anti-defection = Tenth.
+
 Which of the following is NOT correctly matched?
 
 A. Public Health and Sanitation — State List
@@ -483,11 +799,13 @@ D. Anti-Defection — Tenth Schedule
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Allocation of RS seats = **Fourth** Schedule (Second = emoluments).
+**Ans: C.** Allocation of RS seats = **Fourth** Schedule (Second = emoluments). Trap: “Council of States” + “Second” looks neat in a match table but is wrong.
 
 </details>
 
 **PYQ — UPPCS Prelims 2025, Q113**
+
+**Logic:** Seventh = Lists; Eighth = languages; Ninth = validation of Acts; Tenth = anti-defection. Do not swap Ninth and Tenth.
 
 Match List-I with List-II and select the correct answer using the code given below the lists:
 
@@ -591,7 +909,7 @@ D. All of the above
 ### 42nd Amendment — 5 subjects State → Concurrent
 **Education · Forests · Protection of wild animals & birds · Weights & measures · Administration of justice** (constitution/organisation of courts except SC/HC).
 
-### -tested list items
+### PYQ-tested list items
 | Item | List |
 |------|------|
 | Census | **Union** |
@@ -715,7 +1033,7 @@ D. 32
 
 ## Complete PYQ Bank (Topic 3)
 
-> Full UPPCS mapped hits (2018–2025). Answers in `<details>`.
+> Full UPPCS mapped hits (2018–2025). Answers sit under each stem’s Show answer block.
 
 ### 2025
 
@@ -974,7 +1292,7 @@ D. Part IX
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.48 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden. 54 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
 
 **Q1.** In which Part of the Constitution of India do we find the provisions relating to citizenship?
 
@@ -1589,6 +1907,8 @@ D. A-3, B-1, C-2, D-4
 
 Reason (R): The Supreme Court in *I.R. Coelho* held that the Ninth Schedule is not a complete immunity from judicial review.
 
+**A/R logic:** A tests the post-*Kesavananda* cut-off for Ninth Schedule entries. R tests the *I.R. Coelho* holding. R correctly explains why A is true.
+
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
@@ -1597,7 +1917,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Cut-off is **24 April 1973** (*Kesavananda* date); *I.R. Coelho* (2007).
+**Ans: A** — Cut-off is **24 April 1973** (*Kesavananda* date). *I.R. Coelho* (2007) opened post-cut-off Ninth Schedule laws to Basic Structure review. A true; R true; R explains A.
 </details>
 
 **Q43.** With reference to the Schedules of the Constitution, consider the following statements:
@@ -1715,6 +2035,96 @@ D. 101st Constitutional Amendment
 **Ans: B** — **71st Amendment, 1992** (15 → 18 languages).
 </details>
 
+**Q49.** With reference to the Vice-President of India, consider the following statements:
+
+1. The Vice-President is elected by an electoral college consisting of the elected members of Parliament and the elected members of the State Legislative Assemblies.
+2. The Vice-President is the ex-officio Chairman of the Rajya Sabha.
+3. The oath of the Vice-President is provided in Article 69, not in the Third Schedule.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Statement 1 is wrong. Art. **66** electoral college = members of **both Houses of Parliament** only (elected + nominated). State MLAs vote for the **President** under Art. **54**, not for the VP.
+</details>
+
+**Q50.** Which one of the following pairs is **NOT** correctly matched?
+
+A. Article 214 — High Courts for States
+B. Article 226 — Power of High Courts to issue writs
+C. Article 227 — Power of Parliament to transfer High Court Judges
+D. Article 231 — Common High Court for two or more States
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Art. **227** is the High Court’s power of **superintendence** over subordinate courts and tribunals. Transfer of a High Court Judge is Art. **222**.
+</details>
+
+**Q51.** Consider the following statements regarding Article 21:
+
+1. Article 21 is available only to citizens of India.
+2. After *Maneka Gandhi*, the procedure under Article 21 must be fair, just and reasonable.
+3. The right to privacy has been held to be a Fundamental Right under Article 21.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Art. **21** is available to **all persons** (citizens and foreigners). *Maneka Gandhi* (1978) and *Puttaswamy* (2017) support statements 2 and 3.
+</details>
+
+**Q52.** How many Fundamental Duties are presently listed in Article 51A?
+
+A. 9
+B. 10
+C. 11
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 11** (clauses **a–k**). Ten were added by the **42nd Amendment**; **51A(k)** by the **86th**.
+</details>
+
+**Q53.** Which one of the following is **NOT** a Fundamental Duty under Article 51A?
+
+A. To develop the scientific temper, humanism and the spirit of inquiry and reform
+B. To safeguard public property and abjure violence
+C. To vote in elections to the Lok Sabha and State Assemblies
+D. To protect and improve the natural environment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Voting is a statutory / political right theme, **not** listed in Art. **51A**. Environment is **51A(g)**; scientific temper is **51A(h)**; public property is **51A(i)**.
+</details>
+
+**Q54.** The Advocate-General for a State is provided for in:
+
+A. Article 76
+B. Article 148
+C. Article 165
+D. Article 280
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Art. **165**. Art. **76** is the Attorney-General of India. Art. **148** is the CAG. Art. **280** is the Finance Commission.
+</details>
+
 ---
 
 ## Common Traps
@@ -1737,7 +2147,13 @@ D. 101st Constitutional Amendment
 16. 9th Schedule added by **1st** Amendment; 10th by **52nd**
 17. Art. **4** laws (new/altered States) ≠ Art. **368** amendments
 18. Art. **32** SC vs Art. **226** HC (HC wider)
-19. President oath = **Art. 60**, not 3rd Schedule
-20. 371J = Karnataka, **not** Goa (371I)
-21. Property = **Art. 300A** (legal right), not FR after 44th
-22. Second Schedule ≠ PM/CM salaries (emoluments of President, Governors, Judges, CAG, Speakers)
+19. Art. **226** writs vs Art. **227** superintendence — different powers
+20. President oath = **Art. 60**; VP oath = **Art. 69**; Governor oath = **Art. 159** — none in 3rd Schedule
+21. 371J = Karnataka, **not** Goa (371I)
+22. Property = **Art. 300A** (legal right), not FR after 44th
+23. Second Schedule ≠ PM/CM salaries (emoluments of President, Governors, Judges, CAG, Speakers)
+24. Art. **54** (President) includes State MLAs; Art. **66** (VP) is Parliament only
+25. SC Judge age **65**; HC Judge age **62**
+26. Art. **76** = Attorney-General of India; Art. **165** = Advocate-General of a State
+27. Art. **21** expansions ≠ Art. **21A** RTE ages 6–14
+28. Art. **51A** has **11** clauses (a–k); (k) is the 86th addition only
