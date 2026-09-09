@@ -179,76 +179,126 @@ Teach the **full map** below — next year can ask any standard NCERT angle, not
 
 ## N.1 Origin of Universe
 
-Several theories try to explain how the universe and solar system began. Learn the propounder with one clear fact.
+Several theories try to explain how the universe began and how the solar system formed. Learn each theory with its propounder and one clear mechanism.
 
-| Theory | Propounder | One-line |
-|--------|------------|----------|
+### Solar-system origin theories
+
+- The **Nebular Hypothesis** of **Kant and Laplace** says a rotating gas–dust cloud flattened into a disc. The centre became the Sun and the disc condensed into planets.
+- The **Planetesimal Theory** of **Chamberlin and Moulton** says a passing star pulled solar matter into space. That matter cooled into planetesimals that later grew into planets.
+- The **Tidal Theory** of **Jeans and Jeffreys** says a passing star raised a gaseous filament from the Sun. The filament broke into planets.
+- The **Binary-star Theory** of **Russell and Lyttleton** says a companion star was disrupted and its debris formed planets.
+- **Otto Schmidt’s Interstellar Dust Theory** says the Sun captured a gas–dust cloud from space and that cloud condensed into planets.
+
+### Universe-scale theories
+
+- The **Big Bang** idea is linked to **Lemaître**, with later work often tied to **Gamow**. It starts from a hot, dense state about **13.7–13.8 billion years** ago and expands.
+- The **Steady State** theory of **Hoyle, Bondi and Gold** says the universe looks the same at all times because new matter is created as space expands.
+- The **Pulsating / Oscillating** model pictures repeated bang–crunch cycles of expansion and contraction.
+
+| Theory | Propounder | Teaching line |
+|--------|------------|---------------|
 | **Nebular** | **Kant – Laplace** | Rotating gas cloud flattened into Sun + planets |
-| Planetesimal | Chamberlin – Moulton | Star fly-by pulled matter into planetesimals |
-| Tidal | Jeans – Jeffreys | Tidal filament from a passing star |
-| Binary star | Russell – Lyttleton | Companion star disrupted |
-| Interstellar dust | **Otto Schmidt** | Sun captured gas–dust cloud → planets |
-| **Big Bang** | **Lemaître** idea; often linked with **Gamow** / ~**13.7–13.8 bn yr** | Hot dense start; expansion |
-| **Steady State** | **Hoyle – Bondi – Gold** | Universe looks the same; continuous creation |
-| Pulsating | Oscillating bang–crunch model | |
-| Note | Note |
+| Planetesimal | Chamberlin – Moulton | Passing star pulled matter into planetesimals |
+| Tidal | Jeans – Jeffreys | Tidal filament from a passing star broke into planets |
+| Binary star | Russell – Lyttleton | Companion star disrupted into planetary debris |
+| Interstellar dust | **Otto Schmidt** | Sun captured a gas–dust cloud that formed planets |
+| **Big Bang** | **Lemaître** (often + **Gamow**) | Hot dense start ~**13.7–13.8 bn yr**; expansion |
+| **Steady State** | **Hoyle – Bondi – Gold** | Universe looks constant; continuous creation of matter |
+| Pulsating | Oscillating model | Repeated expansion and contraction |
+
+### Galaxy, stars and distances
+
+- **Edwin Hubble** showed that galaxies recede and that recession produces **redshift** — key evidence that space expands.
+- Further evidence includes the expanding universe picture and the **cosmic microwave background (CMB)**.
+- The **Milky Way** is a **barred spiral** galaxy (Spitzer-era framing) with roughly **100 billion** stars in coaching notes.
+- The Sun takes about **22.5–25 crore years** to orbit the galactic centre — one **galactic year**.
+- An **Astronomical Unit (AU)** is the mean Earth–Sun distance, about **149.6 million km**.
+- A **light-year** is the distance light travels in one year, about **9.46 × 10¹² km**.
+- Star **colour tracks temperature**: blue stars are hottest; red stars are cooler.
+- A simple stellar life path is **nebula → main sequence → red giant → nova/supernova → white dwarf / neutron star (pulsar) / black hole**.
+- The **Chandrasekhar limit** is about **1.44 solar masses**. Below it a remnant can stay a white dwarf; above it the collapse path runs toward a neutron star or black hole (Nobel shared with Fowler, 1983).
+- A **black hole** is the remnant of a massive star whose gravity is so strong that **light cannot escape**.
+- The IAU lists **88** constellations. **Saptarishi / Ursa Major** points toward the **Pole Star**.
+- The closest star after the Sun is **Proxima Centauri**. **Betelgeuse** is famous for Hubble surface imaging, not for being the nearest star.
+- A **brittle star** is a marine echinoderm, not a cosmic object. A **byte** is a computing unit, not an astronomical measure.
+
+| Note | Fact |
 |------|------|
 | Expansion | **Hubble** — galaxies recede; redshift |
 | Evidence | Expanding space + **CMB** |
-| Galaxy | **Milky Way** = **barred spiral** (Spitzer 2005 note); ~100 bn stars framing |
+| Galaxy | **Milky Way** = **barred spiral**; ~100 bn stars framing |
 | Galactic year | Sun orbits galactic centre in ~**22.5–25 crore** years |
-| Distance | **AU** = Earth–Sun mean (~**149.6 million km**); **light-year** = distance light travels in 1 year (~**9.46×10¹² km**) |
-| Star colour | Colour tracks **temperature** (blue hottest → red cooler) |
-| Star life | Nebula → main sequence → red giant → nova/supernova → white dwarf / **neutron star (pulsar)** / **black hole** |
-| **Chandrasekhar limit** | ~**1.44 solar masses** — white-dwarf ceiling; above → collapse path toward neutron star / black hole (Nobel with Fowler, 1983) |
-| Black hole | Remnant of a massive star; gravity so strong **light cannot escape** (high density) |
-| Constellations | IAU list = **88**; **Saptarishi / Ursa Major** points toward the **Pole Star** |
-| Closest star (after Sun) | **Proxima Centauri**; Hubble surface image renown = **Betelgeuse** |
-| Not space | **Brittle star** = marine echinoderm; **byte** = computing |
+| Distance | **AU** ≈ **149.6 million km**; **light-year** ≈ **9.46×10¹² km** |
+| Star colour | Blue hottest → red cooler |
+| Star life | Nebula → main sequence → red giant → nova/supernova → white dwarf / neutron star / black hole |
+| **Chandrasekhar limit** | ~**1.44 M☉** white-dwarf ceiling |
+| Black hole | Massive-star remnant; light cannot escape |
+| Constellations | IAU **88**; Saptarishi points to Pole Star |
+| Closest star (after Sun) | **Proxima Centauri** |
+| Not space | **Brittle star** = marine animal; **byte** = computing |
 
 ---
 
 ## N.2 Solar System
 
-Order from Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn – Uranus – Neptune** (Pluto = dwarf since IAU **2006**, Prague).
+Order from the Sun: **Mercury – Venus – Earth – Mars – Jupiter – Saturn – Uranus – Neptune**. **Pluto** is a **dwarf planet** since the IAU decision at Prague in **2006**.
 
-**Heliocentric pair:** **Copernicus** (Commentariolus / De revolutionibus); coaching also credits **Varahamihira** earlier note. **Kepler** = planetary laws; **Newton** = gravity.
+### Sun-centred model
 
-| Group | Fact |
-|-------|------|
-| Inner (terrestrial) | Mercury, Venus, Earth, Mars — rock, few moons |
-| Outer (Jovian) | Gas giants Jupiter–Saturn; ice giants Uranus–Neptune |
-| Earth | 3rd planet; densest mean (~**5.5 g/cm³**); **23½°** tilt; one moon; **Goldilocks / habitable zone** |
-| Sun | ~**99.8%** of solar-system mass; energy = **nuclear fusion** (H→He); diameter ~**109×** Earth |
-| **Saturn** | Clearest rings; Titan largest moon; Cassini orbiter note; bulk H₂+He (+ methane option traps) |
-| **Mars** | Red planet; Phobos & Deimos; day/tilt close to Earth; Phoenix / Curiosity / **Mangalyaan** |
-| Light from Sun | ~**8 min 20 s** to Earth |
-| Nebula | **Not** a member of the solar system (star-forming cloud) |
+- The modern **heliocentric** model is linked to **Nicolaus Copernicus** (*Commentariolus* / *De revolutionibus*).
+- Coaching notes sometimes also mention an earlier Indian astronomical tradition associated with **Varahamihira**, but Copernicus remains the standard European propounder pair for heliocentrism.
+- **Kepler** gave the laws of planetary motion.
+- **Newton** explained orbital motion through **universal gravitation**.
 
-**Planet / moon match (mug this)**
+### Inner and outer planets
 
-| Superlative | Fact |
-|-------------|------|
-| Smallest / fastest orbit / least revolution time | **Mercury** (~88 days); **no moon** (with Venus) |
-| Hottest (thick CO₂ greenhouse) | **Venus** (~464°C) — Morning/Evening Star; twin of Earth; Magellan mapped it |
-| Albedo | Earth ~**0.3** > Mercury ~**0.1** — Mercury not brighter despite more sunlight |
-| Largest / heaviest / fast spin | **Jupiter**; Galilean moons IO, Europa, Ganymede, Callisto; rings = silicate dust |
-| Largest moon in solar system | **Ganymede** (Jupiter) — not Saturn’s |
-| Prominent rings | **Saturn** |
-| Sideways rotator / sun rises west | **Uranus** (~84 yr year) |
-| Coldest / farthest (8-planet set) | **Neptune** (~165 yr); methane tint |
-| Dwarf (IAU **2006**) | **Pluto**; moons Charon, Nix, Hydra… |
-| Asteroid belt | Between **Mars and Jupiter** |
-| Moon with thick atmosphere | **Titan** (Saturn) |
-| Mars moons | **Phobos, Deimos** |
-| Kuiper Belt / Oort Cloud | Icy leftovers beyond Neptune / far comets |
-| Comet vs asteroid | Asteroids = rocky belt; comets = ice+dust, **tail away from Sun**; Halley ~76 yr |
+- Inner **terrestrial** planets are Mercury, Venus, Earth and Mars — rocky worlds with few or no moons.
+- Outer planets are the gas giants **Jupiter** and **Saturn** and the ice giants **Uranus** and **Neptune**.
+- Earth is the third planet, densest by mean density (~**5.5 g/cm³**), tilted about **23½°**, with one moon, in the **habitable / Goldilocks** zone.
+- The Sun holds about **99.8%** of solar-system mass. Its energy comes from **nuclear fusion** of hydrogen into helium. Its diameter is about **109×** Earth’s.
+- Light from the Sun takes about **8 minutes 20 seconds** to reach Earth.
+- A **nebula** is a star-forming cloud. It is **not** a member of the solar system family of planets, moons, asteroids and comets.
 
-**Eclipse:** **Solar** only at **New Moon** (Moon between Sun–Earth). **Lunar** only at **Full Moon** (Earth between). Umbra = total; penumbra = partial. Diamond-ring effect at start/end of totality.
+### Planet desk (tilt · spin sense · moons · periods)
 
-**Moon pairs:** Same face toward Earth (rotation period ≈ revolution ~**27.3 d**); no atmosphere → no sound; perigee = closest/brighter; weight on Moon ≈ **1/6** Earth weight; Apollo 11 / Sea of Tranquillity **1969**; Chandrayaan programme.
+Most planets **orbit and rotate prograde** (same sense as Earth’s west→east spin). **Venus** and **Uranus** are the classic **retrograde** rotators. Moon counts rise as new small moons are found — learn the stable coaching numbers and named moons first.
 
-Aditya-L1 = solar (CA). Chandrayaan = Moon.
+| Planet | Axial tilt (approx.) | Rotation sense | Rotation (day) | Revolution (year) | Moons (coaching) | Must-score note |
+|--------|----------------------|----------------|----------------|-------------------|------------------|-----------------|
+| **Mercury** | ~**0°** | Prograde | ~**59** Earth days | ~**88** Earth days | **0** | Smallest; fastest orbit; no moon |
+| **Venus** | ~**177°** | **Retrograde** | ~**243** Earth days | ~**225** Earth days | **0** | Hottest (~464°C); Morning/Evening Star |
+| **Earth** | **23½°** | Prograde | ~**24 h** | **365¼** days | **1** (Moon) | Densest mean; habitable zone |
+| **Mars** | ~**25°** | Prograde | ~**24.6 h** | ~**687** Earth days | **2** (Phobos, Deimos) | Red planet; day/tilt close to Earth |
+| **Jupiter** | ~**3°** | Prograde | ~**10 h** | ~**12** Earth years | Many; Galilean **Io, Europa, Ganymede, Callisto** | Largest / heaviest; fastest spin |
+| **Saturn** | ~**27°** | Prograde | ~**10.7 h** | ~**29.5** Earth years | Many; **Titan** largest of Saturn | Clearest rings |
+| **Uranus** | ~**98°** | **Retrograde** (sideways) | ~**17 h** | ~**84** Earth years | Many | Sideways rotator; Sun rises in the west framing |
+| **Neptune** | ~**28°** | Prograde | ~**16 h** | ~**165** Earth years | Many; **Triton** famous | Coldest / farthest in 8-planet set |
+| **Pluto** (dwarf) | High / retrograde framing | Retrograde | Long | ~**248** Earth years | Charon, Nix, Hydra… | IAU dwarf since **2006** |
+
+### Other solar-system facts
+
+- The **largest moon in the solar system** is Jupiter’s **Ganymede**, not Saturn’s Titan.
+- **Titan** is Saturn’s largest moon and has a thick atmosphere.
+- The **asteroid belt** lies between **Mars and Jupiter**.
+- The **Kuiper Belt** holds icy leftovers beyond Neptune. The **Oort Cloud** is a far reservoir of comets.
+- **Asteroids** are mainly rocky belt objects. **Comets** are ice and dust; the tail points **away from the Sun**. Halley’s comet returns about every **76 years**.
+- Earth’s albedo (~**0.3**) is higher than Mercury’s (~**0.1**), so Earth reflects a larger share of sunlight even though Mercury is closer to the Sun.
+
+### Eclipses
+
+- A **solar eclipse** can occur only at **New Moon**, when the Moon lies between the Sun and Earth and the Moon’s shadow falls on Earth.
+- A **lunar eclipse** can occur only at **Full Moon**, when Earth lies between the Sun and Moon and Earth’s shadow falls on the Moon.
+- The dark central shadow is the **umbra** (total eclipse). The lighter outer shadow is the **penumbra** (partial eclipse).
+- The **diamond-ring** effect appears at the start and end of totality in a total solar eclipse.
+
+### Moon facts
+
+- The Moon keeps roughly the **same face** toward Earth because its rotation period is about equal to its revolution period (~**27.3 days**).
+- The Moon has **no substantial atmosphere**, so there is no air to carry sound.
+- At **perigee** the Moon is closest and appears brighter/larger; at **apogee** it is farthest.
+- Weight on the Moon is about **one-sixth** of weight on Earth.
+- **Apollo 11** landed in the **Sea of Tranquillity** in **1969**. India’s lunar work sits under the **Chandrayaan** programme.
+- **Aditya-L1** is a solar mission. Chandrayaan is a lunar programme — do not swap them.
 
 ---
 
@@ -268,7 +318,7 @@ Aditya-L1 = solar (CA). Chandrayaan = Moon.
 | **21 Jun** | NH summer solstice | Tropic of **Cancer**; Arctic 24 h day |
 | **22 Dec** | NH winter solstice | Tropic of **Capricorn**; Arctic 24 h night |
 
-Winter solstice → pressure belts **shift south** (2024 Mediterranean Q — statement 2 true).
+Around the Northern Hemisphere **winter solstice**, global pressure belts **shift south** with the Sun. That shift helps explain winter rain on west-coast subtropical latitudes (Mediterranean-type climates).
 
 | Note | Fact |
 |------------|------|
@@ -281,25 +331,60 @@ Winter solstice → pressure belts **shift south** (2024 Mediterranean Q — sta
 
 ## N.4 Latitude
 
-Parallels; 0° = Equator; **90°** poles. **1° latitude ≈ 111 km**.
+**Latitude** lines are parallels. **0°** is the Equator. **90°** marks the poles. One degree of latitude is about **111 km**.
 
 | Parallel | Value | Note |
-|----------|-------|-----|
-| Tropic of Cancer | **23½° N** | NH summer solstice |
-| Tropic of Capricorn | **23½° S** | |
-| Arctic / Antarctic circles | **66½°** | 90−23½ |
-| Heat zones | Torrid 23½–23½; temperate to 66½; frigid to poles |
+|----------|-------|------|
+| Tropic of Cancer | **23½° N** | Sun overhead at NH summer solstice |
+| Tropic of Capricorn | **23½° S** | Sun overhead at NH winter solstice |
+| Arctic / Antarctic circles | **66½°** | 90 − 23½ |
+| Heat zones | Torrid between the tropics; temperate to 66½°; frigid to the poles |
 
-**India:** Area rank **7th** (not 6th); **2.4%** of world land. Tropic of Cancer “through the middle” matches 2022 Q35 statement 3. India is **not** wholly tropical. A bare “equal latitudinal halves” overclaim is false if asked alone. UP is not on the Tropic.
-Same latitude ≠ same temperature: **Agra vs Darjeeling** — altitude / thinner air (2022 A/R both true, R explains A).
+### India on the latitude map
 
-- **0° + 0°** meet in the **Atlantic** (Gulf of Guinea) — not a land capital.
-- Great circles include the **equator** and all meridians; **60°N is not** a great circle.
-- Equator countries include Brazil, Colombia, Kenya, Indonesia, Gabon, Uganda… (**not Mexico**; not always Equatorial Guinea / Rwanda).
-- Tropic of Cancer countries include India, Egypt, Mexico, Saudi Arabia… (**not Iran**).
-- Tropic of Capricorn countries include Brazil, Australia, Chile, Argentina, Namibia… (**not Bolivia**).
-- About **179** latitude parallels at 1° interval including the equator (89 N + 89 S + equator).
-- Pole Star on your **left** → walking **east**. Stars rising **perpendicular to horizon** → observer on the **equator**.
+- India’s area rank is **7th** in the world (not 6th).
+- India holds about **2.4%** of world land area.
+- The Tropic of Cancer runs **through the middle** of India, so India is **not** wholly tropical.
+- A claim that India is split into neat equal latitudinal halves is an overclaim if asked alone.
+- Uttar Pradesh does **not** lie on the Tropic of Cancer.
+- Same latitude does **not** mean same temperature. **Agra** and **Darjeeling** share a latitude belt idea but differ sharply because of **altitude** and thinner hill air.
+
+### Great circles, 0°–0°, and field tricks
+
+- The intersection of **0° latitude and 0° longitude** lies in the **Atlantic Ocean** in the **Gulf of Guinea**. It is **not** on a land capital and **not** in India.
+- **Great circles** include the **Equator** and **all meridians**. A parallel such as **60°N is not** a great circle.
+- If the Pole Star is on your **left**, you are walking **east**.
+- If stars rise **perpendicular to the horizon**, the observer is on the **Equator**.
+- Counting every 1° parallel from 89°N to 89°S plus the Equator gives about **179** latitude lines.
+
+### Countries on major parallels (full lists)
+
+Learn the full sets. Do not stop at “India, Egypt, Mexico…”.
+
+**Equator (0°)** — 13 countries (west→east coaching order):
+
+Ecuador, Colombia, Brazil, São Tomé and Príncipe, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Somalia, Maldives, Indonesia, Kiribati.
+
+- **Not** on the Equator: **Mexico**, **Equatorial Guinea** (name trap; lies north), **Rwanda**.
+
+**Tropic of Cancer (~23½° N)** — 17 countries / territories usually listed:
+
+Mexico, Bahamas, Western Sahara, Mauritania, Mali, Algeria, Niger, Libya, Egypt, Saudi Arabia, United Arab Emirates, Oman, India, Bangladesh, Myanmar, China, Taiwan.
+
+- **Not** on Cancer: **Iran** (classic wrong option).
+
+**Tropic of Capricorn (~23½° S)** — 10 countries:
+
+Chile, Argentina, Paraguay, Brazil, Namibia, Botswana, South Africa, Mozambique, Madagascar, Australia.
+
+- **Not** on Capricorn: **Bolivia**.
+
+**Arctic Circle (~66½° N)** — countries crossed:
+
+Norway, Sweden, Finland, Russia, United States (Alaska), Canada, Denmark (**Greenland**), Iceland (Grímsey grazes the circle).
+
+**Antarctic Circle (~66½° S)** — mainly Southern Ocean and the Antarctic continent. No crowded “capital country” list like the tropics.
+
 ---
 
 ## N.5 Longitude, Time, Time Zones, IDL
@@ -313,9 +398,15 @@ Meridians meet at poles. **Prime Meridian = 0° Greenwich**.
 | **IST** | **82°30′ E** (near **Mirzapur, UP**) = **GMT + 5 h 30 min**; **one** zone for all India |
 | Time zones | Roughly 15° wide; countries zigzag for politics |
 | **IDL** | Follows ~**180°**; bent around islands / Aleutians; crossing **westward skip a day**; eastward repeat a day. West side of IDL is **ahead** (e.g. New Zealand vs Hawaii) |
-| Prime Meridian land | UK, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana… (**not Niger** / Nigeria as the classic wrong option) |
-| GMT places | London, Lisbon, Accra, Dublin… — **not Addis Ababa** |
+| Prime Meridian land | Full land list below — **not Niger** / Nigeria as the classic wrong option |
+| GMT places | London, Lisbon, Accra, Dublin — **not Addis Ababa** |
 | Cairo | ~**30° E** → about **2 h ahead** of GMT |
+
+**Prime Meridian (0° longitude) land countries — complete coaching list:**
+
+United Kingdom, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana.
+
+The meridian also crosses Antarctic territory, but the usual country-match set is the eight names above. **Niger** and **Nigeria** are classic wrong options.
 
 **Worked rule:** longitude difference × 4 min; east = add. 30° east of Greenwich = 12:00 + 2 h = 14:00.
 
@@ -473,25 +564,44 @@ Clouds are named by **height** and **form**. High clouds are usually icy. Mid cl
 
 ## N.6D Tropical cyclones · Tornado · Anticyclone
 
-Cyclones spiral into a **low**; NH anticlockwise, SH clockwise. Air **descends** in the eye (warm relative to surroundings aloft).
+### Tropical cyclone
 
-| Name | Region |
-|------|--------|
+A **tropical cyclone** is a warm-core storm that spirals into a deep **low-pressure** centre over warm tropical seas.
+
+- In the **Northern Hemisphere** the surface circulation is **anticlockwise**.
+- In the **Southern Hemisphere** it is **clockwise**.
+- Moist air rises in spiral rainbands. In a mature storm, air **descends** in the calm **eye**.
+- The eye column is **warmer** than the surrounding cloud wall aloft — do not mark “eye is 10°C colder.”
+- Fuel is warm ocean water and **latent heat**. The storm weakens over land because that ocean fuel is cut off.
+- Only some cyclones develop a clear eye. Jet streams exist in **both** hemispheres and can steer or shear storms.
+
+| Local name | Region |
+|------------|--------|
 | **Hurricane** | USA / Atlantic–Caribbean |
-| **Typhoon** | China Sea / W Pacific |
-| **Willy-Willy** | NW Australia |
-| **Cyclone** | Indian Ocean / India |
+| **Typhoon** | China Sea / western Pacific |
+| **Willy-Willy** | North-west Australia |
+| **Cyclone** | North Indian Ocean / India |
 | **Baguio** | Philippines |
 | **Taifu** | Japan |
 
-- **Tornado** = intense funnel; USA **Tornado Alley** (Mississippi Plains / TX–OK–KS–NE). Scale = **Fujita**. Hurricane damage scale = **Saffir–Simpson**.
-- **Nargis** hit **Myanmar**, not India.
-- Few tropical cyclones in S Atlantic / SE Pacific tropics mainly because **SST is too low**.
-- Jet streams occur in **both** hemispheres; only some cyclones develop a clear **eye**; eye is **warmer**, not 10°C colder.
+- A **tornado** is a smaller, intense funnel. The classic USA belt is **Tornado Alley** (Texas–Oklahoma–Kansas–Nebraska plains). Intensity uses the **Fujita** scale. Hurricane damage uses **Saffir–Simpson**.
+- Cyclone **Nargis** hit **Myanmar**, not India.
+- Tropical cyclones are rare in the South Atlantic and south-east Pacific tropics mainly because **sea-surface temperature stays too low**.
 
-**Anticyclone:** high centre; air outflows; NH **clockwise**.
+### Anticyclone
 
-Sudden **mercury fall** in barometer → stormy weather ahead.
+An **anticyclone** is a **high-pressure** centre.
+
+- Air **sinks** and then **outflows** at the surface.
+- In the Northern Hemisphere the outflow is **clockwise**.
+- In the Southern Hemisphere the outflow is **anticlockwise**.
+- Fair, settled weather is common under an anticyclone because sinking air suppresses cloud growth.
+- A sudden **fall of mercury** in the barometer often means stormy weather is approaching as pressure drops toward a low.
+
+| System | Centre | Surface spin (NH) | Surface spin (SH) | Typical weather |
+|--------|--------|-------------------|-------------------|-----------------|
+| Cyclone / low | Low | Anticlockwise | Clockwise | Cloud, rain, strong wind |
+| Anticyclone / high | High | Clockwise | Anticlockwise | Clear, settled, light wind |
 
 ---
 
@@ -506,9 +616,24 @@ Sudden **mercury fall** in barometer → stormy weather ahead.
 
 Both share the same **elements**: temperature, pressure, wind, humidity, cloudiness and precipitation. Weather answers “what is happening now.” Climate answers “what is usual for this season and place.”
 
-**Mediterranean** climate has dry summers and **winter rain**. Around the Northern Hemisphere **winter solstice**, global pressure belts **shift south**. That southward shift brings the westerly rain belt over Mediterranean latitudes in winter and leaves those coasts dry under subtropical highs in summer.
+**Mediterranean-type climate (Cs) — world map, not one coast only**
 
-**Logic:** Statement 1 tests the classic Mediterranean rainfall season. Statement 2 tests the solstice shift of pressure belts. Both are true together.
+A Mediterranean climate has **mild, wet winters** and **hot, dry summers**. Rain falls mainly when the **westerlies** migrate over the coast in the cool season. Summers stay dry under the subtropical high.
+
+Why winter rain happens: pressure belts **follow the Sun**. Around the NH **winter solstice** the belts shift **south**, so the rain-bearing westerlies cover about **30°–45°** west coasts. In summer the subtropical high sits over those latitudes and rain is scarce.
+
+**Where else it occurs (same Cs logic):**
+
+- Classic **Mediterranean Basin** — Spain, southern France, Italy, Greece, coastal North Africa, Levant fringe.
+- **California** west coast (USA).
+- Central **Chile**.
+- **South-west Australia** (Perth belt) and parts of southern Australia.
+- **Cape region** of South Africa.
+- Parts of central Chile / California are the Southern / Northern Hemisphere mirrors of the same west-coast subtropical pattern.
+
+Do not freeze the idea as “only the Mediterranean Sea.” Any similar west-coast subtropical latitude can show the same dry-summer / wet-winter rhythm.
+
+**Logic:** Statement 1 tests the classic Mediterranean rainfall season. Statement 2 tests the solstice shift of pressure belts. Both are true together. The same belt-shift logic also explains California, Chile, SW Australia and Cape Town-type climates.
 
 **Inline PYQ — UPPCS Prelims 2024, Q79**
 
@@ -559,18 +684,43 @@ Total GHG emitters: **China > USA > India** (~3rd). Do not freeze 2023 options 9
 
 ---
 
-## N.9 El Niño
+## N.9 El Niño · La Niña · ENSO
 
-ENSO is the equatorial **Pacific** ocean–atmosphere couple. The Southern Oscillation is the Darwin–Tahiti pressure see-saw.
+**ENSO** (El Niño–Southern Oscillation) is the coupled ocean–atmosphere swing of the **equatorial Pacific**. The **Southern Oscillation** is the **Darwin–Tahiti** pressure see-saw.
+
+### Normal (neutral) Walker pattern
+
+- Trade winds blow **west** across the tropical Pacific.
+- Warm surface water piles up in the **western Pacific** (Indonesia–Australia warm pool).
+- Cool water **upwells** off **Peru / Ecuador** in the eastern Pacific.
+- Upwelling brings nutrients, so plankton and the Peru fishery stay rich.
+- The **Walker cell** rises in the west and sinks in the east.
+
+### El Niño
+
+- Trade winds **weaken** or reverse.
+- Warm water spreads into the **eastern Pacific**. A warm current appears off **Peru**.
+- Eastern upwelling **weakens**, so **plankton and fish catch fall** — the warm water does **not** increase Peruvian plankton.
+- Heavy rain and floods can hit the normally dry west coast of South America.
+- Drought risk rises over parts of **Indonesia, Australia** and sometimes **India’s monsoon** timing/strength.
+- The Walker cell **breaks or reverses**.
+- A **strong / “super” El Niño** is simply an intense version of the same eastern warming and upwelling collapse. Recent strong events (for example **2015–16** and **2023–24**) are living CA reminders — teach the mechanism, not only one year’s headline.
+
+### La Niña
+
+- Trade winds are **stronger** than normal.
+- Eastern Pacific stays **cooler**; upwelling **strengthens**.
+- Plankton and fish often **rise** off Peru.
+- Australia / Indonesia can be wetter; India’s monsoon response varies by event.
+- The Walker cell is **strong**.
 
 | | El Niño | La Niña |
 |--|---------|---------|
-| E. Pacific | **Warm** current off **Peru** | Cool |
+| E. Pacific SST | **Warm** off **Peru** | Cool |
 | Upwelling | **Weakens** | Strengthens |
-| Plankton / fish | **Fall** (2023 Q67 stmt 2 false) | Rise |
+| Plankton / fish | **Fall** | Rise |
 | Walker cell | Breaks / reverses | Strong |
-
-- Warm El Niño water off Peru does **not** increase plankton; it cuts upwelling, so fish catch falls.
+| Typical risk sketch | E. Pacific rain; Indo–Aus drought risk | Stronger trades; cooler east Pacific |
 
 **Inline PYQ — UPPCS Prelims 2023, Q67**
 
@@ -591,8 +741,10 @@ D. Neither 1 nor 2
 <summary>Show answer</summary>
 
 **Ans: A** — Statement 2 is false. Less upwelling → **less** plankton/fish.
+
 </details>
 
+---
 ---
 
 ## N.10 Coriolis Force
@@ -660,7 +812,7 @@ D. A is false but R is true
 
 ## N.12 Pressure Belts, Planetary Winds, ITCZ
 
-Belts **follow the Sun** (shift N in NH summer, **S around winter solstice**).
+Pressure belts **follow the Sun**. They shift **north** in Northern Hemisphere summer and **south** around the Northern Hemisphere winter solstice.
 
 | Latitude | Belt | Wind |
 |----------|------|------|
@@ -669,22 +821,30 @@ Belts **follow the Sun** (shift N in NH summer, **S around winter solstice**).
 | 60° | Subpolar **low** | **Westerlies** |
 | 90° | Polar **high** | Polar easterlies |
 
-**ITCZ = low**, not high. Summer shift over India = monsoon trough.
+### Doldrums and horse latitudes
 
-| Named westerlies (SH) | Fact |
-|-----------------------|------|
-| **Roaring Forties** | ~**40°S** |
-| Furious Fifties | ~50°S |
-| Shrieking / Screaming Sixties | ~60°S |
+- The **Doldrums** are the calm, light-wind zone of the **ITCZ** near the Equator. Air rises here, so surface winds are weak and rainfall is frequent.
+- The **ITCZ is a low**, not a high.
+- **Horse latitudes** are the calm belts under the subtropical **highs** near about **30°–35°** north and south. Air sinks here, so skies are often clear and dry.
+- Do not mark horse latitudes as a low-pressure belt.
+- A **monsoon** is a seasonal land–sea wind reversal. It is **not** one of the permanent planetary pressure belts, even though the ITCZ shift helps drive the Indian monsoon trough.
 
-**Doldrums** = ITCZ calm. **Horse latitudes** = ~30°–35° subtropical **high** (not low). Land–sea **monsoon** is seasonal, not a planetary belt.
+### Named Southern Hemisphere westerlies
 
-**SH westerlies** are stronger (less land). **Roaring Forties / Furious Fifties / Shrieking Sixties** = SH westerlies. **Wellington** lies in Roaring Forties path.
+| Named belt | Fact |
+|------------|------|
+| **Roaring Forties** | About **40°S** |
+| Furious Fifties | About **50°S** |
+| Shrieking / Screaming Sixties | About **60°S** |
 
-Trade winds warm the **western** tropical oceans; temperate **westerlies** warm the **eastern** ocean sections.
+- Southern Hemisphere westerlies are stronger because there is less land to block them.
+- **Wellington** lies in the path of the Roaring Forties.
+- Trade winds help warm the **western** tropical oceans. Temperate **westerlies** help warm the **eastern** sides of ocean basins in mid-latitudes.
 
-Valley breeze = **anabatic** (day upslope); mountain breeze = **katabatic** (night downslope).
+### Local mountain winds
 
+- A **valley breeze** is **anabatic** — day air flows **upslope**.
+- A **mountain breeze** is **katabatic** — night air flows **downslope**.
 
 ---
 
@@ -717,16 +877,33 @@ Oceanic crust is about **5–10 km** thick. Continental crust is about **30–40
 
 ## N.14 Continental Drift
 
-**Alfred Wegener, 1912.** Supercontinent **Pangaea**; ocean **Panthalassa**; later Laurasia + Gondwana.
-Evidence: jigsaw coasts, fossils (**Glossopteris, Mesosaurus**), glacial till, matching rocks. Wegener lacked a mechanism.
+**Alfred Wegener** proposed continental drift in **1912**.
+
+- He argued that the continents once formed a single supercontinent called **Pangaea**.
+- A vast ocean called **Panthalassa** surrounded Pangaea.
+- Pangaea later split into northern **Laurasia** and southern **Gondwana**.
+- Evidence includes the **jigsaw fit** of coasts (especially South America and Africa), matching **fossils** such as **Glossopteris** and **Mesosaurus**, matching rock belts, and glacial till deposits on now-separate continents.
+- Wegener could describe the pattern but lacked a convincing **mechanism** for how continents moved.
+
+### How the idea grew after Wegener
+
+- **Arthur Holmes** (~1928–29) suggested **mantle convection** as a driving force.
+- **Harry Hess** (1960s) developed **sea-floor spreading** at mid-ocean ridges, with paleomagnetic stripes as support.
+- Modern **plate tectonics** treats the lithosphere as moving plates. India was once part of **Gondwana**.
+- New crust is added by **sea-floor spreading**. Old crust is destroyed by **subduction**.
 
 | Later piece | Fact |
 |-------------|------|
-| Convection in mantle | **Holmes** (~1928–29) |
+| Mantle convection | **Holmes** (~1928–29) |
 | Sea-floor spreading | **Harry Hess** (1960s); paleomagnetic stripes on MOR |
 | Plates | Lithosphere pieces; India was in **Gondwana** |
 
-**Geological-time pairs (Ghatnachakra):** **Pleistocene** = classic “Great Ice Age” framing; **Little Ice Age** ≈ **1300–1870 AD** (colder Europe/N. America winters). **Jurassic** = age of dinosaurs; Indian remains note at **Raiyoli (Gujarat)** and **Bara Simla / Narmada (Jabalpur)**. **Cocos plate** sits between Central America and the Pacific plate. New crust is added by **sea-floor spreading**; old crust is destroyed by **subduction**.
+### Geological-time pairs often asked with this map
+
+- **Pleistocene** is the classic “Great Ice Age” framing in coaching notes.
+- The **Little Ice Age** is often dated about **1300–1870 AD**, with colder winters in Europe and North America.
+- The **Jurassic** is the age of dinosaurs. Indian remains notes include **Raiyoli (Gujarat)** and **Bara Simla / Narmada (Jabalpur)**.
+- The **Cocos plate** sits between Central America and the Pacific plate.
 
 ---
 
@@ -7505,7 +7682,7 @@ D. 1, 2 and 3
 10. **Perihelion = NH summer** — FALSE. **Early January**.
 11. **Seasons = changing distance from Sun** — FALSE. **Tilt**.
 12. **IST only east of Mirzapur** — FALSE. **Whole India**.
-13. **India = 6th largest / wholly tropical** — FALSE. **7th**; **2.4%**; Tropic through the middle. 2022 Q35 = **A (2 and 3)**.
+13. **India = 6th largest / wholly tropical** — FALSE. **7th**; **2.4%**; Tropic through the middle.
 14. **Nuclear/geothermal = stored solar** — FALSE.
 15. **Fold = Vosges; fault = Himalaya** — swapped. Himalaya = **fold**; Vosges = **block**.
 16. **Hottest planet = Mercury** — FALSE. **Venus**.
