@@ -8,7 +8,7 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part III*, Spectrum *A Brief History of Modern India*, UPPCS Prelims PYQs 2018–2025, Ghatnachakra Indian History (EIC & Nawabs of Bengal)
+> **Sources baked in:** NCERT *Themes in Indian History Part III*, Spectrum *A Brief History of Modern India*, UPPCS Prelims PYQs 2018–2025, Ghatnachakra Indian History (EIC & Nawabs of Bengal; Regional States — Punjab & Mysore)
 > **Weight:** ★★★ — Plassey/Buxar/Diwani, treaty-year matching, Mysore/Maratha/Sikh chronology, Subsidiary vs Lapse, Sugauli
 > **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
@@ -473,7 +473,9 @@ D. Both 1 and 2
 - **Tipu Sultan** succeeded in **1782**. He used rockets, kept French contacts, and was called the Tiger of Mysore.
 - Tipu also pushed state reforms in trade, sericulture and a new calendar. Papers still test wars and treaties first.
 - The capital was **Seringapatam (Srirangapatna)**.
+- **Haidar Ali** built a modern armoury / sepoy post at **Dindigul in 1755** before he became full ruler of Mysore.
 - At Seringapatam Tipu founded a **Jacobin Club**, became its member, and planted a **Tree of Liberty** as a sign of friendship with France.
+- Tipu also gave money for the construction of the idol of Goddess **Sharada** at the **Shringeri** temple — a standard “correct statement” fact about him.
 - Tipu also set up embassies on modern lines in foreign states such as **Iran, Istanbul, Afghanistan and France** to seek help against the English.
 - There were **four** Anglo-Mysore Wars. Fear of French help to Tipu shaped Wellesley’s urgency in the Fourth War.
 
@@ -705,6 +707,8 @@ D. Jamadani
 - His capital was **Lahore** (taken **1799** after Zaman Shah’s goodwill over returned cannon). **Amritsar** (taken **1802**) was the religious capital.
 - He annexed **Multan (1818)**, **Kashmir (1819)** and **Peshawar / Khyber belt (1834)**.
 - **Shah Shuja**, a descendant of Ahmad Shah Abdali, gifted him the **Kohinoor** diamond.
+- He said God wanted him to look on all religions with one eye, so the light of the other eye was taken — a famous line on his religious tolerance.
+- He set up modern foundries to manufacture cannons at **Lahore** (and Amritsar).
 - European officers such as **Ventura** and **Allard** trained his army.
 - He set up the **Adalat-i-Ala**, the supreme court, at **Lahore**, not Amritsar.
 - The empire stretched from the **Khyber** to the **Sutlej**.
@@ -743,7 +747,7 @@ D. Jamadani
 
 **Course:** Fighting included Ramnagar, a British setback at **Chillianwala (13 Jan 1849)** — Lord Gough vs Sher Singh; undecided field — and the decisive victory at **Gujrat (21 Feb 1849)**.
 
-**Results:** Punjab annexed on **29 March 1849**. Duleep Singh deposed and sent to England on pension. Punjab became a **Chief Commissionership**.
+**Results:** Punjab annexed on **29 March 1849**. Duleep Singh deposed and sent to England on a pension of about **₹4–5 lakh** a year (the figure **₹2,50,000** in some stems is the false option). Punjab became a **Chief Commissionership**.
 
 | Board of Three (1849) | Role |
 |-----------------------|------|
@@ -913,9 +917,9 @@ D. 3, 1, 2, 4
 
 ### Pindaris (Lord Hastings)
 
-**Causes:** Pindari plunder bands in Malwa / Central India raided Company and allied lands.
+**Causes:** Pindari plunder bands in Malwa / Central India raided Company and allied lands. Early nineteenth-century leaders often keyed are **Chittu**, **Karim Khan** and **Basil Mohammad**.
 
-**Course:Lord Hastings** ran the **Pindari campaign (1817–18)** alongside the **Third Anglo-Maratha War**.
+**Course:** **Lord Hastings** ran the **Pindari campaign (1817–18)** alongside the **Third Anglo-Maratha War**.
 
 **Results:** Pindari power destroyed. With the Peshwa’s fall, British paramountcy in central India was complete.
 
@@ -935,7 +939,7 @@ D. 3, 1, 2, 4
 
 ### First Anglo-Afghan War, 1839–42
 
-**Causes:** Auckland’s fear of Russian influence. Plan to replace **Dost Muhammad** with Shah Shuja.
+**Causes:** Nineteenth-century Anglo-Afghan policy rested on fear of **Russian** expansion toward India (British memory often tags the Russo–Iranian **Treaty of Turkmenchay, 1828**). Auckland planned to replace **Dost Muhammad** with Shah Shuja.
 
 **Course:** British entered Kabul, then faced rising resistance. The **1842 retreat from Kabul** was a disaster. Elphinstone’s column was destroyed.
 
@@ -1715,6 +1719,192 @@ Hindu Nayab Wazirs of Oudh: (1) Raja Tikait Rai was Artha Mantri of Asaf-ud-Daul
 <summary>Show answer</summary>
 
 **Ans: C (Both 1 and 2).**
+
+</details>
+
+
+
+## Ghatnachakra Extra Drill — Regional States: Punjab & Mysore
+
+Teaching for these stems sits in **2.10–2.12** (Begum Samru in the UP / Sardhana note).
+
+**Logic:** Ranjit’s kingdom among options includes Srinagar/Kashmir; misl = Sukerchakia; capital = Lahore.
+
+**Q1. UPPCS Spl Mains 2004 / Pre 1997 / MPPCS 2021 / UKPCS 2006**
+
+Ranjit’s kingdom included / which misl / capital of Ranjit Singh?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Among common options, **Srinagar (Kashmir, 1819)** was in his kingdom — not Delhi/Kabul/Makran. Misl = **Sukerchakia (Shukarchakiya)**. Capital = **Lahore** (from **1799**); Amritsar was the religious capital (**1802**).
+
+</details>
+
+**Logic:** Adalat-i-Ala = Lahore (not Amritsar).
+
+**Q2. UPPCS (Pre) 2021**
+
+At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
+
+A. Amritsar
+
+B. Lahore
+
+C. Firozpur
+
+D. Multan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Highest appeal court at **Lahore**.
+
+</details>
+
+**Logic:** Treaty of Amritsar 1809 = Lord Minto (Metcalfe); Kohinoor from Shah Shuja; “one eye” quote = Ranjit.
+
+**Q3. Jharkhand PCS / BPSC / UPPCS Mains**
+
+Treaty of Amritsar concluded with / Kohinoor from / who said God took light from one eye so all religions look one?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Lord Minto** (Metcalfe signed). **Shah Shuja**. **Maharaja Ranjit Singh**.
+
+</details>
+
+**Logic:** Successor = Kharak/Khadag Singh; last king = Duleep Singh; died Paris 1893; pension not 2.5 lakh.
+
+**Q4. Jharkhand / UP UDA/LDA / UPPCS Mains / UP R.O. 2023**
+
+Successor of Ranjit / last Sikh king / correct statement about Duleep / false statement on Punjab merger pension?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Successor **Khadag / Kharak Singh**. Last king **Duleep Singh (1843–49)**. He died in **Paris (1893)**, accepted Christianity, visited Russia, cremated in England. False pension claim: **₹2,50,000** — real figure about **₹4–5 lakh**.
+
+</details>
+
+**Logic:** Board of Three = Henry Lawrence (president), John Lawrence, Charles Mansel — not Elliot/Montgomery.
+
+**Q5. UPPCS (Mains) 2013**
+
+Who was NOT a member of the Board of Three to administer Punjab after annexation?
+
+A. H.M. Elliot
+
+B. Sir Henry Lawrence
+
+C. John Lawrence
+
+D. Robert Montgomery
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A and D** (both outsiders). Board = **Henry Lawrence, John Lawrence, Charles Grenville Mansel**.
+
+</details>
+
+**Logic:** First Anglo-Mysore = Haidar victorious / Treaty of Madras 1769; Dindigul armoury 1755 = Haidar; Porto Novo = Eyre Coote beat Haidar.
+
+**Q6. UPPCS / Jharkhand**
+
+Who won First Anglo-Mysore / who set modern armoury at Dindigul 1755 / British general who beat Haidar at Porto Novo?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Haidar Ali** (Treaty of Madras, **4 Apr 1769**). **Haidar Ali** at **Dindigul**. **Sir Eyre Coote** at **Porto Novo (1781)**.
+
+</details>
+
+**Logic:** Tipu capital Srirangapatna; embassies modern lines; Pollilur 1780 British defeat; Srirangapatna treaty Tipu; died 1799 Fourth War.
+
+**Q7. BPSC / IAS / UPPCS**
+
+Tipu’s capital / who set embassies abroad / Tipu beat British 1780 at / Treaty of Srirangapatna with / Tipu died when?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Srirangapatna**. **Tipu Sultan** (Iran, Istanbul, Afghanistan, France). **Pollilur**. **Tipu** (**1792**, Third War). Died **1799** (Fourth War).
+
+</details>
+
+**Logic:** Only Fourth War match is correct among common wrong First/Second/Third claims.
+
+**Q8. UPPCS (Mains) 2014**
+
+Which is correctly matched? (First–Fourth Anglo-Mysore outcomes)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Fourth** — Tipu defeated and killed in battle (**1799**). First ended with **Madras** (Haidar strong). Second ended **Mangalore**. Third Tipu ceded roughly half territory (**Srirangapatnam 1792**).
+
+</details>
+
+**Logic:** Treaty years — Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769.
+
+**Q9. UPPCS (Pre) 2019**
+
+Match Allahabad / Mangalore / Salbai / Madras → years
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **1765 / 1784 / 1782 / 1769** (code often **4-2-1-3**).
+
+</details>
+
+**Logic:** Begum Samru church = Sardhana (Meerut).
+
+**Q10. UPPCS (Mains) 2012**
+
+Begum Samru constructed the most eminent church at:
+
+A. Mount Abu
+
+B. Nainital
+
+C. Sardhana
+
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Sardhana** near Meerut; husband **Walter Reinhardt Sombre**.
+
+</details>
+
+**Logic:** IAS 2003 — Ali Mardan Khan did NOT introduce revenue farming in Bengal (Murshid Quli did); other three statements true (Ranjit cannons, Jai Singh Euclid, Tipu Shringeri).
+
+**Q11. IAS (Pre) 2003**
+
+Which statement is NOT correct? (Ali Mardan / Ranjit foundries / Jai Singh Euclid / Tipu Shringeri)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Ali Mardan Khan…).** Revenue farming in Bengal is linked to **Murshid Quli Khan**, not Ali Mardan Khan.
+
+</details>
+
+**Logic:** IAS 2004 — only Mir Jafar–Plassey conspiracy true; Panipat III not vs Ibrahim Lodi; Tipu died in Fourth not Third Mysore War.
+
+**Q12. IAS (Pre) 2004**
+
+1 Abdali beat Ibrahim Lodi at Panipat III 2 Tipu killed in Third Anglo-Mysore 3 Mir Jafar conspired at Plassey
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (3 only).** Panipat III = Marathas. Tipu died in the **Fourth** war (**1799**).
 
 </details>
 
@@ -2890,6 +3080,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 ---
 
 ## Common Traps — Don't Fall For These
+
+40. **Adalat-i-Ala = Amritsar** → **Lahore**.
+41. **Treaty of Amritsar 1809 = Dalhousie** → **Lord Minto** / Metcalfe.
+42. **Tipu died in Third Mysore War** → **Fourth, 1799**; Third ends **Srirangapatnam 1792**.
+43. **First Mysore = British win** → **Haidar** forced **Treaty of Madras 1769**.
+44. Board of Three ≠ **Elliot / Montgomery**; members = **Henry & John Lawrence + Mansel**.
+45. Duleep pension trap **₹2.5 lakh** → about **₹4–5 lakh**.
 
 30. **Murshid Quli Khan** = last Bengal Subedar appointed independently by the Mughals; not Alivardi.
 31. At **Buxar**, Bengal’s Nawab on the Company ledger was **Mir Jafar**; the rebel ally was **Mir Qasim**.

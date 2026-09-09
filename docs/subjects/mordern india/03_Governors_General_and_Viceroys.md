@@ -243,7 +243,7 @@ Named for British Prime Minister **William Pitt the Younger**. It fixed the prob
 - In **1787** the District Collector briefly held Diwani-judge powers and some Faujdari powers. In **1790–92** Indian-staffed district Faujdari courts were replaced by **four Circuit Courts** (three for Bengal, one for Bihar) under European judges, with Indian kazis and muftis assisting.
 - Under the Code, the Collector lost judicial and police powers and kept **taxation only**. District Judges took civil, criminal and police work in a new hierarchy.
 - He is credited with founding the **covenanted Indian Civil Service** (Public Services) on European lines; higher covenanted posts stayed **Europeans only**.
-- In **1793** he separated landlords from police duties, set up thanas roughly every twenty to thirty square miles, and appointed the **Daroga** under the Magistrate — often remembered as the local face of Company authority.
+- In **1793** he separated landlords from police duties, set up thanas roughly every twenty to thirty square miles, and appointed the **Daroga** under the Magistrate — often remembered as the local face of Company authority (“Aura and Authority of Company Bahadur”).
 - He personally led the **Third Anglo-Mysore War**, which ended with the **Treaty of Seringapatam, 1792**.
 - He returned for a short second term from **30 July to 5 October 1805** and died at **Ghazipur (Uttar Pradesh)**; his tomb is still there.
 
@@ -850,6 +850,8 @@ D. Neither 1 nor 2
 - He took over after Curzon. **John Morley** was Secretary of State for India. Their joint package is remembered as the **Morley–Minto Reforms**, legally the **Indian Councils Act, 1909**.
 - Before the Act, the **Simla Deputation (1 October 1906)** met Minto and asked for Muslim weightage and separate representation. The **All-India Muslim League** was founded at **Dacca in December 1906**.
 - Minto is often tagged **"Father of the Communal Electorate"** because **1909** gave legal force to **Muslim separate electorates**.
+- **Rajendra Prasad** later called Minto the **Father of Pakistan**, because communal electorates sowed the long partition logic.
+- Gandhi’s harsh line on the package is remembered as saying the **Morley–Minto Reforms destroyed us / destroyed everything** — a teaching tag for how nationalists read the Act.
 - **S. P. Sinha** became the first Indian member of the Viceroy’s Executive Council (**Law Member**) under these reforms.
 - The Act enlarged councils and let members discuss the budget and ask questions, but it did **not** create responsible government or dyarchy.
 
@@ -871,7 +873,8 @@ D. Neither 1 nor 2
 - The **Imperial (Central) Legislative Council** was enlarged (commonly remembered rise from about **16 to about 60** members). An **official majority** was kept at the Centre.
 - **Provincial Legislative Councils** were also enlarged. In some provinces a **non-official majority** became possible.
 - Members could ask **questions** and **supplementary questions**, and move **resolutions on the budget**. They still could **not** vote the executive out, and the budget as a whole was not controlled by the council.
-- **Separate electorates for Muslims** were introduced: only Muslim voters elected Muslim candidates in reserved seats. This is the first legal communal electorate.
+- **Separate electorates for Muslims** (**communal representation**) were introduced: only Muslim voters elected Muslim candidates in reserved seats. This is the first legal communal electorate.
+- Prelims often ask what **1909 provided**: answer **communal representation / separate electorates** — **not** dyarchy, federation, or provincial autonomy.
 - Separate representation was also arranged for bodies such as **Presidency Corporations, Chambers of Commerce, Universities and Zamindars**.
 - Indians entered the **Viceroy’s Executive Council**. The first Indian appointee was **Satyendra Prasad Sinha** (Law).
 
@@ -893,7 +896,9 @@ D. Neither 1 nor 2
 
 ## 3.38 Lord Hardinge II (1910–1916)
 
-- At the **Delhi Durbar of 1911** (third Durbar), he hosted **George V** and **Queen Mary**. The capital was shifted from **Calcutta to Delhi**, and the **Partition of Bengal was annulled**.
+- At the **Delhi Durbar of 1911** (December), he hosted **George V** and **Queen Mary**. On **12 December 1911** the king announced annulment of the Partition of Bengal and the transfer of the capital from **Calcutta to Delhi**.
+- The capital shift was completed in **1912** under Hardinge II. If a stem forces **1911 vs 1912**, prefer **1912** for completed transfer and **1911** for the Durbar announcement.
+- Bengal was reconstituted; **Bihar and Orissa** were separated as a province (**from 1 April 1912**); Assam returned toward its earlier separate status.
 - A bomb was thrown at the Viceroy's procession in **Chandni Chowk on 23 December 1912**.
 - The network is linked to **Anushilan Samiti** and **Rash Behari Bose**.
 - The **First World War** began during his tenure, in 1914.
@@ -1121,6 +1126,9 @@ D. Shankaran Nair
 ### Political result
 
 - In the **1937** elections Congress formed ministries in a **majority of provinces** (commonly remembered as about **seven of eleven**).
+- Nehru mocked the Act as a car with **brakes but no engine** and as a **Charter of Slavery** (Lucknow Congress **1936** rejected the Act).
+- The Act’s **Instrument of Instructions** style guidance later fed the vocabulary of the Constitution’s **Directive Principles of State Policy**.
+- **Lionel Curtis** is often tagged **father of dyarchy** for the **1919** scheme (dyarchy moved to the Centre on paper in **1935**, never worked).
 - The League’s “**Day of Deliverance**” (December 1939) celebrated Congress ministries’ resignation after the war declaration — a later Linlithgow-era fact that sits on this Act’s provincial stage.
 - Independent India’s Constitution borrowed heavily from this Act’s **lists, federal court idea, and provincial structure**.
 
@@ -1761,9 +1769,185 @@ D. Lord Lansdown
 
 ---
 
+
+## Ghatnachakra Extra Drill — Governors-General & Viceroys
+
+Teaching for these stems sits across **3.1–3.41** (Ring Fence, Dual Government, Subsidiary Alliance, Lapse, Viceroys).
+
+**Logic:** First GG of Bengal = Warren Hastings (1773); first GG of India = Bentinck (1833); Clive ≠ first GG.
+
+**Q1. IAS 2007 / RAS / BPSC**
+
+1 Clive was first GG of Bengal 2 Bentinck was first GG of India — which correct? / first GG of India?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Only statement **2**. First GG of Bengal = **Warren Hastings**. First GG of India = **William Bentinck**. First Viceroy = **Canning**.
+
+</details>
+
+**Logic:** Chronology Buxar → Clive return → Allahabad → Hastings Governor of Bengal 1772.
+
+**Q2. UP R.O./A.R.O. Re-Exam 2016**
+
+Arrange: Clive’s re-arrival / Allahabad / Buxar / Warren Hastings became India’s Governor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Buxar (1764) → Clive return (1765) → Allahabad (1765) → Hastings Governor of Bengal (1772)**. (Stem wording “India’s Governor” is loose — he was Governor of Bengal, then GG of Bengal from 1774.)
+
+</details>
+
+**Logic:** Bentinck did NOT consolidate empire by war/annexation as his main tag; Dual Govt by Clive, abolished by Hastings; Ring Fence / Security Cell = Warren Hastings; Asiatic Society under Hastings; impeachment = Hastings; Vellore Mutiny = Barlow.
+
+**Q3. UPPSC GIC / BPSC / UPPCS / MPPCS / Jharkhand**
+
+Which statement not true about Bentinck consolidating empire / Dual Government who / Ring Fence who / Asiatic Society GG / impeachment / Vellore Mutiny governor?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Bentinck is remembered for **social/admin reform**, not war consolidation — that “not true” stem keys him. Dual = **Clive** created, **Hastings** ended. Ring Fence = **Warren Hastings**. Asiatic Society (**1784**) under **Hastings**. Impeachment = **Hastings**. Vellore (**1806**) under **Sir George Barlow**.
+
+</details>
+
+**Logic:** Cornwallis = ICS / Cornwallis Code / Daroga / tomb Ghazipur; Banaras Rebellion = Chet Singh vs Hastings.
+
+**Q4. IAS / UPPCS / UP R.O.**
+
+Who created Covenanted Civil Service / Public Service tenure / Daroga as Company face / Cornwallis tomb / Banaras Rebellion leader?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Cornwallis**; **Cornwallis**; **Daroga**; **Ghazipur**; **Raja Chet Singh (1781)**.
+
+</details>
+
+**Logic:** Subsidiary Alliance — Wellesley finished tool; first Maratha = Bajirao II (Bassein); first Indian native often Hyderabad for Wellesley version / Awadh 1765 for early form; NOT for fixed Company income as aim (IAS 2018).
+
+**Q5. IAS / BPSC / UPPCS**
+
+Which does NOT apply to Subsidiary Alliance / first Maratha to accept / Treaty of Bassein / first native ruler / Wellesley sequence Hyderabad–Mysore–Oudh–Sindhia?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** NOT aim = **secure fixed income for Company**. First Maratha = **Bajirao II**. Bassein = **English and Bajirao II (1802)**. Wellesley first major = **Hyderabad 1798** (early Awadh 1765 is pre-Wellesley form). Order **1-2-3-4** = Hyderabad, Mysore, Oudh, Sindhia.
+
+</details>
+
+**Logic:** Anglo-Nepal / Sugauli = Lord Hastings; Third Maratha = Lord Hastings not Cornwallis; Munro Madras 1820–27; Mysore taken for maladministration = Bentinck 1831; Third Mysore = Cornwallis; Thugs = Sleeman; Sati = Bentinck 1829; slave export ban Bengal 1789; slavery abolished Ellenborough 1843.
+
+**Q6. UPPCS / UKPCS / IAS / BPSC / Jharkhand**
+
+Anglo-Nepal GG / Sugauli year / wrong pair Cornwallis–Third Maratha / Munro years / who took Mysore for mismanagement / Third Mysore GG / Thug suppression / Sati year / slave export ban / slavery abolished by?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Lord Hastings**; **1815/16**; Cornwallis ≠ Third Maratha (**Lord Hastings**); Munro **1820–27**; **Bentinck**; **Cornwallis**; **Captain Sleeman**; **1829**; **1789**; **Ellenborough (Act V, 1843)**.
+
+</details>
+
+**Logic:** Awadh = misrule not Lapse; Lapse list Satara first; Baghat 1850; Jaipur/Gwalior not Lapse victims; Outram resident; railway Bombay–Thane 1853 GIPR; Dalhousie PWD; Widow Remarriage Canning 1856; Queen’s Proclamation Allahabad 1 Nov 1858 Canning first Viceroy; Victoria Empress 1877.
+
+**Q7. UPPCS / IAS / BPSC / UKPCS**
+
+Awadh annexed how / first Lapse victim / Baghat year / who not annexed by Lapse / Awadh resident / first railway / PWD / Widow Remarriage Act GG / Proclamation reader-place / first Viceroy / Victoria Empress year?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Maladministration (1856)**. First Lapse = **Satara 1848**. **Baghat 1850**. **Jaipur / Gwalior** not classic Lapse list. Resident **James Outram**. Railway **Bombay–Thane 1853** (**GIPR**). **Dalhousie** PWD. Widow Act **Canning**. Proclamation **Canning at Allahabad**. First Viceroy **Canning**. Empress **1877**.
+
+</details>
+
+**Logic:** Sindh Ellenborough/Napier 1843; Masterly Inactivity = John Lawrence; Mayo census 1872 + financial decentralisation + Andaman murder; Lytton Forward/Proud Reserve + Vernacular Press (not Ilbert); Ripon local self-govt + Ilbert + Factory 1881; Metcalfe Liberator of Press; Curzon ASI/Monuments/Partition/longest among listed; Hardinge II capital Delhi; Vernacular Press ≠ Curzon.
+
+**Q8. IAS / UPPCS / BPSC / UKPCS cluster**
+
+Sindh GG / Masterly Inactivity / Mayo facts / Lytton not associated with / Father of local self-government / Ilbert about / Factory Act GG / Liberator of Press / Ancient Monuments Act / Curzon vs Aurangzeb who / capital shift GG / Vernacular Press Act GG?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Ellenborough / Napier**. **John Lawrence**. Mayo = **1872 census start, financial decentralisation, Andaman assassination**. Lytton **not** Ilbert (**Ripon**). Local self-govt = **Ripon**. Ilbert = Indian magistrates trying Europeans. Factory **1881 = Ripon**. Press liberator = **Metcalfe**. Monuments Act **Curzon 1904**. **Gokhale** compared Curzon to Aurangzeb. Capital shift = **Hardinge II**. Vernacular Press = **Lytton 1878**.
+
+</details>
+
+**Logic:** Only Jewish Viceroy = Reading; Morley–Minto separate electorates = Minto; wrong match Vernacular–Curzon.
+
+**Q9. UP R.O. / MPPCS / IAS**
+
+Only Jewish Viceroy / separate electorate GG / which pair NOT correctly matched (Vernacular Press)?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Lord Reading**. **Lord Minto** (with Morley, **1909**). Vernacular Press Act is **Lytton**, not Curzon.
+
+</details>
+
+
+
+## Ghatnachakra Extra Drill — Morley–Minto and Delhi Durbar
+
+Teaching sits in **3.36–3.38**. Home Rule / Lucknow Pact teaching lives in **Topic 12**.
+
+**Logic:** Official name = Indian Councils Act 1909; key provision = communal / separate electorates; not dyarchy; Minto = Father of Pakistan (Rajendra Prasad).
+
+**Q1. UPPCS / BPSC**
+
+Morley–Minto year / what 1909 provided / whom Rajendra Prasad called Father of Pakistan?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Act / reforms **1909**. Provided **communal representation (Muslim separate electorates)** — not dyarchy. **Lord Minto** = Father of Pakistan (Rajendra Prasad’s tag).
+
+</details>
+
+**Logic:** Capital before Delhi = Calcutta; announcement 1911 Durbar George V; Hardinge II; Bihar separate 1912; Hardinge bomb 23 Dec 1912 Anushilan / Rash Behari; Bhagwati Charan Vohra not in Hardinge bomb set.
+
+**Q2. UPPCS / UKPCS / BPSC / RAS**
+
+Capital before Delhi / transfer Viceroy / Bihar separated year / Hardinge bomb org / who was NOT in Hardinge bomb case?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Earlier capital **Calcutta**. Transfer under **Hardinge II** (announced **1911**, effected **1912**). Bihar–Orissa province **1912**. Org = **Anushilan Samiti**. Not involved = **Bhagwati Charan Vohra** (common distractor).
+
+</details>
+
+
+
+## Ghatnachakra Extra Drill — Constitutional Acts Map
+
+Teaching sits across **3.3–3.5, 3.12–3.15, 3.22, 3.44** (and related Councils Acts).
+
+**Logic:** Regulating 1773 GG Bengal + SC 1774; Pitt 1784 Board of Control; Charter 1813 monopoly end (tea/China kept) + ₹1 lakh education; 1833 GG of India + Law Member Macaulay; 1853 open ICS; 1858 Crown; 1861 ordinance/portfolio; 1892 budget discuss; 1909 separate electorates; 1919 provincial dyarchy (Lionel Curtis); 1935 provincial autonomy / centre dyarchy paper / Nehru “brakes” + Charter of Slavery / Instrument of Instructions → DPSP memory.
+
+**Q1. UPPCS / IAS**
+
+Regulating Act creates which post / Pitt’s Act creates what in London / 1813 vs 1833 trade / first Law Member / Act that opened ICS competition / Act that introduced provincial dyarchy / Act that abolished provincial dyarchy / Nehru’s car metaphor for 1935?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **GG of Bengal (1773)**. **Board of Control**. **1813** ends India monopoly (keeps tea/China); **1833** ends all Company trade + **GG of India**. Law Member **Macaulay**. ICS open competition **Charter 1853**. Provincial dyarchy **1919**. Abolished in provinces **1935**. Nehru: car with **brakes but no engine** / **Charter of Slavery**.
+
+</details>
+
+
 ## Practice Zone — UPPCS Format Drill
 
-> **40 questions.Q1.** Match List-I with List-II.
+> **40 questions.**
+
+**Q1.** Match List-I with List-II.
 
 **List-I** A. Dalhousie B. Curzon C. Bentinck D. Cornwallis
 **List-II** 1. Permanent Settlement 2. Sati 3. Partition of Bengal 4. Doctrine of Lapse
@@ -2631,6 +2815,13 @@ D. Neither 1 nor 2
 
 ## Common Traps — Don't Fall For These
 
+40. **Clive = first GG of Bengal** → **Warren Hastings (1773)**; Clive founded empire power, not that office title.
+41. **Subsidiary Alliance aim = fixed Company income** → false (IAS 2018); tool is army/paramountcy/Napoleon buffer.
+42. **Cornwallis = Third Anglo-Maratha** → **Lord Hastings**; Cornwallis = Permanent Settlement / Third Mysore.
+43. **Awadh = Doctrine of Lapse** → **misrule 1856**; first Lapse = **Satara 1848**.
+44. **Vernacular Press Act = Curzon / Ripon** → **Lytton 1878**; Ripon repealed.
+45. **Ilbert Bill = Lytton** → **Ripon 1883**.
+
 1. **Hastings = first Viceroy** → first **GG**; **Canning** first Viceroy **1858**.
 2. **Cornwallis abolished Sati** → **Bentinck 1829**.
 3. **Bentinck = Permanent Settlement** → **Cornwallis 1793**.
@@ -2667,3 +2858,10 @@ D. Neither 1 nor 2
 34. **1853 ended Company rule** → **1853** opens ICS competition; Company ends in **1858**.
 35. **RBI created only by GOI Act 1935** → RBI statute is **1934**; Act **provided for** a reserve bank.
 36. **Simon Commission invented in 1927 from nowhere** → it is the **ten-year statutory review** ordered by **GOI Act 1919**.
+37. **1909 = dyarchy / provincial autonomy** → **communal representation**; dyarchy = **1919**.
+38. **Father of Pakistan = Jinnah (Rajendra Prasad’s tag in this bank)** → **Lord Minto** (communal electorates).
+39. **Capital transfer completed in 1905 / under Curzon** → announced **1911**, Hardinge II; Curzon = Partition.
+40. **Bihar separated in 1905 with Partition** → **Bihar–Orissa province 1912** after Durbar rearrangement.
+41. **1935 = dyarchy introduced in provinces** → **1919** introduced provincial dyarchy; **1935 abolished** it and tried (paper) dyarchy at Centre.
+42. **Charter 1813 ended all Company trade** → ended India monopoly but kept **tea/China**; **1833** ended all trade.
+43. **Instrument of Instructions = Fundamental Rights** → memory link is to **Directive Principles**, not FR.

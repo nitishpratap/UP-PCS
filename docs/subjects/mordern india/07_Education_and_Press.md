@@ -8,14 +8,14 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 
 </details>
 
-> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Education & Press), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — Wood–Hunter–Sadler–Hartog–Sargent order, Asiatic Society founder, UP newspaper places, Archbold trap, press-law sequence
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 31 Must-Score Facts
 
 1. The **Charter Act, 1813** set aside **₹1 lakh a year** for education and also allowed missionary entry. How to spend the grant sparked the Orientalist–Anglicist fight.
 2. **Orientalists** wanted Sanskrit, Arabic and Persian learning. **Anglicists** wanted English and Western science. The fight ran through the **Committee of Public Instruction** from **1823**.
@@ -43,6 +43,11 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 24. Press freedom was never linear: Wellesley control → Adam licensing → Metcalfe liberation → 1857 relapse → Lytton vernacular curb → Ripon repeal → 1908–10 tightening → 1931 emergency powers.
 25. MAO College (Aligarh, Sir Syed) and Muir Central College (Allahabad) both appear in Archbold’s career — useful when a stem lists colleges and asks which one he did **not** head.
 26. Jones vs Hastings on the Asiatic Society is a pure chair trap: **Jones founded and presided**; Hastings only encouraged and stepped aside.
+27. **Calcutta Madrasa (~1780–81, Hastings)** taught Muslim law; **Sanskrit College Banaras (1791, Jonathan Duncan)**. **Charles Wilkins** first English *Gita*; **William Jones** English *Shakuntala* (**1789**).
+28. **Hindu College (1817)** = Ram Mohan Roy with **David Hare** and **Alexander Duff**. College order: Hindu College **1817** → Delhi College **1824** → Mayo / MAO **1875**.
+29. **D.K. Karve** = first women’s university (Bombay stream, **1916**) and widows’ home (**1896**, Poona). **Deccan Education Society** = Tilak, Chiplunkar, Agarkar, Namjoshi (**Ranade** = patron, not core founder).
+30. Press openers: **Portuguese press Goa 1556**; **Hicky 1780**; **Tilak** first jailed Indian journalist tag; **Amrita Bazar Patrika** flipped to English overnight (**1878**) to dodge Vernacular Press Act.
+31. Paper↔person extras: **Ghadar** first issue **Urdu (1 Nov 1913)**; **Free Hindustan** = **Tarak Nath Das**; **Al-Hilal** = Azad; **Bahishkrit Bharat** = Ambedkar; **Qaumi Awaz** = Nehru + Kidwai; **Pioneer** = George Allen (Allahabad).
 
 ---
 
@@ -190,7 +195,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - It proposed universities on the model of **London University** — examining and affiliating bodies rather than only teaching bodies.
 - The **1857 universities** at Calcutta, Bombay and Madras followed this design.
 
-> ** note:** Wood's Despatch is **1854**, under Dalhousie, not under Macaulay's 1835 Minute. Grants-in-aid and vernacular-at-lower-levels are Wood facts, not Hunter facts.
+> ** note:** Wood's Despatch is **1854**, under Dalhousie, not under Macaulay's 1835 Minute. Grants-in-aid, universities, female education and vernacular-at-lower-levels are Wood facts, not Hunter facts. English was for **higher** studies — **not** as the medium at **all** levels (IAS 2018 trap).
 
 ---
 
@@ -246,7 +251,7 @@ D. C A B D
 
 ## 7.8 Sadler Commission, 1917–19
 
-- Also called the **Calcutta University Commission**, chaired by **Michael Sadler**.
+- Also called the **Calcutta University Commission**, chaired by **Michael Sadler**. Indian members included **Ashutosh Mukherjee** and **Ziauddin Ahmad**.
 - Appointed in the time of Viceroy **Chelmsford** to review the problems of **Calcutta University** and, by extension, Indian higher education generally.
 - It recommended carving out a separate **intermediate stage** (roughly two years after school) so that university proper began after 12 years of schooling plus intermediate, not straight after matriculation.
 - It recommended **Boards of Secondary and Intermediate Education** to run this stage outside direct university control.
@@ -286,7 +291,7 @@ D. C A B D
 ## 7.11 National Education Movement and the National Council of Education, 1906
 
 - The movement grew during **Swadeshi (1905–06)** as a protest against Curzon's controls (including the **1904 Universities Act**) and as a boycott of official colleges.
-- The **National Council of Education (NCE)**, founded in **Bengal in 1906**, was the organised expression of this movement — a body meant to run literary and scientific/technical education entirely **free of government control**.
+- **Rangpur National School** opened **8 November 1905** as an early national-education milestone. The **National Council of Education (NCE)** was organised in **Bengal on 15 August 1906**, was the organised expression of this movement — a body meant to run literary and scientific/technical education entirely **free of government control**.
 - **Satish Chandra Mukherjee** was a key founder-organiser of the NCE; **Rashbihari Ghosh** funded it generously.
 - The NCE ran the **Bengal National College** — **Aurobindo Ghosh** served as its first principal — and the **Bengal Technical Institute**, an early technical-education wing.
 - The Bengal Technical Institute later grew, over decades, into what became **Jadavpur University**.
@@ -300,7 +305,7 @@ D. C A B D
 
 ## 7.12 Educational Centres and Teachers
 
-- **Warren Hastings** founded the **Calcutta Madrasa in 1781**.
+- **Warren Hastings** founded the **Calcutta Madrasa (~1780–81)**.
 - **Jonathan Duncan** founded the **Sanskrit College, Banaras, in 1791**. He did **not** found the Asiatic Society.
 - **Wellesley** founded **Fort William College in 1800** to train Company civilians in Indian languages and administration; **William Carey** taught Sanskrit, Bengali and Marathi there from 1801.
 - **Hindu College, Calcutta**, opened in **1817**. It later became Presidency College. **David Hare** and Indian patrons backed it.
@@ -314,6 +319,18 @@ D. C A B D
 - **Madan Mohan Malaviya** developed it into **BHU in 1916**.
 - **Muir Central College, Allahabad**, later linked to Allahabad University.
 - **Bengal National College (1906)** and the **Bengal Technical Institute** ran under the **National Council of Education** — see the National Education Movement card above.
+
+
+- Calcutta Madrasa is commonly dated **1780–81** under **Warren Hastings** for Muslim law and related subjects (graduates often worked as interpreters). Do not put it at Madras/Bombay/Aligarh.
+- **Charles Wilkins** produced the first English translation of the **Bhagavad Gita** (Hastings wrote a preface). **Sir William Jones** translated Kalidasa’s **Abhijnanashakuntalam** into English (**1789**) and ran *Asiatic Researches*.
+- **Nathaniel Halhed** published a **Bengali grammar (1778)**. **Michael Madhusudan Dutt** was offered membership of the **Royal Asiatic Society of Paris**.
+- **Hindu College, Calcutta (1817)** was backed by **Raja Ram Mohan Roy** together with **David Hare** and **Alexander Duff** — do not give the college only to Derozio or Vidyasagar.
+- Founding order trap: **Hindu College 1817** → **Delhi College 1824** → **Mayo College Ajmer 1875** and **MAO Aligarh 1875**.
+- **D.K. Karve** opened a widows’ home at Poona (**1896**) and the Indian Women’s University stream at Bombay (**1916**); he received the **Bharat Ratna (1958)**.
+- **New English School / Deccan Education Society (Pune, 1880s)**: **V.K. Chiplunkar, B.G. Tilak, G.G. Agarkar, M.B. Namjoshi**. **M.G. Ranade** supported as a **patron**, not as a core founder.
+- **Madan Mohan Malaviya** pressed for religious teaching in Indian universities; he was BHU Vice-Chancellor **1919–39**. **Lord Hardinge** laid BHU’s foundation stone (**4 Feb 1916**). **Annie Besant’s Central Hindu College (1898)** fed into BHU.
+- **Raleigh / University Commission (1902)** under Curzon included Indian members **Syed Hussain Bilgrami** and **Justice Gurudas Banerjee** — not Tilak/Gokhale.
+- **Sadler Commission (1917)** Indian members included **Ashutosh Mukherjee** and **Ziauddin Ahmad**; it stressed fixing **secondary** standards before university reform.
 
 **Teachers and administrators — quick names table**
 
@@ -350,7 +367,7 @@ D. He was the Principal of the Muir Central College, Allahabad.
 ## 7.13 Asiatic Society of Bengal
 
 - Founded in **1784** at Calcutta.
-- **Founder-president = Sir William Jones**.
+- **Founder-president = Sir William Jones**. Through *Asiatic Researches* the Society publicised India’s past; Jones’s English *Shakuntala* (**1789**) is a standard Society-linked fact. **Wilkins’s English Gita** is a related oriental-learning fact (Hastings’s preface).
 - It was founded in the time of **Warren Hastings**. Hastings was a scholar of Indian languages, but he **declined** the presidency in Jones's favour.
 - **2021 Q40** asks the founder → **Jones**, not Hastings, Duncan or Bentinck.
 - **2019 Q22** A/R: both statements are true, but Hastings's scholarship does **not** explain why he declined the chair. Answer = **B** (R is not the correct explanation of A).
@@ -496,6 +513,17 @@ D. A-1, B-2, C-3, D-4
 | Bengalee | Surendranath Banerjee |
 | Amrita Bazar Patrika | Ghosh brothers (Sisir / Motilal Ghosh line) |
 | The Hindu | G. Subramania Iyer (founding line) |
+| Al-Hilal | Abul Kalam Azad |
+| Bahishkrit Bharat | B.R. Ambedkar |
+| Indian Opinion | Gandhi (ed. Mansukhlal Nazar first) |
+| Ghadar | Ghadar Party (Hardayal / Bhakna stream); first Urdu |
+| Free Hindustan | Tarak Nath Das |
+| The Pioneer | George Allen |
+| Independent | Motilal Nehru |
+| Qaumi Awaz | Jawaharlal Nehru / Rafi Ahmed Kidwai |
+| Som Prakash | Ishwar Chandra Vidyasagar line |
+| Hindoo Patriot | Girish Chandra Ghosh → Harish Chandra Mukherjee |
+
 
 - Editor questions are usually **person ↔ paper**.
 - Place questions for UP papers sit in the newspaper table above.
@@ -504,6 +532,36 @@ D. A-1, B-2, C-3, D-4
 > ** note:** Tilak = Kesari (Pune). Gandhi = Young India / Harijan. Besant = New India. Buckingham = Calcutta Journal, deported 1823.
 
 ---
+
+
+**Press and paper extras (match home)**
+
+| Paper / act | Fact |
+|-------------|------|
+| Portuguese press | First press in Asia at **Goa, 1556** |
+| Free Hindustan | **Tarak Nath Das** (North America / Vancouver line) |
+| Ghadar | Weekly; first issue **1 Nov 1913, Urdu**, San Francisco; then Gurmukhi and other languages |
+| Som Prakash | **Ishwar Chandra Vidyasagar** line (**1858**); backed indigo ryots |
+| Hindoo Patriot | Started by **Girish Chandra Ghosh**; **Harish Chandra Mukherjee** edited and backed the Indigo Movement |
+| Indian Opinion | Gandhi, South Africa (**1903**); first editor **Mansukhlal Nazar**; languages English, Gujarati, Hindi, Tamil — **not Urdu** |
+| Young India | Home Rule circle start (**May 1919**, Bombay); Gandhi edited from **8 Oct 1919** (Ahmedabad weekly) |
+| Harijan | First issue **11 Feb 1933, Pune**; also Harijan Bandhu (Gujarati) and Harijan Sevak (Hindi) |
+| Udant Martand | First Hindi newspaper (**30 May 1826, Calcutta**), Pt. Jugal Kishore Shukla |
+| Al-Hilal / Al-Balagh | **Abul Kalam Azad** (Al-Hilal **1912**; banned **1914**) |
+| Bahishkrit Bharat | **B.R. Ambedkar** (with Bahishkrit Hitkarini Sabha, **1924**) |
+| Indian Nation | **Kameshwar Singh** of Darbhanga; published from **Patna (1931)** |
+| The Pioneer | **George Allen**, Allahabad (**1865**) |
+| Qaumi Awaz | **Jawaharlal Nehru** and **Rafi Ahmed Kidwai** (**1945**, Lucknow) |
+| Independent | **Motilal Nehru** (not Ambedkar) |
+| Vande Mataram (English weekly) | **Aurobindo Ghosh** / Bipin Chandra Pal stream |
+| Sandhya / Yugantar / Kaal | Revolutionary terrorism advocacy; **Young India** is **not** in that set |
+| Dash Roja | **Abdul Ghaffar Khan** |
+| Commonweal / New India | **Annie Besant** |
+| Tahzeeb-ul-Akhlaq | **Sir Syed Ahmad Khan** (not Jinnah) |
+
+- **Tilak** is the standard first-jailed-Indian-journalist tag (Kesari/Mahratta line; also the **1897** Rand–Ayerst / Shivaji-speech case).
+- **Metcalfe (1835)**, not Bentinck alone, is the **Liberator of the Indian Press** — Bentinck prepared the ground; the Act passed under Metcalfe.
+
 
 ## Must-score facts — commission/act ↔ year ↔ core recommendation
 
@@ -692,6 +750,146 @@ D. 1856
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Education
+
+Teaching sits in **7.1–7.13**.
+
+**Logic:** First British madrasa = Calcutta (Hastings); Asiatic Society = Jones; Banaras Sanskrit = Duncan; Wilkins = Gita; Jones = Shakuntala.
+
+**Q1. UPPCS / UKPCS / IAS**
+
+First British madrasa place / Asiatic Society founder / Banaras Sanskrit founder / first English Gita / first English Shakuntala?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Calcutta** (Hastings, ~**1780–81**). Asiatic Society = **Sir William Jones** (**1784**; Hastings declined chair). Sanskrit College = **Jonathan Duncan (1791)**. Gita = **Charles Wilkins**. Shakuntala = **William Jones**.
+
+</details>
+
+**Logic:** 1813 = Rs 1 lakh; Wood = Magna Carta / grants + universities, English for higher not all levels; Hunter = primary / Ripon 1882; Sadler = education / 1917 Calcutta University.
+
+**Q2. UPPCS / IAS / UKPCS / BPSC / MPPCS**
+
+Act granting Rs 1 lakh / Wood statements / Magna Carta of English education / Hunter emphasis / Sadler field–year?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Charter Act 1813**. Wood: grants-in-aid + universities **true**; English at **all** levels **false** (higher only). Magna Carta = **Wood’s Despatch 1854**. Hunter = **primary education** (Ripon, **1882**). Sadler = **education**, appointed **1917**.
+
+</details>
+
+**Logic:** Filtration = Macaulay/education; modern system foundation often keyed to Minute 1835; Bentinck accepted English; Minute date 2 Feb 1835.
+
+**Q3. RAS / IAS / UPPCS / BPSC**
+
+Downward filtration field / propounder / foundation of modern education / English education under whose reign / Minute date?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Education**; **Macaulay**; foundation often keyed to **Macaulay’s Minute 1835**; English under **Bentinck**; Minute **2 February 1835**.
+
+</details>
+
+**Logic:** Universities 1857; women’s university = Karve; DES = Tilak (Ranade patron); college order Hindu 1817 earliest; Fort William = Wellesley train civilians 1800; Sanskrit≠Jones; Fort William≠Arthur Wellesley.
+
+**Q4. RAS / UPPCS / IAS**
+
+First three universities year / first women’s university / Deccan Education Society / earliest college among Hindu–Delhi–Mayo–MAO / Fort William purpose / which pair correct?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Universities **1857**. Women’s university = **D.K. Karve**. DES associated with **Tilak** (Chiplunkar/Agarkar). Earliest = **Hindu College Calcutta 1817**. Fort William = train **British civilians** in Indian languages/admin (**Richard Wellesley, 1800**). Correct pair among IAS triad = **Calcutta Madrasa–Hastings only** (Duncan not Jones; Fort William not Arthur Wellesley).
+
+</details>
+
+**Logic:** NCE 15 Aug 1906; Raleigh Indians = Bilgrami + Gurudas Banerjee; Malaviya = religious education + BHU; foundation stone = Hardinge; Central Hindu College = Annie Besant.
+
+**Q5. BPSC / UKPCS / UPPCS**
+
+National Council of Education date / Curzon University Commission Indians / religious education advocate / BHU foundation stone / Central Hindu College founder?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **15 August 1906**. Indians = **Syed Hussain Bilgrami** and **Justice Gurudas Banerjee**. Advocate = **Madan Mohan Malaviya**. Stone = **Lord Hardinge**. Central Hindu College = **Annie Besant**.
+
+</details>
+
+## Ghatnachakra Extra Drill — Press
+
+Teaching sits in **7.14–7.16**.
+
+**Logic:** First press = Portuguese Goa 1556; first newspaper = Bengal Gazette/Hicky; first censorship = Wellesley 1799; VPA = Lytton, repealed Ripon.
+
+**Q6. Jharkhand / UPPCS / IAS / BPSC**
+
+Who introduced printing press / first newspaper / first press censorship / Vernacular Press Act passer–repealer?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Portuguese, 1556 (Goa)**. **Bengal Gazette (Hicky, 1780)**. Censorship = **Wellesley (1799)**. VPA = **Lytton 1878**, repealed by **Ripon**.
+
+</details>
+
+**Logic:** Liberator = Metcalfe 1835 not Bentinck alone; first jailed journalist = Tilak; Free Hindustan = Tarak Nath Das; Mirat = Rammohan; Indian Mirror = Calcutta.
+
+**Q7. MPPCS / UPPCS / BPSC**
+
+Press freedom year often asked / first Indian jailed as journalist / Free Hindustan / Mirat-ul-Akhbar / Indian Mirror place?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Freedom Act under **Metcalfe, 1835** (Bentinck prepared ground). First jailed journalist tag = **Tilak**. Free Hindustan = **Tarak Nath Das**. Mirat = **Raja Ram Mohan Roy**. Indian Mirror = **Calcutta**.
+
+</details>
+
+**Logic:** Ghadar first language Urdu weekly; Amrita Bazar overnight English 1878; Kesari = Tilak; revolutionary trio Sandhya–Yugantar–Kaal; Young India ≠ revolutionary set; Som Prakash = Vidyasagar.
+
+**Q8. UPPCS / Chhattisgarh / BPSC / IAS**
+
+Ghadar first language–frequency / paper that flipped to English overnight / Tilak’s paper / revolutionary journals / journal NOT revolutionary / Som Prakash starter?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Ghadar = **Urdu**, **weekly** (**1 Nov 1913**). Overnight English = **Amrita Bazar Patrika**. Tilak = **Kesari** (also Mahratta). Revolutionary advocacy = **Sandhya, Yugantar, Kaal**. Not revolutionary = **Young India**. Som Prakash = **Ishwar Chandra Vidyasagar**.
+
+</details>
+
+**Logic:** Indian Opinion first editor Mansukhlal Nazar; not Urdu; Harijan first from Pune 11 Feb 1933; Udant Martand Calcutta; Hindoo Patriot indigo = Harish Chandra Mukherjee; Vande Mataram weekly = Aurobindo stream.
+
+**Q9. UPPCS / Chhattisgarh / Jharkhand**
+
+Indian Opinion first editor / language NOT used / Harijan first city / first Hindi paper place / Hindoo Patriot indigo editor / Vande Mataram English weekly?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** First editor **Mansukhlal Nazar**. Not **Urdu**. Harijan first from **Pune**. Udant Martand = **Calcutta**. Indigo voice = **Harish Chandra Mukherjee**. **Aurobindo Ghosh** (with Pal founding line).
+
+</details>
+
+**Logic:** Match traps — Independent ≠ Ambedkar; Qaumi Awaz ≠ Azad; Tahzeeb ≠ Jinnah; Pioneer ≠ Gandhi; Commonweal = Besant; Al-Hilal = Azad; Bahishkrit = Ambedkar.
+
+**Q10. UPPCS / IAS / UKPCS / BPSC**
+
+Wrong pair among Al-Hilal–Azad / New India–Besant / Tahzeeb–Jinnah / Samvad–Rammohan? Who started Qaumi Awaz / Pioneer / Independent / Bahishkrit Bharat / Commonweal?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Wrong = **Tahzeeb-ul-Akhlaq–Jinnah** (correct = **Sir Syed**). Qaumi Awaz = **Nehru** (with Kidwai). Pioneer = **George Allen**. Independent = **Motilal Nehru**. Bahishkrit Bharat = **Ambedkar**. Commonweal = **Annie Besant**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1732,3 +1930,19 @@ D. 1, 2 and 3
 20. **Downward filtration is Hunter's idea** → it is **Macaulay's** aim from the 1835 Minute.
 21. **National Council of Education (1906) is a government body** → it was a **nationalist** body built to escape government control, unlike the government-run Universities Act (1904).
 22. **Raleigh Commission = education commission on primary schools** → it fed the **1904 Universities Act**, a higher-education control measure, not a primary-schools review.
+
+20. **Calcutta Madrasa = Aligarh / Madras** → **Calcutta**, Hastings.
+21. **Asiatic Society = Duncan / Hastings as president** → founder-president **Jones**; Hastings **declined**.
+22. **English Gita = William Jones** → **Charles Wilkins**; Jones = **Shakuntala**.
+23. **Wood = English at all levels** → English for **higher** studies; vernacular below.
+24. **Hunter = higher education / Curzon** → **primary**, **Ripon 1882**.
+25. **Sadler = judiciary / 1919 founding** → **education**, commission **1917**.
+26. **Fort William = Arthur Wellesley / revive oriental learning only** → **Richard Wellesley**, train **civilians**.
+27. **Deccan Education Society = Ranade as founder** → Tilak–Chiplunkar–Agarkar; Ranade = **patron**.
+28. **Vernacular Press Act = Ripon** → passed by **Lytton**, repealed by **Ripon**.
+29. **Liberator of Press = Bentinck alone** → **Metcalfe, 1835**.
+30. **Ghadar first issue = Hindi / English** → **Urdu**, **1 Nov 1913**.
+31. **Independent = Ambedkar** → **Motilal Nehru**; Ambedkar = **Bahishkrit Bharat / Mook Nayak**.
+32. **Qaumi Awaz = Azad** → **Nehru + Kidwai**; Azad = **Al-Hilal**.
+33. **Tahzeeb-ul-Akhlaq = Jinnah** → **Sir Syed Ahmad Khan**.
+34. **Young India = revolutionary sheet like Yugantar** → Gandhi / Home Rule circle; **not** Sandhya–Yugantar–Kaal set.

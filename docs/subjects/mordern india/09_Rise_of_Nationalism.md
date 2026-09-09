@@ -4,18 +4,18 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Political Organisations before INC | Freedom Leaders | Political Organisations | Indian National Congress | Establishment of INC | Congress Presidents | Congress Sessions | Congress Policies | Moderates | Extremists | Tilak | Dadabhai Naoroji | Poona Sarvajanik Sabha | Indian Association | East India Association | Bombay Presidency Association | Madras Mahajan Sabha
+Political Organisations before INC | Zamindari Association | Bangabhasha Prakashika Sabha | Freedom Leaders | Political Organisations | Indian National Congress | Establishment of INC | Congress Presidents | Congress Sessions | Congress Policies | Moderates | Extremists | Tilak | Dadabhai Naoroji | Poona Sarvajanik Sabha | Indian Association | East India Association | Bombay Presidency Association | Madras Mahajan Sabha
 
 </details>
 
-> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Political Organisations / INC / Moderates–Extremists), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — pre-INC chronology, Tilak never president, Moderates A/R, Naoroji 1901, sessions
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. The **East India Association** was founded in **1866** in **London** by **Dadabhai Naoroji**. It is not the Calcutta Indian Association of 1876.
 2. The pre-INC chronology four run **East India Association (1866) → National Indian Association (1870) → Indian Society (1872) → Indian Association (1876)**.
@@ -45,6 +45,10 @@ Political Organisations before INC | Freedom Leaders | Political Organisations |
 26. Extremists are **not** the same as underground revolutionaries. Tilak is Extremist Congress politics; Kakori is a later revolutionary event.
 27. Pre-Congress politics lived in London, Calcutta, Poona, Madras and Bombay associations. Congress in **1885** gave them one all-India annual forum.
 28. Hold the arc: pre-INC associations → Moderate Congress → Partition/Extremist rise → Surat split → Lucknow reunion → Home Rule → Gandhian mass phase.
+29. Earliest organised political line: **Bangabhasha Prakashika Sabha (~1836)** → **Zamindari / Landholders’ Society (1838, Dwarkanath Tagore)** → **Bengal British India Society (1843, George Thompson)** → **British Indian Association (1851, Radhakant Deb President)**.
+30. **Poona Sarvajanik Sabha** petitioned the **House of Commons in 1875**. **Indian Association** is the strongest pre-Congress all-India-leaning body; Banerjee was dismissed from ICS (**~1874**).
+31. **Lord Dufferin** called Congress a **microscopic minority**. British Committee of INC in London (**1889**, **Wedderburn**) published weekly *India*.
+32. **Valentine Chirol** called Tilak the **Father of Indian Unrest**. Tilak’s **Ganapati / Shivaji** festivals politicised public religion; he wrote *Gita Rahasya* in Mandalay jail.
 
 ---
 
@@ -52,6 +56,7 @@ Political Organisations before INC | Freedom Leaders | Political Organisations |
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
+| Zamindari / Landholders 1838 | Indian Association 1876 | First organised political body (zamindar rights) vs strongest middle-class pre-Congress body | जमींदारी / इंडियन एसोसिएशन |
 | Moderate | Extremist | Petition / faith in British justice vs boycott, Swadeshi, assertive Swaraj | नरम दल / गरम दल |
 | East India Association 1866 | Indian Association 1876 | London, Naoroji vs Calcutta, Banerjee–Bose | ईस्ट इंडिया एसोसिएशन / इंडियन एसोसिएशन |
 | INC 1885 | Indian National Conference | Hume–Bonnerjee Congress vs Banerjee’s 1883/85 all-India meets | कांग्रेस / नेशनल कॉन्फ्रेंस |
@@ -103,6 +108,49 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 ## 9.2 Political Organisations before INC
 
+
+### Bangabhasha Prakashika Sabha (~1836)
+
+- Associates of **Raja Ram Mohan Roy** started this early political discussion body in Bengal (**~1836**).
+- Roy is tagged as the earliest Indian to push for **political** as well as social reform.
+
+### Zamindari Association / Landholders’ Society (1838)
+
+**Year:1838Place:** Calcutta
+**Founders:Dwarkanath Tagore** and fellow landlords
+
+- Often keyed as the **first organised political association** in India using **constitutional agitation**.
+- Aim: safeguard **zamindar** rights — not a middle-class nationalist party yet.
+
+> ** note:** First political organisation key = **Zamindari / Landholders’ Society, 1838** — not Indian Association 1876.
+
+### Bengal British India Society (1843)
+
+**Year:1843Place:** Calcutta
+**Link:George Thompson** (brought from England with Dwarkanath Tagore’s help)
+
+- Thompson’s efforts founded this body; both A and R in the UP R.O. A/R stem are true and R explains A.
+
+### British Indian Association (1851)
+
+**Year:1851Place:** Calcutta
+**President:Radhakant Deb**; Devendranath Tagore and others among founders
+
+- Merger-line of earlier landlord–elite politics; more conservative than the later Indian Association.
+
+### Hindu Mela (1867)
+
+- **Nabagopal Mitra**, inspired by Rajnarayan Bose, founded **Hindu Mela** to promote autonomy and **indigenous goods**.
+
+### Central National Mohammadan Association (1877)
+
+- Founded at Calcutta by **Syed Amir Ali**.
+
+### Bombay Association (1852)
+
+- Early Bombay political body often linked to **Dadabhai Naoroji** (August **1852** in chronology lists).
+
+
 ### East India Association (1866)
 
 **Year:1866Place:LondonFounder:Dadabhai Naoroji**
@@ -142,7 +190,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 **Circle:G.V. Joshi (Sarvajanik Kaka)**, **M.G. Ranade** and Deccan public men
 
 - It claimed to speak for the people of the Deccan before the government (*sarvajanik* = public).
-- It sent memorials on famine, revenue, and local representation.
+- It sent memorials on famine, revenue, and local representation. In **1875** it petitioned the British **House of Commons** for India’s direct representation.
 - Ranade used it as a school of Moderate public work. Tilak later moved in a sharper direction from the same Poona world.
 - It is **not** the Bombay Presidency Association of **1885**.
 
@@ -163,7 +211,9 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 **Year:26 July 1876Place:** Calcutta
 **Founders:Surendranath Banerjee** and **Ananda Mohan Bose**
 
-- This was the strongest pre-Congress political body in Bengal.
+- This was the strongest pre-Congress political body in Bengal (often called the most important pre-Congress nationalist organisation).
+- Banerjee cleared the **ICS** selection in **1869**, but age trouble and a later judicial error led to his dismissal (**~1874**).
+- He edited *The Bengalee* and later steered the **Indian National Conference** into Congress (**1886**).
 - It agitated for **ICS age limits**, simultaneous papers, and against racial bars.
 - It reached beyond zamindars to the educated middle class and students.
 - Banerjee organised the **Indian National Conference** in **1883** and **1885** as all-India meetings. The 1885 Conference at Calcutta ran in the same season as the first INC at Bombay.
@@ -186,7 +236,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 ### Bombay Presidency Association (1885)
 
 **Year:1885Place:** Bombay
-**Founders:Pherozeshah Mehta**, **K.T. Telang**, **Badruddin Tyabji**
+**Founders:Pherozeshah Mehta**, **K.T. Telang**, **Badruddin Tyabji** (the **Trimurti of Bombay**)
 
 - Bombay’s elite political association, founded in the **same year** as Congress.
 - It spoke for civic rights, councils and Indian officers in the presidency.
@@ -239,6 +289,9 @@ D. 1, 2, 3, 4
 - On this view, Hume wanted to **vent** unrest so that it would not explode.
 - Nationalist historians say Indians used Hume. They were not Hume’s puppets.
 - Congress was meant to meet **once a year**, pass resolutions, and go home. It was not yet a mass party with cadres in every district.
+- Viceroy **Lord Dufferin** (tenure of the founding) mocked Congress as a **microscopic minority** / short-sighted minority.
+- The **British Committee of the INC** was set up in London in **1889** under **Sir William Wedderburn**; it published the weekly *India*.
+- At the **Bankipur (Patna) session, 1912** (President **R.N. Mudholkar**), Hume was publicly called the **Father of Congress**.
 
 > ** note:** First session = **Bombay 1885 + W.C. Bonnerjee + Hume**. First President is **not** Hume, **not** Naoroji, **not** Tilak.
 
@@ -276,6 +329,7 @@ Two rival explanations of **why** Congress began. Notes test both sides, not jus
 | **1906** | Calcutta | Naoroji (third); **Swaraj** used as a Congress goal |
 | **1907** | Surat | Split; **Rash Behari Ghosh** vs Extremists |
 | **1911** | Calcutta | Bishan Narayan Dar; **Jana Gana Mana** sung |
+| **1912** | Bankipur (Patna) | **R.N. Mudholkar**; Hume called Father of Congress |
 | **1916** | Lucknow | **A.C. Majumdar**; Moderate–Extremist **reunion**; **Lucknow Pact** with the League |
 | **1917** | Calcutta | **Annie Besant** — first **woman** President |
 | **1919** | Amritsar | Motilal Nehru |
@@ -450,6 +504,8 @@ The government moved against Extremist leaders in the years right after Surat. K
 
 - Tilak taught at Fergusson College and worked with the **Deccan Education Society (1884)** before full-time politics.
 - He turned **Ganapati Utsav (1893)** and **Shivaji festival (1895)** into public political schools.
+- **Valentine Chirol** called him the **Father of Indian Unrest**.
+- He accused Moderates of **prayer, petition and protest** politics. His funeral bier (**1 August 1920**) was lifted by Gandhi, Shaukat Ali and others.
 - He **opposed** the **Age of Consent Act, 1891**.
 - **Behramji Malabari** advocated the Act.
 - Tilak’s Extremist wing did **not** support it. In **2024 Q17**, statement 2 is therefore false.
@@ -816,6 +872,150 @@ D. 4 3 2 1
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Political Organisations before Congress
+
+Teaching sits in **9.2**.
+
+**Logic:** First organised political body = Zamindari/Landholders 1838; chronology Bangabhasha 1836 → Landholders 1838 → Bengal British India 1843 → Indian League 1875.
+
+**Q1. UKPCS / IAS / UP R.O.**
+
+First political organisation 1838 / Bengal British India Society A/R / House of Commons petition 1875?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Zamindari Association / Landholders’ Society (1838, Dwarkanath Tagore)**. Bengal British India Society **1843** = George Thompson (brought by Dwarkanath) — both A and R true, R explains A. Commons petition = **Poona Sarvajanik Sabha**.
+
+</details>
+
+**Logic:** Indian Association = Banerjee + A.M. Bose 1876; strongest pre-Congress; ICS dismissal ~1874; Conference merged 1886.
+
+**Q2. BPSC / UPPCS / IAS**
+
+Indian Association founder / most important pre-Congress body / who dismissed from ICS / what merged into Congress 1886?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Surendranath Banerjee** (with Ananda Mohan Bose). Most important = **Indian Association**. Dismissed ICS = **Banerjee (~1874)**. Merged = **Indian National Conference**.
+
+</details>
+
+**Logic:** Bombay Association 1852 → Indian League 1875 → Indian Association 1876 → Madras Mahajan 1884; Bombay Presidency = Mehta–Telang–Tyabji 1885; East India Assoc = London Naoroji not Calcutta.
+
+**Q3. Jharkhand / UPPCS / BPSC**
+
+Order Bombay Association–Madras Mahajan–Indian Association–Indian League / Bombay Presidency founders / wrong place pairs?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Order **1, 4, 3, 2** (Bombay Assoc → Indian League → Indian Assoc → Madras Mahajan). Bombay Presidency = **Mehta, Telang, Tyabji**. Wrong pairs often = East India Association–Calcutta and Indian Association–Bombay.
+
+</details>
+
+**Logic:** British Indian Association President = Radhakant Deb; Central Mohammadan = Syed Amir Ali; United Indian Patriotic = Syed + Raja Shiv Prasad; Landholders year ≠ 1844.
+
+**Q4. Chhattisgarh / UPPCS**
+
+First President British Indian Association / Mohammadan National Association / United Indian Patriotic Association co-founder / Landholders Society year trap?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Radhakant Deb**. **Syed Amir Ali**. Co-founder with Syed = **Raja Shiv Prasad**. Landholders = **1838**, not 1844.
+
+</details>
+
+## Ghatnachakra Extra Drill — Indian National Congress
+
+Teaching sits in **9.3–9.5**.
+
+**Logic:** INC 1885 Hume + W.C. Banerjee President + 72 delegates + Bombay; Dufferin Viceroy / microscopic minority; first Muslim = Tyabji; first European President = George Yule; Wedderburn British Committee 1889.
+
+**Q5. BPSC / UPPCS / UKPCS / IAS**
+
+INC founder / year–place / first President / delegates / Viceroy / microscopic minority / first Muslim President / first European President / British Committee head?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Founder organiser **A.O. Hume** (ICS). **1885 Bombay**; President **W.C. Banerjee**; **~72** delegates; Viceroy **Dufferin**; phrase **microscopic minority**. First Muslim President **Badruddin Tyabji (1887)**. First European President **George Yule (1888)**. British Committee **Wedderburn (1889)**.
+
+</details>
+
+**Logic:** First woman President = Annie Besant 1917; first Indian woman = Sarojini 1925; Tilak never President; Gandhi only Belgaum 1924; Surendranath absent from first INC session.
+
+**Q6. IAS / UPPCS / BPSC**
+
+First woman INC President / first Indian woman President / who never became President among Lal-Bal-Pal / Gandhi’s only session / who was absent at founding session?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Annie Besant (1917)**. **Sarojini Naidu (1925)**. Never President = **Tilak**. Gandhi = **Belgaum 1924**. Absent at founding = **Surendranath Banerjee** (busy with National Conference).
+
+</details>
+
+**Logic:** Lucknow 1916 = reunion + Pact + Tilak Swaraj birthright; Bankipur 1912; Haripura 1938 Bose + Planning Committee; Azad 1940–46; Kripalani at Independence; Jana Gana Mana first sung 1911 Calcutta; Tilak last session Amritsar 1919; safety valve = Lajpat Rai.
+
+**Q7. UPPCS / BPSC / IAS**
+
+Tilak’s Swaraj birthright session / Bankipur year / Haripura President / Congress President at Independence / Jana Gana Mana first sung / Tilak’s last Congress / safety-valve theorist?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Birthright line = **Lucknow 1916**. Bankipur **1912**. Haripura = **Subhas Chandra Bose**. At Independence = **J.B. Kripalani**. Jana Gana Mana first = **Calcutta 1911**. Tilak’s last = **Amritsar 1919**. Safety valve phrasing often linked to **Lala Lajpat Rai**.
+
+</details>
+
+## Ghatnachakra Extra Drill — Moderates and Extremists
+
+Teaching sits in **9.6–9.8**.
+
+**Logic:** Moderates = constitutional agitation / urban professionals; Extremists after ~1906; Surat split linked to Swadeshi tensions; Gokhale = Moderate not Extremist; Tilak accused prayer-petition-protest.
+
+**Q8. BPSC / IAS / UPPCS**
+
+Moderate method / Congress split linked to which movement / who is NOT Extremist / who accused prayer-petition-protest?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Moderates = **constitutional agitation**. Split context = **Swadeshi Movement** (Surat **1907**). Not Extremist = **Gokhale**. Accusation = **Tilak**.
+
+</details>
+
+**Logic:** Sher-e-Punjab = Lajpat Rai; political guru Mazzini; Father of Indian Unrest = Chirol on Tilak; Tilak Mandalay 6 years 1908; Ganapati festival = Tilak; bier = Gandhi + Shaukat Ali.
+
+**Q9. BPSC / UPPCS / UKPCS**
+
+Sher-e-Punjab / Lajpat Rai’s political guru / Father of Indian Unrest / Tilak jail years 1908 / who started Ganeshotsav / who lifted Tilak’s bier with Gandhi?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Lala Lajpat Rai**. Guru = **Mazzini**. Father of Indian Unrest = **Valentine Chirol** (about Tilak). Jail **6 years** (Mandalay). Ganeshotsav = **Tilak**. Bier = **Shaukat Ali** (with Gandhi / Kitchlew line).
+
+</details>
+
+**Logic:** Extremists wanted complete Swaraj vs Moderates’ colonial self-rule; Muslims less drawn to Extremists’ Hindu cultural idiom; Assertion Tilak communalist is false though he used religion as political weapon.
+
+**Q10. IAS / UPPCS**
+
+Extremist ideology definition / why many Muslims stayed away / Tilak communalist A/R?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Extremists sought **self-government by assertive means** beyond petitions. Many Muslims stayed away because Extremists often **harped on Hindu cultural symbols**. A (Tilak communalist) is **false**; R (used religion as political weapon) is **true**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1953,3 +2153,15 @@ D. 1, 3, 2, 4
 19. **Lajpat Rai's 1907 Mandalay = Tilak's 1908 Mandalay** → different penalties (six-month deportation vs six-year sedition sentence) and different years.
 20. **Lal–Bal–Pal all from one province** → **Lal = Punjab, Bal = Maharashtra, Pal = Bengal** — three separate bases.
 21. **Moderates had no economic programme** → drain, land revenue, military cuts, tariff protection and ICS reform were all on their checklist.
+
+22. **First political organisation = Indian Association 1876** → **Zamindari / Landholders’ Society, 1838**.
+23. **Bombay Presidency Association = Naoroji alone** → **Mehta, Telang, Tyabji (1885)**.
+24. **First session = Calcutta** → **Bombay 1885** (planned Poona, shifted for cholera).
+25. **Dufferin praised Congress warmly** → he mocked it as a **microscopic minority**.
+26. **Father of Indian Unrest = Gokhale / Curzon** → **Tilak** (**Valentine Chirol**).
+27. **Landholders Society = 1844** → **1838**.
+28. **British Indian Association President = Banerjee** → **Radhakant Deb**.
+29. **Curzon’s “peaceful demise” = safety valve theory** → Curzon wanted Congress to die; **safety valve** is the Lajpat Rai / Hume-vent reading.
+30. **Poona Commons petition 1875 = Indian Association** → **Poona Sarvajanik Sabha**.
+31. **Bankipur 1912 President = Rajendra Prasad** → **R.N. Mudholkar**.
+32. **Congress President at Independence = Nehru / Gandhi** → **J.B. Kripalani**.

@@ -8,14 +8,14 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 
 </details>
 
-> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Socio-Religious Movements), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — founder ↔ institution, reformer ↔ work, Malabari / Age of Consent, Phule–Satyashodhak, region-stream traps (SNDP/Singh Sabha/Self-Respect)
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 31 Must-Score Facts
 
 1. **Raja Ram Mohan Roy** founded **Atmiya Sabha (1815)** and **Brahmo Sabha / Brahmo Samaj (1828)**. He campaigned against Sati; **Bentinck** banned Sati in **1829**.
 2. **Ishwar Chandra Vidyasagar** pushed the **Widow Remarriage Act, 1856** and served as Principal of Sanskrit College, Calcutta. Do not swap him with D.K. Karve’s western-India work.
@@ -43,6 +43,12 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 24. Young Bengal / Derozio belongs to the Bengal radical student stream, not to Phule’s Satyashodhak work in Maharashtra.
 25. Region map for unknown bodies: place the name on Bengal / Maharashtra / Punjab / South / Muslim-orientation before guessing the year.
 26. Prarthana Samaj is Bombay liberal religious reform; Satyashodhak is Phule’s anti-caste sabha — same presidency, different social aim.
+27. **Akbar II** gave Roy the title **Raja** and sent him to England (**1830**); Roy died at **Bristol (1833)**.
+28. Dayanand is tagged **Martin Luther of India**; he first popularised **Swaraj**, **Hindi as national language**, and **Swadeshi** goods; **Pakhand Khandini Pataka (1867)** precedes Arya Samaj **1875** (HQ later **Lahore 1877**).
+29. Match extras: **Dev Samaj** (Shiv Narayan Agnihotri, Lahore **1887**); **Dharma Sabha** (Radhakant Deb, **1830**, orthodox); **Lokahitwadi** = **Gopal Hari Deshmukh**; **Servants of India Society** = **Gokhale, 1905**.
+30. Law ladder: Sati ban **1829** → slavery illegal **1843** (Ellenborough) → Widow Remarriage **1856** → Native/Brahmo Marriage Act **1872** (ages 14/18) → Age of Consent **1891** (Malabari; Tilak opposed) → **Sharda Act 1929** (Har Bilas Sharda; girls 14 / boys 18).
+31. **Indian National Social Conference (1887)** = Ranade + Raghunath Rao (social issues kept off Congress platform). **Bahujan Samaj (1910)** = Mukund Rao Patil / Shankar Rao Jadhav.
+
 
 ---
 
@@ -96,7 +102,8 @@ Nineteenth-century reform did **not** happen as one national movement. It grew i
 - He campaigned against **Sati**. **Lord William Bentinck** banned Sati in **1829** (Regulation XVII).
 - He brought out the paper **Sambad Kaumudi** and wrote **Tuhfat-ul-Muwahhidin** (a monotheist tract).
 - He stood for modern education, including English, and for the use of reason in religion.
-- He went to England and died at **Bristol in 1833**.
+- **Mughal emperor Akbar II** gave him the title **Raja** (**1830**) and sent him to England on the pension question; he died at **Bristol in 1833** (samadhi there).
+- He did **not** oppose Western education — he backed English and scientific learning. **Samachar Chandrika** (Bhavani Charan) was started against his reform line.
 - He did **not** found Arya Samaj or Satyashodhak Samaj.
 
 > ** note:** Roy + Sati **1829** + Brahmo **1828**. Satyashodhak is **Phule**, not Roy.
@@ -187,6 +194,8 @@ D. Raja Ram Mohan Roy
 - **Bal Gangadhar Tilak** and the extremist wing **opposed** the Act. They said the British should not interfere in Hindu marriage.
 - So in **2024 Q17**, statement 1 is true and statement 2 is false. Answer = **Only 1**.
 
+- Later, the **Sharda Act (1929)** raised the statutory marriage ages again (girls **14**, boys **18**).
+
 > ** note:** Malabari supported the 1891 Act. Tilak did **not**.
 
 **PYQ — UPPCS Prelims 2024, Q17**
@@ -238,7 +247,7 @@ Five distinct streams. UPPCS mixes founders and orientations as traps — learn 
 
 | Stream | Founder / leading name | Year / place | Orientation |
 |--------|------------------------|--------------|-------------|
-| **Wahabi / Tariqah-i-Muhammadiya** | **Sayyid Ahmad of Rae Bareli** | From the 1820s, north India | Militant scriptural revival; later turned anti-Sikh and anti-British |
+| **Wahabi / Tariqah-i-Muhammadiya** | **Sayyid Ahmad of Rae Bareli** (inspired in India by **Shah Waliullah’s** reform line; Arabia’s Abdul Wahab is the name-tag) | From the 1820s; briefly held **Peshawar (~1830)**; died **Balakot 1831**; later Indian centre **Patna** | Militant scriptural revival; later turned anti-Sikh and anti-British |
 | **Faraizi** | **Haji Shariatullah**, later **Dudu Miyan** | From the 1820s, **Bengal** | Peasant Islamic puritanism; anti-landlord, anti-zamindar edge |
 | **Ahl-i-Hadith** | No single founder (loose scholarly stream) | 19th century, north India | Scripturalist; rejected later juristic and Sufi accretions |
 | **Ahmadiyya** | **Mirza Ghulam Ahmad** | **1889, Qadian (Punjab)** | Peaceful, messianic and missionary; treated as heretical by orthodox Muslims |
@@ -246,6 +255,8 @@ Five distinct streams. UPPCS mixes founders and orientations as traps — learn 
 | **Deoband (Dar-ul-Ulum)** | **Muhammad Qasim Nanautawi**, **Rashid Ahmad Gangohi** | **1866, Deoband (UP)** | Traditional seminary revival of Hadith and fiqh; later turned more anti-colonial |
 
 - **Wahabi** and **Faraizi** were the earliest streams, rooted in the pre-1857 agrarian and religious unrest of Bengal and the north.
+- After Balakot, Wahabi organisation ran through **Patna** with branches toward Hyderabad, Madras, Bengal, UP and Bombay.
+- **Faraizi** under **Dudu Miyan** pushed an anti-English, anti-zamindar edge in eastern Bengal; later many followers merged toward the Wahabi stream (**~1818–1862** arc).
 - **Ahmadiyya** is the odd one out: it is peaceful and missionary, not revivalist-militant, and mainstream Muslim orthodoxy does **not** accept it as within the fold.
 - **Aligarh** and **Deoband** are the two big post-1857 north-Indian answers, and they are opposites in method though both reacted to the same crisis of Muslim decline after 1857.
 - Ahmadiyya is **not** the Aligarh college line, and Wahabi is **not** the Deoband seminary line — each has its own founder and orientation.
@@ -313,6 +324,24 @@ D. Deva Samaj — Banaras
 
 ---
 
+
+**Other match-list bodies (civil / social)**
+
+| Body | Founder / tag | Year / place |
+|------|---------------|--------------|
+| **Dev Samaj** | **Shiv Narayan Agnihotri** | **1887, Lahore**; book *Devshastra* |
+| **Dharma Sabha** | **Radhakant Deb** | **1830, Bengal** — orthodox defence vs Brahmo reforms |
+| **Radhasoami Satsang** | **Shivdayal Sahab / Tulsiram** | **1861, Agra** |
+| **Widow Remarriage Association (Maharashtra)** | **Vishnu Parashuram Pandit** | **1850** campaign line |
+| **Indian National Social Conference** | **M.G. Ranade** and **Raghunath Rao** | **1887** — social agenda beside Congress |
+| **Servants of India Society** | **Gopal Krishna Gokhale** | **1905, Poona** |
+| **Bahujan Samaj** | **Mukund Rao Patil** / Shankar Rao Jadhav | **1910** — Phule-inspired lower-caste organisation |
+| **Poona Sarvajanik Sabha** | Joshi / Chiplunkar stream; **Ranade** joined early | **1870** political association |
+
+- **Sharda Act (Child Marriage Restraint Act, 1929)** fixed marriage ages at **14 (girls)** and **18 (boys)**; named after **Har Bilas Sharda**.
+- **Slavery** was made illegal by **Act V of 1843** under **Ellenborough**.
+- **Nadars** temple-entry demand sparked **Tirunelveli riots (1899)**. Tilak’s famous line: if God tolerates untouchability, he would not recognise such a God.
+
 ## 6.9 Bengal Reform Movements
 
 - Bengal was the first big centre of the nineteenth-century reform debate (Calcutta elites, print, and English education).
@@ -365,11 +394,13 @@ Code for List-I A–D against List-II 2, 1, 4, 3 = **option B**.
 | Person | Title / tag |
 |--------|-------------|
 | Raja Ram Mohan Roy | Father of the Indian Renaissance |
-| Dayanand Saraswati | Often called the Luther of Hinduism; “Back to the Vedas” |
+| Dayanand Saraswati | **Martin Luther of India**; Back to the Vedas; Swaraj / Hindi / Swadeshi tags |
 | Jyotiba Phule | Mahatma (honorific); anti-caste |
 | Vivekananda | Chicago 1893; “sisters and brothers of America” |
 | Annie Besant | Theosophy; later Home Rule (that politics is a later topic) |
 | M.G. Ranade | Prarthana Samaj; “father of Indian economics” is a separate tag |
+| Gopal Hari Deshmukh | **Lokahitwadi** |
+| Gopal Krishna Gokhale | **Servants of India Society (1905)** |
 | E.V. Ramaswami Naicker (Periyar) | Self-Respect Movement; left Congress in **1925** (full card at §6.26) |
 
 **PYQ — UPPCS Prelims 2022, Q90**
@@ -410,7 +441,8 @@ D. A-1, B-2, C-3, D-4
 - It opposed **idol worship**.
 - It attacked Sati, caste rigidity and meaningless ritual.
 - After Roy, **Debendranath Tagore** led the **Adi Brahmo Samaj**.
-- **Keshab Chandra Sen** formed the **Brahmo Samaj of India**.
+- **Keshab Chandra Sen** formed the **Brahmo Samaj of India** (**Bhartiya Brahmo Samaj**). Debendranath’s wing is **Adi Brahmo Samaj** — do not swap. Keshab also linked to **Tabernacle of New Dispensation** and **Indian Reform Association**; **Calcutta Unitarian Committee** is Roy’s line, not Keshab’s alone.
+- Debendranath founded **Tattvabodhini Sabha (1839)** to spread Roy’s ideas and later appointed Keshab as Acharya.
 - A further split produced the **Sadharan Brahmo Samaj**.
 - The **Native Marriage Act 1872** is linked to Brahmo / civil marriage needs.
 - Brahmo Samaj is **not** “Back to the Vedas.” That slogan is **Arya Samaj**.
@@ -426,7 +458,8 @@ D. A-1, B-2, C-3, D-4
 - The slogan was **“Back to the Vedas.”**
 - It rejected later Puranic accretions, idolatry and child marriage.
 - It used **shuddhi** (reconversion) and built **D.A.V.** schools.
-- Dayanand’s book **Satyarth Prakash** is the doctrinal text.
+- Dayanand’s book **Satyarth Prakash** is the doctrinal text. Birth name **Mulshankar**; **Pakhand Khandini Pataka** was raised in **1867**. HQ shifted to **Lahore (1877)**. Later split: **Gurukul** line (Shraddhanand) vs **D.A.V.** line (Hansraj / Lala Lajpat Rai).
+- He is often called the **Martin Luther of India**. He is also tagged as first to popularise **Swaraj**, **Hindi as national language**, and boycott of foreign goods.
 - Arya Samaj is **not** Brahmo Samaj and **not** Theosophical Society.
 
 > ** note:** Year **1875** is shared with MAO College. Do not mix the two founders.
@@ -435,8 +468,8 @@ D. A-1, B-2, C-3, D-4
 
 ## 6.13 Prarthana Samaj
 
-- Founded in **Bombay in 1867**.
-- **Atmaram Pandurang** is the usual founder name.
+- Founded in **Bombay in 1867** under the inspiration of **Keshab Chandra Sen**.
+- **Atmaram Pandurang** is the usual founder name. **Ranade** joined about **1869** and is tagged as the cultural-renaissance driver of western India.
 - **M.G. Ranade**, **R.G. Bhandarkar** and **N.G. Chandavarkar** were leading members.
 - It was a western-Indian cousin of Brahmo ideas. It stressed prayer, social reform, and caste and women’s questions.
 - It is **not** Satyashodhak Samaj. Ranade is a trap option for Phule’s sabha.
@@ -467,6 +500,10 @@ D. A-1, B-2, C-3, D-4
 - The Mission combines **Vedanta** with **social service** (schools, relief, hospitals).
 - Headquarters of the Math is at **Belur**.
 - Vivekananda’s Chicago speech is in his own section. Do not date the Mission as 1893.
+
+- He preached **Practical Vedanta** and wrote *Raja Yoga*, *Karma Yoga*, *Jnana Yoga*.
+- **Subhas Chandra Bose** called him the spiritual father of the modern nationalist movement in Bengal.
+- **Sharadamani (Sharada Devi)** was Ramakrishna’s wife. **Sister Nivedita** (Margaret Noble) was Vivekananda’s Western disciple.
 
 > ** note:** Mission = **1897**. Chicago Parliament = **1893**.
 
@@ -877,6 +914,116 @@ D. Paramhans Mandali
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Socio-Religious Movements
+
+Teaching sits in **6.1–6.26**.
+
+**Logic:** Audience of 19th-c. reform = intellectuals / urban upper castes / liberal princes — not the poor mass alone; modernisation A/R = both true and R explains A.
+
+**Q1. BPSC / RAS**
+
+Who was primarily attracted by 19th-c. religious reform / first class influenced by Western civilisation / modernisation A/R?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Intellectuals, urban upper castes and liberal princes (**i, ii, iv**). First strongly influenced class = **educated Hindu middle class**. Modernisation assertion and reason are **both true**, and R explains A.
+
+</details>
+
+**Logic:** Roy titles; first society = Atmiya Sabha 1815; Brahmo 1828; Raja title = Akbar II; death/samadhi = Bristol; backed Western education.
+
+**Q2. UPPCS / UKPCS / BPSC / RAS / MPPCS**
+
+Father of Indian Renaissance / first society / Brahmo year / who gave Raja title / samadhi place / what Roy did NOT protest?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Raja Ram Mohan Roy**. First society = **Atmiya Sabha (1815)**. Brahmo **1828**. Title = **Akbar II**. Samadhi = **Bristol**. He did **not** protest Western education (he promoted it).
+
+</details>
+
+**Logic:** Keshab = Bhartiya Brahmo / Tabernacle + Indian Reform Association; Adi = Debendranath; Tattvabodhini = Debendranath 1839; Unitarian Committee ≠ Keshab alone.
+
+**Q3. IAS / UPPCS / UKPCS / MPPCS**
+
+Keshab linked to which bodies / Adi Brahmo founder / Tattvabodhini founder / Brahmo principle?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Keshab = **Tabernacle of New Dispensation** and **Indian Reform Association** (not Calcutta Unitarian Committee alone). Adi Brahmo = **Debendranath Tagore**. Tattvabodhini = **Debendranath (1839)**. Principle = **monotheism**.
+
+</details>
+
+**Logic:** Vivekananda = Neo-Hinduism / Chicago 1893 / Mission 1897 Belur / Practical Vedanta; Dayanand = Arya 1875 / Satyarth Prakash / Martin Luther / Go Back to Vedas / Swaraj–Hindi–Swadeshi.
+
+**Q4. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+
+Neo-Hinduism / Chicago year / Mission year / Practical Vedanta / Satyarth Prakash / Martin Luther of India / first Swaraj–Hindi tag?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Neo-Hinduism = **Vivekananda**. Chicago **1893**. Mission **1897** (Belur). Practical Vedanta = **Vivekananda**. *Satyarth Prakash* = **Dayanand**. Martin Luther of India = **Dayanand**. Swaraj / Hindi national language = **Dayanand**.
+
+</details>
+
+**Logic:** Prarthana = Atmaram Pandurang / Maharashtra; Dev Samaj = Agnihotri; Satyashodhak = Phule + Gulamgiri; Dharma Sabha = Radhakant Deb; Radhasoami = Shivdayal / Agra; Lokahitwadi = Deshmukh.
+
+**Q5. UPPCS / BPSC / UKPCS / MPPCS**
+
+Prarthana founder–region / Dev Samaj / Satyashodhak–Gulamgiri / orthodox Bengal body / Radhasoami founder / Lokahitwadi?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Prarthana = **Atmaram Pandurang**, **Maharashtra/Bombay**. Dev Samaj = **Shiv Narayan Agnihotri**. Satyashodhak / *Gulamgiri* = **Jyotiba Phule**. Orthodox = **Dharma Sabha (Radhakant Deb)**. Radhasoami = **Shivdayal Sahab (Agra)**. Lokahitwadi = **Gopal Hari Deshmukh**.
+
+</details>
+
+**Logic:** Widow remarriage Maharashtra = Vishnu Parashuram Pandit; Age of Consent = Malabari 1891 (Tilak opposed); Social Conference = Ranade 1887; Widow Act 1856 = Vidyasagar; Native Marriage 1872 = Keshab; Sharda 1929 = 14/18; slavery 1843.
+
+**Q6. UPPCS / IAS / Jharkhand / MPPCS**
+
+Widow remarriage Maharashtra leader / Age of Consent advocate–year / Social Conference / Widow Act leader / Native Marriage Act / Sharda ages / slavery Act year?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Vishnu Parashuram Pandit**. **Malabari, 1891** (Tilak opposed). Conference = **Ranade (+ Raghunath Rao), 1887**. Widow Act = **Vidyasagar, 1856**. Native Marriage = **Keshab, 1872** (girls 14 / boys 18). Sharda = **14 and 18**. Slavery illegal **1843**.
+
+</details>
+
+**Logic:** Theosophy = Blavatsky/Olcott New York 1875 → Adyar; Besant success in India; Servants of India = Gokhale 1905; Bahujan Samaj = Mukund Rao Patil; Nadars Tirunelveli; Tilak untouchability quote.
+
+**Q7. BPSC / UPPCS / IAS**
+
+Theosophical Society founders / Indian success mainly due to / Servants of India / Bahujan Samaj / Tirunelveli temple-entry / who said he would not recognise a God who tolerates untouchability?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Blavatsky and Olcott** (New York **1875**; HQ **Adyar**). Success mainly **Annie Besant**. Servants of India = **Gokhale (1905)**. Bahujan Samaj = **Mukund Rao Patil**. Temple-entry riots = **Nadars**. Quote = **Bal Gangadhar Tilak**.
+
+</details>
+
+**Logic:** Wrong pairs — Atmiya ≠ Debendranath; RK Mission ≠ Ramakrishna as founder; Ranade ≠ Theosophy; Bahishkrit Hitkarini ≠ Phule; Radhasoami ≠ Lahore.
+
+**Q8. UPPCS / RAS**
+
+Which pair is wrong: Prarthana–Atmaram / Atmiya–Debendranath / Bhartiya Brahmo–Keshab / Radhasoami–Tulsiram? RK Mission founder? Servants of India match?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Wrong = **Atmiya Sabha–Debendranath** (Atmiya = **Roy**). RK Mission founder = **Vivekananda (1897)**. Servants of India correctly matches **Gokhale**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1974,3 +2121,17 @@ D. 1, 2 and 3
 21. **Annie Besant founded the Theosophical Society** → founders are **Blavatsky and Olcott, 1875**; Besant became President only in **1907**.
 22. **Wahabi and Ahmadiyya are the same stream** → Wahabi (Rae Bareli) turned militant; Ahmadiyya (Qadian, 1889) stayed peaceful and missionary.
 23. **D.K. Karve only ran the Widow Remarriage Association** → he also founded the **Indian Women’s University in 1916**, renamed **SNDT** in 1920.
+
+24. **Raja title = Bentinck / Brahmo followers** → **Akbar II**.
+25. **Roy opposed Western education** → he **advocated** it; he opposed Sati, child marriage, idolatry.
+26. **Adi Brahmo = Keshab** → Adi = **Debendranath**; Bhartiya/Neo = **Keshab**.
+27. **Atmiya Sabha = Debendranath** → **Roy, 1815**; Tattvabodhini = Debendranath **1839**.
+28. **Martin Luther of India = Roy / Vivekananda** → **Dayanand**.
+29. **Lokahitwadi = Ranade / Tilak** → **Gopal Hari Deshmukh**.
+30. **Dev Samaj = Agra / Roy** → **Shiv Narayan Agnihotri, Lahore 1887**.
+31. **Dharma Sabha = reformist Brahmo** → **Radhakant Deb**, orthodox (**1830**).
+32. **Servants of India = Ranade / Malaviya** → **Gokhale, 1905**.
+33. **Sharda Act = 1891 / Malabari** → **1929**, Har Bilas Sharda; 1891 = Age of Consent.
+34. **Age of Consent = Tilak supported** → **Malabari** advocated; **Tilak opposed**.
+35. **Bahujan Samaj = Ambedkar 1910** → **Mukund Rao Patil** stream; Ambedkar is later/different bodies.
+36. **Ramakrishna Mission founded by Ramakrishna** → founded by **Vivekananda, 1897**.

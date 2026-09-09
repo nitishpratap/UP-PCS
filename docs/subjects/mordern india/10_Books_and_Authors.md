@@ -8,9 +8,9 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 
 </details>
 
-> **Sources baked in:** Spectrum, Bipan Chandra, standard Modern India lists, UPPCS Prelims 2018–2025
+> **Sources baked in:** Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Books & Authors), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — book↔author matching, year traps, freedom-movement classics, Bhojpuri
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A for the syllabus eight (skip Sen/Booker/Kalidasa CA)
 
 ---
@@ -137,6 +137,39 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **Bidesiya** | Bhikhari Thakur | Migrant folk-drama |
 | **Achhut Kee Shikayat** | Heera Dom | 1914 |
 | **Godaan / Gaban / Sevasadan / Kafan** | Premchand | Hindi social realism |
+| **Amar Sonar Bangla** | Rabindranath Tagore | 1905 Swadeshi; Bangladesh anthem (first 10 lines, **1972**) |
+| **The Indian Sociologist** | Shyamji Krishna Varma | London journal |
+| **Annals and Antiquities of Rajasthan** | Col. James Tod | Feudalism in Rajasthan |
+| **Bandi Jivan** | Sachindranath Sanyal | Revolutionary textbook |
+| **Bahuvivah / Balya Vivaher Dosh** | Ishwar Chandra Vidyasagar | Social-reform tracts |
+| **Chetavani Ra Chungatiya** | Kesari Singh Barhath | Rajasthan patriot verses (**1903**) |
+| **Bharat Bharati** | Maithili Sharan Gupta | Rashtrakavi |
+| **Ae Mere Watan Ke Logo** (song) | Pradeep (R.C.N. Dwivedi) | 1962 China-war tribute |
+| **Saare Jahan Se Achcha** | Muhammad Iqbal | Later League politics |
+| **Gokhale: My Political Guru** | M.K. Gandhi | First edn Ahmedabad **1955** |
+| **The Life Divine / New Lamps for Old** | Aurobindo Ghosh | Philosophy / early criticism |
+| **Das Kapital** | Karl Marx | Engels edited vols 2–3 |
+| **The Springing Tiger** | Hugh Toye | Bose biography |
+| **Indian Unrest** | Valentine Chirol | Branded Tilak “Father of Unrest” |
+| **The Philosophy of the Bomb** | Bhagwati Charan Vohra | HSRA tract |
+| **Dreamland / Introduction to Dreamland** | Lala Ramsaran Das / Bhagat Singh stream | Jail literature |
+| **Guilty Men of India’s Partition** | Ram Manohar Lohia | Partition critique |
+| **The Man Who Divided India** | Rafiq Zakaria | Partition biography |
+| **India from Curzon to Nehru and After** | Durga Das | Political chronicle |
+| **Jawaharlal Nehru: A Biography** | Frank Moraes | Nehru biography |
+| **The Story of the Integration of the Indian States** | V.P. Menon | Princely integration |
+| **Ignited Minds / Wings of Fire** | A.P.J. Abdul Kalam | Missile Man titles |
+| **Journey through the Kingdom of Oude…** | W.H. Sleeman | 1849–50 report |
+| **Landmarks in Indian Constitutional and National Development** | Gurmukh Nihal Singh | Later Governor of Rajasthan (**1956–62**) |
+| **Congress Presidential Addresses** (ed.) | G.A. Natesan | 1885–1934 compilation |
+| **Desher Katha** | Sakharam Ganesh Deuskar | Swadeshi-era tract |
+| **The Baiga** | Verrier Elwin | Tribal ethnography |
+| **Silent Spring** | Rachel Carson | Pesticides critique |
+| **Planned Economy for India** | M. Visvesvaraya | **1934** ten-year plan ideas |
+| **Vital-Vidhvansak** | Gopal Baba Walangkar | First monthly for untouchable readers (**1888**) |
+| **Vanguard** | M.N. Roy | Emigre communist journal |
+| **Bapu: My Mother** | Manubehn Gandhi | Memoir |
+| **New India / The Commonweal** | Annie Besant | Papers from **1914**; Central Hindu College **1898** |
 
 > ** note:** Drill the **2020 four** and **Poverty 1901** first. Then twins. Then Bhojpuri four. Then the Savarkar/Mayo/GG additions.
 
@@ -152,7 +185,7 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 - His earlier novels include ***Durgeshnandini*** (1865), the first major Bengali novel.
 - ***Kapalkundala*** followed in **1866**.
 - ***Devi Chaudhurani*** came later, in **1884**.
-- *Anandamath* is set against the **Sanyasi–Fakir** rising and the Bengal famine background.
+- *Anandamath* is set against the **Sanyasi–Fakir** rising (**1763–1800** memory) and the Bengal famine background. Coaching keys often call it the **“Bible of Bengali patriotism.”**
 - Sannyasi rebels fight a tyrannical order.
 - The Mother-as-nation image is sung as **Vande Mataram**.
 - The song was sung in the **Swadeshi** years and adopted as national song. It is **not** the national anthem (*Jana Gana Mana* is Tagore).
@@ -160,6 +193,18 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 - **Neel Darpan** is **not** his. That indigo play is **Dinabandhu Mitra (1860)**.
 
 > ** note:** *Anandamath* = **Bankim 1882 + Vande Mataram**. *Neel Darpan* = **Dinabandhu Mitra**.
+
+---
+
+
+## 10.2a Tagore titles that Prelims confuse
+
+- ***Gitanjali***: Bengali **1910**; English *Song Offerings* **November 1912**; Nobel Literature **1913**.
+- ***Amar Sonar Bangla*** (1905, Partition/Swadeshi protest) became Bangladesh’s national anthem (first ten lines, **1972**). Tagore also wrote ***Jana Gana Mana*** — the rare poet of **two** national anthems.
+- Madanapalle (Andhra) memory: Tagore rendered the anthem into English there (**1919**).
+- Gandhi called Tagore the **Great Sentinel**.
+
+> **Logic:** *Amar Sonar Bangla* ≠ *Jana Gana Mana*. Both Tagore; different national uses.
 
 ---
 
@@ -204,6 +249,8 @@ D. 1903 A.D.
 **Author:M.K. GandhiYear:1909Language (original):** Gujarati; written on the ship from London to South Africa
 
 - Form: a **dialogue** between Editor and Reader on what true Swaraj is.
+- Original **Gujarati (1909)**; British banned it, so an **English** version followed to beat censorship. Gandhi’s sharp line on the British Parliament as **sterile / “prostitute”** sits in this tract.
+- Separate Gandhi title: ***Gokhale: My Political Guru*** (first edition **Ahmedabad, February 1955**).
 - Gandhi attacks modern industrial civilisation.
 - He attacks railways-as-greed, and lawyers and doctors as props of colonial society.
 - He wants **self-rule of the self**, not a brown copy of English rule.
@@ -319,6 +366,13 @@ D. 1903 A.D.
 | **Satyarth Prakash** | Dayanand Saraswati | Arya Samaj doctrine |
 | **Tuhfat-ul-Muwahhidin** | Rammohan Roy | Gift to Monotheists |
 | **Causes of the Indian Mutiny** | Sir Syed Ahmad Khan | 1857 causes |
+| **Bandi Jivan** | Sachindranath Sanyal | Revolutionary primer |
+| **The Indian Sociologist** | Shyamji Krishna Varma | London |
+| **The Springing Tiger** | Hugh Toye | Bose biography |
+| **Indian Unrest** | Valentine Chirol | Anti-Tilak imperial tract |
+| **Guilty Men of India’s Partition** | Ram Manohar Lohia | |
+| **The Man Who Divided India** | Rafiq Zakaria | |
+| **Desher Katha** | Sakharam Ganesh Deuskar | Swadeshi mind-conquest warning |
 
 - **2020 Q26** four: Deportation–**Lajpat Rai**; Gita–**Tilak**; Nation in Making–**Banerjee**; India Wins Freedom–**Azad**.
 
@@ -617,6 +671,36 @@ D. S. N. Roy
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Magazines, Books and Authors
+
+Teaching sits in **10.1–10.2a, 10.4–10.5, 10.10**.
+
+**Logic:** Besant *New India/Commonweal*; Tod feudalism; Indian Sociologist = Shyamji; Amar Sonar Bangla / two anthems; Gitanjali years; Hind Swaraj Gujarati 1909 + Parliament line; Bandi Jivan = Sanyal; Anandamath = Bible of Bengali patriotism; Vidyasagar Bahuvivah; Chirol Indian Unrest; Toye Springing Tiger; Walangkar Vital-Vidhvansak; Deuskar Desher Katha; Menon Integration; Discovery = Ahmednagar.
+
+**Q1. UPPCS / IAS / BPSC**
+
+*New India* editor / Tod’s Rajasthan book / *Indian Sociologist* / Bangladesh anthem song author / *Hind Swaraj* original language–year / *Bandi Jivan* / *Bahuvivah* / *Indian Unrest* / *Springing Tiger* subject / *Vital-Vidhvansak* author?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Annie Besant**. **Annals and Antiquities of Rajasthan** (Tod). **Shyamji Krishna Varma**. **Tagore** (*Amar Sonar Bangla*). **Gujarati, 1909**. **Sachindranath Sanyal**. **Vidyasagar**. **Valentine Chirol**. Biography of **Subhas Bose** (Hugh Toye). **Gopal Baba Walangkar**.
+
+</details>
+
+**Q2. Match traps**
+
+*Unhappy India* / *Mother India* / *Guilty Men of Partition* / *Man Who Divided India* / *India from Curzon to Nehru* / Nehru biography by Frank Moraes?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Unhappy = **Lajpat Rai**; Mother = **Mayo**; Guilty Men = **Lohia**; Man Who Divided = **Rafiq Zakaria**; Curzon to Nehru = **Durga Das**; Moraes = **Nehru biography**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1737,3 +1821,11 @@ D. The Viceroy's Journal — Mountbatten
 24. **My Indian Years = Curzon** → **Lord Hardinge**; Curzon's tag is *Problems of the Far East*.
 25. **The Viceroy's Journal = Mountbatten** → **Lord Wavell**'s posthumous diary.
 26. **Warren Hastings translated the Gita** → he **patronised** Charles Wilkins's 1785 translation and wrote its preface.
+27. **Amar Sonar Bangla = India’s anthem** → Bangladesh’s anthem (Tagore); India = **Jana Gana Mana**.
+28. **Hind Swaraj = English original 1909** → written in **Gujarati**; English to evade ban.
+29. **Bandi Jivan = Bhagat Singh / Bose** → **Sachindranath Sanyal**.
+30. **Indian Sociologist = Bhagat Singh** → **Shyamji Krishna Varma** (London).
+31. **Indian Unrest = Lajpat Rai** → **Valentine Chirol**; Unhappy India = Lajpat Rai.
+32. **Springing Tiger = Bhagat Singh biography** → **Subhas Bose** (Hugh Toye).
+33. **Discovery of India = Yeravda / Alipore** → **Ahmednagar Fort** jail.
+34. **Gitanjali English = 1910 / Nobel year book** → Bengali **1910**; English **1912**; Nobel **1913**.

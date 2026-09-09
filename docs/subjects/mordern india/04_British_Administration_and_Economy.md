@@ -8,7 +8,7 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 
 </details>
 
-> **Sources baked in:** NCERT Themes III, Bipan Chandra, Naoroji, R.C. Dutt, Spectrum, Ghatnachakra economy bank, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Themes III, Bipan Chandra, Naoroji, R.C. Dutt, Spectrum, Ghatnachakra economy bank (Economic Impact of British Rule), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — land-revenue matching, Drain book year, Cornwallis/Munro/Mackenzie, judiciary/police ladder, ICS dates, railway guarantee, famine years, infrastructure dates
 > **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
@@ -463,7 +463,7 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 - Cheap **Manchester** cloth undercut Indian weavers. High tariffs in Britain blocked Indian finished goods. India exported **raw cotton** and imported finished cloth — the reverse of the older pattern.
 - After conquest, courts and nobles no longer bought on the old scale, so artisans lost patrons.
 - Many weavers were pushed into agriculture. That overcrowded the countryside. Bentinck's remark on weavers' bones is the usual quote.
-- **Karl Marx** also criticised British economic policy in India as destructive of old industry and village structures.
+- **Karl Marx** also criticised British economic policy in India as destructive of old industry and village structures; coaching notes sometimes key the line that British economic policy in India was **“disgusting.”**
 - Modern factories came **late** and stayed thin. The nineteenth-century story is craft **decline**, not "Britain industrialised India."
 
 > **Logic:** Deindustrialization ≠ Drain of Wealth. Start marker often asked = **1813**.
@@ -546,9 +546,11 @@ Three famines anchor this card. Each has a different colonial cause and a differ
 | Famine | Years | Context | Governor-General / Viceroy | Rough toll |
 |--------|-------|---------|------------------------------|------------|
 | Bengal Famine | **1770** | **Dual Government** mismanagement; revenue kept flowing through the disaster | Warren Hastings took charge only afterward (1772) | About a third of Bengal's population by traditional estimate |
+| Odisha (Orissa) Famine | **1866–67** | Isolation + crop failure; remembered as **“Sea of Calamity”** | Mid-Victorian Company/Crown India | About **13 lakh** in Odisha alone; **George Campbell** inquiry followed |
 | Great Famine | **1876–78** | Drought across Madras, Bombay, Mysore, the Deccan; grain kept moving toward export while relief was deliberately kept meagre | **Lord Lytton** | Estimates from **5.5 to 10 million** |
 | Bengal Famine | **1943** | Wartime cyclone, hoarding, denial of rice and boats against a feared Japanese advance, and administrative delay in importing grain | **Lord Linlithgow** | About **3 million** |
 
+- The **Odisha famine of 1866–67**, remembered as a **“Sea of Calamity,”** killed about **thirteen lakh** people in Odisha and pushed a formal inquiry under **George Campbell**.
 - **1876–78** is the standard "policy" famine. **Lord Lytton** enforced strict **laissez-faire**: no restriction on grain export or hoarding, and relief wages set low (the "**Temple wage**") on Malthusian, self-reliance grounds.
 - Outcry over 1876–78 led to the **Famine Commission of 1880** under **Sir Richard Strachey**. Its report became the base of the first **Famine Codes (1883)** — early-warning signs, classified degrees of scarcity, relief-work and gratuitous-relief rules, and a small annual Famine Insurance Grant.
 - The **Second Famine Commission (1898, Sir James Lyall)** and the **Third Famine Commission (1901, Sir Antony MacDonnell)** refined the Codes after the 1896–97 and 1899–1900 famines.
@@ -556,7 +558,7 @@ Three famines anchor this card. Each has a different colonial cause and a differ
 - The Famine Codes still **banned government interference with grain prices, trade or exports** — a laissez-faire limit that nationalist critics said made "scarcity of purchasing power" look like mere food shortage.
 - In **1943** the Famine Codes were largely **ignored** for wartime reasons. The **Woodhead Commission (Famine Inquiry Commission, 1944–45)** investigated but is criticised for downplaying British administrative fault and stressing natural causes instead.
 
-> ** note:** 1770 = Dual Government collapse. 1876–78 = Lytton's laissez-faire, followed by Strachey's Famine Codes. 1943 = wartime failure with the Codes ignored, followed by the Woodhead Commission.
+> **Note:** 1770 = Dual Government collapse. **1866–67 Odisha** = Sea of Calamity + Campbell inquiry. 1876–78 = Lytton's laissez-faire, followed by Strachey's Famine Codes. 1943 = wartime failure with the Codes ignored, followed by the Woodhead Commission.
 
 ---
 
@@ -564,7 +566,7 @@ Three famines anchor this card. Each has a different colonial cause and a differ
 
 This section only joins the results. The mechanisms are already taught above.
 
-- Agriculture produced different peasant classes under different revenue systems. Cash crops and plantations rose. Famine risk rose. Major famine markers are **1770 Bengal**, **1876–78**, and **1943 Bengal**.
+- Agriculture produced different peasant classes under different revenue systems. Cash crops and plantations rose. Famine risk rose. Major famine markers are **1770 Bengal**, **1866–67 Odisha**, **1876–78**, and **1943 Bengal**.
 - Industry saw handicrafts decline. Modern mills came late and stayed thin, and much of what did grow sat under **managing-agency** control.
 - Finance sent Indian surplus to Britain through the Drain and Home Charges, with the railway **guarantee** as a major later channel.
 - Rail, telegraph and post served control and trade first. Nationalists used them later.
@@ -816,6 +818,174 @@ D. Bipin Chandra
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Economic Impact of British Rule
+
+Teaching for these stems sits in **4.6–4.14** and **4.20**.
+
+**Logic:** Home Charges = India Office, pensions, debt, stores in England — not overseas wars.
+
+**Q1. IAS (Pre) 2011**
+
+Home Charges included: (1) India Office in London (2) salaries/pensions of British personnel in India (3) funds for wars outside India
+
+A. 1 only
+
+B. 1 and 2
+
+C. 2 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statement **3** is false. Home Charges are London-side charges on Indian revenue (India Office, pensions, debt interest, stores, non-effective army charges payable in England).
+
+</details>
+
+**Logic:** Imperial Preference = duty privilege for British imports in India.
+
+**Q2. IAS (Pre) 1999**
+
+The term “imperial preference” was applied to:
+
+A. Special privileges on British imports in India
+
+B. Racial discrimination by the Britishers
+
+C. Subordination of Indian interest to that of the British
+
+D. Preference to British political agents over Indian Princes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Near-nil duty on British imports in India; Indian exports faced high duties in Britain.
+
+</details>
+
+**Logic:** No independent industry because rich preferred land investment.
+
+**Q3. IAS (Pre) 1999**
+
+There was no independent development of industries in India during British rule because of:
+
+A. Absence of heavy industries
+
+B. Scarcity of foreign capital
+
+C. Scarcity of natural resources
+
+D. Preference of the rich to invest in land
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+**Logic:** Mid-18th-c. Bengal staples = cotton, silk, saltpetre, opium.
+
+**Q4. IAS (Pre) 2018**
+
+Staple commodities of export by the EIC from Bengal in the mid-18th century were:
+
+A. Raw cotton, oil-seeds and opium
+
+B. Sugar, salt, zinc and lead
+
+C. Copper, silver, gold, spices and tea
+
+D. Cotton, silk, saltpetre and opium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+**Logic:** Permanent Settlement / Istamrari = Cornwallis 1793 with zamindars; ~19%; sunset auction; pattas unchecked; Tenancy Act 1885.
+
+**Q5. UPPCS / BPSC / MPPCS / IAS cluster**
+
+Who introduced Istamrari / Permanent Settlement / with whom made / year / why more litigation / why no pattas / Bihar feature / Bengal Tenancy Act year?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Cornwallis, 1793**, with **zamindars** (hereditary/transferable proprietors; **10/11** to Company). Litigation rose from stronger zamindar vs ryot plus intermediaries — IAS often keys that **none** of the three simple options alone is the full reason. Pattas often not issued because **no official check** on zamindars. Fixed revenue demand is the Company gain. **Bengal Tenancy Act = 1885**.
+
+</details>
+
+**Logic:** Ryotwari = Read + Munro (not Cornwallis); first Baramahal/Madras; Madras & Bombay; ~51%; peasant owns/pays direct; Munro “always prevailed.”
+
+**Q6. IAS 2017 / Jharkhand / UPPCS / BPSC**
+
+Who associated with Ryotwari / first implemented where / Permanent vs Ryotwari regions / Munro said what / all three Ryotwari statements (direct rent, pattas, survey)?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Alexander Read and Thomas Munro** (not Cornwallis). First major try **Baramahal**; then **Madras** (and Bombay parts). Permanent = Bengal belt; Ryotwari = Madras/Bombay. Munro: Ryotwari “**has always prevailed in India**.” IAS 2012: all three statements on direct payment, pattas and survey/assessment are correct.
+
+</details>
+
+**Logic:** UPPCS 2020 A/R — different systems → different peasant classes; IAS 2024 — Ryotwari exemption false, Permanent sunset true; Mahalwari = Holt Mackenzie; Punjab Land Alienation 1900; Assam tea company 1839.
+
+**Q7. UPPCS 2020 / IAS 2024 / BPSC / UP R.O.**
+
+A/R on different land systems / Cornwallis revenue statements / who introduced Mahalwari in Bengal Presidency frame / Punjab Land Alienation Act / first Assam tea company year?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** A/R both true, R explains A. IAS 2024: **Only 2** (Sunset/removal of zamindar on default). Mahalwari = **Holt Mackenzie (1822)**. Punjab Act **1900**. Assam Company **1839**.
+
+</details>
+
+**Logic:** Match Jajmani–North, Bara Balute–Maharashtra, Mirasi–Tamil Nadu, Adade–Karnataka; military ~40% of central revenue.
+
+**Q8. UPPCS 2020 / UP R.O. 2021**
+
+Match service systems / % of central revenue on military?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **1-3-4-2** style = Jajmani North, Bara Balute Maharashtra, Mirasi Tamil Nadu, Adade Karnataka. Military share about **40%**.
+
+</details>
+
+**Logic:** Drain = unrequited transfer; Naoroji chief propounder; book 1901; Sir Syed rejected; all three critics Naoroji–Iyer–Dutt; favourable BOT + unrequited exports A/R; deindustrialization from 1813 + monopoly end; Marx “disgusting”; Arthur Cotton = South India irrigation; Aurang/Banian/Mirasidar; commercialization result; handicrafts ruined in early 19th c.
+
+**Q9. IAS / UPPCS / UK / BPSC cluster**
+
+Drain Theory definition / who propounded / book year / who did not believe / economic critics list / A/R favourable trade / deindustrialization 1813 / Marx / irrigation pioneer South / Aurang–Banian–Mirasidar / 19th-c. economic result / Industrial Revolution impact first half 19th c.?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Drain = part of Indian wealth exported **without material return**. **Dadabhai Naoroji**; *Poverty and Un-British Rule* **1901**. **Sir Syed** rejected. Critics include **Naoroji, G. Subramania Iyer, R. C. Dutt**. A/R both true (favourable BOT explained by unrequited exports). Deindustrialization **both** start **1813** and aggravated by ending Company monopoly. **Karl Marx**. **Sir Arthur Cotton**. Aurang = warehouse (not treasury); Banian = Company agent; Mirasidar = designated revenue payer. Result = **commercialization of agriculture**. Impact = **Indian handicrafts ruined**.
+
+</details>
+
+**Logic:** First Indian in Commons = Naoroji on Liberal ticket; London Indian Society 1865 with Bonnerjee.
+
+**Q10. BPSC / UPPCS**
+
+First Indian elected to British House of Commons contested on which ticket / Poverty book author?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Liberal Party**; **Dadabhai Naoroji**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -2104,6 +2274,13 @@ D. 3 2 1
 ---
 
 ## Common Traps — Don't Fall For These
+
+40. **Home Charges include wars outside India** → **no**.
+41. **Imperial Preference = race only** → duty privilege for **British imports**.
+42. **Ryotwari = Cornwallis** → **Munro + Read**; Permanent = Cornwallis.
+43. **Naoroji book = 1900** → **1901**; Syed **rejected** Drain.
+44. **Aurang = treasury officer** → **warehouse**; Banian = Company agent.
+45. Mid-18th-c. Bengal staples ≠ oil-seeds/zinc set → **cotton, silk, saltpetre, opium**.
 
 1. **Munro = Permanent Settlement** → Munro = **Ryotwari**; Cornwallis = **1793**.
 2. **Mackenzie = Ryotwari** → **Mahalwari 1822**.

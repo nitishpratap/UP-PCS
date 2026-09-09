@@ -40,7 +40,7 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 21. **Har Krishan**, the child eighth Guru, is remembered for service during a **Delhi** epidemic.
 22. Arjan's martyrdom led to Hargobind's militarisation; Tegh Bahadur's martyrdom led to Gobind Singh and later the Khalsa.
 23. Saint chronology bridge often used in matches: **Namdev → Kabir → Nanak → Chaitanya**.
-24. **Ranjit Singh's Adalat-i-Ala** at Amritsar belongs to the later Sikh Empire, not the Guru period.
+24. **Ranjit Singh's Adalat-i-Ala** at **Lahore** belongs to the later Sikh Empire, not the Guru period.
 25. **Guru Gobind Singh** was born at **Patna**; he died at **Nanded**, where **Hazur Sahib** stands.
 26. **Banda Bahadur**’s earlier name was **Lachman Dev** (Lachhman Dev); Gobind Singh gave him the Sikh name.
 27. **Hem Kund** (Chamoli, Uttarakhand) is a famous Sikh gurudwara site linked to Gobind Singh tradition.
@@ -340,11 +340,12 @@ C. Firozpur |
 
 D. Multan
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A (Amritsar)Why:Adalat-i-Ala** was the highest court of **Ranjit Singh's** Sikh Empire at **Amritsar**.
+**Ans: B (Lahore).** The **Adalat-i-Ala** heard appeals from district and provincial courts at **Lahore**.
 
-**Trap:** This is **19th-c. Sikh Empire** history, not Guru-period Punjab.
+**Trap:** Do not pick **Amritsar** (religious capital). This is Sikh Empire history, not Guru-period Punjab.
 
 </details>
 
@@ -1021,7 +1022,7 @@ D. Multan
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Amritsar)** — **UPPCS 2021 Q67Why:Ranjit Singh's Adalat-i-Ala** (highest court) was at **Amritsar**.
+**Ans: B (Lahore)** — **UPPCS 2021 Q67.** The **Adalat-i-Ala** (highest court) was at **Lahore**, not Amritsar.
 
 **Trap:** Sikh **Empire** institution, not Guru-period office.
 
@@ -1401,5 +1402,5 @@ D. Tegh Bahadur 1606 → Arjan 1675
 11. **Har Krishan** is the **8th** Guru, not the 10th.
 12. The Khalsa was created at **Anandpur**, not Amritsar.
 13. **1604** and **1606** are different facts. Do not swap compilation and martyrdom.
-14. **Adalat-i-Ala** belongs to **Ranjit Singh** at **Amritsar**, not to Nanak.
+14. **Adalat-i-Ala** belongs to **Ranjit Singh** at **Lahore**, not to Nanak.
 15. Sikhism upholds the **householder** path, not forest **sanyasa**, as the ideal.

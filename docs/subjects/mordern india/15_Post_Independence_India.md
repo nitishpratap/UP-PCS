@@ -8,9 +8,9 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 </details>
 
-> **Sources baked in:** NCERT Politics in India since Independence, Spectrum post-1947, Bipan Chandra, UPPCS Prelims 2018–2025
+> **Sources baked in:** NCERT Politics in India since Independence, Spectrum post-1947, Bipan Chandra, Ghatnachakra Purvalokan (Constituent Assembly), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — SRC members, CA chronology/committees, Etawah–CDP, PC→NITI, FYP slogans, princely cases, enclave merger routes (Goa/Pondicherry)
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** NITI Aayog (1 Jan 2015) as successor of Planning Commission only — not NITI index reports
 
 ---
@@ -94,6 +94,8 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 - There were about **562/565** princely states.
 - British **paramountcy lapsed** with the Independence Act.
 - States could accede to India or Pakistan, or in theory stand alone.
+- **Butler Committee (1927)** studied paramountcy and princely-state relations with the Crown (Indian States Committee).
+- **All India States People’s Conference (1927)** organised Praja Mandal politics; **Nehru** became its President in **1939**.
 - The **Instrument of Accession** covered only **Defence, External Affairs and Communications**.
 - A **Standstill Agreement** kept existing arrangements until merger.
 - Most states signed quickly. Hard cases are below.
@@ -211,7 +213,10 @@ D. 1 2 4 3
 **Body:** Constituent Assembly under the Cabinet Mission plan.
 **First sitting:9 December 1946**. Temporary President **Sachchidananda Sinha**, then **Rajendra Prasad**.
 
-- Strength was **389**. After Partition it was about **299**.
+- The CA idea was pressed hard at **Faizpur Congress (1936)**. The Assembly itself was elected under the **Cabinet Mission** on roughly **one seat per 10 lakh** population.
+- Strength was **389**. After Partition it was about **299**. Congress ~**208** seats; League ~**73**. **Jinnah** was **not** a member.
+- Temporary chair **Sachchidananda Sinha** (**9 Dec 1946**); permanent President **Rajendra Prasad** (**11 Dec 1946**). Full sovereignty is keyed from **15 August 1947**.
+- **G.V. Mavlankar** bridged British Central Assembly Speakership and free India’s Lok Sabha Speakership.
 - The Assembly worked **2 years 11 months 18 days**.
 - Nehru moved the **Objective Resolution on 13 December 1946**. It was adopted on **22 January 1947**.
 - The **National Flag** was adopted on **22 July 1947**. That is the **2020 Q134** date, not 1948 and not January 1950.
@@ -946,6 +951,25 @@ D. Administrative Reform Commission
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Constituent Assembly
+
+Teaching sits in **15.3**.
+
+**Logic:** CA under Cabinet Mission; Faizpur idea; 10 lakh ratio; first sitting 9 Dec 1946 Sinha; permanent Prasad; Jinnah not member; adopted 26 Nov 1949 / commenced 26 Jan 1950; Mavlankar Speaker bridge.
+
+**Q1. UPPCS / IAS / BPSC**
+
+Under which plan was CA set up / first sitting date–temp President / permanent President / was Jinnah a member / adopted vs commenced dates?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Cabinet Mission**. First sitting **9 Dec 1946**, temp **Sachchidananda Sinha**. Permanent **Rajendra Prasad**. Jinnah = **not** a member. Adopted **26 Nov 1949**; commenced **26 Jan 1950**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -2006,3 +2030,6 @@ D. Neither 1 nor 2
 19. **Chandernagore = same as the Pondicherry group** → Chandernagore merged into **West Bengal, 1954**; Pondicherry group is a **separate UT**, de jure only in **1962**.
 20. **Goa joined by referendum, like Pondicherry** → Goa needed **Operation Vijay, 1961**; Portugal refused talks.
 21. **Panchsheel = NAM's founding year** → Panchsheel **1954**; NAM's first summit is **Belgrade, 1961**. Bandung (1955) is a related mood, not the first NAM summit.
+22. **Jinnah was a Constituent Assembly member** → he was **not**.
+23. **Constitution commenced on 26 Nov 1949** → that is **adoption**; commencement = **26 Jan 1950**.
+24. **First CA President = Ambedkar** → temp **Sinha**, permanent **Prasad**; Ambedkar = **Drafting Committee**.

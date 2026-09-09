@@ -4,18 +4,18 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisations | Revolutionary Centres | Revolutionary Activities | Revolutionary Events | Anushilan Samiti | Jugantar | HSRA | Ghadar Party | Kakori Conspiracy | Chittagong Armoury Raid | Hindustan Republican Association
+Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisations | Revolutionary Centres | Revolutionary Activities | Revolutionary Events | Anushilan Samiti | Jugantar | HSRA | Ghadar Party | Kakori Conspiracy | Chittagong Armoury Raid | Hindustan Republican Association | Barrah Dacoity | Bagha Jatin | India House | Kamagata Maru | Provisional Government Kabul
 
 </details>
 
-> **Sources baked in:** Spectrum, Bipan Chandra, NCERT Themes III, UPPCS Prelims 2018–2025
+> **Sources baked in:** Spectrum, Bipan Chandra, NCERT Themes III, Ghatnachakra Purvalokan (Revolutionary Movements / Outside India), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — 1905/1911, org↔event, Kakori UP, Hardinge bomb, revolutionary chronology
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 38 Must-Score Facts
 
 1. **Partition of Bengal** was announced in **July 1905** and became effective on **16 October 1905**. The new province was **East Bengal and Assam** with capital at **Dacca**.
 2. **Causes:** Curzon claimed administrative size; nationalists read **divide and rule** aimed at Hindu–Muslim and Calcutta politics.
@@ -47,6 +47,14 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 28. **Komagata Maru (1914)** sits in the Ghadar-era overseas chain between Ghadar founding and wartime plots.
 29. The Hardinge bomb (**1912**) hit a Viceroy’s Delhi procession. The Assembly bomb (**1929**) was a Central Assembly protest — different year, different aim.
 30. UP Focus: Kakori is the Lucknow-belt treasury action of **HRA**; fact Bismil’s birth and hanging places separately.
+31. **Mitra Mela (1899)** became **Abhinav Bharat (1904)** under **V.D. Savarkar** (Maharashtra; London branch **1906**).
+32. **Barrah Dacoity (1908, East Bengal)** was led by **Pulin Behari Das** (Dhaka Anushilan).
+33. **Bagha Jatin (Jatindranath Mukherjee)** led the wartime **Yugantar** reorganisation; **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna (1913)**.
+34. **Ashfaqulla Khan** is keyed as the first recorded Muslim hanged in the freedom struggle (Kakori, **Faizabad**, **19 Dec 1927**).
+35. **Jatin Das** died after a **63-day** hunger strike (**13 Sep 1929**) in the Lahore Conspiracy jail context.
+36. **Provisional Government of India (Kabul, 1915)** — President **Raja Mahendra Pratap**, PM **Barkatullah**.
+37. **Udham Singh** killed **Michael O’Dwyer** in London (**1940**). **Madan Lal Dhingra** killed **Curzon Wyllie** (**1909**).
+38. **RSS** was founded by **K.B. Hedgewar** on **27 Sep 1925** at **Nagpur** — a Hindu social organisation, **not** HRA/HSRA.
 
 ---
 
@@ -54,6 +62,10 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
+| RSS 1925 (Hedgewar, Nagpur) | HRA / Kakori 1925 | Hindu social organisation vs revolutionary armed treasury action | आरएसएस / एचआरए |
+| *Sarfaroshi* poet Bismil Azimabadi | Ram Prasad Bismil | Poem author (Patna) vs Kakori martyr (Shahjahanpur) | बिस्मिल अजीमाबादी / राम प्रसाद |
+| Dhingra–Wyllie 1909 | Udham–O’Dwyer 1940 | India House London killing vs Jallianwala revenge killing | धिंगरा / ऊधम सिंह |
+| Barrah 1908 | Kakori 1925 | East Bengal Anushilan dacoity vs UP HRA train action | बर्राह / काकोरी |
 | Partition 1905 | Annulment 1911 | Curzon divides Bengal vs Durbar reverses it and moves capital | बंगाल विभाजन / रद्द |
 | Swadeshi | Boycott | Use Indian goods/institutions vs reject British goods/institutions | स्वदेशी / बहिष्कार |
 | Extremist | Revolutionary | Assertive Congress (boycott/Swadeshi) vs secret armed groups | गरम दल / क्रांतिकारी |
@@ -201,7 +213,9 @@ D. Neither 1 nor 2
 - **Partition of Bengal was annulled**.
 - The **capital shifted from Calcutta to Delhi**.
 - **2025 Q6:** of (1) partition revoked (2) capital to Delhi (3) Lucknow Pact — only **1 and 2** belong to 1911. Lucknow Pact = **1916**.
-- Annulment reunited Bengal roughly, but Bihar-Orissa and Assam were rearranged as separate units. Do not treat 1911 as “nothing changed.”
+- On **12 December 1911** George V announced annulment and the capital move; the transfer was completed in **1912** under **Hardinge II**.
+- Annulment reunited Bengal roughly. **Bihar and Orissa** became a separate province (**from 1 April 1912**). Assam was restored toward its earlier separate status.
+- Do not treat 1911 as “nothing changed,” and do not put the **Lucknow Pact** in the Durbar year.
 - The new capital project at Delhi is Hardinge’s years (later New Delhi inauguration is 1931 — not this card’s fact).
 
 > ** note:** 1911 = **annulment + capital to Delhi**. Not Lucknow Pact. Not Partition year (that is 1905).
@@ -266,6 +280,8 @@ D. Only 1
 - **Rash Behari Bose** planned it.
 - **Basanta Kumar Biswas** threw it.
 - **2023 Q42** asks which organisation — answer **Anushilan Samiti**, not Jugantar, not a labour body.
+- The **Barrah (Barra) Dacoity** of **1908** in East Bengal was planned by **Pulin Behari Das**’s Dhaka Anushilan circle as an early major armed venture for funds and arms.
+- **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna in 1913**.
 - Do not merge Anushilan with the later HSRA of Punjab–UP.
 
 > ** note:** Hardinge bomb **1912** = **Anushilan**. Jugantar is the other Bengal circle.
@@ -309,6 +325,8 @@ D. Yugantar
 
 - Aurobindo was acquitted, defended by **C.R. Das**; he then left politics altogether for Pondicherry yoga.
 - Barindra Ghosh and other convicted members were transported to the Andamans, breaking up the Jugantar network for some years.
+- Inside Alipore Jail, **Kanailal Dutt** and **Satyendranath Bose** shot the approver **Narendra Gosain**; both were hanged.
+- **Jatindranath Mukherjee (Bagha Jatin)** later reorganised the **Yugantar** wartime line and died in **1915** fighting.
 - Surviving Jugantar men later fed into wartime plots and, through personal links, into the 1930 Chittagong generation. For Prelims, keep Jugantar tied to **Muzaffarpur + Alipore + Yugantar paper**.
 
 > ** note:** Khudiram–Chaki = **Muzaffarpur 1908**. Hardinge 1912 = **Anushilan**, not Jugantar, in the 2023 key.
@@ -317,16 +335,16 @@ D. Yugantar
 
 ## 11.8 Abhinav Bharat and India House
 
-**Abhinav Bharat:** founded by **Vinayak Damodar Savarkar** (with brother Ganesh) from the earlier Mitra Mela, Nasik
+**Abhinav Bharat:** **V.D. Savarkar** founded **Mitra Mela (1899)** and converted it into the secret **Abhinav Bharat Society (1904)** in Maharashtra (branches also in Madhya Pradesh and Karnataka); a London branch worked from **India House (1906)**
 **India House:Shyamji Krishna Varma**, London (Indian Home Rule Society, scholarships, *Indian Sociologist*)
 
 - **2018 Q22:** Abhinav Bharat founder = **Savarkar**, not Bhagat Singh, not Barindra, not Pulin Behari.
 - In **1909** at Nasik, **Anant Kanhere** killed Collector **Jackson**.
 - Abhinav Bharat men were tried.
-- Savarkar was sent to the **Andamans** (Kala Pani).
 - In **1909** in London, **Madan Lal Dhingra** killed **Curzon Wyllie** at the Imperial Institute.
 - India House was then crushed.
 - Savarkar also wrote ***The Indian War of Independence*** (1909).
+- He also wrote on **Mazzini** to inspire nationalists. Arrested in London for the **Nasik Conspiracy**, he jumped from a ship trying to escape and was re-arrested, then sent to the Andamans.
 
 > ** note:** Abhinav Bharat = **Savarkar**. India House = **Shyamji Krishna Varma**. Dhingra ≠ Bhagat Singh.
 
@@ -361,6 +379,8 @@ D. Pulin Bihari
 - She appealed to the international socialist delegates for support of India's freedom, calling the flag "the flag of Indian independence."
 - She published the paper ***Bande Mataram*** from Paris and later ***Madan's Talwar*** in memory of Madan Lal Dhingra.
 - The French government, under British pressure, kept her under watch; she could not return to India until near her death in **1936**.
+- She is remembered as the **Mother of the Indian Revolution**.
+- She also worked as a private secretary to **Dadabhai Naoroji** for a time.
 - Do not confuse her Stuttgart flag (1907) with the **Berlin Committee** (1915), a separate, later wartime plot in Europe.
 
 > ** note:** Cama = **1907 Stuttgart flag**, Paris base. Berlin Committee = **1915** wartime plot, different generation of émigré politics.
@@ -468,6 +488,9 @@ D. III, I, II and IV
 - Bhagat Singh, Dutt and other members stood trial; in the separate **Lahore Conspiracy Case**, Bhagat Singh, Rajguru and Sukhdev were hanged on **23 March 1931** at Lahore.
 - The trial and executions made Bhagat Singh a mass hero and hardened youth sympathy for the revolutionary line, even as HSRA itself was broken as an organisation.
 - **Azad** kept the underground alive until he died in a gunfight at **Alfred Park, Allahabad, on 27 February 1931**.
+- **Jatin Das**, arrested in the Lahore Conspiracy supplementary case, died after a **63-day** hunger strike for jail reforms on **13 September 1929**.
+- **Inquilab Zindabad** was coined by **Hasrat Mohani**; **Bhagat Singh** made it the revolutionary slogan.
+- Bhagat Singh held that **criticism and independent thinking** are indispensable qualities of a revolutionary.
 
 > ** note:** Assembly bomb **1929** = HSRA. Saunders **1928** = HSRA. Kakori **1925** = HRA.
 
@@ -510,8 +533,11 @@ D. Ambika Chakravarti
 
 **Result**
 
-- **Bismil**, born on **11 June 1897** at **Shahjahanpur**, was hanged on **19 December 1927** at **Gorakhpur Jail**; he is remembered for *Sarfaroshi ki Tamanna*.
+- **Bismil**, born on **11 June 1897** at **Shahjahanpur**, was hanged on **19 December 1927** at **Gorakhpur Jail**.
+- The poem *Sarfaroshi ki Tamanna* is by **Bismil Azimabadi** (Patna), not Ram Prasad Bismil — a frequent wrong-pair trap.
 - **Ashfaqulla Khan** was hanged the same day at **Faizabad Jail** — he and Bismil are remembered as the Hindu–Muslim revolutionary pair.
+- Notes often tag Ashfaqulla as the **first recorded Muslim** hanged for the freedom struggle (age about **27**).
+- Days before hanging, **Bismil** refused offered milk and said he would take only his **mother’s milk**.
 - **Rajendra Lahiri** was hanged on **17 December 1927** at **Gonda**; **Thakur Roshan Singh** was hanged on **19 December 1927** at **Naini (Allahabad)**.
 - **Azad escaped** the hangings, rebuilt the underground into HSRA, and died at **Alfred Park, Allahabad, on 27 February 1931**.
 
@@ -549,9 +575,50 @@ D. Ambika Chakravarti
 
 ### Chapekar brothers (1897)
 
-- This was at Pune.
-- **Damodar** and **Balkrishna Chapekar** killed plague officer **Rand**, and also Lt. Ayerst.
-- It is an early militant strike. Tilak’s Kesari years are the political climate, not the same organisation.
+- At Poona the Chapekar brothers (**Damodar**, **Balkrishna**, **Vasudev**) ran a **Vyayam Mandal** with political intent (**1896–97**).
+- In **June 1897** they killed plague commissioner **Rand** and Lt. **Ayerst**. Damodar was hanged; the Dravid brothers informed the police.
+- Britishers also tried to implicate **Tilak**; in **July 1897** he was convicted of sedition under **IPC 124-A** for about **18 months**. That ordeal made him an all-India name and people styled him **Lokmanya**.
+- The Chapekar strike is early militant action — not the same organisation as Abhinav Bharat.
+
+
+### Barrah Dacoity (1908)
+
+- Led by **Pulin Behari Das** in **East Bengal** (Dhaka Anushilan). It is keyed as an early major revolutionary dacoity for funds.
+
+### Women revolutionaries (Bengal, early 1930s)
+
+- In **December 1931**, school students **Shanti Ghosh** and **Suniti Chaudhary** shot a district magistrate.
+- In **1932**, **Bina Das** fired at the Bengal Governor at a Calcutta University convocation.
+
+### Gopinath Saha and Charles Tegart (1924)
+
+- **Gopinath Saha** tried to kill Calcutta Police Commissioner **Charles Tegart** but killed another Englishman by mistake and was hanged (**1924**).
+
+### Passive Resistance (Aurobindo)
+
+- **Aurobindo Ghosh** formulated **Passive Resistance** in the paper ***Bande Mataram*** — assertive political resistance short of Congress Moderate petition politics.
+
+### Forward Bloc (1939)
+
+- After resigning Congress presidentship, **Subhas Chandra Bose** founded the **Forward Bloc** on **3 May 1939** (later politics; keep distinct from HSRA).
+
+### RSS (1925) — do not confuse with HRA
+
+- **Rashtriya Swayamsevak Sangh** was founded by **Keshav Baliram Hedgewar** on **27 September 1925** at **Nagpur**.
+- It is a **Hindu social–organisational** body, **not** the revolutionary HRA that staged Kakori the same year.
+
+### Provisional Government of India (Kabul, 1915)
+
+- During World War I, **Raja Mahendra Pratap** (President) and **Maulavi Barkatullah** (Prime Minister) set up a provisional government of free India at **Kabul**.
+
+### Udham Singh (1940)
+
+- In London (**March 1940**), **Udham Singh** killed **Michael O’Dwyer**, former Punjab lieutenant-governor linked in public memory to Jallianwala Bagh. He was hanged for the act.
+
+### India Independence League (Japan)
+
+- **Rash Behari Bose** organised Indians in Japan and founded the **Indian Independence League** (Tokyo/Bangkok wartime conferences, **1942**), later inviting Subhas Chandra Bose.
+
 
 ### Kanpur Conspiracy Case (1924)
 - Early **communist** case, not HRA. Accused included **Muzaffar Ahmed, S.A. Dange, Shaukat Usmani, Nalini Gupta**.
@@ -796,6 +863,107 @@ D. Pulin Bihari
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Revolutionary Movements in India
+
+Teaching sits in **11.5–11.16**.
+
+**Logic:** Mitra Mela → Abhinav Bharat (Savarkar, Maharashtra); RSS 1925 Hedgewar ≠ revolutionary HRA; Chapekar → Tilak Lokmanya / 124-A.
+
+**Q1. UPPCS / IAS / BPSC / MPPCS**
+
+Abhinav Bharat organiser / Mitra Mela founder / Abhinav Bharat region / RSS founder–year / how Tilak became Lokmanya?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **V.D. Savarkar** organised Abhinav Bharat from **Mitra Mela**. Region = **Maharashtra**. RSS = **Hedgewar, 27 Sep 1925, Nagpur** (not a bomb society). Lokmanya rise = after **1897 sedition** in the Chapekar/Rand climate.
+
+</details>
+
+**Logic:** Yugantar/Bagha Jatin; Anushilan founders; Patna branch Sanyal 1913; Barrah = Pulin / East Bengal; Muzaffarpur = Khudiram–Chaki 1908; Alipore defence = C.R. Das.
+
+**Q2. UPPCS / IAS / BPSC**
+
+Yugantar leader / Anushilan founder tag / Patna Anushilan 1913 / Barrah place / Kingsford attempt place–year / who defended Aurobindo at Alipore?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Yugantar wartime lead often keyed to **Bagha Jatin**. Anushilan Calcutta = **P. Mitra** circle; Dhaka = **Pulin Behari Das**. Patna branch = **Sachindra Nath Sanyal (1913)**. Barrah = **East Bengal (1908)**. Kingsford attempt = **Muzaffarpur, 30 Apr 1908**. Defence = **Chittaranjan Das**.
+
+</details>
+
+**Logic:** HRA Kanpur 1924; Kakori 9 Aug 1925 HRA not HSRA; hanged Bismil–Ashfaq–Roshan–Lahiri; Azad escaped; Ashfaq first Muslim hanged; Bismil Gorakhpur; Sarfaroshi ≠ Ram Prasad.
+
+**Q3. UPPCS / UKPCS / BPSC / MPPCS**
+
+HRA year–place / Kakori year–org / who escaped / who hanged / Ashfaq jail / Bismil milk line / *Sarfaroshi* author trap?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** HRA = **Kanpur, Oct 1924** (Sanyal president). Kakori = **9 Aug 1925, HRA**. Escaped = **Azad**. Hanged include **Bismil, Ashfaqulla, Roshan Singh, Rajendra Lahiri**. Ashfaq = **Faizabad**. Bismil refused milk before hanging. *Sarfaroshi ki Tamanna* = **Bismil Azimabadi**, not Ram Prasad.
+
+</details>
+
+**Logic:** HSRA Feroz Shah Kotla 1928; Assembly bomb Bhagat + B.K. Dutt 8 Apr 1929; Lahore hangings 23 Mar 1931; Jatin Das hunger strike; Chittagong Master-da 18 Apr 1930; IRA Chittagong.
+
+**Q4. UPPCS / IAS / BPSC**
+
+HSRA place–year / Assembly bomb pair / hangings date / Jatin Das death / Chittagong leader–date / who NOT in Kakori?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** HSRA = **Feroz Shah Kotla, Delhi, 1928**. Bomb = **Bhagat Singh + Batukeshwar Dutt**. Hangings = **23 March 1931** (Bhagat, Rajguru, Sukhdev). Jatin Das died after hunger strike (**13 Sep 1929**). Chittagong = **Surya Sen (Master-da), 18 Apr 1930**. Not Kakori = **Surya Sen / Bhagat Singh** (common distractors).
+
+</details>
+
+**Logic:** Passive Resistance = Aurobindo; Forward Bloc 1939 Bose; Bina Das convocation; Shanti–Suniti DM; Bhagat criticism quote; Naujawan = Bhagat 1926.
+
+**Q5. BPSC / UPPCS**
+
+Passive Resistance theorist / Forward Bloc founder / Bina Das act / Bhagat Singh quote on revolutionary qualities / Naujawan founder?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Passive Resistance = **Aurobindo** (*Bande Mataram*). Forward Bloc = **Subhas Chandra Bose (1939)**. Bina Das fired at the Governor at convocation (**1932**). Quote = **criticism and independent thinking**. Naujawan Bharat Sabha = **Bhagat Singh (1926)**.
+
+</details>
+
+## Ghatnachakra Extra Drill — Revolutionary Activities Outside India
+
+Teaching sits in **11.8–11.11** and Other Events.
+
+**Logic:** India House / Home Rule Society = Shyamji London 1905 + *Indian Sociologist*; Ghadar 1913 San Francisco, first chair Sohan Singh Bhakna, torchbearer Hardayal; Cama Stuttgart 1907 Mother of Revolution; Dhingra Wyllie; Udham O’Dwyer.
+
+**Q6. UPPCS / IAS / BPSC / UKPCS**
+
+India House founder / Ghadar HQ–year / first Ghadar chairman / Mother of Indian Revolution / flag place / Dhingra victim / Udham victim?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** India House / Indian Home Rule Society = **Shyamji Krishna Varma (London, 1905)**. Ghadar = **San Francisco, 1913**. First chairman = **Sohan Singh Bhakna**. Mother of Revolution = **Bhikaji Cama**. Flag = **Stuttgart (1907)** not Paris. Dhingra = **Curzon Wyllie (1909)**. Udham = **Michael O’Dwyer (1940)**.
+
+</details>
+
+**Logic:** Kamagata Maru = Japanese ship, Gurdit Singh, Canada refusal, Budge Budge firing; Provisional Govt Kabul 1915 Mahendra Pratap + Barkatullah; India Independence League = Rash Behari Bose Japan; chronology Ghadar → Berlin → Assembly → Chittagong.
+
+**Q7. IAS / UPPCS / BPSC**
+
+What was Kamagata Maru / provisional government president / India Independence League founder / 2022-style order Ghadar–Berlin–Assembly–Chittagong?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Kamagata Maru = a **Japanese steamship** chartered by **Gurdit Singh** for Canada (**1914**); clash at **Budge Budge**. Provisional government = **Raja Mahendra Pratap** (President), **Barkatullah** (PM), **Kabul 1915**. League = **Rash Behari Bose**. Order = **Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930)**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1775,3 +1943,18 @@ D. Only 1
 13. **NCE = BHU** → NCE **1906** Swadeshi; BHU is Topic 12.
 14. **Assembly bomb meant to kill members** → propaganda bombs; they **courted arrest**.
 15. **India House = Ghadar** → India House is **London / Shyamji**; Ghadar is **San Francisco 1913**.
+
+22. **Kakori = HSRA** → **HRA (1925)**; HSRA only from **1928**.
+23. **Abhinav Bharat = Bhagat Singh / Barindra** → **V.D. Savarkar** (from Mitra Mela).
+24. **Barrah Dacoity = Punjab / Madras** → **East Bengal**, **Pulin Behari Das**.
+25. **India House = Hardayal / Ghadar HQ** → **Shyamji Krishna Varma, London**; Ghadar HQ = **San Francisco**.
+26. **Cama flag = Paris 1907** → **Stuttgart** International Socialist Congress.
+27. **First Ghadar chairman = Hardayal** → **Sohan Singh Bhakna**; Hardayal = torchbearer / organiser.
+28. **Ashfaqulla hanged at Gorakhpur** → **Faizabad**; Gorakhpur = **Bismil**.
+29. **Sarfaroshi ki Tamanna = Ram Prasad Bismil** → **Bismil Azimabadi**.
+30. **RSS = Kakori revolutionary wing** → **Hedgewar’s Hindu social organisation (Nagpur, 1925)** — same year, different body.
+31. **Jatin Das hanged with Bhagat Singh** → he died on **hunger strike (1929)**; hangings = Bhagat–Rajguru–Sukhdev (**1931**).
+32. **Provisional government = Subhas / INA Singapore** → **Mahendra Pratap–Barkatullah at Kabul (1915)** is the WWI provisional government.
+33. **Udham Singh killed General Dyer** → he killed **Michael O’Dwyer**.
+34. **Chittagong = Bhagat Singh / Kakori men** → **Surya Sen (Master-da), 18 April 1930**.
+35. **Muzaffarpur = Alipore trial site** → Muzaffarpur = **Kingsford bomb**; Alipore = **Manicktolla conspiracy trial**.

@@ -8,9 +8,9 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 </details>
 
-> **Sources baked in:** Spectrum match lists, UPPCS Prelims 2018–2025
+> **Sources baked in:** Spectrum match lists, Ghatnachakra Purvalokan (Miscellaneous), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — this file is a **drill vault**, not a second textbook
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Boundary:** This file is a **match vault**. Event stories sit in the earlier Modern India chapters. Drill from the tables; do not re-learn narrative here.
 
 ---
@@ -41,7 +41,7 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 22. **Rani Lakshmibai** is the Rani of Jhansi. **Jhalkari Bai** is the Dalit soldier remembered as resembling her in battle.
 23. ***Poverty and Un-British Rule*** = Naoroji **1901**. ***Economic Nationalism*** historiography = **Bipan Chandra**.
 24. ***Anandamath*** = Bankim; ***Hind Swaraj*** = Gandhi; ***Discovery of India*** = Nehru; ***India Wins Freedom*** = Azad; ***Gita Rahasya*** = Tilak.
-25. **Simon Go Back** is locked to the anti-Simon agitation and the **Lajpat Rai** association.
+25. **Simon Go Back** is keyed to the anti-Simon agitation and the **Lajpat Rai** association.
 26. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle fact.
 27. This file is a **match vault**: slogans, press, sessions, treaties and UP names — event stories live in earlier chapters.
 28. Drill first the slogan six, the INC “first” six, the committee/mission six, and the British-official six — those rows carry the heaviest repeat weight.
@@ -89,6 +89,11 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 | **Quit India** | Congress mass call, Aug 1942 | |
 | **Garibi Hatao** | Later (Indira); **not** 1920s | |
 | **Educate, Agitate, Organise** | **B.R. Ambedkar** | Bahishkrit Hitkarini Sabha motto |
+| **Jai Jawan Jai Kisan** | **Lal Bahadur Shastri** | 1965; Ramlila Maidan memory |
+| **Freedom is almost within reach…** | **Gandhi** | Quit India appeal (with Do or Die) |
+| **Political freedom is the life-breath of a nation** | **Aurobindo Ghosh** | Early nationalist |
+| **I am an Indian Tom-Tom…** | **Annie Besant** | Wake sleepers for motherland |
+| **Imperialism is dead as the Dodo** | **Clement Attlee** | Post-war British PM |
 | **Self-Respect (Suyamariyadai)** | **E.V. Ramasamy “Periyar”** | Self-Respect Movement, 1925, Tamil Nadu |
 
 > ** note:** Tilak ≠ Do or Die. Bose ≠ Inquilab. Vande Mataram ≠ Jana Gana Mana.
@@ -153,6 +158,16 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 | *The Indian Struggle* | Subhas Chandra Bose |
 | *India Divided* | Rajendra Prasad |
 | *Glimpses of World History* | Jawaharlal Nehru |
+| *New Lamps for Old* (series) | **Aurobindo Ghosh** |
+| *Gitanjali* / Song Offerings | Tagore (Nobel **1913**) |
+| *Amar Sonar Bangla* | Tagore (Bangladesh anthem) |
+| *The Indian Sociologist* | Shyamji Krishna Varma |
+| *Bandi Jivan* | Sachindranath Sanyal |
+| *Annals and Antiquities of Rajasthan* | Col. James Tod |
+| *The Springing Tiger* | Hugh Toye (on Bose) |
+| *Indian Unrest* | Valentine Chirol |
+| *Desher Katha* | Sakharam Ganesh Deuskar |
+| *Vital-Vidhvansak* | Gopal Baba Walangkar |
 | *Thoughts on Pakistan* | B.R. Ambedkar |
 
 **2020 Q26** code **3, 4, 1, 2** = A. **2021 Q139** Poverty… = **1901**. **2019 Q97** Economic Nationalism = **Bipan Chandra**.
@@ -178,8 +193,12 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 | **JVP** | 1948–49 | Nehru–Patel–Sitaramayya |
 | **SRC** | 1953–55 | **Fazl Ali, Panikkar, Kunzru** |
 | **Balwant Rai Mehta** | 1957 | Three-tier Panchayati Raj |
+| **George Campbell** | after **Odisha 1866–67** | Inquiry after “Sea of Calamity” famine |
+| **Strachey** | **1880** | Famine Codes **1883** |
 | **MacDonnell** | 1901 | Famine |
-| **Fraser** | 1902–03 | Police |
+| **Colin Scott Moncrieff** | 1901–03 | Irrigation |
+| **Thomas Robertson** | 1901–03 | Railway |
+| **Andrew Frazer** | 1902–03 | Police (also spelled Fraser) |
 | **Rowlatt (Sedition) Committee** | 1918 | Sidney Rowlatt; led to the **Rowlatt Act, 1919** |
 | **Nehru Report** | 1928 | Motilal Nehru; Indian response to all-white Simon |
 | **Muddiman Committee** | 1924 | Reforms Enquiry; reviewed dyarchy's working |
@@ -243,6 +262,8 @@ This is the **treaty match table**. War stories sit with Company expansion.
 | **Lucknow Pact** | **1916** | Congress–League |
 | **Gandhi–Irwin** | **1931** | Pact after CDM |
 | **Poona Pact** | **1932** | Gandhi–Ambedkar |
+| **Turkmenchay** (Russia–Iran) | **1828** | Fuelled British fear of Russian approach to India |
+| **Shimla Agreement** (Indira–Bhutto) | **1972** | After 1971 war — **≠** 1945 Simla Conference |
 
 **2019 Q93:** Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769 = **4, 2, 1, 3** = **C**.
 
@@ -528,6 +549,59 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 
 ---
 
+
+## 16.14 High-yield miscellaneous matches
+
+Short GC matches that recur as Who / When / Which famine / Which slogan. Full stories stay in Topics 2–4, 6–7, 12–15.
+
+| Fact | Match |
+|------|------|
+| Anglo-Afghan policy driver (19th c.) | Fear of **Russian** expansion (after **Turkmenchay 1828**) |
+| Odisha famine **1866–67** | Called **“Sea of Calamity”**; ~**13 lakh** dead; **George Campbell** inquiry |
+| Bengal famine **1943** | ~**3 million** dead (Linlithgow wartime) |
+| Pindari leaders (early 19th c.) | **Chittu**, **Karim Khan**, **Basil Mohammad**; crushed by **Lord Hastings** |
+| First speaker in Gandhi cap (no wig) | **G.V. Mavlankar** (Central Assembly **1946**) |
+| Tagore titles | **Gurudev**; Gandhi called him **Great Sentinel**; Nobel **1913**; Visva-Bharati **1921** |
+| Ambedkar birth–death | **14 Apr 1891**, Mhow; died **6 Dec 1956**; Bharat Ratna posthumous |
+| Banaras Hindu Mahasabha **Aug 1923** | Presided by **Madan Mohan Malaviya** |
+| Frontier Gandhi | **Abdul Ghaffar Khan** (Bacha Khan); **Khudai Khidmatgar / Red Shirts**; Bharat Ratna **1987** |
+| Official Congress history | **Pattabhi Sitaramayya** (lost Tripuri **1939** to Bose) |
+| Whitley Commission **1929** | Labour conditions / health / plantations / employer–employee relations |
+| First woman PM in the world | **Sirimavo Bandaranaike** (Sri Lanka, **1960**) |
+| British PM residence | **10 Downing Street**, Westminster |
+| “Everything else can wait, but not agriculture” | **Nehru** (after Independence) |
+| Mountbatten on Partition guilt | Blamed **Jinnah** most |
+| Attlee on Partition | “British Government is **not** responsible for the partition” |
+| First communist state ministry | **Kerala, 1957** (E.M.S. Namboodiripad) |
+| Nehru favoured / Gandhi less | **Heavy industrialisation** (both shared truth / non-violence) |
+| Gregorian calendar | Present-day world civil calendar |
+| Dialectical materialism | **Karl Marx** (class struggle / materialist history) |
+| Paper inventor (China) | **Cai Lun / Tsai-lun**, **105 CE** |
+| Mother Teresa | Born Skopje/Albania stream; Indian citizen at death **5 Sep 1997**; Missionaries of Charity |
+| Kisan Diwas | **23 December** (Chaudhary Charan Singh) |
+| Operation Polo | Hyderabad, **Sep 1948** |
+| Operation Vijay (1999) | **Kargil** vs Pakistan (**≠** Goa 1961, also called Vijay) |
+| First All India Socialist Youth Congress | Calcutta **27 Dec 1928**, chair **Nehru** |
+| Alipore Central Jail | **Kolkata**, founded **1906** |
+| Bethune School (Calcutta) | **J.E.D. Bethune**; first secretary **Vidyasagar** |
+| Bankim | Among first Calcutta University graduates; *Vande Mataram* in *Anandamath* |
+| Azad | Deoband stream; *Mazameen al-Nadwa*; Congress President **1940–46**; *India Wins Freedom* |
+| Bombay Trimurti | **Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji** |
+| Baden-Powell | Boy Scouts / Girl Guides founder stream |
+| Deepavali Declaration **1929** | Irwin; dominion-status hope |
+| Imperial Gazetteer compiler | **W.W. Hunter** |
+| USSR dissolution | **26 Dec 1991** |
+| German reunification | **3 Oct 1990** |
+| China–Tibet | **1959** occupation / end of Tibetan autonomy tag |
+| Hiroshima / Nagasaki | **6 Aug / 9 Aug 1945**; Japan surrender **15 Aug 1945** |
+| French Revolution | **1789** |
+| Nehru death / seat | **27 May 1964**; **Phulpur** (not Rae Bareli) |
+| First non-Congress PM | **Morarji Desai**, **24 Mar 1977**; Surat |
+
+> **Logic:** Keep Operation Vijay (Goa **1961**) separate from Operation Vijay (Kargil **1999**). Simla **1945** ≠ Shimla Pact **1972**.
+
+---
+
 ## Complete PYQ Bank
 
 > Matching / NOT-matched / slogan-adjacent stems. Narrative homes stay in T1–T15; full stems repeated here because this topic **is** the match vault.
@@ -654,6 +728,36 @@ D. C A B D
 **Q14. 2018 Q95** — NOT matched: **Lucknow — Liyaqat Ali**. Lucknow = Hazrat Mahal.
 
 ---
+
+
+## Ghatnachakra Extra Drill — Modern History Miscellaneous
+
+Teaching sits in **16.1, 16.4, 16.6, 16.14** (and linked Topics 2 / 4 / 14 / 15).
+
+**Logic:** Russia fear / Turkmenchay; Odisha “Sea of Calamity”; Strachey vs Campbell vs MacDonnell; Frazer–MacDonnell–Moncrieff–Robertson match; Pindari leaders; Mavlankar wig; Great Sentinel; Jai Jawan Jai Kisan; Whitley labour; Sirimavo; 10 Downing; Attlee Dodo; Kerala 1957; Polo vs Vijay; Kisan Diwas; Gregorian; Marx dialectical materialism.
+
+**Q1. UPPCS / IAS / BPSC**
+
+Anglo-Afghan fear of which power / Odisha famine nickname / Famine Codes commission / Whitley purpose / Tagore’s Gandhi title / Jai Jawan giver / first woman PM worldwide / British PM house / first communist ministry state / Operation Polo target?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Fear of **Russia**. Nickname **Sea of Calamity** (**1866–67**). Codes ← **Strachey (1880)**. Whitley = **labour conditions**. Title **Great Sentinel**. Slogan **Lal Bahadur Shastri**. Woman PM **Sirimavo Bandaranaike**. Residence **10 Downing Street**. Communist ministry **Kerala 1957**. Polo = **Hyderabad 1948**.
+
+</details>
+
+**Q2. UPPCS chronology / match**
+
+Match: A. Andrew Frazer B. Antony MacDonnell C. Colin Scott Moncrieff D. Thomas Robertson → Police / Famine / Irrigation / Railway.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Frazer **Police**; MacDonnell **Famine**; Moncrieff **Irrigation**; Robertson **Railway**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1808,3 +1912,11 @@ D. Neither 1 nor 2
 20. **Cabinet Mission = solo envoy** → that is **Cripps Mission, 1942**. Cabinet Mission (1946) had **three** members.
 21. **Chandernagore = part of Pondicherry UT** → Chandernagore merged into **West Bengal (1954)**; Pondicherry group is a separate UT.
 22. **Bismil and Ashfaqullah born in different towns** → both born in **Shahjahanpur**, UP.
+23. **Sea of Calamity = Bihar / Madras 1866–67** → that nickname is **Odisha (Orissa) famine 1866–67**.
+24. **Famine Codes = Hunter Commission** → Codes follow **Strachey (1880)**; Hunter **1882** is education.
+25. **Jai Jawan Jai Kisan = Nehru / Devi Lal** → **Lal Bahadur Shastri**.
+26. **Great Sentinel = Bose’s title for Tagore** → **Gandhi** called Tagore the Great Sentinel.
+27. **Operation Vijay always = Goa** → Goa **1961** and Kargil **1999** both used the name; check the year.
+28. **Simla Pact 1972 = Wavell Simla 1945** → **1972** Indira–Bhutto; **1945** is Wavell Conference.
+29. **First woman PM = Indira Gandhi** → world’s first is **Sirimavo Bandaranaike** (Sri Lanka).
+30. **Whitley = constitutional reforms** → **labour** conditions commission (**1929**).

@@ -8,9 +8,9 @@ Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Move
 
 </details>
 
-> **Sources baked in:** Spectrum, Bipan Chandra, NCERT Themes III, UPPCS Prelims 2018–2025
+> **Sources baked in:** Spectrum, Bipan Chandra, NCERT Themes III, Ghatnachakra Purvalokan (1937–QI / Pakistan / Cripps; Bose–INA; Cabinet–Partition), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — mission chronology, Bose/INA, Quit India women, Cabinet Mission A/R, Independence Act
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -21,7 +21,7 @@ Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Move
 2. **CSP (1934)** worked inside Congress; **Nehru never formally joined**. **Forward Bloc (1939)** is Bose’s separate left-nationalist body.
 3. Bose presided at **Haripura 1938** and **Tripuri 1939**, then resigned and founded the **Forward Bloc**.
 4. Bose escaped in **January 1941**. The **Azad Hind Government** was proclaimed on **21 October 1943** at **Singapore**.
-5. The **Rani of Jhansi Regiment** is locked to **Lakshmi Sehgal**. INA slogans include **Give me blood…**, **Delhi Chalo** and **Jai Hind**.
+5. The **Rani of Jhansi Regiment** is keyed to **Lakshmi Sehgal**. INA slogans include **Give me blood…**, **Delhi Chalo** and **Jai Hind**.
 6. **INA Trials** at the **Red Fort** tried **Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon**. Mass protest forced remission of sentences.
 7. Wartime bridge: ministries resign **1939** → **Ramgarh (Mar 1940)** → **August Offer (Aug 1940)** → **Individual Satyagraha (Oct 1940**, Vinoba first).
 8. **Cripps Mission (March 1942)** offered dominion after war, a Constituent Assembly, and provincial opt-out. Congress and League rejected it.
@@ -135,7 +135,9 @@ D. 1, 4, 2, 3
 - On **3 September 1939**, Britain declared India at war without consulting elected Indian opinion.
 - The **Congress Working Committee** demanded a clear statement of British war aims for India and a real move toward self-government in return for cooperation. The offer was refused.
 - Congress ministries in all eight provinces **resigned in October–November 1939** in protest.
-- The League's **Muhammad Ali Jinnah** called the resignations "**Deliverance Day**", framing Congress rule as a period of Muslim hardship now ended.
+- Ministries lasted about **28 months**. UP Premier tag: **Govind Ballabh Pant**; Finance **Rafi Ahmed Kidwai**.
+- League grievance reports in order: **Pirpur Report (1938)** → **Sharif Report (Mar 1939)** → **Fazlul Haq / Muslim Sufferings report (Dec 1939)**.
+- Jinnah asked Muslims to observe **22 December 1939** as **Day of Deliverance** after Congress resignations.
 - The two-year experience of actually running provincial government (1937–39) gave Congress valuable administrative experience and also exposed real Congress–League friction well before the 1940s.
 
 > ** note:** Ministries **formed 1937** after the provincial elections; they **resigned 1939** over the war. Eight provinces, not all eleven British Indian provinces.
@@ -155,12 +157,15 @@ D. 1, 4, 2, 3
 
 ## 14.4 Subhas Chandra Bose
 
+- Born **23 January 1897** at **Cuttack** (Odisha); Scottish Church College graduate; selected for **ICS (1920)** then quit. Title **Netaji** is keyed to the **Germany** phase.
+- **Rabindranath Tagore** called him **Desh Nayak**; Gandhi called him the **Patriot of Patriots**.
+- Political guru often keyed = **C.R. Das**.
 - He was Congress President at **Haripura 1938** and **Tripuri 1939**.
-- After the Gandhi–Bose clash he resigned.
-- **Rajendra Prasad** took the presidency.
-- He founded **Forward Bloc in 1939**. It is left-nationalist, not CSP.
-- He escaped Calcutta in **January 1941** as “Ziauddin”.
-- He went to Germany, then by submarine to South-East Asia in **1943**.
+- At **Tripuri** he defeated Gandhi’s candidate **Pattabhi Sitaramayya**; Working-Committee disputes forced his resignation, and **Rajendra Prasad** took the presidency.
+- He founded **Forward Bloc in 1939**. It is left-nationalist, not CSP. **Sheel Bhadra Yajee** joined him in founding the All India Forward Bloc and later worked with the INA stream.
+- He treated a Britain–Germany war as a **godsend** chance to strike for freedom.
+- He escaped Calcutta in **January 1941** as “Ziauddin” and reached **Germany**, where he set up the **Free India Centre** and raised the **Free Indian Legion** from Indian POWs (North Africa / Rommel theatre tag).
+- He then went by submarine to South-East Asia in **1943**.
 - He took over INA from the **Rash Behari Bose / Mohan Singh** stream.
 - He proclaimed **Azad Hind Government** on **21 October 1943** at **Singapore**.
 - His slogans include **“Give me blood and I will give you freedom”**, **Delhi Chalo**, and **Jai Hind**.
@@ -189,7 +194,9 @@ D. 1, 4, 2, 3
 - Britain declared India at war in **September 1939** without consulting Congress.
 - **Congress ministries resigned** in late 1939.
 - League observed **Deliverance Day**.
-- The League’s **Lahore session of 1940** passed the Pakistan resolution.
+- **Iqbal** floated a consolidated north-west Muslim homeland at the League’s **Allahabad session (1930)**. Cambridge student **Chaudhary Rahmat Ali** coined **Pakstan/Pakistan** in the **1933** pamphlet ***Now or Never***.
+- The League’s **Lahore session (22–24 March 1940)**, President **Jinnah**, passed the Pakistan resolution (draft often keyed to **Sikandar Hayat Khan**; moved by **Fazlul Haq**). **23 March 1943** was later marked **Pakistan Day**.
+- **Sarojini Naidu** had earlier called Jinnah **Ambassador of Hindu–Muslim Unity**. Iqbal’s line in Nehru’s telling: Nehru a patriot, Jinnah a politician.
 - **Ramgarh Congress** met in **March 1940**. **Azad** was President.
 - The **August Offer** came on **8 August 1940** under **Linlithgow**.
 - It offered to expand the Executive Council, a war advisory body, and dominion after the war.
@@ -240,7 +247,10 @@ D. 4, 2, 3, 1
 **Course**
 
 - Sir **Stafford Cripps** brought an offer in **March 1942**: **Dominion Status after the war**, a **Constituent Assembly**, and the right of any province to **opt out** of the Union. Immediate control of defence stayed with the British for the duration of the war.
-- Gandhi dismissed the offer as **"a post-dated cheque on a crashing bank."Result**
+- Gandhi dismissed the offer as **"a post-dated cheque on a crashing bank."**
+- **Jawaharlal Nehru** and **Maulana Azad** were Congress’s official negotiators with Cripps.
+
+**Result**
 
 - **Congress rejected** it: there was no immediate national government, and the opt-out clause threatened Indian unity.
 - The **League rejected** it too, since there was no express commitment to Pakistan.
@@ -260,6 +270,9 @@ D. 4, 2, 3, 1
 **Course**
 
 - The Congress Working Committee passed the "Quit India" resolution at Wardha in July, adopted by the AICC at Bombay on **8 August 1942**, with Gandhi's call of **"Do or Die."**
+- **Yusuf Meher Ali** is keyed with coining the slogan **Quit India**. Nehru moved the Bombay AICC resolution; Patel supported; Azad was Congress President (Ramgarh 1940 continuity).
+- Arrests under **Operation Zero Hour** (**9 August**): Gandhi and Sarojini Naidu to **Aga Khan Palace**; many Working Committee members to **Ahmednagar Fort**; Rajendra Prasad (not in Bombay) to **Bankipur (Patna)** jail.
+- American journalist **Louis Fischer** (Gandhi’s biographer) was with Gandhi in this season. **Linlithgow** called the rising the most serious since **1857**, citing peasant fury in eastern UP–Bihar.
 - All top leaders were arrested on **8–9 August**, so the movement ran **leaderless and underground**.
 - **Aruna Asaf Ali** hoisted the flag at Gowalia Tank; **Usha Mehta** ran **Congress Radio** from Bombay; **Matangini Hazra**, 73, was shot at Tamluk while carrying the flag; **Kanaklata Barua** fell at Gohpur in Assam.
 - Parallel governments rose at **Ballia** under **Chittu Pandey** in UP, at **Tamluk** in Midnapore, and as the **Satara Prati Sarkar** under **Nana Patil**; Talcher is another stock name.
@@ -301,9 +314,10 @@ D. Shanti Ghosh
 
 **Course**
 
-- The **first INA** was raised by **Mohan Singh** in **1942** with Japanese help, but it soon ran into a leadership crisis and was disbanded.
-- **Subhas Chandra Bose** arrived by submarine from Germany in **1943**, took over the Indian Independence League from Rash Behari Bose, and rebuilt the **second INA** at Singapore.
-- The **Provisional Government of Azad Hind** was proclaimed on **21 October 1943** at Singapore, with Bose as Head of State, Prime Minister and War Minister; Axis states recognised it, and captured Andaman and Nicobar islands were symbolically handed over and renamed **Shaheed** and **Swaraj**.
+- Idea-circle for the first INA is often keyed to **Giani Pritam Singh** and Japanese Major **Iwaichi Fujiwara**; **Capt. Mohan Singh** became the first operational commander (**15 July 1942** formation tag; first division **Sept 1942**). Leadership distrust with **Rash Behari Bose** later dissolved that first INA.
+- On **4 July 1943** Rash Behari Bose handed command to **Subhas Chandra Bose**, who rebuilt the force at **Singapore** (then British Malaya).
+- The **Provisional Government of Free India (Azad Hind)** was proclaimed on **21 October 1943** at Singapore (recognised by about **nine** Axis/friendly states in GC memory). Andaman and Nicobar were symbolically renamed **Shaheed** and **Swaraj**.
+- Famous appeal: **“Give me blood and I will give you freedom.”** **Jai Hind** was the INA salute that entered national usage.
 - The **Rani Jhansi Regiment**, the women's wing, was led by **Lakshmi Swaminathan (Sehgal)** — the **2023 Q45** answer.
 - The INA fought alongside Japan in the **Imphal–Kohima campaigns of 1944**.
 
@@ -342,9 +356,10 @@ D. Veerangana Regiment
 **First trio:Prem Kumar Sahgal, Shah Nawaz Khan, Gurbaksh Singh Dhillon** (Hindu–Muslim–Sikh)
 
 - They were tried for waging war against the King.
-- The defence included **Bhulabhai Desai**, **Tej Bahadur Sapru** and **Nehru**.
-- Mass protests and INA week followed. Ratings also unrested.
-- Sentences were remitted. The Raj won the court and lost the country.
+- Defence Committee led by **Bhulabhai Desai**, with **Tej Bahadur Sapru**, **K.N. Katju**, **Asaf Ali** and **Nehru**. **Patel** is the classic “not on the defence team” trap.
+- **Rashid Ali** drew a **seven-year** sentence in related proceedings; the famous trio faced transportation for life before remission.
+- **Azad Hind Fauj Week** **5–11 November 1945**; **Azad Hind Fauj Day** **12 November 1945**. Commander-in-Chief **Claude Auchinleck** remitted the heavy sentences under mass pressure.
+- **Mohan Singh** is **not** among the Red Fort trio defendants.
 - Do not place the trials at Gwalior, Amer or Agra.
 
 > ** note:** INA trials = **Red Fort**. Trio = Sahgal, Shah Nawaz, Dhillon.
@@ -437,7 +452,9 @@ D. V. P. Menon
 
 **Course**
 
-- Three British Cabinet ministers — **Pethick-Lawrence, Stafford Cripps, A.V. Alexander** — arrived in India in **March 1946** and issued their plan on **16 May 1946**.
+- Three British Cabinet ministers — **Pethick-Lawrence** (chair), **Stafford Cripps**, **A.V. Alexander** — arrived in India in **March 1946** and issued their plan on **16 May 1946**. **Wavell** was Viceroy, not a Cabinet Mission member.
+- The plan sketched a **three-tier** polity (Union / groups / provinces) and rejected a sovereign Pakistan as the starting point.
+- **Gandhi** called it the best document Britain could produce in the circumstances. Congress President during Mission talks = **Maulana Azad** (also the Cripps/Wavell negotiator tag).
 - It did **not** concede a sovereign Pakistan as a first principle. It proposed instead a **weak Centre** for defence, foreign affairs and communications, with provinces placed in **three groups**: **Group A** (Madras, Bombay, UP, Bihar, CP, Orissa), **Group B** (Punjab, NWFP, Sindh) and **Group C** (Bengal, Assam). There would be a Constituent Assembly and an interim government, and provinces could later reconsider their grouping.
 - The League first **accepted** the plan, then **withdrew on 29 July 1946** after Nehru's remarks appeared to deny the binding nature of the grouping scheme.
 
@@ -513,8 +530,9 @@ D. (A) is false, but (R) is true
 - The **UK Parliamentary Delegation** came in **January 1946** and sat at Delhi.
 - The **RIN Revolt** of **February 1946** (full card above) hit just before the Cabinet Mission's announcement.
 - Attlee **announced the Cabinet Mission on 19 February 1946**. The Mission arrived on **24 March**.
-- The **Interim Government** was announced on **24 August 1946** and took office on **2 September 1946**.
-- Nehru was Vice-President of the Executive Council. The League joined on **26 October**.
+- The **Interim Government** was announced on **24 August 1946** and took office on **2 September 1946**, headed by **Nehru** (Vice-President of the Executive Council / External Affairs).
+- Stock portfolios: **Rajendra Prasad** Food & Agriculture; **Patel** Home / princely; **Asaf Ali** Railways & Transport; **Jagjivan Ram** Labour; **Baldev Singh** Defence. **Ambedkar** and **Azad** were **not** in the first Interim Cabinet.
+- League joined on **26 October**; **Liaquat Ali Khan** took **Finance** (controversial budget). Direct Action Day (**16 August**) had already flared at Calcutta–Noakhali.
 - **Direct Action Day (16 August 1946)** and the communal violence that followed (full card above) hardened the drive toward Partition.
 - **Attlee's statement of 20 February 1947** promised transfer of power by **June 1948**.
 - **2024 Q16** order is Delegation, then RIN, then Cabinet Mission announcement, then Interim Government.
@@ -573,8 +591,9 @@ D. 2, 4, 1, 3
 
 **Course**
 
-- Mountbatten's Plan of **3 June 1947** provided that British India would be partitioned into **two dominions**; Punjab and Bengal would be **partitioned** if their assemblies so voted, NWFP would hold a referendum, and princely states were to accede to one dominion or the other, or in theory stand aside.
-- A Boundary Commission under **Radcliffe** was set up to draw the actual line. **V.P. Menon** drafted much of the plan; he is **not** the author of the C.R. Formula.
+- Mountbatten first toyed with a fragmented **“Balkan Plan”**, then settled the **3 June 1947** Plan: two dominions; Punjab/Bengal partition votes; NWFP/Sylhet referendums; states to choose accession.
+- A Boundary Commission under **Cyril Radcliffe** drew the line. **V.P. Menon** drafted much of the plan. Congress AICC accepted partition at Delhi (**14–15 June 1947**) under President **J.B. Kripalani**; resolution moved by **G.B. Pant**, seconded by **Azad**. **Khan Abdul Ghaffar Khan** voted against; **Saifuddin Kitchlew** called it surrender of nationalism to communalism.
+- Gandhi had urged Mountbatten to invite **Jinnah** to form the government as an alternative to partition — Congress leadership did not accept that line. At midnight **14/15 August**, **Sucheta Kripalani** sang *Jana Gana Mana* and *Sare Jahan Se Achha* in the Assembly.
 
 **Result**
 
@@ -825,6 +844,74 @@ D. 16 November, 1946
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Ministries, Pakistan Demand, Cripps, Quit India
+
+Teaching sits in **14.2, 14.6–14.8**.
+
+**Logic:** 1937 ministries / 28 months / resign Oct 1939 / Day of Deliverance 22 Dec 1939 / Pirpur–Sharif–Fazlul Haq reports; Iqbal 1930 / Rahmat Ali 1933 / Lahore League Mar 1940; Cripps Mar 1942 post-dated cheque / Nehru–Azad negotiators; QI 8–9 Aug 1942 / Do or Die / Yusuf Meher Ali / Operation Zero Hour / Louis Fischer / parallel governments.
+
+**Q1. UPPCS / IAS / BPSC**
+
+Congress ministries tenure / Deliverance Day date / Pakistan word coinage / League Lahore year / Cripps year–Gandhi’s phrase / Congress negotiators with Cripps / QI slogan author / Gandhi jail in QI / Linlithgow’s 1857 comparison?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** About **28 months**. Deliverance **22 Dec 1939**. Word **Rahmat Ali (1933)**. League Lahore **March 1940**. Cripps **1942**; **post-dated cheque**. Negotiators **Nehru and Azad**. Slogan coinage often **Yusuf Meher Ali**. Gandhi → **Aga Khan Palace**. Linlithgow: most serious since **1857**.
+
+</details>
+
+**Logic:** Tripuri Bose vs Pattabhi; Forward Bloc 1939; CSP 1934 JP / Narendra Dev (also Topic 12); Ballia–Tamluk–Satara parallels.
+
+**Q2. UPPCS / BPSC**
+
+Who did Bose defeat at Tripuri / who became Congress President after Bose resigned / Forward Bloc year / Ballia parallel leader / Satara parallel name?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Pattabhi Sitaramayya**. Next President **Rajendra Prasad**. Forward Bloc **1939**. Ballia **Chittu Pandey**. Satara **Prati Sarkar** (**Nana Patil** stream).
+
+</details>
+
+
+
+## Ghatnachakra Extra Drill — Bose, INA and Red Fort Trials
+
+Teaching sits in **14.4–14.5, 14.9–14.10**.
+
+**Logic:** Cuttack birth; Desh Nayak / Patriot of Patriots; Forward Bloc 1939; Free India Centre / Free Indian Legion; Fujiwara–Pritam idea, Mohan Singh first commander 1942; Rash Behari → Bose 4 July 1943; Azad Hind Govt 21 Oct 1943 Singapore; Give me blood / Jai Hind; Rani Jhansi; Shaheed–Swaraj; Red Fort trio; Bhulabhai lead counsel; Auchinleck remission.
+
+**Q1. UPPCS / IAS / BPSC**
+
+Bose birthplace / who called him Desh Nayak / Forward Bloc year / INA idea pair / first INA commander / date Bose took INA / Azad Hind Govt date–place / Red Fort trio / defence lead / who remitted sentences?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Cuttack**. **Tagore** = Desh Nayak. Forward Bloc **1939**. Idea often **Pritam Singh + Fujiwara**. First commander **Mohan Singh**. Bose took charge **4 July 1943**. Govt **21 Oct 1943, Singapore**. Trio **Sahgal, Shah Nawaz, Dhillon**. Defence lead **Bhulabhai Desai**. Remission under **Auchinleck** / mass pressure.
+
+</details>
+
+## Ghatnachakra Extra Drill — Cabinet Mission, Interim Government, Partition
+
+Teaching sits in **14.13, 14.15–14.19**.
+
+**Logic:** Mission members Pethick–Cripps–Alexander (not Wavell); three-tier / groups; rejected Pakistan start; Azad Congress President; Interim 2 Sep 1946 Nehru; Liaquat Finance; Direct Action 16 Aug; Mountbatten 3 June; Balkan Plan discarded; Kripalani AICC; Radcliffe; Sucheta midnight songs.
+
+**Q2. UPPCS / IAS / BPSC**
+
+Cabinet Mission chair / not a member / Interim took office date–head / Finance after League joined / Direct Action date / Mountbatten Plan date / Congress President at partition acceptance / Boundary Commission chair?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Chair **Pethick-Lawrence**. Not member = **Wavell** (or Simon/MacDonald traps). Interim **2 Sep 1946**, **Nehru**. Finance **Liaquat**. Direct Action **16 Aug 1946**. Plan **3 June 1947**. AICC President **J.B. Kripalani**. Boundary **Radcliffe**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1789,3 +1876,15 @@ D. Only 1
 13. **August Offer = Cripps** → Offer **1940**; Cripps **1942**.
 14. **Mountbatten Plan = Independence Act** → Plan **3 June**; Act **18 July**.
 15. **Usha Mehta = Rani Jhansi** → Mehta = **Congress Radio**; Jhansi = **Lakshmi Sehgal / INA**.
+16. **Deliverance Day = Independence Day** → League’s **22 December 1939** after Congress resignations.
+17. **Pakistan coined by Jinnah in 1940** → word **Rahmat Ali, 1933**; League demand crystallised at **Lahore 1940**.
+18. **Cripps = 1946** → **March 1942**; 1946 = Cabinet Mission.
+19. **Quit India slogan coined by Gandhi** → often keyed to **Yusuf Meher Ali**; Gandhi’s mantra = **Do or Die**.
+20. **Gandhi jailed at Ahmednagar Fort in QI** → **Aga Khan Palace**; Ahmednagar held many CWC members.
+21. **Pirpur Report = Cabinet Mission** → League grievance dossier on Congress provinces (**1938**).
+22. **Desh Nayak = Gandhi’s title for Bose** → **Tagore**; Gandhi = **Patriot of Patriots**.
+23. **INA founded by Bose in 1943 only** → first INA **Mohan Singh, 1942**; Bose rebuilds from **July 1943**.
+24. **Wavell was a Cabinet Mission member** → Mission = **Pethick-Lawrence, Cripps, Alexander**.
+25. **Azad was in the Interim Cabinet** → he was **not**; Nehru headed the Interim team.
+26. **Patel led INA defence at Red Fort** → lead counsel **Bhulabhai Desai**.
+27. **Indian Independence Act = 3 June 1947** → Plan **3 June**; Act royal assent **18 July**; freedom **15 August**.
