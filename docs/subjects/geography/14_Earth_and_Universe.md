@@ -261,7 +261,7 @@ Order from the Sun: **Mercury – Venus – Earth – Mars – Jupiter – Satur
 
 ### Planet desk (tilt · spin sense · moons · periods)
 
-Most planets **orbit and rotate prograde** (same sense as Earth’s west→east spin). **Venus** and **Uranus** are the classic **retrograde** rotators. Moon counts rise as new small moons are found — learn the stable coaching numbers and named moons first.
+Most planets **orbit and rotate prograde** (same sense as Earth’s west-to-east spin). **Venus** and **Uranus** are the classic **retrograde** rotators. Moon counts rise as new small moons are found — learn the stable coaching numbers and named moons first.
 
 | Planet | Axial tilt (approx.) | Rotation sense | Rotation (day) | Revolution (year) | Moons (coaching) | Must-score note |
 |--------|----------------------|----------------|----------------|-------------------|------------------|-----------------|
@@ -363,7 +363,7 @@ Heat zones run **torrid** between the tropics, **temperate** from each tropic to
 
 Learn the **full country sets** below. Partial name chains are not enough.
 
-**Equator (0°)** — 13 countries (west→east coaching order):
+**Equator (0°)** — 13 countries (west-to-east coaching order):
 
 Ecuador, Colombia, Brazil, São Tomé and Príncipe, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Somalia, Maldives, Indonesia, Kiribati.
 
@@ -1124,13 +1124,13 @@ The **Himalaya**, Alps, Andes and Rockies are classic young fold belts on conver
 
 Sandstone’s flaky / layered look comes from deposition (often under water / low basins), not from desert heat alone.
 
-**Must-score parent → metamorphic pairs**
+**Parent to metamorphic pairs**
 
 | Parent | Metamorphic product |
 |--------|---------------------|
 | Granite | **Gneiss** |
 | Basalt | Schist / amphibolite |
-| Shale | **Slate** → phyllite → schist (further grade) |
+| Shale | **Slate**, then phyllite, then schist at higher grade |
 | Limestone / chalk / dolomite | **Marble** |
 | Sandstone | **Quartzite** |
 | Conglomerate | Gneiss (listed in some GC sheets) |
