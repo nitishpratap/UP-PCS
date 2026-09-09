@@ -4,18 +4,18 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Independent State of Awadh | British East India Company: Arrival | Arrival of British Travellers | European Trading Companies | Portuguese | Dutch | English | French | Danish
+Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Nizam | Sawai Jai Singh | Independent State of Awadh | British East India Company: Arrival | Arrival of British Travellers | European Trading Companies | Portuguese | Dutch | English | French | Danish
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II–III*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — traveller order, Hawkins year, Aix-la-Chapelle (2020 Q18 / 2025 Q67), Awadh Nawabs + 1856
-> **Last verified:** August 2026
+> **Sources baked in:** NCERT *Themes in Indian History Part II–III*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025, Ghatnachakra Indian History (Later Mughals / successor states)
+> **Weight:** ★★★ — Later Mughals / Nadir 1739 / Sayyid brothers / Hyderabad / Jai Singh observatories; traveller order; Aix-la-Chapelle; Awadh Nawabs + 1856
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. Sea-power arrival order: **Portuguese 1498 → Dutch ~1605 → English Surat factory 1612 → Danish Tranquebar 1620 → French Pondicherry 1674**.
 2. Charter fact: **EIC 1600**, **VOC 1602**, **Danish 1616**, **French 1664** — the English charter comes **before** the Dutch.
@@ -43,6 +43,14 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 24. **Safdar Jung** also served as Mughal **Wazir**; **Serampore** is Danish, not French.
 25. Cause–course–result for Portuguese arrival: they sought a sea spice route, Gama reached Calicut, and Albuquerque's Goa made them a coastal maritime power.
 26. Cause–course–result for Awadh's end: Nawabi autonomy from 1722 weakened after Buxar, Dalhousie annexed the state in 1856, and Lucknow became a major **1857** centre.
+27. After **Aurangzeb (1707)**, **Bahadur Shah I (Muazzam / Shah Alam)** ruled **1707–1712**; Khafi Khan called him **Shahe Bekhabar**.
+28. **Jahandar Shah** rose with **Zulfiqar Khan** and was defeated and killed by nephew **Farrukh Siyar** in **1713**.
+29. **Farrukh Siyar’s 1717 farman** gave the English **duty-free trade in Bengal** for an annual lump sum of about **Rs 3,000**.
+30. **Sayyid brothers** (**Abdullah** and **Hussain Ali**) were the later-Mughal **king-makers** (**1713–1720**).
+31. **Muhammad Shah Rangeela (1719–1748)** was the last emperor to sit on the **Peacock Throne**; **Nadir Shah** defeated him at **Karnal (1739)** and took the throne and **Kohinoor**.
+32. **Chin Qilich Khan (Nizam-ul-Mulk Asaf Jah)** founded independent **Hyderabad** after defeating **Mubariz Khan** at **Shakar Kheda (1724)**.
+33. **Sawai Jai Singh II** built **Jantar Mantar** observatories at **Delhi, Jaipur, Ujjain, Mathura, and Varanasi** (not Allahabad) and prepared **Zij Muhammad Shahi**.
+34. Last Mughal **Bahadur Shah Zafar** (son of **Akbar II**) was an emperor without an empire; teachers include **Zauq** and **Ghalib**; spiritual guide **Hasan Askari**.
 
 ---
 
@@ -59,6 +67,11 @@ Independent State of Awadh | British East India Company: Arrival | Arrival of Br
 | Surat vs Madras vs Calcutta | 1612 / 1640 / ~1698 | सूरत / मद्रास / कलकत्ता |
 | Aix-la-Chapelle vs Paris | 1748 1st Carnatic vs 1763 Seven Years’ War | 1748 / 1763 |
 | Dupleix vs Clive | French Carnatic vs English Arcot/Plassey | डुप्ले / क्लाइव |
+| Bahadur Shah I vs Zafar | 1707 successor of Aurangzeb vs last Mughal 1837–57 | बहादुर शाह I / ज़फ़र |
+| Rangeela vs Farrukh Siyar | Muhammad Shah (Peacock Throne / Nadir) vs 1717 Bengal farman | रंगीला / फ़र्रुख़ |
+| Sayyid brothers vs Zulfiqar Khan | King-makers vs Jahandar’s kingmaker | सैय्यद / ज़ुल्फ़िक़ार |
+| Nizam vs Saadat Khan | Hyderabad 1724 vs Awadh 1722 | निज़ाम / सआदत |
+| Jai Singh observatories | Five cities including Mathura; not Allahabad | जय सिंह |
 | Saadat Khan vs Murshid Quli | Awadh 1722 vs Bengal Nawabi | सआदत / मुर्शिद क़ुली |
 | Fitch vs Bernier | English 1580s vs French Aurangzeb court | फिच / बर्नियर |
 | 1608 vs 1611 | Hawkins arrives vs trap year on 2023 Q31 | 1608 / 1611 |
@@ -228,11 +241,79 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 ---
 
-## 12.8 Independent State of Awadh
+
+## 12.8 Later Mughals and successor states
+
+**After Aurangzeb (1707)** | Weak centre | Rise of Awadh, Bengal, Hyderabad, Marathas
+
+### Later Mughal spine
+
+- **Bahadur Shah I** (**Muazzam / Shah Alam**) succeeded Aurangzeb and ruled **1707–1712**.
+- Contemporary writer **Khafi Khan** called him **Shahe Bekhabar**.
+- **Jahandar Shah (1712–1713)** rose with the help of **Zulfiqar Khan**.
+- He was defeated and killed by his nephew **Farrukh Siyar** in **1713**.
+- **Farrukh Siyar (1713–1719)** issued the **1717 farman** granting the English **duty-free trade in Bengal** against a fixed annual payment of about **Rs 3,000**.
+- The **Sayyid brothers** — **Abdullah Khan** and **Hussain Ali Khan** — were the powerful **king-makers** of this phase.
+- They raised and removed emperors until they themselves fell under **Muhammad Shah**.
+- **Muhammad Shah (1719–1748)**, nicknamed **Rangeela**, spent little energy on serious administration.
+- He was the **last Mughal emperor to sit on the Peacock Throne (Takht-i-Taus)** built under Shah Jahan.
+- A clique of eunuchs and ladies is said to have dominated his court politics.
+
+### Nadir Shah (1739) — Cause, Course, Result
+
+**Cause:** Mughal central power had collapsed into faction and unpaid frontiers; **Nadir Shah** of Iran saw Delhi as rich and weak.
+**Course:** He defeated the Mughals at the **Battle of Karnal (1739)** and then sacked **Delhi**.
+**Result:** He carried away immense treasure, including the **Peacock Throne** and the **Kohinoor**. Historian **Anand Ram Mukhlis** describes the huge booty taken to Iran. The invasion accelerated later-Mughal decline and regional autonomy.
+
+### Later emperors (quick line)
+
+- **Ahmad Shah (1748–1754)** and **Alamgir II (1754–1759)** followed the Rangeela phase.
+- **Shah Alam II (1759–1806)**, earlier **Ali Gauhar**, reached Delhi with Maratha help in **1772**.
+- Wazir **Ghaziuddin** kept him from easy control of Delhi for a time.
+- The English captured **Delhi in 1803** during his reign.
+- **Akbar II (1806–1837)** was followed by **Bahadur Shah Zafar / Bahadur Shah II (1837–1857)**.
+- Zafar is remembered as an **emperor without an empire**, a British pensioner at the Red Fort.
+- **Ibrahim Zauq** and **Asadullah Khan Ghalib** taught him poetry.
+- **Hasan Askari** was his spiritual guide.
+- He received about **Rs 1 lakh per month** as Company pension (plus other grants), so the claim that he received **less than one lakh** is false.
+
+### Hyderabad
+
+- **Chin Qilich Khan**, titled **Nizam-ul-Mulk Asaf Jah**, founded the independent kingdom of **Hyderabad**.
+- He defeated Mughal governor **Mubariz Khan** at **Shakar Kheda (Sakhar-Kherda) in 1724**.
+- **Kilich Khan** is **not** the same person as **Mubariz Khan**.
+- The emperor **Muhammad Shah** conferred the **Asaf Jah** title.
+- The **Nizamat of Arcot** was a legal dependency of the Nizam’s sphere, but it did **not** simply “emerge out of” Hyderabad state as a breakaway in the loose sense used in some distractors.
+- **Mysore** under the **Wodeyars** grew from a **Vijayanagara** vassal background — that statement is the safe one in the IAS 2021 triad.
+
+### Rohilkhand note
+
+- **Ali Muhammad Khan** built **Rohilkhand** power after the chaos following **Nadir Shah’s 1739** invasion.
+- Do **not** say Rohilkhand was simply carved from territories occupied by **Ahmad Shah Durrani** (whose Indian invasions start later, from **1748**).
+
+### Sawai Jai Singh II (Amber / Jaipur)
+
+- **Sawai Jai Singh II (Jai Singh II, 1688–1743)** founded **Jaipur** as a centre of science and art.
+- He built well-equipped observatories (**Jantar Mantar**) at **Delhi, Jaipur, Ujjain, Mathura, and Varanasi**.
+- He did **not** build one at **Allahabad**.
+- He prepared astronomical tables known as **Zij Muhammad Shahi**.
+- He had **Euclid’s Geometry** rendered into **Sanskrit**.
+- He performed **Ashvamedha** sacrifices during his reign.
+
+### Awadh bridge
+
+- **Saadat Khan Burhan-ul-Mulk** founded autonomous **Awadh** in **1722** under **Muhammad Shah**.
+- He sided with Muhammad Shah against the **Sayyid brothers** and received the **Burhan-ul-Mulk** title.
+- Full Nawabi teaching continues in the next section.
+
+---
+
+## 12.9 Independent State of Awadh
 
 **Mughal subah** | Hereditary Nawabi from **1722** | Core **Lucknow / Faizabad** | UP heartland
 
 - **Saadat Khan Burhan-ul-Mulk** founded the line in **1722**.
+- He took part in the conspiracy against the **Sayyid brothers** and received the title **Burhan-ul-Mulk** from **Muhammad Shah**.
 - He is **not** the Bengal Nawab. Bengal’s autonomous line starts with **Murshid Quli Khan**.
 - **Safdar Jung** (1739–1754) also served as Mughal **Wazir**.
 - **Shuja-ud-Daula** (1754–1775) stood with **Abdali at Panipat III (1761)**.
@@ -376,6 +457,228 @@ D. 1, 3, 2, 4
 </details>
 
 ---
+
+## Ghatnachakra Extra Drill — Disintegration of the Mughal Empire
+
+Teaching for these stems sits in **12.8–12.9**.
+
+**Logic:** Aurangzeb’s successor = Bahadur Shah I (Muazzam).
+
+**Q1. UPPCS (Mains) 2012**
+
+Who succeeded Aurangzeb after his death in 1707?
+
+A. Bahadur Shah-I
+
+B. Jahandar Shah
+
+C. Muhammad Shah
+
+D. Akbar-II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Muazzam** took the title **Bahadur Shah I** (**1707–1712**).
+
+</details>
+
+**Logic:** Jahandar’s end = defeat by nephew Farrukh Siyar.
+
+**Q2. IAS (Pre) 2003**
+
+How did Jahandar Shah’s reign come to an early end?
+
+A. Deposed by his Wazir
+
+B. Died due to a slip on steps
+
+C. Defeated by his nephew in a battle
+
+D. Died of sickness from wine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Defeated and killed by **Farrukh Siyar** (**1713**), after rising with **Zulfiqar Khan**.
+
+</details>
+
+**Logic:** 1717 Bengal duty-free farman = Farrukh Siyar.
+
+**Q3. UPPSC (GIC) 2010**
+
+Which Mughal emperor granted duty-free trading facilities to the English in Bengal?
+
+A. Akbar
+
+B. Jahangir
+
+C. Bahadur Shah
+
+D. Farrukh Siyar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **1717 farman**; annual lump sum about **Rs 3,000**.
+
+</details>
+
+**Logic:** King-makers = Sayyid brothers Abdullah and Hussain Ali.
+
+**Q4. UP R.O./A.R.O. (Mains) 2017**
+
+Who were the king-makers during the later Mughal period?
+
+A. Hussain Ali and Abdullah
+
+B. Nasir Khan and Jakariya Khan
+
+C. Shah Hussain and Abdul Hussain
+
+D. Muhammad Zaman and Muhammad Junaidi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The **Sayyid brothers**.
+
+</details>
+
+**Logic:** Last on Peacock Throne = Muhammad Shah; Nadir invasion year 1739.
+
+**Q5. BPSC / UPPCS Spl Mains / MPPCS 2023**
+
+Last emperor on Mayur Singhasan / emperor at Nadir’s attack / year of Nadir’s invasion?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Muhammad Shah Rangeela**; invasion **1739**; battle **Karnal**, then Delhi sack.
+
+</details>
+
+**Logic:** Eunuchs/ladies dominate under Muhammad Shah; Rangeela nickname.
+
+**Q6. UPPCS (Mains) 2004 / MPPCS 2014**
+
+A group of eunuchs and ladies dominated government under / who is called Rangeela?
+
+A. Ahmad Shah / Farrukh Siyar
+
+B. Alamgir / Rafi-ud-Darajat
+
+C. Shah Alam II / Rafi-ud-Daula
+
+D. Muhammad Shah (1719–48) / Muhammad Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Muhammad Shah Rangeela**.
+
+</details>
+
+**Logic:** Chronology drills for later Mughals.
+
+**Q7. UPPCS (Pre) 2018 / UP R.O./A.R.O. (Pre) 2023**
+
+Arrange: Jahandar / Muhammad Shah / Ahmad Shah / Alamgir II — and Bahadur Shah → Jahandar → Farrukhsiyar → Muhammad Shah.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Jahandar Shah → Muhammad Shah → Ahmad Shah → Alamgir II**. Full early line: **Bahadur Shah I → Jahandar → Farrukhsiyar → Muhammad Shah**.
+
+</details>
+
+**Logic:** Ghaziuddin barred Shah Alam II from Delhi (for a phase).
+
+**Q8. BPSC (Pre) 2000**
+
+Which Mughal emperor was not allowed to enter Delhi by Wazir Ghaziuddin?
+
+A. Alamgir-II
+
+B. Shah Alam-II
+
+C. Akbar-II
+
+D. Bahadur Shah-II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Shah Alam II (Ali Gauhar)**.
+
+</details>
+
+**Logic:** Last Mughal = Zafar; father Akbar II; pension not “less than one lakh”.
+
+**Q9. UPPCS (Pre) 2005 / MPPCS / UPPCS (Mains) 2006**
+
+Last Mughal emperor / father’s name / which statement about Zafar is NOT correct?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Last emperor **Bahadur Shah Zafar**; father **Akbar II**. The false statement is that he received **less than one lakh** as Company pension — he received about **one lakh per month**.
+
+</details>
+
+**Logic:** First Nawab of Awadh = Saadat Khan; both statements on Burhan-ul-Mulk true.
+
+**Q10. UPPCS Spl Mains 2008 / UP R.O./A.R.O. (Pre) 2023**
+
+First Nawab of Oudh / Saadat Khan statements (founder of Awadh; conspiracy vs Sayyids)?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Saadat Khan**. Both statements are correct — founder of autonomous Awadh and participant against the Sayyid brothers.
+
+</details>
+
+**Logic:** Hyderabad founder = Chin Qilich Khan; Kilich ≠ Mubariz; Asaf Jah from Muhammad Shah.
+
+**Q11. UPPCS (Mains) 2011 / Chhattisgarh PCS 2022**
+
+Founder of independent Hyderabad / which statements about Kilich–Mubariz–Asaf Jah are untrue?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Founder **Chin Qilich Khan (Nizam-ul-Mulk)**. He defeated **Mubariz Khan** at **Shakar Kheda (1724)**. **Kilich Khan is not Mubariz Khan**; **Asaf Jah** title came from **Muhammad Shah**, not Zulfiqar Khan.
+
+</details>
+
+**Logic:** IAS 2021 — only Mysore from Vijayanagara vassalage is correct.
+
+**Q12. IAS (Pre) 2021**
+
+1 Arcot emerged out of Hyderabad 2 Mysore emerged out of Vijayanagara 3 Rohilkhand from Durrani territories
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (2 only).** Arcot was a dependency of the Nizam’s legal sphere, not a simple Hyderabad breakaway in that sense. Rohilkhand rose after **Nadir 1739** chaos under **Ali Muhammad Khan**, not from Durrani occupation.
+
+</details>
+
+**Logic:** Jai Singh II observatories — five cities; not Allahabad; Zij Muhammad Shahi.
+
+**Q13. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
+
+Who built Jantar Mantar in Delhi / where did Jai Singh build observatories / Zij Muhammad Shahi author?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Sawai Jai Singh II**. Observatories at **Delhi, Jaipur, Ujjain, Mathura, Varanasi** — **not Allahabad**. Astronomical tables **Zij Muhammad Shahi**.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1111,6 +1414,14 @@ D. True only for Fitch
 ---
 
 ## Common Traps — Don't Fall For These
+
+20. **Bahadur Shah I (1707)** ≠ **Bahadur Shah Zafar (1837–57)**.
+21. **1717 farman** = **Farrukh Siyar**, not Akbar or Jahangir.
+22. **Peacock Throne / Nadir 1739** = **Muhammad Shah Rangeela**.
+23. **Sayyid brothers** = king-makers; **Zulfiqar Khan** backed **Jahandar** only.
+24. **Chin Qilich / Nizam** ≠ **Mubariz Khan**; **Asaf Jah** from **Muhammad Shah**.
+25. Jai Singh observatories exclude **Allahabad**; include **Mathura**.
+26. Zafar’s pension was about **one lakh/month**, not “less than one lakh”.
 
 1. **William Hawkins** did not arrive in **1611**. He reached India in **1608** (2023 Q31 = B).
 2. **Sir Thomas Roe** did not come in **1608**. He served as ambassador in **1615–19**.

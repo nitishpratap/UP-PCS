@@ -8,43 +8,45 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, **Ghatnachakra** Mughal/Babur–Akbar chapters, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — battle chronology, tombs, A/R (Babur language, Buland Darwaza), Mansabdari, Bairam Khan title, Abul Fazl deaths, Aurangzeb succession
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
-1. **Babur** founded the Mughal empire after defeating **Ibrahim Lodi** at the **First Battle of Panipat** on **20 April 1526**, using **Tulughma** flanking and **Araba** cart-forts.
+1. **Babur** founded the Mughal empire after defeating **Ibrahim Lodi** at the **First Battle of Panipat** on **21 April 1526** (GC; also cited as 20 April), using **Tulughma** flanking and **Araba** cart-forts.
 2. At **Khanwa in 1527**, Babur defeated **Rana Sanga**'s Rajput confederacy; **Chanderi 1528** and **Ghagra 1529** followed against Medini Rai and eastern Afghans.
 3. **Baburnama** (Tuzk-e-Babri) was written in **Chagatai Turki**, not Persian; the Mughal **court language** was **Persian**.
-4. Tomb fact: **Babur–Kabul**, **Humayun–Delhi**, **Jahangir–Lahore**, and **Shah Jahan–Agra**.
-5. Humayun lost **Chausa in 1539** and **Kannauj/Bilgram in 1540** to Sher Shah, returned in **1555**, and died in **1556**.
-6. **Daurah (1532)** was Humayun versus Afghan chiefs; do not confuse it with **Dharmat (April 1658)**, Aurangzeb versus Jaswant Singh.
-7. Battle chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
-8. At the **Second Battle of Panipat on 5 November 1556**, Akbar and **Bairam Khan** defeated **Hemu** and secured the throne.
-9. **Bairam Khan** received the title **Khan-i-Khana** from **Humayun**, not from Akbar.
-10. Akbar's **mansabdari** used dual ranks **zat** and **sawar**; the system was **not hereditary**.
-11. **Todar Mal**'s **zabt** measured land for a cash demand; **dahsala (1580–81)** used a **10-year average** of yield and price.
-12. Akbar continued Sher Shah's coinage: silver **rupiya**, copper **dam** (about **1/40** of a rupiya), and gold **mohur**.
-13. **Buland Darwaza** at Fatehpur Sikri commemorates the **Gujarat victory of 1572**, not Jahangir's birth.
-14. Akbar made **Fatehpur Sikri** capital about **1571–85** and built **Allahabad/Ilahabad fort in 1583**.
-15. **Sulh-i-Kul** was Akbar's universal peace policy; **Din-i-Ilahi (1582)** remained only a small court circle.
-16. Akbar abolished **jizya in 1564**; Aurangzeb **reimposed** it in **1679**.
-17. Court death order: **Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl murdered 1602 → Daniyal 1604**.
-18. **Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari*; **Abdur Rahim Khan-i-Khana** translated Baburnama into Persian.
-19. **William Hawkins** reached Jahangir in **1608** speaking Turkish; **Sir Thomas Roe** stayed at court **1615–19**.
-20. Shah Jahan's **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**.
-21. **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**.
-22. Aurangzeb succession order: **Shuja beaten near Banaras → Dharmat April 1658 → Samugarh May 1658 → Deorai 1659**.
-23. Aurangzeb annexed **Bijapur in 1686** and **Golkonda in 1687**; the last Qutb Shah was **Abul Hasan Qutb Shah**.
-24. **Jajau in 1707** came after Aurangzeb's death, when Bahadur Shah I defeated Azam Shah.
-25. Akbar organised about **12 subahs**; under Aurangzeb the empire reached about **21 subahs**.
-26. **Hamida Banu** was Humayun's wife; **Gulbadan** wrote *Humayunnama*.
-27. **Dara Shikoh** wrote *Majma-ul-Bahrain* and *Sirr-i-Akbar*; Aurangzeb had him killed in **1659**.
-28. Later chronology: **Nadir Shah sacked Delhi in 1739**; the last Mughal was **Bahadur Shah II** during **1857**.
+4. The Mughals were **Chagatai** Turks (from **Chinggis Khan's second son**); Babur took **Padshah** at **Kabul (1504)**, not only after Panipat.
+5. **Alam Khan** was Ibrahim Lodi's uncle and a throne pretender; **Daulat Khan**, **Dilawar Khan**, and **Rana Sanga** also invited Babur.
+6. Tomb fact: **Babur–Kabul**, **Humayun–Delhi**, **Jahangir–Lahore**, and **Shah Jahan–Agra**.
+7. Humayun lost **Chausa in 1539** and **Kannauj/Bilgram in 1540** to Sher Shah, returned in **1555**, and died in **1556**.
+8. **Daurah (1532)** was Humayun versus Afghan chiefs; do not confuse it with **Dharmat (April 1658)**, Aurangzeb versus Jaswant Singh.
+9. Battle chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
+10. At the **Second Battle of Panipat on 5 November 1556**, Akbar and **Bairam Khan** defeated **Hemu** and secured the throne.
+11. **Bairam Khan** received the title **Khan-i-Khana** from **Akbar** — **UPPCS Prelims 2024 Q4** answer **C (Only 1)**; statement 2 in that stem is false.
+12. Akbar's **mansabdari** used dual ranks **zat** and **sawar**; the system was **not hereditary**.
+13. **Todar Mal**'s **zabt** measured land for a cash demand; **dahsala (1580–81)** used a **10-year average** of yield and price.
+14. Akbar continued Sher Shah's coinage: silver **rupiya**, copper **dam** (about **1/40** of a rupiya), and gold **mohur**.
+15. **Buland Darwaza** at Fatehpur Sikri commemorates the **Gujarat victory of 1572**, not Jahangir's birth.
+16. Akbar made **Fatehpur Sikri** capital about **1571–85** and built **Allahabad/Ilahabad fort in 1583**.
+17. **Sulh-i-Kul** was Akbar's universal peace policy; **Din-i-Ilahi (1582)** remained only a small court circle.
+18. Akbar abolished **jizya in 1564**; Aurangzeb **reimposed** it in **1679**.
+19. Court death order (**UPPCS 2024 Q132**, answer **C (2-3-1-4)**): **Sheikh Mubarak 1593 → Faizi 1595 → Abul Fazl murdered 1602 → Daniyal 1605**.
+20. **Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari*; **Abdur Rahim Khan-i-Khana** translated Baburnama into Persian.
+21. **William Hawkins** reached Jahangir in **1608** speaking Turkish; **Sir Thomas Roe** stayed at court **1615–19**.
+22. Shah Jahan's **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**.
+23. **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**.
+24. Aurangzeb succession order: **Shuja beaten near Banaras → Dharmat April 1658 → Samugarh May 1658 → Deorai 1659**.
+25. Aurangzeb annexed **Bijapur in 1686** and **Golkonda in 1687**; the last Qutb Shah was **Abul Hasan Qutb Shah**.
+26. **Jajau in 1707** came after Aurangzeb's death, when Bahadur Shah I defeated Azam Shah.
+27. Akbar organised about **12 subahs**; under Aurangzeb the empire reached about **21 subahs**.
+28. **Hamida Banu** was Humayun's wife; **Gulbadan** wrote *Humayunnama*.
+29. **Dara Shikoh** wrote *Majma-ul-Bahrain* and *Sirr-i-Akbar*; Aurangzeb had him killed in **1659**.
+30. Later chronology: **Nadir Shah sacked Delhi in 1739**; the last Mughal was **Bahadur Shah II** during **1857**.
 
 ---
 
@@ -62,25 +64,37 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 | Sulh-i-Kul vs Din-i-Ilahi | Universal peace policy vs 1582 small court cult | सुलह-ए-कुल / दीन-ए-इलाही |
 | Akbarnama vs Ain-i-Akbari | Narrative history vs admin gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
 | Buland Darwaza vs Panch Mahal | Gujarat victory gate vs five-storey palace at Sikri | बुलंद दरवाज़ा / पंच महल |
-| Bairam Khan vs Rahim | Regent; Khan-i-Khana from Humayun vs son, Hindi poet | बैरम खान / रहीम |
+| Padshah at Kabul vs after Panipat | **1504 Kabul** title vs **27 April 1526** Indian empire proclamation | काबुल पादशाह / पानीपत |
+| Chagatai vs Timurid claim | Ethnic **Chagatai Turk** line vs **Timur** descent for legitimacy | चगताई / तैमूर |
+| Alam Khan vs Daulat Khan | Ibrahim's **uncle**/pretender vs Punjab governor invite | आलम खान / दौलत खान |
+| Bairam Khan vs Rahim | Regent; **Khan-i-Khana from Akbar** (2024 Q4 **C**) vs son, Hindi poet | बैरम खान / रहीम |
 | Dara vs Aurangzeb | Scholar, syncretic; orthodox, won 1658 | दारा / औरंगज़ेब |
 
 ---
 
 ## 7.1 Babur — Foundation & Literature
 
-**Zahiruddin Muhammad Babur** | 1526–1530 | Timurid (Timur + Chinggis claim) | Base **Kabul 1504**
+**Zahiruddin Muhammad Babur** | 1526–1530 | **Chagatai Turk** / Timurid (Timur + Chinggis claim) | Base **Kabul 1504**
 
-- Babur was born in **1483** at Ferghana. He lost Samarkand, and **Kabul in 1504** became his base for the Indian campaign.
-- **Daulat Khan Lodi** and **Rana Sanga** separately invited him against **Ibrahim Lodi**, but Babur pursued his own empire.
-- At the **First Battle of Panipat on 20 April 1526**, Babur’s roughly **12,000** men faced Ibrahim Lodi’s larger army. He used **Tulughma** flanking tactics, **Araba** cart-fortifications, and gunpowder. **Ibrahim Lodi was killed**, ending the Delhi Sultanate.
-- Babur occupied **Delhi and Agra** and took the title **Padshah**.
-- At **Khanwa on 16 March 1527**, he defeated **Rana Sanga** and the Mahmud Lodi confederacy. Babur framed the fight as **jihad** after the traditional wine-cup oath.
+- The Mughals were **Chagatai Turks** — from the line of **Chinggis Khan's second son** — with **Timurid** descent through Babur.
+- Babur's full name was **Zahiruddin Muhammad Babur**. His father was **Umar Shaikh Mirza** and his mother **Qutlugh Nigar Khanum**.
+- Babur was born in **1483** at **Ferghana**. He took the throne of Ferghana in **1494** as a minor and lost Samarkand repeatedly.
+- **Shaybani Khan** defeated Babur at **Sar-e-Pul (1501)** using **Tulughma** — Babur later reused the same tactic in India.
+- **Kabul in 1504** became his base. There Babur dropped the ancestral **Mirza** style and first took **Padshah** — before the Indian empire proclamation after **Panipat (27 April 1526)**.
+- **Alam Khan** was Ibrahim Lodi's uncle and a Delhi throne pretender. **Daulat Khan Lodi** and **Dilawar Khan** invited Babur from Punjab. **Rana Sanga** also invited him separately. Babur pursued his own empire.
+- At the **First Battle of Panipat on 21 April 1526** (GC; also **20 April** in many texts), Babur's roughly **12,000** men faced Ibrahim Lodi's larger army. He used **Tulughma**, **Araba** cart-fortifications, and gunpowder under **Ustad Ali Quli** and gunner **Mustafa** in Ottoman/Rumi style. **Cannons were used decisively for the first time in India at Panipat I** (Bajaur **1519** is an earlier gun mention). **Ibrahim Lodi was killed**, ending the Delhi Sultanate.
+- Babur occupied **Delhi and Agra** and declared the Indian Mughal empire **27 April 1526**.
+- At **Khanwa on 16 March 1527**, he defeated **Rana Sanga** and the Mahmud Lodi confederacy. Babur broke the wine-cup, framed the fight as **jihad**, and took the title **Ghazi**.
 - At **Chanderi in 1528**, Babur defeated **Medini Rai**.
-- At **Ghagra in 1529**, he crushed Afghan remnants allied with Bengal’s **Nusrat Shah**.
-- Babur died on **26 December 1530** at Agra. He was first buried there, then moved to **Bagh-e-Babur, Kabul** — the tomb city in **UPPCS Prelims 2025 Q57**.
-- **Baburnama** (also called **Tuzk-e-Babri**) is his autobiography in **Chagatai Turki**, covering flora, fauna, battles, and wine. In **UPPCS Prelims 2025 Q3**, Assertion A (Babur wrote it in Turki) is true, but Reason R (Turki was the Mughal court language) is false because the court language was **Persian**; the answer is **C**.
+- At **Ghagra in 1529**, he crushed Afghan remnants allied with Bengal's **Nusrat Shah**.
+- Babur's early Indian empire ran **Kabul–Punjab–modern UP**; it did **not** include **Rajasthan**.
+- Babur was called **Qalandar** for his generosity.
+- **Baburnama** (Turki) is his classic memoir. He also wrote a ***Diwan***, ***Mubaiyan*** (Muslim law), and ***Risala-i-Usaj / Khat-i-Baburi***.
+- The **Baburnama** mentions Hindu states **Vijayanagara** and **Mewar** among Indian powers he heard about.
 - **Abdur Rahim Khan-i-Khanan** later translated the Baburnama into Persian.
+- **Mir Baqi**, a commandant under Babur, built the **Babri Masjid** at Ayodhya — a sensitive UP fact to state carefully.
+- Babur died on **26 December 1530** at Agra. He was first buried there, then moved to **Bagh-e-Babur, Kabul** — the tomb city in **UPPCS Prelims 2025 Q57**.
+- In **UPPCS Prelims 2025 Q3**, Assertion A (Babur wrote Baburnama in Turki) is true, but Reason R (Turki was the Mughal court language) is false because the court language was **Persian**; the answer is **C**.
 - Babur’s early land assignments were **iqta-like**. The full **mansabdari** system belongs to **Akbar**, not Babur.
 
 > ** note:** Establishment year = **1526 Panipat**, not Khanwa 1527.
@@ -114,7 +128,7 @@ D. Both true, R explains A
 ---
 
 ## 7.2 Major Battles — Master Chronology
-### First Battle of Panipat (20 April 1526) — Cause, Course, Result
+### First Battle of Panipat (21 April 1526 GC) — Cause, Course, Result
 
 **Cause:** Babur claimed the Delhi throne against **Ibrahim Lodi**, whose Afghan nobles were divided.
 **Course:** Babur's smaller army used **Tulughma** flanking tactics, **Araba** cart-fortifications, and gunpowder against Lodi's massed infantry and elephants.
@@ -189,16 +203,18 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 ## 7.3 Humayun
 
-**1530–1540, restored 1555–1556** | Wife **Hamida Banu** | Sister **Gulbadan** (*Humayunnama*)
+**1530–1540, restored 1555–1556** | Wife **Hamida Banu** | Sister **Gulbadan** (*Humayunnama*) | Brothers **Kamran, Askari, Hindal**
 
+- Humayun's brothers **Kamran**, **Askari**, and **Hindal** (not Usman) divided the empire and weakened unity. **Kamran** held Lahore and Multan.
+- Humayun's four key battles in order: **Daurah/Devara (1532)** → **Chausa (1539)** → **Kannauj/Bilgram (1540)** → **Sirhind (22 June 1555)** on return.
 - Humayun won an early victory at **Daurah in 1532** against Afghan chiefs in Bihar. This battle came **before Chausa** and must not be confused with **Dharmat (1658)**.
 - He lost **Chausa on 26 June 1539** and escaped across the Ganga.
 - He lost **Kannauj/Bilgram on 17 May 1540** to **Sher Shah**, beginning his exile.
-- Humayun remained in exile from **1540 to 1555**. **Safavid** Shah Tahmasp helped his return, and he recaptured **Delhi and Agra in 1555**.
+- Humayun remained in exile from **1540 to 1555**. **Safavid** Shah Tahmasp helped his return. He won **Sirhind on 22 June 1555** and recaptured **Delhi and Agra**.
 - Humayun died in **January 1556** (tradition: fell on the stairs of the Dinpanah library).
-- His tomb at **Delhi** was built in Akbar’s reign by **Mirak Mirza Ghiyas**. It became the garden-tomb prototype for the Taj Mahal.
+- **Haji Begum (Bega Begum)** built **Humayun’s Tomb** at Delhi — the first **double-dome** Mughal mausoleum. Architect **Mirak Mirza Ghiyas** designed it in Akbar’s reign. It became the garden-tomb prototype for the Taj Mahal.
 - **Hamida Banu** was Humayun’s wife. **Gulbadan** was his sister and author of *Humayunnama*. The **UPPCS Prelims 2019 Q16** pair matching them is **correct**.
-- **Bairam Khan** served Humayun. Humayun, not Akbar, gave him the title **Khan-i-Khana** — the fact in **UPPCS Prelims 2024 Q4**, answer **D**.
+- **Bairam Khan** was regent for minor Akbar. **Akbar** gave him the title **Khan-i-Khana** — **UPPCS Prelims 2024 Q4**, answer **C (Only 1)**; statement 2 is false.
 - **UPPCS Prelims 2023 Q34** tests family pairs: **Hamida Banu** was Humayun’s wife, **not** Alauddin Khalji’s.
 
 ---
@@ -245,6 +261,12 @@ D. A false, R true
 - **Dagh** meant horse branding. **Chehra** was the descriptive roll of troopers.
 - Jahangir introduced **du-aspah sih-aspah**, an extra horse obligation tied to the sawar rank.
 - The highest common noble ceiling was about **7000 zat** (the Man Singh class). Princes held higher ranks.
+- A **sarkar** functioned as a **district**-level unit under the suba.
+- **Ahadis** were the emperor's own disciplined troopers outside mansab rolls.
+- The **muhtasib** was the censor of public morals and market weights.
+- **Madad-i-Mash** were revenue grants to religious scholars.
+- **Jahangir** banned **tobacco**; **Akbar** issued **Ram-Siya** coins pairing Ram and Siya names.
+
 
 ---
 
@@ -357,8 +379,18 @@ D. Both true, R explains A
 
 ## 7.8 Akbar — Expansion, Rajput Policy, Religion
 
-**Reign 1556–1605** | Accession as minor; **Bairam Khan** regent till ~1560 (Second Battle of Panipat under Bairam)
+**Reign 1556–1605** | Born **Amarkot 15 Oct 1542** | Coronation **Kalanaur (Gurdaspur) 14 Feb 1556** | **Bairam Khan** regent till ~1560
 
+- Akbar was born at **Amarkot (Umarkot) on 15 October 1542** during Humayun’s exile.
+- He was crowned at **Kalanaur (Gurdaspur) on 14 February 1556** as a minor.
+- His first Rajput marriage (**1562**) was with **Harkha/Jodha Bai** of **Amber (Kachhwaha)** under **Raja Bharmal**. **Salim (Jahangir)** was born of this wedlock.
+- Conquest chronology: **Malwa (1561)** → **Amber marriage (1562)** → **Karrani Orissa (1568)** → **Tukaroi (1575)** → Bengal consolidation.
+- **Hakim Khan Sur** commanded the **Afghan contingent** in **Rana Pratap’s** army at **Haldighati (1576)**.
+- Akbar abolished **slavery (1562)**, the **pilgrimage tax (1563)**, and **jizya (1564)**.
+- The **Mahzar (1579)** was drafted with **Sheikh Mubarak**; **Din-i-Ilahi (1582)** remained a tiny circle — **Birbal** was the famous Hindu member.
+- **Razmnama** is the Persian **Mahabharata** supervised by **Faizi** with **Badauni** and others. **Badauni** also worked on a Ramayana translation. **Faizi** wrote **Lilavati** in Persian.
+- **Hari Vijay Suri** was a **Jagadguru** contemporary of Akbar’s religious debates.
+- **Ralph Fitch** was the first English traveller at **Agra/Sikri** — contemporary of **Elizabeth I**; the **EIC charter came in 1600**.
 - At **Panipat II on 5 November 1556**, Akbar’s forces defeated and killed **Hemu**.
 - Akbar’s major conquests ran in this order: **Malwa (1561–62)**, **Chittor (1567–68)**, **Gujarat (1572–73)** — which produced the Buland Darwaza — **Tukaroi (1575)** followed by **Bengal (1576)**, **Kashmir (1586)**, and campaigns into Kabul, Sind, and the start of Deccan operations at Ahmadnagar.
 - Akbar organised the empire into **12 subahs**.
@@ -375,18 +407,18 @@ D. Both true, R explains A
 
 | Person | Role |
 |--------|------|
-| **Bairam Khan** | Regent; **Khan-i-Khana from Humayun**; Akbar later broke with him. **UPPCS Prelims 2024 Q4**: statement 1 is false, statement 2 is true; answer **D** |
+| **Bairam Khan** | Regent; **Khan-i-Khana from Akbar** — **UPPCS 2024 Q4** answer **C (Only 1)**; statement 2 false |
 | **Abul Fazl** | *Akbarnama* + *Ain-i-Akbari*; murdered **1602** (Bir Singh Bundela / Salim) |
 | **Faizi** | Brother; poet laureate; died **1595** |
-| **Sheikh Mubarak** | Father of Faizi/Abul Fazl; died **1597** |
+| **Sheikh Mubarak** | Father of Faizi/Abul Fazl; died **1593** |
 | **Todar Mal** | Zabt + dahsala |
 | **Birbal** | Witty Navratna; killed **1586** Yusufzai (NW) campaign |
 | **Raja Man Singh** | Amber; Haldighati; Bengal/Bihar commands |
 | **Abdur Rahim Khan-i-Khana** | Bairam’s son; Hindi dohas; translated Baburnama |
 | **Tansen** | Dhrupad Navratna; earlier **Bhata/Rewa** (Topic 6) |
-| **Daniyal** | Akbar’s son; died **1604** |
+| **Daniyal** | Akbar’s son; died **1605** |
 
-- **UPPCS Prelims 2024 Q132** asks the death order of Faizi (**1595**), Sheikh Mubarak (**1597**), Abul Fazl murdered (**1602**), and Daniyal (**1604**). The correct sequence is Faizi, Mubarak, Abul Fazl, Daniyal; the answer is **B**.
+- **UPPCS Prelims 2024 Q132** death order: **Sheikh Mubarak (1593)** → **Faizi (1595)** → **Abul Fazl murdered (1602)** → **Daniyal (1605)**; answer **C (2-3-1-4)**.
 
 ---
 
@@ -394,10 +426,13 @@ D. Both true, R explains A
 
 **1605–1627** | Birth name **Salim** | Memoir **Tuzuk-i-Jahangiri** in **Persian**
 
-- **Nur Jahan** (Mehr-un-Nisa) married Jahangir in **1611**. She appeared on coins and farmans and formed a powerful junta with **Itimad-ud-Daula** and **Asaf Khan**.
+- **Nur Jahan** (Mehr-un-Nisa) married Jahangir in **1611**. She appeared on coins and farmans. Her junta included **Itimad-ud-Daula** and **Asaf Khan** — **Jahangir** remained emperor, not a “member” of the junta.
+- **Itimad-ud-Daula’s tomb** at Agra shows early **Pietra dura** inlay patronised by **Nur Jahan**.
+- Jahangir introduced **du-aspa sih-aspa** extra horse obligation for mansabdars.
 - Jahangir installed the **Chain of Justice** at Agra Fort.
-- He settled Mewar in **1615** (Amar Singh) and captured **Kangra in 1620–22**.
-- **Captain William Hawkins** reached India in **1608** with a James I letter for the EIC. He spoke **Turkish** well. **UPPCS Prelims 2023 Q31** traps on “came **1611**”; only statement 2 is true, so the answer is **B**.
+- The **Treaty of Chittor (1615)** settled Mewar under **Amar Singh**. He captured **Kangra in 1620–22**.
+- **Captain William Hawkins** reached India in **1608** with a James I letter for the EIC. He spoke **Turkish** well and was called **“English Khan”**. **UPPCS Prelims 2023 Q31** traps on “came **1611**”; only statement 2 is true, so the answer is **B**.
+- Jahangir banned **tobacco**.
 - **Sir Thomas Roe** stayed at Jahangir’s court from **1615 to 1619**.
 - **UPPCS Prelims 2021 Q75** arranges travellers: Ralph Fitch, Hawkins, Nicholas Downton, Roe. The correct arrival order is Fitch, Hawkins, Downton, Roe; the answer is **A**.
 - Jahangir’s tomb stands at **Shahdara, Lahore**.
@@ -414,6 +449,9 @@ D. Both true, R explains A
 - He patronised **Kavindra Acharya Saraswati** of Banaras — the fact in **UPPCS Prelims 2022 Q146**.
 - In the Deccan, he annexed **Ahmadnagar in 1636**. His **Balkh campaign (1646–47)** failed.
 - **Dara Shikoh**, the eldest son, wrote *Majma-ul-Bahrain* and translated the Upanishads as *Sirr-i-Akbar*. Aurangzeb killed him in **1659**.
+- **Dara Shikoh** bore the title **Shah Buland Iqbal**.
+- Shah Jahan **abolished sijda** (prostration before the emperor).
+- **Moti Masjid** in Delhi Red Fort and **Bibi ka Maqbara** (Aurangabad) belong to this age.
 - Shah Jahan fell ill in **1657**. Aurangzeb imprisoned him at **Agra Fort (1658–1666)**. He was buried in the Taj.
 
 ---
@@ -433,6 +471,9 @@ D. Both true, R explains A
 - **UPPCS Prelims 2022 Q103** tests this succession sequence. The correct order is Shuja beaten near Banaras, Dharmat, Samugarh, Deorai; the answer is **A**.
 
 **Deccan:** Aurangzeb annexed Bijapur in **1686** and **Golkonda in 1687**. The last Qutb Shah ruler was **Abul Hasan Qutb Shah** — the fact in **UPPCS Prelims 2020 Q34**, answer **A**.
+- Aurangzeb was called **Zinda Peer** (living saint) by followers.
+- The **Treaty of Purandar (1665)** with **Raja Jai Singh** opened the Maratha front.
+- **Bibi ka Maqbara** at Aurangabad and **Moti Masjid (Delhi)** are later Shah Jahan–family monuments linked to this succession era.
 - Aurangzeb **reimposed jizya in 1679** and ordered Banaras temple destruction in **1669**.
 - Long Deccan wars against the Marathas drained the treasury and stretched the mansabdari system.
 - Aurangzeb died in **1707** at his Ahmadnagar camp and was buried at **Khuldabad**.
@@ -565,9 +606,9 @@ D. Only 2
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — Humayun conferred Khan-i-Khana.
+**Ans: C (Only 1)** — **Akbar** gave **Khan-i-Khanan**. Statement 2 is false.
 
-**Why:** Humayun conferred Khan-i-Khana.
+**Why:** Ghatnachakra UPPCS 2024 key — only statement 1 is correct.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -582,7 +623,9 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 <details><summary>Show answer</summary>
 
-**Ans: B (3-2-1-4)Why:B (3-2-1-4)** is the correct fact for this stem.
+**Ans: C (2-3-1-4)** — **Sheikh Mubarak (1593)** → **Faizi (1595)** → **Abul Fazl (1602)** → **Daniyal (1605)**.
+
+**Why:** Mubarak before Faizi — do not use coaching swap **B**.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -829,18 +872,461 @@ D. A false, R true
 
 </details>
 
-### UKPCS Prelims 2025
+---
 
-**Logic:** Chanderi falls between Khanwa and Ghagra — that is where most sequences go wrong.
 
-**Q. UKPCS Prelims 2025, Q59**
+## Ghatnachakra Extra Drill — Babur to Aurangzeb (UPPCS first)
 
-Arrange the following chronologically from earliest to last:
+Teaching for these stems sits in **7.1–7.13**. UPPCS keys aligned with Ghatnachakra.
 
-I. First Battle of Panipat
-II. Battle of Khanwa
-III. Battle of Ghagra
-IV. Battle of Chanderi
+**Logic:** Alam Khan was Ibrahim Lodi's uncle and a throne pretender — not Babur's ally in the final push.
+
+**Q1. UPPCS Prelims 2018 / Ghatnachakra pattern**
+
+Who among the following was the uncle of Ibrahim Lodi and invited Babur to invade India?
+
+A. Daulat Khan Lodi
+B. Alam Khan
+C. Dilawar Khan
+D. Mahmud Lodi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Alam Khan** was Ibrahim's uncle and a Delhi throne claimant. **Daulat Khan** and **Dilawar Khan** also sent invitations from Punjab; **Rana Sanga** invited Babur separately.
+
+</details>
+
+**Logic:** Mughals = Chagatai Turks from Chinggis's second son — not generic "Mongol" or Ottoman.
+
+**Q2. UPPCS RO / Ghatnachakra standard**
+
+The Mughals belonged to which Turkic lineage?
+
+A. Ottoman Turks
+B. Chagatai Turks
+C. Seljuk Turks
+D. Ghaznavid Turks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Babur's house was **Chagatai** Turk — from the branch of **Chinggis Khan's second son**. Timurid descent is separate but the Mughal self-image in India is Chagatai Turk.
+
+</details>
+
+**Logic:** Sar-e-Pul (1501) = Shaybani Khan beat Babur with **Tulughma** — before Kabul became his base.
+
+**Q3. UPPCS / Ghatnachakra**
+
+At which battle did **Shaybani Khan** defeat Babur using the **Tulughma** tactic?
+
+A. Panipat I (1526)
+B. Sar-e-Pul (1501)
+C. Khanwa (1527)
+D. Ghagra (1529)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Shaybani Khan** crushed Babur at **Sar-e-Pul (1501)** with **Tulughma**. Babur reused the same tactic at **Panipat I** against Ibrahim Lodi.
+
+</details>
+
+**Logic:** Panipat I year = **1526**; do not pick 1527 (Khanwa) or 1556 (Panipat II).
+
+**Q4. UPPCS Prelims 2019 / recurring**
+
+The First Battle of Panipat was fought in:
+
+A. 1524
+B. 1526
+C. 1528
+D. 1556
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **First Panipat = 1526** (21 April GC / 20 April in many texts). **1556** is Panipat II (Akbar–Hemu).
+
+</details>
+
+**Logic:** Khanwa = **jihad** framing + **Ghazi** title after wine-cup oath — not a plain territorial skirmish.
+
+**Q5. UPPCS / Ghatnachakra**
+
+After which battle did Babur take the title **Ghazi** and declare **jihad**?
+
+A. Panipat I (1526)
+B. Khanwa (1527)
+C. Chanderi (1528)
+D. Ghagra (1529)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** At **Khanwa (1527)** against **Rana Sanga**, Babur broke the wine-cup, called the fight **jihad**, and took **Ghazi**. Panipat ended the Lodi Sultanate but Khanwa broke the Rajput confederacy.
+
+</details>
+
+**Logic:** **Padshah** at **Kabul (1504)** when Babur dropped **Mirza**; Indian empire declared after Panipat (**27 April 1526**).
+
+**Q6. UPPCS / Ghatnachakra**
+
+Babur first assumed the title **Padshah** at:
+
+A. Ferghana (1494)
+B. Kabul (1504)
+C. Delhi (1526)
+D. Agra after Khanwa (1527)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** After **Kabul (1504)** Babur shed the ancestral **Mirza** style and took **Padshah**. Occupation of Delhi–Agra followed **Panipat**; the Indian empire was proclaimed **27 April 1526**.
+
+</details>
+
+**Logic:** Early Babur empire = Kabul + Punjab + modern UP belt — **not Rajasthan**.
+
+**Q7. UPPCS / Ghatnachakra**
+
+Which region was **not** part of Babur's Indian empire at his death?
+
+A. Delhi–Agra Doab
+B. Punjab
+C. Rajasthan
+D. Kabul
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Babur held **Kabul**, **Punjab**, and the **Delhi–Agra/UP** core. **Rajasthan** remained outside until later Mughal campaigns.
+
+</details>
+
+**Logic:** Baburnama language = **Chagatai Turki**; court = Persian — same trap as 2025 Q3.
+
+**Q8. UPPCS Prelims 2025, Q3 (Ghatnachakra repeat)**
+
+Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
+Reason (R): Turki was the official language of the Mughal Court.
+
+A. Both true, R not explanation
+B. A false, R true
+C. A true, R false
+D. Both true, R explains A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Baburnama** is **Chagatai Turki**. Mughal **court language** was **Persian**, so R is false.
+
+</details>
+
+**Logic:** Baburnama mentions **Vijayanagara** and **Mewar** as Hindu states Babur knew from report — not as conquered provinces.
+
+**Q9. UPPCS / Ghatnachakra**
+
+Which Hindu states does Babur mention in the **Baburnama**?
+
+A. Only Bengal
+B. Vijayanagara and Mewar
+C. Marwar and Malwa only
+D. None — he ignored the south
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Babur's memoir notes **Vijayanagara** and **Mewar** among Indian Hindu powers he heard about. That does not mean he ruled them.
+
+</details>
+
+**Logic:** Field artillery first used in India at **Panipat I** — gunners **Ustad Ali Quli** and **Mustafa** (Ottoman/Rumi style).
+
+**Q10. UPPCS / Ghatnachakra**
+
+Cannons were used decisively for the first time in India at:
+
+A. Tarain (1192)
+B. First Battle of Panipat (1526)
+C. Khanwa (1527) only
+D. Second Battle of Panipat (1556)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Panipat I (1526)** is the standard "first major field-gun" fact with **Ustad Ali Quli** and **Mustafa**. Babur also used guns at **Bajaur (1519)** on the road to India.
+
+</details>
+
+**Logic:** Chanderi = **1528**, not 1530 (Babur died 1530).
+
+**Q11. UPPCS / Ghatnachakra trap**
+
+The Battle of Chanderi was fought in:
+
+A. 1526
+B. 1528
+C. 1530
+D. 1539
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chanderi (1528)** against **Medini Rai** sits between Khanwa (**1527**) and Ghagra (**1529**). **1530** is Babur's death year, not Chanderi.
+
+</details>
+
+**Logic:** Bairam Khan — Ghatnachakra UPPCS 2024 Q4 key **C (Only 1)**: Akbar gave **Khan-i-Khanan**; statement 2 is false.
+
+**Q12. UPPCS Prelims 2024, Q4**
+
+Bairam Khan: 1. Akbar gave the title Khan-i-Khana 2. Title was not given at appointment as Vazir
+
+A. Both
+B. Neither
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Only 1).** Statement **1** is true — **Akbar** bestowed **Khan-i-Khanan**. Statement **2** is false — the title **was** tied to vazir/regent appointment in the coaching key.
+
+</details>
+
+**Logic:** Death order Ghatnachakra key **C (2-3-1-4)** — Mubarak **1593** before Faizi **1595**.
+
+**Q13. UPPCS Prelims 2024, Q132**
+
+Arrange: 1.Murder of Abul Fazl 2.Death of Sheikh Mubarak 3.Death of Faizi 4.Death of Daniyal
+
+A. 2-1-4-3
+B. 3-2-1-4
+C. 2-3-1-4
+D. 2-4-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (2-3-1-4).** **Sheikh Mubarak (1593)** → **Faizi (1595)** → **Abul Fazl murdered (1602)** → **Daniyal (1605)**.
+
+</details>
+
+**Logic:** Akbar born **Amarkot 15 Oct 1542**; crowned **Kalanaur 14 Feb 1556** — not Delhi coronation.
+
+**Q14. UPPCS / Ghatnachakra**
+
+Akbar was crowned at:
+
+A. Delhi, 1556
+B. Kalanaur (Gurdaspur), 14 February 1556
+C. Fatehpur Sikri, 1571
+D. Agra Fort, 1555
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Minor **Akbar** was crowned at **Kalanaur (Gurdaspur) on 14 February 1556** after Humayun's death. **Panipat II** followed later that year.
+
+</details>
+
+**Logic:** First Rajput marriage **1562** — **Kachhwaha/Amber**, **Bharmal**, **Harkha**; **Salim** born of this wedlock.
+
+**Q15. UPPCS / Ghatnachakra**
+
+Akbar's first Rajput alliance marriage (1562) was with:
+
+A. Mewar Sisodia
+B. Kachhwaha/Amber (Bharmal's daughter Harkha)
+C. Marwar Rathore
+D. Bundela
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **1562** marriage to **Harkha/Jodha Bai** of **Amber (Kachhwaha)** under **Raja Bharmal**. **Salim (Jahangir)** was born of this union.
+
+</details>
+
+**Logic:** **Hakim Khan Sur** led Afghan contingent in **Rana Pratap's** army at Haldighati — not Man Singh.
+
+**Q16. UPPCS / Ghatnachakra**
+
+Who commanded the Afghan contingent in Rana Pratap's army at Haldighati?
+
+A. Raja Man Singh
+B. Hakim Khan Sur
+C. Bairam Khan
+D. Todar Mal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Hakim Khan Sur** led the **Afghan** wing for **Pratap**. **Raja Man Singh** of Amber commanded **Akbar's** imperial force.
+
+</details>
+
+**Logic:** Akbar chronology — Malwa **1561** before Amber **1562**; Karrani Orissa **1568**; Tukaroi **1575**.
+
+**Q17. UPPCS / Ghatnachakra chronology**
+
+Which is the correct ascending order?
+
+A. Amber marriage → Malwa → Tukaroi → Orissa
+B. Malwa → Amber marriage → Orissa (Karrani) → Tukaroi
+C. Tukaroi → Malwa → Amber → Orissa
+D. Orissa → Tukaroi → Malwa → Amber
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Malwa invasion (1561)** → **Amber marriage (1562)** → **Karrani Bengal/Orissa (1568)** → **Tukaroi (1575)** before full Bengal annexation.
+
+</details>
+
+**Logic:** **Din-i-Ilahi (1582)** — only **Birbal** among famous Hindus in the tiny circle.
+
+**Q18. UPPCS / Ghatnachakra**
+
+Among Akbar's Hindu Navaratnas, who joined **Din-i-Ilahi**?
+
+A. Todar Mal
+B. Raja Man Singh
+C. Birbal
+D. Tansen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Birbal** is the famous Hindu member of the **1582** court circle. It was **not** a mass religion.
+
+</details>
+
+**Logic:** Jahangir — **Treaty of Chittor 1615** with Amar Singh; **Hawkins** "English Khan" spoke Turkish (1608).
+
+**Q19. UPPCS Prelims 2023, Q31 (Ghatnachakra repeat)**
+
+Hawkins: 1. Came to India in 1611 as envoy of James I 2. Very well versed in Turkish
+
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Only 2).** Hawkins reached India in **1608**, not 1611. He spoke **Turkish** well and was called **"English Khan"** at Jahangir's court.
+
+</details>
+
+**Logic:** Aurangzeb — **Purandar 1665** with **Jai Singh**; Bijapur **1686**; Golconda **1687** (**Abul Hasan Qutb Shah**).
+
+**Q20. UPPCS Prelims 2020, Q34 (Ghatnachakra repeat)**
+
+Ruler of Golkonda when Aurangzeb seized the fort in 1687?
+
+A. Abul Hasan Qutb Shah
+B. Sikandar Adil Shah
+C. Ali Adil Shah II
+D. Shayasta Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Abul Hasan Qutb Shah** was the last **Qutb Shahi** ruler when **Golconda fell in 1687**. **Bijapur** fell **1686**.
+
+</details>
+
+### Other papers (Ghatnachakra Extra)
+
+**Logic:** Among "reasons for Babur's arrival" statements, only **Timurid hereditary claim** is standard — not Ottoman invitation or Vijayanagara request.
+
+**Q21. IAS / Ghatnachakra**
+
+Consider the following statements about Babur's invasion of India:
+
+1. He claimed a Timurid hereditary right to Punjab.
+2. The Ottoman Sultan formally invited him to dethrone Ibrahim Lodi.
+3. Rana Sanga and Daulat Khan Lodi separately invited him.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (1 and 3 only).** **Timurid claim** to former Timurid Punjab and **invitations** from **Daulat Khan** / **Rana Sanga** are standard. There was **no** formal **Ottoman invitation** to conquer Delhi.
+
+</details>
+
+**Logic:** UKPCS 2024 battle chronology — Panipat → Khanwa → Chanderi → Ghagra.
+
+**Q22. UKPCS Prelims 2024 / Ghatnachakra**
+
+Arrange chronologically: I. Panipat I  II. Khanwa  III. Ghagra  IV. Chanderi
+
+A. I, II, III, IV
+B. I, III, II, IV
+C. I, II, IV, III
+D. I, IV, II, III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (I, II, IV, III).** **1526 Panipat** → **1527 Khanwa** → **1528 Chanderi** → **1529 Ghagra**. Ghagra after Chanderi is the usual trap.
+
+</details>
+
+---
+
+## UKPCS — Mughal stems
+
+**Logic:** Kalanaur coronation is the UKPCS favourite Akbar-accession fact.
+
+**Q1. UKPCS / Ghatnachakra pattern**
+
+Where was Akbar crowned in 1556?
+
+A. Delhi
+B. Kalanaur (Gurdaspur)
+C. Lahore
+D. Fatehpur Sikri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kalanaur (Gurdaspur), 14 February 1556** — minor Akbar's coronation after Humayun's death.
+
+</details>
+
+**Logic:** Haldighati year — **18 June 1576** (UKPCS 2010 pattern).
+
+**Q2. UKPCS Prelims 2010 / standard**
+
+The Battle of Haldighati was fought in:
+
+A. 1572
+B. 1576
+C. 1582
+D. 1605
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Haldighati — 18 June 1576** — **Rana Pratap** vs **Raja Man Singh** (Akbar's commander). Akbar was not in the pass.
+
+</details>
+
+**Logic:** UKPCS 2025 Q59 — same Panipat–Khanwa–Chanderi–Ghagra order as Extra Q22.
+
+**Q3. UKPCS Prelims 2025, Q59**
+
+Arrange: I. Panipat I  II. Khanwa  III. Ghagra  IV. Chanderi
 
 A. I, II, III, IV
 B. I, III, II, IV
@@ -850,15 +1336,15 @@ D. I, III, IV, II
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Series B provisional key).** Panipat (1526) → Khanwa (1527) → Chanderi (1528) → Ghagra (1529). Placing Ghagra before Chanderi is the usual swap.
+**Ans: C.** **1526 → 1527 → 1528 → 1529**; Ghagra last, not before Chanderi.
 
 </details>
 
-**Logic:** Basawan belongs to Akbar’s atelier — that makes the all-four option wrong.
+**Logic:** Basawan belongs to Akbar's atelier — that makes the all-four option wrong.
 
-**Q. UKPCS Prelims 2025, Q60**
+**Q4. UKPCS Prelims 2025, Q60**
 
-Who were famous painters at Jahangir’s court?
+Who were famous painters at Jahangir's court?
 
 1. Basawan
 2. Manohar
@@ -873,7 +1359,7 @@ D. All 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (Series B provisional key).** Manohar, Bishan Das, and Ustad Mansur were leading painters of Jahangir’s studio. Basawan was a master of Akbar’s court; Mansur earned the title Nadir-ul-Asr for bird and animal studies.
+**Ans: B.** Manohar, Bishan Das, and Ustad Mansur were leading painters of Jahangir's studio. Basawan was a master of Akbar's court.
 
 </details>
 
@@ -963,11 +1449,11 @@ D. Only 2
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — 2024 Q4; title from Humayun.
+**Ans: C (Only 1)** — 2024 Q4; **Akbar** gave **Khan-i-Khanan**.
 
-**Why:** Humayun gave Bairam Khan the title Khan-i-Khana, not Akbar.
+**Why:** Only statement 1 is true; statement 2 is false per Ghatnachakra key.
 
-**Trap:** Statement 1 is false; statement 2 is true.
+**Trap:** Do not pick Humayun / Only 2.
 
 </details>
 
@@ -1111,9 +1597,9 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — 2024 Q132.
+**Ans: C (2-3-1-4)** — 2024 Q132: Mubarak **1593** → Faizi **1595** → Abul Fazl **1602** → Daniyal **1605**.
 
-**Why:** 2024 Q132.
+**Why:** Mubarak dies before Faizi in the Ghatnachakra key.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1791,7 +2277,7 @@ D. 1679
 2. **Buland Darwaza** commemorates Akbar's **Gujarat victory of 1572**, not Jahangir's birth (**UPPCS Prelims 2025 Q49**).
 3. **Daurah (1532)** is Humayun's early victory; **Dharmat (1658)** is Aurangzeb's succession battle. Do not swap them.
 4. In **UPPCS Prelims 2025 Q79**, when Kannauj, Daurah, Samugarh, and Chausa appear together, the order is Daurah, Chausa, Kannauj, Samugarh; answer **D (2-4-1-3)**.
-5. **Bairam Khan** received the title **Khan-i-Khana** from **Humayun**, not from Akbar (**UPPCS Prelims 2024 Q4**).
+5. **Bairam Khan** — **UPPCS Prelims 2024 Q4** answer **C (Only 1)**: **Akbar** gave **Khan-i-Khanan**; statement 2 is false.
 6. **Mansab** was **not hereditary** under Akbar (**UPPCS Prelims 2019 Q92**).
 7. **Ain-i-Akbari** is an administrative gazetteer; **Akbarnama** is narrative biography.
 8. **William Hawkins** reached India in **1608**, not 1611 (**UPPCS Prelims 2023 Q31**).
@@ -1804,3 +2290,7 @@ D. 1679
 15. In **UPPCS Prelims 2021 Q126**, the Mughal state began as a military state and Reason R (central vitality depended on army power) correctly explains Assertion A; answer **A**.
 16. The **Ilahi calendar (1584)** is separate from **Din-i-Ilahi (1582)**.
 17. The **Hamzanama** folio cycle belongs to **Akbar's** atelier, not Jahangir's natural-history albums with Mansur.
+18. **Chagatai Turks** — not Ottoman or Seljuk — were Babur's lineage; **Padshah** came at **Kabul (1504)**, Indian empire after **Panipat (27 April 1526)**.
+19. **Alam Khan** was Ibrahim Lodi's **uncle**, not the same as **Daulat Khan Lodi** of Punjab.
+20. **Mir Baqi** (Babur's commandant) built the **Babri Masjid** — state as a single careful fact.
+21. **UPPCS 2024 Q132** death order is **C (2-3-1-4)**: **Mubarak 1593** before **Faizi 1595** — not answer B.

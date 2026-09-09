@@ -4,22 +4,22 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Vijayanagara Empire (rulers + administration + Krishnadevaraya) | Bahmani Kingdom (sultans + administration) | Deccan Sultanates | Battle of Talikota
+Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Gujarat Sultanate (quick) | Vijayanagara Empire | Bahmani Kingdom | Deccan Sultanates | Battle of Talikota
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, **Ghatnachakra** Provincial Dynasties of North India & Deccan (B–253+), UPPCS / UKPCS Prelims PYQs
 > **Weight:** ★★★ — Sharqi architecture (UP), Zain-ul-Abidin tolerance, Vijayanagara–Bahmani rivalry, Talikota, Deccan capitals, book–context matching
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
 ## Consolidated — 28 Must-Score Facts
 
-1. **Malik Sarwar** founded the **Sharqi** state at **Jaunpur** with the title **Malik-us-Sharq**; the city was called “**Shiraz of the East**.”
+1. **Firuz Shah** founded the city of **Jaunpur** in memory of cousin **Jauna Khan (Muhammad bin Tughlaq)**; **Malik Sarwar (Khwaja-i-Jahan / Malik-us-Sharq)** made it independent (**~1394**); **Ibrahim Shah** made it **Siraj/Shiraz-i-Hind**.
 2. **Atala Masjid** and **Lal Darwaza Masjid** are classic **Sharqi** monuments at Jaunpur in eastern **UP**.
-3. **Bahlul Lodi** annexed independent Jaunpur in **1484**.
+3. Last Sharqi ruler **Hussain Shah** fell to **Bahlul Lodi** (**1479/1484** keys); **Vidyapati**’s *Kirtilata* praises Jaunpur under Ibrahim.
 4. **Malik Muhammad Jaisi** composed **Padmavat** in the Jaunpur cultural circle.
 5. **Zain-ul-Abidin** (**1420–1470**), called **Bud Shah**, abolished **jaziya** and cow slaughter and restored temples in Kashmir.
 6. **Sriya Bhatt** was Zain-ul-Abidin’s Hindu minister; **Zaina Lanka** was his island palace on **Wular Lake**.
@@ -30,7 +30,7 @@ Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Vijayanagara Empire 
 11. **Bahmani** was founded in **1347** by **Hasan Gangu** as **Alauddin Bahman Shah**; the capital moved **Gulbarga → Bidar**.
 12. **Mahmud Gawan** wrote **Riyaz-ul-Insha**, organised **eight tarafs**, and was executed in **1481**.
 13. After **1518** Bahmani split into five Deccan Sultanates: **Bijapur, Golkonda, Ahmadnagar, Bidar, and Berar**.
-14. **Bijapur (Adil Shahi)** holds **Gol Gumbaz**; **Ibrahim Adil Shah II** wrote **Kitab-i-Nauras**.
+14. **Bijapur (Adil Shahi)** holds **Gol Gumbaz / Gol Gumbad** (tomb of **Muhammad Adil Shah**; among the world's largest domes); **Ibrahim Adil Shah II** (**Jagatguru / Ablababa**) wrote **Kitab-i-Nauras**, founded **Nauraspur**; **Firishta** worked at his court.
 15. **Golkonda (Qutb Shahi)** later centred on **Hyderabad**; **Abul Hasan Qutb Shah** fell to Aurangzeb in **1687**.
 16. At **Talikota** (**23 Jan 1565**, also Rakkasa-Tangadi) **Rama Raya** was killed; the Deccan alliance sacked **Hampi** and crippled Vijayanagara as a great power.
 17. **Raichur (1520)** was a **Krishnadevaraya** victory — do not confuse it with Talikota **1565**.
@@ -44,14 +44,16 @@ Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Vijayanagara Empire 
 25. **Kitab-i-Nauras** is Bijapur (Ibrahim Adil Shah II); **Amuktamalyada** is Krishnadevaraya’s Telugu epic.
 26. Sikandar Shah of Kashmir is the temple-destruction contrast to tolerant **Zain-ul-Abidin**.
 27. **Manucharitramu** by **Allasani Peddana** belongs to Krishnadevaraya’s Ashtadiggajas circle.
-28. **Burhan-e-Masir** is an Ahmadnagar chronicle; **Mirat-e-Sikandari** is a Gujarat narrative.
+28. **Burhan-e-Masir** is an Ahmadnagar chronicle; **Mirat-e-Sikandari** is a Gujarat narrative. **Muzaffar Shah (1407)** founded Gujarat; **Mahmud Begada** took **Champaner** and **Girnar**; **Bahadur Shah** conceded **Diu** to the Portuguese.
 
 ---
 
 ## Confused Pairs
 
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
+| Pair | Difference | Hindi |
+|------|------------|-------|
+| Firuz city vs Sharqi state | City named for **Jauna Khan**; independent state by **Malik Sarwar** | जौनपुर |
+| Yusuf Adil vs Malik Ahmad | **Bijapur** vs **Ahmadnagar** founders | बीजापुर / अहमदनगर |
 | Sharqi vs Delhi Sultanate architecture | Jaunpur massive gateways/arches vs Delhi arch-dome-minaret idiom | शर्की / दिल्ली वास्तु |
 | Zain-ul-Abidin vs Sikandar Shah (Kashmir) | Bud Shah abolished jaziya vs temple destruction phase | जैन-उल-आबिदीन / सिकंदर शाह |
 | Vijayanagara vs Bahmani | Hindu south empire vs first major Deccan Muslim kingdom | विजयनगर / बहमनी |
@@ -67,20 +69,20 @@ Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Vijayanagara Empire 
 
 ## 3.1 Sharqi Sultanate (Jaunpur)
 
-**Period:1394–1484** | **Capital:Jaunpur** (eastern UP) | **Founder:Malik Sarwar** (Malik-us-Sharq)
+**Period: ~1394–1479/1484** | **Capital: Jaunpur** (eastern UP) | **Founder of state: Malik Sarwar**
 
-- After Timur weakened Delhi in **1398**, **Malik Sarwar** declared independence at Jaunpur around **1394** and took the title **Malik-us-Sharq**.
-- The Sharqi core lay in **eastern UP**, covering the Jaunpur, Ghazipur, and Banaras belt.
-- Sharqi rulers also claimed a wider reach from Aligarh to Darbhanga.
-- Jaunpur was called **"Shiraz of the East"** because its court patronised Persian literature.
-- **Malik Sarwar (1394–1399)** founded the Sharqi line after Delhi weakened post-Timur.
-- **Mubarak Shah** succeeded Malik Sarwar and consolidated the Jaunpur–Banaras belt.
-- **Shamsuddin Ibrahim Shah** was the greatest Sharqi builder and built **Atala Masjid**, **Lal Darwaza Masjid**, and **Jami Masjid (Jaunpur)**.
-- **Mahmud Shah** ruled after Ibrahim and faced growing Lodi pressure from Delhi.
-- **Hussain Shah** was the last Sharqi sultan before **Bahlul Lodi** annexed Jaunpur in **1484**.
-- **Sharqi architecture** is known for massive gateways, huge arches, and bold stonework.
-- **Malik Muhammad Jaisi** composed **Padmavat** in the Jaunpur cultural milieu.
-- **Bahlul Lodi** annexed Jaunpur in **1484** after a prolonged Lodi–Sharqi struggle.
+- **Firuz Shah Tughlaq** founded the **city of Jaunpur** in memory of his cousin **Jauna Khan** (**Muhammad bin Tughlaq**).
+- Under late Tughlaq weakness (**Mahmud Shah II** era, **~1394**), **Malik Sarwar** (a slave of that court) became independent. Delhi gave him titles **Malik-us-Sharq** (Lord of the East) and **Khwaja-i-Jahan**.
+- He and his adopted line founded the **Sharqi** dynasty. Independence lasted about **85 years**.
+- The Sharqi core lay in **eastern UP** (Jaunpur–Ghazipur–Banaras); claims ran wider from Aligarh toward Darbhanga.
+- **Ibrahim Shah Sharqi (1402–1440)** was the greatest Sharqi ruler. **Sharqi style** architecture flowered; Jaunpur was called **Siraj-i-Hind / Shiraz-i-Hind** (Shiraz of the East) as a learning and culture centre.
+- **Vidyapati** described Jaunpur and Ibrahim Shah in *Kirtilata*.
+- **Mubarak Shah** followed Malik Sarwar; later **Mahmud Shah** faced Lodi pressure.
+- **Hussain Shah** was the last Sharqi sultan. **Bahlul Lodi** defeated him and reattached Jaunpur to Delhi (**1479** in Ghatnachakra; many coaching keys also use **1484**).
+- Monuments: **Atala Masjid**, **Lal Darwaza Masjid**, **Jami Masjid (Jaunpur)** — massive gateways and arches.
+- **Malik Muhammad Jaisi** composed **Padmavat** in this cultural circle.
+
+**A/R logic:** Siraj-e-Hind true because Jaunpur was a great education/culture centre under Sharqis (**UP R.O./A.R.O. 2023** — both true, R explains A).
 
 > ** note:Lal Darwaza–Jaunpur** is **correct**. Do not confuse it with **Tin Darwaza–Ahmedabad**: Tin Darwaza stands at **Bidar Fort**, while Ahmedabad has **Teen Darwaza**. Among Topic-3 states, only **Sharqi Jaunpur** lies in modern **Uttar Pradesh**.
 
@@ -205,6 +207,17 @@ D. Haider Shah
 
 ---
 
+
+## 3.2a Gujarat Sultanate (quick card)
+
+**Founder line:** **Zafar Khan** took the title **Muzaffar Shah** (**1407**) and founded independent Gujarat.
+
+- He defeated **Hoshang Shah** of Malwa and briefly held **Dhar**, then restored Malwa.
+- **Mahmud Begada** (**Fateh Khan**, from **1458**; title **Abul Fateh Mahmud**) is the famous later Gujarat sultan. Main victories: forts of **Champaner** and **Girnar**.
+- **Bahadur Shah** later allowed the **Portuguese** a fort at **Diu** (**1535** treaty) against Mughal danger — then regretted it.
+- Chronicle match: **Mirat-e-Sikandari** = Gujarat victory narrative.
+
+---
 ## 3.3 Vijayanagara Empire
 
 **Founded:1336** | **Founders:Harihara I & Bukka I** (Sangama) | **Capital:Hampi** (Tungabhadra)
@@ -330,11 +343,13 @@ D. Haider Shah
 
 ## 3.4 Bahmani Kingdom
 
-**Founded:1347** | **Founder:Hasan Gangu** (throne name **Alauddin Bahman Shah**) | **Capitals:Gulbarga**, then **Bidar**
+**Founded: 1347** | **Founder: Hasan Gangu** (throne name **Alauddin Hasan Bahman Shah**) | **Capitals: Gulbarga (Ahsanabad)**, then **Bidar**
 
-- **Hasan Gangu** rebelled against **Muhammad bin Tughlaq** and declared independence at **Gulbarga** in **1347**.
-- The early Bahmani capital was **Gulbarga**.
-- **Ahmad Shah I Wali** shifted the capital to **Bidar** around **1429**.
+- Bahmani rose during **Muhammad bin Tughlaq**'s Deccan turmoil after the **Amiran-e-Sadah** rebellions.
+- **Zafar Khan / Hasan Gangu** declared independence at **Gulbarga** in **1347**, took the title **Alauddin Hasan Bahman Shah**, and named the capital **Ahsanabad**.
+- Early rule divided the realm into four provinces: **Gulbarga, Daulatabad, Berar, and Bidar**.
+- **Ahmad Shah I Wali** later shifted the capital to **Bidar** around **1429**.
+
 - The kingdom was divided into **eight tarafs**, or provinces, each ruled by a **tarafdar**.
 - Bahmani was a long rival of **Vijayanagara** over the **Raichur doab**, and war and marriage alliances alternated between the two powers.
 - **Mahmud Gawan**, the Persian wazir under Muhammad Shah III, expanded Bahmani power to the Orissa coast.
@@ -516,9 +531,9 @@ D. 4-2-3-1
 
 ### Bijapur (Adil Shahi)
 
-- **Yusuf Adil Shah** founded the **Adil Shahi** line at **Bijapur** after the Bahmani collapse.
+- **Yusuf Adil Shah** founded the **Adil Shahi** line at **Bijapur** after the Bahmani collapse — **not** Ahmadnagar (**Nizam Shahi** = **Malik Ahmad**).
 - **Ismail Adil Shah** was defeated by **Krishnadevaraya** at **Raichur (1520)**.
-- **Ibrahim Adil Shah II** wrote **Kitab-i-Nauras**, a musical-devotional song collection.
+- **Ibrahim Adil Shah II** wrote **Kitab-i-Nauras** (Deccani), founded musical city **Nauraspur**, and was hailed **Jagatguru** and **Ablababa** (friend of the poor). **Firishta** completed *Tarikh-i-Firishta* in this milieu.
 - **Muhammad Adil Shah** built **Gol Gumbaz**, famous for having one of the world's largest domes.
 - Bijapur remained a major Deccan power until Aurangzeb annexed it in **1686**.
 
@@ -534,7 +549,7 @@ D. 4-2-3-1
 - **Malik Ahmad** founded the **Nizam Shahi** kingdom with capital at **Ahmadnagar**.
 - **Hussain Nizam Shah I** joined the anti-Vijayanagara coalition at **Talikota (1565)**.
 - The court chronicle **Burhan-e-Masir** records Ahmadnagar history.
-- The Mughals annexed Ahmadnagar in **1636**.
+- The Mughals annexed Ahmadnagar in **1636** under **Shah Jahan**; **Hussain Nizam Shah III** was imprisoned for life (Gwalior) after **Fateh Khan** surrendered **Daulatabad**.
 
 ### Bidar (Barid Shahi)
 
@@ -779,6 +794,507 @@ D. Haider Shah
 **Ans: CWhy:Zain-ul-Abidin (Bud Shah, 1420–1470)** abolished **jaziya**, banned **cow slaughter**, and **restored temples** after **Sikandar Shah's** intolerant reign.
 
 **Trap:Sikandar Shah** enforced the **opposite** policies — he is the pre-Bud Shah destruction phase, not the answer here.
+
+</details>
+
+---
+
+
+## Ghatnachakra Extra Drill — Provincial Dynasties (UPPCS first, then others)
+
+Teaching for these stems sits in **3.1–3.5**.
+
+**Logic:** City founded in memory of Jauna Khan / MbT = Jaunpur (by Firuz).
+
+**Q1. UPPCS Prelims 2003 / Mains 2004 / UDA 2002**
+
+The city of Jaunpur was founded in the memory of:
+
+A. Ghiyasuddin Tughluq
+
+B. Muhammad-Bin-Tughluq
+
+C. Firuz Shah Tughluq
+
+D. Akbar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Firuz** founded the city naming it for cousin **Jauna Khan (Muhammad bin Tughlaq)**.
+
+</details>
+
+**Logic:** Who established Jaunpur city = Firuz.
+
+**Q2. UP UDA/LDA (Pre) 2006**
+
+Who had established Jaunpur?
+
+A. Muhammad-Bin-Tughluq
+
+B. Firuz Shah Tughluq
+
+C. Ibrahim Shah Sharqi
+
+D. Sikandar Lodi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** City by Firuz; independent Sharqi state later by **Malik Sarwar**.
+
+</details>
+
+**Logic:** Shiraz of East = Jaunpur.
+
+**Q3. UPPCS Prelims 2001 / Lower 2004 / Mains 2005**
+
+Which one of the following places was known as ‘Shiraz of East’ / “Shiraz of India” during Sharqi rule?
+
+A. Agra
+
+B. Delhi / Allahabad
+
+C. Jaunpur
+
+D. Varanasi / Lucknow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Under **Ibrahim Shah Sharqi** — also **Siraj-i-Hind**.
+
+</details>
+
+**Logic:** Last Jaunpur ruler = Hussain Shah.
+
+**Q4. UPPCS Prelims 2017**
+
+Who was the last ruler of 'Jaunpur' state?
+
+A. Mohammad Shah
+
+B. Hussain Shah
+
+C. Mubarak Shah
+
+D. Ibrahim Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Defeated by **Bahlul Lodi**.
+
+</details>
+
+**A/R logic:** Siraj-e-Hind explained by education/culture centre.
+
+**Q5. UP R.O./A.R.O. (Pre) 2023**
+
+Assertion (A): Jaunpur is known as Siraj-e-Hind.
+
+Reason (R): Jaunpur was a great centre of education during the Sharqi period.
+
+A. A false, R true
+
+B. Both true, R explains A
+
+C. A true, R false
+
+D. Both true, R not explanation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cultural/educational fame under Sharqis (esp. **Ibrahim**) earned the title.
+
+</details>
+
+**Logic:** Abolished jizya + cow slaughter = Zain-ul-Abidin (UPPCS 2023).
+
+**Q6. UPPCS Prelims 2023**
+
+Which among the following ruler of Kashmir abolished Zaziya and Cow Slaughter?
+
+A. Sikandar Shah
+
+B. Shamsuddin Shah
+
+C. Haider Shah
+
+D. Zain-ul-Abidin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Also **Akbar of Kashmir**; *Mahabharata* / *Rajatarangini* into Persian; **Zaina Lank** in **Wular**.
+
+</details>
+
+**Logic:** Malik Sarwar NOT Malwa — Jaunpur.
+
+**Q7. UPPCS Prelims 2021**
+
+Which one of the following is NOT correctly matched?
+
+A. Rana Hamir – Mewar
+
+B. Rana Chunda – Marwar
+
+C. Malik Raja Farooqi – Khandesh
+
+D. Malik Sarwar Khwaja Jahan – Malwa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Malik Sarwar / Khwaja-i-Jahan** founded **Sharqi Jaunpur**, not Malwa.
+
+</details>
+
+**Logic:** Bahmani year = 1347.
+
+**Q8. UPPCS Mains 2005 / Prelims 2016**
+
+The Bahmani Kingdom was founded in the year / century:
+
+A. 1336 / 15th century
+
+B. 1338 / 13th century
+
+C. 1347 / 14th century
+
+D. 1361 / 16th century
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: 1347 (14th century).** Founder **Alauddin Hasan Bahman Shah / Hasan Gangu**.
+
+</details>
+
+**Logic:** Kitab-i-Nauras author = Ibrahim Adil Shah II.
+
+**Q9. UPPCS Prelims 2020**
+
+Who among the following was the author of the book 'Kitab-i-Nauras'?
+
+A. Ibrahim Adil Shah II
+
+B. Ali Adil Shah
+
+C. Quli Qutab Shah
+
+D. Akbar II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bijapur; also **Jagatguru**.
+
+</details>
+
+**Logic:** Wrong pair Yusuf Adil Shah–Ahmadnagar.
+
+**Q10. UPPCS Prelims 2004**
+
+Name the pair which is not correctly matched:
+
+A. Baz Bahadur – Malwa
+
+B. Qutb Shah – Golconda
+
+C. Sultan Muzaffar Shah – Gujarat
+
+D. Yusuf Adil Shah – Ahmadnagar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Yusuf Adil Shah** = **Bijapur**; Ahmadnagar = **Nizam Shahi (Malik Ahmad)**.
+
+</details>
+
+---
+
+### Other papers (Ghatnachakra Extra)
+
+**Logic:** Akbar of Kashmir = Zain-ul-Abidin.
+
+**Q-GC1. RAS/RTS 1993**
+
+Ruler of Kashmir who was also known as “Akbar of Kashmir” was:
+
+A. Shamshuddin Shah
+
+B. Sikandar Butshikan
+
+C. Haidar Shah
+
+D. Zain-ul-Abidin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+**Logic:** First abolish jizya (UK context) = Zain-ul-Abidin.
+
+**Q-GC2. UK UDA/LDA Mains 2006**
+
+Which among the following ruler abolished Jizya for first time?
+
+A. Zain-ul-Abidin
+
+B. Muhammad-Bin-Tughluq
+
+C. Hussain Shah Sharqi
+
+D. Akbar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Coaching key for this stem.
+
+</details>
+
+**Logic:** Bahmani founder = Alauddin Hasan / Hasan Gangu.
+
+**Q-GC3. UKPCS Prelims 2002 / BPSC / UPPCS 1995**
+
+Bahmani State was established by / founder:
+
+A. Alauddin Hasan / Hasan Gangu
+
+B. Ali Abid Shah / Firuz Shah
+
+C. Hussain Nizam Shah
+
+D. Mujahid Shah / Sikandar Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Alauddin Hasan Bahman Shah (Hasan Gangu), 1347; capital Gulbarga (Ahsanabad).**
+
+</details>
+
+**Logic:** First Bahmani capital = Gulbarga.
+
+**Q-GC4. Chhattisgarh PCS 2014**
+
+Which of the following was the first capital of the Bahamani Kingdom?
+
+A. Bidar
+
+B. Gulbarga
+
+C. Daulatabad
+
+D. Hussainabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Later **Bidar**.
+
+</details>
+
+**Logic:** Match Adil–Bijapur, Qutb–Golconda, Nizam–Ahmadnagar, Sharqi–Jaunpur.
+
+**Q-GC5. UKPCS Prelims 2003 / UP Lower 2002**
+
+Match: Adil Shahi, Qutb Shahi, Nizam Shahi, Sharqi with Ahmednagar, Bijapur, Golconda, Jaunpur.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Adil–Bijapur; Qutb–Golconda; Nizam–Ahmadnagar; Sharqi–Jaunpur** (code often **2-3-1-4** when lists ordered that way).
+
+</details>
+
+**Logic:** Jagadguru = Ibrahim Adil Shah (IAS 2000).
+
+**Q-GC6. IAS (Pre) 2000**
+
+Which one of the following Muslim rulers was hailed as the ‘Jagadguru’ by his Muslim subjects because of his belief in secularism?
+
+A. Hussain Shah
+
+B. Zain-ul -Abidin
+
+C. Ibrahim Adil Shah
+
+D. Mahmud II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Bijapur; *Kitab-i-Nauras*; **Nauraspur**.
+
+</details>
+
+**Logic:** Gol Gumbad = one of world’s largest domes.
+
+**Q-GC7. IAS 1995**
+
+Which one of the following monuments has a dome which is said to be one of the largest in the world?
+
+A. Tomb of Sher Shah, Sasaram
+
+B. Jama Masjid, Delhi
+
+C. Tomb of Ghiyasuddin Tughluq, Delhi
+
+D. Gol Gumbad, Bijapur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tomb of **Muhammad Adil Shah**.
+
+</details>
+
+**Logic:** Diu surrendered by Bahadur Shah of Gujarat.
+
+**Q-GC8. IAS 2023**
+
+Which among the following rulers of medieval Gujarat surrendered Diu to Portuguese?
+
+A. Ahmad Shah
+
+B. Mahmud Begarha
+
+C. Bahadur Shah
+
+D. Muhammad Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **1535** treaty with Nuno da Cunha.
+
+</details>
+
+**Logic:** Gujari Mahal = Man Singh Tomar.
+
+**Q-GC9. MPPCS 2010**
+
+Who built Gujari Mahal?
+
+A. Suraj Sen
+
+B. Man Singh
+
+C. Tej Karan
+
+D. Akbar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Man Singh Tomar** (~1486–1516); now a museum.
+
+</details>
+
+---
+
+
+**Logic:** Hoysala capital Dwarasamudra = Halebid; monuments at Halebid and Belur.
+
+**Q-GC10. IAS 2001 / UPPCS Mains 2003 / RO 2014**
+
+Hoysala monuments / modern name of Dwarasamudra:
+
+A. Hampi and Hospet / Belur
+
+B. Halebid and Belur / Halebid
+
+C. Mysore and Bangalore / Sringeri
+
+D. Sringeri and Dharwar / Somnathpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Capital **Dwarasamudra** = modern **Halebidu**; temples at **Halebid** and **Belur**.
+
+</details>
+
+**Logic:** Kakatiya capital Warangal; Rudrama Devi = Kakatiya.
+
+**Q-GC11. UPPCS Pre 2019 / UKPCS 2021 / UP RO 2023**
+
+Match Pallava–Pandya–Yadava–Kakatiya with Kanchi–Madura–Devagiri–Warangal; Rudrama Devi dynasty.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Pallava–Kanchi; Pandya–Madura; Yadava–Devagiri; Kakatiya–Warangal. **Rudrama Devi** = **Kakatiya** (fourth independent ruler; daughter of Ganapati).
+
+</details>
+
+
+---
+
+## UKPCS — Provincial / Deccan stems
+
+**Logic:** Bahmani founder (UKPCS 2002).
+
+**Q-UK1. UKPCS Prelims 2002**
+
+Bahmani State was established by:
+
+A. Alauddin Hasan
+
+B. Ali Abid Shah
+
+C. Hussain Nizam Shah
+
+D. Mujahid Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **1347**, Gulbarga.
+
+</details>
+
+**Logic:** Dynasty–city match (UKPCS 2003).
+
+**Q-UK2. UKPCS Prelims 2003**
+
+Match Adil Shahi / Qutb Shahi / Nizam Shahi / Sharqi Shahi with Ahmednagar / Bijapur / Golconda / Jaunpur.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Adil–Bijapur; Qutb–Golconda; Nizam–Ahmadnagar; Sharqi–Jaunpur.**
+
+</details>
+
+**Logic:** Abolished jizya first (UK UDA 2006).
+
+**Q-UK3. Uttarakhand UDA/LDA (Mains) 2006**
+
+Which among the following ruler abolished Jizya for first time?
+
+A. Zain-ul-Abidin
+
+B. Muhammad-Bin-Tughluq
+
+C. Hussain Shah Sharqi
+
+D. Akbar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
 
 </details>
 
@@ -1625,3 +2141,10 @@ A. Both true, R explains A | B. Both true, R not explanation | C. A true, R fals
 13. **Jaunpur is in UP.** It is the only Topic-3 capital inside Uttar Pradesh.
 14. There were **five Deccan Sultanates**, not Jaunpur, because the Sharqi state had already been annexed.
 15. **Abul Hasan Qutb Shah** was the last Golkonda ruler when the Mughals captured it in **1687**.
+
+12. **Jaunpur city** was founded by **Firuz** for **Jauna Khan (MbT)**; the **Sharqi state** was founded by **Malik Sarwar (Khwaja-i-Jahan)**. Last Sharqi = **Hussain Shah**.
+13. **Siraj/Shiraz-i-Hind** = Jaunpur under **Ibrahim Shah**; education/culture explains the title.
+14. **Yusuf Adil Shah ≠ Ahmadnagar**; **Jagatguru / Kitab-i-Nauras / Nauraspur** = **Ibrahim Adil Shah II** of Bijapur.
+15. **Gol Gumbad** = **Muhammad Adil Shah** (Bijapur). **Bahadur Shah** of Gujarat gave **Diu** to the Portuguese.
+16. **Malik Sarwar ≠ Malwa**. **Zain-ul-Abidin** abolished jizya and cow slaughter (**UPPCS 2023**).
+

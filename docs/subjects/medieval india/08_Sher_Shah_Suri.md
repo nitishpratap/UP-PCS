@@ -8,14 +8,14 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, **Ghatnachakra** Babur–Sher Shah–Akbar chapters, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Chausa/Kannauj, Jarib/Desai, Dam–Rupiya, Sasaram tomb order, Jayata–Kumpa Marwar
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated — 25 Must-Score Facts
 
 1. **Farid Khan** of **Sasaram** became **Sher Khan** after the tiger-kill tradition, then **Sher Shah Suri** as Padshah from **1540**.
 2. The Sur empire lasted only about **1540–1545**, yet its admin, roads, and revenue model shaped later Mughal practice.
@@ -40,7 +40,8 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 21. **Barid** spies watched officers; the **qazi** judged by sharia and stayed outside the revenue chain.
 22. Horses were branded with **dagh**, a precursor to the later Mughal chehra–dagh system.
 23. Sher Shah kept a standing force with registered men; he did **not** create hereditary mansabdari like Akbar.
-24. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah.
+24. **Farid Khan** was educated at **Jaunpur** (**Siraj-i-Hind**). He took **Hazrat-e-Ala** in Bengal service, then **Sher Shah** after **Chausa (1539)**.
+25. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah. **Qila-i-Kuhna** mosque stands **inside** Purana Qila — Sher Shah's work.
 
 ---
 
@@ -59,6 +60,8 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 | Shiqdar vs Munshif | Law/order vs accounts | शिकदार / मुंशिफ |
 | Rohtas vs Purana Qila | Bihar hill fort vs Delhi citadel | रोहतास / पुराना किला |
 | Sasaram vs Kalinjar | Birth + tomb vs death siege 1545 | सासाराम / कालिंजर |
+| Hazrat-e-Ala vs Sher Shah | Bengal-service title vs imperial **Sher Shah** after **Chausa 1539** | हज़रत-ए-आला / शेर शाह |
+| Jaunpur education vs Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
 | Marwar vs Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
 
 ---
@@ -79,6 +82,10 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 **Course:** Sher Shah defeated Humayun decisively at **Kannauj (Bilgram)**.
 **Result:** Humayun fled to **Iran (Safavid refuge)**. **Sher Shah** became ruler of north India (**1540–1545**).
 
+- **Farid Khan** studied at **Jaunpur**, the **Siraj-i-Hind** centre, before Bihar service.
+- In Bengal service he held the title **Hazrat-e-Ala**. After **Chausa (1539)** he took the imperial style **Sher Shah**.
+- Before **Kannauj (1540)**, Sher Shah offered Humayun peace if he surrendered **Bihar** and **10 lakh** rupees but could keep **Bengal** — Humayun **declined**.
+- **Qazi Fazilat** served as **Amin-i-Bengal**; Bengal was organised into **sirkars** under Sur rule.
 - Sher Shah was born as **Farid Khan** around **1472** at **Sasaram**. His father was **Hasan Khan Sur**, an Afghan of the **Sur** clan.
 - He served **Bahar Khan Lohani** in Bihar. Tradition says he killed a **tiger**, earning the title **Sher Khan**.
 - After Bahar Khan’s death, Sher Khan took **Bihar** and defeated Bengal’s **Mahmud Shah**, building an eastern revenue base.
@@ -156,7 +163,7 @@ D. Jarib — A type of tax
 
 ## 8.4 Road System
 
-- Sher Shah built the **Grand Trunk Road** from **Sonargaon** in Bengal to **Peshawar**, passing through the Patna–Kannauj–Agra–Delhi corridor — a major UP axis.
+- Sher Shah built the **Sadak-e-Azam** (**Grand Trunk Road**) from **Sonargaon** in Bengal to **Peshawar/Kabul**, passing through the Patna–Kannauj–Agra–Delhi corridor — a major UP axis.
 - **Sarais** stood about every **12 kos** (roughly 20 miles), offering lodging, supplies, and security.
 - **Kos-minars** marked distances along the road. A **dak** horse-post carried news quickly.
 - Roads and forts let Sher Shah move troops against Humayun and Afghan rivals.
@@ -344,6 +351,196 @@ D. Maham Anaga
 </details>
 
 ---
+
+
+## Ghatnachakra Extra Drill — Sher Shah (UPPCS first)
+
+Teaching for these stems sits in **8.1–8.6**.
+
+**Logic:** **Patta** = state record to peasant; **qabuliat** = peasant's written acceptance — Sur revenue pair.
+
+**Q1. UPPCS / Ghatnachakra**
+
+In Sher Shah's revenue system, **patta** and **qabuliat** respectively mean:
+
+A. Measuring rope and crop rate
+B. State document to peasant and peasant's acceptance
+C. Gold and silver coins
+D. Spy report and army roll
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The state issued a **patta** showing area and demand; **qabuliat** was the cultivator's **written acceptance**. Both continued under Akbar's zabt.
+
+</details>
+
+**Logic:** Death = **Kalinjar siege May 1545** — gunpowder blast, not sword wound; tomb at **Sasaram**.
+
+**Q2. UPPCS / Ghatnachakra**
+
+Sher Shah died:
+
+A. At Chausa in 1539
+B. At Kannauj in 1540
+C. During the Kalinjar siege in 1545
+D. At Sasaram palace of old age
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** He died in **May 1545** at the **Kalinjar** siege from a **gunpowder/magazine explosion**. His tomb is the lake mausoleum at **Sasaram**.
+
+</details>
+
+**Logic:** Sammel quote — "nearly lost empire of Hindustan for a handful of **bajra/millets**."
+
+**Q3. UPPCS / Ghatnachakra**
+
+Sher Shah's famous quote about nearly losing the "empire of Hindustan" for a handful of millets refers to:
+
+A. Battle of Chausa
+B. Battle of Kannauj
+C. Battle of Sammel/Giri-Sumel vs Rao Maldeo (1544)
+D. Siege of Chunar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** After **Sammel (1544)** against **Rao Maldeo of Marwar**, Sher Shah said he nearly lost Hindustan for a handful of **bajra**. **Jayata** and **Kumpa** were the loyal Rathore captains.
+
+</details>
+
+**Logic:** Sasaram tomb order — after Atala Jaunpur, before Humayun's Tomb (2019 Q91).
+
+**Q4. UPPCS Prelims 2019, Q91 (Ghatnachakra repeat)**
+
+Monuments: I Rabia Daurani II Sher Shah tomb III Humayun IV Atala Jaunpur
+
+A. I-II-IV-III
+B. IV-II-III-I
+C. II-I-III-IV
+D. III-IV-II-I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (IV-II-III-I).** **Atala Jaunpur** → **Sher Shah Sasaram (~1545)** → **Humayun Delhi (~1565)** → **Rabia Daurani Aurangabad (~1678)**.
+
+</details>
+
+**Logic:** RO 2021 — Sher Shah's **qualities as ruler** more remarkable than battlefield wins alone: stmt 1 true (admin/roads/coins), stmt 2 false (not "only" a general).
+
+**Q5. UP RO/ARO Prelims 2021 / Ghatnachakra**
+
+Consider Sher Shah Suri:
+
+1. His qualities as a ruler were more remarkable than his battlefield victories alone.
+2. He left no lasting administrative contribution.
+
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Only 1).** Statement **1** is true — roads, **patta/qabuliat**, coins, and pargana officers outlasted five years of rule. Statement **2** is false — Mughals copied his revenue and currency template.
+
+</details>
+
+**Logic:** **Qila-i-Kuhna** mosque stands **inside Purana Qila** — Sher Shah's Delhi citadel work.
+
+**Q6. UPPCS / Ghatnachakra**
+
+The **Qila-i-Kuhna** mosque is located inside:
+
+A. Fatehpur Sikri
+B. Purana Qila, Delhi
+C. Rohtas Fort, Bihar
+D. Kalinjar Fort
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Qila-i-Kuhna** is the old mosque **inside Purana Qila**, rebuilt by **Sher Shah** in Delhi. **Khayr-ul-Manazil** opposite the fort is **Maham Anaga's** (Akbar era).
+
+</details>
+
+**Logic:** **Sadak-e-Azam** = Grand Trunk Road **Sonargaon–Peshawar/Kabul** with sarais ~12 kos.
+
+**Q7. UPPCS / Ghatnachakra**
+
+Sher Shah's **Sadak-e-Azam** (Grand Trunk Road) connected:
+
+A. Agra to Lahore only
+B. Sonargaon to Peshawar/Kabul
+C. Surat to Delhi
+D. Golkonda to Kannauj
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Sadak-e-Azam** ran **Sonargaon (Bengal)** to **Peshawar/Kabul** through the Gangetic heartland, with **sarais** about every **12 kos**.
+
+</details>
+
+**Logic:** Jarib is measuring rope — 2019 Q87 NOT-matched trap.
+
+**Q8. UPPCS Prelims 2019, Q87 (Ghatnachakra repeat)**
+
+NOT correctly matched:
+
+A. Dam — Copper
+B. Desai — Revenue Collector
+C. Diwan — Revenue Chief of a province
+D. Jarib — A type of tax
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Jarib** is the **measuring rope**, not a tax. **Dam** = copper coin. **Desai/Amil** = collector.
+
+</details>
+
+### Other papers (Ghatnachakra Extra)
+
+**Logic:** Sher Shah educated at **Jaunpur** — centre known as **Siraj-i-Hind**.
+
+**Q9. RAS/RTS / Ghatnachakra**
+
+Sher Shah (Farid Khan) received education at:
+
+A. Delhi
+B. Jaunpur
+C. Sasaram only
+D. Gaur (Bengal)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Farid Khan** studied at **Jaunpur**, the **Siraj-i-Hind** educational centre, before returning to Bihar–Sasaram service.
+
+</details>
+
+**Logic:** Title path — **Hazrat-e-Ala** in Bengal service, then **Sher Shah** after **Chausa (1539)**.
+
+**Q10. BPSC / Ghatnachakra**
+
+Sher Shah assumed the title **Sher Shah** after which battle?
+
+A. Daurah (1532)
+B. Chausa (1539)
+C. Kannauj (1540)
+D. Sammel (1544)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** He rose as **Sher Khan** after the tiger kill; took **Hazrat-e-Ala** in Bengal service; assumed imperial **Sher Shah** after defeating Humayun at **Chausa (1539)**. **Kannauj (1540)** sealed Delhi.
+
+</details>
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1004,3 +1201,7 @@ D. Neither
 13. Akbar continued Sher Shah's **Dam** as the chief copper coin (**UPPCS Prelims 2019 Q12**).
 14. Sher Shah ruled only about **five years (1540–1545)**, but his reforms became the template for Akbar.
 15. **Khanwa (1527)** was Babur's battle against Rana Sanga, not Sher Shah's war.
+16. **Farid Khan** was educated at **Jaunpur (Siraj-i-Hind)**, not only born at Sasaram.
+17. **Hazrat-e-Ala** was an earlier title; **Sher Shah** followed **Chausa (1539)**, not Daurah (1532).
+18. **Qila-i-Kuhna** is **inside Purana Qila** — do not confuse with **Khayr-ul-Manazil** (Maham Anaga).
+19. **RO 2021** — Sher Shah's **qualities as ruler** (stmt 1) outlasted battlefield fame; he **did** leave admin legacy (stmt 2 false).

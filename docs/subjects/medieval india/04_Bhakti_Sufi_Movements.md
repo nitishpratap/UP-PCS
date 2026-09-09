@@ -8,9 +8,9 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, **Ghatnachakra** Bhakti and Sufi Movement (B–259+), UPPCS / UKPCS Prelims PYQs
 > **Weight:** ★★★ — guru–disciple matching, saint chronology, Chishti pairs, Vedanta schools, Fawaid-ul-Fuad
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
@@ -29,11 +29,11 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 10. **Ramcharitmanas** is Tulsidas in **Awadhi**; **Sursagar** is Surdas in **Braj**.
 11. **Fawaid-ul-Fuad** records **Nizamuddin** conversations compiled by **Amir Hasan Sijzi**, not by Amir Khusrau.
 12. Vedanta schools: **Shankara–Advaita**; **Ramanuja–Vishishtadvaita**; **Madhva–Dvaita**; **Nimbarka–Dvaitadvaita**; **Vallabhacharya–Shuddhadvaita**.
-13. **Ramananda** taught Rama bhakti at Banaras / Prayag; do not confuse him with south philosopher **Ramanuja** (Vishishtadvaita).
+13. **Ramananda** (born **Prayag**, ~1299) taught Rama bhakti in **Hindi** first among north sants; do not confuse with south **Ramanuja** (Vishishtadvaita).
 14. **Basavanna** led Lingayat / Virashaiva reform in Karnataka with **Ishtalinga**, Kayaka, and Anubhava Mantapa.
 15. The **Varkari** tradition centres on **Pandharpur / Vithoba** through **Jnaneshwar**, Namdev, and Tukaram.
 16. **Jayadeva** wrote **Gita Govinda** in Odisha; **Shankaradeva** led Assam Vaishnavism with **satra** and **kirtana-ghosha**.
-17. UP Kabir facts: birth–preaching at **Varanasi / Kashi** and death at **Maghar** (Sant Kabir Nagar).
+17. UP Kabir facts: **Bijak** (Ramaini/Sabda/Sakhi); dialogues with **Dharamdas** = *Amarmul*; death at **Maghar** (Sant Kabir Nagar).
 18. **Tulsidas** belongs to Awadhi **UP**; **Surdas** to the **Braj** belt (Mathura–Vrindavan); **Gorakhnath** to **Gorakhpur**.
 19. **Mirabai** is the Rajasthan Krishna devotee; **Andal** is the Tamil Alvar woman saint — do not swap them.
 20. **Baba Farid** was the Chishti saint of Ajodhan with verses in the **Adi Granth**; he is not Kabir.
@@ -41,10 +41,10 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 22. A **pir** is the Sufi spiritual master; a **guru** is the Bhakti preceptor.
 23. **Narsi Mehta** belongs to Gujarat; **Namdev** is an early Vithoba / Varkari saint.
 24. Bhakti was mainly **intra-Hindu** reform against empty ritual, not a movement “against Islam,” though it shared social space with Sufism.
-25. **Moinuddin Chishti** is locked to **Ajmer**; **Bahauddin Zakariya** to **Multan** (Suhrawardi).
+25. **Moinuddin** (disciple of **Usman Haruni**) settled **Ajmer**; order name from **Chisht (Afghanistan)**, not a village in Ajmer. **Bahauddin Zakariya** = **Multan** (Suhrawardi).
 26. **Ravidas** is the Banaras Dalit saint in Ramananda’s circle.
 27. Composite culture does not mean every saint mixed doctrines — **Ahmad Sirhindi** and **Kabir** rejected syncretic ritual.
-28. Regional Bhakti map also keeps **Jayadeva** (Odisha), **Shankaradeva** (Assam), and **Basavanna** (Karnataka) as separate non-Gangetic streams.
+28. Regional map: **Jayadeva** (Odisha), **Shankaradeva** / Ekasarana (**Kamarupa–Assam**), **Basavanna** (Karnataka). **Prem Vatika** = **Raskhan**; **Barahmasa** = **Malik Muhammad Jayasi**; **Dewa Sharif** (Barabanki) = Haji Waris Ali Shah.
 
 ---
 
@@ -63,6 +63,11 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 | Jnaneshwar vs Namdev | Varkari founder (Jnaneshwari Gita) vs earlier Vithoba saint in same line | ज्ञानेश्वर / नामदेव |
 | Baba Farid vs Kabir | Chishti saint (Ajodhan); verses in Adi Granth vs nirguna Kashi weaver-saint | बाबा फरीद / कबीर |
 | Pir vs Guru | Sufi spiritual master (silsilah) vs Bhakti preceptor | पीर / गुरु |
+| Amarmul vs Bijak | Kabir–Dharamdas dialogues vs main Kabirpanthi scripture | अमरमूल / बीजक |
+| Prem Vatika vs Rasik Priya | **Raskhan** vs **Keshavdas** | प्रेम वाटिका / रसिक प्रिया |
+| Chisht (Afghanistan) vs Ajmer | Order name origin vs Moinuddin's Indian centre | चिश्त / अजमेर |
+| Ulema vs Shaikh | Islamic law scholars vs Sufi guide authorised to teach | उलेमा / शेख |
+| Firdausi vs Chishti core | **Bihar** (Yahya Maneri line) vs Delhi–Ajmer Chishti belt | फिरदौसी / चिश्ती |
 
 ---
 
@@ -247,6 +252,10 @@ North sants: Namdev → Kabir / Ravidas → Nanak → Chaitanya → Surdas → T
 
 ## 4.5 Ramananda, Namdev & Ravidas
 
+- **Ramananda** was born in a **Kanyakubja Brahmin** family at **Prayag (~1299)**. He was the first major north Indian sant to preach in **Hindi**, and his pupils cut across caste.
+- His dictum runs: *Let no man ask a man's sect or caste* — a standard north-India equality fact.
+
+
 - **Ramananda** (14th–15th century) was born near **Prayag** and settled in **Banaras**.
 - He shifted worship from Vishnu to the more accessible **Rama** and opened the path to **all castes and women**.
 - Ramananda's famous couplet runs: *"Jat-pat puchhe nahi koi, Hari ko bhaje so Hari ka hoi"* — no one asks caste; whoever worships God belongs to God.
@@ -304,7 +313,8 @@ D. A false, R true
 - He **accepted** the guru, inner experience, and honest householder life, and did **not** require sanyasa or monasticism.
 - His famous doha runs: *"Pahan puje Hari mile, to main pujun pahar"* — if worshipping stone finds God, I shall worship a mountain.
 - Another famous doha runs: *"Kabira khada bazaar mein, sabki mange khair"* — standing in the marketplace, he wishes well to all.
-- **Bijak** is the chief compilation of Kabir's verses, with Ramaini, Sabda, and Sakhi sections.
+- **Bijak** is the chief compilation of Kabir's verses, with **Ramaini**, **Sabda**, and **Sakhi** sections.
+- Dialogues of Kabir with disciple **Dharamdas** are collected in *Amarmul* — not the same as Bijak.
 - His verses also appear in the **Adi Granth** (Sikh) and **Panchvani** (Dadu Panth compilation).
 - Kabir died at **Maghar** on the UP border, deliberately challenging the belief that dying in Kashi alone gives moksha.
 - **Kabir Panth** followers later split into the **Kabir Chaura (Varanasi)** branch and the **Dharamdasi (Chhattisgarh)** branch.
@@ -312,6 +322,8 @@ D. A false, R true
 - Kabir wrote in **Sadhukkadi**, a mixed Hindi dialect that Raheem called *"panchranga"* (five-coloured).
 
 > ** note:** Kabir and Guru Nanak were separate persons, and Kabir did not found Sikhism. Kabir belongs to the **15th century**, while Nanak's life begins in **1469**.
+>
+> **UP saint:** **Malukdas** (b. **1574**, **Kada**, Kaushambi) is a separate nirguna sant of the Ganga belt — do not fold him into Kabir.
 
 ---
 
@@ -329,6 +341,8 @@ D. A false, R true
 - Nanak established the **Kartarpur** sangat (community), which became the model for later Sikh Gurudwara institutions.
 - He was a contemporary of **Chaitanya** (1486–1533) and lived before **Tulsidas** (whose Ramcharitmanas dates to ~1574).
 - Nanak did not call himself Hindu or Muslim: *"Na koi Hindu, na Musalman"* was his first statement after enlightenment at Sultanpur.
+- He lived under **Sikandar Lodi**'s Delhi (and later early Mughals). He founded Sikh sangat practice including **Guru ka Langar**.
+- His equality line runs: God knows a person's virtues and does not ask caste, for there is no caste in the next world.
 
 ---
 
@@ -364,7 +378,7 @@ D. A false, R true
 - Surdas was part of the **Ashtachap**, the eight poet-disciples of Vallabhacharya and Vitthalnath.
 
 **Tulsidas:**
-- Tulsidas was born at **Rajapur/Soron (UP)** and worked in **Banaras/Ayodhya** as a contemporary of **Akbar**.
+- Tulsidas was born at **Rajapur** (**Chitrakoot** district, UP — not Banda in current keys) and worked in **Banaras/Ayodhya**. He was a contemporary of **Akbar and Jahangir**; wife's name was **Ratnawali** (not Geetawali).
 - **Ramcharitmanas** (~1574) is an Awadhi retelling of the Ramayana in **doha-chaupai** form, **not** Sanskrit (a common trap).
 - His other works include **Vinay Patrika** (petition to Rama), **Kavitavali** (Braj), **Hanuman Chalisa**, **Dohavali**, and **Gitavali**.
 - Tulsidas made the Ramayana a **household text** in north India, presenting Rama as an accessible hero-god who combines duty, family, and devotion.
@@ -388,7 +402,7 @@ D. A false, R true
 | **Sahajobai** | **Sahaj Prakash** | Charandasi | 18th c. |
 | **Son Kumari** | **Poem of Swam Beli** | — | — |
 
-- **Mirabai** was born in **Merta** (Mewar) and married **Bhoj Raj**, son of Rana Sanga, but defied the Rajput court for **Krishna** devotion.
+- **Mirabai** was born in **Kudaki/Merta** (father **Ratan Singh Rathore**) and married **Bhojraj**, son of **Rana Sanga**, but defied the Rajput court for **Krishna** devotion. She composed *Rag-Govind*; some stems pair her with the Buddhist idea that the world is full of sorrow.
 - She composed in **Rajasthani/Hindi** and expressed **madhurya bhava** (love for Krishna as divine lover).
 - Her renunciation of royal duty challenged **patriarchy and Rajput izzat codes**.
 - **Andal** is the only **woman Alvar**; she wore the garland meant for the temple deity and wrote bridal mysticism to Vishnu.
@@ -408,7 +422,7 @@ D. A false, R true
 | **Nimbarka** (13th c.) | **Dvaitadvaita** | Simultaneous unity and difference |
 | **Vallabhacharya** (16th c.) | **Shuddhadvaita** | Pure non-dual Krishna bhakti; pushti marg |
 
-- **Vallabhacharya (1479–1531)** founded **Pushti Marg** (path of grace) centred on **Krishna** as **Srinathji** at **Nathdwara** (later Rajasthan).
+- **Vallabhacharya (1479–1531)** was born at **Champaranya** and founded **Pushti Marg** (path of grace) centred on **Krishna** as **Srinathji** at **Nathdwara** (later Rajasthan).
 - **Pushti** means divine grace — salvation comes through Krishna's favour, not ritual merit alone.
 - Vallabhacharya's **Ashtachap** were eight poet-disciples including **Surdas**; **Vitthalnath** (his son) continued the line.
 - In **2022 Q33**, Ramanuja matches code 4, Madhva code 3, Nimbarka code 2, and Vallabha code 1, giving answer **D (4-3-2-1)**.
@@ -451,6 +465,7 @@ D. A false, R true
 - The word **"Sufi"** possibly comes from **suf** (wool), because early mystics wore coarse woollen robes.
 - The **stages of the Sufi path** are Shariat (law), then Tariqat (path), then Haqiqat (truth), then Marifat (divine knowledge).
 - A **khanqah** is a Sufi hospice used for worship, langar (free kitchen), charity, and disciple training.
+- A **Shaikh** is authorised to teach the path; **Sama** is the musical assembly. **Ulema** are scholars of Islamic law — they are **not** a Sufi institution term.
 - **Ba-shara** Sufis follow Sharia and include the Chishti and Suhrawardi orders.
 - **Be-shara** Sufis are wandering qalandars and malangs who live outside strict law.
 - **Wahdat-ul-Wujud** (Ibn Arabi) teaches unity of existence, meaning God is everywhere.
@@ -473,6 +488,9 @@ D. A false, R true
 - Moinuddin used **Hindawi/Hindi** for the masses, not Persian alone, which was key to his mass influence.
 - He defended **sama** (music in worship) despite orthodox opposition, and Chishtis became the most "Indian" Sufi order.
 - **Futuh-ul-Salatin** records Moinuddin's arrival during Ghori's campaigns.
+- Moinuddin became a disciple of **Khwaja Usman Haruni** at Nishapur. The Chishti order takes its name from **Chisht/Chishti Sharif (Afghanistan)**, not from a village in Ajmer.
+- **Shaikh Salim Chishti** of Sikri (Fatehpur Sikri) received the title **Shaikh-ul-Hind**; tradition links Jahangir's birth to his blessing.
+- Maratha chief **Raja Sahu** (grandson of Shivaji) was the first to offer *nazr* at the Ajmer dargah among Maratha chieftains.
 - The **Ajmer dargah (Urs festival)** draws Hindu and Muslim pilgrims and symbolises composite culture.
 - The Chishti chain runs from Moinuddin (Ajmer) to **Qutbuddin Bakhtiyar Kaki** (Delhi, Mehrauli), then **Baba Farid** (Ajodhan/Pakpattan), then **Nizamuddin Auliya** (Delhi), and finally **Nasiruddin Chiragh-i-Delhi** (last great Delhi Chishti).
 - After Nasiruddin, the Chishti silsilah **decentralised** into provincial branches in Gulbarga, Bijapur, and Bengal.
@@ -537,6 +555,8 @@ D. A false, R true
 - He advocated **wahdat-ul-shuhud** (unity of appearance, not existence), holding that God is transcendent, not immanent in creation.
 - **Jahangir** imprisoned Sirhindi in **Gwalior fort** for two years but later released him with honour.
 - Naqshbandi ideology influenced **Aurangzeb's** orthodox policies and later **Waliullah/Wahhabi** revivalism.
+- The **Firdausi / Firdousia** silsilah spread mainly in **Bihar** under **Shaikh Sharfuddin Yahya Maneri**.
+- **Shah Muhammad Ghaus** (Shattari) accepted Krishna among the *Auliyas*; he translated Hatha-yoga *Amritkund* as *Bahar-al-Hayat* and wrote *Jawahir-i-Khamsa*; close to Humayun and Tansen.
 
 ---
 
@@ -561,7 +581,7 @@ Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Ea
 | Saint | Period | Key work / trait |
 |-------|--------|------------------|
 | **Jnaneshwar** (Jnanadeva) | 13th c. | **Jnaneshwari** — Marathi commentary on the **Bhagavad Gita** in **ovi** metre |
-| **Namdev** | ~1270–1350 | Early Varkari; **61 hymns** in Guru Granth Sahib |
+| **Namdev** | ~1270–1350 | Early Varkari; **61 hymns** in Guru Granth Sahib; often cited as Islam-influenced among Maharashtra sants |
 | **Eknath** | 16th c. | Revived Varkari tradition; commentary on Jnaneshwari |
 | **Tukaram** | 17th c. | **Abhangas** to Vithoba; peak of Marathi popular Bhakti |
 
@@ -591,6 +611,12 @@ Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Ea
 ---
 
 ## 4.18 Bhakti–Sufi Synthesis & Composite Culture
+
+- **Raskhan** (Sayyid Ibrahim) wrote *Prem Vatika* and *Sujan Raskhan* on Krishna in **Braj**. **Rasik Priya** is by **Keshavdas**, not Raskhan.
+- **Malik Muhammad Jayasi** wrote *Padmavat*, *Barahmasa*, *Akharawat*, and *Aakhiri Kalam*.
+- The fair at **Dewa Sharif** (Barabanki, UP) centres on Sufi saint **Haji Waris Ali Shah**.
+- **Amir Hasan** (Hasan-i-Dehlavi) is called the **Sadi of India** for his ghazals — not Amir Khusrau.
+- **Amir Khusrau** was a court poet–musician in the Chishti circle, **not** a Bhakti sant.
 
 - Bhakti and Sufism were **separate religious paths**, but in north India they shared **social space**, **vernacular song**, and **egalitarian ethics**.
 - Historians describe this as the meeting of **"great traditions"** (Sanskrit/Persian elite religion) and **"little traditions"** (local deity cults, folk devotion).
@@ -823,6 +849,587 @@ D. Qutbuddin Bakhtiyar Kaki
 <summary>Show answer</summary>
 
 **Ans: B (Series B provisional key).** Nasiruddin Mahmud Chiragh-i-Delhi succeeds Nizamuddin in the Chishti line of Delhi. Nizamuddin is Mahbub-i-Ilahi; Farid is Baba Farid; Bakhtiyar Kaki is the Mehrauli saint.
+
+</details>
+
+---
+
+
+## Ghatnachakra Extra Drill — Bhakti & Sufi (UPPCS first)
+
+Teaching for these stems sits in **4.1–4.18**.
+
+**Logic:** Early phase = Alvars / Nayanars; mass north rebirth = 15th–16th c.
+
+**Q1. UP UDA/LDA (Pre) 2001 / UPPCS 1993**
+
+The Bhakti movement was started by / reborn in India during:
+
+A. Alvar Saints / Vedic age
+
+B. Sufi Saints / 10th century
+
+C. Surdas / 12th century
+
+D. Tulsidas / 15th–16th century
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Started in the south with **Alvar–Nayanar** devotion (and philosophical bridge via Shankara); the **north sant wave was reborn in the 15th–16th century** (Kabir, Nanak, Tulsi, Sur, Mira).
+
+</details>
+
+**Logic:** Vernacular preaching is the shared Bhakti feature.
+
+**Q2. BPSC 2005 (pattern)**
+
+A common feature of all Bhakti Saints was that they:
+
+A. Composed verses in the language understood by followers
+
+B. Rejected the authority of the priestly class (as the only correct key)
+
+C. Encouraged women to go to temples
+
+D. Encouraged idol worship
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Vernacular reach is the safest common feature across saguna and nirguna lines.
+
+</details>
+
+**Logic:** First Hindi propagator = Ramananda (IAS / UPPCS family).
+
+**Q3. IAS (Pre) 2002 / UPPCS Mains 2010**
+
+Who among the following was the first Bhakti Saint to use Hindi for the propagation of his message / born in Prayag?
+
+A. Dadu / Kumbhandas
+
+B. Kabir / Raidas
+
+C. Ramananda
+
+D. Tulsidas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ramananda** of Prayag; Hindi preaching; Kabir among his disciples.
+
+</details>
+
+**Logic:** Bijak = Kabir; Amarmul = Kabir–Dharamdas.
+
+**Q4. UPPCS Prelims 2003 / UDA 2002**
+
+A collection of dialogues between Kabir and Dharamdas is titled:
+
+A. Sabad
+
+B. Amarmul
+
+C. Sakhi
+
+D. Ramaini
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sabad/Sakhi/Ramaini are Kabir genres; *Amarmul* is the dialogue collection.
+
+</details>
+
+**Logic:** Shankaradeva = Assam / Kamarupa Vaishnavism.
+
+**Q5. UPPCS Mains 2002 / Prelims 2015 / Mains 2011**
+
+Vaishnavism in Kamarupa / Assam and Cooch Behar was popularised by:
+
+A. Chaitanya
+
+B. Nimbarka / Madhva
+
+C. Ramananda / Vallabhacharya
+
+D. Shankaradeva
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Ekasarana** Vaishnava; often called the Chaitanya of Assam.
+
+</details>
+
+**Logic:** Correct Vedanta match Madhva–Dvaita; Pushti = Vallabha not Madhva.
+
+**Q6. UPPCS Mains 2005 / Prelims 2022 / IAS 2014**
+
+Which is correctly matched / both statements wrong?
+
+A. Advaita–Ramanuja (wrong)
+
+B. Vishishtadvaita–Shankara (wrong)
+
+C. Dvaita–Madhvacharya (correct)
+
+D. Bijak = Dadu; Pushti = Madhva (both wrong — IAS 2014)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Dvaita–Madhva** is correct. *Bijak* = **Kabir**; **Pushtimarg / Shuddhadvaita** = **Vallabhacharya**.
+
+</details>
+
+**Logic:** Nanak founded Sikhism under Sikandar Lodi; birth Nankana.
+
+**Q7. UPPCS Spl Pre 2008 / Mains 2007**
+
+In whose regime did Guru Nanak found Sikh religion / birthplace?
+
+A. Firuz Shah Tughluq / Amritsar
+
+B. Sikandar Lodi / Nankana
+
+C. Humayun / Nabha
+
+D. Akbar / Nanded
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Birth **Nankana Sahib**; career under **Sikandar Lodi**.
+
+</details>
+
+**Logic:** Tulsidas contemporary of Akbar and Jahangir; Ramcharitmanas Awadhi.
+
+**Q8. UPPCS Spl Pre 2004 / UK UDA 2007**
+
+Whose contemporary was Tulsidas / who wrote Ramcharitmanas?
+
+A. Akbar and Jahangir / Tulsidas
+
+B. Shahjahan / Valmiki
+
+C. Aurangzeb / Surdas
+
+D. Babur and Humayun / Ved Vyas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** *Ramcharitmanas* in **Awadhi** by **Tulsidas**.
+
+</details>
+
+**Logic:** Rasik Priya ≠ Raskhan.
+
+**Q9. UPPCS Prelims 2018**
+
+Which of the following pairs is NOT correctly matched?
+
+A. Dhruvadas – Bhagat Namawali
+
+B. Nabhadas – Bhaktamal
+
+C. Raskhan – Rasik Priya
+
+D. Usman – Chitrawali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Rasik Priya** = **Keshavdas**; Raskhan wrote *Prem Vatika* / *Sujan Raskhan*.
+
+</details>
+
+**Logic:** Varkari peeth = Pandharpur; Namdev is Varkari.
+
+**Q10. UPPCS Mains 2002/04 / RAS 2018**
+
+Who was the Saint of the Varkari Sect / main seat of Varkari?
+
+A. Nimbarka / Shringeri
+
+B. Chakradhara / Nadia
+
+C. Namdev / Pandharpur
+
+D. Ramdas / Varanasi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Pandharpur** (Vitthal / Chandrabhaga).
+
+</details>
+
+**Logic:** Chishti in India = Moinuddin; disciple of Usman Haruni; Shaikh-ul-Hind = Salim.
+
+**Q11. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
+
+Chishtia order in India / earliest at Ajmer / founder branch / Shaikh-ul-Hind:
+
+A. Moinuddin Chishti at Ajmer; disciple of Usman Haruni; Salim Chishti = Shaikh-ul-Hind
+
+B. Bahauddin Zakariya
+
+C. Ahmad Sirhindi
+
+D. Abdul Qadir Jilani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chain and titles as above; Qadiri founder line ≠ Chishti.
+
+</details>
+
+**Logic:** Mehboob-i-Ilahi = Nizamuddin; refused Alauddin; Chirag = Nasiruddin.
+
+**Q12. UPPCS Pre 2014 / UKPCS 2016 / RO 2017**
+
+Which Sufi was called Mehboob-i-Ilahi / Chirag-i-Delhi?
+
+A. Moinuddin / Fariduddin
+
+B. Baba Farid / Nizamuddin
+
+C. Bakhtiyar Kaki / Salim
+
+D. Nizamuddin Auliya / Nasiruddin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Mehboob-i-Ilahi** = Nizamuddin; **Chirag-i-Delhi** = **Nasiruddin**.
+
+</details>
+
+**Logic:** Adi Granth verses = Baba Farid; Nizamuddin not Multan.
+
+**Q13. UPPCS Pre 1994 / 2020**
+
+Thought incorporated in Adi Granth / NOT correctly matched shrine:
+
+A. Fariduddin Ganj-i-Shakar / Nizamuddin–Multan is wrong
+
+B. Moinuddin / Nizamuddin–Delhi wrong
+
+C. Bakhtiyar Kaki
+
+D. Nizamuddin for Adi Granth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A pattern.** Farid’s compositions enter **Adi Granth**; **Nizamuddin–Multan** is the wrong pair (Delhi is correct).
+
+</details>
+
+**Logic:** Match Chishti–Naqshbandi–Qadiri–Suhrawardi.
+
+**Q14. UPPCS Mains 2013**
+
+Match: Moinuddin / Ahmad Sirhindi / Dara Shukoh / Shahabuddin with Chishtiya / Naqshbandiya / Qadiriya / Suhrawardiya.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Moinuddin–Chishti; Sirhindi–Naqshbandi; Dara–Qadiri; Shahabuddin–Suhrawardi.
+
+</details>
+
+**Logic:** Order against music = Naqshbandiya.
+
+**Q15. UPPCS Pre 2003 / Mains 2013**
+
+Which Sufi order was against music?
+
+A. Chishtiya
+
+B. Suhrawardiya
+
+C. Qadiriya
+
+D. Naqshbandiya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Most orthodox; opposed Sama; Sirhindi line.
+
+</details>
+
+**Logic:** Krishna as Auliya = Muhammad Ghaus.
+
+**Q16. UPPCS Pre 2003 / Mains 2012**
+
+Which Sufi regarded Krishna among the Auliyas?
+
+A. Shah Muhammad Ghaus
+
+B. Shah Abdul Aziz
+
+C. Shah Waliullah
+
+D. Khwaja Mir Dard
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Shattari; *Bahar-al-Hayat* / *Jawahir-i-Khamsa*.
+
+</details>
+
+**Logic:** Not related to Sufism = Ulema.
+
+**Q17. UPPSC RI 2014**
+
+Which of the following is not related to Sufism?
+
+A. Ulema
+
+B. Khanqah
+
+C. Shaikh
+
+D. Sama
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Ulema = law scholars.
+
+</details>
+
+**Logic:** Prem Vatika = Raskhan; Barahmasa = Jayasi; Dewa Sharif = Waris Ali Shah.
+
+**Q18. IAS 1996 / BPSC 1994 / UPPCS 2008**
+
+Prem Vatika / Barahmasa / Dewa Sharif fair:
+
+A. Raskhan / Jayasi / Barabanki
+
+B. Surdas / Khusrau / Fatehpur Sikri
+
+C. Kabir / Imami / Kaliyar
+
+D. Bihari / Amir Khusrau / Garhmukteshwar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Logic:** Hath Yog Nath + Sufi (UPPCS 2019).
+
+**Q19. UPPCS Prelims 2019**
+
+With reference to Hath Yog: 1. Practiced by Nathpanthis 2. Technique also adopted by Sufis
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+**Logic:** Tulsidas birth/wife statements (RO 2023) — both false in that stem.
+
+**Q20. UP R.O./A.R.O. (Pre) 2023**
+
+Statements on Tulsidas: born Rajapur in Banda; wife Geetawali.
+
+A. Both true
+
+B. Only wife true
+
+C. Only birth true
+
+D. Neither
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Birthplace keyed to **Rajapur, Chitrakoot**; wife **Ratnawali**.
+
+</details>
+
+---
+
+### Other papers (Ghatnachakra Extra)
+
+**Logic:** Sufi practices — all three (IAS 2012).
+
+**Q-GC1. IAS (Pre) 2012**
+
+Sufi mystics pursued: meditation/breath; severe ascetic exercises; holy songs for ecstasy.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: All three (1, 2 and 3).**
+
+</details>
+
+**Logic:** Only Nanak preaching when Lodis fell (IAS 2013).
+
+**Q-GC2. IAS (Pre) 2013**
+
+Dadu Dayal / Guru Nanak / Tyagaraja — who was preaching when Lodi fell and Babur took over?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Only Guru Nanak.**
+
+</details>
+
+**Logic:** Profession match — Namdev tailor, Kabir weaver, Ravidas cobbler, Sena barber.
+
+**Q-GC3. IAS (Pre) 2001**
+
+Match Namdev / Kabir / Ravidas / Sena with tailor / weaver / cobbler / barber.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Namdev–tailor; Kabir–weaver; Ravidas–cobbler; Sena–barber.**
+
+</details>
+
+**Logic:** Chisht name not from Ajmer village (IAS 1997).
+
+**Q-GC4. IAS (Pre) 1997**
+
+A: Moinuddin is the most prominent Chishti figure in India. R: Order takes name from a village Chishti in Ajmer.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A true, R false** — name from **Chisht in Afghanistan**.
+
+</details>
+
+**Logic:** Nimbarka ≠ Akbar contemporary; Kabir ≠ influenced by Sirhindi (IAS 2019).
+
+**Q-GC5. IAS (Pre) 2019**
+
+1. Nimbarka contemporary of Akbar 2. Kabir greatly influenced by Ahmad Sirhindi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Neither.**
+
+</details>
+
+**Logic:** Firdausi silsila in Bihar (BPSC 2024).
+
+**Q-GC6. BPSC Re-Exam 2024**
+
+Which Sufi Silsilah was founded/spread in Bihar?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Firdousia / Firdausi** (Yahya Maneri).
+
+</details>
+
+**Logic:** Suhrawardi limited to Sindh–Multan–Punjab (Raj PCS 2023).
+
+**Q-GC7. Rajasthan PCS 2023**
+
+Spread of which Sufi sect was mostly limited to Sindh, Multan and Punjab?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Suhrawardi.**
+
+</details>
+
+---
+
+## UKPCS — Bhakti & Sufi stems
+
+**Logic:** Chiragh-i-Delhi (already banked above for 2025).
+
+**Q-UK1. UKPCS Prelims 2016**
+
+Which of the following Sufi saints is known as Mahboob-i-Ilahi?
+
+A. Shaikh Muinuddin Chishti
+
+B. Shaikh Nizamuddin Auliya
+
+C. Baba Farid
+
+D. Shaikh Nasiruddin Chirag-i-Dehalivi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Logic:** Amir Khusrau not Bhakti (UKPCS Mains 2006).
+
+**Q-UK2. UKPCS (Mains) 2006**
+
+Which of the following is not associated with the Bhakti Movement?
+
+A. Vallabhacharya
+
+B. Chaitanya
+
+C. Guru Nanak
+
+D. Amir Khusrau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Court poet–musician in the Chishti circle.
+
+</details>
+
+**Logic:** Ramcharitmanas author (UK UDA 2007) covered in Q8 pattern.
+
+**Q-UK3. UKPCS Prelims 2021** (Rudrama is Kakatiya — provincial spill; keep if syllabus asks)
+
+Female King Rudrama Devi belonged to:
+
+A. Eastern Ganga
+
+B. Hoyasala
+
+C. Kakatiya
+
+D. Western Chalukya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Teach under Deccan regional polities if revised with Topic 3; keyed here because Ghatnachakra placed it beside provincial PYQs.
 
 </details>
 
@@ -1779,3 +2386,12 @@ D. The disciple of Ahmad Sirhindi in the Naqshbandi order
 17. **Basavanna** belongs to **12th-century Karnataka Lingayat** reform — not north Indian Rama/Krishna sant line.
 18. **Baba Farid** was **Chishti (Ajodhan)**, not Suhrawardi (Multan); his verses are in the **Adi Granth** alongside Kabir and Namdev.
 19. **Jnaneshwari** is **Jnaneshwar's Marathi Gita commentary** — not Tulsidas's Awadhi Ramayana.
+
+20. **Amarmul** = Kabir–Dharamdas dialogues; **Bijak** = Kabirpanthi scripture.
+21. **Rasik Priya** = **Keshavdas**, not Raskhan (**Prem Vatika**).
+22. Chishti order name = **Chisht (Afghanistan)**; Indian centre = **Ajmer** under Moinuddin (**Usman Haruni**'s disciple).
+23. **Shaikh-ul-Hind** = **Salim Chishti**; **Mehboob-i-Ilahi** = **Nizamuddin**; **Chirag-i-Delhi** = **Nasiruddin**.
+24. **Naqshbandi** opposed **Sama**; **Firdausi** centres on **Bihar**; **Ulema** ≠ Sufi term.
+25. **Tulsidas** = Rajapur (**Chitrakoot**), wife **Ratnawali**, contemporaries **Akbar–Jahangir**.
+26. **Shankaradeva** = Assam/Kamarupa Vaishnavism; **Malukdas** = **Kada** (Kaushambi).
+

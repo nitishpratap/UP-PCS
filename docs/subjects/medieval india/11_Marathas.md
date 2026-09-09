@@ -8,31 +8,31 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, UPPCS Prelims PYQs 2018–2025, Ghatnachakra Indian History (Sikh / Maratha / Later Mughal)
 > **Weight:** ★★★ — Peshwa order (2023 Q35, 2024 Q1, 2025 Q149), Chauth, Deshmukh A/R, Panipat III 1761
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (purely historical)
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 29 Must-Score Facts
 
-1. **Shivaji (1630–1680)** built swaraj, was crowned **Chhatrapati at Raigad in 1674**, and died at Raigad in **1680**.
-2. He was born at **Shivneri** to **Shahji Bhonsle** and **Jijabai**.
+1. **Shivaji (1630–1680)** built swaraj, was crowned **Chhatrapati at Raigad in 1674** (**Gaga Bhatt / Vishweshwar** of Banaras declared him Kshatriya), and died at Raigad in **1680**.
+2. He was born at **Shivneri** to **Shahji Bhonsle** and **Jijabai**; tradition remembers **Samarth Ramdas** as his guru.
 3. At **Pratapgad in 1659**, Shivaji killed Bijapur's **Afzal Khan** and expanded western Deccan power.
-4. By the **Treaty of Purandar (1665)** with **Raja Jai Singh I**, Shivaji surrendered **23 forts**; the **Agra** detention followed in **1666**.
+4. By the **Treaty of Purandar (1665)** with **Raja Jai Singh I**, Shivaji surrendered **23 forts**; the **Agra** detention followed in **1666**. He defeated the Mughals at **Salher in 1672**.
 5. Big **Deshmukhs** opposed an independent Maratha state because they preferred remaining **Bijapur feudal lords**.
 6. The **Ashtapradhan** was Shivaji's eight-minister council; under him the **Peshwa** was one minister, not the sovereign.
 7. Ashtapradhan portfolios: **Peshwa** admin, **Amatya** finance, **Mantri** records, **Senapati** army, **Sumant** foreign affairs, **Nyayadish** justice, **Pandit Rao** religion, **Sachiv** letters.
-8. **Chauth** is a **25%** protection levy; **sardeshmukhi** is an extra **10%** hereditary chief claim (together up to **35%**).
+8. **Chauth** is a **25%** protection levy; **sardeshmukhi** is an extra **10%** hereditary chief claim (together up to **35%**). **Saranzami** land supported Maratha jagirdars’ livelihood.
 9. From **1713**, **Balaji Vishwanath** made the Peshwa office **hereditary** and de facto ruling under Shahu.
 10. Core Peshwa order: **Balaji Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I → Narayan Rao → Raghunath Rao**.
-11. **Bajirao I (1720–40)** drove north expansion; **Balaji Bajirao (1740–61)** belongs to the Panipat III generation.
-12. **Madhav Rao I (1761–72)** comes **beforeNarayan Rao (1772–73)**; do not reverse them.
-13. At **Panipat III on 14 January 1761**, **Ahmad Shah Abdali** defeated the Marathas under **Sadashiv Rao Bhau**; heir **Vishwas Rao** was killed.
+11. **Bajirao I (1720–40)** drove north expansion; **Balaji Bajirao (1740–61)** belongs to the Panipat III generation. By the **Sangola agreement (1750)**, the Chhatrapati became a do-nothing king and the **Peshwa** the real head.
+12. **Madhav Rao I (1761–72)** comes **before Narayan Rao (1772–73)**; do not reverse them.
+13. At **Panipat III on 14 January 1761**, **Ahmad Shah Abdali** defeated the Marathas under **Sadashiv Rao Bhau**; heir **Vishwas Rao** was killed. Eyewitness **Kashiraj Pandit** called it catastrophic; immediate spark was Maratha expulsion of Abdali’s viceroy **Timur Shah** from **Lahore**.
 14. Panipat III is not Panipat I (**1526**) or II (**1556**); **Shivaji** was already dead and did not fight it.
 15. **Nadir Shah's Delhi sack (1739)** is a separate Afghan shock from Abdali's Panipat victory.
-16. After Shivaji, **Sambhaji** was executed in **1689**; **Shahu** was released after **1707** and the Peshwa line rose.
+16. After Shivaji, **Sambhaji** was executed in **1689**; **Rajaram** then **Tarabai** (for **Shivaji II**) led resistance; at **Aurangzeb’s death** Maratha leadership was with **Tarabai**. **Shahu** was released after **1707** and the Peshwa line rose.
 17. Later confederacy seats: **Peshwa–Pune**, **Scindia–Gwalior**, **Holkar–Indore**, **Gaekwad–Baroda**, **Bhonsle–Nagpur**.
 18. The **Treaty of Lanavada (1718)** won Mughal recognition of Maratha chauth rights.
 19. **Palkhed (1728)** is Bajirao I's famous campaign against the **Nizam**.
@@ -43,6 +43,9 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 24. **Abwab** and **Jamadani** are distractors; the protection revenue name asked is **Chauth**.
 25. Cause–course–result for Purandar: Aurangzeb sent Jai Singh, Shivaji surrendered forts under treaty, then recovered strength toward the 1674 coronation.
 26. Cause–course–result for Panipat III: Maratha northern surge met Abdali and Najib-ud-Daula; Bhau's army was crushed; the all-India northern surge broke though the confederacy survived.
+27. **Modi script** was used in Maratha revenue and administrative papers.
+28. **Ahilyabai Holkar** ruled from the **Holkar** house of **Indore**.
+29. Ashtapradhan ministers headed departments but did **not** hold independent cabinet power; Shivaji could accept or reject advice.
 
 ---
 
@@ -58,6 +61,8 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 | Abdali vs Nadir Shah | Panipat 1761 vs Delhi sack 1739 | अब्दाली / नादिर शाह |
 | Bhau vs Bajirao I | 1761 commander vs died 1740 | भाऊ / बाजीराव |
 | Raigad vs Pune | Shivaji coronation vs Peshwa seat | रायगढ़ / पुणे |
+| Sangola vs Lanavada | 1750 Peshwa supremacy vs 1718 chauth recognition | सांगोला / लानावड़ा |
+| Chauth vs Saranzami | 25% protection levy vs jagirdar livelihood land | चौथ / सरंजामी |
 | Deshmukh vs Ashtapradhan | Feudal Bijapur chiefs vs Shivaji’s 8 ministers | देशमुख / अष्टप्रधान |
 | Purandar vs Lanavada | 1665 Shivaji–Jai Singh vs 1718 Shahu–Mughals | पुरंदर / लणवाडा |
 | Sambhaji vs Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
@@ -96,6 +101,9 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 - **Rajgarh** was another early base.
 - **Kondana** is the same fort later called **Sinhagad**.
 - **Afzal Khan** of Bijapur was killed at **Pratapgad in 1659**.
+- Shivaji defeated the Mughals at **Salher in 1672**.
+- At the **1674** coronation on **Raigad**, **Pandit Vishweshwar (Gaga Bhatt)** of Banaras declared Shivaji a **Kshatriya**.
+- Tradition remembers **Samarth Ramdas** as Shivaji’s guru (**Dasbodh**; **Shivastuti**).
 ### Afzal Khan episode (Pratapgad, 1659) — Cause, Course, Result
 
 **Cause:** Bijapur sent **Afzal Khan** with a large army to crush Shivaji after early Maratha gains on the **Konkan** forts.
@@ -223,6 +231,11 @@ D. A true, R false
 | **Baji Rao II** | 1795–1818 | Last Peshwa |
 
 - **Balaji Vishwanath** settled the Shahu–Tarabai split and made the Peshwa office stick.
+- At **Aurangzeb’s death (1707)**, Maratha leadership against the Mughals was in **Tarabai’s** hands.
+- By the **Treaty / agreement of Sangola (1750)** under **Balaji Bajirao**, the Chhatrapati became a ceremonial figure and the **Peshwa** the real head of the confederacy.
+- **Saranzami** land grants supported the livelihood of Maratha jagirdars.
+- **Modi script** was used in Maratha administrative and revenue documents.
+- **Ahilyabai** of the **Holkar** house ruled from **Indore**.
 - **Treaty of Lanavada (1718)** won Mughal recognition of Maratha chauth rights.
 - **Bajirao I** drove into **Malwa**, **Gujarat**, and **Bundelkhand**.
 - **Palkhed (1728)** is his famous campaign against the **Nizam**.
@@ -242,8 +255,8 @@ D. A true, R false
 
 **Date:14 January 1761** | **Abdali** vs **Marathas** under **Sadashiv Rao Bhau**
 
-- **Cause:** After the Maratha northern surge into the **Punjab and Doab**, **Ahmad Shah Abdali (Durrani)** returned to India to block Maratha dominance and protect his Afghan sphere. Rohilla chief **Najib-ud-Daula** allied with Abdali against the Marathas.
-- **Course:** The battle was fought at **Panipat**. Maratha commander **Sadashiv Rao Bhau** led the army; Peshwa heir **Vishwas Rao** was killed on the field. **Bajirao I** had died in **1740** and did not command here.
+- **Cause:** After the Maratha northern surge into the **Punjab and Doab**, **Ahmad Shah Abdali (Durrani)** returned to India to block Maratha dominance and protect his Afghan sphere. An immediate spark was Maratha expulsion of his viceroy **Timur Shah** from **Lahore**. Rohilla chief **Najib-ud-Daula (Najib Khan)** allied with Abdali; Abdali had earlier (1757) left him as Mir Bakshi/agent at Delhi.
+- **Course:** The battle was fought at **Panipat on 14 January 1761**. Maratha commander **Sadashiv Rao Bhau** led the army; Peshwa heir **Vishwas Rao** was killed on the field. **Bajirao I** had died in **1740** and did not command here. Eyewitness historian **Kashiraj Pandit** recorded the disaster.
 - **Result:** Abdali won decisively. The defeat ended the Maratha **all-India northern surge** but did **not** erase the confederacy overnight. **Balaji Bajirao** died the same year; **Madhav Rao I** later recovered some ground.
 
 > ** note:Panipat I (1526)** = Babur. **Panipat II (1556)** = Akbar–Hemu. **Panipat III (1761)** = Abdali–Marathas. **Nadir Shah (1739)** is a separate Afghan shock.
@@ -361,6 +374,416 @@ D. 1, 3, 4, 2
 </details>
 
 ---
+
+## Ghatnachakra Extra Drill — Maratha State & Confederacy
+
+Teaching for these stems sits in **11.1–11.6**.
+
+**Logic:** Rise of Marathas = geography + social unity + leadership (all of these).
+
+**Q1. UPPCS (Pre) 1992**
+
+Correct reasons for Maratha rise include religious consciousness, geographical security, political awakening, high leadership quality.
+
+A. Only leadership
+
+B. Only geography
+
+C. Only religion
+
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (all).** Unity of people, Maharashtra’s terrain, and leaders such as **Shivaji** all matter.
+
+</details>
+
+**Logic:** Salher = Shivaji vs Mughals (not Purandar treaty fight).
+
+**Q2. UPPCS (Mains) 2005**
+
+Shivaji defeated the Mughals in the battle of:
+
+A. Purandar
+
+B. Raigarh
+
+C. Salher
+
+D. Shivner
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Salher, 1672**. **Purandar** is the **1665** treaty with Jai Singh; **Shivneri** is birth fort.
+
+</details>
+
+**Logic:** Birth + Chhatrapati title year pair.
+
+**Q3. UPPCS (Mains) 2015**
+
+When was Shivaji born and when did he assume the title of Chhatrapati?
+
+A. 1626, 1675
+
+B. 1625, 1671
+
+C. 1627, 1661
+
+D. 1627, 1674
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Birth often given as **1627/1630**; coronation title **Chhatrapati** in **1674** at **Raigad**.
+
+</details>
+
+**Logic:** Bijapur’s commander in 1659 = Afzal Khan.
+
+**Q4. UPPCS (Pre) 1999**
+
+Who was sent by the Sultan of Bijapur against Shivaji in 1659?
+
+A. Inayat Khan
+
+B. Afzal Khan
+
+C. Shaista Khan
+
+D. Sayyid Banda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Afzal Khan** — killed at **Pratapgad**. **Shaista Khan** is the later Mughal raid target (**1663**).
+
+</details>
+
+**Logic:** Escape from Mughal custody = Agra.
+
+**Q5. MPPCS (Pre) 2005**
+
+In which city was Shivaji in captivity when he escaped from the Mughals?
+
+A. Gwalior
+
+B. Agra
+
+C. Delhi
+
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Imprisoned at **Agra** (**1666**); escaped from **Jaipur Bhawan** narrative.
+
+</details>
+
+**Logic:** Capital / coronation place = Raigad.
+
+**Q6. UPPCS (Pre) 1990 / BPSC / UPPCS (Mains) 2016**
+
+Where was the capital of Shivaji / where was he formally crowned Chhatrapati?
+
+A. Pune / Kolhapur / Satara / Tanjore
+
+B. Raigarh (Raigad)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Raigad.** Coronation **1674**; **Gaga Bhatt** of Banaras performed the rite.
+
+</details>
+
+**Logic:** Guru of Shivaji = Samarth Ramdas (not Gaga Bhatt).
+
+**Q7. MPPCS (Pre) 2016**
+
+What was the name of Shivaji’s Guru?
+
+A. Ramdas
+
+B. Tukaram
+
+C. Vaman Pandit
+
+D. Gaga Bhatt
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Samarth Ramdas**. **Gaga Bhatt** was the coronation priest, not the lifelong guru.
+
+</details>
+
+**Logic:** Chronology of early events (Chakan → Mughal clash → Afzal → Surat).
+
+**Q8. UP R.O./A.R.O. (Mains) 2016**
+
+Arrange: I Fort of Chakan II Afzal Khan III Start of clash with Mughals IV Sack of Surat
+
+A. I, III, II, IV
+
+B. I, II, III, IV
+
+C. II, IV, III, I
+
+D. II, III, I, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Chakan ~1648** → **Mughal clash ~1657** → **Afzal Khan 1659** → **Surat 1664**.
+
+</details>
+
+**Logic:** Ashtapradhan = Maratha / Shivaji; Sumant = foreign affairs; Sarnobat = military.
+
+**Q9. IAS / UPPCS / BPSC cluster**
+
+Ashtapradhan belonged to / who established it / foreign minister name?
+
+A. Gupta / Chandragupta / Peshwa
+
+B. Chola / Ashoka / Sachiv
+
+C. Vijayanagara / Harsha / Pandit Rao
+
+D. Maratha (Shivaji) / Shivaji / Sumant
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D pattern.** **Ashtapradhan** = Shivaji’s eight-minister council. Foreign minister = **Sumant / Dabir**. **Sarnobat / Senapati** = military.
+
+</details>
+
+**Logic:** A/R — Ashtapradhan advice true; independent charge false.
+
+**Q10. UPPCS (Pre) 1997**
+
+A: In matters of State Shivaji was advised by a Council of Ministers. R: Each minister held independent charge of his department.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (A true, R false).** Ministers headed departments but acted under Shivaji’s orders; they were not an independent cabinet.
+
+</details>
+
+**Logic:** Silver coins — Ruka is not Shivaji’s silver coin.
+
+**Q11. UP R.O./A.R.O. (Mains) 2016**
+
+Which coin was NOT a silver coin in Shivaji’s kingdom?
+
+A. Rupaya
+
+B. Lari
+
+C. Taka
+
+D. Ruka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Ruka** is linked to **Kakatiya** usage, not Shivaji’s silver set (**Rupaya, Lari, Taka**).
+
+</details>
+
+**Logic:** After Sambhaji, administration streamlined by Balaji Vishwanath.
+
+**Q12. IAS (Pre) 2000**
+
+Who streamlined Maratha administration after Sambhaji?
+
+A. Rajaram
+
+B. Balaji Viswanath
+
+C. Ganga Bai
+
+D. Nanaji Deshmukh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Balaji Vishwanath** (Peshwa from **1713**) eased administration and shifted real power toward the Peshwa.
+
+</details>
+
+**Logic:** Chhatrapati order Sambhaji → Rajaram → Shivaji II → Shahu.
+
+**Q13. UPPCS (Mains) 2005**
+
+Arrange: 1 Shahuji 2 Rajaram 3 Sambhaji 4 Shivaji-II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: 3, 2, 4, 1.** **Sambhaji → Rajaram → Shivaji II → Shahu**.
+
+</details>
+
+**Logic:** King becomes non-entity from Balaji Bajirao / Sangola era.
+
+**Q14. UPPCS (Mains) 2007 / UPPCS (Pre) 1997 A/R**
+
+From whose time did the Maratha king become a non-entity and the Peshwa the virtual ruler?
+
+A. Balaji Vishwanath
+
+B. Bajirao I
+
+C. Balaji Bajirao
+
+D. Madhavrao I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Under **Balaji Bajirao**, **Sangola (1750)** made the Peshwa the real head.
+
+</details>
+
+**Logic:** Tarabai led after 1700 / at Aurangzeb’s death.
+
+**Q15. UPPCS (Pre) 2012 / Spl Pre 2008**
+
+At Aurangzeb’s death Maratha leadership was with / which Maratha woman led struggle from 1700?
+
+A. Sambhaji / Ahilya Bai
+
+B. Rajaram / Mukta Bai
+
+C. Jijabai / Rukmini Bai
+
+D. Tarabai / Tara Bai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Tarabai** as regent for **Shivaji II**.
+
+</details>
+
+**Logic:** Saranzami = Maratha land revenue / jagirdar livelihood.
+
+**Q16. BPSC (Pre) 1994**
+
+Saranzami system was related to:
+
+A. Land revenue system of Maratha
+
+B. Taluqdari system
+
+C. Qutb Shahi administration
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Land for livelihood of Maratha jagirdars.
+
+</details>
+
+**Logic:** Protection revenue name = Chauth (not Sardeshmukhi alone).
+
+**Q17. UPPCS (Pre) 2018**
+
+The Maratha claim of revenue for protection is known by what name?
+
+A. Sardesh Mukhi
+
+B. Chauth
+
+C. Abwab
+
+D. Jamadani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chauth** (protection). **Sardeshmukhi** is the extra hereditary claim.
+
+</details>
+
+**Logic:** Panipat III witnesses, date, opponents, immediate cause.
+
+**Q18. IAS 2010 / Chhattisgarh / UPPCS cluster**
+
+Immediate reason Abdali fought Third Panipat / eyewitness / opponents / date?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Immediate cause — avenge expulsion of viceroy **Timur Shah** from **Lahore**. Eyewitness — **Kashiraj Pandit**. Opponents — **Marathas** vs **Ahmad Shah Abdali (Afghans)**. Date — **14 January 1761**.
+
+</details>
+
+**Logic:** Abdali’s Delhi agent = Najib Khan.
+
+**Q19. UPPCS (Mains) 2006**
+
+Which Rohilla chief was the confidant of Ahmad Shah Abdali?
+
+A. Ghulam Qadir Rohilla
+
+B. Najib Khan
+
+C. Ali Muhammad Khan
+
+D. Hafiz Rahmat Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Najib-ud-Daulah (Najib Khan)** as Mir Bakshi / chief agent.
+
+</details>
+
+**Logic:** Modi script = Marathas.
+
+**Q20. IAS (Pre) 1995**
+
+The Modi script was employed in the documents of the:
+
+A. Wodeyars
+
+B. Zamorins
+
+C. Hoysalas
+
+D. Marathas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Maratha revenue and administrative papers.
+
+</details>
+
+**Logic:** A/R — Marathas strongest after Mughals true; clear concept of United Indian Nation false.
+
+**Q21. UP R.O./A.R.O. (Mains) 2016**
+
+A: Marathas emerged as the strongest native power after Mughal decline. R: Marathas were the first rulers with a clear concept of United Indian Nation.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (A true, R false).** Maratha strength is true; a pan-Indian nation concept is a standard criticism they lacked.
+
+</details>
+
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -1087,6 +1510,13 @@ D. Only after 1761
 ---
 
 ## Common Traps — Don't Fall For These
+
+20. **Salher 1672** = battlefield win vs Mughals; **Purandar 1665** = treaty with Jai Singh.
+21. **Gaga Bhatt** = coronation priest; **Ramdas** = guru.
+22. **Sangola 1750** (Balaji Bajirao) ≠ **Lanavada 1718** (Balaji Vishwanath).
+23. **Tarabai** at Aurangzeb’s death; do not pick Sambhaji (already dead) or Ahilyabai.
+24. **Kashiraj Pandit** = Panipat III eyewitness; immediate spark = **Timur Shah** expelled from Lahore.
+25. **Ruka** is not Shivaji’s silver coin; **Modi** script = Maratha papers.
 
 1. **Chauth** and **Sardeshmukhi** are different levies. Chauth is **25%** protection. Sardeshmukhi is an extra **10%** (2018 Q93 = B).
 2. **Madhav Rao I** ruled **before Narayan Rao**.

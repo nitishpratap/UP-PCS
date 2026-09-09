@@ -469,15 +469,18 @@ D. 4 2 3 1
 
 ### 5.13.1 Alberuni — Arabic & early Indic contact
 
-**Al-Biruni (Alberuni)** | **Kitab-ul-Hind** | **Arabic** | **Ghaznavid era**
+**Al-Biruni (Alberuni)** | **Kitab-ul-Hind / Tahqiq-i-Hind** | **Arabic** | **Ghaznavid era**
 
-- **Alberuni** wrote **Kitab-ul-Hind** in **Arabic**.
-- He studied India while serving under **Mahmud of Ghazni**.
+- **Alberuni** wrote **Kitab-ul-Hind (Tahqiq-i-Hind)** in **Arabic**.
+- He was born in **973 CE** at **Khiva (Khwarizm)** and came to India with **Mahmud of Ghazni** in the **11th century**.
+- He was the **first Muslim to study the Puranas** and used Sanskrit works of **Brahmagupta**, **Balabhadra**, and **Varahamihira**.
 - The book is a **scientific, comparative** account of Indian **religion, astronomy, and society**.
+- **Edward Sachau** translated it into English.
 - It belongs to the **Ghaznavid era** — an early medieval source.
 - It is **not** a Delhi Sultanate court chronicle like Barani or Minhaj.
+- Do **not** confuse him with **Firdausi** (**Shahnama**) or later **Firishta**.
 
-> **Key fact:Kitab-ul-Hind = Alberuni + Arabic + Ghazni** — not Khusrau, not Barani.
+> **Key fact: Kitab-ul-Hind = Alberuni + Arabic + Ghazni** — not Khusrau, not Barani.
 
 ---
 
