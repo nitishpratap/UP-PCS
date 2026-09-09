@@ -512,7 +512,8 @@ The **Lapps / Sami** live in **Sweden and Finland** (Fenno-Scandinavia including
 | **Bora** | W Amazon (Brazil–Peru–Colombia) |
 | **Jews / Teda / Beja / Lur** | Israel / Libya / Egypt / Iran (ethnic match sets) |
 
-**Transhumance** = seasonal herd movement valley ↔ mountain (Gaddi, Bakarwal, Bhotia in India). Nomadic herding concentrates in **arid** lands.
+**Transhumance** is seasonal herd movement between valley and mountain (Gaddi, Bakarwal, Bhotia in India).
+Nomadic herding concentrates in **arid** lands.
 
 **Pygmy and Arctic gear (teach as geography pairs)**
 

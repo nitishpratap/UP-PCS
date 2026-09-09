@@ -99,8 +99,15 @@ Geomorphology studies how landforms are made and destroyed.
 - **Gradation** is the overall smoothing of the land: **degradation** (wearing down) plus **aggradation** (building up by deposition).
 - Davis framed a **cycle of erosion** as structure–process–time (youth–mature–old). Penck and King modify the timing, but the landform vocabulary stays useful.
 - **Structure** is the rock arrangement (folds, faults, joints, bedding). **Process** is the work of agents. **Time** is how long the process has operated on that structure.
-- Weathering prepares loose material **in place**; erosion and transport move it; deposition rebuilds new landforms downstream or downslope.
-- Different climates favour different agents: humid belts emphasise running water; arid belts emphasise wind; cold highlands emphasise ice; coasts emphasise waves; limestone belts emphasise groundwater solution.
+- Weathering prepares loose material **in place**.
+- Erosion and transport move it.
+- Deposition rebuilds new landforms downstream or downslope.
+- Different climates favour different agents.
+- Humid belts emphasise running water.
+- Arid belts emphasise wind.
+- Cold highlands emphasise ice.
+- Coasts emphasise waves.
+- Limestone belts emphasise groundwater solution.
 
 **Order of this chapter**
 
@@ -163,7 +170,8 @@ D. 1, 2 and 3
 | **Extrusive (volcanic, fine)** | Rhyolite | **Basalt** (Deccan Trap) |
 | Glassy / frothy | Obsidian | Pumice (floats) |
 
-Porphyritic = large crystals in fine groundmass (two-stage cooling). Pegmatite = very coarse veins.
+**Porphyritic** texture shows large crystals in a fine groundmass from two-stage cooling.
+**Pegmatite** forms very coarse veins.
 **Intrusive bodies (NCERT match)**
 
 | Body | Role |
@@ -176,7 +184,7 @@ Porphyritic = large crystals in fine groundmass (two-stage cooling). Pegmatite =
 | **Dyke** | Wall that **cuts** bedding (discordant) |
 | Volcanic neck / plug | Filled pipe left standing |
 
-- Fissure flood-basalt plateau = **Deccan Trap**.
+- A fissure flood-basalt plateau is the **Deccan Trap**.
 - Intertrappean beds between lava flows are **freshwater**, not marine fossils.
 
 **Inline PYQ — UPPCS Prelims 2024, Q59**
@@ -205,8 +213,10 @@ D. Only aeolian dunes
 | **Chemical** | Limestone, dolomite, gypsum, rock salt, chert |
 | **Organic / biogenic** | Coal, peat, chalk, some limestone |
 
-Fossils almost only here. Loess beds = wind silt later lithified.
-**Metamorphic fabric:foliated** = slate → schist → gneiss (banding). **Non-foliated** = marble, quartzite.
+Fossils appear almost only in sedimentary rocks.
+Loess beds are wind silt later lithified.
+**Foliated** metamorphic fabric climbs from slate to schist to gneiss (banding).
+**Non-foliated** metamorphic rocks include marble and quartzite.
 
 ---
 
@@ -215,8 +225,13 @@ Fossils almost only here. Loess beds = wind silt later lithified.
 The **rock cycle** is the continuous pathway that turns magma and rock from one class into another.
 
 - **Magma** cools and solidifies to form **igneous** rock — intrusive granite deep underground, or extrusive basalt at the surface.
-- Weathering breaks that rock in place; erosion carries the debris; deposition and lithification build **sedimentary** rock such as sandstone, shale or limestone.
-- Heat and pressure without full melting turn igneous or sedimentary rock into **metamorphic** rock — limestone becomes marble; sandstone becomes quartzite; shale climbs the slate–schist–gneiss ladder.
+- Weathering breaks that rock in place.
+- Erosion carries the debris.
+- Deposition and lithification build **sedimentary** rock such as sandstone, shale or limestone.
+- Heat and pressure without full melting turn igneous or sedimentary rock into **metamorphic** rock.
+- Limestone becomes marble.
+- Sandstone becomes quartzite.
+- Shale climbs the slate–schist–gneiss ladder.
 - If temperature rises enough, any rock can **melt** again into magma and restart the cycle.
 - The cycle is not one-way: igneous rock can metamorphose without becoming sediment first, and sedimentary rock can melt without a long metamorphic stay.
 - Uplift brings deep rocks to the surface so weathering can attack them again.
@@ -274,8 +289,10 @@ These four words are traps if swapped.
 | Chelation | Organic acids (biological overlap) |
 
 **Biological:** roots, burrows, lichen/moss acids.
-Residual weathered mantle → soils. **Laterite** = intense leaching in tropics. Running water: sheet → rill → gully → **Chambal ravine**.
-**Mass wasting** (gravity): fall · slide · slump · flow · **creep** · solifluction (thaw) · mudflow / debris flow.
+Residual weathered mantle becomes soils.
+**Laterite** forms by intense leaching in the tropics.
+Running water progresses from sheet to rill to gully and, in the classic case, to a **Chambal ravine**.
+**Mass wasting** (gravity) includes fall, slide, slump, flow, **creep**, solifluction (thaw), mudflow and debris flow.
 
 ---
 
@@ -479,9 +496,11 @@ A **structural basin** is a low enclosed by structure (syncline, rift or down-wa
 | **Loess** | Wind silt — **China**; not Imphal |
 | Lava / volcanic | Flood basalt (Deccan surface) |
 
-- **Fault-valley drainage** follows subsequent streams along **faults**; joints give **rectangular** patterns; rifts include **Narmada, Tapi and Damodar**.
+- **Fault-valley drainage** follows subsequent streams along **faults**.
+- Joints give **rectangular** patterns.
+- Indian rifts include **Narmada, Tapi and Damodar**.
 - The UPPCS fact “famous for fault valley drainage” is **Damodar**, not **Chambal** (Chambal is ravine/gully country).
-- World rift pairs: Rhine, Dead Sea/Jordan, East Africa.
+- World rift pairs include the Rhine, Dead Sea/Jordan and East Africa.
 
 **Inline PYQ — UPPCS Prelims 2019, Q8**
 
@@ -644,7 +663,7 @@ Wind needs dry ground, sparse vegetation and a sand or silt supply — hot deser
 
 Waves run **swash** up the beach and **backwash** down. **Longshore drift** moves sediment along the shore and builds spits.
 
-- **Erosional** chain: cliff → wave-cut platform → notch → cave → **arch** → **stack** → stump.
+- The **erosional** coastal chain runs cliff, then wave-cut platform, then notch, then cave, then **arch**, then **stack**, then stump.
 
 **Depositional coastal forms**
 
@@ -662,7 +681,8 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 - A **fringing** reef grows against the shore.
 - A **barrier** reef stands offshore with a lagoon between reef and land.
 - An **atoll** is a ring reef around a central lagoon.
-- Darwin’s subsidence idea explains that fringing → barrier → atoll order. Indian reefs need clear warm water and do **not** thrive at muddy delta mouths.
+- Darwin’s subsidence idea explains that order: fringing reef, then barrier reef, then atoll.
+- Indian reefs need clear warm water and do **not** thrive at muddy delta mouths.
 
 | Coast type | Meaning |
 |------------|------|
@@ -675,8 +695,11 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 **Karst** needs limestone plus carbonation.
 
 - Forms include swallow hole, **doline / sinkhole**, uvala, **polje**, cave, limestone pavement (clint / gryke), disappearing stream and resurgence.
-- **Stalactite** hangs from the **roof**; **stalagmite** grows from the **floor**; a pillar forms when they meet.
-- Classic world belt: Dinaric Karst. India pairs: **Meghalaya** caves, Borra (AP), Belum (AP).
+- A **stalactite** hangs from the **roof**.
+- A **stalagmite** grows from the **floor**.
+- A pillar forms when they meet.
+- Classic world belt is the Dinaric Karst.
+- India pairs include **Meghalaya** caves, Borra (AP) and Belum (AP).
 
 ---
 

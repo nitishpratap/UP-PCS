@@ -144,12 +144,12 @@ Asia is the **largest** continent. splits: **East / SE / South / West / Central 
 | East Asia | Capital | Physical fact |
 |-----------|---------|---------------|
 | **China** | Beijing | Tibet; Hwang Ho / Yangtze; Manchurian plain NE; Tropic through south; Shanghai on Yangtze mouth |
-| **Japan** | Tokyo | Islands **Hokkaido–Honshu–Kyushu–Shikoku** (N→S). **Kanto** = Tokyo. **Nobi** = Nagoya. **NOT Korea** (2021) |
-| **Mongolia** | Ulaanbaatar | Landlocked; Gobi south |
+| **Japan** | Tokyo | Islands **Hokkaido–Honshu–Kyushu–Shikoku** (N→S). **Kanto** is the Tokyo plain. **Nobi** is the Nagoya plain. These are **not** in Korea (2021) |
+| **Mongolia** | Ulaanbaatar | Landlocked; Gobi to the south |
 | **Taiwan** | Taipei | Off Fujian; not Caribbean |
-| **North / South Korea** | → **N.5** | Peninsula, not Japanese plains |
+| **North / South Korea** | See **N.5** | Peninsula — not the Japanese plains |
 
-**Siberia / Asian Russia:** Urals → Pacific. Yenisei port **Igarka** = **Russia**, not China (2023 port trap). Vladivostok = Pacific. Lake Baikal.
+**Siberia / Asian Russia** runs from the Urals to the Pacific. The Yenisei port **Igarka** is in **Russia**, not China (2023 port trap). Vladivostok faces the Pacific. Lake Baikal sits in Siberia.
 
 ### South Asia (India’s neighbourhood as a *region*)
 
@@ -207,7 +207,7 @@ D. China
 **Iraq — Sunni Triangle**
 
 - Cities **inside** the usual triangle: **Baghdad, Tikrit, Ramadi**.
-- **Basra** = far **south**, Shia / Gulf head — **NOT** in the triangle.
+- **Basra** is far **south**, Shia / Gulf head — **NOT** in the triangle.
 
 **Levant & Gulf (map diet)**
 
@@ -232,7 +232,7 @@ D. China
 
 **Afghanistan** sits on West + Central cards: Hindu Kush, landlocked, Kabul; neighbours Iran, PK, TJ, TM, UZ, CN (Wakhan), and historically India via the passes.
 
-Straits: **Hormuz** (Gulf), **Bab el-Mandeb** (Red Sea), **Bosporus / Dardanelles** (Turkey — Europe/Asia). **Suez** = Africa–Asia cut (Med ↔ Red).
+Straits on this desk include **Hormuz** (Gulf), **Bab el-Mandeb** (Red Sea), and the **Bosporus / Dardanelles** (Turkey — Europe/Asia). The **Suez Canal** cuts Africa from Asia and joins the Mediterranean to the Red Sea.
 
 Fertile Crescent (phrase): Nile–Levant–Tigris–Euphrates arc — Iraq, Syria, Levant, Egypt.
 
@@ -291,7 +291,7 @@ Trap **B** puts Hindu Kush before Zagros (too far east already). Trap **C** star
 
 ## N.3 Central Asia
 
-Five “stans” + Kazakhstan’s size. **Caspian** on the west; **China** on the east; **Afghanistan** on the south.
+The five “stans” plus Kazakhstan’s size define this desk. The **Caspian** lies on the west. **China** lies on the east. **Afghanistan** lies on the south.
 
 | Country | Capital | Desert / extra |
 |---------|---------|----------------|
@@ -303,7 +303,7 @@ Five “stans” + Kazakhstan’s size. **Caspian** on the west; **China** on th
 
 2019 Q2 listed UZB–TJK–KGZ–TKM against Tashkent–Dushanbe–Bishkek–Ashgabat in that order → code **1 2 3 4**.
 
-**Also on this map:** Aral Sea (UZB–KAZ, shrinking). Caspian (KAZ, TKM, plus Iran, AZ, RU). Wakhan Corridor = Afghanistan’s finger to China. Xinjiang (China) is **not** a “sixth stan” in the five-stan MCQ.
+**Also on this map:** The Aral Sea (Uzbekistan–Kazakhstan) is shrinking. The Caspian touches Kazakhstan, Turkmenistan, Iran, Azerbaijan and Russia. The Wakhan Corridor is Afghanistan’s finger to China. Xinjiang (China) is **not** a “sixth stan” in the five-stan question.
 
 All five stans except Turkmenistan’s western Caspian shore are **landlocked** (Kazakhstan is landlocked despite Caspian — Caspian is a lake).
 
@@ -385,7 +385,7 @@ D. Kazakhstan
 - Bali then **Lombok** (Wallace Line between Bali and Lombok).
 - Trap lists put Java first or Lombok before Bali.
 
-**Borneo** = Indonesia + Malaysia + Brunei. **Not** volcanic. **New Guinea** = Indonesia (Papua) + Papua New Guinea (already an island-rank fact).
+**Borneo** is shared by Indonesia, Malaysia and Brunei. It is **not** volcanic. **New Guinea** is shared by Indonesia (Papua) and Papua New Guinea (already an island-rank fact).
 
 **Mekong:** Tibet → China Yunnan → Myanmar → Laos → Thailand → Cambodia → **delta in S Vietnam, not Cambodia**.
 
@@ -549,21 +549,21 @@ Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
 |------|-----|------|
 | **Western Europe climate** | Britain, NW France, Low Countries | **Westerlies** + **rain in all months** (2024 Both) |
 | Mediterranean Europe | Spain, S France, Italy, Greece | Winter rain — **not** the “all months” fact |
-| **British Isles** | UK + Ireland | **UK** = Great Britain + **Northern Ireland**. **Great Britain** = England + Scotland + Wales. Ireland (Republic) is **not** in the UK. Capital **London** |
+| **British Isles** | UK + Ireland | The **UK** is Great Britain plus **Northern Ireland**. **Great Britain** is England, Scotland and Wales. The Republic of Ireland is **not** in the UK. Capital **London** |
+| **Iberia** | Spain, Portugal | Iberian Peninsula |
+| **Benelux** | Belgium, Netherlands, Luxembourg | Brussels, **Amsterdam** (government also The Hague), Luxembourg. **Rotterdam** is the Netherlands port (2023 correct pair) |
 | **Nordic / Scandinavia** | Norway, Sweden, Denmark; Finland + Iceland often bundled | Oslo, Stockholm, Copenhagen, Helsinki, Reykjavik |
 | **Baltic states** | Estonia, Latvia, Lithuania | Tallinn, Riga, Vilnius |
-| **Benelux** | Belgium, Netherlands, Luxembourg | Brussels, **Amsterdam** (govt also The Hague), Luxembourg. **Rotterdam** = Netherlands port (2023 correct pair) |
-| Iberia | Spain + Portugal | Madrid, Lisbon; Pyrenees vs France |
 | Alps | Switzerland, Austria, parts of FR/IT/DE | Bern, Vienna |
-| Balkans | Greece, Bulgaria, Serbia, Croatia, Albania, N Macedonia, Bosnia, Montenegro, Kosovo, Romania/Slovenia fringe | Bulgaria = Balkan range MCQ |
+| Balkans | Greece, Bulgaria, Serbia, Croatia, Albania, N Macedonia, Bosnia, Montenegro, Kosovo, Romania/Slovenia fringe | Bulgaria holds the Balkan range name |
 | East-Central | Poland, Hungary, Czechia, Slovakia, Ukraine | Warsaw, Budapest, Prague, Kyiv |
-| Russia | Moscow | Europe + Asia; **Igarka** (Yenisei) = **Russia**, not China |
+| Russia | Moscow | Europe + Asia; **Igarka** (Yenisei) is in **Russia**, not China |
 
 **Landlocked Europe (set):** Switzerland, Austria, Czechia, Slovakia, Hungary, Serbia, North Macedonia, Kosovo, Belarus, Moldova, Luxembourg, Liechtenstein, Andorra, San Marino, Vatican. **Not** Poland (Baltic), **not** Romania (Black Sea).
 
 **Microstates:** Vatican, Monaco, San Marino, Liechtenstein, Andorra, Malta (island).
 
-**Bosporus** (Istanbul) = Europe–Asia inside Turkey. Capital remains **Ankara**.
+The **Bosporus** at Istanbul joins Europe and Asia inside Turkey. The capital remains **Ankara**.
 
 **Suez (1869)** shortened **India–Europe** sea distance by about **7,000 km** (2018).
 
@@ -678,7 +678,7 @@ Sahara splits **Mediterranean Maghreb** (north) from **sub-Saharan** Africa.
 
 2020 Q82: **Cape Verde – Bamako** is the **wrong** pair. Bamako is **Mali**.
 
-Cape of Good Hope / Cape Town = SW South Africa, not Cape Verde (that is Atlantic islands off West Africa).
+Cape of Good Hope / Cape Town sits in south-west South Africa. It is not Cape Verde (Atlantic islands off West Africa).
 
 **Inline PYQ — UPPCS Prelims 2020, Q82**
 
@@ -697,7 +697,7 @@ D. Cape Verde – Bamako
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Cape Verde = **Praia**. Bamako = **Mali**.
+**Ans: D** — Cape Verde’s capital is **Praia**. Bamako is the capital of **Mali**.
 
 </details>
 
@@ -712,9 +712,9 @@ D. Cape Verde – Bamako
 | **Mexico** | Mexico City | Plateau; Yucatan; Gulf of Mexico |
 | **Greenland** | Nuuk | **Denmark**; largest **island**, not a US state |
 
-**Great Lakes (west → east, order):** Superior → Michigan → Huron → Erie → Ontario → St Lawrence. **Michigan** = wholly USA; others shared USA–Canada.
+**Great Lakes (west → east):** Superior → Michigan → Huron → Erie → Ontario → St Lawrence. **Lake Michigan** lies wholly in the USA. The others are shared by the USA and Canada.
 
-**Central America (7):** Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, **Panama**. Panama Canal = Atlantic–Pacific **with facts**. Not a South American country.
+**Central America** has seven states: Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica and **Panama**. The Panama Canal joins the Atlantic and Pacific **with stepped chambers**. Panama is **not** a South American country.
 
 **Caribbean** has its own card (**N.13**). Bermuda / Bahamas sit in the **Atlantic** more than in the Caribbean *Sea* MCQ.
 
@@ -722,7 +722,7 @@ D. Cape Verde – Bamako
 
 ## N.10 South America
 
-Andes on the **west**. Amazon in the **north-centre**. Equator through **Ecuador, Colombia, Brazil**. Southern cone = Argentina, Chile, Uruguay.
+The Andes run on the **west**. The Amazon occupies the **north-centre**. The Equator crosses **Ecuador, Colombia and Brazil**. The southern cone is Argentina, Chile and Uruguay.
 
 | Country | Capital | Coast? | Regional fact |
 |---------|---------|--------|---------------|
@@ -742,7 +742,7 @@ Andes on the **west**. Amazon in the **north-centre**. Equator through **Ecuador
 
 Landlocked trap set: Uruguay (coast), Suriname (coast), Peru (Pacific) — pick **Bolivia**.
 
-Falklands / Malvinas = UK–Argentina dispute, South Atlantic (not Caribbean).
+The Falklands / Malvinas are a UK–Argentina dispute in the South Atlantic (not the Caribbean).
 
 **Inline PYQ — UPPCS Prelims 2025, Q63**
 
@@ -795,7 +795,7 @@ D. Bolivia
 
 ## N.11 Australia
 
-Island-continent. **Tropic of Capricorn** cuts it. Interior = **desert / semi-desert** (Great Sandy, Victoria, Gibson, Simpson).
+Australia is an island-continent. The **Tropic of Capricorn** cuts it. The interior is **desert / semi-desert** (Great Sandy, Victoria, Gibson, Simpson).
 
 | Coast | What sits there |
 |-------|-----------------|
@@ -806,7 +806,7 @@ Island-continent. **Tropic of Capricorn** cuts it. Interior = **desert / semi-de
 | **South** | Melbourne, Adelaide; more temperate |
 | **Tasmania** | South of Bass Strait |
 
-States/territories: **WA, NT, QLD, NSW, VIC, SA, TAS** + **ACT** (**Canberra** = capital, not Sydney).
+States and territories are **WA, NT, QLD, NSW, VIC, SA, TAS** plus the **ACT**. **Canberra** is the capital, not Sydney.
 
 | Extra | Fact |
 |-------|------|
@@ -825,7 +825,7 @@ States/territories: **WA, NT, QLD, NSW, VIC, SA, TAS** + **ACT** (**Canberra** =
 | Alps | Southern Alps on South Island |
 | Not | An Australian state. Tasmania is the Australian island |
 
-Papua New Guinea = east New Guinea; capital Port Moresby. Independent of Australia since 1975.
+Papua New Guinea occupies east New Guinea. Its capital is Port Moresby. It has been independent of Australia since 1975.
 
 Australia trap: interior desert is **true**; northern Australia is **tropical**, not temperate.
 
@@ -938,7 +938,7 @@ D. Dakshin Gangotri and Maitri
 
 ## N.13 Caribbean
 
-**Caribbean Sea** = between Greater/Lesser Antilles and Central/South America.
+The **Caribbean Sea** lies between the Greater/Lesser Antilles and Central/South America.
 
 | Group | Islands |
 |-------|---------|
@@ -1516,7 +1516,7 @@ Linguistic counts often split **L-1** (mother tongue / primary) and **L-2** (sec
 | Hindi | Huge L-1 + L-2; classic “top world languages” set |
 | Spanish | Official across much of Latin America |
 
-**Esperanto** = artificial international auxiliary language (Zamenhof) — not a country’s official tongue.
+**Esperanto** is an artificial international auxiliary language (Zamenhof). It is not a country’s official tongue.
 
 | Country / place | Language |
 |-----------------|--------------|

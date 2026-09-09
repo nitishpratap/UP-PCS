@@ -176,27 +176,27 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 | River | Source | Mouth | Direction / countries | |
 |-------|--------|-------|----------------------|------|
 | **Mekong** | **Tibetan Plateau** | South China Sea at **S Vietnam** | China → Myanmar → Laos → Thailand → Cambodia → Vietnam. Flows **south / south-east** | **Not SW**. Delta is **Vietnam**, not Cambodia |
-| Yangtze | Tibet | East China Sea | China, west → east | Longest Asia; Three Gorges; Shanghai |
-| Hwang Ho / Yellow | Tibet | Bo Hai (Yellow Sea) | China | “Sorrow of China”; heavy **loess** silt; arcuate delta |
+| Yangtze | Tibet | East China Sea | China, west → east | Asia’s longest river. Three Gorges Dam. Shanghai near the mouth |
+| Hwang Ho / Yellow | Tibet | Bo Hai (Yellow Sea) | China | Called the “Sorrow of China”. Heavy **loess** silt. Arcuate delta |
 | **Amur** | Mongolia–China border | Tatar Strait (Pacific) | Russia–China border river | Flows **north-east / east** |
 | Ob (with Irtysh) | Altai | Arctic | Russia / Kazakhstan | North to the Arctic |
-| Yenisei | Mongolia / Tuva | Arctic | Russia | **Angara** (from Baikal) joins it; Angara itself flows **north** |
+| Yenisei | Mongolia / Tuva | Arctic | Russia | The **Angara** leaves Baikal northward and joins the Yenisei |
 | Lena | Highlands near Baikal | Arctic | Russia | North to the Arctic |
 | Amu Darya | Pamir | Aral Sea | Central Asia | Aral is shrinking |
-| **Syr Darya** | Tien Shan | **Aral Sea** | Kazakhstan / Uzbekistan | Flows **north-west**; with Amu Darya feeds (and starved) Aral |
-| Tigris | Turkey | Shatt al-Arab → Persian Gulf | Turkey–Iraq | **Baghdad** on Tigris |
-| Euphrates | Turkey | Shatt al-Arab → Persian Gulf | Turkey–Syria–Iraq | Twin of Tigris |
-| Jordan | Hermon / Anti-Lebanon | **Dead Sea** | Israel–Jordan | Ends in Dead Sea, no ocean |
+| **Syr Darya** | Tien Shan | **Aral Sea** | Kazakhstan / Uzbekistan | Flows **north-west**. With the Amu Darya it fed (and starved) the Aral |
+| Tigris | Turkey | Shatt al-Arab → Persian Gulf | Turkey–Iraq | **Baghdad** sits on the Tigris |
+| Euphrates | Turkey | Shatt al-Arab → Persian Gulf | Turkey–Syria–Iraq | Twin of the Tigris |
+| Jordan | Hermon / Anti-Lebanon | **Dead Sea** | Israel–Jordan | Ends in the Dead Sea with no ocean mouth |
 | Irrawaddy | N Myanmar | Andaman Sea | Myanmar lifeline | |
-| **Mahaweli Ganga** | Sri Lanka highlands | Bay of Bengal | Longest Sri Lanka (~335 km); island shows **radial** drainage | |
+| **Mahaweli Ganga** | Sri Lanka highlands | Bay of Bengal | Sri Lanka’s longest river (~335 km). The island shows **radial** drainage | |
 | Salween | Tibet | Andaman Sea | China–Myanmar–Thailand | |
 
 **Africa**
 
-| River | Source | Mouth | Cities / dams / falls | |
+| River | Source | Mouth | Cities / dams / falls | Note |
 |-------|---------------|-------|----------------------|------|
-| **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence) · Cairo · **Aswan High Dam** → **Lake Nasser** | Arcuate delta; traditional **longest**. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt–Sudan dispute) |
-| **Congo / Zaire** | E African highlands | Atlantic | Congo Basin rainforest | **Deepest** major river; only major river that **crosses the Equator twice**; 2nd largest discharge after Amazon |
+| **Nile** | White: Victoria · Blue: **Tana** | Mediterranean | **Khartoum** (confluence), Cairo, **Aswan High Dam** → **Lake Nasser** | Arcuate delta. Traditional **longest** river. **GERD** sits on the **Blue Nile** in Ethiopia (Egypt–Sudan dispute) |
+| **Congo / Zaire** | E African highlands | Atlantic | Congo Basin rainforest | **Deepest** major river. Only major river that **crosses the Equator twice**. Second-largest discharge after the Amazon |
 | **Niger** | Guinea highlands | Gulf of Guinea (Nigeria) | Inland delta in Mali, then a coastal delta | **Paradox river** — arcs inland / away from the nearby Atlantic before turning south-east to the Gulf |
 | Zambezi | Zambia / Angola uplands | Mozambique Channel | **Victoria Falls** · Kariba · Cahora Bassa | Zambia–Zimbabwe border at the falls |
 | Orange | Drakensberg | Atlantic | South Africa / Namibia | |
@@ -206,9 +206,9 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 
 | River | Mouth | Cities | |
 |-------|-------|--------|------|
-| **Volga** | Caspian | Source **Valdai Hills**; Volga–Don canal | Longest in Europe; mouth = **Caspian**, not Black Sea |
+| **Volga** | Caspian | Source in the **Valdai Hills**. Linked by the Volga–Don canal | Longest river in Europe. Mouth is the **Caspian**, not the Black Sea |
 | **Danube** | Black Sea | Vienna · **Budapest** · Belgrade | Crosses the **most countries** (~10) |
-| **Rhine** | North Sea at Rotterdam | Basel · Strasbourg · **Cologne** · Bonn | **Busiest** European inland navigation; flows in a **rift valley** |
+| **Rhine** | North Sea at Rotterdam | Basel · Strasbourg · **Cologne** · Bonn | **Busiest** European inland navigation. Flows in a **rift valley** |
 | Thames | North Sea | **London** | |
 | Seine | English Channel | **Paris** | |
 | Po | Adriatic | N Italy | |
@@ -228,7 +228,7 @@ Rivers are matched by continent, mouth and one trap. Length numbers vary by sour
 | **Mississippi** | Minnesota → Gulf of Mexico | **New Orleans** at the mouth | Bird’s-foot delta |
 | Missouri | Rockies → joins Mississippi at **St Louis** | St Louis | **Not** the New Orleans river |
 | **Rio Grande** (Río Bravo) | Rockies → Gulf of Mexico | — | **USA–Mexico border** (2023) |
-| Colorado | Rockies → Gulf of California | Hoover Dam; Grand Canyon | **Not** the USA–Mexico MCQ |
+| Colorado | Rockies → Gulf of California | Hoover Dam and the Grand Canyon | **Not** the USA–Mexico border river |
 | Columbia | Rockies → Pacific | Grand Coulee Dam | NW USA |
 | St Lawrence | Great Lakes → Atlantic | Montreal · Quebec | Seaway |
 | Mackenzie | Great Slave Lake → Arctic | — | Canada |
@@ -333,7 +333,7 @@ Rivers cut valleys and dump load. Match the landform to the agent before you mat
 | **V-shaped valley** | Youthful vertical + lateral erosion |
 | **Meander** | Looping course on gentle plains |
 | **Alluvial fan / cone** | Sediment cone where a stream leaves mountains into a plain |
-| **Delta** | Mouth deposit — Ganga–Brahmaputra–Meghna = world’s largest; Mississippi = **bird’s-foot**; Nile = arcuate |
+| **Delta** | Mouth deposit. The Ganga–Brahmaputra–Meghna is the world’s largest. The Mississippi is **bird’s-foot**. The Nile is arcuate |
 | **Watershed / catchment** | Land unit that collects, stores and releases water to a common outlet |
 
 A **gorge** is a deep, narrow river valley with steep walls.
@@ -523,9 +523,9 @@ Learn **superlative** and **type**. Endorheic lakes have no ocean outlet.
 | Type | Fact / example |
 |------|----------------|
 | Tectonic / rift | Baikal, Tanganyika, Dead Sea, Malawi |
-| Glacial | Many Canadian / Alpine lakes; Great Lakes (glacial history) |
-| Crater / caldera | Crater Lake (USA); Lonar in India is impact, not volcanic |
-| Lagoon / coastal | Chilika-type idea (India topic); barred coastal lakes |
+| Glacial | Many Canadian and Alpine lakes. The Great Lakes have glacial history |
+| Crater / caldera | Crater Lake (USA). Lonar in India is impact, not volcanic |
+| Lagoon / coastal | Chilika-type coastal idea. Barred coastal lakes |
 | Oxbow | Cut-off meander lakes on floodplains |
 | Endorheic | Caspian, Aral, Chad, Dead Sea, Eyre — inland, no sea outlet |
 
@@ -533,9 +533,9 @@ Learn **superlative** and **type**. Endorheic lakes have no ocean outlet.
 |------|---------|--------------|------|
 | **Caspian** | RU / IR / KZ / TM / AZ | Saline inland sea | **Largest lake** on Earth |
 | **Superior** | USA–Canada | Fresh | Largest **freshwater by area** |
-| **Baikal** | **Russia** | Fresh | **Deepest**; largest fresh **volume**; among the **oldest** |
-| **Tanganyika** | TZ / DRC / BI / ZM | Fresh | **2nd deepest**; **longest** freshwater lake |
-| Victoria | E Africa (TZ / UG / KE) | Fresh | Large African lake; **White Nile** association |
+| **Baikal** | **Russia** | Fresh | **Deepest** lake. Largest fresh **volume**. Among the **oldest** |
+| **Tanganyika** | TZ / DRC / BI / ZM | Fresh | **Second deepest**. **Longest** freshwater lake |
+| Victoria | E Africa (TZ / UG / KE) | Fresh | Large African lake. Linked with the **White Nile** |
 | **Michigan** | **USA only** | Fresh | Only Great Lake **wholly in the USA** |
 | Huron | USA–Canada | Fresh | Great Lakes |
 | Erie | USA–Canada | Fresh | Niagara starts from Erie → Ontario |
@@ -570,8 +570,8 @@ Mnemonic: **Super Man Helps Every One**. Together they hold about **20%** of the
 | **Reindeer / Athabasca** | **Canada** (Uranium City near Athabasca) |
 | **Plitvice** | Croatia — UNESCO lake park |
 | **Great Lakes E→W** | Ontario → Erie → Huron → Michigan → Superior |
-| Cities | Duluth–Superior; Chicago–Michigan; Buffalo–Erie; Detroit–Detroit River |
-| **Victoria** | TZ / UG / KE (**three** countries); rift-associated; White Nile outflow near Jinja |
+| Cities | Duluth on Superior. Chicago on Michigan. Buffalo on Erie. Detroit on the Detroit River |
+| **Victoria** | Shared by Tanzania, Uganda and Kenya (**three** countries). Rift-associated. White Nile outflow near Jinja |
 | Volume ladder (fresh note) | Caspian (saline) > Baikal > Tanganyika > Superior > Malawi |
 | Area ladder (fresh, approximate coaching order) | **Superior** → **Victoria** → **Huron** → **Michigan** → **Tanganyika** → **Baikal** → **Great Bear** → **Malawi** → **Great Slave** → **Erie** → **Winnipeg** → **Ontario** |
 

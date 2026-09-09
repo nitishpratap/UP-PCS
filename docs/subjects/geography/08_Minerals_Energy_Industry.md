@@ -203,7 +203,7 @@ The mineral belts of India form one map. The north-eastern plateau is richest; t
 | **North-Western (Aravalli)** | Rajasthan–Gujarat | Copper, zinc–lead, mica, building stone, gypsum, **Fuller’s earth**, salt; Gujarat petroleum |
 | **Himalayan / Assam–Arakan** | North-East and Himalayan foothills | Copper–lead–zinc pockets; **Tertiary coal**; Assam oil |
 
-### Master map — mineral → state / centre (revise daily)
+### Master map — mineral by state / centre (revise daily)
 
 | Mineral | Main state / centre | One-line note |
 |---------|---------------------|---------------|
@@ -247,9 +247,11 @@ Iron is the backbone of heavy industry. Steel needs iron ore plus **coking coal*
 - About **95%** of India’s iron-ore reserves sit in Odisha, Jharkhand, Chhattisgarh, Karnataka, Goa, Telangana, Andhra Pradesh and Tamil Nadu.
 - Iron mines of the north-eastern plateau often sit **near coalfields**, which helps steel plants.
 - As per the Ministry of Mines Annual Report **2021–22**, the leading iron-ore producers are **Odisha and Chhattisgarh** (then Karnataka, Jharkhand).
-- About **79%** of hematite resources sit in the **eastern** sector; about **93%** of magnetite resources sit in the **southern** sector (Karnataka leads magnetite resources).
+- About **79%** of hematite resources sit in the **eastern** sector.
+- About **93%** of magnetite resources sit in the **southern** sector (Karnataka leads magnetite resources).
 - **Hematite** has the largest iron-ore **reserve** volume in India among ore types.
-- **Nathra-ki-Pal / Thoor–Hunder** (Udaipur) is the Rajasthan iron centre. **Chiria** (West Singhbhum) = iron mining.
+- **Nathra-ki-Pal / Thoor–Hunder** (Udaipur) is the Rajasthan iron centre.
+- **Chiria** (West Singhbhum) is an iron-mining centre.
 - **Ballari** and **Chitradurga** belong to the Karnataka **iron** belt.
 - **Mount Newman** in Australia is famous for **iron ore**.
 
@@ -472,7 +474,7 @@ Coal is a sedimentary **fossil fuel** formed from buried plant matter. It is **n
 
 ### Types of coal (carbon % and Indian homes)
 
-Soft → hard: **peat → lignite → bituminous → anthracite**.
+Soft grades harden toward anthracite in this order: **peat**, then **lignite**, then **bituminous**, then **anthracite**.
 
 | Type | Carbon (approx.) | Moisture / quality | Where found in India | Main use |
 |------|------------------|--------------------|----------------------|----------|
@@ -527,10 +529,15 @@ Soft → hard: **peat → lignite → bituminous → anthracite**.
 
 - NTPC **Singrauli** is among NTPC’s oldest coal units and sits on the **Madhya Pradesh–Uttar Pradesh** belt.
 - **Vindhyachal** in the Singrauli belt (Madhya Pradesh) is among India’s largest thermal complexes.
-- Commercial chronology: Raniganj (**1774**) → **NCDC (1956)** → coking/non-coking **nationalisation (1971–73)** → **Coal India Ltd**.
+- Commercial chronology starts at Raniganj (**1774**).
+- **NCDC** followed in **1956**.
+- Coking and non-coking coal were **nationalised in 1971–73**.
+- **Coal India Ltd** is the later umbrella company.
 - Proved coal-reserve order (Indian Minerals Yearbook, **1 Apr 2021**): **Jharkhand > Odisha > Chhattisgarh > West Bengal > Madhya Pradesh**.
 - Coal production order (**2020–21 / 2021–22**): often **Chhattisgarh > Odisha > Madhya Pradesh > Jharkhand**. Reserve order ≠ production order.
-- **CBM** is methane from coal seams; **shale gas** is mostly methane from fine shale. India has shale potential in Cambay, KG, Cauvery, Damodar, and related basins.
+- **CBM** is methane from coal seams.
+- **Shale gas** is mostly methane from fine shale.
+- India has shale potential in Cambay, KG, Cauvery, Damodar, and related basins.
 - **Coal Controller’s Organisation** keeps coal–lignite statistics, monitors captive blocks, and hears objections under coal-bearing land acquisition law — it does **not** guarantee end-user delivery timelines.
 
 ### World coalfields (by country)
@@ -847,7 +854,9 @@ D. (A) is false but (R) is true
 ### Jute, sugar, cement, petrochemicals, automobiles
 
 - **Jute** mills cluster on the **Hugli** belt because raw jute from the Ganga–Brahmaputra delta meets Kolkata’s port and humid processing climate.
-- **Sugar** is a **weight-losing** industry, so mills sit in the cane belt. Uttar Pradesh leads in **quantity**; Maharashtra often leads in **recovery / productivity**.
+- **Sugar** is a **weight-losing** industry, so mills sit in the cane belt.
+- Uttar Pradesh leads in **quantity**.
+- Maharashtra often leads in **recovery / productivity**.
 - **Cement** follows bulky **limestone**. Plants sit near quarries, then send bags to markets.
 - **Petrochemicals** follow refineries and gas (Gujarat, Mumbai–Pune, Panipat).
 - **Automobile** clusters include Pune–Mumbai, Chennai–Bengaluru–Hosur, NCR (Gurugram), and Gujarat’s newer auto belt.

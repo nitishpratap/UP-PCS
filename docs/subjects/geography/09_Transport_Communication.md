@@ -157,7 +157,8 @@ Transport and communication are the **arteries of circulation** of the economy.
 Indian Railways is the country’s principal long-distance land carrier for passengers and bulky freight.
 
 - The first passenger train ran from **Mumbai to Thane in 1853** (about 34 km).
-- Gauge widths: **broad gauge ~1.676 m (5½ ft)**; metre gauge **1 m**; narrow gauge **762 / 610 mm**. Most traffic is now broad gauge.
+- Gauge widths are **broad gauge** about **1.676 m (5½ ft)**, metre gauge **1 m**, and narrow gauge **762 / 610 mm**.
+- Most traffic is now broad gauge.
 - Indian Railways is often described as the **largest public-sector undertaking** in the country.
 - The network is organised into **railway zones**, each with a fixed headquarters. Count in current notes is **18 zones** (including South Coast Railway at **Visakhapatnam**). Older books still say 16 — read the stem.
 - **Konkan Railway** runs **Roha (Maharashtra)–Mangaluru (Karnataka)** through Maharashtra–Goa–Karnataka. It does **not** enter Kerala as a Konkan Railway main line.
@@ -329,11 +330,14 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 - The **North–South Corridor** links **Srinagar** to **Kanyakumari**.
 - The **East–West Corridor** links **Porbandar** to **Silchar** (not Dwarka / Dibrugarh–Surat).
 - **NS and EW corridors cross at Jhansi (Uttar Pradesh).**
-- **Pradhan Mantri Bharat Jodo Pariyojana** = highway corridors to tourist / economic nodes on **BOT**.
+- **Pradhan Mantri Bharat Jodo Pariyojana** builds highway corridors to tourist and economic nodes on **BOT**.
 - **Mumbai–Pune** was India’s first six-lane access-controlled expressway (~95 km).
 - **PMGSY** began **25 December 2000** — all-weather rural connectivity to eligible habitations.
 - **Jawahar (Banihal) Tunnel** crosses the **Banihal** axis of the **Pir Panjal** in Jammu & Kashmir (BRO).
-- IAS **2023** connectivity trap: East–West is **not** Dibrugarh–Surat; India–Myanmar–Thailand Trilateral ends at **Mae Sot** (not Chiang Mai); BCIM runs **Kunming–Kolkata** (not Varanasi–Kunming). All three stems in that paper were wrong.
+- IAS **2023** connectivity trap: East–West is **not** Dibrugarh–Surat.
+- The India–Myanmar–Thailand Trilateral ends at **Mae Sot** (not Chiang Mai).
+- BCIM runs **Kunming–Kolkata** (not Varanasi–Kunming).
+- All three stems in that paper were wrong.
 - **Bharatmala** is the umbrella **highway** programme. It is **not** a port scheme.
 - An **expressway** is an **access-controlled** high-speed road, stricter than an ordinary national highway.
 
@@ -480,7 +484,7 @@ India’s mainland plus island coasts stretch about **7,517 km**.
 
 ### Port–state match bank (next year can ask any)
 
-2025 Q50 mixed **major + non-major** names. Learn the bank; ★ = that paper’s set.
+2025 Q50 mixed **major** and **non-major** names. Learn the bank. ★ marks that paper’s set.
 
 | Port | State | Tag |
 |------|-------|-----|
@@ -4218,7 +4222,8 @@ D. None
 | **Isogonic** | Magnetic declination |
 | Contours | Elevation / relief |
 
-Daily weather isobar maps are **isopleth** maps. Magellan = first circumnavigation.
+Daily weather isobar maps are **isopleth** maps.
+Magellan’s voyage is the first circumnavigation.
 
 ---
 

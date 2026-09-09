@@ -133,7 +133,9 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 - **Net sown area (NSA)** counts a plot **once**, even if it grows two or three crops that year.
 - **Gross cropped area (GCA)** counts **every** sowing on that land. One hectare sown with wheat after rice adds **two** to GCA and only **one** to NSA.
-- **Cropping intensity** = (GCA ÷ NSA) × 100. Example: NSA = 100 ha and GCA = 156 ha → intensity **156%**. Intensity rises when irrigation and short-duration varieties allow a second (or third) crop on the same land.
+- **Cropping intensity** is (GCA ÷ NSA) × 100.
+- Example: NSA of 100 ha and GCA of 156 ha give intensity **156%**.
+- Intensity rises when irrigation and short-duration varieties allow a second or third crop on the same land.
 
 ### Farming types
 
@@ -154,7 +156,9 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 - Agriculture still engages about **half or more** of India’s workforce (~**54.6%** in Economic Survey **2021–22** / Census 2011) and contributes under **one-fifth** of GVA (~**18.8%** GVA, 2021–22 1st AE). The direction matters more than any single year figure.
 - Indian agriculture is marked by over-dependence on nature, low productivity, crop diversity, and **predominance of small holdings** — not large farms.
 - Low productivity causes: population pressure on land, small holdings, traditional practices, and disguised unemployment. **Cooperative farming** is a remedy, not a cause.
-- **Sikkim** has under **10%** land available for agriculture (forest hill state). UP, Punjab and Haryana are major grain states; **UP** often leads total foodgrain volume.
+- **Sikkim** has under **10%** land available for agriculture (forest hill state).
+- Uttar Pradesh, Punjab and Haryana are major grain states.
+- **Uttar Pradesh** often leads total foodgrain volume.
 
 ### Cropping patterns
 
@@ -172,15 +176,19 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 - Do **not** swap double cropping (year sequence) with intercropping (same-time proximity).
 
-- Cropping **pattern** is the share and sequence of crops in a region. Climate, soil, irrigation, markets, technology and MSP all shape it.
-- Pre-1965: rainfed subsistence, coarse cereals and pulses, low yield.
-- GR 1965–90: rice–wheat HYV belts, then **monoculture** and water stress.
-- After 1991: more horticulture, commercial crops and contract farming.
-- Cropping intensity rose from about **111% (1950–51)** to about **156%** now . Irrigation and HYV made the extra sowings possible.
-- About **86%** of holdings are small or marginal (Agriculture Census **2015–16**: small + marginal ≈ **86.2%** of farmers but only about **47%** of operated area). That caps machines and diversification.
-- Holding size classes: **marginal < 1 ha**; small 1–2 ha; semi-medium 2–4 ha; medium 4–10 ha; large **> 10 ha**.
+- Cropping **pattern** is the share and sequence of crops in a region.
+- Climate, soil, irrigation, markets, technology and MSP all shape it.
+- Before **1965**, farming was largely rainfed subsistence with coarse cereals and pulses and low yield.
+- From **1965–90**, Green Revolution rice–wheat HYV belts spread, then **monoculture** and water stress followed.
+- After **1991**, horticulture, commercial crops and contract farming grew.
+- Cropping intensity rose from about **111% (1950–51)** to about **156%** now.
+- Irrigation and HYV made the extra sowings possible.
+- About **86%** of holdings are small or marginal (Agriculture Census **2015–16**: small + marginal ≈ **86.2%** of farmers but only about **47%** of operated area).
+- That caps machines and diversification.
+- Holding size classes run from **marginal** (under **1 ha**) through small (1–2 ha), semi-medium (2–4 ha), and medium (4–10 ha) to large (**over 10 ha**).
 - Average size of operational holdings is often largest in **Rajasthan** among major states.
-- About **half of NSA** is still rainfed. Groundwater waters about **two-thirds** of the irrigated area.
+- About **half of NSA** is still rainfed.
+- Groundwater waters about **two-thirds** of the irrigated area.
 - Land-use ballpark (Ministry of Agriculture): net sown area about **45–47%**, forest about **23%**, other uses about **30–31%** (closest IAS 2010 option was 47 / 23 / 30).
 - Horticulture output has overtaken foodgrain tonnage in recent years. That is volume, not calorie king.
 - MSP and free power still pull **paddy in Punjab** and **cane in drought Maharashtra**. That is policy, not climate.
@@ -200,12 +208,12 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 **School agricultural regions** (crop-system map — separate from the 15 ACZ names):
 
-- Wet-rice east
-- Wheat–sugarcane plains
-- Cotton Deccan
-- Millet drylands
-- Plantation Ghats
-- Arid livestock west
+- The east is a wet-rice region.
+- The plains are a wheat–sugarcane region.
+- The Deccan is a cotton region.
+- The drylands are a millet region.
+- The Ghats are a plantation region.
+- The arid west is a livestock region.
 
 ---
 
@@ -213,27 +221,41 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 ### Rice
 
-Hot + wet (or irrigation). India is usually the world’s **2nd** rice producer after **China**. In **2024–25**, the Union Agriculture Minister claimed India had become **#1** — treat that as a separate recent claim, not the usual textbook rank.
+Rice needs heat plus moisture (or irrigation). India is usually the world’s **2nd** rice producer after **China**. In **2024–25**, the Union Agriculture Minister claimed India had become **#1** — treat that as a separate recent claim, not the usual textbook rank.
 
-- Temperature typically **>~20–27°C** (NCERT often stresses **>25°C** with high humidity).
-- Rain **~100 cm+** in NCERT. Many notes use **>150 cm** for the humid core. Punjab rice is **irrigation**, not 150 cm rain.
-- Soil: **clayey / alluvial** that puddles; standing water is typical.
-- Main season = **kharif** in the north. With irrigation, the south can grow rice **almost year-round**.
-- East also grows three paddies: **Aus / Aman / Boro** (Assam, West Bengal, Odisha).
-- **Aus** = summer / pre-monsoon. **Aman** = monsoon to winter. **Boro** = irrigated winter–spring.
-- Methods: **transplantation** (nursery then puddled field), **broadcasting**, **drilling**. **DSR** sows seed in the field and saves water. **AWD** (alternate wetting and drying) also cuts irrigation.
+- Temperature typically runs about **20–27°C** (NCERT often stresses **above 25°C** with high humidity).
+- NCERT rain need is about **100 cm or more**. Many notes use **above 150 cm** for the humid core.
+- Punjab rice depends on **irrigation**, not on 150 cm of rain.
+- Soil is typically **clayey or alluvial** that puddles, with standing water.
+- The main season in the north is **kharif**. With irrigation, the south can grow rice **almost year-round**.
+- The east also grows three paddies — **Aus**, **Aman** and **Boro** — in Assam, West Bengal and Odisha.
+- **Aus** is the summer / pre-monsoon rice.
+- **Aman** runs from monsoon into winter.
+- **Boro** is irrigated winter–spring rice.
+- Methods include **transplantation** (nursery then puddled field), **broadcasting** and **drilling**.
+- **DSR** sows seed in the field and saves water.
+- **AWD** (alternate wetting and drying) also cuts irrigation.
 - DSR needs a dry sowing window. Sudden rain after sowing hurts it.
-- Usual volume order: **West Bengal > Uttar Pradesh > Punjab**. **Punjab** (then TN/TG) leads **yield** because of full irrigation.
+- Usual volume order is **West Bengal > Uttar Pradesh > Punjab**.
+- **Punjab** (then Tamil Nadu / Telangana) leads **yield** because of full irrigation.
 - Rice covers the **largest cropped area** among foodgrains.
 - India is also the world’s largest **rice exporter** in recent years (Basmati to West Asia; non-Basmati to Africa / SE Asia).
-- **Azolla** is a floating fern that lives with the cyanobacterium **Anabaena** in its leaf cavities. In flooded paddy, Anabaena fixes atmospheric nitrogen; when Azolla dies and decays, that nitrogen enters the soil. So Azolla is a **biofertiliser** for water-logged rice — not an insecticide.
+- **Azolla** is a floating fern that lives with the cyanobacterium **Anabaena** in its leaf cavities.
+- In flooded paddy, Anabaena fixes atmospheric nitrogen.
+- When Azolla dies and decays, that nitrogen enters the soil.
+- So Azolla is a **biofertiliser** for water-logged rice — not an insecticide.
 - Other rice biofertilisers taught with Azolla are **blue-green algae**, Azospirillum, and phosphobacteria.
 - **Golden rice** is genetically engineered rice whose grain makes **beta-carotene** (provitamin A). Ordinary rice endosperm does not. Link it to **Vitamin A**, not nitrogen, ozone, or petroleum.
-- North-west India’s Green Revolution staple sequence is **rice (kharif) → wheat (rabi)**. Only a short gap sits between rice harvest and wheat sowing, so farmers often burn leftover straw to clear the field fast. That **stubble burning** is strongest in **Punjab–Haryana**.
+- North-west India’s Green Revolution staple sequence is **rice in kharif**, then **wheat in rabi**.
+- Only a short gap sits between rice harvest and wheat sowing, so farmers often burn leftover straw to clear the field fast.
+- That **stubble burning** is strongest in **Punjab–Haryana**.
 - **Krishna–Godavari delta** (Andhra Pradesh) is the classic **“Rice Bowl of India”** tag (distinct from the Chhattisgarh plain nickname).
 - **System of Rice Intensification (SRI)** uses alternate wetting and drying. It cuts seed need, methane, and electricity use.
-- Hybrid Basmati: **Pusa RH-10**. Transplant seed rate for Basmati is about **15–20 kg/ha**.
-- Variety names often asked: **Jaya, Padma, Hansa, Krishna, Ratna, Barani Deep, Pusa Sugandha**. **Mahi Sugandha** is aromatic rice (not wheat). **Jawala** is **not** a rice variety in the usual variety lists.
+- Hybrid Basmati includes **Pusa RH-10**.
+- Transplant seed rate for Basmati is about **15–20 kg/ha**.
+- Variety names often asked include **Jaya**, **Padma**, **Hansa**, **Krishna**, **Ratna**, **Barani Deep** and **Pusa Sugandha**.
+- **Mahi Sugandha** is aromatic rice (not wheat).
+- **Jawala** is **not** a rice variety in the usual variety lists.
 - **Dee-gee-woo-gen** is the rice dwarfing gene (wheat’s is **Norin-10**).
 
 | Belt | States |
@@ -249,32 +271,39 @@ Hot + wet (or irrigation). India is usually the world’s **2nd** rice producer 
 
 **Rabi** cereal. India ranks **2nd** globally.
 
-- Cool while growing (~10–15°C); **brighter / warmer while ripening** (~20–25°C).
-- Needs **moderate temperature and moderate rainfall** (not high heat + heavy rain).
+- It is cool while growing (about **10–15°C**).
+- It needs a **brighter / warmer** ripening phase (about **20–25°C**).
+- It needs **moderate temperature and moderate rainfall** (not high heat plus heavy rain).
 - Frost at flowering or rain at harvest hurts yield.
-- Rain **50–75 cm** evenly (many notes say about **75 cm**), or irrigation; well-drained **alluvial loam**.
-- Two textbook belts: (1) **Ganga–Satluj** plains of the north-west; (2) **black-soil** Deccan wheat.
-- Core states: **UP, Punjab, Haryana** (+ MP, RJ, Bihar).
-- **Assam–Wheat is wrong**.
-- HYV semi-dwarf + water + fertiliser = GR surplus in PB–HR–W UP (2022 Q91 both).
-- Dwarfing gene in wheat is **Norin-10**. **Macaroni wheat** (*Triticum durum*) suits **rainfed / dry** conditions.
+- Rain of about **50–75 cm** evenly (many notes say about **75 cm**), or irrigation, suits wheat.
+- Well-drained **alluvial loam** is the classic soil.
+- Two textbook belts stand out: the **Ganga–Satluj** plains of the north-west, and **black-soil** Deccan wheat.
+- Core states are **Uttar Pradesh, Punjab and Haryana**, with Madhya Pradesh, Rajasthan and Bihar also strong.
+- Pairing **Assam with wheat** is wrong.
+- HYV semi-dwarf wheat plus water and fertiliser created the Green Revolution surplus in Punjab–Haryana–western UP (2022 Q91 both).
+- The dwarfing gene in wheat is **Norin-10**.
+- **Macaroni wheat** (*Triticum durum*) suits **rainfed / dry** conditions.
 - **Triticale** is a hybrid of **wheat and rye**.
-- Wheat diseases: **yellow, brown and black rust**; **Karnal bunt** is fungal (*Tilletia indica*, first noted **1931**).
-- Varieties often asked: **Sonalika, Arjun, Kalyan Sona, Sonora-64** (induced mutation at IARI), **Raj 3077**, **Pusa Sindhu Ganga (HD 2967)**, **UP-308**.
-- Most critical irrigation stage for wheat is often taught as **CRI (crown root initiation)**, not flowering.
+- Wheat diseases include **yellow, brown and black rust**.
+- **Karnal bunt** is fungal (*Tilletia indica*, first noted **1931**).
+- Varieties often asked include **Sonalika**, **Arjun**, **Kalyan Sona**, **Sonora-64** (induced mutation at IARI), **Raj 3077**, **Pusa Sindhu Ganga (HD 2967)** and **UP-308**.
+- The most critical irrigation stage for wheat is often taught as **CRI (crown root initiation)**, not flowering.
 - **UPAS-120** is a pigeon-pea (arhar) variety suited for **double cropping with wheat**.
 
 ### Maize & millets (nutri-cereals)
 
-- Maize is mostly **kharif**; food + feed + starch; also rabi maize in Bihar pockets.
-- Botanical name **Zea mays**. Called the **“Queen of cereals.”** Used for starch, biodiesel feedstock and alcoholic beverages.
+- Maize is mostly a **kharif** crop used for food, feed and starch.
+- Rabi maize also appears in Bihar pockets.
+- The botanical name is **Zea mays**. It is called the **“Queen of cereals.”**
+- It is also used for starch, biodiesel feedstock and alcoholic beverages.
 - **Shaktiman-I** and **Shaktiman-II** are genetically modified / hybrid maize varieties.
 - Maturity is often about **90–150 days** (options near **110 days** are closest).
 - Maize is a **C4** plant (rice and wheat are C3).
-- Leading producers in recent data often **Karnataka, Madhya Pradesh, Maharashtra**.
-- Millets are rainfed, drought-tolerant, light-soil crops; often mixed with pulses.
-- UN **International Year of Millets = 2023**; GoI brand **Shree Anna**.
-- Millet group: sorghum, kodo, kangani, ragi (not moong).
+- Leading producers in recent data are often **Karnataka, Madhya Pradesh and Maharashtra**.
+- Millets are rainfed, drought-tolerant, light-soil crops and are often mixed with pulses.
+- The UN marked **2023** as the **International Year of Millets**.
+- The Government of India brand is **Shree Anna**.
+- The millet group includes sorghum, kodo, kangani and ragi — not moong.
 
 | Crop | Leading state | Note |
 |------|---------------|------|
@@ -291,7 +320,9 @@ Hot + wet (or irrigation). India is usually the world’s **2nd** rice producer 
 - **Cobalt** is essential for symbiotic nitrogen fixation by Rhizobium (and for vitamin B12 synthesis).
 - Balanced NPK ratios for legumes are often **0:1:1**, **1:2:2** or **1:2:3** — not a cereal-heavy N dose.
 - About **90%** of pulse area is classically rainfed.
-- Varieties often asked: **Malaviya Chamatkar / Bahar / Amar** (arhar); **Aparna** = leafless pea; **UPAS-120** = arhar for wheat double-crop.
+- Arhar varieties often asked include **Malaviya Chamatkar**, **Bahar** and **Amar**.
+- **Aparna** is a leafless pea.
+- **UPAS-120** is arhar bred for wheat double-cropping.
 
 | Pulse | Season | Note |
 |-------|--------|------|
@@ -322,22 +353,31 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 | Niger | Minor | Tribal/peninsula |
 
 - Oilcake feeds dairy (White Revolution link).
-- **Yellow ≠ Golden.**
-- Groundnut is the classic **dryland** oilseed. **Pegging** after flowering pushes the peg into soil — a groundnut-specific fact.
+- Do **not** swap **Yellow** (oilseeds) with **Golden** (horticulture and honey).
+- Groundnut is the classic **dryland** oilseed.
+- **Pegging** after flowering pushes the peg into soil — a groundnut-specific fact.
 - Groundnut needs **gypsum**-rich soil for quality pods.
-- Sesame often tops oil-content % among common oilseed options. **Safflower** = *Carthamus tinctorius*.
-- Mustard varieties: **Varuna, Pusa Bold, Pitambari** (yellow mustard). **Kaushal** = groundnut variety.
-- Soybean area is largest in **Madhya Pradesh**; recent production leadership can flip with **Maharashtra** — check the year of the data.
+- Sesame often tops oil-content % among common oilseed options.
+- **Safflower** is *Carthamus tinctorius*.
+- Mustard varieties include **Varuna**, **Pusa Bold** and **Pitambari** (yellow mustard).
+- **Kaushal** is a groundnut variety.
+- Soybean area is largest in **Madhya Pradesh**.
+- Recent production leadership can flip with **Maharashtra** — check the year of the data.
 
 ### Cotton (white gold)
 
 **Kharif** fibre. India is among the world’s top / often **largest** producers; **Bt cotton** dominates area. It takes about **6–8 months**.
 
-- Warm **>21°C**, rain **~50–100 cm**, **~210 frost-free days**, bright sun at boll opening. Hard frost kills it.
-- Best on **black regur**. North zone uses **deep alluvium**. South zone uses mixed black–red soils.
-- Three belts: **North** (PB–HR–RJ–W UP, irrigated), **Central** (GJ–MH–MP, the volume core), **South** (TG–AP–KA–TN).
-- About **two-thirds** of Indian cotton is **rainfed**. Yield is below the world average.
-- It can take some **salinity**. It **hates waterlogging**.
+- It needs warmth above about **21°C**, rain about **50–100 cm**, about **210 frost-free days**, and bright sun at boll opening.
+- Hard frost kills cotton.
+- Best soils are **black regur**.
+- The north zone uses **deep alluvium**.
+- The south zone uses mixed black–red soils.
+- Three belts stand out: **North** (Punjab–Haryana–Rajasthan–western UP, irrigated), **Central** (Gujarat–Maharashtra–Madhya Pradesh, the volume core), and **South** (Telangana–Andhra Pradesh–Karnataka–Tamil Nadu).
+- About **two-thirds** of Indian cotton is **rainfed**.
+- Yield is below the world average.
+- Cotton can take some **salinity**.
+- It **hates waterlogging**.
 
 **Four species India grows** (India is often taught as the only country that cultivates all four recognised cotton species):
 
@@ -359,9 +399,9 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 | **Extra-long staple (ELS)** | about **≥32.5 mm** | Premium yarn; India still **imports** much ELS (Egypt / USA style) |
 
 - India’s harvested cotton is still **mostly medium** (and medium-long), not Egyptian-style ELS. Mills **blend** staples.
-- MSP for kapas is announced separately for **medium staple** and **long staple** grades (CACP → Cabinet).
+- MSP for kapas is announced separately for **medium staple** and **long staple** grades (CACP recommends; the Union Cabinet decides).
 - **Ahmedabad** lies in a major cotton **region** (raw material true).
-- Traditionally India’s largest cotton-textile **centre** is **Mumbai**, not Ahmedabad (2020 Q58: A false, R true → D).
+- Traditionally India’s largest cotton-textile **centre** is **Mumbai**, not Ahmedabad (2020 Q58: A false, R true, code **D**).
 - Cotton is indigenous to India (Rigveda / Manusmriti mention). India was first to commercialise **hybrid cotton**.
 - Cotton fibre is obtained from the **seed**.
 - **Khandwa–Khargone** (Madhya Pradesh) is tagged the **“White Gold”** cotton belt. Maharashtra also calls cotton white gold on black soil.
@@ -369,13 +409,16 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 
 ### Jute (golden fibre) & mesta
 
-- Hot humid **~24–35°C**, rain often cited **~120–150 cm+**, high humidity, deltaic **alluvium**.
-- Needs **retting** in still / standing water.
-- Second fibre after cotton. It is largely **rainfed** and uses little fertiliser or pesticide — the opposite of cotton.
-- Sown to catch the monsoon; many notes give a long **Feb–Oct** window (about 8–10 months). Still treat it as a **humid-east kharif** crop, not a rabi cereal.
-- Core: **West Bengal** (+ Assam, Bihar, Odisha).
-- Mills on the **Hugli**.
-- **UP–Jute is wrong.**
+- Hot humid conditions run about **24–35°C**, with rain often cited about **120–150 cm or more**, high humidity, and deltaic **alluvium**.
+- Jute needs **retting** in still or standing water.
+- It is the second fibre after cotton.
+- It is largely **rainfed** and uses little fertiliser or pesticide — the opposite of cotton.
+- It is sown to catch the monsoon.
+- Many notes give a long **February–October** window (about 8–10 months).
+- Still treat it as a **humid-east kharif** crop, not a rabi cereal.
+- The core belt is **West Bengal**, with Assam, Bihar and Odisha also important.
+- Mills sit on the **Hugli**.
+- Pairing **Uttar Pradesh with jute** is wrong.
 - India is the world’s top jute producer.
 
 **Jute types India grows** (two true jute species + one related fibre often asked with them):
@@ -393,23 +436,34 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 
 Long-duration crop (**~10–18 months**) — not a single short season.
 
-- **~21–27°C**; water **75–150 cm or irrigation**; any soil that **holds moisture**. The crop **exhausts** fertility, so manure matters.
-- Too much rain **lowers sugar**. Too little rain makes a **fibrous** cane.
-- A bright, open second half thickens juice. A short **cool dry** spell at harvest is ideal.
-- **Frost** and the **loo** hurt north Indian cane. South India lacks both, so yield is often higher.
-- **Ratoon** (stubble sprout) is common. It saves planting cost but yields fall after a cycle or two.
-- **UP** often leads **area / production**.
-- **Maharashtra** often leads **yield** + cooperative factories. Cane on a small share of MH land still drinks a huge share of irrigation water.
-- 2019 A/R: both true; coops **do not explain** UP’s lower productivity → **B**.
-- Price = **FRP** (+ possible state SAP) — not cereal MSP.
-- By-products: bagasse, molasses / ethanol. Sugar can also come from **beet**, not cane alone.
-- Philippines cane + coconut credit: **Spanish and Americans**.
-- **Uttar Pradesh** is the classic **“Sugar Bowl”** of India (quantity). South India often leads **sucrose / productivity** (longer crushing season, frost-free).
-- First sugar mill in India: **Pratappur** (Deoria, UP), **1903**.
-- Sugarcane breeding HQ: **Sugarcane Breeding Institute, Coimbatore** (1912; under ICAR). Key variety: **Co. 1148**.
-- **Adsali** cane (Maharashtra low-rain belt) takes about **16–18 months**.
-- **Sustainable Sugarcane Initiative (SSI)** (WWF–ICRISAT, **2009**): fewer seeds, nursery seedlings, wider spacing, drip-friendly, more intercropping scope — it does **not** ban all chemical fertiliser.
-- Sugarcane is the **least water-efficient** among common IAS crop options (vs pearl millet / red gram / sunflower).
+- Ideal temperature is about **21–27°C**.
+- Water need is about **75–150 cm**, or irrigation.
+- Any soil that **holds moisture** works.
+- The crop **exhausts** fertility, so manure matters.
+- Too much rain **lowers sugar**.
+- Too little rain makes a **fibrous** cane.
+- A bright, open second half thickens juice.
+- A short **cool dry** spell at harvest is ideal.
+- **Frost** and the **loo** hurt north Indian cane.
+- South India lacks both, so yield is often higher.
+- **Ratoon** (stubble sprout) is common.
+- It saves planting cost, but yields fall after a cycle or two.
+- **Uttar Pradesh** often leads **area and production**.
+- **Maharashtra** often leads **yield** and cooperative factories.
+- Cane on a small share of Maharashtra land still drinks a huge share of irrigation water.
+- 2019 A/R: both statements are true; coops **do not explain** UP’s lower productivity, so the code is **B**.
+- Price uses **FRP** (plus possible state SAP) — not cereal MSP.
+- By-products include bagasse and molasses / ethanol.
+- Sugar can also come from **beet**, not cane alone.
+- Philippines cane and coconut credit go to the **Spanish and Americans**.
+- **Uttar Pradesh** is the classic **“Sugar Bowl”** of India by quantity.
+- South India often leads **sucrose and productivity** (longer crushing season, frost-free).
+- The first sugar mill in India was **Pratappur** (Deoria, UP) in **1903**.
+- Sugarcane breeding HQ is the **Sugarcane Breeding Institute, Coimbatore** (1912; under ICAR).
+- A key variety is **Co. 1148**.
+- **Adsali** cane in the Maharashtra low-rain belt takes about **16–18 months**.
+- **Sustainable Sugarcane Initiative (SSI)** (WWF–ICRISAT, **2009**) uses fewer seeds, nursery seedlings, wider spacing, drip-friendly layout and more intercropping scope — it does **not** ban all chemical fertiliser.
+- Sugarcane is the **least water-efficient** among common IAS crop options (versus pearl millet, red gram and sunflower).
 
 ### Tea · Coffee · Rubber · Spices
 
@@ -422,11 +476,17 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 | Chilli | Warm Deccan | — | AP/TG strong — **not Kerala-only** |
 | Turmeric / ginger | Warm | South + NE | Many GIs |
 
-- Tea process: **CTC** (Crush–Tear–Curl) = bulk everyday tea; **orthodox** = premium leaf.
+- **CTC** (Crush–Tear–Curl) is bulk everyday tea.
+- **Orthodox** processing makes premium leaf tea.
 - Tea likes acidic, well-drained hill soils.
-- Tea is often nicknamed **Green Gold**. Origin note tags the **Yunnan** plateau of South China.
-- Coffee was first grown in India in **Chikkamagaluru** (Karnataka). Coffee is propagated by **seeds**; tea mainly by **stem cuttings**.
-- Kerala is the classic **“Garden of Spices.”** Black pepper is **black gold / black diamond**. **Clove** = flower bud of *Eugenia caryophyllata*.
+- Tea is often nicknamed **Green Gold**.
+- Origin notes tag the **Yunnan** plateau of South China.
+- Coffee was first grown in India in **Chikkamagaluru** (Karnataka).
+- Coffee is propagated by **seeds**.
+- Tea is propagated mainly by **stem cuttings**.
+- Kerala is the classic **“Garden of Spices.”**
+- Black pepper is nicknamed **black gold** or **black diamond**.
+- **Clove** is the flower bud of *Eugenia caryophyllata*.
 - The **Coffee Board** headquarters is in **Bengaluru**.
 - The **Tea Board** headquarters is in **Kolkata**.
 - The **Rubber Board** headquarters is in **Kottayam**.
@@ -443,9 +503,9 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - Cocoa majors are Ivory Coast, Ghana and Cameroon. Latvia is **not** a cocoa major.
 - Philippines cane and coconut history is linked to Spanish and American periods.
 - Tobacco leadership has shifted toward **Gujarat** in recent data (older notes often said Andhra Pradesh).
-- Coconut leadership: **Kerala** remains the classic lead (Karnataka close in recent years).
-- Cashew: **Maharashtra** often leads among states.
-- Saffron commercial production: **Jammu & Kashmir** (Zafran).
+- Coconut leadership still sits with **Kerala** (Karnataka is close in recent years).
+- Cashew leadership often sits with **Maharashtra** among states.
+- Commercial saffron production is centred in **Jammu & Kashmir** (Zafran).
 - **Guar (cluster bean)** gum is used in **shale-gas / hydraulic fracturing**; India–Pakistan dominate world production.
 - In sericulture, India is usually world **#2** after China.
 - **Mulberry** silk leadership is **Karnataka**.
@@ -455,18 +515,22 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 
 ## N.4 Fruits, Potato, GI
 
-- Tropical fruits: mango, banana, pineapple.
-- Subtropical: citrus, grapes.
-- Temperate hills: apple (J&K, HP, Uttarakhand).
-- World citrus belt = **Mediterranean**.
-- India’s orange renown = **Nagpur**.
-- **Guava varieties:** Lalit / Banarsi (improved). **Sultana, Gulabi, Kali Champa:** the UPPCS **2018** answer was **guava**; Ghatnachakra lists **grapes** — sources disagree; for that year the paper answer is guava.
-- **Potato:** UP is the **leading producer**.
+- Tropical fruits include mango, banana and pineapple.
+- Subtropical fruits include citrus and grapes.
+- Temperate hill fruits include apple in Jammu & Kashmir, Himachal Pradesh and Uttarakhand.
+- The world citrus belt is the **Mediterranean**.
+- India’s orange renown centres on **Nagpur**.
+- Improved **guava** varieties include **Lalit** and **Banarsi**.
+- For **Sultana, Gulabi and Kali Champa**, the UPPCS **2018** answer was **guava**.
+- Ghatnachakra lists **grapes** for the same names — sources disagree; for that year the paper answer is guava.
+- **Uttar Pradesh** is the **leading potato producer**.
 - The CIP South Asia Regional Centre is at **Singna, Agra**, not Aligarh.
-- Best processing potato varieties: **Kufri Chipsona-2** / Chipsona-3 (plains); **Kufri Himsona** (hills).
-- Mango: **Sindhu** = seedless; **Amrapali** = Dasheri × Neelam hybrid (IARI, 1971).
-- **Kanchan / Krishna / Banarasi** = improved amla (Indian gooseberry). **Lalit** = guava.
-- Ginger storage organ = **rhizome**.
+- Best processing potato varieties are **Kufri Chipsona-2** and Chipsona-3 in the plains, and **Kufri Himsona** in the hills.
+- **Sindhu** is a seedless mango.
+- **Amrapali** is a Dasheri × Neelam hybrid from IARI (**1971**).
+- **Kanchan**, **Krishna** and **Banarasi** are improved amla (Indian gooseberry) varieties.
+- **Lalit** is a guava variety.
+- The ginger storage organ is a **rhizome**.
 - The **Golden Revolution** covers horticulture **and honey**.
 - **Arunachal Pradesh** is the classic low-cost orchid / export-horticulture climate pair.
 
@@ -517,7 +581,7 @@ Three **number** facts — do not mix:
 
 - One state can sit in **multiple** zones.
 - Western Dry ≠ West Coast Ghats.
-- Trap: “India has 20 agro-climatic and 15 agro-ecological regions” — **both counts swapped** → whole statement set false (CGPCS-type).
+- Trap: “India has 20 agro-climatic and 15 agro-ecological regions” swaps **both** counts, so the whole statement set is false (CGPCS-type).
 - **P. Sengupta and G. Sdasyuk (1968)** divided India into **60** micro agricultural regions (Registrar General monograph).
 
 ### Agro-ecological regions (NBSS&LUP ≈ 20)
@@ -557,14 +621,28 @@ D. Assam—Wheat
 
 CAD develops the **command** of an existing project (channels, drainage, warabandi). It is **not** “build a new dam.” Classic CADP launches (from **Dec 1974**) include **Sharda Tributary**, **Ramganga**, and **Gandak**.
 
-- Most of India is warm enough that evaporation creates a soil-moisture deficit for crops — hence irrigation. Agriculture uses most of India’s freshwater (NCERT surface ~**89%** / groundwater ~**92%**; often cited **~80%** overall).
-- **2018–19** shares: **tubewells ~48.5%** of irrigated area; wells + tubewells ~**64%**; canals ~**23%**; tanks ~**2.3%**. About **two-thirds** of irrigated land drinks **groundwater**. Punjab paddy + free power is the over-exploited poster.
-- Project size by **CCA**: **minor** ≤ **2,000 ha** (~**62%** of irrigation potential — wells, tubewells, tanks, lift, drip, sprinkler); **medium** **2,000–10,000 ha**; **major** > **10,000 ha**. Major + medium together cover about **38%**.
+- Most of India is warm enough that evaporation creates a soil-moisture deficit for crops — hence irrigation.
+- Agriculture uses most of India’s freshwater (NCERT surface about **89%** / groundwater about **92%**; often cited about **80%** overall).
+- In **2018–19**, tubewells covered about **48.5%** of irrigated area.
+- Wells plus tubewells together covered about **64%**.
+- Canals covered about **23%**.
+- Tanks covered about **2.3%**.
+- About **two-thirds** of irrigated land drinks **groundwater**.
+- Punjab paddy plus free power is the over-exploited poster case.
+- Project size by **CCA**: **minor** projects are **2,000 ha or less** and hold about **62%** of irrigation potential (wells, tubewells, tanks, lift, drip, sprinkler).
+- **Medium** projects cover **2,000–10,000 ha**.
+- **Major** projects exceed **10,000 ha**.
+- Major plus medium together cover about **38%**.
 - Rice and sugarcane together take a huge share of irrigation water, often in **water-stressed** states.
-- Micro-irrigation (drip/sprinkler) is still a **small** slice of irrigated area. It cuts nutrient loss and can slow groundwater decline in places — it is **not** the only dryland irrigation method. PMKSY (**1 Jul 2015**) “more crop per drop” is the scheme tag.
-- **Protective / life-saving irrigation** = watering at **permanent wilting point (PWP)**.
-- Peninsula classic = **tanks / ponds** (hard rock + seasonal rivers). Sir **Arthur Cotton** is the pioneer of irrigation works in South India.
-- **Uttar Pradesh** leads absolute tubewell / well irrigated area and replenishable groundwater among major states (~**40.7 bcm** for irrigation). UP net irrigated share (**2018–19**): tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**. Spectacular tubewell growth note = **Saryupar** plain (canal-scarce).
+- Micro-irrigation (drip/sprinkler) is still a **small** slice of irrigated area.
+- It cuts nutrient loss and can slow groundwater decline in places — it is **not** the only dryland irrigation method.
+- PMKSY (**1 Jul 2015**) carries the “more crop per drop” scheme tag.
+- **Protective / life-saving irrigation** means watering at **permanent wilting point (PWP)**.
+- The peninsula classic is **tanks and ponds** on hard rock with seasonal rivers.
+- Sir **Arthur Cotton** is the pioneer of irrigation works in South India.
+- **Uttar Pradesh** leads absolute tubewell / well irrigated area and replenishable groundwater among major states (about **40.7 bcm** for irrigation).
+- UP net irrigated share (**2018–19**): tubewell about **74.6%**, canal about **15.2%**, other wells about **8.8%**, tanks about **0.6%**.
+- Spectacular tubewell growth is noted on the **Saryupar** plain, where canals are scarce.
 
 | Type | Best terrain | Risk / note |
 |------|--------------|-------------|
@@ -579,43 +657,53 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 
 **CADWM pack:** field channels, land levelling, **warabandi** (roster turns), drainage, farmer organisations, suitable cropping patterns.
 
-- Over-irrigation without drainage → saline / alkaline usar. IGC is the desert example.
+- Over-irrigation without drainage produces saline or alkaline usar.
+- The Indira Gandhi Canal is the desert example.
 - Zero / reduced tillage, gypsum before irrigation, and leaving crop residue on the field all help **water conservation** in agriculture.
-- Full canal–project map (Gang, IGC, Upper/Lower Ganga, Sharda, Farakka, Hariyali, IWMP) lives in **Lakes & Water Resources**.
+- The full canal–project map (Gang, IGC, Upper/Lower Ganga, Sharda, Farakka, Hariyali, IWMP) is covered under Lakes and Water Resources.
 
 ---
 
 ## N.7 Seeds, ICAR, Universities, Pests & Practices
 
-- **ICAR** (HQ **New Delhi**) = apex research + agri education.
-- **IARI Pusa** = flagship institute.
+- **ICAR** (HQ **New Delhi**) is the apex research and agri-education body.
+- **IARI Pusa** is the flagship institute.
 - **CACP** sets price advice — never swap with ICAR.
-- Seed purity downhill: **Breeder → Foundation → Certified**.
-- Tag colours: Breeder **golden yellow**; Foundation **white**; Certified **blue**.
-- **KVK** = district farm-science centre.
+- Seed purity runs downhill from **Breeder** to **Foundation** to **Certified**.
+- Tag colours are Breeder **golden yellow**, Foundation **white**, and Certified **blue**.
+- A **KVK** is the district farm-science centre.
 - India’s **first agricultural university** is **G.B. Pant University of Agriculture and Technology, Pantnagar** (opened as Uttar Pradesh Agricultural University; inaugurated by **Jawaharlal Nehru** on **17 November 1960**).
-- Other GR-era SAUs: **PAU Ludhiana, HAU Hisar**; UP: CSAUAT Kanpur / SVPUAT Meerut.
+- Other Green Revolution–era SAUs include **PAU Ludhiana** and **HAU Hisar**.
+- UP SAUs include CSAUAT Kanpur and SVPUAT Meerut.
 - **‘History of Indian Agriculture’** is by **M.S. Randhawa** (Mohinder Singh Randhawa) — not Swaminathan.
 - FAO rule: for safe grain storage, moisture should not exceed about **14%**.
-- **Agmark** = quality certification under the **Agricultural Produce (Grading and Marking) Act, 1937**.
-- **Seed Village Concept** = trained farmer groups produce quality seed for self-use and neighbours at the right time and affordable cost (not “ban buying seed” and not “only certified-seed villages”).
-- Seed Replacement Rate constraint: demand–supply gap for quality seed in **low-value, high-volume** crops. India **does** have a National Seeds Policy (**2002**). Private firms are active in high-value vegetable / horti seed.
-- **Zero Till Seed-cum-Fertilizer Drill** was developed at **G.B. Pant University, Pantnagar**.
-- **Borlaug Award** = agricultural science (named after Norman Borlaug; from **1972**).
+- **Agmark** is quality certification under the **Agricultural Produce (Grading and Marking) Act, 1937**.
+- The **Seed Village Concept** trains farmer groups to produce quality seed for self-use and neighbours at the right time and affordable cost (not “ban buying seed” and not “only certified-seed villages”).
+- Seed Replacement Rate is constrained by a demand–supply gap for quality seed in **low-value, high-volume** crops.
+- India **does** have a National Seeds Policy (**2002**).
+- Private firms are active in high-value vegetable and horti seed.
+- The **Zero Till Seed-cum-Fertilizer Drill** was developed at **G.B. Pant University, Pantnagar**.
+- The **Borlaug Award** honours agricultural science (named after Norman Borlaug; from **1972**).
 
 ### Green manure, nutrients, fertigation
 
-- Green manure: grow plants such as **sunhemp / sanai, dhaincha, guar, lobia (cowpea)** and plough them in before the main crop.
-- Nitrogen % often taught: cowpea about **0.49%** (highest among common options), sunhemp **0.43%**, dhaincha **0.42%**, guar **0.34%**. Sunhemp often returns the **maximum kg N/ha**.
+- Green manure means growing plants such as **sunhemp / sanai, dhaincha, guar and lobia (cowpea)** and ploughing them in before the main crop.
+- Nitrogen % often taught: cowpea about **0.49%** (highest among common options), sunhemp **0.43%**, dhaincha **0.42%**, guar **0.34%**.
+- Sunhemp often returns the **maximum kg N/ha**.
 - **Lobia** is preferred green manure on newly improved **arid** land.
 - Balanced fertilisers raise production, improve grain quality, and maintain soil productivity.
-- Fertiliser **intensity (kg/ha)** leaders: **Punjab / Haryana** (Puducherry often highest among UTs). Fertiliser **total tonnage** leader: **Uttar Pradesh**.
-- **Fertigation** = fertiliser dissolved in irrigation water (usually drip). It can raise nutrient availability and cut leaching. **Rock phosphate / superphosphate** is a poor fertigation choice (precipitation). Controlling irrigation-water alkalinity is a taught advantage.
-- **Permaculture** discourages monoculture, stresses mulching, and resists salinity buildup better than chemical monoculture. It **is** workable in semi-arid settings — the false IAS statement is that it is “not easily possible” there.
+- Fertiliser **intensity (kg/ha)** leaders are **Punjab and Haryana** (Puducherry often highest among UTs).
+- Fertiliser **total tonnage** leader is **Uttar Pradesh**.
+- **Fertigation** dissolves fertiliser in irrigation water (usually drip).
+- It can raise nutrient availability and cut leaching.
+- **Rock phosphate / superphosphate** is a poor fertigation choice because of precipitation.
+- Controlling irrigation-water alkalinity is a taught advantage.
+- **Permaculture** discourages monoculture, stresses mulching, and resists salinity buildup better than chemical monoculture.
+- It **is** workable in semi-arid settings — the false IAS statement is that it is “not easily possible” there.
 - **Zero tillage** allows wheat sowing without burning previous residue, supports direct-seeded rice logic, and aids carbon sequestration.
-- **Conservation agriculture** core: minimum / zero tillage, residue mulch on the soil, and crop rotation / sequencing — **not** “ban plantation crops.”
-- Eco-friendly practice set in IAS questions: crop diversification, legume intensification, **tensiometer** use, and **vertical farming**.
-- **Green agriculture** (UPPCS wording) = integrated pest management + integrated nutrient supply + integrated natural resource management.
+- **Conservation agriculture** core practices are minimum / zero tillage, residue mulch on the soil, and crop rotation / sequencing — **not** “ban plantation crops.”
+- Eco-friendly practice sets in IAS questions include crop diversification, legume intensification, **tensiometer** use, and **vertical farming**.
+- **Green agriculture** (UPPCS wording) means integrated pest management plus integrated nutrient supply plus integrated natural resource management.
 
 ### Schemes (practice)
 
@@ -628,11 +716,13 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 | e-NAM / national agri market push | Better price discovery |
 | NFSM | Rice, wheat, pulses (later oilseeds / millets) productivity |
 
-- **IPM** = cultural + biological + chemical — not calendar spray alone.
+- **IPM** combines cultural, biological and chemical tools — not calendar spray alone.
 - Bt cotton targets bollworm.
-- Azolla = biofertiliser, not insecticide.
-- 2025 Delhi **bio-decomposer**: free to farmers; fungal mix turns stubble to manure (2025 Q10 **both**).
-- Herbicide: **Butachlor** (vs chlorpyrifos / quinalphos as insecticides; carbendazim as fungicide). First widely used herbicide often tagged **2,4-D**.
+- Azolla is a biofertiliser, not an insecticide.
+- The 2025 Delhi **bio-decomposer** was free to farmers.
+- The fungal mix turns stubble to manure (2025 Q10 **both**).
+- **Butachlor** is a herbicide (versus chlorpyrifos / quinalphos as insecticides and carbendazim as a fungicide).
+- The first widely used herbicide is often tagged **2,4-D**.
 
 | Disease / problem | Cause |
 |-------------------|------------------|
@@ -650,16 +740,23 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 
 ## N.8 Animal Husbandry
 
-- India = world’s largest **milk** producer by volume (about one-fourth of world milk in recent FAOSTAT figures).
+- India is the world’s largest **milk** producer by volume (about one-fourth of world milk in recent FAOSTAT figures).
 - Buffalo are important in the north (higher fat).
-- **White Revolution:Verghese Kurien**, **Operation Flood**, **NDDB**, **Amul / Anand** cooperatives.
-- Textbook phases: **I 1970–81** (milk grids / coops) → **II 1981–85** (expand dairies) → **III 1985–96** (consolidate). White Revolution launch often tagged **July 1970**.
-- **Indian Dairy Corporation** was set up at **Anand (Gujarat)** in **1970**. **NDDB** was established in **1965**. **NDRI** is at **Karnal** (Deemed University from 1989).
-- **Silver Revolution** = eggs / poultry.
-- **Blue Revolution** = fisheries / aquaculture (**Hiralal Chaudhuri** often tagged). Recent inland + marine fish leadership often with **Andhra Pradesh**.
-- Milch vs drought cattle: milch cows give more milk but weaker draft (Gir, Sahiwal, Red Sindhi, Tharparkar). Drought breeds work better as draft (Nagauri, Hallikar, Kangayam, Khillari).
-- **Tharparkar** is a Rajasthan border-region cattle breed. **Hallikar** is Karnataka — not a Rajasthan breed.
-- Goat is the “poor man’s cow.” **Jamunapari** is India’s classic high-milk goat.
+- The **White Revolution** is linked to **Verghese Kurien**, **Operation Flood**, **NDDB**, and **Amul / Anand** cooperatives.
+- Textbook phases run **I 1970–81** (milk grids / coops), then **II 1981–85** (expand dairies), then **III 1985–96** (consolidate).
+- White Revolution launch is often tagged **July 1970**.
+- The **Indian Dairy Corporation** was set up at **Anand (Gujarat)** in **1970**.
+- **NDDB** was established in **1965**.
+- **NDRI** is at **Karnal** (Deemed University from 1989).
+- The **Silver Revolution** covers eggs and poultry.
+- The **Blue Revolution** covers fisheries and aquaculture (**Hiralal Chaudhuri** often tagged).
+- Recent inland plus marine fish leadership often sits with **Andhra Pradesh**.
+- Milch cows give more milk but weaker draft (Gir, Sahiwal, Red Sindhi, Tharparkar).
+- Drought breeds work better as draft (Nagauri, Hallikar, Kangayam, Khillari).
+- **Tharparkar** is a Rajasthan border-region cattle breed.
+- **Hallikar** is Karnataka — not a Rajasthan breed.
+- Goat is the “poor man’s cow.”
+- **Jamunapari** is India’s classic high-milk goat.
 
 | Breed | Animal | Tag |
 |-------|--------|-----|
@@ -750,7 +847,7 @@ It does **not** mean “stop irrigation” or abandon mechanisation.
 - **NFSM** pushes rice, wheat, pulses, millets and oilseeds.
 - **NMSA** targets climate-smart farming and soil–water care.
 - Budget **2021–22** placed an Agriculture Infrastructure and Development Cess (AIDC) on **29** products.
-- Older paddy MSP figures such as **₹1,750/q** (2018) are year-specific. Keep the CACP → Cabinet process, not the old rupee number.
+- Older paddy MSP figures such as **₹1,750/q** (2018) are year-specific. Keep the CACP-recommend / Cabinet-decide process, not the old rupee number.
 - Fertiliser, power and irrigation support count as **indirect** subsidy.
 
 **PYQ — UPPCS Prelims 2024, Q43**
@@ -778,18 +875,25 @@ D. Ministry of Finance
 
 **Green Revolution** (mid-1960s): **HYV + irrigation + fertiliser** (+ pesticide, credit, machines).
 
-- Heartland: **Punjab, Haryana, western UP**.
-- Started as a **wheat** revolution, then expanded to rice. Some notes also tag maize, soybean and cane yield jumps.
-- Classic HYVs: Mexican wheat **Lerma Rojo / Sonora 64** from **CIMMYT**; rice **IR-8** (IRRI). Rockefeller Foundation support is a taught funding tag.
-- Phasing often taught: first stage about **1966–1981**, second **1981–1995**, third from **1995** outward.
-- Gains: yield surge, surplus, exit from PL-480 dependence. Wheat gained most in production and productivity; rice next.
-- Costs: regional inequality, **groundwater** crash, nutrient mining, millet / pulse neglect, rice–wheat **monoculture**, stubble burning. Social and environmental costs are real — do not treat “no cost” as true.
-- Dry-zone A/R: dry India is agrarian (**A true**); it has second-GR potential with irrigation (**R true**) but R does **not** explain A → **B**.
-- Second Green Revolution aims: extend seed–water–fertiliser to left-out areas and integrate crops with animal husbandry, social forestry and fishing — not only more wheat–rice in already-benefited belts.
-- **BGREI** (Bringing Green Revolution to Eastern India) sits under RKVY. It targets **rice-based** systems in the east and unused water, not a second Punjab in the desert.
-- **Evergreen Revolution** (Swaminathan) = high productivity **without** ecological harm. Steps taught: biofertiliser/compost with chemicals, rainwater harvesting, agri-economic zones and contract farming.
+- The Green Revolution heartland is **Punjab, Haryana and western UP**.
+- It started as a **wheat** revolution, then expanded to rice. Some notes also tag maize, soybean and cane yield jumps.
+- Classic HYVs include Mexican wheat **Lerma Rojo** and **Sonora 64** from **CIMMYT**, and rice **IR-8** from IRRI.
+- Rockefeller Foundation support is a taught funding tag.
+- Phasing is often taught as first stage about **1966–1981**, second **1981–1995**, and third from **1995** outward.
+- Gains included a yield surge, surplus, and exit from PL-480 dependence.
+- Wheat gained most in production and productivity; rice came next.
+- Costs included regional inequality, a **groundwater** crash, nutrient mining, millet and pulse neglect, rice–wheat **monoculture**, and stubble burning.
+- Social and environmental costs are real — do not treat “no cost” as true.
+- Dry-zone A/R: dry India is agrarian (**A true**).
+- It has second Green Revolution potential with irrigation (**R true**).
+- But R does **not** explain A, so the code is **B**.
+- Second Green Revolution aims to extend seed–water–fertiliser to left-out areas and integrate crops with animal husbandry, social forestry and fishing — not only more wheat–rice in already-benefited belts.
+- **BGREI** (Bringing Green Revolution to Eastern India) sits under RKVY.
+- It targets **rice-based** systems in the east and unused water, not a second Punjab in the desert.
+- **Evergreen Revolution** (Swaminathan) means high productivity **without** ecological harm.
+- Steps taught include biofertiliser/compost with chemicals, rainwater harvesting, agri-economic zones and contract farming.
 - **Rainbow Revolution** entered the **National Agricultural Policy (28 July 2000)** as an integrated colour-revolution package.
-- National Zero Till Seed-cum-Fertilizer Drill → Pantnagar (links GR residue management to zero tillage).
+- The National Zero Till Seed-cum-Fertilizer Drill from Pantnagar links Green Revolution residue management to zero tillage.
 
 | Person | Role |
 |--------|------|

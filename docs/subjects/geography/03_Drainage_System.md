@@ -30,7 +30,7 @@
 | Ongoing | Polavaram includes Godavari–Krishna (Vijayawada) link assistance | Peninsular grid | PIB |
 | 2016 | National Waterways Act — 106 NWs; core still NW-1 to NW-5 | Number vs names | Act |
 
-Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
+Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin facts.
 
 ---
 
@@ -132,7 +132,7 @@ Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
 |------|---------|------------|
 | **Consequent** | Follows the original slope of the land | Godavari, Krishna, Kaveri from Western Ghats |
 | **Subsequent** | Grows later along a weak belt; often joins at right angles | Chambal, Sind, Betwa, Ken, Tons, Son to Yamuna/Ganga |
-| **Antecedent** | Older than uplift; keeps course by cutting a gorge through rising land | **Indus, Sutlej, Brahmaputra** (classic set); many PCS keys also tag **Ganga** |
+| **Antecedent** | Older than uplift; keeps course by cutting a gorge through rising land | Classic set: **Indus, Sutlej, Brahmaputra**; many PCS keys also tag **Ganga** |
 | **Superimposed** | Older course inherited onto newer structure; does not follow present slope | **Chambal** (also Son in some notes) |
 | **Concordant** | Follows structure and slope | Most peninsular rivers |
 | **Discordant** | Cuts across structure | Himalayan antecedent rivers |
@@ -150,7 +150,7 @@ Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
 
 - The peninsula’s water divide is the **Western Ghats**. **Amarkantak** is a **radial** node: Narmada goes west, Son goes to the Ganga.
 
-> ** note:** 2022 Q16 — among Tapi / Narmada / Mahanadi / Cauvery, largest basin = **Mahanadi**. 2025 Q94: Himalayan snow → perennial rivers (both true, R explains A). Trans-Himalayan ≠ every Himalayan river.
+> **Note:** 2022 Q16 — among Tapi / Narmada / Mahanadi / Cauvery, the largest basin is **Mahanadi**. 2025 Q94: Himalayan snow feeds perennial rivers (both A and R true, and R explains A). Trans-Himalayan is **not** every Himalayan river.
 
 ---
 
@@ -168,10 +168,10 @@ Namami Gange / GAP = Ganga cleaning programmes (not a river-origin fact).
 - The **Ravi** rises in the Kullu hills near **Rohtang**. It drains between Pir Panjal and Dhauladhar. **Ranjit Sagar** is on the Ravi. **Pandoh is not** on the Ravi.
 - The **Beas** rises near **Rohtang**. **Pandoh Dam** is on the Beas. Beas meets Sutlej near **Harike**.
 - The **Sutlej** rises at **Rakas Tal**, Tibet. It is both **Trans-Himalayan** and **antecedent**. It enters Himachal near **Shipki La** and cuts deep gorges across the Himalayan ranges. **Bhakra–Nangal** stands on the Sutlej. Among Jhelum / Sutlej / Ganga / Ravi, the Trans-Himalayan answer is **Sutlej**.
-- join order toward the Indus: Jhelum and Ravi join **Chenab**; Chenab meets **Sutlej**; Sutlej then joins **Indus**.
+- Join order toward the Indus: the **Jhelum** and **Ravi** join the **Chenab**. The Chenab then meets the **Sutlej**. The Sutlej finally joins the **Indus**.
 - **Indus Waters Treaty (1960):** India uses **Ravi, Beas, Sutlej**. Pakistan uses **Indus, Jhelum, Chenab**.
 
-> ** note:** 2025 Q92 NOT matched: **Pandoh–Ravi** and **Srisailam–Tungabhadra**. Trans-Himalayan fact = Sutlej among usual Himalayan options.
+> **Note:** 2025 Q92 NOT matched pairs are **Pandoh–Ravi** and **Srisailam–Tungabhadra**. Among usual Himalayan options, the Trans-Himalayan river is the **Sutlej**.
 
 **PYQ — UPPCS Prelims 2025, Q92**
 
@@ -245,16 +245,16 @@ D. Only 1
 | **Betwa** | Right | **Hamirpur** — **not** Prayagraj |
 | **Ken** | Right | Near **Banda** |
 
-- Yamuna **right-bank** sequence, west → east: **Chambal → Sind → Betwa → Ken**.
+- Yamuna **right-bank** feeders from west to east are **Chambal**, then **Sind**, then **Betwa**, then **Ken**.
 - The **Chambal** rises near **Mhow / Dr Ambedkar Nagar** on the Malwa Plateau (Janapao / Vindhya class). It is famous for **Chambal Ravines** (badlands), not the Damodar fault-valley tag.
 - The **Betwa** rises in the Vindhya. The **Ken** joins near Banda.
 - Paper numbering 1 Betwa, 2 Ken, 3 Sindh, 4 Chambal gives code **4, 3, 1, 2**.
 
-> ** note:** 2023 Q55 — Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh.
+> **Note:** 2023 Q55 — Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. The **Padma** is the Ganga in Bangladesh. The **Jamuna** is the Brahmaputra in Bangladesh.
 
 ### Panch Prayag and Uttarakhand
 
-- Upstream to downstream on the Alaknanda: **Vishnuprayag → Nandaprayag → Karnaprayag → Rudraprayag → Devprayag**.
+- Upstream to downstream on the Alaknanda the order is **Vishnuprayag**, then **Nandaprayag**, then **Karnaprayag**, then **Rudraprayag**, then **Devprayag**.
 
 | Prayag | Confluence |
 |--------|------------|
@@ -386,7 +386,7 @@ D. Kabini *(paper: Kabam in some OCR)*
 - The **Narmada** is the **longest west-flowing** peninsular river (about **1312 km**). It rises at **Amarkantak** (Maikal) and uses the **rift** between Vindhya (north) and Satpura (south).
 - It falls as **Dhuandhar** at the **Marble Rocks** near Jabalpur. It reaches the **Gulf of Khambhat**. **Aliabet** is the large estuary island.
 - Right-bank tributaries are few. **Hiran** is the usual named right-bank stream. **Tawa** is a major left-bank tributary (joins near the Narmadapuram / Hoshangabad belt).
-- Major dams on the Narmada, roughly upstream → downstream:
+- Major dams on the Narmada, roughly upstream to downstream:
 - **Bargi** is in Madhya Pradesh near Jabalpur. It is an upper Narmada multipurpose dam.
 - **Indira Sagar** is in Madhya Pradesh (Khandwa / Punasa belt). It is among the largest reservoirs on the Narmada chain.
 - **Omkareshwar** is also in Madhya Pradesh, downstream of Indira Sagar, near the Omkareshwar Jyotirlinga belt.
@@ -495,7 +495,7 @@ The **Ken** rises in Madhya Pradesh and meets the Yamuna near **Banda**.
 
 **Ken–Betwa** is the river-link under implementation for Bundelkhand water.
 
-West → east order of major Yamuna right-bank feeders in the UP story is **Chambal → Sind → Betwa → Ken**.
+From west to east, the major Yamuna right-bank feeders in the UP story are **Chambal**, then **Sind**, then **Betwa**, then **Ken**.
 
 The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 

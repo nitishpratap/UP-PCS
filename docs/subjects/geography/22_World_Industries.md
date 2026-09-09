@@ -111,8 +111,8 @@ Learn **name · place · warm/cold or dusty**, not essays.
 
 **Order of this chapter**
 
-1. Location factors → industrial regions → city–industry pairs.
-2. Ports → canals / trade routes.
+1. Location factors, then industrial regions, then city–industry pairs.
+2. Ports, then canals / trade routes.
 3. World local winds.
 
 Teach the **full map**. Next year can ask any Lucent city, port, or wind, not only Osaka or Chinook.
@@ -121,16 +121,16 @@ Teach the **full map**. Next year can ask any Lucent city, port, or wind, not on
 
 ## N.1 Industrial location factors
 
-**Footloose** industries (software, chips, diamond cutting) are not tied to bulky raw materials. Japan steel is largely **market / port-based** (imported ore + coal). Osaka = Manchester of the East (cotton). Aberdeen = oil capital of Europe.
+**Footloose** industries (software, chips, diamond cutting) are not tied to bulky raw materials. Japan’s steel is largely **market / port-based** because ore and coal are imported. **Osaka** is called the Manchester of the East for cotton. **Aberdeen** is the oil capital of Europe.
 
 **Least-cost idea**
 
 - Factory sits where assembly + processing + distribution cost is lowest.
-- **Weight-losing** raw material (iron ore, sugarcane, timber) → mill **near the source**.
-- **Weight-gaining** (bottling, brewing) → near the **market**.
+- **Weight-losing** raw material (iron ore, sugarcane, timber) pulls the mill **near the source**.
+- **Weight-gaining** industries (bottling, brewing) sit near the **market**.
 - **Ubiquitous** inputs (air, water) do not pull the plant; **localised** minerals do.
 
-**Factor → industry**
+**Factor and industry**
 
 | Factor | Industry |
 |--------|----------|
@@ -167,8 +167,8 @@ Teach the **full map**. Next year can ask any Lucent city, port, or wind, not on
 
 **Entrepôt**
 
-- Import → store / sort → re-export.
-- **Singapore**, Rotterdam, Hong Kong.
+- Import goods, store or sort them, then re-export.
+- **Singapore**, Rotterdam and Hong Kong are classic entrepôts.
 
 ---
 
@@ -262,7 +262,7 @@ Teach the **full map**. Next year can ask any Lucent city, port, or wind, not on
 | Pittsburgh of Japan | **Kawasaki** | Steel / heavy |
 | Russian Manchester | **Ivanovo** | Cotton textiles |
 
-Modern shipbuilding volume names = **China, South Korea, Japan** (Busan, Chinese yards, Japanese coasts).
+Modern shipbuilding volume names are **China, South Korea and Japan** (Busan, Chinese yards, Japanese coasts).
 
 **More city–industry pairs**
 
@@ -332,10 +332,10 @@ D. A-3, B-4, C-1, D-2
 
 **Ideas the paper uses**
 
-- **Hinterland** = land area a port serves.
-- Natural harbour = deep sheltered bay (Mumbai, Sydney, San Francisco).
-- Artificial harbour = breakwaters (Chennai).
-- **Outport** = deep-water gate for a river city.
+- A **hinterland** is the land area a port serves.
+- A natural harbour is a deep sheltered bay (Mumbai, Sydney, San Francisco).
+- An artificial harbour uses breakwaters (Chennai).
+- An **outport** is a deep-water gate for a river city.
 
 **Types**
 
@@ -435,16 +435,16 @@ D. Jakarta — Indonesia
 
 **Suez Canal (opened 1869)**
 
-- Sea-level cut; **no facts**.
-- Length about **160–190 km** (textbook band).
-- Links **Mediterranean Sea** and **Red Sea**.
-- Does **not** itself touch the Atlantic or the open Indian Ocean.
-- 2025 water bodies = **Red Sea + Mediterranean** (2 and 3).
-- India–Europe sea distance shorter by about **7,000 km** (2018).
-- Towns: **Port Said** (north), Ismailia (middle), **Suez** (south).
-- Avoids the **Cape of Good Hope**.
+- It is a **sea-level** cut (unlike Panama’s gated lift chambers).
+- Length is about **160–190 km** (textbook band).
+- It links the **Mediterranean Sea** and the **Red Sea**.
+- It does **not** itself touch the Atlantic or the open Indian Ocean.
+- The 2025 water-body pair is the **Red Sea** and the **Mediterranean**.
+- India–Europe sea distance is shorter by about **7,000 km** (2018).
+- Canal towns are **Port Said** (north), Ismailia (middle) and **Suez** (south).
+- The route avoids the **Cape of Good Hope**.
 
-**Lakes north → south (2019)**
+**Lakes from north to south (2019)**
 
 1. **Lake Manzala** — near Port Said / Mediterranean
 2. **Lake Timsah** — Ismailia
@@ -453,11 +453,11 @@ D. Jakarta — Indonesia
 
 **Panama Canal (opened 1914)**
 
-- Links **Caribbean / Atlantic** and **Pacific**.
-- Uses **facts** and **Gatun Lake**.
-- Towns: Colón (Atlantic), Panama City (Pacific).
-- Avoids **Cape Horn**.
-- Not Med–Red (that is Suez).
+- It links the **Caribbean / Atlantic** and the **Pacific**.
+- It uses gated lift chambers and **Gatun Lake**.
+- Canal towns are Colón (Atlantic) and Panama City (Pacific).
+- The route avoids **Cape Horn**.
+- It is not the Med–Red link (that is Suez).
 
 **Other canals / seaways**
 
@@ -489,8 +489,8 @@ D. Jakarta — Indonesia
 
 **Cape vs canal**
 
-- Suez / Panama = shorter; draft and politics can block them.
-- Cape routes = longer, still used for oversized tankers or when a canal is closed.
+- Suez / Panama is shorter; draft and politics can block them.
+- Cape routes is longer, still used for oversized tankers or when a canal is closed.
 
 **Land trade names**
 
@@ -1421,7 +1421,7 @@ D. Kanto Plains — Japan
 
 ---
 
-**Q-GC14. UPPCS Re-Exam 2015**
+**Q-GC14. UPPCS Re Prelims 2015**
 
 Which one is not correctly matched?
 

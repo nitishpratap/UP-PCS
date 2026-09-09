@@ -10,7 +10,7 @@ Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds |
 </details>
 
 > **Sources baked in:** Lucent world-agriculture match-lists; NCERT Class 12 (primary activities); coaching crop-belt map; **Ghatnachakra** Agriculture & Livestock (CB–208+); UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — plantation vs grain, coffee 2016 Brazil–Vietnam, cocoa West Africa, Kerala rubber, shifting names, citrus = Mediterranean; teach full systems map
+> **Weight:** ★★★ — plantation vs grain, coffee 2016 Brazil–Vietnam, cocoa West Africa, Kerala rubber, shifting names, citrus belt Mediterranean; teach full systems map
 > **Last verified:** August 2026 — coaching gap-pass (Von Thünen, producer≠exporter, soybean, milk)
 > **Current Affairs:** none mandatory (producer ranks freeze to the PYQ year when the paper quotes a year)
 
@@ -110,8 +110,8 @@ Here keep only world centres that sneak into papers, such as Kerala rubber, Assa
 **Order of this chapter**
 
 1. Systems + Whittlesey (+ Von Thünen).
-2. Cereals → fibres / sugar / oilseeds.
-3. Plantation crops (tea, coffee, cocoa, rubber) + livestock + shifting + FAO/GR.
+2. Cereals, then fibres / sugar / oilseeds.
+3. Plantation crops (tea, coffee, cocoa, rubber), then livestock, shifting cultivation, and FAO / Green Revolution.
 
 Teach the **full systems map**. Next year can ask any Lucent crop belt, not only tea or coffee.
 
@@ -119,7 +119,7 @@ Teach the **full systems map**. Next year can ask any Lucent crop belt, not only
 
 ## N.1 Agriculture (world systems)
 
-Agriculture = primary activity that raises crops and/or animals. first splits **subsistence vs commercial**, then **intensive vs extensive**, then the **named systems**.
+Agriculture is the primary activity that raises crops and/or animals. Teaching first splits **subsistence versus commercial**, then **intensive versus extensive**, then the **named systems**.
 
 | Split | Meaning | picture |
 |-------|---------|--------------|
@@ -146,14 +146,14 @@ Agriculture = primary activity that raises crops and/or animals. first splits **
 | System | Climate / where | What is grown / raised | Note |
 |--------|-----------------|------------------------|------------|
 | **Mixed farming** | W Europe, US Midwest | Crops **+** livestock on the **same** farm | Fodder rotation; manure; not “only wheat” |
-| **Dairy farming** | NW Europe, Great Lakes, NZ, Denmark, Netherlands | Milk, butter, cheese | Mild climate + fodder + urban market; NZ = grass-export dairy |
-| **Mediterranean** | 30–45° **west coasts** (five patches) | **Citrus, vine, olive**, winter wheat, vegetables | Winter rain + dry bright summer (2020 citrus = **C**) |
+| **Dairy farming** | NW Europe, Great Lakes, NZ, Denmark, Netherlands | Milk, butter, cheese | Mild climate + fodder + urban market; New Zealand is classic grass-export dairy |
+| **Mediterranean** | 30–45° **west coasts** (five patches) | **Citrus, vine, olive**, winter wheat, vegetables | Winter rain + dry bright summer (2020 citrus answer **C**) |
 | **Livestock ranching** | Pampas, W USA Prairie, Australian Downs, S African Veld | Cattle / sheep, **commercial** | Not nomadic herding (that is subsistence) |
 | **Nomadic herding** | Sahara–Arabia–C Asia–tundra | Camel, sheep, yak, reindeer | Moves with pasture; low density |
 | **Truck / market gardening** | Urban fringes | Vegetables, fruit, flowers | High value, perishable, near city |
-| **Horticulture** | Med + hill + greenhouse | Fruit, veg, flowers | Viticulture = **grape / wine** |
-| **Plantation** | Humid tropics | Tea, coffee, cocoa, rubber, cane, oil palm, banana, coconut, spices | **N.5** |
-| **Shifting / slash-and-burn** | Humid tropics | Millets, maize, cassava, upland rice | **N.12** |
+| **Horticulture** | Med + hill + greenhouse | Fruit, veg, flowers | Viticulture means **grape / wine** |
+| **Plantation** | Humid tropics | Tea, coffee, cocoa, rubber, cane, oil palm, banana, coconut, spices | Humid-tropic estate monoculture |
+| **Shifting / slash-and-burn** | Humid tropics | Millets, maize, cassava, upland rice | See shifting-cultivation card below |
 | **Collective / cooperative** | Former USSR kolkhoz; Israel kibbutz; Denmark dairy co-ops | Shared marketing / land | Secondary example |
 
 **Viticulture / sericulture / pisciculture / apiculture** (definition MCQs)
@@ -166,7 +166,7 @@ Agriculture = primary activity that raises crops and/or animals. first splits **
 | **Apiculture** | Bees / honey |
 | **Floriculture** | Flowers (Netherlands auction) |
 
-Plantation MCQ fact = **Tea** (not wheat / rice / maize). World citrus belt = **Mediterranean**, not equatorial and not Kangra / Pir Panjal as the *world* answer.
+The plantation crop fact is **Tea** (not wheat, rice or maize). The world citrus belt is **Mediterranean**, not equatorial and not Kangra / Pir Panjal as the *world* answer.
 
 **Inline PYQ — UPPCS Prelims 2024, Q34**
 
@@ -245,7 +245,12 @@ Derwent **Whittlesey (1936)** — standard 13-type world map. Learn **region + c
 **Von Thünen model**
 
 - Ideal isolated state: one market town, flat plain, uniform soil, farmers maximise rent.
-- **Rings from the city outward (classic teaching order):** intensive dairy / vegetables / flowers → **forestry** (bulky wood) → intensive field crops → extensive **grain** → **livestock ranching** on the outer margin.
+- **Rings from the city outward (classic teaching order):**
+  - Intensive dairy, vegetables and flowers sit nearest the city.
+  - **Forestry** comes next because wood is bulky.
+  - Intensive field crops follow.
+  - Extensive **grain** comes after that.
+  - **Livestock ranching** sits on the outer margin.
 - Distance cost decides the crop — not Whittlesey’s climate-region names.
 - Real world breaks the rings (climate, relief, government, refrigerated transport), but the **logic** still appears in Prelims theory stems.
 
@@ -257,11 +262,11 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 
 ### Rice
 
-- Hot + wet. Temp about **20–27°C**. Rain **~100–200 cm** or irrigation. **Clayey alluvial** that puddles. Standing water typical.
+Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is about **100–200 cm**, or irrigation. **Clayey alluvial** soil that puddles is typical, with standing water.
 - World’s main **calorie crop** for the largest number of people.
-- Types: **Indica** (S/SE Asia, long grain) · **Japonica** (Japan, Korea, N China — stickier) · **Javanica** (Indonesia).
-- **IRRI** (International Rice Research Institute) = **Los Baños, Philippines** — HYV rice of the Green Revolution.
-- **Golden rice** = genetically enriched with **Vitamin A** (2018 pair was correctly matched).
+- Types include **Indica** (South / South-East Asia, long grain), **Japonica** (Japan, Korea, North China — stickier), and **Javanica** (Indonesia).
+- The **IRRI** (International Rice Research Institute) sits at **Los Baños, Philippines**. It drove HYV rice of the Green Revolution.
+- **Golden rice** is genetically enriched with **Vitamin A** (2018 pair was correctly matched).
 
 | | Usual key fact |
 |--|-----------------|
@@ -272,9 +277,9 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 ### Wheat
 
 - Cool growing season (**~10–15°C**), bright ripening (**~20–25°C**). Rain **~50–75 cm**. Well-drained loam. Frost at ripening spoils grain.
-- **Winter wheat** = sown autumn, survives mild winter (USA south, Europe, N India rabi).
-- **Spring wheat** = sown spring in **harsh-winter** belts (Canadian Prairie, Siberia).
-- **Durum** = hard wheat for **pasta** (Mediterranean).
+- **Winter wheat** is sown autumn, survives mild winter (USA south, Europe, N India rabi).
+- **Spring wheat** is sown spring in **harsh-winter** belts (Canadian Prairie, Siberia).
+- **Durum** is hard wheat for **pasta** (Mediterranean).
 
 | | Usual key fact |
 |--|-----------------|
@@ -296,12 +301,12 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 ### Maize (corn)
 
 - Warm **~21–27°C**, rain **~50–100 cm**, **frost-free** growing season. Used as food, **feed**, and **ethanol**.
-- **US Corn Belt** = Iowa, Illinois, Indiana, Ohio + neighbours — mixed farming + livestock.
-- Usual volume: **USA > China > Brazil**. Argentina also a feed/export name.
+- The **US Corn Belt** covers Iowa, Illinois, Indiana, Ohio and neighbours — mixed farming with livestock.
+- Usual volume order is **USA > China > Brazil**. Argentina is also a feed/export name.
 
 ### Millets / coarse grains
 
-- Drought belts of **Africa + India** (sorghum, pearl millet, finger millet). Climate fact = **low rain**, not 200 cm tea slopes.
+- Drought belts of **Africa and India** grow sorghum, pearl millet and finger millet. The climate fact is **low rain**, not 200 cm tea slopes.
 
 ---
 
@@ -314,12 +319,12 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 - **Medium staple:** USA Upland.
 - **Short staple:India, Pakistan, China** (bulk).
 - Volume names: **China, India** (often **largest area**), **USA, Brazil, Pakistan**.
-- **Cotton Belt** = southern USA (historical tag).
+- The historical **Cotton Belt** tag is the southern USA.
 
 ### Jute (“golden fibre”)
 
 - Hot humid **~25–35°C**, rain **~150–200 cm**, Ganga–Brahmaputra **alluvium**.
-- World = **India + Bangladesh** (almost the whole crop). Not UP as a jute state (2022 trap).
+- World jute is almost entirely **India and Bangladesh**. Do not treat UP as a jute state (2022 trap).
 
 ### Sugarcane vs sugar beet
 
@@ -427,8 +432,8 @@ D. Spanish and Americans
 
 **Bush** *Camellia sinensis*. Wants **20–30°C**, **150–300 cm** well-distributed rain, **well-drained slopes** (water must **not** stagnate), **acidic** soil (about pH 4.5–5.5), cheap skilled **plucking**.
 
-- Pluck = **two leaves and a bud**.
-- Hill + monsoon + slope = tea. **Not** a desert crop. **Not** a zaid melon.
+- Pluck means **two leaves and a bud**.
+- Tea needs hill slopes, monsoon rain and drainage. It is **not** a desert crop. It is **not** a zaid melon.
 
 | Type | Processing | Where the puts it |
 |------|------------|------------------------|
@@ -446,13 +451,13 @@ D. Spanish and Americans
 | **Kenya** | Leading **African** name; often among top **exporters**; highland |
 | Indonesia, Vietnam, Bangladesh, Turkey | Also revise |
 
-**India vs world:** Assam = volume. Darjeeling = quality/GI. Kenya = export competitor. China = volume king.
+**India versus world:** Assam leads Indian volume. Darjeeling leads quality / GI. Kenya is an export competitor. China is the volume king.
 
 ---
 
 ## N.7 Coffee
 
-**Shrub** *Coffea*. Wants **15–28°C**, **150–250 cm**, **shade**, well-drained hill soil, **no frost**, no waterlogging. Fruit = **berry / cherry**. Wet (washed) vs dry processing.
+**Shrub** *Coffea*. It wants **15–28°C**, **150–250 cm** rain, **shade**, well-drained hill soil, **no frost** and no waterlogging. The fruit is a **berry / cherry**. Processing is wet (washed) or dry.
 
 | Type | Character | Where |
 |------|-----------|-------|
@@ -460,7 +465,7 @@ D. Spanish and Americans
 | **Robusta** (*C. canephora*) | Stronger, more caffeine, hardier, lower altitude | **Vietnam**, Uganda, lowland tropics |
 | **Liberica** | Secondary example | W Africa pockets |
 
-**2016 quantity (freeze this paper order):Brazil > Vietnam > Colombia > Indonesia**
+**2016 quantity (freeze this paper order):** Brazil > Vietnam > Colombia > Indonesia
 
 | Country | Note |
 |---------|------------|
@@ -471,7 +476,7 @@ D. Spanish and Americans
 | **Ethiopia** | **Origin** story of arabica — **not** the 2016 tonnage king |
 | **India** | Karnataka (**Kodagu, Chikmagalur, Hassan**) > Kerala (Wayanad) > Tamil Nadu (Nilgiri). Shade often **silver oak** |
 
-**Coffee rust** (*Hemileia vastatrix*) = famous plantation disease (Ceylon tea-shift story).
+**Coffee rust** (*Hemileia vastatrix*) is a famous plantation disease. The Ceylon tea-shift story is linked to this rust.
 
 **Inline PYQ — UPPCS Prelims 2018, Q28**
 
@@ -504,8 +509,8 @@ Trap **D** puts Colombia second. Trap **C** starts with Vietnam.
 
 **Tree** of the equatorial forest (*Theobroma cacao*). Hot, wet, **shade** of taller trees, **~150–200 cm+** rain, no long dry season. Pods grow on the **trunk** (cauliflory). Beans are **fermented** then dried.
 
-- **Origin = Amazon** (like rubber). **Production shifted to West Africa**.
-- Chocolate **manufacturing** (Switzerland, Belgium, Netherlands, USA) ≠ **growing**.
+- **Origin is the Amazon** (like rubber). **Production later shifted to West Africa**.
+- Chocolate **manufacturing** (Switzerland, Belgium, Netherlands, USA) is not the same as **growing**.
 
 | Country | Fact |
 |---------|------|
@@ -541,11 +546,11 @@ D. Ivory Coast
 
 ## N.9 Rubber
 
-**Tree** *Hevea brasiliensis* (Euphorbiaceae). Origin = **Amazon**. Wants **25–35°C**, **>200 cm** evenly spread, high humidity, **no frost**, laterite/alluvial, tapping labour.
+**Tree** *Hevea brasiliensis* (Euphorbiaceae). Origin is the **Amazon**. It wants **25–35°C**, **>200 cm** rain evenly spread, high humidity, **no frost**, laterite or alluvial soil, and tapping labour.
 
-- Latex from **tapping** the bark. Tree takes about **6–7 years** to come into tapping.
-- **Henry Wickham** took seeds from the Amazon to Kew, then to Ceylon / Malaya (1870s) → production belt **moved to South-East Asia**. Brazil is origin, **not** today’s tonnage king.
-- Natural rubber ≠ **neoprene** (synthetic — chemistry/industry fact).
+- Latex comes from **tapping** the bark. The tree takes about **6–7 years** to come into tapping.
+- **Henry Wickham** took seeds from the Amazon to Kew, then to Ceylon / Malaya (1870s). The production belt then **moved to South-East Asia**. Brazil is the origin, **not** today’s tonnage king.
+- Natural rubber is not the same as **neoprene** (synthetic — chemistry/industry fact).
 
 | Country | Fact |
 |---------|------|
@@ -557,7 +562,7 @@ D. Ivory Coast
 | **China** | Growing consumer-producer |
 | Brazil | Origin; wild/native story, not the estate king now |
 
-**Kinta Valley (Malaysia)** = **tin** mining, **not** rubber/tea/coffee. Rubber in Malaysia is the peninsula estate belt, not that valley name.
+**Kinta Valley (Malaysia)** is a **tin** mining name, **not** rubber, tea or coffee. Rubber in Malaysia sits in the peninsula estate belt, not that valley name.
 
 **Inline PYQ — UPPCS Prelims 2020, Q88**
 
@@ -605,8 +610,8 @@ Ranching is **commercial**. Nomadic herding is **subsistence**. Do not put both 
 |------|------|
 | **Cattle numbers** | **India** often #1 inventory; then Brazil, China, USA |
 | **Beef export** | Brazil, Australia, USA — **not** “India exports most beef because it has most cattle” as a blind fact |
-| **Dairy** | **India** = largest **milk** volume (domestic). **NZ**, Netherlands, Denmark = commercial **export** dairy. Do not treat India as the cheese-ship king |
-| **Sheep / wool** | **Australia** (Merino) + China + NZ. Wool ≠ cotton |
+| **Dairy** | **India** leads **milk** volume (domestic). **New Zealand**, the Netherlands and Denmark lead commercial **export** dairy. Do not treat India as the cheese-ship king |
+| **Sheep / wool** | **Australia** (Merino), plus China and New Zealand. Wool is not cotton |
 | **Pigs** | **China** |
 | **Ranching map** | Pampas cattle, Australian Downs sheep, Veld, W USA |
 | **Silk** | **China** volume; India second-story (mulberry + wild silks) |
@@ -615,11 +620,15 @@ Ranching is **commercial**. Nomadic herding is **subsistence**. Do not put both 
 
 ## N.12 Shifting cultivation
 
-Slash vegetation → **burn** → ash as fertiliser → crop **1–3 years** → **fallow** (forest returns) → move plot.
+Farmers slash vegetation, then **burn** it.
+Ash acts as fertiliser.
+They crop the plot for about **1–3 years**, then leave it **fallow** so forest returns, then move to a new plot.
 
-- Needs **low density** and **lots of land**. Short fallows → **erosion + forest loss**.
-- Crops: millets, maize, cassava, upland rice, vegetables — **not** estate tea.
-- **Not** plantation. **Not** intensive wet-rice of the Ganga plain.
+- It needs **low density** and **lots of land**.
+- Short fallows cause **erosion and forest loss**.
+- Crops include millets, maize, cassava, upland rice and vegetables — **not** estate tea.
+- It is **not** plantation agriculture.
+- It is **not** intensive wet-rice of the Ganga plain.
 
 **India names**
 
@@ -671,7 +680,7 @@ The **Green Revolution** is the mid-20th-century package of high-yielding variet
 | **HYV package** | Seeds + water + fertiliser + pesticide — same logic worldwide |
 | **Wheat** | **Norman Borlaug**; CIMMYT **Mexico**; Nobel **Peace** (1970) — **not** “Nobel in Agriculture” |
 | **Rice** | **IRRI**, **Los Baños, Philippines** |
-| **Spread** | Mexico → India/Pakistan wheat; Philippines IR8 rice → Asia |
+| **Spread** | Mexico wheat into India/Pakistan; Philippines IR8 rice across Asia |
 | **FAO** | Food and Agriculture Organization; HQ **Rome**; **World Food Day 16 October** |
 | **Golden rice** | **Vitamin A** (correct 2018 pair) |
 
@@ -734,7 +743,7 @@ India’s state-wise GR belt (Punjab–Haryana–western UP) is an India-agricul
 | Horticulture | Fruits + vegetables + flowers (wider umbrella) |
 | **Green Box** (AoA) | Allowed support — research, pest/disease control, training, marketing/promotion (not a fertiliser/irrigation dump) |
 
-**Livestock / dairy:** India = milk **volume** leader; mad-cow disease damaged beef’s “safe food” image in Europe/America. Commercial viticulture is classic **Mediterranean** (~85% grapes → wine in that story).
+**Livestock / dairy:** India is the milk **volume** leader. Mad-cow disease damaged beef’s “safe food” image in Europe and America. Commercial viticulture is classic **Mediterranean** (about 85% of grapes go to wine in that story).
 
 **Confused pairs (cash / terms).** The **Golden Crescent** is Afghanistan–Iran–Pakistan, not Iraq. A Brazilian **fazenda** is a plantation, not jhum. **Mocha** coffee is Yemen’s port name, not Brazil’s lead story. **Shahtoosh** is chiru hair, not merino wool. **Olericulture** means vegetables, not fruits.
 

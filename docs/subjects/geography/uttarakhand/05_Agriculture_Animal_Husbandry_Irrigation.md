@@ -33,52 +33,81 @@
 
 ## 5.1 Agriculture pattern
 
-**Identity:** Hill terraces vs Tarai granary | plains lead cropped area.
+**Identity:** Hill terraces versus Tarai granary | plains lead cropped area.
 
-- Cropped area concentrates in the southern plains and Tarai where slopes allow continuous fields.
-- **Udham Singh Nagar** and **Haridwar** type districts form the granary belt of the state.
-- Hill agriculture is fragmented and **terrace-based** on steep slopes.
-- Mid-hill farms grow cereals, millets, pulses, and oilseeds on small holdings.
-- Horticulture — apples, stone fruits, citrus, and off-season vegetables — matters in suitable altitudes.
+- Cropped area concentrates in the southern plains and Tarai.
+- Continuous fields are possible there because slopes are gentler.
+- **Udham Singh Nagar** type districts form part of the granary belt.
+- **Haridwar** type districts also form part of that granary belt.
+- Hill agriculture is fragmented on steep slopes.
+- Hill fields are **terrace-based**.
+- Mid-hill farms grow cereals on small holdings.
+- They also grow millets, pulses, and oilseeds.
+- Horticulture matters in suitable altitudes.
+- Apples belong to that horticulture story.
+- Stone fruits belong to it as well.
+- Citrus and off-season vegetables also matter where altitude allows.
 - Series B for 2025 marks **Haridwar** as the district with the **highest agricultural land**.
-- Many coaching notes also highlight **Udham Singh Nagar** as the Tarai cultivated-area rival; keep both names and prefer the Series B letter when that paper is cited.
+- Many coaching notes also highlight **Udham Singh Nagar** as the Tarai cultivated-area rival.
+- Keep both names.
+- Prefer the Series B letter when that paper is cited.
 
 ---
 
 ## 5.2 Major crops
 
-**Identity:** Plains cereals vs hill millets and orchards.
+**Identity:** Plains cereals versus hill millets and orchards.
 
-- Plains and Tarai emphasise **rice**, **wheat**, **sugarcane**, and oilseeds under denser irrigation.
-- Hills emphasise **mandua (finger millet)**, **jhangora**, barley, and other hardy cereals on terraces.
-- Pulses and potatoes appear widely as catch or kitchen crops in mid-hills.
-- Orchard belts and vegetable belts add cash income where road access and altitude allow.
-- Crop choice follows altitude, slope, and water availability more than a single statewide monoculture.
+- Plains and Tarai emphasise **rice**.
+- They also emphasise **wheat**.
+- **Sugarcane** and oilseeds matter under denser irrigation there.
+- Hills emphasise **mandua (finger millet)**.
+- Hills also emphasise **jhangora**.
+- Barley and other hardy cereals appear on terraces.
+- Pulses appear widely as catch or kitchen crops in mid-hills.
+- Potatoes also appear that way.
+- Orchard belts add cash income where road access and altitude allow.
+- Vegetable belts do the same.
+- Crop choice follows altitude.
+- It also follows slope and water availability.
+- The state does not run on a single statewide monoculture.
 
 ---
 
 ## 5.3 Animal husbandry
 
-**Identity:** Supplementary to crop farming | milk, wool, manure.
+**Identity:** Supplementary to crop farming through milk, wool, and manure.
 
-- Livestock **supplements** crop farming across the hill and Tarai economy.
-- Cattle and buffalo support milk and draught in plains and mid-hills.
-- Sheep and goats matter in higher pastures for wool and meat.
-- Manure and household nutrition keep animal husbandry tied to the farm rather than replacing it.
-- Statement pattern for 2025: (1) AH is supplementary — treated as **true**; (2) sheep rearing hit by environmental degradation — **not accepted** in Series B (answer **Only 1**).
-- The degradation narrative may appear in other sources; keep the 2025 option letter as **C** for that stem.
+- Livestock **supplements** crop farming across the hill economy.
+- It also supplements the Tarai farm economy.
+- Cattle support milk and draught in plains and mid-hills.
+- Buffalo do the same.
+- Sheep matter in higher pastures for wool and meat.
+- Goats matter there as well.
+- Manure keeps animal husbandry tied to the farm.
+- Household nutrition also keeps it tied to the farm rather than replacing crops.
+- In the 2025 multi-statement stem, the claim that animal husbandry is supplementary is treated as **true**.
+- The claim that sheep rearing has been hit by environmental degradation is **not accepted** in Series B.
+- Series B therefore marks **Only 1**.
+- The degradation narrative may appear in other sources.
+- Keep the 2025 option letter as **C** for that stem.
 
 ---
 
 ## 5.4 Irrigation
 
-**Identity:** Canal–tubewell plains vs spring–gul hills.
+**Identity:** Canal–tubewell plains versus spring–gul hills.
 
-- **Udham Singh Nagar** and **Haridwar** type plains use **canal** and **tubewell** irrigation heavily.
-- Mid-hill systems rely more on **springs**, small channels (**guls**), and tanks.
+- **Udham Singh Nagar** type plains use **canal** irrigation heavily.
+- Those plains also use **tubewell** irrigation heavily.
+- **Haridwar** type plains show the same canal–tubewell pattern.
+- Mid-hill systems rely more on **springs**.
+- Small channels called **guls** also matter there.
+- Tanks appear in some mid-hill systems.
 - Steep terrain limits large canal networks in the higher Himalaya.
 - Irrigation intensity therefore falls from Tarai granary districts toward high alpine valleys.
-- The syllabus expects this plains–hills contrast more than a long named-project list.
+- The syllabus expects this plains–hills contrast.
+- It does not expect a long named-project list as the main story.
 
 ---
 

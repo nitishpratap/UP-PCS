@@ -279,7 +279,7 @@ D. France
 **Why it is asked**
 
 - Backbone of **steel** and heavy industry.
-- Steel = iron + carbon (plus alloys). Pig iron from the blast furnace; steel from the converter.
+- Steel is iron + carbon (plus alloys). Pig iron from the blast furnace; steel from the converter.
 
 **Ores**
 
@@ -292,8 +292,8 @@ D. France
 
 **Occurrence**
 
-- Banded iron formations (sedimentary) = Australia Pilbara, Brazil, India, Ukraine.
-- Magmatic magnetite = Kiruna (Sweden).
+- Banded iron formations (sedimentary) is Australia Pilbara, Brazil, India, Ukraine.
+- Magmatic magnetite is Kiruna (Sweden).
 - Needs coking coal + limestone nearby for a cheap steel town (Ruhr, Appalachian–Pittsburgh, Damodar–Jamshedpur story).
 
 **Producer vs exporter**
@@ -306,11 +306,11 @@ D. France
 
 **Australia (2023 name)**
 
-- State = **Western Australia**.
-- Region = **Pilbara**.
-- Range = **Hamersley**.
-- Mine in the paper = **Mount Newman**.
-- Mineral = **iron ore** — not manganese, copper, or bauxite.
+- State is **Western Australia**.
+- Region is **Pilbara**.
+- Range is **Hamersley**.
+- Mine in the paper is **Mount Newman**.
+- Mineral is **iron ore** — not manganese, copper, or bauxite.
 
 **World iron areas**
 
@@ -344,7 +344,7 @@ D. France
 - Early **2022** paper: **China** #1.
 - India and Japan are large — **not** England as world top.
 
-Mount Newman = **iron ore** (Pilbara). The Germany–Normandy iron pair is **wrong** — Normandy is in **France**.
+Mount Newman is an **iron ore** mine in the Pilbara. The Germany–Normandy iron pair is **wrong** — Normandy is in **France**.
 
 **Inline PYQ — UPPCS Prelims 2023, Q70**
 
@@ -418,13 +418,14 @@ D. India
 **Properties / uses**
 
 - Best electrical conductor after silver → **wires**.
-- Alloys: **brass** = Cu + Zn; **bronze** = Cu + Sn.
-- Malleable; roofing, pipes, coins, electronics.
+- **Brass** is copper plus zinc.
+- **Bronze** is copper plus tin.
+- Copper is malleable and used in roofing, pipes, coins and electronics.
 
 **Ore**
 
-- Chief ore = **chalcopyrite** (CuFeS₂).
-- Also chalcocite, bornite, malachite, azurite.
+- The chief ore is **chalcopyrite** (CuFeS₂).
+- Also revise chalcocite, bornite, malachite and azurite.
 
 **Porphyry copper (2022 Reason)**
 
@@ -453,7 +454,7 @@ D. India
 
 **Producer fact (2022)**
 
-- **Chile** = leading producer in that paper.
+- **Chile** is leading producer in that paper.
 - Do not write “Chile has no copper”.
 
 **Inline PYQ — UPPCS Prelims 2022, Q41**
@@ -487,16 +488,16 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 
 **Ore / uses**
 
-- Ore = **cassiterite** (SnO₂). Alluvial placers + granite lodes.
-- Uses: **tin plate** (cans), solder, **bronze** (Cu + Sn), pewter.
-- Soft, corrosion-resistant coating on steel.
+- The ore is **cassiterite** (SnO₂). It occurs in alluvial placers and granite lodes.
+- Uses include **tin plate** (cans), solder, **bronze** (Cu + Sn) and pewter.
+- Tin is a soft, corrosion-resistant coating on steel.
 
 **SE-Asia tin belt** (the world tin street)
 
-- Runs **Myanmar (Tenasserim) → Thailand → Malaysia → Indonesia**.
-- Malaysia’s name = **Kinta Valley** (Perak) — **tin**, not rubber/tea/coffee (2020).
-- Indonesia’s name = **Bangka and Belitung** islands.
-- Myanmar tin = **Tenasserim / Dawei / Mawchi** — **not** Pegu Yoma.
+- The belt runs **Myanmar (Tenasserim) → Thailand → Malaysia → Indonesia**.
+- Malaysia’s classic name is **Kinta Valley** (Perak) — **tin**, not rubber, tea or coffee (2020).
+- Indonesia’s classic names are the **Bangka and Belitung** islands.
+- Myanmar tin sits in **Tenasserim / Dawei / Mawchi** — **not** the Pegu Yoma.
 
 **Other tin countries**
 
@@ -513,8 +514,8 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 
 **Pegu Yoma is oil, not tin**
 
-- **Pegu Yoma (Bago Yoma)** = central Myanmar hills between Irrawaddy and Sittaung.
-- 2022 important mineral = **mineral oil / petroleum**.
+- The **Pegu Yoma (Bago Yoma)** are the central Myanmar hills between the Irrawaddy and the Sittaung.
+- The 2022 important mineral for this name is **mineral oil / petroleum**.
 - Yenangyaung–Chauk oilfields sit in this central belt.
 - Trap: Myanmar *does* mine tin — just **not under the Pegu Yoma label**.
 
@@ -566,15 +567,15 @@ D. Silver
 
 **What it is**
 
-- Liquid hydrocarbon in **sedimentary** basins.
-- Classic trap = **anticline** (also fault, salt dome, offshore shelf).
+- Petroleum is liquid hydrocarbon in **sedimentary** basins.
+- The classic trap structure is an **anticline** (also fault, salt dome, offshore shelf).
 - Associated gas often sits above the oil.
 
 **OPEC**
 
-- HQ = **Vienna**.
-- Original five (1960) = **Iran, Iraq, Kuwait, Saudi Arabia, Venezuela**.
-- Gulf core still dominates reserves. Indonesia has been in and out. Qatar left. Russia is **OPEC+**, not OPEC.
+- Headquarters is **Vienna**.
+- The original five (1960) were **Iran, Iraq, Kuwait, Saudi Arabia and Venezuela**.
+- The Gulf core still dominates reserves. Indonesia has been in and out. Qatar left. Russia is **OPEC+**, not OPEC.
 
 **Producer vs reserve trap**
 
@@ -646,15 +647,15 @@ D. Iraq - Zubair
 
 **Composition (PYQ fact)**
 
-- Main constituent = **methane (CH₄)** — 2018 Q130 and 2022 Q19.
-- Same methane fact for **CNG**.
-- **LPG** = propane + butane. LPG ≠ CNG.
-- **LNG** = methane cooled to liquid for **ship** trade (Qatar, Australia).
+- Main constituent is **methane (CH₄)** — used in 2018 Q130 and 2022 Q19.
+- The same methane fact covers **CNG**.
+- **LPG** is propane plus butane. LPG is not the same as CNG.
+- **LNG** is methane cooled to liquid for **ship** trade (Qatar, Australia).
 
 **Types**
 
-- **Associated** gas = with oil (same field).
-- **Non-associated** gas = gas-only fields (Qatar North Field / Iran South Pars, Groningen, Urengoy).
+- **Associated** gas comes with oil in the same field.
+- **Non-associated** gas comes from gas-only fields (Qatar North Field / Iran South Pars, Groningen, Urengoy).
 
 **Producer / reserve names** (ranks move)
 
@@ -779,11 +780,11 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 
 **Nuclear**
 
-- Fuel = **uranium**.
-- Leading miners: **Kazakhstan**, Canada, Australia.
-- Highest **share** of electricity: **France**.
-- Large **capacity**: USA.
-- IAEA HQ = **Vienna**.
+- The main nuclear fuel is **uranium**.
+- Leading miners are **Kazakhstan**, Canada and Australia.
+- The highest **share** of electricity from nuclear power is in **France**.
+- The USA holds large **capacity**.
+- The IAEA headquarters is in **Vienna**.
 
 **Solar and wind**
 
@@ -853,15 +854,15 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 
 **Diamond**
 
-- Kimberley / Kimberlite story = **South Africa**.
+- Kimberley / Kimberlite story is **South Africa**.
 - Volume names: Russia (Yakutia), Botswana, Canada, DRC.
-- Golconda = historical **India**.
+- Golconda is historical **India**.
 
 **Nickel**
 
-- **Sudbury** (Canada) = Ni + Cu.
-- **Norilsk** (Russia).
-- New Caledonia. Cuba (laterite Ni).
+- **Sudbury** (Canada) yields nickel with copper.
+- **Norilsk** (Russia) is another Ni–Cu name.
+- Also revise New Caledonia and Cuba (laterite Ni).
 
 **Chromite**
 
@@ -869,9 +870,9 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 
 **Lead–zinc**
 
-- **Broken Hill** / Mount Isa = Australia.
-- Sullivan = Canada.
-- Zawar / Rampura-Agucha = India (Rajasthan).
+- **Broken Hill** and Mount Isa are Australian names.
+- Sullivan is in Canada.
+- Zawar and Rampura-Agucha are in India (Rajasthan).
 
 **Phosphate / potash** (fertiliser)
 
@@ -881,14 +882,14 @@ Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass 
 **Uranium / thorium**
 
 - Uranium mines: **Kazakhstan**, Canada Athabasca, Australia.
-- Olympic Dam (Australia) = U + Cu + Au.
+- Olympic Dam (Australia) is U + Cu + Au.
 - Thorium / monazite sands: India (Kerala–TN), Brazil, Australia.
 - Postmasburg is **not** uranium.
 
 **Iodine / nitrate (Chile cluster)**
 
-- **Iodine** 2018 fact (**lodine** spelling) = **Chile**.
-- Source = Atacama **caliche** (also sodium nitrate).
+- The **Iodine** 2018 fact (paper spelling **lodine**) points to **Chile**.
+- The source is Atacama **caliche** (also sodium nitrate).
 - Do not mark Japan / USA / China as the 2018 leader.
 
 **Mica / graphite / sulphur / platinum / cobalt / lithium / tungsten**

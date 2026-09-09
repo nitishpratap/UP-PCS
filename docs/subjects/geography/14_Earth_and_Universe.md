@@ -215,7 +215,7 @@ Several theories try to explain how the universe began and how the solar system 
 - An **Astronomical Unit (AU)** is the mean Earth–Sun distance, about **149.6 million km**.
 - A **light-year** is the distance light travels in one year, about **9.46 × 10¹² km**.
 - Star **colour tracks temperature**: blue stars are hottest; red stars are cooler.
-- A simple stellar life path is **nebula → main sequence → red giant → nova/supernova → white dwarf / neutron star (pulsar) / black hole**.
+- A simple stellar life path runs from **nebula** to **main sequence** to **red giant**, then to **nova/supernova**, and finally to a **white dwarf**, **neutron star (pulsar)** or **black hole**.
 - The **Chandrasekhar limit** is about **1.44 solar masses**. Below it a remnant can stay a white dwarf; above it the collapse path runs toward a neutron star or black hole (Nobel shared with Fowler, 1983).
 - A **black hole** is the remnant of a massive star whose gravity is so strong that **light cannot escape**.
 - The IAU lists **88** constellations. **Saptarishi / Ursa Major** points toward the **Pole Star**.
@@ -224,18 +224,18 @@ Several theories try to explain how the universe began and how the solar system 
 
 | Note | Fact |
 |------|------|
-| Expansion | **Hubble** — galaxies recede; redshift |
-| Evidence | Expanding space + **CMB** |
-| Galaxy | **Milky Way** = **barred spiral**; ~100 bn stars framing |
-| Galactic year | Sun orbits galactic centre in ~**22.5–25 crore** years |
-| Distance | **AU** ≈ **149.6 million km**; **light-year** ≈ **9.46×10¹² km** |
-| Star colour | Blue hottest → red cooler |
-| Star life | Nebula → main sequence → red giant → nova/supernova → white dwarf / neutron star / black hole |
-| **Chandrasekhar limit** | ~**1.44 M☉** white-dwarf ceiling |
-| Black hole | Massive-star remnant; light cannot escape |
-| Constellations | IAU **88**; Saptarishi points to Pole Star |
+| Expansion | **Hubble** — galaxies recede; redshift evidence |
+| Evidence | Expanding space and the **CMB** |
+| Galaxy | The **Milky Way** is a **barred spiral** with about **100 billion** stars |
+| Galactic year | The Sun orbits the galactic centre in about **22.5–25 crore** years |
+| Distance | One **AU** is about **149.6 million km**. One **light-year** is about **9.46×10¹² km** |
+| Star colour | Blue stars are hottest. Red stars are cooler |
+| Star life | Nebula to main sequence to red giant to nova/supernova to white dwarf / neutron star / black hole |
+| **Chandrasekhar limit** | About **1.44 M☉** is the white-dwarf ceiling |
+| Black hole | Massive-star remnant from which light cannot escape |
+| Constellations | The IAU lists **88**. **Saptarishi** points to the Pole Star |
 | Closest star (after Sun) | **Proxima Centauri** |
-| Not space | **Brittle star** = marine animal; **byte** = computing |
+| Not space | A **brittle star** is a marine animal. A **byte** is a computing unit |
 
 ---
 
@@ -265,7 +265,7 @@ Most planets **orbit and rotate prograde** (same sense as Earth’s west→east 
 
 | Planet | Axial tilt (approx.) | Rotation sense | Rotation (day) | Revolution (year) | Moons (coaching) | Must-score note |
 |--------|----------------------|----------------|----------------|-------------------|------------------|-----------------|
-| **Mercury** | ~**0°** | Prograde | ~**59** Earth days | ~**88** Earth days | **0** | Smallest; fastest orbit; no moon |
+| **Mercury** | ~**0°** | Prograde | ~**59** Earth days | ~**88** Earth days | **0** | Smallest planet, fastest orbit, no moon |
 | **Venus** | ~**177°** | **Retrograde** | ~**243** Earth days | ~**225** Earth days | **0** | Hottest (~464°C); Morning/Evening Star |
 | **Earth** | **23½°** | Prograde | ~**24 h** | **365¼** days | **1** (Moon) | Densest mean; habitable zone |
 | **Mars** | ~**25°** | Prograde | ~**24.6 h** | ~**687** Earth days | **2** (Phobos, Deimos) | Red planet; day/tilt close to Earth |
@@ -306,7 +306,7 @@ Most planets **orbit and rotate prograde** (same sense as Earth’s west→east 
 
 | Motion | Period | Effect |
 |--------|--------|--------|
-| **Rotation** | ~**24 h** (west→east) | Day/night; apparent Sun motion; **Coriolis** |
+| **Rotation** | ~**24 h** (west to east) | Day and night, apparent Sun motion, and **Coriolis** |
 | **Revolution** | **365¼** days | Year; leap year every 4 years (century ÷400) |
 | Orbit shape | Ellipse | **Perihelion ~3 Jan** (closest); **Aphelion ~4 Jul** (farthest) |
 
@@ -314,7 +314,7 @@ Most planets **orbit and rotate prograde** (same sense as Earth’s west→east 
 
 | Date | Event | Sun overhead / polar day |
 |------|--------|---------------------------|
-| **21 Mar / 23 Sep** | Equinox | Equator; day = night |
+| **21 Mar / 23 Sep** | Equinox | Sun over Equator; day equals night |
 | **21 Jun** | NH summer solstice | Tropic of **Cancer**; Arctic 24 h day |
 | **22 Dec** | NH winter solstice | Tropic of **Capricorn**; Arctic 24 h night |
 
@@ -338,7 +338,9 @@ Around the Northern Hemisphere **winter solstice**, global pressure belts **shif
 | Tropic of Cancer | **23½° N** | Sun overhead at NH summer solstice |
 | Tropic of Capricorn | **23½° S** | Sun overhead at NH winter solstice |
 | Arctic / Antarctic circles | **66½°** | 90 − 23½ |
-| Heat zones | Torrid between the tropics; temperate to 66½°; frigid to the poles |
+| Heat zones | See bullets below |
+
+Heat zones run **torrid** between the tropics, **temperate** from each tropic to 66½°, and **frigid** from there to the poles.
 
 ### India on the latitude map
 
@@ -389,18 +391,23 @@ Norway, Sweden, Finland, Russia, United States (Alaska), Canada, Denmark (**Gree
 
 ## N.5 Longitude, Time, Time Zones, IDL
 
-Meridians meet at poles. **Prime Meridian = 0° Greenwich**.
+Meridians meet at the poles. The **Prime Meridian** is **0°** longitude through **Greenwich**.
 
 | Note | Note |
 |------|------|
-| Earth 360° / 24 h | **15° = 1 hour**; **1° = 4 minutes** |
-| East | Local time **ahead** of Greenwich |
-| **IST** | **82°30′ E** (near **Mirzapur, UP**) = **GMT + 5 h 30 min**; **one** zone for all India |
+| Earth 360° / 24 h | Roughly **15°** of longitude equals **1 hour**; **1°** equals **4 minutes** |
+| East | Local time is **ahead** of Greenwich |
+| **IST** | Based on **82°30′ E** near **Mirzapur, UP** |
 | Time zones | Roughly 15° wide; countries zigzag for politics |
-| **IDL** | Follows ~**180°**; bent around islands / Aleutians; crossing **westward skip a day**; eastward repeat a day. West side of IDL is **ahead** (e.g. New Zealand vs Hawaii) |
+| **IDL** | Follows about **180°** (bent around islands / Aleutians) |
 | Prime Meridian land | Full land list below — **not Niger** / Nigeria as the classic wrong option |
 | GMT places | London, Lisbon, Accra, Dublin — **not Addis Ababa** |
-| Cairo | ~**30° E** → about **2 h ahead** of GMT |
+| Cairo | About **30° E**, so about **2 h ahead** of GMT |
+
+- **IST** is **GMT + 5 h 30 min**.
+- India keeps **one** time zone for the whole country.
+- Crossing the IDL **westward** skips a day; crossing **eastward** repeats a day.
+- The **west** side of the IDL is **ahead** (for example New Zealand versus Hawaii).
 
 **Prime Meridian (0° longitude) land countries — complete coaching list:**
 
@@ -408,7 +415,7 @@ United Kingdom, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana.
 
 The meridian also crosses Antarctic territory, but the usual country-match set is the eight names above. **Niger** and **Nigeria** are classic wrong options.
 
-**Worked rule:** longitude difference × 4 min; east = add. 30° east of Greenwich = 12:00 + 2 h = 14:00.
+**Worked rule:** Multiply the longitude difference by **4 minutes**. Add time when you move **east**. Example: **30°** east of Greenwich at Greenwich noon is **14:00**.
 
 | Country pair | Time zones |
 |-------------|------------------------|
@@ -429,15 +436,15 @@ The **atmosphere** is the envelope of gases held around Earth by gravity. Most o
 
 | Gas | Approx. share | Teaching note |
 |-----|---------------|---------------|
-| **Nitrogen (N₂)** | **~78.08%** | Most abundant; largely inert in ordinary weather |
-| **Oxygen (O₂)** | **~20.95%** | Second; needed for respiration and combustion |
+| **Nitrogen (N₂)** | **~78.08%** | Most abundant gas in dry air |
+| **Oxygen (O₂)** | **~20.95%** | Needed for respiration and combustion |
 | **Argon (Ar)** | **~0.93%** | Main noble gas; **not** a greenhouse gas |
-| **Carbon dioxide (CO₂)** | **~0.04%** (~400 ppm class) | Trace but strong greenhouse gas; varies with season and human activity |
+| **Carbon dioxide (CO₂)** | **~0.04%** (~400 ppm class) | Trace greenhouse gas that varies with season and human activity |
 | Neon, helium, methane, krypton, hydrogen, etc. | Trace | Very small permanent or near-permanent fractions |
 
-Water vapour is **not** fixed in the dry-air table. Its share is **variable** — near **0%** over cold deserts and up to about **4%** over warm humid air.
+Water vapour is **not** fixed in the dry-air table. Its share is **variable**. It can sit near **0%** over cold deserts and rise to about **4%** over warm humid air.
 
-Abundance order for dry air: **N₂ → O₂ → Ar → CO₂**.
+Abundance order for dry air is **nitrogen**, then **oxygen**, then **argon**, then **carbon dioxide**.
 
 ### Permanent vs variable constituents
 
@@ -447,23 +454,24 @@ Abundance order for dry air: **N₂ → O₂ → Ar → CO₂**.
 | **Variable** | Water vapour, CO₂, O₃, aerosols / dust | Change with place, season, height and human activity |
 
 - **Argon** is common among the permanent traces, but it is **not** counted as a greenhouse gas in the usual prelims set.
-- **Ozone (O₃)** is a variable gas. Its protective UV shield sits mainly in the **stratosphere**.
+- **Ozone (O₃)** is a variable gas.
+- Its protective UV shield sits mainly in the **stratosphere**.
 - Dust and aerosols help **scatter** light in the classic coaching set.
 
-### Vertical structure (bottom → top)
+### Vertical structure (bottom to top)
 
 | Layer | Approx. height | Temp. with height | Must-score note |
 |-------|----------------|-------------------|-----------------|
-| **Troposphere** | ~8 km (poles) → ~18 km (equator); avg ~13 km | Usually **falls** (~**6.5°C/km**) | Holds almost all weather and most water vapour |
+| **Troposphere** | ~8 km at poles to ~18 km at the equator (avg ~13 km) | Usually **falls** (~**6.5°C/km**) | Almost all weather and most water vapour |
 | **Tropopause** | Top of troposphere | Transition | Higher over the equator; lower over the poles |
-| **Stratosphere** | ~18–50 km | **Rises** (ozone absorbs UV) | **Ozone** UV shield; dry; good for jet flight |
+| **Stratosphere** | ~18–50 km | **Rises** because ozone absorbs UV | Ozone UV shield; dry and largely weather-free |
 | **Stratopause** | ~50 km | Transition | Boundary above the stratosphere |
-| **Mesosphere** | ~50–80 km | **Falls** | Coldest broad layer; **meteors** burn here |
+| **Mesosphere** | ~50–80 km | **Falls** | Coldest broad layer; meteors burn here |
 | **Mesopause** | ~80 km | Transition | Coldest region of the atmosphere |
-| **Thermosphere / Ionosphere** | above ~80 km (often framed ~80–640 km) | **Rises** strongly | Reflects radio waves; hosts the **aurora** |
-| **Exosphere** | outermost fringe | Merges into space | Very thin; outer frame for some communication-satellite orbits |
+| **Thermosphere / Ionosphere** | above ~80 km (often framed ~80–640 km) | **Rises** strongly | Radio-wave reflection and aurora |
+| **Exosphere** | outermost fringe | Merges into space | Very thin outer fringe |
 
-**Correct upward order:** Troposphere → Stratosphere → Mesosphere → Thermosphere / Ionosphere → Exosphere.
+**Correct upward order:** Troposphere, then Stratosphere, then Mesosphere, then Thermosphere / Ionosphere, then Exosphere.
 
 ### Layer teaching (full sentences)
 
@@ -487,14 +495,19 @@ Abundance order for dry air: **N₂ → O₂ → Ar → CO₂**.
 |------|---------|
 | Main atmospheric heating | **Long-wave terrestrial** radiation from Earth’s surface |
 | Ozone maximum / UV shield | **Stratosphere** |
-| Ozone hole focus | **Antarctica** (spring) |
-| Montreal Protocol | Cut **CFCs** (ozone path), not the Kyoto climate path |
-| Normal lapse (troposphere) | About **6.5°C/km** fall with height |
-| Temperature inversion | Lapse reversed in a layer → cold air and pollution can trap |
+| Ozone hole focus | **Antarctica** in spring |
+| Montreal Protocol | Cut **CFCs** on the ozone path (not the Kyoto climate path) |
+| Normal lapse (troposphere) | Temperature falls about **6.5°C** per km |
+| Temperature inversion | Temperature rises with height in a short layer |
 
-- The atmosphere is heated mainly from **below**. Short-wave insolation warms the surface; the surface then emits **long-wave**, which the air absorbs.
-- The **ozone hole** is strongest over **Antarctica** in spring. The **Montreal Protocol** cut CFCs that deplete ozone.
-- **Temperature inversion** means the normal lapse is reversed for a short height band (valley nights, fronts, pollution trapping).
+- The atmosphere is heated mainly from **below**.
+- Short-wave insolation warms the ground first.
+- The ground then emits **long-wave** infrared, and the lower air absorbs that long-wave.
+- The **ozone hole** is strongest over **Antarctica** in spring.
+- The **Montreal Protocol** cut CFCs that destroy stratospheric ozone.
+- **Kyoto** deals with climate and greenhouse gases, not the ozone protocol path.
+- In a **temperature inversion**, the normal lapse is reversed for a short height band.
+- Inversions are common on calm valley nights and near some fronts, and they can trap smoke and pollution near the ground.
 
 
 **Inline PYQ — UPPCS Prelims 2025, Q45**
@@ -547,18 +560,20 @@ D. Only geothermal heat
 
 ## N.6A Insolation · Albedo · Heat budget
 
-The Sun is Earth’s energy source. **Insolation** is incoming solar **short-wave** radiation that reaches the top of the atmosphere and the surface. Earth absorbs that energy and re-radiates **long-wave** (infrared). The atmosphere is heated mainly by that **terrestrial long-wave**, which greenhouse gases trap near the surface.
+The Sun is Earth’s energy source. **Insolation** is incoming solar **short-wave** radiation that reaches the top of the atmosphere and the surface. Earth absorbs that energy and re-radiates **long-wave** infrared. The atmosphere is heated mainly by that **terrestrial long-wave**, which greenhouse gases trap near the surface.
 
 **What controls insolation at a place**
 
-- The **angle of the Sun’s rays** matters most. Steeper rays concentrate energy; slanting rays spread it.
+- The **angle of the Sun’s rays** matters most.
+- Steeper rays concentrate energy on a smaller area.
+- Slanting rays spread the same energy over a wider area, so heating is weaker.
 - **Day length** rises toward the summer pole, so high latitudes can receive long hours of weak sun.
 - **Atmospheric transparency** falls when dust, cloud, smoke or moisture scatter and absorb radiation.
 - Earth–Sun distance changes slightly through the year, but latitude and season dominate day-to-day heating.
 
-Maximum surface heating often sits near **~20°N**, not exactly on the equator, because the equatorial belt is cloudier and wetter. Clear subtropical skies let more short-wave through.
+Maximum surface heating often sits near **~20°N**, not exactly on the equator. The equatorial belt is cloudier and wetter, so more short-wave is blocked. Clear subtropical skies let more short-wave through.
 
-**Albedo** is the **reflecting** power of a surface (fraction of insolation sent back to space).
+**Albedo** is the **reflecting** power of a surface. It is the fraction of insolation sent back to space.
 
 | Surface | Typical albedo |
 |---------|----------------|
@@ -568,11 +583,23 @@ Maximum surface heating often sits near **~20°N**, not exactly on the equator, 
 | Paddy / dark wet fields | **3–15%** |
 | Earth mean (planetary) | ~**30%** |
 
-Earth’s mean albedo is higher than Mercury’s (~**0.3** vs ~**0.1**), so Earth reflects a larger share of sunlight even though Mercury is closer to the Sun.
+Earth’s mean albedo is about **0.3**. Mercury’s mean albedo is about **0.1**. Earth therefore reflects a larger share of sunlight even though Mercury is closer to the Sun.
 
-**Heat budget (NCERT 100-unit picture)** — of 100 units of insolation, about **35** return to space by reflection and scattering (planetary albedo), about **14** are absorbed in the atmosphere, and about **51** reach and warm the surface. The surface then returns energy as long-wave radiation, sensible heat and latent heat from evaporation.
+### Heat budget (NCERT 100-unit picture)
 
-Water vapour absorbs much **infrared**. Cloudy nights stay warmer because clouds **reflect and trap** outgoing long-wave, so the ground may not cool enough for **dew**. Tropical cyclones weaken inland because they lose the ocean’s **latent-heat** fuel once they leave warm water.
+Of **100** units of insolation at the top of the atmosphere:
+
+| Fate | Units |
+|------|-------|
+| Reflected / scattered back to space (**planetary albedo**) | ~**35** |
+| Absorbed by the atmosphere | ~**14** |
+| Absorbed by Earth’s surface | ~**51** |
+
+- The surface returns that energy as **long-wave** radiation, sensible heat, and latent heat from evaporation.
+- Water vapour absorbs much **infrared**.
+- Cloudy nights stay warmer because clouds reflect and trap outgoing long-wave.
+- On cloudy nights the ground may not cool enough for **dew**.
+- Tropical cyclones weaken inland because they lose the ocean’s **latent-heat** fuel once they leave warm water.
 
 ---
 
@@ -585,30 +612,106 @@ Water vapour absorbs much **infrared**. Cloudy nights stay warmer because clouds
 |------|---------|
 | **Absolute humidity** | Mass of vapour in a given volume of air |
 | **Relative humidity** | Vapour present as a **percentage of saturation** at that temperature |
-| **Specific humidity** | Mass of vapour per unit mass of moist air (coaching pair) |
+| **Specific humidity** | Mass of vapour per unit mass of moist air |
 
-Relative humidity **falls as temperature rises** if the vapour mass stays the same, because warmer air can hold more water before saturation. Moisture generally **decreases with latitude**. About **90%** of atmospheric moisture sits in the lowest ~**5 km**.
-
-Summer “humid heat” feels **muggy** when absolute vapour is high and evaporation from the skin is slow. **Dew** forms when a clear, calm night lets the ground lose long-wave heat until air near the surface cools to the **dew point** and vapour condenses on cold surfaces. Cloudy nights keep the surface warmer, so dew often fails. If the surface temperature drops below **0°C**, the same process yields **frost** instead of liquid dew.
+- Relative humidity **falls as temperature rises** if the vapour mass stays the same, because warmer air can hold more water before saturation.
+- Moisture generally **decreases with latitude**.
+- About **90%** of atmospheric moisture sits in the lowest ~**5 km**.
+- Summer “humid heat” feels **muggy** when absolute vapour is high and evaporation from the skin is slow.
+- **Dew** forms when a clear, calm night lets the ground lose long-wave heat until air near the surface cools to the **dew point**.
+- Vapour then condenses on cold surfaces as liquid dew.
+- Cloudy nights keep the surface warmer, so dew often fails.
+- If the surface temperature drops below **0°C**, the same process yields **frost** instead of liquid dew.
 
 ---
 
 
 ## N.6C Clouds
 
-Clouds form when moist air cools to saturation and vapour **condenses** into tiny water droplets or ice crystals on condensation nuclei. Rising air cools by expansion; that ascent is why cumulus towers grow on hot afternoons.
+A **cloud** is a visible mass of tiny water droplets, ice crystals, or both, suspended in the air. Clouds form when moist air cools to **saturation** and water vapour **condenses** on condensation nuclei such as dust, salt or smoke particles.
 
-Clouds are named by **height** and **form**. High clouds are usually icy. Mid clouds sit in the middle troposphere. Low clouds hug the weather layer where most rain starts.
+### How clouds form
 
-| Type | Note |
-|------|-----|
-| **Cirrus / Cirrostratus** | Highest; icy; cirrostratus may make Sun/Moon **halo** |
-| Altostratus / Altocumulus | Mid-level sheets / patches |
-| Stratus / Nimbostratus | Low; nimbostratus = steady rain |
-| **Cumulus** | Cauliflower; fair-weather signal when isolated |
-| **Cumulonimbus** | Towering storm cloud — intense rain, hail, thunder |
+- Rising air cools by **expansion**. That is why cumulus towers grow on hot afternoons.
+- Air can also cool when it moves over a colder surface, or when it is forced up a mountain slope.
+- Condensation needs nuclei. Clean air without particles does not form cloud drops easily.
+- Most ordinary clouds live in the **troposphere**, where almost all weather sits.
+- Clouds are named by **height** and by **form**.
 
-**Nimbus** in a name signals rain. Isolated fair-weather cumulus can grow into cumulonimbus when strong convection continues. Thunder is the acoustic boom from lightning heating air in a fraction of a second. It is **not** caused only by “two clouds meeting.”
+### Height families
+
+| Family | Typical height (mid-latitudes) | Make-up | Teaching note |
+|--------|--------------------------------|---------|---------------|
+| **High** | About **5–13 km** | Mostly **ice crystals** | Names often begin with **cirro-** |
+| **Middle** | About **2–7 km** | Water drops and/or ice | Names often begin with **alto-** |
+| **Low** | Surface to about **2 km** | Mostly water drops | Includes stratus sheets and many rain clouds |
+| **Vertical / towering** | Base low; top may reach the tropopause | Strong convection | **Cumulus** and **Cumulonimbus** grow upward through layers |
+
+Heights are lower in polar air and higher in tropical air. The names stay the same.
+
+### Form families
+
+| Form idea | Look | Classic members |
+|-----------|------|-----------------|
+| **Cirriform** | Thin, wispy, fibrous | Cirrus, cirrostratus, cirrocumulus |
+| **Stratiform** | Sheet or layer | Stratus, altostratus, nimbostratus |
+| **Cumuliform** | Heap / cauliflower | Cumulus, cumulonimbus, altocumulus |
+| **Nimbus** | Rain-bearing | **Nimbostratus**, **Cumulonimbus** |
+
+- **Nimbus** in a name signals rain.
+- **Cirro-** points to high icy cloud.
+- **Alto-** points to middle-level cloud.
+- **Stratus** means a sheet. **Cumulus** means a heap.
+
+### Main cloud types
+
+| Cloud | Family | Teaching note |
+|-------|--------|---------------|
+| **Cirrus** | High | Thin, wispy ice trails. Often fair-weather or approaching weather aloft |
+| **Cirrostratus** | High | Thin icy sheet. May make a Sun or Moon **halo** |
+| **Cirrocumulus** | High | Small icy ripples or “mackerel sky” patches |
+| **Altocumulus** | Middle | White or grey patches and rolls in the middle troposphere |
+| **Altostratus** | Middle | Grey sheet that can dull the Sun. May thicken before steadier rain |
+| **Stratus** | Low | Grey layer hugging the weather layer. Light drizzle or dull sky |
+| **Nimbostratus** | Low | Thick rain sheet. Steady, often widespread rain or snow |
+| **Cumulus** | Vertical | Puffy cauliflower heaps. Isolated fair-weather cumulus means unsettled tall storm not yet formed |
+| **Cumulonimbus** | Vertical | Towering storm cloud. Intense rain, hail, thunder and lightning |
+
+### Cloud teaching (full sentences)
+
+- **Cirrus** clouds are the highest common clouds. They are made of ice and look like white feathers or threads.
+- **Cirrostratus** can spread as a thin veil. A bright ring or **halo** around the Sun or Moon often means cirrostratus is present.
+- **Cirrocumulus** forms small high ripples. It is less common than cirrus in ordinary day-to-day weather talk.
+- **Altocumulus** sits in the middle troposphere as patches or rolls.
+- **Altostratus** is a mid-level grey sheet. The Sun may look watery through it.
+- **Stratus** is a low grey blanket. It can give drizzle or a dull, overcast day.
+- **Nimbostratus** is the classic steady-rain cloud. Rain from it is usually continuous rather than brief and violent.
+- **Cumulus** looks like cotton heaps with flat bases. Fair-weather cumulus often forms by afternoon heating and then dies by evening.
+- **Cumulonimbus** is the thunderstorm cloud. Strong convection builds it into a tall tower that can bring intense rain, hail and thunder.
+- Isolated fair-weather cumulus can grow into cumulonimbus when heating and moisture keep feeding the updraft.
+
+### Fog, halo and thunder links
+
+| Idea | Correct |
+|------|---------|
+| Fog | Cloud with its base at or very near the **ground** |
+| Halo around Sun / Moon | Often **cirrostratus** |
+| Steady widespread rain | Often **nimbostratus** |
+| Intense convective rain / hail / thunder | **Cumulonimbus** |
+| Fair-weather afternoon heaps | Isolated **cumulus** |
+
+- **Fog** forms when air near the ground cools to the dew point and condenses. It is cloud at ground level, not a separate gas.
+- **Thunder** is the sound of air expanding after a lightning flash heats it in a fraction of a second.
+- Thunder is **not** caused only by “two clouds meeting.”
+- Lightning and thunder belong with **cumulonimbus**, not with thin high cirrus alone.
+
+### Cloud–weather quick pairs
+
+- High icy cirrus or cirrostratus may appear first when a weather system is still far away.
+- Thickening altostratus often means steadier rain is approaching.
+- Nimbostratus brings the long rainy spell.
+- Cumulonimbus brings the short, violent storm, often with thunder.
+- An anticyclone’s sinking air suppresses tall cloud growth, so skies stay clearer.
 
 ---
 
@@ -867,7 +970,7 @@ Pressure belts **follow the Sun**. They shift **north** in Northern Hemisphere s
 
 | Latitude | Belt | Wind |
 |----------|------|------|
-| 0° | Equatorial low / **ITCZ** | Doldrums; rising air; rain |
+| 0° | Equatorial low / **ITCZ** | Doldrums with rising air and rain |
 | 30° | Subtropical **high** | Horse latitudes; **Trade winds** (NE/SE) blow toward ITCZ |
 | 60° | Subpolar **low** | **Westerlies** |
 | 90° | Polar **high** | Polar easterlies |
@@ -911,8 +1014,8 @@ Direct drilling barely scratches the crust, so the deep interior is known mainly
 
 | Layer chemistry (names) | Fact |
 |------------------------------|------|
-| **Sial** | Continental crust — silica + aluminium; granite; less dense |
-| **Sima** | Oceanic crust — silica + magnesium; basalt; denser |
+| **Sial** | Continental crust — silica + aluminium; granite; less dense than sima |
+| **Sima** | Oceanic crust — silica + magnesium; basalt; denser than sial |
 | **Nife** | Core — nickel + iron |
 
 Oceanic crust is about **5–10 km** thick. Continental crust is about **30–40 km** and thicker under young mountains. The rigid **lithosphere** (crust + uppermost mantle) rides on the weaker **asthenosphere**. The outer core is **liquid** iron–nickel. That liquid shell generates Earth’s magnetic field and **stops S-waves**. The inner core is **solid** despite the heat because pressure is extreme.
@@ -994,11 +1097,15 @@ The **Himalaya**, Alps, Andes and Rockies are classic young fold belts on conver
 
 **Petrology** is the study of rocks. A rock is a natural solid aggregate of one or more minerals. Crust rocks fall into three families that recycle into each other.
 
-| Family | How it forms | Key pairs |
+| Family | How it forms | Key traits |
 |--------|--------------|----------|
-| **Igneous** (primary) | Cooling of **magma / lava** | No fossils; not layered like sediment; hard for water to penetrate; crystalline or non-crystalline |
-| **Sedimentary** | Weathering → transport → deposition → **lithification** | Fossils common; occur in **layers (strata)**; form at / near Earth’s surface |
+| **Igneous** (primary) | Cooling of **magma / lava** | No fossils; not layered like sediment |
+| **Sedimentary** | Weathering → transport → deposition → **lithification** | Fossils common; occur in **layers (strata)** |
 | **Metamorphic** | Any rock remade by heat + pressure + chemistry (**metamorphism**) | New fabric / minerals; forms deeper / hotter than surface conditions |
+
+- Igneous rock is hard for water to penetrate. It may be crystalline or non-crystalline.
+- Sedimentary rock forms at or near Earth’s surface.
+- Metamorphic rock is any earlier rock remade by heat, pressure and chemistry (**metamorphism**).
 
 **Igneous split**
 
@@ -1043,25 +1150,27 @@ A volcano is a crustal rupture that lets lava, ash and gases escape from a magma
 | **Magma** | Molten rock **below** the surface |
 | **Lava** | Magma that reaches the surface (~600–1200°C); cools to igneous rock |
 | Most abundant volcanic gas | **Water vapour (H₂O)** — then CO₂, SO₂ and others |
-| Acidic lava | High silica → sticky / viscous |
-| Basic lava | Low silica → runny / fluid |
+| Acidic lava | High silica makes it sticky / viscous |
+| Basic lava | Low silica makes it runny / fluid |
 | Caldera | Large collapsed vent / crater |
 | Geyser | Intermittent hot water + steam (e.g. Old Faithful, Yellowstone) — near magmatic heat |
-| Fumarole / solfatara | Late-stage gas vents (sulfurous = solfatara); Katmai “Valley of Ten Thousand Smokes” note |
+| Fumarole / solfatara | Late-stage gas vents (a sulfurous vent is a solfatara); Katmai’s “Valley of Ten Thousand Smokes” is the classic note |
 
 | Type | Fact / example |
 |------|----------------|
-| **Shield** | Low silica, runny; **Mauna Loa / Mauna Kea** (Hawaii) — Mauna Loa = Earth’s largest volcano by bulk; strong 2022 eruption note |
+| **Shield** | Low-silica, runny lava; classic Hawaii pair is **Mauna Loa / Mauna Kea** |
 | **Composite / strato** | Sticky, explosive; **Fuji, Vesuvius, Etna, Pinatubo, St Helens, Rainier, Cotopaxi** |
 | Cinder cone | Small, steep; **Paricutin** (Mexico) |
 | Caldera | Collapse after blast; **Krakatoa / Krakatau** (Indonesia), Yellowstone |
 | Fissure / flood basalt | **Deccan Trap** |
 
+- **Mauna Loa** is Earth’s largest volcano by bulk. It also had a strong **2022** eruption.
+
 | Status | Fact |
 |--------|------|
 | **Active** | Open vent / recent eruptions — **Stromboli** (“lighthouse of the Mediterranean”), **Etna** (Sicily), **Kilauea** (often ranked among most active), **Mauna Loa**, **Barren Island** (India’s only confirmed active — Andaman Sea), **Fuji**, **Vesuvius**, **Erebus** (Ross Island, Antarctica), **Cotopaxi** (Ecuador) |
-| Highest active (world) | Coaching often cites **Ojos del Salado** (Andes, Chile–Argentina, ~6893 m); among common options **Cotopaxi** may be the tallest listed |
-| **Dormant** | Quiet but may revive — **Kilimanjaro** (Kibo dormant; Mawenzi / Shira extinct note), **Damavand** (Iran) |
+| Highest active (world) | Coaching often cites **Ojos del Salado** (Andes, Chile–Argentina, ~6893 m). Among common options **Cotopaxi** may be the tallest listed |
+| **Dormant** | Quiet but may revive — **Kilimanjaro** (Kibo dormant; Mawenzi / Shira extinct) and **Damavand** (Iran) |
 | **Extinct** | Unlikely to erupt again — Kulal (Kenya), Chimborazo (Ecuador), Popa (Myanmar), Koh-e-Sultan (Pakistan) note |
 
 Beyond the Rainier–Etna–Paricutin–Apo set, learn these volcano–country pairs for Match List practice.
@@ -1117,13 +1226,16 @@ An earthquake is shaking from a sudden release of energy in the **lithosphere**.
 | **Epicentre** | Point on the **surface directly above** the focus — where surface effects / first observations are tied in coaching keys |
 | Instrument | **Seismograph / seismometer** records waves; a **seismogram** is the record |
 
-**Three wave families (P.S.L. = Primary · Secondary · Love/surface framing)**
+**Three wave families** — remember **P** (Primary), **S** (Secondary), and **surface** (Love / Rayleigh).
 
 | Wave | Nature | Travels through | Note |
 |------|--------|-----------------|-----|
 | **P (primary)** | Longitudinal / sound-like; **fastest**; arrives first | Solids, liquids, gases | Body wave |
-| **S (secondary)** | Transverse / light-like; slower than P | **Solids only** | Body wave; stopped by liquid outer core |
-| **Surface** | Slowest; Love + Rayleigh; **most damaging** at surface | Near surface | Love waves are the faster of the two surface types |
+| **S (secondary)** | Transverse / light-like; slower than P | **Solids only** | Body wave |
+| **Surface** | Slowest; Love + Rayleigh; **most damaging** at surface | Near surface | Love waves are the faster surface type |
+
+- **S-waves** are stopped by the liquid outer core.
+- Surface waves do the worst damage at the ground.
 
 **Shadow zones (NCERT):** Seismographs within about **103°** of the epicentre record both P and S waves. **S-waves** are not recorded beyond about **103°** because the liquid outer core stops shear waves. **P-waves** are missing in a belt about **103–142°** because they are refracted at the mantle–core boundary; they reappear beyond about **142°**. A claim that both P and S arrive at *any* distance beyond 105° is **false**.
 
@@ -1134,18 +1246,18 @@ An earthquake is shaking from a sudden release of energy in the **lithosphere**.
 | **Richter** (C.F. Richter, **1935**) | **Magnitude** ≈ energy released (log₁₀ amplitude) | +1 magnitude ≈ **10×** amplitude; ≈ **~32×** energy (not 100×) |
 | **Mercalli** | **Intensity** (felt damage / effects) | Different from magnitude |
 
-Coaching MCQs sometimes loosely say “Richter = intensity” when no Mercalli option exists — prefer Mercalli for intensity and Richter for magnitude when both appear.
+Prefer **Mercalli** for intensity and **Richter** for magnitude when both scales appear in the options. Some older keys loosely treat Richter as an intensity scale when Mercalli is missing — do not learn that swap as the main rule.
 
-**Tsunami** = Japanese *tsu* (harbour) + *nami* (wave). Triggered by undersea quakes, volcanic eruptions and underwater explosions; can cross whole ocean basins.
+**Tsunami** comes from Japanese *tsu* (harbour) and *nami* (wave). Undersea quakes, volcanic eruptions and underwater explosions can trigger it. A tsunami can cross whole ocean basins.
 
 | Event pair | Fact |
 |-----------|------|
-| **26 Dec 2004** Indian Ocean | Sumatra subduction; devastation to Africa; deaths ~**2–3 lakh** (not “50 lakh”); Bangladesh relatively few casualties (fault ~N–S; main wave energy ~E–W) |
-| **11 Mar 2011** Japan | Great quake + tsunami → **Fukushima** Daiichi nuclear disaster |
+| **26 Dec 2004** Indian Ocean | Sumatra subduction quake. Waves reached as far as Africa. Deaths were about **2–3 lakh**, not “50 lakh”. Bangladesh saw relatively few casualties because the fault trended roughly N–S while main wave energy ran roughly E–W |
+| **11 Mar 2011** Japan | A great quake and tsunami damaged **Fukushima** Daiichi and caused a nuclear disaster |
 
-**India:** NW subcontinent is quake-prone because it sits on the **Indian–Eurasian plate convergence**. India’s Himalayan / mid-continental arm links to the Alpine–Himalayan seismic belt (not only the Pacific Ring).
+**India:** NW subcontinent is quake-prone because it sits on the **Indian–Eurasian plate convergence**. India’s Himalayan / mid-continental arm links to the Alpine–Himalayan seismic belt. It is not limited to the Pacific Ring alone.
 
-**Plate-tectonics pair:** Sea-floor spreading (Hess and others) underpins plate tectonics; pinning “plate tectonics theory = Hess alone in 1967” is too narrow / false in CG-style keys — Statement II (based on sea-floor spreading) stays true.
+**Plate-tectonics pair:** Sea-floor spreading (Hess and others) underpins plate tectonics. Pinning “plate tectonics theory” on Hess alone in 1967 is too narrow. The statement that the theory is based on sea-floor spreading stays true.
 
 ---
 
@@ -1155,7 +1267,7 @@ Most earthquakes and volcanoes cluster along **plate boundaries**, not randomly 
 
 | Belt | Note |
 |------|------|
-| **Circum-Pacific / Ring of Fire** | ~**80%** of world’s volcanoes; ~**90%** of world’s **earthquakes**; Chile–California–Alaska–Japan–Philippines–New Zealand arc — **not** forest fires |
+| **Circum-Pacific / Ring of Fire** | Pacific rim arc (Chile–California–Alaska–Japan–Philippines–New Zealand) |
 | **Mid-Atlantic** | Iceland, Azores — divergent; quakes + volcanoes |
 | **Alpine–Himalayan / Mid-Continental** | Cape Verde–Atlantic–Mediterranean–Alps–Caucasus–**Himalaya**; India’s main seismic framing |
 | **East African Rift** | **Kilimanjaro, Kenya** — **not** Ring of Fire (**2024 Q30**) |

@@ -32,42 +32,68 @@
 
 ## 4.1 Minerals of Uttarakhand
 
-**Identity:** Scattered Himalayan–foothill minerals | district pairing is the high-yield map.
+**Identity:** Scattered Himalayan–foothill minerals remembered by district pairs.
 
-- The state has scattered Himalayan and foothill mineral occurrences rather than one giant coal–iron belt.
+- The state has scattered Himalayan and foothill mineral occurrences.
+- It does not have one giant coal–iron belt.
 - District pairing is the reliable way to remember the must-score mineral map.
-- **Dolomite** is associated with **Dehradun** and **Pithoragarh**.
-- **Soapstone** is associated with **Chamoli** and **Bageshwar**.
-- **Graphite** is associated with **Almora** and **Nainital**.
-- **Silica sand** is associated with **Dehradun**, **Nainital**, and **Tehri Garhwal**.
-- **Pauri Garhwal** is not the silica-sand district in the standard pairing; that is the planted wrong match.
-- Limestone, magnesite, and other minor occurrences appear in coaching lists, but the four pairs above carry the heaviest recall weight.
+- **Dolomite** is associated with **Dehradun**.
+- Dolomite is also associated with **Pithoragarh**.
+- **Soapstone** is associated with **Chamoli**.
+- Soapstone is also associated with **Bageshwar**.
+- **Graphite** is associated with **Almora**.
+- Graphite is also associated with **Nainital**.
+- **Silica sand** is associated with **Dehradun**.
+- Silica sand is also associated with **Nainital**.
+- Silica sand is also associated with **Tehri Garhwal**.
+- **Pauri Garhwal** is not the silica-sand district in the standard pairing.
+- Pauri Garhwal is the planted wrong match for silica sand.
+- Limestone appears in coaching lists as a minor occurrence.
+- Magnesite also appears as a minor occurrence.
+- The four named pairs above carry the heaviest recall weight.
 
 ---
 
 ## 4.2 Power resources — hydropower
 
-**Identity:** Steep Himalayan gradients | Tehri flagship on Bhagirathi.
+**Identity:** Steep Himalayan gradients | Tehri flagship on the Bhagirathi.
 
-- Hydropower dominates the power-resource story because of steep Himalayan gradients and glacier-fed rivers.
-- Major project belts follow the **Bhagirathi**, **Alaknanda**, and **Yamuna** systems.
-- The **Tehri** hydropower complex on the Bhagirathi (with Bhilangana confluence landscape) is the flagship multipurpose project of the state.
-- Tehri combines power generation with flood moderation and water storage roles in the upper Ganga basin narrative.
-- Run-of-river and storage schemes both appear along Garhwal trunks; high alpine sites face glacial and seismic constraints.
-- Thermal coal is not the core identity of Uttarakhand’s power map; water power is.
+- Hydropower dominates the power-resource story.
+- Steep Himalayan gradients and glacier-fed rivers explain that dominance.
+- Major project belts follow the **Bhagirathi** system.
+- They also follow the **Alaknanda** system.
+- They also follow the **Yamuna** system.
+- The **Tehri** hydropower complex sits on the Bhagirathi.
+- Tehri’s landscape also includes the Bhilangana confluence.
+- Tehri is the flagship multipurpose project of the state.
+- Tehri combines power generation with flood moderation.
+- Tehri also plays a water-storage role in the upper Ganga basin narrative.
+- Run-of-river schemes appear along Garhwal trunks.
+- Storage schemes also appear along those trunks.
+- High alpine sites face glacial constraints.
+- High alpine sites also face seismic constraints.
+- Thermal coal is not the core identity of Uttarakhand’s power map.
+- Water power is the core identity.
 
 ---
 
 ## 4.3 Industry belts
 
-**Identity:** Tarai plains + Dehradun dun | services and light manufacturing.
+**Identity:** Tarai plains and Dehradun dun | services and light manufacturing.
 
-- Industrial development concentrates more in **Tarai / plains** districts and the **Dehradun** dun than in high alpine tehsils.
-- **Udham Singh Nagar** and neighbouring Tarai towns host agro-based and manufacturing nodes.
-- **Dehradun** carries administration, education, pharma, IT, and service-industry pockets.
-- Forest-based and tourism-linked services remain important across mid-hill towns.
-- Heavy smokestack industry is limited by terrain, ecology, and transport cost; light manufacturing and services dominate.
-- Keep detailed new factory names for Current Affairs; the geography spine is plains–dun concentration plus hydropower.
+- Industrial development concentrates more in **Tarai / plains** districts than in high alpine tehsils.
+- The **Dehradun** dun is the other main concentration belt.
+- **Udham Singh Nagar** hosts agro-based manufacturing nodes.
+- Neighbouring Tarai towns also host such nodes.
+- **Dehradun** carries administration and education.
+- Dehradun also carries pharma, IT, and service-industry pockets.
+- Forest-based services remain important across mid-hill towns.
+- Tourism-linked services also remain important there.
+- Heavy smokestack industry is limited by terrain.
+- Ecology and transport cost also limit heavy industry.
+- Light manufacturing and services dominate instead.
+- Keep detailed new factory names for Current Affairs.
+- The geography spine here is plains–dun concentration plus hydropower.
 
 ---
 

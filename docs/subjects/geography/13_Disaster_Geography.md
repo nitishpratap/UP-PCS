@@ -163,7 +163,7 @@ Seismic energy leaves the focus in two big families.
 - The two main types are **Love** and **Rayleigh** waves.
 - They are the **slowest** to arrive but usually cause the **worst shaking and damage** at the surface.
 
-Arrival order on a record: **P → S → surface**.
+Arrival order on a record is **P**, then **S**, then **surface** waves.
 
 | Wave | Family | Nature | Travels through | Arrival / damage |
 |------|--------|--------|-----------------|------------------|
@@ -224,19 +224,24 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 
 ## N.3 Seismic Zones of India
 
-BIS **IS 1893 (Part 1): 2016** — four zones. **Zone I abolished (2002)**. **Zone V = highest** hazard, **II = lowest** on the present map.
+BIS **IS 1893 (Part 1): 2016** lists **four** zones. **Zone I** was abolished in **2002**. On the present map **Zone V** is the **highest** hazard and **Zone II** is the **lowest**.
 A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use **II–V**.
 
 | Zone | Risk | Where (list) |
 |------|------|-------------------|
-| **V** | Very high | Entire **NE** (except some plains pockets in some maps); **Andaman & Nicobar**; parts of **J&K / Ladakh, HP, Uttarakhand**; **Rann of Kutch (GJ)**; parts of N Bihar |
-| **IV** | High | Rest of Himalayan states; **Delhi**; **northern & eastern UP** (Terai / Ghaghara–Gandak belt); parts of Bihar, Haryana, Punjab, Maharashtra, J&K |
-| **III** | Moderate | Broad peninsula + **most of UP** (Lucknow, Kanpur, Prayagraj, Varanasi, Agra); Mumbai, Chennai, Kolkata often tagged III; **Latur, Koyna** belt |
-| **II** | Low | Large stable Deccan / western Rajasthan interiors (Hyderabad–Bengaluru belt) |
+| **V** | Very high | NE India, Andaman & Nicobar, Himalayan pockets, Kutch, N Bihar |
+| **IV** | High | Rest of Himalayan belt, Delhi, N/E UP Terai |
+| **III** | Moderate | Broad peninsula, most of UP, many metros, Latur–Koyna |
+| **II** | Low | Large stable Deccan / western Rajasthan interiors |
 
-**UP:** no Zone **V**. North/east Terai = **IV**; bulk of the state = **III**.
+- **Zone V** covers almost the entire **Northeast** (except some plains pockets on some maps), the **Andaman & Nicobar**, parts of **J&K / Ladakh, Himachal and Uttarakhand**, the **Rann of Kutch**, and parts of north Bihar.
+- **Zone IV** covers the rest of the Himalayan states, **Delhi**, northern and eastern **UP** (Terai / Ghaghara–Gandak belt), and parts of Bihar, Haryana, Punjab, Maharashtra and J&K.
+- **Zone III** covers the broad peninsula plus **most of UP** (Lucknow, Kanpur, Prayagraj, Varanasi, Agra). Mumbai, Chennai and Kolkata are often tagged III. The **Latur–Koyna** belt sits here too.
+- **Zone II** covers large stable Deccan and western Rajasthan interiors (Hyderabad–Bengaluru belt).
 
-> ** note:** “Highest concentration in Himalaya” is true — that is Zone **IV–V**, not “all India Zone V.”
+**UP:** there is **no Zone V**. North/east Terai is **Zone IV**. The bulk of the state is **Zone III**.
+
+> **Note:** “Highest concentration in Himalaya” is true — that is Zone **IV–V**, not “all India Zone V.”
 
 ---
 
@@ -326,7 +331,7 @@ Cloudbursts in the Himalaya often end as **debris flows** that bury roads and se
 - The **North-Eastern hills** combine steep terrain with heavy rain.
 - Soft sedimentary / weathered rock and seismic shaking raise risk further in the Himalayan arc.
 
-### Hall events (Cause → Course → Result framing)
+### Hall events (Cause, Course, Result framing)
 
 - **Malpa 1998** (Uttarakhand): a rockfall / debris slide on the pilgrimage route killed scores of travellers.
 - **Kedarnath 2013**: extreme rain and slope failure fed flash floods and debris that devastated the Mandakini valley.
@@ -421,9 +426,9 @@ A **drought** is a prolonged shortage of water relative to what a place normally
 | DDP (Desert Development Programme) | **1977–78** |
 | TRYSEM | **1979** |
 
-Chronology used in **2025**: Community Development Programme (**1952**) → DPAP (**1973–74**) → Food for Work (**1977**) → TRYSEM (**1979**).
+Chronology used in **2025**: Community Development Programme (**1952**), then DPAP (**1973–74**), then Food for Work (**1977**), then TRYSEM (**1979**).
 
-> ** note:** **1952** is CDP, not DPAP. **DPAP = 1973–74**.
+> **Note:** **1952** is CDP, not DPAP. **DPAP** belongs to **1973–74**.
 
 ---
 
@@ -528,9 +533,10 @@ A **tropical cyclone** is a warm-core low-pressure system over tropical seas wit
 | Basin | Disaster fact |
 |-------|----------------|
 | **Bay of Bengal** | **Higher frequency** (~4:1 vs Arabian in many decades); Odisha–AP–TN–WB–Sundarbans surge |
-| **Arabian Sea** | Fewer; **does** hit **Gujarat / Maharashtra** (1998 Kandla; **Tauktae 2021**; Biparjoy 2023) |
+| **Arabian Sea** | Fewer storms, but they **do** hit **Gujarat / Maharashtra** |
 | Peaks | **May–Jun** and **Oct–Dec** (retreating monsoon). Mid-monsoon shear suppresses BoB |
 
+- Arabian Sea hits include **1998 Kandla**, **Tauktae 2021** and **Biparjoy 2023**.
 - Storm surge, extreme rain and high winds cause most coastal deaths and damage.
 - **Mangroves** and coastal forests cut surge and wind impact before water reaches settlements.
 
@@ -587,7 +593,7 @@ India has shifted from a **relief-only** habit to **prevention, mitigation and S
 
 ### Vertical structure
 
-- **NDMA** — national policy, guidelines and coordination; PM chairs; up to nine members.
+- **NDMA** sets national policy, guidelines and coordination. The Prime Minister chairs it. Membership is up to nine.
 - **SDMA** — state apex; **Chief Minister** chairs.
 - **DDMA** — district apex; **District Magistrate / Collector** chairs (elected district head often co-chairs).
 - **NEC** (National Executive Committee) — **Union Home Secretary** coordinates implementation.
@@ -633,15 +639,15 @@ D. The Health and Family Welfare Minister
 | Body | Role |
 |------|------|
 | **DM Act** | **23 Dec 2005** |
-| **NDMA** | Apex; **PM = ex-officio Chair**; up to 9 members |
+| **NDMA** | Apex body; the **PM** is ex-officio Chair; up to 9 members |
 | **SDMA** | **CM** chairs |
 | **DDMA** | District Magistrate chairs (elected head co-chairs) |
 | **NEC** | National Executive Committee — **Union Home Secretary** |
-| **NDRF** | **2006**, specialised response, **MHA**; started 8 Bn → **16 Bn** |
-| **NIDM** | Training / research — **New Delhi** (NCDM 1995 → NIDM) |
+| **NDRF** | **2006**, specialised response under **MHA**; started at 8 Bn and later rose to **16 Bn** |
+| **NIDM** | Training / research in **New Delhi** (from NCDM 1995 to NIDM) |
 | Nodal ministry | **MHA** (Disaster Management Division) |
 | **NDMP** | **1 Jun 2016** (revised 2019) — aligned to Sendai |
-| **Sendai** | **2015–2030**, Sendai (Japan); after **Hyogo 2005–2015**; Yokohama 1994 |
+| **Sendai** | **2015–2030**, Sendai (Japan), after **Hyogo 2005–2015** and Yokohama 1994 |
 | **NPDM** | National Policy on Disaster Management — **2009** |
 | **CDRI** | Coalition for Disaster Resilient Infrastructure — India, **2019** |
 | IDDR | International Day for DRR — **13 October** |
@@ -752,7 +758,7 @@ Uttar Pradesh is a **multi-hazard** state: seismic shaking, river floods, Bundel
 
 | Hazard | Fact |
 |--------|------|
-| Seismic | **No Zone V.** Terai / north–east = **IV**; Lucknow–Kanpur–Prayagraj–Varanasi–Agra = **III** |
+| Seismic | **No Zone V.** Terai / north–east is **IV**; Lucknow–Kanpur–Prayagraj–Varanasi–Agra belt is **III** |
 | Flood | East UP — **Ghaghara, Rapti, Gandak, Ganga**; trans-Ghaghara belt |
 | Drought | **Bundelkhand** + Vindhyan / south-west pockets |
 | Heat | May–Jun plains (**Loo**) |

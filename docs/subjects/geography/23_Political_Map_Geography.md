@@ -173,19 +173,21 @@ Teach the **full political atlas**. Next year can ask any Lucent capital or stra
 ## N.1 UNCLOS
 
 **Adopted:** 1982 · **in force:** 1994 · **India:** 1995
-**Measured from:** baselines (normal = low-water line). 1 nm ≈ **1.852 km**.
 
-- Internal waters (inside baselines) = full sovereignty — ports, lagoons.
-- **Territorial sea = 12 nm** — full sovereignty; foreign ships get **innocent passage**.
-- **Contiguous zone = 24 nm** from baseline — customs, fiscal, immigration, sanitary.
-- **EEZ = 200 nm** — sovereign rights over **resources** (fish, oil, wind), not the same as owning the sea like land.
-- **Continental shelf** = at least **200 nm**; geology can take seabed rights to **350 nm**. Water above that extra shelf is **not** extra EEZ.
-- High seas = beyond national zones — freedom of navigation.
-- **The Area** = seabed beyond national jurisdiction — common heritage of mankind. **ISA** HQ = Kingston, Jamaica.
-- **Innocent passage** = territorial sea. **Transit passage** = international straits (stronger; cannot be switched off like innocent passage).
-- Archipelagic sea-lane passage = Indonesia / Philippines type.
-- India’s EEZ ≈ **2.02 million km²**. Coastline with islands ≈ **7,516.6 km**.
-- Later high-seas treaties do **not** rewrite 12 / 24 / 200.
+Zones are measured from baselines. The normal baseline is the low-water line. One nautical mile is about **1.852 km**.
+
+- **Internal waters** inside the baselines are under full sovereignty — ports and lagoons included.
+- The **territorial sea** extends **12 nm**. The coastal state has full sovereignty. Foreign ships get **innocent passage**.
+- The **contiguous zone** extends **24 nm** from the baseline for customs, fiscal, immigration and sanitary control.
+- The **EEZ** extends **200 nm**. The coastal state has sovereign rights over **resources** (fish, oil, wind). That is not the same as owning the sea like land.
+- The **continental shelf** is at least **200 nm**. Geology can take seabed rights to **350 nm**. Water above that extra shelf is **not** extra EEZ.
+- The **high seas** lie beyond national zones and keep freedom of navigation.
+- **The Area** is the seabed beyond national jurisdiction — the common heritage of mankind. The **ISA** headquarters is in Kingston, Jamaica.
+- **Innocent passage** applies in the territorial sea.
+- **Transit passage** applies in international straits. It is stronger and cannot be switched off like innocent passage.
+- Archipelagic sea-lane passage is the Indonesia / Philippines type.
+- India’s EEZ is about **2.02 million km²**. The coastline with islands is about **7,516.6 km**.
+- Later high-seas treaties do **not** rewrite the 12 / 24 / 200 yardsticks.
 
 ---
 
@@ -229,7 +231,7 @@ Among foreign countries, **Uttar Pradesh** touches **Nepal only**.
 
 **Identity:** India is a large **south Asian** peninsula between the Arabian Sea and the Bay of Bengal.
 
-**Area:** ~3.28 million km² = **2.4%** of world land · **7th** largest (not 6th)
+**Area:** about **3.28 million km²**, which is **2.4%** of world land. India ranks **7th** largest (not 6th).
 
 The Tropic of Cancer (**23½° N**) runs through the **middle** of the country.
 
@@ -400,7 +402,7 @@ The Maldives’ capital is **Malé**.
 
 ## Central Asia capitals (match bank)
 
-2019 asked four “Stan” capitals. Next paper can still pick **Kazakhstan** or swap names. Learn the full set; ★ = 2019 order.
+2019 asked four “Stan” capitals. Next paper can still pick **Kazakhstan** or swap names. Learn the full set. Starred rows mark the 2019 order.
 
 | Country | Capital | Trap |
 |---------|---------|------|
@@ -422,16 +424,16 @@ The Maldives’ capital is **Malé**.
 - Tanzania — **Dodoma**, not Dar es Salaam.
 - Turkey — **Ankara**, not Istanbul.
 - South Africa — three capitals (Pretoria, Cape Town, Bloemfontein); Johannesburg is not one.
-- Netherlands — Amsterdam; **The Hague** = government / ICJ.
+- Netherlands — Amsterdam. **The Hague** is the government / ICJ seat.
 - Côte d’Ivoire — Yamoussoukro, not Abidjan.
 - Bolivia — Sucre (constitutional), La Paz (seat of government).
-- Cape Verde — **Praia**. **Bamako = Mali** (2020 NOT matched).
+- Cape Verde — **Praia**. **Bamako** is Mali (2020 NOT matched).
 - Benin — Porto-Novo, not Cotonou.
 - Maghreb correct pairs: Morocco–Rabat, Tunisia–Tunis, Algeria–Algiers.
-- Slovenia capital = **Ljubljana** (Bratislava = **Slovakia**).
-- Peru = **Lima**; Austria = **Vienna** (IAEA HQ); North Korea = **Pyongyang** (Seoul = South).
-- Myanmar capital = **Nay Pyi Taw** / Naypyidaw (moved from Yangon / Pyinmana area).
-- Palestine map pair: **Ramallah**; Kosovo **Pristina**; Taiwan **Taipei**.
+- Slovenia’s capital is **Ljubljana**. Bratislava is **Slovakia**.
+- Peru’s capital is **Lima**. Austria’s capital is **Vienna** (IAEA HQ). North Korea’s capital is **Pyongyang** (Seoul is South Korea).
+- Myanmar’s capital is **Nay Pyi Taw** / Naypyidaw (moved from Yangon / Pyinmana area).
+- Palestine map pair: **Ramallah**. Kosovo: **Pristina**. Taiwan: **Taipei**.
 
 ## N.5A Country ranks · regions · dependent territories · old names
 
@@ -494,9 +496,17 @@ The Maldives’ capital is **Malé**.
 | Zaire | DR Congo |
 | Nyasaland | Malawi |
 
-**Landlocked extras.** **Laos** is the only classic landlocked sovereign state in mainland Southeast Asia. **Chad** is a frequent African landlocked option. North America and Oceania have **no** classic landlocked sovereign states. Transcontinental coaching names include **Georgia** and **Türkiye**, with Russia, Azerbaijan, and Kazakhstan also bridging Asia–Europe frames. **South Sudan** is landlocked; its capital is **Juba**; it sits on the White Nile; Christianity framing appears in some stems. **Bolivia** is landlocked; Suriname, Uruguay, and Peru are not.
+**Landlocked extras**
 
-**World towns pairs:** Most megacities coastal because they are **ocean-route gateways**. Alaska = USA. Malta = Mediterranean. Silicon Valley cities exclude Santa Rosa. South Africa Parliament seat = **Cape Town**. Lhasa among highest capitals/towns. Baikonur = **Kazakhstan** (not Ukraine). Kanto plain = **Japan**. Congo = **Africa**. Mexico = **North America**.
+- **Laos** is the only classic landlocked sovereign state in mainland Southeast Asia.
+- **Chad** is a frequent African landlocked option.
+- North America and Oceania have **no** classic landlocked sovereign states.
+- Transcontinental coaching names include **Georgia** and **Türkiye**.
+- Russia, Azerbaijan and Kazakhstan also bridge Asia–Europe frames.
+- **South Sudan** is landlocked. Its capital is **Juba**. It sits on the White Nile.
+- **Bolivia** is landlocked. Suriname, Uruguay and Peru are not.
+
+**World towns pairs:** Most megacities are coastal because they are **ocean-route gateways**. Alaska is part of the USA. Malta sits in the Mediterranean. Silicon Valley city lists exclude Santa Rosa. South Africa’s Parliament seat is **Cape Town**. Lhasa ranks among the highest capitals/towns. Baikonur is in **Kazakhstan** (not Ukraine). The Kanto plain is in **Japan**. The Congo sits in **Africa**. Mexico is in **North America**.
 
 **Inline PYQ — UPPCS Prelims 2019, Q2**
 
@@ -626,10 +636,10 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 
 **Superlatives / enclaves**
 
-- Largest landlocked by **area** = **Kazakhstan** (Caspian shore does **not** cancel landlocked status).
-- Most populous landlocked = **Ethiopia** (Eritrea took the Red Sea coast).
-- **Lesotho** = enclave wholly inside **South Africa**. **Eswatini** (Swaziland) is also landlocked in southern Africa but not a full enclave like Lesotho.
-- Smallest landlocked names in Europe = Vatican City, San Marino, Liechtenstein.
+- Largest landlocked by **area** is **Kazakhstan** (Caspian shore does **not** cancel landlocked status).
+- Most populous landlocked is **Ethiopia** (Eritrea took the Red Sea coast).
+- **Lesotho** is an enclave wholly inside **South Africa**. **Eswatini** (Swaziland) is also landlocked in southern Africa but not a full enclave like Lesotho.
+- Europe’s smallest landlocked names are Vatican City, San Marino and Liechtenstein.
 
 **Africa — frequent landlocked names**
 
@@ -673,26 +683,26 @@ D. Bolivia
 
 **Seas**
 
-- Mediterranean — Europe–Africa–Asia; doors = Gibraltar and Suez.
-- Red Sea — Suez at the north, Bab el-Mandeb at the south.
-- Arabian Sea — west of India. Andaman Sea — east of A&N, Malacca approach.
-- South China Sea — Spratly / Paracel. East China and Yellow — China–Korea–Japan.
-- Sea of Japan / Okhotsk — NW Pacific.
-- Black Sea — outlet through the **Bosporus**.
-- Caspian — largest lake; five shores: Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan.
-- North Sea and Baltic — linked by **Kiel**.
-- Caribbean — Panama’s Atlantic side.
-- Bering Sea — Asia–America.
-- Coral and Tasman — Australia.
-- Sargasso — Atlantic, no coasts.
+- The Mediterranean sits between Europe, Africa and Asia. Its doors are Gibraltar and Suez.
+- The Red Sea has Suez at the north and Bab el-Mandeb at the south.
+- The Arabian Sea lies west of India. The Andaman Sea lies east of the Andaman and Nicobar Islands on the Malacca approach.
+- The South China Sea holds the Spratly / Paracel disputes. The East China and Yellow Seas sit between China, Korea and Japan.
+- The Sea of Japan and the Sea of Okhotsk lie in the north-west Pacific.
+- The Black Sea outlets through the **Bosporus**.
+- The Caspian is the largest lake, with five shores: Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan.
+- The North Sea and Baltic are linked by the **Kiel Canal**.
+- The Caribbean faces Panama’s Atlantic side.
+- The Bering Sea sits between Asia and America.
+- The Coral and Tasman Seas belong with Australia.
+- The Sargasso Sea sits in the Atlantic with no coasts.
 
 **Gulfs**
 
-- Persian / Arab Gulf — oil; mouth = **Hormuz**. Gulf of Oman = outer side of Hormuz.
-- Aden — Bab el-Mandeb. Aqaba and Suez = two arms of the Red Sea.
-- Mexico — USA–Mexico–Cuba. Guinea — West Africa. Thailand — Bangkok.
-- Carpentaria — north Australia. California — between Baja and mainland Mexico.
-- Khambhat and Kutch — west India. Mannar — India–Sri Lanka.
+- The Persian / Arab Gulf is an oil gulf. Its mouth is **Hormuz**. The Gulf of Oman is the outer side of Hormuz.
+- Aden sits at Bab el-Mandeb. Aqaba and Suez are the two arms of the Red Sea.
+- The Gulf of Mexico sits between the USA, Mexico and Cuba. Guinea faces West Africa. Thailand faces Bangkok.
+- Carpentaria faces north Australia. California sits between Baja and mainland Mexico.
+- Khambhat and Kutch face west India. Mannar sits between India and Sri Lanka.
 
 **Bays**
 
@@ -714,7 +724,7 @@ D. Bolivia
 
 **Joins:** Andaman / Indian Ocean side and South China Sea · **Sides:** Malaysia–Indonesia (Singapore)
 
-- Busiest Asia chokepoint. Tanker alternatives = Sunda, Lombok, Makassar.
+- Busiest Asia chokepoint. Tanker alternatives is Sunda, Lombok, Makassar.
 
 ### Bering Strait
 
@@ -751,7 +761,7 @@ D. Bolivia
 
 **Joins:** Mediterranean Sea and Red Sea · **Note:** sea-level canal
 
-- Does **not** itself touch the Atlantic or the open Indian Ocean (2025 = Red Sea + Med).
+- It does **not** itself touch the Atlantic or the open Indian Ocean. The 2025 water bodies are the **Red Sea and the Mediterranean**.
 - Shortened India–Europe sea distance by about **7,000 km** (2018).
 - Towns: Port Said (north), Ismailia, Suez (south).
 - Lakes **north → south:** Manzala → Timsah → Great Bitter → Little Bitter (2019).
@@ -766,9 +776,9 @@ D. Bolivia
 
 **Joins:** North Sea and Baltic · **Country:** Germany
 
-- Corinth = Ionian and Aegean (Greece).
-- St Lawrence Seaway = Great Lakes and Atlantic.
-- Rhine–Main–Danube = North Sea inland to the Black Sea.
+- Corinth is Ionian and Aegean (Greece).
+- St Lawrence Seaway is Great Lakes and Atlantic.
+- Rhine–Main–Danube is North Sea inland to the Black Sea.
 
 **Inline PYQ — UPPCS Prelims 2025, Q138**
 
@@ -844,7 +854,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 ### Range–region match bank (next year can ask any)
 
-2024 asked only a **west → east** four-pack. Learn the atlas bank; ★ = that paper’s set.
+2024 asked only a **west → east** four-pack. Learn the atlas bank. Starred rows mark that paper’s set.
 
 | Range / highland | Region / country fact | Tag |
 |------------------|----------------------|-----|
@@ -869,7 +879,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 **West → east (2024 asked order):** Pontic (N Turkey) → Zagros (W Iran) → Hindu Kush (Afghanistan) → Karakoram.
 
-- Paper code **2, 4, 3, 1** when Karakoram=1, Pontic=2, Hindu Kush=3, Zagros=4.
+- The paper code is **2, 4, 3, 1** when Karakoram is 1, Pontic is 2, Hindu Kush is 3 and Zagros is 4.
 
 ### Highest peak by continent (match bank)
 
@@ -883,7 +893,7 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 | Australia (mainland) | **Kosciuszko** | Australia |
 | Antarctica | Vinson Massif | Also revise |
 
-- Nobi and Kanto plains = **Japan**, not Korea/China (2021).
+- Nobi and Kanto plains is **Japan**, not Korea/China (2021).
 
 **Inline PYQ — UPPCS Prelims 2024, Q76**
 
@@ -1054,10 +1064,10 @@ D. Jakarta — Indonesia
 - **BWk** — cold desert (Gobi). **BSh/BSk** — steppe (Sahel, Prairie edge).
 - **Cs** — Mediterranean: **winter rain**, dry summer; five west-coast patches.
 - **Cfa** — humid subtropical (SE USA, east China).
-- **Cfb** — marine west coast; rain in **all months** = **Western Europe** + westerlies (2024 both).
+- **Cfb** — marine west coast with rain in **all months**. Classic home is **Western Europe** under the westerlies (2024 both).
 - **Df/Dw** — humid continental / subarctic (Canada, Siberia).
 - **ET** — tundra. **EF** — ice cap. **H** — highland (Tibet, Andes).
-- Mediterranean: NH winter solstice → belts shift **south** → westerlies over the Med (2024 both). Summer = dry subtropical high / dry land winds (2022 A/R both true, R explains).
+- Mediterranean: at the Northern Hemisphere winter solstice, belts shift **south** and westerlies cover the Med (2024 both). Summer is dry under the subtropical high / dry land winds (2022 A/R — both true, R explains).
 
 **Inline PYQ — UPPCS Prelims 2018, Q25**
 

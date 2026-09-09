@@ -38,55 +38,76 @@
 
 **Identity:** Road-dominant hills | Char Dham corridor | named airstrips.
 
-- Road corridors (NH and Char Dham project) dominate connectivity; rail is stronger on the southern fringe.
+- Road corridors dominate connectivity in the hills.
+- National highways and the Char Dham project lead that story.
+- Rail is stronger on the southern fringe.
 - The **Char Dham** all-weather road programme links the Yamunotri–Gangotri–Kedarnath–Badrinath pilgrimage circuit.
-- The **Silkyara–Barkot** tunnel is **4.531 km** long on the Gangotri–Yamunotri access corridor.
+- The **Silkyara–Barkot** tunnel is **4.531 km** long.
+- It sits on the Gangotri–Yamunotri access corridor.
 - Silkyara is expected to shorten the Gangotri–Yamunotri road distance by more than about **20 km**.
 - **Pantnagar** airport lies in **Udham Singh Nagar**.
 - **Naini Saini** airport lies in **Pithoragarh**.
 - **Chinyalisaur** airstrip lies in **Uttarkashi**.
-- **Gauchar** airstrip lies in **Chamoli**, not Rudraprayag.
-- Railheads and bus hubs cluster toward Dehradun, Haridwar, Kathgodam/Haldwani, and other southern gateways.
+- **Gauchar** airstrip lies in **Chamoli**.
+- Gauchar does **not** lie in Rudraprayag.
+- Railheads cluster toward Dehradun.
+- They also cluster toward Haridwar.
+- Bus hubs cluster toward Kathgodam / Haldwani and other southern gateways.
 
 ---
 
 ## 7.2 Tourism geography
 
-**Identity:** Pilgrimage · hill stations · wildlife · adventure.
+**Identity:** Pilgrimage, hill stations, wildlife, and adventure pillars.
 
 - **Char Dham** pilgrimage is the primary religious tourism pillar of the state.
-- **Haridwar–Rishikesh** adds Ganga ghat pilgrimage, yoga, and adventure rafting.
-- Hill stations such as **Nainital** and **Mussoorie** structure the lake-and-ridge leisure map.
-- Wildlife tourism centres on **Corbett** and other protected landscapes.
-- Adventure and alpine tourism include **Auli** skiing and the **Valley of Flowers** trek landscape.
-- Festival and expo Current Affairs may appear separately; keep place identity here.
+- **Haridwar** adds Ganga ghat pilgrimage.
+- **Rishikesh** adds yoga and adventure rafting to that Ganga belt.
+- **Nainital** structures the lake-and-ridge leisure map.
+- **Mussoorie** does the same on the ridge side.
+- Wildlife tourism centres on **Corbett**.
+- Other protected landscapes also draw wildlife visitors.
+- **Auli** skiing marks the adventure and alpine tourism story.
+- The **Valley of Flowers** trek landscape also belongs to that adventure map.
+- Festival and expo Current Affairs may appear separately.
+- Keep place identity here.
 
 ---
 
 ## 7.3 Natural hazards
 
-**Identity:** Landslide · cloudburst · flood · seismic · GLOF.
+**Identity:** Landslide, cloudburst, flood, seismic, and GLOF risks.
 
-- Fragile slopes, intense monsoon bursts, and seismic belts make the state highly disaster-prone.
-- **Landslides** are common on cut hill roads and soft Shiwalik–Lesser Himalayan slopes.
-- **Cloudbursts** dump extreme rainfall in small catchments and trigger debris flows.
-- Flash floods and riverine floods hit valley floors during the monsoon.
+- Fragile slopes make the state highly disaster-prone.
+- Intense monsoon bursts add to that risk.
+- Seismic belts keep the baseline hazard high.
+- **Landslides** are common on cut hill roads.
+- Soft Shiwalik–Lesser Himalayan slopes also slide frequently.
+- **Cloudbursts** dump extreme rainfall in small catchments.
+- Those bursts trigger debris flows.
+- Flash floods hit valley floors during the monsoon.
+- Riverine floods do the same.
 - The Himalayan seismic belt keeps earthquake risk permanently high.
-- Glacial lake outburst flood (**GLOF**) risk rises as glaciers retreat and high lakes expand.
-- Settlements on river terraces and landslide toes face the highest exposure.
+- Glacial lake outburst flood (**GLOF**) risk rises as glaciers retreat.
+- Expanding high lakes raise that GLOF risk further.
+- Settlements on river terraces face high exposure.
+- Settlements on landslide toes face high exposure as well.
 
 ---
 
 ## 7.4 Climate vulnerability and institutional response
 
-**Identity:** High vulnerability | SCCC 2011 | UAPCC ≠ Revenue.
+**Identity:** High vulnerability | SCCC established in 2011 | UAPCC not under Revenue.
 
 - Uttarakhand is treated as **highly vulnerable** to climate change.
-- Climate change intensifies **water stress** and pressures **biodiversity**.
+- Climate change intensifies **water stress**.
+- Climate change also pressures **biodiversity**.
 - The **State Council for Climate Change (SCCC)** of Uttarakhand was established in **2011**.
 - Preparation of the **Uttarakhand Action Plan on Climate Change (UAPCC)** was **not** given to the State Revenue Department.
-- UAPCC work sits with the forest / environment institutional set-up rather than Revenue.
-- Both vulnerability statements were treated as true in the 2025 climate stem; only the SCCC year held in the institutional stem.
+- UAPCC work sits with the forest / environment institutional set-up.
+- It does not sit with Revenue.
+- Both vulnerability statements were treated as true in the 2025 climate stem.
+- In the institutional stem, only the SCCC year held as correct.
 
 ---
 

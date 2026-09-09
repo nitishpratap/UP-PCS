@@ -37,46 +37,60 @@
 
 ## 6.1 Population geography
 
-**Identity:** Census 2011 sex-ratio pattern | hill high · plains low.
+**Identity:** Census 2011 sex-ratio pattern | hill districts high | plains low.
 
 - Hill districts often show higher sex ratios than industrial plains districts in Census 2011 tables.
 - Descending order for the frequently cited four is **Almora → Rudraprayag → Tehri Garhwal → Haridwar**.
 - **Almora** tops that list at about **1142**.
 - **Rudraprayag** follows at about **1114**.
 - **Tehri Garhwal** follows at about **1077**.
-- **Haridwar** trails at about **880** and anchors the plains outlier.
-- Out-migration of working-age males shapes many hill demographic patterns and helps explain elevated hill sex ratios.
+- **Haridwar** trails at about **880**.
+- Haridwar anchors the plains outlier on that list.
+- Out-migration of working-age males shapes many hill demographic patterns.
+- That out-migration helps explain elevated hill sex ratios.
 - Population density is higher in Tarai and dun belts than in high alpine tehsils.
 
 ---
 
 ## 6.2 Scheduled tribes — Vanrawats and neighbours
 
-**Identity:** Vanrawats/Raji of Pithoragarh | brief Bhotia · Tharu · Boksa.
+**Identity:** Vanrawats / Raji of Pithoragarh with brief Bhotia, Tharu, and Boksa notes.
 
 - **Vanrawats (Raji)** are associated with **Pithoragarh** district.
 - They are remembered as a small forest-dwelling / primitive tribal group.
-- Traditional **shifting cultivation** continued until forest department regulation pushed settled livelihoods.
-- Both the home-district and shifting-cultivation statements are treated as correct in the 2025 stem.
-- The **Bhotia** communities are linked with high Himalayan trade and seasonal (transhumant) movement along northern valleys.
+- Traditional **shifting cultivation** continued for a long time among them.
+- Forest department regulation later pushed settled livelihoods.
+- Both the home-district statement and the shifting-cultivation statement are treated as correct in the 2025 stem.
+- The **Bhotia** communities are linked with high Himalayan trade.
+- Bhotia life also includes seasonal (transhumant) movement along northern valleys.
 - The **Tharu** are a Tarai tribal community of the southern plains fringe.
 - The **Boksas (Buksa)** are another Tarai tribal community of the foothill–plains belt.
-- Do not swap Vanrawat/Raji of Pithoragarh with Bhotia high-valley or Tharu/Boksa Tarai identities.
+- Do not swap Vanrawat / Raji of Pithoragarh with Bhotia high-valley identity.
+- Do not swap them with Tharu / Boksa Tarai identity either.
 
 ---
 
 ## 6.3 Settlements and cities
 
-**Identity:** Compact hill villages · dispersed Tarai farms · admin and tourism towns.
+**Identity:** Compact hill villages | dispersed Tarai farms | admin and tourism towns.
 
-- Compact nucleated villages dominate many mid-hill slopes where terrace land is scarce.
-- Dispersed farmsteads and roadside bazaars are more common in Tarai and dun belts.
-- Seasonal highland pastures and temporary herder camps appear in the alpine and Bhotia belts.
+- Compact nucleated villages dominate many mid-hill slopes.
+- Terrace land is scarce there, so settlement stays clustered.
+- Dispersed farmsteads are more common in Tarai and dun belts.
+- Roadside bazaars are also more common there.
+- Seasonal highland pastures appear in the alpine belt.
+- Temporary herder camps appear in Bhotia belts as well.
 - Administrative capital landscape centres on **Dehradun**.
-- Pilgrimage–industry towns include **Haridwar** and **Rishikesh**.
-- Tarai towns such as **Rudrapur**, **Kashipur**, and the **Pantnagar** belt are agro-industrial nodes.
-- Hill towns such as **Nainital**, **Almora**, **Srinagar (Garhwal)**, and **Haldwani** mix administration, education, and tourism.
-- Full tourist catalogue sits with Topic 7.
+- **Haridwar** is a pilgrimage–industry town.
+- **Rishikesh** is another pilgrimage–industry town.
+- **Rudrapur** is a Tarai agro-industrial node.
+- **Kashipur** is another Tarai agro-industrial node.
+- The **Pantnagar** belt also belongs to that Tarai industrial story.
+- **Nainital** mixes administration, education, and tourism.
+- **Almora** does the same in the mid-hills.
+- **Srinagar (Garhwal)** does the same in Garhwal.
+- **Haldwani** mixes those roles on the Kumaon foothill side.
+- The full tourist catalogue sits with Topic 7.
 
 ---
 

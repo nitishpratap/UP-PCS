@@ -192,7 +192,7 @@ D. Oligocene
 
 ### Northern Plains
 
-- The Northern Plain is a **foredeep** filled by Himalayan rivers. South of the Shiwaliks the belts run **Bhabar → Terai → Bhangar / Khadar**. Never reverse that order.
+- The Northern Plain is a **foredeep** filled by Himalayan rivers. South of the Shiwaliks the belts run **Bhabar**, then **Terai**, then **Bhangar / Khadar**. Never reverse that order.
 - The Indian sector of this alluvial tract is about **2400 km** long. Width is greatest in the west (about **500 km**) and narrows eastward.
 - Average elevation is about **200 m**. The **Ambala** watershed (about **291 m**) divides the **Indus** and **Ganga** systems.
 - The **Bhabar** is a narrow pebble belt, about **8–16 km** wide, immediately south of the Shiwaliks. Streams **sink** into the porous gravel here.
@@ -212,7 +212,7 @@ D. Oligocene
 | **Punjab Plain** | Punjab, Haryana | Doabs; **chos** gullying on Shiwalik edge |
 | **Haryana Tract** | Ghaggar–Yamuna | Water-divide; **Ghaggar** as Saraswati successor |
 | **Ganga Plain** | Delhi to Kolkata | Rohilkhand, Awadh, Mithila, Magadh |
-| **Brahmaputra Plain** | Assam | Braided channel; **bils** (ox-bows); floods |
+| **Brahmaputra Plain** | Assam | Braided channel with **bils** (ox-bows) and heavy floods |
 
 - A **doab** is the land between two rivers.
 
@@ -265,7 +265,7 @@ D. Oligocene
 
 | Eastern strip | Stretch |
 |---------------|---------|
-| **Utkal Coast** | Odisha; Mahanadi delta; Chilika |
+| **Utkal Coast** | Odisha coast with the Mahanadi delta and **Chilika** |
 | **Northern Circars** | Mahanadi to Krishna |
 | **Carnatic** | Krishna to Kaveri |
 | **Coromandel / Payan Ghat** | False Divi Point to Kanyakumari |
@@ -311,10 +311,10 @@ D. Oligocene
 
 | Range | Typical height | Rock / fossil fact |
 |-------|----------------|--------------------|
-| **Trans-Himalaya** | 3000–6500 m | Granitic; cold desert; **north of the Indus** |
-| **Himadri** (Greater) | generally **>6000 m** | Crystalline; **fossil-less**; permanent snow |
+| **Trans-Himalaya** | 3000–6500 m | Granitic cold desert **north of the Indus** |
+| **Himadri** (Greater) | generally **>6000 m** | Crystalline, **fossil-less**, with permanent snow |
 | **Himachal** (Lesser) | 3700–4500 m | Sedimentary; **marine fossils** |
-| **Shiwalik** (Outer) | 900–1100 m | Youngest; unconsolidated; **human remains** |
+| **Shiwalik** (Outer) | 900–1100 m | Youngest unconsolidated rocks; **human remains** |
 
 - The **Himadri** is the highest and most continuous range. It is crystalline (granite–gneiss) with a steep **south** face and gentler **north** face (**hogback**).
 - The **Himachal** belt holds most famous hill stations. **Pir Panjal**, **Dhauladhar**, **Mussoorie**, and **Nag Tibba** belong here.
@@ -334,7 +334,7 @@ D. Oligocene
 - High snow-covered ranges feed **perennial** Himalayan rivers (Indus, Ganga, Brahmaputra headwaters).
 - Altitude creates climate belts, so vegetation changes from tropical through temperate and alpine to nival.
 
-> ** note:All three** true: Greater = fossil-less; Lesser = marine fossils; Shiwalik = human remains. Youngest among usual options = **Himadri** (Aravalli is oldest). Snow-melt → perennial rivers (A/R both true, R explains A). Altitude → vegetation zonation (A/R both true, R explains A).
+> **Note:** All three fossil facts are true. Greater Himalaya is **fossil-less**. Lesser Himalaya carries **marine fossils**. Shiwalik carries **human remains**. Among usual options the **youngest** range is **Himadri** (Aravalli is oldest). Snow-melt feeds perennial rivers. Altitude creates vegetation zonation.
 
 **PYQ — UPPCS Prelims 2019, Q11**
 
@@ -457,7 +457,7 @@ D. 1, 2 and 3 are correct
 | **Rajmahal** | — | Jharkhand | — | Rajmahal Trap (volcanic) |
 | **Shevaroy** | — | Salem, Tamil Nadu | — | Eastern Ghats; **not** Tirupati |
 
-- Central India hills, **west to east:Satpura → Mahadeo → Maikal → Chhotanagpur**.
+- Central India hills run **west to east** as **Satpura**, then **Mahadeo**, then **Maikal**, then **Chhotanagpur**.
 
 ### Aravalli Range
 
@@ -732,20 +732,20 @@ D. Only 1
 **Easy idea first:** Earth spins once in 24 hours. Time is tied to **longitude** (north–south lines). Places farther **east** see sunrise **earlier**. India is wide enough for about **two hours** of natural solar difference, so one official line — the **Standard Meridian** — gives the whole country a **single clock time (IST)**.
 
 - The Standard Meridian of India is **82°30′ E** (also written **82.5° E**). The classic place centre is **Mirzapur, Uttar Pradesh** (Prayagraj / Allahabad belt). It is **not** Lucknow, Delhi, or “exactly at Prayagraj city.”
-- **IST = GMT / UTC + 5 hours 30 minutes.** India keeps **one** time zone for the whole country (mainland + islands). CSIR–NPL maintains the official time signal.
+- **IST** is **GMT / UTC + 5 hours 30 minutes**. India keeps **one** time zone for the whole country (mainland + islands). CSIR–NPL maintains the official time signal.
 
 **Why 82°30′ E, not 80° or 85°?**
 
 | Step | Easy fact |
 |------|-----------|
-| Earth | 360° in 24 h → **15° longitude = 1 hour** → **1° ≈ 4 minutes** |
+| Earth | 360° in 24 h means roughly **15°** of longitude per hour, or **1° ≈ 4 minutes** |
 | Offset maths | 82.5 ÷ 15 = **5.5 hours** = **5 h 30 min** ahead of GMT |
 | Why this line | It sits near the **middle** of India’s longitude span (~68° E to ~97° E), so west (Gujarat) and east (Arunachal / Andaman) share one national clock |
 
 - Natural solar gap across India is about **2 hours** (roughly 29° × 4 min). **Gujarat** clocks feel “early” vs sun; **Arunachal / Andaman** feel “late” vs sun — but **legal time is still IST everywhere**.
 - Sunrise is earlier in the **east** (Andaman / Arunachal) than in **Gujarat**. Do not reverse that.
 
-**Where the meridian passes (north → south)**
+**Where the meridian passes (north to south)**
 
 | State | Place / belt fact | trap |
 |-------|-------------------|-----------|
@@ -776,7 +776,7 @@ D. Only 1
 | 7 | **Tripura** |
 | 8 | **Mizoram** |
 
-- **Eight states only.** Memorise the W→E chain; do not invent a ninth.
+- **Eight states only.** Memorise the west-to-east chain; do not invent a ninth.
 - It does **not** pass through **Uttar Pradesh**.
 - It does **not** pass through **Ladakh** (Ladakh lies near 32°–36° N).
 - It does **not** pass through Bihar, Odisha, Maharashtra, Karnataka, Kerala, Tamil Nadu, Punjab, Haryana, Delhi, Assam, Nagaland, Manipur, Arunachal, Sikkim, Himachal, Uttarakhand, Goa, Andhra Pradesh, or Telangana.

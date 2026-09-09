@@ -106,7 +106,7 @@ Population geography asks **how many people live where**, **how that number chan
 
 - Population ≈ **121.09 crore**.
 - Density **382**, sex ratio **943**, child sex ratio **919**, literacy **74.04%** (age **7+**), urban share **31.16%**.
-- Decadal growth **2001–11 = 17.64%**.
+- Decadal growth for **2001–11** was **17.64%**.
 - Composition note: Scheduled Castes about **16.6%**; Scheduled Tribes about **8.6%**.
 
 ---
@@ -157,7 +157,7 @@ D. 1881
 
 ## N.2 Population Distribution
 
-People are unevenly spread across India. About half of India’s population is concentrated in a few large states led by **Uttar Pradesh, Maharashtra, Bihar, West Bengal and Andhra Pradesh** (2011 Andhra = undivided).
+People are unevenly spread across India. About half of India’s population is concentrated in a few large states led by **Uttar Pradesh, Maharashtra, Bihar, West Bengal and Andhra Pradesh**. The 2011 Andhra figure is for the undivided state.
 
 **Factors affecting distribution**
 
@@ -443,8 +443,8 @@ D. Neither 1 nor 2
 
 Migration in the Census means a change of residence. It changes both **size** and **composition** of population at origin and destination.
 
-- The four internal streams are rural→rural, rural→urban, urban→urban and urban→rural.
-- India’s **largest** internal migration stream is **rural → rural**.
+- The four internal streams are rural-to-rural, rural-to-urban, urban-to-urban and urban-to-rural.
+- India’s **largest** internal migration stream is **rural-to-rural**.
 - Female migration is classically linked with **marriage**.
 - Male migration is classically linked with **work / employment**.
 - **Immigration** means movement **into** a place; **emigration** means movement **out** of a place.
@@ -543,7 +543,12 @@ A Census **million city / urban agglomeration** has population ≥ **10 lakh** (
 - An **urban agglomeration (UA)** is a continuous urban spread that may include a city with its outgrowths and adjoining towns.
 - Census **2011** counted **53** million-plus UAs, up from **35** in 2001.
 - The largest UAs in the 2011 national list are led by **Greater Mumbai**, **Delhi** and **Kolkata**, followed by other metros such as Chennai, Bengaluru and Hyderabad.
-- Hierarchy terms: a **Class I** town has population ≥ **1 lakh**; a **million city** has ≥ **10 lakh**; a **megacity** in UN usage is often ≥ **10 million**; a **conurbation** is a merged urban sprawl of several towns. Use the definition given in the stem.
+- Hierarchy terms:
+- A **Class I** town has population ≥ **1 lakh**.
+- A **million city** has ≥ **10 lakh**.
+- A **megacity** in UN usage is often ≥ **10 million**.
+- A **conurbation** is a merged urban sprawl of several towns.
+- Use the definition given in the stem.
 - In Uttar Pradesh, **Kanpur** crossed 10 lakh in **1971** and **Lucknow** in **1981**.
 - UP UA size order in 2011 is **Kanpur > Lucknow > Ghaziabad > Agra**.
 - Million-city growth concentrates jobs, services and migrants, so these UAs pull strongly from surrounding rural districts.
@@ -589,7 +594,7 @@ D. Working population of 15 to 59 years
 **Demographic Transition Theory (Thompson; Notestein also appears in standard notes)**
 
 - Stage 1: high birth rate and high death rate.
-- Stage 2: death rate falls first → population explosion.
+- Stage 2: the death rate falls first, so population explodes.
 - Stage 3: birth rate falls.
 - Stage 4: low birth rate and low death rate.
 - India is generally framed in the later expanding / declining-growth phase after Stage 2–3 transition, not Stage 1.

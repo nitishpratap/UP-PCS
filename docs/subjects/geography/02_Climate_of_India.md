@@ -325,9 +325,9 @@ If the monsoon trough lies on the Ganga plain, rains are **active**. If it shift
 
 | Wind | Direction | Where | Cause | Effect |
 |------|-----------|-------|-------|--------|
-| **Trade winds** | East → west (NE trades in NH; SE trades in SH) | Between ~30° highs and the ITCZ | Air leaves subtropical high toward equatorial low; Coriolis turns it | Feed ITCZ rain; after equator crossing become India’s SW monsoon |
-| **Westerlies** | West → east | About **30°–60°** (both hemispheres) | Air leaves 30° high toward 60° low; Coriolis turns it | Mid-latitude storms; help steer Western Disturbances |
-| **Polar easterlies** | East → west | Polar high toward ~60° | Cold air leaves polar high; Coriolis turns it | Cold outbreaks; meet westerlies at the subpolar low |
+| **Trade winds** | East → west (NE trades in NH; SE trades in SH) | Between ~30° highs and the ITCZ | Air leaves subtropical high toward equatorial low; Coriolis turns it | Feed ITCZ rain; after equator crossing they become India’s SW monsoon |
+| **Westerlies** | West → east | About **30°–60°** (both hemispheres) | Air leaves 30° high toward 60° low; Coriolis turns it | Drive mid-latitude storms and help steer Western Disturbances |
+| **Polar easterlies** | East → west | Polar high toward ~60° | Cold air leaves polar high; Coriolis turns it | Bring cold outbreaks; meet westerlies at the subpolar low |
 
 Winter NE trades over India are mostly dry on land. Summer SE trades that cross the equator and turn right become the **south-west monsoon**. Westerlies exist in **both** hemispheres; they are not Southern Hemisphere only.
 
@@ -347,7 +347,7 @@ A monsoon is a seasonal reversal of wind. In summer, heated land draws moist oce
 | System | Months | Where the rain falls | Trap |
 |--------|--------|----------------------|------|
 | **South-west monsoon** | Jun–Sep | Most of India (~75–90% of annual rain) | TN SE coast stays **dry** |
-| **Retreating monsoon** | Sep–Nov | Withdrawal; **October heat**; BoB / Andaman Sea cyclones | Not WD winter rain |
+| **Retreating monsoon** | Sep–Nov | Withdrawal phase with **October heat** and BoB / Andaman Sea cyclones | Not WD winter rain |
 | **North-east monsoon** | Oct–Dec | **TN, south AP, SE Karnataka fringe, Puducherry, Karaikal** | Not all-India winter rain |
 | **Western Disturbances** | Nov–Feb (peak) | NW India rain/snow | Extra-tropical; **not** a monsoon |
 
@@ -389,7 +389,7 @@ Two standard explanations work together:
 
 | Branch | Path | Wet places | Dry / weak places |
 |--------|------|------------|-------------------|
-| **Arabian Sea branch** | Arabian Sea → Western Ghats → inland (also a stream toward central India / Ganga that later meets the Bay branch) | Konkan, Malabar, Goa; some rain into Gujarat / western MP | **Leeward Deccan**; TN rain shadow; **Chhattisgarh basin** is **not** much fed by this branch |
+| **Arabian Sea branch** | Arabian Sea → Western Ghats → inland (also a stream toward central India / Ganga that later meets the Bay branch) | Konkan, Malabar, Goa; some rain into Gujarat / western MP | Leeward Deccan and TN rain shadow; **Chhattisgarh basin** is little fed by this branch |
 | **Bay of Bengal branch** | BoB → NE India → curves west along Himalaya | Assam, Meghalaya, Ganga plain, UP, Bihar | TN coast (sits **parallel** — little orographic lift) |
 
 - The Tamil Nadu coast lies **parallel** to the Bay branch. There is little orographic lift. That is why the Tamil Nadu coast stays **dry in the south-west monsoon**.
@@ -449,9 +449,12 @@ D. Both true and R is the correct explanation
 
 | Type | Cause | India example |
 |------|------------|---------------|
-| **Orographic** | Moist wind is forced **up a mountain**, cools, rains on the windward side; leeward stays dry (rain shadow) | Western Ghats windward vs Deccan; Meghalaya scarp |
+| **Orographic** | Moist wind is forced **up a mountain**, cools, and rains on the windward side | Western Ghats windward vs Deccan; Meghalaya scarp |
 | **Convectional** | Hot ground heats air → air rises in a column → afternoon thunder showers | Pre-monsoon storms; parts of interior summer heating |
 | **Cyclonic / frontal** | Air rises in a **low-pressure storm** system | Monsoon depressions; Western Disturbances; Bay cyclones |
+
+- On the orographic path, the **leeward** side stays dry (rain shadow).
+- Cyclonic / frontal lift is the storm-system path for monsoon depressions, Western Disturbances and Bay cyclones.
 
 | Map line | Meaning |
 |----------|---------|
@@ -467,7 +470,7 @@ These two names cover the same autumn window, but they are not the same process.
 |---------|----------------------|--------------------|
 | Months | About **Sep–Nov** | About **Oct–Dec** |
 | Process | SW monsoon withdraws from north to south | Dry NE winds pick up Bay moisture and rain on the SE coast |
-| Signature | October heat; clear spells; Bay / Andaman Sea cyclones | Coromandel rain |
+| Signature | October heat, clear spells, and Bay / Andaman Sea cyclones | Coromandel rain |
 | Rain belt | Withdrawal rains + east-coast cyclone rains | TN, south AP, SE Karnataka, SE Kerala fringe, Puducherry, Karaikal |
 | North India | Mostly dry | Mostly dry |
 
@@ -477,16 +480,16 @@ These two names cover the same autumn window, but they are not the same process.
 
 ### Indian seasons (IMD)
 
-| Season | Months | Match |
-|--------|--------|-------|
-| Cold weather | December–February | Western Disturbance rain and snow in the north-west; fog and frost on the plains; rabi wheat |
-| Hot weather | March–May | **Loo**; Nor’westers; mango and blossom showers |
-| South-west monsoon | June–September | Main rain; **Tamil Nadu south-east coast stays dry** |
-| Retreating | October–November | Withdrawal; October heat; Bay / Andaman Sea cyclones; north-east monsoon starts on the south-east coast |
+| Season | Months | Main weather |
+|--------|--------|--------------|
+| Cold weather | December–February | Western Disturbance rain/snow in the north-west, fog on the plains, and the rabi season |
+| Hot weather | March–May | Loo heat waves, Nor’westers, and mango / blossom showers |
+| South-west monsoon | June–September | Main rainy season for most of India |
+| Retreating | October–November | Withdrawal, October heat, Bay cyclones, then NE monsoon on the SE coast |
 
-- **Cold weather (Dec–Feb):** north-west rain/snow from **Western Disturbances**; fog on the Indo-Gangetic plain; rabi wheat season. Most of India is dry under **NE trade / land winds**.
-- **Hot weather (Mar–May):Loo** heat waves; **Nor'westers** and pre-monsoon storms; **mango** and **blossom** showers in the south.
-- **South-west monsoon (Jun–Sep):** main rainy season; Tamil Nadu **south-east coast** stays relatively dry in this phase.
+- **Cold weather (Dec–Feb):** north-west rain and snow come from **Western Disturbances**. Fog is common on the Indo-Gangetic plain. This is the main **rabi** wheat season. Most of India stays dry under **NE trade / land winds**.
+- **Hot weather (Mar–May):** **Loo** heat waves strike the north-west plains. **Nor'westers** and other pre-monsoon storms hit the east. **Mango** and **blossom** showers appear in the south.
+- **South-west monsoon (Jun–Sep):** This is the main rainy season. Tamil Nadu’s **south-east coast** stays relatively dry in this phase.
 - **Retreating monsoon (Oct–Nov)** is the withdrawal of the southwest monsoon from the north-west.
 - The same season brings **October heat** and Bay of Bengal cyclones.
 - The **north-east monsoon** then begins to rain on the Tamil Nadu coast.
@@ -504,7 +507,7 @@ Western Disturbances are **extra-tropical** winter storms. They form near the Me
 | Gradient | Decreases **west → east** |
 | Farm link | Helps rabi wheat; also hail, fog, avalanche risk |
 
-> ** note:** Winter north-west rain = **Western Disturbances**. The rainfall gradient is **west to east**.
+> **Note:** Winter north-west rain comes from **Western Disturbances**. The rainfall gradient runs **west to east**.
 
 ---
 
@@ -536,7 +539,7 @@ Foehn / Chinook are warm-dry lee winds. They are not the same as cold night-time
 
 | Name | Region | Season | Character |
 |------|--------|--------|-----------|
-| **Loo** | RJ, PB, HR, UP, Bihar plains | May–June | Hot, dry, dust; heat-wave; **not** a thunderstorm |
+| **Loo** | RJ, PB, HR, UP, Bihar plains | May–June | Hot, dry dust and heat-wave; **not** a thunderstorm |
 | **Nor’wester / Kal Baisakhi** | WB, Assam, Odisha, Bihar, Jharkhand | April–May | Violent **thunderstorm**; hail, lightning |
 | **Mango showers** | **Kerala, Karnataka** | April–May | Pre-monsoon; mango ripening |
 | **Blossom / cherry showers** | TN, Kerala (coffee belt) | April–May | Coffee flowering |
@@ -628,7 +631,7 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 
 | Part | Meaning |
 |------|---------|
-| **Eye** | Calm centre; sinking air; clearer skies |
+| **Eye** | Calm centre with sinking air and clearer skies |
 | **Eyewall** | Ring of strongest winds and rain around the eye |
 | Spiral bands | Outer rain bands |
 
@@ -787,7 +790,7 @@ What happens step by step:
 5. Rain shifts toward the central / eastern Pacific.
 6. For India: monsoon circulation often becomes weaker. So El Niño years **tend** to give a **weaker** Indian monsoon / drought risk. This is a tendency, not a fixed law.
 
-**One-line fact:** El Niño = warm current off **Peru** → weak upwelling → less plankton → Indian monsoon often weak.
+El Niño is a warm current phase off **Peru**. Weak upwelling cuts nutrients, so plankton and fish fall. India’s monsoon often weakens in El Niño years.
 
 #### La Niña
 
@@ -800,15 +803,15 @@ What happens:
 3. Upwelling near Peru is strong.
 4. For India: monsoon often becomes **stronger** / wetter.
 
-**One-line fact:** La Niña = cool Peru side → Indian monsoon often strong.
+La Niña cools the Peru side of the Pacific. India’s monsoon often strengthens in La Niña years.
 
 #### What is ENSO then?
 
-**ENSO** = **El Niño + Southern Oscillation**.
+**ENSO** means **El Niño–Southern Oscillation**. It joins the ocean temperature change with the linked pressure swing.
 
-- El Niño / La Niña = the **ocean** temperature change.
-- Southern Oscillation = the linked **pressure** change between Darwin (Australia side) and Tahiti (Pacific side).
-- Together, ocean + pressure = ENSO.
+- El Niño and La Niña are the **ocean** temperature phases.
+- The Southern Oscillation is the linked **pressure** change between Darwin (Australia side) and Tahiti (Pacific side).
+- Ocean phase plus pressure swing together make ENSO.
 
 You do not need two separate stories. If a question says ENSO, think El Niño / La Niña family in the Pacific.
 

@@ -143,7 +143,7 @@ Type of settlement is read from **built-up form and inter-house spacing**, not f
 - A place is Census-urban if it is a **statutory town** (municipality, corporation, cantonment or notified town area) **or** a **census town**.
 - **Census town** needs all three together: population ≥ **5,000**, density ≥ **400**/km², and ≥ **75%** of **male main** workers in **non-agriculture**.
 - Census **2011** urban share is **31.16%** (~**37.7 crore** people; about **7,935** towns including statutory + census).
-- Urbanisation percentage = urban population ÷ total population × 100.
+- Urbanisation percentage is urban population divided by total population, times 100.
 - River-bank trap: Agra (Yamuna), Patna (Ganga), Kolkata (Hooghly) and Varanasi/Prayagraj (Ganga) are river towns; **Bhopal is not** on a major river bank.
 - A large village is **not** urban unless notified or it meets the census-town triple.
 
@@ -161,8 +161,8 @@ Rural settlement pattern differs for three NCERT reasons.
 
 | Type | Form | Where (India) — match this |
 |------|------|----------------------------|
-| **Clustered / nucleated / agglomerated** | Compact houses; living area **separate** from fields; streets may be rectangular / radial / linear | Fertile **alluvial plains**; also **NE plains**; **Rajasthan** (scarce water → cluster at well/oasis); **Bundelkhand + Nagaland** (defence) |
-| **Semi-clustered / fragmented** | One main cluster + groups pushed a little away | **Gujarat, Rajasthan** fragmentation. Dominant / land-owning community = **centre**; lower strata / menial workers = **outer flanks** |
+| **Clustered / nucleated / agglomerated** | Compact houses with living area **separate** from fields; streets may be rectangular, radial or linear | Fertile **alluvial plains**; also **NE plains**; **Rajasthan** (scarce water → cluster at well/oasis); **Bundelkhand + Nagaland** (defence) |
+| **Semi-clustered / fragmented** | One main cluster plus groups pushed a little away | **Gujarat** and **Rajasthan** fragmentation. The dominant / land-owning community sits at the **centre**; lower strata / menial workers sit on the **outer flanks** |
 | **Hamleted** | Several physically separated units, **one village name** | **Middle & lower Ganga**, **Chhattisgarh**, lower **Himalayan valleys** |
 | **Dispersed / isolated** | Isolated huts / tiny hamlets on hills, jungle, pasture slopes | **Meghalaya, Uttarakhand, Himachal, Kerala**; forests & hills of **North-East** |
 
@@ -234,8 +234,8 @@ Size (Census class) and function are **different** questions.
 |-------|------|
 | Ancient (~2000+ yrs) | **Varanasi, Prayag (Prayagraj), Pataliputra (Patna), Madurai** — religion / river / administration |
 | Medieval (~100 towns) | Fort / court HQ — **Delhi, Hyderabad, Jaipur, Lucknow, Agra, Nagpur** |
-| Modern — European foothold | First **ports**: Surat, Daman, Goa, Puducherry; then **Mumbai, Chennai, Kolkata**; hill stations as summer resorts; cantonments |
-| After Independence | New capitals **Chandigarh, Bhubaneswar, Gandhinagar, Dispur**; industrial **Durgapur, Bhilai, Sindri, Barauni** |
+| Modern — European foothold | First **ports** at Surat, Daman, Goa, Puducherry; later **Mumbai, Chennai, Kolkata**; hill stations as summer resorts; cantonments |
+| After Independence | New capitals such as **Chandigarh, Bhubaneswar, Gandhinagar, Dispur**; industrial towns such as **Durgapur, Bhilai, Sindri, Barauni** |
 | Satellite towns | Old towns pulled into a metro’s orbit — **Ghaziabad, Gurugram, Rohtak** around Delhi; Navi Mumbai / Thane around Mumbai |
 
 **Planned / new-town architects (extras)**
@@ -282,7 +282,7 @@ UP million+ **years** and UA order Kanpur > Lucknow > Ghaziabad > Agra.
 
 The **Smart Cities Mission** launched on **25 June 2015** under **MoHUA** for **100** cities. Each city implements the Mission through a city-level **SPV** under the Companies Act. The strategy pairs **Area-Based Development** (retrofit, redevelopment or greenfield) with **pan-city** ICT.
 
-**UP’s 10 Central / Mission cities** (2020 paper count = **10**) — learn **round** as well as the list:
+**UP’s 10 Central / Mission cities** (2020 paper count is **10**) — learn the **round** as well as the list:
 
 | Round | When | Cities |
 |-------|------|--------|
@@ -311,8 +311,8 @@ The **Smart Cities Mission** launched on **25 June 2015** under **MoHUA** for **
 | Social Aspects | **Tirupati** |
 | Urban Environment | **Bhopal** |
 
-Best cities in that cycle include **Indore + Surat**; Best **State = Uttar Pradesh**. Varanasi also won leadership / COVID / water awards in that cycle.
-**HRIDAY** (National Heritage City Development and Augmentation Yojana, **Jan 2015**, MoHUA) — **12** cities nationally. **UP = Varanasi + Mathura only** — not Prayagraj or Ayodhya.
+Best cities in that cycle include **Indore** and **Surat**. The best **state** is **Uttar Pradesh**. Varanasi also won leadership / COVID / water awards in that cycle.
+**HRIDAY** (National Heritage City Development and Augmentation Yojana, **Jan 2015**, MoHUA) covers **12** cities nationally. In **UP** only **Varanasi** and **Mathura** are in HRIDAY — not Prayagraj or Ayodhya.
 National 12 (for NOT-matched): Ajmer, Amravati, Amritsar, Badami, Dwarka, Gaya, Kanchipuram, **Mathura**, Puri, **Varanasi**, Velankanni, Warangal.
 
 > ** note:** Ghaziabad as a “Smart City” in 2018/2020 keys is **false**. State-2019 tag does not rewrite those papers.
@@ -357,17 +357,17 @@ D. 18
 
 ## N.6 Smart Villages & Scheme Years
 
-**Smart village / rurban** = urban-level amenities **without** wiping village social life. Nodal ministry = **MoRD**, not MoHUA.
+**Smart village / rurban** means urban-level amenities **without** wiping village social life. The nodal ministry is **MoRD**, not MoHUA.
 
 | Scheme | Year / fact | Trap |
 |--------|-------------|------|
-| **SPMRM** (Shyama Prasad Mukherji Rurban Mission) | Launch **21 Feb 2016** (Cabinet **16 Sep 2015**); **MoRD**; ~**300** clusters | **2015 ≠ launch year** (2023 NOT-matched) |
+| **SPMRM** (Shyama Prasad Mukherji Rurban Mission) | Launch **21 Feb 2016** (Cabinet **16 Sep 2015**); **MoRD**; about **300** clusters | **2015** is **not** the launch year (2023 NOT-matched) |
 | Sansad Adarsh Gram Yojana (SAGY) | **11 Oct 2014** | |
 | DDU-GKY | **2014** | |
 | Rural Housing Interest Subsidy Scheme | **2017** (that paper) | |
 | **JNNURM** | **2005** | Confusing with AMRUT |
 | National Urban Housing and Habitat Policy | **2007** | |
-| **AMRUT** | **June 2015**; ~**500** cities (all 1-lakh+ ULBs + capitals + HRIDAY cities + selected others) | 2005 |
+| **AMRUT** | **June 2015**; about **500** cities (all 1-lakh+ ULBs, capitals, HRIDAY cities and selected others) | 2005 |
 | **AMRUT 2.0** | **1 Oct 2021** — water security; all statutory towns | Calling it 2015 |
 | Jal Jeevan Mission | **2019** (Har Ghar Jal) | Putting it before AMRUT |
 | PMAY-U | **25 Jun 2015** (same day as Smart Cities) — housing neighbour, year fact only | |
@@ -459,7 +459,7 @@ D. Herbert Spencer
 | **Prayagraj** | Ancient Prayag; educational; Smart City round 3; **not** HRIDAY |
 | **Varanasi** | Ancient; religious–educational (BHU); HRIDAY; Smart City round 2 |
 | **Agra** | Medieval; tourist (Taj); Smart City round 2 |
-| **Aligarh** | Educational (AMU); facts (industry neighbour T8); Smart City round 3 |
+| **Aligarh** | Educational (AMU); industrial neighbour of the western UP belt; Smart City round 3 |
 | **Meerut** | Garrison / NCR satellite — **not** Central Smart-10 |
 | **Ghaziabad** | NCR satellite / large UA — **not** Central Smart-10 (State 2019 only) |
 | **Noida / Greater Noida** | Planned satellite of Delhi — **not** Mission-100 |
@@ -467,15 +467,15 @@ D. Herbert Spencer
 | **Bareilly / Moradabad / Jhansi** | Smart City round 4 / 3; Moradabad brass |
 | **Mathura** | Religious; **HRIDAY**; State Smart City 2019 (not Central-10) |
 | **Ayodhya** | Religious; State Smart City 2019; **not** HRIDAY |
-| **Singrauli belt (Sonbhadra)** | Mining / energy (T8) — mining-town type |
+| **Singrauli belt (Sonbhadra)** | Mining / energy belt — mining-town type |
+
 | Mission fact | Fact |
 |--------------|------|
-| Central Smart Cities | **10** — Ghaziabad **out** of Mission-100 |
+| Central Smart Cities | **10** — Ghaziabad is **out** of Mission-100 |
 | State Smart Cities (2019) | 7 Nagar Nigams — do **not** change 2018/2020 keys |
-| HRIDAY | **Varanasi + Mathura** only |
-| ISAC-2020 | UP = **best state** |
+| HRIDAY | **Varanasi** and **Mathura** only |
+| ISAC-2020 | UP is the **best state** |
 | NCR (UP slice) | Ghaziabad, Noida, Greater Noida, Meerut |
-| Million+ years / UA order | |
 
 ---
 

@@ -12,7 +12,7 @@
 > **Sources baked in:** NCERT Class 9–11, Champion–Seth vegetation + mangroves + biodiversity (Kullar), **Ghatnachakra** Natural Vegetation (CA–164–170), ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025 + older UPPCS/UKPCS vegetation questions
 > **Weight:** ★★★★ — type×rain×region, PA–state, UP Dudhwa/Ramsar, biosphere traps, Project chronology
 > **Last verified:** September 2026
-> **Current Affairs:Surha Tal (Ballia)** = India’s **100th Ramsar** (5 Jun 2026); UP **13**; MISHTI = Budget **2023–24** (not 2019)
+> **Current Affairs:** **Surha Tal (Ballia)** is India’s **100th Ramsar** (5 Jun 2026). UP now has **13**. **MISHTI** is the Budget **2023–24** mangrove programme (not 2019).
 
 ---
 
@@ -116,12 +116,12 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 
 Natural vegetation grows without human planting.
 
-- **“Vegetation is the true index of climate”** → **Thornthwaite**, not Köppen’s letter codes.
-- Controls: climate, soil, relief, biotic factors, time.
-- **Species diversity decreases equator → poles** (2019 Q58: “increases toward poles” is **false**).
+- **“Vegetation is the true index of climate”** is linked to **Thornthwaite**, not Köppen’s letter codes.
+- Controls include climate, soil, relief, biotic factors and time.
+- **Species diversity decreases from the equator toward the poles** (2019 Q58: “increases toward poles” is **false**).
 - Tropics / Amazon hold the peak diversity.
 - India is a **mega-biodiversity** country.
-- Four biodiversity **hotspots** touching India: **Himalaya, Western Ghats, Indo-Burma, Sundaland**.
+- Four biodiversity **hotspots** touch India: **Himalaya, Western Ghats, Indo-Burma and Sundaland**.
 
 NCERT five-type frame: Tropical Evergreen (& Semi-Evergreen) | Tropical Deciduous | Tropical Thorn | Montane | Littoral / Swamp (Mangrove).
 
@@ -135,9 +135,9 @@ NCERT five-type frame: Tropical Evergreen (& Semi-Evergreen) | Tropical Deciduou
 | **Montane** | altitude | Himalaya; S Indian hills (sholas) | Belts, not plains rainfall ladder; deodar 1500–2500 m west |
 | **Littoral / mangrove** | tidal | Ganga–Brahmaputra, Godavari–Krishna deltas + coasts | Sundari; pneumatophores; saline |
 
-- Moist vs dry deciduous = same monsoon-forest family, split by rain.
-- Evergreen ≠ “any green tree in monsoon India.”
-- Tea / rubber **estates** are plantations, not climax evergreen.
+- Moist and dry deciduous belong to the same monsoon-forest family, split by rain.
+- Evergreen does **not** mean “any green tree in monsoon India.”
+- Tea and rubber **estates** are plantations, not climax evergreen.
 
 **Champion and Seth (5 × 16 map)**
 
@@ -164,24 +164,35 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 
 **Rain table vs NCERT ladder**
 
-- **>200 cm** (many notes put wet evergreen above **250**): rain forest.
-- **100–200 cm**: monsoon deciduous (moist).
-- **50–100 cm**: drier deciduous / savanna-like.
-- **25–50 cm**: dry thorn (semi-arid).
-- **<25 cm**: desert.
-- NCERT thorn is **<50–70 cm**. Keep **moist deciduous = largest**. Do not mix two rain tables in one answer.
+- Rain above **200 cm** (many notes put wet evergreen above **250**): rain forest.
+- Rain of **100–200 cm**: monsoon deciduous (moist).
+- Rain of **50–100 cm**: drier deciduous / savanna-like.
+- Rain of **25–50 cm**: dry thorn (semi-arid).
+- Rain under **25 cm**: desert.
+- NCERT thorn is **under 50–70 cm**.
+- Keep **moist deciduous** as the **largest** type.
+- Do not mix two rain tables in one answer.
 
 ### Biodiversity
 
 - **Biodiversity** is the variety of life. It is split as **genetic**, **species**, and **ecosystem** (ecological) diversity.
-- **Species richness** = how many species. **Evenness** = how evenly they are abundant. Same richness can hide a few dominant species.
-- **Alpha** = diversity **inside** one ecosystem. **Beta** = change **between** ecosystems. **Gamma** = diversity of a whole **region**.
-- Species diversity **falls equator → poles**. Amazon is the peak. Insects are the richest animal group. Fungi outnumber fish+amphibians+reptiles+mammals combined.
-- India: about **2.4%** of land, about **7–8%** of recorded species, about **18%** of people. Mega-diverse.
+- **Species richness** counts how many species are present.
+- **Evenness** describes how evenly they are abundant.
+- Same richness can hide a few dominant species.
+- **Alpha** diversity is diversity **inside** one ecosystem.
+- **Beta** diversity is change **between** ecosystems.
+- **Gamma** diversity is diversity of a whole **region**.
+- Species diversity **falls from the equator toward the poles**.
+- Amazon is the peak.
+- Insects are the richest animal group.
+- Fungi outnumber fish, amphibians, reptiles and mammals combined.
+- India holds about **2.4%** of land, about **7–8%** of recorded species, and about **18%** of people — a mega-diverse country.
 - Genetic fact: more than **50,000** rice strains and about **1,000** mango varieties.
-- **Endemic** = found only in that place. Indigenous is not the same if it also lives elsewhere.
-- **Keystone** = lose it and the ecosystem shifts (top predators; some exclusive pollinators).
-- **Flagship** = public mascot (tiger, panda). **Foundation** = dominant structure-builder (coral, kelp).
+- An **endemic** species is found only in that place.
+- Indigenous is not the same if it also lives elsewhere.
+- A **keystone** species is one whose loss shifts the ecosystem (top predators; some exclusive pollinators).
+- A **flagship** species is a public mascot (tiger, panda).
+- A **foundation** species is a dominant structure-builder (coral, kelp).
 - India sits in **two realms**: Himalaya ≈ **Palearctic**; the rest ≈ **Indomalayan / Malayan**.
 - Five biomes: tropical humid forest · tropical dry/deciduous · desert/semi-desert · coniferous forest · alpine meadow.
 - Wildlife planning uses **10 biogeographic zones** (Trans-Himalaya, Himalaya, Desert, Semi-arid, Western Ghats, Deccan, Gangetic plain, North-east, Islands, Coasts) and about **25 provinces**.
@@ -191,7 +202,7 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 - **Himalaya** (whole Indian Himalaya, not a separate “east hotspot” plus “west hotspot”).
 - **Western Ghats and Sri Lanka**.
 - **Indo-Burma** (NE India and neighbours; **Nicobar is not** this box).
-- **Sundaland** = **Nicobar** (with Indonesia–Malaysia), **not** the Andaman group as the Sundaland fact.
+- **Sundaland** covers **Nicobar** (with Indonesia–Malaysia), **not** the Andaman group as the Sundaland fact.
 - UPSC 2010 trap listed “Eastern Himalayas, Western Himalayas, Western Ghats and Andaman–Nicobar.” That naming is **wrong**. Hotspots are also **not** tropics-only (Mediterranean, SW Australia, Chilean temperate forest).
 - Myers idea: high **endemism** plus heavy **habitat loss**. Do not equate four hotspots with **18** biosphere reserves.
 
@@ -208,8 +219,8 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 | Baobab | Savanna |
 | Cedars | Mediterranean |
 
-- 2019 Q1 code **2 3 1 4**.
-- 2019 Q3: Epiphytes–Equatorial, Acacia–Sahara, Baobab–Savanna, Cedars–Med → **2 3 4 1**.
+- 2019 Q1 order code is **2 3 1 4** for the standard world-vegetation match set.
+- 2019 Q3 matches Epiphytes–Equatorial, Acacia–Sahara, Baobab–Savanna and Cedars–Mediterranean in that order (code **2 3 4 1**).
 
 ---
 
@@ -289,8 +300,8 @@ India’s workhorse timber and wildlife forest. Also called **monsoon forests**.
 
 - Large tracts of both deciduous types have been **cleared for crops**.
 - Fire and grazing thin what remains.
-- UP north belt = Terai teak–sal.
-- UP south belt = Vindhyan Sonbhadra–Mirzapur–Chandauli.
+- UP’s north belt is Terai teak–sal.
+- UP’s south belt is Vindhyan Sonbhadra–Mirzapur–Chandauli.
 - **Butea monosperma** (**Palash / Dhak**) is called the **flame of the forest**.
 - It is the **state flower of Uttar Pradesh**.
 - It also appears in thorn / dry belts as **palas**.
@@ -343,7 +354,7 @@ Montane forests are an **altitude elevator**, not a plains rain ladder. Above ab
 
 **Logic:** Different Himalayan vegetation appears **because** climate changes with altitude (2025 Q21 — A and R both true; R explains A).
 
-#### Quick Himalayan stack (foothills → snow)
+#### Quick Himalayan stack (foothills up to snow)
 
 | Height (approx.) | Belt | What you see |
 |------------------|------|--------------|
@@ -457,9 +468,9 @@ Salt-tolerant **halophytes**. They grow in fresh **or brackish** water. Also cal
 
 **Core match facts**
 
-- **Sundarbans** (*sundari* / *Heritiera*) = largest single tidal mangrove block.
-- Sundarbans = Royal Bengal Tiger and crocodile country.
-- Sundarbans = **littoral / tidal** forest — not dry deciduous, not alpine.
+- The **Sundarbans** (*sundari* / *Heritiera*) form the largest single tidal mangrove block.
+- The Sundarbans are Royal Bengal Tiger and crocodile country.
+- The Sundarbans are **littoral / tidal** forest — not dry deciduous, not alpine.
 - **Bhitarkanika (Odisha)** is the usual **second** Indian mangrove fact.
 
 | Mangrove pocket | State |
@@ -475,7 +486,8 @@ Salt-tolerant **halophytes**. They grow in fresh **or brackish** water. Also cal
 - Swamp forests hug the Ganga, Mahanadi, Godavari, Krishna, and Cauvery deltas.
 - Old uses were fuelwood and boat timber.
 - NCERT order-of-magnitude: India holds a notable share of world mangroves (~7% in older NCERT figure).
-- **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) = Budget **2023–24** restoration — **not initiated 2019** (2025 Q93 **Only 2**).
+- **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) is the Budget **2023–24** restoration programme.
+- It was **not initiated in 2019** (2025 Q93 **Only 2**).
 
 **Species & product facts (Ghatnachakra)**
 
@@ -515,8 +527,8 @@ D. Stamp
 
 **FSI** publishes **India State of Forest Report (ISFR)**.
 
-- **Forest cover** = canopy mapped by satellite.
-- **Recorded Forest Area (RFA)** = legal notification.
+- **Forest cover** is canopy mapped by satellite.
+- **Recorded Forest Area (RFA)** is legal notification.
 - Do **not** mix cover % with recorded forest %.
 
 | PYQ figure | Fact |
@@ -527,9 +539,9 @@ D. Stamp
 | ISFR **2023** UP >20% districts | **Chandauli + Shravasti** — **not Bahraich** (2025 Q8 → 2 and 3) |
 | Eastern plain belt | Jaunpur, Ghazipur, **Ballia** ≈ near-nil **forest land** — wetland still possible |
 
-- Forest Policy **1988** national goal = **33%** forest/tree cover .
-- Legal admin classes: **Reserved / Protected / Unclassed** — not the same as NCERT climate types.
-- Social / farm forestry = people-centric planting outside dense natural forest (Class 9).
+- Forest Policy **1988** set a national goal of **33%** forest/tree cover.
+- Legal admin classes are **Reserved**, **Protected** and **Unclassed** — not the same as NCERT climate types.
+- Social / farm forestry is people-centric planting outside dense natural forest (Class 9).
 
 ---
 
@@ -578,11 +590,11 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 | **Conservation / Community Reserve** | WLPA later additions — community/landscape gaps |
 | **Tiger Reserve** | NTCA unit (core+buffer); may contain NP + WLS |
 
-- **In-situ** = in natural habitat (NP, WLS, BR, sacred groves).
-- **Ex-situ** = zoo, **botanical garden**, seed bank, captive breeding.
+- **In-situ** conservation keeps species in their natural habitat (NP, WLS, BR, sacred groves).
+- **Ex-situ** conservation uses zoos, **botanical gardens**, seed banks and captive breeding.
 - 2018 Q54: botanical garden is **NOT** in-situ.
 - 2023: genetic diversity in NPs is maintained through **in-situ** conservation.
-- Chronology (2019 Q67 / 2020 Q77): **WLPA 1972 → Project Tiger 1973 (1 Apr) → Project Elephant 1992 → BDA 2002**.
+- Chronology (2019 Q67 / 2020 Q77): **WLPA 1972**, then **Project Tiger 1973 (1 Apr)**, then **Project Elephant 1992**, then **BDA 2002**.
 - Other projects: Project Rhino, Project Great Indian Bustard.
 - 2018 Q45 options omit 1973; many keys pick **1972** — for open recall write **1973**.
 - India has **18** Biosphere Reserves; **Nilgiri (1986)** is the first.
@@ -632,9 +644,9 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 | Dibru-Saikhowa | Assam | |
 | Dehang-Debang | Arunachal | |
 
-- 2024 Q10: Simlipal–OD, Nokrek–ML, Agasthyamalai–KL, Manas–AS → **2 4 1 3**.
-- 2021 Q140: Similipal–OD, Pachmarhi–MP, Nandadevi–UK, Nokrek–ML → **4 3 1 2**.
-- 2025 Q144 **NOT** matched: **Only Nokrek–Manipur**.
+- 2024 Q10 order is Simlipal–Odisha, Nokrek–Meghalaya, Agasthyamalai–Kerala, Manas–Assam (code **2 4 1 3**).
+- 2021 Q140 order is Similipal–Odisha, Pachmarhi–Madhya Pradesh, Nandadevi–Uttarakhand, Nokrek–Meghalaya (code **4 3 1 2**).
+- 2025 Q144 **NOT** matched pair is **Only Nokrek–Manipur**.
 
 **PYQ — UPPCS Prelims 2018, Q54**
 
@@ -688,7 +700,7 @@ D. Sacred groves
 
 ### UP Ramsar (learn IN vs NOT)
 
-**UP total = 13** (June 2026). January 2020 added **+6** Ramsar sites to UP.
+**UP total is 13** (June 2026). January 2020 added **six** Ramsar sites to UP.
 
 | # | Ramsar site (IN UP) | District / belt |
 |---|---------------------|-----------------|

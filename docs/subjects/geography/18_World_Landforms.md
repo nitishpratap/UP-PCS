@@ -150,15 +150,17 @@ Seven continents by **area** (largest → smallest):
 | 6 | **Europe** | ~9.9 million | ~6.8% | ~49 |
 | 7 | **Australia** | ~7.7 million | ~5.9% | Oceania ~14 in wider lists |
 
-- **Smallest continent** = Australia. **Two smallest** among classic sets = **Australia and Europe**.
+- The **smallest continent** is Australia.
+- The **two smallest** among classic sets are **Australia and Europe**.
 - **Highest mean elevation** belongs to **Antarctica** (about **2300 m**). Approximate coaching means after that are Asia (~923 m), North America (~760 m), Africa (~585 m), South America (~554 m), Australia (~330 m), and Europe (~302 m).
-- **Highest % plains** in total area = **Europe** (then South America among large shares).
-- **Maximum per capita land** (World Bank-type coaching) = **Australia**.
+- The **highest share of plains** in total area belongs to **Europe** (then South America among large shares).
+- **Maximum per capita land** in World Bank-type coaching belongs to **Australia**.
 - Africa alone is crossed by **Cancer, Capricorn and Equator**.
-- **Guyana** = South America (Georgetown; English official) — not Africa with Gabon / Guinea / Guinea-Bissau.
-- Asia borders: Ural–Caspian–Black–Mediterranean vs Europe; Red Sea / Suez vs Africa; Bering Strait vs North America.
-- Panama Canal separates N and S America. Latin America = South America + Middle America + Mexico + West Indies framing.
-- Antarctica = coldest, driest, windiest, highest average elevation.
+- **Guyana** is in South America (Georgetown; English is official). Do not place it in Africa with Gabon, Guinea or Guinea-Bissau.
+- Asia’s borders run along the Urals–Caspian–Black Sea–Mediterranean versus Europe, the Red Sea / Suez versus Africa, and the Bering Strait versus North America.
+- The Panama Canal separates North and South America.
+- Latin America framing covers South America, Middle America, Mexico and the West Indies.
+- Antarctica is the coldest, driest and windiest continent, with the highest average elevation.
 
 **Order for this chapter after continents:** mountains → plateaus → valleys → plains → volcanoes → islands → deserts → biomes.
 
@@ -170,7 +172,7 @@ Seven continents by **area** (largest → smallest):
 
 | Family | Force / story | World examples |
 |--------|---------------|----------------|
-| **Fold** | Compression (orogeny) | Himalaya, Alps, Andes, Rockies, Atlas, Pyrenees, Zagros; **Appalachians** = old worn fold |
+| **Fold** | Compression (orogeny) | Himalaya, Alps, Andes, Rockies, Atlas, Pyrenees, Zagros. The **Appalachians** are an old worn fold |
 | **Block / fault / rift** | Tension / uplifted blocks | Vosges, Black Forest, Sierra Nevada; African rift shoulders (**Kilimanjaro, Kenya, Rwenzori**) |
 | **Volcanic cone** | Magma | Fuji, Etna, Cotopaxi, Mauna Loa — location table in **N.4** |
 | **Residual / dome** | Old highland left after long denudation; or magma push (dome) | Residual leftovers of old folds (Appalachian-type worn highlands); **Black Hills** / laccolith **dome** |
@@ -199,20 +201,20 @@ Seven continents by **area** (largest → smallest):
 | **Karakoram** | PK–India–China | **K2**. Not a Himalaya “range name” swap |
 | **Rockies** | W Canada–USA–Mexico fringe | Young cordillera. **Not** the Appalachians |
 | **Appalachians** | **Eastern** USA | **Old** fold; worn; coal fields |
-| **Alps** | France–Switzerland–Austria–Italy | **Mont Blanc**. Switzerland is the classic “Alps” country fact. Foehn = warm downslope on the **north** side |
+| **Alps** | France–Switzerland–Austria–Italy | **Mont Blanc**. Switzerland is the classic Alps country. The foehn is a warm downslope wind on the **north** side |
 | **Pyrenees** | **Spain–France** (Andorra) | **Not** Alps |
 | **Apennines** | **Italy** | Spine of the peninsula |
 | **Balkans** | **Bulgaria** / SE Europe | Not Carpathians |
-| **Carpathians** | Romania / Slovakia / Ukraine | Transylvania arc — do not place on Bulgaria in MCQs |
-| **Caucasus** | Russia–Georgia–Azerbaijan | **Elbrus** = Europe’s high point |
+| **Carpathians** | Romania / Slovakia / Ukraine | Transylvania arc — do not place on Bulgaria |
+| **Caucasus** | Russia–Georgia–Azerbaijan | **Elbrus** is Europe’s high point |
 | **Urals** | Russia | Conventional **Europe–Asia** divide |
-| **Atlas** | Morocco–Algeria–Tunisia | Highest peak **Toubkal = Morocco** (not Algeria) |
+| **Atlas** | Morocco–Algeria–Tunisia | Highest peak **Toubkal** is in **Morocco** (not Algeria) |
 | **Drakensberg** | South Africa / Lesotho | SE African escarpment |
 | **Ethiopian Highlands** | Ethiopia | Blue Nile / Lake Tana source side |
 | **Rwenzori** | Uganda–DRC | **Mt Stanley** — country fact **Uganda** |
 | **Hoggar / Ahaggar** | **Algeria** | Sahara highland. **Not** Atlas |
 | **Tibesti** | Chad | Sahara highland |
-| **Zagros / Elburz** | Iran | Zagros = west fold; Elburz = north, **Damavand** |
+| **Zagros / Elburz** | Iran | Zagros is the west fold. Elburz is the north range, with **Damavand** |
 | **Tien Shan / Altai** | C Asia | Syr Darya / Ob headwaters |
 | **Kunlun** | N of Tibet | Tibet’s northern wall |
 | **Great Dividing Range** | Eastern Australia | Old; not Himalaya-young; ~3700 km; Mt Kosciuszko |
@@ -232,11 +234,16 @@ Seven continents by **area** (largest → smallest):
 
 **Length pair (surface ranges):** Andes (~7000–8900 km) > Rockies (~4800) > Great Dividing (~3700) > Himalaya (~2500).
 
-**Orogeny age pairs:** Alps, Andes, Himalaya, Rockies, Atlas = **Tertiary / young fold**. Appalachians = **Caledonian / old**. Aravalli = Pre-Cambrian. Black Forest / Vosges / Tien Shan type = Hercynian note. **Sierra Nevada** = world’s most extensive **block** range framing (California) — **not** a young folded mountain like Rockies/Alps/Himalaya.
+**Orogeny age pairs**
+- The Alps, Andes, Himalaya, Rockies and Atlas are **Tertiary / young fold** mountains.
+- The Appalachians are **Caledonian / old**.
+- The Aravalli is Pre-Cambrian.
+- Black Forest, Vosges and Tien Shan-type ranges carry a Hercynian note.
+- The **Sierra Nevada** is framed as the world’s most extensive **block** range (California). It is **not** a young folded mountain like the Rockies, Alps or Himalaya.
 
-**Phrase:** **British Columbia** = “**Sea of Mountains**” (Molyneux St John / Dufferin tour note).
+**Phrase:** **British Columbia** is called the “**Sea of Mountains**” (Molyneux St John / Dufferin tour note).
 
-**Golan Heights** = Middle East basaltic plateau (SW Syria; 1967 occupation note) — not Central Asia / SE Asia / Central Africa.
+The **Golan Heights** is a Middle East basaltic plateau in south-west Syria (with a 1967 occupation note). It is not in Central Asia, South-East Asia or Central Africa.
 
 **African / Andes peaks that come as a four-row match**
 
@@ -381,7 +388,7 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 | **Shan** | Myanmar | Fluvial / tableland note |
 | **Telegraphic Plateau** | **North Atlantic Ridge** (Newfoundland–Ireland note) | **Not** Indian Ocean |
 
-> ** note:** Tibet ≈ **4500 m+** average — closest option often **5 km**. **Pamir** = stock “Roof of the world” (also applied loosely to Tibet). **Patagonia Plateau** = “storehouse of minerals” in South America coaching keys. **Madrid** sits on the **Meseta**. Among Coconino / Aquarius / Colorado / Columbia size options, **Colorado** is largest; world’s largest plateau remains **Tibetan**.
+> ** note:** Tibet ≈ **4500 m+** average — closest option often **5 km**. The **Pamir** is stock “Roof of the world” (also applied loosely to Tibet). The **Patagonia Plateau** is “storehouse of minerals” in South America coaching keys. **Madrid** sits on the **Meseta**. Among Coconino / Aquarius / Colorado / Columbia size options, **Colorado** is largest; world’s largest plateau remains **Tibetan**.
 
 ---
 
@@ -670,7 +677,14 @@ Deserts are arid lands (often **< 25 cm** rain) with sparse xerophytic vegetatio
 
 **2023 size ladder (smallest → largest):** Great Sandy → **Gobi** → **Arabian** → **Sahara**. Code **I, IV, II, III**.
 
-**Extra GC pairs:** Deserts ≈ **< 25 cm** annual rain. Hot deserts on **western** margins ~**15–30°**. Knies note — deserts receive more solar energy in ~6 hours than humanity uses in a year. **Thar** = most densely populated desert. **Europe** = least desertification problem among continents (essentially no true hot desert). Kalahari = **Southern Hemisphere** (Botswana + Namibia + SA). African–Eurasian desert belt sits under subtropical highs — **not** mainly warm currents.
+**Extra GC pairs**
+- Deserts usually receive **under 25 cm** of annual rain.
+- Hot deserts sit on **western** continental margins near **15–30°**.
+- Knies note — deserts receive more solar energy in about 6 hours than humanity uses in a year.
+- The **Thar** is the most densely populated desert.
+- **Europe** has the least desertification problem among continents (essentially no true hot desert).
+- The Kalahari sits in the **Southern Hemisphere** (Botswana, Namibia and South Africa).
+- The African–Eurasian desert belt sits under subtropical highs — **not** mainly because of warm currents.
 
 > ** note:** Kazakhstan has **other** dry belts (Kyzylkum fringe, steppe). That does **not** put Gobi into option 4.
 
@@ -762,7 +776,9 @@ D. Gibson – Brazil
 
 ## N.7 Grasslands
 
-**Tropical** grassland = **savanna** (summer rain, scattered trees). **Temperate** grassland = prairie / pampas / steppe / veld / downs (hot summer, cold winter, few trees).
+**Tropical** grassland is **savanna** — summer rain with scattered trees.
+
+**Temperate** grassland covers prairie, pampas, steppe, veld and downs — hot summers, cold winters and few trees.
 
 - Temperate grasslands often sit on fertile **chernozem / black earth** (especially Eurasian **steppe** and North American **prairie**) — the world’s wheat belts.
 - They are treeless mainly because rainfall is **too low for forest**, not because it is always freezing.
@@ -782,17 +798,17 @@ D. Gibson – Brazil
 | **Sahel** | S of Sahara | Semi-arid fringe | Not the same as savanna core |
 | **Gran Chaco** | Paraguay–N Argentina–Bolivia | Dry woodland/grass | Not Pampas |
 
-**“Land of Big Games”** = **Tropical Savanna**. Temperate grassland = farms and cattle, not the lion–zebra poster. Hot desert is **not** this label.
+The label **“Land of Big Games”** belongs to the **Tropical Savanna**. Temperate grassland is farms and cattle, not the lion–zebra poster. Hot desert is **not** this label.
 
-**Latitude pairs:** Tropical savanna ~**10–25°** N/S (between tropics). Temperate grasslands ~**30–45°** (can stretch toward **50°N** where landmass is wide).
+**Latitude pairs:** Tropical savanna sits near **10–25°** N/S (between the tropics). Temperate grasslands sit near **30–45°** (and can stretch toward **50°N** where the landmass is wide).
 
-**Selvas (Selva)** = Amazon **tropical rainforest**, not a grassland name. **Downs** = **temperate** (Australia), not tropical.
+**Selvas (Selva)** names the Amazon **tropical rainforest**, not a grassland. **Downs** are **temperate** Australian grasslands, not tropical.
 
-**Savanna forest check (IAS-type):** trees stay sparse mainly because of **fire + grazing herbivores + seasonal rainfall** (not burrowing animals / soil alone as the lead trio).
+**Savanna forest check (IAS-type):** trees stay sparse mainly because of **fire, grazing herbivores and seasonal rainfall** (not burrowing animals or soil alone as the lead trio).
 
-**Pampas A/R:** fertile soils + temperate climate → Argentina’s main cultivation / cattle region — Reason correctly explains Assertion when both are true.
+**Pampas A/R:** fertile soils plus temperate climate make Argentina’s main cultivation and cattle region — Reason correctly explains Assertion when both are true.
 
-Paper spelling **Welds / Velds** = South Africa. **Pustaz / Puszta** = Hungary.
+Paper spelling **Welds / Velds** means South Africa. **Pustaz / Puszta** means Hungary.
 
 **Inline PYQ — UPPCS Prelims 2018, Q26**
 
@@ -840,7 +856,12 @@ D. Tropical Savanna Region
 
 ## N.8 Vegetation (world belts)
 
-**Forest cover pairs (Bhutan forest constitution):** Bhutan’s constitution targets **≥60%** forest (actual cover higher). Among common options Japan has a high % cover. Softwood/conifer belt = **taiga** (largest forest area type). Amazon **Selva** = broadleaf evergreen. Tropical rainforest soil is **nutrient-poor** despite high productivity — cleared rainforest does **not** stay fertile like temperate clearings.
+**Forest cover pairs (Bhutan forest constitution)**
+- Bhutan’s constitution targets **≥60%** forest (actual cover is higher).
+- Among common options Japan has a high percentage cover.
+- The softwood/conifer belt is the **taiga** (largest forest-area type).
+- Amazon **Selva** is broadleaf evergreen rainforest.
+- Tropical rainforest soil is **nutrient-poor** despite high productivity. Cleared rainforest does **not** stay fertile like temperate clearings.
 
 Walk **equator → pole** (one row each):
 
@@ -868,7 +889,7 @@ Walk **equator → pole** (one row each):
 
 Code **2 3 1 4**.
 
-**Plant → region** (2019 Q3; paper **Buobab** = baobab):
+**Plant → region** (2019 Q3; paper The **Buobab** is baobab):
 
 | Plant | Region |
 |-------|--------|
@@ -886,9 +907,9 @@ Code **2 3 4 1**.
 
 **Other tags**
 
-- **Planting hearth** = C.O. **Sauer** (origin of agriculture).
-- **World floral regions** = Adolf **Engler**.
-- **Puszta** = Hungary (grassland, not a forest).
+- **Planting hearth** is C.O. **Sauer** (origin of agriculture).
+- **World floral regions** is Adolf **Engler**.
+- **Puszta** is Hungary (grassland, not a forest).
 - 2024 Q29 code **3 4 2 1**.
 
 **Inline PYQ — UPPCS Prelims 2019, Q1**
@@ -947,7 +968,7 @@ D. 2 4 1 3
 
 **Ans: A** — Epiphytes–Equatorial · Acacia–Sahara · Baobab–Savanna · Cedars–Mediterranean.
 
-Trap **C** swaps baobab onto Sahara (baobab is savanna). **Buobab** on the paper = baobab.
+Trap **C** swaps baobab onto Sahara (baobab is savanna). The paper spelling **Buobab** means baobab.
 
 </details>
 

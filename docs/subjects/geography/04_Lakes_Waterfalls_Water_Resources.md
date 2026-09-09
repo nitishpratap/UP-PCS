@@ -14,7 +14,7 @@
 > **Sources baked in:** NCERT Geography Class 11 (drainage / landforms), Class 12 (Water Resources), lake classification + waterfall + groundwater notes, Drishti / PW water-resources heads, **Ghatnachakra** Irrigation & Canals (CA–171–177), **Ghatnachakra** Multipurpose River Valley (CA–178–195), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Chilika vs Sambhar vs Wular, Kunchikal ≠ Jog, dam–river / multipurpose (SSP–NBA, DVC 1948, Sidrapong), Ramganga specs, Bhutan hydro, UP Ramsar
 > **Last verified:** August 2026
-> **Current Affairs:** India **100 Ramsar** (5 Jun 2026); UP **13** — 100th = **Surha Tal / JP Narayan BS, Ballia**
+> **Current Affairs:** India reached **100 Ramsar** sites on **5 Jun 2026**. UP has **13**. The 100th is **Surha Tal / JP Narayan BS, Ballia**.
 
 ---
 
@@ -207,7 +207,7 @@ Ask: *How was the hollow made?*
 | **Wind / playa** | Desert hollow, water evaporates | **Sambhar** belt | Using Sambhar for every “saline” question |
 | **Artificial** | Reservoir behind a dam | Gobind Sagar, Hirakud, Tehri, Pant Sagar | Treating them as natural glacial lakes |
 
-**Quick read:** Size/chemistry table answers “largest saline / lagoon / freshwater.” Origin table answers “oxbow / crater / tectonic / glacial.” Same lake can appear in both (Wular = freshwater **and** tectonic; Chilika = lagoon **and** bar origin).
+**Quick read:** The size/chemistry table answers “largest saline / lagoon / freshwater.” The origin table answers “oxbow / crater / tectonic / glacial.” The same lake can appear in both — **Wular** is freshwater **and** tectonic; **Chilika** is a lagoon **and** bar-origin water body.
 
 ### Origin types
 
@@ -260,7 +260,10 @@ Ask: *How was the hollow made?*
 - **Pulicat** straddles Andhra Pradesh and Tamil Nadu. It is the second-largest brackish / lagoon water body after Chilika.
 - **Sriharikota** bars Pulicat from the Bay of Bengal. The Satish Dhawan space centre sits on that spit.
 - **Vembanad** (also Vembanad Kayal / Vembanad–Kol) lies on Kerala’s **west coast** (Malabar / southwest coast), separated from the Laccadive Sea by a narrow barrier. It borders **Alappuzha, Kottayam, and Ernakulam**.
-- It is the **largest lake in Kerala** and the **longest lake in India** (~96 km). Do **not** call it India’s overall largest lake — that crown splits by type (Chilika = lagoon / often largest saline; Wular = freshwater volume).
+- It is the **largest lake in Kerala** and the **longest lake in India** (~96 km).
+- Do **not** call it India’s overall largest lake — that crown splits by type.
+- **Chilika** is the lagoon / often largest saline answer.
+- **Wular** is the freshwater volume answer.
 - The wider **Vembanad–Kol wetland** is often called India’s largest wetland system on the southwest coast and a major **brackish** tropical wetland. It is a **Ramsar** site (2002).
 - It is a **kayal** (Kerala backwater / lagoon-type water body), not an inland desert lake. The Nehru Trophy boat race and Kumarakom tourism belt are the culture facts.
 - **Ashtamudi** (“eight branches”) is a palm-shaped Kerala backwater Ramsar site in Kollam.
@@ -565,38 +568,52 @@ D. Kevti fall
 | **Tulbul** | **Jhelum** at **Wular** | J&K | Navigation/storage; IWT sensitivity; ≠ Baglihar (Chenab) |
 | **Ramganga** (Kalagarh) | Ramganga | **Garhwal (UK)**; command in UP | Length **825.8 m**; power **198 MW**; irrig **~5.75–5.90 lakh ha ≠ 6** |
 
-> **Note:** Ramganga peculiarities — length 825.8 m, 198 MW, Garhwal = correct; **Irrigated area – 6 lakh hectares** is the wrong pair (UPPCS 2024, Q72).
+> **Note:** Ramganga peculiarities — length 825.8 m, 198 MW, Garhwal are correct. **Irrigated area – 6 lakh hectares** is the wrong pair (UPPCS 2024, Q72).
 
 ### Multipurpose valley cards (Ghatnachakra)
 
 **Narmada Valley Project**
 
 - Planned as one of the world’s largest valley programmes: about **30 major**, **135 medium**, and **3,000** small dams / barrages on the Narmada and tributaries.
-- Mega dams: **Sardar Sarovar (SSP)** in Gujarat and **Indira Sagar / Narmada Sagar** in MP.
+- Mega dams include **Sardar Sarovar (SSP)** in Gujarat and **Indira Sagar / Narmada Sagar** in MP.
 - Cascade in MP also includes **Bargi, Omkareshwar, Maheshwar**, plus smaller projects such as **Tawa, Barna, Kolar, Sukta, Matiyari** (Tawa ~**13.5 MW**; Hoshangabad belt between Satpura NP and Bori WLS).
 - Tributary projects include **Man**, **Chandra Shekhar Azad** (Hathani), and **Upper Veda**.
 - **Ban Sagar** is on the **Son** — **not** a Narmada dam. Do not put it in the Narmada list with Bargi / Omkareshwar / Indira Sagar.
-- **Narmada Bachao Andolan**: Medha Patkar organised project-affected people from **1986**; local groups merged as **NBA** in **1989**. The movement opposed raising SSP height; Supreme Court stressed rehabilitation.
+- **Narmada Bachao Andolan** grew when Medha Patkar organised project-affected people from **1986**.
+- Local groups merged as **NBA** in **1989**.
+- The movement opposed raising SSP height.
+- The Supreme Court stressed rehabilitation.
 
 **Bhakra–Nangal**
 
-- Joint venture of **Punjab, Haryana and Rajasthan** on the **Sutlej**. Command also expands into **Himachal**.
-- Two linked works at **Bhakra** and **Nangal**; reservoir = **Gobind Sagar**.
+- Joint venture of **Punjab, Haryana and Rajasthan** on the **Sutlej**.
+- Command also expands into **Himachal**.
+- Two linked works stand at **Bhakra** and **Nangal**.
+- The reservoir is **Gobind Sagar**.
 
 **Cauvery hydro & dispute**
 
-- **Shivasamudram** (1902) = second-oldest Indian hydro; **KRS (Krishna Raja Sagara)** profile often tagged to **M. Visvesvaraya**.
-- **Cauvery River Water Dispute** parties: **Tamil Nadu, Karnataka, Kerala, Puducherry** (not Gujarat).
+- **Shivasamudram** (**1902**) is the second-oldest Indian hydro work.
+- The **KRS (Krishna Raja Sagara)** profile is often tagged to **M. Visvesvaraya**.
+- **Cauvery River Water Dispute** parties are **Tamil Nadu, Karnataka, Kerala and Puducherry** (not Gujarat).
 
 **Chambal Valley Project**
 
-- Joint **Madhya Pradesh–Rajasthan** chain on the Chambal (rises near **Janapav / Mhow**, joins Yamuna near Etawah): **Gandhi Sagar (MP, Mandsaur; first; 1957–60)**, **Rana Pratap Sagar (RJ, Rawatbhata)**, **Jawahar Sagar (RJ)**, then **Kota Barrage**.
+- This is a joint **Madhya Pradesh–Rajasthan** chain on the Chambal.
+- The Chambal rises near **Janapav / Mhow** and joins the Yamuna near Etawah.
+- **Gandhi Sagar** (MP, Mandsaur) came first (**1957–60**).
+- **Rana Pratap Sagar** (RJ, Rawatbhata) follows.
+- **Jawahar Sagar** (RJ) and then **Kota Barrage** complete the chain.
 - **Gobind Sagar** (Bhakra) and **Govind Ballabh Pant Sagar** (Rihand, Sonbhadra) are **not** Chambal dams.
 
 **Damodar Valley (DVC)**
 
-- Damodar = **“Sorrow of Bengal”** (fast upper course, sluggish lower course → floods / silt). **DVC** established **1948** — the **first multipurpose river-valley project of independent India**.
-- **Tilaiya, Maithon, Belpahari** on the **Barakar**; **Konar** on the Konar; **Panchet** on the Damodar. Canals from **Durgapur Barrage** irrigate Howrah–Hooghly–Bardhaman belt.
+- Damodar is the **“Sorrow of Bengal”** — fast upper course, sluggish lower course, floods and silt.
+- **DVC** was established in **1948** as the **first multipurpose river-valley project of independent India**.
+- **Tilaiya**, **Maithon** and **Belpahari** stand on the **Barakar**.
+- **Konar** stands on the Konar.
+- **Panchet** stands on the Damodar.
+- Canals from **Durgapur Barrage** irrigate the Howrah–Hooghly–Bardhaman belt.
 
 **Other high-yield projects**
 
@@ -652,14 +669,14 @@ D. Kevti fall
 - **Rihand** dam makes **Govind Ballabh Pant Sagar** at Pipri, Sonbhadra.
 - **Matatila** and **Rajghat (Rani Lakshmibai)** are Betwa projects serving Bundelkhand.
 - **Narora** is a Ganga **barrage**, not a high dam.
-- **Kalagarh** = Ramganga Dam.
+- **Kalagarh** is the site of the **Ramganga Dam**.
 
 **Narmada–Tapi–Chambal**
 
 - Narmada cascade in MP includes **Bargi, Indira Sagar, Omkareshwar, Maheshwar**, then **Sardar Sarovar** in Gujarat.
 - **Gandhi Sagar**, **Rana Pratap Sagar**, **Jawahar Sagar** and **Kota Barrage** are the Chambal chain (**MP–RJ**).
 - **Ukai** and **Kakrapar** are on the **Tapi** in Gujarat.
-- **Ban Sagar** = **Son** (not Narmada).
+- **Ban Sagar** is on the **Son**, not the Narmada.
 
 **East-flowing peninsula**
 
@@ -700,8 +717,14 @@ D. Kevti fall
 | **Jawai** Project | Jawai (Luni tributary) | **Rajasthan** | Trap: not Tamil Nadu |
 | Mangalam | Bharathapuzha system | **Palakkad, Kerala** | One of several projects on that river |
 
-- Canal irrigation dominates the Indo-Gangetic plain. The peninsula was historically stronger on **tanks / ponds** because hard rock makes canals and wells hard to dig and most peninsular rivers are **seasonal**.
-- Groundwater now covers more than **60%** of India’s irrigated area (**2018–19**: tubewells alone ~**48.5%**; wells + tubewells ~**64%**; canals ~**23%**; tanks ~**2.3%**). Do **not** say canals are the dominant national source.
+- Canal irrigation dominates the Indo-Gangetic plain.
+- The peninsula was historically stronger on **tanks and ponds** because hard rock makes canals and wells hard to dig and most peninsular rivers are **seasonal**.
+- Groundwater now covers more than **60%** of India’s irrigated area.
+- In **2018–19**, tubewells alone covered about **48.5%**.
+- Wells plus tubewells covered about **64%**.
+- Canals covered about **23%**.
+- Tanks covered about **2.3%**.
+- Do **not** say canals are the dominant national source.
 - **Ghaggar** water is **not** a source of the Indira Gandhi Canal.
 
 ### Irrigation project classes (CCA)
@@ -721,7 +744,8 @@ D. Kevti fall
 
 ### India–Bhutan hydropower
 
-- Export-to-India is the pillar. Raata: **Chukha, Tala, Kurichhu, Mangdechhu (Mungdechhu)**.
+- Export-to-India is the pillar.
+- Ratta names are **Chukha, Tala, Kurichhu and Mangdechhu (Mungdechhu)**.
 - **2019 Q115:** the plant in the PM Modi Bhutan-visit context is **Mungdechhu / Mangdechhu**.
 - **Punatsangchhu** is the delayed news name. It is not the 2019 fact.
 - These are **Bhutanese** plants. They are not Indian dams.
@@ -776,15 +800,27 @@ D. Only 1
 ### Irrigation map
 
 - Most of India sits in a **sub-tropical / high-temperature** belt (except western Himalaya, parts of the north-east, and some southern tracts). High temperature drives high evaporation, so sown crops need irrigation to cover the moisture deficit. Rainfall also varies in space and time. Rice, sugarcane and jute need a lot of water. HYVs need a regular moisture supply.
-- **2018–19 (P)** national irrigated-area shares: **tubewell ~48.51%**; wells + tubewells together **~63.94%**; **canals ~22.96%**; **tanks ~2.33%**; rest other means. Dominant source = **wells / tubewells**, not canals alone.
-- Punjab, Haryana and western Uttar Pradesh irrigate more than **85%** of net sown area. That is why the Green Revolution stuck there. **Haryana / Punjab** lead **% cropped area under irrigation**; **Uttar Pradesh** leads **absolute** tubewell / well irrigated area.
-- In Punjab about **76%** of net irrigated area is wells and tubewells. In Haryana the well share is about **51%**. Over-pumping has dropped the water table.
+- In **2018–19 (P)**, tubewells covered about **48.51%** of national irrigated area.
+- Wells plus tubewells together covered about **63.94%**.
+- Canals covered about **22.96%**.
+- Tanks covered about **2.33%**.
+- The rest used other means.
+- The dominant source is **wells and tubewells**, not canals alone.
+- Punjab, Haryana and western Uttar Pradesh irrigate more than **85%** of net sown area.
+- That is why the Green Revolution stuck there.
+- **Haryana and Punjab** lead **% cropped area under irrigation**.
+- **Uttar Pradesh** leads **absolute** tubewell / well irrigated area.
+- In Punjab about **76%** of net irrigated area is wells and tubewells.
+- In Haryana the well share is about **51%**.
+- Over-pumping has dropped the water table.
 - Dynamic groundwater resources available for irrigation (bcm order): **Uttar Pradesh ~40.72** > **Punjab ~26.69** > **Madhya Pradesh ~17.39** > **Maharashtra ~15.29** (West Bengal and Assam much lower among map options).
 - NCERT MCQ fact: among south Indian states, **Tamil Nadu** has the highest groundwater utilisation of its potential.
-- Chhattisgarh, Odisha and Kerala still use only a small share of groundwater potential. Gujarat, Uttar Pradesh, Bihar, Tripura and Maharashtra sit in the moderate band.
-- **Protective / life-saving irrigation** = irrigation at **permanent wilting point (PWP)** when soil moisture can no longer sustain the plant.
-- **Micro-irrigation** (drip / sprinkler) cuts fertiliser / nutrient loss and can check groundwater decline in some areas. It is **not** the only means of irrigation in dryland farming.
-- **Drip** advantages: less weed, less soil erosion, higher water-use efficiency — not a guarantee of lower soil salinity as an automatic result.
+- Chhattisgarh, Odisha and Kerala still use only a small share of groundwater potential.
+- Gujarat, Uttar Pradesh, Bihar, Tripura and Maharashtra sit in the moderate band.
+- **Protective / life-saving irrigation** means irrigation at **permanent wilting point (PWP)** when soil moisture can no longer sustain the plant.
+- **Micro-irrigation** (drip / sprinkler) cuts fertiliser / nutrient loss and can check groundwater decline in some areas.
+- It is **not** the only means of irrigation in dryland farming.
+- **Drip** advantages include less weed, less soil erosion and higher water-use efficiency — not a guarantee of lower soil salinity as an automatic result.
 
 ### Quality hazards
 
@@ -2379,7 +2415,7 @@ D. 1 3 4 2
 
 </details>
 
-**Q-GC44. UP RO/ARO (Re Exam) Prelims 2016**
+**Q-GC44. UP RO/ARO (Re) Prelims 2016**
 
 Consider the following statements and select the correct answer from the codes given below.
 

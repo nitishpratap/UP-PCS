@@ -46,19 +46,27 @@
 
 ## 3.1 Vegetation belts
 
-**Identity:** Foothill sal → oak–rhododendron → chir/deodar/fir → birch–juniper → bugyal.
+**Identity:** Altitude stack from foothill sal up to bugyal meadows.
 
 - Steep altitudinal range packs many forest types into a small horizontal distance.
-- Foothill **sal** and mixed deciduous forests occupy the Tarai–Bhabar and lower Shiwalik face.
-- Sub-tropical pine (**chir**) belts occupy roughly the lower to mid outer slopes (~**900–2000 m**).
-- Oak–rhododendron and mixed broad-leaved forests grade into the temperate mid-hills.
-- Western Himalayan temperate zone is rich in **deodar, chir, pine**, other conifers, and broad-leaved temperate trees.
-- **Deodar** is the abundance fact for that temperate belt at about **1500–2500 m**.
-- Among common options (deodar, pine, sal, teak), **deodar** grows at the **highest** elevation from sea level.
-- Higher belts carry fir, spruce, and then alpine **birch–juniper** scrub toward the tree-line.
-- **Birch** belongs to Himalayan alpine / moist alpine scrub. Its white paper-like bark was used in ancient times for writing scriptures and texts.
-- Above the tree-line, alpine meadows called **bugyals** support seasonal pastures and high-altitude herbs.
-- **Southern** Himalayan slopes (including Uttarakhand’s outer face) get more rain and sunlight than the rain-shadow north face, so vegetation is denser on the southern side.
+- Foothill **sal** and mixed deciduous forests occupy the Tarai–Bhabar.
+- The same foothill belt continues on the lower Shiwalik face.
+- Sub-tropical pine (**chir**) belts occupy roughly the lower to mid outer slopes.
+- Chir commonly sits about **900–2000 m**.
+- Oak–rhododendron forests grade into the temperate mid-hills.
+- Mixed broad-leaved forests also mark that mid-hill transition.
+- The western Himalayan temperate zone is rich in **deodar**.
+- That temperate zone also carries chir, pine, other conifers, and broad-leaved temperate trees.
+- **Deodar** is abundant in that temperate belt at about **1500–2500 m**.
+- Among common options of deodar, pine, sal, and teak, **deodar** grows at the **highest** elevation from sea level.
+- Higher belts carry fir and spruce.
+- Alpine **birch–juniper** scrub then appears toward the tree-line.
+- **Birch** belongs to Himalayan alpine / moist alpine scrub.
+- Birch has white paper-like bark once used for writing scriptures and texts.
+- Above the tree-line, alpine meadows called **bugyals** support seasonal pastures.
+- Bugyals also carry high-altitude herbs.
+- **Southern** Himalayan slopes, including Uttarakhand’s outer face, get more rain and sunlight than the rain-shadow north face.
+- Vegetation is therefore denser on the southern side.
 - Tree-line is generally **lower** in the Western Himalaya than in the Eastern Himalaya.
 - Topography and climate are the primary explanation of the state’s forest and biodiversity richness.
 
@@ -66,37 +74,51 @@
 
 ## 3.2 Forest products & species
 
-**Identity:** Lisa = pine resin · Khair = sub-tropical · Burans = rhododendron.
+**Identity:** Lisa from pine | Khair in sub-tropical scrub | Burans as rhododendron.
 
 - **Lisa** is a major forest product obtained from **pine** trees of Uttarakhand.
-- Lisa is tapped for resin; distillation yields turpentine oil and non-volatile resin used in paper, soap, cosmetics, paint, varnish, rubber, and polish industries.
+- Lisa is tapped for resin.
+- Distillation of Lisa yields turpentine oil.
+- Distillation also leaves non-volatile resin used in paper, soap, cosmetics, paint, varnish, rubber, and polish industries.
 - Lisa is a base of rural self-employment in the hills.
-- **Khair (catechu)** is a tree of **sub-tropical** forests — scrub of the Shiwaliks and western Himalaya above about **1000 m**, with khair, keekar, and acacia.
+- **Khair (catechu)** is a tree of **sub-tropical** forests.
+- Khair scrub belongs to the Shiwaliks and western Himalaya above about **1000 m**.
+- That scrub also includes keekar and acacia.
 - **Katha** is obtained from khair wood.
-- **Burans** (rhododendron) is the famous flowering hill shrub of Uttarakhand.
-- Lisa is the pine-resin product — do not confuse it with Burans or deodar.
-- Forests remain the major natural resource of the western Himalayan region (large forest share of land area).
+- **Burans** is the rhododendron flowering hill shrub of Uttarakhand.
+- Do not confuse Lisa with Burans.
+- Do not confuse Lisa with deodar either.
+- Forests remain the major natural resource of the western Himalayan region.
+- Forest share of land area in this belt is large.
 
 ---
 
 ## 3.3 Flagship protected areas
 
-**Identity:** Nanda Devi–Valley of Flowers WHS · Corbett 1936 · Rajaji 1983 · Gangotri 1989 · Govind 1990.
+**Identity:** Nanda Devi–Valley of Flowers WHS with major national-park years.
 
 - **Nanda Devi** and **Valley of Flowers** form a UNESCO World Heritage set in the Chamoli high Himalaya.
-- The Nanda Devi biosphere holds high-altitude fauna including **snow leopard**, **musk deer**, and **blue sheep (bharal)**.
+- The Nanda Devi biosphere holds the **snow leopard**.
+- It also holds **musk deer**.
+- It also holds **blue sheep (bharal)**.
 - **Valley of Flowers** is famed for alpine flower meadows in the monsoon season within the same heritage landscape.
-- **Corbett** National Park (**1936**) anchors the Tarai–Bhabar tiger landscape across Nainital–Pauri fringe belts.
-- **Rajaji** National Park (**1983**) covers the Shiwalik–dun elephant corridor near Dehradun–Haridwar–Pauri.
-- **Gangotri** National Park (**1989**) protects the upper Bhagirathi catchment in Uttarkashi.
-- **Govind** National Park / Pashu Vihar (**1990**) protects high Garhwal catchments in Uttarkashi — do not give Govind the 1989 year.
-- Together these parks cover Tarai tiger country, dun–Shiwalik elephant corridors, and high glacial catchments.
+- **Corbett** National Park was notified in **1936**.
+- Corbett anchors the Tarai–Bhabar tiger landscape across the Nainital–Pauri fringe.
+- **Rajaji** National Park was notified in **1983**.
+- Rajaji covers the Shiwalik–dun elephant corridor near Dehradun, Haridwar, and Pauri.
+- **Gangotri** National Park was notified in **1989**.
+- Gangotri protects the upper Bhagirathi catchment in Uttarkashi.
+- **Govind** National Park / Pashu Vihar was notified in **1990**.
+- Govind protects high Garhwal catchments in Uttarkashi.
+- Do not give Govind the 1989 year.
+- Together these parks cover Tarai tiger country.
+- They also cover dun–Shiwalik elephant corridors and high glacial catchments.
 
 ---
 
 ## 3.4 Sanctuary–district map
 
-**Identity:** Askot–Pithoragarh · Binsar–Almora · Govind–Uttarkashi · Nandhaur–Nainital.
+**Identity:** Four sanctuary–district pairs for match lists.
 
 | Sanctuary | District |
 |-----------|----------|
@@ -107,10 +129,13 @@
 
 *Row order in a match table is not the answer code.*
 
-- **Askot** Wildlife Sanctuary sits in **Pithoragarh** on the eastern Kumaon frontier.
-- **Binsar** Wildlife Sanctuary sits in **Almora** in the oak–rhododendron mid-hill belt.
+- **Askot** Wildlife Sanctuary sits in **Pithoragarh**.
+- Askot lies on the eastern Kumaon frontier.
+- **Binsar** Wildlife Sanctuary sits in **Almora**.
+- Binsar lies in the oak–rhododendron mid-hill belt.
 - **Govind** is tied to **Uttarkashi** in both sanctuary and national-park naming.
-- **Nandhaur** Wildlife Sanctuary sits in **Nainital** on the Kumaon foothill side.
+- **Nandhaur** Wildlife Sanctuary sits in **Nainital**.
+- Nandhaur lies on the Kumaon foothill side.
 - Swapping Askot with Binsar districts is the classic match-list trap.
 ---
 
