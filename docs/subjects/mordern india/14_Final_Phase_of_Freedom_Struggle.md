@@ -823,26 +823,6 @@ D. (A) is false, but (R) is true
 
 </details>
 
-### UKPCS Prelims 2025
-
-**Logic:** All four options share the date 16 — only the month distinguishes them.
-
-**Q. UKPCS Prelims 2025, Q65**
-
-When did the Muslim League observe ‘Direct Action Day’?
-
-A. 16 October, 1946
-B. 16 August, 1946
-C. 16 December, 1946
-D. 16 November, 1946
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Direct Action Day was 16 August 1946 after rejection of the Cabinet Mission plan; it led to the Great Calcutta Killings.
-
-</details>
-
 ---
 
 
@@ -850,68 +830,317 @@ D. 16 November, 1946
 
 Teaching sits in **14.2, 14.6–14.8**.
 
-**Logic:** 1937 ministries / 28 months / resign Oct 1939 / Day of Deliverance 22 Dec 1939 / Pirpur–Sharif–Fazlul Haq reports; Iqbal 1930 / Rahmat Ali 1933 / Lahore League Mar 1940; Cripps Mar 1942 post-dated cheque / Nehru–Azad negotiators; QI 8–9 Aug 1942 / Do or Die / Yusuf Meher Ali / Operation Zero Hour / Louis Fischer / parallel governments.
+**Logic:** League celebrated Congress resignations after WWII began — Deliverance Day date.
 
-**Q1. UPPCS / IAS / BPSC**
+**Q1. UPPCS / IAS**
 
-Congress ministries tenure / Deliverance Day date / Pakistan word coinage / League Lahore year / Cripps year–Gandhi’s phrase / Congress negotiators with Cripps / QI slogan author / Gandhi jail in QI / Linlithgow’s 1857 comparison?
+After Congress ministries resigned in 1939, the Muslim League observed ‘Day of Deliverance’ on:
+
+A. 15 August 1939
+
+B. 22 December 1939
+
+C. 23 March 1940
+
+D. 8 August 1942
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** About **28 months**. Deliverance **22 Dec 1939**. Word **Rahmat Ali (1933)**. League Lahore **March 1940**. Cripps **1942**; **post-dated cheque**. Negotiators **Nehru and Azad**. Slogan coinage often **Yusuf Meher Ali**. Gandhi → **Aga Khan Palace**. Linlithgow: most serious since **1857**.
+**Ans: B.** **22 December 1939**. Ministries had resigned in **October 1939** after about **28 months** in office.
 
 </details>
 
-**Logic:** Tripuri Bose vs Pattabhi; Forward Bloc 1939; CSP 1934 JP / Narendra Dev (also Topic 12); Ballia–Tamluk–Satara parallels.
+**Logic:** “Pakistan” coinage = Choudhry Rahmat Ali (1933), not Iqbal’s 1930 Allahabad address alone.
 
 **Q2. UPPCS / BPSC**
 
-Who did Bose defeat at Tripuri / who became Congress President after Bose resigned / Forward Bloc year / Ballia parallel leader / Satara parallel name?
+Who coined the word ‘Pakistan’?
+
+A. Muhammad Iqbal
+
+B. Choudhry Rahmat Ali
+
+C. Muhammad Ali Jinnah
+
+D. Aga Khan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Pattabhi Sitaramayya**. Next President **Rajendra Prasad**. Forward Bloc **1939**. Ballia **Chittu Pandey**. Satara **Prati Sarkar** (**Nana Patil** stream).
+**Ans: B.** **Rahmat Ali (1933)**. Iqbal’s **1930** Allahabad address argued a Muslim north-west state idea; League’s Lahore resolution is **March 1940**.
 
 </details>
 
+**Logic:** Gandhi on Cripps — “post-dated cheque”; Cripps Mission **1942**.
 
+**Q3. UPPCS / IAS**
+
+Mahatma Gandhi described the Cripps proposals as a:
+
+A. Blank cheque
+
+B. Post-dated cheque
+
+C. Rubber cheque
+
+D. Crossed cheque
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cripps Mission **March 1942**; Congress negotiators with Cripps were largely **Nehru and Azad**.
+
+</details>
+
+**Logic:** Do or Die / QI slogan stream often keyed to Yusuf Meher Ali; QI **8–9 Aug 1942**.
+
+**Q4. UPPCS / BPSC**
+
+Who is widely credited with coining the Quit India slogan ‘Do or Die’ in popular Prelims keys?
+
+A. Jawaharlal Nehru
+
+B. Yusuf Meher Ali
+
+C. Jayaprakash Narayan
+
+D. Abul Kalam Azad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** QI resolution **8 August 1942**; Gandhi detained at **Aga Khan Palace**. Linlithgow called QI the most serious revolt since **1857**.
+
+</details>
+
+**Logic:** Tripuri — Bose defeated Pattabhi; after Bose resigned, Rajendra Prasad became Congress President; Forward Bloc **1939**.
+
+**Q5. UPPCS / BPSC**
+
+At Tripuri (1939), Subhas Chandra Bose defeated which candidate for the Congress Presidentship?
+
+A. Pattabhi Sitaramayya
+
+B. Rajendra Prasad
+
+C. J.B. Kripalani
+
+D. Abul Kalam Azad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** After Bose resigned, **Rajendra Prasad** took over. Bose founded **Forward Bloc** in **1939**.
+
+</details>
+
+---
 
 ## Ghatnachakra Extra Drill — Bose, INA and Red Fort Trials
 
 Teaching sits in **14.4–14.5, 14.9–14.10**.
 
-**Logic:** Cuttack birth; Desh Nayak / Patriot of Patriots; Forward Bloc 1939; Free India Centre / Free Indian Legion; Fujiwara–Pritam idea, Mohan Singh first commander 1942; Rash Behari → Bose 4 July 1943; Azad Hind Govt 21 Oct 1943 Singapore; Give me blood / Jai Hind; Rani Jhansi; Shaheed–Swaraj; Red Fort trio; Bhulabhai lead counsel; Auchinleck remission.
+**Logic:** Birthplace = Cuttack; Tagore = Desh Nayak; Gandhi = Patriot of Patriots.
 
-**Q1. UPPCS / IAS / BPSC**
+**Q6. UPPCS / IAS**
 
-Bose birthplace / who called him Desh Nayak / Forward Bloc year / INA idea pair / first INA commander / date Bose took INA / Azad Hind Govt date–place / Red Fort trio / defence lead / who remitted sentences?
+Subhas Chandra Bose was born at:
+
+A. Calcutta
+
+B. Cuttack
+
+C. Midnapore
+
+D. Howrah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Cuttack**. **Tagore** = Desh Nayak. Forward Bloc **1939**. Idea often **Pritam Singh + Fujiwara**. First commander **Mohan Singh**. Bose took charge **4 July 1943**. Govt **21 Oct 1943, Singapore**. Trio **Sahgal, Shah Nawaz, Dhillon**. Defence lead **Bhulabhai Desai**. Remission under **Auchinleck** / mass pressure.
+**Ans: B.** **Cuttack** (Odisha). Tagore called him **Desh Nayak**; Gandhi called him **Patriot of Patriots**.
 
 </details>
+
+**Logic:** First INA commander = Mohan Singh (1942); Bose took charge **4 July 1943**.
+
+**Q7. UPPCS / IAS / BPSC**
+
+Who was the first commander of the Indian National Army?
+
+A. Subhas Chandra Bose
+
+B. Rash Behari Bose
+
+C. Mohan Singh
+
+D. Shah Nawaz Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Idea often linked to **Pritam Singh** and Japanese officer **Fujiwara**. Bose assumed INA leadership on **4 July 1943**.
+
+</details>
+
+**Logic:** Azad Hind Government date–place = 21 Oct 1943, Singapore.
+
+**Q8. UPPCS / BPSC**
+
+The Provisional Government of Free India (Azad Hind) was proclaimed on:
+
+A. 4 July 1943 at Tokyo
+
+B. 21 October 1943 at Singapore
+
+C. 15 August 1945 at Rangoon
+
+D. 7 November 1941 at Berlin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **21 October 1943**, **Singapore**.
+
+</details>
+
+**Logic:** Red Fort trio = Sahgal, Shah Nawaz, Dhillon; defence lead Bhulabhai Desai; remission under Auchinleck.
+
+**Q9. UPPCS / IAS**
+
+Who among the following led the defence in the INA Red Fort trials?
+
+A. Tej Bahadur Sapru
+
+B. Bhulabhai Desai
+
+C. K.N. Katju
+
+D. Asaf Ali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Famous trio: **Prem Sahgal, Shah Nawaz Khan, Gurbaksh Singh Dhillon**. Sentences were remitted under pressure with **Auchinleck** in the picture.
+
+</details>
+
+---
 
 ## Ghatnachakra Extra Drill — Cabinet Mission, Interim Government, Partition
 
 Teaching sits in **14.13, 14.15–14.19**.
 
-**Logic:** Mission members Pethick–Cripps–Alexander (not Wavell); three-tier / groups; rejected Pakistan start; Azad Congress President; Interim 2 Sep 1946 Nehru; Liaquat Finance; Direct Action 16 Aug; Mountbatten 3 June; Balkan Plan discarded; Kripalani AICC; Radcliffe; Sucheta midnight songs.
+**Logic:** Cabinet Mission members = Pethick-Lawrence, Cripps, Alexander — **not** Wavell.
 
-**Q2. UPPCS / IAS / BPSC**
+**Q10. UPPCS / IAS**
 
-Cabinet Mission chair / not a member / Interim took office date–head / Finance after League joined / Direct Action date / Mountbatten Plan date / Congress President at partition acceptance / Boundary Commission chair?
+Who among the following was **not** a member of the Cabinet Mission (1946)?
+
+A. Pethick-Lawrence
+
+B. Stafford Cripps
+
+C. A.V. Alexander
+
+D. Lord Wavell
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Chair **Pethick-Lawrence**. Not member = **Wavell** (or Simon/MacDonald traps). Interim **2 Sep 1946**, **Nehru**. Finance **Liaquat**. Direct Action **16 Aug 1946**. Plan **3 June 1947**. AICC President **J.B. Kripalani**. Boundary **Radcliffe**.
+**Ans: D.** Wavell was Viceroy, not a Mission member. Chair/stream: **Pethick-Lawrence**.
 
 </details>
 
+**Logic:** Interim Government took office **2 Sep 1946** under Nehru; after League joined, Liaquat = Finance.
+
+**Q11. UPPCS / BPSC**
+
+The Interim Government of 1946 was headed by:
+
+A. Lord Wavell
+
+B. Jawaharlal Nehru
+
+C. Sardar Patel
+
+D. Abul Kalam Azad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Took office **2 September 1946**. When the League joined, **Liaquat Ali Khan** took **Finance**.
+
+</details>
+
+**Logic:** Direct Action Day = 16 Aug 1946 — UKPCS 2025 favourite.
+
+**Q12. UKPCS Prelims 2025 / UPPCS**
+
+‘Direct Action Day’ was observed by the Muslim League on:
+
+A. 16 August 1946
+
+B. 2 September 1946
+
+C. 3 June 1947
+
+D. 14 August 1947
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **16 August 1946** — Calcutta killings opened the Partition endgame.
+
+</details>
+
+**Logic:** Mountbatten Plan = 3 June 1947; Boundary Commission = Radcliffe; AICC President at acceptance = Kripalani.
+
+**Q13. UPPCS / IAS**
+
+The Mountbatten Plan was announced on:
+
+A. 20 February 1947
+
+B. 3 June 1947
+
+C. 18 July 1947
+
+D. 15 August 1947
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **3 June 1947**. Boundary Commission chair: **Cyril Radcliffe**. Congress President at Partition acceptance: **J.B. Kripalani**.
+
+</details>
+
+---
+
+### UKPCS Complete PYQ Bank (Final Phase)
+
+**Logic:** Direct Action Day date — League’s mass mobilisation before Interim/Partition.
+
+**Q1. UKPCS Prelims 2025, Q65**
+
+When did the Muslim League observe ‘Direct Action Day’?
+
+A. 16 October, 1946
+
+B. 16 August, 1946
+
+C. 16 December, 1946
+
+D. 16 November, 1946
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Direct Action Day was **16 August 1946** after rejection of the Cabinet Mission plan; it led to the Great Calcutta Killings.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

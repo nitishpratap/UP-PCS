@@ -657,11 +657,702 @@ D. Joseph Baptista
 
 </details>
 
-### UKPCS Prelims 2025
+---
 
-**Logic:** The 1929 split and the name of the breakaway federation carry the error.
+## Ghatnachakra Extra Drill — Morley–Minto Reforms
 
-**Q. UKPCS Prelims 2025, Q61**
+Teaching sits in **12.0** and **Topic 3**.
+
+**Logic:** Official name and year of the Act — not dyarchy, not 1919.
+
+**Q1. UPPCS / BPSC**
+
+The **Indian Councils Act, 1909** is also known as the:
+
+A. Montagu–Chelmsford Reforms
+
+B. Morley–Minto Reforms
+
+C. Government of India Act, 1919
+
+D. Pitt’s India Act
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **1909** Act is the **Morley–Minto** package. **Dyarchy** belongs to the **1919** Act.
+
+</details>
+
+**Logic:** The headline provision is communal / separate electorates — the classic dyarchy trap.
+
+**Q2. UPPCS / BPSC / IAS**
+
+Which of the following was introduced by the **Morley–Minto Reforms (1909)**?
+
+A. Dyarchy in the provinces
+
+B. Muslim separate electorates
+
+C. Provincial autonomy under a federation
+
+D. Direct election of all central legislature members
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Separate electorates for Muslims** began in **1909**. **Dyarchy** came only in **1919**.
+
+</details>
+
+**Logic:** Rajendra Prasad’s “Father of Pakistan” tag targets Minto, not Jinnah.
+
+**Q3. UPPCS / BPSC**
+
+Who did **Rajendra Prasad** call the **“Father of Pakistan”** for sowing communal electorates?
+
+A. Muhammad Ali Jinnah
+
+B. Lord Minto
+
+C. John Morley
+
+D. Lord Curzon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lord Minto II** is tagged for the **1909 separate-electorate** seed. The system itself began in **1909**; Congress **accepted** it at **Lucknow 1916**.
+
+</details>
+
+**Logic:** 1909 creates the system; 1916 is Congress acceptance — do not swap the years.
+
+**Q4. UPPCS / IAS**
+
+Separate electorates for Muslims were first introduced in:
+
+A. 1909
+
+B. 1911
+
+C. 1916
+
+D. 1919
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **1909** = British Act creates separate electorates. **1916 Lucknow Pact** = Congress **accepts** them as a bargain.
+
+</details>
+
+**Logic:** Gandhi’s remembered verdict on Morley–Minto — destroyed unity politics.
+
+**Q5. UPPCS / BPSC**
+
+Mahatma Gandhi’s remembered verdict on the Morley–Minto reforms was that they:
+
+A. Gave India full responsible government
+
+B. Destroyed Indian unity politics
+
+C. Abolished communal representation
+
+D. Introduced dyarchy in the provinces
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gandhi held that the package **destroyed** Indian unity. It did **not** create dyarchy — that trap belongs to **1919**.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Lucknow Pact (1916)
+
+Teaching sits in **12.2**.
+
+**Logic:** Session year and president — not 1911 Delhi Durbar.
+
+**Q1. UPPCS / MPPCS / RAS**
+
+The **Lucknow session** of the Indian National Congress (1916) was presided over by:
+
+A. Annie Besant
+
+B. Ambika Charan Majumdar
+
+C. B.G. Tilak
+
+D. Madan Mohan Malaviya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lucknow, December 1916**, President **A.C. Majumdar**. Do not place the Pact at the **1911** Delhi Durbar.
+
+</details>
+
+**Logic:** Tilak–Jinnah as architects of the Congress–League bargain.
+
+**Q2. UPPCS / BPSC / IAS**
+
+The chief architects of the **Congress–Muslim League agreement** at Lucknow (1916) are remembered as:
+
+A. Gandhi and Jinnah
+
+B. Tilak and Jinnah
+
+C. Besant and Malaviya
+
+D. Gokhale and Jinnah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tilak** and **Jinnah** shaped the League deal. **Besant** and **Tilak** pushed **Extremist reunion** inside Congress.
+
+</details>
+
+**Logic:** Congress first formal acceptance of separate electorates — 1916, not 1909.
+
+**Q3. UPPCS / IAS**
+
+The **Indian National Congress** first **accepted separate electorates** as a political bargain in:
+
+A. 1909
+
+B. 1911
+
+C. 1916
+
+D. 1919
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Congress accepted separate electorates at the **Lucknow Pact (1916)**. The **system itself** began in **1909**.
+
+</details>
+
+**Logic:** Raj Kumar Shukla and Champaran briefing at Lucknow 1916.
+
+**Q4. UPPCS / BPSC**
+
+At the **Lucknow Congress session (1916)**, who first briefed Mahatma Gandhi on the **Champaran** indigo peasants’ distress?
+
+A. Rajendra Prasad
+
+B. Raj Kumar Shukla
+
+C. Madan Mohan Malaviya
+
+D. Motilal Nehru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Raj Kumar Shukla** placed the **Champaran** problem before Gandhi at **Lucknow 1916**.
+
+</details>
+
+**Logic:** Reunion of Moderates and Extremists after Surat 1907.
+
+**Q5. UPPCS / MPPCS**
+
+The **Lucknow Pact (1916)** marked the reunion of:
+
+A. Congress and the Muslim League only
+
+B. Moderates and Extremists within Congress, alongside a Congress–League deal
+
+C. Home Rule leagues into one body
+
+D. Congress and the Justice Party
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Pact reunited **Moderates and Extremists** after **Surat 1907** and sealed a **Congress–League** electoral bargain.
+
+</details>
+
+**Logic:** Jinnah’s “Ambassador of Hindu–Muslim Unity” tag for the Lucknow season.
+
+**Q6. UPPCS / IAS**
+
+Sarojini Naidu called **Muhammad Ali Jinnah** the **“Ambassador of Hindu–Muslim Unity”** chiefly for his role in:
+
+A. Khilafat Movement
+
+B. Lucknow Pact (1916)
+
+C. Cabinet Mission talks (1946)
+
+D. Montagu Declaration (1917)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The tag belongs to the **Lucknow Pact** season when Congress and the League worked jointly.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Home Rule League Movement
+
+Teaching sits in **12.1, 12.4–12.5**.
+
+**Logic:** Tilak league — April 1916, Poona; first in the field after Besant’s 1914 press campaign.
+
+**Q1. UPPCS / BPSC / UKPCS**
+
+**B.G. Tilak’s Indian Home Rule League** was founded in:
+
+A. September 1916 at Madras
+
+B. April 1916 at Poona
+
+C. December 1917 at Calcutta
+
+D. August 1917 at Bombay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tilak — April 1916, Poona**. **Besant — September 1916, Madras/Adyar**.
+
+</details>
+
+**Logic:** Besant league — September 1916; rest of India including Bombay city.
+
+**Q2. UPPCS / BPSC / IAS**
+
+**Annie Besant’s All India Home Rule League** was founded in:
+
+A. April 1916 at Poona
+
+B. September 1916 at Madras/Adyar
+
+C. June 1917 at Calcutta
+
+D. 1920 at Ahmedabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Besant’s league covered the **rest of India including Bombay city**. Tilak’s zone excluded **Bombay city**.
+
+</details>
+
+**Logic:** Besant’s Home Rule papers — Commonweal and New India.
+
+**Q3. UPPCS / BPSC**
+
+Which pair of newspapers carried **Annie Besant’s** Home Rule propaganda?
+
+A. *Kesari* and *Mahratta*
+
+B. *Commonweal* and *New India*
+
+C. *Young India* and *Harijan*
+
+D. *Bande Mataram* and *Sandhya*
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** ***Commonweal*** and ***New India*** were Besant’s papers. She floated the Home Rule idea in ***Commonweal*** from **1914**. Tilak used ***Kesari*** and ***Mahratta***.
+
+</details>
+
+**Logic:** Olcott = Theosophy founder, not Home Rule leader.
+
+**Q4. UPPCS / BPSC / IAS / UKPCS**
+
+Who among the following did **not** contribute to the **Home Rule Movement**?
+
+A. Annie Besant
+
+B. B.G. Tilak
+
+C. H.S. Olcott
+
+D. Joseph Baptista
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **H.S. Olcott** co-founded the **Theosophical Society (1875)** with Blavatsky. Home Rule leaders include **Tilak, Besant, Baptista, Arundale, Wadia**.
+
+</details>
+
+**Logic:** Lucknow 1916 as the show of strength for both leagues.
+
+**Q5. UPPCS / MPPCS**
+
+The Home Rule Movement showed its mass strength most visibly at:
+
+A. Surat Congress (1907)
+
+B. Lucknow Congress (1916)
+
+C. Nagpur Congress (1920)
+
+D. Lahore Congress (1929)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lucknow 1916** was the show of strength — Tilak’s supporters even ran a special train often nicknamed the Home Rule / Congress Special.
+
+</details>
+
+**Logic:** Besant as Fabian socialist — distinct from Theosophy-only trap.
+
+**Q6. UPPCS / IAS**
+
+**Annie Besant** was associated with which of the following ideological streams in Britain before her full India work?
+
+A. Utilitarianism
+
+B. Fabian socialism
+
+C. Chartism
+
+D. Benthamite legal reform
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Besant was a **Fabian** as well as a Theosophist–Home Rule leader.
+
+</details>
+
+**Logic:** 1920 Gandhi presidency and Swarajya Sabha rename.
+
+**Q7. UPPCS / BPSC**
+
+In **1920**, Mahatma Gandhi became president of the All-India Home Rule League and renamed it:
+
+A. Swarajya Sabha
+
+B. Servants of India Society
+
+C. Hind Swaraj Sabha
+
+D. Indian National Congress
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gandhi’s **1920** presidency led to the rename **Swarajya Sabha**. The two wartime leagues had **not permanently merged** in 1916–18.
+
+</details>
+
+**Logic:** Besant — first woman Congress President, December 1917 Calcutta.
+
+**Q8. UPPCS / BPSC / UKPCS**
+
+**Annie Besant** became the **first woman President** of the Indian National Congress at:
+
+A. Lucknow (1916)
+
+B. Calcutta (1917)
+
+C. Amritsar (1919)
+
+D. Nagpur (1920)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Besant presided at **Calcutta, December 1917** — the **first woman** Congress President.
+
+</details>
+
+**Logic:** Besant statements — Home Rule yes; Theosophy founder no; Congress President yes.
+
+**Q9. IAS-pattern**
+
+Consider the following statements about **Annie Besant**:
+
+1. She started the All India Home Rule League.
+2. She founded the Theosophical Society.
+3. She was once President of the Indian National Congress.
+
+Which of the above statements is/are correct?
+
+A. Only 1
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Both 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements **1 and 3** are correct. The Theosophical Society was founded by **Blavatsky and Olcott (1875)**; Besant **led** it later.
+
+</details>
+
+**Logic:** Two leagues cooperated but did not permanently merge in 1916–18.
+
+**Q10. UPPCS / BPSC**
+
+With reference to the Home Rule leagues (1916–18), which of the following statements is/are correct?
+
+1. Tilak and Besant ran two parallel Home Rule leagues.
+2. The two leagues permanently merged into one body in 1916.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Two leagues **cooperated** but **did not permanently merge** in 1916–18.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Trade Union and Communist Party
+
+Teaching sits in **12.8–12.9** (and Topic 8 labour cards).
+
+**Logic:** First modern union — Madras Labour Union 1918, B.P. Wadia.
+
+**Q1. UPPCS / BPSC / IAS**
+
+India’s first modern trade union, the **Madras Labour Union (1918)**, is chiefly linked to:
+
+A. N.M. Joshi
+
+B. B.P. Wadia
+
+C. Joseph Baptista
+
+D. Lala Lajpat Rai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **B.P. Wadia** (with V. Kalyanasundaram) led the **Madras Labour Union (1918)** at the Buckingham & Carnatic mills.
+
+</details>
+
+**Logic:** Ahmedabad Textile Labour Association — Gandhi 1918.
+
+**Q2. UPPCS / BPSC**
+
+The **Ahmedabad Textile Labour Association** was founded in **1918** by:
+
+A. B.P. Wadia
+
+B. Mahatma Gandhi
+
+C. N.M. Joshi
+
+D. Jawaharlal Nehru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gandhi founded the **Ahmedabad Textile Labour Association** in **1918** — the same year as Wadia’s Madras union.
+
+</details>
+
+**Logic:** AITUC founding date and first president — Lala Lajpat Rai, not Joshi.
+
+**Q3. UPPCS / BPSC / IAS**
+
+The **All India Trade Union Congress (AITUC)** was founded on **31 October 1920**, and its **first President** was:
+
+A. N.M. Joshi
+
+B. Lala Lajpat Rai
+
+C. Joseph Baptista
+
+D. B.P. Wadia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **AITUC (1920)** — first President **Lala Lajpat Rai**. **N.M. Joshi** is the **ILO 1919** labour representative tag.
+
+</details>
+
+**Logic:** Nagpur 1929 AITUC session — Nehru presided; 1929 split context.
+
+**Q4. UPPCS / IAS**
+
+Who presided over the **1929 Nagpur session** of AITUC?
+
+A. Lala Lajpat Rai
+
+B. N.M. Joshi
+
+C. Jawaharlal Nehru
+
+D. S.A. Dange
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Jawaharlal Nehru** presided at **Nagpur 1929**. The **1929** split saw moderates under **N.M. Joshi** break away to form the All India Trade Union Federation.
+
+</details>
+
+**Logic:** M.N. Roy — first Indian linked to Comintern; Tashkent memory.
+
+**Q5. UPPCS / BPSC / IAS**
+
+The first Indian prominently linked to the **Communist International (Comintern)** and the **Tashkent** émigré communist circle was:
+
+A. S.A. Dange
+
+B. M.N. Roy
+
+C. Muzaffar Ahmed
+
+D. Shaukat Usmani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **M.N. Roy** is keyed with **Comintern** and the **Tashkent** group (**October 1920** memory).
+
+</details>
+
+**Logic:** Kanpur Conspiracy 1924 — communist accused; Ansari NOT in list.
+
+**Q6. UPPCS / BPSC**
+
+The **Kanpur Conspiracy Case (1924)** was launched chiefly against:
+
+A. Revolutionary terrorists of the HRA
+
+B. Communist leaders
+
+C. Khilafat agitators
+
+D. Home Rule League organisers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kanpur Conspiracy (**1924**) hit **communist** leaders such as Muzaffar Ahmed, Nalini Gupta, Shaukat Usmani and S.A. Dange. **M.A. Ansari** was **not** in the list.
+
+</details>
+
+**Logic:** Meerut Conspiracy 1929 — worldwide protest.
+
+**Q7. UPPCS / IAS**
+
+The **Meerut Conspiracy Case (1929–33)** against labour/communist leaders drew international protest from figures such as:
+
+A. Lord Curzon and John Morley
+
+B. Einstein, H.G. Wells and Harold Laski
+
+C. Annie Besant and Tilak
+
+D. Gandhi and Jinnah jointly
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Meerut (**1929**) drew world protest — **Einstein, Wells, Laski** and others. CPI’s formal tag is often keyed to **1925, Kanpur**.
+
+</details>
+
+**Logic:** Radical Democratic Party — M.N. Roy 1940.
+
+**Q8. UPPCS / BPSC**
+
+The **Radical Democratic Party (1940)** was founded by:
+
+A. Saumyendra Nath Tagore
+
+B. M.N. Roy
+
+C. S.A. Dange
+
+D. Acharya Narendra Dev
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **M.N. Roy** founded the **Radical Democratic Party (1940)**. **Saumyendra Nath Tagore** founded the **Revolutionary Communist Party of India (1934)**.
+
+</details>
+
+**Logic:** Saumyendra Tagore — Revolutionary Communist Party 1934; do not swap with Roy’s Radical Democratic.
+
+**Q9. UPPCS / BPSC**
+
+**Saumyendra Nath Tagore** founded which party after breaking from the CPI?
+
+A. Radical Democratic Party (1940)
+
+B. Revolutionary Communist Party of India (1934)
+
+C. Congress Socialist Party (1934)
+
+D. Forward Bloc (1939)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tagore’s **Revolutionary Communist Party of India (1934)** must not be confused with Roy’s **Radical Democratic Party (1940)**.
+
+</details>
+
+**Logic:** AITUC year trap — 1920, not 1919 or 1925.
+
+**Q10. UPPCS / IAS**
+
+Consider the following statements:
+
+1. AITUC was founded in 1920 at Bombay.
+2. Joseph Baptista was AITUC’s first President.
+
+Which of the above statements is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **AITUC (31 October 1920, Bombay)** is correct. First President = **Lala Lajpat Rai**, not Baptista (though Baptista sat in early leadership).
+
+</details>
+
+---
+
+### UKPCS Complete PYQ Bank
+
+**Logic:** Statements 1–2 test AITUC birth facts; statement 3 swaps the 1929 breakaway leader — Dange did not form the moderate federation.
+
+**Q1. UKPCS Prelims 2025, Q61**
 
 Consider the following statements:
 
@@ -670,116 +1361,21 @@ Consider the following statements:
 3. All India Trade Union Federation was formed by S. A. Dange in 1929.
 
 A. Only 1 and 2
+
 B. Only 1 and 3
+
 C. Only 2 and 3
+
 D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Series B provisional key).** AITUC (1920) with Lala Lajpat Rai as first president is correct. Statement 3 is wrong because the moderate group led by N. M. Joshi broke away in 1929 to form the All India Trade Union Federation.
+**Ans: A (Series B key).** Statements **1 and 2** are correct: **AITUC (1920)** with **Lala Lajpat Rai** as first president. Statement **3** is false — moderates led by **N.M. Joshi** broke away in **1929** to form the **All India Trade Union Federation**, not Dange.
 
 </details>
 
 ---
-
-
-## Ghatnachakra Extra Drill — Morley–Minto Reforms
-
-Teaching sits in **12.0** and **Topic 3 §§3.36–3.37**.
-
-**Logic:** Year 1909; provision = communal / separate electorates; not dyarchy; Minto Father of Pakistan (Rajendra Prasad); Gandhi “destroyed us” tag.
-
-**Q1. UPPCS / BPSC**
-
-Morley–Minto Bill year / Indian Councils Act 1909 provided what / Father of Pakistan per Rajendra Prasad / seeds of discord that later divided India?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **1909**. Provided **communal representation / separate electorates** (not dyarchy). Father of Pakistan tag = **Lord Minto**. Long discord seed = **reservation + separate electorates for Muslims** (system from 1909; Congress bargain 1916).
-
-</details>
-
-## Ghatnachakra Extra Drill — Lucknow Pact (1916)
-
-Teaching sits in **12.2**.
-
-**Logic:** Both Congress and League at Lucknow Dec 1916; President A.C. Majumdar; Extremist reunion + League pact; Congress accepts separate electorates; Tilak–Jinnah architects; Besant for reunion; Champaran brief to Gandhi; unanimity ~1916–22.
-
-**Q2. UPPCS / MPPCS / RAS**
-
-Lucknow session place–year–President / who made Congress–League agreement / long-term decision / first Congress acceptance of separate electorates year / Champaran link?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **Lucknow, 1916**, President **A.C. Majumdar**. Agreement architects **Tilak** (with **Jinnah**); Besant helped Extremist return. Long-term decision = Congress **accepted separate electorates**. First Congress acceptance year keyed **1916** (system itself **1909**). Champaran peasants’ problem first put to Gandhi at this session (**Raj Kumar Shukla**).
-
-</details>
-
-## Ghatnachakra Extra Drill — Home Rule League Movement
-
-Teaching sits in **12.1, 12.4–12.5**.
-
-**Logic:** Besant floated idea 1914 (*Commonweal*); Tilak league Apr 1916 first in field; Besant Sep 1916; zones; Baptista/Kelkar/Arundale; Olcott not Home Rule; leagues not permanently merged; Lucknow 1916 show of strength; Fabian = Besant; 1920 Swarajya Sabha; Theosophy founders ≠ Besant.
-
-**Q3. UPPCS / BPSC / IAS / UKPCS**
-
-Who launched first Home Rule League in the field / two leaders 1915–16 / Besant papers / who did NOT contribute / where Home Rule showed strength / Fabianism / 1920 rename?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** Field launch order often keyed **Tilak (April 1916)** after Besant’s **1914** press idea; both **Tilak and Besant** ran leagues. Papers ***Commonweal*** / ***New India***. Not Home Rule = **H.S. Olcott** (Theosophy founder). Show of strength = **Lucknow Congress 1916**. Fabian = **Annie Besant**. **1920** Gandhi presidency → rename **Swarajya Sabha**.
-
-</details>
-
-**Logic:** Besant statements — Home Rule yes; Theosophy founder no; Congress President yes → 1 and 3 only.
-
-**Q4. IAS-pattern**
-
-Annie Besant: started Home Rule / founded Theosophical Society / once Congress President — which are correct?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **1 and 3 only**. Theosophical Society founded by **Blavatsky and Olcott (1875)**; Besant later led it and was Congress President **1917**.
-
-</details>
-
-
-
-## Ghatnachakra Extra Drill — Trade Union and Communist Party
-
-Teaching sits in **12.8–12.9** (and Topic 8 labour cards).
-
-**Logic:** First modern union = Madras Labour Union 1918 Wadia; Ahmedabad Textile Labour Association = Gandhi 1918; AITUC 31 Oct 1920 Bombay, President Lajpat Rai, Joshi organiser link, Baptista VP tag; Nagpur 1929 Nehru president / split.
-
-**Q1. UPPCS / BPSC / IAS**
-
-First trade union founder / Ahmedabad Textile Labour Association founder / AITUC year–first President / who presided Nagpur AITUC 1929?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** First modern union often **B.P. Wadia** (Madras Labour Union **1918**). Ahmedabad Textile = **Gandhi (1918)**. AITUC = **1920**, first President **Lala Lajpat Rai**. Nagpur **1929** = **Jawaharlal Nehru**.
-
-</details>
-
-**Logic:** First Indian in Comintern = M.N. Roy; Tashkent CPI memory 1920; Kanpur Conspiracy = communists 1924; Meerut = worldwide publicity; Radical Democratic = Roy 1940; Revolutionary Communist Party = Saumyendra Tagore.
-
-**Q2. UPPCS / BPSC / IAS**
-
-First Indian Communist International member / Tashkent party head / Kanpur Conspiracy against whom / Meerut publicity / Radical Democratic Party / Saumyendra Tagore’s party?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **M.N. Roy**. Tashkent group headed by **M.N. Roy**. Kanpur = **communist** leaders. Meerut drew Einstein/Wells/Laski protest. Radical Democratic = **M.N. Roy (1940)**. Saumyendra = **Revolutionary Communist Party**.
-
-</details>
-
 
 ## Practice Zone — UPPCS Format Drill
 

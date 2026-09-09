@@ -734,30 +734,226 @@ D. C A B D
 
 Teaching sits in **16.1, 16.4, 16.6, 16.14** (and linked Topics 2 / 4 / 14 / 15).
 
-**Logic:** Russia fear / Turkmenchay; Odisha “Sea of Calamity”; Strachey vs Campbell vs MacDonnell; Frazer–MacDonnell–Moncrieff–Robertson match; Pindari leaders; Mavlankar wig; Great Sentinel; Jai Jawan Jai Kisan; Whitley labour; Sirimavo; 10 Downing; Attlee Dodo; Kerala 1957; Polo vs Vijay; Kisan Diwas; Gregorian; Marx dialectical materialism.
+**Logic:** Anglo-Afghan policy fear = Russia (Great Game), not France alone.
 
-**Q1. UPPCS / IAS / BPSC**
+**Q1. UPPCS / IAS**
 
-Anglo-Afghan fear of which power / Odisha famine nickname / Famine Codes commission / Whitley purpose / Tagore’s Gandhi title / Jai Jawan giver / first woman PM worldwide / British PM house / first communist ministry state / Operation Polo target?
+British anxiety behind the First Anglo-Afghan War was mainly the fear of which power?
 
-<details>
-<summary>Show answer</summary>
+A. China
 
-**Ans:** Fear of **Russia**. Nickname **Sea of Calamity** (**1866–67**). Codes ← **Strachey (1880)**. Whitley = **labour conditions**. Title **Great Sentinel**. Slogan **Lal Bahadur Shastri**. Woman PM **Sirimavo Bandaranaike**. Residence **10 Downing Street**. Communist ministry **Kerala 1957**. Polo = **Hyderabad 1948**.
+B. Russia
 
-</details>
+C. Turkey
 
-**Q2. UPPCS chronology / match**
-
-Match: A. Andrew Frazer B. Antony MacDonnell C. Colin Scott Moncrieff D. Thomas Robertson → Police / Famine / Irrigation / Railway.
+D. Persia alone
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Frazer **Police**; MacDonnell **Famine**; Moncrieff **Irrigation**; Robertson **Railway**.
+**Ans: B.** Fear of **Russian** advance (Great Game). Treaties such as **Turkmenchay** sit in the same Russia–Persia memory.
 
 </details>
 
+**Logic:** Odisha famine nickname = Sea of Calamity (1866–67).
+
+**Q2. UPPCS**
+
+The Odisha famine of 1866–67 is remembered in Prelims keys as the:
+
+A. Great Bengal Famine
+
+B. Sea of Calamity
+
+C. Chalisa Famine
+
+D. Doji Bara Famine
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sea of Calamity** — Odisha **1866–67**.
+
+</details>
+
+**Logic:** Famine Codes ← Strachey Commission (1880).
+
+**Q3. UPPCS / IAS**
+
+Famine Codes in British India are linked mainly to the recommendations of:
+
+A. Hunter Commission
+
+B. Strachey Commission
+
+C. Whitley Commission
+
+D. Fraser Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Richard Strachey (1880)**. Do not swap with Campbell / MacDonnell famine enquiries.
+
+</details>
+
+**Logic:** Match Frazer–MacDonnell–Moncrieff–Robertson.
+
+**Q4. UPPCS**
+
+Match List-I with List-II and select the correct answer.
+
+| List-I | List-II |
+|--------|---------|
+| A. Andrew Frazer | 1. Famine |
+| B. Antony MacDonnell | 2. Police |
+| C. Colin Scott Moncrieff | 3. Railway |
+| D. Thomas Robertson | 4. Irrigation |
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 1 3 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Frazer → **Police**; MacDonnell → **Famine**; Moncrieff → **Irrigation**; Robertson → **Railway**.
+
+</details>
+
+**Logic:** Whitley Commission = labour / industrial conditions (not education).
+
+**Q5. UPPCS / UKPCS-style labour trap**
+
+The Whitley Commission in India is associated with:
+
+A. University education
+
+B. Labour conditions
+
+C. Police reforms
+
+D. Famine codes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Royal Commission on **Labour** (Whitley). Education traps = Hunter / Sadler / Sargeant.
+
+</details>
+
+**Logic:** Gandhi’s title from Tagore = Great Sentinel.
+
+**Q6. UPPCS / UKPCS**
+
+Who called Mahatma Gandhi the ‘Great Sentinel’?
+
+A. C.F. Andrews
+
+B. Rabindranath Tagore
+
+C. Romain Rolland
+
+D. Sarojini Naidu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tagore** — Great Sentinel.
+
+</details>
+
+**Logic:** Jai Jawan Jai Kisan = Lal Bahadur Shastri.
+
+**Q7. UPPCS**
+
+Who gave the slogan ‘Jai Jawan Jai Kisan’?
+
+A. Jawaharlal Nehru
+
+B. Lal Bahadur Shastri
+
+C. Indira Gandhi
+
+D. Morarji Desai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lal Bahadur Shastri**.
+
+</details>
+
+**Logic:** First woman PM worldwide often keyed = Sirimavo Bandaranaike (Sri Lanka).
+
+**Q8. UPPCS / IAS**
+
+Who is generally keyed as the world’s first woman Prime Minister?
+
+A. Indira Gandhi
+
+B. Golda Meir
+
+C. Sirimavo Bandaranaike
+
+D. Margaret Thatcher
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Sirimavo Bandaranaike** (Sri Lanka). Indira Gandhi is India’s first woman PM, not the world’s first.
+
+</details>
+
+**Logic:** First communist ministry in India = Kerala, 1957 (E.M.S. Namboodiripad).
+
+**Q9. UPPCS / UKPCS**
+
+India’s first communist ministry assumed office in:
+
+A. West Bengal, 1967
+
+B. Kerala, 1957
+
+C. Tripura, 1978
+
+D. Andhra Pradesh, 1952
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kerala, 1957**.
+
+</details>
+
+**Logic:** Operation Polo = Hyderabad, 1948.
+
+**Q10. UPPCS**
+
+Operation Polo (1948) was related to the integration of:
+
+A. Junagadh
+
+B. Hyderabad
+
+C. Kashmir
+
+D. Goa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Hyderabad (1948)**. Goa is later (**Vijay**, 1961).
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

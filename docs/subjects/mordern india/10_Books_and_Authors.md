@@ -122,7 +122,7 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **The Indian War of Independence** | V.D. Savarkar | 1909; 1857 as national war |
 | **Why I Am an Atheist** | Bhagat Singh | Revolutionary essay |
 | **Gitanjali** | Rabindranath Tagore | Nobel 1913 |
-| **Tuhfat-ul-Muwahhidin** | Raja Rammohan Roy | Monotheism tract |
+| **Tuhfat-ul-Muwahhidin** | Raja Rammohan Roy | Monotheism tract; **Persian** (English *Gift to Monotheists* later) |
 | **Causes of the Indian Mutiny** (*Asbab-e-Baghawat-e-Hind*) | Sir Syed Ahmad Khan | 1857 analysis |
 | **History of the Indian National Congress** | Pattabhi Sitaramayya | Official Congress history |
 | **Young India** (book) | Lala Lajpat Rai | Nationalist interpretation (not Gandhi’s paper) |
@@ -251,6 +251,7 @@ D. 1903 A.D.
 - Form: a **dialogue** between Editor and Reader on what true Swaraj is.
 - Original **Gujarati (1909)**; British banned it, so an **English** version followed to beat censorship. Gandhi’s sharp line on the British Parliament as **sterile / “prostitute”** sits in this tract.
 - Separate Gandhi title: ***Gokhale: My Political Guru*** (first edition **Ahmedabad, February 1955**).
+- In **1929** at **Kausani** (Uttarakhand) he completed the English rendering of **Anasakti Yoga** from the Gita — a favourite **UKPCS** place-fact.
 - Gandhi attacks modern industrial civilisation.
 - He attacks railways-as-greed, and lawyers and doctors as props of colonial society.
 - He wants **self-rule of the self**, not a brown copy of English rule.
@@ -364,7 +365,7 @@ D. 1903 A.D.
 | **Why I Am an Atheist** | Bhagat Singh | Essay from jail |
 | **History of the Indian National Congress** | Pattabhi Sitaramayya | Official Congress history |
 | **Satyarth Prakash** | Dayanand Saraswati | Arya Samaj doctrine |
-| **Tuhfat-ul-Muwahhidin** | Rammohan Roy | Gift to Monotheists |
+| **Tuhfat-ul-Muwahhidin** | Rammohan Roy | Gift to Monotheists; original **Persian** |
 | **Causes of the Indian Mutiny** | Sir Syed Ahmad Khan | 1857 causes |
 | **Bandi Jivan** | Sachindranath Sanyal | Revolutionary primer |
 | **The Indian Sociologist** | Shyamji Krishna Varma | London |
@@ -650,57 +651,819 @@ D. Bipin Chandra
 
 </details>
 
-### UKPCS Prelims 2025
+---
 
-**Logic:** A British official wrote this work — not the Aligarh reformer offered as a distractor.
+## Ghatnachakra Extra Drill — Magazines, Books and Authors
 
-**Q. UKPCS Prelims 2025, Q66**
+Teaching sits in **10.1–10.2a, 10.4–10.5, 10.10**. Full stems below are Ghatnachakra / multi-state Prelims patterns. **UKPCS** stems continue in the bank after this Extra.
 
-Who wrote the book ‘The Indian Musalmans’?
+**Logic:** Pair *New India* with Annie Besant — not Tilak (*Kesari* / *Mahratta*). *Commonweal* is also hers (**1914**).
 
-A. W. W. Hunter
-B. Charles McMillan
-C. Sir Syed Ahmad Khan
-D. S. N. Roy
+**Q1. UPPCS (Spl) (Mains) 2004**
+
+Which one of the following pairs is correctly matched?
+
+A. Abul Kalam Azad — Hind Swaraj
+
+B. Annie Besant — New India
+
+C. Bal Gangadhar Tilak — Common Weal
+
+D. Mahatma Gandhi — India Wins Freedom
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Series B provisional key).** William Wilson Hunter published The Indian Musalmans in 1871 on Muslims under colonial rule and the Wahabi movement.
+**Ans: B.** Annie Besant published **New India** and **The Commonweal** from **1914**. *Hind Swaraj* is Gandhi; *India Wins Freedom* is Azad.
+
+**Trap:** Tilak ≠ *Commonweal*.
+
+</details>
+
+**Logic:** *Tuhfat-ul-Muwahhidin* = Persian; English title *Gift to Monotheists* is a later translation. UKPSC cancelled one wording of this stem.
+
+**Q2. UKPCS (Pre) 2021 / UP R.O./A.R.O. (Mains) 2021**
+
+In which language was Raja Rammohan Roy’s famous work known as *Gift to Monotheists* (*Tuhfat-ul-Muwahhidin*) written?
+
+A. Persian
+
+B. English
+
+C. Arabic
+
+D. Bengali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Persian).** Maulavi Obaidullah Al Obaidi’s English *A Gift to Monotheists* is **1884**. UKPSC cancelled a related stem in its revised key — keep the Persian fact.
+
+</details>
+
+**Logic:** Anasakti Yoga English rendering — Kausani (Uttarakhand), **1929**.
+
+**Q3. UKPCS (Pre) 2021**
+
+In 1929, at which place did Mahatma Gandhi complete his translation of Anasakti Yoga?
+
+A. Kausani
+
+B. Almora
+
+C. Nainital
+
+D. Ranikhet
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gandhi stayed at **Kausani** (Uttarakhand) and rendered Anasakti Yoga from the Gita into English in **1929**.
+
+</details>
+
+**Logic:** Autobiography original language = Gujarati (not Hindi/English).
+
+**Q4. UKPCS (Pre) 2010 / UKPCS (Mains) 2006**
+
+Mahatma Gandhi wrote his autobiography originally in:
+
+A. Hindi
+
+B. Marathi
+
+C. Gujarati
+
+D. English
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** *The Story of My Experiments with Truth* was written in **Gujarati**.
+
+</details>
+
+**Logic:** Discovery of India jail = Ahmednagar Fort (not Yeravda / Naini / Alipore).
+
+**Q5. UPPCS (Mains) 2010 / UKPCS (Mains) 2006 / UP Lower Sub. (Pre) 2004**
+
+In which one of the following jails was *The Discovery of India* written by Jawaharlal Nehru?
+
+A. Alipur Central Jail
+
+B. Yeravda Jail
+
+C. Naini Central Jail
+
+D. Ahmadnagar Fort Jail
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nehru wrote *Discovery of India* at **Ahmednagar Fort** during the Quit India detention.
+
+</details>
+
+**Logic:** *Gita Rahasya* = Tilak, Mandalay; Marathi commentary stream.
+
+**Q6. UKPCS Lower Sub. (Pre) 2010 / IAS (Pre) 2005**
+
+*Srimad Bhagavad Gita Rahasya* was written by:
+
+A. Aurobindo Ghosh
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Mohandas Karamchand Gandhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tilak wrote *Gita Rahasya* in **Mandalay** jail. Do not give it to Gandhi or Aurobindo (*The Life Divine*).
+
+</details>
+
+**Logic:** *Amar Sonar Bangla* = Tagore, 1905; Bangladesh anthem (first ten lines, 1972).
+
+**Q7. IAS (Pre) 2007**
+
+Who wrote *Amar Sonar Bangla*, later adopted as the National Anthem of Bangladesh?
+
+A. Rajni Kanta Sen
+
+B. Dwijendralal Roy
+
+C. Mukunda Das
+
+D. Rabindranath Tagore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Composed in the **1905** Partition/Swadeshi protest; first ten lines adopted by Bangladesh in **1972**. Tagore also wrote *Jana Gana Mana*.
+
+</details>
+
+**Logic:** *Bandi Jivan* = Sachindranath Sanyal — not Bose, not Bhagat Singh.
+
+**Q8. UPPCS (Mains) 2007**
+
+Who was the author of the book *Bandi Jivan*?
+
+A. Dinabandhu Mitra
+
+B. Hema Chandrakar
+
+C. Ram Prasad Bismil
+
+D. Sachindranath Sanyal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** *Bandi Jivan* is Sachindranath Sanyal’s revolutionary primer. Bose = *The Indian Struggle*.
+
+</details>
+
+**Logic:** *Indian Sociologist* = Shyamji Krishna Varma (London), not Bhagat Singh.
+
+**Q9. UPPCS (Pre) 2014**
+
+Which one of the following is not correctly matched?
+
+A. Bhagat Singh — The Indian Sociologist
+
+B. Sachindranath Sanyal — Bandi Jivan
+
+C. Lala Ramsaran Das — Dreamland
+
+D. Bhagwati Charan Vohra — The Philosophy of Bomb
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** *The Indian Sociologist* was published by **Shyamji Krishna Varma** in London. The other three pairs are correctly keyed.
+
+</details>
+
+**Logic:** *Bharat Bharati* = Maithili Sharan Gupta (Rashtrakavi).
+
+**Q10. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+Who is the author of *Bharat Bharati*?
+
+A. Rabindranath Tagore
+
+B. Mulk Raj Anand
+
+C. Maithili Sharan Gupta
+
+D. Bankim Chandra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Maithili Sharan Gupta — also *Saket*, *Yashodhara*, *Jayadrath Vadh*.
+
+</details>
+
+**Logic:** *Ae Mere Watan Ke Logo* = Pradeep (Ramchandra Narayanji Dwivedi), 1962 China-war tribute.
+
+**Q11. UKPCS (Mains) 2006**
+
+The nationalist song *Ae Mere Watan Ke Logo* was written by:
+
+A. Javed Akhtar
+
+B. Pradeep
+
+C. Ramdhari Singh Dinkar
+
+D. Maithili Sharan Gupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pradeep (born Ujjain; real name Ramchandra Narayanji Dwivedi) wrote it for the martyrs of the **1962** Indo-China war.
+
+</details>
+
+**Logic:** *Landmarks in Indian Constitutional and National Development* = Gurmukh Nihal Singh.
+
+**Q12. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+Who is the author of *Landmarks in Indian Constitutional and National Development*?
+
+A. Bipan Chandra
+
+B. Gurmukh Nihal Singh
+
+C. B.R. Nanda
+
+D. Ram Gopal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gurmukh Nihal Singh — later Governor of Rajasthan (**1956–62**).
+
+</details>
+
+**Logic:** Editor of *Congress Presidential Addresses* = G.A. Natesan (two parts, 1885–1934).
+
+**Q13. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+The editor of *Congress Presidential Addresses* was:
+
+A. G.A. Natesan
+
+B. B.P. Sitaramayya
+
+C. Ramanand Chatterjee
+
+D. H.N. Mitra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Two parts: Congress presidential addresses **1885–1910** and **1911–1934**.
+
+</details>
+
+**Logic:** *Das Kapital* = Karl Marx; Engels edited vols 2–3.
+
+**Q14. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+The famous book *Das Kapital* was written by:
+
+A. Amartya Sen
+
+B. Karl Marx
+
+C. Gandhiji
+
+D. Jawaharlal Nehru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Marx; volumes **2** and **3** edited/published by **Friedrich Engels**.
+
+</details>
+
+**Logic:** *Silent Spring* = Rachel Carson (pesticides).
+
+**Q15. UKPCS (Pre) 2005 / Chhattisgarh PCS (Pre) 2019**
+
+*Silent Spring* was written by:
+
+A. Rachel Carson
+
+B. Linnaeus
+
+C. Richard Wetherald
+
+D. Joseph Fourier
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** American biologist Rachel Carson — critique of pesticide use.
+
+</details>
+
+**Logic:** *Ignited Minds* = A.P.J. Abdul Kalam (also *Wings of Fire*).
+
+**Q16. UKPCS (Pre) 2002**
+
+The author of *Ignited Minds* is:
+
+A. A.P.J. Abdul Kalam
+
+B. Balasaheb Thackeray
+
+C. Khushwant Singh
+
+D. Nayantara Sahgal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Former President and “Missile Man”; also wrote *Wings of Fire*.
+
+</details>
+
+**Logic:** Match traps — Unhappy India ≠ Tilak; Mother India = Mayo; Guilty Men = Lohia.
+
+**Q17. UPPCS (Mains) 2009 / UPPCS (Pre) 2014**
+
+Which of the following is not correctly matched?
+
+A. Unhappy India — Bal Gangadhar Tilak
+
+B. Durgesh Nandini — Bankim Chandra Chatterjee
+
+C. India Wins Freedom — Abul Kalam Azad
+
+D. Poverty and Un-British Rule in India — Dadabhai Naoroji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** *Unhappy India* is **Lala Lajpat Rai** (reply to Mayo’s *Mother India*). Tilak edited *Kesari* / *The Mahratta*.
+
+</details>
+
+**Logic:** *Bahuvivah* = Vidyasagar (Widow Remarriage Act 1856 efforts).
+
+**Q18. IAS (Pre) 2007**
+
+Who, among the following, wrote the book *Bahuvivah*?
+
+A. Raja Rammohan Roy
+
+B. Ishwar Chandra Vidyasagar
+
+C. Pandita Ramabai
+
+D. Rabindranath Tagore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Vidyasagar also wrote *Balya Vivaher Dosh*; Widow Remarriage Act **1856** is tied to his campaign.
 
 </details>
 
 ---
 
+### UKPCS Complete PYQ Bank (Books & Authors)
 
-## Ghatnachakra Extra Drill — Magazines, Books and Authors
+> Stems tagged **UKPCS**. UPPCS Complete Bank sits above the Extra. Practice Zone follows this section.
 
-Teaching sits in **10.1–10.2a, 10.4–10.5, 10.10**.
+**Logic:** British official on Muslims / Wahabi question — not Sir Syed.
 
-**Logic:** Besant *New India/Commonweal*; Tod feudalism; Indian Sociologist = Shyamji; Amar Sonar Bangla / two anthems; Gitanjali years; Hind Swaraj Gujarati 1909 + Parliament line; Bandi Jivan = Sanyal; Anandamath = Bible of Bengali patriotism; Vidyasagar Bahuvivah; Chirol Indian Unrest; Toye Springing Tiger; Walangkar Vital-Vidhvansak; Deuskar Desher Katha; Menon Integration; Discovery = Ahmednagar.
+**Q1. UKPCS Prelims 2025, Q66**
 
-**Q1. UPPCS / IAS / BPSC**
+Who wrote the book *The Indian Musalmans*?
 
-*New India* editor / Tod’s Rajasthan book / *Indian Sociologist* / Bangladesh anthem song author / *Hind Swaraj* original language–year / *Bandi Jivan* / *Bahuvivah* / *Indian Unrest* / *Springing Tiger* subject / *Vital-Vidhvansak* author?
+A. W. W. Hunter
 
-<details>
-<summary>Show answer</summary>
+B. Charles McMillan
 
-**Ans:** **Annie Besant**. **Annals and Antiquities of Rajasthan** (Tod). **Shyamji Krishna Varma**. **Tagore** (*Amar Sonar Bangla*). **Gujarati, 1909**. **Sachindranath Sanyal**. **Vidyasagar**. **Valentine Chirol**. Biography of **Subhas Bose** (Hugh Toye). **Gopal Baba Walangkar**.
+C. Sir Syed Ahmad Khan
 
-</details>
-
-**Q2. Match traps**
-
-*Unhappy India* / *Mother India* / *Guilty Men of Partition* / *Man Who Divided India* / *India from Curzon to Nehru* / Nehru biography by Frank Moraes?
+D. S. N. Roy
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Unhappy = **Lajpat Rai**; Mother = **Mayo**; Guilty Men = **Lohia**; Man Who Divided = **Rafiq Zakaria**; Curzon to Nehru = **Durga Das**; Moraes = **Nehru biography**.
+**Ans: A (Series B provisional key).** William Wilson Hunter published *The Indian Musalmans* (**1871**).
 
 </details>
 
+**Logic:** Persian original vs English title trap (see Extra Q2).
+
+**Q2. UKPCS (Pre) 2021**
+
+In which language was Raja Rammohan Roy’s *Gift to Monotheists* written?
+
+A. Persian
+
+B. English
+
+C. Arabic
+
+D. Bengali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: (*)** UKPSC cancelled this stem in a revised key. Standard teaching: *Tuhfat-ul-Muwahhidin* = **Persian**; English title is a later translation (**1884**).
+
+</details>
+
+**Logic:** Kausani = Anasakti Yoga, 1929.
+
+**Q3. UKPCS (Pre) 2021**
+
+In 1929, at which place did Mahatma Gandhi complete his translation of Anasakti Yoga?
+
+A. Kausani
+
+B. Almora
+
+C. Nainital
+
+D. Ranikhet
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Kausani**, Uttarakhand.
+
+</details>
+
+**Logic:** Autobiography language = Gujarati.
+
+**Q4. UKPCS (Pre) 2010**
+
+Mahatma Gandhi wrote his autobiography originally in:
+
+A. Hindi
+
+B. Marathi
+
+C. Gujarati
+
+D. English
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+**Logic:** Author of *My Experiments with Truth*.
+
+**Q5. UKPCS (Mains) 2006**
+
+Who was the author of *My Experiments with Truth*?
+
+A. Jawaharlal Nehru
+
+B. Indira Gandhi
+
+C. P.V. Narasimha Rao
+
+D. Mahatma Gandhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
+
+</details>
+
+**Logic:** Discovery of India — author + Ahmednagar Fort.
+
+**Q6. UKPCS Lower Sub. (Pre) 2010 / UKPCS (Mains) 2006**
+
+Who is the author of *Discovery of India*, and where was it written in jail?
+
+A. Gandhi — Yeravda
+
+B. Azad — Alipore
+
+C. Nehru — Ahmednagar Fort
+
+D. Tilak — Mandalay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Nehru at **Ahmednagar Fort**; published **1946**.
+
+</details>
+
+**Logic:** *Gita Rahasya* = Tilak.
+
+**Q7. UKPCS Lower Sub. (Pre) 2010**
+
+*Srimad Bhagavat Gita Rahasya* was written by:
+
+A. Aurobindo Ghosh
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Mohandas Karamchand Gandhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Logic:** *Bharat Bharati* = Maithili Sharan Gupta.
+
+**Q8. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+Who is the author of *Bharat Bharati*?
+
+A. Rabindranath Tagore
+
+B. Mulk Raj Anand
+
+C. Maithili Sharan Gupta
+
+D. Bankim Chandra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+**Logic:** *Ae Mere Watan Ke Logo* = Pradeep.
+
+**Q9. UKPCS (Mains) 2006**
+
+The nationalist song *Ae Mere Watan Ke Logo* was written by:
+
+A. Javed Akhtar
+
+B. Pradeep
+
+C. Ramdhari Singh Dinkar
+
+D. Maithili Sharan Gupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tribute to **1962** Indo-China war martyrs.
+
+</details>
+
+**Logic:** Gurmukh Nihal Singh constitutional landmarks book.
+
+**Q10. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+Who is the author of *Landmarks in Indian Constitutional and National Development*?
+
+A. Bipan Chandra
+
+B. Gurmukh Nihal Singh
+
+C. B.R. Nanda
+
+D. Ram Gopal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Logic:** Natesan edited Congress presidential addresses.
+
+**Q11. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+The editor of *Congress Presidential Addresses* was:
+
+A. G.A. Natesan
+
+B. B.P. Sitaramayya
+
+C. Ramanand Chatterjee
+
+D. H.N. Mitra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Logic:** *Das Kapital* = Marx.
+
+**Q12. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+*Das Kapital* was written by:
+
+A. Amartya Sen
+
+B. Karl Marx
+
+C. Gandhiji
+
+D. Jawaharlal Nehru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Logic:** *Silent Spring* = Carson.
+
+**Q13. UKPCS (Pre) 2005**
+
+*Silent Spring* was written by:
+
+A. Rachel Carson
+
+B. Linnaeus
+
+C. Richard Wetherald
+
+D. Joseph Fourier
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Logic:** *Ignited Minds* = Kalam.
+
+**Q14. UKPCS (Pre) 2002**
+
+The author of *Ignited Minds* is:
+
+A. A.P.J. Abdul Kalam
+
+B. Balasaheb Thackeray
+
+C. Khushwant Singh
+
+D. Nayantara Sahgal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Logic:** *A Passage to India* = E.M. Forster.
+
+**Q15. UKPCS (Pre) 2010 / UKPCS (Pre) 2006**
+
+Who wrote *A Passage to India*?
+
+A. Jawaharlal Nehru
+
+B. Minoo Masani
+
+C. E.M. Forster
+
+D. None of them
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Novel on British India / freedom-struggle background of the 1920s.
+
+</details>
+
+**Logic:** *Soj-e-Vatan* = Premchand.
+
+**Q16. UKPCS (Pre) 2010**
+
+*Soj-e-Vatan* is the book written by:
+
+A. Mahadevi Verma
+
+B. Premchand
+
+C. Sumitra Nandan Pant
+
+D. Suryakant Tripathi ‘Nirala’
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Logic:** Sumitra Nandan Pant = Chhayavadi poet.
+
+**Q17. UKPCS (Mains) 2002**
+
+Sumitra Nandan Pant has been known as:
+
+A. Bhaktivadi poet
+
+B. Chhayavadi poet
+
+C. Pragativadi poet
+
+D. Veer ras poet
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Works include *Chidambara*, *Lokayatan*, *Pallav*, *Yugvani*.
+
+</details>
+
+**Logic:** *Bharat Durdasha* = Bharatendu Harishchandra.
+
+**Q18. UKPCS (Mains) 2002**
+
+The famous work of Bharatendu Harishchandra is:
+
+A. Mayanka Manjari
+
+B. Bharat Durdasha
+
+C. Nutan Brahmachari
+
+D. Chandra Kanta Santati
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** He also wrote the play *Andher Nagari*.
+
+</details>
+
+**Logic:** *Lajja* = Taslima Nasrin.
+
+**Q19. UKPCS U.D.A./L.D.A. (Pre) 2007**
+
+The author of the book *LAJJA* is:
+
+A. Sheikh Mujibur Rehman
+
+B. Taslima Nasrin
+
+C. Kiran Bedi
+
+D. Arundhati Roy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Logic:** *Geographical Factors in Indian History* = K.M. Panikkar.
+
+**Q20. UKPCS Lower Sub. (Pre) 2010**
+
+Who wrote *Geographical Factors in Indian History*?
+
+A. K.M. Panikkar
+
+B. Toynbee
+
+C. M.N. Srinivas
+
+D. Jamna Das
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

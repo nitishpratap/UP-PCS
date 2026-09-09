@@ -1544,16 +1544,24 @@ D. Shujauddin Muhammad Khan
 
 </details>
 
-**Logic:** Plassey = political foothold; Buxar = decisive supremacy; Clive = founder / Heaven-Born General.
+**Logic:** Plassey = political foothold; Clive = founder / Heaven-Born General.
 
 **Q2. MPPCS / UKPCS / UPPCS**
 
-War that began consolidation of British supremacy / first decisive military success / Plassey year / who defeated Siraj / founder of British Empire in India / Heaven-Born General?
+Who is often called the founder of British political power in Bengal after Plassey?
+
+A. Warren Hastings
+
+B. Robert Clive
+
+C. Hector Munro
+
+D. Lord Cornwallis
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Often keyed **Plassey** for foothold / first decisive Company success in Bengal politics; year **1757**; **Robert Clive**; Pitt’s phrase **Heaven-Born General**. Many texts still call **Buxar** the more decisive military proof of supremacy.
+**Ans: B.** **Robert Clive** after **Plassey (1757)**. Pitt’s phrase **Heaven-Born General** is tied to Clive. Many texts still call **Buxar (1764)** the more decisive military proof of supremacy.
 
 </details>
 
@@ -1599,16 +1607,24 @@ D. Mir Qasim
 
 </details>
 
-**Logic:** Most decisive for British supremacy = Buxar; Delhi ruler then = Shah Alam II; Bengal Nawab then = Mir Jafar; treaty = Allahabad; Diwani from Shah Alam II under Clive.
+**Logic:** Most decisive military supremacy in Bengal politics = Buxar under Munro; Diwani after Allahabad.
 
 **Q5. UPPCS / MPPCS / BPSC cluster**
 
-Most significant / decisive battle / Delhi ruler at Buxar / Bengal Nawab at Buxar / treaty after Buxar / who granted Diwani / Diwani date / under which governor?
+Which battle is most often keyed as decisive for British supremacy in north India after Plassey?
+
+A. Plassey, 1757
+
+B. Wandiwash, 1760
+
+C. Buxar, 1764
+
+D. Third Panipat, 1761
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Buxar (22/23 Oct 1764)** under **Hector Munro**. Delhi: **Shah Alam II**. Bengal Nawab: **Mir Jafar**. Treaty: **Allahabad (Aug 1765)**. Diwani: **Shah Alam II** on **12 August 1765** while **Clive** was Governor.
+**Ans: C.** **Buxar (22/23 Oct 1764)** under **Hector Munro**. Delhi ruler then: **Shah Alam II**. Bengal Nawab: **Mir Jafar**. Treaty: **Allahabad (Aug 1765)**. Diwani from **Shah Alam II** on **12 August 1765** under **Clive**.
 
 </details>
 
@@ -1709,11 +1725,22 @@ D. Sikh
 
 </details>
 
-**Logic:** Oudh Hindu officers — Tikait Rai as Asaf-ud-Daula’s diwan; Hindus in high posts — both true.
+**Logic:** Oudh Hindu officers — Tikait Rai as Asaf-ud-Daula’s diwan.
 
 **Q11. UP R.O./A.R.O. (Mains) 2016**
 
-Hindu Nayab Wazirs of Oudh: (1) Raja Tikait Rai was Artha Mantri of Asaf-ud-Daula (2) Certain Hindu castes held high posts under Oudh Nawabs
+With reference to Hindu officers under the Nawabs of Oudh, which of the following statements is/are correct?
+
+1. Raja Tikait Rai was Artha Mantri (Diwan) of Asaf-ud-Daula
+2. Certain Hindu castes held high posts under the Oudh Nawabs
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1728,22 +1755,51 @@ Hindu Nayab Wazirs of Oudh: (1) Raja Tikait Rai was Artha Mantri of Asaf-ud-Daul
 
 Teaching for these stems sits in **2.10–2.12** (Begum Samru in the UP / Sardhana note).
 
-**Logic:** Ranjit’s kingdom among options includes Srinagar/Kashmir; misl = Sukerchakia; capital = Lahore.
+**Logic:** Among common options, Srinagar/Kashmir (1819) was inside Ranjit’s kingdom — not Delhi/Kabul/Makran.
 
-**Q1. UPPCS Spl Mains 2004 / Pre 1997 / MPPCS 2021 / UKPCS 2006**
+**Q1. UPPCS Spl (Mains) 2004 / UPPCS (Pre) 1997 / MPPCS 2021 / UKPCS 2006**
 
-Ranjit’s kingdom included / which misl / capital of Ranjit Singh?
+Which of the following places was included in Maharaja Ranjit Singh’s kingdom?
+
+A. Delhi
+
+B. Kabul
+
+C. Srinagar
+
+D. Makran
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Among common options, **Srinagar (Kashmir, 1819)** was in his kingdom — not Delhi/Kabul/Makran. Misl = **Sukerchakia (Shukarchakiya)**. Capital = **Lahore** (from **1799**); Amritsar was the religious capital (**1802**).
+**Ans: C.** **Kashmir/Srinagar (1819)** was under Ranjit. Capital = **Lahore** (from **1799**); Amritsar was the religious capital (**1802**).
+
+</details>
+
+**Logic:** Ranjit’s misl = Sukerchakia.
+
+**Q2. UPPCS / UKPCS**
+
+Maharaja Ranjit Singh belonged to which Sikh misl?
+
+A. Ahluwalia
+
+B. Ramgarhia
+
+C. Sukerchakia
+
+D. Bhangi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Sukerchakia (Shukarchakiya)** misl.
 
 </details>
 
 **Logic:** Adalat-i-Ala = Lahore (not Amritsar).
 
-**Q2. UPPCS (Pre) 2021**
+**Q3. UPPCS (Pre) 2021**
 
 At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
 
@@ -1762,108 +1818,207 @@ D. Multan
 
 </details>
 
-**Logic:** Treaty of Amritsar 1809 = Lord Minto (Metcalfe); Kohinoor from Shah Shuja; “one eye” quote = Ranjit.
+**Logic:** Treaty of Amritsar 1809 under Lord Minto (Metcalfe negotiated).
 
-**Q3. Jharkhand PCS / BPSC / UPPCS Mains**
+**Q4. Jharkhand PCS / BPSC / UPPCS (Mains)**
 
-Treaty of Amritsar concluded with / Kohinoor from / who said God took light from one eye so all religions look one?
+The Treaty of Amritsar (1809) between the English and Ranjit Singh was concluded in the time of:
 
-<details>
-<summary>Show answer</summary>
+A. Lord Wellesley
 
-**Ans:** **Lord Minto** (Metcalfe signed). **Shah Shuja**. **Maharaja Ranjit Singh**.
+B. Lord Minto
 
-</details>
+C. Lord Hastings
 
-**Logic:** Successor = Kharak/Khadag Singh; last king = Duleep Singh; died Paris 1893; pension not 2.5 lakh.
-
-**Q4. Jharkhand / UP UDA/LDA / UPPCS Mains / UP R.O. 2023**
-
-Successor of Ranjit / last Sikh king / correct statement about Duleep / false statement on Punjab merger pension?
+D. Lord Auckland
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Successor **Khadag / Kharak Singh**. Last king **Duleep Singh (1843–49)**. He died in **Paris (1893)**, accepted Christianity, visited Russia, cremated in England. False pension claim: **₹2,50,000** — real figure about **₹4–5 lakh**.
+**Ans: B.** **Lord Minto**; Charles Metcalfe signed. Kohinoor later came from **Shah Shuja**.
 
 </details>
 
-**Logic:** Board of Three = Henry Lawrence (president), John Lawrence, Charles Mansel — not Elliot/Montgomery.
+**Logic:** “One eye” religious harmony quote = Ranjit Singh.
 
-**Q5. UPPCS (Mains) 2013**
+**Q5. UPPCS (Mains)**
 
-Who was NOT a member of the Board of Three to administer Punjab after annexation?
+Who said that God took away the light from one of his eyes so that he might look upon all religions with one eye?
 
-A. H.M. Elliot
+A. Guru Gobind Singh
+
+B. Maharaja Ranjit Singh
+
+C. Duleep Singh
+
+D. Baba Ram Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Maharaja Ranjit Singh**.
+
+</details>
+
+**Logic:** Last Sikh king = Duleep Singh; successor of Ranjit = Kharak Singh.
+
+**Q6. Jharkhand / UPPCS (Mains) / UP R.O. 2023**
+
+Who was the last Sikh ruler of Punjab?
+
+A. Ranjit Singh
+
+B. Kharak Singh
+
+C. Sher Singh
+
+D. Duleep Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Duleep Singh (1843–49)**. Ranjit’s immediate successor was **Kharak Singh**. Duleep died in **Paris (1893)**.
+
+</details>
+
+**Logic:** Board of Three after annexation = Henry Lawrence, John Lawrence, Charles Mansel — not Elliot/Montgomery.
+
+**Q7. UPPCS (Mains) 2013**
+
+Who was NOT a member of the Board of Three that administered Punjab after annexation?
+
+A. Charles Grenville Mansel
 
 B. Sir Henry Lawrence
 
 C. John Lawrence
 
-D. Robert Montgomery
+D. H.M. Elliot
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A and D** (both outsiders). Board = **Henry Lawrence, John Lawrence, Charles Grenville Mansel**.
+**Ans: D.** Board = **Henry Lawrence, John Lawrence, Charles Grenville Mansel**.
 
 </details>
 
-**Logic:** First Anglo-Mysore = Haidar victorious / Treaty of Madras 1769; Dindigul armoury 1755 = Haidar; Porto Novo = Eyre Coote beat Haidar.
+**Logic:** First Anglo-Mysore — Haidar strong; Treaty of Madras 1769.
 
-**Q6. UPPCS / Jharkhand**
+**Q8. UPPCS / Jharkhand**
 
-Who won First Anglo-Mysore / who set modern armoury at Dindigul 1755 / British general who beat Haidar at Porto Novo?
+The First Anglo-Mysore War ended with the Treaty of:
+
+A. Mangalore
+
+B. Madras
+
+C. Srirangapatna
+
+D. Salbai
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Haidar Ali** (Treaty of Madras, **4 Apr 1769**). **Haidar Ali** at **Dindigul**. **Sir Eyre Coote** at **Porto Novo (1781)**.
+**Ans: B.** **Treaty of Madras (4 April 1769)** — Haidar Ali remained strong.
 
 </details>
 
-**Logic:** Tipu capital Srirangapatna; embassies modern lines; Pollilur 1780 British defeat; Srirangapatna treaty Tipu; died 1799 Fourth War.
+**Logic:** Porto Novo 1781 — Eyre Coote defeated Haidar.
 
-**Q7. BPSC / IAS / UPPCS**
+**Q9. UPPCS**
 
-Tipu’s capital / who set embassies abroad / Tipu beat British 1780 at / Treaty of Srirangapatna with / Tipu died when?
+Who defeated Haidar Ali at Porto Novo (1781)?
+
+A. Sir Eyre Coote
+
+B. Hector Munro
+
+C. Arthur Wellesley
+
+D. Cornwallis
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Srirangapatna**. **Tipu Sultan** (Iran, Istanbul, Afghanistan, France). **Pollilur**. **Tipu** (**1792**, Third War). Died **1799** (Fourth War).
+**Ans: A.** **Sir Eyre Coote** at **Porto Novo**.
 
 </details>
 
-**Logic:** Only Fourth War match is correct among common wrong First/Second/Third claims.
+**Logic:** Tipu’s capital = Srirangapatna; died in Fourth War 1799.
 
-**Q8. UPPCS (Mains) 2014**
+**Q10. BPSC / IAS / UPPCS**
 
-Which is correctly matched? (First–Fourth Anglo-Mysore outcomes)
+Tipu Sultan’s capital was:
+
+A. Mysore town only
+
+B. Bangalore
+
+C. Srirangapatna
+
+D. Mandya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Fourth** — Tipu defeated and killed in battle (**1799**). First ended with **Madras** (Haidar strong). Second ended **Mangalore**. Third Tipu ceded roughly half territory (**Srirangapatnam 1792**).
+**Ans: C.** **Srirangapatna**. Tipu died in the **Fourth** Anglo-Mysore War (**1799**). Treaty of Srirangapatna (**1792**) ended the Third War.
 
 </details>
 
-**Logic:** Treaty years — Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769.
+**Logic:** British defeat at Pollilur 1780 under Tipu/Haidar stream.
 
-**Q9. UPPCS (Pre) 2019**
+**Q11. UPPCS / BPSC**
 
-Match Allahabad / Mangalore / Salbai / Madras → years
+At which battle in 1780 did Tipu (with Haidar’s forces) inflict a heavy defeat on the British?
+
+A. Porto Novo
+
+B. Pollilur
+
+C. Wandiwash
+
+D. Plassey
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **1765 / 1784 / 1782 / 1769** (code often **4-2-1-3**).
+**Ans: B.** **Pollilur (1780)**.
+
+</details>
+
+**Logic:** Match treaty years — Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769.
+
+**Q12. UPPCS (Pre) 2019**
+
+Match the following treaties with their years:
+
+| Treaty | Year |
+|--------|------|
+| A. Allahabad | 1. 1782 |
+| B. Mangalore | 2. 1769 |
+| C. Salbai | 3. 1765 |
+| D. Madras | 4. 1784 |
+
+*Row order is not the answer code.*
+
+A. 3 4 1 2
+
+B. 3 1 4 2
+
+C. 4 3 2 1
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Allahabad **1765**; Mangalore **1784**; Salbai **1782**; Madras **1769**.
 
 </details>
 
 **Logic:** Begum Samru church = Sardhana (Meerut).
 
-**Q10. UPPCS (Mains) 2012**
+**Q13. UPPCS (Mains) 2012**
 
 Begum Samru constructed the most eminent church at:
 
@@ -1878,36 +2033,102 @@ D. Kanpur
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Sardhana** near Meerut; husband **Walter Reinhardt Sombre**.
+**Ans: C.** **Sardhana** (Meerut region).
 
 </details>
 
-**Logic:** IAS 2003 — Ali Mardan Khan did NOT introduce revenue farming in Bengal (Murshid Quli did); other three statements true (Ranjit cannons, Jai Singh Euclid, Tipu Shringeri).
+---
 
-**Q11. IAS (Pre) 2003**
+### UKPCS Complete PYQ Bank (EIC / Punjab / Mysore)
 
-Which statement is NOT correct? (Ali Mardan / Ranjit foundries / Jai Singh Euclid / Tipu Shringeri)
+**Logic:** Plassey battlefield state — Nadia / West Bengal.
+
+**Q1. Uttarakhand PCS (Pre) 2010**
+
+Battlefield of Plassey is situated in:
+
+A. Bihar
+
+B. Andhra Pradesh
+
+C. Orissa
+
+D. West Bengal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Ali Mardan Khan…).** Revenue farming in Bengal is linked to **Murshid Quli Khan**, not Ali Mardan Khan.
+**Ans: D.** **Palashi**, Nadia district, West Bengal.
 
 </details>
 
-**Logic:** IAS 2004 — only Mir Jafar–Plassey conspiracy true; Panipat III not vs Ibrahim Lodi; Tipu died in Fourth not Third Mysore War.
+**Logic:** Ranjit’s territorial extent among options.
 
-**Q12. IAS (Pre) 2004**
+**Q2. UKPCS 2006 / UPPCS cluster**
 
-1 Abdali beat Ibrahim Lodi at Panipat III 2 Tipu killed in Third Anglo-Mysore 3 Mir Jafar conspired at Plassey
+Which of the following was included in Maharaja Ranjit Singh’s kingdom?
+
+A. Delhi
+
+B. Kabul
+
+C. Srinagar
+
+D. Makran
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (3 only).** Panipat III = Marathas. Tipu died in the **Fourth** war (**1799**).
+**Ans: C.** **Srinagar (Kashmir, 1819)**.
 
 </details>
 
+**Logic:** IAS 2003 — Ali Mardan Khan did NOT introduce revenue farming in Bengal (Murshid Quli did).
+
+**Q3. IAS (Pre) 2003**
+
+Which one of the following statements is NOT correct?
+
+A. Ali Mardan Khan introduced the system of revenue farming in Bengal
+
+B. Maharaja Ranjit Singh set up modern foundries to manufacture cannons at Lahore
+
+C. Sawai Jai Singh of Amber had Euclid’s Elements of Geometry translated into Sanskrit
+
+D. Tipu Sultan of Mysore gave money for the construction of the Shringeri temple
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Revenue farming in Bengal is linked to **Murshid Quli Khan**, not Ali Mardan Khan.
+
+</details>
+
+**Logic:** Tipu died in Fourth Anglo-Mysore War; Panipat III was not vs Ibrahim Lodi.
+
+**Q4. IAS (Pre) 2004**
+
+Which of the following statements is/are correct?
+1. Ahmad Shah Abdali defeated Ibrahim Lodi at the Third Battle of Panipat
+2. Tipu Sultan was killed in the Third Anglo-Mysore War
+3. Mir Jafar entered into a conspiracy with the English at Plassey
+
+A. 1 and 2
+
+B. 3 only
+
+C. 2 and 3
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (3 only).** Panipat III = Marathas vs Abdali. Tipu died in the **Fourth** war (**1799**).
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

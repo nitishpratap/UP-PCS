@@ -957,19 +957,275 @@ D. Administrative Reform Commission
 
 Teaching sits in **15.3**.
 
-**Logic:** CA under Cabinet Mission; Faizpur idea; 10 lakh ratio; first sitting 9 Dec 1946 Sinha; permanent Prasad; Jinnah not member; adopted 26 Nov 1949 / commenced 26 Jan 1950; Mavlankar Speaker bridge.
+**Logic:** Constituent Assembly creation is tied to the **Cabinet Mission (1946)**, not the Mountbatten Plan or Cripps Mission alone.
 
 **Q1. UPPCS / IAS / BPSC**
 
-Under which plan was CA set up / first sitting date–temp President / permanent President / was Jinnah a member / adopted vs commenced dates?
+The Constituent Assembly of India was set up under the provisions of:
+
+A. Cripps Mission Plan, 1942
+
+B. Cabinet Mission Plan, 1946
+
+C. Mountbatten Plan, 1947
+
+D. Indian Independence Act, 1947
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Cabinet Mission**. First sitting **9 Dec 1946**, temp **Sachchidananda Sinha**. Permanent **Rajendra Prasad**. Jinnah = **not** a member. Adopted **26 Nov 1949**; commenced **26 Jan 1950**.
+**Ans: B.** The Assembly was elected in **1946** under the **Cabinet Mission** scheme before full transfer of power. **Trap:** The Independence Act **implemented** Partition and commencement dates — it did **not** create the Assembly, which had already met in December 1946.
 
 </details>
 
+**Logic:** The demand for a Constituent Assembly was strongly pressed at the **Faizpur** session — not Lucknow, Karachi, or Lahore.
+
+**Q2. UPPCS / IAS**
+
+At which session of the Indian National Congress was the idea of a Constituent Assembly pressed strongly?
+
+A. Lucknow Session, 1916
+
+B. Faizpur Session, 1936
+
+C. Karachi Session, 1931
+
+D. Lahore Session, 1929
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Congress at **Faizpur (1936)** pressed hard for a Constituent Assembly. **Trap:** **Karachi 1931** is linked to the Fundamental Rights resolution, not the CA demand.
+
+</details>
+
+**Logic:** Cabinet Mission fixed representation at roughly **one seat per 10 lakh** of population — not one per province or per district.
+
+**Q3. UPPCS / IAS / BPSC**
+
+Under the Cabinet Mission scheme, Constituent Assembly representation was broadly based on:
+
+A. One member from each princely state regardless of population
+
+B. One seat for roughly every 10 lakh population
+
+C. Equal seats for all British Indian provinces
+
+D. Nomination by the Viceroy's Executive Council
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The ratio was about **one representative per 10 lakh** people in British India. **Trap:** Strength was **389** initially (299 after Partition) — do not confuse the **ratio rule** with final seat totals.
+
+</details>
+
+**Logic:** First sitting **9 December 1946**; **Sachchidananda Sinha** was temporary President before Rajendra Prasad.
+
+**Q4. UPPCS / IAS**
+
+Consider the following statements about the first meeting of the Constituent Assembly:
+
+1. It first met on 9 December 1946.
+2. Sachchidananda Sinha presided as temporary President.
+
+Which is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both facts are correct. **Trap:** **Rajendra Prasad** became **permanent President on 11 December 1946** — Sinha was only the **temporary** chair for the opening sitting.
+
+</details>
+
+**Logic:** Permanent CA President = **Rajendra Prasad**; Ambedkar chaired Drafting, not the Assembly.
+
+**Q5. UPPCS / IAS / BPSC**
+
+Who was elected as the permanent President of the Constituent Assembly?
+
+A. Dr. B. R. Ambedkar
+
+B. Dr. Rajendra Prasad
+
+C. Jawaharlal Nehru
+
+D. Sachchidananda Sinha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Rajendra Prasad** was elected permanent President on **11 December 1946**. **Trap:** Sinha was **temporary** chair at the first sitting; Ambedkar headed only the **Drafting Committee**.
+
+</details>
+
+**Logic:** **Jinnah was NOT** a member of the Indian Constituent Assembly — League participation is often confused with his personal membership.
+
+**Q6. UPPCS / IAS**
+
+Which of the following statements about the Constituent Assembly is **not** correct?
+
+A. Its initial strength was 389 members.
+
+B. After Partition its strength reduced to about 299 members.
+
+C. Muhammad Ali Jinnah was a member of the Constituent Assembly.
+
+D. The Congress had the largest bloc of seats.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Jinnah was not** a member of the Indian Constituent Assembly. **Trap:** Muslim League members did join later sittings, but Jinnah himself stayed with Pakistan politics — do not assume League leadership equals CA membership.
+
+</details>
+
+**Logic:** **Adopted 26 Nov 1949** ≠ **commenced 26 Jan 1950** — both dates are separate milestones.
+
+**Q7. UPPCS / IAS / BPSC**
+
+With reference to the Indian Constitution, consider the following:
+
+1. The Constitution was adopted on 26 November 1949.
+2. The Constitution commenced on 26 January 1950.
+
+Which is/are correct?
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Adoption and commencement are **two different dates**. **Trap:** **24 January 1950** was the **last sitting** of the Assembly — not adoption or commencement.
+
+</details>
+
+**Logic:** **G. V. Mavlankar** bridged the colonial Central Legislative Assembly Speakership and free India's first Lok Sabha Speakership.
+
+**Q8. UPPCS / IAS**
+
+G. V. Mavlankar is remembered in constitution-making history for:
+
+A. Chairing the Drafting Committee before Ambedkar
+
+B. Moving the Objectives Resolution in the Constituent Assembly
+
+C. Serving as Speaker of the Central Legislative Assembly and later as the first Speaker of the Lok Sabha
+
+D. Presiding over the Constituent Assembly as its permanent President
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mavlankar bridged the **British-era Central Assembly** and the **First Lok Sabha** as Speaker. **Trap:** Permanent CA President was **Prasad**, not Mavlankar; **Nehru** moved the Objectives Resolution.
+
+</details>
+
+**Logic:** Objective Resolution — moved **13 Dec 1946**, adopted **22 Jan 1947**; do not swap with Flag or Drafting Committee dates.
+
+**Q9. UPPCS / IAS**
+
+When was the Objectives Resolution moved and when was it adopted by the Constituent Assembly?
+
+A. Moved 13 December 1946; adopted 22 January 1947
+
+B. Moved 9 December 1946; adopted 26 November 1949
+
+C. Moved 22 July 1947; adopted 26 January 1950
+
+D. Moved 29 August 1947; adopted 24 January 1950
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nehru moved the Objectives Resolution on **13 December 1946**; the Assembly adopted it on **22 January 1947**. **Trap:** **22 July 1947** is the **National Flag** adoption date, not the Objectives Resolution.
+
+</details>
+
+**Logic:** Drafting Committee was constituted **29 August 1947**, not at the first sitting in December 1946.
+
+**Q10. UPPCS / IAS / BPSC**
+
+The Drafting Committee of the Constituent Assembly was set up on:
+
+A. 9 December 1946
+
+B. 22 January 1947
+
+C. 29 August 1947
+
+D. 26 November 1949
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The Drafting Committee (chair **B. R. Ambedkar**) was created on **29 August 1947**, after independence. **Trap:** First CA sitting (**9 Dec 1946**) and Drafting Committee formation are **eleven months apart**.
+
+</details>
+
+**Logic:** Assembly duration **2 years 11 months 18 days** — standard chronology anchor from first sitting to adoption.
+
+**Q11. UPPCS / IAS**
+
+The Constituent Assembly took approximately how long to complete its work?
+
+A. 1 year 6 months
+
+B. 2 years 11 months and 18 days
+
+C. 3 years 6 months
+
+D. 4 years exactly
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** From first sitting (**9 Dec 1946**) to adoption (**26 Nov 1949**), the Assembly worked about **2 years 11 months 18 days**. **Trap:** Do not count from **15 August 1947** alone — the Assembly began and did substantial work **before** independence.
+
+</details>
+
+---
+
+### UKPCS Complete PYQ Bank (Constituent / Planning)
+
+Planning roots in **1938** (Nehru's National Planning Committee) link forward to Topic 15's **Planning Commission (1950)**; full Gandhian-era card sits in **Topic 13 — UKPCS bank**.
+
+**Logic:** Congress planning machinery of **1938** — chairman association with Nehru, not Patel or Prasad.
+
+**Q1. UKPCS Prelims 2025, Q74**
+
+Who was appointed the Chairman of the 'National Planning Committee' by the Indian National Congress in 1938?
+
+A. Sardar Vallabhbhai Patel
+
+B. Rajendra Prasad
+
+C. Jawaharlal Nehru
+
+D. J. B. Kripalani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Nehru chaired the National Planning Committee set up in **1938** during Subhas Chandra Bose's Congress presidency. Patel, Prasad and Kripalani are planted Congress distractors. **Trap:** Do not read this as the **1950 Planning Commission** — the 1938 body was a **Congress** committee, not the post-independence **Cabinet resolution** Commission.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 
