@@ -273,7 +273,7 @@ Most planets **orbit and rotate prograde** (same sense as Earth’s west→east 
 | **Saturn** | ~**27°** | Prograde | ~**10.7 h** | ~**29.5** Earth years | Many; **Titan** largest of Saturn | Clearest rings |
 | **Uranus** | ~**98°** | **Retrograde** (sideways) | ~**17 h** | ~**84** Earth years | Many | Sideways rotator; Sun rises in the west framing |
 | **Neptune** | ~**28°** | Prograde | ~**16 h** | ~**165** Earth years | Many; **Triton** famous | Coldest / farthest in 8-planet set |
-| **Pluto** (dwarf) | High / retrograde framing | Retrograde | Long | ~**248** Earth years | Charon, Nix, Hydra… | IAU dwarf since **2006** |
+| **Pluto** (dwarf) | High / retrograde framing | Retrograde | Long | ~**248** Earth years | Charon, Nix, Hydra and others | IAU dwarf since **2006** |
 
 ### Other solar-system facts
 
@@ -359,7 +359,7 @@ Around the Northern Hemisphere **winter solstice**, global pressure belts **shif
 
 ### Countries on major parallels (full lists)
 
-Learn the full sets. Do not stop at “India, Egypt, Mexico…”.
+Learn the **full country sets** below. Partial name chains are not enough.
 
 **Equator (0°)** — 13 countries (west→east coaching order):
 
@@ -425,20 +425,26 @@ India’s extreme longs / Tropic **states**. **15° / IDL / IST meridian**
 
 Composition (dry air): **N₂ ~78%**, **O₂ ~21%**, Ar ~0.9%, CO₂ ~0.04%. Water vapour variable.
 
-| Layer | Height pair | Note |
-|-------|------------|-----------|
-| **Troposphere** | ~8–18 km (thicker at equator) | **All weather**; lapse ~**6.5°C / km**; tropopause |
-| **Stratosphere** | ~18–50 km | **Ozone UV shield** (2018 Q52, 2023 Q52, 2025 Q45); temp rises with O₃ |
-| Mesosphere | ~50–80 km | Coldest; meteors burn |
-| Thermosphere / Ionosphere | above ~80 km | Radio bounce; aurora |
-| Exosphere | outermost | Merges into space |
+| Layer | Approx. height | Teaching note |
+|-------|----------------|---------------|
+| **Troposphere** | ~8–18 km (thicker at the equator) | Holds almost all weather; temperature usually falls at about **6.5°C per km** |
+| **Stratosphere** | ~18–50 km | Holds the **ozone** UV shield; dry and largely free of weather, so ideal for jet flight |
+| **Mesosphere** | ~50–80 km | Coldest layer; meteors burn here |
+| **Thermosphere / Ionosphere** | above ~80 km (often framed ~80–640 km) | Reflects radio waves and hosts the **aurora** |
+| **Exosphere** | outermost fringe | Merges into space; coaching notes often place communication-satellite orbits with this outer frame |
 
 - The atmosphere is heated mainly by **long-wave terrestrial radiation**, not by incoming short-wave alone.
-- Diffusion / scattering of light in the classic UPPCS set is linked with **dust particles**.
+- Diffusion / scattering of light in the classic coaching set is linked with **dust particles**.
 
 **Permanent vs variable gases:** N₂, O₂, Ar stay nearly constant day to day; CO₂, O₃, water vapour vary.
 
-**Layer pairs (GC heights):** Troposphere (weather; lapse **~6.5°C/km**) → Stratosphere (**ozone**; dry; **ideal for jet flight** — little cloud/weather) → Mesosphere → Ionosphere (~80–640 km; **radio reflection**; **aurora**) → Exosphere (outer; **communication satellites** geostationary pair).
+**Layer teaching (bottom → top)**
+
+- The **troposphere** holds almost all weather. Temperature usually falls with height at about **6.5°C per km**.
+- The **stratosphere** holds the **ozone** shield. It is dry and largely free of weather, so it is ideal for jet flight.
+- The **mesosphere** is colder still; meteors burn here.
+- The **thermosphere / ionosphere** reflects radio waves and hosts the **aurora**.
+- The **exosphere** is the outermost fringe that merges into space. Some coaching notes place communication-satellite orbits with this outer frame.
 
 **Correct upward order:** Troposphere → Stratosphere → Mesosphere → Ionosphere/Thermosphere → Exosphere.
 
@@ -1013,7 +1019,19 @@ A volcano is a crustal rupture that lets lava, ash and gases escape from a magma
 | **Dormant** | Quiet but may revive — **Kilimanjaro** (Kibo dormant; Mawenzi / Shira extinct note), **Damavand** (Iran) |
 | **Extinct** | Unlikely to erupt again — Kulal (Kenya), Chimborazo (Ecuador), Popa (Myanmar), Koh-e-Sultan (Pakistan) note |
 
-**Match pairs (beyond the 2021 Rainier set):** Sabancaya–Peru; Colima–Mexico; Merapi–Indonesia; Kinabalu–Malaysia; Elburz–Iran; Aconcagua–Argentina (peak, not an active volcano in GC keys); Krakatoa–Indonesia. Volcanic cone = **constructional / basic** landform from lava build-up (vs residual / erosional forms).
+Beyond the Rainier–Etna–Paricutin–Apo set, learn these volcano–country pairs for Match List practice.
+
+| Volcano / peak | Country | Teaching note |
+|----------------|---------|---------------|
+| **Sabancaya** | **Peru** | Andean volcano |
+| **Colima** | **Mexico** | Mexican volcano match |
+| **Merapi** | **Indonesia** | Classic Indonesian volcano |
+| **Kinabalu** | **Malaysia** | Peak often listed with volcano/country sets |
+| **Elburz (Alborz)** | **Iran** | Iranian range / peak match |
+| **Aconcagua** | **Argentina** | High peak; **not** treated as an active volcano in standard keys |
+| **Krakatoa / Krakatau** | **Indonesia** | Famous caldera volcano |
+
+A volcanic cone is a **constructional** landform built by lava and ash, not a residual hill left by erosion.
 
 **Inline PYQ — UPPCS Prelims 2021, Q78**
 

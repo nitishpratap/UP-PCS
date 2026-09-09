@@ -150,7 +150,7 @@ D. 1881
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Paper key **1871**. Historical non-sync census is **1872**; first synchronous census is **1881**.
+**Ans: C** — The non-synchronous census year keyed here is **1871**. The historical first non-synchronous census is usually dated **1872**; the first synchronous all-India census is **1881**.
 </details>
 
 ---
@@ -658,7 +658,10 @@ Uttar Pradesh is India’s **most populous** state and also has the **largest ru
 - UP held about **16.5%** of India’s population (~**19.98 crore**).
 - Density **829**, sex ratio **912**, literacy about **67.7%**, urban share about **22.3%**, rural share about **77.7%**.
 - Decadal growth **2001–11** was about **20.23%**.
-- District notes: **Prayagraj** most populous; **Ghaziabad** densest; **Jaunpur** among the better sex-ratio districts; **Shrawasti** lowest female literacy.
+- **Prayagraj** is the most populous district in the 2011 note.
+- **Ghaziabad** is the densest district.
+- **Jaunpur** ranks among the better sex-ratio districts.
+- **Shrawasti** has the lowest female literacy among UP districts.
 - Million-city years: Kanpur **1971**, Lucknow **1981**.
 - UA order 2011: **Kanpur > Lucknow > Ghaziabad > Agra**.
 - Never treat TFR as a “per thousand” figure — that unit belongs to CBR.
@@ -2077,7 +2080,7 @@ D. Lalitpur
 
 ---
 
-**Q52.** Which UP district is classically locked as the densest (Census 2011)?
+**Q52.** Which UP district is classically treated as the densest (Census 2011)?
 
 A. Sonbhadra
 

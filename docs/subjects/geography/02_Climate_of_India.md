@@ -211,7 +211,7 @@ The Sun sends **short-wave** radiation. The Earth returns **long-wave infrared**
 
 | Surface | Albedo | Fact |
 |---------|--------|------|
-| **Fresh snow** | 80–90% | **Highest** among usual options — 2021 Q66 |
+| **Fresh snow** | 80–90% | **Highest** among usual surface options |
 | Desert sand | 30–40% | Moderate |
 | Prairie | 20–25% | — |
 | Paddy / cropland | 10–20% | Lower |
@@ -220,9 +220,9 @@ The Sun sends **short-wave** radiation. The Earth returns **long-wave infrared**
 - **Albedo** is the share of sunlight a surface reflects. Fresh snow reflects most. Dark forest absorbs more and warms more.
 - **Absolute humidity** is the mass of water vapour in a given volume of air.
 - **Relative humidity** is actual vapour as a percentage of what the air can hold at that temperature. When temperature rises, holding capacity rises, so relative humidity falls even if the vapour mass is unchanged.
-- In 2024 Q27, Assertion is true (RH falls as temperature rises). Reason is also true (absolute humidity can rise with evaporation). Reason does **not** explain Assertion.
+- Absolute humidity can still rise with stronger evaporation even while relative humidity falls. The two facts are both true, but the second does **not** explain the first.
 
-> ** note:** 2022 Q138 answer = **long-wave terrestrial radiation**. 2021 Q66 = **fresh snow**. 2024 Q27 = both true, R **not** the explanation.
+> **Teaching note:** The troposphere is heated mainly by **long-wave terrestrial radiation** from below. Among common surfaces, **fresh snow** has the highest albedo. Absolute humidity can rise with evaporation while relative humidity falls with warming; the evaporation fact does **not** explain the RH fall.
 
 ### Temperature inversion
 
@@ -487,7 +487,9 @@ These two names cover the same autumn window, but they are not the same process.
 - **Cold weather (Dec–Feb):** north-west rain/snow from **Western Disturbances**; fog on the Indo-Gangetic plain; rabi wheat season. Most of India is dry under **NE trade / land winds**.
 - **Hot weather (Mar–May):Loo** heat waves; **Nor'westers** and pre-monsoon storms; **mango** and **blossom** showers in the south.
 - **South-west monsoon (Jun–Sep):** main rainy season; Tamil Nadu **south-east coast** stays relatively dry in this phase.
-- **Retreating monsoon (Oct–Nov):** withdrawal from north-west; **October heat**; Bay cyclones; **north-east monsoon** begins on Tamil Nadu coast.
+- **Retreating monsoon (Oct–Nov)** is the withdrawal of the southwest monsoon from the north-west.
+- The same season brings **October heat** and Bay of Bengal cyclones.
+- The **north-east monsoon** then begins to rain on the Tamil Nadu coast.
 
 ### Western Disturbances
 

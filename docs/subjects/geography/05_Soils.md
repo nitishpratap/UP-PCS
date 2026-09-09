@@ -658,9 +658,12 @@ D. Black soil is found in Himalayan region
 
 - N is often limiting in Indian soils; legumes + fertilisers help.
 - Continuous cropping without OM **mines** nutrients.
-- Limits by type: laterite lacks bases; desert lacks humus; usar has salts; red uplands lack N/humus.
+- Laterite is short of bases after heavy leaching.
+- Desert soil is short of humus.
+- Usar / saline–alkali soil is limited by salts.
+- Red uplands are often short of nitrogen and humus.
 - Earthworms mix/aerate and raise fertility — “friends of farmers.”
-- They do **not** have two pairs of hearts (five pairs of aortic arches) → 2025 Q73 **Only 1**.
+- They do **not** have two pairs of hearts; earthworms have **five pairs** of aortic arches.
 
 **Soil Health Card:** nutrient status + fertiliser advice. Launched **19 Feb 2015**, Suratgarh; slogan *Swasth Dharaa, Khet Haraa*.
 

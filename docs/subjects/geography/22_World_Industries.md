@@ -581,8 +581,6 @@ The **Foehn (Föhn)** is the Alpine member.
 
 The **Chinook** is the Rockies member. It is warm **and dry** (the “snow eater”).
 
-**Also revise:** Harmattan (W Africa “Doctor”); Sirocco (Sahara→Med, blood rain in Italy); Simoom (Arabia/Kurdistan); Loo / Kalbaisakhi–Norwesters (India); Black Roller (N America plains).
-
 The **Zonda** is the eastern Andes member in **Argentina**.
 
 The **Berg** wind is the South African member.
@@ -607,7 +605,7 @@ The **Norte** is a Mexican / Gulf cold outbreak.
 
 **Hot / dusty desert winds**
 
-The **Sirocco** runs Sahara to the Mediterranean.
+The **Sirocco** runs from the Sahara to the Mediterranean and can carry reddish dust (“blood rain”) into Italy.
 
 The **Khamsin** is Egypt’s cousin.
 
@@ -615,21 +613,23 @@ The **Ghibli** is Libya. The **Chili** is Tunisia. The **Leveche** is Spain.
 
 The **Shamal** is **Arabia / Persian Gulf**, **not Austria**.
 
-The **Harmattan** is **West Africa**, not the East African coast.
+The **Harmattan** is the dry, dusty West African trade wind often called the “Doctor”.
 
 The **Samun** is **Kurdistan / Iran**.
 
-The **Simoom** is scorching Arabia.
+The **Simoom** is a scorching hot wind of Arabia and the Kurdistan belt.
 
 The **Brickfielder** is **Australia**.
 
 The **Haboob** is a **Sudan** / Sahara dust wall.
 
-The **Black roller** is North American.
+The **Black roller** is a dusty plains wind of North America.
 
 The **Karaburan** is Central Asia.
 
-The **Loo** is the north-Indian plains member.
+The **Loo** is the hot, dry summer wind of the north-Indian plains.
+
+The **Kal Baisakhi** (Nor’westers) is the violent pre-monsoon thunderstorm wind of eastern India and Bangladesh.
 
 **Other match names**
 

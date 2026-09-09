@@ -58,7 +58,7 @@ D. 8 degrees 4' N to 37 degrees 6' N
 6. The **Suez Canal** joins Med and Red Sea, shortens India–Europe by about **7000 km**, and lakes run Manzala → Timsah → Great Bitter → Little Bitter.
 7. **Panama** = Atlantic–Pacific canal. **Kiel** = North Sea–Baltic.
 8. Straits: **Hormuz** = Gulf oil; **Malacca** = Indian Ocean–South China Sea; **Gibraltar** = Med–Atlantic; **Bosporus** = Black Sea–Marmara; **Bering** = Russia–USA.
-9. Area ladder: Russia > Canada > USA > China > Brazil > Australia > **India (7th)**. Longest world coastline = **Canada**.
+9. Area ladder: Russia > Canada > USA > China > Brazil > Australia > **India (7th)**. Longest world coastline = **Canada** (then Indonesia, Russia, Philippines, Japan, Australia in the usual set).
 10. Central Asia capital set: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**.
 11. **Bolivia** is landlocked among common South America traps. **Laos** = only SE Asia landlocked. **Nobi/Kanto** = Japan. **Igarka** = Russia.
 12. **Thornthwaite** is the true **vegetation** climate index. **Köppen** gives letter-code climate classes. Mediterranean = **winter rain**. Western Europe = rain **all months** plus westerlies (**Cfb**).
@@ -71,7 +71,7 @@ D. 8 degrees 4' N to 37 degrees 6' N
 19. India’s nine coastal states include Gujarat as the longest; Telangana is not coastal.
 20. Oder–Neisse is the historic Germany–Poland line; do not confuse it with McMahon or Durand.
 21. Shelf rights beyond 200 nm (up to 350) are seabed rights — they do not create a wider EEZ water column.
-22. Horn of Africa = Djibouti, Eritrea, Ethiopia, Somalia (**not Sudan**). Balkans exclude **Austria**. Oceania excludes **Indonesia**. Caspian five exclude Armenia/Iraq.
+22. Horn of Africa = Djibouti, Eritrea, Ethiopia, Somalia (**not Sudan**). Balkans = Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Greece, Kosovo, Montenegro, North Macedonia, Romania, Serbia, Slovenia, European Türkiye — **Austria not** Balkan. Oceania excludes **Indonesia**. Caspian five exclude Armenia/Iraq.
 23. Capitals ≠ famous cities: Australia **Canberra**; Japan **Tokyo**; Nigeria **Abuja**; Myanmar **Naypyidaw**; Slovenia **Ljubljana** (Bratislava = Slovakia).
 24. Old names: Siam→Thailand; Formosa→Taiwan; Gold Coast→Ghana; Dutch Guiana→**Suriname**; Southern Rhodesia→Zimbabwe.
 25. Greenland = Denmark politically / N America geographically. Gaza borders **Egypt + Israel**. Afghanistan does **not** border Russia.
@@ -437,7 +437,7 @@ The Maldives’ capital is **Malé**.
 
 **Area (largest →):** Russia → Canada → USA → China → Brazil → Australia → **India (7th)** → Argentina → Kazakhstan → Algeria. Ascending Argentina → India → Australia → Brazil is a classic code.
 
-**Coastline longest:** **Canada** (then Indonesia, Greenland/Denmark, Russia…).
+**Coastline longest (approximate coaching order — lengths move with measurement scale):** **Canada** is first by a wide margin. Then come **Indonesia**, **Russia**, the **Philippines**, **Japan**, and **Australia**. Some atlases insert **Norway** (fjords) or **Greenland** (Denmark) high in the list; treat Canada as the safe lead and the rest as the usual top set.
 
 **India’s longest land border:** **Bangladesh**.
 
@@ -446,7 +446,7 @@ The Maldives’ capital is **Malé**.
 | Region | Members / pair |
 |--------|----------------|
 | **Horn of Africa** | Djibouti, Eritrea, Ethiopia, **Somalia** — **not Sudan** |
-| **Balkans** | Albania, Bosnia, Bulgaria, Croatia, Greece, Kosovo, Montenegro, N Macedonia, Romania, Serbia, Slovenia, European Türkiye… — **Austria not** Balkan |
+| **Balkans** | Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Greece, Kosovo, Montenegro, North Macedonia, Romania, Serbia, Slovenia, and European Türkiye (Eastern Thrace). **Austria is not** Balkan. |
 | **Scandinavia (geo)** | Norway, Sweden, Denmark — Finland often cultural/historical set but MCQ may exclude Finland |
 | **Central America** | Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama — **not Sierra Leone** (W Africa) |
 | **Oceania** | Melanesia / Micronesia / Polynesia + Australia — **Indonesia not** Oceania |
@@ -494,7 +494,7 @@ The Maldives’ capital is **Malé**.
 | Zaire | DR Congo |
 | Nyasaland | Malawi |
 
-**Landlocked extras:** Laos = only SE Asia landlocked. Chad in Africa options. North America / Oceania have **no** classic landlocked sovereign states. Transcontinental = **Georgia, Türkiye** (+ Russia, Azerbaijan, Kazakhstan note). South Sudan = landlocked; capital **Juba**; White Nile; Christianity framing. Bolivia landlocked (not Suriname/Uruguay/Peru).
+**Landlocked extras.** **Laos** is the only classic landlocked sovereign state in mainland Southeast Asia. **Chad** is a frequent African landlocked option. North America and Oceania have **no** classic landlocked sovereign states. Transcontinental coaching names include **Georgia** and **Türkiye**, with Russia, Azerbaijan, and Kazakhstan also bridging Asia–Europe frames. **South Sudan** is landlocked; its capital is **Juba**; it sits on the White Nile; Christianity framing appears in some stems. **Bolivia** is landlocked; Suriname, Uruguay, and Peru are not.
 
 **World towns pairs:** Most megacities coastal because they are **ocean-route gateways**. Alaska = USA. Malta = Mediterranean. Silicon Valley cities exclude Santa Rosa. South Africa Parliament seat = **Cape Town**. Lhasa among highest capitals/towns. Baikonur = **Kazakhstan** (not Ukraine). Kanto plain = **Japan**. Congo = **Africa**. Mexico = **North America**.
 
@@ -571,7 +571,7 @@ Geographical sobriquets are coaching nicknames for countries, cities, and region
 
 | Sobriquet | Place |
 |-----------|-------|
-| Venice of the North | **St. Petersburg** (also shared note with Amsterdam, Bruges, Stockholm…) |
+| Venice of the North | **St. Petersburg** (usual Russia key). Amsterdam, Bruges, and Stockholm also carry canal “Venice” nicknames in some lists. |
 | Gateway to the West | **Istanbul** |
 | City of Canals / Queen of the Adriatic / City of Dreams | **Venice** |
 | City of Seven Hills / Eternal City | **Rome** |

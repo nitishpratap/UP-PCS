@@ -972,7 +972,7 @@ D. Geothermal energy
 ---
 
 
-**Trap lines (GC minerals):** German silver ≠ silver metal; Mesabi = iron not copper; Saar = coal not iron; Peace Pipeline ≠ Russia–Europe; Brent ≠ zero sulphur.
+**Confused pairs (minerals).** **German silver** is a copper–nickel–zinc alloy and contains no silver metal. The **Mesabi** range is an **iron** story, not copper. The **Saar** is a **coal** field, not an iron-field dump. The **Peace Pipeline** name is **Iran–Pakistan**, not a Russia–Europe gas line. **Brent** crude is a North Sea class with **low** sulphur, not “zero sulphur”.
 
 ## N.9 GC extras — silver German · oil · uranium city
 
@@ -1000,8 +1000,9 @@ D. Geothermal energy
 | Chile | **Nitrate / iodine** (Atacama caliche) |
 | Diamond volume | Often **Russia** |
 | Cobalt (~¾ of batteries) | **DRC** |
-| Non-ferrous | Al, Cu, Zn, Ni, Sn… — **not** pig iron / carbon steel |
 | Camphor | Tree native to **China/Japan** (*Cinnamomum camphora*) |
+
+**Non-ferrous metals.** Coaching lists aluminium, copper, zinc, nickel, and tin as the main non-ferrous set. Pig iron and carbon steel are ferrous products and do not belong in that list.
 
 ---
 

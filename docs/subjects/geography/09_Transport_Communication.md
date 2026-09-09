@@ -163,7 +163,15 @@ Indian Railways is the country’s principal long-distance land carrier for pass
 - **Konkan Railway** runs **Roha (Maharashtra)–Mangaluru (Karnataka)** through Maharashtra–Goa–Karnataka. It does **not** enter Kerala as a Konkan Railway main line.
 - **Pir Panjal** rail tunnel (~**11.2 km**) is the classic long Himalayan rail tunnel.
 - **Fairy Queen** uses one of the world’s oldest working steam engines (1855 / re-launch).
-- Factories: **Kapurthala** Rail Coach Factory; **Perambur** Integral Coach Factory; **Chittaranjan** electric locomotives; **Banaras / Varanasi (Manduadih)** diesel–electric (now Banaras Locomotive Works); third coach factory **Rae Bareli**.
+
+| Factory / works | Place | What it builds |
+|-----------------|-------|----------------|
+| Rail Coach Factory | **Kapurthala** | Coaches |
+| Integral Coach Factory | **Perambur** (Chennai) | Coaches |
+| Chittaranjan Locomotive Works | **Chittaranjan** | Electric locomotives |
+| Banaras Locomotive Works | **Varanasi / Manduadih** | Diesel–electric locomotives |
+| Modern Coach Factory | **Rae Bareli** | Third major coach factory |
+
 - **National Academy of Indian Railways** (old Railway Staff College) is at **Vadodara**.
 - First **CNG** passenger train: **Rewari–Rohtak**. First PPP rail line note: **Gandhidham–Tuna Tekra (Gujarat)**.
 - **Darjeeling Himalayan Railway** (Siliguri–Darjeeling) is a UNESCO Mountain Railway of India site (with Nilgiri and Kalka–Shimla).
@@ -202,7 +210,7 @@ Amrit Bharat redevelops **existing passenger stations**. It upgrades buildings, 
 
 It does **not** build new railway lines or new tracks. The number **149** is not a count of new lines.
 
-As of **February 2023**, the Ministry of Railways had identified about **1,275** stations across India under the scheme. **Uttar Pradesh’s share of that list was 149 stations.** UPPCS asked that UP count.
+As of **February 2023**, the Ministry of Railways had identified about **1,275** stations across India under the scheme. **Uttar Pradesh’s share of that list was 149 stations.**
 
 **Inline PYQ — UPPCS Prelims 2023, Q71**
 
@@ -814,14 +822,26 @@ Keep these as one-line map associations that leak into the transport–economy p
 - **Biogas** plants give **both power and manure**.
 - **Speed Post** began **1 August 1986**.
 - **Thumba (TERLS)** sits near the **geomagnetic equator** (Kerala) — that is why the rocket range was sited there.
-- **BARC** is in **Maharashtra** (Trombay); **Pokhran** is in **Rajasthan**; first reactor **Apsara** (1956).
-- **Himalayan Mountaineering Institute** — **Darjeeling**.
-- **Chandipur (Odisha)** — sea recedes far at low tide (walkable foreshore).
-- **Alibag** holiday resort; **Nhava Sheva** port; **Ratnagiri** fishing — Mumbai vicinity specialisation.
-- **Green Highways Policy** = **tree plantation** along highways.
-- Saree map: **Chanderi**, **Banarasi**, **Kanjivaram** — **not Moradabad** (brass / Peetal Nagri).
-- Stadiums: Aishbagh–**Bhopal**; Brabourne–**Mumbai**; Green Park–**Kanpur**; Eden Gardens–**Kolkata**.
-- Pilgrimage match: Rameswaram–TN; Dwarka–Gujarat; Sarnath–UP; Mahakal–**Ujjain** (MP).
+- **BARC** is in **Maharashtra** (Trombay). **Pokhran** is in **Rajasthan**. India’s first reactor was **Apsara** (1956).
+- **Himalayan Mountaineering Institute** is at **Darjeeling**.
+- At **Chandipur (Odisha)** the sea recedes far at low tide, leaving a walkable foreshore.
+- Near Mumbai, **Alibag** is a holiday resort, **Nhava Sheva** is the container port, and **Ratnagiri** is known for fishing.
+- The **Green Highways Policy** means **tree plantation** along highways.
+- On the saree map, **Chanderi**, **Banarasi** and **Kanjivaram** are textile centres; **Moradabad** is brass / Peetal Nagri, not a saree match.
+
+| Stadium | City |
+|---------|------|
+| **Aishbagh** | **Bhopal** |
+| **Brabourne** | **Mumbai** |
+| **Green Park** | **Kanpur** |
+| **Eden Gardens** | **Kolkata** |
+
+| Pilgrimage centre | State / place |
+|-------------------|---------------|
+| **Rameswaram** | **Tamil Nadu** |
+| **Dwarka** | **Gujarat** |
+| **Sarnath** | **Uttar Pradesh** |
+| **Mahakal** | **Ujjain**, Madhya Pradesh |
 
 ---
 
@@ -1303,7 +1323,7 @@ D. Airport modernisation under UDAN
 
 **Q-GC9. Ghatnachakra / standard**
 
-When older papers asked India's **longest National Highway**, the usual key was
+Under the **older NH numbering**, which corridor was classically treated as India’s **longest National Highway**?
 
 A. NH-27 (Porbandar–Silchar)
 
@@ -4188,7 +4208,7 @@ D. None
 
 **Isopleths / relief**
 
-| Line | Equal… |
+| Line | What it joins (equal value) |
 |------|--------|
 | **Isobar** | Pressure |
 | **Isohyet** | Rainfall |

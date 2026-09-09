@@ -534,23 +534,30 @@ A **tropical cyclone** is a warm-core low-pressure system over tropical seas wit
 - Storm surge, extreme rain and high winds cause most coastal deaths and damage.
 - **Mangroves** and coastal forests cut surge and wind impact before water reaches settlements.
 
-**India events:** Odisha Super Cyclone **1999**; Phailin 2013; Hudhud 2014 (Vizag); Fani 2019; **Amphan 2020**; Yaas 2021 — detail in named-storm bank below.
+**India cyclone events (teach the sequence)**
+
+- The **Odisha Super Cyclone of 1999** is the classic east-coast catastrophe for the state.
+- **Phailin (2013)** struck Odisha as a very severe cyclonic storm with strong surge and rain.
+- **Hudhud (2014)** made landfall near **Visakhapatnam** and damaged the Andhra coast.
+- **Fani (2019)** hit Odisha as an extremely severe storm.
+- **Amphan (2020)** was a Bay of Bengal super cyclone that hit **West Bengal and Odisha**.
+- **Yaas (2021)** followed on the same eastern seaboard. Named-storm match practice sits in the bank below.
 
 ### Local names (match bank)
 
-Regional cyclone names already covered include Hurricane / Typhoon–Taifu / Baguio / Willy-willies. Also learn **Cyclone (NIO)** and **Cordonazo**. ★ = already asked set.
+Regional cyclone names already covered include Hurricane, Typhoon / Taifu, Baguio and Willy-willies. Also learn **Cyclone (North Indian Ocean)** and **Cordonazo**. ★ marks the high-yield match set.
 
 | Name | Country / basin | Note |
 |------|-----------------|------|
-| **Baguio / Baguios** ★ | **Philippines** | Asked fact |
-| **Hurricane** ★ | **USA** / Atlantic–Caribbean | Asked fact |
-| **Typhoon** ★ | NW Pacific — **China** class | Asked fact |
-| **Taifu** ★ | **Japan**-facing NW Pacific name | Asked with Japan |
+| **Baguio / Baguios** ★ | **Philippines** | High-yield match |
+| **Hurricane** ★ | **USA** / Atlantic–Caribbean | High-yield match |
+| **Typhoon** ★ | NW Pacific — **China** class | High-yield match |
+| **Taifu** ★ | **Japan**-facing NW Pacific name | Often paired with Japan |
 | **Willy-willies** ★ | **Australia** | Cyclone ≠ Brickfielder |
 | **Cyclone** | North Indian Ocean (**India**/BoB/Arabian) | IMD names |
 | **Cordonazo** | West Mexico Pacific | Coaching distractor |
 
-### 2019 named-storm match (asked four) + nearby names
+### 2019 named-storm match (core four) + nearby names
 
 | Storm | Most affected (fact) |
 |-------|----------------------|
@@ -596,8 +603,11 @@ India has shifted from a **relief-only** habit to **prevention, mitigation and S
 
 ### International and CA pairs
 
-- **Sendai Framework 2015–2030** (Sendai, Japan) follows **Hyogo 2005–2015**; earlier Yokohama Strategy **1994**.
-- Sendai’s four priorities: understand risk; strengthen risk governance; invest in DRR; enhance preparedness and Build Back Better.
+- The **Sendai Framework (2015–2030)**, agreed at Sendai in Japan, follows the **Hyogo Framework (2005–2015)**. The earlier **Yokohama Strategy** dates to **1994**.
+- Sendai’s first priority is to **understand disaster risk**.
+- The second is to **strengthen disaster risk governance**.
+- The third is to **invest in disaster risk reduction** for resilience.
+- The fourth is to **enhance preparedness** for effective response and to **Build Back Better** in recovery.
 - **CDRI** (Coalition for Disaster Resilient Infrastructure) was launched by India in **2019**.
 - International Day for Disaster Risk Reduction is **13 October**.
 

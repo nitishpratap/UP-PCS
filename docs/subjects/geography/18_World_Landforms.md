@@ -37,7 +37,7 @@ None mandatory — static world-map chapter. No living scheme tag.
 9. The **Colorado Plateau** holds the Grand Canyon. The **Columbia Plateau** is a lava plateau. Do not swap the two. **Telegraphic Plateau** sits on the **North Atlantic Ridge** (not Indian Ocean).
 10. Grassland names: **Pampas** = Argentina; **Campos** = Brazil; **Llanos** = Venezuela–Colombia; **Puszta** = Hungary; **Prairie** = North America; **Steppe** = Eurasia; **Veld** = South Africa; **Downs** = Australia.
 11. **Borneo** is shared by three countries and is **not** a volcanic dump. **Java** and **Sumatra** sit on a volcanic arc.
-12. Island rank by size: **Greenland > New Guinea > Borneo > Madagascar**. Australia is a continent, not ranked as an island in that list. **Honshu** = Japan’s largest; **Faroe** = Sheep Islands (Denmark).
+12. Island rank by size: **Greenland > New Guinea > Borneo > Madagascar > Baffin > Sumatra > Honshu > Victoria > Great Britain > Ellesmere**. Australia is a continent, not ranked as an island in that list. **Honshu** = Japan’s largest; **Faroe** = Sheep Islands (Denmark).
 13. The **Gobi** lies in **Mongolia and China** only. It is a cold desert, not Russia or Kazakhstan.
 14. Hot-desert size order: **Great Sandy < Gobi < Arabian < Sahara**. The **Sahara** is the largest hot desert. **Thar** = densest populated desert; **Atacama** = driest; **Europe** has the least desertification problem among continents.
 15. **Gibson** = Australia (not Brazil). **Sonoran** = USA. **Taklamakan** = China. **Karakum** = Turkmenistan (also Kazakhstan fringe note).
@@ -151,7 +151,7 @@ Seven continents by **area** (largest → smallest):
 | 7 | **Australia** | ~7.7 million | ~5.9% | Oceania ~14 in wider lists |
 
 - **Smallest continent** = Australia. **Two smallest** among classic sets = **Australia and Europe**.
-- **Highest mean elevation** = **Antarctica** (~2300 m). Asia ~923 m; N America ~760 m; Africa ~585 m; S America ~554 m; Australia ~330 m; Europe ~302 m.
+- **Highest mean elevation** belongs to **Antarctica** (about **2300 m**). Approximate coaching means after that are Asia (~923 m), North America (~760 m), Africa (~585 m), South America (~554 m), Australia (~330 m), and Europe (~302 m).
 - **Highest % plains** in total area = **Europe** (then South America among large shares).
 - **Maximum per capita land** (World Bank-type coaching) = **Australia**.
 - Africa alone is crossed by **Cancer, Capricorn and Equator**.
@@ -523,9 +523,22 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 
 ## N.5 Islands
 
-**Australia is a continent**, not an island. Rank **islands** by area:
+**Australia is a continent**, not an island. Rank **islands** by area (standard coaching / atlas order; Australia stays off this list):
 
-**Greenland → New Guinea → Borneo → Madagascar → Baffin → Sumatra → Honshu → Great Britain …**
+| Rank | Island | Note |
+|------|--------|------|
+| 1 | **Greenland** | Largest island; Denmark politically |
+| 2 | **New Guinea** | Indonesia (Papua) + Papua New Guinea |
+| 3 | **Borneo** | Indonesia, Malaysia, Brunei |
+| 4 | **Madagascar** | Africa’s large island |
+| 5 | **Baffin** | Canada (Nunavut) |
+| 6 | **Sumatra** | Indonesia |
+| 7 | **Honshu** | Japan’s main island |
+| 8 | **Victoria** | Canada (Arctic) |
+| 9 | **Great Britain** | England–Scotland–Wales |
+| 10 | **Ellesmere** | Canada (Arctic) |
+
+**Chain:** Greenland → New Guinea → Borneo → Madagascar → Baffin → Sumatra → Honshu → Victoria → Great Britain → Ellesmere.
 
 | Kind | How made | Examples |
 |------|----------|----------|
@@ -545,7 +558,9 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 | **Java** | Indonesia; dense, volcanic |
 | **Sulawesi** | Indonesia; K-shaped |
 | **Honshu** | Japan’s main island. Hokkaido / Kyushu / Shikoku = the other three |
+| **Victoria** | Canada / Arctic; after Honshu in the area ladder |
 | **Great Britain** | England–Scotland–Wales (Ireland is separate) |
+| **Ellesmere** | Canada / Arctic; after Great Britain in the top-ten set |
 | **Iceland** | Mid-Atlantic Ridge; volcanic |
 | **Hawaii** | Pacific hot-spot chain |
 | **Sri Lanka** | Continental; Palk Strait / Gulf of Mannar vs India |

@@ -284,7 +284,7 @@ Hot + wet (or irrigation). India is usually the world’s **2nd** rice producer 
 
 ### Pulses
 
-- **Rhizobium** N-fixation in root nodules (2019 Q46 = pulses, not rice/wheat/cane).
+- **Rhizobium** fixes nitrogen in root nodules of **pulses** and other legumes. It is not the biofertiliser story for rice, wheat, or cane.
 - Protein crop that also rebuilds soil fertility.
 - Green Revolution historically neglected pulses vs wheat–rice.
 - India is the world’s **largest** producer — and still a major importer (largest consumer and importer among major crops).
@@ -427,23 +427,31 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - Tea is often nicknamed **Green Gold**. Origin note tags the **Yunnan** plateau of South China.
 - Coffee was first grown in India in **Chikkamagaluru** (Karnataka). Coffee is propagated by **seeds**; tea mainly by **stem cuttings**.
 - Kerala is the classic **“Garden of Spices.”** Black pepper is **black gold / black diamond**. **Clove** = flower bud of *Eugenia caryophyllata*.
-- Board HQs: **Coffee Board — Bengaluru**; **Tea Board — Kolkata**; **Rubber Board — Kottayam**; **Tobacco Board — Guntur**; **Spices Board — Kochi**.
-- **National Horticulture Board** was set up in **1984** (HQ **Gurugram**).
+- The **Coffee Board** headquarters is in **Bengaluru**.
+- The **Tea Board** headquarters is in **Kolkata**.
+- The **Rubber Board** headquarters is in **Kottayam**.
+- The **Tobacco Board** headquarters is in **Guntur**.
+- The **Spices Board** headquarters is in **Kochi**.
+- The **National Horticulture Board** was set up in **1984** with headquarters at **Gurugram**.
 
 | Coffee species | Note |
 |----------------|------|
 | **Arabica** | Higher elevation, milder cup, more pest-sensitive |
 | **Robusta** | Lower elevation, stronger cup, hardier |
 
-- World coffee (2018 PYQ, 2016 data): **Brazil > Vietnam > Colombia > Indonesia**.
-- Cocoa majors: Ivory Coast, Ghana, Cameroon — **Latvia NOT** (2021).
-- Philippines cane + coconut = Spanish & Americans (2023).
-- Tobacco leadership has shifted toward **Gujarat** in recent data (older questions often said Andhra Pradesh).
+- World coffee order often taught for **2016** is **Brazil > Vietnam > Colombia > Indonesia**.
+- Cocoa majors are Ivory Coast, Ghana and Cameroon. Latvia is **not** a cocoa major.
+- Philippines cane and coconut history is linked to Spanish and American periods.
+- Tobacco leadership has shifted toward **Gujarat** in recent data (older notes often said Andhra Pradesh).
 - Coconut leadership: **Kerala** remains the classic lead (Karnataka close in recent years).
 - Cashew: **Maharashtra** often leads among states.
 - Saffron commercial production: **Jammu & Kashmir** (Zafran).
 - **Guar (cluster bean)** gum is used in **shale-gas / hydraulic fracturing**; India–Pakistan dominate world production.
-- Sericulture (often asked with plantation crops): India is usually world **#2** after China. **Mulberry** silk leadership = **Karnataka**; **muga** and **eri** leadership = **Assam**; **tropical tasar** leadership = **Jharkhand**; **oak tasar** = **Manipur**.
+- In sericulture, India is usually world **#2** after China.
+- **Mulberry** silk leadership is **Karnataka**.
+- **Muga** and **eri** silk leadership is **Assam**.
+- **Tropical tasar** leadership is **Jharkhand**.
+- **Oak tasar** leadership is **Manipur**.
 
 ## N.4 Fruits, Potato, GI
 
@@ -454,12 +462,12 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - India’s orange renown = **Nagpur**.
 - **Guava varieties:** Lalit / Banarsi (improved). **Sultana, Gulabi, Kali Champa:** the UPPCS **2018** answer was **guava**; Ghatnachakra lists **grapes** — sources disagree; for that year the paper answer is guava.
 - **Potato:** UP is the **leading producer**.
-- CIP South Asia Regional Centre is at **Singna, Agra** — **not Aligarh** (2025 Q34 Only 1).
+- The CIP South Asia Regional Centre is at **Singna, Agra**, not Aligarh.
 - Best processing potato varieties: **Kufri Chipsona-2** / Chipsona-3 (plains); **Kufri Himsona** (hills).
 - Mango: **Sindhu** = seedless; **Amrapali** = Dasheri × Neelam hybrid (IARI, 1971).
 - **Kanchan / Krishna / Banarasi** = improved amla (Indian gooseberry). **Lalit** = guava.
 - Ginger storage organ = **rhizome**.
-- Golden Revolution = horticulture **and honey**.
+- The **Golden Revolution** covers horticulture **and honey**.
 - **Arunachal Pradesh** is the classic low-cost orchid / export-horticulture climate pair.
 
 | GI / variety | Place |
@@ -729,17 +737,21 @@ It does **not** mean “stop irrigation” or abandon mechanisation.
 
 ## N.10 MSP & Agricultural Marketing
 
-- **CACP recommends → Union Cabinet decides** (2024 Q43 = CACP, not RBI / NITI / Finance).
-- MSP covers **22 mandated crops** (+ toria / de-husked coconut derived).
-- Procurement makes MSP real — deepest for **wheat and paddy**.
-- Pulses / oilseeds have weaker effective procurement.
-- **PM-AASHA** supports PSS of pulses / oilseeds (NAFED etc.).
-- Cane = **FRP** (Fair and Remunerative Price), not the cereal MSP label.
-- **APMC** = regulated mandi; **e-NAM** = electronic national mandi network.
-- **PM-KISAN** = direct income support; **PMFBY** = crop insurance; **NFSM** = rice–wheat–pulses–millets–oilseeds push; **NMSA** = climate-smart / soil-water.
-- AIDC (Budget **2021–22**) on **29** products.
-- 2018 paddy MSP figure **₹1,750/q** is year-specific — remember the institution, not old rupees.
-- Fertiliser / power / irrigation support = **indirect** subsidy (2022 Q74 stmt 1 solid).
+- The **CACP** recommends MSP. The **Union Cabinet** decides. Do not swap CACP with RBI, NITI Aayog, or the Finance Ministry.
+- MSP covers **22 mandated crops**, plus derived cases such as toria and de-husked coconut.
+- Procurement makes MSP real. Coverage is deepest for **wheat and paddy**.
+- Pulses and oilseeds have weaker effective procurement.
+- **PM-AASHA** supports price support for pulses and oilseeds through agencies such as NAFED.
+- Sugarcane uses **FRP** (Fair and Remunerative Price), not the cereal MSP label.
+- An **APMC** is a regulated mandi.
+- **e-NAM** is the electronic national mandi network.
+- **PM-KISAN** gives direct income support to farmers.
+- **PMFBY** is the crop-insurance scheme.
+- **NFSM** pushes rice, wheat, pulses, millets and oilseeds.
+- **NMSA** targets climate-smart farming and soil–water care.
+- Budget **2021–22** placed an Agriculture Infrastructure and Development Cess (AIDC) on **29** products.
+- Older paddy MSP figures such as **₹1,750/q** (2018) are year-specific. Keep the CACP → Cabinet process, not the old rupee number.
+- Fertiliser, power and irrigation support count as **indirect** subsidy.
 
 **PYQ — UPPCS Prelims 2024, Q43**
 
@@ -799,12 +811,32 @@ D. Ministry of Finance
 | Silver | Eggs / poultry |
 | Pink | Onion / meat / prawn (context) |
 | Grey | Fertilisers |
-| Black | Petroleum (2022 set) |
+| Black | Petroleum |
 | Brown | Sometimes leather / cocoa / biofuel talk — weaker association |
 | Rainbow | Integrated multi-sector |
 | Evergreen | Sustainable productivity |
 
-**2022 Q136:** Golden → horticulture & honey; Grey → fertilisers; Yellow → oilseed; Black → petroleum.
+### Colour Revolutions — must-score set
+
+The colour tags name sector pushes that sit beside the classic Green Revolution.
+
+The **Golden Revolution** covers **horticulture and honey**.
+
+The **Grey Revolution** covers **fertilisers**.
+
+The **Yellow Revolution** covers **oilseeds**.
+
+The **Black Revolution** covers **petroleum**.
+
+Do **not** swap Golden with Yellow. Golden is horticulture and honey; Yellow is oilseeds.
+
+| Colour | Sector |
+|--------|--------|
+| Golden | Horticulture **and honey** |
+| Grey | Fertilisers |
+| Yellow | Oilseeds |
+| Black | Petroleum |
+
 ---
 
 ## UP Focus (compact)

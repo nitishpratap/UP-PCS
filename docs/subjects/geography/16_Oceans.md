@@ -549,8 +549,17 @@ Open-ocean salinity averages about **35‰** (35 g salt per 1000 g seawater). **
 - **High** seas: Red Sea, Persian Gulf, Mediterranean.
 - **Low** seas: Baltic, equatorial belt, big river mouths.
 - Dead Sea and Great Salt Lake are **lakes**, not ocean MCQs.
-- Hypersaline lake pairs: **Assal** (~348‰) often world’s highest; **Lake Van** (Türkiye, ~330‰); **Dead Sea** (~238‰); **Great Salt Lake** (Utah, USA, ~220‰).
-- **Halocline** = salinity changes rapidly with depth. **Thermocline** = temperature; **pycnocline** = density.
+
+| Hypersaline lake | Approx. salinity | Place note |
+|------------------|------------------|------------|
+| **Lake Assal** | ~**348‰** | Often cited as among the world’s highest lake salinities |
+| **Lake Van** | ~**330‰** | **Türkiye** |
+| **Dead Sea** | ~**238‰** | Jordan Rift; classic high-salinity lake |
+| **Great Salt Lake** | ~**220‰** | **Utah, USA** |
+
+- A **halocline** is a depth zone where salinity changes rapidly.
+- A **thermocline** is a depth zone where temperature changes rapidly.
+- A **pycnocline** is a depth zone where density changes rapidly.
 - Open-ocean NaCl ≈ **77.8%** of dissolved salts (Dittmar / Challenger chemistry note).
 - Arabian Sea salinity often higher than Bay of Bengal (~36‰ vs ~30‰) — more evaporation, fewer big rivers.
 

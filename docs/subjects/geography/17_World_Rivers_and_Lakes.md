@@ -573,7 +573,9 @@ Mnemonic: **Super Man Helps Every One**. Together they hold about **20%** of the
 | Cities | Duluth–Superior; Chicago–Michigan; Buffalo–Erie; Detroit–Detroit River |
 | **Victoria** | TZ / UG / KE (**three** countries); rift-associated; White Nile outflow near Jinja |
 | Volume ladder (fresh note) | Caspian (saline) > Baikal > Tanganyika > Superior > Malawi |
-| Area ladder (fresh) | Superior > Victoria > … |
+| Area ladder (fresh, approximate coaching order) | **Superior** → **Victoria** → **Huron** → **Michigan** → **Tanganyika** → **Baikal** → **Great Bear** → **Malawi** → **Great Slave** → **Erie** → **Winnipeg** → **Ontario** |
+
+**Freshwater area order (largest → smaller, standard coaching set):** Lake **Superior** is first by surface area. Then come **Victoria**, **Huron**, and **Michigan**. Next are African–Siberian names **Tanganyika** and **Baikal**, then Canadian **Great Bear**, African **Malawi** (Nyasa), Canadian **Great Slave**, Great Lakes **Erie**, Canadian **Winnipeg**, and Great Lakes **Ontario**. Figures shift slightly by source; treat this as the usual top set, not a millimetre-exact USGS dump.
 
 
 **Inline PYQ — UPPCS Prelims 2023, Q66**

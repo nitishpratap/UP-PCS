@@ -160,7 +160,7 @@ A deposit becomes a **mine** only when grade, ease of extraction, and distance t
 
 - Peninsular India is the **heart-place** of Indian minerals. **Chota Nagpur** is the richest plateau belt (often “Ruhr of India”).
 - Alluvial north India is almost empty of economic ores. Rajasthan’s Aravalli rock frame holds many **non-ferrous** minerals (Cu, Zn–Pb, etc.).
-- Mineral production-value order (metallic + non-metallic, excluding fuel/atomic/minor; Ministry of Mines **2021–22**): **Odisha > Chhattisgarh > Rajasthan > Karnataka > Jharkhand** … (~**97%** of value from seven states).
+- In Ministry of Mines **2021–22** data (metallic and non-metallic value, excluding fuel, atomic and minor minerals), the leading order is **Odisha**, then **Chhattisgarh**, then **Karnataka**, then **Rajasthan**, then **Jharkhand**.
 - India produces about **95** minerals as listed in the Mines Annual Report (fuel / metallic / non-metallic / atomic / minor counts vary by year).
 
 ### How minerals occur
@@ -503,7 +503,12 @@ Soft → hard: **peat → lignite → bituminous → anthracite**.
 | Singareni | Telangana | **Godavari** valley |
 | Wardha / Kamptee / Umrer | Maharashtra | Godavari–Wardha |
 
-**Valley–field match line:** Talcher → Mahanadi; Karanpura → Damodar; Singrauli → Son; Singareni → Godavari.
+| Coalfield | Valley |
+|-----------|--------|
+| **Talcher** | **Mahanadi** |
+| **Karanpura** | **Damodar** |
+| **Singrauli** | **Son** |
+| **Singareni** | **Godavari** |
 
 ### Tertiary and lignite centres
 

@@ -606,14 +606,14 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 | **Rihand** | Rihand (Son system) |
 | **Rajghat** | Betwa (UP–MP) |
 
-> ** note:** Dam–river traps: Pandoh ≠ Ravi; Srisailam ≠ Tungabhadra; Mettur ≠ Krishna; Hyderabad ≠ Krishna stem; **Sardar Sarovar** = Narmada in Gujarat (not Indira Sagar in MP; not Ukai on Tapi).
+> **Teaching note:** **Pandoh** stands on the **Beas**, not the Ravi. **Srisailam** stands on the **Krishna**, not the Tungabhadra. **Mettur (Stanley)** stands on the **Kaveri**, not the Krishna. Hyderabad is not a Krishna-stem dam site. **Sardar Sarovar** is on the **Narmada** in Gujarat; it is not Indira Sagar in Madhya Pradesh and not Ukai on the Tapi.
 
 ### Drainage patterns, rejuvenation, basins
 
 | Pattern | Control | India |
 |---------|---------|-------|
 | **Dendritic** | Uniform rock | Indus, Godavari, Mahanadi, Krishna, Kaveri plains |
-| **Trellis** | **Folded** ridges and valleys | 2024 Q31 fact |
+| **Trellis** | **Folded** ridges and valleys | Alternating hard and soft beds |
 | **Radial** | Dome or peak | **Amarkantak**, Girnar |
 | **Centripetal** | Closed basin | **Imphal / Loktak** |
 | **Parallel** | Steep uniform slope | Western Ghat torrents |
@@ -623,7 +623,7 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 - **Rejuvenation** is renewed downcutting after uplift, base-level fall, or capture. Knickpoints, terraces, and incised meanders appear.
 - A **structural basin** is an enclosed lowland, often centripetal (Kashmir vale, Imphal).
 
-> ** note:** Folded structures → **trellis**, not dendritic, radial, or rectangular.
+> **Teaching note:** Folded structures produce a **trellis** pattern. They do not produce dendritic, radial, or rectangular patterns as the first answer.
 
 ---
 

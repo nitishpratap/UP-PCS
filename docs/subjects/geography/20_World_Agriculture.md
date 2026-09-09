@@ -682,7 +682,28 @@ India’s state-wise GR belt (Punjab–Haryana–western UP) is an India-agricul
 
 ## N.14 GC extras — cash, livestock, terms
 
-**Producer ranks (FAO years move — freeze the paper):** China often leads **rice + wheat volume**; India often has the **largest rice area**; hybrid rice is especially associated with **China**; **IRRI / Rice Gene Bank** = Los Baños, **Philippines**. Brazil leads **sugarcane**; Russia–France lead **sugar beet**; Ukraine’s sugar is almost entirely from **beet**. Thailand (+ Indonesia) lead **natural rubber**. Brazil + Vietnam lead **coffee**; **Robusta** = African species also grown in India. China leads **tea leaves** and **tobacco** and **silk**; India leads **bananas** and **milk volume** and often **castor**; Indonesia leads **coconut**. USA leads **maize**. China often leads total **livestock** inventory.
+**Producer ranks (FAO frames move by year — learn the usual leaders, not one frozen table).**
+
+| Crop / item | Usual coaching leader / note |
+|-------------|------------------------------|
+| **Rice + wheat volume** | **China** often leads both |
+| **Rice area** | **India** often has the largest harvested area |
+| **Hybrid rice** | Especially associated with **China** |
+| **IRRI / Rice Gene Bank** | Los Baños, **Philippines** |
+| **Sugarcane** | **Brazil** leads |
+| **Sugar beet** | **Russia** and **France** lead beet sugar |
+| **Ukraine sugar** | Almost entirely from **beet** |
+| **Natural rubber** | **Thailand** (with **Indonesia** close behind) |
+| **Coffee** | **Brazil** and **Vietnam** lead; **Robusta** is an African species also grown in India |
+| **Tea leaves** | **China** leads |
+| **Tobacco** | **China** leads |
+| **Silk** | **China** leads |
+| **Bananas** | **India** leads |
+| **Milk volume** | **India** leads |
+| **Castor** | **India** often leads |
+| **Coconut** | **Indonesia** leads |
+| **Maize** | **USA** leads |
+| **Livestock inventory** | **China** often leads total headcount |
 
 **Named places / crops**
 
@@ -715,7 +736,7 @@ India’s state-wise GR belt (Punjab–Haryana–western UP) is an India-agricul
 
 **Livestock / dairy:** India = milk **volume** leader; mad-cow disease damaged beef’s “safe food” image in Europe/America. Commercial viticulture is classic **Mediterranean** (~85% grapes → wine in that story).
 
-**Trap lines (GC):** Golden Crescent ≠ Iraq; Fazenda ≠ jhum; Mocha ≠ Brazil; Shahtoosh ≠ merino; olericulture ≠ fruits.
+**Confused pairs (cash / terms).** The **Golden Crescent** is Afghanistan–Iran–Pakistan, not Iraq. A Brazilian **fazenda** is a plantation, not jhum. **Mocha** coffee is Yemen’s port name, not Brazil’s lead story. **Shahtoosh** is chiru hair, not merino wool. **Olericulture** means vegetables, not fruits.
 
 **Plantation note:** Ministry lists differ (Agri: coconut/cocoa/arecanut/cashew vs Commerce: tea/coffee/rubber/spices) — Prelims often treats tea/coffee/rubber/spices/cane as plantation family.
 

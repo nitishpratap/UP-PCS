@@ -1507,7 +1507,7 @@ D. Neither 1 nor 2
 
 Linguistic counts often split **L-1** (mother tongue / primary) and **L-2** (second language). Total speakers ≈ L-1 + L-2.
 
-**Ethnologue-style ranks (ranks move — freeze the paper’s year):**
+**Ethnologue-style ranks (ranks move by year — learn the usual leaders):**
 
 | Note | Fact |
 |-----|------|
@@ -1521,7 +1521,6 @@ Linguistic counts often split **L-1** (mother tongue / primary) and **L-2** (sec
 | Country / place | Language |
 |-----------------|--------------|
 | **Singapore** | Official set includes **Malay** (national), **English**, **Mandarin**, **Tamil** |
-| Mauritius | English + French official; also Hindi, Urdu, Bhojpuri, Creole, Hakka… |
 | Chile / Colombia / Cuba | **Spanish** official |
 | Republic of Congo | **Not** Spanish (French / local) |
 | Myanmar | **Burmese** (not Tamil as major) |
@@ -1529,6 +1528,8 @@ Linguistic counts often split **L-1** (mother tongue / primary) and **L-2** (sec
 | Denmark / Netherlands / China | Danish / Dutch / Mandarin |
 | Pakistan | **Urdu + English** official; Punjabi widely spoken but not the sole “official = Punjabi” story |
 | Bangladesh | Stronger **ethnic/linguistic homogeneity** than Pakistan in classic A/R stems |
+
+**Mauritius languages.** English and French are the main official languages of administration and education. Mauritian Creole is the everyday spoken tongue for most people. Hindi, Urdu, and Bhojpuri are widely used in Indo-Mauritian communities. Hakka Chinese is spoken in parts of the Chinese-Mauritian community.
 
 Americas language map pair: French (e.g. Guiana), Portuguese (**Brazil**), Spanish (most of Spanish America), English (parts of Caribbean / North).
 

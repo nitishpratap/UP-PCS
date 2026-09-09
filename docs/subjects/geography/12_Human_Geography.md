@@ -280,7 +280,8 @@ UP million+ **years** and UA order Kanpur > Lucknow > Ghaziabad > Agra.
 
 ## N.5 Smart Cities & Heritage Cities
 
-**Smart Cities Mission** — launched **25 June 2015**; **MoHUA**; **100** cities; implemented by a city-level **SPV** (Companies Act). Strategy: **Area-Based Development** (retrofit / redevelopment / greenfield) **+ pan-city** ICT.
+The **Smart Cities Mission** launched on **25 June 2015** under **MoHUA** for **100** cities. Each city implements the Mission through a city-level **SPV** under the Companies Act. The strategy pairs **Area-Based Development** (retrofit, redevelopment or greenfield) with **pan-city** ICT.
+
 **UP’s 10 Central / Mission cities** (2020 paper count = **10**) — learn **round** as well as the list:
 
 | Round | When | Cities |
@@ -291,7 +292,15 @@ UP million+ **years** and UA order Kanpur > Lucknow > Ghaziabad > Agra.
 | Round 4 | **2018** | **Moradabad, Bareilly, Saharanpur** |
 
 **Not** in that ten (and **not** in Mission-100): **Ghaziabad**, Noida, Meerut, Rae Bareli.
-ABD one-liners: **retrofit** = improve existing area; **redevelopment** = replace built-up; **greenfield** = vacant land; **pan-city** = ICT for the whole city. Centre:State funding typically **50:50** via the SPV.
+
+**Area-Based Development (ABD) terms**
+
+- **Retrofit** improves services and infrastructure in an **existing** built-up area without wholesale replacement.
+- **Redevelopment** replaces an existing built-up pocket with a new layout and buildings.
+- **Greenfield** develops a previously vacant or unused site as a new urban pocket.
+- **Pan-city** adds ICT and smart solutions that serve the **whole city**, not only one ABD pocket.
+- Centre:State funding for the Mission is typically **50:50** through the city SPV.
+
 **UP State Smart Cities (2019)** — CM extension to remaining Nagar Nigams; **not** the Central Mission list: Ayodhya, Firozabad, **Ghaziabad**, Gorakhpur, Mathura, Meerut, Shahjahanpur. Prelims 2018/2020 still key **10**.
 **ISAC-2020** (awards presented Apr 2022):
 

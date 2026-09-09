@@ -514,11 +514,32 @@ The **Lapps / Sami** live in **Sweden and Finland** (Fenno-Scandinavia including
 
 **Transhumance** = seasonal herd movement valley ↔ mountain (Gaddi, Bakarwal, Bhotia in India). Nomadic herding concentrates in **arid** lands.
 
-**Pygmy** = Congo rainforest hunters–gatherers; tree **mongulu** huts; not pastoral. **Kayak** = narrow hunting boat; **umiak** = transport boat; **sledge** = dog vehicle; **igloo** = snow house (Inuit).
+**Pygmy and Arctic gear (teach as geography pairs)**
 
-**Trap lines:** Semang ≠ Indonesia; Maasai ≠ West Africa/Zambia; Bantu ≠ Sahara; Pygmy ≠ pastoral; Gypsy origin ≠ Egypt.
+- The **Pygmy** peoples of the Congo rainforest are classic **hunters–gatherers**, not pastoralists.
+- Their traditional tree dwellings are often called **mongulu** huts.
+- A **kayak** is a narrow **hunting** boat used in Arctic waters.
+- An **umiak** is a broader boat used mainly for **transport**.
+- A **sledge** is the dog-drawn land vehicle of the Arctic peoples.
+- An **igloo** is a snow house associated with the **Inuit**.
 
-**Race / origin lines:** Africa = “cradle of mankind”; Caucasoid often listed as largest racial group in older booklets; Gypsies’ original home = **India**; Archaeopteryx ≈ **150 mya**; Cro-Magnon = most recent among Heidelberg / Neanderthal / Cro-Magnon options.
+**Common wrong pairs**
+
+| Wrong claim | Correct teaching |
+|-------------|------------------|
+| Semang live in Indonesia | The **Semang** belong to the **Malay Peninsula / Malaysia** |
+| Maasai live in West Africa or Zambia | The **Maasai** live in **East Africa** (Kenya–Tanzania) |
+| Bantu live in the Sahara | The **Bantu** belt is **East / Central / Southern Africa**, not the Sahara |
+| Pygmy peoples are pastoral | They are **hunters–gatherers** of the Congo rainforest |
+| Gypsies originally came from Egypt | Their original home in standard notes is **India** |
+
+**Race / origin teaching**
+
+- Older booklets call **Africa** the “cradle of mankind.”
+- In those same racial classifications, the **Caucasoid** group is often listed as the largest.
+- The original home of the **Gypsies (Roma)** in standard geography keys is **India**.
+- **Archaeopteryx** is dated at about **150 million years ago**.
+- Among Heidelberg / Neanderthal / Cro-Magnon options, **Cro-Magnon** is the **most recent**.
 
 
 **Inline PYQ — UPPCS Prelims 2025, Q23**

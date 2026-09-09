@@ -645,8 +645,24 @@ Wind needs dry ground, sparse vegetation and a sand or silt supply — hot deser
 Waves run **swash** up the beach and **backwash** down. **Longshore drift** moves sediment along the shore and builds spits.
 
 - **Erosional** chain: cliff → wave-cut platform → notch → cave → **arch** → **stack** → stump.
-- **Depositional** forms: beach; **spit** (one end attached); **bar** (closes a bay into a **lagoon**); **tombolo** (island tied to mainland); hook; barrier island.
-- **Coral** succession: **fringing** (against shore) → **barrier** (with lagoon) → **atoll** (ring). Darwin’s subsidence idea explains the sequence. Indian reefs need clear warm water — **not** muddy delta mouths.
+
+**Depositional coastal forms**
+
+| Form | Meaning |
+|------|---------|
+| **Beach** | Wave-built sand or shingle along the shore |
+| **Spit** | Narrow ridge of sand or shingle attached at **one** end to the coast |
+| **Bar** | Ridge that closes or nearly closes a bay and often traps a **lagoon** behind it |
+| **Tombolo** | Bar that ties an **island** to the mainland |
+| **Hook** | Curved spit tip bent by wave refraction |
+| **Barrier island** | Elongated offshore island built parallel to the coast |
+
+**Coral succession**
+
+- A **fringing** reef grows against the shore.
+- A **barrier** reef stands offshore with a lagoon between reef and land.
+- An **atoll** is a ring reef around a central lagoon.
+- Darwin’s subsidence idea explains that fringing → barrier → atoll order. Indian reefs need clear warm water and do **not** thrive at muddy delta mouths.
 
 | Coast type | Meaning |
 |------------|------|

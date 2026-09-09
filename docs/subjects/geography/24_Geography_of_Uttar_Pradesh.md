@@ -143,7 +143,7 @@ Teach the **full UP map**. Next year can ask any standard district extreme or ca
 - Neighbours: Uttarakhand, Haryana, Delhi, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, Bihar, and **Nepal**. Only foreign land border = **Nepal**.
 - **Uttarakhand** carved out on **9 November 2000** — UP has **no Himalayan high peaks** after that. **Nanda Devi is Uttarakhand**, not UP.
 - Nepal-border districts (**7**): Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, Maharajganj.
-- **District extremes:** northernmost **Saharanpur**; southernmost **Sonbhadra**; easternmost **Ballia**; westernmost **Shamli**.
+- The **northernmost** district is **Saharanpur**. The **southernmost** district is **Sonbhadra**. The **easternmost** district is **Ballia**. The **westernmost** district is **Shamli**.
 - **18 divisions:** Agra, Aligarh, Ayodhya, Azamgarh, Bareilly, Basti, Chitrakoot, **Devipatan (Gonda)**, Gorakhpur, Jhansi, Kanpur, Lucknow, Meerut, Mirzapur, Moradabad, Prayagraj, Saharanpur, Varanasi.
 - Census **2011** remains the Prelims freeze until Census 2027.
 - Indus sites **in present UP:** Alamgirpur (Meerut), **Hulas** (Saharanpur), **Mandi** (Muzaffarnagar). **Not** Rakhigarhi (Haryana), Kalibangan (Rajasthan), Lothal (Gujarat).
@@ -358,13 +358,15 @@ D. Sind → Ken → Chambal → Betwa
 **Identity:** Canal + tube-well state. West = more tube-well; east = more canal/rain.
 
 - **Tubewells** dominate irrigation share (**2018–19** figures: tubewell ~**74.6%**, canal ~**15.2%**, other wells ~**8.8%**, tanks ~**0.6%**, other ~**0.8%**). Western UP faces **groundwater dark-zone / over-exploitation** pressure — do not write “only canals everywhere”. UP also leads absolute tubewell / well irrigated area and replenishable groundwater for irrigation among major states (~**40.7 bcm**).
-- **Upper Ganga Canal** — **Bhimgoda, Haridwar** (right bank); Sir **P.T. Cautley**; first water **8 Apr 1854**; main ~298 km / system ~6496 km; west Doab command; also ~200 cusec to Delhi and ~100 cusec to **Harduaganj** TPP.
-- **Lower Ganga Canal** — from **Narora** (Bulandshahr), completed **1878**; main ~99 km / system ~8278 km.
-- **Eastern Yamuna Canal** — Tajewala / **Hathinikund** (Haryana) offtake; Saharanpur–Muzaffarnagar–Meerut–Ghaziabad Doab; revived from **1830**.
-- **Agra Canal** (Okhla). **Sharda Canal** — Banbasa (right bank of Sharda); protective command from Pilibhit–Bareilly–Kheri through Awadh to Prayagraj–Ghazipur belt; main ~44 km / system ~**9961 km**. **Sarda Sahayak**. **Saryu Canal National Project** — eastern UP (Ayodhya–Purvanchal). Ramganga command. Gandak canals in the east. Ken / Betwa canals and **Arjun Sahayak** note in Bundelkhand.
+- The **Upper Ganga Canal** takes off at **Bhimgoda, Haridwar** on the right bank. Sir **P.T. Cautley** engineered it. First water ran on **8 April 1854**. The main canal is about **298 km**; the full system is about **6496 km**. It commands the west Doab. About **200 cusec** also goes to Delhi and about **100 cusec** to **Harduaganj** thermal power plant.
+- The **Lower Ganga Canal** starts from **Narora** (Bulandshahr) and was completed in **1878**. Its main length is about **99 km**; the system length is about **8278 km**.
+- The **Eastern Yamuna Canal** offtakes at Tajewala / **Hathinikund** (Haryana). It serves the Saharanpur–Muzaffarnagar–Meerut–Ghaziabad Doab and was revived from **1830**.
+- The **Agra Canal** offtakes at Okhla.
+- The **Sharda Canal** offtakes at Banbasa on the right bank of the Sharda. Its protective command runs from Pilibhit–Bareilly–Kheri through Awadh toward the Prayagraj–Ghazipur belt. The main channel is about **44 km**; the system length is about **9961 km**.
+- Related names include **Sarda Sahayak**, the **Saryu Canal National Project** for eastern UP (Ayodhya–Purvanchal), Ramganga command, Gandak canals in the east, Ken / Betwa canals, and **Arjun Sahayak** in Bundelkhand.
 - Spectacular recent tubewell growth note = **Saryupar** plain (canal-scarce).
-- **Dams in UP:Matatila** and **Rajghat** on Betwa (Lalitpur / MP border). **Parichha** (Jhansi, Betwa). **Rihand / GB Pant Sagar** (Sonbhadra). Obra barrage. **Meja** (Prayagraj). Maudaha (Hamirpur). **Adwa, Baghelkhand, Ahraura** = UP (2022). **Badua is NOT in UP** (Bihar).
-- **Ken–Betwa link** — only National Perspective Plan link under implementation; **Bundelkhand MP–UP**; Daudhan dam; Panna TR submergence.
+- **Dams in UP:** **Matatila** and **Rajghat** sit on the Betwa (Lalitpur / MP border). **Parichha** is on the Betwa at Jhansi. **Rihand / GB Pant Sagar** is in Sonbhadra. Obra barrage, **Meja** (Prayagraj), and Maudaha (Hamirpur) are other names. **Adwa, Baghelkhand, and Ahraura** are UP pairs (2022). **Badua is NOT in UP** (Bihar).
+- The **Ken–Betwa link** is the only National Perspective Plan link under implementation. It serves **Bundelkhand** across **Madhya Pradesh and Uttar Pradesh**. The key structure is **Daudhan dam**. Part of **Panna Tiger Reserve** faces submergence.
 - **Narora** — **nuclear**, Bulandshahr (also the Lower Ganga offtake). **Obra, Anpara, Rihand** — thermal, Sonbhadra. Tanda (Ambedkar Nagar), Panki (Kanpur), Harduaganj (Aligarh) = thermal note.
 - **HINDALCO Renukoot** — aluminium, Sonbhadra. **Mathura** — refinery. **Mirzapur** — major solar with **France** (2018 paper).
 - Himalaya has huge hydro potential, but **eastern UP and Bihar cannot tap the hills to their north because those Himalaya lie in Nepal** (2025 **both**). Kalagarh / Ramganga dam itself is in UK.
