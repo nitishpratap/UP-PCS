@@ -246,12 +246,17 @@ D. Mizoram
 
 ## N.4 Sex Ratio
 
-Sex ratio is the number of females per **1,000** males.
+Sex ratio is the number of females per **1,000** males in the total population.
 
+- Formula used in Census notes: **(females ÷ males) × 1,000**.
 - India’s Census **2011** sex ratio is **943** (up from **933** in 2001).
-- The highest state sex ratio is **Kerala**.
-- Among States that rank high economically, **Haryana** has the lowest sex ratio in the usual 2011 set.
-- Uttar Pradesh sex ratio in 2011 is **912**.
+- The highest State sex ratio in 2011 is **Kerala** (**1,084**).
+- Among major States, **Tamil Nadu** and **Andhra Pradesh** also sit high on the 2011 list.
+- Among States in the usual 2011 set, the lowest sex ratio is **Haryana** (**879**).
+- Some Union Territories show even lower figures than Haryana, but State-level stems usually expect **Haryana**.
+- India’s **rural** sex ratio is higher than the **urban** sex ratio in the 2011 pattern, because male-selective migration into cities skews urban counts.
+- Uttar Pradesh sex ratio in 2011 is **912**, below the national average.
+- Within UP, district notes often cite **Jaunpur** among the better sex-ratio districts.
 
 **Inline PYQ — UPPCS Prelims 2018, Q38**
 
@@ -277,9 +282,13 @@ D. Haryana
 
 Child sex ratio (CSR) counts girls per 1,000 boys in the age group **0–6**.
 
+- Formula: **(girls aged 0–6 ÷ boys aged 0–6) × 1,000**.
 - India’s Census **2011** CSR is **919**, worse than **927** in 2001.
-- The state with the **lowest CSR in both rural and urban areas** in the 2018 paper is **Haryana**.
+- CSR is a sharper alarm than overall sex ratio because it reflects recent births and early childhood survival, not lifetime migration alone.
+- The State with the **lowest CSR in both rural and urban areas** in the usual 2011 set is **Haryana**.
 - Do not mark Uttar Pradesh, Kerala or Jammu & Kashmir for that lowest-CSR question.
+- Southern and several north-eastern States generally show healthier CSR patterns than the north-western belt in Census maps.
+- Uttar Pradesh’s overall sex ratio (**912**) is already below the national average; CSR stems still treat **Haryana** as the classic lowest rural-plus-urban answer.
 
 **Inline PYQ — UPPCS Prelims 2018, Q110**
 
@@ -303,13 +312,18 @@ D. Jammu & Kashmir
 
 ## N.6 Literacy
 
-Census literacy covers persons aged **7 years and above** who can read and write with understanding.
+Census literacy covers persons aged **7 years and above** who can read and write with understanding in any language.
 
+- That age cut-off defines the **effective literacy rate**. Counting the whole population including children below 7 gives a lower **crude literacy rate**.
 - India’s Census **2011** literacy is **74.04%** (male **82.14%**, female **65.46%**).
-- Highest literacy state is **Kerala**.
-- Lowest literacy state is **Bihar**.
+- The gender gap is therefore about **16.7** percentage points in the 2011 set.
+- Highest literacy State is **Kerala** (about **94%**).
+- Lowest literacy State among major States is **Bihar** (about **61.8%**).
+- Literacy rose from about **64.8%** in 2001 to **74.04%** in 2011, with a large absolute gain among rural females.
+- Urban literacy is higher than rural literacy in every major State pattern taught from Census 2011.
+- In Uttar Pradesh, overall literacy in 2011 is about **67.7%**, below the national average.
 - In Uttar Pradesh, the lowest **female literacy** district fact is **Shrawasti**.
-- UP overall literacy in 2011 is about **67.7%**.
+- Do not mark Rampur, Balrampur or Bahraich for that UP female-literacy floor question.
 - The **Lorenz curve** measures **income inequality**, not illiteracy.
 
 **Inline PYQ — UPPCS Prelims 2018, Q105**
@@ -472,11 +486,17 @@ Composition answers **who** the people are, not only how many.
 
 ## N.10 Urbanization
 
-- India’s Census **2011** urban share is **31.16%**.
-- On the urbanisation curve used in the 2021 paper, the **acceleration** stage is the **second stage**.
-- Urbanisation and high literacy both help reduce the birth rate.
-- Among religious groups, **Jains** have the highest urban share.
-- A **statutory town** is notified; a **census town** passes the triple test above.
+Urbanisation is the rising share of people living in **urban** places, plus the growth of towns and cities in number and size.
+
+- India’s Census **2011** urban share is **31.16%**; the rural share is about **68.84%**.
+- A **statutory town** is notified under law as a municipality, corporation, cantonment or notified town area.
+- A **census town** is not necessarily a municipality; it must pass the triple test of population ≥ **5,000**, density ≥ **400** persons/km², and ≥ **75%** of male main workers in non-agricultural pursuits.
+- On the urbanisation curve used in standard notes, the **acceleration** stage is the **second stage**.
+- Urbanisation and high literacy both help reduce the birth rate over time.
+- Among religious groups, **Jains** have the highest urban share in Census 2011.
+- Among States, **Goa** is classically taught as the most urbanised State by share; large northern States remain more rural.
+- Uttar Pradesh’s urban share in 2011 is about **22.3%**, well below the national average, while its rural share is about **77.7%**.
+- Urban growth comes from natural increase inside towns, rural–urban migration, and reclassification of rural units as census or statutory towns.
 
 **Inline PYQ — UPPCS Prelims 2021, Q48**
 
@@ -518,24 +538,31 @@ D. Jain
 
 ## N.11 Million Cities
 
-A Census **million city / urban agglomeration** has population ≥ **10 lakh**.
+A Census **million city / urban agglomeration** has population ≥ **10 lakh** (1 million).
 
-- Census **2011** counted **53** million-plus UAs.
+- An **urban agglomeration (UA)** is a continuous urban spread that may include a city with its outgrowths and adjoining towns.
+- Census **2011** counted **53** million-plus UAs, up from **35** in 2001.
+- The largest UAs in the 2011 national list are led by **Greater Mumbai**, **Delhi** and **Kolkata**, followed by other metros such as Chennai, Bengaluru and Hyderabad.
+- Hierarchy terms: a **Class I** town has population ≥ **1 lakh**; a **million city** has ≥ **10 lakh**; a **megacity** in UN usage is often ≥ **10 million**; a **conurbation** is a merged urban sprawl of several towns. Use the definition given in the stem.
 - In Uttar Pradesh, **Kanpur** crossed 10 lakh in **1971** and **Lucknow** in **1981**.
 - UP UA size order in 2011 is **Kanpur > Lucknow > Ghaziabad > Agra**.
-- Hierarchy terms: **Class I** town (≥1 lakh), **million city** (≥10 lakh), **megacity** (UN definition often ≥10 million), and **conurbation** (merged urban sprawl). Use the definition given in the question.
+- Million-city growth concentrates jobs, services and migrants, so these UAs pull strongly from surrounding rural districts.
 
 ---
 
 ## N.12 Population Pyramid & Age Structure
 
-A population pyramid shows age–sex structure.
+A population pyramid is a double bar diagram of age–sex structure. Males are usually shown on the left and females on the right, with age bands stacked from young at the base to old at the top.
 
 - Age **0–14** is the child / young band.
-- Age **15–59** is the working-age band used for the **demographic dividend** fact in the 2022 paper.
-- Age **60+** is the aged band and is **not** that paper’s dividend definition.
-- A broad base signals high fertility (expanding pyramid). A narrow base with a bulging top signals ageing.
-- India remains youthful while the **15–59** share stays high; southern states show earlier ageing signals than the high-fertility northern belt.
+- Age **15–59** is the working-age band used for the **demographic dividend** fact in standard notes.
+- Age **60+** is the aged band and is **not** that dividend definition.
+- An **expanding** pyramid has a broad base and tapers upward — it signals high fertility and a youthful population.
+- A **constrictive** or ageing pyramid has a narrower base and a relatively thicker upper part — it signals low fertility and longer survival into old age.
+- A more rectangular / **stationary** shape sits between those two extremes when birth and death rates have both fallen.
+- **Dependency ratio** compares young plus aged dependents with the working-age population.
+- India remains youthful while the **15–59** share stays high; southern States show earlier ageing signals than the high-fertility northern belt.
+- Uttar Pradesh’s higher fertility history keeps a broader youthful base than many southern States in the same Census set.
 
 **Inline PYQ — UPPCS Prelims 2022, Q129**
 

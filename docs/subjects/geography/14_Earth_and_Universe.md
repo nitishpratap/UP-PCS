@@ -405,28 +405,58 @@ Earth then returns energy as **long-wave** (the 2022 heating fact). Ozone **hole
 
 ## N.6A Insolation · Albedo · Heat budget
 
-- Sun is the energy source; **insolation** = incoming short-wave. Earth re-radiates **long-wave**. Atmosphere is heated mainly by that **terrestrial long-wave** (GHG trap).
-- Maximum surface heating belt often near **~20°N**, not exactly on the equator.
-- **Albedo** = reflecting power. Fresh snow **75–95%**; deserts **20–30%**; prairie **10–20%**; paddy **3–15%**; Earth mean ~**30%**.
-- Water vapour absorbs much **IR / long-wave**; cloudy nights stay warmer because clouds **reflect/trap** outgoing radiation → **no dew** when nights stay too warm.
-- Tropical cyclones weaken inland because they lose the ocean’s **latent-heat** fuel.
+The Sun is Earth’s energy source. **Insolation** is incoming solar **short-wave** radiation that reaches the top of the atmosphere and the surface. Earth absorbs that energy and re-radiates **long-wave** (infrared). The atmosphere is heated mainly by that **terrestrial long-wave**, which greenhouse gases trap near the surface.
+
+**What controls insolation at a place**
+
+- The **angle of the Sun’s rays** matters most. Steeper rays concentrate energy; slanting rays spread it.
+- **Day length** rises toward the summer pole, so high latitudes can receive long hours of weak sun.
+- **Atmospheric transparency** falls when dust, cloud, smoke or moisture scatter and absorb radiation.
+- Earth–Sun distance changes slightly through the year, but latitude and season dominate day-to-day heating.
+
+Maximum surface heating often sits near **~20°N**, not exactly on the equator, because the equatorial belt is cloudier and wetter. Clear subtropical skies let more short-wave through.
+
+**Albedo** is the **reflecting** power of a surface (fraction of insolation sent back to space).
+
+| Surface | Typical albedo |
+|---------|----------------|
+| Fresh snow | **75–95%** |
+| Deserts | **20–30%** |
+| Prairie / grassland | **10–20%** |
+| Paddy / dark wet fields | **3–15%** |
+| Earth mean (planetary) | ~**30%** |
+
+Earth’s mean albedo is higher than Mercury’s (~**0.3** vs ~**0.1**), so Earth reflects a larger share of sunlight even though Mercury is closer to the Sun.
+
+**Heat budget (NCERT 100-unit picture)** — of 100 units of insolation, about **35** return to space by reflection and scattering (planetary albedo), about **14** are absorbed in the atmosphere, and about **51** reach and warm the surface. The surface then returns energy as long-wave radiation, sensible heat and latent heat from evaporation.
+
+Water vapour absorbs much **infrared**. Cloudy nights stay warmer because clouds **reflect and trap** outgoing long-wave, so the ground may not cool enough for **dew**. Tropical cyclones weaken inland because they lose the ocean’s **latent-heat** fuel once they leave warm water.
 
 ---
 
 
 ## N.6B Humidity · Dew
 
-- **Humidity** = water vapour in air (from evaporation).
-- Absolute = mass of vapour per volume; relative = % of saturation (falls as temperature rises).
-- Moisture decreases with latitude; ~**90%** of atmospheric moisture sits in the lowest ~**5 km**.
-- Summer “humid heat” = **muggy**. Dew needs clear, calm, cool nights; cloudy nights reflect terrestrial radiation → surface stays warm → **no dew**.
+**Humidity** is the amount of water vapour in the air. That vapour comes mainly from **evaporation** over oceans, lakes, wet soils and plants.
+
+| Term | Meaning |
+|------|---------|
+| **Absolute humidity** | Mass of vapour in a given volume of air |
+| **Relative humidity** | Vapour present as a **percentage of saturation** at that temperature |
+| **Specific humidity** | Mass of vapour per unit mass of moist air (coaching pair) |
+
+Relative humidity **falls as temperature rises** if the vapour mass stays the same, because warmer air can hold more water before saturation. Moisture generally **decreases with latitude**. About **90%** of atmospheric moisture sits in the lowest ~**5 km**.
+
+Summer “humid heat” feels **muggy** when absolute vapour is high and evaporation from the skin is slow. **Dew** forms when a clear, calm night lets the ground lose long-wave heat until air near the surface cools to the **dew point** and vapour condenses on cold surfaces. Cloudy nights keep the surface warmer, so dew often fails. If the surface temperature drops below **0°C**, the same process yields **frost** instead of liquid dew.
 
 ---
 
 
 ## N.6C Clouds
 
-Clouds = condensation of vapour into droplets/ice.
+Clouds form when moist air cools to saturation and vapour **condenses** into tiny water droplets or ice crystals on condensation nuclei. Rising air cools by expansion; that ascent is why cumulus towers grow on hot afternoons.
+
+Clouds are named by **height** and **form**. High clouds are usually icy. Mid clouds sit in the middle troposphere. Low clouds hug the weather layer where most rain starts.
 
 | Type | Note |
 |------|-----|
@@ -436,7 +466,7 @@ Clouds = condensation of vapour into droplets/ice.
 | **Cumulus** | Cauliflower; fair-weather signal when isolated |
 | **Cumulonimbus** | Towering storm cloud — intense rain, hail, thunder |
 
-Thunder = acoustic boom from lightning heating air (not “meeting of two clouds” as the sole cause).
+**Nimbus** in a name signals rain. Isolated fair-weather cumulus can grow into cumulonimbus when strong convection continues. Thunder is the acoustic boom from lightning heating air in a fraction of a second. It is **not** caused only by “two clouds meeting.”
 
 ---
 
@@ -467,12 +497,18 @@ Sudden **mercury fall** in barometer → stormy weather ahead.
 
 ## N.7 Weather vs Climate
 
+**Weather** is the state of the atmosphere over a short spell — hours to a few days — at a place. **Climate** is the long-term average of weather, usually taken over about **30 years**, plus the typical seasonal pattern.
+
 | | Weather | Climate |
 |--|---------|---------|
 | Time | Hours–days | **~30-year** average |
 | Example | Today’s rain, today’s Loo | Monsoon climate, Mediterranean |
 
-Mediterranean climate has **winter rain**. Around the NH winter solstice, pressure belts **shift south**, which helps that winter-rain pattern.
+Both share the same **elements**: temperature, pressure, wind, humidity, cloudiness and precipitation. Weather answers “what is happening now.” Climate answers “what is usual for this season and place.”
+
+**Mediterranean** climate has dry summers and **winter rain**. Around the Northern Hemisphere **winter solstice**, global pressure belts **shift south**. That southward shift brings the westerly rain belt over Mediterranean latitudes in winter and leaves those coasts dry under subtropical highs in summer.
+
+**Logic:** Statement 1 tests the classic Mediterranean rainfall season. Statement 2 tests the solstice shift of pressure belts. Both are true together.
 
 **Inline PYQ — UPPCS Prelims 2024, Q79**
 
@@ -492,19 +528,23 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Mediterranean coasts get most rain in **winter**. Pressure belts follow the Sun and shift **south** around the NH winter solstice. Trap: do not swap this with monsoon summer rain.
+
 </details>
 
 ---
 
 ## N.8 Global Warming
 
-Greenhouse gases trap **outgoing long-wave**.
+The **natural greenhouse effect** keeps Earth warm enough for life. Greenhouse gases let short-wave insolation in but trap **outgoing long-wave** radiation. **Global warming** is the extra warming from a **rise in greenhouse-gas concentrations** after industrial fossil-fuel use, deforestation and intensive agriculture.
 
 | Is a GHG | Not a GHG |
 |----------|------------------|
 | Water vapour, **CO₂, CH₄, N₂O, O₃, CFCs/HCFCs** | **Argon** |
 | Natural set includes CO₂, CH₄, O₃, N₂O | “**Nitrogen oxide**” (NO/NO₂) in 2020 Q139 → **not** the natural GHG in that key |
+
+Water vapour is the strongest natural greenhouse gas by abundance, but **CO₂** is the main long-lived driver of recent warming in policy and coaching keys. **Methane** and **nitrous oxide** are potent even at lower volumes. **Argon** is an inert permanent gas and is **not** a greenhouse gas.
+
 | Instrument | Fact |
 |------------|------|
 | **Montreal Protocol 1987** | **Ozone / CFC** |
@@ -513,9 +553,9 @@ Greenhouse gases trap **outgoing long-wave**.
 | 2019 Q132 NOT matched | **Kyoto — save water** |
 | 2024 Q35 climate mitigation | **Kyoto** (not Montreal/Ramsar/CITES) |
 
-Total GHG emitters: **China > USA > India** (~3rd). Do not freeze 2023 options 9–12 as “India’s rank.”
-Cyclones/storms/hurricanes increase with warming.
-Nuclear **and** geothermal are **not** stored solar energy. Biomass and wind **are**.
+Montreal targets ozone-depleting substances. Kyoto and Paris target climate greenhouse gases. Do not swap those treaties.
+
+Total GHG emitters: **China > USA > India** (~3rd). Do not freeze 2023 options 9–12 as “India’s rank.” Warmer oceans and a warmer atmosphere favour more intense **cyclones, storms and heat extremes**. Nuclear power **and** geothermal heat are **not** stored solar energy. Biomass and wind **are** forms of solar-driven energy in the usual classification.
 
 ---
 
@@ -557,11 +597,13 @@ D. Neither 1 nor 2
 
 ## N.10 Coriolis Force
 
-Coriolis force comes from Earth’s **rotation**.
+**Coriolis force** arises because Earth **rotates** west to east. It does not create wind by itself. It only **deflects** air and water that are already moving relative to the rotating Earth.
 
-- It deflects moving air and water to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere** (Ferrel’s law).
-- It is **zero at the equator** and strongest near the poles.
-- Tropical cyclones cannot form on the equator because Coriolis is absent there.
+Under **Ferrel’s law**, deflection is to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere**. The effect is **zero at the equator** and grows toward the poles. That is why tropical cyclones cannot form on the equator: without Coriolis, air rushes straight into a low and does not spin into a storm.
+
+Coriolis shapes the **trade winds**, **westerlies** and the sense of spiral in cyclones and anticyclones. It also bends **ocean currents**. It is **not** caused by Earth’s magnetic field. Temperature and pressure differences start the motion; Coriolis only steers that motion.
+
+**Logic:** The stem asks why Southern Hemisphere winds turn left. The key is Coriolis / Ferrel’s law, not magnetism or pressure alone.
 
 **Inline PYQ — UPPCS Prelims 2023, Q68**
 
@@ -578,18 +620,21 @@ D. Pressure alone
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Southern Hemisphere deflection is **leftward** under Coriolis (Ferrel’s law). Trap: magnetic field is a common distractor; pressure starts motion but does not set the left/right rule.
+
 </details>
 
 ---
 
 ## N.11 Jet Stream
 
-Jet streams are narrow high-altitude (~200–300 hPa) wind cores.
+**Jet streams** are narrow ribbons of very fast wind in the upper troposphere, often near the **200–300 hPa** level. They form where strong temperature contrasts create steep pressure gradients aloft.
 
-- The **polar jet** and **subtropical westerly jet (STWJ)** are **westerly**.
-- Speeds are often **300–500 km/h**.
-- The Indian-summer exception is the **Tropical Easterly Jet (TEJ)** near about **14°N**.
+The main **polar jet** and the **subtropical westerly jet (STWJ)** both blow from **west to east**. Speeds are often **300–500 km/h**. Pilots and WWII meteorology first mapped these cores as high-altitude **westerlies**, not as a global easterly belt.
+
+Over India, the subtropical westerly jet sits south of the Himalaya in winter and helps winter western disturbances. In the southwest monsoon season that jet weakens or shifts, and a **Tropical Easterly Jet (TEJ)** appears near about **14°N** in the upper troposphere. TEJ is the important **easterly** exception; it must not be used to call all jets easterly.
+
+**A/R logic:** A claims WWII jets were easterlies — false for the main jets. R’s speed band is true but does not fix A’s direction error.
 
 **Inline PYQ — UPPCS Prelims 2024, Q60**
 
@@ -607,7 +652,8 @@ D. A is false but R is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Main jets are **westerly**; TEJ is the easterly exception. Speed figure is true.
+**Ans: D.** Main jets are **westerly**; TEJ is the easterly Indian-summer exception. The **300–500 km/h** speed figure is true, so R stands alone.
+
 </details>
 
 ---
@@ -644,25 +690,28 @@ Valley breeze = **anabatic** (day upslope); mountain breeze = **katabatic** (nig
 
 ## N.13 Interior of the Earth
 
+Direct drilling barely scratches the crust, so the deep interior is known mainly from **seismic waves**, density and magnetism. Body waves change speed and path at major boundaries. Those jumps mark the shells below.
+
 | Boundary | Depth pair | Fact |
 |----------|-----------|------|
 | **Moho** | Base of crust (~8–40 km) | Crust / mantle |
 | **Gutenberg** | ~**2900 km** | Mantle / **outer core** — **S-waves stop** (liquid) |
 | **Lehmann** | ~5100 km | Outer / **inner core** (solid iron–nickel) |
+
 | Layer chemistry (names) | Fact |
 |------------------------------|------|
 | **Sial** | Continental crust — silica + aluminium; granite; less dense |
 | **Sima** | Oceanic crust — silica + magnesium; basalt; denser |
 | **Nife** | Core — nickel + iron |
 
-Oceanic crust ~**5–10 km**; continental ~**30–40 km** (thicker under mountains). Lithosphere (plates) rides **asthenosphere**.
+Oceanic crust is about **5–10 km** thick. Continental crust is about **30–40 km** and thicker under young mountains. The rigid **lithosphere** (crust + uppermost mantle) rides on the weaker **asthenosphere**. The outer core is **liquid** iron–nickel. That liquid shell generates Earth’s magnetic field and **stops S-waves**. The inner core is **solid** despite the heat because pressure is extreme.
 
 | Shadow | Note |
 |--------|-----|
 | **S-wave** | None beyond ~**103°** from epicentre (liquid outer core) |
 | **P-wave** | Weak/absent ~**103–142°** (refraction in the core) |
 
-P = solid+liquid; S = **solid only**. Disaster-wave names.
+**P-waves** travel through solids, liquids and gases. **S-waves** travel through **solids only**. Beyond about **103°** from the epicentre, direct S-waves vanish because the outer core cannot transmit shear. Direct P-waves are missing in a belt about **103–142°** because they are strongly refracted at the mantle–core boundary. Beyond about **142°**, P-waves reappear after crossing the core. Surface waves stay near the surface and do most of the damage.
 
 ---
 
@@ -683,7 +732,9 @@ Evidence: jigsaw coasts, fossils (**Glossopteris, Mesosaurus**), glacial till, m
 
 ## N.15 Plate Tectonic Theory
 
-Lithosphere plates float on asthenosphere. **Seven majors:** Pacific, North American, South American, Eurasian, African, Indo-Australian, Antarctic (+ Nazca, Cocos, Philippine minors).
+**Plate tectonics** explains how rigid **lithosphere plates** move over the weaker **asthenosphere**. Mantle **convection**, slab pull and ridge push drive that motion. The theory absorbed Wegener’s drift idea and added a mechanism through **sea-floor spreading** and paleomagnetic stripes.
+
+**Seven major plates** are the Pacific, North American, South American, Eurasian, African, Indo-Australian and Antarctic plates. Important smaller plates include **Nazca**, **Cocos** and the **Philippine** plate. The **Pacific** plate is the largest.
 
 | Boundary | Motion | Result |
 |----------|--------|--------|
@@ -691,20 +742,23 @@ Lithosphere plates float on asthenosphere. **Seven majors:** Pacific, North Amer
 | Convergent | Together | Trenches, fold mountains, volcanoes, quakes |
 | Transform | Slide | San Andreas; quakes, little crust created |
 
-- The **Pacific** plate is the largest.
-- The **Nazca** plate sinks under South America and builds the **Andes** with the Peru–Chile trench.
-- A **Benioff** zone is the dipping earthquake plane at a subduction boundary.
-- India–Eurasia collision still raises the **Himalaya**.
+At a **divergent** boundary, plates pull apart and new oceanic crust forms along a mid-ocean ridge or a continental rift. At a **convergent** boundary, plates collide. Oceanic crust may **subduct** into a trench, or two continents may collide and raise fold mountains. At a **transform** boundary, plates slide past each other and release energy as earthquakes with little crust created or destroyed.
+
+The **Nazca** plate sinks under South America and builds the **Andes** beside the Peru–Chile trench. A **Benioff** zone is the dipping plane of earthquakes inside a subducting slab. India was once part of **Gondwana**. Its collision with Eurasia still thickens and raises the **Himalaya**.
 
 ---
 
 ## N.16 Fold Mountains vs Fault (Block) Mountains
+
+Mountain belts form in more than one way. **Fold mountains** rise where horizontal **compression** crumples thick sedimentary piles into anticlines, synclines and nappes. **Fault** or **block** mountains rise where the crust is stretched or broken into upthrown **horsts** and downthrown **grabens**.
 
 | | Fold | Fault / block / rift |
 |--|------|----------------------|
 | Force | **Compression** | Tension / normal faulting |
 | Form | Parallel ranges, nappes | Uplifted blocks (horst) + rifts (graben) |
 | Examples | **Himalaya, Alps, Andes, Rockies, Atlas, Urals, Appalachians** | **Vosges, Black Forest, Sierra Nevada**, Rhine graben; some peninsular blocks |
+
+The **Himalaya**, Alps, Andes and Rockies are classic young fold belts on convergent margins. The **Vosges** and **Black Forest** face each other across the Rhine **graben** as paired block mountains. **Sierra Nevada** is another major fault-block range. Do not swap the pairs: Himalaya is **fold**, not fault; Vosges is **block**, not fold.
 
 ---
 
@@ -831,7 +885,7 @@ An earthquake is shaking from a sudden release of energy in the **lithosphere**.
 | **S (secondary)** | Transverse / light-like; slower than P | **Solids only** | Body wave; stopped by liquid outer core |
 | **Surface** | Slowest; Love + Rayleigh; **most damaging** at surface | Near surface | Love waves are the faster of the two surface types |
 
-**Shadow zones:** Each quake has its own shadow pattern. Rough teaching line — **S-waves** fail beyond ~**103–105°**; **P-waves** miss a belt ~**105–140°** (refraction at the mantle–core boundary). A claim that both P and S are recorded at *any* distance beyond 105° is **false**.
+**Shadow zones (NCERT):** Seismographs within about **103°** of the epicentre record both P and S waves. **S-waves** are not recorded beyond about **103°** because the liquid outer core stops shear waves. **P-waves** are missing in a belt about **103–142°** because they are refracted at the mantle–core boundary; they reappear beyond about **142°**. A claim that both P and S arrive at *any* distance beyond 105° is **false**.
 
 **Magnitude vs intensity**
 
@@ -857,6 +911,8 @@ Coaching MCQs sometimes loosely say “Richter = intensity” when no Mercalli o
 
 ## N.18 Major Earthquake & Volcano Belts
 
+Most earthquakes and volcanoes cluster along **plate boundaries**, not randomly over continents. Four belts carry almost all of the world’s seismic and volcanic activity.
+
 | Belt | Note |
 |------|------|
 | **Circum-Pacific / Ring of Fire** | ~**80%** of world’s volcanoes; ~**90%** of world’s **earthquakes**; Chile–California–Alaska–Japan–Philippines–New Zealand arc — **not** forest fires |
@@ -865,7 +921,9 @@ Coaching MCQs sometimes loosely say “Richter = intensity” when no Mercalli o
 | **East African Rift** | **Kilimanjaro, Kenya** — **not** Ring of Fire (**2024 Q30**) |
 | **Cocos plate** | Between **Central America** and the **Pacific** plate |
 
-India seismic **zones II–V**. NDMA chair = **PM**.
+The **Circum-Pacific Ring of Fire** follows subduction around the Pacific basin. It holds most of the world’s volcanoes and about nine-tenths of recorded earthquakes. The name is about fire from magma, **not** forest fires. The **Mid-Atlantic** belt follows the divergent mid-ocean ridge and includes Iceland and the Azores. The **Alpine–Himalayan** belt runs from the Mediterranean through the Alps and Caucasus into the **Himalaya**. It is India’s main inland seismic framing because the Indian plate still pushes into Eurasia. The **East African Rift** is a divergent continental rift with volcanoes such as **Kilimanjaro** and Kenya. It is **not** part of the Pacific Ring of Fire. The **Cocos** plate lies between Central America and the Pacific plate and feeds Central American subduction.
+
+India’s official seismic zoning uses **Zones II–V**, with Zone V the highest hazard. The **Prime Minister** chairs the NDMA.
 
 ---
 ## Complete PYQ Bank — Earth & Universe (2018–2025)

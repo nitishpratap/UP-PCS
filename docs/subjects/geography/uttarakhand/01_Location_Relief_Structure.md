@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025:** MBT–MCT zone (Q101) · physiography south→north (Q110). 
+> **High-yield 2025:** MBT–MCT zone (Q101) · physiography south→north (Q110).  
 > **National twin:** Shiwalik sediments → parent [Mountains & Hills](../01_Indian_Physical_Geography_Mountains_Hills.md) (UKPCS Q84).
 
 ---
@@ -10,24 +10,26 @@
 ## Quick Revision — Spine Only
 
 | Head | Correct |
-|------|------|
+|------|---------|
 | Location | Central Himalaya; between **Himachal** (W), **Nepal/Tibet** (E/N), **UP plains** (S) |
 | Lat–long | Roughly **28°43′–31°27′ N** · **77°34′–81°02′ E** |
-| South → north belts | **Tarai → Shiwalik → Lesser Himalaya → Great Himalaya** |
+| South → north belts | **Tarai → Bhabar → Shiwalik → Dun → Lesser Himalaya → Great Himalaya** (Trans/Tethys farther north) |
 | Between MBT and MCT | **Lesser Himalayan zone** |
 | South of MBT | **Shiwalik** zone |
 | North of MCT | **Central crystalline / Higher Himalaya** approach |
-| Duns | Longitudinal valleys in Shiwalik belt (e.g. Dehradun type) |
-| Highest peak | **Nanda Devi** is the highest among the major Uttarakhand peaks usually listed |
+| Duns | Longitudinal valleys in Shiwalik belt (e.g. Dehradun) |
+| Highest peak | **Nanda Devi** (~**7816–7817 m**, **Chamoli**); **Kamet** (~**7756 m**) next among major UK peaks |
+| Divisions | **Garhwal** (west) · **Kumaon** (east) |
 
 ---
 
 ## Confused Pairs
 
 | Pair | Correct |
-|------|------|
+|------|---------|
 | MBT–MCT belt vs Shiwalik | Lesser Himalaya ≠ Shiwalik (Shiwalik is **south** of MBT) |
 | Tarai last in N→S list | Tarai is **southernmost** — south→north starts with Tarai |
+| Bhabar vs Tarai | Bhabar = porous gravel, streams **sink**; Tarai = streams **reappear**, marshy, fertile |
 | Great Himalaya vs Tethys | Tethys / Trans-Himalaya lies farther north — a different question family |
 | UK vs HP relief vocabulary | Same thrust names; apply to **Uttarakhand** districts in state papers |
 
@@ -35,36 +37,80 @@
 
 ## 1.1 Geographical location
 
+**Identity:** Uttarakhand | Central Himalaya | ~28°43′–31°27′ N · 77°34′–81°02′ E.
+
 - Uttarakhand occupies the central Himalayan sector of India.
-- The state touches the Indo-Gangetic plains on the south and high Himalayan / Tibetan frontiers on the north.
-- Location explains its glacier-fed rivers, seismic sensitivity, and tourism–pilgrimage geography.
+- Rough latitude–longitude spans are about **28°43′ N to 31°27′ N** and **77°34′ E to 81°02′ E**.
+- **Himachal Pradesh** borders the state on the west.
+- **Nepal** and the Tibetan frontier lie on the east and north.
+- **Uttar Pradesh** plains form the southern neighbour.
+- The state therefore links Indo-Gangetic plains on the south with high Himalayan and Tibetan frontiers on the north.
+- Location explains glacier-fed rivers, seismic sensitivity, and pilgrimage–tourism geography.
 
 ---
 
-## 1.2 Relief belts (south → north)
+## 1.2 Garhwal and Kumaon
 
-- From the plains northward the order is **Tarai (with Bhabhar) → Shiwalik → Lesser Himalaya → Great Himalaya**.
-- UKPCS 2025 asked this exact south-to-north sequence; placing Tarai last is the usual inversion trap.
-- Shiwaliks are young, landslide-prone foothills; duns interrupt them as flat-floored valleys.
+**Identity:** Two historic–administrative divisions | Garhwal west · Kumaon east.
+
+- **Garhwal** covers the western hill belt (Dehradun, Tehri, Uttarkashi, Chamoli, Rudraprayag, Pauri and related districts).
+- **Kumaon** covers the eastern hill belt (Nainital, Almora, Bageshwar, Champawat, Pithoragarh and related districts).
+- Plains fringe districts such as **Haridwar** and **Udham Singh Nagar** sit on the southern Tarai edge of this dual map.
+- Many river, peak, and sanctuary questions are answered faster once Garhwal versus Kumaon is fixed.
 
 ---
 
-## 1.3 Structure — thrusts
+## 1.3 Relief belts (south → north)
+
+**Identity:** Full foothill-to-crest stack | Tarai → Bhabar → Shiwalik → Dun → Lesser Himalaya → Great Himalaya → Trans/Tethys note.
+
+- From the plains northward the full coaching sequence is **Tarai → Bhabar → Shiwalik → Dun valleys → Lesser Himalaya → Great Himalaya**.
+- Farther north the **Trans-Himalaya / Tethys Himalaya** note belongs to a separate structural family beyond the Great Himalayan crest.
+- Compact four-name lists often compress to **Tarai → Shiwalik → Lesser Himalaya → Great Himalaya**; placing Tarai last is the usual inversion trap.
+- **Bhabar** is a porous gravel–boulder belt at the Himalayan foot where streams often **sink** underground.
+- **Tarai** is the marshy, waterlogged belt south of Bhabar where groundwater **reappears** and soils support dense cultivation and forest.
+- **Shiwaliks** are young, soft, landslide-prone foothills of unconsolidated sediments.
+- **Duns** are longitudinal flat-floored valleys interrupting the Shiwalik belt; **Dehradun** is the classic example.
+- **Lesser Himalaya** (Himachal belt) forms the mid-altitude inhabited hill country between the major thrusts.
+- **Great Himalaya** (Himadri) carries the permanent snow line, major peaks, and glacier sources of the Ganga–Yamuna headstreams.
+
+---
+
+## 1.4 Structure — thrusts
+
+**Identity:** MBT south · MCT north · Lesser Himalaya between them.
 
 - The **Main Boundary Thrust (MBT)** separates the Shiwaliks from the Lesser Himalaya.
 - The **Main Central Thrust (MCT)** separates the Lesser Himalaya from the Higher / central crystalline belt.
 - Therefore the zone **between MBT and MCT** is the **Lesser Himalayan zone**.
+- South of the MBT lies the **Shiwalik** structural belt.
+- North of the MCT the sequence approaches **central crystalline / Higher Himalaya**.
 - Central crystalline and Tethys Himalaya belong north of the MCT system in the standard relief sequence.
+
+---
+
+## 1.5 Major peaks
+
+**Identity:** Nanda Devi highest entirely in Uttarakhand | Chamoli | ~7816–7817 m.
+
+- **Nanda Devi** is the highest peak among the major Uttarakhand peaks usually listed, at about **7816–7817 m**.
+- **Nanda Devi** stands in **Chamoli** district in the Garhwal Himalaya.
+- **Kamet** is another major high peak of the state, at about **7756 m**, also in the Chamoli / northern Garhwal high belt.
+- Other named high peaks in coaching lists include **Trisul**, **Dunagiri** and **Chaukhamba** in the Garhwal high Himalaya.
+- High peaks feed glaciers that supply Bhagirathi, Alaknanda and related Himalayan rivers.
+- Alpine meadows and national-park cores (Nanda Devi / Valley of Flowers belt) sit around this crest zone.
+- Do not place Nanda Devi in Uttarkashi alone — the usual district tag is **Chamoli**.
 
 ---
 
 ## Must-Score Facts
 
-1. South→north: Tarai → Shiwalik → Lesser → Great Himalaya.
-2. Between MBT and MCT = **Lesser Himalaya**.
-3. Shiwalik = south of MBT; unconsolidated sediments nationally (Q84).
-4. Do not put Tarai north of the Great Himalaya.
-5. Duns sit in the Shiwalik structural belt.
+1. Lat–long ~28°43′–31°27′ N · 77°34′–81°02′ E; HP west, Nepal/Tibet E–N, UP south.
+2. South→north full stack: Tarai → Bhabar → Shiwalik → Dun → Lesser → Great Himalaya.
+3. Bhabar = streams sink; Tarai = streams reappear, marshy, fertile.
+4. Between MBT and MCT = **Lesser Himalaya**; Shiwalik = south of MBT.
+5. Dehradun = classic dun; Nanda Devi ~7816–7817 m (Chamoli); Kamet ~7756 m.
+6. Garhwal = west; Kumaon = east.
 
 ---
 
@@ -76,10 +122,10 @@
 
 Which part of the Himalaya is situated between the Main Boundary Thrust and the Main Central Thrust?
 
-A. Shiwalik zone 
-B. Lesser Himalayan zone 
-C. Central crystalline zone 
-D. Tethys Himalayan zone 
+A. Shiwalik zone  
+B. Lesser Himalayan zone  
+C. Central crystalline zone  
+D. Tethys Himalayan zone  
 
 <details>
 <summary>Show answer</summary>
@@ -94,10 +140,10 @@ D. Tethys Himalayan zone
 
 What is the correct order of physiographic regions of Uttarakhand from south to north?
 
-A. Lesser Himalaya, Great Himalaya, Tarai, Shiwalik 
-B. Shiwalik, Lesser Himalaya, Great Himalaya, Tarai 
-C. Tarai, Shiwalik, Lesser Himalaya, Great Himalaya 
-D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik 
+A. Lesser Himalaya, Great Himalaya, Tarai, Shiwalik  
+B. Shiwalik, Lesser Himalaya, Great Himalaya, Tarai  
+C. Tarai, Shiwalik, Lesser Himalaya, Great Himalaya  
+D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik  
 
 <details>
 <summary>Show answer</summary>
@@ -114,15 +160,31 @@ D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik
 
 **Q1.** The Shiwalik zone of Uttarakhand lies:
 
-A. Between MBT and MCT 
-B. North of MCT 
-C. South of MBT 
-D. In the Tethys Himalaya 
+A. Between MBT and MCT  
+B. North of MCT  
+C. South of MBT  
+D. In the Tethys Himalaya  
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: C.** Shiwalik is south of the Main Boundary Thrust.
+
+</details>
+
+**Logic:** Porous gravel belt versus marshy reappearance belt.
+
+**Q2.** In the foothill sequence of Uttarakhand, streams often sink in the Bhabar and reappear in the:
+
+A. Great Himalaya  
+B. Tarai  
+C. Tethys Himalaya  
+D. Central crystalline zone  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bhabar is porous gravel where streams sink; Tarai is where water reappears as marshy fertile land.
 
 </details>
 
@@ -133,3 +195,5 @@ D. In the Tethys Himalaya
 1. **MBT–MCT = Shiwalik** → Lesser Himalaya.
 2. **South→north ends with Tarai** → Tarai is first from the south.
 3. **Central crystalline between MBT and MCT** → that belt is north of MCT.
+4. **Bhabar = marshy fertile belt** → that is Tarai; Bhabar is porous gravel.
+5. **Nanda Devi = Uttarkashi only** → Chamoli (Garhwal high Himalaya).

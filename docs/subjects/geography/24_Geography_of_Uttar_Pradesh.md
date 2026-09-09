@@ -104,13 +104,25 @@
 
 ## N.0 Framework — Geography of Uttar Pradesh
 
-This is the **state special** map chapter. Prelims mixes physical belts, rivers, soils, forests/PA, and admin extremes.
+**Identity:** Uttar Pradesh is a **Gangetic plains state**. After **9 November 2000**, the Himalaya sits in Uttarakhand, not inside present UP.
 
-- Fact **location frame** first (neighbours, Tropic ≠ UP, 75 districts / 18 divisions, UK split).
-- Then fact **physiography** (Bhabar–Terai–Doab–Awadh–Rohilkhand–Bundelkhand–Purvanchal–Vindhyan) with one crop/soil tag each.
-- Rivers need **confluence town** and Yamuna right-bank order — not kilometre fights.
-- Forests/PA: **one NP**, named TRs, Ramsar list + NOT-in-UP traps.
-- Census ranks stay on **2011** until the next census freeze.
+This is the **state special** map chapter. Physical belts, rivers, soils, forests and protected areas, and administrative extremes all live here.
+
+Fact the **location frame** first.
+
+Neighbours, the Tropic of Cancer trap, **75** districts / **18** divisions, and the Uttarakhand split come before physiography.
+
+Then fact **physiography**.
+
+Learn Bhabar, Terai, Doab, Awadh, Rohilkhand, Bundelkhand, Purvanchal and Vindhyan with one crop or soil tag each.
+
+Rivers need the **confluence town** and the Yamuna right-bank order.
+
+Do not fight over kilometre lengths.
+
+Forests and protected areas need **one national park**, named tiger reserves, the Ramsar list, and NOT-in-UP traps.
+
+Census ranks stay on **2011** until the next census freeze.
 
 **Order of this chapter**
 
@@ -118,7 +130,7 @@ This is the **state special** map chapter. Prelims mixes physical belts, rivers,
 2. Rivers → irrigation / power → agriculture → minerals / industry.
 3. Forests / PA → Ramsar → population / districts → urban / transport.
 
-Teach the **full UP map** — next year can ask any standard district extreme or canal, not only Dudhwa or potato.
+Teach the **full UP map**. Next year can ask any standard district extreme or canal, not only Dudhwa or potato.
 
 ---
 
@@ -208,14 +220,49 @@ Teach the **full UP map** — next year can ask any standard district extreme or
 
 ## N.3 Climate of UP
 
-**Type:** Tropical monsoon; more **continental** in the west, more humid in the east
+**Identity:** Tropical monsoon climate on the Gangetic plain. The west is more **continental**. The east and Terai are more humid.
 
-- Rainfall rises **west → east** (roughly 60–80 cm in the west doab to 100–140 cm in the east/Terai). Bay of Bengal arm is the main monsoon feed.
-- Classic name pairs: **highest rainfall belt ≈ Gorakhpur**; **lowest ≈ Mathura** (do not swap).
-- Köppen teaching tag for the Gangetic plain = **Cwg** (monsoon, dry winter) — note, not an essay.
-- Hottest belt: south-west (Jhansi–Banda–Agra). Loo in May–June on the western plain.
-- Winter **western disturbances** = rabi wheat in the doab. Fog in the central–east plain.
-- After UK’s creation, UP has **no alpine/snow climate**. Terai is wetter and more malarial than the doab.
+Uttar Pradesh receives most of its rain from the **south-west monsoon**.
+
+The **Bay of Bengal** arm is the main monsoon feed for the State.
+
+Rainfall generally rises from **west to east**.
+
+The western doab often records about **60–80 cm**.
+
+The eastern plain and Terai often record about **100–140 cm**.
+
+The classic highest-rainfall belt tag is **Gorakhpur**.
+
+The classic lowest-rainfall belt tag is **Mathura**.
+
+Do not swap Gorakhpur and Mathura.
+
+The usual Köppen teaching tag for the Gangetic plain is **Cwg** (monsoon with a dry winter).
+
+### Seasons
+
+**Summer** (March–mid-June) is hot and dry on the western plain.
+
+The hottest belt is the south-west — **Jhansi, Banda and Agra**.
+
+The **Loo** is the hot, dry, dusty wind of **May–June** on the western plain.
+
+**Monsoon** (mid-June–September) brings the bulk of annual rainfall.
+
+Eastern and Terai districts stay wetter and more humid than the western doab.
+
+**Winter** (November–February) is cool and largely dry.
+
+**Western disturbances** from the Mediterranean–Iran belt give light winter rain and cloud.
+
+That winter rain supports **rabi wheat** in the doab.
+
+**Fog** is common in the central and eastern plain in winter mornings.
+
+After Uttarakhand’s creation, present Uttar Pradesh has **no alpine or snow climate**.
+
+The Terai is wetter and more malarial than the doab.
 
 ---
 

@@ -141,9 +141,14 @@ Transport and communication are the **arteries of circulation** of the economy.
 - **Communication** moves information, ideas and messages.
 - Principal modes are **land** (road, rail), **water** (inland + sea), **air**, and **pipelines**.
 - Roads often feed other modes: they link farms to stations, ports and airports.
+- Rail suits bulky, long-distance freight and mass passenger movement on fixed tracks.
+- Sea shipping dominates international bulk trade; inland waterways suit low-cost, low-speed cargo on navigable rivers and canals.
+- Air suits high-value or time-sensitive cargo and long-distance passengers.
+- Pipelines suit continuous flow of oil, gas and products once the capital line is laid.
 - About **95% of India’s trade by volume** (and a large share by value) moves by **sea**.
 - Inland waterways still carry only a **tiny** share of cargo, so schemes try to raise that share.
 - Multimodal planning under **PM Gati Shakti** and the **National Logistics Policy** aims to cut logistics cost and time.
+- Map reading for this chapter pairs **routes** (GQ, DFC, NW-1, HBJ) with **nodes** (ports, airports, railway HQs and UP expressway towns).
 
 ---
 
@@ -617,9 +622,14 @@ D. Both 1 and 2
 
 Pipelines move oil, gas and products continuously after a high upfront capital cost.
 
-- **GAIL** (set up 1984) transports, processes and markets natural gas.
-- The **Hazira–Bijaipur–Jagdishpur (HBJ)** line is the classic gas grid toward north-central markets.
-- Domestic refinery product lines include feeds around **Mathura**.
+- Once laid, running cost is low, and there is little trans-shipment loss compared with road or rail tanker haulage.
+- Pipelines are best for liquids and gases that must flow steadily from fields and terminals to refineries, fertilizer plants and power stations.
+- **GAIL** (set up **1984**) transports, processes and markets natural gas on the national grid.
+- The **Hazira–Bijaipur–Jagdishpur (HBJ / HVJ)** gas pipeline is the classic cross-country gas trunk toward western and north-central markets.
+- HBJ draws gas linked to the **Mumbai High / Bassein** offshore fields and feeds fertilizer and power complexes along the Gujarat–Madhya Pradesh–Uttar Pradesh belt, including nodes near **Auraiya** and **Jagdishpur** in Uttar Pradesh.
+- The oldest major crude network taught in school maps runs from **Naharkatiya** (Assam) through **Noonmati / Guwahati** to **Barauni**, with later links toward Kanpur and Haldia branches.
+- The **Salaya–Koyali–Mathura** crude line brings imported west-coast crude inland to Gujarat and **Mathura**, with further northern extensions toward Panipat and Jalandhar in standard notes.
+- Domestic refinery product lines include feeds around **Mathura** serving north Indian markets.
 - In **September 2019**, the product pipeline from **Motihari (India)** to **Amlekhganj (Nepal)** was inaugurated. It is not Motihari–Kathmandu and not Darbhanga–Amlekhganj.
 
 **Inline PYQ — UPPCS Prelims 2019, Q34**
@@ -723,7 +733,17 @@ D. Refraction
 
 ## N.9 Uttar Pradesh Focus
 
-Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expressways, airports, NW-1 and station redevelopment.
+Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expressways, airports, NW-1, inland pipeline nodes and station redevelopment.
+
+- **North Eastern Railway** has its headquarters at **Gorakhpur**.
+- **North Central Railway** is headquartered at **Prayagraj**, so western and central UP sit on a major rail command map as well.
+- The built **Purvanchal Expressway** spine is Lucknow–Azamgarh–**Mau**–Ghazipur–Ballia. It **passes Mau**; Basti is off the main alignment.
+- **Kushinagar** became an international airport on **24 June 2020**.
+- **Jewar** is the Noida International Airport project serving the western UP / NCR side.
+- Under **Amrit Bharat**, about **149** UP stations were identified for modernisation as of **February 2023**, out of roughly **1,275** stations all-India.
+- **National Waterway-1** on the Ganga runs **Haldia–Prayagraj**, so eastern and southern UP link to the inland waterway trunk.
+- Western UP / NCR feel the pull of the **Western Dedicated Freight Corridor** toward the **Dadri–JNPT** freight spine.
+- Pipeline geography places UP on the receiving end of HBJ gas toward **Jagdishpur / Auraiya** and of west-coast crude / product feeds centered on **Mathura**.
 
 | Theme | Fact |
 |-------|------|
@@ -733,6 +753,7 @@ Uttar Pradesh has **no major seaport**. Its identity is rail headquarters, expre
 | Stations | Amrit Bharat: **149 UP stations** identified for **modernisation** (Feb 2023), out of about 1,275 all-India |
 | Waterway | **NW-1** on the Ganga (Haldia–Prayagraj) |
 | DFC pull | Western UP / NCR toward the Dadri–JNPT freight spine |
+| Pipeline nodes | HBJ gas toward Jagdishpur / Auraiya; Mathura refinery product / crude complex |
 
 ---
 

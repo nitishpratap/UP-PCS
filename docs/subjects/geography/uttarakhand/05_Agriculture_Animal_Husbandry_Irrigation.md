@@ -9,7 +9,7 @@
 ## Quick Revision — Spine Only
 
 | Head | Correct |
-|------|------|
+|------|---------|
 | Hill farming | Terraced cereals, millets, pulses; orchards in mid-hills |
 | Granary belt | Tarai / plains districts lead in cropped area |
 | Highest agri land (2025) | **Haridwar** (Series B provisional key **A**) |
@@ -23,7 +23,7 @@
 ## Confused Pairs
 
 | Pair | Correct |
-|------|------|
+|------|---------|
 | Haridwar vs US Nagar on agri area | 2025 Series B marks **Haridwar**; US Nagar is the Tarai rival in many books |
 | AH as main vs supplementary | Correct reading is **supplementary** occupation |
 | Q102 both vs only 1 | Series B **Only 1** — do not mark both unless an amended key says so |
@@ -33,25 +33,52 @@
 
 ## 5.1 Agriculture pattern
 
+**Identity:** Hill terraces vs Tarai granary | plains lead cropped area.
+
 - Cropped area concentrates in the southern plains and Tarai where slopes allow continuous fields.
-- Hill agriculture is fragmented and terrace-based; horticulture matters in suitable altitudes.
-- UKPCS 2025 asked which district has the **highest agricultural land**; the Series B answer is **Haridwar**.
+- **Udham Singh Nagar** and **Haridwar** type districts form the granary belt of the state.
+- Hill agriculture is fragmented and **terrace-based** on steep slopes.
+- Mid-hill farms grow cereals, millets, pulses, and oilseeds on small holdings.
+- Horticulture — apples, stone fruits, citrus, and off-season vegetables — matters in suitable altitudes.
+- Series B for 2025 marks **Haridwar** as the district with the **highest agricultural land**.
+- Many coaching notes also highlight **Udham Singh Nagar** as the Tarai cultivated-area rival; keep both names and prefer the Series B letter when that paper is cited.
 
 ---
 
-## 5.2 Animal husbandry
+## 5.2 Major crops
 
-- Livestock supplements crop farming across the hill economy.
-- Statement pattern: (1) AH is supplementary — treated as **true**; (2) sheep rearing hit by environmental degradation — **not accepted** in Series B (answer **Only 1**).
-- Revise the degradation narrative for essays / other papers, but keep the 2025 option letter as **C**.
+**Identity:** Plains cereals vs hill millets and orchards.
+
+- Plains and Tarai emphasise **rice**, **wheat**, **sugarcane**, and oilseeds under denser irrigation.
+- Hills emphasise **mandua (finger millet)**, **jhangora**, barley, and other hardy cereals on terraces.
+- Pulses and potatoes appear widely as catch or kitchen crops in mid-hills.
+- Orchard belts and vegetable belts add cash income where road access and altitude allow.
+- Crop choice follows altitude, slope, and water availability more than a single statewide monoculture.
 
 ---
 
-## 5.3 Irrigation
+## 5.3 Animal husbandry
 
-- **Udham Singh Nagar** and **Haridwar** type plains use canal and tubewell irrigation heavily.
-- Mid-hill systems rely more on springs, small channels (guls), and tanks.
-- Syllabus expects the plains–hills contrast more than a long project list.
+**Identity:** Supplementary to crop farming | milk, wool, manure.
+
+- Livestock **supplements** crop farming across the hill and Tarai economy.
+- Cattle and buffalo support milk and draught in plains and mid-hills.
+- Sheep and goats matter in higher pastures for wool and meat.
+- Manure and household nutrition keep animal husbandry tied to the farm rather than replacing it.
+- Statement pattern for 2025: (1) AH is supplementary — treated as **true**; (2) sheep rearing hit by environmental degradation — **not accepted** in Series B (answer **Only 1**).
+- The degradation narrative may appear in other sources; keep the 2025 option letter as **C** for that stem.
+
+---
+
+## 5.4 Irrigation
+
+**Identity:** Canal–tubewell plains vs spring–gul hills.
+
+- **Udham Singh Nagar** and **Haridwar** type plains use **canal** and **tubewell** irrigation heavily.
+- Mid-hill systems rely more on **springs**, small channels (**guls**), and tanks.
+- Steep terrain limits large canal networks in the higher Himalaya.
+- Irrigation intensity therefore falls from Tarai granary districts toward high alpine valleys.
+- The syllabus expects this plains–hills contrast more than a long named-project list.
 
 ---
 
@@ -59,9 +86,9 @@
 
 1. AH is a **supplementary** occupation (Q102 stmt 1).
 2. 2025 Q102 = **Only 1** (Series B).
-3. 2025 Q107 = **Haridwar** (Series B).
-4. Plains lead cultivated area; hills lead in terrace / horticulture stories.
-5. Keep US Nagar as a confused rival on agri-area questions.
+3. 2025 Q107 = **Haridwar** (Series B); US Nagar is the frequent rival.
+4. Plains lead cultivated area; hills lead terrace / horticulture stories.
+5. Tarai = canal–tubewell; hills = springs / guls.
 
 ---
 
@@ -76,10 +103,10 @@ Consider the following statements:
 1. Animal husbandry is a supplementary occupation of agriculture.
 2. Sheep rearing in the mountainous areas has been affected by environmental degradation.
 
-A. Both 1 and 2 
-B. Only 2 
-C. Only 1 
-D. Neither 1 nor 2 
+A. Both 1 and 2  
+B. Only 2  
+C. Only 1  
+D. Neither 1 nor 2  
 
 <details>
 <summary>Show answer</summary>
@@ -94,10 +121,10 @@ D. Neither 1 nor 2
 
 Which district of Uttarakhand has the highest agricultural land?
 
-A. Haridwar 
-B. Udham Singh Nagar 
-C. Dehradun 
-D. Nainital 
+A. Haridwar  
+B. Udham Singh Nagar  
+C. Dehradun  
+D. Nainital  
 
 <details>
 <summary>Show answer</summary>
@@ -108,8 +135,45 @@ D. Nainital
 
 ---
 
+## Practice Zone
+
+**Logic:** Plains–hills irrigation contrast.
+
+**Q1.** Canal and tubewell irrigation in Uttarakhand is most characteristic of:
+
+A. High alpine valleys only  
+B. Tarai / plains districts such as Haridwar and Udham Singh Nagar  
+C. The Trans-Himalaya alone  
+D. Only Chamoli and Uttarkashi  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tarai and plains districts rely on canals and tubewells; mid-hills lean on springs and guls.
+
+</details>
+
+**Logic:** Role of animal husbandry in the farm economy.
+
+**Q2.** In Uttarakhand’s rural economy, animal husbandry is best described as:
+
+A. The sole occupation replacing crops in all districts  
+B. A supplementary occupation to agriculture  
+C. Limited only to Tarai towns  
+D. Unrelated to manure or milk  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Animal husbandry supplements crop farming through milk, wool, draught, and manure.
+
+</details>
+
+---
+
 ## Common Traps
 
 1. **Blindly marking Both on Q102** → Series B is Only 1.
 2. **Always US Nagar for max agri land** → 2025 key is Haridwar.
 3. **AH replaces agriculture in hills** → it supplements.
+4. **Same irrigation system statewide** → plains ≠ hills.

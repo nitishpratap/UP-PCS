@@ -535,7 +535,7 @@ D. Stamp
 
 ## N.4 Plant Acclimatization & Adaptations
 
-**Acclimatization** is an organism adjusting to a new climate. Teaching uses these **adaptation types**:
+**Acclimatization** is an organism adjusting its physiology to a new climate over days or seasons. **Adaptation** is a longer evolutionary trait that helps a species survive in a habitat. Teaching uses these **adaptation types** for vegetation questions.
 
 | Type | Meaning | Example |
 |------|---------|---------|
@@ -545,6 +545,16 @@ D. Stamp
 | **Halophyte** | Salt-adapted | Mangroves |
 | **Pneumatophore** | Breathing root | Mangrove |
 | **Epiphyte** | Grows on other plants | Equatorial orchids (2019) |
+
+A **xerophyte** lives where water is scarce. It may grow spines instead of broad leaves, store water in fleshy stems, shed leaves in drought, or send roots deep into groundwater. Thorn forests of Rajasthan and Gujarat are classic xerophyte belts.
+
+A **hydrophyte** lives in water or in permanently wet soil. Leaves may be floating or finely dissected. Roots are often weak because water supports the plant. Lotus and hydrilla are standard examples.
+
+A **mesophyte** needs moderate soil moisture. Most crop plants and many deciduous understorey shrubs fall here. They cannot endure long desert drought or permanent flooding.
+
+A **halophyte** tolerates saline soil or brackish water. Mangrove trees are the main Indian example. Many mangroves also grow **pneumatophores**, which are upward breathing roots that take oxygen from air when mud is waterlogged.
+
+An **epiphyte** grows on another plant for support, not as a parasite that steals food. Equatorial orchids on tree trunks are the usual match. Parasites differ because they draw nutrients from the host.
 
 ---
 
@@ -710,15 +720,32 @@ D. Sacred groves
 
 ## N.7 Coral, Coastal Ops, Species Programmes
 
-India reefs: **Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh**.
+**Coral reefs** are calcium-carbonate structures built by tiny coral polyps and their symbiotic algae (**zooxanthellae**). They need clear, warm, shallow tropical seas.
 
-- Need warm, clear, shallow water — not muddy delta mouths.
-- Bleaching = loss of zooxanthellae under **heat**.
-- 2024 Q19 Andaman mass death → **~2°C Indian Ocean rise**, not cooling.
-- **Operation Olivia:** Indian **Coast Guard** protects **Olive Ridley** nesting on **Odisha** coast.
-- Nesting season **~Nov–May**, **not August** (2025 Q143 **Only 1**).
-- Project Tiger 1973 / Project Elephant 1992 — dated in N.5.
-- MISHTI → mangrove restoration (N.2).
+**Conditions for reef growth**
+
+- Mean water temperature is usually about **20–30°C**. Water that is much colder or much hotter stresses the polyps.
+- Salinity should stay in a moderate oceanic range. Very fresh river water and extremely high salinity both harm reefs.
+- Depth is usually shallow — often within about **45–55 m** — so sunlight reaches the algae for photosynthesis.
+- Water must be **clear and low in sediment**. Muddy delta mouths clog polyps, so major reefs avoid big river mouths.
+- Hard substrate and good circulation help larvae settle and feed.
+
+India’s main reef tracts are the **Andaman and Nicobar Islands**, **Lakshadweep**, the **Gulf of Mannar**, and the **Gulf of Kachchh**.
+
+**Coral bleaching** happens when heat stress makes corals expel their zooxanthellae. The reef turns white. A bleached coral is not dead at once, but prolonged bleaching can kill it. The 2024 Andaman mass-death framing links bleaching to about a **2°C** rise in Indian Ocean surface water, **not** to cooling.
+
+**Coastal operation**
+
+- **Operation Olivia** is run by the Indian **Coast Guard**.
+- It protects **Olive Ridley** turtles nesting on the **Odisha** coast.
+- The main nesting window is about **November to May**, **not** August (the August option is the usual trap).
+
+**Species programmes already in this chapter’s theme**
+
+- **Project Tiger** began on **1 April 1973** after the Wildlife Protection Act **1972**.
+- **Project Elephant** began in **1992**.
+- Full chronology and reserve framing sit in N.5.
+- **MISHTI** supports mangrove restoration and pairs with the littoral / mangrove card in N.2.
 
 ---
 

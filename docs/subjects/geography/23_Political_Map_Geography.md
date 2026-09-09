@@ -144,13 +144,21 @@ D. 8 degrees 4' N to 37 degrees 6' N
 
 ## N.0 Framework — Political & Map Geography
 
-This chapter is the **atlas + UNCLOS** home. Notes ask distances, lines, capitals, landlocked status, and chokepoints.
+**Identity:** This chapter is the **atlas + UNCLOS** home. Distances, boundary lines, capitals, landlocked status and chokepoints all live here.
 
-- Fact **12 / 24 / 200** before any EEZ story.
-- India’s neighbours need **land vs maritime** and **longest / shortest** borders.
-- Boundary lines need **countries + year + person** where Lucent gives them.
-- Map sections (seas, straits, canals, mountains, ports, Köppen) are **match-list** homes — one identity line each.
-- Detailed world rivers / industries live in Topics 17 and 22 — here keep only map associations that Prelims still match.
+Fact **12 / 24 / 200** nautical miles before any EEZ story.
+
+India’s neighbours need **land versus maritime** and **longest / shortest** borders.
+
+Boundary lines need **countries + year + person** where Lucent gives them.
+
+Map sections on seas, straits, canals, mountains, ports and Köppen are **match-list** homes.
+
+Give one identity line for each pair.
+
+Detailed world rivers and industries live in their own world chapters.
+
+Here keep only the map associations that papers still match.
 
 **Order of this chapter**
 
@@ -158,7 +166,7 @@ This chapter is the **atlas + UNCLOS** home. Notes ask distances, lines, capital
 2. Capitals → sobriquets → landlocked / equator → seas → straits → canals.
 3. Mountains → rivers/lakes → ports → Köppen.
 
-Teach the **full political atlas** — next year can ask any Lucent capital or strait, not only McMahon or Suez.
+Teach the **full political atlas**. Next year can ask any Lucent capital or strait, not only McMahon or Suez.
 
 ---
 
@@ -183,29 +191,69 @@ Teach the **full political atlas** — next year can ask any Lucent capital or s
 
 ## N.2 India’s neighbours
 
+**Identity:** India has **seven land neighbours** and **two maritime neighbours**.
+
 **Land:** 7 · **Maritime:** 2
 
-- Land: Pakistan, **Afghanistan**, China, Nepal, Bhutan, Myanmar, Bangladesh.
-- Maritime: **Sri Lanka** (Palk / Gulf of Mannar), **Maldives** (8° Channel).
-- Sri Lanka, Maldives, Tajikistan are **not** land neighbours. Wakhan is Afghan.
-- **Longest** land border = **Bangladesh**. **Shortest** = **Afghanistan**.
-- Pakistan-facing states/UTs: Gujarat, Rajasthan, Punjab, J&K / Ladakh.
-- China-facing: Ladakh, Himachal, Uttarakhand, Sikkim, Arunachal.
-- Nepal-facing: Uttarakhand, **Uttar Pradesh**, Bihar, West Bengal, Sikkim.
-- Bhutan-facing: Sikkim, West Bengal, Assam, Arunachal.
-- Myanmar-facing: Arunachal, Nagaland, Manipur, Mizoram.
-- Bangladesh-facing: West Bengal, Assam, Meghalaya, Tripura, Mizoram.
-- UP touches **Nepal only** among foreign countries.
+India’s land neighbours are Pakistan, **Afghanistan**, China, Nepal, Bhutan, Myanmar and Bangladesh.
+
+India’s maritime neighbours are **Sri Lanka** and the **Maldives**.
+
+Sri Lanka sits across the **Palk Strait / Gulf of Mannar**.
+
+The Maldives sits across the **8° Channel**.
+
+Sri Lanka, the Maldives and Tajikistan are **not** land neighbours.
+
+The **Wakhan** corridor note keeps Afghanistan as a land neighbour via the PoK / Wakhan framing.
+
+India’s **longest** land border is with **Bangladesh**.
+
+India’s **shortest** land border is with **Afghanistan**.
+
+Pakistan-facing states and UTs include Gujarat, Rajasthan, Punjab and J&K / Ladakh.
+
+China-facing units include Ladakh, Himachal Pradesh, Uttarakhand, Sikkim and Arunachal Pradesh.
+
+Nepal-facing states include Uttarakhand, **Uttar Pradesh**, Bihar, West Bengal and Sikkim.
+
+Bhutan-facing states include Sikkim, West Bengal, Assam and Arunachal Pradesh.
+
+Myanmar-facing states include Arunachal Pradesh, Nagaland, Manipur and Mizoram.
+
+Bangladesh-facing states include West Bengal, Assam, Meghalaya, Tripura and Mizoram.
+
+Among foreign countries, **Uttar Pradesh** touches **Nepal only**.
 
 ## N.2b India on the world map
 
+**Identity:** India is a large **south Asian** peninsula between the Arabian Sea and the Bay of Bengal.
+
 **Area:** ~3.28 million km² = **2.4%** of world land · **7th** largest (not 6th)
 
-- Tropic of Cancer (**23½° N**) runs through the **middle** of the country.
-- Eight states on it: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. **Not UP. Not Ladakh.**
-- India is **not** wholly tropical — the north goes well beyond 23½° N (2022 stmt 4 is false).
-- Standard meridian **82°30′ E** (Mirzapur / Allahabad belt) = IST.
-- Extremes : north = Indira Col / Kashmir; south = Indira Point (A&N); west = Ghuar Mota (Gujarat); east = Kibithu (Arunachal).
+The Tropic of Cancer (**23½° N**) runs through the **middle** of the country.
+
+Eight states sit on it: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.
+
+The Tropic of Cancer does **not** pass through **Uttar Pradesh**.
+
+It does **not** pass through **Ladakh**.
+
+India is **not** wholly tropical.
+
+The north goes well beyond 23½° N, so a “fully tropical India” statement is false.
+
+India’s standard meridian is **82°30′ E** on the Mirzapur / Prayagraj belt.
+
+That meridian defines **IST**.
+
+The northern extreme is Indira Col / Kashmir.
+
+The southern extreme is **Indira Point** in the Andaman and Nicobar Islands.
+
+The western extreme is **Ghuar Mota** in Gujarat.
+
+The eastern extreme is **Kibithu** in Arunachal Pradesh.
 
 ---
 
@@ -277,14 +325,25 @@ D. India and Nepal
 
 ## N.4 Coastline and coastal states
 
+**Identity:** India’s coastline includes the mainland plus the island groups. The total is about **7,516.6 km**.
+
 **Mainland + islands:** ≈ **7,516.6 km** · **Nine** coastal states
 
-- States: Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha, West Bengal.
-- UTs: Andaman & Nicobar, Lakshadweep, Puducherry, Daman & Diu (in DN&DD).
-- Longest **state** coast = **Gujarat** (2018). Next names: Andhra Pradesh, Tamil Nadu.
-- Shortest coastal state = **Goa**.
-- A&N coastline is very long — but if options are states, answer remains **Gujarat**.
-- Telangana is **not** coastal.
+The nine coastal states are Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha and West Bengal.
+
+Coastal Union Territories include Andaman & Nicobar, Lakshadweep, Puducherry and Daman & Diu (inside DN&DD).
+
+The longest **state** coastline is **Gujarat**.
+
+Andhra Pradesh and Tamil Nadu are the usual next names.
+
+The shortest coastal state is **Goa**.
+
+The Andaman and Nicobar coastline is very long.
+
+If the options are States, the answer remains **Gujarat**.
+
+**Telangana** is **not** a coastal state.
 
 **Inline PYQ — UPPCS Prelims 2018, Q98**
 
@@ -311,17 +370,33 @@ D. Gujarat
 
 ## N.5 Countries and capitals
 
+**Identity:** Capitals are match-list facts. Famous commercial cities are often **not** the capital.
+
 **Neighbourhood**
 
-- Pakistan — Islamabad (Karachi is not the capital).
-- Afghanistan — Kabul.
-- China — Beijing.
-- Nepal — Kathmandu.
-- Bhutan — Thimphu.
-- Myanmar — **Naypyidaw** (Yangon = old / port).
-- Bangladesh — Dhaka.
-- Sri Lanka — Sri Jayawardenepura Kotte (Colombo = commercial).
-- Maldives — Malé.
+Pakistan’s capital is **Islamabad**.
+
+**Karachi** is not Pakistan’s capital.
+
+Afghanistan’s capital is **Kabul**.
+
+China’s capital is **Beijing**.
+
+Nepal’s capital is **Kathmandu**.
+
+Bhutan’s capital is **Thimphu**.
+
+Myanmar’s capital is **Naypyidaw**.
+
+**Yangon** is Myanmar’s old capital / major port, not the present capital.
+
+Bangladesh’s capital is **Dhaka**.
+
+Sri Lanka’s official capital is **Sri Jayawardenepura Kotte**.
+
+**Colombo** is Sri Lanka’s commercial city.
+
+The Maldives’ capital is **Malé**.
 
 ## Central Asia capitals (match bank)
 
@@ -861,27 +936,89 @@ D. China
 
 ## N.11 Rivers and lakes (map)
 
-- Nile → Mediterranean. Amazon and Congo → Atlantic.
-- Mississippi → Gulf of Mexico (bird-foot delta). Danube → Black Sea. Volga → Caspian.
-- Rhine → North Sea at Rotterdam.
-- Murray–Darling → southern Australia; Darling Range sits on the **SW** Australian coast.
-- Mekong delta = **southern Vietnam**, not Cambodia as the sea mouth.
-- Irrawaddy → Andaman Sea. Indus → Arabian Sea. Ganga–Brahmaputra → Bay of Bengal.
-- Huang He → Yellow Sea. Yangtze → East China Sea. Amur → north-east (Tatar Strait side).
-- Caspian — largest lake; five countries. Superior — largest freshwater Great Lake by area.
-- Baikal — deepest, Russia; sobriquet **Pearl of Siberia**. Victoria / Tanganyika / Malawi — East Africa.
-- Titicaca — Peru–Bolivia. Eyre — Australia, ephemeral. Dead Sea — Jordan–Israel, lowest land.
-- Aral — shrinking, Kazakhstan–Uzbekistan. Manzala / Timsah / Bitter Lakes — Suez.
+**Identity:** This is the **quick map desk** for world mouths and lake–country pairs.
+
+The **Nile** opens into the Mediterranean.
+
+The **Amazon** and the **Congo** open into the Atlantic.
+
+The **Mississippi** opens into the Gulf of Mexico and builds a bird’s-foot delta.
+
+The **Danube** opens into the Black Sea.
+
+The **Volga** opens into the Caspian Sea.
+
+The **Rhine** reaches the North Sea at Rotterdam.
+
+The **Murray–Darling** drains southern Australia.
+
+The **Darling Range** sits on the south-west Australian coast and is **not** this river system.
+
+The **Mekong** delta is in **southern Vietnam**, not Cambodia as the sea mouth.
+
+The **Irrawaddy** opens into the Andaman Sea.
+
+The **Indus** opens into the Arabian Sea.
+
+The **Ganga–Brahmaputra** opens into the Bay of Bengal.
+
+The **Huang He** opens into the Yellow Sea.
+
+The **Yangtze** opens into the East China Sea.
+
+The **Amur** opens on the north-east Pacific / Tatar Strait side.
+
+The **Caspian** is the largest lake and touches five countries.
+
+**Superior** is the largest freshwater Great Lake by area.
+
+**Baikal** is the deepest lake and sits in Russia.
+
+Baikal’s sobriquet is **Pearl of Siberia**.
+
+Victoria, Tanganyika and Malawi are the East African lake set.
+
+**Titicaca** sits on the Peru–Bolivia border.
+
+**Eyre** is Australia’s large ephemeral lake.
+
+The **Dead Sea** sits on the Jordan–Israel border and is the lowest land surface.
+
+The **Aral Sea** is shrinking between Kazakhstan and Uzbekistan.
+
+Manzala, Timsah and the Bitter Lakes sit on the **Suez** route.
 
 ---
 
 ## N.12 Ports (map)
 
-- Rotterdam — **Netherlands**. Hamburg — Germany. Antwerp — Belgium. Duisburg — inland Rhine.
-- Shanghai — China (container volume). Singapore — Malacca entrepôt.
-- Jakarta — Indonesia. Montevideo — **Uruguay** (not Buenos Aires).
-- **Igarka — Russia** (Yenisei timber), **not China** (2023).
-- Port Said / Suez — Egypt. Mumbai / JNPT / Chennai / Kolkata — India.
+**Identity:** Match each port to its **country** and one trap. Volume ranks move; identity does not.
+
+**Rotterdam** is in the **Netherlands**.
+
+**Hamburg** is in Germany.
+
+**Antwerp** is in Belgium.
+
+**Duisburg** is an inland Rhine port.
+
+**Shanghai** is China’s great container port.
+
+**Singapore** is the classic Malacca entrepôt.
+
+**Jakarta** is Indonesia’s capital port city.
+
+**Montevideo** is in **Uruguay**.
+
+Montevideo is **not** Buenos Aires.
+
+**Igarka** is in **Russia** on the Yenisei timber route.
+
+Igarka is **not** in China.
+
+**Port Said** and **Suez** are Egyptian ends of the canal.
+
+Mumbai, JNPT, Chennai and Kolkata are India’s main matched ports on this desk.
 
 **Inline PYQ — UPPCS Prelims 2023, Q60**
 

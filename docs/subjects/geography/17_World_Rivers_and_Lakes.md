@@ -123,12 +123,27 @@ Read as: **this** is correct · **that** is the usual wrong option.
 
 ## N.0 Framework — World Rivers & Lakes
 
-This is a **map-matching** chapter. Notes ask city–river, river–direction, lake–country, dam–river, and a few superlatives.
+**Identity:** This is a **map-matching** chapter for city–river, river–direction, lake–country, dam–river, and a few superlatives.
 
-- Fact **one identity line** per river: continent · mouth · one famous city or dam · one trap.
-- Separate the three Nile / Amazon / Congo records — longest ≠ largest discharge ≠ deepest.
-- Lakes need **type** (rift, glacial, crater, lagoon, endorheic) plus the superlative (area / depth / volume / height / salinity).
-- Indian drainage detail lives in Topic 03 — here teach only world centres that Prelims actually match (Hyderabad–Musi is the India city trap that sneaks in).
+Fact **one identity line** per river.
+
+Learn continent, mouth, one famous city or dam, and one trap.
+
+Separate the three Nile / Amazon / Congo records.
+
+Longest is not the same as largest discharge, and neither is the same as deepest.
+
+Lakes need **type** plus the superlative.
+
+Type means rift, glacial, crater, lagoon or endorheic.
+
+Superlative means area, depth, volume, height or salinity.
+
+Indian drainage detail lives in the Indian Drainage chapter.
+
+Here teach only world centres that papers actually match.
+
+**Hyderabad–Musi** is the India city trap that sneaks into this world desk.
 
 **Order of this chapter**
 
@@ -136,7 +151,7 @@ This is a **map-matching** chapter. Notes ask city–river, river–direction, l
 2. Deltas, cities, borders, navigation, dams.
 3. Lakes (types + Great Lakes) and waterfalls.
 
-Teach the **full world map** — next year can ask any standard Lucent pair, not only Mekong or Onega.
+Teach the **full world map**. Next year can ask any standard Lucent pair, not only Mekong or Onega.
 
 ---
 
@@ -263,7 +278,11 @@ D. Neither 1 nor 2
 
 ## N.2 World deltas
 
-A **delta** is the load dumped at a quiet, shallow mouth (many distributaries). Strong tides can leave an **estuary** instead.
+A **delta** is the load dumped at a quiet, shallow mouth with many distributaries.
+
+Strong tides can leave an **estuary** instead of a classic delta.
+
+Delta shape is a standard match stem. Learn the table, then the traps below.
 
 | Shape | Meaning | Classic river |
 |-------|---------|----------------|
@@ -272,7 +291,15 @@ A **delta** is the load dumped at a quiet, shallow mouth (many distributaries). 
 | **Cuspate** | Pointed tooth | Tiber (Italy) |
 | **Moribund** | Abandoned / dying lobe | Cauvery (India) |
 
-- **Mekong** delta = **southern Vietnam** (not Cambodia).
+The **Nile**, **Hwang Ho** and **Niger** are arcuate deltas.
+
+The **Mississippi** is the classic **bird’s-foot** delta.
+
+The **Mekong** delta sits in **southern Vietnam**.
+
+The Mekong delta is **not** in Cambodia as the sea mouth.
+
+The world’s largest delta is the **Ganga–Brahmaputra–Meghna** (Sundarbans) system.
 
 **Inline PYQ — UPPCS Prelims 2018, Q33**
 
@@ -297,6 +324,8 @@ D. Niger
 
 ## N.2A River landforms (world desk)
 
+Rivers cut valleys and dump load. Match the landform to the agent before you match the famous place.
+
 | Form | Note |
 |------|-----|
 | **Gorge** | Deep narrow valley with steep walls (e.g. **Chisapani** on Karnali, Nepal) |
@@ -307,7 +336,23 @@ D. Niger
 | **Delta** | Mouth deposit — Ganga–Brahmaputra–Meghna = world’s largest; Mississippi = **bird’s-foot**; Nile = arcuate |
 | **Watershed / catchment** | Land unit that collects, stores and releases water to a common outlet |
 
-**Agent traps:** Canyon/gorge = **river**; moraine = **glacier**; zeugen / inselberg = **wind** (not glacier).
+A **gorge** is a deep, narrow river valley with steep walls.
+
+The **Chisapani Gorge** sits on the Karnali in Nepal.
+
+A **canyon** is a broader and deeper eroded gorge.
+
+The **Grand Canyon** was cut by the **Colorado** River in Arizona.
+
+A **meander** is a looping course on a gentle plain.
+
+An **alluvial fan** forms where a stream leaves the mountains into a plain.
+
+**Agent traps:** Canyon and gorge are **river** landforms.
+
+A **moraine** is a **glacier** landform.
+
+**Zeugen** and **inselberg** are **wind** residuals, not glacier forms.
 
 ---
 
@@ -553,7 +598,11 @@ D. Maracaibo — Venezuela
 
 ## N.8 Waterfalls
 
-Highest ≠ widest ≠ most famous. Fact Angel for height and Victoria for the Zambezi / Zambia–Zimbabwe pair.
+**Identity:** Highest is not the same as widest, and neither is the same as most famous.
+
+Fact **Angel** for height.
+
+Fact **Victoria** for the Zambezi / Zambia–Zimbabwe pair.
 
 | Fall | River / basin | Countries | |
 |------|---------------|-----------|------|
@@ -565,6 +614,18 @@ Highest ≠ widest ≠ most famous. Fact Angel for height and Victoria for the Z
 | Ribbon | Ribbon Creek | California (Yosemite) | |
 | Browne | — | New Zealand | high fall note |
 | Yosemite | Yosemite Creek | USA (California) | |
+
+**Angel Falls** on the Churún (Orinoco system) in **Venezuela** is the world’s highest waterfall.
+
+**Tugela Falls** in South Africa is the usual second-height fact.
+
+**Victoria Falls** sits on the **Zambezi** between Zambia and Zimbabwe.
+
+Victoria is famous, but it is **not** the highest.
+
+**Niagara Falls** sits on the Niagara River between Lake Erie and Lake Ontario on the USA–Canada border.
+
+**Iguazu / Iguaçu** sits on the Paraná system between Brazil and Argentina.
 
 ---
 

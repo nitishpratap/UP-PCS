@@ -105,12 +105,21 @@ None mandatory — static political-map chapter.
 
 ## N.0 Framework — World Regional Geography
 
-This is a **political + regional map** chapter. Notes ask capital, “which is NOT in the region”, landlocked, equator, and a few physical facts inside a region.
+**Identity:** This is a **political + regional map** chapter. Capitals, “which is NOT in the region”, landlocked status, equator crossings, and a few physical facts inside each belt all live here.
 
-- Learn each **continent’s size order**, then the **focus belts** (West Asia, Central Asia, SE Asia, Korea, Palestine, Caribbean).
-- Fact **capital ≠ famous city** (Ankara / Canberra / Brasília / Abu Dhabi).
-- Fact **landlocked** and **equator** lists separately from Topic 17 rivers / Topic 18 landforms.
-- Boundary lines (38th, 49th, Durand, Radcliffe, McMahon) are short map diet — full political-map drill is also Topic 23.
+Learn each continent’s **size order** first.
+
+Then learn the **focus belts** — West Asia, Central Asia, South-East Asia, Korea, Palestine and the Caribbean.
+
+Fact **capital ≠ famous city**.
+
+Ankara, Canberra, Brasília and Abu Dhabi are the classic traps.
+
+Fact **landlocked** and **equator** lists separately from the world rivers and world landforms chapters.
+
+Boundary lines such as the 38th, 49th, Durand, Radcliffe and McMahon are short map diet here.
+
+Full political-map drill also lives in the Political Map chapter.
 
 **Order of this chapter**
 
@@ -118,7 +127,7 @@ This is a **political + regional map** chapter. Notes ask capital, “which is N
 2. Europe → Africa → Americas → Australia / NZ → Antarctica → Caribbean.
 3. Landlocked · Equator · Capitals · boundary lines.
 
-Teach the **full regional map** — next year can ask any Lucent capital or landlocked trap, not only Nobi or Bolivia.
+Teach the **full regional map**. Next year can ask any Lucent capital or landlocked trap, not only Nobi or Bolivia.
 
 ---
 
@@ -476,6 +485,8 @@ D. Neither 1 nor 2
 
 ## N.5 Korean Peninsula
 
+**Identity:** A north–south peninsula hanging off north-east China, divided roughly along the **38th parallel** / DMZ.
+
 | | **South Korea** | **North Korea** |
 |--|-----------------|-----------------|
 | Capital | **Seoul** | **Pyongyang** |
@@ -483,11 +494,29 @@ D. Neither 1 nor 2
 | Coast east | East Sea / Sea of Japan | same |
 | Divide | **~38th parallel** / DMZ | |
 
-- Peninsula hangs off NE China; **not** an island.
-- **Nobi and Kanto are Japanese plains** — do not park them here.
-- Busan = SK south port. Incheon = Seoul’s port.
-- **Yalu / Amnok** = China–NK border river. **Tumen** = NK–China–Russia corner.
-- Taebaek = SK’s eastern backbone. Do **not** put Nobi/Kanto here.
+The Korean Peninsula is a **peninsula**. It is **not** an island.
+
+**South Korea’s** capital is **Seoul**.
+
+**North Korea’s** capital is **Pyongyang**.
+
+The west coast faces the **Yellow Sea**.
+
+The east coast faces the East Sea / Sea of Japan.
+
+**Busan** is South Korea’s southern port.
+
+**Incheon** is Seoul’s main port.
+
+The **Yalu / Amnok** is the China–North Korea border river.
+
+The **Tumen** marks the North Korea–China–Russia corner.
+
+The **Taebaek** range is South Korea’s eastern backbone.
+
+**Nobi** and **Kanto** are **Japanese** plains.
+
+Do not park Nobi or Kanto on the Korean card.
 
 ---
 
@@ -850,7 +879,13 @@ D. South-Western Coast
 
 ## N.12 Antarctica
 
-Continent under ice. **Antarctic Treaty 1959** (in force 1961). India acceded **1983**.
+**Identity:** Ice-covered continent governed for peace and science under the **Antarctic Treaty (1959)**, in force from **1961**.
+
+India acceded to the Antarctic Treaty in **1983**.
+
+No sovereign private claims are operated as normal national territory under the Treaty system.
+
+Indian work in Antarctica is run through the **National Centre for Polar and Ocean Research (NCPOR)**.
 
 | Station | Fact |
 |---------|------|
@@ -858,7 +893,25 @@ Continent under ice. **Antarctic Treaty 1959** (in force 1961). India acceded **
 | **Maitri** | 1988/89, Schirmacher Oasis — **operational** |
 | **Bharati** | 2012, Larsemann Hills — **operational** |
 
- pair of **permanent operational** stations = **Maitri + Bharati** (2021). **Arya** is a fake name. Himadri = **Arctic** (Svalbard), not Antarctic.
+**Dakshin Gangotri** was India’s first Antarctic station (1983–84).
+
+It is **not** an operational permanent station today.
+
+It later served only as a supply / transit note after ice burial.
+
+**Maitri** was set up in **1988–89** on the **Schirmacher Oasis**.
+
+Maitri is still **operational**.
+
+**Bharati** was commissioned in **2012** in the **Larsemann Hills**.
+
+Bharati is still **operational**.
+
+India’s permanent **operational** pair is **Maitri + Bharati**.
+
+**Arya** is a fake station name.
+
+**Himadri** is India’s **Arctic** station in Svalbard. It is **not** Antarctic.
 
 **Inline PYQ — UPPCS Prelims 2021, Q53**
 

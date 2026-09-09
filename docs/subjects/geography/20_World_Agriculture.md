@@ -87,12 +87,25 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 
 ## N.0 Framework — World Agriculture
 
-This chapter links **farming systems** to **crop belts** and **producer ≠ exporter** traps.
+**Identity:** This chapter links **farming systems** to **crop belts** and the **producer ≠ exporter** trap.
 
-- First fact the **system** (intensive / extensive / plantation / Med / dairy / ranching / shifting).
-- Then fact the **crop climate** and the **country rank the paper froze** (e.g. coffee 2016).
-- **Whittlesey** is the world-type map; **Von Thünen** is the ideal market-distance ring model — do not merge them.
-- India crop detail lives in Topic 06 — here keep only world centres that sneak into Prelims (Kerala rubber, Assam tea, Philippines cane).
+First fact the **system**.
+
+Intensive, extensive, plantation, Mediterranean, dairy, ranching and shifting are the main named systems.
+
+Then fact the **crop climate** and the **country rank the paper froze**.
+
+Coffee 2016-type ranks are year-frozen examples, not forever truths.
+
+**Whittlesey** is the world-type agricultural map.
+
+**Von Thünen** is the ideal market-distance ring model.
+
+Do not merge Whittlesey with Von Thünen.
+
+India crop detail lives in the Indian Agriculture chapter.
+
+Here keep only world centres that sneak into papers, such as Kerala rubber, Assam tea and Philippines cane.
 
 **Order of this chapter**
 
@@ -100,7 +113,7 @@ This chapter links **farming systems** to **crop belts** and **producer ≠ expo
 2. Cereals → fibres / sugar / oilseeds.
 3. Plantation crops (tea, coffee, cocoa, rubber) + livestock + shifting + FAO/GR.
 
-Teach the **full systems map** — next year can ask any Lucent crop belt, not only tea or coffee.
+Teach the **full systems map**. Next year can ask any Lucent crop belt, not only tea or coffee.
 
 ---
 
@@ -643,6 +656,16 @@ Humid tropics: Amazon, Congo, SE Asia hills, NE India, Central America.
 
 ## N.13 World Green Revolution and FAO (short)
 
+The **Green Revolution** is the mid-20th-century package of high-yielding varieties, irrigation, fertiliser and plant protection that raised cereal output in many countries.
+
+- The package logic is the same worldwide: **HYV seeds + water + fertiliser + pesticide**.
+- **Norman Borlaug** led the wheat breakthrough at **CIMMYT in Mexico** and won the **Nobel Peace Prize in 1970** (not a “Nobel in Agriculture”).
+- High-yield **wheat** spread from Mexico into India and Pakistan.
+- High-yield **rice** centres on **IRRI at Los Baños, Philippines**, with IR8 as the classic early variety across Asia.
+- The **Food and Agriculture Organization (FAO)** is the UN food body with headquarters in **Rome**.
+- **World Food Day** is observed on **16 October**.
+- **Golden rice** is genetically enriched for **Vitamin A** — a frequent correct pair in coaching keys.
+
 | Note | Note |
 |------|------|
 | **HYV package** | Seeds + water + fertiliser + pesticide — same logic worldwide |
@@ -652,7 +675,7 @@ Humid tropics: Amazon, Congo, SE Asia hills, NE India, Central America.
 | **FAO** | Food and Agriculture Organization; HQ **Rome**; **World Food Day 16 October** |
 | **Golden rice** | **Vitamin A** (correct 2018 pair) |
 
-India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture fact; here remember only the **world** institutions and Borlaug’s **Peace** Nobel.
+India’s state-wise GR belt (Punjab–Haryana–western UP) is an India-agriculture fact; here remember the **world** institutions and Borlaug’s **Peace** Nobel.
 
 ---
 

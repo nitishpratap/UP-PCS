@@ -12,7 +12,7 @@
 | Head | Correct |
 |------|------|
 | Forest richness | Large forest share; belts from tropical foothill to alpine — **relief + climate** explain it |
-| Altitude stack | Foothill sal → oak–rhododendron → chir / deodar / fir → alpine birch–juniper → bugyal |
+| Altitude stack | Foothill sal → chir → oak–rhododendron → deodar / fir → alpine birch–juniper → **bugyal** |
 | Deodar | Abundant western Himalayan temperate belt **1500–2500 m**; highest among deodar / pine / sal / teak |
 | Birch | Himalayan alpine / moist alpine scrub; writing-bark tradition |
 | Lisa | Resin product from **pine**; turpentine after distillation; rural UK livelihood |
@@ -46,36 +46,57 @@
 
 ## 3.1 Vegetation belts
 
+**Identity:** Foothill sal → oak–rhododendron → chir/deodar/fir → birch–juniper → bugyal.
+
 - Steep altitudinal range packs many forest types into a small horizontal distance.
-- Foothill **sal** and mixed forests grade into oak–rhododendron, conifer, and alpine scrub.
-- Western Himalayan temperate zone is rich in **deodar, chir, pine**, other conifers, and broad-leaved temperate trees. **Deodar** is the abundance fact for that temperate belt at about **1500–2500 m**.
+- Foothill **sal** and mixed deciduous forests occupy the Tarai–Bhabar and lower Shiwalik face.
+- Sub-tropical pine (**chir**) belts occupy roughly the lower to mid outer slopes (~**900–2000 m**).
+- Oak–rhododendron and mixed broad-leaved forests grade into the temperate mid-hills.
+- Western Himalayan temperate zone is rich in **deodar, chir, pine**, other conifers, and broad-leaved temperate trees.
+- **Deodar** is the abundance fact for that temperate belt at about **1500–2500 m**.
 - Among common options (deodar, pine, sal, teak), **deodar** grows at the **highest** elevation from sea level.
+- Higher belts carry fir, spruce, and then alpine **birch–juniper** scrub toward the tree-line.
 - **Birch** belongs to Himalayan alpine / moist alpine scrub. Its white paper-like bark was used in ancient times for writing scriptures and texts.
+- Above the tree-line, alpine meadows called **bugyals** support seasonal pastures and high-altitude herbs.
 - **Southern** Himalayan slopes (including Uttarakhand’s outer face) get more rain and sunlight than the rain-shadow north face, so vegetation is denser on the southern side.
 - Tree-line is generally **lower** in the Western Himalaya than in the Eastern Himalaya.
-- Assertion–reason questions treat topography and climate as the primary explanation of biodiversity richness.
+- Topography and climate are the primary explanation of the state’s forest and biodiversity richness.
 
 ---
 
 ## 3.2 Forest products & species
 
-- **Lisa** is a major forest product obtained from **pine** trees of Uttarakhand. It is tapped for resin. Distillation yields turpentine oil and non-volatile resin used in paper, soap, cosmetics, paint, varnish, rubber, and polish industries. Lisa is a base of rural self-employment in the hills.
-- **Khair (catechu)** is a tree of **sub-tropical** forests — small shrubs / scrub of the Shiwaliks and western Himalaya above about **1000 m**, with khair, keekar, and acacia. Katha is obtained from khair wood.
-- **Burans** (rhododendron) is the famous flowering hill shrub of Uttarakhand. **Lisa** is the pine-resin product — do not confuse the two.
+**Identity:** Lisa = pine resin · Khair = sub-tropical · Burans = rhododendron.
+
+- **Lisa** is a major forest product obtained from **pine** trees of Uttarakhand.
+- Lisa is tapped for resin; distillation yields turpentine oil and non-volatile resin used in paper, soap, cosmetics, paint, varnish, rubber, and polish industries.
+- Lisa is a base of rural self-employment in the hills.
+- **Khair (catechu)** is a tree of **sub-tropical** forests — scrub of the Shiwaliks and western Himalaya above about **1000 m**, with khair, keekar, and acacia.
+- **Katha** is obtained from khair wood.
+- **Burans** (rhododendron) is the famous flowering hill shrub of Uttarakhand.
+- Lisa is the pine-resin product — do not confuse it with Burans or deodar.
 - Forests remain the major natural resource of the western Himalayan region (large forest share of land area).
 
 ---
 
 ## 3.3 Flagship protected areas
 
-- **Nanda Devi** and **Valley of Flowers** form a UNESCO World Heritage set; the biosphere holds high-altitude fauna including snow leopard, musk deer, and blue sheep.
-- **Corbett** (1936) anchors the Tarai–Bhabar tiger landscape.
-- **Rajaji** (1983) covers the Shiwalik–dun elephant corridor near Dehradun–Haridwar.
-- **Gangotri** (1989) and **Govind** (1990) protect high Garhwal catchments — do not give Govind the 1989 year.
+**Identity:** Nanda Devi–Valley of Flowers WHS · Corbett 1936 · Rajaji 1983 · Gangotri 1989 · Govind 1990.
+
+- **Nanda Devi** and **Valley of Flowers** form a UNESCO World Heritage set in the Chamoli high Himalaya.
+- The Nanda Devi biosphere holds high-altitude fauna including **snow leopard**, **musk deer**, and **blue sheep (bharal)**.
+- **Valley of Flowers** is famed for alpine flower meadows in the monsoon season within the same heritage landscape.
+- **Corbett** National Park (**1936**) anchors the Tarai–Bhabar tiger landscape across Nainital–Pauri fringe belts.
+- **Rajaji** National Park (**1983**) covers the Shiwalik–dun elephant corridor near Dehradun–Haridwar–Pauri.
+- **Gangotri** National Park (**1989**) protects the upper Bhagirathi catchment in Uttarkashi.
+- **Govind** National Park / Pashu Vihar (**1990**) protects high Garhwal catchments in Uttarkashi — do not give Govind the 1989 year.
+- Together these parks cover Tarai tiger country, dun–Shiwalik elephant corridors, and high glacial catchments.
 
 ---
 
 ## 3.4 Sanctuary–district map
+
+**Identity:** Askot–Pithoragarh · Binsar–Almora · Govind–Uttarkashi · Nandhaur–Nainital.
 
 | Sanctuary | District |
 |-----------|----------|
@@ -86,6 +107,11 @@
 
 *Row order in a match table is not the answer code.*
 
+- **Askot** Wildlife Sanctuary sits in **Pithoragarh** on the eastern Kumaon frontier.
+- **Binsar** Wildlife Sanctuary sits in **Almora** in the oak–rhododendron mid-hill belt.
+- **Govind** is tied to **Uttarkashi** in both sanctuary and national-park naming.
+- **Nandhaur** Wildlife Sanctuary sits in **Nainital** on the Kumaon foothill side.
+- Swapping Askot with Binsar districts is the classic match-list trap.
 ---
 
 ## Must-Score Facts
@@ -99,6 +125,7 @@
 7. **Deodar** abundant in western Himalayan temperate zone **1500–2500 m**; highest elevation among deodar / pine / sal / teak.
 8. **Lisa** comes from **pine** (resin → turpentine).
 9. **Khair** = **sub-tropical** forest type (UKPCS 2021); also the katha tree.
+10. **Bugyal** = alpine meadow above the tree-line.
 
 ---
 
@@ -294,6 +321,42 @@ D. Vembanad — Karnataka
 <summary>Show answer</summary>
 
 **Ans: D.** Vembanad mangroves are in **Kerala**, not Karnataka.
+
+</details>
+
+---
+
+## Practice Zone
+
+**Logic:** Altitude product versus flowering shrub.
+
+**Q1.** Lisa, a major forest product of Uttarakhand, is obtained from:
+
+A. Burans  
+B. Pine  
+C. Sal  
+D. Teak  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lisa is pine resin. Burans is rhododendron; do not swap the two.
+
+</details>
+
+**Logic:** Alpine meadow belt above the tree-line.
+
+**Q2.** Bugyals in Uttarakhand are best described as:
+
+A. Tarai sugarcane estates  
+B. Alpine meadows above the tree-line  
+C. Only mangrove swamps  
+D. Only silica sand quarries  
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bugyals are high alpine meadows used as seasonal pastures above the tree-line.
 
 </details>
 

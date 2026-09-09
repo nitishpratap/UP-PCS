@@ -106,12 +106,25 @@ None mandatory — static world-map chapter. No living scheme tag.
 
 ## N.0 Framework — World Landforms & Natural Regions
 
-This chapter is Lucent **map-matching**: landform → country, desert → size/country, grassland → local name, climate → rain timing.
+**Identity:** This chapter is Lucent **map-matching** for landform → country, desert → size/country, grassland → local name, and climate → rain timing.
 
-- **Landforms** (mountains, plateaus, plains, volcanoes, islands, deserts) set the physical skeleton.
-- **Biomes** (grasslands, vegetation belts, climatic regions) sit on that skeleton — do not mix a soil name with a forest name (Terra Roxa ≠ Selva).
-- Mountain questions need **family** (fold / block / volcanic / residual) plus **country**.
-- Desert questions need **hot vs cold**, **size ladder**, and the **west-coast + cold-current** why-card.
+**Landforms** set the physical skeleton.
+
+Mountains, plateaus, plains, volcanoes, islands and deserts come first.
+
+**Biomes** sit on that skeleton.
+
+Grasslands, vegetation belts and climatic regions come after the landform cards.
+
+Do not mix a soil name with a forest name.
+
+**Terra Roxa** is not the same fact as **Selva**.
+
+Mountain questions need **family** plus **country**.
+
+Family means fold, block, volcanic or residual.
+
+Desert questions need **hot versus cold**, the **size ladder**, and the **west-coast + cold-current** why-card.
 
 **Order of this chapter**
 
@@ -119,7 +132,7 @@ This chapter is Lucent **map-matching**: landform → country, desert → size/c
 2. Volcanoes → islands → deserts.
 3. Grasslands → vegetation → world climatic regions.
 
-Learn the full mountain, desert and grassland match set below — any standard range or pair can appear, not only Kilimanjaro or Gobi.
+Learn the full mountain, desert and grassland match set below. Any standard range or pair can appear, not only Kilimanjaro or Gobi.
 
 ---
 

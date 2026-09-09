@@ -237,14 +237,16 @@ A gulf or bay is an arm of the sea into the land. ask: which sea does it open in
 
 ## N.1A Hydrosphere budget · datum · OMT
 
-**Cover:** Oceans ≈ **71%** (about **2/3+**) of Earth’s surface. One world ocean; five named basins: Pacific > Atlantic > Indian > Southern > Arctic.
+The **hydrosphere** is Earth’s water in oceans, ice, groundwater, lakes, rivers and vapour. Oceans cover about **71%** of Earth’s surface — roughly **two-thirds** of the planet. The world ocean is one connected body, named as five basins: Pacific > Atlantic > Indian > Southern > Arctic.
 
 **Fresh water (IAS framing)**
 
 - Salt water ≈ **96.5%** of all water. Fresh ≈ **2.5%**.
 - Usable fresh for humans ≈ **less than 1%** of total Earth water.
 - Of fresh water: ice/glaciers ≈ **68.7%**, groundwater ≈ **30.1%**, surface (lakes/rivers) ≈ **0.3%**, other ≈ **0.9%**.
-- So after ice, the largest remaining fresh store is **groundwater** (not lakes/rivers). Rivers+lakes hold **less** fresh water than groundwater.
+- So after ice, the largest remaining fresh store is **groundwater** (not lakes/rivers). Rivers and lakes together hold **less** fresh water than groundwater.
+
+Most water is locked in the salty ocean. Of the small fresh share, **ice sheets and glaciers** dominate. Groundwater is the next big store. Liquid surface water in rivers and lakes is tiny by comparison, which is why irrigation and cities lean heavily on aquifers.
 
 **Datum line:** horizontal reference at **mean sea level** from which heights and depths are measured — not the International Date Line and not the prime meridian.
 
@@ -759,13 +761,23 @@ D. 10,000 km
 
 ## N.8A Coral reefs
 
-Coral reefs are tropical shallow-water communities — the “rainforests of the ocean.”
+Coral reefs are tropical shallow-water communities built by coral polyps and their symbiotic algae. Coaching often calls them the “rainforests of the ocean” because they host huge biodiversity on a tiny share of ocean floor.
 
-- Found mainly between the **Tropics** (roughly **30°N–30°S**), in clear, warm, sunlit water.
-- Cover a tiny share of ocean floor but host a huge share of marine species (~**25%**).
-- **Coral bleaching** = loss of zooxanthellae under heat stress → reef turns white.
-- **Great Barrier Reef** = world’s largest; **NE Australia / Queensland**; **Pacific**; ~**2300 km**; ~400 coral / 1500 fish / 4000 mollusc types in coaching figures.
-- Reef types: **fringing** (near shore), barrier, **atoll** (ring / horseshoe). **Addu Atoll** = southern Maldives (**Indian Ocean**).
+**Conditions**
+
+- Reefs grow mainly between the **Tropics** (roughly **30°N–30°S**).
+- Mean water temperature is usually about **20–30°C**.
+- Salinity must stay moderate. Fresh floodwater and extreme salinity both injure polyps.
+- Depth is shallow enough for sunlight — commonly within about **45–55 m** — so zooxanthellae can photosynthesize.
+- Water must be **clear and sediment-free**. Muddy river mouths are poor reef sites.
+
+Reefs cover only a tiny share of ocean floor but host a huge share of marine species (often cited near **~25%**).
+
+**Coral bleaching** is the loss of zooxanthellae under heat stress. The coral turns white. If stress lasts too long, the colony can die. Warming seas are the main modern trigger; pollution and sedimentation add stress.
+
+**Great Barrier Reef** is the world’s largest reef system. It lies off **NE Australia / Queensland** in the **Pacific** and stretches about **2300 km**. Coaching figures often list roughly 400 coral types, 1500 fish types and 4000 mollusc types.
+
+Reef types include **fringing** reefs close to shore, **barrier** reefs offshore with a lagoon, and **atolls** as ring or horseshoe reefs around a lagoon. **Addu Atoll** in the southern Maldives sits in the **Indian Ocean**. India’s own reef tracts are taught with the biodiversity chapter (Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh).
 
 ---
 
@@ -803,7 +815,7 @@ UNCLOS was adopted in **1982**, entered into force in **1994**, and India ratifi
 
 ## N.10 Important Fisheries
 
-Fisheries thrive where the **shelf is wide** and/or cold and warm water mix, or where **upwelling** feeds plankton.
+Major **fisheries** thrive where the continental **shelf is wide**, where cold and warm currents mix, or where **upwelling** lifts nutrient-rich deep water into the sunlit layer. Nutrients feed plankton. Plankton feed fish. Narrow, steep shelves and nutrient-poor warm pools are weaker fishing grounds.
 
 | Ground | Why |
 |--------|-----|
@@ -813,6 +825,8 @@ Fisheries thrive where the **shelf is wide** and/or cold and warm water mix, or 
 | Japan / Kurile | Kuroshio + Oyashio mix |
 | Iceland / Norway | Arctic/Atlantic mix |
 | India | West coast + Wadge Bank; EEZ rights |
+
+The **Grand Banks** off Newfoundland are rich because the cold **Labrador Current** meets the warm **Gulf Stream**. **Dogger Bank** is a shallow North Sea shelf ground. The **Peru–Chile** coast depends on **Humboldt upwelling**; that upwelling weakens in **El Niño**, so the fishery collapses. Seas near **Japan** and the **Kuriles** mix the warm **Kuroshio** with the cold **Oyashio**. Waters around **Iceland** and **Norway** mix Arctic and Atlantic water on a productive shelf. India’s best grounds sit on the wider **west coast** shelf and on **Wadge Bank** south of India, within the national **EEZ**.
 
 ---
 

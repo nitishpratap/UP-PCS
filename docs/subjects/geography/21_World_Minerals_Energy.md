@@ -120,12 +120,25 @@ D. South Africa
 
 ## N.0 Framework — World Minerals & Energy
 
-This chapter is a field–country / mineral–place match set. Geology first, then the standard field names.
+**Identity:** This chapter is a field–country / mineral–place match set. Geology comes first, then the standard field names.
 
-- **Precambrian shields** host many metallic ores; **sedimentary basins** host coal, oil and gas; **Andean porphyry** belts host copper (and lithium brines nearby).
-- Fact **one identity line** per famous field: mineral · country · one trap.
-- Separate **producer volume** from **exporter** (China often mines and still imports iron/coal).
-- India mineral belts live mainly in Topic 08 — here keep only world centres that sneak into Prelims (and a few India tags already in PYQs).
+**Precambrian shields** host many metallic ores.
+
+**Sedimentary basins** host coal, oil and gas.
+
+**Andean porphyry** belts host copper, with lithium brines nearby in the same broad story.
+
+Fact **one identity line** per famous field.
+
+Learn mineral, country and one trap.
+
+Separate **producer volume** from **exporter**.
+
+China often mines iron and coal and still imports them.
+
+India mineral belts live mainly in the Indian Minerals chapter.
+
+Here keep only world centres that sneak into papers, plus a few India tags already in PYQs.
 
 **Order of this chapter**
 
@@ -133,7 +146,7 @@ This chapter is a field–country / mineral–place match set. Geology first, th
 2. Petroleum / OPEC → natural gas → energy types.
 3. Other minerals + critical minerals (REE, lithium, cobalt).
 
-Teach the **full field map** — next year can ask any Lucent coalfield or ore town, not only Ruhr or Kinta.
+Teach the **full field map**. Next year can ask any Lucent coalfield or ore town, not only Ruhr or Kinta.
 
 ---
 

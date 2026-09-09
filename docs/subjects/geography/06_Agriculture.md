@@ -671,15 +671,59 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 
 ## N.9 Jhum, Organic, Precision
 
+**Identity:** Three contrasting farming ideas — **shifting cultivation**, **certified organic**, and **site-specific precision** inputs.
+
 | System | Core | Where / tool |
 |--------|------|--------------|
 | **Jhum** (shifting) | Slash-burn, 1–3 yr crop, then fallow | **NE** (jhum); **podu / penda** (AP/Odisha); **bewar / dahiya / mashan** (MP–CG); **kumari** (W Ghats); **waltre** (SE Rajasthan); **poonam** (Kerala); **kuruwa** (Jharkhand); **khil** (Himalayan belt) |
 | **Organic** | No synthetic agrochemicals (standards) | Compost, rotation, Azolla, Rhizobium; **Sikkim** = first fully organic state (declared **2016**) |
 | **Precision** | Site-specific inputs | GIS / GPS / sensors / drones — not “stop irrigation” |
 
-- Short fallows → erosion + forest damage.
-- Organic ≠ “any traditional practice” automatically.
-- NPOP is implemented with **APEDA** as secretariat — not the Ministry of Rural Development as the operator.
+### Jhum / shifting cultivation
+
+**Jhum** is the north-east name for slash-and-burn shifting cultivation.
+
+Farmers clear a forest patch, burn the residue, raise crops for about **one to three years**, then leave the plot fallow while opening a new patch.
+
+Short fallows raise **erosion** and forest damage.
+
+Regional names must be matched separately.
+
+**Podu / penda** is the Andhra–Odisha label.
+
+**Bewar / dahiya / mashan** is the Madhya Pradesh–Chhattisgarh label.
+
+**Kumari** is the Western Ghats label.
+
+**Waltre** is the south-east Rajasthan label.
+
+**Poonam** is the Kerala label.
+
+**Kuruwa** is the Jharkhand label.
+
+**Khil** is the Himalayan-belt label.
+
+### Organic farming
+
+**Organic farming** bans synthetic fertilisers and pesticides under a certification standard.
+
+It relies on compost, crop rotation, green manure, **Azolla**, and **Rhizobium**-type biofertilisers.
+
+**Organic** is not automatic for “any traditional practice.”
+
+**Sikkim** is India’s first fully organic state, declared in **2016**.
+
+**NPOP** is implemented with **APEDA** as secretariat.
+
+The Ministry of Rural Development is **not** the NPOP operator.
+
+### Precision farming
+
+**Precision farming** means site-specific input doses using **GIS, GPS, sensors and drones**.
+
+It adjusts water, seed and fertiliser plot by plot.
+
+It does **not** mean “stop irrigation” or abandon mechanisation.
 
 ---
 
@@ -765,6 +809,8 @@ D. Ministry of Finance
 
 ## UP Focus (compact)
 
+**Identity:** Uttar Pradesh is a **plains agricultural giant** — wheat–rice–sugarcane in the west and centre, rice in the east, potato and mango as specialty tags, and almost no plantation leadership.
+
 | Theme | Fact |
 |-------|------|
 | Sugarcane | Quantity leader often; productivity < MH; Sugar Bowl tag |
@@ -775,6 +821,30 @@ D. Ministry of Finance
 | Mentha oil | UP is the classic near-total producer |
 | Not | Jute / tea / rubber leader |
 | SAU | **Pantnagar (first, 1960)**; Kanpur / Meerut |
+
+Uttar Pradesh often leads India in **sugarcane quantity**, but **Maharashtra** usually beats it on cane **productivity**.
+
+Western Uttar Pradesh is the State’s **Green Revolution** wheat–rice–sugarcane heartland (Upper Gangetic / Agro-climatic Zone 5).
+
+Uttar Pradesh is India’s leading **potato** producer.
+
+The International Potato Centre (CIP) India office tag is **Agra**, not Aligarh.
+
+**Dasheri** and **Langra** are classic UP mango identities.
+
+**Amrapali** is a famous hybrid mango associated with Indian breeding notes.
+
+Uttar Pradesh has a very large bovine base and is routinely among the top **milk** states.
+
+The **Jamunapari** goat is an Etawah–Bundelkhand identity.
+
+**Mentha (mint) oil** production is classically concentrated in Uttar Pradesh.
+
+Uttar Pradesh is **not** India’s jute, tea or rubber leader.
+
+**G.B. Pant University of Agriculture and Technology, Pantnagar** (1960) is India’s first agricultural university.
+
+Kanpur and Meerut also host major State agricultural university campuses.
 
 ---
 

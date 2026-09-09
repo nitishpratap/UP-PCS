@@ -89,12 +89,25 @@ None mandatory.
 
 ## N.0 Framework — World Industries
 
-This chapter bundles **secondary-activity geography** with Lucent’s usual **port / canal / local-wind** match-lists.
+**Identity:** This chapter bundles **secondary-activity geography** with Lucent’s usual **port / canal / local-wind** match-lists.
 
-- Fact **location logic** first (weight-losing, market, hydel, footloose, break-of-bulk).
-- Then fact **region** and **city–industry** pairs (one industry per famous city).
-- Ports need **country + type** (entrepôt, inland, container). Canals need **two seas + one trap**.
-- Local winds are a separate match-list — learn **name · place · warm/cold or dusty**, not essays.
+Fact **location logic** first.
+
+Weight-losing, market, hydel, footloose and break-of-bulk decide where a plant sits.
+
+Then fact **region** and **city–industry** pairs.
+
+Give one industry per famous city.
+
+Ports need **country + type**.
+
+Type means entrepôt, inland or container.
+
+Canals need **two seas + one trap**.
+
+Local winds are a separate match-list.
+
+Learn **name · place · warm/cold or dusty**, not essays.
 
 **Order of this chapter**
 
@@ -102,7 +115,7 @@ This chapter bundles **secondary-activity geography** with Lucent’s usual **po
 2. Ports → canals / trade routes.
 3. World local winds.
 
-Teach the **full map** — next year can ask any Lucent city, port, or wind, not only Osaka or Chinook.
+Teach the **full map**. Next year can ask any Lucent city, port, or wind, not only Osaka or Chinook.
 
 ---
 

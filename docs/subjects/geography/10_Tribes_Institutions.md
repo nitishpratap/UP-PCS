@@ -311,27 +311,39 @@ The **Saharya** of Lalitpur live on forest produce and agriculture.
 
 ## N.3 Central India
 
-Central India’s tribal heartland is the forested plateau across Madhya Pradesh, Chhattisgarh, the Jharkhand fringe, western Odisha, south-east Rajasthan and northern Maharashtra.
+**Identity:** Forested central Indian plateau — Madhya Pradesh, Chhattisgarh, western Odisha, south-east Rajasthan, northern Maharashtra, and the Jharkhand fringe.
 
-The **Gond** and the **Bhil** are the two largest heartland names.
-
-Bastar’s **Maria** and **Muria** are Gond subgroups. Do not treat them as separate island tribes.
+Central India is the mainland tribal heartland of the Deccan and Vindhyan forests.
 
 These are **mainland** tribes. Do not mix them with Andaman Negrito groups.
 
+The **Gond** and the **Bhil** are the two largest heartland names by population and spread.
+
 The **Gond** occupy Madhya Pradesh, Chhattisgarh, Maharashtra, Odisha and east-Uttar Pradesh pockets.
+
+Bastar’s **Maria** are a Gond subgroup of south Chhattisgarh.
+
+Bastar’s **Muria** are another Gond subgroup of the same Bastar belt.
+
+Do not treat Maria or Muria as separate island tribes.
 
 The **Bhil** occupy Rajasthan, Gujarat, Madhya Pradesh and Maharashtra.
 
-The **Baiga** occupy Madhya Pradesh, Chhattisgarh and Sonbhadra. They are a PVTG in Madhya Pradesh.
+The **Baiga** occupy Madhya Pradesh, Chhattisgarh and Sonbhadra.
+
+The Baiga are a **PVTG** in Madhya Pradesh.
 
 The **Kol** are a Vindhyan identity of Madhya Pradesh and southern Uttar Pradesh geography.
 
 The **Korku** live in the Satpura belt of Madhya Pradesh and Maharashtra.
 
-The **Sahariya** live in Madhya Pradesh and Rajasthan. The **Saharya** of Lalitpur are the Uttar Pradesh spelling of this set.
+The **Sahariya** live in Madhya Pradesh and Rajasthan.
 
-The **Halba** and **Kawar** are Chhattisgarh tribes.
+The **Saharya** of Lalitpur are the Uttar Pradesh spelling of the same Sahariya set.
+
+The **Halba** are a Chhattisgarh tribe of the Bastar–Durg belt.
+
+The **Kawar** are a Chhattisgarh tribe of the northern forest districts.
 
 The **Warli** of Maharashtra are known for Warli painting.
 
@@ -341,25 +353,25 @@ The **Katkari** of Maharashtra are a PVTG.
 
 The **Bharia** of Madhya Pradesh are associated with the Patalkot valley.
 
-Santhal, Munda, Oraon and Birhor belong to the **Jharkhand** card below, not to Bastar.
+The **Santhal**, **Munda**, **Oraon** and **Birhor** belong to the Jharkhand card below, not to Bastar.
 
 ---
 
 ## N.4 Jharkhand
 
-Jharkhand’s Chotanagpur plateau is a high Scheduled Tribe belt.
+**Identity:** Chotanagpur plateau — one of India’s densest Scheduled Tribe belts.
 
-The core names are **Santhal, Munda, Oraon, Ho and Kharia**.
+Jharkhand’s core tribal names are taught one by one below.
 
-The **Birhor** are a Jharkhand tribe, not an island tribe.
+The **Santhal** are the largest Jharkhand tribal community and also live in West Bengal, Odisha and Bihar.
 
-Mainland PVTGs such as **Asur, Birhor, Birjia, Korwa, Paharia and Savar** must not be shifted to the Andaman list.
+Santhali uses the **Ol Chiki** script.
 
-**Janjatiya Gaurav Diwas** on **15 November** marks Birsa Munda’s birth anniversary.
-
-The **Santhal** live in Jharkhand, West Bengal, Odisha and Bihar. Santhali uses the **Ol Chiki** script. The Hul revolt of **1855** is linked with Sido and Kanhu.
+The Hul revolt of **1855** is linked with Sido and Kanhu among the Santhal.
 
 The **Munda** are linked with **Birsa Munda** and the Mundari language.
+
+**Janjatiya Gaurav Diwas** on **15 November** marks Birsa Munda’s birth anniversary.
 
 The **Oraon** speak **Kurukh**, a Dravidian language.
 
@@ -369,19 +381,37 @@ The **Kharia** (also written Keria in some papers) sit on the Jharkhand–Odisha
 
 The **Birhor** are a Jharkhand PVTG of hunter-gatherers.
 
+The **Birhor** are a mainland tribe. They are **not** an island tribe.
+
 The **Bhumij** live on the Jharkhand–West Bengal–Odisha fringe.
 
 The **Asur** are a Jharkhand PVTG associated with iron smelting.
 
-The **Birjia** are a Jharkhand PVTG. They are **not** an Andaman tribe.
+The **Birjia** are a Jharkhand PVTG.
+
+The **Birjia** are **not** an Andaman tribe.
+
+The **Korwa** are a mainland PVTG of the Jharkhand–Chhattisgarh forest belt.
+
+The **Paharia** are a mainland hill community of the Santhal Pargana fringe.
+
+The **Savar** are a mainland PVTG of the Jharkhand–Odisha set.
+
+Do not shift Asur, Birhor, Birjia, Korwa, Paharia or Savar onto the Andaman list.
 
 ---
 
 ## N.5 Andaman & Nicobar
 
-Island questions usually ask who is **not** a native of the islands. Learn the six natives. Reject mainland names such as **Rengma**.
+**Identity:** Two island groups in the Bay of Bengal — Andaman (Negrito natives) and Nicobar (Mongoloid natives).
+
+Island stems often ask who is **not** a native of the islands.
+
+Learn the six natives below. Reject mainland names such as **Rengma**.
 
 The **Ten Degree Channel** separates the Andaman group from the Nicobar group.
+
+The Andaman Negrito set is **Great Andamanese, Onge, Jarawa and Sentinelese**.
 
 The **Great Andamanese** are a Negrito people of the Andaman Islands.
 
@@ -389,13 +419,27 @@ The **Onge** are a Negrito people of **Little Andaman**.
 
 The **Jarawa** inhabit forests of South and Middle Andaman.
 
-The **Sentinelese** live on **North Sentinel Island**. The island is a tribal reserve. Outside contact is prohibited.
+The **Sentinelese** live on **North Sentinel Island**.
 
-The **Nicobarese** live on Nicobar coasts. They are classed as Mongoloid in school geography.
+North Sentinel Island is a tribal reserve.
 
-The **Shompen** live in the Great Nicobar interior. They are a **PVTG**.
+Outside contact with the Sentinelese is prohibited.
 
-The **Rengma** are a **Nagaland** tribe. They are **not** an Andaman or Nicobar people.
+The Nicobar Mongoloid set is **Nicobarese and Shompen**.
+
+The **Nicobarese** live on Nicobar coasts.
+
+The Nicobarese are classed as Mongoloid in school geography.
+
+The **Shompen** live in the Great Nicobar interior.
+
+The Shompen are a **PVTG**.
+
+The **Rengma** are a **Nagaland** tribe.
+
+The Rengma are **not** an Andaman or Nicobar people.
+
+The **Birjia** and **Birhor** are Jharkhand mainland names. Do not park them on this island card.
 
 **Inline PYQ — UPPCS Prelims 2020, Q50**
 

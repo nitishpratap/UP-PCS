@@ -409,15 +409,95 @@ D. Kabini *(paper: Kabam in some OCR)*
 
 ## 3.3 Rivers of Uttar Pradesh
 
-- The Ganga is **formed in Uttarakhand**, not in Uttar Pradesh. In UP it passes Kannauj, Prayagraj, and Varanasi.
-- The Yamuna waters Mathura and Agra, then the Sangam at **Prayagraj**.
-- The **Gomti** is Lucknow’s river.
-- The **Ghaghara / Saryu** is Ayodhya’s river.
-- The **Ramganga** meets the Ganga at **Kannauj**. The Ramganga Project dam is about **825.8 m** long and **198 MW** in Garhwal (2024 Q72 matched). The “**6 lakh ha** irrigated” figure is the **NOT matched** fact.
-- The **Betwa** meets the Yamuna at **Hamirpur**. The **Ken** meets at **Banda**. **Ken–Betwa** is the link under implementation.
-- The **Chambal** meets at **Etawah**. The National Chambal Sanctuary is **Uttar Pradesh + Madhya Pradesh + Rajasthan**, **not Haryana**.
-- The **Hindon** is a Yamuna left-bank stream of western UP / NCR.
-- Sangam = Ganga + Yamuna (+ mythical Saraswati) at **Prayagraj**.
+**Identity:** Almost all of Uttar Pradesh sits in the **Ganga basin**. The master streams are the **Ganga** and the **Yamuna**. Left-bank Himalayan feeders enter from the north and east. Right-bank peninsular feeders enter the Yamuna from Bundelkhand and the Chambal belt.
+
+### Ganga in Uttar Pradesh
+
+The **Ganga** is **formed in Uttarakhand** at Devprayag. It is **not** born inside Uttar Pradesh.
+
+The river enters the UP plain in the **Bijnor** belt after Haridwar.
+
+In Uttar Pradesh it passes **Kannauj, Kanpur, Prayagraj, Varanasi, Ghazipur and Ballia**.
+
+It leaves Uttar Pradesh into Bihar after the Ballia–Ghazipur fringe.
+
+At **Prayagraj** the Ganga meets the Yamuna at the **Sangam** (with the mythical Saraswati in tradition).
+
+### Yamuna in Uttar Pradesh
+
+The **Yamuna** rises at **Yamunotri** on Bandarpunch in Uttarakhand.
+
+It forms much of western Uttar Pradesh’s border story after the Haryana–Delhi reach.
+
+**Mathura** and **Agra** stand on the Yamuna.
+
+The Yamuna joins the Ganga at the Sangam in **Prayagraj**.
+
+### Left-bank feeders of the Ganga in / near UP
+
+The **Ramganga** rises in the Doodhatoli / Garhwal hills of Uttarakhand.
+
+It irrigates western Uttar Pradesh and meets the Ganga near **Kannauj**.
+
+The Ramganga Project dam is about **825.8 m** long and **198 MW** in Garhwal (2024 Q72 matched).
+
+The “**6 lakh ha** irrigated” figure is the **NOT matched** fact on that stem.
+
+The **Gomati** (Gomti) rises at **Gomat Taal / Fulhar** in **Pilibhit**.
+
+It is a classic plains-born tributary of the Ganga.
+
+**Lucknow** stands on the Gomati.
+
+The Gomati meets the Ganga near the **Saidpur / Ghazipur** belt.
+
+The **Ghaghara** (Karnali in Nepal; **Saryu** at Ayodhya) rises near the Mapchachungo glacier class origin in Tibet / Nepal.
+
+It enters the Terai near **Bahraich** and waters Ayodhya–Gonda country.
+
+**Ayodhya** stands on the Ghaghara / Saryu.
+
+The Ghaghara meets the Ganga near **Chhapra / Revilganj (Saran)** in Bihar, not inside a UP city sangam.
+
+The **Rapti** rises in the Nepal Himalaya.
+
+It enters eastern Uttar Pradesh and passes **Gorakhpur**.
+
+The Rapti joins the **Ghaghara** inside Uttar Pradesh. It does **not** join the Ganga as a direct master feeder.
+
+The **Gandak** (Narayani in Nepal) rises in the Nepal Himalaya from the Kali Gandak–Trishuli set.
+
+It marks the eastern **Uttar Pradesh–Bihar** fringe (Kushinagar–Deoria side) after entering India near Valmikinagar.
+
+The Gandak meets the Ganga at **Sonpur near Patna**. The confluence itself is in Bihar.
+
+### Right-bank / southern rivers linked to UP
+
+The **Son** rises at **Amarkantak** in Madhya Pradesh.
+
+It cuts the Vindhyan / Sonbhadra fringe of southern Uttar Pradesh.
+
+The **Rihand** joins the Son in **Sonbhadra**. **Govind Ballabh Pant Sagar** sits on the Rihand.
+
+The Son meets the Ganga near **Maner / Patna** in Bihar. Do not invent a Son–Ganga sangam inside UP.
+
+The **Chambal** rises near Janapav in Madhya Pradesh.
+
+It meets the Yamuna near **Etawah**.
+
+The National Chambal Sanctuary is **Uttar Pradesh + Madhya Pradesh + Rajasthan**. It is **not** in Haryana.
+
+The **Betwa** rises in the Vindhya range of Madhya Pradesh.
+
+It meets the Yamuna at **Hamirpur**. It does **not** meet at Prayagraj.
+
+The **Ken** rises in Madhya Pradesh and meets the Yamuna near **Banda**.
+
+**Ken–Betwa** is the river-link under implementation for Bundelkhand water.
+
+West → east order of major Yamuna right-bank feeders in the UP story is **Chambal → Sind → Betwa → Ken**.
+
+The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 
 ---
 

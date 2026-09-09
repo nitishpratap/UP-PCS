@@ -97,7 +97,10 @@ Geomorphology studies how landforms are made and destroyed.
 - **Endogenic processes** come from Earth’s interior — folding, faulting, volcanism, earthquakes and uplift. They build relief.
 - **Exogenic processes** work at the surface — weathering, mass wasting, erosion, transport and deposition by river, wind, glacier, sea and groundwater. They wear relief down and fill basins.
 - **Gradation** is the overall smoothing of the land: **degradation** (wearing down) plus **aggradation** (building up by deposition).
-- Davis framed a **cycle of erosion** as structure–process–time (youth–mature–old). Penck and King modify the timing, but the landform vocabulary stays -useful.
+- Davis framed a **cycle of erosion** as structure–process–time (youth–mature–old). Penck and King modify the timing, but the landform vocabulary stays useful.
+- **Structure** is the rock arrangement (folds, faults, joints, bedding). **Process** is the work of agents. **Time** is how long the process has operated on that structure.
+- Weathering prepares loose material **in place**; erosion and transport move it; deposition rebuilds new landforms downstream or downslope.
+- Different climates favour different agents: humid belts emphasise running water; arid belts emphasise wind; cold highlands emphasise ice; coasts emphasise waves; limestone belts emphasise groundwater solution.
 
 **Order of this chapter**
 
@@ -209,13 +212,24 @@ Fossils almost only here. Loess beds = wind silt later lithified.
 
 ## N.2 Rock Cycle
 
-The rock cycle links the three rock classes.
+The **rock cycle** is the continuous pathway that turns magma and rock from one class into another.
 
-- Magma cools to **igneous** rock.
-- Weathering, erosion and deposition build **sedimentary** rock.
-- Heat and pressure turn existing rock into **metamorphic** rock.
-- Melting returns material to magma.
-- Any class can feed another — igneous can metamorphose, and sediment can melt.
+- **Magma** cools and solidifies to form **igneous** rock — intrusive granite deep underground, or extrusive basalt at the surface.
+- Weathering breaks that rock in place; erosion carries the debris; deposition and lithification build **sedimentary** rock such as sandstone, shale or limestone.
+- Heat and pressure without full melting turn igneous or sedimentary rock into **metamorphic** rock — limestone becomes marble; sandstone becomes quartzite; shale climbs the slate–schist–gneiss ladder.
+- If temperature rises enough, any rock can **melt** again into magma and restart the cycle.
+- The cycle is not one-way: igneous rock can metamorphose without becoming sediment first, and sedimentary rock can melt without a long metamorphic stay.
+- Uplift brings deep rocks to the surface so weathering can attack them again.
+- Burial takes surface sediment down into zones of pressure and heat.
+
+| From | Process | To |
+|------|---------|-----|
+| Magma | Cooling / crystallisation | Igneous |
+| Any exposed rock | Weathering → erosion → deposition → lithification | Sedimentary |
+| Igneous or sedimentary | Heat + pressure (no full melt) | Metamorphic |
+| Any rock | Melting | Magma |
+
+> ** note:** Weathering alone does **not** make sedimentary rock. Sediment must also be deposited and lithified.
 
 ---
 
@@ -267,7 +281,7 @@ Residual weathered mantle → soils. **Laterite** = intense leaching in tropics.
 
 ## N.4 Agents of Erosion
 
-Exogenic agents sculpt the land. Each has a work method and a signature landform set.
+**Exogenic agents** sculpt the land by picking up, carrying and dropping rock debris. Each agent has a work method and a signature landform set.
 
 | Agent | Work words | Signature |
 |-------|------------|-----------|
@@ -276,6 +290,46 @@ Exogenic agents sculpt the land. Each has a work method and a signature landform
 | **Glacier** | Plucking, abrasion | U-valley, cirque, moraine |
 | **Sea** | Hydraulic, abrasion, corrosion, attrition | Cliff, stack, spit |
 | **Groundwater** | Solution | **Karst** in limestone |
+
+**Running water (fluvial)**
+
+- Rivers cut steep **V-shaped valleys** in youth by hydraulic action and abrasion.
+- Load moves as traction, saltation, suspension and solution as the channel carries bed and suspended material.
+- As gradient eases, the river widens into meanders, floodplains and natural levees.
+- At a lake or sea mouth, slowing water builds a **delta** of layered alluvium.
+
+**Wind (aeolian)**
+
+- Wind works best in dry, sparsely vegetated lands.
+- **Deflation** lifts fine dust and lowers desert floors.
+- **Abrasion** sandblasts rock into polished surfaces and elongated **yardangs**.
+- Deposition builds crescent **barchan** dunes where sand supply and wind direction are steady.
+- Thick **loess** blankets form where wind drops fine silt far from the source.
+
+**Glacier**
+
+- Moving ice **plucks** jointed blocks and **abrades** the floor into striations and rock flour.
+- High mountain erosion leaves **cirques**, arêtes and horns above glacial troughs.
+- The main trough itself is a broad **U-shaped valley**.
+- Melting ice drops the load as lateral, medial and terminal **moraines**, with outwash beyond the snout.
+
+**Waves (coastal / marine)**
+
+- Waves attack cliffs by hydraulic smash, abrasion and attrition.
+- Retreat of a cliff leaves a wave-cut platform, caves, arches and isolated **stacks**.
+- Longshore drift builds beaches, **spits** and bars where shallow water favours deposition.
+- Soft coasts retreat faster; hard headlands persist and shape the shoreline plan.
+
+**Groundwater**
+
+- Underground solution is strongest in soluble **limestone** and dolomite.
+- Sinkholes, disappearing streams and caves form the classic **karst** suite.
+- Stalactites grow from cave roofs and stalagmites rise from floors where dripstone is deposited.
+- Roof collapse can widen closed depressions into larger karst lowlands.
+
+Agents often work together. A river may inherit a glacial trough, and wind may rework beach sand into dunes.
+
+> ** note:** Weathering prepares rock in place; an **agent of erosion** must also transport. Do not treat frost wedging alone as “river work.”
 
 ---
 
