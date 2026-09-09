@@ -817,24 +817,119 @@ D. Neither 1 nor 2
 
 The **natural greenhouse effect** keeps Earth warm enough for life. Greenhouse gases let short-wave insolation in but trap **outgoing long-wave** radiation. **Global warming** is the extra warming from a **rise in greenhouse-gas concentrations** after industrial fossil-fuel use, deforestation and intensive agriculture.
 
-| Is a GHG | Not a GHG |
-|----------|------------------|
-| Water vapour, **CO₂, CH₄, N₂O, O₃, CFCs/HCFCs** | **Argon** |
-| Natural set includes CO₂, CH₄, O₃, N₂O | “**Nitrogen oxide**” (NO/NO₂) in 2020 Q139 → **not** the natural GHG in that key |
+| Is a greenhouse gas | Not a greenhouse gas |
+|---------------------|----------------------|
+| Water vapour, **CO₂**, **CH₄**, **N₂O**, **O₃**, **CFCs / HCFCs** | **Argon** |
+| Natural coaching set often lists CO₂, CH₄, O₃ and N₂O | “Nitrogen oxide” (NO / NO₂) in the 2020 key is **not** treated as that natural GHG set |
 
-Water vapour is the strongest natural greenhouse gas by abundance, but **CO₂** is the main long-lived driver of recent warming in policy and coaching keys. **Methane** and **nitrous oxide** are potent even at lower volumes. **Argon** is an inert permanent gas and is **not** a greenhouse gas.
+- Water vapour is the strongest natural greenhouse gas by abundance.
+- **CO₂** is the main long-lived driver of recent warming in policy and coaching keys.
+- **Methane** and **nitrous oxide** are potent even at lower volumes.
+- **Argon** is an inert permanent gas. It is **not** a greenhouse gas.
 
-| Instrument | Fact |
-|------------|------|
-| **Montreal Protocol 1987** | **Ozone / CFC** |
-| **Kyoto Protocol 1997** | **Climate / GHG / carbon credit** |
-| Paris 2015 | NDCs — CA |
-| 2019 Q132 NOT matched | **Kyoto — save water** |
-| 2024 Q35 climate mitigation | **Kyoto** (not Montreal/Ramsar/CITES) |
+### Climate and ozone treaties (do not swap)
 
-Montreal targets ozone-depleting substances. Kyoto and Paris target climate greenhouse gases. Do not swap those treaties.
+| Instrument | Year | Focus | What it does |
+|------------|------|-------|--------------|
+| **Montreal Protocol** | **1987** | **Ozone layer** | Cuts ozone-depleting substances, especially **CFCs** and related chemicals |
+| **Kyoto Protocol** | **1997** | **Climate / GHG** | Sets binding emission cuts for listed greenhouse gases and frames **carbon credits** |
+| **Paris Agreement** | **2015** | **Climate / NDCs** | Each country files Nationally Determined Contributions under the UNFCCC path |
 
-Total GHG emitters: **China > USA > India** (~3rd). Do not freeze 2023 options 9–12 as “India’s rank.” Warmer oceans and a warmer atmosphere favour more intense **cyclones, storms and heat extremes**. Nuclear power **and** geothermal heat are **not** stored solar energy. Biomass and wind **are** forms of solar-driven energy in the usual classification.
+**Montreal Protocol (1987)**
+
+- Montreal is an **ozone** treaty, not a climate-mitigation treaty.
+- It targets CFCs and other ozone-depleting substances that destroy stratospheric ozone.
+- The ozone shield itself sits mainly in the **stratosphere**.
+
+**Kyoto Protocol (1997)**
+
+- Kyoto is a **climate** treaty under the greenhouse-gas path.
+- It deals with CO₂ and other GHGs, not with “saving water.”
+- The idea of **carbon credit** trading is classically linked with Kyoto.
+
+**Paris Agreement (2015)**
+
+- Paris continues the climate path after Kyoto.
+- Countries submit **Nationally Determined Contributions (NDCs)** stating how they will cut or control emissions.
+- Paris is still about climate and GHGs. It is not an ozone protocol and not a wetland or wildlife trade treaty.
+
+**Common traps**
+
+| Wrong pairing | Correct |
+|---------------|---------|
+| Kyoto → save water | Kyoto → climate / GHG / carbon credit |
+| Montreal → climate mitigation | Montreal → ozone / CFCs |
+| Ramsar → climate mitigation | Ramsar → wetlands |
+| CITES → climate mitigation | CITES → wildlife trade |
+| Paris → ozone CFCs | Paris → climate NDCs |
+
+Montreal protects the ozone layer. Kyoto and Paris address climate greenhouse gases. Do not swap those families.
+
+
+**Inline PYQ — UPPCS Prelims 2019, Q132**
+
+**Logic:** The stem asks for the **wrong** pair. Three protocols are matched to their true themes. Kyoto is climate / GHG, so “save water” is the false match.
+
+Which of the following is NOT correctly matched?
+
+A. Cartagena Protocol — Biosafety
+
+B. Stockholm Convention — Persistent organic pollutant
+
+C. Montreal Protocol — Ozone layer
+
+D. Kyoto Protocol — Save water
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Kyoto deals with climate change and greenhouse gases, including the carbon-credit idea. It does **not** deal with saving water. Trap: Montreal correctly pairs with the ozone layer, so do not mark C.
+
+</details>
+
+**Inline PYQ — UPPCS Prelims 2024, Q35**
+
+**Logic:** The stem asks which agreement is about **climate-change mitigation**. Montreal is ozone. Ramsar is wetlands. CITES is wildlife trade. Only Kyoto is the climate / GHG treaty among the options.
+
+Which of the following international agreements is related to climate change mitigation?
+
+A. Montreal Protocol
+
+B. Ramsar Convention
+
+C. Kyoto Protocol
+
+D. CITES
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kyoto targets greenhouse-gas mitigation. Montreal protects ozone. Ramsar protects wetlands. CITES regulates wildlife trade. Trap: Montreal is the usual wrong climate option.
+
+</details>
+
+**Inline PYQ — UPPCS Prelims 2021, Q125**
+
+**Logic:** The stem asks where the **carbon credit** idea comes from. That framing belongs to the Kyoto climate path, not Montreal ozone control.
+
+The concept of 'carbon credit' originated from
+
+A. Earth Summit, Rio-de-Janeiro
+
+B. Kyoto protocol
+
+C. Montreal protocol
+
+D. G-8 Summit, Heiligendum
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Carbon credits are linked with the **Kyoto** climate framework. Montreal is the ozone / CFC treaty, so it is the common distractor.
+
+</details>
+
+Among major emitters, coaching ranks often run **China > USA > India** (India about third). Do not freeze any one year’s option band as India’s permanent rank. Warmer oceans and a warmer atmosphere favour more intense cyclones, storms and heat extremes. Nuclear power and geothermal heat are **not** forms of stored solar energy. Biomass and wind **are** forms of solar-driven energy in the usual classification.
 
 ---
 
