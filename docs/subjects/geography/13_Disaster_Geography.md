@@ -179,8 +179,18 @@ Each earthquake has its own shadow pattern because wave paths bend inside Earth.
 - **P-wave shadow:** **P-waves** are weak or absent in a belt of about **103–142°** (often taught as ~**105–140°**). They do enter the core but are **refracted** at the mantle–core boundary, so that angular belt is a gap.
 - A claim that **both P and S are recorded at any distance beyond 105°** is **false**.
 
-| Term | Meaning |
-|------|------|
+- The **focus** (or **hypocentre**) is the point inside the crust where the rupture begins.
+- The **epicentre** is the point on the Earth’s surface directly above the focus.
+- **Richter** magnitude and **moment magnitude (Mw)** measure how much energy the quake released.
+- The **Mercalli** scale measures **intensity** — how much shaking and damage people feel at a place.
+- **Body waves** travel through Earth’s interior; they are **P** and **S** waves.
+- **Surface waves** travel along the ground; **Love** and **Rayleigh** waves are the main types.
+- On a seismograph the arrival order is **P**, then **S**, then surface waves.
+- The **S-wave shadow** begins beyond about **103°** from the epicentre because the liquid outer core blocks shear waves.
+- The **P-wave shadow** is the gap of about **103–142°** where core refraction weakens or removes P arrivals.
+
+| Term | Recall |
+|------|--------|
 | Focus / hypocentre | Inside the crust |
 | Epicentre | Surface above the focus |
 | Richter / Mw | Magnitude (energy) |

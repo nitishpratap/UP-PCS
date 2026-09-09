@@ -126,7 +126,17 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 - **Peninsular rivers** are older and **graded**. Most are **rain-fed** and more seasonal. Courses are fixed. Meanders are fewer than in the Himalaya.
 - East-flowing peninsular rivers build **deltas**. West-flowing **Narmada and Tapi** (rift valleys) build **estuaries**.
 
-#### Drainage types (definitions)
+#### Drainage types (definitions) — Teaching Card
+
+Genetic drainage names describe **what the river follows** or **when it formed relative to uplift**.
+
+- A **consequent** river follows the **original slope** of the land — Godavari, Krishna and Kaveri draining from the Western Ghats are Indian examples.
+- A **subsequent** river grows later along a **weak belt** and often joins at right angles — Chambal, Sind, Betwa, Ken, Tons and Son toward Yamuna / Ganga.
+- An **antecedent** river is **older than uplift**; it keeps its course by cutting a gorge through rising land — classic set **Indus, Sutlej, Brahmaputra**; many keys also tag **Ganga**.
+- A **superimposed** river inherits an older course onto newer structure and does **not** follow today’s slope — **Chambal** (also Son in some notes).
+- **Concordant** drainage follows structure and slope — most peninsular rivers.
+- **Discordant** drainage cuts **across** structure — Himalayan antecedent rivers.
+- A **river capture (piracy)** happens when a stronger stream steals the headwaters of a weaker one. **Teesta** shifting from Ganga to Brahmaputra is the UPPCS fact.
 
 | Type | Meaning | India |
 |------|---------|------------|
@@ -136,8 +146,6 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 | **Superimposed** | Older course inherited onto newer structure; does not follow present slope | **Chambal** (also Son in some notes) |
 | **Concordant** | Follows structure and slope | Most peninsular rivers |
 | **Discordant** | Cuts across structure | Himalayan antecedent rivers |
-
-- A **river capture (piracy)** happens when a stronger stream steals the headwaters of a weaker one. **Teesta** shifting from Ganga to Brahmaputra is the UPPCS fact.
 
 #### Trans-Himalayan rivers (separate tag)
 
@@ -608,7 +616,30 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 
 > **Teaching note:** **Pandoh** stands on the **Beas**, not the Ravi. **Srisailam** stands on the **Krishna**, not the Tungabhadra. **Mettur (Stanley)** stands on the **Kaveri**, not the Krishna. Hyderabad is not a Krishna-stem dam site. **Sardar Sarovar** is on the **Narmada** in Gujarat; it is not Indira Sagar in Madhya Pradesh and not Ukai on the Tapi.
 
-### Drainage patterns, rejuvenation, basins
+### Drainage patterns, rejuvenation, basins — Teaching Card
+
+A **drainage pattern** is the map shape of rivers. The shape tells you what **controls** the ground — rock type, folds, joints, or slope.
+
+**Tree and grid patterns**
+
+- **Dendritic** looks like a **tree** with many irregular branches.
+- It develops on **homogeneous / uniform rock** — the same resistance everywhere, so streams join at acute angles without a forced grid.
+- Indian plains examples include stretches of the **Indus, Godavari, Mahanadi, Krishna and Kaveri**.
+- **Trellis** looks like a **garden trellis / lattice** — long parallel master streams with short cross-links.
+- It develops on **folded** belts of **hard and soft rock** alternating — soft belts become strike valleys; hard belts become ridges.
+- Memory: **same rock → tree (dendritic)**; **folds → lattice (trellis)**.
+
+**From a high centre or into a bowl**
+
+- **Radial** streams run **outward** from a high centre — like spokes from a hub.
+- Typical Indian controls are a dome, a volcano, or a highland such as **Amarkantak** or **Girnar**.
+- **Centripetal** is the opposite — streams run **inward** into a **closed basin**.
+- **Imphal / Loktak** is the classic Indian centripetal / closed-basin pair.
+
+**Joints and steep slopes**
+
+- **Rectangular** drainage bends at near-right angles because streams follow **joints** and **faults** — common on some Himalayan stretches.
+- **Parallel** drainage has many streams running side by side on a **steep, uniform slope** — Western Ghat torrents are the teaching picture.
 
 | Pattern | Control | India |
 |---------|---------|-------|

@@ -339,15 +339,23 @@ D. A-3, B-4, C-1, D-2
 
 **Types**
 
-| Type | Meaning | Example |
-|------|---------|---------|
-| Outport | Deep gate for an up-river city | Cuxhaven (Hamburg); Tilbury (London); Le Havre (Paris–Rouen); Bremerhaven (Bremen) |
+- An **outport** is a deep-water gate that serves an up-river city; examples are Cuxhaven for Hamburg, Tilbury for London, Le Havre for Paris–Rouen, and Bremerhaven for Bremen.
+- An **entrepôt** is a re-export hub that stores and forwards cargo; Singapore, Rotterdam and Hong Kong are classic cases.
+- An **oil port** handles crude or refined products; Ras Tanura, Houston, Rotterdam and Abadan sit in this class.
+- A **container** port specialises in box trade; **Shanghai**, Singapore, Ningbo, Shenzhen, Busan and Rotterdam lead volume.
+- A **naval** port is a fleet base; Portsmouth, Pearl Harbor and Vladivostok are standard matches.
+- A **packet** port runs short ferry crossings; Dover–Calais is the textbook pair.
+- An **inland / river** port takes sea-going or barge traffic on a river or lake system; **Igarka** on the Yenisei, Duisburg on the Rhine, Chicago on the lakes, and Kolkata on the Hugli are key names.
+
+| Type | Recall | Example |
+|------|--------|---------|
+| Outport | Deep gate for up-river city | Cuxhaven, Tilbury, Le Havre, Bremerhaven |
 | Entrepôt | Re-export hub | Singapore, Rotterdam, Hong Kong |
 | Oil port | Crude / product | Ras Tanura, Houston, Rotterdam, Abadan |
 | Container | Box trade | **Shanghai**, Singapore, Ningbo, Shenzhen, Busan, Rotterdam |
 | Naval | Fleet base | Portsmouth, Pearl Harbor, Vladivostok |
 | Packet | Short ferry | Dover–Calais |
-| Inland / river | Sea-going on a river | **Igarka** (Yenisei), Duisburg (Rhine), Chicago (lakes), Kolkata (Hugli) |
+| Inland / river | Sea-going on river/lakes | **Igarka**, Duisburg, Chicago, Kolkata |
 
 **Europe**
 

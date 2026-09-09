@@ -139,19 +139,31 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 ### Farming types
 
-| Type | Meaning |
-|------|---------|
+- **Primitive subsistence** farming grows food mainly for the family and includes **jhum** (shifting cultivation) in India’s hills and North-East.
+- **Intensive subsistence** farming uses small holdings with high labour on rice or wheat for household use and a thin local surplus.
+- **Commercial grain** farming aims at market surplus; Green Revolution wheat belts are the Indian face of this type.
+- **Plantation** farming is estate monoculture of perennials such as tea, coffee and rubber (**tea** is the usual plantation-crop pick).
+- **Mixed farming** keeps crops **and** livestock on the same farm — not merely two field crops together.
+- **Dairy** farming is commercial milk production for market sale.
+- **Mediterranean** farming (world map) sits under winter rain and grows citrus, olives and vines.
+- **Truck farming** grows vegetables for city markets on urban fringes.
+- **Dryland farming** is rainfed on low-rain tracts and favours millets and pulses.
+- **Wetland / irrigated farming** uses standing water or assured canal or tube-well supply for rice and sugarcane.
+- **Contract farming** links growers to buyers under agreement; **Punjab** is India’s classic pioneer state for this model.
+
+| Type | Recall |
+|------|--------|
 | Primitive subsistence | Family food; includes **jhum** |
 | Intensive subsistence | Small farms, high labour, rice/wheat |
 | Commercial grain | Market surplus (GR wheat belts) |
-| Plantation | Estate perennial — tea/coffee/rubber (2024 Q34 tea) |
-| Mixed farming | Crops **and** livestock together (not just two crops) |
+| Plantation | Estate perennial — tea/coffee/rubber |
+| Mixed farming | Crops **and** livestock together |
 | Dairy | Milk commercial |
 | Mediterranean (world) | Winter rain; citrus/olives/vines |
 | Truck farming | Vegetables near cities |
-| Dryland farming | Rainfed low-rain tracts (millets, pulses) |
-| Wetland / irrigated farming | Standing water or assured canal/tube-well (rice, cane) |
-| Contract farming | **Punjab** is the classic pioneer state in India |
+| Dryland farming | Rainfed millets, pulses |
+| Wetland / irrigated | Standing water or canal/tube-well |
+| Contract farming | **Punjab** pioneer in India |
 
 - Agriculture still engages about **half or more** of India’s workforce (~**54.6%** in Economic Survey **2021–22** / Census 2011) and contributes under **one-fifth** of GVA (~**18.8%** GVA, 2021–22 1st AE). The direction matters more than any single year figure.
 - Indian agriculture is marked by over-dependence on nature, low productivity, crop diversity, and **predominance of small holdings** — not large farms.
@@ -162,19 +174,28 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 
 ### Cropping patterns
 
-| Pattern | Meaning |
-|---------|---------|
-| Mixed cropping | Two+ crops **together** at the same time |
-| Intercropping | Mixed in fixed **row ratios** |
-| **Parallel cropping** | Two crops in parallel rows that do **not** compete hard for nutrients (classic: **wheat + mustard**) |
-| **Double cropping** | Two (or more) crops in **one crop year** on the same land — sequential, not necessarily simultaneous |
-| Crop rotation | Sequential change on the same land |
-| Sequential cropping | One crop after another in the same year on the same field |
-| Relay cropping | Second crop sown **before** the first is harvested |
-| Ratoon cropping | New crop from the **stubble** (classic: sugarcane) |
-| Multiple cropping | More than one crop in a year → raises intensity |
-
+- **Mixed cropping** grows two or more crops **together** on the same field at the same time.
+- **Intercropping** mixes crops in fixed **row ratios** so spacing stays planned.
+- **Parallel cropping** grows two crops in parallel rows that do **not** compete hard for nutrients; the classic pair is **wheat + mustard**.
+- **Double cropping** takes two or more crops in **one crop year** on the same land in sequence — they need not grow side by side.
+- **Crop rotation** changes the crop grown on the same land across seasons or years to rest soil and break pests.
+- **Sequential cropping** sows one crop after another on the same field in the same year.
+- **Relay cropping** sows the second crop **before** the first is harvested so the seasons overlap briefly.
+- **Ratoon cropping** raises a new crop from the **stubble** of the previous harvest; **sugarcane** is the classic Indian case.
+- **Multiple cropping** means more than one crop in a year on the same land and raises cropping intensity.
 - Do **not** swap double cropping (year sequence) with intercropping (same-time proximity).
+
+| Pattern | Recall |
+|---------|--------|
+| Mixed cropping | Two+ crops **together** at once |
+| Intercropping | Fixed **row ratios** |
+| **Parallel cropping** | Parallel rows; classic **wheat + mustard** |
+| **Double cropping** | Two+ crops in **one crop year** (sequential) |
+| Crop rotation | Sequential change on same land |
+| Sequential cropping | One after another same year |
+| Relay cropping | Second sown **before** first harvest |
+| Ratoon cropping | From **stubble** (sugarcane) |
+| Multiple cropping | More than one crop / year → intensity |
 
 - Cropping **pattern** is the share and sequence of crops in a region.
 - Climate, soil, irrigation, markets, technology and MSP all shape it.

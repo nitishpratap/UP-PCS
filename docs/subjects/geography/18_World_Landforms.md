@@ -394,24 +394,51 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 
 ## N.2A Valleys
 
-A valley is a long lowland between higher ground. A **rift valley** forms along divergent faults / crustal extension.
+A valley is a long lowland between higher ground. Rivers, ice, rifts and solution each leave a different valley signature.
 
-| Place | Note |
-|-------|-----|
-| **Death Valley** | Mainly **California**, USA — **rift valley**; Devil’s Golf Course salt pan; lowest point in N America (~−86 m); extreme **heat** |
-| **Panjshir** | NE **Afghanistan** (Hindu Kush / north of Kabul) |
-| **Taylor Valley** | **Antarctica** — “Valley of the Dead” (Scott 1903 note) |
-| **Silicon Valley** | S San Francisco Bay, **California** — chip / tech belt |
-| **Valley of the Kings** | **Egypt** |
-| **Great Artesian Basin** | **Australia** — huge groundwater basin (~1.7 million km²) between Great Dividing Range and interior uplands |
-| **Great Basin** | **USA** — endorheic; between Rockies and Sierra Nevada; Columbia Plateau north, Mojave/Sonoran south |
-| Blind valley / sinkhole (doline) | **Karst** limestone landscapes |
+### Valley types and named valleys — Teaching Card
+
+**How valleys form**
+
+- A **rift valley** forms where the crust is pulled apart along parallel faults and a central block drops — long, steep-sided, and structurally controlled.
+- A **blind valley** ends abruptly where a stream sinks underground — a **karst** signature with sinkholes (**dolines**) nearby.
+- Most ordinary valleys are river-cut; glacial troughs are broader **U-shaped** cuts (taught with glacial landforms).
+
+**Named valleys and basins (match-list centre)**
+
+- **Death Valley** sits mainly in **California**, USA. It is a **rift / block** valley in the Basin-and-Range province, holds the Devil’s Golf Course salt pan, includes the lowest point in North America (about **−86 m**), and is famous for extreme **heat** — not a cold Siberian lowland.
+- The **Panjshir Valley** lies in north-eastern **Afghanistan**, in the Hindu Kush north of Kabul.
+- **Taylor Valley** is a dry valley in **Antarctica** — the coaching tag “Valley of the Dead” follows Scott’s 1903 note.
+- **Silicon Valley** is the technology / chip belt south of San Francisco Bay in **California** — an economic name, not a rift landform.
+- The **Valley of the Kings** is the pharaoh burial ground on the west bank of the Nile near Luxor in **Egypt**.
+- The **Great Artesian Basin** is a huge groundwater basin in **Australia** (about **1.7 million km²**) between the Great Dividing Range and the interior uplands — a basin of stored water, not a single river gorge.
+- The **Great Basin** of the **USA** is **endorheic** (internal drainage) between the Rockies and the Sierra Nevada, with the Columbia Plateau to the north and Mojave / Sonoran deserts to the south.
+- **Blind valleys** and **sinkholes (dolines)** belong to **karst** limestone landscapes, not to ordinary river plains.
+
+| Place | Quick recall |
+|-------|--------------|
+| **Death Valley** | California rift; heat; salt pan; ~−86 m |
+| **Panjshir** | NE Afghanistan (Hindu Kush) |
+| **Taylor Valley** | Antarctica — “Valley of the Dead” |
+| **Silicon Valley** | California chip / tech belt |
+| **Valley of the Kings** | Egypt (Luxor / Nile west bank) |
+| **Great Artesian Basin** | Australia groundwater basin |
+| **Great Basin** | USA endorheic interior |
+| Blind valley / doline | Karst limestone |
 
 ---
 
 ## N.3 Plains
 
 Plains are **low, gently rolling** lands — the world’s grain and cattle belts.
+
+### How plains form — Teaching Card
+
+- An **alluvial** plain is built by **river dump** of silt and sand — Indo-Gangetic, Nile, Mesopotamia, Hwang Ho and Mississippi.
+- A **glacial / till** plain is left by an ice sheet’s debris — North European Plain and the Prairie of Canada–USA.
+- A **coastal** plain mixes **sea and river** work — Atlantic coastal USA and eastern India.
+- A **lacustrine** plain is an **old lake floor** — Imphal-type basins and some interior lows.
+- Pampas vs Campos share an “open land” idea but sit in **different countries** — **Argentina** vs **Brazil**.
 
 | Kind | How formed | Example |
 |------|------------|---------|
@@ -435,8 +462,6 @@ Plains are **low, gently rolling** lands — the world’s grain and cattle belt
 | **Hungarian (Alföld)** | Hungary | **Puszta** grassland sits here |
 | **Canterbury** | New Zealand | Downs / sheep |
 | **Nullarbor** | S Australia | Limestone plain, not a grassland name |
-
-Pampas vs Campos: same “open land” idea, **different country** — Argentina vs Brazil.
 
 ---
 

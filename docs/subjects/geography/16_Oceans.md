@@ -1,6 +1,6 @@
 # Topic 16 — Oceans
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per association · no repetition · Practice ≥78)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -10,24 +10,29 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 
 > **Sources baked in:** NCERT Class 11 (Oceans); **PWOnlyIAS Udaan** (ocean-floor relief); **Drishti** To-the-Point (ocean currents); **ForumIAS UPPSC** oceanography map; Lucent match-lists; UNCLOS; **Ghatnachakra** World Geography Hydrosphere–Seas–Currents–Salinity–Tides–Trenches–Straits–Canals–Coral (CB–115+ / CB–156+); UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — warm vs cold currents, trench–ocean match, salinity belt, Suez, UNCLOS miles, Maitri–Bharati; teach full ocean map
-> **Last verified:** August 2026 — coaching gap-pass (density, waves, current effects, shelf economics)
-> **Current Affairs:** BBNJ high-seas treaty (2023) once; Antarctic stations static
+> **Last verified:** September 2026 — seas/straits coast desk + Hormuz CA pass
+> **Current Affairs:** **Strait of Hormuz 2026** crisis (oil chokepoint); BBNJ 2023; Arctic observer status
 
 ---
 
 
 ## Current Affairs (this topic)
 
-- The **BBNJ 2023** treaty covers high-seas biodiversity. India has signed it. The classic **12 / 24 / 200 nm** UNCLOS mile figures stay unchanged.
-- India’s Arctic Policy is from **2022**. India has been an Arctic Council observer since **2013**.
-- Deep Ocean Mission, Samudrayaan and Blue Economy remain active ocean themes.
-- Polymetallic nodules sit on abyssal plains, including the Central Indian Ocean Basin.
-- Antarctic station names and Treaty years are stable static facts.
+| Year | Fact | Why it matters | Source |
+|------|------|----------------|--------|
+| **Feb 2026–ongoing** | After US–Israel strikes on Iran (from **28 Feb 2026**), Iran moved to control / restrict the **Strait of Hormuz**; tanker traffic collapsed; mines, boardings and attacks on merchant ships were reported | World’s top oil–LNG chokepoint in the news | Reuters / IEA / CRS |
+| **2025 baseline** | About **20 mb/d** of oil products (~**25%** of seaborne oil) and ~**20%** of world **LNG** (mainly Qatar + UAE) normally transit Hormuz | Scale of any closure | IEA |
+| Static geography | Hormuz joins **Persian Gulf ↔ Gulf of Oman**; shores are **Iran (north)** and **Oman (Musandam, south)**; UAE sits on the approaches | Country / strait MCQs | Atlas |
+| Bypass note | Only **Saudi Arabia** and the **UAE** have meaningful pipeline routes that can skip Hormuz; Iraq, Kuwait, Qatar, Bahrain and Iran lean almost entirely on the strait | Who is trapped if closed | IEA |
+| Demand side | Most Hormuz oil goes to **Asia** (China, India, Japan, Korea); India is a major importer through this gate | India linkage | EIA / visualisers |
+| Other 2026 themes | Dual blockade talk (Iran on the strait / US on Iranian ports), insurance spikes, and later escort / corridor politics kept oil prices elevated | Chokepoint = price risk | Reuters / Brookings |
+| Static | **BBNJ 2023** high-seas biodiversity treaty — India has signed; UNCLOS **12 / 24 / 200 nm** unchanged | Law of the sea | UN |
+| Static | India Arctic Policy **2022**; Arctic Council **observer** since **2013**; Deep Ocean Mission / Samudrayaan / Blue Economy | Polar + deep ocean | MEA / MoES |
 
 ---
 
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 34 Must-Score Facts
 
 1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
 2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
@@ -53,7 +58,7 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 22. Classic fishery centres: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
 23. India’s **operational** Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational pair. **Himadri** is India’s **Arctic** station, not Antarctic.
 24. The **Antarctic Treaty** dates to **1959/61**. India joined in **1983**. India is an **observer** in the Arctic Council.
-25. Key straits: **Hormuz** (Gulf oil), **Malacca** (Indian Ocean–South China Sea), **Gibraltar** (Med–Atlantic), **Bering** (Asia–America), **Bab-el-Mandeb**, **Palk**, and the **10° Channel**.
+25. Key straits: **Hormuz** (Persian Gulf ↔ Gulf of Oman; **Iran north / Oman south**; ~**25%** seaborne oil), **Malacca**, **Gibraltar**, **Bering**, **Bab-el-Mandeb**, **Palk**, and the **10° Channel**. Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — **not Oman**.
 26. The **Carlsberg Ridge** lies in the north-west Indian Ocean. The **Ninetyeast Ridge** is not the Mid-Atlantic Ridge.
 27. The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica). India’s inland waterway **NW-1** is the **Ganga** from Haldia to Prayagraj.
 28. **Drake Passage** is not the Strait of Magellan. Panama opened with facts in **1914**; Suez opened in **1869** without facts.
@@ -61,6 +66,8 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 30. **Datum line** = mean-sea-level height/depth zero. Abyssal plains ≈ most extensive ocean-floor province (~**76%**).
 31. **Sargasso** = North Atlantic, **no coast**. **Red Sea** = axial trough. **NAD** = Blanket of Europe. **OMT** (26°C isotherm) helps monsoon rainfall forecast.
 32. Lake salinity pairs: Assal / Van / Dead Sea / Great Salt Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
+33. Türkiye clock: **N = Black**, **S = Mediterranean**, **W = Aegean**, **NW = Marmara**. West→east ladder: **Mediterranean → Black → Caspian → Aral** (“My Black Cat Ate”).
+34. **Gaza** faces the **Mediterranean**. Baltic coasts = Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden — **not Norway**. **Jordan** has no Mediterranean coast (only **Aqaba** / Red Sea).
 
 ---
 
@@ -108,6 +115,14 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | India west vs east shelf | **West wider** (overall) | East always wider | पश्चिमी शेल्फ |
 | Constructive vs destructive wave | Builds beach vs **erodes** | Same | रचनात्मक / विनाशकारी |
 | Upwelling coast | **West** coast of continent | East coast rule | उत्प्रवाह |
+| Türkiye north | **Black Sea** | Caspian / Med | काला सागर |
+| W→E seas ladder | Med → Black → Caspian → Aral | Black first / Aral before Caspian | मेड→ब्लैक→कैस्पियन→अराल |
+| Baltic coast | Norway **out** | Norway in | बाल्टिक |
+| Jordan sea | **Aqaba / Red** only | Mediterranean | जॉर्डन |
+| Hormuz shores | **Iran + Oman** | UAE as both shores | होरमुज़ |
+| Persian Gulf coast | **Not Oman** | Oman inside Gulf | फारस की खाड़ी |
+| Syria sea | **Mediterranean** | Black Sea | सीरिया |
+| Gaza water | **Mediterranean** | Red / Dead Sea as coast | गाजा |
 
 ---
 
@@ -167,19 +182,78 @@ Five named oceans plus many seas and gulfs. Area order and Indian Ocean identity
 | **Aral** | Shrinking lake shared by Kazakhstan and Uzbekistan |
 | **Red Sea** | **Axial trough** (rift) between Africa and Arabia |
 
-**Türkiye’s seas**
-- North of Türkiye is the **Black Sea**.
-- South is the **Mediterranean**.
-- West is the Aegean Sea.
-- The north-west arm is the Sea of Marmara.
+**Türkiye’s four waters — clock method**
 
-**West→East seas ladder:** Mediterranean → Black → Caspian → Aral.
+Picture Türkiye on the map and read the coasts like a clock face.
 
-**Gaza Strip** faces the **Mediterranean**.
+| Direction | Sea | Easy cue |
+|-----------|-----|----------|
+| **North (12)** | **Black Sea** | Cold wall **above** Türkiye |
+| **South (6)** | **Mediterranean** | Warm “middle sea” **below** Türkiye |
+| **West (9)** | **Aegean Sea** | Greek-islands side |
+| **North-west pocket** | **Sea of Marmara** | Tiny inland sea between Black and Aegean |
 
-**Baltic coasts:** Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden — **not Norway**.
+**One north→south chain through the straits:** Black Sea → **Bosphorus** → Sea of Marmara → **Dardanelles** → Aegean → Mediterranean.
 
-**Jordan** does **not** open to the Mediterranean.
+- “North of Turkey” always means the **Black Sea**, never the Caspian.
+- “Turkey is located between…” usually means the big north–south frame: **Black Sea and Mediterranean**.
+- The **Aegean** and **Marmara** are western connectors. They are not Caspian neighbours.
+
+**West → East seas ladder**
+
+Say aloud: **“My Black Cat Ate.”**
+
+| Letter | Sea |
+|--------|-----|
+| **M** | **Mediterranean** |
+| **B** | **Black** |
+| **C** | **Caspian** |
+| **A** | **Aral** |
+
+That is the west-to-east order across Eurasia. The **Caspian** and **Aral** are **lakes**, not true seas, but the ladder still appears in MCQs.
+
+**Gaza Strip**
+
+The **Gaza Strip** is a narrow coastal belt on the **Mediterranean**. It does not face the Red Sea. The **Dead Sea** is inland in the Jordan Rift, so it is not Gaza’s open coast.
+
+**Baltic coast ring**
+
+Walk clockwise from Denmark around the Baltic:
+
+**Denmark → Germany → Poland → Lithuania → Latvia → Estonia → Russia → Finland → Sweden.**
+
+Say: **“Danish Germans planted three Baltics; Russia, Finland and Sweden close the ring.”**
+
+- **Norway** faces the North Sea / Norwegian Sea / Atlantic.
+- **Norway does not** sit on the Baltic coast.
+
+**Jordan and the Mediterranean**
+
+In South-West Asia, **Syria**, **Lebanon** and **Israel** open to the Mediterranean. **Jordan does not.**
+
+Jordan’s only sea outlet is the **Gulf of Aqaba** (a Red Sea arm), shared with Israel, Egypt and Saudi Arabia.
+
+
+**Important seas — who touches the coast?**
+
+Use this desk when a stem asks “which country borders / does not border” a sea.
+
+| Sea / water body | Coastal countries (core list) | Classic “does NOT” trap |
+|------------------|-------------------------------|-------------------------|
+| **Mediterranean** | Spain, France, Monaco, Italy, Slovenia, Croatia, Bosnia & Herzegovina, Montenegro, Albania, Greece, **Türkiye**, **Syria**, **Lebanon**, **Israel**, Egypt, Libya, Tunisia, Algeria, Morocco (+ island states) | **Jordan**, Chad, Iraq, Saudi Arabia |
+| **Black Sea** | Russia, Ukraine, Romania, Bulgaria, **Türkiye**, Georgia | **Syria** (Med only) |
+| **Caspian** (lake) | Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan | **Türkiye**, Uzbekistan |
+| **Aral** (lake) | Kazakhstan, Uzbekistan | Azerbaijan / Russia as pair |
+| **Red Sea** | Egypt, Sudan, Eritrea, Djibouti, Saudi Arabia, Yemen, Israel, **Jordan** (Aqaba tip) | Jordan–Mediterranean |
+| **Persian / Arab Gulf** | Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, **UAE** | **Oman** (faces Gulf of Oman / Arabian Sea) |
+| **Gulf of Oman** | Oman, Iran, UAE (approaches) | Calling it “inside” the Persian Gulf |
+| **Baltic Sea** | Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden | **Norway** |
+| **North Sea** | UK, Norway, Denmark, Germany, Netherlands, Belgium, France | Mixing with Baltic list |
+| **Arabian Sea** | India, Pakistan, Iran, Oman, Yemen, Somalia, Maldives approaches | Treating Persian Gulf as identical |
+| **Bay of Bengal** | India, Bangladesh, Myanmar, Sri Lanka approaches | — |
+| **South China Sea** | China, Taiwan, Vietnam, Philippines, Malaysia, Brunei, Indonesia (parts) | — |
+
+**Aegean / Marmara reminder:** the Aegean is shared mainly by **Greece** and **Türkiye**. The Sea of Marmara is almost entirely a **Turkish** inland sea.
 
 
 **Inline PYQ — UPPCS Prelims 2025, Q78**
@@ -283,17 +357,27 @@ The ocean floor profile is the skeleton of every later card.
 - **Passive** (Atlantic type): shelf → slope → **rise** → plain
 - **Active** (Pacific type): shelf → slope → **trench** (little or no rise)
 
-| Form | Meaning |
-|------|------|
-| **Seamount** | Undersea volcano with a **peaked** top, rising **>1000 m** from the floor without breaking the surface (Emperor Seamount type) |
-| **Guyot** | **Flat-topped** seamount. Waves planed it when it was an island, then it drowned. Common in the **Pacific**; GC framing finds them in all oceans **except the Arctic** |
-| Volcanic island | Seamount that **does** break the surface (Hawaii type) |
-| Atoll / reef | Coral on a sinking volcanic peak enclosing a lagoon. India’s reefs need clear warm water |
-| Submarine canyon | Gorge cut across **shelf and slope**, used as a turbidity-current highway (Hudson Canyon type) |
-| Fracture zone | Scar of a transform fault that offsets the ridge |
-| **Bank** | Flat shallow elevation on a margin — **Dogger Bank** and **Grand Banks** (fish and navigation) |
-| Hydrothermal vent | Hot mineral fluid at volcanically active ridges (“black smokers”) |
-| **Telegraphic Plateau** | Broad high on the **North Atlantic Ridge** — not an Indian or South Atlantic land plateau |
+### Seamount, guyot, atoll and related forms — Teaching Card
+
+- A **seamount** is an undersea volcano with a **peaked / pointed** top. It rises more than about **1000 m** from the floor but does **not** break the sea surface (Emperor Seamount type).
+- A **guyot** is a **flat-topped** seamount. Waves planed the summit when it was still an island; later the volcano sank and drowned. Guyots are common in the **Pacific**; coaching framing finds them in all oceans **except the Arctic**.
+- Memory pair: **seamount = peaked**; **guyot = flat top** after wave bevelling and drowning.
+- A **volcanic island** is a seamount that **does** break the surface (Hawaii type).
+- An **atoll** is a coral reef built on a sinking volcanic peak that encloses a central **lagoon**. The classic **shape** is a **horseshoe** or **ring** around that lagoon — not a triangle or rectangle. India’s reefs need clear, warm, shallow water.
+- A **submarine canyon** is a gorge cut across the **shelf and slope** — a highway for turbidity currents (Hudson Canyon type).
+- A **fracture zone** is the scar of a transform fault that offsets the mid-ocean ridge.
+- A **bank** is a flat, shallow elevation on a margin — **Dogger Bank** and **Grand Banks** are fish and navigation classics.
+- A **hydrothermal vent** (“black smoker”) vents hot mineral fluid on volcanically active ridges.
+- The **Telegraphic Plateau** is a broad high on the **North Atlantic Ridge** — not an Indian Ocean or South Atlantic land plateau.
+
+| Form | Quick recall |
+|------|--------------|
+| Seamount | Peaked undersea volcano (>1000 m) |
+| Guyot | Flat-topped drowned seamount |
+| Volcanic island | Seamount that breaks the surface |
+| Atoll | Ring / horseshoe reef around a lagoon |
+| Submarine canyon | Gorge across shelf–slope |
+| Bank | Flat shallow elevation (Dogger, Grand Banks) |
 
 **Named ridges**
 
@@ -592,13 +676,29 @@ D. Tide comes on the Earth every day after exactly 12 hours 30 minutes.
 
 The Moon’s pull exceeds the Sun’s. A lunar day is about **24 h 50 min**, so successive high tides are about **12 h 25 min** apart — **not** exactly 12 h 30 min.
 
-| Type | Meaning |
-|------|------|
-| **Spring** | Sun–Earth–Moon **straight** (new/full) → **LARGE** tide |
-| **Neap** | Quadrature (1st/3rd quarter) → **SMALL** |
-| Semi-diurnal | 2 high + 2 low (most common) |
+### Tide types — Teaching Card
+
+**Spring vs neap (geometry)**
+
+- A **spring tide** occurs when the Sun, Earth and Moon lie roughly in a **straight line** (new moon or full moon).
+- Lunar and solar pulls then **add**, so the high tide is **extra high** and the low tide is **extra low** — the tidal range is **large**.
+- A **neap tide** occurs at **quadrature**, when the Moon is at first or third quarter and the Sun–Earth–Moon angle is about **90°**.
+- Lunar and solar pulls then **partly cancel**, so the tidal range is **small**.
+- Spring tides are **not** named for the season — they mean a strong (“springing”) range.
+
+**Daily rhythm**
+
+- A **semi-diurnal** tide has **two** high waters and **two** low waters in about one lunar day — the most common world pattern.
+- A **diurnal** tide has **one** high and **one** low per lunar day.
+- A **mixed** tide shows two highs and two lows of **unequal** height.
+
+| Type | Quick recall |
+|------|--------------|
+| Spring | Syzygy (new/full); **large** range |
+| Neap | Quadrature (quarters); **small** range |
+| Semi-diurnal | 2 high + 2 low |
 | Diurnal | 1 high + 1 low |
-| Mixed | Unequal highs |
+| Mixed | Unequal highs / lows |
 
 - The highest tidal range in the world is the **Bay of Fundy** (Canada).
 - India’s tidal-energy coast fact is the **Gulf of Khambhat** (ahead of Kutch in standard options).
@@ -643,39 +743,60 @@ D. Konkan only without gulf funnel
 
 ## N.7 Straits
 
-A strait is a narrow natural waterway joining two larger water bodies. Fact **which two seas** it joins.
+A strait is a narrow natural waterway joining two larger water bodies. Always ask **which two seas** it joins, and **which countries** hold the shores.
 
-| Strait | Joins / fact |
-|--------|----------------|
-| **Hormuz** | Persian Gulf ↔ Gulf of Oman. Persian Gulf coastal states are Iran, UAE, Saudi Arabia, Qatar, Bahrain, Kuwait and Iraq — **not Oman** (Oman faces the Gulf of Oman / Arabian Sea) |
-| **Malacca** | Andaman / South China Sea side ↔ Indian Ocean between Malaysia and Indonesia |
-| **Bab-el-Mandeb** | Red Sea ↔ Gulf of Aden |
-| **Gibraltar** | Mediterranean ↔ Atlantic |
-| **Bosphorus** | Black Sea ↔ Marmara |
-| **Dardanelles** | Marmara ↔ Aegean |
-| **Bering** | Arctic ↔ Pacific between Asia and America |
-| **Palk** | India ↔ Sri Lanka |
-| **10° Channel** | Andaman ↔ Nicobar |
-| **9° Channel** | Minicoy ↔ Lakshadweep proper |
-| **8° Channel** | Maldives ↔ Minicoy |
-| Duncan Passage | Little Andaman ↔ South Andaman |
-| Sunda | Sumatra ↔ Java |
-| Torres | Australia ↔ Papua New Guinea |
-| Bass | Australia ↔ Tasmania |
-| **Magellan** | Chilean channels joining South America’s Atlantic and Pacific sides |
-| Dover | Narrows of the English Channel |
-| Mozambique | Africa ↔ Madagascar |
-| Davis | Greenland ↔ Baffin |
-| **Denmark** | Greenland ↔ Iceland |
-| **Drake Passage** | Open water south of Cape Horn (Atlantic ↔ Pacific) — **not** Magellan’s channels |
-| **Cook** | North Island ↔ South Island (New Zealand) |
-| **Florida / Yucatan** | Gate of the Gulf of Mexico |
-| **Formosa / Taiwan** | East China Sea ↔ South China Sea |
-| Korea / Tsushima | Japan ↔ Korea |
-| **Lombok / Makassar** | Indonesian passages used as oil-tanker alternatives to Malacca |
-| Kerch | Black Sea ↔ Sea of Azov |
-| Otranto | Adriatic ↔ Ionian |
-| Skagerrak / Kattegat | North Sea approaches to the Baltic |
+### Strait of Hormuz — must-score chokepoint
+
+**Persian Gulf ↔ Gulf of Oman → Arabian Sea.**
+
+| Item | Fact |
+|------|------|
+| **Shores** | **Iran** on the north; **Oman** (Musandam Peninsula) on the south |
+| **Nearby** | **UAE** maritime zones sit on the Gulf and Arabian Sea **approaches**, but the classic shore pair is Iran–Oman |
+| **Width** | About **21–29 nm** at the narrowest teaching band; shipping lanes are only a few miles wide each |
+| **Oil** | Roughly **20 mb/d** / about **25%** of world **seaborne oil** in recent IEA figures |
+| **Gas** | About **20%** of world **LNG** (mainly **Qatar** and **UAE**) |
+| **Gulf states behind the gate** | Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — **Oman is outside** the Persian Gulf coast list |
+| **Bypass** | Only Saudi Arabia and the UAE have useful pipelines that can skip Hormuz; the others are almost fully dependent on the strait |
+| **Buyers** | Most cargo goes to **Asia** (China, India, Japan, Korea) |
+
+**2026 news frame:** From late February 2026, conflict around Iran turned Hormuz into a live chokepoint story — restricted transit, tanker risk, insurance spikes, and talk of dual blockades. Geography stays the same: **only sea door** out of the Persian Gulf.
+
+**Logic:** Do not mark **Oman** as a Persian Gulf coastal state. Do not mark **UAE alone** as both shores of Hormuz. Hormuz is **not** Red Sea–Mediterranean (that is Suez) and **not** Black–Marmara (that is Bosphorus).
+
+### Other high-yield straits — seas joined + shores
+
+| Strait | Joins | Shore / country cue |
+|--------|-------|---------------------|
+| **Hormuz** | Persian Gulf ↔ Gulf of Oman | **Iran–Oman** |
+| **Bab-el-Mandeb** | Red Sea ↔ Gulf of Aden | **Djibouti / Eritrea** side ↔ **Yemen**; gate to the Indian Ocean for Suez traffic |
+| **Malacca** | Andaman / South China Sea approaches ↔ Indian Ocean | **Malaysia–Indonesia** (Singapore at the tip) |
+| **Gibraltar** | Mediterranean ↔ Atlantic | **Spain–Morocco** (UK: Gibraltar Rock) |
+| **Bosphorus** | Black Sea ↔ Marmara | Entirely **Türkiye** |
+| **Dardanelles** | Marmara ↔ Aegean | Entirely **Türkiye** |
+| **Bering** | Arctic ↔ Pacific | **Russia–USA** (Alaska) |
+| **Palk** | Bay of Bengal side ↔ Gulf of Mannar / Laccadive approaches | **India–Sri Lanka** |
+| **10° Channel** | Andaman ↔ Nicobar | Inside India |
+| **9° Channel** | Minicoy ↔ Lakshadweep proper | Inside India |
+| **8° Channel** | Maldives ↔ Minicoy | Maldives–India |
+| Duncan Passage | Little Andaman ↔ South Andaman | Inside India |
+| Sunda | Indian Ocean ↔ Java Sea approaches | **Sumatra–Java** (Indonesia) |
+| Torres | Coral / Arafura approaches | **Australia–Papua New Guinea** |
+| Bass | Tasman Sea approaches | **Australia–Tasmania** |
+| **Magellan** | Atlantic ↔ Pacific via Chilean channels | **Chile** |
+| **Drake Passage** | Atlantic ↔ Pacific (open water) | South of Cape Horn — **not** Magellan |
+| Dover | North Sea ↔ English Channel | **UK–France** |
+| Mozambique | Indian Ocean corridor | **Mozambique–Madagascar** |
+| Davis | Baffin Bay approaches | **Greenland–Canada** |
+| **Denmark Strait** | Greenland Sea / Atlantic | **Greenland–Iceland** |
+| **Cook** | Pacific between NZ islands | North Island ↔ South Island |
+| **Florida / Yucatan** | Gulf of Mexico gates | USA–Cuba / Mexico–Cuba approaches |
+| **Formosa / Taiwan** | East China Sea ↔ South China Sea | Taiwan Strait |
+| Korea / Tsushima | Japan Sea approaches | **Japan–Korea** |
+| **Lombok / Makassar** | Indonesian passages | Tanker alternatives when Malacca is tight |
+| Kerch | Black Sea ↔ Sea of Azov | **Russia–Ukraine** zone |
+| Otranto | Adriatic ↔ Ionian | Italy–Albania approaches |
+| Skagerrak / Kattegat | North Sea ↔ Baltic approaches | Scandinavia–Denmark gate |
 
 Always ask which two larger seas the strait joins.
 
@@ -1502,6 +1623,8 @@ D. Aral Sea
 
 **Q-GC15. MPPCS 1991**
 
+**Logic:** Stem tests Türkiye’s **north** coast only. Caspian is east of the Caucasus, not Türkiye’s northern sea. Mediterranean is **south**.
+
 Towards the North of Turkey is –
 
 A. Black Sea
@@ -1515,13 +1638,15 @@ D. Mediterranean Sea
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Türkiye’s north coast = **Black Sea**.
+**Ans: A.** Türkiye’s north coast is the **Black Sea**. Clock cue: north = Black, south = Mediterranean. Trap: picking Caspian because it is “near” on a small atlas zoom.
 
 </details>
 
 ---
 
 **Q-GC16. IAS 2014**
+
+**Logic:** Stem wants the big **north–south frame** of Türkiye. Caspian is not a Turkish coast. Suez / Aqaba options belong to Egypt–Levant–Red Sea, not Türkiye.
 
 Turkey is located between –
 
@@ -1536,13 +1661,15 @@ D. Gulf of Aqaba and the Dead Sea
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** North Black Sea / South Mediterranean frame Türkiye.
+**Ans: B.** North = **Black Sea**, south = **Mediterranean**. Aegean and Marmara sit on the west connector chain. Trap: A swaps in the Caspian.
 
 </details>
 
 ---
 
 **Q-GC17. UP RO/ARO Pre 2016**
+
+**Logic:** West→east Eurasian ladder. Mnemonic **“My Black Cat Ate”** = Mediterranean → Black → Caspian → Aral. Do not put Black before Mediterranean.
 
 The correct sequence of the following seas from west to east is:
 
@@ -1557,7 +1684,7 @@ D. Black Sea, Mediterranean Sea, Aral Sea, Caspian Sea
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** W→E: **Mediterranean → Black → Caspian → Aral**.
+**Ans: C.** Order = **Mediterranean → Black → Caspian → Aral**. Trap: A starts with Black; D swaps Aral and Caspian.
 
 </details>
 
@@ -1712,6 +1839,8 @@ D. Tunisia
 
 **Q-GC25. IAS 2015**
 
+**Logic:** Levant Med coasts = Syria, Lebanon, Israel. Jordan’s only sea tip is **Aqaba** on the Red Sea, so it does not “open out” to the Mediterranean.
+
 Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea?
 
 A. Syria
@@ -1725,13 +1854,15 @@ D. Israel
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Jordan** has no Mediterranean coast.
+**Ans: B.** **Jordan** has no Mediterranean coast. Its sea outlet is the **Gulf of Aqaba**. Trap: thinking every Levant state touches the Med.
 
 </details>
 
 ---
 
 **Q-GC26. MPPCS 2023**
+
+**Logic:** Gaza is a Mediterranean coastal strip of the Levant. Red Sea is far south via Sinai / Aqaba; Black and Caspian are unrelated.
 
 Which of the following seas is near the 'Gaza Strip'?
 
@@ -1746,7 +1877,7 @@ D. Caspian Sea
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Gaza faces the **Mediterranean**.
+**Ans: A.** Gaza faces the **Mediterranean**. Trap: linking Gaza to the Red Sea because of regional Middle East maps.
 
 </details>
 
@@ -1827,6 +1958,8 @@ D. Bulgaria
 
 **Q-GC30. UP RO/ARO Mains 2021**
 
+**Logic:** Baltic ring = Denmark, Germany, Poland, three Baltics, Russia, Finland, Sweden. **Norway** faces North Sea / Norwegian Sea, so any option that pairs Norway with a Baltic state is the odd one out.
+
 Which one of the following countries is not situated along the coast of Baltic Sea?
 
 A. Latvia and Poland
@@ -1840,7 +1973,7 @@ D. Sweden and Norway
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Norway** is not a Baltic coastal state.
+**Ans: D.** **Norway** is not a Baltic coastal state. Sweden is on the Baltic; Norway is not. Trap: treating all Scandinavia as Baltic.
 
 </details>
 
@@ -4671,6 +4804,78 @@ D. Hydrothermal vent — only found on continental shelves under 50 m
 
 ---
 
+**Q76.** With reference to the Strait of Hormuz, which of the following statements is/are correct?
+
+1. It joins the Persian Gulf with the Gulf of Oman.
+2. Its shores are held by Iran on the north and Oman on the south.
+3. Oman is a classic Persian Gulf coastal state along with Iraq and Kuwait.
+
+**Logic:** Hormuz door = Persian Gulf ↔ Gulf of Oman. Shore pair = Iran–Oman. Oman faces the **Gulf of Oman / Arabian Sea**, so statement 3 is false.
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1 true — Hormuz = **Persian Gulf ↔ Gulf of Oman**. 2 true — shores = **Iran (N) + Oman (S)**. 3 false — Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE; **Oman is out**. Trap: putting Oman inside the Gulf list because it borders Hormuz.
+
+</details>
+
+---
+
+**Q77.** Arrange the following from west to east:
+
+1. Aral Sea
+2. Black Sea
+3. Caspian Sea
+4. Mediterranean Sea
+
+**Logic:** Mnemonic **“My Black Cat Ate”** = Mediterranean → Black → Caspian → Aral.
+
+A. 2–4–3–1
+
+B. 4–2–3–1
+
+C. 4–2–1–3
+
+D. 2–4–1–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Order = **4 Mediterranean → 2 Black → 3 Caspian → 1 Aral**. Trap: starting with Black, or swapping Aral before Caspian.
+
+</details>
+
+---
+
+**Q78.** Which one of the following is correctly matched?
+
+**Logic:** Eliminate three stock traps — Gaza/Jordan/Med mix-ups and Norway-on-Baltic — leave Türkiye north = Black.
+
+A. Gaza Strip — faces the Red Sea
+
+B. Jordan — opens to the Mediterranean
+
+C. Baltic Sea — Norway is a coastal state
+
+D. Türkiye’s north coast — Black Sea
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Türkiye north = **Black Sea**. Gaza faces the **Mediterranean**; Jordan has **no** Med coast; **Norway** is not on the Baltic.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **Benguela = Pacific** — FALSE. **Atlantic**.
@@ -4719,3 +4924,11 @@ D. Hydrothermal vent — only found on continental shelves under 50 m
 45. **Soo Canal = Superior–Michigan** — FALSE. Superior–**Huron**.
 46. **Great Barrier Reef = Atlantic / New Zealand** — FALSE. **Pacific**, NE **Queensland / Australia**.
 47. **Coral reefs = cold coasts only** — FALSE. Tropical warm clear water.
+48. **Türkiye north = Mediterranean / Caspian** — FALSE. North = **Black Sea**; south = Mediterranean.
+49. **W→E = Black → Med → Caspian → Aral** — FALSE. **Mediterranean → Black → Caspian → Aral** (“My Black Cat Ate”).
+50. **Norway on the Baltic** — FALSE. Baltic ring excludes Norway.
+51. **Jordan opens to the Mediterranean** — FALSE. Only **Aqaba / Red Sea**.
+52. **Gaza faces the Red Sea** — FALSE. Gaza faces the **Mediterranean**.
+53. **Hormuz shores = Iran + UAE only** — FALSE. Classic pair = **Iran + Oman** (Musandam).
+54. **Syria borders the Black Sea** — FALSE. Syria is **Mediterranean**.
+55. **Hormuz joins Red Sea and Mediterranean** — FALSE. That is **Suez**. Hormuz = Persian Gulf ↔ Gulf of Oman.

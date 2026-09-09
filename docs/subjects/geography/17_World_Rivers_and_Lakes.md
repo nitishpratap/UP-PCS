@@ -344,9 +344,15 @@ A **canyon** is a broader and deeper eroded gorge.
 
 The **Grand Canyon** was cut by the **Colorado** River in Arizona.
 
+A **V-shaped valley** forms in youth when vertical and lateral erosion cut a steep-sided trough.
+
 A **meander** is a looping course on a gentle plain.
 
 An **alluvial fan** forms where a stream leaves the mountains into a plain.
+
+A **delta** is the mouth deposit of a river; the Ganga–Brahmaputra–Meghna is the world’s largest, the Mississippi is **bird’s-foot**, and the Nile is arcuate.
+
+A **watershed** (catchment) is the land unit that collects, stores and releases water to a common outlet.
 
 **Agent traps:** Canyon and gorge are **river** landforms.
 

@@ -268,29 +268,48 @@ These four words are traps if swapped.
 | Denudation | Weathering + erosion |
 | Mass wasting | Gravity movement |
 
-**Physical / mechanical**
+**Physical / mechanical weathering**
 
-| Process | Meaning |
-|---------|------|
-| Frost / ice wedging | Water → ice in cracks (cold wet) |
-| **Exfoliation / unloading** | Pressure release; onion sheets on **granite** |
-| Thermal / insolation | Desert day–night expansion |
-| Salt wedging | Arid coasts / playas |
-| Block vs granular | Jointed masses vs grain-by-grain (coarse granite) |
-| Spheroidal | Rounded corestones (chemical + physical) |
+Physical weathering cracks and peels rock without changing its chemistry.
 
-**Chemical** (fastest **hot + wet**)
+- **Frost / ice wedging** works where water freezes in cracks: ice expands and pries the rock apart (cold, wet climates).
+- **Exfoliation / unloading** peels rock in **onion-like sheets** when overlying pressure is removed — classic on **granite** domes.
+- **Thermal / insolation** weathering follows desert day–night heating and cooling; the surface expands and contracts until it flakes.
+- **Salt wedging** grows salt crystals in pores on arid coasts and playas and pries grains apart.
+- **Block disintegration** breaks jointed masses into large angular blocks; **granular disintegration** frees mineral grains one by one (common in coarse granite).
+- **Spheroidal weathering** rounds corestones as chemical softening and physical peeling work together from the outside in.
 
-| Process | Meaning |
-|---------|------|
-| **Carbonation** | CO₂ + rain → carbonic acid → **limestone karst** |
-| Solution | Direct dissolve (rock salt, gypsum) |
-| Oxidation | Fe rusts; red soils |
-| Hydration | Minerals take water, swell, crack |
-| Hydrolysis | Feldspar → **clay** |
-| Chelation | Organic acids (biological overlap) |
+| Process | Quick recall |
+|---------|--------------|
+| Frost / ice wedging | Water freezes and pries cracks |
+| Exfoliation / unloading | Onion sheets on granite |
+| Thermal / insolation | Desert day–night flake |
+| Salt wedging | Crystal growth in arid pores |
+| Block vs granular | Joint slabs vs grain-by-grain |
+| Spheroidal | Rounded corestones |
 
-**Biological:** roots, burrows, lichen/moss acids.
+**Chemical weathering** (fastest where it is **hot and wet**)
+
+Chemical weathering changes minerals; humid tropics are the classic speed zone.
+
+- **Carbonation** forms when CO₂ in rain makes weak carbonic acid that dissolves **limestone** and builds **karst**.
+- **Solution** dissolves highly soluble rocks such as rock salt and gypsum directly into water.
+- **Oxidation** rusts iron-bearing minerals and often colours soils red or brown.
+- **Hydration** lets minerals take up water, swell, and crack the surrounding rock.
+- **Hydrolysis** breaks feldspar into **clay** minerals — a main route from granite to clay soils.
+- **Chelation** uses organic acids from plants and microbes to pull metal ions out of minerals (biological overlap).
+
+| Process | Quick recall |
+|---------|--------------|
+| Carbonation | Carbonic acid → limestone karst |
+| Solution | Direct dissolve (salt, gypsum) |
+| Oxidation | Iron rusts; red soils |
+| Hydration | Water uptake → swell and crack |
+| Hydrolysis | Feldspar → clay |
+| Chelation | Organic acids leach metals |
+
+**Biological weathering** adds roots that wedge joints, burrows that open rock, and lichen or moss acids that etch surfaces.
+
 Residual weathered mantle becomes soils.
 **Laterite** forms by intense leaching in the tropics.
 Running water progresses from sheet to rill to gully and, in the classic case, to a **Chambal ravine**.
@@ -363,30 +382,68 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 | **Old** | Broad floodplain, **ox-bow** / mortlake / meander scar, yazoo, **delta**, deferred tributary |
 | **Rejuvenation** | Uplift / base-level fall → **knickpoint**, river **terrace**, **incised meander** |
 
-| Form | Meaning |
-|------|------|
-| Meander | Loop; **concave** bank = cut (cliff); **convex** = **point bar** / slip-off |
-| Ox-bow | Cut-off meander lake (Ganga plain) |
-| Floodplain | Point-bar accretion + overbank silt |
-| Levee | Raised coarse silt along channel |
-| Yazoo | Tributary **deferred** behind levee; runs parallel, joins downstream |
-| Alluvial fan / cone | Dump at **mountain foot**; coalescing = **bajada**; arid basin floor = bolson |
-| Braided | Multiple threads — **Brahmaputra** type |
-| Pothole | Eddy + pebbles drill the bed (youth) |
-| Waterfall | Cap-rock, fault scarp, hanging valley, or **knickpoint** |
-| Gorge | Steep-sided mountain cut |
-| Canyon | Wider stair-step, often **arid** (Grand Canyon type) |
-| Graded profile | Smooth concave long-profile to **base level** (sea) |
+### Fluvial forms — Teaching Card
+
+**Meanders and floodplain suite**
+
+- A **meander** is a river loop on a gentler gradient.
+- On the **concave** outer bank the current cuts a **river cliff**; on the **convex** inner bank it drops a **point bar** (slip-off slope).
+- A **floodplain** grows as point bars accrete and floods drop overbank silt beyond the channel.
+- A **natural levee** is the raised ribbon of coarser silt left along the channel edge after floods.
+- An **ox-bow** (mortlake) forms when a meander neck is cut off and the abandoned loop becomes a lake — common on the **Ganga** plain; a dry scar marks an older cut-off.
+- A **yazoo** tributary is **deferred** behind the main levee: it runs parallel to the master stream and joins only farther downstream.
+
+**Fans, braids, and youth cuts**
+
+- An **alluvial fan** (or cone) is a dump of coarse load at a **mountain foot** where the stream leaves a steep gorge onto a plain.
+- When neighbouring fans coalesce along a mountain front they form a **bajada**; the enclosed arid basin floor is a **bolson**.
+- A **braided** channel splits into many shallow threads that reunite — the **Brahmaputra** is the classic Indian type.
+- A **pothole** is drilled in the bed by pebbles spinning in an eddy — a youth-stage signature.
+- A **waterfall** can sit on a hard cap rock, a fault scarp, a hanging valley lip, or a **knickpoint** after rejuvenation.
+
+**Gorge, canyon, and graded profile**
+
+- A **gorge** is a steep-sided mountain cut, often narrow and deep.
+- A **canyon** is typically wider, with stair-step walls, and is common in **arid** plateaus (Grand Canyon type).
+- A **graded profile** is the smooth concave long-profile a river approaches toward **base level** (usually the sea).
+
+| Form | Quick recall |
+|------|--------------|
+| Meander | Outer cut cliff; inner point bar |
+| Ox-bow | Cut-off meander lake |
+| Floodplain | Point-bar + overbank silt |
+| Levee | Raised silt ribbon along channel |
+| Yazoo | Deferred tributary behind levee |
+| Fan / bajada | Mountain-foot dump; coalescing fans |
+| Braided | Many threads (Brahmaputra type) |
+| Gorge vs canyon | Narrow steep cut vs wider arid stair-step |
 
 **Cycle theories**
 
-| | Fact |
-|--|------|
-| **Davis** | Structure–process–time; youth–mature–old → **peneplain** + **monadnock** leftovers |
-| **Penck** | Uplift and denudation **together** (not sequential old age) |
-| **L.C. King** | Pediment retreat → **pediplain** (arid/savanna) |
+- **Davis** framed erosion as **structure–process–time**: youth → mature → old age, ending in a humid **peneplain** with leftover **monadnocks**.
+- **Penck** argued that uplift and denudation often work **together**, so landforms need not wait for a neat old-age stage.
+- **L.C. King** stressed pediment retreat in arid and savanna lands, ending in a **pediplain** rather than a Davis peneplain.
 
-**Stream origin (names)**
+| Theory | Quick recall |
+|--------|--------------|
+| **Davis** | Structure–process–time → **peneplain** + **monadnock** |
+| **Penck** | Uplift and denudation **together** |
+| **L.C. King** | Pediment retreat → **pediplain** |
+
+### Stream origin names — Teaching Card
+
+Genetic stream names describe **what the river follows**, not how big it is.
+
+- A **consequent** stream follows the **initial slope** of the land after uplift or emergence.
+- A **subsequent** stream grows later along **weaker beds** or **faults**; it often cuts strike valleys and helps build a **trellis** pattern.
+- An **obsequent** stream flows **opposite** to the consequent — typically down a scarp face.
+- A **resequent** stream later flows in the **same direction** as the original consequent, after the landscape has been reworked.
+- An **insequent** stream shows **no obvious structural control** — common where rock is uniform and drainage is **dendritic**.
+- **Antecedent** drainage is **older than the uplift** it cuts — Himalayan transverse giants (Indus, Sutlej, Brahmaputra and often Ganga in keys) are the classic Indian centre.
+- **Superimposed** drainage is **inherited from a cover** that is now stripped — the **Chambal** is the classic Indian example.
+- **Concordant** drainage follows structure and slope; **discordant** drainage cuts across structure.
+- In **river capture / piracy**, an aggressive **pirate** stream beheads its neighbour, leaving an **elbow of capture**, a dry **wind gap**, and a **misfit** stream behind.
+- Rejuvenation extras include paired **terraces**, **incised / entrenched** meanders, and a **knickpoint** that migrates upstream.
 
 | Stream | Follows |
 |--------|---------|
@@ -396,17 +453,21 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 | Resequent | Same direction as consequent, later |
 | Insequent | No obvious control (dendritic on uniform rock) |
 
-- **Antecedent** drainage is older than the uplift it cuts — Himalayan transverse giants are the classic Indian centre.
-- **Superimposed** drainage is inherited from a cover that is now stripped — the **Chambal** is the classic Indian example.
-- Concordant drainage follows structure; discordant drainage cuts across it.
-- **River capture / piracy:** an aggressive **pirate** stream beheads its neighbour, leaving an **elbow of capture**, a dry **wind gap**, and a **misfit** stream behind.
-- Rejuvenation extras: paired **terraces**, **incised / entrenched** meanders, and a nick point that migrates upstream.
-
 ---
 
 ## N.6 Types of Deltas
 
 A delta needs a large load, a quiet coast and a shallow shelf. Strong tides or waves favour an **estuary** instead.
+
+### Delta shapes — Teaching Card
+
+- An **arcuate** delta has a **bow / fan** front with many distributaries — **Nile**, **Ganga–Brahmaputra (Sundarbans)**, Rhine, Niger and Hwang Ho. It is **not** bird’s-foot.
+- A **bird’s-foot** delta sends long toe-like distributaries into quiet water — the classic is the **Mississippi**. The Ganga is **not** this type.
+- A **cuspate** delta is **tooth / pointed** where opposing waves pinch the mouth — Tiber (Italy) and Ebro are the usual pairs.
+- An **estuarine** mouth fills a drowned funnel rather than building a big fan — many west-India type mouths.
+- A **moribund** delta lobe is an **abandoned / dying** part of a delta — India’s coaching tag is the **Cauvery** lobe (not Bengal / KG / Mahanadi as the “moribund river” pick in that stem family).
+- India: **east-coast deltas** sit on a wide shelf; **west-coast estuaries** favour **Narmada** and **Tapi**.
+- The **Mekong** rises on the **Tibetan Plateau**; its delta is in **southern Vietnam**, not southern Cambodia.
 
 | Type | Shape / fact | Classic |
 |------|----------------|---------|
@@ -415,9 +476,6 @@ A delta needs a large load, a quiet coast and a shallow shelf. Strong tides or w
 | **Cuspate** | Tooth / pointed | Tiber (Italy), Ebro |
 | **Estuarine** | Fills a drowned mouth | Some European / west-India type mouths |
 | **Moribund** | Abandoned / dying lobe | **Cauvery** — not Bengal / KG / Mahanadi |
-
-- India: **east-coast deltas** (wide shelf); **west-coast estuaries** (Narmada, Tapi).
-- The **Mekong** rises on the **Tibetan Plateau**; its delta is in **southern Vietnam**, not southern Cambodia.
 
 **Inline PYQ — UPPCS Prelims 2018, Q33**
 
@@ -633,25 +691,25 @@ D. Only ice sheets
 ---
 
 ## N.8 Glaciers & Glacial Landforms
-### Major glacial landforms — Teaching Card
 
-- **Cirque** is a bowl-shaped hollow at the head of a valley glacier — the birthplace of ice.
-- **Arête** is a sharp ridge between two cirques.
-- **Horn** (e.g. Matterhorn type) forms when three or more arêtes meet.
-- **U-shaped valley** is carved by valley glaciers; **V-shaped valleys** are fluvial.
-- **Moraine** is glacial debris — lateral, medial, terminal, and ground moraine mark ice margins.
-- **Drumlin** is an elongated mound of till shaped by moving ice.
-- **Esker** is a sinuous ridge of outwash deposited by meltwater under or within ice.
+A glacier is a mass of ice that moves under its own weight. Fact the **U-valley vs V-valley** pair, the **fjord vs ria** pair, and the depositional till suite.
 
-A glacier is a mass of ice that moves under its own weight. Notes fact **U-valley vs V-valley**, **fjord vs ria**, and depositional till forms.
+### Glacier types — Teaching Card
 
-| Type | Meaning |
-|------|------|
-| Cirque glacier | Occupies armchair hollow |
-| Valley / alpine | Tongue in a mountain trough |
-| Piedmont | Valley glaciers coalesce on a plain |
-| Ice sheet / continental | Greenland, Antarctica |
-| Ice cap | Smaller dome (Iceland type) |
+- A **cirque glacier** sits in an armchair hollow at the head of a mountain valley — ice starts here.
+- A **valley / alpine glacier** is a tongue of ice flowing down a mountain trough.
+- A **piedmont glacier** forms when valley glaciers leave the mountains and **coalesce** as a broad ice sheet on a plain.
+- An **ice sheet / continental glacier** covers a whole region — **Greenland** and **Antarctica** are the living giants.
+- An **ice cap** is a smaller dome of ice (Iceland type) — not continent-wide.
+- An **ice shelf** is the floating fringe of ice extending from land onto the sea.
+
+| Type | Quick recall |
+|------|--------------|
+| Cirque glacier | Armchair hollow |
+| Valley / alpine | Tongue in a trough |
+| Piedmont | Coalesced on a plain |
+| Ice sheet | Greenland, Antarctica |
+| Ice cap | Smaller dome |
 | Ice shelf | Floating fringe |
 
 - Accumulation sits above the **snowline**; ablation sits below it.
@@ -659,30 +717,47 @@ A glacier is a mass of ice that moves under its own weight. Notes fact **U-valle
 - A **bergschrund** cracks open at the headwall; crevasses and seracs mark the tongue.
 - A **nunatak** is a peak sticking through ice.
 
-**Erosional**
+### Erosional glacial landforms — Teaching Card
 
-| Form | Meaning |
-|------|------|
-| **Cirque / corrie / cwm** | Armchair hollow; lake = **tarn** |
-| **Arête** | Knife ridge between cirques |
-| **Horn** | Pyramidal peak (Matterhorn type) |
-| **U-shaped** trough | Glacier (≠ river V) |
-| **Hanging valley** | Tributary glacier floor higher → waterfall |
-| **Fjord** | Drowned glacial trough (Norway, Chile, NZ) |
+- A **cirque** (corrie / cwm) is the armchair hollow scooped at a glacier’s head; a lake left in it is a **tarn**.
+- An **arête** is the knife-edge ridge left between two neighbouring cirques.
+- A **horn** is a pyramidal peak where three or more arêtes meet — the **Matterhorn** is the classic picture.
+- A **U-shaped** trough is carved by a valley glacier; a river cuts a **V-shaped** valley instead.
+- A **hanging valley** sits higher than the main trough because the tributary glacier was smaller — its lip often holds a waterfall after the ice melts.
+- A **fjord** is a glacial trough drowned by the sea (Norway, Chile, New Zealand).
+- A **roche moutonnée** is bedrock smoothed and abraded on the up-ice side and plucked on the lee side.
+- A **crag-and-tail** pairs a hard rock knob with a debris tail stretching down-ice.
+
+| Form | Quick recall |
+|------|--------------|
+| Cirque / tarn | Armchair hollow; lake inside |
+| Arête | Knife ridge between cirques |
+| Horn | Pyramidal peak (Matterhorn type) |
+| U-trough | Glacier (≠ river V) |
+| Hanging valley | Higher tributary floor → waterfall |
+| Fjord | Drowned glacial trough |
 | Roche moutonnée | Abraded + plucked bedrock |
 | Crag-and-tail | Hard rock + lee debris |
 
-**Depositional**
+### Depositional glacial landforms — Teaching Card
 
-| Form | Meaning |
-|------|------|
-| **Moraine** | Lateral, medial, **terminal**, ground, recessional |
-| **Drumlin** | Streamlined till; blunt end up-ice |
-| **Esker** | Long sinuous sand–gravel (subglacial stream) |
-| **Kame** | Mound of ice-contact sand/gravel |
-| Outwash / sandur | Meltwater plain beyond terminal moraine |
+- A **moraine** is glacial debris dumped by ice: **lateral** along the sides, **medial** where two glaciers join, **terminal** at the snout, plus **ground** and **recessional** belts.
+- A **drumlin** is a streamlined mound of till; the blunt end faces **up-ice** and the taper points down-ice.
+- An **esker** is a long, sinuous ridge of sand and gravel left by a meltwater stream under or within the ice.
+- A **kame** is a mound of ice-contact sand and gravel dumped against or in melting ice.
+- An **outwash plain** (sandur) is the meltwater apron of sorted sediment beyond the terminal moraine.
+- An **erratic** is a far-travelled boulder dropped far from its source rock.
+- A **kettle** forms when a buried ice block melts and leaves a pit that may hold a lake.
+
+| Form | Quick recall |
+|------|--------------|
+| Moraine | Lateral, medial, terminal, ground |
+| Drumlin | Streamlined till; blunt up-ice |
+| Esker | Sinuous subglacial sand–gravel |
+| Kame | Ice-contact mound |
+| Outwash / sandur | Meltwater plain beyond snout |
 | Erratic | Far-travelled boulder |
-| Kettle | Melt of buried ice block → pit lake |
+| Kettle | Melt pit → lake |
 
 Himalayan glaciers act as regional water towers for the Indo-Gangetic rivers.
 
@@ -692,20 +767,36 @@ Himalayan glaciers act as regional water towers for the Indo-Gangetic rivers.
 
 Wind needs dry ground, sparse vegetation and a sand or silt supply — hot deserts and cold loess belts both qualify.
 
-- Transport modes are **surface creep**, **saltation** (the main sand hop) and suspension (dust / loess).
-- **Erosional** signatures include **deflation** hollows and playas, **yardangs** (streamlined, wind-parallel), **zeugen** (tabular on a hard cap), mushroom / pedestal rocks, ventifacts, **inselbergs**, pediments, desert pavement (**reg**) and bare-rock **hamada**.
-- An **erg** is a sand sea — a depositional province.
-- A **star / pyramidal dune** forms under multi-directional winds.
+### Wind work and erosional forms — Teaching Card
 
-**Depositional**
+- Wind moves sand mainly by **surface creep** and **saltation** (the hopping bounce); fine dust travels in **suspension** and builds **loess**.
+- **Deflation** lifts fine dust and lowers desert floors into hollows and **playas**.
+- A **yardang** is a streamlined ridge carved **parallel to the wind** by abrasion — elongated and wind-aligned.
+- A **zeugen** is a tabular residual rock sitting on a hard cap after softer rock around it is stripped.
+- **Mushroom / pedestal** rocks stand on a narrow stem where near-ground abrasion undercuts the base.
+- **Ventifacts** are pebbles polished and faceted by sandblast.
+- An **inselberg** is an isolated residual hill rising from a worn plain; **pediments** are gently sloping rock aprons at mountain feet.
+- Desert pavement (**reg**) is a stone armour left after fines are blown away; bare-rock desert is **hamada**.
+- An **erg** is a sand sea — a depositional province of dunes, not an erosional hollow.
 
-| Form | Meaning |
-|------|------|
-| **Barchan** | Crescent; **horns point downwind** |
-| Seif / longitudinal | Long ridge **parallel** to wind |
-| Transverse | Crest **across** wind, plentiful sand |
-| Parabolic | Horns **upwind** (coastal; opposite barchan) |
-| **Loess** | Wind-laid silt; fertile; **China** loess plateau — **Imphal is not loess** |
+### Dunes and loess — Teaching Card
+
+- A **barchan** is a crescent dune with horns that point **downwind** (with the wind).
+- A **parabolic** dune is also crescent-shaped, but its horns point **upwind** (into the wind) — often coastal and vegetation-anchored; it is the **opposite** of a barchan.
+- A **seif / longitudinal** dune is a long ridge running **parallel** to the dominant wind.
+- A **transverse** dune has its crest **across** the wind where sand supply is plentiful.
+- A **star / pyramidal** dune grows under **multi-directional** winds into a peaked hub with radiating arms.
+- **Loess** is wind-laid silt — fertile and thick on China’s loess plateau.
+- The **Imphal** basin is **lacustrine** (old lake floor), **not** loess — do not swap the two plains.
+
+| Form | Quick recall |
+|------|--------------|
+| Barchan | Crescent; horns **downwind** |
+| Parabolic | Crescent; horns **upwind** (opposite barchan) |
+| Seif / longitudinal | Ridge parallel to wind |
+| Transverse | Crest across wind |
+| Star / pyramidal | Multi-directional winds |
+| Loess | Wind silt; China — **not** Imphal |
 | Erg | Sand sea |
 
 ---
@@ -716,16 +807,25 @@ Waves run **swash** up the beach and **backwash** down. **Longshore drift** move
 
 - The **erosional** coastal chain runs cliff, then wave-cut platform, then notch, then cave, then **arch**, then **stack**, then stump.
 
-**Depositional coastal forms**
+### Depositional coastal forms — Teaching Card
 
-| Form | Meaning |
-|------|---------|
-| **Beach** | Wave-built sand or shingle along the shore |
-| **Spit** | Narrow ridge of sand or shingle attached at **one** end to the coast |
-| **Bar** | Ridge that closes or nearly closes a bay and often traps a **lagoon** behind it |
-| **Tombolo** | Bar that ties an **island** to the mainland |
-| **Hook** | Curved spit tip bent by wave refraction |
-| **Barrier island** | Elongated offshore island built parallel to the coast |
+Longshore drift and wave deposition build soft coastal forms in shallow water.
+
+- A **beach** is a wave-built strip of sand or shingle along the shore.
+- A **spit** is a narrow ridge of sand or shingle attached at **one** end to the coast and free at the other — it grows in the direction of longshore drift.
+- A **bar** is a ridge that closes or nearly closes a bay mouth and often traps a quiet **lagoon** behind it.
+- A **tombolo** is a bar that ties an **island** to the mainland (or joins two islands).
+- A **hook** is a spit tip bent into a curve by wave refraction around the free end.
+- A **barrier island** is an elongated offshore island built roughly parallel to the mainland coast.
+
+| Form | Quick recall |
+|------|--------------|
+| Beach | Wave-built sand / shingle strip |
+| Spit | Attached at one end; free tip |
+| Bar | Closes a bay; lagoon behind |
+| Tombolo | Island tied to mainland |
+| Hook | Curved spit tip |
+| Barrier island | Offshore, parallel to coast |
 
 **Coral reefs — Teaching Card**
 

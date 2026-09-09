@@ -156,12 +156,18 @@ Agriculture is the primary activity that raises crops and/or animals. Teaching f
 | **Shifting / slash-and-burn** | Humid tropics | Millets, maize, cassava, upland rice | See shifting-cultivation card below |
 | **Collective / cooperative** | Former USSR kolkhoz; Israel kibbutz; Denmark dairy co-ops | Shared marketing / land | Secondary example |
 
-**Viticulture / sericulture / pisciculture / apiculture** (definition MCQs)
+**Viticulture / sericulture / pisciculture / apiculture**
 
-| Term | Meaning |
-|------|------|
+- **Viticulture** is the cultivation of grapes, especially for wine, in France, Italy, Spain, California, Chile, Australia and the Cape.
+- **Sericulture** is silk rearing; **China** leads world volume, while India’s mulberry belt runs through Karnataka, Andhra Pradesh and West Bengal, with tussar, eri and muga as other silk types.
+- **Pisciculture** is the rearing of fish in ponds, tanks or controlled waters.
+- **Apiculture** is beekeeping for honey and related products.
+- **Floriculture** is commercial flower growing; the Netherlands flower auction is the classic world hub.
+
+| Term | Recall |
+|------|--------|
 | **Viticulture** | Grapes (wine) — France, Italy, Spain, California, Chile, Australia, Cape |
-| **Sericulture** | Silk — **China** volume; India (Mulberry Karnataka–AP–WB; also tussar/eri/muga) |
+| **Sericulture** | Silk — **China** volume; India mulberry + tussar/eri/muga |
 | **Pisciculture** | Fish rearing |
 | **Apiculture** | Bees / honey |
 | **Floriculture** | Flowers (Netherlands auction) |
@@ -734,14 +740,21 @@ India’s state-wise GR belt (Punjab–Haryana–western UP) is an India-agricul
 
 **Definitions**
 
-| Term | Meaning |
-|------|---------|
+- **Apiculture** is beekeeping for honey and hive products.
+- **Viticulture** is grape growing; **viniculture** is the wine-making side of that story.
+- **Pomology** is the science and practice of fruit growing.
+- **Olericulture** means vegetable cultivation — it is **not** the full label for all horticulture.
+- **Horticulture** is the wider umbrella of fruits, vegetables and flowers together.
+- **Green Box** support under the WTO Agreement on Agriculture covers allowed payments such as research, pest and disease control, training, and marketing or promotion — not a fertiliser or irrigation subsidy dump.
+
+| Term | Recall |
+|------|--------|
 | **Apiculture** | Bees / honey |
-| **Viticulture** | Grapes (viniculture when for wine) |
+| **Viticulture** | Grapes (viniculture = wine side) |
 | **Pomology** | Fruits |
-| **Olericulture** | Vegetables (not “horticulture” as the vegetable-only label) |
-| Horticulture | Fruits + vegetables + flowers (wider umbrella) |
-| **Green Box** (AoA) | Allowed support — research, pest/disease control, training, marketing/promotion (not a fertiliser/irrigation dump) |
+| **Olericulture** | Vegetables only |
+| Horticulture | Fruits + vegetables + flowers |
+| **Green Box** (AoA) | Allowed support — research, pest control, training, marketing |
 
 **Livestock / dairy:** India is the milk **volume** leader. Mad-cow disease damaged beef’s “safe food” image in Europe and America. Commercial viticulture is classic **Mediterranean** (about 85% of grapes go to wine in that story).
 

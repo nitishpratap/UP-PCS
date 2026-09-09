@@ -608,16 +608,24 @@ Of **100** units of insolation at the top of the atmosphere:
 
 **Humidity** is the amount of water vapour in the air. That vapour comes mainly from **evaporation** over oceans, lakes, wet soils and plants.
 
-| Term | Meaning |
-|------|---------|
-| **Absolute humidity** | Mass of vapour in a given volume of air |
-| **Relative humidity** | Vapour present as a **percentage of saturation** at that temperature |
-| **Specific humidity** | Mass of vapour per unit mass of moist air |
+### Humidity terms — Teaching Card
 
+- **Absolute humidity** is the **mass of water vapour** in a given **volume** of air — how many grams of vapour sit in a cubic metre.
+- **Relative humidity** is that vapour expressed as a **percentage of saturation** at the **same temperature** — how full the air is compared with what it could hold.
+- **Specific humidity** is the mass of vapour per unit mass of **moist air** — useful because it stays steadier when air expands or contracts.
 - Relative humidity **falls as temperature rises** if the vapour mass stays the same, because warmer air can hold more water before saturation.
 - Moisture generally **decreases with latitude**.
 - About **90%** of atmospheric moisture sits in the lowest ~**5 km**.
 - Summer “humid heat” feels **muggy** when absolute vapour is high and evaporation from the skin is slow.
+
+| Term | Quick recall |
+|------|--------------|
+| Absolute humidity | Mass of vapour per volume of air |
+| Relative humidity | % of saturation at that temperature |
+| Specific humidity | Mass of vapour per mass of moist air |
+
+### Dew and frost
+
 - **Dew** forms when a clear, calm night lets the ground lose long-wave heat until air near the surface cools to the **dew point**.
 - Vapour then condenses on cold surfaces as liquid dew.
 - Cloudy nights keep the surface warmer, so dew often fails.
@@ -1315,11 +1323,19 @@ D. 4, 3, 2, 1
 
 An earthquake is shaking from a sudden release of energy in the **lithosphere**. Natural earthquakes occur in the lithosphere.
 
-| Term | Meaning |
-|------|---------|
-| **Focus / hypocentre** | Point of **initial rupture** inside the Earth |
-| **Epicentre** | Point on the **surface directly above** the focus — where surface effects / first observations are tied in coaching keys |
-| Instrument | **Seismograph / seismometer** records waves; a **seismogram** is the record |
+### Earthquake terms — Teaching Card
+
+- The **focus** (or **hypocentre**) is the point of **initial rupture** inside the Earth — where the slip starts underground.
+- The **epicentre** is the point on the **surface directly above** the focus — the surface spot coaching keys tie to felt effects and first observations.
+- Memory pair: **focus = underground start**; **epicentre = surface above it**.
+- A **seismograph / seismometer** detects and records the waves; a **seismogram** is the paper or digital **record** of that motion.
+
+| Term | Quick recall |
+|------|--------------|
+| Focus / hypocentre | Underground rupture point |
+| Epicentre | Surface point above the focus |
+| Seismograph / seismometer | Instrument that records waves |
+| Seismogram | The wave record itself |
 
 **Three wave families** — remember **P** (Primary), **S** (Secondary), and **surface** (Love / Rayleigh).
 
