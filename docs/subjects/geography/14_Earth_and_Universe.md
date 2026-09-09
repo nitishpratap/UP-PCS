@@ -423,33 +423,83 @@ India’s extreme longs / Tropic **states**. **15° / IDL / IST meridian**
 
 ## N.6 Atmosphere & Its Structure
 
-Composition (dry air): **N₂ ~78%**, **O₂ ~21%**, Ar ~0.9%, CO₂ ~0.04%. Water vapour variable.
+The **atmosphere** is the envelope of gases held around Earth by gravity. Most of its mass sits in the lower layers. Almost all ordinary weather forms in the **troposphere**.
 
-| Layer | Approx. height | Teaching note |
-|-------|----------------|---------------|
-| **Troposphere** | ~8–18 km (thicker at the equator) | Holds almost all weather; temperature usually falls at about **6.5°C per km** |
-| **Stratosphere** | ~18–50 km | Holds the **ozone** UV shield; dry and largely free of weather, so ideal for jet flight |
-| **Mesosphere** | ~50–80 km | Coldest layer; meteors burn here |
-| **Thermosphere / Ionosphere** | above ~80 km (often framed ~80–640 km) | Reflects radio waves and hosts the **aurora** |
-| **Exosphere** | outermost fringe | Merges into space; coaching notes often place communication-satellite orbits with this outer frame |
+### Composition of dry air (by volume)
 
-- The atmosphere is heated mainly by **long-wave terrestrial radiation**, not by incoming short-wave alone.
-- Diffusion / scattering of light in the classic coaching set is linked with **dust particles**.
+| Gas | Approx. share | Teaching note |
+|-----|---------------|---------------|
+| **Nitrogen (N₂)** | **~78.08%** | Most abundant; largely inert in ordinary weather |
+| **Oxygen (O₂)** | **~20.95%** | Second; needed for respiration and combustion |
+| **Argon (Ar)** | **~0.93%** | Main noble gas; **not** a greenhouse gas |
+| **Carbon dioxide (CO₂)** | **~0.04%** (~400 ppm class) | Trace but strong greenhouse gas; varies with season and human activity |
+| Neon, helium, methane, krypton, hydrogen, etc. | Trace | Very small permanent or near-permanent fractions |
 
-**Permanent vs variable gases:** N₂, O₂, Ar stay nearly constant day to day; CO₂, O₃, water vapour vary.
+Water vapour is **not** fixed in the dry-air table. Its share is **variable** — near **0%** over cold deserts and up to about **4%** over warm humid air.
 
-**Layer teaching (bottom → top)**
+Abundance order for dry air: **N₂ → O₂ → Ar → CO₂**.
 
-- The **troposphere** holds almost all weather. Temperature usually falls with height at about **6.5°C per km**.
-- The **stratosphere** holds the **ozone** shield. It is dry and largely free of weather, so it is ideal for jet flight.
-- The **mesosphere** is colder still; meteors burn here.
-- The **thermosphere / ionosphere** reflects radio waves and hosts the **aurora**.
-- The **exosphere** is the outermost fringe that merges into space. Some coaching notes place communication-satellite orbits with this outer frame.
+### Permanent vs variable constituents
 
-**Correct upward order:** Troposphere → Stratosphere → Mesosphere → Ionosphere/Thermosphere → Exosphere.
+| Type | Gases / constituents | Teaching note |
+|------|----------------------|---------------|
+| **Permanent** | N₂, O₂, Ar (+ other rare noble gases) | Shares stay nearly constant day to day in the lower atmosphere |
+| **Variable** | Water vapour, CO₂, O₃, aerosols / dust | Change with place, season, height and human activity |
+
+- **Argon** is common among the permanent traces, but it is **not** counted as a greenhouse gas in the usual prelims set.
+- **Ozone (O₃)** is a variable gas. Its protective UV shield sits mainly in the **stratosphere**.
+- Dust and aerosols help **scatter** light in the classic coaching set.
+
+### Vertical structure (bottom → top)
+
+| Layer | Approx. height | Temp. with height | Must-score note |
+|-------|----------------|-------------------|-----------------|
+| **Troposphere** | ~8 km (poles) → ~18 km (equator); avg ~13 km | Usually **falls** (~**6.5°C/km**) | Holds almost all weather and most water vapour |
+| **Tropopause** | Top of troposphere | Transition | Higher over the equator; lower over the poles |
+| **Stratosphere** | ~18–50 km | **Rises** (ozone absorbs UV) | **Ozone** UV shield; dry; good for jet flight |
+| **Stratopause** | ~50 km | Transition | Boundary above the stratosphere |
+| **Mesosphere** | ~50–80 km | **Falls** | Coldest broad layer; **meteors** burn here |
+| **Mesopause** | ~80 km | Transition | Coldest region of the atmosphere |
+| **Thermosphere / Ionosphere** | above ~80 km (often framed ~80–640 km) | **Rises** strongly | Reflects radio waves; hosts the **aurora** |
+| **Exosphere** | outermost fringe | Merges into space | Very thin; outer frame for some communication-satellite orbits |
+
+**Correct upward order:** Troposphere → Stratosphere → Mesosphere → Thermosphere / Ionosphere → Exosphere.
+
+### Layer teaching (full sentences)
+
+- The **troposphere** is the lowest layer. It holds almost all ordinary weather and most water vapour. Temperature usually falls with height at about **6.5°C per km**.
+- The **tropopause** is the lid of the troposphere. It sits higher near the equator and lower near the poles.
+- The **stratosphere** holds the **ozone** shield that absorbs harmful UV. Temperature rises upward here because ozone absorbs ultraviolet energy. The layer is dry and largely free of weather, so it suits jet flight.
+- The **mesosphere** cools with height. Meteors burn in this layer.
+- The **thermosphere** heats strongly with height. The **ionosphere** in this region reflects radio waves and hosts the **aurora**.
+- The **exosphere** is the outermost fringe that merges into space.
+
+### Homosphere and heterosphere
+
+| Zone | Rough extent | Mixing |
+|------|--------------|--------|
+| **Homosphere** | Surface to ~80–100 km | Turbulent mixing keeps major gas ratios roughly uniform |
+| **Heterosphere** | Above ~80–100 km | Gases sort more by molecular weight |
+
+### Heating, ozone and inversion
+
+| Idea | Correct |
+|------|---------|
+| Main atmospheric heating | **Long-wave terrestrial** radiation from Earth’s surface |
+| Ozone maximum / UV shield | **Stratosphere** |
+| Ozone hole focus | **Antarctica** (spring) |
+| Montreal Protocol | Cut **CFCs** (ozone path), not the Kyoto climate path |
+| Normal lapse (troposphere) | About **6.5°C/km** fall with height |
+| Temperature inversion | Lapse reversed in a layer → cold air and pollution can trap |
+
+- The atmosphere is heated mainly from **below**. Short-wave insolation warms the surface; the surface then emits **long-wave**, which the air absorbs.
+- The **ozone hole** is strongest over **Antarctica** in spring. The **Montreal Protocol** cut CFCs that deplete ozone.
+- **Temperature inversion** means the normal lapse is reversed for a short height band (valley nights, fronts, pollution trapping).
 
 
 **Inline PYQ — UPPCS Prelims 2025, Q45**
+
+**Logic:** Statement 1 tests the UV-shield role of ozone. Statement 2 tests the CFC–depletion link. Both are true; the shield itself sits in the **stratosphere**, not the troposphere.
 
 With reference to the ozone layer, which of the following statements is/are correct?
 
@@ -467,10 +517,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Ozone UV shield is in the **stratosphere**; CFCs deplete it.
+**Ans: C.** Both statements are correct. Stratospheric ozone absorbs harmful UV. CFCs release chlorine that destroys ozone. Trap: do not place the protective ozone layer in the troposphere.
+
 </details>
 
 **Inline PYQ — UPPCS Prelims 2022, Q138**
+
+**Logic:** The stem tests how the air is warmed. Incoming short-wave mainly heats the ground; the atmosphere takes most of its heat from **outgoing long-wave**.
 
 The atmosphere is heated mainly by:
 
@@ -485,17 +538,9 @@ D. Only geothermal heat
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Earth’s surface absorbs short-wave insolation and re-radiates long-wave infrared. Greenhouse gases and the lower air absorb that long-wave, so heating is mainly from below. Trap: “direct short-wave alone” is the usual wrong option.
+
 </details>
-**Heat budget (NCERT 100 units of insolation)**
-
-| Fate | Units |
-|------|-------|
-| Reflected / scattered to space (**planetary albedo**) | ~**35** |
-| Absorbed by atmosphere | ~**14** |
-| Absorbed by Earth’s surface | ~**51** |
-
-Earth then returns energy as **long-wave** (the 2022 heating fact). Ozone **hole** = **Antarctica** (spring); Montreal cut CFCs. Temperature **inversion** = lapse reversed (valley nights, fronts).
 
 ---
 
