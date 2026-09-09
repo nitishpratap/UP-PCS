@@ -27,7 +27,7 @@ D. Himachal Pradesh and China
 
 ### Q2. The shape of Atoll is
 
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+**Logic:** Atoll = coral rim around a lagoon — shape is horseshoe / ring, not triangle or rectangle.
 
 The shape of Atoll is:
 
@@ -39,7 +39,7 @@ D. Triangular
 <details>
 <summary>Show answer</summary>
 
-**Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
+**Ans: C.** An atoll encloses a **central lagoon**, so the outline is **horseshoe / ring**. Trap: triangular (delta) or rectangular (joint coasts).
 
 </details>
 

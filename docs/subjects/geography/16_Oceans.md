@@ -792,7 +792,7 @@ Reefs cover only a tiny share of ocean floor but host a huge share of marine spe
 
 **Great Barrier Reef** is the world’s largest reef system. It lies off **NE Australia / Queensland** in the **Pacific** and stretches about **2300 km**. Coaching figures often list roughly 400 coral types, 1500 fish types and 4000 mollusc types.
 
-Reef types include **fringing** reefs close to shore, **barrier** reefs offshore with a lagoon, and **atolls** as ring or horseshoe reefs around a lagoon. **Addu Atoll** in the southern Maldives sits in the **Indian Ocean**. India’s own reef tracts are taught with the biodiversity chapter (Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh).
+Reef types include **fringing** reefs close to shore, **barrier** reefs offshore with a lagoon, and **atolls** as **ring or horseshoe** reefs around a lagoon. The **shape of an atoll** is therefore **horseshoe / ring**, not triangular or rectangular. **Addu Atoll** in the southern Maldives sits in the **Indian Ocean**. India’s own reef tracts are taught with the biodiversity chapter (Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh).
 
 ---
 

@@ -3652,7 +3652,9 @@ D. 2 and 4 only
 
 Older stems from Ghatnachakra CB–51+ (rock cycle → volcanoes). Teaching lives in N.16A–N.18 of Topic 14. Do not rewrite the year-coded UPPCS 2018–2025 bank. Skip an exact Rainier–Etna–Paricutin–Apo 2021 duplicate (already in UPPCS bank); other Match Lists OK.
 
-**Q-GC1. Ghatnachakra / standard**
+**Logic:** Multi-statement sedimentary desk — surface formation, weathered parents, fossils, and strata. All four are true; the trap is cutting one classic trait.
+
+**Q-GC1. IAS (Pre) 2001 / Ghatnachakra**
 
 Consider the following statements about **sedimentary rocks**:
 
@@ -3674,7 +3676,7 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All four statements are standard sedimentary pairs: surface deposition, weathered fragments, fossils, and layering.
+**Ans: D.** Statement **1** is true — sedimentary rocks form at or near the surface. Statement **2** is true — fragments come from weathered preexisting rocks. Statement **3** is true — fossils favour sedimentary burial. Statement **4** is true — beds occur as **strata**. Trap: dropping fossils or layering as “optional.”
 
 </details>
 
@@ -3754,7 +3756,9 @@ D. Granite
 
 </details>
 
-**Q-GC6. Ghatnachakra / standard**
+**Logic:** Origin of metamorphic rocks — heat and pressure remake any preexisting rock, not one family alone.
+
+**Q-GC6. Jharkhand P.C.S. (Pre) 2011 / Ghatnachakra**
 
 Metamorphic rocks can originate from
 
@@ -3769,11 +3773,13 @@ D. neither igneous nor sedimentary rocks
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Metamorphism** can remake **any** preexisting rock—igneous, sedimentary, or an older metamorphic rock.
+**Ans: C.** **Metamorphism** remakes **igneous** and **sedimentary** parents (and older metamorphic rock too). Trap: locking the family to sedimentary parents alone because fossils favour sediment.
 
 </details>
 
-**Q-GC7. Ghatnachakra / standard**
+**Logic:** NOT-metamorphic trap — marble, quartzite and slate are remade rocks; granite cools from magma.
+
+**Q-GC7. Uttarakhand P.C.S. (Pre) 2006 / Ghatnachakra**
 
 Which of the following is **not** a metamorphic rock?
 
@@ -3788,26 +3794,28 @@ D. Granite
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Granite** is **igneous** (intrusive). Marble, quartzite, and slate are metamorphic products.
+**Ans: D.** **Granite** is **igneous** (intrusive). **Marble** comes from limestone. **Quartzite** comes from sandstone. **Slate** comes from shale. Trap: calling granite metamorphic because gneiss is its metamorphic child.
 
 </details>
 
-**Q-GC8. Ghatnachakra / standard**
+**Logic:** Odd-one-out — sandstone, limestone and shale share the sedimentary family; gneiss is metamorphic.
 
-Which of the following is the **odd one out** among sedimentary types?
+**Q-GC8. Uttarakhand P.C.S. (Pre) 2012 / Ghatnachakra**
 
-A. Sandstone
+Which one of the following is **not** associated with the sedimentary ‘group’?
 
-B. Limestone
+A. Gneiss
 
-C. Shale
+B. Sandstone
 
-D. Gneiss
+C. Limestone
+
+D. Shale
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Gneiss** is **metamorphic** (from granite). Sandstone, limestone, and shale are sedimentary.
+**Ans: A.** **Sandstone, limestone and shale** are sedimentary. **Gneiss** is metamorphic (often from granite). Trap: picking limestone because it also drives karst landforms.
 
 </details>
 
@@ -4124,9 +4132,11 @@ D. Baltic Sea region
 
 </details>
 
-**Q-GC25. Ghatnachakra / standard**
+**Logic:** Magma vs lava naming — options list surface melt and rock names; the underground melt word is missing, so the key is “none.”
 
-Molten rock **inside** the Earth before it reaches the surface is called
+**Q-GC25. Uttarakhand P.C.S. (Pre) 2006 / Ghatnachakra**
+
+Molten material **inside** the Earth is called
 
 A. lava
 
@@ -4139,26 +4149,28 @@ D. none of the above
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Underground melt is **magma**; lava, basalt, and obsidian refer to surface or solidified forms—not the subsurface melt name.
+**Ans: D.** The correct name is **magma**, which is not listed. **Lava** is melt that has reached the surface. **Basalt** and **obsidian** are solidified volcanic rocks. Trap: equating lava with underground melt.
 
 </details>
 
-**Q-GC26. Ghatnachakra / standard**
+**Logic:** Magma cools deep → plutonic (intrusive); surface lava cools → volcanic (extrusive).
 
-Rock formed by the **slow solidification of magma deep inside** the crust is called
+**Q-GC26. Uttarakhand P.C.S. (Pre) 2006 / Ghatnachakra**
 
-A. volcanic rock
+Rock formed **inside** the Earth by solidification of magma is called
 
-B. plutonic rock
+A. plutonic rock
 
-C. clastic sediment
+B. volcanic rock
 
-D. peat
+C. metamorphic rock
+
+D. sedimentary rock
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Plutonic / intrusive** igneous rock crystallises slowly at depth (e.g. granite, gabbro).
+**Ans: A.** **Plutonic / intrusive** igneous rock crystallises slowly at depth (e.g. granite, gabbro). **Volcanic** rock cools at the surface. Trap: calling deep-cooled granite “volcanic” because magma is linked to volcanoes.
 
 </details>
 
@@ -4751,6 +4763,48 @@ D. the Bundelkhand granite plateau
 <summary>Show answer</summary>
 
 **Ans: A.** **Krakatoa’s** 1883 blast emptied its magma chamber and left a **caldera**—a classic collapse landform.
+
+</details>
+
+**Logic:** Constructional vs erosional landforms — a volcanic cone is built by erupted material; residual mountain, monadnock, and erosional waterfall are carved leftovers.
+
+**Q-GC56. Uttarakhand P.C.S. (Pre) 2016**
+
+Which of the following is a **basic** landform?
+
+A. Volcanic cone
+
+B. Residual mountain
+
+C. Monadnock
+
+D. Erosional waterfall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A **volcanic cone** is a **constructional / basic** landform built by lava, ash, and cinders. **Residual mountain**, **monadnock**, and **erosional waterfall** are erosional leftovers. Trap: calling every highland “basic” because it stands above the plain.
+
+</details>
+
+**Logic:** Fossils need sedimentary burial — granite is igneous magma cool; option order places granite second.
+
+**Q-GC57. Jharkhand P.C.S. (Pre) 2013**
+
+Which of the following rocks is **not** likely to contain fossils?
+
+A. Conglomerate
+
+B. Granite
+
+C. Shale
+
+D. Sandstone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Granite** is **igneous** and crystallises from magma, so fossils do not survive. **Conglomerate**, **shale**, and **sandstone** are sedimentary and may hold fossils. Trap: picking shale because it looks “hard and crystalline.”
 
 </details>
 
