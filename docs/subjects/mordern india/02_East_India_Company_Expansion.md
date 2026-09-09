@@ -8,9 +8,9 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 
 </details>
 
-> **Sources baked in:** NCERT *Themes in Indian History Part III*, Spectrum *A Brief History of Modern India*, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** NCERT *Themes in Indian History Part III*, Spectrum *A Brief History of Modern India*, UPPCS Prelims PYQs 2018–2025, Ghatnachakra Indian History (EIC & Nawabs of Bengal)
 > **Weight:** ★★★ — Plassey/Buxar/Diwani, treaty-year matching, Mysore/Maratha/Sikh chronology, Subsidiary vs Lapse, Sugauli
-> **Last verified:** August 2026
+> **Last verified:** September 2026
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -18,8 +18,8 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 ## Consolidated — 26 Must-Score Facts
 
 1. Company rule grew in phases: factories → **Plassey puppet (1757)** → **Diwani (1765)** → Dual Government ends **1772** → Ring Fence → **Subsidiary Alliance (Wellesley from 1798)** → Paramountcy → **Lapse and annexations (Dalhousie)**.
-2. **Battle of Plassey, 23 June 1757:Cause** — Siraj feared English forts and dastak misuse; court conspiracy with Clive. **Course** — short fight; Mir Jafar held back. **Result** — Mir Jafar became puppet Nawab; **no Diwani yet**.
-3. **Battle of Buxar, 22 October 1764:Cause** — Mir Qasim joined **Shuja-ud-Daula** and **Shah Alam II**. **Course** — **Hector Munro** won a real pitched battle (Clive was in England). **Result** — Company supremacy in northern India.
+2. **Battle of Plassey, 23 June 1757. Cause** — Siraj feared English forts and dastak misuse; court conspiracy with Clive. **Course** — short fight; Mir Jafar held back. **Result** — Mir Jafar became puppet Nawab; **no Diwani yet**.
+3. **Battle of Buxar, 22 October 1764. Cause** — Mir Qasim joined **Shuja-ud-Daula** and **Shah Alam II**. **Course** — **Hector Munro** won a real pitched battle (Clive was in England). **Result** — Company supremacy in northern India.
 4. The **Treaty of Allahabad (August 1765)** gave the Company the **Diwani** of Bengal, Bihar and Orissa. Clive settled; Munro had fought.
 5. **Diwani** means revenue collection. **Nizamat** means police and criminal justice in the Nawab’s name. Under Dual Government the Company took profit and dodged blame.
 6. **Dual Government (1765–72)** was Clive’s design. **Warren Hastings ended it in 1772** and took direct civil and revenue charge.
@@ -237,6 +237,7 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 - Munro’s disciplined Company sepoys and artillery faced a much larger Indian coalition.
 - The fight was a **real pitched battle**, not a Plassey-style conspiracy.
 - Coalition coordination broke under Munro’s attack. Mir Qasim’s contingent failed to hold.
+- **Henry Vansittart** was Governor of Bengal at the time of Buxar; **Mir Jafar** was again Nawab of Bengal on the Company side of the political ledger.
 - Shuja-ud-Daula’s army was driven back. Shah Alam II’s position collapsed with the field.
 - The triple alliance was **routed**. Mir Qasim fled again. Shuja retreated toward Awadh. Shah Alam sought terms with the English.
 
@@ -1514,6 +1515,210 @@ D. Jamadani
 
 ---
 
+## Ghatnachakra Extra Drill — EIC & Nawabs of Bengal
+
+Teaching for these stems sits in **2.1–2.5** (and Wandiwash chronology with Carnatic markers in Topic 12 / §2.0 phase map).
+
+**Logic:** Last Mughal-appointed Bengal governor = Murshid Quli Khan.
+
+**Q1. UPPCS (Mains) 2013 / UP R.O./A.R.O. (Pre) 2021**
+
+Who was the last Governor / Subedar of Bengal appointed by the Mughal Emperor?
+
+A. Sarfraz Khan
+
+B. Murshid Quli Khan
+
+C. Alivardi Khan
+
+D. Shujauddin Muhammad Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Murshid Quli Khan** (promoted under **Farrukhsiyar**, **1717**). Later Nawabs were hereditary/local successions ratified at court, not fresh independent Mughal appointments in the same sense.
+
+</details>
+
+**Logic:** Plassey = political foothold; Buxar = decisive supremacy; Clive = founder / Heaven-Born General.
+
+**Q2. MPPCS / UKPCS / UPPCS**
+
+War that began consolidation of British supremacy / first decisive military success / Plassey year / who defeated Siraj / founder of British Empire in India / Heaven-Born General?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Often keyed **Plassey** for foothold / first decisive Company success in Bengal politics; year **1757**; **Robert Clive**; Pitt’s phrase **Heaven-Born General**. Many texts still call **Buxar** the more decisive military proof of supremacy.
+
+</details>
+
+**Logic:** Plassey field = West Bengal (Nadia / Bhagirathi).
+
+**Q3. Uttarakhand PCS (Pre) 2010**
+
+Battlefield of Plassey is situated in:
+
+A. Bihar
+
+B. Andhra Pradesh
+
+C. Orissa
+
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Palashi**, Nadia district, on the **Bhagirathi**.
+
+</details>
+
+**Logic:** Capital shift Murshidabad → Munger = Mir Qasim.
+
+**Q4. IAS (Pre) 2005 / UP Lower Sub. 2003**
+
+Who shifted his capital from Murshidabad to Munger?
+
+A. Alivardi Khan
+
+B. Siraj-ud-Daula
+
+C. Mir Jafar
+
+D. Mir Qasim
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Mir Qasim** — distance from Calcutta; European-style army; matchlock works at Munger.
+
+</details>
+
+**Logic:** Most decisive for British supremacy = Buxar; Delhi ruler then = Shah Alam II; Bengal Nawab then = Mir Jafar; treaty = Allahabad; Diwani from Shah Alam II under Clive.
+
+**Q5. UPPCS / MPPCS / BPSC cluster**
+
+Most significant / decisive battle / Delhi ruler at Buxar / Bengal Nawab at Buxar / treaty after Buxar / who granted Diwani / Diwani date / under which governor?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Buxar (22/23 Oct 1764)** under **Hector Munro**. Delhi: **Shah Alam II**. Bengal Nawab: **Mir Jafar**. Treaty: **Allahabad (Aug 1765)**. Diwani: **Shah Alam II** on **12 August 1765** while **Clive** was Governor.
+
+</details>
+
+**Logic:** Deputy Diwan Murshidabad/Bengal = Mohammad Reza Khan; Bihar = Shitab Rai.
+
+**Q6. BPSC (Pre) 2001**
+
+Who was appointed Deputy Diwan of Murshidabad by Clive after Allahabad?
+
+A. Mohd. Raza Khan
+
+B. Shitab Rai
+
+C. Rai Durlabh
+
+D. Syed Ghulam Hussain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Muhammad Reza Khan** (Bengal); **Raja Shitab Rai** for Bihar.
+
+</details>
+
+**Logic:** After Diwani, first hill contact = Khasi (Tirot Sing).
+
+**Q7. IAS (Pre) 2002**
+
+With which mountain tribe did the British first come into contact after the 1765 Diwani grant?
+
+A. Garo
+
+B. Khasi
+
+C. Kuki
+
+D. Tipperah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Khasi** resistance under **Tirot Sing** as roads pushed from Sylhet.
+
+</details>
+
+**Logic:** Chronology Ambur → Plassey → Wandiwash → Buxar; Wandiwash = British beat French (Lally).
+
+**Q8. IAS 2005 / UKPCS / UPPCS / BPSC**
+
+18th-c. battle order / Wandiwash winner / French commander defeated?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **Ambur (1749) → Plassey (1757) → Wandiwash (1760) → Buxar (1764)**. British defeated French; French commander **Count de Lally**.
+
+</details>
+
+**Logic:** Correct match = Wandiwash French vs EIC (not Buxar as Mir Jafar vs Clive).
+
+**Q9. IAS (Pre) 1995**
+
+Which pair is correctly matched?
+
+A. Buxar – Mir Jafar vs Clive
+
+B. Wandiwash – French vs East India Company
+
+C. Chillianwala – Dalhousie vs Marathas
+
+D. Khurda – Nizam vs EIC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Buxar was Munro vs Mir Qasim–Shuja–Shah Alam II, not Mir Jafar vs Clive.
+
+</details>
+
+**Logic:** Strongest Indian resistance to British among options often keyed Marathas.
+
+**Q10. UPPCS (Pre) 1993**
+
+Which opposed the British in India vigorously?
+
+A. Maratha
+
+B. Mughal
+
+C. Rajputana
+
+D. Sikh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Marathas** — three Anglo-Maratha wars before final suppression (**1818**).
+
+</details>
+
+**Logic:** Oudh Hindu officers — Tikait Rai as Asaf-ud-Daula’s diwan; Hindus in high posts — both true.
+
+**Q11. UP R.O./A.R.O. (Mains) 2016**
+
+Hindu Nayab Wazirs of Oudh: (1) Raja Tikait Rai was Artha Mantri of Asaf-ud-Daula (2) Certain Hindu castes held high posts under Oudh Nawabs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Both 1 and 2).**
+
+</details>
+
+
 ## Practice Zone — UPPCS Format Drill
 
 > **52 questions.** ≥60% multi-statement. Includes A/R, Match-List, chronology, NOT-matched.
@@ -2685,6 +2890,12 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 ---
 
 ## Common Traps — Don't Fall For These
+
+30. **Murshid Quli Khan** = last Bengal Subedar appointed independently by the Mughals; not Alivardi.
+31. At **Buxar**, Bengal’s Nawab on the Company ledger was **Mir Jafar**; the rebel ally was **Mir Qasim**.
+32. **Plassey** = foothold/puppet; **Buxar** = decisive pitched supremacy; **Diwani** only after **Allahabad 1765**.
+33. **Ambur → Plassey → Wandiwash → Buxar**; do not put Buxar before Wandiwash.
+34. After Diwani, first major hill clash keyed here = **Khasi** (**Tirot Sing**), not Garo/Kuki as first contact.
 
 1. **Plassey gave Diwani** → Diwani **1765** after Buxar/Allahabad.
 2. **Clive commanded Buxar** → **Hector Munro**.
