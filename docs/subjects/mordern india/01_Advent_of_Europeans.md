@@ -426,6 +426,7 @@ D. I, II, III, IV
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Match each name to the year table above. Do not sort by “famousness”. Mudki is Sikh (1845), not Mysore.
 
 **Ans: B** — III, IV, II, I = **1724 → 1759 → 1781 → 1845**.
@@ -1915,6 +1916,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** A tests the alternate name. R tests whether the Second War was Europe-driven like the First.
 
 **Ans: C** — A true. R false: the Second War was driven by **local succession** in the Carnatic and Hyderabad, not by one European peace crisis.
@@ -2179,6 +2181,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Stmt 2 confuses Carnatic (English vs French) with Anglo-Mysore (English vs Hyder/Tipu).
 
 **Ans: A** — 1 and 3 true; 2 false.
@@ -2203,6 +2206,7 @@ D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Papers test guide name, Zamorin welcome, and the false “one-year stay / 1501 revisit” trap.
 
@@ -2236,6 +2240,7 @@ D. A-4, B-1, C-2, D-3
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Almeida = Blue Water / first Viceroy; Albuquerque = Goa; Nuno = HQ shift; Cabral = 1500.
 
 **Ans: A** — Trap: swapping Almeida and Albuquerque, or giving Cabral the fort-of-Cochin tag without year sense.
@@ -2257,6 +2262,7 @@ D. Goa
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** First fort vs capital vs later Almeida forts.
 
 **Ans: C** — **Cochin 1503** by Albuquerque before he was Governor. Cannanore and Anjediva were fortified later (**1505**). Goa is **1510**.
@@ -2277,6 +2283,7 @@ D. Dutch, Portuguese, English, French
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Arrival order, not company-charter year alone.
 
@@ -2302,6 +2309,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Occupation order and the “English never” trap.
 
 **Ans: A** — Stmt 1 true. Stmt 2 false: English occupied Pondicherry in **1793** and returned it in **1814**.
@@ -2322,6 +2330,7 @@ D. Fernao Nuniz
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Three Portuguese names vs one English traveller under Shah Jahan.
 
@@ -2344,6 +2353,7 @@ D. Sir Nicholas Waite
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** 1688 Bombay crisis — attack on Mughal ports / Mecca pilgrims.
 
 **Ans: B** — **Sir John Child**.
@@ -2364,6 +2374,7 @@ D. British
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Bengal Portuguese pocket till Shah Jahan’s crackdown in **1632**.
 

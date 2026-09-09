@@ -308,7 +308,7 @@ D. Muzaffar Shah of Gujarat
 
 ## Practice Zone — UPPCS Format Drill
 
-> **38 questions** · answers in `<details>`
+> **38 questions** · answers under Show answer
 
 **Q1.** NOT correctly matched (ruler–state):
 

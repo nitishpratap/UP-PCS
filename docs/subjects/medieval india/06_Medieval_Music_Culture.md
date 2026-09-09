@@ -424,7 +424,7 @@ Amir Khusrau → Nizamuddin Auliya in disciple–guru match.
 
 ## Practice Zone — UPPCS Format Drill
 
-> **35 questions** · answers in `<details>`
+> **35 questions** · answers under Show answer
 
 **Q1.** Who patronised Tansen **before** Akbar?
 

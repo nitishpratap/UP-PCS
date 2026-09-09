@@ -772,6 +772,7 @@ D. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Malabari campaigned for the Act. Tilak opposed it on social–nationalist grounds.
 
 **Ans: C** — Malabari yes (**Lansdowne** era). Tilak **opposed**.
@@ -950,6 +951,7 @@ D. Government of India Act, 1919
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Chamber of Princes is a Montford / 1919 fact, not Morley–Minto.
 
 **Ans: D** — 1919 / Chelmsford, not Morley–Minto 1909.
@@ -975,6 +977,7 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Nair resigned from the Executive Council. Tagore returned knighthood — different protest form.
 
@@ -1185,6 +1188,7 @@ D. 4, 2, 3, 1
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Ministries quit after the war declaration; Ramgarh; then August Offer; Cripps only in 1942.
 
 **Ans: B** — Ministers resign **1939** → Ramgarh **Mar 1940** → August Offer **Aug 1940** → Cripps **1942**.
@@ -1241,6 +1245,7 @@ D. 1, 4, 2, 3
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Cripps is wartime 1942; Wavell Plan and Simla are mid-1945; Cabinet Mission is 1946.
 

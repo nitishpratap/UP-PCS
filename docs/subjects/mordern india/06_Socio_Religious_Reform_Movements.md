@@ -920,110 +920,979 @@ D. Paramhans Mandali
 
 Teaching sits in **6.1–6.26**.
 
-**Logic:** Audience of 19th-c. reform = intellectuals / urban upper castes / liberal princes — not the poor mass alone; modernisation A/R = both true and R explains A.
+**Logic:** 19th-century reform drew intellectuals and urban elites — not the rural poor mass alone.
 
 **Q1. BPSC / RAS**
 
-Who was primarily attracted by 19th-c. religious reform / first class influenced by Western civilisation / modernisation A/R?
+Who was primarily attracted by 19th-century religious reform movements in India?
+
+A. Rural landless labourers alone
+
+B. Intellectuals, urban upper castes and liberal princes
+
+C. Only orthodox temple priests
+
+D. European missionaries exclusively
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Intellectuals, urban upper castes and liberal princes (**i, ii, iv**). First strongly influenced class = **educated Hindu middle class**. Modernisation assertion and reason are **both true**, and R explains A.
+**Ans: B.** Reform reached **intellectuals, urban upper castes and liberal princes** — not the poor rural mass alone.
 
 </details>
 
-**Logic:** Roy titles; first society = Atmiya Sabha 1815; Brahmo 1828; Raja title = Akbar II; death/samadhi = Bristol; backed Western education.
+**Logic:** First class strongly touched by Western civilisation = educated Hindu middle class.
 
-**Q2. UPPCS / UKPCS / BPSC / RAS / MPPCS**
+**Q2. BPSC / RAS**
 
-Father of Indian Renaissance / first society / Brahmo year / who gave Raja title / samadhi place / what Roy did NOT protest?
+Which class was first strongly influenced by Western civilisation in 19th-century India?
+
+A. Tribal chiefs of the North-East
+
+B. Educated Hindu middle class
+
+C. Maratha peasant proprietors
+
+D. Rajput zamindars alone
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Raja Ram Mohan Roy**. First society = **Atmiya Sabha (1815)**. Brahmo **1828**. Title = **Akbar II**. Samadhi = **Bristol**. He did **not** protest Western education (he promoted it).
+**Ans: B.** The **educated Hindu middle class** led early absorption of Western ideas.
 
 </details>
 
-**Logic:** Keshab = Bhartiya Brahmo / Tabernacle + Indian Reform Association; Adi = Debendranath; Tattvabodhini = Debendranath 1839; Unitarian Committee ≠ Keshab alone.
+**Logic:** Modernisation A/R — both true; reason explains assertion.
 
-**Q3. IAS / UPPCS / UKPCS / MPPCS**
+**Q3. BPSC / RAS**
 
-Keshab linked to which bodies / Adi Brahmo founder / Tattvabodhini founder / Brahmo principle?
+Assertion (A): 19th-century Indian reformers sought modernisation of society through Western education and rational critique of custom.
+
+Reason (R): Contact with British rule exposed a section of Indians to Enlightenment ideas and utilitarian reform.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Keshab = **Tabernacle of New Dispensation** and **Indian Reform Association** (not Calcutta Unitarian Committee alone). Adi Brahmo = **Debendranath Tagore**. Tattvabodhini = **Debendranath (1839)**. Principle = **monotheism**.
+**Ans: A.** Both are true and **(R) explains (A)** — Western contact fed the modernisation urge.
 
 </details>
 
-**Logic:** Vivekananda = Neo-Hinduism / Chicago 1893 / Mission 1897 Belur / Practical Vedanta; Dayanand = Arya 1875 / Satyarth Prakash / Martin Luther / Go Back to Vedas / Swaraj–Hindi–Swadeshi.
+**Logic:** Raja Ram Mohan Roy = Father of Indian Renaissance tag.
 
-**Q4. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+**Q4. UPPCS / UKPCS / BPSC / RAS / MPPCS**
 
-Neo-Hinduism / Chicago year / Mission year / Practical Vedanta / Satyarth Prakash / Martin Luther of India / first Swaraj–Hindi tag?
+Who is called the Father of the Indian Renaissance?
+
+A. Ishwar Chandra Vidyasagar
+
+B. Raja Ram Mohan Roy
+
+C. Swami Dayanand Saraswati
+
+D. Keshab Chandra Sen
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Neo-Hinduism = **Vivekananda**. Chicago **1893**. Mission **1897** (Belur). Practical Vedanta = **Vivekananda**. *Satyarth Prakash* = **Dayanand**. Martin Luther of India = **Dayanand**. Swaraj / Hindi national language = **Dayanand**.
+**Ans: B.** **Raja Ram Mohan Roy** holds the Father of Indian Renaissance tag.
 
 </details>
 
-**Logic:** Prarthana = Atmaram Pandurang / Maharashtra; Dev Samaj = Agnihotri; Satyashodhak = Phule + Gulamgiri; Dharma Sabha = Radhakant Deb; Radhasoami = Shivdayal / Agra; Lokahitwadi = Deshmukh.
+**Logic:** Roy’s first society = Atmiya Sabha (1815), before Brahmo Samaj.
 
-**Q5. UPPCS / BPSC / UKPCS / MPPCS**
+**Q5. UPPCS / UKPCS / BPSC / RAS / MPPCS**
 
-Prarthana founder–region / Dev Samaj / Satyashodhak–Gulamgiri / orthodox Bengal body / Radhasoami founder / Lokahitwadi?
+Raja Ram Mohan Roy founded his first reform society in:
+
+A. 1828 — Brahmo Samaj
+
+B. 1815 — Atmiya Sabha
+
+C. 1839 — Tattvabodhini Sabha
+
+D. 1849 — Paramhans Mandali
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Prarthana = **Atmaram Pandurang**, **Maharashtra/Bombay**. Dev Samaj = **Shiv Narayan Agnihotri**. Satyashodhak / *Gulamgiri* = **Jyotiba Phule**. Orthodox = **Dharma Sabha (Radhakant Deb)**. Radhasoami = **Shivdayal Sahab (Agra)**. Lokahitwadi = **Gopal Hari Deshmukh**.
+**Ans: B.** First society = **Atmiya Sabha (1815)**. Brahmo Samaj came in **1828**.
 
 </details>
 
-**Logic:** Widow remarriage Maharashtra = Vishnu Parashuram Pandit; Age of Consent = Malabari 1891 (Tilak opposed); Social Conference = Ranade 1887; Widow Act 1856 = Vidyasagar; Native Marriage 1872 = Keshab; Sharda 1929 = 14/18; slavery 1843.
+**Logic:** Brahmo Samaj founding year = 1828.
 
-**Q6. UPPCS / IAS / Jharkhand / MPPCS**
+**Q6. UPPCS / UKPCS / BPSC / RAS / MPPCS**
 
-Widow remarriage Maharashtra leader / Age of Consent advocate–year / Social Conference / Widow Act leader / Native Marriage Act / Sharda ages / slavery Act year?
+The Brahmo Samaj was founded in:
+
+A. 1815
+
+B. 1828
+
+C. 1839
+
+D. 1875
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Vishnu Parashuram Pandit**. **Malabari, 1891** (Tilak opposed). Conference = **Ranade (+ Raghunath Rao), 1887**. Widow Act = **Vidyasagar, 1856**. Native Marriage = **Keshab, 1872** (girls 14 / boys 18). Sharda = **14 and 18**. Slavery illegal **1843**.
+**Ans: B.** **1828** — Roy’s organised monotheist body after Atmiya Sabha.
 
 </details>
 
-**Logic:** Theosophy = Blavatsky/Olcott New York 1875 → Adyar; Besant success in India; Servants of India = Gokhale 1905; Bahujan Samaj = Mukund Rao Patil; Nadars Tirunelveli; Tilak untouchability quote.
+**Logic:** Title Raja from Mughal emperor Akbar II — not a British viceroy.
 
-**Q7. BPSC / UPPCS / IAS**
+**Q7. UPPCS / UKPCS / BPSC / RAS / MPPCS**
 
-Theosophical Society founders / Indian success mainly due to / Servants of India / Bahujan Samaj / Tirunelveli temple-entry / who said he would not recognise a God who tolerates untouchability?
+Who conferred the title of Raja on Ram Mohan Roy?
+
+A. Lord William Bentinck
+
+B. Akbar II
+
+C. Warren Hastings
+
+D. Lord Dalhousie
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Blavatsky and Olcott** (New York **1875**; HQ **Adyar**). Success mainly **Annie Besant**. Servants of India = **Gokhale (1905)**. Bahujan Samaj = **Mukund Rao Patil**. Temple-entry riots = **Nadars**. Quote = **Bal Gangadhar Tilak**.
+**Ans: B.** **Akbar II** gave the **Raja** title. Roy’s samadhi is at **Bristol**.
 
 </details>
 
-**Logic:** Wrong pairs — Atmiya ≠ Debendranath; RK Mission ≠ Ramakrishna as founder; Ranade ≠ Theosophy; Bahishkrit Hitkarini ≠ Phule; Radhasoami ≠ Lahore.
+**Logic:** Roy promoted Western education — he did not protest it.
 
-**Q8. UPPCS / RAS**
+**Q8. UPPCS / UKPCS / BPSC / RAS / MPPCS**
 
-Which pair is wrong: Prarthana–Atmaram / Atmiya–Debendranath / Bhartiya Brahmo–Keshab / Radhasoami–Tulsiram? RK Mission founder? Servants of India match?
+Raja Ram Mohan Roy did **not** oppose which of the following?
+
+A. Sati
+
+B. Polytheistic ritual excess
+
+C. Western education and English learning
+
+D. Idol worship in public temples
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Wrong = **Atmiya Sabha–Debendranath** (Atmiya = **Roy**). RK Mission founder = **Vivekananda (1897)**. Servants of India correctly matches **Gokhale**.
+**Ans: C.** He **promoted Western education** — he did not protest it.
 
 </details>
 
+**Logic:** Keshab = Tabernacle of New Dispensation and Indian Reform Association.
+
+**Q9. IAS / UPPCS / UKPCS / MPPCS**
+
+Keshab Chandra Sen is most closely linked with:
+
+A. Adi Brahmo Samaj alone
+
+B. Tabernacle of New Dispensation and Indian Reform Association
+
+C. Tattvabodhini Sabha as sole founder
+
+D. Calcutta Unitarian Committee as his only body
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Keshab led the **Tabernacle of New Dispensation** and **Indian Reform Association** — not the Unitarian Committee alone.
+
+</details>
+
+**Logic:** Adi Brahmo Samaj = Debendranath Tagore’s conservative wing.
+
+**Q10. IAS / UPPCS / UKPCS / MPPCS**
+
+Who founded the Adi Brahmo Samaj?
+
+A. Keshab Chandra Sen
+
+B. Debendranath Tagore
+
+C. Raja Ram Mohan Roy
+
+D. Dwarkanath Tagore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Debendranath Tagore** founded **Adi Brahmo Samaj** after the Keshab split.
+
+</details>
+
+**Logic:** Tattvabodhini Sabha (1839) = Debendranath — intellectual arm of Brahmo thought.
+
+**Q11. IAS / UPPCS / UKPCS / MPPCS**
+
+The Tattvabodhini Sabha (1839) was founded by:
+
+A. Keshab Chandra Sen
+
+B. Debendranath Tagore
+
+C. Ishwar Chandra Vidyasagar
+
+D. Henry Derozio
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Debendranath Tagore (1839)** — not Keshab.
+
+</details>
+
+**Logic:** Core Brahmo principle = monotheism — one formless God.
+
+**Q12. IAS / UPPCS / UKPCS / MPPCS**
+
+The central theological principle of the Brahmo Samaj is:
+
+A. Polytheism
+
+B. Monotheism
+
+C. Atheism
+
+D. Image worship
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Monotheism** — rejection of idol worship and caste rigidity.
+
+</details>
+
+**Logic:** Neo-Hinduism tag = Vivekananda, not Dayanand or Roy.
+
+**Q13. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+
+Who is most closely associated with the Neo-Hinduism movement?
+
+A. Swami Dayanand Saraswati
+
+B. Swami Vivekananda
+
+C. Raja Ram Mohan Roy
+
+D. Bankim Chandra Chattopadhyay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vivekananda** embodies **Neo-Hinduism** — Vedanta for the modern world.
+
+</details>
+
+**Logic:** Chicago Parliament of Religions = 1893.
+
+**Q14. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+
+Swami Vivekananda addressed the World Parliament of Religions at Chicago in:
+
+A. 1885
+
+B. 1893
+
+C. 1897
+
+D. 1905
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **1893** — his global breakthrough year.
+
+</details>
+
+**Logic:** Ramakrishna Mission 1897 at Belur — Vivekananda as organiser.
+
+**Q15. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+
+The Ramakrishna Mission was founded in 1897 at:
+
+A. Mayavati
+
+B. Belur
+
+C. Almora
+
+D. Kashi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Belur** — **Vivekananda** founded the Mission in **1897**.
+
+</details>
+
+**Logic:** Practical Vedanta = Vivekananda — religion as social service.
+
+**Q16. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+
+Who propounded the idea of Practical Vedanta?
+
+A. Swami Dayanand Saraswati
+
+B. Swami Vivekananda
+
+C. Ramakrishna Paramahamsa
+
+D. Sri Aurobindo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Practical Vedanta** = **Vivekananda** — religion as social service.
+
+</details>
+
+**Logic:** *Satyarth Prakash* = Dayanand’s Vedic reform text.
+
+**Q17. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+
+*Satyarth Prakash* was written by:
+
+A. Swami Vivekananda
+
+B. Swami Dayanand Saraswati
+
+C. Raja Ram Mohan Roy
+
+D. Keshab Chandra Sen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dayanand** authored ***Satyarth Prakash*** — “Go Back to the Vedas.”
+
+</details>
+
+**Logic:** Martin Luther of India tag = Dayanand — Protestant-style Vedic purge.
+
+**Q18. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+
+Who is often called the Martin Luther of India?
+
+A. Raja Ram Mohan Roy
+
+B. Swami Dayanand Saraswati
+
+C. Swami Vivekananda
+
+D. Ishwar Chandra Vidyasagar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dayanand** — Vedic monotheism against priestly corruption.
+
+</details>
+
+**Logic:** Dayanand linked Swaraj, Hindi and Swadeshi early — before Congress mass phase.
+
+**Q19. BPSC / UPPCS / UKPCS / Chhattisgarh / RAS**
+
+Who among the following first linked Swaraj with Hindi as the national language and Swadeshi?
+
+A. Bal Gangadhar Tilak
+
+B. Swami Dayanand Saraswati
+
+C. Gopal Krishna Gokhale
+
+D. Dadabhai Naoroji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dayanand** tagged **Swaraj, Hindi and Swadeshi** together early.
+
+</details>
+
+**Logic:** Prarthana Samaj = Atmaram Pandurang in Maharashtra/Bombay.
+
+**Q20. UPPCS / BPSC / UKPCS / MPPCS**
+
+The Prarthana Samaj was founded by Atmaram Pandurang in:
+
+A. Bengal
+
+B. Maharashtra (Bombay Presidency)
+
+C. Punjab
+
+D. United Provinces
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Atmaram Pandurang** — **Maharashtra/Bombay** reform circle.
+
+</details>
+
+**Logic:** Dev Samaj = Shiv Narayan Agnihotri — Lahore-based ethical monism.
+
+**Q21. UPPCS / BPSC / UKPCS / MPPCS**
+
+The Dev Samaj was founded by:
+
+A. Jyotiba Phule
+
+B. Shiv Narayan Agnihotri
+
+C. Gopal Hari Deshmukh
+
+D. Atmaram Pandurang
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Shiv Narayan Agnihotri** founded **Dev Samaj**.
+
+</details>
+
+**Logic:** Satyashodhak Samaj + *Gulamgiri* = Jyotiba Phule.
+
+**Q22. UPPCS / BPSC / UKPCS / MPPCS**
+
+*Gulamgiri* and the Satyashodhak Samaj are associated with:
+
+A. Tarabai Shinde
+
+B. Jyotiba Phule
+
+C. M. G. Ranade
+
+D. Pandita Ramabai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Jyotiba Phule** — truth-seeking anti-caste reform.
+
+</details>
+
+**Logic:** Dharma Sabha = Radhakant Deb — orthodox Bengal reaction.
+
+**Q23. UPPCS / BPSC / UKPCS / MPPCS**
+
+Which body represented orthodox Hindu resistance to Raja Ram Mohan Roy in Bengal?
+
+A. Brahmo Samaj
+
+B. Dharma Sabha (Radhakant Deb)
+
+C. Indian Reform Association
+
+D. Paramhans Mandali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dharma Sabha** under **Radhakant Deb** defended orthodoxy.
+
+</details>
+
+**Logic:** Radhasoami = Shivdayal Sahab at Agra — not Lahore.
+
+**Q24. UPPCS / BPSC / UKPCS / MPPCS**
+
+The Radhasoami movement was founded by Shivdayal Sahab at:
+
+A. Lahore
+
+B. Agra
+
+C. Banaras
+
+D. Calcutta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Shivdayal Sahab** — **Agra** (Radhasoami Satsang).
+
+</details>
+
+**Logic:** Lokahitwadi = Gopal Hari Deshmukh — Marathi social reform pen name.
+
+**Q25. UPPCS / BPSC / UKPCS / MPPCS**
+
+The pen name Lokahitwadi belonged to:
+
+A. Gopal Hari Deshmukh
+
+B. Vishnu Shastri Chiplunkar
+
+C. Atmaram Pandurang
+
+D. Gopal Krishna Gokhale
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Gopal Hari Deshmukh** wrote as **Lokahitwadi**.
+
+</details>
+
+**Logic:** Maharashtra widow-remarriage leader = Vishnu Parashuram Pandit.
+
+**Q26. UPPCS / IAS / Jharkhand / MPPCS**
+
+Who led the widow-remarriage movement in Maharashtra?
+
+A. Behramji Malabari
+
+B. Vishnu Parashuram Pandit
+
+C. Ishwar Chandra Vidyasagar
+
+D. Keshab Chandra Sen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vishnu Parashuram Pandit** — Maharashtra strand; Bengal = Vidyasagar.
+
+</details>
+
+**Logic:** Age of Consent Act 1891 = Malabari; Tilak opposed it.
+
+**Q27. UPPCS / IAS / Jharkhand / MPPCS**
+
+The Age of Consent Act (1891) was chiefly advocated by:
+
+A. Bal Gangadhar Tilak
+
+B. Behramji Malabari
+
+C. B. M. Malabari and Tilak jointly
+
+D. Swami Dayanand Saraswati
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Malabari, 1891** — **Tilak opposed** the Act.
+
+</details>
+
+**Logic:** Indian Social Conference 1887 = Ranade with Raghunath Rao.
+
+**Q28. UPPCS / IAS / Jharkhand / MPPCS**
+
+The Indian Social Conference (1887) is associated with:
+
+A. Raja Ram Mohan Roy
+
+B. M. G. Ranade and Raghunath Rao
+
+C. Annie Besant alone
+
+D. Gopal Krishna Gokhale alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Ranade (+ Raghunath Rao), 1887** — annual social-reform forum.
+
+</details>
+
+**Logic:** Hindu Widow Remarriage Act 1856 = Vidyasagar’s Bengal campaign.
+
+**Q29. UPPCS / IAS / Jharkhand / MPPCS**
+
+The Hindu Widow Remarriage Act was passed in 1856 largely through the efforts of:
+
+A. Keshab Chandra Sen
+
+B. Ishwar Chandra Vidyasagar
+
+C. Behramji Malabari
+
+D. M. G. Ranade
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vidyasagar, 1856** — Bengal widow-remarriage law.
+
+</details>
+
+**Logic:** Native Marriage Act 1872 = Keshab — minimum ages 14 (girls) and 18 (boys).
+
+**Q30. UPPCS / IAS / Jharkhand / MPPCS**
+
+The Native Marriage Act of 1872 is associated with:
+
+A. Ishwar Chandra Vidyasagar
+
+B. Keshab Chandra Sen
+
+C. Raja Ram Mohan Roy
+
+D. Behramji Malabari
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Keshab, 1872** — girls **14**, boys **18** minimum ages.
+
+</details>
+
+**Logic:** Sharda Act 1929 = 14 and 18 — do not swap with Native Marriage ages.
+
+**Q31. UPPCS / IAS / Jharkhand / MPPCS**
+
+Under the Child Marriage Restraint Act (Sharda Act, 1929), the prescribed minimum ages were:
+
+A. 12 for girls and 16 for boys
+
+B. 14 for girls and 18 for boys
+
+C. 16 for girls and 18 for boys
+
+D. 18 for both
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **14 and 18** — Sharda Act **1929**.
+
+</details>
+
+**Logic:** Slavery declared illegal in British India = 1843 Act.
+
+**Q32. UPPCS / IAS / Jharkhand / MPPCS**
+
+Slavery was declared illegal in British India by an Act passed in:
+
+A. 1833
+
+B. 1843
+
+C. 1856
+
+D. 1872
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **1843** — Indian Slavery Act.
+
+</details>
+
+**Logic:** Theosophical Society founders = Blavatsky and Olcott, New York 1875; HQ Adyar.
+
+**Q33. BPSC / UPPCS / IAS**
+
+The Theosophical Society was founded by:
+
+A. Annie Besant and A.O. Hume
+
+B. Helena Blavatsky and Henry Olcott
+
+C. M. G. Ranade and Gokhale
+
+D. Swami Vivekananda and Ramakrishna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Blavatsky and Olcott** (**1875**, New York; HQ **Adyar**).
+
+</details>
+
+**Logic:** Theosophy’s Indian success owed most to Annie Besant.
+
+**Q34. BPSC / UPPCS / IAS**
+
+The Theosophical Society’s success in India was mainly due to:
+
+A. Henry Olcott alone
+
+B. Annie Besant
+
+C. M. G. Ranade
+
+D. Swami Dayanand Saraswati
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Annie Besant** drove Indian Theosophy after Olcott.
+
+</details>
+
+**Logic:** Servants of India Society 1905 = Gokhale.
+
+**Q35. BPSC / UPPCS / IAS**
+
+The Servants of India Society (1905) was founded by:
+
+A. M. G. Ranade
+
+B. Gopal Krishna Gokhale
+
+C. Dadabhai Naoroji
+
+D. Bal Gangadhar Tilak
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Gokhale (1905)** — trained nationalist public servants.
+
+</details>
+
+**Logic:** Bahujan Samaj = Mukund Rao Patil — Maharashtra Dalit organisation.
+
+**Q36. BPSC / UPPCS / IAS**
+
+The Bahujan Samaj was founded by:
+
+A. Jyotiba Phule
+
+B. Mukund Rao Patil
+
+C. B. R. Ambedkar
+
+D. Narayan Guru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mukund Rao Patil** — distinct from Phule’s Satyashodhak Samaj.
+
+</details>
+
+**Logic:** Nadar community — Tirunelveli temple-entry agitation.
+
+**Q37. BPSC / UPPCS / IAS**
+
+Temple-entry riots in Tirunelveli involved which community?
+
+A. Nadars
+
+B. Ezhavas
+
+C. Santhals
+
+D. Bhils
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Nadars** — Tirunelveli temple-entry struggle.
+
+</details>
+
+**Logic:** Tilak’s untouchability quote — would not worship a God tolerating it.
+
+**Q38. BPSC / UPPCS / IAS**
+
+Who said he would not recognise a God who tolerates untouchability?
+
+A. M. G. Ranade
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Swami Vivekananda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bal Gangadhar Tilak** — famous quote on untouchability.
+
+</details>
+
+**Logic:** Wrong pair trap — Atmiya Sabha = Roy, not Debendranath.
+
+**Q39. UPPCS / RAS**
+
+Which of the following pairs is **not** correctly matched?
+
+A. Prarthana Samaj — Atmaram Pandurang
+
+B. Atmiya Sabha — Debendranath Tagore
+
+C. Bhartiya Brahmo Samaj — Keshab Chandra Sen
+
+D. Radhasoami — Shivdayal Sahab
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Atmiya Sabha** = **Raja Ram Mohan Roy**, not Debendranath.
+
+</details>
+
+**Logic:** Ramakrishna Mission founder = Vivekananda (1897), not Ramakrishna personally.
+
+**Q40. UPPCS / RAS**
+
+Who founded the Ramakrishna Mission?
+
+A. Ramakrishna Paramahamsa
+
+B. Swami Vivekananda
+
+C. Swami Dayanand Saraswati
+
+D. Keshab Chandra Sen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vivekananda (1897)** — Mission organiser at Belur.
+
+</details>
+
+**Logic:** Servants of India correctly pairs with Gokhale.
+
+**Q41. UPPCS / RAS**
+
+The Servants of India Society is correctly matched with:
+
+A. M. G. Ranade
+
+B. Gopal Krishna Gokhale
+
+C. Dadabhai Naoroji
+
+D. Annie Besant
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Gokhale** — Servants of India **1905**.
+
+</details>
+
+---
+
+### UKPCS Complete PYQ Bank (Socio-Religious Reform)
+
+**Logic:** Bombay’s earliest reform body = Paramhans Mandali (1849), before Prarthana Samaj.
+
+**Q1. UKPCS Prelims 2025, Q67**
+
+The religious reforms in Bombay were started by whom?
+
+A. Prarthna Samaj
+
+B. Deoband School
+
+C. Brahmo Samaj
+
+D. Paramhans Mandali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (Series B provisional key).** **Paramhans Mandali (1849)** was Bombay’s first organised reform body. Prarthana Samaj (1867) is the frequent later confusion.
+
+</details>
+
+**Logic:** Brahmo Samaj 1828 — UKPCS-tagged Extra cluster.
+
+**Q2. UKPCS / UPPCS**
+
+The Brahmo Samaj was founded in:
+
+A. 1815
+
+B. 1828
+
+C. 1839
+
+D. 1875
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **1828** — after Roy’s **Atmiya Sabha (1815)**.
+
+</details>
+
+**Logic:** Adi Brahmo = Debendranath — UKPCS-tagged split from Keshab confusion.
+
+**Q3. UKPCS / UPPCS**
+
+Who founded the Adi Brahmo Samaj?
+
+A. Keshab Chandra Sen
+
+B. Debendranath Tagore
+
+C. Raja Ram Mohan Roy
+
+D. Dwarkanath Tagore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Debendranath Tagore** — conservative wing after the Keshab split.
+
+</details>
+
+**Logic:** Vivekananda Chicago 1893 — UKPCS-tagged Neo-Hinduism anchor.
+
+**Q4. UKPCS / UPPCS**
+
+Swami Vivekananda addressed the World Parliament of Religions at Chicago in:
+
+A. 1885
+
+B. 1893
+
+C. 1897
+
+D. 1905
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **1893** — global breakthrough of Neo-Hinduism.
+
+</details>
+
+**Logic:** Prarthana Samaj founder-region — UKPCS-tagged Maharashtra reform.
+
+**Q5. UKPCS / UPPCS**
+
+The Prarthana Samaj was founded by Atmaram Pandurang in:
+
+A. Bengal
+
+B. Maharashtra (Bombay Presidency)
+
+C. Punjab
+
+D. United Provinces
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Atmaram Pandurang** — **Maharashtra/Bombay** circle.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

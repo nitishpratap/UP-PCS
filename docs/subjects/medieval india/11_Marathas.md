@@ -488,22 +488,47 @@ D. Kanpur
 
 **Q6. UPPCS (Pre) 1990 / BPSC / UPPCS (Mains) 2016**
 
-Where was the capital of Shivaji / where was he formally crowned Chhatrapati?
+Where was the capital of Shivaji after his coronation?
 
-A. Pune / Kolhapur / Satara / Tanjore
+A. Pune
 
-B. Raigarh (Raigad)
+B. Raigad
+
+C. Satara
+
+D. Kolhapur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Raigad.** Coronation **1674**; **Gaga Bhatt** of Banaras performed the rite.
+**Ans: B.** Shivaji’s capital was **Raigad** (Raigarh). **Pune**, **Satara**, and **Kolhapur** became important later under successors and the Peshwas.
+
+</details>
+
+**Logic:** Coronation site and year pair with Raigad and Gaga Bhatt.
+
+**Q7. UPPCS (Pre) 1990 / BPSC / UPPCS (Mains) 2016**
+
+Where was Shivaji formally crowned Chhatrapati in 1674?
+
+A. Pune
+
+B. Raigad
+
+C. Shivneri
+
+D. Tanjore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Shivaji was crowned **Chhatrapati** at **Raigad** in **1674**; **Gaga Bhatt** of Banaras performed the rite.
 
 </details>
 
 **Logic:** Guru of Shivaji = Samarth Ramdas (not Gaga Bhatt).
 
-**Q7. MPPCS (Pre) 2016**
+**Q8. MPPCS (Pre) 2016**
 
 What was the name of Shivaji’s Guru?
 
@@ -524,7 +549,7 @@ D. Gaga Bhatt
 
 **Logic:** Chronology of early events (Chakan → Mughal clash → Afzal → Surat).
 
-**Q8. UP R.O./A.R.O. (Mains) 2016**
+**Q9. UP R.O./A.R.O. (Mains) 2016**
 
 Arrange: I Fort of Chakan II Afzal Khan III Start of clash with Mughals IV Sack of Surat
 
@@ -543,30 +568,72 @@ D. II, III, I, IV
 
 </details>
 
-**Logic:** Ashtapradhan = Maratha / Shivaji; Sumant = foreign affairs; Sarnobat = military.
+**Logic:** Ashtapradhan = Maratha polity under Shivaji — not Gupta, Chola, or Vijayanagara.
 
-**Q9. IAS / UPPCS / BPSC cluster**
+**Q10. IAS / UPPCS / BPSC cluster**
 
-Ashtapradhan belonged to / who established it / foreign minister name?
+The Ashtapradhan council belonged to which polity?
 
-A. Gupta / Chandragupta / Peshwa
+A. Gupta Empire
 
-B. Chola / Ashoka / Sachiv
+B. Chola Empire
 
-C. Vijayanagara / Harsha / Pandit Rao
+C. Vijayanagara Empire
 
-D. Maratha (Shivaji) / Shivaji / Sumant
+D. Maratha state (Shivaji)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D pattern.** **Ashtapradhan** = Shivaji’s eight-minister council. Foreign minister = **Sumant / Dabir**. **Sarnobat / Senapati** = military.
+**Ans: D.** **Ashtapradhan** was Shivaji’s council of eight ministers in the **Maratha** state.
+
+</details>
+
+**Logic:** Shivaji established the eight-minister Ashtapradhan — not a Mughal or Sultanate institution.
+
+**Q11. IAS / UPPCS / BPSC cluster**
+
+Who established the Ashtapradhan council of ministers?
+
+A. Chandragupta Maurya
+
+B. Ashoka
+
+C. Harsha
+
+D. Shivaji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Shivaji** created the **Ashtapradhan** — eight ministers advising on revenue, military, foreign affairs, and other departments.
+
+</details>
+
+**Logic:** Sumant / Dabir = foreign affairs; Sarnobat / Senapati = military — do not swap with Peshwa or Sachiv.
+
+**Q12. IAS / UPPCS / BPSC cluster**
+
+Who served as the foreign minister in Shivaji’s Ashtapradhan?
+
+A. Peshwa
+
+B. Sachiv
+
+C. Pandit Rao
+
+D. Sumant (Dabir)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Sumant** (also called **Dabir**) handled **foreign affairs**. **Sarnobat / Senapati** headed the military; **Sachiv** was the home/secretary minister.
 
 </details>
 
 **Logic:** A/R — Ashtapradhan advice true; independent charge false.
 
-**Q10. UPPCS (Pre) 1997**
+**Q13. UPPCS (Pre) 1997**
 
 A: In matters of State Shivaji was advised by a Council of Ministers. R: Each minister held independent charge of his department.
 
@@ -579,7 +646,7 @@ A: In matters of State Shivaji was advised by a Council of Ministers. R: Each mi
 
 **Logic:** Silver coins — Ruka is not Shivaji’s silver coin.
 
-**Q11. UP R.O./A.R.O. (Mains) 2016**
+**Q14. UP R.O./A.R.O. (Mains) 2016**
 
 Which coin was NOT a silver coin in Shivaji’s kingdom?
 
@@ -600,7 +667,7 @@ D. Ruka
 
 **Logic:** After Sambhaji, administration streamlined by Balaji Vishwanath.
 
-**Q12. IAS (Pre) 2000**
+**Q15. IAS (Pre) 2000**
 
 Who streamlined Maratha administration after Sambhaji?
 
@@ -621,7 +688,7 @@ D. Nanaji Deshmukh
 
 **Logic:** Chhatrapati order Sambhaji → Rajaram → Shivaji II → Shahu.
 
-**Q13. UPPCS (Mains) 2005**
+**Q16. UPPCS (Mains) 2005**
 
 Arrange: 1 Shahuji 2 Rajaram 3 Sambhaji 4 Shivaji-II
 
@@ -634,7 +701,7 @@ Arrange: 1 Shahuji 2 Rajaram 3 Sambhaji 4 Shivaji-II
 
 **Logic:** King becomes non-entity from Balaji Bajirao / Sangola era.
 
-**Q14. UPPCS (Mains) 2007 / UPPCS (Pre) 1997 A/R**
+**Q17. UPPCS (Mains) 2007 / UPPCS (Pre) 1997 A/R**
 
 From whose time did the Maratha king become a non-entity and the Peshwa the virtual ruler?
 
@@ -653,30 +720,51 @@ D. Madhavrao I
 
 </details>
 
-**Logic:** Tarabai led after 1700 / at Aurangzeb’s death.
+**Logic:** At Aurangzeb’s death (1707) Tarabai held regency for Shivaji II.
 
-**Q15. UPPCS (Pre) 2012 / Spl Pre 2008**
+**Q18. UPPCS (Pre) 2012 / Spl Pre 2008**
 
-At Aurangzeb’s death Maratha leadership was with / which Maratha woman led struggle from 1700?
+At Aurangzeb’s death, Maratha leadership was with whom?
 
-A. Sambhaji / Ahilya Bai
+A. Sambhaji
 
-B. Rajaram / Mukta Bai
+B. Rajaram
 
-C. Jijabai / Rukmini Bai
+C. Jijabai
 
-D. Tarabai / Tara Bai
+D. Tarabai
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Tarabai** as regent for **Shivaji II**.
+**Ans: D.** **Tarabai** acted as regent for **Shivaji II** and led the Maratha resistance after **1700**, including the period around **Aurangzeb’s death (1707)**.
+
+</details>
+
+**Logic:** Tarabai led the Maratha struggle from 1700 — not Ahilya Bai (later Indore) or Jijabai (Shivaji’s mother).
+
+**Q19. UPPCS (Pre) 2012 / Spl Pre 2008**
+
+Which Maratha woman led the struggle against the Mughals from 1700?
+
+A. Ahilya Bai
+
+B. Mukta Bai
+
+C. Rukmini Bai
+
+D. Tarabai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Tarabai** led the Maratha resistance from **1700** as regent for **Shivaji II**. **Ahilya Bai** belongs to a later eighteenth-century context.
 
 </details>
 
 **Logic:** Saranzami = Maratha land revenue / jagirdar livelihood.
 
-**Q16. BPSC (Pre) 1994**
+**Q20. BPSC (Pre) 1994**
 
 Saranzami system was related to:
 
@@ -697,7 +785,7 @@ D. None of the above
 
 **Logic:** Protection revenue name = Chauth (not Sardeshmukhi alone).
 
-**Q17. UPPCS (Pre) 2018**
+**Q21. UPPCS (Pre) 2018**
 
 The Maratha claim of revenue for protection is known by what name?
 
@@ -716,22 +804,93 @@ D. Jamadani
 
 </details>
 
-**Logic:** Panipat III witnesses, date, opponents, immediate cause.
+**Logic:** Third Panipat immediate cause = Abdali avenging Timur Shah’s expulsion from Lahore.
 
-**Q18. IAS 2010 / Chhattisgarh / UPPCS cluster**
+**Q22. IAS 2010 / Chhattisgarh / UPPCS cluster**
 
-Immediate reason Abdali fought Third Panipat / eyewitness / opponents / date?
+What was the immediate reason Ahmad Shah Abdali fought the Third Battle of Panipat?
+
+A. To annex the Maratha capital at Pune
+
+B. To avenge the expulsion of his viceroy Timur Shah from Lahore
+
+C. To restore Mughal emperor Shah Alam II to Delhi alone
+
+D. To punish the Rohillas for siding with the Marathas
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Immediate cause — avenge expulsion of viceroy **Timur Shah** from **Lahore**. Eyewitness — **Kashiraj Pandit**. Opponents — **Marathas** vs **Ahmad Shah Abdali (Afghans)**. Date — **14 January 1761**.
+**Ans: B.** Abdali marched to **avenge the expulsion of Timur Shah** (his son and viceroy) from **Lahore**, which triggered the **1761** campaign.
+
+</details>
+
+**Logic:** Kashiraj Pandit wrote an eyewitness account of Third Panipat.
+
+**Q23. IAS 2010 / Chhattisgarh / UPPCS cluster**
+
+Who was an eyewitness historian of the Third Battle of Panipat (1761)?
+
+A. Abul Fazl
+
+B. Kashiraj Pandit
+
+C. Bernier
+
+D. Tavernier
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kashiraj Pandit** left an eyewitness narrative of **Third Panipat**. **Abul Fazl** belongs to Akbar’s court, not the Maratha–Afghan war.
+
+</details>
+
+**Logic:** Third Panipat opponents = Marathas vs Ahmad Shah Abdali’s Afghans.
+
+**Q24. IAS 2010 / Chhattisgarh / UPPCS cluster**
+
+Who were the main opponents at the Third Battle of Panipat?
+
+A. Marathas and the British East India Company
+
+B. Marathas and Ahmad Shah Abdali (Afghans)
+
+C. Mughals and Sikhs
+
+D. Rajputs and Nizam of Hyderabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Marathas** under **Sadashivrao Bhau** and **Vishwasrao** faced **Ahmad Shah Abdali** and his **Afghan** coalition.
+
+</details>
+
+**Logic:** Third Panipat date = 14 January 1761 — not 1757 or 1764.
+
+**Q25. IAS 2010 / Chhattisgarh / UPPCS cluster**
+
+On which date was the Third Battle of Panipat fought?
+
+A. 14 January 1757
+
+B. 14 January 1761
+
+C. 23 June 1757
+
+D. 22 January 1764
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Third Panipat** was fought on **14 January 1761**. **1757** is Plassey; **1764** is Buxar.
 
 </details>
 
 **Logic:** Abdali’s Delhi agent = Najib Khan.
 
-**Q19. UPPCS (Mains) 2006**
+**Q26. UPPCS (Mains) 2006**
 
 Which Rohilla chief was the confidant of Ahmad Shah Abdali?
 
@@ -752,7 +911,7 @@ D. Hafiz Rahmat Khan
 
 **Logic:** Modi script = Marathas.
 
-**Q20. IAS (Pre) 1995**
+**Q27. IAS (Pre) 1995**
 
 The Modi script was employed in the documents of the:
 
@@ -773,7 +932,7 @@ D. Marathas
 
 **Logic:** A/R — Marathas strongest after Mughals true; clear concept of United Indian Nation false.
 
-**Q21. UP R.O./A.R.O. (Mains) 2016**
+**Q28. UP R.O./A.R.O. (Mains) 2016**
 
 A: Marathas emerged as the strongest native power after Mughal decline. R: Marathas were the first rulers with a clear concept of United Indian Nation.
 
@@ -787,7 +946,7 @@ A: Marathas emerged as the strongest native power after Mughal decline. R: Marat
 
 ## Practice Zone — UPPCS Format Drill
 
-> **38 questions** · answers in `<details>`
+> **38 questions** · answers under Show answer
 
 **Q1.** Maratha protection revenue is called:
 

@@ -873,64 +873,398 @@ Teaching sits in **11.5–11.16**.
 
 **Q1. UPPCS / IAS / BPSC / MPPCS**
 
-Abhinav Bharat organiser / Mitra Mela founder / Abhinav Bharat region / RSS founder–year / how Tilak became Lokmanya?
+Who transformed the Mitra Mela into Abhinav Bharat?
+
+A. Bal Gangadhar Tilak
+
+B. Vinayak Damodar Savarkar
+
+C. Bipin Chandra Pal
+
+D. Lala Lajpat Rai
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **V.D. Savarkar** organised Abhinav Bharat from **Mitra Mela**. Region = **Maharashtra**. RSS = **Hedgewar, 27 Sep 1925, Nagpur** (not a bomb society). Lokmanya rise = after **1897 sedition** in the Chapekar/Rand climate.
+**Ans: B.** **V.D. Savarkar** organised **Abhinav Bharat** from **Mitra Mela** in **Maharashtra**.
+
+</details>
+
+**Logic:** Abhinav Bharat region = Maharashtra, not Bengal or Punjab.
+
+**Q2. UPPCS / IAS / BPSC / MPPCS**
+
+Abhinav Bharat was chiefly associated with which region?
+
+A. Bengal
+
+B. Maharashtra
+
+C. Punjab
+
+D. United Provinces
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Maharashtra** — Savarkar’s circle. Do not confuse with Bengal’s Anushilan or Yugantar.
+
+</details>
+
+**Logic:** RSS = Hedgewar, 27 Sep 1925, Nagpur — not a bomb society like HRA.
+
+**Q3. UPPCS / IAS / BPSC / MPPCS**
+
+The Rashtriya Swayamsevak Sangh (RSS) was founded by:
+
+A. M.S. Golwalkar at Pune in 1925
+
+B. Keshav Baliram Hedgewar at Nagpur on 27 September 1925
+
+C. V.D. Savarkar at Nasik in 1907
+
+D. B.S. Moonje at Wardha in 1930
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **K.B. Hedgewar**, **Nagpur**, **27 September 1925**. RSS is a cultural organisation — not Kakori/HRA/HSRA.
+
+</details>
+
+**Logic:** Lokmanya rise = after 1897 sedition in Chapekar/Rand climate under IPC 124-A.
+
+**Q4. UPPCS / IAS / BPSC / MPPCS**
+
+Bal Gangadhar Tilak came to be widely called **Lokmanya** especially after:
+
+A. the Surat split of 1907
+
+B. his conviction for sedition in 1897 linked to the Chapekar brothers’ climate
+
+C. the founding of the Home Rule League in 1916
+
+D. the Lucknow Pact of 1916
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **July 1897** sedition under **IPC 124-A** after the **Chapekar/Rand** episode made Tilak an all-India name.
 
 </details>
 
 **Logic:** Yugantar/Bagha Jatin; Anushilan founders; Patna branch Sanyal 1913; Barrah = Pulin / East Bengal; Muzaffarpur = Khudiram–Chaki 1908; Alipore defence = C.R. Das.
 
-**Q2. UPPCS / IAS / BPSC**
+**Q5. UPPCS / IAS / BPSC**
 
-Yugantar leader / Anushilan founder tag / Patna Anushilan 1913 / Barrah place / Kingsford attempt place–year / who defended Aurobindo at Alipore?
+Who is most often keyed as the leading figure of the Yugantar group in its wartime phase?
+
+A. Khudiram Bose
+
+B. Jatindranath Mukherjee (Bagha Jatin)
+
+C. Pulin Behari Das
+
+D. Sachindra Nath Sanyal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Yugantar wartime lead often keyed to **Bagha Jatin**. Anushilan Calcutta = **P. Mitra** circle; Dhaka = **Pulin Behari Das**. Patna branch = **Sachindra Nath Sanyal (1913)**. Barrah = **East Bengal (1908)**. Kingsford attempt = **Muzaffarpur, 30 Apr 1908**. Defence = **Chittaranjan Das**.
+**Ans: B.** **Bagha Jatin** leads **Yugantar** tags. Anushilan Calcutta = **P. Mitra** circle; Dhaka = **Pulin Behari Das**.
+
+</details>
+
+**Logic:** Patna Anushilan branch = Sachindra Nath Sanyal, 1913.
+
+**Q6. UPPCS / IAS / BPSC**
+
+The Patna branch of Anushilan Samiti (1913) is associated with:
+
+A. Aurobindo Ghosh
+
+B. Sachindra Nath Sanyal
+
+C. Rash Behari Bose
+
+D. Barindra Kumar Ghosh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sachindra Nath Sanyal** opened the **Patna** branch in **1913**.
+
+</details>
+
+**Logic:** Kingsford bomb attempt = Muzaffarpur, 30 April 1908 (Khudiram–Prafulla Chaki).
+
+**Q7. UPPCS / IAS / BPSC**
+
+The attempt on Magistrate Kingsford (1908) took place at:
+
+A. Alipore
+
+B. Muzaffarpur
+
+C. Barrah
+
+D. Chittagong
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Muzaffarpur**, **30 April 1908** — **Khudiram Bose** and **Prafulla Chaki**. **Barrah dacoity (1908)** = **East Bengal** under **Pulin Behari Das**.
+
+</details>
+
+**Logic:** Alipore bomb trial defence counsel = Chittaranjan Das for Aurobindo.
+
+**Q8. UPPCS / IAS / BPSC**
+
+Who defended Aurobindo Ghosh in the Alipore Bomb Case?
+
+A. Motilal Nehru
+
+B. Chittaranjan Das
+
+C. Tej Bahadur Sapru
+
+D. Mohammad Ali Jinnah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Chittaranjan Das** defended **Aurobindo** at **Alipore**.
 
 </details>
 
 **Logic:** HRA Kanpur 1924; Kakori 9 Aug 1925 HRA not HSRA; hanged Bismil–Ashfaq–Roshan–Lahiri; Azad escaped; Ashfaq first Muslim hanged; Bismil Gorakhpur; Sarfaroshi ≠ Ram Prasad.
 
-**Q3. UPPCS / UKPCS / BPSC / MPPCS**
+**Q9. UPPCS / UKPCS / BPSC / MPPCS**
 
-HRA year–place / Kakori year–org / who escaped / who hanged / Ashfaq jail / Bismil milk line / *Sarfaroshi* author trap?
+The Hindustan Republican Association (HRA) was organised at Kanpur in:
+
+A. 1922
+
+B. 1924
+
+C. 1926
+
+D. 1928
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** HRA = **Kanpur, Oct 1924** (Sanyal president). Kakori = **9 Aug 1925, HRA**. Escaped = **Azad**. Hanged include **Bismil, Ashfaqulla, Roshan Singh, Rajendra Lahiri**. Ashfaq = **Faizabad**. Bismil refused milk before hanging. *Sarfaroshi ki Tamanna* = **Bismil Azimabadi**, not Ram Prasad.
+**Ans: B.** **Kanpur, October 1924** — **Sachindra Nath Sanyal** was president. **1928** = **HSRA** at **Feroz Shah Kotla**.
+
+</details>
+
+**Logic:** Kakori = 9 Aug 1925 under HRA, not HSRA.
+
+**Q10. UPPCS / UKPCS / BPSC / MPPCS**
+
+The Kakori train robbery (9 August 1925) was carried out by:
+
+A. Hindustan Socialist Republican Association (HSRA)
+
+B. Hindustan Republican Association (HRA)
+
+C. Ghadar Party
+
+D. Indian Republican Army, Chittagong
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kakori = HRA (1925)**. Labelling it **HSRA** is a standard trap — **Socialist** was added only in **1928**.
+
+</details>
+
+**Logic:** Azad escaped Kakori hangings; Bismil, Ashfaqulla, Roshan Singh, Rajendra Lahiri hanged.
+
+**Q11. UPPCS / UKPCS / BPSC / MPPCS**
+
+Who among the following escaped the gallows after the Kakori conspiracy case?
+
+A. Ram Prasad Bismil
+
+B. Ashfaqulla Khan
+
+C. Chandrashekhar Azad
+
+D. Rajendra Lahiri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Azad** escaped. Hanged include **Bismil**, **Ashfaqulla** (Faizabad), **Roshan Singh**, **Rajendra Lahiri**. Bismil was hanged at **Gorakhpur**; he refused offered milk before hanging.
+
+</details>
+
+**Logic:** *Sarfaroshi ki Tamanna* = Bismil Azimabadi, not Ram Prasad Bismil.
+
+**Q12. UPPCS / UKPCS / BPSC / MPPCS**
+
+The poem *Sarfaroshi ki Tamanna* was written by:
+
+A. Ram Prasad Bismil
+
+B. Bismil Azimabadi
+
+C. Hasrat Mohani
+
+D. Muhammad Iqbal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bismil Azimabadi** (Patna) — not **Ram Prasad Bismil**. A frequent wrong-pair trap in Kakori questions.
 
 </details>
 
 **Logic:** HSRA Feroz Shah Kotla 1928; Assembly bomb Bhagat + B.K. Dutt 8 Apr 1929; Lahore hangings 23 Mar 1931; Jatin Das hunger strike; Chittagong Master-da 18 Apr 1930; IRA Chittagong.
 
-**Q4. UPPCS / IAS / BPSC**
+**Q13. UPPCS / IAS / BPSC**
 
-HSRA place–year / Assembly bomb pair / hangings date / Jatin Das death / Chittagong leader–date / who NOT in Kakori?
+HSRA was formed in September 1928 at:
+
+A. Lahore Fort
+
+B. Feroz Shah Kotla, Delhi
+
+C. Kanpur
+
+D. Alfred Park, Allahabad
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** HSRA = **Feroz Shah Kotla, Delhi, 1928**. Bomb = **Bhagat Singh + Batukeshwar Dutt**. Hangings = **23 March 1931** (Bhagat, Rajguru, Sukhdev). Jatin Das died after hunger strike (**13 Sep 1929**). Chittagong = **Surya Sen (Master-da), 18 Apr 1930**. Not Kakori = **Surya Sen / Bhagat Singh** (common distractors).
+**Ans: B.** **Feroz Shah Kotla, Delhi, 1928** — HRA renamed with a **socialist** goal.
 
 </details>
 
-**Logic:** Passive Resistance = Aurobindo; Forward Bloc 1939 Bose; Bina Das convocation; Shanti–Suniti DM; Bhagat criticism quote; Naujawan = Bhagat 1926.
+**Logic:** Central Assembly bomb = Bhagat Singh + Batukeshwar Dutt, 8 April 1929.
 
-**Q5. BPSC / UPPCS**
+**Q14. UPPCS / IAS / BPSC**
 
-Passive Resistance theorist / Forward Bloc founder / Bina Das act / Bhagat Singh quote on revolutionary qualities / Naujawan founder?
+Who threw bombs in the Central Legislative Assembly on 8 April 1929?
+
+A. Bhagat Singh and Sukhdev
+
+B. Bhagat Singh and Batukeshwar Dutt
+
+C. Chandrashekhar Azad and Rajguru
+
+D. Surya Sen and Pritilata Waddedar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Passive Resistance = **Aurobindo** (*Bande Mataram*). Forward Bloc = **Subhas Chandra Bose (1939)**. Bina Das fired at the Governor at convocation (**1932**). Quote = **criticism and independent thinking**. Naujawan Bharat Sabha = **Bhagat Singh (1926)**.
+**Ans: B.** **Bhagat Singh** and **Batukeshwar Dutt** — deliberate arrest for propaganda, not a massacre plan.
+
+</details>
+
+**Logic:** Lahore hangings 23 March 1931; Jatin Das died 13 September 1929 after hunger strike.
+
+**Q15. UPPCS / IAS / BPSC**
+
+Bhagat Singh, Rajguru and Sukhdev were hanged on:
+
+A. 23 March 1930
+
+B. 23 March 1931
+
+C. 13 September 1929
+
+D. 18 April 1930
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **23 March 1931** at Lahore. **Jatin Das** died after a **63-day** hunger strike on **13 September 1929**.
+
+</details>
+
+**Logic:** Chittagong armoury raid = Surya Sen (Master-da), 18 April 1930.
+
+**Q16. UPPCS / IAS / BPSC**
+
+The Chittagong Armoury Raid (1930) was led by:
+
+A. Bhagat Singh
+
+B. Surya Sen (Master-da)
+
+C. Ram Prasad Bismil
+
+D. Rash Behari Bose
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Surya Sen**, **18 April 1930** — **Indian Republican Army, Chittagong**. **Bhagat Singh** was not in the Kakori or Chittagong raids — common distractor.
+
+</details>
+
+**Logic:** Passive Resistance = Aurobindo; Forward Bloc 1939 Bose; Bina Das convocation; Bhagat criticism quote; Naujawan = Bhagat 1926.
+
+**Q17. BPSC / UPPCS**
+
+The idea of **Passive Resistance** in the Swadeshi-era press was formulated by:
+
+A. Mahatma Gandhi
+
+B. Aurobindo Ghosh in *Bande Mataram*
+
+C. Bipin Chandra Pal
+
+D. Lala Lajpat Rai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Aurobindo Ghosh** in ***Bande Mataram*** — assertive resistance short of Moderate petition politics.
+
+</details>
+
+**Logic:** Forward Bloc = Subhas Chandra Bose, 1939.
+
+**Q18. BPSC / UPPCS**
+
+The Forward Bloc was founded by:
+
+A. C.R. Das in 1923
+
+B. Subhas Chandra Bose in 1939
+
+C. Jawaharlal Nehru in 1936
+
+D. M.N. Roy in 1925
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Subhas Chandra Bose**, **1939**, after breaking with the Congress high command.
+
+</details>
+
+**Logic:** Naujawan Bharat Sabha = Bhagat Singh, 1926, Lahore.
+
+**Q19. BPSC / UPPCS**
+
+Naujawan Bharat Sabha (1926) was founded by:
+
+A. Surya Sen
+
+B. Bhagat Singh
+
+C. Chandrashekhar Azad
+
+D. Sachindra Nath Sanyal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bhagat Singh (1926)** at **Lahore** — open youth front linked to HSRA later. Bhagat held that **criticism and independent thinking** are indispensable revolutionary qualities.
 
 </details>
 
@@ -940,27 +1274,134 @@ Teaching sits in **11.8–11.11** and Other Events.
 
 **Logic:** India House / Home Rule Society = Shyamji London 1905 + *Indian Sociologist*; Ghadar 1913 San Francisco, first chair Sohan Singh Bhakna, torchbearer Hardayal; Cama Stuttgart 1907 Mother of Revolution; Dhingra Wyllie; Udham O’Dwyer.
 
-**Q6. UPPCS / IAS / BPSC / UKPCS**
+**Q20. UPPCS / IAS / BPSC / UKPCS**
 
-India House founder / Ghadar HQ–year / first Ghadar chairman / Mother of Indian Revolution / flag place / Dhingra victim / Udham victim?
+India House and the Indian Home Rule Society in London (1905) were founded by:
+
+A. Madam Bhikaji Cama
+
+B. Shyamji Krishna Varma
+
+C. Lala Hardayal
+
+D. V.D. Savarkar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** India House / Indian Home Rule Society = **Shyamji Krishna Varma (London, 1905)**. Ghadar = **San Francisco, 1913**. First chairman = **Sohan Singh Bhakna**. Mother of Revolution = **Bhikaji Cama**. Flag = **Stuttgart (1907)** not Paris. Dhingra = **Curzon Wyllie (1909)**. Udham = **Michael O’Dwyer (1940)**.
+**Ans: B.** **Shyamji Krishna Varma (London, 1905)** — also published ***The Indian Sociologist***.
+
+</details>
+
+**Logic:** Ghadar Party = San Francisco 1913; first chairman Sohan Singh Bhakna.
+
+**Q21. UPPCS / IAS / BPSC / UKPCS**
+
+The Ghadar Party was founded in 1913 at San Francisco. Its first chairman was:
+
+A. Lala Hardayal
+
+B. Sohan Singh Bhakna
+
+C. Rash Behari Bose
+
+D. Raja Mahendra Pratap
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sohan Singh Bhakna** — first chairman. **Lala Hardayal** was the intellectual torchbearer, not the first chair tag.
+
+</details>
+
+**Logic:** Bhikaji Cama = Mother of Indian Revolution; flag unfurled at Stuttgart 1907, not Paris.
+
+**Q22. UPPCS / IAS / BPSC / UKPCS**
+
+Madam Bhikaji Cama is often called the **Mother of Indian Revolution**. She unfurled the first version of the Indian flag at:
+
+A. Paris (1907)
+
+B. Stuttgart (1907)
+
+C. London (1905)
+
+D. Berlin (1915)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Stuttgart (1907)** — not Paris. **Dhingra** killed **Curzon Wyllie (1909)**; **Udham Singh** killed **Michael O’Dwyer (1940)**.
 
 </details>
 
 **Logic:** Kamagata Maru = Japanese ship, Gurdit Singh, Canada refusal, Budge Budge firing; Provisional Govt Kabul 1915 Mahendra Pratap + Barkatullah; India Independence League = Rash Behari Bose Japan; chronology Ghadar → Berlin → Assembly → Chittagong.
 
-**Q7. IAS / UPPCS / BPSC**
+**Q23. IAS / UPPCS / BPSC**
 
-What was Kamagata Maru / provisional government president / India Independence League founder / 2022-style order Ghadar–Berlin–Assembly–Chittagong?
+The **Komagata Maru** (1914) was:
+
+A. a German arms ship linked to the Berlin Committee
+
+B. a Japanese steamship chartered by Gurdit Singh whose passengers were refused entry at Canada, leading to firing at Budge Budge
+
+C. the vessel that carried Ghadar leaders from San Francisco to Karachi in 1913
+
+D. the ship used in the Annie Larsen arms affair on the American coast
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Kamagata Maru = a **Japanese steamship** chartered by **Gurdit Singh** for Canada (**1914**); clash at **Budge Budge**. Provisional government = **Raja Mahendra Pratap** (President), **Barkatullah** (PM), **Kabul 1915**. League = **Rash Behari Bose**. Order = **Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930)**.
+**Ans: B.** **Japanese steamship**, **Gurdit Singh**, **Canada refusal (1914)**, clash at **Budge Budge** near Calcutta on return.
+
+</details>
+
+**Logic:** Provisional government Kabul 1915 — President Mahendra Pratap, PM Barkatullah.
+
+**Q24. IAS / UPPCS / BPSC**
+
+The provisional government of Free India set up at Kabul (1915) had as its President:
+
+A. Barkatullah
+
+B. Raja Mahendra Pratap
+
+C. Rash Behari Bose
+
+D. Virendranath Chattopadhyay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Raja Mahendra Pratap** (President); **Maulana Barkatullah** (Prime Minister). **India Independence League** in Japan = **Rash Behari Bose**.
+
+</details>
+
+**Logic:** 2022-style chronology: Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930).
+
+**Q25. IAS / UPPCS / BPSC**
+
+Consider the following events:
+
+1. Foundation of the Ghadar Party
+2. Chittagong Armoury Raid
+3. Indian Independence Committee at Berlin
+4. Central Assembly Bomb Case
+
+Which is the correct chronological order?
+
+A. 3, 1, 4, 2
+
+B. 1, 3, 4, 2
+
+C. 1, 3, 2, 4
+
+D. 3, 1, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930)** — UPPCS Prelims **2022 Q38** order.
 
 </details>
 

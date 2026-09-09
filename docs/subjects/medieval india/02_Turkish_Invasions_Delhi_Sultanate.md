@@ -4279,9 +4279,300 @@ D. Ibrahim Lodi
 
 ---
 
+## Complete PYQ Bank — Delhi Sultanate (UPPCS 2018–2025)
+
+Recent Prelims stems for the rest of this chapter (admin, Alauddin, architecture). Muslim Invasion UPPCS/UKPCS sit above Practice.
+
+**Q1. UPPCS Prelims 2025, Q30**
+
+Arrange the following victories of Alauddin Khalji in correct chronological order.
+
+1. Ranthambore
+2. Jaisalmer
+3. Warangal
+4. Chittor
+
+Select the correct answer from the code given below:
+
+Options:
+A. 1, 2, 3, 4
+B. 2, 1, 4, 3
+C. 2, 1, 3, 4
+D. 1, 2, 4, 3
+
+<details><summary>Show answer</summary>
+
+**Ans: B (2-1-4-3)Order:** 2 Jaisalmer → 1 Ranthambore → 4 Chittor → 3 Warangal
+
+**Trap:Warangal last** — Malik Kafur's southern campaigns followed Rajasthan forts.
+
+</details>
+
+
+**Q2. UPPCS Prelims 2025, Q95**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.
+Reason (R): The Jagirs comprised the land under the direct control of the State.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details><summary>Show answer</summary>
+
+**Ans: C (A true, R false)** — **UPPCS 2025 Q95A is true:Khalsa** = crown land; **Jagir/Iqta** = assigned land.
+
+**R is false:Jagirs** were **not** under direct state control; that describes **Khalsa**.
+
+**If the stem changed:** If R said "Khalsa was under direct Sultan control," both would be true and R would explain A → **D**.
+
+</details>
+
+
+**Q3. UPPCS Prelims 2024, Q150**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Balban made his government firm and centralised all authority in his hands.
+Reason (R): He wanted to protect the north-west frontier against Mongol invasions.
+
+Select the correct answer from the codes given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+B. (A) is false, but (R) is true.
+C. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+D. (A) is true, but (R) is false.
+
+<details><summary>Show answer</summary>
+
+**Ans: C (Both true, R not explanation)** — **UPPCS 2024 Q150A is true:** Balban centralised by crushing **Chahalgani** and enforcing **Sijda/Paibos**.
+
+**R is true:** He fortified the **northwest** (Tabarhinda, Samana, Sunam) against **Mongols**.
+
+**If the stem changed:** If R said "he destroyed the Chahalgani to end factionalism," answer would be **A** (R explains A).
+
+</details>
+
+
+**Q4. UPPCS Prelims 2023, Q34**
+
+Which of the following is **not** correctly matched?
+
+A. Iltutmish — Father of Razia
+B. Shah Turkan — Wife of Iltutmish
+C. Hamida Banu Begum — Wife of Alauddin Khilji
+D. Gulbadan Begum — Daughter of Babur
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy wrong:Hamida Banu Begum** was **Humayun's** wife and **Akbar's** mother — Mughal, not Khalji.
+
+**Trap:** Begum names without dynasty check — **Iltutmish–Razia** and **Gulbadan–Babur** pairs in the same stem are correct distractors.
+
+</details>
+
+
+**Q5. UPPCS Prelims 2023, Q37**
+
+Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
+
+A. Talib Amuli |
+
+B. Mulla Abdul Baqi |
+
+C. Mirza Muhammad Ali |
+
+D. Azizuddin Khan
+
+<details><summary>Show answer</summary>
+
+**Ans: D.** **Azizuddin Khan** translated the Nagarkot/Jwalamukhi Sanskrit collection into Persian.
+
+**Trap:** **Mulla Abdul Baqi** is a distractor; **Barani/Khusrau** are wrong authorship traps in other stems.
+
+</details>
+
+
+**Q6. UPPCS Prelims 2022, Q59**
+
+Arrange the following conquests of Alauddin Khilji in chronological order.
+
+1. Ranthambor
+2. Gujarat
+3. Warangal
+4. Chittor
+
+Options:
+A. 2, 1, 3, 4
+B. 2, 1, 4, 3
+C. 2, 4, 3, 1
+D. 1, 2, 3, 4
+
+<details><summary>Show answer</summary>
+
+**Ans: B (2-1-4-3)Order:** 2 Gujarat (**1299**) → 1 Ranthambor (**1301**) → 4 Chittor (**1303**) → 3 Warangal (**~1309–1311**)
+
+**Trap:Gujarat first** — Malik Kafur captured at Cambay before Rajasthan sieges.
+
+</details>
+
+
+**Q7. UPPCS Prelims 2022, Q4**
+
+Match List-I (Building) with List-II (Builder):
+
+| List-I | List-II |
+|--------|---------|
+| A. Sultan Garhi | 1. Alauddin Khilji |
+| B. Red Palace | 2. Qutbuddin Aibak |
+| C. Jamat Khana Masjid | 3. Iltutmish |
+| D. Dhai Din Ka Jhopra | 4. Balban |
+
+*Row order in the table is not the answer code.*
+
+A. 3, 4, 1, 2 |
+
+B. 3, 4, 2, 1 |
+
+C. 4, 3, 1, 2 |
+
+D. 4, 3, 2, 1
+
+<details><summary>Show answer</summary>
+
+**Ans: A (3-4-1-2)Facts:** A–3 Sultan Garhi–Iltutmish | B–4 Red Palace–Balban | C–1 Jamat Khana–Alauddin | D–2 Dhai Din Ka Jhopra–Aibak
+
+**Trap:Dhai Din Ka Jhopra** is at **Ajmer** (Aibak), not Delhi Qutb complex.
+
+</details>
+
+
+**Q8. UPPCS Prelims 2020, Q38**
+
+Match List-I with List-II (Delhi Sultanate administration officers and duties).
+
+Options include: **B. 3-4-1-2** (Diwan-i-Tan→Jagirs/salaries; Mustarfi→audit; Mushrif→records; Vakianvis→firmans)
+
+<details><summary>Show answer</summary>
+
+**Ans: B (3-4-1-2)Facts:** A–3 Diwan-i-Tan–salaries/jagirs | B–4 Mustarfi–audit | C–1 Mushrif–records | D–2 Vakianvis–firmans
+
+**Trap:Khareetadar** despatches decrees — do not confuse with Vakianvis (firmans list).
+
+</details>
+
+
+**Q9. UPPCS Prelims 2019, Q15**
+
+Which one of the following is NOT the characteristics of Iqta System?
+
+A. Iqta was a revenue collection system
+B. Siyasatnama was the source of information for Iqta System
+C. Revenue from Iqta was directly deposited in Sultan's account
+D. Muqti was supported to maintain troops out of the revenue collected from Iqta
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy wrong:Iqta** revenue was collected by the **Muqti** for troops and administration — **not** deposited directly in the Sultan's account.
+
+**Trap:** Direct deposit = **Khalsa** logic, not **Iqta/Jagir**.
+
+</details>
+
+
+**Q10. UPPCS Prelims 2019, Q16**
+
+Which of the following is NOT correctly matched? (Books / Writers)
+
+A. Tabaqat-i-Nasiri — Minhaj-us-Siraj-Juzjani
+B. Tarikh-i-Firozshahi — Shams-i-Siruj-Alif
+C. Tughlaqnama — Ibn Battuta
+D. Humayunnama — Gulbadan Begam
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy wrong:Tughlaqnama** = **Ziauddin Barani**; **Ibn Battuta** wrote **Rihla**.
+
+**Trap:** Court presence ≠ authorship — Barani not Battuta.
+
+</details>
+
+
+**Q11. UPPCS Prelims 2018, Q14**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
+Assertion (A): Turkish invasions of India were successful.
+Reason (R): There was no political unity in North India.
+
+Select the correct answer from the codes given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2018 Q14A is true:** Ghori and successors established lasting rule (Sultanate from **1206**).
+
+**R is true:** Post-Pratihara **disunity** left Rajput states divided.
+
+**If the stem changed:** If R denied disunity, check facts — post-Pratihara fragmentation is well attested; false R → **C**.
+
+</details>
+
+
+**Q12. UPPCS Prelims 2018, Q92**
+
+The term 'chakla' has been used in Medieval Indian administration. It was:
+
+A. Identical to Pargana
+B. Identical to Sarkar
+C. Territorial unit between Subah and Pargana, but not identical to Sarkar
+D. A fiscal unit only
+
+<details><summary>Show answer</summary>
+
+**Ans: CWhy:chakla** was a Sultanate territorial unit **between Subah and Pargana** — distinct from the Mughal **Sarkar**.
+
+**Trap:** Equating Sultanate **chakla** with Mughal **Sarkar** or **Pargana** — different administrative layers.
+
+</details>
+
+### UKPCS Prelims 2025
+
+**Logic:** Agriculture department of Muhammad bin Tughlaq — not Firoz’s public works list.
+
+**Q. UKPCS Prelims 2025, Q57**
+
+Who founded a separate department called ‘Diwan-i-amir-i-kohi’ to improve agriculture?
+
+A. Alauddin Khalji
+B. Muhammad Tughlaq
+C. Firoz Tughlaq
+D. Sher Shah Suri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** Muhammad bin Tughlaq created Diwan-i-Amir-i-Kohi for agrarian improvement. Firoz is the canal/works distractor; Alauddin is the market-control distractor.
+
+</details>
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions** · answers in `<details>`
+> **45 questions** · answers under Show answer
 
 **Q1.** Which statement(s) about Turkish invasions is/are correct?
 
@@ -5045,297 +5336,6 @@ Options: A. 3-3-2-1 | B. 3-3-1-2 | C. 2-3-3-1 | D. 3-2-3-1
 
 </details>
 
-
-## Complete PYQ Bank — Delhi Sultanate (UPPCS 2018–2025)
-
-Recent Prelims stems for the rest of this chapter (admin, Alauddin, architecture). Muslim Invasion UPPCS/UKPCS sit above Practice.
-
-**Q1. UPPCS Prelims 2025, Q30**
-
-Arrange the following victories of Alauddin Khalji in correct chronological order.
-
-1. Ranthambore
-2. Jaisalmer
-3. Warangal
-4. Chittor
-
-Select the correct answer from the code given below:
-
-Options:
-A. 1, 2, 3, 4
-B. 2, 1, 4, 3
-C. 2, 1, 3, 4
-D. 1, 2, 4, 3
-
-<details><summary>Show answer</summary>
-
-**Ans: B (2-1-4-3)Order:** 2 Jaisalmer → 1 Ranthambore → 4 Chittor → 3 Warangal
-
-**Trap:Warangal last** — Malik Kafur's southern campaigns followed Rajasthan forts.
-
-</details>
-
-
-**Q2. UPPCS Prelims 2025, Q95**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.
-Reason (R): The Jagirs comprised the land under the direct control of the State.
-
-Select the correct answer from the code given below:
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details><summary>Show answer</summary>
-
-**Ans: C (A true, R false)** — **UPPCS 2025 Q95A is true:Khalsa** = crown land; **Jagir/Iqta** = assigned land.
-
-**R is false:Jagirs** were **not** under direct state control; that describes **Khalsa**.
-
-**If the stem changed:** If R said "Khalsa was under direct Sultan control," both would be true and R would explain A → **D**.
-
-</details>
-
-
-**Q3. UPPCS Prelims 2024, Q150**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Balban made his government firm and centralised all authority in his hands.
-Reason (R): He wanted to protect the north-west frontier against Mongol invasions.
-
-Select the correct answer from the codes given below:
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Both true, R not explanation)** — **UPPCS 2024 Q150A is true:** Balban centralised by crushing **Chahalgani** and enforcing **Sijda/Paibos**.
-
-**R is true:** He fortified the **northwest** (Tabarhinda, Samana, Sunam) against **Mongols**.
-
-**If the stem changed:** If R said "he destroyed the Chahalgani to end factionalism," answer would be **A** (R explains A).
-
-</details>
-
-
-**Q4. UPPCS Prelims 2023, Q34**
-
-Which of the following is **not** correctly matched?
-
-A. Iltutmish — Father of Razia
-B. Shah Turkan — Wife of Iltutmish
-C. Hamida Banu Begum — Wife of Alauddin Khilji
-D. Gulbadan Begum — Daughter of Babur
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy wrong:Hamida Banu Begum** was **Humayun's** wife and **Akbar's** mother — Mughal, not Khalji.
-
-**Trap:** Begum names without dynasty check — **Iltutmish–Razia** and **Gulbadan–Babur** pairs in the same stem are correct distractors.
-
-</details>
-
-
-**Q5. UPPCS Prelims 2023, Q37**
-
-Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
-
-A. Talib Amuli |
-
-B. Mulla Abdul Baqi |
-
-C. Mirza Muhammad Ali |
-
-D. Azizuddin Khan
-
-<details><summary>Show answer</summary>
-
-**Ans: D.** **Azizuddin Khan** translated the Nagarkot/Jwalamukhi Sanskrit collection into Persian.
-
-**Trap:** **Mulla Abdul Baqi** is a distractor; **Barani/Khusrau** are wrong authorship traps in other stems.
-
-</details>
-
-
-**Q6. UPPCS Prelims 2022, Q59**
-
-Arrange the following conquests of Alauddin Khilji in chronological order.
-
-1. Ranthambor
-2. Gujarat
-3. Warangal
-4. Chittor
-
-Options:
-A. 2, 1, 3, 4
-B. 2, 1, 4, 3
-C. 2, 4, 3, 1
-D. 1, 2, 3, 4
-
-<details><summary>Show answer</summary>
-
-**Ans: B (2-1-4-3)Order:** 2 Gujarat (**1299**) → 1 Ranthambor (**1301**) → 4 Chittor (**1303**) → 3 Warangal (**~1309–1311**)
-
-**Trap:Gujarat first** — Malik Kafur captured at Cambay before Rajasthan sieges.
-
-</details>
-
-
-**Q7. UPPCS Prelims 2022, Q4**
-
-Match List-I (Building) with List-II (Builder):
-
-| List-I | List-II |
-|--------|---------|
-| A. Sultan Garhi | 1. Alauddin Khilji |
-| B. Red Palace | 2. Qutbuddin Aibak |
-| C. Jamat Khana Masjid | 3. Iltutmish |
-| D. Dhai Din Ka Jhopra | 4. Balban |
-
-*Row order in the table is not the answer code.*
-
-A. 3, 4, 1, 2 |
-
-B. 3, 4, 2, 1 |
-
-C. 4, 3, 1, 2 |
-
-D. 4, 3, 2, 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A (3-4-1-2)Facts:** A–3 Sultan Garhi–Iltutmish | B–4 Red Palace–Balban | C–1 Jamat Khana–Alauddin | D–2 Dhai Din Ka Jhopra–Aibak
-
-**Trap:Dhai Din Ka Jhopra** is at **Ajmer** (Aibak), not Delhi Qutb complex.
-
-</details>
-
-
-**Q8. UPPCS Prelims 2020, Q38**
-
-Match List-I with List-II (Delhi Sultanate administration officers and duties).
-
-Options include: **B. 3-4-1-2** (Diwan-i-Tan→Jagirs/salaries; Mustarfi→audit; Mushrif→records; Vakianvis→firmans)
-
-<details><summary>Show answer</summary>
-
-**Ans: B (3-4-1-2)Facts:** A–3 Diwan-i-Tan–salaries/jagirs | B–4 Mustarfi–audit | C–1 Mushrif–records | D–2 Vakianvis–firmans
-
-**Trap:Khareetadar** despatches decrees — do not confuse with Vakianvis (firmans list).
-
-</details>
-
-
-**Q9. UPPCS Prelims 2019, Q15**
-
-Which one of the following is NOT the characteristics of Iqta System?
-
-A. Iqta was a revenue collection system
-B. Siyasatnama was the source of information for Iqta System
-C. Revenue from Iqta was directly deposited in Sultan's account
-D. Muqti was supported to maintain troops out of the revenue collected from Iqta
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy wrong:Iqta** revenue was collected by the **Muqti** for troops and administration — **not** deposited directly in the Sultan's account.
-
-**Trap:** Direct deposit = **Khalsa** logic, not **Iqta/Jagir**.
-
-</details>
-
-
-**Q10. UPPCS Prelims 2019, Q16**
-
-Which of the following is NOT correctly matched? (Books / Writers)
-
-A. Tabaqat-i-Nasiri — Minhaj-us-Siraj-Juzjani
-B. Tarikh-i-Firozshahi — Shams-i-Siruj-Alif
-C. Tughlaqnama — Ibn Battuta
-D. Humayunnama — Gulbadan Begam
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy wrong:Tughlaqnama** = **Ziauddin Barani**; **Ibn Battuta** wrote **Rihla**.
-
-**Trap:** Court presence ≠ authorship — Barani not Battuta.
-
-</details>
-
-
-**Q11. UPPCS Prelims 2018, Q14**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-Assertion (A): Turkish invasions of India were successful.
-Reason (R): There was no political unity in North India.
-
-Select the correct answer from the codes given below:
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)** — **UPPCS 2018 Q14A is true:** Ghori and successors established lasting rule (Sultanate from **1206**).
-
-**R is true:** Post-Pratihara **disunity** left Rajput states divided.
-
-**If the stem changed:** If R denied disunity, check facts — post-Pratihara fragmentation is well attested; false R → **C**.
-
-</details>
-
-
-**Q12. UPPCS Prelims 2018, Q92**
-
-The term 'chakla' has been used in Medieval Indian administration. It was:
-
-A. Identical to Pargana
-B. Identical to Sarkar
-C. Territorial unit between Subah and Pargana, but not identical to Sarkar
-D. A fiscal unit only
-
-<details><summary>Show answer</summary>
-
-**Ans: CWhy:chakla** was a Sultanate territorial unit **between Subah and Pargana** — distinct from the Mughal **Sarkar**.
-
-**Trap:** Equating Sultanate **chakla** with Mughal **Sarkar** or **Pargana** — different administrative layers.
-
-</details>
-
-### UKPCS Prelims 2025
-
-**Logic:** Agriculture department of Muhammad bin Tughlaq — not Firoz’s public works list.
-
-**Q. UKPCS Prelims 2025, Q57**
-
-Who founded a separate department called ‘Diwan-i-amir-i-kohi’ to improve agriculture?
-
-A. Alauddin Khalji
-B. Muhammad Tughlaq
-C. Firoz Tughlaq
-D. Sher Shah Suri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Muhammad bin Tughlaq created Diwan-i-Amir-i-Kohi for agrarian improvement. Firoz is the canal/works distractor; Alauddin is the market-control distractor.
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 

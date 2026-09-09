@@ -1174,6 +1174,7 @@ D. I, II, III, IV
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:**
 
 | Battle | Year | Theatre |
@@ -1674,18 +1675,73 @@ D. Tipperah
 
 **Q8. IAS 2005 / UKPCS / UPPCS / BPSC**
 
-18th-c. battle order / Wandiwash winner / French commander defeated?
+Arrange the following battles in chronological order:
+
+1. Battle of Buxar
+2. Battle of Ambur
+3. Battle of Wandiwash
+4. Battle of Plassey
+
+A. 2, 4, 3, 1
+
+B. 4, 2, 3, 1
+
+C. 2, 3, 4, 1
+
+D. 3, 4, 2, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Ambur (1749) → Plassey (1757) → Wandiwash (1760) → Buxar (1764)**. British defeated French; French commander **Count de Lally**.
+**Ans: A.** **Ambur (1749) → Plassey (1757) → Wandiwash (1760) → Buxar (1764)**. Do not place **Buxar** before **Wandiwash**.
+
+</details>
+
+**Logic:** Wandiwash (1760) = decisive British victory over French in the Carnatic phase.
+
+**Q9. IAS 2005 / UKPCS / UPPCS / BPSC**
+
+The Battle of Wandiwash (1760) was won by:
+
+A. The French under Count de Lally
+
+B. The British East India Company under Sir Eyre Coote
+
+C. Mir Qasim with Shuja-ud-Daula
+
+D. Robert Clive against Siraj-ud-Daula
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **British (EIC)** under **Sir Eyre Coote** defeated the **French**. Trap: **Clive/Plassey** and **Buxar/Mir Qasim** belong to Bengal, not Wandiwash.
+
+</details>
+
+**Logic:** French commander at Wandiwash = Count de Lally.
+
+**Q10. IAS 2005 / UKPCS / UPPCS / BPSC**
+
+The French commander defeated at the Battle of Wandiwash (1760) was:
+
+A. Joseph François Dupleix
+
+B. Count de Lally
+
+C. Bussy-Castelnau
+
+D. Admiral Suffren
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Count de Lally** — Wandiwash broke French hopes in the Carnatic; **Dupleix** belongs to an earlier Carnatic phase.
 
 </details>
 
 **Logic:** Correct match = Wandiwash French vs EIC (not Buxar as Mir Jafar vs Clive).
 
-**Q9. IAS (Pre) 1995**
+**Q11. IAS (Pre) 1995**
 
 Which pair is correctly matched?
 
@@ -1706,7 +1762,7 @@ D. Khurda – Nizam vs EIC
 
 **Logic:** Strongest Indian resistance to British among options often keyed Marathas.
 
-**Q10. UPPCS (Pre) 1993**
+**Q12. UPPCS (Pre) 1993**
 
 Which opposed the British in India vigorously?
 
@@ -1727,7 +1783,7 @@ D. Sikh
 
 **Logic:** Oudh Hindu officers — Tikait Rai as Asaf-ud-Daula’s diwan.
 
-**Q11. UP R.O./A.R.O. (Mains) 2016**
+**Q13. UP R.O./A.R.O. (Mains) 2016**
 
 With reference to Hindu officers under the Nawabs of Oudh, which of the following statements is/are correct?
 

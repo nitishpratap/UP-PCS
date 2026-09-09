@@ -689,7 +689,7 @@ D. All 1, 2, 3 and 4
 
 ## Practice Zone — UPPCS Format Drill
 
-> **43 questions** · answers in `<details>`
+> **43 questions** · answers under Show answer
 
 **Q1.** Which is **NOT** correctly matched?
 

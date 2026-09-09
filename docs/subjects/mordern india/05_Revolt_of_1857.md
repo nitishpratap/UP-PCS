@@ -747,146 +747,950 @@ D. Only 1, 2 and 3
 
 Teaching for these stems sits in **5.0–5.15**.
 
-**Logic:** Enfield decision Dec 1856; rumours Jan 1857; immediate cause = greased cartridge / religion fear.
+**Logic:** Enfield rifle decision December 1856; trials at Dum Dum, Ambala and Sialkot.
 
 **Q1. BPSC / RAS**
 
-When was the new Enfield rifle introduced / immediate cause of 1857?
+The decision to introduce the new Enfield rifle in the Bengal Army was taken in:
+
+A. January 1857
+
+B. December 1856
+
+C. March 1857
+
+D. June 1857
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Decision **December 1856** (trials Dum Dum, Ambala, Sialkot); rumours from **January 1857**. Immediate cause = suspicion of British interference in religion via **cow–pig fat** cartridges (not Doctrine of Lapse alone).
+**Ans: B.** The Enfield decision came in **December 1856**, with trials at **Dum Dum, Ambala and Sialkot**.
 
 </details>
 
-**Logic:** Mangal Pandey = Barrackpore, 29 Mar 1857, 34th BNI — not Meerut.
+**Logic:** Immediate cause = greased-cartridge rumours and fear of religious interference — not Doctrine of Lapse alone.
 
-**Q2. UKPCS / UPPCS**
+**Q2. BPSC / RAS / UPPCS**
 
-Mangal Pandey incident place / uprising associated / regiment?
+The immediate cause of the Revolt of 1857 was:
+
+A. Annexation of Awadh under Dalhousie
+
+B. Suspicion that greased cartridges used cow and pig fat and interfered with religion
+
+C. Reduction of sepoys' foreign-service bhatta only
+
+D. Abolition of the Mughal court at Delhi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Barrackpore**. He belonged to the **34th Bengal Native Infantry** (not 19th/49th distractors).
+**Ans: B.** Rumours from **January 1857** centred on **cow–pig fat** cartridges. Exploitative **British policies** were the deeper cause; the cartridge was the **spark**.
 
 </details>
 
-**Logic:** Mass start = Meerut 10 May; first major event = march to Delhi Red Fort; Bakht Khan = Saheb-e-Alam Bahadur.
+**Logic:** Mangal Pandey = Barrackpore, 29 March 1857 — not Meerut.
 
-**Q3. UPPCS / BPSC / UP R.O.**
+**Q3. UKPCS / UPPCS**
 
-Where did 1857 start / first event of the war / title Saheb-e-Alam Bahadur?
+The Mangal Pandey incident took place at:
+
+A. Meerut
+
+B. Barrackpore
+
+C. Delhi
+
+D. Kanpur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Meerut (10 May 1857)**. First organised event often keyed as sepoys **marching to Delhi’s Red Fort**. Title = **Bakht Khan** (not Azimullah / Birjis Qadr).
+**Ans: B.** Mangal Pandey rose at **Barrackpore on 29 March 1857**, before the **Meerut** outbreak of **10 May**.
 
 </details>
 
-**Logic:** Main cause = British policies overall; symbols = lotus and chapatis; W.H. Russell = Times correspondent.
+**Logic:** Mangal Pandey belonged to 34th Bengal Native Infantry — standard distractor trap.
 
-**Q4. UPPCS / MPPCS**
+**Q4. UKPCS / UPPCS**
 
-Main cause of revolt / symbol of 1857 / Times correspondent who wrote North India hostile to white man?
+Mangal Pandey belonged to which regiment?
+
+A. 19th Bengal Native Infantry
+
+B. 34th Bengal Native Infantry
+
+C. 49th Bengal Native Infantry
+
+D. 1st Bengal Light Cavalry
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Exploitative **British policies** (cartridge was spark). Symbols **lotus and chapatis**. Correspondent **W.H. Russell**.
+**Ans: B.** He belonged to the **34th Bengal Native Infantry** (not **19th** or **49th** distractors).
 
 </details>
 
-**Logic:** Centre↔leader spine — Bareilly Khan Bahadur; Lucknow Hazrat Mahal; Kanpur Nana + Tatya; Jhansi Lakshmibai; Bihar Kunwar; Faizabad Ahmadullah; Allahabad Liyaqat; Assam Maniram; Auwa Kushal Singh.
+**Logic:** Mass start of the war = Meerut 10 May 1857.
 
-**Q5. UPPCS / BPSC / UKPCS / RAS cluster**
+**Q5. UPPCS / BPSC / UP R.O.**
 
-Bareilly leader / Lucknow leader / Jhansi birthplace–death–last battle vs whom / Kanpur C-in-C / Tatya real name–betrayal / Kunwar place / Assam / Auwa / Faizabad bitterest enemy / Allahabad?
+The Revolt of 1857 is generally said to have started on:
+
+A. 29 March 1857 at Barrackpore
+
+B. 10 May 1857 at Meerut
+
+C. 11 May 1857 at Jhansi
+
+D. 4 June 1857 at Lucknow
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Bareilly **Khan Bahadur Khan**. Lucknow **Begum Hazrat Mahal** (son **Birjis Qadr**). Lakshmibai born **Varanasi (Golghar)**; died **Gwalior** fighting **Hugh Rose** (**18 June 1858**). Kanpur C-in-C **Tatya Tope** (**Ramchandra Pandurang**), betrayed by **Man Singh**, hanged **Shivpuri 18 Apr 1859**. Kunwar **Jagdishpur / Bihar (Arrah)**. Assam **Maniram Dutta**. Auwa **Thakur Kushal Singh**. Faizabad **Maulvi Ahmadullah Shah**. Allahabad **Maulvi Liyaqat Ali**.
+**Ans: B.** The war's mass start is keyed to **Meerut, 10 May 1857**, though Barrackpore (**29 March**) was an earlier spark.
 
 </details>
 
-**Logic:** Nana + Hazrat Mahal fled to Nepal; inefficiency of officers NOT a sepoy grievance key; Ghalib witnessed; Scindia max help; educated middle class neutral; Chittor/Jaipur not centres; Munger unaffected in Bihar.
+**Logic:** First organised event after Meerut = march to Delhi's Red Fort.
 
-**Q6. Chhattisgarh / BPSC / IAS / MPPCS / UKPCS**
+**Q6. UPPCS / BPSC**
 
-Who escaped to Nepal / what was NOT a sepoy grievance / poet witness / dynasty helped British most / educated middle class / territory not affected / Bihar part unaffected?
+After the Meerut outbreak, the first major organised event of the rebels was:
+
+A. Proclamation of Birjis Qadr at Lucknow
+
+B. March of sepoys to Delhi's Red Fort
+
+C. Siege of Kanpur by Nana Sahib
+
+D. Kunwar Singh's rising at Jagdishpur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Nana Sahib and Begum Hazrat Mahal**. Officer **inefficiency** is the odd-one-out among common grievance lists. **Mirza Ghalib** (born **Agra**). **Scindias of Gwalior**. Educated class largely **neutral**. **Chittor** (also Jaipur) not a centre. **Munger** largely unaffected.
+**Ans: B.** Sepoys from Meerut **marched to Delhi's Red Fort** — the first major organised event of the war.
 
 </details>
 
-**Logic:** Match lists Bakht–Delhi, Ahmadullah–Awadh/Faizabad, Kunwar–Arrah, Nana–Kanpur; wrong pair Lucknow–Liyaqat; Jhansi start ≠ 11 May.
+**Logic:** Bakht Khan held title Saheb-e-Alam Bahadur — not Azimullah or Birjis Qadr.
 
-**Q7. Chhattisgarh / UPPCS 2010 / 2018 / 2023**
+**Q7. UPPCS / BPSC**
 
-Match leaders to places / which pair wrong / which place–date wrong?
+The title **Saheb-e-Alam Bahadur** was associated with:
+
+A. Azimullah Khan
+
+B. Bakht Khan
+
+C. Birjis Qadr
+
+D. Khan Bahadur Khan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Bakht Khan–Delhi; Maulvi Ahmadullah–Awadh/Faizabad; Kunwar–Arrah/Jagdishpur; Nana–Kanpur. Wrong: **Lucknow–Liyaqat** (Liyaqat = Allahabad). Wrong date: **Jhansi–11 May 1857** (Jhansi **June 1857**; Meerut **10 May**; Barrackpore **29 Mar**).
+**Ans: B.** **Bakht Khan** organised Delhi's rebel army and bore the title **Saheb-e-Alam Bahadur**.
 
 </details>
 
-**Logic:** GG = Canning; Barrackpore CO = Hearsey; Allahabad emergency HQ; British PM = Palmerston; Peel Commission army; Queen’s Proclamation 1 Nov 1858 Allahabad.
+**Logic:** Main cause = overall exploitative British policies; cartridge was spark.
 
-**Q8. UPPCS / IAS / BPSC / UKPCS**
+**Q8. UPPCS / MPPCS**
 
-GG during 1857 / Barrackpore British CO / emergency HQ / British PM / army reorg commission / Queen’s Proclamation date–place / objects of Proclamation?
+The main cause of the Revolt of 1857 is best described as:
+
+A. Greased cartridges alone
+
+B. Exploitative British policies, with the cartridge issue as the immediate spark
+
+C. Hindu–Muslim conspiracy engineered by outsiders
+
+D. Inefficiency of British officers in the field
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Lord Canning**. **John Bennet Hearsey**. **Allahabad**. **Palmerston**. **Peel Commission**. **1 November 1858**, Allahabad. Objects: end annexation intent + Crown rule (**1 and 2**); not regulate Company trade as a third aim in the IAS triad.
+**Ans: B.** **Exploitative British policies** (annexations, religious fears, pay cuts) formed the main cause; the **cartridge** was the immediate spark.
 
 </details>
 
-**Logic:** Failure = no common strategy/central organisation (+ limited area, loyal princes, British resources). Nicholson died Delhi not Lucknow; Lucknow deaths = Lawrence, Havelock, Neill.
+**Logic:** Symbols of the revolt = lotus and chapatis — not eagle or two swords.
 
-**Q9. BPSC / UPPCS**
+**Q9. UPPCS / MPPCS**
 
-Main cause of failure / British officers who died at Lucknow?
+Which pair were widely used as symbols of the Revolt of 1857?
+
+A. Lotus and chapatis
+
+B. Eagle and two swords
+
+C. Tricolour and spinning wheel
+
+D. Cow and peepal tree only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Lack of **common strategy and central organisation** (all of limited area / loyal natives / better British arms also true in fuller lists). Lucknow: **Neill, Havelock, Henry Lawrence** — **not Nicholson** (Delhi, Sept 1857).
+**Ans: A.** **Lotus and chapatis** circulated as rebel symbols across North India in **1857**.
 
 </details>
 
-**Logic:** Historiography — Outram & Taylor = conspiracy; Savarkar = First War; Majumdar = neither first nor national; Sen = official historian; Sir Syed = Asbab 1859.
+**Logic:** W.H. Russell = *Times* correspondent who wrote that North India had turned hostile to Europeans.
 
-**Q10. BPSC / MPPCS / UPPCS / RAS**
+**Q10. UPPCS / MPPCS**
 
-Who called 1857 a conspiracy / first to call First War of Independence / official historian / Asbab author / Majumdar quote?
+The *Times* correspondent who reported that North India had become hostile to the white man during the revolt was:
+
+A. Henry Lawrence
+
+B. W.H. Russell
+
+C. John Lawrence
+
+D. James Outram
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Sir James Outram and W. Taylor**. **V.D. Savarkar** (*Indian War of Independence*, **1909**). Official historian **S.N. Sen** (*Eighteen Fifty-Seven*, **1957**). **Sir Syed Ahmad Khan** (*Asbab-e-Baghawat-e-Hind*, **1859**). Majumdar: neither first, nor national, nor a war of independence.
+**Ans: B.** **W.H. Russell** of **The Times** filed the classic hostile-North-India dispatch.
 
 </details>
 
-**Logic:** UPPCS 2024 — Kunwar statement true; Dalhousie did NOT recognise Lakshmibai’s adopted heir.
+**Logic:** Bareilly leader = Khan Bahadur Khan — not Hazrat Mahal or Nana Sahib.
 
-**Q11. UPPCS (Pre) 2024**
+**Q11. UPPCS / BPSC / UKPCS / RAS**
 
-1 Kunwar Singh led rebellion from Jagdishpur 2 Dalhousie recognised Lakshmibai’s adopted son as heir
+Who led the revolt at **Bareilly**?
+
+A. Begum Hazrat Mahal
+
+B. Khan Bahadur Khan
+
+C. Nana Sahib
+
+D. Kunwar Singh
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Only 1).** Jhansi annexed under **Doctrine of Lapse (1854)**; adopted heir **not** recognised.
+**Ans: B.** **Khan Bahadur Khan** led **Bareilly**. Bahadur Shah II named him **Viceroy** in rebel parlance.
+
+</details>
+
+**Logic:** Lucknow = Begum Hazrat Mahal with son Birjis Qadr.
+
+**Q12. UPPCS / BPSC / UKPCS**
+
+Who led the revolt at **Lucknow**?
+
+A. Maulvi Liyaqat Ali
+
+B. Begum Hazrat Mahal
+
+C. Khan Bahadur Khan
+
+D. Bakht Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Begum Hazrat Mahal** led **Lucknow** and seated her minor son **Birjis Qadr** on the masnad.
+
+</details>
+
+**Logic:** Lakshmibai born Varanasi (Golghar); died Gwalior fighting Hugh Rose 18 June 1858.
+
+**Q13. UPPCS / UKPCS**
+
+Rani Lakshmibai was born at Varanasi (Golghar) and died fighting which British officer at Gwalior on 18 June 1858?
+
+A. Henry Lawrence
+
+B. Hugh Rose
+
+C. John Nicholson
+
+D. Colin Campbell
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** She died at **Gwalior** fighting **Sir Hugh Rose** on **18 June 1858**.
+
+</details>
+
+**Logic:** Kanpur military commander = Tatya Tope (Ramchandra Pandurang); betrayed by Man Singh.
+
+**Q14. UPPCS / BPSC / UKPCS**
+
+The real name of **Tantia Tope**, military commander at Kanpur, was:
+
+A. Man Singh
+
+B. Ramchandra Pandurang
+
+C. Azimullah Khan
+
+D. Mangal Pandey
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tantia Tope** was **Ramchandra Pandurang**. He was betrayed by **Man Singh** and hanged at **Shivpuri on 18 April 1859**.
+
+</details>
+
+**Logic:** Kunwar Singh = Jagdishpur / Arrah in Bihar.
+
+**Q15. UPPCS / UKPCS**
+
+Kunwar Singh led the revolt from:
+
+A. Bareilly
+
+B. Jagdishpur in Bihar (Arrah region)
+
+C. Faizabad
+
+D. Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kunwar Singh**, zamindar of **Jagdishpur** in **Bihar (Arrah)**, led the Bihar theatre.
+
+</details>
+
+**Logic:** Assam leader = Maniram Dutta; Auwa = Thakur Kushal Singh; Faizabad = Maulvi Ahmadullah Shah.
+
+**Q16. UPPCS / UKPCS**
+
+Who led the revolt in **Assam** during 1857?
+
+A. Thakur Kushal Singh
+
+B. Maniram Dutta
+
+C. Maulvi Ahmadullah Shah
+
+D. Maulvi Liyaqat Ali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Maniram Dutta** (also keyed **Kandarpeshwar Singh** in some lists) led the **Assam** stream.
+
+</details>
+
+**Logic:** Auwa in Rajasthan = Thakur Kushal Singh — not Jaipur or Chittor as centres.
+
+**Q17. UPPCS / UKPCS**
+
+The revolt at **Auwa** (Rajasthan) was led by:
+
+A. Thakur Kushal Singh
+
+B. Khan Bahadur Khan
+
+C. Nana Sahib
+
+D. Bakht Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Thakur Kushal Singh** led the **Auwa** rising in Rajasthan.
+
+</details>
+
+**Logic:** Faizabad bitterest enemy = Maulvi Ahmadullah Shah; Allahabad = Maulvi Liyaqat Ali.
+
+**Q18. UPPCS / UKPCS**
+
+Maulvi Ahmadullah Shah, remembered as a fierce rebel leader, was associated with:
+
+A. Allahabad
+
+B. Faizabad
+
+C. Delhi
+
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Maulvi Ahmadullah Shah** led the **Faizabad / Awadh** stream. **Maulvi Liyaqat Ali** was linked to **Allahabad (Khusro Bagh)**.
+
+</details>
+
+**Logic:** Nana Sahib and Begum Hazrat Mahal fled to Nepal after defeat.
+
+**Q19. Chhattisgarh / BPSC / IAS / MPPCS / UKPCS**
+
+Which leaders of the Revolt of 1857 escaped to **Nepal**?
+
+A. Bakht Khan and Hugh Rose
+
+B. Nana Sahib and Begum Hazrat Mahal
+
+C. Kunwar Singh and Tatya Tope
+
+D. Khan Bahadur Khan and Man Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Nana Sahib** and **Begum Hazrat Mahal** escaped to **Nepal** after British recovery of Kanpur and Lucknow.
+
+</details>
+
+**Logic:** Inefficiency of British officers was NOT a standard sepoy grievance — odd-one-out trap.
+
+**Q20. Chhattisgarh / BPSC / UKPCS**
+
+Which of the following was **not** a standard sepoy grievance before 1857?
+
+A. Greased cartridge rumours
+
+B. Stoppage of foreign-service bhatta
+
+C. Inefficiency of British officers in battle
+
+D. Fear of conversion and interference with religion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Inefficiency of British officers** is the odd-one-out. Cartridges, **bhatta** cuts and religious fears were real grievances.
+
+</details>
+
+**Logic:** Mirza Ghalib witnessed Delhi 1857; born Agra.
+
+**Q21. UKPCS / UPPCS**
+
+The poet who witnessed the Revolt of 1857 in Delhi was:
+
+A. Michael Madhusudan Dutt
+
+B. Mirza Ghalib
+
+C. Bankim Chandra Chattopadhyay
+
+D. Harivansh Rai Bachchan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Mirza Ghalib** witnessed Delhi **1857**. He was born at **Agra**.
+
+</details>
+
+**Logic:** Scindias of Gwalior gave maximum help to the British.
+
+**Q22. UKPCS / UPPCS**
+
+Which princely dynasty is most often keyed as giving the **maximum help to the British** during 1857?
+
+A. Scindias of Gwalior
+
+B. Holkars of Indore
+
+C. Bhonsles of Nagpur
+
+D. Nizam of Hyderabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The **Scindias of Gwalior** stayed loyal and gave major military help to the British.
+
+</details>
+
+**Logic:** Educated middle class largely neutral; Chittor/Jaipur not centres; Munger largely unaffected in Bihar.
+
+**Q23. UKPCS / IAS**
+
+Consider the following statements about the Revolt of 1857:
+
+1. The educated middle class was largely neutral.
+2. Chittor was a major centre of the revolt.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only statement **1** is correct. **Chittor** and **Jaipur** were **not** centres; **Munger** in Bihar was largely unaffected.
+
+</details>
+
+**Logic:** Standard leader–place match — Bakht Khan Delhi, Ahmadullah Faizabad, Kunwar Arrah, Nana Kanpur.
+
+**Q24. Chhattisgarh / UPPCS 2010 / 2018 / 2023**
+
+Match List-I with List-II.
+
+**List-I** A. Bakht Khan B. Maulvi Ahmadullah Shah C. Kunwar Singh D. Nana Sahib
+
+**List-II** 1. Kanpur 2. Delhi 3. Arrah / Jagdishpur 4. Faizabad / Awadh
+
+*Row order is not the answer code.*
+
+A. A-2, B-4, C-3, D-1
+
+B. A-1, B-2, C-4, D-3
+
+C. A-4, B-3, C-2, D-1
+
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Bakht Khan–Delhi**; **Ahmadullah–Faizabad/Awadh**; **Kunwar Singh–Arrah/Jagdishpur**; **Nana Sahib–Kanpur**.
+
+</details>
+
+**Logic:** Wrong pair trap — Liyaqat Ali = Allahabad, not Lucknow.
+
+**Q25. UPPCS / Chhattisgarh**
+
+Which pair is **not** correctly matched?
+
+A. Begum Hazrat Mahal — Lucknow
+
+B. Maulvi Liyaqat Ali — Allahabad
+
+C. Maulvi Liyaqat Ali — Lucknow
+
+D. Khan Bahadur Khan — Bareilly
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Maulvi Liyaqat Ali** belonged to **Allahabad**, not **Lucknow**. **Begum Hazrat Mahal** led **Lucknow**.
+
+</details>
+
+**Logic:** Jhansi rose in June 1857 — not 11 May (Meerut date trap).
+
+**Q26. UPPCS 2023 / Chhattisgarh**
+
+Which place–date pair is **not** correctly matched for the start of the revolt?
+
+A. Barrackpore — 29 March 1857
+
+B. Meerut — 10 May 1857
+
+C. Jhansi — 11 May 1857
+
+D. Lucknow — 4 June 1857
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Jhansi** rose in **June 1857**, not **11 May**. **Meerut** was **10 May**; **Barrackpore** **29 March**.
+
+</details>
+
+**Logic:** Governor-General during 1857 = Lord Canning.
+
+**Q27. UPPCS / IAS / BPSC / UKPCS**
+
+Who was Governor-General of India during the Revolt of 1857?
+
+A. Lord Dalhousie
+
+B. Lord Canning
+
+C. Lord Lytton
+
+D. Lord Ripon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lord Canning** was Governor-General during **1857** and became the first **Viceroy** after the Crown takeover.
+
+</details>
+
+**Logic:** Barrackpore British commanding officer = John Bennet Hearsey.
+
+**Q28. UKPCS / UPPCS**
+
+The British commanding officer at Barrackpore during the Mangal Pandey incident was:
+
+A. John Nicholson
+
+B. John Bennet Hearsey
+
+C. Henry Lawrence
+
+D. Hugh Rose
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **John Bennet Hearsey** commanded at **Barrackpore** when Mangal Pandey rose.
+
+</details>
+
+**Logic:** Canning shifted emergency headquarters to Allahabad.
+
+**Q29. UKPCS / UPPCS**
+
+Lord Canning made which city his emergency headquarters during the revolt?
+
+A. Calcutta
+
+B. Allahabad
+
+C. Simla
+
+D. Bombay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Allahabad** served as Canning's **emergency headquarters** during the crisis.
+
+</details>
+
+**Logic:** British PM in 1857 = Palmerston — not Gladstone or Churchill.
+
+**Q30. UPPCS / UKPCS / IAS**
+
+Who was the British Prime Minister during the Revolt of 1857?
+
+A. William Gladstone
+
+B. Lord Palmerston
+
+C. Benjamin Disraeli
+
+D. Winston Churchill
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lord Palmerston** was Prime Minister in **1857**.
+
+</details>
+
+**Logic:** Peel Commission = army reorganisation after 1857 — not education or ICS.
+
+**Q31. UPPCS / BPSC / UKPCS**
+
+The Peel Commission appointed after 1857 dealt with:
+
+A. Indian Civil Service recruitment
+
+B. Reorganisation of the Indian army
+
+C. Partition of Bengal
+
+D. Introduction of dyarchy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Peel Commission** recommended **army reorganisation** after the mutiny.
+
+</details>
+
+**Logic:** Queen's Proclamation 1 November 1858 at Allahabad — end annexation policy and Crown rule.
+
+**Q32. UPPCS / IAS / UKPCS**
+
+Queen Victoria's Proclamation transferring India to the Crown was read at Allahabad on:
+
+A. 1 May 1857
+
+B. 1 November 1858
+
+C. 26 January 1930
+
+D. 15 August 1947
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The Proclamation was read on **1 November 1858** at **Allahabad**, ending the Company's rule.
+
+</details>
+
+**Logic:** Proclamation objects = end of annexation policy and Crown rule — not Company trade regulation as third aim.
+
+**Q33. IAS / UPPCS**
+
+The Queen's Proclamation of 1858 chiefly announced:
+
+1. End of the policy of annexation
+2. Transfer of Indian governance to the Crown
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both **1 and 2** are correct. Regulating **Company trade** was **not** a third object in the standard IAS triad.
+
+</details>
+
+**Logic:** Main cause of rebel failure = lack of common strategy and central organisation.
+
+**Q34. BPSC / UPPCS**
+
+The main cause of the **failure** of the Revolt of 1857 was:
+
+A. Complete loyalty of all Indian princes
+
+B. Lack of common strategy and central organisation among the rebels
+
+C. Absence of any British military superiority
+
+D. Universal support from the educated middle class
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rebels lacked **common strategy and central organisation**, though limited area, loyal princes and British resources also mattered.
+
+</details>
+
+**Logic:** Nicholson died taking Delhi (Sept 1857) — not at Lucknow.
+
+**Q35. BPSC / UPPCS**
+
+Which British officer died during the **capture of Delhi** in September 1857?
+
+A. Henry Lawrence
+
+B. John Nicholson
+
+C. James Neill
+
+D. Henry Havelock
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **John Nicholson** died taking **Delhi**. **Neill, Havelock and Henry Lawrence** died in the **Lucknow** theatre.
+
+</details>
+
+**Logic:** Outram and W. Taylor = Hindu–Muslim conspiracy reading.
+
+**Q36. BPSC / MPPCS / UPPCS / RAS**
+
+Who described the Revolt of 1857 as a **Hindu–Muslim conspiracy**?
+
+A. John Lawrence and Seeley
+
+B. Sir James Outram and W. Taylor
+
+C. V.D. Savarkar
+
+D. R.C. Majumdar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sir James Outram and W. Taylor** pushed the **conspiracy** reading.
+
+</details>
+
+**Logic:** Savarkar 1909 = First War of Independence.
+
+**Q37. BPSC / UPPCS / RAS**
+
+Who first popularised the name **First War of Independence** for 1857?
+
+A. S.N. Sen
+
+B. V.D. Savarkar in *The Indian War of Independence* (1909)
+
+C. Sir Syed Ahmad Khan
+
+D. Karl Marx
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **V.D. Savarkar** titled his **1909** work *The Indian War of Independence*.
+
+</details>
+
+**Logic:** S.N. Sen = official historian (*Eighteen Fifty-Seven*, 1957); Sir Syed = *Asbab* 1859.
+
+**Q38. BPSC / UPPCS**
+
+*Asbab-e-Baghawat-e-Hind* (1859), explaining causes of the revolt, was written by:
+
+A. S.N. Sen
+
+B. Sir Syed Ahmad Khan
+
+C. R.C. Majumdar
+
+D. V.D. Savarkar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sir Syed Ahmad Khan** wrote ***Asbab-e-Baghawat-e-Hind*** in **1859**. **S.N. Sen** wrote the official *Eighteen Fifty-Seven* (**1957**).
+
+</details>
+
+**Logic:** Majumdar — neither first, nor national, nor a war of independence.
+
+**Q39. BPSC / UPPCS**
+
+R.C. Majumdar's verdict on the Revolt of 1857 is best summarised as:
+
+A. The first national war of independence
+
+B. A pure sepoy mutiny with no civil element
+
+C. Neither first, nor national, nor a war of independence
+
+D. A Hindu–Muslim conspiracy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Majumdar held it was **neither first, nor national, nor a war of independence**.
+
+</details>
+
+**Logic:** UPPCS 2024 — Kunwar Singh statement true; Dalhousie did not recognise Lakshmibai's adopted heir.
+
+**Q40. UPPCS (Pre) 2024**
+
+Consider the following statements:
+
+1. Kunwar Singh, landlord of Jagdishpur in Bihar, led the rebellion against the British.
+2. Lord Dalhousie recognised the adopted son of Rani Lakshmibai as the heir apparent.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only statement **1** is correct. Jhansi was annexed under the **Doctrine of Lapse (1854)** and the adopted heir was **not** recognised.
+
+</details>
+
+
+## UKPCS Complete PYQ Bank (Extra harvest)
+
+Stems below mirror UKPCS-tagged facts from the Extra Drill above. The **UKPCS Prelims 2025** set in Complete PYQ Bank stays unchanged.
+
+**Logic:** Mangal Pandey = Barrackpore spark before Meerut mass start.
+
+**Q1. UKPCS**
+
+The Mangal Pandey incident is associated with:
+
+A. Meerut, 10 May 1857
+
+B. Barrackpore, 29 March 1857
+
+C. Delhi, 11 May 1857
+
+D. Lucknow, 4 June 1857
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Barrackpore, 29 March 1857** — he belonged to the **34th Bengal Native Infantry**.
+
+</details>
+
+**Logic:** Begum Hazrat Mahal = Lucknow; Khan Bahadur Khan = Bareilly — classic UKPCS pair trap.
+
+**Q2. UKPCS**
+
+Who led the revolt at **Lucknow** during 1857?
+
+A. Khan Bahadur Khan
+
+B. Begum Hazrat Mahal
+
+C. Nana Sahib
+
+D. Bakht Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Begum Hazrat Mahal** led **Lucknow** and placed **Birjis Qadr** on the masnad. **Khan Bahadur Khan** led **Bareilly**.
+
+</details>
+
+**Logic:** Nana Sahib and Hazrat Mahal fled to Nepal — not Delhi leaders.
+
+**Q3. UKPCS**
+
+Which rebel leaders escaped to **Nepal** after the suppression of the revolt?
+
+A. Bakht Khan and Azimullah Khan
+
+B. Nana Sahib and Begum Hazrat Mahal
+
+C. Kunwar Singh and Tatya Tope
+
+D. Mangal Pandey and Man Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Nana Sahib** and **Begum Hazrat Mahal** took refuge in **Nepal**.
+
+</details>
+
+**Logic:** Canning + Allahabad HQ + Hearsey at Barrackpore = UKPCS admin spine.
+
+**Q4. UKPCS**
+
+With reference to the Revolt of 1857, consider the following:
+
+1. Lord Canning was Governor-General.
+2. Canning shifted his emergency headquarters to Allahabad.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct. At **Barrackpore**, the British CO was **John Bennet Hearsey**.
 
 </details>
 
@@ -1759,6 +2563,7 @@ D. February 1857
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Stem tests the administrative decision date, not the January rumour wave.
 
 **Ans: B.** Decision **December 1856**; fat rumours from **January 1857**. Trial centres were Dum Dum, Ambala and Sialkot.
@@ -1780,6 +2585,7 @@ D. Tricolour and chakra
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Coaching keys fix lotus + chapati as the symbol pair for 1857 messaging.
 
 **Ans: B.** Lotus and chapatis.
@@ -1800,6 +2606,7 @@ D. Khan Bahadur Khan
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Title belongs to Delhi’s military organiser, not Bareilly’s Viceroy.
 
@@ -1831,6 +2638,7 @@ D. 3 1 2 4
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Assam–Auwa–Allahabad–Faizabad are classic Ghatnachakra place traps.
 
 **Ans: A.** Maniram–Assam; Kushal Singh–Auwa; Liaquat–Allahabad; Ahmadullah–Faizabad.
@@ -1853,6 +2661,7 @@ D. Hugh Wheeler
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Barrackpore CO is a name-only stem separate from Meerut’s Hewitt.
 
@@ -1898,6 +2707,7 @@ D. Sir Syed Ahmad Khan
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Savarkar vs Majumdar is the standard historiography trap.
 
 **Ans: C.** Savarkar, *The Indian War of Independence* (1909). Majumdar denied the “first national war” label; Sen wrote the official *Eighteen Fifty-Seven* (1957); Sir Syed wrote *Asbab-e-Baghawat-e-Hind* (1859).
@@ -1918,6 +2728,7 @@ D. Outram and Taylor
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Exact quote attribution — Majumdar, not Sen.
 
@@ -1940,6 +2751,7 @@ D. Lord Wellesley
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Canning was GG in 1857 and later first Viceroy; Allahabad also hosted the Queen’s Proclamation.
 
 **Ans: B.** Canning.
@@ -1960,6 +2772,7 @@ D. Auwa — Kushal Singh
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Wrong-pair stem; Lucknow belongs to Hazrat Mahal / Birjis Qadr.
 
@@ -1982,6 +2795,7 @@ D. Tantia Tope and Rani Lakshmibai
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Nepal refuge pair is Nana + Begum; Kunwar died in Bihar; Tantia hanged at Shivpuri; Rani died at Gwalior.
 
 **Ans: B.**
@@ -2003,6 +2817,7 @@ D. Lucknow
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Classic “unaffected place” stem.
 
 **Ans: B.** Chittor. Jaipur likewise was not a centre; Auwa was.
@@ -2023,6 +2838,7 @@ D. Seeley
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Conspiracy = Outram–Taylor; mutiny = Lawrence/Seeley; civilisation–barbarism = Holmes.
 
@@ -2047,6 +2863,7 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Both are Peel outcomes; numbers often cited ~45k→65k Europeans and ~238k→140k Indians.
 
@@ -2073,6 +2890,7 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Witness and correspondent name pairs from the 1857 narrative.
 

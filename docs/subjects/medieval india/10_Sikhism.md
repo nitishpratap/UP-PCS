@@ -355,34 +355,55 @@ D. Multan
 
 Teaching for these stems sits in **10.1–10.6**.
 
-**Logic:** Nanak’s successor is Lehna → Guru Angad, not a blood son.
+**Logic:** Nanak’s successor is Lehna, who took the name Guru Angad — not a blood son.
 
 **Q1. MPPCS (Pre) 2015 / UP R.O./A.R.O. (Pre) 2021**
 
-Who did Guru Nanak appoint as successor / who was declared successor?
+Who did Guru Nanak appoint as his spiritual successor?
 
-A. Guru Ramdas / Bala
+A. Guru Ramdas
 
-B. Guru Amardas / Lehna
+B. Guru Amardas
 
-C. Guru Har Rai / Mardana
+C. Guru Har Rai
 
-D. Guru Angad / Sri Chand
+D. Guru Angad
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D then B across the two stems.** Nanak appointed **Bhai Lehna**, later **Guru Angad**. **Sri Chand** was Nanak’s son but not the Guru.
+**Ans: D.** Nanak appointed **Bhai Lehna**, who became **Guru Angad** (second Guru).
 
-**Trap:** Do not pick **Mardana** (rababi companion) or **Sri Chand**.
+**Trap:** Do not pick **Mardana** (rababi companion) or **Sri Chand** (Nanak’s son, not the Guru line).
+
+</details>
+
+**Logic:** Before taking the title Angad, Nanak’s chosen successor was known as Bhai Lehna.
+
+**Q2. MPPCS (Pre) 2015 / UP R.O./A.R.O. (Pre) 2021**
+
+Before becoming Guru Angad, Nanak’s declared successor was known by which name?
+
+A. Sri Chand
+
+B. Bhai Lehna
+
+C. Mardana
+
+D. Bala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bhai Lehna** was Nanak’s chosen disciple; he received the name **Angad** on succession. **Sri Chand** was Nanak’s son but not the Guru.
 
 </details>
 
 **Logic:** Gurmukhi = second Guru Angad.
 
-**Q2. UPPCS (Mains) 2017**
+**Q3. UPPCS (Mains) 2017**
 
-Which Guru started / developed Gurmukhi?
+Which Guru developed the Gurmukhi script?
 
 A. Guru Nanak
 
@@ -401,28 +422,49 @@ D. Guru Angad
 
 **Logic:** Amritsar settlement = Ram Das on Akbar’s grant via Bibi Bhani.
 
-**Q3. UPPCS (Pre) 1996 / UK UDA/LDA (Mains) 2007**
+**Q4. UPPCS (Pre) 1996**
 
-Amritsar was established by / Akbar donated 500 bighas to which Guru’s household?
+Amritsar was established by which Sikh Guru?
 
-A. Nanak / Arjan Dev
+A. Guru Nanak
 
-B. Gobind Singh / Ramdas
+B. Guru Gobind Singh
 
-C. Tegh Bahadur / Har Rai
+C. Guru Tegh Bahadur
 
-D. Ramdas / Ramdas (Bibi Bhani)
+D. Guru Ramdas
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D / Ramdas.** **Akbar** granted land to **Bibi Bhani**, wife of **Guru Ram Das**; **Ramdaspur** became **Amritsar**.
+**Ans: D.** **Guru Ram Das** founded **Ramdaspur**, which became **Amritsar** around the pool he excavated.
+
+</details>
+
+**Logic:** Akbar’s 500-bigha grant went to Bibi Bhani, wife of Guru Ram Das — same Ramdas key.
+
+**Q5. UPPCS (Pre) 1996**
+
+Akbar donated 500 bighas of land to the household of which Sikh Guru?
+
+A. Guru Arjan Dev
+
+B. Guru Ramdas
+
+C. Guru Har Rai
+
+D. Guru Hargobind
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Akbar** granted the land to **Bibi Bhani**, wife of **Guru Ram Das**; the settlement grew into **Amritsar**.
 
 </details>
 
 **Logic:** Correct Guru–work pair is Arjan → Adi Granth (not Amar Das–Miri/Piri, not Gobind–Manji).
 
-**Q4. IAS (Pre) 1996**
+**Q6. IAS (Pre) 1996**
 
 Which pair is correctly matched?
 
@@ -443,7 +485,7 @@ D. Guru Gobind Singh – Manji
 
 **Logic:** Khusrau help → Arjan under Jahangir.
 
-**Q5. UP UDA/LDA (Pre) 2001**
+**Q7. UP UDA/LDA (Pre) 2001**
 
 Which Sikh Guru helped rebel prince Khusrau with shelter and wealth?
 
@@ -462,51 +504,51 @@ D. Guru Tegh Bahadur
 
 </details>
 
-**Logic:** Compilers and martyr pair both map to rulers.
+**Logic:** Death sentences = Arjan (Jahangir) + Tegh Bahadur (Aurangzeb).
 
-**Q6. UKPCS (Pre) 2002 / 2004 / 2005**
+**Q8. UP UDA/LDA (Pre) 2002 / Chhattisgarh PCS**
 
-Who compiled Adi Granth / Guru Granth Sahib?
+Which pair of Sikh Gurus were executed on the orders of Mughal emperors?
 
-A. Guru Nanak Dev
+A. Guru Angad and Guru Hargobind
 
-B. Guru Tegh Bahadur
+B. Guru Arjan Dev and Guru Tegh Bahadur
 
-C. Guru Gobind Singh
+C. Guru Angad and Guru Arjan Dev
 
-D. Guru Arjan Dev
+D. Guru Hargobind and Guru Tegh Bahadur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Fifth Guru **Arjan Dev** compiled the **Adi Granth** (installed **1604**). Gobind Singh later made the Granth the eternal Guru.
+**Ans: B.** **Guru Arjan Dev** was executed under **Jahangir** (**1606**). **Guru Tegh Bahadur** was executed under **Aurangzeb** at Delhi (**1675**).
 
 </details>
 
-**Logic:** Death sentences = Arjan (Jahangir) + Tegh Bahadur (Aurangzeb).
+**Logic:** Aurangzeb alone ordered Tegh Bahadur’s execution — the second half of the old dual stem.
 
-**Q7. UP UDA/LDA (Pre) 2002 / Chhattisgarh PCS**
+**Q9. UP UDA/LDA (Pre) 2002 / Chhattisgarh PCS**
 
-Which Gurus were penalised with death / Aurangzeb is responsible for whose death?
+Aurangzeb is responsible for the execution of which Sikh Guru?
 
-A. Angad and Hargobind / Gobind Singh
+A. Guru Arjan Dev
 
-B. Arjan Dev and Tegh Bahadur / Tegh Bahadur
+B. Guru Tegh Bahadur
 
-C. Angad and Arjan / Ramdas
+C. Guru Hargobind
 
-D. Hargobind and Tegh Bahadur / Angad
+D. Guru Gobind Singh
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Arjan Dev** under **Jahangir**; **Tegh Bahadur** under **Aurangzeb** (Delhi, **1675**).
+**Ans: B.** **Aurangzeb** ordered the execution of **Guru Tegh Bahadur** in **1675**. **Arjan Dev** died under **Jahangir**, not Aurangzeb.
 
 </details>
 
 **Logic:** Birthplace of the tenth Guru.
 
-**Q8. BPSC (Pre) 2015**
+**Q10. BPSC (Pre) 2015**
 
 Which Sikh Guru was born in Patna?
 
@@ -527,7 +569,7 @@ D. Gobind Singh
 
 **Logic:** Nanded sacred because of Gobind Singh’s mausoleum / Hazur Sahib.
 
-**Q9. UP Lower Sub. (Pre) 2002**
+**Q11. UP Lower Sub. (Pre) 2002**
 
 Nanded is considered sacred by Sikhs due to whose mausoleum?
 
@@ -548,28 +590,49 @@ D. Guru Gobind Singh
 
 **Logic:** Khalsa = Gobind Singh, Anandpur, Baisakhi 1699.
 
-**Q10. RAS 1993 / UKPCS 2016 / MPPCS / UPPCS (Mains) 2006**
+**Q12. RAS 1993 / MPPCS / UPPCS (Mains) 2006**
 
-Under whom were Sikhs transformed into the Khalsa / who founded the military order?
+Under which Sikh Guru were the Sikhs transformed into the Khalsa?
 
-A. Guru Teg Bahadur / Har Rai
+A. Guru Tegh Bahadur
 
-B. Guru Arjun / Har Kishan
+B. Guru Arjan Dev
 
-C. Guru Gobind Singh / Gobind Singh
+C. Guru Gobind Singh
 
-D. Guru Nanak Dev / Tegh Bahadur
+D. Guru Nanak Dev
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Guru Gobind Singh** founded **Khalsa Panth** at **Anandpur Sahib** on **Baisakhi, 13 April 1699**, with the Five Ks and Singh/Kaur names.
+**Ans: C.** **Guru Gobind Singh** transformed the Sikhs into the **Khalsa Panth** at **Anandpur Sahib** on **Baisakhi, 13 April 1699**.
+
+</details>
+
+**Logic:** Khalsa military order and the Five Ks both belong to Gobind Singh at Anandpur.
+
+**Q13. RAS 1993 / MPPCS / UPPCS (Mains) 2006**
+
+Who founded the Khalsa military order?
+
+A. Guru Har Rai
+
+B. Guru Har Kishan
+
+C. Guru Gobind Singh
+
+D. Guru Tegh Bahadur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Guru Gobind Singh** founded the **Khalsa** at **Anandpur Sahib** on **13 April 1699**, instituting the **Five Ks** and the names **Singh/Kaur**.
 
 </details>
 
 **Logic:** Banda’s original name.
 
-**Q11. UPPCS (Mains) 2014**
+**Q14. UPPCS (Mains) 2014**
 
 The original name of Banda Bahadur was:
 
@@ -588,28 +651,34 @@ D. Harnam Das
 
 </details>
 
-### Other papers (Ghatnachakra Extra)
-
 **Logic:** Khalsa “how many years ago” stems age with the paper year; fixed date is 1699.
 
-**Q-GC1. MPPCS (Pre) 2000**
+**Q15. MPPCS (Pre) 2000**
 
-How many years ago did Khalsa Panth start? (options ~150/200/300/400)
+How many years ago did the Khalsa Panth start? (Paper year: 2000)
+
+A. About 150 years
+
+B. About 200 years
+
+C. About 300 years
+
+D. About 400 years
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: ~300 (for a 2000 paper).** Fixed teaching date: **13 April 1699**, **Anandpur Sahib**, **Baisakhi**.
+**Ans: C (about 300 years for a 2000 paper).** Fixed teaching date: **13 April 1699**, **Anandpur Sahib**, **Baisakhi**. Count back from the paper year when options are relative.
 
 </details>
 
 ---
 
-## UKPCS stems — Sikhism
+### UKPCS Complete PYQ Bank — Sikhism
 
 **Logic:** Famous Sikh gurudwara in Uttarakhand hills.
 
-**Q-UK1. Uttarakhand UDA/LDA (Mains) 2006**
+**Q1. Uttarakhand UDA/LDA (Mains) 2006**
 
 At which of the following places is a famous Sikh Gurudwara located?
 
@@ -624,15 +693,15 @@ D. Brahm Kund
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Hem Kund** (Chamoli, Uttarakhand) hosts the famous Sikh gurudwara.
+**Ans: B.** **Hem Kund** (Chamoli, Uttarakhand) hosts the famous Sikh gurudwara associated with Guru Gobind Singh.
 
 </details>
 
 **Logic:** Adi Granth compiler — repeated UKPCS Pre years.
 
-**Q-UK2. Uttarakhand PCS (Pre) 2002 / 2004 / 2005**
+**Q2. UKPCS (Pre) 2002 / 2004 / 2005**
 
-Who compiled Adi Granth or Guru Granth Sahib?
+Who compiled the Adi Granth?
 
 A. Guru Nanak Dev
 
@@ -645,35 +714,99 @@ D. Guru Arjan Dev
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Guru Arjan Dev**, fifth Guru.
+**Ans: D.** Fifth Guru **Arjan Dev** compiled the **Adi Granth** (installed **1604**). **Guru Gobind Singh** later added compositions and made the Granth the eternal Guru.
 
 </details>
 
-**Logic:** Khalsa founder.
+**Logic:** UK UDA/LDA Amritsar stem — same Ramdas key as UPPCS 1996.
 
-**Q-UK3. Uttarakhand PCS (Pre) 2016 / UKPCS (Mains) 2006**
+**Q3. UK UDA/LDA (Mains) 2007**
 
-Under which Sikh Guru were the Sikhs transformed into the Khalsa / who founded the Khalsa?
+Amritsar was established by which Sikh Guru?
 
-A. Guru Teg Bahadur
+A. Guru Nanak
 
-B. Guru Arjun
+B. Guru Gobind Singh
 
-C. Guru Gobind Singh
+C. Guru Tegh Bahadur
 
-D. Guru Nanak Dev / Har Rai
+D. Guru Ramdas
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C / Gobind Singh.** **Khalsa** at **Anandpur**, **Vaisakhi 1699**.
+**Ans: D.** **Guru Ram Das** founded **Ramdaspur**, which became **Amritsar**.
 
 </details>
 
+**Logic:** Akbar’s grant to Bibi Bhani — UK UDA/LDA variant of the Amritsar stem.
+
+**Q4. UK UDA/LDA (Mains) 2007**
+
+Akbar donated 500 bighas of land to the household of which Sikh Guru?
+
+A. Guru Arjan Dev
+
+B. Guru Ramdas
+
+C. Guru Har Rai
+
+D. Guru Hargobind
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Akbar** granted the land to **Bibi Bhani**, wife of **Guru Ram Das**.
+
+</details>
+
+**Logic:** Khalsa transformation under the tenth Guru.
+
+**Q5. UKPCS (Pre) 2016 / UKPCS (Mains) 2006**
+
+Under which Sikh Guru were the Sikhs transformed into the Khalsa?
+
+A. Guru Tegh Bahadur
+
+B. Guru Arjan Dev
+
+C. Guru Gobind Singh
+
+D. Guru Nanak Dev
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Guru Gobind Singh** created the **Khalsa Panth** at **Anandpur Sahib** on **Vaisakhi, 13 April 1699**.
+
+</details>
+
+**Logic:** Khalsa founder — second half of the old UKPCS dual stem.
+
+**Q6. UKPCS (Pre) 2016 / UKPCS (Mains) 2006**
+
+Who founded the Khalsa?
+
+A. Guru Har Rai
+
+B. Guru Arjan Dev
+
+C. Guru Gobind Singh
+
+D. Guru Nanak Dev
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Guru Gobind Singh** founded the **Khalsa** at **Anandpur**, **Vaisakhi 1699**, with the **Five Ks** and **Singh/Kaur** names.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **38 questions** · answers in `<details>`
+> **38 questions** · answers under Show answer
 
 **Q1.** Match (2025 pattern): D. Mardana maps to
 

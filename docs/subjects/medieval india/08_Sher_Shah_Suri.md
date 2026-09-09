@@ -544,7 +544,7 @@ D. Sammel (1544)
 
 ## Practice Zone — UPPCS Format Drill
 
-> **35 questions** · answers in `<details>`
+> **35 questions** · answers under Show answer
 
 **Q1.** Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
 

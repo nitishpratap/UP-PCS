@@ -878,144 +878,1197 @@ D. 4 3 2 1
 
 Teaching sits in **9.2**.
 
-**Logic:** First organised political body = Zamindari/Landholders 1838; chronology Bangabhasha 1836 → Landholders 1838 → Bengal British India 1843 → Indian League 1875.
+**Logic:** First organised political body = Zamindari / Landholders’ Society 1838 — not Indian Association 1876.
 
 **Q1. UKPCS / IAS / UP R.O.**
 
-First political organisation 1838 / Bengal British India Society A/R / House of Commons petition 1875?
+Which is regarded as the first organised political association in India using constitutional agitation?
+
+A. Indian Association (1876)
+
+B. Zamindari Association / Landholders’ Society (1838)
+
+C. East India Association (1866)
+
+D. Poona Sarvajanik Sabha (1870)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Zamindari Association / Landholders’ Society (1838, Dwarkanath Tagore)**. Bengal British India Society **1843** = George Thompson (brought by Dwarkanath) — both A and R true, R explains A. Commons petition = **Poona Sarvajanik Sabha**.
+**Ans: B.** The **Zamindari Association / Landholders’ Society (1838)**, linked to **Dwarkanath Tagore**, is the standard first-organised-political-body key.
 
 </details>
 
-**Logic:** Indian Association = Banerjee + A.M. Bose 1876; strongest pre-Congress; ICS dismissal ~1874; Conference merged 1886.
+**Logic:** Bengal British India Society 1843 = George Thompson; A and R both true, R explains A in UP R.O. stems.
 
-**Q2. BPSC / UPPCS / IAS**
+**Q2. UKPCS / UP R.O. / IAS**
 
-Indian Association founder / most important pre-Congress body / who dismissed from ICS / what merged into Congress 1886?
+Consider the following statements:
+
+**Assertion (A):** The Bengal British India Society was founded in 1843.
+
+**Reason (R):** George Thompson, brought to India with Dwarkanath Tagore’s help, played a leading role in founding it.
+
+Select the correct answer:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is true, but (R) is false.
+
+D. (A) is false, but (R) is true.
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Surendranath Banerjee** (with Ananda Mohan Bose). Most important = **Indian Association**. Dismissed ICS = **Banerjee (~1874)**. Merged = **Indian National Conference**.
+**Ans: A.** Both are **true**, and **(R) explains (A)**. **George Thompson** helped found the **Bengal British India Society (1843)**.
 
 </details>
 
-**Logic:** Bombay Association 1852 → Indian League 1875 → Indian Association 1876 → Madras Mahajan 1884; Bombay Presidency = Mehta–Telang–Tyabji 1885; East India Assoc = London Naoroji not Calcutta.
+**Logic:** House of Commons petition 1875 = Poona Sarvajanik Sabha — not Indian Association.
 
-**Q3. Jharkhand / UPPCS / BPSC**
+**Q3. UKPCS / UP R.O. / IAS**
 
-Order Bombay Association–Madras Mahajan–Indian Association–Indian League / Bombay Presidency founders / wrong place pairs?
+Which body petitioned the British House of Commons in 1875 for direct representation of Indian interests?
+
+A. Indian Association
+
+B. Poona Sarvajanik Sabha
+
+C. Bombay Presidency Association
+
+D. East India Association
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Order **1, 4, 3, 2** (Bombay Assoc → Indian League → Indian Assoc → Madras Mahajan). Bombay Presidency = **Mehta, Telang, Tyabji**. Wrong pairs often = East India Association–Calcutta and Indian Association–Bombay.
+**Ans: B.** The **Poona Sarvajanik Sabha (1870)** sent the **1875** petition to the **House of Commons**.
 
 </details>
 
-**Logic:** British Indian Association President = Radhakant Deb; Central Mohammadan = Syed Amir Ali; United Indian Patriotic = Syed + Raja Shiv Prasad; Landholders year ≠ 1844.
+**Logic:** Indian Association = Banerjee + A.M. Bose 1876 Calcutta.
 
-**Q4. Chhattisgarh / UPPCS**
+**Q4. BPSC / UPPCS / IAS**
 
-First President British Indian Association / Mohammadan National Association / United Indian Patriotic Association co-founder / Landholders Society year trap?
+The Indian Association (1876) was founded by:
+
+A. Dadabhai Naoroji and W.C. Bonnerjee
+
+B. Surendranath Banerjee and Ananda Mohan Bose
+
+C. Pherozeshah Mehta and K.T. Telang
+
+D. A.O. Hume and Allan Octavian Hume
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Radhakant Deb**. **Syed Amir Ali**. Co-founder with Syed = **Raja Shiv Prasad**. Landholders = **1838**, not 1844.
+**Ans: B.** **Surendranath Banerjee** and **Ananda Mohan Bose** founded the **Indian Association (26 July 1876, Calcutta)**.
 
 </details>
+
+**Logic:** Strongest pre-Congress nationalist body = Indian Association — not Landholders’ Society alone.
+
+**Q5. BPSC / UPPCS / IAS**
+
+Which was the most important pre-Congress nationalist political organisation?
+
+A. British Indian Association (1851)
+
+B. Indian Association (1876)
+
+C. Bombay Association (1852)
+
+D. Madras Mahajan Sabha (1884)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Indian Association (1876)** is the standard “most important pre-Congress” key — stronger than zamindar-heavy bodies of 1838/1851.
+
+</details>
+
+**Logic:** Banerjee dismissed from ICS ~1874 — after clearing selection in 1869.
+
+**Q6. BPSC / UPPCS / IAS**
+
+Who among the following was dismissed from the Indian Civil Service around 1874?
+
+A. A.O. Hume
+
+B. Surendranath Banerjee
+
+C. Dadabhai Naoroji
+
+D. Gopal Krishna Gokhale
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Surendranath Banerjee** cleared ICS selection in **1869** but was dismissed around **1874** after judicial controversy — a core biographical fact.
+
+</details>
+
+**Logic:** Indian National Conference merged into Congress stream 1886 — not East India Association.
+
+**Q7. BPSC / UPPCS / IAS**
+
+Banerjee’s **Indian National Conference** merged into the wider Congress stream in:
+
+A. 1883
+
+B. 1885
+
+C. 1886
+
+D. 1907
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The **Indian National Conference** line merged into the Congress stream in **1886**. The first INC session itself was **1885**.
+
+</details>
+
+**Logic:** Chronology Bombay Association 1852 → Indian League 1875 → Indian Association 1876 → Madras Mahajan 1884.
+
+**Q8. Jharkhand / UPPCS / BPSC**
+
+Arrange the following in chronological order:
+
+1. Bombay Association
+2. Madras Mahajan Sabha
+3. Indian Association
+4. Indian League
+
+Select the correct code:
+
+A. 1, 4, 3, 2
+
+B. 4, 1, 3, 2
+
+C. 1, 3, 4, 2
+
+D. 2, 1, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Order: **Bombay Association (1852) → Indian League (1875) → Indian Association (1876) → Madras Mahajan Sabha (1884)** — code **1, 4, 3, 2**.
+
+</details>
+
+**Logic:** Bombay Presidency Association 1885 = Mehta, Telang, Tyabji — Trimurti of Bombay.
+
+**Q9. Jharkhand / UPPCS / BPSC**
+
+The Bombay Presidency Association (1885) was founded by:
+
+A. Mehta, Telang and Tyabji
+
+B. Naoroji, Ranade and Tilak
+
+C. Banerjee, Bose and Hume
+
+D. Gokhale, Tilak and Agarkar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Pherozeshah Mehta, K.T. Telang and Badruddin Tyabji** founded the **Bombay Presidency Association (1885)**.
+
+</details>
+
+**Logic:** East India Association = London 1866 Naoroji — wrong if paired with Calcutta; Indian Association = Calcutta not Bombay.
+
+**Q10. Jharkhand / UPPCS / BPSC**
+
+Which association–place pair is **NOT** correctly matched?
+
+A. East India Association — London
+
+B. Indian Association — Calcutta
+
+C. East India Association — Calcutta
+
+D. Bombay Presidency Association — Bombay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The **East India Association (1866)** belongs to **London**, not Calcutta. Trap: do not give Calcutta to Naoroji’s **1866** body.
+
+</details>
+
+**Logic:** British Indian Association President = Radhakant Deb — conservative zamindar line 1851.
+
+**Q11. Chhattisgarh / UPPCS**
+
+The first President of the British Indian Association (1851) was:
+
+A. Dwarkanath Tagore
+
+B. Radhakant Deb
+
+C. Surendranath Banerjee
+
+D. Devendranath Tagore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Radhakant Deb** was the first President of the **British Indian Association (1851, Calcutta)**.
+
+</details>
+
+**Logic:** Central National Mohammadan Association = Syed Amir Ali 1877 Calcutta.
+
+**Q12. Chhattisgarh / UPPCS**
+
+The Central National Mohammadan Association was founded by:
+
+A. Syed Ahmad Khan alone in 1877
+
+B. Syed Amir Ali
+
+C. Badruddin Tyabji
+
+D. Aga Khan III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Syed Amir Ali** founded the **Central National Mohammadan Association (1877, Calcutta)**.
+
+</details>
+
+**Logic:** United Indian Patriotic Association co-founder with Syed = Raja Shiv Prasad.
+
+**Q13. Chhattisgarh / UPPCS**
+
+Raja Shiv Prasad was a co-founder of:
+
+A. Indian Association
+
+B. United Indian Patriotic Association
+
+C. East India Association
+
+D. Poona Sarvajanik Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Raja Shiv Prasad** co-founded the **United Indian Patriotic Association** with **Syed Ahmad Khan’s** circle — a loyalist counter to Congress in the 1880s.
+
+</details>
+
+**Logic:** Landholders’ Society year = 1838 — trap year 1844.
+
+**Q14. Chhattisgarh / UPPCS**
+
+The Landholders’ Society was founded in:
+
+A. 1836
+
+B. 1838
+
+C. 1843
+
+D. 1844
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Landholders’ / Zamindari Association** dates to **1838**. **1843** belongs to the **Bengal British India Society**; **1844** is a common trap year.
+
+</details>
+
+---
 
 ## Ghatnachakra Extra Drill — Indian National Congress
 
 Teaching sits in **9.3–9.5**.
 
-**Logic:** INC 1885 Hume + W.C. Banerjee President + 72 delegates + Bombay; Dufferin Viceroy / microscopic minority; first Muslim = Tyabji; first European President = George Yule; Wedderburn British Committee 1889.
+**Logic:** INC organiser = A.O. Hume — first President was W.C. Bonnerjee, not Hume.
 
-**Q5. BPSC / UPPCS / UKPCS / IAS**
+**Q15. BPSC / UPPCS / UKPCS / IAS**
 
-INC founder / year–place / first President / delegates / Viceroy / microscopic minority / first Muslim President / first European President / British Committee head?
+Who was the principal organiser of the first session of the Indian National Congress (1885)?
 
-<details>
-<summary>Show answer</summary>
+A. Dadabhai Naoroji
 
-**Ans:** Founder organiser **A.O. Hume** (ICS). **1885 Bombay**; President **W.C. Banerjee**; **~72** delegates; Viceroy **Dufferin**; phrase **microscopic minority**. First Muslim President **Badruddin Tyabji (1887)**. First European President **George Yule (1888)**. British Committee **Wedderburn (1889)**.
+B. A.O. Hume
 
-</details>
+C. Surendranath Banerjee
 
-**Logic:** First woman President = Annie Besant 1917; first Indian woman = Sarojini 1925; Tilak never President; Gandhi only Belgaum 1924; Surendranath absent from first INC session.
-
-**Q6. IAS / UPPCS / BPSC**
-
-First woman INC President / first Indian woman President / who never became President among Lal-Bal-Pal / Gandhi’s only session / who was absent at founding session?
+D. W.C. Bonnerjee
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Annie Besant (1917)**. **Sarojini Naidu (1925)**. Never President = **Tilak**. Gandhi = **Belgaum 1924**. Absent at founding = **Surendranath Banerjee** (busy with National Conference).
+**Ans: B.** **A.O. Hume** (retired ICS) organised the **1885** session. **W.C. Bonnerjee** was **President**, not principal organiser.
 
 </details>
 
-**Logic:** Lucknow 1916 = reunion + Pact + Tilak Swaraj birthright; Bankipur 1912; Haripura 1938 Bose + Planning Committee; Azad 1940–46; Kripalani at Independence; Jana Gana Mana first sung 1911 Calcutta; Tilak last session Amritsar 1919; safety valve = Lajpat Rai.
+**Logic:** First INC session = 28 December 1885, Bombay — not Calcutta or Poona.
 
-**Q7. UPPCS / BPSC / IAS**
+**Q16. BPSC / UPPCS / UKPCS / IAS**
 
-Tilak’s Swaraj birthright session / Bankipur year / Haripura President / Congress President at Independence / Jana Gana Mana first sung / Tilak’s last Congress / safety-valve theorist?
+The first session of the Indian National Congress was held in:
+
+A. Calcutta, 1886
+
+B. Bombay, 1885
+
+C. Madras, 1887
+
+D. Allahabad, 1888
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Birthright line = **Lucknow 1916**. Bankipur **1912**. Haripura = **Subhas Chandra Bose**. At Independence = **J.B. Kripalani**. Jana Gana Mana first = **Calcutta 1911**. Tilak’s last = **Amritsar 1919**. Safety valve phrasing often linked to **Lala Lajpat Rai**.
+**Ans: B.** Congress first met on **28 December 1885** at **Gokuldas Tejpal Sanskrit College, Bombay**.
 
 </details>
+
+**Logic:** First President = W.C. Bonnerjee — not Naoroji, Tyabji or Hume.
+
+**Q17. BPSC / UPPCS / UKPCS / IAS**
+
+Who presided over the first session of the Indian National Congress?
+
+A. Dadabhai Naoroji
+
+B. W.C. Bonnerjee
+
+C. A.O. Hume
+
+D. Badruddin Tyabji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Womesh Chunder (W.C.) Bonnerjee** was the **first President (1885)**.
+
+</details>
+
+**Logic:** About 72 delegates at first session — not 108 or 300.
+
+**Q18. BPSC / UPPCS / IAS**
+
+Approximately how many delegates attended the first INC session in 1885?
+
+A. 36
+
+B. 72
+
+C. 108
+
+D. 300
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** About **72 delegates** attended the **1885 Bombay** session.
+
+</details>
+
+**Logic:** Viceroy Dufferin mocked Congress as microscopic minority.
+
+**Q19. BPSC / UPPCS / IAS**
+
+Which Viceroy dismissed the early Congress as a “microscopic minority”?
+
+A. Lord Lytton
+
+B. Lord Dufferin
+
+C. Lord Curzon
+
+D. Lord Ripon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lord Dufferin** used the **microscopic minority** phrase about early Congress during his viceroyalty when the body was founded.
+
+</details>
+
+**Logic:** First Muslim President = Badruddin Tyabji Madras 1887.
+
+**Q20. BPSC / UPPCS / UKPCS / IAS**
+
+The first Muslim President of the Indian National Congress was:
+
+A. Maulana Abul Kalam Azad
+
+B. Badruddin Tyabji
+
+C. Muhammad Ali Jinnah
+
+D. Hasrat Mohani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Badruddin Tyabji** presided at **Madras 1887** — the first **Muslim** President.
+
+</details>
+
+**Logic:** First European President = George Yule Allahabad 1888.
+
+**Q21. BPSC / UPPCS / IAS**
+
+The first European President of the Indian National Congress was:
+
+A. A.O. Hume
+
+B. William Wedderburn
+
+C. George Yule
+
+D. Henry Cotton
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **George Yule** presided at **Allahabad 1888** — the first **European** President. Hume organised but never presided.
+
+</details>
+
+**Logic:** British Committee INC London 1889 = Wedderburn — published weekly *India*.
+
+**Q22. BPSC / UPPCS / IAS**
+
+The British Committee of the Indian National Congress (1889) was headed by:
+
+A. Dadabhai Naoroji
+
+B. William Wedderburn
+
+C. A.O. Hume
+
+D. Henry Cotton
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sir William Wedderburn** headed the **British Committee (1889)** in London, which published the weekly ***India***.
+
+</details>
+
+**Logic:** First woman President = Annie Besant Calcutta 1917.
+
+**Q23. IAS / UPPCS / BPSC**
+
+The first woman President of the Indian National Congress was:
+
+A. Sarojini Naidu
+
+B. Annie Besant
+
+C. Vijayalakshmi Pandit
+
+D. Aruna Asaf Ali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Annie Besant** presided at **Calcutta 1917** — the first **woman** President.
+
+</details>
+
+**Logic:** First Indian woman President = Sarojini Naidu Kanpur 1925.
+
+**Q24. IAS / UPPCS / BPSC**
+
+The first Indian woman President of the Indian National Congress was:
+
+A. Annie Besant
+
+B. Sarojini Naidu
+
+C. Kamala Nehru
+
+D. Kasturba Gandhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sarojini Naidu** presided at **Kanpur 1925** — the first **Indian woman** President. Besant was Irish-born.
+
+</details>
+
+**Logic:** Tilak never presided over any INC session — standard trap with Lal-Bal-Pal list.
+
+**Q25. IAS / UPPCS / BPSC**
+
+Who among the following **never** presided over a session of the Indian National Congress?
+
+A. Lala Lajpat Rai
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Subhas Chandra Bose
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bal Gangadhar Tilak never** presided over any INC session — a repeated UPPCS trap. **Gokhale** presided at **Banaras 1905**.
+
+</details>
+
+**Logic:** Gandhi presided only once — Belgaum 1924.
+
+**Q26. IAS / UPPCS / BPSC**
+
+Mahatma Gandhi presided over the Indian National Congress only at:
+
+A. Lahore, 1929
+
+B. Belgaum, 1924
+
+C. Nagpur, 1920
+
+D. Karachi, 1931
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Gandhi’s **only** presidentship was **Belgaum 1924**. **Lahore 1929** was presided over by **Jawaharlal Nehru**.
+
+</details>
+
+**Logic:** Surendranath Banerjee absent from founding 1885 session — busy with National Conference.
+
+**Q27. IAS / UPPCS / BPSC**
+
+Who was notably absent from the founding session of the Indian National Congress in 1885?
+
+A. Dadabhai Naoroji
+
+B. Surendranath Banerjee
+
+C. Pherozeshah Mehta
+
+D. Badruddin Tyabji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Surendranath Banerjee** was absent because he was occupied with the **Indian National Conference** meetings in the same season.
+
+</details>
+
+**Logic:** Tilak’s Swaraj is my birthright line = Lucknow 1916 reunion session.
+
+**Q28. UPPCS / BPSC / IAS**
+
+Bal Gangadhar Tilak declared “Swaraj is my birthright and I shall have it” in the context of which Congress session?
+
+A. Surat, 1907
+
+B. Lucknow, 1916
+
+C. Amritsar, 1919
+
+D. Lahore, 1929
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The famous **birthright** line is tied to the **Lucknow 1916** reunion atmosphere, not Surat **1907** or Lahore **1929**.
+
+</details>
+
+**Logic:** Bankipur session = 1912 Patna — R.N. Mudholkar President.
+
+**Q29. UPPCS / BPSC / IAS**
+
+The Bankipur (Patna) session of the Indian National Congress was held in:
+
+A. 1910
+
+B. 1912
+
+C. 1916
+
+D. 1920
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Bankipur (Patna) session** took place in **1912** under **R.N. Mudholkar**, where Hume was hailed as Father of Congress.
+
+</details>
+
+**Logic:** Haripura 1938 President = Subhas Chandra Bose — National Planning Committee set up under his presidency.
+
+**Q30. UPPCS / BPSC / IAS**
+
+Who presided over the Haripura session of the Indian National Congress (1938)?
+
+A. Jawaharlal Nehru
+
+B. Subhas Chandra Bose
+
+C. Abul Kalam Azad
+
+D. Vallabhbhai Patel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Subhas Chandra Bose** presided at **Haripura 1938**. The **National Planning Committee** was set up in that phase with **Nehru** as Chairman.
+
+</details>
+
+**Logic:** Congress President at Independence 1946 session = J.B. Kripalani Meerut.
+
+**Q31. UPPCS / BPSC / IAS**
+
+Who was the President of the Indian National Congress when India became independent (1947)?
+
+A. Abul Kalam Azad
+
+B. J.B. Kripalani
+
+C. Jawaharlal Nehru
+
+D. Sardar Vallabhbhai Patel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **J.B. Kripalani** presided at the **Meerut 1946** session — the Congress presidency at Independence.
+
+</details>
+
+**Logic:** Jana Gana Mana first sung Calcutta Congress 1911 — not 1896 Vande Mataram session.
+
+**Q32. UPPCS / BPSC / IAS**
+
+**Jana Gana Mana** was first sung at a Congress session in:
+
+A. Calcutta, 1896
+
+B. Calcutta, 1911
+
+C. Lucknow, 1916
+
+D. Lahore, 1929
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Jana Gana Mana** was first sung at the **Calcutta 1911** session. **Vande Mataram** was sung at **Calcutta 1896**.
+
+</details>
+
+**Logic:** Tilak’s last Congress session = Amritsar 1919 — he never presided.
+
+**Q33. UPPCS / BPSC / IAS**
+
+Bal Gangadhar Tilak attended his last Indian National Congress session at:
+
+A. Lucknow, 1916
+
+B. Amritsar, 1919
+
+C. Nagpur, 1920
+
+D. Belgaum, 1924
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Tilak’s **last Congress session** was **Amritsar 1919**. He **never presided** over any session.
+
+</details>
+
+**Logic:** Safety Valve theory first linked to Lala Lajpat Rai — not Wedderburn or Dutt alone in “who first” keys.
+
+**Q34. UPPCS / BPSC / IAS**
+
+The Safety Valve theory about the origins of the Indian National Congress is most associated with:
+
+A. William Wedderburn
+
+B. Lala Lajpat Rai
+
+C. Bipan Chandra
+
+D. Lord Dufferin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lala Lajpat Rai** is the standard name for first floating the **Safety Valve** interpretation. Wedderburn **defended** Hume’s sincerity.
+
+</details>
+
+---
 
 ## Ghatnachakra Extra Drill — Moderates and Extremists
 
 Teaching sits in **9.6–9.8**.
 
-**Logic:** Moderates = constitutional agitation / urban professionals; Extremists after ~1906; Surat split linked to Swadeshi tensions; Gokhale = Moderate not Extremist; Tilak accused prayer-petition-protest.
+**Logic:** Moderates = constitutional agitation through petitions and councils — not boycott-first method.
 
-**Q8. BPSC / IAS / UPPCS**
+**Q35. BPSC / IAS / UPPCS**
 
-Moderate method / Congress split linked to which movement / who is NOT Extremist / who accused prayer-petition-protest?
+The Moderates mainly relied on which method of political struggle?
 
-<details>
-<summary>Show answer</summary>
+A. Armed insurrection and secret societies
 
-**Ans:** Moderates = **constitutional agitation**. Split context = **Swadeshi Movement** (Surat **1907**). Not Extremist = **Gokhale**. Accusation = **Tilak**.
+B. Constitutional agitation through petitions, prayers and protests
 
-</details>
+C. Mass civil disobedience and jail bharo
 
-**Logic:** Sher-e-Punjab = Lajpat Rai; political guru Mazzini; Father of Indian Unrest = Chirol on Tilak; Tilak Mandalay 6 years 1908; Ganapati festival = Tilak; bier = Gandhi + Shaukat Ali.
-
-**Q9. BPSC / UPPCS / UKPCS**
-
-Sher-e-Punjab / Lajpat Rai’s political guru / Father of Indian Unrest / Tilak jail years 1908 / who started Ganeshotsav / who lifted Tilak’s bier with Gandhi?
+D. Direct action against landlords only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Lala Lajpat Rai**. Guru = **Mazzini**. Father of Indian Unrest = **Valentine Chirol** (about Tilak). Jail **6 years** (Mandalay). Ganeshotsav = **Tilak**. Bier = **Shaukat Ali** (with Gandhi / Kitchlew line).
+**Ans: B.** **Moderates** used **constitutional agitation** — petitions, prayers and protests within British constitutional forms.
 
 </details>
 
-**Logic:** Extremists wanted complete Swaraj vs Moderates’ colonial self-rule; Muslims less drawn to Extremists’ Hindu cultural idiom; Assertion Tilak communalist is false though he used religion as political weapon.
+**Logic:** Surat split 1907 linked to Swadeshi / Extremist–Moderate tension — not Home Rule or Khilafat.
 
-**Q10. IAS / UPPCS**
+**Q36. BPSC / IAS / UPPCS**
 
-Extremist ideology definition / why many Muslims stayed away / Tilak communalist A/R?
+The Surat split of the Indian National Congress (1907) is most closely linked to tensions surrounding:
+
+A. The Home Rule Leagues
+
+B. The Swadeshi and Boycott movement
+
+C. The Khilafat agitation
+
+D. The Purna Swaraj resolution
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Extremists sought **self-government by assertive means** beyond petitions. Many Muslims stayed away because Extremists often **harped on Hindu cultural symbols**. A (Tilak communalist) is **false**; R (used religion as political weapon) is **true**.
+**Ans: B.** The **1907 Surat split** grew out of **Swadeshi / boycott** tensions between **Moderates and Extremists**.
 
 </details>
 
+**Logic:** Gokhale = Moderate — Banaras 1905 President; not Extremist.
+
+**Q37. BPSC / IAS / UPPCS**
+
+Who among the following was a Moderate, not an Extremist?
+
+A. Bal Gangadhar Tilak
+
+B. Bipin Chandra Pal
+
+C. Gopal Krishna Gokhale
+
+D. Lala Lajpat Rai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Gopal Krishna Gokhale** was a **Moderate** and presided at **Banaras 1905**. The other three belong to the **Extremist** trio stream.
+
+</details>
+
+**Logic:** Tilak accused of limiting politics to prayer-petition-protest — Moderate method critique turned on him ironically in some stems.
+
+**Q38. BPSC / IAS / UPPCS**
+
+Who among the following was accused by critics of reducing nationalist politics to “prayer, petition and protest”?
+
+A. Gopal Krishna Gokhale
+
+B. Bal Gangadhar Tilak
+
+C. Dadabhai Naoroji
+
+D. W.C. Bonnerjee
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **prayer–petition–protest** jibe is most often keyed to **Tilak** in Ghatnachakra-style traps — though it describes **Moderate** method language.
+
+</details>
+
+**Logic:** Sher-e-Punjab = Lala Lajpat Rai — not Tilak or Pal.
+
+**Q39. BPSC / UPPCS / UKPCS**
+
+The title **Sher-e-Punjab** is applied to:
+
+A. Bal Gangadhar Tilak
+
+B. Lala Lajpat Rai
+
+C. Bipin Chandra Pal
+
+D. Sardar Ajit Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lala Lajpat Rai** is **Sher-e-Punjab**. Do not give the title to **Tilak** or **Ajit Singh** unless the stem specifies a different Punjabi leader.
+
+</details>
+
+**Logic:** Lajpat Rai’s political guru = Mazzini — Italian nationalist inspiration.
+
+**Q40. BPSC / UPPCS / UKPCS**
+
+Lala Lajpat Rai’s political guru was:
+
+A. Giuseppe Mazzini
+
+B. Herbert Spencer
+
+C. Karl Marx
+
+D. Dadabhai Naoroji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Giuseppe Mazzini** was Lajpat Rai’s **political guru** tag in standard notes.
+
+</details>
+
+**Logic:** Father of Indian Unrest = Valentine Chirol on Tilak — not Gandhi or Naoroji.
+
+**Q41. BPSC / UPPCS / UKPCS**
+
+The phrase **Father of Indian Unrest** was used by Valentine Chirol for:
+
+A. Lala Lajpat Rai
+
+B. Bal Gangadhar Tilak
+
+C. Bipin Chandra Pal
+
+D. Aurobindo Ghosh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Valentine Chirol** applied **Father of Indian Unrest** to **Bal Gangadhar Tilak**.
+
+</details>
+
+**Logic:** Tilak Mandalay sentence 1908 = six years — not six months like Lajpat 1907 deportation.
+
+**Q42. BPSC / UPPCS / UKPCS**
+
+Bal Gangadhar Tilak was sentenced to six years’ transportation to Mandalay in:
+
+A. 1905
+
+B. 1907
+
+C. 1908
+
+D. 1916
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tilak’s **six-year Mandalay sentence** began in **1908**. **Lajpat Rai’s** **1907** deportation lasted about **six months** — a frequent swap trap.
+
+</details>
+
+**Logic:** Ganeshotsav public festival politicisation = Tilak — not Gokhale or Ranade.
+
+**Q43. BPSC / UPPCS / UKPCS**
+
+Who started the public Ganesh festival as a tool of mass political mobilisation in Maharashtra?
+
+A. Gopal Krishna Gokhale
+
+B. Bal Gangadhar Tilak
+
+C. M.G. Ranade
+
+D. Dadabhai Naoroji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tilak** politicised the **Ganeshotsav** (and Shivaji festival) for nationalist mobilisation in Maharashtra.
+
+</details>
+
+**Logic:** Tilak’s bier carried with Gandhi = Shaukat Ali — Khilafat/Congress unity symbol.
+
+**Q44. BPSC / UPPCS / UKPCS**
+
+Along with Mahatma Gandhi, who lifted Bal Gangadhar Tilak’s bier in 1920?
+
+A. Maulana Shaukat Ali
+
+B. Jawaharlal Nehru
+
+C. C.R. Das
+
+D. Motilal Nehru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Shaukat Ali** joined **Gandhi** in carrying Tilak’s bier (**1920**) — a Khilafat–Congress unity symbol.
+
+</details>
+
+**Logic:** Extremists sought assertive self-government beyond Moderate petition politics.
+
+**Q45. IAS / UPPCS**
+
+Extremist nationalism differed from Moderate nationalism mainly because Extremists:
+
+A. Opposed Swadeshi and boycott
+
+B. Sought self-government through more assertive methods beyond petitions alone
+
+C. Rejected any use of the English language in politics
+
+D. Wanted permanent partnership with the British Empire without Swaraj
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Extremists** pushed **assertive Swaraj** through boycott, Swadeshi and direct mass action — beyond Moderate petition politics.
+
+</details>
+
+**Logic:** Many Muslims stayed away from Extremist stream because of Hindu cultural symbolism in propaganda.
+
+**Q46. IAS / UPPCS**
+
+Many Muslim political leaders kept distance from the Extremist wing partly because Extremists often:
+
+A. Opposed all religious education
+
+B. Harped on Hindu cultural symbols in political propaganda
+
+C. Rejected the Lucknow Pact entirely in 1916
+
+D. Supported separate Muslim electorates from 1885
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Extremist propaganda often stressed **Hindu cultural symbols**, which limited Muslim participation compared with broader constitutional platforms.
+
+</details>
+
+**Logic:** Tilak communalist A/R — A false, R true (used religion as political weapon).
+
+**Q47. IAS / UPPCS**
+
+Consider the following statements:
+
+**Assertion (A):** Bal Gangadhar Tilak was a communalist who opposed Hindu–Muslim unity.
+
+**Reason (R):** Tilak used religion as a political weapon through festivals and public mobilisation.
+
+Select the correct answer:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+C. (A) is false, but (R) is true.
+
+D. (A) is true, but (R) is false.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **(A) is false** — Tilak is not fairly reduced to a “communalist” label in standard keys. **(R) is true** — he **did use religion as a political weapon** through Ganeshotsav and mass symbolism.
+
+</details>
+
+---
+
+### UKPCS Complete PYQ Bank (Rise of Nationalism)
+
+**Logic:** First organised political body 1838 — UKPCS-tagged Extra cluster.
+
+**Q1. UKPCS / IAS / UP R.O.**
+
+Which is regarded as the first organised political association in India using constitutional agitation?
+
+A. Indian Association (1876)
+
+B. Zamindari Association / Landholders’ Society (1838)
+
+C. East India Association (1866)
+
+D. Poona Sarvajanik Sabha (1870)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Landholders’ Society (1838)** is the first organised political association key.
+
+</details>
+
+**Logic:** INC first Muslim President Tyabji 1887 — UKPCS-tagged INC cluster.
+
+**Q2. UKPCS / UPPCS / BPSC**
+
+The first Muslim President of the Indian National Congress was:
+
+A. Maulana Abul Kalam Azad
+
+B. Badruddin Tyabji
+
+C. Muhammad Ali Jinnah
+
+D. Hasrat Mohani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Badruddin Tyabji** presided at **Madras 1887**.
+
+</details>
+
+**Logic:** Sher-e-Punjab = Lala Lajpat Rai — UKPCS Moderate–Extremist tag.
+
+**Q3. UKPCS / BPSC / UPPCS**
+
+The title **Sher-e-Punjab** is applied to:
+
+A. Bal Gangadhar Tilak
+
+B. Lala Lajpat Rai
+
+C. Bipin Chandra Pal
+
+D. Sardar Ajit Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Lala Lajpat Rai** is **Sher-e-Punjab**.
+
+</details>
+
+**Logic:** Lajpat Rai’s guru Mazzini — UKPCS biography tag.
+
+**Q4. UKPCS / BPSC / UPPCS**
+
+Lala Lajpat Rai’s political guru was:
+
+A. Giuseppe Mazzini
+
+B. Herbert Spencer
+
+C. Karl Marx
+
+D. Dadabhai Naoroji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Giuseppe Mazzini** was Lajpat Rai’s political guru.
+
+</details>
+
+**Logic:** Father of Indian Unrest = Chirol on Tilak — UKPCS tag.
+
+**Q5. UKPCS / BPSC / UPPCS**
+
+The phrase **Father of Indian Unrest** was used by Valentine Chirol for:
+
+A. Lala Lajpat Rai
+
+B. Bal Gangadhar Tilak
+
+C. Bipin Chandra Pal
+
+D. Aurobindo Ghosh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Valentine Chirol** applied the phrase to **Bal Gangadhar Tilak**.
+
+</details>
+
+**Logic:** Tilak Mandalay six years 1908 — UKPCS chronology tag.
+
+**Q6. UKPCS / BPSC / UPPCS**
+
+Bal Gangadhar Tilak was sentenced to six years’ transportation to Mandalay in:
+
+A. 1905
+
+B. 1907
+
+C. 1908
+
+D. 1916
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tilak’s **six-year Mandalay sentence** began in **1908**.
+
+</details>
+
+**Logic:** Ganeshotsav politicisation = Tilak — UKPCS mass-mobilisation tag.
+
+**Q7. UKPCS / BPSC / UPPCS**
+
+Who started the public Ganesh festival as a tool of mass political mobilisation in Maharashtra?
+
+A. Gopal Krishna Gokhale
+
+B. Bal Gangadhar Tilak
+
+C. M.G. Ranade
+
+D. Dadabhai Naoroji
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Tilak** politicised the **Ganeshotsav** for nationalist mobilisation.
+
+</details>
+
+**Logic:** Shaukat Ali lifted Tilak’s bier with Gandhi — UKPCS unity symbol tag.
+
+**Q8. UKPCS / BPSC / UPPCS**
+
+Along with Mahatma Gandhi, who lifted Bal Gangadhar Tilak’s bier in 1920?
+
+A. Maulana Shaukat Ali
+
+B. Jawaharlal Nehru
+
+C. C.R. Das
+
+D. Motilal Nehru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Shaukat Ali** joined **Gandhi** in carrying Tilak’s bier in **1920**.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

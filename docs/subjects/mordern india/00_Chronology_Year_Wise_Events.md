@@ -444,6 +444,7 @@ D. 2, 1, 4, 3
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Political foothold → decisive battle → Diwani treaty → parliamentary office.
 
 **Ans: A** — Plassey **1757** → Buxar **1764** → Allahabad **1765** → Regulating Act **1773**.
@@ -466,6 +467,7 @@ D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** 1st → 2nd → 3rd → 4th Mysore sequence.
 
@@ -490,6 +492,7 @@ D. 4, 2, 3, 1
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Hastings reform → Cornwallis revenue → Wellesley alliance → Dalhousie lapse.
 
 **Ans: A** — Dual ends **1772** → Permanent Settlement **1793** → Hyderabad **1798** → Satara **1848**.
@@ -512,6 +515,7 @@ D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Office created → monopoly cut → GG of India → Crown.
 
@@ -536,6 +540,7 @@ D. 1, 4, 3, 2
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Bentinck social → Ellenborough slavery → Canning widow → Lansdowne consent.
 
 **Ans: A** — Sati **1829** → Slavery **1843** → Widow Remarriage **1856** → Age of Consent **1891**.
@@ -559,6 +564,7 @@ D. 2, 1, 4, 3
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Dalhousie rail before revolt; Crown proclamation after revolt; Empress title much later.
 
 **Ans: A** — Railway **1853** → Revolt **1857** → Proclamation **1858** → Empress Durbar **1877**.
@@ -581,6 +587,7 @@ D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Same spine as a standard UPPCS arrange set — Awadh before Indigo-era politics, then Lytton Afghan/Press, then Ripon Ilbert.
 
@@ -606,6 +613,7 @@ D. 2, 1, 3, 4
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Classic education commission ladder.
 
 **Ans: A** — Wood **1854** → Hunter **1882** → Sadler **1917** → Sargeant **1944**.
@@ -628,6 +636,7 @@ D. 2, 1, 3, 4
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Partition triggers Swadeshi; League follows; Surat split; then 1909 Act.
 
@@ -652,6 +661,7 @@ D. 2, 3, 1, 4
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Curzon monuments → Partition → 1909 reforms → Hardinge capital shift 1911.
 
 **Ans: A** — Ancient Monuments **1904** → Partition **1905** → Morley–Minto **1909** → Capital Delhi **1911**.
@@ -674,6 +684,7 @@ D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Champaran first in India; Ahmedabad and Kheda in 1918; Rowlatt 1919.
 
@@ -698,6 +709,7 @@ D. 3, 2, 4, 1
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Punjab wrong → NCM → Chauri Chaura ends NCM → Kakori later.
 
 **Ans: A** — Jallianwala **1919** → NCM **1920** → Chauri Chaura **1922** → Kakori **1925**.
@@ -720,6 +732,7 @@ D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Simon → Lahore goal → Salt march → Pact.
 
@@ -744,6 +757,7 @@ D. 3, 4, 1, 2
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** First RTC during CDM; Karachi after Pact 1931; Award then Poona Pact in 1932.
 
 **Ans: A** — First RTC **1930–31** → Karachi **1931** → Communal Award **1932** → Poona Pact **1932**.
@@ -766,6 +780,7 @@ D. 3, 4, 1, 2
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Linlithgow offer → Individual Satyagraha → Cripps fails → Quit India.
 
@@ -790,6 +805,7 @@ D. 3, 4, 1, 2
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Simla/Wavell → Cabinet Mission → Direct Action → Mountbatten Plan.
 
 **Ans: A** — Wavell **1945** → Cabinet Mission **1946** → Direct Action **16 Aug 1946** → Mountbatten Plan **3 Jun 1947**.
@@ -812,6 +828,7 @@ D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Arrival / charter order.
 
@@ -836,6 +853,7 @@ D. 3, 1, 2, 4
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** 1st war ends Salbai; Bassein pulls Peshwa; 2nd war battles; 3rd war ends Peshwa.
 
 **Ans: A** — Salbai **1782** → Bassein **1802** → Assaye **1803** → Peshwa ends **1818**.
@@ -858,6 +876,7 @@ D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Satara first; Sambalpur 1849; Jhansi 1853; Nagpur 1854.
 
@@ -882,6 +901,7 @@ D. 3, 1, 4, 2
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Standard bridge chronology into Lord Hastings.
 
 **Ans: A** — Nana Fadnavis **1800** → Wellesley recall **1805** → Vellore **1806** → Nepal **1814–16**.
@@ -904,6 +924,7 @@ D. 3, 2, 1, 4
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Lytton Press → Ripon Factory → Ripon local self-govt → Ilbert.
 
@@ -928,6 +949,7 @@ D. 1, 2, 4, 3
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Foundation → Surat → Lucknow 1916 → Lahore 1929.
 
 **Ans: A** — Bombay **1885** → Surat **1907** → Lucknow **1916** → Lahore **1929**.
@@ -950,6 +972,7 @@ D. 4, 1, 3, 2
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Quit India → Azad Hind proclamation → INA Trials → RIN.
 
@@ -974,6 +997,7 @@ D. 3, 4, 2, 1
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Maratha peace → Mysore 3rd → Nepal → Burma 1st.
 
 **Ans: A** — Salbai **1782** → Seringapatam **1792** → Sugauli **1816** → Yandabo **1826**.
@@ -996,6 +1020,7 @@ D. 2, 1, 4, 3
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Swadeshi trigger → Home Rule → Gandhi Champaran → Punjab massacre.
 
@@ -1020,6 +1045,7 @@ D. 3, 1, 4, 2
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** 1773 office → 1784 Board → 1793 settlement → 1833 GG of India.
 
 **Ans: A** — Regulating **1773** → Pitt’s **1784** → Permanent Settlement **1793** → Charter **1833**.
@@ -1042,6 +1068,7 @@ D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Hastings-era Banaras → 1858 Allahabad → Chauri Chaura → Kakori.
 
@@ -1066,6 +1093,7 @@ D. 2, 4, 1, 3
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Simon → Nehru Report → Jinnah’s Fourteen Points (1929) → Lahore Purna Swaraj Dec 1929.
 
 **Ans: A** — Simon **1927** → Nehru Report **1928** → Fourteen Points **1929** → Lahore **Dec 1929**.
@@ -1089,6 +1117,7 @@ D. 2, 3, 4, 1
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Withdrawal announcement → June Plan → July Act → 15 August.
 
 **Ans: A** — Attlee **20 Feb 1947** → Mountbatten Plan **3 Jun** → Independence Act **18 Jul** → **15 Aug 1947**.
@@ -1111,6 +1140,7 @@ D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Lord Hastings Nepal then Maratha; Auckland Afghan; Hardinge I Sikh.
 

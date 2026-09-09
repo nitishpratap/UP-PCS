@@ -515,219 +515,720 @@ D. 1, 3, 2, 4
 
 Teaching for these stems sits in **12.1–12.6**.
 
-**Logic:** Gama year = 1498; welcomed by Zamorin.
+**Logic:** Gama year = 1498; welcomed by Zamorin — not Albuquerque or Almeida.
 
 **Q1. Chhattisgarh PCS / UPPCS / MPPCS**
 
-In which year did Vasco da Gama arrive at Calicut / who welcomed him?
+In which year did Vasco da Gama reach Calicut, and who welcomed the Portuguese there?
 
-A. 1350 / Gasper Correa
+A. 1350; Gasper Correa
 
-B. 1498 / Zamorin
+B. 1498; Zamorin (Samuthiri)
 
-C. 1530 / Albuquerque
+C. 1530; Albuquerque
 
-D. 1612 / Don Almeida
+D. 1612; Don Almeida
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B.** **20 May 1498** at **Calicut**; welcomed by the **Zamorin**. Guide tradition names **Ahmad ibn Majid**.
 
-</details>
-
-**Logic:** Blue Water = Almeida (first Viceroy), not Albuquerque/Dupleix/Clive.
-
-**Q2. UKPCS (Pre) 2016 / BPSC**
-
-Blue Water Policy / first Portuguese Viceroy?
-
-A. Albuquerque / Diaz
-
-B. Dupleix / Vasco da Gama
-
-C. De Almeida / Almeida
-
-D. Clive / Albuquerque
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Francisco de Almeida** (arrived **1505**) — Blue Water ocean monopoly line. **Albuquerque** = real founder / **Goa 1510**.
+**Trap:** **Albuquerque** captured **Goa in 1510** — he did not receive Gama at Calicut.
 
 </details>
 
-**Logic:** Match Portuguese officers to acts.
+**Logic:** Blue Water = Almeida (first Viceroy), not Albuquerque, Dupleix, or Clive.
 
-**Q3. Chhattisgarh PCS (Pre) 2022**
+**Q2. BPSC / UPPCS cluster**
 
-Match: Albuquerque / Nuno da Cunha / Cabral / Almeida → Goa 1510 / HQ Cochin→Goa / arrival Sept 1500 / Blue Water
+The **Blue Water Policy** aimed at Portuguese control of ocean trade routes. It was associated with which officer, who also served as the first Portuguese Governor and Viceroy in India?
 
-<details>
-<summary>Show answer</summary>
+A. Afonso de Albuquerque
 
-**Ans:** Albuquerque–Goa **1510**; Nuno da Cunha–HQ shift; Cabral–**1500**; Almeida–Blue Water.
+B. Francisco de Almeida
 
-</details>
-
-**Logic:** First Europeans for trade = Portuguese; real founder = Albuquerque; first fort = Cochin 1503; Goa not 1499.
-
-**Q4. UPPCS / IAS 2003 / UPPCS Mains 2010**
-
-First Europeans for trade / real founder of Portuguese power / first fortress / which entry statement is NOT correct?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** Portuguese first. Founder **Albuquerque**. First fort **Cochin (1503)**. Incorrect claim: Portuguese captured Goa in **1499** (true year **1510**).
-
-</details>
-
-**Logic:** Hooghly piracy = Portuguese; Bengal Portuguese factory = Hooghly (not Chinsurah/Serampore).
-
-**Q5. IAS 1995 / UPPCS 2004 / BPSC**
-
-Hooghly as piracy base / Portuguese factory in Bengal among Bandel–Chinsurah–Hooghly–Serampore?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **Portuguese**; Bengal option **Hooghly**. Chinsurah = Dutch (**Gustavus**); Serampore = Danish.
-
-</details>
-
-**Logic:** Calcutta founder = Job Charnock; first Municipal Corporation = Madras 1688.
-
-**Q6. UPPCS / UKPCS / UPPCS 2021**
-
-Who founded Calcutta / first Municipal Corporation place?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **Job Charnock** (Sutanuti). First Municipal Corporation = **Madras (1688)**.
-
-</details>
-
-**Logic:** Joint-stock among given options often Dutch; Levant first British India charter (land); EIC formed under Akbar; first permanent factory Surat 1613 under Jahangir; Best at Swally; Bombay from Portuguese.
-
-**Q7. IAS / UPPCS / BPSC cluster**
-
-First joint-stock (no English in options) / first British charter for India trade / emperor when EIC formed / first factory under which emperor / Surat 1613 / Best vs Portuguese / Bombay taken from?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** Dutch (if English absent); **Levant Company**; **Akbar**; **Jahangir**; **Surat**; **Thomas Best**; **Portuguese** (dowry **1662**, lease **1668**).
-
-</details>
-
-**Logic:** IAS 2022 — Dutch–Gajapati false; Albuquerque–Bijapur and Madras–Vijayanagara true.
-
-**Q8. IAS (Pre) 2022**
-
-1 Dutch factories on east coast from Gajapati grants 2 Albuquerque took Goa from Bijapur 3 English Madras lease from Vijayanagara representative
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (2 and 3 only).** Statement 1 is unsafe/wrong for the main Dutch phase.
-
-</details>
-
-**Logic:** John Child expelled by Aurangzeb; Western Presidency first at Surat; French earliest factory Surat; Colbert founder; Carnatic immediate cause = capture of French ships; Dupleix first intervenes in Indian quarrels.
-
-**Q9. MPPCS / IAS / UPPCS / BPSC**
-
-Governor expelled by Aurangzeb / early Western Presidency / earliest French factory / French company founder / immediate cause First Carnatic / who first joined Indian princes’ quarrels?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **Sir John Child**; **Surat**; **Surat (1668)**; **Colbert**; capture of French ships; **Dupleix**.
-
-</details>
-
-**Logic:** Carnatic match — 1st Aix-la-Chapelle; 3rd Paris; 2nd inconclusive; Ambur 1749 not 1752; Wandiwash British beat French (Lally).
-
-**Q10. UPPCS 2016 / GIC 2017 / Chhattisgarh / UKPCS**
-
-Carnatic war treaties / Second Karnataka years / Ambur date / Wandiwash winner?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** First → **Aix-la-Chapelle**; Third → **Paris**; Second → inconclusive / **1749–54**. Ambur **1749**. Wandiwash: **British defeated French**.
-
-</details>
-
-**Logic:** Arrival order Portuguese–Dutch–English–(Danes)–French; settlement match Pondicherry French, Goa Portuguese, Tranquebar Danish, Sadras Dutch; Bihar = opium/saltpetre; last traders = French; English did not introduce soil-assessment / chillies / mobile cannon.
-
-**Q11. UPPCS / IAS / BPSC**
-
-Chronology of entry / match settlements / best shora–opium region / last European traders / what English introduced?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **4,2,1,3** style = Portuguese–Dutch–English–French. Pondicherry–French, Goa–Portuguese, Tranquebar–Danish, Sadras–Dutch. **Bihar**. Last = **French**. English introduced **none** of those three IAS 2012 items.
-
-</details>
-
-### UKPCS stems — Europeans
-
-**Logic:** Blue Water Policy person.
-
-**Q-UK1. Uttarakhand PCS (Pre) 2016**
-
-Which one is connected with Blue Water policy?
-
-A. De Almeida
-
-B. Albuquerque
-
-C. Dupleix
+C. Joseph-François Dupleix
 
 D. Robert Clive
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Francisco de Almeida**.
+**Ans: B.** **Francisco de Almeida** arrived in **1505** as the first Viceroy and framed the Blue Water line. **Albuquerque** is the real founder of Portuguese power and took **Goa in 1510**.
+
+**Trap:** Do not pair Blue Water with **Albuquerque** — that is the Goa 1510 trap.
 
 </details>
 
-**Logic:** First sea-trade centres = Portuguese; Calcutta founder.
+**Logic:** Match Portuguese officers to their landmark acts.
 
-**Q-UK2. Uttarakhand PCS (Pre) 2004 / Mains 2006**
+**Q3. Chhattisgarh PCS (Pre) 2022**
 
-First Europeans to set up sea trade centres / who founded Calcutta?
+Match **List I** with **List II**:
+
+| List I | List II |
+| --- | --- |
+| A. Afonso de Albuquerque | 1. Blue Water Policy |
+| B. Nuno da Cunha | 2. Capture of Goa (1510) |
+| C. Pedro Álvares Cabral | 3. Shift of HQ from Cochin to Goa |
+| D. Francisco de Almeida | 4. Arrival in India (September 1500) |
+
+*Row order is not the answer code.*
+
+A. A-2, B-3, C-4, D-1
+
+B. A-1, B-2, C-3, D-4
+
+C. A-4, B-1, C-2, D-3
+
+D. A-3, B-4, C-1, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Portuguese**; **Job Charnock**.
+**Ans: A (A-2, B-3, C-4, D-1).** **Albuquerque** — Goa **1510**; **Nuno da Cunha** — HQ **Cochin → Goa**; **Cabral** — **1500** arrival; **Almeida** — Blue Water.
+
+**Trap:** **Cabral** is **1500**, not **1498** (Gama’s year).
 
 </details>
 
-**Logic:** Wandiwash French commander defeated.
+**Logic:** First Europeans for trade = Portuguese; real founder = Albuquerque; first fort = Cochin 1503; Goa 1499 is the false year.
 
-**Q-UK3. Uttarakhand PCS (Pre) 2016**
+**Q4. UPPCS / IAS 2003 / UPPCS Mains 2010**
 
-French commander defeated at Wandiwash 1760?
+Which of the following statements about early Portuguese power in India is **NOT** correct?
 
-A. Count Lally
+A. The Portuguese were the first Europeans to arrive in India for trade.
 
-B. Francis Martin
+B. Afonso de Albuquerque is regarded as the real founder of Portuguese power in India.
 
-C. Dupleix
+C. The first Portuguese fort in India was built at Cochin in 1503.
 
-D. None
+D. The Portuguese captured Goa from Bijapur in 1499.
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **Count de Lally**.
+**Ans: D.** Goa fell in **1510**, not **1499**. The other three statements are standard facts: Portuguese first (**1498**), **Albuquerque** as founder, **Cochin 1503** as first fort.
+
+**Trap:** **1499** is a recurring trap year for **Goa 1510**.
+
+</details>
+
+**Logic:** Hooghly piracy = Portuguese; Bengal Portuguese factory = Hooghly (Chinsurah = Dutch; Serampore = Danish).
+
+**Q5. IAS 1995 / UPPCS 2004 / BPSC**
+
+Which European power used **Hooghly** primarily as a Bay of Bengal piracy base before **Shah Jahan** crushed them there in **1632**?
+
+A. Dutch
+
+B. Danish
+
+C. Portuguese
+
+D. French
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Hooghly** was the Portuguese Bengal hub and piracy base. **Chinsurah** belongs to the Dutch (**Fort Gustavus**); **Serampore** to the Danes.
+
+**Trap:** **Bandel** is also linked to Portuguese Christianity in Bengal, but the keyed factory among the four-port list is **Hooghly**.
+
+</details>
+
+**Q6. IAS 1995 / UPPCS 2004 / BPSC**
+
+Among **Bandel**, **Chinsurah**, **Hooghly**, and **Serampore**, which was the site of the **Portuguese factory** in Bengal?
+
+A. Bandel
+
+B. Chinsurah
+
+C. Hooghly
+
+D. Serampore
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Hooghly** was the Portuguese Bengal factory. **Chinsurah** = Dutch; **Serampore** = Danish.
+
+**Trap:** Do not pick **Chinsurah** — that is **Fort Gustavus (1653)** Dutch Bengal.
+
+</details>
+
+**Logic:** Calcutta founder = Job Charnock at Sutanuti; first Municipal Corporation = Madras 1688.
+
+**Q7. UPPCS / UPPCS 2021**
+
+Who is associated with founding the English settlement at **Calcutta** by choosing **Sutanuti** over Hooghly?
+
+A. Sir Thomas Roe
+
+B. William Hawkins
+
+C. Job Charnock
+
+D. François Caron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Job Charnock** of the Kasimbazar factory founded the base that became **Calcutta** at **Sutanuti**.
+
+**Trap:** **Roe** was ambassador **1615–19**; he did not found Calcutta.
+
+</details>
+
+**Q8. UPPCS / UPPCS 2021**
+
+India’s first modern **Municipal Corporation** was established at which place and in which year?
+
+A. Surat (1613)
+
+B. Calcutta (1690)
+
+C. Madras (1688)
+
+D. Bombay (1668)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The first Municipal Corporation was at **Madras in 1688**, not Calcutta or Bombay.
+
+**Trap:** **Calcutta** and **Charnock** are often paired — the municipal-corporation first belongs to **Madras**.
+
+</details>
+
+**Logic:** When English is absent among options, Dutch = first joint-stock; Levant = first British India charter (land); EIC under Akbar; Surat 1613 under Jahangir.
+
+**Q9. IAS / UPPCS / BPSC cluster**
+
+When the **English East India Company** is **not** among the options, which company is usually keyed as the first **joint-stock** company in the India trade?
+
+A. Portuguese Crown
+
+B. Dutch East India Company (VOC)
+
+C. French East India Company
+
+D. Danish East India Company
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Dutch VOC (1602)** is the standard joint-stock answer when English is excluded. The English EIC charter (**1600**) actually came **before** the Dutch.
+
+**Trap:** Do not assume Dutch came before English — **EIC 1600** precedes **VOC 1602**.
+
+</details>
+
+**Q10. IAS / UPPCS / BPSC cluster**
+
+Which company received the **first British charter for trade with India** through the **land route**, before the sea-going East India Company?
+
+A. Levant Company (1592)
+
+B. English East India Company (1600)
+
+C. Dutch East India Company (1602)
+
+D. French East India Company (1664)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The **Levant Company (1592)** held the land-route charter. The sea **EIC** followed in **1600**.
+
+**Trap:** **1600 EIC** is the sea charter under **Akbar**, not the first British India link overall.
+
+</details>
+
+**Q11. IAS / UPPCS / BPSC cluster**
+
+The **English East India Company** received its charter in **1600**. Which Mughal emperor was on the throne in India at that time?
+
+A. Jahangir
+
+B. Akbar
+
+C. Shah Jahan
+
+D. Aurangzeb
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **1600** charter falls under **Akbar**. The first **permanent** English factory at **Surat (1613)** belongs to **Jahangir’s** reign.
+
+**Trap:** **1613 Surat** is under **Jahangir**, not Akbar.
+
+</details>
+
+**Q12. IAS / UPPCS / BPSC cluster**
+
+The first **permanent** English factory in India was established at **Surat in 1613** under which Mughal emperor?
+
+A. Akbar
+
+B. Jahangir
+
+C. Shah Jahan
+
+D. Aurangzeb
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Surat 1613** is the first permanent English factory, under **Jahangir**. Temporary **Masulipatnam** came in **1611**.
+
+**Trap:** **Akbar** died in **1605** — do not pair him with **1613 Surat**.
+
+</details>
+
+**Q13. IAS / UPPCS / BPSC cluster**
+
+Who defeated the Portuguese at **Swally** near Surat, clearing the way for a lasting English foothold?
+
+A. Sir Thomas Roe
+
+B. Captain Thomas Best
+
+C. William Hawkins
+
+D. Job Charnock
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Captain Thomas Best** broke the Portuguese naval monopoly at **Swally (1612)**.
+
+**Trap:** **Roe** sought **farmans** at court; he did not fight the naval battle at Swally.
+
+</details>
+
+**Q14. IAS / UPPCS / BPSC cluster**
+
+**Bombay** was transferred to the English as part of a Portuguese dowry to **Charles II** in **1662** and leased to the EIC in **1668**. From which European power did the English receive Bombay?
+
+A. Dutch
+
+B. French
+
+C. Portuguese
+
+D. Danish
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Bombay** came from the **Portuguese** dowry (**1662**), then EIC lease **1668** for **£10** a year.
+
+**Trap:** **1668** is the lease year; the dowry transfer itself is **1662**.
+
+</details>
+
+**Logic:** IAS 2022 — Dutch–Gajapati grant is false; Albuquerque–Bijapur and Madras–Vijayanagara lease are true.
+
+**Q15. IAS (Pre) 2022**
+
+Consider the following statements:
+
+1. Dutch factories on India’s east coast were mainly established through grants from **Gajapati** rulers.
+
+2. **Afonso de Albuquerque** captured **Goa** from the Sultan of **Bijapur**.
+
+3. The English lease for **Madras** was obtained from a representative of **Vijayanagara**.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (2 and 3 only).** Statement **1** is unsafe — Gajapati power had faded before the main Dutch factory phase. Statements **2** and **3** are correct.
+
+**Trap:** **Gajapati grants** is the false hook on statement **1**.
+
+</details>
+
+**Logic:** John Child expelled by Aurangzeb after attacking Mughal ports (1688).
+
+**Q16. MPPCS / IAS / UPPCS / BPSC**
+
+Which English Governor of Bombay was **expelled by Aurangzeb** after attacking Mughal western ports and hajj traffic around **1688**?
+
+A. Sir John Child
+
+B. Job Charnock
+
+C. Captain Thomas Best
+
+D. Sir Thomas Roe
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Sir John Child** was expelled by **Aurangzeb** after the **1688** attacks. This belongs to the Bombay–Surat phase, not the early Hawkins–Roe period.
+
+**Trap:** **Child** is the Aurangzeb-expulsion name; do not confuse with **Thomas Best** (Swally).
+
+</details>
+
+**Logic:** Early Western Presidency centred at Surat before Bombay grew.
+
+**Q17. MPPCS / IAS / UPPCS / BPSC**
+
+Before Bombay became dominant, the early **Western Presidency** of the English East India Company was centred at:
+
+A. Madras
+
+B. Calcutta
+
+C. Surat
+
+D. Masulipatnam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Surat** was the early Western Presidency after the **1613** permanent factory. Bombay rose later after the **1668** lease.
+
+**Trap:** **Madras (1640)** is Coromandel, not the Western Presidency.
+
+</details>
+
+**Logic:** Earliest French factory = Surat 1668 under François Caron.
+
+**Q18. MPPCS / IAS / UPPCS / BPSC**
+
+The **earliest French factory** in India was opened at which place and in which year?
+
+A. Pondicherry (1674)
+
+B. Surat (1668)
+
+C. Chandernagore (1690)
+
+D. Masulipatnam (1669)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **François Caron** opened the first French factory at **Surat in 1668**. **Pondicherry (1674)** became the HQ later.
+
+**Trap:** **1674 Pondicherry** is French HQ, not the **first** factory.
+
+</details>
+
+**Logic:** Colbert founded the French company (1664) under Louis XIV.
+
+**Q19. MPPCS / IAS / UPPCS / BPSC**
+
+Who is regarded as the **founder of the French East India Company** established in **1664** under **Louis XIV**?
+
+A. Joseph-François Dupleix
+
+B. Jean-Baptiste Colbert
+
+C. François Martin
+
+D. Count de Lally
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Colbert** founded the French company in **1664**. **Dupleix** intervened in Indian politics later; **Martin** developed Pondicherry.
+
+**Trap:** **Dupleix** is the Carnatic intervention name, not the **1664** company founder.
+
+</details>
+
+**Logic:** Immediate cause of First Carnatic War = English capture of French ships (Captain Bernett).
+
+**Q20. MPPCS / IAS / UPPCS / BPSC**
+
+What was the **immediate cause** of the **First Carnatic War (1746–48)** in India?
+
+A. French capture of Calcutta
+
+B. English seizure of French ships under Captain Bernett
+
+C. Battle of Ambur (1749)
+
+D. Treaty of Paris (1763)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The immediate Indian spark was English capture of **French ships** under **Captain Bernett**, within the wider War of Austrian Succession.
+
+**Trap:** **Ambur 1749** opens the **Second** Carnatic War, not the First.
+
+</details>
+
+**Logic:** Dupleix first planted European troops in Indian succession quarrels.
+
+**Q21. MPPCS / IAS / UPPCS / BPSC**
+
+Who **first** used European troops in Indian princes' succession quarrels at Indian expense, setting the template the English later copied?
+
+A. Robert Clive
+
+B. Eyre Coote
+
+C. Joseph-François Dupleix
+
+D. Sir John Child
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Dupleix (1742–1754)** first intervened in Indian succession wars with European troops. **Clive** applied the model later at Arcot and Plassey.
+
+**Trap:** **Clive** is later Carnatic/Bengal — **Dupleix** comes first in the intervention story.
+
+</details>
+
+**Logic:** First Carnatic War ended at Aix-la-Chapelle 1748; Third at Paris 1763; Second often keyed inconclusive.
+
+**Q22. UPPCS 2016 / GIC 2017 / Chhattisgarh PCS**
+
+The **First Carnatic War** ended with which treaty?
+
+A. Treaty of Paris (1763)
+
+B. Treaty of Aix-la-Chapelle (1748)
+
+C. Treaty of Allahabad (1765)
+
+D. Treaty of Salbai (1782)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **First Carnatic War** ended with **Aix-la-Chapelle (1748)**, which also returned **Madras** to the English.
+
+**Trap:** **Paris 1763** belongs to the **Third** Carnatic War / Seven Years' War end.
+
+</details>
+
+**Q23. UPPCS 2016 / GIC 2017 / Chhattisgarh PCS**
+
+The **Third Carnatic War** ended with which treaty?
+
+A. Treaty of Aix-la-Chapelle (1748)
+
+B. Treaty of Paris (1763)
+
+C. Treaty of Mangalore (1784)
+
+D. Treaty of Bassein (1802)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Third Carnatic War** tied to the Seven Years' War and ended at **Paris (1763)** after **Wandiwash (1760)**.
+
+**Trap:** **Aix-la-Chapelle 1748** is First Carnatic, not Third.
+
+</details>
+
+**Q24. UPPCS 2016 / GIC 2017 / Chhattisgarh PCS**
+
+The **Second Carnatic War (1749–54)** is often described in PYQ keys as:
+
+A. A clear French victory ending at Paris
+
+B. Inconclusive for the English–French balance
+
+C. Ended by the Treaty of Aix-la-Chapelle
+
+D. Opened with the Battle of Wandiwash
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Second Carnatic War** is commonly keyed **inconclusive** (**1749–54**). It opened with **Ambur (1749)**, not Wandiwash.
+
+**Trap:** **Wandiwash 1760** belongs to the **Third** phase, not the Second.
+
+</details>
+
+**Q25. UPPCS 2016 / GIC 2017 / Chhattisgarh PCS**
+
+The **Battle of Ambur (1749)**, which opened the **Second Carnatic War**, was fought in which year?
+
+A. 1746
+
+B. 1748
+
+C. 1749
+
+D. 1752
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ambur** was fought in **1749**, opening the Second Carnatic War. **1752** is a common trap year.
+
+**Trap:** **1748** is **Aix-la-Chapelle** (First Carnatic end), not Ambur.
+
+</details>
+
+**Q26. UPPCS 2016 / GIC 2017 / Chhattisgarh PCS / UKPCS**
+
+At the **Battle of Wandiwash (1760)**, who defeated whom?
+
+A. French defeated the British
+
+B. British defeated the French
+
+C. Marathas defeated the French
+
+D. The battle was inconclusive
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** At **Wandiwash (1760)**, the **British** under **Eyre Coote** defeated the **French** under **Count de Lally**.
+
+**Trap:** **St. Thome (1746)** was a **French** win in the **First** Carnatic War — opposite outcome from Wandiwash.
+
+</details>
+
+**Logic:** Arrival order = Portuguese → Dutch → English → (Danes) → French; Bihar = opium/saltpetre; last European traders = French.
+
+**Q27. UPPCS / IAS / BPSC**
+
+Arrange the following European trading powers in the order of their **entry into India for trade**:
+
+1. English
+
+2. Dutch
+
+3. Portuguese
+
+4. French
+
+A. 3, 2, 1, 4
+
+B. 3, 1, 2, 4
+
+C. 2, 3, 1, 4
+
+D. 3, 2, 4, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (3-2-1-4).** Order: **Portuguese (1498) → Dutch (~1605) → English (Surat factory phase) → French (1674 Pondicherry HQ)**. Danes (**Tranquebar 1620**) sit between English and French in full five-power lists.
+
+**Trap:** **EIC 1600** charter precedes **VOC 1602**, but Dutch **factory presence** in India is still keyed after Portuguese and often before sustained English foothold.
+
+</details>
+
+**Q28. UPPCS / IAS / BPSC**
+
+Match the settlement with the European power:
+
+| Settlement | Power |
+| --- | --- |
+| 1. Pondicherry | A. Portuguese |
+| 2. Goa | B. French |
+| 3. Tranquebar | C. Danish |
+| 4. Sadras | D. Dutch |
+
+*Row order is not the answer code.*
+
+A. 1-B, 2-A, 3-C, 4-D
+
+B. 1-A, 2-B, 3-D, 4-C
+
+C. 1-C, 2-D, 3-B, 4-A
+
+D. 1-D, 2-C, 3-A, 4-B
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (1-B, 2-A, 3-C, 4-D).** **Pondicherry–French**, **Goa–Portuguese**, **Tranquebar–Danish**, **Sadras–Dutch**.
+
+**Trap:** **Serampore** is Danish Bengal; **Chandernagore** is French Bengal — do not swap with Pondicherry/Goa pairs.
+
+</details>
+
+**Q29. UPPCS / IAS / BPSC**
+
+Which region was especially prized by Europeans for high-grade **opium** and **saltpetre (shora)**?
+
+A. Bengal delta
+
+B. Bihar
+
+C. Malabar coast
+
+D. Konkan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Bihar** supplied prized **opium** and **saltpetre**. This is a standard Ghatnachakra trade-geography fact.
+
+**Trap:** Bengal trade matters, but the **opium–saltpetre** pair is keyed to **Bihar**.
+
+</details>
+
+**Q30. UPPCS / IAS / BPSC**
+
+Among the major European trading companies in India, which power is described as the **last to arrive** as traders (though not the last to leave Indian territory)?
+
+A. Portuguese
+
+B. Dutch
+
+C. English
+
+D. French
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The **French** were the **last major traders to arrive** (**1664** company; **Pondicherry HQ 1674**). The **Portuguese** were first to arrive and last to leave (**1961** Goa).
+
+**Trap:** "Last to leave" = **Portuguese**; "last traders to arrive" = **French** — different questions.
+
+</details>
+
+**Q31. UPPCS / IAS / BPSC**
+
+Which of the following did the **English** introduce into India according to standard IAS 2012-style keys on this topic?
+
+A. Systematic soil assessment for revenue
+
+B. Chillies as a new crop
+
+C. Mobile cannon in Indian warfare
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** In the cited cluster, the English introduced **none** of those three items — each belongs to other agents or earlier Indian/Mughal contexts.
+
+**Trap:** Do not assume the English brought **chillies** — American crops spread through multiple routes.
 
 </details>
 
@@ -824,52 +1325,145 @@ D. Muhammad Zaman and Muhammad Junaidi
 
 **Q5. BPSC / UPPCS Spl Mains / MPPCS 2023**
 
-Last emperor on Mayur Singhasan / emperor at Nadir’s attack / year of Nadir’s invasion?
+Who was the **last Mughal emperor to sit on the Peacock Throne (Mayur Singhasan)**?
+
+A. Farrukh Siyar
+
+B. Muhammad Shah Rangeela
+
+C. Ahmad Shah
+
+D. Bahadur Shah Zafar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Muhammad Shah Rangeela**; invasion **1739**; battle **Karnal**, then Delhi sack.
+**Ans: B.** **Muhammad Shah Rangeela (1719–1748)** was the last emperor to sit on the **Peacock Throne**.
+
+**Trap:** **Zafar** was the last Mughal emperor overall, but not the last on the Peacock Throne.
+
+</details>
+
+**Q6. BPSC / UPPCS Spl Mains / MPPCS 2023**
+
+Which Mughal emperor was on the throne when **Nadir Shah** invaded India and defeated the Mughals at **Karnal**?
+
+A. Aurangzeb
+
+B. Jahandar Shah
+
+C. Muhammad Shah Rangeela
+
+D. Shah Alam II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Muhammad Shah Rangeela** faced **Nadir Shah** at **Karnal (1739)**, followed by the Delhi sack and loss of the Peacock Throne and **Kohinoor**.
+
+**Trap:** **1739** is tied to **Muhammad Shah**, not **Aurangzeb** or **Shah Alam II**.
+
+</details>
+
+**Q7. BPSC / UPPCS Spl Mains / MPPCS 2023**
+
+**Nadir Shah's invasion of India** and the sack of Delhi took place in which year?
+
+A. 1707
+
+B. 1717
+
+C. 1739
+
+D. 1761
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Nadir Shah** invaded in **1739**, defeated the Mughals at **Karnal**, and sacked Delhi.
+
+**Trap:** **1761** is **Panipat III** under **Ahmad Shah Abdali**, not Nadir Shah.
 
 </details>
 
 **Logic:** Eunuchs/ladies dominate under Muhammad Shah; Rangeela nickname.
 
-**Q6. UPPCS (Mains) 2004 / MPPCS 2014**
+**Q8. UPPCS (Mains) 2004 / MPPCS 2014**
 
-A group of eunuchs and ladies dominated government under / who is called Rangeela?
+A group of eunuchs and ladies dominated the Mughal government under which emperor, who is also known as **Rangeela**?
 
-A. Ahmad Shah / Farrukh Siyar
+A. Ahmad Shah
 
-B. Alamgir / Rafi-ud-Darajat
+B. Alamgir
 
-C. Shah Alam II / Rafi-ud-Daula
+C. Shah Alam II
 
-D. Muhammad Shah (1719–48) / Muhammad Shah
+D. Muhammad Shah (1719–1748)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Muhammad Shah Rangeela**.
+**Ans: D.** **Muhammad Shah Rangeela (1719–1748)** — eunuchs and ladies dominated his court; he is the **Rangeela** emperor linked to **Nadir Shah (1739)**.
+
+**Trap:** **Farrukh Siyar** belongs to the **1717 Bengal farman** phase, not the Rangeela nickname.
 
 </details>
 
 **Logic:** Chronology drills for later Mughals.
 
-**Q7. UPPCS (Pre) 2018 / UP R.O./A.R.O. (Pre) 2023**
+**Q9. UPPCS (Pre) 2018 / UP R.O./A.R.O. (Pre) 2023**
 
-Arrange: Jahandar / Muhammad Shah / Ahmad Shah / Alamgir II — and Bahadur Shah → Jahandar → Farrukhsiyar → Muhammad Shah.
+Arrange the following later Mughal emperors in **chronological order**:
+
+1. Jahandar Shah
+
+2. Muhammad Shah
+
+3. Ahmad Shah
+
+4. Alamgir II
+
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 3, 2, 4
+
+D. 4, 3, 2, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Jahandar Shah → Muhammad Shah → Ahmad Shah → Alamgir II**. Full early line: **Bahadur Shah I → Jahandar → Farrukhsiyar → Muhammad Shah**.
+**Ans: A (1-2-3-4).** Order: **Jahandar Shah → Muhammad Shah → Ahmad Shah → Alamgir II**.
+
+**Trap:** Do not place **Alamgir II** before **Muhammad Shah** — he belongs later in the eighteenth-century line.
+
+</details>
+
+**Q10. UPPCS (Pre) 2018 / UP R.O./A.R.O. (Pre) 2023**
+
+Which of the following is the correct **early later-Mughal succession line** after Aurangzeb?
+
+A. Bahadur Shah I → Jahandar Shah → Farrukhsiyar → Muhammad Shah
+
+B. Jahandar Shah → Bahadur Shah I → Farrukhsiyar → Muhammad Shah
+
+C. Bahadur Shah I → Farrukhsiyar → Jahandar Shah → Muhammad Shah
+
+D. Farrukhsiyar → Jahandar Shah → Bahadur Shah I → Muhammad Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** After **Aurangzeb (1707)**, the early line is **Bahadur Shah I → Jahandar Shah → Farrukhsiyar → Muhammad Shah**.
+
+**Trap:** **Jahandar** came **after Bahadur Shah I**, not before.
 
 </details>
 
 **Logic:** Ghaziuddin barred Shah Alam II from Delhi (for a phase).
 
-**Q8. BPSC (Pre) 2000**
+**Q11. BPSC (Pre) 2000**
 
 Which Mughal emperor was not allowed to enter Delhi by Wazir Ghaziuddin?
 
@@ -890,73 +1484,337 @@ D. Bahadur Shah-II
 
 **Logic:** Last Mughal = Zafar; father Akbar II; pension not “less than one lakh”.
 
-**Q9. UPPCS (Pre) 2005 / MPPCS / UPPCS (Mains) 2006**
+**Q12. UPPCS (Pre) 2005 / MPPCS / UPPCS (Mains) 2006**
 
-Last Mughal emperor / father’s name / which statement about Zafar is NOT correct?
+Who was the **last Mughal emperor**, and who was his father?
+
+A. Bahadur Shah Zafar; son of Akbar II
+
+B. Bahadur Shah Zafar; son of Shah Alam II
+
+C. Akbar II; son of Shah Alam II
+
+D. Shah Alam II; son of Alamgir II
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Last emperor **Bahadur Shah Zafar**; father **Akbar II**. The false statement is that he received **less than one lakh** as Company pension — he received about **one lakh per month**.
+**Ans: A.** The last Mughal emperor was **Bahadur Shah Zafar**, son of **Akbar II (1806–1837)**.
+
+**Trap:** **Shah Alam II** was Zafar's grandfather-phase emperor, not his father.
+
+</details>
+
+**Q13. UPPCS (Pre) 2005 / MPPCS / UPPCS (Mains) 2006**
+
+Which of the following statements about **Bahadur Shah Zafar** is **NOT** correct?
+
+A. He was the last Mughal emperor.
+
+B. He was the son of Akbar II.
+
+C. He received less than one lakh rupees as pension from the Company.
+
+D. Teachers at his court included Zauq and Ghalib.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The false statement is that he received **less than one lakh** as Company pension — he received about **one lakh per month**.
+
+**Trap:** The pension amount trap reverses the truth — Zafar's pension was substantial, not below one lakh.
 
 </details>
 
 **Logic:** First Nawab of Awadh = Saadat Khan; both statements on Burhan-ul-Mulk true.
 
-**Q10. UPPCS Spl Mains 2008 / UP R.O./A.R.O. (Pre) 2023**
+**Q14. UPPCS Spl Mains 2008 / UP R.O./A.R.O. (Pre) 2023**
 
-First Nawab of Oudh / Saadat Khan statements (founder of Awadh; conspiracy vs Sayyids)?
+Who was the **first Nawab of Oudh (Awadh)**?
+
+A. Murshid Quli Khan
+
+B. Saadat Khan Burhan-ul-Mulk
+
+C. Safdar Jung
+
+D. Shuja-ud-Daula
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Saadat Khan**. Both statements are correct — founder of autonomous Awadh and participant against the Sayyid brothers.
+**Ans: B.** **Saadat Khan Burhan-ul-Mulk** founded the autonomous **Awadh** Nawabi in **1722**.
+
+**Trap:** **Murshid Quli Khan** founded Bengal's Nawabi, not Awadh.
+
+</details>
+
+**Q15. UPPCS Spl Mains 2008 / UP R.O./A.R.O. (Pre) 2023**
+
+Consider the following statements about **Saadat Khan Burhan-ul-Mulk**:
+
+1. He was the founder of the autonomous state of Awadh.
+
+2. He took part in the conspiracy against the Sayyid brothers.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Both 1 and 2).** **Saadat Khan** founded **Awadh (1722)** and participated against the **Sayyid brothers**, receiving the **Burhan-ul-Mulk** title from **Muhammad Shah**.
+
+**Trap:** Do not swap him with **Murshid Quli Khan** of Bengal.
 
 </details>
 
 **Logic:** Hyderabad founder = Chin Qilich Khan; Kilich ≠ Mubariz; Asaf Jah from Muhammad Shah.
 
-**Q11. UPPCS (Mains) 2011 / Chhattisgarh PCS 2022**
+**Q16. UPPCS (Mains) 2011 / Chhattisgarh PCS 2022**
 
-Founder of independent Hyderabad / which statements about Kilich–Mubariz–Asaf Jah are untrue?
+Who founded the **independent state of Hyderabad (Nizam's dominion)** after defeating the Mughal governor at **Shakar Kheda (1724)**?
+
+A. Murshid Quli Khan
+
+B. Saadat Khan
+
+C. Chin Qilich Khan (Nizam-ul-Mulk Asaf Jah)
+
+D. Ali Muhammad Khan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Founder **Chin Qilich Khan (Nizam-ul-Mulk)**. He defeated **Mubariz Khan** at **Shakar Kheda (1724)**. **Kilich Khan is not Mubariz Khan**; **Asaf Jah** title came from **Muhammad Shah**, not Zulfiqar Khan.
+**Ans: C.** **Chin Qilich Khan (Nizam-ul-Mulk)** founded independent **Hyderabad** after defeating **Mubariz Khan** at **Shakar Kheda (1724)**.
+
+**Trap:** **Saadat Khan** founded **Awadh**, not Hyderabad.
+
+</details>
+
+**Q17. UPPCS (Mains) 2011 / Chhattisgarh PCS 2022**
+
+Which of the following statements about **Chin Qilich Khan** and Hyderabad is **NOT** correct?
+
+A. He defeated Mubariz Khan at Shakar Kheda in 1724.
+
+B. Chin Qilich Khan and Mubariz Khan were the same person.
+
+C. He is regarded as the founder of independent Hyderabad.
+
+D. The title Asaf Jah was linked to Muhammad Shah's reign.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Kilich Khan is not Mubariz Khan** — that identity merge is the false statement. He defeated **Mubariz Khan** at **Shakar Kheda (1724)**. The **Asaf Jah** title came from **Muhammad Shah**, not **Zulfiqar Khan**.
+
+**Trap:** Statement **D** is true in spirit — the false hook is the Kilich = Mubariz claim in **B**.
 
 </details>
 
 **Logic:** IAS 2021 — only Mysore from Vijayanagara vassalage is correct.
 
-**Q12. IAS (Pre) 2021**
+**Q18. IAS (Pre) 2021**
 
-1 Arcot emerged out of Hyderabad 2 Mysore emerged out of Vijayanagara 3 Rohilkhand from Durrani territories
+Consider the following statements:
+
+1. **Arcot** emerged out of the break-up of the **Nizam's dominion (Hyderabad)**.
+
+2. **Mysore** emerged out of the **Vijayanagara** Empire.
+
+3. **Rohilkhand** and **Bundelkhand** were two areas that had been carved out of the territories occupied by **Ahmad Shah Durrani**.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+
+B. 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (2 only).** Arcot was a dependency of the Nizam’s legal sphere, not a simple Hyderabad breakaway in that sense. Rohilkhand rose after **Nadir 1739** chaos under **Ali Muhammad Khan**, not from Durrani occupation.
+**Ans: B (2 only).** **Mysore** from **Vijayanagara** vassalage is correct. **Arcot** was a dependency of the Nizam's legal sphere, not a simple Hyderabad breakaway in that sense. **Rohilkhand** rose after **Nadir 1739** chaos under **Ali Muhammad Khan**, not from Durrani occupation.
+
+**Trap:** Statement **1** sounds plausible but over-simplifies Arcot's Nizam-linked origin.
 
 </details>
 
 **Logic:** Jai Singh II observatories — five cities; not Allahabad; Zij Muhammad Shahi.
 
-**Q13. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
+**Q19. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
 
-Who built Jantar Mantar in Delhi / where did Jai Singh build observatories / Zij Muhammad Shahi author?
+Who built the **Jantar Mantar** observatory at **Delhi**?
+
+A. Akbar
+
+B. Shah Jahan
+
+C. Sawai Jai Singh II
+
+D. Muhammad Shah Rangeela
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Sawai Jai Singh II**. Observatories at **Delhi, Jaipur, Ujjain, Mathura, Varanasi** — **not Allahabad**. Astronomical tables **Zij Muhammad Shahi**.
+**Ans: C.** **Sawai Jai Singh II** built **Jantar Mantar** at **Delhi** and four other cities.
+
+**Trap:** **Muhammad Shah Rangeela** gave his name to **Zij Muhammad Shahi**, but Jai Singh built the observatories.
 
 </details>
 
+**Q20. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
+
+**Sawai Jai Singh II** built **Jantar Mantar** observatories at which of the following groups of cities?
+
+A. Delhi, Jaipur, Ujjain, Mathura, and Varanasi
+
+B. Delhi, Jaipur, Agra, Allahabad, and Varanasi
+
+C. Delhi, Ujjain, Mathura, Allahabad, and Banaras
+
+D. Jaipur, Ujjain, Agra, Mathura, and Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Observatories stood at **Delhi, Jaipur, Ujjain, Mathura, and Varanasi**. **Allahabad** is the standard trap city.
+
+**Trap:** **Allahabad** is **not** in Jai Singh's five-city observatory list.
+
+</details>
+
+**Q21. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
+
+The astronomical tables known as **Zij Muhammad Shahi** were prepared by:
+
+A. Muhammad Shah Rangeela
+
+B. Sawai Jai Singh II
+
+C. Ulugh Beg
+
+D. Bernier
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sawai Jai Singh II** prepared **Zij Muhammad Shahi** during **Muhammad Shah's** reign — the title honours the emperor, but Jai Singh was the author-preparer.
+
+**Trap:** Do not pick **Muhammad Shah** just because his name is in the title.
+
+</details>
+
+### UKPCS Complete PYQ Bank (Later Medieval — Europeans)
+
+**Logic:** Blue Water Policy = Francisco de Almeida, first Portuguese Viceroy (1505).
+
+**Q1. Uttarakhand PCS (Pre) 2016**
+
+Which one is connected with the **Blue Water Policy**?
+
+A. De Almeida
+
+B. Albuquerque
+
+C. Dupleix
+
+D. Robert Clive
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Francisco de Almeida** framed the **Blue Water Policy** of ocean trade control and served as the first Portuguese Viceroy (**1505**).
+
+**Trap:** **Albuquerque** is the real founder of Portuguese power and took **Goa in 1510**, not Blue Water.
+
+</details>
+
+**Logic:** First Europeans to set up sea trade centres in India = Portuguese (1498).
+
+**Q2. Uttarakhand PCS (Pre) 2004 / Mains 2006**
+
+Who were the **first Europeans** to set up **sea trade centres** in India?
+
+A. Dutch
+
+B. English
+
+C. Portuguese
+
+D. French
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** The **Portuguese** were the first Europeans to open medieval **sea trade** with India (**Vasco da Gama, 1498**).
+
+**Trap:** **English Surat (1613)** and **French Pondicherry (1674)** came much later.
+
+</details>
+
+**Logic:** Calcutta founder = Job Charnock at Sutanuti.
+
+**Q3. Uttarakhand PCS (Pre) 2004 / Mains 2006**
+
+Who is associated with founding **Calcutta** by establishing the English base at **Sutanuti**?
+
+A. Sir Thomas Roe
+
+B. William Hawkins
+
+C. Job Charnock
+
+D. François Caron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Job Charnock** chose **Sutanuti** and founded the settlement that became **Calcutta**.
+
+**Trap:** **Roe** was Jahangir's ambassador **1615–19**; he did not found Calcutta.
+
+</details>
+
+**Logic:** Wandiwash 1760 — French commander Count de Lally defeated by British under Eyre Coote.
+
+**Q4. Uttarakhand PCS (Pre) 2016**
+
+Who was the **French commander defeated** at the **Battle of Wandiwash (1760)**?
+
+A. Count Lally
+
+B. Francis Martin
+
+C. Dupleix
+
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Count de Lally** commanded the French at **Wandiwash (1760)** and was defeated by the British under **Eyre Coote**.
+
+**Trap:** **Dupleix** belongs to the earlier Carnatic intervention phase (**1742–1754**), not Wandiwash.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **38 questions** · answers in `<details>`
+> **38 questions** · answers under Show answer
 
 **Q1.** Travellers: I Hawkins II Fitch III Roe IV Downton
 

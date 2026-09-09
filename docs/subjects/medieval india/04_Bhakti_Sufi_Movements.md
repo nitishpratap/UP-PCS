@@ -832,26 +832,6 @@ D. 4 3 2 1
 
 </details>
 
-### UKPCS Prelims 2025
-
-**Logic:** Chiragh-i-Delhi is Nasiruddin Mahmud, the disciple — not Nizamuddin’s own title.
-
-**Q. UKPCS Prelims 2025, Q58**
-
-Who was popularly known as Chiragh-i-Delhi?
-
-A. Shaikh Nizamuddin
-B. Nasiruddin Mahmud
-C. Fariduddin Masud
-D. Qutbuddin Bakhtiyar Kaki
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (Series B provisional key).** Nasiruddin Mahmud Chiragh-i-Delhi succeeds Nizamuddin in the Chishti line of Delhi. Nizamuddin is Mahbub-i-Ilahi; Farid is Baba Farid; Bakhtiyar Kaki is the Mehrauli saint.
-
-</details>
-
 ---
 
 
@@ -859,24 +839,45 @@ D. Qutbuddin Bakhtiyar Kaki
 
 Teaching for these stems sits in **4.1–4.18**.
 
-**Logic:** Early phase = Alvars / Nayanars; mass north rebirth = 15th–16th c.
+**Logic:** Early Bhakti in south India begins with Alvar–Nayanar devotion.
 
 **Q1. UP UDA/LDA (Pre) 2001 / UPPCS 1993**
 
-The Bhakti movement was started by / reborn in India during:
+The Bhakti movement was started by:
 
-A. Alvar Saints / Vedic age
+A. Alvar Saints
 
-B. Sufi Saints / 10th century
+B. Sufi Saints
 
-C. Surdas / 12th century
+C. Surdas
 
-D. Tulsidas / 15th–16th century
+D. Tulsidas
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Started in the south with **Alvar–Nayanar** devotion (and philosophical bridge via Shankara); the **north sant wave was reborn in the 15th–16th century** (Kabir, Nanak, Tulsi, Sur, Mira).
+**Ans: A.** The earliest phase is **Alvar–Nayanar** bhakti in the Tamil south (7th–12th c.), bridged northward later via Shankara and the sant tradition.
+
+</details>
+
+**Logic:** Mass north Indian sant wave peaks in the 15th–16th century.
+
+**Q1b. UP UDA/LDA (Pre) 2001 / UPPCS 1993**
+
+The Bhakti movement was reborn in north India during:
+
+A. Vedic age
+
+B. 10th century
+
+C. 12th century
+
+D. 15th–16th century
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Kabir, Nanak, Tulsi, Sur, Mira** mark the **15th–16th century** north Indian rebirth after the early south phase.
 
 </details>
 
@@ -901,15 +902,15 @@ D. Encouraged idol worship
 
 </details>
 
-**Logic:** First Hindi propagator = Ramananda (IAS / UPPCS family).
+**Logic:** First Bhakti saint to preach in Hindi = Ramananda.
 
 **Q3. IAS (Pre) 2002 / UPPCS Mains 2010**
 
-Who among the following was the first Bhakti Saint to use Hindi for the propagation of his message / born in Prayag?
+Who among the following was the first Bhakti Saint to use Hindi for the propagation of his message?
 
-A. Dadu / Kumbhandas
+A. Dadu Dayal
 
-B. Kabir / Raidas
+B. Kabir
 
 C. Ramananda
 
@@ -918,7 +919,28 @@ D. Tulsidas
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Ramananda** of Prayag; Hindi preaching; Kabir among his disciples.
+**Ans: C.** **Ramananda** of **Prayag** used Hindi for mass preaching; **Kabir** was among his disciples.
+
+</details>
+
+**Logic:** Ramananda's birthplace = Prayag (Allahabad).
+
+**Q3b. IAS (Pre) 2002 / UPPCS Mains 2010**
+
+Which Bhakti saint was born at **Prayag**?
+
+A. Dadu Dayal
+
+B. Kabir
+
+C. Ramananda
+
+D. Tulsidas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ramananda** established Rama bhakti at **Banaras–Prayag** with Hindi as the vehicle.
 
 </details>
 
@@ -943,87 +965,131 @@ D. Ramaini
 
 </details>
 
-**Logic:** Shankaradeva = Assam / Kamarupa Vaishnavism.
+**Logic:** Shankaradeva popularised Ekasarana Vaishnavism in Assam (Kamarupa) and Cooch Behar.
 
 **Q5. UPPCS Mains 2002 / Prelims 2015 / Mains 2011**
 
-Vaishnavism in Kamarupa / Assam and Cooch Behar was popularised by:
+Vaishnavism in Kamarupa (Assam) and Cooch Behar was popularised by:
 
 A. Chaitanya
 
-B. Nimbarka / Madhva
+B. Nimbarka
 
-C. Ramananda / Vallabhacharya
+C. Ramananda
 
 D. Shankaradeva
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** **Ekasarana** Vaishnava; often called the Chaitanya of Assam.
+**Ans: D.** **Ekasarana** Vaishnava movement; often called the **Chaitanya of Assam**.
 
 </details>
 
-**Logic:** Correct Vedanta match Madhva–Dvaita; Pushti = Vallabha not Madhva.
+**Logic:** Dvaita school belongs to Madhvacharya — not Shankara or Ramanuja.
 
 **Q6. UPPCS Mains 2005 / Prelims 2022 / IAS 2014**
 
-Which is correctly matched / both statements wrong?
+Which of the following philosopher–school pairs is correctly matched?
 
-A. Advaita–Ramanuja (wrong)
+A. Advaita — Ramanuja
 
-B. Vishishtadvaita–Shankara (wrong)
+B. Vishishtadvaita — Shankara
 
-C. Dvaita–Madhvacharya (correct)
+C. Dvaita — Madhvacharya
 
-D. Bijak = Dadu; Pushti = Madhva (both wrong — IAS 2014)
+D. Shuddhadvaita — Madhvacharya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Dvaita–Madhva** is correct. *Bijak* = **Kabir**; **Pushtimarg / Shuddhadvaita** = **Vallabhacharya**.
+**Ans: C.** **Dvaita–Madhva** is correct. **Advaita–Shankara**; **Vishishtadvaita–Ramanuja**; **Shuddhadvaita–Vallabhacharya**.
+
+**Trap:** *Bijak* belongs to **Kabir**, not Dadu; **Pushtimarg** follows **Vallabha**, not Madhva (IAS 2014 variant).
 
 </details>
 
-**Logic:** Nanak founded Sikhism under Sikandar Lodi; birth Nankana.
+**Logic:** Guru Nanak's public career unfolded under Delhi Sultan **Sikandar Lodi**.
 
 **Q7. UPPCS Spl Pre 2008 / Mains 2007**
 
-In whose regime did Guru Nanak found Sikh religion / birthplace?
+In whose regime did Guru Nanak preach and lay the foundations of Sikh religion?
 
-A. Firuz Shah Tughluq / Amritsar
+A. Firuz Shah Tughluq
 
-B. Sikandar Lodi / Nankana
+B. Sikandar Lodi
 
-C. Humayun / Nabha
+C. Humayun
 
-D. Akbar / Nanded
+D. Akbar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Birth **Nankana Sahib**; career under **Sikandar Lodi**.
+**Ans: B.** Nanak's mature preaching phase falls under **Sikandar Lodi** (1489–1517).
 
 </details>
 
-**Logic:** Tulsidas contemporary of Akbar and Jahangir; Ramcharitmanas Awadhi.
+**Logic:** Nanak was born at Nankana Sahib, not Amritsar.
 
-**Q8. UPPCS Spl Pre 2004 / UK UDA 2007**
+**Q7b. UPPCS Spl Pre 2008 / Mains 2007**
 
-Whose contemporary was Tulsidas / who wrote Ramcharitmanas?
+The birthplace of Guru Nanak is:
 
-A. Akbar and Jahangir / Tulsidas
+A. Amritsar
 
-B. Shahjahan / Valmiki
+B. Nankana Sahib
 
-C. Aurangzeb / Surdas
+C. Nabha
 
-D. Babur and Humayun / Ved Vyas
+D. Nanded
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** *Ramcharitmanas* in **Awadhi** by **Tulsidas**.
+**Ans: B.** **Nankana Sahib** (now in Pakistan) — not **Amritsar** (developed later by Ranjit Singh).
+
+</details>
+
+**Logic:** Tulsidas lived during Akbar and Jahangir's reigns.
+
+**Q8. UPPCS Spl Pre 2004 / UK UDA 2007**
+
+Tulsidas was a contemporary of:
+
+A. Akbar and Jahangir
+
+B. Shahjahan
+
+C. Aurangzeb
+
+D. Babur and Humayun
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Tulsidas** (1532–1623) overlapped **Akbar** and **Jahangir**.
+
+</details>
+
+**Logic:** Ramcharitmanas is Tulsidas's Awadhi retelling of Rama's story.
+
+**Q8b. UPPCS Spl Pre 2004 / UK UDA 2007**
+
+Who wrote **Ramcharitmanas**?
+
+A. Tulsidas
+
+B. Valmiki
+
+C. Surdas
+
+D. Ved Vyas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Tulsidas** composed *Ramcharitmanas* in **Awadhi** (1574 CE tradition).
 
 </details>
 
@@ -1048,34 +1114,55 @@ D. Usman – Chitrawali
 
 </details>
 
-**Logic:** Varkari peeth = Pandharpur; Namdev is Varkari.
+**Logic:** Namdev is the classic early Varkari saint.
 
 **Q10. UPPCS Mains 2002/04 / RAS 2018**
 
-Who was the Saint of the Varkari Sect / main seat of Varkari?
+Who was the Saint of the **Varkari** sect?
 
-A. Nimbarka / Shringeri
+A. Nimbarka
 
-B. Chakradhara / Nadia
+B. Chakradhara
 
-C. Namdev / Pandharpur
+C. Namdev
 
-D. Ramdas / Varanasi
+D. Ramdas
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** **Pandharpur** (Vitthal / Chandrabhaga).
+**Ans: C.** **Namdev** (also **Jnaneshwar**, **Tukaram**) belongs to the **Varkari** line centred on **Vithoba**.
 
 </details>
 
-**Logic:** Chishti in India = Moinuddin; disciple of Usman Haruni; Shaikh-ul-Hind = Salim.
+**Logic:** Varkari pilgrimage centre = Pandharpur on the Chandrabhaga.
+
+**Q10b. UPPCS Mains 2002/04 / RAS 2018**
+
+The main seat (peeth) of the **Varkari** tradition is:
+
+A. Shringeri
+
+B. Nadia
+
+C. Pandharpur
+
+D. Varanasi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Pandharpur** (Vitthal temple on the **Chandrabhaga/Bhima**).
+
+</details>
+
+**Logic:** Moinuddin Chishti brought the Chishti silsilah to India and settled at Ajmer.
 
 **Q11. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
 
-Chishtia order in India / earliest at Ajmer / founder branch / Shaikh-ul-Hind:
+Who established the **Chishti** order in India with its earliest centre at **Ajmer**?
 
-A. Moinuddin Chishti at Ajmer; disciple of Usman Haruni; Salim Chishti = Shaikh-ul-Hind
+A. Moinuddin Chishti
 
 B. Bahauddin Zakariya
 
@@ -1086,62 +1173,165 @@ D. Abdul Qadir Jilani
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Chain and titles as above; Qadiri founder line ≠ Chishti.
+**Ans: A.** **Khwaja Moinuddin Chishti** made **Ajmer** the great Chishti shrine of India.
 
 </details>
 
-**Logic:** Mehboob-i-Ilahi = Nizamuddin; refused Alauddin; Chirag = Nasiruddin.
+**Logic:** Moinuddin's pir was Usman Haruni — not Abdul Qadir Jilani (Qadiri founder).
+
+**Q11b. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
+
+Moinuddin Chishti was the disciple of:
+
+A. Usman Haruni
+
+B. Bahauddin Zakariya
+
+C. Ahmad Sirhindi
+
+D. Abdul Qadir Jilani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Usman Haruni** was Moinuddin's **murshid**; Jilani belongs to the **Qadiri** line.
+
+</details>
+
+**Logic:** Salim Chishti of Fatehpur Sikri held the title Shaikh-ul-Hind.
+
+**Q11c. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
+
+Who among the following was known as **Shaikh-ul-Hind**?
+
+A. Salim Chishti
+
+B. Nizamuddin Auliya
+
+C. Baba Farid
+
+D. Bakhtiyar Kaki
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Salim Chishti** at **Fatehpur Sikri** — Akbar's court saint.
+
+</details>
+
+**Logic:** Mehboob-i-Ilahi = Nizamuddin Auliya of Delhi.
 
 **Q12. UPPCS Pre 2014 / UKPCS 2016 / RO 2017**
 
-Which Sufi was called Mehboob-i-Ilahi / Chirag-i-Delhi?
+Which Sufi saint was called **Mehboob-i-Ilahi** (Beloved of God)?
 
-A. Moinuddin / Fariduddin
+A. Moinuddin Chishti
 
-B. Baba Farid / Nizamuddin
-
-C. Bakhtiyar Kaki / Salim
-
-D. Nizamuddin Auliya / Nasiruddin
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Mehboob-i-Ilahi** = Nizamuddin; **Chirag-i-Delhi** = **Nasiruddin**.
-
-</details>
-
-**Logic:** Adi Granth verses = Baba Farid; Nizamuddin not Multan.
-
-**Q13. UPPCS Pre 1994 / 2020**
-
-Thought incorporated in Adi Granth / NOT correctly matched shrine:
-
-A. Fariduddin Ganj-i-Shakar / Nizamuddin–Multan is wrong
-
-B. Moinuddin / Nizamuddin–Delhi wrong
+B. Baba Farid
 
 C. Bakhtiyar Kaki
 
-D. Nizamuddin for Adi Granth
+D. Nizamuddin Auliya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A pattern.** Farid’s compositions enter **Adi Granth**; **Nizamuddin–Multan** is the wrong pair (Delhi is correct).
+**Ans: D.** **Nizamuddin Auliya** refused **Alauddin Khalji's** royal grants and lived on voluntary offerings.
 
 </details>
 
-**Logic:** Match Chishti–Naqshbandi–Qadiri–Suhrawardi.
+**Logic:** Chiragh-i-Delhi = Nasiruddin Mahmud, Nizamuddin's successor.
 
-**Q14. UPPCS Mains 2013**
+**Q12b. UPPCS Pre 2014 / UKPCS 2016 / RO 2017**
 
-Match: Moinuddin / Ahmad Sirhindi / Dara Shukoh / Shahabuddin with Chishtiya / Naqshbandiya / Qadiriya / Suhrawardiya.
+Which Sufi saint was called **Chiragh-i-Delhi** (Lamp of Delhi)?
+
+A. Moinuddin Chishti
+
+B. Baba Farid
+
+C. Bakhtiyar Kaki
+
+D. Nasiruddin Mahmud
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Moinuddin–Chishti; Sirhindi–Naqshbandi; Dara–Qadiri; Shahabuddin–Suhrawardi.
+**Ans: D.** **Nasiruddin Mahmud** succeeded **Nizamuddin** as head of the Delhi Chishti line.
+
+</details>
+
+**Logic:** Baba Farid's verses were incorporated into the Adi Granth.
+
+**Q13. UPPCS Pre 1994 / 2020**
+
+Whose thought was incorporated in the **Adi Granth**?
+
+A. Fariduddin Ganj-i-Shakar
+
+B. Moinuddin Chishti
+
+C. Bakhtiyar Kaki
+
+D. Nizamuddin Auliya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Baba Farid's** compositions appear in the **Adi Granth**; the other three are not represented that way.
+
+</details>
+
+**Logic:** Nizamuddin Auliya belongs to Delhi — not Multan.
+
+**Q13b. UPPCS Pre 1994 / 2020**
+
+Which of the following saint–place pairs is **NOT** correctly matched?
+
+A. Moinuddin Chishti — Ajmer
+
+B. Nizamuddin Auliya — Delhi
+
+C. Nizamuddin Auliya — Multan
+
+D. Bahauddin Zakariya — Multan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Nizamuddin** is the **Delhi** Chishti saint; **Multan** belongs to **Bahauddin Zakariya** (Suhrawardi).
+
+</details>
+
+**Logic:** Match Chishti–Naqshbandi–Qadiri–Suhrawardi silsilahs to their exemplars.
+
+**Q14. UPPCS Mains 2013**
+
+Match List-I (Saint) with List-II (Sufi order):
+
+| List-I | List-II |
+|--------|---------|
+| A. Moinuddin | 1. Chishtiya |
+| B. Ahmad Sirhindi | 2. Naqshbandiya |
+| C. Dara Shukoh | 3. Qadiriya |
+| D. Shahabuddin | 4. Suhrawardiya |
+
+*Row order in the table is not the answer code.*
+
+A. 1 2 3 4
+
+B. 2 1 4 3
+
+C. 1 2 4 3
+
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (1-2-3-4).** Moinuddin–**Chishti**; Sirhindi–**Naqshbandi**; Dara–**Qadiri**; Shahabuddin–**Suhrawardi**.
+
+**Trap:** **Dara Shukoh** translated Upanishads but his **silsilah affiliation** is **Qadiri**, not Chishti.
 
 </details>
 
@@ -1208,24 +1398,66 @@ D. Sama
 
 </details>
 
-**Logic:** Prem Vatika = Raskhan; Barahmasa = Jayasi; Dewa Sharif = Waris Ali Shah.
+**Logic:** Prem Vatika is Raskhan's Krishna bhakti work.
 
 **Q18. IAS 1996 / BPSC 1994 / UPPCS 2008**
 
-Prem Vatika / Barahmasa / Dewa Sharif fair:
+**Prem Vatika** was written by:
 
-A. Raskhan / Jayasi / Barabanki
+A. Raskhan
 
-B. Surdas / Khusrau / Fatehpur Sikri
+B. Surdas
 
-C. Kabir / Imami / Kaliyar
+C. Kabir
 
-D. Bihari / Amir Khusrau / Garhmukteshwar
+D. Bihari Lal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** **Raskhan** (Krishna devotee poet) — not **Keshavdas**, who wrote **Rasik Priya**.
+
+</details>
+
+**Logic:** Barahmasa romantic epic = Malik Muhammad Jayasi.
+
+**Q18b. IAS 1996 / BPSC 1994 / UPPCS 2008**
+
+**Barahmasa** was written by:
+
+A. Malik Muhammad Jayasi
+
+B. Amir Khusrau
+
+C. Imam Bukhari
+
+D. Bihari Lal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Jayasi's** *Padmavat* tradition includes the **Barahmasa** genre of medieval Hindi literature.
+
+</details>
+
+**Logic:** Dewa Sharif fair in Barabanki honours Haji Waris Ali Shah.
+
+**Q18c. IAS 1996 / BPSC 1994 / UPPCS 2008**
+
+The **Dewa Sharif** fair is held at:
+
+A. Barabanki
+
+B. Fatehpur Sikri
+
+C. Kaliyar
+
+D. Garhmukteshwar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Dewa Sharif (Barabanki, UP)** — shrine of **Haji Waris Ali Shah**.
 
 </details>
 
@@ -1275,104 +1507,205 @@ D. Neither
 
 ### Other papers (Ghatnachakra Extra)
 
-**Logic:** Sufi practices — all three (IAS 2012).
+**Logic:** Sufi mystics used breath control, ascetic discipline, and sama — all three count.
 
 **Q-GC1. IAS (Pre) 2012**
 
-Sufi mystics pursued: meditation/breath; severe ascetic exercises; holy songs for ecstasy.
+Consider the following statements about Sufi mystics:
+
+1. They often pursued meditation and breath control.
+2. They undertook severe ascetic exercises.
+3. They used holy songs to induce spiritual ecstasy.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: All three (1, 2 and 3).**
+**Ans: D.** IAS keyed **all three** — Chishti **sama**, breath practices, and ascetic rigour all appear in Sufi manuals.
 
 </details>
 
-**Logic:** Only Nanak preaching when Lodis fell (IAS 2013).
+**Logic:** Only Guru Nanak was actively preaching when Ibrahim Lodi fell and Babur seized Delhi (1526).
 
 **Q-GC2. IAS (Pre) 2013**
 
-Dadu Dayal / Guru Nanak / Tyagaraja — who was preaching when Lodi fell and Babur took over?
+Who among the following was preaching when the Lodi dynasty fell and Babur established Mughal rule in India?
+
+A. Dadu Dayal
+
+B. Guru Nanak
+
+C. Tyagaraja
+
+D. All of the above
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Only Guru Nanak.**
+**Ans: B.** **Guru Nanak** (1469–1539) was alive through **1526**; **Tyagaraja** (18th c.) and **Dadu** (16th c. later phase) do not fit the 1526 moment.
 
 </details>
 
-**Logic:** Profession match — Namdev tailor, Kabir weaver, Ravidas cobbler, Sena barber.
+**Logic:** Bhakti saint–profession match — Namdev tailor, Kabir weaver, Ravidas cobbler, Sena barber.
 
 **Q-GC3. IAS (Pre) 2001**
 
-Match Namdev / Kabir / Ravidas / Sena with tailor / weaver / cobbler / barber.
+Match List-I (Saint) with List-II (Profession):
+
+| List-I | List-II |
+|--------|---------|
+| A. Namdev | 1. Weaver |
+| B. Kabir | 2. Cobbler |
+| C. Ravidas | 3. Barber |
+| D. Sena | 4. Tailor |
+
+*Row order in the table is not the answer code.*
+
+A. 4 1 2 3
+
+B. 4 1 3 2
+
+C. 1 4 2 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Namdev–tailor; Kabir–weaver; Ravidas–cobbler; Sena–barber.**
+**Ans: A (4-1-2-3).** Namdev–**tailor**; Kabir–**weaver**; Ravidas–**cobbler**; Sena–**barber**.
+
+**Trap:** **Ravidas** is the **cobbler-saint** of Banaras — do not assign him the weaver slot (Kabir).
 
 </details>
 
-**Logic:** Chisht name not from Ajmer village (IAS 1997).
+**A/R logic:** A tests Moinuddin's prominence; R tests Chishti name origin — village is in Afghanistan, not Ajmer.
 
 **Q-GC4. IAS (Pre) 1997**
 
-A: Moinuddin is the most prominent Chishti figure in India. R: Order takes name from a village Chishti in Ajmer.
+Assertion (A): Moinuddin Chishti is the most prominent Chishti figure in India.
+
+Reason (R): The Chishti order takes its name from a village called Chishti in Ajmer district.
+
+A. Both true, R explains A
+
+B. Both true, R does not explain A
+
+C. A true, R false
+
+D. A false, R true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A true, R false** — name from **Chisht in Afghanistan**.
+**Ans: C.** **A is true** — Moinuddin made Ajmer the great Indian Chishti centre. **R is false** — the order is named after **Chisht in Afghanistan**, not Ajmer.
 
 </details>
 
-**Logic:** Nimbarka ≠ Akbar contemporary; Kabir ≠ influenced by Sirhindi (IAS 2019).
+**Logic:** Nimbarka predates Akbar; Kabir died before Ahmad Sirhindi — neither statement holds.
 
 **Q-GC5. IAS (Pre) 2019**
 
-1. Nimbarka contemporary of Akbar 2. Kabir greatly influenced by Ahmad Sirhindi
+Consider the following statements:
+
+1. Nimbarka was a contemporary of Akbar.
+2. Kabir was greatly influenced by Ahmad Sirhindi.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Neither.**
+**Ans: D.** **Nimbarka** (13th c.) long predates **Akbar**; **Kabir** (15th c.) died before **Sirhindi** (1564–1624).
 
 </details>
 
-**Logic:** Firdausi silsila in Bihar (BPSC 2024).
+**Logic:** Firdausi silsila spread in Bihar under Yahya Maneri.
 
 **Q-GC6. BPSC Re-Exam 2024**
 
-Which Sufi Silsilah was founded/spread in Bihar?
+Which Sufi **silsilah** was founded and spread mainly in **Bihar**?
+
+A. Chishtiya
+
+B. Firdausiya
+
+C. Naqshbandiya
+
+D. Qadiriya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Firdousia / Firdausi** (Yahya Maneri).
+**Ans: B.** **Firdausiya / Firdausi** line of **Shaikh Sharfuddin Yahya Maneri** (Maner, Bihar).
 
 </details>
 
-**Logic:** Suhrawardi limited to Sindh–Multan–Punjab (Raj PCS 2023).
+**Logic:** Suhrawardi order stayed mainly in Sindh, Multan, and Punjab — not pan-India like Chishti.
 
 **Q-GC7. Rajasthan PCS 2023**
 
-Spread of which Sufi sect was mostly limited to Sindh, Multan and Punjab?
+Spread of which Sufi sect was mostly limited to **Sindh, Multan and Punjab**?
+
+A. Chishtiya
+
+B. Naqshbandiya
+
+C. Qadiriya
+
+D. Suhrawardiya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Suhrawardi.**
+**Ans: D.** **Suhrawardi** (Bahauddin Zakariya of Multan) accepted state patronage and stayed in the **north-west** belt.
 
 </details>
 
 ---
 
-## UKPCS — Bhakti & Sufi stems
+### UKPCS Complete PYQ Bank
 
-**Logic:** Chiragh-i-Delhi (already banked above for 2025).
+**Logic:** Chiragh-i-Delhi is Nasiruddin Mahmud — not Nizamuddin's own title.
 
-**Q-UK1. UKPCS Prelims 2016**
+**Q-UK1. UKPCS Prelims 2025, Q58**
+
+Who was popularly known as Chiragh-i-Delhi?
+
+A. Shaikh Nizamuddin
+
+B. Nasiruddin Mahmud
+
+C. Fariduddin Masud
+
+D. Qutbuddin Bakhtiyar Kaki
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (Series B provisional key).** **Nasiruddin Mahmud** succeeded Nizamuddin as head of the Delhi Chishti line. Nizamuddin is **Mahbub-i-Ilahi**; Farid is **Baba Farid**; Bakhtiyar Kaki is the Mehrauli saint.
+
+</details>
+
+**Logic:** Mahboob-i-Ilahi = Nizamuddin Auliya (UKPCS 2016).
+
+**Q-UK2. UKPCS Prelims 2016**
 
 Which of the following Sufi saints is known as Mahboob-i-Ilahi?
 
@@ -1387,13 +1720,13 @@ D. Shaikh Nasiruddin Chirag-i-Dehalivi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: B.** **Nizamuddin Auliya** of Delhi — disciple of **Baba Farid**; refused royal grants from **Alauddin Khalji**.
 
 </details>
 
-**Logic:** Amir Khusrau not Bhakti (UKPCS Mains 2006).
+**Logic:** Amir Khusrau was a court poet in the Chishti circle — not a Bhakti saint.
 
-**Q-UK2. UKPCS (Mains) 2006**
+**Q-UK3. UKPCS (Mains) 2006**
 
 Which of the following is not associated with the Bhakti Movement?
 
@@ -1408,19 +1741,19 @@ D. Amir Khusrau
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Court poet–musician in the Chishti circle.
+**Ans: D.** **Amir Khusrau** was **Nizamuddin Auliya's** disciple and a **Persian–Hindavi** court poet, not a Bhakti reformer.
 
 </details>
 
-**Logic:** Ramcharitmanas author (UK UDA 2007) covered in Q8 pattern.
+**Logic:** Rudrama Devi ruled the Kakatiya kingdom (provincial spill from Ghatnachakra).
 
-**Q-UK3. UKPCS Prelims 2021** (Rudrama is Kakatiya — provincial spill; keep if syllabus asks)
+**Q-UK4. UKPCS Prelims 2021**
 
-Female King Rudrama Devi belonged to:
+Female ruler **Rudrama Devi** belonged to which dynasty?
 
 A. Eastern Ganga
 
-B. Hoyasala
+B. Hoysala
 
 C. Kakatiya
 
@@ -1429,7 +1762,7 @@ D. Western Chalukya
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Teach under Deccan regional polities if revised with Topic 3; keyed here because Ghatnachakra placed it beside provincial PYQs.
+**Ans: C.** Fourth independent **Kakatiya** ruler; daughter of **Ganapati Deva**; capital **Warangal** — teach fully under Topic 3 (Regional Kingdoms).
 
 </details>
 
@@ -1437,7 +1770,7 @@ D. Western Chalukya
 
 ## Practice Zone — UPPCS Format Drill
 
-> **48 questions** · answers in `<details>`
+> **48 questions** · answers under Show answer
 
 **Q1.** Consider the Bhakti Movement:
 

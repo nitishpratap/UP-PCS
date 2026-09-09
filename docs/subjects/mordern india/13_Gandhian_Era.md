@@ -1076,187 +1076,675 @@ D. III, I, IV, II
 
 </details>
 
-### UKPCS Prelims 2025
+## Ghatnachakra Extra Drill — Gandhi: Life, South Africa and Ideology
 
-**Logic:** Congress leaders of 1938 — association with planning decides it.
+Teaching sits in **13.1A–13.3**.
 
-**Q. UKPCS Prelims 2025, Q74**
+**Logic:** Karamchand Gandhi was Diwan of Porbandar, Rajkot and Wankaner — not one state alone.
 
-Who was appointed the Chairman of the ‘National Planning Committee’ by the Indian National Congress in 1938?
+**Q1. UPPCS / MPPCS / BPSC**
 
-A. Sardar Vallabhbhai Patel
-B. Rajendra Prasad
-C. Jawaharlal Nehru
-D. J. B. Kripalani
+Karamchand Gandhi (Kaba Gandhi) was Diwan of:
+
+A. Porbandar only
+
+B. Rajkot only
+
+C. Porbandar, Rajkot and Wankaner
+
+D. Bhavnagar and Junagadh
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Series B provisional key).** Nehru chaired the National Planning Committee set up in 1938 during Subhas Chandra Bose’s Congress presidency. Patel / Prasad / Kripalani are the planted Congress distractors.
+**Ans: C.** Diwan of **Porbandar, Rajkot and Wankaner**.
+
+</details>
+
+**Logic:** South Africa paper = *Indian Opinion*; Phoenix Ashram near Durban.
+
+**Q2. UPPCS / BPSC**
+
+Which paper did Gandhi edit in South Africa?
+
+A. Young India
+
+B. Harijan
+
+C. Indian Opinion
+
+D. Navajivan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** ***Indian Opinion***. Phoenix Ashram stood near **Durban** — his oldest ashram experiment.
+
+</details>
+
+**Logic:** About 21 years in South Africa; return **1915**; political guru = Gokhale.
+
+**Q3. UPPCS / CGPCS**
+
+Gandhi returned to India from South Africa in:
+
+A. 1909
+
+B. 1915
+
+C. 1917
+
+D. 1919
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** About **21 years** in South Africa; return **1915**. Political guru = **Gokhale**.
+
+</details>
+
+**Logic:** *Unto This Last* (Ruskin) transformed him — good of the individual in the good of all.
+
+**Q4. IAS / UPPCS**
+
+Which book is most closely tied to transforming Gandhi’s outlook in South Africa?
+
+A. Civil Disobedience (Thoreau)
+
+B. Unto This Last (Ruskin)
+
+C. The Kingdom of God Is Within You (Tolstoy)
+
+D. Hind Swaraj (his own tract)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ruskin’s ***Unto This Last*** — the good of the individual is contained in the good of all. Influences also include **Thoreau** and **Tolstoy**.
+
+</details>
+
+**Logic:** Thrown off train at Pietermaritzburg; first INC session attended = Calcutta 1901.
+
+**Q5. UPPCS / IAS**
+
+At which railway station was Gandhi thrown out of a first-class compartment in South Africa?
+
+A. Durban
+
+B. Johannesburg
+
+C. Pietermaritzburg
+
+D. Pretoria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Pietermaritzburg**. First INC session he attended: **Calcutta 1901**.
 
 </details>
 
 ---
 
-
-## Ghatnachakra Extra Drill — Gandhi: Life, South Africa and Ideology
-
-Teaching sits in **13.1A–13.3**.
-
-**Logic:** Birth Porbandar 1869; Kaba Diwan of three states; Inner Temple; Natal Congress 1894; Indian Opinion; Phoenix oldest ashram; ~21 years SA; return 1915; Gokhale guru; philosophical anarchism / Ram Rajya truth–ahimsa; strike last / fast first; Unto This Last.
-
-**Q1. UPPCS / MPPCS / BPSC / CGPCS**
-
-Karamchand Gandhi was Diwan of which states / South Africa paper / Phoenix where / years in SA / return year / political guru / twin principles of Ram Rajya / last step in satyagraha strategy?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** Diwan of **Porbandar, Rajkot and Wankaner** (all). Paper ***Indian Opinion***. Phoenix near **Durban**. About **21 years**; return **1915**. Guru **Gokhale**. Ram Rajya = **truth and non-violence**. Last step often keyed **strike**; fasting is the early weapon.
-
-</details>
-
-**Logic:** Influences Ruskin/Thoreau/Tolstoy; Unto This Last message; means–ends; family planning = self-control; first Congress = Calcutta 1901; Pietermaritzburg throw-out; A true but R false on “militant” SA struggle.
-
-**Q2. IAS / UPPCS**
-
-Book that transformed Gandhi / message / secular influences / first INC session attended / station where thrown off train / SA struggle prepared him but was it “militant”?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** ***Unto This Last*** (Ruskin) — good of the individual in the good of all. Influences **Ruskin, Thoreau, Tolstoy**. First INC = **Calcutta 1901**. Station **Pietermaritzburg**. Assertion that SA prepared him is true; calling that struggle “militant” (violent) is **false** — it was satyagraha.
-
-</details>
-
 ## Ghatnachakra Extra Drill — Champaran, Kheda, Ahmedabad and Circle
 
 Teaching sits in **13.4–13.4A**.
 
-**Logic:** First Indian satyagraha = Champaran 1917 / tinkathia 3/20; Shukla invite; Tagore Mahatma; Batak Mian; Ahmedabad = mill workers + first hunger strike → ~35%; Kheda revenue; order Champaran → Ahmedabad → Kheda → Rowlatt; Bardoli ≠ Gandhi-led.
+**Logic:** First satyagraha in India = Champaran 1917; tinkathia = indigo on 3/20 of holding.
 
-**Q3. UPPCS / BPSC / IAS / UKPCS**
+**Q6. UPPCS / BPSC / IAS / UKPCS**
 
-First satyagraha in India / tinkathia meaning / who invited / who gave Mahatma title / first hunger strike where / industrial workers struggle / chronology of four early events / satyagraha Gandhi did NOT lead?
+Gandhi’s first satyagraha in India was launched at:
 
-<details>
-<summary>Show answer</summary>
+A. Kheda
 
-**Ans:** **Champaran 1917**. Tinkathia = indigo on **3/20** of holding. Invite = **Raj Kumar Shukla**. Mahatma title = **Tagore**. First hunger strike = **Ahmedabad mill strike 1918**. Industrial = **Ahmedabad**. Order **Champaran → Ahmedabad → Kheda → Rowlatt**. Not led by Gandhi = **Bardoli** (Patel).
+B. Ahmedabad
 
-</details>
+C. Champaran
 
-**Logic:** Father of Nation = Bose; Dinbandhu = Andrews; Jamnalal = treasurer / Flag Satyagraha; Pyarelal = Noakhali secretary; not Congress member at Independence; Yerawada = Mandir; Nehru light quote; one-man boundary force = Mountbatten.
-
-**Q4. UPPCS / BPSC / IAS**
-
-Who first said Father of Nation / Dinbandhu / Congress treasurer capitalist associate / Noakhali secretary / Congress membership at Independence / jail named Mandir / “light has gone out” speaker / one-man boundary force?
+D. Bardoli
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Subhas Chandra Bose**. **C.F. Andrews**. **Jamnalal Bajaj**. **Pyarelal**. **Not a Congress member** (resigned 1934). **Yerawada**. **Jawaharlal Nehru**. **Mountbatten**.
+**Ans: C.** **Champaran, 1917**. *Tinkathia* = indigo on **3/20** of the holding. Invite = **Raj Kumar Shukla**.
 
 </details>
 
-**Logic:** Champaran not all-India (Rowlatt is first all-India); JP/Lohia not Champaran colleagues; N.G. Ranga opposed; Swadeshi 1905 not Gandhi-led (he was in SA).
+**Logic:** Mahatma title = Tagore (not Nehru / Annie Besant in standard keys).
 
-**Q5. UPPCS / BPSC**
+**Q7. UPPCS / BPSC**
 
-Is Champaran all-India? Who is NOT a Champaran colleague? Who opposed Champaran? Which movement is NOT related to Gandhi?
+Who gave Gandhi the title ‘Mahatma’?
+
+A. Jawaharlal Nehru
+
+B. Rabindranath Tagore
+
+C. Annie Besant
+
+D. C.F. Andrews
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Champaran is **local**, not all-India. Not colleagues = **Jai Prakash Narayan / Ram Manohar Lohia** (common keys). Opposed = **N.G. Ranga**. Not Gandhi’s = **Swadeshi Movement (1905)** while he was in South Africa.
+**Ans: B.** **Rabindranath Tagore**.
 
 </details>
 
+**Logic:** First hunger strike = Ahmedabad mill strike 1918; industrial workers struggle = Ahmedabad.
 
+**Q8. UPPCS / IAS**
+
+Gandhi’s first hunger strike in India is linked to:
+
+A. Champaran
+
+B. Kheda
+
+C. Ahmedabad mill strike
+
+D. Rowlatt Satyagraha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ahmedabad mill strike, 1918** (~35% wage demand stream). Early order: **Champaran → Ahmedabad → Kheda → Rowlatt**.
+
+</details>
+
+**Logic:** Bardoli was led by Patel — not Gandhi.
+
+**Q9. UPPCS / BPSC**
+
+Which of the following satyagrahas was NOT led by Mahatma Gandhi?
+
+A. Champaran
+
+B. Kheda
+
+C. Ahmedabad mill strike
+
+D. Bardoli
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Bardoli** was led by **Vallabhbhai Patel**.
+
+</details>
+
+**Logic:** Father of the Nation phrase first keyed to Subhas Bose; Dinabandhu = C.F. Andrews.
+
+**Q10. UPPCS / BPSC / IAS**
+
+Who first called Gandhi the ‘Father of the Nation’?
+
+A. Jawaharlal Nehru
+
+B. Subhas Chandra Bose
+
+C. Rabindranath Tagore
+
+D. Vallabhbhai Patel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Subhas Chandra Bose**. **C.F. Andrews** = Dinabandhu. **Jamnalal Bajaj** = Congress treasurer / Flag Satyagraha associate.
+
+</details>
+
+**Logic:** Champaran is local — first all-India Gandhi venture = Rowlatt Satyagraha.
+
+**Q11. UPPCS / BPSC**
+
+Which of the following is correct about Champaran Satyagraha?
+
+A. It was Gandhi’s first all-India mass movement
+
+B. It was a local satyagraha confined mainly to indigo grievances
+
+C. It was led jointly by Gandhi and Jai Prakash Narayan
+
+D. It began after the Rowlatt Act
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Champaran is **local**. First all-India = **Rowlatt Satyagraha**. JP / Lohia are common false “colleague” traps. Swadeshi **1905** is not Gandhi-led (he was in South Africa).
+
+</details>
+
+---
 
 ## Ghatnachakra Extra Drill — Rowlatt, Jallianwala, Khilafat
 
 Teaching sits in **13.5–13.8**.
 
-**Logic:** Rowlatt 1919 = detention without trial / No Vakil No Appeal; Chelmsford; first all-India Gandhi venture; Jallianwala 13 Apr 1919 after Kitchlew–Satyapal arrests; Tagore knighthood; Sankaran Nair quit Executive Council; Hunter Committee; Udham–O’Dwyer; Montagu “Preventive Murder”.
+**Logic:** Rowlatt 1919 = detention without trial; Viceroy Chelmsford; first all-India Gandhi venture.
 
-**Q1. UPPCS / IAS / BPSC**
+**Q12. UPPCS / IAS / BPSC**
 
-Rowlatt year–aim–Viceroy / first all-India Gandhi venture / Jallianwala date / who returned knighthood / who quit Viceroy’s Council / who killed O’Dwyer?
+The Rowlatt Act (1919) is best remembered for allowing:
 
-<details>
-<summary>Show answer</summary>
+A. Dyarchy in provinces
 
-**Ans:** **1919**, detention without trial, **Chelmsford**. First all-India = **Rowlatt Satyagraha**. Jallianwala **13 April 1919**. Knighthood = **Tagore**. Council resignation = **Sankaran Nair**. O’Dwyer = **Udham Singh (1940)**.
+B. Detention without trial
 
-</details>
+C. Separate electorates for Muslims
 
-**Logic:** Khilafat leaders Ali brothers; Gandhi Delhi Khilafat President Nov 1919; golden opportunity unity; Jinnah opposed; Ajmal Khan Haziq-ul-Mulk; Malaviya did not support.
-
-**Q2. UPPCS / BPSC**
-
-Main Khilafat starters / Gandhi’s role Nov 1919 / why Gandhi supported / who denounced participation / who renounced Haziq-ul-Mulk?
+D. Permanent Settlement extension
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Shaukat Ali and Muhammad Ali** (with Azad, Ajmal Khan, Hasrat Mohani). Gandhi = Khilafat Conference President (**Delhi 1919**). Support = Hindu–Muslim unity / anti-British front. Opposed mixing = **Jinnah**. Title renounced = **Hakim Ajmal Khan**.
+**Ans: B.** Detention without trial (“No Vakil, No Appeal, No Dalil”) under **Chelmsford**. First all-India Gandhi venture = **Rowlatt Satyagraha**.
 
 </details>
+
+**Logic:** Jallianwala 13 April 1919; Tagore returned knighthood; Sankaran Nair quit Council; Udham Singh killed O’Dwyer (1940).
+
+**Q13. UPPCS / IAS / BPSC**
+
+Who returned the knighthood after the Jallianwala Bagh massacre?
+
+A. Motilal Nehru
+
+B. Rabindranath Tagore
+
+C. Tej Bahadur Sapru
+
+D. Madan Mohan Malaviya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Massacre **13 April 1919**. **Sankaran Nair** resigned from the Viceroy’s Executive Council. **Udham Singh** killed **O’Dwyer** in **1940**.
+
+</details>
+
+**Logic:** Khilafat starters = Ali brothers; Gandhi Delhi Khilafat Conference President Nov 1919; Jinnah opposed mixing.
+
+**Q14. UPPCS / BPSC**
+
+Who among the following denounced Gandhi’s participation in the Khilafat movement?
+
+A. Abul Kalam Azad
+
+B. Hakim Ajmal Khan
+
+C. Muhammad Ali Jinnah
+
+D. Hasrat Mohani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Jinnah** opposed the mix. Main Khilafat stream: **Shaukat Ali and Muhammad Ali**. Gandhi chaired the Delhi Khilafat Conference (**Nov 1919**). **Hakim Ajmal Khan** renounced the title *Haziq-ul-Mulk*.
+
+</details>
+
+---
 
 ## Ghatnachakra Extra Drill — Non-Cooperation, Swaraj Party, Simon–Nehru
 
 Teaching sits in **13.7, 13.9–13.11**.
 
-**Logic:** NCM 1 Aug 1920; Nagpur resolution moved by C.R. Das; Chauri Chaura → Bardoli withdrawal; Moonje censure; Tagore “ruthless waste”; Kaiser-i-Hind returned; Swaraj Party Das–Motilal Jan 1923; Deshbandhu; Vithalbhai Assembly President; Simon all-white 1927/arrival 1928; Nehru Report dominion; Independence League Nehru–Bose.
+**Logic:** Nagpur NCM resolution moved by C.R. Das; withdrawal after Chauri Chaura.
 
-**Q3. UPPCS / BPSC / IAS**
+**Q15. UPPCS / BPSC / IAS**
 
-Who moved Nagpur NCM resolution / why NCM withdrawn / who censured withdrawal / who called cloth-burning ruthless waste / Swaraj Party founders / first Indian Central Assembly President / why Simon boycotted / Independence for India League founders?
+Who moved the Non-Cooperation resolution at the Nagpur session of Congress?
+
+A. Mahatma Gandhi
+
+B. C.R. Das
+
+C. Motilal Nehru
+
+D. Lala Lajpat Rai
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Nagpur mover **C.R. Das**. Withdrawal after **Chauri Chaura**. Censure = **Dr Moonje**. Ruthless waste = **Tagore**. Swaraj Party = **C.R. Das and Motilal Nehru**. Assembly President = **Vithalbhai Patel**. Simon boycott = **no Indian member**. Independence League = **Jawaharlal Nehru and Subhas Bose**.
+**Ans: B.** **C.R. Das** at Nagpur. NCM withdrawn after **Chauri Chaura**. **Dr Moonje** censured the withdrawal. Tagore called cloth-burning a **ruthless waste**.
 
 </details>
 
+**Logic:** Swaraj Party = C.R. Das and Motilal Nehru (Jan 1923).
 
+**Q16. UPPCS / IAS**
+
+The Swaraj Party was founded by:
+
+A. Gandhi and Nehru
+
+B. C.R. Das and Motilal Nehru
+
+C. Tilak and Besant
+
+D. Bose and Patel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **C.R. Das** (Deshbandhu) and **Motilal Nehru**. First Indian President of the Central Legislative Assembly often keyed: **Vithalbhai Patel**.
+
+</details>
+
+**Logic:** Simon Commission boycott — all-white / no Indian member.
+
+**Q17. UPPCS / BPSC**
+
+The Simon Commission was boycotted mainly because:
+
+A. It recommended dyarchy
+
+B. It had no Indian member
+
+C. It supported Partition
+
+D. It cancelled the Rowlatt Act
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All-British commission (**1927** announce / **1928** arrival). Independence for India League: **Jawaharlal Nehru and Subhas Bose**.
+
+</details>
+
+---
 
 ## Ghatnachakra Extra Drill — Lahore, Purna Swaraj and Civil Disobedience
 
 Teaching sits in **13.12–13.14**.
 
-**Logic:** Hasrat Mohani Ahmedabad 1921 complete-independence definition; Lahore 1929 Nehru + Purna Swaraj; flag Ravi 31 Dec 1929; 26 Jan 1930 Purna Swaraj Day; Dandi 12 Mar–6 Apr 1930; Abbas Tyabji / Sarojini / Webb Miller; Khudai Khidmatgar; Garhwali; Gaidinliu.
+**Logic:** Complete independence definition at Ahmedabad 1921 = Hasrat Mohani.
 
-**Q1. IAS / UPPCS / BPSC / UKPCS**
+**Q18. IAS / UPPCS / BPSC / UKPCS**
 
-Who proposed complete independence at Ahmedabad 1921 / Lahore President / who hoisted flag midnight 31 Dec 1929 / what was 26 Jan called before 1947 / Dandi start–break dates / who led after Gandhi’s arrest / Dharasana reporter / Red Shirts founder / Peshawar refuse-to-fire name?
+Who proposed the idea of complete independence at the Ahmedabad Congress session of 1921?
+
+A. Jawaharlal Nehru
+
+B. Subhas Chandra Bose
+
+C. Hasrat Mohani
+
+D. C.R. Das
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Hasrat Mohani**. Lahore President **Jawaharlal Nehru**. Flag = **Nehru** (Ravi). **Purna Swaraj Day**. March **12 Mar → 6 Apr 1930**. After arrest **Abbas Tyabji** then **Sarojini Naidu**. Reporter **Webb Miller**. Red Shirts **Abdul Ghaffar Khan**. **Chandra Singh Garhwali**.
+**Ans: C.** **Hasrat Mohani** (Ahmedabad **1921**). Lahore **1929** President = **Jawaharlal Nehru** (Purna Swaraj).
 
 </details>
+
+**Logic:** Flag on Ravi bank midnight 31 Dec 1929 = Nehru; 26 Jan 1930 = Purna Swaraj Day.
+
+**Q19. UPPCS / IAS**
+
+Who hoisted the tricolour on the banks of the Ravi at midnight on 31 December 1929?
+
+A. Mahatma Gandhi
+
+B. Jawaharlal Nehru
+
+C. Subhas Chandra Bose
+
+D. Sardar Patel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Nehru** at Lahore. **26 January 1930** was observed as **Purna Swaraj Day** before Independence.
+
+</details>
+
+**Logic:** Dandi 12 Mar → 6 Apr 1930; after arrest Abbas Tyabji then Sarojini; Webb Miller at Dharasana.
+
+**Q20. UPPCS / BPSC**
+
+The Dandi March began on:
+
+A. 26 January 1930
+
+B. 12 March 1930
+
+C. 6 April 1930
+
+D. 5 March 1931
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **12 March → 6 April 1930** (salt law broken). After Gandhi’s arrest: **Abbas Tyabji**, then **Sarojini Naidu**. Dharasana reporter: **Webb Miller**.
+
+</details>
+
+**Logic:** Red Shirts = Abdul Ghaffar Khan; Peshawar refuse-to-fire = Chandra Singh Garhwali.
+
+**Q21. UPPCS / UKPCS**
+
+Who founded the Khudai Khidmatgar (Red Shirt) movement?
+
+A. Khan Abdul Ghaffar Khan
+
+B. Maulana Azad
+
+C. Hasrat Mohani
+
+D. Muhammad Ali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Abdul Ghaffar Khan**. At Peshawar, **Chandra Singh Garhwali** is remembered for refusing to fire on satyagrahis.
+
+</details>
+
+---
 
 ## Ghatnachakra Extra Drill — Gandhi–Irwin, Karachi, RTC, Poona Pact
 
 Teaching sits in **13.15–13.17**.
 
-**Logic:** Pact 5 Mar 1931; Sapru–Jayakar mediators; Two Mahatmas; consolation prizes; Karachi Patel + FR/NEP (Nehru–Roy); Gandhi only 2nd RTC; Kingsley Hall / Rajputana; Ambedkar all three RTCs; Award 16 Aug 1932; Poona 24 Sep; Harijan Sevak / Birla.
+**Logic:** Gandhi–Irwin Pact = 5 March 1931; mediators Sapru and Jayakar; “Two Mahatmas” = Sarojini Naidu.
 
-**Q2. UPPCS / IAS / BPSC**
+**Q22. UPPCS / IAS / BPSC**
 
-Gandhi–Irwin date / mediators / who said Two Mahatmas / Karachi President / who drafted FR resolution / which RTC Gandhi attended / where Gandhi stayed in London / who attended all three RTCs / Award announcer–date / Poona seats memory / Harijan Sevak first President?
+The Gandhi–Irwin Pact was signed on:
+
+A. 26 January 1930
+
+B. 5 March 1931
+
+C. 16 August 1932
+
+D. 24 September 1932
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **5 March 1931**. Mediators **Sapru and Jayakar**. **Sarojini Naidu**. Karachi **Vallabhbhai Patel**. FR draft **Nehru** (with **M.N. Roy**). Gandhi = **2nd RTC only**. Stay **Kingsley Hall** (ship **S.S. Rajputana**). All three often **Ambedkar** (+ Sapru). Award **MacDonald, 16 Aug 1932**. Seats ~**71→148**. Harijan Sevak President **G.D. Birla**.
+**Ans: B.** **5 March 1931**. Mediators: **Tej Bahadur Sapru** and **M.R. Jayakar**. “Two Mahatmas” phrase: **Sarojini Naidu**.
 
 </details>
 
+**Logic:** Karachi 1931 President = Patel; FR resolution draft Nehru (with M.N. Roy stream).
+
+**Q23. UPPCS / BPSC**
+
+Who was the President of the Karachi session of Congress (1931)?
+
+A. Jawaharlal Nehru
+
+B. Vallabhbhai Patel
+
+C. Abul Kalam Azad
+
+D. Rajendra Prasad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Vallabhbhai Patel**. Fundamental Rights / NEP resolution draft stream: **Nehru** (with **M.N. Roy** association in keys).
+
+</details>
+
+**Logic:** Gandhi attended only the Second RTC; stayed at Kingsley Hall; ship S.S. Rajputana.
+
+**Q24. UPPCS / IAS**
+
+Gandhi attended which Round Table Conference(s)?
+
+A. First only
+
+B. Second only
+
+C. First and Second
+
+D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Second RTC only**. London stay: **Kingsley Hall** (ship **S.S. Rajputana**). **Ambedkar** (and often **Sapru**) attended all three.
+
+</details>
+
+**Logic:** Communal Award MacDonald 16 Aug 1932; Poona Pact seats ~71→148; Harijan Sevak first President G.D. Birla.
+
+**Q25. UPPCS / BPSC**
+
+The Communal Award was announced by Ramsay MacDonald on:
+
+A. 5 March 1931
+
+B. 16 August 1932
+
+C. 24 September 1932
+
+D. 26 January 1930
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **16 August 1932**. Poona Pact followed (**24 September 1932**); reserved seats memory often **~71 → 148**. Harijan Sevak Sangh first President: **G.D. Birla**.
+
+</details>
+
+---
+
+### UKPCS Complete PYQ Bank (Gandhian Era)
+
+**Logic:** National Planning Committee 1938 — Nehru as Chairman under Bose’s Congress presidency.
+
+**Q1. UKPCS Prelims 2025, Q74**
+
+Who was appointed the Chairman of the ‘National Planning Committee’ by the Indian National Congress in 1938?
+
+A. Sardar Vallabhbhai Patel
+
+B. Rajendra Prasad
+
+C. Jawaharlal Nehru
+
+D. J. B. Kripalani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Series B provisional key).** Nehru chaired the Committee set up in **1938** during **Subhas Chandra Bose’s** Congress presidency.
+
+</details>
+
+**Logic:** First satyagraha in India = Champaran (UKPCS-tagged Extra cluster).
+
+**Q2. UKPCS / UPPCS**
+
+Gandhi’s first satyagraha in India was launched at:
+
+A. Kheda
+
+B. Ahmedabad
+
+C. Champaran
+
+D. Bardoli
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Champaran, 1917**.
+
+</details>
+
+**Logic:** Complete independence proposal Ahmedabad 1921 = Hasrat Mohani.
+
+**Q3. UKPCS / IAS / UPPCS**
+
+Who proposed complete independence at the Ahmedabad Congress session of 1921?
+
+A. Jawaharlal Nehru
+
+B. Subhas Chandra Bose
+
+C. Hasrat Mohani
+
+D. C.R. Das
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Hasrat Mohani**.
+
+</details>
+
+**Logic:** Red Shirts / Khudai Khidmatgar = Abdul Ghaffar Khan.
+
+**Q4. UKPCS / UPPCS**
+
+Who founded the Khudai Khidmatgar movement?
+
+A. Khan Abdul Ghaffar Khan
+
+B. Maulana Azad
+
+C. Hasrat Mohani
+
+D. Muhammad Ali
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Abdul Ghaffar Khan** (Frontier Gandhi).
+
+</details>
+
+**Logic:** Anasakti Yoga English rendering at Kausani (Uttarakhand), 1929 — UKPCS place-fact.
+
+**Q5. UKPCS (Pre) 2021**
+
+In 1929, at which place did Mahatma Gandhi complete his translation of Anasakti Yoga?
+
+A. Kausani
+
+B. Almora
+
+C. Nainital
+
+D. Ranikhet
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Kausani** (Uttarakhand). Full book-author home also in Topic **10**.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

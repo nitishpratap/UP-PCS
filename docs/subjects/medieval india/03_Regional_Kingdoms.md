@@ -846,24 +846,24 @@ D. Sikandar Lodi
 
 </details>
 
-**Logic:** Shiraz of East = Jaunpur.
+**Logic:** Shiraz of East = Jaunpur under Ibrahim Shah Sharqi.
 
 **Q3. UPPCS Prelims 2001 / Lower 2004 / Mains 2005**
 
-Which one of the following places was known as ‘Shiraz of East’ / “Shiraz of India” during Sharqi rule?
+Which one of the following places was known as ‘Shiraz of East’ (also Siraj-i-Hind) during Sharqi rule?
 
 A. Agra
 
-B. Delhi / Allahabad
+B. Delhi
 
 C. Jaunpur
 
-D. Varanasi / Lucknow
+D. Varanasi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Under **Ibrahim Shah Sharqi** — also **Siraj-i-Hind**.
+**Ans: C.** Under **Ibrahim Shah Sharqi** — also **Siraj-i-Hind** / Shiraz of India.
 
 </details>
 
@@ -953,24 +953,45 @@ D. Malik Sarwar Khwaja Jahan – Malwa
 
 </details>
 
-**Logic:** Bahmani year = 1347.
+**Logic:** Bahmani founding year = 1347.
 
 **Q8. UPPCS Mains 2005 / Prelims 2016**
 
-The Bahmani Kingdom was founded in the year / century:
+The Bahmani Kingdom was founded in the year:
 
-A. 1336 / 15th century
+A. 1336
 
-B. 1338 / 13th century
+B. 1338
 
-C. 1347 / 14th century
+C. 1347
 
-D. 1361 / 16th century
+D. 1361
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: 1347 (14th century).** Founder **Alauddin Hasan Bahman Shah / Hasan Gangu**.
+**Ans: C.** **1347** at **Gulbarga**; founder **Alauddin Hasan Bahman Shah (Hasan Gangu)**.
+
+</details>
+
+**Logic:** 1347 falls in the 14th century — not 15th or 13th.
+
+**Q8b. UPPCS Mains 2005 / Prelims 2016 (century stem)**
+
+The Bahmani Kingdom was founded in which century?
+
+A. 13th century
+
+B. 14th century
+
+C. 15th century
+
+D. 16th century
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **1347** = **14th century**.
 
 </details>
 
@@ -1062,24 +1083,24 @@ D. Akbar
 
 </details>
 
-**Logic:** Bahmani founder = Alauddin Hasan / Hasan Gangu.
+**Logic:** Bahmani founder = Alauddin Hasan Bahman Shah (Hasan Gangu), 1347.
 
 **Q-GC3. UKPCS Prelims 2002 / BPSC / UPPCS 1995**
 
-Bahmani State was established by / founder:
+Bahmani State was established by:
 
-A. Alauddin Hasan / Hasan Gangu
+A. Alauddin Hasan Bahman Shah (Hasan Gangu)
 
-B. Ali Abid Shah / Firuz Shah
+B. Ali Adil Shah
 
 C. Hussain Nizam Shah
 
-D. Mujahid Shah / Sikandar Shah
+D. Mujahid Shah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Alauddin Hasan Bahman Shah (Hasan Gangu), 1347; capital Gulbarga (Ahsanabad).**
+**Ans: A.** **1347**; first capital **Gulbarga (Ahsanabad)**.
 
 </details>
 
@@ -1104,16 +1125,35 @@ D. Hussainabad
 
 </details>
 
-**Logic:** Match Adil–Bijapur, Qutb–Golconda, Nizam–Ahmadnagar, Sharqi–Jaunpur.
+**Logic:** Deccan dynasty–capital match — Adil Shahi Bijapur, Qutb Shahi Golconda, Nizam Shahi Ahmadnagar, Sharqi Jaunpur.
 
 **Q-GC5. UKPCS Prelims 2003 / UP Lower 2002**
 
-Match: Adil Shahi, Qutb Shahi, Nizam Shahi, Sharqi with Ahmednagar, Bijapur, Golconda, Jaunpur.
+Match List-I (Dynasty) with List-II (Centre):
+
+| List-I | List-II |
+|--------|---------|
+| A. Adil Shahi | 1. Ahmadnagar |
+| B. Qutb Shahi | 2. Bijapur |
+| C. Nizam Shahi | 3. Golconda |
+| D. Sharqi | 4. Jaunpur |
+
+*Row order in the table is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 4 1
+
+C. 1 2 3 4
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Adil–Bijapur; Qutb–Golconda; Nizam–Ahmadnagar; Sharqi–Jaunpur** (code often **2-3-1-4** when lists ordered that way).
+**Ans: A (2-3-1-4).** Adil Shahi–**Bijapur**; Qutb Shahi–**Golconda**; Nizam Shahi–**Ahmadnagar**; Sharqi–**Jaunpur**.
+
+**Trap:** **Yusuf Adil Shah** founded **Bijapur**, not Ahmadnagar — swap Adil with Nizam if unsure.
 
 </details>
 
@@ -1204,44 +1244,105 @@ D. Akbar
 ---
 
 
-**Logic:** Hoysala capital Dwarasamudra = Halebid; monuments at Halebid and Belur.
+**Logic:** Hoysala temple art cluster = Halebid and Belur.
 
 **Q-GC10. IAS 2001 / UPPCS Mains 2003 / RO 2014**
 
-Hoysala monuments / modern name of Dwarasamudra:
+Hoysala monuments are chiefly located at:
 
-A. Hampi and Hospet / Belur
+A. Hampi and Hospet
 
-B. Halebid and Belur / Halebid
+B. Halebid and Belur
 
-C. Mysore and Bangalore / Sringeri
+C. Mysore and Bangalore
 
-D. Sringeri and Dharwar / Somnathpur
+D. Sringeri and Dharwar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Capital **Dwarasamudra** = modern **Halebidu**; temples at **Halebid** and **Belur**.
+**Ans: B.** Famous **Hoysala** temples at **Halebid** and **Belur**; **Somnathpur** is another Hoysala site.
 
 </details>
 
-**Logic:** Kakatiya capital Warangal; Rudrama Devi = Kakatiya.
+**Logic:** Hoysala capital Dwarasamudra = modern Halebidu.
 
-**Q-GC11. UPPCS Pre 2019 / UKPCS 2021 / UP RO 2023**
+**Q-GC10b. IAS 2001 / UPPCS Mains 2003 / RO 2014**
 
-Match Pallava–Pandya–Yadava–Kakatiya with Kanchi–Madura–Devagiri–Warangal; Rudrama Devi dynasty.
+The modern name of the Hoysala capital **Dwarasamudra** is:
+
+A. Belur
+
+B. Halebid
+
+C. Sringeri
+
+D. Somnathpur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Pallava–Kanchi; Pandya–Madura; Yadava–Devagiri; Kakatiya–Warangal. **Rudrama Devi** = **Kakatiya** (fourth independent ruler; daughter of Ganapati).
+**Ans: B.** **Dwarasamudra** = **Halebidu (Halebid)**.
+
+</details>
+
+**Logic:** South dynasty–capital match — Pallava Kanchi, Pandya Madura, Yadava Devagiri, Kakatiya Warangal.
+
+**Q-GC11. UPPCS Pre 2019 / UKPCS 2021 / UP RO 2023**
+
+Match List-I (Dynasty) with List-II (Capital):
+
+| List-I | List-II |
+|--------|---------|
+| A. Pallava | 1. Devagiri |
+| B. Pandya | 2. Kanchi |
+| C. Yadava | 3. Madura |
+| D. Kakatiya | 4. Warangal |
+
+*Row order in the table is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 4 1
+
+C. 1 2 3 4
+
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (2-3-1-4).** Pallava–**Kanchi**; Pandya–**Madura**; Yadava–**Devagiri**; Kakatiya–**Warangal**.
+
+**Trap:** **Warangal** is **Kakatiya**, not Yadava — Devagiri belongs to the **Yadava** line.
+
+</details>
+
+**Logic:** Rudrama Devi ruled the Kakatiya kingdom of Warangal.
+
+**Q-GC11b. UKPCS Prelims 2021 / UP RO 2023**
+
+Female ruler **Rudrama Devi** belonged to which dynasty?
+
+A. Eastern Ganga
+
+B. Hoysala
+
+C. Kakatiya
+
+D. Western Chalukya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Fourth independent **Kakatiya** ruler; daughter of **Ganapati Deva**; capital **Warangal**.
 
 </details>
 
 
 ---
 
-## UKPCS — Provincial / Deccan stems
+### UKPCS Complete PYQ Bank
 
 **Logic:** Bahmani founder (UKPCS 2002).
 
@@ -1260,7 +1361,7 @@ D. Mujahid Shah
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** **1347**, Gulbarga.
+**Ans: A.** **Alauddin Hasan Bahman Shah (Hasan Gangu)**, **1347**, capital **Gulbarga**.
 
 </details>
 
@@ -1268,12 +1369,29 @@ D. Mujahid Shah
 
 **Q-UK2. UKPCS Prelims 2003**
 
-Match Adil Shahi / Qutb Shahi / Nizam Shahi / Sharqi Shahi with Ahmednagar / Bijapur / Golconda / Jaunpur.
+Match List-I (Dynasty) with List-II (Centre):
+
+| List-I | List-II |
+|--------|---------|
+| A. Adil Shahi | 1. Ahmadnagar |
+| B. Qutb Shahi | 2. Bijapur |
+| C. Nizam Shahi | 3. Golconda |
+| D. Sharqi Shahi | 4. Jaunpur |
+
+*Row order in the table is not the answer code.*
+
+A. 2 3 1 4
+
+B. 3 2 4 1
+
+C. 1 2 3 4
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Adil–Bijapur; Qutb–Golconda; Nizam–Ahmadnagar; Sharqi–Jaunpur.**
+**Ans: A (2-3-1-4).** Adil–**Bijapur**; Qutb–**Golconda**; Nizam–**Ahmadnagar**; Sharqi–**Jaunpur**.
 
 </details>
 
@@ -1294,7 +1412,7 @@ D. Akbar
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** **Zain-ul-Abidin (Bud Shah)** of Kashmir — also called **Akbar of Kashmir**.
 
 </details>
 
@@ -1302,7 +1420,7 @@ D. Akbar
 
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions** · answers in `<details>`
+> **45 questions** · answers under Show answer
 
 **Q1.** Which statement(s) about Sharqi Sultanate is/are correct?
 

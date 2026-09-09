@@ -1141,7 +1141,7 @@ D. A-2, B-3, C-4, D-1
 
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions** · answers in `<details>` · mix: multi-statement, A/R, Match-List, chronology, NOT-matched.
+> **45 questions** · answers under Show answer · mix: multi-statement, A/R, Match-List, chronology, NOT-matched.
 
 **Q1.** With reference to Early Medieval India, which statement(s) is/are correct?
 
@@ -1590,6 +1590,8 @@ D. 2 1 3 4
 **Trap:** Parking **Kalinjar** at Kannauj or **Mahoba** at Ayodhya — UP medieval city-name facts.
 
 
+
+</details>
 **Q23.** Which of the following statement(s) is/are correct about Rashtrakutas?
 
 1. Dantidurga founded the dynasty after overthrowing Early Chalukyas.
@@ -1728,6 +1730,8 @@ D. All three
 **Trap:** Swapping **Rajaraja** (Maldives) and **Rajendra** (Kadaram **1025**).
 
 
+
+</details>
 **Q31.** Which of the following statement(s) is/are correct?
 
 1. Ballal Sen compiled Danasagara.
@@ -1893,6 +1897,8 @@ D. None
 **Trap:** Swapping foreign labels across the three dynasties.
 
 
+
+</details>
 **Q40.** Which of the following statement(s) is/are correct?
 
 1. Early Medieval India is another name for the Delhi Sultanate starting 1206.
@@ -1936,6 +1942,8 @@ D. None
 **Trap:** Rajasekhara at **Paramara Bhoja** — he served **Pratihara Mahipala**.
 
 
+
+</details>
 **Q43.** Which pair is NOT correctly matched?
 
 1. Chandrobalabbe — Raichur doab administration
@@ -1997,6 +2005,7 @@ D. 1-3-2
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** 7th-c. Chalukya peak → Takkolam **949** → Rajendra Ganga ~**1022**.
 
 **Ans: A (1-2-3).** Pulakeshin II (7th) → Takkolam **949** → Rajendra Ganga expedition (~**1022**).
@@ -2016,6 +2025,7 @@ D. Parantaka
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Founder vs peak rulers vs Maduraikonda title-holder.
 
 **Ans: C.** **Vijayalaya** took Thanjavur ~**850** and founded the imperial line.
@@ -2034,6 +2044,7 @@ C. Thotta Variyam
 D. Samvatsara Variyam
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Named Variyam boards from Uttaramerur-type local government.
 
@@ -2062,6 +2073,7 @@ D. 1 and 3 only
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Classic IAS-style term pairs; Taniyur is the usual wrong description.
 
 **Ans: D.** **Eripatti** and **Ghatika** are correct. **Taniyur** is a **very large village administered as a single unit**, not a Brahmadeya gift.
@@ -2080,6 +2092,7 @@ C. Chola and Hoysala
 D. Chola and Pandya
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Cause–course of Chola setback under Parantaka I.
 
@@ -2104,6 +2117,7 @@ D. 1, 2 and 3
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Capital, nickname, and lake — all Rajendra, not Rajaraja.
 
 **Ans: D.** All three are correct.
@@ -2122,6 +2136,7 @@ C. Rajaraja I
 D. Rajadhiraja I
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** China mission year **1077** under later Chola consolidation.
 
@@ -2142,6 +2157,7 @@ D. Two hands
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Iconographic hand-count of the classic Chola bronze.
 
 **Ans: C.** Classic Chola **Nataraja** bronzes have **four** hands.
@@ -2160,6 +2176,7 @@ C. Reclining
 D. Meditating
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Dakshinamurti vs Nataraja confusion.
 
@@ -2185,6 +2202,7 @@ D. 3, 2, 1, 4
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Mahendra → Mamalla → Parameshvara → Nandivarman II.
 
 **Ans: A.** Mahendravarman I → Narasimhavarman I → Parameshvaravarman I → Nandivarman II.
@@ -2208,6 +2226,7 @@ D. 1, 2 and 3
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Chalukya women admins, Ravikirti’s Aihole claim, Kadamba seat.
 
 **Ans: D.** All three are correct. Ravikirti compares himself to **Kalidasa** and **Bharavi**.
@@ -2226,6 +2245,7 @@ C. Machilipatnam
 D. Nelluru
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Kakatiya overseas door vs later Andhra ports.
 
@@ -2246,6 +2266,7 @@ D. Chola — Thanjavur
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Chera capital identity.
 
 **Ans: C.** Chera capital is **Vanchi / Karuvur (Karur)**, not Puducherry.
@@ -2264,6 +2285,7 @@ C. Prithviraja III
 D. Vigraharaja IV only
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Numbered Chauhan identity vs Vigraharaja who took Delhi earlier.
 
@@ -2284,6 +2306,7 @@ D. Sarnath
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Gahadavala Buddhist / Jaina patronage site.
 
 **Ans: D.** **Sarnath**. Lakshmidhara’s *Krityakalpataru* is the related Gahadavala legal digest.
@@ -2302,6 +2325,7 @@ C. Mahoba
 D. Panna
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Chandela Mahoba commanders vs Prithviraj.
 
@@ -2322,6 +2346,7 @@ D. Vidarbha
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Chandela territorial name from Jeja / Jayashakti.
 
 **Ans: B.** **Bundelkhand**. Wrong UP stem often pairs it with **Kaushambi**.
@@ -2341,6 +2366,7 @@ D. Mahipala
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Pala monastery founders.
 
 **Ans: A.** **Dharmapala** also built **Somapura (Paharpur)**. **Odantapuri** = **Gopala**. Site = **Bhagalpur**, not Banka.
@@ -2359,6 +2385,7 @@ C. Balaputradeva
 D. Chudamanivarman
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Java–Pala Buddhist diplomacy.
 
@@ -2388,6 +2415,7 @@ D. 4 1 3 2
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** North dynasty capitals vs Chola Thanjavur.
 
 **Ans: D.** Pratihara–Kannauj; Chola–Thanjavur; Paramara–Dhara; Solanki–Anhilwada.
@@ -2412,6 +2440,7 @@ D. 1 and 4 only
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Mitakshara / Dayabhaga / Hemadri vs court poet.
 
 **Ans: C.** **Rajasekhara** is a Pratihara **poet** (*Karpuramanjari*), not a jurist.
@@ -2430,6 +2459,7 @@ C. Jagnik — Alha-khand
 D. Narpati Nalha — Visaldev Raso
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Hammir Raso authorship.
 
@@ -2454,6 +2484,7 @@ D. 1, 2 and 3
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** Bhoja works vs Kalachuri name trap.
 
 **Ans: A.** **Gangeyadeva** = **Kalachuri** of Tripuri (Vikramaditya title; gold coins).
@@ -2473,6 +2504,7 @@ D. Jejakabhukti — Kaushambi
 
 <details><summary>Show answer</summary>
 
+
 **Logic:** UP early medieval place-name pairs.
 
 **Ans: D.** **Jejakabhukti** = **Bundelkhand**, not Kaushambi.
@@ -2491,6 +2523,7 @@ C. Vijayasena
 D. Lakshmanasena
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** Sena era name.
 
@@ -2519,6 +2552,7 @@ C. Only three
 D. All four
 
 <details><summary>Show answer</summary>
+
 
 **Logic:** IAS-style dynasty identity pairs.
 

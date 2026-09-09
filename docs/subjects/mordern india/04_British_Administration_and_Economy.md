@@ -431,6 +431,7 @@ D. 1, 3, 2, 4
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Awadh annexation → Indigo Revolt → Second Afghan → Ilbert.
 
 **Ans: A** — Awadh **1856** → Indigo **1859** → Afghan **1878** → Ilbert **1883**.
@@ -908,81 +909,633 @@ D. Cotton, silk, saltpetre and opium
 
 </details>
 
-**Logic:** Permanent Settlement / Istamrari = Cornwallis 1793 with zamindars; ~19%; sunset auction; pattas unchecked; Tenancy Act 1885.
+**Logic:** Istamrari / Permanent Settlement = Cornwallis 1793 with zamindars as proprietors.
 
-**Q5. UPPCS / BPSC / MPPCS / IAS cluster**
+**Q5. UPPCS / BPSC / MPPCS / IAS**
 
-Who introduced Istamrari / Permanent Settlement / with whom made / year / why more litigation / why no pattas / Bihar feature / Bengal Tenancy Act year?
+The Permanent Settlement (Istamrari / Ist-e-Marari) was introduced by:
+
+A. Warren Hastings in 1773
+
+B. Lord Cornwallis in 1793
+
+C. Lord Wellesley in 1798
+
+D. Thomas Munro in 1820
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Cornwallis, 1793**, with **zamindars** (hereditary/transferable proprietors; **10/11** to Company). Litigation rose from stronger zamindar vs ryot plus intermediaries — IAS often keys that **none** of the three simple options alone is the full reason. Pattas often not issued because **no official check** on zamindars. Fixed revenue demand is the Company gain. **Bengal Tenancy Act = 1885**.
+**Ans: B.** **Lord Cornwallis, 1793**, with **zamindars** recognised as hereditary, transferable proprietors of the soil.
 
 </details>
 
-**Logic:** Ryotwari = Read + Munro (not Cornwallis); first Baramahal/Madras; Madras & Bombay; ~51%; peasant owns/pays direct; Munro “always prevailed.”
+**Logic:** Permanent Settlement covered ~19% of British India; zamindars remitted 10/11 to the Company.
 
-**Q6. IAS 2017 / Jharkhand / UPPCS / BPSC**
+**Q6. UPPCS / BPSC / IAS**
 
-Who associated with Ryotwari / first implemented where / Permanent vs Ryotwari regions / Munro said what / all three Ryotwari statements (direct rent, pattas, survey)?
+Under the Permanent Settlement, the zamindar typically paid what share of the collection to the East India Company?
+
+A. One-half
+
+B. Nine-tenths
+
+C. Ten-elevenths
+
+D. The entire collection with no retention
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Alexander Read and Thomas Munro** (not Cornwallis). First major try **Baramahal**; then **Madras** (and Bombay parts). Permanent = Bengal belt; Ryotwari = Madras/Bombay. Munro: Ryotwari “**has always prevailed in India**.” IAS 2012: all three statements on direct payment, pattas and survey/assessment are correct.
+**Ans: C.** The zamindar kept about **1/11** and remitted **10/11** to the Company on a **fixed** demand.
 
 </details>
 
-**Logic:** UPPCS 2020 A/R — different systems → different peasant classes; IAS 2024 — Ryotwari exemption false, Permanent sunset true; Mahalwari = Holt Mackenzie; Punjab Land Alienation 1900; Assam tea company 1839.
+**Logic:** Stronger zamindars plus intermediaries fed litigation after 1793 — not a single simple cause in IAS stems.
 
-**Q7. UPPCS 2020 / IAS 2024 / BPSC / UP R.O.**
+**Q7. IAS / UPPCS**
 
-A/R on different land systems / Cornwallis revenue statements / who introduced Mahalwari in Bengal Presidency frame / Punjab Land Alienation Act / first Assam tea company year?
+Litigation in Bengal increased after the Permanent Settlement mainly because:
+
+A. The ryot was declared sole proprietor
+
+B. Zamindars became stronger against cultivators and intermediaries multiplied
+
+C. Revenue demand was revised every ten years
+
+D. The Sunset Law abolished zamindari
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** A/R both true, R explains A. IAS 2024: **Only 2** (Sunset/removal of zamindar on default). Mahalwari = **Holt Mackenzie (1822)**. Punjab Act **1900**. Assam Company **1839**.
+**Ans: B.** Making the **zamindar stronger against the ryot**, with more **intermediaries**, fed **increased litigation** after **1793**.
 
 </details>
 
-**Logic:** Match Jajmani–North, Bara Balute–Maharashtra, Mirasi–Tamil Nadu, Adade–Karnataka; military ~40% of central revenue.
+**Logic:** Pattas were legally expected but often not issued — no official check on zamindars.
 
-**Q8. UPPCS 2020 / UP R.O. 2021**
+**Q8. UPPCS / BPSC**
 
-Match service systems / % of central revenue on military?
+Under the Permanent Settlement, many zamindars did not issue pattas to cultivators mainly because:
+
+A. Pattas were legally banned
+
+B. There was no official check on zamindars
+
+C. The ryot was declared proprietor
+
+D. Revenue was collected directly from the cultivator
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **1-3-4-2** style = Jajmani North, Bara Balute Maharashtra, Mirasi Tamil Nadu, Adade Karnataka. Military share about **40%**.
+**Ans: B.** Zamindars were to issue **pattas**, but many never did because there was **no official check** on them.
 
 </details>
 
-**Logic:** Drain = unrequited transfer; Naoroji chief propounder; book 1901; Sir Syed rejected; all three critics Naoroji–Iyer–Dutt; favourable BOT + unrequited exports A/R; deindustrialization from 1813 + monopoly end; Marx “disgusting”; Arthur Cotton = South India irrigation; Aurang/Banian/Mirasidar; commercialization result; handicrafts ruined in early 19th c.
+**Logic:** Peasant pressure produced Bengal Tenancy Act 1885.
 
-**Q9. IAS / UPPCS / UK / BPSC cluster**
+**Q9. UPPCS / BPSC**
 
-Drain Theory definition / who propounded / book year / who did not believe / economic critics list / A/R favourable trade / deindustrialization 1813 / Marx / irrigation pioneer South / Aurang–Banian–Mirasidar / 19th-c. economic result / Industrial Revolution impact first half 19th c.?
+The Bengal Tenancy Act, which defined landlord–tenant rights in Bengal and Bihar, was passed in:
+
+A. 1859
+
+B. 1878
+
+C. 1885
+
+D. 1900
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** Drain = part of Indian wealth exported **without material return**. **Dadabhai Naoroji**; *Poverty and Un-British Rule* **1901**. **Sir Syed** rejected. Critics include **Naoroji, G. Subramania Iyer, R. C. Dutt**. A/R both true (favourable BOT explained by unrequited exports). Deindustrialization **both** start **1813** and aggravated by ending Company monopoly. **Karl Marx**. **Sir Arthur Cotton**. Aurang = warehouse (not treasury); Banian = Company agent; Mirasidar = designated revenue payer. Result = **commercialization of agriculture**. Impact = **Indian handicrafts ruined**.
+**Ans: C.** The **Bengal Tenancy Act, 1885**, followed decades of peasant pressure under Permanent Settlement.
 
 </details>
 
-**Logic:** First Indian in Commons = Naoroji on Liberal ticket; London Indian Society 1865 with Bonnerjee.
+**Logic:** Ryotwari = Read + Munro — not Cornwallis; first trial Baramahal.
 
-**Q10. BPSC / UPPCS**
+**Q10. IAS 2017 / Jharkhand / UPPCS / BPSC**
 
-First Indian elected to British House of Commons contested on which ticket / Poverty book author?
+Who were chiefly associated with the introduction and expansion of the Ryotwari system?
+
+A. Lord Cornwallis and Lord Wellesley
+
+B. Alexander Read and Thomas Munro
+
+C. Holt Mackenzie and Lord Bentinck
+
+D. Warren Hastings and Lord Dalhousie
 
 <details>
 <summary>Show answer</summary>
 
-**Ans:** **Liberal Party**; **Dadabhai Naoroji**.
+**Ans: B.** **Alexander Read** first tried Ryotwari in **Baramahal**; **Thomas Munro** expanded it in **Madras** (and parts of **Bombay**).
+
+</details>
+
+**Logic:** Ryotwari ~51% in Madras/Bombay belt; Permanent Settlement in Bengal belt.
+
+**Q11. UPPCS / BPSC / IAS**
+
+Which pairing of land revenue system and region is correct?
+
+A. Permanent Settlement — Madras and Bombay Presidencies
+
+B. Ryotwari — Bengal, Bihar and Orissa
+
+C. Ryotwari — Madras and Bombay Presidencies
+
+D. Mahalwari — Bengal, Bihar and Orissa only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Ryotwari** covered about **51%** of British India, mainly **Madras and Bombay**. **Permanent Settlement** dominated the **Bengal belt**.
+
+</details>
+
+**Logic:** Munro’s standard coaching quote on Ryotwari.
+
+**Q12. IAS / UPPCS**
+
+Thomas Munro described the Ryotwari system as:
+
+A. A temporary experiment for ten years
+
+B. A system which has always prevailed in India
+
+C. An improvement on the Permanent Settlement
+
+D. A village-based collective settlement
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Munro held that Ryotwari was “**a system which has always prevailed in India**.”
+
+</details>
+
+**Logic:** IAS 2012 stream — direct payment, pattas and survey/assessment all characterise Ryotwari.
+
+**Q13. IAS / UPPCS**
+
+Which of the following correctly describe the Ryotwari system?
+
+1. The government settled revenue directly with the cultivator.
+2. Survey and assessment preceded demand; pattas were issued.
+3. The zamindar was the permanent proprietor of the soil.
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements **1 and 2** are correct. Statement **3** describes **Permanent Settlement**, not Ryotwari.
+
+</details>
+
+**Logic:** UPPCS 2020 A/R — different systems created different peasant classes; R explains A.
+
+**Q14. UPPCS 2020 / BPSC**
+
+Assertion (A): The British introduced different land revenue systems in different parts of India.
+
+Reason (R): This created different classes in the Indian peasantry.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Different systems — zamindar–tenant in Bengal, direct ryot in the south-west, village **mahal** in the north — produced **different peasant classes**.
+
+</details>
+
+**Logic:** IAS 2024 — Sunset Law / auction on default is the keyed Permanent Settlement feature.
+
+**Q15. IAS 2024 / UPPCS**
+
+Which of the following is a feature of the Permanent Settlement?
+
+1. The cultivating ryot was declared proprietor of the soil.
+2. On default of payment by sunset on the due day, the estate could be sold at auction.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only statement **2** is correct — the **Sunset Law** allowed auction on default. The **zamindar**, not the ryot, was declared proprietor.
+
+</details>
+
+**Logic:** Mahalwari = Holt Mackenzie 1822 — often framed under Bengal Presidency administration for NWP.
+
+**Q16. UPPCS / BPSC / UP R.O.**
+
+The Mahalwari system was shaped by Holt Mackenzie’s report of:
+
+A. 1793
+
+B. 1813
+
+C. 1822
+
+D. 1858
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Holt Mackenzie’s report of 1822** shaped **Mahalwari** for the **North-Western Provinces** and related zones.
+
+</details>
+
+**Logic:** Punjab Land Alienation Act 1900 restricts transfer from agricultural to non-agricultural classes.
+
+**Q17. BPSC / UPPCS**
+
+The Punjab Land Alienation Act, restricting land transfer from agricultural to non-agricultural classes, was passed in:
+
+A. 1885
+
+B. 1900
+
+C. 1919
+
+D. 1935
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Punjab Land Alienation Act, 1900**, is a standard Punjab agrarian fact beside Mahalwari geography.
+
+</details>
+
+**Logic:** Assam Company 1839 = first major tea enterprise.
+
+**Q18. UPPCS / IAS**
+
+The Assam Company, the first major tea enterprise in Assam, was founded in:
+
+A. 1826
+
+B. 1839
+
+C. 1853
+
+D. 1882
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The **Assam Company was founded in 1839** after wild tea was found in Assam in the **1820s**.
+
+</details>
+
+**Logic:** Regional service-system match — Jajmani North; Bara Balute Maharashtra; Mirasi Tamil Nadu; Adade Karnataka.
+
+**Q19. UPPCS 2020 / UP R.O. 2021**
+
+Match List-I with List-II.
+
+**List-I** A. Jajmani B. Bara Balute C. Mirasi D. Adade
+
+**List-II** 1. Karnataka 2. North India 3. Maharashtra 4. Tamil Nadu
+
+*Row order is not the answer code.*
+
+A. A-2, B-3, C-4, D-1
+
+B. A-3, B-2, C-1, D-4
+
+C. A-2, B-4, C-3, D-1
+
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Jajmani** — **North India**; **Bara Balute** — **Maharashtra**; **Mirasi** — **Tamil Nadu**; **Adade** — **Karnataka** (code **2-3-4-1**).
+
+</details>
+
+**Logic:** Military absorbed about 40% of central revenue — common one-liner.
+
+**Q20. UPPCS / UP R.O.**
+
+Roughly what share of central revenue in British India went to the military?
+
+A. About 20%
+
+B. About 30%
+
+C. About 40%
+
+D. About 60%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** About **40%** of central revenue went to the **military** under Company and Crown rule.
+
+</details>
+
+**Logic:** Drain = export of Indian wealth without material return.
+
+**Q21. IAS / UPPCS / BPSC**
+
+The “Drain of Wealth” in colonial India refers to:
+
+A. Outflow of gold through temple donations
+
+B. Transfer of Indian resources to Britain without an equal return
+
+C. Decline of Indian agriculture only
+
+D. Payment of salaries to Indian civil servants alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Drain means part of India’s wealth was exported **without material return** — Dadabhai Naoroji’s core argument.
+
+</details>
+
+**Logic:** Naoroji = chief propounder; *Poverty and Un-British Rule* 1901.
+
+**Q22. UPPCS / IAS / BPSC**
+
+Who was the first and chief propounder of the Drain of Wealth theory, and in which year did he publish *Poverty and Un-British Rule in India*?
+
+A. R. C. Dutt — 1900
+
+B. Dadabhai Naoroji — 1901
+
+C. G. Subramania Iyer — 1896
+
+D. M. G. Ranade — 1893
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Dadabhai Naoroji** was the chief propounder; *Poverty and Un-British Rule in India* appeared in **1901**.
+
+</details>
+
+**Logic:** Sir Syed Ahmad Khan rejected Drain Theory.
+
+**Q23. UPPCS / BPSC**
+
+Who among the following did **not** accept the Drain of Wealth theory?
+
+A. Dadabhai Naoroji
+
+B. R. C. Dutt
+
+C. G. Subramania Iyer
+
+D. Sir Syed Ahmad Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Sir Syed Ahmad Khan** rejected the Drain Theory and saw Muslim advance under British rule.
+
+</details>
+
+**Logic:** Economic critics cluster — Naoroji, Iyer, Dutt are standard keys.
+
+**Q24. IAS / UPPCS**
+
+Which of the following were among the economic critics of British rule in India?
+
+1. Dadabhai Naoroji
+2. G. Subramania Iyer
+3. R. C. Dutt
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three — **Naoroji, G. Subramania Iyer and R. C. Dutt** — criticised colonial economic exploitation.
+
+</details>
+
+**Logic:** Favourable balance of trade could still mean unrequited exports — classic A/R pair.
+
+**Q25. IAS / UPPCS**
+
+Assertion (A): India often showed a favourable balance of trade under British rule.
+
+Reason (R): A favourable balance of trade does not disprove the Drain because exports could leave without equivalent return.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both are true and **R explains A** — **unrequited exports** could coexist with a favourable trade balance on paper.
+
+</details>
+
+**Logic:** Deindustrialization commonly dated from 1813 when monopoly ended.
+
+**Q26. UPPCS / IAS**
+
+Indian deindustrialization under British rule is commonly traced from:
+
+A. 1757
+
+B. 1813
+
+C. 1857
+
+D. 1905
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The process is commonly dated from **1813**, when the Company’s India trade monopoly ended and British manufactures flooded in more freely.
+
+</details>
+
+**Logic:** Marx criticised British economic policy in India as destructive.
+
+**Q27. IAS / UPPCS**
+
+Karl Marx’s critique of British economic policy in India is often remembered in coaching notes by which characterisation?
+
+A. Beneficial modernisation
+
+B. Disgusting destruction of old industry
+
+C. Neutral free trade
+
+D. Purely political annexation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Karl Marx** criticised British policy as destructive; keys often use the line that it was **“disgusting.”**
+
+</details>
+
+**Logic:** Sir Arthur Cotton = irrigation pioneer in South India.
+
+**Q28. UPPCS / IAS**
+
+Sir Arthur Cotton is associated with:
+
+A. Indigo plantations in Bengal
+
+B. Irrigation works in South India
+
+C. Managing agency houses in Calcutta
+
+D. Ryotwari settlement in Bombay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Sir Arthur Cotton** is the standard **South India irrigation** pioneer in colonial economy stems.
+
+</details>
+
+**Logic:** Aurang = warehouse; Banian = Company agent; Mirasidar = revenue payer under Ryotwari.
+
+**Q29. IAS / UPPCS / BPSC**
+
+Which of the following pairs is **not** correctly matched?
+
+A. Aurang — warehouse where goods are collected
+
+B. Banian — Indian commercial agent of the East India Company
+
+C. Mirasidar — designated revenue payer under Ryotwari-era arrangements
+
+D. Aurang — treasury officer of the Mughal state
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Aurang** means a **warehouse**, not a treasury officer. **Banian** = Company **agent**; **Mirasidar** = designated **revenue payer**.
+
+</details>
+
+**Logic:** Commercialization of agriculture = major 19th-century economic result.
+
+**Q30. UPPCS / BPSC**
+
+A major economic result of British rule in the nineteenth century was:
+
+A. Full industrial self-sufficiency
+
+B. Commercialization of agriculture
+
+C. End of cash-crop cultivation
+
+D. Uniform Ryotwari across all of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Commercialization of agriculture** — indigo, opium, cotton and later jute — was a major nineteenth-century result.
+
+</details>
+
+**Logic:** Handicrafts ruined in first half of 19th century under one-way free trade.
+
+**Q31. UPPCS / IAS**
+
+The impact of the Industrial Revolution on India in the first half of the nineteenth century was chiefly:
+
+A. Rapid growth of Indian heavy industry
+
+B. Ruin of Indian handicrafts under cheap British manufactures
+
+C. End of land revenue as state income
+
+D. Closure of all British factories in India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cheap **Manchester cloth** and one-way free trade **ruined Indian handicrafts** in the early nineteenth century.
+
+</details>
+
+**Logic:** Naoroji 1892 = first Indian in Commons on Liberal ticket.
+
+**Q32. BPSC / UPPCS**
+
+Dadabhai Naoroji, the first Indian elected to the British House of Commons (1892), contested on the ticket of the:
+
+A. Conservative Party
+
+B. Liberal Party
+
+C. Labour Party
+
+D. Independent nationalist bloc only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Naoroji won on the **Liberal Party** ticket in **1892**.
+
+</details>
+
+**Logic:** *Poverty and Un-British Rule* author = Naoroji.
+
+**Q33. BPSC / UPPCS**
+
+The author of *Poverty and Un-British Rule in India* was:
+
+A. R. C. Dutt
+
+B. Bipin Chandra
+
+C. Dadabhai Naoroji
+
+D. Gopal Krishna Gokhale
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Dadabhai Naoroji** wrote *Poverty and Un-British Rule in India* (**1901**).
 
 </details>
 
@@ -1619,6 +2172,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Home Charges = London-side India Office, pensions, debt, stores. Overseas war costs are the classic distractor.
 
 **Ans: A** — Statement 2 is false.
@@ -1640,6 +2194,7 @@ D. Subordination of Indian interest only as a political slogan
 <details>
 <summary>Show answer</summary>
 
+
 **Logic:** Near-nil / low duty on British goods entering India; Indian exports faced high duty in Britain.
 
 **Ans: B**
@@ -1660,6 +2215,7 @@ D. Lord Dufferin
 
 <details>
 <summary>Show answer</summary>
+
 
 **Logic:** Istamrari is another name for the Permanent Settlement of **1793**.
 
