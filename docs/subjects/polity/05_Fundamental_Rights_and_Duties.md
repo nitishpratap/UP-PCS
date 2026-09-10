@@ -13,14 +13,14 @@
 
 > **Sources baked in:** Laxmikanth (FR / DPSP / Duties), Constitution Parts III–IVA, Drishti coaching map, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Art. 14 vs 19 vs 21; which freedom is **not** in 19; Art. 20 three clauses; 86th/21A; exploitation vs equality; DPSP match traps
-> **Last verified:** August 2026 — coaching gap-pass (citizens-only map; writ traps; 43A vs 43B; 51A full list; Q107 vote fact)
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (FR Q1–Q169) added behind UPPCS bank; teaching gap-pass (1895/1928/1931 spine; Magna Carta; Bachan Singh)
 > **Current Affairs:** EWS 103rd upheld (*Janhit Abhiyan*, 2022); Privacy *Puttaswamy* 2017; Uttarakhand UCC (2024) awareness
 
 ---
 
 ## Consolidated — 30 Must-Score Facts
 
-1. **Part III (Articles 12–35)** holds Fundamental Rights. They are **justiciable**. Originally there were **seven** groups; after the **44th Amendment (1978)** removed the Right to Property, **six** groups remain.
+1. **Part III (Articles 12–35)** holds Fundamental Rights. They are **justiciable**. Part III is called the **Magna Carta of India**. Originally there were **seven** groups; after the **44th Amendment (1978)** removed the Right to Property, **six** groups remain. Pre-1950 demand spine: **1895** Tilak Bill → **Nehru Report 1928** → **Karachi 1931** (Patel).
 2. **Article 12** defines **State** for Part III (Union and State governments and legislatures, local authorities, and other authorities under the instrumentality test).
 3. Rights available only to **citizens**: **Articles 15, 16, 19, 29 and 30**. Rights available to **all persons** (citizens and foreigners): **14, 20, 21, 21A, 22, 23, 24, 25–28 and 32**.
 4. **Article 14** (equality before law / equal protection) covers **any person**. **Article 16** (equality of opportunity in public employment) covers **citizens only**.
@@ -80,12 +80,16 @@
 
 ## N.1 Fundamental Rights — overview
 
-- **Part III, Arts. 12–35.** Justiciable (courts enforce). Borrowed in form from the **US Bill of Rights**.
-- **S. Radhakrishnan** (CA, 1947): FRs are “a **pledge** to our people and a **pact** with the civilized world.”
+- **Part III, Arts. 12–35.** Justiciable (courts enforce). Part III is often called the **Magna Carta of India**. Form is compared with the **US Bill of Rights**.
+- Pre-Independence demands: the **Constitution of India Bill, 1895** (Tilak-inspired) is treated as the first explicit FR demand; the **Motilal Nehru Report (1928)** sought inalienable FRs; the **Karachi Congress (1931)** under **Sardar Patel** adopted the FR and National Economic Programme resolutions.
+- **S. Radhakrishnan**: FRs are “a **pledge** to our people and a **pact** with the civilized world.” **Nehru**: an FR should be made **permanent** in the Constitution, not fixed for a passing difficulty.
 - Originally **seven** groups. **44th Amendment, 1978** removed **Right to Property** from Part III (now **Art. 300A**, legal right — see below). **Six** groups remain.
-- Bind the **State** (Art. 12). Some (e.g. 17, 23, 24) also bind private persons.
+- Bind the **State** (Art. 12). Some (e.g. 17, 23, 24) also bind private persons. They are a guarantee against **arbitrary State action**.
 - **Not absolute** — reasonable restrictions / other Part III limits. Can be amended, but **Basic Structure** cannot be destroyed (*Kesavananda*).
+- Enforcement (except **Arts. 20 and 21**) can be suspended during a National Emergency under **Arts. 358 / 359** (after the 44th).
 - **Art. 33–35:** Parliament may restrict FR of armed forces / police; martial-law indemnity; only Parliament legislates on certain FR punishments.
+
+**Six groups (present):** Equality (14–18) | Freedom (19–22) | Against Exploitation (23–24) | Freedom of Religion (25–28) | Cultural and Educational (29–30) | Constitutional Remedies (32).
 
 **PYQ — UPPCS Prelims 2021, Q73**
 
@@ -98,6 +102,8 @@ D. Dr. S. Radha Krishnan
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Quote attribution for Part III — Radhakrishnan, not Ambedkar or Nehru.
 
 **Ans: D — Dr. S. Radhakrishnan.**
 
@@ -399,19 +405,21 @@ Two codes in one article.
 
 ## N.10 Landmark FR cases (one-line facts)
 
-** chronology:** *Gopalan* (1950) → *Janhit Abhiyan* (2022) — one fact per case.
+**Chronology spine:** *Gopalan* (1950) → *Kesavananda* (1973) → *Maneka* (1978) → *Puttaswamy* (2017) → *Janhit Abhiyan* (2022).
 
 - **A.K. Gopalan (1950):** Narrow view — each FR read separately; “procedure established by law” literal.
-- **Champakam Dorairajan (1951):** Led to **1st Amendment** (Art. 15(4)).
+- **Champakam Dorairajan (1951):** FR over DPSP in conflict; led to **1st Amendment** (Art. 15(4)).
 - **Golaknath (1967):** Parliament **cannot** amend FRs → reversed by **24th Amendment** + *Kesavananda*.
-- **Kesavananda Bharati (1973):Basic Structure**; FRs amendable but not to destroy basic structure.
-- **Maneka Gandhi (1978):** Art. 21 procedure must be **fair, just, reasonable**; 14-19-21 linked.
-- **Minerva Mills (1980):** Balance of FR and DPSP is basic structure; struck down parts of 42nd.
+- **Kesavananda Bharati (1973):** **Basic Structure**; FRs amendable but not so as to destroy basic structure.
+- **Maneka Gandhi (1978):** Art. 21 procedure must be **fair, just, reasonable**; Arts. 14, 19 and 21 linked.
+- **Bachan Singh (1980):** Death sentence under IPC 302 is **not** violative of Arts. 14, 19 and 21 when applied for the rarest of rare.
+- **Minerva Mills (1980):** Balance of FR and DPSP is basic structure; struck down parts of the 42nd.
 - **Olga Tellis (1985):** Right to **livelihood** under Art. 21.
-- **Indra Sawhney (1992):** 27% OBC, **creamy layer**, **50%** cap.
-- **Vishaka (1997):** Workplace sexual-harassment guidelines under 14/19/21.
-- **Puttaswamy (2017):Right to Privacy** = FR (Art. 21).
-- **Janhit Abhiyan (2022):EWS 103rd** upheld.
+- **Indra Sawhney (1992):** 27% OBC, **creamy layer**, **50%** cap; Art. 16(4) read with Art. 335 efficiency.
+- **Vishaka (1997):** Workplace sexual-harassment guidelines under Arts. 14, 19 and 21.
+- **Unni Krishnan (1993):** Free education up to 14 read into Art. 21 (before **21A**).
+- **Puttaswamy (2017):** Right to **Privacy** = FR under Art. 21 (Part III freedoms).
+- **Janhit Abhiyan (2022):** **EWS 103rd** upheld.
 
 ---
 
@@ -506,6 +514,8 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Art. 32(2) five writs + Art. 32(3) Parliament may empower other courts.
 
 **Ans: A — Both.** (2) reflects Art. 32(3).
 
@@ -1129,11 +1139,11 @@ D. Only 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Equality of opportunity sits in Article 16, not Article 19(1).
+
 **Ans: A (Series B provisional key).** Equal opportunity in public employment is Article 16 (right to equality). Assembly, profession and speech are in Article 19(1).
 
 </details>
-
-**Logic:** Only one committee fed the 42nd Amendment duties package.
 
 **Q. UKPCS Prelims 2025, Q121**
 
@@ -1147,11 +1157,11 @@ D. Swaran Singh Committee
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Only one committee fed the 42nd Amendment duties package.
+
 **Ans: D (Series B provisional key).** Swaran Singh Committee → Fundamental Duties via the 42nd Amendment (1976).
 
 </details>
-
-**Logic:** Series B keys Only 1 and 2 for this RTE stem.
 
 **Q. UKPCS Prelims 2025, Q126**
 
@@ -1169,7 +1179,3245 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Series B keys Only 1 and 2 for this RTE stem.
+
 **Ans: A (Series B provisional key).** Follow the provisional letter (Only 1 and 2) for this paper. Statement 3 is standard textbook fact via Article 21A / 86th Amendment — treat any amended key carefully if released.
+
+</details>
+
+---
+
+
+---
+
+## Ghatnachakra Extra Drill — Fundamental Rights
+
+Teaching sits in Topic 5 (Part III Arts. 12–35, writs, property, emergency suspension). Full MCQs from Ghatnachakra so you need not reopen the book.
+
+### Section A — Origin, nature and Article map
+
+**Q1. I.A.S. (Pre) 2021**
+
+Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?
+
+A. A committed judiciary
+B. Centralization of powers
+C. Elected government
+D. Separation of powers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Liberal democracy restrains power; a “committed” judiciary can become partisan.
+
+**Ans: D.** **Separation of powers** is the best safeguard of liberty. A committed judiciary may not check government. Centralisation risks authoritarianism. An elected government alone is not the best safeguard.
+
+</details>
+
+**Q2. Jharkhand P.C.S. (Pre) 2023**
+
+Which Congress Session passed the resolution of Fundamental Rights in 1931?
+
+A. Allahabad
+B. Karachi
+C. Mumbai
+D. Gaya
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1931 FR resolution = Karachi under Patel, after Gandhi–Irwin Pact.
+
+**Ans: B.** The **Karachi** session (March 1931), presided over by **Sardar Vallabhbhai Patel**, adopted resolutions on Fundamental Rights and the National Economic Programme.
+
+</details>
+
+**Q3. U.P.P.C.S. (Mains) 2009**
+
+Which of the following is correct?
+
+A. The Nehru Report (1928) had advocated the inclusion of Fundamental Rights in the Constitution of India.
+B. The Government of India Act, 1935 referred to Fundamental Rights.
+C. The August Offer, 1940, included the Fundamental Rights.
+D. The Cripps Mission 1942 referred to Fundamental Rights.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pre-1950 FR demand spine — Nehru Report is the clear hit among these options.
+
+**Ans: A.** The **Motilal Nehru Report (1928)** advocated inalienable Fundamental Rights. GOI Act 1935, August Offer and Cripps did not place FR as that option set claims.
+
+</details>
+
+**Q4. M.P.P.C.S. (Pre) 2022**
+
+Who said the following words about Fundamental Rights: “A Fundamental Right should be looked upon, not from the point of view of any particular difficulty of that moment but as something that you want to make permanent in this Constitution”?
+
+A. Justice P.N. Bhagwati
+B. Jawaharlal Nehru
+C. Dr. S. Radhakrishnan
+D. Dr. B.R. Ambedkar
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Permanence quote = Nehru; “pledge and pact” = Radhakrishnan; “heart and soul” = Ambedkar on Art. 32.
+
+**Ans: B.** **Jawaharlal Nehru** stressed that a Fundamental Right must be made **permanent** in the Constitution, not fixed for a passing difficulty.
+
+</details>
+
+**Q5. U.P.P.C.S. (Pre) 2021**
+
+Who among the following person said for the Fundamental Rights “a pledge to our people and a pact with the civilized world”?
+
+A. Pt. Jawahar Lal Nehru
+B. Dr. Bhim Rao Ambedkar
+C. Dr. Rajendra Prasad
+D. Dr. S. Radha Krishnan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Quote attribution trap — Radhakrishnan, not Ambedkar or Nehru.
+
+**Ans: D.** **Dr. S. Radhakrishnan** called Fundamental Rights a **pledge** to our people and a **pact** with the civilized world.
+
+</details>
+
+**Q6. M.P.P.C.S. (Pre) 2013**
+
+‘Fundamental Rights’ are:
+
+A. Justifiable
+B. Non-justifiable
+C. Flexible
+D. Rigid
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part III is court-enforceable (justiciable / “justifiable” in older wording).
+
+**Ans: A.** Fundamental Rights are **justiciable** — enforceable by courts, subject to constitutional limits.
+
+</details>
+
+**Q7. Chhattisgarh P.C.S. (Pre) 2017**
+
+The rights are called Fundamental Rights because
+
+i. It is written in the Constitution.
+ii. It is democratic.
+iii. It is public welfare.
+iv. It is essential for personality development.
+v. Parliament can't make law against it.
+
+A. i ii iii
+B. i iii v
+C. i iv v
+D. ii iii v
+E. None of the Above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Written + personality development + basic-structure limit on Parliament.
+
+**Ans: C.** They are written in the Constitution, essential for personality development, and Parliament cannot make a law that destroys them as part of the **basic structure**.
+
+</details>
+
+**Q8. U.P. Lower Sub. (Pre) 2002**
+
+Fundamental Rights –
+
+A. Cannot be suspended
+B. Can be suspended by order of Prime Minister
+C. Can be suspended on the will of President
+D. Can be suspended during Emergency
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Suspension path is Emergency under Arts. 358/359 — never 20 and 21 after 44th.
+
+**Ans: D.** Enforcement of Fundamental Rights can be suspended during a **National Emergency** under Arts. **358** and **359**. Arts. **20** and **21** cannot be suspended.
+
+</details>
+
+**Q9. U.P.P.C.S. (Pre) 1998**
+
+Consider the following statements about the Fundamental Rights in India:
+
+1. They are a guarantee against state action
+2. They are enumerated in Part III of the Constitution
+3. They ensure social, economic and political justice.
+4. They are unlike Bill of Rights in the U.S.A.
+
+Now, select the correct answer from the code given below:
+
+A. 1 and 2 are correct
+B. 2 and 3 are correct
+C. 1, 2 and 3 are correct
+D. 2, 3 and 4 are correct
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 4 is false — Part III is often compared with the US Bill of Rights.
+
+**Ans: C.** Statements **1, 2 and 3** are treated as correct. Statement 4 is wrong because Indian FRs are **like** the US Bill of Rights in form.
+
+</details>
+
+**Q10. 39th B.P.S.C. (Pre) 1994 / U.P. Lower Sub. (Mains) 2015**
+
+Under which Article of the Constitution of India, Fundamental Rights have been provided to citizens?
+
+A. Articles 112 to 115
+B. Article 12 to 35
+C. Articles 222 to 235
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part III span = Arts. 12–35 (six groups today).
+
+**Ans: B.** Part III enumerates Fundamental Rights in **Articles 12 to 35**.
+
+</details>
+
+**Q11. 45th B.P.S.C. (Pre) 2001**
+
+Which Article of the Constitution gives precedence to Constitutional provisions over the laws made by the Union Parliament/State Legislatures?
+
+A. 13
+B. 32
+C. 245
+D. 326
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Inconsistent laws void to the extent of conflict with Part III.
+
+**Ans: A.** **Article 13** makes pre- and post-Constitution laws void to the extent they conflict with Fundamental Rights.
+
+</details>
+
+**Q12. U.P.P.C.S. (Pre) 1999**
+
+The main object of Article 13 of the Indian Constitution is to secure the Paramountcy of the Constitution regarding :
+
+A. Directive Principles of State Policy
+B. Fundamental Rights
+C. Fundamental Duties
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 13 is the Part III gate, not DPSP or Duties.
+
+**Ans: B.** Article 13 secures the paramountcy of the Constitution with respect to **Fundamental Rights**.
+
+</details>
+
+### Section B — Right to Equality (Articles 14–18)
+
+**Q13. I.A.S. (Pre) 2002 / U.P. Lower Sub. (Pre) 2015**
+
+In the Indian Constitution, the right to equality is granted by five Articles. They are:
+
+A. Article 16 to Article 20
+B. Article 15 to Article 19
+C. Article 14 to Article 18
+D. Article 13 to Article 17
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Equality cluster = 14–18 (not into 19/20).
+
+**Ans: C.** Right to Equality covers **Articles 14 to 18**.
+
+</details>
+
+**Q14. U.P.P.C.S. (Pre) 2009**
+
+The Right to Equality is given by—
+
+(1) Article 13 (2) Article 14 (3) Article 15 (4) Article 16
+
+A. 1 and 2
+B. 1, 2 and 3
+C. 2, 3 and 4
+D. All above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 13 is the voiding gate; equality substance starts at 14.
+
+**Ans: C.** Articles **14, 15 and 16** (among the listed) give the Right to Equality substance. Article 13 is not itself a “Right to Equality” article.
+
+</details>
+
+**Q15. U.P.P.C.S. (Pre) 1999**
+
+Which one of the following Articles of the Indian Constitution puts an absolute limitation on the legislative power:
+
+A. Article 14
+B. Article 15
+C. Article 16
+D. Article 17
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Equality before law binds every law for every person.
+
+**Ans: A.** **Article 14** limits legislative power — the State shall not deny equality before the law or equal protection of the laws to any person.
+
+</details>
+
+**Q16. U.P.P.C.S. (Mains) 2015**
+
+Which one of the following Articles of the Constitution of India is related to equality before law?
+
+A. Article 16
+B. Article 15
+C. Article 14
+D. Article 13
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Equality before law / equal protection = Art. 14.
+
+**Ans: C.** **Article 14** relates to equality before law and equal protection of the laws.
+
+</details>
+
+**Q17. Chhattisgarh P.C.S. (Pre) 2018**
+
+In which article of the constitution ‘Equal Protection of Law’ is provided?
+
+A. Article 12
+B. Article 13
+C. Article 14
+D. Article 15
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Equal protection is the US-origin limb of Art. 14.
+
+**Ans: C.** **Article 14** provides both equality before the law and **equal protection of the laws**.
+
+</details>
+
+**Q18. I.A.S. (Pre) 2021**
+
+A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India?
+
+A. Article 14
+B. Article 28
+C. Article 32
+D. Article 44
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Unguided discretion = arbitrariness under equality.
+
+**Ans: A.** Vague, unguided discretionary power violates **Article 14** (and may also offend other Part III clauses).
+
+</details>
+
+**Q19. 66th B.P.S.C. (Pre) 2020**
+
+What is meant by ‘Rule of Law’?
+
+A. One act for all and one judiciary for all
+B. One act for all and one State for all
+C. One State for all and one judiciary for all
+D. All acts for one and one judiciary for all
+E. None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Equality before law / no one above the law.
+
+**Ans: A.** Rule of Law implies the same legal order and judiciary for all — no official above the law.
+
+</details>
+
+**Q20. I.A.S. (Pre) 1995**
+
+Prohibition of discrimination on the ground of religion etc. (Article 15 of the Constitution of India) is a Fundamental Right classifiable under:
+
+A. The Right to Freedom of Religion
+B. The Right against Exploitation
+C. The Cultural and Educational Rights
+D. The Right to Equality
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 15 sits in equality 14–18, not religion 25–28.
+
+**Ans: D.** Article 15 is under the **Right to Equality**.
+
+</details>
+
+**Q21. U.P.P.C.S. (Pre) 1997**
+
+Which one of the following fundamental rights was amended as a result of the decision of the Supreme Court of India in ‘State of Madras Vs. Champakam Dorairajan’ case:
+
+A. Right to equality before law
+B. Right against discrimination
+C. Right against untouchability
+D. Right to freedom of speech and expression
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Champakam → 1st Amendment → Art. 15(4).
+
+**Ans: B.** After *Champakam Dorairajan*, the **1st Amendment (1951)** added **Article 15(4)** for advancement of SEBC / SC / ST — amending the right against discrimination.
+
+</details>
+
+**Q22. Uttarakhand P.C.S. (Pre) 2012**
+
+Under which article of the Constitution reservations in admission to educational institutions, including private and unaided, to OBCs/ST/SC is made?
+
+A. Article 15(4)
+B. Article 15(5)
+C. Article 16(4)
+D. Article 16(5)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 15(5) = 93rd Amendment — private educational institutions (not minority Art. 30).
+
+**Ans: B.** **Article 15(5)** enables reservation in admissions including private unaided institutions (except minority institutions under Art. 30).
+
+</details>
+
+**Q23. Uttarakhand P.C.S. (Pre) 2016**
+
+The provisions of reservation of O.B.C. is made in the Constitution under which Articles?
+
+A. Article 13(II) & 14
+B. Article 14 & 15
+C. Article 15 (IV) & 16 (IV)
+D. Article 17 & 18
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Special provision education/advancement = 15(4); posts = 16(4).
+
+**Ans: C.** OBC/backward-class special provisions sit in **Article 15(4)** and **Article 16(4)**.
+
+</details>
+
+**Q24. U.P. R.O./A.R.O. (Re.) (Pre) 2023**
+
+According to which Article of the Indian Constitution — “No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State”?
+
+A. Article 17
+B. Article 15
+C. Article 16 (2)
+D. Article 16 (4)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Public employment non-discrimination text = 16(2); 16(4) is reservation power.
+
+**Ans: C.** The quoted text is **Article 16(2)**.
+
+</details>
+
+**Q25. U.P.P.C.S. (Mains) 2009**
+
+Which of the following Articles of the Indian Constitution guarantees equality of opportunity to all citizens of India in matters relating to public employment?
+
+A. Article 15
+B. Article 16 (1) and 16(2)
+C. Article 16(3)
+D. Article 16 (3), (4) and (5)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Opportunity guarantee = 16(1)–(2); (4) is reservation exception.
+
+**Ans: B.** Equal opportunity in public employment is ensured by **Articles 16(1) and 16(2)**.
+
+</details>
+
+**Q26. U.P.P.C.S. (Spl) (Mains) 2008**
+
+Which one of the following is not included in the fundamental right to equality as enshrined in the Indian Constitution?
+
+A. Equality before law
+B. Social equality
+C. Equal opportunity
+D. Economic equality
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Economic equality is DPSP territory, not a Part III equality label.
+
+**Ans: D.** **Economic equality** is not included as a Fundamental Right to Equality. Equality before law, social equality (15) and equal opportunity (16) are.
+
+</details>
+
+**Q27. U.P.P.C.S. (Mains) 2016**
+
+Assertion (A) : The State can treat unequal differently with the objective of creating a level playing field in the social, economic and political spheres.
+
+Reason (R) : Among equals the law should be equal and equally administered.
+
+A. (A) is true, but (R) is false.
+B. (A) is false, but (R) is true.
+C. Both (A) and (R) are correct, but (R) is not correct explanation of (A).
+D. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is reasonable classification / affirmative idea; R is the equals-treated-alike rule that frames when classification is allowed.
+
+**Ans: D.** Both are true and **R** correctly explains **A** — unequals may be treated differently, but among equals the law must be equal.
+
+</details>
+
+**Q28. I.A.S. (Pre) 2023**
+
+Statement-I : The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration.
+
+Statement-II : Article 335 of the Constitution of India defines the term ‘efficiency of administration’.
+
+A. Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+B. Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+C. Statement-I is correct but Statement-II is incorrect
+D. Statement-I is incorrect but Statement-II is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 16(4) read with 335 efficiency — but 335 does not define “efficiency”.
+
+**Ans: C.** Statement-I is correct (*Indra Sawhney* / *Nagaraj* line). Statement-II is incorrect because **Article 335 does not define** “efficiency of administration”.
+
+</details>
+
+**Q29. Jharkhand P.C.S. (Pre) 2023**
+
+Under which Amendment Act was the reservation in promotion for the Scheduled Castes and Scheduled Tribes ensured by inserting Clause ‘4A’ in Article 16?
+
+A. 75th Amendment Act, 1994
+B. 76th Amendment Act, 1994
+C. 77th Amendment Act, 1995
+D. 108th Amendment Act, 2008
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Promotion reservation clause = 77th → 16(4A).
+
+**Ans: C.** The **77th Amendment Act, 1995** inserted **Article 16(4A)** for reservation in promotion for SC/ST.
+
+</details>
+
+**Q30. U.P.P.C.S. (Pre) 1999**
+
+Which of the following enabled the Supreme Court of India to deduce a fundamental right to equal pay for equal work:
+
+A. The word ‘socialist’ used in the Preamble to the Constitution
+B. (a) read with Article 14 of the Constitution
+C. (a) read with Article 16 of the Constitution
+D. (a), (b) and (c) all read together
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Randhir Singh* reads Preamble socialist + 14 + 16 (+ 39(d) in teaching).
+
+**Ans: D.** ‘Equal pay for equal work’ was deduced from the **socialist** Preamble read with **Articles 14 and 16** together.
+
+</details>
+
+**Q31. U.P.P.C.S. (Pre) 2001 / 2003**
+
+Which of the following Article/Articles read with the word ‘Socialist’ used in the Preamble of the Indian Constitution enabled the Supreme Court to deduce a fundamental right to Equal Pay for Equal Work?
+
+A. Article 14
+B. Articles 14 and 15
+C. Articles 14, 15 and 16
+D. Articles 14 and 16
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same *Randhir Singh* pair — 14 and 16, not 15.
+
+**Ans: D.** Articles **14 and 16** with the Preamble’s **socialist** ideal.
+
+</details>
+
+**Q32. M.P.P.C.S. (Pre) 1997 / U.P.P.C.S. (Mains) 2003**
+
+Under what provision of the Constitution, untouchability has been abolished?
+
+A. Art. 14
+B. Art. 21
+C. Art. 17
+D. Art. 19
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Untouchability = Art. 17 under equality — not exploitation 23–24.
+
+**Ans: C.** **Article 17** abolishes untouchability and forbids its practice in any form.
+
+</details>
+
+**Q33. U.P.P.C.S. (Mains) 2015**
+
+Which Article of the Indian Constitution eradicates untouchability and prohibits its practice in any form?
+
+A. Article 16
+B. Article 17
+C. Article 18
+D. Article 15
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Art. 17 fact.
+
+**Ans: B.** **Article 17**.
+
+</details>
+
+**Q34. U.P. R.O./A.R.O. (Pre) 2017 / M.P.P.C.S. (Pre) 2021**
+
+In which of the following Articles of the Indian Constitution, the abolition of untouchability has been guaranteed?
+
+A. Article 14
+B. Article 15
+C. Article 16
+D. Article 17
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Art. 17 fact.
+
+**Ans: D.** **Article 17**.
+
+</details>
+
+**Q35. M.P.P.C.S. (Pre) 2013**
+
+Article 17 of the Indian Constitution deals with
+
+A. Education
+B. Health
+C. Abolition of untouchability
+D. Food guarantee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Direct Art. 17 subject.
+
+**Ans: C.** Abolition of untouchability.
+
+</details>
+
+**Q36. Uttarakhand P.C.S. (Pre) 2005 / U.P.P.C.S. (Pre) 1994**
+
+Which one of the following Articles of the Constitution abolished untouchability:
+
+A. Article 18
+B. Article 17
+C. Article 16
+D. Article 15
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Art. 17 fact.
+
+**Ans: B.** **Article 17**.
+
+</details>
+
+**Q37. M.P.P.C.S. (Pre) 2015**
+
+Under which Article Scheduled Castes and Scheduled Tribes have been granted fundamental, socioeconomic, political and cultural rights?
+
+A. Article 20
+B. Article 19
+C. Article 18
+D. Article 17
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Stem points to Art. 17’s anti-untouchability principle for Dalit dignity.
+
+**Ans: D.** **Article 17** is the answer keyed in this stem’s framing.
+
+</details>
+
+**Q38. I.A.S. (Pre) 2020**
+
+Which one of the following categories of Fundamental Rights incorporates protection against untouchability as a form of discrimination?
+
+A. Right against Exploitation
+B. Right to Freedom
+C. Right to Constitutional Remedies
+D. Right to Equality
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 17 is equality — do not park it under exploitation.
+
+**Ans: D.** Untouchability protection under Article 17 is part of the **Right to Equality**.
+
+</details>
+
+**Q39. U.P.P.C.S. (Pre) 1992**
+
+Prohibition and abolishment of untouchability may be achieved by—
+
+1. Making laws
+2. Improving Education
+3. Public Awareness
+4. Providing Jobs/Services
+
+A. 1, 2, and 3
+B. 2, 3 and 4
+C. 1 and 2
+D. 2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Law + education + awareness; jobs alone is not the keyed solution.
+
+**Ans: A.** Laws, education and public awareness. Providing jobs alone is not treated as a sufficient solution in this key.
+
+</details>
+
+**Q40. U.P. B.E.O. (Pre) 2019**
+
+Assertion (A) : Untouchability is worst form of structural violence.
+
+Reason (R) : Untouchability has been practiced in the name of religious sanctions.
+
+A. Both (A) and (R) are true and (R) is correct explanation of (A).
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A).
+C. (A) is true but (R) is false.
+D. (A) is false but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Structural violence idea + ritual/religious sanction as the explaining base.
+
+**Ans: A.** Both true; religious/ritual sanction explains why untouchability operates as structural violence.
+
+</details>
+
+### Section C — Right to Freedom (19–22), Arts. 20–21A
+
+**Q41. U.P.P.C.S. (Pre) 2000**
+
+Which one of the following Articles of the Indian Constitution belongs to a different category:
+
+A. Art. 14
+B. Art. 15
+C. Art. 16
+D. Art. 19
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Two readings exist — (i) Art. 19 is Right to Freedom among equality articles; (ii) Art. 14 alone covers all persons while 15/16/19 are citizens-only. Prefer the Freedom-group odd-one-out.
+
+**Ans: D.** **Article 19** belongs to the **Right to Freedom**, while Arts. 14–16 belong to the Right to Equality. Alternate reading: Art. 14 is available to all persons, unlike 15, 16 and 19.
+
+</details>
+
+**Q42. U.P.P.C.S. (Mains) 2016**
+
+In the Indian Constitution the ‘Right to Freedom’ is granted by four Articles which are –
+
+A. Article – 19 to Article – 22
+B. Article – 16 to Article – 19
+C. Article – 17 to Article – 20
+D. Article – 18 to Article – 21
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Freedom cluster = 19–22 (including 21A in teaching).
+
+**Ans: A.** Right to Freedom covers **Articles 19 to 22**.
+
+</details>
+
+**Q43. U.P.P.C.S. (Pre) 2024**
+
+Which of the following freedoms is not guaranteed by the Indian Constitution under Article 19?
+
+A. Freedom to assemble peacefully and without arms
+B. Freedom to own, acquire and dispose of property
+C. Freedom to move freely throughout the country
+D. Freedom to practise any trade or profession
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Old 19(1)(f) deleted by 44th; property is now 300A.
+
+**Ans: B.** Freedom to own, acquire and dispose of property was removed from Article 19 by the **44th Amendment**.
+
+</details>
+
+**Q44. Uttarakhand P.C.S. (Pre) 2025**
+
+Which of the following rights is/are not included in the ‘Right to Freedom’ under Article 19(1)?
+
+1. Right of equal opportunities
+2. Right to assemble peaceably
+3. Right to practise any profession
+4. Freedom of speech and expression
+
+A. Only 1
+B. 1 and 2
+C. 1 and 3
+D. Only 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Equal opportunity = Art. 16 (equality), not Art. 19.
+
+**Ans: A.** Only the right of equal opportunities is not under Article 19(1).
+
+</details>
+
+**Q45. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+In which Article the Fundamental Rights to Freedom of Speech and Expression is provided in the Constitution of India?
+
+A. Article 14
+B. Article 19
+C. Article 21
+D. Article 22
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Speech = 19(1)(a).
+
+**Ans: B.** **Article 19**.
+
+</details>
+
+**Q46. 47th B.P.S.C. (Pre) 2005**
+
+Which Article of the Constitution of India is related with Freedom of the Press.
+
+A. Article 19
+B. Article 20
+C. Article 21
+D. Article 22
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Press is not textually separate — read into 19(1)(a).
+
+**Ans: A.** Freedom of the Press is included in **Article 19(1)(a)**.
+
+</details>
+
+**Q47. U.P.P.C.S. (Spl) (Mains) 2004 / Chhattisgarh P.C.S. (Pre) 2005**
+
+Which Article of the Constitution ensure the freedom of the Press?
+
+A. Article 16
+B. Article 19
+C. Article 22
+D. Article 31
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Press → 19(1)(a) fact.
+
+**Ans: B.** **Article 19**.
+
+</details>
+
+**Q48. Uttarakhand U.D.A./L.D.A. (Pre) 2001**
+
+Indian Constitution does not give right to freedom of the Press, but it is included in-
+
+A. Article 19(1)(a)
+B. Article 19(1)(b)
+C. Article 19(1)(c)
+D. Article 19(1)(d)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Exact clause for speech/expression/press.
+
+**Ans: A.** **Article 19(1)(a)**.
+
+</details>
+
+**Q49. I.A.S. (Pre) 1994**
+
+Freedom of News Papers in India-
+
+A. Specially provided by Article 19(1)(a)
+B. Is secured under Article 19(1)(b)
+C. Secured by Article 361-A
+D. Has origin by the enforcement of Rule of law
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Sakal Papers* line — press inside 19(1)(a).
+
+**Ans: A.** Freedom of newspapers is included in **Article 19(1)(a)**.
+
+</details>
+
+**Q50. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+The Supreme Court has held that hoisting the National Flag atop the private buildings is a fundamental right of every citizen under:
+
+A. Article 14 of the Constitution
+B. Article 19(1)(a) of the Constitution
+C. Article 21 of the Constitution
+D. Article 25 of the Constitution
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flag expression = speech/expression.
+
+**Ans: B.** Hoisting the National Flag on private buildings is under **Article 19(1)(a)**.
+
+</details>
+
+**Q51. Jharkhand P.C.S. (Pre) 2013**
+
+As a part of the Right to Freedom, which one of the followings does not form part of “Freedom to Assemble Peaceably and Without Arms”?
+
+A. Gherao officials not performing their duties
+B. Peaceful assembly
+C. People who assemble should not bear arms
+D. State can make a law imposing reasonable restrictions on the exercise of this Right
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gherao is not peaceful assembly without arms in the keyed sense.
+
+**Ans: A.** **Gherao** of officials is not part of the freedom to assemble peaceably and without arms.
+
+</details>
+
+**Q52. Chhattisgarh P.C.S. (Pre) 2013**
+
+By which of the following grounds, a citizen’s freedom of expression may not be subjected to restriction?
+
+A. Sovereignty of India
+B. Public order
+C. Contempt of Court
+D. Unbecoming criticism
+E. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 19(2) lists specific grounds — “unbecoming criticism” is not one.
+
+**Ans: D.** **Unbecoming criticism** is not a ground under Article 19(2).
+
+</details>
+
+**Q53. Jharkhand P.C.S. (Pre) 2023**
+
+Reasonable restrictions on 'Exercise of Freedom of Speech and Expression' under Article 19(2) are justified in the interest of which of the following conditions?
+
+I. Security of State
+II. Defamation
+III. Sedition
+IV. Public order
+
+A. Only I and II
+B. Only II and III
+C. Only I, II and IV
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sedition is not listed as a separate 19(2) ground in this key.
+
+**Ans: C.** Security of State, defamation and public order are covered. Sedition is not keyed as a listed 19(2) ground here.
+
+</details>
+
+**Q54. 71st B.P.S.C. (Pre) 2025**
+
+The constitution of India provides for reasonable restrictions on Fundamental Rights but reasonableness must keep in mind that:
+
+1) The interest of the general public is safeguarded
+2) Prevailing social value and also social needs are not bar
+3) Directive principles can be bypassed
+4) Collective good is not greater
+
+A. 1 and 2 are correct
+B. 2 and 3 are correct
+C. Only 4 is correct
+D. Only 1 is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Reasonable restriction tests protect public interest and social needs — not bypassing DPSP or denying collective good.
+
+**Ans: A.** Statements **1 and 2** align with tests of reasonable restrictions. Statements 3 and 4 are incorrect.
+
+</details>
+
+**Q55. Uttarakhand P.C.S. (Pre) 2016**
+
+Which Article of the Constitution of Indian Republic relates to the Protection of 'Life and Personal Liberty'?
+
+A. Article 19
+B. Article 21
+C. Article 20
+D. Article 22
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Life and personal liberty = Art. 21.
+
+**Ans: B.** **Article 21**.
+
+</details>
+
+**Q56. U.P.P.C.S. (Mains) 2014**
+
+In which Article of Indian Constitution Doctrine of Due Process of Law is included?
+
+A. 11
+B. 16
+C. 21
+D. 26
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After *Maneka*, Art. 21 carries due-process content though the text says “procedure established by law”.
+
+**Ans: C.** **Article 21**.
+
+</details>
+
+**Q57. U.P.P.C.S. (Pre) 1997**
+
+Which Article of the Indian Constitution protects person’s right to travel abroad:
+
+A. 14
+B. 19
+C. 21
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Maneka Gandhi* / *Satwant Singh* — travel abroad under Art. 21.
+
+**Ans: C.** **Article 21**.
+
+</details>
+
+**Q58. Raj. P.C.S. (Pre) 2023**
+
+Identify the incorrect statement regarding Judicial Interpretation of Article 21 after Supreme Court’s verdict in Maneka Gandhi Case, 1978.
+
+A. The burden lies on the petitioner to prove that the procedure established by law which deprives him of his life or personal liberty is arbitrary.
+B. ‘Procedure established by law’ is by and large synonymous with the ‘Procedural, due process’ as prevalent in the U.S.A.
+C. Articles 21, 19 and 14 are not mutually exclusive.
+D. The Right to Life’ includes 'The Right to Live with Dignity'.
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After *Maneka*, arbitrary procedure is not saved merely by shifting burden onto the petitioner in that keyed sense.
+
+**Ans: A.** Statement A is incorrect. Procedure must be fair, just and reasonable; Arts. 14, 19 and 21 are not mutually exclusive; dignity is included.
+
+</details>
+
+**Q59. U.P.P.C.S. (Pre) 1998**
+
+Which of the following has been recognized as a fundamental right by the Supreme Court of India?
+
+1. Right to Shelter
+2. Right to Travel Abroad
+3. Right to Equal Pay for Equal Work
+
+A. 1 and 2
+B. 2 and 3
+C. 1 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three recognised via Art. 21 / 14+16 lines.
+
+**Ans: D.** Shelter, travel abroad and equal pay for equal work have all been recognised.
+
+</details>
+
+**Q60. U.P.P.C.S. (Mains) 2004 / (Pre) 2003**
+
+Which one of the following rights is available under Article 19(1)(d) read with Article 21 :
+
+A. Right to travel abroad
+B. Right to Shelter
+C. Right to privacy
+D. Right to information
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Surveillance/privacy cases link movement (19(1)(d)) with Art. 21.
+
+**Ans: C.** **Right to privacy** (also later locked under Art. 21 in *Puttaswamy*).
+
+</details>
+
+**Q61. I.A.S. (Pre) 2018**
+
+Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement?
+
+A. Article 14 and the provisions under the 42nd Amendment to the Constitution.
+B. Article 17 and the Directive Principles of State Policy in Part IV.
+C. Article 21 and the freedoms guaranteed in Part III.
+D. Article 24 and the provisions under the 44th Amendment to the Constitution.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Puttaswamy* — privacy under Art. 21 and Part III freedoms.
+
+**Ans: C.** Privacy is protected under **Article 21** and the freedoms in Part III.
+
+</details>
+
+**Q62. I.A.S. (Pre) 2024**
+
+Under which of the following Articles of the Constitution of India, has the Supreme Court of India placed the Right to Privacy?
+
+A. Article 15
+B. Article 16
+C. Article 19
+D. Article 21
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Direct *Puttaswamy* article.
+
+**Ans: D.** **Article 21**.
+
+</details>
+
+**Q63. I.A.S. (Pre) 2021**
+
+‘Right to Privacy’ is protected under which Article of the Constitution of India?
+
+A. Article 15
+B. Article 19
+C. Article 21
+D. Article 29
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same privacy article.
+
+**Ans: C.** **Article 21**.
+
+</details>
+
+**Q64. I.A.S. (Pre) 2019**
+
+Which Article of the Constitution of India safeguards one's right to marry the person of one's choice?
+
+A. Article 19
+B. Article 21
+C. Article 25
+D. Article 25
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Lata Singh* / Hadiya line — choice of partner under Art. 21.
+
+**Ans: B.** **Article 21**.
+
+</details>
+
+**Q65. U.P.P.C.S. (Pre) 2017**
+
+Which one of the following does not fall within the purview of article 21 of the Constitution?
+
+A. Medical aid to injure by a doctor
+B. Sexual Harassment of Women at work place.
+C. Pollution of the quality of water.
+D. Capital punishment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Bachan Singh* — death penalty under 302 is not per se violative of Art. 21.
+
+**Ans: D.** **Capital punishment** does not fall within Art. 21’s protective expansion in this key (*Bachan Singh*).
+
+</details>
+
+**Q66. U.P.P.C.S. (Mains) 2008**
+
+Which one of the following rights cannot be suspended or restricted even during National Emergency?
+
+A. Right to reside and settle in any part of the country.
+B. Right to life and personal liberty.
+C. Right to move freely throughout the territory of India
+D. Right to carry on any profession or business.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After 44th, Arts. 20 and 21 cannot be suspended under 359.
+
+**Ans: B.** **Right to life and personal liberty (Art. 21)** cannot be suspended even during National Emergency.
+
+</details>
+
+**Q67. M.P.P.C.S. (Pre) 2019**
+
+The scope of the Article 21 of the Constitution was expanded to include Right to Education, because of the decision of Supreme Court in the case
+
+A. Unnikrishnan v/s Andhra Pradesh
+B. Govind v/s State of Madhya Pradesh
+C. Parmanand Katara v/s Union of India
+D. Chameli Singh v/s State of Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Unni Krishnan* read free education into Art. 21 before 21A.
+
+**Ans: A.** ***Unni Krishnan* v. State of Andhra Pradesh (1993)**.
+
+</details>
+
+**Q68. U.P.P.C.S. (Pre) 2006**
+
+Right to education to all children between the age group of 6 to 14 years is -
+
+A. Included in the Directive Principles of State Policy
+B. A Fundamental Right
+C. A Statutory Right
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 86th Amendment → Art. 21A.
+
+**Ans: B.** It is a **Fundamental Right** under **Article 21A**.
+
+</details>
+
+**Q69. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+When was the Right to Education added through the amendment in the Constitution of India?
+
+A. 1st April, 2010
+B. 1st August, 2010
+C. 1st October, 2010
+D. 1st December, 2010
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Stem mixes amendment and RTE Act force date — key uses **1 April 2010** (RTE Act in force).
+
+**Ans: A.** The RTE Act framework under Art. 21A came into force on **1 April 2010**.
+
+</details>
+
+**Q70. 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Which one of the following is a human right as well as a fundamental right under the Constitution of India?
+
+A. Right to Information
+B. Right to Work
+C. Right to Education
+D. Right to Housing
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Education is both a human-right theme and Art. 21A FR.
+
+**Ans: C.** **Right to Education**.
+
+</details>
+
+**Q71. U.P.P.C.S. (Mains) 2016**
+
+Assertion (A) : The state shall provide free and compulsory education to all children of the age group of six to fourteen years.
+
+Reason (R) : In a democratic society, right to education is indispensable in the interpretation of the right to development as a human right.
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (R) is true, but (A) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A restates Art. 21A; R explains why free compulsory education is constitutionally central.
+
+**Ans: A.** Both true and **R** correctly explains **A**.
+
+</details>
+
+### Section D — Exploitation, Religion, Culture (23–30)
+
+**Q72. I.A.S. (Pre) 2017 / U.P.P.C.S. (Pre) 2024**
+
+Which of the following are envisaged by the Right against Exploitation in the Constitution of India?
+
+1. Abolition of untouchability
+2. Prohibition of human trafficking and forced labour
+3. Prohibition of employment of children in factories and mines
+4. Protection of interests of minorities
+
+A. 2 and 3
+B. 3 and 4
+C. 1 and 2
+D. 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Exploitation = Arts. 23–24. Untouchability is Art. 17; minorities are 29–30.
+
+**Ans: A.** Trafficking/forced labour (23) and child labour in hazardous work (24).
+
+</details>
+
+**Q73. U.P.P.C.S. (Mains) 2009 / (Pre) 2005**
+
+Which provision of the fundamental rights is directly related to the exploitation of children?
+
+A. Art. 17
+B. Art. 19
+C. Art. 23
+D. Art. 24
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Child labour prohibition = Art. 24.
+
+**Ans: D.** **Article 24**.
+
+</details>
+
+**Q74. M.P.P.C.S. (Pre) 2020**
+
+Article 24 of the Constitution of India prohibits the employment of child in factories related to hazardous works. Such prohibition is
+
+A. Absolute prohibition
+B. Partial prohibition
+C. Reasonable prohibition
+D. Moral prohibition
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 24 is absolute for under-14 in factory/mine/hazardous work.
+
+**Ans: A.** It is an **absolute prohibition**.
+
+</details>
+
+**Q75. U.P.P.C.S. (Pre) 2023**
+
+Which of the following is not a part of the Article 20 of the Constitution of India?
+
+A. Double Jeopardy Clause
+B. Ex-post Facto Law
+C. Prohibition Against Torture
+D. Prohibition against Self Incrimination
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Torture is Art. 21 territory, not Art. 20’s three clauses.
+
+**Ans: C.** Prohibition against torture is not part of Article 20.
+
+</details>
+
+**Q76. U.P.P.C.S. (Mains) 2012**
+
+Which Article under the fundamental rights is directly related to the exploitation of children?
+
+A. Article-19
+B. Article-17
+C. Article-23
+D. Article-24
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Art. 24 fact.
+
+**Ans: D.** **Article 24**.
+
+</details>
+
+**Q77. U.P.P.C.S. (Mains) 2011 / (Pre) 2018**
+
+Which one of the following Articles of the Constitution deals with the fundamental rights related to the exploitation of children?
+
+A. 17
+B. 19
+C. 24
+D. 25
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Art. 24 fact.
+
+**Ans: C.** **Article 24**.
+
+</details>
+
+**Q78. U.P.P.C.S. (Pre) 2013**
+
+Child Rights are protected in Article_______of ICCPR.
+
+A. 35
+B. 24
+C. 21
+D. 23
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** ICCPR Art. 24 — same number as Indian Art. 24 child fact (coincidence trap).
+
+**Ans: B.** **Article 24** of the ICCPR.
+
+</details>
+
+**Q79. Uttarakhand P.C.S. (Pre) 2010**
+
+Which Article of the Constitution provides protection to the accused regarding conviction from double-bar and self-incrimination?
+
+A. Article 19
+B. Article 22
+C. Article 21
+D. Article 20
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Double jeopardy 20(2); self-incrimination 20(3).
+
+**Ans: D.** **Article 20**.
+
+</details>
+
+**Q80. U.P. Lower Sub. (Spl) (Pre) 2004**
+
+An accused of any offence cannot be compelled to be a witness against himself, which Article of Indian Constitution provides for this ?
+
+A. Article 20(3)
+B. Article 21
+C. Article 22
+D. Article 74
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Self-incrimination clause.
+
+**Ans: A.** **Article 20(3)**.
+
+</details>
+
+**Q81. U.P.U.D.A./L.D.A. (Spl) (Pre) 2010**
+
+“No person shall be prosecuted and punished for the same offence more than once.” Under which Article, the above preservation of conviction for crime is given?
+
+A. Article 19
+B. Article 20
+C. Article 21
+D. Article 22
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Double jeopardy = Art. 20(2).
+
+**Ans: B.** **Article 20**.
+
+</details>
+
+**Q82. U.P.P.C.S. (Mains) 2013**
+
+Which Article gives safeguard to the Fundamental Rights of arrested person?
+
+A. Article 15
+B. Article 17
+C. Article 21
+D. Article 22
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arrest and detention safeguards = Art. 22.
+
+**Ans: D.** **Article 22**.
+
+</details>
+
+**Q83. Jharkhand P.C.S. (Pre) 2021**
+
+Which of the following is not correctly matched?
+
+A. Article 22.1 – Right to be defended by a legal practitioner of her or his choice.
+B. Article 22.4 – No law providing for preventive detention shall authorise the detention for a period longer than three months.
+C. Article 22.2 – Parliament may by law prescribe the circumstances under which a person may be detained for a period longer than three months.
+D. Article 22.1 – No person who is arrested shall be in custody without being informed, as soon as may be, of the ground for such arrest.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 22(2) is 24-hour production before magistrate — not the longer PD clause.
+
+**Ans: C.** Article 22(2) requires production before the nearest magistrate within **24 hours**. The longer-than-three-months clause is elsewhere in Art. 22.
+
+</details>
+
+**Q84. U.P. Lower Sub. (Pre) 2013**
+
+Under the Preventive Detention Act, a person can be arrested without trial for –
+
+A. 1 month
+B. 3 months
+C. 6 months
+D. 9 months
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 22(4) teaching — three months without Advisory Board path.
+
+**Ans: B.** **Three months** in the usual Art. 22(4) teaching.
+
+</details>
+
+**Q85. U.P.P.C.S. (Mains) 2009**
+
+Under Preventive Detention, a person can be detained without trial for –
+
+A. One month
+B. Three months
+C. Six months
+D. Nine months
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same three-month Art. 22(4) fact.
+
+**Ans: B.** **Three months**.
+
+</details>
+
+**Q86. I.A.S. (Pre) 2023**
+
+Consider the following statements:
+
+1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances.
+2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention.
+3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence.
+
+How many of the above statements are correct?
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only Art. 355-style statement 1 is correct; 22(5) gives representation chance; POTA allowed police confession.
+
+**Ans: A.** Only statement 1 is correct.
+
+</details>
+
+**Q87. I.A.S. (Pre) 2021**
+
+With reference to India, consider the following statements :
+
+1. When a prisoner makes out a sufficient case, parole cannot be denied to such prisoner because it becomes a matter of his/her right.
+2. State Governments have their own Prisoners Release on Parole Rules.
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parole is not an absolute right; States have parole rules.
+
+**Ans: B.** Only statement 2 is correct.
+
+</details>
+
+**Q88. U.P.U.D.A./L.D.A. (Pre) 2001**
+
+The provision of ‘Right to Freedom of Religion’ includes-
+
+(I) Freedom of propagation of religion
+(II) Right to wear and carry ‘Kripans’ by Sikhs
+(III) State’s right to make laws for social reforms
+(IV) Right to conversion of religion of people by religious bodies
+
+A. I, II and III
+B. II, III and IV
+C. III and IV
+D. All of above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Propagation + Kirpan explanation + social reform laws — not institutional forced conversion.
+
+**Ans: A.** I, II and III. Conversion of people by religious bodies is not provided as that right.
+
+</details>
+
+**Q89. Jharkhand P.C.S. (Pre) 2003**
+
+Under which Article of Indian Constitution wearing of ‘Kirpans’ by Sikh is deemed as a right to freedom of religion?
+
+A. Article 24
+B. Article 25
+C. Article 26
+D. Article 27
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Explanation I to Art. 25.
+
+**Ans: B.** **Article 25**.
+
+</details>
+
+**Q90. U.P.P.C.S. (Pre) 1996**
+
+Article 25 of the Indian Constitution refers to –
+
+A. Right to Equality
+B. Right to Property
+C. Freedom of Religion
+D. Protection of Minorities
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Direct Art. 25 subject.
+
+**Ans: C.** Freedom of Religion.
+
+</details>
+
+**Q91. U.P.P.C.S. (Mains) 2014**
+
+The word ‘Hindu’ in Article 25 of the Constitution of India does not include –
+
+A. Buddhists
+B. Jains
+C. Parsis
+D. Sikhs
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Explanation II — Hindu includes Sikh, Jain, Buddhist — not Parsi.
+
+**Ans: C.** **Parsis**.
+
+</details>
+
+**Q92. R.A.S./R.T.S. (Pre) 2013**
+
+According to Article 25 of the Constitution 'Right to Freedom of Religion' is not subjected to –
+
+A. Public Order
+B. Health
+C. Morality
+D. Humanism
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Limits = public order, morality, health — not “humanism”.
+
+**Ans: D.** **Humanism**.
+
+</details>
+
+**Q93. Chhattisgarh P.C.S. (Pre) 2018**
+
+What are the restrictions in the freedom to manage religious affairs in the Article 26 of the constitution ?
+
+(i) Public Order (ii) National Security (iii) Education (iv) Morality (v) Health (vi) Secularism
+
+A. (i) (ii) (iii)
+B. (ii) (iii) (v)
+C. (ii) (iv) (vi)
+D. (i) (iv) (v)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 26 limits = public order, morality, health — same trio as 25.
+
+**Ans: D.** Public order, morality and health.
+
+</details>
+
+**Q94. U.P. Lower Sub. (Pre) 2009**
+
+Which one of the following is not correctly matched?
+
+A. Article 23 - Prohibition of traffic in human and forced labour
+B. Article 24 - Prohibition of employment of children in factories
+C. Article 26 - Freedom to manage religious affairs
+D. Article 29 - Freedom of establishment and administration of educational institutions by minorities
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Minority educational institutions = Art. 30, not 29.
+
+**Ans: D.** Article 29 protects interests of minorities; establish/administer institutions is **Article 30**.
+
+</details>
+
+**Q95. U.P.P.C.S. (Mains) 2015**
+
+Which one of the following pairs is not correctly matched?
+
+A. Prohibition of traffic in human beings and forced labour - Article 23
+B. Protection of interests of minorities - Article 29
+C. Right to constitutional remedies - Article 32
+D. Right of minorities to establish and administer educational institutions - Article 31
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Minority institutions = Art. 30; Art. 31 (property) repealed.
+
+**Ans: D.** That right is **Article 30**, not Article 31.
+
+</details>
+
+**Q96. U.P.P.C.S. (Pre) 1997**
+
+Which Article of the Constitution protects the 'Right of minorities to establish and administer educational institutions of their choice'?
+
+A. 19
+B. 26
+C. 29
+D. 30
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Direct Art. 30.
+
+**Ans: D.** **Article 30**.
+
+</details>
+
+**Q97. U.P.P.C.S. (Mains) 2017**
+
+Under which of the following Articles of the Indian Constitution, it has been provided that all minorities shall have the right to establish and administer educational institutions of their choice?
+
+A. Art. 28
+B. Art. 29
+C. Art. 30
+D. Art. 31
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Art. 30.
+
+**Ans: C.** **Article 30**.
+
+</details>
+
+**Q98. U.P.P.C.S. (Pre) 2019**
+
+Assertion (A) : Article 30 of the Constitution of India does not define the term' minorities.
+
+Reason (R) : The Constitution recognises only linguistic and religious minorities.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is true (no exhaustive definition). R is also true (religious/linguistic), but that fact does not explain why Art. 30 leaves the term undefined.
+
+**Ans: B.** Both true; **R** is not the correct explanation of **A**.
+
+</details>
+
+**Q99. I.A.S. (Pre) 1999**
+
+The Constitution of India recognizes –
+
+A. Only religious minorities
+B. Only linguistic minorities
+C. Religious and linguistic minorities
+D. Religious, linguistic and ethnic minorities
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arts. 29–30 axis = religion and language — not ethnic as a third constitutional category.
+
+**Ans: C.** Religious and linguistic minorities.
+
+</details>
+
+**Q100. 47th B.P.S.C. (Pre) 2005**
+
+Which of the following is given the power to enforce the Fundamental Rights by the Constitution?
+
+A. All Courts in India
+B. The Parliament
+C. The President
+D. The Supreme Court and High Courts
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arts. 32 and 226 — SC and HC.
+
+**Ans: D.** The **Supreme Court** and **High Courts**.
+
+</details>
+
+### Section E — Remedies, Writs, Property, Amendability, Citizens vs aliens
+
+**Q101. U.P.P.C.S. (Mains) 2010**
+
+The Guardian of Fundamental Rights is
+
+A. Judiciary
+B. Executive
+C. Parliament
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arts. 32 / 226 — courts protect Part III.
+
+**Ans: A.** The **Judiciary** (Supreme Court and High Courts).
+
+</details>
+
+**Q102. U.P.P.C.S. (Pre) 1992 / U.P. Lower Sub. (Pre) 2004**
+
+Under the Indian Constitution who is the guardian of the fundamental rights?
+
+A. Parliament
+B. President
+C. Supreme Court
+D. Cabinet
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same guardian fact — SC often keyed.
+
+**Ans: C.** The **Supreme Court**.
+
+</details>
+
+**Q103. U.P.P.C.S. (Mains) 2012 / 2015**
+
+Under the Indian Constitution who amongst the following is considered to be the guardian of the fundamental rights?
+
+A. Parliament
+B. President
+C. Judiciary
+D. Prime Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Broader “Judiciary” key.
+
+**Ans: C.** The **Judiciary**.
+
+</details>
+
+**Q104. U.P. Lower Sub. (Pre) 2015**
+
+Which one of the following is regarded as the protector of fundamental rights of citizens and Guardian of the Constitution of India?
+
+A. The Parliament
+B. The Attorney General
+C. The Supreme Court
+D. The President
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 32 protector + constitutional guardian role of SC.
+
+**Ans: C.** The **Supreme Court**.
+
+</details>
+
+**Q105. U.P. Lower Sub. (Pre) 2013**
+
+Which one of the following statements is not correct?
+
+A. K.M. Munshi was one of the members of the drafting committee of the Constitution.
+B. The Constitution of India was adopted by the Constituent Assembly.
+C. The Panchayati Raj was recommended by Balwant Rai Mehta Committee Report-1957.
+D. The President of India is the Guardian of Fundamental Rights under the Constitution.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Guardian is Judiciary / SC — not the President.
+
+**Ans: D.** The President is **not** the guardian of Fundamental Rights.
+
+</details>
+
+**Q106. U.P.P.C.S. (Pre) 1997**
+
+Which of the following rights can be enforced under Article 32 of the Indian Constitution?
+
+A. Constitutional Rights
+B. Fundamental Rights
+C. Statutory Rights
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 32 is for Part III only; Art. 226 is wider.
+
+**Ans: B.** **Fundamental Rights**.
+
+</details>
+
+**Q107. Chhattisgarh P.C.S. (Pre) 2024**
+
+Which of the following Article is called the "Heart and Soul" of the Indian Constitution?
+
+A. Article 32
+B. Article 14
+C. Article 15
+D. Article 19
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ambedkar on Art. 32.
+
+**Ans: A.** **Article 32**.
+
+</details>
+
+**Q108. I.A.S. (Pre) 2002 / U.P.P.C.S. (Spl) (Mains) 2004**
+
+Which one of the following rights was described by Dr. B.R. Ambedkar as the ‘Heart and Soul of the Constitution’?
+
+A. Right to Freedom of Religion
+B. Right to Property
+C. Right to Equality
+D. Right to Constitutional Remedies
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Heart and soul = Right to Constitutional Remedies (Art. 32).
+
+**Ans: D.** Right to Constitutional Remedies.
+
+</details>
+
+**Q109. U.P.P.C.S. (Pre) 2016**
+
+Assertion (A): Dr. Ambedkar had described Article 32 of the Constitution as the very soul of it.
+
+Reason (R) : Article 32 provides an effective remedy against the violation of fundamental rights.
+
+A. (A) and (R) both are true, and (R) is the correct explanation of (A)
+B. (A) and (R) both are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Ambedkar’s label rests on Art. 32 being the enforceable remedy for Part III.
+
+**Ans: A.** Both true and **R** explains **A**.
+
+</details>
+
+**Q110. U.P.P.C.S. (Pre) 2023**
+
+Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights-
+
+(1) The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari which is appropriate for the enforcement of Fundamental Rights.
+(2) Parliament may by law empower any other court to exercise within its jurisdiction the powers given to Supreme Court.
+
+A. Neither (1) nor (2)
+B. Only (1)
+C. Only (2)
+D. Both (1) and (2)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 32(2) writs + Art. 32(3) parliamentary empowerment.
+
+**Ans: D.** Both statements are correct.
+
+</details>
+
+**Q111. Jharkhand P.C.S. (Mains) 2016**
+
+Under which of the following Article of the Constitution of India, the Supreme Court is empowered to issue different 'Writs' for the enforcement of Fundamental Rights of the citizens?
+
+A. Article 32
+B. Article 33
+C. Article 132
+D. Article 226
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SC = 32; HC = 226 (wider).
+
+**Ans: A.** **Article 32**.
+
+</details>
+
+**Q112. U.P. Lower Sub. (Pre) 2015**
+
+Which one of the following writs is regarded as the greatest safeguard for the liberty of a person?
+
+A. Mandamus
+B. Habeas Corpus
+C. Certiorari
+D. Prohibition
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bulwark against illegal detention.
+
+**Ans: B.** **Habeas Corpus**.
+
+</details>
+
+**Q113. U.P.P.C.S. (Pre) (Re.) 2015**
+
+Which one of the following writs can be issued by a High Court to secure the liberty of the individual?
+
+A. Mandamus
+B. Quo-warranto
+C. Habeas Corpus
+D. Prohibition
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same liberty writ.
+
+**Ans: C.** **Habeas Corpus**.
+
+</details>
+
+**Q114. M.P.P.C.S. (Pre) 1993**
+
+The writ which may be filed for protection of right to Personal Freedom is -
+
+A. Mandamus
+B. Quo-warranto
+C. Habeas Corpus
+D. Certiorari
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Habeas fact.
+
+**Ans: C.** **Habeas Corpus**.
+
+</details>
+
+**Q115. Chhattisgarh P.C.S. (Pre) 2016**
+
+Match it .
+
+A. Habeas Corpus i. Be more fully informed
+B. Mandamus ii. By which authority
+C. Prohibition iii. We command
+D. Certiorari iv. Let us have the body
+E. Quo-Warranto v. Writ to Subordinate Courts
+
+A B C D E
+
+A. ii iv v iii i
+B. iv iii v ii i
+C. iv iii v i ii
+D. iv v iii i ii
+E. iii ii i v iv
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Literal meanings — body / command / subordinate / certified / authority.
+
+**Ans: C.** Habeas = body; Mandamus = command; Prohibition = to subordinate courts; Certiorari = be informed; Quo Warranto = by which authority.
+
+</details>
+
+**Q116. U.P.P.C.S. (Pre) 2019**
+
+Which of the following is NOT correctly matched?
+
+A. Habeas corpus 'To have body of'
+B. Mandamus 'We command'
+C. Prohibition 'To be certified'
+D. Quo-warranto 'By what authority'
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** “To be certified” = Certiorari, not Prohibition.
+
+**Ans: C.** Prohibition means “to forbid”. “To be certified” is **Certiorari**.
+
+</details>
+
+**Q117. 65th B.P.S.C. (Pre) 2019**
+
+Which one of the following constitutional remedies is also known as 'postmortem'?
+
+A. Prohibition
+B. Mandamus
+C. Certiorari
+D. Quo warranto
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Certiorari reviews after a decision (postmortem sense). Quo Warranto also tests an existing claim — some keys prefer more than one; BPSC key is Certiorari.
+
+**Ans: C.** **Certiorari** (BPSC key). Quo Warranto can also carry a postmortem sense.
+
+</details>
+
+**Q118. U.P.U.D.A./L.D.A. (Pre) 2001**
+
+In which petition, Judiciary orders Executives to perform their duty?
+
+A. Habeas Corpus
+B. Mandamus
+C. Prohibition
+D. Quo-Warranto
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mandamus = we command a public duty.
+
+**Ans: B.** **Mandamus**.
+
+</details>
+
+**Q119. U.P.P.C.S. (Mains) 2007**
+
+When the Supreme Court issues a writ to a person or to an institution to perform its duty, it is called
+
+A. Certiorari
+B. Mandamus
+C. Quo Warranto
+D. Habeas Corpus
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Mandamus fact.
+
+**Ans: B.** **Mandamus**.
+
+</details>
+
+**Q120. U.P. R.O./A.R.O. (Re.) (Pre) 2023**
+
+Which of the following pairs is not correctly matched?
+
+(Fundamental Rights) : (Articles)
+
+A. Right to Freedom : Articles 19-22
+B. Right to Freedom of Religion : Articles 23-24
+C. Cultural and Educational Rights : Articles 29 -30
+D. Right to Equality : Articles 14-18
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arts. 23–24 are Right against Exploitation; Religion is 25–28.
+
+**Ans: B.** Right to Freedom of Religion is **Articles 25–28**, not 23–24.
+
+</details>
+
+**Q121. Chhattisgarh P.C.S. (Pre) 2022**
+
+Correctly match the following :
+
+A. Cultural and Educational Rights
+B. Right to Constitutional Remedies
+C. Right against Exploitation
+D. Right to Equality
+
+(i) Articles 14-18
+(ii) Articles 23-24
+(iii) Articles 32
+(iv) Articles 29-30
+
+A. (iv) (iii) (i) (ii)
+B. (iii) (iv) (ii) (i)
+C. (iii) (iv) (i) (ii)
+D. (iv) (iii) (ii) (i)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard Part III group map.
+
+**Ans: D.** Cultural/Educational 29–30; Remedies 32; Exploitation 23–24; Equality 14–18.
+
+</details>
+
+**Q122. I.A.S. (Pre) 2002**
+
+Match List-I (Article of Indian Constitution) with List-II (Provisions) and select the correct answer using the code given below the lists:
+
+| List-I | List-II |
+|--------|---------|
+| A. Article 16 (2) | 1. No person shall be deprived of his property save by the authority of law. |
+| B. Article 29 (2) | 2. No person can be discriminated against in the matter of public appointment on the ground of race, religion or caste. |
+| C. Article 30 (1) | 3. All minorities whether based on religion or language shall have right to establish and administer educational institutions of their choice. |
+| D. Article 31 (1) | 4. No citizen shall be denied admission into any educational institution maintained by the State, or receiving State aid, on the grounds of religion, race, caste, language or any of them. |
+
+*Row order is not the answer code.*
+
+A. 2 4 3 1
+B. 3 1 2 4
+C. 2 1 3 4
+D. 2 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 16(2) employment; 29(2) admission; 30(1) minority institutions; 31(1) property (old).
+
+**Ans: A.** Code **2 4 3 1**.
+
+</details>
+
+**Q123. U.P. R.O./A.R.O. (Pre) (Re.) 2016**
+
+Which of the following is NOT correctly matched?
+
+Fundamental Right | Article
+---|---
+A. Abolition of Untouchability | Art. 17
+B. Protection against arrest and detention | Art. 23
+C. Freedom of Religion | Art. 25
+D. Protection of Interest of Minorities | Art. 29
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arrest/detention = Art. 22; Art. 23 is trafficking/forced labour.
+
+**Ans: B.** Protection against arrest and detention is **Article 22**.
+
+</details>
+
+**Q124. R.A.S./R.T.S. (Pre) 2016 / U.P.B.E.O. (Pre) 2019**
+
+Match list-I with List-II and select the correct answer from the code given below :
+
+A. Abolition of Titles — (i) Article 29
+B. Freedom to manage Religious Affairs — (ii) Article 21-A
+C. Protection of Language of Minorities — (iii) Article 18
+D. Right to Education — (iv) Article 26
+
+A. (iii) (ii) (i) (iv)
+B. (iv) (iii) (ii) (i)
+C. (ii) (iii) (iv) (i)
+D. (iii) (iv) (i) (ii)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 18 titles; 26 religious affairs; 29 language/culture; 21A education.
+
+**Ans: D.** 18 → 26 → 29 → 21A.
+
+</details>
+
+**Q125. U.P.P.C.S. (Mains) 2007**
+
+Match List-I with List-II and select the correct answer by using the code given below the list:
+
+A. Fundamental Duties
+B. Parliament can amend Fundamental Rights
+C. Doctrine of Basic Structure
+D. Prohibition of Trafficking in Human Beings
+
+1. Minerva Mills Case
+2. Article 23 of the Constitution
+3. 42th Amendment of the Constitution
+4. Keshvanand Bharti Case
+
+A. 3 4 1 2
+B. 4 3 2 1
+C. 2 1 4 3
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dump keys Basic Structure to *Minerva Mills* (approved/applied); *Kesavananda* propounded it and also locked amendability of FRs.
+
+**Ans: A.** Duties → 42nd; amend FR → *Kesavananda*; Basic Structure → *Minerva Mills* (as keyed); trafficking → Art. 23.
+
+</details>
+
+**Q126. UP R.O./A.R.O. (Pre) 2023**
+
+Which of the following statement/s is/are incorrect?
+
+A. Part III on Fundamental Rights of the Constitution is based upon Bill of Rights of the U.S.A.
+B. "Right to Die" is a Fundamental Right under Article 21 of the Constitution.
+C. Indian Constitution is a complete Federal Constitution.
+D. Fundamental Rights can be removed under the Indian Constitution.
+
+A. Only B, C and D
+B. Only C and D
+C. Only B and C
+D. Only B
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A is correct (US Bill of Rights form). B, C, D are incorrect in standard teaching.
+
+**Ans: A.** Incorrect are B, C and D. Part III is like the US Bill of Rights. Right to die is not a free-standing FR under Art. 21 in that sense. India is quasi-federal. FRs cannot be removed so as to destroy basic structure.
+
+</details>
+
+**Q127. M.P.P.C.S. (Pre) 2024**
+
+In which of the following cases did the Supreme Court of India declare the prevalence of Fundamental rights over Directive Principles of the State Policy in case of conflict between the two?
+
+A. Golaknath v. State of Punjab (1967)
+B. The State of Madras v. Champakam Dorairajan (1951)
+C. Kesavananda Bharati v. the State of Kerala (1973)
+D. Minerva Mills v. the Union of India (1980)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Early FR-over-DPSP case → 1st Amendment 15(4).
+
+**Ans: B.** ***Champakam Dorairajan* (1951)**.
+
+</details>
+
+**Q128. M.P.P.C.S. (Pre) 1991**
+
+By which of the following case Parliament got the right to amend Fundamental Rights?
+
+A. Keshvananda Bharati Case
+B. Rajnarayan Vs. Indira Gandhi Case
+C. Golaknath’s Case
+D. Sajjan Singh Case
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After Golaknath block, *Kesavananda* restored amendability within basic structure.
+
+**Ans: A.** ***Kesavananda Bharati***.
+
+</details>
+
+**Q129. U.P.P.C.S. (Pre) 2024**
+
+Identify the correct chronological sequence of the following :
+
+1. Shankari Prasad vs. Union of India
+2. Sajjan Singh vs. State of Rajasthan
+3. Golaknath vs. State of Punjab
+4. Kesavananda Bharati vs. State of Kerala
+
+A. 1, 4, 3, 2
+B. 3, 2, 1, 4
+C. 1, 2, 3, 4
+D. 3, 4, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1951 → 1965 → 1967 → 1973.
+
+**Ans: C.** Shankari Prasad → Sajjan Singh → Golaknath → Kesavananda.
+
+</details>
+
+**Q130. U.P. Lower Sub. (Pre) 2013**
+
+The Supreme Court of India has propounded the ‘Doctrine of Basic Structure’ of the Constitution in which of the following cases?
+
+A. Golaknath Vs. Punjab State
+B. Sajjan Singh Vs. Rajasthan State
+C. Keshavananda Bharati Vs. Kerala State
+D. Shankari Prasad Vs. Indian Union
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Basic Structure = *Kesavananda* 1973.
+
+**Ans: C.** ***Kesavananda Bharati***.
+
+</details>
+
+**Q131. U.P.P.C.S. (Pre) (Re.) 2015**
+
+Which one of the following cases outlined the basic structure doctrine of the Indian Constitution?
+
+A. Gopalan v/s Madras State
+B. Golaknath v/s Punjab State
+C. Keshavananda Bharati v/s Kerala State
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Basic Structure case.
+
+**Ans: C.** ***Kesavananda Bharati***.
+
+</details>
+
+**Q132. R.A.S./R.T.S. (Pre) 2018**
+
+Select the correct chronological order of the following judgements dealing with Fundamental Rights:
+
+(A) Golaknath v/s State of Punjab
+(B) Keshvananda Bharati v/s State of Kerala
+(C) Minerva Mills v/s Union of India
+(D) A.K Gopalan v/s State of Madras
+
+A. (D), (B), (C), (A)
+B. (A), (B), (C), (D)
+C. (D), (A), (B),(C)
+D. (D), (C), (B), (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1950 → 1967 → 1973 → 1980.
+
+**Ans: C.** Gopalan → Golaknath → Kesavananda → Minerva Mills.
+
+</details>
+
+**Q133. I.A.S. (Pre) 2021**
+
+What is the position of the Right to Property in India?
+
+A. Legal right available to citizens only
+B. Legal right available to any person
+C. Fundamental Right available to citizens only
+D. Neither Fundamental Right nor legal right
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 300A — any person; not a Part III FR after 44th.
+
+**Ans: B.** Legal right available to **any person**.
+
+</details>
+
+**Q134. Uttarakhand P.C.S. (Pre) 2021**
+
+Right of Property belongs to which category amongst the following?
+
+A. Legal Right
+B. Fundamental Right
+C. Natural Right
+D. Human Right
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 300A legal right.
+
+**Ans: A.** **Legal Right**.
+
+</details>
+
+**Q135. U.P.P.C.S. (Pre) 1996**
+
+Right to Property is a –
+
+A. Fundamental Right
+B. Natural Right
+C. Statutory Right
+D. Legal Right
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Some keys accept both statutory and legal; standard teaching is **legal right** under Art. 300A.
+
+**Ans: D.** **Legal Right** (Art. 300A). Some older keys also accept statutory right.
+
+</details>
+
+**Q136. Chhattisgarh P.C.S. (Pre) 2020**
+
+Statement I : Right to property was deleted from the list of Fundamental Rights by the 44th Amendment Act, 1978.
+
+Statement II : Right to property was made a legal right under Article 300-A in Part XII of the Constitution.
+
+A. Statement I is true, but Statement II is false.
+B. Statement I is false, but Statement II is true.
+C. Statement I and Statement II both are true.
+D. Statement I and Statement II both are false.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Classic 44th / 300A pair.
+
+**Ans: C.** Both statements are true.
+
+</details>
+
+**Q137. U.P.P.C.S. (Pre) 1992 / Uttarakhand P.C.S. (Pre) 2010**
+
+At present, right to property under the Constitution of India is a –
+
+A. Fundamental Right
+B. Legal Right
+C. Moral Right
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 300A fact.
+
+**Ans: B.** **Legal Right**.
+
+</details>
+
+**Q138. I.A.S. (Pre) 2005**
+
+Consider the following statements –
+
+1. Article 301 is related to Right to Property.
+2. Right to Property is a legal right but not a Fundamental Right.
+3. Article 300-A was inserted in Indian Constitution by 44th Amendment during the period of Congress Government.
+
+A. Only 2
+B. 2 and 3
+C. 1 and 3
+D. 1,2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 301 = trade/commerce; 300A under Janata (44th), not Congress.
+
+**Ans: A.** Only statement 2 is correct.
+
+</details>
+
+**Q139. M.P.P.C.S. (Pre) 2025**
+
+In present times, Right to Property has been accepted in the Indian Constitution in which of the following forms?
+
+A. Fundamental Right
+B. Directive Principles of State Policy
+C. Human Right
+D. Legal Right
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same legal-right fact.
+
+**Ans: D.** **Legal Right**.
+
+</details>
+
+**Q140. U.P.U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+By which of the following Right to Property has been omitted?
+
+A. 40th Amendment of Constitution
+B. 42nd Amendment of Constitution
+C. 44th Amendment of Constitution
+D. 46th Amendment of Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 44th Amendment 1978.
+
+**Ans: C.** **44th Amendment**.
+
+</details>
+
+**Q141. M.P.P.C.S. (Pre) 1994 / U.P.P.C.S. (Mains) 2015**
+
+When was the Fundamental Right to property abolished?
+
+A. In 1978, by 44th Constitutional Amendment.
+B. In 1982, by 46th Constitutional Amendment.
+C. In 1973, by 31st Constitutional Amendment
+D. None of these.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 44th / 1978.
+
+**Ans: A.** **1978, 44th Amendment**.
+
+</details>
+
+**Q142. M.P.P.C.S. (Pre) 2019**
+
+Which of the following Amendment Act of the Constitution deleted the Right to Property from the list of Fundamental Rights?
+
+A. 37th Constitution Amendment Act, 1975
+B. 38th Constitution Amendment Act, 1975
+C. 44th Constitution Amendment Act, 1978
+D. 42nd Constitution Amendment Act, 1976
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 44th fact.
+
+**Ans: C.** **44th Amendment Act, 1978**.
+
+</details>
+
+**Q143. U.P.P.C.S. (Mains) 2013 / U.P. Lower Sub. (Pre) 2013**
+
+By which amendment the Right to Property was abolished?
+
+A. 24th
+B. 44th
+C. 25th
+D. 42nd
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 44th.
+
+**Ans: B.** **44th**.
+
+</details>
+
+**Q144. U.P.P.C.S. (Mains) 2014 / (Pre) 2007**
+
+The 44th amendment to the Constitution of India removed the following right from the category of Fundamental Rights:
+
+A. Freedom of Speech
+B. Constitutional Remedies
+C. Property
+D. Freedom of Religion
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Property removed from Part III.
+
+**Ans: C.** **Property**.
+
+</details>
+
+**Q145. Chhattisgarh P.C.S. (Pre) 2011 / U.P. Lower (Spl) (Pre) 2004**
+
+The ‘Right to Property’ was deleted from the list of fundamental rights guaranteed to the citizens of India by–
+
+A. Forty-second Amendment
+B. Forty-third Amendment
+C. Forty-fourth Amendment
+D. Forty-fifth Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Forty-fourth.
+
+**Ans: C.** Forty-fourth Amendment.
+
+</details>
+
+**Q146. U.P.P.C.S. (Pre) 1990 / 2002 / Uttarakhand P.C.S. (Pre) 2002**
+
+Which one of the following is not a fundamental right?
+
+A. Right to Freedom
+B. Right to Equality
+C. Right to Property
+D. Right Against Exploitation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Property no longer Part III.
+
+**Ans: C.** Right to Property.
+
+</details>
+
+**Q147. 42nd B.P.S.C. (Pre) 1997**
+
+Which one of the following is not a fundamental right?
+
+A. Right to Constitutional Remedy
+B. Right to Property
+C. Right to Peaceful Assembly
+D. Right to free movement all over the Country
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same property-not-FR fact.
+
+**Ans: B.** Right to Property.
+
+</details>
+
+**Q148. U.P.P.C.S. (Mains) 2015**
+
+Which one of the following is not among the six fundamental rights provided by the Constitution of India?
+
+A. Right to Equality
+B. Right to protest
+C. Right against Exploitation
+D. Right to Freedom of Religion
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** “Right to protest” is not a separate sixth-group label.
+
+**Ans: B.** Right to protest.
+
+</details>
+
+**Q149. M.P.P.C.S. (Pre) 2010**
+
+Indian Constitution does not grant which of the following rights?
+
+A. Right of Equal Shelter
+B. Right to Equality
+C. Right to Freedom of Religion
+D. Right to Liberty
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** No textual “Right of Equal Shelter” as a listed FR.
+
+**Ans: A.** Right of Equal Shelter.
+
+</details>
+
+**Q150. R.A.S./R.T.S. (Pre) 2003**
+
+Which of the following is not a fundamental right granted by the Indian Constitution to the citizens?
+
+A. Right to Settle in any part of the Country
+B. Right to Gender Equality
+C. Right to Information
+D. Right Against Exploitation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** RTI is not textually listed; SC reads information into 19(1)(a) — stem asks what is not granted as a listed FR.
+
+**Ans: C.** Right to Information (as a separately listed FR). Trap: SC reading under Art. 19(1)(a).
+
+</details>
+
+**Q151. I.A.S. (Pre) 1996**
+
+Consider the following statements:
+No one can be compelled to sing the National Anthem since –
+
+1. It will be violation of the Right to Freedom of Speech and Expression
+2. It will be violation of the Right to Freedom of Conscience and Practice and Propagation of Religion
+3. There is no legal provision obliging anyone to sing the National Anthem
+
+A. 1 and 2 are correct
+B. 2 and 3 are correct
+C. 1, 2 and 3 are correct
+D. none is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Bijoe Emmanuel* — conscience + speech; no law forces singing.
+
+**Ans: C.** All three statements are correct.
+
+</details>
+
+**Q152. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Choose the fundamental rights available to Indian Citizen but not to aliens:
+
+I. Freedom of Speech and Expression
+II. Equality Before the Law
+III. Right of Minorities
+IV. Protection of Life and Liberty
+
+A. I and III
+B. I and IV
+C. II and IV
+D. II and III
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Citizens-only = 19 and 29/30; 14 and 21 for all persons.
+
+**Ans: A.** Speech (19) and minority rights (29/30).
+
+</details>
+
+**Q153. Raj. P.C.S. (Pre) 2024**
+
+Fundamental Rights provided by which of the following groups of Articles are granted only to 'Citizens' of India?
+
+A. Articles 14, 20, 23 and 30
+B. Articles 15, 21, 25 and 28
+C. Articles 20, 21, 25 and 30
+D. Articles 15, 16, 19 and 30
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Citizens-only map = 15, 16, 19, 29, 30.
+
+**Ans: D.** Articles **15, 16, 19 and 30**.
+
+</details>
+
+**Q154. U.P.P.C.S. (Pre) 2007 / (Re.) 2015**
+
+Which of the following fundamental rights is not available to foreign citizens?
+
+A. Equality Before Law
+B. Right to Freedom of Expression
+C. Right to Freedom of Life and liberty
+D. Right Against Exploitation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Expression = Art. 19 citizens only.
+
+**Ans: B.** Right to Freedom of Expression.
+
+</details>
+
+**Q155. U.P.P.S.C. (GIC) 2010**
+
+Which one of the following rights is available to all persons under the Indian Constitution?
+
+A. Right to Equal Protection of the Law.
+B. Right Against Discrimination.
+C. Right to Freedom of speech and expression.
+D. Cultural and Educational Rights.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 14 for all persons; 15/16/19/29–30 citizens.
+
+**Ans: A.** Equal Protection of the Law (Art. 14).
+
+</details>
+
+**Q156. U.P.P.C.S. (Mains) 2002**
+
+Which of the following rights are not available to all persons in India?
+
+1. Equality Before the Law
+2. Right Against Discrimination
+3. Freedom to Move Freely throughout the Country
+4. Right to Contest Election
+
+A. 1, 3, 4
+B. 1, 2, 4
+C. 1, 2, 3
+D. 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only equality before law (14) is for all persons among these.
+
+**Ans: D.** 2, 3 and 4 are not available to all persons.
+
+</details>
+
+**Q157. Jharkhand P.C.S. (Pre) 2011 / 53rd to 55th B.P.S.C. (Pre) 2011**
+
+Which of the following rights conferred by the Constitution of India is also available to non-citizens?
+
+A. Right to Constitutional Remedies
+B. Freedom of Speech
+C. Freedom to Move and Settle in any Part of the Country
+D. Freedom to Acquire Property
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 32 available to persons; 19 freedoms citizens-only.
+
+**Ans: A.** Right to Constitutional Remedies.
+
+</details>
+
+**Q158. I.A.S. (Pre) 1999**
+
+A British citizen staying in India cannot claim right to –
+
+A. Freedom of Trade and Profession
+B. Equality before the Law
+C. Protection of life and Personal Liberty
+D. Freedom of Religion
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 19(1)(g) citizens only.
+
+**Ans: A.** Freedom of Trade and Profession.
+
+</details>
+
+**Q159. Uttarakhand P.C.S. (Pre) 2024**
+
+Which of the following rights is not enjoyed by a British Citizen residing in India?
+
+A. Freedom of Trade and Profession
+B. Equality Before Law
+C. Freedom of Life and Liberty
+D. Religious Freedom (Faith)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 19(1)(g) citizens-only trap.
+
+**Ans: A.** Freedom of Trade and Profession.
+
+</details>
+
+**Q160. 70th B.P.S.C. Re. 2024**
+
+A British Citizen staying in India can not claim right to
+
+A. Freedom of religion
+B. Protection of life and personal liberty
+C. Freedom of trade and profession
+D. Equality before law
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same British citizen / 19(1)(g) trap.
+
+**Ans: C.** Freedom of trade and profession.
+
+</details>
+
+**Q161. I.A.S. (Pre) 2011**
+
+In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to?
+
+1. It can establish and administer exclusive educational institutions.
+2. The President of India automatically nominates a representative of the community to Lok Sabha.
+3. It can derive benefits from the Prime Minister’s 15-Point Programme.
+
+A. 1 only
+B. 2 and 3
+C. 1 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** No automatic LS nomination for minorities.
+
+**Ans: C.** Statements 1 and 3. Statement 2 is wrong.
+
+</details>
+
+**Q162. U.P. U.D.A./L.D.A. (Pre) 2010 / 2001**
+
+Bonded Labour was abolished in India, by an Act of Parliament enacted in the year –
+
+A. 1971
+B. 1976
+C. 1979
+D. 1981
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bonded Labour System (Abolition) Act, 1976 (after 1975 Ordinance).
+
+**Ans: B.** **1976**.
+
+</details>
+
+**Q163. U.P. Lower Sub. (Pre) 2002 / (Spl) (Pre) 2003**
+
+The child labour was prohibited in hazardous employment by–
+
+A. Indian Constitution
+B. The judgment of Supreme Court on December 10, 1996
+C. United Nations Charter
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 24 + UN childhood principles + *M.C. Mehta* 1996.
+
+**Ans: D.** All of the above.
+
+</details>
+
+### Section F — Rights–Duties, Service & Charter
+
+**Q164. M.P.P.C.S. (Pre) 2013**
+
+Fill in the blank:
+_________without duties are like men without shadows.’
+
+A. Belief
+B. Rights
+C. Moral
+D. Work
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ernest Barker line — rights and duties correlative.
+
+**Ans: B.** **Rights**.
+
+</details>
+
+**Q165. I.A.S. (Pre) 2017**
+
+In the context of India, which one the following is the correct relationship between Rights and Duties?
+
+A. Rights are correlative with Duties
+B. Rights are personal and hence independent of society and Duties
+C. Rights, not Duties, are important for the advancement of the personality of the citizen
+D. Duties, not Rights, are important for the stability of the State
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rights and duties are two faces of the same coin.
+
+**Ans: A.** Rights are **correlative** with Duties.
+
+</details>
+
+**Q166. U.P.P.C.S. (Pre) 2017**
+
+Which one of the following statements is correct?
+
+A. Rights are claims of the State against the citizens
+B. Rights are privileges which are incorporated in the Constitution of a state
+C. Rights are claims of the citizens against the State.
+D. Rights are privileges of a few citizens against the many
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** FRs as guarantees against State action.
+
+**Ans: C.** Rights are claims of the citizens against the State.
+
+</details>
+
+**Q167. Uttarakhand P.C.S. (Pre) 2025**
+
+Arrange the following states chronologically with respect to enactment of ‘Right to Service Act’ :
+
+(i) Punjab (ii) Assam (iii) Maharashtra (iv) Gujarat
+
+A. (i), (ii), (iv), (iii)
+B. (i), (ii), (iii), (iv)
+C. (iii), (iv), (i), (ii)
+D. (iii), (iv), (ii), (i)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gazette chronology keyed as Punjab → Assam → Gujarat → Maharashtra.
+
+**Ans: A.** Punjab, Assam, Gujarat, Maharashtra.
+
+</details>
+
+**Q168. Uttarakhand P.C.S. (Pre) 2016**
+
+The concept of 'Right to Service' originated in
+
+A. The United States of America
+B. Switzerland
+C. Great Britain
+D. China
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Citizen-service time-bound delivery idea from Britain (UK).
+
+**Ans: C.** **Great Britain**.
+
+</details>
+
+**Q169. Raj. P.C.S. (Pre) 2024**
+
+The aim of citizen's charter is not -
+
+A. Quality and time frame service delivery
+B. Citizen friendly governance
+C. Accountable Government
+D. To create effective hearing system of public demands
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Charter = standards, time-bound delivery, accountability — not primarily a public-hearing machinery.
+
+**Ans: D.** Creating an effective hearing system of public demands is **not** the aim of the Citizen’s Charter as keyed.
 
 </details>
 

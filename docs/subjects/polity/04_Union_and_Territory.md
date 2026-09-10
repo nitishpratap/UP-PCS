@@ -135,8 +135,9 @@ D. Altering the name of a State — Power of a State Legislature
 **Acquisition — how territory actually came in**
 - **Chandernagore** (French) — 1954; 10th Amendment, 1961 (merged into West Bengal).
 - **Portuguese:** Dadra & Nagar Haveli (1954/UT 1961); **Goa, Daman & Diu** — Operation Vijay **19 Dec 1961** → 12th Amendment, 1962 (UT); Goa became a State **1987**.
+- **Trap:** Dadra & Nagar Haveli were under **Portuguese** rule till **1954** — **not French** (IAS 2000 incorrect-statement stem).
 - **French establishments (Puducherry etc.)** — de facto **1954**, de jure **1962** (14th Amendment; Treaty of Cession).
-- **Sikkim** — Indian protectorate → **35th Amendment, 1974** (associate State, Art. 2A) → referendum → **36th Amendment, 1975** (full 22nd State; Art. 2A omitted; **371F**).
+- **Sikkim** — Indian protectorate → **35th Amendment, 1974** (associate State, Art. 2A) → referendum → **36th Amendment, 1975** (full **22nd State**; Art. 2A omitted; **371F**).
 - **Bangladesh LBA** — India **received** enclaves as well as transferred some (**100th Amendment, 2015**).
 
 **Cession — amendments**
@@ -246,7 +247,7 @@ D. 1 and 2
 - **Art. 239:** President administers a UT through an **Administrator** appointed by him. The Administrator **may be designated Lieutenant Governor**.
 - **Art. 239A** (14th Amendment, **1962**): Parliament may create a **Legislature and/or Council of Ministers** for certain UTs — today the living case is **Puducherry** (originally also drafted for HP, Manipur, Tripura, Goa, Daman & Diu).
 - **Art. 239AA / 239AB:** special code for **Delhi** (69th Amendment).
-- **Art. 240:** President may make **regulations** for the peace, progress and good government of specified UTs **without** a legislature (and, in some cases, when the legislature is dissolved/suspended). Same force as an Act of Parliament.
+- **Art. 240:** President may make **regulations** for the peace, progress and good government of specified UTs **without** a legislature (and, in some cases, when the legislature is dissolved/suspended). Same force as an Act of Parliament. Living list: **Andaman & Nicobar**; **Lakshadweep**; **Dadra & Nagar Haveli and Daman & Diu**; **Puducherry** (when the Assembly is dissolved/suspended). **Goa is a State** — it is **not** on the Art. 240 UT list.
 - **Art. 241:High Court** for a UT; Parliament may include a UT in a neighbouring State’s HC (e.g. Chandigarh → Punjab & Haryana HC).
 
 | UT type | UTs | Political executive |
@@ -516,13 +517,14 @@ Three modes. India does **not** allow **dual citizenship**.
 | **PIO** | Foreign citizen of Indian origin | Foreign | No | PIO **card scheme withdrawn**; merged into **OCI from 9 Jan 2015** |
 | **OCI** | Foreign citizen registered as Overseas Citizen of India (2005 scheme; s. 7A) | Foreign | **No** vote; **no** LS/RS/Assembly; **no** constitutional posts (President, VP, Judge, etc.); **no** public employment as of right | **Not dual citizenship.** Lifelong multi-entry visa; parity with NRIs in specified economic/education matters. Eligible to **register as citizen** after 5 years OCI + 1 year residence |
 
-**Who is “of Indian origin” ():** typically a person who, or whose parents/grandparents, were citizens of India (or eligible) as notified — **not** a person who ever was a citizen of **Pakistan or Bangladesh** (OCI bar, with CAA sitting on a different track).
+**Who is “of Indian origin” for OCI:** typically a person who, or whose parents/grandparents, were citizens of India (or eligible) as notified — **not** a person who ever was a citizen of **Pakistan or Bangladesh** (OCI bar under s. 7A; CAA sits on a different track for listed migrants).
 
 ---
 
 ## Citizenship Amendment Act (basic)
 
 - **Citizenship (Amendment) Act, 2019** — amends the **1955** Act; rules notified **2024**.
+- **Parliament passage:** Lok Sabha **9 Dec 2019**; Rajya Sabha / Bill passed by Parliament **11 Dec 2019**; President’s assent **12 Dec 2019**.
 - Creates an exception to the **illegal-migrant bar** for a **listed religious group** from **three countries**.
 
 | Cue | Fact |
@@ -711,6 +713,1474 @@ D. None of the above
 **B — 20.**
 
 </details>
+
+---
+
+## Ghatnachakra Extra Drill — States, UTs & Citizenship
+
+Teaching sits in Topic 4 (Arts. 1–4, SRC, UTs, Citizenship). Full MCQs from Ghatnachakra so you need not reopen the book.
+
+### Section A — States and the Union Territories
+
+**Q1. Chhattisgarh P.C.S. (Pre) 2023**
+
+Consider the following statements about Union and its Territory.
+
+1. India comprises 28 States and 8 Union Territories.
+2. India, a Union of States, is a Sovereign, Socialist Secular Democratic Republic with a parliamentary system of Government.
+
+Which of the Statement/s given above is/are correct?
+
+A. 1 Only
+B. 2 Only
+C. Both 1 and 2
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Present map + Preamble-style description of the Union.
+
+**Ans: C.** Both statements are correct. India is a **Union of States** with **28 States and 8 UTs** and a parliamentary system. Trap: outdated counts such as 29 States or 7/9 UTs.
+
+</details>
+
+**Q2. R.A.S./R.T.S. (Pre) 2003**
+
+By which name/names is our country mentioned in the Constitution?
+
+A. Bharat and India
+B. Bharat only
+C. Hindustan and Indian
+D. Bharat, Hindustan and India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 1(1) naming formula.
+
+**Ans: A.** **Article 1** says **India, that is Bharat**. Hindustan is not a constitutional name. Trap: adding Hindustan as a third official label.
+
+</details>
+
+**Q3. U.P.P.C.S. (Pre) 2008**
+
+According to Article 1 of Indian Constitution, India is –
+
+A. Group of States
+B. Federation of States
+C. Confederation of States
+D. The Union of States
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 1 wording — Union not federation.
+
+**Ans: D.** **Article 1** declares India to be a **Union of States**. Territory = States + UTs + acquired territory. Trap: calling it a federation or confederation in the Art. 1 sense.
+
+</details>
+
+**Q4. Chhattisgarh P.C.S. (Pre) 2014**
+
+Indian Parliament has the power to create a new State under which of the following Constitutional provisions?
+
+A. Article 1
+B. Article 2
+C. Article 3
+D. Article 4
+E. Article 5
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 3 forms/alters existing map; Art. 2 admits new.
+
+**Ans: C.** **Article 3** empowers Parliament to form a new State by separation or union of existing territory. **Article 2** is admission/establishment of a State that was not already a State of the Union. Trap: swapping Art. 2 and Art. 3.
+
+</details>
+
+**Q5. U.P.P.C.S. (Mains) 2008**
+
+The power to carve out a new State is vested in –
+
+A. The Parliament
+B. The President
+C. The Council of Ministers
+D. States’ Reorganisation Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Who legislates under Art. 3.
+
+**Ans: A.** Only **Parliament** may form a new State under **Article 3**. The President recommends and refers for views; SRC only recommended. Trap: treating the President or SRC as the carving authority.
+
+</details>
+
+**Q6. U.P.P.C.S. (Mains) 2015**
+
+Which one of the following is empowered to alter the boundaries of States under the Constitution of India?
+
+A. Parliament
+B. Lok Sabha
+C. President
+D. Supreme Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 3 boundary power.
+
+**Ans: A.** **Parliament** alters State boundaries under **Article 3**. Trap: Lok Sabha alone or President by fiat.
+
+</details>
+
+**Q7. U.P.R.O./A.R.O. (Mains) 2014**
+
+Who among the following has the executive power to admit a State in the Union or establish new States?
+
+A. Parliament
+B. Lok Sabha
+C. Political Parties
+D. Central Government
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 2 admission power.
+
+**Ans: A.** **Parliament** admits or establishes new States under **Article 2**. Trap: Central Government as a non-legislative shortcut.
+
+</details>
+
+**Q8. U.P.P.C.S. (Pre) 1990**
+
+Power to include or admit any State into Union of India is given to-
+
+A. President of India
+B. Prime Minister
+C. Parliament
+D. Supreme Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 2 again.
+
+**Ans: C.** **Parliament** under **Article 2**. Trap: President or PM as the admitting authority.
+
+</details>
+
+**Q9. U.P.P.C.S. (Mains) 2011**
+
+Which one of the following is not correct in the matter of formation of new States?
+
+(a) Parliament may by law form a new State.
+(b) Such law shall contain provisions for the amendment of the First Schedule and the Fourth Schedule of the Constitution.
+(c) Such law shall be deemed to be an amendment of the Constitution for the purpose of Article 368.
+(d) No Bill for enacting such law shall be introduced in the Parliament unless it has been referred to the Legislature of the States, whose areas, boundaries or name is affected.
+
+A. Parliament may by law form a new State.
+B. Such law shall contain provisions for the amendment of the First Schedule and the Fourth Schedule of the Constitution.
+C. Such law shall be deemed to be an amendment of the Constitution for the purpose of Article 368.
+D. No Bill for enacting such law shall be introduced in the Parliament unless it has been referred to the Legislature of the States, whose areas, boundaries or name is affected.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 4 — not an Art. 368 amendment.
+
+**Ans: C.** A law under Arts. 2/3 is **not** deemed an amendment under **Article 368**. Simple majority suffices. Trap: treating First/Fourth Schedule changes as a 368 special-majority amendment.
+
+</details>
+
+**Q10. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Creation of a new state requires a ....... majority for Constitutional Amendment.
+
+A. Simple
+B. Two-third
+C. Three-fourth
+D. Two-third plus ratification by half of all states
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Simple majority; not Art. 368.
+
+**Ans: A.** Parliament forms new States by **simple majority** under Arts. 2–4. Such a law is **not** an Art. 368 amendment. Trap: demanding special majority or State ratification.
+
+</details>
+
+**Q11. U.P.P.C.S. (Pre) 2016**
+
+A Bill for the purpose of creating a new State in India must be passed by
+
+A. A simple majority in Parliament and ratification by not less than two-third of the States
+B. A simple majority in Parliament
+C. A two-third majority in Parliament and ratification by not less than two-third of the States
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Simple majority only.
+
+**Ans: B.** **Simple majority in Parliament** is enough. No State ratification. Trap: grafting Art. 368 ratification onto Art. 3 Bills.
+
+</details>
+
+**Q12. U.P.P.C.S. (Pre) 1999**
+
+Assertion (A) : India is not a Union.
+Reason (R) : Union Parliament has the power to alter the area, boundary, and name of any State even without its consent.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A/R: Art. 1 Union vs Art. 3 power.
+
+**Ans: D.** **A is false** — Art. 1 says India **is** a Union of States. **R is true** — Parliament may alter area/boundary/name without State consent. Trap: reading “Union” as denying Art. 3 flexibility.
+
+</details>
+
+**Q13. Chhattisgarh P.C.S. (Pre) 2019**
+
+The consent of .......... required for alternating its boundaries according to the Constitutional provisions.
+
+A. the State Legislatures under house is
+B. the Chief Minister is
+C. the state is
+D. the state is not
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** State consent not required under Art. 3.
+
+**Ans: D.** State **consent is not required**. Parliament may alter boundaries after seeking **views**, which are non-binding. Trap: treating referral as veto.
+
+</details>
+
+**Q14. U.P.P.C.S. (Pre.) 2023**
+
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R) :
+
+Assertion (A) : The President can recommend to the Parliament to change the boundary of any state after seeking views of the concerned Legislature of that state on the subject within specified period.
+Reason (R) : It is not mandatory for the President to accept the proposal of the concerned State Legislature.
+
+Select the correct answer using the code given below :
+
+A. (A) is true, but (R) is false.
+B. Both (A) and (R) are true, but (R) is not correct explanation of (A).
+C. (A) is false, but (R) is true.
+D. Both (A) and (R) are true, and (R) is correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A/R: referral for views; President not bound.
+
+**Ans: B.** Both A and R are true. R states a related fact but does **not** explain why the President seeks views before recommending. Trap: picking “R explains A” because both sound correct.
+
+</details>
+
+**Q15. U.P.P.C.S. (Pre) 2013**
+
+Which among the following is not a ‘constitutional provision for the formation of new States?
+
+A. Increase the area of any State.
+B. Diminish the area of any State.
+C. Alter the name of any State.
+D. A State may include a Union territory.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** What Art. 3 does / does not say.
+
+**Ans: D.** Art. 3 lists increase/diminish area, alter boundaries/name, form States. A State **cannot itself** include a UT. Trap: reading Explanation I/II loosely as a State power.
+
+</details>
+
+**Q16. U.P.P.C.S. (Pre) 2020**
+
+Which of the following is NOT possible by a law of Parliament under Article 3 of the Constitution?
+
+A. Formation of new States
+B. Alteration of areas of States
+C. Alteration of boundaries of States
+D. Admission of new States
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Admission = Art. 2.
+
+**Ans: D.** **Admission** of new States is **Article 2**, not Article 3. Trap: packing admission into Art. 3’s list.
+
+</details>
+
+**Q17. U.P.P.C.S. (Mains) 2008**
+
+Consider the following statement and answer using codes given below:
+
+1. The term ‘Union of States’ has been used in the constitution because Indian States have no right of separation.
+2. S.K. Dhar Commission had given preference to administrative convenience rather language for re-organisation of States.
+3. Congress Committee including Jawaharlal Nehru, Sardar Patel, and Pattabhi Sitaramayya was not in favour of reorganisation of States on the basis of language.
+
+Which of the following statement is/are correct?
+
+A. Only 1
+B. Only 1 and 2
+C. Only 1 and 3
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Union + Dhar + JVP trio.
+
+**Ans: D.** All three are correct. Ambedkar’s Union logic; Dhar preferred administration over language; **JVP** rejected linguistic reorganisation. Trap: parking Sitaramayya in the SRC.
+
+</details>
+
+**Q18. U.P.P.C.S. (Pre) 2019**
+
+With reference to the federal system in India, which of the Statements is/are correct?
+
+1. States have no right to secede from the Union under the constitution of India.
+2. Just advocacy of secession will have the protection of freedom of expression.
+
+Select the correct answer from the codes given below:
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** No secession; advocacy not protected.
+
+**Ans: A.** Statement 1 is correct. Statement 2 is incorrect — even advocacy of secession can face reasonable restriction under Art. 19. Trap: treating secession talk as absolute free speech.
+
+</details>
+
+**Q19. M.P.P.C.S. (Pre) 2004**
+
+How many States and UTs did the States Reorganisation Commission create in 1956?
+
+A. 14 States and 6 UTs
+B. 17 States and 6 UTs
+C. 14 States and 8 UTs
+D. 17 States and 8 UTs
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1956 implemented map.
+
+**Ans: A.** From **1 November 1956**: **14 States and 6 UTs**. SRC had recommended 16 States and 3 UTs. Trap: quoting the recommendation instead of the Act’s result.
+
+</details>
+
+**Q20. M.P.P.C.S. (Pre) 2020**
+
+How many States and Union Territories were established by the 1956, State Restructuring Act?
+
+A. 14 States, 6 Union Territories
+B. 18 States, 9 Union Territories
+C. 22 States, 8 Union Territories
+D. 21 States, 7 Union Territories
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 1956 count.
+
+**Ans: A.** **14 + 6** under the States Reorganisation Act, 1956. Trap: later maps (28/8) back-projected to 1956.
+
+</details>
+
+**Q21. U.P.P.C.S. (Pre) 2002**
+
+How many States and Union Territories are there in India?
+
+A. 25 States and 7 Union Territories
+B. 28 States and 7 Union Territories (including national capital territory-1)
+C. 24 States and 6 Union Territory
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Stem year-sensitive; none matched then.
+
+**Ans: D.** At the time of the stem (2002), none of A–C matched the then map (**28 States and 7 UTs**). Today the living count is **28 States and 8 UTs**. Trap: forcing a “present” key onto a 2002 stem.
+
+</details>
+
+**Q22. Uttarakhand U.D.A./L.D.A. (Pre) 2007 / U.P.P.C.S. (Mains) 2013**
+
+The number of Indian States after the formation of Telangana will be –
+
+A. 27
+B. 28
+C. 29
+D. 30
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Telangana as 29th State (2014).
+
+**Ans: C.** Telangana (2 June 2014) made India **29 States** (then 7 UTs). Later J&K reorganisation returned the State count to **28**. Trap: answering with today’s 28 for this wording.
+
+</details>
+
+**Q23. M.P.P.C.S. (Pre) 1996**
+
+How many Union Territories are there in India?
+
+A. 6
+B. 7
+C. 8
+D. 9
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Present UT count.
+
+**Ans: C.** Presently there are **8 Union Territories** (after DNH–DD merger, 2020). Trap: 7 (pre-2019) or 9 (brief post-2019 pre-merger).
+
+</details>
+
+**Q24. U.P.P.C.S. (Mains) 2013**
+
+Which of the following is not a Union Territory?
+
+A. The Andaman and Nicobar Islands
+B. Daman and Diu
+C. Goa
+D. Puducherry
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Goa is a State since 1987.
+
+**Ans: C.** **Goa** is a **State** (from 1987). The others are / were UTs. Trap: remembering Goa only as a former UT.
+
+</details>
+
+**Q25. 42nd B.P.S.C. (Pre) 1997-98**
+
+Delhi is a/an –
+
+A. State
+B. Union territory
+C. Autonomous Council
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Delhi remains a UT / NCT.
+
+**Ans: B.** Delhi is a **Union Territory** (NCT under the **69th Amendment**). Trap: treating NCT as a full State.
+
+</details>
+
+**Q26. U.P.P.C.S. (R.I.) 2014**
+
+By which Constitutional amendment Delhi was given the status of National Capital Region?
+
+A. 67th
+B. 69th
+C. 68th
+D. 70th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 69th = NCT (papers often say Region).
+
+**Ans: B.** **69th Amendment, 1991** created the **National Capital Territory**. **NCR** as a planning region is the 1985 Act. Trap: choosing 70th (Presidential electoral college).
+
+</details>
+
+**Q27. Chhattisgarh P.C.S. (Pre) 2021**
+
+Match the following Union Territories with their years of creation :
+
+| Union Territories | Years of Creation |
+|---|---|
+| A. Lakshadweep | (i) 1961 |
+| B. Daman and Diu | (ii) 1966 |
+| C. Chandigarh | (iii) 1962 |
+| D. Dadra and Nagar Haveli | (iv) 1956 |
+
+*Row order is not the answer code.*
+
+A. A-(i), B-(ii), C-(iii), D-(iv)
+B. A-(iv), B-(iii), C-(ii), D-(i)
+C. A-(iv), B-(ii), C-(iii), D-(i)
+D. A-(i), B-(iii), C-(ii), D-(iv)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UT creation years match.
+
+**Ans: B.** **Lakshadweep 1956**; **Daman and Diu 1962**; **Chandigarh 1966**; **Dadra and Nagar Haveli 1961**. Trap: swapping 1961/1962 for the Portuguese pockets.
+
+</details>
+
+**Q28. R.A.S/R.T.S (Pre) 2018**
+
+Which one of the following pairs is not correctly matched in terms of the power of the President of India to make regulation for certain Union Territories under Article 240 of the Indian Constitution?
+
+A. 240(1)(a) - Andaman and Nicobar Islands
+B. 240(1)(b) - Lakshadweep
+C. 240(1)(c) - Puducherry
+D. 240(1)(d) - Daman and Diu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 240 list — Puducherry is (e), not (c).
+
+**Ans: C.** **Art. 240(1)(c)** is **Dadra & Nagar Haveli and Daman & Diu** (merged). **Puducherry** is **240(1)(e)**. **Goa is a State**, not on this list. Trap: parking Puducherry in clause (c).
+
+</details>
+
+**Q29. I.A.S. (Pre) 2000**
+
+Which one of the following statements is incorrect?
+
+A. Goa attained full statehood in 1987
+B. Diu is an island in the Gulf of Khambhat
+C. Daman and Diu were separated from Goa by the 56th Amendment of the Constitution of India
+D. Dadra and Nagar Haveli were under French colonial rule till 1954
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dadra & NH were Portuguese, not French.
+
+**Ans: D.** Statement D is incorrect. **Dadra and Nagar Haveli** were under **Portuguese** rule till **1954**. French rule is the Puducherry-side story. Trap: French/Portuguese swap.
+
+</details>
+
+**Q30. 38th B.P.S.C. (Pre) 1999 / U.P. Lower Sub. (Pre) 2013**
+
+Sikkim became a state of India under-
+
+A. 30th Amendment
+B. 32nd Amendment
+C. 35th Amendment
+D. 40th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 35th associate stage (36th not in options).
+
+**Ans: C.** GC key is **35th Amendment** (associate State / Art. 2A). Full Statehood is the **36th Amendment, 1975** (22nd State), which is not among these options. Trap: forgetting the 35th→36th sequence.
+
+</details>
+
+**Q31. 69th B.P.S.C. (Pre) 2023**
+
+Sikkim became a full-fledged State of the Union of India in :
+
+A. 1974
+B. 1975
+C. 1976
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Full State year.
+
+**Ans: B.** **1975** via the **36th Amendment** — Sikkim became the **22nd State**. **1974** is the associate (35th) stage. Trap: answering 1974 for full statehood.
+
+</details>
+
+**Q32. U.P.P.C.S. (Mains) 2005**
+
+Which of the following Constitutional Amendments integrated Sikkim as a full-fledged State of the Indian Union?
+
+A. 34th
+B. 35th
+C. 36th
+D. 37th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 36th = full State.
+
+**Ans: C.** **36th Amendment, 1975** integrated Sikkim as a full State. **35th** made it an associate State. Trap: choosing 35th for “full-fledged”.
+
+</details>
+
+**Q33. 43rd B.P.S.C. (Pre) 1999**
+
+A separate Vananchal State carved out of Bihar can be made possible by –
+
+A. Passing the legislation in State Assembly
+B. Passing the ordinance by the Governor
+C. Completing Constitutional formalities
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only Parliament under Art. 3.
+
+**Ans: D.** A new State needs a **Parliamentary law under Article 3**, not a State Assembly Act or Governor’s ordinance alone. GC keys **None of these**. Trap: State Assembly “carving” Jharkhand/Vananchal.
+
+</details>
+
+**Q34. U.P.P.C.S. (Pre) 2021**
+
+Consider the formation of following States and arrange these in chronological order:
+
+I. Goa  II. Telangana  III. Jharkhand  IV. Haryana
+
+Select the correct answer from the codes given below:
+
+A. I, II, III, IV
+B. IV, I, III, II
+C. IV, II, III, I
+D. IV, III, I, II
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Haryana 1966 → Goa 1987 → Jharkhand 2000 → Telangana 2014.
+
+**Ans: B.** Order: **Haryana (1966) → Goa (1987) → Jharkhand (2000) → Telangana (2014)**. Trap: putting Jharkhand before Goa.
+
+</details>
+
+**Q35. U.P.P.C.S. (Pre) 2009 / U.P.P.C.S. (Mains) 2006**
+
+Which one of the following is the correct chronological order of the formation of the following Indian States?
+
+1. Chhattisgarh  2. Arunachal Pradesh  3. Jharkhand  4. Sikkim
+
+A. 4, 1, 3, 2
+B. 4, 2, 1, 3
+C. 3, 2, 1, 4
+D. 1, 4, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sikkim 1975 → Arunachal 1987 → Chhattisgarh 2000 → Jharkhand 2000.
+
+**Ans: B.** **Sikkim (1975) → Arunachal Pradesh (1987) → Chhattisgarh (1 Nov 2000) → Jharkhand (15 Nov 2000)**. Trap: reversing the November 2000 pair.
+
+</details>
+
+**Q36. I.A.S. (Pre) 2007**
+
+Which one of the following is the correct chronological order of the formation of the following states as full States of the Indian Union?
+
+A. Sikkim–Arunachal Pradesh–Nagaland–Haryana
+B. Nagaland–Haryana–Sikkim–Arunachal Pradesh
+C. Sikkim–Haryana–Nagaland–Arunachal Pradesh
+D. Nagaland–Arunachal Pradesh–Sikkim–Haryana
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nagaland 1963 → Haryana 1966 → Sikkim 1975 → Arunachal 1987.
+
+**Ans: B.** Full-State order: **Nagaland (1963) → Haryana (1966) → Sikkim (1975) → Arunachal Pradesh (1987)**. Trap: starting with Sikkim because of the 35th/36th fame.
+
+</details>
+
+**Q37. Chhattisgarh P.C.S. (Pre) 2011**
+
+Chhattisgarh State came into existence on–
+
+A. 1 November, 2000
+B. 9 November, 2000
+C. 10 November, 2000
+D. 1 January, 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1 Nov 2000 trio start.
+
+**Ans: A.** **Chhattisgarh — 1 November 2000**. **Uttarakhand — 9 November 2000**. **Jharkhand — 15 November 2000**. Trap: swapping with Uttarakhand’s date.
+
+</details>
+
+**Q38. U.P.P.C.S. (Mains) 2014**
+
+Uttarakhand State was created in –
+
+A. the year 1999
+B. the year 2000
+C. the year 2001
+D. the year 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Uttarakhand year.
+
+**Ans: B.** **9 November 2000** (then Uttaranchal; renamed 2007). Trap: 2001 rename myths.
+
+</details>
+
+**Q39. 64th B.P.S.C. (Pre) 2018**
+
+In which year did the State Jharkhand come into existence?
+
+A. 1988
+B. 1999
+C. 2000
+D. 2001
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Jharkhand year.
+
+**Ans: C.** **15 November 2000**. Trap: confusing with Chhattisgarh’s 1 November date in the same month.
+
+</details>
+
+**Q40. U.P.P.C.S. (Pre) 2010 / U.P.P.C.S. (Spl) (Mains) 2008**
+
+The following States were created after 1960. Arrange them in ascending chronological order of their formation:
+
+1. Haryana  2. Sikkim  3. Nagaland  4. Meghalaya
+
+A. 1, 2, 3, 4
+B. 2, 3, 4, 1
+C. 3, 1, 4, 2
+D. 2, 4, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nagaland 1963 → Haryana 1966 → Meghalaya 1972 → Sikkim 1975.
+
+**Ans: C.** Order: **Nagaland (1963) → Haryana (1966) → Meghalaya (1972) → Sikkim (1975)**. Trap: putting Haryana before Nagaland.
+
+</details>
+
+**Q41. U.P.P.C.S. (Pre) 2014**
+
+Identify the correct chronological order in which the following States were created in India from the code given below :
+
+1. Andhra Pradesh  2. Himachal Pradesh  3. Haryana  4. Sikkim
+
+A. 1, 2, 3, 4
+B. 1, 3, 2, 4
+C. 4, 3, 1, 2
+D. 3, 4, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Andhra 1953 → Haryana 1966 → HP 1971 → Sikkim 1975.
+
+**Ans: B.** **Andhra (1953) → Haryana (1966) → Himachal Pradesh (1971) → Sikkim (1975)**. Trap: Himachal before Haryana.
+
+</details>
+
+**Q42. U.P.R.O./A.R.O. (Mains) 2013**
+
+The correct sequence of formation of the following States in ascending order is
+
+A. Nagaland, Meghalaya, Sikkim, Arunachal Pradesh
+B. Meghalaya, Arunachal Pradesh, Nagaland, Sikkim
+C. Arunachal Pradesh, Nagaland, Sikkim, Meghalaya
+D. Sikkim, Nagaland, Arunachal Pradesh, Meghalaya
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1963 → 1972 → 1975 → 1987.
+
+**Ans: A.** **Nagaland (1963) → Meghalaya (1972) → Sikkim (1975) → Arunachal Pradesh (1987)**. Trap: Meghalaya before Nagaland.
+
+</details>
+
+**Q43. U.P.P.C.S. (Mains) 2013**
+
+The correct sequence of the formation of the following States in descending order is :
+
+A. Maharashtra, Rajasthan, Haryana
+B. Haryana, Rajasthan, Maharashtra
+C. Rajasthan, Maharashtra, Haryana
+D. Haryana, Maharashtra, Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Descending: Haryana 1966 → Maharashtra 1960 → Rajasthan (GC 1958).
+
+**Ans: D.** GC order uses **Haryana (1966), Maharashtra (1960), Rajasthan (1958)** → descending **Haryana, Maharashtra, Rajasthan**. Trap: ascending chronological order.
+
+</details>
+
+**Q44. U.P. R.O./A.R.O. (Mains) 2017**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+| List-I (State) | List-II (Year) |
+|---|---|
+| A. Nagaland | 1. 2000 |
+| B. Jharkhand | 2. 1962 |
+| C. Telangana | 3. 1975 |
+| D. Sikkim | 4. 2014 |
+
+*Row order is not the answer code.*
+
+Note: GC marks this stem with an asterisk because List-II shows 1962 for Nagaland while the living formation year is **1 December 1963**.
+
+A. A-4, B-1, C-2, D-3
+B. A-2, B-1, C-4, D-3
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nagaland year trap (1962 vs 1963).
+
+**Ans: \*** (GC asterisk key).** GC answer is **asterisked**. Correct living years: Nagaland **1963**, Jharkhand **2000**, Telangana **2014**, Sikkim **1975**. Trap: accepting printed **1962** for Nagaland.
+
+</details>
+
+**Q45. U.P.R.O./A.R.O. (Mains) 2013**
+
+Which of the following States of India was formed in 1948?
+
+A. West Bengal
+B. Assam
+C. Punjab
+D. Himachal Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Province vs State wording.
+
+**Ans: \*** (GC asterisk key).** GC marks **asterisk**. As **States** from 26 Jan 1950, none of A–C fit “formed in 1948”. **Himachal Pradesh** became a Chief Commissioner’s **province** on **15 April 1948** (State in 1971). Trap: treating 1947 provinces as 1948 State formation.
+
+</details>
+
+**Q46. R.A.S./R.T.S. (Pre) 2016**
+
+One of the following statements is incorrect. Point out:
+
+A. The State of Mysore was renamed as Tamil Nadu
+B. Goa was separated from Daman and Diu
+C. The State of Bombay was split into Gujarat and Maharashtra
+D. Himachal Pradesh was previously in the list of Union Territories
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mysore → Karnataka, not Tamil Nadu.
+
+**Ans: A.** Incorrect statement: Mysore was renamed **Karnataka** (1973), not Tamil Nadu (Madras → Tamil Nadu, 1969). Trap: Madras/Mysore rename swap.
+
+</details>
+
+**Q47. U.P.P.C.S. (Pre) 1990**
+
+The Commission for Reorganisation of States on the basis of language was established in-
+
+A. 1856
+B. 1956
+C. 1957
+D. 1960
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SRC year is 1953 — not in options.
+
+**Ans: \*** (GC asterisk key).** GC marks **asterisk**. The **States Reorganisation Commission** was set up on **29 December 1953** (report 1955; Act 1956). None of the printed years is 1953. Trap: choosing 1956 (the Act year).
+
+</details>
+
+**Q48. Raj. P.C.S. (Pre) 2023**
+
+Which of the following were the members of State Reorganisation Commission formed by Indian Government in August, 1953?
+
+(i) Sir Tej Bahadur Sapru
+(ii) Justice Fazal Ali
+(iii) K.M. Pannikar
+(iv) Hridayanath Kunjaru
+
+A. (ii) and (iii)
+B. (ii) and (iv)
+C. (ii), (iii) and (iv)
+D. (i), (ii), (iii) and (iv)
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SRC trio: Fazl Ali, Panikkar, Kunzru.
+
+**Ans: C.** SRC members: **Justice Fazl Ali** (Chair), **K.M. Panikkar**, **H.N. Kunzru**. Sapru was not a member. Trap: adding Tej Bahadur Sapru or Sitaramayya.
+
+</details>
+
+**Q49. Chhattisgarh P.C.S. (Pre) 2022**
+
+Who among the following was not the member of Reorganization Commission which was formed in 1953 and whose recommendations were taken into account for the States Reorganization Act, 1956?
+
+A. Pattabhi Sitaramayya
+B. Fazl Ali
+C. K.M. Panikkar
+D. H.N. Kunzru
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sitaramayya = JVP, not SRC.
+
+**Ans: A.** **Pattabhi Sitaramayya** was on the **JVP Committee**, not the SRC. Trap: mixing JVP and SRC names.
+
+</details>
+
+**Q50. 64th B.P.S.C. (Pre) 2018**
+
+After Independence, in which year were the Indian States reorganized on the linguistic basis?
+
+A. 1947
+B. 1951
+C. 1956
+D. 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Large-scale linguistic reorganisation year.
+
+**Ans: C.** Large-scale linguistic reorganisation ran under the **States Reorganisation Act, 1956** (Andhra had come earlier in **1953**). Trap: answering 1953 for the Union-wide Act.
+
+</details>
+
+**Q51. Uttarakhand U.D.A./L.D.A. (Mains) 2007 / M.P.P.C.S. (Pre) 1992**
+
+The States were reorganized on the basis of language in–
+
+A. 1956
+B. 1960
+C. 1962
+D. 1973
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1956 Act year.
+
+**Ans: A.** **1956**. Trap: 1960 (Bombay split) or 1966 (Punjab–Haryana).
+
+</details>
+
+**Q52. M.P.P.C.S. (Pre) 2016 / Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+
+Which is the first ever State constituted on linguistic basis?
+
+A. Rajasthan
+B. Andhra Pradesh
+C. Madhya Pradesh
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Andhra first linguistic State.
+
+**Ans: B.** **Andhra** (1 October **1953**) was the first linguistic State. Trap: Kerala 1956 or Karnataka rename.
+
+</details>
+
+**Q53. U.P. P.C.S. (Pre) 2018**
+
+Which of the following is the first State in India formed on the basis of Languages?
+
+A. Kerala
+B. Madhya Pradesh
+C. Andhra Pradesh
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Andhra first-linguistic fact.
+
+**Ans: C.** **Andhra Pradesh / Andhra State, 1953**. Trap: Kerala as the first 1956 linguistic product.
+
+</details>
+
+**Q54. U.P.P.C.S. (Mains) 2009**
+
+Andhra Pradesh was created as a language based state in–
+
+A. 1950
+B. 1953
+C. 1956
+D. 1961
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Andhra year.
+
+**Ans: B.** **1953** (1 October). Trap: 1956 States Reorganisation year.
+
+</details>
+
+**Q55. Chhattisgarh P.C.S. (Pre) 2021**
+
+Read the following statements with reference to State Reorganization Commission, 1953 and choose the correct option :
+
+Statement-I : Justice Fazl Ali, K.M. Panikkar and Hridaynath Kunzru were its member.
+Statement-II : Commission supported the splitting of Bombay and Punjab.
+Statement-III : As per State Reorganization Act, 1956 passed by Parliament, 14 States and 6 centrally administered States were made.
+
+From the statements given above, which is/are true?
+
+A. I, II and III
+B. I and II
+C. Only I
+D. I and III
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SRC members + 14/6; did not support Bombay/Punjab split.
+
+**Ans: D.** I and III are true. II is false — SRC did **not** support splitting Bombay and Punjab (those came later in **1960** and **1966**). Trap: assuming SRC backed every later bilingual split.
+
+</details>
+
+**Q56. Uttarakhand U.D.A./L.D.A. (Pre) 2007 / Uttarakhand U.D.A./L.D.A. (Mains) 2006**
+
+In which year were the Indian States reorganized on the recommendation of the State Reorganisation Commission?
+
+A. 1947
+B. 1951
+C. 1956
+D. 1966
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** SRC → 1956 Act.
+
+**Ans: C.** **1956**. Trap: 1953 (commission year) or 1966 (Punjab).
+
+</details>
+
+**Q57. M.P.P.C.S. (Pre) 2005**
+
+The capital of which state has not been renamed after the attainment of freedom?
+
+A. Tamil Nadu
+B. West Bengal
+C. Kerala
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Capital rename stem — GC asterisk.
+
+**Ans: \*** (GC asterisk key).** GC marks **asterisk** with explanatory notes on Madras→Chennai, Calcutta→Kolkata, etc., and later Andhra capital arrangements. Trap: forcing a single clean key when the book flags the stem.
+
+</details>
+
+**Q58. R.A.S./R.T.S. (Pre) 2018**
+
+Which of the following statements is/are true?
+
+(A) After the Nagpur Session (1920) of Congress, the provincial Congress Committees were constituted on Linguistic basis.
+(B) In 1948, Congress rejected the demand of formation of provinces on linguistic basis.
+
+A. Only (A)
+B. Only (B)
+C. Neither (A) nor (B)
+D. Both (A) & (B)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1920 linguistic PCC vs 1948 rejection.
+
+**Ans: D.** Both are true. After **Nagpur 1920**, PCCs followed language; in **1948** Dhar/JVP rejected immediate linguistic provinces. Trap: thinking Congress was always anti-language.
+
+</details>
+
+### Section B — The Citizenship
+
+**Q59. U.P.P.C.S. (Pre) 2018**
+
+In which Part of the Constitution of India we find the provisions relating to citizenship?
+
+A. PART I
+B. PART II
+C. PART VII
+D. PART IX
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part II = citizenship.
+
+**Ans: B.** Citizenship sits in **Part II (Arts. 5–11)**. Trap: Part I (Union and Territory).
+
+</details>
+
+**Q60. U.P.U.D.A./L.D.A. (Spl) (Mains) 2010**
+
+Which part of Constitution contains provisions relating to citizenship?
+
+A. Part I
+B. Part III
+C. Part II
+D. Part IV
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Part II fact.
+
+**Ans: C.** **Part II**. Trap: Part III Fundamental Rights.
+
+</details>
+
+**Q61. U.P.P.C.S. (Pre) 2020**
+
+Which Articles of Indian Constitution are related to citizenship?
+
+A. Article 3 to 10
+B. Article 4 to 11
+C. Article 5 to 11
+D. Article 6 to 11
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arts. 5–11.
+
+**Ans: C.** **Articles 5 to 11**. Trap: starting at Art. 3/4 (Union territory articles).
+
+</details>
+
+**Q62. U.P.P.C.S. (Pre) 1994**
+
+The citizenship provided by the Constitution of India is:
+
+A. Dual citizenship
+B. Single citizenship
+C. Both of the above
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Single citizenship.
+
+**Ans: B.** India follows **single citizenship** for the whole country (UK model), not USA-style dual federal + State citizenship. Trap: confusing OCI with dual citizenship.
+
+</details>
+
+**Q63. U.P.P.C.S. (Pre) 2015**
+
+Which one of the following features of citizenship in India is correct?
+
+A. Dual Citizenship of the State and Nation
+B. Single Citizenship of a State
+C. Single Citizenship of whole of India
+D. Dual Citizenship of India and another Country
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** One citizenship of India.
+
+**Ans: C.** **Single citizenship of the whole of India**. Trap: dual citizenship of State and Nation.
+
+</details>
+
+**Q64. 41st B.P.S.C. (Pre) 1996**
+
+Indian citizenship cannot be obtained by –
+
+A. Birth
+B. Naturalization
+C. Absorbing any part of land
+D. Depositing money in Indian Banks
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Five modes; bank deposit not one.
+
+**Ans: D.** Five modes: birth, descent, registration, naturalisation, incorporation of territory. **Depositing money** is not a mode. Trap: treating investment as naturalisation.
+
+</details>
+
+**Q65. U.P. P.C.S. (Mains) 2017**
+
+A citizen of India will loose his or her citizenship if he or she
+
+1. renounces Indian citizenship.
+2. Voluntarily acquires the citizenship of another country.
+3. marries a citizen of another country.
+4. criticizes the government.
+
+Select the correct answer using the codes given below:
+
+A. 1, 2 and 3
+B. 2, 3 and 4
+C. 1 and 2 only
+D. 1 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Loss by renunciation / termination; not marriage or criticism.
+
+**Ans: C.** Loss modes include **renunciation** and **termination** (voluntary foreign citizenship). Marriage or criticism alone does not strip citizenship. Trap: adding marriage as automatic loss.
+
+</details>
+
+**Q66. I.A.S. (Pre) 2021**
+
+With reference to India, consider the following statements :
+
+1. There is only one citizenship and one domicile.
+2. A citizen by birth only can become the Head of State.
+3. A foreigner once granted the citizenship cannot be deprived of it under any circumstances.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. 1 and 3
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Single citizenship/domicile; statements 2–3 false.
+
+**Ans: A.** Only **statement 1** is correct. Naturalised citizens may become President; citizenship by registration/naturalisation can be **deprived** on statutory grounds. Trap: US-style natural-born rule.
+
+</details>
+
+**Q67. U.P.P.C.S. (Mains) 2016**
+
+Who among the following is not eligible for registering as overseas citizen of India cardholder under the Citizenship Amendment Act, 2015?
+
+A. A minor child whose parents are an Indian citizen.
+B. Spouse of foreign origin of an Indian citizen.
+C. Indian who migrated to Pakistan after partition
+D. A great grandchild of a person who is a citizen of another country but whose grandparents were a citizen of India at the time of commencement of the Constitution.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** OCI bar — Pakistan/Bangladesh migrants.
+
+**Ans: C.** A person who, or whose parents/grandparents/great-grandparents, was a citizen of **Pakistan or Bangladesh** is **not eligible** for OCI (s. 7A bar). Trap: treating all diaspora as OCI-eligible.
+
+</details>
+
+**Q68. I.A.S. (Pre) 2005**
+
+Consider the following statements:
+
+1. Article 371 A to 371 I were inserted in the Constitution of India to meet regional demands of Nagaland, Assam, Manipur, Andhra Pradesh, Sikkim, Mizoram, Arunachal Pradesh and Goa.
+2. Constitution of India and the United States of America envisage a dual polity (The Union and the States) but a single citizenship.
+3. A Naturalized citizen of India can never be deprived of his citizenship.
+
+Which of the statement given above is/are correct?
+
+A. 1, 2 and 3
+B. 1 and 3
+C. 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only Art. 371A–I regional statement stands.
+
+**Ans: D.** Only **statement 1** is correct. USA has dual citizenship of Federation and State; naturalised citizens **can** be deprived under s. 10. Trap: assuming India and USA share single citizenship.
+
+</details>
+
+**Q69. M.P.P.C.S. (Pre) 2006**
+
+Which country accepted the policy of Dual Citizenship?
+
+A. India
+B. Canada
+C. Australia
+D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** USA dual citizenship model.
+
+**Ans: D.** **U.S.A.** — citizenship of the federation and of the State. India has single citizenship. Trap: picking India because of OCI.
+
+</details>
+
+**Q70. U.P.P.C.S. (Mains) 2013**
+
+Who/which of the following is competent to prescribe conditions for acquisition of citizenship?
+
+A. Election Commission
+B. President
+C. Parliament and State Legislatures jointly
+D. Parliament
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 11 — Parliament.
+
+**Ans: D.** **Article 11** empowers **Parliament** to regulate citizenship; Citizenship Act, 1955 follows. Trap: President or joint State role.
+
+</details>
+
+**Q71. Chhattisgarh P.C.S (Pre) 2013**
+
+How many years does a person of Indian origin need to reside in India to become a citizen of India under the Citizenship Act, 1955?
+
+A. 5 years
+B. 3 years
+C. 7 years
+D. 9 years
+E. 10 years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Registration residence — 7 years.
+
+**Ans: C.** Under **s. 5(1)(a)**, a person of Indian origin ordinarily resident in India for **7 years** may seek citizenship by registration. Trap: confusing with CAA’s 5-year naturalisation relaxation.
+
+</details>
+
+**Q72. Chhattisgarh P.C.S (Pre) 2013**
+
+Who among the following has the exclusive power of determining the issue of citizenship in India?
+
+A. The Court
+B. The President
+C. Lok Sabha
+D. Central Government
+E. State Government
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Exclusive power = Parliament (Art. 11) — not listed cleanly.
+
+**Ans: \*** (GC asterisk key).** GC marks **asterisk**. **Parliament** under **Article 11** has the exclusive power to determine citizenship by law. None of the printed options is Parliament alone. Trap: picking Central Government because of Citizenship Rules.
+
+</details>
+
+**Q73. U.P. R.O./A.R.O. (Mains) 2016**
+
+When was the Citizenship (Amendment) Bill 2019 firstly passed by Parliament?
+
+A. 10 December, 2019
+B. 11 December, 2019
+C. 12 December, 2019
+D. 13 December, 2019
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CAA Bill cleared Parliament 11 Dec 2019.
+
+**Ans: B.** Lok Sabha passed it on **9 December 2019**; **Rajya Sabha on 11 December 2019** (Parliament passage). President’s assent: **12 December 2019**. Trap: assent date as “passed by Parliament”.
+
+</details>
+
+**Q74. 66th B.P.P.C.S. (Pre) 2020**
+
+When was the Citizenship (Amendment) Act passed?
+
+A. 11th December, 2018
+B. 11th December, 2019
+C. 11th October, 2019
+D. 11th October, 2020
+E. None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CAA date fact.
+
+**Ans: B.** **11 December 2019**. Trap: 2018 or October dates.
+
+</details>
+
+**Q75. 67th B.P.S.C. (Pre), 2022**
+
+What is the purpose of the Citizenship (Amendment) Act, 2019?
+
+A. To remove Bangladeshi illegal immigrants
+B. To identify genuine Indian citizens
+C. To check border infiltration by foreigners
+D. To grant citizenship to persecuted minority groups of Afghanistan, Bangladesh and Pakistan
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CAA purpose — listed persecuted minorities.
+
+**Ans: D.** CAA eases citizenship for notified **Hindu, Sikh, Buddhist, Jain, Parsi and Christian** migrants from **Afghanistan, Bangladesh and Pakistan** who entered by **31 December 2014**. Trap: reading it as an NRC or general anti-infiltration statute.
+
+</details>
+
+### UKPCS harvest
+
+Uttarakhand / UKPCS-tagged stems already in the bank above:
+
+- Q22. Uttarakhand U.D.A./L.D.A. (Pre) 2007 / U.P.P.C.S. (Mains) 2013
+- Q51. Uttarakhand U.D.A./L.D.A. (Mains) 2007 / M.P.P.C.S. (Pre) 1992
+- Q52. M.P.P.C.S. (Pre) 2016 / Uttarakhand U.D.A./L.D.A. (Pre) 2007
+- Q56. Uttarakhand U.D.A./L.D.A. (Pre) 2007 / Uttarakhand U.D.A./L.D.A. (Mains) 2006
 
 ---
 
