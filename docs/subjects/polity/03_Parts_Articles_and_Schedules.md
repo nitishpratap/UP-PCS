@@ -8,9 +8,9 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 </details>
 
-> **Sources baked in:** Laxmikanth, Constitution of India text, India Code Constitution PDF, Drishti / PWOnlyIAS article maps, UPPCS Prelims PYQs 2018–2025
+> **Sources baked in:** Laxmikanth, Constitution of India text, India Code Constitution PDF, Drishti / PWOnlyIAS article maps, UPPCS Prelims PYQs 2018–2025, Ghatnachakra Parts/Articles/Schedules bank
 > **Weight:** ★★★ — Part↔Subject NOT matched; Article↔subject (incl. VP / HC / AG); Schedule↔Subject; 8th Schedule languages; 11th=29 / 12th=18; Concurrent List items; 371-series States; Art. 21 expansions; 51A(a)–(k)
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — Ghatnachakra Parts/Articles/Schedules Extra Drill added
 > **Current Affairs:** N/A (static structure) — watch only if a new language is added to 8th Schedule
 
 ---
@@ -871,9 +871,13 @@ D. 4, 2, 1, 3
 | Coverage | Scheduled Areas & STs in States **other than** 6th Schedule areas | Tribal areas of **Assam, Meghalaya, Tripura, Mizoram** only |
 | Who declares | **President** notifies Scheduled Areas | Specified tribal areas in AMTM |
 | Body | **Tribes Advisory Council** (not more than 20; ~¾ ST MLAs) | **Autonomous District / Regional Councils** |
+| ADC composition | — | Not more than **30** members; not more than **4** nominated by the Governor; rest elected on adult suffrage |
 | Role | Governor special responsibility; report to President | Councils make laws on land, forests (other than reserved), shifting cultivation, village admin, inheritance, marriage, social customs |
-| Memory | Broader ST/Scheduled Areas tool; **PESA 1996** applies here | **AMTM only** — **not** Nagaland / Sikkim / Arunachal |
+| Memory | Broader ST/Scheduled Areas tool; **PESA 1996** applies here | **AMTM only** — **not** Nagaland / Sikkim / Arunachal / Manipur |
 
+- Declaring a Fifth Schedule area does **not** strip the State of executive power; the Union does **not** take over total administration merely on the Governor’s recommendation.
+- *Samatha* (1997) held that transfer of tribal land in Scheduled Areas to private parties for mining is unconstitutional under the Fifth Schedule frame.
+- Ninth Schedule was added under PM **Jawaharlal Nehru** (1st Amendment, 1951) to protect land-reform / zamindari-abolition laws.
 **PYQ — UPPCS Prelims 2019, Q31**
 
 Sixth Schedule is applicable in which of the following States?
@@ -919,10 +923,20 @@ D. All of the above
 | Criminal law / Criminal procedure | **Concurrent** |
 | Trade unions; industrial disputes | **Concurrent** |
 | Education; Forests; wild animals (after 42nd) | **Concurrent** |
-| Police / Public order | **State** |
-| Banking / Currency / Defence | **Union** |
+| Population control and family planning (Entry 20A) | **Concurrent** (42nd) |
+| Prevention of cruelty to animals | **Concurrent** |
+| Price control | **Concurrent** |
+| Economic and social planning | **Concurrent** |
+| Police / Public order / Prisons / Local government (Panchayati Raj) / Gas / Agriculture / Land | **State** |
+| Banking / Currency / Defence / Insurance / Stock exchanges / Railways / Corporation tax | **Union** |
+| Inter-State quarantine; Inter-State migration; Inter-State trade and commerce | **Union** |
+| Tax on agricultural income; Tax on consumption/sale of electricity | **State** |
+| Space research / other residuary subjects | **Union** (residuary) |
 | “Trade and Commerce” as a bare unqualified label | **Not** whole Concurrent (Union/State split) — UPPCS 2024 trap |
 
+- Present counts after amendments: Union about **98**, State about **59**, Concurrent about **52**.
+- President’s oath is in **Article 60**, **not** in the Third Schedule (Third Schedule covers ministers, MPs, judges, CAG, State ministers/MLAs, HC judges).
+- Right to impose taxes/fees by Union and States is distributed through the **Seventh Schedule** lists.
 **PYQ — UPPCS Prelims 2024, Q143**
 
 Which of the following is/are included in the Concurrent List?
@@ -1285,6 +1299,2003 @@ D. Part IX
 <summary>Show answer</summary>
 
 **Ans: B — Part II.**
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Parts, Articles and Schedules
+
+Teaching sits in Topic 3 Parts / Articles / Schedules. Full MCQs from Ghatnachakra so you need not reopen the book.
+
+**Logic:** Original Parts = 22.
+
+**Q1. UPPCS (Mains) 2012**
+
+The Indian Constitution is divided into –
+
+A. 16 Parts
+B. 22 Parts
+C. 24 Parts
+D. 25 Parts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Originally **22 Parts**. Later additions raise the working count to about **25**.
+
+</details>
+
+**Logic:** Order: I → II → IV → IVA.
+
+**Q2. UPPCS (Pre) 2022**
+
+Consider the following subjects and arrange them into sequential order as mentioned in the Constitution.
+
+I. The union and its territory
+II. Fundamental duties
+III. Citizenship
+IV. Directive Principles of State Policy
+
+A. I, III, IV, II
+B. IV, II, III,I
+C. II, IV, I, III
+D. III, I, II, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Part I → Part II → Part IV → Part IVA.
+
+</details>
+
+**Logic:** Duties = IVA not VI-A.
+
+**Q3. UP Lower Sub. (Pre) 2004**
+
+Which one of the following is not matched correctly?
+
+A. Citizenship- Part II of Constitution
+B. Fundamental Rights- Part III of Constitution
+C. Fundamental Duties- Part VI-A of Constitution
+D. State- Part VI of Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Fundamental Duties sit in **Part IVA**.
+
+</details>
+
+**Logic:** Municipalities = IXA not XI.
+
+**Q4. UPPCS (Pre) 2025**
+
+Which of the following pairs of Part of Indian Constitution and its subject is/are NOT correctly matched?
+
+1. Part IV A – Fundamental Duties
+2. Part VI – The States
+3. Part XI – The Municipalities
+
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Municipalities = **Part IXA**. Part XI = Union–State relations.
+
+</details>
+
+**Logic:** Panchayats = Part IX.
+
+**Q5. UPPCS (Pre) 2013**
+
+Which part of our Constitution envisages a three tier system of Panchayats?
+
+A. Part IX
+B. Part X
+C. Part XI
+D. Part XII
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Part IX**.
+
+</details>
+
+**Logic:** Legislative relations = Part XI Ch.I.
+
+**Q6. UPPCS (Mains) 2012**
+
+Which part and chapter of the Indian Constitution deal with the legislative relation between the Union and the States?
+
+A. Part XI and Chapter I
+B. Part XI and Chapter II
+C. Part XII and Chapter I
+D. Part XII and Chapter II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Part XI Chapter I** = legislative relations.
+
+</details>
+
+**Logic:** Titles FR; panchayats DPSP; child education FD; Bharat Part I.
+
+**Q7. CGPCS (Pre) 2019**
+
+Match List-I with List-II.
+
+| List-I | List-II |
+|--------|--------|
+| A. Abolition of Titles | 1. DPSP |
+| B. Organisation of village panchayats | 2. Union and its Territories |
+| C. Education opportunity for child 6–14 | 3. Fundamental Rights |
+| D. India, that is Bharat, is the Union of States | 4. Fundamental Duties |
+
+*Row order is not the answer code.*
+
+Codes: A B C D
+
+A. 1 2 3 4
+B. 3 1 4 2
+C. 4 3 2 1
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** FR; DPSP; FD; Part I.
+
+</details>
+
+**Logic:** Only IVA–Duties correct.
+
+**Q8. UPPCS (Mains) 2007**
+
+Which of the following is correctly matched?
+
+A. Part-II : Fundamental Rights
+B. Part-III : Citizenship
+C. Part-IV(A) : Fundamental Duties
+D. Part-V : DPSP
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Part IVA = Fundamental Duties.
+
+</details>
+
+**Logic:** UTs = VIII not VII.
+
+**Q9. UP RO/ARO (Pre) Re-Exam 2016**
+
+Which one among the following is NOT correctly matched?
+
+A. Citizenship — Part II
+B. The Union Territories — Part VII
+C. The Municipalities — Part IX A
+D. Elections — Part XV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** UTs = **Part VIII**. Part VII is repealed.
+
+</details>
+
+**Logic:** Elections = Part XV.
+
+**Q10. UP RO/ARO (Re-Exam) (Pre) 2023**
+
+In which part of the Indian Constitution have the provisions for elections been made?
+
+A. Part XVII
+B. Part XV
+C. Part XVI
+D. Part XIV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Part XV**.
+
+</details>
+
+**Logic:** IX Panchayats; VIII UTs; IVA Duties; IXA Municipalities.
+
+**Q11. UPPCS (Mains) 2009**
+
+Match Parts:
+A. Part IX  B. Part VIII  C. Part IVA  D. Part IXA
+1. UTs  2. Municipalities  3. Panchayats  4. Fundamental Duties
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 3 1 4 2
+B. 1 2 3 4
+C. 2 4 1 3
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Panchayats; UTs; Duties; Municipalities.
+
+</details>
+
+**Logic:** Tribunals = XIVA not XI.
+
+**Q12. UPPCS (Pre) 2023**
+
+Which among the following is not correctly matched?
+
+A. Official Language – Part XVII
+B. UTs – Part VIII
+C. Scheduled and Tribal Areas – Part X
+D. Tribunals – Part XI
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tribunals = **Part XIVA**.
+
+</details>
+
+**Logic:** Tribunals not Part X.
+
+**Q13. UP RO/ARO (Pre) 2016**
+
+Which of the following is not correctly matched?
+
+A. Panchayats - Part IX
+B. Municipalities - Part IX-A
+C. Co-operative Societies - Part IX-B
+D. Tribunals - Part X
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tribunals = **Part XIVA**. Part X = Scheduled and Tribal Areas.
+
+</details>
+
+**Logic:** PRI = Part IX.
+
+**Q14. UPPCS (Pre) 2016 / 2020**
+
+Which part of the Constitution has the provisions for Panchayati Raj System?
+
+A. IX
+B. VI
+C. III
+D. IV (a)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Part IX**.
+
+</details>
+
+**Logic:** Same Part IX.
+
+**Q15. MPPCS (Pre) 2019**
+
+In which Part of the Constitution Panchayati Raj related Provisions have been implemented?
+
+A. Part-6
+B. Part-7
+C. Part-8
+D. Part - 9
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Part IX**.
+
+</details>
+
+**Logic:** FR III; Duties IVA; Union V; Emergency XVIII.
+
+**Q16. UPPCS (Mains) 2013**
+
+Match:
+A. Fundamental Rights  B. Fundamental Duties  C. The Union  D. Emergency
+1. Part IVA  2. Part III  3. Part XVIII  4. Part V
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 2 1 4 3
+B. 3 4 1 2
+C. 2 1 3 4
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** III; IVA; V; XVIII.
+
+</details>
+
+**Logic:** AG = Part V not XIII.
+
+**Q17. UPPCS (Pre) 2020**
+
+Which one of the following is NOT correctly matched?
+
+A. Fundamental Duties - Part IV A
+B. The States - Part VI
+C. Attorney General of India - Part XIII
+D. Services - Part XIV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** AG is under **Part V**. Part XIII = Trade and Commerce.
+
+</details>
+
+**Logic:** XV Elections; XVI special classes; XVII language; XVIII emergency.
+
+**Q18. UP RO/ARO (Mains) 2013**
+
+Match Parts XV–XVIII with subjects.
+A. XV B. XVI C. XVII D. XVIII
+1. Emergency  2. Official Language  3. Special provisions certain classes  4. Elections
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 3 4 1 2
+B. 4 3 2 1
+C. 1 2 3 4
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Elections; Special classes; Language; Emergency.
+
+</details>
+
+**Logic:** Part XVI = special classes.
+
+**Q19. UP RO/ARO (Mains) 2017**
+
+Part 16 of the Indian Constitution is related to
+
+A. Administrative Tribunal
+B. All India Services
+C. Finance Commission
+D. Special provisions for certain classes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Part XVI**.
+
+</details>
+
+**Logic:** IXA, XVIII, XX all correct.
+
+**Q20. IAS (Pre) 2024**
+
+Which statements are correct?
+1. Powers of Municipalities in Part IX A
+2. Emergency in Part XVIII
+3. Amendment in Part XX
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+</details>
+
+**Logic:** Present count >400 with inserts.
+
+**Q21. BPSC (Pre) 1997**
+
+Indian Constitution consists of –
+
+A. 300 Articles
+B. 350 Articles
+C. More than 400 Articles
+D. 500 Articles
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Originally **395**; present working count is **more than 400**.
+
+</details>
+
+**Logic:** Original Articles = 395.
+
+**Q22. UK UDA/LDA (Pre) 2007**
+
+There were originally how many Articles in the Constitution of India?
+
+A. 420
+B. 380
+C. 395
+D. 270
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Originally **395 Articles**.
+
+</details>
+
+**Logic:** Original 22/395/8.
+
+**Q23. Jharkhand PCS (Pre) 2017**
+
+How many Parts, Articles and Schedules were there in the original Indian Constitution?
+
+A. 22 Parts, 395 Articles and 8 Schedules
+B. 24 Parts, 450 Articles and 12 Schedules
+C. 22 Parts, 390 Articles and 8 Schedules
+D. 24 Parts, 425 Articles and 12 Schedules
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **22 Parts, 395 Articles, 8 Schedules**.
+
+</details>
+
+**Logic:** Tax bill needs President recommendation = Art.117.
+
+**Q24. Jharkhand PCS (Pre) 2013**
+
+The provision that no bill imposing tax can be introduced except on the recommendation of the President is under-
+
+A. Article 117
+B. Article 266
+C. Article 306
+D. Article 307
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Article 117**.
+
+</details>
+
+**Logic:** All-India Services = Art.312.
+
+**Q25. UPPSC (RI) 2014**
+
+Which article provides for All-India Services?
+
+A. Article 310
+B. Article 311
+C. Article 312
+D. Article 313
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Article 312**.
+
+</details>
+
+**Logic:** EC = Art.324.
+
+**Q26. CGPCS (Pre) 2008**
+
+Which pair is properly matched?
+
+A. Supreme Court - Article 318
+B. Election Commission - Article 324
+C. UPSC - Article 332
+D. Attorney General - Article 351
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Election Commission = **Article 324**.
+
+</details>
+
+**Logic:** Art.48 ≠ separation of judiciary (Art.50).
+
+**Q27. UPPCS (Pre) 2013**
+
+Which is not correctly matched?
+
+A. Article 39A - Equal Justice and Free Legal Aid
+B. Article 40 - Village Panchayats
+C. Article 44 - Uniform Civil Code
+D. Article 48 - Separation of Judiciary from Executive
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Separation of judiciary = **Article 50**.
+
+</details>
+
+**Logic:** 124 SC; 5 Citizenship; 352 Emergency; 245 legislative powers.
+
+**Q28. UKPCS (Pre) 2002**
+
+Match Articles:
+A.124 B.5 C.352 D.245
+1.Union Judiciary 2.Citizenship 3.Emergency 4.Distribution of Legislative Powers
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 1 2 3 4
+B. 2 1 4 3
+C. 4 3 2 1
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** SC; Citizenship; Emergency; legislative distribution.
+
+</details>
+
+**Logic:** 14 Equality; 36 DPSP; 74 CoM; 368 Amendment.
+
+**Q29. UPPCS (Pre) 2010**
+
+Match:
+A.14 B.36 C.74 D.368
+1.Amendment 2.CoM 3.Equality 4.DPSP
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 2 1 4 3
+B. 4 1 3 2
+C. 1 2 3 4
+D. 3 4 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Equality; DPSP; CoM; Amendment.
+
+</details>
+
+**Logic:** 2 admit; 14 equality; 22 arrest; 111 assent.
+
+**Q30. UPPCS (Mains) 2016**
+
+Match:
+A. Admit new state B. Right to equality C. Protection against arrest D. President assent
+1.Art.14 2.Art.2 3.Art.111 4.Art.22
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 1 2 3 4
+B. 2 1 4 3
+C. 3 4 2 1
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Art.2; 14; 22; 111.
+
+</details>
+
+**Logic:** 54 President; 75 PM; 155 Governor; 164 CM.
+
+**Q31. IAS (Pre) 2001**
+
+Match:
+A.54 B.75 C.155 D.164
+1.Election of President 2.Appointment of PM and cabinet 3.Appointment of Governor 4.Appointment of CM and CoM
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 1 2 3 4
+B. 1 2 4 5
+C. 2 1 3 5
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 54; 75; 155; 164.
+
+</details>
+
+**Logic:** 61 impeach; 67(b) VP; 94 Speaker; 90 Deputy Chairman.
+
+**Q32. UPPCS (Pre) 2020**
+
+Match:
+A.61 B.67(b) C.94 D.90
+1.Remove Deputy Chairman RS 2.Impeach President 3.Remove VP 4.Remove Speaker
+
+*Row order is not the answer code.*
+
+Codes: A B C D
+
+A. 2 4 3 1
+B. 3 2 4 1
+C. 2 3 4 1
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Impeach President; remove VP; remove Speaker; remove Deputy Chairman.
+
+</details>
+
+**Logic:** 324 EC; 315 PSC; 280 FC; 338 NCSC.
+
+**Q33. UPPCS (Pre) 2023**
+
+Match:
+A.324 B.315 C.280 D.338
+1.NCSC 2.Finance Commission 3.PSC 4.Election Commission
+
+*Row order is not the answer code.*
+
+A. A-4 B-3 C-2 D-1
+B. A-3 B-2 C-1 D-4
+C. A-1 B-3 C-4 D-2
+D. A-3 B-2 C-4 D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** EC; PSC; FC; NCSC.
+
+</details>
+
+**Logic:** 266 CFI; 280 FC; 360 Financial Emergency; 148 CAG.
+
+**Q34. UPPCS (Pre) 2024**
+
+Match:
+A.Consolidated Fund B.Finance Commission C.Financial Emergency D.CAG
+1.266 2.360 3.280 4.148
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 3 1 2 4
+B. 4 1 3 2
+C. 1 3 2 4
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 266; 280; 360; 148.
+
+</details>
+
+**Logic:** 368 Amendment; 280 FC; 360 FE; 312 AIS.
+
+**Q35. UPPCS (Pre) 2016**
+
+Match:
+A.Constitutional Amendments B.Finance Commission C.Financial Emergency D.All India Services
+1.360 2.312 3.280 4.368
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 2 3 4 1
+B. 4 3 1 2
+C. 3 4 1 2
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 368; 280; 360; 312.
+
+</details>
+
+**Logic:** 26 religion; 40 panchayats; 98 secretariat; 239 UT.
+
+**Q36. UP RO/ARO (Pre) 2023**
+
+Match:
+A.26 B.40 C.98 D.239
+1.UT administration 2.Parliament secretariat 3.Manage religious affairs 4.Village Panchayats
+
+Code-
+
+A. A-3 B-4 C-2 D-1
+B. A-4 B-3 C-2 D-1
+C. A-3 B-4 C-1 D-2
+D. A-3 B-1 C-2 D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Religious affairs; Village Panchayats; Secretariat; UT admin.
+
+</details>
+
+**Logic:** Only 352 Emergency correctly matched.
+
+**Q37. UP Lower Sub. (Pre) 2002**
+
+Which is matched correctly?
+
+A. Article 17 - Equality before Law
+B. Article 78 - Establishment of Parliament
+C. Article 192 - Salaries of Parliament Members
+D. Article 352 - Proclamation of Emergency
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Article 352** = Emergency. Art.17 = untouchability.
+
+</details>
+
+**Logic:** 215 record; 222 transfer; 226 writs; 227 superintendence.
+
+**Q38. RAS/RTS (Pre) 2013**
+
+Match HC articles:
+A.215 B.222 C.226 D.227
+(i) Transfer of Judge (ii) Superintendence (iii) Writs (iv) Court of Record
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. (iv) (i) (iii) (ii)
+B. (ii) (i) (iii) (iv)
+C. (i) (iv) (iii) (ii)
+D. (iv) (ii) (iii) (i)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Court of record; transfer; writs; superintendence.
+
+</details>
+
+**Logic:** HC for UTs = Art.241.
+
+**Q39. UP RO/ARO (Mains) 2016**
+
+Under which Article is there provision for High Courts for Union Territories?
+
+A. Article 240
+B. Article 241
+C. Article 242
+D. Article 239
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Article 241**.
+
+</details>
+
+**Logic:** 76 AG; 148 CAG; 75(1) ministers; 131 SC original.
+
+**Q40. UPPCS (Mains) 2015**
+
+Match:
+A.76 B.148 C.75(1) D.131
+1.CAG 2.SC jurisdiction 3.AG 4.Union Ministers
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 1 2 3 4
+B. 3 1 4 2
+C. 4 1 2 3
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** AG; CAG; Union Ministers; SC original jurisdiction.
+
+</details>
+
+**Logic:** 371C = Manipur not Meghalaya.
+
+**Q41. MPPCS (Pre) 2018**
+
+Which is not correctly matched?
+
+A. 371A — Nagaland
+B. 371B — Assam
+C. 371C — Meghalaya
+D. 371D — Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Article 371C** = Manipur.
+
+</details>
+
+**Logic:** 12 Schedules now.
+
+**Q42. MPPCS (Pre) 1990**
+
+Total number of Schedules in the Constitution is –
+
+A. 12
+B. 16
+C. 8
+D. 10
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Originally **8**; now **12**.
+
+</details>
+
+**Logic:** Only stmt 3 correct.
+
+**Q43. IAS (Pre) 2005**
+
+Consider:
+1. Constitution has 20 parts.
+2. There are 390 Articles in all.
+3. Ninth–Twelfth Schedules were added by Amendment Acts.
+
+Which is/are correct?
+
+A. 1 and 2
+B. 2 only
+C. 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only statement 3 is correct.
+
+</details>
+
+**Logic:** First Schedule = States/UTs.
+
+**Q44. IAS (Pre) 2003**
+
+Which Schedule lists names of states and specifies their territories?
+
+A. First
+B. Second
+C. Third
+D. Fourth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **First Schedule**.
+
+</details>
+
+**Logic:** New State → amend First Schedule.
+
+**Q45. IAS (Pre) 2001**
+
+If a new state is to be created, which Schedule must be amended?
+
+A. First
+B. Second
+C. Third
+D. Fourth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **First Schedule**.
+
+</details>
+
+**Logic:** Fourth = RS seats.
+
+**Q46. UPPCS (Mains) 2015**
+
+Fourth Schedule deals with
+
+A. Allocation of seats for the Council of States
+B. Political defection
+C. Panchayat system
+D. Languages
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Fourth Schedule** = Rajya Sabha seats.
+
+</details>
+
+**Logic:** President oath = Art.60 not Third Schedule.
+
+**Q47. UPPCS (Pre) 2017**
+
+Which are in the Third Schedule?
+1. Oath for Union Minister
+2. Oath for CJI
+3. Oath for President
+4. Oath for MP
+
+A. 1, 2, 3
+B. 2, 3, 4
+C. 1, 2, 4
+D. 1, 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** President’s oath is in **Article 60**, not the Third Schedule.
+
+</details>
+
+**Logic:** 3 oaths; 4 RS; 7 lists; 8 languages.
+
+**Q48. UPPCS (Pre) 2022**
+
+Match Schedules:
+A.Third B.Fourth C.Seventh D.Eighth
+1.RS seats 2.Oaths 3.Languages 4.Lists
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 3 4 2 1
+B. 1 2 3 4
+C. 4 3 1 2
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Oaths; RS seats; Lists; Languages.
+
+</details>
+
+**Logic:** Scheduled Areas = Fifth not Sixth.
+
+**Q49. BPSC (Pre) 2025**
+
+Which pair is not correctly matched?
+
+A. RS seats — 4th schedule
+B. Forms of oath — 3rd schedule
+C. Administration of scheduled areas — 6th schedule
+D. Union List — 7th schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Scheduled Areas = **Fifth Schedule**. Sixth = AMTM tribal areas.
+
+</details>
+
+**Logic:** 4 RS; 6 tribal; 8 languages; 9 land.
+
+**Q50. UPPCS (Pre) 1999**
+
+Match:
+A.4th B.6th C.8th D.9th
+1.Land Reforms 2.Language 3.Council of States 4.Tribal Areas
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 1 2 3 4
+B. 2 3 4 1
+C. 3 4 2 1
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** RS; Tribal Areas; Languages; Land Reforms.
+
+</details>
+
+**Logic:** 7 lists; 8 languages; 9 validation; 10 defection.
+
+**Q51. UP RO/ARO (Pre) 2016**
+
+Match:
+A.7th B.8th C.9th D.10th
+1.Languages 2.Defection 3.Legislative lists 4.Validation of Acts
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 3 1 2 4
+B. 2 3 4 1
+C. 3 1 4 2
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Lists; Languages; Validation; Defection.
+
+</details>
+
+**Logic:** Ninth ≠ RS seats.
+
+**Q52. UPPCS (Pre) 2023**
+
+Which pair is not correctly matched?
+
+A. Third — Oaths
+B. Tenth — Defection
+C. Eighth — Languages
+D. Ninth — Allocation of seats in Council of States
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** RS seats = **Fourth**. Ninth = validation of Acts.
+
+</details>
+
+**Logic:** Ninth under Nehru / 1st Amendment.
+
+**Q53. IAS (Pre) 2019**
+
+The Ninth Schedule was introduced during the prime ministership of :
+
+A. Jawaharlal Nehru
+B. Lal Bahadur Shashtri
+C. Indira Gandhi
+D. Morarji Desai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Added by **1st Amendment, 1951** under **Nehru**.
+
+</details>
+
+**Logic:** Land reform protection = Ninth.
+
+**Q54. UPPCS (Mains) 2003**
+
+State land reforms laws have been included in the –
+
+A. 7th Schedule
+B. 9th Schedule
+C. 8th Schedule
+D. 10th Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Ninth Schedule**.
+
+</details>
+
+**Logic:** Can place in 9th; not immune after Coelho for post-1973.
+
+**Q55. IAS (Pre) 2018**
+
+Consider:
+1. Parliament can place a law in the Ninth Schedule.
+2. Validity of a Ninth Schedule law cannot be examined by any court.
+
+Which is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statement 2 is wrong after *I.R. Coelho* for post-**24 April 1973** entries.
+
+</details>
+
+**Logic:** Coelho = Ninth Schedule.
+
+**Q56. UPPCS (Mains) 2017**
+
+Coelho case is related to which Schedule?
+
+A. Seventh
+B. Eighth
+C. Ninth
+D. Tenth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** *I.R. Coelho* concerns the **Ninth Schedule**.
+
+</details>
+
+**Logic:** Three lists = Seventh.
+
+**Q57. UP RO/ARO (Mains) 2021**
+
+Three legislative lists are found in Schedule–
+
+A. VI
+B. VII
+C. VIII
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Seventh Schedule**.
+
+</details>
+
+**Logic:** Original 97/66/47.
+
+**Q58. BPSC (Pre) 2016**
+
+Match:
+I.Union List A.97
+II.State List B.47
+III.Concurrent C.66
+
+Code I II III
+
+A. A B C
+B. A C B
+C. A A B
+D. C B A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Union 97; State 66; Concurrent 47 (original).
+
+</details>
+
+**Logic:** Economic planning = Concurrent.
+
+**Q59. UKPCS (Pre) 2002**
+
+Economic Planning is a subject:
+
+A. In the State List
+B. In the Union List
+C. In the Concurrent List
+D. Not specified in any list
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Concurrent List**.
+
+</details>
+
+**Logic:** Cruelty to animals = Concurrent.
+
+**Q60. BPSC (Pre) Re-Exam 2020**
+
+Prevention of cruelty to animals is listed in which list?
+
+A. Union List
+B. State List
+C. Concurrent List
+D. Preamble
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Concurrent List**.
+
+</details>
+
+**Logic:** Criminal matters = Concurrent.
+
+**Q61. CGPCS (Pre) 2011**
+
+Which is the subject of Concurrent List?
+
+A. Police
+B. Criminal Matters
+C. Radio and Television
+D. Foreign Affairs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Criminal law/procedure = **Concurrent**.
+
+</details>
+
+**Logic:** Population control = Concurrent.
+
+**Q62. IAS (Pre) 1993**
+
+Which Entry is Concurrent List?
+
+A. Population control and family planning
+B. Public health and sanitation
+C. Per-person Tax
+D. Treasure Trove
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Population control = Concurrent (**42nd**).
+
+</details>
+
+**Logic:** Adulteration + Succession Concurrent.
+
+**Q63. UPPCS (Pre) 2024**
+
+Concurrent list includes:
+1. Trade and Commerce
+2. Adulteration of Goods
+3. Succession
+
+A. 1 and 3
+B. 1, 2 and 3
+C. Only 1
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Adulteration and Succession are Concurrent. Bare Trade and Commerce is not wholly Concurrent.
+
+</details>
+
+**Logic:** Wildlife + price control Concurrent.
+
+**Q64. BPSC (Pre) 2025**
+
+Which belong to Concurrent List?
+1) Protection of wildlife
+2) Income on Agriculture
+3) Tax on Electricity
+4) Price control
+
+A. 1 and 4 are correct
+B. 2 and 3 are correct
+C. Only 4 is correct
+D. Only 2 is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Wildlife and price control = Concurrent.
+
+</details>
+
+**Logic:** RS seats = Fourth not Second.
+
+**Q65. UPPCS (Pre) 2019**
+
+Which is not correctly matched?
+
+A. Public Health — State List
+B. Census — Union List
+C. Allocation of seats in Council of States — Second Schedule
+D. Anti-Defection — Tenth Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** RS allocation = **Fourth Schedule**.
+
+</details>
+
+**Logic:** Education = Concurrent after 42nd.
+
+**Q66. BPSC (Pre) 2005**
+
+Which Subject lies in the Concurrent List?
+
+A. Agriculture
+B. Education
+C. Police
+D. Defence
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Education** (after **42nd**).
+
+</details>
+
+**Logic:** Education moved by 42nd.
+
+**Q67. UP Lower Sub. (Pre) 2008**
+
+Education was transferred to Concurrent List by the
+
+A. 24th Amendment
+B. 25th Amendment
+C. 42th Amendment
+D. 44th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **42nd Amendment**.
+
+</details>
+
+**Logic:** Forests moved by 42nd.
+
+**Q68. CGPCS (Pre) 2020**
+
+Forests were transferred from State to Concurrent List by
+
+A. 41st
+B. 42nd
+C. 43rd
+D. 45th
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **42nd Amendment**.
+
+</details>
+
+**Logic:** Stock Exchange = Union.
+
+**Q69. UPPCS (Pre) 2009**
+
+Which is not correctly matched?
+
+A. Forest — Concurrent
+B. Stock Exchange — Concurrent
+C. Post Office Saving Bank — Union
+D. Public Health — State
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Stock Exchange = **Union List**.
+
+</details>
+
+**Logic:** Census Union; Police State; Pop control Concurrent; Space residuary.
+
+**Q70. UPPCS (Mains) 2004**
+
+Match:
+A.Union B.State C.Concurrent D.Residuary
+1.Police 2.Space Research 3.Census 4.Population Control
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 3 1 4 2
+B. 2 3 1 4
+C. 1 2 3 4
+D. 4 1 2 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Census; Police; Population control; Space research.
+
+</details>
+
+**Logic:** Education bears on all five.
+
+**Q71. IAS (Pre) 2012**
+
+Which have a bearing on Education?
+1.DPSP 2.Local Bodies 3.Fifth Schedule 4.Sixth Schedule 5.Seventh Schedule
+
+A. Only 1 and 2
+B. Only 3, 4 and 5
+C. Only 1, 2 and 5
+D. 1, 2, 3, 4 and 5
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All five.
+
+</details>
+
+**Logic:** Tenth = Anti-defection.
+
+**Q72. BPSC (Pre) 1996**
+
+Tenth Schedule relates to-
+
+A. National Language
+B. Administration of SC/ST Area
+C. Judicial Review
+D. Anti-defection Law
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Anti-defection Law**.
+
+</details>
+
+**Logic:** Gas = State.
+
+**Q73. UPPCS (Pre) 1997**
+
+Which is not in the Union List?
+
+A. Banking
+B. Insurance
+C. Census
+D. Gas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Gas** = State List.
+
+</details>
+
+**Logic:** Agriculture = State.
+
+**Q74. CGPCS (Pre) 2011**
+
+Which is not in the Union List?
+
+A. Defence
+B. Foreign Affairs
+C. Railways
+D. Agriculture
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Agriculture** = State List.
+
+</details>
+
+**Logic:** Railway Police = State.
+
+**Q75. UPPCS (Pre) 1997**
+
+Which is in the State List?
+
+A. Education
+B. Electricity
+C. Railway Police
+D. Forest
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Railway Police** = State.
+
+</details>
+
+**Logic:** PRI = State List.
+
+**Q76. CGPCS (Pre) 2011**
+
+In which list is Panchayati Raj included?
+
+A. Union List
+B. State List
+C. Concurrent List
+D. Residuary List
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **State List**.
+
+</details>
+
+**Logic:** CrPC = Concurrent.
+
+**Q77. UPPCS (Mains) 2006**
+
+Which is in Concurrent List?
+
+A. Criminal Procedure
+B. Police
+C. Prisons
+D. Public Order
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Criminal Procedure** = Concurrent.
+
+</details>
+
+**Logic:** Marriage Divorce Adoption = Concurrent.
+
+**Q78. UP Lower Sub. (Spl) (Pre) 2010**
+
+Marriage, Divorce and Adoption are under–
+
+A. Union List
+B. State List
+C. Concurrent List
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Concurrent List**.
+
+</details>
+
+**Logic:** Taxing power via Seventh Schedule.
+
+**Q79. IAS (Pre) 2009**
+
+Right to impose taxes and fees is provided in which Schedule?
+
+A. VI
+B. VII
+C. IX
+D. XI
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Seventh Schedule**.
+
+</details>
+
+**Logic:** Inter-State quarantine = Union.
+
+**Q80. IAS (Pre) 2024**
+
+Which statement is correct?
+
+A. Inter-State trade and commerce is a State subject
+B. Inter-State migration is a State subject
+C. Inter-State quarantine is a Union subject
+D. Corporation tax is a State subject
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Inter-State quarantine = **Union List**.
+
+</details>
+
+**Logic:** Land reform = State.
+
+**Q81. BPSC (Pre) 1999**
+
+Land Reform comes under –
+
+A. Union List
+B. Concurrent List
+C. State List
+D. none of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **State List**.
+
+</details>
+
+**Logic:** Anti-defection = Tenth.
+
+**Q82. IAS (Pre) 2014 / UKPCS 2021**
+
+Which Schedule contains Anti-defection law?
+
+A. Second
+B. Fifth
+C. Eighth
+D. Tenth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Tenth Schedule**.
+
+</details>
+
+**Logic:** Tribal land / mining = Fifth / Samatha.
+
+**Q83. IAS (Pre) 2019**
+
+Under which Schedule can transfer of tribal land to private parties for mining be declared null and void?
+
+A. Third
+B. Fifth
+C. Ninth
+D. Twelfth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Fifth Schedule** (*Samatha*).
+
+</details>
+
+**Logic:** Fifth Schedule blocks tribal land transfer to non-tribals.
+
+**Q84. IAS (Pre) 2022**
+
+If an area is brought under Fifth Schedule, which best reflects the consequence?
+
+A. Prevent transfer of tribal land to non-tribal people
+B. Create a local self-governing body
+C. Convert area into a UT
+D. Declare Special Category State
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Fifth Schedule powers check transfer of tribal land to non-tribals.
+
+</details>
+
+**Logic:** Fifth = Scheduled Tribes.
+
+**Q85. BPSC (Pre) 2023**
+
+Fifth Schedule deals with governance/protection of
+
+A. Scheduled Castes
+B. Religious Minorities
+C. Scheduled Tribes
+D. Linguistic Minorities
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Scheduled Tribes** / Scheduled Areas.
+
+</details>
+
+**Logic:** Fifth = Scheduled Areas admin.
+
+**Q86. IAS (Pre) 2008**
+
+Which Schedule has special provisions for administration of Scheduled Areas?
+
+A. Third
+B. Fifth
+C. Seventh
+D. Ninth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Fifth Schedule**.
+
+</details>
+
+**Logic:** 5th+6th protect ST interests.
+
+**Q87. IAS (Pre) 2015**
+
+Fifth and Sixth Schedules are made to –
+
+A. Protect interests of Scheduled Tribes
+B. Determine State boundaries
+C. Determine Panchayat powers
+D. Protect all border States
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Protect **Scheduled Tribe** interests.
+
+</details>
+
+**Logic:** Sixth = AMTM.
+
+**Q88. UP RO/ARO (Pre) 2023**
+
+6th Schedule relates to tribal areas of:
+
+A. Assam, Arunachal, Tripura & Mizoram
+B. Assam, Tripura, Nagaland & Mizoram
+C. Assam, Nagaland, Meghalaya & Mizoram
+D. Assam, Meghalaya, Tripura & Mizoram
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **AMTM**.
+
+</details>
+
+**Logic:** Manipur not Sixth.
+
+**Q89. MPPCS (Pre) 2005**
+
+Sixth Schedule does not apply to
+
+A. Assam
+B. Meghalaya
+C. Tripura
+D. Manipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Manipur** is outside Sixth Schedule.
+
+</details>
+
+**Logic:** Tripura yes among options.
+
+**Q90. UPPCS (Pre) 2019**
+
+Sixth Schedule applicable in which state?
+
+A. Tripura
+B. Sikkim
+C. Nagaland
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only **Tripura** among these.
+
+</details>
+
+**Logic:** President notifies SA; TAC needed.
+
+**Q91. UP RO/ARO (Pre) 2023**
+
+With reference to Scheduled areas:
+1. President notifies Scheduled areas.
+2. State with scheduled areas need to constitute a Tribal Advisory Council.
+
+A. Neither 1 nor 2
+B. Only 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both are correct.
+
+</details>
+
+**Logic:** 1 and 2 true; CM report false.
+
+**Q92. IAS (Pre) 2023**
+
+Scheduled Areas statements:
+1. Notification by President Order.
+2. Largest unit District; lowest village cluster in Block.
+3. CMs submit annual reports to Union Home Ministry.
+
+How many are correct?
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1 and 2 correct. Governor reports to President — not CM to Home Ministry.
+
+</details>
+
+**Logic:** Neither I nor II.
+
+**Q93. IAS (Pre) 2025**
+
+If area declared Scheduled Area under Fifth Schedule:
+I. State loses executive power; local body takes total admin.
+II. Union can take total admin on Governor recommendation.
+
+A. I only
+B. II only
+C. Both I and II
+D. Neither I nor II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Neither is correct. State executive power continues.
+
+</details>
+
+**Logic:** ADC ≤30; ≤4 nominated not 6.
+
+**Q94. CGPCS (Pre) 2021**
+
+Autonomous Districts:
+(i) Each ADC has 30 members
+(ii) 24 elected and 6 nominated by Governor
+(iii) Governor may direct Acts of Parliament in Assam ADCs
+
+A. (i), (ii) and (iii)
+B. (i) and (iii)
+C. (i) and (ii)
+D. Only (i)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Not more than **4** nominated (not 6). (i) and (iii) hold.
+
+</details>
+
+**Logic:** Eleventh = Panchayats.
+
+**Q95. UPPCS (Pre) 2015**
+
+Eleventh Schedule is related to
+
+A. Municipality
+B. Panchayati Raj
+C. Centre-State relationship
+D. Removal of corruption
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** **Eleventh Schedule** = Panchayats.
+
+</details>
+
+**Logic:** Same Eleventh.
+
+**Q96. MPPCS (Pre) 2024**
+
+Powers/authority of Panchayats are given in the:
+
+A. Eleventh Schedule
+B. Twelfth Schedule
+C. Seventh Schedule
+D. State list
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** **Eleventh Schedule**.
+
+</details>
+
+**Logic:** 11th has 29 items.
+
+**Q97. UPPCS (Pre) 2019**
+
+How many items are in the 11th Schedule?
+
+A. 22
+B. 24
+C. 29
+D. 32
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **29** subjects.
+
+</details>
+
+### UKPCS Complete PYQ — Parts / Articles / Schedules
+
+**Logic:** Original Articles = 395.
+
+**Q1. UK UDA/LDA (Pre) 2007**
+
+There were originally how many Articles in the Constitution of India?
+
+A. 420
+B. 380
+C. 395
+D. 270
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Originally **395 Articles**.
+
+</details>
+
+**Logic:** 124 SC; 5 Citizenship; 352 Emergency; 245 legislative powers.
+
+**Q2. UKPCS (Pre) 2002**
+
+Match Articles:
+A.124 B.5 C.352 D.245
+1.Union Judiciary 2.Citizenship 3.Emergency 4.Distribution of Legislative Powers
+
+*Row order is not the answer code.*
+
+Code: A B C D
+
+A. 1 2 3 4
+B. 2 1 4 3
+C. 4 3 2 1
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** SC; Citizenship; Emergency; legislative distribution.
+
+</details>
+
+**Logic:** Economic planning = Concurrent.
+
+**Q3. UKPCS (Pre) 2002**
+
+Economic Planning is a subject:
+
+A. In the State List
+B. In the Union List
+C. In the Concurrent List
+D. Not specified in any list
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Concurrent List**.
+
+</details>
+
+**Logic:** Anti-defection = Tenth.
+
+**Q4. IAS (Pre) 2014 / UKPCS 2021**
+
+Which Schedule contains Anti-defection law?
+
+A. Second
+B. Fifth
+C. Eighth
+D. Tenth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **Tenth Schedule**.
 
 </details>
 
