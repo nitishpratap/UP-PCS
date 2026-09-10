@@ -21,7 +21,7 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 2. The **Tripartite Struggle** for **Kannauj** was fought by the **Pala**, **Gurjara-Pratihara**, and **Rashtrakuta** powers — not by the Cholas.
 3. In the south, imperial power rotated **Pallava → Chalukya → Rashtrakuta → Chola**.
 4. The **Pallava** capital was **Kanchi**; the **Pandya** capital was **Madurai**.
-5. Early Chalukyas ruled from **Badami / Vatapi**; later Western Chalukyas ruled from **Kalyani** — do not merge the two seats.
+5. Early Chalukyas ruled from **Badami / Vatapi**; **Eastern Chalukyas** from **Vengi** (**Pedavegi** near **Eluru**, West Godavari, Andhra); later Western Chalukyas from **Kalyani** — do not merge the three seats.
 6. The **Rashtrakuta** capital was **Manyakheta** (Malkhed) in the Deccan.
 7. The imperial **Chola** capital moved from **Thanjavur** to **Gangaikondacholapuram** under Rajendra I.
 8. **Hoysala** power centred on **Halebid / Dvarasamudra**; **Kakatiya** on **Warangal**; **Yadava** on **Devagiri** (later Daulatabad).
@@ -98,6 +98,7 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 | Eripatti | Taniyur | Tank-maintenance land vs large single-unit village | एरिपट्टी / तनियूर |
 | Nataraja | Dakshinamurti | Four-armed dancing Shiva vs teacher form facing south | नटराज / दक्षिणामूर्ति |
 | Badami / Vatapi | Vanavasi | Early Chalukya capital vs **Kadamba** capital | वातापी / वनवासी |
+| Vengi (Pedavegi) | Rajahmundry | Eastern Chalukya capital **Pedavegi** near **Eluru** vs later seat **Rajamahendravaram** | वेंगी / राजमहेन्द्रवरम |
 | Vanchi / Karur | Madurai | Chera capital vs Pandya capital | वंची / मदुरै |
 | Tarain | Chandawar | **1192** Prithviraj vs **1194** Jay Chandra | तराइन / चंदावर |
 | Mihir Bhoja (Pratihara) | Bhoja (Paramara) | Adivaraha / Kannauj vs Dhara scholar-king / Bhojshala | मिहिर भोज / परमार भोज |
@@ -143,7 +144,7 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 |---------|------------|--------|-------------------|
 | **Pallava** | **Kanchi** | N. Tamil Nadu / S. Andhra | Mahendravarman I; Narasimhavarman I (**Vatapikonda**) |
 | **Early Chalukya** | **Badami / Vatapi** | Karnataka–Maharashtra | **Pulakeshin II** (defeated Harsha; Aihole) |
-| **Eastern Chalukya** | **Vengi** | Coastal Andhra | Branch of Pulakeshin II’s line |
+| **Eastern Chalukya** | **Vengi** (**Pedavegi** near **Eluru**) | Coastal Andhra (Godavari–Krishna delta) | **Vishnuvardhana** (branch of Pulakeshin II) |
 | **Western Chalukya** | **Kalyani** | Deccan | Later Chalukyas; rivalry with Cholas |
 | **Rashtrakuta** | **Manyakheta** (Malkhed) | Deccan | Dantidurga; **Amoghavarsha I**; Indra III; Krishna I (Ellora) |
 | **Chola** | **Thanjavur**; later **Gangaikondacholapuram** | Tamil country + overseas | Vijayalaya; **Rajaraja I**; **Rajendra I** |
@@ -313,7 +314,9 @@ D. IV, III, I, II
 - The **Aihole inscription** of **Ravikirti** praises Pulakeshin II. At the end of the prasasti, Ravikirti claims fame like **Kalidasa** and **Bharavi** — so **Kalidasa’s name** appears in the Aihole record.
 - **Vikramaditya I** recovered Badami after the Pallava sack of Vatapi.
 - **Vikramaditya II** captured Kanchi and patronised the **Virupaksha temple at Pattadakal**.
-- Eastern Chalukyas of **Vengi** were founded by **Vishnuvardhana**, a branch line of Pulakeshin II.
+- Eastern Chalukyas of **Vengi** were founded by **Kubja Vishnuvardhana**, a brother / branch line of **Pulakeshin II**, after the Badami conquest of coastal Andhra.
+- The capital **Vengi** (also **Vengipura**) is identified with **Pedavegi** (Peddavegi), a village near **Eluru** in **West Godavari** district, Andhra Pradesh — not with Badami, Kalyani, or Amaravati.
+- The kingdom’s name stayed **Vengi** even when a later Eastern Chalukya centre rose at **Rajamahendravaram** (modern **Rajahmundry**).
 - Later Chola–Western Chalukya rivalry repeatedly turned on **Vengi** and the **Tungabhadra doab**.
 - **Pattadakal** (UNESCO) marks the Early Chalukya architectural peak.
 - The queen **Lokmahadevi** built the **Virupaksha temple** at Pattadakal.
@@ -329,7 +332,7 @@ D. IV, III, I, II
 - **Pulakeshin II** annexed the Kadamba state.
 - Kadambas are **not** a Sangam Muvendar house.
 
-> ** note:** Badami ≠ Kalyani. If the option says “Western Chalukya capital = Vatapi,” it is wrong. **Vanavasi = Kadamba**, not Chalukya.
+> **Logic note:** Badami ≠ Kalyani ≠ Vengi. If the option says “Western Chalukya capital = Vatapi,” it is wrong. **Vanavasi = Kadamba**, not Chalukya. **Eastern Chalukya Vengi = Pedavegi near Eluru** — do not pick Rajahmundry as the original capital identification.
 
 ### PYQ — Western Chalukya vs Chola
 
@@ -2565,6 +2568,26 @@ D. All four
 
 ---
 
+**Q71.** ‘Vengi’, the capital of the Eastern Chalukyas, is identified with which of the following places?
+
+A. Amaravati  
+B. Pedavegi (near Eluru)  
+C. Nagarjunakonda  
+D. Badami
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Capital-identification stem — kingdom name **Vengi** vs the excavated village site; distractors are other Andhra / Deccan famous places.
+
+**Ans: B.** Eastern Chalukya capital **Vengi / Vengipura** = **Pedavegi (Peddavegi)** near **Eluru**, West Godavari, Andhra Pradesh. Founder line is **Kubja Vishnuvardhana** under Pulakeshin II’s branch.
+
+**Trap:** Choosing **Rajahmundry** (later **Rajamahendravaram** seat) or **Badami** (Early Chalukya) or Buddhist sites like Amaravati / Nagarjunakonda.
+
+</details>
+
+---
+
 ## Common Traps — Don't Fall For These
 
 1. **Kannauj** is the UP tripartite and Gahadavala seat; do not confuse it with **Kanchi**, the Tamil Pallava capital.
@@ -2579,7 +2602,7 @@ D. All four
 10. **Kadungon** revived the **Pandyas**; he was not a Pallava or Chola fact.
 11. **Manyakheta** was the **Rashtrakuta** capital, not a Pratihara or Chalukya capital.
 12. **Khajuraho** belongs to the **Chandelas**, not the Paramaras or Pratiharas.
-13. **Badami** was the Early Chalukya capital; **Kalyani** was the Western Chalukya capital.
+13. **Badami** was the Early Chalukya capital; **Kalyani** was the Western Chalukya capital; **Vengi** (**Pedavegi** near **Eluru**) was the Eastern Chalukya capital — not Rajahmundry as the primary identification.
 14. **Ur** was the general village assembly; **Sabha** was the Brahmana **agrahara** assembly.
 15. **Jay Chandra** died at **Chandawar in 1194**, not at Tarain in 1192.
 16. **Kadaram** is **Kedah (Malaysia)**; the **1025** naval expedition against it was led by **Rajendra I**.

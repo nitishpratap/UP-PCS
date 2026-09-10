@@ -84,7 +84,7 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | Muvendar | Satavahana | Chera-Chola-Pandya vs north-Deccan **Andhra** house | मुवेन्दर / सातवाहन |
 | Nahapana | Rudradaman | Kshaharata, beaten by Gautamiputra vs Kardamaka, Junagadh | नहपान / रुद्रदामन |
 | Purushapura | Mathura | Kushan **main** capital vs **second** Indian capital | पुरुषपुर / मथुरा |
-| Vaigai (Pandya) | Vengi (Andhra) | Madurai Pandya river vs Eastern Chalukya coastal Andhra | वैगई / वेंगी |
+| Vaigai (Pandya) | Vengi (Andhra) | Madurai Pandya river vs Eastern Chalukya capital **Pedavegi** near **Eluru** | वैगई / वेंगी |
 | Arikamedu / Poduke | Tamralipti | Coromandel Roman station vs Ganga-mouth Bay port | अरिकामेडु / ताम्रलिप्ति |
 | Muvendar | Pallava / Kadamba | Sangam trio only vs later Kanchi / Vanavasi houses | मुवेन्दर / पल्लव–कदम्ब |
 

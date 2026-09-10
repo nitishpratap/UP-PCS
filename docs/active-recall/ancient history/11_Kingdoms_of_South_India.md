@@ -369,6 +369,20 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
+**Q30a.** With which modern place is Eastern Chalukya capital **Vengi** identified?
+
+A. Badami  
+B. Pedavegi near Eluru  
+C. Kalyani  
+D. Amaravati
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: B.** **Vengi / Vengipura** = **Pedavegi** near **Eluru** (West Godavari, Andhra). Founder is **Kubja Vishnuvardhana**. Do not pick **Rajahmundry** as the original capital ID, or Badami / Kalyani.
+
+</details>
+
 **Q31.** Match the 2025-style ruler to dynasty: Mahendravarman, Kadungon, Amoghavarsha, Rajaraja I.
 
 <details markdown="1">
