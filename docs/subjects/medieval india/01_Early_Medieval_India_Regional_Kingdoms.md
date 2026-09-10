@@ -109,6 +109,7 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 | Anhilwada | Dhara | Solanki capital vs Paramara capital | अणहिलवाड़ / धारा |
 
 ---
+![early_medieval.png](images/early_medieval.png)
 
 ## 1.1 Early Medieval India
 
