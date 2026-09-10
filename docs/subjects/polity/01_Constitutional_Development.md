@@ -1281,8 +1281,6 @@ D. 25 Jan. 1950
 
 Teaching sits in **N.1–N.10**. Full MCQs from Ghatnachakra so you need not reopen the book. UPPCS-tagged stems appear with other papers; UKPCS stems are also collected again at the end.
 
-**Logic:** SC at Calcutta = Regulating Act 1773; court opened 1774.
-
 **Q1. UPPCS (Mains) 2010**
 
 In which of the following Acts was the provision made for the establishment of Supreme Court at Calcutta?
@@ -1295,11 +1293,11 @@ D. Charter Act, 1833
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SC at Calcutta = Regulating Act 1773; court opened 1774.
+
 **Ans: A.** The Regulating Act, 1773 provided for a Supreme Court at Fort William, Calcutta. The Court was established in **1774**. First Chief Justice was **Sir Elijah Impey**.
 
 </details>
-
-**Logic:** Impey was first CJ — not Lemaister. Statement 1 alone is correct.
 
 **Q2. UP RO/ARO (Pre) Re-Exam 2016**
 
@@ -1318,11 +1316,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Impey was first CJ — not Lemaister. Statement 1 alone is correct.
+
 **Ans: A.** Statement 1 is correct. Statement 2 is wrong — first Chief Justice was **Sir Elijah Impey**, not Lemaister.
 
 </details>
-
-**Logic:** Match Act to firsts: Board=1784; SC=1773; Missionaries=1813; Law Member=1833.
 
 **Q3. UPPCS (Pre) 2003**
 
@@ -1347,11 +1345,11 @@ D. 2 4 1 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match Act to firsts: Board=1784; SC=1773; Missionaries=1813; Law Member=1833.
+
 **Ans: B.** Board of Control = **1784**. Supreme Court = **1773**. Missionaries = **1813**. Law Member = **1833**.
 
 </details>
-
-**Logic:** English education path = 1813 grant + GCPI 1823 + Orientalist–Anglicist fight.
 
 **Q4. IAS (Pre) 2018**
 
@@ -1371,11 +1369,11 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** English education path = 1813 grant + GCPI 1823 + Orientalist–Anglicist fight.
+
 **Ans: D.** All three shaped the shift. Charter **1813** granted ₹1 lakh. **GCPI 1823** administered the grant. The Orientalist–Anglicist controversy ended with Macaulay’s Minute under Bentinck (**7 March 1835**).
 
 </details>
-
-**Logic:** 1813 ended Indian trade monopoly except tea and China.
 
 **Q5. UP RO/ARO (Mains) 2017**
 
@@ -1389,11 +1387,11 @@ D. Charter Act of 1873
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1813 ended Indian trade monopoly except tea and China.
+
 **Ans: A.** Charter Act **1813** ended the Company’s monopoly in India except tea and China. **1833** ended the Company’s commercial role altogether.
 
 </details>
-
-**Logic:** Same monopoly trap — answer is Charter 1813.
 
 **Q6. UKPCS (Pre) 2016**
 
@@ -1407,11 +1405,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same monopoly trap — answer is Charter 1813.
+
 **Ans: C.** Charter Act **1813** ended monopoly over Indian trade. Tea and China trade monopoly continued.
 
 </details>
-
-**Logic:** 1813 asserted Crown sovereignty but did NOT put Indian revenues under Parliament.
 
 **Q7. IAS (Pre) 2019**
 
@@ -1431,11 +1429,11 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1813 asserted Crown sovereignty but did NOT put Indian revenues under Parliament.
+
 **Ans: A.** Statements 1 and 2 are correct. Statement 3 is wrong — territory and revenue stayed with the Company for 20 years. Direct Parliamentary control of Indian revenues comes with **1858**.
 
 </details>
-
-**Logic:** Section 87 of 1833 = eligibility pledge for Indians in Company service.
 
 **Q8. UPPCS (Pre) 2012**
 
@@ -1449,11 +1447,11 @@ D. Indian Councils Act, 1861
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Section 87 of 1833 = eligibility pledge for Indians in Company service.
+
 **Ans: A.** Charter Act **1833** Section **87** said no one would be debarred from Company office by religion, birth, descent or colour. Open ICS competition was implemented later under **1853**.
 
 </details>
-
-**Logic:** 1861: additional members 6–12; no Central/Provincial subject split. EC was not yet 7.
 
 **Q9. CGPCS (Pre) 2021**
 
@@ -1473,11 +1471,11 @@ D. Only (i)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1861: additional members 6–12; no Central/Provincial subject split. EC was not yet 7.
+
 **Ans: B.** Portfolio cabinet had **five** members in 1861; a sixth (PWD) came in **1874**. Additional legislative members = **6 to 12**. No Central–Provincial subject differentiation yet.
 
 </details>
-
-**Logic:** 1892: assent ≠ commencement; supplementary questions NOT given; non-official count trap.
 
 **Q10. CGPCS (Pre) 2021**
 
@@ -1497,11 +1495,11 @@ D. Only (ii)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1892: assent ≠ commencement; supplementary questions NOT given; non-official count trap.
+
 **Ans: *.** All three are wrong. Royal assent was **20 June 1892**; commencement was **3 February 1893**. Additional members were **10–16** with at least half non-official. Supplementary questions come with **1909**. (CGPCS marked *.)
 
 </details>
-
-**Logic:** Budget discussion begins with 1892 — without voting power.
 
 **Q11. UPPCS (Pre) 2003**
 
@@ -1515,11 +1513,11 @@ D. Government of India Act, 1919
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Budget discussion begins with 1892 — without voting power.
+
 **Ans: B.** Indian Councils Act **1892** allowed discussion of the budget, not a vote. Supplementary questions came only in **1909**.
 
 </details>
-
-**Logic:** First communal / separate electorate = 1909 Morley–Minto.
 
 **Q12. MPPCS (Pre) 2019**
 
@@ -1533,11 +1531,11 @@ D. Govt. of India Act, 1935
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First communal / separate electorate = 1909 Morley–Minto.
+
 **Ans: B.** Indian Councils Act **1909** introduced separate electorates for Muslims. Lord Minto is called the Father of the Communal Electorate.
 
 </details>
-
-**Logic:** 1909 = separate electorate — not dyarchy or decentralisation as the headline.
 
 **Q13. MPPCS (Pre) 2017**
 
@@ -1551,11 +1549,11 @@ D. legislative councils
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1909 = separate electorate — not dyarchy or decentralisation as the headline.
+
 **Ans: A.** The Act of **1909** is remembered for Muslim **separate electorates**. Dyarchy = **1919**. Decentralisation began more clearly with **1861**.
 
 </details>
-
-**Logic:** Federal Court = GOI Act 1935; opened 1937 — so “none of the above” if 1935 not listed.
 
 **Q14. UPPCS (Pre) 2014**
 
@@ -1569,11 +1567,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Federal Court = GOI Act 1935; opened 1937 — so “none of the above” if 1935 not listed.
+
 **Ans: D.** Federal Court was provided by the **Government of India Act, 1935** and began on **1 October 1937**. First Chief Justice was **Sir Maurice Gwyer**. Options stop at 1919, so answer is **None of the above**.
 
 </details>
-
-**Logic:** Court opened in 1937, not in the year the Act passed.
 
 **Q15. UPPCS (Mains) 2015**
 
@@ -1587,11 +1585,11 @@ D. 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Court opened in 1937, not in the year the Act passed.
+
 **Ans: B.** Federal Court began in **1937** under the **1935** Act.
 
 </details>
-
-**Logic:** Centre dyarchy = 1935 (never worked). Province dyarchy = 1919.
 
 **Q16. UPPCS (Pre) 2008**
 
@@ -1605,11 +1603,11 @@ D. Indian Independence Act, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Centre dyarchy = 1935 (never worked). Province dyarchy = 1919.
+
 **Ans: C.** GOI Act **1935** provided dyarchy at the Centre but it **never operated**. Provincial dyarchy was the **1919** device.
 
 </details>
-
-**Logic:** Same Centre-dyarchy trap.
 
 **Q17. UPPSC (RI) 2014**
 
@@ -1623,11 +1621,11 @@ D. Indian Councils Act, 1892
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same Centre-dyarchy trap.
+
 **Ans: A.** Centre dyarchy = **1935** (unimplemented). Province dyarchy = **1919**.
 
 </details>
-
-**Logic:** 1919 = province dyarchy + devolution. Muslim separate electorates already existed from 1909.
 
 **Q18. IAS (Pre) 2012**
 
@@ -1647,11 +1645,11 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1919 = province dyarchy + devolution. Muslim separate electorates already existed from 1909.
+
 **Ans: C.** Statements 1 and 3 are correct. Statement 2 is wrong as a *1919 first* — Muslim separate electorates began in **1909**. The 1919 Act only extended them to other communities.
 
 </details>
-
-**Logic:** Dyarchy = reserved vs transferred provincial subjects.
 
 **Q19. IAS (Pre) 2017**
 
@@ -1665,11 +1663,11 @@ D. Division of the subjects delegated to the provinces into two categories.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dyarchy = reserved vs transferred provincial subjects.
+
 **Ans: D.** Dyarchy means dividing provincial subjects into **reserved** and **transferred** categories under the **1919** Act.
 
 </details>
-
-**Logic:** Reserved = justice, land revenue, police. Local self-government was transferred.
 
 **Q20. IAS (Pre) 2022**
 
@@ -1690,11 +1688,11 @@ D. 1, 2 and 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Reserved = justice, land revenue, police. Local self-government was transferred.
+
 **Ans: C.** Reserved = justice, land revenue, police (and similar). Local self-government was **transferred**.
 
 </details>
-
-**Logic:** Province dyarchy = 1919 Montford.
 
 **Q21. MPPCS (Pre) 2022**
 
@@ -1708,11 +1706,11 @@ D. Morley-Minto Reforms of 1909
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Province dyarchy = 1919 Montford.
+
 **Ans: B.** Provincial dyarchy = **GOI Act 1919**. The 1935 Act **abolished** provincial dyarchy and proposed Centre dyarchy.
 
 </details>
-
-**Logic:** First bicameral Centre = 1919.
 
 **Q22. UPPCS (Mains) 2008**
 
@@ -1726,11 +1724,11 @@ D. The Government of India Act of 1935
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First bicameral Centre = 1919.
+
 **Ans: C.** GOI Act **1919** created Council of State and Legislative Assembly at the Centre.
 
 </details>
-
-**Logic:** Same bicameral Centre fact.
 
 **Q23. MPPCS (Pre) 2013**
 
@@ -1744,11 +1742,11 @@ D. 1915 Act
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same bicameral Centre fact.
+
 **Ans: C.** Bicameral Centre begins with the **1919** Act.
 
 </details>
-
-**Logic:** 1919 did NOT grant all women above 21 the vote. 1935 gave women reserved seats / separate path.
 
 **Q24. IAS (Pre) 2021**
 
@@ -1767,11 +1765,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1919 did NOT grant all women above 21 the vote. 1935 gave women reserved seats / separate path.
+
 **Ans: B.** Statement 1 is wrong — provinces could decide limited women’s franchise. Statement 2 is correct — **1935** extended communal representation including women.
 
 </details>
-
-**Logic:** ICS exam in India from 1922; Indians outnumbered Europeans by 1941.
 
 **Q25. UP RO/ARO (Pre) 2021**
 
@@ -1790,11 +1788,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** ICS exam in India from 1922; Indians outnumbered Europeans by 1941.
+
 **Ans: C.** Both are correct. ICS exam in India began at **Allahabad in 1922**. By **1941** Indians exceeded Europeans in the ICS.
 
 </details>
-
-**Logic:** Chamber of Princes ~120 = 1919 Act / 1921 body.
 
 **Q26. UPPCS (Pre) 2023**
 
@@ -1808,11 +1806,11 @@ D. Charter Act of 1853
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chamber of Princes ~120 = 1919 Act / 1921 body.
+
 **Ans: A.** Chamber of Princes (~**120**) came under the **1919** Act. First Chancellor was **Maharaja Ganga Singh of Bikaner**.
 
 </details>
-
-**Logic:** CLA elections under 1919 include 1926 and 1945 — not 1937.
 
 **Q27. RAS/RTS (Pre) 2018**
 
@@ -1832,11 +1830,11 @@ D. (A), (B) and (C)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CLA elections under 1919 include 1926 and 1945 — not 1937.
+
 **Ans: C.** **1926** and **1945** CLA elections ran under the **1919** frame. **1937** belongs to the provincial **1935** scheme.
 
 </details>
-
-**Logic:** Last CLA election under 1919 = 1945.
 
 **Q28. MPPCS (Pre) 2020**
 
@@ -1850,11 +1848,11 @@ D. 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Last CLA election under 1919 = 1945.
+
 **Ans: C.** Last Central Legislature election under the **1919** Act was in **1945**.
 
 </details>
-
-**Logic:** Art. 123 ordinance power follows s.42 of GOI Act 1935.
 
 **Q29. UPPCS (Mains) 2008**
 
@@ -1868,11 +1866,11 @@ D. Indian Independence Act, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Art. 123 ordinance power follows s.42 of GOI Act 1935.
+
 **Ans: B.** President’s ordinance power (**Art. 123**) is modelled on **Section 42** of the GOI Act **1935**. Viceroy ordinance power itself is older (**1861**).
 
 </details>
-
-**Logic:** Constitutional autocracy = 1935 vesting of executive in GG/Governors for the Crown.
 
 **Q30. MPPCS (Pre) 2017**
 
@@ -1886,11 +1884,11 @@ D. The Indian Independence Act of 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Constitutional autocracy = 1935 vesting of executive in GG/Governors for the Crown.
+
 **Ans: C.** GOI Act **1935** vested provincial and central executive authority in Governors / Governor-General on behalf of the Crown.
 
 </details>
-
-**Logic:** Centre–State distribution template = 1935.
 
 **Q31. IAS (Pre) 2012**
 
@@ -1904,11 +1902,11 @@ D. Indian Independence Act, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Centre–State distribution template = 1935.
+
 **Ans: C.** Three-list federal distribution in Independent India draws heavily on the **GOI Act 1935**.
 
 </details>
-
-**Logic:** Residuary under 1935 went to the Viceroy — not to provinces.
 
 **Q32. RAS/RTS (Pre) 2016**
 
@@ -1922,11 +1920,11 @@ D. It abolished Diarchy at the Provincial level and introduced it at the Centre.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Residuary under 1935 went to the Viceroy — not to provinces.
+
 **Ans: B.** Residuary powers under **1935** rested with the **Governor-General / Viceroy**, not provincial legislatures.
 
 </details>
-
-**Logic:** Provincial Autonomy is classically locked to 1935; 1919 only began devolution.
 
 **Q33. Jharkhand PCS (Pre) 2021**
 
@@ -1940,11 +1938,11 @@ D. Government of India Act, 1919
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Provincial Autonomy is classically locked to 1935; 1919 only began devolution.
+
 **Ans: C.** Full **Provincial Autonomy** is the **1935** headline. The **1919** Act began separating Central and Provincial subjects. (Some keys briefly flipped to 1919 — prefer **1935** for established autonomy.)
 
 </details>
-
-**Logic:** Federation + Centre diarchy = 1935.
 
 **Q34. UPPCS (Mains) 2013**
 
@@ -1958,11 +1956,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Federation + Centre diarchy = 1935.
+
 **Ans: C.** All-India Federation and Centre dyarchy were **1935** proposals. Neither federal part fully operated.
 
 </details>
-
-**Logic:** All-India Federation clause = 1935.
 
 **Q35. UPPCS (Mains) 2012**
 
@@ -1976,11 +1974,11 @@ D. Cabinet Mission Proposal, 1946
 <details>
 <summary>Show answer</summary>
 
+**Logic:** All-India Federation clause = 1935.
+
 **Ans: A.** All-India Federation = **GOI Act 1935**. It never came into being.
 
 </details>
-
-**Logic:** Federal polity provision = 1935.
 
 **Q36. UP UDA/LDA (Pre) 2010**
 
@@ -1994,11 +1992,11 @@ D. India Independence Act, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Federal polity provision = 1935.
+
 **Ans: C.** Federal scheme of provinces + princely states = **1935**.
 
 </details>
-
-**Logic:** 1935 residuary = Governor-General.
 
 **Q37. IAS (Pre) 2018 / UPPCS (Mains) 2008**
 
@@ -2012,11 +2010,11 @@ D. Provincial Governors
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1935 residuary = Governor-General.
+
 **Ans: B.** Residuary powers under the **1935** Federation rested with the **Governor-General**.
 
 </details>
-
-**Logic:** Federation yes; Defence/External Affairs were GG discretionary — not under federal legislature control.
 
 **Q38. IAS (Pre) 2024**
 
@@ -2035,11 +2033,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Federation yes; Defence/External Affairs were GG discretionary — not under federal legislature control.
+
 **Ans: A.** Statement 1 is correct. Statement 2 is wrong — Defence and External Affairs were exercised by the Governor-General in his **discretion**.
 
 </details>
-
-**Logic:** Official name in the Act = Federation of India.
 
 **Q39. MPPCS (Pre) 2021**
 
@@ -2053,11 +2051,11 @@ D. Indian Confederation
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Official name in the Act = Federation of India.
+
 **Ans: B.** The Act spoke of the **Federation of India**.
 
 </details>
-
-**Logic:** Appraisal of the Act is not itself a feature of the Act.
 
 **Q40. BPSC (Pre) 2024**
 
@@ -2071,11 +2069,11 @@ D. Proposal for Federation of India
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Appraisal of the Act is not itself a feature of the Act.
+
 **Ans: C.** Provincial Autonomy and Federation proposal were features. “Appraisal of the Act” is not a provision of the Act.
 
 </details>
-
-**Logic:** 1935 did not give India a written Constitution.
 
 **Q41. UPPCS (Mains) 2010**
 
@@ -2089,11 +2087,11 @@ D. Nomination of official members to the Legislature
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1935 did not give India a written Constitution.
+
 **Ans: A.** The **1935** Act did not provide a written Constitution for India. That demand was accepted in principle later in the **August Offer, 1940**.
 
 </details>
-
-**Logic:** 1935 = main structural source of the Constitution.
 
 **Q42. UP Lower Sub. (Pre) 2015**
 
@@ -2107,11 +2105,11 @@ D. It abolished the Native States
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1935 = main structural source of the Constitution.
+
 **Ans: A.** Much of Independent India’s federal skeleton, lists and institutional design draws from the **1935** Act.
 
 </details>
-
-**Logic:** Burma separated under 1935 scheme (from April 1937).
 
 **Q43. UPPCS (Mains) 2011**
 
@@ -2125,11 +2123,11 @@ D. Indian Independence Act, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Burma separated under 1935 scheme (from April 1937).
+
 **Ans: C.** Burma was separated under the **GOI Act 1935**, with effect from April **1937**. Sindh and Orissa were also created as new provinces.
 
 </details>
-
-**Logic:** First formal CA demand = Swaraj Party, Ranchi, May 1934.
 
 **Q44. IAS (Pre) 1996**
 
@@ -2143,11 +2141,11 @@ D. All Parties conference in 1946
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First formal CA demand = Swaraj Party, Ranchi, May 1934.
+
 **Ans: A.** Swaraj Party’s **Ranchi conference (May 1934)** made the first formal demand. **M.N. Roy** had floated the idea the same year.
 
 </details>
-
-**Logic:** Idea = M.N. Roy 1934; formal demand = Swaraj Party.
 
 **Q45. UPPSC (GIC) 2017**
 
@@ -2161,11 +2159,11 @@ D. Jawaharlal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Idea = M.N. Roy 1934; formal demand = Swaraj Party.
+
 **Ans: A.** The idea is first credited to **M.N. Roy (1934)**.
 
 </details>
-
-**Logic:** Gandhi — The Only Way, Harijan, 19 Nov 1939.
 
 **Q46. MPPCS (Pre) 2022**
 
@@ -2179,11 +2177,11 @@ D. Annie Besant
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gandhi — The Only Way, Harijan, 19 Nov 1939.
+
 **Ans: A.** Mahatma Gandhi wrote this in *Harijan* on **19 November 1939** (“The Only Way”).
 
 </details>
-
-**Logic:** Cripps proposed framing by an elected CA after the war.
 
 **Q47. UPPCS (Spl) (Mains) 2008**
 
@@ -2197,11 +2195,11 @@ D. British Cabinet Delegation
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Cripps proposed framing by an elected CA after the war.
+
 **Ans: C.** **Cripps Mission (1942)** proposed an elected Constituent Assembly after World War II. The actual Assembly was constituted under the **Cabinet Mission, 1946**.
 
 </details>
-
-**Logic:** Cripps: members elected by provinces + nominated by princes; unwilling province could stay out.
 
 **Q48. IAS (Pre) 2022**
 
@@ -2220,11 +2218,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Cripps: members elected by provinces + nominated by princes; unwilling province could stay out.
+
 **Ans: B.** Statement 1 is wrong — provincial members were to be **elected** by provincial assemblies; princely members nominated. Statement 2 is correct.
 
 </details>
-
-**Logic:** Cabinet Mission ratio ≈ one seat per 10 lakh.
 
 **Q49. UPPCS (Pre) 2003**
 
@@ -2238,11 +2236,11 @@ D. 15 Lakh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Cabinet Mission ratio ≈ one seat per 10 lakh.
+
 **Ans: B.** Roughly **one representative per 10 lakh** population.
 
 </details>
-
-**Logic:** Cabinet Mission = Pethick-Lawrence, Cripps, A.V. Alexander.
 
 **Q50. UP Lower Sub. (Pre) 2015**
 
@@ -2256,11 +2254,11 @@ D. A.V. Alexander
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Cabinet Mission = Pethick-Lawrence, Cripps, A.V. Alexander.
+
 **Ans: A.** **William Wood** was not a member. The three were Pethick-Lawrence, Stafford Cripps and A.V. Alexander.
 
 </details>
-
-**Logic:** CA constituted under Cabinet Mission 1946.
 
 **Q51. UKPCS (Pre) 2012 / UP Lower Sub. (Pre) 2009**
 
@@ -2274,11 +2272,11 @@ D. Indian Independence Act, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CA constituted under Cabinet Mission 1946.
+
 **Ans: C.** The Constituent Assembly was constituted under the **Cabinet Mission Plan, 1946**.
 
 </details>
-
-**Logic:** Same Cabinet Mission fact.
 
 **Q52. MPPCS (Pre) 2023**
 
@@ -2292,11 +2290,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same Cabinet Mission fact.
+
 **Ans: B.** Cabinet Mission Plan **1946**.
 
 </details>
-
-**Logic:** Interim Executive Council Vice-President = Nehru.
 
 **Q53. IAS (Pre) 1995**
 
@@ -2310,11 +2308,11 @@ D. Dr. Rajendra Prasad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Interim Executive Council Vice-President = Nehru.
+
 **Ans: A.** **Jawaharlal Nehru** was Vice-President of the Executive Council. The Viceroy remained President.
 
 </details>
-
-**Logic:** Radhakrishnan was NOT in the Interim Cabinet.
 
 **Q54. UPPCS (Mains) 2010**
 
@@ -2328,11 +2326,11 @@ D. Jagjivan Ram
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Radhakrishnan was NOT in the Interim Cabinet.
+
 **Ans: C.** **Dr. S. Radhakrishnan** was not a member. Prasad held Food & Agriculture; Rajaji held Education; Jagjivan Ram held Labour.
 
 </details>
-
-**Logic:** Prasad portfolio = Food and Agriculture.
 
 **Q55. BPSC Re-Exam 2024**
 
@@ -2346,11 +2344,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Prasad portfolio = Food and Agriculture.
+
 **Ans: C.** Rajendra Prasad held **Food and Agriculture**.
 
 </details>
-
-**Logic:** Announcement date = 24 August 1946.
 
 **Q56. UPPCS (Pre) 2022**
 
@@ -2364,11 +2362,11 @@ D. 23 August 1946
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Announcement date = 24 August 1946.
+
 **Ans: A.** Announced **24 August 1946**; took office **2 September 1946**.
 
 </details>
-
-**Logic:** Wavell Plan: equal Hindu–Muslim seats true; R (avoid partition) false.
 
 **Q57. IAS (Pre) 2007**
 
@@ -2386,11 +2384,11 @@ D. (A) is false, but (R) is true.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wavell Plan: equal Hindu–Muslim seats true; R (avoid partition) false.
+
 **Ans: C.** A is true — balanced Hindu–Muslim representation. R is false — the Plan aimed to break deadlock, not to claim Partition would be avoided.
 
 </details>
-
-**Logic:** CA = multiparty + committee method; NOT adult suffrage or direct election.
 
 **Q58. IAS (Pre) 1993**
 
@@ -2411,11 +2409,11 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CA = multiparty + committee method; NOT adult suffrage or direct election.
+
 **Ans: C.** It was multiparty and worked through committees. Election was **indirect** and franchise was **limited**, not UAF.
 
 </details>
-
-**Logic:** Not adult franchise; not direct election; WAS multiparty; worked via committees.
 
 **Q59. RAS/RTS (Pre) 2018**
 
@@ -2436,11 +2434,11 @@ D. (A), (B), (C) and (D)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Not adult franchise; not direct election; WAS multiparty; worked via committees.
+
 **Ans: A.** A and D are correct. B is wrong (indirect). C is wrong (it was multiparty).
 
 </details>
-
-**Logic:** Incorrect statement = elected on UAF.
 
 **Q60. MPPCS (Pre) 2012**
 
@@ -2454,11 +2452,11 @@ D. Its electoral process was based on the sixth schedule of the Act of 1935 whic
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Incorrect statement = elected on UAF.
+
 **Ans: C.** CA members were **not** elected on universal adult franchise. Franchise followed the restricted **1935** Act base.
 
 </details>
-
-**Logic:** Provincial members elected by provincial assemblies.
 
 **Q61. IAS (Pre) 2002**
 
@@ -2472,11 +2470,11 @@ D. Elected by Indian National Congress and Muslim League
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Provincial members elected by provincial assemblies.
+
 **Ans: C.** British Indian members were elected by **provincial legislative assemblies**. Princely members were nominated by rulers.
 
 </details>
-
-**Logic:** Same provincial-assembly election fact.
 
 **Q62. IAS (Pre) 2013**
 
@@ -2490,11 +2488,11 @@ D. Selected by the government for their expertise in constitutional matters
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same provincial-assembly election fact.
+
 **Ans: C.** Provincial CA members were elected by **Provincial Legislative Assemblies**.
 
 </details>
-
-**Logic:** Same fact — By Provincial Assemblies.
 
 **Q63. UPPCS (Pre) 1993**
 
@@ -2508,11 +2506,11 @@ D. By Provincial Assemblies
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same fact — By Provincial Assemblies.
+
 **Ans: D.** Elected by **Provincial Assemblies** (indirect).
 
 </details>
-
-**Logic:** Temporary/provisional chair = Sachchidananda Sinha.
 
 **Q64. IAS (Pre) 2024**
 
@@ -2526,11 +2524,11 @@ D. Dr. Sachchidananda Sinha
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Temporary/provisional chair = Sachchidananda Sinha.
+
 **Ans: D.** **Dr. Sachchidananda Sinha** chaired the first sitting on **9 December 1946**. Rajendra Prasad was elected permanent President on **11 December 1946**.
 
 </details>
-
-**Logic:** First elected (permanent) Chairman = Rajendra Prasad.
 
 **Q65. CGPCS (Pre) 2005**
 
@@ -2544,11 +2542,11 @@ D. Dr. S. Radhakrishnan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First elected (permanent) Chairman = Rajendra Prasad.
+
 **Ans: C.** **Rajendra Prasad** was the first elected permanent President. Sinha was only temporary.
 
 </details>
-
-**Logic:** First-day chair = Sinha.
 
 **Q66. UPPCS (Pre) 1990**
 
@@ -2562,11 +2560,11 @@ D. Maulana Abul Kalam Azad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First-day chair = Sinha.
+
 **Ans: C.** First meeting (**9 Dec 1946**) was chaired by **Sachchidananda Sinha**.
 
 </details>
-
-**Logic:** Same first-day fact.
 
 **Q67. UPPCS (Mains) 2013**
 
@@ -2580,11 +2578,11 @@ D. Pt. Jawaharlal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same first-day fact.
+
 **Ans: B.** **Sachchidananda Sinha**.
 
 </details>
-
-**Logic:** Prasad elected December 1946.
 
 **Q68. BPSC (Pre) Re-Exam 2022**
 
@@ -2598,11 +2596,11 @@ D. December 1946 AD
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Prasad elected December 1946.
+
 **Ans: D.** Elected on **11 December 1946**.
 
 </details>
-
-**Logic:** First meet 9 Dec 1946; League boycott; Sinha was temporary not permanent.
 
 **Q69. CGPCS (Pre) 2022**
 
@@ -2622,11 +2620,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First meet 9 Dec 1946; League boycott; Sinha was temporary not permanent.
+
 **Ans: B.** (i) and (iii) are true. (ii) is wrong — Sinha was **temporary**; permanent President was **Rajendra Prasad**.
 
 </details>
-
-**Logic:** First meeting true; Nehru WAS a member from day one.
 
 **Q70. MPPCS (Pre) 2025**
 
@@ -2644,11 +2642,11 @@ D. Statement I is false, but Statement II is true.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First meeting true; Nehru WAS a member from day one.
+
 **Ans: C.** Statement I is true. Statement II is false — Nehru was a member from the start and moved the Objectives Resolution on **13 Dec 1946**.
 
 </details>
-
-**Logic:** CA President = Rajendra Prasad.
 
 **Q71. UK UDA/LDA (Pre) 2007**
 
@@ -2662,11 +2660,11 @@ D. Pandit Jawaharlal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CA President = Rajendra Prasad.
+
 **Ans: A.** **Dr. Rajendra Prasad** was President of the Constituent Assembly.
 
 </details>
-
-**Logic:** Same — CA President of Independent India period = Prasad.
 
 **Q72. MPPCS (Pre) 2010**
 
@@ -2680,11 +2678,11 @@ D. K.M. Munshi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same — CA President of Independent India period = Prasad.
+
 **Ans: B.** **Rajendra Prasad**.
 
 </details>
-
-**Logic:** First nominated temporary Deputy Chairman = Frank Anthony.
 
 **Q73. MPPCS (Pre) 2020**
 
@@ -2698,11 +2696,11 @@ D. Frank Anthony
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First nominated temporary Deputy Chairman = Frank Anthony.
+
 **Ans: D.** **Frank Anthony** was nominated temporary Deputy Chairman on **9 Dec 1946**. **H.C. Mukherjee** became the first permanent Vice-President.
 
 </details>
-
-**Logic:** Established / first met = 9 December 1946.
 
 **Q74. UPPCS (Pre) 1995**
 
@@ -2716,11 +2714,11 @@ D. 26 December, 1949
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Established / first met = 9 December 1946.
+
 **Ans: B.** First meeting / establishment date remembered as **9 December 1946**.
 
 </details>
-
-**Logic:** First session = 9 Dec 1946.
 
 **Q75. BPSC (Pre) Re-Exam 2020**
 
@@ -2734,11 +2732,11 @@ D. 26th January, 1946
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First session = 9 Dec 1946.
+
 **Ans: A.** **9 December 1946**.
 
 </details>
-
-**Logic:** When established = December 1946.
 
 **Q76. UPPCS (Pre) 1990**
 
@@ -2752,11 +2750,11 @@ D. December, 1951
 <details>
 <summary>Show answer</summary>
 
+**Logic:** When established = December 1946.
+
 **Ans: A.** **December 1946**.
 
 </details>
-
-**Logic:** First session date = 9 Dec 1946.
 
 **Q77. UPPCS (Pre) 1990**
 
@@ -2770,11 +2768,11 @@ D. 30 June, 1949
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First session date = 9 Dec 1946.
+
 **Ans: B.** **9 December 1946**.
 
 </details>
-
-**Logic:** First meeting = 9 Dec 1946.
 
 **Q78. UPPCS (Mains) 2011**
 
@@ -2788,11 +2786,11 @@ D. 19 November, 1949
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First meeting = 9 Dec 1946.
+
 **Ans: C.** **9 December 1946**.
 
 </details>
-
-**Logic:** Objectives Resolution = fifth meeting of first session.
 
 **Q79. MPPCS (Pre) 2021**
 
@@ -2806,11 +2804,11 @@ D. Fifth
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Objectives Resolution = fifth meeting of first session.
+
 **Ans: D.** Nehru moved it on **13 December 1946** in the **fifth** meeting of the first session.
 
 </details>
-
-**Logic:** Objectives Resolution date = 13 Dec 1946.
 
 **Q80. MPPCS (Pre) 2022**
 
@@ -2824,11 +2822,11 @@ D. 13th December, 1946
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Objectives Resolution date = 13 Dec 1946.
+
 **Ans: D.** Moved **13 December 1946**; adopted **22 January 1947**.
 
 </details>
-
-**Logic:** Adoption of Objectives Resolution = 22 Jan 1947.
 
 **Q81. UPPCS (Pre) 1998**
 
@@ -2842,11 +2840,11 @@ D. 26 July, 1946
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Adoption of Objectives Resolution = 22 Jan 1947.
+
 **Ans: B.** Objectives Resolution adopted on **22 January 1947**.
 
 </details>
-
-**Logic:** Objectives Resolution → Preamble; mover = Nehru.
 
 **Q82. UKPCS (Mains) 2006**
 
@@ -2860,11 +2858,11 @@ D. Mahatma Gandhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Objectives Resolution → Preamble; mover = Nehru.
+
 **Ans: A.** **Jawaharlal Nehru’s Objectives Resolution** became the foundation of the Preamble.
 
 </details>
-
-**Logic:** Same — Objectives Resolution by Nehru.
 
 **Q83. UPPCS (Mains) 2007**
 
@@ -2878,11 +2876,11 @@ D. Dr. C. D. Deshmukh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same — Objectives Resolution by Nehru.
+
 **Ans: B.** **Jawaharlal Nehru**.
 
 </details>
-
-**Logic:** President not directly elected by people — so 1,2,3 only.
 
 **Q84. UPPCS (Mains) 2010**
 
@@ -2903,11 +2901,11 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** President not directly elected by people — so 1,2,3 only.
+
 **Ans: A.** Statement 4 is wrong — the President is elected indirectly by an electoral college.
 
 </details>
-
-**Logic:** 11 sittings + signature day ≈ nearest option 12.
 
 **Q85. UPPCS (Mains) 2005**
 
@@ -2921,11 +2919,11 @@ D. 15
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 11 sittings + signature day ≈ nearest option 12.
+
 **Ans: C.** There were **11** constitution-making sessions plus a final signature sitting on **24 January 1950**. Nearest option is **12**.
 
 </details>
-
-**Logic:** Last meeting = 24 Jan 1950.
 
 **Q86. UPPCS (Pre) 2018**
 
@@ -2939,11 +2937,11 @@ D. 25 Jan. 1950
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Last meeting = 24 Jan 1950.
+
 **Ans: C.** Last meeting was **24 January 1950**.
 
 </details>
-
-**Logic:** Duration = 2 years 11 months 18 days.
 
 **Q87. UPPCS (Mains) 2007**
 
@@ -2957,11 +2955,11 @@ D. 3 years 11 months 5 days
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Duration = 2 years 11 months 18 days.
+
 **Ans: A.** **2 years, 11 months and 18 days**.
 
 </details>
-
-**Logic:** Same duration.
 
 **Q88. BPSC (Pre) 2022**
 
@@ -2975,11 +2973,11 @@ D. More than one of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same duration.
+
 **Ans: A.** **2 years 11 months 18 days**.
 
 </details>
-
-**Logic:** Final session 24 Jan 1950; Prasad elected first President that day.
 
 **Q89. Raj. PCS (Pre) 2023**
 
@@ -2996,11 +2994,11 @@ D. only (i) is correct.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Final session 24 Jan 1950; Prasad elected first President that day.
+
 **Ans: B.** Both are correct. The final sitting also adopted the national anthem and national song.
 
 </details>
-
-**Logic:** Match: permanent VP Mukherjee; only Congress Drafting Munshi; Rajasthan princely V.T. Krishnamachari; Union Constitution Nehru.
 
 **Q90. RAS/RTS (Pre) 2013**
 
@@ -3025,11 +3023,11 @@ D. iii iv i ii
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match: permanent VP Mukherjee; only Congress Drafting Munshi; Rajasthan princely V.T. Krishnamachari; Union Constitution Nehru.
+
 **Ans: B.** H.C. Mukherjee; K.M. Munshi; V.T. Krishnamachari; Jawaharlal Nehru. Frank Anthony was only the temporary Deputy Chair.
 
 </details>
-
-**Logic:** Constitutional Adviser = B.N. Rau.
 
 **Q91. UPPCS (Pre) 2014 / UK UDA 2007**
 
@@ -3043,11 +3041,11 @@ D. K.M. Munshi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Constitutional Adviser = B.N. Rau.
+
 **Ans: C.** **B.N. Rau** was Constitutional Adviser. Ambedkar chaired the Drafting Committee.
 
 </details>
-
-**Logic:** First draft by B.N. Rau (~243 Articles, 13 Schedules).
 
 **Q92. UP Lower (Pre) 2009**
 
@@ -3061,11 +3059,11 @@ D. K.M. Munshi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First draft by B.N. Rau (~243 Articles, 13 Schedules).
+
 **Ans: B.** **B.N. Rau** prepared the first working draft.
 
 </details>
-
-**Logic:** Adopted / completed = 26 Nov 1949.
 
 **Q93. UPPCS (Mains) 2010 / UPPCS (Pre) 2002**
 
@@ -3079,11 +3077,11 @@ D. None of the above is correct
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Adopted / completed = 26 Nov 1949.
+
 **Ans: B.** Adopted and enacted on **26 November 1949**. Full commencement was **26 January 1950**.
 
 </details>
-
-**Logic:** Adopted by CA on 26 Nov 1949.
 
 **Q94. BPSC (Pre) 1990**
 
@@ -3097,11 +3095,11 @@ D. 15 November, 1949
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Adopted by CA on 26 Nov 1949.
+
 **Ans: A.** **26 November 1949**.
 
 </details>
-
-**Logic:** Same adoption date.
 
 **Q95. UP UDA/LDA (Pre) 2006**
 
@@ -3115,11 +3113,11 @@ D. 26 January, 1950
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same adoption date.
+
 **Ans: C.** **26 November 1949**.
 
 </details>
-
-**Logic:** Same adoption date.
 
 **Q96. MPPCS (Pre) 2010 / 1998**
 
@@ -3133,11 +3131,11 @@ D. 15 July, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same adoption date.
+
 **Ans: B.** **26 November 1949**.
 
 </details>
-
-**Logic:** Came into force = 26 Jan 1950.
 
 **Q97. UPPCS (Pre) 1990**
 
@@ -3151,11 +3149,11 @@ D. 26 December, 1949
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Came into force = 26 Jan 1950.
+
 **Ans: A.** Full commencement on **26 January 1950**.
 
 </details>
-
-**Logic:** Same enforcement date.
 
 **Q98. CGPCS (Pre) 2023**
 
@@ -3169,11 +3167,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same enforcement date.
+
 **Ans: B.** **26 January 1950**.
 
 </details>
-
-**Logic:** 26 Jan chosen for Purna Swaraj pledge of 1930.
 
 **Q99. BPSC (Pre) 2011**
 
@@ -3187,11 +3185,11 @@ D. None of the above.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 26 Jan chosen for Purna Swaraj pledge of 1930.
+
 **Ans: A.** Congress had observed **26 January** as Independence Day after the Lahore Session **Purna Swaraj** pledge.
 
 </details>
-
-**Logic:** Constitution Day = 26 November.
 
 **Q100. BPSC (Pre) 2016**
 
@@ -3205,11 +3203,11 @@ D. 15th August
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Constitution Day = 26 November.
+
 **Ans: B.** **26 November** marks adoption of the Constitution.
 
 </details>
-
-**Logic:** Constitution Day true; Drafting Committee was set up 29 Aug 1947 — not on 26 Nov 1949.
 
 **Q101. IAS (Pre) 2023**
 
@@ -3229,11 +3227,11 @@ D. Statement-I is incorrect but Statement-II is correct
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Constitution Day true; Drafting Committee was set up 29 Aug 1947 — not on 26 Nov 1949.
+
 **Ans: C.** Statement I is correct. Statement II is wrong — Drafting Committee was set up on **29 August 1947**, not on Constitution Day.
 
 </details>
-
-**Logic:** Enacted by Constituent Assembly.
 
 **Q102. BPSC (Pre) 1994**
 
@@ -3247,11 +3245,11 @@ D. Indian Parliament
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Enacted by Constituent Assembly.
+
 **Ans: A.** Adopted by the **Constituent Assembly**.
 
 </details>
-
-**Logic:** Same.
 
 **Q103. UPPCS (Mains) 2012**
 
@@ -3265,11 +3263,11 @@ D. British Parliament
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same.
+
 **Ans: A.** **Constituent Assembly**.
 
 </details>
-
-**Logic:** Adopted and enacted = 26 Nov 1949.
 
 **Q104. UPPCS (Mains) 2013 / 2015**
 
@@ -3283,11 +3281,11 @@ D. None of the above dates
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Adopted and enacted = 26 Nov 1949.
+
 **Ans: C.** **26 November 1949**.
 
 </details>
-
-**Logic:** Chronology: first meet → Drafting Committee → adopt → commence.
 
 **Q105. UPPCS (Pre) 2023**
 
@@ -3308,11 +3306,11 @@ D. III, II, I, IV
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chronology: first meet → Drafting Committee → adopt → commence.
+
 **Ans: A.** **9 Dec 1946** → **29 Aug 1947** → **26 Nov 1949** → **26 Jan 1950**.
 
 </details>
-
-**Logic:** Ambedkar finally sat from Bombay Presidency.
 
 **Q106. IAS (Pre) 1996**
 
@@ -3326,11 +3324,11 @@ D. Punjab
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ambedkar finally sat from Bombay Presidency.
+
 **Ans: B.** After Partition he entered from **Bombay Presidency** (Pune seat). His earlier East Bengal seat did not remain in India.
 
 </details>
-
-**Logic:** Ambedkar 1891–1956.
 
 **Q107. MPPCS (Pre) 1992**
 
@@ -3344,11 +3342,11 @@ D. 1889, 1961
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ambedkar 1891–1956.
+
 **Ans: B.** Born **14 April 1891**; died **6 December 1956**.
 
 </details>
-
-**Logic:** Third RTC fed the 1935 Act; Act provided All-India Federation.
 
 **Q108. IAS (Pre) 2009**
 
@@ -3367,11 +3365,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Third RTC fed the 1935 Act; Act provided All-India Federation.
+
 **Ans: C.** Both are correct. Congress did not attend the Third RTC.
 
 </details>
-
-**Logic:** Both A and R true; R does not explain A.
 
 **Q109. UPPCS (Spl) (Mains) 2008**
 
@@ -3389,11 +3387,11 @@ D. (A) is wrong but (R) is true.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Both A and R true; R does not explain A.
+
 **Ans: B.** Both true. Being an “adopted” (borrowed-features) Constitution does not explain why it provides for all necessities.
 
 </details>
-
-**Logic:** Azad wanted to defer UAF by 15 years.
 
 **Q110. MPPCS (Pre) 2010**
 
@@ -3407,11 +3405,11 @@ D. Dr. Bhim Rao Ambedkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Azad wanted to defer UAF by 15 years.
+
 **Ans: C.** **Maulana Azad** argued for deferment. Prasad and Nehru backed immediate adult franchise.
 
 </details>
-
-**Logic:** Gandhi wanted Congress disbanded as a political party after Independence.
 
 **Q111. UPPCS (Mains) 2011**
 
@@ -3425,11 +3423,11 @@ D. Mahatma Gandhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gandhi wanted Congress disbanded as a political party after Independence.
+
 **Ans: D.** **Mahatma Gandhi** held that Congress had fulfilled its freedom mission and should not continue as a party.
 
 </details>
-
-**Logic:** Prasad — Constitution is a lifeless machine without honest men.
 
 **Q112. RAS/RTS (Pre) 2021**
 
@@ -3443,11 +3441,11 @@ D. Mahatma Gandhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Prasad — Constitution is a lifeless machine without honest men.
+
 **Ans: A.** **Dr. Rajendra Prasad**, in his speech at adoption on **26 November 1949**.
 
 </details>
-
-**Logic:** Ivor Jennings on minority interests.
 
 **Q113. UPPCS (Spl) (Mains) 2004**
 
@@ -3461,11 +3459,11 @@ D. Ivor Jennings
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ivor Jennings on minority interests.
+
 **Ans: D.** **Sir Ivor Jennings**.
 
 </details>
-
-**Logic:** Austin — Constituent Assembly was Congress and Congress was India.
 
 **Q114. UP UDA/LDA (Pre) 2013**
 
@@ -3479,11 +3477,11 @@ D. Lord Mountbatten
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Austin — Constituent Assembly was Congress and Congress was India.
+
 **Ans: A.** **Granville Austin** in *The Indian Constitution*.
 
 </details>
-
-**Logic:** Women members = 15.
 
 **Q115. UPPSC (RI) 2014**
 
@@ -3497,11 +3495,11 @@ D. 10
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Women members = 15.
+
 **Ans: A.** About **15** women members sat in the Constituent Assembly.
 
 </details>
-
-**Logic:** Union Constitution Committee = Nehru.
 
 **Q116. IAS (Pre) 2005**
 
@@ -3515,11 +3513,11 @@ D. Alladi Krishnaswami Iyer
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Union Constitution Committee = Nehru.
+
 **Ans: C.** **Jawaharlal Nehru** chaired the Union Constitution Committee.
 
 </details>
-
-**Logic:** Provincial Constitution Committee = Patel.
 
 **Q117. UPPCS (Mains) 2008**
 
@@ -3533,11 +3531,11 @@ D. Sardar Patel
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Provincial Constitution Committee = Patel.
+
 **Ans: D.** **Sardar Patel**.
 
 </details>
-
-**Logic:** Drafting Committee = Ambedkar.
 
 **Q118. UPPCS (Pre) 1995 / UP RO Mains 2014**
 
@@ -3551,11 +3549,11 @@ D. Purushottam Das Tandon
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Drafting Committee = Ambedkar.
+
 **Ans: C.** **Dr. B.R. Ambedkar**.
 
 </details>
-
-**Logic:** Same Drafting Chair.
 
 **Q119. IAS (Pre) 2009 / CGPCS 2003 / MPPCS 2000**
 
@@ -3569,11 +3567,11 @@ D. C. Rajagopalachari
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same Drafting Chair.
+
 **Ans: A.** **B.R. Ambedkar**.
 
 </details>
-
-**Logic:** Match: Union Constitution Nehru; Rules Prasad; Drafting Ambedkar; FR Sub Kripalani.
 
 **Q120. UPPCS (Pre) 2025**
 
@@ -3598,11 +3596,11 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match: Union Constitution Nehru; Rules Prasad; Drafting Ambedkar; FR Sub Kripalani.
+
 **Ans: C.** Nehru; Rajendra Prasad; Ambedkar; Kripalani.
 
 </details>
-
-**Logic:** Advisory Committee on FR/Minorities = Patel.
 
 **Q121. MPPCS (Pre) 2014**
 
@@ -3616,11 +3614,11 @@ D. Ambedkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Advisory Committee on FR/Minorities = Patel.
+
 **Ans: B.** **Sardar Patel**. FR Sub-Committee = Kripalani; Minorities Sub-Committee = H.C. Mukherjee.
 
 </details>
-
-**Logic:** Drafting Committee had 6 other members (7 total).
 
 **Q122. UP Lower Sub. (Pre) 2008**
 
@@ -3634,11 +3632,11 @@ D. 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Drafting Committee had 6 other members (7 total).
+
 **Ans: B.** **Six** other members — total seven including Ambedkar.
 
 </details>
-
-**Logic:** Drafting members include Gopalaswami and Ayyar — not Nehru or Patel.
 
 **Q123. UPPCS (Pre) 2014**
 
@@ -3659,11 +3657,11 @@ D. (ii), (iii) and (iv)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Drafting members include Gopalaswami and Ayyar — not Nehru or Patel.
+
 **Ans: C.** Gopalaswami Ayyangar and Alladi Krishnaswamy Ayyar were Drafting members. Nehru and Patel were not.
 
 </details>
-
-**Logic:** K.M. Munshi = Drafting Committee member.
 
 **Q124. MPPCS (Pre) 2024**
 
@@ -3677,11 +3675,11 @@ D. Hindu Code Bill Drafting Committee
 <details>
 <summary>Show answer</summary>
 
+**Logic:** K.M. Munshi = Drafting Committee member.
+
 **Ans: B.** **K.M. Munshi** was a member of the Drafting Committee.
 
 </details>
-
-**Logic:** Nehru was NOT on Drafting Committee.
 
 **Q125. UPPCS (Mains) 2012**
 
@@ -3695,11 +3693,11 @@ D. Jawaharlal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nehru was NOT on Drafting Committee.
+
 **Ans: D.** **Jawaharlal Nehru** was not a Drafting Committee member.
 
 </details>
-
-**Logic:** Drafting Committee set up 29 August 1947.
 
 **Q126. UPPCS (Mains) 2008**
 
@@ -3713,11 +3711,11 @@ D. 29th August, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Drafting Committee set up 29 August 1947.
+
 **Ans: D.** **29 August 1947**.
 
 </details>
-
-**Logic:** CA Ad hoc Flag Committee chair = Rajendra Prasad.
 
 **Q127. UPPCS (Pre) 1991**
 
@@ -3731,11 +3729,11 @@ D. Dr. B.R. Ambedkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CA Ad hoc Flag Committee chair = Rajendra Prasad.
+
 **Ans: B.** Ad hoc National Flag Committee (**23 June 1947**) was chaired by **Rajendra Prasad**. (1931 Karachi Flag Committee was under Patel.)
 
 </details>
-
-**Logic:** Constitution is supreme in Indian political system.
 
 **Q128. UPPCS (Mains) 2013 / BPSC 2001**
 
@@ -3749,11 +3747,11 @@ D. Religion
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Constitution is supreme in Indian political system.
+
 **Ans: B.** The **Constitution** is supreme.
 
 </details>
-
-**Logic:** Judicial review = USA.
 
 **Q129. UPPCS (Pre) 1998**
 
@@ -3767,11 +3765,11 @@ D. Australia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Judicial review = USA.
+
 **Ans: B.** Judicial review is borrowed from the **USA**.
 
 </details>
-
-**Logic:** Judicial review exists in India and USA.
 
 **Q130. UPPCS (Mains) 2012 / UPPCS (Pre) 2008**
 
@@ -3785,11 +3783,11 @@ D. U.K. only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Judicial review exists in India and USA.
+
 **Ans: C.** Both **India** and the **USA** have judicial review.
 
 </details>
-
-**Logic:** Common federal feature = federal Supreme Court for constitutional interpretation.
 
 **Q131. IAS (Pre) 1993**
 
@@ -3803,11 +3801,11 @@ D. A Federal Supreme Court for Interpretation of the Constitution
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Common federal feature = federal Supreme Court for constitutional interpretation.
+
 **Ans: D.** Both have a federal apex court for constitutional interpretation. India has single citizenship and an integrated judiciary.
 
 </details>
-
-**Logic:** Federal system with strong Centre = Canada.
 
 **Q132. UPPCS (Mains) 2006**
 
@@ -3821,11 +3819,11 @@ D. Ireland
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Federal system with strong Centre = Canada.
+
 **Ans: A.** Strong-Centre federation is from **Canada**.
 
 </details>
-
-**Logic:** Same Canada fact.
 
 **Q133. UPPCS (Mains) 2017**
 
@@ -3839,11 +3837,11 @@ D. Germany
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same Canada fact.
+
 **Ans: B.** **Canada**.
 
 </details>
-
-**Logic:** Union of States phrasing = British North America Act (Canada).
 
 **Q134. UPPCS (Pre) 2017**
 
@@ -3857,11 +3855,11 @@ D. The Swiss Constitution
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Union of States phrasing = British North America Act (Canada).
+
 **Ans: C.** Drafting Committee followed the language of the **British North America Act, 1867** (Canada).
 
 </details>
-
-**Logic:** Concurrent List = Australia.
 
 **Q135. Jharkhand PCS (Pre) 2003**
 
@@ -3875,11 +3873,11 @@ D. Canada
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Concurrent List = Australia.
+
 **Ans: B.** Concurrent List = **Australia**.
 
 </details>
-
-**Logic:** Same Concurrent = Australia.
 
 **Q136. UPPCS (Mains) 2014 / 2011 / 2012**
 
@@ -3893,11 +3891,11 @@ D. U.S.S.R.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same Concurrent = Australia.
+
 **Ans: C.** **Australia**.
 
 </details>
-
-**Logic:** Same.
 
 **Q137. UP Lower Sub. (Pre) 2015**
 
@@ -3911,11 +3909,11 @@ D. South Africa
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same.
+
 **Ans: B.** **Australia**.
 
 </details>
-
-**Logic:** Same.
 
 **Q138. UPPCS (Mains) 2016**
 
@@ -3929,11 +3927,11 @@ D. Australia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same.
+
 **Ans: D.** **Australia**.
 
 </details>
-
-**Logic:** DPSP = Ireland.
 
 **Q139. UPPCS (Pre) 1998**
 
@@ -3947,11 +3945,11 @@ D. U.S.S.R.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** DPSP = Ireland.
+
 **Ans: B.** DPSP = **Ireland**.
 
 </details>
-
-**Logic:** Same DPSP Ireland.
 
 **Q140. BPSC (Pre) 2023**
 
@@ -3965,11 +3963,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same DPSP Ireland.
+
 **Ans: C.** **Ireland**.
 
 </details>
-
-**Logic:** Same.
 
 **Q141. MPPCS (Pre) 2023**
 
@@ -3983,11 +3981,11 @@ D. Ireland
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same.
+
 **Ans: D.** **Ireland**.
 
 </details>
-
-**Logic:** Same.
 
 **Q142. UP Lower Sub. (Spl) (Pre) 2004**
 
@@ -4001,11 +3999,11 @@ D. U.S.A.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same.
+
 **Ans: B.** **Ireland**.
 
 </details>
-
-**Logic:** Rajya Sabha nomination for talent/experience = Ireland.
 
 **Q143. UPPCS (Pre) 1998**
 
@@ -4019,11 +4017,11 @@ D. Australia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Rajya Sabha nomination for talent/experience = Ireland.
+
 **Ans: A.** Nomination to Rajya Sabha for special fields follows the **Irish** model.
 
 </details>
-
-**Logic:** Match FR USA; Parliamentary UK; Emergency Germany; DPSP Ireland.
 
 **Q144. IAS (Pre) 1993**
 
@@ -4049,11 +4047,11 @@ D. 1 2 4 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match FR USA; Parliamentary UK; Emergency Germany; DPSP Ireland.
+
 **Ans: C.** USA; UK; Germany; Ireland.
 
 </details>
-
-**Logic:** Residual powers = Canada, not Australia.
 
 **Q145. UPPCS (Pre) 2021**
 
@@ -4069,11 +4067,11 @@ D. Emergency Powers - Germany
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Residual powers = Canada, not Australia.
+
 **Ans: C.** Residuary powers of the Centre are from **Canada**. Concurrent List is from Australia.
 
 </details>
-
-**Logic:** FR USA; DPSP Ireland; Cabinet UK; Union-State Canada.
 
 **Q146. RAS/RTS (Pre) Re-Exam 2013**
 
@@ -4098,11 +4096,11 @@ D. iv iii i ii
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FR USA; DPSP Ireland; Cabinet UK; Union-State Canada.
+
 **Ans: D.** US Bill of Rights; Ireland; Britain; Canada.
 
 </details>
-
-**Logic:** Rule of Law England; Procedure established by law Japan; Bill reserved Canada; Concurrent Australia.
 
 **Q147. UPPSC (GIC) 2010**
 
@@ -4127,11 +4125,11 @@ D. 2 3 4 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Rule of Law England; Procedure established by law Japan; Bill reserved Canada; Concurrent Australia.
+
 **Ans: D.** England; Japan; Canada; Australia.
 
 </details>
-
-**Logic:** DPSP Ireland; FR USA; Concurrent Australia; Union of States Canada.
 
 **Q148. IAS (Pre) 2003**
 
@@ -4158,11 +4156,11 @@ D. 3 5 1 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** DPSP Ireland; FR USA; Concurrent Australia; Union of States Canada.
+
 **Ans: D.** Ireland; USA; Australia; Canada.
 
 </details>
-
-**Logic:** Fundamental Duties = USSR; added by 42nd.
 
 **Q149. UP UDA/LDA (Pre) 2004**
 
@@ -4176,11 +4174,11 @@ D. French Constitution
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fundamental Duties = USSR; added by 42nd.
+
 **Ans: C.** Fundamental Duties follow the **USSR** model and were added by the **42nd Amendment, 1976**.
 
 </details>
-
-**Logic:** Longest Constitution true; FR from USA true but does not alone explain length.
 
 **Q150. UPPCS (Pre) 2015**
 
@@ -4198,11 +4196,11 @@ D. (A) is false, but (R) is true.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Longest Constitution true; FR from USA true but does not alone explain length.
+
 **Ans: B.** Both true. Borrowing FR from the USA is not the sole reason the Constitution is the longest.
 
 </details>
-
-**Logic:** FR = USA.
 
 **Q151. UP RO/ARO (Pre) 2014 / UP UDA 2006**
 
@@ -4216,11 +4214,11 @@ D. Russia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FR = USA.
+
 **Ans: C.** Fundamental Rights = **USA**.
 
 </details>
-
-**Logic:** Same FR USA.
 
 **Q152. UP UDA/LDA (Pre) 2010**
 
@@ -4234,11 +4232,11 @@ D. America
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same FR USA.
+
 **Ans: D.** **USA / America**.
 
 </details>
-
-**Logic:** Same.
 
 **Q153. BPSC (Pre) 2023**
 
@@ -4252,11 +4250,11 @@ D. Canada
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same.
+
 **Ans: B.** **USA**.
 
 </details>
-
-**Logic:** Same.
 
 **Q154. UPPSC (GIC) 2017**
 
@@ -4270,11 +4268,11 @@ D. Russia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same.
+
 **Ans: A.** **USA**.
 
 </details>
-
-**Logic:** Election Commission is an Indian original — not borrowed.
 
 **Q155. Jharkhand PCS (Pre) 2023**
 
@@ -4288,11 +4286,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Election Commission is an Indian original — not borrowed.
+
 **Ans: D.** The **Election Commission** is not borrowed from Ireland, UK or USA. Presidential *election method* is Irish; the EC body is Indian.
 
 </details>
-
-**Logic:** Written Constitution tradition begins with America.
 
 **Q156. MPPCS (Pre) 2015**
 
@@ -4306,6 +4304,8 @@ D. America
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Written Constitution tradition begins with America.
+
 **Ans: D.** The **USA** has the world’s first written Constitution.
 
 </details>
@@ -4313,8 +4313,6 @@ D. America
 ### UKPCS Complete PYQ — Constitutional Development
 
 Harvest of Uttarakhand / UKPCS stems from this chapter.
-
-**Logic:** Same monopoly trap — answer is Charter 1813.
 
 **Q1. UKPCS (Pre) 2016**
 
@@ -4328,11 +4326,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same monopoly trap — answer is Charter 1813.
+
 **Ans: C.** Charter Act **1813** ended monopoly over Indian trade. Tea and China trade monopoly continued.
 
 </details>
-
-**Logic:** CA constituted under Cabinet Mission 1946.
 
 **Q2. UKPCS (Pre) 2012 / UP Lower Sub. (Pre) 2009**
 
@@ -4346,11 +4344,11 @@ D. Indian Independence Act, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CA constituted under Cabinet Mission 1946.
+
 **Ans: C.** The Constituent Assembly was constituted under the **Cabinet Mission Plan, 1946**.
 
 </details>
-
-**Logic:** CA President = Rajendra Prasad.
 
 **Q3. UK UDA/LDA (Pre) 2007**
 
@@ -4364,11 +4362,11 @@ D. Pandit Jawaharlal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CA President = Rajendra Prasad.
+
 **Ans: A.** **Dr. Rajendra Prasad** was President of the Constituent Assembly.
 
 </details>
-
-**Logic:** Objectives Resolution → Preamble; mover = Nehru.
 
 **Q4. UKPCS (Mains) 2006**
 
@@ -4382,11 +4380,11 @@ D. Mahatma Gandhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Objectives Resolution → Preamble; mover = Nehru.
+
 **Ans: A.** **Jawaharlal Nehru’s Objectives Resolution** became the foundation of the Preamble.
 
 </details>
-
-**Logic:** Constitutional Adviser = B.N. Rau.
 
 **Q5. UPPCS (Pre) 2014 / UK UDA 2007**
 
@@ -4399,6 +4397,8 @@ D. K.M. Munshi
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Constitutional Adviser = B.N. Rau.
 
 **Ans: C.** **B.N. Rau** was Constitutional Adviser. Ambedkar chaired the Drafting Committee.
 
@@ -5159,3 +5159,4 @@ D. 25
 24. Gandhi was **not** a CA member; election was **indirect PR-STV**, not UAF
 25. Minorities Sub-Committee chair = **H.C. Mukherjee** (Advisory Committee = Patel)
 26. **284** signed on **26 Nov 1949**; FR = **USA**; DPSP = **Ireland**; GOI **1935** = structural skeleton
+

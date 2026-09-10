@@ -124,8 +124,6 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 **PYQ — UPPCS Prelims 2025, Q24**
 
-**Logic:** Tests Part↔subject matching. Municipalities sit in Part **IXA**, not Part XI (Union–State relations). IVA and VI are correctly matched.
-
 Which pairs of Parts and subjects are NOT correctly matched?
 
 1. Part IVA — Fundamental Duties
@@ -140,13 +138,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tests Part↔subject matching. Municipalities sit in Part **IXA**, not Part XI (Union–State relations). IVA and VI are correctly matched.
+
 **Ans: B — Only 3.** Municipalities = **Part IXA**; Part XI = Union–State relations. Statements 1 and 2 are correct. Trap: parking Municipalities under Part XI because “local” sounds like Centre–State relations.
 
 </details>
 
 **PYQ — UPPCS Prelims 2023, Q1**
-
-**Logic:** Tribunals were added as Part **XIVA** (42nd). Part XI is only Union–State relations. UTs, Scheduled Areas and Official Language matches are standard.
 
 Which (Provision — Part) is NOT correctly matched?
 
@@ -158,13 +156,13 @@ D. Official Language — Part XVII
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tribunals were added as Part **XIVA** (42nd). Part XI is only Union–State relations. UTs, Scheduled Areas and Official Language matches are standard.
+
 **Ans: C.** Tribunals = **Part XIVA**. Part XI = relations between the Union and the States. Trap: confusing XIVA with XI because both sit in the later Parts map.
 
 </details>
 
 **PYQ — UPPCS Prelims 2020, Q110**
-
-**Logic:** Attorney-General is Art. **76** under Part **V** (Union). Part XIII is Trade, Commerce and Intercourse — a classic wrong parking for AG.
 
 Which is NOT correctly matched?
 
@@ -176,13 +174,13 @@ D. Services — Part XIV
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Attorney-General is Art. **76** under Part **V** (Union). Part XIII is Trade, Commerce and Intercourse — a classic wrong parking for AG.
+
 **Ans: C.** Attorney-General is under **Part V**; Part XIII = Trade, Commerce and Intercourse. Trap: AG sounds “legal services”, so candidates park him under XIV/XIII.
 
 </details>
 
 **PYQ — UPPCS Prelims 2018, Q73**
-
-**Logic:** Citizenship is a standalone Part **II** (Arts. 5–11). Part I is only Union and Territory.
 
 In which Part of the Constitution of India do we find the provisions relating to citizenship?
 
@@ -193,6 +191,8 @@ D. Part IX
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Citizenship is a standalone Part **II** (Arts. 5–11). Part I is only Union and Territory.
 
 **Ans: B — Part II.** Part I = Union and its Territory. Part VII is repealed. Part IX = Panchayats.
 
@@ -739,8 +739,6 @@ Originally **8 Schedules** (1950); now **12**.
 
 **PYQ — UPPCS Prelims 2023, Q7**
 
-**Logic:** Ninth Schedule validates Acts. Rajya Sabha seat allocation is the **Fourth** Schedule. Oaths / languages / defection matches are standard.
-
 Which Schedule—Subject pair is NOT correctly matched?
 
 A. Third — Oaths
@@ -751,13 +749,13 @@ D. Tenth — Defection
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ninth Schedule validates Acts. Rajya Sabha seat allocation is the **Fourth** Schedule. Oaths / languages / defection matches are standard.
+
 **Ans: C.** RS seat allocation = **Fourth** Schedule; Ninth = validation of Acts. Trap: mixing “Council of States” with Ninth because both sound institutional.
 
 </details>
 
 **PYQ — UPPCS Prelims 2022, Q89**
-
-**Logic:** Match Schedule to subject. Third = oaths; Fourth = RS seats; Seventh = Lists; Eighth = languages. Row order is not the answer code.
 
 Match List-I with List-II:
 
@@ -781,13 +779,13 @@ D. A-1, B-2, C-3, D-4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match Schedule to subject. Third = oaths; Fourth = RS seats; Seventh = Lists; Eighth = languages. Row order is not the answer code.
+
 **Ans: C** — Oaths; RS seats; Lists; Languages.
 
 </details>
 
 **PYQ — UPPCS Prelims 2019, Q28**
-
-**Logic:** Second Schedule is emoluments of constitutional functionaries. RS seat allocation is **Fourth**. Public health = State List; Census = Union List; anti-defection = Tenth.
 
 Which of the following is NOT correctly matched?
 
@@ -799,13 +797,13 @@ D. Anti-Defection — Tenth Schedule
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Second Schedule is emoluments of constitutional functionaries. RS seat allocation is **Fourth**. Public health = State List; Census = Union List; anti-defection = Tenth.
+
 **Ans: C.** Allocation of RS seats = **Fourth** Schedule (Second = emoluments). Trap: “Council of States” + “Second” looks neat in a match table but is wrong.
 
 </details>
 
 **PYQ — UPPCS Prelims 2025, Q113**
-
-**Logic:** Seventh = Lists; Eighth = languages; Ninth = validation of Acts; Tenth = anti-defection. Do not swap Ninth and Tenth.
 
 Match List-I with List-II and select the correct answer using the code given below the lists:
 
@@ -836,6 +834,8 @@ D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Seventh = Lists; Eighth = languages; Ninth = validation of Acts; Tenth = anti-defection. Do not swap Ninth and Tenth.
 
 **Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
 
@@ -1308,8 +1308,6 @@ D. Part IX
 
 Teaching sits in Topic 3 Parts / Articles / Schedules. Full MCQs from Ghatnachakra so you need not reopen the book.
 
-**Logic:** Original Parts = 22.
-
 **Q1. UPPCS (Mains) 2012**
 
 The Indian Constitution is divided into –
@@ -1322,11 +1320,11 @@ D. 25 Parts
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Original Parts = 22.
+
 **Ans: B.** Originally **22 Parts**. Later additions raise the working count to about **25**.
 
 </details>
-
-**Logic:** Order: I → II → IV → IVA.
 
 **Q2. UPPCS (Pre) 2022**
 
@@ -1345,11 +1343,11 @@ D. III, I, II, IV
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Order: I → II → IV → IVA.
+
 **Ans: A.** Part I → Part II → Part IV → Part IVA.
 
 </details>
-
-**Logic:** Duties = IVA not VI-A.
 
 **Q3. UP Lower Sub. (Pre) 2004**
 
@@ -1363,11 +1361,11 @@ D. State- Part VI of Constitution
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Duties = IVA not VI-A.
+
 **Ans: C.** Fundamental Duties sit in **Part IVA**.
 
 </details>
-
-**Logic:** Municipalities = IXA not XI.
 
 **Q4. UPPCS (Pre) 2025**
 
@@ -1385,11 +1383,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Municipalities = IXA not XI.
+
 **Ans: B.** Municipalities = **Part IXA**. Part XI = Union–State relations.
 
 </details>
-
-**Logic:** Panchayats = Part IX.
 
 **Q5. UPPCS (Pre) 2013**
 
@@ -1403,11 +1401,11 @@ D. Part XII
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Panchayats = Part IX.
+
 **Ans: A.** **Part IX**.
 
 </details>
-
-**Logic:** Legislative relations = Part XI Ch.I.
 
 **Q6. UPPCS (Mains) 2012**
 
@@ -1421,11 +1419,11 @@ D. Part XII and Chapter II
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Legislative relations = Part XI Ch.I.
+
 **Ans: A.** **Part XI Chapter I** = legislative relations.
 
 </details>
-
-**Logic:** Titles FR; panchayats DPSP; child education FD; Bharat Part I.
 
 **Q7. CGPCS (Pre) 2019**
 
@@ -1450,11 +1448,11 @@ D. 2 4 1 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Titles FR; panchayats DPSP; child education FD; Bharat Part I.
+
 **Ans: B.** FR; DPSP; FD; Part I.
 
 </details>
-
-**Logic:** Only IVA–Duties correct.
 
 **Q8. UPPCS (Mains) 2007**
 
@@ -1468,11 +1466,11 @@ D. Part-V : DPSP
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Only IVA–Duties correct.
+
 **Ans: C.** Part IVA = Fundamental Duties.
 
 </details>
-
-**Logic:** UTs = VIII not VII.
 
 **Q9. UP RO/ARO (Pre) Re-Exam 2016**
 
@@ -1486,11 +1484,11 @@ D. Elections — Part XV
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UTs = VIII not VII.
+
 **Ans: B.** UTs = **Part VIII**. Part VII is repealed.
 
 </details>
-
-**Logic:** Elections = Part XV.
 
 **Q10. UP RO/ARO (Re-Exam) (Pre) 2023**
 
@@ -1504,11 +1502,11 @@ D. Part XIV
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Elections = Part XV.
+
 **Ans: B.** **Part XV**.
 
 </details>
-
-**Logic:** IX Panchayats; VIII UTs; IVA Duties; IXA Municipalities.
 
 **Q11. UPPCS (Mains) 2009**
 
@@ -1528,11 +1526,11 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IX Panchayats; VIII UTs; IVA Duties; IXA Municipalities.
+
 **Ans: A.** Panchayats; UTs; Duties; Municipalities.
 
 </details>
-
-**Logic:** Tribunals = XIVA not XI.
 
 **Q12. UPPCS (Pre) 2023**
 
@@ -1546,11 +1544,11 @@ D. Tribunals – Part XI
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tribunals = XIVA not XI.
+
 **Ans: D.** Tribunals = **Part XIVA**.
 
 </details>
-
-**Logic:** Tribunals not Part X.
 
 **Q13. UP RO/ARO (Pre) 2016**
 
@@ -1564,11 +1562,11 @@ D. Tribunals - Part X
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tribunals not Part X.
+
 **Ans: D.** Tribunals = **Part XIVA**. Part X = Scheduled and Tribal Areas.
 
 </details>
-
-**Logic:** PRI = Part IX.
 
 **Q14. UPPCS (Pre) 2016 / 2020**
 
@@ -1582,11 +1580,11 @@ D. IV (a)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PRI = Part IX.
+
 **Ans: A.** **Part IX**.
 
 </details>
-
-**Logic:** Same Part IX.
 
 **Q15. MPPCS (Pre) 2019**
 
@@ -1600,11 +1598,11 @@ D. Part - 9
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same Part IX.
+
 **Ans: D.** **Part IX**.
 
 </details>
-
-**Logic:** FR III; Duties IVA; Union V; Emergency XVIII.
 
 **Q16. UPPCS (Mains) 2013**
 
@@ -1624,11 +1622,11 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FR III; Duties IVA; Union V; Emergency XVIII.
+
 **Ans: A.** III; IVA; V; XVIII.
 
 </details>
-
-**Logic:** AG = Part V not XIII.
 
 **Q17. UPPCS (Pre) 2020**
 
@@ -1642,11 +1640,11 @@ D. Services - Part XIV
 <details>
 <summary>Show answer</summary>
 
+**Logic:** AG = Part V not XIII.
+
 **Ans: C.** AG is under **Part V**. Part XIII = Trade and Commerce.
 
 </details>
-
-**Logic:** XV Elections; XVI special classes; XVII language; XVIII emergency.
 
 **Q18. UP RO/ARO (Mains) 2013**
 
@@ -1666,11 +1664,11 @@ D. 2 1 4 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** XV Elections; XVI special classes; XVII language; XVIII emergency.
+
 **Ans: B.** Elections; Special classes; Language; Emergency.
 
 </details>
-
-**Logic:** Part XVI = special classes.
 
 **Q19. UP RO/ARO (Mains) 2017**
 
@@ -1684,11 +1682,11 @@ D. Special provisions for certain classes
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Part XVI = special classes.
+
 **Ans: D.** **Part XVI**.
 
 </details>
-
-**Logic:** IXA, XVIII, XX all correct.
 
 **Q20. IAS (Pre) 2024**
 
@@ -1705,11 +1703,11 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IXA, XVIII, XX all correct.
+
 **Ans: D.** All three are correct.
 
 </details>
-
-**Logic:** Present count >400 with inserts.
 
 **Q21. BPSC (Pre) 1997**
 
@@ -1723,11 +1721,11 @@ D. 500 Articles
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Present count >400 with inserts.
+
 **Ans: C.** Originally **395**; present working count is **more than 400**.
 
 </details>
-
-**Logic:** Original Articles = 395.
 
 **Q22. UK UDA/LDA (Pre) 2007**
 
@@ -1741,11 +1739,11 @@ D. 270
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Original Articles = 395.
+
 **Ans: C.** Originally **395 Articles**.
 
 </details>
-
-**Logic:** Original 22/395/8.
 
 **Q23. Jharkhand PCS (Pre) 2017**
 
@@ -1759,11 +1757,11 @@ D. 24 Parts, 425 Articles and 12 Schedules
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Original 22/395/8.
+
 **Ans: A.** **22 Parts, 395 Articles, 8 Schedules**.
 
 </details>
-
-**Logic:** Tax bill needs President recommendation = Art.117.
 
 **Q24. Jharkhand PCS (Pre) 2013**
 
@@ -1777,11 +1775,11 @@ D. Article 307
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tax bill needs President recommendation = Art.117.
+
 **Ans: A.** **Article 117**.
 
 </details>
-
-**Logic:** All-India Services = Art.312.
 
 **Q25. UPPSC (RI) 2014**
 
@@ -1795,11 +1793,11 @@ D. Article 313
 <details>
 <summary>Show answer</summary>
 
+**Logic:** All-India Services = Art.312.
+
 **Ans: C.** **Article 312**.
 
 </details>
-
-**Logic:** EC = Art.324.
 
 **Q26. CGPCS (Pre) 2008**
 
@@ -1813,11 +1811,11 @@ D. Attorney General - Article 351
 <details>
 <summary>Show answer</summary>
 
+**Logic:** EC = Art.324.
+
 **Ans: B.** Election Commission = **Article 324**.
 
 </details>
-
-**Logic:** Art.48 ≠ separation of judiciary (Art.50).
 
 **Q27. UPPCS (Pre) 2013**
 
@@ -1831,11 +1829,11 @@ D. Article 48 - Separation of Judiciary from Executive
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Art.48 ≠ separation of judiciary (Art.50).
+
 **Ans: D.** Separation of judiciary = **Article 50**.
 
 </details>
-
-**Logic:** 124 SC; 5 Citizenship; 352 Emergency; 245 legislative powers.
 
 **Q28. UKPCS (Pre) 2002**
 
@@ -1855,11 +1853,11 @@ D. 3 4 1 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 124 SC; 5 Citizenship; 352 Emergency; 245 legislative powers.
+
 **Ans: A.** SC; Citizenship; Emergency; legislative distribution.
 
 </details>
-
-**Logic:** 14 Equality; 36 DPSP; 74 CoM; 368 Amendment.
 
 **Q29. UPPCS (Pre) 2010**
 
@@ -1879,11 +1877,11 @@ D. 3 4 2 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 14 Equality; 36 DPSP; 74 CoM; 368 Amendment.
+
 **Ans: D.** Equality; DPSP; CoM; Amendment.
 
 </details>
-
-**Logic:** 2 admit; 14 equality; 22 arrest; 111 assent.
 
 **Q30. UPPCS (Mains) 2016**
 
@@ -1903,11 +1901,11 @@ D. 4 3 1 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 2 admit; 14 equality; 22 arrest; 111 assent.
+
 **Ans: B.** Art.2; 14; 22; 111.
 
 </details>
-
-**Logic:** 54 President; 75 PM; 155 Governor; 164 CM.
 
 **Q31. IAS (Pre) 2001**
 
@@ -1927,11 +1925,11 @@ D. 2 1 4 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 54 President; 75 PM; 155 Governor; 164 CM.
+
 **Ans: A.** 54; 75; 155; 164.
 
 </details>
-
-**Logic:** 61 impeach; 67(b) VP; 94 Speaker; 90 Deputy Chairman.
 
 **Q32. UPPCS (Pre) 2020**
 
@@ -1951,11 +1949,11 @@ D. 4 1 3 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 61 impeach; 67(b) VP; 94 Speaker; 90 Deputy Chairman.
+
 **Ans: C.** Impeach President; remove VP; remove Speaker; remove Deputy Chairman.
 
 </details>
-
-**Logic:** 324 EC; 315 PSC; 280 FC; 338 NCSC.
 
 **Q33. UPPCS (Pre) 2023**
 
@@ -1973,11 +1971,11 @@ D. A-3 B-2 C-4 D-1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 324 EC; 315 PSC; 280 FC; 338 NCSC.
+
 **Ans: A.** EC; PSC; FC; NCSC.
 
 </details>
-
-**Logic:** 266 CFI; 280 FC; 360 Financial Emergency; 148 CAG.
 
 **Q34. UPPCS (Pre) 2024**
 
@@ -1997,11 +1995,11 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 266 CFI; 280 FC; 360 Financial Emergency; 148 CAG.
+
 **Ans: C.** 266; 280; 360; 148.
 
 </details>
-
-**Logic:** 368 Amendment; 280 FC; 360 FE; 312 AIS.
 
 **Q35. UPPCS (Pre) 2016**
 
@@ -2021,11 +2019,11 @@ D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 368 Amendment; 280 FC; 360 FE; 312 AIS.
+
 **Ans: B.** 368; 280; 360; 312.
 
 </details>
-
-**Logic:** 26 religion; 40 panchayats; 98 secretariat; 239 UT.
 
 **Q36. UP RO/ARO (Pre) 2023**
 
@@ -2043,11 +2041,11 @@ D. A-3 B-1 C-2 D-4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 26 religion; 40 panchayats; 98 secretariat; 239 UT.
+
 **Ans: A.** Religious affairs; Village Panchayats; Secretariat; UT admin.
 
 </details>
-
-**Logic:** Only 352 Emergency correctly matched.
 
 **Q37. UP Lower Sub. (Pre) 2002**
 
@@ -2061,11 +2059,11 @@ D. Article 352 - Proclamation of Emergency
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Only 352 Emergency correctly matched.
+
 **Ans: D.** **Article 352** = Emergency. Art.17 = untouchability.
 
 </details>
-
-**Logic:** 215 record; 222 transfer; 226 writs; 227 superintendence.
 
 **Q38. RAS/RTS (Pre) 2013**
 
@@ -2085,11 +2083,11 @@ D. (iv) (ii) (iii) (i)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 215 record; 222 transfer; 226 writs; 227 superintendence.
+
 **Ans: A.** Court of record; transfer; writs; superintendence.
 
 </details>
-
-**Logic:** HC for UTs = Art.241.
 
 **Q39. UP RO/ARO (Mains) 2016**
 
@@ -2103,11 +2101,11 @@ D. Article 239
 <details>
 <summary>Show answer</summary>
 
+**Logic:** HC for UTs = Art.241.
+
 **Ans: B.** **Article 241**.
 
 </details>
-
-**Logic:** 76 AG; 148 CAG; 75(1) ministers; 131 SC original.
 
 **Q40. UPPCS (Mains) 2015**
 
@@ -2127,11 +2125,11 @@ D. 2 3 4 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 76 AG; 148 CAG; 75(1) ministers; 131 SC original.
+
 **Ans: B.** AG; CAG; Union Ministers; SC original jurisdiction.
 
 </details>
-
-**Logic:** 371C = Manipur not Meghalaya.
 
 **Q41. MPPCS (Pre) 2018**
 
@@ -2145,11 +2143,11 @@ D. 371D — Andhra Pradesh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 371C = Manipur not Meghalaya.
+
 **Ans: C.** **Article 371C** = Manipur.
 
 </details>
-
-**Logic:** 12 Schedules now.
 
 **Q42. MPPCS (Pre) 1990**
 
@@ -2163,11 +2161,11 @@ D. 10
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 12 Schedules now.
+
 **Ans: A.** Originally **8**; now **12**.
 
 </details>
-
-**Logic:** Only stmt 3 correct.
 
 **Q43. IAS (Pre) 2005**
 
@@ -2186,11 +2184,11 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Only stmt 3 correct.
+
 **Ans: C.** Only statement 3 is correct.
 
 </details>
-
-**Logic:** First Schedule = States/UTs.
 
 **Q44. IAS (Pre) 2003**
 
@@ -2204,11 +2202,11 @@ D. Fourth
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First Schedule = States/UTs.
+
 **Ans: A.** **First Schedule**.
 
 </details>
-
-**Logic:** New State → amend First Schedule.
 
 **Q45. IAS (Pre) 2001**
 
@@ -2222,11 +2220,11 @@ D. Fourth
 <details>
 <summary>Show answer</summary>
 
+**Logic:** New State → amend First Schedule.
+
 **Ans: A.** **First Schedule**.
 
 </details>
-
-**Logic:** Fourth = RS seats.
 
 **Q46. UPPCS (Mains) 2015**
 
@@ -2240,11 +2238,11 @@ D. Languages
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fourth = RS seats.
+
 **Ans: A.** **Fourth Schedule** = Rajya Sabha seats.
 
 </details>
-
-**Logic:** President oath = Art.60 not Third Schedule.
 
 **Q47. UPPCS (Pre) 2017**
 
@@ -2262,11 +2260,11 @@ D. 1, 2, 3, 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** President oath = Art.60 not Third Schedule.
+
 **Ans: C.** President’s oath is in **Article 60**, not the Third Schedule.
 
 </details>
-
-**Logic:** 3 oaths; 4 RS; 7 lists; 8 languages.
 
 **Q48. UPPCS (Pre) 2022**
 
@@ -2286,11 +2284,11 @@ D. 2 1 4 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 3 oaths; 4 RS; 7 lists; 8 languages.
+
 **Ans: D.** Oaths; RS seats; Lists; Languages.
 
 </details>
-
-**Logic:** Scheduled Areas = Fifth not Sixth.
 
 **Q49. BPSC (Pre) 2025**
 
@@ -2304,11 +2302,11 @@ D. Union List — 7th schedule
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Scheduled Areas = Fifth not Sixth.
+
 **Ans: C.** Scheduled Areas = **Fifth Schedule**. Sixth = AMTM tribal areas.
 
 </details>
-
-**Logic:** 4 RS; 6 tribal; 8 languages; 9 land.
 
 **Q50. UPPCS (Pre) 1999**
 
@@ -2328,11 +2326,11 @@ D. 4 2 1 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 4 RS; 6 tribal; 8 languages; 9 land.
+
 **Ans: C.** RS; Tribal Areas; Languages; Land Reforms.
 
 </details>
-
-**Logic:** 7 lists; 8 languages; 9 validation; 10 defection.
 
 **Q51. UP RO/ARO (Pre) 2016**
 
@@ -2352,11 +2350,11 @@ D. 4 2 1 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 7 lists; 8 languages; 9 validation; 10 defection.
+
 **Ans: C.** Lists; Languages; Validation; Defection.
 
 </details>
-
-**Logic:** Ninth ≠ RS seats.
 
 **Q52. UPPCS (Pre) 2023**
 
@@ -2370,11 +2368,11 @@ D. Ninth — Allocation of seats in Council of States
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ninth ≠ RS seats.
+
 **Ans: D.** RS seats = **Fourth**. Ninth = validation of Acts.
 
 </details>
-
-**Logic:** Ninth under Nehru / 1st Amendment.
 
 **Q53. IAS (Pre) 2019**
 
@@ -2388,11 +2386,11 @@ D. Morarji Desai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ninth under Nehru / 1st Amendment.
+
 **Ans: A.** Added by **1st Amendment, 1951** under **Nehru**.
 
 </details>
-
-**Logic:** Land reform protection = Ninth.
 
 **Q54. UPPCS (Mains) 2003**
 
@@ -2406,11 +2404,11 @@ D. 10th Schedule
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Land reform protection = Ninth.
+
 **Ans: B.** **Ninth Schedule**.
 
 </details>
-
-**Logic:** Can place in 9th; not immune after Coelho for post-1973.
 
 **Q55. IAS (Pre) 2018**
 
@@ -2428,11 +2426,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Can place in 9th; not immune after Coelho for post-1973.
+
 **Ans: A.** Statement 2 is wrong after *I.R. Coelho* for post-**24 April 1973** entries.
 
 </details>
-
-**Logic:** Coelho = Ninth Schedule.
 
 **Q56. UPPCS (Mains) 2017**
 
@@ -2446,11 +2444,11 @@ D. Tenth
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Coelho = Ninth Schedule.
+
 **Ans: C.** *I.R. Coelho* concerns the **Ninth Schedule**.
 
 </details>
-
-**Logic:** Three lists = Seventh.
 
 **Q57. UP RO/ARO (Mains) 2021**
 
@@ -2464,11 +2462,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Three lists = Seventh.
+
 **Ans: B.** **Seventh Schedule**.
 
 </details>
-
-**Logic:** Original 97/66/47.
 
 **Q58. BPSC (Pre) 2016**
 
@@ -2487,11 +2485,11 @@ D. C B A
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Original 97/66/47.
+
 **Ans: B.** Union 97; State 66; Concurrent 47 (original).
 
 </details>
-
-**Logic:** Economic planning = Concurrent.
 
 **Q59. UKPCS (Pre) 2002**
 
@@ -2505,11 +2503,11 @@ D. Not specified in any list
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Economic planning = Concurrent.
+
 **Ans: C.** **Concurrent List**.
 
 </details>
-
-**Logic:** Cruelty to animals = Concurrent.
 
 **Q60. BPSC (Pre) Re-Exam 2020**
 
@@ -2523,11 +2521,11 @@ D. Preamble
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Cruelty to animals = Concurrent.
+
 **Ans: C.** **Concurrent List**.
 
 </details>
-
-**Logic:** Criminal matters = Concurrent.
 
 **Q61. CGPCS (Pre) 2011**
 
@@ -2541,11 +2539,11 @@ D. Foreign Affairs
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Criminal matters = Concurrent.
+
 **Ans: B.** Criminal law/procedure = **Concurrent**.
 
 </details>
-
-**Logic:** Population control = Concurrent.
 
 **Q62. IAS (Pre) 1993**
 
@@ -2559,11 +2557,11 @@ D. Treasure Trove
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Population control = Concurrent.
+
 **Ans: A.** Population control = Concurrent (**42nd**).
 
 </details>
-
-**Logic:** Adulteration + Succession Concurrent.
 
 **Q63. UPPCS (Pre) 2024**
 
@@ -2580,11 +2578,11 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Adulteration + Succession Concurrent.
+
 **Ans: D.** Adulteration and Succession are Concurrent. Bare Trade and Commerce is not wholly Concurrent.
 
 </details>
-
-**Logic:** Wildlife + price control Concurrent.
 
 **Q64. BPSC (Pre) 2025**
 
@@ -2602,11 +2600,11 @@ D. Only 2 is correct
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wildlife + price control Concurrent.
+
 **Ans: A.** Wildlife and price control = Concurrent.
 
 </details>
-
-**Logic:** RS seats = Fourth not Second.
 
 **Q65. UPPCS (Pre) 2019**
 
@@ -2620,11 +2618,11 @@ D. Anti-Defection — Tenth Schedule
 <details>
 <summary>Show answer</summary>
 
+**Logic:** RS seats = Fourth not Second.
+
 **Ans: C.** RS allocation = **Fourth Schedule**.
 
 </details>
-
-**Logic:** Education = Concurrent after 42nd.
 
 **Q66. BPSC (Pre) 2005**
 
@@ -2638,11 +2636,11 @@ D. Defence
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Education = Concurrent after 42nd.
+
 **Ans: B.** **Education** (after **42nd**).
 
 </details>
-
-**Logic:** Education moved by 42nd.
 
 **Q67. UP Lower Sub. (Pre) 2008**
 
@@ -2656,11 +2654,11 @@ D. 44th Amendment
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Education moved by 42nd.
+
 **Ans: C.** **42nd Amendment**.
 
 </details>
-
-**Logic:** Forests moved by 42nd.
 
 **Q68. CGPCS (Pre) 2020**
 
@@ -2674,11 +2672,11 @@ D. 45th
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Forests moved by 42nd.
+
 **Ans: B.** **42nd Amendment**.
 
 </details>
-
-**Logic:** Stock Exchange = Union.
 
 **Q69. UPPCS (Pre) 2009**
 
@@ -2692,11 +2690,11 @@ D. Public Health — State
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Stock Exchange = Union.
+
 **Ans: B.** Stock Exchange = **Union List**.
 
 </details>
-
-**Logic:** Census Union; Police State; Pop control Concurrent; Space residuary.
 
 **Q70. UPPCS (Mains) 2004**
 
@@ -2716,11 +2714,11 @@ D. 4 1 2 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Census Union; Police State; Pop control Concurrent; Space residuary.
+
 **Ans: A.** Census; Police; Population control; Space research.
 
 </details>
-
-**Logic:** Education bears on all five.
 
 **Q71. IAS (Pre) 2012**
 
@@ -2735,11 +2733,11 @@ D. 1, 2, 3, 4 and 5
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Education bears on all five.
+
 **Ans: D.** All five.
 
 </details>
-
-**Logic:** Tenth = Anti-defection.
 
 **Q72. BPSC (Pre) 1996**
 
@@ -2753,11 +2751,11 @@ D. Anti-defection Law
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tenth = Anti-defection.
+
 **Ans: D.** **Anti-defection Law**.
 
 </details>
-
-**Logic:** Gas = State.
 
 **Q73. UPPCS (Pre) 1997**
 
@@ -2771,11 +2769,11 @@ D. Gas
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gas = State.
+
 **Ans: D.** **Gas** = State List.
 
 </details>
-
-**Logic:** Agriculture = State.
 
 **Q74. CGPCS (Pre) 2011**
 
@@ -2789,11 +2787,11 @@ D. Agriculture
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Agriculture = State.
+
 **Ans: D.** **Agriculture** = State List.
 
 </details>
-
-**Logic:** Railway Police = State.
 
 **Q75. UPPCS (Pre) 1997**
 
@@ -2807,11 +2805,11 @@ D. Forest
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Railway Police = State.
+
 **Ans: C.** **Railway Police** = State.
 
 </details>
-
-**Logic:** PRI = State List.
 
 **Q76. CGPCS (Pre) 2011**
 
@@ -2825,11 +2823,11 @@ D. Residuary List
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PRI = State List.
+
 **Ans: B.** **State List**.
 
 </details>
-
-**Logic:** CrPC = Concurrent.
 
 **Q77. UPPCS (Mains) 2006**
 
@@ -2843,11 +2841,11 @@ D. Public Order
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CrPC = Concurrent.
+
 **Ans: A.** **Criminal Procedure** = Concurrent.
 
 </details>
-
-**Logic:** Marriage Divorce Adoption = Concurrent.
 
 **Q78. UP Lower Sub. (Spl) (Pre) 2010**
 
@@ -2861,11 +2859,11 @@ D. None
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Marriage Divorce Adoption = Concurrent.
+
 **Ans: C.** **Concurrent List**.
 
 </details>
-
-**Logic:** Taxing power via Seventh Schedule.
 
 **Q79. IAS (Pre) 2009**
 
@@ -2879,11 +2877,11 @@ D. XI
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Taxing power via Seventh Schedule.
+
 **Ans: B.** **Seventh Schedule**.
 
 </details>
-
-**Logic:** Inter-State quarantine = Union.
 
 **Q80. IAS (Pre) 2024**
 
@@ -2897,11 +2895,11 @@ D. Corporation tax is a State subject
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Inter-State quarantine = Union.
+
 **Ans: C.** Inter-State quarantine = **Union List**.
 
 </details>
-
-**Logic:** Land reform = State.
 
 **Q81. BPSC (Pre) 1999**
 
@@ -2915,11 +2913,11 @@ D. none of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Land reform = State.
+
 **Ans: C.** **State List**.
 
 </details>
-
-**Logic:** Anti-defection = Tenth.
 
 **Q82. IAS (Pre) 2014 / UKPCS 2021**
 
@@ -2933,11 +2931,11 @@ D. Tenth
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Anti-defection = Tenth.
+
 **Ans: D.** **Tenth Schedule**.
 
 </details>
-
-**Logic:** Tribal land / mining = Fifth / Samatha.
 
 **Q83. IAS (Pre) 2019**
 
@@ -2951,11 +2949,11 @@ D. Twelfth
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tribal land / mining = Fifth / Samatha.
+
 **Ans: B.** **Fifth Schedule** (*Samatha*).
 
 </details>
-
-**Logic:** Fifth Schedule blocks tribal land transfer to non-tribals.
 
 **Q84. IAS (Pre) 2022**
 
@@ -2969,11 +2967,11 @@ D. Declare Special Category State
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fifth Schedule blocks tribal land transfer to non-tribals.
+
 **Ans: A.** Fifth Schedule powers check transfer of tribal land to non-tribals.
 
 </details>
-
-**Logic:** Fifth = Scheduled Tribes.
 
 **Q85. BPSC (Pre) 2023**
 
@@ -2987,11 +2985,11 @@ D. Linguistic Minorities
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fifth = Scheduled Tribes.
+
 **Ans: C.** **Scheduled Tribes** / Scheduled Areas.
 
 </details>
-
-**Logic:** Fifth = Scheduled Areas admin.
 
 **Q86. IAS (Pre) 2008**
 
@@ -3005,11 +3003,11 @@ D. Ninth
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fifth = Scheduled Areas admin.
+
 **Ans: B.** **Fifth Schedule**.
 
 </details>
-
-**Logic:** 5th+6th protect ST interests.
 
 **Q87. IAS (Pre) 2015**
 
@@ -3023,11 +3021,11 @@ D. Protect all border States
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 5th+6th protect ST interests.
+
 **Ans: A.** Protect **Scheduled Tribe** interests.
 
 </details>
-
-**Logic:** Sixth = AMTM.
 
 **Q88. UP RO/ARO (Pre) 2023**
 
@@ -3041,11 +3039,11 @@ D. Assam, Meghalaya, Tripura & Mizoram
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sixth = AMTM.
+
 **Ans: D.** **AMTM**.
 
 </details>
-
-**Logic:** Manipur not Sixth.
 
 **Q89. MPPCS (Pre) 2005**
 
@@ -3059,11 +3057,11 @@ D. Manipur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Manipur not Sixth.
+
 **Ans: D.** **Manipur** is outside Sixth Schedule.
 
 </details>
-
-**Logic:** Tripura yes among options.
 
 **Q90. UPPCS (Pre) 2019**
 
@@ -3077,11 +3075,11 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tripura yes among options.
+
 **Ans: A.** Only **Tripura** among these.
 
 </details>
-
-**Logic:** President notifies SA; TAC needed.
 
 **Q91. UP RO/ARO (Pre) 2023**
 
@@ -3097,11 +3095,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** President notifies SA; TAC needed.
+
 **Ans: C.** Both are correct.
 
 </details>
-
-**Logic:** 1 and 2 true; CM report false.
 
 **Q92. IAS (Pre) 2023**
 
@@ -3120,11 +3118,11 @@ D. None
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1 and 2 true; CM report false.
+
 **Ans: B.** 1 and 2 correct. Governor reports to President — not CM to Home Ministry.
 
 </details>
-
-**Logic:** Neither I nor II.
 
 **Q93. IAS (Pre) 2025**
 
@@ -3140,11 +3138,11 @@ D. Neither I nor II
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Neither I nor II.
+
 **Ans: D.** Neither is correct. State executive power continues.
 
 </details>
-
-**Logic:** ADC ≤30; ≤4 nominated not 6.
 
 **Q94. CGPCS (Pre) 2021**
 
@@ -3161,11 +3159,11 @@ D. Only (i)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** ADC ≤30; ≤4 nominated not 6.
+
 **Ans: B.** Not more than **4** nominated (not 6). (i) and (iii) hold.
 
 </details>
-
-**Logic:** Eleventh = Panchayats.
 
 **Q95. UPPCS (Pre) 2015**
 
@@ -3179,11 +3177,11 @@ D. Removal of corruption
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Eleventh = Panchayats.
+
 **Ans: B.** **Eleventh Schedule** = Panchayats.
 
 </details>
-
-**Logic:** Same Eleventh.
 
 **Q96. MPPCS (Pre) 2024**
 
@@ -3197,11 +3195,11 @@ D. State list
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same Eleventh.
+
 **Ans: A.** **Eleventh Schedule**.
 
 </details>
-
-**Logic:** 11th has 29 items.
 
 **Q97. UPPCS (Pre) 2019**
 
@@ -3215,13 +3213,13 @@ D. 32
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 11th has 29 items.
+
 **Ans: C.** **29** subjects.
 
 </details>
 
 ### UKPCS Complete PYQ — Parts / Articles / Schedules
-
-**Logic:** Original Articles = 395.
 
 **Q1. UK UDA/LDA (Pre) 2007**
 
@@ -3235,11 +3233,11 @@ D. 270
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Original Articles = 395.
+
 **Ans: C.** Originally **395 Articles**.
 
 </details>
-
-**Logic:** 124 SC; 5 Citizenship; 352 Emergency; 245 legislative powers.
 
 **Q2. UKPCS (Pre) 2002**
 
@@ -3259,11 +3257,11 @@ D. 3 4 1 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 124 SC; 5 Citizenship; 352 Emergency; 245 legislative powers.
+
 **Ans: A.** SC; Citizenship; Emergency; legislative distribution.
 
 </details>
-
-**Logic:** Economic planning = Concurrent.
 
 **Q3. UKPCS (Pre) 2002**
 
@@ -3277,11 +3275,11 @@ D. Not specified in any list
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Economic planning = Concurrent.
+
 **Ans: C.** **Concurrent List**.
 
 </details>
-
-**Logic:** Anti-defection = Tenth.
 
 **Q4. IAS (Pre) 2014 / UKPCS 2021**
 
@@ -3294,6 +3292,8 @@ D. Tenth
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Anti-defection = Tenth.
 
 **Ans: D.** **Tenth Schedule**.
 
@@ -4168,3 +4168,4 @@ D. Article 280
 26. Art. **76** = Attorney-General of India; Art. **165** = Advocate-General of a State
 27. Art. **21** expansions ≠ Art. **21A** RTE ages 6–14
 28. Art. **51A** has **11** clauses (a–k); (k) is the 86th addition only
+
