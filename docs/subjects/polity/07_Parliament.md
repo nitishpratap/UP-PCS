@@ -12,8 +12,8 @@
 
 > **Sources baked in:** Laxmikanth (Parliament), Constitution Part V Ch. II (Arts. 79–122) + Arts. 107–117, 265–267, 368, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Art. **110 ≠ 109 ≠ 117**; Money Bill only LS + Speaker’s certificate + RS 14 days; joint sitting never for Money/CAB; PAC 22 (15+7) chair from **opposition**; Estimates **30 LS-only** (largest among options); Zero Hour = **after** Question Hour; CFI 266 / Contingency **267**
-> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Lok Sabha + Rajya Sabha + Conduct/Procedure); teaching gap-pass from dump
-> **Current Affairs:** 18th Lok Sabha (2024); **Om Birla** Speaker (second term); Deputy Speaker post vacant since May 2019; **Rahul Gandhi** LoP; **Sudha Murty** / Satnam Singh Sandhu nominated to RS (2024); new Parliament building (**Bimal Patel**, inaugurated 28 May 2023)
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Lok Sabha + Rajya Sabha + Conduct/Procedure + Committees); teaching gap-pass from dump
+> **Current Affairs:** 18th Lok Sabha (2024); **Om Birla** Speaker (second term); Deputy Speaker post vacant since May 2019; **Rahul Gandhi** LoP; **Sudha Murty** / Satnam Singh Sandhu nominated to RS (2024); new Parliament building (**Bimal Patel**, inaugurated 28 May 2023); PAC chair **K.C. Venugopal** (2024–25)
 
 ---
 
@@ -27,6 +27,7 @@
 - **2024 polls:** 7 phases; **Malogam** (Arunachal East) one-voter booth; **Shompen** (Great Nicobar) voted for the first time in Andaman & Nicobar LS seat.
 - **2017–:** Union Budget on **1 February**; **Railway Budget merged** with General Budget.
 - **Convention:** PAC chair from the **Opposition** (since 1967).
+- **18th Lok Sabha committee chairs (2024–25, Om Birla):** **Public Accounts** — **K.C. Venugopal**; **Estimates** — **Sanjay Jaiswal**; **Public Undertakings** — **Baijayant Panda**; **SC/ST Welfare** — **Faggan Singh Kulaste**; **OBC Welfare** — **Ganesh Singh**. Trap: Baijayant Panda is **COPU**, not Estimates.
 
 ---
 
@@ -864,9 +865,11 @@ The **Whip** is an **extra-constitutional** party office, not found anywhere in 
 - **Contingency Fund = Art. 266:267**; 266 = CFI + Public Account.
 - **LS can increase a Demand for Grants:No** — only reduce or refuse.
 - **AG’s salary is charged:No.**
-- **PAC has 15 members from RS:7 from RS, 15 from LS**.
-- **Estimates Committee has RS members:No — 30, all LS**.
-- **PAC chair from ruling party:Opposition** (since 1967).
+- **PAC has 15 members from RS:** No — **15 LS + 7 RS**.
+- **Estimates Committee has RS members:** No — **30, all LS**.
+- **PAC chair from ruling party:** Opposition (since **1967**).
+- **Ethics complaint only by an MP:** Wrong — any person may complain if **forwarded by a member**.
+- **Baijayant Panda = Estimates chair (2024–25):** Wrong — he chairs **COPU**; **Sanjay Jaiswal** chairs Estimates.
 - **Zero Hour is the first hour:** first hour = **Question Hour**; Zero Hour **follows** it.
 - **No-confidence in Rajya Sabha:LS only**.
 - **Charged expenditure is not discussed:** it **is discussed**, but **not voted**.
@@ -5801,28 +5804,40 @@ D. The time immediately following the question hour
 
 ## Financial Committees
 
-Parliament has three **financial** committees. Members are **elected annually** by proportional representation, using the single transferable vote. **No minister** can be a member of any of the three — a member who is later made a minister must vacate his seat on the committee.
+Parliament is assisted by committees that are **appointed or elected** by the Houses or **nominated** by the Speaker / Chairman. They work under the direction of the Speaker / Chairman and report to the House or to the Chair.
+
+**Standing vs Ad hoc.** Standing committees are **permanent** (constituted every year or periodically) and work continuously. Ad hoc committees are **temporary** and end when their assigned task is done.
+
+Standing committees are commonly grouped as: (i) **Financial Committees**, (ii) **Departmentally Related Standing Committees** (24), (iii) **Committees of Enquiry**, (iv) **Committees to Scrutinise and Control**, (v) **Day-to-day business** committees of the House, and (vi) **Housekeeping / Service** committees. Most joint standing committees draw members from Lok Sabha and Rajya Sabha in roughly a **2:1** ratio (Estimates is the classic exception).
+
+Parliament has three **financial** committees. Members are **elected annually** by proportional representation, using the single transferable vote. **No minister** can be a member of any of the three — a member who is later made a minister must vacate the seat on the committee.
 
 | | **PAC** | **Estimates Committee** | **COPU** |
 |--|---------|-------------------------|----------|
 | Born | **1921** (Montagu–Chelmsford; continued after 1950) | **1950** (John Mathai’s suggestion) | **1964** (on Krishna Menon’s suggestion) |
 | Strength | **22** = **15 LS + 7 RS** | **30 — all LS** (**no RS**) | **22** = **15 LS + 7 RS** |
-| Chair | LS member from the **Opposition** (convention since **1967**) | From the **ruling** party | From LS (usually ruling) |
-| CAG link | **Yes** — examines CAG’s audit reports (civil, defence, railways, autonomous bodies) | **None** | **Yes** — CAG reports **on PSUs** + PSU accounts |
-| Job | Post-mortem of **expenditure already incurred**; appropriation accounts; that money was spent **as Parliament voted** | Examine **budget estimates** (ongoing / upcoming); suggest economies and alternative policies; **cannot** question policy in the sense of a PAC audit | Examine **PSUs**: reports, accounts, efficiency, autonomy |
-| Report to | Parliament (presented to **Speaker**; copy to RS Chairman) | Lok Sabha | Both Houses |
+| Chair | LS member from the **Opposition** (convention since **1967**); appointed by the **Speaker** | Appointed by the **Speaker** from among members; usually **ruling** party | From LS (usually ruling); appointed by the Speaker |
+| CAG link | **Yes** — examines CAG’s audit reports (civil, defence, railways, autonomous bodies, revenue receipts) | **None** | **Yes** — CAG reports **on PSUs** + PSU accounts |
+| Job | Post-mortem of **expenditure already incurred**; appropriation / finance accounts; that money was spent **as Parliament voted** | Examine **budget estimates**; suggest economies and **alternative policies**; organisational / administrative improvements consistent with the policy underlying the estimates | Examine **PSUs**: reports, accounts, efficiency, autonomy; also looks at **disinvestment** of PSUs |
+| Report to | Ordinarily to the **House**; when the House is not in session, may present to the **Speaker** and later to the House (copy laid in Rajya Sabha) | Lok Sabha | Both Houses |
 
 **PAC extra facts**
 - The **PAC** is the **oldest** of the three financial committees.
 - The PAC acts as a kind of **mini-Parliament on accounts**, but it **cannot intervene** in the day-to-day administration of a ministry.
-- The **CAG's audit reports** are the PAC's **starting point** ination.
-- The PAC also examines **excess grantsbefore** the Lok Sabha votes on them.
+- The **CAG’s audit reports**, laid before Parliament by the **President**, are the PAC’s **starting point**.
+- The PAC also examines **excess grants** before the Lok Sabha votes on them.
+- **CAG** itself is **not** a parliamentary committee — it is a constitutional authority under **Article 148**, separate from the three financial committees as tools of parliamentary control.
 
 **Estimates extra facts**
-- The **Estimates Committee** is the **largest** among the three financial committees.
+- The **Estimates Committee** is the **largest** among the three financial committees (30), and **Rajya Sabha has no seat** on it.
 - It **continues the work** of the colonial-era **Standing Finance Committee**.
-- The Estimates Committee examines only **estimates**, not past accounts.
+- The Estimates Committee examines only **estimates**, not past accounts, and has **no CAG link**.
 - A demand that has already been voted can still be **studied by the Estimates Committee** for the following year.
+- The **Joint Committee on Salaries and Allowances of Members** is a **housekeeping** committee, **not** a financial committee.
+
+**COPU extra facts**
+- COPU examines reports and accounts of public undertakings listed in the **Fourth Schedule** to the Lok Sabha Rules, plus CAG reports on those undertakings.
+- It also checks whether PSUs are managed on **sound business principles**, and may take up PAC / Estimates-type functions for PSUs when allotted by the Speaker.
 
 **PYQ — UPPCS Prelims 2025, Q42**
 
@@ -5838,6 +5853,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** PAC strength is 15 Lok Sabha + 7 Rajya Sabha; report goes to the Lok Sabha / Speaker path, not “15 from Rajya Sabha”.
 
 **Ans: D — Only 1.** Strength = **15 from LS + 7 from RS** (not 15 from RS).
 
@@ -5859,6 +5876,8 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Financial trio = PAC + Estimates + COPU; housekeeping / salaries committees are not financial.
+
 **Ans: B — All three.**
 
 </details>
@@ -5874,6 +5893,8 @@ D. None of the above
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** PAC examines CAG reports generally; COPU examines CAG reports **on PSUs**; Estimates has no CAG link. Several keys treat PAC as the primary answer; both PAC and COPU can be correct depending on the stem’s scope.
 
 **Ans: A — PAC.** (COPU examines CAG reports **on PSUs** only; Estimates has **no** CAG link.)
 
@@ -5891,6 +5912,8 @@ D. Contingency Fund of India
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PAC’s core job is CAG audit reports and appropriation accounts — not control of the three funds as a treasury.
+
 **Ans: A.**
 
 </details>
@@ -5907,6 +5930,8 @@ D. Committee on Petitions
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Among these options Estimates (30) is largest; a DRSC has 31 but is not listed here.
+
 **Ans: B — Estimates (30).** Among the **options**, Estimates is largest. (A **DRSC** has **31** members — not in the options.)
 
 </details>
@@ -5916,34 +5941,44 @@ D. Committee on Petitions
 ## Departmental & other committees
 
 **Departmentally Related Standing Committees (DRSCs)**
-- DRSCs were **created in 1993**, with **17** committees at birth; there are now **24**, covering all ministries.
+- DRSCs were **created in 1993**, with **17** committees at birth; there are now **24**, covering all ministries (**2004** expansion from 17 to 24).
 - Each DRSC has **31 members** — **21** from the Lok Sabha and **10** from the Rajya Sabha — serving a **one-year term**.
 - **No minister** can be a member of a DRSC.
-- **16** DRSCs are chaired under the **Lok Sabha Speaker**, and **8** under the **Rajya Sabha Chairman**.
+- **16** DRSCs work under the **Lok Sabha Speaker**, and **8** under the **Rajya Sabha Chairman**.
+- Example of a **Rajya Sabha** DRSC: **Health and Family Welfare**. Labour, Urban Development, and Social Justice & Empowerment are among those under the **Lok Sabha**.
 - DRSCs examine: (i) **Demands for Grants**, (ii) **Bills** referred to them by the Chair, (iii) **annual reports** of ministries, and (iv) **long-term policy documents**.
 - A DRSC **cannot suggest cut motions** and **cannot consider day-to-day administration**.
 - DRSC reports are **recommendatory**, not binding on the government.
 - DRSCs have effectively **replaced the old committee stage** for many Bills.
+- DRSCs (and ad hoc parliamentary committees) may also **review independent regulators** in sectors such as telecom, insurance, and electricity; bodies like the Finance Commission, NITI Aayog, or FSLRC are **not** the usual reviewers of those regulators.
 
-**Other committees**
+**Committees of enquiry / scrutinise & control**
+- **Committee on Petitions** — Lok Sabha **15**, Rajya Sabha **10**; a minister is **not** nominated; considers petitions presented to the House and related representations.
+- **Committee of Privileges** (Lok Sabha **15**, Rajya Sabha **10**) examines alleged **breach of privilege and contempt**, and recommends punishment.
+- **Ethics Committee** — first in **Rajya Sabha (1997)**; Lok Sabha Ethics began as an **ad hoc** body under Speaker **G.M.C. Balayogi** on **16 May 2000** and became a **standing** committee in the Rules in **2015**. Any person may complain about unethical conduct of an LS member, but a complaint by a non-member must be **forwarded by a member**. The Committee **does not take up sub-judice** matters (Rule 233A).
+- The **Committee on Subordinate Legislation** (Lok Sabha **15**, Rajya Sabha **15**; members nominated by Speaker / Chairman; **no minister**) examines whether regulations, rules, sub-rules, and bye-laws made under an Act or the Constitution are **within the scope of the delegation** and properly laid.
+- The **Committee on Government Assurances** watches whether **promises made by ministers** on the floor of the House were actually **kept**.
+- There is **no** parliamentary committee titled for the **welfare of minorities**; minority welfare is handled through the **National Commission for Minorities** and related machinery — do not confuse with SC/ST or OBC welfare committees.
+
+**Other day-to-day / housekeeping committees**
 - The **Business Advisory Committee (BAC)** is presided over by the **Speaker** in the Lok Sabha and the **Chairman** in the Rajya Sabha, and it **allots time** for government and other business; the Lok Sabha BAC has **15 members including the Speaker**, and the House **approves** its report.
 - The **Rules Committee** is chaired by the Speaker (Lok Sabha strength **15**); it deals with **procedure and conduct of business** and recommends amendments to the **Rules**.
-- The **Ethics Committee** was set up **first in the Rajya Sabha (1997)** and later in the **Lok Sabha (2000)**; it examines the **moral and ethical conduct** of members and can recommend suspension or censure.
-- The **Privileges Committee** (Lok Sabha **15**, Rajya Sabha **10**) examines alleged **breach of privilege and contempt**, and recommends punishment.
-- The **Committee on Petitions** examines petitions from the **public** relating to Bills or other matters.
-- The **Committee on Subordinate Legislation** (Lok Sabha **15**, Rajya Sabha **15**) checks whether rules, regulations, and bye-laws made **under an Act** are within the Act's scope, and whether they were **laid on the Table** within the statutory time.
-- The **Committee on Government Assurances** (in the Lok Sabha since 1953) watches whether **promises made by ministers** on the floor of the House were actually **kept**.
 - The **General Purposes Committee** — the Speaker, Deputy Speaker, the Panel of Chairpersons, other committee chairs, the LoP, and the Leader of the House — advises on the **arrangements** of the House.
 - The **Committee on Papers Laid on the Table** checks whether papers that are required to be laid before the House **have in fact been laid**, and on time.
 - The **Committee on Absence of Members** examines requests for **leave of absence** and recommends whether a seat should be vacated under the **60-day rule**.
 - The **Joint Committee on Office of Profit** advises on which offices should be **exempted** from the office-of-profit disqualification.
-- **Consultative Committees** are **extra-constitutional** bodies attached to ministries, constituted by the **Ministry of Parliamentary Affairs**, for **informal discussion** — they are **not** House committees.
+- The **Committee on Welfare of SCs and STs** is a standing / functional parliamentary committee — not an “ad hoc-only” body, and not to be confused with “not a standing committee” traps that list PAC / Estimates / COPU alone as the only standing committees.
 
-**Standing vs Ad hoc**
-- **Standing committees** are continuous bodies — the financial trio, the DRSCs, the BAC, the Rules Committee, and the Privileges Committee among them.
-- **Ad hoc committees** are wound up once their report is submitted — a **Select Committee** (of one House) or a **Joint Committee** (of both Houses) set up on a **specific Bill** or subject, with members nominated by the House or the presiding officer.
+**Consultative Committees & JPCs**
+- **Consultative Committees** are **extra-constitutional** bodies attached to ministries, constituted by the **Ministry of Parliamentary Affairs**, for **informal discussion** — they are **not** House committees. Consultative Committees for **Railway Zones** are also constituted by the **Ministry of Parliamentary Affairs**.
+- The **Ministry of Parliamentary Affairs** works under the overall direction of the **Cabinet Committee on Parliamentary Affairs**, and the Minister of Parliamentary Affairs nominates MPs on many government-set **committees, councils, boards, and commissions**.
+- **Joint Parliamentary Committees** are **ad hoc**. The **2G spectrum** JPC had **20 Lok Sabha + 10 Rajya Sabha** members and was chaired by **P.C. Chacko**.
 
-> ** note:Estimates = LS only, 30, no CAG**. **PAC / COPU = both Houses, 22, CAG-linked**. **DRSC = 31**, both Houses, **1993**. Among options “largest committee” in UPPCS 2020 = **Estimates**; a DRSC (31) is numerically larger but was not an option.
+**Standing vs Ad hoc (recap)**
+- **Standing committees** are continuous — the financial trio, the DRSCs, BAC, Rules, Privileges, Ethics (now standing), Petitions, Subordinate Legislation, Government Assurances, and others.
+- **Ad hoc committees** are wound up once their report is submitted — a **Select Committee** (of one House) or a **Joint Committee** (of both Houses) set up on a **specific Bill** or subject (e.g. stock-market scam JPC, 2G JPC).
+
+> **Logic:** Estimates = LS only, 30, no CAG. **PAC / COPU = both Houses, 22, CAG-linked**. **DRSC = 31**, both Houses, **1993 → 24**. Among options “largest committee” in UPPCS 2020 = **Estimates**; a DRSC (31) is numerically larger but was not an option.
 
 ---
 
@@ -8849,6 +8884,770 @@ national group and the principal Indian CPA branch, while the Lok Sabha Speaker 
 
 </details>
 
+
+---
+
+## Ghatnachakra Extra Drill — Parliamentary Committees
+
+> Standing vs Ad hoc · Financial trio · DRSCs · Ethics · Subordinate Legislation · JPCs · 18th LS chairs
+
+**Q1. IAS 2001**
+
+In what way does the Indian Parliament exercise control over the administration?
+
+A. Through Parliamentary Committees
+B. Through Advisory Committees of various ministries
+C. By making the administrators send periodic reports
+D. By compelling the executive to issue writs
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parliament’s continuous financial and policy scrutiny is channelled mainly through its committees rather than ministry advisory bodies or writs.
+
+**Ans: A. Parliamentary committees (PAC, Estimates, DRSCs, and others) are the main device of parliamentary control over administration.**
+
+</details>
+
+**Q2. UPPCS 2025**
+
+Which of the following is/are a Financial Committee of Parliament in India?
+1. Public Accounts Committee
+2. Estimate Committee
+3. Committee on Public Undertakings
+
+Select the correct answer from the code given below:
+
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Financial committees under the traditional classification are exactly the PAC, Estimates Committee, and COPU.
+
+**Ans: B. All three are financial committees.**
+
+</details>
+
+**Q3. IAS 2014 / UPPCS (Mains) 2017**
+
+Which one of the following is the largest Committee of the Parliament?
+
+A. The Committee on Public Accounts
+B. The Committee on Estimates
+C. The Committee on Public Undertakings
+D. The Committee on Petitions
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Among these options Estimates has 30 members; PAC and COPU have 22; Petitions is smaller (LS 15 / RS 10). A DRSC has 31 but is not listed.
+
+**Ans: B. Estimates Committee (30 Lok Sabha members) is the largest among the given options.**
+
+</details>
+
+**Q4. UPPCS 2020**
+
+Which is the largest Committee of the Indian Parliament?
+
+A. Public Account Committee
+B. Estimates Committee
+C. Committee on Public Undertakings
+D. Committee on Petitions
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same size trap as IAS 2014 — Estimates 30 vs PAC/COPU 22.
+
+**Ans: B. Estimates Committee.**
+
+</details>
+
+**Q5. UPPCS (Mains) 2016**
+
+Tenure of the members of the Estimates Committee is of
+
+A. Two years
+B. One year
+C. Three years
+D. Four years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Financial committees are reconstituted every year.
+
+**Ans: B. One year.**
+
+</details>
+
+**Q6. UKPCS 2005**
+
+Which of the following is not a tool of Parliamentary control over Public expenditures?
+
+A. Public Accounts Committee
+B. Comptroller and Auditor General of India
+C. Estimates Committee
+D. Committee on Public Undertakings
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CAG (Art. 148) is a constitutional auditor who assists Parliament; the three named bodies are parliamentary committees.
+
+**Ans: B. CAG is not a parliamentary committee, though PAC works on CAG reports.**
+
+</details>
+
+**Q7. UPPCS (Mains) 2013**
+
+The members of Standing Committee of Parliament are taken from the Lok Sabha and Rajya Sabha in which ratio?
+
+A. Two and one respectively.
+B. Three and one respectively.
+C. Four and one respectively.
+D. In equal numbers from both the Houses.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Except special cases such as Estimates (LS only), joint standing committees are roughly LS:RS = 2:1.
+
+**Ans: A. Approximately two from Lok Sabha and one from Rajya Sabha.**
+
+</details>
+
+**Q8. IAS 2007**
+
+Consider the following statements:
+1. The Chairman of the Committee on Public Accounts is appointed by the Speaker of the Lok Sabha.
+2. The Committee on Public Accounts comprises Members of Lok Sabha, Members of Rajya Sabha and a few eminent persons of industry and trade.
+
+Which of the statement(s) given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Speaker appoints the PAC chair from among members; membership is 15 LS + 7 RS only — no outside industry nominees.
+
+**Ans: A. Statement 1 only; statement 2 invents non-MP members.**
+
+</details>
+
+**Q9. UKPCS 2021**
+
+How many members are elected from the Lok Sabha for Public Account Committee?
+
+A. 07
+B. 10
+C. 15
+D. 22
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC total is up to 22; Lok Sabha elects 15 and Rajya Sabha associates up to 7.
+
+**Ans: C. Fifteen from Lok Sabha.**
+
+</details>
+
+**Q10. UPPCS 2021**
+
+The Public Accounts Committee of Indian Parliament scrutinizes the
+
+A. Report of the comptroller and auditor general
+B. Consolidated fund of India
+C. Public Account of India
+D. Contingency fund of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC’s core material is CAG audit / appropriation reports, not custody of the three funds.
+
+**Ans: A. CAG reports.**
+
+</details>
+
+**Q11. UKPCS 2024**
+
+What is the main function of Public Accounts Committee?
+
+A. To examine CAG Annual Reports
+B. To interfere in day-to-day activities of government
+C. To give recommendations to the P.M.
+D. To pass orders
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC examines CAG reports laid by the President; it does not run ministries or issue executive orders.
+
+**Ans: A. Examine CAG annual / audit reports.**
+
+</details>
+
+**Q12. IAS 2003**
+
+Consider the following statements:
+1. While members of the Rajya Sabha are associated with Committees on Public Accounts and Public Undertakings, members of Committee on Estimates are drawn entirely from Lok Sabha.
+2. The Ministry of Parliamentary Affairs works under the overall direction of Cabinet Committee on Parliamentary Affairs.
+3. The Minister of Parliamentary Affairs nominates members of Parliament on Committees, Councils, Boards, and Commissions, etc. set up by the Government of India in various ministries.
+
+Which of these statements are correct?
+
+A. 1 and 2
+B. 2 and 3
+C. 1 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three match standard Ministry of Parliamentary Affairs / committee practice.
+
+**Ans: D. All three statements.**
+
+</details>
+
+**Q13. MPPCS 1993**
+
+The main function of the Public Accounts Committee of Parliament is—
+
+A. To examine the financial account of the government and report of Comptroller and Auditor General.
+B. To appoint on higher posts of public sector units.
+C. To examine the policy according to financial provision.
+D. None of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC is a post-audit financial check, not a PSU appointing body or a pure policy board.
+
+**Ans: A. Examine government accounts and CAG reports.**
+
+</details>
+
+**Q14. UPPCS 2025**
+
+With reference to Public Accounts Committee, which of the following statements is / are correct?
+1. Public Accounts Committee submits its report to the Lok Sabha.
+2. Public Accounts Committee consists of 15 members from Rajya Sabha.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Report path is Lok Sabha / Speaker; RS strength is up to 7, not 15.
+
+**Ans: D. Only 1.**
+
+</details>
+
+**Q15. UP Lower Sub. 2002**
+
+Public Accounts Committee present its report to—
+
+A. Parliament
+B. The President
+C. Prime Minister
+D. Finance Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC reports to Parliament (via Speaker / House), not to the President or Finance Minister.
+
+**Ans: A. Parliament.**
+
+</details>
+
+**Q16. BPSC / Jharkhand PCS 2011**
+
+The Public Accounts Committee submits its reports to—
+
+A. The Comptroller and Auditor General
+B. The Speaker of the Lok Sabha
+C. The Minister of Parliamentary Affairs
+D. The President of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** When the House is not sitting, presentation may be to the Speaker; ordinarily the report is for the House.
+
+**Ans: B. The Speaker of the Lok Sabha (and then the House).**
+
+</details>
+
+**Q17. UPPCS (Mains) 2015**
+
+The report of Public Accounts Committee is presented in the
+
+A. Lok Sabha
+B. President’s Office
+C. Finance Ministry
+D. Prime Minister’s Office
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC is an LS-led financial committee whose report is for the Lok Sabha (copy laid in RS).
+
+**Ans: A. Lok Sabha.**
+
+</details>
+
+**Q18. UPRO/ARO (Mains) 2014**
+
+Public Accounts Committee has the following members:
+
+| | Lok Sabha | Rajya Sabha | Total |
+|--|-----------|-------------|-------|
+| A | 11 | 05 | 16 |
+| B | 15 | 07 | 22 |
+| C | 10 | 05 | 15 |
+| D | 17 | 10 | 27 |
+
+*Row order is not the answer code.*
+
+A. 11–05–16
+B. 15–07–22
+C. 10–05–15
+D. 17–10–27
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard PAC strength is 15 LS + 7 RS = 22.
+
+**Ans: B. 15 + 7 = 22.**
+
+</details>
+
+**Q19. IAS 2013**
+
+Consider the following statements
+The Parliamentary Committee on Public Accounts
+1. consists of not more than 25 Members of the Lok Sabha.
+2. scrutinizes appropriation and finance accounts of the Government.
+3. examines the report of the Comptroller and Auditor General of India.
+
+Which of the statements given above is/are correct?
+
+A. Only 1
+B. 2 and 3
+C. Only 3
+D. All of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC is 22 (15 LS + 7 RS), not “not more than 25 LS members”; statements 2 and 3 are correct.
+
+**Ans: B. 2 and 3 only.**
+
+</details>
+
+**Q20. UPPCS 2014 / others**
+
+Who nominates the Chairman of the Public Accounts Committee of Indian Parliament?
+
+A. The Speaker of Lok Sabha
+B. The Prime Minister
+C. The President
+D. The Chairman of Rajya Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Speaker appoints the PAC chair; convention since 1967–68 is an opposition LS member; ministers are ineligible.
+
+**Ans: A. Speaker of Lok Sabha.**
+
+</details>
+
+**Q21. UPPCS (Mains) 2005**
+
+Match List-I with List-II and select the correct answer by using the code given below the lists:
+
+| List-I | List-II |
+|--------|---------|
+| A. Public Accounts Committee | 1. Ad hoc Committee |
+| B. Committee on Petitions | 2. Standing Committee |
+| C. Joint Committee on Stock Market Scam | 3. Financial Committee |
+| D. Departmental Committees | 4. Functional Committee |
+
+*Row order is not the answer code.*
+
+Code:
+A B C D
+
+A. 1 4 3 2
+B. 2 3 4 1
+C. 3 4 1 2
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC = financial; Petitions = functional; Stock-market JPC = ad hoc; departmental committees = standing.
+
+**Ans: C. 3–4–1–2.**
+
+</details>
+
+**Q22. UPPCS (Spl) (Mains) 2008**
+
+Members of the Rajya Sabha are not associated with –
+1. Public Accounts Committee
+2. Estimates Committee
+3. Committee on Public Undertakings
+
+Choose your answer from given code.
+
+A. 1 and 2
+B. Only 3
+C. Only 2
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only Estimates is Lok Sabha–only; PAC and COPU both have Rajya Sabha members.
+
+**Ans: C. Only 2 (Estimates Committee).**
+
+</details>
+
+**Q23. UPPCS 2010**
+
+In which of the following Committees there is no representation of Rajya Sabha?
+
+A. Public Accounts Committee
+B. Committee on Public Undertakings
+C. Estimates Committee
+D. Committee on Government Assurances
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Estimates has no Rajya Sabha members; Government Assurances exists separately in each House.
+
+**Ans: C. Estimates Committee.**
+
+</details>
+
+**Q24. UPPCS (Mains) 2010**
+
+Estimates Committee is constituted from the members of–
+
+A. Both the Houses
+B. The Rajya Sabha
+C. The Lok Sabha
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All 30 members are elected by the Lok Sabha from among its members.
+
+**Ans: C. The Lok Sabha.**
+
+</details>
+
+**Q25. RAS/RTS 2018**
+
+Which of the following are Financial Committees of Indian Parliament
+(A) Estimates Committee
+(B) Public Accounts Committee
+(C) Committee on Public Undertakings
+(D) Joint Committee on Salaries and Allowance for Members of Parliament
+
+Select the correct answer using code given below:
+
+A. (A), (C) and (D)
+B. (A), (B) and (D)
+C. (A), (B) and (C)
+D. (B), (C) and (D)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Salaries and Allowances joint committee is housekeeping, not financial.
+
+**Ans: C. A, B and C only.**
+
+</details>
+
+**Q26. UPPCS (Mains) 2007**
+
+Which of the following is the Financial Committees of Parliament in India?
+1. Public Account Committee.
+2. Estimates Committee.
+3. Committee on Public Undertakings
+
+Select the correct answer from the codes given below
+
+A. 1 only
+B. 1 and 2
+C. 1 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same financial trio.
+
+**Ans: D. 1, 2 and 3.**
+
+</details>
+
+**Q27. UPPCS 2022**
+
+The audit report of the Comptroller and Auditor General of India is examined by
+
+A. Public Undertaking Committee
+B. The Estimates Committee
+C. Public Accounts Committee
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PAC examines CAG reports generally; COPU also examines CAG reports on public undertakings. Estimates has no CAG link. The dump keys both A and C.
+
+**Ans: A and C (as keyed). PAC is the general examiner of CAG reports; COPU examines CAG reports on PSUs. Estimates does not.**
+
+</details>
+
+**Q28. UPPCS (Mains) 2015**
+
+Which one of the following is not a Standing Committee of Parliament?
+
+A. Committee on Public Accounts
+B. Estimates Committee
+C. Committee on Welfare of SCs and STs
+D. Committee on Public Undertakings.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All listed bodies are standing/functional parliamentary committees; the stem’s “not standing” key fails.
+
+**Ans: * (defective). All four are standing / continuous parliamentary committees; SC/ST Welfare is not an ad hoc committee.**
+
+</details>
+
+**Q29. IAS 2024**
+
+Which of the following statements about the Ethics Committee in the Lok Sabha are correct?
+1. Initially it was an ad-hoc Committee.
+2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha.
+3. This Committee cannot take up any matter which is sub-judice.
+
+Select the answer using the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** LS Ethics began ad hoc (2000) and became standing in 2015; any person may complain if forwarded by a member; sub-judice bar is Rule 233A.
+
+**Ans: C. 1 and 3 only — statement 2 is wrong because a non-member’s complaint may be forwarded by a member.**
+
+</details>
+
+**Q30. UPPCS (Mains) 2012**
+
+On which of the following, a Parliamentary Committee has not been set up?
+
+A. Public Undertakings
+B. Government Assurances
+C. Estimates
+D. Welfare of Minorities
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** There is no parliamentary “Welfare of Minorities” committee parallel to SC/ST or OBC welfare committees.
+
+**Ans: D. Welfare of Minorities.**
+
+</details>
+
+**Q31. Chhattisgarh PCS 2021**
+
+Which of the following Committees does not come under the jurisdiction of Lok Sabha?
+
+A. Committee on Social Justice and Empowerment
+B. Committee on Urban Development
+C. Committee on Labour
+D. Committee on Health and Family Welfare
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Health and Family Welfare is among the DRSCs working under the Rajya Sabha Chairman.
+
+**Ans: D. Committee on Health and Family Welfare (Rajya Sabha).**
+
+</details>
+
+**Q32. MPPCS 2012 / IAS 2005**
+
+The Consultative Committee of Members of Parliament for Railway Zones is constituted by which of the following?
+
+A. President of India
+B. Ministry of Railways
+C. Ministry of Parliamentary Affairs
+D. Ministry of Transport
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Consultative Committees are constituted by the Ministry of Parliamentary Affairs, not by Railways alone.
+
+**Ans: C. Ministry of Parliamentary Affairs.**
+
+</details>
+
+**Q33. MPPCS 2025**
+
+Which pair is incorrect regarding the appointment of Chairpersons of Parliamentary committees constituted by the Speaker of the 18th Lok Sabha for the year 2024-25?
+
+A. Public Accounts Committee – K.C. Venugopal
+B. Estimates Committee – Baijayant Panda
+C. Committee on Welfare of Scheduled Castes and Scheduled Tribes – Faggan Singh Kulaste
+D. Committee on Welfare of Other Backward Classes – Ganesh Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Baijayant Panda chairs Public Undertakings; Sanjay Jaiswal chairs Estimates.
+
+**Ans: B. Incorrect pair — Estimates chair is Sanjay Jaiswal; Baijayant Panda is COPU.**
+
+</details>
+
+**Q34. UPPCS (Mains) 2010**
+
+The Joint Parliamentary Committee set up for probing the 2G spectrum issue, consists of
+
+A. 15 members from each of the two Houses.
+B. 20 members from Lok Sabha and 10 from Rajya Sabha
+C. 18 members from Lok Sabha and 12 members from Rajya Sabha
+D. 16 members from Lok Sabha and 14 members from Rajya Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 2G JPC was 30 members in a 2:1 House ratio — 20 LS + 10 RS.
+
+**Ans: B. 20 Lok Sabha + 10 Rajya Sabha.**
+
+</details>
+
+**Q35. UPPCS (Mains) 2010 / RAS 2012**
+
+The Joint Parliamentary Committee examining the 2G Scam is headed by
+
+A. Murli Manohar Joshi
+B. P.C.Chacko
+C. A.B. Vardhan
+D. Sitaram Yechuri
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** P.C. Chacko chaired the 2G JPC and reported to Speaker Meira Kumar.
+
+**Ans: B. P.C. Chacko.**
+
+</details>
+
+**Q36. IAS 2018**
+
+With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations rules, sub-rules, by-laws, etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation?
+
+A. Committee on Government Assurances
+B. Committee on Subordinate Legislation
+C. Rules Committee
+D. Business Advisory Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Subordinate Legislation checks delegated law-making; Assurances watches promises; Rules deals with House procedure; BAC allots time.
+
+**Ans: B. Committee on Subordinate Legislation.**
+
+</details>
+
+**Q37. BPSC 2021**
+
+Which of the following is a Parliamentary Committee relating to delegation of power to make rules and regulations to the Executive?
+
+A. Committee on Executive Legislation
+B. Committee on Subordinate Legislation
+C. Committee on Administrative Legislation
+D. Committee on Delegated Legislation
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct House name is Committee on Subordinate Legislation (15 members in each House; no minister).
+
+**Ans: B. Committee on Subordinate Legislation.**
+
+</details>
+
+**Q38. IAS 2019**
+
+In India, which of the following review the independent regulators in sectors like telecommunications, insurance, electricity, etc.?
+1. Ad Hoc Committees set up by the Parliament
+2. Parliamentary Department Related Standing Committees
+3. Finance Commission
+4. Financial Sector Legislative Reforms Commission
+5. NITI Aayog
+
+Select the correct answer using the code given below.
+
+A. 1 and 2
+B. 1, 3 and 4
+C. 3, 4 and 5
+D. 2 and 5
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** DRSCs and parliamentary ad hoc committees can review regulators; FC, FSLRC, and NITI Aayog are not the usual parliamentary reviewers.
+
+**Ans: A. 1 and 2 only.**
+
+</details>
 
 ---
 
