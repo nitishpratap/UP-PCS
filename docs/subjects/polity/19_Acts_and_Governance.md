@@ -12,7 +12,7 @@
 
 > **Sources baked in:** Laxmikanth (statutory rights / governance), named Acts, DARPG / 2nd ARC / Digital India / NPCSCB, UPPCS PYQs 2018–2025
 > **Weight:** ★★★ — MKSS→**RTI** (2019); NDMA=**PM** (2021); NFSA **75/50** (2019/24); PESA **1996** (2022); Wages Code **not** Contract Labour (2021); ICT e-gov **cuts cost + raises citizen input, not red-tape** (2024); **Adi Karmayogi = MoTA** not DoPT (2025)
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Important Acts and Governance); teaching gap-pass from dump
 > **Current Affairs:** Digital India **2015** / e-Kranti 44 MMPs; Mission Karmayogi **2020** + CBC **2021**; Adi Karmayogi **June 2025 MoTA**; lateral-entry reservation debate **2024**; Good Governance Day **25 Dec**
 
 ---
@@ -34,7 +34,7 @@
 
 1. Under the Disaster Management Act **2005**, the **NDMA** is chaired by the **Prime Minister**, the **SDMA** by the **Chief Minister**, and the **DDMA** by the **District Magistrate**. The **NEC** is chaired by the **Cabinet Secretary**. The nodal ministry is **Home**.
 2. **NDRF** as a **force** is not the same as the National Disaster **Response Fund**. Do not swap the two.
-3. The RTI Act **2005** (in force from **12 October 2005**) grew from the MKSS campaign. The fee is **₹10** (BPL free). Reply is due in **30 days** (**48 hours** if life or liberty is at stake). First appeal is **30 days**; second appeal **90 days**. Penalty can run **₹250** a day up to **₹25,000**.
+3. The RTI Act **2005** (assent **15 June 2005**; in force from **12 October 2005**) grew from the MKSS campaign. The fee is **₹10** (BPL free). Reply is due in **30 days** (**48 hours** if life or liberty is at stake). First appeal is **30 days**; second appeal **90 days**. Penalty can run **₹250** a day up to **₹25,000**.
 4. RTI section **22** makes RTI override the Official Secrets Act to that extent; it does **not** repeal the Official Secrets Act.
 5. The RTE Act **2009** (in force **1 April 2010**) covers ages **6–14**. Neighbourhood norms are about **1 km** (primary) and **3 km** (upper primary). Private schools reserve **25%** under section **12(1)(c)**. School Management Committees must be **three-fourths** parents. PTR is **1:30**.
 6. The National Food Security Act **2013** covers up to **75%** of the rural and **50%** of the urban population. Prices are **₹3 / ₹2 / ₹1** for rice, wheat, and coarse grains. Antyodaya gets **35 kg** per household. A woman aged **18 or more** is treated as household head. Do **not** date NFSA as **5 September 2010**.
@@ -149,9 +149,10 @@ D. The Health and Family Welfare Minister
 
 ## RTI Act, 2005
 
-**MKSS statute.** In force from **12 Oct 2005**. It grew out of the **MKSS** movement (Aruna Roy, Rajasthan). It is a statutory Act, not a constitutional right.
+**MKSS statute.** Presidential assent on **15 June 2005**; in force from **12 October 2005**. It grew out of the **MKSS** movement (Aruna Roy, Rajasthan). It is a statutory Act, not a constitutional right.
 
 - Its predecessor, the Freedom of Information Act, **2002**, was weaker and was replaced by this Act.
+- *Namit Sharma v. Union of India* is a leading Supreme Court matter on the composition and qualifications of Information Commissioners under the RTI Act.
 - The application fee is ordinarily **₹10**; **BPL applicants pay no fee**.
 - The PIO must reply within **30 days**, or within **48 hours** if life or liberty is involved.
 - If a third party's information is involved, an extra window applies, taking the total up to **40 days**.
@@ -381,7 +382,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - Trials are held in a sessions-level **Special Court**.
 - From **2015**, every State **shall** specify **Exclusive** Special Courts for speedier trial.
 - The **2015 Amendment** added new offences such as social or economic boycott and wrongful occupation of land, along with victim and witness rights and a presumption of guilt in some cases.
-- Investigation must be conducted by an officer of **DSP rank**, and the **2015 Amendment** set a **60-day** target for filing the charge-sheet.
+- Investigation must be conducted by an officer of **DSP rank**. Older Rules used a **30-day** investigation-report idea; the **2016 Rules** emphasise a **60-day** charge-sheet target (often remembered with the 2015 Amendment’s speedy-trial push).
 - The Supreme Court's *Dr Subhash Kashinath Mahajan* judgment (**2018**) diluted the arrest and anticipatory-bail safeguards.
 - Parliament responded with the **2018 Amendment**, which restored **s.18** (**no anticipatory bail**) and inserted **s.18A** (no preliminary inquiry and no prior approval needed before arrest, undoing what the Court had required).
 - Relief, rehabilitation, travel, and compensation for victims are governed by the **1995 Rules**.
@@ -506,10 +507,10 @@ If a paper mixes “important Acts”: Regulating **1773** · Pitt **1784** · C
 - The **Environment (Protection) Act, 1986** is the umbrella environmental law passed after the **Bhopal gas tragedy**, and it lets the Centre frame rules to fill any residual gap.
 - The **Child Labour (Prohibition and Regulation) Act, 1986**, as amended in **2016**, bans employing a child under **14** in any occupation, and bans employing an adolescent aged 14–18 in hazardous occupations.
 - **MGNREGA, 2005** guarantees **100 days** of wage employment; while MKSS is sometimes linked to it as an option, MKSS's **primary** key fact remains **RTI**.
-- The **Protection of Women from Domestic Violence Act, 2005** gives civil-law protection to women in a domestic relationship.
+- The **Protection of Women from Domestic Violence Act, 2005** gives civil-law protection to women in a domestic relationship; it was brought into force on **26 October 2006**.
 - Under the **Prohibition of Child Marriage Act, 2006**, a "child" is a boy below **21** or a girl below **18**.
 - The **Maintenance and Welfare of Parents and Senior Citizens Act, 2007** sets up a tribunal to enforce maintenance by children or relatives.
-- The **National Green Tribunal Act, 2010** created the NGT, a green bench that is **not** a constitutional court, with members serving a 5-year term up to age 70.
+- The **National Green Tribunal Act, 2010** created the NGT (in force from **18 October 2010**), a green bench that is **not** a constitutional court, with members serving a 5-year term up to age 70; an appeal lies to the Supreme Court within **90 days**.
 - The **Foreign Contribution (Regulation) Act, 2010**, amended in **2020**, bars public servants from receiving foreign contributions, requires an account in a specified SBI branch in New Delhi, and caps administrative expenses at **20%**.
 - The **Biological Diversity Act, 2002** created the **NBA**, State Biodiversity Boards, and Biodiversity Management Committees, and implements the Nagoya Protocol on access and benefit-sharing.
 - The **Prevention of Money Laundering Act, 2002** is enforced by the **ED**, and the Supreme Court in **2022** upheld its core provisions while reading in some safeguards.
@@ -1225,6 +1226,1635 @@ D. NHM
 </details>
 
 ---
+
+## Ghatnachakra Extra Drill — Important Acts and Governance
+
+> PCR / PoA · RTI · FRA · NGT · Labour Codes · DMA · Environment Acts · Aadhaar · RTE · NFSA · Consumer Protection · Citizen Charter
+
+**Q1. UPPCS (Mains) 2006**
+
+In which year was Prevention of Food Adulteration Act first enacted?
+
+A. 1951
+B. 1954
+C. 1964
+D. 1956
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Prevention of Food Adulteration Act, 1954 came into effect on 1st June, 1955.
+
+**Ans: B. 1954**
+
+</details>
+
+**Q2. MPPCS (Pre) 2012**
+
+All offences punishable under the Protection of Civil Rights Act, 1955 are :
+
+A. Cognizable and Non-bailable
+B. Cognizable and Summarily Triable
+C. Non-congnizable and Bailable
+D. Non-cognizable and Compoundable
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Section 15 of the Protection of Civil Rights Act, 1955 all the offences punishable under the Act are cognizable and summarily triable.
+
+**Ans: B. Cognizable and Summarily Triable**
+
+</details>
+
+**Q3. MPPCS (Pre) 2014**
+
+Offences are tried under the Protection of Civil Rights Act, 1955 by the Courts of
+
+A. Sessions Court
+B. Judicial Magistrate First Class
+C. Judicial Magistrate Second Class
+D. Chief Judicial Magistrate
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The first-class Judicial Magistrates were empowered to hold special courts for the trial of offences under the Protection of Civil Rights Act, 1955.
+
+**Ans: B. Judicial Magistrate First Class**
+
+</details>
+
+**Q4. MPPCS (Pre) 2019**
+
+All the punishable offences under the Protection of Civil Rights Act, 1955 are :
+
+A. Cognizable and Triable Summarily
+B. Cognizable and Non-Compoundable
+C. Non-Cognizable and Bailable
+D. Non-Cognizable and Compoundable
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Booklet dual key. PCR offences are cognizable and triable summarily, and they are also non-compoundable — both (a) and (b) fit the statute.
+
+**Ans: A and B. PCR offences are cognizable and triable summarily, and non-compoundable.**
+
+</details>
+
+**Q5. MPPCS (Pre) 2013**
+
+Under the Protection of Civil Rights Act, 1955, All offences are –
+
+A. Cognizable
+B. Bailable
+C. Compoundable
+D. Punishment with imprisonment and fine both
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Booklet dual key. Section 15(1) makes PCR offences cognizable, and the Act also provides imprisonment with fine — both (a) and (d). The provisional key briefly pointed at (c); the revised key treated it as bonus.
+
+**Ans: A and D. Cognizable, and punishable with imprisonment and fine.**
+
+</details>
+
+**Q6. MPPCS (Pre) 2019**
+
+If any person refuses admission to any person to any hospital, dispensary or educational institution on the ground of untouchability, then under which section of the Protection of Civil Rights Act, 1955 he shall be punishable?
+
+A. Section - 4
+B. Section - 5
+C. Section - 6
+D. Section - 7
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section - 5 - Whoever on the ground of 'untouchability' - refuses admission to any person to any hospital, dispensary, educational institution, if such hospital, dispensary, educational institution is established or maintained for the benefits of the general public or any section thereof shall be punishable with imprisonment for a term of not less than one month and not more than six months and also with fine which shall be not less than one hundred rupees and not more than five hundred rupees.
+
+**Ans: B. Section - 5**
+
+</details>
+
+**Q7. MPPCS (Pre) 2018**
+
+Under which one of the following Sections of the Protection of Civil Rights Act, 1955 has ‘power of State Government to impose collective fine’ been provided?
+
+A. Section 10
+B. Section 10 A
+C. Section 14
+D. Section 14 A
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under section 10A of the Protection of Civil Rights Act 1955, the power is vested in the State Government to impose collective fine.
+
+**Ans: B. Section 10 A**
+
+</details>
+
+**Q8. MPPCS (Pre) 2012**
+
+The Protection of Civil Rights Act extends to:
+
+A. The whole of India
+B. The whole of India except the Scheduled areas
+C. The whole of India except the State of Jammu and Kashmir
+D. The whole of India except the Union Territories of Goa, Daman, and Diu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Section 1(2) of the Protection of Civil Rights Act, 1955, it extends to the whole of India.
+
+**Ans: A. The whole of India**
+
+</details>
+
+**Q9. MPPCS (Pre) 2018**
+
+The Protection of Civil Rights Act, 1955 extends to ?
+
+A. Whole of India
+B. Whole of India except the State of Jammu and Kashmir
+C. Union Territories
+D. Only the State of Jammu and Kashmir
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Protection of Civil Rights Act, 1955 prescribes punishment for the (Preaching and Practice of Untouchability) enforcement of any disability arising from there and for matters connected therewith.
+
+**Ans: A. Whole of India**
+
+</details>
+
+**Q10. MPPCS (Pre) 2018**
+
+Under which of the following Sections of the Protection of Civil Rights Act, 1955 has ‘offences by companies’ been provided?
+
+A. Section 10
+B. Section 12
+C. Section 14
+D. Section 16
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** (A public servant who wilfully neglects the investigation of any offence punishable under this Act shall be deemed to have abetted an offence punishable under this Act) Section 12 - Presumption by courts in certain cases.
+
+**Ans: C. Section 14**
+
+</details>
+
+**Q11. MPPCS (Pre) 2014**
+
+Who is held responsible for the offences committed by Companies, under the Protection of Civil Rights Act, 1955?
+
+A. Director
+B. Manager
+C. Secretary
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In case of any offence committed by companies under the Protection of Civil Rights Act,1955, the person responsible for the company affairs at the time of the incident, whether Director, Manager or Secretary, shall be deemed to be guilty of that offence and shall be prosecuted and punished accordingly.
+
+**Ans: D. All of the above**
+
+</details>
+
+**Q12. MPPCS (Pre) 2019**
+
+When the court, under section 12 of the Protection of Civil Rights Act, 1955, shall presume that the offence is committed on the ground of "untouchability"?
+
+A. When it relates to member of Scheduled Castes only
+B. When it relates to member of Scheduled Tribes only
+C. When it relates to members of Scheduled Castes and Scheduled Tribes both
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 12 - Presumption by courts in certain cases: Where any act constituting an offence under this Act is committed in relation to a member of a scheduled caste, the court shall presume, unless the contrary is proved, that such act was committed on the ground of 'untouchability'.
+
+**Ans: A. When it relates to member of Scheduled Castes only**
+
+</details>
+
+**Q13. MPPCS (Pre) 2012**
+
+Untouchability will not constitute an offence when -
+
+A. The act of accused with regard to the enjoyment of benefit under a charitable trust created for the benefit of any section of the general public
+B. The act of accused is with regard to the use of finery
+C. As accused is not being competent to commit an offence
+D. The accused and complainant victim belong to the same social group
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Untouchability would not constitute an offence if the accused and the victim belong to the same social group.
+
+**Ans: D. The accused and complainant victim belong to the same social group**
+
+</details>
+
+**Q14. MPPCS (Pre) 2013**
+
+A court can presume that any act constituting offence was committed on the ground of untouchabilliy - if such offence is committed in relation to -
+
+A. a member of Scheduled Castes
+B. a member of Scheduled Tribes
+C. a member of any community
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 12 of the Protection of Civil Rights Act, 1955 defines that a court can presume that any act constituting an offence was committed on the ground of untouchability if such an offence is committed in relation to a member of the scheduled castes.
+
+**Ans: A. a member of Scheduled Castes**
+
+</details>
+
+**Q15. MPPCS (Pre) 2018**
+
+Under which one of the following Sections of the Protection of Civil Rights Act, 1955 has 'protection of action taken in good faith' been provided?
+
+A. Section 16 A
+B. Section 15 A
+C. Section 16 B
+D. Section 14 A
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 14 A - protection of action taken in good faith.
+
+**Ans: D. Section 14 A**
+
+</details>
+
+**Q16. UKPCS (Pre) 2025**
+
+Which of the following Central Ministries are responsible for the implementation of Protection of Civil Right Rules, 1977 ? 1. Ministry of Home Affairs 2. Ministry of Social Justice & Empowerment 3. Ministry of Minority Affairs 4. Ministry of Tribal Affairs
+
+A. 1 and 2
+B. 1, 2 and 3
+C. 1, 2 and 4
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The primary responsibility for implementation of the Protection of Civil Rights (PCR) Act/Rules, in practice, rests with the State Governments/Union Territory Administrations.
+
+**Ans: C. 1, 2 and 4**
+
+</details>
+
+**Q17. UPPCS (Pre) 2020**
+
+Match List-I with List-II and select the correct answer from the codes given below. List-I List-II A. Indian Arms Act 1. 1876 B. Royal Title Act 2. 1878 C. Indian High Court Act 3. 1869 D. Indian Divorce Act 4. 1861 Codes : A B C D
+
+A. 2 3 1 4
+B. 3 1 2 4
+C. 1 2 3 4
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct matched order is as follows: List-I List-II A.
+
+**Ans: D. 2 1 4 3**
+
+</details>
+
+**Q18. UPPCS (Mains) 2015**
+
+The Protection of Women from Domestic Violence Act came into force on –
+
+A. 20th September, 2005
+B. 30th September, 2006
+C. 10th October, 2006
+D. 26th October, 2006
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Protection of Women from Domestic Violence Act, 2005 was enacted by the Parliament of India to protect women from domestic violence.
+
+**Ans: D. 26th October, 2006**
+
+</details>
+
+**Q19. UPPCS (Pre) 1991**
+
+Which of the following is not a Social Act?
+
+A. MISA Act
+B. Anti-Dowry Act
+C. Protection of Civil Rights Act
+D. Prevention of Immoral Traffic Act
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Maintenance of Internal Security Act (MISA) was enacted in 1971 and was repealed in 1977.
+
+**Ans: A. MISA Act**
+
+</details>
+
+**Q20. UPPCS (Mains) 2016**
+
+When was the Criminal Tribes Act enacted for the first time?
+
+A. 1952
+B. 1924
+C. 1871
+D. 1911
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In 1871, the British Government passed an Act, commonly known as the Criminal Tribes Act.
+
+**Ans: C. 1871**
+
+</details>
+
+**Q21. MPPCS (Pre) 2012**
+
+The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 came into force on:
+
+A. 1st July, 1989
+B. 30th January, 1990
+C. 30th July, 1989
+D. 1st January, 1990
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** On 11 September, 1989 the President gave his consent to the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.
+
+**Ans: B. 30th January, 1990**
+
+</details>
+
+**Q22. MPPCS (Pre) 2015**
+
+Under which Act the Scheduled Caste and Scheduled Tribe Atrocity Removal Law was implemented?
+
+A. Act 1990
+B. Act 1989
+C. Act 1992
+D. Act 1991
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling rule or historical fact is B. Act 1989.
+
+**Ans: B. Act 1989**
+
+</details>
+
+**Q23. MPPCS (Pre) 2018**
+
+How many Sections are there under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989?
+
+A. 18
+B. 22
+C. 23
+D. 27
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Scheduled Caste and Scheduled Tribes (Prevention of Atrocities) Act 1989 - (1) Short title, extent and commencement (2) Definition (3) Punishment for offences of atrocities.
+
+**Ans: C. 23**
+
+</details>
+
+**Q24. MPPCS (Pre) 2016**
+
+Who has/had the power to make rules for carrying out the purposes of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989?
+
+A. The State Government
+B. The Central Government
+C. Both (A) and (B)
+D. The Supreme Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Section 23(1) of the Scheduled Caste and Scheduled Tribe (Prevention of Atrocities) Act, 1989, the Central Government may, by notification in the Official Gazette, make rules for carrying out the purpose of this Act.
+
+**Ans: B. The Central Government**
+
+</details>
+
+**Q25. MPPCS (Pre) 2018**
+
+Under which Section of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 is 'economic boycott' defined ?
+
+A. Section 2(b)
+B. Section 2 (b c)
+C. Section 2 (b f)
+D. Section 2 (b g)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 2 (bc) of the SC/ST ( Prevention of Atrocities) Act 1989 defines economic boycotts.
+
+**Ans: B. Section 2 (b c)**
+
+</details>
+
+**Q26. MPPCS (Pre) 2014**
+
+Offence committed by any public servant under Section 3 of the SC and ST (Prevention of Atrocities) Act, 1989, provides for minimum punishment of
+
+A. Three months
+B. Six months
+C. One year
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Whoever being a public servant, commits any offence under section 3, of the SCs and STs (Prevention of Atrocities) Act, 1989 shall be punishable with imprisonment for a term which shall not be less than one year.
+
+**Ans: C. One year**
+
+</details>
+
+**Q27. MPPCS (Pre) 2017**
+
+Under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, in which section there is a provision for the arrangement of a special court?
+
+A. 14
+B. 17
+C. 21(1)
+D. 21(3)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 14 of the Scheduled Caste and Scheduled Tribes (Prevention of Atrocities) Act, 1989 provides for the arrangement of a special court and an Exclusive special court for the purpose of providing for a speedy trial.
+
+**Ans: A. 14**
+
+</details>
+
+**Q28. MPPCS (Pre) 2013**
+
+The State Government can specify a Court of Session to be a Special Court to try the offences under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 with the concurrence of the–
+
+A. Governor
+B. Chief Justice of High Court
+C. Session Judge of concerned district
+D. Ministry of Law
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 14 of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 made provisions for the purpose of providing a speedy trial.
+
+**Ans: B. Chief Justice of High Court**
+
+</details>
+
+**Q29. MPPCS (Pre) 2012**
+
+A Court of Session specified as Special Court to try the offences under the Scheduled Castes, and Scheduled Tribes (Prevention of Atrocities) Act for the purpose of providing –
+
+A. Speedy trial
+B. Time-bound trial
+C. Special protection to victims
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A Court of Session has been specified as a Special Court to try the offences under Section 14 of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 for the purpose of providing a speedy trial.
+
+**Ans: A. Speedy trial**
+
+</details>
+
+**Q30. MPPCS (Pre) 2019**
+
+An appeal under Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 shall lie from any judgement, sentence or order to the High Court.
+
+A. Only on facts
+B. Only on law
+C. Both on facts and law
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** An appeal under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 shall lie from any judgment, sentence or order to the High Court on facts and laws.
+
+**Ans: C. Both on facts and law**
+
+</details>
+
+**Q31. MPPCS (Pre) 2012**
+
+The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act is a special provision for the advancement of Scheduled Castes and Scheduled Tribes which is based on which one of the following doctrines?
+
+A. Doctrine of Severability
+B. Doctrine of Preferred Position
+C. Doctrine of Protective discrimination
+D. Doctrine of Harmonious Construction
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 is based on the 'Doctrine of Protective Discrimination’.
+
+**Ans: C. Doctrine of Protective discrimination**
+
+</details>
+
+**Q32. MPPCS (Pre) 2014**
+
+Who is empowered for imposition and realization of a collective fine under SC and ST (Prevention of Atrocities) Act, 1989?
+
+A. District Magistrate
+B. State Government
+C. Special Court
+D. High Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The power of imposition and realization of collective fine and for all other matters connected in addition to that under Sec.
+
+**Ans: B. State Government**
+
+</details>
+
+**Q33. MPPCS (Pre) 2013**
+
+In a prosecution for an offence under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, the court can presume which of the following?
+
+A. Abetment
+B. Common Intention
+C. Common Object
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The court may presume abetment, common intention and common object in a prosecution for an offence under Section 8 of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.
+
+**Ans: D. All of the above**
+
+</details>
+
+**Q34. MPPCS (Pre) 2016**
+
+Which of the following Sections of the Scheduled Castes and the Scheduled Tribes Act, 1989 provides for application of certain provisions of the Indian Penal Code?
+
+A. Section 12
+B. Section 10
+C. Section 6
+D. Section 8
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 6 of the Scheduled Castes and Scheduled Tribes Act, 1989 provides application of Section 34, Chapter 3, Chapter 4, Chapter 5, Chapter 5-A, Section 149 and Chapter 23 of Indian Penal Code.
+
+**Ans: C. Section 6**
+
+</details>
+
+**Q35. MPPCS (Pre) 2017**
+
+In how many days will the investigation officer submit his report for the offences committed under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989?
+
+A. 15
+B. 20
+C. 25
+D. 30
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Booklet key is unsettled (*). Older SC/ST Rules spoke of a 30-day investigation report window; the 2016 Rules push a 60-day charge-sheet target. Do not treat any of the 15–30 day options as a settled current rule without the 2016 frame.
+
+**Ans: No single booklet option is settled. Older Rules used a 30-day investigation report idea; the 2016 Rules emphasise a 60-day charge-sheet target.**
+
+</details>
+
+**Q36. MPPCS (Pre) 2013**
+
+Under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, which of the following is barred ?
+
+A. Anticipatory Bail
+B. Post-arrest bail
+C. Benefit of probation
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Anticipatory Bail is barred under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.
+
+**Ans: A. Anticipatory Bail**
+
+</details>
+
+**Q37. MPPCS (Pre) 2018**
+
+Under which of the following Sections of the Scheduled Castes and Scheduled Tribes Act, 1989 is anticipatory bail prohibited?
+
+A. Section 16
+B. Section 17
+C. Section 18
+D. Section 19
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Section 18 of the Scheduled Caste and Schedule Tribes Act, 1989, "Nothing in section 438 (Anticipatory Bail) shall apply in relation to any case involving the arrest of any person on an accusation of having committed an offence under this Act."
+
+**Ans: C. Section 18**
+
+</details>
+
+**Q38. MPPCS (Pre) 2013**
+
+An offence committed under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 shall be investigated by a police officer, not below the rank of –
+
+A. Sub-Inspector
+B. Inspector
+C. Deputy-Superintendent
+D. Superintendent
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the rules framed by the central government in 1995 for the implementation of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, an offence committed under this Act shall be investigated by a Police Officer, not below the rank of Deputy Superintendent.
+
+**Ans: C. Deputy-Superintendent**
+
+</details>
+
+**Q39. MPPCS (Pre) 2012**
+
+Which of the following powers is not provided to specified Special Court under Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act?
+
+A. Forfeiture of property of a convict for an offence.
+B. To authorize a person for extra investigation other than police.
+C. To remove a person from the area who is suspected of committing a crime.
+D. Take measurement and photograph of a person who is suspected of committing a crime.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In the given options, the power to authorize a person for extra investigation other than police is not provided to a specified Special Court under the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989.
+
+**Ans: B. To authorize a person for extra investigation other than police.**
+
+</details>
+
+**Q40. MPPCS (Pre) 2013**
+
+Which of the following powers a Special Court cannot exercise under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989?
+
+A. To remove a person
+B. To forfeit the property
+C. To take measurement of a person
+D. To impose collective fine
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Special Court cannot exercise the power to impose collective fines under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.
+
+**Ans: D. To impose collective fine**
+
+</details>
+
+**Q41. MPPCS (Pre) 2013**
+
+In a prosecution for an offence under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, the accused in his defence cannot take the plea that -
+
+A. The Act was done in exercise of the right of private defence.
+B. He also belongs to the caste as that of the victim.
+C. The Act causes such a slight harm which could not be a subject of the complaint.
+D. None of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Booklet bonus (*). The accused cannot take the listed private-defence / same-caste / slight-harm pleas as a free pass under the PoA Act; the printed key was cancelled for bonus marks.
+
+**Ans: Bonus. The printed key was cancelled; none of the defence pleas is a free pass.**
+
+</details>
+
+**Q42. MPPCS (Pre) 2018**
+
+Under the Scheduled caste and Scheduled Tribes (Prevention of Atrocities) Act, 1989, whoever, not being a member of a Scheduled caste or a Scheduled Tribe, causes physical harm or mental agony of a member of a Scheduled Caste or a Scheduled Tribe on the allegation of practising witchcraft or being a witch shall be punishable
+
+A. with imprisonment for a term which shall not be less than six months but which may extend to five years and with fine
+B. with imprisonment for a term which shall not be less than six months and with fine
+C. with imprisonment for a term which shall be one year and with fine
+D. with imprisonment for term which shall be five years and with fine
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the Scheduled Caste and Scheduled Tribes (Prevention of Atrocities / Act 1989, whosever, not being a member of a Scheduled Caste or a Scheduled Tribe, causes physical harm or mental agony of a member of a Scheduled Caste or a Scheduled Tribe on the allegation of practising witch-craft or being a witch shall be punishable with imprisonment for a term which shall not be less than 6 months but which may extend to 5 years and with fine.
+
+**Ans: A. with imprisonment for a term which shall not be less than six months but which may extend to five years and with fine**
+
+</details>
+
+**Q43. MPPCS (Pre) 2019**
+
+Which of the following statement is incorrect?
+
+A. Offences, under Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, are committed by a person who is not a member of Scheduled Caste or Scheduled Tribe
+B. "Exclusive Special Court" established under Section 14 (1) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act is defined under section 2(d)
+C. "Victim" is defined under section 2(ec) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act
+D. "Dependent" is defined under Section 2(bb) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** "Exclusive Special Court" means the Exclusive special court established under sub-section (1) of section 14 exclusively to try the offences under The Scheduled Castes and The Scheduled Tribes (Prevention of Atrocities) Act, 1989, as defined under section 2(1) (bd) of the Act.
+
+**Ans: B. "Exclusive Special Court" established under Section 14 (1) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act is defined under section 2(d)**
+
+</details>
+
+**Q44. MPPCS (Pre) 2016**
+
+Under which one of the following Sections of the Scheduled Castes and the Scheduled Tribes Rules, 1995, Constitution of ‘District Level Vigilance and Monitoring Committee’ has been provided?
+
+A. Section 18
+B. Section 19
+C. Section 17
+D. Section 16
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Section 17 of The Scheduled Castes and The Scheduled Tribes (Prevention of Atrocities) Rules, 1995, there will be the constitution of district level vigilance and monitoring committee in each district by District Magistrate to review the implementation of the provisions of this Act.
+
+**Ans: C. Section 17**
+
+</details>
+
+**Q45. MPPCS (Pre) 2018**
+
+Under which one of the following Sections of the Scheduled Tribes Rules, 1995 has 'Material for Annual Report' been provided?
+
+A. Section 18
+B. Section 20
+C. Section 22
+D. Section 24
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Rule 18 of The SC and the ST (Prevention of Atrocities) Rules, 1995 'Material for Annual Report' has been provided.
+
+**Ans: A. Section 18**
+
+</details>
+
+**Q46. UPPCS (Pre) 2013**
+
+The Right to Information Act of Parliament received the assent of the President of India on –
+
+A. 15th May, 2005
+B. 5th June, 2005
+C. 15th June, 2005
+D. 12th October, 2005
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Right to Information Act was passed on 11 May, 2005 by the Lok Sabha and on 12 May, 2005 by the Rajya Sabha and received the Permission of the then President, late Dr.
+
+**Ans: C. 15th June, 2005**
+
+</details>
+
+**Q47. UPPCS (Mains) 2013**
+
+Right to lnformation Act was passed in the year–
+
+A. 2001
+B. 2004
+C. 2005
+D. 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling rule or historical fact is C. 2005.
+
+**Ans: C. 2005**
+
+</details>
+
+**Q48. UPPCS (Pre) 2015**
+
+Which one of the following statements is true about right to information?
+
+A. It is a political right
+B. It is a constitutional right
+C. It is a legal right
+D. It is a social right
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling rule or historical fact is C. It is a legal right.
+
+**Ans: C. It is a legal right**
+
+</details>
+
+**Q49. UPPCS (Pre) 2010**
+
+The Right to Information is –
+
+A. A Fundamental Right
+B. A Legal Right
+C. Both
+D. and
+E. 
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Right to Information Act 2005, mandates timely response to citizen’s requests for government information.
+
+**Ans: C. Both**
+
+</details>
+
+**Q50. RPSC (Pre) 2018**
+
+Which of the following terminology is/are mentioned in the Preamble of the Right to Information Act, 2005? (A) Transparency of Information (B) Revelation of Information (C)Informed Citizenry (D) Paramountcy of the democratic ideal Select the correct answer using code given below: Codes:
+
+A. (A) only
+B. (A) and (B)
+C. (A), (B) and (C)
+D. (A), (B), (C) and (D)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Preamble of RTI Act 2005- Para I - "And whereas Democracy requires informed citizens and transparency of information which are usual to its functioning and also to contain corruption and to hold Governments and their instruments accountable to the governed." Para II - "And whereas revelation of information in actual practise .......
+
+**Ans: D. (A), (B), (C) and (D)**
+
+</details>
+
+**Q51. RPSC (Pre) 2021**
+
+Which of the following is not true about the objectives of the Right to Information Act?
+
+A. To promote transparency and accountability n the working of the government
+B. To make our democracy work for the people in real sense
+C. To empower the women and weaker sections of the society
+D. To empower citizens
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Right to Information Act, 2005, is an act to provide for setting out the practical regime of the right to information for citizens to secure access to information under the control of public authorities, in order to promote transparency and accountability in the working of every public authority.
+
+**Ans: C. To empower the women and weaker sections of the society**
+
+</details>
+
+**Q52. UPPCS (Pre) 2006**
+
+Consider the following statements about the ‘Right to Information (RTI) Act, 2005’ and select one which has not been provided for or is specially exempted –
+
+A. It is not applicable in the State of Jammu and Kashmir.
+B. An applicant making request for information will have to give reasons for seeking information.
+C. Removal of Chief Information Commissioner.
+D. Every Information Commissioner shall hold office for a term of 5 years or until the age of 65 years, whichever is earlier.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Year-bound (2006). When asked, RTI did not extend to J&K — that was the intended exception among the options. After Article 370 changes, RTI applies in J&K/Ladakh under the Union scheme; do not carry the old J&K carve-out into a current stem.
+
+**Ans: A under the 2006 year-bound frame. RTI then did not apply to J&K; that carve-out is historical, not a current map fact.**
+
+</details>
+
+**Q53. RPSC (Pre) 2023**
+
+Which of the following sections of the Right to Information Act is not related to the functions and powers of the Central Information Commission?
+
+A. 25
+B. 19
+C. 18
+D. 12
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Right to Information Act (RTI) was passed in 2005 to give Indian citizens the right to request information from public authorities.
+
+**Ans: D. 12**
+
+</details>
+
+**Q54. MPPCS (Pre) 2021**
+
+Who among the following can impose the penalty under Section 20 of Right to Information Act?
+
+A. Central Information Commission only
+B. State Information Commission only
+C. Central Information Commission or State Information Commission
+D. High Court or Central Information Commission or State Information Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Central Information Commission or State Information Commission can impose a penalty under Section 20 of Right to Information Act.
+
+**Ans: C. Central Information Commission or State Information Commission**
+
+</details>
+
+**Q55. UKPCS (Pre) 2021**
+
+In which year the Central Information Commission was established?
+
+A. 2005
+B. 2006
+C. 2007
+D. 2008
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Central Information Commission has been constituted with effect from 12-10-2005 under the Right to Information Act, 2005.
+
+**Ans: A. 2005**
+
+</details>
+
+**Q56. RPSC (Pre) 2016**
+
+The tenure of Central Information Commissioner is
+
+A. 6 years or 65 years of age
+B. 6 years or 62 years of age
+C. 5 years or 62 years of age
+D. 5 years or 65 years of age
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After the RTI (Amendment) Act, 2019, CIC/IC tenure and salary are prescribed by the Central Government. Older stems keyed 5 years or 65 years; the common teaching note still cites 3 years / 65 as the usual Centre-prescribed package, but the statutory fix is Centre-prescribed rather than a fixed Act number.
+
+**Ans: After 2019, tenure is prescribed by the Centre (commonly noted as 3 years or 65). Older keys pointing to 5 years / 65 are statute-history, not the present rule.**
+
+</details>
+
+**Q57. RPSC (Pre) 2024**
+
+State information Commissioner is appointed by the Governor on the recommendation of a committee. Who of the following is not a member of this Committee?
+
+A. The Chief Minister
+B. The Leader of opposition in Legislative Assembly
+C. A cabinet minister to be nominated by the Chief Minister
+D. Chief Justice of Hight Court
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to the Section 15(3) of the Right to Information Act, 2005, the State Chief Information Commissioner and the State Information Commissioners shall be appointed by the Governor on the recommendation of a committee consisting of- (i) Chief Minister, as the Chairperson, (ii) The Header of Opposition in Legislative Assembly; and (iii) a Cabinet Minister to be nominated by the Chief Minister.
+
+**Ans: D. Chief Justice of Hight Court**
+
+</details>
+
+**Q58. MPPCS (Pre) 2022**
+
+Who among the following cannot be the State Chief Information Commissioner or State Information Commissioner?
+
+A. Person from field of Journalism
+B. Person from Legal field
+C. Person in the field of Science and Technology
+D. Member of the Legislature of the State territory
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Right to Information Act of 2005 provides for the Creation of the Central Information Commission and a State Information Commission at the state level.
+
+**Ans: D. Member of the Legislature of the State territory**
+
+</details>
+
+**Q59. UPPCS (Pre) 2019**
+
+Mazdoor Kisan Shakti Sangathan (MKSS), a Social Movement has been associated with which of the following in India?
+
+A. RTE Act
+B. RTI Act
+C. MGNREGA
+D. National Health Mission (NHM)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mazdoor Kisan Shakti Sangathan (MKSS) was founded in 1990 by social activists Aruna Roy, Nikhil Dey, Shankar Singh etc.
+
+**Ans: B. RTI Act**
+
+</details>
+
+**Q60. UPPCS (Pre) 2015**
+
+Which of the following is related to Right to Information Act, 2005?
+
+A. Lily Thomas v/s Union of India
+B. Nandini Sundar v/s State of Chhattisgarh
+C. Namit Sharma v/s Union of India
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Union of India, 2012 case is related to the Right to Information Act, 2005.
+
+**Ans: C. Namit Sharma v/s Union of India**
+
+</details>
+
+**Q61. UPPCS (Mains) 2010**
+
+Consider the following statements: Assertion (A) : The Right to Information Act has in general been responsible for increasing the sense of responsibility in bureaucracy. Reason (R) : It still has miles to go to create the desired impact. Select the correct answer from the code given below : Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** The Right to Information Act, 2005 has, in general, been responsible for increasing the sense of responsibility in bureaucracy but it still has miles to go to create the desired impact.
+
+**Ans: B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).**
+
+</details>
+
+**Q62. RPSC (Pre) 2007**
+
+The objective of Right to Information Act is to –
+
+A. Secure access to information from public authorities.
+B. Provide information to the public by a person who has the information.
+C. Provide information by Government on a public place.
+D. Secure information by police from culprits.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Section 2 of the Right to Information Act, 2005 the ‘Right to Information’ means access to information controlled by public officials.
+
+**Ans: A. Secure access to information from public authorities.**
+
+</details>
+
+**Q63. Ghatnachakra standard**
+
+Which High Court has said in its important decision that “the R.T.I. applicant should tell the reason for asking information under Right to Information”?
+
+A. Calcutta High Court
+B. Bombay High Court
+C. Allahabad High Court
+D. Madras High Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A division bench of Madras High Court comprising Justices N.
+
+**Ans: D. Madras High Court**
+
+</details>
+
+**Q64. RPSC (Pre) 2021**
+
+Which one of the following is not basic element of the citizen charter?
+
+A. Description of services being provided by department of the agency
+B. Promotion of various methods to get benefit from the services available
+C. To expect any public record
+D. Provision for the inspection of the agency's work
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The nine basic elements of the Citizen Charter are- • Set standards of service.
+
+**Ans: D. Provision for the inspection of the agency's work**
+
+</details>
+
+**Q65. UPSC (Pre) 2021**
+
+At the national level, which ministry is the nodal agency to ensure effective implementation of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006?
+
+A. Ministry of Environment, Forest & Climate Change
+B. Ministry of Panchayati Raj
+C. Ministry of Rural Development
+D. Ministry of Tribal Affairs
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ministry of the Central Government dealing with Tribal Affairs or any officer or authority authorized by the Central Government on this behalf shall be the nodal agency for the implementation (Act.
+
+**Ans: D. Ministry of Tribal Affairs**
+
+</details>
+
+**Q66. UPSC (Pre) 2013**
+
+Under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, who shall be the authority to initiate the process for determining the nature and extent of individual or community forest rights or both?
+
+A. State Forest Department
+B. District Collector/Deputy Commissioner
+C. Tahsildar/Block Development Officer/Mandal Revenue Officer
+D. Gram Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Section 6(1) of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, the Gram Sabha has been given the authority to initiate the process for determining the nature and extent of these rights.
+
+**Ans: D. Gram Sabha**
+
+</details>
+
+**Q67. UPSC (Pre) 2012**
+
+The National Green Tribunal Act, 2010 was enacted in consonance with which of the following provisions of the Constitution of India? 1. The right to a healthy environment, construed as a part of Right to life under Article 21. 2. Provision of grants for raising the level of administration in the Scheduled Tribes under Article 275(1). 3. Power and functions of Gram Sabha as mentioned under Article 243(A). Select the correct answer using the code given below :
+
+A. 1 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The National Green Tribunal Act, 2010 was enacted in accordance with the right to a healthy environment, construed as a part of the Right to Life under Article 21 of the Constitution of India.
+
+**Ans: A. 1 only**
+
+</details>
+
+**Q68. UPPCS (Pre) 2016**
+
+National Green Tribunal (NGT) was established by the Government of India in :
+
+A. 2007
+B. 2008
+C. 2009
+D. 2010
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling rule or historical fact is D. 2010.
+
+**Ans: D. 2010**
+
+</details>
+
+**Q69. MPPCS (Pre) 2020**
+
+Within how many days, an appeal can be made by an aggrieved person by decision of the National Green Tribunal to the Supreme Court?
+
+A. Thirty days
+B. Forty-five days
+C. Sixty days
+D. Ninety days
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The National Green Tribunal was established on 18.10.2010 under the National Green Tribunal Act 2010 for effective and expeditious disposal of cases relating to the environmental protection and conservation of forests and other natural resources including enforcement of any legal right relating to environment and giving relief and compensation for damages to persons and property and for matters connected therewith or incidental to it.
+
+**Ans: D. Ninety days**
+
+</details>
+
+**Q70. MPPCS (Pre) 2016**
+
+Which one of the following statements with respect to the Land Acquisition Act, 1894 is not true?
+
+A. It was made by the British rulers
+B. Its purpose was to help the process of land reforms in India
+C. It has been replaced by another Act of India’s Parliament
+D. Its implementation had become disputed
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Land Acquisition Act, 1894 was enacted by British rulers, which came into effect on 1 March, 1894.
+
+**Ans: B. Its purpose was to help the process of land reforms in India**
+
+</details>
+
+**Q71. UPPCS (Pre) 2021**
+
+Which of the following labour related Acts have been amalgamated into the 'Code on Wages, 2019'? I. Minimum Wages Act II. Payment of Bonus Act III.The Contract Labour Act IV. Equal Remuneration Act Select the correct answer using the codes given below. Codes:
+
+A. I and II only
+B. II and III only
+C. I, II and IV only
+D. I, II, III and IV
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Code on Wages, 2019 replaces the following four laws: (i) The Payment of Wages Act, 1936, (ii)The Minimum Wages Act, 1948, (iii) The Payment of Bonus Act, 1965, and (iv) The Equal Remuneration Act, 1976.
+
+**Ans: C. I, II and IV only**
+
+</details>
+
+**Q72. UPPCS (Pre) 2021**
+
+Which of the following is not correctly matched?
+
+A. Companies Act – 2013
+B. Indian Contract Act – 1870
+C. Partnership Act – 1932
+D. Sale of Goods Act – 1930
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct Matched order is as follows: List -I List-II (a) Companies Act 2013 (b) Indian Contract Act 1872 (c) Partnership Act 1932 (d) Sales of Goods Act 1930
+
+**Ans: B. Indian Contract Act – 1870**
+
+</details>
+
+**Q73. UPPCS (Pre) 2016**
+
+Which one of the following is NOT correctly matched? Acts Year
+
+A. Prevention of Sedition - 1908 Meeting Act
+B. Explosive Substances Act - 1908
+C. Indian Criminal Law - 1908 Amendment Act
+D. Newspaper (Incentive to - 1908 Offence) Act
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Act for Preventing seditious meetings was brought in the year 1907, while the remaining Acts given in the option are correctly matched.
+
+**Ans: A. Prevention of Sedition - 1908 Meeting Act**
+
+</details>
+
+**Q74. Ghatnachakra standard**
+
+Arrange the following Acts in their chronological order and select the correct answer from the code given below: I. Lex-Loci Act II. Bengal Tenancy Act III. Age of Consent Act IV. Indian University Act Code-
+
+A. I, III, II and IV
+B. IV, I, II and III
+C. I, IV, II and III
+D. I, II, III and IV
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** l The Lex- Loci Act of 1850 allowed a Hindu, who had converted to a different faith, to inherit his ancestral property.
+
+**Ans: D. I, II, III and IV**
+
+</details>
+
+**Q75. UPSC (Pre) 2023**
+
+With reference to India, consider the following pairs : Action The Act under which it is covered 1. Unauthorized wearing : The Official Secrets of police or military Act, 1923 uniforms 2. Knowingly misleading : The Indian Evidence or otherwise inter- Act, 1872 fering with a police officer or military officer when engaged in their duties 3. Celebratory gunfire : The Arms (Amendment) which can endanger Act, 2019 the personal safety of others How many of the above pairs are correctly matched?
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 6 of the Official Secrets Act 1923 makes provisions regarding the unauthorized use of uniforms, falsification of reports, forgery, personation, and false documents.
+
+**Ans: B. Only two**
+
+</details>
+
+**Q76. Ghatnachakra standard**
+
+The Disaster Management Act was made in -
+
+A. 2006b
+B. 2003
+C. 2005
+D. 2009 M.P.PC.S. (Pre) 2020
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Disaster Management Act was passed by the Parliament of India in 2005 for efficient management of disasters.
+
+**Ans: C. 2005**
+
+</details>
+
+**Q77. UPPCS (Pre) 2021**
+
+The Disaster Management Act was passed by the Parliament of India in -
+
+A. 2001
+B. 2005
+C. 2009
+D. 2013
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling rule or historical fact is B. 2005.
+
+**Ans: B. 2005**
+
+</details>
+
+**Q78. UPPCS (Pre) 2020**
+
+Which of the following gave legal basis to extraordinary powers exercised by the Government of India during Lockdown? 1. Mental Health Care Act, 2017 2. Disaster Management Act, 2005 3. Enemy Property Act, 1968 4. Epidemic Diseases Act, 1897 Select the correct answer from the codes given below. Codes :
+
+A. 1, 2 and 3
+B. 2, 3 and 4
+C. 2 and 4
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A 123-year-old law has come to the rescue of the government in its effort to tackle the Covid-19 challenge.
+
+**Ans: C. 2 and 4**
+
+</details>
+
+**Q79. UPPCS (Pre) 2017**
+
+The government of India enacted the Forest Conservation Act in the year :
+
+A. 1976
+B. 1980
+C. 1983
+D. 1988
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The government of India enacted the Forest Conservation Act - 1980.
+
+**Ans: B. 1980**
+
+</details>
+
+**Q80. MPPCS (Pre) 2025**
+
+The Biological Diversity (Amendment) Act, 2023 Published in the Gazette of India by the Ministry of Law and Justice, Government of India, was published on which date?
+
+A. 13th June
+B. 03rd July
+C. 03rd August
+D. 13th September
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Biological Diversity (Amendment) Act, 2023, was published in the Official Gazette on August 3, 2023, after receiving the President’s assent on the same day.
+
+**Ans: C. 03rd August**
+
+</details>
+
+**Q81. Ghatnachakra standard**
+
+Consider the following statements : Once the Central Government notifies an area as a 'Community Reserve' 1. The Chief Wildlife Warden of the State becomes the governing authority of such forest 2. Hunting is not allowed in such area 3. People of such area are allowed to collect non-timber forest produce 4. People of such area are allowed traditional agricultural practices How many of the above statements are correct?
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 1 : Once the Central Government notifies an area as a 'Community Reserve', the Chief Wildlife Warden of the State becomes the governing authority of such forest.
+
+**Ans: B. Only two**
+
+</details>
+
+**Q82. UPPCS (Mains) 2021**
+
+Government of India has passed 'Protection of Plant Varieties and Farmers Right Act' in which of the following year?
+
+A. 2001
+B. 2005
+C. 2015
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The government of India has passed the 'Protection of Plant Varieties and Farmer's Right Act in 2001.
+
+**Ans: A. 2001**
+
+</details>
+
+**Q83. UPSC (Pre) 2020**
+
+Consider the following statements : 1. Aadhaar metadata cannot be stored for more than three months. 2. State cannot enter into any contract with private corporations for sharing of Aadhaar data. 3. Aadhaar is mandatory for obtaining insurance products. 4. Aadhaar is mandatory for getting benefits funded out of the Consolidated Fund of India. Which of the statements given above is/are correct?
+
+A. 1 and 4 only
+B. 2 and 4 only
+C. 3 only
+D. 1, 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court had ruled that Aadhaar authentication data of citizens cannot be retained beyond 6 months.
+
+**Ans: B. 2 and 4 only**
+
+</details>
+
+**Q84. UPSC (Pre) 2018**
+
+Consider the following statements : 1. Aadhaar card can be used as a proof of citizenship or domicile. 2. Once issued, Aadhaar number cannot be deactivated or omitted by the Issuing Authority. Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Aadhaar number is a 12-digit random number issued by the UIDAI to the residents of India after satisfying the verification process.
+
+**Ans: D. Neither 1 nor 2**
+
+</details>
+
+**Q85. CGPCS (Pre) 2022**
+
+Match the following provisions of the Information Technology Act, 2000 regarding e-governeance :
+
+A. Legal recognition of records (i) Section 5
+B. Legal recognition of electronic (ii) Section 4 signatures
+C. Use of electronic records and (iii) Section 8 Electronic signatures in government and its agencies
+D. Publication of rules, regulations, (iv) Section 6 etc. In the electronic gazette Codes :
+E. 
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct matches of the provisions with the related sections are as follows : (a) Legal recognition of records (i) Section 5 (b) Legal recognition of electronic signatures (ii) Section 4 (c) Use of electronic records and Electronic (iii) Section 8 signatures in government and its agencies (d) Publication of rules, regulations, etc.
+
+**Ans: B. Legal recognition of electronic (ii) Section 4 signatures**
+
+</details>
+
+**Q86. UPSC (Pre) 2018**
+
+Consider the following statements : 1. As per the Right to Education (RTE) Act, to be eligible for appointment as a teacher in a State, a person would be required to possess the minimum qualification laid down by the concerned State Council of Teacher Education. 2. As per the RTE Act, for teaching primary classes, a candidate is required to pass a Teacher Eligibility Test conducted in accordance with the National Council of Teacher Education guidelines.; 3. In India, more than 90% of teacher education institutions are directly under the State Governments. Which of the statements given above is/are correct?
+
+A. 1 and 2
+B. 2 only
+C. 1 and 3
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Section 23(1) of the RTE Act, 2009, any person possessing such minimum qualifications as laid down by an academic authority, authorised by the Central Government by notification, shall be eligible for appointment as a teacher." * As per the RTE Act, for teaching Primary classes, a candidate is required to pass a Teacher Eligibility Test conducted in accordance with the National Council of Teacher Education guidelines.
+
+**Ans: B. 2 only**
+
+</details>
+
+**Q87. UKPCS (Pre) 2025**
+
+What was the key focus of the Waqf Amendment Bill introduced in April, 2025 ?
+
+A. Privatisation of Waqf properties
+B. Enhancing transparency and ensuring better governance of Waqf properties
+C. Abolishing Waqf boards
+D. Nationalization of religious institutions
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The main objective of the Waqf (Amendment) Bill, 2024, introduced in the Lok Sabha on 8 August, 2024, was to improve the management of Waqf properties, ensure transparency, governance, and accountability, and prevent mismanagement.
+
+**Ans: B. Enhancing transparency and ensuring better governance of Waqf properties**
+
+</details>
+
+**Q88. MPPCS (Pre) 2020**
+
+Under which law, the State Food Commission is established?
+
+A. National Food Security Act, 2013
+B. National Food Security Act, 2019
+C. National Food Security Act, 2020
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under section 16 of the National Food Security Act, 2013, State Food Commission is established.
+
+**Ans: A. National Food Security Act, 2013**
+
+</details>
+
+**Q89. UPSC (Pre) 2012**
+
+With reference to consumers rights/privileges under the provisions of law in India, which of the following statement(s) is/are correct? 1. Consumers are empowered to take samples for food testing. 2. When a consumer files a complaint in any Consumer Forum, no fee is required to be paid. 3. In the case of death of a consumer, his/her legal heir can file a complaint in the Consumer Forum on his/her behalf. Select the correct answer using the code given below
+
+A. Only 1
+B. Only 2 and 3
+C. Only 1 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In 1986, the Government of India passed the Consumer Protection Act, 1986 to protect the consumer rights.
+
+**Ans: C. Only 1 and 3**
+
+</details>
+
+**Q90. BPSC (Pre) 2022**
+
+With reference to the Consumer Disputes Redressal at the district level in India, which one of the following statements is not correct?
+
+A. The District Forum entertains the complaints where the value of goods or services does not exceed rupees fifty lakhs.
+B. The State Government can establish more than one District Forum in a district if it deems fit.
+C. One of the members of the District Forum shall be a woman.
+D. More than one of the above
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct answer is Option(e)- None of the above.
+
+**Ans: E. None of the above**
+
+</details>
 
 ## Practice Zone — UPPCS Format Drill
 

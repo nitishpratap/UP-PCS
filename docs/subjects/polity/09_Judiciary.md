@@ -14,7 +14,7 @@
 
 > **Sources baked in:** Laxmikanth (SC / HC / Subordinate / Tribunals), Constitution Parts V–VI & XIVA, UPPCS Prelims PYQs 2018–2025, UP Special (Allahabad HC)
 > **Weight:** ★★★ — Art. **124**; resign to **President**; **65 / 62**; Collegium 1993+1998; NJAC **99th** struck **2015**; **131 / 71 / 262**; **136**; **143** not binding; **226 > 32**; PIL = **Bhagwati** + 2025 A/R; Tribunals = **Part XIVA not XI**; *Sampath Kumar* substitute → *L. Chandra Kumar* supplement; Fathima **TN not Kerala**; **233** vs **235**; **AIJS 312** not yet; PLA ≠ Lok Adalat; Gram Nyayalaya ≠ Evidence Act; contempt **s.15 AG / s.20 1 year**; FTC ≠ ADR
-> **Last verified:** September 2026 — Ghatnachakra Extra Drill (High Courts); teaching gap-pass from dump
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Supreme Court + High Courts); SC Extra Drill added
 > **Current Affairs:** SC **34** (2019); **25** HCs; Fathima Beevi died **2023**; Mediation Act **2023**
 
 ---
@@ -265,6 +265,8 @@ Citizen of India **and** any **one** of:
 ---
 
 ## Appointment & Collegium — Judges Cases
+
+**Pre-Constitution seed:** The **Sapru Committee** (Sir Tej Bahadur Sapru, **1945**, Non-Party Conference) published recommendations on appointing Supreme Court and High Court judges; those ideas fed into the Constitution’s appointment scheme.
 
 **Text of Art. 124(2):** every SC judge is appointed by the **President** (warrant under hand and seal) after **consultation** with such SC/HC judges as he deems necessary. For a judge other than the CJI, the **CJI must always be consulted**.
 
@@ -1491,6 +1493,2533 @@ D. A.S. Anand
 </details>
 
 ---
+
+## Ghatnachakra Extra Drill — Supreme Court
+
+> Arts. 124–147 · Collegium / NJAC · Jurisdiction · Court of Record · PIL · Review / Advisory · Landmark cases
+
+**Q1. MPPCS (Pre) 2013**
+
+When was the Supreme Court inaugurated in India?
+
+A. 27 January, 1950
+B. 28 January, 1950
+C. 29 January, 1950
+D. 30 January, 1950
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court in India was inaugurated on 28 January, 1950.
+
+**Ans: B. 28 January, 1950**
+
+</details>
+
+**Q2. BPSC 42 (Pre) 1997**
+
+Supreme Court in India was established-
+
+A. By an Act of Parliament in 1950
+B. Under Indian Independence Act, 1947
+C. Under Indian Government Act, 1953
+D. By the Indian Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court of India was inaugurated on 28th January, 1950. It succeeded the Federal Court of India established under the Government of India Act, 1935.
+
+**Ans: D. By the Indian Constitution The Supreme Court of India was inaugurated on 28th January, 1950.**
+
+</details>
+
+**Q3. MPPCS (Pre) 2025**
+
+The Provisions relating to appointment of Supreme Court
+and High Court Judges in the Indian Constitution were
+incorporated on the basis of published recommendations
+given by ___ Committee (1945).
+
+A. Harendra Kumar
+B. Sen (Usha Nath Sen)
+C. Varadachari (S. Varadachari)
+D. Sapru (Sir Tej Bahadur Sapru)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Sapru Committee Report of 1945 made recommendations for the appointment of Supreme Court and High Court judges. The report was prepared by a committee led by Sir Tej Bahadur Sapru.
+
+**Ans: D. Sapru (Sir Tej Bahadur Sapru) The Sapru Committee Report of 1945 made recommendations for the appointment of Supreme Court and High Court judges.**
+
+</details>
+
+**Q4. IAS (Pre) 2014 / BPSC 44 (Pre) 2000**
+
+The power to increase the number of Judges in the
+Supreme Court of India is vested in -
+
+A. The President of India
+B. The Parliament
+C. The Chief Justice of India
+D. The Law Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 124 of the Constitution provides for the formation of the Supreme Court. The power to increase the number of Judges in the Supreme Court of India is vested in the Parliament.
+
+**Ans: B. The Parliament Article 124 of the Constitution provides for the formation of the Supreme Court.**
+
+</details>
+
+**Q5. BPSC 38 (Pre) 1992 / UPPCS (Mains) 2015**
+
+The current sanctioned strength of Judges of Supreme
+Court of India is -
+
+A. 20
+B. 25
+C. 30
+D. 31
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court of India was established according to Part V, Chapter IV, Article 124 of the Constitution of India and is the highest judicial forum and the final Court of Appeal. Establishment of the Supreme Court of India, its composition and jurisdiction have been laid down in Articles 124 to 147 of the Indian Constitution. Initially, during the 1950s the Supreme Court consisted of a Chief Justice and seven Judges. In 1956, the number rose to eleven, rising to fourteen, eighteen, twenty-six and thirty-one including the Chief Justice in 1960, 1978, 1986 and 2009 respectively. It is noteworthy that the Supreme Court (Number of Judges) Amendment Act, 2019 has increased the number of judges in the Supreme Court from 31 (30+1) to 34 (33+1). Currently there may be a total up to 34 judges in the Supreme Court including the Chief Justice.
+
+**Ans: *. None of the given options fits cleanly.**
+
+</details>
+
+**Q6. UK UDA/LDA (Pre) 2007**
+
+The Supreme Court consists of a Chief Justice and
+
+A. Seven Judges
+B. Nine Judges
+C. Eleven Judges
+D. Twenty-five Judges
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court of India has been established under Article 124 of the Constitution of India. The number of Judges is also mentioned in Article 124. The original constitution of 1950 envisaged a Supreme Court with a Chief Justice and 7 Puisne Judges, leaving it to parliament to increase this number. In the early years, all the Judges of the Supreme Court sat together to hear the cases presented before them. As the work of the court increased and arrears of cases began to accumulate, parliament increased the number of Judges from 8 in 1950 to 11 in 1956, 14 in 1960, 18 in 1978 and 26 (including Chief Justice) in 1986. By the Supreme Court (Number of Judges) Amendment Act, 2009 number of Judges increased from 26 to 31 (including Chief Justice). It is noteworthy that the number of Judges has been increased from 31 to 34 (including Chief Justice) by The Supreme Court (Number of Judges) Amendment Act, 2019.
+
+**Ans: *. None of the given options fits cleanly.**
+
+</details>
+
+**Q7. UP Lower Sub (Pre) 2004**
+
+According to a decision taken by the Cabinet in
+February 2008, the Government would increase the
+strength of Judges in the Supreme Court. Under this
+decision, apart from the Chief Justice of India the
+Supreme Court would then have-
+
+A. 32 Judges
+B. 30 Judges
+C. 38 Judges
+D. 26 Judges
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: *. None of the given options fits cleanly.**
+
+</details>
+
+**Q8. MPPCS (Pre) 2002**
+
+To become a Judge of Supreme Court, a person must
+be an advocate in High Court for at least how many
+years?
+
+A. 20
+B. 10
+C. 8
+D. 25
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 124 of the Indian Constitution deals with the establishment and Constitution of Supreme Court. Article 124 (3) of the Constitution prescribes that for appointment as a Judge of the Supreme Court a person must be (a) a citizen of India, and (b) has been a Judge of any High Court for at least 5 years, or (c) has been an advocate in a High Court for 10 years or is in the opinion of the President, a distinguished Jurist.
+
+**Ans: B. 10 Article 124 of the Indian Constitution deals with the establishment and Constitution of Supreme Court.**
+
+</details>
+
+**Q9. BPSC 63 (Pre) 2017**
+
+Who appoints the Judges of the Supreme Court of
+India ?
+
+A. The Prime Minister
+B. The President
+C. The Chief Justice of India
+D. The Ombudsman
+E. None of the above / more than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: B. The President See the explanation of the above question.**
+
+</details>
+
+**Q10. UPPCS (Pre) 2014**
+
+The resignation letter by a Judge of Supreme Court is
+addressed to :
+
+A. The President
+B. The Prime Minister
+C. The Chief Justice of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 124 of the Indian Constitution (1) There shall be a Supreme Court of India consisting of a Chief Justice of India and until Parliament by law prescribes a larger number, not more than thirty-three (Originally, it was seven) other Judges. (2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for that purpose and shall hold office until he attains the age of sixty-five years.
+
+**Ans: A. The President**
+
+</details>
+
+**Q11. 64th B.P.C.S. (Pre) 2018**
+
+A Judge of the Supreme Court may resign his office
+by writing to ?
+
+A. The President
+B. The Prime Minister
+C. The Law Minister
+D. The Attorney General of India
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: A. The President See the explanation of the above question.**
+
+</details>
+
+**Q12. MPPCS (Pre) 1993**
+
+How can a Judge of the Supreme Court be removed?
+
+A. By the will of the Chief Justice
+B. By the President
+C. By the President on the recommendation of the Chief Justice of the Supreme Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 124(4), a Judge of the Supreme Court cannot be removed from his office except by an order of the President passed after an address in each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of members present and voting, and presented to the President in the same session for such removal on the ground of proved misbehaviour or incapacity. A person who has been a Judge of the Supreme Court is debarred from practising in any court of Law or before any other authority in India.
+
+**Ans: D. According to Article 124(4), a Judge of the Supreme Court cannot be removed from his office except by an order of the President passed after an address in each House of Parliament supported by a majority of the total membership of that Hous**
+
+</details>
+
+**Q13. IAS (Pre) 2019**
+
+Consider the following statements :
+1. The motion to impeach a Judge of the Supreme court
+of India cannot be rejected by the Speaker of the
+Lok Sabha as per the Judges (inquiry) Act, 1968.
+2. The Constitution of India defines and gives details
+of what constitutes 'incapacity and proved misbehaviour' of the Judges of the Supreme Court of India.
+3. The details of the process of impeachment of the
+Judges of the Supreme Court of India are given in
+the Judges (Inquiry) Act, 1968.
+4. If the motion for the impeachment of a judge is
+taken up for voting, the law requires the motion
+to be backed by each House of the Parliament and
+supported by a majority of total membership of
+that House and by not less than two-thirds of total
+members of that House present and voting.
+Which of the statements given above is/are correct?
+
+A. 1 and 2
+B. 3 only
+C. 3 and 4 only
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The motion to remove a judge of the Supreme Court of India can be rejected by the speaker of the Lok Sabha as per the Judges (Inquiry) Act, 1968. The details of the process of removal of the judges of the Supreme Court of India are given in the Judges (Inquiry) Act, 1968.
+
+**Ans: C. 3 and 4 only The motion to remove a judge of the Supreme Court of India can be rejected by the speaker of the Lok Sabha as per the Judges (Inquiry) Act, 1968.**
+
+</details>
+
+**Q14. Chhattisgarh P.C.S. (Pre) 2003**
+
+A Judge of the Supreme Court can be removed by the
+President of India after-
+
+A. An enquiry by C.B.I.
+B. An enquiry by Chief Justice of India
+C. A report by the Bar Council of India
+D. An impeachment by the Parliament
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: D. An impeachment by the Parliament See the explanation of the above question.**
+
+</details>
+
+**Q15. UPPCS (Pre) 1990**
+
+The age of retirement in the Supreme Court is-
+
+A. 62 Years
+B. 63 Years
+C. 64 Years
+D. 65 Years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The retirement age of the Judges of the Supreme Court is 65 years while the retirement age of the Judges of the High Courts is 62 years.
+
+**Ans: D. 65 Years**
+
+</details>
+
+**Q16. BPSC 63 (Pre) 2017**
+
+What is the retirement age of the Judges of the
+Supreme Court ?
+
+A. 60 years
+B. 62 years
+C. 65 years
+D. 70 years
+E. None of the above / more than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: C. 65 years See the explanation of the above question.**
+
+</details>
+
+**Q17. UPPCS (Mains) 2008**
+
+Salaries of the Judges of the Supreme Court are
+determined by -
+
+A. Pay Commission appointed by the President.
+B. Law Commission
+C. Parliament
+D. Council of Ministers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 125(1) of the Constitution, there shall be paid to the Judges of the Supreme Court such salaries as may be determined by Parliament by law and, until provision in that behalf is so made, such salaries are as specified in the Second Schedule.
+
+**Ans: C. Parliament**
+
+</details>
+
+**Q18. IAS (Pre) 2012**
+
+What is the provision to safeguard the autonomy of
+the Supreme Court of India?
+1. While appointing the Judges of the Supreme Court,
+the President of India has to consult the Chief
+Justice of India.
+2. The Judges of the Supreme Court can be removed
+by the Chief Justice of India only.
+3. The salaries of the Judges are charged on
+the Consolidated Fund of India to which the
+Legislature does not have to vote.
+4. All appointments of officers and staffs of
+the Supreme Court of India are made by the
+Government only after consulting the Chief Justice
+of India?
+Which of the statement(s) given above is/are
+correct?
+
+A. 1 and 3 only
+B. 3 and 4 only
+C. Only 4
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court is considered the guardian of the Constitution. The Judges of the Supreme Court can be removed by order of the President, which must be supported by a special majority of each House of the Parliament and not by the Chief Justice of India.
+
+**Ans: A. 1 and 3 only The Supreme Court is considered the guardian of the Constitution.**
+
+</details>
+
+**Q19. IAS (Pre) 2005**
+
+Consider the following statements:
+1. The Parliament cannot enlarge the Jurisdiction of
+the Supreme Court of India as its Jurisdiction is
+limited to that conferred by the Constitution.
+2. The officers and servants of the Supreme Court
+and High Courts are appointed by the concerned
+Chief Justice, and the administrative expenses are
+charged on the Consolidated Fund of India.
+Which of the statements given above is/are correct ?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Article 138 of the Constitution, the Parliament can enlarge the Jurisdiction and powers of the Supreme Court with respect to any of the matters in the Union List. Thus, statement1 is wrong.
+
+**Ans: D. Neither 1 nor 2 Under Article 138 of the Constitution, the Parliament can enlarge the Jurisdiction and powers of the Supreme Court with respect to any of the matters in the Union List.**
+
+</details>
+
+**Q20. UPPCS (Pre) 1997**
+
+The Judges of the Supreme Court, after retirement,
+are permitted to carry on practice before -
+
+A. Supreme Court only
+B. High Courts only
+C. Both Supreme Court and High Court
+D. None of the Courts
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 124(7) of the Constitution, no person who has held office as a Judge of the Supreme Court shall plead or act in any Court or before any authority within the territory of India. While Article 220 of the Constitution provisions that no person who, after the commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or act in any Court or before any authority in India except the Supreme Court and the other High Courts.
+
+**Ans: D. None of the Courts According to Article 124(7) of the Constitution, no person who has held office as a Judge of the Supreme Court shall plead or act in any Court or before any authority within the territory of India.**
+
+</details>
+
+**Q21. U.P.U.D.A./L.D.A. (Pre) 2001**
+
+Acting Chief Justice of the Supreme Court of India is
+appointed by-
+
+A. Chief Justice of the Supreme Court
+B. Prime Minister
+C. President
+D. Law Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 126 of the Indian Constitution, the Acting Chief Justice of the Supreme Court is appointed by the President of India. It is done if the post of Chief Justice is vacant or if he is unable to discharge his duties. There is no provision for additional judges in the Supreme Court of India.
+
+**Ans: C. President According to Article 126 of the Indian Constitution, the Acting Chief Justice of the Supreme Court is appointed by the President of India.**
+
+</details>
+
+**Q22. UPPCS (Pre) 2000**
+
+Acting Chief Justice of India is appointed by the -
+
+A. Chief Justice of India
+B. Chief Justice of India with previous consent of the President
+C. President
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: C. President See the explanation of the above question.**
+
+</details>
+
+**Q23. Uttarakhand U.D.A./L.D.A. (Mains) 2006, 2007**
+
+The Judges of Supreme Court of India are appointed
+by the President -
+
+A. After recommendation by Rajya Sabha
+B. On the advice of Lok Sabha
+C. On the advice of Prime Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 124(2) of the Indian Constitution, every Judge of the Supreme Court shall be appointed by the President after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for the purpose. However, in case of appointment of a Judge other than the Chief Justice, the Chief Justice of India shall always be consulted.
+
+**Ans: D. According to Article 124(2) of the Indian Constitution, every Judge of the Supreme Court shall be appointed by the President after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the Preside**
+
+</details>
+
+**Q24. UKPCS (Pre) 2016**
+
+In which year was the Collegium System for the
+appointment of Judges adopted by the Supreme
+Court of India?
+
+A. 1993
+B. 1996
+C. 2000
+D. 2004
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Collegium System for the appointment of Judges was adopted by the Supreme Court in 1993. The Collegium System has its genesis in three Supreme Court judgments collectively known as the Three Judges Cases.
+
+**Ans: A. 1993 The Collegium System for the appointment of Judges was adopted by the Supreme Court in 1993.**
+
+</details>
+
+**Q25. UPPSC (GIC) 2010**
+
+The Supreme Court’s Collegium comprises the
+Chief Justice of India and a few Senior Judges for
+recommending appointee to the Supreme Court. The
+number of such Senior Judges, who are part of this
+body, is
+
+A. 3
+B. 4
+C. 5
+D. 6
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court’s Collegium comprises the Chief Justice of India and 4 Senior Judges for recommending appointees to the Supreme Court.
+
+**Ans: B. 4**
+
+</details>
+
+**Q26. BPSC 69 (Pre) 2023**
+
+Consider the following statements about the collegium
+system :
+1. The Supreme Court collegium is a five-member
+body, which is headed by the incumbent Chief
+Justice of India (CJI) and comprises four other
+seniormost Judges of the Court at that time.
+2. The Parliament by law has evolved the collegium
+system. 
+ 
+ 
+3. The Judges of the Supreme Court and High Courts
+are appointed only through the collegium system.
+4. The collegium system was introduced in the year
+1993 by Justice P. N. Bhagwati in the landmark
+First Judges Case.
+Which of the above statements is/are correct?
+
+A. Only 1
+B. 1 and 2
+C. 3 and 4
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Chief Justice of India is one of the five senior judges of the Supreme Court's Collegium. They will take into consideration the promotion of judges of the Supreme Court, as well as the promotion of judges of High Courts to the position of chief justice.
+
+**Ans: D. 1 and 3 The Chief Justice of India is one of the five senior judges of the Supreme Court's Collegium.**
+
+</details>
+
+**Q27. Chhattishgarh P.C.S. (Pre) 2024**
+
+Which of the following statements are correct regarding
+National Judicial Appointments Commission? It
+consists of :
+(A) The Chief Justice of India as the Ex-Officio
+Chairperson.
+(B) Two other Senior Judges of the Supreme Court
+next to the Chief Justice of India, as the Ex-officio
+Members.
+(C) The Union Minister of Law and Justice as the Exofficio Member.
+(D) Two eminent persons to be nominated by the
+Committee consisting of the Prime Minister, the
+Chief Justice of India and the Leader of Opposition
+in the House of the people or where there is no
+such Leader of Opposition, then, Leader of single
+largest opposition party in the House of the People
+Members.
+Choose the correct options.
+
+A. (A) and (C)
+B. (B) and (D)
+C. (A) and (D)
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Currently, India does not have a National Judicial Appointment Commission (NJAC). However, there was an attempt to establish the National Judicial Appointments Commission (NJAC), which was introduced by the 99th Constitutional Amendment Act, 2014.
+
+**Ans: D. All of the above Currently, India does not have a National Judicial Appointment Commission (NJAC).**
+
+</details>
+
+**Q28. U.P.P.S.C. (R.I.) 2014**
+
+Which of the following has recommended that
+appointment of Judges to Higher Courts should be
+through the participation of the Executive, Legislature
+and Chief Justice?
+
+A. National Commission to Review the Working of the Constitution.
+B. National Judicial Commission
+C. Second Administrative Reforms Commission
+D. Report of Law Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Second Administrative Reforms Commission has recommended that the appointment of Judges to Higher Courts should be done through the participation of the Executive, the Legislature, and the Chief Justice of India.
+
+**Ans: C. Second Administrative Reforms Commission**
+
+</details>
+
+**Q29. MPPCS (Pre) 2020**
+
+Which of the following type of Judge/Judges can be
+appointed in the Supreme Court of India?
+(i) ad hoc Judge
+(ii) Additional Judge
+Codes:
+
+A. (i) is true and (ii) is false
+B. (i) is false and (ii) is true
+C. Both (i) and (ii) are true
+D. Both (i) and (ii) are false
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: A. (i) is true and (ii) is false See the explanation of the above question.**
+
+</details>
+
+**Q30. IAS (Pre) 2000**
+
+Ad hoc Judges are appointed in the Supreme Court
+when-
+
+A. Some Judges go on long leave.
+B. No one is available for permanent appointment.
+C. There is an abnormal increase in cases pending before the Court.
+D. There is no quorum of the Judges available to hold.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Article 127(1) of the Constitution, at any time if there should not be a quorum of the Judges of the Supreme Court available to hold or continue any Session of the Court, the Chief Justice of India may, with the previous consent of the President and after consultation with the Chief Justice of the High Court concerned, request in writing the attendance at the sittings of the Court, as an ad hoc Judge, for such period as may be necessary, of a Judge of a High Court duly qualified for appointment as a Judge of the Supreme Court to be designated by the Chief Justice of India.
+
+**Ans: D. There is no quorum of the Judges available to hold.**
+
+</details>
+
+**Q31. UPPSC (GIC) 2010 / UPPCS (Mains) 2004**
+
+The Indian Constitution provides for the appointment
+of “Ad hoc Judges” in-
+
+A. Supreme Court
+B. High Courts
+C. District and Session Courts
+D. All the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: A. Supreme Court See the explanation of the above question.**
+
+</details>
+
+**Q32. IAS (Pre) 2021**
+
+With reference to Indian judiciary, consider the
+following statements :
+1. Any retired judge of the Supreme Court of India
+can be called back to sit and act as a Supreme
+Court judge by the Chief Justice of India with prior
+permission of the President of India.
+2. A High Court in India has the power to review its
+own judgement as the Supreme Court does.
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** As per Article 128, the Chief Justice of India may at any time, with the previous consent of the President, request any person who has held the office of a Judge of the Supreme Court or of the Federal Court or who has held the office of a Judge of a High Court and is duly qualified for appointment as a Judge of the Supreme Court to sit and act as a Judge of the Supreme Court. Article 215 : High Courts to be courts of record.
+
+**Ans: C. Both 1 and 2**
+
+</details>
+
+**Q33. UPPCS (Pre) 2012**
+
+The minimum number of Judges of the Supreme Court
+required for hearing any case involving interpretation
+of the Constitution is -
+
+A. Ten
+B. Nine
+C. Seven
+D. Five
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A minimum of 5 Judges of the Supreme Court are required for hearing any case involving the interpretation of the Constitution. It is designated as the Constitutional Bench.
+
+**Ans: D. Five A minimum of 5 Judges of the Supreme Court are required for hearing any case involving the interpretation of the Constitution.**
+
+</details>
+
+**Q34. UPPCS (Mains) 2012**
+
+The minimum number of Supreme Court Judges who
+can hear a case involving a substantial question of law
+as to the Interpretation of the Constitution is -
+
+A. Five
+B. Seven
+C. Eleven
+D. Thirteen
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** There should be a minimum of 5 Judges to hear a case involving a substantial question of law as to the interpretation of the Constitution. The panel generally contains judges in odd numbers, for example 3, 5, 7, 9, 11 etc. This is done to avoid any clash of votes or views.
+
+**Ans: A. Five There should be a minimum of 5 Judges to hear a case involving a substantial question of law as to the interpretation of the Constitution.**
+
+</details>
+
+**Q35. IAS (Pre) 1996**
+
+The power of the Supreme Court of India to decide
+disputes between the Centre and the State falls under
+its-
+
+A. Advisory jurisdiction
+B. Appellate jurisdiction
+C. Original jurisdiction
+D. Constitutional jurisdiction
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 131 of the Constitution of India deals with the Original jurisdiction of the Supreme Court. According to this Article the Supreme Court shall, to the exclusion of any other Court, have original jurisdiction in any dispute- (a) between the Government of India and one or more States; or (b) between the Government of India and any State or States on one side and one or more States on the other; or (c) between two or more States, if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends.
+
+**Ans: C. Original jurisdiction**
+
+</details>
+
+**Q36. M.P.P.C.S. (Pre), 2021**
+
+The power of Supreme Court of India decide the
+disputes between Centre and States falls under which
+Jurisdiction
+
+A. Appellate Jurisdiction
+B. Advisory Jurisdiction
+C. Constitutional Jurisdiction
+D. Original Jurisdiction
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: D. Original Jurisdiction See the explanation of the above question.**
+
+</details>
+
+**Q37. 70th B.P.S.C Retest 2024**
+
+The power of the Supreme Court of India to decide
+disputes between the Centre and the State falls under
+its
+
+A. Appellate jurisdiction
+B. Original jurisdiction
+C. Advisory jurisdiction
+D. Constitutional jurisdiction
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The decision regarding disputes between the Centre and States falls under the original jurisdiction of the Supreme Court of India. According to Article 131 of the Indian Constitution: (a) Between the Government of India and one or more states, or (b) Between the Government of India and one or more states on one side, and one or more other states on the other side, or (c) Between two or more states.
+
+**Ans: B. Original jurisdiction The decision regarding disputes between the Centre and States falls under the original jurisdiction of the Supreme Court of India.**
+
+</details>
+
+**Q38. IAS (Pre) 2012**
+
+Which of the following are included in the original
+jurisdiction of the Supreme Court?
+1. A dispute between the Government of India and
+one or more States.
+2. A dispute regarding elections to either House of
+the Parliament or that of Legislature of a state.
+3. A dispute between the Government of India and a
+Union Territory.
+4. A dispute between two or more States.
+Select the correct answer using the codes given below:
+
+A. 1 and 2
+B. 2 and 3
+C. 1 and 4
+D. 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: C. 1 and 4 See the explanation of the above question.**
+
+</details>
+
+**Q39. UPPCS (Mains) 2017**
+
+Which of the following statements is not true about the
+power of Supreme Court of India?
+
+A. It has the exclusive power to issue writs to protect the fundamental rights of the People.
+B. It has original and exclusive jurisdiction in intergovernmental disputes.
+C. It has advisory jurisdiction on a question of law or fact which may be referred to it by the President of India
+D. It has power to review its own judgment or order.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court (under Article 32) and the High Courts (under Article 226) can issue writs to protect the fundamental rights of the people. Hence, it is not an exclusive power of the Supreme Court.
+
+**Ans: A. It has the exclusive power to issue writs to protect the fundamental rights of the People. The Supreme Court (under Article 32) and the High Courts (under Article 226) can issue writs to protect the fundamental rights of the people.**
+
+</details>
+
+**Q40. BPSC 55 (Pre) 2011**
+
+Of the following statements, which one is not correct?
+
+A. Supreme Court was constituted in 1950.
+B. Supreme Court is the highest Court of appeal in the country.
+C. Supreme Court can hear from any High Court/ Tribunals except Court-martial.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Armed Forces Tribunal Act, 2007 provides that the Court Martial can be appealed in the Supreme Court.
+
+**Ans: C. Supreme Court can hear from any High Court/ Tribunals except Court-martial. Armed Forces Tribunal Act, 2007 provides that the Court Martial can be appealed in the Supreme Court.**
+
+</details>
+
+**Q41. UPPCS (Pre) 2008**
+
+The Supreme Court of India is a ‘Court of Record.’ It
+implies that -
+
+A. It has to keep a record of its decisions
+B. All its decisions have evidentiary value and cannot be questioned in any court.
+C. It has the power to punish for its contempt.
+D. No appeal can be made against its decisions.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Article 129 of the Indian Constitution, the Supreme Court shall be a Court of Record and shall have all the powers of such a Court, including the power to punish for contempt of itself. It implies that - (1) The judgment and proceeding are written and enrolled for perpetual memory in further proceedings.
+
+**Ans: B. All its decisions have evidentiary value and cannot be questioned in any court. Under Article 129 of the Indian Constitution, the Supreme Court shall be a Court of Record and shall have all the powers of such a Court, including the power to punish for contempt of itself.**
+
+</details>
+
+**Q42. UPPCS (Mains) 2008**
+
+Which of the following Courts in India is/are known
+as the Court (s) of Record?
+
+A. The High Courts only
+B. The Supreme Court only
+C. The High Courts and the Supreme Court
+D. The District Courts
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 129 and Article 215 of the Constitution of India, the Supreme Court and the High Courts, respectively, are to be ‘Courts of Record’ and shall have all the powers of such a Court including the power to punish for contempt of itself.
+
+**Ans: C. The High Courts and the Supreme Court**
+
+</details>
+
+**Q43. UP RO/ARO (Pre) 2023**
+
+Which one of the following pairs (Article- provision)
+is not correctly matched?
+
+A. Article 124 - Supreme Court to be a Court of Record
+B. Article 143 - Advisory Jurisdiction of Supreme Court
+C. Article 132 - Appellate Jurisdiction of Supreme Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 124 of the Indian Constitution deals with the Establishment and constitution of the Supreme Court. Significantly, Article 129 of the Indian Constitution empowers the Supreme Court to be a Court of Record.
+
+**Ans: A. Article 124 - Supreme Court to be a Court of Record Article 124 of the Indian Constitution deals with the Establishment and constitution of the Supreme Court.**
+
+</details>
+
+**Q44. IAS (Pre) 2022**
+
+Consider the following statements:
+1. Pursuant to the report of H.N. Sanyal Committee,
+the Contempt of Courts Act, 1971 was passed.
+2. The Constitution of India empowers the Supreme
+Court and the High Courts to punish for contempt
+of themselves.
+3. The Constitution of India defines Civil Contempt
+and Criminal Contempt.
+4. In India, the Parliament is vested with the powers
+to make laws on Contempt of Court.
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 1, 2 and 4
+C. 3 and 4 only
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In 1961 the H.N. Sanyal Committee was constituted and to pursue its recommendation, the Contempt of Courts Act, 1971 was passed.
+
+**Ans: B. 1, 2 and 4 In 1961 the H.N.**
+
+</details>
+
+**Q45. UKPCS (Pre) 2025**
+
+Under Article 32 in which case ‘Wilful noncompliance’ with court order was declared as
+contempt of the court ?
+
+A. Nilabati vs. State of Orissa
+B. M.L. Sachdev vs.Union of India
+C. Gracy vs. State of Kerala
+D. Gopi Aqua vs. Union of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** As per Section 2(b) of the Contempt of Courts Act, 1971 - wilful disobedience of the judgment/decree/direction/order/ writ etc. of the court is considered as civil contempt.
+
+**Ans: B. M.L. Sachdev vs.Union of India As per Section 2(b) of the Contempt of Courts Act, 1971 - wilful disobedience of the judgment/decree/direction/order/ writ etc.**
+
+</details>
+
+**Q46. UPPCS (Spl Mains) 2008**
+
+The Supreme Court holds its meetings in New Delhi,
+but it can meet elsewhere -
+
+A. With the approval of President.
+B. If the majority of Judges of Supreme Court so decide.
+C. With the approval of Parliament.
+D. On the request of State Legislature.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court shall sit in Delhi or such other place or places, as the Chief Justice of India may, with the approval of the President, from time to time, appoint (Art. 130).
+
+**Ans: A. With the approval of President. The Supreme Court shall sit in Delhi or such other place or places, as the Chief Justice of India may, with the approval of the President, from time to time, appoint (Art.**
+
+</details>
+
+**Q47. UPPCS (Mains) 2012**
+
+In which of the following cases, the Supreme Court of
+India enunciated the ‘Doctrine of Basic Structure’?
+
+A. Golaknath
+B. A.K. Gopalan
+C. Keshvanand Bharti
+D. Menka Gandhi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In the case of Keshavananda Bharti vs. the State of Kerala, (1973) a thirteen-Judge bench of the Indian Supreme Court, by a majority of 7:6, stated that the Parliament could only amend the Constitution to the extent that it did not “damage or destroy the basic structure of the Constitution” (under Article 368).
+
+**Ans: C. Keshvanand Bharti In the case of Keshavananda Bharti vs.**
+
+</details>
+
+**Q48. UPPCS (Pre) 2014**
+
+Which one of the following cases propounded the
+concept of ‘Basic structure’ of the Indian Constitution?
+
+A. Indira Sahni Case
+B. Shankari Prasad’s Case
+C. Rudal Shah’s Case
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: D. None of the above See the explanation of the above question.**
+
+</details>
+
+**Q49. UPPCS (Pre) 1999**
+
+Which of the following Articles of the Constitution of
+India have been declared by the Supreme Court as the
+‘Inviolable basic structure’ of the Constitution:
+Select the correct answer from the code given below:
+1. Article 32 2. Article 226
+3. Article 227 4. Article 245
+Code :
+
+A. 1, 2 and 3
+B. 1, 3 and 4
+C. 1, 2 and 4
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A Larger Bench of thirteen Judges in the Kesavananda Bharati Case unequivocally declared that the power of judicial review over legislative action vested in the High Courts under Article 226 and in the Supreme Court under Article 32 of the Constitution is an integral and essential feature of the Constitution, constituting part of its basic structure. Article 227 defines; that every High Court shall have superintendence over all courts and tribunals throughout the territories in relation to which it exercises Jurisdiction.
+
+**Ans: A. 1, 2 and 3**
+
+</details>
+
+**Q50. U.P. U.D.A./L.D.A. (Mains) 2010**
+
+The source of the ‘Basic Structure Theory of the
+Constitution’ in India is
+
+A. The Constitution
+B. Judicial Interpretation
+C. Opinion of the Jurists
+D. Parliamentary Statute
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Parliament could not use its amending powers under Article 368 to ‘damage,’ destroy,’ ‘abrogate,’ change’ or alter the ‘basic structure’ or framework of the Constitution. The view expressed in the Keshavananda Bharati Case was subsequently approved in the Minerva Mills' Case, 1980.
+
+**Ans: B. Judicial Interpretation The Parliament could not use its amending powers under Article 368 to ‘damage,’ destroy,’ ‘abrogate,’ change’ or alter the ‘basic structure’ or framework of the Constitution.**
+
+</details>
+
+**Q51. UPPCS (Spl Mains) 2004**
+
+The second largest bench Constituted by the Supreme
+Court till date was in the -
+
+A. Golaknath Case
+B. Minerva Mills Case
+C. Bank Nationalisation Case
+D. T.M.A. Pai Foundation Case
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The largest bench (13 Judges) constituted by the Supreme Court to date was in the case of Keshavananda Bharati (1973). The second largest bench (11 Judges) constituted by the Supreme Court till date was in the Case of Golaknath vs. the State of Punjab (1967).
+
+**Ans: A. Golaknath Case The largest bench (13 Judges) constituted by the Supreme Court to date was in the case of Keshavananda Bharati (1973).**
+
+</details>
+
+**Q52. UPPCS (Pre) 2012**
+
+In which of the following cases, Supreme Court held
+that?
+“Fundamental Rights enable a man to chalk out his
+life in the manner he likes best “?
+
+A. Indira Gandhi Vs. Raj Narain
+B. Golaknath Vs. The State of Punjab
+C. Bank Nationalization Case
+D. Azhar Vs. Municipal Corporation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court held the above concept in the Case of Golaknath Vs. the State of Punjab.
+
+**Ans: B. Golaknath Vs. The State of Punjab The Supreme Court held the above concept in the Case of Golaknath Vs.**
+
+</details>
+
+**Q53. R.A.S./R.T.S. (Pre) 2013**
+
+Identify the incorrect pair of Case and Ruling in that
+case by Supreme Court:
+
+A. Indira Sawhney Case- Creamy Layer for Other Backward Classes.
+B. Vishakaha Case - Protection of working women against sexual harassment at their place of work.
+C. Maneka Gandhi Case - Articles 14, 19 and 21 are not mutually exclusive.
+D. Bella Banerjee Case- Right to travel abroad is a part of personal liberty.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bella Banerjee Case is related to the West Bengal Land Development and Planning Act,1948. The right to travel abroad as a part of personal liberty was considered in the case of Maneka Gandhi (1978). The pair of option (d) is incorrect.
+
+**Ans: D. Bella Banerjee Case- Right to travel abroad is a part of personal liberty. Bella Banerjee Case is related to the West Bengal Land Development and Planning Act,1948.**
+
+</details>
+
+**Q54. UPPCS (Mains) 2010**
+
+Consider the following statements and state which one
+of them is correct?
+
+A. Supreme Court of India has only Original Jurisdiction.
+B. It has only Original and Appellate Jurisdiction.
+C. It has only Advisory and Appellate Jurisdiction.
+D. It has Original, Appellate as well as Advisory Jurisdiction
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 131 of the Constitution of India deals with the Original Jurisdiction of the Supreme Court; Article 132-136 deal with Appellate Jurisdiction and Article 143 deals with Advisory Jurisdiction of the Supreme Court.
+
+**Ans: D. It has Original, Appellate as well as Advisory Jurisdiction Article 131 of the Constitution of India deals with the Original Jurisdiction of the Supreme Court; Article 132-136 deal with Appellate Jurisdiction and Article 143 deals with Advisory Jurisdiction of the Supreme Court.**
+
+</details>
+
+**Q55. BPSC 68 (Pre) 2022**
+
+Which of the following is concerned with the Supreme
+Court of India?
+
+A. Collegium system
+B. Appellate jurisdiction
+C. Original jurisdiction
+D. More than one of the above
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** As far as the Supreme Court is concerned the Collegium system, Appellate jurisdiction and Original jurisdiction are related to the apex court. Significantly, the collegium system is the system of appointment and transfer of judges that has evolved through judgments of the Supreme Court, and not by an Act of Parliament or by a provision of the Constitution.
+
+**Ans: D. More than one of the above As far as the Supreme Court is concerned the Collegium system, Appellate jurisdiction and Original jurisdiction are related to the apex court.**
+
+</details>
+
+**Q56. UPPCS (Mains) 2004 / UPPCS (Pre) 2001**
+
+Which Article of the Constitution of India deals with
+the Appellate Jurisdiction of the Supreme Court in
+connection with Constitutional Cases?
+
+A. Article 131
+B. Article 132
+C. Article 132 read with Article 134 A
+D. Article 133 read with Article 134 A
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 131 of the Constitution of India deals with the Original Jurisdiction of the Supreme Court. Article 132 deals with the Appellate Jurisdiction of the Supreme Court in appeals from High Courts in the Following cases - any Judgement, decree or Final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding.
+
+**Ans: C. Article 132 read with Article 134 A Article 131 of the Constitution of India deals with the Original Jurisdiction of the Supreme Court.**
+
+</details>
+
+**Q57. U.P. Lower Sub. (Mains) 2013**
+
+All the cases regarding interpretation of the Constitution
+can be brought to the Supreme Court under its-
+
+A. Original Jurisdiction
+B. Appellate Jurisdiction
+C. Advisory Jurisdiction
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All the cases regarding the interpretation of the Constitution can be brought to the Supreme Court under its Appellate Jurisdiction. The Appellate Jurisdiction of the Supreme Court can be divided into the following heads.
+
+**Ans: B. Appellate Jurisdiction All the cases regarding the interpretation of the Constitution can be brought to the Supreme Court under its Appellate Jurisdiction.**
+
+</details>
+
+**Q58. UPPCS (Mains) 2014**
+
+Curative Petition in India can be filed in Supreme
+Court under Article -
+
+A. 138
+B. 140
+C. 142
+D. 146
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The concept of Curative Petition was evolved by the Supreme Court of India in the case of Rupa Ashok Hurra Vs. Ashok Hurra, 2002. According to the decision of the Supreme Court, the Curative Petition can be appealed in the Supreme Court under Article 142 of the Constitution.
+
+**Ans: C. 142 The concept of Curative Petition was evolved by the Supreme Court of India in the case of Rupa Ashok Hurra Vs.**
+
+</details>
+
+**Q59. UPPCS (Mains) 2009**
+
+Which Article of the Constitution permits the Supreme
+Court to review its judgement or order?
+
+A. Article 137
+B. Article 130
+C. Article 139
+D. Article 138
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Article 137, the Supreme Court has the power to review its judgment subject to the provisions of any law made by Parliament or any rule made under Article 145 of the Indian Constitution.
+
+**Ans: A. Article 137**
+
+</details>
+
+**Q60. UPPCS (Mains) 2011**
+
+Which one of the following is correct with regard to the
+power to review any judgment pronounced or order
+made by the Supreme Court of India?
+
+A. The President of India has the power of review such judgment or order.
+B. The Supreme Court has the power to review its judgment or order.
+C. The Cabinet has the power to review such judgment or order with the permission of the President of India.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: B. The Supreme Court has the power to review its judgment or order. See the explanation of the above question.**
+
+</details>
+
+**Q61. UPPCS (Mains) 2005**
+
+Which one of the following is correct about the
+Supreme Court regarding its Judgment?
+
+A. It can change the Judgment
+B. It can not change the Judgment
+C. Only the Chief Justice of India can change the Judgement
+D. Only the Ministry of Law can change the Judgment.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 137, subject to the provision of any law made by the Parliament or any rules made under Article 145, the Supreme Court shall have the power to review any Judgment or order.
+
+**Ans: A. It can change the Judgment According to Article 137, subject to the provision of any law made by the Parliament or any rules made under Article 145, the Supreme Court shall have the power to review any Judgment or order.**
+
+</details>
+
+**Q62. IAS (Pre) 2019**
+
+With reference to the constitution of India, prohibitions
+or limitations or provisions contained in ordinary
+laws cannot act as prohibitions or limitations on the
+constitutional powers under Article 142. It could mean
+which one of the following?
+
+A. The decisions taken by the Election Commission of India while discharging its duties cannot be challenged in any court of law.
+B. The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.
+C. In the event of grave financial crisis in the country, the President of India can declare Financial Emergency without the counsel from the Cabinet.
+D. State Legislatures cannot make laws on certain matters without the concurrence of Union Legislature.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 142 - enforcement of decrees & orders of the Supreme Court and unless as to discovery etc. (1) The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or orders so made shall be enforceable throughout the territory of India such manner as 'may be prescribed by or under any law by parliament and until provision in that behalf is so made, in such manner as the president may by order prescribe.
+
+**Ans: B. The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament. Article 142 - enforcement of decrees & orders of the Supreme Court and unless as to discovery etc.**
+
+</details>
+
+**Q63. IAS (Pre) 2017**
+
+In India, Judicial Review implies
+
+A. the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.
+B. the power of the Judiciary to question the wisdom of the laws enacted by the Legislatures.
+C. the power of the Judiciary to review all the legislative enactments before they are assented to by the President
+D. the power of the Judiciary to review its own judgments given earlier in similar or different cases.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Judicial Review means the power of the Judiciary to interpret the Constitution and to declare any such law or order of the Legislature and Executive void, if it finds it in conflict with the Constitution of India.
+
+**Ans: A. the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders. The Judicial Review means the power of the Judiciary to interpret the Constitution and to declare any such law or order of the Legislature and Executive void, if it finds it in conflict with the Constitution of India.**
+
+</details>
+
+**Q64. BPSC 39 (Pre) 1994**
+
+Judicial Review means that the Supreme Court -
+
+A. Has final authority over all issues.
+B. Can charge allegations against President.
+C. Can review the issues decided by High Courts.
+D. Can declare illegal any law of the State.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: D. Can declare illegal any law of the State. See the explanation of the above question.**
+
+</details>
+
+**Q65. UPPCS (Pre) 1994**
+
+Judicial Review implies the right of the Court to -
+
+A. Declare any law or order invalid if it is in conflict with the Constitution.
+B. Review the order of the Lower Courts.
+C. Hear appeals against the decision of the Lower Courts.
+D. Review the laws to see that they have been passed as per the procedure laid down.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: A. Declare any law or order invalid if it is in conflict with the Constitution. See the explanation of the above question.**
+
+</details>
+
+**Q66. IAS (Pre) 2020**
+
+Consider the following statements :
+1. The Constitution of India defines its 'basic
+structure' in terms of federalism, secularism,
+fundamental rights and democracy.
+2. The Constitution of India provides for 'judicial
+review' to safeguard the citizens' liberties and to
+preserve the ideals on which the Constitution is
+based.
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The doctrine of 'Basic Structure' itself cannot be found in the Constitution, because this concept was recognised for the first time in the Keshwanand Bharti Case (1973) by the Supreme Court. Hence, statement 1 is wrong.
+
+**Ans: B. 2 only The doctrine of 'Basic Structure' itself cannot be found in the Constitution, because this concept was recognised for the first time in the Keshwanand Bharti Case (1973) by the Supreme Court.**
+
+</details>
+
+**Q67. UPPCS (Mains) 2017**
+
+In India, the power of Judicial Review is enjoyed by?
+
+A. The Supreme Court alone
+B. The Supreme Court as well as High Courts
+C. All the Courts
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The doctrine of Judicial Review originated and developed in the USA. It was propounded for the first time in the famous case of Marbury v/s Madison (1803) by John Marshall, the then Chief Justice of the American Supreme Court.
+
+**Ans: B. The Supreme Court as well as High Courts The doctrine of Judicial Review originated and developed in the USA.**
+
+</details>
+
+**Q68. IAS (Pre) 2019**
+
+With reference to the Constitution of India, consider
+the following statements:
+1. No High Court Shall have the Jurisdiction to declare any central law to be constitutionally invalid.
+2. An amendment to the Constitution of India cannot
+be called into question by the Supreme Court of
+India.
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 42nd Amendment Act of 1976 curtailed the judicial review of the High Court. It debarred the High Courts from considering the constitutional validity of the central law.
+
+**Ans: D. Neither 1 nor 2 The 42nd Amendment Act of 1976 curtailed the judicial review of the High Court.**
+
+</details>
+
+**Q69. UPPCS (Mains) 2013**
+
+The system of Judicial Review, is prevalent in
+
+A. India only
+B. U.K. only
+C. U.S.A. only
+D. Both in India and U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The judicial review is the doctrine under which the Legislative and the Executive actions are subject to review by the Judiciary. Article 13 of the Constitution of India provides for Judicial review. While the Parliament is the supreme body of the United Kingdom and law made by it cannot be challenged in Court.
+
+**Ans: D. Both in India and U.S.A. The judicial review is the doctrine under which the Legislative and the Executive actions are subject to review by the Judiciary.**
+
+</details>
+
+**Q70. UPPCS (Mains) 2002**
+
+Assertion (A) : The scope of Judicial review is
+limited in India.
+Reason (R) : Indian Constitution is “a bag of
+borrowing.”
+Select the correct answer using the codes given below.
+Codes :
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A).
+C. (A) is true but (R) is false.
+D. (A) is false but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Assertion (A) is correct, because the scope of Judicial review is limited in India. It has three main reasons; (i) The Judiciary reviews Legislative functions, especially if that law affects the Basic Structure of the Constitution.
+
+**Ans: B. Both (A) and (R) are true but (R) is not the correct explanation of (A). Assertion (A) is correct, because the scope of Judicial review is limited in India.**
+
+</details>
+
+**Q71. I.A.S. (Pre.) 2023**
+
+In essence, what does 'Due Process of Law' mean?
+
+A. The principle of natural justice
+B. The procedure established by law
+C. Fair application of law
+D. Equality before law
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Due Process of Law is a principle that makes sure that the procedure used to make a law is free from arbitrariness and irrationality and Natural Justice implies fairness, reasonableness, equity and equality. Natural Justice is a concept of Common Law and it is analogous to the American concept of procedural due process.
+
+**Ans: A. The principle of natural justice Due Process of Law is a principle that makes sure that the procedure used to make a law is free from arbitrariness and irrationality and Natural Justice implies fairness, reasonableness, equity and equality.**
+
+</details>
+
+**Q72. Chhattisgarh P.C.S. (Pre) 2015**
+
+Judicial review in the Indian Constitution is based on -
+
+A. Due Process of Law
+B. Procedure established by Law
+C. Rule of Law
+D. Precedents and conventions
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** An independent Judiciary, having the power of ‘Judicial Review’, is a prominent feature of the Indian Constitution. The Constitution of India establishes the doctrine of Judicial Review in the following Articles : 13, 32, 136, 137, 226 and 227. In India, the concept of Judicial review is based on the Procedure established by law.
+
+**Ans: B. Procedure established by Law An independent Judiciary, having the power of ‘Judicial Review’, is a prominent feature of the Indian Constitution.**
+
+</details>
+
+**Q73. BPSC 67 (Pre) 2022**
+
+Judicial process in India is based on
+
+A. the Constitution
+B. the due process of routine law
+C. conventions
+D. the procedure established by law
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Judicial process in India is based on procedure established by law, the constitution, conventions as well as the due process of routine law. Article 14 provides that the state shall not deny to any person equality before law or equal protection of laws within the territory of India.
+
+**Ans: E. None of the above/More than one of the above Judicial process in India is based on procedure established by law, the constitution, conventions as well as the due process of routine law.**
+
+</details>
+
+**Q74. IAS (Pre) 2009**
+
+A Constitution (Amendment) Act may be declared
+unconstitutional by the Supreme Court of India if it -
+
+A. Establishes three-tier federal set up in place of the existing two tier-set up.
+B. Removes Right of Equality before the law from Part III and places it elsewhere in the Constitution.
+C. Replaces Parliamentary System of Executive with the Presidential one.
+D. Establishes a Federal Court of Appeal to lighten the
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A Constitution (Amendment) Act may be declared unconstitutional by the Supreme Court of India if it removes the Right of Equality before the law from Part III and places it elsewhere in the Constitution because Article 13(2) states that the State shall not make any law which takes away or abridges the rights conferred by this Part (Part III) and any law made in contravention of this clause shall, to the extent of the contravention, be void.
+
+**Ans: B. Removes Right of Equality before the law from Part III and places it elsewhere in the Constitution.**
+
+</details>
+
+**Q75. BPSC 67 (Pre) 2022**
+
+The Supreme Court is a
+
+A. federal court
+B. protector of human rights
+C. final interpreter of the Constitution
+D. civil court
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court of India is the highest judicial court and the guarantor of the fundamental rights of citizens and the guardian of the Constitution.
+
+**Ans: E. None of the above/More than one of the above The Supreme Court of India is the highest judicial court and the guarantor of the fundamental rights of citizens and the guardian of the Constitution.**
+
+</details>
+
+**Q76. MPPCS (Pre) 1994**
+
+Who has the last authority to explain the Constitution?
+
+A. President
+B. Attorney General of India
+C. Speaker of Lok Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court has the final authority to interpret the Constitution. The Supreme Court has been declared the Guardian or Custodian of the Constitution.
+
+**Ans: D. The Supreme Court has the final authority to interpret the Constitution. The Supreme Court has been declared the Guardian or Custodian of the Constitution.**
+
+</details>
+
+**Q77. MPPCS (Pre) 2010**
+
+Who is the custodian of Indian Constitution?
+
+A. President
+B. Parliament
+C. Council of Ministers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: D. See the explanation of the above question.**
+
+</details>
+
+**Q78. MPPCS (Pre) 2016**
+
+Who is known as the custodian of the Indian Constitution?
+
+A. The Parliament
+B. The President
+C. The Supreme Court
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: C. The Supreme Court See the explanation of the above question.**
+
+</details>
+
+**Q79. IAS (Pre) 2015**
+
+Which of the following is the custodian of the
+Constitution of India?
+
+A. The President of India
+B. The Prime Minister of India
+C. The Lok Sabha Secretariat
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court is the custodian or the Guardian of the Constitution of India. The Constitution of India is the Supreme Law of India. It is a living document. It lays down the framework defining fundamental political principles, establishes the structure, procedures, powers and duties of the Government institutions and sets out Fundamental Rights, Directive Principles and the Duties of Citizens.
+
+**Ans: D. The Supreme Court is the custodian or the Guardian of the Constitution of India. The Constitution of India is the Supreme Law of India. It is a living document. It lays down the framework defining fundamental political principles, establish**
+
+</details>
+
+**Q80. UPPCS (Pre) 2015**
+
+The Guardianship of Indian Constitution is vested in:
+
+A. President
+B. Lok Sabha
+C. Supreme Court
+D. Council of Ministers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: C. Supreme Court See the explanation of the above question.**
+
+</details>
+
+**Q81. UP Lower Sub (Pre) 2004 / UPPCS (Mains) 2006 / IAS (Pre) 1993 / BPSC 71 (Pre) 2025**
+
+Which of the following cases comes under the
+Jurisdiction of High Court and Supreme Court?
+
+A. Dispute between the Centre and States.
+B. Dispute between States.
+C. Enforcement of Fundamental Rights.
+D. Protection from violation of the Constitution.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The protection/enforcement of Fundamental Rights is a subject that comes under the jurisdiction of both the Supreme Court (Article 32) and the High Courts (Article 226). The High Courts have broader writ jurisdiction under Article 226 than the Supreme Court's Jurisdiction under Article 32.
+
+**Ans: C. Enforcement of Fundamental Rights. The protection/enforcement of Fundamental Rights is a subject that comes under the jurisdiction of both the Supreme Court (Article 32) and the High Courts (Article 226).**
+
+</details>
+
+**Q82. UPPSC (GIC) 2010**
+
+Under which Article of the Constitution of India
+Supreme Court safeguards the Fundamental Rights
+of the Indian citizens?
+
+A. 74
+B. 56
+C. 16
+D. 32
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 32 of the Indian Constitution is the “Right to Constitutional Remedies” for the enforcement of rights conferred by Part III, i.e., Fundamental Rights. The Supreme Court has the power to issue directions, orders or writs to safeguard the Fundamental Rights.
+
+**Ans: D. 32**
+
+</details>
+
+**Q83. IAS (Pre) 2003**
+
+The power to enlarge the jurisdiction of the Supreme
+Court of India with respect to any matter included in
+the Union List of Legislative Powers rests with -
+
+A. The President of India
+B. The Chief Justice of India
+C. The Parliament
+D. The Union Ministry of Law, Justice and Company Affairs
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 138(1) of the Constitution, the Supreme Court shall have such further jurisdiction and powers with respect to any of the matters in the Union List as Parliament may by law confer.
+
+**Ans: C. The Parliament According to Article 138(1) of the Constitution, the Supreme Court shall have such further jurisdiction and powers with respect to any of the matters in the Union List as Parliament may by law confer.**
+
+</details>
+
+**Q84. UKPCS (Pre) 2012**
+
+By whom the jurisdiction of the Supreme Court of
+India can be enlarged?
+
+A. President of India
+B. Parliament by passing a resolution
+C. Parliament by making a law
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The jurisdiction of the Supreme Court of India can be enlarged by the Parliament by making a law. According to Article 138 of the Indian Constitution, the Parliament can enlarge the additional jurisdiction and the powers of the Supreme Court by making a law.
+
+**Ans: C. Parliament by making a law The jurisdiction of the Supreme Court of India can be enlarged by the Parliament by making a law.**
+
+</details>
+
+**Q85. UPPSC (GIC) 2010 / UPPCS (Pre) 2012**
+
+Who has the right to seek advisory opinion of the
+Supreme Court on any question of law -
+
+A. Prime Minister
+B. President
+C. Any High Court
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 143 of the Constitution of India deals with the ‘Power of the President to Consult the Supreme Court.’
+
+**Ans: B. President**
+
+</details>
+
+**Q86. UP Lower Sub (Pre) 1998**
+
+Under which Article, the President of India refer to the
+Supreme Court regarding the process of appointment
+and transfer of Judges in the Supreme Court and High
+Courts?
+
+A. Article 127 sub clause (1)
+B. Article 143 sub clause (1)
+C. Article 143 sub Clause (11)
+D. Article 144 sub Clause (1)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Article 143 sub-clause (1), President can obtain the opinion of the Supreme Court on a question of law or fact that is of such nature and of such public importance that it is expedient to get the opinion of the Supreme Court. He may refer the question to that Court for consideration.
+
+**Ans: B. Article 143 sub clause (1)**
+
+</details>
+
+**Q87. IAS (Pre) 1994**
+
+Which of the following statements regarding the
+Advisory Jurisdiction of the Supreme Court is correct?
+(1) It is binding on the Supreme Court to give its
+opinion on any matter referred to it by the
+President.
+(2) The full bench of the Supreme Court hears any
+reference made to it under its power of Advisory
+Jurisdiction.
+(3) The opinion given by the Supreme Court on a
+reference under Advisory Jurisdiction is not
+binding on the government.
+(4) Not more than one reference at a time can be made
+to the Supreme Court under its power of Advisory
+Jurisdiction.
+Select the answer from the codes given below-
+
+A. 1 and 2
+B. 1 and 3
+C. 2 and 3
+D. 2 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 143, the President can take the advice of the Supreme Court on the following topics - (1) matter of fact or law related to public importance, (2) any former Constitutional treaty, agreement or other equivalent subjects. In the first case the Supreme Court is not bound to give advice, but in the second case, the Supreme Court has to give its opinion.
+
+**Ans: C. 2 and 3**
+
+</details>
+
+**Q88. UPPCS (Mains) 2016**
+
+The advisory powers of the Supreme Court of India
+imply that it may
+
+A. Advise to the President on the issues of law or fact which are of public importance.
+B. Advise to the government of India on all Constitution matters.
+C. Advise to the Prime Minister on legal matters.
+D. Advise to all the above persons.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: A. Advise to the President on the issues of law or fact which are of public importance. See the explanation of the above question.**
+
+</details>
+
+**Q89. IAS (Pre) 2001**
+
+The Supreme Court of India tenders advice to the
+President on a matter of law or fact:
+
+A. On its initiative
+B. Only if he seeks such advice
+C. Only if the matter relates to the Fundamental Rights of citizens
+D. Only if the issue poses a threat to the unity and integrity of the country
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Article 143(1) of the Indian Constitution, the Supreme Court of India Acts as an advisory body to the President of India, who can ask for advice on any matter of law or fact of public importance.
+
+**Ans: B. Only if he seeks such advice Under Article 143(1) of the Indian Constitution, the Supreme Court of India Acts as an advisory body to the President of India, who can ask for advice on any matter of law or fact of public importance.**
+
+</details>
+
+**Q90. IAS (Pre) 2010**
+
+Consider the following statements:
+The Supreme Court of India tenders advice to the
+President of India on matters of law or fact.
+1. On its initiative (on any matter of larger public
+interest ).
+2. If he seeks such advice.
+3. Only if the matters is related to the Fundamental
+Rights of the citizens.
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. 3
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: B. 2 only See the explanation of the above question.**
+
+</details>
+
+**Q91. IAS (Pre) 2003**
+
+Under which Article of the Indian Constitution did the
+President make a reference to the Supreme Court to
+seek the Court’s opinion on the Constitutional validity
+of the Election Commission’s decision on deferring the
+Gujarat Assembly Elections (in the year 2002)?
+
+A. Article 142
+B. Article 143
+C. Article 144
+D. Article 145
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In August 2002, the then-President Dr. Abdul Kalam sought advice from the Supreme Court under Article 143 in connection with the controversy between the Election Commission and the Government on elections in Gujarat.
+
+**Ans: B. Article 143 In August 2002, the then-President Dr.**
+
+</details>
+
+**Q92. UPPCS (Spl Mains) 2004**
+
+“I will bear true faith and allegiance to the Constitution
+of India.....uphold the Sovereignty and Integrity of
+India..... Perform the duties of my office... uphold the
+Constitution and Law.” it is the form of Oath taken
+by -
+
+A. The President of India
+B. The Chief Justice of India
+C. The Member of Parliament
+D. The Governor
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Third Schedule to the Constitution of India contains the forms of the oaths or affirmations for Union and State Ministers, Members of Parliament, Members of State Legislatures, Judges of the Supreme Court and the High Courts, and the Comptroller and Auditor-General of India. There are 10 forms of oaths or affirmations included in the Third Schedule.
+
+**Ans: B. The Chief Justice of India**
+
+</details>
+
+**Q93. MPPCS (Pre) 2010**
+
+Who has the right to transfer any case anywhere in
+India?
+
+A. President
+B. Supreme Court
+C. High Court
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 139A, the Supreme Court can transfer any case anywhere in India. Where cases involving the same or substantially the same questions of law are pending before the Supreme Court and one or more High Courts or before two or more High Courts and the Supreme Court is satisfied on its motion or on an application made by the AttorneyGeneral of India or by a party to any such case that such questions are substantial questions of general importance, the Supreme Court may withdraw the case or cases pending before the High Court or the High Courts and dispose of all the cases itself.
+
+**Ans: B. Supreme Court**
+
+</details>
+
+**Q94. R.A.S./R.T.S. (Pre) (Re. Paper) 2013**
+
+Match List-I with List-II and identify the correct
+answer from the code given below:
+List -I List -II
+(Case) (Subject)
+(A)A.K. Gopalan Vs. State (i) Equality in admission
+of Madras to educational institutions
+(B) Romesh Thapar Vs. (ii) Parliament’s power to
+State of Madras amend the Constitution
+(C)Shankari Prasad Vs. (iii) Procedure for prevenUnion of India tive detention
+(D)Champakam Dorai- (iv)Restriction on Free
+rajan Vs. State of speech
+Madras
+Code :
+A B C D
+
+A. i ii iii iv
+B. iii iv i ii
+C. ii iv i iii
+D. iv iii ii i
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The matched list is as follows - A.K. Gopalan Vs. - Procedure for preventive State of Madras detention Romesh Thapar Vs. - Restrictions on free speech State of Madras Shankari Prasad Vs. - Parliament’s power to Union of India amend the Constitution Champakam Dorairajan - Equality in admission to Vs. State of Madras educational institutions
+
+**Ans: *. None of the given options fits cleanly.**
+
+</details>
+
+**Q95. JPSC (Pre) 2021**
+
+Which of the following case is related to zamindari
+system?
+1. Kameshwar Singh v/s State of Bihar
+2. Ramesh Thaper v/s State of Madras
+3. Motilal v/s State of Uttar Pradesh
+4. State of West Bengal v/s Subodh Gopal
+
+A. 1, 2 and 3
+B. 2 and 4
+C. 1, 2, 3 and 4
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Booklet keys all four as zamindari-related, which is overbroad. *Kameshwar Singh* is the classic zamindari/land-reform challenge; *Ramesh Thapar* is free speech (Art. 19); *Subodh Gopal* and *Motilal* sit in early property/FR litigation, not a clean zamindari quartet. Treat the booklet key cautiously; *Kameshwar Singh* is the safe zamindari association.
+
+**Ans: C (booklet). Prefer *Kameshwar Singh v. State of Bihar* for zamindari; do not ratta all four as a zamindari set.**
+
+</details>
+
+**Q96. BPSC 66 (Pre) 2020**
+
+Supreme Court's judgement of Indra Sawhney Vs
+Union of India Case is related to which issue ?
+
+A. Regarding the issue of OBC reservation in Government employment
+B. Basic Structure Theory
+C. Approve the reservation on promotion of SC
+D. Extended reservation for ST
+E. None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In Indra Sawhney vs Union of India and Others, 1992, the Supreme Court held that the reservation under Article 15 (4) and 16 (4) should not exceed 50 percent and the States and the Union have by and large accepted this as correct and it should be held as Constitutional Prohibition and any reservation beyond 50 per cent would be liable to be struck down.
+
+**Ans: A. Regarding the issue of OBC reservation in Government employment**
+
+</details>
+
+**Q97. UPPCS (Pre) 2002**
+
+Under which article, Supreme Court recently declared
+Migrants (Determination by Tribunal) Act, 1983 as
+unconstitutional for violation of the sacred duty of
+centre?
+
+A. Article - 355
+B. Article - 356
+C. Article - 256
+D. Article - 257
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court of India on 13 July, 2005, by its judgment held the Illegal Migrants (Determination by Tribunals) Act, 1983 as unconstitutional under Article 355 of the Constitution. A bench of three judges struck down the Act and observed that ‘the presence of such a large number of illegal migrants from Bangladesh is, in fact, an aggression on the State of Assam and causing a serious internal disturbance.
+
+**Ans: A. Article - 355 The Supreme Court of India on 13 July, 2005, by its judgment held the Illegal Migrants (Determination by Tribunals) Act, 1983 as unconstitutional under Article 355 of the Constitution.**
+
+</details>
+
+**Q98. UPPCS (Mains) 2003**
+
+TDSAT judgments can be challenged in the:
+
+A. TRAI, High Court, Supreme Court
+B. TRAI and Supreme Court
+C. High Court and Supreme Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In order to bring in functional clarity and strengthen the regulatory framework and the dispute settlement mechanism in the telecommunication sector, the TRAI Act of 1997 was amended in the year 2000 and TDSAT (Telecom Disputes Settlement and Appellate Tribunal) was setup to adjudicate disputes and dispose of appeals. Regarding Telecom, Broadcasting and Airport tariff matters, the Tribunal's orders can be appealed to the Supreme Court but only on substantial questions of law, while in regard to cyber issues, the Tribunal's order can be appealed before High Court.
+
+**Ans: C. High Court and Supreme Court**
+
+</details>
+
+**Q99. Chhattisgarh P.C.S. (Pre) 2021**
+
+Who was the Chief Justice of India for the shortest
+duration?
+
+A. Rajendra Mal Lodha
+B. S. Rajendra Babu
+C. Gopal Ballav Pattanaik
+D. Kamal Narain Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to the question, Answer is the following- Rajendra Mal Lodha - 27.04.2014 - 27.09.2014 S. Rajendra Babu - 02.05.2004 - 31.05.2004 Gopal Ballav Pattanaik - 08.11.2002 - 18.12.2002 Kamal Narain Singh - 25.11.1991 - 12.12.1991 Thus Kamal Narain Singh was the Chief Justice of India for shortest duration.
+
+**Ans: D. Kamal Narain Singh According to the question, Answer is the following- Rajendra Mal Lodha - 27.04.2014 - 27.09.2014 S.**
+
+</details>
+
+**Q100. R.A.S./R.T.S. (Pre) 2021**
+
+The correct sequence of Chief Justice of Supreme Court
+of India is -
+
+A. B.P. Sinha, P.B. Gajendragadkar, S.R. Das
+B. K.G. Balakrishanan, S.H. Kapadia, H.L. Dattu
+C. Ranjan Gogoi, N.V. Raman, Deepak Mishra
+D. H.L. Dattu, T.S. Thakur, Jagdish Singh Khehar
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to the question, the correct sequence of Chief Justice of Supreme Court are - Justice S.R. Das (1.2.1956 to 30.9.1959), Justice B.P.
+
+**Ans: D. H.L. Dattu, T.S. Thakur, Jagdish Singh Khehar According to the question, the correct sequence of Chief Justice of Supreme Court are - Justice S.R.**
+
+</details>
+
+**Q101. Chhattisgarh P.C.S. (Pre) 2021**
+
+Which of the following statements is/are true about
+previous Chief Justice of India, Yashwant Vishnu
+Chandrachud?
+Statement-I : He was 16th Chief Justice of India
+Statement-II : Till date, he is the longest serving Chief
+Justice of India
+Statement-III : He was appointed by Neelam Sanjiva
+Reddy
+From the statements given above, which is/are true?
+
+A. I, II and III
+B. I and II
+C. I and III
+D. Only II
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Justice Yashwant Vishnu Chandrachud was the 16th Chief Justice of India, serving from 22 February, 1978 to 11 July, 1985. To date he is the longest serving Chief Justice of India. He was appointed by Neelam Sanjiva Reddy.
+
+**Ans: A. I, II and III Justice Yashwant Vishnu Chandrachud was the 16th Chief Justice of India, serving from 22 February, 1978 to 11 July, 1985.**
+
+</details>
+
+**Q102. BPSC 67 (Pre) 2021**
+
+Which of the following posts was held by A.S. Anand
+in late 1990's?
+
+A. Comptroller and Auditor General
+B. Chief Justice of India
+C. Chief Vigilance Commissioner
+D. Attorney General
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Adarsh Sein Anand was the 29th Chief Justice of India, serving from 10 October, 1998 to 31 October, 2001.
+
+**Ans: B. Chief Justice of India**
+
+</details>
+
+**Q103. Chhattisgarh P.C.S. (Pre) 2023**
+
+Fathima Beevi, who recently passes away, she is the
+India's first :
+
+A. Woman to climb Mount Everest
+B. Woman Judge of Supreme Court
+C. Woman Chief Minister
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Justice Fathima Beevi was the first woman Judge of the Supreme Court. Apart from being the first woman Judge of the apex court, she was the first chairperson of the National Human Rights Council and the first Muslim female Governor of India (Tamil Nadu).
+
+**Ans: B. Woman Judge of Supreme Court Justice Fathima Beevi was the first woman Judge of the Supreme Court.**
+
+</details>
+
+**Q104. UP Lower Sub (Pre) 2008**
+
+Which one of the following is appointed as the fourth
+female Judge of Supreme Court in April 2010?
+
+A. Justice Fathima Beevi
+B. Justice Sujata Manohar
+C. Justice Gyan Sudha Misra
+D. Justice Ruma Pal
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** At the time when the question was asked, Justice Gyan Sudha Mishra was the only female Judge of the Supreme Court. She was elevated as a Judge of the Supreme Court of India on 30 April 2010.
+
+**Ans: C. Justice Gyan Sudha Misra At the time when the question was asked, Justice Gyan Sudha Mishra was the only female Judge of the Supreme Court.**
+
+</details>
+
+**Q105. UPPCS (Mains) 2016**
+
+Who amongst the following, recently appointed as
+Supreme Court judge, was not earlier judge of a High
+Court?
+
+A. D. Y. Chandrachud
+B. A.M. Khanwilkar
+C. L. Nageshwara Rao
+D. Ashok Bhushan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Justice L. Nageshwara Rao served as a Judge of the Supreme Court of India. He was the 7th person elevated directly from the Bar to the Supreme Court of India and was sworn in on 13th May, 2016 and retired on 07-06-2022.
+
+**Ans: C. L. Nageshwara Rao**
+
+</details>
+
+**Q106. 70th B.P.S.C. Pre-2024**
+
+Before his appointment as a judge of the Supreme
+Court of India in July 2024, Justice N. Kotiswar Singh
+was the Chief Justice of which High Court?
+
+A. Jammu and Kashmir and Ladakh High Court
+B. Madras High Court
+C. Bombay High Court
+D. Gauhati High Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In July 2024, before being appointed as a judge of the Supreme Court of India, Justice N. Kotiswar Singh was the Chief Justice of Jammu & Kashmir and Ladakh High Court. On 18th July 2024, he took the oath as a judge of the Supreme Court of India. On 5th December 2024, the person who took the oath as a judge of the Supreme Court was Justice Manmohan, who previously served as the Chief Justice of the Delhi High Court.
+
+**Ans: A. Jammu and Kashmir and Ladakh High Court In July 2024, before being appointed as a judge of the Supreme Court of India, Justice N.**
+
+</details>
+
+**Q107. MPPCS (Pre) 2020**
+
+Who among the following chief justice of Madhya
+Pradesh High Court has not been the judge at Supreme
+Court of India?
+
+A. Justice A. K. Patnaik
+B. Justice R.V. Raveendran
+C. Justice S.K. Jha
+D. Justice A. K. Mathur
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Justice S.K. Jha, among the above-mentioned Chief Justices of the Madhya Pradesh High Court, has not been the Judge of the Supreme Court of India.
+
+**Ans: C. Justice S.K. Jha**
+
+</details>
+
+**Q108. R.A.S/R.T.S (Pre) - 2018**
+
+Which one of the following judges of Supreme Court
+of India has not worked in Rajasthan High Court as
+judge?
+
+A. Justice N.M. Kasliwal
+B. Justice B.S. Chouhan
+C. Justice A.K. Mathur
+D. Justice R.C. Lahoti
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ramesh Chandra Lahoti was the 35th Chief Justice of India serving from 1 June 2004 to 1 November 2005. He joined the Bar in Guna District (MP) in 1960 and enrolled as an advocate in 1962.
+
+**Ans: D. Justice R.C. Lahoti Ramesh Chandra Lahoti was the 35th Chief Justice of India serving from 1 June 2004 to 1 November 2005.**
+
+</details>
+
+**Q109. UPPCS (Mains) 2008**
+
+Public Interest Litigations was introduced by -
+
+A. A Parliamentary Act
+B. A Constitutional Amendment
+C. Judicial initiative
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The concept of Public Interest Litigation (PIL) agrees with the principles enshrined in Article 39A of the Constitution of India to protect and deliver prompt Social Justice with the help of law. Before the 1980s, only the aggrieved party could approach the Courts for justice.
+
+**Ans: C. Judicial initiative The concept of Public Interest Litigation (PIL) agrees with the principles enshrined in Article 39A of the Constitution of India to protect and deliver prompt Social Justice with the help of law.**
+
+</details>
+
+**Q110. IAS (Pre) 2008**
+
+Consider the following statements:
+1. Justice V.R. Krishna Iyer was the Chief Justice of
+India.
+2. Justice V.R. Krishna Iyer is considered as one of
+the progenitors of Public Interest Litigation (PIL)
+in the Indian Judicial System.
+Which of the statement(s) given above is/are
+correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Justice V. R. Krishna Iyer (15 November 1915 - 4 December 2014) was elevated as the Judge of the Supreme Court, but he was not the Chief Justice of India. Justice P.N. Bhagwati and Justice Iyer are known for initiating Public Interest Litigation.
+
+**Ans: B. 2 only Justice V.**
+
+</details>
+
+**Q111. MPPCS (Pre) 2013**
+
+PIL is:
+
+A. Public Interest Litigation
+B. Public Inquiry Litigation
+C. Public Investment Litigation
+D. Private Investment Litigation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: A. Public Interest Litigation See the explanation of the above question.**
+
+</details>
+
+**Q112. UKPCS (Pre) 2012**
+
+Where can the Public Interest Litigation (PIL) be
+filed?
+
+A. Only in Supreme Court of India
+B. Only in High Courts of States
+C. In Central Administrative Tribunals
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: D. See the explanation of the above question.**
+
+</details>
+
+**Q113. UPPCS (Spl Mains) 2004**
+
+Consider the following statements and choose the
+correct answer from the code given below :
+Assertion (A) : The public interest litigation permits
+public-minded citizens to reach the
+Court of Law.
+Reason (R) : The public-minded people may seek
+Justice for the person who is unable
+to reach the Court of Law for any
+reasons.
+Select the correct answer using the code given below:
+Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both (A) and (R) are correct and (R) explains (A) correctly. Any citizen can go to Court for Justice regarding the welfare of any other person, group or society through the public interest litigation.
+
+**Ans: A. Both (A) and (R) are true, and (R) is the correct explanation of (A). Both (A) and (R) are correct and (R) explains (A) correctly.**
+
+</details>
+
+**Q114. IAS (Pre) 1997 / UPPCS (Mains) 2011**
+
+The concept of Public Interest Litigation originated
+in:
+
+A. Australia
+B. India
+C. The United States
+D. The United Kingdom
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The term “PIL” originated in the United States. Since the nineteenth century, various Movements in that country have contributed to Public Interest Law, which was part of the legal aid movement. The first legal aid office was established in New York in 1876.
+
+**Ans: C. The United States**
+
+</details>
+
+**Q115. R.A.S./R.T.S. (Pre.) 2018**
+
+In which country the concept of Public Interest
+Litigation was originated?
+
+A. Canada
+B. United States of America
+C. United Kingdom
+D. Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** See the explanation of the above question.
+
+**Ans: B. United States of America See the explanation of the above question.**
+
+</details>
+
+**Q116. U.P.R.O. /A.R.O. (Pre) 2014**
+
+‘Judicial Activism’ in India is related to -
+
+A. Committed Judiciary
+B. Public Interest Litigation
+C. Judicial Review
+D. Judicial Independence
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Judicial Activism in India is related to Public Interest Litigation. Judicial Activism in India started in the mid 1970s, on the initiative of the Supreme Court.
+
+**Ans: B. Public Interest Litigation**
+
+</details>
+
+**Q117. JPSC (Pre) 2021**
+
+Who said 'judicial activism' should not become
+'judicial adventurism'?
+
+A. Justice P.N. Bhagavati
+B. Justice A.S. Anand
+C. Justice Ranjan Gogoi
+D. Justice Deepak Mishra
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Justice A.S. Anand said that Judicial Activism should not become Judicial Adventurism. Judicial Activism has primarily arisen due to the failure of the executive and legislature to act while Judicial Adventurism is an extreme form of Judicial Activism.
+
+**Ans: B. Justice A.S. Anand**
+
+</details>
+
+**Q118. UPPCS (Mains) 2009**
+
+The status of women in Indian Society was glorified
+by a Judgement of a Court in September, 2003. The
+Court is-
+
+A. Supreme Court of India
+B. Local Courts
+C. Special Courts
+D. High Court, U.P.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** On 23 September, 2003, Justice M.B. Shah of the Supreme Court of India glorified the status of women in Indian Society by an important Judgement. The Court held that the preference given to women for being appointed as a Principal of the Government College for Girls is not violative of Articles 14, 15 and 16 of the Constitution.
+
+**Ans: A. Supreme Court of India**
+
+</details>
+
+**Q119. R.A.S./R.T.S. (Pre) 2021**
+
+The case of Vishakha and others Vs. State of Rajasthan
+and others is related to -
+
+A. Maternity leave in respect of working women
+B. Transfer policy for women
+C. Prevention of the practice of dowry prevalent in the society.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Vishakha guidelines were a set of procedural guidelines for use in India in case of sexual harassment. Promulgated by the Supreme Court in 1997. In 2013, these were superseded by the sexual harassment of Women at the Workplace (Prevention, Prohibition and Redressal) Act, 2013.
+
+**Ans: D. The Vishakha guidelines were a set of procedural guidelines for use in India in case of sexual harassment. Promulgated by the Supreme Court in 1997. In 2013, these were superseded by the sexual harassment of Women at the Workplace (Preventi**
+
+</details>
+
+**Q120. BPSC 65 (Pre) 2019**
+
+By passing, 'Triple Talaq Law' recently, the Parliament of India endorsed which year's ruling of the
+Supreme Court of India that had made Triple Talaq
+(Talaq-e-Biddat) as unconstitutional?
+
+A. 2011
+B. 2013
+C. 2015
+D. 2017
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court in the Shayara Bano case (2017) had declared the Practice of Triple Talaq (Talaq-e-biddat) as unconstitutional. The Triple Talaq is considered to be a violation of Article 14 (the right to equality).
+
+**Ans: D. 2017**
+
+</details>
+
+**Q121. UPPCS (Pre) 2015**
+
+In which of the following cases the Supreme Court
+observed that Central Bureau of Investigation is a
+‘Caged Parrot’?
+
+A. Rail Board Bribery Case
+B. Vineet Narain Vs. Union of India
+C. 2G Spectrum Scam Case
+D. Coal Gate Scam Case
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court has denounced the CBI as a “Caged Parrot” in the Coal Gate allocation scam.
+
+**Ans: D. Coal Gate Scam Case The Supreme Court has denounced the CBI as a “Caged Parrot” in the Coal Gate allocation scam.**
+
+</details>
+
+**Q122. UPPCS (Pre) 2018**
+
+Supreme Court judgement regarding homosexuality
+is related to which of the following?
+
+A. Section 377 of IPC
+B. Article 377 of the Indian Constitution
+C. Article 277 of the Indian Constitution
+D. None of the Above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court judgement regarding homosexuality is related to Section 377 of IPC.
+
+**Ans: A. Section 377 of IPC The Supreme Court judgement regarding homosexuality is related to Section 377 of IPC.**
+
+</details>
+
+**Q123. UPPCS (Mains) 2013**
+
+Under which law is it prescribed that all proceedings
+in the Supreme Court of India shall be in English
+language?
+
+A. The Supreme Court rules, 1966
+B. Article 145 of the Constitution of India.
+C. A Legislation made by Parliament.
+D. Article 348 of the Constitution of India.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 348(1)(a) is related to the language to be used in the Supreme Court and High Courts for Acts, Bills, etc. It says “All proceedings in the Supreme Court and every High Court shall be in English language
+
+**Ans: D. Article 348 of the Constitution of India. Article 348(1)(a) is related to the language to be used in the Supreme Court and High Courts for Acts, Bills, etc.**
+
+</details>
 
 ## Ghatnachakra Extra Drill — High Courts
 
