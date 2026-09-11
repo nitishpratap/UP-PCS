@@ -5,6 +5,7 @@
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
 Gandhi early life | Gandhi in South Africa | Gandhian Ideology | Father of Nation | Jamnalal Bajaj | C.F. Andrews | Champaran Satyagraha | Kheda Satyagraha | Ahmedabad Mill Strike | Rowlatt Act | Jallianwala Bagh | Hunter Committee | Non-Cooperation Movement | Khilafat Movement | Gaya Session | No-changers and Pro-changers | Swaraj Party | Simon Commission | Nehru Report | Lahore Session | Purna Swaraj | Gandhi's Eleven Points | Civil Disobedience Movement | Dandi March | Round Table Conferences | Gandhi-Irwin Pact | Communal Award | Poona Pact | Gandhi's Constructive Programme | August Offer | Individual Satyagraha | Indian National Movement Chronology
+- **Individual Satyagrahis sequence:** 1st = **Acharya Vinoba Bhave** (17 Oct 1940, Pavnar); 2nd = **Jawaharlal Nehru**; 3rd = **Brahma Datt** (classic UPPCS question).
 
 </details>
 

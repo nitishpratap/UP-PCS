@@ -5,6 +5,7 @@
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
 Political Organisations before INC | Zamindari Association | Bangabhasha Prakashika Sabha | Freedom Leaders | Political Organisations | Indian National Congress | Establishment of INC | Congress Presidents | Congress Sessions | Congress Policies | Moderates | Extremists | Tilak | Dadabhai Naoroji | Poona Sarvajanik Sabha | Indian Association | East India Association | Bombay Presidency Association | Madras Mahajan Sabha
+- **Madras Mahajana Sabha (May 1884):** Formed at Madras by **M. Veeraraghavachariar**, **G. Subramania Iyer**, and **P. Anandacharlu**. Associated with *The Hindu* newspaper (started 1878 by G. Subramania Iyer). Demanded legislative council expansion, civil service indigenisation, and separation of judiciary from executive. Acted as the chief Madras precursor to the Indian National Congress.
 
 </details>
 

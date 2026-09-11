@@ -164,6 +164,8 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 - **Satyendranath Tagore** became the **first Indian to qualify** for the Indian Civil Service, in **1863**.
 - The **age limit for entry was cut repeatedly** through the 1860s–70s, which narrowed the practical window for Indian candidates further.
 - The **Aitchison Committee (1886)** created three tiers — Imperial (in England), Provincial and Subordinate (in India) — and nudged the age limit back up.
+- The **Islington Commission (Royal Commission on Public Services, 1912)** (chaired by Lord Islington; members included G.K. Gokhale and Abdur Rahim) recommended that **25% of the superior civil service posts** be filled by Indians.
+- The **Lee Commission (Royal Commission on Superior Civil Services, 1923–24)** recommended establishing a **Public Service Commission** (established in **1926** under Sir Ross Barker) and achieving a **50:50 parity** between Europeans and Indians in the ICS within 15 years.
 - **Simultaneous ICS examinations in India** began only in **1922**, at Allahabad/Delhi, after long nationalist demand and the Montagu–Chelmsford push.
 - Indianisation of the ICS stayed slow and partial right up to 1947.
 

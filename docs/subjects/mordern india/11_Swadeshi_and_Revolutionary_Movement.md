@@ -50,6 +50,7 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 31. **Mitra Mela (1899)** became **Abhinav Bharat (1904)** under **V.D. Savarkar** (Maharashtra; London branch **1906**).
 32. **Barrah Dacoity (1908, East Bengal)** was led by **Pulin Behari Das** (Dhaka Anushilan).
 33. **Bagha Jatin (Jatindranath Mukherjee)** led the wartime **Yugantar** reorganisation; **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna (1913)**.
+- **Sachindra Nath Sanyal's book *Bandi Jeevan*** served as the **"Bible of the Revolutionaries"**, inspiring a generation of youth across North India to join HRA.
 34. **Ashfaqulla Khan** is keyed as the first recorded Muslim hanged in the freedom struggle (Kakori, **Faizabad**, **19 Dec 1927**).
 35. **Jatin Das** died after a **63-day** hunger strike (**13 Sep 1929**) in the Lahore Conspiracy jail context.
 36. **Provisional Government of India (Kabul, 1915)** — President **Raja Mahendra Pratap**, PM **Barkatullah**.

@@ -4,7 +4,18 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Movement | Azad Hind Fauj | Azad Hind Government | Second World War and India | Political Deadlock | Final Phase (1945–47) | Independence Chronology | INA Trials | Cabinet Mission | Cripps Mission | Wavell Plan | Simla Conference | Mountbatten Plan | Indian Independence Act 1947
+Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Movement | Azad Hind Fauj | Azad Hind Government | Second World War and India | Political Deadlock | Final Phase (1945–47) | Independence Chronology | INA Trials | Cabinet Mission | Cripps Mission | Wavell Plan | Simla Conference | 
+### Desai-Liaquat Pact (January 1945)
+- Informal pact between **Bhulabhai Desai** (Congress Central Assembly leader) and **Liaquat Ali Khan** (Muslim League deputy leader).
+- Proposed an interim government with **parity of representation** for Congress and the League in the Central Executive (e.g. 20% reserved for minorities).
+- Though not officially endorsed by Gandhi or Jinnah, it paved the way for the **Wavell Plan (Shimla Conference)** in June 1945.
+
+### Plan Balkan / Dickie Bird Plan (May 1947)
+- Devised by Lord Mountbatten's staff committee chaired by **General Hastings Ismay** (nicknamed *Dickie Bird Plan* after Mountbatten's nickname 'Dickie').
+- Proposed the **balkanization / fragmentation of India**: power would be devolved to individual provinces (Madras, Bombay, Bengal, Punjab, United Provinces) and princely states with the choice to join India, Pakistan, or remain separate.
+- When Mountbatten showed the draft secretly to **Jawaharlal Nehru** at Shimla in May 1947, Nehru fiercely rejected it as a recipe for chaos and civil war. Mountbatten immediately scrapped it and drafted the **June 3rd Plan** (Mountbatten Plan).
+
+Mountbatten Plan | Indian Independence Act 1947
 
 </details>
 

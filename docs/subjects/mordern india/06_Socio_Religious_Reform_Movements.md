@@ -697,6 +697,36 @@ D. Neither 1 nor 2
 
 ---
 
+
+---
+
+## 6.27 Rahnumai Mazdayasnan Sabha (Parsi Reform)
+
+**Year: 1851** | Bombay | Parsi religious and social reform
+
+- Founded in **1851 at Bombay** by **Naoroji Furdunji**, **Dadabhai Naoroji**, **S.S. Bengalee**, and **K.R. Cama**.
+- Aimed at the modernization of Parsi religion, restoration of Zoroastrian religion to its original purity, and social reform including female education and removal of purdah.
+- Its official mouthpiece was the fortnightly journal ***Rast Goftar*** (**The Truth-Teller**), started in **1851** by **Dadabhai Naoroji**.
+- Do **not** confuse *Rast Goftar* (Parsi reform, Gujarati/English) with *Voice of India* (Dadabhai's political organ) or *Tahzib-ul-Akhlaq* (Sir Syed's Muslim reform journal).
+
+> **Logic:** Rahnumai Mazdayasnan Sabha = **1851, Bombay** + **Naoroji Furdunji / Dadabhai Naoroji** + ***Rast Goftar***.
+
+---
+
+## 6.28 Bahishkrit Hitakarini Sabha and Dr. B.R. Ambedkar
+
+**Dr. B. R. Ambedkar (1891–1956)** | Maharashtra / Pan-India | Dalit uplift & anti-untouchability
+
+- Dr. B.R. Ambedkar founded the **Bahishkrit Hitakarini Sabha** on **20 July 1924 in Bombay** for the moral, educational and material advancement of the depressed classes.
+- Central motto of the Sabha: **"Educate, Agitate, Organise"** (शिक्षित बनो, आंदोलन करो, संगठित रहो).
+- In **March 1927**, he led the historic **Mahad Satyagraha** to assert the right of untouchables to draw drinking water from the public **Chawdar Tank** in Mahad (Maharashtra).
+- On **25 December 1927**, he publicly burned the *Manusmriti* as a protest against caste discrimination.
+- Founded key anti-caste journals: ***Mooknayak*** (**1920**, supported by Shahu Maharaj of Kolhapur), ***Bahishkrit Bharat*** (**1927**), ***Samata*** (**1928**), and ***Janata*** (**1930**).
+- Formed the **Independent Labour Party in 1936** and the **All India Scheduled Castes Federation in 1942**.
+- Do **not** confuse *Bahishkrit Hitakarini Sabha* (1924, Ambedkar) with *Depressed Classes Mission Society* (1906, V.R. Shinde) or *All India Anti-Untouchability League / Harijan Sevak Sangh* (1932, Mahatma Gandhi).
+
+> **Logic:** Bahishkrit Hitakarini Sabha = **1924, Bombay** + **Dr. B.R. Ambedkar** + motto *"Educate, Agitate, Organise"*.
+
 ## Must-score facts — founders, years, regions
 
 ### Founder ↔ institution ↔ year (consolidated)
@@ -720,6 +750,8 @@ D. Neither 1 nor 2
 | Dr Palpu / Kumaran Asan / Narayana Guru | SNDP Yogam | 1903, Kerala |
 | D.K. Karve | Widow Remarriage Association; Indian Women’s University (SNDT from 1920) | 1896 home; 1916 university |
 | E.V. Ramaswami Naicker (Periyar) | Self-Respect Movement | 1925, Tamil country |
+| Naoroji Furdunji / Dadabhai Naoroji | Rahnumai Mazdayasnan Sabha (*Rast Goftar*) | 1851, Bombay |
+| Dr. B.R. Ambedkar | Bahishkrit Hitakarini Sabha (*Mooknayak*) | 1924, Bombay |
 
 ### British social legislation ↔ year (the four-law ladder)
 

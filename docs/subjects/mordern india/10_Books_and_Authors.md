@@ -152,6 +152,7 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **The Springing Tiger** | Hugh Toye | Bose biography |
 | **Indian Unrest** | Valentine Chirol | Branded Tilak “Father of Unrest” |
 | **The Philosophy of the Bomb** | Bhagwati Charan Vohra | HSRA tract |
+- ***Bandi Jeevan* (A Life in Captivity) by Sachindra Nath Sanyal:** Published in 1922, this memoir of Cellular Jail (Kalapani) became famous as the **"Bible of Indian Revolutionaries"** (क्रांतिकारियों की पाठ्य-पुस्तक / बाइबिल). Inspired Bhagat Singh, Chandrashekhar Azad, and HRA youth across UP and Punjab.
 | **Dreamland / Introduction to Dreamland** | Lala Ramsaran Das / Bhagat Singh stream | Jail literature |
 | **Guilty Men of India’s Partition** | Ram Manohar Lohia | Partition critique |
 | **The Man Who Divided India** | Rafiq Zakaria | Partition biography |
