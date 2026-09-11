@@ -445,6 +445,7 @@ ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
 | Words added | — | **Socialist**, **Secular**, **integrity** |
 
 - Date line was always **26th day of November, 1949** (adoption) — not Republic Day.
+- **Hindi Version / Vikram Samvat Date (UPPCS Trap):** The Hindi text of the Preamble specifies the adoption date as **'मिति मार्गशीर्ष शुक्ला सप्तमी, संवत् दो हज़ार छह विक्रमी' (Miti Margashirsha Shukla Saptami, Samvat 2006 Vikrami)**. This corresponds to **26 November 1949**.
 - **Sovereign / Democratic / Republic** were already present — **not** added by 42nd.
 - Word **Federal** is **NOT** in the Preamble (Union of States is in **Art. 1**).
 

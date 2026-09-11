@@ -815,7 +815,8 @@ D. 25 Jan. 1950
 **Ans: C** — 24 Jan. 1950.
 </details>
 
-**Drafting Committee members (7):** B.R. Ambedkar (Chair), N. Gopalaswami Ayyangar, Alladi Krishnaswamy Ayyar, K.M. Munshi, Syed Mohammad Saadullah, N. Madhava Rau (replaced B.L. Mitter), T.T. Krishnamachari (replaced D.P. Khaitan).
+**Drafting Committee members (7):** B.R. Ambedkar (Chair), N. Gopalaswami Ayyangar, Alladi Krishnaswamy Ayyar, K.M. Munshi, Syed Mohammad Saadullah, N. Madhava Rau (replaced B.L. Mitter due to ill-health), T.T. Krishnamachari (replaced D.P. Khaitan upon his death in 1948).
+- **Party affiliation trap (High-Yield UPPCS Fact):** **K.M. Munshi** was the **only member originally belonging to the Indian National Congress**. (Ambedkar represented Scheduled Castes Federation; Saadullah was Muslim League; Ayyar and Ayyangar were non-party independents; Mitter/Rau were civil service administrators; T.T. Krishnamachari joined Congress later).
 
 **Inline PYQ — UPPCS Prelims 2025, Q82**
 

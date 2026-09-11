@@ -436,6 +436,51 @@ D. Chittaranjan
 
 ---
 
+## 1.15A Uttar Pradesh Cultural & Performing Arts Institutions (High-Yield Match List)
+
+> **UPPCS Recurring Match Trap:** The exam repeatedly asks match-the-following questions pairing UP cultural academies with their establishment years and locations.
+
+| Institution | City / HQ | Established | Historical Fact & Trap Lock |
+|-------------|-----------|-------------|-----------------------------|
+| **Bhatkhande Sanskriti Vishwavidyalaya** | **Lucknow** | **1926** | Founded by Pt. Vishnu Narayan Bhatkhande with help of Rai Umanath Bali. Originally named **Marris College of Music**; renamed Bhatkhande Hindustani Sangeet Mahavidyalaya in 1960; declared Deemed University in 2000; upgraded to State Cultural University in **2022**. |
+| **State Lalit Kala Akademi, UP** | **Lucknow** | **8 Feb 1962** | Autonomous body for promotion of fine arts/visual arts under UP Dept of Culture. First Chairman: Dr. Sampurnanand. |
+| **Uttar Pradesh Sangeet Natak Akademi** | **Lucknow** | **13 Nov 1963** | Apex body for music, dance and drama in UP (originally named UP Sangeet Natya Bharati; renamed in 1969). |
+| **Bhartendu Natya Academy (BNA)** | **Lucknow** | **1975** | Autonomous institute for training in dramatic arts / theatre (modelled on NSD). Named after father of modern Hindi theatre, Bhartendu Harishchandra. |
+| **National Kathak Sansthan** | **Lucknow** | **1988–89** | Apex institute for documentation, research and training in Kathak (Lucknow Gharana). |
+| **Ayodhya Shodh Sansthan** | **Ayodhya** | **1986** | Located at Tulsi Smarak Bhavan; conducts research on Ramayana culture and folk traditions. |
+| **Tribal & Folk Art Culture Sansthan** (*Janjatiya evam Lok Kala Sanskriti Sansthan*) | **Lucknow** | **1996** | Dedicated preservation and documentation of tribal and rural folk traditions of UP. |
+| **North Central Zonal Cultural Centre (NCZCC)** | **Prayagraj** | **1985–86** | One of 7 Zonal Cultural Centres under Ministry of Culture; covers UP, MP, Rajasthan, Bihar, Uttarakhand, Delhi, Haryana. |
+| **Bharat Kala Bhavan** | **Varanasi** | **1920** | Renowned museum of art and archaeology situated inside Banaras Hindu University (BHU); founded by Rai Krishnadasa. |
+
+**Inline PYQ — UPPCS Match Pattern**
+
+Match List-I with List-II and select the correct answer:
+
+**List-I (Institution)**
+A. Bhatkhande Music Institute
+B. State Lalit Kala Akademi
+C. UP Sangeet Natak Akademi
+D. Bhartendu Natya Academy
+
+**List-II (Establishment Year)**
+1. 1926
+2. 1962
+3. 1963
+4. 1975
+
+A. 1 2 3 4
+B. 4 3 2 1
+C. 1 3 2 4
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Bhatkhande (1926), Lalit Kala (1962), Sangeet Natak (1963), Bhartendu Natya (1975).
+</details>
+
+---
+
 ## 1.16 Government Schemes for Culture
 
 Home for **scheme–year–ministry–objective**. KSVY is the **umbrella** for several performing-arts grants (including Seva Bhoj, Tagore Cultural Complexes, Guru-Shishya repertory, veteran artists).

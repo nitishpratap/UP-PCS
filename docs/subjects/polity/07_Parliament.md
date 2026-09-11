@@ -542,9 +542,14 @@ A person is disqualified from being a member of either House under Art. **102** 
 - The Pro Tem Speaker **administers the oath** to new members (Art. **99**) and **conducts the election** of the new Speaker.
 - His office **ends** as soon as the new Speaker is elected.
 
-**High-yield Speakers**
-- **G.V. Mavalankar** was the **first Speaker** of the Lok Sabha.
-- **Meira Kumar** was the **first woman Speaker**, in the 15th Lok Sabha (2009).
+**High-yield Speakers & Historical Traps**
+- **G.V. Mavalankar** was the **first Speaker** of the Lok Sabha (1952–1956); hailed by Jawaharlal Nehru as the **"Father of the Lok Sabha"**.
+- **First Speaker faced with Removal Motion:** **G.V. Mavalankar** was the first Speaker against whom a resolution for removal was moved in the Lok Sabha (on **18 December 1954** by opposition members led by J.B. Kripalani; the resolution was discussed and defeated by the House).
+- **First Deputy Speaker:** **M. Ananthasayanam Ayyangar** (later became Speaker upon Mavlankar's death in 1956).
+- **Speakers who died in office:** **G.V. Mavlankar** (1956) and **G.M.C. Balayogi** (2002, in a helicopter crash).
+- **Speaker who became President of India:** **Neelam Sanjiva Reddy** (resigned as Speaker in 1969; elected Speaker again in March 1977, then resigned in July 1977 to become the 6th President of India — elected unopposed).
+- **Longest serving Speaker:** **Dr. Balram Jakhar** (served two consecutive full terms from 1980 to 1989 across 7th and 8th Lok Sabha).
+- **Meira Kumar** was the **first woman Speaker**, in the 15th Lok Sabha (2009–2014; Sasaram constituency). Second woman Speaker: **Sumitra Mahajan** (16th Lok Sabha).
 - **G.M.C. Balayogi** was the **first Dalit Speaker**.
 - **P.A. Sangma** (11th Lok Sabha) remains the **only tribal Speaker** so far.
 - **Om Birla** has been Speaker of both the **17th and 18th** Lok Sabhas.
