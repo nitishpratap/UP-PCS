@@ -10,7 +10,7 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 
 > **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, **Ghatnachakra** Mughal/Babur–Akbar chapters, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — battle chronology, tombs, A/R (Babur language, Buland Darwaza), Mansabdari, Bairam Khan title, Abul Fazl deaths, Aurangzeb succession
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — Shah Jahan / Aurangzeb teaching expanded (Cause→Course→Result); Later Mughals given a full §7.14 card (was one compressed paragraph)
 > **Current Affairs:** N/A (purely historical)
 
 ---
@@ -46,7 +46,7 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 27. Akbar organised about **12 subahs**; under Aurangzeb the empire reached about **21 subahs**.
 28. **Hamida Banu** was Humayun's wife; **Gulbadan** wrote *Humayunnama*.
 29. **Dara Shikoh** wrote *Majma-ul-Bahrain* and *Sirr-i-Akbar*; Aurangzeb had him killed in **1659**.
-30. Later chronology: **Nadir Shah sacked Delhi in 1739**; the last Mughal was **Bahadur Shah II** during **1857**.
+30. Later Mughals: **Bahadur Shah I** wins **Jajau 1707**; **Sayyid Brothers** under **Farrukhsiyar**; **Muhammad Shah Rangeela** faces **Nadir Shah at Karnal 1739**; last emperor **Bahadur Shah II Zafar** in **1857**.
 
 ---
 
@@ -67,8 +67,11 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 | Padshah at Kabul vs after Panipat | **1504 Kabul** title vs **27 April 1526** Indian empire proclamation | काबुल पादशाह / पानीपत |
 | Chagatai vs Timurid claim | Ethnic **Chagatai Turk** line vs **Timur** descent for legitimacy | चगताई / तैमूर |
 | Alam Khan vs Daulat Khan | Ibrahim's **uncle**/pretender vs Punjab governor invite | आलम खान / दौलत खान |
-| Bairam Khan vs Rahim | Regent; **Khan-i-Khana from Akbar** (2024 Q4 **C**) vs son, Hindi poet | बैरम खान / रहीम |
+| Bairam Khan vs Rahim | Regent; **Khan-i-Khana from Akbar** vs son, Hindi poet | बैरम खान / रहीम |
 | Dara vs Aurangzeb | Scholar, syncretic; orthodox, won 1658 | दारा / औरंगज़ेब |
+| Balkh failure vs Deccan annexation | Shah Jahan’s **1646–47** prestige flop vs Aurangzeb’s **Bijapur 1686 / Golkonda 1687** | बल्ख / दक्कन |
+| Bahadur Shah I vs Zafar | **1707** successor of Aurangzeb vs **last** Mughal **1837–57** | बहादुर शाह I / ज़फ़र |
+| Rangeela vs Farrukhsiyar | **Nadir / Peacock Throne 1739** vs **1717** Company farman + Sayyid peak | रंगीला / फ़र्रुख़ |
 
 ---
 
@@ -434,43 +437,122 @@ D. Both true, R explains A
 
 ## 7.11 Shah Jahan & Dara Shikoh
 
-**1628–1658** | Peak marble architecture
+**1628–1658** | Title **Shah Jahan** | Peak of marble architecture and formal court culture
 
-- Shah Jahan built the **Taj Mahal (1632–53)** after Mumtaz died in **1631**. He also built Delhi **Red Fort (1639–48)**, the Jama Masjid, and the **Peacock Throne**.
-- **Nahr-i-Bihisht** in Shahjahanabad used water from the restored **Rajabwah** — tested in **UPPCS Prelims 2020 Q42**.
-- He patronised **Kavindra Acharya Saraswati** of Banaras — the fact in **UPPCS Prelims 2022 Q146**.
-- In the Deccan, he annexed **Ahmadnagar in 1636**. His **Balkh campaign (1646–47)** failed.
-- **Dara Shikoh**, the eldest son, wrote *Majma-ul-Bahrain* and translated the Upanishads as *Sirr-i-Akbar*. Aurangzeb killed him in **1659**.
-- **Dara Shikoh** bore the title **Shah Buland Iqbal**.
-- Shah Jahan **abolished sijda** (prostration before the emperor).
-- **Moti Masjid** in Delhi Red Fort and **Bibi ka Maqbara** (Aurangabad) belong to this age.
-- Shah Jahan fell ill in **1657**. Aurangzeb imprisoned him at **Agra Fort (1658–1666)**. He was buried in the Taj.
+### Accession and court
+
+- Prince **Khurram** took the throne in **1628** after Jahangir’s death and the brief Shahryar episode. He ruled as **Shah Jahan**.
+- His chief queen was **Mumtaz Mahal** (Arjumand Banu Begum). She died in **1631** at Burhanpur after childbirth.
+- Shah Jahan **abolished sijda** (prostration before the emperor), softening a Timurid court ritual that many ulama disliked.
+- He patronised **Kavindra Acharya Saraswati** of Banaras — a Banaras–Mughal cultural link often tested for UP.
+
+### Architecture and Shahjahanabad
+
+- The **Taj Mahal (1632–53)** at Agra was built as Mumtaz’s mausoleum. Shah Jahan himself was later buried beside her in the Taj.
+- He built the Delhi **Red Fort (1639–48)** and the **Jama Masjid** of Delhi when he shifted the capital focus to **Shahjahanabad**.
+- The palace canal **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Shah Rajabwah**.
+- The **Peacock Throne (Takht-i-Taus)** displayed the empire’s ceremonial wealth. The **Moti Masjid** inside the Delhi Red Fort belongs to this marble age.
+- **Bibi ka Maqbara** at Aurangabad (for **Rabia Daurani**) is a later family tomb in the Taj tradition, not Shah Jahan’s own commission in Agra.
+
+### Campaigns — Cause, Course, Result
+
+**Bundela / Central India**
+
+- **Cause:** Bundela chiefs challenged imperial control after Jahangir’s unsettled last years.
+- **Course:** Shah Jahan’s armies pressed **Orchha** and related Bundela strongholds; **Jujhar Singh**’s rebellion was crushed in the early 1630s.
+- **Result:** Mughal authority in Bundelkhand was reasserted, and the court regained a firmer grip on central Indian routes.
+
+**Portuguese at Hugli (1632)**
+
+- **Cause:** Portuguese settlers at **Hugli** mixed trade with slave-taking and fortified autonomy that the court would not tolerate.
+- **Course:** Mughal forces under **Qasim Khan** stormed Hugli in **1632**.
+- **Result:** Portuguese power on that Bengal stretch was broken; European trade thereafter depended more on imperial farmans than on armed enclaves.
+
+**Deccan (Ahmadnagar)**
+
+- **Cause:** The Nizam Shahi state was fragmented, and Bijapur–Golkonda rivalry left a vacuum the Mughals wanted to fill.
+- **Course:** Shah Jahan’s Deccan campaigns ended with the annexation of **Ahmadnagar in 1636**. Pressure on **Bijapur** and **Golkonda** continued through tribute and treaties rather than full annexation in his reign.
+- **Result:** Ahmadnagar became a Mughal subah base; full conquest of Bijapur and Golkonda waited for **Aurangzeb**.
+
+**Central Asia and Kandahar**
+
+- **Cause:** Shah Jahan sought Timurid prestige in **Balkh–Badakhshan** and wanted to hold **Kandahar** against Safavid Iran.
+- **Course:** The **Balkh campaign (1646–47)** advanced then collapsed under logistics and Uzbek resistance. **Kandahar** was lost to the Persians and never permanently recovered.
+- **Result:** Northern prestige projects failed; treasure and manpower were drained without a lasting frontier gain.
+
+### Dara Shikoh and the succession crisis
+
+- **Dara Shikoh**, the eldest son, held the title **Shah Buland Iqbal**. He wrote *Majma-ul-Bahrain* (Mingling of Two Oceans) and translated the Upanishads as *Sirr-i-Akbar*.
+- His sisters **Jahanara** and **Roshanara** pulled opposite ways in court politics. **Shuja**, **Aurangzeb**, and **Murad** were the other brothers in the later war.
+- Shah Jahan fell seriously ill in **1657**. The war of succession followed.
+- Aurangzeb imprisoned Shah Jahan in **Agra Fort from 1658 to 1666**. Shah Jahan died there and was buried in the **Taj Mahal**.
+
+> **Logic:** Shah Jahan = marble capital and failed Balkh/Kandahar; Dara = syncretic scholar, not the battlefield victor.
 
 ---
 
 ## 7.12 Aurangzeb — Succession & Campaigns
 
-**1658–1707** | Alamgir
+**1658–1707** | Title **Alamgir** | Longest reign among the Great Mughals | Called **Zinda Peer** (living saint) by devotees
 
-**Succession 1658–59:**
+### War of succession (1658–59) — Cause, Course, Result
 
-1. **Shuja** was beaten near **Banaras** in early **1658**.
-2. At **Dharmat in April 1658**, Aurangzeb defeated **Jaswant Singh**.
-3. At **Samugarh in May 1658**, Aurangzeb defeated **Dara**.
-4. At **Deorai in 1659**, Aurangzeb finally crushed Dara near Ajmer.
-5. **Jajau in 1707** came **after** Aurangzeb’s death, when Bahadur Shah fought Azam Shah.
+- **Cause:** Shah Jahan’s illness in **1657** opened a four-prince contest. **Dara** was the nominated favourite at court; **Aurangzeb** commanded the Deccan army and an orthodox following; **Shuja** held Bengal; **Murad** held Gujarat.
+- **Course:**
+  1. **Shuja** was beaten near **Banaras** in early **1658**.
+  2. At **Dharmat (April 1658)** near Ujjain, Aurangzeb defeated **Jaswant Singh** of Marwar, who blocked the road for Dara.
+  3. At **Samugarh (May 1658)** near Agra, Aurangzeb defeated **Dara**.
+  4. Aurangzeb took Agra, confined Shah Jahan, and later turned on **Murad**.
+  5. At **Deorai (1659)** near Ajmer, Aurangzeb finally crushed Dara.
+- **Result:** Aurangzeb became emperor as **Alamgir**. **Dara** was executed in **1659**. Shah Jahan remained a prisoner until **1666**. The succession order to remember is **Shuja near Banaras → Dharmat → Samugarh → Deorai**.
 
-- Aurangzeb annexed Bijapur in **1686** and **Golkonda in 1687**. The last Qutb Shah ruler was **Abul Hasan Qutb Shah**.
-- Aurangzeb was called **Zinda Peer** (living saint) by followers.
-- The **Treaty of Purandar (1665)** with **Raja Jai Singh** opened the Maratha front.
-- **Bibi ka Maqbara** at Aurangabad and **Moti Masjid (Delhi)** are later Shah Jahan–family monuments linked to this succession era.
-- Aurangzeb **reimposed jizya in 1679** and ordered Banaras temple destruction in **1669**.
-- Long Deccan wars against the Marathas drained the treasury and stretched the mansabdari system.
-- Aurangzeb died in **1707** at his Ahmadnagar camp and was buried at **Khuldabad**.
+> **Logic:** **Dharmat** is Aurangzeb versus Jaswant Singh in **1658**. **Daurah (1532)** is Humayun versus Afghan chiefs — never swap them. **Jajau (1707)** is after Aurangzeb’s death.
+
+### Religious and social policy
+
+- Aurangzeb **reimposed jizya in 1679**, reversing Akbar’s abolition of **1564**.
+- In **1669** he ordered action against certain temples, including the Banaras episode often cited for UP.
+- Court music and public celebration were curtailed in the orthodox phase; imperial painting patronage thinned, and many artists moved to **Rajput** and Deccan courts.
+- Followers called him **Zinda Peer**. His own grave at **Khuldabad** stayed deliberately simple.
+
+### Rajput and Sikh fronts — Cause, Course, Result
+
+**Marwar–Mewar strain**
+
+- **Cause:** After **Jaswant Singh**’s death, Aurangzeb tried to control Marwar succession and tighten orthodox policy, which broke the older Akbar-style Rajput partnership.
+- **Course:** Rathore resistance and Mewar friction dragged through the 1670s–80s while the emperor’s attention shifted south.
+- **Result:** Rajput goodwill of the Akbar–Jahangir age was damaged; northern manpower became less reliable for Deccan wars.
+
+**Sikh confrontation**
+
+- **Cause:** Growing Sikh political organisation under the later Gurus collided with Aurangzeb’s orthodoxy and Punjab control.
+- **Course:** **Guru Tegh Bahadur** was executed in **1675**. Conflict continued under **Guru Gobind Singh**.
+- **Result:** Sikh militarisation hardened; the Punjab problem outlived Aurangzeb into the Later Mughal century.
+
+### Deccan and Maratha wars — Cause, Course, Result
+
+**Bijapur and Golkonda**
+
+- **Cause:** Aurangzeb wanted to end Deccan sultanate autonomy and close the southern frontier after decades of tribute diplomacy.
+- **Course:** He annexed **Bijapur in 1686** and **Golkonda in 1687**. The last Qutb Shahi ruler was **Abul Hasan Qutb Shah**.
+- **Result:** The empire reached about **21 subahs**, but the new territories were expensive to hold and flooded the mansabdari–jagir market.
+
+**Marathas**
+
+- **Cause:** **Shivaji**’s swarajya challenged Mughal revenue and forts in the western Deccan.
+- **Course:** The **Treaty of Purandar (1665)** with **Raja Jai Singh** forced temporary submission. Conflict resumed; **Sambhaji** was captured and executed in **1689**. Endless guerrilla war followed under later Maratha leadership.
+- **Result:** Aurangzeb spent his last decades in the Deccan. The treasury and mansab system were strained; Mughal primacy in the peninsula was never settled.
+
+### Administration, culture, death
+
+- **Bibi ka Maqbara** at Aurangabad was built for **Rabia Daurani**. The **Moti Masjid** in Delhi’s Red Fort is linked to this court’s later marble work.
+- Long absence from the north and endless Deccan campaigning weakened central supervision. Jagir shortfalls and unpaid mansabdars became structural.
+- Aurangzeb died in **1707** at his camp near **Ahmadnagar** and was buried at **Khuldabad**.
+- **Jajau (1707)** came **after** his death, when **Bahadur Shah I** defeated **Azam Shah** — it is not a 1658 succession battle.
 
 ---
 
-## 7.13 Tombs, Families, Later Mughals
+## 7.13 Tombs and royal families
 
 **Emperor–tomb cities:** **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, and **Shah Jahan** at **Agra**.
 
@@ -483,7 +565,9 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (4-3-2-1)** — **UPPCS 2025 Q57Facts:** Babur–Kabul (4) | Humayun–Delhi (3) | Jahangir–Lahore (2) | Shah Jahan–Agra/Taj (1)
+**Logic:** Four-city match excludes Akbar’s Sikandra and Aurangzeb’s Khuldabad.
+
+**Ans: A (4-3-2-1).** Babur–Kabul, Humayun–Delhi, Jahangir–Lahore, Shah Jahan–Agra.
 
 **Trap:** Do not put Jahangir at Agra or Babur at Delhi.
 
@@ -493,15 +577,87 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 |---------|-----------|
 | Babur | **Kabul** |
 | Humayun | **Delhi** |
-| Akbar | **Sikandra** (Agra belt; outside the four-option tomb list in UPPCS Prelims 2025 Q57) |
+| Akbar | **Sikandra** (Agra belt) |
 | Jahangir | **Lahore** |
 | Shah Jahan | **Agra** (Taj) |
-| Aurangzeb | Khuldabad (simple) |
-| Rabia Daurani | Bibi ka Maqbara, Aurangabad (**UPPCS Prelims 2019 Q91**) |
+| Aurangzeb | **Khuldabad** (simple grave) |
+| Rabia Daurani | **Bibi ka Maqbara**, Aurangabad |
 
-**Families:** Hamida Banu was Humayun’s wife. Gulbadan was Babur’s daughter. Nur Jahan married Jahangir. Mumtaz married Shah Jahan. Jahanara and Roshanara were Shah Jahan’s daughters. Dara, Shuja, Aurangzeb, and Murad were Shah Jahan’s sons.
+### Royal families (one name = one fact)
 
-**Later Mughals:Bahadur Shah I** won **Jajau in 1707**. He was followed by Farrukhsiyar and the **Sayyid Brothers** as kingmakers (**1713–20**). **Muhammad Shah Rangeela** patronised Tappa music (Topic 6). **Nadir Shah sacked Delhi in 1739**. **Bahadur Shah II Zafar** was the last Mughal during **1857**.
+- **Hamida Banu** was Humayun’s wife and Akbar’s mother.
+- **Gulbadan Begum**, Babur’s daughter, wrote the *Humayunnama*.
+- **Nur Jahan** (Mehr-un-Nisa) married Jahangir in **1611**.
+- **Mumtaz Mahal** married Shah Jahan and died in **1631**.
+- **Jahanara** and **Roshanara** were Shah Jahan’s politically active daughters.
+- Shah Jahan’s four sons in the succession war were **Dara**, **Shuja**, **Aurangzeb**, and **Murad**.
+
+---
+
+## 7.14 Later Mughals (1707–1857)
+
+**Identity:** After Aurangzeb | Weak centre | Nobles and governors become kingmakers | Formal empire survives until **1857**
+
+### Why the centre weakened
+
+- Endless Deccan war, jagir crisis, and Rajput–Sikh alienation left a brittle succession in **1707**.
+- Provincial governors in **Awadh**, **Bengal**, **Hyderabad**, and elsewhere kept Mughal titles but acted as autonomous rulers.
+- Foreign shocks — **Nadir Shah (1739)** and later **Ahmad Shah Abdali** — stripped treasure and prestige from Delhi.
+
+### Emperors in order (must-score spine)
+
+**Bahadur Shah I (1707–1712)**
+
+- He was **Muazzam**, also called **Shah Alam** in some texts, and took the title **Bahadur Shah I** after winning **Jajau (1707)** against **Azam Shah**.
+- He tried conciliation with Rajputs and released **Shahu**, which reshaped Maratha politics.
+- Contemporary writers sometimes called him **Shahe Bekhabar** for his mild, indecisive style.
+
+**Jahandar Shah (1712–1713)**
+
+- He rose with the backing of **Zulfiqar Khan**, then fell quickly to **Farrukhsiyar**.
+
+**Farrukhsiyar (1713–1719)**
+
+- Real power lay with the **Sayyid Brothers** — **Abdullah Khan** and **Hussain Ali Khan** — the classic “kingmaker” pair (**about 1713–1720**).
+- In **1717** he granted the English East India Company an important **farman** for Bengal trade privileges.
+
+**Brief puppets after Farrukhsiyar**
+
+- **Rafi-ud-Darajat** and **Rafi-ud-Daula (Shah Jahan II)** were short-lived emperors raised and removed by the Sayyids.
+
+**Muhammad Shah “Rangeela” (1719–1748)**
+
+- He oversaw the fall of the Sayyid Brothers around **1720**.
+- He was the last emperor to sit on the **Peacock Throne**.
+- His court refined later **khayal** and **tappa** music; he is the music emperor of the Later Mughal phase.
+- **Nadir Shah** of Iran defeated him at **Karnal (1739)**, sacked Delhi, and carried away the Peacock Throne and the **Kohinoor**.
+
+**Ahmad Shah (1748–1754) and Alamgir II (1754–1759)**
+
+- Both ruled as the empire’s northern authority kept shrinking under Afghan and Maratha pressure.
+
+**Shah Alam II (1759–1806)**
+
+- He was defeated in the **Battle of Buxar (1764)** world of Company politics and lived long under Maratha then British shadow.
+- The **Treaty of Allahabad (1765)** framework left him a pensioned sovereign while the Company took diwani in Bengal.
+
+**Akbar II (1806–1837)**
+
+- He remained a ceremonial Delhi emperor under British paramountcy.
+
+**Bahadur Shah II “Zafar” (1837–1857)**
+
+- He was the **last Mughal**, son of **Akbar II**.
+- During **1857** rebels proclaimed him a symbolic head; after the rising he was tried and exiled to **Rangoon**, where he died.
+
+### Quick chronology traps
+
+| Trap | Correct |
+|------|------|
+| Bahadur Shah I = Bahadur Shah Zafar | **I** succeeds Aurangzeb (**1707**); **Zafar** is last (**1837–57**) |
+| Nadir Shah under Aurangzeb | **Muhammad Shah Rangeela**, **Karnal/Delhi 1739** |
+| Peacock Throne last used by Shah Jahan only | Last sitting emperor on it = **Muhammad Shah** |
+| Sayyid Brothers under Rangeela’s whole reign | Peak kingmaking **Farrukhsiyar** era; broken under **Muhammad Shah** |
 
 ---
 
@@ -2191,6 +2347,80 @@ D. 1679
 
 </details>
 
+**Q45.** With reference to Shah Jahan, which of the following is/are correct?
+1. He annexed Ahmadnagar in 1636.
+2. His Balkh campaign of 1646–47 permanently added Central Asian territory to the empire.
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ahmadnagar annexation is real; Balkh advanced then collapsed.
+
+**Ans: A.** Only statement 1. Balkh–Badakhshan was a prestige failure.
+
+</details>
+
+**Q46.** Arrange Aurangzeb’s succession events:
+1. Deorai
+2. Defeat of Shuja near Banaras
+3. Samugarh
+4. Dharmat
+
+A. 2-4-3-1
+B. 4-2-1-3
+C. 2-3-4-1
+D. 4-2-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Banaras → Dharmat (Apr) → Samugarh (May) → Deorai (1659).
+
+**Ans: A.** 2-4-3-1.
+
+**Trap:** Do not insert Jajau — that is 1707.
+
+</details>
+
+**Q47.** Which one of the following pairs is correctly matched?
+
+A. Bahadur Shah I — last Mughal emperor
+B. Muhammad Shah Rangeela — Nadir Shah’s invasion (1739)
+C. Farrukhsiyar — winner of Jajau (1707)
+D. Bahadur Shah Zafar — Sayyid Brothers’ first nominee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nadir Shah hit Rangeela at Karnal/Delhi in 1739.
+
+**Ans: B.** A confuses Zafar; C is Bahadur Shah I; D is wrong era.
+
+</details>
+
+**Q48.** Consider the following statements about Later Mughals:
+1. The Sayyid Brothers were the leading kingmakers in Farrukhsiyar’s reign.
+2. Bahadur Shah II Zafar was the son of Akbar II.
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sayyids peak under Farrukhsiyar; Zafar = son of Akbar II.
+
+**Ans: C.** Both correct.
+
+</details>
+
 ---
 
 ## Common Traps — Don't Fall For These
@@ -2208,11 +2438,14 @@ D. 1679
 11. **Nahr-i-Bihisht** in Shahjahanabad used water from the restored **Firuz Rajabwah**; it was not a wholly new Akbar-era canal.
 12. **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**, not Akbar.
 13. **Jajau (1707)** came after Aurangzeb's death; it is not one of the 1658 succession battles.
-14. **Din-i-Ilahi (1582)** was a small court circle, not a mass religion.
-15. In **UPPCS Prelims 2021 Q126**, the Mughal state began as a military state and Reason R (central vitality depended on army power) correctly explains Assertion A; answer **A**.
-16. The **Ilahi calendar (1584)** is separate from **Din-i-Ilahi (1582)**.
-17. The **Hamzanama** folio cycle belongs to **Akbar's** atelier, not Jahangir's natural-history albums with Mansur.
-18. **Chagatai Turks** — not Ottoman or Seljuk — were Babur's lineage; **Padshah** came at **Kabul (1504)**, Indian empire after **Panipat (27 April 1526)**.
-19. **Alam Khan** was Ibrahim Lodi's **uncle**, not the same as **Daulat Khan Lodi** of Punjab.
-20. **Mir Baqi** (Babur's commandant) built the **Babri Masjid** — state as a single careful fact.
-21. **UPPCS 2024 Q132** death order is **C (2-3-1-4)**: **Mubarak 1593** before **Faizi 1595** — not answer B.
+14. **Bahadur Shah I (1707)** is not **Bahadur Shah Zafar (1837–57)** — first after Aurangzeb versus last Mughal.
+15. **Nadir Shah’s 1739** sack hit **Muhammad Shah Rangeela**, not Aurangzeb or Shah Alam II.
+16. **Din-i-Ilahi (1582)** was a small court circle, not a mass religion.
+17. In the Mughal military-state A/R, the empire began as a military state and central vitality rested on army power — Reason explains Assertion.
+18. The **Ilahi calendar (1584)** is separate from **Din-i-Ilahi (1582)**.
+19. The **Hamzanama** folio cycle belongs to **Akbar's** atelier, not Jahangir's natural-history albums with Mansur.
+20. **Chagatai Turks** — not Ottoman or Seljuk — were Babur's lineage; **Padshah** came at **Kabul (1504)**, Indian empire after **Panipat (27 April 1526)**.
+21. **Alam Khan** was Ibrahim Lodi's **uncle**, not the same as **Daulat Khan Lodi** of Punjab.
+22. **Mir Baqi** (Babur's commandant) built the **Babri Masjid** — state as a single careful fact.
+23. Court death order: **Mubarak 1593** → **Faizi 1595** → **Abul Fazl 1602** → **Daniyal 1605**.
+24. Shah Jahan’s **Balkh (1646–47)** failed; do not confuse it with Aurangzeb’s successful **Bijapur / Golkonda** annexations.
