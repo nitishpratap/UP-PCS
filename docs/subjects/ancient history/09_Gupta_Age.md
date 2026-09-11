@@ -175,7 +175,11 @@ Samudragupta’s wars are remembered as a **digvijaya**. The main source is the 
 
 **Course:** The Prashasti groups the wars by region and policy.
 - In **Aryavarta (north)** nine kings are **uprooted**. Their land is annexed.
-- In **Dakshinapatha (south)** twelve kings are **defeated, then restored** as tributaries. They are not annexed.
+- In **Dakshinapatha (south)** twelve kings are defeated and restored under the technical policy of **ग्रहण-मोक्ष-अनुग्रह (Grahana-Moksha-Anugraha)**:
+  - *Grahana* = capturing the southern kings
+  - *Moksha* = liberating them
+  - *Anugraha* = reinstating them as tributary feudatories upon payment of tribute (*sarva-karadana*).
+  *(Contrast: In Aryavarta/North India, he followed **प्रसभोद्धरण (Prasabhoddharana)** = violent extermination / direct annexation).*
 - Forest **atavika** chiefs are brought to heel.
 - Frontier states and **ganarajyas** pay tribute. Not all are wiped out.
 
@@ -245,7 +249,9 @@ A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 - Navaratna court is a later legend. **Kalidasa** is the name papers keep. Full nine-name table sits in the literature card.
 - After the Shaka victory he issues **silver rupaka** coins.
 - The strongest Shaka-victory proof in the 2022 paper is those **silver coins** weighing about **33 grains**.
-- **Fa-Hien (Faxian)** is in India **399–414 CE**, in this reign. He sees Pataliputra and the Gangetic belt.
+- **Fa-Hien (Faxian)** was in India **399–414 CE** during this reign to collect authentic Buddhist Vinaya texts.
+  - **Crucial UPPCS Trap:** In his entire travelogue (*Fo-Kwo-Ki* / *Record of Buddhist Kingdoms*), **Fa-Hien NEVER mentions the name of Emperor Chandragupta II or his royal court**, despite praising the peace, absence of capital punishment, and prosperity of the Middle Kingdom (Madhyadesha).
+  - Noted that **cowrie shells (कौड़ी)** were used by common people as the daily medium of exchange for small purchases, while gold dinaras and silver rupakas were used for large/state transactions.
 - In traveller chronology he comes **before** Hiuen Tsang, I-Tsing, and Al-Biruni.
 
 **PYQ — UPPCS Prelims 2022, Q23**

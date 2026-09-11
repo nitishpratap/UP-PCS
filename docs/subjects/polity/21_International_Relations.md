@@ -10,7 +10,7 @@ India’s Foreign Policy | Panchsheel | Non-Alignment | NAM | UNSC | Global Secu
 
 > **Sources baked in:** UN Charter, Bretton Woods, WTO/Marrakesh, grouping charters, UPPCS PYQs 2018–2025 (BIMSTEC / IMF–WB / G20 / BRICS / SCO)
 > **Weight:** ★★★ — BIMSTEC **not Indonesia** (2025); Bretton Woods twins, **both HQ Washington** not WB-New York (2025); G20 logo **lotus + 7 petals = 7 continents** (2023); G20 in UP **not Kanpur** (2023); 5th BIMSTEC chaired by **Sri Lanka not India** (2022); BRICS 10th summit **South Africa 2018**
-> **Last verified:** August 2026
+> **Last verified:** September 2026 · Ghatnachakra international organisations and foreign-policy drill added
 > **Current Affairs:** G20 New Delhi **Sep 2023** + AU as member; BRICS expansion **2024**; SCO Iran **2023** / Belarus **2024**; India SCO chair **2022–23**; BIMSTEC 5th summit Colombo **2022**
 
 ---
@@ -802,6 +802,1065 @@ D. East Asia Summit 2019 — Bangkok
 **Ans: A.** EAS 2020 host = **Vietnam**, not Singapore.
 
 Neighbour papers (home elsewhere): UNESCO *which site* → art-culture; UNDP HDI/poverty → economy; WTO farm-subsidy boxes → economy/agri; UNFCCC → ecology; Commonwealth *Games* cities → sports.
+
+---
+
+## Ghatnachakra Extra Drill — International Organisations and Foreign Policy
+
+**Q1. Ghatnachakra (source Q1)**
+
+U.N.O. was founded in -
+A. 1944 B. 1945
+C. 1946 D. 1947
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Charter was signed in June 1945, but the United Nations legally came into existence on 24 October 1945.
+
+**Ans: B.** The United Nations is an international organization founded
+in 1945. The draft of the United Nations Charter was finalized
+in a conference held in San Francisco from April to June,
+1945. On 26 June, 1945, 50 nations signed the Charter.
+Representative of Poland was not present at San Francisco
+and ratified the Charter on 16 October, 1945, as the 51st
+member of the United Nations. This organization came into
+being on 24 October, 1945 and this date is observed as the
+‘United Nations Day.’
+
+</details>
+
+**Q2. Ghatnachakra (source Q2)**
+
+When is the ‘United Nations Day’ observed?
+A. 27th October B. 24th October
+C. 26th October D. 15th October
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UN Day marks the Charter’s entry into force on 24 October 1945.
+
+**Ans: B.** United Nations Day is observed on 24 October, the date on which the UN Charter entered into force in 1945.
+
+</details>
+
+**Q3. Ghatnachakra (source Q3)**
+
+The number of permanent members in the United
+Nations Security Council is :
+A. 6 B. 5 C. 4 D. 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Council has five permanent and ten elected members. The elected members serve two-year terms.
+
+**Ans: B.** The United Nations Security Council (UNSC) is one of the
+six principal organs of the United Nations and is charged with
+the maintenance of peace and security. The Security Council
+consists of fifteen (15) members, including 5 permanent
+members (USA, France, China, UK (Britain and Russia)
+and 10 non-permanent members. The 10 non-permanent
+members are elected on a regional basis by United Nations
+for a term of 2 years.
+
+</details>
+
+**Q4. Ghatnachakra (source Q4)**
+
+Which of the following is not a permanent member of
+the U.N. Security Council?
+A. Germany B. France
+C. Great Britain D. China
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Germany is not in the P5; the five are China, France, Russia, the United Kingdom and the United States.
+
+**Ans: A.** Germany is not a permanent member. The P5 are China, France, Russia, the United Kingdom and the United States.
+
+</details>
+
+**Q5. Ghatnachakra (source Q5)**
+
+Which of the following countries was NOT elected
+in June 2020 as a non-permanent member of United
+Nations Security Council for the year 2021-22?
+A. Ireland B. Norway
+C. Mexico D. Canada
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Canada lost the June 2020 contest. India, Ireland, Kenya, Mexico and Norway were elected for 2021–22.
+
+**Ans: D.** India began its two-year tenure as a non-permanent member
+of the United Nations Security Council from January 1,
+2021. India will sit in the 15-nation UNSC for the 2021-22
+term as a non-Permanent member. Apart from India Ireland,
+Kenya, Mexico and Norway have also been elected as a nonpermanent members for the same term.
+
+</details>
+
+**Q6. Ghatnachakra (source Q6)**
+
+In April 2024, how many members of the UN Security
+Council either rejected or abstained from voting for the
+proposal to allow Palestine to become a full member
+of the UN?
+A. 6 B. 2
+C. 3 D. 5
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The United States voted against the Palestine recommendation and the United Kingdom and Switzerland abstained: three members did not support it.
+
+**Ans: C.** In April, 2024, the United Nations Security Council rejected
+a proposal regarding the full membership of Palestine in the
+United Nations. The United States of America vetoed this
+proposal, while Switzerland and United Kingdom abstained
+from voting. In this way, three members either abstained or
+cast negative votes.
+
+</details>
+
+**Q7. Ghatnachakra (source Q7)**
+
+According to United Nations Charter which of the
+following statements is not true regarding exercise of
+veto power in the Security Council?
+A. For Security Council decision on every procedural
+matter there should be 9 affirmative votes of its
+members including the 5 votes of five permanent
+members.
+B. Every permanent member of Security Council may
+by use of Veto Power, withhold acceptance on any
+decision.
+C. The word ‘Veto’ has been used under Article 27 of
+UN Charter so that any permanent member may stop
+a resolution going to be passed with a majority.
+D. Any member of Security Council may use Veto Power
+to stop a resolution going to be passed with a majority.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The printed stem is defective: procedural decisions need nine votes without a P5-concurrence rule, the Charter does not use the word “veto,” and only permanent members possess the substantive veto.
+
+**Ans: *.** No single printed option is defensible. Procedural matters require nine affirmative votes; a permanent member’s concurrence is not required. Only permanent members can veto substantive decisions, and the Charter does not use the word “veto.”
+
+</details>
+
+**Q8. Ghatnachakra (source Q8)**
+
+The demand for democratisation of U.N.O. is mainly
+related to -
+A. General Assembly
+B. Economic and social council
+C. Security Council
+D. Trustiship Council
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Democratisation demands focus on Security Council composition and the privileged position of the P5.
+
+**Ans: C.** The demand for the democratisation of the UNO is mainly
+related to the Security Council. The Security Council has
+five permanent members (USA, UK, China, Russia, France)
+only. So countries like India, Brazil, South Africa etc are
+demanding the democratisation of Security Council.
+
+</details>
+
+**Q9. Ghatnachakra (source Q9)**
+
+With reference to the UN peacekeeping operations,
+consider the following statements:
+1. UN peacekeepers can use force only for their selfdefence.
+2. Peacekeeping operations can only be withdrawn
+by a resolution by the UN Security Council.
+3. USA is the largest budget contributor to the UN
+peacekeeping operations.
+Which of the statements given above is/are correct?
+A. 1 and 2 only B. 2 and 3 only
+C. 3 only D. 1, 2 and 3
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Peacekeepers may use force in self-defence and defence of the mandate. The other two statements match the source period.
+
+**Ans: B.** Statement 1 is false, the United Nations Peace-keeper can use
+force in self-defense as well as in 'Defense of the Mandates
+also. Remaining statements 2 and 3 are true. The USA is the
+largest budget contributor to the UN peacekeeping operations
+which is around 28% in the UN peacekeeping operations in
+year 2020-21.
+
+</details>
+
+**Q10. Ghatnachakra (source Q10)**
+
+With reference to the ‘‘United Nations Credentials
+Committee’’, consider the following statements:
+1. It is a committee set up by the UN Security Council
+and works under its supervision.
+2. It traditionally meets in March, June and
+September every year.
+3. It assesses the credentials of all UN members before
+submitting a report to the General Assembly for
+approval.
+Which of the statements given above is/are correct?
+A. 3 only B. 1 and 3
+C. 2 and 3 D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Credentials Committee is a nine-member General Assembly committee, normally meeting during the Assembly session; only statement 3 is correct.
+
+**Ans: A.** A United Nations Credentials Committee is appointed at the
+beginning of each regular session of the General Assembly.
+It consists of nine (9) members who are appointed by the
+General Assembly on proposal of the president. Usually the
+committee meets in November. It assesses the credentials
+of all UN members before submitting a report to General
+Assembly for approval. Thus only (3) statement is correct.
+
+</details>
+
+**Q11. Ghatnachakra (source Q11)**
+
+With reference to the United Nations General
+Assembly, consider the following statements:
+1. The UN General Assembly can grant observer
+status to the non-member States.
+2. Inter-governmental organisations can seek
+observer status in the UN General Assembly.
+3. Permanent Observers in the UN General Assembly
+can maintain missions at the UN headquarters.
+Which of the statements given above are correct?
+A. 1 and 2 only B. 2 and 3 only
+C. 1 and 3 only D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Observer status is General Assembly practice rather than a Charter category. All three listed incidents of that practice are possible.
+
+**Ans: D.** The General Assembly can grant observer status to nonmember states. Inter-governmental organisations can
+seek observer status in UN General Assembly. Permanent
+observers in UN General Assembly can maintain missions
+at the UN headquarters. The status of a permanent observer
+is based purely on practise, and there is no provision for it in
+United Nations Charter. This practise dates from 1946, when
+the Secretary-General accepted the designation of the Swiss
+Government as a permanent observer to United Nations.
+
+</details>
+
+**Q12. Ghatnachakra (source Q14)**
+
+Who is the present Secretary General of the United
+Nations Organization?
+A. Ban Ki Moon B. Antonio Guterres
+C. Kofi Annan D. Kurt Waldheim
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** António Guterres has served as UN Secretary-General since 1 January 2017.
+
+**Ans: B.** Antonio Guterres is the present Secretary-General of the
+United Nations Organisation.
+
+</details>
+
+**Q13. Ghatnachakra (source Q16)**
+
+Who among the following has been the first African
+U.N. Secretary General?
+A. Ban Ki Moon
+B. Javier Perez De Cuellar
+C. Boutros-Boutros Ghali
+D. U-Thant
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Boutros Boutros-Ghali of Egypt was the first African Secretary-General.
+
+**Ans: C.** The first African UN Secretary General was Boutros-Boutros
+Ghali. He worked as the 6th UN Secretary-General from 1
+January, 1992 to 31 December, 1996. He was an Egyption
+politician and diplomat. The second African Secretary
+General was Kofi Annan. Current Secretary General of the
+United Nations is Antonio Guterres, a Portuguese politician
+and diplomat.
+
+</details>
+
+**Q14. Ghatnachakra (source Q19)**
+
+World’s main languages are –
+(1) Chinese (2) English
+(3) Hindi (4) Spanish
+
+Which one of the given languages is not an official
+language of United Nations, choose correct answer
+using code below –
+Code:
+A. Chinese B. English
+C. Hindi D. Spanish
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hindi is not one of the six UN official languages; Chinese, English, French, Russian, Arabic and Spanish are.
+
+**Ans: C.** Hindi is not an official language of United Nations. English
+and French are used as working languages while the six
+official languages are English, French, Spanish, Arabic,
+Chinese and Russian.
+
+</details>
+
+**Q15. Ghatnachakra (source Q20)**
+
+Which are the official languages of the U.N.O.?
+A. English, French, and Russian
+B. English, French, German, and Russian
+C. English, French, Russian, Chinese and Hindi
+D. English, French, Chinese, Russian, Arabic and Spanish
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The complete six-language set is Arabic, Chinese, English, French, Russian and Spanish.
+
+**Ans: D.** The six official languages are Arabic, Chinese, English, French, Russian and Spanish; Hindi and German are not in this set.
+
+</details>
+
+**Q16. Ghatnachakra (source Q24)**
+
+Who among the following has been the first person to
+deliver his speech in Hindi at U.N.O.?
+A. Swami Vivekananda
+B. Lal Bahadur Shastri
+C. Atal Bihari Vajpayee
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Atal Bihari Vajpayee addressed the General Assembly in Hindi in 1977 while serving as External Affairs Minister.
+
+**Ans: C) SEARCH ON TG-@FREEPDFHALL.** Atal Bihari Vajpayee is the first Indian to deliver a speech
+in Hindi at the United Nations Assembly. He delivered the
+speech on 4 October, 1977 as Foreign Minister. During
+the 69th opening ceremony of the United Nations on 27th
+September, 2014, Prime Minister Narendra Modi delivered
+his speech in Hindi. By doing this, he became the second
+Prime Minister, and third Indian leader to do so. It is
+noteworthy that in the Year 1988, P.V. Narashima Rao (the
+then Foreign Minister) addressed the United Nations session
+in Hindi.
+
+</details>
+
+**Q17. Ghatnachakra (source Q25)**
+
+Which one of the following countries is not a member
+of U.N.O.?
+A. Libya B. Iraq
+C. Switzerland D. Namibia
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** This is a historical 1996 stem. Switzerland joined the UN in 2002, so all four options are members today.
+
+**Ans: *.** This was historically Switzerland when the question was asked in 1996. Switzerland joined the United Nations on 10 September 2002; today every listed country is a member.
+
+</details>
+
+**Q18. Ghatnachakra (source Q27)**
+
+The headquarters of International Court of Justice is
+situated at:
+A. Hague B. New York
+C. Geneva D. Paris
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The ICJ, a principal UN organ, sits at the Peace Palace in The Hague.
+
+**Ans: A.** The International Court of Justice was established in June,
+1945. It is headquartered in the Hague (The Netherlands).
+
+</details>
+
+**Q19. Ghatnachakra (source Q28)**
+
+Prior to Shri R. N. Pathak two Indian Judges elected
+to the International Court of Justice were -
+A. H. J. Kania and B. N. Rau
+B. J. C. Saha and A.N. Ray
+C. B. N. Rau and Nagendra Singh
+D. Nagendra Singh and A. N. Ray
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Before R.S. Pathak, B.N. Rau and Nagendra Singh had served as Indian judges of the ICJ.
+
+**Ans: C.** The Judges elected to the International Court of Justice from
+at present, Dalveer Bhandari (2012-2018). On 20 November,
+2017 Judge Dalveer Bhandari was re-elected by the United
+Nations General Assembly and United Nations Security
+Council as a member of the International Court of Justice
+for a 9-year (2018-2027) term.
+
+</details>
+
+**Q20. Ghatnachakra (source Q29)**
+
+In Which year the International Labour Organisation
+was established?
+A. 1919 B. 1920
+C. 1921 D. 1922
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The ILO was created in 1919 under the Treaty of Versailles and later became a UN specialised agency.
+
+**Ans: A.** The International Labour Organisation was established in
+1919. It was created as part of the Treaty of Versailles. It
+is a specialised agency of the U.N. and its headquarters are
+located in Geneva.
+
+</details>
+
+**Q21. Ghatnachakra (source Q30)**
+
+Consider the following statements :
+1. The United Nations Convention against Corruption
+(UNCAC) has a 'Protocol against the Smuggling of
+Migrants by Land, Sea and Air'.
+2. The UNCAC is the ever-first legally binding global
+anti-corruption instrument.
+3. A highlight of the United Nations Convention
+against Transnational Organized Crime (UNTOC) is
+the inclusion of a specific chapter aimed at returning
+assets to their rightful owners from whom they had
+been taken illicitly.
+4. The United Nations Office on Drugs and Crime
+(UNODC) is mandated by its member States to assist
+in the implementation of both UNCAC and UNTOC.
+Which of the statements given above are correct?
+A. 1 and 3 only B. 2, 3 and 4 only
+C. 2 and 4 only D. 1, 2 , 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The migrant-smuggling protocol belongs to UNTOC, while asset recovery is a UNCAC feature. Therefore only statements 2 and 4 are correct.
+
+**Ans: C) SEARCH ON TG-@FREEPDFHALL.** The protocol against the smuggling of migrants by land, sea
+and air, comes under the United Nations Convention against
+Transnational Organized Crime (UNTOC). Hence, statement
+1 is incorrect.
+The United Nations Convention against Corruption (UNCAC) is the only legally binding universal anti-corruption
+instrument. Hence, statement 2 is correct.
+Returning Assets to their rightful owners from whom they
+had been taken illicitly, is included under the United Nations
+Convention Against Corruption. Hence option 3 is incorrect.
+The United Nations Office on Drugs and Crime (UNODC) is
+mandated by its member states to assist in the implementation
+of both conventions UNCAC and UNTOC. Hence option 4
+is correct. So, the correct answer is option C..
+
+</details>
+
+**Q22. Ghatnachakra (source Q31)**
+
+"Rule of law Index" is released by which of the
+following?
+A. Amnesty International
+B. International Court of Justice
+C. The Office of UN Commissioner for Human Rights
+D. World Justice Project
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Rule of Law Index is produced by the World Justice Project, not a UN organ or Amnesty International.
+
+**Ans: D.** The World Justice Project releases 'Rule of Law Index'.
+Measuring the rule of law since 2008 the index has been at
+the forefront of creating social change through information.
+
+</details>
+
+**Q23. Ghatnachakra (source Q32)**
+
+Which one is not related to United Nations?
+A. General Assembly
+B. Amnesty International
+C. International Court of Justice
+D. Trusteeship Council
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** General Assembly, ICJ and Trusteeship Council are principal UN organs. Amnesty International is an independent non-governmental movement.
+
+**Ans: B.** The General Assembly, International Court of Justice and
+the Trusteeship Council are three of the six principal organs
+of United Nations, but Amnesty International is not related
+to UN. It is a non-governmental organization with over 7
+million members focused on Human Rights and defending
+those who are denied justice or freedom.
+
+</details>
+
+**Q24. Ghatnachakra (source Q33)**
+
+Amnesty International is –
+A. An agency of the United Nations to help refugees of
+civil wars.
+B. A Global Human Rights Movement.
+C. A non-governmental voluntary organization to help
+extremely poor people.
+D. An inter-governmental agency to cater to medical
+emergencies in war-ravaged regions.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Amnesty International is a global human-rights movement, not a UN agency or an intergovernmental body.
+
+**Ans: B.** Amnesty International is a global movement of more than
+7 million people in over 150 countries and territories who
+campaign to end abuses of Human Rights. It was founded
+in 1961 by British lawyer Peter Benenson. Its headquarters
+are in London.
+
+</details>
+
+**Q25. Ghatnachakra (source Q35)**
+
+‘Doctors Without Borders (Medecins Sans Frontieres),’
+often in the news, is
+A. A division of World Health Organization
+B. A non-governmental international organization
+C. An inter-governmental agency sponsored by the
+European Union
+D. A specialized agency of the United Nations
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Médecins Sans Frontières is an independent international humanitarian NGO, not a WHO division or UN specialised agency.
+
+**Ans: B.** Doctors without Borders (Medecins Sans Frontieres) is an
+international humanitarian-aid non-governmental organization.
+It was founded in France. In 2015, over 30,000 local doctors,
+nurses, medical practitioners, etc. provided medical aid in over
+70 countries. In 1999, it won the Noble Peace Prize.
+
+</details>
+
+**Q26. Ghatnachakra (source Q43)**
+
+‘Pivot to Asia’ is the strategy of the foreign policy of
+A. India B. Japan
+C. China D. U.S.A.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** “Pivot to Asia” identifies the United States’ strategic reorientation toward the Asia-Pacific.
+
+**Ans: D.** Pivot to Asia’ is the strategy of the foreign policy of the
+United States of America (U.S.A.).
+
+</details>
+
+**Q27. Ghatnachakra (source Q58)**
+
+Consider the following statements –
+1. The Commonwealth has no charter, treaty or
+constitution.
+2. All the territories/countries once under the British
+Empire (jurisdiction/rule/mandate) automatically
+joined the Commonwealth as its members.
+Which of the statements given above is/are correct?
+A. 1 only B. 2 only
+C. Both 1 and 2 D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The question dates from 2010. The Commonwealth later adopted the Commonwealth Charter in 2013; membership has never been automatic for former British territories.
+
+**Ans: A.** Historically, only statement 1 matched the position used in the 2010 source. Today statement 1 is also outdated because the Commonwealth Charter was adopted in 2013. Statement 2 remains false because membership is voluntary, not automatic.
+
+</details>
+
+**Q28. Ghatnachakra (source Q59)**
+
+'It is an agreement by free will to be terminated by free
+will.'
+The above statement of Pt. Nehru refers to which of
+the following?
+A. India's Association with the Commonwealth of
+Nations
+B. Treaty of Panchsheel
+C. Shimla Agreement
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nehru used the phrase for India’s voluntary association with the Commonwealth.
+
+**Ans: A.** The above statement of Pt. Nehru refers to India's Association
+with the Commonwealth of Nations.
+
+</details>
+
+**Q29. Ghatnachakra (source Q60)**
+
+The first Indian Prime Minister who visited Afghanistan
+was –
+A. Jawaharlal Nehru B. I.K. Gujaral
+C. A. B. Vajpai D. Man Mohan Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Jawaharlal Nehru became the first Indian Prime Minister to visit Afghanistan, in 1959.
+
+**Ans: A.** The first Indian Prime Minister who visited Afghanistan was
+Pandit Jawaharlal Nehru, in September, 1959, thereafter
+Indira Gandhi visited the country in 1976. Prime Minister
+Narendra Modi visited Afghanistan on June 4, 2016.
+
+</details>
+
+**Q30. Ghatnachakra (source Q61)**
+
+The Indian Foreign Policy of Non-Alignment was
+initiated by –
+A. Jawaharlal Nehru
+B. Mrs. Indira Gandhi
+C. Lal Bahadur Shastri
+D. Morarji Desai
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Nehru articulated India’s non-alignment: independent judgment without joining a Cold War military bloc.
+
+**Ans: A.** After taking over as interim Prime Minister, Jawaharlal Nehru
+announced a foreign policy based on non-alignment which
+means ‘to stay away from international power groups and to
+develop an independent policy.’
+
+</details>
+
+**Q31. Ghatnachakra (source Q62)**
+
+Which one of the following is not a principle of “Panchsheel”?
+A. Non-alignment
+B. Peaceful Co-existence
+C. Mutual respect for each other’s territorial integrity
+and sovereignty
+D. Mutual non-interference in each other’s internal affairs
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Non-alignment is a wider foreign-policy approach, not one of Panchsheel’s five enumerated principles.
+
+**Ans: A.** The Meaning of ‘’Panchsheel’’ is the five rules of behaviour
+or conduct as given below.
+(i) Mutual respect for the geo-regional integrity and
+sovereignty of each other,
+(ii) Mutual non-aggression.
+(iii)Non-interference in the internal matters of each other.
+(iv)Mutual benefits and equality.
+(v) Peaceful co-existence.
+Non-alignment is not a principle of Panchsheel but the
+policy of non-alignment itself is based on the principles of
+Panchsheel.
+
+</details>
+
+**Q32. Ghatnachakra (source Q63)**
+
+Who was the Prime Minister of India when the basic
+principle of India's Nuclear Doctrine of 'No First Use'
+was adopted?
+A. I.K. Gujaral
+B. Atal Bihari Vajpayee
+
+C. Manmohan Singh
+D. Indira Gandhi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India formally adopted its nuclear doctrine, including No First Use, in 2003 under Prime Minister Atal Bihari Vajpayee.
+
+**Ans: B.** Atal Bihari Vajpayee was the Prime Minister of India when
+the basic principle of India's Nuclear Doctrine of No First
+Use was adopted. After the 1998 nuclear test, India also
+enunciated a doctrine of 'No First Use' of Nuclear Weapons.
+The doctrine was formally adopted in January, 2003.
+
+</details>
+
+**Q33. Ghatnachakra (source Q64)**
+
+The Six Points Formula proposal of India for South
+Asian Region was presented by which Prime Minister
+of India?
+A. Manmohan Singh
+B. Atal Bihari Vajpayee
+C. Narendra Modi
+D. Inder Kumar Gujral
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The six-point proposal for South Asia in the source was associated with Prime Minister Atal Bihari Vajpayee.
+
+**Ans: B.** The Six Points Formula proposal of India for South Asian
+Region was presented by Prime Minister Atal Bihari
+Vajpayee.
+
+</details>
+
+**Q34. Ghatnachakra (source Q65)**
+
+Which country has recently reaffirmed Arunachal
+Pradesh as an integral part of India?
+A. USA B. Australia
+C. Germany D. Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 2023–24 statements cited in the question came from the United States; the date is essential because diplomatic positions can change.
+
+**Ans: A.** In July, 2023, the USA reiterated its opinion in this regard,
+that the Arunachal Pradesh is an integral part of India.
+Again, in March, 2024 the foreign ministry of US affirmed
+the Arunachal Pradesh as an Indian Region or part and
+contradicted the claim of China.
+
+</details>
+
+**Q35. Ghatnachakra (source Q93)**
+
+Which is the correct chronological order of the
+following?
+1. Shimla Agreement
+2. Indo-Soviet Treaty
+3. Farakka Accord
+4. Tashkent Agreement
+Select the correct answer using the code given below:
+Code:
+A. 4, 2, 1, 3 B. 3, 2, 1, 4
+C. 2, 3, 4, 1 D. 1, 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arrange by year: Tashkent 1966, Indo-Soviet Treaty 1971, Shimla 1972 and Farakka 1977.
+
+**Ans: A.** The Shimla Agreement on 2 July, 1972 was signed
+between India and Pakistan. The Indo-Soviet Treaty is a
+pact for friendship and cooperation between India and the
+Soviet Union on signed on August 9, 1971. The Farakka
+Accord between India and Bangladesh was signed in 1977
+temporarily and finally on 12thDecember, 1996 and the
+Tashkent Agreement with Pakistan was signed on 10th January,
+1966. Therefore, chronologically option A. is correct.
+
+</details>
+
+**Q36. Ghatnachakra (source Q94)**
+
+Bangladesh was created as a result of Indo-Pak
+hostilities in -
+A. December, 1971 B. January, 1972
+C. February, 1972 D. November, 1971
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pakistan’s eastern command surrendered on 16 December 1971, completing Bangladesh’s liberation.
+
+**Ans: A.** On 3 December, 1971 India intervened on behalf of
+Bangladeshi refugees who migrated to the Indian side due
+to oppressive measures adopted in East Pakistan to suppress
+protest marches following Sheikh Mujibur Rahman’s arrest
+in western Pakistan. On 16 December, 1971 Pakistani Army
+unconditionally surrendered, and therefore Eastern Pakistan
+became a free Nation named as Bangladesh, and Sheikh
+Mujibur Rahman became its first Prime Minister.
+
+</details>
+
+**Q37. Ghatnachakra (source Q97)**
+
+'Djibouti' Code of Conduct is related to:
+A. Conservation of Congo basin
+B. International Maritime grouping against piracy
+C. Charter of ethics
+D. Principles for conducting nuclear test
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 2009 Djibouti Code concerns repression of piracy and armed robbery in the western Indian Ocean and Gulf of Aden.
+
+**Ans: B) SEARCH ON TG-@FREEPDFHALL.** Djibouti Code of Conduct is related to the International
+Maritime Group against Piracy. It is also known as the code
+of conduct concerning the repression of Piracy and Armed
+Robbery against ships in the Western Indian Ocean and the
+Gulf of Aden. It was adopted on 29th January, 2009.
+
+</details>
+
+**Q38. Ghatnachakra (source Q124)**
+
+'Prawasi Bharatiya Diwas' (PBD) or NRI Day is
+celebrated in India every year on which date?
+A. January 19 B. January 9
+C. January 11 D. January 12
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pravasi Bharatiya Divas is observed on 9 January, marking Gandhi’s return from South Africa in 1915.
+
+**Ans: B.** 9 January commemorates the return of Mahatma Gandhi from
+South Africa to India in 1915. To mark this day, the tradition
+of celebrating Prawasi Bhartiya Divas (PBD) (NRI Day)
+started in 2003. The First PBD Convention was organised
+on 9 January 2003 to mark the contribution of the overseas
+been organised once every 2 years.
+17th PBD convention 2023 had the theme "Diaspora :
+Reliable Partners of India’s Progress in Amrit kaal". 18th PBD
+convention was organised from 8-10 January 2025 with the
+theme - “Diaspora’s Contribution to a Viksit Bharat".
+
+</details>
+
+**Q39. Ghatnachakra (source Q125)**
+
+The Pravasi Bhartiya Divas (PBD) is organized in
+India to connect with a large number of Pravasis. This
+Convention began in the year –
+A. 1991 B. 2001
+C. 2003 D. 2013
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The convention began in 2003 and has followed a biennial format since 2015.
+
+**Ans: C.** The former Prime Minister Atal Bihari Vajpayee on 8 January,
+2002 on the basis of the report of the Lakshmimal Singhvi
+Committee, declared that ‘Pravasi Bhartiya Divas’ would
+be celebrated on January 9, to commemorate the return of
+Mahatma Gandhi from South Africa. This convention is
+organized every year in India form 2003 to 2015 and after
+2015 it became a biennale. Pravasi Bhartiya Diwas was
+organised at Indore in the year 2023.
+
+</details>
+
+**Q40. Ghatnachakra (source Q126)**
+
+Who of the following is the author of the books 'The
+India Way' and 'Why Bharat Matters'?
+A. Bhupender Yadav
+B. Nalin Mehta
+C. Shashi Tharoor
+D. Subrahmanyam Jaishankar
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both books are by External Affairs Minister S. Jaishankar.
+
+**Ans: D.** Subrahmanyam Jaishankar, better known as S. Jaishankar, is
+an Indian diplomat, politician and author, who is currently
+serving as Minister of External Affairs of the Government
+of India. 'The India Way: Strategies for an Uncertain World'
+(2020) and 'Why Bharat Matters' (2024) are books authored
+by S. Jaishankar.
+
+</details>
+
+**Q41. Ghatnachakra (source Q130)**
+
+Consider the following pairs:
+Country Reason for being in the news
+1. Argentina Worst economic crisis
+2. Sudan War between the country's
+regular army and paramilitary
+forces
+3. Turkey Rescinded its membership of
+NATO
+How many of the pairs given above are correctly
+matched?
+A. Only one pair
+B. Only two pairs
+C. All three pairs
+D. None of the pairs
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Argentina’s crisis and Sudan’s army–paramilitary war were correctly paired; Türkiye remained a NATO member.
+
+**Ans: B.** With one of the world's highest inflation rates and after more
+than a decade of economic stagnation and rising poverty,
+Argentina once again finds itself teetering on the brink of
+economic collapse. The urgent need for a plan to stabilise
+the economy has entrusted the newly elected President Javier
+Milei (Assumed office on 10 December, 2023) with a clear
+mandate: eradicate inflation and reignite economic growth.
+The deep-rooted cause of Argentina's economic distress and
+chronic inflation is persistent public overspending financed
+by money creation. Hence, pair 1 is correctly matched.
+A civil war between two major rival factions of the military
+government of Sudan, the Sudanese Armed Forces (SAF)
+under Abdel Fattah al-Burhan and the paramilitary Rapid
+Support Forces (RSF) and its allies (collectively the
+Janjaweed coalition) under the Janjaweed leader Mohamed
+Hamdan Dagalo 'Hemedti', began during Ramadan on 15
+April, 2023. The conflict has caused widespread devastation,
+with thousands of civilians killed and millions displaced.
+
+</details>
+
+**Q42. Ghatnachakra (source Q133)**
+
+Consider the following countries:
+1. Denmark
+2. Japan
+3. Russian Federation
+4. United Kingdom
+5. United States of America
+Which of the above are the members of the ‘Arctic
+Council’?
+A. 1, 2 and 3
+B. 2, 3 and 4
+C. 1, 4 and 5
+D. 1, 3 and 5
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Of the listed States, Denmark, Russia and the United States are Arctic Council members; Japan and the United Kingdom are observers.
+
+**Ans: D.** The Arctic Council was established by Ottawa Declaration
+in 1996. The Arctic Council is the pre-eminent intergovernmental forum for addressing issues related to the
+Arctic Region. The members of the Arctic Council include
+eight countries, Canada, Denmark, Finland, Iceland, Norway,
+Sweden, the Russian Federation, and the United States.
+The Council provides a means for promoting cooperation,
+coordination and interaction among the Arctic States, with the
+involvement of the Arctic indigenous communities and other
+Arctic inhabitants on common Arctic issues, in particular
+issues of sustainable development and environmental
+protection in the Arctic. India and Japan are also included in
+12 permanent supervisors of this Council. The chairmanship
+of this council changes every two years. Iceland was the
+chairman of the council from 2019 to 2021. The Kingdom of
+Denmark, assumed the 2-year chairship of the Arctic Council
+from 2025 to 2027.
+
+</details>
+
+**Q43. Ghatnachakra (source Q134)**
+
+Which of the following was not included in India- Sri
+Lanka Accord -
+A. Formation of a new State by merging eastern and
+northern provinces
+B. Establishment of North East Council
+C. Complete Freedom
+D. Integrity of Sri Lanka
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 1987 accord protected Sri Lanka’s unity and provided provincial arrangements; it did not promise complete Tamil independence.
+
+**Ans: C.** Maintenance of the integrity of Sri Lanka was a part of the
+India-Sri Lanka Accord, 1987. Complete freedom for the
+Tamil-State was not mentioned in the accord.
+
+</details>
+
+**Q44. Ghatnachakra (source Q136)**
+
+Which among the following European Union countries
+is the first to officially recognize the State of Palestine?
+A. Sweden
+B. Denmark
+C. Norway
+D. Italy
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sweden became the first European Union member to recognise Palestine, in 2014.
+
+**Ans: A.** Sweden is the first European Union country to officially
+recognise the State of Palestine in October, 2014. On 30
+September, 2015, the Palestinian Flag was raised outside the
+UN Headquarters for the first time.
+
+</details>
+
+**Q45. Ghatnachakra (source Q139)**
+
+International Day of Non-violence is observed on:
+A. 10th December
+B. 30th January
+C. 2nd October
+D. 23rdMarch
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The UN observes 2 October, Gandhi’s birth anniversary, as the International Day of Non-Violence.
+
+**Ans: C.** The International Day of Non-violence is observed on 2nd
+October, the birthday of Mahatma Gandhi, leader of the Indian
+Independence Movement and pioneer of the philosophy and
+strategy of non-violence. By a resolution on 15 June, 2007 the
+United Nations General Assembly determined to celebrate 2nd
+October as the International Day of Non-Violence.
+
+</details>
 
 ---
 

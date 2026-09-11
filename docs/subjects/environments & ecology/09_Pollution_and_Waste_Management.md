@@ -196,6 +196,17 @@ D. Only 1
 - **Damodar** is called a **biological desert** along the Giridih–Durgapur industrial/mining stretch.
 - **Leather industry** effluents rank among the worst chemical polluters of water and soil.
 - Disease locks: **arsenic** → Black Foot / cancers (WHO limit **0.01 mg/L**); **fluoride** → fluorosis / **knock-knee**; **mercury** → Minamata; **cadmium** → Itai-itai.
+- **Occupational Lung Diseases / Pneumoconiosis (High-Yield UPPCS Match):**
+
+| Disease | Causative Pollutant / Dust | Industry / Occupational Source | Key Exam Feature / Nickname |
+|---------|---------------------------|--------------------------------|-----------------------------|
+| **Silicosis** | Free silica ($SiO_2$) dust | Stone crushing, quarrying, mining, glass factories | Progressive lung fibrosis; Rajasthan first state to frame Silicosis Policy (2019) |
+| **Asbestosis** | Asbestos fibers | Roofing sheets, pipe insulation, shipbuilding | Leads to pulmonary fibrosis and **Mesothelioma** (cancer of pleural lining) |
+| **Anthracosis** | Coal dust | Coal mining (Jharia, Raniganj, Singrauli) | **Black Lung Disease** / Coal Workers' Pneumoconiosis |
+| **Byssinosis** | Cotton fiber dust | Textile mills, ginning factories | **Brown Lung Disease**; called **"Monday Fever"** (symptoms peak after weekend return) |
+| **Bagassosis** | Sugarcane bagasse dust | Sugar mills, paper & cardboard manufacturing | Fungal spores (*Thermoactinomyces*) on decomposing crushed sugarcane stalk |
+| **Siderosis** | Iron / iron oxide dust | Iron foundries, arc welding, iron ore mining | Iron dust accumulation in lung parenchyma |
+| **Farmer's Lung** | Moldy hay / straw dust | Agriculture, silos, threshing | Hypersensitivity reaction to thermophilic actinomycetes |
 - Arsenic groundwater hotspots: Ganga–Brahmaputra plains and Bangladesh’s Padma–Meghna; Indian states include **West Bengal** (first reported **1978**), Bihar, UP, Jharkhand, Assam, Manipur, and Chhattisgarh.
 - **Kanpur's tanneries** discharge **chromium** into the Ganga as a major UP point source.
 - The **Gomti** through **Lucknow** has been flagged among India’s most polluted stretches. The **Yamuna** is heavily polluted in the Mathura–Agra–Delhi stretch.

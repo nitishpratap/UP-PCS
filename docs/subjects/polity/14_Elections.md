@@ -12,7 +12,7 @@
 
 > **Sources baked in:** Laxmikanth (Elections), Arts. 324–329, 81–82, 170, 325–326, 330–334, RPA 1950/1951, Symbols Order 1968, 10th Schedule, 61st/84th/87th/104th/106th, UPPCS PYQs 2018–2025
 > **Weight:** ★★★ — ECI **not** Speaker/ULB (2024); **61st** age 18 (2021); Voters’ Day **25 Jan** (2025); EVM→EPIC→VVPAT→NOTA (2025); 10th Schedule = defection (2025); 7th LS ≠ 1982
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Election Commission)
 > **Current Affairs:** CEC Act **2023**; **106th** women reservation after delimitation; electoral bonds **struck down 2024**; Kovind panel on simultaneous polls **2023–24**
 
 ---
@@ -100,6 +100,10 @@ The **poll**: who votes, how seats are drawn, which system, parties, devices, pe
 ## Election Commission — as poll machinery
 
 **How India votes** — ECI under Art. **324** superintends LS, State Assemblies, **President, VP**; the body-card (CEC removal, 2023 panel) lives in Topic 12.
+
+- The ECI briefly became multi-member on **16 October 1989**; the durable three-member arrangement began on **1 October 1993**.
+- The home postal-ballot facility for senior citizens now begins at **85 years**, after the March 2024 rule change.
+- Under Articles **103** and **192**, the President or Governor must obtain and act on the ECI's opinion in the specified post-election disqualification cases.
 
 **Does:**
 
@@ -771,6 +775,1151 @@ D. Anti-Defection — Tenth Schedule
 <summary>Show answer</summary>
 
 **Ans: C** — RS seats = **Fourth** Schedule. Tenth **is** correctly matched.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Election Commission
+
+> Art. 324 · tenure and removal · franchise · MCC · delimitation · EVM/VVPAT/NOTA · postal ballot · simultaneous polls
+
+**Q1. UPPCS / MPPCS (Mains) 2017**
+
+The Constitution of India provides for an Election Commission under Article –
+
+A. 321
+B. 322
+C. 323
+D. 324
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 324 vests the superintendence, direction and control of the specified national and State elections in the Election Commission of India.
+
+**Ans: D. 324. The Constitution of India provides for an Election Commission under Article 324 for the superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament, State Legislatures, President and Vice- President.**
+
+</details>
+
+**Q2. BPSC (Pre) 2020**
+
+Which Article in the Indian Constitution is related with the establishment of the Election Commission of India?
+
+A. Article 324
+B. Article 148
+C. Article 342
+D. Article 325
+E. None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 324 establishes the Election Commission; Articles 148 and 342 concern the CAG and Scheduled Tribes.
+
+**Ans: A. Article 324. Article 324 establishes the Election Commission; Articles 148 and 342 concern the CAG and Scheduled Tribes.**
+
+</details>
+
+**Q3. UKPCS (Pre) 2007**
+
+The Chief Election Commissioner of India is appointed by –
+
+A. Lok Sabha
+B. Prime Minister
+C. President
+D. Chief Justice
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 324(2) provides for appointment of the Chief Election Commissioner and other Election Commissioners by the President, subject to parliamentary law.
+
+**Ans: C. President. According to Article 324(2), the Chief Election Commissioner and other Election Commissioners of India are appointed by the President under the law made by the Parliament.**
+
+</details>
+
+**Q4. MPPCS (Pre) 2024**
+
+Which one of the following statements is not correct?
+
+A. In case of differences of opinion amongst the Chief Election Commissioner and other Election Commissioners, the matter is decided by the Law Commission.
+B. The Election Commissioners cannot be removed from their office except on the the recommendation of the Chief Election Commissioner.
+C. The Chief Election Commissioner and other Election Commissioners enjoy equal powers.
+D. The term of office of Election Commissioners is six years from the date they assume office or till the day they attain the age of 65 years, whichever is earlier.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In a multi-member Commission, decisions are taken by majority because the members have equal powers; the Law Commission does not decide their internal differences.
+
+**Ans: A. In case of differences of opinion amongst the Chief Election Commissioner and other Election Commissioners, the matter is decided by the Law Commission.. At present, there is one Chief Election Commissioner and two other Election Commissioners in the Election Commission of India. All of them have equal powers, and their salary, wages and other benefits are also equal, which are equivalent to the Judges of the Supreme Court of India. The tenure of all Election Commissioners (including the Chief) is 6 years or 65 years of age, whichever is earlier, from the date of their appointment. According to the provisos of the clause (5) of the Article 324, the Chief Election Commissioner shall not be removed from his office except in like manner and on the like grounds as a Judge of the Supreme Court and any other Election Commissioner or a Regional Commissioner shall not be removed from his office except on the recommendation of the Chief Election Commissioner. In the 3-member election commission, although the Chief Election Commissioner acts as the Head, nevertheless due to the powers of all election commissioners being equal, all the issues are decided by the decision of the majority. Hence, statement of option (a) is not correct.**
+
+</details>
+
+**Q5. RPSC (Pre) 2024**
+
+Identify the correct statement regarding the Election Commission of India.
+
+A. Election Commission of India is a permanent Constitutional Body and it was established in accordance with the Constitution on 25th January 1952.
+B. The concept of multi-member Commission has been in operation since 1995 with decision making power by majority vote.
+C. Under the Constitution, the Commission also has advisory jurisdiction in the matter of post election disqualification of sitting members of Parliament and State Legislatures.
+D. The President appoints Chief Election Commissioner and Election Commissioners and they have tenure of five years, or up to the age of 60 years, whichever is earlier.
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Articles 103 and 192 require the President or Governor to obtain and act on the Election Commission's opinion on post-election disqualification of MPs or State legislators.
+
+**Ans: C. Under the Constitution, the Commission also has advisory jurisdiction in the matter of post election disqualification of sitting members of Parliament and State Legislatures.. The Election Commission of India is a permanent Constitutional Body and it was established in accordance with the Constitution on 25th January, 1950. Therefore option (a) has an incorrect statement. Statement (b) is also incorrect as, two additional Election Commissioners were appointed on 1st October, 1993. The Statement (d) is also incorrect as, the President appoints Chief Election Commissioner and Election Commissioners, but they have tenure of Six years, or up to the age of 65 years, whichever is earlier. Under Article 103 (for members of Parliament) and Article 192 (for members of State Legislatures) the Election Commission of India has advisory jurisdiction in the matter of post-election disqualification of sitting members. Therefore, option (c) is the correct answer.**
+
+</details>
+
+**Q6. UPSC (Pre) 2002**
+
+Consider the following statements with reference to India: 1. The Chief Election Commissioner and other Election Commissioners enjoy equal powers but receive unequal salaries. 2. The Chief Election Commissioner is entitled to the same salary as is provided to a Judge of the Supreme Court. 3. The Chief Election Commissioner shall not be removed from his office except in like manner and on like grounds as a Judge of the Supreme Court. 4. The term of office of the Election Commissioner is five years from the date he assumes his office or till the day he attains the age of 62 years, whichever is earlier. Which of these statements are correct?
+
+A. 1 and 2
+B. 2 and 3
+C. 1 and 4
+D. 2and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The members have equal powers and salary; the stated tenure is six years or age 65, and the CEC has the removal protection of a Supreme Court judge.
+
+**Ans: B. 2 and 3. The powers, salaries and allowances of the Chief Election Commissioner and other Election Commissioners are equal; they are entitled to the same salary as is provided to a Judge of the Supreme Court. The term of the Chief Election Commissioner and other Election Commissioners is 6 years or upto the age of 65 years (whichever is earlier) and the Chief Election Commissioner may be removed in the same manner as provided for the Judges of the Supreme Court. Thus, statements 2 and 3 are correct.**
+
+</details>
+
+**Q7. MPPCS (Pre) 2021**
+
+Consider the following statements: (i) The Chief Election Commissioner of the Election Commission of India is paid a salary equal to the salary of the Judge of the Supreme Court. (ii) The term of Chief Election Commissioner of India shall be for a period of 6 years from the date of assuming office or till the age of 65 years whichever comes first. (iii)An Election Commissioner may at any time by writing under his hand addressed to the Chief Election Commissioner, resign his office. Which statements are correct?
+
+A. (i) and (iii)
+B. (i) and (ii)
+C. (i), (ii) and (iii)
+D. (iii) only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The first two statements state the tenure and salary rules correctly. An Election Commissioner resigns by writing to the President, not to the CEC.
+
+**Ans: B. (i) and (ii). The Chief Election Commissioner of the Election Commission of India is paid a salary equal to that of a Judge of the Supreme Court. The term of Chief Election Commissioner of India shall be for a period of 6 years from the date of assuming office or till the age of 65 years, whichever comes first. Chief Election Commissioner or Election Commissioners may at any time by writing under their hand addressed to the President, resign from their office.**
+
+</details>
+
+**Q8. MPPCS (Pre) 2020**
+
+Consider the following statements: (i) The Chief Election Commissioner of the Election Commission of India is paid the salary equal to the salary of the Judge of the Supreme Court. (ii) The term of Chief Election Commissioner of the Election Commission of India shall be for a period of 6 years from the date of assuming office or till the age of 65 years, whichever comes first. (iii)An Election Commissioner may, at anytime, by writing under his hand addressed to the Chief Election Commissioner, resign his office. Choose the correct statement.
+
+A. (i) and (ii)
+B. (ii) and (iii)
+C. (i) and (iii)
+D. (iii) only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** An Election Commissioner addresses a resignation to the President; therefore only statements (i) and (ii) are correct.
+
+**Ans: A. (i) and (ii). An Election Commissioner addresses a resignation to the President; therefore only statements (i) and (ii) are correct.**
+
+</details>
+
+**Q9. UKPCS / UPPCS (Pre) 2012**
+
+What is the tenure of the Chief Election Commissioner of India?
+
+A. Five Years
+B. During the pleasure of the President
+C. Six years or till the age of 65 years whichever is earlier
+D. Five years or till the age of 65 years whichever is earlier
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The stated tenure is six years or until age 65, whichever occurs first.
+
+**Ans: C. Six years or till the age of 65 years whichever is earlier. The stated tenure is six years or until age 65, whichever occurs first.**
+
+</details>
+
+**Q10. UPPCS (Mains) 2016**
+
+The status of the Chief Election Commissioner of India is equal to the –
+
+A. Chief Justice of India
+B. Governor of a State
+C. Speaker of Lok Sabha
+D. Speaker of Legislative Assembly of a State
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** None of the listed offices shared the CEC's stated place in the order of precedence; equality of salary with a Supreme Court judge is a service-condition fact, not equivalence to the Chief Justice.
+
+**Ans: No listed option is correct. The printed order-of-precedence comparison does not equate the CEC with any listed office.**
+
+</details>
+
+**Q11. UPPCS (Pre) 2006**
+
+Given below are two statements: Assertion (A) : Powers for conducting elections to the Parliament and State Legislatures in a free and fair manner have been given to an independent body i.e. the Election Commission. Reason (R) : Power of removal of Election Commissioners is with the executive. In the context of above, which one of the following is correct? Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+C. (A) is true but, (R) is false.
+D. (A) is false but, (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Assertion is true under Article 324. Reason is true for the other Election Commissioners, who may be removed by the President on the CEC's recommendation, but it does not explain the Commission's independence.
+
+**Ans: B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).. Article 324 of the Constitution provides superintendence, direction, and control of the Parliament and State Legislature elections to be vested in an Election Commission. Thus assertion (A) is correct. The Chief Election Commissioner can be removed from his post in like manner and on the like grounds as provided for the removal of Judges from the Supreme Court. The other members can be removed by the President in consultation with the Chief Election Commissioner. Thus, reason (R) is also correct, but reason (R) is not the correct explanation of (A).**
+
+</details>
+
+**Q12. UPPCS (Mains) 1991**
+
+The Chief Election Commissioner can be removed from office by –
+
+A. Both Houses of Parliament by two-thirds majority in each House.
+B. The same procedure which applies in case of removal of Supreme Court Judges.
+C. The President of India in consultation with the Chief Justice of India.
+D. The President on the advice of the Council of Ministers.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 324(5) protects the CEC through the same manner and grounds of removal as a Supreme Court judge.
+
+**Ans: B. The same procedure which applies in case of removal of Supreme Court Judges.. Article 324(5) protects the CEC through the same manner and grounds of removal as a Supreme Court judge.**
+
+</details>
+
+**Q13. UPPCS (Pre) 2014**
+
+The Election Commissioner can be removed by the
+
+A. Chief Election Commissioner
+B. Prime Minister
+C. President on the recommendation of the Chief Election Commissioner
+D. Chief Justice of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** An Election Commissioner or Regional Commissioner may be removed by the President only on the recommendation of the CEC.
+
+**Ans: C. President on the recommendation of the Chief Election Commissioner. The Election Commissioners shall not be removed except on the recommendation of the Chief Election Commissioner to the President.**
+
+</details>
+
+**Q14. UPPCS (Pre) 2001**
+
+The functions of Election Commission of India are- (I) To conduct all the elections of the Parliament and State Legislative Assembly. (II) To conduct elections for the post of President and Vice-President. (III) To recommend for President’s Rule in case of any State not in condition to hold or conduct free and fair elections in any State. (IV) To Supervise, direct and control the work of preparing electoral lists. Code :
+
+A. I, II, III
+B. I, II and IV
+C. I, III, IV
+D. all of them
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 324 covers parliamentary, State legislative, presidential and vice-presidential polls and electoral rolls. It does not empower the Commission to recommend President's Rule merely because a fair poll cannot be held.
+
+**Ans: B. I, II and IV. According to Article 324 (1), the superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament and the Legislature of every State and elections to the offices of President and Vice-President held under this Constitution shall be vested in an Election Commission. Note- The Election Commission does not recommend the President’s Rule in case any State is not in a condition to conduct free and fair elections.**
+
+</details>
+
+**Q15. UPPCS (Mains) 2009**
+
+Which one of the following functions is not related to the Election Commission?
+
+A. Direction and control of the preparation of the electoral rolls.
+B. Conduct of all elections to the Parliament and Legislatures of every State.
+C. To conducts the election of the Offices of President and Vice-president.
+D. To make provision with respect to elections to Legislatures.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Making election law belongs principally to Parliament under Article 327, whereas Article 324 assigns poll superintendence and conduct to the Commission.
+
+**Ans: D. To make provision with respect to elections to Legislatures.. Making election law belongs principally to Parliament under Article 327, whereas Article 324 assigns poll superintendence and conduct to the Commission.**
+
+</details>
+
+**Q16. UKPCS (Mains) 2007**
+
+Which of the following elections is not conducted by the Election Commission?
+
+A. Lok Sabha
+B. Rajya Sabha
+C. President’s election
+D. Local bodies
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Local-body elections are conducted by State Election Commissions under Articles 243K and 243ZA, not by the Election Commission of India.
+
+**Ans: D. Local bodies. Article 324 of the Constitution provides superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, the Parliament and every State Legislature President and Vice-President elections to be vested in an Election Commission. Under Articles 243 K and 243 ZA, the elections of Panchayats and municipalities are conducted by State Election Commission.**
+
+</details>
+
+**Q17. UPPCS (Pre) 2024**
+
+Which of the following are the functions of the Election Commissioner of India? 1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha. 2. Conduct of elections of the Municipal Corporations and Municipalities. 3. Deciding on all doubts and disputes arising out of the above elections. Select the correct answer from the codes given below :
+
+A. 2 and 3
+B. 1 and 2
+C. 1 and 3
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Houses elect their own presiding officers, State Election Commissions conduct municipal polls, and courts resolve election disputes. None of the three is an ECI function.
+
+**Ans: D. None of the above. Under Article 324, The Superintendence, direction and Control of the preparation of electoral rolls and of the conduct of all elections to the Parliament and to the legislature of every State and of elections to the offices of President and Vice-President, is done by the Election Commission of India. The Vice-President is the ex-officio chairman of the Rajya Sabha. The elections of Speaker and deputy Speaker of Lok Sabha and the deputy Chairman, of Rajya Sabha are performed by the members of the respective Houses from amongst the members. The elections for Municipalities and Municipal Corporations are done under Article 243ZA by the State Election Commission (as mentioned under Article 243K) of the respective states. All disputes and doubts arising out of the elections are resolved by the Judiciary.**
+
+</details>
+
+**Q18. UPSC (Pre) 1994**
+
+Which of the following are the functions of the Election Commission of India? (1) To conduct elections for the post of Speaker and Deputy-speaker of Lok Sabha and the Chairperson of Rajya Sabha. (2) To conduct elections for the municipality and municipal corporations. (3) To make a decision on all the doubts and disputes arising from the election. Select the correct answer from the code given below:-
+
+A. 1 and 2
+B. 1 and 3
+C. 2 and 3
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The listed House-officer and municipal elections are outside ECI control, while election disputes go to the judiciary; none of the statements describes an ECI function.
+
+**Ans: D. None of the above. The listed House-officer and municipal elections are outside ECI control, while election disputes go to the judiciary; none of the statements describes an ECI function.**
+
+</details>
+
+**Q19. UPSC (Pre) 2017**
+
+Consider the following statements: 1. The Election Commission of India is a five-member body. 2. Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections. 3. Election Commission resolves the disputes relating to splits/mergers of recognised political parties. Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 only
+C. 2 and 3 only
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The ECI is ordinarily a three-member body and fixes poll schedules; it also determines recognised-party split and symbol disputes under the Symbols Order.
+
+**Ans: D. 3 only. Articles 324 to 329 under Part XV of the Indian Constitution deal with elections. Article 324 of the Constitution provides that the power of superintendence, direction and control of elections to Parliament, state Legislatures, the office of President of India and the office of Vice-President of India shall be vested in the Election Commission. The Election Commission of India is a three-member body comprising a Chief Election Commissioner and two Election Commissioners. The Election Commission of India decides the schedule for the conduct of general elections and bye-elections. Besides this, The Election Commission also resolves the disputes relating to splits/mergers of recognised political parties.**
+
+</details>
+
+**Q20. UPPCS (Pre) 1992**
+
+Which of the following is not related to Election Commission?
+
+A. To issue notification of election
+B. To distribute election symbols
+C. To settle the validity of elections.
+D. To conduct elections peacefully.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The formal election notification is issued by the President or Governor, not by the ECI. The phrase about settling election validity is also overbroad because election disputes are judicial.
+
+**Ans: A. Issuing the formal election notification is not an ECI function; the President or Governor issues it. Option C is also imprecise because courts, not the ECI, adjudicate election validity.**
+
+</details>
+
+**Q21. UPSC (Pre) 1995**
+
+Which one of the following is correct in respect of the commencement of the election process in India?
+
+A. The recommendation for election is made by the Government, and the notification for election is issued by the Election Commission.
+B. The recommendation for election is made by the Election Commission, and the notification for election is issued by the Home Ministry at the Centre and Home Departments in the States.
+C. The recommendation for election is made by the Election Commission, and the notification for election is issued by the President and Governors of the States concerned.
+D. Both the exercises of making a recommendation for election and that of issuing a notification in respect of it are done by the Election Commission.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The ECI recommends commencement and fixes the programme, while the formal notification is issued by the President or the relevant Governor.
+
+**Ans: C. The recommendation for election is made by the Election Commission, and the notification for election is issued by the President and Governors of the States concerned.. The President or the Governor of the State concerned issues the notification for election on the recommendation of the Election Commission. After that, the date of the election, time, etc. are issued by the Election Commission.**
+
+</details>
+
+**Q22. UPSC (Pre) 1994**
+
+Which of the election system have been adopted for different elections in India? (1) Direct Election System on the basis of Adult Suffrage. (2) System of Proportional representation by a Single Transferable Vote. (3) List System of Proportional Representation. (4) The cumulative Voting system of Indirect Election. Choose the correct answer from the given code-
+
+A. 1 and 2
+B. 1 and 3
+C. 1,2 and 3
+D. 2,3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India uses direct election by adult suffrage for the Lok Sabha and Assemblies and PR-STV for the President, Vice-President, Rajya Sabha and Legislative Councils.
+
+**Ans: A. 1 and 2. Direct and Indirect systems of elections have been adopted in India. The elections of President, Vice-President, Rajya Sabha and Legislative Council are conducted by the system of proportional representation by a single transferable vote through the indirect system and the elections of Lok Sabha and State Legislative Assemblies are conducted on the basis of adult suffrage through the direct system.**
+
+</details>
+
+**Q23. UPPCS (Mains) 2009**
+
+Who decides disputes regarding disqualification of Members of Parliament?
+
+A. The President
+B. The Concerned House
+C. The Election Commission
+D. The President in consultation with the Election Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under Article 103, the President decides an MP's post-election disqualification after obtaining and acting according to the ECI's opinion.
+
+**Ans: D. The President in consultation with the Election Commission. According to Article 103 of the Indian Constitution, the dispute regarding the disqualification of a member of Parliament shall be referred to the decision of the President, and his decision shall be final. Before giving any decision on any such question, the President shall obtain the opinion of the Election Commission and shall act accordingly to such opinion. Thus option (d) is the correct answer.**
+
+</details>
+
+**Q24. UPPCS (Pre) 2015**
+
+While deciding any question relating the disqualification of a Member of Parliament, the President shall obtain the opinion of
+
+A. Chief Justice of India
+B. Election Commission of India
+C. Attorney General of India
+D. Speaker of the Lok Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 103 makes the Election Commission's opinion binding on the President for the listed disqualification question.
+
+**Ans: B. Election Commission of India. Article 103 makes the Election Commission's opinion binding on the President for the listed disqualification question.**
+
+</details>
+
+**Q25. RPSC (Pre) 2021**
+
+Under Article 103 of the Constitution of India, the President shall obtain the opinion of which of the following authority before giving any decision on any question regarding the disqualification of the members of the Lok Sabha?
+
+A. Speaker of the Lok Sabha
+B. Election Commission
+C. Supreme Court
+D. Attorney General
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Article 103 authority consulted before the President decides a Lok Sabha member's listed disqualification is the Election Commission.
+
+**Ans: B. Election Commission. As per Article 103, If any question arises as to whether a member of either House of Parliament has become subject to any of the disqualifications mentioned in clause (1) of Article 102, the question shall be referred to the decision of the President, and his decision shall be final. Before giving any decision on any such question, the President shall obtain the opinion of the Election Commission and shall act according to such opinion. Hence option (b) is correct.**
+
+</details>
+
+**Q26. UPSC (Pre) 1995**
+
+If in an election to a State Legislative Assembly the candidate who is declared elected loses his deposit, it means that –
+
+A. The polling was very poor.
+B. The election was for a multi-member constituency.
+C. The elected candidate’s victory over his nearest rival was very marginal.
+D. A very large number of candidates contested.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A winning candidate can poll less than one-sixth where votes are fragmented among many candidates; the deposit threshold can therefore be missed despite a plurality.
+
+**Ans: D. A very large number of candidates contested.. Each candidate has to deposit security, and a defeated candidate who fails to secure more than one–sixth of the valid votes polled in the constituency will lose his security deposit. It may be possible if a large number of candidates contest the election and the votes get distributed.**
+
+</details>
+
+**Q27. UPSC (Pre) 2009**
+
+The decision to disqualify the person declared convict by the Court to contest the elections has been made by-
+
+A. The Government of India
+B. The Supreme Court
+C. The Election Commission
+D. The Parliament
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parliament created the conviction-based disqualification in section 8 of the Representation of the People Act, 1951.
+
+**Ans: D. The Parliament. The decision to disqualify a person, declared a convict by the Court, to contest the election was made by the Parliament. According to Section 8(3) of the Representation of the People Act, 1951 made by the Parliament a person convicted of any offence and sentenced to imprisonment for not less than 2 years shall be disqualified from the date of such conviction and shall continue to be disqualified for a further period of 6 years after his release.**
+
+</details>
+
+**Q28. UPPCS (Pre) 2017**
+
+Given below are two statements: Assertion (A) : Model code of conduct is to be followed by political parties as soon as an election is announced. Reason (R) : Model code of conduct was enacted by Parliament. Choose the correct answer from the code given below: Code :
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true and (R) is not the correct explanation of (A).
+C. (A) is true but (R) is false.
+D. (A) is false but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Assertion is true because the MCC operates from announcement of the schedule. Reason is false because the MCC is an ECI code, not an Act of Parliament.
+
+**Ans: C. (A) is true but (R) is false.. The Model Code of Conduct is a set of guidelines for the guidance of political parties and candidates during elections, mainly with respect to speeches, polling booths, processions, manifestos and general conduct. The model code of conduct has been formulated by the Election Commission of India. The Model Code of Conduct comes into force immediately on the announcement of the election schedule by the Election Commission for ensuring free and fair elections.**
+
+</details>
+
+**Q29. UPPCS / UPSC (Pre) 2013**
+
+Right to Vote and to be Elected in India is a-
+
+A. Fundamental Right
+B. Constitutional Right
+C. Natural Right
+D. Legal Right
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The rights to vote and to contest are legal or statutory rights created and regulated by election law, not Fundamental Rights.
+
+**Ans: D. Legal Right. Right to Vote and to be elected are a legal rights.**
+
+</details>
+
+**Q30. UPPCS (Mains) 2010**
+
+Right to Vote and Right to be elected in India is a –
+
+A. Constitutional Right
+B. Fundamental Right
+C. Legal Right under an Act
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The right to vote and the right to be elected arise under statute; constitutional provisions structure elections but do not convert them into Fundamental Rights.
+
+**Ans: C. Legal Right under an Act. The right to vote and the right to be elected are legal rights in India. The Supreme Court pointed out the difference between a legal right and a fundamental right in a number of cases. Some significant differences are: (a) A legal right is the offshoot of the ordinary law framed by the Legislature, whereas fundamental rights are of a transcendental character. These are protected against any violation of any authority. (b) A Fundamental Right cannot be waived, whereas there are instances where a legal right has been violated. (c) An ordinary legal right can be taken away by the State, whereas the fundamental rights are placed beyond the reach of the State, except as provided by the Constitution.**
+
+</details>
+
+**Q31. UPPCS (Pre) 2015**
+
+The Right to Vote in India is a
+
+A. Fundamental Right
+B. Constitutional Right
+C. Natural Right
+D. Legal Right
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kuldip Nayar treats the right to vote as a statutory or legal right, not as a Fundamental or natural right.
+
+**Ans: D. Legal Right. The right to vote in India is a legal right. In 2009, in the case of Kuldip Nayar Vs. Union of India, the Supreme Court, held that the Right to vote is neither a Constitutional right nor a fundamental right. It is merely a statutory/ legal right.**
+
+</details>
+
+**Q32. UPPCS (Pre) 2011**
+
+Voting right by the youths at the age of 18 years was exercised for the first time in the General Election of
+
+A. 1987
+B. 1988
+C. 1989
+D. 1990
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 61st Amendment lowered the age to 18 with effect from March 1989, so the 1989 Lok Sabha poll was the first general poll at the lower age.
+
+**Ans: C. 1989. 61st Constitutional Amendment Act, 1988, reduced the age for the Right to Vote from 21 years to 18 years, which came into force on March 28, 1989. The right to vote was primarily used by the youths in November, 1989 in the General Elections of Lok Sabha.**
+
+</details>
+
+**Q33. UPPCS / BPSC / CGPCS (Mains) 1996**
+
+The Lower age limit of voters of Union and State Legislature was reduced from 21 years to 18 years by
+
+A. 57th Amendment, 1987
+B. 60th Amendment, 1988
+C. 61st Amendment, 1989
+D. 65th Amendment, 1990
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 61st Amendment changed Article 326 and lowered the voting age from 21 to 18.
+
+**Ans: C. 61st Amendment, 1989. The 61st Amendment changed Article 326 and lowered the voting age from 21 to 18.**
+
+</details>
+
+**Q34. UKPCS / UPPCS (Mains) 2007**
+
+Which Constitutional Amendment reduced the voting age from 21 years to 18 years?
+
+A. Sixty-third Amendment
+B. Sixty-second Amendment
+C. Sixty-first Amendment
+D. Sixtieth Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 61st Constitutional Amendment Act reduced the voting age to 18.
+
+**Ans: C. Sixty-first Amendment. The 61st Constitutional Amendment Act reduced the voting age to 18.**
+
+</details>
+
+**Q35. UPPCS (Mains) 2008**
+
+Which of the following is concerned with the 61st Amendment of the Indian Constitution?
+
+A. Emergency powers of the President
+B. Powers of the President to extend President’s Rule
+C. Lowering the age of voters
+D. Financial Emergency
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The subject of the 61st Amendment is lowering the voting age, not any of the three emergency powers.
+
+**Ans: C. Lowering the age of voters. The subject of the 61st Amendment is lowering the voting age, not any of the three emergency powers.**
+
+</details>
+
+**Q36. CGPCS (Pre) 2018**
+
+In which article of the constitution the Adult Suffrage is recognised?
+
+A. Article 324
+B. Article 325
+C. Article 326
+D. Article 327
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 326 bases Lok Sabha and State Assembly elections on adult suffrage.
+
+**Ans: C. Article 326. Article 326 - Elections to the House of the People and to the legislative assemblies of states to be based on adult suffrage.**
+
+</details>
+
+**Q37. UPPCS (Mains) 2017**
+
+Which Article of the Indian Constitution provides right to vote i.e. adult suffrage for electing representatives of Lok Saba and Vidhan Sabha?
+
+A. Article 326
+B. Article 325
+C. Article 324
+D. Article 323
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Adult suffrage for the House of the People and State Legislative Assemblies is provided by Article 326.
+
+**Ans: A. Article 326. Article 326 of the Indian Constitution provides that elections to the House of the People and to the Legislative Assemblies of States are to be based on adult suffrage.**
+
+</details>
+
+**Q38. UPPCS (Pre) 2000**
+
+According to the Law enacted by Parliament in December 1989, the legal age for a citizen to become major is:
+
+A. 23 years
+B. 22 years
+C. 20 years
+D. 18 years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The relevant lower age is 18 years, introduced through the 61st Amendment and consequential election-law changes.
+
+**Ans: D. 18 years. According to the 61st Amendment Act, 1988 the minimum age to be eligible to vote was reduced from 21 to 18 years by amending Article 326 of the Constitution to provide to the unrepresented youth of the country an opportunity to give vent to their feelings and help them to become a part of the political process. It became possible by amending the Representation of the People Act, 1951.**
+
+</details>
+
+**Q39. BPSC (Pre) 2024**
+
+What is the eligibility age, after the changes made in March 2024, for senior citizens to vote by postal ballot ?
+
+A. 85 years
+B. 80 years
+C. 82 years
+D. 90 years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The March 2024 amendment raised the home postal-ballot age for senior citizens from 80 to 85.
+
+**Ans: A. 85 years. On March 1, 2024, after consultation with the Election Commission, the Ministry of Law and Justice amended Rule 27A of the "Conduct of Elections Rules, 1961," to allow senior citizens to vote through postal ballot from home. The eligible age for this facility was raised from 80 years to 85 years. For the first time, in the 2024 Lok Sabha general elections, senior citizens aged 85 years and above, at the national level, and individuals with 40% or more certified disabilities were provided the facility to cast their vote from home through postal ballot.**
+
+</details>
+
+**Q40. UPPCS (Mains) 2011**
+
+The Principles for election to the State Legislatures include: 1. It will be on the basis of adult suffrage. 2. There will be only one electoral roll for every territorial constituency. 3. Religion, Race, Sex, etc., will have no place in the formation of the electoral roll. 4. The political parties will be free to have their norms. Select the correct answer from the given code: Code :
+
+A. 1, 3 and 4
+B. 2, 3 and 4
+C. 1, 2 and 3
+D. All the four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Articles 325–326 support one general roll without exclusion on religion, race, caste or sex and adult suffrage; party norms remain subject to election law.
+
+**Ans: D. All the four. According to the Constitution 61st Amendment Act, 1988 all adults of 18 years of age have the Right to vote. There is no distinction on the basis of religion, race, sex, etc. There will be only one electoral list for every territorial constituency, and the political parties can establish their own norms.**
+
+</details>
+
+**Q41. BPSC (Pre) 2022**
+
+If 'One Nation One Election' is to be realized in India, which Article of the Indian Constitution will require an amendment?
+
+A. Article 83
+B. Article 172
+C. Article 356
+D. Article 246
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Simultaneous polls affect more than one listed provision, including Articles 83 and 172, with related changes around Articles 85, 174 and 356; therefore the combined-choice option applies.
+
+**Ans: E. None of the above/More than one of the above. 'One Nation, One Election' is to be realized in India; a constitutional amendment may be needed in Articles 83, 85, 172, 174 and 356. Thus correct option is (e).**
+
+</details>
+
+**Q42. CGPCS (Pre) 2024**
+
+Who among the following is not a member of a high level committee constituted on simultaneous elections?
+
+A. Dr. Niten Chandra
+B. Dr. Subhash C. Kashyap
+C. Sri Tushar Mehta
+D. Sri N.K. Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tushar Mehta was not a member of the Kovind high-level committee. Niten Chandra served as secretary, while Subhash C. Kashyap and N.K. Singh were members.
+
+**Ans: C. Tushar Mehta was not a member of the high-level committee on simultaneous elections.**
+
+</details>
+
+**Q43. UPSC (Pre) 1994**
+
+Which one of the following statements regarding Exit Poll is correct?
+
+A. Exit Poll is a term used to denote a post-election survey of voters regarding the candidates in whose favour they had exercised their franchise
+B. Exit Poll and Opinion Polls are one and the same
+C. Exit Poll is a device through which results of voting can be most exactly predicted
+D. Exit Poll is an administrative device made recently by the Chief Election Commissioner to prevent impersonation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** An exit poll asks voters after voting how they voted; an opinion poll measures preferences before voting.
+
+**Ans: A. Exit Poll is a term used to denote a post-election survey of voters regarding the candidates in whose favour they had exercised their franchise. Exit Poll is a term used to denote a post-election survey of voters regarding the candidates in whose favour they had exercised their franchise. The Opinion Poll is conducted by different survey agencies before the elections to know the public views regarding the elections.**
+
+</details>
+
+**Q44. UPPCS (Pre) 2004**
+
+What is the total number of electors in Lok Sabha elections of 2009 in Million ?(1 million = 10 Lakh).
+
+A. 815
+B. 613
+C. 714
+D. 903
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The recorded electorate for the 2009 Lok Sabha election was approximately 714 million.
+
+**Ans: C. 714. The total number of electors in the Lok Sabha elections of 2009 was 714 million.**
+
+</details>
+
+**Q45. UPSC (Pre) 2021**
+
+Consider the following statements : 1. In India, there is no law restricting the candidates from contesting in one Lok Sabha election from three constituencies. 2. In 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies. 3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of by-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies. Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. 1 and 3
+D. 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After the 1996 change a candidate may contest at most two Lok Sabha constituencies; Devi Lal had contested three in 1991, and no rule shifts later by-poll cost to the party.
+
+**Ans: B. 2 only. According to Section 33 of the Representation of the People Act 1951: A person shall not be nominated as a candidate for election – (a) in the case of a general election to the House of the People, from more than two Parliamentary constituencies; (b) in the case of a general election to the Legislative Assembly of a State, from more than two Assembly constituencies in that State; Hence, statement 1 is incorrect. In the 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies. In response to in 1996, the Representation of the People Act, 1951, was amended. Hence, whenever the leader has won more than one, the candidates have retained only one, forcing bypolls in the rest. Hence, statement 2 is correct. There is no such provision in the rules like, "if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye - elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies." Hence statement 3 is incorrect.**
+
+</details>
+
+**Q46. UPSC (Pre) 1999**
+
+Consider the following statements about the recent amendments to the elections law by the Representation of the People (Amendment) Act 1996. 1. Any conviction for the offence of insulting the Indian National Flag or the Constitution of India shall entail disqualification for contesting elections to Parliament and State Legislatures for six years from the date of conviction 2. There is an increase in the security deposit which a candidate has to make to contest the election to the Lok Sabha 3. A candidate cannot now contest election from more than one Parliament Constituency 4. No election will now be countermanded on the death of a contesting candidate Which of the above statements are correct
+
+A. 2 and 3
+B. 1, 2 and 4
+C. 1 and 3
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 1996 amendments raised deposits, added specified disqualifications and prevented countermanding merely on a candidate's death; they limited candidature to two, not one, constituencies.
+
+**Ans: B. 1, 2 and 4. The Representation of People (Amendment) Act, 1996 was based on the recommendations of the Dinesh Goswami Committee. Now, a candidate can not contest an election from more than two Parliamentary constituencies. No election will now be countermanded on the death of a contesting candidate rather a new candidate of the respective party will have to contest in his place. Statements 1, 2, and 4 are correct while statement 3 is not correct.**
+
+</details>
+
+**Q47. UPSC (Pre) 1997**
+
+The Dinesh Goswami Committee recommended:
+
+A. The constitution of state-level election commission
+B. List system of election to the Lok Sabha
+C. Government funding of parliamentary elections
+D. A ban on the candidature of independent candidates for the parliamentary elections
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Dinesh Goswami Committee recommended State funding of parliamentary elections.
+
+**Ans: C. Government funding of parliamentary elections. Dinesh Goswami was Law Minister in V.P. Singh Government in 1989. The Representation of the People (Amendment) Act, 1996 was based on the recommendations of the Dinesh Goswami Committee. This Committee recommended the government funding of the Parliamentary elections.**
+
+</details>
+
+**Q48. UPSC (Pre) 1995**
+
+The Dinesh Goswami Committee was concerned with:
+
+A. De-nationalisation of banks
+B. Electoral reforms
+C. Steps to put down insurgency in the north - east
+D. The problem of the Chakmas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Dinesh Goswami Committee dealt with electoral reforms.
+
+**Ans: B. Electoral reforms. The Dinesh Goswami Committee dealt with electoral reforms.**
+
+</details>
+
+**Q49. CGPCS (Pre) 2020**
+
+Read the following statements in relation to reservation of seats in Lok Sabha and Legislative Assembly, and choose the correct option: Statement I : Out of the 543 elected seats in the Lok Sabha, 84 are reserved for Scheduled Castes and 44 are reserved for Scheduled Tribes. Statement II : Decision, on which constituency is to be reserved, is taken by the Delimitation Commission. Statement III : The Delimitation Commission is appointed by the Lok Sabha Speaker.
+
+A. Statement I, II and III all are true.
+B. Statement I is true, but Statement II and III are false
+C. Statement I and III are false, but Statement II is true.
+D. Statement I, II and III all are false.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Delimitation Commission chooses reserved constituencies and is constituted under parliamentary law, not appointed by the Speaker; the ST-seat figure in Statement I is wrong.
+
+**Ans: C. Statement I and III are false, but Statement II is true.. Seats are reserved in the Lok Sabha for the members of the Scheduled Castes and Scheduled Tribes. As per the order issued by the Delimitation Commission in 2008, out of 543 elected seats in the Lok Sabha, 84 seats are reserved for Scheduled Castes, and 47 seats are reserved for Scheduled Tribes. Thus, Statement I is false. The Delimitation Commission is constituted by the Central Government under the Law made by the Parliament. The main purpose of the Commission is to rationalize the structure and composition of the electoral constituencies on the principle of "One Vote and One Value". The decision on which constituency is to be reserved is taken by the Delimitation Commission. Thus, Statement II is true, while statement III is false.**
+
+</details>
+
+**Q50. UPSC (Pre) 2012**
+
+With reference to the Delimitation Commission, consider the following statements: 1. The orders of the Delimitation Commission cannot be challenged in a Court of Law. 2. When the orders of the Delimitation Commission are laid before the Lok Sabha or State Legislative Assembly, no modifications can be done in the orders. Which of the statement(s) given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Delimitation orders have the force of law, cannot be modified by the House when laid before it, and are protected from ordinary court challenge.
+
+**Ans: C. Both 1 and 2. The Delimitation Commission is formed by the Government of India. The main task of the Commission is to redraw the boundaries of the various assemblies and Lok Sabha constituencies based on the latest census. It is a powerful institution. The orders of the Delimitation Commission cannot be challenged in a Court of Law. The orders of the Delimitation Commission are laid before the Lok Sabha or the State Legislative Assembly, but they cannot effect any modifications in the orders. So far, 5 Delimitation Commissions (1952, 1963, 1973 and 2002; and latest in March 2020 for delimitation of UT of Jammu & Kashmir) have been established in India.**
+
+</details>
+
+**Q51. UPSC (Pre) 2024**
+
+How many Delimitation Commissions have been constituted by the Government of India till December 2023?
+
+A. One
+B. Two
+C. Three
+D. Four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Four Delimitation Commissions were constituted under the Delimitation Acts of 1952, 1962, 1972 and 2002. The 2020 Jammu and Kashmir exercise was constituted under the 2002 Act and does not change the IAS 2024 keyed count.
+
+**Ans: D. Four commissions were constituted under the four Delimitation Acts. The 2020 Jammu and Kashmir commission operated under the 2002 Act.**
+
+</details>
+
+**Q52. UPPCS (Mains) 2013**
+
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R) : Assertion (A): The system of proportional representation may solve the problem of minority representation to some extent. Reason (R) : The system of proportional representation enables due representation to all type of groups based on ethnicity, gender, interests, and ideologies. Choose the correct answer from the code given below: Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both statements are true, and proportional allocation explains why minority and dispersed groups can receive representation.
+
+**Ans: A. Both (A) and (R) are true, and (R) is the correct explanation of (A).. The system of proportional representation solves the problem of minority representation by providing due representation to all sections of society. The system of proportional representation enables due representation to all types of groups based on ethnicity, gender, interests and ideologies. Thus, assertion (A) and Reason (R) both are correct, and reason (R) is the correct explanation of assertion (A).**
+
+</details>
+
+**Q53. UPPCS (Pre) 2013**
+
+The system of proportional representation as an electoral mechanism ensures
+
+A. Majority rule
+B. Stability in Government
+C. Common political thinking
+D. Representation of minorities
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The central representational purpose of proportional representation is to give minorities a share closer to their support.
+
+**Ans: D. Representation of minorities. The central representational purpose of proportional representation is to give minorities a share closer to their support.**
+
+</details>
+
+**Q54. UPSC (Pre) 1997**
+
+Proportional representation is not necessary for a country where:
+
+A. There are no reserved constituencies
+B. a two-party system has developed
+C. the first-past-post system prevails
+D. there is a fusion of Presidential and Parliamentary forms of government
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A developed two-party system reduces the claimed need for proportional allocation among numerous parties or groups.
+
+**Ans: B. a two-party system has developed. The objective of a proportional representation system is to provide representation to each group in proper proportion. It becomes insignificant in a country where a two-party system has developed.**
+
+</details>
+
+**Q55. RPSC (Pre) 2024**
+
+In the question given below, a statement is followed by two courses of action numbered (I) and (II). Choose the correct option from the following : Statement : There has been less voting in this Lok Sabha election as compared to previous Lok Sabha election. Course of action : (I) The election commission should announce reelection for Lok Sabha. (II) Election commission should cancel the voting rights of the people who did not vote in this Lok Sabha election.
+
+A. Only (I) follows.
+B. Only (II) follows.
+C. Neither (I) nor (II) follow.
+D. Both (I) and (II) follow.
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lower turnout neither invalidates an otherwise lawful poll nor authorises cancellation of the statutory voting right of abstainers.
+
+**Ans: C. Neither (I) nor (II) follow.. Less voting in an election as compared to the previous election does not create the cause of course of action I and II. The elections are held with proper schedule and planning, awareness campaigns, advertisements etc. are used as tools to increase voter turnout, therefore no way a lesser voting turnout binds the election commission to announce a reelection. The voting rights in India are statutory, there is no legal duty imposed on citizens to vote, therefore the citizens, who do not vote can not be punished by abolishing their voting rights. Hence, both courses of action do not follow.**
+
+</details>
+
+**Q56. UPPCS (Pre) 2025**
+
+Consider the following Election Reforms in India and arrange them in correct chronological order starting from earliest to the last. 1. Voters photo identity card 2. Electronic voting machine 3. Voter verifiable paper audit trail 4. NOTA Select the correct answer from the code given below : Code :
+
+A. 2, 1, 3, 4
+B. 1, 2, 4, 3
+C. 1, 2, 3, 4
+D. 2, 1, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The order is EVM experimental use in 1982, EPIC in 1993, VVPAT in September 2013 and NOTA later in 2013.
+
+**Ans: A. 2, 1, 3, 4. Electronic Voting Machine (EVM) – In the Supreme Court decision A.C. Jose v. Sivan Pillai & Ors., the experimental use of EVM is recorded in the polling held on 19 May, 1982 in the Parur (Kerala) Assembly Constituency. Electors Photo Identity Card (EPIC) – The Election Commission started the EPIC scheme in the year 1993. Voter Verifiable Paper Audit Trail (VVPAT) – VVPAT was used for the first time on 4 September, 2013 in the Noksen Assembly by-election in Nagaland. NOTA (None of the Above) – As per the directions of the Supreme Court dated 27 September, 2013, the NOTA option was added in EVMs. Thus, the correct chronology—EVM (1982) → EPIC (1993) → VVPAT (2013) → NOTA (2013)—is given in option (a).**
+
+</details>
+
+**Q57. BPSC (Pre) 2019**
+
+What is the version of the machine VVPAT used for voting in India?
+
+A. M1
+B. Z1
+C. M3
+D. Z3
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The source identifies M3 as the third-generation machine version used with the VVPAT system.
+
+**Ans: C. M3. M3 version of the VVPAT machines is used for voting in India. M3 EVMs are the third-generation EVMs. It can keep data of 384 candidates. M3 EVMs also have added features like Tamper Detection and Self Diagnostics.**
+
+</details>
+
+**Q58. UPPCS (Mains) 2006**
+
+The Election Commission was converted into a ‘Three members Commission’ in the following year:
+
+A. 1987
+B. 1988
+C. 1989
+D. 1990
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The first brief three-member Commission began on 16 October 1989; the durable three-member arrangement began on 1 October 1993.
+
+**Ans: C. 1989. There used to be a Chief Election Commissioner only in the Election Commission of India. Two additional Commissioners were appointed to the Election Commission on October 16, 1989, but they served only up to January 1, 1990. Again, two additional Election Commissioners were appointed on October 1, 1993 and since then, the Commission has three members.**
+
+</details>
+
+**Q59. MPPCS (Pre) 2000**
+
+Who among the following was not the member of Election Commission of India?
+
+A. Dr. M.S. Gill
+B. N.B. Lohani
+C. T.S. Krishnamurti
+D. B. Lyngdoh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** M.S. Gill, T.S. Krishnamurti and J.M. Lyngdoh served on the Commission; N.B. Lohani did not.
+
+**Ans: B. N.B. Lohani. M.S. Gill was the Chief Election Commissioner in 2000 while T.S. Krishnamurti and J.M. Lyngdoh were the other election commissioners. Later, Krishnamurti and Lyngdoh also became the Chief Election Commissioner.**
+
+</details>
+
+**Q60. UPPCS (Pre) 2021**
+
+Consider the facts given below: 1. Sukumar Sen was the first Chief Election Commissioner of India. 2. Rama Devi was the first woman Chief Election Commissioner of India. Choose the correct answer from the codes given below. Codes:
+
+A. Only 1 is correct
+B. Only 2 is correct
+C. Both 1 and 2 are correct
+D. Both 1 and 2 are incorrect
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sukumar Sen was the first CEC and V.S. Ramadevi was the first woman CEC, so both statements are correct.
+
+**Ans: C. Both 1 and 2 are correct. Former Karnataka and Himachal Pradesh Governor V. S. Ramadevi was the only woman to head the Election Commission. Sukumar Sen (2 January 1898 -13 May 1963) was an Indian civil servant who was the first Chief Election Commissioner of India, serving from 21 March 1950 to 19 December 1958.**
+
+</details>
+
+**Q61. MPPCS (Pre) 2019**
+
+Who was the first women to became a Chief Election Commissioner of India?
+
+A. R.M. Nikam
+B. S.K. Bedi
+C. V.S. Ramadevi
+D. G.D. Das
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** V.S. Ramadevi became the first woman Chief Election Commissioner in 1990.
+
+**Ans: C. V.S. Ramadevi. V.S. Ramadevi was the first woman to become the Chief Election Commissioner of India in 1990. Sukumar Sen was the first Chief Election Commissioner of India from 1950 to 1958.**
+
+</details>
+
+**Q62. MPPCS (Pre) 2012**
+
+Which one of the following is the “National Voters’ Day”?
+
+A. 5th June
+B. Ist November
+C. 25th January
+D. 8th March
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** National Voters' Day is 25 January, marking the Commission's foundation date.
+
+**Ans: C. 25th January. To encourage young voters to take part in the political process, the Government of India has decided to celebrate January 25 every year as ‘National Voters Day.’ It started on January 25, 2011 to mark the commission’s foundation day.**
+
+</details>
+
+**Q63. UPPCS (Pre) 2015**
+
+National Voters Day is celebrated on -
+
+A. 15th January
+B. 25th January
+C. 17th January
+D. 27th January
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** National Voters' Day is observed on 25 January each year.
+
+**Ans: B. 25th January. National Voters' Day is observed on 25 January each year.**
 
 </details>
 

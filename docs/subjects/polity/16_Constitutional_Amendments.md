@@ -10,7 +10,7 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 
 > **Sources baked in:** Laxmikanth (Amendment), Art. 368, *Shankari Prasad → Kesavananda → Minerva Mills → IR Coelho*, listed Amendment Acts, UPPCS PYQs 2018–2025
 > **Weight:** ★★★ — Kesavananda **1973** (2020/22); chronology (2024); 24th before Kesavananda (2021); 42nd **Socialist+Secular** (2025) · **43A** (2019) · year **1976** (2024); GST **101st** (2021/24); RTE **86th** (2022); local bodies **73rd+74th** (2024); 350B = **7th not 9th**
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Amendments)
 > **Current Affairs:** 106th (women 33%) **not in force** till delimitation; 105th restored State OBC lists (2021)
 
 ---
@@ -29,8 +29,6 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 
 ### UKPCS Prelims 2025
 
-**Logic:** 103rd is EWS; 101st is GST.
-
 **Q. UKPCS Prelims 2025, Q118**
 
 The 101st Constitutional Amendment Act is related with
@@ -43,11 +41,11 @@ D. Nationwide Goods and Services Tax (GST)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** The 101st Amendment created the GST framework; the 103rd Amendment concerns EWS reservation.
+
 **Ans: D (Series B provisional key).** 101st Amendment (2016) introduced GST / GST Council. EWS is 103rd; anti-defection is 52nd.
 
 </details>
-
-**Logic:** 91st vs 92nd in the same year is the confusion.
 
 **Q. UKPCS Prelims 2025, Q128**
 
@@ -60,6 +58,8 @@ D. 86th Constitutional Amendment Act, 2002
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** The 91st Amendment imposed the ministry-size ceiling; the nearby 92nd Amendment added Eighth Schedule languages.
 
 **Ans: A (Series B provisional key).** 91st Amendment (2003) capped CoM at 15% of Lok Sabha / Assembly strength. 92nd added Eighth Schedule languages.
 
@@ -907,6 +907,1995 @@ D. 43A
 <summary>Show answer</summary>
 
 **Ans: D**
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Constitutional Amendments
+
+> Article 368 · amendment procedure · major Amendment Acts · basic structure
+
+**Q1. UPPCS 2015**
+Assertion (A) : Under Article 368, the Parliament can
+amend any part of the Constitution.
+Reason (R) : The Parliament is the Supreme
+Legislative body elected by the People
+of India.
+Code :
+
+A. Both (A) and (R) are correct, and (R) is the correct
+explanation of (A).
+B. Both (A) and (R) are correct, but (R) is not the correct
+explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Article 368 grants constituent power, but Kesavananda Bharati limits it: Parliament cannot damage the basic structure. The booklet keys A even though that wording makes the assertion overbroad.
+
+**Ans: A (booklet key). Both are treated as correct in the booklet, but A must now be read subject to the basic-structure limit.**
+
+</details>
+
+**Q2. IAS 2024**
+As per Article 368 of the Constitution of India,
+the Parliament may amend any provision of the
+Constitution by way of :
+1. Addition 2. Variation
+3. Repeal
+Select the correct answer using the code given below :
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 368(1) expressly uses all three verbs: addition, variation and repeal.
+
+**Ans: D. Article 368 of the Constitution of India is related to the
+power of Parliament to amend the Constitution and procedure
+therefor.**
+
+</details>
+
+**Q3. UPPCS IAS 2007/2003**
+Which one of the following Bills must be passed by
+each House of the Indian Parliament separately by the
+special majority?
+
+A. Ordinary Bill
+B. Money Bill
+C. Finance Bill
+D. Constitution Amendment Bill
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A Constitution Amendment Bill must clear each House separately by the prescribed special majority; ordinary, Money and Finance Bills do not use this route.
+
+**Ans: D. The power and procedure of Parliament to amend the
+Constitution are laid down in Article 368 of the Constitution.**
+
+</details>
+
+**Q4. UPPCS 2008**
+The Indian Constitution can be amended under the
+provisions of
+
+A. Article 368
+B. Article 360
+C. Article 356
+D. Article 352
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 368 contains Parliament’s constituent power and the formal amendment procedure.
+
+**Ans: A. Article 368 contains Parliament’s constituent power and the formal amendment procedure.**
+
+</details>
+
+**Q5. UPPCS 2010**
+Which Article of the Constitution of India lays down
+the procedure for the amendment of the Constitution?
+
+A. 348
+B. 358
+C. 368
+D. 378
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 368, not the emergency Articles 352, 356 or 360, lays down the amendment procedure.
+
+**Ans: C. Article 368, not the emergency Articles 352, 356 or 360, lays down the amendment procedure.**
+
+</details>
+
+**Q6. UPPCS 2013**
+Amendments to the Constitution may be initiated-
+
+A. Only in Lok Sabha
+B. Only in Rajya Sabha
+C. Only in State legislative assemblies
+D. Either House of the Parliament
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Bill may originate in either House; neither State legislatures nor the President can initiate it.
+
+**Ans: D. In India, the amendment to the Constitution can be initiated
+in either House of the Parliament.**
+
+</details>
+
+**Q7. State PCS 1992**
+A bill for the amendment in Indian Constitution can
+be presented -
+
+A. Only in Lok Sabha
+B. Only in Rajya Sabha
+C. Either in Lok Sabha or Rajya Sabha
+D. In the Supreme Court of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lok Sabha and Rajya Sabha are equally competent to receive an amendment Bill.
+
+**Ans: C. Lok Sabha and Rajya Sabha are equally competent to receive an amendment Bill.**
+
+</details>
+
+**Q8. UPPCS IAS 2024/1999**
+An amendment to the Constitution of India can be
+initiated by the:
+1. Lok Sabha 2. Rajya Sabha
+3. State Legislatures 4. President
+Select the correct answer using the codes given
+below:
+
+A. 1 alone
+B. 1, 2 and 3
+C. 2, 3 and 4
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only Lok Sabha and Rajya Sabha can initiate the process; State legislatures and the President cannot.
+
+**Ans: D. Only Lok Sabha and Rajya Sabha can initiate the process; State legislatures and the President cannot.**
+
+</details>
+
+**Q9. State PCS 2018**
+Under the provisions of the Article 368(2) of the
+Constitution of India, If a bill comes to Rajasthan
+Legislative Assembly after passing by parliament of
+India for resolution to rectify, then
+(A) Resolution can be passed by Assembly.
+(B) Resolution can be rejected by Assembly.
+(C) No Amendment shall be proposed to such a resolation
+Select the correct answer using code given below :
+Code -
+
+A. (A) only
+B. (B) and (C)
+C. (A) and (C)
+D. (A), (B) and (C)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A State legislature may ratify or reject a federal amendment resolution, but it cannot amend that resolution.
+
+**Ans: D. The Assembly may pass or reject the resolution, and no amendment may be proposed to it.**
+
+</details>
+
+**Q10. UPPCS 2004**
+According to the Indian Constitution, the Constitutional
+amendment of the following topics requires consent of
+at least half of State legislatures1. Federal provision of the Constitution
+2. Rights of the Supreme Court
+3. The process of Constitutional Amendment
+4. Formation of new States or transformation in the
+borders and names of the states
+Code :
+
+A. 1, 2, 3
+B. 1, 2, 4
+C. 1, 3, 4
+D. 2, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Federal provisions, Supreme Court powers and Article 368 itself need half-State ratification; formation or boundary change of States uses the simple-majority route.
+
+**Ans: A. The Indian Constitution is flexible and adaptable.**
+
+</details>
+
+**Q11. IAS 1995/2024**
+Which of the following are the matters on which a
+constitutional amendment is possible only with the
+ratification of the legislatures of not less than one-half
+of the states?
+1. Election of the President
+2. Representation of the States in Parliament
+3. Any of the Lists in the 7th Schedule
+4. Abolition of the Legislature Council of a State
+Code:
+
+A. 1, 2 and 3
+B. 1, 2 and 4
+C. 1, 3 and 4
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Presidential election, State representation and Seventh Schedule Lists need ratification; abolition of a Legislative Council is outside Article 368.
+
+**Ans: A. Presidential election, State representation and Seventh Schedule Lists need ratification; abolition of a Legislative Council is outside Article 368.**
+
+</details>
+
+**Q12. State PCS 2024**
+An amendment of the Constitution shall require to be
+ratified by the legislatures of not less than one-half of
+the states :
+
+A. If such amendment seeks to make changes in Article
+53.
+B. If such amendment seeks to make changes in Article
+239A.
+C. If such amendment seeks to make changes in Article
+243A.
+D. If such amendment seeks to make changes in Article
+279A.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 279A is expressly in the proviso to Article 368(2), unlike Articles 53, 239A and 243A.
+
+**Ans: D. According to the proviso of Article 368(2) of the Constitution,
+some provisions of the Constitution are as such that their
+amendment requires a special majority of each House of
+Parliament along with the ratification by the Legislatures
+of not less than one-half of the States.**
+
+</details>
+
+**Q13. IAS 2025**
+Consider the following subjects under the Constitution
+of India :
+I. List I-Union List, in the Seventh Schedule
+II. Extent of the executive power of a State
+III. Conditions of the Governor's office
+For a constitutional amendment with respect to
+which of the above, ratification by the Legislatures
+of not less than one-half of the States is required
+before presenting the bill to the President of India for
+assent?
+
+A. I and II only
+B. II and III only
+C. I and III only
+D. I, II and III
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A Seventh Schedule List and State executive power under Article 162 are ratification matters; conditions of the Governor’s office are not.
+
+**Ans: A. The power and procedure to amend the Constitution are
+given in Article 368.**
+
+</details>
+
+**Q14. IAS 2013**
+Consider the following statements
+1. An amendment to the Constitution of India can be
+initiated by introduction of a Bill in the Lok Sabha
+only.
+2. If such an amendment seeks to make changes
+in the federal character of the Constitution, the
+amendment also requires to be ratified by the
+legislatures of all the States of India.
+Which of the statements given above is/are correct?
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** An amendment Bill may begin in either House, and federal changes need not less than half—not all—State legislatures.
+
+**Ans: D. An amendment Bill may begin in either House, and federal changes need not less than half—not all—State legislatures.**
+
+</details>
+
+**Q15. State PCS 2017**
+Which is unmatched in the context of Constitutional
+Amendment Procedure?
+i. Extension of executive powers of Centre and State.
+ii. Supreme and High Court.
+iii. Election of President.
+iv. Qualification of President.
+v. Condition of the Office of the President.
+vi. Tenure of President.
+vii. Distribution of Legislative Power in Centre and
+State.
+viii. States representation in Parliament.
+
+A. i ii iii
+B. ii iii iv
+C. iii iv v
+D. iv v vi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Qualifications, conditions of office and tenure of the President are not among the proviso’s State-ratification subjects.
+
+**Ans: D. Qualifications, conditions of office and tenure of the President are unmatched.**
+
+</details>
+
+**Q16. State PCS 2021**
+Which of the following Constitution Amendments
+was the first Constitution Amendment, which was
+ratified by the State Legislatures according to the
+requirements of the provision of the Article 368(2) of
+the Constitution?
+
+A. First Constitutional Amendment, 1951
+B. Second Constitutional Amendment, 1952
+C. Third Constitutional Amendment, 1954
+D. Fourth Constitutional Amendment, 1954
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Third Amendment altered Concurrent List Entry 33 and was the first amendment ratified by State legislatures.
+
+**Ans: C. Third Constitutional Amendment, 1954 was the first
+constitutional amendment, which was ratified by the State
+Legislatures according to the requirements of the provision
+of Article 368(2) of the Constitution.**
+
+</details>
+
+**Q17. UPPCS 2004**
+In the event of the Upper House rejecting a Constitutional
+Amendment Bill passed by the Lower House
+
+A. The Bill will have to be dropped
+B. A joint sitting of the both Houses of Parliament may
+be convened to consider and pass the Bill
+C. The Bill shall be deemed to have been passed by both
+the Houses of the Parliament if the Lok Sabha passes
+it again by a two-third majority.
+D. The Bill shall be deemed to have been passed by both
+the Houses of the Parliament despite the disapproval
+of the Bill by the Upper House.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** There is no joint sitting for an amendment Bill; rejection by either House ends that Bill.
+
+**Ans: A. The Constitutional Amendment Bill should be passed by
+both the Houses of the Parliament with a special majority.**
+
+</details>
+
+**Q18. IAS 2022**
+Consider the following statements:
+1. A bill amending the Constitution requires a prior
+recommendation of the President of India.
+2. When a Constitution Amendment bill is presented
+to the President of India, it is obligatory for the
+President of India to give his/her assent.
+3. A Constitution Amendment Bill must be passed
+by both the Lok Sabha and the Rajya Sabha by a
+special majority and there is no provision for joint
+sitting.
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** No prior Presidential recommendation is needed; after passage the President must assent, and no joint sitting is available.
+
+**Ans: B. Article 368(2) says that an amendment to the Constitution
+may be initiated in either House of Parliament.**
+
+</details>
+
+**Q19. State PCS 2013**
+Consider the following statements regarding
+Constitutional Amendments:
+(i) In Article 368, two methods of Constitutional
+Amendment are mentioned.
+(ii) Constitutional Amendment Bill can be initiated
+only in Lok Sabha.
+(iii)In case of any dispute between two Houses of
+Parliament on Constitutional Amendment Bill,
+Joint sitting of both Houses can be summoned.
+(iv)The President can not veto a Constitutional
+Amendment Bill.
+Which of the statements given above are correct?
+
+A. (i) and (ii) only
+B. (i) and (iv) only
+C. (ii) and (iv) only
+D. (ii), (iii), and (iv) only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 368 describes two formal methods under itself; initiation is possible in either House, there is no joint sitting, and the President cannot veto the passed Bill.
+
+**Ans: B. There are two methods of Constitutional Amendment
+mentioned in Article 368(2) of the Constitution-
+(1) First, an amendment to the Constitution may be initiated
+only by the introduction of a Bill for the purpose in either
+House of Parliament, and when the Bill is passed in each
+House by a majority of the total membership of that House
+and by a majority of not less than two-thirds of members
+present and voting, it shall be presented to the President
+who shall give his assent to the Bill, and thereupon the
+Constitution shall stand amended in accordance with the
+terms of the Bill.**
+
+</details>
+
+**Q20. State PCS 2013**
+The President’s power to veto a Bill for amendment of
+the Constitution has been taken away by substituting
+the word ‘shall give his assent’ by which amendment?
+
+A. 44th Amendment
+B. 23rd Amendment
+C. 24th Amendment
+D. 42nd Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 24th Amendment substituted mandatory assent and removed any presidential veto over an amendment Bill.
+
+**Ans: C. According to Article 74, the President shall act in accordance
+with the advice of the Council of Ministers.**
+
+</details>
+
+**Q21. State PCS 2020**
+Which of the following statement is correct regarding
+Article 368 of the Constitution of India?
+(i) Article 368 was amended by the 24th Constitution
+Amendment Act, 1971.
+(ii) Article 368 was amended by the 101st Constitution
+Amendment Act, 2016. Codes:
+
+A. (i) is true and (ii) is false
+B. (i) is false and (ii) is true
+C. Both (i) and (ii) are true
+D. Both (i) and (ii) are false
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 24th amended Article 368 on constituent power and assent; the 101st amended it to include GST Council-related federal protection.
+
+**Ans: C. Article 368 in Part XX of the Constitution deals with the
+powers of Parliament to amend the Constitution and its
+procedure.**
+
+</details>
+
+**Q22. State PCS 1992**
+When was the first Bill for the amendment of the Indian
+Constitution presented?
+
+A. 1950
+B. 1951
+C. 1955
+D. 1958
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The first Constitution Amendment Bill was introduced in 1951.
+
+**Ans: B. The First Amendment Bill to the Indian Constitution was
+presented in 1951 through which Articles 15, 19, 85, 87,
+174, 176, 341, 342, 372, 376 were amended and two new
+Articles 31A and 31B and the 9th Schedule were added to
+the Constitution.**
+
+</details>
+
+**Q23. UPPCS 2009**
+The First Constitution Amendment Bill passed in 1951
+was related to
+
+A. Security of the country
+B. Security of the Prime Minister
+C. Protection of agrarian reforms in certain States
+D. Scheduled castes and Scheduled tribes
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The First Amendment inserted Articles 31A and 31B and the Ninth Schedule to protect agrarian reform laws.
+
+**Ans: C. The first Constitution Amendment 1951 added two new
+Articles 31A and 31B; and the 9th Schedule to the Constitution
+for the protection of agrarian reforms in certain States.**
+
+</details>
+
+**Q24. IAS 2003**
+The Ninth Schedule to the Indian Constitution was
+added by:
+
+A. First Amendment
+B. Eighth Amendment
+C. Ninth Amendment
+D. Forty Second Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ninth Schedule came from the First Amendment; the Ninth Amendment concerned the Berubari boundary settlement.
+
+**Ans: A. The Ninth Schedule came from the First Amendment; the Ninth Amendment concerned the Berubari boundary settlement.**
+
+</details>
+
+**Q25. State PCS 2023**
+Which of the following schedule of the Constitution
+of India was added to the Constitution by the first
+Constitutional Amendment?
+
+A. Sixth
+B. Tenth
+C. Ninth
+D. Seventh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Constitution originally had eight Schedules; the First Amendment added the Ninth Schedule.
+
+**Ans: C. The Constitution as adopted on November 26, 1949,
+contained a Preamble, 395 Articles and 8 Schedules.**
+
+</details>
+
+**Q26. IAS 2023**
+In India, which one of the following Constitutional
+Amendments was widely believed to be enacted
+to overcome the judicial interpretations of the
+Fundamental Rights?
+
+A. 1st Amendment
+B. 42nd Amendment
+C. 44th Amendment
+D. 86th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The First Amendment responded to early judicial interpretations of Fundamental Rights concerning speech, reservation and land reform.
+
+**Ans: A. The First Amendment was passed in 1951 by the Provisional
+Parliament, members of which had just finished drafting the
+Constitution as part of the Constituent Assembly.**
+
+</details>
+
+**Q27. State PCS 2018**
+"The age of a Judge of the Supreme Court of India
+shall be determined by such authority and in such
+manner as Parliament may by laws provide" inserted
+by
+
+A. 15th Constitution Amendment
+B. 16th Constitution Amendment
+C. 17th Constitution Amendment
+D. 18th Constitution Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 15th Amendment inserted the rule that a Supreme Court judge’s age is determined by the authority and manner Parliament provides by law.
+
+**Ans: A. The 15th Constitutional Amendment Act, 1963 says,
+"The age of a Judge of the Supreme Court of India shall
+be determined by such authority and in such manner as
+Parliament may by law provide."
+16th Constitutional Amendment Act, 1963 (herein after
+the Bill) was informally referred to as the 'Anti-secession
+Bill' It was designed to prevent the local political leaders
+in different regions within India from using the electoral
+process to peacefully propagate secession from the union.**
+
+</details>
+
+**Q28. State PCS 2020**
+When was the special rights and privy purse enjoyed
+by the Indian Princely States abolished?
+
+A. 1950
+B. 1949
+C. 1962
+D. 1971
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 26th Amendment abolished recognition, privileges and privy purses of former rulers in 1971.
+
+**Ans: D. Privy purse conferred special status to the ruling families of
+former princely states.**
+
+</details>
+
+**Q29. State PCS 2014**
+Match List-I with List-II.
+
+| List-I: Amendment | List-II: Subject |
+|---|---|
+| A. 13th Amendment | i. Nagaland |
+| B. 18th Amendment | ii. Anti-defection law |
+| C. 39th Amendment | iii. Clarified “State” |
+| D. 52nd Amendment | iv. Elections of the President, Vice-President, Speaker and Prime Minister placed beyond challenge |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. (ii) (iv) (i) (iii)
+B. (iv) (iii) (ii) (i)
+C. (iii) (ii) (i) (iv)
+D. (i) (iii) (iv) (ii)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct chain is 13th–Nagaland, 18th–meaning of State, 39th–specified high elections, and 52nd–anti-defection.
+
+**Ans: D. A–i, B–iii, C–iv and D–ii.**
+
+</details>
+
+**Q30. UPPCS 2017**
+Match List-I with List-II.
+
+| List-I: Provision | List-II: Amendment |
+|---|---|
+| A. Curtailment of judicial review | 1. 61st Amendment |
+| B. Abolition of the Right to Property as a Fundamental Right | 2. 42nd Amendment |
+| C. Lowering voting age from 21 to 18 | 3. 38th Amendment |
+| D. Addition of “Secular” to the Preamble | 4. 44th Amendment |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. 1 2 4 3
+B. 2 4 1 3
+C. 3 4 1 2
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Judicial-review curtailment is 38th, property as a Fundamental Right ended by 44th, voting age fell through 61st, and Secular came through 42nd.
+
+**Ans: C. A–3, B–4, C–1 and D–2.**
+
+</details>
+
+**Q31. IAS 2001**
+Match List-I with List-II.
+
+| List-I: Amendment | List-II: Subject |
+|---|---|
+| A. 69th Amendment Act, 1991 | 1. State-level Rent Tribunals |
+| B. 75th Amendment Act, 1994 | 2. No SC reservation in Arunachal Pradesh Panchayats |
+| C. 80th Amendment Act, 2000 | 3. Constitution of Panchayats |
+| D. 83rd Amendment Act, 2000 | 4. Tenth Finance Commission recommendations |
+|  | 5. NCT status for Delhi |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. 5 1 4 2
+B. 1 5 3 4
+C. 5 1 3 4
+D. 1 5 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The matches are 69th–Delhi NCT, 75th–Rent Tribunals, 80th–Tenth Finance Commission sharing, and 83rd–Arunachal Panchayat SC-reservation exception.
+
+**Ans: A. A–5, B–1, C–4 and D–2.**
+
+</details>
+
+**Q32. State PCS 2013**
+Match List-I with List-II.
+
+| List-I: Provision | List-II: Amendment |
+|---|---|
+| A. Right to form cooperative societies under Article 19(1)(c) | i. 81st Amendment, 2000 |
+| B. Protection of SC/ST reservation in backlog vacancies | ii. 91st Amendment, 2003 |
+| C. National Judicial Appointments Commission | iii. 97th Amendment, 2011 |
+| D. Limiting the Council of Ministers | iv. 99th Amendment, 2014 |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. (iii) (ii) (iv) (i)
+B. (i) (iv) (ii) (iii)
+C. (iii) (i) (iv) (ii)
+D. (ii) (iii) (i) (iv)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The matches are 97th–cooperatives, 81st–SC/ST backlog vacancies, 99th–NJAC, and 91st–Council of Ministers cap; the 99th was voided in 2015.
+
+**Ans: C. A–iii, B–i, C–iv and D–ii.**
+
+</details>
+
+**Q33. UPPCS 2024**
+Match the Amendments with their year of implementation:
+A. 42nd Amendment 1. 1985
+B. 52nd Amendment 2. 2011
+C. 86th Amendment 3. 1976
+D. 96th Amendment 4. 2002
+Select the correct answer from the codes given below :
+Code :
+A B C D
+
+A. 2 1 3 4
+B. 4 3 2 1
+C. 1 2 3 4
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The enactment years are 42nd–1976, 52nd–1985, 86th–2002 and 96th–2011; Right to Education implementation followed on 1 April 2010.
+
+**Ans: D. A–3, B–1, C–4 and D–2.**
+
+</details>
+
+**Q34. State PCS 2005**
+Which of the following Constitutional Amendment Acts
+was termed as Mini Constitution?
+
+A. 42nd
+B. 44th
+C. 46th
+D. 50th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 42nd Amendment changed an unusually large number of provisions and is called the Mini-Constitution.
+
+**Ans: A. Several provisions of the Constitution were altered, and
+several new provisions were added by the 42nd Constitutional
+Amendment in 1976.**
+
+</details>
+
+**Q35. State PCS 2023**
+Consider the following statements regarding the 42nd
+Amendment to the Constitution of India :
+1. It added three words to the Preamble—‘Socialist’,
+‘Secular’ and ‘Integrity’.
+2. It added eight Fundamental Duties to the
+Constitution.
+3. It added new Directive Principles, i.e., Article 39A,
+Article 43A and Article 47.
+4. It granted power to the President, in consultation
+with the Election Commission, to disqualify
+members of the State Legislatures.
+Which of the above statements are incorrect ?
+
+A. 1 and 2
+B. 3 and 4
+C. 2 and 3
+D. 1 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 42nd added ten—not eight—Fundamental Duties; its new DPSPs were Articles 39A, 43A and 48A, not Article 47.
+
+**Ans: C. Statements 2 and 3 are incorrect.**
+
+</details>
+
+**Q36. UPPCS 2003**
+Which of the following Constitutional Amendment is
+related to the Fundamental Duties?
+
+A. 42nd
+B. 44th
+C. 46th
+D. 50th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 42nd Amendment inserted Part IVA and the original ten Fundamental Duties in Article 51A.
+
+**Ans: A. The fundamental duties of citizens were added to the
+Constitution by the 42nd Amendment in 1976 on the
+recommendation of the Swaran Singh committee.**
+
+</details>
+
+**Q37. State PCS 2021**
+What is not true about the 44th Constitutional
+Amendment?
+
+A. This amendment was brought in by Janata Government
+(1977-79)
+B. With this constitutional amendment, changes in 42nd
+Constitutional Amendment was made
+C. Through this amendment first time it was made clear
+in Constitution that President cannot act against the
+advice of Council of Ministers
+D. As per this amendment President can return the advice
+of Council of Ministers for reconsideration as many
+times as he want till he is satisfied
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 42nd first made ministerial advice explicitly binding; the 44th allows the President to return advice only once. Therefore both C and D are untrue.
+
+**Ans: C and D. Both statements are untrue for the reasons stated above.**
+
+</details>
+
+**Q38. IAS 2002**
+Which one of the following amendments to the Indian
+Constitution empowers the President to send back any
+matter for reconsideration by the Council of Ministers?
+
+A. 39th
+B. 40th
+C. 42nd
+D. 44th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 44th Amendment permits one reconsideration of ministerial advice; repeated returns are not allowed.
+
+**Ans: D. The 44th Amendment permits one reconsideration of ministerial advice; repeated returns are not allowed.**
+
+</details>
+
+**Q39. IAS 2019**
+Consider the following statements:
+1. The 44th Amendment to the Constitution of India
+introduced an Article placing the election of the
+Prime Minister beyond judicial review.
+2. The Supreme Court of India struck down the 99th
+Amendment to the Constitution of India as being
+violative of the independence of judiciary.
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 39th—not 44th—placed specified elections beyond review; the Supreme Court struck the 99th/NJAC amendment for violating judicial independence.
+
+**Ans: B. In 1975, Parliament passed the 39th amendment to the Constitution which removed the authority of the Supreme Court
+to adjudicate petitions regarding elections of the President,
+Vice President, Prime Minister and Speaker of Lok Sabha.**
+
+</details>
+
+**Q40. State PCS 2021**
+Which Constitutional Amendment Act dealing with
+National Judicial Appointments Commission, was
+declared unconstitutional by the Constitution Bench
+of the Supreme Court?
+
+A. 98th Constitutional Amendment Act
+B. 97th Constitutional Amendment Act
+C. 99th Constitutional Amendment Act
+D. 100th Constitutional Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 99th Amendment created the NJAC, but the Supreme Court declared it unconstitutional in 2015.
+
+**Ans: C. The Ninety-ninth Amendment of the Constitution of
+India, officially known as The Constitution (Ninetyninth Amendment) Act, 2014, formed a National Judicial
+Appointments Commission.**
+
+</details>
+
+**Q41. UPPCS 1996/1992**
+Which of the following has banned floor crossing by
+the member elected on a party ticket to the legislature?
+
+A. 52nd Constitutional Amendment Act
+B. Representation of Public Law
+C. 42nd Constitutional Amendment
+D. 44th Constitutional Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 52nd Amendment inserted the Tenth Schedule and the anti-defection regime.
+
+**Ans: A. The Anti-Defection Law was introduced by the 52nd
+Constitution Amendment Act, 1985, by adding the 10th
+Schedule to the Constitution of India.**
+
+</details>
+
+**Q42. UPPCS 2008/2015**
+Which one of the following Constitutional Amendments
+introduced the anti-defection provision in the
+Constitution for the first time?
+
+A. 54th Amendment
+B. 53rd Amendment
+C. 52nd Amendment
+D. 51st Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Anti-defection entered the Constitution through the 52nd Amendment.
+
+**Ans: C. Anti-defection entered the Constitution through the 52nd Amendment.**
+
+</details>
+
+**Q43. UPPCS 2006**
+52nd Constitution Amendment is related to–
+
+A. Defection
+B. Reservation
+C. Election
+D. Protection of minorities
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 52nd Amendment is the anti-defection amendment.
+
+**Ans: A. The 52nd Amendment is the anti-defection amendment.**
+
+</details>
+
+**Q44. State PCS 2016**
+In which Amendment was the evil of defections from
+the political parties in India enacted?
+
+A. 52nd Amendment
+B. 54th Amendment
+C. 56th Amendment
+D. 58th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 52nd, not the nearby 54th, 56th or 58th, addressed political defections.
+
+**Ans: A. The 52nd, not the nearby 54th, 56th or 58th, addressed political defections.**
+
+</details>
+
+**Q45. UPPCS 2016**
+The authoritative text of the Indian Constitution in
+Hindi was authorized to be published by which of the
+following constitutional amendments?
+
+A. 57th Amendment, 1987
+B. 58th Amendment, 1987
+C. 59th Amendment, 1988
+D. 60th Amendment, 1988
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 58th Amendment authorised publication of the authoritative Hindi text of the Constitution.
+
+**Ans: B. Under the 58th Amendment Act, 1987, the authoritative
+text of the Indian Constitution in Hindi was authorized to
+be published as there has been a general demand for the
+publication of the authoritative text of the Constitution in
+Hindi, incorporating therein all the subsequent amendments.**
+
+</details>
+
+**Q46. UPPCS 2014**
+Which one of the following Amendments to the
+Constitution is related to the Lowering of the age of
+voters?
+
+A. 61st Amendment
+B. 44th Amendment
+C. 42th Amendment
+D. 24th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 61st Amendment lowered voting age from 21 to 18.
+
+**Ans: A. 61st Constitutional Amendment Act, 1988 reduced the age
+for the Right to Vote from 21 to 18 years.**
+
+</details>
+
+**Q47. UPPCS 2009**
+By Which one of the following Constitutional
+Amendments Delhi became ‘National Capital Region’?
+
+A. 61st Amendment
+B. 69th Amendment
+C. 71st Amendment
+D. 79th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 69th Amendment created the National Capital Territory of Delhi under Article 239AA; the booklet’s ‘Region’ wording means Territory.
+
+**Ans: B. The Constitution (69th Amendment) Act, 1991 provided the
+status of the National Capital Territory to Delhi.**
+
+</details>
+
+**Q48. UPPCS 2022**
+By which amendment of the Constitution, ‘Delhi’ has
+been made National Capital Region?
+
+A. 73rd
+B. 69th
+C. 75th
+D. 70th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 69th, not the 70th, gave Delhi NCT status.
+
+**Ans: B. The 69th, not the 70th, gave Delhi NCT status.**
+
+</details>
+
+**Q49. UPPCS 2015**
+Which one of the following, Amendments of the
+Constitution of India Converts the Union Territory of
+Delhi into the National Capital Region of Delhi?
+
+A. 69th Amendment
+B. 70th Amendment
+C. 73rd Amendment
+D. 74th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 69th Amendment converted Delhi’s constitutional status to the NCT of Delhi.
+
+**Ans: A. The 69th Amendment converted Delhi’s constitutional status to the NCT of Delhi.**
+
+</details>
+
+**Q50. UPPCS 2008**
+The 79th Amendment of the Indian Constitution is
+related to –
+
+A. Centre-State Relations
+B. Establishment of two political parties
+C. Fundamental Rights
+D. Reservation of SCs and STs in the Lok Sabha and
+State Legislative Assemblies
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 79th Amendment extended SC/ST seat reservation and Anglo-Indian representation for ten years.
+
+**Ans: D. The 79th Constitutional Amendment (1999), extended the
+reservation period for Scheduled Castes, Scheduled Tribes
+and Anglo-Indians in Lok Sabha and State Legislative
+Assemblies for 10 years.**
+
+</details>
+
+**Q51. UPPCS 2013**
+Which Constitutional Amendment makes provision for
+the reservation of seats for SC’s and STs in Lok Sabha
+and State Assemblies?
+
+A. 76th
+B. 77th
+C. 78th
+D. 79th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 79th Amendment is the listed extension concerning SC/ST reserved seats.
+
+**Ans: D. The 79th Amendment is the listed extension concerning SC/ST reserved seats.**
+
+</details>
+
+**Q52. IAS 2002**
+The 93rd Constitution Amendment Bill deals with the:
+
+A. Continuation of reservation for backward classes in
+government jobs.
+B. Free and compulsory education for all children
+between the age of 6 and 14 years
+C. Reservation of 30 percent posts for women in
+government recruitments
+D. Allocation of more number of Parliamentary seats for
+recently formed States
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 93rd Amendment Bill became the 86th Amendment Act, inserting Article 21A for children aged six to fourteen.
+
+**Ans: B. The 93rd Constitutional Amendment Bill deals with free and
+compulsory education for all children between the ages of 6
+and 14 years.**
+
+</details>
+
+**Q53. UKPCS 2012**
+‘Right to Education’ introduced through 86th
+Amendment came into force:
+
+A. In 2002
+B. In 2004
+C. In 2008
+D. In 2010
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 86th Amendment was enacted in 2002, but Article 21A and the RTE framework came into force on 1 April 2010.
+
+**Ans: D. The 86th Constitutional Amendment Act, 2002 made
+education a Fundamental Right through insertion of a new
+Article 21A.**
+
+</details>
+
+**Q54. State PCS 2025**
+Which Constitutional Amendment has added
+Fundamental Right to Free and Compulsory Education
+of Childern between the age of 6 to 14 years?
+
+A. By 68th Amendment
+B. By 85th Amendment
+C. By 86th Amendment
+D. By 87th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 86th Amendment inserted Article 21A for free and compulsory education from ages six to fourteen.
+
+**Ans: C. The 86th Amendment inserted Article 21A for free and compulsory education from ages six to fourteen.**
+
+</details>
+
+**Q55. State PCS 2023**
+Through which Amendment of the Constitution has the
+Right to Education became a Fundamental Right?
+
+A. First Constitutional Amendment
+B. Forty-second Constitutional Amendment
+C. Forty-Fourth Constitutional Amendment
+D. Eighty-sixth Constitutional Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 86th Amendment made education for ages six to fourteen a Fundamental Right.
+
+**Ans: D. The 86th Amendment made education for ages six to fourteen a Fundamental Right.**
+
+</details>
+
+**Q56. UPPCS 2006**
+Which Amendment to the Constitution inserted a new
+Article 21 A in the Constitution providing Right to
+Education?
+
+A. 86th Amendment
+B. 87th Amendment
+C. 88th Amendment
+D. 89th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 21A was inserted by the 86th Amendment.
+
+**Ans: A. According to the 86th Constitutional Amendment Act, 2002
+a new Article 21-A was added to the Constitution which
+made Right to Education a fundamental right for children in
+the age group of 6-14 years.**
+
+</details>
+
+**Q57. UPPCS 2022**
+Right to Education has been included into the
+Fundamental Rights by the
+
+A. Constitution (93th Amendment) Act, 2005
+B. Constitution (71th Amendment) Act, 1992
+C. Constitution (103th Amendment) Act, 2019
+D. Constitution (86th Amendment) Act, 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 86th Amendment, not the 93rd or 103rd, constitutionalised the Right to Education.
+
+**Ans: D. The 86th Amendment, not the 93rd or 103rd, constitutionalised the Right to Education.**
+
+</details>
+
+**Q58. UKPCS 2025**
+Consider the following statements about ‘Right to
+Education’ and choose the correct answer :
+ 1. It try to achieve the aim of ‘Education for
+All’.
+ 2. Earlier a provision of free and compulsory
+education was provided in Part IV of the
+Constitution.
+ 3. It became Fundamental Right after 91st
+Constitutional Amendment.
+
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Education for all and the earlier Article 45 directive are correct; Article 21A came through the 86th, not 91st, Amendment.
+
+**Ans: A. The ‘Right to Education’ as a Fundamental Right was added
+through Article 21A by the Constitution (Eighty-sixth
+Amendment) Act, 2002; therefore, linking it to the 91st
+Amendment is incorrect.**
+
+</details>
+
+**Q59. State PCS 2016**
+Which Constitutional Amendment bifurcated the
+Combined National Commission for Scheduled Castes
+and Scheduled Tribes into two separate bodies?
+
+A. 42nd Amendment
+B. 44th Amendment
+C. 89th Amendment
+D. 93rd Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 89th Amendment split the combined commission into NCSC under Article 338 and NCST under Article 338A.
+
+**Ans: C. The National Commission for Scheduled Castes and
+Scheduled Tribes was bifurcated into the National Commission
+for Scheduled Castes and the National Commission
+for Scheduled tribes through the 89th Constitutional
+Amendment Act, 2003.**
+
+</details>
+
+**Q60. IAS 2007**
+Which of the following Constitutional Amendment Acts
+seeks that the size of the Councils of Ministers at the
+Centre and in a State must not exceed 15 percent of
+the total number of members of the Lok Sabha and the
+total number of members of the Legislative Assembly
+of that State, respectively?
+
+A. 91st
+B. 93rd
+C. 95th
+D. 97th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 91st Amendment capped Union and State Councils of Ministers at 15 percent of Lok Sabha or Assembly strength respectively.
+
+**Ans: A. The number of ministers in the Council of Ministers was
+not mentioned in the Constitution till 2003, so it was fully
+dependent upon the discretion of the Prime Minister or the
+Chief Minister.**
+
+</details>
+
+**Q61. UKPCS 2025**
+The size of the Council of Ministers was fixed up to 15
+percent of the total members of Lok Sabha by which
+of the following Constitutional Amendments ?
+
+A. 91st Constitutional Amendment Act, 2003
+B. 92nd Constitutional Amendment Act, 2004
+C. 74th Constitutional Amendment Act, 1992
+D. 86th Constitutional Amendment Act, 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 91st Amendment inserted Article 75(1A), fixing the Union Council of Ministers ceiling at 15 percent.
+
+**Ans: A. The Ninety-first Constitutional Amendment Act, 2003
+inserted clause (1A) in Article 75 of the Constitution,
+according to which the total number of Ministers in the
+Council of Ministers, including the Prime Minister, shall
+not exceed 15% of the total membership of the Lok Sabha.**
+
+</details>
+
+**Q62. State PCS 2024**
+Which of the following Constitutional Amendments
+restricts the total number of Ministers, including the
+Prime Minister in the Council of Ministers shall not
+exceed fifteen percent of the total number of members
+of the House of the People?
+
+A. 86th Amendment
+B. 52nd Amendment
+C. 91st Amendment
+D. 73rd Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Union Ministry cap of 15 percent is a 91st Amendment rule.
+
+**Ans: C. The Union Ministry cap of 15 percent is a 91st Amendment rule.**
+
+</details>
+
+**Q63. State PCS 2022**
+The 91st Amendment of the Indian Constitution
+provides
+
+A. ceiling of the size of Council of Ministers
+B. no enhancement of seats of Lok Sabha and Vidhan
+Sabha till 2026
+C. bifurcation of the National Commission of SCs and
+STs.
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 91st Amendment chiefly strengthened anti-defection rules and imposed ministry-size ceilings.
+
+**Ans: A. The Constitution (Ninety-First Amendment) Act, 2003,
+restricted the size of Council of Ministers to 15% of
+legislative members with the objective of strengthening
+the Anti Defection laws.**
+
+</details>
+
+**Q64. UPPCS 2015/2017**
+By which Constitutional Amendment the number of
+Central Ministers has been limited to 15% of the total
+number of the members of the Lok Sabha?
+
+A. 91st Amendment
+B. 92nd Amendment
+C. 90th Amendment
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 91st Amendment limits Central ministers to 15 percent of Lok Sabha strength.
+
+**Ans: A. The 91st Amendment limits Central ministers to 15 percent of Lok Sabha strength.**
+
+</details>
+
+**Q65. UPPCS 2004**
+Which of the following Amendments of the Indian
+Constitution limits the size of the Union Ministry?
+
+A. 78th amendment
+B. 91st amendment
+C. 88th amendment
+D. 90th amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Union Ministry size limit comes from the 91st Amendment.
+
+**Ans: B. The Union Ministry size limit comes from the 91st Amendment.**
+
+</details>
+
+**Q66. UKPCS 2012**
+By which Constitutional Amendment OBCs have
+been given 27 percent reservation in the admission to
+educational institutions?
+
+A. 92nd
+B. 93rd
+C. 94th
+D. 96th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 93rd Amendment enabled reservation in educational institutions through Article 15(5), subject to the minority-institution exception.
+
+**Ans: B. The 93rd Amendment Act (passed in 2006) provided
+OBCs with 27% reservation in admission to educational
+institutions.**
+
+</details>
+
+**Q67. State PCS 2012**
+97th Constitutional Amendment Act of 2012 is concerned
+with……….
+
+A. Free and compulsory education for children upto the
+age of 14 years
+B. Organization and working of co-operative societies
+C. Stringent measures to deal with terrorism
+D. Provision of Lokpal to prevent corruption
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 97th Amendment constitutionalised cooperative societies through Article 19(1)(c), Article 43B and Part IXB.
+
+**Ans: B. The 97th Amendment of the Constitution was notified
+on January 12, 2012 to provide Constitutional status to
+Cooperative organizations.**
+
+</details>
+
+**Q68. UPPCS 2016**
+By which of the following amendments of the Indian
+Constitution, the term ‘Co-operative Societies’ was
+added in Article 19(1) (c)?
+
+A. 42nd Amendment Act, 1976
+B. 73rd Amendment Act, 1993
+C. 97th Amendment Act, 2011
+D. 36th Amendment Act, 1975
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 97th Amendment added the right to form cooperative societies to Article 19(1)(c).
+
+**Ans: C. The 97th Amendment added the right to form cooperative societies to Article 19(1)(c).**
+
+</details>
+
+**Q69. UPPCS 2016**
+According to Article 243(ZJ) of the Indian Constitution,
+the maximum number of directors of a cooperative
+society can be –
+
+A. 21
+B. 15
+C. 11
+D. 7
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243ZJ caps the board of a cooperative society at twenty-one directors.
+
+**Ans: A. According to Article 243 (ZJ) of the Indian Constitution, the
+Board of a co-operative society consists of such a number of
+Directors as provided by the Legislature of the State, but the
+maximum number of Directors shall not exceed twenty-one.**
+
+</details>
+
+**Q70. State PCS 2022**
+The 100th Constitutional Amendment Act, 2015 was
+brought for exchange of territories between India and
+Bangladesh. What is not true in reference to this?
+
+A. Under this, India transferred 51 enclaves to Bangladesh
+whereas Bangladesh transferred 111 enclaves to India.
+B. Under this, 6.1 km. undemarcated boundary land was
+demarcated.
+C. Due to this, territories of four States got changed.
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The numbers in A are reversed: India transferred 111 enclaves to Bangladesh and received 51 from Bangladesh.
+
+**Ans: A. It reverses the enclave transfer figures.**
+
+</details>
+
+**Q71. State PCS 2019**
+Which of the following constitution (Amendment) Act
+provides for goods and Services Tax (G.S.T.)?
+
+A. The Constitutions (Ninety Eighth) Amendment Act. 2012
+B. The Constitutions (Ninety Eighth) Amendment Act. 2014
+C. The Constitutions (One-Hundreadth and First)
+Amendment Act. 2015
+D. The Constitutions (One Hundred and First) Amendment
+Act. 2016
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Constitution (One Hundred and First Amendment) Act, 2016 created the GST framework.
+
+**Ans: D. The Constitution Amendment (101st) Act, 2016, introduced
+a national GST in India on 1st July 2017.**
+
+</details>
+
+**Q72. UPPCS 2016**
+Match List-I with List-II.
+
+| List-I: Amendment | List-II: Provision amended |
+|---|---|
+| A. 94th Amendment Act, 2006 | 1. Article 164 |
+| B. 95th Amendment Act, 2009 | 2. Article 334 |
+| C. 96th Amendment Act, 2011 | 3. Eighth Schedule |
+| D. 103rd Amendment Act, 2019 | 4. Article 15 |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. 1 2 3 4
+B. 1 2 4 3
+C. 1 3 4 2
+D. 1 4 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The sequence is 94th–Article 164, 95th–Article 334, 96th–Eighth Schedule and 103rd–Article 15.
+
+**Ans: A. A–1, B–2, C–3 and D–4.**
+
+</details>
+
+**Q73. State PCS 2021**
+President Ram nath Kovind granted assent to which
+Constitutional Amendment Act on 18th August, 2021?
+
+A. 106th
+B. 107th
+C. 108th
+D. 105th
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 105th Amendment received assent on 18 August 2021 and restored States’ authority over their own SEBC lists.
+
+**Ans: D. President Ram Nath Kovind granted assent to the 105th
+Constitutional Amendment Act, 2021 on 18th August, 2021.**
+
+</details>
+
+**Q74. UPPCS 2021**
+Consider the following and arrange these in chronological
+order:
+I. Golak Nath Case
+II. Keshavanand Bharti Case
+III. 24th Constitution Amendment Act
+IV. 42nd Constitution Amendment Act
+Select the correct answer from the codes given below.
+Codes:
+
+A. I, III, II, IV
+B. I, II, III, IV
+C. III, I, II, IV
+D. III, I, IV, II
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The order is Golaknath 1967, 24th Amendment 1971, Kesavananda Bharati 1973 and 42nd Amendment 1976.
+
+**Ans: A. I, III, II and IV.**
+
+</details>
+
+**Q75. UPPCS 2002**
+In which of the following cases the Supreme Court
+limited the power of Parliament to amend the
+Constitution for the first time?
+
+A. A.K. Gopalan Vs. The State of Madras
+B. Golaknath Vs.The State of Punjab
+C. Keshavananda Bharati Vs. The State of Kerala
+D. Minerva Mills Vs. The Union of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Golaknath in 1967 was the first case to limit Parliament’s amendment power by holding Fundamental Rights unamendable.
+
+**Ans: B. The Supreme Court limited the power of Parliament to amend
+the Constitution for the first time in the case of Golaknath
+Vs.**
+
+</details>
+
+**Q76. UPPCS 2005**
+The Keshavananda Bharati Case is important because-
+
+A. It sets aside the orders of the executive
+B. The Supreme Court interpreted the basic features of
+the Constitution
+C. It brought the Union Government in the dock.
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kesavananda Bharati is important for formulating the basic-structure limitation.
+
+**Ans: B. The Supreme Court laid down the 'Basic Structure Doctrine'
+in the case of Keshavananda Bharati Vs State of Kerala,
+1973.**
+
+</details>
+
+**Q77. State PCS 2023**
+In which case(s) did the Supreme Court of India give
+for the first time the doctrine of ‘basic structure’ of the
+Constitution?
+
+A. Golaknath vs. State of Punjab
+B. Kesavananda Bharati vs. State of Kerala
+C. Minerva Mills vs. Union of India
+D. Both (A) and (B)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Supreme Court first formulated the basic-structure doctrine in Kesavananda Bharati in 1973.
+
+**Ans: B. The Supreme Court of India examined the concept of the
+"Basic structure" of the constitution for the first time in
+Kesavananda Bharti v.**
+
+</details>
+
+**Q78. UPPCS 2022**
+The concept of ‘Basic Structure of the Constitution’
+was propounded by the Supreme Court in the case of
+
+A. Golaknath vs State of Punjab – 1967
+B. Yusuf vs State of Bombay – 1954
+C. Keshvanand Bharti vs State of Kerala – 1973
+D. Chitralekha vs State of Mysore – 1964
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Basic structure was propounded in Kesavananda Bharati v State of Kerala in 1973.
+
+**Ans: C. Basic structure was propounded in Kesavananda Bharati v State of Kerala in 1973.**
+
+</details>
+
+**Q79. State PCS 2025**
+The doctrine of 'basic structure' in the context of
+Indian Constitution was propounded in which of the
+following cases for the first time?
+
+A. Sankari Prasad V. Union of India
+B. Champakam Dorairajan V. State of Madras.
+C. Golaknath V. State of Punjab
+D. Kesavananda Bharati V. State of Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kesavananda Bharati, not Golaknath, first stated the basic-structure doctrine.
+
+**Ans: D. Kesavananda Bharati, not Golaknath, first stated the basic-structure doctrine.**
+
+</details>
+
+**Q80. UPPCS 2016/2020**
+The Supreme Court of India enunciated the doctrine
+of ‘Basic Structure of the Constitution’ in
+
+A. The Golakhnath case in 1967
+B. The Sajjan Singh case in 1965
+C. The Shankari Prasad case in 1951
+D. The Keshavananda Bharati case in 1973
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The doctrine was enunciated in Kesavananda Bharati in 1973.
+
+**Ans: D. The doctrine was enunciated in Kesavananda Bharati in 1973.**
+
+</details>
+
+**Q81. UPPCS 2016**
+In India, who is competent to amend Fundamental
+Rights of the citizens?
+
+A. Lok Sabha
+B. Rajya Sabha
+C. Parliament
+D. Supreme Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Parliament may amend Fundamental Rights under Article 368, subject to the basic-structure limit.
+
+**Ans: C. Parliament may amend Fundamental Rights under Article 368, subject to the basic-structure limit.**
+
+</details>
+
+**Q82. IAS 1994**
+The basic structure theory of the Constitution of India
+implies that –
+
+A. Certain features of the Constitution are so essential to
+it that they cannot be abrogated.
+B. Fundamental rights cannot be abridged or taken away.
+C. The Constitution cannot be amended except in
+accordance with the procedure laid down in Article
+368.
+D. The Preamble of the Constitution cannot be amended
+for it is not a part of the Constitution and at the same
+time represents it real spirit.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Basic structure means certain essential constitutional features cannot be abrogated even by amendment.
+
+**Ans: A. The basic structure theory of the Constitution of India implies
+that certain features of the Constitution are so essential to it
+that they cannot be abrogated.**
+
+</details>
+
+**Q83. UPPCS 2009**
+Which Amendment of the Constitution provides that
+no law passed to give effect to Directive Principles of
+State Policy contained in Articles 39(b) & (c) shall be
+deemed to be void on the ground that it abridges the
+rights conferred by Articles 14 and 19 ?
+
+A. 25th Amendment
+B. 28th Amendment
+C. 42nd Amendment
+D. 44th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 25th Amendment inserted Article 31C protection for laws implementing Articles 39(b) and 39(c).
+
+**Ans: A. 25th Amendment of the Constitution, 1971 provided that no
+law passed to give effect to Directive Principles of State
+Policy contained in Articles 39(b) and (c) shall be void on
+the ground that it abridges the rights conferred by Articles
+14, 19 or 31 (Article 31- was repealed by 44th Amendments
+Act- 1978).**
+
+</details>
+
+**Q84. State PCS 2013**
+Consider the following statements:
+I. Through 44th Constitutional Amendment, 1978
+all the Directive Principles of State Policy have
+been given preference over Fundamental Rights
+mentioned in Articles 14 and 19.
+II. Supreme Court has laid down in its verdict in
+Minerva Mills Case, 1980 that the preference
+given only to Directive Principles of State
+Policy mentioned in Article 39(b) and 39(c) over
+Fundamental Rights mentioned in Articles 14 and
+19 is Constitutional.
+
+A. Neither I nor II is correct.
+B. Only I is correct.
+C. Only II is correct.
+D. Both I and II are correct.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 44th did not subordinate Articles 14 and 19 to every DPSP; Minerva Mills preserved only the limited 39(b)/(c) protection.
+
+**Ans: C. Directive Principles of State Policy were given preference over
+Fundamental rights mentioned in Articles14, 19 and 31 through
+the 42nd Constitutional Amendment Act, 1976.**
+
+</details>
+
+**Q85. State PCS 2024**
+Match List-A with List-B.
+
+| List-A: Case | List-B: Amendment challenged |
+|---|---|
+| A. Indira Gandhi v Raj Narain | i. 42nd Amendment |
+| B. Minerva Mills v Union of India | ii. 52nd Amendment |
+| C. Kihoto Hollohan v Zachillhu | iii. 39th Amendment |
+| D. P. Sambamurthy v State of A.P. | iv. 32nd Amendment |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. (i) (iii) (iv) (ii)
+B. (ii) (iii) (i) (iv)
+C. (iv) (ii) (iii) (i)
+D. (iii) (i) (ii) (iv)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The matches are Indira Gandhi–39th, Minerva Mills–42nd, Kihoto Hollohan–52nd and P. Sambamurthy–32nd.
+
+**Ans: D. A–iii, B–i, C–ii and D–iv.**
+
+</details>
+
+**Q86. IAS 2024**
+Consider the following statements regarding 'Nari
+Shakti Vandan Adhiniyam':
+1. Provisions will come into effect from the 18th Lok
+Sabha.
+2. This will be in force for 15 years after becoming
+an Act.
+3. There are provisions for the reservation of seats
+for Scheduled Castes Women within the quota
+reserved for the Scheduled Castes.
+Which of the statements given above are correct?
+
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The reservation does not automatically begin with the 18th Lok Sabha; it begins after the post-Act census and delimitation. Statements 2 and 3 are correct, including the SC/ST women sub-quota.
+
+**Ans: C. Statements 2 and 3 only are correct.**
+
+</details>
+
+**Q87. IAS 2005**
+The Constitution (98th Amendment) Bill is related to:
+
+A. Empowering the centre to levy and appropriate service
+tax
+B. Constitution of the National Judicial Commission
+C. Readjustment of electoral constituencies on the basis
+of the population census 2001
+D. The demarcation of new boundaries between States.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Constitution (98th Amendment) Bill concerned a proposed National Judicial Commission; it did not become the later 99th Amendment/NJAC framework.
+
+**Ans: B. The 98th Constitutional Amendment Bill was presented by
+Arun Jaitley, the former Minister of Law and Justice in the
+NDA Government.**
+
+</details>
+
+**Q88. UKPCS 2025**
+101st Constitutional Amendment Act is related with :
+
+A. Reservation for Economically Weaker Section (EWS)
+B. Delimitation of Constituencies
+C. Anti-defection Law
+D. Nationwide Goods and Services Tax (GST)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 101st Amendment created the nationwide GST framework, including Articles 246A, 269A and 279A.
+
+**Ans: D. The 101st Constitutional Amendment Act (2016) relates to
+the constitutional provisions of the Goods and Services Tax
+(GST).**
+
+</details>
+
+**Q89. UPPCS 2014**
+How many Constitutional Amendments in India have
+been implemented up to 2013 ?
+
+A. 68
+B. 78
+C. 88
+D. 98
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The booklet count is 98 amendments by May 2013; the source ends before completing its later comparison.
+
+**Ans: D. By May, 2013, 98 Constitutional Amendments had
+been implemented.**
 
 </details>
 

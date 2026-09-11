@@ -174,6 +174,9 @@ D. Ishwaravarman — Jaunpur stone inscription
 ---
 
 ## 10.4 Policies of Harshavardhana
+- **Harsha's Grand Religious Assemblies (UP Angle):**
+  - **Kannauj Assembly (643 CE):** Held in honour of Chinese Buddhist pilgrim **Xuanzang (Hiuen Tsang)** to popularise Mahayana Buddhism. Attended by 20 tributary kings (including Bhaskaravarman of Kamarupa) and thousands of Buddhist, Jaina and Vedic scholars.
+  - **Prayag Mahamoksha Parishad (Quinquennial Assembly):** Held every 5 years at the **Triveni Sangam in Prayag (Allahabad)**. Harsha celebrated his **6th Mahamoksha Parishad** in 643 CE in the presence of Xuanzang. Harsha gave away all his royal treasury wealth accumulated over five years in charity to Buddhist monks, Brahmins, poor and destitute, even gifting his personal jewels and garments (taking an ordinary unstitched cloth from his sister Rajyashri).
 
 **Digvijaya in the north | Narmada is the southern wall | charity plus assembly**
 

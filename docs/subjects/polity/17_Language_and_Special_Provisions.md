@@ -10,7 +10,7 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 
 > **Sources baked in:** Laxmikanth (Official Language + Special Provisions), Part XVII, Part X, Part XXI, 5th/6th Schedules, OL Act 1963/67, PIB classical-language notifications, UPPCS PYQs 2018–2025
 > **Weight:** ★★★ — English **15 years** (2023); Part XVII / Part X (2023); 8th **Bhojpuri out** (2025); 350B **7th not 9th** (2024); **371J** Hyderabad-Karnataka (2020); 6th Sch = **Tripura not Nagaland** (2019); PESA **1996** (2022)
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Official Language + Temporary / Transitional / Special Provisions)
 > **Current Affairs:** Classical = **11** (3 Oct 2024); 370 inoperative + SC Dec 2023; J&K Assembly **2024**; Ladakh 6th-Schedule demand **not** granted
 
 ---
@@ -408,6 +408,10 @@ D. Both 1 and 2
 ---
 
 ## Part XXI — Temporary, Transitional & Special
+
+- Part **XXI** spans Articles **369–392** and contains temporary, transitional and special provisions.
+- **Special Category Status** was an administrative planning classification; it is not a status granted by Article 371.
+- The designation **Sadr-e-Riyasat** was changed to **Governor** by the Jammu and Kashmir Constitution (Sixth Amendment) Act, **1965**.
 
 **Arts. 369–392.** Heading is the trap: **370 was “temporary”**; **371–371J are “special”** and still live. **370** + **35A** inoperative **5 Aug 2019**; J&K and Ladakh are **UTs** (J&K has a legislature; Ladakh does not).
 
@@ -838,7 +842,690 @@ D. support of 1/3 of its members
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** The paper treats **343(3) / 120 / 348** ordinary legislation as the “OL provision.” Do **not** confuse with a 368 rewrite of Article 343.
+**Logic:** The booklet records a Hindi–English wording conflict. The English stem points to ordinary legislation under Article 343(3), while the Hindi stem can be read as changing the constitutional text through Article 368.
+
+**Ans: A for the English stem; B for the Hindi variant.** The English paper treats **343(3) / 120 / 348** ordinary legislation as the “official-language provision,” requiring a simple majority. A rewrite of Articles 343 or 344 requires the Article 368 special majority but no State ratification.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Official Language
+
+> Part XVII · Arts. 343–351 · Eighth Schedule · classical languages
+
+**Q2. RAS/RTS (Pre) 2013**
+
+Which Article of the Indian Constitution provides the procedure for adoption of the official language or languages of a State?
+
+A. Article 343
+B. Article 344
+C. Article 345
+D. Article 346
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 343 concerns the Union, Article 344 the Commission and parliamentary committee, Article 345 State official languages, and Article 346 inter-government communication.
+
+**Ans: C. Article 345. A State legislature may adopt one or more languages in use in the State, or Hindi, for the State’s official purposes.**
+
+</details>
+
+**Q4. UPPCS (Mains) 2016**
+
+Which one of the following is correct about the languages mentioned in the Constitution of India?
+
+A. A State can compel linguistic minorities to choose their mother tongue as the medium of instruction in primary schools.
+B. Angika is included in the Eighth Schedule.
+C. Hindi is the national language of India.
+D. Bodo is a recognised language in the Eighth Schedule.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 350A asks States to provide mother-tongue facilities; it does not authorise compulsion. Angika is not scheduled, and the Constitution names no national language.
+
+**Ans: D. Bodo is in the Eighth Schedule. It was added by the Constitution (Ninety-second Amendment) Act, 2003.**
+
+</details>
+
+**Q5. UPPCS (Pre) 2002/2003**
+
+Which Article of the Constitution provides that every State shall endeavour to provide adequate facilities for instruction in the mother tongue at the primary stage of education?
+
+A. Article 349
+B. Article 350
+C. Article 350A
+D. Article 351
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 350A concerns mother-tongue instruction at the primary stage; Article 350 concerns grievance representations, Article 350B the linguistic-minorities officer, and Article 351 promotion of Hindi.
+
+**Ans: C. Article 350A. It was inserted by the Seventh Amendment Act, 1956.**
+
+</details>
+
+**Q6. UPPCS (Pre) 1998**
+
+Under Article 344 of the Constitution, the first Official Language Commission was established
+
+A. in 1950 under the chairmanship of K. M. Munshi
+B. in 1955 under the chairmanship of B. G. Kher
+C. in 1960 under the chairmanship of M. C. Chagla
+D. in 1965 under the chairmanship of Humayun Kabir
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 344 required the first Commission five years after commencement. President Rajendra Prasad appointed it on 7 June 1955.
+
+**Ans: B. It was established in 1955 under B. G. Kher. The Commission submitted its report in 1956.**
+
+</details>
+
+**Q7. CGPCS (Pre) 2005**
+
+Which of the following languages was added to the Eighth Schedule of the Constitution in 2003?
+
+A. Konkani
+B. Sindhi
+C. Manipuri
+D. Santhali
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sindhi entered through the Twenty-first Amendment in 1967. Konkani and Manipuri entered with Nepali through the Seventy-first Amendment in 1992.
+
+**Ans: D. Santhali. The Ninety-second Amendment Act, 2003 added Bodo, Dogri, Maithili and Santhali.**
+
+</details>
+
+**Q8. UP RO/ARO (Pre) 2021**
+
+In 1993, which of the following languages was not included in the Eighth Schedule?
+
+A. Maithili
+B. Santhali
+C. Bodo
+D. Dogri
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The date makes the printed item defective. Each listed language was outside the Schedule in 1993; all four were added together by the Ninety-second Amendment Act, 2003.
+
+**Ans: No single option is uniquely correct. In 1993, Maithili, Santhali, Bodo and Dogri were all not included; all four were added in 2003, not 1993.**
+
+</details>
+
+**Q9. IAS (Pre) 2007**
+
+Under which one of the following Constitutional Amendment Acts were four languages added to the Eighth Schedule, thereby raising their number to 22?
+
+A. Constitution (Ninetieth Amendment) Act
+B. Constitution (Ninety-first Amendment) Act
+C. Constitution (Ninety-second Amendment) Act
+D. Constitution (Ninety-third Amendment) Act
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The amendment ladder is Twenty-first: one language; Seventy-first: three languages; Ninety-second: four languages.
+
+**Ans: C. The Constitution (Ninety-second Amendment) Act, 2003 added Bodo, Dogri, Maithili and Santhali.**
+
+</details>
+
+**Q10. MPPCS (Pre) 2005**
+
+Which of the following languages is not included in the Eighth Schedule of the Constitution?
+
+A. Urdu
+B. Nepali
+C. Konkani
+D. Bhojpuri
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Urdu was one of the original 14 languages. Nepali and Konkani entered through the Seventy-first Amendment.
+
+**Ans: D. Bhojpuri is not included in the Eighth Schedule.**
+
+</details>
+
+**Q11. UPPCS (Pre) 1990**
+
+Which of the following languages has been added to the Eighth Schedule by constitutional amendment?
+
+A. Sanskrit
+B. Sindhi
+C. Punjabi
+D. Konkani
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sanskrit and Punjabi were in the original 14. Sindhi was added by the Twenty-first Amendment, while Konkani was later added by the Seventy-first Amendment.
+
+**Ans: B and D. Both Sindhi and Konkani were added by constitutional amendment. The booklet correctly carries a dual key.**
+
+</details>
+
+**Q12. UPPCS (Pre) 1993**
+
+Which of the following is not included in the Eighth Schedule of the Constitution?
+
+A. Gujarati
+B. Kashmiri
+C. Rajasthani
+D. Dogri
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gujarati and Kashmiri were original entries. Dogri was added in 2003, while Rajasthani remains outside the Schedule.
+
+**Ans: C. Rajasthani is not included in the Eighth Schedule.**
+
+</details>
+
+**Q14. IAS (Pre) 2024**
+
+The Constitution (Seventy-first Amendment) Act, 1992 amended the Eighth Schedule to include which of the following languages?
+
+1. Konkani
+2. Manipuri
+3. Nepali
+4. Maithili
+
+Select the correct answer using the code given below:
+
+A. 1, 2 and 3
+B. 1, 2 and 4
+C. 1, 3 and 4
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Konkani, Manipuri and Nepali belong to the Seventy-first Amendment group. Maithili belongs to the Ninety-second Amendment group.
+
+**Ans: A. Statements 1, 2 and 3 only are correct.**
+
+</details>
+
+**Q15. MPPCS (Pre) 1993**
+
+Which three languages were added to the Eighth Schedule by the Seventy-first Amendment?
+
+A. Sindhi, Manipuri and Konkani
+B. Konkani, Kashmiri and Nepali
+C. Nepali, Konkani and Manipuri
+D. Nepali, Konkani and Assamese
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sindhi entered in 1967; Kashmiri and Assamese were original entries. The Seventy-first Amendment added three languages in 1992.
+
+**Ans: C. Nepali, Konkani and Manipuri.**
+
+</details>
+
+**Q16. CGPCS (Pre) 2018**
+
+Which of the following languages is not included in the Eighth Schedule of the Constitution?
+
+A. English
+B. Hindi
+C. Sanskrit
+D. Urdu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hindi, Sanskrit and Urdu were among the original 14 scheduled languages. English continues for Union purposes by statute but is not scheduled.
+
+**Ans: A. English is not included in the Eighth Schedule.**
+
+</details>
+
+**Q17. UKPCS (Mains) 2006 / UPPCS (Mains) 2004**
+
+The number of official languages recognised by the Constitution in the Eighth Schedule is
+
+A. 16
+B. 17
+C. 18
+D. 20
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** This is year-locked and uses older wording. There were 18 scheduled languages before the Ninety-second Amendment added four in 2003; the current count is 22, which is absent from the options.
+
+**Ans: C. 18 under the intended pre-Ninety-second-Amendment frame. For any current question, the count is 22.**
+
+</details>
+
+**Q18. UPPCS (GIC) 2010**
+
+The number of languages recognised under the Eighth Schedule of the Indian Constitution is
+
+A. 22
+B. 20
+C. 18
+D. 17
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The original 14 became 15 in 1967, 18 in 1992 and 22 after the four additions of 2003.
+
+**Ans: A. 22 languages.**
+
+</details>
+
+**Q19. UPPCS (Pre) 2011**
+
+Which of the following States has given Sanskrit the status of second official language?
+
+A. Bihar
+B. Chhattisgarh
+C. Uttar Pradesh
+D. Uttarakhand
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Do not transfer Uttar Pradesh’s Hindi–Urdu pairing to its neighbouring State. Uttarakhand recognises Hindi as its official language and Sanskrit as its second official language.
+
+**Ans: D. Uttarakhand gave Sanskrit the status of second official language in 2010.**
+
+</details>
+
+**Q20. UPPCS (Pre) 1998**
+
+Which one of the following languages included in the Eighth Schedule is spoken by the largest number of people?
+
+A. Bengali
+B. Gujarati
+C. Marathi
+D. Telugu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The options omit Hindi. Bengali has the largest mother-tongue count among these four in both the older census frame and Census 2011.
+
+**Ans: A. Bengali. Under Census 2011, Hindi ranks first overall, followed by Bengali and Marathi.**
+
+</details>
+
+**Q21. UPPCS (Pre) 2001**
+
+Which of the following is the correct descending order of Indian languages used as mother tongues?
+
+1. Bengali
+2. Marathi
+3. Tamil
+4. Telugu
+
+A. 1, 4, 3, 2
+B. 1, 2, 4, 3
+C. 1, 4, 2, 3
+D. 4, 2, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The question is census-dated. Census 2001 gives Bengali above Telugu, Marathi and Tamil; Census 2011 gives the same relative order among these four.
+
+**Ans: C. Bengali, Telugu, Marathi and Tamil. Their Census 2011 shares are approximately 8.03%, 6.70%, 6.86% and 5.70% respectively, with Marathi actually marginally above Telugu in 2011; the key reflects the older census frame.**
+
+</details>
+
+**Q22. RAS/RTS (Pre) 2003**
+
+The percentage of Hindi-speaking Indians is about
+
+A. 50
+B. 45
+C. 40
+D. 35
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** This estimate is census-dated: Hindi accounted for 41.03% by Census 2001 and 43.63% by Census 2011.
+
+**Ans: C. About 40% in the question’s Census 2001 frame. The 2011 figure is closer to 45%.**
+
+</details>
+
+**Q23. IAS (Pre) 1994**
+
+Which one of the following is a language of Baluchistan but, from the philological aspect, belongs to the Dravidian family?
+
+A. Brahui
+B. Kui
+C. Pargi
+D. Pengo
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Brahui is geographically separated from the main concentration of Dravidian languages but is classified within that family.
+
+**Ans: A. Brahui.**
+
+</details>
+
+**Q24. Rajasthan PCS (Pre) 2024**
+
+The Government of India recently approved the inclusion of additional languages in the category of classical languages. How many languages in total now have classical-language status?
+
+A. 6
+B. 8
+C. 10
+D. 11
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** On 3 October 2024, Marathi, Pali, Prakrit, Assamese and Bengali joined the six earlier classical languages.
+
+**Ans: D. 11 languages now have classical-language status.**
+
+</details>
+
+**Q25. BPSC (Pre) 2025**
+
+Which Indian languages are accorded the status of a classical language?
+
+A. Telugu
+B. Marathi
+C. Bengali
+D. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Telugu received the status in 2008. Marathi and Bengali were included in the five-language expansion of 3 October 2024.
+
+**Ans: D. More than one of the above. All three listed languages have classical-language status.**
+
+</details>
+
+**Q26. IAS (Pre) 2014**
+
+Consider the following languages:
+
+1. Gujarati
+2. Kannada
+3. Telugu
+
+Which of the languages given above has/have been declared a classical language by the Government?
+
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kannada and Telugu received classical status in 2008. Gujarati has not received it.
+
+**Ans: C. Kannada and Telugu only.**
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Temporary, Transitional and Special Provisions
+
+> Part XXI · Arts. 369–392 · former Art. 370 · Arts. 371–371J · Special Category Status
+
+**Q1. UPPCS (Pre) 1997**
+
+Which Article of the Indian Constitution deals with special provisions with respect to different States?
+
+A. Art. 369
+B. Art. 370
+C. Art. 371
+D. Art. 372
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part XXI places the State-specific special provisions in Articles 371–371J; Article 369 is temporary legislative power, while Article 370 concerned Jammu and Kashmir.
+
+**Ans: C. Art. 371. Articles 371 to 371 J of the Indian Constitution deal with special provisions in relation to the States of Maharashtra, Gujarat, Nagaland, Assam, Manipur, Andhra Pradesh, Telangana, Sikkim, Mizoram, Arunachal Pradesh, Goa and Karnataka.**
+
+</details>
+
+**Q2. UPPCS (Mains) 2010**
+
+Article 371-B of the Constitution of India makes special provisions for which of the following State/s?
+
+A. Maharashtra and Gujarat
+B. Assam
+C. Nagaland
+D. Manipur
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The letter map is 371A–Nagaland, 371B–Assam and 371C–Manipur.
+
+**Ans: B. Assam. According to temporary, transitional and special provisions, of Part XXI of the Indian Constitution special provisions have been made for the tribal areas in Assam under Article 371-B.**
+
+</details>
+
+**Q3. UPPCS (Mains) 2011**
+
+Article 371 of the Constitution makes special provisions for which of the following States?
+
+A. Jammu and Kashmir
+B. Maharashtra and Gujarat
+C. Nagaland
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 371 itself makes special provision for Maharashtra and Gujarat; the lettered articles cover the other listed States.
+
+**Ans: B. Maharashtra and Gujarat. Article 371 of the Constitution makes special provisions for the States of Maharashtra and Gujarat.**
+
+</details>
+
+**Q5. UPPCS (Mains) 2014**
+
+In India, there is only one Constitution for the Centre as well as for each state. However, a state is exception to it. That state is
+
+A. Andhra Pradesh
+B. Jammu Kashmir
+C. Tamil Nadu
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Historically, Jammu and Kashmir alone had a separate State Constitution under the former Article 370 arrangement; that arrangement ended in 2019.
+
+**Ans: B. Jammu and Kashmir was the historical exception because it had a separate State Constitution. Article 370 was made inoperative on 6 August 2019, and the 2019 Reorganisation Act created the Union Territories of Jammu and Kashmir and Ladakh.**
+
+</details>
+
+**Q6. MPPCS (Pre) 2025**
+
+Which of the following is not a generally accepted parameter fro granting special status to a state in India?
+
+A. Hilly and difficult terrain
+B. Low population density
+C. Sizeable SC and ST population
+D. Strategic location along international borders
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Gadgil criteria refer to hilly terrain, low density or a sizeable tribal population, strategic borders, weak infrastructure and poor fiscal viability. A sizeable Scheduled Caste population is not the standard parameter.
+
+**Ans: C. A sizeable Scheduled Caste and Scheduled Tribe population is not the standard formulation. The criterion is low population density or a sizeable tribal population; Special Category Status is not an Article 371 status.**
+
+</details>
+
+**Q7. MPPCS (Pre) 1992**
+
+Providing special status to the state of Jammu and Kashmir under the Indian constitution means -
+
+A. Parliament does not have the right to legislate.
+B. Kashmir has different Constitution.
+C. Only the President can make Acts.
+D. Only Legislative Assembly has the right to legislate.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the former Article 370 arrangement, Jammu and Kashmir had its own Constitution; Parliament was not wholly barred from legislating and neither the President nor the Assembly had exclusive law-making power.
+
+**Ans: B. Kashmir had a different Constitution under the former arrangement. Jammu and Kashmir became a Union Territory on 31 October 2019.**
+
+</details>
+
+**Q8. CGPCS (Pre) 2015**
+
+Article 370 of Indian Constitution is –
+
+A. A Regular Provision
+B. A Permanent Provision
+C. A Temporary and Transitional Provision
+D. An Acting Provision
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 370 appeared in Part XXI as a temporary provision, not as a regular or permanent provision.
+
+**Ans: C. A Temporary and Transitional Provision. Article 370 of the Indian Constitution was a temporary provision with respect to the State of Jammu and Kashmir, which was abrogated on 6 August 2019.**
+
+</details>
+
+**Q9. UPPCS (Pre) 2010**
+
+Article 370 of the Indian Constitution is related to –
+
+A. State of Jammu and Kashmir
+B. State of Sikkim
+C. State of Nagaland
+D. State of Manipur
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 370 dealt with the former State of Jammu and Kashmir; Sikkim, Nagaland and Manipur are associated with Articles 371F, 371A and 371C respectively.
+
+**Ans: A. State of Jammu and Kashmir. Article 370 dealt with the former State of Jammu and Kashmir; Sikkim, Nagaland and Manipur are associated with Articles 371F, 371A and 371C respectively.**
+
+</details>
+
+**Q10. UPPCS (Mains) 2016**
+
+Articles of the Constitution of India that apply on their own to the State of Jammu and Kashmir, are
+
+A. Articles 1 and 241
+B. Articles 2 and 356
+C. Articles 1 and 370
+D. Articles 370 and 371-A
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the historical text of Article 370, Articles 1 and 370 applied to Jammu and Kashmir of their own force; other provisions were extended through the constitutional mechanism then in operation.
+
+**Ans: C. Articles 1 and 370 applied of their own force under the historical arrangement.**
+
+</details>
+
+**Q11. UKPCS (Pre) 2016**
+
+According to which Article of the Constitution, the state of Jammu and Kashmir has got a Special Status?
+
+A. Article 1
+B. Article 360
+C. Article 270
+D. Article 370
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The former special constitutional arrangement for Jammu and Kashmir rested on Article 370; Articles 1, 270 and 360 address the Union, tax distribution and Financial Emergency.
+
+**Ans: D. Article 370 historically provided the special arrangement for Jammu and Kashmir; it was made inoperative on 6 August 2019.**
+
+</details>
+
+**Q12. UPPCS (Pre) 1997**
+
+When was the designation Sadr-e-Riyasat changed to Governor for the state of Jammu and Kashmir?
+
+A. 1948
+B. 1950
+C. 1952
+D. 1967
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Jammu and Kashmir Constitution (Sixth Amendment) Act changed Sadr-e-Riyasat to Governor in 1965. None of the printed years is correct.
+
+**Ans: No listed option is correct. The change was made in 1965 by the Sixth Amendment to the Jammu and Kashmir Constitution.**
+
+</details>
+
+**Q13. UPPCS (Pre) 2019**
+
+Arrange the following events in a chronological order and select the correct answer from the codes given below : I. Maharaja Hari Singh signed the Instrument of Accession. II. Constitution of India was enforced. III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir. IV. New Constitution of the State of Jammu and Kashmir came into force. Codes :
+
+A. I, III, IV, II
+B. III, IV, I, II
+C. I, II, III, IV
+D. IV, III, II, I
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct order is accession on 26 October 1947, commencement of the Constitution of India on 26 January 1950, ratification on 17 November 1956 and commencement of the Jammu and Kashmir Constitution on 26 January 1957. The booklet incorrectly prints 26 November 1950.
+
+**Ans: C. I, II, III, IV. The dates are 26 October 1947, 26 January 1950, 17 November 1956 and 26 January 1957 respectively.**
+
+</details>
+
+**Q14. BPSC (Pre) 2019**
+
+Which one of the following States was never granted the Special Category Status (SCS) by Central Government?
+
+A. Bihar
+B. Sikkim
+C. Himachal Pradesh
+D. Jammu and Kashmir
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bihar never received Special Category Status, whereas Sikkim, Himachal Pradesh and the former State of Jammu and Kashmir did. This administrative classification is distinct from Article 371.
+
+**Ans: A. Bihar was never granted Special Category Status.**
 
 </details>
 

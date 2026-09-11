@@ -15,6 +15,58 @@
 
 ---
 
+## High-Yield Annual Awards Spine (2024–2025 Foundation)
+
+> **UPPCS Pattern Alert:** Every year UPPCS sets 3 to 6 direct questions on international and national awards. Memorise winners, discovery fields, and state/country connections.
+
+### 1. Nobel Prizes 2024 (Complete Board)
+
+| Category | Winner(s) | Country / Institution | Field / Key Contribution |
+|----------|-----------|-----------------------|--------------------------|
+| **Physiology or Medicine** | **Victor Ambros** & **Gary Ruvkun** | USA (Univ of Massachusetts & Harvard) | Discovery of **microRNA** and its role in post-transcriptional gene regulation. |
+| **Physics** | **John J. Hopfield** & **Geoffrey E. Hinton** | USA / UK-Canada (Princeton & Univ of Toronto) | Foundational discoveries and inventions that enable **machine learning with artificial neural networks** (Hopfield network & Boltzmann machine). |
+| **Chemistry** | **David Baker** (1/2) <br> **Demis Hassabis** & **John M. Jumper** (1/2) | USA (Univ of Washington) <br> UK (Google DeepMind) | Computational protein design (Baker) and **protein structure prediction via AlphaFold2** (Hassabis & Jumper). |
+| **Literature** | **Han Kang** | South Korea | For her intense poetic prose that confronts historical traumas and exposes the fragility of human life (Works: *The Vegetarian*, *Human Acts*). First South Korean author to win. |
+| **Peace** | **Nihon Hidankyo** | Japan | Grassroots movement of atomic bomb survivors from Hiroshima and Nagasaki (Hibakusha), for efforts to achieve a world free of nuclear weapons. |
+| **Economic Sciences** (Sveriges Riksbank) | **Daron Acemoglu**, **Simon Johnson**, **James A. Robinson** | USA (MIT & Univ of Chicago) | Studies of **how institutions are formed and affect prosperity** (Explaining why nations fail / inclusive vs extractive institutions). |
+
+---
+
+### 2. Major National Honours & Literary Awards (2024–2025)
+
+#### Bharat Ratna 2024 (5 Luminaries Conferred)
+- **Karpoori Thakur** (Posthumous) — Former Chief Minister of Bihar; socialist icon ("Jannayak") championing OBC reservations (Mungeri Lal Commission).
+- **Lal Krishna Advani** — Former Deputy Prime Minister and Home Minister of India.
+- **P.V. Narasimha Rao** (Posthumous) — 9th Prime Minister of India; architect of 1991 Economic Liberalisation / LPG reforms and Look East Policy.
+- **Chaudhary Charan Singh** (Posthumous) — 5th Prime Minister of India and former Chief Minister of **Uttar Pradesh**; champion of peasant rights and UP Zamindari Abolition Act. *(Crucial UP Fact)*
+- **Dr. M.S. Swaminathan** (Posthumous) — Renowned agricultural scientist; "Father of India's Green Revolution".
+
+#### 58th Jnanpith Award (for year 2023, announced 2024)
+- **Gulzar (Sampooran Singh Kalra)** — Celebrated Urdu poet, lyricist, film director, Sahitya Akademi & Dadasaheb Phalke awardee.
+- **Jagadguru Rambhadracharya** — Renowned polyglot Sanskrit scholar, spiritual leader, and founder/head of Tulsi Peeth at **Chitrakoot (Uttar Pradesh)**. *(High-yield UP question)*
+- *(Context: 57th Jnanpith winner was Damodar Mauzo for Konkani literature).*
+
+#### 54th Dadasaheb Phalke Award (Presented Oct 2024 for 2022)
+- Conferred on legendary actor and cultural icon **Mithun Chakraborty** at the 70th National Film Awards ceremony for his monumental contribution to Indian cinema. *(53rd recipient was Waheeda Rehman).*
+
+#### 70th National Film Awards (Key Winners)
+- **Best Feature Film:** *Aattam* (The Play) — Malayalam (Directed by Anand Ekarshi).
+- **Best Actor in a Leading Role:** **Rishab Shetty** for *Kantara* (Kannada).
+- **Best Actress in a Leading Role:** Jointly to **Nithya Menen** for *Thiruchitrambalam* (Tamil) and **Manasi Parekh** for *Kutch Express* (Gujarati).
+- **Best Direction:** **Sooraj R. Barjatya** for *Uunchai* (Hindi).
+- **Best Feature Film Promoting National, Social and Environmental Values:** *Kutch Express*.
+
+#### International Literary Awards
+- **Booker Prize 2024:** **Samantha Harvey** (UK) for her novel ***Orbital*** (compact novel set aboard the International Space Station; first ISS-set Booker winner).
+- **International Booker Prize 2024:** **Jenny Erpenbeck** (Author, Germany) and **Michael Hofmann** (Translator) for the German novel ***Kairos***.
+- **33rd Saraswati Samman (2023/24):** Poet **Prabha Varma** for his Malayalam novel-in-verse ***Roudra Sathwikam*** (instituted by KK Birla Foundation).
+- **33rd Vyas Samman (2023/24):** Hindi writer **Pushpa Bharati** for her memoir ***Yaadein, Yaadein aur Yaadein*** (KK Birla Foundation).
+
+#### Major Dhyan Chand Khel Ratna 2023/2024
+- Awarded jointly to India's star men's badminton doubles pair: **Chirag Shetty** and **Satwiksairaj Rankireddy** (Asian Games Gold 2023, World No. 1 ranking, BWF World Tour titles).
+
+---
+
 ## January 2026
 
 ### Padma Awards 2026 | announced 25 January 2026

@@ -18,6 +18,45 @@ Before you finish reading any international news, answer these in simple words:
 
 ---
 
+## High-Yield International Summits Foundation (2024–2025 Spine)
+
+> **UPPCS Priority Alert:** International summits, host venues, themes, membership expansions, and declaration names form ~22% of CA questions. Memorise these core institutional anchors.
+
+### 1. 16th BRICS Summit (October 2024 | Kazan, Russia)
+- **Host City & President:** Kazan, Tatarstan (Russia); chaired by Russian President Vladimir Putin.
+- **Theme:** *"Strengthening Multilateralism for Just Global Development and Security"*.
+- **Historic Expansion:** First summit held after the formal induction of new full members: **Egypt, Ethiopia, Iran, and UAE** (Saudi Arabia participated as invited nation; Argentina opted out under Javier Milei).
+- **Outcome Document:** **Kazan Declaration** — reiterated call for reforming the UN Security Council, promoting local currency settlements (BRICS Pay / Cross-Border Payment Initiative), and condemning unilateral coercive measures.
+- **Partner Country Category:** Introduced 13 new "Partner Countries" (e.g., Turkey, Indonesia, Malaysia, Thailand, Vietnam, Belarus, Cuba, Nigeria, Uganda, Uzbekistan, Kazakhstan, Bolivia, Algeria).
+- **India–China Bilateral Breakthrough:** PM Narendra Modi and President Xi Jinping held their first formal bilateral summit in 5 years on the sidelines, endorsing the border patrolling pact along the LAC in eastern Ladakh (Depsang and Demchok).
+
+---
+
+### 2. 19th G20 Leaders' Summit (November 2024 | Rio de Janeiro, Brazil)
+- **Host City & Chair:** Rio de Janeiro, Brazil; chaired by Brazilian President Luiz Inácio Lula da Silva.
+- **Theme:** *"Building a Just World and a Sustainable Planet"*.
+- **Key Initiative:** Formal launch of the **Global Alliance Against Hunger and Poverty** (founded with over 80 countries, international organisations, and development banks).
+- **G20 Troika Transition:** **India (2023) → Brazil (2024) → South Africa (2025)** — the first historic Troika composed consecutively of developing economies (Global South). Handover of G20 gavel to South African President Cyril Ramaphosa for the 2025 summit.
+- **Rio Declaration:** Emphasized taxing ultra-high-net-worth individuals, climate finance, and accelerating reform of the international financial architecture.
+
+---
+
+### 3. UNFCCC COP29 Climate Summit (November 2024 | Baku, Azerbaijan)
+- **Host City & Chair:** Baku, Azerbaijan; chaired by Mukhtar Babayev.
+- **Known as:** The **"Finance COP"**.
+- **NCQG (New Collective Quantified Goal):** Replaced the outdated $100 billion annual climate finance goal. Adopted a new target: developed countries to lead in mobilizing at least **$300 billion annually by 2035** for developing nations (developing nations termed the amount grossly inadequate compared to their estimated $1.3 trillion annual need).
+- **Article 6 Carbon Markets:** Finalized long-delayed operational rules for **Article 6.4 of the Paris Agreement**, paving the way for a centralized, UN-supervised international carbon credit trading market.
+- **Next COP Host:** **COP30** to be hosted in **Belém, Brazil (November 2025)** in the Amazon biome.
+
+---
+
+### 4. 50th G7 Summit (June 2024 | Apulia / Fasano, Italy)
+- **Host:** Borgo Egnazia, Fasano, Apulia (Italy); chaired by Italian PM Giorgia Meloni.
+- **India's Participation:** PM Narendra Modi attended as an **Invited Outreach Nation** (his first foreign visit after taking oath for his third term).
+- **Key Outcome:** Agreement to provide a **$50 billion loan to Ukraine** backed by the interest/windfall profits from frozen Russian sovereign assets. Launched the Energy Growth in Africa initiative.
+
+---
+
 ## January 2026
 
 ### India–EU leaders’ meeting | 27 January 2026 | New Delhi

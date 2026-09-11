@@ -12,7 +12,7 @@
 
 > **Sources baked in:** Laxmikanth (PRIs + ULBs), Constitution Parts IX / IXA / IXB, 11th & 12th Schedules, PESA 1996, 97th Amd, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Part **IX** vs **IXA**; 73rd **24 Apr 1993** / 74th **1 June 1993**; SEC **not** ECI; age **21 not 25** (2025); women **≥1/3**; 11th **29** / 12th **18**; Mayor ≠ Commissioner; Cantonment = **Defence**, not 74th; DPC **4/5** vs MPC **2/3**; first MC = **Madras 1688**; PESA **1996**
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Panchayati Raj and Local Bodies); teaching gap-pass from dump
 > **Current Affairs:** National PR Day **24 April**; UP **50%** women by State law; 17-odd UP Nagar Nigams (count moves)
 
 ---
@@ -157,6 +157,7 @@ D. Both true and R is the correct explanation of A
 Local government travelled from colonial local boards to a constitutional third tier in three broad stages — **Ripon (1882)**, **Nagaur (1959)**, and the **73rd Amendment (1993)**.
 
 - In **1688**, the **Madras Municipal Corporation** was set up — the first municipal corporation in India (its urban-side detail is covered later in this chapter).
+- In **1830**, **Charles Metcalfe** described Indian village communities as "**little republics**" that were nearly self-sufficient.
 - In **1870**, **Mayo's Resolution** began financial decentralisation to the provinces, and started the practice of rural local funds.
 - In **1882**, **Lord Ripon** issued his famous resolution, later called the "**Magna Carta** of local self-government"; Ripon is remembered as the "**Father of local self-government in India**".
 - Ripon's resolution gave local boards a **non-official majority**, an **elected non-official chairperson**, regular elections, and some taxing power.
@@ -1462,6 +1463,3970 @@ D. None of the above
 <summary>Show answer</summary>
 
 **Ans: C.**
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Panchayati Raj and Local Bodies
+
+> Article 40 · 73rd and 74th Amendments · Gram Sabha · committees · Parts IX and IXA · SEC and SFC · municipalities · PESA · community development
+
+**Q1. MPPCS (Pre) 2020**
+
+Who speaks of India's self-reliant social system 'The rural system in India is a tiny Republic'?
+
+A. Charles Metcalfe
+B. Burke
+C. Mill
+D. Cunningham
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In 1830, Sir Charles Metcalfe, the then-acting Governor General of India, wrote: "The village communities are little republics, having nearly everything they want within themselves and almost independent of any foreign relations."
+
+**Ans: A. Charles Metcalfe. In 1830, Sir Charles Metcalfe, the then-acting Governor General of India, wrote: "The village communities are little republics, having nearly everything they want within themselves and almost independent of any foreign relations."**
+
+</details>
+
+**Q2. MPPCS (Pre) 2023**
+
+Who was the Father of local Self-Government in India?
+
+A. Lord Dalhousie
+B. Lord Mountbatten
+C. Lord Macaulay
+D. Lord Ripon
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lord Ripon's 1882 resolution on local self-government earned him the title Father of local self-government in India; Dalhousie, Mountbatten, and Macaulay are not linked to that resolution.
+
+**Ans: D. Lord Ripon. Lord Ripon was appointed as Viceroy of India in 1880. Lord Ripon is regarded as the Father of local self-government in India. He formulated the local self-goverment and laid the foundations of representative institutions in India. His scheme of local self-government developed the municipal institutions which have been growing up in the country ever since.**
+
+</details>
+
+**Q3. BPSC (Pre) 1994**
+
+Which Article of the Indian Constitution directs state Government to organize village Panchayats?
+
+A. Article 32
+B. Article 40
+C. Article 48
+D. Article 51
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 40 of the Constitution directs the States to constitute Gram Panchayats.
+
+**Ans: B. Article 40. Article 40 of the Constitution directs the States to constitute Gram Panchayats. It is included in the Directive Principles of State Policy. Article 40 provides that the State shall take steps to organize village Panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-governance.**
+
+</details>
+
+**Q4. UPPCS (Pre) 2015**
+
+Article 40 of the Constitution of India advises the State to work for –
+
+A. Uniform Civil Code
+B. Organization of Village Panchayats
+C. Constitution of Municipalities
+D. Living wages for workers.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Organization of Village Panchayats as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Organization of Village Panchayats. The controlling constitutional or historical fact identifies Organization of Village Panchayats as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q5. BPSC (Pre) 1999**
+
+Panchayati Raj is organized as a unit of SelfGovernment under –
+
+A. Fundamental Rights of Indian Constitution
+B. The Preamble of the Indian Constitution
+C. Directive Principles of State Policy
+D. 73rd Amendment of the Indian Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The local self-government in India has been formulated under the Panchayati Raj System.
+
+**Ans: D. 73rd Amendment of the Indian Constitution. The local self-government in India has been formulated under the Panchayati Raj System. The 73rd Amendment of the Constitution 1992 gave it Constitutional status.**
+
+</details>
+
+**Q6. UPPCS (Pre) 2020**
+
+When did the constitutional third tier of government come into force in India?
+
+A. 1990
+B. 1991
+C. 1992
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Amendment came into force on 24 April 1993. The amendment was enacted in 1992, but the question asks when the constitutional third tier became operative.
+
+**Ans: D. 1993. The 73rd Amendment became operative on 24 April 1993.**
+
+</details>
+
+**Q7. UPPCS (Pre) 2010**
+
+In which year did the constitutional provisions regarding Panchayats and Municipalities come into force?
+
+A. 1991
+B. 1995
+C. 2000
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part IX came into force on 24 April 1993 and Part IXA on 1 June 1993. Therefore, 1993 is the common year in which the Panchayat and municipal provisions became operative.
+
+**Ans: D. 1993. Part IX commenced on 24 April and Part IXA on 1 June.**
+
+</details>
+
+**Q8. CGPCS (Pre) 2022**
+
+What is/are true among the following? (i) By 73rd and 74th Constitutional Amendments, Three-tier Governance System was introduced in the Constitution. (ii) This system was copied from the Constitution of Australia. (iii)74th Constitutional Amendment Act is related to giving Constitutional recognition to Panchayats.
+
+A. (i), (ii) and (iii)
+B. (i) and (iii)
+C. Only (i)
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only statement (i) is correct. The amendments constitutionalised a third tier, but this arrangement was not copied from Australia, and the 74th Amendment concerns municipalities rather than Panchayats. The booklet's key marking all three statements is erroneous.
+
+**Ans: C. Only (i). The published key is incorrect.**
+
+</details>
+
+**Q9. BPSC (Pre) 2020**
+
+The legislative origins of the 73rd Constitutional Amendment Act can be traced back to which Constitutional Amendment Bill?
+
+A. 61st Constitutional Amendment Bill
+B. 62nd Constitutional Amendment Bill
+C. 63rd Constitutional Amendment Bill
+D. 64th Constitutional Amendment Bill
+E. None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 64th Amendment Bill was prepared in 1989 and introduced in the Lok Sabha in July 1989, to confer constitutional status to Panchayati Raj Institutions.
+
+**Ans: D. 64th Constitutional Amendment Bill. The 64th Amendment Bill was prepared in 1989 and introduced in the Lok Sabha in July 1989, to confer constitutional status to Panchayati Raj Institutions. This was the first attempt by any government to do so after independence.**
+
+</details>
+
+**Q10. BPSC / MPPCS (Pre) 2000**
+
+Which Constitutional Amendment granted Constitutional Status to Panchayati Raj Institutions?
+
+A. 73rd Amendment
+B. 71st Amendment
+C. 74th Amendment
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Panchayat Raj System was given a Constitutional Status by 73rd Amendment by inserting Part IX and 11th Schedule to the Constitution.
+
+**Ans: A. 73rd Amendment. Panchayat Raj System was given a Constitutional Status by 73rd Amendment by inserting Part IX and 11th Schedule to the Constitution. Seventy-third Amendment, 1992 came into force on 24 April, 1993.**
+
+</details>
+
+**Q11. UPPCS (Mains) 2015**
+
+Which of the following amendments to the Indian Constitution, provides Constitutional status to ‘Panchayati Raj System’?
+
+A. 71st Amendment
+B. 72nd Amendment
+C. 73rd Amendment
+D. 75th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies 73rd Amendment as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. 73rd Amendment. The controlling constitutional or historical fact identifies 73rd Amendment as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q12. UPPCS / BPSC (Mains) 2001**
+
+The 73rd Amendment of the Constitution of India is related to –
+
+A. Centre-State Relations
+B. Powers of the Supreme Court
+C. Salaries and Privileges of Members of Parliament
+D. Panchayati Raj System
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Panchayati Raj System as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. Panchayati Raj System. The controlling constitutional or historical fact identifies Panchayati Raj System as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q13. RPSC (Pre) 2007**
+
+The Constitutional status has been given to Panchayats under Article –
+
+A. 226
+B. 243
+C. 239
+D. 219
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Amendment Act 1992 added a new Part IX to the Constitution titled “The Panchayats” covering provisions from Article 243 to 243-O; and a new 11th Schedule covering 29 subjects for the functioning of the Panchayats.
+
+**Ans: B. 243. The 73rd Amendment Act 1992 added a new Part IX to the Constitution titled “The Panchayats” covering provisions from Article 243 to 243-O; and a new 11th Schedule covering 29 subjects for the functioning of the Panchayats.**
+
+</details>
+
+**Q14. UPPCS (Pre) 2022**
+
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A) :The 73rd Amendment of the Constitution is considered to be a watershed in the history of local self-government in India. Reason (R): The 73rd Constitution Amendment conferred the much coveted Constitutional status on Panchayats. Select the correct answer from the code given below. Code :
+
+A. (A) is true, but (R) is false
+B. Both (A) and (R) are true and (R) is the correct explanation of (A)
+C. (A) is false, but (R) is true
+D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** The two (73rd and 74th) Amendments to the Constitution mark a watershed in the evolution of local self-government in India.
+
+**Ans: B. Both (A) and (R) are true and (R) is the correct explanation of (A). The two (73rd and 74th) Amendments to the Constitution mark a watershed in the evolution of local self-government in India. The Constitution (Seventy-Third Amendment) Act, 1992, which came into force w.e.f. 24th April, 1993, Part IX was inserted in the Constitution of India and accorded Panchayats a constitutional status as institutions of local self-government for rural India. 73rd and 74th Amendments were made in 1992 during the prime-ministership of P.V. Narasimha Rao.**
+
+</details>
+
+**Q15. UPPCS (Pre) 2024**
+
+Which Amendment acts deal with Local Governance Institutions in India?
+
+A. 63rd and 64th Amendment Acts
+B. 86th and 87th Amendment Acts
+C. 42nd and 43rd Amendment Acts
+D. 73rd and 74th Amendment Acts
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies 73rd and 74th Amendment Acts as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. 73rd and 74th Amendment Acts. The controlling constitutional or historical fact identifies 73rd and 74th Amendment Acts as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q16. MPPCS (Pre) 2005**
+
+Who was the Prime Minister of India at the time of 73rd and 74th Amendments to the Constitution of India pertaining to Panchayats and Negarpalikas?
+
+A. Indira Gandhi
+B. Rajeev Gandhi
+C. P.V. Narsimha Rao
+D. V.P. Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies P.V. Narsimha Rao as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. P.V. Narsimha Rao. The controlling constitutional or historical fact identifies P.V. Narsimha Rao as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q17. BPSC (Pre) 2020**
+
+Which Article gives the list of 29 functions to be performed by the Panchayati Raj Institutions?
+
+A. Article 243(H)
+B. Article 243(E)
+C. Article 243(F)
+D. Article 243(G)
+E. None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243G, subject to the provisions of this constitution, the Legislature of a state may, by law, endow the Panchayats with such powers and authority as may be necessary to enable them to function as an institution of self-government and such law may contain provisions for the devolution of powers and responsibilities upon Panchayats at the appropriate level, subject to such conditions as may be specified therein, with respect toa.
+
+**Ans: D. Article 243(G). According to Article 243G, subject to the provisions of this constitution, the Legislature of a state may, by law, endow the Panchayats with such powers and authority as may be necessary to enable them to function as an institution of self-government and such law may contain provisions for the devolution of powers and responsibilities upon Panchayats at the appropriate level, subject to such conditions as may be specified therein, with respect toa. The preparation of plans for economic development and social justice; b. The implementation of schemes for economic development and social justice as may be entrusted to them including those in relation to the matters listed in the Eleventh Schedule.**
+
+</details>
+
+**Q18. UKPCS (Pre) 2002**
+
+73rd Amendment of the Constitution has provided for: 1. Holding of regular elections to Panchayats. 2. reservation of seats for women at all levels. 3. mandatory transfer of funds to Panchayats as recommended by the State Finance Commission 4. mandatory transfer of powers to Panchayats relating to subjects given in the 11th Schedule. Select the correct answer from the code given below: Code :
+
+A. 1 and 2
+B. 1, 2 and 3
+C. 2, 3 and 4
+D. All the four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 73rd Amendment Act 1992 makes provisions for the Panchayats in Part IX of the Indian Constitution.
+
+**Ans: D. All the four. 73rd Amendment Act 1992 makes provisions for the Panchayats in Part IX of the Indian Constitution. Article 243 to 243-O deal with the Panchayats. Holding of regular election (Article 243 K), reservation of seats for women not less than one-third (Article 243-D), mandatory transfer of funds recommended by State Finance Commission [Article 243I] and mandatory transfer of subjects given in the 11th Schedule were provided by the 73rd Amendment Act -1992 of the Constitution of India. 29 subjects are provided by the Constitution in 11th Schedule for Panchayats.**
+
+</details>
+
+**Q19. UPPCS (Mains) 2006**
+
+Functions to be assigned to Panchayats by 73rd Amendment of the Constitution are mentioned in:
+
+A. Eleventh Schedule
+B. Tenth Schedule
+C. Thirteenth Schedule
+D. Twelfth Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Eleventh Schedule as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: A. Eleventh Schedule. The controlling constitutional or historical fact identifies Eleventh Schedule as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q20. UPPCS / JPSC (Mains) 2016**
+
+How many subjects are provided by 11th schedule of Indian Constitution for Panchayats?
+
+A. 27
+B. 28
+C. 29
+D. 30
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies 29 as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. 29. The controlling constitutional or historical fact identifies 29 as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q21. BPSC (Pre) 2022**
+
+Which of the following is not a part of the Eleventh Schedule of the Constitution?
+
+A. Libraries
+B. Fuel and Fodder
+C. Rural Sports
+D. Technical Training
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 11th Schedule contains the provisions that specify the powers, authority and responsibilities of Panchayats.
+
+**Ans: C. Rural Sports. The 11th Schedule contains the provisions that specify the powers, authority and responsibilities of Panchayats. This schedule was added by the 73rd Amendment Act of 1992. It has 29 matters that do not include Rural Sports.**
+
+</details>
+
+**Q22. CGPCS (Pre) 2024**
+
+In context to Constitution of India which statement is correct?
+
+A. Article 243(A) – Constitution of Panchayats
+B. Article 243(B) – Gram Sabha
+C. Article 243(C) – Composition of Panchayat
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243(A) – Gram Sabha Article 243(B) – Constitution of Panchayats Article 243(C) – Composition of Panchayat In this way the pair in option (c) is correct.
+
+**Ans: C. Article 243(C) – Composition of Panchayat. Article 243(A) – Gram Sabha Article 243(B) – Constitution of Panchayats Article 243(C) – Composition of Panchayat In this way the pair in option (c) is correct. Note : The Question mentions Article 243(A), 243(B) and 243(C), Whereas it should be Article 243A, 243B and 243C. Actually, 243(a) – Definition of 'District' 243(b) – Definition of 'Gram Sabha' 243(c) – Definition of 'Intermediate level'. And Articles 243(A), 243(B), 243(C) does not exist.**
+
+</details>
+
+**Q23. UPPCS (Pre) 2016**
+
+Who among the following is authorized to make provisions with respect to the composition of Panchayats?
+
+A. Governor of State
+B. Legislature of State
+C. Parliament of India
+D. President of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243-C(1) of the Indian Constitution, the legislature of a state may, by law make provision on the composition of Panchayat.
+
+**Ans: B. Legislature of State. According to Article 243-C(1) of the Indian Constitution, the legislature of a state may, by law make provision on the composition of Panchayat.**
+
+</details>
+
+**Q24. UPPCS (Mains) 2013**
+
+Which of the following is not correct with respect to the composition of Panchayat?
+
+A. The Legislature of a State may by law make provision with respect to the composition of Panchayat.
+B. A Gram Sabha shall exercise it’s powers at the village level.
+C. Each State will constitute Panchayat at the village, intermediate and district level.
+D. Panchayat at the intermediate level shall not be constituted in a State having a population not exceeding twenty lakhs.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243 C, the legislature of a state may, by law, make provisions with respect to the composition of Panchayats.
+
+**Ans: C. Each State will constitute Panchayat at the village, intermediate and district level.. According to Article 243 C, the legislature of a state may, by law, make provisions with respect to the composition of Panchayats. Article 243 A states that - A Gram Sabha may exercise power and function at the village level, and Article 243 B (2) provides that a Panchayat at the intermediate level may not be constituted in a state having a population not exceeding 20 lakh. Thus statements (a), (b) and (d) are correct and (c) is wrong. Therefore (c) is not correct among the given statements.**
+
+</details>
+
+**Q25. UPSC (Pre) 1996**
+
+What is the system of governance in the Panchayati Raj set up?
+
+A. The single-tier structure of local self-government at the village level.
+B. The two-tier system of local self-government at the village and block levels.
+C. The three-tier structure of local self-government at the village, block and district levels.
+D. The four-tier system of local self-government at the village block, district, and state levels.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Panchayati Raj set up is a three-tier structure (village, block and district level).
+
+**Ans: C. The three-tier structure of local self-government at the village, block and district levels.. The Panchayati Raj set up is a three-tier structure (village, block and district level). However, Panchayats at the intermediate level may not be constituted in a state having a population not exceeding twenty lakhs [Article 243 B(2)].**
+
+</details>
+
+**Q26. BPSC (Pre) 2024**
+
+What is the system of governance in the Panchayat Raj set-up?
+
+A. Three tier structure of local self government at the village, block and district levels
+B. Four tier system of local self government at the village, block, district and in the State levels
+C. Two tier system of local self government at the village and block levels
+D. Single tier structure of local self government at the village level
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243B of the Constitution, the Panchayati Raj system in local self-governance is three-tiered — village level, intermediate (block) level, and district level.
+
+**Ans: A. Three tier structure of local self government at the village, block and district levels. According to Article 243B of the Constitution, the Panchayati Raj system in local self-governance is three-tiered — village level, intermediate (block) level, and district level. However, a Panchayat at the intermediate level cannot be formed in a state where the population does not exceed 20 lakhs (2 million).**
+
+</details>
+
+**Q27. UPPCS (Mains) 2017**
+
+What is the minimum population below, which at the intermediate level the Panchayats are not constituted as per provisions of the Indian Constitution (73rd Amendment Act)?
+
+A. 25 Lakh
+B. 20 Lakh
+C. 35 Lakh
+D. 30 Lakh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Amendment Act of 1992 has added a new Part-IX to the Constitution of India, consisting of Provisions from Articles 243 to 243 O.
+
+**Ans: B. 20 Lakh. The 73rd Amendment Act of 1992 has added a new Part-IX to the Constitution of India, consisting of Provisions from Articles 243 to 243 O. The Act has given a practical shape to Article 40 of the Constitution. The Act provides for a three-tier system of Panchayati Raj in every State. However, a state having a population not exceeding 20 lakh may not constitute panchayats at the intermediate level.**
+
+</details>
+
+**Q28. BPSC (Pre) 2024**
+
+Under Article “243J” which of the following can make provisions to the maintenance of accounts by Panchayats ?
+
+A. Parliament
+B. State Legislature
+C. District Collector
+D. State Finance Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243J of the Constitution provides that the legislature of a State may, by law, make provisions regarding the maintenance of accounts by Panchayats and the audit of such accounts.
+
+**Ans: B. State Legislature. Article 243J of the Constitution provides that the legislature of a State may, by law, make provisions regarding the maintenance of accounts by Panchayats and the audit of such accounts. Therefore, under Article 243J, the rules related to the management of accounts by Panchayats are made by the State legislature.**
+
+</details>
+
+**Q29. UPPCS (Pre) 2019**
+
+With reference to Panchayats which of the statements is/are correct? 1. Fifty percent seats shall be reserved for the women of SC/ST categories. 2. Gram Sabha is a body consisting of all person living in the village. 3. There will be a Panchayat at intermediate level. Select the correct answer using the codes given below:
+
+A. 1 only
+B. 2 and 3
+C. Both 1 and 2
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243(b) - "Gram Sabha" means a body consisting of persons registered in the electoral rolls relating to a village comprised within the area of Panchayat at the village level.
+
+**Ans: D. 3 only. According to Article 243(b) - "Gram Sabha" means a body consisting of persons registered in the electoral rolls relating to a village comprised within the area of Panchayat at the village level. So, statement (2) is wrong. Article 243B(1) states that there shall be constituted in every state Panchayats at the village, intermediate and district levels in accordance with the provisions of this part. In Article 243B(2), Panchayats at the intermediate level may not be constituted in a state having a population not exceeding 20 lakhs. So, statement (3) is correct. Article 243D(2), provides that not less than one-third of the total number of seats reserved for SC/STs shall be reserved for women belonging to the Scheduled Castes or Scheduled Tribes. So, statement (1) is incorrect. The correct option for the answer will be (d).**
+
+</details>
+
+**Q30. CGPCS (Pre) 2024**
+
+Article 243(J) of the Indian Constitution is related to.
+
+A. Constitution of Finance commission to review financial position
+B. Audit of Accounts of Panchayats
+C. Election of Panchayats
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243-J of the Indian Constitution is related to the auditing of accounts of Panchayats.
+
+**Ans: B. Audit of Accounts of Panchayats. Article 243-J of the Indian Constitution is related to the auditing of accounts of Panchayats. It states that the legislature of a state may make provisions regarding the maintenance and auditing of accounts of Panchayats at different levels. This article is part of the 73rd Constitutional Amendment Act, 1992, which granted constitutional status to Panchayati Raj institutions and added Part IX (Articles 243 to 243O) to the Constitution. It ensures financial transparency and accountability in the functioning of Panchayats.**
+
+</details>
+
+**Q31. UPPCS (Mains) 2013**
+
+The tenure of every Panchayat in India is five years from–
+
+A. The scheduled date of its first meeting
+B. The date of notification of election.
+C. The date of declaration of election results.
+D. The date of oath of office by members.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243E, every Panchayat shall continue for five years from the date appointed for its first meeting, unless sooner dissolved, under any law for the time being in force.
+
+**Ans: A. The scheduled date of its first meeting. According to Article 243E, every Panchayat shall continue for five years from the date appointed for its first meeting, unless sooner dissolved, under any law for the time being in force. In the case where the Panchayat is dissolved before the completion of five years, the election to constitute a Panchayat shall be completed before the expiration of a period of six months from the date of its dissolution.**
+
+</details>
+
+**Q32. UPPCS (Pre) 2025**
+
+With reference to Panchayati Raj Institutions in India which of the following statements is / are correct ? 1. Tenure of Panchayati Raj Institutions shall be of 5 years. 2. In Panchayati Raj Institutions, out of the seats reserved, 1/4 of the seats shall be reserved for women belonging to Scheduled Caste and Scheduled Tribe. Select the correct answer from the code given below : Code :
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243E(1), every Panchayat, unless dissolved earlier under any law for the time being in force, shall continue for five years from the date appointed for its first meeting.
+
+**Ans: D. Only 1. Statement 1 is correct. According to Article 243E(1), every Panchayat, unless dissolved earlier under any law for the time being in force, shall continue for five years from the date appointed for its first meeting. Statement 2 is incorrect. The Constitution does not provide for a one-fourth (25%) reservation for SC/ST women. As per Article 243D, not less than one-third of the seats reserved for a SCs/STs shall be reserved for women belonging to SCs/STs, and not less than one-third of the total seats to be filled by direct election in every Panchayat shall be reserved for women (and the seats reserved for SC/ST women are included within the overall women’s reservation).**
+
+</details>
+
+**Q33. CGPCS (Pre) 2018**
+
+Election was held on 20 January, 2014 for a Gram Panchayat. Its first meeting was called on 10 February 2014. Thereafter Gram Panchayat was dissolved on 20th February, 2016. Election was held on 15th May, 2016 for New Gram Panchayat and, its first meeting was called on 25th May, 2016. What shall be tenure of the new constituted Gram Panchayat?
+
+A. 20th January, 2019
+B. 10th February, 2019
+C. 15th May, 2021
+D. 25th May, 2021
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Amendment Act of 1992, provides for a five-year term of office to the panchayat at every level.
+
+**Ans: B. 10th February, 2019. The 73rd Amendment Act of 1992, provides for a five-year term of office to the panchayat at every level. However, it can be dissolved before the completion of its term. Moreover, a Panchayat constituted upon the dissolution of a panchayat before the expiration of its duration shall continue only for the remainder of the period for which the dissolved panchayat would have continued.**
+
+</details>
+
+**Q34. UKPCS / UPPCS / UPSC (Mains) 2021**
+
+If a Panchayat is dissolved, elections are to be held within–
+
+A. one month
+B. three months
+C. six months
+D. one year.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243E, unless sooner dissolved under any law for the time being in force, Panchayats shall continue for five years from the date appointed for their first meeting and no longer.
+
+**Ans: C. six months. According to Article 243E, unless sooner dissolved under any law for the time being in force, Panchayats shall continue for five years from the date appointed for their first meeting and no longer. If the Panchayat is dissolved, the election is to be held before the expiration of 6 months from the date of dissolution, provided that where the remainder of the period for which the dissolved Panchayats would have continued is less than 6 months, it shall not be necessary to hold any election for constituting a Panchayat for such period.**
+
+</details>
+
+**Q35. CGPCS (Pre) 2015**
+
+What is not correct about Gram Panchayat? i. The maximum strength is 20 panchs in a Gram Panchayat. ii. If 15 panchs are elected in Gram Panchayat, then 5 panchs are nominated. iii.The President of Janpad Panchayat nominates 5 panchs. iv. The strength may be 10 panchs in a Gram Panchayat. v . In case of equal votes in the election of panchs it is decided by lott. vi. Nominated members participate in the meeting and can vote. Code :
+
+A. i iv vi
+B. iii v vi
+C. ii iii vi
+D. iv v vi
+E. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gram Panchayats are the smallest unit of local selfgovernance, at the village level.
+
+**Ans: C. ii iii vi. Gram Panchayats are the smallest unit of local selfgovernance, at the village level. According to Chhattisgarh Panchayati Raj Act, (1993), each Gram Panchayat area is divided into not less than 10 and not more than 20 wards and each ward elects one Panch. The Gram Panchayat consists of the elected Panchs plus a Sarpanch who is the head of the Gram Panchayat. Thus all members are elected, not nominated. So Statements (ii), (iii) and (vi) are wrong.**
+
+</details>
+
+**Q36. UKPCS (Pre) 2016**
+
+Which one of the following functions is not the concern of Local Self Government?
+
+A. Public Health
+B. Sanitation
+C. Public Utility Services
+D. Maintenance of Public Order
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Maintenance of Public Order is not the concern of Local Self-Government.
+
+**Ans: D. Maintenance of Public Order. Maintenance of Public Order is not the concern of Local Self-Government. Public Health, Public Utility Services, sanitation, Roads and Bridges, Developmental Schemes etc. are related to Local Self Government. Article 243G provides for the powers, authority and responsibilities of Panchayats. Likewise, Article 243W provides for powers, authority and responsibilities of Municipalities.**
+
+</details>
+
+**Q37. BPSC (Pre) 2017**
+
+Which one of the following functions is not the concern of Local Self- Government ?
+
+A. Public Health
+B. Sanitation
+C. Public Utility Services
+D. Maintenance of Public Order
+E. None of the above / more than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Maintenance of Public Order as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. Maintenance of Public Order. The controlling constitutional or historical fact identifies Maintenance of Public Order as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q38. BPSC (Pre) 2000**
+
+Which is not among the powers of Panchayati Raj Institutions in India?
+
+A. Implementation of Land Reforms
+B. Judicial Review
+C. Implementation of Poverty Alleviation Programmes
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Judicial Review is not the power of the Panchayati Raj Institution.
+
+**Ans: B. Judicial Review. Judicial Review is not the power of the Panchayati Raj Institution. It is a power of the Judiciary. The legislative and executive actions are subject to review by the Supreme Court of India in accordance with the Principle of Judicial review.**
+
+</details>
+
+**Q39. UPPCS (Mains) 2005**
+
+Nyaya Panchayats in Panchayati Raj System have no powers of awarding imprisonment except in the State of-
+
+A. Bihar
+B. Jammu-Kashmir
+C. Maharashtra
+D. West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the provisions of the Bihar Panchayati Raj Act 1947 and 1993 the village court (Nyaya Panchayat) had the right to impose imprisonment to punish anyone.
+
+**Ans: No listed option is correct.. Under the provisions of the Bihar Panchayati Raj Act 1947 and 1993 the village court (Nyaya Panchayat) had the right to impose imprisonment to punish anyone. In 1996 the Patna High Court had declared Part VI of the village court of Bihar Panchayati Raj Act, 1993 as illegal. Presently, as per the provisions of the Bihar Panchayati Raj Act, 2006 no bench of village court may sentence any form of imprisonment.**
+
+</details>
+
+**Q40. UPSC (Pre) 2005**
+
+Consider the following statements - 1. Part IX of the Constitution of India provisions for Panchayats and it was inserted by the Constitution (Amendment) Act, 1992. 2. Part IX-A of the Constitution of India contains provisions for municipalities, and the Article 243-Q envisages two types of municipalities- a Municipal Council and a Municipal Corporation for every State. Which of the statement(s) given above is/are correct ?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Among the given statements, statement (1) is correct but (2) is incorrect.
+
+**Ans: A. 1 only. Among the given statements, statement (1) is correct but (2) is incorrect. Reasons are as follows: 73rd Amendment Act, 1992 came into force on 24 April, 1993 after the ratification of the required number of States, provided a Constitutional guarantee for the formation of Panchayats, inserted Part IX and the 11th Schedule in the Constitution. It is correct that Part IX-A of the Constitution of India contains provisions for municipalities, but Article 243Q envisages 3 types (not 2 types) of municipalities: 1. Nagar Panchayats. 2. A Municipal Council for Smaller Urban Areas. 3. A Municipal Corporation for a Large Urban Areas.**
+
+</details>
+
+**Q41. UPPCS (Pre)**
+
+Which of the following statements is/are correct about 73rd Amendment to the Indian Constitution? 1. It recognized Panchayats as institutions of selfgovernment. 2. It recognized urban local governments as institutions of self-government. Select the Correct answer using the codes given below: Codes :
+
+A. Both 1 and 2
+B. Only 2
+C. Only 1
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Only 1 as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. Only 1. The controlling constitutional or historical fact identifies Only 1 as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q42. BPSC (Pre) 2005**
+
+The decision to conduct Panchayat Elections is taken by which of the following?
+
+A. The Central Government
+B. The State Government
+C. The District Judge
+D. The Election Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Panchayat is enumerated in State List as the 5th entry in the 7th Schedule to the Constitution.
+
+**Ans: B. The State Government. Panchayat is enumerated in State List as the 5th entry in the 7th Schedule to the Constitution. It is the subject of State Government, and the State Government has the power to constitute it and conduct its elections through the State Election Commission.**
+
+</details>
+
+**Q43. UPPCS (Mains) 2008**
+
+According to Constitutional Provisions the decision to hold Panchayat elections is taken by -
+
+A. Central Government
+B. State Government
+C. The Election Commission of India
+D. The State Election Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The decision to hold Panchayat elections under constitutional provisions is taken by the State Government.
+
+**Ans: B. State Government. The decision to hold Panchayat elections under constitutional provisions is taken by the State Government. Article 243 K of the Constitution is related to Panchayat elections and all the decisions relating to Panchayat elections are taken by the State government.**
+
+</details>
+
+**Q44. BPSC (Pre) 2017**
+
+The system of Panchayati Raj is mentioned in
+
+A. The Union List
+B. The State List
+C. The Concurrent List
+D. None of the above
+E. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies The State List as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. The State List. The controlling constitutional or historical fact identifies The State List as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q45. BPSC (Pre) 2005**
+
+The subject of Panchayati Raj is in –
+
+A. Concurrent List
+B. Union List
+C. State List
+D. Residual List
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies State List as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. State List. The controlling constitutional or historical fact identifies State List as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q46. UKPCS / MPPCS (Pre) 2019**
+
+The system of Panchayat Raj is mentioned in
+
+A. The Union List
+B. The State List
+C. The Concurrent List
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies The State List as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. The State List. The controlling constitutional or historical fact identifies The State List as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q47. UPPCS (Mains) 2016**
+
+The Panchayati Raj is included in the
+
+A. Union list
+B. State list
+C. Concurrent list
+D. Residuary list
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies State list as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. State list. The controlling constitutional or historical fact identifies State list as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q48. UKPCS (Pre) 2001**
+
+The elections to Panchayats are to be held after –
+
+A. Every four years
+B. Every five years
+C. Every six years
+D. At the Government’s discretion
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243-E is related to the duration of Panchayats.
+
+**Ans: B. Every five years. Article 243-E is related to the duration of Panchayats. Clause (1) provides that every Panchayat, unless sooner dissolved, shall continue for five years from the date appointed for its first meeting and no longer. Clause (3) provides that the election shall be completed before the expiration of a period of six months from the date of its dissolution.**
+
+</details>
+
+**Q49. UPPCS (Mains) 2010**
+
+Which one of the following is not concerned with the Panchayats?
+
+A. The State Election Commission will conduct Panchayat elections.
+B. The Constitution (74th Amendment) Act.
+C. There shall be a fixed five-year term for all the Panchayats.
+D. Fresh elections would have to be held within six months of the dissolution of a Panchayat.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All the given statements are related to Panchayats except the statements in option (b).
+
+**Ans: B. The Constitution (74th Amendment) Act.. All the given statements are related to Panchayats except the statements in option (b). Provisions related to Panchayat were inserted by 73rd Amendment of the Constitution, while 74th Amendment is related to Municipalities.**
+
+</details>
+
+**Q50. MPPCS (Pre) 2015**
+
+The first State to Implement 73rd Constitutional Amendment is-
+
+A. Madhya Pradesh
+B. Punjab
+C. Andhra Pradesh
+D. Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Constitutional Amendment Act, 1992 which was implemented on 24th April, 1993, was a milestone in the journey of Panchayati Raj Institutions.
+
+**Ans: A. Madhya Pradesh. The 73rd Constitutional Amendment Act, 1992 which was implemented on 24th April, 1993, was a milestone in the journey of Panchayati Raj Institutions. Madhya Pradesh was the first State in the country to implement the Panchayati Raj System in the true spirit of 73rd Amendment Act.**
+
+</details>
+
+**Q51. BPSC (Pre) 2025**
+
+Where was the National Panchayati Raj Day 2025 event organised?
+
+A. Patna
+B. Madhubani
+C. Gaya
+D. More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Constitutional Amendment Act, 1992, which gave constitutional status to the Panchayati Raj system, came into effect on 24 April 1993.
+
+**Ans: B. Madhubani. The 73rd Constitutional Amendment Act, 1992, which gave constitutional status to the Panchayati Raj system, came into effect on 24 April 1993. On its 32nd anniversary, the main national-level event of National Panchayati Raj Day 2025 was held on 24 April 2025 at Lohna Uttar Gram Panchayat in Madhubani district of Bihar.**
+
+</details>
+
+**Q52. UPSC (Pre) 1999**
+
+In the new Panchayati Raj Bill enacted in 1992, there are several new provisions different from the previous one. Which one of the following is not one such provision?
+
+A. Some collective responsibilities in the area of agriculture, rural development, primary education and social forestry among others.
+B. Elections being made mandatory for all posts on being vacant.
+C. A statutory representation of women in the panchayats, up to one-third of the strength.
+D. Regular remuneration to the panchayat members, so as to ensure their punctuality and accountability.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Regular remuneration is not one of the provisions made under the 73rd Constitutional Amendment Act.
+
+**Ans: D. Regular remuneration to the panchayat members, so as to ensure their punctuality and accountability.. Regular remuneration is not one of the provisions made under the 73rd Constitutional Amendment Act. Rest of the provisions, mentioned in the question are part of the Panchayati Raj Bill 1992.**
+
+</details>
+
+**Q53. UPPCS (Pre) 2003**
+
+Assertion (A) : Reservation in the Office of Pradhans, Pramukhs and Adhyakshas in Panchayats for women including SCs, STs and OBCs has brought about a distinct change in their working. Reason (R) : Women of the rural areas were demanding this reservation for a long time. Select your answer from the code given below – Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. A is true but (R) is false.
+D. (A) is false but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** The local self-government in India has been formalized under the Panchayati-raj system by 73rd Amendment in 1992.
+
+**Ans: C. A is true but (R) is false.. The local self-government in India has been formalized under the Panchayati-raj system by 73rd Amendment in 1992. According to Article 243-D Clause (2)- not less than one-third of the total number of seats reserved under Clause (1) shall be reserved for women belonging to the Scheduled Castes or as the case may be, the Scheduled Tribes. According to Clause(3), Not less than one-third (including the number of seats reserved for women belonging to the Scheduled Castes and the Scheduled Tribes) of the total number of seats to be filled by direct election in every Panchayat shall be reserved for women. In the Indian scenario, the reservation of seats for women in village local self-government is not a result of any demand.**
+
+</details>
+
+**Q54. Ghatnachakra standard**
+
+With reference to the reservation of seats for women in Panchayati Raj Institutions, which of the following statements is/are correct? 1. It is provided for in Article 243 D(3) of the Indian Constitution. 2. The reservation shall cease to have effect on the expiration of the period specified in Article 334. Select the correct answer from the codes given below: Codes :
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243D deals with the reservation of seats in Panchayats.
+
+**Ans: A. 1 only. Article 243D deals with the reservation of seats in Panchayats. According to Article 243D(3), "Not less than one third (including the number of seats reserved for women belonging to the Scheduled Caste and the Scheduled Tribes) of the total number of seats to be filled by direct election in every Panchayat shall be reserved for women and such seats may be allotted by rotation to different constituencies in a Panchayat. Article 334 deals with the reservation of seats in the House of the People and Legislative Assemblies and not with Panchayati Raj.**
+
+</details>
+
+**Q55. UPSC (Pre) 1997**
+
+Which one of the following was not proposed by the 73rd Constitutional Amendment in context to Panchayati Raj?
+
+A. Thirty percent seats to be reserved for women in all elected rural local bodies at all levels.
+B. The States will constitute their Finance Commissions to allocate resources to Panchayati Raj Institutions.
+C. The Panchayati Raj elected functionaries will be disqualified to hold their offices if they have more than two children.
+D. The elections will be held in six months time if Panchayati Raj bodies are superseded or dissolved by the State Government.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The constitutional floor is at least one-third, not 30 percent. The Constitution also does not impose a uniform two-child disqualification; such a rule, where applicable, comes from State law.
+
+**Ans: No single listed option is correct because both A and C were not proposed by the 73rd Amendment.**
+
+</details>
+
+**Q56. UPPCS (Mains) 2016**
+
+Under which of the following Constitutional Amendments, 30% seats in the village panchayats have been reserved for women in India?
+
+A. 70th Amendment
+B. 71st Amendment
+C. 73rd Amendment
+D. 74th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243D was inserted by the 73rd Amendment, but it reserves at least one-third of seats for women, not 30 percent. The premise therefore has no correct listed option.
+
+**Ans: No listed option is correct as written. The 73rd Amendment provides at least one-third reservation, not 30 percent.**
+
+</details>
+
+**Q57. RPSC (Pre) 1999**
+
+The reservation of seats for women in Panchayats has been provided by an amendment to Constitution of India. That amendment is –
+
+A. 70th amendment of 1992
+B. 73rd amendment of 1992
+C. 74th amendment of 1992
+D. 77th amendment of 1994
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243-D (3), inserted by 73rd Amendment Act, not less than one-third of the total seats to be filled by direct election in every Panchayat shall be reserved for women.
+
+**Ans: B. 73rd amendment of 1992. According to Article 243-D (3), inserted by 73rd Amendment Act, not less than one-third of the total seats to be filled by direct election in every Panchayat shall be reserved for women.**
+
+</details>
+
+**Q58. JPSC (Pre) 2013**
+
+In India, seats are reserved for women in –
+
+A. Panchayati Raj Institutions
+B. State Legislative Assemblies
+C. The Cabinet
+D. The Lok Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** During the question period, the seats were reserved for women in Panchayati Raj Institutions only.
+
+**Ans: A. Panchayati Raj Institutions. During the question period, the seats were reserved for women in Panchayati Raj Institutions only. But now, through the Constitution (106th Amendment) Act, 2023 also known as 'Women's Reservation Bill' or 'Nari Shakti Vandan Adhiniyam', One-third seats are reserved for women in the Lok Sabha, State Legislative Assemblies, and the Legislative Assembly of the National Capital Territory of Delhi, including those reserved for Scheduled Castes and Scheduled Tribes. This reservation shall come into effect after the first delimitation based on the first census after the commencement of this Amendment Act.**
+
+</details>
+
+**Q59. UPPCS (Mains) 2010**
+
+Which Article of the Constitution Guarantees the 1/3 representation of women in Panchayats?
+
+A. Article 243-C
+B. Article 243-D
+C. Article 243-H
+D. Article 243-I
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Article 243-D as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Article 243-D. The controlling constitutional or historical fact identifies Article 243-D as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q60. UKPCS / CGPCS (Pre) 2016**
+
+Which one of the following Articles provides reservation of seats for the Scheduled Castes and Scheduled Tribes in the Panchayats?
+
+A. 243D
+B. 243C
+C. 243B
+D. 243A
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243D of the Indian Constitution provides for reservation of seats for the Scheduled Castes and Scheduled Tribes in the Panchayats.
+
+**Ans: A. 243D. Article 243D of the Indian Constitution provides for reservation of seats for the Scheduled Castes and Scheduled Tribes in the Panchayats. Article 243A is about Gram Sabha, 243B deals with the constitution of Panchayats and Article 243C is about the composition of Panchayats.**
+
+</details>
+
+**Q61. BPSC (Pre) 2011**
+
+Which State Governments have provided 50 percent reservation for women in local bodies up to 2010?
+
+A. Bihar, Uttar Pradesh, Rajasthan
+B. Bihar, Madhya Pradesh, Himachal Pradesh
+C. Bihar, Madhya Pradesh, Kerala
+D. Bihar, Himachal Pradesh, Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In 2011, when the question was asked, 50 percent seats were reserved for women in Panchayats in the States of Bihar, Madhya Pradesh, and Himachal Pradesh.
+
+**Ans: No listed option is correct.. In 2011, when the question was asked, 50 percent seats were reserved for women in Panchayats in the States of Bihar, Madhya Pradesh, and Himachal Pradesh. At present, the 50% seats in Panchayats for women are reserved in Andhra Pradesh, Kerala, Chhattisgarh, Jharkhand, Maharashtra, Odisha, Rajasthan, Tripura, Bihar, Uttarakhand, Madhya Pradesh, Assam, Gujarat, Karnataka, Sikkim, Tamil Nadu, Telangana, West Bengal, Punjab and Himachal Pradesh.**
+
+</details>
+
+**Q62. UKPCS (Pre) 2017**
+
+50% reservation for women in Panchayati Raj Institutions is legalized in certain States such as: I. Bihar II. Uttarakhand III. Madhya Pradesh IV. Himachal Pradesh
+
+A. Only III
+B. Only II and III
+C. II, III and IV
+D. I, II, III and IV
+E. None of the above / more than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies I, II, III and IV as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. I, II, III and IV. The controlling constitutional or historical fact identifies I, II, III and IV as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q63. UPPCS (Pre) 2012**
+
+The number of seats reserved for women in Panchayati Raj Institutions in U.P. is –
+
+A. One-third of total seats
+B. In proportion to women population
+C. One-fourth of total seats
+D. As per the requirements of circumstances
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In accordance with the 73rd Amendment, Uttar Pradesh Panchayat Laws (Amendment) Act, 1994 was passed, which came into force on 22 April, 1994.
+
+**Ans: A. One-third of total seats. In accordance with the 73rd Amendment, Uttar Pradesh Panchayat Laws (Amendment) Act, 1994 was passed, which came into force on 22 April, 1994. It provides reservations for women on one-third of the total seats.**
+
+</details>
+
+**Q64. UPPCS (Pre) 2016**
+
+Reservation of seats in Panchayat elections for Scheduled Castes shall not apply to the State of –
+
+A. Uttar Pradesh
+B. Assam
+C. Arunachal Pradesh
+D. Haryana
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Reservation of seats in Panchayat elections for Scheduled Castes shall not apply to the State of Arunachal Pradesh since there is no population of Scheduled Castes in the state according to the Census-2011.
+
+**Ans: C. Arunachal Pradesh. Reservation of seats in Panchayat elections for Scheduled Castes shall not apply to the State of Arunachal Pradesh since there is no population of Scheduled Castes in the state according to the Census-2011.**
+
+</details>
+
+**Q65. UPPCS (Pre) 2022**
+
+When was the Panchayats (Extension to the Scheduled Areas) Act passed by Indian Parliament?
+
+A. 1996
+B. 1993
+C. 1998
+D. 1995
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Panchayats (Extension to Scheduled Areas) Act was passed by the Indian Parliament in 1996.
+
+**Ans: A. 1996. The Panchayats (Extension to Scheduled Areas) Act was passed by the Indian Parliament in 1996. On the basis of recommendations of Bhuria Committees, PESA Act, was enacted in ten States : Andhra Pradesh, Chhattisgarh, Gujarat, Himachal Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Telangana under Fifth Schedule areas that include (completely or partially) a number of districts.**
+
+</details>
+
+**Q66. JPSC (Pre) 2023**
+
+Which Committee's report paved the way for the Panchayats (Extension to Scheduled Areas) Act, (PESA) 1996 for ensuring tribal self rule for people living in Scheduled Areas of India?
+
+A. Ashok Mehta Committee
+B. G.V.K. Rao Committee
+C. Bhuria Committee
+D. Balwant Rai Mehta Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Bhuria Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. Bhuria Committee. The controlling constitutional or historical fact identifies Bhuria Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q67. UPSC (Pre) 2013**
+
+The Government enacted the Panchayat Extension to Scheduled Areas (PESA) Act in 1996. Which one of the following is not identified as its objective?
+
+A. To provide self- governance
+B. To recognize traditional rights
+C. To create autonomous regions
+D. To free tribal peoples from exploitation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Panchayat Extension to Scheduled Areas (PESA) Act provides for institutions of local self-governance to recognize the traditional rights of the tribals and to free them from exploitation.
+
+**Ans: C. To create autonomous regions. The Panchayat Extension to Scheduled Areas (PESA) Act provides for institutions of local self-governance to recognize the traditional rights of the tribals and to free them from exploitation. Option (c) is incorrect as the Act does not have any provision for creating any autonomous regions.**
+
+</details>
+
+**Q68. CGPCS / RPSC / JPSC (Pre) 2016**
+
+In which of the following group of the States, PESA [Panchayats (Extension to Scheduled Areas) Act], 1996 is not enforceable?
+
+A. Rajasthan-Telangana-Maharashtra
+B. Andhra Pradesh-Jharkhand-Odisha
+C. Assam-Meghalaya-Tamil Nadu
+D. Himachal Pradesh-Gujarat-Chhattisgarh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Assam-Meghalaya-Tamil Nadu as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. Assam-Meghalaya-Tamil Nadu. The controlling constitutional or historical fact identifies Assam-Meghalaya-Tamil Nadu as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q69. UPSC (Pre) 2012**
+
+In the areas covered under the Panchayat (Extension to the Scheduled Areas) Act, 1996, what is the role/ power of Gram Sabha? 1. Gram Sabha has the power to stop transfer of land in scheduled areas. 2. Gram Sabha has the ownership of minor forest produce. 3. Recommendation of Gram Sabha is required for granting prospecting license or mining lease for any mineral in the Scheduled Areas. Which of the statement(s) given above is/are correct?
+
+A. Only 1
+B. Only 1 and 2
+C. Only 2 and 3
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In areas covered under the Panchayat (Extension to Scheduled Areas) Act, 1996 Gram Sabha has the ownership of minor forest produce and has power to ban transfer of land.
+
+**Ans: B. Only 1 and 2. In areas covered under the Panchayat (Extension to Scheduled Areas) Act, 1996 Gram Sabha has the ownership of minor forest produce and has power to ban transfer of land. Its consent is necessary for issuing licenses/mining leases for minor minerals. However, in the case of other minerals, the recommendation of Gram Sabha is not required in Scheduled Areas.**
+
+</details>
+
+**Q70. CGPCS (Pre) 2016**
+
+What is correct about the powers of Zila Panchayats of Scheduled Areas?
+
+A. To plan minor water bodies
+B. To control over institutions in all social sectors
+C. To control on tribal sub plans
+D. To exercise other functions as conferred by State Govt.
+E. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Chhattisgarh Panchayat Raj Act, 1993 confers, among others, the powers listed below to Zila Panchayats.
+
+**Ans: E. All of the above. The Chhattisgarh Panchayat Raj Act, 1993 confers, among others, the powers listed below to Zila Panchayats. (i) Planning minor water bodies (ii) To control institutions in all social sectors (iii) To control tribal sub plans (iv) To exercise other functions as conferred by State Government**
+
+</details>
+
+**Q71. UPPCS (Pre) 2015**
+
+‘Gram Sabha’ means –
+
+A. Persons of the territorial area of a Panchayat
+B. Persons Specified by the notification of the District Authority
+C. Persons registered in electoral rolls related to a Panchayat area at the village level
+D. Members of Panchayats
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Gram Sabha has been envisaged as the foundation of the Panchayati Raj System.
+
+**Ans: C. Persons registered in electoral rolls related to a Panchayat area at the village level. The Gram Sabha has been envisaged as the foundation of the Panchayati Raj System. The 73rd Amendment to the Constitution provides for the Panchayat at the village level. Gram Sabha consists of persons registered in the electoral rolls of a Panchayat area constituted at the village level.**
+
+</details>
+
+**Q72. UPPCS (Pre) 2023**
+
+Which of the following statements is not true regarding ‘Gram Sabha’?
+
+A. It has the powers and functions at the village level, like a State Legislature has at the State level.
+B. Its powers are determined by the Central Government.
+C. It is a village assembly consisting of all registered voters in the Panchayat area.
+D. Both A and C
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gram Sabha : The term Gram Sabha is defined in the Constitution of India under Article 243(b).
+
+**Ans: B. Its powers are determined by the Central Government.. Gram Sabha : The term Gram Sabha is defined in the Constitution of India under Article 243(b). Gram Sabha is the primary body of the Panchayati Raj system and by far the largest. It is a permanent body. The Constitution mentions that Gram Sabha exercises such powers and performs such functions at the village level as the legislature of a State may, by law, provide. Gram Sabha is the Sabha of the electorates. All other institutions of the Panchayati Raj like the Gram Panchayat, Block Panchayat and Zilla Parishad, are constituted by elected representatives. The decisions taken by the Gram Sabha cannot be annulled by any other body. The power to annul a decision of the Gram Sabha rests with the Gram Sabha only.**
+
+</details>
+
+**Q73. CGPCS (Pre) 2018**
+
+What is correct: (i) In a Gram Panchayat there can be more than one village. (ii) Meeting of Gram Sabha held in each village. (iii)Meeting of Gram Sabha held in the headquarter of Gram Panchayat. (iv) Meeting of Gram Panchayat held in each village. (v) Meeting of Gram Panchayat held in the headquarter of Gram Panchayat.
+
+A. (i) (iii) (iv)
+B. (ii) (iv) (v)
+C. (ii) (iii) (iv)
+D. (i) (ii) (v)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement - Meeting of gram sabha can be held in each village by rotation (correct) Statement - In gram panchayat there can be more than one village (correct) Statement - Meeting of gram panchayat held in the headquarters of Gram Panchayat (correct).
+
+**Ans: D. (i) (ii) (v). Statement - Meeting of gram sabha can be held in each village by rotation (correct) Statement - In gram panchayat there can be more than one village (correct) Statement - Meeting of gram panchayat held in the headquarters of Gram Panchayat (correct).**
+
+</details>
+
+**Q74. CGPCS (Pre) 2015**
+
+What is not correct about Gram Sabha? i. 1/10 Quorum is essential for the meeting of Gram Sabha. ii. The presence of 1/3 women is essential for the meeting of Gram Sabha. iii. Sarpanch and Panchs are responsible for Quorum. iv. The meeting of Gram Sabha can be adjourned in the absence of the Quorum. v. Quorum is essential in adjourned meeting. vi. The budget can be passed in the adjourned meeting where Quorum is not present. vii. The audit report can be passed in the adjourned meeting where Quorum is not present. viii.Sarpanch can be dismissed if Quorum is not present in five subsequent meetings of Gram Sabha. Choose the incorrect statements using the code given below. Code: A B C
+
+A. i ii v
+B. iii vi viii
+C. iv vii viii
+D. v vi vii
+E. vi vii viii
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to the Chhattisgarh Panchayati Raj Act 1993 as amended in 2004, a Gram Sabha must meet once every three months in a year.
+
+**Ans: D. v vi vii. According to the Chhattisgarh Panchayati Raj Act 1993 as amended in 2004, a Gram Sabha must meet once every three months in a year. The presence of 1/10th of the total number of members of Gram Sabha, of whom 1/3rd must be women, constitutes the quorum for a Gram Sabha meeting. The Sarpanch and Panchs shall be responsible for the quorum of the meeting of the Gram Sabha. Resolutions for the annual working plan, selection of beneficiaries, annual Budget, audit report and annual accounts and administrative report, shall be passed in the meeting that has a requisite quorum and in the case of absence of the quorum in five subsequent meetings of Gram Sabha, proceedings shall be initiated for the removal of Sarpanch. Thus, Statements (v), (vi) and (vii) are wrong.**
+
+</details>
+
+**Q75. MPPCS (Pre) 2021**
+
+Who will preside the meeting of the Gram Sabha in absence of the sarpanch and up-sarpanch in Madhya Pradesh?
+
+A. Block Development Officer
+B. Secretary of Gram Panchayat
+C. For this purpose the oldest person of the respective Gram Panchayat elected by the members present in the Gram Sabha meeting
+D. For this purpose the Panch of the respective Gram Panchayat, elected by the members, present in the Gram Sabha Meeting
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Panchayati Raj Avam Gram Swaraj Adhiniyam, 1993 states that, when both Sarpanch and Up-Sarpanch are not present, the Gram Sabha meeting will be presided over by a Panch, elected by the members, present in the Gram Sabha Meeting.
+
+**Ans: D. For this purpose the Panch of the respective Gram Panchayat, elected by the members, present in the Gram Sabha Meeting. The M.P. Panchayati Raj Avam Gram Swaraj Adhiniyam, 1993 states that, when both Sarpanch and Up-Sarpanch are not present, the Gram Sabha meeting will be presided over by a Panch, elected by the members, present in the Gram Sabha Meeting.**
+
+</details>
+
+**Q76. RPSC (Pre) 2021**
+
+Which section of the Rajasthan Panchyati Raj Act, 1994 has been amended to replace the expression 'Gram Vikas Adhikari' in place of 'Gram Sevak'?
+
+A. 88
+B. 89
+C. 91
+D. 90
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 89 of the Rajasthan Panchayati Raj Act, 1994 has been amended to replace the expression 'Gram Vikas Adhikari' with 'Gram sevak'.
+
+**Ans: B. 89. Section 89 of the Rajasthan Panchayati Raj Act, 1994 has been amended to replace the expression 'Gram Vikas Adhikari' with 'Gram sevak'.**
+
+</details>
+
+**Q77. CGPCS (Pre) 2015**
+
+Who presides over the meeting of Gram Sabha in Scheduled Areas?
+
+A. Sarpanch
+B. Deputy Sarpanch
+C. Sarpanch or Deputy Sarpanch
+D. Schedule Tribe member present who is elected by Gram Sabha
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to PESA rules a person who is a member of a Scheduled Tribe will be selected as chairperson for the meeting of the Gram Sabha for one year by consensus.
+
+**Ans: D. Schedule Tribe member present who is elected by Gram Sabha. According to PESA rules a person who is a member of a Scheduled Tribe will be selected as chairperson for the meeting of the Gram Sabha for one year by consensus. In case of non-consensus, amongst the members present, the oldest lady from the Scheduled Tribes would be the Chairperson.**
+
+</details>
+
+**Q78. UPSC (Pre) 2000**
+
+The 73rd Constitutional Amendment Act, 1992 refers to the –
+
+A. Generation of gainful employment for the unemployed and the under-employed men and women in the rural area.
+B. Generation of employment for the capable adults who are in need and desirous of works during the lean agricultural season.
+C. Laying the foundation of strong and vibrant Panchayati Raj Institutions in the Country.
+D. Guarantee of the right to life, liberty, and security of person equality before the law and equal protection without discrimination.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Amendment Act lays down the foundation of strong and vibrant Panchayati Raj institutions in the country.
+
+**Ans: C. Laying the foundation of strong and vibrant Panchayati Raj Institutions in the Country.. The 73rd Amendment Act lays down the foundation of strong and vibrant Panchayati Raj institutions in the country. The 74th Constitutional Amendment Act refers to the Municipality.**
+
+</details>
+
+**Q79. RPSC (Pre) 1993**
+
+73rd Amendment of the Constitution was implemented on 24 April, 1993. This amendment will encourage in Rajasthan-
+
+A. New United Political System
+B. The base for village self-governance
+C. Self-Governance system
+D. Centralization of democracy.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Constitution Amendment Act is aimed at establishing a local self-governance system under Panchayati Raj.
+
+**Ans: C. Self-Governance system. The 73rd Constitution Amendment Act is aimed at establishing a local self-governance system under Panchayati Raj.**
+
+</details>
+
+**Q80. UPPCS (Mains) 2013**
+
+Which of the following is related to the theme of ‘Grass Root Democracy’?
+
+A. Lokpal
+B. Panchayati Raj System
+C. Inter-State Council
+D. Regional Politics
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Grass-Root Democracy is associated with decentralization in a democratic set up.
+
+**Ans: B. Panchayati Raj System. Grass-Root Democracy is associated with decentralization in a democratic set up. On 2nd October, 1959, Jawahar Lal Nehru inaugurated Panchayati Raj System in Rajasthan. Since, Panchayati Raj System aims to empower the local units of governance by decentralization of power, this system was acclaimed as Grass-Root Democracy.**
+
+</details>
+
+**Q81. UPPCS (Pre) 1998**
+
+Panchayati Raj System is a System of- 1. Local level self-governance. 2. Three-tier governance with Bio-relations. 3. Democratic Decentralization. 4. Hierarchy Construction. Choose correct answer by using code given below: Code:
+
+A. 1 and 2
+B. 1 and 3
+C. 1,2 and 3
+D. 2,3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Panchayati Raj System is a local self-governance system.
+
+**Ans: C. 1,2 and 3. The Panchayati Raj System is a local self-governance system. Balwant Rai Mehta called it a ‘System of Democratic Decentralization.’ It is a three-tier system of governance with bio-relations.**
+
+</details>
+
+**Q82. UPSC (Pre) 2015**
+
+The fundamental object of Panchayati Raj system is to ensure which among the following? 1. People’s participation in development 2. Political accountability 3. Democratic decentralisation 4. Financial mobilization Select the correct answer using the codes given below:
+
+A. 1, 2 and 3 only
+B. 2 and 4 only
+C. 1 and 3 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Panchayati Raj System was started on 2nd October, 1959 in Nagaur district of Rajasthan.
+
+**Ans: C. 1 and 3 only. Panchayati Raj System was started on 2nd October, 1959 in Nagaur district of Rajasthan. Panchayats were given Constitutional status by the 73rd Amendment Act- 1992. Its main objective is to increase the participation of people in the development of the country and implement democratic decentralization. Thus statements 1 and 3 are correct.**
+
+</details>
+
+**Q83. UPSC (Pre) 2017**
+
+Local self-government can be best explained as an exercise in
+
+A. Federalism
+B. Democratic decentralisation
+C. Administrative delegation
+D. Direct democracy
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Democratic decentralisation as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Democratic decentralisation. The controlling constitutional or historical fact identifies Democratic decentralisation as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q84. UPPCS (Pre) 2016**
+
+The Panchayati Raj System was adopted to –
+
+A. make people aware of politics
+B. decentralize the power of democracy
+C. educate the peasants.
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies decentralize the power of democracy as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. decentralize the power of democracy. The controlling constitutional or historical fact identifies decentralize the power of democracy as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q85. UPPCS (Mains) 2008**
+
+Which one of the following is not an attribute of a Local Government?
+
+A. Statutory Status
+B. Participation of the local community
+C. Central control
+D. Power to raise finances by taxation
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The statutory status, participation of local community and power to raise funds by taxation are the attributes of local government, but Central control is not one of them because the objective of the establishment of local governments is decentralization of power.
+
+**Ans: C. Central control. The statutory status, participation of local community and power to raise funds by taxation are the attributes of local government, but Central control is not one of them because the objective of the establishment of local governments is decentralization of power.**
+
+</details>
+
+**Q86. BPSC (Pre) 1999**
+
+Panchayati Raj is mainly aimed at –
+
+A. Increasing rivalry among villagers.
+B. Giving training to villagers for contesting election.
+C. Decentralization of power to villagers.
+D. None of these.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The principal aim of the Panchayati Raj System is the democratic decentralization of power to villagers and to empower them to make policies according to their needs and to implement these policies.
+
+**Ans: C. Decentralization of power to villagers.. The principal aim of the Panchayati Raj System is the democratic decentralization of power to villagers and to empower them to make policies according to their needs and to implement these policies.**
+
+</details>
+
+**Q87. BPSC (Pre) 1992**
+
+What is the main characteristic of Panchayati Raj System of Government?
+
+A. It has three tiers of Government.
+B. It aims to give social and economic justice to villages.
+C. Some members of Parliament are as representatives in Zila Parishad.
+D. All of these are true.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Panchayati Raj is a system of local self-government with three tier system- Gram Panchayat at the village level, Panchayat Samiti at the block level and Zila Parishad at the district level.
+
+**Ans: D. All of these are true.. Panchayati Raj is a system of local self-government with three tier system- Gram Panchayat at the village level, Panchayat Samiti at the block level and Zila Parishad at the district level. The Panchayati Raj System is aimed at achieving the goal of economic development and social justice.**
+
+</details>
+
+**Q88. UPPCS (Mains) 2012**
+
+Which one of the following statements regarding Panchayati Raj is not correct?
+
+A. Panchayat System has been an integral part of Indian village life through the ages.
+B. 73rd Amendment came into effect on 15th August, 1993.
+C. It is a three-tier organically linked structure.
+D. Article 243-G of the Indian Constitution adds to its importance.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All the given statements are true except statement (b) regarding the Panchayati Raj System.
+
+**Ans: B. 73rd Amendment came into effect on 15th August, 1993.. All the given statements are true except statement (b) regarding the Panchayati Raj System. The 73rd Amendment of the Constitution gives Constitutional status to Panchayati Raj, and it came into force on 24 April, 1993. Article 243- G is related to the power, authority, and responsibilities of Panchayats and adds to their importance. The main object of the Panchayati Raj is to enable the public to participate and be a part of the developmental administration.**
+
+</details>
+
+**Q89. UPPCS / BPSC (Mains) 2025**
+
+What is the main purpose of Panchayati Raj?
+
+A. To increase agricultural production
+B. To increase employment
+C. To increase people’s politically awareness
+D. To enable people to participate in developmental administration
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies To enable people to participate in developmental administration as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. To enable people to participate in developmental administration. The controlling constitutional or historical fact identifies To enable people to participate in developmental administration as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q90. BPSC (Pre) 1997**
+
+For successful functioning, Panchayati Raj needs full co-operation of-
+
+A. Local Public
+B. Central Government
+C. Bureaucrats
+D. Politicians
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Full cooperation of the local public is required for Panchayati Raj to work properly.
+
+**Ans: A. Local Public. Full cooperation of the local public is required for Panchayati Raj to work properly. The goal of this system cannot be achieved without the support and participation of the local public.**
+
+</details>
+
+**Q91. BPSC (Pre) 2000**
+
+Panchayati Raj in India represents –
+
+A. Decentralisation of powers
+B. Participation of the people
+C. Community development
+D. All of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Panchayati Raj System is established for the full advancement and development of villagers.
+
+**Ans: D. All of these. The Panchayati Raj System is established for the full advancement and development of villagers. Panchayati Raj represents the decentralization of democratic power, Community development, and participation of people.**
+
+</details>
+
+**Q92. BPSC (Pre) 2022**
+
+Consider the following statements : In the post-73rd Amendment era, there has to be decentralization of : 1. decision-making powers 2. system as a whole 3. judicial powers 4. administrative powers Which of the above statements are correct?
+
+A. 2, 3 and 4 only
+B. 1, 2 and 3 only
+C. 1, 2 and 4 only
+D. More than one of the above
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** On 24 April 1993, the Constitution 73rd (Amendment) Act 1992 became effective.
+
+**Ans: C. 1, 2 and 4 only. On 24 April 1993, the Constitution 73rd (Amendment) Act 1992 became effective. It is worth mentioning that, it was passed in 1992. The Act gave state governments the authority to take the required actions to formalize Gram Panchayats and enable them to function as self-governing entities. The 73rd Amendment Act was introduced by the Central government of India in 1992 to solve these problems and enhance local self-governments. Part IX: 'The Panchayats' is a new chapter that was added to the Constitution as a result of this Amendment Act. In this Act, judicial power was not decentralized. The 73rd and 74th Amendment Acts provide a basic framework for the decentralisation of powers and authorities to the Panchayati Raj/Municipal bodies at different levels. However, responsibility for giving it a practical shape rests with the States. States are expected to act in accordance with the spirit of the Acts to establish a strong and viable system of Local Self-Government.**
+
+</details>
+
+**Q93. BPSC (Pre) 2020**
+
+Which one of the following is not the characteristic of decentralization?
+
+A. Autonomy
+B. People's participation
+C. To instill non-confidence among local communities
+D. To empower local communities
+E. None of the above/More than one of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Decentralization means delegating authority to make decisions to the lowest possible organisational hierarchy level.
+
+**Ans: C. To instill non-confidence among local communities. Decentralization means delegating authority to make decisions to the lowest possible organisational hierarchy level. Under decentralization, an organization's central unit distributes functions, responsibility, and accountability to regional and local units. Thus, decentralization marks an extension of the process of delegation. Thus, the autonomy of regional or local units, People's Participation and empowering local communities is the characteristics of the decentralization, while non-confidence among local communities is not a characteristic of decentralization.**
+
+</details>
+
+**Q94. Ghatnachakra standard**
+
+Consider the following statements - Assertion (A) : Political interference in the management of rural matters is now decreased at the local level. Reason(R) : The Rural local governance institutions have been rejuvenated by the 73rd amendment to Constitution. Select the correct answer using code given below: Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** The 73rd Amendment to the Constitution has rejuvenated the local governance institutions in rural areas and reduced the interference of politics in their management.
+
+**Ans: A. Both (A) and (R) are true, and (R) is the correct explanation of (A).. The 73rd Amendment to the Constitution has rejuvenated the local governance institutions in rural areas and reduced the interference of politics in their management. Thus, both statements are true, and Reason (R) is the correct explanation of Assertion (A).**
+
+</details>
+
+**Q95. UPSC (Pre) 2001**
+
+State Government has no authority over local bodies in relation to which one of the following matters?
+
+A. Citizen’s Complaints
+B. Economic Matters
+C. Law Making
+D. Matters related to Serviceman
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The State Government has no authority over local bodies on matters relating to citizen’s complaints.
+
+**Ans: A. Citizen’s Complaints. The State Government has no authority over local bodies on matters relating to citizen’s complaints.**
+
+</details>
+
+**Q96. CGPCS (Pre) 2021**
+
+The State Government controls over urban local bodies: (A) in legislative matters (B) in financial matters (C) in personnel matters (D) in respect of citizens' grievances Select the correct answer from the codes given below–
+
+A. (A) and (B)
+B. (B) and (C)
+C. (B), (C) and (D)
+D. (A), (B) and (C)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies (A), (B) and (C) as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. (A), (B) and (C). The controlling constitutional or historical fact identifies (A), (B) and (C) as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q97. UPPCS (Mains) 2017**
+
+The nomenclature of rural local governments as 'Panchayati Raj' was the result of the suggestion of which Indian leader?
+
+A. Jawaharlal Nehru
+B. Dr. Rajendra Prasad
+C. Sardar Patel
+D. M. K. Gandhi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mahatma Gandhi suggested the nomenclature of rural local governments as 'Panchayati Raj'.
+
+**Ans: D. M. K. Gandhi. Mahatma Gandhi suggested the nomenclature of rural local governments as 'Panchayati Raj'. He wanted to see each village a little republic, self-sufficient in its vital wants and enjoying the maximum freedom of deciding the affairs of the locality.**
+
+</details>
+
+**Q98. BPSC (Pre) 2011**
+
+Name the Committee which was set up by the NDC in 1957 for the reorganization of CDP and NES, which suggested a three-tier system of rural local government-
+
+A. Balwant Rai Mehta Committee
+B. Ashok Mehta Committee
+C. Maharashtra Committee on Democratic Decentralisation
+D. Rural-Urban Relationship Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Community Development Programme (CDP) was started in 1952, and the National Extension Scheme (NES) was started in 1953.
+
+**Ans: A. Balwant Rai Mehta Committee. The Community Development Programme (CDP) was started in 1952, and the National Extension Scheme (NES) was started in 1953. The Balwant Rai Mehta Committee was constituted in 1957 by National Development Council for the reorganization of CDP and NES. This Committee recommended a three-tier local self-government under Panchayati Raj System.**
+
+</details>
+
+**Q99. UPSC / MPPCS (Pre) 2014**
+
+The Committee which recommended a three-tier Panchayati Raj System in India was –
+
+A. Ashok Mehta Committee
+B. Balwant Rai Mehta Committee
+C. G.K.V. Rao Committee
+D. L.M. Singhvi Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Balwant Rai Mehta Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Balwant Rai Mehta Committee. The controlling constitutional or historical fact identifies Balwant Rai Mehta Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q100. MPPCS (Pre) 2016**
+
+Which kind of Panchayati Raj System was recommended by the Balwant Rai Mehta Committee?
+
+A. Two-tier
+B. Three-tier
+C. Village level
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Three-tier as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Three-tier. The controlling constitutional or historical fact identifies Three-tier as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q101. UPPCS (Mains) 2015**
+
+Which one of the following States was the first to setup Panchayati Raj institutions in accordance with the recommendations of the Balwant Rai Mehta Committee?
+
+A. Uttar Pradesh
+B. Andhra Pradesh
+C. Rajasthan
+D. Telangana
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Rajasthan as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. Rajasthan. The controlling constitutional or historical fact identifies Rajasthan as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q102. BPSC (Pre) 1992**
+
+The Chairman of the Committee set up for the recommendation of Panchayati Raj in India was –
+
+A. Balwant Rai Mehta
+B. B.R. Ambedkar
+C. Justice Krishna Ayer
+D. Jagjivan Ram
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Balwant Rai Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: A. Balwant Rai Mehta. The controlling constitutional or historical fact identifies Balwant Rai Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q103. UKPCS / BPSC / MPPCS (Mains) 1996**
+
+The committee on whose recommendation, the ‘Panchayati Raj System’ was introduced in the Country, was headed by –
+
+A. Jivraj Mehta
+B. Balwant Rai Mehta
+C. Shrimannarayan
+D. Jagjivan Ram
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Balwant Rai Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Balwant Rai Mehta. The controlling constitutional or historical fact identifies Balwant Rai Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q104. UPPCS (Mains) 2017**
+
+Which of the following committees recommended ‘Three-Tier Panchayt Raj System’?
+
+A. Balwant Rai Mehta Committee
+B. Ashok Mehta Committee
+C. Rao Committee
+D. Singhvi Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In January 1957, the Government of India appointed a Committee to examine the working of the Community Development Program (1952) and the National Extension Service (1953) and to suggest measures for their better working.
+
+**Ans: A. Balwant Rai Mehta Committee. In January 1957, the Government of India appointed a Committee to examine the working of the Community Development Program (1952) and the National Extension Service (1953) and to suggest measures for their better working. The Chairman of this committee was Balwant Rai G Mehta. The committee submitted its report in November 1957 and recommended the establishment of the scheme of ‘Democratic decentralisation’ which came to be known as Panchayati Raj. It recommended a three-tier system i.e; Gram Panchayat at village level, Panchayat Samiti at the block level and Zila Parishad at the district level.**
+
+</details>
+
+**Q105. UPPCS (Mains) 2013**
+
+Match List-I with List-II and select the correct answer from the code given below the lists : List-I List-II (Committees) (Suggestion) A. Balwant Rai Mehta 1. Two-tier system B. Ashok Mehta 2. Three-tier System C. L.M. Singhvi 3. Improvement in representative character D. G . V. K. Rao 4. Local Self-government System Code : A B C D
+
+A. 1 2 3 4
+B. 4 3 2 1
+C. 2 1 4 3
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Balwant Rai Mehta Committee was constituted in 1957 and recommended a three-tier system of Panchayati Raj.
+
+**Ans: C. 2 1 4 3. The Balwant Rai Mehta Committee was constituted in 1957 and recommended a three-tier system of Panchayati Raj. Ashok Mehta Committee was constituted in 1977 and submitted its report in 1978. Ashok Mehta committee recommended replacing three-tier system with twotier system. In 1985 the G. V. K. Rao Committee was constituted and it recommended for improvement in the representative character of Panchayat. L.M. Singhvi Committee was constituted in 1986, which recommended local self-government and allocation of more financial resources to village Panchayats. In 1983 the Hanumantha Rao Committee was constituted and it recommended for the decentralization of functions, powers sand finance, setting up of district planning bodies and district planning cells.**
+
+</details>
+
+**Q106. UPPCS (Pre) 2015**
+
+Who is considered as the ‘Architect of Panchayati Raj’ in India?
+
+A. B. R. Mehta
+B. L. M. Singhvi
+C. G. V. K. Rao
+D. Acharya Narendra Dev
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies B. R. Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: A. B. R. Mehta. The controlling constitutional or historical fact identifies B. R. Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q107. MPPCS (Pre) 1994**
+
+According to democratic decentralization recommended by Balwant Rai Mehta committee?
+
+A. Three-tier democratic Panchayati Raj institutions were to be set up at the village, block and district levels.
+B. Only two-tier Panchayati Raj institutions at district and Mandal levels were to be constituted.
+C. Only Zila Parishad was proposed to be set up at the district level.
+D. None of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Balwant Rai Mehta Committee recommended in 1957 that the three-tier democratic Panchayati Raj System be set up at the village, block and district levels.
+
+**Ans: A. Three-tier democratic Panchayati Raj institutions were to be set up at the village, block and district levels.. Balwant Rai Mehta Committee recommended in 1957 that the three-tier democratic Panchayati Raj System be set up at the village, block and district levels.**
+
+</details>
+
+**Q108. BPSC (Pre) 2005**
+
+The Panchayati Raj System was first started in India in the State of Rajasthan and ..................
+
+A. Haryana
+B. Gujarat
+C. Uttar Pradesh
+D. Andhra Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rajasthan is the first State to establish the Panchayati Raj system on 2 October, 1959 in Nagaur district while Andhra Pradesh is the second State to establish the Panchayati Raj System.
+
+**Ans: D. Andhra Pradesh. Rajasthan is the first State to establish the Panchayati Raj system on 2 October, 1959 in Nagaur district while Andhra Pradesh is the second State to establish the Panchayati Raj System.**
+
+</details>
+
+**Q109. UPSC / BPSC / RPSC (Pre) 1999**
+
+Panchayati Raj was first introduced in October, 1959 in–
+
+A. Rajasthan
+B. Tamilnadu
+C. Kerala
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Rajasthan as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: A. Rajasthan. The controlling constitutional or historical fact identifies Rajasthan as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q110. UPPCS (Pre) 1991**
+
+The first Panchayati Raj System was inaugurated by Pt. Jawaharlal Nehru on 2th October, 1959 in –
+
+A. Sabarmati
+B. Wardha
+C. Nagaur
+D. Sikar
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Nagaur as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. Nagaur. The controlling constitutional or historical fact identifies Nagaur as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q111. UPPCS (Pre) 2010**
+
+The first State to implement the Panchayati Raj System in India was –
+
+A. Uttar Pradesh
+B. Bihar
+C. Gujarat
+D. Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rajasthan was the first State to implement Panchayati Raj, at Nagaur on 2 October 1959. Since Rajasthan is absent, none of the listed options is correct.
+
+**Ans: No listed option is correct. Rajasthan was the first State to implement Panchayati Raj.**
+
+</details>
+
+**Q112. UPPCS (Mains) 2003**
+
+The first State to adopt Panchayati Raj was –
+
+A. Uttar Pradesh
+B. Bihar
+C. Gujarat
+D. Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Rajasthan as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. Rajasthan. The controlling constitutional or historical fact identifies Rajasthan as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q113. UKPCS (Pre) 2006**
+
+When and where was Panchayati Raj System in India introduced?
+
+A. 5th July, 1957, Faizabad (U.P.)
+B. 2ndOctober, 1959, Nagaur (Rajasthan)
+C. 14thNovember, 1959, Ahmedabad (Gujarat)
+D. 3rdDecember, 1960, Bhopal (M.P.)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies 2ndOctober, 1959, Nagaur (Rajasthan) as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. 2ndOctober, 1959, Nagaur (Rajasthan). The controlling constitutional or historical fact identifies 2ndOctober, 1959, Nagaur (Rajasthan) as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q114. UPPCS (Pre) 2013**
+
+Who was the Chairman of the Committee which proposed Democratic Decentralisation and Panchayati Raj?
+
+A. K.M. Pannikar
+B. H.N. Kunjru
+C. Mahatma Gandhi
+D. Balwant Rai Mehta
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Balwant Rai Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. Balwant Rai Mehta. The controlling constitutional or historical fact identifies Balwant Rai Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q115. BPSC (Pre) 2015**
+
+The Decentralization System was recommended by
+
+A. C. Rajagopalachari
+B. J.B. Kripalani
+C. Balwant Rai Mehta
+D. Ashok Mehta
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Balwant Rai Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. Balwant Rai Mehta. The controlling constitutional or historical fact identifies Balwant Rai Mehta as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q116. UPPCS (Mains) 2006**
+
+Establishment of the Panchayati Raj System was recommended by –
+
+A. The Government of India Act, 1935.
+B. The Cripps Mission 1942.
+C. The Indian Independence Act, 1947
+D. Balwant Rai Mehta Committee Report 1957.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Balwant Rai Mehta Committee Report 1957. as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. Balwant Rai Mehta Committee Report 1957.. The controlling constitutional or historical fact identifies Balwant Rai Mehta Committee Report 1957. as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q117. UPPCS / CGPCS (Mains) 2008**
+
+Which committee had, first of all, recommended threetier Panchayati Raj system in India?
+
+A. Ashok Mehta Committee
+B. L.M. Singhvi Committee
+C. Balwant Rai Mehta Committee
+D. Sarkariya Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Balwant Rai Mehta Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. Balwant Rai Mehta Committee. The controlling constitutional or historical fact identifies Balwant Rai Mehta Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q118. CGPCS (Pre) 2011**
+
+The three-tier system of Panchayati Raj was initially recommended by
+
+A. Balwant Rai Mehta Committee
+B. Ashok Mehta Committee
+C. L.M. Singhvi Committee
+D. G.V.K. Rao Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Balwant Rai Mehta Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: A. Balwant Rai Mehta Committee. The controlling constitutional or historical fact identifies Balwant Rai Mehta Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q119. UPPCS (Pre) 2014**
+
+Which one of the following committees is not concerned with Panchayati Raj Institution?
+
+A. P.V.N. Rao Committee
+B. L.M. Singhvi Committee
+C. Ashok Mehta Committee
+D. Balwant Rai Mehta Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** • In 1957, the National Development Council constituted a committee headed by Balwant Rai Mehta to look into the working of community development programmes.
+
+**Ans: A. P.V.N. Rao Committee. • In 1957, the National Development Council constituted a committee headed by Balwant Rai Mehta to look into the working of community development programmes. • The Ashok Mehta Committee was appointed in 1977. • The G.V.K. Rao Committee was appointed in 1985. • The L.M.Singhvi Committee was appointed in 1986. • The C.H. Hanumantha Rao Committee was appointed in 1983.**
+
+</details>
+
+**Q120. JPSC (Pre) 2023**
+
+Which of the following committtees were appointed to inquire into the working of Panchayati Raj Institution in India? I. L. M. Singhvi Committee II. G.V.K. Rao Committee III. Ashok Mehta Committee IV. Balwant Rai Mehta Committee Select the correct answer :
+
+A. Only I, II and III
+B. Only III and IV
+C. Only II, III and IV
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies All of the above as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. All of the above. The controlling constitutional or historical fact identifies All of the above as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q121. BPSC (Pre) 2020**
+
+Match List-I with List-II and select the correct answer using the codes given below the Lists : List - I List - II (Panchayati Raj Committees) (Years) a. C.H. Hanumantha Rao 1. 1985 b. G.V.K. Rao 2. 1986 c. Ashok Mehta 3. 1984 d. L.M. Singhvi 4. 1957 e. Balwant Rai Mehta 5. 1978 Codes
+
+A. a b c d e 4 5 1 3 2
+B. a b c d e 2 4 1 3 5
+C. a b c d e 5 3 2 4 1
+D. a b c d e 3 1 5 2 4
+E. None of the above / More than one of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies a b c d e 3 1 5 2 4 as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. a b c d e 3 1 5 2 4. The controlling constitutional or historical fact identifies a b c d e 3 1 5 2 4 as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q122. UPPCS (Mains) 2017**
+
+Consider the following Committees on Panchayati Raj and arrange these in chronological order: I. Ashok Mehta Committee II. L.M. Singhvi Committee III. B.R. Mehta Committee IV. G.K.V. Rao Committee Select the correct answer from the codes given below. Codes:
+
+A. I, II, III, IV
+B. III, I, IV, II
+C. II, I, III, IV
+D. III, II, IV, I
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies III, I, IV, II as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. III, I, IV, II. The controlling constitutional or historical fact identifies III, I, IV, II as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q123. UPPCS (Mains) 2022**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists: List-I List-II (Committees) (Year) A. P.K. Thungan 1. 1957 B. Ashok Mehta 2. 1986 C. B.R. Mehta 3. 1977 D. L.M. Singhvi 4. 1988 Codes : A B C D
+
+A. 1 3 4 2
+B. 2 1 3 4
+C. 4 1 2 3
+D. 4 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies 4 3 1 2 as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: D. 4 3 1 2. The controlling constitutional or historical fact identifies 4 3 1 2 as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q124. UPPCS (Mains) 2008**
+
+Which of the following Committee is not associated with Panchayati Raj System?
+
+A. Ashok Mehta Committee
+B. V.K.R.V. Rao Committee
+C. Santhanam Committee
+D. B.R. Mehta Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rao Committee is not related to the Panchayati Raj System.
+
+**Ans: B. V.K.R.V. Rao Committee. V. K. R. V. Rao Committee is not related to the Panchayati Raj System. Vijayendra Kasturi Ranga Varadraja Rao was a prominent Indian economist. He headed the United Nations Commission for Economic Development and served as a member of the Committee for National Income.**
+
+</details>
+
+**Q125. UKPCS (Pre) 2012**
+
+Which one of the following Committees is not associated with Panchayat Raj System in India?
+
+A. Dinesh Goswami Committee
+B. L.M. Singhvi Committee
+C. Sadiq Ali Committee
+D. Ashok Mehta Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Dinesh Goswami Committee is not related to the Panchayat Raj System.
+
+**Ans: A. Dinesh Goswami Committee. The Dinesh Goswami Committee is not related to the Panchayat Raj System. It was constituted in 1990 to give a recommendation on Electoral Reforms. The other three committees are related to the Panchayati Raj system.**
+
+</details>
+
+**Q126. UPPCS (Pre) 2009**
+
+Which model was recommended by Ashok Mehta Committee for Panchayati Raj System?
+
+A. One-tier
+B. Two-tier
+C. Three-tier
+D. Four-tier
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ashoke Mehta committee was constituted in 1977, which submitted its report in August 1978.
+
+**Ans: B. Two-tier. The Ashoke Mehta committee was constituted in 1977, which submitted its report in August 1978. The committee in its report had recommended ‘two-tier’ system in place of ‘three tier’ system. The two- tier system or model was - Zila Parishad at the district level and Mandal Panchayat at the Mandal level which was consisted of a group of villages covering a population of 15000 to 20000.**
+
+</details>
+
+**Q127. BPSC (Pre) 2011**
+
+Ashok Mehta Committee recommended –
+
+A. Three-tier Government of Panchayati Raj
+B. Two-tier Government of Panchayati Raj
+C. Single-tier Government of Panchayati Raj
+D. Multiple-tier Government of Panchayati Raj
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Two-tier Government of Panchayati Raj as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Two-tier Government of Panchayati Raj. The controlling constitutional or historical fact identifies Two-tier Government of Panchayati Raj as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q128. UPPCS (Pre) 2023**
+
+With reference to the recommendations of the Ashok Mehta Committee (1977) on Panchayati Raj, which of the following statement/s is/are correct? (1) The three tier system of Panchayati Raj should be replaced by the two tier system. (2) A block should be the first point for decentralization under popular supervision below the state level. Select the correct answer using the code given below : Code :
+
+A. Both (1) and (2)
+B. Only (1)
+C. Only (2)
+D. Neither (1) nor (2)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In 1977, the Ashok Mehta Committee was established and recommendations were made for the Panchayati Raj system in 1978.
+
+**Ans: B. Only (1). In 1977, the Ashok Mehta Committee was established and recommendations were made for the Panchayati Raj system in 1978. One of the key suggestions was the establishment of a two - tier system to replace the existing three-tier Panchayat system. However this recommendation was not implemented. It is recommended that a district (not a block) should be the first point for decentralisation under popular supervision below the state level. Option (b) is correct answer. Statement (1) is correct and Statement (2) is not correct.**
+
+</details>
+
+**Q129. UKPCS (Pre) 2016**
+
+Which one of the following Committees/Commissions recommended the creation of Nyaya Panchayats?
+
+A. Balwantrai Mehta Committee
+B. Ashok Mehta Committee
+C. G.V.K. Rao Committee
+D. Sarkaria Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ashok Mehta Committee recommended the creation of Nyaya Panchayats.
+
+**Ans: B. Ashok Mehta Committee. The Ashok Mehta Committee recommended the creation of Nyaya Panchayats. Ashok Mehta Committee submitted its report in 1978. The committee recommended a two- tier system of Panchayati Raj Institutions.**
+
+</details>
+
+**Q130. BPSC (Pre) 2017**
+
+Which one of the following Committees/Commissions recommended the creation of Nyaya Panchayats?
+
+A. Balwant Rai Mehta Committee
+B. Ashok Mehta Committee
+C. G.V.K. Rao Committee
+D. Sarkaria Commission
+E. None of the above / more than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Ashok Mehta Committee (1977) recommended the creation of Nyaya Panchayats.
+
+**Ans: B. Ashok Mehta Committee. The Ashok Mehta Committee (1977) recommended the creation of Nyaya Panchayats. The Committee recommended that Nyaya Panchayats should be kept as separate bodies and should not be mixed with the people elected for the development of Panchayats. The Committee was in favour of a combination of a qualified Judge to preside over a bench of separately elected Nyaya Panches. The elected Nyaya Panches will not be entitled to seek re-election, they should serve in an area other than that from which they have been elected.**
+
+</details>
+
+**Q131. UPPCS (Mains) 2008**
+
+Which of the following Committees recommended to give Constitutional status to Panchayati Raj?
+
+A. L.M. Singhvi Committee
+B. Balwant Rai Mehta Committee
+C. Rao Committee
+D. Ashok Mehta Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Singhvi Committee was constituted in 1986 to give suggestions in favour of Panchayati Raj.
+
+**Ans: A. L.M. Singhvi Committee. The L.M. Singhvi Committee was constituted in 1986 to give suggestions in favour of Panchayati Raj. This Committee had recommended that the local self-government should be Constitutionally recognized, protected and preserved by the Constitution, and had also recommended the noninvolvement of political parties in Panchayat elections.**
+
+</details>
+
+**Q132. MPPCS (Pre) 2019**
+
+The Committee which recommended that the Panchayati Raj Institutions should be Constitutionally recognised was
+
+A. Ashok Mehta Committee
+B. K. Santhanam Committee
+C. L.M. Singhvi Committee
+D. G.V.K. Rao Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies L.M. Singhvi Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. L.M. Singhvi Committee. The controlling constitutional or historical fact identifies L.M. Singhvi Committee as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q133. CGPCS (Pre) 2021**
+
+Which of the following pairs is/are correctly matched? (A) Rationalisation of Panchayat — V.R. Rao Statistics (B) Panchayat Raj Training — A.S. Trivedi (C) Working Group on Panchayats— S.D. Mishra and Co-operative (D) Administrative Arrangement for— G.K.V. Rao Rural Development and Poverty Alleviation Programmes Code :
+
+A. (A), (C) and (D)
+B. Only (B)
+C. (A), (B) and (C)
+D. (A) and (B)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct match is as follows– • Rationalisation of Panchayat Statistics — V.R.
+
+**Ans: A. (A), (C) and (D). The correct match is as follows– • Rationalisation of Panchayat Statistics — V.R. Rao • Working Group on Panchayats and — S.D. Mishra Co-operative • Administrative Arrangement for Rural — G.K. V. Rao Development and Poverty Alleviation Programmes Note: In above question instead of G.K.V. Rao, there should be G.V.K. Rao, otherwise the question will be wrong.**
+
+</details>
+
+**Q134. UPPCS / RPSC (Pre) 2013**
+
+Which part of our Constitution envisages a three-tier system of Panchayats?
+
+A. Part IX
+B. Part X
+C. Part XI
+D. Part XII
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part IX of the Constitution provides for a three-tier system of Panchayati Raj in every State, (but Panchayats at intermediate level may not be constituted in a state having a population not exceeding twenty lakh) i.e., Panchayats at the village, intermediate and district level.
+
+**Ans: A. Part IX. Part IX of the Constitution provides for a three-tier system of Panchayati Raj in every State, (but Panchayats at intermediate level may not be constituted in a state having a population not exceeding twenty lakh) i.e., Panchayats at the village, intermediate and district level. Article 243-B provides for this three-tier system.**
+
+</details>
+
+**Q135. BPSC (Pre) 2001**
+
+The Three-tier system of Panchayati Raj consists of-
+
+A. Gram Panchayat, Panchayat Samiti, Block Samiti
+B. Gram Panchayat, Block Samiti, Zila Parishad
+C. Block Samiti, Zila Parishad, Panchayat Samiti
+D. Gram Panchayat, Panchayat Samiti, Zila Parishad
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Three-tier Panchayati Raj System consists of Gram Panchayat, Panchayat Samiti (Block Panchayat) and Zila Parishad.
+
+**Ans: D. Gram Panchayat, Panchayat Samiti, Zila Parishad. The Three-tier Panchayati Raj System consists of Gram Panchayat, Panchayat Samiti (Block Panchayat) and Zila Parishad.**
+
+</details>
+
+**Q136. BPSC (Pre) 2019**
+
+Which of the following was constituted under the Panchayati Raj system?
+
+A. Khap Panchayat
+B. Caste Panchayat
+C. Gram Panchayat
+D. Jan Panchayat
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gram Panchayat consists of a village or a group of villages divided into smaller units called "Wards".
+
+**Ans: C. Gram Panchayat. Gram Panchayat consists of a village or a group of villages divided into smaller units called "Wards". Each ward selects or elects a representative who is known as the Panch or ward member. The members of the Gram Sabha elect the ward members through direct election. The Sarpanch or the President of the Gram Panchayat is elected by the Ward members as per the state Act. The Sarpanch and the panch are elected for a term of five years.**
+
+</details>
+
+**Q137. UPSC (Pre) 2025**
+
+Consider the following statements : I. Panchayats at the intermediate level exist in all States. II. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years. III. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level. Which of the statements given above are not correct?
+
+A. I and II only
+B. II and III only
+C. I and III only
+D. I, II and III
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243B, for States with a population of less than 20 lakh, constituting an intermediate-level Panchayat is optional, not mandatory.
+
+**Ans: D. I, II and III. According to Article 243B, for States with a population of less than 20 lakh, constituting an intermediate-level Panchayat is optional, not mandatory. Therefore, Statement I is incorrect. The minimum age to become a member of a Panchayat (for all three levels) is 21 years, not 30 years. Therefore, Statement II is also incorrect. The Commission is constituted not by the Chief Minister but by the Governor, and it does not make recommendations only for intermediate-level Panchayats; rather, it recommends the distribution of resources among Panchayats at all levels. Thus, none of the three statements is correct.**
+
+</details>
+
+**Q138. UPPCS (Pre) 2010**
+
+Which of the following have been covered by 73rd Amendment of the Constitution? 1. Zila Panchayat 2. Kshetra Panchayat 3. Gram Panchayat 4. Nagar Panchayat Select the correct answer using the code given below: Code :
+
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. Only 2, 3 and 4
+D. All the four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gram Panchayat, Kshetra Panchayat and Zila Parishad have been covered in the 73rd Amendment of the Constitution of India, whereas Nagar Panchayat, Nagar Palika Parishad and Nagar Nigam have been covered under the 74th Amendment Act- 1992.
+
+**Ans: B. Only 1, 2 and 3. Gram Panchayat, Kshetra Panchayat and Zila Parishad have been covered in the 73rd Amendment of the Constitution of India, whereas Nagar Panchayat, Nagar Palika Parishad and Nagar Nigam have been covered under the 74th Amendment Act- 1992.**
+
+</details>
+
+**Q139. UKPCS (Pre) 2003**
+
+Territory of a Kshetra Panchayat (Panchayat at intermediate level) is determined by –
+
+A. State Election Commission
+B. State Government
+C. Divisional Commissioner
+D. District Magistrate
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Territory or an area of Kshetra Panchayat and all other Panchayats are determined by the State Government.
+
+**Ans: B. State Government. Territory or an area of Kshetra Panchayat and all other Panchayats are determined by the State Government. According to Article 243-C (2), All the seat in Panchayat shall be filled by persons chosen by direct election from territorial constituencies in the Panchayat area and for this purpose, each Panchayat area shall be divided into territorial constituencies in such manner that the ratio between the population of each constituency and the number of seats allotted to it shall, so far as practicable, be the same throughout the Panchayat area.**
+
+</details>
+
+**Q140. CGPCS (Pre) 2016**
+
+Who notify the alteration in limits of Block and Zila Panchayat?
+
+A. Governor
+B. State Election Commission
+C. Divisional Commissioner
+D. Collector and District Returning Officer
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to the Chhattisgarh Panchayat Raj Act, 1993, Section 127, the Governor may, by notification, change the headquarters of a Block or alter the limits of a Block by including or excluding any local area.
+
+**Ans: A. Governor. According to the Chhattisgarh Panchayat Raj Act, 1993, Section 127, the Governor may, by notification, change the headquarters of a Block or alter the limits of a Block by including or excluding any local area.**
+
+</details>
+
+**Q141. UPSC (Pre) 2000**
+
+Match list-I and List-II and give correct answer using code given below: List-I List-II (Local Bodies) (State, according to status of the year 1999) A. Zila Parishad at Sub 1. Andhra Pradesh divisional level. B. Mandal Praja Parishad 2. Assam C. Janajati Parishad 3. Mizoram D. The absence of Gram 4. Meghalaya Panchayats Code:
+
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-4, D-3
+C. A-3, B-2, C-1, D-4
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The matched order of List-I and List- II is as follows: Zila Parishad at sub - Assam division level Mandal Praja Parishad - Andhra Pradesh Janajati Parishad - Meghalaya Absence of Gram - Mizoram Panchayat
+
+**Ans: A. A-2, B-1, C-4, D-3. The matched order of List-I and List- II is as follows: Zila Parishad at sub - Assam division level Mandal Praja Parishad - Andhra Pradesh Janajati Parishad - Meghalaya Absence of Gram - Mizoram Panchayat**
+
+</details>
+
+**Q142. UPPCS (Mains) 2011**
+
+Which of the following States does not have any Panchayati Raj Institution?
+
+A. Assam
+B. Kerala
+C. Nagaland
+D. Tripura
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** At present, there is no Panchayati Raj Institution in the States of Mizoram, Nagaland, and Meghalaya.
+
+**Ans: C. Nagaland. At present, there is no Panchayati Raj Institution in the States of Mizoram, Nagaland, and Meghalaya.**
+
+</details>
+
+**Q143. BPSC (Pre) 2022**
+
+Which State does not have Panchayat system?
+
+A. Nagaland
+B. Mizoram
+C. Meghalaya
+D. Kerala
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part IX of the Indian Constitution has provisions related to Panchayats from Articles 243 to 243O.
+
+**Ans: E. None of the above/More than one of the above. Part IX of the Indian Constitution has provisions related to Panchayats from Articles 243 to 243O. As per clause (2) of Article 243 M, the provisions relating to panchayats shall not apply to the hill areas of the states of Nagaland, Meghalaya and Mizoram and the state of Manipur where district councils exist. Hence, the correct answer to this question is (e) i.e. 'More than one of the above'.**
+
+</details>
+
+**Q144. CGPCS (Pre) 2019**
+
+Match the List-I with List-II and select the correct answer using the codes given below the lists: List-I List-II (Names of the Panchayat (Name of the related Samities) provinces of India) A. Janpad Panchayat 1. West Bengal B. Kshetra Panchayat 2. Gujarat C. Taluka Parishad 3. Madhya Pradesh D. Anchalik Parishad 4. Uttar Pradesh Codes : A B C D
+
+A. 2 1 3 4
+B. 4 3 1 2
+C. 3 4 2 1
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct match of List-I with List-II is as follows : List-I List-II (Names of the Panchayat (Names of the related Samities) provinces of India) Janpad Panchayat Madhya Pradesh Kshetra Panchayat Uttar Pradesh Taluka Parishad Gujarat Anchalik Parishad West Bengal
+
+**Ans: C. 3 4 2 1. The correct match of List-I with List-II is as follows : List-I List-II (Names of the Panchayat (Names of the related Samities) provinces of India) Janpad Panchayat Madhya Pradesh Kshetra Panchayat Uttar Pradesh Taluka Parishad Gujarat Anchalik Parishad West Bengal**
+
+</details>
+
+**Q145. JPSC (Pre) 2011**
+
+The Members of Panchayat Samiti are -
+
+A. Directly elected by the public
+B. Elected by the members of Panchayat
+C. Nominated by District Magistrate
+D. Recruited on the basis of open competition
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Panchayat Samiti in Jharkhand is constituted under Section 32 of the Jharkhand Panchayati Raj Act, 2001.
+
+**Ans: A. Directly elected by the public. The Panchayat Samiti in Jharkhand is constituted under Section 32 of the Jharkhand Panchayati Raj Act, 2001. Its members are elected directly by the public.**
+
+</details>
+
+**Q146. UPPCS (Pre) 2013**
+
+The members of the Panchayat Samiti are –
+
+A. Nominated by the Block Development Officer
+B. Nominated by the Chairman of Zila Panchayat.
+C. Directly elected by the people.
+D. Indirectly elected by the members of the Village Panchayat .
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Panchayat Samiti is an intermediary (Block) level of the three-tier Panchayati Raj System.
+
+**Ans: C. Directly elected by the people.. Panchayat Samiti is an intermediary (Block) level of the three-tier Panchayati Raj System. Its members are elected by the public directly. In Uttar Pradesh, the Panchayat Samiti is known as Kshetra Panchayat.**
+
+</details>
+
+**Q147. UPPCS (Mains) 2015**
+
+In Panchayati Raj System, the Panchayat Samiti is constituted at the –
+
+A. Village level
+B. Block level
+C. District level
+D. State level
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Block level as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Block level. The controlling constitutional or historical fact identifies Block level as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q148. BPSC (Pre) 2022**
+
+Which one of the following was established as the first programme of community development?
+
+A. Cooperation Movement
+B. National Extension Service
+C. Integrated Rural Development Programme
+D. More than one of the above
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Community Development Programme (CDP) was the first major rural development programme launched after independence in 1952.
+
+**Ans: B. National Extension Service. The Community Development Programme (CDP) was the first major rural development programme launched after independence in 1952. The Core objective of this program was to bring community development. The three phases of community development were- National Extension Phase, Intensive Community Development Project Phase and PostIntensive Development Phase. It is worth mentioning here that the National Extension Service program was formulated in April 1953 and it was inaugurated in October, 1953. It was formed after the Indian government realized that the Community Development Programme, which was formed in 1952, could not be implemented all over India due to a shortage of funds.**
+
+</details>
+
+**Q149. BPSC (Pre) 2022**
+
+At what level does a Panchayat Samiti operate a Panchayati Raj structure?
+
+A. Block-level body
+B. District level
+C. Gram Panchayat level
+D. More than one of the above
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct answer is option (a) Block-level body.
+
+**Ans: A. Block-level body. The correct answer is option (a) Block-level body. It is important to mention here that the 73rd Constitutional Amendment Act of 1992 provides for three-tier local selfgovernment. Gram Panchayat at the village level. Block Panchayat or Panchayat Samiti at the intermediate level i.e., the block level. Zilla Panchayat at the District level. Significantly, Panchayat Samiti is a rural local government (panchayat) body at the intermediate tehsil level in India.**
+
+</details>
+
+**Q150. BPSC / CGPCS (Pre) 2011**
+
+A Panchayat Samiti at the block level is –
+
+A. An advisory body
+B. An administrative authority
+C. An advisory committee
+D. A supervisory authority
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Panchayat Samiti is the local Government body at the Block level.
+
+**Ans: B. An administrative authority. Panchayat Samiti is the local Government body at the Block level. The Panchayat Samiti is a link between the Gram Panchayats and Zila Panchayat. It works as an administrative authority. The Panchayat Samiti collects all the prospective plans prepared at Gram Panchayat level and processes them for funding and implementation by evaluating them.**
+
+</details>
+
+**Q151. BPSC (Pre) 2016**
+
+A Panchayat Samiti at the block level in India is only a/an
+
+A. Advisory Body
+B. Consultative Committee
+C. Co-ordinating and Supervisory Authority
+D. Administrative Authority
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Panchayat Samiti at the block level is an administrative body.
+
+**Ans: D. Administrative Authority. The Panchayat Samiti at the block level is an administrative body. The functions of Panchayat Samiti relate both to coordination and execution. Zila Parishad is a Supervisory and co-ordinating body.**
+
+</details>
+
+**Q152. UPPCS (Mains) 2010**
+
+Chairman of a Zila Panchayat in Uttar Pradesh is elected: 1. Directly by persons whose names appear in electoral rolls of the Kshetra Panchayats. 2. By the members of Zila Panchayat from among themselves. 3. By the SC/ST members of the Zila Panchayat from among themselves (if reserved for them). 4. The members of Zila Panchayat belonging to Backward Classes from among themselves (if reserved for them). Select the correct answer using the code given below: Code:
+
+A. 1 only
+B. 2 only
+C. 1, 3 and 4
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Section 19 of the Uttar Pradesh Kshetra Panchayats and Zila Panchayat Act, 1961, ‘’In every Zila Panchayat, the Chairman shall be elected by the elected members of the Zila Panchayat from amongst themselves.
+
+**Ans: B. 2 only. According to Section 19 of the Uttar Pradesh Kshetra Panchayats and Zila Panchayat Act, 1961, ‘’In every Zila Panchayat, the Chairman shall be elected by the elected members of the Zila Panchayat from amongst themselves. Section 19-A of this Act deals with the reservation of the office of the Chairman of the Zila Panchayats for the persons belonging to the Scheduled Caste, Scheduled Tribes, and Backward Classes.**
+
+</details>
+
+**Q153. CGPCS (Pre) 2017**
+
+If the President of Zilla Panchayat is suspended, what will happen?
+
+A. The Vice President of Zilla Panchayat will be act as acting President
+B. The Vice President will become President
+C. The Office of the President will be vacant
+D. The members will elect President temporarily
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to the section 39(3) of the Chhattisgarh Panchayat Raj Act, 1993 if the Sarpanch of Gram Panchayat, President of Janpad Panchayat or Zila Panchayat, as the case may be, is suspended under sub-section (1), the secretary or the Chief Executive Officer of the concerned Panchayat shall cause to be called a special meeting of the Panchayat immediately, but not later than fifteen days from the date of receipt of information from Prescribed authority and the members shall elect from amongst themselves, a person to hold the office of Sarpanch or President temporarily, as the case may be and such officiating sarpanch or president shall perform all the duties and exercise all the powers of sarpanch or President, as the case may be, during the period for which such suspension continues.
+
+**Ans: D. The members will elect President temporarily. According to the section 39(3) of the Chhattisgarh Panchayat Raj Act, 1993 if the Sarpanch of Gram Panchayat, President of Janpad Panchayat or Zila Panchayat, as the case may be, is suspended under sub-section (1), the secretary or the Chief Executive Officer of the concerned Panchayat shall cause to be called a special meeting of the Panchayat immediately, but not later than fifteen days from the date of receipt of information from Prescribed authority and the members shall elect from amongst themselves, a person to hold the office of Sarpanch or President temporarily, as the case may be and such officiating sarpanch or president shall perform all the duties and exercise all the powers of sarpanch or President, as the case may be, during the period for which such suspension continues.**
+
+</details>
+
+**Q154. MPPCS (Pre) 2021**
+
+Which of the following are the Standing Committees of Zila Panchayat in Madhya Pradesh? 1. General Administration Committee 2. Agriculture Committee 3. Education Committee Select the correct answer using codes given below: Codes:
+
+A. Only 1 and 2 are correct
+B. Only 1 and 3 are correct
+C. Only 2 and 3 are correct
+D. 1, 2 and 3 are correct
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The General Administration Committee, Agriculture Committee and Education Committee are the Standing Committees of Zila Panchayat in Madhya Pradesh.
+
+**Ans: D. 1, 2 and 3 are correct. The General Administration Committee, Agriculture Committee and Education Committee are the Standing Committees of Zila Panchayat in Madhya Pradesh. Despite that, it consists of communication and works committees and co-operation and Industries Committees. Zila Panchayat may create one or more of those committees in addition to the five standing committees.**
+
+</details>
+
+**Q155. CGPCS (Pre) 2018**
+
+What is not legal?
+
+A. An MLA who is ex-officio member of Janpad Panchayat can nominate representative to participate in the meeting.
+B. A member of Lok Sabha who is ex-officio member of Zila Panchayat can nominate representative to participate in the meeting.
+C. A member of Rajya Sabha who is ex-officio member of Zila Panchayat can nominate representative to participate in the meeting.
+D. A woman Sarpanch can nominate her husband to participate in the meeting of Gram Panchayat and Janpad Panchayat
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A woman Sarpanch cannot nominate her husband to participate in the meeting of the Gram Panchayat & Janpad Panchayat.
+
+**Ans: D. A woman Sarpanch can nominate her husband to participate in the meeting of Gram Panchayat and Janpad Panchayat. A woman Sarpanch cannot nominate her husband to participate in the meeting of the Gram Panchayat & Janpad Panchayat.**
+
+</details>
+
+**Q156. UKPCS (Pre) 2006**
+
+The 73rd Amendment of Indian Constitution provides –
+
+A. first time of Panchayati Raj
+B. removal of administrative control over Panchayats
+C. changing of laws regarding elections of Panchayats
+D. making panchayat elections mandatory and equivalent to the polls of Lok Sabha and Legislative Assembly
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd Amendment makes Panchayat elections mandatory and provides for the formation of the State Election Commission for such elections.
+
+**Ans: D. making panchayat elections mandatory and equivalent to the polls of Lok Sabha and Legislative Assembly. The 73rd Amendment makes Panchayat elections mandatory and provides for the formation of the State Election Commission for such elections. These provisions have been given under Article 243-K. Thus, an attempt has been made to make the Panchayat election as fair as Lok Sabha and Vidhan Sabha elections.**
+
+</details>
+
+**Q157. UPSC (Pre) 1995**
+
+Which of the following is not true about local governance in India?
+
+A. There is no separate category of local governance in the federal system of Indian Constitution.
+B. One-third of seats in local bodies are reserved for women.
+C. The arrangement of finance for local bodies is done by a Commission.
+D. Election for local bodies is determined by a Commission.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arrangement for local governance is made under Article 40, Part IX and Part IX-A.
+
+**Ans: A. There is no separate category of local governance in the federal system of Indian Constitution.. Arrangement for local governance is made under Article 40, Part IX and Part IX-A. Hence, there are separate provisions for local governance in the Indian Constitution.**
+
+</details>
+
+**Q158. RPSC (Pre) 2013**
+
+Consider the following functions of State Election Commission and select the correct answer using the code given below? 1. Prepares the electoral rolls for Panchayats and Municipalities elections in the State. 2. Conducts elections for Panchayats and Municipalities of the State. 3. Conducts elections for other bodies in addition to Panchayats and Municipalities in accordance with the directions given by the Governor. 4. Prepares the electoral rolls and conducts elections as assigned by Election Commission of India. Code :
+
+A. (1) and (2)
+B. (3) and (4)
+C. (1), (2) and (4)
+D. (4) only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243-K(1) and 243-ZA(1), the superintendence, direction, and control of the preparation of electoral rolls and the conduct of all elections to the Panchayats and Municipalities shall be vested in the State Election Commission.
+
+**Ans: A. (1) and (2). According to Article 243-K(1) and 243-ZA(1), the superintendence, direction, and control of the preparation of electoral rolls and the conduct of all elections to the Panchayats and Municipalities shall be vested in the State Election Commission.**
+
+</details>
+
+**Q159. CGPCS (Pre) 2019**
+
+In which Article provision for superintendence, direction and control to the conduct of all elections to the Municipalities in Chhattisgarh?
+
+A. Article 248 (B)
+B. Article 243 Z A
+C. Article 241 (C)
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243 ZA : The Superintendence, direction & control of the preparation of electoral rolls for and the conduct of all elections to the Municipalities shall be vested in the State Election Commission referred to in Article 243K.
+
+**Ans: B. Article 243 Z A. Article 243 ZA : The Superintendence, direction & control of the preparation of electoral rolls for and the conduct of all elections to the Municipalities shall be vested in the State Election Commission referred to in Article 243K. Note: According to the Chhattisgarh Public Service Commission, the correct answer is (b).**
+
+</details>
+
+**Q160. UPPCS (Pre) 2023**
+
+All elections to the Panchayats are conducted by-
+
+A. Election Commission
+B. State Election Commission
+C. State Legislature
+D. Panchayati Raj Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Constitution of India vests in the State Election Commission, consisting of a State Election Commissioner, the superintendence, direction and control of the preparation of electoral rolls for, and the conduct of all elections to the Panchayats (Article-243 K) and the Municipalities (Article 243 ZA).
+
+**Ans: B. State Election Commission. The Constitution of India vests in the State Election Commission, consisting of a State Election Commissioner, the superintendence, direction and control of the preparation of electoral rolls for, and the conduct of all elections to the Panchayats (Article-243 K) and the Municipalities (Article 243 ZA). The State Election Commissioner is appointed by the Governor. The detailed provisions of the State Election Commission are under the Article 243K itself.**
+
+</details>
+
+**Q161. UPPCS (Mains) 2013**
+
+For election to the Panchayat, the State Election Commissioner will be appointed by
+
+A. The Chief Election Commissioner of India
+B. President of India
+C. Governor of the State
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A State Election Commission is constituted under Article 243K to conduct all elections of the Panchayats.
+
+**Ans: C. Governor of the State. A State Election Commission is constituted under Article 243K to conduct all elections of the Panchayats. The State Election Commissioner is appointed by the Governor of the State.**
+
+</details>
+
+**Q162. MPPCS (Pre) 2019**
+
+Under which Article the State Election Commission Operates the election of urban bodies?
+
+A. 243K
+B. 243L
+C. 243M
+D. 243N
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies 243K as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: A. 243K. The controlling constitutional or historical fact identifies 243K as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q163. RPSC (Pre) 2021**
+
+Consider the following statements regarding State Election Commission, Rajasthan - 1. The State Election Commission, Rajasthan was constituted in December, 1994 2. It has a secretary who is also the Chief Electoral Officer for the state. Code :
+
+A. Only (i) is correct
+B. Only (ii) is correct
+C. Both (i) and (ii) are correct
+D. Neither (i) nor (ii) is correct
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The State Election Commission, Rajasthan, was constituted in July, 1994.
+
+**Ans: B. Only (ii) is correct. The State Election Commission, Rajasthan, was constituted in July, 1994. It is a one-member body institute, which has a secretary who is also the chief Electoral officer for the state.**
+
+</details>
+
+**Q164. RPSC (Pre) 2023**
+
+Consider the following statements regarding State Election Commission, Rajasthan: (i) It was constituted in July, 1994 under Article 243 K of the Constitution of India. (ii) It is a single member commission headed by the State Election Commissioner.
+
+A. Neither (i) nor (ii) is correct.
+B. Both (i) and (ii) are correct.
+C. Only (ii) is correct.
+D. Only (i) is correct.
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The State Election Commission of Rajasthan was constituted in July 1994 under Article 243K of the Constitution of India.
+
+**Ans: B. Both (i) and (ii) are correct.. The State Election Commission of Rajasthan was constituted in July 1994 under Article 243K of the Constitution of India. The SEC is a single-member Commission headed by the State Election Commissioner. It discharges its constitutional duty by way of preparing electoral rolls and holding elections for Panchayati Raj Institutions as well as for municipal bodies.**
+
+</details>
+
+**Q165. MPPCS (Pre) 2020**
+
+The Madhya Pradesh State Election Commission was constituted on
+
+A. 1 February, 1994
+B. 1 March, 1994
+C. 1 April, 1994
+D. 1 May, 1994
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In pursuance of the provisions of Article 243-K and Article 243 ZA of the Indian Constitution, the Madhya Pradesh State Election Commission was constituted on 1 February, 1994.
+
+**Ans: A. 1 February, 1994. In pursuance of the provisions of Article 243-K and Article 243 ZA of the Indian Constitution, the Madhya Pradesh State Election Commission was constituted on 1 February, 1994.**
+
+</details>
+
+**Q166. MPPCS (Pre) 2021**
+
+State Chief Election Commissioner is appointed by
+
+A. Governor
+B. President of India
+C. Chief Justice of High Court
+D. Home Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the provision of Article 243K, there is a provision of a State Election Commission.
+
+**Ans: No listed option is correct.. Under the provision of Article 243K, there is a provision of a State Election Commission. It has the State Election Commission appointed by the governor. But in this question, there is State Chief Election Commissioner word. So due to this reason the Commission deleted this question.**
+
+</details>
+
+**Q167. CGPCS (Pre) 2017**
+
+If a candidate expired before polling in Panchayat election, then what shall be happened? i. Polling shall be postponed. ii. Polling shall not be postponed. iii. If remained only one candidate, then polling will be postponed. iv. If remained more than one, then polling will not be postponed.
+
+A. i, ii
+B. ii, iii
+C. iii, iv
+D. ii, iv
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** As per section-46 of the Chhattisgarh Panchyat Nirvachan Niyam, 1995, if a candidate expires before polling in Panchyat election, and more than one candidate remains in election, then polling shall not be postponed.
+
+**Ans: C. iii, iv. As per section-46 of the Chhattisgarh Panchyat Nirvachan Niyam, 1995, if a candidate expires before polling in Panchyat election, and more than one candidate remains in election, then polling shall not be postponed. But if only one candidate remained, then polling would be postponed.**
+
+</details>
+
+**Q168. CGPCS (Pre) 2017**
+
+What is correct about Panchayat election? i. There is one district election officer. ii. There are one or more returning officers. iii. State election commission appoints returning officer. iv. With the consent of Commission District Election Officer can appoint returning officer. v. Naib Tahsildar may be returning officer for Janpad Panchayat. vi. Naib Tahsildar may be returning officer for Gram Panchayat. vii. Naib Tahsildar may be returning officer for Zilla Panchayat. viii.District election officer himself only returning officer.
+
+A. i ii iii iv v vi
+B. ii iii iv v vi vii
+C. iii iv v vi vii viii
+D. i iii iv v vii viii
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In a Panchayat election- (a) There is one district election officer.
+
+**Ans: A. i ii iii iv v vi. In a Panchayat election- (a) There is one district election officer. (b) There is one or more returning officers. (c) State Election Commission appoints the returning officer. (d) with the consent of the commission, District Election officer can appoint returning officer. (e) Naib Tehsildar may be a returning officer for Janpad Panchayat. (f) Naib Tehsildar may be a returning officer for Gram Panchayat.**
+
+</details>
+
+**Q169. Ghatnachakra standard**
+
+Which statement is correct about Panchyati Raj?
+
+A. The Panchayat Samiti and Zila Parishad are constituted with directly elected members.
+B. Minimum age is 18 years to contest the election at the panchayat level.
+C. Election of the Panchayati Raj Institutions is conducted under the supervision of the State Elections Commission.
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Zila Parishad is the body that lies at the apex of the three-tier Panchayati Raj system.
+
+**Ans: C. Election of the Panchayati Raj Institutions is conducted under the supervision of the State Elections Commission.. Zila Parishad is the body that lies at the apex of the three-tier Panchayati Raj system. Significantly, Zila Parishad consists of Heads of all departments of district, (Ex-officio member, head/ chairperson of all Panchayat samitis of that district, member of Parliament, member of Legislative Assembly and Legislative Council from the district, Representatives of SC, ST, women Co-operative societies, etc. So, it is clear that all members are not directly elected members. Significantly, minimum age is 21 years to contest the election at the Panchayat level. Notably, election of the Panchayati Raj Institutions is conducted under the supervision of the State Election Commission.**
+
+</details>
+
+**Q170. UKPCS (Pre) 2012**
+
+A person can contest the Panchayat election, if he has attained the age of –
+
+A. 25 years
+B. 30 years
+C. 21 years
+D. 18 years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243-F (1), a person, who has attained the age of 21 years, shall be qualified for being chosen a member of a Panchayat.
+
+**Ans: C. 21 years. According to Article 243-F (1), a person, who has attained the age of 21 years, shall be qualified for being chosen a member of a Panchayat.**
+
+</details>
+
+**Q171. BPSC (Pre) 2022**
+
+The minimum age for contesting elections to the Panchayati Raj Institutions should be how many years according to the 73rd Constitutional Amendment Act?
+
+A. 18 years
+B. 21 years
+C. 25 years
+D. More than one of the above
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Decentralization is the process by which Power is divided among many units.
+
+**Ans: B. 21 years. Decentralization is the process by which Power is divided among many units. As for the local self-government’s structure in India, Panchayati Raj Institution is a system of local self-government in rural areas of the Indian subcontinent. Local Self-Government helps in the management of local affairs. It is important to mention here that such local bodies have representatives who have been elected by the local people and hence have a better understanding of grass-root level issues. The minimum age that a person should have to contest elections is 21 years. The 73rd Amendment Act 1992 added Part IX to the Constitution of India and was titled “The Panchayats”. Furthermore, Part IXA of the Constitution, titled “The Municipalities”, was added by the 74th Amendment Act 1992.**
+
+</details>
+
+**Q172. UPSC (Pre) 2016**
+
+Consider the following statements: 1. The minimum age prescribed for any person to be a member of Panchayat is 25 years. 2. A Panchayat reconstituted after premature dissolution continues only for the remainder period. Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The minimum age to be a member of a Panchayat is 21 years.
+
+**Ans: B. 2 only. The minimum age to be a member of a Panchayat is 21 years. Thus statement (1) is not correct. According to Article 243E, a Panchayat constituted upon the dissolution of a Panchayat before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Panchayat would have continued. So statement (2) is correct.**
+
+</details>
+
+**Q173. UPSC (Pre) 2000**
+
+A college student desires to get elected to the Municipal Council of his city. The validity of his nomination would depend on the important condition, among others, that
+
+A. He obtains permission from the principal of his college.
+B. He is a member of a political party.
+C. His name figures in the voter’s list.
+D. He files a declaration owing allegiance to the Constitution of India.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A person will be eligible for being elected to the Municipal Council, if his name appears in the electoral rolls of that Municipal Council.
+
+**Ans: C. His name figures in the voter’s list.. A person will be eligible for being elected to the Municipal Council, if his name appears in the electoral rolls of that Municipal Council.**
+
+</details>
+
+**Q174. UPPCS (Pre) 2015**
+
+Who among the following constitutes “Finance Commission” to review the financial position of Panchayats?
+
+A. Chief Minister of the concerned State
+B. Finance Minister of the concerned State
+C. The Governor of the concerned State
+D. Panchayati Raj Minister of the concerned State
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243(I) of the Constitution, the Governor of a State shall, as soon as may be within one year from the commencement of the Constitution (73rd Amendment) Act, 1992 , and thereafter at the expiration of every fifth year, constitute a Finance Commission to review the financial position of the Panchayats and to make recommendations to the President.
+
+**Ans: C. The Governor of the concerned State. According to Article 243(I) of the Constitution, the Governor of a State shall, as soon as may be within one year from the commencement of the Constitution (73rd Amendment) Act, 1992 , and thereafter at the expiration of every fifth year, constitute a Finance Commission to review the financial position of the Panchayats and to make recommendations to the President.**
+
+</details>
+
+**Q175. BPSC (Pre) 2025**
+
+Who is empowered to review financial position of the Panchayats?
+
+A. Chief Minister
+B. Chairman of Block Committee
+C. Chairman of District Council
+D. Finance Commission constituted by the Governor
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part IX of the Constitution contains provisions related to Panchayats.
+
+**Ans: D. Finance Commission constituted by the Governor. Part IX of the Constitution contains provisions related to Panchayats. Under Article 243-I, the Governor constitutes a State Finance Commission, which is specifically authorized to review the financial position of Panchayats and to submit recommendations to the Governor.**
+
+</details>
+
+**Q176. JPSC (Pre) 2022**
+
+Who has been authorised to constitute Finance Commission to review finance position of Panchayat?
+
+A. The Governor of a State
+B. The Chief Minister of a State
+C. The Speaker of a legislative assembly
+D. The President of India.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies The Governor of a State as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: A. The Governor of a State. The controlling constitutional or historical fact identifies The Governor of a State as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q177. BPSC (Pre) 2021**
+
+To review the financial position of Panchayats, the State Government constitutes every five years a/an
+
+A. finance commission
+B. finance committee
+C. advisory commission
+D. advisory committee
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The State Government constitutes a Finance Commission every five years to review the financial condition of panchayats.
+
+**Ans: A. finance commission. The State Government constitutes a Finance Commission every five years to review the financial condition of panchayats. There is a provision for the Constitution of the Finance Commission under Article 243I of the Constitution. Under this, the Finance Commission is constituted by the governor.**
+
+</details>
+
+**Q178. UPPCS (Pre) 2013**
+
+Who amongst the following is responsible for revenue distribution between the State Government and the Local Governments?
+
+A. The Chief Minister
+B. The Governor
+C. State Finance Commission
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The State Finance Commission established under Article 243I by the Governor, is responsible for the distribution of revenue between the State Government and the Local Governments.
+
+**Ans: C. State Finance Commission. The State Finance Commission established under Article 243I by the Governor, is responsible for the distribution of revenue between the State Government and the Local Governments.**
+
+</details>
+
+**Q179. UKPCS (Pre) 2003**
+
+Under which Article of the Indian Constitution the State Finance Commission is established –
+
+A. Article 243(H)
+B. Article 243(I)
+C. Article 243(J)
+D. Article 243(K)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The provision for establishment of the State Finance Commission is made under Article 243I.
+
+**Ans: B. Article 243(I). The provision for establishment of the State Finance Commission is made under Article 243I. This commission is established to review the financial condition of Panchayati Raj Institutions.**
+
+</details>
+
+**Q180. UPSC (Pre) 2010**
+
+Which one of the following authorities recommends to the Governor about the principles of determination of taxes and fees which may be appropriated by the Panchayats of that state?
+
+A. District Programme Committees
+B. State Finance Commission
+C. State Finance Ministry
+D. State Panchayat Raj Ministry
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The State Finance Commission, constituted under Article 243I, recommends the Governor the principles which govern the determination of taxes, duties, tolls and fees which may be assigned to, or appropriated by the Panchayats.
+
+**Ans: B. State Finance Commission. The State Finance Commission, constituted under Article 243I, recommends the Governor the principles which govern the determination of taxes, duties, tolls and fees which may be assigned to, or appropriated by the Panchayats.**
+
+</details>
+
+**Q181. CGPCS (Pre) 2019**
+
+Who recommends to the Governor the principles which should govern the distribution between the state and the panchayats of the net proceeds of the taxes and Fees leviable by the State, which may be divided between them?
+
+A. Chief Minister
+B. Finance Minister of the State
+C. State Finance Commission
+D. Zilla Parishad
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies State Finance Commission as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. State Finance Commission. The controlling constitutional or historical fact identifies State Finance Commission as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q182. UPPCS (Mains) 2011**
+
+Consider the following statements and select the correct answer using the code given below: Assertion (A) : The Union Finance Commission does not have any role in considering measures for providing financial assistance to local bodies. Reason (R) : In spite of the 73rd and 74th Constitutional Amendments, local government continues to be a state subject in the Seventh Schedule of the Constitution. Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** The Finance Commission is constituted under Article 280 of the Constitution of India.
+
+**Ans: D. (A) is false, but (R) is true.. The Finance Commission is constituted under Article 280 of the Constitution of India. The functions of Finance Commission also include recommendations regarding the measures needed to augment the Consolidated Fund of a State to supplement the resources of the Panchayats and the Municipalities in the State on the basis of the recommendations made by the State Finance Commission. Therefore, Assertion (A) is wrong, but Reason (R) is correct. Thus, option (d) is the correct answer.**
+
+</details>
+
+**Q183. UPPCS (Pre) 2015**
+
+Study the following statements and select the correct answer from the code given below: Assertion (A) : The State Election Commission is a Constitutional authority. Reason (R) : Elections to rural local bodies are overseen by the Election Commission of India. Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is false, but (R) is true.
+D. (A) is true, but (R) is false.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** The State Election Commission is constituted under the 73rd and 74th Constitutional ( Amendments) Acts of 1992, for each State / Union Territory.
+
+**Ans: D. (A) is true, but (R) is false.. The State Election Commission is constituted under the 73rd and 74th Constitutional ( Amendments) Acts of 1992, for each State / Union Territory. SECs are vested with the powers of conducting the elections to the corporations, municipalities, Zilla Parishads, District Panchayats, Panchayat Samitis, Gram Panchayats and other local bodies. The Election Commission of India has no role in these elections.**
+
+</details>
+
+**Q184. UPPCS (Mains) 2012**
+
+Which of the following are Constitutional Authorities? Select the correct answer using code given below : 1. State Election Commission 2. State Finance Commission 3. District Panchayat 4. State Electoral Officer Code :
+
+A. 1 and 2 Only
+B. 1,2 and 3 Only
+C. 2,3 and 4 Only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** State Election Commission under Article 243K, State Finance Commission under Article 243I and District Panchayat Under Article 243B are Constitutional authorities while the State Electoral Officer or Chief-Electoral Officer are not Constitutional authorities.
+
+**Ans: B. 1,2 and 3 Only. State Election Commission under Article 243K, State Finance Commission under Article 243I and District Panchayat Under Article 243B are Constitutional authorities while the State Electoral Officer or Chief-Electoral Officer are not Constitutional authorities.**
+
+</details>
+
+**Q185. UPPCS (Mains) 2015**
+
+Which of the following parts of the Constitution is related to Municipalities?
+
+A. Part VI
+B. Part VII
+C. Part VIII
+D. Part IX A
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part IX - A of the Indian Constitution which was added by the 74th Amendment Act, 1992, is related to municipalities.
+
+**Ans: D. Part IX A. Part IX - A of the Indian Constitution which was added by the 74th Amendment Act, 1992, is related to municipalities. It came into force on 1st June 1993.**
+
+</details>
+
+**Q186. Ghatnachakra standard**
+
+Which of the following statements regarding the 74th Amendment to the Constitution of India are correct? 1. It provides the insertion of a new Schedule to the Constitution. 2. It restructures the working of the Municipalities. 3. It provides the reservation of seats for women in Municipalities. 4. It is applicable only to some specified States. Select the correct answer from the codes given below: Codes :
+
+A. 1, 2 and 3 are correct
+B. 1, 2 and 4 are correct
+C. 1, 3 and 4 are correct
+D. 2, 3 and 4 are correct
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Constitution (Seventy-fourth Amendment) Act, 1992 gave constitutional status to the Municipalities.
+
+**Ans: A. 1, 2 and 3 are correct. The Constitution (Seventy-fourth Amendment) Act, 1992 gave constitutional status to the Municipalities. This Act has added a new Part IX-A, and consists of Provisions from Articles 243 P to 243 ZG. In addition, the Act has also added a new 12th Schedule and 18 functional items for Municipalities. This Act came into force on 1st June, 1993. Some of the characteristics of this Act are as follows: 1. It provides for the constitution of three types of municipalities - Nagar Panchayat, Municipal Council and Municipal Corporation. 2. The municipalities have a fixed term of 5 years from the date appointed for their first meeting. 3. According to the Article 243-T (3) Not less than one-third (including number of seats reserved for women of SC and ST) of the total number of seats shall be reserved for women in every Municipality. 4. It is applicable in all states. Thus, statements 1, 2 & 3 are correct while Statement 4 is incorrect.**
+
+</details>
+
+**Q187. UPPCS (Mains) 2013**
+
+Which of the following Constitutional Amendment Acts accorded Constitutional Status to the Municipalities?
+
+A. The Constitution (73rd Amendment) Act, 1992
+B. The Constitution (74th Amendment) Act, 1992
+C. The Constitution (75thAmendment) Act, 1993
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part IX-A (Article 243P-243ZG) was inserted by the 74th Amendment of the Constitution in 1992 to give Constitutional status to the units of local self-governance in urban areas.
+
+**Ans: B. The Constitution (74th Amendment) Act, 1992. Part IX-A (Article 243P-243ZG) was inserted by the 74th Amendment of the Constitution in 1992 to give Constitutional status to the units of local self-governance in urban areas. A new Schedule (12th Schedule) was also added by this Amendment Act.**
+
+</details>
+
+**Q188. MPPCS (Pre) 2023**
+
+By which Amendment of the Indian constitution have the municipal laws been updated?
+
+A. 71
+B. 72
+C. 74
+D. 73
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies 74 as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. 74. The controlling constitutional or historical fact identifies 74 as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q189. UKPCS (Pre) 2012**
+
+Which Constitutional amendment provided Constitutional status to the urban local governments?
+
+A. 72nd
+B. 73rd
+C. 74th
+D. 71st
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies 74th as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: C. 74th. The controlling constitutional or historical fact identifies 74th as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q190. UPPCS (Mains) 2021**
+
+Part IX-A of the Constitution of India gave a constitutional foundation to the Local Self Government units in the following areas– 1. Rural areas 2. Urban areas Select the correct answer from the code given below the lists : Code–
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The controlling constitutional or historical fact identifies Only 2 as the correct choice; the alternatives do not satisfy the proposition in the stem.
+
+**Ans: B. Only 2. The controlling constitutional or historical fact identifies Only 2 as the correct choice; the alternatives do not satisfy the proposition in the stem.**
+
+</details>
+
+**Q191. UPPCS (Pre) 2025**
+
+With reference to Municipalities, which of the following statements is/are correct? 1. The eligible age to be a member of municipality is 25 years. 2. One-third of the total number of seats to be filled by direct election in the municipalities is reserved for women. Select the correct answer from the code given below : Code :
+
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The qualifying age to be elected as a member of a municipality is 21 years, not 25 years.
+
+**Ans: C. Only 2. Statement 1 is incorrect. The qualifying age to be elected as a member of a municipality is 21 years, not 25 years. As per the proviso to clause (1)(a) of Article 243V, a person shall not be disqualified for being chosen as a member of a municipality on the ground that he/she is less than 25 years of age, if he/she has attained the age of 21 years. Statement 2 is correct. As per clause (3) of Article 243T, in every municipality, not less than one-third of the total seats to be filled by direct election (including the seats reserved for SC/ST women) shall be reserved for women. In many States, this reservation has increased up to 50%.**
+
+</details>
+
+**Q192. MPPCS (Pre) 2020**
+
+The provision of reservation of seats for scheduled tribes in Municipalties in Madhya Pradesh has been made under which of the following Articles of the constitution of India?
+
+A. 243 T (1)
+B. 243 S (1)
+C. 243 R (1)
+D. 243 U (1)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243 T (1) of the Indian Constitution made provision for the reservation of seats for Scheduled Tribes in Municipalities in Madhya Pradesh.
+
+**Ans: A. 243 T (1). Article 243 T (1) of the Indian Constitution made provision for the reservation of seats for Scheduled Tribes in Municipalities in Madhya Pradesh.**
+
+</details>
+
+**Q193. RPSC (Pre) 2024**
+
+What is the amount of security deposit to contest the election of a Mayor by a candidate belonging to the general category?
+
+A. Rs. 10,000
+B. Rs. 20,000
+C. Rs. 30,000
+D. Rs. 40,000
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to the Rajasthan Gazette Notification of the Local Self Government Department, the nomination papers for the office of a Mayor shall not be valid unless accompanied by a receipt of security deposit of Rs.
+
+**Ans: C. Rs. 30,000. According to the Rajasthan Gazette Notification of the Local Self Government Department, the nomination papers for the office of a Mayor shall not be valid unless accompanied by a receipt of security deposit of Rs. 30000/= in case of general candidates and Rs. 15000/= in case of women candidates and candidates of the Scheduled Caste, Scheduled Tribe and Backward class. Hence, option (c) is the correct answer.**
+
+</details>
+
+**Q194. UPPCS (Pre) 1992**
+
+The tenure of a Mayor is of -
+
+A. 1 year
+B. 2 year
+C. 3 year
+D. 5 year
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Mayor is the highest-ranking official in a Municipal Government in a city.
+
+**Ans: D. 5 year. The Mayor is the highest-ranking official in a Municipal Government in a city. According to Article 243U, the Municipal Corporation shall have a tenure of 5 years.Thus, the tenure of Mayor is 5 years. However, in Delhi and Bengalore the tenure of mayor is one year and in Mumbai, it is 2.5 years.**
+
+</details>
+
+**Q195. Ghatnachakra standard**
+
+Which one of the following criteria for deciding an urban area, according to Census of India, is not correct? All places with:
+
+A. Either a Municipality or Corporation or Cantonment or Notified Town Area Committee.
+B. A minimum population of 5000.
+C. At least 60% of the male population engaged in nonagricultural pursuits.
+D. A density of population of at least 400 persons per square km.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All the areas, which include Municipality, Municipal Corporation, Cantonment Board or Notified Town Area Committee come under the urban areas if the following three conditions are satisfied- (1) There must be a minimum population of 5000.
+
+**Ans: C. At least 60% of the male population engaged in nonagricultural pursuits.. All the areas, which include Municipality, Municipal Corporation, Cantonment Board or Notified Town Area Committee come under the urban areas if the following three conditions are satisfied- (1) There must be a minimum population of 5000. (2) A Minimum 75% of working men are engaged in non-agricultural activities, and (3) ‘Population density’ must be at least 400 people per square kilometre.**
+
+</details>
+
+**Q196. CGPCS (Pre) 2021**
+
+In the following questions, there are two statements. One is labelled as Assertion (A) and other is labelled as Reason (R) : Assertion (A) : Municipal corporations are formed in big cities having a definite area and population. Reason (R) : Urban administrations of big cities are very complex in nature. In the context of the above two statements which of the following is correct?
+
+A. Both Assertion (A) and Reason (R) are true and Reason (R) is correct explanation of Assertion (A)
+B. Both Assertion (A) and Reason (R) are true but Reason (R) is not correct explanation of Assertion (A)
+C. Assertion (A) is true but Reason (R) is false
+D. Assertion (A) is false but Reason (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** According to Article 243Q, there shall be a municipal corporation for a larger urban area, municipal corporations formed in big cities have a definite area and population.
+
+**Ans: A. Both Assertion (A) and Reason (R) are true and Reason (R) is correct explanation of Assertion (A). According to Article 243Q, there shall be a municipal corporation for a larger urban area, municipal corporations formed in big cities have a definite area and population. It is formed because urban administrations of big cities are very complex in nature.**
+
+</details>
+
+**Q197. CGPCS (Pre) 2016**
+
+If there is dispute between Panchayat and Cantonment Board, who will decide finally?
+
+A. Collector, subject to approval of Divisional Commissioner
+B. Divisional Commissioner, subject to approval of Panchayat and Rural Development Department
+C. Panchayat and Rural Development Department subject to approval of State Government
+D. State Government, subject to approval of Central Government
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under section 79(2) of the Chhattisgarh Municipalities Act, 1961, any dispute between Panchayat and Cantonment Board is decided by the State Government, subject to the concurrence of the Central Government.
+
+**Ans: D. State Government, subject to approval of Central Government. Under section 79(2) of the Chhattisgarh Municipalities Act, 1961, any dispute between Panchayat and Cantonment Board is decided by the State Government, subject to the concurrence of the Central Government.**
+
+</details>
+
+**Q198. UPPCS (Mains) 2015**
+
+Who among the following is the competent authority to notify the territorial region of a municipality in State?
+
+A. President of India
+B. Governor of the State concerned
+C. Chief Minister of the State concerned
+D. State Legislature
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243 P (d), the territorial area of a Municipality in the State refers to the Municipal area as notified by the Governor.
+
+**Ans: B. Governor of the State concerned. According to Article 243 P (d), the territorial area of a Municipality in the State refers to the Municipal area as notified by the Governor.**
+
+</details>
+
+**Q199. RPSC (Pre) 2021**
+
+According to the provisions of the Rajasthan Municipal Act, 2009, maximum number of persons that can be nominated by the state government in Municipal council is -
+
+A. 6
+B. 8
+C. 10
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to provisions of the Rajasthan Municipal Act, 2009 persons who can be nominated by the government in Municipal Council are 8.
+
+**Ans: B. 8. According to provisions of the Rajasthan Municipal Act, 2009 persons who can be nominated by the government in Municipal Council are 8. As per Act, a maximum of 6 persons can be nominated in municipal board and 12 to the municipal corporations.**
+
+</details>
+
+**Q200. JPSC (Pre) 2021**
+
+A person shall not be disqualified for being chosen as a member of a municipality
+
+A. At the age of 20 years
+B. At the age of 21 years
+C. At the age of 19 years
+D. At the age of 18 years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Article 243V of the Indian Constitution describes the disqualification criteria of age for becoming a member of a municipality.
+
+**Ans: B. At the age of 21 years. Article 243V of the Indian Constitution describes the disqualification criteria of age for becoming a member of a municipality. The minimum age to be qualified as a member is 21 years.**
+
+</details>
+
+**Q201. CGPCS (Pre) 2016**
+
+What is the qualification to contest the election of Municipal Council? i. For the office of the President, his age should not be less than 25 years. ii. For the office of the councillor, his age should not be less than 21 years iii. Whose name is in the voter list, he can contest the election. iv. A person can contest the election of councillor from two wards simultaneously. v. A person can contest the election of president and councillor simultaneously. Code :
+
+A. i ii iii
+B. i ii v
+C. ii iv v
+D. iii iv v
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 34 of the Chhattisgarh Municipalities Act, 1961 provides that (1) A person who is enrolled in the Municipal Electoral Roll as a voter, shall be qualified to be a candidate: (a) for the election of President, if he is not less than twenty-five years of age; and (b) for the election of a Councillor, if he is not less than twenty-one years of age.
+
+**Ans: B. i ii v. Section 34 of the Chhattisgarh Municipalities Act, 1961 provides that (1) A person who is enrolled in the Municipal Electoral Roll as a voter, shall be qualified to be a candidate: (a) for the election of President, if he is not less than twenty-five years of age; and (b) for the election of a Councillor, if he is not less than twenty-one years of age. (2) No person who is a candidate for any one ward shall be a candidate for any other ward. (3) If a person is elected for the office of President and Councillor both, he shall have to resign from one of the offices within seven days from the date on which he is declared to be elected.**
+
+</details>
+
+**Q202. CGPCS (Pre) 2017**
+
+What is correct about the tenure of municipal council? i. The tenure of municipal council is counted from the date of declaration of election result. ii. The tenure of municipal council is counted from the date of its first meeting. iii. The tenure of municipal council is 5 years. iv. If municipal council is dissolved in two years, then new municipal council will be organised for three years. v. If municipal council is dissolved in two years then new municipal council will be organised for 5 years.
+
+A. i iii v
+B. ii iii iv
+C. i iii iv
+D. ii iii v
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Duration of Municipal Council - A Corporation unless sooner dissolved, shall continue for 5 years from the date appointed for its first meeting & no longer.
+
+**Ans: B. ii iii iv. Duration of Municipal Council - A Corporation unless sooner dissolved, shall continue for 5 years from the date appointed for its first meeting & no longer. Hence statement (i) is wrong (ii) & (iii) are correct. An election to constitute a Corporation shall be completed (a) before the expiry of its duration specified. (b) before the expiration of a period of six months from the date of its dissolution. Provided that, where the remainder of the period for which the dissolved Corporation would have continued is less than six months, it shall not be necessary to hold any election A Corporation constituted upon its dissolution before the expiration of its duration shall continue only for the remainder of the period. Hence statement (iv) is correct & (v) is wrong.**
+
+</details>
+
+**Q203. CGPCS (Pre) 2016**
+
+What is correct about the recall of President of Municipal Council? i. The procedure of recall may be initiated with a proposal signed by 3/4 members of council. ii. The procedure of recall may be initiated with a proposal signed by 3/4 elected members of council. iii. If the council passed a resolution by majority, collector will take action. iv. President may be recalled by general voters with majority. v. President may be recalled by general voters with 2/3 majority. vi. The process of recall may be initiated once in his whole term. vii. The process of recall may be initiated twice in his whole term.
+
+A. i iii v
+B. ii iv vi
+C. i v vii
+D. ii iv vii
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Section 47 of the Chhattisgarh Municipalities Act, 1961 provides for the recall of the president of Municipal Council.(1) Every President of a council shall be deemed to have vacated his office if he is recalled through a secret ballot by a majority of more than half of the total number of voters of the municipal area casting a vote in accordance with the procedure as may be prescribed: Provided that no such process of recall shall be initiated unless a proposal is signed by not less than three fourth of the total number of the elected Councillors and presented to the Collector: Provided further that no such process shall be initiated: -- (i) within a period of two years from the date on which such President is elected and enters his office; (ii) if half of the period of tenure of the President elected in a by-election has not expired: Provided also that the process for the recall of the President shall be initiated once in his whole term,.
+
+**Ans: B. ii iv vi. Section 47 of the Chhattisgarh Municipalities Act, 1961 provides for the recall of the president of Municipal Council.(1) Every President of a council shall be deemed to have vacated his office if he is recalled through a secret ballot by a majority of more than half of the total number of voters of the municipal area casting a vote in accordance with the procedure as may be prescribed: Provided that no such process of recall shall be initiated unless a proposal is signed by not less than three fourth of the total number of the elected Councillors and presented to the Collector: Provided further that no such process shall be initiated: -- (i) within a period of two years from the date on which such President is elected and enters his office; (ii) if half of the period of tenure of the President elected in a by-election has not expired: Provided also that the process for the recall of the President shall be initiated once in his whole term,. (2) the collector, after satisfying himself and verifying that the three-fourths of the councillors specified in sub-section (1) have signed the proposal of recall, shall send the proposal to the State Government and the State Government shall make a reference to the State Election Commission. (3) On receipt of the reference, the State Election Commission shall arrange for voting on the proposal of recall in such manner as may be prescribed.**
+
+</details>
+
+**Q204. CGPCS (Pre) 2017**
+
+What is correct about the wards committee of Nagar Panchayat? i. Wards committee is formed with some wards of nagar Panchayat. ii. Councillor elected from the wards become its member. iii. Two persons are nominated in the committee residing in the ward. iv. Chairman of the wards committee is nominated by the President of nagar Panchayat.
+
+A. i
+B. i, ii
+C. i, ii, iii
+D. i, ii, iii, iv
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 74th Constitutional Amendment Act was passed to constitutionalize the system of urban local government, also known as the Municipalities.
+
+**Ans: C. i, ii, iii. The 74th Constitutional Amendment Act was passed to constitutionalize the system of urban local government, also known as the Municipalities. Article 243S establishes ward committees, which are made up of one or more wards with a population of three lakh or more. The ward councillors are elected members. Each ward has one seat in the wards committee. Members are elected to the wards committee on the basis of adult franchise for a term of five years. Two members are nominated by Mayor residing within area of the ward committee.**
+
+</details>
+
+**Q205. CGPCS (Pre) 2017**
+
+If a Councillor as a legal practitioner acts on befalf of any other person against the Municipal Council, What will be happened?
+
+A. Collector will remove him from the office
+B. Councillor can act as a legal practitioner
+C. Councillor will remain his office
+D. It is a privilege of the Councillor
+E. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** If a councillor, as a legal practitioner, acts on behalf of any other person against the municipal council, Collector will remove him from office.
+
+**Ans: A. Collector will remove him from the office. If a councillor, as a legal practitioner, acts on behalf of any other person against the municipal council, Collector will remove him from office.**
+
+</details>
+
+**Q206. Ghatnachakra standard**
+
+The chairman of a Municipality in U.P. is elected: 1. by all the adults living in the respective municipal area. 2. by all the voters included in the electoral list of the respective municipal area 3. by the elected members of the municipality. 4. from among the electors of wards of the respective municipal area. Select the correct answer using the code given below: Code:
+
+A. 1 only
+B. 2 only
+C. 2 and 4 only
+D. 3 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** At present, the chairman of Municipality in Uttar Pradesh is elected by the electors whose names are in the voter list of that area which includes the electors of wards also.
+
+**Ans: C. 2 and 4 only. At present, the chairman of Municipality in Uttar Pradesh is elected by the electors whose names are in the voter list of that area which includes the electors of wards also.**
+
+</details>
+
+**Q207. Ghatnachakra standard**
+
+Which one of the following pairs is not correctly matched? City/Town Local Authority
+
+A. Lucknow Cantonment Board
+B. Kanpur Nagar Nigam
+C. Ghaziabad Nagarpalika Parishad
+D. Kakori Nagar Panchayat
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ghaziabad has a Municipal Corporation a (Nagar Nigam).
+
+**Ans: C. Ghaziabad Nagarpalika Parishad. Ghaziabad has a Municipal Corporation a (Nagar Nigam). There is no Nagarpalika Parishad in Ghaziabad. Lucknow has a Municipal Corporation with a Cantonment Board. Kakori is a Nagar Panchayat in Lucknow.**
+
+</details>
+
+**Q208. UPPCS (Mains) 2010**
+
+73rd and 74th Amendments of the Constitution are responsible for the creation of which of the following? 1. State Election Commission 2. District Planning Committee 3. State Finance Commission 4. State Property Tax Valuation Board Select the correct answer using the code given below: Code :
+
+A. 1 and 2 only
+B. 1,2 and 3 only
+C. 2,3 and 4 only
+D. All the four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 73rd and 74th Amendments of the Constitution are responsible for the creation of the following: 1.
+
+**Ans: B. 1,2 and 3 only. The 73rd and 74th Amendments of the Constitution are responsible for the creation of the following: 1. State Election Commission (Art. 243-K), 2. State Finance Commission (Art. 243-I), 3. State Election Commission for Municipalities (Art. 243- ZA), 4. State Financial Commission for Municipalities (Art. 243- Y), 5. District Planning Committee (Art. 243-ZD). While the State Property Tax Valuation Board has not been recognized by these Amendment Acts.**
+
+</details>
+
+**Q209. UPSC (Pre) 2011**
+
+The Constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting the Panchayati Raj Institutions in the country, provides for which of the following? 1. Constitution of District Planning Committees. 2. Conducting all Panchayat elections by State Election Commissions. 3. Establishment of State Finance Commissions. Select the correct answer using the code given below: Code:
+
+A. 1 only
+B. 1 and 2
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** District Planning Committees are constituted under Article 243, ZD which was added by the 74th Constitutional Amendments Act, 1992.
+
+**Ans: C. 2 and 3 only. District Planning Committees are constituted under Article 243, ZD which was added by the 74th Constitutional Amendments Act, 1992. It comes under Part IX-A of the Indian Constitution under the head ‘The Municipalities’. Provisions regarding State Election Commission to conduct all Panchayat Elections (Article 243 K) and the establishment of State Finance Commission (Article 243-I) were added by 73rd Amendment Act,1992, to promote Panchayati Raj Institutions.**
+
+</details>
+
+**Q210. RPSC (Pre) 2016**
+
+How many elected and Ex-Officio members are there in District Planning Committee?
+
+A. 20 and 3
+B. 20 and 10
+C. 20 and 5
+D. 20 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Elected and Ex-Officio members in District Planning Committee in Rajasthan are 20 and 5, respectively.
+
+**Ans: C. 20 and 5. Elected and Ex-Officio members in District Planning Committee in Rajasthan are 20 and 5, respectively. Other nominated people are Collector, ADM and two nominations from MLA, MP or CSO. This number differs in different states, for example, there are 34 members in Bihar and 20 members in Chhattisgarh. Since this question was asked by Rajasthan Public Service Commission, the correct answer is option (c).**
+
+</details>
+
+**Q211. JPSC (Pre) 2016**
+
+Under which Article of the Indian Constitution is the District Planning Committee constituted?
+
+A. Article 243 ZD
+B. Article 244 ZD
+C. Article 242 ZD
+D. Article 243 ZE
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** District Planning Committee is constituted under Article 243ZD of the Indian Constitution.
+
+**Ans: A. Article 243 ZD. District Planning Committee is constituted under Article 243ZD of the Indian Constitution. The District Planning committees are intended to consolidate the plans prepared by the Panchayats and Municipalities in the district and prepare the draft development plan for the entire district.**
+
+</details>
+
+**Q212. RPSC (Pre) 2024**
+
+Who becomes the chairperson of district Planning Committee in Rajasthan?
+
+A. District Collector
+B. Chief Executive Officer of Zila Parishad
+C. Member of Parliament
+D. Zila Pramukh
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The District Planning Committee is created as per Article 243ZD of the Indian Constitution at the district level to consolidate the plans prepared by the Panchayats and Municipalities in the district and to prepare a draft development plan for the district as a whole.
+
+**Ans: D. Zila Pramukh. The District Planning Committee is created as per Article 243ZD of the Indian Constitution at the district level to consolidate the plans prepared by the Panchayats and Municipalities in the district and to prepare a draft development plan for the district as a whole. Section 121 in the Rajasthan Panchayati Raj Act, 1994 provides for a Committee for district planning; clause (6) of the section provides that, the chairperson of such committee shall be the Pramukh of the Zila Parishad concerned. Therefore, the correct answer is the option (d)-Zila Pramukh.**
+
+</details>
+
+**Q213. UPPCS (Pre) 2016**
+
+Which among the following Panchayats, are included in the District Plan in U.P.? I. Nagar Panchayat II. Gram Panchayat III. Kshetra Panchayat Select the correct answer using code given below:
+
+A. I only
+B. I and III only
+C. II and III only
+D. I, II and III
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Planning Commission issued its first guidelines for district planning in 1969 which led to several States formulating District Plans.
+
+**Ans: D. I, II and III. The Planning Commission issued its first guidelines for district planning in 1969 which led to several States formulating District Plans. District Panchayat, Gram Panchayat and Block Panchayat (Kshetra Panchayat) are included in the District Plan in Uttar Pradesh. Thus option (d) is correct.**
+
+</details>
+
+**Q214. CGPCS (Pre) 2021**
+
+Which of the following has been provided in the 74th Amendment Act, 1992 of the Constitution? (i) Municipal Committees (ii) Ward Committees (iii)Metropolitan Planning Committee (iv) District Planning Committee Select the correct answer from the codes given below–
+
+A. (i) and (iv)
+B. (i), (ii), (iii) and (iv)
+C. (i), (ii) and (iv)
+D. (ii), (iii) and (iv)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 74th Amendment Act, 1992 of the Constitution makes provision for ward committees (having population of 3 lakh or greater than 3 lakh).
+
+**Ans: D. (ii), (iii) and (iv). The 74th Amendment Act, 1992 of the Constitution makes provision for ward committees (having population of 3 lakh or greater than 3 lakh). It also makes provision for the Metropolitan Committee under Article 243 ZE. Under Article 243 ZD, it makes provision for District Planning Committee at district level for planning at district and below. The Committee in each district should consolidate the plans prepared by panchayats and municipalities in district and prepare a draft development plan for the entire district.**
+
+</details>
+
+**Q215. UPSC (Pre) 2011**
+
+Consider the following statements: In India, a Metropolitan Planning Committee – 1. is constituted under the provisions of the Constitution of India. 2. prepares the draft development plans for the metropolitan area. 3. has the sole responsibility for implementing Government sponsored schemes in the metropolitan area. Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** According to Article 243-ZE a Metropolitan Planning Committee is constituted in every metropolitan area to prepare a draft development plan for the metropolitan area.
+
+**Ans: A. 1 and 2 only. According to Article 243-ZE a Metropolitan Planning Committee is constituted in every metropolitan area to prepare a draft development plan for the metropolitan area. Although its responsibility is limited to sending the draft development plans to the State government.**
+
+</details>
+
+**Q216. UPSC (Pre) 2011**
+
+Who among the following are eligible to benefit from the ‘Mahatma Gandhi National Rural Employment Guarantee Act’?
+
+A. Adult members of only the scheduled caste and scheduled tribe households
+B. Adult members of Below Poverty Line (BPL) households
+C. Adult members of households of all backward communities
+D. Adult members of any household
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The National Rural Employment Guarantee Act, 2005 was passed by the Parliament in August, 2005 and came into force on 2 February, 2006.
+
+**Ans: D. Adult members of any household. The National Rural Employment Guarantee Act, 2005 was passed by the Parliament in August, 2005 and came into force on 2 February, 2006. Its name changed to MNREGA on 2nd October 2009. This programme was started in Anantpur district of Andhra Pradesh. The adult members of any household are eligible for an employment guarantee of at least 100 days. The Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) : VB- G RAM G Act, 2025 has received the assent of the President of India on 20th December, 2025. This Act shall come into effect on such date as the Central Government may, by notification, appoint. The VB-G RAM G Act, 2025 replaces MGNREGA with a new Statutory framework, aligned with Viksit Bharat 2047. The Act enhances the Employment Guarantee to 125 days per rural household annually, and strengthens income security.**
+
+</details>
+
+**Q217. RPSC (Pre) 2012**
+
+Which of the following bears the responsibility of planning, execution and implementation of MNREGA schemes?
+
+A. Gram Sabha
+B. Gram Panchayat
+C. State Government
+D. DRDA
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the scheme of MNREGA, every Gram Panchayat, after considering the recommendation of Gram Sabha, shall prepare a development scheme and shall be responsible for the implementation and execution of works under the scheme.
+
+**Ans: B. Gram Panchayat. Under the scheme of MNREGA, every Gram Panchayat, after considering the recommendation of Gram Sabha, shall prepare a development scheme and shall be responsible for the implementation and execution of works under the scheme. The Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) : VB- G RAM G Act, 2025 has received the assent of the President of India on 20th December, 2025. This Act shall come into effect on such date as the Central Government may, by notification, appoint. The VB-G RAM G Act, 2025 replaces MGNREGA with a new Statutory framework, aligned with Viksit Bharat 2047. The Act enhances the Employment Guarantee to 125 days per rural household annually, and strengthens income security.**
+
+</details>
+
+**Q218. UPPCS (Mains) 2013**
+
+Which one of the following was established as the first programme of Community development?
+
+A. National Extension Service
+B. Integrated Rural Development Programme
+C. Cooperation Movement
+D. General help Donation Programme
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The National Extension Service began in 1953 as the first programme following the Community Development Programme launched in 1952.
+
+**Ans: A. National Extension Service. It began in 1953.**
 
 </details>
 

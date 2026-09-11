@@ -521,7 +521,10 @@ D. A false, R true
 
 **Dates:1238–1325** | **Place:Delhi** (khanqah at Ghiyaspur/Nizamuddin Basti) | **Pupil of:Baba Farid**
 
-- Nizamuddin was called **Mehboob-e-Ilahi** (Beloved of God), saw the reign of **seven Delhi sultans**, and avoided the court.
+- **Birthplace (UP Angle):** Nizamuddin Auliya was born at **Badaun (Uttar Pradesh)** in 1238.
+- Nizamuddin was styled **Mehboob-e-Ilahi** (Beloved of God) and **Sultan-ul-Mashaikh** (King of Sheikhs). He saw the reign of **seven Delhi sultans**, but strictly avoided attending royal courts.
+- His famous principle of detachment from the Sultanate: *"My house has two doors; if the Sultan enters through one, I will leave through the other."* (He refused an audience to Alauddin Khalji).
+- **The 'Hunuz Dilli Dur Ast' Episode:** When Sultan Ghiyasuddin Tughlaq was returning from his Bengal campaign and sent a stern warning to Nizamuddin to leave Delhi before the royal entry, Nizamuddin famously uttered the Persian proverb: **"हनूज़ दिल्ली दूर अस्त" / "Hunuz Dilli Dur Ast"** (*Delhi is still far away*). The Sultan was crushed to death in the Afghanpur wooden pavilion before ever reaching Delhi.
 - He taught love, tolerance, and service, fed the hungry during famines, and welcomed Hindus and Muslims alike.
 - His famous saying runs: *"If a man of God has nothing to give, let him sigh with compassion for the poor."*
 - **Amir Khusrau** (1253–1325) was his chief murid and a pioneer of **Urdu/Hindavi** literature.

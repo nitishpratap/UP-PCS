@@ -33,6 +33,7 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 3. **Charles Masson** noticed Harappa ruins in **1826**. **Daya Ram Sahni** excavated Harappa in **1921**. **R.D. Banerji** excavated Mohenjo-daro in **1922**. **John Marshall** announced the civilization in **1924**.
 4. Geographic extremes are **Sutkagen-dor** (west), **Alamgirpur** in Meerut, UP (east), **Manda** on the Chenab in Jammu (north), and **Daimabad** in Maharashtra (south).
 5. Uttar Pradesh Harappan sites are **Alamgirpur** (Meerut), **Hulas** (Saharanpur), and **Mandi** (Muzaffarnagar). **Rakhigarhi** is in Hisar, **Haryana**, not Uttar Pradesh.
+- **Sinauli (Baghpat district, UP):** Major Bronze Age / Late Harappan & Copper Hoard necropolis excavated by ASI (D.V. Sharma & S.K. Manjul). Yielded **three full-size solid wooden-wheel chariots**, copper-antenna swords, shields, copper-sheathed coffins, and royal burials (~2000–1800 BCE). One of the most significant archaeological finds in Uttar Pradesh, establishing indigenous warrior traditions in the Ganga-Yamuna Doab.
 6. **Alamgirpur** marks the **eastern boundary** of Harappan culture. Do not give that role to Rakhigarhi or Manda.
 7. **Sanauli** in Baghpat, Uttar Pradesh, yielded Late Harappan / OCP **chariot burials** (ASI, 2018). It is not a Mature grid-city with a Great Bath.
 8. The **Great Bath** is at **Mohenjo-daro**. The famous **dockyard** is at **Lothal** (Gujarat), excavated by **S.R. Rao**. Boat evidence is linked with Mohenjo-daro and Lothal.

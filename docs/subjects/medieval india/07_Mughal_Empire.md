@@ -96,7 +96,7 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 - The **Baburnama** mentions Hindu states **Vijayanagara** and **Mewar** among Indian powers he heard about.
 - **Abdur Rahim Khan-i-Khanan** later translated the Baburnama into Persian.
 - **Mir Baqi**, a commandant under Babur, built the **Babri Masjid** at Ayodhya — a sensitive UP fact to state carefully.
-- Babur died on **26 December 1530** at Agra. He was first buried there, then moved to **Bagh-e-Babur, Kabul**.
+- Babur died on **26 December 1530** at Agra. He was first buried in **Aram Bagh** (Agra), the oldest Mughal garden in India built by Babur in 1528 in **Charbagh** style (originally called *Bagh-i-Gul-Afshan* / *Hasht Bihisht*, later renamed *Ram Bagh* by the Marathas), before his mortal remains were moved to **Bagh-e-Babur, Kabul**.
 - Babur wrote the **Baburnama** in **Chagatai Turki**. The later Mughal **court language** was **Persian**, not Turki.
 - Babur’s early land assignments were **iqta-like**. The full **mansabdari** system belongs to **Akbar**, not Babur.
 
@@ -422,7 +422,12 @@ D. Both true, R explains A
 
 - **Nur Jahan** (Mehr-un-Nisa) married Jahangir in **1611**. She appeared on coins and farmans. Her junta included **Itimad-ud-Daula** and **Asaf Khan** — **Jahangir** remained emperor, not a “member” of the junta.
 - **Itimad-ud-Daula’s tomb** at Agra shows early **Pietra dura** inlay patronised by **Nur Jahan**.
-- Jahangir introduced **du-aspa sih-aspa** extra horse obligation for mansabdars.
+- Jahangir introduced **du-aspa sih-aspa** (2-horse / 3-horse) cavalry rank, which increased military obligations and pay without altering the personal *zat* rank.
+- **Types of Mughal Jagirs:**
+  - **Tankha Jagir:** Regular, transferable jagir assigned in lieu of cash salary (transferred every 3–4 years).
+  - **Watan Jagir:** Hereditary, non-transferable jagir assigned to autonomous Rajput rulers in their ancestral lands.
+  - **Altamgha Jagir:** Introduced by **Jahangir** — an irrevocable, hereditary imperial grant bestowed upon chosen noble families.
+  - **Mashrut Jagir:** Conditional jagir granted for meeting expenses of a specific military post or campaign.
 - Jahangir installed the **Chain of Justice** at Agra Fort.
 - The **Treaty of Chittor (1615)** settled Mewar under **Amar Singh**. He captured **Kangra in 1620–22**.
 - **Captain William Hawkins** reached India in **1608** with a James I letter for the EIC. He spoke **Turkish** well and was called **“English Khan”**. The year **1611** is a common wrong date for his arrival.

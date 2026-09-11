@@ -10,7 +10,7 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 > **Sources baked in:** Laxmikanth (Political Parties / Pressure Groups), RPA s.29A, Symbols Order 1968, Trade Unions Act 1926, UPPCS PYQs 2018–2025
 > **Weight:** ★★★ — party **founding years** TDP→BSP→SP→TMC (2022); trade-union **affiliations** BMS/INTUC/AITUC (2022); national vs state recognition; hung House / coalition
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Political Parties)
 > **Current Affairs:6** national parties (BJP, INC, AAP, BSP, CPI(M), NPP). CPI lost national status **2023**. 2024 LS: BJP **240** → NDA **coalition**. Electoral bonds struck **Feb 2024** (*ADR*)
 
 ---
@@ -79,6 +79,8 @@ Parties as a **system** + groups that **push** the system. **who is a national p
 ---
 
 ## Constitutional footing
+
+- Under the former Electoral Bond Scheme, a registered party needed at least **1%** of votes in the preceding general poll to receive bonds; the threshold was not 2%. The scheme was struck down in 2024.
 
 **No “Political Parties” chapter.** Parties live through **19(1)(c)** (association), **324** (ECI), **10th Schedule** (defection — 52nd / 91st). Extra-constitutional until 52nd.
 
@@ -454,6 +456,1125 @@ D. A-4, B-1, C-2, D-3
 <summary>Show answer</summary>
 
 **Ans: D.** BMS–BJP and INTUC–INC are the clean facts. True union table: **AITUC = CPI**, **CITU = CPI(M)**, **UTUC = RSP**.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Political Parties
+
+> registration and recognition · party history · Tenth Schedule · electoral bonds · pressure groups
+
+**Q1. BPSC (Pre) 2001**
+
+Consider the following statements regarding the political parties in India: 1. The Representation of the People Act, 1951 provides for the registration of political parties 2. Registration of political parties is carried out by the Election Commission 3. A National level political party is one which is recognized in four or more states 4. During 1999 general elections, there were six National and 48 State level parties recognized by the Election Commission Which of the statement above are correct?
+
+A. 1, 2 and 4
+B. 1 and 3
+C. 2 and 4
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** RPA section 29A provides registration by the ECI. National recognition follows the Symbols Order through one of the current tests, including State-party status in four States.
+
+**Ans: D. 1, 2, 3 and 4. The Representation of the People Act, 1951 provides for the registration of political parties. The registration of political parties is carried out by the Election Commission of India. The Election Commission has decided that a political party shall be eligible to be recognized as a National party if – (i) It secures at least six percent (6%) of the valid votes polled in any four or more states at general election to the House of People (Lok Sabha) or to the State Legislative Assembly (Rajya Vidhan Sabha) and wins at least four seats in the House of People from any State or States, or it wins at least two percent (2%) seats in the House of People (i.e., 11 seats in the existing House having 543 members), and these members should be elected from at least three different States. Currently, there are 6 national political parties in India.**
+
+</details>
+
+**Q2. BPSC (Pre) 2001**
+
+Who is empowered to recognize various political parties in India as National or Regional Parties?
+
+A. The Parliament
+B. The President
+C. The Election Commission
+D. The Supreme Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recognition as a National or State party is granted by the Election Commission under the Election Symbols Order, 1968.
+
+**Ans: C. The Election Commission. The Election Commission accords recognition to political parties as National or State Parties in accordance with the norms laid down in the Election Symbols (Reservation and Allotment) Order, 1968.**
+
+</details>
+
+**Q3. UKPCS (Pre) 2016**
+
+Who recognises the political parties in India?
+
+A. President of India
+B. Election Commission of India
+C. Ministry of Law and Justice
+D. Speaker of Lok Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Election Commission recognises political parties under the Symbols Order; neither the President nor the Speaker performs this function.
+
+**Ans: B. Election Commission of India. The Election Commission of India provides recognition to the political parties in India. The Election Symbols (Reservation and Allotment) Order, 1968, provides for the recognition of political parties.**
+
+</details>
+
+**Q4. JPSC (Mains) 2016**
+
+Political parties in India are registered and recognised by which of the following?
+
+A. The Respective Election Commission of States
+B. The Elections Commission of India
+C. The Law Commission of India
+D. The Law Ministry of Government of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both registration under section 29A and recognition under the Symbols Order are administered by the Election Commission of India.
+
+**Ans: B. The Elections Commission of India. Both registration under section 29A and recognition under the Symbols Order are administered by the Election Commission of India.**
+
+</details>
+
+**Q5. JPSC (Pre) 2011**
+
+A party gets recognition as a national party when –
+
+A. It gets 5% of total votes.
+B. It contests election in all constituencies.
+C. It receives power in more than four States.
+D. It receives 5% of the votes in four States.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** None of the printed choices states a valid national-party test. The current routes are 6% in four States plus four Lok Sabha seats, 2% of Lok Sabha seats from three States, or State-party status in four States.
+
+**Ans: No listed option is correct. None states a complete current route to national recognition.**
+
+</details>
+
+**Q6. BPSC (Pre) 2020**
+
+To be recognized as National Party in India, a party must have secured at least how much percentage of votes in the previous election ?
+
+A. At least 10 percent of valid votes in four or more States
+B. At least 4 percent of valid votes in four or more States
+C. At least 15 percent of valid votes in four or more States
+D. At least 6 percent of valid votes in more than half of the States
+E. None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The printed percentages do not state a complete national-party test; the vote route requires 6% in four States plus four Lok Sabha seats.
+
+**Ans: E. None of the above. The vote-share route is 6% in four States together with at least four Lok Sabha seats.**
+
+</details>
+
+**Q7. UPPCS (Pre) 2000**
+
+A political party in India can be recognized as National Party if it has state party status in at least:
+
+A. Three states
+B. Four states
+C. Five states
+D. Seven states
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** One independent route to national recognition is State-party status in at least four States.
+
+**Ans: B. Four states. One independent route to national recognition is State-party status in at least four States.**
+
+</details>
+
+**Q8. UPPCS (Pre) 2014**
+
+A political party is recognized as a regional party, if
+
+A. It gets 4% votes in the State either in Lok Sabha or the Assembly election.
+B. It gets 6% votes in the State either in Lok Sabha or the Assembly election.
+C. It gets 8% votes in the State either in Lok Sabha or the Assembly election.
+D. None of the above.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A party may obtain State-party recognition solely by securing 8% of valid votes in the State, even without winning a seat.
+
+**Ans: C. It gets 8% votes in the State either in Lok Sabha or the Assembly election.. According to the Amendment of Election Symbols (Reservation and Allotment) Order, 1968, a party has to live up to at least one of the following qualifications to be acknowledged as a State party- (1) If the party wins at least 3 seats or 3% of the seats whichever is greater, in the State Legislative Assembly; or (2) If it wins a minimum of 1 seat in the Lok Sabha for every 25 seats or any fraction allotted to that concerned State; or (3) If the party wins a Lok Sabha seat with 6 percent of valid votes in the latest Lok Sabha elections or 2 Vidhan Sabha (Legislative Assembly) seats with 6 percent of valid votes in the latest state assembly election; or (4) The status of a State party can still be bestowed upon an entity even if it fails to win any seats in the Lok Sabha or the Assembly, if it manages to win at least 8% of the total votes cast in the entire State. Thus, this is clear that the most suitable option is (c) but U.P.P.S.C has mentioned option (d) as the correct answer in their answer key which is incorrect.**
+
+</details>
+
+**Q9. CGPCS (Pre) 2020**
+
+A party can be recognised as a State Party when: (i) it secures 6% of the total valid votes polled in the state at a general election to the Legislative Assembly of the state concerned. (ii) it wins 2 Assembly seats at a general election to the Legislative Assembly of the state concerned. (iii) it secures 4% of the total valid votes polled in the state at a general election to the Lok Sabha of the state concerned. (iv) it secures 6% of the total valid votes polled in the state at a general election to the Lok Sabha of the state concerned.
+
+A. Only (i) or (iii)
+B. Only (i) or (iv)
+C. Only (i) and (ii)
+D. None (i) and (ii)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The combined Assembly route requires both 6% valid votes and two Assembly seats; the separate Lok Sabha route is not stated completely.
+
+**Ans: C. Only (i) and (ii). The combined Assembly route requires both 6% valid votes and two Assembly seats; the separate Lok Sabha route is not stated completely.**
+
+</details>
+
+**Q10. UPPCS (Pre) 2009**
+
+The word ‘National’ in Indian National Congress was influenced by-
+
+A. Ancient Indian precedents
+B. Reaction against British rule
+C. European Precedents
+D. Freedom struggle of America
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The source attributes the word 'National' to the all-India, anti-colonial character created in reaction to British rule.
+
+**Ans: B. Reaction against British rule. The word ‘National’ in Indian National Congress was influenced by the reaction against British rule.**
+
+</details>
+
+**Q11. JPSC (Pre) 2013**
+
+The Nationalist Congress Party was formed in 1999 following the split in
+
+A. Shiv Sena
+B. Congress Party
+C. BJP
+D. BSP
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Nationalist Congress Party was formed in 1999 after Sharad Pawar, P.A. Sangma and Tariq Anwar split from the Congress.
+
+**Ans: B. Congress Party. The NCP was formed on June 10, 1999 by Sharad Pawar, P. A. Sangma, and Tariq Anwar after they were expelled from the Indian National Congress (INC), following the dispute relating to Sonia Gandhi’s foreign origin.**
+
+</details>
+
+**Q12. UPSC (Pre) 1995**
+
+Which of the following political parties is/are national political parties? 1. Muslims League 2. Revolutionary Socialist Party 3. All India Forward Block 4. Peasants and Workers Party of India Code :
+
+A. 1, 2 and 3
+B. 2 and 4
+C. 3 only
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** None of the four listed organisations is among the current six national parties: BJP, INC, AAP, BSP, CPI(M) and NPP.
+
+**Ans: D. None of these. Currently, there are a total of 6 parties in India that satisfy the condition for being a National Party. These are- Bhartiya Janata Party(BJP), Indian National Congress(INC), Bahujan Samaj Party (BSP), Aam Aadmi Party (AAP), Communist Party of India (Marxist) (CPI (M), and National People's Party. Out of the given political parties, no political party satisfies the condition for being a National Party. Thus, option (d) is the correct answer.**
+
+</details>
+
+**Q13. UKPCS (Pre) 2016**
+
+Which one of the following has been recognised as National Party in 2016?
+
+A. I.N.L.D.
+B. Akali Dal
+C. T.M.C.
+D. A.I.A.D.M.K.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** TMC received national recognition in 2016, which makes the year-bound answer C; it lost that status in 2023.
+
+**Ans: C. TMC was recognised as a National Party in 2016; that recognition was withdrawn in 2023.**
+
+</details>
+
+**Q14. MPPCS (Pre) 2014**
+
+After the formation of Bharatiya Janata Party, who became its first President?
+
+A. L.K. Advani
+B. A.B. Vajpayee
+C. M.M. Joshi
+D. Sikandar Bakht
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Atal Bihari Vajpayee became the BJP's first president when the party was formed in 1980.
+
+**Ans: B. A.B. Vajpayee. Atal Bihari Vajpayee became the first President of the Bharatiya Janata Party in 1980. Shyama Prasad Mukherjee (1901-1953) was the Founder of the Bharatiya Jana Sangh. The BJP is the successor Party of the Bhartiya Jan Sangh.**
+
+</details>
+
+**Q15. MPPCS (Pre) 2008**
+
+Which of the following political parties is not a national party as recognized by the Election Commission of India-
+
+A. Nationalist Congress Party
+B. Bahujan Samaj Party
+C. Communist Party of India
+D. Samajwadi Party
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** For the year-bound paper, Samajwadi Party was the clearly regional option; recognition rosters must always be read at the date asked.
+
+**Ans: D. Samajwadi Party. Samajwadi Party is not a national party recognized by the Election Commission of India. Samajwadi Party came into existence on October 4, 1992 in Lucknow under the leadership of Mulayam Singh Yadav.**
+
+</details>
+
+**Q16. UPPCS (Pre) 2008**
+
+Which of the following is a Regional Political party?
+
+A. Congress
+B. BJP
+C. CPI
+D. Akali Dal
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Shiromani Akali Dal is a Punjab-based State party, unlike the three listed all-India parties in the historical roster.
+
+**Ans: D. Akali Dal. Akali Dal (Shiromani Akali Dal) is a regional political party of Punjab.**
+
+</details>
+
+**Q17. UPPCS (Pre) 2009**
+
+Which one of the following parties is not a National Political Party?
+
+A. Communist Party of India
+B. Bhartiya Janata Party
+C. Telugu Desham
+D. Indian National Congress
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Telugu Desam is a State party associated with Andhra Pradesh; the other three were national parties at the date of the question.
+
+**Ans: C. Telugu Desham. Telugu Desham Party (TDP) is a regional party of Andhra Pradesh.**
+
+</details>
+
+**Q18. BPSC (Pre) 2019**
+
+Aam Aadmi party is a :
+
+A. State party
+B. National Party
+C. Regional party
+D. Registered party
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** AAP is currently a recognised National Party. Its classification in a 2019 source is now outdated.
+
+**Ans: B. AAP is now a National Party. The source's 2019 classification is outdated.**
+
+</details>
+
+**Q19. UPPCS (Pre) 2009**
+
+Who was the founder of ‘Independent Labour Party’?
+
+A. R.Srinivasan
+B. B.R. Ambedkar
+C. C. Rajagopalachari
+D. Lala Lajpat Roy
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dr. B.R. Ambedkar founded the Independent Labour Party in 1936.
+
+**Ans: B. B.R. Ambedkar. The Independent Labour Party (ILP) was an Indian political organization formed under the leadership of Dr. B. R. Ambedkar in August 1936.**
+
+</details>
+
+**Q20. UPSC (Pre) 2012**
+
+Which of the following parties were formed by Dr. B. R. Ambedkar? 1. The Peasants and Workers Party of India 2. All India Scheduled Castes Federation 3. The Independent Labour Party. Select the correct answer from the codes given below:
+
+A. 1 & 2 Only
+B. 2 & 3 Only
+C. 1 & 3 Only
+D. 1, 2 & 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ambedkar founded the Independent Labour Party and the Scheduled Castes Federation, but not the Peasants and Workers Party of India.
+
+**Ans: B. 2 & 3 Only. Dr. Ambedkar founded Samata Sainik Dal, the Independent Labour Party (1936), the Scheduled Castes Federation (1942) and the Depressed Classes Federation (1930). The Peasants and Workers Party of India was founded in 1948 in Maharashtra. It was a Marxist Political party. While the Workers and Peasants Party (PWP) was founded on November 1, 1925 by Kazi Nazrul Islam, Hemant Sarkar, Shamsuddin Hussain and Qutubuddin Ahmad . It was not founded by Dr. Ambedkar. It worked under the Indian National Congress from 1925 to 1929.**
+
+</details>
+
+**Q21. UPSC (Pre) 2024**
+
+Consider the following pairs:
+
+| # | Party | Leader |
+|---|-------|--------|
+| 1 | Bharatiya Jana Sangh | Dr. Shyama Prasad Mukherjee |
+| 2 | Socialist Party | C. Rajagopalachari |
+| 3 | Congress for Democracy | Jagjivan Ram |
+| 4 | Swatantra Party | Acharya Narendra Dev |
+
+*Row order is not the answer code.*
+
+How many of the above are correctly matched?
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pairs 1 and 3 are correct. C. Rajagopalachari belonged with the Swatantra Party, while Acharya Narendra Dev belonged with the Socialist stream.
+
+**Ans: B. Only two. Dr. Shyama Prasad Mukherjee founded the Bharatiya Jana Sangh in 1951 and he became its first President. So, pair 1 is correctly matched. Jai Prakash Narayan, Ram Manohar Lohia, and Acharya Narendra Dev were prominent leaders of the Socialist Party while C. Rajagopalachari was the founder leader of the Swatantra Party, not the Socialist Party. So, pairs 2 and 4 are not correctly matched. The political party Congress for Democracy (CFD) was founded in 1977 by Jagjivan Ram. So, pair 3 is correctly matched. Hence, option (b) is the correct answer.**
+
+</details>
+
+**Q22. UPPCS (Mains) 2011**
+
+Match List-I with List-II:
+
+| Code | Political party |
+|------|-----------------|
+| A | CPI |
+| B | CPI(M) |
+| C | AIADMK |
+| D | Telugu Desam |
+
+| Code | Year of formation |
+|------|-------------------|
+| 1 | 1972 |
+| 2 | 1920 |
+| 3 | 1964 |
+| 4 | 1982 |
+
+*Row order is not the answer code.*
+
+Select the correct code.
+
+A. 2 3 1 4
+B. 3 2 4 1
+C. 1 2 3 4
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The code follows CPI–1920 in the printed Tashkent convention, CPI(M)–1964, AIADMK–1972 and TDP–1982. For the Indian founding session of CPI, retain Kanpur 1925 as the standard date.
+
+**Ans: A. 2 3 1 4. The matched list is as follows- (Political Party) (Year of Formation) CPI - 1920 CPM - 1964 AIADMK - 1972 Telugu Desham - 1982 Note : The Communist Party of India was established on 17 October, 1920 at Tashkent. In India, the CPI was founded in 1925 in Kanpur (now in Uttar Pradesh State). As per the given option the correct answer is option (a).**
+
+</details>
+
+**Q23. UPPCS (Mains) 2017**
+
+Match List-I with List-II:
+
+| Code | Political party |
+|------|-----------------|
+| A | Indian National Congress |
+| B | Bharatiya Jana Sangh |
+| C | Communist Party of India |
+| D | AIADMK |
+
+| Code | Year |
+|------|------|
+| 1 | 1951 |
+| 2 | 1972 |
+| 3 | 1885 |
+| 4 | 1925 |
+
+*Row order is not the answer code.*
+
+Select the correct code.
+
+A. 3 1 4 2
+B. 2 3 4 1
+C. 4 3 2 1
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The complete order is INC–1885, Jana Sangh–1951, CPI–1925 and AIADMK–1972.
+
+**Ans: A. 3 1 4 2. The correct match of List I with List II is as follows : Political Parties Year Indian National Congress - 1885 Bhartiya Jan Sangha - 1951 Communist Party of India - 1925 A.I.A.D.M.K. - 1972**
+
+</details>
+
+**Q24. MPPCS (Pre) 2014**
+
+In which year was the Communist Party of India divided into two parties- CPI and CPI (M)?
+
+A. 1962
+B. 1964
+C. 1966
+D. 1969
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CPI split in 1964, producing the CPI(M).
+
+**Ans: B. 1964. The Communist Party of India was divided into two parties CPI and CPI(M) in 1964 when a faction of the members of the Communist Party of India (CPI) broke away from it.**
+
+</details>
+
+**Q25. BPSC (Pre) 2023**
+
+Match List-I with List-II:
+
+| Code | Political party |
+|------|-----------------|
+| A | Communist Party of India (Marxist) |
+| B | Communist Party of India |
+| C | Bahujan Samaj Party |
+| D | All India Trinamool Congress |
+
+| Code | Year of establishment |
+|------|-----------------------|
+| 1 | 1964 |
+| 2 | 1998 |
+| 3 | 1925 |
+| 4 | 1984 |
+
+*Row order is not the answer code.*
+
+Select the correct code.
+
+A. 1 3 4 2
+B. 2 1 4 3
+C. 2 1 3 4
+D. 3 4 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The correct pairs are CPI(M)–1964, CPI–1925, BSP–1984 and TMC–1998.
+
+**Ans: A. 1 3 4 2. The correct match is following – Political Parties Years of Establishment Communist Party of India (Marxist) 1964 Communist Party of India 1925 Bahujan Samaj Party 1984 All India Trinamool Congress (AITC) 1998**
+
+</details>
+
+**Q26. UPPCS (Pre) 2022**
+
+Consider the following Political Parties and arrange them in the chronological order of their establishment. I. Bahujan Samaj Party II. Samajwadi Party III. Telugu Desham Party IV. All India Trinamool Congress Select the correct answer from the code given below. Code :
+
+A. II, I, III, IV
+B. I, II, III, IV
+C. III, I, II, IV
+D. III, II, I, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The chronological order is TDP 1982, BSP 1984, SP 1992 and TMC 1998.
+
+**Ans: C. III, I, II, IV. Political Parties in India Name Abbreviation Founding Date 1.Bharatiya Janata BJP 6 April 1980 Party 2.Indian National INC 28 December 1885 Congress 3.Communist Party CPI-M 7 November 1964 of India (Marxist) 4.Communist Party CPI 26 December 1925 of India 5.Bahujan Samaj Party BSP 14 April 1984 6. Nationalist Congress NCP 10 June 1999 Party 7. All India Trinamool AITC 1 January 1998 Congress 8. National People’s NPP 6 January 2013 Party 9. Samajwadi Party SP 1992 10. Telugu Desam Party TDP 1982**
+
+</details>
+
+**Q27. UPPCS (Pre) 2022**
+
+Match List-I with List-II:
+
+| Code | Trade union |
+|------|-------------|
+| A | Bharatiya Mazdoor Sangh |
+| B | Indian National Trade Union Congress |
+| C | United Trade Union Congress |
+| D | All India Trade Union Congress |
+
+| Code | Political affiliation |
+|------|-----------------------|
+| 1 | Indian National Congress |
+| 2 | Communist Party of India |
+| 3 | Communist Party of India (Marxist) |
+| 4 | Bharatiya Janata Party |
+
+*Row order is not the answer code.*
+
+Select the correct code.
+
+A. 3 2 1 4
+B. 4 1 3 2
+C. 2 4 3 1
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** BMS is linked with BJP/RSS, INTUC with Congress, AITUC with CPI and UTUC with RSP. Because RSP is absent from List-II, no printed code is fully correct.
+
+**Ans: No listed option is fully correct. The true set is A-4, B-1, C-RSP and D-2.**
+
+</details>
+
+**Q28. UPSC (Pre) 1998**
+
+Which of the following Parties were not a part of the United Front which was in power during 1996-1997? 1. Bahujan Samaj Party 2. Haryana Vikas Party 3. Samata Party 4. Asam Gana Parishad Select the correct answer using the code given below: Code :
+
+A. 1, 2, 3 and 4
+B. 1, 2 and 3
+C. 3 and 4
+D. 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** BSP, Haryana Vikas Party and Samata Party were outside the United Front, while Asom Gana Parishad participated.
+
+**Ans: B. 1, 2 and 3. Bahujan Samaj Party, Samata Party, and Haryana Vikas Party were not a part of the United Front Government during 1996-97.**
+
+</details>
+
+**Q29. UPSC (Pre) 1994**
+
+Given below is the Vote percentage secured by a political party in three successive elections to the Lok Sabha. The party which secured these percentages of votes wasYear 1984 1989 1991 Percentage of Votes 7.4 11.4 22.4 The party to receive above-mentioned percentage of votes was-
+
+A. Congress (I)
+B. Bahujan Samaj Party
+C. Bhartiya Janata Party
+D. Communist Party of India (Marxist)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The steep rise from 7.4% to 22.4% across 1984–1991 corresponds to the BJP.
+
+**Ans: C. Bhartiya Janata Party. The above-mentioned percentage of votes is for Bharatiya Janata Party.**
+
+</details>
+
+**Q30. RPSC (Pre) 2024**
+
+Consider the following statements and identify the correct answer from the codes given below : (1) The Congress won 145 Lok Sabha seats in 2004 election. (2) The BJP won 133 Lok Sabha seats in 2004 election. (3) The CPI(M) won 48 Lok Sabha seats in 2004 election. Codes :
+
+A. Only (1) is Correct.
+B. Only (1) and (2) are correct.
+C. Only (2) and (3) are correct.
+D. Only (1) and (3) are correct.
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In 2004, Congress won 145 seats, BJP 138 and CPI(M) 43; only Statement 1 is correct.
+
+**Ans: A. Only (1) is Correct.. According to the data of the Election Commission of India, in the General Elections, 2004 (14th Lok Sabha) the Indian National Congress won 145 seats; the BJP won 138 seats and the CPM [CPI(M)] won 43 seats. Hence, statement 1 is correct, while statements 2 and 3 are incorrect.**
+
+</details>
+
+**Q31. UPPCS (Pre) 2000**
+
+Given below is a list of political parties along with seats won by them in the election to thirteenth Lok Sabha. Which one of these is not correctly matched?
+
+A. CPM-32
+B. TDP-30
+C. BJD-10
+D. BSP-14
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** TDP won 29, not 30, seats in the thirteenth Lok Sabha; the other printed tallies match.
+
+**Ans: B. TDP-30. In the 13th Lok Sabha, T.D.P (Telugu Desham Party) won only 29 Seats, therefore option (b) is not correctly matched. C.P.M in 13th Lok Sabha- 32 seats. T.D.P in 13th Lok Sabha - 29 seats. B.S.P in 13thLok Sabha - 14 seats. B.J.D 13thLok Sabha -10 seats.**
+
+</details>
+
+**Q32. RPSC (Pre) 2023**
+
+Consider the following statements : (i) The Lok Sabha Elections of 1989 marked the end of, what Political Scientists have called, the ‘Congress System’. (ii)Indian National Congress emerged as the single largest party in the 1989 Lok Sabha Elections.
+
+A. Neither (i) nor (ii) is correct.
+B. Both (i) and (ii) are correct.
+C. Only (ii) is correct.
+D. Only (i) is correct.
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both statements are true: Congress remained the largest party in 1989 but lacked a majority, marking the end of the Congress-system phase.
+
+**Ans: B. Both (i) and (ii) are correct.. General elections were held in India in November 1989 to elect the members of the 9th Lok Sabha. In the 1989 General Elections, Congress bagged the highest number of seats (197 seats) in the Lok Sabha, but the numbers were not enough for it to form a government of its own. A coalition government was formed by the Janata Dal with outside support from the BJP and the left parties, Vishwanath Pratap Singh became the Prime Minister. Thus, the elections of 1989 marked the end of what political scientists called the 'Congress System'.**
+
+</details>
+
+**Q33. UPPCS (Pre) 1998**
+
+Consider the following statements – Assertion (A) : The coalition government led by Bharatiya Janata Party contains some policy guidance in the National agenda, some promises and few guiding principles for its governance. Reason (R) : It discusses a lot of things in detail. Which one of the following is correct in context to above statements. Codes :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+C. (A) is true but, (R) is false.
+D. (A) is false but, (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both statements are treated as true in the source, but a detailed agenda does not explain why a coalition adopts common policy guidance.
+
+**Ans: B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).. Coalition Governments may contain many parties. As a result, the Government has to take care of the feelings of all the parties included in the Government. Thus, (R) and (A) both are correct but (R) is not a correct explanation of (A)**
+
+</details>
+
+**Q34. MPPCS (Pre) 1997**
+
+In which of the following state a regional party is not in power?
+
+A. Tamil Nadu
+B. Andhra Pradesh
+C. Jammu and Kashmir
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** At the date asked, Kerala alternated between coalitions led by national parties rather than a regional party being the principal ruling party.
+
+**Ans: D. Kerala. In Kerala, the Government by Congress or the Communist Party of India(Marxist) has been formed alternatively. Both of these parties are national parties. Under the Jammu and Kashmir Reorganisation Act, 2019, the then Jammu and Kashmir has been divided into two Union Territories, namely Jammu and Kashmir, and Ladakh. So, at present Jammu and Kashmir is not a state.**
+
+</details>
+
+**Q35. UPSC (Pre) 1994**
+
+Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R): Assertion (A) : In India, the political parties which formed the governments represented the majority of seats secured in the elections to the House of the People at the Centre and the Legislative Assemblies in the States but not the majority of votes. Reason (R) : The result of elections based on the majority-vote-system is decided on the basis of the relative majority of votes secured. In the context of the above two statements which one of the following is correct?
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+C. (A) is true but, (R) is false.
+D. (A) is false but, (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both statements are true and the FPTP plurality rule explains how seat majorities may be formed without a majority of total votes.
+
+**Ans: A. Both (A) and (R) are true, and (R) is the correct explanation of (A).. Here both (A) and (R) are true and (R) is the correct explanation of (A), because in India the majority does not depend upon the majority of votes but on the majority of seats. Election of winning candidates depends upon a relative majority of votes and not on the total majority of votes.**
+
+</details>
+
+**Q36. UPSC (Pre) 1997**
+
+Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Assertion (A) : The reservation of thirty-three percent of seats for women in Parliament and State Legislature does not require a Constitutional amendment. Reason (R) : Political parties contesting elections can allocate thirty-three percent of seats they contest to women candidates without any Constitutional amendment. In the context of the above two statements which one of the following is correct?
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+C. (A) is true but, (R) is false.
+D. (A) is false but, (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Assertion was false because reserving seats in legislatures required a constitutional amendment; Reason was true because parties could voluntarily nominate women without one.
+
+**Ans: D. (A) is false but, (R) is true.. Articles 330 to 334 of the Indian Constitution provide for the reservation of some special classes in the House of the People and State Legislative Assemblies. There is no provision made for women; thus the reservation of 33% of seats for women in the Parliament and State Legislature can be made only by a Constitutional Amendment. So, Assertion (A) is incorrect while the Reason (R) is correct.**
+
+</details>
+
+**Q37. UPPCS (Mains) 2000**
+
+Consider the following statements: Assertion (A) : There is no fixed party system in India. Reason (R) : There are too many political parties. Select the correct answer from code given below: Code:
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+C. (A) is true but, (R) is false.
+D. (A) is false but, (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** India's numerous parties and diverse social and regional cleavages support its multi-party character; both statements are treated as true and connected.
+
+**Ans: A. Both (A) and (R) are true, and (R) is the correct explanation of (A).. Democracy in India is passing through a period of transition. Casteism and regionalism are still the dominating elements in India. Various political parties are formed by the regional leaders to meet various interests, but this is not the only reason behind having a multi-party system in India. There are other socio-economic reasons that are also affecting the party system in India.**
+
+</details>
+
+**Q38. MPPCS (Pre) 2012**
+
+The party system is the part of which larger system among the following?
+
+A. Social system
+B. Economic system
+C. Political system
+D. International system
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A party system is a component of the wider political system because parties organise representation and government formation.
+
+**Ans: C. Political system. The Party system is the part of the political system. The formation and running of the Government in a democratic political system is performed by party system (Political Parties).**
+
+</details>
+
+**Q39. UPPCS (Pre) 2015**
+
+Study the following statements and select the correct answer from the code given below: Assertion (A) : India has a written Constitution. Reason (R) : Growth of strong regional parties is an indicator of regional aspirations. Code :
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both statements are independently true, but regional-party growth does not explain why India has a written Constitution.
+
+**Ans: B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).. India has a written Constitution. Thus Assertion (A) is correct. Strong regional parties grow to meet regional aspirations. These regional parties raise the problems of the region and stress the importance of increasing the facilities of that region. As a result, the regional public diverts towards them. Thus, Reason (R) is also correct. But the reason (R) is not the correct explanation of the Assertion (A).**
+
+</details>
+
+**Q40. MPPCS (Pre) 2017**
+
+Which of the following may be considered a Pressure Group?
+
+A. Members of the Lok Sabha
+B. Members of a Panchayat
+C. Members of the Cabinet
+D. Members of a Trade Union
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Trade unions are classic pressure groups because they seek to influence public policy without themselves forming the legislature or Cabinet.
+
+**Ans: D. Members of a Trade Union. A pressure group can be described as an organised group that does not put up candidates for election, but seeks to influence government policy or legislation. These groups can also be described as 'interest groups', 'lobby groups' etc. Trade Unions, Farmer's Organisations, Women Organisations, Business organisations etc., are included in pressure groups.**
+
+</details>
+
+**Q41. UPPCS (Pre) 2004**
+
+Inner-Party Democracy stands for –
+
+A. A Government formed by several parties with a common programme
+B. Party closest to the party or parties forming the Government
+C. Periodical elections within the party to elect the office bearers of the party
+D. Secrets of Government are shared by parties in power
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Inner-party democracy means periodic internal elections for party office-bearers.
+
+**Ans: C. Periodical elections within the party to elect the office bearers of the party. Inner-Party democracy stands for periodical elections within the party to elect the office bearers of the party.**
+
+</details>
+
+**Q42. UKPCS (Pre) 2016**
+
+Who among the following scholars described the party system prevailing in India in the early years of Independence as one party dominant system?
+
+A. Myron Weiner
+B. Rajni Kothari
+C. Austin
+D. Bhikhu Parikh
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rajni Kothari described the early Indian arrangement as the Congress system or a one-party-dominant system.
+
+**Ans: B. Rajni Kothari. Rajni Kothari has described the party system prevailing in India in the early years of Independence as a one-party dominant system. Rajni Kothari was a political scientist and writer. Kothari noted works include 'Politics in India', Caste in Indian Politics' and 'Rethinking Democracy'.**
+
+</details>
+
+**Q43. UPPCS (Pre) 2008**
+
+What was the date when the Anti-defection Bill was passed?
+
+A. 17 February, 1985
+B. 15 February, 1985
+C. 30 March, 1985
+D. 21 April, 1985
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The anti-defection measure was passed on 15 February 1985 and came into force on 1 March 1985 through the 52nd Amendment.
+
+**Ans: B. 15 February, 1985. The Anti-Defection Law was passed by the Parliament on 15 February, 1985 and came into force on 1st March, 1985. The 52nd amendment to the Constitution by amending Articles 101, 102, 190, and 191 and adding the 10th Schedule, laid down the process by which members of the House may be disqualified on the grounds of defection.**
+
+</details>
+
+**Q44. UPPCS (Mains) 2010**
+
+Which one of the following is not covered by the AntiDefection Law?
+
+A. An-bloc defections in a Party.
+B. Large defections in a Party in various spell.
+C. Smaller defection in a single spell.
+D. Party members in Parliament casting vote either to topple or support a Government.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The source's old formulation does not treat staggered large defections as a protected category. Current law should instead be recalled through the two-thirds merger rule.
+
+**Ans: B. Large defections in a Party in various spell.. The 10th Schedule to the Constitution, popularly known as the Anti-Defection Law, introduced by the Constitution (52nd Amendment) Act, 1985 laid down the process by which a member of a political party may be disqualified on the grounds of defection. It makes provisions for an-bloc defection in a party, smaller defection in a single spell and party members in the Parliament casting a vote or supporting a government. Larger defections in a party in various spells are not provided under this law.**
+
+</details>
+
+**Q45. UPPCS (Mains) 2010**
+
+The political parties got the Constitutional recognition for the first time in the year –
+
+A. 1975
+B. 1977
+C. 1985
+D. 1995
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 52nd Amendment in 1985 inserted the Tenth Schedule and first placed political-party language in the Constitution.
+
+**Ans: C. 1985. The political parties got the Constitutional recognition for the first time in 1985 when the 10th Schedule was added to the Constitution to curb defection.**
+
+</details>
+
+**Q46. CGPCS (Pre) 2019**
+
+The merger of a political party with another political party in India is recognised in which of the following conditions?
+
+A. When not less than one-third members of the legislature party have agreed to such merger.
+B. When not less than half members of the legislature party have agreed to such merger.
+C. When not less than two-third members of the legislature party have agreed to such merger.
+D. When not less than three-fourth members of the legislature party have agreed to such merger.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After the 91st Amendment removed the one-third split defence, merger protection requires at least two-thirds of the legislature party.
+
+**Ans: C. When not less than two-third members of the legislature party have agreed to such merger.. If a member goes out of his party as a result of a merger of the party with another party. A merger takes place when two-thirds of the members of the party have agreed to such a merger. Therefore, option (c) is correct.**
+
+</details>
+
+**Q47. UPSC (Pre) 2025**
+
+Consider the following statements : I. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the 10th Schedule, the President's decision in accordance with the opinion of the Council of Union Ministers shall be final. II. There is no mention of the word 'political party' in the Constitution of India. Which of the statements given above is/are correct?
+
+A. I only
+B. II only
+C. Both I and II
+D. Neither I nor II
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement I is false because the Speaker or Chairman decides Tenth Schedule cases. Statement II is false because the words 'political party' occur in the Tenth Schedule.
+
+**Ans: D. Neither I nor II. In matters of disqualification under defection (Tenth Schedule), the decision is taken by the Speaker of the Lok Sabha or the Chairman of the Rajya Sabha, not by the President. The term “political party” is explicitly mentioned in the Tenth Schedule of the Constitution. Thus, neither of the two statements is correct.**
+
+</details>
+
+**Q48. UPSC (Pre) 2022**
+
+With reference to anti-defection law in India, consider the following statements: 1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House. 2. The law does not provide any time-frame within which the presiding officer has to decide a defection case. Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 1 reverses the six-month rule: a nominated member may join within six months but is vulnerable after that. Statement 2 is true because the Schedule sets no decision deadline.
+
+**Ans: B. 2 only. The Tenth Schedule, popularly known as the Anti-Defection Law, was included in the Constitution via the 52nd Amendment Act, 1985. This law specifies that a nominated legislator cannot join any political party after six months of being appointed to the House. If they join any political party after six months, then that legislator can be disqualified. The law does not provide any time-frame within which the presiding officer has to decide a defection case. Thus, only the second statement is correct.**
+
+</details>
+
+**Q49. CGPCS (Pre) 2011**
+
+Which of the following is not true about the AntiDefection Bill?
+
+A. An M.P. or an M.L.A. will be disqualified if he has voluntarily given up the membership of the party to which he belonged.
+B. In the event of a member’s absence from voting in the House on a particular issue, an M.P. or M.L.A. will be disqualified.
+C. A member shall not be disqualified if there is a merger of political parties.
+D. The Speaker of the Lok Sabha will not be disqualified if he becomes a member of another political party later on.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The special presiding-officer exception does not permit joining another political party; doing so may attract disqualification.
+
+**Ans: D. The Speaker of the Lok Sabha will not be disqualified if he becomes a member of another political party later on.. According to the provisions of the Anti-defection Laws provided in the 10th Schedule of the Indian Constitution, the Speaker of Lok Sabha, before the election as a member of a party if he voluntarily leaves his membership and does not rejoin that party until he serves on that post, cannot be disqualified. But if he becomes a member of any other party, then he may be disqualified. Thus, option (d) is incorrect.**
+
+</details>
+
+**Q50. CGPCS (Pre) 2019**
+
+A member of State Legislature/Parliament is considered an exception of dis-qualification on the ground of defection in India, in which of the following condition?
+
+A. If he voluntarily, gives up the membership of his original political party on being elected as Chairman or Vice-Chairman of any house of State Legislature or of Parliament.
+B. If he re-joins the political party after he ceases to hold such office.
+C. In both of these
+D. In none of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A member elected as a presiding officer may leave the party for impartiality and may rejoin it after ceasing to hold office; both are protected.
+
+**Ans: C. In both of these. If a member, after being elected as the presiding officer of the house, voluntarily gives up the membership of his party or rejoins it after he ceases to hold that office. This exemption has been provided in view of the dignity and impartiality of this office. Therefore, it is considered an exception to disqualification on the ground of defection in India. So, option (c) is the correct answer.**
+
+</details>
+
+**Q51. UPSC (Pre) 1993**
+
+The Anti-Defection Law was enacted as early as 1979 in-
+
+A. Kerala
+B. Jammu and Kashmir
+C. West Bengal
+D. Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The former Jammu and Kashmir legislature enacted an anti-defection law in 1979, before the national Tenth Schedule.
+
+**Ans: B. Jammu and Kashmir. The Legislative Assembly of Jammu and Kashmir in 1979 passed the ‘Anti-Defection Law.’ According to its provision, if any Member of the Legislative Assembly leaves his party, then he shall not remain a member of the Legislative Assembly.**
+
+</details>
+
+**Q52. UPSC (Pre) 1995**
+
+Consider the table given below providing some details of the results of the election to the Karnataka State Legislative Assembly held in December, 1994. Political Percentage of Number of Party Popular Votes Seats obtained secured Janta Dal 36 116 Congress 31 35 BJP 20.4 40 In terms of electoral analysis, the voter-seat distortion is to be explained as the result of the adoption of the :
+
+A. Hare system
+B. Cumulative vote system
+C. First-past-the post system
+D. Plural vote system
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** FPTP converts constituency pluralities into seats and can therefore produce a large vote-seat distortion.
+
+**Ans: C. First-past-the post system. First-past-the-post system is a method in which a member is considered elected on the basis of the highest received votes. There is no importance of the percentage of the total votes under this system. In India, the system is quite popular in the State Legislative Assemblies and the House of the People.**
+
+</details>
+
+**Q53. UPPCS (Pre) 2006**
+
+To be officially recognized by the Speaker of Lok Sabha as an Opposition Group, a party or coalition of parties must have at least-
+
+A. 50 members
+B. 60 Members
+C. 80 Members
+D. 1/3 of total members of the Lok Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The conventional threshold is one-tenth of Lok Sabha strength, commonly stated as 54 members; none of the printed choices gives that figure.
+
+**Ans: No listed option is correct. The conventional one-tenth threshold is 54 Lok Sabha members.**
+
+</details>
+
+**Q54. RPSC (Pre) 2007**
+
+In which State Communist parties jointly launched “Bhu-Poratam” Movement?
+
+A. Andhra Pradesh
+B. Tamil Nadu
+C. Karnataka
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Bhu-Poratam land movement was launched in Andhra Pradesh.
+
+**Ans: A. Andhra Pradesh. The ‘Bhu Poratam’ movement (struggle for land) was organised by the Bharatiya Khet Mazdoor Union (BKMU) (one of the communist parties ) in Andhra Pradesh to demand agricultural lands and House sites for landless agricultural workers. The name ‘Bhu-Poratam’ was given by the Communist parties.**
+
+</details>
+
+**Q55. MPPCS (Pre) 2013**
+
+Which of the following does not constitute the social base of the communist party in India?
+
+A. Agriculture and Industrial working class
+B. Business class
+C. The educated
+D. Youth
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The business class is not the standard social base of communist parties, which organise principally among workers, peasants, youth and sections of the educated.
+
+**Ans: B. Business class. Business class does not constitute the social base of the Communist Party in India. The Communist Party opposes capitalism while the business class supports capitalism. Thus, this class does not constitute the social base of this party.**
+
+</details>
+
+**Q56. UPPCS (Pre) 1997**
+
+The principle of ‘Kamaraj Plan’ was-
+
+A. To Establish an ideal socialist society
+B. Industrial Development of Tamil Nadu
+C. Making Indian National Congress Vibrant
+D. Promotion of cooperative farming
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** K. Kamaraj's 1963 plan sought to revitalise the Congress organisation by moving senior leaders into party work.
+
+**Ans: C. Making Indian National Congress Vibrant. ‘Kamaraj Plan’ was prepared in 1963 by K. Kamaraj, then the President of the Indian National Congress. This plan was prepared to make the Indian National Congress vibrant.**
+
+</details>
+
+**Q57. RPSC (Pre) 2018**
+
+Consider following statements about Electoral Bond Scheme 2018: (A) The aim of this scheme is to bring about transparency in the funding process of political parties. (B) Only the political parties recognized by the Election Commission which secured not less than two percent of the votes polled in the last general election to the House of People or the Legislative Assembly of the State shall be eligible to receive the Electoral Bonds. (C) Electoral Bonds shall be valid for fifteen calendar days from the date of issue. (D) The Electoral Bond deposited by an eligible political party in its account shall be credited on the same day. Which of the above statements are correct?
+
+A. Only (A) and (B)
+B. Only (A), (B) and (C)
+C. Only (B), (C) and (D)
+D. Only (A), (C) and (D)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Under the 2018 scheme the eligibility threshold was 1%, not 2%; the bond was valid for 15 days and was credited the same day. The Supreme Court struck the scheme down in 2024.
+
+**Ans: D. Only A, C and D. Statement B is false because the scheme used a 1% vote threshold, not 2%; the scheme was later struck down in February 2024.**
 
 </details>
 
